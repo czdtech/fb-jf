@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: addiction-mini
-title: '[FR] Addiction Mini'
-description: >-
-  [FR] Addiction Mini distills solitaire‑style sequencing — place cards in
-  order, clear rows, and think several moves ahead.
-iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
+title: "Addiction Mini"
+description: "Addiction Mini est une version compacte du solitaire Addiction où tu réorganises les cartes pour former des suites complètes en planifiant plusieurs coups à l’avance."
+iframeSrc: "https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/"
 thumbnail: /new-images/addiction-mini.jpg
 tags:
   - card
@@ -15,29 +13,31 @@ score: 4.0/5  (1803 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Addiction Mini* reprend le principe des jeux de patience de la famille « Addiction / Monte Carlo ». Tu dois glisser les cartes pour compléter des suites dans le bon ordre, généralement par couleur ou par famille selon les règles du mode. En créant des espaces vides au bon endroit, tu ouvres des possibilités de déplacement supplémentaires et évites les situations bloquées.
 
+### Guide de jeu
 
+1. **Crée des espaces tôt :** libère rapidement quelques cases vides pour pouvoir réorganiser les cartes autour de ces emplacements.
+2. **Construis depuis les ancres :** commence tes suites à partir des cartes les plus basses autorisées, puis complète progressivement vers la droite.
+3. **Ne bloque pas les cartes clés :** évite d’enfermer des cartes importantes derrière des colonnes que tu ne peux plus déplacer.
+4. **Garde les échanges pour les crises :** s’il existe un nombre limité de mélanges ou d’échanges, utilise‑les pour résoudre plusieurs problèmes à la fois plutôt que pour un seul coup.
+5. **Pense plusieurs coups à l’avance :** visualise deux ou trois déplacements successifs avant de poser une carte, afin de ne pas te piéger toi‑même.
 
-### Detailed Game Introduction
+### Commandes
 
-Addiction Mini is a compact take on the Addiction/Monte Carlo family of patience games. Slide or place cards into increasing sequences by suit or color per mode rules, opening spaces and resolving deadlocks with careful planning.
+- Clique ou fais glisser une carte vers un emplacement valide pour la déplacer.
+- Utilise les boutons d’échange/mélange, d’annulation ou de réinitialisation si le mode en dispose.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** Open spaces: Create empty slots early to enable rearrangement.
-2.  **[FR]** Build from anchors: Start sequences at the lowest legal values and extend cleanly.
-3.  **[FR]** Avoid blocking keys: Don’t trap needed cards behind immovable structures.
-4.  **[FR]** Save swaps: Limited reshuffles/swaps should resolve multiple issues at once.
-5.  **[FR]** Think ahead: Visualize two to three placements in advance.
+- **Q : Que faire quand aucun coup légal n’est possible ?**  
+  **R :** Utilise un échange ou un mélange si tu en as encore. Sinon, il ne reste plus qu’à recommencer la partie.
 
-### Controls Guide
+- **Q : Les règles sont‑elles toujours les mêmes ?**  
+  **R :** Non, certaines variantes changent la manière dont les suites doivent être construites (par couleur, par famille, ordre strict, etc.). Lis les règles du mode avant de jouer sérieusement.
 
-- Drag or click to move cards per rules; use available swaps.
-- Undo/Reset if provided.
+- **Q : Toutes les parties sont‑elles gagnables ?**  
+  **R :** Beaucoup de distributions sont solvables avec un bon plan, mais certaines peuvent être très difficiles ou quasiment impossibles. Le cœur du jeu, c’est justement d’optimiser chaque position.
 
-### Frequently Asked Questions (FAQ)
-
-- No moves left—what now? Use a swap/shuffle if available or restart.
-- Strict rules? Variants differ; read each mode’s constraints.
-- Is it winnable? Many deals are solvable with accurate planning.

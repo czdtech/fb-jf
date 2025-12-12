@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: rock-paper-scissors-dojo
-title: '[DE] Rock Paper Scissors Dojo'
+title: "Rock Paper Scissors Dojo"
 description: >-
-  [DE] Rock Paper Scissors Dojo is a quirky duel — read patterns, mix
-  strategies, and outwit opponents in best‑of series.
+  Rock Paper Scissors Dojo macht aus Schere-Stein-Papier ein kleines
+  Mindgame: Lies die Muster deiner Gegner, mische deine Strategien und gewinne
+  Best-of-Duelle durch kluge Vorhersagen.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
 thumbnail: /new-images/rock-paper-scissors-dojo.png
 tags:
@@ -15,35 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Rock Paper Scissors Dojo verwandelt das einfache Schere-Stein-Papier in ein
+ leichtes Psychospiel. In Best-of-Serien versuchst du, Muster zu erkennen –
+ etwa ob dein Gegner nach einem Sieg wiederholt oder nach einer Niederlage
+ wechselt – und mit gemischten Strategien zu antworten, ohne selbst
+ berechenbar zu werden.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Rock Paper Scissors Dojo turns RPS into a light mind‑game. Across best‑of matches, you’ll try to detect tendencies (e.g., opponents repeat after wins, switch after losses) and counter with mixed strategies that avoid being predictable.
+1.  **Ausgewogener Start-Mix:** Nutze zu Beginn eine annähernd zufällige
+    Verteilung deiner Züge, damit du nicht sofort ausrechenbar bist.
+2.  **Muster erkennen:** Achte darauf, ob dein Gegner nach einem Sieg denselben
+    Zug wiederholt oder nach einer Niederlage zu einer anderen Option wechselt.
+3.  **Gegenanpassen:** Wiederholt der Gegner nach Siegen, kannst du im
+    Folgedurchgang gezielt kontern. Wechselt er nach Niederlagen, erwarte den
+    Wechsel und wähle entsprechend.
+4.  **Meta-Reset:** Wirf hin und wieder einen komplett unerwarteten Zug ein, um
+    die „Lesung“ deines Musters zu durchbrechen.
+5.  **Serien berücksichtigen:** In Best-of-N-Serien wie Best-of-3 oder
+    Best-of-5 zählt vor allem das Timing – spiele in entscheidenden Runden
+    besonders konzentriert.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Baseline mix: Use a balanced random mix to avoid exploitation early.
-2.  **[DE]** Pattern spotting: Track opponent streaks — repeaters vs switchers.
-3.  **[DE]** Counter‑adapt: If they repeat after wins, pre‑counter next round; if they switch after losses, anticipate the switch.
-4.  **[DE]** Meta resets: Throw an occasional off‑pattern choice to reset reads.
-5.  **[DE]** Series math: In best‑of N, tighten play near deciding rounds.
+- Wähle in jeder Runde Stein, Papier oder Schere per Klick oder Tipp. In vielen
+  Versionen gibt es auch einen lokalen Zwei-Spieler-Modus am selben Gerät.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Pick rock/paper/scissors each round; local two‑player often available.
+- **F: Ist Schere-Stein-Papier nicht reiner Zufall?**
+  
+  Menschen haben Vorlieben und Muster. Wer sie erkennt, kann über viele Runden
+  seine Gewinnrate deutlich steigern.
 
-### Frequently Asked Questions (FAQ)
+- **F: Gibt es eine unbesiegbare Strategie?**
+  
+  Nein, aber ein ausgewogener Mix und schnelles Anpassen an das Verhalten des
+  Gegners sind sehr robuste Ansätze.
 
-- Q: Isn’t RPS random?
-
-A: Humans show biases; exploiting them raises win rate over many rounds.
-
-- Q: Any unbeatable strategy?
-
-A: No — but balanced mixes and quick adaptation are robust.
-
-- Q: Two‑player?
-
-A: Many builds include local 2P on one device.
-
+- **F: Kann ich zu zweit spielen?**
+  
+  Viele Versionen bieten einen lokalen 2‑Spieler-Modus, bei dem ihr gleichzeitig
+  am selben Gerät antretet.

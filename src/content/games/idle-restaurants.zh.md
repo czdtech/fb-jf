@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: idle-restaurants
-title: '[ZH TRANSLATION NEEDED] Idle Restaurants'
-description: >-
-  [ZH TRANSLATION NEEDED] Build your own restaurant empire in this addictive
-  idle game! Hire chefs, upgrade your kitchen and tables, and automate your
-  business to become a culinary tycoon.
+title: "《Idle Restaurants》放置餐厅大亨"
+description: "在《Idle Restaurants》中，你要从一家小餐馆起步，雇佣厨师与服务员、升级厨房和餐桌、引入经理实现自动化，逐步扩张为遍布各地的餐饮帝国。"
 iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
 thumbnail: /new-images/idle-restaurants.png
 tags:
@@ -17,32 +14,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Idle Restaurants is a classic idle management game that puts you in charge of building a culinary empire from the ground up. You start with a small, humble diner and must strategically invest your earnings to grow your business. By upgrading your tables, chefs, and waiters, you can increase your efficiency and profits. The ultimate goal is to automate your workflow by hiring managers and expand your enterprise by opening new, more profitable restaurants.
+《Idle Restaurants》是一款经典的放置经营游戏，你将从一家小而普通的路边餐厅开始，亲手打造属于自己的餐饮帝国。顾客进门落座、厨师备菜、服务员上菜、顾客结账——每一个环节都可以通过升级提升效率。随着收入增长，你可以不断扩充餐桌、强化后厨、提高服务速度，并在适当时机雇佣经理，让整个餐厅在你离线时也能自动运转。最终目标是开设更多、更高档的新餐厅，形成多店联营的庞大生意版图。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Restaurant Workflow:** Understand the flow of money. Customers arrive and are seated -> The chef prepares their order -> The waiter delivers the food -> The customer pays. Each step in this chain can be upgraded.
-2.  [ZH TRANSLATION NEEDED] **Balanced Upgrades:** To maximize your income, you need a balanced operation. It's no use having super-fast chefs if you don't have enough tables for customers, or if your waiters are too slow to deliver the food. Try to upgrade your tables, kitchen, and waiters in tandem.
-3.  [ZH TRANSLATION NEEDED] **Automate Everything:** The key to an idle game is making money while you're away. As soon as you can, hire managers for each station. The manager will automatically collect earnings for you, ensuring a constant stream of income.
-4.  [ZH TRANSLATION NEEDED] **Know When to Expand:** Your long-term goal is to save up enough money to open a new restaurant. Each new restaurant you unlock will have a much higher earning potential than the last. Once upgrades in your current restaurant become very expensive, it's time to focus on saving for the next one.
+### 游戏玩法与攻略
+1.  **熟悉“钱流”的运作链路**：顾客入座 → 厨师做菜 → 服务员上菜 → 顾客“吃完付款” → 你获得收入。任何一个环节过慢都会拖累整体效率，升级时要始终围绕这条链路思考。
+2.  **保持各环节升级均衡**：如果厨师做菜飞快但桌子数量不足，顾客就会在门口排队；反过来桌子开了很多、上菜速度却很慢，也会造成翻台效率不高。尽量让餐桌数量、后厨产能和服务员配送速度保持在相近水平。 
+3.  **尽早实现全流程自动化**：只要资金允许，尽快为各个关键岗位雇佣经理，让他们自动收钱、安排工人，确保即便你不在线，餐厅也能持续赚钱，是放置玩法的核心。
+4.  **把握扩张时机**：当单店升级成本已经非常高，每次升级带来的提升有限时，就可以考虑暂缓继续砸钱，专心存款以解锁下一家新餐厅。新店的基础收入通常远高于旧店，是整体成长的关键节点。 
 
-### Controls Guide
+### 操作说明
 
-[ZH TRANSLATION NEEDED] The entire game is played by clicking or tapping on various buttons.
+整款游戏通过点击或轻触即可完成操作：
 
-*   **Upgrade:** Click the upgrade buttons associated with the tables, the chef's station, or the waiters to improve their level and efficiency.
-*   **Hire Manager:** Click the manager icon for a station to hire them and automate that station's process.
-*   **Navigate:** Use the world map or restaurant list to switch between your different restaurant locations.
+*   **升级**：点击餐桌、后厨、服务员等区域旁的升级按钮，提高其等级与效率。  
+*   **雇佣经理**：在对应工作站的经理栏点击图标，花费资金雇人，实现自动运作。  
+*   **切换餐厅**：通过世界地图或餐厅列表，在不同分店之间自由切换管理。  
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: What is the fastest way to make money?**
-     *   **A:** Reinvesting your earnings into upgrades as quickly as possible. The faster you upgrade, the faster your income grows. This exponential growth is the core of the game.
+*   **Q: 怎么样赚得最快？**  
+    *   **A:** 核心思路是“尽快把钱投入升级”。只要升级能提升单位时间收入，就能缩短下一次升级所需的时间，从而形成滚雪球式增长。  
 
-*   **Q: What should I upgrade first?**
-     *   **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.
+*   **Q: 开局应该先升级哪里？**  
+    *   **A:** 建议先解锁足够的餐桌保证有客可坐，再略微提升厨师产能，保证菜品不会成为瓶颈。之后让服务员、餐桌和后厨三方同步提速，避免单点过度。  
 
-*   **Q: Why should I buy a new restaurant?**
-     *   **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.
-
+*   **Q: 为什么要花钱开新餐厅？**  
+    *   **A:** 新餐厅通常自带更高的基础收益，并可能为整体业务提供永久收益加成，是打破单店成长瓶颈、推动整体收入跃迁的关键步骤。

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: getaway-shootout
-title: '[ES] Getaway Shootout'
+title: "Getaway Shootout"
 description: >-
-  [ES] Chaotic physics race‑and‑shoot: hop your way to the getaway point, grab
-  goofy weapons, and outsmart rivals in 2‑player or solo.
+  Carrera y disparos con físicas caóticas: salta a golpes hasta el punto de
+  huida, recoge armas disparatadas y supera a tus rivales en solitario o en
+  modo 2 jugadores.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/getaway-shootout.jpg
 tags:
@@ -15,30 +16,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Getaway Shootout es un plataformas competitivo con físicas locas en el que los
+personajes avanzan a base de saltitos alternos. Cada ronda te sitúa en un mapa
+de desplazamiento lateral lleno de escaleras, plataformas móviles y cajas con armas. El
+objetivo es llegar antes que nadie al punto de extracción usando pistolas y
+artilugios de humor físico para fastidiar a tus rivales. El control torpe es
+parte del encanto: dominar la sincronización de los saltos, el impulso en las cuestas y
+los cambios de dirección en el aire es lo que gana carreras.
 
+### Cómo jugar
 
-### Overview
-Getaway Shootout is a competitive physics platformer where characters lurch forward with alternating hops. Each round drops you into a side‑scrolling map full of ladders, moving platforms, and weapon crates. The goal is to reach the extraction point first while using slapstick guns and gadgets to disrupt opponents. The awkward locomotion is the point: mastering hop timing, momentum on slopes, and mid‑air direction changes wins races.
+- Alterna los saltos para ganar velocidad; usa toques cortos para pasos
+  precisos y pulsaciones largas para grandes impulsos.
+- Abre cajas para conseguir armas como pistolas, lanzacohetes o artilugios y
+  utilízalos con cabeza.
+- Aprende atajos y ciclos de plataformas móviles para mantener la ventaja.
 
-### How to Play
-- Alternate hops to build speed; use short taps for micro‑steps and long holds for vaults.
-- Grab crates for weapons like pistols, rocket launchers, or gadgets; use them sparingly.
-- Learn map shortcuts and moving platform cycles to stay ahead.
+### Controles
 
-### Controls
-- Two keys to hop left/right; separate keys to use items (keybinds vary by host); supports local 2‑player.
+- Dos teclas para saltar hacia la izquierda/derecha y otras teclas separadas
+  para usar objetos (las teclas exactas dependen del portal); admite 2
+  jugadores en local.
 
-### Tips
-- On slopes, time longer holds to convert vertical gain into forward speed.
-- Fire weapons at chokepoints or while an opponent jumps—knockback is strongest mid‑air.
-- Practice starts: early acceleration often decides close races.
+### Consejos
 
-### FAQ
-- Q: How do I move faster with such clumsy controls?
-A: Use alternating long/short hops and leverage slopes for momentum.
-- Q: Can I play with a friend on one keyboard?
-A: Yes, most hosts map a second control set for local multiplayer.
-- Q: Do weapons respawn during a round?
-A: Crates respawn on timers; memorize placements to plan routes.
+- En las cuestas, calcula pulsaciones más largas para transformar la subida en
+  velocidad hacia delante.
+- Dispara en embudos o cuando el rival esté saltando: el retroceso es más
+  fuerte en el aire.
+- Practica las salidas; una aceleración temprana suele decidir las carreras más
+  igualadas.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo me muevo más rápido con controles tan torpes?**  
+  **R:** Alterna saltos largos y cortos y aprovecha las pendientes para ganar
+  inercia.
+
+- **P: ¿Puedo jugar con un amigo en el mismo teclado?**  
+  **R:** Sí, la mayoría de versiones asignan un segundo esquema de controles
+  para multijugador local.
+
+- **P: ¿Las armas reaparecen durante la ronda?**  
+  **R:** Las cajas suelen reaparecer tras un tiempo; memoriza sus posiciones
+  para planificar la ruta.

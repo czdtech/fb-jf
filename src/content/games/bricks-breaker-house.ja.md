@@ -1,75 +1,43 @@
 ---
+title: "Bricks Breaker House ブリックス・ブレイカー・ハウス"
+description: "「Bricks Breaker House」は優しいテーマのブロック崩し。角度を操り、パワーアップを活用し、家を守りながらレンガを崩そう。"
+iframeSrc: "https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/"
+thumbnail: "/new-images/bricks-breaker-house.png"
+urlstr: "bricks-breaker-house"
+score: "3.8/5  (1679 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bricks-breaker-house
-title: '[JA TRANSLATION NEEDED] Bricks Breaker House'
-description: >-
-  [JA TRANSLATION NEEDED] Bricks Breaker House adds cozy themes to
-  brick‑breaking — craft angles, juggle power‑ups, and keep the house standing.
-iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
-thumbnail: /new-images/bricks-breaker-house.png
-tags:
-  - puzzle
-  - casual
-score: 3.8/5  (1679 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Bricks Breaker House（ブリックス・ブレイカー・ハウス）*は、馴染み深いブロック崩しに、穏やかで可愛らしいテーマを取り入れたゲームです。各ステージには新しい障害物やちょっとしたギミックが登場します。基本的なルールはクラシックです。ボールを落とさないように打ち返し、高得点のタイルを狙い、パワーアップアイテムを駆使してステージをクリアしていきましょう。
 
-### Detailed Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Bricks Breaker House is a themed brick‑breaker where each board introduces fresh obstacles and gentle twists. Your job is classic: keep volleys alive, route shots through high‑value tiles, and leverage power‑ups without losing control.
+1.  **安定した角度：** 30度〜45度くらいの角度で打ち返すと、ボールの軌道が読みやすく、制御しやすいループを作ることができます。
+2.  **パワーアップ活用：** 「パドル巨大化（Widen Paddle）」や「マルチボール」は特に強力で、難しい局面を安定させてくれます。
+3.  **裏道を作る：** 左右の端を崩してボールを天井裏に送り込めば、上部で反射を繰り返して一気にブロックを崩せます。
+4.  **無理に取りに行かない：** アイテムを取ろうとしてボールを落としてしまっては元も子もありません。危険な時はアイテムを諦めましょう。
+5.  **角度を開拓する：** 密集している場所では、新しい射線（ボールの通り道）を作れるようなブロックを優先して壊しましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Aim for controlled caroms around 30–45° to keep predictable loops.
-[JA TRANSLATION NEEDED] 2.  Use widen‑paddle and multi‑ball to stabilize difficult waves.
-[JA TRANSLATION NEEDED] 3.  Carve side alleys to trap the ball near the ceiling for extended damage.
-[JA TRANSLATION NEEDED] 4.  Don’t over‑pursue bonuses if they jeopardize a catch.
-[JA TRANSLATION NEEDED] 5.  On tight boards, prioritize clearing bricks that open new angles.
+*   **移動：** マウス、タッチ、またはキーボード（A/Dキー、矢印キー）でパドルを左右に動かします。
+*   **発射：** スペースキーまたはクリックでボールを発射（サーブ）します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Move paddle with A/D or Left/Right; mouse/touch controls supported.
-- Serve with Space/Click; catch power‑ups on the paddle.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Which upgrades should I prioritize?
+- **Q: どのアイテムを優先すべきですか？**
   
-[JA TRANSLATION NEEDED]   A: Widen‑paddle and multi‑ball are the safest; speed boosts are riskier.
+  A: 「パドル巨大化」と「マルチボール」が最も安定して効果的です。スピードアップ系は制御が難しくなるので慎重に。
 
-- Q: How do I deal with narrow tunnels?
+- **Q: 狭い隙間に入ったボールが速くて返せません。**
   
-[JA TRANSLATION NEEDED]   A: Serve a modest angle and prepare for rapid rhythmic catches.
+  A: 焦らず、ボールが戻るリズムに合わせてパドルをわずかに動かす“待ち”の姿勢で受けましょう。
 
-- Q: Is there a best serve angle?
+- **Q: 最初に発射する時のベストな角度は？**
   
-
-
-
-
-
-- Q: Which upgrades should I prioritize?
-### よくある質問（FAQ）
-- Serve with Space/Click; catch power‑ups on the paddle.
-- Move paddle with A/D or Left/Right; mouse/touch controls supported.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Mid angles (30–45°) usually provide the best balance of control and coverage.
-
-
-
-
-
-
-A: Mid angles (30–45°) usually provide the best balance of control and coverage.
-- Q: Is there a best serve angle?
-A: Serve a modest angle and prepare for rapid rhythmic catches.
-- Q: How do I deal with narrow tunnels?
-
-
-
-
-A: Mid angles (30–45°) usually provide the best balance of control and coverage.
-- Q: Is there a best serve angle?
-A: Serve a modest angle and prepare for rapid rhythmic catches.
+  A: 真ん中すぎず端すぎない 30〜45 度付近が、カバー範囲と制御のバランスが良くおすすめです。

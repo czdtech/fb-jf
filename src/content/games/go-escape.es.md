@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: go-escape
-title: '[ES] Go Escape'
+title: "Go Escape"
 description: >-
-  [ES] Go Escape is a precise escape‑platformer — time jumps, read traps, and
-  thread safe routes through compact rooms.
+  Go Escape es un plataformas de escape milimétrico: calcula saltos, lee las
+  trampas y encuentra rutas seguras a través de habitaciones compactas.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/go-escape.png
 tags:
@@ -16,34 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Go Escape es un plataformas minimalista de escape por habitaciones: pinchos,
+sierras móviles y compuertas temporizadas exigen entradas muy precisas y mucha
+paciencia para leer patrones. Los niveles son cortos pero duros; la gracia está
+en dominar el ritmo de cada sala y luego ejecutar una pasada limpia.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and timed gates demand crisp inputs and patient reads. Levels are short but punishing; the fun lies in mastering each room’s rhythm, then executing a clean run.
+1. **Lee los ciclos:** Observa un ciclo completo de las trampas antes de
+   lanzarte; muévete siguiendo tiempos predecibles.
+2. **Saltos cortos:** Prioriza toques pequeños y precisos frente a pulsaciones
+   largas que te hagan pasarte.
+3. **Buffer de entradas:** Si el juego lo permite, pulsa un pelín antes para
+   engancharte mejor a las ventanas de movimiento de plataformas.
+4. **Rutas seguras:** Elige primero caminos algo más lentos pero seguros para
+   conseguir superaciones consistentes.
+5. **Mentalidad de checkpoints:** Divide mentalmente cada sala en secciones y
+   resetea la concentración tras superar cada una.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Read cycles: Watch a full trap cycle before committing; move on predictable beats.
-2.  **[ES]** Short hops: Prefer small taps for precision over full presses that overshoot.
-3.  **[ES]** Buffer inputs: If supported, press slightly early to catch platform windows.
-4.  **[ES]** Route safety: Take slower, safer lanes first for consistent clears.
-5.  **[ES]** Checkpoint mindset: Mentally segment rooms; reset focus after each success.
+- Movimiento/Salto: Flechas o WASD + barra espaciadora; algunos niveles añaden
+  salto en pared o doble salto.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move/Jump: Arrows/WASD + Space; some levels add wall‑jump/double‑jump.
+- **P: Siempre rozo las trampas, ¿cómo lo evito?**  
+  **R:** Estás moviéndote a ciegas. Observa los ciclos, cuenta los tiempos y
+  desplázate solo cuando tengas ventanas claras.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Algún consejo para pasar por huecos muy estrechos?**  
+  **R:** Usa toques ligeros y entra con un ángulo lo más plano posible.
 
-- Q: I keep clipping traps — how to stop?
-
-A: You’re moving on guesses. Watch cycles, count beats, and move only on consistent windows.
-
-- Q: Any tip for narrow gaps?
-
-A: Use lightweight taps and approach from flatter angles.
-
-- Q: Is there a timer?
-
-A: Many rooms are untimed; consistency beats speedruns until you learn layouts.
+- **P: ¿Hay límite de tiempo?**  
+  **R:** Muchas salas no están cronometradas; al principio compensa más ser
+  constante que hacer speedrun hasta conocer bien el diseño.

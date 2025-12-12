@@ -1,82 +1,44 @@
 ---
-locale: ja
-urlstr: emoji-fun
-title: '[JA TRANSLATION NEEDED] Emoji Fun'
-description: >-
-  [JA TRANSLATION NEEDED] A creative puzzle game of associations! Connect the
-  pairs of related emojis by drawing a line between them. Think outside the box
-  to solve each unique puzzle.
+title: Emoji Fun 絵文字ファン
+description: 「Emoji Fun」は連想力を試すパズルゲーム。関連する絵文字のペアを見つけて線で繋ごう。柔軟な発想でユニークなパズルを解き明かせ。
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
 thumbnail: /new-images/emoji-fun.png
+urlstr: emoji-fun
+score: 4.3/5  (2100 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.3/5  (2100 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Emoji Fun（絵文字ファン）*は、連想力と創造的思考を試すパズルゲームです。各レベルでは、2列に並んだ絵文字が表示されます。プレイヤーの仕事は、それらの関係性を見抜き、正しいペアを線で繋ぐことです。
+繋がりは直接的なもの（靴下と足など）もあれば、概念的なもの（幽霊とお化け屋敷など）もあります。論理的思考と柔軟な発想が求められる、楽しい頭の体操です。
 
-[JA TRANSLATION NEEDED] Emoji Fun is a creative and thought-provoking puzzle game based on associations. In each level, you are presented with two columns of emojis. Your task is to figure out the relationship between them and draw lines to connect the correct pairs. The connections can be literal (like a sock and a foot) or conceptual (like a ghost and a haunted house). It's a fun test of your logic and lateral thinking.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **明白なペアから:** まずは最も直接的で分かりやすい組み合わせを探しましょう。「ピーナッツと象」「蜂蜜とミツバチ」のような明確なペアを繋げば、残りの選択肢が絞られます。
+2.  **抽象的に考える:** すべてのペアが文字通りの関係とは限りません。「何に使うか」「どこから来るか」「何を象徴するか」を考えましょう。例えば、本と図書館、王冠と王様などです。
+3.  **消去法:** いくつかペアを繋いだら、両側の絵文字が減ります。消去法を使って、残りの難しい組み合わせを推理しましょう。
+4.  **時間制限なし:** これはリラックスして楽しむゲームです。じっくり時間をかけて関係性を考えましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Find the Obvious Pairs First:** Start by scanning for the most direct and obvious connections. Matching pairs like "peanut" and "elephant" or "honey" and "bee" will help you narrow down the remaining options.
-[JA TRANSLATION NEEDED] 2.  **Think Abstractly:** Not all pairs are literal. You might need to think about what things are used for, where they come from, or what they represent. For example, you might connect a book to a library or a crown to a king.
-[JA TRANSLATION NEEDED] 3.  **Process of Elimination:** Once you have connected a few pairs, you will have fewer emojis left on each side. Use the process of elimination to help you figure out the final, more difficult connections.
-[JA TRANSLATION NEEDED] 4.  **No Time Pressure:** This is a relaxing game. Take your time to think about the relationships between the images.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with a simple drag-and-drop mechanic.
-
-*   **Connect Emojis:** Click and hold on an emoji in one column, then drag your finger or mouse to the related emoji in the other column to draw a connecting line.
-    - **A:** To correctly connect all the pairs of related emojis on the screen to complete the level.（日本語訳が必要）
-    - **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.（日本語訳が必要）
-    - **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).（日本語訳が必要）
-    - **A:** To correctly connect all the pairs of related emojis on the screen to complete the level.（日本語訳が必要）
-    - **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.（日本語訳が必要）
-    - **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** To correctly connect all the pairs of related emojis on the screen to complete the level.
-
-*   **Q: What happens if I draw a line to the wrong emoji?**
-[JA TRANSLATION NEEDED]     *   **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
-
-*   **Q: I don't understand the connection between two emojis.**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
+### 操作ガイド
 
 
+The game is played with a simple drag-and-drop mechanic.
+*   **絵文字を繋ぐ:** 片方の列の絵文字をクリック（長押し）し、もう片方の列の関連する絵文字までドラッグして線を引きます。
 
+### よくある質問 (FAQ)
 
+*   **Q: ゲームの目的は何ですか？**
+    *   **A:** 画面上のすべての関連する絵文字のペアを正しく繋いで、レベルをクリアすることです。
 
+*   **Q: 間違った絵文字に線を引いたらどうなりますか？**
+    *   **A:** 線が消えるか、赤くなって不正解を示します。ペナルティなしで再挑戦できます。
 
-
-
-
-    - **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
-- **Q: I don't understand the connection between two emojis.**
-    - **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
-- **Q: What happens if I draw a line to the wrong emoji?**
-    - **A:** To correctly connect all the pairs of related emojis on the screen to complete the level.
-- **Q: What is the goal of the game?**
-### よくある質問（FAQ）
-- **Connect Emojis:** Click and hold on an emoji in one column, then drag your finger or mouse to the related emoji in the other column to draw a connecting line.
-
-
-
-
-
-
-    - **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
-- **Q: I don't understand the connection between two emojis.**
-    - **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
-- **Q: What happens if I draw a line to the wrong emoji?**
-    - **A:** To correctly connect all the pairs of related emojis on the screen to complete the level.
+*   **Q: 2つの絵文字の繋がりが分かりません。**
+    *   **A:** 柔軟に考えましょう！繋がりは「動作」（ボールとゴール）、「因果関係」（種と木）、「共通概念」（犬と骨）などかもしれません。

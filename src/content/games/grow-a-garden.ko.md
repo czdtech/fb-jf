@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: grow-a-garden
-title: '[KO] Grow a Garden'
+title: Grow a Garden 정원 가꾸기 시뮬레이션
 description: >-
-  [KO] Discover the relaxing world of gardening games with our comprehensive
-  guide. Learn the core gameplay of planting, growing, and harvesting, plus get
-  tips and strategies to create your dream garden.
+  여유롭게 즐기는 정원 가꾸기 게임들의 세계를 소개하는 가이드입니다. 씨를 심고, 기르고, 수확하는 기본 플레이부터, 꿈꾸는 정원을 만들기
+  위한 전략과 팁까지 한눈에 정리해 드립니다.
 iframeSrc: 'https://growden.io/'
 thumbnail: /growagarden-min.jpeg
 tags:
@@ -19,54 +18,100 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Grow a Garden Game Introduction**
+### **Grow a Garden 게임 소개**
 
-"Grow a Garden" is a general name for a category of relaxing simulation games. In these games, players take on the role of a gardener or farmer, with the core objective of creating, managing, and beautifying their own garden or farm by planting various plants (like flowers, vegetables, and fruits).
+`Grow a Garden`는 느긋하게 즐기는 정원/농장 가꾸기 시뮬레이션 게임들을 통칭하는
+이름입니다. 플레이어는 정원사 또는 농부가 되어, 꽃·채소·과일 등 다양한 식물을
+심고 키우며 자신만의 정원이나 농장을 꾸미고 관리하는 역할을 맡게 됩니다.
 
-The game typically starts with a small, empty plot of land. Players must go through a series of gardening activities, including **tilling the soil, sowing seeds, watering, and fertilizing**, and then wait patiently for the plants to mature. Harvested plants can be sold for in-game currency or used to fulfill specific orders and quests. The earned currency can then be used to buy more types of seeds, better tools, decorations (like fences, fountains, paths) to expand and beautify the garden, or unlock new plots of land.
+일반적으로 게임은 작은 빈 땅 한 조각에서 시작합니다. 플레이어는 **땅을 갈고,
+씨를 뿌리고, 물을 주고, 비료를 주는** 과정을 거쳐 식물이 성장할 때까지
+기다려야 합니다. 수확한 작물은 게임 내 화폐로 판매하거나, 주문/퀘스트를
+완수하는 데 사용할 수 있습니다. 이렇게 번 수익으로 더 다양한 씨앗과
+고급 도구, 울타리·분수·길 등 장식을 구입해 정원을 확장·미화하거나,
+새로운 땅을 잠금 해제할 수 있습니다.
 
-These games usually feature a slow pace and a relaxing atmosphere, emphasizing the joy of creation and long-term progression rather than fast-paced challenges. They often include the following elements:
-*   **[KO]** **A wide variety of plants**: From common roses and sunflowers to various vegetables and fruits, each with different growth times and values.
-*   **[KO]** **Upgrade system**: Players can upgrade tools (like watering cans, shovels) to increase efficiency or upgrade their barn/silo to store more items.
-*   **[KO]** **Quest and order system**: NPCs or an order board will post tasks, requiring players to submit specific quantities of crops for rewards.
-*   **[KO]** **Decoration and customization**: A rich selection of decorative items allows players to freely design and arrange the layout and appearance of their garden according to their preferences.
+이 계열 게임은 대체로 느린 진행과 편안한 분위기를 지향하며, 빠른 손놀림보다는
+창조와 장기적인 성장의 즐거움에 초점을 맞춥니다. 보통 다음과 같은 요소들을
+포함합니다.  
+* **다양한 식물**: 장미·해바라기 같은 꽃부터 각종 채소·과일까지, 성장 시간과
+  가치가 서로 다른 식물들이 준비되어 있습니다.  
+* **업그레이드 시스템**: 물뿌리개, 삽 같은 도구를 업그레이드해 효율을 높이거나,
+  창고· silo 를 확장해 더 많은 아이템을 보관할 수 있습니다.  
+* **퀘스트/주문 시스템**: NPC나 주문 게시판이 특정 작물을 일정 개수 제출하라는
+  요청을 내고, 이를 완료하면 보상과 경험치를 얻습니다.  
+* **장식과 커스터마이징**: 울타리, 길, 장식물 등 다양한 꾸미기 아이템을
+  배치해, 자신의 취향에 맞는 정원 레이아웃과 분위기를 만들 수 있습니다.
 
-### **Gameplay Strategy & Tips**
+### **게임 플레이 전략 & 팁**
 
-1.  **[KO]** **Manage Your Time and Resources**: In the early game, your money and energy (if the game has an energy system) are limited. Prioritize planting crops with **short growth times and quick returns**. This will help you quickly accumulate initial capital to unlock more land and features.
-2.  **[KO]** **Pay Attention to the Order Board**: Don't plant blindly. Always check the requirements on the quest or order board and plant the necessary crops. Fulfilling orders not only earns you coins but also often comes with experience points and rare items, which are key to leveling up and progressing quickly.
-3.  **[KO]** **Plan Your Garden Layout**: Before you start planting on a large scale, take some time to plan your layout. Separating crop areas, decorative zones, and functional buildings (like the barn or greenhouse) can make your garden both beautiful and efficient. Consider planting crops with similar growth times together for easier harvesting.
-4.  **[KO]** **Don't Let Land Go Idle**: An empty plot of land means zero output. Try to ensure that every tilled plot is always growing something. Before you log off, plant some long-duration crops, so they will be ready to harvest the next time you log in.
-5.  **[KO]** **Upgrading is Productivity**: As soon as you have enough funds, prioritize upgrading your key tools and facilities.
-    *   **[KO]** **Upgrade the Watering Can**: Allows you to water more plots at once, saving a significant amount of time and energy.
-    *   **[KO]** **Upgrade the Barn/Silo**: Lets you store more harvested crops and items, preventing you from having to sell them cheaply because your storage is full.
-    *   **[KO]** **Upgrade Tools**: Allows you to till soil and harvest faster.
-6.  **[KO]** **Take Advantage of Special Events**: Many gardening games host regular special events, such as planting rare flowers or completing festive orders. Actively participating in these events can often yield high-value rewards that are difficult to obtain through normal gameplay.
+1. **시간·자원 관리**  
+   초반에는 자금과 (있는 경우) 에너지가 모두 부족합니다. **성장 시간이 짧고
+   회전율이 빠른 작물**을 우선 심어 초기 자본을 빠르게 모으고, 그 이후에
+   땅을 확장하거나 고가 작물에 투자하는 것이 좋습니다.
 
-### **Controls Guide**
+2. **주문 게시판 확인하기**  
+   무작정 예쁜 작물만 심기보다는, 퀘스트/주문 게시판에 어떤 작물이 필요한지
+   먼저 확인하고 필요한 품목 위주로 심는 것이 효율적입니다. 주문을 완수하면
+   코인뿐 아니라 경험치와 희귀 아이템을 함께 주는 경우가 많아, 빠른 성장에
+   큰 도움이 됩니다.
 
-The controls for these games are typically based on simple clicks and drags.
+3. **정원 레이아웃 계획하기**  
+   대규모로 심기 전에 전체 배치를 가볍게 설계해 두면 좋습니다. 작물 구역,
+   장식 구역, 창고·가공 건물처럼 기능 구역을 나눠 두면 보기에도 좋고 관리도
+   편해집니다. 성장 시간이 비슷한 작물을 같은 구역에 모아 심으면 수확 타이밍을
+   맞추기에도 좋습니다.
 
-*   **[KO]** **Click/Tap**:
-    *   **[KO]** Click on an empty plot to till it.
-    *   **[KO]** Click on the toolbar to select seeds, a watering can, or other tools.
-    *   **[KO]** Click on mature plants to harvest them.
-    *   **[KO]** Click on menus and buttons in the user interface.
-*   **[KO]** **Drag and Drop**:
-    *   **[KO]** Drag seeds from the shop or inventory onto a tilled plot to plant them.
-    *   **[KO]** Press and hold a tool like a watering can and drag it across multiple plots for continuous action (e.g., watering).
-    *   **[KO]** Move and place decorations in your garden.
+4. **땅을 놀리지 않기**  
+   빈 땅은 곧 “수익 0”입니다. 가능한 한 모든 경작지에 항상 무언가가 자라고
+   있도록 유지하세요. 게임을 끄기 전에 접속을 오래 못 할 것 같다면, 성장
+   시간이 긴 작물을 심어 두면 다음 접속 때 효율적으로 수확할 수 있습니다.
 
-### **Frequently Asked questions (FAQ)**
+5. **업그레이드는 곧 생산성**  
+   자금에 여유가 생기면, 핵심 설비를 우선 업그레이드하세요.  
+    - **물뿌리개 업그레이드**: 한 번에 물을 줄 수 있는 칸 수가 늘어나 시간과
+     에너지를 크게 절약합니다.  
+    - **창고/ silo 확장**: 보관 공간이 넉넉할수록 헐값에 급매하지 않고, 주문에
+     맞춰 여유 있게 작물을 모아 둘 수 있습니다.  
+    - **기본 도구 업그레이드**: 땅 갈기와 수확 속도가 빨라져, 많은 땅을
+     관리하기 쉬워집니다.
 
-**1. Should I buy seeds or decorations first?**
-In the early game, **always prioritize buying seeds and expanding your land**. Decorations make your garden look nice, but they don't generate income. Only start focusing on beautification once you have a steady stream of income.
+6. **이벤트 적극 활용**  
+   많은 정원 게임은 기간 한정 이벤트(희귀 꽃 심기, 시즌 퀘스트)를 진행합니다.
+   평소에는 얻기 힘든 아이템이나 장식을 이벤트 보상으로 주는 경우가 많으니,
+   가능하면 빠짐없이 참여해 두는 것이 좋습니다.
 
-**2. Why did my plants wither?**
-In some games, if plants are not watered or harvested in time after they mature, they will wither. This can result in reduced profits or a total loss of the crop. Be sure to pay attention to the growth cycles and needs of each plant.
+### **조작 가이드**
 
-**3. How can I make money quickly?**
-The fastest way is to focus on completing high-value orders and planting the most profitable crops required for those orders. Also, ensure your production chain (from planting to harvesting) is uninterrupted to maximize land-use efficiency.
+이 계열 게임의 조작은 대부분 간단한 클릭과 드래그로 이루어집니다.
 
-**4. Does the game need to be online all the time?**
-Most modern gardening games support **offline growth**. This means that after you plant your crops, time will continue to pass even if you close the game, and the plants will continue to grow. This is why it's recommended to plant long-cycle crops before you log off.
+* **클릭/탭**:  
+    - 빈 땅을 클릭해 갈기  
+    - 툴바에서 씨앗, 물뿌리개, 기타 도구 선택  
+    - 다 자란 작물을 클릭해 수확  
+    - UI 메뉴/버튼 선택  
+* **드래그 앤 드롭**:  
+    - 상점이나 가방에서 씨앗을 끌어 경작지 위에 놓아 심기  
+    - 물뿌리개 등 도구를 누른 채 여러 칸을 쓸어 지나가며 연속 작업하기  
+    - 장식물을 끌어 위치를 옮기거나 새로 배치하기  
+
+### **자주 묻는 질문(FAQ)**
+
+**1. 씨앗이랑 장식, 무엇을 먼저 사야 하나요?**  
+초반에는 항상 **씨앗 구매와 땅 확장**이 우선입니다. 장식은 수익을 늘려 주지
+못하므로, 안정적인 수입 구조를 만든 뒤에 천천히 투자해도 늦지 않습니다.
+
+**2. 왜 작물이 시들어 버렸나요?**  
+일부 게임에서는 작물이 다 자란 뒤 일정 시간 동안 물을 주지 않거나 수확하지
+않으면 시들어 버립니다. 작물마다 성장·유지 시간이 다르므로, 정보 창에서
+주기를 확인하고 적시에 돌봐 주세요.
+
+**3. 빨리 돈을 벌고 싶습니다. 어떻게 해야 하나요?**  
+가장 수익이 높은 주문과 그에 필요한 작물에 집중하는 것이 가장 빠릅니다.
+심기 → 수확 → 주문 납품의 생산 사이클이 끊기지 않도록 관리해, 땅이 놀지
+않게 하는 것도 중요합니다.
+
+**4. 항상 온라인 상태여야 하나요?**  
+대부분의 정원 시뮬레이션은 **오프라인 성장**을 지원합니다. 씨를 심어 두면
+게임을 꺼도 시간이 흐르며 자라기 때문에, 접속 종료 전에 성장 시간이 긴
+작물을 심어 두는 것이 효율적입니다.

@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bloxorz
-title: '[KO] Bloxorz Magic'
+title: 'Bloxorz Magic 블록소르즈 매직'
 description: >-
-  [KO] Guide your rectangular block through challenging 3D puzzles in Bloxorz.
-  Navigate fragile tiles, operate switches, split your block in two, and
-  carefully roll to the exit hole in this classic brain-teasing game.
+  직사각형 블록을 굴려 스테이지 끝의 구멍까지 보내는 3D 퍼즐 게임 Bloxorz
+  Magic입니다. 떨어지기 쉬운 발판과 각종 스위치, 블록 분할 기믹을 이용해
+  정교하게 굴려 나가야 하는 두뇌 풀가동 퍼즐을 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/bloxorz.jpg
 tags:
@@ -15,58 +15,93 @@ score: 3.9/5  (922 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bloxorz는 1x2x1 크기의 직사각형 블록을 조작해 공중에 떠 있는 발판들을 지나
+스테이지 끝에 있는 정사각형 구멍으로 정확히 떨어뜨리는 3D 퍼즐 게임입니다.
+블록을 한 칸씩 굴려 이동하는 과정에서, 조금만 계산을 잘못하면 발판 밖으로
+떨어져 버리기 때문에 매 수를 신중히 생각해야 합니다.
 
+게임은 총 33개의 스테이지로 구성되어 있으며, 뒤로 갈수록 난이도가 높아지고
+새로운 기믹과 장애물이 추가됩니다. 스테이지를 클리어하려면 블록이 세로로
+세워진 상태(1x1 칸 하나만 차지하는 상태)에서 목적지 구멍 위에 서 있어야
+정확히 빠져 내려갈 수 있습니다.
 
+플레이가 진행될수록 다양한 특수 타일과 스위치가 등장해 퍼즐성이 점점
+복잡해집니다.
 
+-   **취약 타일(주황색)**: 블록이 세워진 상태로 올라서면 무게가 한 칸에
+    집중되어 발판이 무너져 버립니다. 반드시 블록이 눕혀진 상태(두 칸에 걸쳐
+    있는 상태)로만 지나가야 안전하게 건널 수 있습니다.
+-   **스위치**: 다리나 추가 발판을 제어하는 세 가지 종류의 스위치가 있습니다.
+    -   **소프트 스위치 `()`**: 블록의 어느 부분이든 닿기만 하면 작동합니다.
+    -   **하드 스위치 `X`**: 블록이 세로로 서서 온전히 무게를 실어야만
+        작동합니다.
+    -   **분할 스위치 `<>`**: 블록이 눕혀진 상태로 이 스위치 위에 걸쳐지면,
+        블록이 두 개의 작은 1x1 큐브로 분할됩니다.
 
-### Game Introduction
+### 플레이 전략
 
-Bloxorz is a challenging 3D puzzle game where the objective is to maneuver a 1x2x1 rectangular block through a series of floating platforms and into a square hole at the end of the stage. The challenge lies in navigating the block by rolling it, ensuring it doesn't fall off the edges of the platforms.
+-   **충분히 생각하고 굴리기**  
+    Bloxorz는 한 수 앞, 두 수 앞을 읽는 것이 핵심인 퍼즐 게임입니다. 키를
+    누르기 전에 블록이 몇 칸을 이동해 어디에, 어떤 자세(눕거나 서 있는지)로
+    도착할지를 머릿속으로 그려 보세요. 서둘러 굴리다 보면 금방 발판 밖으로
+    떨어져 버리게 됩니다.
 
-The game consists of 33 stages, each progressively more difficult and introducing new mechanics and obstacles. To complete a level, the block must be standing upright (occupying a single 1x1 square) to fall perfectly into the 1x1 destination hole.
+-   **취약 타일 규칙 익히기**  
+    가장 중요한 규칙은 단 하나, **주황색 타일 위에 세워서 서지 말 것**입니다.
+    블록의 일부라도 주황색 타일 위에 올라간다면 반드시 눕혀진 자세를 유지해야
+    합니다. 세워진 상태로 올라가면 그대로 구멍 아래로 떨어집니다.
 
-The puzzle elements evolve through the introduction of special tiles and switches:
--   **Fragile Tiles (Orange):** These tiles will collapse if the block stands upright on them, as its entire weight is concentrated on a single square. The block must lie flat (distributing its weight over two squares) to safely cross them.
--   **Switches:** There are three types of switches that control bridges and platforms.
-    -   **Soft Switches (`()`):** Activated when any part of the block touches them.
-    -   **Hard Switches (`X`):** Can only be activated when the block is standing upright on them, applying its full weight.
-    -   **Splitting Switches (`<>`):** When the block lies flat across this switch, it splits into two smaller, independent 1x1 cubes.
+-   **스위치 특성을 이해하기**  
+    -   `()` 소프트 스위치는 그냥 지나가기만 해도 자연스럽게 눌립니다.
+    -   `X` 하드 스위치는 블록을 세워서 정확히 위에 세워 둬야 작동합니다.
+        이를 위해서는 몇 번의 굴림 후 어디에서 세워질지를 계산해 둬야 합니다.
 
-### Gameplay Strategy
+-   **분할 상태 활용 전략**  
+    분할 스위치를 밟으면 블록이 두 개의 큐브로 나뉘고, 두 블록은 동시에
+    같은 방향으로 움직입니다. 스페이스바로 조작 중인 큐브를 전환할 수 있습니다.
+    -   한 큐브를 지지점이나 장애물처럼 활용해, 다른 큐브의 위치를 정교하게
+        조정할 수 있습니다.
+    -   두 큐브를 다시 하나의 블록으로 합치려면 서로 인접한 칸(서로 옆 칸)에
+        서 있어야 합니다. 이때 한 큐브를 다른 큐브 쪽으로 이동시키면 자동으로
+        원래의 직사각형 블록으로 합쳐집니다.
 
--   **Think and Plan Ahead:** Bloxorz is a game of foresight. Before making a move, visualize the next few rolls. Count the squares to see where your block will land and in what orientation (standing or lying flat). Rushing will almost always lead to falling off.
--   **Master the Fragile Tiles:** The rule is simple but crucial: **Never stand on an orange tile.** Always ensure your block is lying flat when any part of it is resting on a fragile tile.
--   **Understand the Switches:**
-    -   For `()` switches, you can simply roll over them.
-    -   For `X` switches, you need to plan your moves to land your block in a standing position precisely on the switch.
--   **Splitting Strategy:** When your block is split into two cubes, they move in parallel. You can press the Spacebar to toggle control between them.
-    -   Use one cube as an anchor or a block to manipulate the position of the other.
-    -   To merge the two cubes back into a single block, they must be positioned right next to each other (adjacent squares). Move one into the other to reform the block.
--   **Use Edges to Your Advantage:** Sometimes, you'll need to use the edge of a platform as a pivot point to get your block into a standing position where you otherwise couldn't. This is an advanced technique required for later levels.
--   **Write Down Level Codes:** The game provides a unique code for each level. Write these down so you don't have to start from the beginning every time you play.
+-   **발판 가장자리를 활용한 고급 테크닉**  
+    후반 스테이지에서는 발판 모서리를 피벗처럼 이용해, 평소에는 세울 수 없는
+    위치에서 블록을 세워야 하는 상황이 자주 등장합니다. 플랫폼 가장자리를
+    이용한 회전·세우기 테크닉을 익혀 두면 어려운 퍼즐도 해결할 수 있습니다.
 
-### Controls Guide
+-   **스테이지 코드 메모하기**  
+    각 스테이지를 클리어하면 해당 레벨로 바로 돌아올 수 있는 코드가 제공됩니다.
+    이 코드를 메모해 두면 매번 처음부터 다시 시작하지 않아도 되어 훨씬 편리합니다.
 
-The controls are simple and based on the keyboard's arrow keys.
+### 조작 방법
 
--   **Up Arrow Key:** Roll the block forward.
--   **Down Arrow Key:** Roll the block backward.
--   **Left Arrow Key:** Roll the block to the left.
--   **Right Arrow Key:** Roll the block to the right.
--   **Spacebar:** Switch control between the two smaller cubes after splitting.
+조작은 키보드 방향키를 기반으로 한 간단한 방식입니다.
 
-### Frequently Asked Questions (FAQ)
+-   **위쪽 방향키:** 블록을 앞으로 굴립니다.
+-   **아래쪽 방향키:** 블록을 뒤로 굴립니다.
+-   **왼쪽 방향키:** 블록을 왼쪽으로 굴립니다.
+-   **오른쪽 방향키:** 블록을 오른쪽으로 굴립니다.
+-   **스페이스바:** 블록이 둘로 나뉜 상태에서 조작할 큐브를 전환합니다.
 
-**1. Why did I fall through the orange floor?**
-> You fell because your block was standing upright on the orange tile. These tiles are fragile and can only support the block when it's lying flat, distributing its weight across two squares.
+### 자주 묻는 질문 (FAQ)
 
-**2. The 'X' switch is not working. What am I doing wrong?**
-> The 'X' switch is a "hard" or "heavy" switch. It requires the full, concentrated weight of the block to activate. You must position the block so it is standing vertically on top of the 'X' tile. Lying flat on it will not work.
+**1. 주황색 바닥을 건너다 갑자기 떨어졌어요. 왜 그런가요?**  
+> 블록이 세워진 자세로 주황색 타일 위에 올라섰기 때문입니다. 이 타일들은
+> 매우 약해서, 무게가 한 칸에 집중되면 그대로 무너져 버립니다. 반드시 블록이
+> 눕혀진 상태에서만 건너야 안전합니다.
 
-**3. How do I get my two small blocks back together?**
-> To merge the two cubes back into the original block, you must move them so they are on adjacent squares (side-by-side). Then, select one cube and move it into the other. They will automatically combine.
+**2. 'X' 스위치가 전혀 작동하지 않아요. 무엇이 잘못된 거죠?**  
+> 'X' 스위치는 무게를 온전히 실어야 작동하는 **하드 스위치**입니다. 블록이
+> 눕혀진 상태로는 작동하지 않으며, 세로로 세워진 상태로 정확히 위에 서 있어야
+> 반응합니다.
 
-**4. How can I return to a level I've already reached?**
-> After completing each level, the game provides a 6-digit passcode. You can enter this code on the main menu screen to start directly from that level.
+**3. 두 개로 나뉜 블록을 다시 합치려면 어떻게 하나요?**  
+> 두 큐브를 서로 인접한 칸에 위치시킨 뒤, 한 쪽을 다른 쪽 방향으로 한 칸
+> 움직이면 자동으로 하나의 직사각형 블록으로 합쳐집니다.
 
+**4. 이미 도달한 레벨로 다시 가려면 어떻게 하나요?**  
+> 각 레벨을 클리어할 때마다 6자리 패스코드가 제공됩니다. 메인 메뉴 화면에서
+> 이 코드를 입력하면, 그 레벨부터 바로 시작할 수 있습니다.

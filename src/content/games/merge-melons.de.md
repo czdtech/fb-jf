@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: merge-melons
-title: '[DE] Merge Melons'
+title: Merge Melons
 description: >-
-  [DE] Drop and merge fruits in this addictive puzzle game inspired by Suika
-  Game. Combine identical fruits to create bigger ones, aiming for the giant
-  watermelon, but don't let your container overflow!
+  Lass Früchte fallen und merg e sie in diesem süchtig machenden Puzzlespiel
+  nach Art des Suika Game. Kombiniere identische Früchte zu größeren, ziele auf
+  die riesige Wassermelone – aber lass den Behälter nicht überlaufen!
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/merge-melons.png
 tags:
@@ -17,36 +17,65 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Merge Melons ist ein charmantes, physikbasiertes Puzzlespiel, auch bekannt als
+„Suika Game“ oder „Watermelon Game“. Du lässt verschiedene Früchte in einen
+Behälter fallen. Berühren sich zwei identische Früchte, verschmelzen sie zu
+ einer größeren Frucht der nächsten Stufe. Dein Ziel ist es, die größtmögliche
+Frucht – die Wassermelone – zu erzeugen und einen Highscore aufzustellen,
+ohne dass der Fruchtberg über den oberen Rand hinauswächst.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Frucht-Reihenfolge kennen**  
+    Präge dir die Evolutionskette ein. Zu wissen, welche Frucht aus zwei
+    gleichen entsteht, hilft dir enorm bei der Planung deiner Würfe.
 
-Merge Melons is a delightful and addictive physics-based puzzle game, famously known as a "Suika Game" or "Watermelon Game." The premise is simple yet captivating: you drop various types of fruits into a container. When two identical fruits touch, they merge into a single, larger fruit of the next type in the evolution cycle. Your goal is to create the largest fruit possible—the watermelon—and achieve the highest score without letting the container overflow.
+2.  **Gezieltes Platzieren**  
+    Lasse Früchte nicht wahllos fallen. Platziere kleinere Früchte an Stellen,
+    wo sie wahrscheinlich mit gleichen Früchten zusammentreffen. Große Früchte
+    direkt auf sehr kleine zu werfen, blockiert oft wertvollen Platz.
 
-### Gameplay Strategy & Walkthrough
+3.  **Kettenreaktionen vorbereiten**  
+    Versuche, Früchte so anzuordnen, dass ein Merge die neue Frucht in Bewegung
+    bringt und sie weitere Merges auslöst. Solche Ketten räumen Platz und
+    bringen viele Punkte.
 
-1.  **[DE]** **Understand the Fruit Cycle:** Memorize the order of fruit evolution. Knowing what two fruits will create next (e.g., two grapes make an orange) is crucial for planning your drops.
-2.  **[DE]** **Strategic Placement:** Don't just drop fruits randomly. Try to place smaller fruits in positions where they are likely to meet their identical counterparts. Avoid dropping a large fruit on top of a much smaller one, as this can trap the small fruit and waste valuable space.
-3.  **[DE]** **Set Up Chain Reactions:** The most satisfying part of the game is a chain reaction. Try to arrange fruits so that one merge will cause the newly formed fruit to roll or drop and create another merge, and so on. This is key to clearing space and racking up a high score.
-4.  **[DE]** **Manage Your Space:** The game ends when the fruits pile up and cross the line at the top. Always be mindful of how much space you have left. Sometimes it's better to make a less optimal merge just to clear some room.
+4.  **Platz managen**  
+    Die Runde endet, wenn der Stapel die obere Linie erreicht. Behalte deshalb
+    die Höhe immer im Blick. Manchmal ist ein „suboptimaler“ Merge sinnvoll,
+    nur um wieder Luft im Behälter zu schaffen.
 
-### Controls Guide
+### Steuerung
 
-The controls are very straightforward.
+- **Ausrichten (Desktop):** Bewege die Maus nach links oder rechts, um die
+  Fallposition zu bestimmen.  
+- **Fallen lassen (Desktop):** Klicke mit der linken Maustaste, um die Frucht
+  fallen zu lassen.
+- **Mobil:** Bewege den Finger links/rechts zum Zielen und hebe ihn an, um die
 
-*   **[DE]** **Position the Fruit (Desktop):** Move your mouse left and right to determine where the fruit will be dropped from.
-*   **[DE]** **Drop the Fruit (Desktop):** Click the left mouse button to release the fruit.
-*   **[DE]** **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
+- **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
+  Frucht zu droppen.
 
-### Frequently Asked Questions (FAQ)
+### FAQ
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** The main goal is to get the highest score possible by continuously merging fruits. The ultimate achievement within a game is to successfully create a watermelon by merging two of the second-largest fruits.
+*   **F: Was ist das eigentliche Ziel?**  
+    **A:** Solange wie möglich zu spielen und durch kontinuierliches Mergen
+    einen möglichst hohen Punktestand zu erreichen – die Krönung ist eine
+    Wassermelone aus zwei der zweithöchsten Früchte.
 
-*   **[DE]** **Q: How do I lose the game?**
-    *   **[DE]** **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
+    - **F: Wie verliere ich das Spiel?**  
+    **A:** Sobald der Fruchtstapel die obere Markierung erreicht oder
+    überschreitet, ist die Runde vorbei.
 
-*   **[DE]** **Q: Is there a way to control where the fruits go after they merge?**
-    *   **[DE]** **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
+*   **F: Kann ich steuern, wohin die Früchte nach einem Merge rollen?**  
 
+    - **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
+
+- **Q: Is there a way to control where the fruits go after they merge?**
+
+    - **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
+    **A:** Direkt nicht, da die Physik entscheidet. Durch geschickte Wahl des
+    Abwurfpunkts kannst du aber beeinflussen, in welche Richtung die neue,
+    größere Frucht wahrscheinlich rollt.

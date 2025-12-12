@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: table-tennis
-title: '[DE] Table Tennis'
+title: Table Tennis
 description: >-
-  [DE] Master the paddle in this classic game of Table Tennis. Challenge the AI,
-  score points, and become a virtual ping-pong champion with precise timing and
-  swift reflexes.
+  Werde zum virtuellen Ping-Pong‑Champion in Table Tennis: Fordere die KI
+  heraus, punkte mit gutem Timing und schnellen Reflexen und kontrolliere das
+  Match mit klugen Platzierungen.
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/table-tennis.png
 tags:
@@ -16,32 +16,37 @@ score: 4.2/5  (1873 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
+
+Table Tennis bringt eine vereinfachte, aber flotte Tischtennis‑Simulation auf deinen Bildschirm. Du trittst gegen eine KI‑Gegnerin an und versuchst, mit gut platzierten Schlägen Punkte zu holen – ganz wie an der echten Platte.
+
+### Spielstrategie & Walkthrough
+
+1.  **Aufschlag & Rückschlag:** Jeder Ballwechsel startet mit einem Aufschlag. Triff den Ball nach dem einmaligen Aufspringen auf deiner Seite und platziere ihn so, dass die KI in Bewegung kommt.
+2.  **Zentral stehen:** Versuche nach jedem Schlag wieder ungefähr in die Tischmitte zurückzukehren, damit du schneller auf Bälle nach links und rechts reagieren kannst.
+3.  **Variieren:** Spiele nicht jeden Ball an die gleiche Stelle. Platziere mal kurz, mal lang, mal in die Ecken, um Fehler beim Gegner zu erzwingen.
+4.  **Gegner beobachten:** Achte darauf, welche Bälle die KI schlecht erreicht, und wiederhole diese Muster.
+
+### Steuerung
+
+- **Schläger bewegen:** Bewege den Mauszeiger nach links/rechts auf deiner Tischhälfte.
+- **Ball treffen:** Es reicht, den Schläger in die Flugbahn zu bringen – der Schlag erfolgt automatisch, Winkel und Tempo hängen von deiner Position und Bewegung ab.
 
 
+- **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
+### Häufige Fragen (FAQ)
 
-### Detailed Game Introduction
+- **Wie mache ich Punkte?**  
+  Du punktest, wenn der Gegner den Ball nicht korrekt zurückspielt – etwa ins Netz, ins Aus oder wenn der Ball zweimal auf seiner Seite aufspringt.
 
-Table Tennis is a fast-paced and engaging sports simulation game that brings the classic experience of ping-pong to your screen. Players compete against a computer-controlled opponent in a match where reflexes, timing, and strategy are key. The goal is to outscore your opponent by hitting the ball past them, adhering to the basic rules of table tennis. With intuitive controls and realistic physics, the game offers an accessible yet challenging experience for players of all skill levels.
+    - **Kann ich Effet/Spin erzeugen?**  
+  Zwar gibt es keine eigene Spintaste, aber schnelle, seitliche Bewegungen beim Schlag können Flugbahn und Tempo beeinflussen und Rückschläge erschweren.
 
-### Gameplay Strategy & Walkthrough
+- **Bis wie viel wird gespielt?**  
 
-1.  **[DE]** **Serve and Return:** Every point begins with a serve. The key is to hit the ball after it has bounced once on your side. When returning a shot, focus on the ball's trajectory and position your paddle accordingly.
-2.  **[DE]** **Positioning is Key:** Try to keep your paddle centered after each shot. This "reset" position allows you to react more effectively to your opponent's returns, whether they are to your left or right.
-3.  **[DE]** **Vary Your Shots:** Don't hit the ball to the same spot every time. Aim for the corners of the table to force your opponent to move, increasing the chances of them making a mistake. Mix up fast shots with slower, more strategic placements.
-4.  **[DE]** **Observe the Opponent:** Pay attention to the AI's positioning and shot patterns. Sometimes you can anticipate where they will hit the ball next, giving you a crucial advantage in positioning your paddle for the return.
+    - **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
 
-### Controls Guide
+- **Q: What is the winning score?**
 
-*   **[DE]** **Mouse Movement:** The paddle's movement is directly tied to your mouse cursor.
-*   **[DE]** **Move Paddle:** Simply move your mouse left and right across your side of the table to position the paddle.
-*   **[DE]** **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: How do I score a point?**
-    *   **[DE]** **A:** You score a point when your opponent fails to return your shot, meaning the ball bounces twice on their side, they hit it into the net, or they hit it off the table.
-*   **[DE]** **Q: Can I put a spin on the ball?**
-    *   **[DE]** **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
-*   **[DE]** **Q: What is the winning score?**
-    *   **[DE]** **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
-
+    - **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
+  Je nach Version wird bis zu einer festgelegten Punktzahl (z. B. 11 oder 21) gespielt, meist mit der Bedingung, mit mindestens zwei Punkten Vorsprung zu gewinnen.

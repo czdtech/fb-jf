@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: one-line
-title: '[ZH TRANSLATION NEEDED] One Line'
+title: "《One Line》一笔连线"
 description: >-
-  [ZH TRANSLATION NEEDED] One Line is a minimalistic puzzle game where players
-  draw a single continuous line to connect all given points on the board without
-  lifting their finger or retracing any path.
+  《One Line》是一款极简风格的一笔画解谜游戏，你需要用一条连续的线把棋盘上的所有点依次连接起来，不能抬笔，也不能重复走过同一条路径。
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/one-line.jpg
 tags:
@@ -18,30 +16,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "One Line" is a minimalist puzzle game. Players' task is to draw a single continuous line to connect all given points on the board without lifting their finger or retracing any path. The game aims to train players' logical thinking and spatial perception, with difficulty gradually increasing as levels progress.
+《One Line》是一款设计极简的一笔画益智游戏。棋盘上分布着若干节点，你的任务是从任意一点出发，用一条连续不断的线将所有给定的点全部连接起来，过程中不能抬起手指，也不能重复走过已经画过的线段。随着关卡推进，图形结构会逐渐变复杂，是非常适合打发碎片时间、训练逻辑思维与空间想象力的小游戏。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Observe Paths**: Before starting to draw, carefully observe all points and their potential connections to plan the optimal path.
-2.  **Find Starting Point**: Try starting from different points; sometimes a specific starting point can make solving the puzzle easier.
-3.  **Avoid Dead Ends**: In some cases, if a point has only one exit, it often means that path must be taken.
-4.  **Utilize Symmetry**: If the board has a symmetrical structure, try to use this symmetry to aid in solving.
-5.  **Practice More**: Practice makes perfect; through extensive practice, you will gradually grasp the tricks and patterns for solving.
+1.  **先观察整体结构：** 在动笔前先整体扫一眼，留意哪些点连接较多、哪些地方容易形成“死胡同”，有助于决定从哪一端起笔。
+2.  **尝试不同起点：** 有些关卡从某个点出发几乎必然失败，换一个起点可能就顺理成章地走完全图，多试几种开局能更快找到解法。
+3.  **注意“只有一条出路”的点：** 如果某个点只有一条相连线段，通常说明这条边在路径中必走，适合尽早纳入规划，以免最后被迫回头却无路可走。
+4.  **利用图形对称性：** 若关卡呈现明显对称结构，可以先在一侧摸索出合理路线，再在另一侧进行镜像操作，往往可以事半功倍。
+5.  **多练习总结套路：** 一笔画题目具有很多通用规律，多玩几关之后，你会逐渐熟悉常见布局的“惯用走法”，解题效率也会越来越高。
 
-### How to Play
+### 操作说明
 
-*   **Start Drawing**: Click any point as the starting point, then drag the mouse or finger (on touch devices) to connect to the next point.
-*   **Connect Points**: Ensure each move connects to a new, unvisited point.
-*   **Reset Level**: If you make a mistake or get stuck, you can click the reset button to restart the current level.
+*   **开始绘制：** 点击任意一个点作为起点，然后拖动鼠标或手指，将线连接到下一个点。
+*   **连接点位：** 每次移动都必须沿着预设的线段前进，且尽量连接尚未经过的点与线。
+*   **重置关卡：** 如果走错了路或把自己困住，可以通过重置按钮清空当前路线，从头再来。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What is the objective of the game?**
-     **A**: The objective is to connect all points on the board with a single continuous line, without retracing any path.
-2.  [ZH TRANSLATION NEEDED] **Q: Are there any hints if I get stuck?**
-     **A**: Some game versions may offer a hint feature to help players find the next correct move.
-3.  [ZH TRANSLATION NEEDED] **Q: How many levels does the game have?**
-     **A**: It usually contains hundreds or even thousands of levels, gradually increasing in challenge from simple to complex.
-4.  [ZH TRANSLATION NEEDED] **Q: Is this game suitable for children?**
-     **A**: Yes, this game helps develop children's logical thinking and problem-solving skills, suitable for players of all ages.
+### 常见问题
+
+1.  **问：游戏的最终目标是什么？**
+    **答：** 在单个关卡内，用一条连续的线把所有点全部连接起来，并且不重复走过同一线段即可过关。
+2.  **问：卡关时有提示可以用吗？**
+    **答：** 某些版本会提供提示功能，用来标出下一步或给出部分路线，但频繁使用会削弱解谜乐趣，可以在实在卡住时再考虑。
+3.  **问：一共有多少关？**
+    **答：** 通常会包含从简单到复杂的大量关卡，甚至上百上千关，足够你慢慢挑战和练习。
+4.  **问：这款游戏适合小朋友玩吗？**
+    **答：** 非常适合。规则简单易懂，同时能帮助儿童锻炼逻辑思维与空间规划能力，成人玩家用来放松大脑也很合适。

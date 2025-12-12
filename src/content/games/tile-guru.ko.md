@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tile-guru
-title: '[KO] Tile Guru'
+title: "Tile Guru 타일 구루"
 description: >-
-  [KO] Tile Guru is a polished tile‑match — pick triples, manage stacks, and
-  clear trays without clogging lanes.
+  세 장씩 같은 타일을 모아 없애는 트리플 매치 퍼즐 게임 Tile Guru입니다. 제한된 트레이 칸을
+  관리하며 쌓이는 타일 더미를 정리해 막히지 않도록 보드를 비우는 것이 목표입니다.
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/tile-guru.png
 tags:
@@ -15,31 +15,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tile Guru는 제한된 칸을 가진 트레이에 타일을 옮겨 담아, 같은 모양의 타일 3장을 모아 없애는
+트리플 매칭 퍼즐 게임입니다. 화면에 쌓인 타일들 중에서 선택 가능한 타일을 골라 트레이에 넣고,
+세 장이 모이면 자동으로 사라집니다. 문제는 트레이 칸 수가 매우 적기 때문에, 너무 많은 종류의
+타일을 동시에 시작하면 금세 막힌다는 점입니다. 결국 이 게임의 핵심은 **트레이에 쌓이는 더미를
+어떻게 관리하느냐**입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Tile Guru uses the triple‑match tray formula: pick tiles into a limited tray; three of a kind clear. The puzzle is stack management — avoid burying mismatched sets that clog the tray and force deadlocks.
+1.  **세트 수를 제한하기**: 한 번에 너무 많은 종류의 세트를 시작하지 마세요. 최대 2~3종류 정도만
+    열어 두고, 가능한 빨리 3장을 채워 정리하는 것이 안전합니다.
+2.  **깊이 관리하기**: 위쪽에 있는 얕은 타일부터 우선 선택해, 중요한 타일이 아래에 묻히지 않도록
+    하세요. 나중에 필요한 타일 위에 다른 종류를 잔뜩 쌓으면 회수가 어려워집니다.
+3.  **다음 몇 수 미리 보기**: 언제나 다음 2~3번의 선택까지 함께 생각해 두세요. "이 타일을 넣으면
+    트레이에 몇 칸이 남는지"를 계산하면서, 여유 칸이 거의 없을 때는 새로운 종류를 시작하기보다
+    이미 시작한 세트를 우선 완성하는 편이 좋습니다.
+4.  **되돌리기(Undo)는 막혔을 때 바로 사용하기**: 잘못된 선택으로 트레이가 거의 가득 찼다면,
+    즉시 되돌리기 기능을 사용해 한 수 전으로 돌아가세요. 시간을 끌수록 상황이 더 나빠지는 경우가
+    많습니다.
+5.  **섞기(Shuffle)는 최후의 수단**: 더 이상 좋은 선택지가 없을 때를 대비해 섞기 같은 강력한
+    파워업은 아껴 두는 편이 좋습니다. 거의 막혔다고 느껴질 때 사용하면 한 번 더 도전할 기회를
+    얻을 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Pair discipline: Don’t start too many sets at once; resolve pairs quickly.
-2.  **[KO]** Depth control: Pull accessible tiles that won’t bury needed matches.
-3.  **[KO]** Look‑ahead: Plan the next 2–3 picks to avoid tray overflow.
-4.  **[KO]** Undo wisely: Undo immediately after a clogging pick.
-5.  **[KO]** Power‑ups: Save shuffles for near‑deadlocks.
+- **타일 선택**: 클릭(또는 탭)으로 선택 가능한 타일을 눌러 트레이에 추가합니다. 같은 타일이
+  세 장 모이면 자동으로 사라집니다.
+- **힌트/섞기**: 화면 UI 버튼을 눌러 힌트나 셔플 같은 보조 기능을 사용할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Click tiles to add to tray; three‑of‑a‑kind clear; hints/shuffles via UI.
+- **Q: 트레이가 너무 빨리 가득 차요.**  
+  **A:** 동시에 열어 두는 세트의 종류를 줄이고, 이미 두 장 모인 타일부터 우선 완성해 주세요.
+  새 종류를 시작하기 전에, 기존 세트를 마무리하는 습관이 중요합니다.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My tray fills too fast.
-
-A: Limit open sets and complete pairs before starting new ones.
-
-- Q: Which tiles first?
-
-A: Exposed, shallow tiles that won’t bury partners.
-
+- **Q: 어떤 타일을 먼저 선택하는 게 좋나요?**  
+  **A:** 가능한 한 윗층에 있는, 다른 중요한 타일을 덮지 않는 타일부터 선택하세요. 깊은 곳에 있는
+  타일 위로 여러 종류를 쌓아 버리면 나중에 3장을 맞추기 훨씬 어려워집니다.

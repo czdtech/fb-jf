@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: merge-defenders
-title: '[ZH TRANSLATION NEEDED] Merge Defenders'
+title: "《Merge Defenders》合成防线塔防"
 description: >-
-  [ZH TRANSLATION NEEDED] Defend your territory by merging and upgrading your
-  units in Merge Defenders! Combine identical defenders to create more powerful
-  versions and strategically place them to fend off waves of enemies.
+  《Merge Defenders》是一款将合成玩法与塔防战斗结合的策略游戏，通过购买与合成防御单位、布置关键火力点来抵挡一波又一波来袭的敌军。
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
 thumbnail: /new-images/merge-defenders.png
 tags:
@@ -17,32 +15,32 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Merge Defenders is an exciting and strategic game that blends the addictive nature of merge puzzles with the action-packed gameplay of tower defense. In this game, you must protect your base from relentless waves of enemies. You do this not just by placing towers, but by purchasing basic units, merging two identical units to create a more powerful, higher-level defender, and then strategically deploying them onto the battlefield.
+《Merge Defenders》是一款节奏紧凑的策略游戏，将上瘾的合成机制与经典塔防相结合。你的任务是在敌人一波波涌来的时候守住基地。与传统塔防只摆塔不同，这里你要先购买基础单位，再把相同等级的单位拖拽合成，升级成更高火力的防御者，然后将它们部署到战场预设位置，构建出一条真正稳固的防线。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Merge Cycle:** The core of the game is the merge mechanic. You start by purchasing level 1 units. Drag a level 1 unit onto another level 1 unit to create a level 2 unit, and so on. Higher-level units have significantly better damage and firing rates.
-2.  [ZH TRANSLATION NEEDED] **Deployment:** You have a limited number of slots on your defensive line. Drag your strongest defenders from your reserve grid onto these slots. They will automatically attack any enemies that come into range.
-3.  [ZH TRANSLATION NEEDED] **Economy Management:** You earn coins for every enemy you defeat. You must constantly decide whether to spend your coins on more low-level units (to merge up) or to save them for special upgrades that might become available.
-4.  [ZH TRANSLATION NEEDED] **Strategic Placement:** Don't just place your strongest unit anywhere. Observe the enemy path. Some slots might be more critical than others, such as at corners where units can cover the path for a longer duration. Place your most powerful defenders in these key positions.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **合成循环：** 游戏的核心是合成。你从购买 1 级单位开始，将一个 1 级单位拖到另一个 1 级单位上，就能合成 2 级，依此类推。等级越高，伤害与攻速提升越明显，所以要尽可能把战力集中在少数高等级单位上。
+2.  **合理部署：** 防线上的格子数量有限，你需要把最强的防守者放在这些位置。观察敌人的行进路线，优先占据拐角、狭窄路段等覆盖时长更长的位置，让高伤害单位反复输出。
+3.  **经济管理：** 每击败一个敌人都会获得金币，你需要在“多买低阶单位以便合成”和“攒钱等待关键升级或特殊强化”之间找平衡。前期多铺单位，后期集中升级，是比较稳妥的节奏。
+4.  **持续迭代阵容：** 波次越往后，敌人血量和速度越高。不要满足于已有阵容，要不断用新买的基础单位进行合成，把战场上的旧单位替换成更高等级的版本。
 
-[ZH TRANSLATION NEEDED] The game is controlled entirely with your mouse or finger.
+### 操作说明
 
-*   **Buy Unit:** Click the "Buy" button to purchase a new basic unit, which will appear on your reserve grid.
-*   **Merge Units:** Click and drag one unit and drop it onto an identical unit to merge them into a higher-level unit.
-*   **Deploy Unit:** Click and drag a unit from your reserve grid to an empty defensive slot on the battlefield.
+本作完全通过鼠标或触控操作：
 
-### Frequently Asked Questions (FAQ)
+*   **购买单位：** 点击“Buy（购买）”按钮，花费金币获取新基础单位，它会出现在预备格子中。
+*   **合成单位：** 将一个单位拖动到另一名同等级单位上，即可合成更高等级的防守者。
+*   **部署单位：** 从预备格子中拖动单位到战场上的空防御格子中，它就会自动开始攻击进入射程的敌人；如需调整，可再拖回预备区更换站位。
 
-*   **Q: How do I get stronger defenders?**
-     *   **A:** By merging. Combine two identical defenders to create one defender of the next level. For example, two Level 2 units merge into one Level 3 unit.
+### 常见问题（FAQ）
 
-*   **Q: Why can't I place my defender on the enemy path?**
-     *   **A:** You can only place your defensive units in the designated square slots along the path, not on the path itself where the enemies walk.
+*   **问：怎样获得更强的防御者？**
+    *   **答：** 靠合成升级。两名同等级防御者可以合成更高一级的单位，例如两个 2 级合成 3 级。持续购买基础单位并合成，是提高整体战力的核心。
 
-*   **Q: I'm being overwhelmed by enemies. What should I do?**
-     *   **A:** Focus on merging your units to the highest possible level. A single high-level unit is often much more powerful than several low-level ones. Make sure all your available defensive slots are filled, and continuously buy and merge new units as you earn coins.
+*   **问：为什么不能把单位放在敌人行走的路径上？**
+    *   **答：** 单位只能放在预设的防御格子上，而不能直接放在敌人通道上。你需要利用拐角、交汇处等关键位置来覆盖更多路段。
 
+*   **问：总是被敌人大军冲垮怎么办？**
+    *   **答：** 优先把金币投入到合成高等级单位上，而不是铺满一堆低等级。确保所有防御格子都被强力单位占据，并在每一波结束后立刻用新金币继续买、继续合成，维持战力曲线。

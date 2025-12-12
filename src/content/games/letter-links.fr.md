@@ -1,11 +1,10 @@
 ---
 locale: fr
 urlstr: letter-links
-title: '[FR] Letter Links'
+title: Letter Links
 description: >-
-  [FR] A daily word-building challenge. Place your letter tiles on the board to
-  form high-scoring words, utilize bonus squares, and connect all your letters
-  in a single group.
+  Défi quotidien de mots croisés : place tes lettres sur la grille pour former
+  des mots liés, profite des cases bonus et garde tous tes tuiles connectées.
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/letter-links.png
 tags:
@@ -17,38 +16,47 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation détaillée
 
+Letter Links est un jeu de construction de mots stratégique qui rappelle Scrabble. Chaque jour, tu reçois un nouvel ensemble de lettres, chacune avec une valeur. Tu dois les placer sur la grille pour former des mots valides et connectés, façon mots croisés. En utilisant intelligemment les lettres de forte valeur et les cases bonus, tu essaies de faire le meilleur score possible.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Letter Links is a strategic word-building game that shares similarities with Scrabble. Each day, you are given a new set of letter tiles, each with a point value. Your goal is to place these tiles on a game board to form valid, interconnected words, much like a crossword puzzle. By strategically utilizing high-value letters and special bonus squares on the board, you aim to achieve the highest possible score.
+1.  **Connais les bonus**  
+    - **DL (Double Letter)** : double la valeur de la lettre posée dessus.  
+    - **TL (Triple Letter)** : triple la valeur de cette lettre.  
+    - **DW (Double Word)** : double le score du mot entier.  
+    - **TW (Triple Word)** : triple le score du mot entier.
 
-### Gameplay Strategy & Walkthrough
+2.  **Partir du centre**  
+    La case étoile au centre doit être utilisée pour le premier mot ; construis autour.
 
-1.  **[FR]** **Know Your Bonuses:** The key to a high score is using the bonus squares effectively.
-    *   **[FR]** **DL (Double Letter):** Doubles the point value of the letter placed on it.
-    *   **[FR]** **TL (Triple Letter):** Triples the point value of the letter placed on it.
-    *   **[FR]** **DW (Double Word):** Doubles the score of the entire word that uses this square.
-    *   **[FR]** **TW (Triple Word):** Triples the score of the entire word that uses this square.
+3.  **Créer des croisements**  
+    Ne te contente pas d’un seul long mot : l’idéal est de jouer un coup qui forme plusieurs mots en même temps (en complétant un mot horizontal et en en créant un vertical, par exemple).
 
-2.  **[FR]** **Build Around the Center:** The game requires that the center star square must be occupied. Start your first word there.
-3.  **[FR]** **Create Overlaps:** Don't just build one long word. The best way to score is to make a move that forms multiple words at once. For example, placing a tile that simultaneously completes a horizontal word and forms a new vertical word.
-4.  **[FR]** **Use High-Value Letters Wisely:** Save your high-value letters (like Z, Q, J, X) to be placed on bonus squares like DL, TL, DW, or TW to maximize their impact.
+4.  **Garder les lettres chères pour les bonus**  
+    Réserve les Z, Q, J, X pour les cases DL/TL/DW/TW afin de maximiser leur impact.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Place Tiles:** Click and drag a letter tile from your rack at the bottom to a square on the game board.
-*   **[FR]** **Recall Tiles:** You can drag a placed tile back to your rack before submitting if you change your mind.
-*   **[FR]** **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
+- **Placer des lettres** : clique‑glisse une tuile depuis ton chevalet vers une case de la grille.  
+- **Rappeler des tuiles** : tu peux ramener une lettre sur ton chevalet tant que tu n’as pas validé le coup.  
+- **Valider** : clique sur « Submit Words » pour verrouiller ton coup et compter les points.
 
-### Frequently Asked Questions (FAQ)
+### FAQ
 
-*   **[FR]** **Q: Why was my word rejected?**
-    *   **[FR]** **A:** There are a few possibilities: 1) It's not a valid word in the game's dictionary. 2) Not all of your placed tiles are connected in a single group. 3) The center star square was not used.
+- **Q : Pourquoi mon mot est‑il refusé ?**  
+  R : Soit il n’est pas dans le dictionnaire du jeu, soit l’ensemble de tes nouvelles tuiles ne forme pas un groupe connecté, soit tu n’utilises pas la case centrale pour le premier coup.
 
-*   **[FR]** **Q: How are points calculated?**
-    *   **[FR]** **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
+    - **Q : Comment sont calculés les points ?**  
+  R : On additionne les valeurs des lettres, en tenant compte d’abord des bonus de lettre (DL/TL), puis on applique les multiplicateurs de mot (DW/TW).
 
-*   **[FR]** **Q: Can I play diagonally?**
-    *   **[FR]** **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
+- **Q : Puis‑je former des mots en diagonale ?**  
+
+    - **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
+
+- **Q: Can I play diagonally?**
+
+    - **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
+  R : Non, les mots doivent être horizontaux ou verticaux uniquement.
 

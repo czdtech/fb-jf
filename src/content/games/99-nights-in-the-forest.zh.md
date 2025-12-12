@@ -1,5 +1,5 @@
 ---
-title: "99 Nights in the Forest - 森林中的99夜"
+title: "99 Nights in the Forest 森林中的99夜"
 description: "独立恐怖游戏《99 Nights in the Forest》概述。了解其生存恐怖玩法、资源管理以及在神秘孤立森林中度过恐怖夜晚的策略。"
 iframeSrc: "https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/"
 thumbnail: "/new-images/99-nights-in-the-forest.webp"

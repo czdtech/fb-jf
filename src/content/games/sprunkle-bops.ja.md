@@ -1,23 +1,35 @@
 ---
-locale: "ja"
-urlstr: "sprunkle-bops"
-
-title: "Sprunkle Bops - Sprunkle Bops オンラインでプレイ"
-description: "Sprunkle Bops は、人気の Incredibox 音楽ミキシングゲームのファンメイド拡張版で、カスタム Mod、新しいフェーズ、ユニークなゲームプレイ要素でクリエイティブなひねりを加えています。"
-iframeSrc: "https://turbowarp.org/1122091658/embed"
-thumbnail: "/sprunklebops.png"
-score: "4.3/5  (524 票)"
-tags: ["sprunkle bops", "sprunkle bops online"]
+title: Sprunkle Bops - Play Sprunkle Bops Online
+description: >-
+  Sprunkle
+  Bopsは、人気のある音楽ミキシングゲームIncredixboxのファン製拡張で、カスタムMod、新しいフェーズ、ユニークなゲームプレイ要素で創造的なひねりを提供します。
+iframeSrc: 'https://turbowarp.org/1097157892/embed'
+thumbnail: /sprunkle-bops.png
+urlstr: sprunkle-bops
+score: 4.3/5  (524 votes)
+tags:
+  - sprunkle bops
+locale: ja
 ---
 
-### Sprunkle Bops ゲーム紹介（Introducing to Sprunkle Bops）
- 
-Sprunkle Bops は、人気の Incredibox 音楽ミキシングゲームのファンメイド拡張版で、カスタム Mod、新しいフェーズ、ユニークなゲームプレイ要素でクリエイティブなひねりを加えています。音楽愛好家やゲーマーに愛されている Sprunki Game では、多様なテーマやキャラクターを探索しながら、ビート、ボーカル、メロディーをミックスすることができます。
- 
----
- 
-### Sprunkle Bops のゲームプレイ（Sprunkle Bops Gameplay）
+### Sprunkle Bopsの紹介
 
- - **バトル開始（Start the Battle）：** 様々な人気キャラクターと対戦します。それぞれが独自の音楽的センスをラップバトルに持ち込みます。目標はシンプル – ビートのリズムに従い、正しいタイミングで正しいノートを打って、パフォーマンスを完璧に保つことです。
- - **ビートをキャッチ（Catch the Beat）：** キーボードまたはタッチコントロールを使ってビートに合わせます。矢印キー、W、A、S、D を押すか、モバイルデバイスでプレイしている場合は対応するボタンをタップするだけです。音楽が流れると、画面に矢印が表示されます。ビートに合わせて対応するキーを押すのがあなたの仕事です。
- - **リズムをキープ（Stay on Rhythm）：** ビートが激しくなっても集中を保ちましょう！各キャラクターのラップスキルは強力で、リズムをマスターした者だけが勝利できます。ノートを逃すとバトルに勝つチャンスを失います。
+Sprunkle Bopsは、人気のある音楽ミキシングゲームIncredixboxのファン製拡張で、カスタムMod、新しいフェーズ、ユニークなゲームプレイ要素で創造的なひねりを提供します。
+
+
+---
+### 主な特徴
+
+ - **カスタムMods：** SprunkiとIncredixboxの要素を組み合わせた新しいMod
+ - **新しいフェーズ：** 追加のゲームフェーズと拡張コンテンツ
+ - **ユニークなゲームプレイ：** 創造的な音楽制作の新しい方法
+ - **ファンメイド：** コミュニティによって作成された愛あるMod
+
+### ゲームプレイ
+
+ - キャラクターを選択してステージに配置
+ - サウンドをミックスして音楽を作成
+ - 新しいフェーズとModを探索
+ - 創造的な組み合わせを実験
+
+Sprunkle Bopsで、Incredixboxの新しい創造的な次元を発見しましょう！

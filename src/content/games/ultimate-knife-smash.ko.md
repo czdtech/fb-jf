@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: ultimate-knife-smash
-title: '[KO] Ultimate Knife Smash'
+title: "Ultimate Knife Smash 얼티밋 나이프 스매시"
 description: >-
-  [KO] Ultimate Knife Smash is a quick‑reflex thrower — time stabs, avoid
-  hitting knives, and break targets cleanly.
+  회전하는 표적에 칼을 던져 꽂는 타이밍 아케이드 게임입니다. 이미 박혀 있는 칼을 피해 빈틈을
+  정확히 노리고, 변화하는 회전 속도와 방향에 맞춰 콤보를 이어 가 보세요.
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/ultimate-knife-smash.png
 tags:
@@ -15,29 +15,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Ultimate Knife Smash는 회전하는 표적에 칼을 던져 꽂는 단순하지만 중독성 강한 타이밍 기반
+아케이드 게임입니다. 플레이어의 목표는 이미 꽂혀 있는 칼에 부딪히지 않도록 주의하며, 표적의
+빈 공간을 정확히 노려 모든 칼을 성공적으로 꽂는 것입니다.
 
+스테이지가 진행될수록 표적의 회전 속도와 방향이 바뀌거나, 갑작스러운 가속·감속이 발생해 리듬을
+읽는 눈과 침착한 손놀림이 중요해집니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Ultimate Knife Smash is a timing‑based arcade game. Throw knives into a spinning target without striking existing blades. The rotation speed and direction often change, demanding clean timing, rhythm, and risk control for combo stages.
+1.  **회전 패턴 먼저 관찰하기**: 무작정 던지기보다는, 몇 바퀴 동안 표적의 속도 변화와 방향 전환
+    타이밍을 지켜본 뒤 안정적인 타이밍을 잡는 것이 좋습니다.
+2.  **박자 세며 던지기**: 일정한 박자를 머릿속으로 세면서 항상 같은 위치에서 던지는 습관을 들이면,
+    회전이 조금 바뀌어도 리듬을 재조정하기 쉽습니다.
+3.  **넓은 빈틈부터 공략하기**: 남은 칼 수가 많을 때는 여유 있는 공간부터 채워 나가세요. 좁은
+    틈은 표적 속도가 느려졌을 때나, 패턴이 눈에 완전히 익었을 때 도전하는 편이 안전합니다.
+4.  **무리한 샷은 참기**: 한 번 놓친 회전이라고 해서 급하게 끼워 넣으려 하면 이미 꽂힌 칼과
+    충돌하기 쉽습니다. 한 바퀴를 버리더라도, 확실히 비는 타이밍에만 던지는 것이 성적에 더
+    도움이 됩니다.
+5.  **보스 표적 대응하기**: 후반부에는 더 많은 칼을 필요로 하는 특수 표적이나, 속도가 크게
+    변하는 보스 단계가 등장할 수 있습니다. 초반에는 안전하게 던지며 패턴을 파악한 뒤, 후반에
+    리듬을 올려 한꺼번에 마무리해 보세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Watch rotations: Note speed shifts and direction flips before committing throws.
-2.  **[KO]** Count beats: Use a consistent cadence; throw on the same slice of the rotation.
-3.  **[KO]** Aim gaps: Target wide openings first; save tight gaps for slow rotations.
-4.  **[KO]** Don’t rush: Missing a cycle is better than forcing a risky throw.
-5.  **[KO]** Boss targets: Later stages may require extra hits—pace your throws.
+- **투척**: 빈틈이 정면에 왔다고 느껴질 때 화면을 탭하거나 마우스를 클릭해 칼을 던집니다.
+- **일시 정지/재도전**: UI 버튼을 통해 게임을 잠시 멈추거나, 마음에 들지 않을 경우 현재 스테이지를
+  다시 시작할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Throw: Click/tap to launch a knife when the gap aligns.
-- Pause/Retry: Use UI controls to restart.
+- **Q: 이미 꽂힌 칼에 계속 부딪힙니다.**  
+  **A:** 회전 속도의 변화를 충분히 관찰하지 않고, 예전 리듬 그대로 던지고 있을 가능성이 큽니다.
+  몇 바퀴를 관찰하며 새로운 박자를 잡은 뒤, 확실히 넓게 열린 타이밍에만 던져 보세요.
 
-### Frequently Asked Questions (FAQ)
+- **Q: 회전 속도가 중간에 바뀌기도 하나요?**  
+  **A:** 네, 많은 단계에서 회전 속도와 방향이 도중에 바뀌며, 특히 보스 표적일수록 변화 폭이
+  큽니다. 화면을 넓게 보며 속도 변화가 느껴지는 순간에는 던지지 않고 패턴이 다시 안정될 때까지
+  기다리는 것이 좋습니다.
 
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
-
+- **Q: 파워업 같은 기능이 있나요?**  
+  **A:** 일부 버전에서는 여러 개의 칼을 한 번에 던지는 파워업이나 회전을 잠시 느리게 만드는 효과가
+  등장하기도 합니다. 칼이 많이 남아 있고 빈틈이 좁은 어려운 구간에서 사용하는 것이 가장 효율적입니다.

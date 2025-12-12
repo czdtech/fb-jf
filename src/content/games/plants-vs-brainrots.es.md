@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: plants-vs-brainrots
-title: '[ES] Plants Vs Brainrots'
+title: 'Plants Vs Brainrots'
 description: >-
-  [ES] The official guide to Plants vs Brainrots on Roblox. Learn about the
-  gameplay, strategies for defeating meme enemies like Skibidi Toilet and Sigma,
-  and master the plants that defend your braincells in this viral tower defense
-  game.
+  Guía de Plants vs Brainrots en Roblox: conoce la jugabilidad, aprende
+  estrategias para derrotar a enemigos‑meme como Skibidi Toilet y Sigma y domina
+  las plantas que defienden tus neuronas en este juego de defensa de torres
+  viral.
 iframeSrc: >-
   https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
 thumbnail: /new-images/plantsvsbrainrots.jpg
@@ -18,51 +18,96 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **Introducción a Plants vs Brainrots**
 
+*Plants vs Brainrots* es un juego de defensa de torres viral desarrollado en la
+plataforma Roblox, y funciona como una parodia moderna del clásico *Plants vs.
+Zombies*. En lugar de luchar contra zombis, te enfrentas a la marea de
+«Brain Rot» de internet: ese fenómeno cultural de contenido absurdo, repetitivo
+y adictivo que aturde el cerebro. Tu misión no es solo proteger tu casa, sino
+también tu cordura frente a memes convertidos en enemigos.
 
-### **Plants vs Brainrots Game Introduction**
+La jugabilidad se mantiene fiel a la fórmula clásica de defensa de carriles:
+plantas distintas en tu jardín, cada una con habilidades propias, se encargan
+de frenar oleadas de «Brainrots». Estos enemigos son versiones personificadas
+de los memes más omnipresentes de internet: desde la embestida imparable de los
+**Skibidi Toilets** hasta la resistencia pesada de los **Sigmas**.
 
-*Plants vs Brainrots* is a viral tower defense game developed on the Roblox platform, serving as a modern-day parody of the classic *Plants vs. Zombies*. The game pits players against the overwhelming tide of modern internet "Brain Rot"—a cultural phenomenon of nonsensical, low-effort, and addictive online content. Instead of fending off zombies, your mission is to protect your house (and your sanity) from personified internet memes.
+El gran éxito del juego viene de su plantel de personajes, siempre en
+actualización y lleno de guiños al ecosistema de memes. Cada nueva ola de
+cultura viral puede convertirse en un nuevo enemigo o planta, lo que mantiene
+la experiencia fresca, divertida y muy reconocible para la nueva generación de
+jugadores.
 
-The core gameplay remains faithful to the beloved tower defense formula. You plant a variety of "Brainy" plants in your yard, each with unique abilities, to fight off waves of incoming "Brainrots." These enemies are direct representations of the most pervasive internet memes, from the relentless charge of the **Skibidi Toilets** to the formidable defense of the **Sigmas**.
+### **Estrategias de juego y consejos**
 
-The game's immense popularity comes from its witty and constantly updated roster of characters, which directly reflects the ever-changing landscape of internet culture, creating a humorous and engaging experience for a new generation of players.
+1.  **Construye tu economía de «Focus»**:  
+    Tu recurso principal no es el Sol, sino el «Focus» (o puntos de cordura),
+    generado por las **Focus Flowers** (el equivalente a los Girasoles). Tu
+    prioridad en cualquier nivel es plantar al menos dos filas de Focus Flowers
+    para asegurar un flujo constante de recursos y poder costear plantas más
+    fuertes.
+2.  **Conoce al enemigo, conoce los memes**:  
+    Cada Brainrot tiene comportamientos y debilidades concretas.
+    *   **Skibidi Toilets**: son los esbirros básicos. Rápidos pero frágiles; una
+        sola línea de **Common Sense Shooters** (Peashooters) suele bastar para
+        detenerlos.
+    *   **Sigmas**: hacen de tanques, similares a los zombis con cono o cubo.
+        Aguantan mucho daño. Necesitarás fuego concentrado o defensas como el
+        **Fact-Checker Wall** (Wall-nut) para frenarlos.
+    *   **The Rizzler/Gyatt**: unidades especiales que pueden desactivar plantas
+        temporalmente («hacerles rizz») o saltarse ciertas defensas. Dales
+        prioridad con plantas de alto daño.
+3.  **El arte de plantar**:  
+    Un buen esquema clásico de defensa ayuda muchísimo.
+    *   **Filas traseras**: resérvalas para tus Focus Flowers.
+    *   **Filas centrales**: aquí van tus fuentes principales de daño, como los
+        Common Sense Shooters o las explosivas **Meme-Eraser Cherries**.
+    *   **Fila frontal**: coloca tus Fact-Checker Walls como barrera principal,
+        sobre todo contra Sigmas y otros tanques.
+4.  **Usa tu arma definitiva: el cortacésped «Touch Grass»**:  
+    Igual que en el original, cada carril tiene un cortacésped de último
+    recurso, aquí tematizado como la podadora «Touch Grass». Si un Brainrot
+    supera todas tus defensas, la podadora limpiará la calle una vez… pero no
+    conviene depender de ella.
 
-### **Gameplay Strategy & Tips**
+### **Guía de controles**
 
-1.  **[ES]** **Build Your "Focus" Economy**: Your primary resource is not Sun, but "Focus" (or Sanity Points), generated by **Focus Flowers** (the game's version of Sunflowers). Your first priority in any level is to plant at least two rows of Focus Flowers to ensure you have a steady income to afford other plants.
-2.  **[ES]** **Know Your Enemy, Know Your Memes**: Each Brainrot has a specific weakness and behavior.
-    *   **[ES]** **Skibidi Toilets**: These are your basic grunts. They are fast but weak. A single line of **Common Sense Shooters** (Peashooters) can handle them.
-    *   **[ES]** **Sigmas**: These act as tanks, equivalent to Conehead or Buckethead Zombies. They can absorb a lot of damage. You'll need concentrated firepower or defensive plants like the **Fact-Checker Wall** (Wall-nut) to slow them down.
-    *   **[ES]** **The Rizzler/Gyatt**: These are special units. They might have abilities that temporarily disable your plants (by "rizzing" them) or bypass certain defenses. Prioritize eliminating them with high-damage plants.
-3.  **[ES]** **The Art of Planting**: A classic layout is key.
-    *   **[ES]** **Back Rows**: Reserved for your Focus Flowers.
-    *   **[ES]** **Middle Rows**: Your primary damage dealers, like the Common Sense Shooters or explosive **Meme-Eraser Cherries**.
-    *   **[ES]** **Front Row**: Place your defensive Fact-Checker Walls here to act as a barrier, especially against tough Sigmas.
-4.  **[ES]** **Use Your Ultimate Weapon - The "Touch Grass" Lawn Mower**: Just like the original, each lane is protected by a last-resort lawn mower, thematically redesigned as the "Touch Grass" mower. If a Brainrot gets past all your defenses, this will clear the entire lane once, but don't rely on it.
+Al ser un juego de Roblox, los controles son sencillos y centrados en el ratón.
 
-### **Controls Guide**
+*   **Seleccionar plantas**: usa el **ratón** para hacer clic en las cartas de
+    planta en la parte superior o lateral de la pantalla.
+*   **Plantar**: tras seleccionar una carta, haz clic en un cuadro válido del
+    césped para colocar la planta.
+*   **Recoger Focus**: haz clic sobre los iconos de Focus que generan tus Focus
+    Flowers.
+*   **Mover la cámara**: usa las teclas `W, A, S, D` o el ratón para ajustar la
+    vista del jardín.
 
-As a Roblox game, the controls are simple and mouse-driven.
+### **Preguntas frecuentes (FAQ)**
 
-*   **[ES]** **Select Plants**: Use your **mouse** to click on the plant cards at the top or side of the screen.
-*   **[ES]** **Planting**: After selecting a card, click on a valid square on your lawn to plant.
-*   **[ES]** **Collecting Focus**: Click on the Focus icons that your Focus Flowers produce.
-*   **[ES]** **Camera Movement**: Use `W, A, S, D` keys or your mouse to adjust your view of the lawn.
+**1. ¿Dónde puedo jugar a *Plants vs Brainrots*?**  
+El juego está disponible exclusivamente en la plataforma **Roblox**. Puedes
+disfrutarlo gratis buscando «Plants vs Brainrots» en la web de Roblox o en la
+app oficial.
 
-### **Frequently Asked Questions (FAQ)**
+**2. ¿Es un juego oficial de *Plants vs. Zombies*?**  
+No. Tanto la web como el propio juego dejan claro que se trata de una **parodia
+fan‑made** y que no está afiliado a PopCap ni a Electronic Arts (EA), los
+creadores del *PvZ* original.
 
-**1. Where can I play *Plants vs Brainrots*?**
-The game is exclusively available on the **Roblox** platform. You can play it for free by searching for "Plants vs Brainrots" on the Roblox website or in the Roblox app.
+**3. ¿Es un juego gratuito?**  
+Sí, el juego es free‑to‑play. Como muchos juegos de Roblox, puede incluir
+compras opcionales con Robux para aspectos cosméticos, plantas especiales u
+otras ventajas.
 
-**2. Is this an official *Plants vs. Zombies* game?**
-No. The website and the game itself clarify that it is a **fan-made parody** and is not affiliated with PopCap or Electronic Arts (EA), the creators of the original *PvZ*.
+**4. ¿Qué significa exactamente «Brain Rot»?**  
+«Brain Rot» es jerga de internet para referirse a esa sensación de que el
+cerebro se derrite después de consumir demasiado contenido viral de baja
+calidad. El juego convierte a los personajes de ese contenido en tus enemigos.
 
-**3. Is the game free?**
-Yes, the game is free-to-play. However, like many Roblox games, it may offer optional in-game purchases (using Robux) for cosmetic items, special plants, or other advantages.
+**5. ¿Cómo me entero de las nuevas plantas y memes que se añaden?**  
+Lo más recomendable es unirte al **servidor oficial de Discord** del juego. Ahí
+los desarrolladores anuncian actualizaciones, comparten códigos para objetos
+gratuitos e interactúan con la comunidad.
 
-**4. What is "Brain Rot"?**
-"Brain Rot" is internet slang for the feeling of one's mind turning to mush after consuming too much low-quality, viral online content. The game cleverly turns the characters from this content into its enemies.
-
-**5. How do I stay updated on new memes and plants added to the game?**
-The website recommends joining the game's official **Discord server**. This is where the developers announce updates, release codes for free items, and interact with the player community.

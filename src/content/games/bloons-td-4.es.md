@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bloons-td-4
-title: '[ES] Bloons TD 4'
+title: "Bloons TD 4"
 description: >-
-  [ES] Dive into Bloons TD 4, a classic tower defense game featuring branching
-  upgrade paths, powerful new towers, and the mighty BFB blimp. Strategize your
-  defense and level up to unlock everything!
+  Sumérgete en Bloons TD 4, un clásico de defensa de torres con rutas de mejora
+  ramificadas, potentes torres nuevas y el temible dirigible BFB. Diseña tu
+  defensa y sube de nivel para desbloquearlo todo.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/bloons-td-4.jpg
 tags:
@@ -16,65 +16,115 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Bloons TD 4 supone una evolución importante dentro de la serie Bloons Tower
+Defense, con un gran salto visual y mecánicas que se convertirían en base para
+los títulos futuros. Aunque el objetivo sigue siendo colocar monos para reventar
+oleadas de Bloons antes de que lleguen al final del camino, BTD4 lleva la
+estrategia a otro nivel.
 
-### Game Introduction
+La novedad más importante es la introducción de las **rutas de mejora
+ramificadas**. En lugar de comprar todas las mejoras de una torre, debes elegir
+entre dos caminos de mejoras de nivel 3 y 4 que se excluyen mutuamente. Esto
+hace que una misma torre pueda cumplir roles muy distintos.
 
-Bloons TD 4 represents a significant evolution in the Bloons Tower Defense series, introducing a major graphical overhaul and foundational gameplay mechanics that defined future titles. While the core objective—placing monkeys to pop waves of Bloons—remains, BTD4 deepened the strategy immensely.
+El juego también incorpora un **sistema de rango de jugador**. Al jugar y
+terminar partidas ganas puntos de experiencia (XP) con los que subes de rango.
+A medida que aumentas de nivel, se van desbloqueando nuevas torres, mejoras y
+modos de juego, creando una sensación de progresión constante.
 
-The most important innovation in this installment is the introduction of **branching upgrade paths**. Instead of buying all available upgrades for a tower, players must make a strategic choice between two powerful, mutually exclusive tier 3 and tier 4 upgrades. This creates diverse roles for the same tower.
+**Características clave de Bloons TD 4:**
+-   **Mejoras ramificadas:** La piedra angular de la estrategia moderna en
+    Bloons TD. Por ejemplo, un Tack Shooter puede evolucionar a `Tack Sprayer`
+    para disparar más púas o a `Ring of Fire` para hacer un enorme daño en área,
+    pero no ambos en la misma torre.
+-   **Nuevas torres:** Se incorporan unidades icónicas como el **Dartling Gun**,
+    la **Spike Factory** o el **Monkey Glue**.
+-   **Nuevo blimp – el BFB:** El **B.F.B.** rojo (Brutal Flying Behemoth) debuta
+    aquí. Es mucho más resistente que un MOAB y, al explotar, libera cuatro
+    MOABs.
+-   **Rango de jugador y desbloqueos:** Un sistema de progresión en el que vas
+    desbloqueando contenido simplemente jugando.
+-   **Nuevos modos de juego:** Se añaden **Apopalypse Mode** (oleadas continuas
+    sin pausas) y **Sandbox Mode** (dinero y vidas ilimitados para probar
+    estrategias).
+-   **Consumibles:** Road Spikes y charcos de Monkey Glue que puedes colocar en
+    el camino como defensas de un solo uso.
 
-The game also introduced a **player rank system**. By playing and completing games, players earn experience points (XP) to level up their rank. New towers, upgrades, and game modes are unlocked as the player's rank increases, adding a persistent sense of progression.
+### Estrategia de juego
 
-**Key Features of Bloons TD 4:**
--   **Branching Upgrades:** The cornerstone of modern Bloons TD strategy. For example, a Tack Shooter can be upgraded to a `Tack Sprayer` for more tacks or a `Ring of Fire` for powerful AoE damage, but not both.
--   **New Towers:** Introduced iconic towers like the **Dartling Gun**, **Spike Factory**, and **Monkey Glue**.
--   **New Blimp - The BFB:** The red **B.F.B.** (Brutal Flying Behemoth) makes its debut. It's much tougher than a MOAB and contains four MOABs inside.
--   **Player Rank & Unlocks:** A progression system where you unlock content by playing the game.
--   **New Game Modes:** Introduced **Apopalypse Mode** (continuous Bloon waves with no breaks) and **Sandbox Mode** (unlimited money and lives to test strategies).
--   **Consumables:** Road Spikes and Monkey Glue Puddles can be placed on the track as single-use defenses.
+-   **Planifica tus mejoras:** Como ya no puedes comprar todas las mejoras,
+    tienes que pensar a largo plazo. Decide qué rol cumplirá cada torre.
+    ¿Necesitas un Bomb Tower para aturdir (`MOAB Mauler`) o para hacer gran daño
+    en área (`Bloon Impact`)?
+-   **Camo y Lead son grandes amenazas:**
+    -   **Camo Bloons:** Necesitas torres con detección de camuflaje. Las
+        mejores opciones tempranas son un Dart Monkey con mejora 2/2
+        (`Enhanced Eyesight`), una Spike Factory con mejora 1/x o un Mortar
+        Tower con `Signal Flare` (x/3).
+    -   **Lead Bloons:** Las Bomb Towers (2/x) o un Boomerang Thrower con
+        `Glaive Thrower` (x/2) son tus principales herramientas. El `Ring of
+        Fire` (Tack Shooter) también puede reventarlos.
+-   **Rutas de mejora especialmente fuertes:**
+    -   **Super Monkey (2/x – Sun God):** El mayor DPS para la fase final de la partida.
+    -   **Bomb Tower (2/3 – MOAB Mauler):** Esencial para aturdir y hacer daño
+        extra a MOABs y BFBs.
+    -   **Tack Shooter (2/4 – Ring of Fire):** Brutal para controlar grandes
+        grupos de Bloons.
+    -   **Monkey Glue (2/2 – Bloon Dissolver):** Excelente para ralentizar
+        blimps y derretir capas de cerámicos.
+-   **Banana Farms son obligatorias:** En dificultades altas y en la fase final de la partida
+    necesitas economía. Construye Banana Farms pronto y mejóralas a `Banana
+    Republic` (2/x) para generar ingresos constantes. Así podrás pagar las
+    mejoras de nivel 4 y los Super Monkeys.
+-   **Cómo vencer al BFB:** El BFB (aparece por primera vez en la ronda 65) es
+    una amenaza enorme. Tu defensa debería incluir:
+    -   Varias Bomb Towers `MOAB Mauler` para aturdirlo y dañarlo.
+    -   Un Glue Gunner `Bloon Dissolver` para ralentizarlo.
+    -   Un Super Monkey `Sun God` como fuente principal de daño.
+    -   La habilidad `Spike Storm` (Spike Factory) como recurso de emergencia si
+        se acerca demasiado a la salida.
 
-### Gameplay Strategy
+### Guía de controles
 
--   **Plan Your Upgrades:** Because you can no longer buy every upgrade, you must plan ahead. Decide what role a tower will fill. Do you need a Bomb Tower for stunning (`MOAB Mauler`) or for massive area damage (`Bloon Impact`)?
--   **Camo and Lead are Major Threats:**
-    -   **Camo Bloons:** You need specific towers to hit them. The best early options are a Dart Monkey upgraded to 2/2 (`Enhanced Eyesight`), a Spike Factory (1/x upgrade), or a Mortar Tower with the `Signal Flare` (x/3) upgrade.
-    -   **Lead Bloons:** Bomb Towers (2/x) or a Boomerang Thrower with `Glaive Thrower` (x/2) are your primary tools. The `Ring of Fire` (Tack Shooter) can also pop Leads.
--   **Powerful Upgrade Paths to Aim For:**
-    -   **Super Monkey (2/x - Sun God):** The ultimate late-game damage dealer.
-    -   **Bomb Tower (2/3 - MOAB Mauler):** Essential for stunning and dealing extra damage to MOABs and BFBs.
-    -   **Tack Shooter (2/4 - Ring of Fire):** Amazing crowd control for a large area.
-    -   **Monkey Glue (2/2 - Bloon Dissolver):** Excellent for slowing down blimps and melting through ceramic layers.
--   **Banana Farms are a Must:** For higher difficulties and late-game survival, you need an economy. Build Banana Farms early and upgrade them to `Banana Republic` (2/x) to generate a steady income stream. This allows you to afford expensive tier 4 upgrades and Super Monkeys.
--   **How to Beat the BFB:** The BFB (first appears on Round 65) is a huge threat. Your defense should include:
-    -   A large number of `MOAB Mauler` Bomb Towers to stun and damage it.
-    -   A `Bloon Dissolver` Glue Gunner to slow it down.
-    -   A `Sun God` Super Monkey for primary damage.
-    -   A `Spike Storm` (Spike Factory ability) for a burst of damage if it gets too close to the exit.
+La interfaz es el clásico sistema de apuntar y hacer clic.
 
-### Controls Guide
+-   **Seleccionar y colocar torres:** Haz clic en una torre del panel derecho.
+    Si está desbloqueada y tienes dinero suficiente, haz clic de nuevo en el
+    mapa para colocarla.
+-   **Mejorar torres:** Haz clic en una torre ya colocada para abrir su panel de
+    mejoras. Elige una de las dos rutas y compra sus mejoras. Recuerda que al
+    adquirir una mejora de nivel 3 o 4 en un camino, bloqueas el otro.
+-   **Atajos:** Usa los atajos indicados en los iconos de las torres para
+    seleccionarlas rápido. La barra espaciadora inicia las rondas y el avance
+    rápido acelera el juego.
+-   **Consumibles:** Haz clic en el icono de Road Spikes o Glue Puddle en la
+    parte inferior y luego haz clic sobre el camino para colocarlos.
 
-The interface is a classic point-and-click system.
+### Preguntas frecuentes (FAQ)
 
--   **Select & Place Tower:** Click a tower from the right-hand panel. If it is unlocked and you have enough money, you can place it on the map by clicking again.
--   **Upgrade Tower:** Click an existing tower on the map. Its upgrade panel will appear. Click on one of the two paths to purchase upgrades. Remember that buying a tier 3 or 4 upgrade on one path will lock the other path.
--   **Hotkeys:** Use the corresponding hotkeys (displayed on the tower icons) to select towers quickly. The spacebar starts rounds, and fast forward speeds up the game.
--   **Consumables:** Click the Road Spikes or Glue Puddle icon at the bottom and then click on the track to place them.
+**1. ¿Por qué no puedo comprar cierta torre o mejora?**
+> En Bloons TD 4, la mayoría de torres y todas las mejoras de nivel 3 y 4 deben
+> desbloquearse subiendo tu rango de jugador. Juega más partidas para ganar XP y
+> acabarás desbloqueándolo todo.
 
-### Frequently Asked Questions (FAQ)
+**2. ¿Cómo reviento los Camo Bloons?**
+> Necesitas torres con detección de camuflaje. Por ejemplo, Dart Monkeys con
+> `Enhanced Eyesight` (2/2), Mortar Towers con `Signal Flare` (x/3) o Spike
+> Factories con `Bigger Stacks` (1/x).
 
-**1. Why can't I buy a certain tower or upgrade?**
-> In Bloons TD 4, most towers and all tier 3 and 4 upgrades must be unlocked by increasing your player rank. Play more games to earn XP and you will eventually unlock everything.
+**3. ¿En qué se diferencian el MOAB azul y el BFB rojo?**
+> El BFB (Brutal Flying Behemoth) es mucho más resistente que un MOAB. Cuando un
+> BFB explota, libera cuatro MOABs.
 
-**2. How do I pop Camo Bloons?**
-> You need towers with camo detection. This includes Dart Monkeys with the `Enhanced Eyesight` (2/2) upgrade, Mortar Towers with the `Signal Flare` (x/3) upgrade, or Spike Factories with the `Bigger Stacks` (1/x) upgrade.
+**4. ¿Puedo comprar todas las mejoras para un mismo mono?**
+> No. Este es el mayor cambio de BTD4. Solo puedes elegir uno de los dos caminos
+> finales de mejora para cada torre. Por ejemplo, puedes convertir a un Super
+> Monkey en `Sun God` (2/x) o en `Robo‑Monkey` (x/2), pero no ambas cosas en la
+> misma unidad.
 
-**3. What's the difference between the blue MOAB and the red BFB?**
-> The BFB (Brutal Flying Behemoth) is much stronger and more durable than the MOAB. When a BFB is popped, it releases four MOABs.
-
-**4. Can I buy all the upgrades for one monkey?**
-> No. This is the biggest change in BTD4. You can only choose one of the two final upgrade paths for each tower. For example, you can get a Super Monkey's `Sun God` (2/x) OR `Robo-Monkey` (x/2), but not both on the same tower.
-
-**5. What is Apopalypse Mode?**
-> It's a special game mode where Bloons come in continuous, overlapping waves without any breaks between rounds. You don't earn money at the end of rounds, only from popping Bloons, making it very challenging.
-
+**5. ¿Qué es el modo Apopalypse?**
+> Es un modo especial en el que los Bloons llegan en oleadas continuas y
+> solapadas, sin descansos entre rondas. No ganas dinero al final de cada ronda,
+> solo reventando Bloons, así que es un desafío mucho más duro.

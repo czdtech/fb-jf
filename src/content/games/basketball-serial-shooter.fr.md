@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: basketball-serial-shooter
-title: '[FR] Basketball serial shooter'
-description: >-
-  [FR] Basketball serial shooter turns rapid‑fire hoops into skill — set arcs,
-  manage rhythm, and chain swishes under pressure.
-iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
+title: "Basketball serial shooter"
+description: "Basketball serial shooter est un défi de tir en série : règle ton arc, garde le rythme et enchaîne les paniers dans un temps limité ou avec un nombre de balles réduit."
+iframeSrc: "https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/"
 thumbnail: /new-images/basketball-serial-shooter.jpg
 tags:
   - sports
@@ -14,48 +12,57 @@ score: 4.3/5  (2141 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Basketball serial shooter* est un jeu de tir au panier à rythme élevé. L’objectif est de réussir un maximum de tirs d’affilée en gérant l’angle, la puissance et parfois le vent, tout en t’adaptant aux paniers mouvants et aux différents obstacles.
 
+### Guide de jeu
 
+1. **Construis une routine de tir**  
+   Choisis une position de curseur et un tempo de relâchement qui te semblent naturels, puis répète‑les pour rendre chaque tir plus constant.
 
-### Detailed Game Introduction
+2. **Privilégie l’arc plutôt que la force brute**  
+   Un tir plus haut qui retombe doucement a plus de chances de rentrer qu’un tir trop plat qui tape l’arceau.
 
-Basketball serial shooter is a fast, score‑attack basketball challenge focused on timing, arc control, and shot selection. You’ll face moving hoops, shifting wind (in some variants), and limited time or balls. The core loop is to settle a repeatable release, read the basket movement, and string swishes without rim‑outs. As you progress, obstacles, moving backboards, and changing hoop heights add variety and demand cleaner mechanics.
+3. **Lis les cycles des paniers**  
+   Pour les paniers qui se déplacent, observe un cycle complet, puis déclenche ton tir toujours au même moment du mouvement.
 
-### Gameplay Strategy & Walkthrough
+4. **Commence de près**  
+   Si un mode combo est présent, enchaîne d’abord quelques paniers faciles à courte distance avant de tenter les tirs lointains.
 
-1.  **[FR]** Build a repeatable form: Pick a comfortable cursor position and release rhythm so each attempt feels consistent.
-2.  **[FR]** Arc over power: Favor higher arcs that drop softly; flat line‑drives rim out more often.
-3.  **[FR]** Read cycles: For moving hoops, identify the motion cycle and shoot at the same phase each time.
-4.  **[FR]** Work inside‑out: Take nearer, higher‑percentage shots to establish a streak before attempting long‑range baskets.
-5.  **[FR]** Recover quickly: If you miss, pause half a beat to re‑center aim and re‑establish rhythm before the next shot.
-6.  **[FR]** Wind adjustment (if present): Offset aim into the wind and add a touch more arc to compensate for drift.
-7.  **[FR]** Goal management: In timed modes, ignore risky coins or side targets unless alignment is clean.
+5. **Gère le vent (le cas échéant)**  
+   Si une flèche de vent est affichée, vise légèrement contre le vent et ajoute un peu d’arc jusqu’à trouver la compensation idéale.
 
-### Controls Guide
+6. **Récupère vite après un raté**  
+   Après un tir manqué, fais une micro-pause pour recentrer ton curseur et ton tempo au lieu de relancer dans la précipitation.
 
-- Aim and power: Drag to set angle/power and release to shoot; some builds separate power on a hold bar.
-- Special targets: Tap bonus targets only when they line up with your normal arc.
-- Pause/Retry: Use on‑screen controls; some versions allow quick reset.
+7. **Priorise les objectifs**  
+   En mode chronométré, ignore les pièces ou cibles risquées tant qu’elles ne sont pas dans l’axe de ton arc habituel.
 
-### Frequently Asked Questions (FAQ)
+### Commandes
 
-- Q: Why do my shots keep rimming out?
+- Fais glisser pour régler l’angle et la puissance, puis relâche pour tirer.  
+- Certains modes ajoutent des cibles bonus à toucher lorsqu’elles passent sur ta trajectoire habituelle.  
+- Utilise les boutons à l’écran pour mettre en pause ou relancer rapidement une partie.
 
-A: Your arc is too flat or power is too high. Raise the apex and reduce power slightly so the ball drops softly through the rim.
+### Foire aux questions (FAQ)
 
-- Q: How do I handle moving hoops?
+*   **Q : Pourquoi mes tirs ressortent‑ils souvent du cercle ?**
+    
+    **R :** Ton arc est trop bas ou la puissance trop élevée. Réduis légèrement la force et hausse la trajectoire pour que la balle tombe plus verticalement dans le panier.
 
-A: Watch a full motion cycle, pick a consistent phase (e.g., leftmost point), and release at that moment every time.
+*   **Q : Comment gérer les paniers qui bougent ?**
+    
+    **R :** Observe un cycle complet de leur mouvement, choisis une phase fixe (par exemple l’instant où ils atteignent l’extrémité gauche) et déclenche systématiquement ton tir à ce moment.
 
-- Q: Does wind matter in this game?
+*   **Q : Le vent change‑t‑il vraiment quelque chose ?**
+    
+    **R :** Dans les variantes avec vent, oui. Oriente légèrement ton viseur contre le vent et ajoute un peu d’arc, puis effectue quelques tirs d’essai pour calibrer la dérive.
 
-A: In variants with wind, aim slightly into the wind and add arc; practice a few test shots to calibrate drift.
+*   **Q : Des conseils pour les séries et multiplicateurs ?**
+    
+    **R :** Commence par des paniers proches et faciles pour bâtir la série, puis éloigne‑toi progressivement une fois le rythme verrouillé.
 
-- Q: Any tip for streaks and multipliers?
-
-A: Start with close, safe shots to build a combo, then extend range once your rhythm is locked.
-
-- Q: Should I go for coin shots?
-
-A: Only if their path matches your standard arc; otherwise you’ll lose more time and streak than you gain.
+*   **Q : Faut‑il viser les pièces ou cibles bonus ?**
+    
+    **R :** Seulement si elles se trouvent déjà sur ton arc habituel. Sinon tu perdras plus de temps (et ta série) que les points gagnés.

@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: lucky-vegas-blackjack
-title: '[KO] Lucky Vegas Blackjack'
+title: "Lucky Vegas Blackjack 럭키 베가스 블랙잭"
 description: >-
-  [KO] Lucky Vegas Blackjack streamlines 21 — apply basic strategy, manage
-  bankroll, and enjoy quick hands without chasing losses.
+  Lucky Vegas Blackjack는 기본 전략과 자금 관리를 바탕으로 빠르게 라운드를 즐길 수
+  있는 캐주얼 블랙잭 게임입니다. 손실을 무리하게 만회하려 하지 말고, 가볍게 21 포인트
+  게임의 분위기를 즐기는 데 초점을 맞추세요.
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
 thumbnail: /new-images/lucky-vegas-blackjack.png
 tags:
@@ -17,34 +18,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Lucky Vegas Blackjack*는 표준 블랙잭 규칙에 기반한 빠른 라운드를 제공합니다. 목표는
+21을 넘지 않는 선에서 딜러보다 더 높은 합을 만드는 것입니다. 그림 카드는 10, 에이스는
+1 또는 11로 계산되며, 딜러의 오픈 카드에 맞춰 기본 전략을 적용하고, 하우스 에지가 큰
+사이드 베팅은 가볍게 즐기는 용도로만 사용하는 편이 좋습니다.
 
-Lucky Vegas Blackjack offers fast blackjack rounds with standard rules: reach 21 or best the dealer without busting. Face cards count as 10; aces as 1 or 11. Use basic strategy vs the dealer upcard and avoid risky side bets with higher house edges.
+### 공략 & 플레이 팁
 
-### Gameplay Strategy & Walkthrough
+1. 기본 전략: 하드 17 이상은 대부분 스탠드하고, 11 이하에서는 안전하게 히트하는 것이
+   일반적입니다. 딜러의 약한 오픈 카드(2~6) 앞에서는 10·11에서 더블 다운을 노려 보세요.
+2. 소프트 핸드: 소프트 17은 계속 히트하는 편이 유리하고, 규칙이 허용한다면 소프트 18은
+   딜러의 약한 오픈 카드 앞에서 더블 다운을 고려할 수 있습니다.
+3. 스플릿: 에이스와 8은 가능한 한 나누어 플레이하고, 10과 5는 스플릿하지 않는 것이
+   기본 전략입니다. 나머지 페어는 테이블에 표시된 가이드나 기본 전략 표를 참고하세요.
+4. 자금 관리: 한 판마다 비슷한 금액으로 베팅하는 플랫 베팅을 유지하고, 이익 목표와
+   손실 한도를 미리 정해 두었다가 도달하면 미련 없이 멈추는 습관을 들이세요.
+5. 사이드 베팅: 대부분 하우스 에지가 높기 때문에, 수익을 위해서가 아니라 이벤트성으로
+   가볍게 즐기는 정도로만 사용하는 것이 좋습니다.
 
-1.  **[KO]** Basic chart: Stand hard 17+, hit ≤11, double 10–11 vs weak upcards.
-2.  **[KO]** Soft hands: Hit soft 17; double soft 18 vs weak upcards when allowed.
-3.  **[KO]** Splits: Split A/8; don’t split 10/5; follow table rules for others.
-4.  **[KO]** Bankroll: Flat bet sizing; stop after win target or loss limit.
-5.  **[KO]** Side bets: Treat as entertainment, not EV.
+### 조작 방법
 
-### Controls Guide
+- 화면 UI의 버튼으로 히트/스탠드/더블/스플릿 등을 선택하고, 각 라운드 사이에 베팅
+  금액을 조절하면 됩니다.
 
-- Hit/Stand/Double/Split via UI; adjust bet between hands.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 이 게임에서 카드 카운팅이 통하나요?
 
-- Q: Can I count cards here?
+  A: 단일 슈를 자주 섞거나 자동 셔플을 사용하는 버전이 많아, 실제 카드 카운팅 전략을
+  적용하기는 어렵습니다. 수학적인 이득보다 가볍게 즐기는 용도로 생각하는 편이 좋습니다.
 
-A: Single‑shoe resets/auto shuffles often negate counting; play for fun.
+- Q: 인슈어런스(보험 베팅)는 하는 게 좋나요?
 
-- Q: Insurance worth it?
+  A: 일반적으로 하우스 에지가 높아 수학적으로는 불리한 선택으로 여겨집니다. 특별한
+  이유가 없다면 피하는 것이 기본 전략에 더 가깝습니다.
 
-A: Generally no; it has high house edge.
+- Q: 변동성을 줄이고 싶다면 어떻게 해야 하나요?
 
-- Q: How to reduce variance?
-
-A: Use smaller flat bets and avoid side bets.
-
+  A: 베팅 금액을 작게 유지해 플랫 베팅으로 플레이하고, 사이드 베팅을 피하면 판마다의
+  결과 변동 폭을 줄이는 데 도움이 됩니다.

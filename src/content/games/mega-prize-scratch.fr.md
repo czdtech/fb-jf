@@ -1,48 +1,38 @@
 ---
 locale: fr
-urlstr: mega-prize-scratch
-title: '[FR] Mega Prize Scratch'
-description: >-
-  [FR] Mega Prize Scratch is a casual scratch‑card — reveal panels, match
-  symbols, and set session limits to keep it fun.
-iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
-thumbnail: /new-images/mega-prize-scratch.png
-tags:
-  - casual
-score: 3.6/5  (1538 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "mega-prize-scratch"
+title: "Mega Prize Scratch"
+description: "Mega Prize Scratch est un jeu de grattage détente : révèle les cases, aligne les symboles et fixe des limites de session pour garder l’expérience amusante."
+iframeSrc: "https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/"
+thumbnail: "/new-images/mega-prize-scratch.png"
+tags: ["casual"]
+score: "3.6/5  (1538 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Mega Prize Scratch simule un ticket à gratter virtuel : tu frottes la surface pour révéler des symboles cachés, tu cherches des combinaisons gagnantes et tu déclenches parfois des manches bonus. Chaque ticket est indépendant ; le jeu est pensé comme un divertissement léger plutôt que comme un puzzle à résoudre.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Fixer un budget :** définis à l’avance une petite somme virtuelle ou un nombre de tickets pour ta session et respecte‑la.
+2.  **Prendre son temps :** gratte lentement si tu veux savourer le suspense ; se précipiter ne change pas le résultat du ticket.
+3.  **Connaître les symboles :** lis les règles pour savoir quelles combinaisons ou quels symboles déclenchent des gains ou des jeux bonus.
+4.  **Savoir s’arrêter :** décide d’un seuil de gain où tu t’arrêtes, ainsi qu’un point de perte maximale à ne pas dépasser.
+5.  **Faire des pauses :** fais des pauses régulières pour éviter les clics impulsifs et garder le jeu dans le domaine du loisir.
 
-Mega Prize Scratch simulates a scratch ticket: recover hidden symbols, match patterns, and trigger bonus rounds. Each card is independent; treat the game as light entertainment rather than a strategy challenge.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Fais glisser pour gratter les zones, ou utilise les boutons pour « tout révéler », acheter une nouvelle carte ou entrer dans les manches bonus.
 
-1.  **[FR]** Budget: Set a small session budget and stick to it.
-2.  **[FR]** Pace: Scratch slowly to enjoy reveals; rushing doesn’t change outcomes.
-3.  **[FR]** Bonus awareness: Read rules so you know which symbols unlock features.
-4.  **[FR]** Stop rules: Quit on win targets or when the budget ends.
-5.  **[FR]** Breaks: Step away periodically to avoid impulse spending.
+### Foire aux questions (FAQ)
 
-### Controls Guide
-
-- Drag to scratch; press buttons to reveal all, buy new cards, or enter bonuses.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Can I influence results?
-
-A: No — outcomes are random; focus on pacing and budgeting.
-
-- Q: What bet size is best?
-
-A: Small, consistent bets extend playtime.
-
-- Q: Do bonuses improve odds?
-
-A: They change volatility more than long‑term expectation.
+- **Q : Puis‑je influencer les résultats ?**  
+  **R :** Non, les tirages sont aléatoires. Tu ne contrôles que ton rythme de jeu et ton budget.
+- **Q : Quelle mise est la plus raisonnable ?**  
+  **R :** De petites mises constantes permettent de prolonger la session et de limiter les risques.
+- **Q : Les bonus améliorent‑ils vraiment mes chances ?**  
+  **R :** Ils changent surtout la volatilité et la façon dont les gains sont distribués, plus que l’espérance de gain à long terme.
 

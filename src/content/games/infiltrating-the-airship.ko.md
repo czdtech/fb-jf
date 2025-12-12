@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: infiltrating-the-airship
-title: '[KO] Infiltrating the Airship'
+title: "Infiltrating the Airship 에어십 침투"
 description: >-
-  [KO] Henry Stickmin heist: choose gadgets and routes to board an airship,
-  trigger gags, and unlock multiple endings with scene replays.
+  Henry Stickmin 시리즈의 에피소드 중 하나인 'Infiltrating the Airship'
+  가이드입니다. 각종 도구와 루트를 선택해 비공정을 침투하고,
+  여러 개의 결말과 실패 장면을 수집하는 방법을 소개합니다.
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/infiltrating-the-airship.jpg
 tags:
@@ -16,29 +17,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
 
+*Infiltrating the Airship*는 Henry Stickmin 시리즈의 인기 에피소드로,
+여러 갈래로 분기되는 **비공정 침투 작전**을 다룹니다.  
+플레이어는 변장 도구, 그래플링 훅, 각종 기계 장치 등 다양한
+아이템을 선택해 침투 루트를 결정하게 되며, 선택에 따라
+성공하거나 웃긴 실패 장면으로 이어집니다.
 
-### Overview
-This Henry Stickmin episode revolves around a branching airship break‑in. You pick gadgets (disguises, grapples, tech toys) and follow route splits that lead to success or hilarious failure. Quick‑time prompts appear in action scenes, while a scene map lets you revisit to collect all fails and endings.
+액션 장면에서는 간단한 QTE(빠른 키 입력)가 등장하고,
+씬 맵(장면 선택)이 제공되는 버전에서는 이미 본 구간을
+다시 플레이하며 모든 실패·엔딩을 수집할 수 있습니다.
 
-### How to Play
-- Select tools at decision points; timing matters in chase sequences.
-- Explore the major branches to see unique endings.
-- Use scene select (if available) to finish collections.
+### 플레이 방법
 
-### Controls
-- Mouse to choose; occasional keys for QTEs depending on host.
+- 상황마다 주어지는 **도구·전략 옵션** 중 하나를 골라 진행합니다.  
+- 추격전이나 액션 장면에서는 타이밍이 중요한 QTE가 등장할 수
+  있으니, 화면에 뜨는 키 입력을 빠르게 눌러야 합니다.  
+- 주요 분기 루트를 골고루 시도해 보면, 서로 다른 엔딩과
+  숨겨진 개그 장면을 많이 볼 수 있습니다.  
+- 씬 선택 기능이 있는 호스트라면, 이 기능을 활용해
+  놓친 실패 장면을 회수할 수 있습니다.
 
-### Tips
-- Don’t fear failure—each wrong pick teaches the right path.
-- Click characters mid‑scene to log bios when supported.
-- Keep a list of endings to avoid repeats.
+### 조작법
 
-### FAQ
-- Q: How many endings are available in this game?
-A: Multiple branch‑specific endings; exact count depends on the host version.
-- Q: Do I need fast reactions for every scene?
-A: Only certain QTE segments; most progress comes from choices.
-- Q: Can I replay scenes to complete my collection?
-A: Yes—scene select assists with 100% runs on many hosts.
+- **마우스**: 선택지 클릭, 인터랙션 선택  
+- **키보드**: 일부 QTE 상황에서 방향키나 특정 키를 눌러
+  회피·공격·행동을 수행합니다(사용 키는 호스트에 따라 다를 수 있음).
+
+### 공략 팁
+
+- 실패를 두려워하지 마세요. Henry Stickmin 시리즈는 오히려
+  **실패 연출을 보는 재미**가 핵심에 가깝습니다.  
+- 일부 버전에서는 장면 중간에 캐릭터를 클릭하면 **바이오(bio)**가
+  기록되니, 캐릭터 소개 수집을 노린다면 틈틈이 클릭해 보세요.  
+- 여러 엔딩을 노릴 때는 이미 본 결말을 메모해 두거나,
+  씬 선택에서 아직 못 본 루트 위주로 도전하면 효율적입니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 이 게임에는 몇 개의 엔딩이 있나요?**  
+  **A:** 루트에 따라 여러 엔딩이 존재하며, 사용하는 호스트
+  버전에 따라 세부 개수가 조금 다를 수 있습니다.
+
+- **Q: 모든 장면에서 빠른 반응이 필요한가요?**  
+  **A:** 아닙니다. 대부분은 선택지 위주의 진행이고, 일부
+  액션 구간에서만 QTE 반응 속도가 중요합니다.
+
+- **Q: 씬을 다시 플레이해서 수집률을 올릴 수 있나요?**  
+  **A:** 네. 많은 호스트 버전에서 제공하는 장면 선택 기능을
+  이용하면, 놓친 실패나 엔딩을 쉽게 회수할 수 있습니다.
 

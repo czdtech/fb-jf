@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: reversi-mania
-title: '[ES] Reversi Mania'
+title: "Reversi Mania"
 description: >-
-  [ES] Reversi Mania brings classic Othello to your browser — outflank discs,
-  seize corners, and win with smart endgame parity.
-iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
-thumbnail: /new-images/reversi-mania.png
+  Reversi Mania lleva el clásico Othello a tu navegador: flanquea fichas, toma
+  las esquinas y gana con un final de partida bien calculado.
+iframeSrc: "https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/"
+thumbnail: "/new-images/reversi-mania.png"
 tags:
   - 2 player
   - thinky
@@ -16,30 +16,62 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Reversi Mania es una implementación fiel y fácil de aprender de Reversi (también
+conocido como Othello). Los jugadores se turnan para colocar fichas en un
+ tablero de 8×8 con el objetivo de flanquear las fichas del rival en líneas
+rectas (horizontal, vertical o diagonal). Todas las fichas flanqueadas se dan la
+vuelta y pasan a ser de tu color. Si un jugador no tiene ningún movimiento legal
+que voltee al menos una ficha, está obligado a pasar. La partida termina cuando
+ninguno de los dos puede mover, normalmente cuando el tablero está lleno. Gana
+quien tenga más fichas de su color en el tablero.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Reversi Mania is a faithful, fast‑to‑learn implementation of Reversi (also known as Othello). Players take turns placing discs on an 8×8 board to outflank the opponent’s discs in straight lines (horizontal, vertical, or diagonal). Any outflanked discs flip to your color. If a player has no legal move that flips at least one disc, they must pass; the game ends when neither side can move (usually when the board is full). The side with more discs wins.
+1.  **Prioriza las esquinas:** Las fichas de esquina nunca pueden ser volteadas;
+    asegurarlas suele decidir la partida.
+2.  **Evita las casillas "X" al principio:** Las casillas diagonales adyacentes
+    a las esquinas (X‑squares) suelen regalar una esquina al rival si se juegan
+    demasiado pronto.
+3.  **Estabilidad en los bordes:** Los bordes son muy fuertes una vez que se
+    estabilizan. Construye desde las esquinas antes de expandirte por ellos.
+4.  **Movilidad antes que fichas (al inicio):** Mantén abiertas tus opciones y
+    limita las del rival. Voltear muchas fichas muy pronto puede volverse en tu
+    contra.
+5.  **Paridad en el final:** Intenta ser quien juegue el último movimiento en
+    cada región. Controlar si una zona tiene un número par o impar de casillas
+    vacías puede decidir el vuelco final.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Corners first: Corner discs can never be flipped; securing corners often decides the game.
-2.  **[ES]** Avoid “X‑squares” early: The diagonally adjacent squares to corners (X‑squares) often give your opponent an easy corner capture.
-3.  **[ES]** Edge stability: Edges are powerful once stabilized; build safely from corners before expanding along the edge.
-4.  **[ES]** Mobility over material (early): Keep your options open and deny moves to your opponent; too many early flips can backfire.
-5.  **[ES]** Parity (endgame): Aim to move last in the final regions; controlling whether a region has odd/even empties can secure the final swing.
+- **Colocar ficha:** Haz clic o toca una casilla legal (la mayoría de versiones
+  marcan los movimientos válidos). Una jugada legal debe voltear al menos una
+  ficha rival.
+- **Pasar turno:** Si no existe ningún movimiento legal, el juego pasará tu
+  turno automáticamente o te pedirá confirmación.
+- **Modos de juego:** Suelen incluir partida contra la IA y modo 2 jugadores en
+  el mismo dispositivo.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Place a disc: Click or tap a legal square (most implementations highlight valid moves). A legal move must flip at least one opposing disc.
-- Passing: If no legal move exists, the game auto‑passes or prompts you to pass.
-- Modes: Single‑player (vs. AI) or local 2‑player are commonly available.
+- **P: ¿Qué hace que una jugada sea legal?**
+  
+  **R:** Debe flanquear una o más fichas rivales en línea recta. Todas las
+  fichas atrapadas entre la tuya y otra de tu color se voltean.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Qué pasa si ninguno de los dos puede mover?**
+  
+  **R:** La partida termina y gana el jugador que tenga más fichas de su color
+  en el tablero.
 
-- What makes a move legal? It must outflank one or more opponent discs in a straight line; all outflanked discs flip.
-- What if neither side can move? The game ends and the side with more discs on the board wins.
-- Is going first stronger? Initiative helps, but strong play revolves around corners, mobility, and endgame parity.
-- Any quick tip for beginners? Don’t over‑flip early; fight for mobility and avoid X‑squares until you can secure corners.
+- **P: ¿Es mejor jugar primero?**
+  
+  **R:** Tener la iniciativa ayuda, pero la clave está en controlar esquinas,
+  movilidad y la paridad del final.
 
+- **P: ¿Algún consejo rápido para principiantes?**
+  
+  **R:** No te obsesiones con voltear muchas fichas al principio. Protege tus
+  opciones de movimiento y evita las casillas X hasta que puedas asegurar las
+  esquinas.

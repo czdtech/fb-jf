@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: funny-shooter-2
-title: '[ES] Funny Shooter 2'
+title: "Funny Shooter 2"
 description: >-
-  [ES] Wave‑based FPS: blast bizarre enemies with an expanding arsenal, earn
-  coins, and upgrade weapons between stages.
+  FPS por oleadas: destruye enemigos absurdos con un arsenal en expansión,
+  gana monedas y mejora tus armas entre ronda y ronda.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/funny-shooter-2.jpg
 tags:
@@ -15,30 +15,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Te enfrentas a oleadas de enemigos de lo más estrafalarios en arenas cerradas.
+Sobrevive a las rondas, completa los objetivos y gasta tus ganancias en armas y
+herramientas mejores.
 
+### Cómo jugar
 
-### Overview
-Arena waves of oddball foes. Survive rounds, complete objectives, and spend earnings on better weapons and utilities.
+- Mantente siempre en movimiento; gira alrededor de los enemigos (circle‑strafing)
+  y atrae a los grupos grandes para que te sigan.
+- Prioriza a los enemigos a distancia y a los que llevan explosivos.
+- Compra primero mejoras de daño por segundo (DPS) y, después, mejoras de supervivencia.
 
-### How to Play
-- Keep moving; circle‑strafe and kite large groups.
-- Prioritize ranged threats and explosive carriers.
-- Buy DPS upgrades first, then survivability.
+### Controles
 
-### Controls
-- WASD to move, Mouse to aim/shoot; R reload; 1–3 switch weapons; Shift sprint (host dependent).
+- WASD para moverte, ratón para apuntar y disparar; R para recargar; 1–3 para
+  cambiar de arma; Shift para esprintar (según el portal).
 
-### Tips
-- Aim for headshots; enemies are bullet‑spongy at higher waves.
-- Use corners to funnel mobs; avoid getting surrounded.
-- Save explosives for clustered spawns.
+### Consejos
 
-### FAQ
-- Q: How do I unlock new guns?
-A: Purchase them using coins gained from completing waves.
-- Q: Are there bosses in the game?
-A: Many versions include periodic boss waves with unique mechanics.
-- Q: Can I change sensitivity?
-A: Most hosts provide a settings menu for sensitivity and FOV.
+- Apunta a la cabeza; en oleadas altas los enemigos aguantan muchos impactos
+  al cuerpo.
+- Usa las esquinas para canalizar a los grupos y evita quedarte rodeado.
+- Reserva tus explosivos para cuando los enemigos aparezcan agrupados.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo desbloqueo nuevas armas?**  
+  **R:** Comprándolas con las monedas que obtienes al completar oleadas.
+
+- **P: ¿Hay jefes en el juego?**  
+  **R:** Muchas versiones incluyen oleadas de jefe periódicas con mecánicas
+  propias.
+
+- **P: ¿Puedo cambiar la sensibilidad del ratón?**  
+  **R:** La mayoría de portales ofrecen un menú de ajustes para sensibilidad y
+  campo de visión (FOV).

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: freekick-football
-title: '[ZH TRANSLATION NEEDED] Freekick Football'
+title: "Freekick Football 任意球大師"
 description: >-
-  [ZH TRANSLATION NEEDED] Test your free-kick skills in Freekick Football. Aim,
-  shoot, and score to become a free-kick master.
+  在 Freekick Football 中專注磨練你的任意球腳法——瞄準、射門、過人牆、破門，
+  一步步成為任意球專家。
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/freekick-football.png
 tags:
@@ -18,22 +18,31 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Freekick Football is a game that focuses on the art of the free kick in soccer. Players are challenged to score goals from various set-piece situations, navigating past defensive walls and the goalkeeper. The game tests your precision, timing, and understanding of ball physics.
+《Freekick Football》把足球中的任意球環節單獨拿出來做成遊戲。你將在各種定位球場景中挑戰射門，
+必須繞過人牆與守門員，把球精準送進球門。遊戲會考驗你的瞄準精度、力度控制，
+以及對足球旋轉與弧線軌跡的理解。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Aiming:** Carefully aim your shot to find a path to the goal. Consider the position of the wall and the goalkeeper.
-2.  [ZH TRANSLATION NEEDED] **Power:** Apply the right amount of power. Too little, and you won't clear the wall; too much, and you'll miss the goal.
-3.  [ZH TRANSLATION NEEDED] **Curve/Spin:** Use spin to bend the ball around the wall and away from the goalkeeper. This is key to scoring in difficult situations.
-4.  [ZH TRANSLATION NEEDED] **Analyze the Situation:** Before each kick, assess the distance, the wall's position, and the keeper's stance to choose the best strategy.
+
+1.  **瞄準落點：** 射門前先觀察人牆站位與門將位置，選擇一條相對安全的路線，
+    例如繞到人牆外緣或直接打死角。
+2.  **控制力量：** 力度太小可能過不了人牆，太大又容易把球送飛；
+    建議先從中等力度開始熟悉，再視距離微調。
+3.  **加旋轉與弧線：** 利用內旋或外旋讓足球繞過人牆再折回球門，是破解高人牆的關鍵技巧。
+4.  **讀場景：** 每球開踢前都先評估距離、人牆高度與門將站位，
+    有時候直接爆射縫隙比勉強拉弧線更實際。
 
 ### Controls Guide
 
-*   **Mouse/Touch:** Use the mouse or touch screen to aim, set power, and apply spin to the ball. The exact controls may vary slightly, but generally involve a sequence of clicks or swipes.
+*   **滑鼠／觸控：** 通常透過滑鼠或觸控操作來指定方向、力度與旋轉，
+    可能需要依序完成瞄準、拉力度條與畫弧線的手勢，具體方式視版本略有不同。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I score more consistently?**
-     *   **A:** Practice is key. Experiment with different levels of power and spin to understand how the ball behaves. Aim for the corners of the goal, as these are the hardest spots for the keeper to reach.
-*   **Q: What's the best way to beat the wall?**
-     *   **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
+*   **問：怎樣才能更穩定得分？**
+    *   **答：** 多加練習不同力度與旋轉的組合，逐漸建立對球路的直覺。
+        一般來說，瞄準球門上下角最難被門將撲到，是比較穩定的選擇。
 
+*   **問：破解人牆的最好方式是什麼？**
+    *   **答：** 最常見的做法是利用弧線球越過或繞開人牆；
+        若人牆站位留有空隙，也可以嘗試用力量球直接打穿縫隙，前提是你能精準對準空檔。

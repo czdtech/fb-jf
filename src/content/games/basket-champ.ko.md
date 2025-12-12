@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: basket-champ
-title: '[KO] Basket Champ'
+title: 'Basket Champ 배스킷 챔프'
 description: >-
-  [KO] Basket Champ is a one‑touch hoop challenge — set arc, swish clean, and
-  string perfect shots.
+  한 번의 터치로 각도와 힘을 정해 골대를 노리는 농구 타이밍 게임입니다.
+  움직이는 골대와 장애물을 피하며 연속 득점을 이어 가 보세요.
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/basket-champ.png
 tags:
@@ -15,29 +15,44 @@ score: 4.0/5  (1816 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Basket Champ는 최소한의 조작으로 슛 타이밍을 겨루는 농구 게임입니다. 화면을
+한 번 탭해 각도와 힘을 정하고, 움직이는 골대나 장애물을 피해 공을 통과시키며
+연속 득점을 노립니다. 간단한 규칙이지만, 패턴을 몸에 익히고 리듬을 유지하는
+것이 쉽지만은 않습니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **림 위를 향한 높은 각도:** 림 중앙보다 조금 위를 겨냥해 공이 부드럽게
+    떨어지도록 높은 아크를 그리는 슛이 성공률이 높습니다.
+2.  **움직이는 골대 타이밍 잡기:** 골대가 좌우로 움직이는 패턴을 한두 번
+    지켜본 뒤, 항상 같은 위치(예: 왼쪽 끝, 중앙)를 지날 때 슛을 던지는
+    타이밍을 정해 두면 안정적인 득점에 도움이 됩니다.
+3.  **실수 후 리듬 재정비:** 한 번 빗나갔다고 초조해하지 말고, 다음 슛을
+    준비하기 전에 잠깐 호흡을 고르고 조준을 다시 맞추는 것이 중요합니다.
+4.  **무리한 코인 욕심은 버리기:** 코인이나 보너스 타깃을 노리다 오히려 득점
+    리듬이 깨질 수 있습니다. 궤적이 자연스럽게 겹치는 경우에만 노리고,
+    그렇지 않다면 득점 유지에 집중하세요.
+5.  **특정 장애물 패턴 연습:** 반복해서 등장하는 장애물 배치를 눈에 익히고,
+    그 패턴에 맞는 전용 각도를 연습해 두면 고득점에 큰 도움이 됩니다.
 
-Basket Champ is a minimal basketball timing game. Tap to set arc and power, thread shots through moving hoops or obstacles, and maintain streaks for big scores.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 탭/클릭: 화면을 한 번 눌러 슛의 각도와 힘을 설정한 뒤, 손을 떼면 공이
+  발사됩니다.
+- 일시정지/다시 시작: 화면의 UI 버튼을 통해 조작할 수 있습니다.
 
-1.  **[KO]** Aim above rim center for soft drops.
-2.  **[KO]** Time moving hoops—shoot at consistent cycle points.
-3.  **[KO]** Recover after misses: reset rhythm before next attempt.
-4.  **[KO]** Ignore risky coins when alignment is poor.
-5.  **[KO]** Use practice to nail specific obstacle patterns.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **슛이 자꾸 튕겨 나옵니다. 어떻게 해야 하나요?**  
+  아크가 너무 낮거나 힘이 과한 경우가 많습니다. 포물선을 조금 더 높게,
+  힘은 약간 줄여 림을 살짝 넘으면서 떨어지도록 조절해 보세요.
 
-- Tap/Click to set power/arc and release.
-- Pause/Retry via UI.
+- **엔드가 있나요, 아니면 끝less 모드인가요?**  
+  대부분의 버전은 끝까지 이어지는 모드로, 얼마나 오랫동안 연속 득점을
+  이어 가는지가 기록이 됩니다.
 
-### Frequently Asked Questions (FAQ)
-
-- Shots bounce out—fix? More arc and less power.
-- Endless? Typically yes—chase streak records.
-- Wind? Adjust for any side forces if present.
-
+- **바람 같은 추가 요소가 있나요?**  
+  일부 버전에서는 바람 등의 변수가 존재할 수 있으며, 이 경우 바람 방향의
+  반대쪽으로 조금 더 조준하고 아크를 높여 보정하는 것이 좋습니다.

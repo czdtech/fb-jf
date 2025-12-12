@@ -1,66 +1,51 @@
 ---
-locale: ja
+title: Stud Rider
+description: Stud Riderは、バイクレーシングゲームです。スタントを実行し、障害物を避けてレースに勝ちましょう。
+iframeSrc: 'https://ubg98.github.io/StudRider/'
+thumbnail: /new-images/stud-rider.jpg
 urlstr: stud-rider
-title: '[JA TRANSLATION NEEDED] Stud Rider'
-description: >-
-  [JA TRANSLATION NEEDED] Stud Rider is a moto hill‑runner — manage momentum,
-  land flat, and link jumps smoothly across rugged tracks.
-iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
-thumbnail: /new-images/stud-rider.png
+score: 4.2/5  (2134 votes)
 tags:
-  - bike
-  - driving
-  - action
-score: 3.9/5  (1707 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - racing
+  - motorcycle
+  - stunt
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Stud Riderは、エキサイティングなバイクスタントレーシングゲームです。障害物を乗り越え、スタントを実行し、レースに勝利しましょう。
 
-[JA TRANSLATION NEEDED] Stud Rider emphasizes flow: small throttle pulses, flat landings, and cautious flips maintain speed. Rough terrain punishes nose‑dives and over‑rotation; consistent cadence beats wild stunts.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Land level to keep traction.
-[JA TRANSLATION NEEDED] 2.  Feather throttle over crests; don’t stuff the nose.
-[JA TRANSLATION NEEDED] 3.  Flip sparingly — only with clear arc and altitude.
-[JA TRANSLATION NEEDED] 4.  Pump dips for speed; cut throttle mid‑air to stabilize.
-[JA TRANSLATION NEEDED] 5.  Memorize jump lengths for perfect linkups.
-
-### Controls Guide
-
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right; Restart via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep tucking the front.
-  
-[JA TRANSLATION NEEDED]   A: Ease off before lips and lean back slightly, then level out.
-
-- Q: Flips kill my speed.
-  
+ - **バイクを運転：** バイクをコントロールして前進します
+ - **スタントを実行：** ジャンプやトリックを実行してポイントを獲得します
+ - **障害物を避ける：** さまざまな障害物を避けてクラッシュしないようにします
+ - **レースに勝つ：** できるだけ速くゴールに到達します
 
 
-
-
-
-
-- Q: I keep tucking the front.
-### よくある質問（FAQ）
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right; Restart via UI.
-### コントロールガイド
 - Memorize jump lengths for perfect linkups.
+### 操作ガイド
+
+ - **矢印キー：** バイクのコントロール
+ - **上矢印：** 加速
+ - **下矢印：** ブレーキ
+ - **左/右矢印：** バランス調整
 
 ### よくある質問（FAQ）
-- Pump dips for speed; cut throttle mid‑air to stabilize.
-[JA TRANSLATION NEEDED]   A: Use only when certain; focus on clean landings.
 
 
+- Q: I keep tucking the front.
+**ゲームの目標は何ですか？**
 
 
-A: Use only when certain; focus on clean landings.
 - Q: Flips kill my speed.
+障害物を避けてスタントを実行しながら、レースに勝つことです。
 
+**スタントはどうやって実行しますか？**
 
-A: Use only when certain; focus on clean landings.
+ジャンプ中に矢印キーを使ってトリックを実行します。
+
+**バランスは重要ですか？**
+
+はい、特にジャンプやスタント中はバイクのバランスを保つことが重要です。

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: metal-guns-fury
-title: '[KO] Metal Guns Fury'
+title: "Metal Guns Fury 메탈 건즈 퓨리"
 description: >-
-  [KO] Metal Guns Fury is a run‑and‑gun arcade — dodge bullets, manage weapons,
-  and blast through waves with crisp movement.
+  Metal Guns Fury는 탄을 피하며 전장을 질주하는 런앤건 아케이드 액션으로, 무기를
+  관리하며 밀려오는 적을 호쾌하게 쓸어 버리는 게임입니다.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/metal-guns-fury.jpg
 tags:
@@ -16,35 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Metal Guns Fury*는 고전 아케이드 감성을 계승한 횡스크롤 런앤건 액션 게임입니다.
+라이플·샷건·로켓 등 다양한 무기를 상황에 맞게 교체하고, 포로를 구출해 파워업을
+얻으며, 병사와 터릿, 경장갑 차량이 가득한 전장을 돌파해야 합니다. 깔끔한 점프와 슬라이딩
+회피, 탄약 관리가 안정적인 클리어와 허망한 전멸을 가르는 핵심 요소입니다.
 
-### Detailed Game Introduction
+### 공략 & 진행 팁
 
-Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade classics. Swap between rifles/shotguns/rockets, rescue hostages for power‑ups, and clear arenas packed with soldiers, turrets, and light vehicles. Clean jumps, slide‑dodges, and ammo discipline separate stable clears from messy deaths.
+1. **우선 제거 대상:** 기본 보병보다 포탑과 로켓병처럼 큰 피해를 주는 적을 먼저
+   처리해 교차 사격을 줄이세요.
+2. **복층 이동:** 낮게 날아오는 탄은 점프로 넘고, 높은 각도의 탄이나 투사체는 슬라이딩으로
+   아래를 파고들어 회피한 뒤 반격하는 식으로, 점프와 슬라이드를 섞어 사용하세요.
+3. **탄약 경제:** 사소한 적에게는 짧은 점사 사격으로 처리하고, 로켓과 같은 중화기는
+   다수의 적이나 보스의 장갑을 깨는 데 아껴 쓰는 것이 좋습니다.
+4. **파워업 동선:** 포로를 구출하면 체력과 탄약이 회복되거나 버프를 얻는 경우가 많으니,
+   보스전 직전에 구출 보상을 받을 수 있도록 동선을 조정해 두세요.
+5. **보스 패턴 읽기:** 보스의 패턴과 페이즈를 먼저 관찰하고, 안전한 빈틈이 보일 때만
+   과감히 딜을 넣으세요. 정면에서 맞딜을 시도하다가 순식간에 녹는 상황을 피해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Target priority: Turrets and rockets first; basic grunts later.
-2.  **[KO]** Movement layering: Jump over low fire, slide under high arcs, then counter.
-3.  **[KO]** Ammo economy: Burst fire, conserve rockets for multi‑targets/boss armor.
-4.  **[KO]** Power‑ups: Route rescues to refresh HP/ammo before boss gates.
-5.  **[KO]** Boss patterns: Read phases; punish windows rather than face‑tank.
+- 이동: 방향키 또는 WASD
+- 공격: J 키 또는 마우스 클릭
+- 점프: K 키 또는 Spacebar
+- 수류탄/특수 능력: L 또는 E (버전에 따라 다름)
+- 무기 교체: Q 키
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
+- Q: 사방에서 날아오는 총알에 금방 녹아요.
 
-### Frequently Asked Questions (FAQ)
+  A: 한 번에 여러 방향을 보려고 하기보다, 한 라인씩 차례대로 정리하면서 전진하세요.
+  장애물 모서리를 엄폐물처럼 활용하고, 화면 중앙에서 오래 멈춰 서 있는 시간을 줄이는
+  것이 좋습니다.
 
-- Q: I get shredded in crossfire.
+- Q: 보스전에서 탄약이 항상 모자랍니다.
 
-A: Clear one lane at a time, abuse cover edges, and avoid standing mid‑screen.
+  A: 보스에게 큰 피해를 주기 전까지는 중화기를 아껴 두고, 자잘한 적은 기본 무기로
+  짧게 끊어 쏘며 처리하세요. 보스의 방어를 깰 수 있는 타이밍에만 로켓을 사용하는 것이
+  효율적입니다.
 
-- Q: Ammo runs dry on bosses.
+- Q: 어떤 무기가 가장 좋나요?
 
-A: Save heavy ammo for armor breaks; use burst fire on adds to conserve.
-
-- Q: Which weapon is best?
-
-A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
-
+  A: 가까이 몰려오는 적 무리는 샷건, 중거리 대응에는 라이플, 체력이 높거나 방어력이
+  높은 적에게는 로켓이 유리합니다. 스테이지 구성에 맞춰 그때그때 주력 무기를 바꾸는
+  것이 좋습니다.

@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: rock-paper-scissors-dojo
-title: '[FR] Rock Paper Scissors Dojo'
+title: 'Rock Paper Scissors Dojo'
 description: >-
-  [FR] Rock Paper Scissors Dojo is a quirky duel — read patterns, mix
-  strategies, and outwit opponents in best‑of series.
+  Rock Paper Scissors Dojo transforme « pierre‑feuille‑ciseaux » en duel
+  malin : repère les schémas, varie tes stratégies et devance tes adversaires
+  sur des manches en plusieurs manches gagnantes.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
 thumbnail: /new-images/rock-paper-scissors-dojo.png
 tags:
@@ -17,33 +18,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Rock Paper Scissors Dojo turns RPS into a light mind‑game. Across best‑of matches, you’ll try to detect tendencies (e.g., opponents repeat after wins, switch after losses) and counter with mixed strategies that avoid being predictable.
+Rock Paper Scissors Dojo transforme le classique « pierre‑feuille‑ciseaux »
+en petit jeu de lecture mentale. Sur des séries en plusieurs manches
+gagnantes, tu essaies de repérer les habitudes de ton adversaire (par
+exemple, certains répètent après une victoire, d’autres changent après une
+défaite) et tu adaptes ta stratégie en conséquence sans devenir toi‑même
+prévisible.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** Baseline mix: Use a balanced random mix to avoid exploitation early.
-2.  **[FR]** Pattern spotting: Track opponent streaks — repeaters vs switchers.
-3.  **[FR]** Counter‑adapt: If they repeat after wins, pre‑counter next round; if they switch after losses, anticipate the switch.
-4.  **[FR]** Meta resets: Throw an occasional off‑pattern choice to reset reads.
-5.  **[FR]** Series math: In best‑of N, tighten play near deciding rounds.
+1.  **Mélange de base :** commence avec un mix relativement équilibré
+    entre pierre, feuille et ciseaux pour éviter d’être exploité d’entrée
+    de jeu.
+2.  **Repérage de schémas :** observe les séries de ton adversaire :
+    répète‑t‑il souvent le même coup après une victoire ou change‑t‑il
+    systématiquement après une défaite ?
+3.  **Contre‑adaptation :** s’il répète après une manche gagnée, prépare
+    le coup qui le battra au tour suivant ; s’il change après une défaite,
+    anticipe vers quoi il est susceptible de basculer.
+4.  **Reset du « meta » :** lance parfois un choix totalement inattendu
+    pour brouiller les pistes et empêcher ton adversaire de te lire trop
+    facilement.
+5.  **Gestion de la série :** dans un « best‑of N », resserre ton jeu
+    lorsque tu approches des manches décisives.
 
-### Controls Guide
+### Commandes
 
-- Pick rock/paper/scissors each round; local two‑player often available.
+- Choisis pierre, feuille ou ciseaux à chaque manche. De nombreux modes
+  proposent aussi un jeu à 2 joueurs en local.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-- Q: Isn’t RPS random?
+- **Q : Pierre‑feuille‑ciseaux n’est‑il pas purement aléatoire ?**  
+  R : En théorie oui, mais les humains ont des biais. Les exploiter peut
+  te donner un avantage sur le long terme.
 
-A: Humans show biases; exploiting them raises win rate over many rounds.
+- **Q : Existe‑t‑il une stratégie imbattable ?**  
+  R : Non, mais un mélange équilibré et une adaptation rapide face aux
+  tendances de l’adversaire restent des approches solides.
 
-- Q: Any unbeatable strategy?
-
-A: No — but balanced mixes and quick adaptation are robust.
-
-- Q: Two‑player?
-
-A: Many builds include local 2P on one device.
-
+- **Q : Peut‑on jouer à deux ?**  
+  R : Oui, beaucoup de versions incluent un mode 2 joueurs sur le même
+  appareil.

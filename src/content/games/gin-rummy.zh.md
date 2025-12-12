@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: gin-rummy
-title: '[ZH TRANSLATION NEEDED] Gin Rummy'
+title: "Gin Rummy 金拉密牌"
 description: >-
-  [ZH TRANSLATION NEEDED] Play the classic card game of Gin Rummy. Form your
-  cards into sets and runs, knock to end the round, and try to catch your
-  opponent with a hand full of deadwood.
+  線上體驗經典桌遊 Gin Rummy：將手牌組成刻子與順子，在手中剩餘「廢牌」點數足夠低時敲牌結束回合，
+  試著在對手手裡留下高分死牌。
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/gin-rummy.png
 tags:
@@ -19,36 +18,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Gin Rummy is a classic two-player card game that belongs to the Rummy family. The objective is to form your hand into valid combinations called "melds"—either sets of the same rank or runs of the same suit. The goal is to score points by having less "deadwood" (unmatched cards) than your opponent when a round ends. It's a game of skill, strategy, and memory, where you must pay close attention to what your opponent discards.
+Gin Rummy 是拉密家族中的經典兩人紙牌遊戲。你的目標是把手中的牌組成合法牌型「組合」（meld），
+包括同點數刻子或同花順子，並在回合結束時，讓未成組的「廢牌」（deadwood）點數比對手更低。
+這是一款兼具技巧、記憶與讀牌的遊戲，你必須留意自己摸進與丟出的牌型，同時觀察對手棄牌來推測其手牌結構。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Goal:** To form your 10-card hand into melds and "knock" when the value of your unmatched cards (deadwood) is 10 or less.
-2.  [ZH TRANSLATION NEEDED] **Melds:**
-    * [ZH TRANSLATION NEEDED] **Sets:** Three or four cards of the same rank (e.g., 8♠ 8♥ 8♦).
-    * [ZH TRANSLATION NEEDED] **Runs:** Three or more cards of the same suit in sequence (e.g., 5♣ 6♣ 7♣).
-3.  [ZH TRANSLATION NEEDED] **The Turn:** On your turn, you must perform two actions:
-    * [ZH TRANSLATION NEEDED] **Draw:** Take either the top face-up card from the discard pile OR the top face-down card from the stock pile.
-    * [ZH TRANSLATION NEEDED] **Discard:** Discard one card from your hand onto the discard pile, placing it face-up.
-4.  [ZH TRANSLATION NEEDED] **Knocking:** You can end the round by "knocking" if your deadwood value is 10 or less. To knock, you discard a card and then lay out your melds and deadwood. Your opponent then gets a chance to lay off their own deadwood cards on your melds.
-5.  [ZH TRANSLATION NEEDED] **Going Gin:** If you form melds with all 10 of your cards, you can "Go Gin." This results in a bonus, and your opponent is not allowed to lay off any cards.
-6.  [ZH TRANSLATION NEEDED] **Scoring:** Card values are: Aces = 1, Face Cards (K, Q, J) = 10, Number Cards = face value. After a knock, if your deadwood value is lower than your opponent's, you score the difference. If your opponent's deadwood is lower (an "undercut"), they score the difference plus a bonus.
+
+1.  **基本目標：** 每局你會拿到 10 張手牌，透過摸牌與棄牌，把手牌整理成刻子與順子，
+    當手中未成組牌（deadwood）的點數總和 ≤ 10 點時，就有機會「敲牌」（knock）結束該局。
+
+2.  **牌型（Melds）：**
+    *   **刻子（Sets）：** 三張或四張點數相同、花色不同的牌（例如 8♠ 8♥ 8♦）。
+    *   **順子（Runs）：** 同一花色且連續點數的三張以上牌（例如 5♣ 6♣ 7♣）。
+
+3.  **輪到你時會做兩件事：**
+    *   **摸牌（Draw）：** 從棄牌堆最上方明牌，或牌庫最上方暗牌中擇一摸進。
+    *   **棄牌（Discard）：** 選一張手牌丟到棄牌堆頂端，明示給對手。
+
+4.  **敲牌（Knocking）：** 當你計算後發現手中 deadwood 點數 ≤ 10 時，可以選擇敲牌結束此局。
+    敲牌時棄出一張牌，然後攤出自己的組合與廢牌；對手則可將其手中的部分廢牌「接」到你已攤出的組合上（lay off），
+    以降低自己的 deadwood 點數。
+
+5.  **Gin（全組合）：** 如果你能將 10 張牌全部組成刻子與順子，沒有任何 deadwood，
+    就可以宣告「Gin」，獲得額外加分，且對手不得再往你的組合上接牌。
+
+6.  **計分：** A = 1 點；J / Q / K 為 10 點；其餘數字牌按面值計算。敲牌後，若你的 deadwood 點數低於對手，
+    就能得到兩人 deadwood 點差的分數；若對手在接牌後 deadwood 反而比你少（undercut），
+    則由對手得到點差加上額外獎勵分。
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game is played with a mouse or touch screen.
+本遊戲主要以滑鼠或觸控操作。
 
-*   **Draw:** Click on either the face-down stock pile or the face-up discard pile to take a card.
-*   **Discard:** Click on a card in your hand to move it to the discard pile.
-*   **Knock/Go Gin:** A special button will usually appear when you are eligible to knock or go gin.
+*   **摸牌：** 點擊牌庫暗牌或棄牌堆頂端的明牌來抽牌。
+*   **棄牌：** 點擊手牌中想丟出的牌，將其移至棄牌堆。
+*   **敲牌／Gin：** 當符合條件時，介面通常會出現對應按鈕，可點擊宣告 knock 或 Gin。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is "deadwood"?**
-     *   **A:** Deadwood refers to any cards left in your hand that are not part of a valid set or run. The goal is to minimize the point value of your deadwood.
+*   **問：什麼是 deadwood？**
+    *   **答：** 指手牌中尚未組成合法刻子或順子的牌。遊戲目標就是在敲牌時讓這些牌的總點數盡量低。
 
-*   **Q: Should I always take a card from the discard pile?**
-     *   **A:** Only if it helps you form a meld. Be aware that taking a card from the discard pile signals to your opponent what kind of meld you might be building.
+*   **問：是不是應該常常從棄牌堆拿牌？**
+    *   **答：** 只有在那張棄牌能明顯幫助你完成組合時才值得拿，
+        否則過度從棄牌堆摸牌會讓對手看出你在湊哪一種牌型，暴露自己的戰略。
 
-*   **Q: What is an "undercut"?**
-     *   **A:** An undercut happens when you knock, but your opponent has a deadwood value equal to or less than yours after they lay off their cards. In this case, your opponent scores points instead of you.
-
+*   **問：什麼是 undercut？**
+    *   **答：** 當你敲牌後，對手在接牌之後 deadwood 點數反而與你相同或更低，
+        就算你先敲牌，最後得分仍會由對手拿走，並且額外獲得 undercut 獎勵分。"}

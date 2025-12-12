@@ -1,46 +1,74 @@
 ---
 locale: fr
 urlstr: cricket-hero
-title: '[FR] Cricket Hero'
-description: >-
-  [FR] Step up to the crease and become a Cricket Hero! Time your shots to
-  perfection and score as many runs as you can in this exciting cricket batting
-  game.
-iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
-thumbnail: /new-images/cricket-hero.jpg
+title: Cricket Hero
+description: "Cricket Hero est un jeu de batting arcade\_: choisis le bon coup, lis la trajectoire de la balle et envoie‑la dans les tribunes sans te faire bowler."
+iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/3dvk72tuofucg/'
+thumbnail: /new-images/cricket-hero.png
 tags:
   - sports
-  - action
   - casual
-score: 4.3/5  (2109 votes)
+score: 4.0/5  (1700 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Cricket Hero se concentre sur la partie frappeur du cricket. Des lancers
+successifs arrivent vers toi à différentes vitesses et trajectoires, et tu dois
+choisir le bon timing et la bonne direction de coup pour marquer des runs.
 
-Cricket Hero is a simple yet addictive arcade-style cricket game where your goal is to score as many runs as possible. As the batsman, you will face a variety of bowlers who will try to get you out. Your job is to watch the ball closely and time your swing to hit the ball and score runs. The game is all about timing and reflexes. Miss the ball or get bowled out, and your turn is over. How many runs can you score to become a true Cricket Hero?
+L’objectif est de réaliser le plus de points possible avant de te faire
+éliminer (bowled, LBW ou catch selon la version).
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** **Watch the Ball:** This is the most fundamental rule of cricket and this game. Keep your eyes glued to the ball from the moment it leaves the bowler's hand.
-2.  **[FR]** **Timing is Everything:** The key to scoring big is timing your shot perfectly. Swing too early or too late, and you'll miss the ball. A perfectly timed shot will send the ball flying for a six!
-3.  **[FR]** **Anticipate the Bounce:** Pay attention to where the ball is going to pitch. This will help you judge the speed and height of the ball, allowing you to time your swing more effectively.
-4.  **[FR]** **Stay Focused:** The game will get progressively faster and more challenging. Maintain your concentration to keep up with the increasing speed and variations in bowling.
+1.  **Observe la ligne et la longueur**  
+    Regarde d’où part la balle (ligne) et où elle rebondit (longueur) pour
+    choisir un coup au sol, en loft ou une défense.
+2.  **Privilégie les coups sûrs**  
+    Les 1, 2 et 4 bien placés sont souvent plus rentables qu’une tentative de 6
+    risquée qui finit en catch.
+3.  **Adapte‑toi au rythme du lanceur**  
+    Certains bowlers sont lents, d’autres très rapides. Ajuste ton timing en
+    conséquence.
+4.  **Utilise les gaps du terrain**  
+    Essaie de placer la balle entre les fielders visibles pour maximiser les
+    runs et réduire les chances d’être attrapé.
+5.  **Reste calme après un mauvais coup**  
+    Ne tilt pas : observe le lancer suivant et corrige ton timing.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Swing Bat:** Click the left mouse button or tap the screen to swing your bat. The timing of your click is the only control you have, so make it count!
+- **Choisir un coup** : selon la version, touche un bouton ou fais glisser dans
+  une direction pour choisir le type de frappe (coup droit, leg side, loft,…).  
+- **Timing** : appuie au bon moment pour déclencher le swing lorsque la balle
+  arrive à hauteur de batte.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: How do I score runs?**
-    *   **[FR]** **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).
 
-*   **[FR]** **Q: How does the game end?**
-    *   **[FR]** **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
+- **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
 
-*   **[FR]** **Q: Are there different types of bowlers?**
-    *   **[FR]** **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
+    - **Q: Are there different types of bowlers?**
+
+- **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
+
+    - **Q: How does the game end?**
+
+- **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).
+
+    - **Q: How do I score runs?**
+**Q : Pourquoi suis‑je souvent bowled ou LBW ?**  
+R : Tu joues probablement trop tôt ou trop tard. Essaie de frapper la balle
+plus près de toi, après le rebond.
+
+**Q : Puis‑je jouer défensif ?**  
+R : Oui, certaines versions permettent des coups de défense qui ne marquent pas
+beaucoup de runs mais te gardent en vie.
+
+**Q : Le jeu simule‑t‑il tout le cricket ?**  
+R : Non, Cricket Hero se focalise en général sur le batting, sans gestion
+complète des équipes ou de la partie.

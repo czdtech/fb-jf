@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: survivor-legends
-title: '[ES] Survivor Legends'
+title: 'Survivor Legends'
 description: >-
-  [ES] Survivor Legends is a horde‑survivor — kite circles, draft synergies, and
-  mow waves with cooldown economy and positioning.
+  Survivor Legends es un survivor de hordas: haz kiting en círculos, encadena
+  sinergias y tritura oleadas gestionando bien enfriamientos y posicionamiento.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/survivor-legends.png
 tags:
@@ -15,30 +15,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Survivor Legends sigue la fórmula de los survivors de autoataque: tú solo te
+encargas de moverte, el personaje ataca automáticamente, subes de nivel para
+escoger armas y pasivas, y tu misión es sobrevivir a oleadas cada vez más
+intensas. Lo que marca la diferencia son las sinergias entre mejoras, la gestión
+de área y control de masas y el radio de recogida de experiencia.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Survivor Legends follows the auto‑attack survivor formula: move to kite, level to draft weapons/passives, and survive crescendos. Builds hinge on damage schedules (DPS vs burst), crowd control, and pickup radius for XP economy.
+1.  **Kiting amplio:** haz círculos grandes; te dan margen para corregir ruta y
+    evitan que te arrinconen.
+2.  **Prioriza objetivos:** elimina primero enemigos rápidos o a distancia; los
+    melee lentos se pueden kitear mientras tanto.
+3.  **Construye sinergias:** combina penetración con empuje, ralentización con
+    crítico o auras de daño con regeneración para aguantar más tiempo.
+4.  **Economía de experiencia:** invierte pronto en radio de recogida y bonus de
+    XP para acelerar el ritmo de leveo.
+5.  **Guarda ultimates:** reserva habilidades activas para picos de oleadas o
+    minibosses, no las gastes en grupos pequeños.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Wide kites: Large loops give correction time; avoid tight corners.
-2.  **[ES]** Priority: Kill fast/ranged first; slow melee later.
-3.  **[ES]** Draft synergies: Pair pierce with knockback, slow with crit, or aura with sustain.
-4.  **[ES]** Economy: Invest in pickup radius/XP early to accelerate drafts.
-5.  **[ES]** Ult windows: Save actives for wave spikes and elite packs.
+- Movimiento: `WASD` o flechas.  
+- Habilidades activas: teclas numéricas.  
+- Pausa: desde la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move: WASD/Arrows; actives on number keys; pause via UI.
+- **P: Me acaban acorralando siempre.**  
+  **R:** evita las esquinas, mantente en zonas centrales y atraviesa huecos
+  pequeños cuando la oleada aún es manejable; no esperes al último segundo.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I get cornered.
-
-A: Re‑route to midmap and dash through thin gaps early.
-
-- Q: Which upgrades first?
-
-A: Pickup radius/XP, then core damage and survivability.
+- **P: ¿Qué mejoras cojo primero?**  
+  **R:** suele compensar subir primero radio de recogida/XP y luego centrarte en
+  daño principal y supervivencia (vida, armadura, regeneración).

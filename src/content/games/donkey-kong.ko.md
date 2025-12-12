@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: donkey-kong
-title: '[KO] Donkey Kong'
+title: "Donkey Kong 동키콩"
 description: >-
-  [KO] Donkey Kong is a classic arcade platformer: climb ladders, avoid hazards,
-  and reach the top to clear stages.
+  1981년 출시된 고전 아케이드 플랫포머입니다. 사다리와 발판을 오르내리며
+  통과하고, 장애물을 피해 맨 위에 도달해 스테이지를 클리어하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/donkey-kong.jpg
 tags:
@@ -15,32 +15,50 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Donkey Kong은 마리오가 주인공으로 등장해 발판과 사다리를 타고 올라가는
+초기 아케이드 명작입니다. 화면 상단에 있는 폴린을 구하기 위해, 통과(철골)와
+사다리를 오르내리면서 통나무와 불덩이 등 각종 장애물을 피해야 합니다. 25m부터
+100m까지 네 가지 타입의 스테이지가 있으며, 한 레벨을 마칠 때마다 패턴과 속도가
+더 빨라진 난이도로 반복됩니다.
 
+### 플레이 방법
 
-### Overview
-Arcade classic (1981): climb girders and ladders as Mario, dodge barrels and fireballs, and use the hammer to smash hazards while you work through the four stage types (25m–100m) to rescue Pauline. Stages repeat with faster patterns after each level. 
+- 대부분의 스테이지에서는 맨 위까지 도달하면 클리어가 되며, 100m 스테이지에서는
+  리벳을 모두 제거해 구조물을 붕괴시키면 됩니다.  
+- 통나무를 뛰어넘거나 망치를 사용해 파괴하고, 중간에 놓인 아이템을 먹어 점수를
+  올립니다.  
+- 통나무가 직선으로 굴러가는지, 사선으로 내려오는지 패턴을 익히고, 컨베이어와
+  엘리베이터 발판의 움직임에 맞춰 타이밍을 조절해야 합니다.  
 
-### How to Play
-- Clear the stage by reaching the top or removing rivets in the 100m stage.
-- Score by jumping barrels, smashing with the hammer, and collecting items.
-- Learn barrel patterns (straight vs. diagonal), conveyor timing, and elevator springs.
+### 조작 방법
 
-### Controls
-- Arrow keys: Move/Climb.
-- Up: Climb ladders; Jump: usually with a mapped key (host dependent).
-- Action: Hammer is automatic once picked up, lasts for a short time.
+- 방향키: 좌우 이동 및 사다리 오르내리기  
+- 위쪽 방향키: 사다리 타기 시작  
+- 점프: 호스트에 따라 지정된 키(보통 스페이스 등)  
+- 망치: 획득 시 자동으로 일정 시간 동안 발동되어, 통나무/적을 파괴할 수 있습니다.  
 
-### Tips
-- Wait for safe ladder windows; don’t climb when a barrel is directly above.
-- On 25m, steer barrels by briefly facing a ladder to influence spawns.
-- Grab the hammer when traffic is dense, but don’t get trapped near ladders.
+### 팁
 
-### FAQ
-- Q: How many distinct stages are there?
-A: Four: Girders (25m), Conveyors (50m), Elevators (75m), and Rivets (100m).
-- Q: Does the game loop?
-A: Yes, stages repeat at higher difficulty after each level.
-- Q: What ends a run?
-A: Collisions, falling too far, or the bonus timer reaching zero.
+- 사다리를 오를 때는 바로 위에 통나무가 없는 안전한 타이밍을 기다렸다가
+  올라가세요.  
+- 25m 스테이지에서는 잠시 사다리 쪽을 바라보는 것으로 통나무 진행 방향에
+  영향을 줄 수 있어, 위험한 상황을 피하는 데 도움이 됩니다.  
+- 망치는 통행이 많은 구간에서 특히 유용하지만, 사용 중에는 점프나 사다리 이용이
+  제한되는 구간도 있으니, 사다리 근처에서 갇히지 않도록 주의하세요.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 스테이지는 총 몇 가지가 있나요?**  
+  **A:** 25m 철골, 50m 컨베이어, 75m 엘리베이터, 100m 리벳까지 총 네 가지
+  스테이지 타입이 있으며, 이후 난이도만 높아져 반복됩니다.  
+
+- **Q: 게임은 계속 반복되나요?**  
+  **A:** 네. 네 스테이지를 모두 클리어하면 더 빠르고 어려운 버전으로 다시
+  시작되며, 실수하기 전까지 점수를 계속 누적해 나갑니다.  
+
+- **Q: 어떤 상황에서 라이프를 잃게 되나요?**  
+  **A:** 통나무나 적과 충돌하거나, 너무 높은 곳에서 떨어지거나, 화면 상단의
+  보너스 타이머가 0이 되었을 때 라이프를 잃게 됩니다.  
 

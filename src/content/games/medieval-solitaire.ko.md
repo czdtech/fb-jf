@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: medieval-solitaire
-title: '[KO] Medieval Solitaire'
+title: Medieval Solitaire 미디벌 솔리테어
 description: >-
-  [KO] Journey back in time with Medieval Solitaire, a classic Klondike card
-  game with a medieval theme. Build your foundations from Ace to King and clear
-  the tableau in this strategic puzzle.
+  Medieval Solitaire는 중세 기사와 성, 왕실을 배경으로 한 클론다이크 솔리테어로, 에이스부터 킹까지 슈트별 기초 더미를 완성해
+  테이블의 패를 모두 정리하는 전략 카드 퍼즐입니다.
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/medieval-solitaire.png
 tags:
@@ -18,33 +17,45 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Medieval Solitaire*는 클래식 클론다이크 솔리테어의 규칙을 그대로 유지하면서, 중세풍의
+기사와 성, 왕실 테마를 더한 버전입니다. 카드 뒷면과 배경이 중세 스타일로 꾸며져 있을
+뿐, 목표는 기존과 동일하게 네 개의 기초 더미에 슈트별로 에이스부터 킹까지 순서대로
+쌓아 전체 덱을 모두 정리하는 것입니다.
 
-Medieval Solitaire transports the timeless appeal of Classic Klondike Solitaire to a world of knights, castles, and royalty. While the rules of the game are the same as the beloved original, the experience is enhanced with a charming medieval theme, featuring custom card designs and backgrounds. The goal remains to clear the entire deck by sorting all cards into four foundation piles by suit, in ascending order from Ace to King.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **목표 이해하기:** 총 52장의 카드를 네 개의 기초 더미로 옮기는 것이 최종 목표입니다.
+   각 더미는 에이스로 시작해 같은 슈트의 킹까지 오름차순으로 쌓아야 합니다.
+2. **테이블 관리:** 실제 전략이 이루어지는 곳은 테이블열입니다. 빨강/검정을 번갈아
+   내림차순으로 쌓아 (예: 검은 퀸을 빨간 킹 아래에) 뒤집혀 있는 카드를 최대한 빨리
+   열어 가는 것이 중요합니다.
+3. **에이스 우선 이동:** 에이스가 보이는 순간 즉시 기초 더미로 올려 슈트를 쌓기 시작하는
+   것이 좋습니다.
+4. **빈 열 활용:** 테이블에서 비어 있는 열은 킹만 놓을 수 있으며, 다른 카드를 크게
+   재배치할 수 있는 강력한 자원이 됩니다. 필요할 때를 위해 전략적으로 비워 두세요.
+5. **스톡 더미:** 테이블에서 더 이상 움직일 수 없을 때는 스톡 더미에서 카드를 넘겨
+   새로운 선택지를 만드세요.
 
-1.  **[KO]** **Objective:** Move all 52 cards to the four foundation piles, starting each pile with an Ace and building up to the King for each suit.
-2.  **[KO]** **Tableau Management:** The main play area (the tableau) is where most of the strategy happens. Build columns by placing cards in descending order and alternating colors (e.g., a black Queen on a red King). Your primary goal should be to uncover the face-down cards in the tableau to open up more moves.
-3.  **[KO]** **Prioritize Aces:** Whenever an Ace is available, move it to a foundation pile immediately to begin building your suits.
-4.  **[KO]** **Empty Columns:** An empty column in the tableau can only be filled by a King. This is a powerful move, so try to empty a column strategically to help you rearrange other cards.
-5.  **[KO]** **Stock Pile:** When you have no more available moves on the tableau, draw from the stock pile to bring new cards into play.
+### 조작 방법
 
-### Controls Guide
+* **카드 이동:** 카드를 클릭해 드래그하여 테이블 열 사이 또는 기초 더미로 옮깁니다.
+* **카드 뽑기:** 화면 왼쪽 위에 위치한 스톡 더미를 클릭해 새 카드를 웨이스트 더미로
+  넘깁니다.
+* **자동 플레이:** 많은 버전에서 더블 클릭만으로 카드를 규칙에 맞는 기초 더미로 자동
+  이동시키는 기능을 제공합니다.
 
-*   **[KO]** **Move Cards:** Click and drag cards to move them between the tableau columns or up to the foundation piles.
-*   **[KO]** **Draw Card:** Click the stock pile (usually in the top-left corner) to deal a new card to the waste pile.
-*   **[KO]** **Auto-Play:** Many versions feature a double-click option to automatically send a card to its correct foundation pile if the move is valid.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 이 게임과 일반 클론다이크 솔리테어의 차이점은 무엇인가요?**
+    - **A:** 규칙과 진행 방식은 동일하며, 중세풍 일러스트와 배경 음악 등 분위기만 다릅니다.
 
-*   **[KO]** **Q: What is the difference between this and Classic Solitaire?**
-    *   **[KO]** **A:** The gameplay and rules are identical to Classic (Klondike) Solitaire. The only difference is the visual theme, which features medieval-style art and music.
+* **Q: 더 이상 둘 수 있는 수가 없을 때는 어떻게 하나요?**
+    - **A:** 먼저 테이블에서 놓친 수가 없는지 다시 확인한 뒤, 없다면 스톡 더미에서 카드를
+    뽑아야 합니다. 스톡까지 모두 소진했고 더 이상 이동이 불가능하다면 그 판은 패배입니다.
 
-*   **[KO]** **Q: I can't make any more moves. What should I do?**
-    *   **[KO]** **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.
-
-*   **[KO]** **Q: Can I undo a move?**
-    *   **[KO]** **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.
-
+* **Q: 한 번 둔 수를 되돌릴 수 있나요?**
+    - **A:** 대부분의 디지털 솔리테어 게임처럼, 이 게임에도 여러 수를 되돌릴 수 있는
+    "Undo" 버튼이 포함된 경우가 많습니다. 실수를 바로잡거나 다른 전략을 시험해 볼 때
+    유용합니다.

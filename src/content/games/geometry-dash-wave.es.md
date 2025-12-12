@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: geometry-dash-wave
-title: '[ES] Geometry Dash Wave'
+title: "Geometry Dash Wave"
 description: >-
-  [ES] Master the rhythm and navigate treacherous levels in Geometry Dash Wave!
-  Control a triangular icon that moves diagonally up or down with a single
-  click. Time your taps perfectly to avoid obstacles and complete challenging
-  courses in this addictive, music-synced platformer.
+  Domina el ritmo y supera niveles peligrosos en Geometry Dash Wave. Controla
+  un icono triangular que sube y baja en diagonal con un solo toque y ajusta
+  tus pulsaciones al milímetro para esquivar obstáculos y completar recorridos
+  muy desafiantes en este adictivo juego de plataformas sincronizado con la música.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
 thumbnail: /new-images/geometry-dash-wave.jpg
@@ -19,34 +19,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
-### Game Introduction
+Geometry Dash Wave es un exigente juego de plataformas de ritmo que representa uno de los
+modos más populares dentro del universo Geometry Dash. Controlas un icono
+triangular que avanza sin parar a través de un recorrido lleno de peligros. La
+mecánica única de "wave" requiere una sincronización y un sentido del ritmo muy precisos
+para sortear obstáculos cambiando la trayectoria diagonal del icono.
 
-Geometry Dash Wave is a challenging, rhythm-based platformer that is a popular mode within the Geometry Dash universe. Players control a triangular icon that continuously moves forward through a hazardous course. The unique "wave" mechanic requires precise timing and rhythm to navigate obstacles by changing the icon's diagonal movement.
+### Guía de juego
 
-### Gameplay Guide
+- **Mecánica de wave:** Mantén pulsado el clic o el toque para que el icono se
+  desplace en diagonal hacia arriba; suelta para que baje en diagonal. El
+  resultado es una trayectoria en zigzag.
+- **Juego basado en el ritmo:** Los niveles suelen ir perfectamente
+  sincronizados con la música, y ajustar tus acciones al compás ayuda mucho a
+  navegar.
+- **Esquiva de obstáculos:** El reto principal consiste en no chocar con los
+  numerosos pinchos, paredes y otros elementos geométricos.
+- **Inversión de gravedad:** En algunos niveles o secciones la gravedad se
+  invierte, lo que invierte también el comportamiento del wave.
 
-- **Wave Mechanic:** Hold down the click/tap to make your icon move diagonally upwards. Release to make it move diagonally downwards. This creates a zigzag path.
-- **Rhythm-Based:** The levels are often synchronized with music, and timing your actions to the beat can help you navigate.
-- **Obstacle Avoidance:** The core challenge is to avoid hitting any of the numerous spikes, walls, and other geometric obstacles.
-- **Gravity Inversion:** Some levels or sections may invert gravity, reversing the wave controls.
+### Guía de controles
 
-### Controls Guide
+- **PC:** `Barra espaciadora`, `Flecha Arriba` o clic con el ratón para
+  controlar el movimiento en wave.
+- **Móvil:** Toca y mantén el dedo sobre la pantalla para controlar el wave.
 
-- **PC:** `Spacebar`, `Up Arrow Key`, or `Left Mouse Button` to control the wave.
-- **Mobile:** Tap and hold the screen to control the wave.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**¿Cuál es el objetivo principal de Geometry Dash Wave?**  
+El objetivo es completar cada nivel llevando tu icono wave hasta el final del
+recorrido sin chocar con los obstáculos.
 
-**What is the main goal of Geometry Dash Wave?**
+**¿Forma parte del Geometry Dash principal?**  
+Wave es un modo específico o estilo de nivel dentro del juego principal
+Geometry Dash, muy usado en niveles creados por la comunidad.
 
-The main goal is to complete each level by navigating your wave icon through a series of obstacles, reaching the end of the course.
-
-**Is it part of the main Geometry Dash game?**
-
-"Wave" is a specific game mode or a type of level design within the broader Geometry Dash game, often created by players.
-
-**How can I improve my timing?**
-
-Practice is key. Pay attention to the music and the visual cues of the level. Start by playing slower levels to get a feel for the wave mechanic before attempting faster or more complex ones.
-
+**¿Cómo puedo mejorar mi sincronización?**  
+La práctica es fundamental. Presta atención tanto a la música como a las pistas
+visuales del nivel. Empieza con niveles más lentos para familiarizarte con la
+mecánica wave antes de intentar pistas más rápidas o complejas.

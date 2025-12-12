@@ -1,83 +1,42 @@
 ---
+title: "Find the Difference"
+description: "目を鋭くし、細部への注意力をテストしましょう！ほぼ同じ2つの画像を比較し、時間切れ前にすべての違いを見つけましょう。"
+iframeSrc: "https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/"
+thumbnail: "/new-images/find-the-difference.jpg"
+urlstr: "find-the-difference"
+score: "4.3/5  (2100 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: find-the-difference
-title: '[JA TRANSLATION NEEDED] Find the Difference'
-description: >-
-  [JA TRANSLATION NEEDED] Sharpen your eyes and test your attention to detail!
-  Compare two nearly identical images and find all the differences before the
-  time runs out.
-iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
-thumbnail: /new-images/find-the-difference.jpg
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.3/5  (2100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
-4.  **避ける Random Clicking:** Be careful about clicking randomly. Many games will penalize you for incorrect clicks, often by reducing your remaining time.
+Find the Differenceは、観察力と細部への注意力をテストするクラシックなパズルゲームです。各レベルでは、一見すると同じに見える2つの画像が提示されます。しかし、それらには一定数の微妙な違いが含まれています。あなたのタスクは、2つの写真を注意深く比較し、時間が終わる前にすべての違いを特定することです。これは、リラックスしながらも挑戦的なゲームであり、脳に素晴らしいトレーニングを提供します。
 
-[JA TRANSLATION NEEDED] Find the Difference is a classic puzzle game that tests your observation skills and attention to detail. In each level, you are presented with two images that appear identical at first glance. However, they contain a set number of subtle differences. Your task is to carefully compare the two pictures and identify all the differences before the time runs out. It's a relaxing yet challenging game that provides a great workout for your brain.
-- **Identify a Difference:** When you spot a difference, simply use your mouse to click on that area in either of the two images. If you are correct, the difference will be marked.（日本語訳が必要）
+### ゲームプレイ戦略と攻略法
 
-- **Q: What kind of differences should I be looking for?**（日本語訳が必要）
-### Gameplay Strategy & Walkthrough
+1.  **体系的にスキャンする:** 画像の真ん中をただ見つめるだけではいけません。一つの角（例：左上）から始めて、セクションごとに両方の写真を体系的にスキャンします。両方の画像の同じエリア間で目を行き来させて、不一致を見つけます。
+2.  **一般的なタイプの違いを探す:** 典型的な変化に注意してください：
+    *   **色の変化:** オブジェクトが異なる色である可能性があります。
+    *   **欠けている/追加されたオブジェクト:** アイテムが一方の写真に存在するが、もう一方には不在である可能性があります。
+    *   **サイズまたは形の変化:** オブジェクトがわずかに大きい、小さい、または異なる形である可能性があります。
+    *   **位置の変化:** アイテムがわずかに移動している可能性があります。
+3.  **ヒントを賢く使う:** ゲームのほとんどのバージョンでは、限られた数のヒントが提供されます。できるだけ多くの違いを自分で見つけるようにし、最後の1つまたは2つで本当に行き詰まったときのためにヒントを取っておきましょう。
+4.  **ランダムなクリックを避ける:** ランダムにクリックすることに注意してください。多くのゲームでは、誤ったクリックに対してペナルティを科し、多くの場合、残り時間を減らします。
 
-[JA TRANSLATION NEEDED] 1.  **Scan Systematically:** Don't just stare at the middle of the images. Start in one corner (e.g., top left) and systematically scan both pictures section by section. Move your eyes back and forth between the same area on both images to spot discrepancies.
-[JA TRANSLATION NEEDED] 2.  **Look for Common Types of Differences:** Be on the lookout for typical changes:
-[JA TRANSLATION NEEDED]     *   **Color Changes:** An object might be a different color.
-[JA TRANSLATION NEEDED]     *   **Missing/Added Objects:** An item might be present in one picture but absent in the other.
-[JA TRANSLATION NEEDED]     *   **Size or Shape Changes:** An object might be slightly larger, smaller, or a different shape.
-[JA TRANSLATION NEEDED]     *   **Positional Changes:** An item might be moved slightly.
-[JA TRANSLATION NEEDED] 3.  **Use Hints Wisely:** Most versions of the game provide a limited number of hints. Try to find as many differences as you can on your own, and save the hints for when you are truly stuck on the last one or two.
-[JA TRANSLATION NEEDED] 4.  **Avoid Random Clicking:** Be careful about clicking randomly. Many games will penalize you for incorrect clicks, often by reducing your remaining time.
+### 操作ガイド
 
-### Controls Guide
+*   **違いを特定する:** 違いを見つけたら、2つの画像のいずれかのそのエリアをマウスでクリックするだけです。正しい場合、違いはマークされます。
 
-*   **Identify a Difference:** When you spot a difference, simply use your mouse to click on that area in either of the two images. If you are correct, the difference will be marked.
-### コントロール Guide
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
+*   **Q: どのような種類の違いを探すべきですか？**
+    *   **A:** 何でも違う可能性があります！追加、欠落、異なる色、異なるサイズ、またはわずかに異なる位置にあるオブジェクトを探してください。
 
-*   **Q: What kind of differences should I be looking for?**
-    - **A:** Anything can be different! Look for objects that are added, missing, have a different color, are a different size, or are in a slightly different position.（日本語訳が必要）
-3.  **Use Hints Wisely:** Most versions of the game provide a limited number of hints. Try to find as many differences as you can on your own, and save the hints for when you are truly stuck on the last one or two.（日本語訳が必要）
-- **Q: What happens if I click in the wrong place?**（日本語訳が必要）
-- **Q: I can't find the last difference! What should I do?**（日本語訳が必要）
-    - **A:** Most games will have a penalty for incorrect guesses. This is often a reduction in your time limit or a temporary freeze on your ability to click again.（日本語訳が必要）
-    - **A:** This is the perfect time to use a hint if you have one. If not, try looking away from the screen for a moment to reset your eyes, and then come back and scan the images again, perhaps in a different pattern than you did before.（日本語訳が必要）
-[JA TRANSLATION NEEDED]     *   **A:** Anything can be different! Look for objects that are added, missing, have a different color, are a different size, or are in a slightly different position.
+*   **Q: 間違った場所をクリックするとどうなりますか？**
+    *   **A:** ほとんどのゲームでは、間違った推測に対してペナルティがあります。これは多くの場合、時間制限の減少、または再びクリックする能力の一時的な凍結です。
 
-*   **Q: What happens if I click in the wrong place?**
-[JA TRANSLATION NEEDED]     *   **A:** Most games will have a penalty for incorrect guesses. This is often a reduction in your time limit or a temporary freeze on your ability to click again.
-
-*   **Q: I can't find the last difference! What should I do?**
-[JA TRANSLATION NEEDED]     *   **A:** This is the perfect time to use a hint if you have one. If not, try looking away from the screen for a moment to reset your eyes, and then come back and scan the images again, perhaps in a different pattern than you did before.
-
-
-    - **Color Changes:** An object might be a different color.（日本語訳が必要）
-
-
-
-
-
-
-- **Q: What kind of differences should I be looking for?**
-### よくある質問（FAQ）
-- **Identify a Difference:** When you spot a difference, simply use your mouse to click on that area in either of the two images. If you are correct, the difference will be marked.
-### コントロールガイド
-- **Avoid Random Clicking:** Be careful about clicking randomly. Many games will penalize you for incorrect clicks, often by reducing your remaining time.
-
-### よくある質問（FAQ）
-- **Use Hints Wisely:** Most versions of the game provide a limited number of hints. Try to find as many differences as you can on your own, and save the hints for when you are truly stuck on the last one or two.
-    - **Missing/Added Objects:** An item might be present in one picture but absent in the other.（日本語訳が必要）
-
-- **Q: What happens if I click in the wrong place?**
-    - **Size or Shape Changes:** An object might be slightly larger, smaller, or a different shape.（日本語訳が必要）
-
-- **Q: I can't find the last difference! What should I do?**
-    - **Positional Changes:** An item might be moved slightly.（日本語訳が必要）
+*   **Q: 最後の違いが見つかりません！どうすればいいですか？**
+    *   **A:** ヒントがある場合は、これを使用する絶好の時です。ない場合は、目をリセットするために画面から少しの間目を離し、その後戻って、以前とは異なるパターンで画像を再びスキャンしてみてください。

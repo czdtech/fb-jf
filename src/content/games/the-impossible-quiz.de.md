@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: the-impossible-quiz
-title: '[DE] The Impossible Quiz'
-description: >-
-  [DE] Prepare for the unexpected in The Impossible Quiz, a notoriously
-  difficult and hilarious trivia game! Answer trick questions, solve illogical
-  puzzles, and navigate bombs and skips to reach the end. Think outside the box
-  and embrace the absurdity to conquer this unique brain-teaser.
+title: "The Impossible Quiz"
+description: "Mach dich bereit für völlig verrückte Fragen: The Impossible Quiz ist ein knallhartes, aber urkomisches Quiz, das dich mit Wortspielen, Fallen und Logikbrüchen ständig aufs Glatteis führt."
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/the-impossible-quiz.jpg
 tags:
@@ -17,35 +13,33 @@ score: 4.8/5  (1294 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+The Impossible Quiz ist ein berüchtigt schweres und völlig unkonventionelles Quizspiel. Statt klassischem Allgemeinwissen erwarten dich absurde Fragen, visuelle Gags, Wortspiele und Antworten, die auf den ersten Blick keinen Sinn ergeben. Erfolgreich bist du nur, wenn du die Hinweise im Text und auf dem Bildschirm genau liest – und bereit bist, auch mal völlig unlogische Lösungen auszuprobieren.
 
-### Game Introduction
+### Spielanleitung
 
-The Impossible Quiz is a notoriously difficult and highly unconventional quiz game designed to trick and challenge players with its illogical questions and unexpected answers. Unlike traditional trivia, success in this game often requires thinking outside the box, paying attention to subtle clues, and sometimes, pure trial and error.
+Du bekommst eine Reihe von Multiple‑Choice‑Fragen präsentiert. Dein Ziel: Alle 110 Fragen schaffen.
 
-### Gameplay Guide
+- **Leben:** Du startest mit drei Leben. Jede falsche Antwort kostet ein Leben. Sind alle verbraucht, heißt es Game Over.
+- **Bomben:** Manche Fragen haben einen Bomben‑Timer. Wenn der Countdown abläuft, bevor du antwortest, ist sofort Schluss – unabhängig von deinen verbleibenden Leben.
+- **Skips:** Du erhältst eine begrenzte Anzahl an „Skips“, mit denen du besonders fiese Fragen überspringen kannst. Heb sie dir für echte Problemfälle auf.
+- **Checkpoints / Moron Marks:** In manchen Versionen dienen sie als Checkpoints, damit du nach einem Game Over nicht immer ganz von vorn beginnen musst.
 
-The game presents a series of multiple-choice questions. Your goal is to answer all 110 questions.
-- **Lives:** You start with three lives. An incorrect answer costs one life. Losing all lives means game over.
-- **Bombs:** Some questions have a "bomb" timer. Fail to answer before it explodes, and it's an instant game over, regardless of lives remaining.
-- **Skips:** You are given a limited number of "Skips" to bypass questions. Use them wisely, as some questions are designed to be impossible without a skip.
-- **Moron Marks:** In some versions, these act as checkpoints, allowing you to restart from a later question if you lose all lives.
+### Steuerung
 
-### Controls Guide
+- **Maus:** Nutze die linke Maustaste, um Antworten anzuklicken oder mit Objekten auf dem Bildschirm zu interagieren.
 
-- **Mouse:** Use your mouse to click on the correct answer or interact with elements on the screen.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Warum heißt das Spiel „The Impossible Quiz“?**
 
-**Why is it called "The Impossible Quiz"?**
+Viele Fragen sind bewusst irreführend, setzen auf Wortspiele, optische Tricks oder scheinbar sinnlose Logik. Das macht es „unmöglich“, wenn du versuchst, es wie ein normales Quiz zu spielen.
 
-It's called "Impossible" because many questions are designed to be misleading, require unconventional thinking, or rely on puns and visual gags rather than straightforward knowledge.
+**Wofür sind die „Skips“ gut?**
 
-**What are "Skips" for?**
+Skips lassen dich ganze Fragen überspringen. Einige Fragen sind praktisch nur mit einem Skip lösbar – vor allem gegen Ende. Setze sie also sehr sparsam ein.
 
-Skips allow you to bypass a question. It's crucial to save them for specific questions that are truly impossible to answer without them, especially the final question.
+**Gibt es Tipps, wie ich weiter komme?**
 
-**Are there any tips for playing?**
-
-Always read questions very carefully, as they often contain hidden clues or double meanings. Don't be afraid to try seemingly illogical answers. Pay attention to the screen for interactive elements, and remember that some questions require precise timing or clicking.
-
+Lies jede Frage und alle Elemente auf dem Bildschirm genau. Achte auf doppelte Bedeutungen, versteckte Buttons oder bewegliche Objekte. Und hab keine Angst davor, scheinbar unsinnige Antworten auszuprobieren – genau das ist oft gewollt.

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: chess-grandmaster
-title: '[ES] Chess Grandmaster'
+title: "Chess Grandmaster"
 description: >-
-  [ES] Chess Grandmaster offers classic chess — learn openings, calculate
-  tactics, and convert advantages with endgame fundamentals.
+  Chess Grandmaster ofrece ajedrez clásico a fondo: aprende aperturas, calcula
+  tácticas y convierte ventajas apoyándote en los fundamentos de finales.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/chess-grandmaster.jpg
 tags:
@@ -15,36 +15,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Chess Grandmaster es una experiencia de ajedrez completa en el navegador contra
+IA o rivales locales. Te invita a dominar las tres fases clásicas: la apertura
+(desarrollo y seguridad del rey), el medio juego (tácticas como dobles, clavadas
+ y rayos X) y los finales (actividad del rey, oposición y mates básicos). Los
+niveles de dificultad ajustables te permiten entrenar cálculo y reconocimiento
+ de patrones.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Chess Grandmaster is a feature‑complete browser chess experience against AI or local opponents. Master the three phases: openings (development and king safety), middlegame (tactics like forks, pins, skewers), and endgames (king activity, opposition, basic mates). Adjustable difficulty helps you train calculation and pattern recognition.
+1.  **Aperturas:** Desarrolla las piezas menores, enrócate pronto y lucha por el
+    centro con jugadas como 1.e4 o 1.d4.
+2.  **Táctica:** En cada turno repasa siempre la secuencia "jaques, capturas y
+    amenazas" (CCT) antes de mover.
+3.  **Estructura de peones:** Evita, si puedes, peones doblados o aislados; crea
+    mayorías de peones que puedas avanzar en los finales.
+4.  **Finales:** Activa a tu rey; aprende los mates básicos (rey+dama vs rey,
+    rey+torre vs rey) y los finales de peones con oposición y zugzwang.
+5.  **Gestión del tiempo:** Cuando vayas justo de tiempo, opta por jugadas
+    sencillas y seguras antes que variantes muy profundas.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Openings: Develop minor pieces, castle early, and fight for the center (e4/d4).
-2.  **[ES]** Tactics: Always scan checks, captures, threats on every move (“CCT”).
-3.  **[ES]** Structure: Avoid doubled/isolation if possible; create pawn majorities you can push.
-4.  **[ES]** Endgames: Activate your king; know basic mates (KQ vs K, KR vs K) and pawn endings (opposition/zugzwang).
-5.  **[ES]** Time control: Play simple, safe moves when low on time.
+- Haz clic en una pieza para ver sus movimientos legales y luego en la casilla
+  de destino para moverla.
+- Usa la interfaz para ofrecer tablas, rendirte o ajustar el nivel de la IA.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Click a piece to see legal moves; click a destination to move.
-- Offer draw/resign and set AI level in the UI.
+- **¿Cómo puedo mejorar rápido?**
 
-### Frequently Asked Questions (FAQ)
+  R: Resuelve problemas tácticos a diario, revisa tus errores más graves y
+  aprende un repertorio sencillo de aperturas para llegar a posiciones conocidas
+  en el medio juego.
 
-- Q: How do I improve quickly?
+- **¿Algún consejo de aperturas para principiantes?**
 
-A: Solve tactics daily, review your blunders, and learn a simple opening repertoire to reach familiar middlegames.
+  R: Juega 1.e4 o 1.d4, desarrolla los caballos antes que los alfiles, enrócate
+  y conecta las torres.
 
-- Q: Any beginner opening tips?
+- **¿Qué finales debería aprender primero?**
 
-A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
-
-- Q: What endgames should I learn first?
-
-A: Checkmates with KQ vs K, KR vs K, basic king‑pawn opposition, and rook endings like the Lucena/Philidor positions.
-
+  R: Los mates básicos (rey+dama vs rey, rey+torre vs rey), la oposición en
+  finales de rey y peones y algunos finales de torre fundamentales como las
+  posiciones de Lucena y Philidor.

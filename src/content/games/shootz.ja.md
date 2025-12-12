@@ -1,72 +1,53 @@
 ---
-locale: ja
+title: Shootz
+description: Shootzは高速シューティングゲームです。ターゲットを撃ち、反射神経をテストし、精度をマスターし、射撃チャンピオンになります。
+iframeSrc: 'https://shootz.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+thumbnail: /new-images/shootz.png
 urlstr: shootz
-title: '[JA TRANSLATION NEEDED] ShootZ'
-description: >-
-  [JA TRANSLATION NEEDED] ShootZ is an action-packed shooting game where players
-  battle against zombies and other creatures, using a variety of weapons to
-  survive increasingly challenging waves of enemies in fast-paced combat.
-iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
-thumbnail: /new-images/shootz.jpg
+score: 4.0/5  (1723 votes)
 tags:
-  - shooting
   - action
-  - zombies
-score: 3.7/5  (1015 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Shootzは、ターゲットを素早く正確に撃つことに挑戦します。ターゲットが現れ、消える前にそれらを撃ちます。反射神経と精度が高得点の鍵です。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **素早く反応:" ターゲットは速く消えます。
+2.  **正確に狙う:" ミスショットはポイントを失います。
+3.  **パターンを学ぶ:" ターゲットのスポーンパターンを記憶します。
+4.  **冷静を保つ:" パニックは精度を低下させます。
+5.  **練習:" 繰り返しで反射神経が改善します。
+
+### 操作ガイド
+
+- マウス/タッチ：狙い、射撃します。
+- ターゲットが消える前にクリック/タップします。
+- 高得点のために速く、正確です。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "ShootZ" is an action-packed shooting game where players battle against zombies and other creatures. Use a variety of weapons to survive in fast-paced combat, facing increasingly challenging waves of enemies. The game is famous for its intense shooting action and diverse weapon systems.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Weapon Upgrades**: Collect resources to upgrade weapons, improving firepower and efficiency.
-[JA TRANSLATION NEEDED] 2.  **Enemy Priority**: Identify different types of enemies and prioritize defeating the most threatening targets.
-[JA TRANSLATION NEEDED] 3.  **Survival Strategy**: Keep moving and use environmental obstacles to block enemy attacks.
-[JA TRANSLATION NEEDED] 4.  **Resource Management**: Allocate ammunition and health wisely, look for supply items.
-[JA TRANSLATION NEEDED] 5.  **Combo Attacks**: Learn to use combinations of different weapons to handle various situations.
-
-### How to Play
-
-*   **Movement**: Use WASD keys or arrow keys to control character movement.
-*   **Aim and Shoot**: Use mouse to aim and click to shoot.
-*   **Reload**: Press R key to reload.
-*   **Weapon Switch**: Use number keys to switch between different weapons.
-*   **Special Skills**: Some versions may include special skills or item usage.
-
-### Frequently Asked Questions
-
-
-
-
-
-
-
-
-- **Q: How do I get better weapons?**
-### よくある質問
 - **Special Skills**: Some versions may include special skills or item usage.
+
 - **Weapon Switch**: Use number keys to switch between different weapons.
-- **Reload**: Press R key to reload.
-- **Aim and Shoot**: Use mouse to aim and click to shoot.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Movement**: Use WASD keys or arrow keys to control character movement.
-[JA TRANSLATION NEEDED] 1.  **Q: How do I get better weapons?**
+- **Q: タイムリミットはありますか？**  
+  A: はい、ターゲットは短時間しか現れません。
+- **Q: ミスのペナルティはありますか？**  
+  A: 多くのバージョンはミスショットのためにポイントを差し引きます。
+- **Q: 難易度レベルはありますか？**  
+  A: はい、ターゲットは徐々に速くなります。
 
-- **Q: What if there are too many zombies to handle?**
-[JA TRANSLATION NEEDED]     **A**: By defeating enemies, completing levels, or collecting in-game currency to unlock and purchase new weapons.
 
-- **Q: Are there different difficulty modes in the game?**
-[JA TRANSLATION NEEDED] 2.  **Q: What if there are too many zombies to handle?**
+**A**: Practice aiming more, learn to predict moving enemy positions, and adjust mouse sensitivity settings.
 
 - **Q: How can I improve shooting accuracy?**
-[JA TRANSLATION NEEDED]     **A**: Stay calm, look for bottleneck positions to limit enemy numbers, and prioritize defeating fast-moving enemies.
-[JA TRANSLATION NEEDED] 3.  **Q: Are there different difficulty modes in the game?**
-[JA TRANSLATION NEEDED]     **A**: Many versions offer different difficulty settings and game modes for players to choose from.
-[JA TRANSLATION NEEDED] 4.  **Q: How can I improve shooting accuracy?**
-[JA TRANSLATION NEEDED]     **A**: Practice aiming more, learn to predict moving enemy positions, and adjust mouse sensitivity settings.
+
+
+**A**: Practice aiming more, learn to predict moving enemy positions, and adjust mouse sensitivity settings.

@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: sprunki-halloween
-title: '[ES] Sprunki Halloween - Play Sprunki Halloween Online'
+title: 'Sprunki Halloween - Juega a Sprunki Halloween online'
 description: >-
-  [ES] Sprunki Halloween is a Mod that allows you to unleash your musical
-  talents in the atmosphere of Halloween. Come and join Sprunki Halloween, and
-  use thrilling and interesting notes to welcome the arrival of Halloween!
+  Sprunki Halloween es un mod que te permite desatar tu talento musical en un
+  ambiente totalmente inspirado en Halloween. Únete a Sprunki Halloween y usa
+  notas inquietantes y divertidas para dar la bienvenida a la noche más
+  escalofriante del año.
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
 thumbnail: /sprunki-halloween.png
 tags:
@@ -14,34 +15,53 @@ score: 4.2/5  (142 votes)
 ---
 
 
+Prepárate para una aventura musical tan divertida como escalofriante con
+Sprunki Halloween. Esta edición especial de la serie Sprunki combina ritmos que
+ponen los pelos de punta, paisajes sonoros tenebrosos y personajes temáticos de
+Halloween para que puedas crear tus propias pistas terroríficamente buenas. Es
+el patio de recreo perfecto para celebrar Halloween mezclando diversión y sustos.
 
-Get ready for a hauntingly fun musical adventure with Sprunki Halloween! This special edition of the Sprunki series combines spine-tingling beats, eerie soundscapes, and Halloween-themed characters to let you craft your creepy tracks. Dive into the spookiest musical playground and celebrate Halloween with a mix of fun and fright.
+### ¿Qué es Sprunki Halloween?
 
-### What is Sprunki Halloween?
+Sprunki Halloween es un mod que te permite desatar tu talento musical en plena
+atmósfera de Halloween. Aquí puedes usar efectos de sonido siniestros y
+personajes de terror para crear tu propia pieza espeluznante y darle un toque
+musical único a cualquier fiesta de Halloween.
 
-Sprunki Halloween is a Mod that allows you to unleash your musical talents in the atmosphere of Halloween. Here, you can use various eerie sound effects and horror characters to create your own horror movement and add a unique musical color to your Halloween party.
+### Características de Sprunki Halloween
 
-### Sprunki Halloween Game Features:
+- **Pack de sonidos de Halloween:** incluye ritmos, efectos y voces exclusivos
+  con temática de terror.
+- **Personajes temáticos:** interpreta tus pistas con brujas, fantasmas,
+  vampiros y muchas otras criaturas clásicas de Halloween.
+- **Visuales dinámicos:** animaciones temáticas que reaccionan a tu música y
+  llenan la pantalla de energía espeluznante.
 
-- **Halloween Sound Pack:** Includes exclusive spooky beats, effects, and vocals.
-- **Themed Characters:** Perform with witches, ghosts, vampires, and more.
-- **Dynamic Visuals:** Halloween-themed animations that react to your music.
+### Cómo jugar a Sprunki Halloween
 
+- **Combina personajes:** usa brujas, fantasmas, vampiros y otros personajes de
+  Halloween para construir tus composiciones.
+- **Crea pistas inquietantes:** mezcla animaciones y personajes temáticos con
+  beats oscuros y ritmos tenebrosos para lograr un ambiente realmente
+  escalofriante.
+- **Completa desafíos:** resuelve acertijos de Halloween y remezcla melodías
+  clásicas del terror dentro de Sprunki Halloween.
 
-### How to Play Sprunki Halloween?
+### ¿Por qué jugar a Sprunki Halloween?
 
-- **Combine Characters:** Use Halloween characters such as witches, ghosts, and vampires to build your music works.
-- **Create Haunting Tracks:** Mix Halloween-themed animations and characters with creepy beats and eerie rhythms.
-- **Complete Challenges:** Solve Halloween riddles and remix iconic spooky tunes in Sprunki Halloween.
+- **Perfecto para Halloween:** ideal para ambientar fiestas o simplemente para
+  entrar en el espíritu de la temporada.
+- **Expresión creativa:** deja volar tu imaginación con composiciones tan
+  espeluznantes como festivas.
+- **Diversión para toda la familia:** comparte sonidos «de miedo» con niños,
+  amigos o en solitario sin perder el tono desenfadado.
+- **Rejugabilidad total:** explora combinaciones casi infinitas de sonidos y
+  efectos para crear pistas nuevas en cada partida.
+- **Celebra con estilo:** una forma musical de vivir Halloween como ninguna
+  otra.
 
+Sprunki Halloween es un mod que te permite liberar tu lado creativo en clave de
+terror. Únete a Sprunki Halloween y usa notas vibrantes y misteriosas para
+celebrar la llegada de Halloween. Este juego musical temático es diferente a
+cualquier otro: ¡prepárate para disfrutar de una fiesta realmente embrujada!
 
-### Why Play Sprunki Halloween?
-
-- **Perfect for Halloween Fun:** Ideal for setting the mood at parties or just getting into the spirit of the season.
-- **Creative Expression:** Let your imagination run wild with eerie and festive compositions.
-- **Family-Friendly Fun:** Enjoy spooky sounds with kids, friends, or solo.
-- **Replayable Magic:** Explore endless combinations of sounds and effects for unique tracks every time.
-- **Celebrate in Style:** A musical celebration of Halloween like no other.
-
-
-Sprunki Halloween is a Mod that allows you to unleash your musical talents in the atmosphere of Halloween. Come and join Sprunki Halloween, and use thrilling and interesting notes to welcome the arrival of Halloween!This is a Halloween-themed music game that is different from any other game - get ready to celebrate in style!

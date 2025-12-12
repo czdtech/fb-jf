@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: guns-n-bottles
-title: '[DE] Guns n'' Bottles'
+title: "Guns n' Bottles"
 description: >-
-  [DE] Test your timing and precision in this addictive shooting gallery game.
-  Tap at the perfect moment to shoot the bottles as your gun rotates, but avoid
-  the red ones!
+  Teste dein Timing und deine Präzision in diesem süchtig machenden
+  Schießbuden-Spiel. Tippe im perfekten Moment, um Flaschen zu treffen, während
+  sich deine Waffe dreht – aber halte dich von den roten Flaschen fern!
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/guns-n-bottles.png
 tags:
@@ -17,34 +17,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Guns n' Bottles ist ein simples, aber extrem fesselndes One-Tap-Arcadespiel, in
+dem dein Timing über alles entscheidet. In der Mitte des Bildschirms rotiert
+ständig eine Pistole. Dein Ziel ist es, im richtigen Moment zu tippen, damit
+ein Schuss abgefeuert wird und die Flaschen auf dem Bildschirm zersplittern.
+Die Schwierigkeit liegt darin, den Schuss genau mit der Rotation der Waffe
+abzustimmen. Grüne Flaschen bringen Punkte – rote Flaschen solltest du um jeden
+Preis vermeiden.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Rotation vorausdenken**  
+    Tippe nicht erst dann, wenn der Lauf genau auf die Flasche zeigt. Du musst
+    deinen Schuss leicht **vorziehen**. Feuere kurz, bevor die Waffe perfekt
+    ausgerichtet ist, damit Projektilgeschwindigkeit und Rotation sich
+    ausgleichen.
 
-Guns n' Bottles is a simple yet highly addictive one-touch arcade game that tests your timing and precision. A gun continuously rotates in the center of the screen, and your goal is to tap at the perfect moment to fire a bullet and shatter the bottles that appear. The challenge lies in timing your shot perfectly with the gun's rotation. Hit the green bottles to score points, but be careful to avoid the red ones!
+2.  **Auf Serien spielen**  
+    Für hohe Scores brauchst du lange Treffer-Serien ohne Fehlschuss. Viele
+    Versionen belohnen Streaks mit Multiplikatoren oder zusätzlichen Münzen.
 
-### Gameplay Strategy & Walkthrough
+3.  **Rote Flaschen meiden**  
+    Triffst du eine rote Flasche, ist die Runde sofort vorbei. Sie sind dazu da,
+    deinen Rhythmus zu brechen. Wenn du unsicher bist, verzichte lieber auf
+    einen Schuss, statt ein Risiko einzugehen.
 
-1.  **[DE]** **Anticipate the Rotation:** Don't tap when your gun is aimed directly at the bottle. You need to lead your shot slightly. Fire just *before* the gun aligns with the target to account for the bullet's travel time and the gun's continuous rotation.
-2.  **[DE]** **Go for Streaks:** The key to a high score is to hit multiple bottles in a row without missing. This will often build up a combo multiplier or award bonus coins.
-3.  **[DE]** **Avoid the Red Bottles:** Hitting a red bottle will end your game instantly. They are there to trick you and break your rhythm. Always prioritize avoiding them.
-4.  **[DE]** **Unlock New Guns:** Use the coins you earn from successful hits to unlock new and cooler-looking guns in the shop. While often cosmetic, they add a fun sense of progression.
+4.  **Neue Waffen freischalten**  
+    Mit den gesammelten Münzen kannst du im Shop neue, optisch unterschiedliche
+    Waffen freischalten. Sie sind meist kosmetisch, sorgen aber für zusätzliche
+    Motivation.
 
-### Controls Guide
+### Steuerung
 
-The game is played with a single action.
+Das Spiel nutzt nur eine einzige Aktion.
 
-*   **[DE]** **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
+*   **Schießen:** Klicke mit der linken Maustaste oder tippe irgendwo auf den
+    Bildschirm, um einen Schuss abzugeben.
 
-### Frequently Asked Questions (FAQ)
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Q: What is the objective of the game?**
-    *   **[DE]** **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.
+*   **F: Was ist das eigentliche Ziel des Spiels?**
+    *   **A:** So viele grüne Flaschen wie möglich hintereinander zu treffen und
+        damit einen neuen Highscore aufzustellen.
 
-*   **[DE]** **Q: What happens if I miss a bottle or hit a red one?**
-    *   **[DE]** **A:** In either case, the game will end, and your score will be recorded. You must then start over.
+*   **F: Was passiert, wenn ich vorbeischieße oder eine rote Flasche treffe?**
+    *   **A:** In beiden Fällen endet die Runde sofort und dein aktueller Score
+        wird gespeichert. Danach startest du von vorne.
 
-*   **[DE]** **Q: How do I aim?**
-    *   **[DE]** **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
-
+*   **F: Wie ziele ich genau?**
+    *   **A:** Du steuerst die Ausrichtung nicht direkt – die Waffe dreht sich
+        automatisch. Deine Aufgabe ist es, den **Zeitpunkt** des Schusses so zu
+        wählen, dass der Lauf beim Feuern in Richtung deines Ziels zeigt.

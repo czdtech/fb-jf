@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: ladybug-jump
-title: '[ZH TRANSLATION NEEDED] Ladybug Jump'
-description: >-
-  [ZH TRANSLATION NEEDED] Ladybug Jump is a cheerful hop‑platformer — time
-  jumps, ride moving leaves, and collect nectar while avoiding hazards.
+title: 《Ladybug Jump》瓢虫跳跳乐
+description: 《Ladybug Jump》是一款明快的弹跳平台游戏，你要控制小瓢虫在树叶和蘑菇之间跳跃，踩准节奏收集花蜜，同时躲开水坑和蜘蛛等危险。
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/ladybug-jump.png
 tags:
@@ -15,32 +13,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Ladybug Jump is a light, family‑friendly platformer. Hop across leaves and mushrooms, avoid puddles and spiders, and grab nectar for bonuses. Moving platforms and wind gusts add timing tests as levels progress.
+《Ladybug Jump》是一款轻松、适合全家游玩的横版弹跳游戏。你控制一只小瓢虫在树叶、蘑菇等平台之间跳跃前进，途中要避开积水、水洼和蜘蛛等障碍，同时收集花蜜获得额外得分。随着关卡推进，会出现移动平台和风力等新元素，让你的起跳时机和落点判断更加重要。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Short taps: Use minimal jumps for precision.
-2.  [ZH TRANSLATION NEEDED] Wind reads: Jump slightly earlier into headwinds; later with tailwinds.
-3.  [ZH TRANSLATION NEEDED] Safe arcs: Take longer, safer paths over risky shortcuts.
-4.  [ZH TRANSLATION NEEDED] Collectibles: Grab nectar only when aligned; safety first.
-5.  [ZH TRANSLATION NEEDED] Restart rhythm: Quick restarts help nail tricky sequences.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **短按小跳更精确**：优先使用小幅的短跳来落在狭窄平台上，避免过高或过远的跳跃导致落点难以控制。  
+2.  **预判风向与风力**：遇到有风的关卡时，逆风时要稍早起跳，顺风时可以稍晚，提前适应风对跳跃轨迹的影响。  
+3.  **选择安全路线**：面对岔路或多平台选择时，优先走路径更宽、障碍更少的路线，而不是为了少跳一两下去赌高难度短平台。  
+4.  **花蜜在安全前提下再拿**：只有在跳跃轨迹本身就安全时，再顺手拾取花蜜；如果需要为了花蜜改变落点或二次微调，先考虑安全性。  
+5.  **利用快速重试练节奏**：对某些连续小平台或高难跳跃，可以多次快速重开这一段，反复练习起跳节奏。  
 
-- Tap/Click to jump; hold to jump higher if supported; pause/retry via UI.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 点击/轻触屏幕或按键完成跳跃；部分版本支持长按跳得更高；可以通过界面按钮暂停或重新开始当前关卡。  
 
-- Q: I keep falling off small leaves.
-  
-[ZH TRANSLATION NEEDED]   A: Reduce jump height and land center; avoid momentum swings.
+### 常见问题（FAQ）
 
-- Q: Are there boss stages?
-  
-[ZH TRANSLATION NEEDED]   A: Rare; focus is on short obstacle courses.
+*   **Q: 总是从小叶子边缘滑下去，怎么办？**  
 
-- Q: Controller supported?
-  
-[ZH TRANSLATION NEEDED]   A: Some versions support gamepads for analog jump control.
+A: Reduce jump height and land center; avoid momentum swings.
+- **A:** 尝试降低跳跃高度和水平速度，让落点更靠近叶子中心位置，避免落地后惯性过大导致滑落。  
 
+
+A: Rare; focus is on short obstacle courses.
+*   **Q: 游戏有 Boss 战吗？**  
+
+A: Some versions support gamepads for analog jump control.
+    *   **A:** 绝大多数关卡以障碍路线为主，很少设计传统意义上的 Boss，更偏向短小精悍的闯关路线。  
+
+*   **Q: 可以用手柄玩吗？**  
+    *   **A:** 部分版本支持手柄，跳跃高度会根据按键力度/时间更细腻地控制，具体以实际托管平台说明为准。

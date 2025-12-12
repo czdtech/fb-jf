@@ -1,62 +1,39 @@
 ---
+title: "Puzzle Pieces"
+description: "Puzzle Piecesはクラシックなジグソーパズルです。ピースを配置し、画像を完成させ、リラックスしたパズルを楽しみます。"
+iframeSrc: "https://puzzlepieces.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
+thumbnail: "/new-images/puzzle-pieces.png"
+urlstr: "puzzle-pieces"
+score: "4.2/5  (2089 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: puzzle-pieces
-title: '[JA TRANSLATION NEEDED] Puzzle Pieces'
-description: >-
-  [JA TRANSLATION NEEDED] Puzzle Pieces delivers clean brainteasers — rotate,
-  fit shapes, and complete boards without gaps.
-iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
-thumbnail: /new-images/puzzle-pieces.png
-tags:
-  - puzzle
-  - thinky
-score: 4.0/5  (1888 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Puzzle Piecesは、デジタル形式のクラシックなジグソーパズルです。ピースをドラッグして正しい位置に配置し、美しい画像を完成させます。エッジから始め、色とパターンをマッチングするためにパズルを構築します。
 
-[JA TRANSLATION NEEDED] Puzzle Pieces is a tidy shape‑fitting puzzler. Drag and rotate polyforms to fill boards exactly, managing limited space and piece orientations as layouts grow more intricate.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **エッジから始める:** 最初にボーダーピースを見つけて配置します。
+2.  **色でソート:** 似た色のピースをグループ化します。
+3.  **パターンをマッチ:** ピースがどのように接続するかを探します。
+4.  **セクションで作業:** 一度に小さなエリアを完成させます。
+5.  **忍耐強く:** リラックスして楽しんでください。
 
-[JA TRANSLATION NEEDED] 1.  Start with anchors: Place unique or large shapes first to reduce ambiguity.
-[JA TRANSLATION NEEDED] 2.  Edge framing: Build clean borders to reveal interior gaps.
-[JA TRANSLATION NEEDED] 3.  Look for parity: Match protrusions and cavities; avoid leaving single‑cell holes.
-[JA TRANSLATION NEEDED] 4.  Rotate liberally: Check all orientations; many fits appear only after rotation.
-[JA TRANSLATION NEEDED] 5.  Undo freely: Backtrack early instead of forcing a bad fit.
+### 操作ガイド
 
-### Controls Guide
+- ピースをドラッグ＆ドロップして配置します。
+- 回転（利用可能な場合）：右クリックまたはボタン。
+- 画像を完成させます。
 
-- Drag to move pieces; rotate via click/tap or a rotate button.
-- Undo/Reset: Fix mistakes quickly; no penalty in most modes.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- A piece never fits—bug? Usually orientation; try other rotations or reframe edges.
-- Timers? Varies; most modes are relaxed.
-- Hints? Many versions include hints; use sparingly to preserve challenge.
-
-
-
-
-
-
-
-
-
-- Hints? Many versions include hints; use sparingly to preserve challenge.
-- Timers? Varies; most modes are relaxed.
-- A piece never fits—bug? Usually orientation; try other rotations or reframe edges.
-### よくある質問（FAQ）
-- Undo/Reset: Fix mistakes quickly; no penalty in most modes.
-- Drag to move pieces; rotate via click/tap or a rotate button.
-### コントロールガイド
-
-
-
-
-- Hints? Many versions include hints; use sparingly to preserve challenge.
-- Timers? Varies; most modes are relaxed.
-- A piece never fits—bug? Usually orientation; try other rotations or reframe edges.
+- **Q: どれくらいのパズルがありますか？**  
+  A: バージョンによって異なります。多くは複数の画像を持っています。
+- **Q: 難易度を変更できますか？**  
+  A: 一部のバージョンには異なるピースカウントがあります。
+- **Q: 進行状況を保存できますか？**  
+  A: 多くのバージョンは自動保存を提供します。

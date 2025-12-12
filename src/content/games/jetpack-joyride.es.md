@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: jetpack-joyride
-title: '[ES] Jetpack Joyride'
+title: "Jetpack Joyride"
 description: >-
-  [ES] Side‑scroll runner with gadgets: dodge zappers and missiles, grab
-  vehicles and coins, and complete missions for upgrades.
+  Runner lateral con gadgets: esquiva zappers y misiles, súbete a vehículos y
+  recoge monedas mientras completas misiones para desbloquear mejoras.
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/jetpack-joyride.jpg
 tags:
@@ -16,29 +16,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Visión general
+Jetpack Joyride es un runner lateral de ritmo muy alto. Mantén pulsado para
+subir y suelta para caer mientras esquivas zappers, misiles y láseres.
+Colecciona monedas para comprar gadgets y aspectos, salta a vehículos con
+poderes temporales (moto‑cerdo, dragón, meca) y completa misiones rotatorias
+para ganar estrellas y desbloquear más mejoras.
 
+### Cómo se juega
+- Traza arcos seguros entre los patrones de zappers y presta atención a las
+  flechas de aviso de misiles.
+- Prioriza las líneas de monedas cuando la ruta sea segura; los vehículos te dan
+  un golpe de protección.
+- Equipa combinaciones de gadgets que encajen con tu estilo (imanes de monedas,
+  avisos extra de misiles, etc.).
 
-### Overview
-Jetpack Joyride is a high‑energy side‑scrolling runner. Hold to rise and release to fall as you dodge zappers, missiles, and lasers. Collect coins to buy gadgets and outfits, grab vehicles for temporary power (hog, dragon, mech), and complete rotating missions to earn stars and unlock upgrades.
+### Controles
+- Mantén pulsado o toca para ascender; suelta para descender. Los botones de
+  gadgets y menús varían según el host.
 
-### How to Play
-- Trace safe arcs through zapper patterns; watch missile warning arrows.
-- Prioritize coin lines when safe; vehicles grant hit protection.
-- Equip gadget combos that suit your style (e.g., coin magnets, speed boosts).
+### Consejos
+- Aprende los ciclos de zappers; los toques tardíos permiten pasar por huecos
+  muy ajustados.
+- Conserva un vehículo como colchón de seguridad en secciones de alta velocidad.
+- Deja que las misiones guíen tu progreso: céntrate en las que puedas completar
+  en paralelo.
 
-### Controls
-- Hold/tap to ascend; release to descend; buttons for gadgets/menus vary by host.
+### Preguntas frecuentes
+- **P: ¿Cómo puedo sobrevivir a carreras largas de forma constante?**  
+  R: Lee los patrones de peligros, usa los vehículos como buffer y evita ser
+  codicioso con las monedas cuando el riesgo es alto.
 
-### Tips
-- Learn zapper cycles; late taps thread tight gaps.
-- Keep a vehicle as a safety buffer on high‑speed sections.
-- Missions guide efficient progress—choose ones you can multi‑task.
+- **P: ¿Qué gadgets debería equipar primero?**  
+  R: Los que atraen monedas y los que mejoran los avisos de misiles son una gran
+  elección inicial.
 
-### FAQ
-- Q: How can I survive longer runs consistently?
-A: Read hazard cycles, keep a vehicle as buffer, and avoid greedy coin grabs.
-- Q: Which gadgets should I equip first?
-A: Coin attraction and missile‑warning helpers are strong starters.
-- Q: Do vehicles make me invincible?
-A: They absorb a hit and then break; you still need to dodge.
-
+- **P: ¿Los vehículos me hacen invencible?**  
+  R: No. Absorben un impacto y luego se rompen, así que igualmente tienes que
+  seguir esquivando.

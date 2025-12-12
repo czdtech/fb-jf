@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: spider-solitaire-card-games
-title: '[DE] Spider Solitaire: Card Games'
-description: >-
-  [DE] Challenge yourself with Spider Solitaire, a popular variant of the
-  classic card game. The objective is to clear the tableau by building eight
-  full sequences of cards from King down to Ace. With adjustable difficulty
-  levels (1, 2, or 4 suits), it's a strategic puzzle for all players.
+title: "Spider Solitaire: Card Games"
+description: "Fordere dich selbst mit Spider Solitaire heraus, einer beliebten Variante des klassischen Kartenspiels. Baue acht vollständige Folgen von König bis Ass, wähle zwischen 1, 2 oder 4 Farben und löse ein strategisches Kartensystem, das Planung und Geduld belohnt."
 iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
 thumbnail: /new-images/spider-solitaire-card-games.jpg
 tags:
@@ -17,37 +13,34 @@ score: 4.2/5  (1141 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Spider Solitaire ist eine anspruchsvolle und sehr beliebte Variante des klassischen Solitaire-Kartenspiels. Du spielst mit zwei vollständigen Decks (insgesamt 104 Karten). Dein Hauptziel ist es, das gesamte Spielfeld zu räumen, indem du acht vollständige Folgen derselben Farbe von König abwärts bis zum Ass bildest. Sobald eine komplette Folge liegt, wird sie aus dem Spiel entfernt.
 
-### Game Introduction
+### Spielanleitung
 
-Spider Solitaire is a challenging and popular variant of the classic solitaire card game, played with two standard decks of cards (104 cards total). The main goal is to clear the entire playing area by assembling eight complete same-suit sequences of cards, ordered from King down to Ace. Once a full sequence is built, it is removed from the game.
+- **Ziel:** Bilde acht absteigende Folgen derselben Farbe (König, Dame, Bube, ... bis Ass).
+- **Auf dem Tableau bauen:** Du kannst eine Karte auf eine andere legen, wenn sie genau einen Rang niedriger ist (z. B. eine 7 auf eine 8). Unterschiedliche Farben dürfen zwar gestapelt werden, aber eine Gruppe von Karten kannst du nur dann als Block verschieben, wenn alle Karten in der Gruppe dieselbe Farbe haben und sauber absteigend sortiert sind.
+- **Leere Spalten:** Eine leere Spalte kann mit jeder beliebigen Karte oder einer gültigen Sequenz gefüllt werden. Leere Spalten sind extrem wertvoll, um andere Stapel zwischenzuparken und Folgen zu ordnen.
+- **Stockstapel:** Wenn du auf dem Tableau keine sinnvollen Züge mehr findest, kannst du eine neue Reihe von 10 Karten aus dem Stockstapel austeilen. Das geht nur, wenn keine Spalte komplett leer ist.
 
-### Gameplay Guide
+### Steuerung
 
-- **Objective:** Build eight descending sequences of the same suit (King, Queen, Jack, ..., Ace).
-- **Building on the Tableau:** You can place a card on top of another card if it is one rank lower (e.g., a 7 on an 8). While you can stack cards of different suits, you can only move a group of cards together if they are all of the same suit.
-- **Empty Columns:** An empty column can be filled with any available card or a sequence of cards.
-- **Stock Pile:** When you have no more available moves on the tableau, you can deal a new row of 10 cards from the stock pile. You can only do this when there are no empty columns.
+- **Maus/Touch:** Klicke und ziehe Karten, um sie zwischen den Spalten zu bewegen. In vielen Versionen kannst du eine Karte auch einfach anklicken, damit sie automatisch an eine gültige Position gelegt wird, falls es eine gibt.
 
-### Controls Guide
+### Häufig gestellte Fragen (FAQ)
 
-- **Mouse/Touch:** Click and drag cards to move them between columns. Most versions also support a single click to automatically move a card to a valid position if one exists.
+**Was bedeuten die verschiedenen Schwierigkeitsgrade?**
 
-### Frequently Asked Questions (FAQ)
+Der Schwierigkeitsgrad hängt von der Anzahl der verwendeten Farben ab:
+- **1 Farbe (Anfänger):** Alle 104 Karten haben dieselbe Farbe, was das Bilden von Folgen deutlich vereinfacht.
+- **2 Farben (Fortgeschrittene):** Es kommen zwei Farben ins Spiel, sodass du getrennte Folgen aufbauen und genauer planen musst.
+- **4 Farben (Profi):** Die schwierigste Variante, bei der alle vier Farben verwendet werden.
 
-**What do the different difficulty levels mean?**
+**Warum heißt das Spiel Spider Solitaire?**
 
-The difficulty is determined by the number of suits used:
-- **1-Suit (Beginner):** All 104 cards are of a single suit, making it much easier to form sequences.
-- **2-Suit (Intermediate):** Uses two suits, requiring you to manage building separate sequences.
-- **4-Suit (Advanced):** The most challenging version, using all four suits.
+Der Name spielt auf die acht Folgen an, die du bilden musst – so wie eine Spinne acht Beine hat.
 
-**Why is it called Spider Solitaire?**
+**Was ist die wichtigste Strategie?**
 
-The name comes from the eight sequences you need to build, corresponding to a spider's eight legs.
-
-**What is the main strategy?**
-
-Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
-
+Versuche, Spalten möglichst früh komplett zu leeren, um freie Plätze zu schaffen. Diese brauchst du dringend, um Karten umzuorganisieren. Decke verdeckte Karten so schnell wie möglich auf und bilde, wann immer es geht, Folgen aus einer einzigen Farbe, damit du ganze Sequenzen verschieben kannst.

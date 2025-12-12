@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: wheely
-title: '[KO] Wheely'
+title: Wheely 휠리
 description: >-
-  [KO] Join Wheely, the adorable red car, on a charming point-and-click puzzle
-  adventure! Solve clever environmental puzzles, interact with various
-  mechanisms, and guide Wheely through challenging levels to reach his
-  destination. A delightful brain-teaser for all ages.
+  귀여운 빨간 자동차 휠리와 함께 떠나는 포인트앤클릭 퍼즐 어드벤처 게임입니다. 레버와 버튼, 엘리베이터 등 다양한 장치를 조작해 길을
+  만들고, 휠리가 목적지에 도착할 수 있도록 퍼즐을 해결해 보세요.
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/wheely.jpg
 tags:
@@ -18,37 +16,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+Wheely는 빨간 자동차 휠리를 주인공으로 한 포인트앤클릭 퍼즐 어드벤처 시리즈입니다. 각 스테이지마다
+휠리가 넘어야 할 장애물과 장치가 배치되어 있고, 플레이어는 주변 환경의 오브젝트를 클릭해 장치를
+작동시키거나 길을 만들어 휠리가 앞으로 나아갈 수 있도록 도와야 합니다.
 
-Wheely is a beloved series of point-and-click puzzle adventure games starring an endearing red car named Wheely. Each game in the series presents a new journey for Wheely, filled with environmental puzzles that players must solve by interacting with various objects and mechanisms in the scene. The games are known for their charming visuals, intuitive controls, and clever challenges.
+아기자기한 그래픽과 직관적인 조작, 직·간접적으로 연결된 퍼즐 구조 덕분에 아이부터 어른까지 함께
+즐기기 좋은 작품입니다.
 
-### Gameplay Guide
+### 게임 플레이 가이드
 
-The core gameplay involves observing the scene and figuring out the correct sequence of interactions to help Wheely progress.
-- **Interact:** Click on objects like levers, buttons, switches, and ramps to activate them.
-- **Guide Wheely:** Click on Wheely to make him start or stop moving. Time his movements with the activated mechanisms to navigate obstacles.
-- **Solve Puzzles:** Each level is a self-contained puzzle. You might need to open gates, build bridges, or clear paths by manipulating the environment.
-- **Collect Stars:** Many levels include optional stars to collect, adding an extra layer of challenge.
+이 게임의 핵심은 장면을 관찰하고, 올바른 순서로 장치를 조작해 휠리가 골인 지점까지 갈 수 있도록
+경로를 마련하는 것입니다.
 
-### Controls Guide
+- **상호작용하기**: 레버, 버튼, 다리, 엘리베이터, 문 등 클릭 가능한 오브젝트를 눌러 장치를 켜거나
+  끄고, 위치를 바꿔 보세요.
+- **휠리 이동시키기**: 휠리를 클릭하면 앞으로 출발하거나, 멈추기도 합니다. 장치를 먼저 작동시킨
+  뒤, 안전할 때 이동시키는 식으로 타이밍을 맞춰야 합니다.
+- **퍼즐 해결하기**: 어떤 스테이지는 길을 여는 순서 퍼즐, 어떤 곳은 타이밍과 순발력이 중요한 퍼즐로
+  구성되어 있습니다. 때로는 숨겨진 버튼이나 스위치를 찾아야만 다음 단계로 진행할 수 있습니다.
+- **별 수집**: 일부 스테이지에는 숨겨진 별이나 추가 수집 요소가 있어, 100% 완료를 노리는
+  플레이어에게 추가 도전 과제를 제공합니다.
 
-- **Mouse:** All interactions are done with the mouse.
-    -   **Click:** Click on objects to activate them.
-    -   **Click on Wheely:** Click Wheely to start or stop his movement.
-    -   **Drag/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
+### 조작 방법 안내
 
-### Frequently Asked Questions (FAQ)
+- **마우스**: 모든 조작은 마우스로 이루어집니다.
+    - 오브젝트 클릭: 레버, 버튼, 다리 등과 상호작용합니다.
+    - 휠리 클릭: 휠리를 출발시키거나 멈춥니다.
+    - 드래그/회전: 특정 퍼즐에서는 오브젝트를 드래그하거나 회전시켜야 할 수 있습니다.
 
-**What is the main objective of Wheely games?**
+### 자주 묻는 질문(FAQ)
 
-The main objective is to guide Wheely through each level, overcoming obstacles and solving puzzles, to reach the red flag at the end.
+**Q. Wheely 시리즈의 목표는 무엇인가요?**  
+A. 각 레벨에서 휠리가 장애물을 모두 통과해 골인 지점(보통 빨간 깃발이 표시된 곳)에 도착하도록
+도와주는 것이 기본 목표입니다.
 
-**Are the games suitable for children?**
+**Q. 어린이가 플레이해도 괜찮은가요?**  
+A. 네, 휠리 시리즈는 폭력적인 표현이 거의 없고, 귀여운 캐릭터와 퍼즐 위주로 구성되어 있어
+가족 단위로 즐기기 좋은 게임입니다.
 
-Yes, the Wheely series is generally considered family-friendly and suitable for children due to its gentle nature, charming characters, and focus on logical problem-solving.
-
-**How many Wheely games are there?**
-
-The Wheely series has many installments, each offering new adventures and puzzles for players to enjoy.
-
+**Q. 시리즈가 여러 편 있는 것 같은데, 순서대로 해야 하나요?**  
+A. 각 편은 느슨하게만 이어져 있어 어느 작품부터 시작해도 큰 문제는 없습니다. 다만 휠리와 주변
+캐릭터에 애착이 생겼다면, 1편부터 차례대로 플레이해 이야기 흐름과 퍼즐 난이도의 변화를 보는 것도
+재미있습니다.

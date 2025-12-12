@@ -1,58 +1,50 @@
 ---
 locale: fr
 urlstr: bee-connect
-title: '[FR] Bee Connect'
-description: >-
-  [FR] In Bee Connect, you need to organize the numbers in the beehive into
-  adjacent groups of four to match each other.
-iframeSrc: >-
-  https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
-thumbnail: /new-images/bee-connect.jpg
+title: "Bee Connect"
+description: "Assemble des nombres identiques sur une ruche hexagonale, planifie chaque fusion et vise le meilleur score possible."
+iframeSrc: "https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/"
+thumbnail: "/new-images/bee-connect.jpg"
 tags:
   - puzzle
   - casual
 score: 4.3/5  (1837 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-18
 ---
 
+### Présentation du jeu
 
+*Bee Connect* est un puzzle de fusion numérique situé sur une ruche hexagonale. L’objectif est d’assembler des tuiles numérotées pour créer des valeurs toujours plus élevées.
 
+Contrairement aux jeux 2048 classiques, tu dois relier **au moins quatre** tuiles identiques adjacentes pour les fusionner. Par exemple, quatre « 2 » deviennent une seule tuile de valeur « 8 ».
 
+Tu déplaces les tuiles une par une vers une cellule voisine vide. Attention : **si un déplacement n’entraîne pas de fusion, une nouvelle tuile issue de la file supérieure est ajoutée**, ce qui réduit l’espace disponible. Les tuiles entourées de toutes parts sont immobiles, et la partie se termine lorsque plus aucun mouvement n’est possible.
 
-### **Game Introduction**
+### Conseils et stratégie
 
-*Bee Connect* is a challenging and strategic number-merging puzzle game set on a hexagonal beehive grid. The objective is to achieve the highest score possible by strategically combining numbered tiles to create tiles with higher values.
+1.  **Toujours viser une fusion :** Chaque déplacement devrait idéalement générer une fusion. Un mouvement « gratuit » ajoute des nombres parasites et saturera vite la ruche.
+2.  **Regrouper les valeurs identiques :** Maintiens les mêmes chiffres proches pour préparer des groupes de trois, puis amène la quatrième tuile qui déclenche la fusion.
+3.  **Anticiper la file d’arrivée :** Observe les prochains numéros dans la file du haut afin de préparer l’emplacement idéal avant qu’ils n’apparaissent.
+4.  **Exploiter la grille hexagonale :** Une cellule peut toucher jusqu’à six voisines, ce qui offre des formes non linéaires pour relier quatre tuiles.
+5.  **Aérer le centre :** Déplace les fusions vers les bords pour garder le centre libre et disposer de voies de circulation.
+6.  **Garder les bonus pour les urgences :** Les pouvoirs (comme l’éclair) peuvent supprimer une tuile critique. Ne les consomme que pour débloquer une situation ou sauver une série de fusions.
 
-Unlike classic 2048-style games, the core mechanic of *Bee Connect* requires players to connect a group of **four or more adjacent, identical numbers** to merge them into a single tile of a higher value. For example, grouping four '2' tiles together will merge them into one '8' tile.
+### Commandes
 
-Players move tiles one by one into adjacent empty cells. However, there's a catch: **if a move does not result in a merge, new numbers from the queue at the top of the screen will be added to the board**, filling up valuable space. Tiles that are completely surrounded by other tiles cannot be moved. The game ends when the board is full and no more moves can be made.
+Le jeu se joue au clic ou au glisser-déposer.
 
-### **Gameplay Strategy & Tips**
+*   **Déplacer une tuile :** Clique et fais glisser une tuile vers une alvéole vide adjacente. Certains portages utilisent un clic de sélection puis un clic de destination.
 
-1.  **[FR]** **Always Plan for a Merge**: This is the golden rule. Every move you make should ideally result in a merge. Moving a tile just to reposition it is costly, as it will add more random numbers to the board and reduce your available space.
-2.  **[FR]** **Group, Don't Scatter**: Actively try to keep identical numbers close to each other. Your goal is to create clusters of three, setting them up for a fourth tile to complete the merge. Avoid leaving a single '8' tile isolated on the far side of the board from your other '8's.
-3.  **[FR]** **Think Several Moves Ahead**: Look at the queue of upcoming numbers at the top. This information is crucial. If you see two '1's are coming, you can prepare a space for them next to your existing '1's to set up an easy merge.
-4.  **[FR]** **Utilize the Hexagonal Grid**: The hexagonal grid offers more adjacent spaces (up to six) than a square grid. Use this to your advantage to create more complex and flexible groupings. You can often connect four tiles in non-linear shapes.
-5.  **[FR]** **Keep the Center Clear**: Try to push merges towards the edges of the board. Keeping the central area open provides more flexibility for moving and arranging tiles, preventing your key pieces from getting trapped early.
-6.  **[FR]** **Save Your Power-ups**: The lightning bolt icon is a powerful tool, likely for clearing a single tile or another helpful action. Don't use it on a whim. Save it for critical moments when you need to clear a specific tile to prevent the board from locking up or to enable a game-saving merge.
+### Foire aux questions (FAQ)
 
-### **Controls Guide**
+**1. Pourquoi de nouvelles tuiles apparaissent-elles soudainement ?**  
+Parce que chaque déplacement sans fusion déclenche une pénalité qui ajoute des nombres aléatoires sur la ruche.
 
-The game is designed for simple drag-and-drop or click-based gameplay.
+**2. Pourquoi une tuile refuse-t-elle de bouger ?**  
+Elle est piégée : aucune cellule voisine n’est libre, donc elle est immobile jusqu’à ce que tu libères de l’espace.
 
-*   **[FR]** **Move a Tile**: **Click and drag** a numbered tile to an adjacent empty honeycomb cell. Alternatively, some versions may use a **click-to-select, click-to-place** system.
+**3. Combien de tuiles identiques faut-il pour fusionner ?**  
+Il faut un groupe d’au moins quatre tuiles adjacentes. Trois tuiles côte à côte ne fusionnent pas.
 
-### **Frequently Asked Questions (FAQ)**
-
-**1. Why did new numbers suddenly appear on the board?**
-This is the game's core penalty mechanic. It happens whenever you move a tile, and that move does not immediately create a group of four or more matching tiles.
-
-**2. Why can't I move a specific tile?**
-The tile is "trapped." A tile can only be moved if there is at least one empty, adjacent honeycomb cell to move it into. If it is completely surrounded by other tiles, it is stuck.
-
-**3. How many tiles do I need to make a match?**
-You need to create an adjacent group of **at least four** identical tiles. Three tiles next to each other will not merge.
-
-**4. What is the goal of the game?**
-The primary goal is to survive for as long as possible and achieve the highest score. A secondary goal for experts is to create the highest possible number tile (e.g., 1024, 2048, etc.) by repeatedly merging.
-
+**4. Quel est l’objectif final ?**  
+Survivre le plus longtemps possible pour battre ton record, et pour les joueurs experts, créer les plus grosses valeurs (1024, 2048, etc.) en multipliant les fusions.

@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: tractor-mania
-title: '[ES] Tractor Mania'
+title: "Tractor Mania - Entregas extremas en granja"
 description: >-
-  [ES] Tractor Mania is a farm hauler — balance loads, manage torque, and
-  deliver cargo safely across rough terrain.
-iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
-thumbnail: /new-images/tractor-mania.png
+  Tractor Mania es un simulador de transporte en granja: equilibra la carga,
+  controla el par del motor y entrega el cargamento sano y salvo a través de
+  terrenos irregulares.
+iframeSrc: "https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/"
+thumbnail: "/new-images/tractor-mania.png"
 tags:
   - car
   - driving
@@ -15,32 +16,28 @@ score: 4.0/5  (1880 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Tractor Mania es un juego de física y conducción en el que debes llevar remolques cargados a través de colinas, baches y pendientes imposibles. Un buen control del acelerador y del equilibrio del tractor es la clave para que el remolque no vuelque ni pierdas la mercancía por el camino. Cuanto más limpio llegues al destino, mejores serán tus recompensas.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  Acelera con suavidad en las subidas: evita patinar las ruedas; un empuje constante mantiene la tracción.
+2.  Compensa el peso: inclínate hacia delante o hacia atrás para contrarrestar la inclinación del remolque y mantenerlo lo más horizontal posible.
+3.  Frena antes de las bajadas: reduce la velocidad antes de los descensos y deja que la inercia haga el resto para no perder el control.
+4.  Prioriza la carga: en rutas complicadas, es mejor asegurar una entrega parcial que intentar ir demasiado rápido y perder medio cargamento.
+5.  Mejora con cabeza: si el juego ofrece mejoras, invierte primero en neumáticos y suspensión antes que en motor para ganar estabilidad.
 
-Tractor Mania is a physics hauler: throttle control and balance keep trailers steady over bumps. Spilled cargo costs rewards; smooth driving beats speed.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- **Acelerador / freno:** `W` / `S` o `Flechas arriba/abajo`.
+- **Inclinar el vehículo:** `A` / `D` o `Flechas izquierda/derecha` para ajustar el equilibrio del tractor en el aire o en pendientes.
 
-1.  **[ES]** Gentle throttle on inclines; avoid wheel‑spin.
-2.  **[ES]** Lean to counter pitch; keep trailer level.
-3.  **[ES]** Brake before descents; coast down.
-4.  **[ES]** Secure partial loads first on tough routes.
-5.  **[ES]** Upgrade tires/suspension before engines if available.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **Q: Siempre pierdo cajas en los baches.**  
+  **A:** Seguramente estás acelerando demasiado. Reduce la velocidad antes de los saltos y mantén el remolque nivelado utilizando la inclinación.
 
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Cargo keeps spilling.
-
-A: You’re over‑throttling; slow and stabilize before bumps.
-
-- Q: Stuck on hills.
-
-A: Approach slower, keep traction, and lean forward gently.
+- **Q: Me quedo atascado en las cuestas.**  
+  **A:** Acércate a las subidas con algo de inercia, mantén un gas constante y echa el peso ligeramente hacia delante para mejorar la tracción.
 

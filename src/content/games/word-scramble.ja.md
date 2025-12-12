@@ -1,51 +1,47 @@
 ---
-locale: ja
-urlstr: word-scramble
-title: '[JA TRANSLATION NEEDED] Word Scramble'
-description: >-
-  [JA TRANSLATION NEEDED] Unscramble letters and challenge your mind in Word
-  Scramble, a classic word puzzle game! Rearrange jumbled letters to form the
-  correct word within a time limit. Test your vocabulary and quick thinking
-  across various levels and categories in this engaging brain-teaser.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
+title: Word Scramble
+description: Word Scrambleは、単語アナグラムゲームです。シャッフルされた文字から単語を作りましょう。
+iframeSrc: 'https://ubg98.github.io/WordScramble/'
 thumbnail: /new-images/word-scramble.jpg
+urlstr: word-scramble
+score: 4.3/5  (2234 votes)
 tags:
-  - word-game
   - puzzle
-  - brain-teaser
-score: 3.5/5  (764 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - word
+  - anagram
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Word Scramble is a classic and engaging word puzzle game that challenges players to rearrange a set of jumbled letters to form a meaningful word. It's a test of vocabulary, pattern recognition, and quick thinking. The game often features various difficulty levels and categories, keeping the gameplay fresh and challenging.
+Word Scrambleは、シャッフルされた文字を並べ替えて単語を作るアナグラムパズルゲームです。素早く正しい単語を見つけましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-- **Objective:** The main goal is to correctly identify the original word from a given set of scrambled letters.
-- **Letters:** You will be presented with a set of letters that are an anagram of a single word.
-- **Time Limit:** Many versions include a time limit, adding pressure and testing your speed.
-- **Hints:** If you get stuck, hints might be available, such as revealing a letter or providing a definition.
+ - **文字を並べ替える：** シャッフルされた文字を見ます
+ - **単語を形成：** 正しい順序に並べます
+ - **タイムチャレンジ：** 制限時間内に完了します
+ - **高得点：** より多くの単語を解きます
+
+
 - **Scoring:** Points are typically awarded for correct answers, with bonuses for faster solutions.
+### 操作ガイド
 
-### Controls Guide
+ - **キーボード：** 文字をタイプ
+ - **マウス：** 文字をクリックして並べ替え
 
-- **Typing:** Use your keyboard to type the word you believe is correct.
-- **Rearrange Letters:** Some versions allow you to click and drag letters to rearrange them visually, or have a "shuffle" button.
+
 - **Submit:** Press `Enter` to submit your answer.
+### よくある質問（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] **How do I play Word Scramble?**
+シャッフルされた文字から正しい単語を作ることです。
 
-[JA TRANSLATION NEEDED] You are given a set of jumbled letters. Your task is to rearrange these letters to form a valid English word.
+**時間制限はありますか？**
 
-[JA TRANSLATION NEEDED] **What if I can't find the word?**
+はい、各単語に制限時間があります。
 
-[JA TRANSLATION NEEDED] Most games offer hints or a "pass" option. You can also try shuffling the letters to get a new perspective.
+**ヒントはありますか？**
 
-[JA TRANSLATION NEEDED] **Are there different types of Word Scramble games?**
-
-[JA TRANSLATION NEEDED] Yes, variations include games with different word lengths, categories (e.g., animals, countries), or competitive multiplayer modes where players race to solve the scramble first.
-
+一部のバージョンでは、文字のヒントや定義が提供されます。

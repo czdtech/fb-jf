@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: fruit-cube-blast
-title: '[ES] Fruit Cube Blast'
+title: Fruit Cube Blast
 description: >-
-  [ES] Blast your way through juicy levels in Fruit Cube Blast! Tap groups of
-  matching fruit cubes to create explosive combos and clear the board in this
-  fun and colorful puzzle game.
+  Explota niveles llenos de color en Fruit Cube Blast. Toca grupos de cubos de
+  fruta del mismo tipo para crear combos explosivos y limpiar el tablero en este
+  divertido puzle.
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/fruit-cube-blast.jpg
 tags:
@@ -17,39 +17,58 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Fruit Cube Blast es un puzle "tap‑to‑blast" vibrante y explosivo. A diferencia
+de los típicos match‑3 en los que intercambias piezas, aquí tocas grupos de
+dos o más cubos de fruta adyacentes del mismo color para hacerlos desaparecer
+del tablero. El objetivo es cumplir las misiones específicas de cada nivel
+limpiando cubos de forma estratégica y creando combos potentes. Al explotar
+grupos grandes generarás potenciadores especiales como cohetes y bombas que
+limpian aún más tablero de una sola vez.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike match-3 games where you swap items, in this game, you tap on groups of two or more adjacent, identical fruit cubes to blast them off the board. The goal is to complete level-specific objectives by strategically clearing cubes and creating powerful combos. By blasting larger groups of cubes, you can create special boosters like rockets and bombs to clear even more of the level in spectacular fashion.
+1. **Cuanto más grande, mejor:** Busca siempre el grupo más grande de cubos
+   iguales antes de tocar. Romper grupos pequeños de 2 o 3 es poco eficiente.
+   Los grupos grandes no solo despejan más espacio, también son la única forma
+   de crear potenciadores poderosos.
+2. **Crea y combina potenciadores:** Esta es la clave para superar los niveles
+   difíciles.
+    - **Cohete:** Toca un grupo de 5‑6 cubos para crear un cohete, que limpia
+     una fila o columna completa.
+    - **Bomba:** Toca un grupo de 7‑8 cubos para crear una bomba, que limpia un
+     área de 3x3.
+    - **Rueda de color:** Toca un grupo de 9 o más cubos para crear una rueda
+     que elimina todos los cubos de un mismo color.
+    - **Combinar:** La verdadera fuerza llega al activar dos potenciadores uno
+     junto a otro; por ejemplo, un combo Cohete + Bomba despeja una zona enorme.
+3. **Juega según los objetivos:** Fíjate siempre en la misión. Si tienes que
+   recoger 30 cubos rojos, prioriza conexiones de ese color. Si debes bajar un
+   objeto al fondo, céntrate en limpiar los cubos justo debajo.
+4. **Ahorra movimientos:** Cada nivel tiene un número limitado de jugadas. No
+   los gastes en grupos pequeños sin importancia. Intenta preparar grandes
+   agrupaciones que creen potenciadores o generen grandes cascadas.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Bigger is Better:** Always look for the largest possible group of matching cubes to tap. Tapping a small group of 2 or 3 is less efficient. Larger groups not only clear more space but are also the only way to create powerful boosters.
-2.  **[ES]** **Create and Combine Boosters:** This is the core strategy for winning difficult levels.
-    *   **[ES]** **Rocket:** Tap a group of 5-6 cubes to create a Rocket, which clears a full row or column.
-    *   **[ES]** **Bomb:** Tap a group of 7-8 cubes to create a Bomb, which clears a 3x3 area.
-    *   **[ES]** **Color Wheel:** Tap a group of 9 or more cubes to create a Color Wheel, which clears all cubes of a single color.
-    *   **[ES]** **Combine:** The real power comes from activating two boosters next to each other. For example, a Rocket + Bomb combo clears a huge area.
+Los controles son muy sencillos.
 
-3.  **[ES]** **Plan for Objectives:** Pay attention to the goal. If you need to collect 30 red cubes, focus on matching red cubes. If you need to drop an item to the bottom, focus on clearing the cubes directly beneath it.
-4.  **[ES]** **Conserve Moves:** Each level has a limited number of moves. Don't waste them on small, insignificant matches. Try to set up large matches that will create boosters or cause large cascades.
+- **Explosión de cubos:** Usa el ratón o el dedo para tocar cualquier grupo de
+  dos o más cubos adyacentes del mismo color.
+- **Activar potenciadores:** Basta con tocar un potenciador (cohete, bomba,
+  etc.) para activarlo.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The controls are extremely simple.
+*   **P: ¿Por qué no puedo tocar un cubo suelto?**
+    *   **R:** El juego exige que haya al menos dos cubos conectados del mismo color
+        para poder eliminarlos.
 
-*   **[ES]** **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
-*   **[ES]** **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
+*   **P: ¿Cómo creo un cohete?**
+    *   **R:** Toca un grupo de 5 o 6 cubos idénticos conectados para generarlo.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: Why can't I tap on a single cube?**
-    *   **[ES]** **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
-
-*   **[ES]** **Q: How do I create a Rocket?**
-    *   **[ES]** **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
-
-*   **[ES]** **Q: What is the best way to clear a level with limited moves?**
-    *   **[ES]** **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
-
+*   **P: ¿Cuál es la mejor forma de pasar niveles con pocos movimientos?**
+    *   **R:** Prioriza la creación de potenciadores formando grupos grandes en lugar
+        de muchos grupos pequeños. Luego intenta colocar dos potenciadores juntos y
+        activarlos a la vez para limpiar medio tablero de una sola jugada.

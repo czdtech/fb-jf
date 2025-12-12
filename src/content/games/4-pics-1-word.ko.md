@@ -1,8 +1,10 @@
 ---
 locale: ko
 urlstr: 4-pics-1-word
-title: '[KO] 4 Pics 1 Word'
-description: '[KO] Here''s your chance to play 4 Pics 1 Word Game. Have fun with this one!'
+title: '4 Pics 1 Word 포 픽스 원 워드'
+description: >-
+  네 장의 사진 속 공통점을 찾아 하나의 단어를 맞히는 직관적인 단어 퍼즐
+  게임입니다. 간단한 규칙으로도 깊이 있는 추리와 어휘력을 시험해 보세요.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/4-pics-1-word.jpg
 tags:
@@ -13,67 +15,97 @@ developer: So Far So Good
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-
-
-
-
-*4 Pics 1 Word* (German: *4 Bilder 1 Wort*) is a highly popular and straightforward word puzzle game developed by LOTUM GmbH. The core concept is to guess a single word that is common to four different pictures shown on the screen. The game tests your lateral thinking, vocabulary, and ability to find connections between visual cues. Its simple premise and engaging puzzles have made it a lasting hit on mobile devices.
-
----
-
-### How to Play 4 Pics 1 Word
-
-The gameplay is incredibly simple and intuitive, making it accessible to players of all ages.
-
-*   **[KO]** **The Goal:** Look at the four pictures presented and figure out the one word that they all represent or are associated with. This word can be a noun, verb, or adjective.
-
-*   **[KO]** **Guessing the Word:**
-    1.   **[KO]** Below the pictures, you will see a set of blank spaces representing the letters of the target word.
-    2.   **[KO]** Further below is a jumbled selection of letters.
-    3.   **[KO]** Tap the letters in the correct order to spell out your answer in the blank spaces.
-    4.   **[KO]** If you make a mistake, you can tap the letter in the answer space to return it to the selection area.
-
-*   **[KO]** **Earning Coins:** For each puzzle you solve correctly, you earn a small number of coins. These coins are the in-game currency used for getting hints.
-
-*   **[KO]** **Using Hints:** If you get stuck on a puzzle, there are several hints you can "purchase" with your earned coins:
-    *   **[KO]** **Reveal a Letter:** This will place one correct letter into its proper position in the answer. This is the most common and cheapest hint.
-    *   **[KO]** **Remove Letters:** This will remove several letters from the jumbled selection that are *not* part of the answer, making it much easier to guess the word.
-    *   **[KO]** **Ask a Friend:** The game provides a built-in feature to take a screenshot of the puzzle and easily share it on social media or messaging apps to ask for help.
+*4 Pics 1 Word* (독일어 제목: *4 Bilder 1 Wort*)는 LOTUM GmbH에서 개발한
+인기 단어 퍼즐 게임입니다. 화면에 표시되는 네 장의 서로 다른 사진을 보고,
+이 사진들이 모두 공유하는 하나의 단어를 맞히면 됩니다. 직관적인 규칙으로
+연상력과 어휘력, 그리고 시각적 단서를 연결하는 능력을 시험해 주며, 간단한
+구성에도 불구하고 오랫동안 사랑받고 있습니다.
 
 ---
 
-### Strategy and Tips
+### 4 Pics 1 Word 플레이 방법
 
-While the game is simple, a few strategies can help you solve puzzles more efficiently.
+조작과 규칙이 매우 단순해 남녀노소 누구나 금방 익힐 수 있습니다.
 
-1.  **[KO]** **Analyze Each Picture Individually:** First, describe each of the four pictures to yourself using simple words. Look for actions, objects, colors, or concepts.
-    *   **[KO]** *Example:* If you see a person sleeping, a light switch turned off, a dark sky, and an owl, individual words might be "sleep," "off," "dark," "night," "bird."
+*   **목표:** 네 장의 사진을 보고 그 사진들이 공통적으로 가리키거나 연상시키는
+    하나의 단어를 맞히는 것입니다. 정답 단어는 명사, 동사, 형용사 등 다양한
+    품사로 출제됩니다.
 
-2.  **[KO]** **Find the Common Theme:** After analyzing each picture, look for the overlapping concept or word. In the example above, the common theme is **"DARK"** (a dark room, a dark sky, a creature of the night).
+*   **단어 맞히기:**
+    1.  사진 아래에는 정답 단어의 글자 수만큼 빈 칸이 표시됩니다.
+    2.  그 아래에는 섞여 있는 여러 개의 글자 조각이 보입니다.
+    3.  정답이라고 생각되는 단어를 떠올린 뒤, 글자 조각을 순서대로 탭해
+        위의 빈 칸에 채워 넣습니다.
+    4.  잘못 입력했다면, 위의 칸에 있는 글자를 다시 탭해 아래 글자 목록으로
+        되돌릴 수 있습니다.
 
-3.  **[KO]** **Think Abstractly:** Don't always think literally. Sometimes the connection is a concept or an idea.
-    *   **[KO]** *Example:* Pictures of a scale, a judge's gavel, and a blindfolded statue might all point to the word **"JUSTICE"**.
+*   **코인 획득:** 퍼즐을 하나 맞힐 때마다 일정량의 코인을 보상으로 획득합니다.
+    이 코인은 게임 안에서 힌트를 구매할 때 사용하는 기본 화폐입니다.
 
-4.  **[KO]** **Consider Wordplay and Multiple Meanings:** The game often uses words with double meanings (homonyms).
-    *   **[KO]** *Example:* A picture of a tree's outer layer and a dog's sound might both relate to the word **"BARK"**.
-
-5.  **[KO]** **Look at the Letter Count and Available Letters:** The number of blank spaces tells you exactly how long the word is. Use the provided letters as a major clue. If you have an idea, check if the necessary letters are available before you get too attached to it.
-
-6.  **[KO]** **Use Coins Wisely:** The "Remove Letters" hint is often more valuable than "Reveal a Letter," as it can make the answer immediately obvious. Save your coins for truly difficult puzzles.
+*   **힌트 사용:** 막히는 퍼즐이 생기면 모아 둔 코인으로 여러 종류의 힌트를
+    사용할 수 있습니다.
+    *   **글자 공개:** 정답 단어 안의 글자 하나를 정확한 위치에 자동으로
+        채워 줍니다. 가장 기본적이고 비용이 적게 드는 힌트입니다.
+    *   **쓸모없는 글자 제거:** 아래에 섞여 있는 글자들 중, 정답에 사용되지
+        않는 글자들을 몇 개 제거해 남은 글자만 보고 쉽게 추리할 수 있게 합니다.
+    *   **친구에게 물어보기:** 퍼즐 화면을 캡처해 소셜 미디어나 메신저 앱으로
+        쉽게 공유하고, 다른 사람에게 도움을 요청할 수 있는 기능도 제공됩니다.
 
 ---
 
-### Frequently Asked Questions (FAQ)
+### 전략과 팁
 
-**Q: Is *4 Pics 1 Word* free to play?**
-**A:** Yes, the game is free to download and play. It is supported by in-app purchases (where you can buy more coins for hints) and sometimes advertisements.
+규칙은 단순하지만, 몇 가지 전략을 알고 있으면 퍼즐을 더 효율적으로 풀 수
+있습니다.
 
-**Q: What happens if I run out of coins and am stuck?**
-**A:** Your best free option is to use the "Ask a Friend" feature to share the puzzle. You also earn free coins for solving puzzles, so you can always go back to easier levels (if the version allows) or wait for a daily bonus, if available.
+1.  **각 그림을 따로 설명해 보기:** 먼저 네 장의 사진을 각각 간단한 단어로
+    설명해 보세요. 동작, 물건, 색깔, 분위기, 개념 등을 하나씩 떠올리는
+    식으로 정리하면 공통점을 찾기가 수월해집니다.
+    *   *예시:* 사람이 자는 모습, 꺼진 전등 스위치, 어두운 밤하늘, 부엉이 사진이
+        있다면 '잠', '꺼짐', '어둠', '밤', '새' 같은 단어가 떠오를 수 있습니다.
 
-**Q: Do the four pictures always relate in the same way?**
-**A:** No, and that's the core challenge. Sometimes all four pictures show different examples of the same object (e.g., four types of balls). Other times, they represent a shared concept (e.g., pictures related to "cold": an ice cube, a person shivering, a thermometer showing a low temperature, and a snowy landscape).
+2.  **공통된 주제 찾기:** 각 사진에서 떠올린 단어들을 비교해, 겹치는 개념을
+    찾아보세요. 위 예시에서는 **DARK**(어둠)이라는 공통 주제를 떠올릴 수
+    있습니다. 어두운 방, 밤하늘, 밤에 활동하는 동물이라는 연결고리를 떠올리면
+    답이 보입니다.
 
-**Q: Is the game available in other languages?**
-**A:** Yes, *4 Pics 1 Word* is available in many different languages. The puzzles and answers are localized for each language.
+3.  **너무 문자 그대로만 보지 않기:** 항상 눈에 보이는 물체 이름이 정답인 것은
+    아닙니다. 어떤 퍼즐은 감정, 상태, 추상적인 개념을 가리키기도 합니다.
+    *   *예시:* 저울, 판사의 망치, 눈가리개를 한 여신 상이 보인다면, 이 셋을
+        관통하는 단어는 **JUSTICE**(정의)입니다.
 
+4.  **말장난과 다의어 의식하기:** 같은 철자를 가진 단어가 여러 뜻을 가지는
+    경우를 이용한 퍼즐도 자주 등장합니다.
+    *   *예시:* 나무의 껍질 사진과 개가 짖는 모습이 함께 있다면, 둘 다
+        **BARK**(나무껍질, 짖다)를 가리킬 수 있습니다.
+
+5.  **글자 수와 제공된 글자 확인하기:** 정답의 글자 수는 이미 빈 칸으로
+    알려져 있습니다. 머릿속에 후보 단어가 떠올랐다면, 먼저 그 단어의 글자 수가
+    맞는지, 그리고 제공된 글자 조각에 필요한 글자가 모두 있는지부터 확인해
+    보세요.
+
+6.  **코인은 아껴 쓰기:** '글자 제거' 힌트는 한 번에 퍼즐을 풀어 버릴 정도로
+    강력할 때가 많습니다. 자주 쓰면 금방 코인이 부족해지므로, 정말 오래
+    막힌 퍼즐에서만 사용하는 편이 좋습니다.
+
+---
+
+### 자주 묻는 질문 (FAQ)
+
+**Q: 4 Pics 1 Word는 무료 게임인가요?**
+**A:** 네, 기본적으로 무료로 다운로드해서 플레이할 수 있습니다. 다만 추가 코인을
+구매할 수 있는 인앱 결제와, 간헐적으로 표시되는 광고를 통해 운영됩니다.
+
+**Q: 코인이 다 떨어졌는데 퍼즐에서 막혔어요. 어떻게 해야 하나요?**
+**A:** 가장 좋은 무료 방법은 '친구에게 물어보기' 기능을 활용해 퍼즐을 공유하는
+것입니다. 또, 퍼즐을 계속 풀면 코인을 조금씩 다시 모을 수 있고, 일부 버전에서는
+일일 보너스 등으로 무료 코인을 제공하기도 합니다.
+
+**Q: 네 장의 사진이 항상 같은 방식으로 연결되나요?**
+**A:** 그렇지 않습니다. 이 점이 바로 게임의 핵심 재미 중 하나입니다. 어떤
+퍼즐은 네 장 모두 같은 물건의 다른 모습일 수도 있고, 다른 퍼즐은 '차가움',
+'속도' 같은 하나의 추상적인 개념을 각기 다른 방식으로 보여주기도 합니다.
+
+**Q: 이 게임은 여러 언어로 즐길 수 있나요?**
+**A:** 네, *4 Pics 1 Word*는 다양한 언어로 서비스되고 있으며, 각 언어에 맞게
+퍼즐과 정답 단어가 현지화되어 있습니다.

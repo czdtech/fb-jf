@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: cluster-rush
-title: '[ES] Cluster Rush'
+title: "Cluster Rush"
 description: >-
-  [ES] Master the art of truck-jumping in Cluster Rush with our detailed guide.
-  Get gameplay strategies, controls, tips, and answers to common questions for
-  this intense first-person platformer.
-iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
+  Domina el arte de saltar entre camiones en Cluster Rush con esta guía
+  detallada. Aquí encontrarás estrategias de juego, controles, consejos y
+  respuestas a preguntas frecuentes sobre este intenso plataformas en primera
+  persona.
+iframeSrc: "https://clusterrush.io/game/cluster-rush/"
 thumbnail: /new-images/cluster-rush.jpg
 tags:
   - platformer
@@ -16,54 +17,83 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **Introducción al juego**
 
+Cluster Rush es un plataformas 3D en primera persona, rápido y exigente, con una
+premisa tan simple como brutal: debes saltar de camión en camión dentro de un
+convoy caótico hasta llegar a la meta. El suelo es lava (o, mejor dicho, no
+existe): un solo fallo significa reiniciar el nivel al instante.
 
+La jugabilidad es totalmente basada en físicas, por lo que exige una sincronización muy
+preciso, control del impulso y reflejos rápidos. Tendrás que moverte sobre
+camiones que se desvían, chocan e incluso explotan, y son tus únicas
+"plataformas". El juego está dividido en niveles agrupados por mundos, y cada
+uno introduce obstáculos nuevos y patrones de camiones más complejos. Es un
+título de pura habilidad, ensayo‑y‑error y dominio del movimiento para superar
+retos que parecen imposibles.
 
-### **Game Introduction**
+### **Consejos y estrategia**
 
-Cluster Rush is a fast-paced, first-person 3D platformer with a simple yet incredibly challenging premise: you must jump from truck to truck in a chaotic, moving convoy to reach the finish line. The ground is effectively non-existent, and any fall results in an instant restart of the level.
+El éxito en Cluster Rush pasa por dominar el movimiento y aprender los niveles.
 
-The gameplay is entirely physics-based, demanding precise timing, momentum control, and quick reflexes. Players must navigate swerving, crashing, and sometimes exploding trucks that serve as their only platforms. The game is structured into a series of levels, grouped into different worlds, with each level introducing new obstacles and more complex truck patterns. It is a game of pure skill, trial-and-error, and mastering movement to overcome seemingly impossible challenges.
+1.  **Mira hacia delante, no hacia abajo:** Regla número uno. Mantén siempre la
+    vista dos o tres camiones por delante de donde estás. Planear los próximos
+    saltos con antelación es clave para mantener el flujo y no quedarte sin
+    opciones.
+2.  **El impulso lo es todo:** La distancia de tus saltos depende de la velocidad
+    con la que corres. Usa el sprint para los saltos largos, pero aprende
+    también cuándo soltarlo para hacer saltos cortos y controlados; no hace
+    falta correr al máximo todo el tiempo.
+3.  **Domina el doble salto:** Es tu herramienta más versátil. Úsalo para ganar
+    altura extra, alargar el tiempo en el aire mientras esperas que un camión se
+    coloque o corregir la trayectoria después de un salto mal calculado.
+4.  **Usa los laterales de los camiones:** Puedes agarrarte y deslizarte por los
+    lados. Es una técnica salvavidas: si ves que vas a fallar un aterrizaje,
+    apunta al lateral; podrás recuperarte, recolocarte y volver a saltar.
+5.  **Aprende los patrones de cada nivel:** Los camiones NO se mueven al azar;
+    siguen patrones fijos. El juego está pensado para que, con ensayo‑y‑error,
+    memorices cómo se comportan en cada fase.
+6.  **Piensa en vertical:** No te limites a saltar entre camiones a la misma
+    altura; busca oportunidades para subir de un camión bajo al techo de uno más
+    alto y encontrar rutas más seguras o rápidas.
+7.  **Abraza el fracaso:** Fallarás cien o mil veces. Cada caída es una lección:
+    analiza por qué has fallado (demasiado pronto, poca velocidad, mal ángulo) y
+    ajusta en el siguiente intento.
 
-### **Gameplay Strategy & Tips**
+### **Guía de controles**
 
-Success in Cluster Rush is about mastering movement and learning the levels.
+Los controles se parecen a los de cualquier juego en primera persona en PC.
 
-1.  **[ES]** **Look Ahead, Not Down**: This is the most critical rule. Your focus should always be two or three trucks ahead of your current position. Planning your next jumps in advance is essential for maintaining flow and not getting trapped.
-2.  **[ES]** **Momentum is Everything**: Your jump distance is directly tied to your running speed. Use the sprint button to make long jumps, but also learn when to let go of it for shorter, more controlled hops. You do not need to be sprinting 100% of the time.
-3.  **[ES]** **Master the Double Jump**: The double jump is your most versatile tool. It can be used to gain extra height, extend your airtime to wait for a truck to get into position, or to correct your trajectory mid-air after a bad initial jump.
-4.  **[ES]** **Use the Sides of Trucks**: You can cling to and slide along the sides of trucks. This is a crucial life-saving technique. If you are about to miss a landing, aim for the side of the truck. This allows you to recover, readjust, and jump again.
-5.  **[ES]** **Learn the Level Patterns**: The truck movements in each level are not random; they follow a set pattern. The game is about trial and error. Pay attention to how the trucks move on each attempt. Memorizing the route is key to completing difficult levels.
-6.  **[ES]** **Think Vertically**: Don't just jump between trucks at the same height. Look for opportunities to jump from a low truck onto the roof of a much taller one to find a safer or faster path.
-7.  **[ES]** **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
+*   **Moverse:** Teclas `W`, `A`, `S`, `D`.
+*   **Mirar:** Ratón.
+*   **Saltar:** Barra espaciadora.
+*   **Doble salto:** Pulsa de nuevo la barra espaciadora mientras estás en el
+    aire.
+*   **Correr:** `Shift` (mantén para sprintar).
+*   **Pausa/Menú:** `Esc`.
 
-### **Controls Guide**
+**Nota:** Agarrarte o deslizarte por el lateral de un camión es contextual; no
+hay tecla específica, basta con chocar con el lado del camión en el aire.
 
-The controls are similar to most first-person PC games.
+### **Preguntas frecuentes (FAQ)**
 
-*   **[ES]** **Move**: `W`, `A`, `S`, `D` keys
-*   **[ES]** **Look**: Mouse
-*   **[ES]** **Jump**: `Space Bar`
-*   **[ES]** **Double Jump**: Press `Space Bar` again while in the air
-*   **[ES]** **Sprint**: `Shift` key (hold down to run faster)
-*   **[ES]** **Pause/Menu**: `Esc` key
+**1. ¿Los camiones se mueven al azar en cada nivel?**
+No. Aunque parezca caótico, los patrones están fijados para cada nivel; eso
+permite aprender y dominar la ruta.
 
-**Note:** Grabbing or sliding along the side of a truck is a contextual action. You do not need to press a specific key; simply make contact with the side of a truck while in the air.
+**2. Siempre me quedo corto en los saltos, ¿qué hago mal?**
+Casi siempre es un problema de impulso. Asegúrate de mantener pulsado `Shift`
+antes de un salto largo y de tener suficiente "carrera" sobre el camión.
 
-### **Frequently Asked Questions (FAQ)**
+**3. ¿Se guarda el progreso a mitad de nivel?**
+No, no hay checkpoints. Cada nivel debe completarse de principio a fin en una
+sola carrera.
 
-**1. Are the truck movements random in each level?**
-No, the patterns are pre-determined for each level. While it may look chaotic, the trucks' paths are the same every time you play a specific level, making it possible to learn and master the routes.
+**4. ¿Cómo desbloqueo nuevos mundos o niveles?**
+Superando los niveles anteriores en orden. Cada fase completada abre la
+siguiente.
 
-**2. I keep falling short on my jumps. What am I doing wrong?**
-This is almost always a momentum issue. Make sure you are holding down the `Shift` key to sprint before you make a long jump. For very long jumps, ensure you have a decent "runway" on the truck before you leap.
-
-**3. Is there a way to save my progress in the middle of a level?**
-No, there are no checkpoints. Each level must be completed from start to finish in a single run. This is a core part of the game's design and challenge.
-
-**4. How do I unlock new worlds or levels?**
-You unlock new levels and worlds by successfully completing the previous ones in sequential order.
-
-**5. Some levels seem impossible. Any advice?**
-Patience is key. If you are truly stuck, take a break to clear your head. You can also try watching a video playthrough of that specific level online to see the intended or an alternative route you may not have considered. Often, there's a specific trick or path that makes it much easier.
-
+**5. Hay niveles que parecen imposibles, ¿algún consejo?**
+Ten paciencia. Si te atascas, tómate un descanso. También puedes ver vídeos de
+ese nivel en concreto para descubrir rutas o trucos que no habías considerado.
+Muchas veces hay un camino "intencionado" que lo vuelve mucho más asequible.

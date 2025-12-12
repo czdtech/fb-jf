@@ -1,69 +1,39 @@
 ---
+title: "Mergest Kingdom"
+description: "Mergest Kingdomは王国構築マージゲームです。アイテムをマージし、建物を建設し、王国を拡大し、壮大な帝国を作成します。"
+iframeSrc: "https://mergestkingdom.h5games.usercontent.goog/v/25s7sil9mjn60/"
+thumbnail: "/new-images/mergest-kingdom.png"
+urlstr: "mergest-kingdom"
+score: "4.4/5  (2456 votes)"
+tags: ["casual", "thinky", "strategy"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: mergest-kingdom
-title: '[JA TRANSLATION NEEDED] Mergest Kingdom'
-description: >-
-  [JA TRANSLATION NEEDED] Mergest Kingdom is a merge‑and‑build fantasy — combine
-  tiles, complete quests, and expand realms with efficient chain planning.
-iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
-thumbnail: /new-images/mergest-kingdom.png
-tags:
-  - puzzle
-  - adventure
-  - thinky
-score: 4.2/5  (2079 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Mergest Kingdom combines merge‑3 chains with kingdom building. Merge plants, stones, and artifacts to craft higher tiers, clear fog, and unlock new regions. Quests and events provide targets; energy and space limit reckless merging, rewarding planned ladders.
+Mergest Kingdomは、豊かなマージメカニクスと王国構築を組み合わせます。リソース、建物、ユニットをマージして繁栄する王国を作成します。土地を探索し、クエストを完了し、帝国を拡大します。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] 1.  Merge‑3 vs 5: Save sets of 5 for extra yield when feasible.
-[JA TRANSLATION NEEDED] 2.  Space staging: Keep staging zones for near‑complete sets; don’t block quest spawns.
-[JA TRANSLATION NEEDED] 3.  Quest alignment: Prioritize merges that satisfy current quests to accelerate unlocks.
-[JA TRANSLATION NEEDED] 4.  Energy pacing: Spend in bursts on planned chains, then idle to regenerate.
-[JA TRANSLATION NEEDED] 5.  Event prep: Stock partial sets before events for rapid progression.
+1.  **リソースをマージ:** より良いリソースのために3つまたは5つをマージします。
+2.  **賢く構築:** 生産と美学のために建物を戦略的に配置します。
+3.  **クエストを完了:** 報酬と進行のためにタスクに焦点を当てます。
+4.  **土地を探索:** 新しいエリアをアンロックして拡大します。
+5.  **リソース管理:** エネルギーと材料を賢く費やします。
 
-### Controls Guide
+### 操作ガイド
 
-- Drag to merge items; tap buildings to collect; navigate regions via map.
+- アイテムをドラッグ＆ドロップしてマージおよび配置します。
+- 建物をクリック/タップして収集およびアップグレードします。
+- クエストを追跡し、報酬を獲得します。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-- Q: I run out of space.
-  
-[JA TRANSLATION NEEDED]   A: Consolidate into 5‑merges and sell clutter; expand land ASAP.
-
-- Q: Energy too slow?
-  
-[JA TRANSLATION NEEDED]   A: Plan chains, collect daily rewards, and time boosts.
-
-- Q: Worth merging everything?
-  
-
-
-
-
-
-- Q: I run out of space.
-### よくある質問（FAQ）
-- Drag to merge items; tap buildings to collect; navigate regions via map.
-### コントロールガイド
-- Event prep: Stock partial sets before events for rapid progression.
-[JA TRANSLATION NEEDED]   A: No — merge toward quests and buildings that unlock features.
-
-
-
-
-
-
-A: No — merge toward quests and buildings that unlock features.
-- Q: Worth merging everything?
-A: Plan chains, collect daily rewards, and time boosts.
-- Q: Energy too slow?
-
-
-A: No — merge toward quests and buildings that unlock features.
+- **Q: 5つのマージが常に良いですか？**  
+  A: はい、ボーナスアイテムを提供します。可能な限り。
+- **Q: 新しい土地をアンロックするにはどうすればよいですか？**  
+  A: 霧をクリアするために特定のアイテムをマージします。
+- **Q: 最高の建設戦略は何ですか？**  
+  A: 効率のためにリソースビルディングを一緒にグループ化します。

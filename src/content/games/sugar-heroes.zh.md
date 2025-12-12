@@ -1,43 +1,46 @@
 ---
 locale: zh
 urlstr: sugar-heroes
-title: '[ZH TRANSLATION NEEDED] Sugar Heroes'
-description: >-
-  [ZH TRANSLATION NEEDED] Sugar Heroes is a vibrant match‑3 — free blockers,
-  merge power‑ups, and hit scene goals under smart move planning.
-iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
-thumbnail: /new-images/sugar-heroes.png
+title: 《Sugar Heroes》糖果英雄三消
+description: 《Sugar Heroes》是一款卡通风格的三消解谜游戏。通过交换相邻糖果，连成三个及以上相同图案进行消除，完成关卡目标并推动故事发展。
+iframeSrc: 'https://sugarheroes.h5games.usercontent.goog/v/7s1e3g8l9k2v0/'
+thumbnail: /new-images/sugar-heroes.jpg
 tags:
+  - match 3
   - puzzle
   - casual
-  - thinky
-score: 4.1/5  (1986 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.1/5  (2000 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Sugar Heroes leans into combo‑heavy match‑3 with candy‑themed blockers and animated heroes. Goals range from clearing jelly to delivering ingredients; power‑up merges (bomb+line/color clears) are crucial for dense layouts.
+《Sugar Heroes》讲述了一群拟人化糖果/甜品角色拯救糖果世界的轻松故事。游戏采用经典三消玩法：在棋盘上交换相邻方块，当三个及以上相同糖果在横向或纵向连成一线时即可消除。部分关卡还会引入巧克力块、冰层、锁链等特殊障碍，你需要在有限步数内完成“收集目标”“清除障碍”“把物品送到底部”等不同任务。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Focus goals: Clear blockers or collect items before pure scoring.
-2.  [ZH TRANSLATION NEEDED] Bottom cascades: Work low for free chain clears.
-3.  [ZH TRANSLATION NEEDED] Save merges: Detonate strong combos at choke points.
-4.  [ZH TRANSLATION NEEDED] Side control: Don’t strand colors on edges.
-5.  [ZH TRANSLATION NEEDED] Two‑ahead planning: Map the next move to preserve setups.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **以关卡目标为优先：** 不要只顾着随缘消除，随时注视关卡要求（例如需要收集的糖果种类或障碍数量），优先围绕目标区域进行操作。
+2.  **善用特殊糖果：** 一次性消除 4 个或更多糖果可以生成横线、竖线、炸弹或彩虹糖等特殊方块。将这些特殊糖果互相组合使用往往能清理大片区域。
+3.  **从底部制造连锁：** 在棋盘底部进行消除，更容易引发上方糖果连锁下落，一步带来多次消除，既省步数又提高得分。
+4.  **留意步数限制：** 在有限步数关卡中，每一步都很宝贵。动手前简单思考是否存在更高收益的交换，而不是看到能消就立刻换位。
 
-- Drag to swap; tap power‑ups; pause/retry in UI.
 
-### Frequently Asked Questions (FAQ)
+- Two‑ahead planning: Map the next move to preserve setups.
+### 操作说明
+
+*   **交换糖果：** 拖动一个糖果与相邻糖果互换位置，只要形成有效三消或更大组合，交换就会生效并触发消除；
+*   **触发特殊糖果：** 点击或拖动带有特效的糖果，与普通糖果或其他特效糖果组合释放强力效果。
+
+### 常见问题解答（FAQ）
+
 
 - Q: I hit move limits.
-  
-[ZH TRANSLATION NEEDED]   A: Chain power‑ups and prioritize clears that unlock space.
+**问：如果棋盘上没有可消组合会怎样？****
 
 - Q: Strong opener?
-  
-[ZH TRANSLATION NEEDED]   A: Bottom clears; they spawn cascades.
+答：** 多数版本会自动重新洗牌并生成新的棋盘布局，你无需承担额外惩罚。
+
+**问：困难关卡总差一点完成，怎么办？****
+答：** 尝试把特殊糖果留到关键障碍附近再使用，或多从底部制造连锁，让整盘棋更多位置被“顺带”清理。
 

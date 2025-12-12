@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-trillybox
-title: '[ES] Incredibox Trillybox'
+title: "Incredibox Trillybox"
 description: >-
-  [ES] Explore 'Incredibox Trillybox,' the fan-made mod dedicated to Trap music.
-  This guide details its 808-heavy sound palette, gameplay for creating
-  hard-hitting beats, and how to unlock its modern, themed bonuses.
+  Explora "Incredibox Trillybox", el mod fan-made dedicado al Trap. Esta guía
+  detalla su paleta de sonidos cargada de 808, la jugabilidad para crear beats
+  contundentes y cómo desbloquear sus bonus modernos.
 iframeSrc: 'https://turbowarp.org/907049948/embed'
 thumbnail: /new-images/incredibox-trillybox.png
 tags:
@@ -18,58 +18,86 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **Introducción a Incredibox Trillybox**
 
-### **Incredibox Trillybox Game Introduction**
+*Incredibox Trillybox* es un mod fan‑made muy popular y enérgico para el juego
+Incredibox. Esta versión se sumerge de lleno en el mundo del **Trap moderno**, un
+subgénero del hip‑hop conocido por sus beats agresivos, graves 808 profundos y
+patrones rítmicos muy marcados.
 
-*Incredibox Trillybox* is a popular and energetic fan-made mod for the music creation game Incredibox. This version is a deep dive into the world of **modern Trap music**, a subgenre of hip-hop known for its aggressive beats, deep 808 bass, and distinctive rhythmic patterns.
+Los personajes visten con estética urbana actual, reflejando el look del trap
+contemporáneo. Usando la clásica interfaz de arrastrar y soltar de Incredibox,
+puedes componer con 20 iconos de sonido únicos. La biblioteca es una caja de
+herramientas completa para cualquier productor de trap: **bombos 808 pesados,
+hi‑hats frenéticos, sintes oscuros y voces con autotune**.
 
-The game features a crew of characters styled with modern streetwear, reflecting the contemporary trap aesthetic. Players use the classic Incredibox drag-and-drop interface to compose with 20 unique sound icons. The sound library is a comprehensive toolkit for any aspiring trap producer, featuring **heavy 808 kick drums, rapid-fire hi-hats, dark synth melodies, and autotuned vocals**.
+El objetivo es que crees tus propios temazos de trap, a la vez que resuelves el
+rompecabezas de encontrar los tres bonus animados, todos inspirados en la
+cultura hip‑hop y trap actual.
 
-The objective is to allow players to create their own hard-hitting trap bangers while also solving the puzzle of finding the three secret animated bonuses, which are thematically designed around modern hip-hop and trap culture.
+### **Estrategia de juego y consejos**
 
-### **Gameplay Strategy & Tips**
+La clave en *Incredibox Trillybox* es dominar los elementos básicos del trap para
+construir pistas potentes y rítmicas.
 
-Strategy in *Incredibox Trillybox* is about mastering the core elements of trap production to create a powerful, rhythmic track.
+1.  **Conoce la paleta sonora del trap:**
+    *   **Beats:** La columna vertebral del tema: bombos **808** icónicos,
+        sub‑bajos profundos, snares/claps marcados y los típicos hi‑hats rápidos
+        y entrecortados.
+    *   **Effects:** Aporta textura y actitud: efectos, tags de productor y pequeños
+        ad‑libs vocales ("yeah", "skrrt", etc.) que salpican el beat.
+    *   **Melodies:** Melodías simples, oscuras y repetitivas. Encontrarás bucles
+        de campanas ominosas, frases de piano sencillas y sintes atmosféricos.
+    *   **Voices:** Las voces son el centro del trap: cantos con autotune,
+        rapeos en "triplet flow" y hooks vocales muy pegadizos.
 
-1.  **[ES]** **Understand the Trap Music Sound Palette**:
-    *   **[ES]** **Beats**: This is the backbone of any trap track. Expect to find iconic **808 kick drums**, deep sub-bass, sharp **snares or claps**, and the genre's signature fast, stuttering **hi-hats**.
-    *   **[ES]** **Effects**: This category adds the atmospheric and rhythmic flair. It often includes sound effects, producer tags, or short vocal ad-libs ("yeah," "skrrt") that punctuate the beat.
-    *   **[ES]** **Melodies**: Trap melodies are often simple, dark, and repetitive. Look for sounds like ominous **bell loops**, simple piano phrases, or dark, atmospheric synth lines.
-    *   **[ES]** **Voices**: Vocals are central to trap. This category features **autotuned singing**, rhythmic rapping with a "triplet flow," and catchy vocal hooks.
+2.  **El beat manda:** Empieza siempre por la batería. Un bombo 808 potente, una
+    caja en el contratiempo y un patrón de hi‑hats rápido son la base de casi
+    cualquier tema trap.
 
-2.  **[ES]** **The Beat is King**: Start your composition with the drums. A combination of a heavy 808 kick, a snare on the off-beat, and a fast hi-hat pattern is the quintessential trap foundation.
+3.  **El 808 es bajo y bombo a la vez:** En el trap, el 808 suele hacer de bombo
+    y línea de bajo a la vez. Localiza el icono que aporta ese grave contundente
+    y construye el resto del tema en torno a él.
 
-3.  **[ES]** **808s are Bass and Drums**: Remember that in trap music, the 808 often serves as both the kick drum and the bassline. Find the icon that provides that deep, booming bass and build around it.
+4.  **Mantén las melodías sencillas:** No satures la mezcla con demasiados
+    motivos melódicos. El trap brilla con bucles simples, oscuros y pegajosos.
+    Quédate con una o dos líneas que te gusten y deja que se repitan.
 
-4.  **[ES]** **Layer Simple Melodies**: Don't overcrowd the mix with complex melodies. Trap music thrives on simple, catchy, and often dark melodic loops. Find one or two that you like and let them repeat.
+5.  **Busca los bonus sistemáticamente:** Para encontrar los tres bonus,
+    construye primero una base sólida de beat y bajo, y luego ve probando
+    distintas combinaciones de melodía y voz hasta activar cada animación.
 
-5.  **[ES]** **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a solid beat and bassline, then systematically swap out the melody and voice icons one by one until you trigger one of the animations.
+### **Guía de controles**
 
-### **Controls Guide**
+Los controles son los mismos que en Incredibox oficial.
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+*   **Añadir sonido:** **Arrastra** un icono desde la parte inferior y
+    **suéltalo** sobre un personaje.
+*   **Quitar sonido:** haz clic en la "X" del icono activo abajo o arrastra otro
+    sonido sobre el mismo personaje.
+*   **Silenciar / reactivar:** **Haz clic** en un personaje sonando para
+    silenciarlo; vuelve a hacer clic para reactivarlo.
+*   **Solo:** pulsa el **botón pequeño** junto al personaje activo para silenciar
+    al resto.
+*   **Grabar:** pulsa el **botón de grabación** para iniciar o detener la
+    grabación de tu himno de trap.
 
-*   **[ES]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[ES]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[ES]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[ES]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[ES]** **Record**: Click the **record button** to start and stop recording your trap anthem.
+### **Preguntas frecuentes (FAQ)**
 
-### **Frequently Asked Questions (FAQ)**
+**1. ¿Es una versión oficial de Incredibox?**  
+No. Es un **mod fan‑made** creado por Andlbox y no está afiliado al equipo
+oficial de Incredibox (So Far So Good).
 
-**1. Is this an official Incredibox version?**
+**2. ¿Dónde puedo jugar este mod?**  
+No está disponible en plataformas oficiales. Mods como *Trillybox* suelen
+alojarse en comunidades como **Scratch** o aparecer en YouTube con enlaces para
+jugarlos en navegador.
 
-No. It is a **fan-made mod** created by Andlbox. It is not affiliated with the official Incredibox team, So Far So Good.
+**3. ¿Qué hace especial a este mod?**  
+Su atractivo está en lo bien que captura el sonido del trap actual. Ofrece una
+paleta moderna y enérgica muy distinta a la de las versiones oficiales, ideal
+para fans del hip‑hop contemporáneo.
 
-**2. Where can I play this mod?**
-
-You will not find it on official platforms. Mods like *Trillybox* are typically hosted on game modding websites like **Scratch** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**3. What makes this mod special?**
-
-Its appeal comes from its authentic and high-quality take on the massively popular trap music genre. It provides a modern and energetic sound palette that is very different from the official versions, resonating with fans of contemporary hip-hop.
-
-**4. Are the bonus solutions for "Trillybox" available online?**
-
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Trillybox combos*" on YouTube will show you the solutions.
-
+**4. ¿Hay soluciones de bonus de "Trillybox" online?**  
+Sí. Si te atascas, una búsqueda de "Incredibox Trillybox combos" en YouTube
+suele mostrar todas las combinaciones.

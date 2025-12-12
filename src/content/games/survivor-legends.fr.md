@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: survivor-legends
-title: '[FR] Survivor Legends'
+title: Survivor Legends
 description: >-
-  [FR] Survivor Legends is a horde‑survivor — kite circles, draft synergies, and
-  mow waves with cooldown economy and positioning.
+  Survivor Legends est un horde‑survivor : tourne en kite, choisis des synergies
+  d’armes/passifs et découpe des vagues entières en gérant tes temps de recharge
+  et ton positionnement.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/survivor-legends.png
 tags:
@@ -14,31 +15,36 @@ score: 4.1/5  (2019 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Survivor Legends reprend la formule des jeux de survie auto‑attaque : ton
+personnage tire automatiquement, tu te contentes de te déplacer, d’esquiver
+et de choisir les améliorations à chaque montée de niveau.
+
+### Stratégie de jeu
+
+1. **Grandes trajectoires de kite :** fais des boucles larges pour garder des
+   options de correction et éviter de te coincer.
+2. **Cibles prioritaires :** élimine d’abord les ennemis rapides ou à distance,
+   puis les mêlée lents.
+3. **Synergies :** combine perforation + repoussement, ralentissement + critique
+   ou auras + régénération.
+4. **Économie d’XP :** investir tôt dans le rayon de ramassage et le gain
+   d’XP accélère tes choix d’améliorations.
+5. **Gardes tes ultimes :** réserve les compétences actives pour les pics de
+   vagues et les élites.
+
+### Commandes
+
+- déplacement : WASD / flèches ;  
+
+### Foire aux questions (FAQ)
+- activations spéciales : chiffres (selon version).
 
 
 
-### Detailed Game Introduction
-
-Survivor Legends follows the auto‑attack survivor formula: move to kite, level to draft weapons/passives, and survive crescendos. Builds hinge on damage schedules (DPS vs burst), crowd control, and pickup radius for XP economy.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Wide kites: Large loops give correction time; avoid tight corners.
-2.  **[FR]** Priority: Kill fast/ranged first; slow melee later.
-3.  **[FR]** Draft synergies: Pair pierce with knockback, slow with crit, or aura with sustain.
-4.  **[FR]** Economy: Invest in pickup radius/XP early to accelerate drafts.
-5.  **[FR]** Ult windows: Save actives for wave spikes and elite packs.
-
-### Controls Guide
-
-- Move: WASD/Arrows; actives on number keys; pause via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I get cornered.
-
-A: Re‑route to midmap and dash through thin gaps early.
+A: Pickup radius/XP, then core damage and survivability.
 
 - Q: Which upgrades first?
 
-A: Pickup radius/XP, then core damage and survivability.
+A: Re‑route to midmap and dash through thin gaps early.

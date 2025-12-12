@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: google-solitaire
-title: '[ZH TRANSLATION NEEDED] Google Solitaire'
+title: "Google Solitaire 谷歌接龍"
 description: >-
-  [ZH TRANSLATION NEEDED] Classic Klondike solitaire: move cards to build
-  foundations by suit from Ace to King, using tableau stacks that alternate
-  colors.
+  經典 Klondike 接龍玩法：將牌按花色從 A 排到 K 建立基礎堆，
+  利用紅黑相間遞減的桌面牌列來移動與整理整副牌。
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/google-solitaire.jpg
 tags:
@@ -18,26 +17,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Google’s Klondike solitaire offers draw‑1 or draw‑3 modes. Build four foundations per suit from Ace to King, using tableau columns that build down in alternating colors. Empty tableau spaces accept only Kings (or King‑led stacks).
+
+Google 版 Klondike 接龍提供「一次翻 1 張牌」與「一次翻 3 張牌」兩種模式。
+你的最終目標是建立四個牌基（foundation），每一個牌基對應一種花色，從 A 開始依序升到 K。
+桌面上的牌列（tableau）則必須按點數遞減、紅黑交錯堆疊。清空所有牌列並完成四個基礎堆就算通關。
 
 ### How to Play
-- Expose facedown cards by staging moves across columns.
-- Move Aces and low cards to foundations as soon as practical.
-- Cycle the stock; in draw‑3, plan three‑card order and waste pile parity.
+
+- 透過在桌面牌列之間移動牌，來翻開被壓住的暗牌，優先做能翻開新牌的移動。
+- 一旦有 A 或可以順利往基礎堆疊上的低點數牌（如 2、3），在不阻斷操作的前提下可優先移到基礎堆。
+- 從牌庫翻牌時，要注意「翻 3 張」模式下廢牌堆的循環節奏，
+  善用輪數來安排之後能拿到手的牌。
 
 ### Controls
-- Mouse/touch drag‑and‑drop; double‑click auto‑moves when legal.
+
+- 滑鼠或觸控拖曳牌到合法位置即可移動；
+- 有些版本支援雙擊自動將明確可移到基礎堆的牌送上去。
 
 ### Tips
-- Prefer moves that reveal a face‑down card.
-- Keep at least one empty column ready for maneuvering.
-- In draw‑3, track the cycle to avoid softlocks.
+
+- 優先選擇能翻開蓋牌的移動，與其為了小小的花式堆牌，不如先增加信息量。
+- 保留至少一排空列有助於騰挪整疊牌，特別是在需要重排整列時非常關鍵。
+- 在「翻 3 張」模式下，記住牌庫循環順序，避免出現理論上可解但因節奏錯誤而軟鎖的情況。
 
 ### FAQ
-- Q: What starts a new foundation?  
-[ZH TRANSLATION NEEDED]   A: Aces begin each suit’s foundation, then build up in‑suit to King.
-- Q: Can any card be moved to an empty space?  
-[ZH TRANSLATION NEEDED]   A: Only Kings (or King‑headed stacks) can occupy empty tableau columns.
-- Q: How do draw‑1 and draw‑3 differ?  
-[ZH TRANSLATION NEEDED]   A: Draw‑1 reveals each card in order; draw‑3 cycles the stock in groups of three and is harder.
 
+- 問：怎樣開始新的基礎堆？  
+  答：只有 A 能作為每一個花色基礎堆的起始，之後按花色依序疊上 2 到 K。
+
+- 問：任何牌都能放到空欄位嗎？  
+  答：不行，只有 K 或以 K 開頭的一整疊連續遞減、紅黑交錯牌，才能移到空的桌面牌列。
+
+- 問：「翻 1 張」與「翻 3 張」差在哪？  
+  答：「翻 1 張」每次從牌庫依序翻開 1 張，操作較簡單；
+      「翻 3 張」則每次翻 3 張並只允許操作最上面那張，必須藉由多輪循環來拿到想要的牌，難度更高。

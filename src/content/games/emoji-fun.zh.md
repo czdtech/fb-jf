@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: emoji-fun
-title: '[ZH TRANSLATION NEEDED] Emoji Fun'
+title: "Emoji Fun 表情聯想謎題"
 description: >-
-  [ZH TRANSLATION NEEDED] A creative puzzle game of associations! Connect the
-  pairs of related emojis by drawing a line between them. Think outside the box
-  to solve each unique puzzle.
+  Emoji Fun 是一款充滿創意的聯想解謎遊戲，你要透過畫線連結成對的表情符號，
+  靠直覺與發散思維破解每一關。
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
 thumbnail: /new-images/emoji-fun.png
 tags:
@@ -19,27 +18,38 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Emoji Fun is a creative and thought-provoking puzzle game based on associations. In each level, you are presented with two columns of emojis. Your task is to figure out the relationship between them and draw lines to connect the correct pairs. The connections can be literal (like a sock and a foot) or conceptual (like a ghost and a haunted house). It's a fun test of your logic and lateral thinking.
+《Emoji Fun》是一款以「聯想」為核心的益智遊戲。每一關畫面會顯示兩列表情符號，
+你的任務是找出它們之間的關聯，並以畫線的方式將正確的配對連起來。這些關聯有時是
+非常直觀的實物對應（例如襪子和腳），有時則偏向概念或場景（例如幽靈和鬼屋）。
+整體節奏輕鬆，但很考驗你的邏輯與發散思考能力。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Find the Obvious Pairs First:** Start by scanning for the most direct and obvious connections. Matching pairs like "peanut" and "elephant" or "honey" and "bee" will help you narrow down the remaining options.
-2.  [ZH TRANSLATION NEEDED] **Think Abstractly:** Not all pairs are literal. You might need to think about what things are used for, where they come from, or what they represent. For example, you might connect a book to a library or a crown to a king.
-3.  [ZH TRANSLATION NEEDED] **Process of Elimination:** Once you have connected a few pairs, you will have fewer emojis left on each side. Use the process of elimination to help you figure out the final, more difficult connections.
-4.  [ZH TRANSLATION NEEDED] **No Time Pressure:** This is a relaxing game. Take your time to think about the relationships between the images.
+
+1.  **先找最明顯的配對：** 先掃一眼整個畫面，找出最直觀、最好理解的關聯組合。
+    像「花生」配「大象」、「蜂蜜」配「蜜蜂」這類一看就懂的組合，先連起來可以迅速縮小選項。
+2.  **學會抽象思考：** 並非所有配對都是實物一一對應，你可能要思考「用途」、「來源」
+    或「象徵意義」。例如把書連到圖書館、把皇冠連到國王，都是從概念上建立關係。
+3.  **善用排除法：** 當你連好幾組後，每一列剩下的表情就會變少。此時可以用排除法，
+    反向思考「這個表情除了某個選項以外，幾乎不可能跟其他東西搭」，來推理出最後幾個難題。
+4.  **沒有時間壓力：** 遊戲通常不設嚴格倒數計時，你可以慢慢想，享受拆解每一組關係的過程。
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game is played with a simple drag-and-drop mechanic.
+本作以簡單的拖曳操作為主。
 
-*   **Connect Emojis:** Click and hold on an emoji in one column, then drag your finger or mouse to the related emoji in the other column to draw a connecting line.
+*   **連結表情：** 用滑鼠或手指按住某一側的表情圖示，拖曳到你認為對應的另一側表情上，
+    放開後即畫出連線。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
-     *   **A:** To correctly connect all the pairs of related emojis on the screen to complete the level.
+*   **問：遊戲的目標是什麼？**
+    *   **答：** 目標是將畫面上所有有關聯的表情一一正確配對，完成整個關卡。
 
-*   **Q: What happens if I draw a line to the wrong emoji?**
-     *   **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
+*   **問：如果我連錯了會怎樣？**
+    *   **答：** 錯誤的連線通常會消失或變成紅色提示，表示配對不正確，你可以立刻取消重來，
+        一般不會有嚴重懲罰。
 
-*   **Q: I don't understand the connection between two emojis.**
-     *   **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
+*   **問：有些配對看不懂關聯是什麼？**
+    *   **答：** 試著跳脫字面意思，從動作（例如球與球門）、因果（種子與大樹）、
+        或共同概念（狗與骨頭）去思考。必要時也可以先配對你最有把握的部分，
+        再利用剩餘選項反推最後的答案。

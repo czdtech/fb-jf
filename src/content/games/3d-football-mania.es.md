@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: 3d-football-mania
-title: '[ES] 3D Football Mania'
+title: "3D Football Mania juego de fútbol 3D"
 description: >-
-  [ES] 3D Football Mania captures quick footy moments — dribble, pass, and
-  finish with clean shot timing.
+  3D Football Mania condensa la esencia del fútbol en pequeños retos. Lee el
+  movimiento de los defensas, elige el pase correcto y remata con buen
+  sincronizado para batir al portero.
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/3d-football-mania.png
 tags:
@@ -15,32 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+3D Football Mania comprime los fundamentos del fútbol en secuencias cortas.
+Debes leer la posición de los defensas, decidir si pasar o encarar y ajustar el
+momento del disparo para superar al portero en desafíos rápidos y rejugables.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-3D Football Mania condenses soccer fundamentals into short scenarios. Read defenders, choose passes, and time shots to beat the keeper in quick, replayable challenges.
+1.  **Aprovecha los pases al hueco:** Prioriza los pases al espacio en lugar de
+    al pie del compañero. Así lo habilitas para correr y encarar portería.
+2.  **Primer palo vs segundo palo:** Alterna los remates. Los tiros cruzados al
+    segundo palo suelen ser más seguros, mientras que los disparos fuertes al
+    primer palo castigan bien los ángulos cerrados.
+3.  **Disparos de primera:** Cuando los defensas llegan rápido, remata de
+    primeras sin controles extra para que no te quiten el balón.
+4.  **Amaga y dispara:** Un pequeño amago o cambio de dirección puede abrir la
+    línea de tiro. Engaña al defensa y busca el hueco.
+5.  **Atento a los rechaces:** Después de disparar, sigue la jugada. Muchos
+    goles fáciles llegan tras un rebote del portero.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Use through‑balls: Lead passes into space rather than feet.
-2.  **[ES]** Near‑post vs far‑post: Mix finishes; far‑post curls are safer, near‑post power punishes tight angles.
-3.  **[ES]** First‑time shots: Strike without extra touches when defenders close rapidly.
-4.  **[ES]** Fake and shoot: Small feints open lanes.
-5.  **[ES]** Rebounds: Follow shots for tap‑ins.
+- **Mover/Pasar/Chutar:** Sigue las indicaciones en pantalla; según la versión,
+  usarás botones o gestos de deslizamiento.
+- **Apuntar:** Arrastra para orientar el disparo.
+- **Potencia:** Mantén pulsado más tiempo para cargar un tiro más fuerte.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move/Pass/Shoot per on‑screen prompts; swipe or buttons.
-- Aim shots with drag; set power by hold length.
+- **El portero lo para todo, ¿algún consejo?**  
+  Prueba a disparar cruzado, ajustado al segundo palo, y mantén los tiros bajos
+  o con efecto.
 
-### Frequently Asked Questions (FAQ)
+- **Los pases salen muy lentos, ¿qué hago?**  
+  Suelta el balón antes y dirige el pase al espacio, no directamente al cuerpo
+  del compañero.
 
-- Keeper blocks everything—tips?
-Shoot across goal and keep shots low or curled.
-
-- Passing too slow?
-Lead into space and pass earlier.
-
-- Defenders crowd me—fix?
-Pass and move; don’t dribble into traffic.
+- **Los defensas me rodean siempre, ¿cómo lo evito?**  
+  No te obsesiones con regatear entre varios rivales. Pasa y muévete; utiliza
+  paredes y cambios de lado para generar huecos.

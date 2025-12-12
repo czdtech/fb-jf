@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: google-snake
-title: '[ZH TRANSLATION NEEDED] Google Snake'
+title: "Google Snake 谷歌貪吃蛇"
 description: >-
-  [ZH TRANSLATION NEEDED] Modern take on Snake: guide a growing snake to eat
-  fruit, avoid collisions, and chase high scores with optional rulesets.
+  現代版貪吃蛇：操控越變越長的小蛇吃水果、躲避牆壁與自己的身體，
+  在不同規則與模式下挑戰高分。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/google-snake.jpg
@@ -18,26 +18,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Google Snake updates the classic formula with clean visuals and optional modes. Eat fruit to grow while avoiding walls and your own tail. Speed rises as you survive longer; variant rules change board size, obstacles, and item effects.
+
+Google Snake 在經典貪吃蛇玩法上加入了更清爽的視覺與多種可選模式。
+你要控制小蛇在棋盤上移動，吃掉地圖上出現的水果來讓身體變長，
+同時避免撞上邊界或自己的身體。隨著時間與得分增加，速度會越來越快，
+不同規則下還會改變棋盤大小、障礙物與道具效果。
 
 ### How to Play
-- Plan routes that leave escape lanes; never box yourself in.
-- Use the outer ring for long straight runs; dive inward for pickups.
-- Adapt to special items/modes as enabled by the host.
+
+- 規劃移動路線時，要預留「回頭路」，避免把自己困在狹小區域。
+- 可以利用外圈做長直線跑動，再在適當時機切入中間吃水果。
+- 若開啟了特殊道具或模式，要根據道具效果調整策略，例如會縮短蛇身或改變速度的水果。
 
 ### Controls
-- Arrow keys or WASD to steer; pause/restart via UI.
+
+- 使用方向鍵或 WASD 控制蛇的前進方向；
+- 透過介面按鈕暫停或重新開始遊戲。
 
 ### Tips
-- Don’t turn 180° into your neck—make wide turns.
-- Keep the tail straight when possible to maximize options.
-- When fast, pre‑input turns one tile early.
+
+- 避免直接 180 度掉頭撞到自己的脖子，儘量用寬弧線轉彎。
+- 在可能情況下保持蛇身較直，少繞無謂的圈，這樣可保留更多可走的路線。
+- 在速度加快時，要提早一格預判轉向，讓蛇在到達交叉點前就換好方向。
 
 ### FAQ
-- Q: How can I avoid running into my own tail?  
-[ZH TRANSLATION NEEDED]   A: Keep the tail compact by using straight segments and avoid tight spirals.
-- Q: Does the game get faster over time?  
-[ZH TRANSLATION NEEDED]   A: Yes, most versions increase speed with score.
-- Q: Are there different board setups?  
-[ZH TRANSLATION NEEDED]   A: Many hosts offer sizes, obstacles, and item variants.
 
+- 問：怎麼避免撞到自己的尾巴？  
+  答：盡量用長直線與大圈來控制蛇身，避免把蛇捲成過於緊密的螺旋，
+  否則一個不小心就會堵死自己的去路。
+
+- 問：遊戲會越來越快嗎？  
+  答：是的，多數版本會隨著你吃的水果數量與得分提高而逐步加快速度。
+
+- 問：棋盤與障礙可以調嗎？  
+  答：許多版本提供不同大小的棋盤、是否加入障礙物以及特殊道具模式，可以在開始前調整。

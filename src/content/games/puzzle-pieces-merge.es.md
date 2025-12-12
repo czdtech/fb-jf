@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: puzzle-pieces-merge
-title: '[ES] Puzzle Pieces Merge'
+title: "Puzzle Pieces Merge"
 description: >-
-  [ES] A relaxing and innovative puzzle game. Drag, drop, and merge puzzle
-  pieces to complete beautiful landscape images. Rotate pieces and use boosters
-  to solve each unique puzzle.
-iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
-thumbnail: /new-images/puzzle-pieces-merge.jpg
+  Un juego de puzles relajante e ingenioso. Arrastra, suelta y combina piezas
+  para completar preciosos paisajes, gira las fichas y usa potenciadores para
+  resolver cada rompecabezas único.
+iframeSrc: "https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/"
+thumbnail: "/new-images/puzzle-pieces-merge.jpg"
 tags:
   - puzzle
   - casual
@@ -17,32 +17,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Puzzle Pieces Merge ofrece un giro sereno e innovador al clásico rompecabezas de
+piezas. En lugar de un tablero fijo, el juego te invita a arrastrar, soltar y
+fusionar piezas para ir revelando paisajes hermosos y muy detallados. La
+mecánica central consiste en colocar correctamente las fichas unas junto a otras
+para que se unan y formen segmentos cada vez más grandes de la imagen final. Con
+la posibilidad de rotar piezas y usar potenciadores de forma estratégica, es una
+experiencia tan relajante como adictiva para amantes de los puzles.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Puzzle Pieces Merge offers a serene and innovative twist on the classic jigsaw puzzle. Instead of a static board, this game invites you to drag, drop, and merge puzzle pieces to reveal beautiful, captivating landscapes. The core mechanic involves correctly placing pieces next to each other, at which point they will merge into a larger segment of the final image. With the ability to rotate pieces and use strategic power-ups, it’s a relaxing yet engaging experience for puzzle lovers.
+1.  **Empieza por los bordes:** Igual que en un puzle físico, una buena idea es
+    localizar primero las piezas de esquina y de borde para construir el marco
+    de la imagen.
+2.  **Agrupa por color:** Observa las piezas que tienes y agrúpalas mentalmente
+    por colores o patrones. Si ves muchas tonalidades azules, probablemente
+    pertenezcan al cielo, por ejemplo. Trabajar por secciones hace que el
+    rompecabezas sea más manejable.
+3.  **Rota hasta que encaje:** No olvides que puedes girar las piezas. Si una
+    parece encajar pero no termina de hacerlo, prueba a rotarla hasta que se
+    alinee a la perfección con sus vecinas.
+4.  **Usa potenciadores cuando te atasques:** Si de verdad no encuentras la
+    solución, recurre a los boosters disponibles. Pueden despejar una zona,
+    mostrar la posición correcta de una ficha o darte otras ayudas para superar
+    los tramos más complicados.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Start with the Edges:** Just like a real-world jigsaw puzzle, a good strategy is to identify and place the edge and corner pieces first. This helps you build a frame for the rest of the image.
-2.  **[ES]** **Group by Color:** Look at the pieces you have and try to group them by color or pattern. If you see a lot of blue pieces, they likely belong to the sky. Grouping them mentally will help you tackle one section of the puzzle at a time.
-3.  **[ES]** **Rotate for the Perfect Fit:** Don't forget that you can rotate the pieces. If a piece looks like it should fit but doesn't, try rotating it until it aligns perfectly with its neighbors.
-4.  **[ES]** **Use Boosters When Stuck:** If you find yourself truly stuck, use one of the available boosters. These power-ups can help by clearing a section, showing you where a piece goes, or providing other assistance to get you past a tricky spot.
+*   **Mover pieza:** Haz clic y arrastra una ficha desde tu inventario hasta el
+    tablero principal del puzle.
+*   **Rotar pieza:** Según la versión, podrás girar la pieza pulsando un botón
+    específico, con el botón derecho del ratón o usando una tecla del teclado.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Move Piece:** Click and drag a puzzle piece from your inventory onto the main puzzle board.
-*   **[ES]** **Rotate Piece:** Some versions may require you to click a button to rotate the piece, while others might use the right mouse button or a keyboard key.
+*   **P: ¿Cómo se fusionan las piezas?**
+    *   **R:** Coloca una ficha en la posición correcta, junto a otra con la que
+        encaje. Si la colocación es buena, se unirán automáticamente formando un
+        bloque mayor.
 
-### Frequently Asked Questions (FAQ)
+*   **P: No encuentro adónde va una pieza, ¿qué hago?**
+    *   **R:** Empieza probando a rotarla. Si sigues atascado, déjala a un lado y
+        céntrate en otra zona del puzle. Muchas veces, completar alrededores
+        hace evidente el hueco donde encaja esa ficha difícil. Si tienes pistas
+        disponibles, úsalas como último recurso.
 
-*   **[ES]** **Q: How do the pieces merge?**
-    *   **[ES]** **A:** Simply place a piece in its correct position next to another piece it connects with. If the placement is correct, they will automatically snap together and merge.
-
-*   **[ES]** **Q: I can't find where a piece goes. What should I do?**
-    *   **[ES]** **A:** First, try rotating it. If you're still stuck, set it aside and focus on another section of the puzzle. Often, filling in the surrounding areas will reveal exactly where the difficult piece needs to go. If all else fails, use a hint if one is available.
-
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** The goal is to use all the provided puzzle pieces to successfully complete the entire image.
-
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Colocar todas las piezas que se te ofrecen hasta completar la
+        imagen al 100 %.

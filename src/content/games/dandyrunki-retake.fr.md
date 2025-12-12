@@ -1,41 +1,58 @@
 ---
 locale: fr
 urlstr: dandyrunki-retake
-title: '[FR] Dandyrunki Retake - Play Dandyrunki Retake Online'
-description: >-
-  [FR] In the Dandyrunki Retake, you can easily get started and effortlessly
-  explore various rhythms and melodies. Whether you are a casual player or a
-  music enthusiast, you can find your own fun in this remix version.
-iframeSrc: 'https://turbowarp.org/1126924449/embed'
-thumbnail: /dandyrunki-retake.png
+title: Dandyrunki Retake
+description: "Dandyrunki Retake est un platformer rétro exigeant\_: cours, saute et évite les pièges dans des niveaux précis au pixel près."
+iframeSrc: 'https://tiwb.github.io/dandyrunki-retake/'
+thumbnail: /new-images/dandyrunki-retake.jpg
 tags:
-  - dandyrunki retake
-  - dandyrunki retake online
-score: 3.7/5  (255 votes)
+  - platformer
+  - casual
+score: 4.2/5  (1500 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
-### What's So Fun About Dandyrunki Retake?
+### Présentation du jeu
 
-Simply put, this remix version is like a cross-border collaboration in the music industry, letting the weird notes of Dandyrunki Retake to create unexpected sparks. Even better, you don't need to download anything, just open your browser and you can enjoy this creative game anytime, anywhere!
+Dandyrunki Retake reprend le style des platformers 8/16‑bits très difficiles.
+Tu dois guider ton personnage à travers des niveaux remplis de précipices,
+piques, ennemis et pièges cachés.
 
-### Dandyrunki Retake Core Gameplay:
+Le gameplay repose sur des sauts millimétrés et beaucoup d’essais‑erreurs :
+tu vas souvent recommencer, mais chaque tentative te fait progresser.
 
-- **Character Selection:** Choose your musical partners from the many characters in Dandyrunki Retake. Each character has unique sound and visual effects to make your creation full of personality.
-- **Drag and Drop Combination:** Drag the characters onto the stage, blending rhythms, melodies, and sound effects into harmonious music.
-- **Listen and Adjust:** Feel free to try different loop combinations, adjust the volume, explore endless possibilities, and create musical works that best reflect the spirit of Dandyrunki Retake.
-- **Save and Share:** Save your masterpiece and share it with the Sprunki community, allowing more people to appreciate your musical exploration trip in Dandyrunki Retake.
+### Guide de jeu
+
+1.  **Étudie le niveau**  
+    Avance prudemment au début pour repérer où se trouvent ennemis et pièges.
+2.  **Travaille ton timing de saut**  
+    Certains sauts doivent être déclenchés au tout dernier pixel du bord :
+    entraîne‑toi jusqu’à ce que le timing devienne naturel.
+3.  **Apprends des échecs**  
+    À chaque mort, tu découvres un nouveau piège ou un mauvais timing ;
+    mémorise‑les.
+4.  **Ne te précipite pas**  
+    Mieux vaut un run régulier qu’une course folle qui se termine toujours dans
+    le même piège.
+
+### Commandes
+
+- **Déplacement / Saut** : touches fléchées ou WASD pour bouger, barre d’espace
+  ou autre touche dédiée pour sauter.  
+- **Pause** : touche ou bouton de menu.
 
 
-### What Are the Highlights of Sprunki Retake Meets Dandyrunki Retake?
-
-- **Richer Character Selection:** Exclusive characters from Dandyrunki Retake, with unique animations and sound loops, add more fun to your music creation journey.
-- **More Exquisite Visual Effects:** Bright and vibrant backgrounds, coupled with smooth and natural transition effects, make the fantastic world of Dandyrunki Retake come alive.
-- **Better Sound Effects:** Brand new beats and melodies bring you a vibrant listening experience while maintaining the playful style of the original Mod.
 - **Smoother Operation Experience:** The carefully tuned drag-and-drop mechanism allows players of all ages to easily get started and enjoy the fun of music creation.
 
+- **Better Sound Effects:** Brand new beats and melodies bring you a vibrant listening experience while maintaining the playful style of the original Mod.
+### Foire aux questions (FAQ)
 
-### Easy to Operate, Endless Fun:
+**Q : Le jeu est‑il très punitif ?**  
+R : Oui, comme beaucoup de platformers "hardcore", mais les checkpoints
+permettent généralement de ne pas tout refaire.
 
-In the Dandyrunki Retake, you can easily get started and effortlessly explore various rhythms and melodies. Whether you are a casual player or a music enthusiast, you can find your own fun in this remix version. Come and join Dandyrunki Retake and start your music creation journey!
+**Q : Combien de niveaux y a‑t‑il ?**  
+R : Cela dépend de la version, mais attends‑toi à plusieurs mondes avec
+plusieurs stages chacun.

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: billiards-classic
-title: '[ZH TRANSLATION NEEDED] Billiards Classic'
+title: Billiards Classic 经典 8 球
 description: >-
-  [ZH TRANSLATION NEEDED] Enjoy a classic game of 8-ball pool. Aim your shots,
-  apply spin, and sink your designated balls before pocketing the 8-ball to win!
+  《Billiards Classic 经典 8 球》把酒吧里的传统 8 球台球搬到屏幕上，对战电脑对手，瞄准、加旋、清掉自己一方 的全部球后，再按规则打进
+  8 号球赢下比赛。
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/billiards-classic.png
 tags:
@@ -17,32 +17,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Billiards Classic brings the traditional game of 8-ball pool to your screen. This simulation pits you against a computer opponent in a test of skill, strategy, and physics. The objective is to be the first to pocket your assigned group of balls (either solids or stripes) and then legally sink the 8-ball to win the game. With realistic physics and intuitive controls, it’s a perfect way to enjoy a timeless pub classic.
+*Billiards Classic* 将经典的 8 球台球规则完整还原到浏览器中。你将与电脑对手在同一张桌上比拼走位与解球能力：  
+比赛目标是——**先清光属于自己的一组球（全色 1–7 或花色 9–15），再按照宣袋规则合法打进黑色 8 号球**。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Break:** The game starts with a break shot. Aim for the front ball of the rack to scatter the balls effectively.
-2.  [ZH TRANSLATION NEEDED] **Claiming Your Suit:** After the break, the table is "open." The first player to legally pocket a ball will be assigned that group for the rest of the game (either solids 1-7 or stripes 9-15).
-3.  [ZH TRANSLATION NEEDED] **Plan Your Shots:** Don't just aim for the easiest shot. Think two or three steps ahead. Try to sink your balls in an order that also sets up your cue ball for your next shot.
-4.  [ZH TRANSLATION NEEDED] **Use English (Spin):** For more advanced control, use the spin function. Applying backspin can stop your cue ball, while topspin will make it follow the object ball. Side-spin can change the angle it takes after hitting a rail.
-5.  [ZH TRANSLATION NEEDED] **Winning the Game:** Once you have pocketed all seven of your designated balls, you must then legally pocket the 8-ball into a called pocket to win. Pocketing the 8-ball before clearing your group, or scratching on the 8-ball shot, results in a loss.
+游戏采用较真实的物理效果，碰撞、弹库和走位都接近现实台球手感，再配合直观的瞄准与力度条，非常适合作为“轻松又有深度”的休闲桌球体验。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-*   **Aim:** Move your mouse to aim the cue stick.
-*   **Set Power:** Click and drag the power meter (usually on the side or bottom) to determine the strength of your shot.
-*   **Apply Spin (English):** Use the on-screen spin controller to adjust where on the cue ball your stick will hit, applying spin.
-*   **Shoot:** Release the mouse button to take the shot.
+1.  **开球（The Break）要尽量炸散球堆：**  
+    开局的一杆 Break 非常关键。瞄准球堆前端，用合适的力度击打，让球堆充分炸开，既有机会直接进球，也能把更多球散到场上，方便后续进攻。
 
-### Frequently Asked Questions (FAQ)
+2.  **确立你的球型（全色 / 花色）：**  
+    开球后，球桌处于“开放桌面”状态。第一个被合法打进的球，会决定你整局的阵营：  
+    - 进全色球（1–7 号），你就是“全色”；  
+    - 进花色球（9–15 号），你就是“花色”。  
+    确定球型后，就要全力优先清掉自己这一组。
 
-*   **Q: What happens if I sink the 8-ball by accident at the start?**
-     *   **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.
+3.  **每杆都提前规划 2～3 步：**  
+    不要只打眼前“最容易进”的球。出杆前想一想：这杆的母球停在哪里，下一杆要打哪颗？尽量选择那种既能进球，又能把母球送到下一颗目标附近的路线。
 
-*   **Q: What is a foul?**
-     *   **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.
+4.  **学会利用旋转（English / Spin）：**  
+    想要高级控球，绕不过对母球加旋：  
+    - **下旋（回球）：** 进球后母球会回拉，适合避免母球跟着目标球冲进袋口。  
+    - **上旋（跟球）：** 让母球在进球后继续向前走，跟进到下一颗球的位置。  
+    - **侧旋：** 碰库后改变母球出库角度，用来调整走位线路。  
+    初学者可以先练习纯力度控制，再逐步添加少量旋转。
 
-*   **Q: Which balls are mine?**
-     *   **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.
+5.  **如何赢下整局：**  
+    当你成功打进自己一方的 7 颗球后，棋盘上就只剩 8 号黑球。此时需要**指定一个袋口并把 8 号球打进那一袋**，且不能犯规（如母球落袋）。在清球前误打进 8 号，或在 8 号球这一杆上犯规，都会直接判负。
 
+### 操作指南
+
+*   **瞄准：** 移动鼠标调整球杆方向，使准星通过母球、对准目标球和袋口。  
+*   **设置力度：** 拖动侧边或底部的力度条，决定出杆强度。  
+*   **加旋（English）：** 使用屏幕上的母球示意器，点击不同位置为击球添加上旋、下旋或侧旋。  
+*   **击球：** 松开鼠标按钮或点击出杆按钮，即可完成击球。
+
+### 常见问题解答（FAQ）
+*   **问：如果我在开球时把 8 号球打进了会怎样？****
+    *   答：** 在多数规则下，开球直接进 8 号球通常会让你获得重排或把 8 号球摆回桌面后继续比赛的机会；如果是在正常对局过程中、尚未清掉自己所有球之前打进 8 号球，则直接判负。
+*   **问：什么算犯规（Foul）？****
+    *   答：** 常见犯规包括：母球落袋（炸库）、先击中对手的球、完全没有碰到任何球等。犯规后通常会给对手机会“手中球”（Ball-in-hand），对方可以把母球放在桌面任意位置出杆。
+*   **问：如何区分哪些球是我的？****
+    *   答：** 在开球结束且有第一颗球被合法打进前，球桌属于“开放”状态；一旦你或者对手打进了全色或花色中的某一颗，该玩家就被分配到对应阵营，之后便只能优先打自己那一组球。

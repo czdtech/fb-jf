@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: solitaire-classic
-title: '[FR] Solitaire Classic'
-description: >-
-  [FR] The timeless single-player card game, also known as Klondike. Move all
-  cards to the foundation piles from Ace to King to win.
+title: Solitaire Classic
+description: "Le jeu de cartes solo intemporel, aussi connu sous le nom de Klondike\_: déplace toutes les cartes vers les piles de fondation de l’As au Roi pour gagner."
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/solitaire-classic.png
 tags:
@@ -16,41 +14,71 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation détaillée du jeu
 
+Solitaire Classic, aussi appelé Klondike, est l’un des jeux de cartes solo
+les plus connus et appréciés au monde. L’objectif est de ranger un paquet
+de 52 cartes mélangé en quatre piles de fondation, une par couleur, par
+ordre croissant de l’As au Roi. Le jeu demande stratégie, patience et un
+peu de chance : tu manipules les cartes sur le tableau pour retourner les
+cartes cachées et construire tes fondations.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Solitaire Classic, also known as Klondike, is one of the most famous and beloved single-player card games in the world. The objective is to organize a shuffled 52-card deck into four foundation piles, one for each suit, in ascending order from Ace to King. The game requires strategy, patience, and a bit of luck as you manipulate cards on the tableau to uncover hidden cards and build your foundations.
+1.  **Éléments de la table :**  
+    *   **Le tableau :** zone principale composée de sept colonnes. La
+        première contient une carte, la deuxième deux, etc., jusqu’à sept
+        cartes. La carte du dessus de chaque colonne est face visible.  
+    *   **Les fondations :** quatre piles vides, en haut à droite, où tu
+        construis les suites en commençant par l’As.  
+    *   **La pioche (stock) :** le reste du paquet, face cachée.  
+    *   **La défausse (waste) :** les cartes tirées de la pioche sont
+        posées ici face visible.
 
-### Gameplay Strategy & Walkthrough
+2.  **Règles et astuces :**  
+    *   **Retourner les cartes cachées :** ta priorité est de dévoiler les
+        cartes face cachée du tableau pour multiplier les options.  
+    *   **Construire sur le tableau :** tu peux déplacer des cartes (ou des
+        suites valides) entre colonnes en plaçant une carte sur une carte
+        immédiatement supérieure et de couleur opposée (ex. 7 noir sur 8
+        rouge).  
+    *   **Envoyer aux fondations :** dès qu’un As est disponible, envoie‑le
+        en fondation, puis continue la suite (As, 2, 3, 4, …) dès que
+        possible.  
+    *   **Utiliser la pioche :** quand tu n’as plus de coup sur le tableau,
+        pioche une ou plusieurs cartes selon la variante, puis essaie de
+        débloquer de nouveaux mouvements.  
+    *   **Colonnes vides :** seules un Roi (ou une suite débutant par un
+        Roi) peut être déplacé vers une colonne vide.
 
-1.  **[FR]** **Game Components:**
-    *   **[FR]** **The Tableau:** The main playing area, consisting of seven columns of cards. The first column has one card, the second has two, and so on, up to seven. The top card of each column is face-up.
-    *   **[FR]** **The Foundation:** The four empty piles, usually at the top right. This is where you will build your suits, starting with the Ace.
-    *   **[FR]** **The Stock Pile:** The deck of remaining cards, placed face-down.
-    *   **[FR]** **The Waste Pile:** Cards drawn from the Stock Pile are placed face-up here.
+### Commandes
 
-2.  **[FR]** **Core Rules & Strategy:**
-    *   **[FR]** **Expose Hidden Cards:** Your first priority should always be to expose the face-down cards in the tableau. Uncovering these cards gives you more options.
-    *   **[FR]** **Building on the Tableau:** You can move cards between columns in the tableau. Cards must be placed on a card of the next-highest rank and of the opposite color (e.g., a black 7 on a red 8).
-    *   **[FR]** **Moving to Foundations:** As soon as an Ace becomes available, move it to a foundation pile. Continue to move cards of the same suit in ascending order (Ace, 2, 3, 4...) onto the foundation piles whenever possible.
-    *   **[FR]** **Using the Stock Pile:** When you have no more moves on the tableau, draw from the Stock Pile. Use the revealed cards to make new moves on the tableau or to build on your foundations.
-    *   **[FR]** **Empty Tableau Columns:** Only a King (or a sequence starting with a King) can be moved into an empty column on the tableau.
+*   **Déplacer des cartes :** clique‑dépose une carte (ou une suite valide)
+    d’une pile à l’autre.  
+*   **Piocher :** clique sur la pioche face cachée pour envoyer une (ou
+    trois) carte(s) sur la défausse.  
+*   **Auto‑envoi en fondation :** dans beaucoup de versions, un
+    double‑clic sur une carte l’envoie automatiquement sur la fondation
+    appropriée si le coup est valide.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Move Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
-*   **[FR]** **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
-*   **[FR]** **Auto-Move to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
+*   **Q : Quel est le but du jeu ?**  
+    R : Placer les 52 cartes dans les quatre piles de fondation, triées par
+    couleur et de l’As au Roi.
 
-### Frequently Asked Questions (FAQ)
+    - **Q : Que se passe‑t‑il si je n’ai plus de coups ?**  
+    R : Si aucun mouvement n’est possible sur le tableau ou les
+    fondations, tu dois piocher. Si la pioche est aussi vide et qu’aucun
+    coup n’est disponible, la partie est perdue.
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** The goal is to move all 52 cards into the four foundation piles, sorted by suit and in order from Ace to King.
+*   **Q : Puis‑je ramener des cartes des fondations vers le tableau ?**  
 
-*   **[FR]** **Q: What happens when I run out of moves?**
-    *   **[FR]** **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
+    - **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
 
-*   **[FR]** **Q: Can I move cards back from the foundation to the tableau?**
-    *   **[FR]** **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
+- **Q: Can I move cards back from the foundation to the tableau?**
 
+    - **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
+    R : Dans la plupart des versions, tu peux renvoyer la carte du dessus
+    d’une fondation sur le tableau si cela t’aide à débloquer des cartes
+    cachées. C’est souvent un coup stratégique important.

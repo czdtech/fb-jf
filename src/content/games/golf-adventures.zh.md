@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: golf-adventures
-title: '[ZH TRANSLATION NEEDED] Golf Adventures'
+title: "Golf Adventures 高爾夫大冒險"
 description: >-
-  [ZH TRANSLATION NEEDED] Go on a Golf Adventure! A physics-based puzzle game
-  where you aim your ball to get it in the hole, navigating tricky obstacles and
-  imaginative courses in as few strokes as possible.
+  展開一場高爾夫冒險！這是一款基於物理的解謎遊戲，你需要精準瞄準與控制力度，
+  讓球在各種創意地形與機關中穿梭，用盡可能少的桿數打進洞。
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/golf-adventures.png
 tags:
@@ -20,28 +19,40 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Golf Adventures is a fun and imaginative puzzle game that uses the mechanics of golf. Instead of a realistic golf course, you'll find yourself in a series of creative and challenging levels filled with unique obstacles. The goal is simple: get the ball into the hole in as few strokes as possible. It's a game of angles, power, and clever problem-solving.
+《Golf Adventures》是一款充滿想像力的高爾夫解謎遊戲，
+你不會在標準球場上揮桿，而是被丟進一個個充滿坡道、牆壁與奇怪機關的關卡。
+目標很單純：用越少桿數把球擊進洞。但要做到這點，你得同時掌握角度、力度與場地機關，
+像解謎一樣找出最聰明的路線。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Plan Your Shot:** Before you shoot, take a look at the entire level. Observe the obstacles, the slopes, and the position of the hole. The shortest path is not always the best one.
-2.  [ZH TRANSLATION NEEDED] **Master the Power:** The distance you pull back determines the power of your shot. Getting a feel for how much power is needed for different distances is key. Start with gentle shots until you get a feel for the physics.
-3.  [ZH TRANSLATION NEEDED] **Use the Environment:** Many levels are designed for you to use the walls and obstacles to your advantage. Bouncing the ball off a wall (a "bank shot") might be the only way to get around an obstacle and close to the hole.
-4.  [ZH TRANSLATION NEEDED] **Aim for Par or Better:** Each hole has a "Par," which is the target number of strokes for a skilled player. Your goal is to meet or beat par (a "Birdie" is one under par, an "Eagle" is two under).
+
+1.  **先觀察再出手：** 開桿前先拉遠視角看看整個關卡，留意障礙物、斜坡與球洞位置。
+    最短的直線並不一定是最好走的路。
+2.  **掌握力度手感：** 拉動距離決定揮桿力量。不同距離需要的力度差異很大，
+    建議先用輕力試桿，慢慢建立對物理手感的直覺。
+3.  **善用場地：** 很多關卡設計就是要你借牆或障礙反彈，
+    透過「撞牆反射」繞過障礙，甚至利用斜坡加速貼近球洞。
+4.  **挑戰標準桿：** 每個洞都有標準桿（Par），代表「熟練玩家」應該能在幾桿內完成。
+    你可以以達成 Par 為基本目標，再追求 Birdie（低一桿）或 Eagle（低兩桿）。
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game uses a simple drag-and-release mechanic.
+遊戲採用拖曳蓄力、放手擊球的直覺操作。
 
-*   **Aim and Set Power:** Click on the golf ball and hold the mouse button. Drag your cursor away from the ball. A line will appear showing your aim, and the distance you drag determines the power.
-*   **Shoot:** Release the mouse button to hit the ball.
+*   **瞄準與蓄力：** 點住高爾夫球，按住滑鼠左鍵或手指向相反方向拖曳，
+    畫面會顯示瞄準線與力度長度。
+*   **揮桿：** 放開按鍵即可擊球，球會依照你設定的方向與力量飛出。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What does "Par" mean?**
-     *   **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.
+*   **問：「Par」是什麼意思？**
+    *   **答：** Par 是每一洞的標準桿數，例如 Par 3 代表通常應該用 3 桿完成，
+        若你 2 桿進洞就是 Birdie，1 桿進洞則是 Hole-in-one。
 
-*   **Q: What happens if my ball goes into a water hazard?**
-     *   **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
+*   **問：球打進水裡會怎樣？**
+    *   **答：** 一般情況下球會回到之前的位置或指定拋球點，
+        同時計入一桿懲罰，等於多打一桿。
 
-*   **Q: How do I get past a large wall?**
-     *   **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
+*   **問：遇到大牆擋路怎麼辦？**
+    *   **答：** 找找看是否有坡道或其他機關，有些關卡需要先把球打上坡再飛過牆，
+        也有的得靠牆面反彈繞過障礙，別只盯著直線路徑。

@@ -1,81 +1,48 @@
 ---
-locale: ja
-urlstr: pocket-battle-royale
-title: '[JA TRANSLATION NEEDED] Pocket Battle Royale'
-description: >-
-  [JA TRANSLATION NEEDED] A fast-paced, top-down 2D battle royale. Scavenge for
-  weapons and health, stay inside the shrinking safe zone, and be the last one
-  standing to claim victory!
-iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
+title: Pocket Battle Royale
+description: Pocket Battle Royaleはコンパクトなバトルロイヤルです。生き残り、武器を集め、敵と戦い、最後の一人になります。
+iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/pocket-battle-royale.png
+urlstr: pocket-battle-royale
+score: 4.2/5  (2156 votes)
 tags:
   - action
-  - shooting
-score: 4.2/5  (2100 votes)
+  - shooter
+  - 2 player
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+Pocket Battle Royaleは、バトルロイヤルフォーマットをコンパクトな高速ゲームに圧縮します。マップに降下し、武器を収集し、敵と戦い、縮小するゾーンから生き残ります。最後の一人が立っている者が勝ちます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Pocket Battle Royale is a fast-paced, top-down 2D shooter that distills the excitement of the battle royale genre into quick, action-packed rounds. You are dropped into a maze-like arena with other players and must fight to be the last one standing. Scavenge for weapons, ammo, and health packs while staying ahead of the ever-shrinking safe zone that forces players closer together. It’s a pure test of survival, reflexes, and strategy.
+1.  **早期に装備:** すぐに武器と防具を見つけます。
+2.  **ゾーンを見る:** 縮小するゾーンの内側にいます。
+3.  **カバーを使用:** 開けた戦闘を避けます。
+4.  **リソースを管理:** 弾薬とヘルスを賢く使用します。
+5.  **位置決め:** 高い地点と良いカバーをターゲットにします。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Loot Quickly:** Your first priority when the game starts is to find a weapon. Run through the buildings and open areas to find guns, ammo, and health kits. You are defenseless without a weapon.
-[JA TRANSLATION NEEDED] 2.  **Stay Aware of Your Surroundings:** The top-down perspective allows you to see enemies coming from all directions. Keep moving and use corners and obstacles as cover. Don't stand out in the open for too long.
-[JA TRANSLATION NEEDED] 3.  **Watch the Safe Zone:** Always be aware of where the safe zone is and where it will shrink next. A timer will indicate when the zone will start closing in. Getting caught outside the zone will drain your health rapidly.
-[JA TRANSLATION NEEDED] 4.  **Pick Your Fights:** You don't have to engage every enemy you see. Sometimes it's smarter to let other players fight each other while you loot and get into a better position for the final showdown.
+- WASD/矢印：移動します。
+- マウス/タッチ：狙い、射撃します。
+- 武器とアイテムを収集します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Movement:** Use the **WASD keys** to move your character up, left, down, and right.
-    - **A:** That is the safe zone. You must stay inside this circle. If you are outside of it, you will continuously take damage until you get back inside.（日本語訳が必要）
-    - **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.（日本語訳が必要）
-    - **A:** To be the last player alive. Eliminate all other opponents to win the match.（日本語訳が必要）
-    - **A:** That is the safe zone. You must stay inside this circle. If you are outside of it, you will continuously take damage until you get back inside.（日本語訳が必要）
-    - **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.（日本語訳が必要）
-    - **A:** To be the last player alive. Eliminate all other opponents to win the match.（日本語訳が必要）
-*   **Aim:** Your character will automatically aim in the direction of your **mouse cursor**.
-*   **Shoot:** Click the **left mouse button** to fire your weapon.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the shrinking circle on the map?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** That is the safe zone. You must stay inside this circle. If you are outside of it, you will continuously take damage until you get back inside.
-
-*   **Q: How do I get better weapons or more health?**
-[JA TRANSLATION NEEDED]     *   **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
-
-*   **Q: What is the objective of the game?**
-
-
-
-
-
-
-
+- **Q: マッチはどのくらい続きますか？**  
+  A: 通常5〜10分。コンパクトなバトルロイヤル。
+    - **Q: チームモードはありますか？**  
+  A: 一部のバージョンにはデュオまたはスクワッドがあります。
+- **Q: 最高の着陸スポットは何ですか？**  
 
     - **A:** To be the last player alive. Eliminate all other opponents to win the match.
+
 - **Q: What is the objective of the game?**
+
     - **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
-- **Q: How do I get better weapons or more health?**
-    - **A:** That is the safe zone. You must stay inside this circle. If you are outside of it, you will continuously take damage until you get back inside.
-- **Q: What is the shrinking circle on the map?**
-### よくある質問（FAQ）
-- **Shoot:** Click the **left mouse button** to fire your weapon.
-
-
-
-
-
-    - **A:** To be the last player alive. Eliminate all other opponents to win the match.
-- **Q: What is the objective of the game?**
-    - **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
-- **Q: How do I get better weapons or more health?**
-    - **A:** That is the safe zone. You must stay inside this circle. If you are outside of it, you will continuously take damage until you get back inside.
-[JA TRANSLATION NEEDED]     *   **A:** To be the last player alive. Eliminate all other opponents to win the match.
-
+  A: 良い戦利品を持つエリアですが、混雑しすぎません。

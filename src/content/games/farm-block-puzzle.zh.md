@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: farm-block-puzzle
-title: '[ZH TRANSLATION NEEDED] Farm Block Puzzle'
+title: "Farm Block Puzzle 農場方塊拼圖"
 description: >-
-  [ZH TRANSLATION NEEDED] A relaxing and fun block puzzle with a charming farm
-  theme. Drag and drop the block shapes onto the 10x10 grid to create full lines
-  and clear them from the board.
+  Farm Block Puzzle 是一款氛圍輕鬆的 10x10 方塊拼圖遊戲，
+  以可愛農場為主題，拖曳方塊到棋盤上排成整行，消除得分。
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/farm-block-puzzle.png
 tags:
@@ -19,28 +18,37 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Farm Block Puzzle is a relaxing and addictive puzzle game based on the classic 10x10 formula, all set in a charming farm environment. The goal is to strategically place different block shapes onto a 10x10 grid. When you successfully form a complete line of blocks, either horizontally or vertically, the line will be cleared. The game challenges you to keep placing blocks and clearing lines for as long as possible to achieve a high score.
+《Farm Block Puzzle》以經典 10x10 消除玩法為基礎，包裝成一個愜意的農場主題解謎遊戲。
+你需要把不同形狀的方塊擺放到 10x10 棋盤上，只要在橫向或縱向排滿整行，就能消除該行並獲得分數。
+目標是在棋盤塞滿之前，盡可能長時間地持續擺放與消除，刷出更高分數。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Plan for the Pieces You Have:** The game gives you three block shapes at a time. Before placing one, always consider if you have a viable spot for the other two. This prevents you from getting stuck with a piece that won't fit.
-2.  [ZH TRANSLATION NEEDED] **Aim for Combos:** Clearing one line is good, but clearing multiple lines at once with a single piece is a "combo" and will give you a much higher score. Always look for opportunities to complete two or more lines simultaneously.
-3.  [ZH TRANSLATION NEEDED] **Keep the Board Clean:** Try to avoid leaving single, isolated empty holes in your grid. A clean and open board gives you more flexibility to place larger and more awkward pieces later on.
-4.  [ZH TRANSLATION NEEDED] **No Rotations:** Remember, the blocks cannot be rotated. You must use them in the orientation they are given, which is the core challenge of the puzzle.
+
+1.  **根據當前三塊一起規劃：** 系統一次會給三種方塊形狀，在放下一塊之前，先想一想
+    另外兩塊有沒有合適的位置，避免最後剩下一塊完全放不下而被迫結束遊戲。
+2.  **追求連線消除：** 一次消掉一行當然不錯，但若能用同一塊方塊同時完成兩行以上，
+    就能觸發連線（Combo），得到更高分數。時刻留意能否用一手達成多行消除。
+3.  **保持棋盤乾淨：** 儘量避免留下孤立、零碎的小洞。保持棋盤開闊，才能有空間容納
+    體積較大、形狀奇怪的方塊。
+4.  **方塊不能旋轉：** 記得所有方塊都無法旋轉，你必須按照原本方向來安排擺放，
+    這也是本作的核心難度所在。
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game is played with a simple drag-and-drop mechanic.
+本遊戲使用簡單的拖曳操作。
 
-*   **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
+*   **放置方塊：** 使用滑鼠或手指，從下方待命區拖曳一個方塊到棋盤上空白位置，
+    放開即可完成放置。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the objective of the game?**
-     *   **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.
+*   **問：遊戲的目標是什麼？**
+    *   **答：** 不斷透過填滿整行來消除方塊並累積分數，直到三個待放方塊都無處可放時，
+        本局遊戲結束。
 
-*   **Q: Can I rotate the blocks?**
-     *   **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
+*   **問：可以旋轉方塊嗎？**
+    *   **答：** 不行，不能旋轉正是這款遊戲的挑戰點，你必須依照給定方向來巧妙排布。
 
-*   **Q: How do I get the highest score?**
-     *   **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
-
+*   **問：要怎麼拿到最高分？**
+    *   **答：** 一方面要盡量延長遊戲時間，另一方面要多製造「一手多行」的連線消除，
+        這類 Combo 會帶來顯著的額外加分。

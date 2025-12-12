@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: tricky-puzzles
-title: '[ES] Brain Test: Tricky Puzzles'
+title: "Brain Test: Tricky Puzzles - Rompecabezas tramposos"
 description: >-
-  [ES] Challenge your brain with Brain Test: Tricky Puzzles, a mind-bending game
-  that defies conventional logic! Solve unique riddles and puzzles by tapping,
-  dragging, and even rotating your device. Think outside the box and explore
-  every possibility to find the surprising solutions.
-iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
-thumbnail: /new-images/tricky-puzzles.jpg
+  Pon a prueba tu cerebro con Brain Test: Tricky Puzzles, un juego de acertijos
+  que desafía la lógica convencional. Resuelve enigmas únicos tocando, arrastrando
+  e incluso girando el dispositivo. Piensa fuera de la caja y prueba todas las
+  posibilidades para encontrar soluciones tan sorprendentes como ingeniosas.
+iframeSrc: "https://rebemanae.github.io/brain-test-tricky-puzzles/"
+thumbnail: "/new-images/tricky-puzzles.jpg"
 tags:
   - puzzle
   - brain-teaser
@@ -17,37 +17,35 @@ score: 4.1/5  (713 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-
-
 ### Game Introduction
 
-Brain Test: Tricky Puzzles is a popular and innovative puzzle game that challenges players to think outside the box. Unlike traditional puzzles, this game often requires unconventional solutions, encouraging players to interact with elements on the screen in unexpected ways, including tapping, dragging, and even rotating their device. It's designed to test your creativity and lateral thinking.
+Brain Test: Tricky Puzzles es un juego de puzles popular e innovador que te obliga a pensar de forma poco habitual. A diferencia de los rompecabezas clásicos, muchas soluciones son nada intuitivas y te animan a interactuar con los elementos en pantalla de formas inesperadas: tocando, arrastrando e incluso girando el dispositivo. Todo está pensado para poner a prueba tu creatividad y tu pensamiento lateral.
 
 ### Gameplay Guide
 
-Each level presents a unique riddle or puzzle. The solution is rarely straightforward and often involves misdirection or humor.
-- **Interaction:** Tap on objects, drag them around, or use multi-touch gestures.
-- **Observation:** Pay close attention to every detail on the screen, as even seemingly irrelevant elements might be part of the solution.
-- **Experimentation:** Don't be afraid to try anything. If a solution seems too obvious, it's probably a trick!
-- **Hints:** If you get stuck, hints are usually available, but try to solve it yourself first for the most satisfaction.
+Cada nivel presenta un acertijo o rompecabezas único. La solución casi nunca es directa y suele estar llena de engaños y humor.
+- **Interacción:** toca objetos, arrástralos, júntalos o sepáralos, e incluso usa gestos multitáctiles cuando haga falta.
+- **Observación:** fíjate bien en todos los detalles de la pantalla; incluso los elementos que parecen decorativos pueden formar parte de la solución.
+- **Experimentación:** no temas probar cosas raras. Si la respuesta parece demasiado obvia, probablemente sea una trampa.
+- **Pistas:** si te quedas atascado, suele haber pistas disponibles, pero intenta resolverlo por tu cuenta primero para disfrutar más del “¡ajá!” final.
 
 ### Controls Guide
 
-- **Tap:** Use your finger (on mobile) or mouse (on PC) to tap on objects.
-- **Drag:** Tap and hold, then move your finger/mouse to drag objects.
-- **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
+- **Toque:** en móvil, usa el dedo; en PC, el ratón para pulsar sobre objetos.
+- **Arrastrar:** mantén pulsado y mueve el dedo o el ratón para desplazar elementos.
+- **Multitáctil / rotación:** algunos niveles pueden requerir usar dos dedos a la vez o girar físicamente el dispositivo.
 
 ### Frequently Asked Questions (FAQ)
 
-**Why are the puzzles so "tricky"?**
+**¿Por qué los puzles son tan “tramposos”?**
 
-The puzzles are tricky because they often play on common assumptions or use wordplay and visual gags to mislead you. The solutions are usually simple once you figure out the "trick."
+Porque se apoyan en suposiciones comunes, juegos de palabras o trucos visuales para despistarte. La solución suele parecer simple una vez que descubres el truco.
 
-**Is there a time limit for puzzles?**
+**¿Hay límite de tiempo en los niveles?**
 
-Generally, there is no time limit for solving puzzles, allowing you to take your time and experiment.
+Por lo general no. Puedes tomarte tu tiempo para probar ideas y experimentar sin prisas.
 
-**How do I get hints?**
+**¿Cómo consigo pistas?**
 
-Hints are typically available after watching an ad or using in-game currency. They provide clues to help you solve the puzzle without giving away the full answer immediately.
+Normalmente se desbloquean viendo anuncios o gastando moneda interna. Dan pistas graduales para orientarte sin arruinar por completo la solución.
 

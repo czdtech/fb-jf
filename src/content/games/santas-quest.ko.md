@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: santas-quest
-title: '[KO] Santa''s Quest'
+title: "Santa's Quest 산타의 퀘스트"
 description: >-
-  [KO] Santa's Quest is a festive puzzle adventure — solve simple objectives,
-  clear routes, and deliver gifts on time.
+  타일 기반 퍼즐 맵에서 산타를 움직여 선물을 모으고 출구까지 도달하는
+  크리스마스 퍼즐 게임입니다. 막다른 길을 만들지 않도록 이동 순서를
+  잘 계획해 보세요.
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/santas-quest.png
 tags:
@@ -16,28 +17,62 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Santa's Quest*는 크리스마스를 배경으로 한 캐주얼 퍼즐 게임입니다.
+플레이어는 격자 형태의 맵 위에서 산타를 한 칸씩 움직이며, 필요한
+아이템을 모두 모은 뒤 함정과 막다른 길을 피해 출구에 도달해야
+합니다.
 
-Santa's Quest is a holiday‑themed casual puzzler. Guide Santa through simple tile‑based challenges, collect required items, and reach exits while avoiding light hazards or dead‑ends. Short levels suit quick seasonal sessions.
+각 스테이지는 짧지만, 블록을 잘못 밀어 통로를 막아 버리면 다시
+시작해야 하므로 **이동 순서를 계획하는 퍼즐**에 가깝습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Route first: Identify keys, switches, or collectibles before moving.
-2.  **[KO]** Avoid softlocks: Don’t block narrow corridors with one‑way moves.
-3.  **[KO]** Order of operations: Grab items in an order that minimizes backtracking.
-4.  **[KO]** Watch timers (if any): Prioritize mandatory goals over optional stars when time is tight.
-5.  **[KO]** Retry quickly: Short stages reward fast restarts when mistakes happen.
+1. **이동 전에 루트부터 구상하기**  
+   열쇠, 스위치, 선물 상자 등 반드시 지나야 하는 지점을 먼저
+   확인한 뒤, 어떤 순서로 들를지 머릿속으로 그려 보세요.
 
-### Controls Guide
+2. **되돌릴 수 없는 한 칸을 조심하기**  
+   좁은 통로나 박스가 있는 구역에서는 한 번 잘못 움직이면 다시
+   돌아올 수 없는 "소프트락" 상태가 되기 쉽습니다. 통로를 완전히
+   막아 버리는 이동은 되도록 피하세요.
 
-- Move: Arrow keys / WASD or swipe on mobile.
-- Interact: Automatic on contact or via a prompt.
-- Pause/Restart: On‑screen UI.
+3. **왕복을 줄이는 아이템 획득 순서 정하기**  
+   같은 지점을 여러 번 오가면 이동 횟수와 시간이 늘어납니다.
+   가능한 한 한 번에 여러 목표를 처리할 수 있도록, 가까운 아이템을
+   먼저 회수하고 먼 곳으로 이동하는 등 동선을 최적화해 보세요.
 
-### Frequently Asked Questions (FAQ)
+4. **시간 제한이 있다면 필수 목표부터**  
+   일부 단계에서는 제한 시간이 있을 수 있습니다. 이 경우 별이나
+   추가 코인 같은 선택 목표보다, 먼저 클리어에 꼭 필요한 열쇠와
+   출구 도달을 우선해야 합니다.
 
-- Stuck behind a block—what now? Restart and re‑order your route to keep corridors open.
-- Are there enemies? Light hazards/patrols in some levels; timing solves most.
-- Do I need all stars? Optional—collect them for full completion.
+5. **실수했다면 빠르게 리트라이하기**  
+   스테이지가 짧기 때문에, 길이 막혔다고 느껴지면 과감히 재시작해
+   새로운 루트를 시험해 보는 편이 시간을 아낄 수 있습니다.
 
+### 조작 가이드
+
+- **이동**: 방향키 또는 `WASD` 키로 산타를 상하좌우로 한 칸씩
+  이동시킵니다. 모바일에서는 스와이프로 이동할 수 있습니다.  
+- **상호작용**: 대부분의 오브젝트는 접촉만으로 자동 활성화되며,
+  일부 버전에서는 별도 상호작용 키가 표시되기도 합니다.  
+- **일시정지/재시작**: 화면 UI에서 정지 또는 리트라이 버튼을 눌러
+  언제든 스테이지를 다시 시작할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 블록 뒤에 갇혀 더 이상 나갈 수 없어요.**  
+  **A:** 그 상태는 사실상 막힌 상태이므로, 재시작 후 블록을 밀거나
+  지나갈 순서를 바꿔 통로를 열어 두어야 합니다.
+
+- **Q: 적 캐릭터도 나오나요?**  
+  **A:** 일부 단계에서는 순찰하는 적이나 함정 타일이 등장할 수
+  있습니다. 움직임 패턴을 관찰해 빈틈이 생기는 타이밍에 지나가면
+  됩니다.
+
+- **Q: 별은 꼭 모두 모아야 하나요?**  
+  **A:** 보통 별은 선택 수집 요소로, 모두 모으면 완벽 클리어를
+  노릴 수 있지만 필수는 아닙니다. 먼저 스테이지를 클리어하고,
+  이후 도전 모드로 별 수집을 노려 보세요.

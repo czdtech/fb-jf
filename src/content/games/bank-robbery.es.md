@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bank-robbery
-title: '[ES] Bank Robbery'
+title: "Bank Robbery 2 asaltos al banco PvP"
 description: >-
-  [ES] A detailed guide for the team-based FPS game Bank Robbery 2. Learn
-  strategies for both Robbers and Cops, controls, and answers to common
-  questions to master the heist.
+  Bank Robbery 2 es un shooter en primera persona por equipos donde policías y
+  ladrones se enfrentan en un gran atraco. Aprende estrategias para ambos
+  bandos, controles y respuestas a dudas frecuentes para dominar el golpe.
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/bank-robbery.jpg
@@ -17,68 +17,109 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+*Bank Robbery 2* es un shooter en primera persona por equipos donde los jugadores
+se dividen en dos bandos: policías y ladrones. Toda la partida gira en torno a
+un objetivo central de alto riesgo: un atraco a un banco.
 
+Como **Ladrón**, tu meta es infiltrarte en un banco fuertemente vigilado, usar
+un taladro para abrir cajas fuertes y cámaras, robar la mayor cantidad posible
+de dinero y llevarlo a un punto de escape. Para ello necesitas coordinación,
+potencia de fuego y un plan sólido para esquivar la seguridad y resistir el
+ataque de la policía.
 
-### Detailed Introduction
+Como **Policía**, tu objetivo es defender el banco y hacer cumplir la ley. Debes
+impedir que los ladrones accedan a la cámara, desactivar los taladros que
+logren colocar y eliminar al equipo criminal antes de que escape con el botín.
+El éxito depende de una buena colocación, trabajo en equipo y reaccionar rápido
+ante los movimientos de los ladrones.
 
-*Bank Robbery 2* is a team-based, first-person shooter game where players are divided into two opposing factions: Cops and Robbers. The game revolves around a central, high-stakes objective: a bank heist.
+El escenario es una zona urbana con el banco como punto principal. Hay una gran
+variedad de armas, herramientas y vehículos que puedes usar para apoyar la
+estrategia de tu equipo, y ganas dinero en partidas para comprar mejor equipo en
+las siguientes rondas.
 
-As a **Robber**, the goal is to infiltrate a heavily secured bank, use a drill to break into vaults and safes, steal as much cash as possible, and successfully transport it to a designated getaway point. This requires coordination, firepower, and a solid plan to bypass security and fight off the police force.
+### Estrategia de juego
 
-As a **Cop**, the objective is to defend the bank and uphold the law. This involves preventing the Robbers from breaching the vault, defusing any drills they manage to place, and eliminating the criminal team before they can escape with the money. Success as a cop relies on strategic positioning, teamwork, and quick response to the Robbers' actions.
+La forma de jugar cambia bastante según el bando.
 
-The game takes place in an urban environment with the bank as the focal point. Players can use a variety of weapons, tools, and vehicles to achieve their team's goals, earning in-game currency to purchase better equipment for future rounds.
+#### Para ladrones
 
-### Gameplay Strategy
+1.  **Planifica la entrada:** No te limites a la puerta principal. Busca
+    accesos alternativos como callejones traseros, entradas laterales o tejados.
+    Un ataque coordinado desde varios puntos puede desorientar a la policía.
+2.  **Reparte roles:** No todos deben hacer lo mismo. Asigna jugadores para
+    colocar y defender el taladro, otro para vigilar la entrada principal y
+    alguno para cubrir rutas de flanqueo.
+3.  **Protege el taladro:** Es tu llave al dinero, pero hace ruido y tarda, así
+    que atraerá a los polis. Monta una buena defensa alrededor y mantén la zona
+    bajo control.
+4.  **La huida es otra misión:** Conseguir el dinero es solo la mitad. Una vez
+    tengas las bolsas, serás objetivo prioritario. Planea la ruta de escape con
+    antelación y plantéate tener un conductor con vehículo listo.
+5.  **Mejora tu equipamiento:** Usa el dinero ganado en golpes exitosos para
+    comprar armas mejores, chalecos más resistentes y herramientas como C4 para
+    abrir accesos más rápido.
 
-Success is highly dependent on which team you are on.
+#### Para policías
 
-#### For Robbers:
+1.  **Asegura todas las entradas:** Al empezar la ronda, no campees solo el
+    vestíbulo. Reparte al equipo para cubrir todos los puntos de acceso. Un
+    único ladrón que se cuele puede empezar un taladro y poner la ronda cuesta
+    arriba.
+2.  **Comunica y canta posiciones:** Usa el chat de equipo para avisar de
+    movimientos enemigos. Indica dónde están taladrando ("taladro en la cámara
+    principal") para que el equipo pueda reagruparse.
+3.  **Retomas coordinadas:** Si los ladrones controlan una zona, no entres en
+    solitario. Agrupa al equipo y entrad desde varios ángulos a la vez para
+    desbordarlos.
+4.  **Prioriza desactivar el taladro:** Si hay un taladro activo, pararlo es tu
+    tarea más urgente. Cubre al compañero que lo desactiva, porque queda
+    totalmente expuesto.
+5.  **Corta la huida:** Si los ladrones consiguen el dinero, tu misión pasa a
+    interceptar. Usa coches de policía para perseguirlos o montad bloqueos en la
+    ruta al punto de escape.
 
-1.  **[ES]** **Plan Your Entry:** Don't just rush the front door. Scout for alternative entry points like back alleys, side doors, or even rooftop access. A coordinated, multi-pronged attack can confuse the police.
-2.  **[ES]** **Assign Roles:** Don't have everyone do the same thing. Designate specific roles: one or two players to place and guard the drill, one to watch the main entrance, and another to cover flanking routes.
-3.  **[ES]** **Protect the Drill:** The drill is your key to the money, but it's noisy and takes time, making it a magnet for Cops. Set up defensive positions around the drilling area and hold your ground.
-4.  **[ES]** **The Escape is a Separate Mission:** Getting the money is only half the battle. Once you have the cash bags, you become a high-priority target. Plan your escape route in advance and consider having a designated getaway driver ready with a vehicle.
-5.  **[ES]** **Upgrade Your Gear:** Use the money you earn from successful heists to buy better weapons, stronger armor, and useful tools like C4 for faster breaching.
+### Guía de controles
 
-#### For Cops:
+Los controles siguen el estándar de shooters en primera persona (p.ej. estilo
+Roblox en PC).
 
-1.  **[ES]** **Secure All Entrances:** At the start of the round, don't just camp the main lobby. Spread out to cover all potential points of entry. A single robber slipping through can start a drill and put your team at a disadvantage.
-2.  **[ES]** **Communicate and Call Out:** Use the team chat to report enemy locations. Announce where the robbers are drilling ("Drill on the main vault!") so your team can converge on the threat.
-3.  **[ES]** **Coordinated Retakes:** If robbers have taken control of an area, don't rush in one by one. Group up and breach the room together from multiple angles to overwhelm them.
-4.  **[ES]** **Prioritize Defusing the Drill:** If a drill is active, stopping it is your top priority. Provide cover for a teammate who is attempting to defuse it, as they will be completely vulnerable during the process.
-5.  **[ES]** **Cut Off the Escape:** If the robbers manage to grab the money, your objective shifts to interception. Use police cars to chase them down or set up roadblocks on the path to their getaway point.
+*   **`W`, `A`, `S`, `D`:** Mover al personaje.
+*   **Ratón:** Apuntar y mover la cámara.
+*   **Clic izquierdo:** Disparar.
+*   **Clic derecho:** Apuntar con la mira (ADS).
+*   **`R`:** Recargar.
+*   **`Shift` izquierdo:** Correr.
+*   **`Espacio`:** Saltar.
+*   **`E` o `F`:** Interactuar (colocar/desactivar taladros, recoger dinero,
+    entrar en vehículos, etc.).
+*   **Números (`1`, `2`, `3`...):** Cambiar de arma u objeto.
+*   **`C`:** Agacharse (si la versión lo soporta).
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The game uses standard first-person shooter controls common on its platform (Roblox for PC).
+**1. ¿Cómo consigo mejores armas y equipo?**  
+Ganando dinero en las partidas: completando objetivos (robar como ladrón,
+frustrar el atraco como policía) y eliminando rivales. Luego lo inviertes en la
+tiendita del juego para comprar nuevos fusiles, armaduras y herramientas.
 
-*   **[ES]** **`W`, `A`, `S`, `D` Keys**: Move your character.
-*   **[ES]** **Mouse**: Aim and control the camera.
-*   **[ES]** **`Left Mouse Button`**: Fire your weapon.
-*   **[ES]** **`Right Mouse Button`**: Aim down sights (ADS).
-*   **[ES]** **`R` Key**: Reload your weapon.
-*   **[ES]** **`Left-Shift` Key**: Sprint.
-*   **[ES]** **`Spacebar`**: Jump.
-*   **[ES]** **`E` or `F` Key**: Interact with objects (e.g., place/defuse a drill, pick up cash, enter a vehicle).
-*   **[ES]** **Number Keys (`1`, `2`, `3`...)**: Switch between your equipped weapons and items.
-*   **[ES]** **`C` Key**: Crouch (if available in the specific version).
+**2. Como ladrón, siempre me desactivan el taladro. ¿Qué hago?**  
+La única respuesta es el equipo: no puedes dejarlo solo. Necesitas al menos uno
+o dos compañeros dedicados a defender la zona mientras el taladro trabaja.
 
-### Frequently Asked Questions (FAQ)
+**3. Como policía, siempre nos superan. ¿Cómo defendemos mejor?**  
+No os amontonéis en un solo punto predecible. Usad todo el banco como zona de
+defensa. Repartiéndoos, podréis detectar antes por dónde entran y flanquearlos
+cuando se comprometan con una cámara concreta.
 
-**1. How do I get better weapons and equipment?**
-You earn in-game cash by completing objectives (stealing money as a robber, stopping robbers as a cop) and eliminating opponents. You can then use this cash in the game's shop to purchase a wide variety of new guns, armor, and tools.
+**4. ¿Cuál es la mejor forma de entrar al banco como ladrón?**  
+No hay una única respuesta: depende de cómo coloquen los polis su defensa. A
+menudo funciona mejor un ataque sorpresa, usando C4 en una pared lateral o
+aprovechando una entrada trasera poco vigilada, que ir de frente por la puerta
+principal.
 
-**2. As a Robber, the drill keeps getting defused. What should I do?**
-Teamwork is the only solution. You cannot leave the drill unattended. You need at least one or two teammates dedicated to defending the area while the drill is running.
-
-**3. As a Cop, we are always overwhelmed. How can we defend better?**
-Avoid grouping up in one predictable spot. Use the entire bank as your defense area. By spreading out, you can get early warnings of where the robbers are attacking from and flank them when they commit to drilling a specific vault.
-
-**4. What is the best way to enter the bank as a Robber?**
-There is no single "best" way, as it depends on how the Cops set up their defense. The most effective strategy is often a surprise attack. Using C4 on a side wall or finding an unguarded back entrance is usually more successful than a direct assault on the front doors.
-
-**5. Can I switch teams during a game?**
-Typically, team selection happens before the round begins, and you are locked into that team until the next game to maintain balance.
-
+**5. ¿Puedo cambiar de equipo a mitad de partida?**  
+En la mayoría de versiones eliges bando antes de empezar la ronda y te quedas en
+él hasta la siguiente, para mantener el equilibrio.

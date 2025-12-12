@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: diamond-rush
-title: '[ZH TRANSLATION NEEDED] Diamond Rush'
-description: >-
-  [ZH TRANSLATION NEEDED] Experience the sparkle of Diamond Rush! A fast-paced
-  match-3 puzzle game where you swap and match dazzling diamonds to clear the
-  board and achieve high scores.
+title: Diamond Rush 钻石消消乐
+description: 在《Diamond Rush 钻石消消乐》中体验璀璨消除快感！通过交换相邻宝石来形成三消甚至更 高连消，清理棋盘、冲击高分。
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/diamond-rush.png
 tags:
@@ -19,27 +16,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges your quick thinking and matching skills. The objective is to swap adjacent diamonds to create lines of three or more identical gems, clearing them from the board and earning points. With vibrant graphics, sparkling animations, and engaging sound effects, Diamond Rush offers a classic match-3 experience with a focus on fast-paced gameplay and high scores. Race against the clock or complete specific objectives to progress through exciting levels.
+《Diamond Rush 钻石消消乐》是一款节奏明快、视觉效果绚丽的三消益智游戏，考验你的观察力与
+连锁规划能力。你的目标是通过交换相邻钻石，使其形成三颗或以上同色连线，从而将它们一并消
+除并累积分数。游戏采用高亮的宝石特效与爽快的连消动画，让传统三消玩法更加上头。部分关卡
+会附加时间限制或特殊目标，使得“如何在有限步数/时间内完成任务”成为额外的策略考量点。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Look for Special Gem Combinations:** Matching four or five diamonds, or creating L/T shapes, will generate powerful special gems (like line clearers or bombs). These are crucial for clearing large sections of the board and achieving high scores.
-2.  [ZH TRANSLATION NEEDED] **Prioritize Objectives:** Each level often has specific objectives, such as reaching a certain score, clearing specific types of diamonds, or breaking through obstacles. Focus your moves on achieving these goals efficiently.
-3.  [ZH TRANSLATION NEEDED] **Combine Special Gems:** The most effective way to clear the board and overcome tough challenges is by combining two special gems. Experiment with different combinations to see their powerful effects.
-4.  [ZH TRANSLATION NEEDED] **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade effect, where new diamonds fall into place and potentially create new matches automatically. This can be a great way to rack up points and clear the board.
-5.  [ZH TRANSLATION NEEDED] **Time Management (if applicable):** If the level has a time limit, try to make quick, efficient matches. Don't spend too much time deliberating over a single move.
+
+1.  **优先寻找特殊宝石组合：** 一次消除 4 颗或 5 颗钻石、或拼出 L/T 形状的组合，通常会产
+    生横竖消、炸弹或全屏色消等特殊宝石。这类强力宝石对清除障碍和冲高分尤其关键。  
+2.  **围绕关卡目标来走步：** 很多关卡会有“达到指定分数”“消除指定颜色”“打碎冰块/锁链”等
+    特定目标。每一步都尽量围绕目标来布局，而不是只顾眼前的小分数。  
+3.  **学会组合特殊宝石：** 两个特殊宝石相互交换时通常会触发更强的效果，例如炸弹+直线消
+    、双直线消等。多尝试不同组合，能更轻松地清屏或突破棘手局面。  
+4.  **从底部开始消除：** 底部连消更容易产生连锁反应：上方宝石下落的过程中可能会自动形成
+    新的三消，带来额外得分与空间释放。  
+5.  **若存在时间限制，重视节奏：** 在计时关中，不要在单一步上思考太久。优先做那些明显
+    有利的三消，保证持续输出，其余微调可以留给无时间限制的关卡再练。  
 
 ### Controls Guide
 
-*   **Swap Diamonds:** Use your mouse to click and drag a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
+*   **交换宝石：** 使用鼠标点击并拖动一颗宝石与相邻宝石交换位置，若能形成三消或以上则交换
+    生效，否则会自动弹回原位。 
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of Diamond Rush?**
-     *   **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
+*   **Q: 游戏的最终目标是什么？**  
+    **A：** 每一关都有自己的任务，通常包括清除一定数量宝石、达成目标分数或打破特定障碍
+    方块。成功完成关卡目标并在步数/时间限制内结束，即算通关。 
 
-*   **Q: How do I get power-ups or special diamonds?**
-     *   **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
+    - **Q: 特殊宝石怎么获得？**  
+    **A：** 通过一次性消除 4 颗、5 颗或构成特殊形状（L/T 型）的组合即可生成。例如四连消可
+    以生成整行或整列消除宝石，五连消则可能生成全屏同色炸弹。 
 
-*   **Q: Is there a time limit in the game?**
-     *   **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
+*   **Q: 游戏是计时还是按步数？**  
 
+    - **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
+
+- **Q: Is there a time limit in the game?**
+
+    - **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
+    **A：** 很多关卡是计时模式，需要在时间归零前完成目标；另一些则是步数限制，需要你更专
+    注于步步为营的布局。具体规则可在关卡开始前的说明中查看。 

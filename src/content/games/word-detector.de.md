@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: word-detector
-title: '[DE] Word Detector'
+title: Word Detector
 description: >-
-  [DE] Put your vocabulary to the test! Find and trace hidden words in a grid of
-  letters. Connect letters in any direction to form words and clear the board
-  before time runs out.
+  Stell deinen Wortschatz auf die Probe: Finde in Word Detector versteckte
+  Wörter im Buchstabengitter, verbinde Buchstaben in alle Richtungen und
+  erreiche dein Punktziel, bevor die Zeit abläuft.
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/word-detector.png
 tags:
@@ -16,34 +16,42 @@ score: 4.4/5  (2350 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Word Detector ist ein schnelles Wortsuch‑Puzzle, das Wortschatz und Reaktionsvermögen kombiniert. Auf einem Gitter aus Buchstaben suchst du so viele Wörter wie möglich, indem du benachbarte Buchstaben verbindest – waagerecht, senkrecht oder diagonal. Oft musst du in einem Zeitlimit ein Ziel an Punkten oder Wortanzahl erreichen, um das Level zu schaffen.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Präfixe und Suffixe scannen:** Achte auf häufige Endungen wie „EN“, „ER“, „UNG“ oder „TION“. Aus ihnen lassen sich oft mehrere Wörter ableiten.
+2. **Längere Wörter lohnen sich:** Drei‑Buchstaben‑Wörter sind schnell gefunden, bringen aber weniger Punkte. Halte Ausschau nach längeren Begriffen mit fünf oder mehr Buchstaben.
+3. **Diagonal mitdenken:** Such nicht nur waagerecht und senkrecht – diagonale Verbindungen liefern oft die fehlenden längeren Wörter.
+4. **Hinweise nutzen:** Wenn der Timer läuft und dir nichts mehr einfällt, kann ein Hinweis dich auf ein übersehenes Wort stoßen und den Flow wiederherstellen.
 
-Word Detector is a fast-paced word-finding puzzle game that challenges your vocabulary and speed. You are presented with a grid of letters and must find as many words as possible by connecting adjacent letters. Words can be formed by linking letters horizontally, vertically, or diagonally. The goal is typically to reach a target score or find a certain number of words within a time limit to progress to the next level.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[DE]** **Scan for Common Prefixes and Suffixes:** Look for common letter combinations like "S", "ED", "ER", or "ING". These can often be the start or end of multiple words, helping you find several words quickly.
-2.  **[DE]** **Longer Words, More Points:** While finding short three-letter words is easy, longer words are worth significantly more points. Always be on the lookout for words that are five, six, or even seven letters long.
-3.  **[DE]** **Don't Forget Diagonals:** It's easy to spot horizontal and vertical words, but many players forget to look for diagonal connections. Make sure to scan the grid in all eight directions from each letter.
-4.  **[DE]** **Use Hints When Stuck:** If the clock is ticking and you can't find any more words, use a hint. It can help you spot a word you overlooked and keep your momentum going.
-
-### Controls Guide
 
 The game is played with a simple click-and-drag motion.
+- **Wort bilden:** Klicke auf den ersten Buchstaben, halte die Maustaste und ziehe über alle benachbarten Buchstaben des Wortes in der richtigen Reihenfolge. Lass die Taste am letzten Buchstaben los, um das Wort einzureichen.
 
-*   **[DE]** **Form a Word:** Click on the first letter of the word you've found, hold the mouse button, and drag your cursor through all the adjacent letters of the word in order. Release the mouse button on the last letter to submit the word.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
 
-*   **[DE]** **Q: What is the minimum word length?**
-    *   **[DE]** **A:** In most word search games of this type, words must be at least three letters long to be considered valid.
+- **A:** If you don't reach the level's objective (like a target score) before the timer runs out, you will have to restart the level.
 
-*   **[DE]** **Q: Can I reuse a letter tile in the same word?**
-    *   **[DE]** **A:** No. Once you use a letter tile for a word, you cannot loop back and use it again in the same word.
+    - **Q: What happens if time runs out?**
 
-*   **[DE]** **Q: What happens if time runs out?**
-    *   **[DE]** **A:** If you don't reach the level's objective (like a target score) before the timer runs out, you will have to restart the level.
+- **A:** No. Once you use a letter tile for a word, you cannot loop back and use it again in the same word.
 
+    - **Q: Can I reuse a letter tile in the same word?**
+
+- **A:** In most word search games of this type, words must be at least three letters long to be considered valid.
+
+    - **Q: What is the minimum word length?**
+**Wie lang muss ein Wort mindestens sein?**  
+In der Regel sind mindestens drei Buchstaben nötig, damit ein Wort zählt.
+
+**Darf ich denselben Buchstaben zweimal im selben Wort verwenden?**  
+Nein, jedes Feld im Gitter darf pro Wort nur einmal benutzt werden.
+
+**Was passiert, wenn die Zeit abläuft?**  
+Schaffst du das Punkt‑ oder Wortziel nicht rechtzeitig, musst du das Level erneut versuchen.

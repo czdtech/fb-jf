@@ -1,42 +1,36 @@
 ---
+title: "Kingdom Rush Frontiers"
+description: "タワーディフェンス続編：タワーを建設およびアップグレードし、援軍とヒーローを配備し、スマートな配置で敵タイプに対抗します。"
+iframeSrc: "https://1000freegames.github.io/swf/kingdom-rush-frontiers.html"
+thumbnail: "/new-images/kingdom-rush-frontiers.jpg"
+urlstr: "kingdom-rush-frontiers"
+score: "4.6/5  (681 votes)"
+tags: ["tower-defense", "strategy"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: kingdom-rush-frontiers
-title: '[JA TRANSLATION NEEDED] Kingdom Rush Frontiers'
-description: >-
-  [JA TRANSLATION NEEDED] Tower defense sequel: build and upgrade towers, deploy
-  reinforcements and heroes, and counter enemy types with smart placement.
-iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
-thumbnail: /new-images/kingdom-rush-frontiers.jpg
-tags:
-  - tower-defense
-  - strategy
-score: 4.6/5  (681 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Frontiersは、新しいバイオーム、敵の能力、タワー専門化でKingdom Rushフォーミュラを洗練します。アーチャー、バラック、魔法使い、砲兵タワーを配置し、次にそれらをユニークな特殊にブランチします。援軍を呼び、流星のような特殊をドロップし、ヒーローをマイクロ管理してリークをプラグしながら、アーマー/マジックレジスト対抗を管理します。
 
+### 遊び方
+- アーマータイプを識別します。装甲敵に対して魔法使い、群れに対してアーチャー/砲兵を使用します。
+- チョークポイントで失速するためにバラックを配置します。スプラッシュまたはマジックでサポートします。
+- エリート波または飛行ラッシュのために、ヒーロースキルと核を保存します。
 
-### Overview
-[JA TRANSLATION NEEDED] Frontiers refines the Kingdom Rush formula with new biomes, enemy abilities, and tower specializations. Place archer, barracks, mage, and artillery towers, then branch them into unique specials. Call reinforcements, drop meteor‑like specials, and micro your hero to plug leaks while managing armor/magic resist counters.
+### 操作方法
+- 建設、アップグレード、キャストするためにマウス/タッチ。ホストによってホットキーが異なります。
 
-### How to Play
-- Identify armor types; use mages vs. armored foes, archers/artillery vs. swarms.
-- Position barracks to stall at choke points; support with splash or magic.
-- Save hero skills and nukes for elite waves or flying rushes.
+### ヒント
+- 早期にオーバービルドしないでください。効率的なダメージのために重要なタワーをアップグレードします。
+- 混合波を処理するためにスプラッシュと単一ターゲットを分割します。
+- 飛行経路をスカウトします。必要に応じて対空を追加します。
 
-### Controls
-- Mouse/touch to build, upgrade, and cast; hotkeys vary by host.
-
-### Tips
-- Don’t overbuild early—upgrade key towers for efficient damage.
-- Split splash and single‑target to handle mixed waves.
-- Scout flying paths; add anti‑air where needed.
-
-### FAQ
-- Q: Which tower upgrades should I prioritize?  
-[JA TRANSLATION NEEDED]   A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
-- Q: How do I counter heavy armor waves?  
-[JA TRANSLATION NEEDED]   A: Invest in mage lines and armor‑shredding skills.
-- Q: Are heroes necessary to win?  
-[JA TRANSLATION NEEDED]   A: Not required but very helpful for stalling and finishing elites.
-
+### よくある質問 (FAQ)
+- **Q: どのタワーアップグレードを優先すべきですか？**  
+  A: メインチョーク近くのティア3/4への1つまたは2つのコアタワーは、多くの小さなタワーを打ち負かします。
+- **Q: 重装甲波に対抗するにはどうすればよいですか？**  
+  A: 魔法使いラインとアーマーシュレッディングスキルに投資します。
+- **Q: ヒーローは勝つために必要ですか？**  
+  A: 必須ではありませんが、失速とエリートの仕上げに非常に役立ちます。

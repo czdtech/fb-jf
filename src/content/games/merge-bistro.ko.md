@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: merge-bistro
-title: '[KO] Merge Bistro'
+title: "Merge Bistro 머지 비스트로"
 description: >-
-  [KO] Merge Bistro is a cozy merge‑management — combine ingredients, fulfill
-  orders, and expand a charming bistro efficiently.
+  Merge Bistro는 재료를 합쳐 높은 등급의 식재료를 만들고, 주문을 처리해 작은 비스트로를
+  키워 나가는 아기자기한 머지 경영 퍼즐 게임입니다.
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/merge-bistro.png
 tags:
@@ -17,35 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Merge Bistro*는 머지-2 메커닉과 가벼운 레스토랑 경영 요소를 결합한 게임입니다.
+밀가루, 우유, 계란 같은 기본 재료를 생성하고, 이를 합쳐 반죽이나 반죽 베이스 등 더
+높은 단계의 재료를 만든 뒤 요리를 완성해 손님의 주문을 처리합니다. 보드 칸 수와
+생산 쿨다운이 제한되어 있어, 어떤 칸에 무엇을 두고 언제 머지할지 고민하는 보드 운영이
+핵심입니다.
 
-### Detailed Game Introduction
+### 공략 & 진행 팁
 
-Merge Bistro blends merge‑2 mechanics with light restaurant management. Generate base items (flour, milk, eggs), merge into higher‑tier ingredients (dough, batter), then craft dishes to satisfy orders. Storage limits and production cooldowns force clever board economy.
+1. **주문 대기열 읽기:** 곧 들어올 주문을 미리 확인하고 필요한 재료를 준비해 두면,
+   손님을 오래 기다리게 하지 않고 빠르게 처리할 수 있습니다.
+2. **보드 경제 관리:** 기본 재료를 모아 두는 구역과 상위 재료를 쌓는 구역을 어느 정도
+   분리해 두어, 한쪽이 막혀서 아무 것도 못 만드는 상황을 피하세요.
+3. **머지 타이밍:** 당장 쓸 데가 없는데 무작정 합치기보다는, 바로 사용하거나 공간을
+   확실히 비울 수 있을 때만 머지하는 것이 좋습니다.
+4. **생산기 업그레이드:** 가장 자주 쓰이는 레시피에 필요한 기본 재료 생산기부터
+   업그레이드해, 전체 흐름이 끊기지 않도록 유지하세요.
+5. **배달 타이밍:** 주문을 한 번에 여러 개 모아서 완료하면 콤보 보너스를 주는 버전도
+   있으니, 여유가 된다면 묶어서 전달해 보상을 극대화하세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Queue reading: Prep items for upcoming orders to avoid idle waits.
-2.  **[KO]** Board economy: Keep a lane for bases and a lane for high tiers; avoid clogging.
-3.  **[KO]** Merge discipline: Only merge when you can immediately use or free space.
-4.  **[KO]** Generators: Upgrade generators that feed the most common recipes first.
-5.  **[KO]** Delivery timing: Turn in batches to trigger combo rewards.
+- 같은 아이템 둘을 드래그해 한 칸에 겹치면 머지되어 상위 단계 아이템이 됩니다.
+- 조리 스테이션을 탭해 요리를 만들고, 완성 후 주문 패널을 통해 손님에게 전달하세요.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag identical items together to merge; tap stations to craft; deliver via order panel.
+- Q: 보드가 꽉 차서 더 이상 움직일 수가 없어요.
 
-### Frequently Asked Questions (FAQ)
+  A: 가치가 낮은 잡동사니를 정리하거나, 현재 활성화된 주문에 필요한 재료 위주로
+  머지를 진행해 공간을 확보하세요. 가능한 경우 저장 공간 업그레이드도 고려해 보세요.
 
-- Q: My board is full — help?
+- Q: 먼저 무엇을 업그레이드하는 게 좋나요?
 
-A: Scrap low‑value clutter, merge toward active orders, and expand storage when possible.
+  A: 가장 기본이 되는 밀가루·우유 등 대표 레시피에 자주 쓰이는 재료 생산기를 우선
+  강화하는 것이 전체 흐름에 가장 큰 도움이 됩니다.
 
-- Q: What to upgrade first?
+- Q: 빨리 합칠수록 좋은가요?
 
-A: Base generators tied to staple recipes (e.g., flour/milk) for consistent flow.
-
-- Q: Do I need to rush merges?
-
-A: No — plan to avoid dead‑ends; merging without purpose clogs the board.
-
+  A: 그렇지 않습니다. 목적 없이 합치면 보드가 금방 막히므로, 항상 "지금 이 머지가
+  주문 처리나 공간 확보에 어떤 도움이 되는지"를 생각하고 행동하는 것이 좋습니다.

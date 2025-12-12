@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: snake-game
-title: '[ES] Snake Game'
+title: "Snake Game"
 description: >-
-  [ES] Snake Game is the classic arcade game where players control a growing
-  snake to eat food items while avoiding collisions with walls and the snake's
-  own body, aiming to achieve the highest possible score.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
-thumbnail: /new-images/snake-game.jpg
+  Snake Game es el clásico juego de arcade en el que controlas una serpiente que
+  crece al comer comida, evitando chocar contra las paredes o contra tu propio
+  cuerpo mientras intentas lograr la mayor puntuación posible.
+iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/"
+thumbnail: "/new-images/snake-game.jpg"
 tags:
   - classic
   - arcade
@@ -17,35 +17,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Snake Game" es el juego de la serpiente de toda la vida. Controlas una
+serpiente que se desplaza por un tablero, comiendo piezas de comida para crecer.
+Tu misión es alargarla lo máximo posible sin golpearte con las paredes ni
+contigo mismo. Su sencillez y lo adictivo de su mecánica lo han convertido en
+uno de los clásicos más reconocibles de la historia del videojuego.
 
+### Estrategias de juego
 
-### Game Introduction
+1.  **Planifica la ruta:** Piensa siempre con unos cuantos movimientos de
+    antelación para no acorralarte en callejones sin salida.
+2.  **Aprovecha todo el espacio:** Intenta utilizar todos los rincones del
+    tablero para mantenerte alejado de tu propia cola.
+3.  **Controla el ritmo:** A medida que la serpiente crece, tendrás menos margen
+    y más velocidad. Ajusta tus movimientos y evita giros impulsivos.
+4.  **Atento a los bordes:** Ten siempre presente dónde están los límites del
+    escenario para no chocar por descuido.
+5.  **Gestiona el cuerpo:** Cuando la serpiente sea muy larga, presta atención a
+    cómo se enrolla. Un mal giro puede hacer que te encierres.
 
-"Snake Game" is the classic arcade game where players control a growing snake to eat food items while avoiding collisions with walls and the snake's own body, aiming to achieve the highest possible score. This game has become one of the most classic works in gaming history due to its simple yet addictive gameplay.
+### Cómo jugar
 
-### Gameplay Strategy
+*   **Mover arriba:** Flecha arriba o tecla W.
+*   **Mover abajo:** Flecha abajo o tecla S.
+*   **Mover izquierda:** Flecha izquierda o tecla A.
+*   **Mover derecha:** Flecha derecha o tecla D.
 
-1.  **[ES]** **Path Planning**: Plan the snake's movement path in advance to avoid trapping yourself in dead ends.
-2.  **[ES]** **Space Utilization**: Make full use of every corner of the game area, avoiding wasted space.
-3.  **[ES]** **Rhythm Control**: Adjust movement rhythm as the snake grows, avoiding overly hasty operations.
-4.  **[ES]** **Boundary Awareness**: Always be aware of game boundaries to avoid accidental wall collisions.
-5.  **[ES]** **Body Management**: As the snake body gets longer, manage the snake's body position more carefully.
+### Preguntas frecuentes
 
-### How to Play
-
-*   **[ES]** **Move Up**: Press up arrow key or W key to move up.
-*   **[ES]** **Move Down**: Press down arrow key or S key to move down.
-*   **[ES]** **Move Left**: Press left arrow key or A key to move left.
-*   **[ES]** **Move Right**: Press right arrow key or D key to move right.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: Does the snake's movement speed change?**
-**A**: In some versions, as the score increases, the snake's movement speed may gradually increase to add challenge difficulty.
-2.  **[ES]** **Q: How do I get higher scores?**
-**A**: Eat more food to make the snake longer while avoiding death. Each food item typically gives a fixed score.
-3.  **[ES]** **Q: Are there ending conditions for the game?**
-**A**: The game ends when the snake hits walls or its own body; theoretically it can continue indefinitely.
-4.  **[ES]** **Q: Are there different game modes?**
-**A**: Classic versions usually have only one mode, but modern versions may include different challenges and variations.
+1.  **P: ¿La velocidad de la serpiente cambia?**
+    **R:** En algunas versiones la velocidad aumenta según tu puntuación para
+    hacer el juego más desafiante.
+2.  **P: ¿Cómo consigo más puntos?**
+    **R:** Comiendo más comida sin morir. Cada pieza suele otorgar una cantidad
+    fija de puntos.
+3.  **P: ¿Cuándo termina la partida?**
+    **R:** Cuando chocas contra una pared o contra tu propio cuerpo. En teoría el
+    juego puede durar indefinidamente si no fallas.
+4.  **P: ¿Hay diferentes modos de juego?**
+    **R:** Las versiones clásicas suelen tener un único modo, pero las modernas
+    a veces incluyen variantes y desafíos adicionales.

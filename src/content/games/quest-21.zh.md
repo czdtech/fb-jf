@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: quest-21
-title: '[ZH TRANSLATION NEEDED] Quest 21'
+title: 《Quest 21》二十一点冒险之旅
 description: >-
-  [ZH TRANSLATION NEEDED] A Blackjack adventure! Play hands of 21 to defeat
-  opponents and progress on your quest. Get as close to 21 as possible without
-  going over to win.
+  《Quest 21》是一款以经典二十一点为核心规则的卡牌冒险游戏。你不再只是坐在赌场牌桌前，而是踏上一条充满关卡的冒险之路，通过一局局 21
+  点对战击败对手并向前推进，在不爆牌的前提下让自己的总点数尽量接近 21。
 iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
 thumbnail: /new-images/quest-21.png
 tags:
@@ -17,38 +16,36 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+《Quest 21》是一款既轻松又讲究策略的卡牌冒险游戏，玩法基于经典二十一点规则。你将一路遇到不同的对手，不断打出 21 点牌局来击败他们并解锁新的关卡。每一局的核心目标都是：在不超过 21 点的前提下，让自己的牌点数比对手更接近 21。游戏兼具抽牌运气与简单决策，适合想要轻度动脑的玩家。
 
-[ZH TRANSLATION NEEDED] Quest 21 is a fun and strategic card game adventure based on the rules of classic Blackjack. Instead of just playing at a casino table, you embark on a quest, facing off against a series of opponents. To defeat them and advance, you must win hands of 21. The goal in each hand is to get a card total closer to 21 than your opponent without going over. It combines the luck of the draw with simple, strategic decisions.
+### 游玩策略与通关指引
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Goal:** Get your hand total as close to 21 as possible, without exceeding it. A hand over 21 is a "bust" and an automatic loss.
-2.  [ZH TRANSLATION NEEDED] **Card Values:**
-    * [ZH TRANSLATION NEEDED] Cards 2-10 are worth their face value.
-    * [ZH TRANSLATION NEEDED] Face cards (Jack, Queen, King) are each worth 10.
-    * [ZH TRANSLATION NEEDED] Aces are special: they can be worth either 1 or 11, whichever is more beneficial to your hand.
-3.  [ZH TRANSLATION NEEDED] **Hit or Stand?** On your turn, you have two main choices:
-    * [ZH TRANSLATION NEEDED] **Hit:** Take another card to try and get closer to 21.
-    * [ZH TRANSLATION NEEDED] **Stand:** Keep your current hand and end your turn.
-4.  [ZH TRANSLATION NEEDED] **Basic Strategy:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
-5.  [ZH TRANSLATION NEEDED] **Blackjack:** If your first two cards are an Ace and a 10-value card, you have a "Blackjack" and typically win the hand instantly.
+1.  **核心目标：** 你的手牌总点数要尽量接近 21，但绝不能超过，否则就会“爆牌”并直接判负。
+2.  **牌面点数说明：**
+    *  数字牌 2–10：点数等同于牌面数字。
+    *  人头牌（J、Q、K）：每张都算作 10 点。
+    *  A（Ace，A 牌）：可以算作 1 点或 11 点，由当前手牌情况决定，自动取对你更有利的数值。
+3.  **要牌还是停牌？** 在你的回合有两种主要选择：
+    *  **要牌（Hit）：** 再拿一张牌，让总点数更接近 21。
+    *  **停牌（Stand）：** 保留当前点数并结束自己的回合，等待对手亮牌。
+4.  **基础策略建议：** 一个简单的经验是：
+    *  手牌总点数在 11 点及以下时，几乎可以放心要牌。
+    *  手牌达到 17 点或以上时，通常更建议停牌，因为继续要牌爆牌的风险很高。
+5.  **黑杰克（Blackjack）：** 如果起始牌的两张正好是 1 张 A + 1 张 10 点牌（10、J、Q 或 K），就构成“Blackjack”，通常会直接赢下本局。
 
-### Controls Guide
+### 操作说明
 
-[ZH TRANSLATION NEEDED] The game is played with on-screen buttons.
+游戏通过屏幕上的按钮来完成所有操作。
 
-*   **Hit:** Click the "Hit" button to be dealt another card.
-*   **Stand:** Click the "Stand" button to end your turn and see what the opponent has.
+*   **Hit（要牌）：** 点击“Hit”按钮，从牌堆再抽一张牌。
+*   **Stand（停牌）：** 点击“Stand”，结束本回合并让对手结算手牌。
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What does it mean to "bust"?**
-     *   **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.
-
-*   **Q: When should I stand?**
-     *   **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
-
-*   **Q: What happens if there is a tie?**
-     *   **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
-
+### 常见问题解答（FAQ）
+*   **问：什么叫“爆牌”？****
+    *   答：** 当你要牌后，手牌总点数超过 21 点，就算“爆牌”，本局立即判负。
+*   **问：一般什么时候该停牌？****
+    *   答：** 一个比较稳妥的策略是在“硬 17 点”（没有把 A 当作 11 点时的 17 点）或更高点数时选择停牌。有 A 且按 11 点计算的“软 17 点”时，可以视局势和对手情况适当再要一张。
+*   **问：如果点数一样会怎样？****
+    *   答：** 双方点数相同称为“平局（Push）”。在多数休闲玩法中，这一局双方都既不赢也不输，只是进入下一局游戏。

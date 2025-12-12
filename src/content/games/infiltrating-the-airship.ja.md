@@ -1,43 +1,36 @@
 ---
+title: "Infiltrating the Airship"
+description: "Henry Stickminの強盗ミッション：飛行船に乗り込むためにガジェットとルートを選択し、ギャグを発動し、シーンリプレイで複数のエンディングをアンロックしましょう。"
+iframeSrc: "https://rebemanae.github.io/infiltrating-the-airship/"
+thumbnail: "/new-images/infiltrating-the-airship.jpg"
+urlstr: "infiltrating-the-airship"
+score: "4.4/5  (982 votes)"
+tags: ["adventure", "point-and-click"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: infiltrating-the-airship
-title: '[JA TRANSLATION NEEDED] Infiltrating the Airship'
-description: >-
-  [JA TRANSLATION NEEDED] Henry Stickmin heist: choose gadgets and routes to
-  board an airship, trigger gags, and unlock multiple endings with scene
-  replays.
-iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
-thumbnail: /new-images/infiltrating-the-airship.jpg
-tags:
-  - adventure
-  - point-and-click
-score: 4.4/5  (982 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+このHenry Stickminのエピソードは、分岐する飛行船への侵入を中心に展開されます。ガジェット（変装、グラップル（引っ掛けフック）、技術的なおもちゃ）を選び、成功または陽気な失敗につながるルート分岐をたどります。アクションシーンではクイックタイムプロンプトが表示され、シーンマップでは再訪問してすべての失敗とエンディングを集めることができます。
 
+### 遊び方
+- 決定ポイントでツールを選択します。追跡シーケンスではタイミングが重要です。
+- 主要な分岐を探索して、ユニークなエンディングを見ましょう。
+- シーンセレクト（利用可能な場合）を使用して、コレクションを完成させます。
 
-### Overview
-[JA TRANSLATION NEEDED] This Henry Stickmin episode revolves around a branching airship break‑in. You pick gadgets (disguises, grapples, tech toys) and follow route splits that lead to success or hilarious failure. Quick‑time prompts appear in action scenes, while a scene map lets you revisit to collect all fails and endings.
+### 操作方法
+- マウスで選択。ホストによっては、QTE（クイックタイムイベント）用の時折のキー操作があります。
 
-### How to Play
-- Select tools at decision points; timing matters in chase sequences.
-- Explore the major branches to see unique endings.
-- Use scene select (if available) to finish collections.
+### ヒント
+- 失敗を恐れないでください。間違った選択はそれぞれ正しい道を教えてくれます。
+- サポートされている場合、シーン中にキャラクターをクリックして経歴を記録しましょう。
+- 繰り返しを避けるために、エンディングのリストを保持してください。
 
-### Controls
-- Mouse to choose; occasional keys for QTEs depending on host.
-
-### Tips
-- Don’t fear failure—each wrong pick teaches the right path.
-- Click characters mid‑scene to log bios when supported.
-- Keep a list of endings to avoid repeats.
-
-### FAQ
-- Q: How many endings are available in this game?  
-[JA TRANSLATION NEEDED]   A: Multiple branch‑specific endings; exact count depends on the host version.
-- Q: Do I need fast reactions for every scene?  
-[JA TRANSLATION NEEDED]   A: Only certain QTE segments; most progress comes from choices.
-- Q: Can I replay scenes to complete my collection?  
-[JA TRANSLATION NEEDED]   A: Yes—scene select assists with 100% runs on many hosts.
-
+### よくある質問 (FAQ)
+- **Q: このゲームにはいくつのエンディングがありますか？**  
+  A: 複数の分岐固有のエンディングがあります。正確な数はホストのバージョンによって異なります。
+- **Q: すべてのシーンに素早い反応が必要ですか？**  
+  A: 特定のQTEセグメントのみです。ほとんどの進行は選択から来ます。
+- **Q: コレクションを完成させるためにシーンを再プレイできますか？**  
+  A: はい。シーンセレクトは、多くのホストで100%のランを支援します。

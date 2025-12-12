@@ -1,13 +1,10 @@
 ---
 locale: es
 urlstr: tank-trouble
-title: '[ES] Tank Trouble'
-description: >-
-  [ES] Tank Trouble is a multiplayer tank battle game where players control
-  tanks in a maze-like arena, shooting at opponents while navigating walls and
-  obstacles to be the last tank standing.
-iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
-thumbnail: /new-images/tank-trouble.jpg
+title: "Tank Trouble - Batallas de tanques multijugador"
+description: "Tank Trouble es un juego de batallas de tanques multijugador en laberintos. Conduce tu tanque por corredores estrechos, dispara proyectiles que rebotan en las paredes y utiliza el escenario para sorprender a tus rivales. Gana siendo el último tanque en pie."
+iframeSrc: "https://www.friv2018.com/games/html5/tank-trouble-2/"
+thumbnail: "/new-images/tank-trouble.jpg"
 tags:
   - multiplayer
   - action
@@ -16,35 +13,31 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+"Tank Trouble" es un juego de batallas de tanques multijugador en el que te mueves por un laberinto lleno de pasillos y esquinas cerradas. Tu objetivo es localizar a los demás tanques, dispararles y usar las paredes como cobertura mientras evitas sus tiros. Los proyectiles rebotan en los muros, así que la posición y los ángulos son tan importantes como la puntería.
 
+### Estrategia de juego
 
+1.  Usa los muros: los disparos rebotan en las paredes; aprende a calcular los ángulos para golpear a los rivales sin exponerte directamente.
+2.  Muévete constantemente: no te quedes quieto. Desplázate para evitar convertirte en un blanco fácil, pero sin perder de vista tu línea de tiro.
+3.  Aprovecha el terreno: utiliza las esquinas y los pasillos del laberinto para bloquear la línea de fuego enemiga y preparar emboscadas.
+4.  Disparo predictivo: intenta anticipar hacia dónde se moverá el enemigo y dispara a donde estará, no a donde está.
+5.  Recoge potenciadores: algunos escenarios incluyen mejoras temporales; consíguelas antes que tus oponentes para ganar ventaja.
 
-### Game Introduction
+### Cómo jugar
 
-"Tank Trouble" is a multiplayer tank battle game where players control tanks in a maze-like arena, shooting at opponents while navigating walls and obstacles to be the last tank standing. The game is popular for its fast-paced combat and strategic positioning gameplay.
+*   Movimiento: usa las teclas de dirección o `WASD` para mover y girar el tanque.
+*   Disparo: utiliza la tecla asignada (por ejemplo, `Espacio` u otra tecla indicada en pantalla) para disparar.
+*   Modo multijugador: en modo local, cada jugador tiene su propio esquema de teclas en el mismo teclado para controlar su tanque.
 
-### Gameplay Strategy
+### Preguntas frecuentes
 
-1.  **[ES]** **Use Walls**: Bullets ricochet off walls; learn to use bounces for indirect attacks on opponents.
-2.  **[ES]** **Movement Strategy**: Keep moving to avoid becoming a stationary target, but also control shooting angles.
-3.  **[ES]** **Terrain Advantage**: Use maze terrain to block enemy shooting paths.
-4.  **[ES]** **Predictive Shooting**: Predict opponents' movement directions and aim ahead.
-5.  **[ES]** **Collect Power-ups**: Gather special power-ups in the arena to gain advantages.
-
-### How to Play
-
-*   **[ES]** **Movement Control**: Use arrow keys or WASD to control tank movement and rotation.
-*   **[ES]** **Shooting**: Use designated keys (usually spacebar or specific keys) to shoot.
-*   **[ES]** **Multiplayer Mode**: Supports local multiplayer gaming with different key combinations for each player.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How do bullets ricochet?**
-**A**: Bullets bounce off walls according to physics rules; you can use this mechanism for indirect attacks.
-2.  **[ES]** **Q: How can I avoid getting hit?**
-**A**: Keep moving, use walls as cover, and try to predict opponents' shooting paths.
-3.  **[ES]** **Q: How many players can play simultaneously?**
-**A**: Usually supports 2-3 players in local multiplayer battles.
-4.  **[ES]** **Q: Is there a time limit?**
-**A**: Some modes may have time limits, but the main goal is to defeat all opponents.
+1.  **P: ¿Cómo rebotan los proyectiles?**  
+    **R:** Los proyectiles rebotan en las paredes siguiendo reglas físicas sencillas. Puedes usar estos rebotes para alcanzar tanques que estén detrás de esquinas o barreras.
+2.  **P: ¿Cómo puedo evitar que me den?**  
+    **R:** Mantente en movimiento, usa los muros como cobertura y cambia de dirección a menudo. Evita los pasillos largos donde eres un objetivo fácil.
+3.  **P: ¿Cuántos jugadores pueden jugar a la vez?**  
+    **R:** Normalmente se admiten partidas locales de 2 a 3 jugadores, cada uno con un conjunto de teclas distinto.
+4.  **P: ¿Hay límite de tiempo en las partidas?**  
+    **R:** En la mayoría de modos no hay un tiempo fijo; la ronda termina cuando solo queda un tanque en pie. Algunos modos especiales pueden añadir límites de tiempo u objetivos adicionales.

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: daily-sudoku-2
-title: '[ZH TRANSLATION NEEDED] Daily Sudoku'
+title: Daily Sudoku 每日数独
 description: >-
-  [ZH TRANSLATION NEEDED] A new Sudoku puzzle every day to challenge your logic.
-  Fill the 9x9 grid so each row, column, and 3x3 box contains the digits 1 to 9
-  without repetition.
+  《Daily Sudoku 每日数独》每天提供一盘全新的数独逻辑挑战。将 1–9 填入 9×9 宫格，使每 行、每列以及每个 3×3 宫都恰好包含 1 到
+  9 各一次。
 iframeSrc: 'https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/'
 thumbnail: /new-images/daily-sudoku-2.png
 tags:
@@ -19,29 +18,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every single day. Sudoku is a world-renowned logic-based, number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9. It's a pure logic puzzle that requires no calculation or mathematical skills, only patience and concentration.
+《Daily Sudoku 每日数独》每天会为你生成一盘新的经典 9×9 数独谜题。数独是一种全球流行的
+逻辑数字填格游戏，目标是在 9×9 网格中填入数字 1–9，使得每一行、每一列以及组成大网格的
+九个 3×3 小宫中都恰好出现 1–9 各一次。整个过程完全依赖逻辑推理，不需要任何加减乘除，只
+需要耐心和专注力。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Basic Rule:** The golden rule of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box.
-2.  [ZH TRANSLATION NEEDED] **Scanning (Cross-hatching):** The most basic solving technique. Pick an empty cell. Look at its row, column, and 3x3 box to see which numbers are already used. By process of elimination, you can often find the only possible number for that cell.
-3.  [ZH TRANSLATION NEEDED] **Penciling In (Notes):** For more difficult puzzles, use the "notes" or "pencil" feature. In an empty cell, enter all the possible numbers that could legally go there. As you fill in other cells, you can eliminate candidates from your notes, eventually leaving only one possibility.
-4.  [ZH TRANSLATION NEEDED] **Look for "Naked Singles":** This is when a cell has only one possible candidate number left in its notes. Fill that number in immediately.
-5.  [ZH TRANSLATION NEEDED] **Look for "Hidden Singles":** This is when a candidate number appears only once within the notes of a specific row, column, or 3x3 box. Even if the cell itself has other candidates, that number must go in that cell for that specific row/column/box.
+
+1.  **基本规则：** 黄金法则只有一句：每行、每列、每个 3×3 宫中数字 1–9 各出现一次且仅一
+    次。 
+2.  **扫描法（Cross‑hatching）：** 最基础的解法。挑选一个空格，观察其所在行、列与 3×3 宫
+    已出现的数字，通过排除法缩小候选范围，很多时候可以直接锁定唯一合法数字。 
+3.  **铅笔记号（Pencil Marks）：** 在难度较高的盘面中很难靠脑内记忆所有可能性，可以使用
+    “笔记模式”在格子里填入所有可能数字。随着盘面推进，你可以不断删除不再可能的候选，直
+    到只剩一个数字。 
+4.  **寻找“裸单元（Naked Single）”：** 当某个格子的候选中只剩下一个数字时，这个数字就是
+    该格的唯一解，应立即填入。 
+5.  **寻找“隐单元（Hidden Single）”：** 当某个数字在某行/某列/某 3×3 宫的候选列表中**只出现
+    在一个格子里**时，即便该格还有其他候选项，这个数字也必须填在该格。因此同样可以直接确
+    定。 
 
 ### Controls Guide
 
-*   **Select a Cell:** Click on any empty cell in the 9x9 grid.
-*   **Enter a Number:** After selecting a cell, click on a number from the on-screen number pad to place it in the cell.
-*   **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
-*   **Eraser:** Use the eraser tool to clear a number or notes from a cell.
+*   **选择格子：** 点击 9×9 网格中的任意空格即可选中。 
+*   **输入数字：** 选中格子后，可通过屏幕上的数字面板或键盘数字键输入。 
+*   **笔记模式：** 点击“铅笔”图标或对应按钮，在“答案模式”和“笔记模式”间切换。处于笔记模式
+    时输入的数字会以小号候选形式显示。 
+*   **橡皮擦：** 使用橡皮工具清除格子中的正式答案或笔记。 
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Do I need to be good at math to play Sudoku?**
-     *   **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
+*   **Q: 玩数独需要很强的数学能力吗？**  
+    **A：** 完全不需要。数独使用的是数字，但本质是逻辑与模式识别游戏，不涉及任何运算。
+    把数字替换成符号或颜色也同样可以玩。 
 
-*   **Q: What happens if I enter a wrong number?**
-     *   **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
+    - **Q: 如果我填错数字会怎样？**  
+    **A：** 大多数数字版数独在你填错时会即时用高亮或红色标记冲突位置，方便你立即修正。
+    不同模式可能会限制错误次数或给出计分惩罚。 
 
-*   **Q: Why should I use the "Notes" feature?**
-     *   **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
+*   **Q: 为什么一定要使用“笔记”功能？**  
+
+    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
+
+- **Q: Why should I use the "Notes" feature?**
+
+    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
+    **A：** 在简单盘面中你可以凭直觉快速完成，但在中等及以上难度中，很难把每个格子的所有
+    候选都牢牢记在脑中。合理使用笔记是系统性求解复杂数独的基础技巧之一。 

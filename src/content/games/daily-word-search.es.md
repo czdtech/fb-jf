@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: daily-word-search
-title: '[ES] Daily Word Search'
+title: "Daily Word Search"
 description: >-
-  [ES] Daily Word Search offers calming word hunts — find hidden words across
-  directions and beat the clock or relax.
+  Daily Word Search te propone sopas de letras relajantes: encuentra las
+  palabras ocultas en todas las direcciones y elige entre jugar contrarreloj o
+  en modo tranquilo.
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/daily-word-search.png
 tags:
@@ -15,36 +16,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Daily Word Search es una sopa de letras diaria en la que las palabras pueden
+aparecer en horizontal, vertical y diagonal. Los temas cambian cada día; puedes
+jugar con tiempo para un desafío extra o sin límite para desconectar.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Daily Word Search hides words horizontally, vertically, and diagonally. Themes change daily; you can play timed for a challenge or untimed to unwind.
+1.  Busca patrones de letras poco comunes y letras raras como Q, Z o X.
+2.  Fíjate en prefijos y sufijos de las palabras de la lista para localizarlas
+    más rápido.
+3.  Recorre filas y columnas de forma sistemática para no dejar huecos sin
+    revisar.
+4.  Usa las pistas solo después de haber revisado la cuadrícula completa.
+5.  En modo contrarreloj, haz pequeñas pausas visuales entre grupos de palabras
+    para evitar la fatiga y la visión en túnel.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Scan for distinctive letter patterns and rare letters (Q, Z, X).
-2.  **[ES]** Highlight prefixes/suffixes from the word list.
-3.  **[ES]** Sweep rows/columns systematically to avoid misses.
-4.  **[ES]** Use hints only after a full grid sweep.
-5.  **[ES]** In timed mode, take short breaks between clusters to avoid tunnel vision.
+- Arrastra sobre las letras para seleccionar una palabra y suelta para
+  confirmarla.
+- Las pistas pueden resaltar la letra inicial o toda la palabra, según la
+  versión del juego.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag across letters to select words; release to confirm.
-- Hints highlight a starting letter or full word depending on the build.
+- P: ¿Cuentan las diagonales?
+  
+  R: Sí, salvo que el modo concreto limite las direcciones.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Las palabras pueden compartir letras?
+  
+  R: A menudo sí; busca intersecciones donde varias palabras comparten una
+  misma letra.
 
-- Q: Do diagonals count?
-
-A: Yes, unless a mode restricts directions.
-
-- Q: Can words overlap?
-
-A: Often yes; look for shared letters.
-
-- Q: Timed vs relaxed — which to pick?
-
-A: Timed for speed practice; relaxed for unwinding.
-
+- P: ¿Es mejor jugar cronometrado o en modo relajado?
+  
+  R: El modo cronometrado es ideal para practicar rapidez; el modo relajado es
+  perfecto para desconectar sin presión.

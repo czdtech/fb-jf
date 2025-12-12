@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: raft-wars
-title: '[ZH TRANSLATION NEEDED] Raft Wars'
+title: "《Raft Wars》木筏宝藏大作战"
 description: >-
-  [ZH TRANSLATION NEEDED] Raft Wars is a turn-based strategy shooting game where
-  players help two young brothers defend their treasure from pirates and vikings
-  using tennis balls and other projectiles in naval battles.
+  《Raft Wars》是一款回合制物理射击+策略小游戏。玩家要帮助两位发现宝藏的小兄弟，用网球等各类投射武器，在海上与海盗、维京人等敌人对战，守护来之不易的财富。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/raft-wars.jpg
@@ -18,32 +16,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Raft Wars》是一款充满童趣又不失策略性的回合制射击游戏。两个小男孩在海滩上意外挖到宝藏，却因此招来一大堆海盗、雇佣兵和维京人前来抢夺。你需要站在小木筏上，利用网球和后续解锁的各种弹药，通过调节角度与力度，把敌人一一击落海中，或者炸翻他们的木筏。
 
-[ZH TRANSLATION NEEDED] "Raft Wars" is a turn-based strategy shooting game where players help two young brothers defend their discovered treasure from pirates and vikings who try to steal it. The game features physics-based shooting mechanics, requiring players to adjust angles and power to use tennis balls and other projectiles to defeat enemies by knocking them off their rafts into the water.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **先练好射击手感：** 通过不断尝试来熟悉抛物线弹道，多观察子弹飞行轨迹与落点，高度和力度的微小调整都会带来截然不同的结果。
+2.  **合理选择优先目标：** 优先攻击离你更近或火力更强的敌人，避免被他们率先击中。必要时可以先摧毁危险位置上的敌人，再处理远处的目标。
+3.  **善用物理效果：** 利用弹跳、爆炸溅射等物理机制，一发弹药尽量多命中几个敌人或多个关键部位，提升回合的性价比。
+4.  **保护自己与站位：** 注意自己的木筏位置和队友站位，尽量减少被一发击中多人或被打落海里的风险，有掩体时要善加利用。
+5.  **逐步升级武器：** 随着关卡进度提升，你可以购买或解锁更强力的弹药和道具。面对防御力更高的敌人时，高级武器能明显降低失误成本。
 
-1.  **Master Shooting Skills**: Learn to adjust launch angles and power, observing how environmental factors like wind affect the trajectory.
-2.  **Prioritize Target Selection**: Focus on attacking closer or more threatening enemies first, managing attack order wisely.
-3.  **Utilize Physics**: Take advantage of bouncing, explosions, and other physical effects to achieve better attack results.
-4.  **Protect Yourself**: Ensure your characters don't get knocked off, making good use of cover and positional advantages.
-5.  **Upgrade Equipment**: As the game progresses, acquire more powerful weapons and items to enhance combat capabilities.
+### 操作说明
 
-### How to Play
+*   **瞄准：** 使用鼠标调整发射角度，通常通过拖拽控制方向和力度。
+*   **发射：** 点击鼠标或按下提示的按键即可发射弹药。
+*   **切换武器：** 在可用武器之间切换，根据关卡地形和敌人位置选择最合适的一种。
+*   **移动位置：** 在部分关卡中，你可以调整木筏的停靠位置，以获取更好的射击角度。
 
-*   **Aim**: Use the mouse to adjust launch angle, typically by dragging to control direction and power.
-*   **Fire**: Click the mouse or press a specific key to launch projectiles.
-*   **Select Weapons**: Switch between available weapons, choosing the most suitable one for the current situation.
-*   **Move**: In some levels, you may be able to move your raft position to get better shooting angles.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How can I improve shooting accuracy?**
-     **A**: Practice adjusting combinations of angle and power, observe trajectory paths, and consider the effects of environmental factors like wind.
-2.  [ZH TRANSLATION NEEDED] **Q: How many levels are there in the game?**
-     **A**: "Raft Wars" typically contains multiple chapters and levels, each with different enemy configurations and challenges.
-3.  [ZH TRANSLATION NEEDED] **Q: How do I get better weapons?**
-     **A**: By completing levels and defeating enemies, you can unlock more powerful weapons and special items.
-4.  [ZH TRANSLATION NEEDED] **Q: What happens if I get knocked off?**
-     **A**: If your character gets knocked into the water, you typically lose health or need to restart the level.
+1.  **问：怎样提高命中率？**  
+    **答：** 多练习“角度+力度”的组合，观察弹道和命中点的关系。有风或坡度时，也要稍微修正发射方向，逐渐形成自己的“手感记忆”。
+2.  **问：游戏一共有多少关？**  
+    **答：** 《Raft Wars》通常包含多个章节与关卡，敌人配置、地形结构和挑战目标会不断变化，游玩过程相对耐玩。
+3.  **问：怎么获得更好的武器？**  
+    **答：** 完成关卡、击败强敌后，你会获得金币或解锁条件，用于购买更强力的武器和特殊道具，让后续关卡更轻松。
+4.  **问：如果我被打落水会怎样？**  
+    **答：** 被击落入水一般会扣除大量生命或直接导致关卡失败，需要重新挑战。尽量避免站在太暴露的位置，或让敌人一发就命中多人。

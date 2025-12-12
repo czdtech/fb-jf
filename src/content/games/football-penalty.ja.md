@@ -1,69 +1,37 @@
 ---
+title: "Football Penalty"
+description: "Football PenaltyはPK戦を再現しています。シュートの位置を決め、高さや隅を狙い分担し、プレッシャーの中でキーパーの裏をかきましょう。"
+iframeSrc: "https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/"
+thumbnail: "/new-images/football-penalty.png"
+urlstr: "football-penalty"
+score: "4.0/5  (1881 votes)"
+tags: ["sports", "soccer"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: football-penalty
-title: '[JA TRANSLATION NEEDED] Football Penalty'
-description: >-
-  [JA TRANSLATION NEEDED] Football Penalty captures shootouts — place shots,
-  vary height and corners, and outguess the keeper under pressure.
-iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
-thumbnail: /new-images/football-penalty.png
-tags:
-  - sports
-  - soccer
-score: 4.0/5  (1881 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Football Penaltyはスポットキック（PK）に焦点を当てています。キッカーとしては、コース、高さ、パワーを選択しつつ、意図を悟られないようにする必要があります。キーパーとしては（一部のモードで）、助走を読み、それに応じて飛び込みます。正確に隅を突く、低い弾道のシュート、そして直前まで動きを隠すことが、平均的なAIに勝つための鍵です。
 
-[JA TRANSLATION NEEDED] Football Penalty focuses on spot‑kicks. As the taker, you must select placement, height, and power while disguising intent. As the keeper (in some modes), you read the run‑up and dive accordingly. Clean corners, low drives, and late disguise beat average AI.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **隅を狙う**: 下の隅はセーブするのが難しく、上の隅は強力ですがバーに当たるリスクがあります。
+2.  **動きを隠す**: 助走の角度を変え、シュートを遅らせることで、コースを読まれないようにしましょう。
+3.  **パワー**: 中〜高パワーのシュートは、ふかさずに素早いシュートを打てます。
+4.  **キーパーモード**: ギリギリまで動かず、足元や体が空いている側へ飛び込みましょう。
+5.  **風に注意**: （風の影響がある場合）少し狙いをずらし、高さも抑えましょう。
 
-[JA TRANSLATION NEEDED] 1.  Corners: Aim low corners for harder saves; high corners are strong but risk the bar.
-[JA TRANSLATION NEEDED] 2.  Disguise: Vary run‑up angles and shoot late to avoid telegraphing.
-[JA TRANSLATION NEEDED] 3.  Power: Medium‑high power keeps shots quick without ballooning.
-[JA TRANSLATION NEEDED] 4.  Keeper mode: Move late and dive toward foot/open‑body side.
-[JA TRANSLATION NEEDED] 5.  Mind wind (if modeled): Offset slightly and reduce height.
+### 操作ガイド
 
-### Controls Guide
+- **操作全般**: マウスで狙いを定め、長押しでパワーを設定します。ドラッグでカーブをかけることができます（対応している場合）。
 
-- Aim with mouse; set power with a press/hold; add swerve by dragging (if supported).
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My shots always get saved — what now?
-  
-[JA TRANSLATION NEEDED]   A: Change level/height and delay the final aim; avoid predictable mid‑goal shots.
-
-- Q: Best safe shot?
-  
-[JA TRANSLATION NEEDED]   A: Firm low corner drives; they’re fast and tough to reach.
-
-- Q: How do I read the AI as keeper?
-  
-
-
-
-
-
-- Q: My shots always get saved — what now?
-### よくある質問（FAQ）
-- Aim with mouse; set power with a press/hold; add swerve by dragging (if supported).
-### コントロールガイド
-- Mind wind (if modeled): Offset slightly and reduce height.
-[JA TRANSLATION NEEDED]   A: Watch the last two steps of the run‑up; many strikers open their hips toward the shot.
-
-
-
-
-
-
-A: Watch the last two steps of the run‑up; many strikers open their hips toward the shot.
-- Q: How do I read the AI as keeper?
-A: Firm low corner drives; they’re fast and tough to reach.
-- Q: Best safe shot?
-
-
-A: Watch the last two steps of the run‑up; many strikers open their hips toward the shot.
+- **Q: いつもシュートを止められてしまいます。どうすればいいですか？**
+  A: 高さやレベルを変え、最後の狙いを定めるのを遅らせましょう。予測されやすい真ん中のシュートは避けましょう。
+- **Q: 最も安全なシュートは？**
+  A: 下の隅への強いシュートです。速くて届きにくいです。
+- **Q: キーパーとしてAIをどう読めばいいですか？**
+  A: 助走の最後の2歩を見てください。多くのストライカーはシュート方向に腰を開きます。

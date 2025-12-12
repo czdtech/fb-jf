@@ -1,13 +1,10 @@
 ---
 locale: ko
 urlstr: mahjongg-candy
-title: '[KO] Mahjongg Candy'
+title: "Mahjongg Candy 마작 캔디"
 description: >-
-  [KO] Indulge your sweet tooth and sharpen your mind with Mahjongg Candy! This
-  delightful tile-matching puzzle game challenges you to clear the board by
-  finding identical pairs of candy tiles. Strategize your moves, clear unblocked
-  tiles, and race against the clock to achieve a high score in this colorful
-  brain-teaser.
+  Mahjongg Candy는 달콤한 사탕 타일을 짝지어 보드를 비우는 타일 매칭 퍼즐로, 색감
+  가득한 마작 솔리테어 변주를 즐기며 두뇌를 자극할 수 있는 게임입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/mahjongg-candy.jpg
 tags:
@@ -20,33 +17,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Mahjongg Candy is a sweet and engaging tile-matching puzzle game that puts a colorful, candy-themed spin on the classic Mahjongg Solitaire. The objective is to clear the entire board by finding and matching identical pairs of candy tiles. It's a game that tests your observation skills, pattern recognition, and strategic thinking.
+*Mahjongg Candy*는 클래식 Mahjongg Solitaire에 알록달록한 사탕 테마를 더한 타일 매칭
+퍼즐입니다. 목표는 같은 그림의 사탕 타일 쌍을 찾아 보드에서 제거해 모든 타일을
+없애는 것입니다. 선명한 색감과 패턴 덕분에 관찰력과 패턴 인식, 간단한 전략을 한 번에
+시험해 볼 수 있습니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-- **Matching Pairs:** Click or tap on two identical candy tiles to remove them from the board.
-- **Unblocked Tiles:** Only tiles that are "unblocked" can be matched. An unblocked tile must have at least one free side (left or right) and no other tile on top of it.
-- **Time Limit:** Most versions of the game have a time limit, so you need to think and act quickly.
-- **Strategy:** Look for matches that will free up more tiles, especially those that are blocking other tiles. Don't just match the first pair you see.
-- **Scoring:** Longer chains of matches or faster completion often lead to higher scores. Some tiles might offer score multipliers.
+- **쌍 맞추기:** 동일한 사탕 타일 두 장을 클릭 또는 탭하면 보드에서 제거됩니다.
+- **막히지 않은 타일:** 최소 한쪽(왼쪽 또는 오른쪽)이 비어 있고, 위에 다른 타일이
+  놓여 있지 않은 타일만 짝을 맞출 수 있습니다.
+- **시간 제한:** 대부분의 버전에는 제한 시간이 있어, 너무 오래 고민하기보다는 일정
+  속도로 매치를 이어 가는 것이 중요합니다.
+- **전략:** 다른 타일을 많이 막고 있는 위치의 쌍을 우선적으로 제거해 더 많은 타일이
+  열리도록 하세요. 눈에 보이는 첫 쌍만 바로 지우기보다는, 다음 수까지 생각하는 것이
+  좋습니다.
+- **점수 시스템:** 연속 매치나 빠른 클리어는 더 높은 점수로 이어지는 경우가 많으며,
+  일부 특수 타일은 점수 배수 효과를 제공하기도 합니다.
 
-### Controls Guide
+### 조작 방법
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+- **마우스/터치:** 마우스 클릭 또는 화면 터치로 타일을 선택해 쌍을 만들고 제거합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**What is the goal of Mahjongg Candy?**
+**Q: Mahjongg Candy의 목표는 무엇인가요?**
 
-The main goal is to clear all the candy tiles from the board by matching identical, unblocked pairs.
+보드 위 모든 사탕 타일을, 막히지 않은 동일 타일 쌍을 맞추어 제거하는 것이 최종
+목표입니다.
 
-**What happens if I get stuck?**
+**Q: 수가 막혔을 때는 어떻게 하나요?**
 
-Many Mahjongg games offer hints that can reveal a possible match, or a shuffle option to rearrange the remaining tiles if no moves are available. Using these might incur a score penalty.
+많은 마작 게임에서 사용 가능한 쌍을 보여 주는 힌트 기능이나, 더 이상 수가 없을 때
+남은 타일을 다시 섞는 셔플 기능을 제공합니다. 다만 점수 패널티가 있을 수 있습니다.
 
-**How can I improve my game?**
+**Q: 실력을 향상시키려면 어떻게 해야 하나요?**
 
-Practice recognizing patterns and planning your moves several steps ahead. Prioritize clearing tiles that are blocking many other tiles. Try to create cascades of matches.
-
+반복해서 플레이하며 패턴을 빠르게 인식하는 연습을 하고, 여러 수를 미리 계획하는
+습관을 들이세요. 여러 타일을 동시에 막고 있는 위치를 우선적으로 풀어 주고, 연속
+매치를 노리면 고득점에 도움이 됩니다.

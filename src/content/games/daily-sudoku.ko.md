@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: daily-sudoku
-title: '[KO] Daily Sudoku'
+title: "Daily Sudoku 데일리 스도쿠"
 description: >-
-  [KO] Daily Sudoku provides a fresh logic puzzle every day: place digits 1–9 so
-  each row, column, and box contains all numbers.
+  Daily Sudoku는 매일 새로운 9×9 스도쿠 퍼즐을 제공하는 논리 퍼즐 게임입니다. 가로줄,
+  세로줄, 각 3×3 박스에 1~9 숫자를 한 번씩만 배치하며, 추론으로 정답을 찾아가는
+  정통 스도쿠를 즐겨 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/daily-sudoku.jpg
 tags:
@@ -18,25 +19,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Daily Sudoku offers a fresh 9×9 logic puzzle each day. Fill digits 1–9 so that each row, column, and 3×3 box contains all numbers without repetition. Many hosts provide multiple difficulties, pencil marks, and validation tools.
+### 개요
 
-### How to Play
-- Select a cell and type a digit; use pencil marks (notes) to track candidates.
-- Apply basic techniques such as singles, hidden singles, and elimination by scanning peers.
-- On higher difficulties, learn advanced patterns (pairs, X‑Wing, etc.).
+*Daily Sudoku*는 매일 새롭게 생성되는 9×9 스도쿠 퍼즐을 제공하는 게임입니다. 각 가로줄,
+세로줄, 그리고 3×3 박스마다 1부터 9까지 숫자가 한 번씩만 들어가도록 채워 넣어야
+하며, 같은 줄/박스 안에서는 숫자가 중복될 수 없습니다. 난이도 선택, 메모 기능,
+오류 체크 등 편의 기능을 제공하는 버전도 많습니다.
 
-### Controls
-- Number keys to enter digits; Shift/Right‑click toggles pencil marks (site‑dependent); Undo/Redo and Check tools are common.
+### 플레이 방법
 
-### Tips and Strategies
-- Start with singles found by scanning each row/column/box.
-- Use notes consistently and clear them after placing a number.
-- Avoid guesswork; if the host allows, use error‑highlighting conservatively.
+- 빈 칸을 선택한 뒤, 1~9 숫자 중 들어갈 수 있다고 생각하는 값을 입력합니다.
+- 메모(연필 표시) 기능이 있다면 후보 숫자를 기록해 두고, 확정되면 지우는 식으로
+  논리를 정리할 수 있습니다.
+- 쉬운 난이도에서는 단순한 싱글, 히든 싱글 등의 기초 테크닉만으로도 풀 수 있고,
+  어려운 난이도에서는 페어, X-Wing 같은 고급 패턴이 필요할 수 있습니다.
 
-### FAQ
-- Q: What difficulties are available?
-A: Commonly Easy/Medium/Hard; daily sets may rotate difficulties.
-- Q: Do online versions support pencil marks?
-A: Most implementations support notes and candidate marking.
+### 조작 방법
 
+- 숫자 키를 눌러 칸에 숫자를 입력합니다.
+- Shift/우클릭 등으로 메모 모드를 전환해 후보 숫자를 기록하는 버전이 많습니다.
+- 실행 취소/다시 실행, 정답 체크 기능 등은 사이트/버전에 따라 제공됩니다.
+
+### 팁 & 전략
+
+- 각 행/열/박스를 훑어보며 확정 가능한 싱글 칸부터 채워 나가세요.
+- 메모를 일관되게 사용하고, 숫자를 확정할 때마다 관련 메모를 함께 정리해 두면
+  헷갈리지 않습니다.
+- 가능하면 추측(무작정 넣어 보기)은 피하고, 논리적으로 모순이 없도록 진행하세요.
+  오류 표시 기능이 있다면, 너무 의존하지 말고 마지막 확인용으로만 사용하는 것이
+  좋습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 어떤 난이도가 있나요?**  
+  **A:** 일반적으로 Easy / Medium / Hard 정도의 난이도가 제공되며, 요일에 따라 난이도가
+  바뀌는 데일리 세트도 있습니다.
+
+- **Q: 온라인 버전에서도 메모 기능을 지원하나요?**  
+  **A:** 대부분의 구현에서 연필 메모나 후보 숫자 표시 기능을 지원하며, 모바일에서도
+  쉽게 사용할 수 있도록 UI가 구성되어 있습니다.

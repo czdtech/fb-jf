@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: butterfly-shimai
-title: '[DE] Butterfly Shimai'
+title: "Butterfly Shimai"
 description: >-
-  [DE] Soar into a beautiful puzzle adventure with Butterfly Shimai! Connect
-  matching butterfly wings to make them fly away and clear the board.
+  Tauche ein in ein entspanntes Flügelpuzzle mit Butterfly Shimai. Verbinde
+  passende Schmetterlingsflügel, lass fertige Schmetterlinge davonfliegen und
+  räume das Spielfeld, bevor die Zeit abläuft.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/butterfly-shimai.png
 tags:
@@ -16,32 +17,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Butterfly Shimai* ist ein beruhigendes Puzzlespiel, das Elemente aus Mahjong
+und Connect-2 verbindet. Das Spielfeld ist mit einzelnen, farbenfrohen
+Schmetterlingsflügeln gefüllt. Deine Aufgabe ist es, identische Paare zu
+finden und zu verbinden, sodass sich daraus ein vollständiger Schmetterling
+bildet, der vom Brett fliegt.
 
-### Detailed Game Introduction
+Die Schwierigkeit liegt in der Verbindungsregel: Zwei Flügel können nur
+gekoppelt werden, wenn sich eine Linie zwischen ihnen ziehen lässt, die höchstens
+zwei 90-Grad-Knicke hat und nicht durch andere Flügel verläuft. Zusätzlich
+arbeitest du meist gegen ein Zeitlimit – du musst also aufmerksam und zügig
+kombinieren.
 
-Butterfly Shimai is a captivating and relaxing puzzle game that combines elements of Mahjong and connect-2 mechanics. The game presents you with a board filled with beautiful butterfly wings. Your objective is to find and connect pairs of identical wings to make them form a complete butterfly and fly away, clearing the board. The challenge lies in the connection rule: wings can only be paired if a path can be drawn between them with no more than two turns, and without passing through any other wings. With a time limit for each level, you need to be quick and strategic to clear all the butterflies.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  Offensichtliche Paare zuerst: Suche zu Beginn nach Flügeln, die direkt
+    nebeneinander liegen oder eine völlig freie, gerade Verbindung haben. Sie
+    sind leicht zu entfernen und öffnen das Feld.
+2.  Ränder und Ecken priorisieren: Flügel am Rand oder in den Ecken haben oft
+    weniger Blocker um sich herum und lassen sich einfacher verbinden. Wenn du
+    sie früh räumst, entstehen mehr Wege durchs Spielfeld.
+3.  Zwei-Knick-Pfade mitdenken: Erinnere dich an die Regel mit maximal zwei
+    Knicken. Versuche, imaginäre L-förmige oder Z-förmige Linien zu zeichnen,
+    um weniger offensichtliche Paare zu entdecken.
+4.  Hinweise mit Bedacht nutzen: Wenn du gar nicht weiterweißt, hilft meist ein
+    Hinweis-Button. Nutze ihn sparsam – je mehr du selbst suchst, desto besser
+    trainierst du dein Auge.
+5.  Zeit im Blick behalten: Jeder erfolgreiche Match bringt dir oft etwas Zeit
+    zurück. Schnelles und kontinuierliches Verbinden ist der Schlüssel, um
+    Level rechtzeitig abzuschließen.
 
-1.  **[DE]** **Scan for Obvious Matches:** Start by looking for pairs of wings that are directly adjacent or have a clear, straight path between them. These are the easiest to clear and will open up the board.
-2.  **[DE]** **Prioritize Edges and Corners:** Wings located on the edges and corners of the board are often easier to connect as they have fewer blocking tiles around them. Clearing these first can create more opportunities.
-3.  **[DE]** **Look for Two-Turn Paths:** Remember the connection rule: a path can have up to two turns. Visualize these paths to find less obvious matches.
-4.  **[DE]** **Use Hints Wisely:** If you get stuck, the game usually provides a hint button. Use it when you're truly stumped, but try to solve puzzles on your own to improve your observation skills.
-5.  **[DE]** **Time Management:** Keep an eye on the timer. Making matches adds a small amount of time back, so quick and continuous matching is key to completing levels.
+### Steuerung
 
-### Controls Guide
+*   Auswählen und verbinden: Klicke mit der Maus (oder tippe) zuerst auf einen
+    Flügel und anschließend auf seinen identischen Partner. Existiert ein
+    gültiger Pfad, entsteht ein Schmetterling und fliegt davon.
 
-*   **[DE]** **Select and Connect:** Use your mouse to click on the first butterfly wing, then click on its identical matching wing. If a valid path exists, the butterflies will fly away.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   F: Was ist das Ziel von Butterfly Shimai?
+    *   A: Du musst alle Flügelpaare finden und verbinden, bevor die Zeit
+        abläuft, sodass das komplette Spielfeld leer wird.
 
-*   **[DE]** **Q: What is the goal of Butterfly Shimai?**
-    *   **[DE]** **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
+*   F: Welche Verbindungsregeln gelten genau?
+    *   A: Zwei identische Flügel dürfen nur verbunden werden, wenn eine Linie
+        mit maximal zwei 90-Grad-Knicken zwischen ihnen gezeichnet werden kann
+        und diese Linie keine anderen Fliesen schneidet.
 
-*   **[DE]** **Q: What are the rules for connecting wings?**
-    *   **[DE]** **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
-
-*   **[DE]** **Q: What happens if I run out of time?**
-    *   **[DE]** **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
-
+*   F: Was passiert, wenn mir die Zeit ausgeht?
+    *   A: Läuft der Timer auf null, bevor alle Paare entfernt sind, ist das
+        Level verloren und du musst es neu starten.

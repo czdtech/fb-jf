@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: he-likes-the-darkness
-title: '[DE] He Likes The Darkness'
+title: "He Likes The Darkness"
 description: >-
-  [DE] He Likes The Darkness is a moody platformer — navigate shadowy stages,
-  collect orbs, and time precise jumps through hazards.
+  He Likes The Darkness ist ein düsterer Platformer: Navigiere durch dunkle
+  Levels, sammle Sphären und timinge präzise Sprünge an tödlichen Fallen vorbei.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/he-likes-the-darkness.png
 tags:
@@ -15,35 +15,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+He Likes The Darkness ist ein minimalistischer Platformer mit starkem
+Hell-Dunkel-Kontrast. Geringe Sichtweite, bewegliche Fallen und sammelbare
+Sphären prägen kompakte, kurze Levels. Wer Sprungweite, kleine Anlaufschritte
+und das Halten von Schwung meistert, schafft saubere Runs mit flüssigem
+Spielfluss.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibility, moving traps, and collectible orbs define compact stages. Mastering hop length, short stalls, and momentum preservation produces clean clears with satisfying flow.
+1.  **Vorsichtig auskundschaften**  
+    Nutze kurze Hüpfer, um Plattformkanten und Abgründe zu ertasten, ohne dich
+    gleich zu weit hinauszuwagen.
 
-### Gameplay Strategy & Walkthrough
+2.  **Zyklen beobachten**  
+    Schau dir die Bewegungsmuster von Sägen, Stacheln oder anderen Fallen
+    mindestens einmal komplett an, bevor du lossprintest. Springe nur, wenn du
+    den Takt verinnerlicht hast.
 
-1.  **[DE]** Light scouting: Use small hops to reveal platform edges without overcommitting.
-2.  **[DE]** Cycle timing: Observe moving hazards (saws/spikes) for a full cycle, then commit.
-3.  **[DE]** Momentum: Keep micro‑momentum through tap‑taps rather than full stops.
-4.  **[DE]** Orb routing: Grab orbs on safe passes; don’t force risky backtracks.
-5.  **[DE]** Retry rhythm: Fast restarts build muscle memory for tricky segments.
+3.  **Schwung behalten**  
+    Nutze kurze Tipp-Bewegungen statt Vollstopps. Kleine Korrekturen halten
+    deinen Flow aufrecht und machen timingkritische Stellen einfacher.
 
-### Controls Guide
+4.  **Sphären clever einsammeln**  
+    Sammle Sphären möglichst auf sicheren Routen ein. Wenn du für eine letzte
+    Kugel einen riskanten Rückweg brauchst, ist es oft besser, sie zu
+    ignorieren – sofern das Level sie nicht zwingend verlangt.
 
-- Move/Jump: Arrows/WASD + Space; occasional double‑jump per level rules.
+5.  **Schnelle Neustarts**  
+    Scheitere lieber früh und oft: Kurze Restart-Zeiten helfen dir, schwierige
+    Passagen im Muskelgedächtnis zu verankern.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I can’t see edges clearly — any tip?
+- **Bewegen/Springen:** Pfeiltasten oder WASD plus Sprungtaste (häufig
+  Leertaste).  
+- Manche Level erlauben **Doppelsprünge** oder andere Sonderfähigkeiten – achte
+  auf die Hinweise im Spiel.
 
-A: Feather short hops to probe boundaries; adjust brightness if available.
+### Häufige Fragen (FAQ)
 
-- Q: Do I need all orbs?
+- **F: Ich kann die Plattformkanten kaum erkennen – was hilft?**  
+  **A:** Probiere kurze Test-Sprünge, um Abstände abzuschätzen, und erhöhe
+  gegebenenfalls die Bildschirmhelligkeit.
 
-A: Some levels require them; otherwise they’re optional mastery goals.
+- **F: Muss ich alle Sphären einsammeln?**  
+  **A:** Einige Level verlangen alle Sphären als Siegbedingung, in anderen sind
+  sie optionale Zusatzziele für 100 %-Runs oder Extras.
 
-- Q: Any trick for moving saws?
-
-A: Count beats and move on the same phase each attempt to lock timing.
-
+- **F: Gibt es einen Trick für bewegliche Sägen?**  
+  **A:** Zähle innerlich den Takt mit und betritt die Gefahrenzone immer im
+  gleichen Rhythmus. So kannst du dein Timing von Versuch zu Versuch
+  reproduzieren.

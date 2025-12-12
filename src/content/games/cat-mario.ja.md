@@ -1,110 +1,76 @@
 ---
-locale: ja
-urlstr: cat-mario
-title: '[JA TRANSLATION NEEDED] Cat Mario'
-description: >-
-  [JA TRANSLATION NEEDED] Face the ultimate unfair platformer in Cat Mario
-  (Syobon Action)! Navigate a world full of hidden traps, unexpected enemies,
-  and deceptive level design in this notoriously difficult and hilarious parody
-  game.
-iframeSrc: 'https://tiwb.github.io/catmario/'
+title: Cat Mario キャットマリオ（しょぼんのアクション）
+description: 別名「しょぼんのアクション」。「マリオ」のような見た目でプレイヤーを絶望させる、史上最も理不尽で有名なトラップアクションゲーム。
+iframeSrc: 'https://cat-mario.github.io/'
 thumbnail: /new-images/cat-mario.jpg
+urlstr: cat-mario
+score: 4.8/5  (5120 votes)
 tags:
   - platformer
-  - casual
-score: 4.6/5  (1147 votes)
+  - action
+  - meme
+developer: Chiku
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+*Cat Mario（キャットマリオ）*、日本では**「しょぼんのアクション（Syobon Action）」**として知られるこのゲームは、カルト的な人気を誇る2Dプラットフォーマーです。一見すると、どこかで見たことのある有名な配管工のゲームにそっくりですが、その中身は全くの別物です。
 
-### Game Introduction
+このゲームの全ては、プレイヤーの期待を裏切り、あらゆる方法で「釣り」を行うために設計されています。隠しブロック、突然崩れる床、予想外の動きをする敵、触れると死ぬ背景アイテムなど、理不尽極まりない罠が無数に仕掛けられています。ゲームプレイは完全な「死にゲー」であり、プレイヤーは何度も死んで、罠の位置と性質を暗記する必要があります。
 
-[JA TRANSLATION NEEDED] Cat Mario, more formally known as Syobon Action (しょぼんのアクション), is a Japanese freeware game that is a parody of the classic *Super Mario Bros*. At first glance, it appears to be a simple, crudely drawn clone of Mario, featuring a white cat-like character in a familiar-looking world. However, the game is infamous for being an "unfair platformer" or "troll game."
+不条理な死に様を楽しむユーモアと、「マイナス数百」まで平気でカウントされるライフカウンターが特徴です。怒らずにステージの最後の旗（ゴール）にたどり着くことが唯一の目的です。
 
-[JA TRANSLATION NEEDED] The entire game is designed to subvert player expectations and troll them in every way imaginable. The levels are filled with countless hidden traps, invisible blocks, ground that suddenly collapses, enemies that behave unpredictably, and background elements that are actually lethal. The core gameplay is based on trial and error, requiring players to die repeatedly to memorize the location and nature of each trap. The game's humor comes from the sheer absurdity and unfairness of the deaths, and the life counter, which often goes into negative numbers, serves as a running gag. The goal is simply to reach the flagpole at the end of each stage without rage-quitting.
+### ゲーム攻略と戦略
 
-The controls are very simple and mimic classic 2D platformers.（日本語訳が必要）
-### Gameplay Strategy & Walkthrough Principles
+このゲームに従来の戦略は通用しません。あるのは「記憶」のみです。
 
-    - **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.（日本語訳が必要）
-- **Key Traps to Remember (レベル 1 Spoilers):**
-**1. Why do I keep dying for no reason? This game is impossible!**（日本語訳が必要）
-    - Some clouds in the sky are actually enemies and will kill you if you touch them.（日本語訳が必要）
-    - When you reach the final staircase, an enemy will spawn at the top. Be prepared.（日本語訳が必要）
-    - **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.（日本語訳が必要）
-### コントロール Guide
-[JA TRANSLATION NEEDED] There is no "strategy" in the traditional sense, only memorization. The game is a test of patience and memory, not skill.
+*   **鉄則その1：何も信じるな。** 踏んでいる地面、頭上のブロック、空の雲、そしてゴールの旗さえも信じてはいけません。全てが罠である可能性があります。
+*   **死んで覚える:** あなたは死ぬ運命にあります。すべての死は教訓です。どこで死んだかを正確に記憶し、次からはそこを避ける。これ以外の攻略法はありません。
+*   **予想外を予想せよ:**
+    *   叩くと空に飛んでいってプレイヤーを突き殺す「？」ブロック。
+    *   普通に歩くと崩落する最初の地面。
+    *   突然加速したりジャンプしたり、空から降ってくる敵。
+    *   取ると死ぬパワーアップキノコ。
+*   **最初のステージの注意点（ネタバレ）:**
+    *   最初の「？」ブロックを下から叩いてはいけません。避けてジャンプしましょう。
+    *   最初の土管を越えた直後の地面は穴が開きます。ジャンプして越えましょう。
+    *   空にある一部の雲は実は敵です。当たると死にます。
+    *   最後の階段を登りきると敵が降ってきます。
+    *   **ゴールの旗に触れてはいけません。** 旗を飛び越えて、その奥にある隠しブロックに乗り、さらに奥にある城に入って初めてクリアとなります。
 
-- **Left/Right Arrow Keys:** 移動する the character left and right.
--   **Rule #1: TRUST NOTHING.** This is the golden rule of Cat Mario. Do not trust the ground you walk on, the blocks above you, the clouds in the sky, or even the flagpole at the end. Everything is a potential trap.
-- **Up Arrow Key:** ジャンプ.
-There is no run button or fire button.（日本語訳が必要）
-    - Question blocks can be solid, invisible, or spawn enemies on top of you.（日本語訳が必要）
--   **Trial and Error is the Only Way:** You are meant to die. Every death is a lesson. When you die, pay close attention to what killed you and remember that spot for your next attempt. The game is only beatable through rote memorization.
-    - パワー-ups can kill you.
--   **Expect the Unexpected:**
-    - The first `?` block you see is a trap. Hitting it from below will cause it to fly upwards, killing you. ジャンプ over it.
-[JA TRANSLATION NEEDED]     -   Question blocks can be solid, invisible, or spawn enemies on top of you.
-[JA TRANSLATION NEEDED]     -   The very first patch of ground in Level 1 will collapse if you walk on it normally.
-[JA TRANSLATION NEEDED]     -   Enemies may suddenly accelerate, jump, or fall from the sky.
-[JA TRANSLATION NEEDED]     -   Power-ups can kill you.
--   **Key Traps to Remember (Level 1 Spoilers):**
-[JA TRANSLATION NEEDED]     -   The first `?` block you see is a trap. Hitting it from below will cause it to fly upwards, killing you. Jump over it.
-[JA TRANSLATION NEEDED]     -   The ground right after the first pipe will collapse. You must jump over the gap.
-[JA TRANSLATION NEEDED]     -   Some clouds in the sky are actually enemies and will kill you if you touch them.
-[JA TRANSLATION NEEDED]     -   When you reach the final staircase, an enemy will spawn at the top. Be prepared.
-[JA TRANSLATION NEEDED]     -   **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
+### 操作ガイド
 
-### Controls Guide
+操作はクラシックなアクションゲームと同じです。
+*   **矢印キー（← →）:** 左右移動
+*   **上矢印キー（↑）:** ジャンプ
 
-[JA TRANSLATION NEEDED] The controls are very simple and mimic classic 2D platformers.
--   **Left/Right Arrow Keys:** Move the character left and right.
--   **Up Arrow Key:** Jump.
+※ダッシュボタンはありません。
 
-[JA TRANSLATION NEEDED] There is no run button or fire button.
-
-### Frequently Asked Questions (FAQ)
-
-[JA TRANSLATION NEEDED] **1. Why do I keep dying for no reason? This game is impossible!**
-[JA TRANSLATION NEEDED] > That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.
-
-[JA TRANSLATION NEEDED] **2. How many lives do I have? My life counter is negative.**
-[JA TRANSLATION NEEDED] > You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."
-
-[JA TRANSLATION NEEDED] **3. Is there a way to know where the traps are?**
-[JA TRANSLATION NEEDED] > No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
-
-[JA TRANSLATION NEEDED] **4. What's the real name of this game?**
-[JA TRANSLATION NEEDED] > The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
-
-
-    - The very first patch of ground in レベル 1 will collapse if you walk on it normally.
-
-- **Key Traps to Remember (Level 1 Spoilers):**
-    - Enemies may suddenly accelerate, jump, or fall from the sky.（日本語訳が必要）
-    - The ground right after the first pipe will collapse. You must jump over the gap.（日本語訳が必要）
-    - Some clouds in the sky are actually enemies and will kill you if you touch them.（日本語訳が必要）
-    - When you reach the final staircase, an enemy will spawn at the top. Be prepared.（日本語訳が必要）
-
-    - **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
-### Frequently Asked Questions (よくある質問)
-> That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.（日本語訳が必要）
-
-
-- **Up Arrow Key:** Jump.
-- **Left/Right Arrow Keys:** Move the character left and right.
-**2. How many lives do I have? My life counter is negative.**（日本語訳が必要）
-
-### よくある質問（FAQ）
-> You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."（日本語訳が必要）
-**3. Is there a way to know where the traps are?**（日本語訳が必要）
-> No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.（日本語訳が必要）
-**4. What's the real name of this game?**（日本語訳が必要）
-> The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."（日本語訳が必要）
-
+### よくある質問 (FAQ)
 
 
 > The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
+
 **4. What's the real name of this game?**
+
 > No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
+
+**3. Is there a way to know where the traps are?**
+
+> You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."
+
+**2. How many lives do I have? My life counter is negative.**
+
+> That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.
+
+**1. Why do I keep dying for no reason? This game is impossible!**
+*   **Q: 理由もなく死に続けるのですが、バグですか？**
+    *   **A:** いいえ、それが正常です。このゲームは「不公平」かつ「理不尽」に作られたネタゲーです。常識を覆す罠を楽しむのが正解です。
+
+*   **Q: ライフカウンターがマイナスになりました。**
+    *   **A:** 無限にコンティニューできます。マイナスのライフカウンターは「何回死んだか」の記録のようなもので、ゲームオーバーになることはありません。
+
+*   **Q: 罠の場所を知る方法は？**
+    *   **A:** 初見で見抜くのは不可能です。引っかかって死んで覚えてください。

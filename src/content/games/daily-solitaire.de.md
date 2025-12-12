@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: daily-solitaire
-title: '[DE] Daily Solitaire'
+title: "Daily Solitaire"
 description: >-
-  [DE] A new Klondike Solitaire challenge awaits you every day. Sort the cards
-  from Ace to King and test your skills with a fresh puzzle daily.
+  Jeden Tag wartet eine neue Klondike-Solitaire-Herausforderung auf dich.
+  Sortiere die Karten von Ass bis König und teste dein Können mit einem
+  frischen Rätsel pro Tag.
 iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
 thumbnail: /new-images/daily-solitaire.png
 tags:
@@ -16,33 +17,47 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Daily Solitaire* bietet dir jeden Tag ein neues Klondike-Solitaire-Layout.
+Du sortierst ein 52-Karten-Deck auf vier Ablagestapel nach Farben von Ass bis
+König. Jede Tagespartie ist gewinnbar angelegt und eignet sich ideal, um deine
+Fähigkeiten zu testen, Fortschritte nachzuverfolgen und kurz in klassische
+Kartentaktik einzutauchen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Daily Solitaire offers a fresh Klondike Solitaire puzzle every day. The game presents the classic challenge of sorting a 52-card deck into four foundation piles by suit, from Ace to King. With a new, guaranteed-winnable deal each day, it's a perfect way to test your skills, track your progress, and enjoy a moment of classic card game strategy.
+1.  Ziel: Bringe alle 52 Karten für jede Farbe in aufsteigender Reihenfolge von
+    Ass bis König auf die vier Ablagen.
+2.  Tableau-Management: Baue im Tableau absteigend und abwechselnd in den
+    Farben (z. B. rote Dame auf schwarzen König). Vorrang hat das Aufdecken
+    verdeckter Karten.
+3.  Leere Spalten priorisieren: Freie Spalten dürfen nur mit einem König bzw.
+    einer Sequenz, die mit einem König beginnt, belegt werden. Nutze sie, um
+    lange Reihen umzulagern und weitere Karten aufzudecken.
+4.  Talon & Waste: Wenn im Tableau nichts mehr geht, ziehe aus dem Talon. Nutze
+    neue Karten sowohl fürs Tableau als auch direkt für die Ablagen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Objective:** Move all 52 cards to the four foundation piles in ascending order (Ace to King) for each suit.
-2.  **[DE]** **Tableau Management:** Build columns on the tableau in descending order, alternating colors (e.g., a red Jack on a black Queen). The primary goal is to uncover face-down cards.
-3.  **[DE]** **Prioritize Empty Columns:** Creating an empty column is a powerful move, as it can only be filled by a King. This gives you a valuable space to rearrange long sequences and uncover more cards.
-4.  **[DE]** **Stock and Waste:** When no more moves are available on the tableau, draw from the stock pile to reveal new cards. Use these cards to build on the tableau or move them directly to the foundation.
+*   Karten ziehen: Klicke und ziehe Karten oder Sequenzen zwischen den Stapeln.
+*   Talon nutzen: Klicke auf den Nachziehstapel, um neue Karten auf den
+    Ablagestapel (Waste) zu legen.
+*   Auto-Move: In vielen Versionen schickt ein Doppelklick Karten automatisch
+    auf eine mögliche Ablage.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Move Cards:** Click and drag cards between piles.
-*   **[DE]** **Draw from Stock:** Click the stock pile to deal a new card to the waste pile.
-*   **[DE]** **Auto-Move:** Double-clicking a card will often send it to the appropriate foundation pile if the move is valid.
+*   F: Ist das Tagesrätsel immer lösbar?
+    *   A: Ja, die meisten Daily-Solitaire-Versionen nutzen Deals mit
+        mindestens einem Lösungsweg – allerdings kann dieser durchaus knifflig
+        sein.
 
-### Frequently Asked Questions (FAQ)
+*   F: Unterschied zwischen "Draw 1" und "Draw 3"?
+    *   A: Bei "Draw 1" ziehst du eine Karte auf einmal – das ist meist
+        einfacher. Bei "Draw 3" kommen drei Karten auf den Waste, von denen nur
+        die oberste spielbar ist – deutlich schwerer.
 
-*   **[DE]** **Q: Is the daily puzzle always winnable?**
-    *   **[DE]** **A:** Yes, most "Daily Solitaire" games feature deals that are guaranteed to have at least one winning path, though it may be very tricky to find.
-
-*   **[DE]** **Q: What is the difference between "Draw 1" and "Draw 3" mode?**
-    *   **[DE]** **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.
-
-*   **[DE]** **Q: Can I play previous days' puzzles?**
-    *   **[DE]** **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.
-
+*   F: Kann ich verpasste Tagesrätsel nachholen?
+    *   A: Viele Daily-Formate bieten einen Kalender, über den du frühere
+        Puzzles erneut aufrufen kannst.

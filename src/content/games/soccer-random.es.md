@@ -1,15 +1,15 @@
 ---
 locale: es
 urlstr: soccer-random
-title: '[ES] Soccer Random'
+title: "Soccer Random"
 description: >-
-  [ES] Experience soccer like never before in Soccer Random! This hilarious,
-  physics-based game uses a simple one-button control to make your players jump
-  and kick. Adapt to ever-changing fields, balls, and players as you compete
-  against a friend or the CPU to be the first to score five goals.
-iframeSrc: >-
-  https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
-thumbnail: /new-images/soccer-random.jpg
+  Vive el fútbol como nunca en Soccer Random. Este divertidísimo juego con
+  físicas locas se controla con una sola tecla para hacer que tus jugadores
+  salten y chuten. Adáptate a campos, balones y jugadores que cambian en cada
+  ronda mientras compites contra un amigo o la CPU para ser el primero en marcar
+  cinco goles.
+iframeSrc: "https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html"
+thumbnail: "/new-images/soccer-random.jpg"
 tags:
   - 2-player
   - physics
@@ -19,34 +19,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
-### Game Introduction
+Soccer Random es un caótico y desternillante juego de fútbol con físicas
+exageradas y un esquema de control minimalista de un solo botón. El objetivo es
+simple: marcar cinco goles antes que tu rival. La gracia está en el "random" del
+título: tras cada gol pueden cambiar el tipo de balón, los jugadores, el campo o
+incluso la gravedad, obligándote a adaptarte constantemente.
 
-Soccer Random is a chaotic and hilarious physics-based soccer game with a minimalist one-button control scheme. The objective is simple: score five goals before your opponent. The "random" part of the title comes from the fact that everything, from the type of ball and the player characters to the playing field itself, can change after every goal, forcing you to constantly adapt.
+### Guía de juego
 
-### Gameplay Guide
+Gana el primer jugador o equipo que llegue a 5 goles. Solo puedes hacer que tus
+dos futbolistas salten y chuten a la vez con un toque de tecla. El reto está en
+la física loca y lo impredecible de las situaciones: en un momento estás en un
+campo helado y al siguiente en una playa. Usa el único botón para sincronizar
+bien los saltos y así atacar la pelota y, al mismo tiempo, defender tu portería.
 
-The first player or team to score 5 goals wins the match. All you can do is make your two players jump and kick at the same time. The challenge comes from the wacky physics and the unpredictable nature of the game. You might be playing on an icy field one moment and a beach the next. Use the single button to time your jumps perfectly to both attack the ball and defend your goal.
+### Guía de controles
 
-### Controls Guide
+El juego está pensado para ser muy sencillo y jugarse entre uno o dos jugadores
+en el mismo teclado.
 
-The game is designed for simplicity and can be played by one or two players on the same keyboard.
-- **Player 1:** `W` Key
-- **Player 2:** `Up Arrow` Key
+- **Jugador 1:** Tecla `W`.
+- **Jugador 2:** Flecha **Arriba**.
 
-Press your key to make your players jump and kick.
+Pulsa tu tecla para hacer que tus jugadores salten y golpeen el balón.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
-**What is the goal of Soccer Random?**
+**¿Cuál es el objetivo en Soccer Random?**
 
-The main goal is to be the first to score 5 goals against your opponent.
+Ser el primero en marcar 5 goles al contrario.
 
-**How many players can play?**
+**¿Cuántos jugadores pueden jugar?**
 
-Soccer Random can be played solo against a computer opponent or with a friend in 2-player mode on the same device.
+Puedes jugar solo contra la CPU o con un amigo en modo 2 jugadores compartiendo
+teclado.
 
-**Why does the game keep changing?**
+**¿Por qué el juego cambia tanto?**
 
-That's the core feature of the game! The randomness of the fields, players, and balls after each goal ensures that no two matches are ever the same and keeps the gameplay funny and unpredictable.
-
+Esa es la esencia de Soccer Random. La aleatoriedad del campo, los jugadores y
+el balón tras cada gol hace que ninguna partida se parezca a otra y mantiene la
+acción fresca y muy divertida.

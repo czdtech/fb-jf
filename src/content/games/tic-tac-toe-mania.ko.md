@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tic-tac-toe-mania
-title: '[KO] Tic Tac Toe Mania'
+title: "Tic Tac Toe Mania 틱택토 매니아"
 description: >-
-  [KO] Tic Tac Toe Mania is a brisk duel — bait forks, block threats, and force
-  draws/wins with optimal play or variant rules.
+  Tic Tac Toe Mania는 삼목(틱택토)을 여러 변형 규칙과 함께 즐길 수 있는 두뇌 싸움 게임으로,
+  포크를 유도하고 위협을 차단하며 무승부 또는 승리를 노리는 전략 플레이가 핵심입니다.
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/tic-tac-toe-mania.png
 tags:
@@ -17,29 +17,37 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Tic Tac Toe Mania modernizes noughts‑and‑crosses with clean visuals and variants (bigger boards, misère). Core play is about forcing lines or neutralizing threats; perfect 3×3 play draws unless a mistake occurs.
+*Tic Tac Toe Mania*는 전통적인 OX 게임(틱택토)을 현대적인 인터페이스와 다양한 변형 규칙으로
+확장한 게임입니다. 기본 3×3 판에서의 완벽한 플레이는 항상 무승부로 끝나지만, 실수 한 번이
+승패를 갈라놓기 때문에 상대의 수를 읽고 함정을 파는 전략이 중요합니다. 큰 보드나 미제르
+규칙(일부러 지는 쪽이 이기는 변형) 등을 제공하는 버전도 있어, 단순한 게임을 더 깊게
+즐길 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** Center first: On 3×3, center maximizes forks; corners second.
-2.  **[KO]** Block immediately: Always respond to a two‑in‑a‑row.
-3.  **[KO]** Create forks: Set up positions where two lines can win next.
-4.  **[KO]** Anti‑fork: Play to break opponent fork patterns.
-5.  **[KO]** Variants: On larger boards, prioritize flexible lines over early corners.
+1. **3×3에서는 중앙 우선:** 선공일 때 중앙부터 선점하면 포크(두 곳에서 동시에 승리
+   가능)를 만들 기회가 늘어납니다. 다음 후보는 코너입니다.
+2. **즉시 차단:** 상대가 한 줄에 두 개를 만들어 위협을 만들면, 무조건 그 줄을 우선적으로
+   막아야 합니다.
+3. **포크 만들기:** 다음 턴에 두 곳 모두에서 승리할 수 있는 포지션을 만드는 것이
+   가장 강력한 전략입니다. 중앙+코너 조합에서 자주 나옵니다.
+4. **안티 포크:** 상대가 포크를 만들 수 있는 구조를 눈여겨보고, 미리 그 패턴이 완성되지
+   않도록 방해하는 수를 둡니다.
+5. **변형 규칙:** 더 큰 보드에서는 단 한 줄보다 여러 방향으로 확장 가능한 라인을 만드는
+   것이 중요하며, 초반 코너보다 중앙 근처의 유연한 위치를 선호하는 것이 좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Click squares to place marks; local 2P common; AI difficulties vary.
+- 빈 칸을 클릭해 자신의 표시(X나 O)를 놓습니다. 로컬 2인용 또는 다양한 난이도의 AI와
+  대결할 수 있는 모드가 일반적입니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: Is 3×3 always a draw?
+- **Q: 3×3에서는 항상 무승부가 되나요?**  
+  **A:** 양쪽 모두 완벽하게 두면 항상 무승부가 됩니다. 승리하려면 상대의 실수를
+  유도하거나, 실수를 놓치지 않고 포크로 마무리해야 합니다.
 
-A: With perfect play, yes; wins rely on opponent errors.
-
-- Q: Best first move?
-
-A: Center, then corner.
-
+- **Q: 가장 좋은 첫 수는 무엇인가요?**  
+  **A:** 선공 기준으로 중앙이 가장 좋고, 다음으로 코너가 유리합니다.

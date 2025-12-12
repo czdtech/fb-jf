@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: blockbuster-puzzle
-title: '[KO] Blockbuster Puzzle'
+title: 'Blockbuster Puzzle 블록버스터 퍼즐'
 description: >-
-  [KO] Blockbuster Puzzle is a satisfying block clear — plan placements, chain
-  blasts, and avoid sealing off critical space.
+  Blockbuster Puzzle은 블록을 배치해 줄·클러스터를 지우는 퍼즐 게임입니다.
+  탈출용 공간을 남겨 두고, 연쇄 폭발처럼 여러 줄을 한 번에 지울 기회를
+  노려 보세요.
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/blockbuster-puzzle.png
 tags:
@@ -14,37 +15,49 @@ score: 4.0/5  (1862 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Blockbuster Puzzle은 주어지는 블록 조각을 보드 위에 배치해 줄이나 특정
+패턴을 완성해 지우는 블록 퍼즐 게임입니다. 한 칸 한 칸을 채우기보다, 한 번에
+여러 줄을 정리하는 "폭발 턴"을 준비하는 것이 핵심이며, 마지막 남은 탈출용
+공간을 함부로 막지 않는 운영이 중요합니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **두 개의 주요 라인 확보:** 항상 난이도 높은 조각을 수용할 수 있는 여유
+    라인을 최소 두 개는 남겨 두세요. 한 줄만 남기면 조각이 꼬이는 순간 바로
+    막힐 수 있습니다.
+2.  **비상용 포켓 유지:** 어떤 조각도 들어가지 않을 것 같은 순간을 대비해,
+    한 구역은 일부러 비워둔 "세이브 포켓"으로 운용하면 위기에서 빠져나오기
+    좋습니다.
+3.  **클러스터 단위로 생각하기:** 특정 조각들을 같은 구역에 모아 두었다가,
+    한 조각으로 여러 줄을 동시에 지우는 식으로 연쇄를 설계해 보세요.
+4.  **1칸짜리 구멍 금지:** 어디에도 맞지 않는 1×1 빈칸은 거의 채우기
+    불가능합니다. 배치 전후로 그런 구멍이 생기는지 항상 확인하세요.
+5.  **우세할 때 크게 정리:** 보드가 비교적 비어 있을 때는 과감히 멀티 라인
+    클리어를 노려, 한 번에 넓은 공간을 만들어 두면 이후 조각 운용이
+    훨씬 수월해집니다.
 
-Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or cluster clears. The art is in pacing: keep multiple lanes viable, prepare “bomb” turns that clear large areas, and never burn your last escape pocket unless it secures a chain.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 블록 드래그: 화면 아래의 조각을 드래그해 보드 위 원하는 위치에 놓습니다.
+- 회전: 지원되는 경우, 조각을 탭하거나 별도의 회전 버튼으로 방향을 바꿀 수
+  있습니다.
+- 되돌리기/리셋: 지나치게 욕심을 부린 배치를 되돌리거나, 판을 초기화하고
+  새로 시작할 때 사용합니다.
 
-1.  **[KO]** Keep two lanes free: Always preserve at least two flexible build lanes for awkward shapes.
-2.  **[KO]** Bank a bailout slot: Reserve one pocket to recover from bad piece sets.
-3.  **[KO]** Cluster thinking: Group related shapes so one placement sets up several clears.
-4.  **[KO]** Avoid single‑cell cavities: These are nearly impossible to fill consistently.
-5.  **[KO]** Convert advantage: When the board is open, push for multi‑line clears to snowball space.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **초반에는 잘 지우다가 후반에 갑자기 막힙니다.**  
+  한쪽 구역에만 과하게 쌓거나, 탈출용 포켓을 모두 메워 버렸을 가능성이 큽니다.
+  보드 전체를 균형 있게 사용하고, 최소 한두 줄의 여유 라인을 항상 남겨 두는
+  습관을 들이세요.
 
-- Drag‑and‑drop pieces; rotate if supported.
-- Undo/Reset can recover from greedy mistakes.
+- **회전이 중요한가요?**  
+  회전이 지원된다면 난이도가 크게 낮아지지만, 지원되지 않는 모드에서는
+  대칭적인 공간과 넓은 라인을 유지하는 것으로 어느 정도 대체할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Why do I keep losing despite early good clears?
-
-A: You’re over‑committing to one side and losing flexibility. Rebalance and keep a bailout pocket.
-
-- Q: Is rotation required to win?
-
-A: No, but it helps. When rotation is limited, rely on symmetry and larger open lanes.
-
-- Q: Should I place big shapes first or last?
-
-A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
-
+- **큰 조각은 언제 배치하는 것이 좋나요?**  
+  보드가 답답해질수록 가장 배치하기 힘든 큰 조각부터 처리하는 편이 좋습니다.
+  반대로 보드가 넓게 비어 있을 때는 멀티 라인 클리어를 노릴 수 있는 위치를
+  골라 배치해 보세요.

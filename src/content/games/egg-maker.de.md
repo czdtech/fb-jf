@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: egg-maker
-title: '[DE] Egg Maker'
+title: "Egg Maker"
 description: >-
-  [DE] Egg Maker is a quick kitchen puzzler — sequence prep steps, time pans,
-  and serve perfect eggs under rush pressure.
+  Egg Maker ist ein schnelles Küchen-Puzzlespiel: Takte Zubereitungsschritte,
+  timinge Pfannen richtig und serviere perfekte Eier im Küchenstress.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/egg-maker.png
 tags:
@@ -14,42 +14,54 @@ score: 3.9/5  (1641 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Egg Maker reduziert Zeitmanagement-Kochen auf schnelle Stationen: aufschlagen,
+verquirlen, würzen, erhitzen, anrichten und servieren. Jede Bestellung hat
+ihren eigenen Stil (Rührei, Spiegelei, Omelett) und ein enges Zeitfenster für
+ den perfekten Gargrad. Was auf dem Herd liegt, gart weiter – deine
+ Reihenfolge und dein Abholtiming entscheiden, ob du "perfekt" triffst oder
+ die Portion verbrennst.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Stationsrhythmus:** Beginne immer mit dem längsten Schritt (Pfanne auf
+   Hitze), und erledige währenddessen kurze Vorbereitungen.
+2. **Zwei-Pfannen-Flow:** Versetze deine Pfannen um ein paar Sekunden, damit du
+   eine Portion wenden/anrichten kannst, während die nächste vorbereitet wird.
+3. **Garfenster kennen:** Nimm Speisen am Rand des "perfekt"-Fensters vom Herd,
+   um Bonuspunkte zu kassieren. Achte auf visuelle und akustische Hinweise.
+4. **Mehrfachbestellungen bündeln:** Fasse ähnliche Eierstile zusammen, um den
+   Zustand der Pfanne mehrfach zu nutzen und Reinigungszyklen zu sparen.
+5. **Upgrades mit Bedacht:** Investiere zuerst in eine zusätzliche Pfanne und
+   schnellere Vorbereitung, Dekoration ist Luxus.
 
-Egg Maker distills time‑management cooking into rapid stations: crack, whisk, season, heat, plate, and serve. Each order specifies a style (scrambled, sunny‑side, omelet) and doneness windows. Items on heat continue cooking, so sequencing and pickup timing decide whether you hit “perfect” or burn.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Tippen, um Eier aufzuschlagen/zu verquirlen/zu würzen; ziehen, um sie in die
+  Pfanne oder auf den Teller zu legen; auf den Kunden tippen, um zu servieren.
+- Pause/Neustart über die UI zwischen den Schichten.
 
-1.  **[DE]** Station rhythm: Always start with the longest step (heat), then backfill short prep while the pan runs.
-2.  **[DE]** Two‑pan flow: Stagger pans by a few seconds so you can flip/plate one while prepping the next.
-3.  **[DE]** Doneness windows: Grab at the edge of “perfect” for score bonuses; learn visual/audio tells.
-4.  **[DE]** Multi‑orders: Group similar styles to reuse pan state and reduce clean cycles.
-5.  **[DE]** Upgrades: Prioritize extra pan and faster prep over décor.
+### Fortgeschrittene Tipps
 
-### Controls Guide
+- **Pufferteller:** Stelle Teller in Herdnähe bereit, damit du bei
+  Bestellspitzen weniger Wege zurücklegen musst.
+- **Früh abbrechen:** Wenn etwas übergart, wirf es lieber schnell weg, statt
+  eine harte Strafe fürs Servieren zu kassieren.
+- **Komborouten:** Serviere zwei bis drei Gerichte direkt hintereinander, um
+  Trinkgeld-Multiplikatoren mitzunehmen.
 
-- Tap to crack/whisk/season; drag to pan/plate; tap customer to serve.
-- Pause/Retry in the UI between shifts.
+### Häufige Fragen (FAQ)
 
-### Advanced Tips
+- **F: Ich lasse Essen ständig anbrennen – was mache ich falsch?**  
+  **A:** Versetze deine Pfannen um 3–4 Sekunden, erledige kurze Vorbereitungen
+  in den Pausen und höre auf das Brutzeln, um den richtigen Moment zu
+  erwischen.
 
-- Buffer trays: Stage plates near the pass so you spend less movement when orders spike.
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+- **F: Welches Upgrade zuerst?**  
+  **A:** Zusätzliche Pfanne > schnellere Vorbereitung > größere Warteschlange.
+  Deko ist eher fürs Endgame.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep burning items — how to fix?
-
-A: Stagger pans by 3–4 seconds, do short prep during the gap, and focus on auditory sizzle cues.
-
-- Q: Which upgrade first?
-
-A: Extra pan > faster prep > queue size. Décor is endgame.
-
-- Q: Any trick for omelets with fillings?
-
-A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
+- **F: Gibt es einen Trick für Omeletts mit Füllung?**  
+  **A:** Schneide Füllungen in ruhigen Phasen vor, gib sie früh in die Pfanne
+  und falte das Omelett beim ersten "gestockt"-Moment, damit nichts herausläuft.

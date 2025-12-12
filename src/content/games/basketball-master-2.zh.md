@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: basketball-master-2
-title: '[ZH TRANSLATION NEEDED] Basketball Master 2'
+title: Basketball Master 2 篮球大师 2
 description: >-
-  [ZH TRANSLATION NEEDED] Show off your basketball skills in Basketball Master
-  2. Aim, shoot, and score in this fun and challenging basketball game.
+  在《Basketball Master 2（篮球大师 2）》中，通过拖动瞄准、控制力度，把篮球穿过各种障碍精准投入篮筐。这篇指
+  南会帮你掌握投篮手感、破坏木板与冰块的技巧，以及如何稳定打出高分。
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/basketball-master-2.png
 tags:
@@ -17,24 +17,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Basketball Master 2 is a sports game focused on training basketball shooting skills. The core gameplay involves tapping and dragging to aim your shot to get the ball into the basket. You can even break through wood and ice blocks by shooting the ball with more power.
+*Basketball Master 2* 本质上是一款专注于“投篮手感”的休闲体育游戏。你需要通过按住并拖动来设定投篮的方向和力度，让篮球在合适的弧线下精准落入篮筐。
 
-### Gameplay Strategy & Walkthrough
+关卡设计会不断加入木板、冰块等障碍物：有的挡在篮筐正前方，需要你用更大的力度将球砸碎；有的则要求你走高弧线，绕过障碍后再落进篮筐。随着关卡推进，你既要读懂物理弹道，也要预判球与障碍物的碰撞效果，才能在有限次数内完成目标。
 
-1.  **Aim and Shoot:** Tap and drag to control the aim and power of your shots.
-2.  **Break Obstacles:** Use more power to break through wood and ice blocks that may be in your way.
-3.  **Practice:** The key to mastering the game is to practice your shots and get a feel for the physics of the game.
+### 游戏策略与通关思路
 
-### Controls Guide
+1.  **先找稳定的“基准弧线”：**  
+    在一关开始时，不要急着一味追求一次过关。先用 1～2 次投篮试出一个你最舒服的基础弧线与力度——这个“基准手感”会成为后续微调的参照。
+2.  **善用力度破坏障碍：**  
+    面对木板、冰块等挡路物体时，适当加大力度、让球以更直更快的轨迹撞击，可以更容易击碎障碍。击碎后，再用略小的力度和更高的弧线去完成稳妥进球。
+3.  **多练习读懂物理反馈：**  
+    游戏物理并非完全随机，同样的起始角度和力度，往往会得到类似的弹道。每一次投篮都是“收集数据”的过程——注意球是短了、长了，还是偏左偏右，下次投篮只做**小幅调整**，不要把角度与力度改动得太大。
 
-*   **Mouse/Touch:** Tap and drag to aim and shoot the ball.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+*   **鼠标 / 触摸：** 按住篮球并拖动，用拖动方向决定投篮方向，用拖动距离控制力度，松手即可出手。
 
-*   **Q: How do I get more points?**
-     *   **A:** Making consecutive shots and breaking obstacles can award you with more points.
-*   **Q: What is the best way to shoot?**
-     *   **A:** The best way to shoot depends on the level. Sometimes you need a high arc to get over obstacles, and other times you need a powerful shot to break through them.
-
+### 常见问题解答（FAQ）
+*   **问：怎样拿到更高的分数？****
+    *   答：** 连续命中会带来更高的得分奖励，同时，一些关卡会为击碎障碍或高难度投篮（如打板入筐）额外加分。尽量避免“无意义的试投”，在每次出手前想好目标线路。
+*   **问：最稳的投篮方式是什么？****
+    *   答：** 没有通吃所有关卡的唯一手法。遇到高墙或复杂障碍时，高弧线可以帮助你从上方绕过；而需要砸碎木板、冰块时，则需要更平、更有力量的投篮。理解关卡意图后，再在那一关内找到一条自己可以稳定复现的弧线，是最稳妥的打法。

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: crossword-puzzle
-title: '[ES] Crossword Puzzle'
+title: "Crossword Puzzle"
 description: >-
-  [ES] Crossword Puzzle is a classic word game: fill the grid using across and
-  down clues to complete the puzzle.
+  Crossword Puzzle es un crucigrama clásico: rellena la cuadrícula usando las
+  definiciones en horizontal y vertical hasta completar el tablero.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/crossword-puzzle.jpg
 tags:
@@ -15,34 +15,60 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Un crucigrama es una cuadrícula de letras que se resuelve rellenando las
+respuestas en horizontal (across) y vertical (down) a partir de las definiciones
+numeradas. En los crucigramas de estilo estadounidense, todas las letras están
+comprobadas por una palabra que cruza y las rejillas suelen tener simetría
+rotacional; las dimensiones típicas son 15×15 en los diarios y 21×21 en las
+grandes ediciones de domingo. Las variantes británicas o crípticas usan otros
+formatos de cuadrícula y convenciones de pista.
 
-### Overview
-A crossword puzzle is a word grid solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is checked by an intersecting word and grids typically have rotational symmetry; daily puzzles are often 15×15 and Sunday‑size 21×21. British/cryptic styles feature different clue conventions and grid patterns. 
+### Cómo jugar
 
-### How to Play
-- Select a clue or cell, then type letters to fill the entry.
-- Use arrow keys to move between cells; Backspace deletes; Enter or Tab often switches direction or advances to the next clue (varies by host).
-- Cross‑checking: use intersecting letters to confirm uncertain answers.
-- Many online versions provide Check/Reveal/Undo tools and timers.
+- Selecciona una pista o una casilla y escribe letras para rellenar la
+  respuesta.
+- Usa las flechas del teclado para moverte entre casillas; la tecla Backspace
+  borra, y Enter o Tab suelen cambiar la dirección o saltar a la siguiente pista
+  (dependiendo del sitio donde juegues).
+- Apóyate en las letras que se cruzan para confirmar respuestas dudosas.
+- Muchas versiones en línea incluyen herramientas de Comprobar/Revelar, botón de
+  Deshacer y temporizadores.
 
-### Controls
-- Type A–Z to enter letters; arrow keys navigate.
-- Backspace: delete previous letter.
-- Enter/Tab: toggle direction or jump to next clue (site‑dependent).
-- Mouse/touch: tap a clue list item to focus its entry.
+### Controles
 
-### Tips and Strategies
-- Start with fill‑in‑the‑blank clues and plural/tense indicators (-S, -ED, -ING).
-- Use cross letters to break tough entries; revisit long themers after filling nearby downs.
-- Learn common abbreviations and crosswordese (abbr., init., alt. spellings).
-- For cryptic/British styles, parse definition + wordplay components and indicator words.
+- Teclas A–Z para introducir letras; flechas para desplazarte por la cuadrícula.
+- Backspace: borrar la letra anterior.
+- Enter/Tab: cambiar de dirección o avanzar a la siguiente pista (según la web).
+- Ratón/táctil: toca en una pista de la lista para enfocar su entrada
+  correspondiente.
 
-### FAQ
-- Q: What’s the difference between American and British crosswords?
-A: American grids usually have all letters cross‑checked and rotational symmetry; British cryptics use wordplay‑based clues and often allow unchecked letters.  
-- Q: What size is a typical daily puzzle?
-A: Common sizes are 15×15 daily and 21×21 on Sundays (varies by publisher).  
-- Q: Are diacritics or punctuation required?
-A: Most crosswords ignore punctuation and accents; fill letters only unless specified.  
+### Consejos y estrategias
 
+- Empieza por las pistas más sencillas, como frases incompletas, plurales o
+  terminaciones típicas en inglés como -S, -ED, -ING.
+- Usa las letras cruzadas para desbloquear respuestas difíciles; vuelve a las
+  entradas largas cuando ya tengas cruces.
+- Aprende abreviaturas habituales y "palabros" típicos de crucigrama (siglas,
+  iniciales, ortografías alternativas).
+- Para estilos crípticos/británicos, separa la parte de definición de la parte
+  de juego de palabras y presta atención a los indicadores.
+
+### Preguntas frecuentes (FAQ)
+
+- P: ¿En qué se diferencian los crucigramas estadounidenses de los británicos?
+  
+  R: Los estadounidenses suelen tener todas las letras cruzadas y rejillas con
+  simetría rotacional; los crípticos británicos se basan en juegos de palabras y
+  permiten más letras sin cruzar.
+
+- P: ¿Qué tamaño suele tener un crucigrama diario?
+  
+  R: Lo más habitual son 15×15 en diarios y alrededor de 21×21 los domingos
+  (varía según el medio).
+
+- P: ¿Tengo que escribir tildes o signos de puntuación?
+  
+  R: La mayoría de crucigramas ignoran puntuación y tildes; normalmente solo se
+  rellenan letras, salvo que se indique lo contrario.

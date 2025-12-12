@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: funny-shooter-2
-title: '[ZH TRANSLATION NEEDED] Funny Shooter 2'
+title: "Funny Shooter 2 奇葩射擊 2"
 description: >-
-  [ZH TRANSLATION NEEDED] Wave‑based FPS: blast bizarre enemies with an
-  expanding arsenal, earn coins, and upgrade weapons between stages.
+  波次制第一人稱射擊：用越來越誇張的武器對付各種奇怪敵人，
+  賺取金幣，在關卡之間升級火力與裝備。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/funny-shooter-2.jpg
 tags:
@@ -17,26 +17,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Arena waves of oddball foes. Survive rounds, complete objectives, and spend earnings on better weapons and utilities.
+
+在《Funny Shooter 2》中，你會被丟進一個充滿奇形怪狀敵人的小型戰場，
+一波又一波的敵人會從四面八方湧上來。你的目標是在每一回合中存活下來、完成指定目標，
+並利用所得的金幣購買更強的武器與輔助道具，讓之後的波次更好應對。
 
 ### How to Play
-- Keep moving; circle‑strafe and kite large groups.
-- Prioritize ranged threats and explosive carriers.
-- Buy DPS upgrades first, then survivability.
+
+- 保持移動，不要原地站樁射擊。繞圈走位（circle‑strafe）與風箏走位是面對大群敵人的關鍵。
+- 優先處理遠程射手與會造成爆炸傷害的敵人，其次再清理近戰雜兵。
+- 在商店中先投資提升輸出（DPS）的武器與強化，再考慮護甲或生命上限，
+  火力跟不上時往往比血量不足更危險。
 
 ### Controls
-- WASD to move, Mouse to aim/shoot; R reload; 1–3 switch weapons; Shift sprint (host dependent).
+
+- WASD 控制移動，滑鼠控制瞄準與射擊；
+- R 重新裝填；
+- 1–3 切換不同武器；
+- Shift 進行衝刺（視託管版本而定）。
 
 ### Tips
-- Aim for headshots; enemies are bullet‑spongy at higher waves.
-- Use corners to funnel mobs; avoid getting surrounded.
-- Save explosives for clustered spawns.
+
+- 儘量瞄準頭部或弱點，特別是在高波次時，敵人血量很厚，爆頭可以大幅節省彈藥。
+- 利用轉角、門口等狹窄位置，把敵人集中在一條線上，避免被包抄；
+  也方便使用範圍型武器一次清掉一大群。
+- 手榴彈與其他爆炸物要留給敵人大量刷新的時間點使用，
+  隨便亂丟只會浪費最寶貴的範圍傷害資源。
 
 ### FAQ
-- Q: How do I unlock new guns?  
-[ZH TRANSLATION NEEDED]   A: Purchase them using coins gained from completing waves.
-- Q: Are there bosses in the game?  
-[ZH TRANSLATION NEEDED]   A: Many versions include periodic boss waves with unique mechanics.
-- Q: Can I change sensitivity?  
-[ZH TRANSLATION NEEDED]   A: Most hosts provide a settings menu for sensitivity and FOV.
 
+- 問：怎麼解鎖新武器？  
+  答：通過波次與完成關卡後可獲得金幣，到商店或升級介面中使用金幣購買新槍與模組。
+
+- 問：遊戲裡有 Boss 戰嗎？  
+  答：很多版本會在特定波次加入 Boss 或精英敵人，通常血量與攻擊方式都與普通怪物不同，需要特別應對。
+
+- 問：可以調整滑鼠靈敏度與視野嗎？  
+  答：大部分託管版本都提供設定選單，可調整靈敏度、FOV 等視覺與操作參數，建議先調到自己順手再正式開打。

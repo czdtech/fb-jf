@@ -1,62 +1,40 @@
 ---
+title: "Clash of Warriors クラッシュ・オブ・ウォリアーズ"
+description: "「Clash of Warriors」は短時間で遊べるコンパクトなカードバトル。マナカーブを意識し、有利な交換を繰り返し、戦略で相手を打ち負かせ。"
+iframeSrc: "https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/"
+thumbnail: "/new-images/clash-of-warriors.png"
+urlstr: "clash-of-warriors"
+score: "3.9/5  (1668 votes)"
+tags: ["card", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: clash-of-warriors
-title: '[JA TRANSLATION NEEDED] Clash of Warriors'
-description: >-
-  [JA TRANSLATION NEEDED] Clash of Warriors is a compact card battler — curve
-  your plays, trade efficiently, and outthink opponents.
-iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
-thumbnail: /new-images/clash-of-warriors.png
-tags:
-  - card
-  - thinky
-score: 3.9/5  (1668 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Clash of Warriors（クラッシュ・オブ・ウォリアーズ）*は、カードバトルの醍醐味を短いラウンドに凝縮したタクティカルゲームです。ハースストーンやシャドウバースのような本格的なカードゲームの要素を持ちつつ、ブラウザで手軽に遊べるように設計されています。効率的なプレイでテンポを掴み、相手の行動を読み、盤面を支配して勝利を掴み取りましょう。
 
-[JA TRANSLATION NEEDED] Clash of Warriors condenses card combat into short, tactical rounds. Build tempo with efficient plays, read enemy responses, and secure board control to win tight matches.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **マナカーブを守る:** 毎ターン、与えられたリソース（マナやコスト）を使い切るようにカードをプレイしましょう。無駄なく動くことが勝利への第一歩です。
+2.  **有利なトレード:** 自分の強いカードを残しつつ、相手の脅威となるカードを除去するような交換（トレード）を心がけましょう。
+3.  **勝利条件:** 自分のデッキが速攻（アグロ）向きなのか、後半勝負（コントロール）向きなのかを理解し、それに合ったプレイングをしましょう。
+4.  **テックカード:** 特定の強力な敵に対する対策カード（テックカード）をデッキに入れておくと、不利な状況を覆せるかもしれません。
+5.  **マリガン（手札交換）:** 最初のターンから動けるように、低コストのカードを手札に残すようにしましょう。
 
-[JA TRANSLATION NEEDED] 1.  Curve discipline: Spend all resources cleanly each turn.
-[JA TRANSLATION NEEDED] 2.  Efficient trades: Favor lines that remove enemy threats while preserving yours.
-[JA TRANSLATION NEEDED] 3.  Win conditions: Identify your path (aggro/tempo/control) and play to it.
-[JA TRANSLATION NEEDED] 4.  Tech picks: Include answers to common threats if deckbuilding exists.
-[JA TRANSLATION NEEDED] 5.  Mulligan (if any): Seek early curve pieces.
+### 操作ガイド
 
-### Controls Guide
+*   **プレイ:** カードをクリック（タップ）してフィールドに出します。攻撃や能力の使用もクリックで行います。
+*   **情報確認:** カードにカーソルを合わせる（またはタップする）と、効果やステータスの詳細が表示されます。
 
-- Play cards by clicking/tapping; end turns via UI.
-- Hover/tap to inspect text.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 運ゲーですか？**
+    *   **A:** カードを引く運（ドロー運）はありますが、どの順番でカードを出すか、どこを攻撃するかといった戦略が勝敗を大きく左右します。
 
-- Is RNG decisive? Draws matter, but lines and sequencing win close games.
-- Pay‑to‑win? Browser versions are typically self‑contained.
-- Fast mode? Short matches suit quick sessions.
+*   **Q: 課金しないと勝てませんか？**
+    *   **A:** ブラウザ版の多くは無課金で完結するようにバランス調整されており、プレイを重ねることでカードを入手できます。
 
-
-
-
-
-
-
-
-
-- Fast mode? Short matches suit quick sessions.
-- Pay‑to‑win? Browser versions are typically self‑contained.
-- Is RNG decisive? Draws matter, but lines and sequencing win close games.
-### よくある質問（FAQ）
-- Hover/tap to inspect text.
-- Play cards by clicking/tapping; end turns via UI.
-### コントロールガイド
-
-
-
-
-- Fast mode? Short matches suit quick sessions.
-- Pay‑to‑win? Browser versions are typically self‑contained.
-- Is RNG decisive? Draws matter, but lines and sequencing win close games.
+*   **Q: 1試合の時間は？**
+    *   **A:** 非常に短く、数分で終わるように設計されているため、隙間時間のプレイに最適です。

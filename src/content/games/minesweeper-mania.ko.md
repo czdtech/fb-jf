@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: minesweeper-mania
-title: '[KO] Minesweeper Mania'
+title: Minesweeper Mania 마인스위퍼 매니아
 description: >-
-  [KO] The classic logic puzzle, reimagined! Use number clues to locate all the
-  hidden mines on the board. With multiple difficulty levels, it's the ultimate
-  test of deduction.
+  Minesweeper Mania는 클래식 마인스위퍼를 다듬어 여러 난이도로 재구성한 버전으로, 숫자 힌트를 이용해 숨겨진 지뢰를 찾아내는
+  논리 추리 퍼즐입니다.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/minesweeper-mania.png
 tags:
@@ -18,32 +17,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Minesweeper Mania*는 고전 마인스위퍼를 보다 매끄럽게 다듬고, 여러 난이도 옵션을 추가한
+싱글 플레이 논리 퍼즐입니다. 직사각형 격자에 지뢰가 숨겨져 있고, 플레이어는 지뢰를
+밟지 않으면서 모든 안전한 칸을 여는 것이 목표입니다. 공개된 숫자는 주변 8칸에 몇 개의
+지뢰가 있는지를 알려 주며, 이 정보만을 바탕으로 지뢰 위치를 추리해야 합니다. 난이도별
+보드가 제공되어 입문자부터 숙련자까지 모두 새로운 도전을 즐길 수 있습니다.
 
-Minesweeper Mania is a polished version of the timeless single-player logic puzzle, Minesweeper. The objective is to clear a rectangular grid containing hidden mines without detonating any of them. You must use the number clues revealed on the board to deduce where the mines are. Each number tells you how many mines are in the eight adjacent squares. This version offers multiple difficulty levels, providing a fresh challenge for both new players and seasoned veterans.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **첫 클릭은 항상 안전:** 첫 클릭은 지뢰가 아니므로, 모서리와 중앙을 몇 군데 눌러
+   넓은 영역을 한 번에 열어 두면 좋은 출발이 됩니다.
+2. **패턴 익히기:** 마인스위퍼의 핵심은 숫자 패턴입니다. 예를 들어, 숫자 "1" 옆에
+   딱 한 칸만 가려져 있다면 그 칸은 지뢰가 확실하므로 깃발을 꽂을 수 있습니다.
+3. **깃발 적극 활용:** 지뢰가 확실한 칸은 오른쪽 클릭으로 깃발을 꽂아 두면, 나중에
+   실수로 클릭할 위험을 줄이고 전체 상황 파악이 쉬워집니다.
+4. **차핑으로 속도 올리기:** 어떤 숫자를 둘러싼 칸들에 그 숫자만큼 깃발이 꽂혀 있다면,
+   그 숫자를 다시 클릭(또는 가운데 클릭/좌우 동시 클릭)해 주변의 나머지 칸을 한 번에
+   열 수 있습니다. 큰 안전 지대를 빠르게 여는 데 유용하지만, 깃발이 틀리면 그대로
+   폭발하니 주의하세요.
+5. **소거법 활용:** 확실히 안전한 칸을 찾기 어려울 때는, "이 칸이 지뢰라고 가정했을 때
+   주변 숫자들과 모순이 생기는가?"를 스스로 물어보며 가능성을 하나씩 지워 나가면
+   안전 칸을 찾아낼 수 있습니다.
 
-1.  **[KO]** **The First Click is Free:** Your first click in any game is always safe and will never be a mine. A good start is to click a few times in the corners and center to open up the board.
-2.  **[KO]** **Learn the Patterns:** The core of Minesweeper is recognizing patterns. If a square says "1" and there is only one unopened square next to it, that square must be a mine. Flag it!
-3.  **[KO]** **Use Flags:** When you are certain a square contains a mine, right-click to flag it. This is crucial for keeping track of information and preventing accidental clicks on known mines.
-4.  **[KO]** **Chord-Clicking for Speed:** Once a numbered square is touching the correct number of flagged mines, you can click on the number itself (often a middle-click or left+right click) to automatically clear all other remaining adjacent squares. This is the fastest way to clear large safe areas.
-5.  **[KO]** **Process of Elimination:** If you can't find a definite safe square, use logic to eliminate possibilities. Ask yourself, "If this square were a mine, would it make sense with the numbers around it?" This can help you deduce safe squares to click.
+### 조작 방법
 
-### Controls Guide
+* **칸 열기:** 마우스 왼쪽 버튼으로 가려진 칸 클릭
+* **깃발 표시:** 마우스 오른쪽 버튼으로 깃발을 꽂거나 제거
 
-*   **[KO]** **Reveal a Square:** Left-click on a covered square.
-*   **[KO]** **Flag a Square:** Right-click on a covered square to place or remove a flag.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 숫자는 정확히 무엇을 의미하나요?**  
+  **A:** 해당 칸을 둘러싼 8칸(가로·세로·대각선)에 몇 개의 지뢰가 있는지를 정확히
+  나타냅니다.
 
-*   **[KO]** **Q: What do the numbers mean?**
-    *   **[KO]** **A:** A number on a square indicates the exact number of mines in the eight squares immediately surrounding it (horizontally, vertically, and diagonally).
+    - **Q: 지뢰 칸을 클릭하면 어떻게 되나요?**  
+  **A:** 즉시 패배 처리되며, 전체 지뢰 위치가 공개됩니다.
 
-*   **[KO]** **Q: What happens if I click on a mine?**
-    *   **[KO]** **A:** The game ends immediately in a loss.
+* **Q: 깃발을 꼭 사용해야 하나요?**  
 
-*   **[KO]** **Q: Do I have to use flags?**
-    *   **[KO]** **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
+    - **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
 
+- **Q: Do I have to use flags?**
+
+    - **A:** The game ends immediately in a loss.
+  **A:** 필수는 아닙니다. 깃발은 어디에 지뢰가 있을지 기억하기 위한 도구일 뿐이며,
+  실제 승리 조건은 지뢰가 없는 모든 칸을 여는 것입니다.

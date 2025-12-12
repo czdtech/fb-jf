@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: arctic-pong
-title: '[ZH TRANSLATION NEEDED] Arctic Pong'
-description: >-
-  [ZH TRANSLATION NEEDED] Arctic Pong is a frosty paddle duel — angle returns,
-  control pace, and outscore your opponent.
+title: Arctic Pong 北极乒乓
+description: 《Arctic Pong（北极乒乓）》是一款冰雪主题的简约乒乓对战游戏，通过移动挡板接回冰球、改变反弹角度，以节奏和走位压制对手、赢下比分。
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/arctic-pong.png
 tags:
@@ -16,26 +14,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Arctic Pong is a simple, chilly spin on classic Pong. Move your paddle to return the puck, angle shots off edges, and pressure your opponent with pace and placement.
+*Arctic Pong（北极乒乓）* 是一款在冰面场景下进行的轻量级乒乓对战游戏。你需要控制自己的挡板，反弹来回飞驰的冰球，通过改变击球落点与角度来打乱对手节奏，在有限时间里拿到更多得分。
 
-### Gameplay Strategy & Walkthrough
+节奏简单直观，但想要稳定取胜，需要你控制好站位、判断反弹路线，并用“变速 + 变线”的方式不断给对手制造失误。
 
-1.  瞄准角落：在挡板边缘附近击球以改变回球角度。
-2.  混合速度：轻触然后快速驱动可以诱使对手失误。
-3.  中心恢复：每次击球后返回中心以覆盖两侧。
-4.  阅读反弹：预测墙壁角度以更早地预先定位。
-5.  发球控制：使用发球来设置早期压力。
+### 游戏策略与攻略
 
-### 控制指南
+1.  **优先打边角：** 在挡板靠近边缘的位置回球，可以让冰球以更刁钻的角度反弹到对手侧边，迫使对方跑位。
+2.  **节奏快慢交替：** 有意识地交替使用轻推和快速回击，让对手难以预测下一拍的速度，增加对面漏接的概率。
+3.  **每拍后回到中路：** 完成一次回球后，尽量把挡板移回中间位置，这样无论下一拍往左还是往右，都能有足够反应时间。
+4.  **提前读墙面反弹：** 观察冰球击中侧墙后的反弹方向，提前把挡板移动到大致落点，而不是等球过半场才开始追。
+5.  **发球主动施压：** 合理利用发球机会，一上来就把球送往对手难以接到的位置，为后续拉锯战抢占心理优势。
 
-- Move paddle: Arrow keys / WASD or drag.
-- Modes: Local 2‑player and solo vs. AI are common.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+- 使用方向键、WASD 或拖动控制挡板在场地边缘上下/左右移动（具体视版本而定）。
+- 部分版本支持本地双人对战，也有单人对 AI 模式，可以根据喜好选择。
 
-- Is there spin? Some versions approximate angle via contact point; no complex spin.
-- Best defense? Stay centered and react to edge bounces.
-- Quick wins? Vary angles and tempo to force mistakes.
-
+### 常见问题解答（FAQ）
+*   **问：有没有旋转效果？****
+    *   答：** 多数版本通过击中挡板不同位置来模拟角度变化，但不会有复杂的真实旋转物理。
+*   **问：防守时最稳的站位是哪儿？****
+    *   答：** 保持在中间偏内侧位置，观察冰球打到边线后的反弹，再进行微调移动。
+*   **问：想快速赢，有什么建议？****
+    *   答：** 多利用边线角度和节奏变化，让对手在来回跑动中更容易失误，而不是一味直线对拉。

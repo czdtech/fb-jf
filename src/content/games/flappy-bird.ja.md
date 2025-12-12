@@ -1,42 +1,36 @@
 ---
+title: "Flappy Bird"
+description: "タップで羽ばたくエンドレスランナー：鳥を誘導して土管の隙間をくぐり抜け、障害物に触れずにスコアを伸ばしましょう。"
+iframeSrc: "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
+thumbnail: "/new-images/flappy-bird.jpg"
+urlstr: "flappy-bird"
+score: "3.6/5  (297 votes)"
+tags: ["arcade", "endless-runner"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: flappy-bird
-title: '[JA TRANSLATION NEEDED] Flappy Bird'
-description: >-
-  [JA TRANSLATION NEEDED] Tap‑to‑flap endless runner: guide the bird through
-  pipe gaps to increase your score without touching obstacles.
-iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
-thumbnail: /new-images/flappy-bird.jpg
-tags:
-  - arcade
-  - endless-runner
-score: 3.6/5  (297 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+ワンタップで挑むアーケードチャレンジ：タップするたびに鳥が上昇し、離すと下降します。土管のペアを通過するごとに1ポイント獲得できます。
 
+### 遊び方
+- 短いタップで一定のリズムを保ちましょう。隙間を抜けるたびに素早く調整してください。
+- 上の唇（突起）近くでタップするのは避け、回復のためのスペースを空けておきましょう。
+- 現在の隙間ではなく、次の隙間に集中しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Single‑tap arcade challenge: each flap lifts the bird; release to descend. Passing a pipe pair earns one point.
+### 操作方法
+- マウス/タッチ/スペースキー：タップして羽ばたく。
 
-### How to Play
-- Keep a steady rhythm of short taps; adjust quickly after each gap.
-- Avoid tapping near the top lip; give space for recovery.
-- Focus on the next gap, not the current one.
+### ヒント
+- 微調整には小さなタップを使い、緊急時のみ大きなタップを使いましょう。
+- 失敗したランを追いかけないでください。リズムが崩れたらリセットしましょう。
+- 気を散らすものは無効にしましょう。遅延（ラグ）はタイミングに影響します。
 
-### Controls
-- Mouse/Touch/Space: tap to flap.
-
-### Tips
-- Use tiny taps for micro‑corrections; big taps only for emergencies.
-- Don’t chase lost runs—reset if your rhythm breaks.
-- Disable distractions; latency affects timing.
-
-### FAQ
-- Q: Why does the bird hit the top after a flap?  
-[JA TRANSLATION NEEDED]   A: Taps are too strong or too frequent; use lighter, spaced taps.
-- Q: Is there an end to the game?  
-[JA TRANSLATION NEEDED]   A: No, it is an endless score chase.
-- Q: Does the speed change over time?  
-[JA TRANSLATION NEEDED]   A: Most versions keep constant speed and difficulty.
-
+### よくある質問 (FAQ)
+- **Q: 羽ばたいた後に鳥が上にぶつかるのはなぜですか？**  
+  A: タップが強すぎるか、頻繁すぎます。より軽く、間隔を空けたタップを使いましょう。
+- **Q: ゲームに終わりはありますか？**  
+  A: いいえ、これは終わりのないスコアアタックです。
+- **Q: 時間とともにスピードは変化しますか？**  
+  A: ほとんどのバージョンでは、スピードと難易度は一定に保たれます。

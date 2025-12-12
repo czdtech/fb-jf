@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: ping-pong
-title: '[DE] Ping Pong'
+title: "Ping Pong"
 description: >-
-  [DE] Ping Pong is a classic arcade sports game where two players control
-  paddles to hit a ball back and forth across a screen, aiming to score points
-  by making the opponent miss the ball.
+  Ping Pong ist ein klassisches Arcade-Sportspiel: Zwei Spieler steuern je ein
+  Paddle und schlagen den Ball hin und her, um Punkte zu erzielen, wenn der
+  Gegner den Ball verfehlt.
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/ping-pong.jpg
 tags:
@@ -17,31 +17,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Ping Pong" ist ein einfacher, aber zeitloser Arcade-Klassiker. Zwei Spieler –
+ oder du gegen eine KI – steuern je ein Paddle und schlagen den Ball über den
+ Bildschirm. Wer es schafft, den Ball am Paddle des Gegners vorbeizuspielen,
+ sammelt Punkte. Durch die leicht verständliche Steuerung und das hohe Tempo
+ eignet sich das Spiel sowohl für kurze Pausen als auch für hitzige Duelle.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Paddle kontrollieren:** Bewege dein Paddle flüssig, damit du sowohl
+    langsame als auch schnelle Bälle sicher erreichst.
+2.  **Winkel variieren:** Je nachdem, wo und in welcher Bewegung du den Ball
+    triffst, ändert sich seine Flugbahn. Nutze das, um unberechenbare Winkel zu
+    erzeugen.
+3.  **Gegner lesen:** Beobachte, welche Bälle deinem Gegner besonders schwer
+    fallen – etwa hohe, schnelle oder flache Bälle – und spiele gezielt dorthin.
+4.  **Angriff & Verteidigung ausbalancieren:** Sichere zuerst deine eigene
+    Abwehr, suche dann gezielt nach Gelegenheiten, den Ball so zu platzieren,
+    dass dein Gegner ins Leere greift.
 
-"Ping Pong" is a classic arcade sports game. Two players (or one player against AI) each control a paddle to hit a ball back and forth across the screen, aiming to score points by making the opponent miss the ball. The game is known for its simple and intuitive gameplay and fast pace, making it an excellent choice for casual entertainment and competitive matchups.
+### Steuerung
 
-### Gameplay Strategy
+*   **Paddle bewegen:** Meist steuerst du dein Paddle mit den Pfeiltasten hoch
+    und runter oder per Mausbewegung auf der vertikalen Achse.
 
-1.  **[DE]** **Control the Paddle**: Move your paddle flexibly to ensure you can hit the incoming ball.
-2.  **[DE]** **Adjust Angle**: By changing the paddle's position and movement direction when hitting the ball, you can alter the ball's flight angle and speed.
-3.  **[DE]** **Anticipate Opponent**: Observe your opponent's hitting habits and movement patterns to predict where the ball will land.
-4.  **[DE]** **Balance Offense and Defense**: While defending, look for opportunities to hit tricky shots that are difficult for your opponent to return.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Move Paddle**: Typically use keyboard arrow keys (up/down) or the mouse to control the paddle's vertical movement on the screen.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: What is the objective of the "Ping Pong" game?**
-**A**: The objective is to score points by getting the ball past your opponent's paddle area. The first player to reach a predetermined score usually wins.
-2.  **[DE]** **Q: Are there different difficulty levels in the game?**
-**A**: Many versions of Ping Pong games offer different difficulty levels, mainly reflected in the AI opponent's reaction speed and hitting skills.
-3.  **[DE]** **Q: How can I hit the ball more powerfully with the paddle?**
-**A**: The hitting power of the paddle is usually fixed, but you can influence the ball's speed and angle by changing the point of contact.
-4.  **[DE]** **Q: Can this game be played in two-player mode?**
-**A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
+1.  **F: Was ist das Ziel von "Ping Pong"?**
+    **A:** Du versuchst, mehr Punkte zu erzielen als dein Gegner, indem du den
+    Ball an seinem Paddle vorbeispielst. Wer zuerst eine bestimmte Punktzahl
+    erreicht, gewinnt das Match.
+2.  **F: Gibt es verschiedene Schwierigkeitsgrade?**
+    **A:** Viele Umsetzungen bieten mehrere KI-Stufen, die sich vor allem in
+    Reaktionsgeschwindigkeit und Präzision unterscheiden.
+3.  **F: Kann ich härter schießen?**
+    **A:** Die Schusskraft ist meist fest, aber du kannst Geschwindigkeit und
+    Richtung beeinflussen, indem du den Ball an unterschiedlichen Stellen des
+    Paddles triffst oder dich beim Schlag bewegst.
+4.  **F: Gibt es einen Zwei-Spieler-Modus?**
+    **A:** Ja, klassische Ping-Pong-Spiele erlauben in der Regel lokalen
+    Mehrspieler-Modus für zwei Personen am selben Gerät.

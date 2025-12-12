@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: hide-and-seek
-title: '[ZH TRANSLATION NEEDED] Hide And Seek!'
-description: >-
-  [ZH TRANSLATION NEEDED] Casual stealth‑tag: as a hider, blend and collect; as
-  a seeker, use vision cones and sprints to catch everyone before time runs out.
+title: "《Hide And Seek!》躲猫猫大追捕"
+description: "《Hide And Seek!》是一款休闲潜行捉迷藏游戏：扮演躲藏者时混入人群、一边收集道具一边完成目标；扮演寻找者时则靠视野锥、冲刺和观察移动轨迹，在倒计时结束前把所有玩家揪出来。"
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/hide-and-seek.jpg
@@ -17,27 +15,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Hide and Seek! adapts playground tag into top‑down stealth. Hiders blend among NPCs, gather items, and finish objectives while avoiding the seeker’s patrol. As the seeker, you watch movement patterns, use sprints or gadgets, and flush out suspicious players before the timer ends.
+### 游戏概述
 
-### How to Play
-- As a hider: move with the crowd, complete tasks, and break line‑of‑sight when chased.
-- As a seeker: learn map chokepoints, check objectives, and react to odd pathing.
-- Power‑ups provide short invisibility, speed, or reveals depending on mode.
+《Hide And Seek!》把童年躲猫猫搬到了俯视角的潜行游戏中。作为躲藏者时，你需要混在人群和 NPC 之间，一边悄悄收集物品、完成任务目标，一边躲开寻找者的巡逻视野；而当你扮演寻找者，则要利用视野锥、冲刺和各种小工具，通过观察行走路线和行为细节，把伪装成 NPC 的真实玩家揪出来，在时间耗尽前抓住所有目标。
 
-### Controls
-- WASD/Arrows to move; action key for power‑ups (host dependent).
+### 游戏玩法
+- 扮演躲藏者：跟着人群移动，装作闲逛顺路完成任务，一旦被盯上就想办法转角、绕障碍物，尽快切断视线。
+- 扮演寻找者：熟悉地图 choke point（瓶颈点），优先巡逻任务目标点，对走路节奏怪异、突然停顿或频繁转向的角色多加留意。
+- 合理使用道具：不同模式下，道具可能提供短暂无敌/隐身、加速，或标记/扫描敌人的能力，要根据角色身份选择最佳时机使用。
 
-### Tips
-- Hiders: mimic NPC pauses and turns; sprint only when necessary.
-- Seekers: circle objectives; real players hesitate at corners and doors.
-- Use audio/visual tells like sudden direction changes.
+### 操作说明
 
-### FAQ
-- Q: How do I avoid being caught as a hider?  
-[ZH TRANSLATION NEEDED]   A: Blend in—match NPC cadence, avoid straight sprints, and use obstacles to break vision.
-- Q: What is the best seeker strategy on new maps?  
-[ZH TRANSLATION NEEDED]   A: Patrol objectives and chokepoints first, then sweep open spaces.
-- Q: Do power‑ups respawn during a match?  
-[ZH TRANSLATION NEEDED]   A: Many modes respawn items on timers; learn locations.
+- 使用 WASD 或方向键控制移动；道具与技能键位按不同平台略有差异，一般会在界面上清晰显示可用按键。 
 
+### 实用技巧
+
+- 躲藏者：模仿 NPC 的走走停停，不要长时间直线冲刺；在角落和门口附近适当减速，看起来会更像 AI。  
+- 寻找者：多围绕任务目标和出口区域打圈，人类玩家在这些位置往往会明显犹豫；观察突然停下又急转方向的角色，往往比“完美直线”的更可疑。  
+- 充分利用声音和视觉提示，例如突然加速、转身或不合时宜的动作，都可能是玩家暴露的线索。
+
+### 常见问题（FAQ）
+
+- Q: 作为躲藏者，怎么做更不容易被抓？  
+  A: 关键是“融入人群”——尽量模仿 NPC 的节奏和行动路线，避免长时间高速奔跑，多利用转角、建筑和障碍物来打断寻找者视野，有道具时再配合短暂隐身或加速逃离。
+
+- Q: 初次作为寻找者，有没有通用打法？  
+  A: 先熟悉地图上的主要任务点和狭窄通道，优先在这些地方巡逻。观察那些在门口犹豫、绕圈或者突然改变路线的角色，比起一路直走的更值得怀疑。
+
+- Q: 道具在一局中会刷新吗？  
+  A: 很多模式都会采用计时刷新的方式，固定地点的道具在被捡走一段时间后会重新出现。记住这些刷新点的位置，可以帮助你在关键时刻抢先拿到强力道具。

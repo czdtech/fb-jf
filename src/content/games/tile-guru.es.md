@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: tile-guru
-title: '[ES] Tile Guru'
+title: "Tile Guru - Maestro de las fichas triples"
 description: >-
-  [ES] Tile Guru is a polished tile‑match — pick triples, manage stacks, and
-  clear trays without clogging lanes.
+  Tile Guru es un pulido rompecabezas de fichas triples: elige fichas, gestiona
+  la bandeja y despeja el tablero sin atascar tus pilas.
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/tile-guru.png
 tags:
@@ -14,32 +14,28 @@ score: 4.1/5  (1974 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Tile Guru utiliza la fórmula clásica de bandeja para tríos: seleccionas fichas y las envías a una bandeja con espacio limitado; cuando reúnes tres iguales, se eliminan. El reto real está en gestionar las pilas para no enterrar fichas importantes ni bloquear la bandeja.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  Controla los pares: evita abrir demasiados conjuntos a la vez; resuelve los pares que ya tienes antes de empezar nuevos.
+2.  Gestiona la profundidad: prioriza fichas superficiales y accesibles que no vayan a enterrar posibles parejas.
+3.  Mira varias jugadas por delante: planifica los próximos 2–3 toques para no llenar la bandeja sin conseguir tríos.
+4.  Usa el deshacer a tiempo: si una elección empieza a atascar la bandeja, deshazla de inmediato antes de complicar más la situación.
+5.  Reserva los poderes: guarda barajados y ayudas para cuando estés cerca de un bloqueo total.
 
-Tile Guru uses the triple‑match tray formula: pick tiles into a limited tray; three of a kind clear. The puzzle is stack management — avoid burying mismatched sets that clog the tray and force deadlocks.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Haz clic en una ficha para enviarla a la bandeja; cuando haya tres iguales, se eliminan automáticamente.
+- Utiliza los botones de pista, deshacer o barajar desde la interfaz si la versión los ofrece.
 
-1.  **[ES]** Pair discipline: Don’t start too many sets at once; resolve pairs quickly.
-2.  **[ES]** Depth control: Pull accessible tiles that won’t bury needed matches.
-3.  **[ES]** Look‑ahead: Plan the next 2–3 picks to avoid tray overflow.
-4.  **[ES]** Undo wisely: Undo immediately after a clogging pick.
-5.  **[ES]** Power‑ups: Save shuffles for near‑deadlocks.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **Q: Mi bandeja se llena demasiado rápido.**  
+  **A:** Limita la cantidad de conjuntos abiertos; intenta completar tríos con las fichas que ya tienes antes de traer más tipos nuevos.
 
-- Click tiles to add to tray; three‑of‑a‑kind clear; hints/shuffles via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: My tray fills too fast.
-
-A: Limit open sets and complete pairs before starting new ones.
-
-- Q: Which tiles first?
-
-A: Exposed, shallow tiles that won’t bury partners.
+- **Q: ¿Qué fichas debería coger primero?**  
+  **A:** Las más expuestas y poco profundas, que al retirarlas liberen otras fichas sin bloquear sus parejas.
 

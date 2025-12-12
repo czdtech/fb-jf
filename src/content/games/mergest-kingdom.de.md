@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: mergest-kingdom
-title: '[DE] Mergest Kingdom'
+title: "Mergest Kingdom"
 description: >-
-  [DE] Mergest Kingdom is a merge‑and‑build fantasy — combine tiles, complete
-  quests, and expand realms with efficient chain planning.
+  Mergest Kingdom ist ein Merge-und-Build-Fantasyspiel: Kombiniere Felder,
+  erfülle Quests und erweitere dein Königreich mit clever geplanten
+  Merge-Ketten.
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/mergest-kingdom.png
 tags:
@@ -16,34 +17,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
-### Detailed Game Introduction
+Mergest Kingdom verbindet Merge-3-Ketten mit dem Aufbau eines Königreichs.
+Du merg st Pflanzen, Steine, Artefakte und andere Ressourcen, um höhere Stufen
+zu erschaffen, Nebel zu vertreiben und neue Gebiete freizuschalten. Quests und
+Events geben dir klare Ziele, während Energie und begrenzter Platz verhindern,
+dass du wahllos merg st – durchdachte Ketten sind der Schlüssel.
 
-Mergest Kingdom combines merge‑3 chains with kingdom building. Merge plants, stones, and artifacts to craft higher tiers, clear fog, and unlock new regions. Quests and events provide targets; energy and space limit reckless merging, rewarding planned ladders.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  **3er- vs. 5er-Merge**  
+    Wenn möglich, sammle fünf gleiche Objekte und merg e sie gemeinsam, um
+    einen Extragegenstand herauszuholen. Das spart langfristig Ressourcen.
 
-1.  **[DE]** Merge‑3 vs 5: Save sets of 5 for extra yield when feasible.
-2.  **[DE]** Space staging: Keep staging zones for near‑complete sets; don’t block quest spawns.
-3.  **[DE]** Quest alignment: Prioritize merges that satisfy current quests to accelerate unlocks.
-4.  **[DE]** Energy pacing: Spend in bursts on planned chains, then idle to regenerate.
-5.  **[DE]** Event prep: Stock partial sets before events for rapid progression.
+2.  **Staging-Zonen anlegen**  
+    Richte Bereiche ein, in denen du fast vollständige Sets zwischenlagerst.
+    Achte darauf, Spawnfelder für Quests oder Event-Items nicht zu blockieren.
 
-### Controls Guide
+3.  **Quests priorisieren**  
+    Merg e bevorzugt in Richtung der aktuellen Aufgaben – so schaltest du neue
+    Bereiche und Gebäude schneller frei.
 
-- Drag to merge items; tap buildings to collect; navigate regions via map.
+4.  **Energie einteilen**  
+    Nutze Energie in geplanten Merge-Bursts und gönn dir anschließend eine
+    Pause zum Regenerieren, statt sie in kleine, planlose Aktionen zu
+    zerstreuen.
 
-### Frequently Asked Questions (FAQ)
+5.  **Event-Vorbereitung**  
+    Lege vor Events Teil-Sets an, damit du beim Start direkt mehrere Merges
+    hintereinander ausführen kannst.
 
-- Q: I run out of space.
+### Steuerung
 
-A: Consolidate into 5‑merges and sell clutter; expand land ASAP.
+- Ziehe Objekte derselben Art zusammen, um sie zu merg en.
+- Tippe auf Gebäude, um Ressourcen einzusammeln oder Produktionen zu starten.
+- Wechsle über die Karte zwischen unterschiedlichen Regionen.
 
-- Q: Energy too slow?
+### FAQ
 
-A: Plan chains, collect daily rewards, and time boosts.
+- **F: Mir geht der Platz aus – was tun?**  
+  **A:** Nutze 5er-Merges, um effizient aufzuwerten, verkaufe oder zerlege
+  unnötige Objekte und erweitere dein Land so früh wie möglich.
 
-- Q: Worth merging everything?
+- **F: Die Energie lädt zu langsam.**  
+  **A:** Plane deine Ketten im Voraus, hole dir tägliche Belohnungen ab und
+  nutze Boni gezielt, statt dauernd kleine Aktionen auszuführen.
 
-A: No — merge toward quests and buildings that unlock features.
-
+- **F: Soll ich wirklich alles merg en?**  
+  **A:** Nein. Merg e bevorzugt in Richtung von Quests und Gebäuden, die neue
+  Funktionen freischalten, statt wahllos jede Ressource hochzustufen.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-piege-simulator
-title: '[ES] Incredibox Piege Simulator'
+title: "Incredibox Piege Simulator"
 description: >-
-  [ES] Incredibox Piège Simulator this guide details its grid-based gameplay,
-  dark and atmospheric sound palette, and provides tips for creating intense
-  trap loops.
+  Incredibox Piège Simulator es un mod tipo simulador con rejilla que apuesta
+  por una paleta oscura y atmosférica al estilo trap; esta guía explica su
+  jugabilidad y cómo crear loops intensos de trap.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
 thumbnail: /new-images/incredibox-piege-simulator.png
 tags:
@@ -18,46 +18,65 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **Introducción a Incredibox Piège Simulator**
 
-### **Incredibox Piège Simulator Game Introduction**
+*Incredibox Piège Simulator* es un mod fan‑made elegante y atmosférico de la
+serie "Simulator" de Incredibox. El título "Piège" significa **"trampa" en
+francés**, una referencia directa a su enfoque en el género **trap** de la
+música urbana moderna.
 
-*Incredibox Piège Simulator* is a stylish and atmospheric fan-made game from the "Simulator" series of Incredibox mods. The title "Piège" is French for **"Trap,"** which perfectly describes the mod's musical focus on the modern **Trap music** genre.
+El juego utiliza la característica **interfaz en rejilla** de los mods
+Simulator. En lugar de arrastrar iconos sobre personajes, trabajas con una
+cuadrícula de 20 iconos de sonido coloreados en tonos verdes y azules. El
+objetivo es crear un loop trap oscuro y envolvente activando y desactivando
+estos iconos.
 
-The game utilizes the signature **grid-based interface** of the Simulator mods. Instead of dragging icons onto characters, players are presented with a grid of 20 sound icons, color-coded in shades of green and blue. The objective is to create a dark, atmospheric trap loop by clicking these icons to activate or deactivate them.
+### **Estrategia de juego y consejos**
 
+1.  **Empieza por el ritmo:** Para lograr un beat trap creíble, comienza con los
+    iconos azules. Activa un bombo contundente, una caja y un patrón de hi‑hats
+    rápido para construir el groove central.
 
-### **Gameplay Strategy & Tips**
+2.  **Añade la melodía:** Cuando el beat esté firme, pasa a los iconos verdes.
+    Suma una melodía simple, repetitiva y con un carácter oscuro. En el trap la
+    melodía suele ser menos compleja que la rítmica y sirve sobre todo para
+    marcar el ambiente.
 
-1.  **[ES]** **Start with the Rhythm**: To create an authentic trap beat, begin with the blue icons. Activate a heavy kick drum, a snare, and a rapid hi-hat pattern to establish the core groove.
+3.  **Llena la barra de LOOP:** Tu objetivo es rellenar la barra "LOOP". Esto se
+    consigue activando sonidos. Prueba diferentes combinaciones para ver cómo
+    cambian tanto el progreso como el carácter del tema.
 
-2.  **[ES]** **Layer the Melody**: Once your beat is set, move to the green icons. Add a simple, repetitive, and often dark-sounding melody. In trap music, the melody is often less complex than the rhythm, serving to create a mood.
+4.  **Crea dinámica:** Aprovecha el sistema de activar/desactivar para dar
+    forma a tus temas. Puedes montar un build‑up con solo percusión, añadir
+    melodía para el drop y después silenciar elementos para crear un breakdown,
+    imitando la estructura de una canción trap completa.
 
-3.  **[ES]** **Fill the Loop Bar**: Your goal is to fill the "LOOP" progress bar. This is achieved by activating more sounds. Experiment with different combinations to see how they affect the progress and the overall feel of the track.
+### **Guía de controles**
 
-4.  **[ES]** **Create Dynamics**: Use the click-on/click-off nature of the simulator to create dynamics. You can build up a beat, add a melody to create a hook, and then deactivate elements to create a breakdown, mimicking the structure of a real trap song.
+Este mod usa la interfaz de clics sencilla típica de la serie Simulator.
 
-### **Controls Guide**
+*   **Activar / desactivar sonido:** **Haz clic** en cualquiera de los 20 iconos
+    de la rejilla. Un icono activo se resalta y añade su sonido al loop; al
+    volver a hacer clic se silencia.
+*   **Combinar sonidos:** Puedes activar varios iconos a la vez para construir
+    tu pista.
+*   **Controles principales (arriba a la izquierda):**
+    *   **Play:** inicia o detiene todo el loop.
+    *   **Record:** empieza o termina la grabación de tu mezcla.
+    *   **Reset:** limpia todos los sonidos activos para empezar de cero.
 
-This mod uses the simple, click-based interface of the Simulator series.
+### **Preguntas frecuentes (FAQ)**
 
-*   **[ES]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will be highlighted, adding its sound to the loop. Clicking it again will turn it off.
-*   **[ES]** **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
-*   **[ES]** **Main Controls (Top Left)**:
-    *   **[ES]** **Play Button**: Toggles the entire loop on or off.
-    *   **[ES]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[ES]** **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+**1. ¿Es un juego oficial de Incredibox?**  
+No. La serie "Simulator", incluido *Piège*, son **mods fan‑made** sin relación
+oficial con los creadores de Incredibox (So Far So Good).
 
-### **Frequently Asked Questions (FAQ)**
+**2. ¿Por qué la jugabilidad es distinta al original?**  
+El estilo "Simulator" es una decisión creativa de la comunidad. La rejilla se
+adapta muy bien a géneros electrónicos como el trap, porque permite superponer
+capas rítmicas con mucha precisión.
 
-**1. Is this an official Incredibox game?**
-
-No. The "Simulator" series, including *Piège*, are **fan-made mods** and are not affiliated with the official Incredibox creators, So Far So Good.
-
-**2. Why is the gameplay different from the original?**
-
-The "Simulator" style is a creative choice by the modding community. Its grid-based interface is particularly well-suited for electronic genres like Trap, as it allows for the precise and complex layering of rhythmic elements.
-
-**3. Where can I play this mod?**
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
-
+**3. ¿Dónde puedo jugar este mod?**  
+No está en plataformas oficiales. Mods como *Piège* suelen compartirse en sitios
+como **Newgrounds**, **playfiddlebops.com** o mostrarse en YouTube con enlaces
+para jugarlos en navegador.

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: learn-to-fly
-title: '[ES] Learn To Fly'
+title: 'Learn To Fly'
 description: >-
-  [ES] Penguin launch upgrade game: adjust launch angle, glide and boost, earn
-  cash, and buy parts to fly farther each day.
+  Learn to Fly es un juego de lanzamiento por distancia sobre mejora
+  progresiva: ajusta el ángulo de despegue, planea y usa propulsores, gana
+  dinero y compra piezas para volar cada día un poco más lejos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/learn-to-fly.jpg
 tags:
@@ -15,30 +16,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Panorama general
 
+Learn to Fly es un juego de lanzamiento por distancia centrado en la mejora
+iterativa. Lanzas a un pingüino por una rampa, controlas el ángulo de vuelo
+para maximizar el planeo y usas los propulsores con cabeza. Con el dinero que
+ganas compras mejores alas, cohetes y cargas, desbloqueando nuevos objetivos y
+modos de desafío a lo largo de los días.
 
+### Cómo jugar
 
-### Overview
-Learn to Fly is a distance launcher about iterative improvement. Launch a penguin down a ramp, control pitch to maximize glide, and use boosters sparingly. Earnings buy better gliders, rockets, and payloads, unlocking new goals and challenge modes across days.
+- Ajusta el ángulo de lanzamiento y mantén el ángulo de vuelo cerca del óptimo
+  para conservar la velocidad.
+- Activa los propulsores solo cuando la velocidad baje o necesites esquivar
+  obstáculos.
+- Invierte primero en mejoras de velocidad y planeo, y deja los extras
+  secundarios para más adelante.
 
-### How to Play
-- Set launch angle; keep pitch near optimal to maintain speed.
-- Trigger boosters only when speed drops or to clear obstacles.
-- Spend on speed and glide upgrades first, then utility.
+### Controles
 
-### Controls
-- Arrow keys adjust pitch; space/keys for boosters (host dependent).
+- Las flechas o las teclas de dirección ajustan el ángulo de vuelo.  
+- La barra espaciadora u otras teclas (según el host) activan los propulsores.
 
-### Tips
-- Shallow dives regain speed; gentle climbs extend distance.
-- Save fuel for late‑flight when drag slows you down.
-- Daily goals guide efficient upgrade order.
+### Consejos
 
-### FAQ
-- Q: What upgrades give the best early returns?
-A: Base speed and glide efficiency outperform fancy extras early.
-- Q: How do I hit distance targets consistently?
-A: Maintain optimal pitch and reserve boosts for late flight.
-- Q: Is there a hard cap on days?
-A: You can keep improving until targets are met; challenge modes extend play.
+- Los descensos suaves recuperan velocidad; las subidas suaves alargan la
+  distancia.
+- Guarda combustible para la fase final del vuelo, cuando la resistencia del
+  aire te frena más.
+- Los objetivos diarios te orientan sobre el orden más eficiente de mejoras.
+
+### Preguntas frecuentes (FAQ)
+
+- Q: ¿Qué mejoras dan mejores resultados al principio?  
+  A: La velocidad base y la eficiencia de planeo suelen rendir mejor que los
+  extras llamativos en las primeras partidas.
+
+- Q: ¿Cómo puedo alcanzar de forma consistente los objetivos de distancia?  
+  A: Mantén un ángulo de vuelo óptimo y reserva los propulsores para la parte
+  final del trayecto.
+
+- Q: ¿Hay límite de días?  
+  A: Puedes seguir mejorando hasta cumplir todos los objetivos; los modos de
+  desafío amplían aún más la experiencia.
 

@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: aquaparkio
-title: '[ZH TRANSLATION NEEDED] Aquapark io'
-description: >-
-  [ZH TRANSLATION NEEDED] ace to the finish line in aquapark.io! Learn the best
-  strategies, tips, and controls to master the water slide, bump opponents, and
-  take epic flight shortcuts to win.
+title: Aquapark io 水上乐园大作战
+description: 在《aquapark.io（水上乐园大作战）》中，你将和一群对手一起冲下巨型水滑道，通过撞飞别人、飞出赛道走捷径等技巧，争夺第一个冲到终点的冠军。
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/aquaparkio.jpg
 tags:
@@ -16,52 +13,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+*aquapark.io（水上乐园大作战）* 是 Voodoo 推出的超休闲竞速游戏。你和一大群对手一起从巨型盘旋水滑道顶端出发，一路冲向终点泳池，谁先入水谁就获胜。
 
-[ZH TRANSLATION NEEDED] *aquapark.io* is a wildly popular hyper-casual racing game developed by Voodoo. The game throws players into a vibrant, massive water park where the objective is simple: be the first to slide down a gigantic, winding water slide and splash into the pool at the end.
+在比赛中，你不只是老老实实顺着滑道滑到底这么简单。你可以在弯道上撞飞对手，把他们挤出滑道；也可以在合适的位置主动从滑道边缘飞出去，在空中划弧线，直接落到更低一层的滑道上，用惊险的大捷径一举反超。加上赛后用金币解锁的新角色和装饰，整局游戏节奏快、反馈强，非常上瘾。
 
-[ZH TRANSLATION NEEDED] Players compete against a large group of other characters (primarily AI-controlled bots) in a fast-paced race. The core mechanics involve more than just staying on the slide. Players can bump into opponents to knock them off the track, and more importantly, they can gain enough speed to launch off the edge of the slide, fly through the air, and land on a lower section of the track, creating massive shortcuts. This "flying" mechanic is the central strategy of the game, blending risk with high reward. The game features simple, one-touch controls and a satisfying progression system where players earn coins to unlock new characters and cosmetic items.
+### 游戏策略与通关思路
 
-### Gameplay Strategy & Walkthrough
+想在 *aquapark.io* 中稳定取胜，关键在于掌握捷径并学会管理好“冒险飞行”的风险。
 
-[ZH TRANSLATION NEEDED] Winning in *aquapark.io* is all about mastering shortcuts and managing risk.
+#### 1. 飞出去，才有机会一飞冲天
 
-#### 1. The Art of Flying is Everything
-[ZH TRANSLATION NEEDED] This is the single most important strategy. To win consistently, you must leave the slide.
-*   **How to Fly:** Build up speed by sliding down a steep section. As you approach a curve or the edge of the slide, steer sharply outwards. This will launch your character into the air.
-*   **Aim Your Landing:** While in the air, you have limited control. Try to aim for the red and white striped surface of a lower track section. Landing in the water means you'll respawn back on the slide, losing precious time.
-*   **Risk vs. Reward:** A successful shortcut can put you from last place into first instantly. A failed attempt will set you back significantly. Learning which corners are best for launching is key.
+这是整款游戏中最关键的取胜方式。想要稳定夺冠，你必须学会在合适的时机主动离开滑道，走出真正有价值的大幅捷径。
 
-#### 2. Strategic Bumping
-*   **Offensive Bumping:** When you are side-by-side with an opponent near an edge, you can give them a nudge to knock them off the slide. This is most effective on sharp turns.
-*   **Defensive Sliding:** Be aware of others trying to bump you. If you see someone closing in, try to move towards the center of the slide or use a speed boost to get away.
+*   **如何起飞：** 在陡坡上滑行时尽量加速，当接近外侧弯道或滑道边缘时，快速向外侧猛打方向，让角色从边缘飞出。
+*   **瞄准落点：** 滞空时你仍然可以略微调整方向，目标是落在下方滑道的红白条纹安全区域。如果直接落入水中，系统会把你传送回滑道，但会损失不少时间。
+*   **风险与收益：** 一次成功的大捷径可以让你从队伍后方瞬间飞到最前面，但失败则可能从领先变成落后。多试几次之后，记住哪些弯道更适合用来起飞。
 
-#### 3. Use the Environment
-*   **Speed Boosters:** Slide over the yellow arrow panels on the track. They provide a significant, temporary speed boost which is perfect for setting up a big jump.
-*   **Avoid Obstacles:** Some slides have stationary obstacles. Hitting them will bring you to a dead stop, killing all your momentum.
+#### 2. 学会“撞人”与“防撞”
 
-#### 4. The Start of the Race
-在比赛开始时，场面可能会很拥挤和混乱。稍微落后一点通常更安全，避开最初的人群，然后在其他人互相碰撞时寻找早期的飞行捷径机会。
+*   **进攻性撞击：** 在弯道或者靠近滑道边缘的位置，如果你与对手并排，可以轻轻往对手方向挤一下，把他顶出滑道，让他直接掉进水里。
+*   **防守性走位：** 当你察觉有人从侧面靠近时，可以往滑道中线靠，或者利用加速面板拉开距离，尽量避免自己站在“容易被挤出去”的外侧。
 
-### Controls Guide
+#### 3. 利用赛道环境
 
-[ZH TRANSLATION NEEDED] The game is famous for its extremely simple control scheme.
+*   **加速板：** 黄色箭头面板会给予短暂的强力加速，非常适合在起飞前踩一下，让你飞得更高、更远。
+*   **避开障碍物：** 部分赛道会在滑道上放置固定障碍，撞上去会立刻失去速度甚至停下，在准备飞行时尤其要小心不要被这些障碍破坏节奏。
 
-*   **Movement (Mobile):** Place your finger anywhere on the screen and drag left or right to steer your character. There are no other buttons.
-*   **Movement (PC/Web Browser):** Click and hold the left mouse button, then drag the mouse left or right to steer.
+#### 4. 起跑阶段的取舍
 
-### Frequently Asked Questions (FAQ)
+一开局所有人挤在一起，很容易被乱七八糟地撞来撞去。适当“晚半步”出发、稍微躲在队伍侧后方，有时反而能更早找到第一次稳定起飞的机会。
 
-*   **Q: Are the other players in *aquapark.io* real people?**
-    *   **A:** 你比赛中遇到的绝大多数对手都是AI控制的机器人。这是".io"和超休闲游戏中的常见做法，以确保大厅满员和快速匹配。你可能偶尔会匹配到真实玩家，但大多数都是设计用来模拟真实比赛的机器人。
+### 操作指南
 
-*   **Q: How do I jump higher and fly further?**
-    *   **A:** 你的飞行高度和距离完全取决于你的速度和离开滑道的角度。使用速度助推器并击中滑道陡峭弯曲部分的边缘，以最大化你的滞空时间。
+游戏的操作非常简单：
 
-*   **Q: What are the coins for?**
-    *   **A:** 你在每场比赛结束时收集的硬币可以在游戏内商店中用于解锁新的角色皮肤和其他装饰物品，例如不同的橡皮圈。这些物品不影响游戏玩法。
+*   **移动（手机）：** 在屏幕上按住并左右滑动手指，控制角色在滑道上的左右偏移，无需其他按键。
+*   **移动（PC / 浏览器）：** 按住鼠标左键并左右拖动来控制方向，或根据版本使用键盘左右方向键进行转向。
 
-*   **Q: I landed in the water. Is the race over?**
-    *   **A:** 不是。如果你错过滑道并落入水中，你将自动在你掉落的地方附近的赛道上重生，但你会失去几秒钟。
-
+### 常见问题解答（FAQ）
+*   **问：我比赛里遇到的对手都是真人吗？****
+    *   答：** 大多数对手其实是 AI 机器人，这在很多“.io”与超休闲游戏中很常见，用来保证每局都有足够“玩家”参与。偶尔可能匹配到真人，但绝大部分是模拟真实竞速节奏的机器人。
+*   **问：怎么才能飞得更高、更远？****
+    *   答：** 飞行高度和距离取决于你的速度和出滑道的角度。尽量在踩过加速板、速度拉满后，从陡坡外侧弯道起飞，可以明显提高滞空时间和落点跨度。
+*   **问：金币有什么用？****
+    *   答：** 每局结束获得的金币可以在商店里解锁不同角色皮肤和浮圈外观，这些都是纯外观，不会影响速度或胜率。
+*   **问：落进水里是不是就输掉比赛了？****
+    *   答：** 不会。掉进水里的话，系统会把你重新放回滑道附近的位置继续比赛，只是会损失几秒钟时间，因此多次失误会拉开与领先者的差距。

@@ -1,43 +1,36 @@
 ---
+title: "Five Nights at Freddy's 2 (FNAF 2)"
+description: "マスクとオルゴールの管理：複数のアニマトロニクスを追跡し、パペットのオルゴールを巻き、懐中電灯を使い、適切なタイミングでフレディのマスクを被って生き残りましょう。"
+iframeSrc: "https://ubg77.github.io/fix/fnaf2/"
+thumbnail: "/new-images/five-nights-at-freddy-2.jpg"
+urlstr: "five-nights-at-freddy-2"
+score: "3.7/5  (697 votes)"
+tags: ["horror", "strategy"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: five-nights-at-freddy-2
-title: '[JA TRANSLATION NEEDED] Five Nights at Freddy''s 2 (FNAF 2)'
-description: >-
-  [JA TRANSLATION NEEDED] Mask and music‑box management: track multiple
-  animatronics, wind the Puppet’s box, use the flashlight, and don the Freddy
-  mask at the right moment to survive.
-iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
-thumbnail: /new-images/five-nights-at-freddy-2.jpg
-tags:
-  - horror
-  - strategy
-score: 3.7/5  (697 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+続編ではループが変わります。ドアはなくなり、フレディのマスクとパペットのためのオルゴールを管理しながら、廊下と通気口を監視することになります。
 
+### 遊び方
+- カメラを通してオルゴールを巻き続けましょう。失敗するとパペットが解放されます。
+- 特定のアニマトロニクスがオフィスに入ってきたら、フレディのマスクを使いましょう。
+- 懐中電灯で廊下をチェックし、フォクシーを一時的に怯ませましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Sequel shifts the loop: no power doors, but you manage a Freddy mask and a music box for the Puppet while watching hallways and vents.
+### 操作方法
+- マウス/UIでカメラとマスクを操作。Ctrl/Spaceキーで懐中電灯（ホストによります）。
 
-### How to Play
-- Keep the music box wound via the camera; failure releases the Puppet.
-- Use the Freddy mask when certain animatronics enter the office.
-- Flashlight checks the hallway and stuns Foxy briefly.
+### ヒント
+- ルーチンを作りましょう：オルゴールを巻く → カメラを下ろす → 廊下を照らす → 通気口ライト → 必要ならマスク。
+- 点滅させすぎないようにしましょう。廊下のチェック用にバッテリーを節約してください。
+- マスクが必要なキャラクターと、ライトが必要なキャラクターを見極めましょう。
 
-### Controls
-- Mouse/UI for cameras and mask; Ctrl/Space for flashlight (host dependent).
-
-### Tips
-- Build a loop: wind box → lower cam → hallway flash → vent lights → mask on if needed.
-- Don’t over‑flash; conserve battery for hallway checks.
-- Recognize which characters require the mask versus lights.
-
-### FAQ
-- Q: Why am I losing to the Puppet?  
-[JA TRANSLATION NEEDED]   A: Camera time too long elsewhere; prioritize winding the box.
-- Q: When do I use the mask?  
-[JA TRANSLATION NEEDED]   A: Immediately when an animatronic is in the office (not in vents/hall).
-- Q: Is there door control?  
-[JA TRANSLATION NEEDED]   A: No—FNAF 2 relies on mask, vents, and flashlight management.
-
+### よくある質問 (FAQ)
+- **Q: なぜパペットに負けてしまうのですか？**  
+  A: 他の場所でカメラを見すぎています。オルゴールを巻くことを優先してください。
+- **Q: いつマスクを使えばいいですか？**  
+  A: アニマトロニクスがオフィスに入ってきたら即座に使いましょう（通気口や廊下にいるときではありません）。
+- **Q: ドアの操作はありますか？**  
+  A: いいえ。FNAF 2はマスク、通気口、懐中電灯の管理に依存しています。

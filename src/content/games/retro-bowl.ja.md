@@ -1,71 +1,52 @@
 ---
-locale: ja
+title: Retro Bowl
+description: Retro Bowlはレトロフットボール管理ゲームです。チームを管理し、プレイを呼び出し、ゲームに勝ち、チャンピオンシップを目指します。
+iframeSrc: 'https://retrobowl.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+thumbnail: /new-images/retro-bowl.png
 urlstr: retro-bowl
-title: '[JA TRANSLATION NEEDED] Retro Bowl'
-description: >-
-  [JA TRANSLATION NEEDED] Retro Bowl is a nostalgic American football game with
-  retro 8-bit graphics where players manage and play as a football team, calling
-  plays, throwing passes, and leading their team to championship glory.
-iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
-thumbnail: /new-images/retro-bowl.jpg
+score: 4.6/5  (5678 votes)
 tags:
   - sports
-  - retro
-  - management
-score: 3.5/5  (637 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - strategy
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Retro Bowlは、レトロなピクセルアートスタイルでアメリカンフットボール管理と試合プレイを組み合わせます。チームを構築し、プレイヤーを署名し、試合中にプレイを呼び出し、チームをチャンピオンシップに導きます。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **チームを構築:** 賢くドラフトおよび署名します。
+2.  **プレイを呼び出す:** 守備に基づいて攻撃を選択します。
+3.  **投げるタイミング:** QBとして正確に投げます。
+4.  **予算を管理:** サラリーキャップに固執します。
+5.  **モラル:** プレイヤーを幸せに保ちます。
+
+### 操作ガイド
+
+- タッチ/マウス：パスを狙い、投げます。
+- スワイプ：ランプレイを制御します。
+- 管理メニューでチームを管理します。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Retro Bowl" is a nostalgic American football game with retro 8-bit graphics where players act as both coach and quarterback, managing the team and controlling gameplay through play-calling, passing, and leading the team to championship glory. The game combines team management with real-time game control, providing players with a complete football experience.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Master Passing Skills**: Learn to accurately pass to receivers, observe defensive positions to choose the best passing moments.
-[JA TRANSLATION NEEDED] 2.  **Team Management**: Allocate salary budget wisely, sign and trade players to build a strong roster.
-[JA TRANSLATION NEEDED] 3.  **Tactical Choices**: Choose appropriate offensive tactics based on field situations, including passing and rushing plays.
-[JA TRANSLATION NEEDED] 4.  **Timing Mastery**: In quarterback mode, master the optimal timing for passing and running.
-[JA TRANSLATION NEEDED] 5.  **Season Planning**: Develop long-term team development strategies, nurture young players, and compete for playoff spots.
-
-### How to Play
-
-*   **Passing**: Drag to aim at receivers, release finger to pass.
-*   **Rushing**: Control the quarterback to run forward, looking for gaps to break through.
-*   **Team Management**: Manage player contracts, trades, and roster settings in the menu.
-*   **Tactical Selection**: Choose different offensive and defensive tactics during games.
-
-
-- **Season Planning**: Develop long-term team development strategies, nurture young players, and compete for playoff spots.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: How can I improve passing accuracy?**
-### よくある質問
 - **Tactical Selection**: Choose different offensive and defensive tactics during games.
-- **Team Management**: Manage player contracts, trades, and roster settings in the menu.
-- **Rushing**: Control the quarterback to run forward, looking for gaps to break through.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Passing**: Drag to aim at receivers, release finger to pass.
-[JA TRANSLATION NEEDED] 1.  **Q: How can I improve passing accuracy?**
+- **Q: これは完全なフットボールシミュレーションですか？**  
+  A: いいえ、簡略化されたアーケードスタイルですが、深い管理があります。
+- **Q: ディフェンスをプレイできますか？**  
+  A: いいえ、オフェンスのみです。ディフェンスは自動です。
+- **Q: 無料ですか？**  
+  A: 基本ゲームは無料ですが、一部の機能にはプレミアムが必要な場合があります。
 
-- **Q: How do I manage team salary?**
-[JA TRANSLATION NEEDED]     **A**: Practice aiming more, pay attention to receivers' running routes, and avoid being intercepted by defenders.
 
-- **Q: Are there playoffs in the game?**
-[JA TRANSLATION NEEDED] 2.  **Q: How do I manage team salary?**
+**A**: Players may get injured during games, affecting their performance, requiring proper rotation and player management.
 
 - **Q: Can players get injured?**
-[JA TRANSLATION NEEDED]     **A**: Balance salaries between star players and role players, ensuring a competitive roster within the salary cap.
-[JA TRANSLATION NEEDED] 3.  **Q: Are there playoffs in the game?**
-[JA TRANSLATION NEEDED]     **A**: Yes, well-performing teams can enter the playoffs, with the ultimate goal of winning the Retro Bowl championship.
-[JA TRANSLATION NEEDED] 4.  **Q: Can players get injured?**
-[JA TRANSLATION NEEDED]     **A**: Players may get injured during games, affecting their performance, requiring proper rotation and player management.
+
+
+**A**: Players may get injured during games, affecting their performance, requiring proper rotation and player management.

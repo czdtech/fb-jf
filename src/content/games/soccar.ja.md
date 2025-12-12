@@ -1,47 +1,41 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "SocCar"
+description: "SocCarでハンドルを握ろう。サッカーのスリルと車のパワーを組み合わせたアクション満載のゲーム。フィールドを走り、巨大なサッカーボールにブーストして、対戦相手に対してゴールを決めよう。運転と狙撃のスキルをマスターして試合に勝利しよう。"
+iframeSrc: "https://ubg77.github.io/edit/soccar/"
+thumbnail: "/new-images/soccar.jpg"
+urlstr: "soccar"
+score: "4.7/5  (870 votes)"
+tags: ["sports", "cars", "action"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: soccar
-title: '[JA TRANSLATION NEEDED] SocCar'
-description: >-
-  [JA TRANSLATION NEEDED] Get behind the wheel in SocCar, an action-packed game
-  that combines the thrill of soccer with the power of cars. Drive on the field,
-  boost into the giant soccer ball, and score goals against your opponent.
-  Master your driving and aiming skills to win the match.
-iframeSrc: 'https://ubg77.github.io/edit/soccar/'
-thumbnail: /new-images/soccar.jpg
-tags:
-  - sports
-  - cars
-  - action
-score: 4.7/5  (870 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] SocCar is an exciting hybrid sports game that blends the high-speed action of driving with the classic objective of soccer. Players control a car on a large field and compete to hit a giant ball into the opponent's goal. It's a game of fast reflexes, strategic positioning, and powerful boosts.
+SocCarは、ドライビングの高速アクションとサッカーの古典的な目標を融合させたエキサイティングなハイブリッドスポーツゲームです。プレイヤーは広いフィールドで車を操作し、巨大なボールを相手のゴールに入れることを競います。これは素早い反射神経、戦略的なポジショニング、そして強力なブーストのゲームです。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The main goal is to score more goals than your opponent before time runs out. Work with your teammate (if in 2v2 mode) to outmaneuver the other team. Use your car to "dribble" the ball down the field or hit it with force for a powerful shot. Control of the ball is key, as is knowing when to attack and when to fall back and defend your goal.
+主な目標は、時間切れになる前に対戦相手よりも多くゴールを決めることです。（2v2モードの場合）チームメイトと協力して、他のチームを出し抜きましょう。車を使ってボールをフィールドに「ドリブル」するか、力強く打って強力なシュートを放ちましょう。ボールのコントロールが鍵であり、いつ攻撃し、いつ後退して自分のゴールを守るべきかを知ることも重要です。
 
-### Controls Guide
+### 操作ガイド
 
-- **Movement:** Use `WASD` or `Arrow Keys` to drive your car around the field.
-- **Boost/Dash:** Press `Shift` or `Spacebar` to get a burst of speed. This is crucial for reaching the ball first or making a quick save.
-- **Jump:** Use the `Right Mouse Button` or a dedicated key to make your car jump, which is useful for aerial hits.
+- **移動：** `WASD`または`矢印キー`を使って、フィールド上で車を運転します。
+- **ブースト/ダッシュ：** `Shift`または`スペースバー`を押すと、スピードが爆発します。これはボールに最初に到達したり、素早くセーブしたりするのに重要です。
+- **ジャンプ：** `右マウスボタン`または専用キーを使って車をジャンプさせます。これは空中でのヒットに役立ちます。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What is the objective of SocCar?**
+**SocCarの目的は何ですか？**
 
-[JA TRANSLATION NEEDED] The objective is to use your car to hit the ball into the opposing team's goal, scoring more points than them within the time limit.
+目的は、車を使ってボールを相手チームのゴールに入れ、制限時間内に相手より多くのポイントを獲得することです。
 
-[JA TRANSLATION NEEDED] **Is there a good strategy for winning?**
+**勝つための良い戦略はありますか？**
 
-[JA TRANSLATION NEEDED] Teamwork and positioning are critical. Don't have all players chase the ball at once. Instead, have one player attack the ball while others position themselves for a pass, a rebound, or to defend the goal. Managing your boost effectively is also essential for success.
+チームワークとポジショニングが重要です。すべてのプレイヤーが一度にボールを追いかけないようにしましょう。代わりに、1人のプレイヤーがボールを攻撃し、他のプレイヤーはパス、リバウンド、またはゴールを守る位置に配置しましょう。ブーストを効果的に管理することも成功に不可欠です。
 
-[JA TRANSLATION NEEDED] **How is this different from regular soccer?**
+**これは通常のサッカーとどう違いますか？**
 
-[JA TRANSLATION NEEDED] In SocCar, you are a car! This means you can use high speeds, boosts, and jumps to interact with the ball in ways that are impossible in traditional soccer, leading to explosive and dynamic gameplay.
-
+SocCarでは、あなたは車です！これは、高速、ブースト、ジャンプを使って、伝統的なサッカーでは不可能な方法でボールと相互作用できることを意味し、爆発的でダイナミックなゲームプレイにつながります。

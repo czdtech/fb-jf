@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: clash-of-warriors
-title: '[FR] Clash of Warriors'
+title: "Clash of Warriors"
 description: >-
-  [FR] Clash of Warriors is a compact card battler — curve your plays, trade
-  efficiently, and outthink opponents.
+  Clash of Warriors est un petit jeu de cartes tactique : curve bien tes tours,
+  fais des échanges avantageux et surprends ton adversaire pour gagner le
+  plateau.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/clash-of-warriors.png
 tags:
@@ -16,27 +17,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Clash of Warriors condense les combats de cartes en manches courtes et
+nerveuses. Tu poses des cartes en dépensant des ressources limitées à chaque
+tour, cherches à contrôler le plateau et t’adaptes aux réponses de
+l’adversaire.
 
-Clash of Warriors condenses card combat into short, tactical rounds. Build tempo with efficient plays, read enemy responses, and secure board control to win tight matches.
+Selon la version, tu peux construire ton deck ou jouer avec des paquets
+prédéfinis. Le cœur du jeu reste la gestion du **tempo** : utiliser chaque tour
+pour poser la menace la plus efficace possible sans gaspiller de ressources.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Curve discipline: Spend all resources cleanly each turn.
-2.  **[FR]** Efficient trades: Favor lines that remove enemy threats while preserving yours.
-3.  **[FR]** Win conditions: Identify your path (aggro/tempo/control) and play to it.
-4.  **[FR]** Tech picks: Include answers to common threats if deckbuilding exists.
-5.  **[FR]** Mulligan (if any): Seek early curve pieces.
+1.  **Respecte ta courbe de mana/ressources**  
+    Essaie d’utiliser entièrement tes ressources à chaque tour avec des cartes
+    adaptées. Perdre un point de ressource inutilisé, c’est perdre un peu de
+    tempo.
+2.  **Fais des échanges efficaces**  
+    Quand tu combats avec tes unités, cherche à éliminer les menaces adverses
+    tout en gardant les tiennes en vie si possible. Gagner du terrain tout en
+    conservant des cartes sur table te donne l’avantage.
+3.  **Connais ton plan de victoire**  
+    Ton deck est‑il agressif, orienté tempo ou plutôt contrôle ? Joue en
+    fonction : un deck agressif veut finir rapidement, un deck contrôle vise les
+    parties longues.
+4.  **Prévois quelques cartes de réponse**  
+    Si tu peux construire ton deck, pense à inclure des cartes capables de
+    gérer les menaces populaires (gros serviteurs, sorts clés, etc.).
+5.  **Optimise ton mulligan (si présent)**  
+    Garde les cartes de début de partie qui te permettent de jouer des tours 1,
+    2, 3 solides, et renvoie les cartes trop lourdes.
 
-### Controls Guide
+### Commandes
 
-- Play cards by clicking/tapping; end turns via UI.
-- Hover/tap to inspect text.
+- **Jouer une carte** : clique ou touche une carte depuis ta main puis la zone
+  de jeu appropriée.  
+- **Finir ton tour** : utilise le bouton "Fin de tour" de l’interface.  
+- **Lire le texte** : survole ou touche une carte pour afficher ses effets en
+  détail.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-- Is RNG decisive? Draws matter, but lines and sequencing win close games.
-- Pay‑to‑win? Browser versions are typically self‑contained.
-- Fast mode? Short matches suit quick sessions.
+- **La chance (RNG) décide‑t‑elle de tout ?**  
+  La pioche a toujours un rôle, mais la manière dont tu séquences tes coups et
+  gères tes ressources décide souvent de l’issue des parties serrées.
 
+- **Est‑ce pay‑to‑win ?**  
+  Les versions navigateur sont généralement auto‑contenues, sans boutique
+  intrusive.
+
+- **Les parties sont‑elles rapides ?**  
+  Oui, les manches sont conçues pour des sessions courtes, parfaites pour une
+  pause.

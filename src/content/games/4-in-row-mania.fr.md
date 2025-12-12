@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: 4-in-row-mania
-title: '[FR] 4 In Row MANIA'
-description: >-
-  [FR] 4 In Row MANIA is a classic connect‑four duel — outmaneuver, control
-  columns, and line up four first.
+title: "4 In Row MANIA"
+description: "4 In Row MANIA est un Puissance 4 nerveux : contrôle le centre, tends des pièges et aligne quatre jetons avant ton adversaire." 
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
 thumbnail: /new-images/4-in-row-mania.jpg
 tags:
@@ -14,28 +12,30 @@ score: 4.1/5  (1993 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+4 In Row MANIA reprend le principe du Puissance 4 dans une version dynamique. À tour de rôle, vous faites tomber des jetons dans une grille verticale. Le but : être le premier à aligner quatre jetons de ta couleur à l’horizontale, verticale ou en diagonale, tout en bloquant les tentatives de ton adversaire.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1. **Contrôle du centre :** la colonne centrale offre le plus de combinaisons possibles, essaie d’y prendre l’avantage.
+2. **Créer des fourchettes :** construis des positions où tu menaces deux alignements gagnants en même temps, de sorte que l’adversaire ne puisse pas tout bloquer.
+3. **Gérer la parité :** compte les cases restantes dans une colonne clé pour forcer ton adversaire à y jouer au mauvais moment.
+4. **Éviter les pièges :** fais attention à ne pas empiler des jetons qui offrent une fourchette gagnante à ton opposant au coup suivant.
+5. **Fin de partie :** calcule précisément le nombre de coups avant que certaines colonnes ne soient pleines pour préparer ton coup décisif.
 
-4 In Row MANIA is a connect‑four game of vertical tactics. Drop checkers to create threats while blocking your opponent, managing column parity and double‑threat setups.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Clique ou touche la colonne dans laquelle tu veux laisser tomber un jeton.
+- Modes 2 joueurs en local ou contre l’IA sont souvent disponibles.
 
-1.  **[FR]** Center control: The center column yields the most potential lines.
-2.  **[FR]** Create forks: Build positions that threaten two wins at once.
-3.  **[FR]** Parity: Force the opponent to give you the winning row by controlling move order.
-4.  **[FR]** Watch traps: Don’t stack into a setup that gives opponent a fork.
-5.  **[FR]** Endgame: Count remaining slots and tempo precisely.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- **Q : Le premier joueur est‑il avantagé ?**  \
+  **R :** Légèrement, mais une bonne défense et une bonne gestion de la parité peuvent équilibrer la partie.
 
-- Click/tap a column to drop a checker.
-- Local 2‑player or vs. AI modes are common.
+- **Q : Y a‑t‑il souvent des matchs nuls ?**  \
+  **R :** Sur une grille standard, les parties se terminent généralement par une victoire d’un des deux joueurs si chacun joue sérieusement.
 
-### Frequently Asked Questions (FAQ)
-
-- First‑move advantage? Slight; strong defense and parity control balance it.
-- Draws? Boards typically resolve; stalemates are rare.
-- Best opening? Center or near‑center for maximum options.
+- **Q : Quel est le meilleur coup de départ ?**  \
+  **R :** Jouer au centre est généralement le plus fort, car cela ouvre le plus de lignes potentielles.

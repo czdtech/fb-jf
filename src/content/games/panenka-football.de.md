@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: panenka-football
-title: '[DE] Panenka Football'
+title: "Panenka Football"
 description: >-
-  [DE] Panenka Football is a penalty craft — disguise intent, chip with touch,
-  and outguess keepers with audacious Panenkas.
+  Panenka Football dreht sich um die Kunst des Elfmeters: Täusche dein Ziel an,
+  lupfe den Ball gefühlvoll in die Mitte und lies das Verhalten des Torwarts,
+  um mit frechen Panenkas zu treffen.
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/panenka-football.png
 tags:
@@ -15,35 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Panenka Football konzentriert sich voll auf den Elfmeter und den berühmten
+ Panenka-Lupfer – ein weicher Chip in die Mitte, während der Keeper in eine
+ Ecke abtaucht. Du variierst zwischen hohen und flachen Schüssen, Ecken und
+ Lupfern. Erfolg hast du nur, wenn du das Verhalten des Torwarts richtig
+ einschätzt, deine Schüsse gut tarnst und im richtigen Moment die Richtung
+ änderst.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Panenka Football focuses on the cheeky Panenka — a soft chip down the middle as the keeper dives. Mix chips with corners and height variations; success relies on late aim changes and reading keeper habits.
+1.  **Torwart lesen:** Beobachte, ob der Keeper früh in eine Ecke springt oder
+    lange wartet. Springt er früh, ist ein Panenka in die Mitte meist die beste
+    Wahl. Bleibt er stehen, solltest du eher die Ecken anvisieren.
+2.  **Höhe kontrollieren:** Gegen abwartende Torhüter helfen platzierte,
+    flache Schüsse in die Ecke, gegen aggressive Keeper funktionieren weiche
+    Lupfer besonders gut.
+3.  **Schüsse verschleiern:** Ändere dein Ziel erst spät, um dem Torwart keine
+    klaren Hinweise zu geben, und variiere deinen Anlaufwinkel.
+4.  **Rhythmus mischen:** Nutze den Panenka nicht zu oft. Wechsle zwischen
+    kräftigen Eckschüssen, flachen Abschlüssen und Lupfern, damit du
+    unberechenbar bleibst.
+5.  **Wind berücksichtigen (falls vorhanden):** Wenn das Spiel Wind simuliert,
+    korrigiere deine Schussrichtung leicht und halte Lupfer eher flach.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Keeper read: If the keeper dives early, chip middle; if he holds, pick corners.
-2.  **[DE]** Height control: Low hard drives vs cautious keepers; soft chips vs aggressive ones.
-3.  **[DE]** Disguise: Delay final aim to avoid telegraphing; vary run‑up angles.
-4.  **[DE]** Rhythm: Don’t overuse Panenkas; rotate options.
-5.  **[DE]** Wind (if any): Offset shots slightly; keep chips low in strong wind.
+- Ziele mit Maus oder Tasten, stelle Schusskraft und -höhe ein; je nach
+  Version kannst du dem Ball durch Ziehen oder Halten auch Effet verleihen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Aim with mouse/keys; set power/height; optional swerve via drag if supported.
+- **F: Meine Panenkas werden ständig gehalten – was tun?**
+  
+  Setze sie sparsam ein und nur dann, wenn der Keeper früh in eine Ecke
+  springt. Wartet er lange ab, schieß lieber klassisch in eine Ecke.
 
-### Frequently Asked Questions (FAQ)
+- **F: Was ist der sicherste Schuss?**
+  
+  Kräftige, flache Schüsse in die Ecke sind schwer zu halten und verlangen
+  perfekte Reaktion vom Torwart.
 
-- Q: My Panenkas get saved.
-
-A: Use them only when the keeper dives early; otherwise go corners.
-
-- Q: Best safe shot?
-
-A: Firm low corners; they demand perfect keeper timing.
-
-- Q: How do I hide intent?
-
-A: Change aim late and vary run‑up tempo.
-
+- **F: Wie verberge ich meine Schussabsicht am besten?**
+  
+  Ändere die Zielrichtung erst spät und variiere Tempo und Winkel deines
+  Anlaufs, damit der Keeper weniger aus deinem Lauf ablesen kann.

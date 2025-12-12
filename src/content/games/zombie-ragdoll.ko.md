@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: zombie-ragdoll
-title: '[KO] Zombie Ragdoll'
+title: "Zombie Ragdoll 좀비 래그돌"
 description: >-
-  [KO] Zombie Ragdoll is a ragdoll physics shooter — launch corpses, trigger
-  traps, and clear puzzles with chain reactions.
+  래그돌 좀비를 날려 레버를 당기고 폭탄과 구조물을 터뜨려 스테이지를 정리하는 퍼즐 슈팅 게임입니다.
+  발사 각도와 힘을 조절해 연쇄 반응을 일으키고, 최소 발사 횟수로 클리어에 도전해 보세요.
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
 thumbnail: /new-images/zombie-ragdoll.jpg
 tags:
@@ -16,31 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Zombie Ragdoll은 좀비 래그돌을 대포처럼 쏘아, 레버를 작동시키고 폭발물을 터뜨리고 구조물을
+무너뜨려 목표를 달성하는 물리 퍼즐 게임입니다. 한 번 발사된 래그돌은 벽과 장애물에 부딪히며
+튕겨 나가고, 그 과정에서 다양한 장치를 건드려 일종의 도미노처럼 연쇄 반응을 일으킵니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Zombie Ragdoll is a puzzle shooter where you fling ragdolls to trigger levers, hit explosives, and topple structures. Mastering launch angles and sequencing traps yields satisfying chain clears.
+1.  **첫 발은 탐색용으로 사용하기**: 첫 번째 샷은 주로 물리 엔진과 구조물이 어떻게 움직이는지
+    확인하는 용도로 쓰세요. 궤적과 반응을 본 뒤, 각도와 힘을 조금씩 조정해 최적의 발사 궤도를
+    찾아가는 것이 좋습니다.
+2.  **트리거부터 맞히기**: 레버, 버튼, 폭발통처럼 다른 구조를 움직이게 만드는 장치들을 먼저
+    노리면, 이후 발사해야 할 횟수를 크게 줄일 수 있습니다.
+3.  **바운스와 벽 활용하기**: 아무 것도 없는 곳을 정면으로 쏘기보다, 벽을 맞혀 튕겨 나가게 하면
+    한 번의 샷으로 더 많은 구역을 건드릴 수 있습니다. 벽과 바운스 패드를 적극적으로 활용해 보세요.
+4.  **직선 강샷은 마지막 수단으로**: 무거운 구조물을 밀어야 할 때 직선 강샷이 유용하지만, 각도 조정
+    여지가 적어 실수하기 쉽습니다. 우선 반사와 폭발을 이용해 최대한 환경을 정리한 뒤, 정말 필요한
+    상황에서만 강샷을 사용하세요.
+5.  **발사 횟수 최소화 노리기**: 적은 횟수로 스테이지를 클리어할수록 더 높은 등급과 보상을 얻을 수
+    있습니다. 아무 생각 없이 여러 번 쏘기보다, 한 발 쏘기 전에 전체 구조를 먼저 눈으로 따라가 보며
+    "어디를 맞히면 무엇이 연쇄적으로 일어나는지"를 상상해 보세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** First shot scouts physics; adjust angle/power after observing.
-2.  **[KO]** Hit triggers first to open kill paths.
-3.  **[KO]** Use bouncers/walls to redirect ragdolls.
-4.  **[KO]** Save straight power shots for anchors.
-5.  **[KO]** Minimal shots win bonuses — plan before firing.
+- **발사 각도/힘 조절**: 마우스를 드래그해 각도와 힘을 정한 뒤, 버튼을 떼면 래그돌이 발사됩니다.
+- **재시작**: 결과가 마음에 들지 않거나 발사 횟수를 많이 써 버렸다면, UI의 재시작 버튼으로
+  스테이지를 다시 시도할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag to set angle/power and release to launch; restart via UI.
+- **Q. 구조물이 거의 움직이지 않습니다.**  
+  **A:** 단단한 부분을 직접 노리기보다는, 기둥이나 받침대처럼 구조를 지탱하는 부분을 맞히거나
+  폭발물을 이용해 힘을 전달하는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I barely move structures.
-
-A: Target supports or use explosives for leverage.
-
-- Q: Shots feel random.
-
-A: Make a scouting shot, then iterate with small angle/power tweaks.
-
+- **Q. 발사 궤도가 제각각이라 운에 좌우되는 느낌이에요.**  
+  **A:** 같은 각도와 힘으로 쏘면 결과는 크게 달라지지 않습니다. 첫 발을 통해 궤적을 확인한 뒤,
+  조금씩 각도와 힘을 미세 조정하면서 목표 지점을 향해 수렴해 보세요.

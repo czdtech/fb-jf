@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: run-3
-title: '[KO] Run 3'
+title: "Run 3 런 3"
 description: >-
-  [KO] Run 3 is an endless running game set in space where players control an
-  alien character running through a 3D tunnel, jumping over gaps and avoiding
-  obstacles while defying gravity in this addictive platformer.
+  우주 공간의 터널을 달리는 3D 러닝 게임입니다. 외계 캐릭터를
+  조종해 발판 사이의 구멍을 점프해 넘고, 벽과 천장까지 활용해
+  끝없이 이어지는 코스를 달려 보세요.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/run-3.jpg
 tags:
@@ -18,33 +18,67 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Run 3*는 우주 한가운데에 떠 있는 3D 터널을 배경으로 한 엔드리스
+러닝 게임입니다. 플레이어는 외계인 캐릭터를 조종해 끊어진
+발판과 장애물이 이어진 터널 속을 달리며, **중력을 전환해 벽과
+천장까지** 활용해야 합니다.
 
-### Game Introduction
+단순한 조작으로 시작하지만, 속도와 난이도가 점점 올라가면서
+플랫폼 액션과 리듬감 있는 조작이 요구되는 게임입니다.
 
-"Run 3" is an endless running game set in space where players control an alien character running through a 3D tunnel, jumping over gaps and avoiding obstacles while defying gravity. The game is famous for its unique 3D perspective and gradually increasing difficulty, providing players with both simple and challenging gameplay experience.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **점프 타이밍을 몸에 익히기**  
+   발판과 발판 사이의 간격을 빠르게 파악해, 너무 일찍 혹은 늦게
+   점프하지 않도록 해야 합니다. 초반에는 일부러 천천히 플레이하며
+   거리 감각을 익혀 두면 좋습니다.
 
-1.  **[KO]** **Master Jumping Timing**: Learn to jump at the right moments to avoid gaps and obstacles.
-2.  **[KO]** **Utilize Walls**: You can run on tunnel walls and ceilings, making full use of 3D space.
-3.  **[KO]** **Choose Appropriate Characters**: Different characters have different abilities; choose the one suitable for the current level.
-4.  **[KO]** **Plan Your Path**: Observe obstacles ahead and plan the optimal running route.
-5.  **[KO]** **Maintain Rhythm**: Keep a steady running rhythm, avoiding hasty operations that lead to mistakes.
+2. **벽과 천장을 적극적으로 활용하기**  
+   터널 내부에서는 옆벽이나 천장도 달릴 수 있습니다. 앞에 큰
+   구멍이 보이면, 미리 벽 쪽으로 이동해 중력을 전환하면 안전한
+   루트를 만들 수 있습니다.
 
-### How to Play
+3. **캐릭터 특성에 맞는 코스 선택**  
+   일부 캐릭터는 점프력이 좋고, 일부는 몸집이 작아 좁은 틈을
+   통과하기 쉽습니다. 스테이지 구조에 따라 어떤 캐릭터가 유리한지
+   고려해 선택하세요.
 
-*   **[KO]** **Movement**: Use left and right arrow keys to control character's left and right movement.
-*   **[KO]** **Jump**: Use spacebar or up arrow key to make the character jump.
-*   **[KO]** **Direction Change**: In the tunnel, you can change gravity direction to run on walls and ceilings.
+4. **먼저 앞을 보고 루트 계획하기**  
+   발밑만 보지 말고, 시선을 조금 앞쪽에 두고 다음 두세 개의 발판
+   위치를 한 번에 파악하려고 노력해 보세요. 이렇게 하면 돌발
+   장애물에 덜 당황하게 됩니다.
 
-### Frequently Asked Questions
+5. **리듬을 유지하며 조작하기**  
+   속도가 올라갈수록 당황해 버튼을 연타하기 쉽지만, 일정한 리듬으로
+   좌우 이동과 점프를 반복하는 것이 실수를 줄이는 길입니다.
 
-1.  **[KO]** **Q: How do I run on walls?**
-**A**: When approaching walls, the character automatically switches gravity direction, allowing you to continue running on walls or ceilings.
-2.  **[KO]** **Q: What are the differences between characters?**
-**A**: Each character has unique abilities, such as better jumping ability, smaller size, or special movement methods.
-3.  **[KO]** **Q: Does the game have an endpoint?**
-**A**: "Run 3" is an endless runner game, but there are multiple different levels and modes to explore.
-4.  **[KO]** **Q: How do I unlock new characters?**
-**A**: New playable characters can be unlocked by completing specific levels or achieving certain accomplishments.
+### 조작 가이드
+
+- **이동**: 좌/우 방향키로 캐릭터를 좌우로 움직입니다.  
+- **점프**: 스페이스바 또는 위쪽 방향키로 점프해 구멍이나 장애물을
+  뛰어넘습니다.  
+- **중력 전환**: 터널 벽 쪽으로 붙어 달리면 자동으로 중력이 해당
+  벽 방향으로 회전해, 벽이나 천장을 새로운 바닥처럼 사용할 수
+  있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 벽 위로는 어떻게 올라가나요?**  
+   **A:** 터널 가장자리에 가까이 이동해 벽을 향해 달리면, 캐릭터가
+   자동으로 벽으로 이동하면서 중력 방향이 전환됩니다. 이후에는 그
+   벽을 바닥처럼 뛰어다닐 수 있습니다.
+
+2. **Q: 캐릭터마다 무엇이 다른가요?**  
+   **A:** 점프력, 체공 시간, 몸집 크기, 특수 능력 등에서 차이가
+   있습니다. 좁은 틈이 많은 코스에는 작은 캐릭터가, 점프 구간이
+   많은 코스에는 점프력이 좋은 캐릭터가 유리합니다.
+
+3. **Q: 이 게임에 끝이 있나요?**  
+   **A:** 기본 모드는 무한 러닝에 가깝지만, 여러 종류의 레벨과
+   모드가 준비되어 있어 목표를 정해 도전할 수 있습니다.
+
+4. **Q: 새로운 캐릭터는 어떻게 해금하나요?**  
+   **A:** 특정 레벨을 클리어하거나, 일정 거리 이상을 달성하는 등
+   조건을 만족하면 새로운 캐릭터가 해금되는 방식이 일반적입니다.

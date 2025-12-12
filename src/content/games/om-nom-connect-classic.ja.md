@@ -1,85 +1,50 @@
 ---
-locale: ja
+title: Om Nom Connect Classic
+description: Om Nom Connect Classicはマッチングパズルです。同じタイルを接続し、パスをクリアし、Om Nomをテーマにしたレベルをマスターします。
+iframeSrc: 'https://omnomconnectclassic.h5games.usercontent.goog/v/4k7j9m2h8p3n8/'
+thumbnail: /new-images/om-nom-connect-classic.png
 urlstr: om-nom-connect-classic
-title: '[JA TRANSLATION NEEDED] Om Nom Connect Classic'
-description: >-
-  [JA TRANSLATION NEEDED] Connect with Om Nom in this classic tile-matching
-  puzzle! Find pairs of identical tiles featuring Om Nom and his friends, and
-  clear the board by linking them with a path of no more than two turns.
-iframeSrc: >-
-  https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
-thumbnail: /new-images/om-nom-connect-classic.jpg
+score: 4.2/5  (2045 votes)
 tags:
   - puzzle
-  - casual
   - thinky
-score: 4.4/5  (2400 votes)
+  - casual
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Om Nom Connect Classicは、愛らしいOm Nomキャラクターをフィーチャーしたマッチングパズルゲームです。同じタイルのペアを接続しますが、パスは最大2回しか曲がれません。すべてのタイルをクリアして勝ちます。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **エッジを優先:** 外側のタイルから始めます。
+2.  **パスを計画:** 2ターン制限内のルートを探します。
+3.  **オープンスペース:** 中央をクリアして柔軟性を高めます。
+4.  **先を見る:** 次の移動が他のペアをブロックしないことを確認します。
+5.  **ヒントを賢く使用:** 本当に行き詰まった場合にのみ。
+
+### 操作ガイド
 
 
-### Detailed Game Introduction
+The game is played with simple clicks or taps.
+- 同じタイルをクリック/タップして接続します。
+- パスは最大2ターンまで。
+- すべてのタイルをクリアします。
 
-[JA TRANSLATION NEEDED] Om Nom Connect Classic is a fun and fast-paced tile-matching puzzle game featuring the adorable characters from the Cut the Rope universe. The goal is to clear the board by finding and connecting pairs of identical tiles. The challenge lies in the connection rule: a pair can only be removed if the path between them has no more than two 90-degree turns. With a timer counting down, you'll need to be quick and strategic to complete each level.
+### よくある質問 (FAQ)
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  **The Connection Rule:** You can only match two identical tiles if you can draw a line between them with a maximum of two bends (L-shape or Z/U-shape). The path must also be clear of any other tiles.
-[JA TRANSLATION NEEDED] 2.  **Scan the Edges:** The easiest matches are often on the outside of the grid. Start by quickly scanning the perimeter for adjacent pairs or those that can be connected with a straight line.
-[JA TRANSLATION NEEDED] 3.  **Think Ahead:** Every pair you remove opens up new possibilities. Try to make matches that will clear a path to other potential pairs, especially those trapped in the center of the board.
-[JA TRANSLATION NEEDED] 4.  **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a valid pair. If you completely run out of moves, use the shuffle button to rearrange all the tiles on the board and create new matching opportunities.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple clicks or taps.
-
-*   **Select Tiles:** Click on a tile to select it, then click on its identical partner. If the connection is valid according to the rules, the pair will be removed.
-    - **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.（日本語訳が必要）
-    - **A:** You will fail the level and have to start over. スピード and quick recognition are key!
-    - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.（日本語訳が必要）
-    - **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.（日本語訳が必要）
-    - **A:** You will fail the level and have to start over. スピード and quick recognition are key!
-    - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: Why can't I connect two identical tiles?**
-[JA TRANSLATION NEEDED]     *   **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.
-
-*   **Q: What happens if the timer runs out?**
-[JA TRANSLATION NEEDED]     *   **A:** You will fail the level and have to start over. Speed and quick recognition are key!
-
-*   **Q: What's the best strategy for finding matches quickly?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
-
-
-
-
-
-
-
-
-
+- **Q: これは麻雀コネクトと同じですか？**  
+  A: 似ていますが、Om Nomテーマと異なるタイルデザインがあります。
+    - **Q: タイムリミットはありますか？**  
+  A: 一部のレベルにはタイマーがあります。
+- **Q: ヒントは無制限ですか？**  
 
     - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
+
 - **Q: What's the best strategy for finding matches quickly?**
+
     - **A:** You will fail the level and have to start over. Speed and quick recognition are key!
-- **Q: What happens if the timer runs out?**
-    - **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.
-- **Q: Why can't I connect two identical tiles?**
-### よくある質問（FAQ）
-- **Select Tiles:** Click on a tile to select it, then click on its identical partner. If the connection is valid according to the rules, the pair will be removed.
-
-
-
-
-
-
-    - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
-- **Q: What's the best strategy for finding matches quickly?**
-    - **A:** You will fail the level and have to start over. Speed and quick recognition are key!
-- **Q: What happens if the timer runs out?**
-    - **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.
+  A: 通常制限されています。控えめに使用します。

@@ -1,62 +1,35 @@
 ---
+title: "Categories"
+description: "Categoriesは素早い単語分類の脳トレです。テーマでアイテムをグループ化し、外れ値を推測し、時計を打ち負かしましょう。"
+iframeSrc: "https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/"
+thumbnail: "/new-images/categories.png"
+urlstr: "categories"
+score: "4.0/5  (1855 votes)"
+tags: ["thinky", "puzzle"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: categories
-title: '[JA TRANSLATION NEEDED] Categories'
-description: >-
-  [JA TRANSLATION NEEDED] Categories is a quick word‑sorting brainteaser — group
-  items by theme, deduce outliers, and beat the clock.
-iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
-thumbnail: /new-images/categories.png
-tags:
-  - thinky
-  - puzzle
-score: 4.0/5  (1855 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Categoriesは、テーマ別のグループにアイテムを分類することに関する軽い論理ゲームです。共通のリンクを特定し、おとりを分離し、軽いタイマーまたは移動制限の下でセットを解決します。
 
-[JA TRANSLATION NEEDED] Categories is a light logic game about sorting items into thematic groups. Identify common links, separate decoys, and solve sets under light timers or move limits.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **簡単なセットを最初に:** 検索スペースを縮小するために、明白なグループをロックしましょう。
+2.  **スワップをテスト:** 境界線上のアイテムをもっともらしいグループ間で移動します。
+3.  **おとりを見つける:** 多くのグループに適合するように見えるアイテムは、多くの場合誤導です。
+4.  **時間を管理:** トンネル視野にならないでください。候補を素早く循環させます。
+5.  **反対で確認:** 2つのカテゴリが近い場合、それらが除外するものによって定義します。
 
-[JA TRANSLATION NEEDED] 1.  Easy sets first: Lock obvious groups to shrink the search space.
-[JA TRANSLATION NEEDED] 2.  Test swaps: Move borderline items between plausible groups.
-[JA TRANSLATION NEEDED] 3.  Spot decoys: Items that seem to fit many groups are often misleads.
-[JA TRANSLATION NEEDED] 4.  Manage time: Don’t tunnel—cycle candidates quickly.
-[JA TRANSLATION NEEDED] 5.  Confirm with opposites: If two categories are close, define them by what they exclude.
+### 操作ガイド
 
-### Controls Guide
+- アイテムをグループにドラッグするか、UIに従ってタップして割り当てます。
+- 利用可能な場合は元に戻す/リセットします。
 
-- Drag items into groups or tap to assign per UI.
-- Undo/Reset where available.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Are there multiple solutions? Usually one; follow intended themes.
-- Hints? Many versions provide hints—use sparingly.
-- Timed? Often light timers to keep pace brisk.
-
-
-
-
-
-
-
-
-
-- Timed? Often light timers to keep pace brisk.
-- Hints? Many versions provide hints—use sparingly.
-- Are there multiple solutions? Usually one; follow intended themes.
-### よくある質問（FAQ）
-- Undo/Reset where available.
-- Drag items into groups or tap to assign per UI.
-### コントロールガイド
-
-
-
-
-- Timed? Often light timers to keep pace brisk.
-- Hints? Many versions provide hints—use sparingly.
-- Are there multiple solutions? Usually one; follow intended themes.
+- **Q: 複数の解決策はありますか？** A: 通常は1つです。意図されたテーマに従ってください。
+- **Q: ヒントはありますか？** A: 多くのバージョンでヒントを提供します。控えめに使用してください。
+- **Q: 時間制限はありますか？** A: ペースを活発に保つために、多くの場合軽いタイマーがあります。

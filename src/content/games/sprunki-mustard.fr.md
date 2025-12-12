@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: sprunki-mustard
-title: '[FR] Sprunki Mustard - Play Sprunki Mustard Online'
+title: Sprunki Mustard - Jouer à Sprunki Mustard en ligne
 description: >-
-  [FR] In this Sprunki Mustard Mod, all the characters have been reshaped to
-  present a unified mustard-yellow color scheme, adding a lingering eerie
-  feeling to the original vibrant picture.
+  Dans Sprunki Mustard, tous les personnages adoptent une palette jaune
+  moutarde, donnant au Mod une ambiance étrange et légèrement horrifique, tout
+  en conservant le cœur musical de Sprunki.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /sprunki-mustard.png
 tags:
@@ -13,31 +13,40 @@ tags:
 score: 3.9/5  (827 votes)
 ---
 
+### Qu’est‑ce que Sprunki Mustard ?
 
+Sprunki Mustard est bien plus qu’un simple changement de couleurs. Ce Mod
+expérimente avec une esthétique très marquée : un jaune moutarde omniprésent,
+un univers visuel un peu malade, et des sons qui accentuent cette impression
+inquiétante. Le contraste avec le style habituellement coloré de Sprunki est
+volontairement troublant.
 
-### What is Sprunki Mustard?
+### Comment survivre dans Sprunki Mustard ?
 
-Sprunki Mustard is more than just a color-changing Mod, it is a wonderful experiment of vision and hearing. In this Mod, all the characters have been reshaped to present a unified mustard-yellow color scheme, adding a lingering eerie feeling to the original vibrant picture.
+- **Choisis des personnages moutarde :** chaque avatar conserve son rôle
+  musical (beat, basse, voix…), mais avec un design jaune terne très
+  distinctif.
+- **Glisse‑dépose les sons :** place les personnages sur la scène pour
+  construire un morceau, comme dans les autres Mods Sprunki.
+- **Joue avec l’horreur :** expérimente différentes combinaisons pour découvrir
+  des effets sonores plus sombres et des animations perturbantes.
 
-### How to Survive in Sprunki Mustard?
+### Points forts de Sprunki Mustard
 
-- **Choose Mustard-Themed Characters:** Each character has a unique sound element, now stylized to match the mustard color scheme.
-- **Drag and Drop Sounds:** To create music, drag characters into the main composition area. Each character adds a beat, melody, or vocal line to the track.
-- **Experiment with Horror Elements:** Mix different character sounds to uncover new, spooky combinations. Certain arrangements may even trigger hidden animations, thereby enhancing the horror atmosphere.
-
-
-### Highlights of Sprunki Mustard:
-
-- **Mustard-Themed Characters and Interface:** All characters are shaded in mustard yellow, creating a striking and cohesive aesthetic.
-- **New Horror Elements:** The eerie color scheme and unique sound combinations create an unsettling, horror-inspired ambiance.
-- **Creative Music Compositions:** Each character’s sound can be layered to build complex, immersive tracks tailored to the Mod’s style.
-- **Bonus Animations:** Discover special animations triggered by specific sound combinations, adding depth to the horror theme.
-
+- **Identité visuelle unique :** une palette monochrome moutarde pour un rendu
+  immédiatement reconnaissable.
+- **Ambiance inquiétante :** couleurs étranges + sons particuliers donnent une
+  atmosphère presque horrifique.
+- **Compositions créatives :** tu peux composer des pistes qui renforcent ce
+  sentiment d’étrangeté.
+- **Bonus cachés :** certaines combinaisons de personnages déclenchent des
 
 ### Operation of Sprunki Mustard:
+  animations spéciales parfaitement dans le thème.
 
-Sprunki Mustard's operation is simple and direct. Incredibox series fans will certainly not be unfamiliar with it. You only need to select the characters as usual and drag them to the stage, and then you can start listening to this unique musical feast.
 
 ### Why Play Sprunki Mustard?
+Sprunki Mustard s’adresse aux joueurs qui aiment les Mods un peu dérangeants
+et qui veulent voir jusqu’où on peut pousser l’univers Sprunki. Ose composer
+ta propre « symphonie moutarde » !
 
-Fans of Incredibox and Sprunki will surely love the new interpretation of character aesthetics brought by Sprunki Mustard Mod, and the new and weird atmosphere that this Mod brings to music production gameplay. If you dare to challenge yourself, come to the world of Sprunki Mustard, and use grotesque notes to play your own horror movement!

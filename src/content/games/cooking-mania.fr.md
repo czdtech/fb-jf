@@ -1,50 +1,74 @@
 ---
 locale: fr
 urlstr: cooking-mania
-title: '[FR] Cooking Mania'
-description: >-
-  [FR] Cooking Mania is a fast time‑management cooker — juggle orders, chain
-  combos, and upgrade kitchens to keep customers happy.
-iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
-thumbnail: /new-images/cooking-mania.jpg
+title: Cooking Mania
+description: "Cooking Mania est un jeu de gestion de restaurant rapide\_: prépare les plats, sers les clients à temps et améliore ton établissement pour suivre le rush."
+iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/3uh9jlntlm9eg/'
+thumbnail: /new-images/cooking-mania.png
 tags:
   - casual
-  - thinky
-score: 4.0/5  (1839 votes)
+  - puzzle
+score: 4.3/5  (2050 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Cooking Mania te place derrière le comptoir d’un restaurant très fréquenté.
+Les clients arrivent avec des commandes précises (burgers, boissons, desserts,
+accompagnements…), et tu dois assembler les plats dans le bon ordre avant
+qu’ils ne perdent patience.
 
-Cooking Mania boils restaurant rush into quick levels: prep ingredients, assemble dishes in order, and serve before timers expire. Equipment upgrades, extra pans, and faster prep let you chain orders for bonus coins.
+Plus tu progresses, plus les recettes se complexifient et plus le rythme
+s’accélère, ce qui demande une bonne mémoire et une excellente gestion des
+priorités.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Prep in batches for popular items to reduce wait times.
-2.  **[FR]** Chain serves: deliver multiple orders back‑to‑back for combo tips.
-3.  **[FR]** Upgrade bottlenecks first (e.g., grill count, prep speed).
-4.  **[FR]** Prioritize timers: Serve expiring orders before large combos.
-5.  **[FR]** Queue logic: Arrange workspace to minimize cursor travel.
+1.  **Apprends les recettes simples**  
+    Commence par mémoriser les combinaisons de base (par exemple burger + frites
+- boisson) avant d’ajouter des variantes.
+2.  **Prépare en avance quand c’est possible**  
+    Si le jeu te permet de cuisiner des éléments à l’avance (steaks, pains,
+    garnitures), garde toujours un petit stock prêt pour les pics de clients.
+3.  **Priorise les clients impatients**  
+    Surveille la jauge de patience de chacun et sers en priorité ceux qui sont
+    sur le point de partir.
+4.  **Évite les erreurs de commande**  
+    Un plat incorrect te fait perdre du temps et parfois de l’argent. Vérifie
+    bien la commande avant de valider.
+5.  **Investis dans les améliorations**  
+    Utilise tes gains pour acheter des équipements plus rapides, plus de
+    plaques ou des bonus qui rallongent la patience des clients.
 
-### Controls Guide
+### Commandes
 
-- Tap to prep, drag to assemble, and tap customers to serve.
-- Shop for upgrades between levels.
+- **Préparer un plat** : touche ou clique sur les ingrédients dans l’ordre
+  indiqué pour assembler la commande.  
+- **Servir** : fais glisser le plat terminé vers le client correspondant ou
+  touche le bouton de service.  
+- **Améliorations** : entre les niveaux, utilise le menu pour acheter du
+  matériel ou des upgrades.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
+
 
 - Q: I burn items — how to avoid?
-
-A: Stagger starts and listen for audio cues; grab items promptly at “perfect” timing.
+**Q : Que se passe‑t‑il si un client part en colère ?**  
 
 - Q: Which upgrades are best early?
-
-A: Extra grills/pans and prep speed; décor is optional until later.
+R : Tu perds la vente correspondante (et parfois un peu de réputation ou de
 
 - Q: Can I pause?
+bonus). Trop de clients mécontents peuvent compromettre certains objectifs de
+niveau.
 
-A: Many levels disallow pausing mid‑rush; plan ahead.
+**Q : Puis‑je faire une pause pendant un niveau ?**  
+R : En général oui, via un bouton de pause, mais le temps et la patience des
+clients restent figés pendant la pause.
 
+**Q : Y a‑t‑il plusieurs restaurants / mondes ?**  
+R : La plupart des jeux de ce type proposent plusieurs environnements avec
+leurs propres recettes et décor.

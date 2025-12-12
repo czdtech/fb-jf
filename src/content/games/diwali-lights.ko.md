@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: diwali-lights
-title: '[KO] Diwali Lights'
+title: "Diwali Lights 디왈리 라이트"
 description: >-
-  [KO] Diwali Lights is a festive tap‑puzzle — light diyas in patterns, avoid
-  overlaps, and complete glowing designs.
+  인도의 축제 디왈리를 테마로 한 불빛 퍼즐 게임입니다. 디야 등불을 올바른
+  순서와 패턴으로 밝히고, 겹치지 않게 아름다운 무늬를 완성해 보세요.
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/diwali-lights.jpg
 tags:
@@ -15,29 +15,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Diwali Lights는 디왈리 축제의 전통 등불인 디야(diya)를 켜서 무늬를 완성하는
+라이트업 퍼즐입니다. 각 스테이지마다 등불을 어떤 순서나 패턴으로 켜야 하는지
+목표가 제시되며, 잘못된 순서나 규칙 위반으로 겹치게 켜면 퍼즐이 실패할 수
+있습니다. 후반으로 갈수록 이동 횟수 제한, 스위치, 타이머 등 새로운 조건이
+추가돼 난이도가 높아집니다.
 
+### 게임 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1. **규칙을 먼저 이해하기**  
+   어떤 판은 등불이 겹치면 안 되거나, 특정 순서대로만 켤 수 있는 등 규칙이
+   다릅니다. 시작 전에 목표와 제한 조건을 먼저 읽어 두세요.  
+2. **경로를 미리 그려 보기**  
+   전체 무늬를 보며 최소한의 이동으로 모든 디야를 밝힐 수 있는 경로를
+   머릿속으로 그려 보고, 그 계획에 따라 터치 횟수를 아껴 쓰세요.  
+3. **스위치는 아껴 쓰기**  
+   스위치는 한 번에 여러 구역을 켜거나 끌 수 있는 경우가 많습니다. 초반부터
+   사용하기보다는, 여러 목표를 동시에 해결할 수 있는 타이밍을 노려 사용하세요.  
+4. **무늬를 작은 묶음으로 나누기**  
+   하나의 큰 그림으로 보기보다는 꽃무늬, 테두리, 중앙 패턴 등 시각적으로
+   나뉘는 단위별로 차례대로 해결하면 퍼즐이 훨씬 단순해집니다.  
+5. **짧은 퍼즐은 빠른 재시도로 최적화**  
+   금방 끝나는 짧은 스테이지는 한 번 실패해도 금방 다시 시도할 수 있으니,
+   여러 경로를 시험해 보며 가장 적은 이동으로 클리어하는 루트를 찾아 보세요.  
 
-Diwali Lights is a holiday‑themed light‑up puzzle. Activate lamps (diyas) in the correct order or pattern to illuminate designs without crossing rules. Later stages add limited moves, switches, and timing.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 퍼즐 규칙에 따라 등불, 스위치, 타일 등을 탭/클릭해 켜거나 끕니다.  
+- 일부 모드에서는 실행 취소/리셋 버튼을 지원하여 잘못된 시도를 바로 되돌릴 수
+  있습니다.  
 
-1.  **[KO]** Understand rules: Some boards restrict overlaps or require sequences—read objectives first.
-2.  **[KO]** Plan routes: Map a path that minimizes backtracking and respects move limits.
-3.  **[KO]** Save toggles: Use switches to open multiple goals at once.
-4.  **[KO]** Visual groups: Solve one motif at a time to simplify the board.
-5.  **[KO]** Retry optimization: Short puzzles reward fast restarts after missteps.
+### 자주 묻는 질문(FAQ)
 
-### Controls Guide
+- **Q: 이동 횟수 제한 때문에 자꾸 실패합니다.**  
+  **A:** 같은 곳을 여러 번 왕복하는 동선이 있는지 확인해 보세요. 이동 경로를
+  다시 그려 더 짧은 루트를 찾는 것이 중요합니다.  
 
-- Tap/Click lamps, switches, or tiles per puzzle rules.
-- Undo/Reset if the mode allows.
+- **Q: 시간 제한이 있는 판도 있나요?**  
+  **A:** 일부 스테이지는 타이머와 함께 진행되어, 특히 타이머 근처의 무늬를
+  먼저 해결해야 합니다.  
 
-### Frequently Asked Questions (FAQ)
-
-- I keep failing on move limits—why? Your path wastes steps; redraw a shorter route.
-- Timed boards? Complete motifs near timers first.
-- Are hints available? Often yes; use them sparingly.
+- **Q: 힌트 기능이 있나요?**  
+  **A:** 많은 버전에서 힌트를 제공하지만, 사용 시 점수나 별 개수가 줄어들 수
+  있으니 막힌 구간에서만 아껴 사용하는 것이 좋습니다.  
 

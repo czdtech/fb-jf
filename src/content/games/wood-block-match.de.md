@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: wood-block-match
-title: '[DE] Wood Block Match'
+title: Wood Block Match
 description: >-
-  [DE] Wood Block Match is a calming block‑fit — place wooden shapes, clear
-  rows/columns, and preserve space with smart pocketing.
+  Wood Block Match ist ein entspannendes Block‑Puzzle im Holzlook: Platziere
+  Formen so, dass du Reihen und Spalten räumst, und halte dir mit cleveren
+  Lücken möglichst lange Platz auf dem Board frei.
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/wood-block-match.png
 tags:
@@ -15,36 +16,35 @@ score: 4.1/5  (1969 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Wood Block Match ist ein 10×10‑Block‑Legespiel mit warmem Holzstil. In jeder Runde bekommst du eine kleine Auswahl an Formen, die du auf dem Raster platzierst. Komplett gefüllte Reihen und Spalten verschwinden und schaffen neuen Platz. Die Partie endet, sobald keins der nächsten Teile mehr ins Raster passt – Erfolg hängt also davon ab, wie gut du flexible Freiflächen erhältst und Mehrfach‑Clears vorbereitest.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Luft im Zentrum:** Halte die Mitte des Spielfelds möglichst offen und räume zuerst chaotische Ränder auf, damit keine Einzelzellen‑Fallen entstehen.
+2. **Taschen einplanen:** Reserviere dir ein 2×2‑ oder L‑förmiges „Pocket“ für schwierige Teile wie Triominos oder lange Balken.
+3. **Schwierige Teile zuerst:** Wenn es eng wird, platziere zuerst das größte oder am schwersten unterzubringende Teil, solange du noch Optionen hast.
+4. **Doppel‑Clears bauen:** Versuche, Konstellationen aufzubauen, in denen ein Teil gleichzeitig eine Reihe und eine Spalte räumt – das bringt Punkte und sortiert das Board sauberer.
+5. **Undo mit Bedacht:** Gibt es eine Rückgängig‑Funktion, nutze sie sofort, wenn du mit einem Zug eine wichtige Tasche dicht machst.
 
-Wood Block Match is a 10×10‑style block placement game with wooden aesthetics. Each turn you receive a batch of shapes; place them to complete rows/columns and clear space. The session ends when none of the remaining pieces fit — so success is about preserving flexible lanes while engineering multi‑line clears.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Ziehe die angebotenen Holzteile per Drag‑and‑Drop auf das 10×10‑Raster. In manchen Varianten lassen sich Teile auch drehen; vollständige Reihen und Spalten verschwinden automatisch und geben Punkte.
 
-1.  **[DE]** Center breathing room: Keep the board center open; tidy edges to prevent single‑cell traps.
-2.  **[DE]** Pocket planning: Reserve a 2×2 or L‑shaped pocket for awkward triominoes.
-3.  **[DE]** Hard piece first: When crowded, place the largest/most awkward piece first.
-4.  **[DE]** Double clears: Build two‑line setups so one piece clears both.
-5.  **[DE]** Undo discipline: If available, undo immediately after a placement that seals pockets.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
-
-- Drag pieces into the grid; rotate if the mode supports it; clear rows/cols score points.
-
-### Frequently Asked Questions (FAQ)
 
 - Q: I run out of space very quickly — what should I change?
-
-A: Protect the center, pre‑plan one pocket for awkward pieces, and prefer double‑clear setups over single clears.
+**Warum ist das Feld immer so schnell voll?**  
 
 - Q: Can I rotate pieces?
+Du solltest die Mitte schützen, dir eine feste Tasche für schwierige Teile lassen und lieber Doppel‑Clears planen, statt wahllos Einzelreihen zu räumen.
 
-A: Some variants disallow rotation — compensate with better pocketing.
 
 - Q: Any tip for high scores?
+**Kann ich Teile drehen?**  
+Je nach Version nicht. Wenn keine Rotation möglich ist, wird vorausschauendes Platzieren und gutes Pocket‑Management noch wichtiger.
 
-A: Chain consecutive double clears and avoid emergency singles that break structure.
-
+**Wie bekomme ich hohe Scores?**  
+Kette mehrere Doppel‑Clears hintereinander und vermeide kurzsichtige Notzüge, die deine schöne Struktur zerstören.

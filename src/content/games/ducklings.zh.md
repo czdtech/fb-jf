@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: ducklings
-title: '[ZH TRANSLATION NEEDED] Ducklings'
+title: "Ducklings 小鴨接力護送"
 description: >-
-  [ZH TRANSLATION NEEDED] Ducklings is a relaxing collect‑’em‑up: rescue
-  ducklings on the water and bring them safely back to your nest.
+  Ducklings 是一款輕鬆療癒的收集遊戲，你要在湖面上救回散落四處的小鴨，
+  把牠們安全地護送回巢穴。
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/ducklings.jpg
 tags:
@@ -17,26 +17,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Relaxed collect‑’em‑up on the water: rescue ducklings scattered around a pond and escort them safely back to your nest while avoiding boats and hazards.
+
+這是一款水面上的悠閒收集遊戲。你扮演一隻成鴨，在池塘裡把四散的小鴨一個個找回來，
+讓牠們排成隊跟在你後面，再在不被船隻與障礙撞散的情況下，把整隊小鴨安全帶回巢。
 
 ### How to Play
-- Swim near ducklings to have them follow; return to the nest to bank them.
-- Larger trains are riskier—boats can scatter your line; take safe routes.
-- Upgrade your nest between trips when offered.
+
+- 靠近水面上的小鴨，牠們就會自動加入隊伍跟在你身後；帶隊回巢穴即可「存檔」這一批。
+- 隊伍越長，風險越大——來往的船隻可能把隊伍撞散，所以要選安全路線繞行。
+- 每次回巢之間，如果出現升級選項，記得強化自己的巢穴或相關能力。
 
 ### Controls
-- Mouse/Touch or Arrows to steer.
+
+- 使用滑鼠或觸控拖曳方向，或用方向鍵來轉向與操控移動。
 
 ### Tips
-- Don’t over‑extend; bank small batches when traffic is heavy.
-- Cut diagonals behind slow boats; never cross a bow head‑on.
-- Keep your chain compact to avoid stragglers getting clipped.
+
+- 別太貪心，在船流特別密集時，多分幾次把小鴨送回巢，比一次拉很長的隊伍更安全。
+- 從慢速船隻的後方斜切穿越，避免正面與船頭相撞。
+- 盡量讓跟隨隊伍保持緊湊，減少落單的小鴨，避免被邊角擦到。
 
 ### FAQ
-- Q: Is there a time limit?  
-[ZH TRANSLATION NEEDED]   A: Typically no—play at your pace.
-- Q: What ends a run?  
-[ZH TRANSLATION NEEDED]   A: Losing followers to collisions reduces haul; the nest is safe.
-- Q: Are there power‑ups?  
-[ZH TRANSLATION NEEDED]   A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
 
+- 問：有時間限制嗎？  
+  答：通常沒有硬性時間限制，你可以照自己的節奏慢慢收集與護送。
+
+- 問：什麼情況算是失敗？  
+  答：小鴨被船或障礙撞飛會減少本次收集成果，但巢穴本身是安全的，你可以繼續出發。 
+
+- 問：遊戲裡有能力道具嗎？  
+  答：部分託管版本會加入加速或外觀道具，但核心玩法始終是拯救小鴨並安全帶回巢穴。

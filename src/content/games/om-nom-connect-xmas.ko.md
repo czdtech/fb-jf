@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: om-nom-connect-xmas
-title: '[KO] Om Nom Connect Xmas'
+title: Om Nom Connect Xmas 옴놈 커넥트 크리스마스
 description: >-
-  [KO] Join Om Nom in a festive puzzle adventure! Om Nom Connect Xmas is a fun
-  tile-matching game where you connect pairs of Christmas-themed treats.
+  Om Nom Connect Xmas는 옴놈과 함께하는 크리스마스 테마 커넥트 퍼즐로, 눈사람·사탕·선물 등 크리스마스 간식을 짝지어 보드를
+  비워 나가는 게임입니다.
 iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
 thumbnail: /new-images/om-nom-connect-xmas.jpg
@@ -18,32 +18,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Om Nom Connect Xmas*는 귀여운 옴놈과 친구들이 등장하는 크리스마스 한정 커넥트 퍼즐 게임입니다.
+보드에는 옴놈과 함께 눈사람, 캔디 케인, 선물 박스 등 각종 크리스마스 간식이 그려진 타일이
+가득 채워져 있고, 같은 그림 두 장을 찾아 연결해 보드를 비워야 합니다. 경쾌한 캐럴과
+아기자기한 그래픽 덕분에 연말 분위기를 느끼며 가볍게 즐기기 좋은 퍼즐입니다.
 
-### Detailed Game Introduction
+### 공략 & 플레이 팁
 
-Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecting puzzle game. The board is filled with Christmas-themed tiles featuring Om Nom, his friends, and delicious holiday treats. Your goal is to clear the board by finding and connecting pairs of identical tiles. With cheerful holiday music and cute graphics, it’s a relaxing yet challenging puzzle game perfect for the Christmas season.
+1. **짝 찾기:** 같은 그림의 타일 두 개를 찾되, 두 타일을 잇는 선이 두 번 이하로만 꺾일
+   수 있다는 점을 항상 염두에 두세요.
+2. **가장자리부터 정리:** 퍼즐의 바깥쪽은 연결이 쉬운 경우가 많으므로, 외곽부터 쌍을
+   찾아 제거하면 안쪽 부분까지 연결 경로가 열리기 쉽습니다.
+3. **몇 수 앞까지 생각하기:** 어떤 쌍을 먼저 지워야 다른 쌍의 길이 열리는지 생각하며,
+   막힌 중앙 타일을 풀 수 있는 매치를 우선적으로 선택해 보세요.
+4. **파워업은 아껴서:** 막혔을 때만 돋보기(힌트)를 사용해 가능한 쌍을 확인하고,
+   정말 길이 없다고 느껴질 때 섞기 버튼을 눌러 보드를 재배치하는 식으로 사용하는 것이
+   좋습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Find Matching Pairs:** Scan the board for two identical tiles. The tiles must be connectable with a line that has no more than two turns (or corners).
-2.  **[KO]** **Clear the Edges First:** Start by looking for matching tiles on the outer edges of the puzzle, as these are generally the easiest to connect and will open up more possibilities.
-3.  **[KO]** **Think Ahead:** Sometimes you need to clear a specific pair of tiles to unblock a path for another match. Try to look a few moves ahead.
-4.  **[KO]** **Use Power-ups Wisely:** The game offers helpful tools if you get stuck. The magnifying glass will show you a possible match, and the shuffle button will rearrange all the tiles on the board, creating new opportunities.
+* **타일 선택:** 마우스로 타일을 클릭해 선택한 뒤, 같은 그림의 다른 타일을 클릭하면
 
-### Controls Guide
+- **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
+  규칙에 맞는 경로가 있을 때 두 타일이 제거됩니다.
 
-*   **[KO]** **Select Tiles:** Use your mouse to click on a tile to select it.
-*   **[KO]** **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 타일을 연결할 수 있는 정확한 규칙이 뭐예요?**  
+  **A:** 두 타일을 잇는 선이 두 번 이하의 직각으로만 꺾일 수 있으며, 그 선 위에는 다른
+  타일이 있어서는 안 됩니다.
 
-*   **[KO]** **Q: What are the rules for connecting tiles?**
-    *   **[KO]** **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.
+    - **Q: 도저히 짝이 안 보일 때는 어떻게 하나요?**  
+  **A:** 먼저 보드를 천천히 다시 훑어보고, 그래도 찾지 못하면 돋보기 힌트로 한 쌍을
+  확인한 뒤, 필요하다면 섞기 기능으로 타일 배치를 새로 섞어 보세요.
 
-*   **[KO]** **Q: What should I do if I'm stuck and can't find a match?**
-    *   **[KO]** **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
+* **Q: 시간 제한이 있나요?**  
 
-*   **[KO]** **Q: Is there a time limit?**
-    *   **[KO]** **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
+    - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
 
+- **Q: Is there a time limit?**
+
+    - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
+  **A:** 각 스테이지마다 제한 시간이 있으며, 시간이 다 되기 전에 보드를 전부 비워야
+  클리어할 수 있습니다.

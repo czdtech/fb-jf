@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bubble-shooter
-title: '[ES] Bubble Shooter'
+title: "Bubble Shooter"
 description: >-
-  [ES] Aim, shoot, and match colorful bubbles to clear the board in the classic
-  Bubble Shooter puzzle game. Plan your shots, use the walls, and drop huge
-  clusters to get a high score!
+  Apunta, dispara y combina burbujas de colores para limpiar el tablero en el
+  clásico puzle Bubble Shooter. Planifica tus tiros, usa las paredes y derriba
+  enormes grupos para lograr una puntuación récord.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
 thumbnail: /new-images/bubble-shooter.jpg
 tags:
@@ -16,42 +16,73 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Bubble Shooter es un puzle clásico y tremendamente adictivo. El objetivo es
+limpiar el campo de juego formando grupos de al menos tres burbujas del mismo
+color. La parte superior de la pantalla está llena de una rejilla de burbujas de
+colores, y tú controlas un lanzador en la parte inferior que dispara una burbuja
+hacia arriba.
 
+La mecánica central es sencilla: cuando la burbuja lanzada impacta en un grupo
+formado por dos o más burbujas del mismo color, todo ese grupo conectado
+desaparece. Además, cualquier burbuja que estuviera sujeta únicamente a ese
+grupo caerá y también será eliminada. El objetivo es limpiar todas las burbujas
+antes de que desciendan hasta la línea inferior. Tras cierto número de disparos
+sin eliminar nada, aparece una nueva fila de burbujas arriba, aumentando la
+presión.
 
-### Game Introduction
+### Estrategia de juego
 
-Bubble Shooter is a classic and highly addictive puzzle game. The objective is to clear the playing field by forming groups of three or more same-colored bubbles. The game screen is filled with a grid of colorful bubbles from the top. The player controls a launcher at the bottom of the screen, which shoots a single bubble upwards.
+-   **Apunta a las burbujas más altas:** Lo importante no es solo hacer grupos,
+    sino hacerlos en la parte alta del tablero. Si eliminas un conjunto que
+    sostiene a otros por debajo, todas las burbujas que queden colgando caerán.
+    Tirar grandes racimos así es la clave para limpiar rápido y conseguir muchos
+    puntos.
+-   **Usa las paredes:** No dispares siempre en línea recta. Puedes
+    rebotar la burbuja en las paredes laterales para alcanzar ángulos difíciles.
+    Dominar estos tiros con rebote es esencial para salir de situaciones
+    complicadas.
+-   **Planifica con antelación:** En la mayoría de versiones verás el color de la
+    *siguiente* burbuja. Utiliza esa información para pensar tus dos próximas
+    jugadas; a veces compensa hacer un tiro menos óptimo ahora para preparar el
+    disparo perfecto después.
+-   **Evita dejar "hilos" de una sola burbuja:** Procura no dejar un único
+    ejemplar de un color colgando aislado. Luego será muy difícil eliminarlo, ya
+    que necesitarás limpiar todo alrededor o juntar otras dos burbujas del mismo
+    color en ese punto.
+-   **Gestiona los colores difíciles:** Si recibes un color que no tiene un buen
+    destino inmediato, no desperdicies el tiro. Intenta dejarlo en un lateral,
+    junto a grupos grandes de otros colores, donde estorbe lo menos posible.
 
-The core mechanic is simple: when the launched bubble hits a group of two or more bubbles of the same color, the entire connected group of matching bubbles is removed from the screen. Any bubbles that were attached only to the cleared group will also fall and be removed. The goal is to clear all the bubbles from the screen to win the level or achieve the highest possible score before the bubbles descend to the bottom line. After a certain number of shots without clearing any bubbles, a new row of bubbles is added at the top, increasing the pressure and challenge.
+### Guía de controles
 
-### Gameplay Strategy
+Los controles son muy simples e intuitivos, tanto con ratón como con pantalla
+ táctil.
 
--   **Aim for the Highest Bubbles:** The single most important strategy is not just to make matches, but to make matches that are high up on the screen. If you clear a group of bubbles that is supporting other bubbles below it, all the unsupported bubbles will fall. Dropping large clusters this way is the key to high scores and efficient clearing.
--   **Use the Walls (Bank Shots):** Don't always aim directly. You can shoot the bubble against the side walls to make it bounce and reach difficult spots. Mastering these "bank shots" is essential for advanced play and for getting out of tricky situations.
--   **Plan Ahead:** Most versions of the game show you the color of the *next* bubble in your launcher. Use this information to plan your next two moves. Sometimes, it's better to make a less optimal move now to set up a perfect shot with the next bubble.
--   **Don't Create Single-Bubble Strands:** Try to avoid leaving a single bubble of a certain color hanging by itself. These can be very difficult to remove later, as you'll need to clear the bubbles around it or get two more of the same color to stick to it.
--   **Manage Difficult Colors:** If you get a bubble color that has no immediate good match, don't just waste the shot. Try to tuck it away next to a large group of another color where it won't block important future shots.
+-   **Apuntar:** Mueve el **cursor** para orientar la flecha del lanzador.
+-   **Disparar:** Haz **clic izquierdo** para lanzar la burbuja.
+-   **Cambiar burbuja (en algunas versiones):** En ediciones modernas, puedes
+    pulsar una tecla (por ejemplo, la **barra espaciadora**) o tocar un icono
+    para intercambiar la burbuja actual con la siguiente de la cola.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The controls are extremely simple and intuitive, designed for mouse or touch.
+**1. ¿Cuál es el objetivo del juego?**
+> En las versiones clásicas, limpiar toda la pantalla de burbujas. En los modos
+> infinitos, sobrevivir el máximo tiempo posible y lograr la mayor puntuación.
 
--   **Aim:** Move your **mouse cursor** to aim the launcher's arrow.
--   **Shoot:** **Left-click** with your mouse to shoot the bubble.
--   **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+**2. ¿Qué pasa si fallo un disparo?**
+> Normalmente se considera fallo cualquier tiro que no elimine burbujas. Tras un
+> cierto número de fallos (suele mostrarse con un contador), se añade una nueva
+> fila de burbujas en la parte superior.
 
-### Frequently Asked Questions (FAQ)
+**3. ¿Hay burbujas especiales o potenciadores?**
+> En el Bubble Shooter clásico no los hay, pero muchas variantes modernas
+> incluyen burbujas‑bomba (limpian un área), burbujas arcoíris (combinan con
+> cualquier color) o bolas de fuego (arrasan todo a su paso).
 
-**1. What is the goal of the game?**
-> In most classic versions, the goal is to clear the entire screen of bubbles. In endless modes, the goal is to survive as long as possible and get the highest score.
-
-**2. What happens if I miss a shot?**
-> A "miss" is typically defined as a shot that does not result in any bubbles being cleared. After a set number of misses (often shown as a counter of bubbles at the bottom), a new row of bubbles will be added to the top of the screen, pushing everything down.
-
-**3. Are there special bubbles or power-ups?**
-> In the classic, original version of Bubble Shooter, there are no special bubbles. However, many modern variations have introduced power-ups like **Bomb Bubbles** (clear an area), **Rainbow Bubbles** (match any color), and **Fireball Bubbles** (destroy everything in their path).
-
-**4. What is the best strategy for getting a high score?**
-> The best way to get a high score is to drop large clusters of bubbles at once. The more bubbles you drop that were not part of the direct match, the more bonus points you receive. Focus on making high-up bank shots to achieve this.
-
+**4. ¿Cuál es la mejor estrategia para puntuar alto?**
+> Intenta hacer caer grandes grupos de burbujas con un solo impacto. Cuantas más
+> burbujas caigan que no pertenecían al grupo inicial, mayor será la bonificación.
+> Céntrate en tiros altos con rebote para conseguirlo.

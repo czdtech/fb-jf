@@ -1,74 +1,50 @@
 ---
-locale: ja
-urlstr: dalgona-game
-title: '[JA TRANSLATION NEEDED] Dalgona Game'
-description: >-
-  [JA TRANSLATION NEEDED] Dalgona Game recreates honeycomb carving — trace
-  shapes carefully, manage cracks, and finish before time runs out.
+title: Dalgona Game ダルゴナ・ゲーム
+description: 「Dalgona Game」は緊張感あふれる型抜きチャレンジ。割らないように慎重に形をなぞり、時間内にダルゴナ（カルメ焼き）を完成させよう。
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/dalgona-game.png
+urlstr: dalgona-game
+score: 3.9/5  (1722 votes)
 tags:
   - casual
   - thinky
-score: 3.9/5  (1722 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Dalgona Game（ダルゴナ・ゲーム）*は、韓国の伝統的なお菓子「ダルゴナ（カルメ焼き）」の型抜きにインスパイアされた、繊細なトレースゲームです。
+目的は、飴に刻印された形（丸、三角、星、傘など）に沿って針を動かし、きれいに切り抜くこと。しかし、力を入れすぎたり、ラインから外れたりすると、飴にヒビが入って割れてしまい、ゲームオーバーとなります。制限時間というプレッシャーの中で、震える手を抑えて慎重に作業を進めましょう。
 
-[JA TRANSLATION NEEDED] Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve out the stamped shape by following edges; too much pressure or off‑path cuts crack the candy and fail the round.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **角（カド）は慎重に:** 直線部分は少しスピードを上げても大丈夫ですが、角やカーブは割れやすいポイントです。ここでは極端に速度を落としましょう。
+2.  **溝に従う:** 刻印されたライン（溝）に忠実に沿ってください。強引にショートカットしようとすると即座に割れます。
+3.  **ヒビ割れに注意:** 小さなヒビ（マイクロクラック）が入ったら危険信号です。一度針を離すか、別の角度から優しくアプローチし直しましょう。
+4.  **難所は後回し:** 傘の柄や星の先端など、細かくて折れやすい部分は、周りの広い部分を安定させてから最後に攻略するのが定石です。
+5.  **時間配分:** 制限時間があります。簡単な部分は素早く、難しい部分はゆっくり、というリズムの切り替えが成功の鍵です。
 
-[JA TRANSLATION NEEDED] 1.  Slow and steady near corners; speed only on straight segments.
-[JA TRANSLATION NEEDED] 2.  Follow grooves; don’t force turns across the grain.
-[JA TRANSLATION NEEDED] 3.  Watch micro‑cracks; if they spread, lift and re‑approach.
-[JA TRANSLATION NEEDED] 4.  Save tight angles for last after stabilizing long edges.
-[JA TRANSLATION NEEDED] 5.  Manage the timer by alternating quick/slow sections.
+### 操作ガイド
 
-### Controls Guide
+*   **トレース:** マウスをドラッグ（または画面をなぞる）して、点線や溝に沿って動かします。バージョンによってはクリック連打や長押しで圧力を調整するものもあります。
 
-- Drag to trace the outline; pressure/angle sensitivity varies by build.
+
 - Restart quickly on breaks.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 角でいつも割れてしまいます。**
 
-- Q: I keep cracking near corners — how to fix?
-  
-[JA TRANSLATION NEEDED]   A: Reduce speed, take wider arcs if allowed, and pause before turning sharply.
-
-- Q: Is pressure modeled?
-  
-[JA TRANSLATION NEEDED]   A: Some builds simulate pressure; gentle drags are safer near delicate edges.
-
-- Q: Any tips for stars/umbrellas?
-  
+A: Reduce speed, take wider arcs if allowed, and pause before turning sharply.
+- **A:** スピードを落とすだけでなく、一度止まってから方向転換してみてください。
 
 
-
-
-
-- Q: I keep cracking near corners — how to fix?
-### よくある質問（FAQ）
-- Restart quickly on breaks.
-- Drag to trace the outline; pressure/angle sensitivity varies by build.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Do long straights first, then carve the tight inner curves last.
-
-
-
-
-
+A: Some builds simulate pressure; gentle drags are safer near delicate edges.
+*   **Q: 力加減はありますか？**
 
 A: Do long straights first, then carve the tight inner curves last.
-- Q: Any tips for stars/umbrellas?
-A: Some builds simulate pressure; gentle drags are safer near delicate edges.
-- Q: Is pressure modeled?
+    *   **A:** ゲームによってはマウスを押す強さやクリックの長さで圧力をシミュレートしている場合があります。ヒビが入るエフェクトが出たらすぐに力を緩めましょう。
 
-
-
-
-A: Do long straights first, then carve the tight inner curves last.
-- Q: Any tips for stars/umbrellas?
-A: Some builds simulate pressure; gentle drags are safer near delicate edges.
+*   **Q: 星や傘が難しすぎます。コツは？**
+    *   **A:** まずは長い直線を片付けてしまいましょう。内側の細かいカーブは最も集中力が必要です。深呼吸を忘れずに。

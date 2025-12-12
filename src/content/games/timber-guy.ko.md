@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: timber-guy
-title: '[KO] Timber Guy'
+title: "Timber Guy 팀버 가이"
 description: >-
-  [KO] Timber Guy is a chop‑timing arcade — fell the tree, dodge branches, and
-  rack up chops.
+  나무를 베어 내려가며 튀어나오는 가지를 피하는 타이밍 아케이드 게임 Timber Guy입니다. 좌우로
+  위치를 바꾸며 박자에 맞춰 나무를 치고 높은 점수를 노려 보세요.
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/timber-guy.png
 tags:
@@ -15,27 +15,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
-### Detailed Game Introduction
+Timber Guy는 한 손으로도 즐길 수 있는 간단한 타이밍 액션 게임입니다. 플레이어는 기다란 나무둥치
+옆에 서서 끊임없이 도끼를 내려찍으며 나무를 베어 내려갑니다. 이때 나무 양쪽에는 일정 간격으로
+가지가 튀어나와 있는데, 가지가 있는 쪽에 서 있으면 즉시 맞아서 게임이 끝납니다. 그렇기 때문에
+**언제 어느 쪽으로 이동할지**를 정확한 타이밍에 판단하는 것이 핵심입니다.
 
-Timber Guy is a one‑button timing game. Chop the trunk while switching sides to avoid incoming branches. The pace accelerates, demanding clean side swaps and steady rhythm.
+게임이 진행될수록 베는 속도를 유지해야 하는 타이머가 점점 더 빠르게 줄어들어, 플레이어는 일정한
+리듬을 유지하며 좌우 이동을 정확히 입력해야 합니다. 단순하지만 중독성 있는 구조 덕분에 "한 판만
+더"를 계속 외치게 되는 게임입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Read ahead: Watch the next few branches and pre‑plan swaps.
-2.  **[KO]** Keep rhythm: Maintain a steady chop tempo for better reactions.
-3.  **[KO]** Early swaps: Switch sides slightly before the branch passes you.
-4.  **[KO]** Don’t panic: Miss one beat if unsure; safety beats a hit.
-5.  **[KO]** High score: Small errors compound—reset after bad starts.
+1.  **앞으로 나올 가지를 미리 읽기**: 캐릭터 주변만 보지 말고, 화면 위쪽에 있는 다음 몇 개의
+    가지 위치를 함께 보세요. 미리 어느 쪽으로 옮겨야 할지 생각해 두면 급하게 이동하다 실수하는
+    상황을 줄일 수 있습니다.
+2.  **일정한 리듬 유지하기**: 너무 빨리 연타하거나, 반대로 너무 느리게 두드리면 타이머가 바닥나기
+    쉽습니다. 자신이 유지하기 편한 속도를 찾은 뒤, 그 리듬을 꾸준히 유지하는 것이 좋습니다.
+3.  **가지가 보이기 직전에 미리 이동하기**: 가지가 캐릭터 높이에 거의 도달했을 때에야 움직이면
+    늦을 수 있습니다. 화면 위에서 가지 위치를 확인했으면, 여유가 있을 때 미리 다른 쪽으로
+    이동해 안전한 위치에서 계속 베어 나가세요.
+4.  **당황했을 때는 한 번 쉬어 가기**: 리듬이 꼬였다고 느껴진다면, 무리해서 계속 두드리기보다 한
+    번 정도 템포를 늦추고 다시 안정적인 속도를 찾는 것이 좋습니다. 한 번의 미세한 손해가 즉사보다
+    훨씬 낫습니다.
+5.  **기록이 마음에 들지 않으면 빠르게 재도전하기**: 작은 실수들이 쌓이면 결국 큰 기록을 내기
+    어렵습니다. 초반에 여러 번 가지에 맞을 뻔했다면 과감하게 판을 다시 시작해, 좋은 흐름이 나오는
+    판에 집중하는 것도 하나의 전략입니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- Chop/Swap: Tap left/right to chop from that side.
-- Pause/Retry via UI.
+- **치기/이동**: 화면 왼쪽을 누르면 왼쪽에서, 오른쪽을 누르면 오른쪽에서 나무를 칩니다. 키보드
+  버전에서는 좌/우 방향키나 A/D 키를 사용해 해당 방향으로 이동하며 베는 동작을 동시에 수행합니다.
+- **일시 정지 및 재시작**: 화면 UI 버튼을 통해 게임을 잠시 멈추거나 다시 시작할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Why do I get hit? Late swaps—change sides earlier.
-- Does speed ramp? Yes; rhythm helps adaptation.
-- Any power‑ups? Some versions include boosters; focus on consistency.
+- **Q: 가지에 자꾸 맞는 이유가 뭔가요?**  
+  **A:** 대부분 가지가 캐릭터 높이에 거의 도달했을 때 뒤늦게 이동하기 때문입니다. 화면 위쪽에서
+  미리 가지 위치를 확인한 뒤, 여유 있을 때 미리 반대편으로 이동하는 습관을 들여 보세요.
 
+- **Q: 게임 속도가 점점 빨라지는 건가요?**  
+  **A:** 네, 일정 횟수 이상 나무를 베어 나갈수록 요구되는 입력 속도가 점점 빨라집니다. 초반부터
+  너무 빠르게 치기보다는 자신이 안정적으로 유지할 수 있는 리듬을 찾는 것이 중요합니다.
+
+- **Q: 파워업이나 특수 능력이 있나요?**  
+  **A:** 일부 버전에서는 일정 횟수 이상 성공 시 일시적으로 시간을 늦추거나, 실수를 한 번
+  봐주는 보너스 효과가 등장하기도 합니다. 하지만 기본적으로는 깔끔한 타이밍과 리듬 유지가 가장
+  중요한 요소입니다.

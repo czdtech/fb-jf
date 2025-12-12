@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: liquid-puzzle-sort-colors
-title: '[DE] Liquid puzzle sort colors'
+title: "Liquid puzzle sort colors"
 description: >-
-  [DE] Liquid puzzle sort colors is a relaxing pour‑sort — decant liquids by
-  color, plan buffers, and finish bottles without deadlocks.
+  Liquid puzzle sort colors ist ein entspanntes Gieß-Puzzle: Sortiere
+  farbige Flüssigkeiten nach Farben in die Flaschen, plane Puffer clever ein
+  und löse jedes Level, ohne in eine Sackgasse zu geraten.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/liquid-puzzle-sort-colors.jpg
 tags:
@@ -16,35 +17,65 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Liquid puzzle sort colors übernimmt das bekannte Flaschen-Sortierprinzip:
+Du gießt Flüssigkeiten von einer Flasche in eine andere, bis jede Flasche nur
+noch eine einzige Farbe enthält. Gießen darfst du nur auf eine Flüssigkeit
+mit derselben Farbe oder in eine komplett leere Flasche. Der Knackpunkt: Du
+musst deine Pufferflaschen und die Reihenfolge der Züge so planen, dass du
+nicht in einem Zustand landest, in dem kein sinnvoller Zug mehr möglich ist.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Liquid puzzle sort colors adapts the viral bottle‑sorting formula: pour liquids between bottles so each ends up uniform. You can pour only onto the same color or an empty bottle. Success demands planning buffers and ordering pours to avoid softlocks where no move remains.
+1.  **Puffer freihalten**  
+    Versuche, möglichst zwei Flaschen so lange wie möglich frei zu halten.
+    Diese Puffer sind deine Rettung, wenn du Farben kurzfristig zwischendepotieren
+    musst.
 
-### Gameplay Strategy & Walkthrough
+2.  **Von fertigen Flaschen aus aufbauen**  
+    Wenn eine Flasche bereits komplett einfarbig ist, lass sie möglichst
+    unangetastet. Betrachte fertige Farben als „abgeschlossen“ und arbeite von
+    ihnen aus nach außen weiter.
 
-1.  **[DE]** Keep two buffers empty if possible; they’re your escape valves.
-2.  **[DE]** Build from completed bottles outward; lock finished colors early.
-3.  **[DE]** Top‑down pours: Move top colors to consolidate stacks before addressing deep layers.
-4.  **[DE]** Avoid burying singletons; surface odd colors early to prevent traps.
-5.  **[DE]** Deadlock check: If all moves reverse progress, undo and change the pour order.
+3.  **Von oben nach unten sortieren**  
+    Sorge zuerst dafür, dass die oberen Schichten einer Farbe zusammenkommen,
+    bevor du dich an tiefer liegende Lagen wagst. So verhinderst du, dass du
+    wichtige Farben unter anderen vergräbst.
 
-### Controls Guide
+4.  **Einzelne Farben nicht vergraben**  
+    Vermeide es, einzelne „Einzelstücke“ einer Farbe tief unter andere Farben
+    zu schichten. Hole solche Ausreißer früh nach oben, sonst blockieren sie
+    später komplette Flaschen.
 
-- Tap a source bottle, then a destination; undo/reset if available; hints may suggest a pour.
+5.  **Deadlocks erkennen**  
+    Wenn alle möglichen Züge nur noch rückwärtsgerichtet wirken oder dich immer
+    wieder in denselben Zustand bringen, mach einen Schritt zurück und ändere
+    die Pour-Reihenfolge. Nutze Rückgängig-/Neustart-Funktionen, falls
+    vorhanden.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I reach unwinnable states — how to prevent?
+- Tippe zuerst auf die Quellflasche und danach auf die Zielflasche, um zu
+  gießen.
+- Mit Rückgängig- oder Reset-Buttons (falls vorhanden) kannst du Züge
+  zurücknehmen oder das Level neu starten.
+- Hinweise können dir mögliche Züge vorschlagen, sollten aber nicht deine
+  komplette Planung ersetzen.
 
-A: Preserve buffers, avoid burying singles, and commit a bottle as soon as it’s uniform.
+### FAQ
 
-- Q: Any universal opener?
+- **F: Ich lande ständig in unlösbaren Situationen – wie kann ich das
+  vermeiden?**  
+  **A:** Halte immer Pufferflaschen frei, vergrabe keine Einzelstücke tief
+  unter andere Farben und schließe fertige Flaschen konsequent ab, statt sie
+  wieder zu vermischen.
 
-A: Consolidate the most frequent color first; it frees buffers fastest.
+- **F: Gibt es eine allgemeine Startstrategie?**  
+  **A:** Konzentriere dich zunächst auf die Farbe, die am häufigsten vorkommt.
+  Wenn diese Farbe früh sortiert ist, bekommst du mehr freie Flaschen und damit
+  zusätzliche Puffer.
 
-- Q: Are hints reliable?
-
-A: Decent for early steps; deep puzzles still need planning.
-
+- **F: Sind die Hinweise zuverlässig?**  
+  **A:** Für einfache Level reichen sie meist aus. In schwierigen Rätseln
+  brauchst du trotzdem eine eigene Planung über mehrere Züge hinweg.

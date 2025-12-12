@@ -1,87 +1,42 @@
 ---
+title: "Bricks Breaker ブリックス・ブレイカー"
+description: "「Bricks Breaker」は不朽の名作ブロック崩しの現代版。パドルでボールを打ち返し、全てのレンガを破壊しよう。マルチボールやレーザーなどのパワーアップも魅力。"
+iframeSrc: "https://8k4jssm0a1f0o.h5games.usercontent.goog/v/1hioq97j28ts0/"
+thumbnail: "/new-images/bricks-breaker.png"
+urlstr: "bricks-breaker"
+score: "4.4/5  (1984 votes)"
+tags: ["action", "casual", "flash"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bricks-breaker
-title: '[JA TRANSLATION NEEDED] Bricks Breaker'
-description: >-
-  [JA TRANSLATION NEEDED] Get ready for classic arcade action in Bricks Breaker!
-  Control the paddle, bounce the ball, and destroy all the bricks to clear
-  levels.
-iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
-thumbnail: /new-images/bricks-breaker.jpg
-tags:
-  - action
-  - casual
-  - flash
-score: 4.4/5  (1984 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Bricks Breaker（ブリックス・ブレイカー）*は、時代を超えて愛されるアーケードの名作（アルカノイドやブロック崩し）を現代風にアレンジしたゲームです。目的はシンプル。跳ね回るボールをパドルで打ち返し、画面上のすべてのレンガ（ブロック）を破壊することです。
 
-[JA TRANSLATION NEEDED] Bricks Breaker is a modern take on the timeless arcade classic. The objective is to destroy all the bricks on the screen by hitting them with a bouncing ball. You control a paddle at the bottom of the screen to keep the ball in play. As you break bricks, you can collect various power-ups to help you clear levels faster. With numerous levels, challenging brick formations, and exciting power-ups, Bricks Breaker offers endless fun.
+プレイヤーは画面下部のパドルを左右に操作してボールを落とさないようにキープします。レンガを破壊していくと、パドルを伸ばしたり、ボールを分裂させたり、強力なレーザーを発射したりできる様々な「パワーアップアイテム」が落ちてきます。豊富なレベルとトリッキーなブロック配置があなたを待っています。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  **Control the Paddle:** Your primary job is to position the paddle to intercept the ball. Try to hit the ball with the edges of the paddle to change its angle and send it to different parts of the screen.
-[JA TRANSLATION NEEDED] 2.  **Aim for the Top:** Try to get the ball into the space above the bricks. It will bounce around for a while, destroying many bricks without any risk of you missing the ball.
-[JA TRANSLATION NEEDED] 3.  **Grab Power-Ups:** Falling power-ups can give you significant advantages, such as a wider paddle, multiple balls (multi-ball), or a laser to shoot bricks directly. Prioritize catching these.
-[JA TRANSLATION NEEDED] 4.  **Focus on Tough Bricks:** Some bricks may require multiple hits to be destroyed. Focus your efforts on these to open up the level.
-[JA TRANSLATION NEEDED] 5.  **Use the Walls:** Use the side walls to your advantage. Bouncing the ball off the walls at sharp angles can help you reach tricky spots.
+1.  **パドル操作の基本：** パドルの位置取りが全てです。パドルの「端」でボールを打つと、反射角度が変わり、ボールを予期せぬ方向へ飛ばすことができます。これをマスターして狙った場所へ打ち込みましょう。
+2.  **上部を狙う（裏取り）：** 左右の壁際を崩して、ボールをレンガの「上」の空間に送り込みましょう。一度上に入れば、天井とレンガの間で激しく反射し、リスクなしで大量破壊が可能です。
+3.  **パワーアップを逃すな：** 落ちてくるアイテムはゲームを有利にします。特に「パドル伸長（Wide Paddle）」やボールが3つに増える「マルチボール（Multi-ball）」、レンガを直接撃てる「レーザー（Laser）」は強力です。多少無理をしてでも取る価値があります。
+4.  **硬いレンガに集中：** 何度も当てないと壊れない硬いレンガが存在します。これらを早めに壊して道を切り開くことに集中しましょう。
+5.  **壁を使う：** サイドの壁を利用した反射（バンクショット）を使えば、直接狙えない場所にあるレンガにもボールを当てることができます。
 
-### Controls Guide
+### 操作ガイド
 
-*   **Move Paddle:** Move your mouse left and right to control the paddle's position.
-    - **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.（日本語訳が必要）
-    - **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.（日本語訳が必要）
-    - **A:** パワー-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-    - **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.（日本語訳が必要）
-    - **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.（日本語訳が必要）
-    - **A:** パワー-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-*   **Launch Ball:** Click the left mouse button to launch the ball from the paddle at the start of each life.
+*   **パドル移動：** マウスを左右に動かすだけでパドルが追従します。
+*   **ボール発射：** 各ライフの開始時に、左クリックでボールを発射します。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.
+*   **Q: ゲームの目的は？**
+    *   **A:** 各レベルにある破壊可能なレンガをすべて壊して、次のレベルへ進むことです。
 
-*   **Q: What happens if I miss the ball?**
-[JA TRANSLATION NEEDED]     *   **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.
+*   **Q: ボールを落とすとどうなりますか？**
+    *   **A:** ライフが1つ減ります。全てのライフがなくなるとゲームオーバーです。
 
-*   **Q: What do the different power-ups do?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** Power-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-- **Q: What do the different power-ups do?**
-    - **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.
-- **Q: What happens if I miss the ball?**
-    - **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.
-- **Q: What is the goal of the game?**
-### よくある質問（FAQ）
-- **Launch Ball:** Click the left mouse button to launch the ball from the paddle at the start of each life.
-- **Move Paddle:** Move your mouse left and right to control the paddle's position.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** Power-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-- **Q: What do the different power-ups do?**
-    - **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.
-- **Q: What happens if I miss the ball?**
-    - **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.
-- **Q: What is the goal of the game?**
-
-    - **A:** Power-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-[JA TRANSLATION NEEDED]     *   **A:** Power-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-
+*   **Q: どんなパワーアップがありますか？**
+    *   **A:** バージョンによりますが、一般的には「パドルが伸びる」「ボールが増える」「ボールが貫通弾（ファイアボール）になる」「パドルからレーザーが出る」「ボールが遅くなる」などがあります。赤いアイテムはマイナス効果（パドルが縮むなど）の場合もあるので注意が必要です。

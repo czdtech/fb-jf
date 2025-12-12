@@ -1,62 +1,35 @@
 ---
+title: "King Rugni Tower Conquest"
+description: "King Rugni Tower Conquestはコンパクトなタワーディフェンスです。タワーを配置し、敵のルートを誘導し、賢くアップグレードして防衛ラインを守りましょう。"
+iframeSrc: "https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/"
+thumbnail: "/new-images/king-rugni-tower-conquest.jpg"
+urlstr: "king-rugni-tower-conquest"
+score: "4.2/5  (2106 votes)"
+tags: ["tower Defense", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: king-rugni-tower-conquest
-title: '[JA TRANSLATION NEEDED] King Rugni Tower Conquest'
-description: >-
-  [JA TRANSLATION NEEDED] King Rugni Tower Conquest is a compact tower defense —
-  place towers, route creeps, and upgrade smartly to hold lines.
-iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
-thumbnail: /new-images/king-rugni-tower-conquest.jpg
-tags:
-  - tower Defense
-  - thinky
-score: 4.2/5  (2106 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+King Rugni Tower Conquestは、合理化されたタワーディフェンスです。様々な敵タイプに対抗するためにタワーを配置してアップグレードし、限られたゴールドを管理し、（可能であれば）キルゾーン（撃破地帯）を最大化するためにパスを形成します。
 
-[JA TRANSLATION NEEDED] King Rugni Tower Conquest is a streamlined tower defense. Place and upgrade towers to counter varied enemy types, manage limited gold, and shape paths (if possible) to maximize kill zones.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **まずカバレッジ（範囲）:** 長いパスと共有のチョークポイント（要所）をカバーするためにタワーを配置しましょう。
+2.  **ダメージの混合:** ウェーブ（波状攻撃）とエリート（強敵）に対処するために、単体ターゲットとスプラッシュ（範囲攻撃）を組み合わせましょう。
+3.  **早期アップグレード:** 多くの弱いタワーよりも、少数のよくアップグレードされたタワーの方が優れていることが多いです。
+4.  **パス整形（経路の形成）:** ルーティング（経路変更）が存在する場合、キルゾーンを通るより長いパスを強制しましょう。
+5.  **経済:** ゴールドを過剰に貯めないでください。複利的な価値のために早期に投資しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Coverage first: Place towers to cover long paths and shared choke points.
-[JA TRANSLATION NEEDED] 2.  Mixed damage: Combine single‑target and splash to handle waves and elites.
-[JA TRANSLATION NEEDED] 3.  Early upgrades: A few well‑upgraded towers often beat many weak ones.
-[JA TRANSLATION NEEDED] 4.  Path shaping: If routing exists, force longer paths through kill zones.
-[JA TRANSLATION NEEDED] 5.  Economy: Don’t over‑float gold—invest early for compounding value.
+### 操作ガイド
 
-### Controls Guide
+- UIを介してタワーを配置/アップグレード/売却します。
+- 準備ができたらウェーブを開始します。計画を立てるために一時停止します。
 
-- Place/Upgrade/Sell towers via the UI.
-- Start waves when ready; pause to plan.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
-- Best first tower? One that covers the longest segment; upgrade it early.
-- Fast‑forward? Many versions include a speed toggle.
-
-
-
-
-
-
-
-
-
-- Fast‑forward? Many versions include a speed toggle.
-- Best first tower? One that covers the longest segment; upgrade it early.
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
-### よくある質問（FAQ）
-- Start waves when ready; pause to plan.
-- Place/Upgrade/Sell towers via the UI.
-### コントロールガイド
-
-
-
-
-- Fast‑forward? Many versions include a speed toggle.
-- Best first tower? One that covers the longest segment; upgrade it early.
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
+- **Q: 漏れ（リーク）が続く—解決策は？** 出口付近にスロー/AOE（範囲攻撃）を追加し、ダメージタイプのバランスを取りましょう。
+- **Q: 最初のタワーは何が最適？** 最も長いセグメントをカバーするもの。早期にアップグレードしましょう。
+- **Q: 早送りは？** 多くのバージョンにはスピード切り替えが含まれています。

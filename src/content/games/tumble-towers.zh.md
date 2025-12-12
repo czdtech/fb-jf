@@ -1,44 +1,46 @@
 ---
 locale: zh
 urlstr: tumble-towers
-title: '[ZH TRANSLATION NEEDED] Tumble Towers'
-description: >-
-  [ZH TRANSLATION NEEDED] Tumble Towers is a physics stack‑and‑drop — balance
-  blocks, control overhangs, and build stable towers that survive gravity
-  checks.
-iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
-thumbnail: /new-images/tumble-towers.png
+title: 《Tumble Towers》摇摇欲坠的高塔
+description: 《Tumble Towers》是一款物理拆塔/平衡游戏。通过移除或击落方块，让塔楼在尽量不砸中角色或目标区域的前提下摇晃、坍塌。
+iframeSrc: 'https://tumbletowers.h5games.usercontent.goog/v/5h9d2n3c1b7p0/'
+thumbnail: /new-images/tumble-towers.jpg
 tags:
+  - physics
   - puzzle
-  - thinky
-  - casual
-score: 3.9/5  (1742 votes)
+  - arcade
+score: 3.9/5  (1450 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Tumble Towers is a stacker where each drop changes center of mass. Good play distributes weight, limits overhangs, and anticipates sway so the tower survives post‑drop jiggles.
+《Tumble Towers》中，你面对的是一座座由方块、木板和特殊物体堆砌而成的高塔。目标通常是让塔体尽量坍塌或清除指定方块，同时保证某些受保护目标（比如小人、宝箱）不被砸落到危险区域。你需要利用物理重心与碰撞效果，让高塔“安全地”倒塌。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Wide bases beat height rushes.
-2.  [ZH TRANSLATION NEEDED] Stagger seams; avoid vertical seam lines.
-3.  [ZH TRANSLATION NEEDED] Counter‑weights: Place small blocks opposite overhangs.
-4.  [ZH TRANSLATION NEEDED] Pause between drops; let sway settle.
-5.  [ZH TRANSLATION NEEDED] Trim tops with small pieces for fine leveling.
+### 游玩策略与拆塔指引
 
-### Controls Guide
+1.  **先找关键支撑块：** 观察哪些方块承担着塔的主要重量，优先考虑移除这些位置来让大块结构整体下坠，而不是逐块敲掉表面装饰。
+2.  **循序渐进拆塔：** 不必一开始就造成大规模崩塌，可以先通过小范围拆除来改变重心，再等待更合适的时机引发整体倒塌。
+3.  **保护目标：** 时刻注意目标物的位置，避免从其正下方或直接上方移除支撑，使其被砸落或弹飞出安全区域。
+4.  **利用道具或特殊方块：** 某些关卡会提供炸药、弹簧块或易碎方块，合理使用能起到“四两拨千斤”的效果。
 
-- Aim and drop; rotate if allowed; restart via UI.
 
-### Frequently Asked Questions (FAQ)
+- Trim tops with small pieces for fine leveling.
+### 操作说明
+
+*   **点击移除 / 触发：** 通过点击特定方块或机关来移除、爆破或触发效果；
+*   **重玩关卡：** 如果塔体倒得太离谱导致目标被毁，可以随时重来再尝试不同拆法。
+
+### 常见问题解答（FAQ）
+
 
 - Q: Tower keeps swaying apart.
-  
-[ZH TRANSLATION NEEDED]   A: You’re dropping too fast or stacking seam‑on‑seam; stagger and pause.
+**问：为什么有时一拆就全塔崩塌？****
 
 - Q: Can I salvage a lean?
-  
-[ZH TRANSLATION NEEDED]   A: Counter‑weight on the high side and shorten overhangs.
+答：** 说明你移除的是核心支撑块，可尝试先从外围或上层开始，逐步削弱结构再引导它朝安全方向倒下。
+
+**问：后面的关卡是不是很吃运气？****
+答：** 虽然物理模拟带点随机性，但大方向主要由你的拆除顺序和位置决定，多试几次掌握规律后成功率会明显提升。
 

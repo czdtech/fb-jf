@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: sprunki-retake
-title: "[KO] Sprunki Retake \U0001F525 Play Sprunki Retake Online"
+title: "Sprunki Retake \U0001F525 스프룽키 리테이크"
 description: >-
-  [KO] If you love rhythm games and have a penchant for horror elements, Sprunki
-  Retake will definitely get you hooked!
+  Sprunki Retake는 리듬 게임과 공포 요소를 결합한 스프룽키 시리즈 후속 모드입니다. 익숙한 음악 제작 시스템 위에 스릴과
+  서스펜스를 더해, 긴장감 있는 트랙과 연출을 즐길 수 있습니다.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
 thumbnail: /sprunki-retake.png
 tags:
@@ -15,45 +15,64 @@ score: 4.3/5  (524 votes)
 
 
 
-### Introducing to Sprunki Retake
+### Sprunki Retake 소개
 
-If you love rhythm games and have a penchant for horror elements, Sprunki Retake will definitely get you hooked! This game not only retains the charm and creativity of the Sprunki series but also injects more fresh blood, guaranteeing you scream and fly!
+리듬 게임을 좋아하면서도 공포 요소가 섞인 색다른 경험을 원한다면,
+Sprunki Retake가 잘 어울립니다. 스프룽키 특유의 창의적인 음악 만들기 구조에
+어둡고 기묘한 연출을 더해, 단순한 BGM 제작 이상의 체험을 제공합니다.
 
----
+### Sprunki Retake란?
 
-### What Exactly Is Sprunki Retake?
+간단히 말해, Sprunki Retake는 스프룽키 시리즈의 강력한 후속편 같은 모드입니다.
+리듬에 맞춰 몸을 맡기다가도, 언제 튀어나올지 모를 공포 연출에 대비해야 하는
+세계로 플레이어를 끌어들입니다.
 
-Simply put, Sprunki Retake is the powerful sequel in the Sprunki series! Imagine being in a spooky world where you not only have to sway to the rhythm but also be prepared to welcome sudden scares. Doesn't it sound exciting just thinking about it?
+### Sprunki Retake 게임 플레이
 
----
+Sprunki Retake는 알록달록하지만 위험한 세계 속으로 플레이어를 던져 넣습니다.
+기본적인 구조는 다음과 같습니다.
 
-### How Do You Actually Play This Game?
+- **탐험:**
+  넓은 레벨을 자유롭게 돌아다니며 숨겨진 길과 비밀 공간을 찾아 나섭니다.
+- **도전:**
+  각 구역에는 빠른 판단과 전략이 필요한 다양한 도전이 준비되어 있습니다.
+  퍼즐을 풀고, 위협 요소를 피하고, 여러 과제를 클리어해야 합니다.
+- **캐릭터 커스터마이징:**
+  외형과 능력을 조정해 자신의 플레이 스타일에 맞는 주인공을 만들어
+  리듬·공포 세계를 공략할 수 있습니다.
 
-Sprunki Retake throws you into a colorful but dangerous world. All you need to do is:
+### Sprunki Retake의 하이라이트
 
-- **Explore:** Freely explore the vast levels, dig up hidden paths and secret areas, which contain various treasures and collectibles!
-- **Challenge:** Each level has unique challenges that require you to think quickly and plan strategically. Solve puzzles, fight monsters, complete tasks, you can't miss any!
-- **Customize Characters:** You can customize the appearance and abilities of your character to create an exclusive hero that perfectly fits your gaming style!
+- **공포 분위기 사운드:**
+  기묘한 효과음과 어두운 사운드를 활용해 자신만의 호러 트랙을 만들 수 있습니다.
+- **개성적인 캐릭터:**
+  각자 고유의 공포 사운드를 지닌 캐릭터를 잠금 해제해 믹스에 참여시킬 수
+  있습니다.
+- **리믹스 마스터:**
+  캐릭터를 옮기고 섞으면서 독특한 리듬을 만들고, 자신의 음악적 창의력을
+  시험해 볼 수 있습니다.
+- **이스터에그:**
+  숨겨진 사운드 조합을 찾아 특수 애니메이션과 추가 콘텐츠를 해금할 수 있어,
+  탐색하는 재미가 큽니다.
+- **몰입감 높은 연출:**
+  어둡고 기묘한 분위기, 색감, 이펙트가 어우러져 긴장감을 유지하게 만듭니다.
+- **그래픽 업그레이드:**
+  컬러풀하면서도 묘하게 불안한 비주얼과 부드러운 애니메이션으로 스프룽키
+  세계를 한층 더 생생하게 표현합니다.
+- **새 캐릭터 등장:**
+  각기 다른 능력과 성격을 지닌 신규 캐릭터들이 추가되어, 사운드 조합의 폭이
+  넓어졌습니다.
+- **음악과 플레이의 결합:**
+  퍼즐 해결과 진행 과정 전체가 음악과 맞물려, 리듬을 통해 몰입감을
+  극대화합니다.
+- **멀티플레이:**
 
-
----
-
-### What Are the Highlights of Sprunki Retake?
-
-- **Spooky Sound Effects:** Use those creepy sound effects to create your unique horror music, it's just too cool!
-- **Personalized Characters:** Unlock various cool characters, each with their own exclusive horror sounds, perfectly integrated into your musical creations!
-- **Remix Master:** Move and mix characters to create unique rhythms, challenging your musical creativity!
-- **Easter Egg Surprise:** Find hidden sound combinations to unlock interesting animations and extra content, guaranteeing you will be pleasantly surprised!
-- **Let Yourself Go:** Feel free to experiment with various sounds and create your own original horror works!
-- **Immersive Experience:** Immerse yourself in a weird atmosphere full of darkness and mystery, guaranteeing your adrenaline soars!
-- **Graphics Upgrade:** The graphics are colorful and the animations are smooth, bringing the world of Sprunki to life!
-- **New Characters:** Meet a variety of new characters with unique abilities and personalities to enrich your gaming experience!
-- **Musical Integration:** Like its predecessors, integrate music into the gameplay, enhancing your immersion in solving puzzles and traversing levels!
 - **Multiplayer Mode:** Team up with your friends online to jointly deal with challenges and double the fun!
+  친구와 함께 도전을 공략하며, 협력 또는 경쟁을 통해 두 배의 재미를
+  느낄 수 있습니다.
 
+### 한 줄 요약
 
----
-
-### A Summary in One Sentence:
-
-Sprunki Retake successfully inherits the essence of the previous work, while bringing more fresh and exciting elements. Whether you are a long-time fan of Sprunki or a new player, you can find your own fun in the world of Sprunki Retake! Ready to scream? Let's go!
+Sprunki Retake는 전작의 장점을 계승하면서도, 더 신선하고 강렬한 요소를
+추가한 모드입니다. 스프룽키를 오래 즐겨온 팬이든, 이제 막 입문한 플레이어든,
+이 세계 안에서 자신만의 즐거움을 찾을 수 있을 것입니다.

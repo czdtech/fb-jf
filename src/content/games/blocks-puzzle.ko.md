@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: blocks-puzzle
-title: '[KO] Blocks Puzzle'
+title: 'Blocks Puzzle 블록 퍼즐'
 description: >-
-  [KO] Blocks Puzzle is a classic and addictive block puzzle game. Your goal is
-  to fit blocks of different shapes into a 10x10 grid.
+  Blocks Puzzle는 10x10 격자에 다양한 모양의 블록을 끼워 넣으며 높은 점수를
+  노리는 고전 퍼즐 게임입니다.
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/blocks-puzzle.jpg
 tags:
@@ -15,35 +15,56 @@ score: 4.2/5  (1765 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Blocks Puzzle는 직관적이면서도 깊이 있게 즐길 수 있는 고전 블록 퍼즐 게임입니다.
+플레이어의 목표는 다양한 모양의 블록을 10x10 격자 보드 위에 빈틈 없이 배치하는
+것입니다. 가로줄 또는 세로줄 한 줄을 완전히 채우면 그 줄이 사라지면서 공간이
+비워지고 점수를 획득합니다.
 
+보드에 더 이상 세 개의 후보 블록 중 어느 것도 놓을 수 없게 되면 게임이 종료되며,
+그때까지 쌓은 점수가 최종 점수가 됩니다. 시간 제한이 없기 때문에 충분히 생각하면서
+한 수 한 수 신중하게 두어 최고 점수를 노려 보세요.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Blocks Puzzle is a classic and engaging puzzle game that challenges your spatial reasoning. The objective is simple: fit variously shaped blocks onto a 10x10 grid. When you complete a full row or column, the line clears, freeing up space and earning you points. The game ends when you can no longer place any of the given blocks on the grid. With no time limit, you can think strategically to achieve the highest score.
+1.  **미리 계획하며 배치하기**  
+    한 번에 세 개의 블록이 제시됩니다. 지금 놓을 블록만 보지 말고 나머지 둘까지
+    함께 고려해 보세요. 현재 한 수가 다음 수들의 배치 가능 공간에 어떤 영향을
+    줄지 항상 생각하면서 움직이는 것이 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **줄 지우기를 최우선으로**  
+    보드를 넓게 유지하는 것이 생존의 핵심입니다. 눈앞의 빈칸을 아무렇게나 채우기
+    보다는 가로줄·세로줄을 지울 수 있는 위치를 우선적으로 선택해 보세요. 때로는
+    좋아 보이는 자리를 일부 포기하더라도 줄을 지울 수 있는 선택이 더 유리합니다.
 
-1.  **[KO]** **Plan Ahead:** Look at the three blocks you are given. Before placing one, consider how the other two might fit and how your move will affect the board's future state.
-2.  **[KO]** **Prioritize Clearing Lines:** Your main goal is to keep the board as clear as possible. Always look for opportunities to clear lines, even if it means sacrificing a seemingly good spot for a single block.
-3.  **[KO]** **Create Combos:** Clearing multiple lines with a single block placement will grant you a combo bonus and a significantly higher score. Try to set up the board to enable these multi-line clears.
-4.  **[KO]** **Don't Clog the Center:** It's tempting to fill the middle of the board first, but this can quickly lead to a clogged grid. Try to build from the corners and edges, keeping the center open for larger or more awkward pieces.
-5.  **[KO]** **Manage Difficult Shapes:** Some pieces, like the 3x3 square or the long straight line, require a lot of space. Try to use them as soon as you get them or ensure you have a dedicated space ready for them. Leaving them for later can be risky.
+3.  **콤보를 노려 고득점하기**  
+    한 번의 블록 배치로 여러 줄을 동시에 지우면 콤보 보너스를 얻어 훨씬 큰 점수를
+    획득할 수 있습니다. 일부 칸을 비워 두더라도, 여러 줄을 한꺼번에 지울 수 있는
+    모양을 미리 만들어 두면 고득점에 큰 도움이 됩니다.
 
-### Controls Guide
+4.  **보드 중앙을 막지 않기**  
+    중앙부터 채우기 시작하면 처음에는 편해 보이지만 금세 움직일 공간이 부족해질
+    수 있습니다. 가능한 한 모서리와 가장자리부터 블록을 쌓아 올리고, 중앙은 큰
+    블록이나 애매한 모양이 들어갈 "여유 공간"으로 남겨 두는 것이 좋습니다.
 
-*   **[KO]** **Drag and Drop:** Use your mouse to click and drag a block from the selection area onto the grid.
-*   **[KO]** **Placement:** Release the mouse button to place the block in the desired position.
-*   **[KO]** **No Rotation:** In this version of the game, blocks cannot be rotated. You must use them in the orientation they are given.
+5.  **까다로운 블록은 먼저 처리하기**  
+    3x3 정사각형이나 긴 일자 블록처럼 많은 공간이 필요한 조각들은 보드를 꽉 채운
+    상태에서는 사용하기가 매우 어렵습니다. 이런 블록을 받았다면, 최대한 빨리
+    사용하거나 미리 전용 공간을 비워 두세요. 나중으로 미루면 한 번에 게임이
+    터져버릴 위험이 큽니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-*   **[KO]** **Q: Can I rotate the blocks?**
-    *   **[KO]** **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.
+-   **드래그 앤 드롭:** 후보 영역의 블록을 클릭/터치해 10×10 격자 위로 끌어올립니다.  
+-   **배치 확정:** 원하는 위치에서 손을 떼면 해당 칸에 고정됩니다.  
+-   **회전 불가:** 이 버전은 블록 회전을 지원하지 않으므로, 주어진 방향 그대로 사용해야 합니다.
 
-*   **[KO]** **Q: How do I get a higher score?**
-    *   **[KO]** **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What happens when I run out of moves?**
-    *   **[KO]** **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.
-
+-   **Q. 블록을 회전시킬 수 있나요?**
+    -   **A.** 아니요. 회전이 되지 않으므로, 배치 전에 모양과 방향을 미리 고려해야 합니다.
+-   **Q. 어떻게 하면 더 높은 점수를 얻을 수 있나요?**
+    -   **A.** 한 조각으로 두세 줄을 함께 지우는 콤보를 노리세요. 보드를 깨끗하게 유지할수록 생존 시간이 늘어나고 점수도 올라갑니다.
+-   **Q. 더 이상 놓을 수 있는 블록이 없으면 어떻게 되나요?**
+    -   **A.** 세 개의 후보 블록 중 어떤 것도 배치할 수 없으면 즉시 게임이 종료되고, 그 시점의 점수가 최종 점수가 됩니다.

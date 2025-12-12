@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: snake-io
-title: '[KO] Snake.io'
+title: "Snake.io 스네이크.io"
 description: >-
-  [KO] Play Snake.io, a popular multiplayer action game that modernizes the
-  classic snake experience. Compete against others to become the longest snake
-  by consuming pellets and defeating opponents. Use speed boosts strategically
-  to dominate the arena in this addictive casual game.
+  Snake.io는 고전 스네이크 게임을 현대적으로 재해석한 멀티플레이 액션 게임으로, 먹이를
+  먹어 몸을 키우고 다른 뱀과의 심리전을 통해 가장 길고 거대한 뱀이 되는 것이 목표입니다.
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/snake-io.jpg
 tags:
@@ -19,35 +17,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Snake.io is a popular online multiplayer game that puts a modern spin on the classic snake concept. Players control a snake-like avatar and compete against other players in real-time to become the largest and longest snake on the server. The primary objective is to grow your snake by consuming glowing pellets scattered throughout the game area while strategically defeating opponents by forcing them to collide with your body.
+*Snake.io*는 고전 스네이크 컨셉에 온라인 멀티플레이 요소를 더한 게임입니다. 플레이어는 뱀 모양의
+아바타를 조종해 실시간으로 다른 플레이어들과 한 맵에서 경쟁하며, 빛나는 먹이를 먹어 몸을
+늘려 나가야 합니다. 주요 목표는 최대한 오래 살아남으면서 몸집을 키워 서버에서 가장 길고 큰
+뱀이 되는 것입니다. 상대의 머리를 자신의 몸통에 부딪히게 만들어 쓰러뜨리고, 그 자리에서
+쏟아지는 많은 먹이를 먹으면 빠르게 성장할 수 있습니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-Your main goal is to grow by eating pellets. The pellets left behind by a defeated snake will make you grow much faster than the standard scattered ones. To defeat an opponent, you must trick them into running their head into your snake's body. When a snake is defeated, it transforms into a large trail of valuable pellets. Be careful, as your game ends if you run into another snake's body or the arena walls.
+- **성장:** 맵 전체에 흩어진 작은 먹이를 먹어 몸을 키우고, 쓰러진 뱀이 남긴 큰 궤적을
+  먹으면 훨씬 빠르게 성장합니다.
+- **공격:** 상대의 이동 경로를 예측해 머리를 자신의 몸 앞에 가로놓으면, 상대가 부딪혀
+  즉시 사망하고 많은 먹이를 떨굽니다.
+- **주의:** 반대로, 자신의 머리가 다른 뱀의 몸이나 경기장 벽에 닿으면 즉시 게임이
+  끝납니다.
 
-### Controls Guide
+### 조작 방법
 
-**PC/Web Browser:**
-- **Mouse:** Your snake follows the direction of your mouse cursor.
-- **Keyboard:** Use the `WASD` or arrow keys for movement.
-- **Speed Boost:** Hold the left mouse button or the spacebar to get a burst of speed. Using the boost consumes your mass, so use it wisely.
+**PC/웹 브라우저:**
+- **마우스:** 커서 방향으로 뱀이 따라 움직입니다.
+- **키보드:** `WASD` 또는 방향키로 이동을 제어할 수 있는 버전도 있습니다.
+- **스피드 부스트:** 마우스 왼쪽 버튼 또는 스페이스바를 길게 눌러 잠시 속도를 높일 수
+  있습니다. 이때 몸 길이 일부를 소모하므로 남용하지 않는 것이 좋습니다.
 
-**Mobile:**
-- Use the on-screen virtual joystick or touch and drag your finger to guide the snake.
+**모바일:**
+- 화면의 가상 조이스틱이나 터치 드래그로 이동 방향을 조절합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**Is Snake.io a real multiplayer game?**
+**Q: Snake.io는 실제 멀티플레이 게임인가요?**  
+> 네, 실시간 멀티플레이 환경에서 다른 플레이어들과 함께 경쟁하게 됩니다.
 
-Yes, Snake.io is a real-time multiplayer game where you compete against other live players.
+**Q: Snake.io와 Slither.io의 차이는 무엇인가요?**  
+> 기본적인 게임 방식은 비슷하지만, Snake.io는 다양한 캐릭터 스킨과 테마 월드 등에서
+> 차별점을 두는 버전이 많습니다.
 
-**What is the main difference between Snake.io and Slither.io?**
-
-While the core gameplay is similar, Snake.io offers a wider variety of character skins and themed worlds.
-
-**Can I play Snake.io with friends?**
-
-Yes, you can compete with friends to see who can achieve the highest score and become the biggest snake.
-
+**Q: 친구와 함께 할 수 있나요?**  
+> 같은 서버에 접속해 누가 더 높은 점수와 긴 몸 길이를 기록하는지 겨룰 수 있습니다.

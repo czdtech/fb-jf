@@ -1,123 +1,46 @@
 ---
+title: "Fruit Cube Blast"
+description: "Fruit Cube Blastでジューシーなレベルをブラストしましょう！マッチするフルーツキューブのグループをタップして爆発的なコンボを作り、この楽しいカラフルなパズルゲームでボードをクリアしましょう。"
+iframeSrc: "https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/"
+thumbnail: "/new-images/fruit-cube-blast.jpg"
+urlstr: "fruit-cube-blast"
+score: "4.2/5  (1770 votes)"
+tags: ["puzzle", "casual", "clicker"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: fruit-cube-blast
-title: '[JA TRANSLATION NEEDED] Fruit Cube Blast'
-description: >-
-  [JA TRANSLATION NEEDED] Blast your way through juicy levels in Fruit Cube
-  Blast! Tap groups of matching fruit cubes to create explosive combos and clear
-  the board in this fun and colorful puzzle game.
-iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
-thumbnail: /new-images/fruit-cube-blast.jpg
-tags:
-  - puzzle
-  - casual
-  - clicker
-score: 4.2/5  (1770 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
-4.  **Conserve 移動するs:** Each level has a limited number of moves. Don't waste them on small, insignificant matches. Try to set up large matches that will create boosters or cause large cascades.
+Fruit Cube Blastは、鮮やかで爆発的な「タップしてブラスト」パズルゲームです。アイテムを交換するマッチ3ゲームとは異なり、このゲームでは、隣接する同一のフルーツキューブのグループ（2つ以上）をタップしてボードからブラストします。目標は、戦略的にキューブをクリアし、強力なコンボを作成することで、レベル固有の目標を達成することです。より大きなキューブグループをブラストすることで、さらに多くのレベルを壮大な方法でクリアするためのロケットや爆弾のような特殊なブースターを作成できます。
 
-[JA TRANSLATION NEEDED] Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike match-3 games where you swap items, in this game, you tap on groups of two or more adjacent, identical fruit cubes to blast them off the board. The goal is to complete level-specific objectives by strategically clearing cubes and creating powerful combos. By blasting larger groups of cubes, you can create special boosters like rockets and bombs to clear even more of the level in spectacular fashion.
-The controls are extremely simple.（日本語訳が必要）
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **大きい方が良い:** 常にマッチするキューブの最大のグループを探してタップします。2または3の小さなグループをタップするのは効率が悪いです。大きなグループはより多くのスペースをクリアするだけでなく、強力なブースターを作成する唯一の方法でもあります。
+2.  **ブースターを作成して組み合わせる:** これは難しいレベルに勝つためのコア戦略です。
+    *   **ロケット:** 5〜6個のキューブのグループをタップしてロケットを作成し、完全な行または列をクリアします。
+    *   **爆弾:** 7〜8個のキューブのグループをタップして爆弾を作成し、3x3エリアをクリアします。
+    *   **カラーホイール:** 9個以上のキューブのグループをタップしてカラーホイールを作成し、単一の色のすべてのキューブをクリアします。
+    *   **組み合わせ:** 本当の力は、2つのブースターを隣同士で有効化することから来ます。例えば、ロケット + 爆弾のコンボは巨大なエリアをクリアします。
 
-- **Q: Why can't I tap on a single cube?**（日本語訳が必要）
-[JA TRANSLATION NEEDED] 1.  **Bigger is Better:** Always look for the largest possible group of matching cubes to tap. Tapping a small group of 2 or 3 is less efficient. Larger groups not only clear more space but are also the only way to create powerful boosters.
-[JA TRANSLATION NEEDED] 2.  **Create and Combine Boosters:** This is the core strategy for winning difficult levels.
-[JA TRANSLATION NEEDED]     *   **Rocket:** Tap a group of 5-6 cubes to create a Rocket, which clears a full row or column.
-[JA TRANSLATION NEEDED]     *   **Bomb:** Tap a group of 7-8 cubes to create a Bomb, which clears a 3x3 area.
-[JA TRANSLATION NEEDED]     *   **Color Wheel:** Tap a group of 9 or more cubes to create a Color Wheel, which clears all cubes of a single color.
-[JA TRANSLATION NEEDED]     *   **Combine:** The real power comes from activating two boosters next to each other. For example, a Rocket + Bomb combo clears a huge area.
+3.  **目標を計画する:** ゴールに注意を払いましょう。30個の赤いキューブを集める必要がある場合は、赤いキューブのマッチに焦点を当てます。アイテムを底に落とす必要がある場合は、その真下のキューブをクリアすることに焦点を当てます。
+4.  **手数を節約する:** 各レベルには限られた数の手数があります。小さくて取るに足らないマッチでそれらを無駄にしないでください。ブースターを作成するか、大きなカスケード（連鎖）を引き起こす大きなマッチをセットアップしてみてください。
 
-[JA TRANSLATION NEEDED] 3.  **Plan for Objectives:** Pay attention to the goal. If you need to collect 30 red cubes, focus on matching red cubes. If you need to drop an item to the bottom, focus on clearing the cubes directly beneath it.
-[JA TRANSLATION NEEDED] 4.  **Conserve Moves:** Each level has a limited number of moves. Don't waste them on small, insignificant matches. Try to set up large matches that will create boosters or cause large cascades.
+### 操作ガイド
 
-### Controls Guide
+操作は非常にシンプルです。
 
-[JA TRANSLATION NEEDED] The controls are extremely simple.
+*   **キューブをブラスト:** マウスまたは指を使用して、同じ色の隣接する2つ以上のキューブのグループをタップしてブラストします。
+*   **ブースターを有効化:** ブースター（ロケット、爆弾など）を単にタップして有効化します。
 
-*   **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
-*   **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
-- **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-- **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
+*   **Q: なぜ単一のキューブをタップできないのですか？**
+    *   **A:** ゲームでは、同じ色の接続された少なくとも2つのキューブのクラスターをタップする必要があります。
 
-    - **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.（日本語訳が必要）
-3.  **Plan for 目標:** Pay attention to the goal. If you need to collect 30 red cubes, focus on matching red cubes. If you need to drop an item to the bottom, focus on clearing the cubes directly beneath it.
-    - **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.（日本語訳が必要）
-- **Q: How do I create a Rocket?**（日本語訳が必要）
-- **Q: What is the best way to clear a level with limited moves?**（日本語訳が必要）
-    - **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.（日本語訳が必要）
-*   **Q: Why can't I tap on a single cube?**
-[JA TRANSLATION NEEDED]     *   **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
+*   **Q: ロケットを作成するには？**
+    *   **A:** 5または6個の同じフルーツキューブの接続されたグループをタップすることでロケットを作成します。
 
-*   **Q: How do I create a Rocket?**
-[JA TRANSLATION NEEDED]     *   **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
-
-*   **Q: What is the best way to clear a level with limited moves?**
-[JA TRANSLATION NEEDED]     *   **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
-
-
-    - **Rocket:** タップ a group of 5-6 cubes to create a Rocket, which clears a full row or column.
-
-
-- **Conserve Moves:** Each level has a limited number of moves. Don't waste them on small, insignificant matches. Try to set up large matches that will create boosters or cause large cascades.
-- **Plan for 目標:** Pay attention to the goal. If you need to collect 30 red cubes, focus on matching red cubes. If you need to drop an item to the bottom, focus on clearing the cubes directly beneath it.
-    - **Bomb:** タップ a group of 7-8 cubes to create a Bomb, which clears a 3x3 area.
-    - **Color Wheel:** タップ a group of 9 or more cubes to create a Color Wheel, which clears all cubes of a single color.
-    - **Combine:** The real power comes from activating two boosters next to each other. For example, a Rocket + Bomb combo clears a huge area.（日本語訳が必要）
-### コントロール Guide
-
-
-
-
-
-
-
-
-
-
-    - **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
-- **Q: What is the best way to clear a level with limited moves?**
-    - **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
-- **Q: How do I create a Rocket?**
-    - **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
-- **Q: Why can't I tap on a single cube?**
-### よくある質問（FAQ）
-- **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
-- **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
-The controls are extremely simple.
-
-
-
-
-
-
-
-
-
-
-    - **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
-- **Q: What is the best way to clear a level with limited moves?**
-    - **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
-- **Q: How do I create a Rocket?**
-    - **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
-- **Q: Why can't I tap on a single cube?**
-### よくある質問（FAQ）
-- **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
-
-    - **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
-- **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
-
-
-
-
-    - **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
-- **Q: What is the best way to clear a level with limited moves?**
-    - **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
+*   **Q: 限られた手数でレベルをクリアする最良の方法は？**
+    *   **A:** 多くの小さなグループではなく、大きなキューブグループをマッチさせてブースターを作成することに焦点を当てます。次に、2つのブースターを隣り合わせに操作し、それらを一緒に有効化して、大規模なボードクリア効果を得ます。これは、単一のブースターを使用するよりもはるかに効率的です。

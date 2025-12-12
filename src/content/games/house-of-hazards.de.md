@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: house-of-hazards
-title: '[DE] House Of Hazards'
+title: "House Of Hazards"
 description: >-
-  [DE] Local party chaos: complete simple chores in a booby‑trapped house while
-  friends trigger hazards to knock you out.
+  Lokales Party-Chaos: Erledige simple Alltagsaufgaben in einem Haus voller
+  Fallen, während deine Freunde Gefahren auslösen, um dich aus dem Konzept zu
+  bringen.
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/house-of-hazards.jpg
 tags:
@@ -15,30 +16,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Überblick
 
+House of Hazards ist ein Couch-Multiplayer-Partyspiel in einem Haus, das bis
+unter die Decke mit Fallen gespickt ist. Die Spieler*innen rasen darum, als
+Erste einfache Aufgaben wie Kaffee machen, Pflanzen gießen oder das Haus
+verlassen zu erledigen – während die anderen versuchen, sie mit
+Toaster-Geschossen, schwingenden Lampen oder Bodentriggern aus dem Verkehr zu
+ziehen. Kurze Runden, chaotische Physik und raumspezifische Gags sorgen für
+ständig neue Lacher.
 
+### So spielst du
 
-### Overview
-House of Hazards is a couch‑multiplayer party game set in a trap‑filled home. Players race to finish everyday tasks—make coffee, water plants, head out the door—while opponents sabotage them by firing toasters, swinging lamps, or activating floor traps. Quick rounds, unpredictable physics, and map‑specific gags keep matches lively.
+- Im **Aufgabenmodus** gewinnst du, wenn du deine To-do-Liste vor allen anderen
+  abarbeitest. Im **Sabotagemodus** geht es darum, Fallen im genau richtigen
+  Moment auszulösen.
+- Lerne die **Triggerpunkte** in jedem Raum, um Läufer an Engstellen
+  abzufangen.
+- In Teamvarianten kannst du mit Mitspieler*innen Fallenketten vorbereiten, um
+  gleich mehrere Gegner zu erwischen.
 
-### How to Play
-- In task mode, finish your checklist first; in sabotage mode, time traps for maximum chaos.
-- Learn trigger points for each room to catch runners at chokepoints.
-- Coordinate with partners in team variants to chain hazards.
+### Steuerung
 
-### Controls
-- Simple move/jump/action keys; multiple local players with separate binds.
+- Einfache Tasten für **Bewegen**, **Springen** und **Aktion**; auf einer
+  Tastatur können mehrere lokale Spieler mit eigenen Belegungen spielen.
 
-### Tips
-- Don’t tunnel‑vision the next task—watch for glows indicating armed traps.
-- Jump before moving hazards to maintain momentum after hits.
-- As saboteur, bait movement then trigger late to catch jump arcs.
+### Tipps
 
-### FAQ
-- Q: How do I win consistently against multiple opponents?
-A: Plan a task route with minimal room crossings and avoid known ambush spots.
-- Q: Can we customize rules or teams in this game?
-A: Many hosts allow team play and house rule tweaks.
-- Q: Is there a single‑player mode available?
-A: Some hosts include bot races or challenge runs, but the game shines in local multiplayer.
+- Fixiere dich nicht nur auf deine nächste Aufgabe – achte auf leuchtende oder
+  hervorgehobene Objekte, die auf scharf geschaltete Fallen hinweisen.
+- Wenn du getroffen wirst, versuche kurz vor beweglichen Gefahren zu springen,
+  damit du nach dem Treffer schneller wieder Tempo aufnehmen kannst.
+- Als Saboteur lohnt es sich, andere in Bewegung zu locken und Fallen **spät**
+  zu zünden, um sie im Sprung oder direkt vor dem Ziel zu erwischen.
 
+### Häufige Fragen (FAQ)
+
+- **F: Wie gewinne ich zuverlässig gegen mehrere Gegner?**  
+  **A:** Plane eine Route, die möglichst wenig Raumwechsel erfordert, und meide
+  bekannte Hinterhalte. Je weniger Räume du passieren musst, desto weniger
+  Fallen können dich treffen.
+
+- **F: Können wir Regeln oder Teams anpassen?**  
+  **A:** Viele Versionen erlauben Team-Spiel oder Hausregeln – etwa bestimmte
+  Fallen zu verbieten oder Punktesysteme anzupassen.
+
+- **F: Gibt es einen Einzelspielermodus?**  
+  **A:** Einige Hosts bieten Rennen gegen Bots oder Challenge-Läufe an, aber
+  seine Stärken zeigt das Spiel klar im lokalen Multiplayer.

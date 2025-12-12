@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: color-jump
-title: '[KO] Color Jump'
+title: Color Jump 컬러 점프
 description: >-
-  [KO] Color Jump is a one‑tap runner — match colors, time jumps, and thread
-  through shifting patterns.
+  Color Jump는 장애물의 색과 내 캐릭터의 색을 맞춰 통과해야 하는 원탭 러너 게임입니다. 한 번의 점프로 리듬을 유지하며, 색이 맞지
+  않는 게이트는 피해서 끝없이 이어지는 패턴을 돌파해 보세요.
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/color-jump.png
 tags:
@@ -14,37 +14,66 @@ score: 3.9/5  (1691 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Color Jump는 화면을 자동으로 달려가는 캐릭터를 한 번의 탭으로 점프시켜, 색이
+일치하는 게이트나 발판만 통과하게 만드는 미니멀 반사신경 게임입니다. 캐릭터는
+특정 색을 띠고 있으며, 같은 색으로 칠해진 영역만 safely 통과할 수 있습니다.
 
+속도가 점점 빨라지고 색 패턴이 복잡해질수록, 앞에 놓인 게이트와 바닥 색을
+순간적으로 읽어 적절한 타이밍에 점프해야 합니다. 일부 버전에서는 코인 수집 요소나
+더블 점프 등 변형 요소가 추가될 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 팁
 
-Color Jump is a minimalist reflex game where your character can pass only through matching‑color gates or platforms. Time jumps to align colors, avoid mismatched barriers, and maintain rhythm as speed increases.
+1.  **항상 두 개 앞 장애물까지 보기**  
+    바로 눈앞의 게이트만 보고 반응하기보다, 그 뒤에 이어지는 다음 장애물까지
+    함께 보며 점프 타이밍을 잡으세요. 이렇게 하면 첫번째 게이트를 안전하게
+    통과한 뒤 곧바로 다음 패턴에 대비할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **일정한 탭 리듬 유지**  
+    속도감이 붙을수록 손이 급해지기 쉽지만, 일정한 템포로 탭/클릭하는 편이
+    오히려 실수를 줄여 줍니다. 특히 낮게 위치한 장애물은 약간 늦게 점프하는
+    편이 더 잘 넘어갈 때가 많습니다.
 
-1.  **[KO]** Read two obstacles ahead; don’t fixate on the nearest gate.
-2.  **[KO]** Keep a steady tap cadence; late jumps often dodge low obstacles better.
-3.  **[KO]** Skip risky coins when alignment is off.
-4.  **[KO]** Practice color order patterns if they loop.
-5.  **[KO]** Use sound cues to stabilize timing on dense sets.
+3.  **정렬이 애매한 코인은 과감히 포기하기**  
+    코인이나 보너스 아이템이 색/위치가 애매한 곳에 있다면 무리해서 먹으려
+    하지 말고 안전하게 지나치는 것이 좋습니다. 생존이 곧 점수입니다.
 
-### Controls Guide
+4.  **반복되는 색 순서를 눈으로 외우기**  
+    일부 구간에서는 색 패턴이 일정한 순서로 반복됩니다. 몇 번 반복해서 보면서
+    "파-노-파-보"처럼 색 순서를 머릿속으로 외우고 그 리듬에 맞춰 점프해 보세요.
 
-- Tap/Click to jump; some variants allow double jumps.
-- Pause/Restart via UI.
+5.  **사운드 큐 활용**  
+    효과음이나 배경 음악의 박자에 맞춰 점프하면, 시각 정보만 의존할 때보다
+    타이밍을 맞추기 쉬워집니다. 특히 장애물이 촘촘한 구간일수록 귀의 도움을
+    받는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
+
+-   **점프:** 화면을 탭/클릭해 캐릭터를 점프시킵니다. 일부 변형에서는 공중에서
+    한 번 더 눌러 더블 점프를 사용할 수 있습니다(게임 내 튜토리얼 참고).
+-   **일시정지/재시작:** 화면 UI의 버튼으로 게임을 멈추거나 다시 시작할 수
+    있습니다.
+
+### 자주 묻는 질문 (FAQ)
+
 
 - Q: I always hit the wrong color — any fix?
-
-A: Focus on the next two gates and time jumps slightly later to line up with high platforms.
+**1. 항상 잘못된 색에 부딪히는데, 어떻게 개선할 수 있나요?**  
 
 - Q: Is there an end?
-
-A: Often endless; set personal bests.
+> 바로 앞 장애물이 아니라 다음 두 개 장애물까지 함께 보면서, 점프 타이밍을
 
 - Q: Double jump?
+> 살짝 늦게 가져가 보세요. 특히 높은 플랫폼보다는 높은 위치의 게이트와 색을
+> 먼저 맞추는 느낌으로 연습하면 도움이 됩니다.
 
-A: Some builds include it; watch the tutorial prompt.
+**2. 엔딩이 있는 게임인가요?**  
+> 대부분의 모드는 끝이 없는 엔드리스 러너 형태입니다. 가능한 한 오래 살아남으며
+> 자신의 최고 기록을 갱신하는 것이 목표입니다.
 
+**3. 더블 점프가 항상 가능한가요?**  
+> 버전에 따라 다릅니다. 게임 시작 시 튜토리얼 안내에 더블 점프가 포함되어 있는지
+> 확인해 보세요. 지원되는 버전이라면 공중에서 한 번 더 탭해 추가 점프를 사용할
+> 수 있습니다.

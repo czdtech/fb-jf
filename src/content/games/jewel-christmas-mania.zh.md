@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-christmas-mania
-title: '[ZH TRANSLATION NEEDED] Jewel Christmas Mania'
-description: >-
-  [ZH TRANSLATION NEEDED] Get into the holiday spirit with Jewel Christmas
-  Mania! Match sparkling jewels in this festive match-3 puzzle game and complete
-  challenging levels.
+title: "《Jewel Christmas Mania》圣诞宝石狂欢"
+description: "《Jewel Christmas Mania》是一款充满节日气氛的三消游戏，你要在圣诞主题棋盘上交换闪耀宝石，完成关卡目标、触发华丽连锁，感受节日灯火与音乐的双重氛围。"
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
 thumbnail: /new-images/jewel-christmas-mania.png
 tags:
@@ -18,29 +15,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jewel Christmas Mania is a dazzling match-3 puzzle game that brings the joy of the holiday season to your screen. Swap and match three or more festive jewels to clear them from the board, earn points, and complete various level objectives. With hundreds of levels filled with sparkling gems, challenging obstacles, and powerful boosters, this game offers endless hours of brain-teasing fun. Immerse yourself in the enchanting Christmas atmosphere with beautiful graphics and cheerful music.
+《Jewel Christmas Mania》是一款以圣诞节为主题的华丽三消游戏。棋盘上布满了晶莹的宝石、雪花、圣诞球等节日元素，你需要通过交换相邻宝石，让三颗及以上相同图案连成一线来完成消除，达成分数或目标任务。游戏内拥有大量关卡，配合绚丽的消除特效和轻快的圣诞配乐，非常适合作为节日期间的放松小游戏。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Look for Special Gem Combinations:** Matching more than three jewels in a row or in specific shapes (like L or T) will create powerful special gems. These can clear entire rows, columns, or explode to clear a large area.
-2.  [ZH TRANSLATION NEEDED] **Prioritize Level Objectives:** Always keep an eye on your current level's objective. Sometimes it's about reaching a score, other times it's about clearing specific blocks or collecting certain items. Focus your moves on achieving these goals.
-3.  [ZH TRANSLATION NEEDED] **Combine Special Gems:** The most effective way to clear large parts of the board and overcome difficult obstacles is by combining two special gems. For example, combining two line-clearing gems can clear a cross-section of the board.
-4.  [ZH TRANSLATION NEEDED] **Work from the Bottom:** Making matches at the bottom of the game board can cause more gems to fall from above, potentially creating new matches and cascades automatically. This can be a very efficient strategy.
-5.  [ZH TRANSLATION NEEDED] **Plan Ahead:** Don't just make the first match you see. Look at the entire board and plan your moves to set up bigger combinations and achieve your objectives more efficiently.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **制造特殊宝石组合**：当你在一行或特定形状中匹配超过三颗宝石时，会生成威力更大的特殊宝石，可以一次性清除整行、整列或大片区域：  
+    *   **4 连**：生成直线消除宝石，能清除一整行或一整列。  
+    *   **“L / T 形”5 连**：生成爆炸宝石，在爆炸范围内大面积清除周围宝石。  
+    *   **“直线”5 连**：生成彩色宝石，可清除棋盘上所有同色宝石。  
+2.  **紧盯关卡目标**：每一关的目标都不同，有的要求达到指定分数，有的要清除特定地块或收集某种道具。行动前先确认任务要求，把每一步消除都用在目标上，而不是只顾堆分数。  
+3.  **善用特殊宝石组合技**：把两颗特殊宝石互相交换，可以产生远强于单个宝石的全屏或半屏消除效果，是突破高难关卡的重要手段。  
+4.  **从棋盘底部开始寻找机会**：在棋盘底部制造消除容易产生连锁反应，让上方宝石掉落并自动形成额外三消，能在不额外消耗步数的前提下完成更多清除。  
+5.  **提前规划几步**：不要看到第一个可消就立刻下手，多看几眼整个棋盘，计划一到两步的连环操作，更容易制造大范围消除与连锁。  
 
-*   **Swap Jewels:** Use your mouse to click and drag a jewel to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical jewels.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **交换宝石**：使用鼠标点击一颗宝石并拖动到相邻位置，与旁边宝石互换。只有在交换后能形成三消及以上时，这一步才会被允许。  
 
-*   **Q: What is a match-3 game?**
-     *   **A:** A match-3 game is a puzzle game where players swap adjacent game pieces on a grid to form a line of three or more identical pieces. When a match is made, the pieces disappear, and new ones fall into place.
+### 常见问题（FAQ）
 
-*   **Q: How do I use boosters?**
-     *   **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.
+*   **Q: 三消游戏具体指什么？**  
+    *   **A:** 三消（match-3）指的是在网格中交换相邻元素，使之连成三颗或以上相同元素的一条线或特定形状，从而触发消除并让新的元素从上方落下。  
 
-*   **Q: What happens if I run out of moves?**
-     *   **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.
+*   **Q: 提示道具和增益道具如何使用？**  
+    *   **A:** 一般在关卡开始前或关卡中会显示可用的助力道具，点击道具图标即可启用效果。它们往往能直接消除某一行、某一列或某一块顽固障碍，适合在卡关时使用。  
 
+*   **Q: 步数用完但目标没完成会怎样？**  
+    *   **A:** 如果在限定步数内未能达成关卡目标，本局就会失败并消耗一条生命，你可以选择重新挑战该关卡，或等生命随时间恢复后再继续游戏。

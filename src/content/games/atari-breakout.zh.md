@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: atari-breakout
-title: '[ZH TRANSLATION NEEDED] Atari Breakout'
-description: >-
-  [ZH TRANSLATION NEEDED] Learn how to master the classic arcade game Atari
-  Breakout. Discover winning strategies, controls, and tips for smashing every
-  brick and achieving a high score.
+title: Atari Breakout 打砖块经典版
+description: 在《Atari Breakout（打砖块经典版）》中，你将操控底部挡板反弹小球，一点点打碎屏幕上方的砖块，通过角度控制和隧道战术冲击高分。
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/atari-breakout.jpg
@@ -17,51 +14,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Atari Breakout is a classic arcade game that has become a cornerstone of video game history. The gameplay is straightforward and instantly understandable. The player controls a single paddle at the bottom of the screen, which can only move horizontally. At the top of the screen are several rows of bricks. A ball bounces around the screen, and the player must move the paddle to intercept the ball, preventing it from falling off the bottom edge.
+*Atari Breakout（打砖块经典版）* 是街机游戏史上的代表作之一。玩法极其直观：屏幕底部是一块只能左右移动的挡板，顶部排列着多排砖块，一颗小球在屏幕中不断反弹，你需要通过移动挡板接住小球，防止它从底部掉出。
 
-[ZH TRANSLATION NEEDED] When the ball hits a brick, the brick is destroyed, and the ball ricochets off it. The objective is to destroy all the bricks on the screen to advance to the next level. As the game progresses, the speed of the ball often increases, demanding faster reflexes. If the player fails to hit the ball with the paddle and it goes past them, they lose a life. The game ends when all lives are lost.
+每当小球击中砖块，该砖块就会被消除，小球也会按照反射角度继续弹回。你的目标是在不丢失全部生命的前提下，清空全部砖块并进入下一关。随着关卡推进，小球速度会越来越快，对反应和预判提出更高要求，一旦没接住小球就会损失一条命，生命耗尽游戏结束。
 
-### Gameplay Strategy & Walkthrough
+### 游戏策略与通关思路
 
-[ZH TRANSLATION NEEDED] While Breakout seems simple, there are key strategies to maximize your score and clear levels efficiently.
+虽然看起来只是“接球打砖”，但想要刷高分，有几个关键技巧：
 
-#### 1. The "Tunneling" Strategy
-[ZH TRANSLATION NEEDED] This is the most famous and effective strategy. The goal is to break a vertical tunnel through the bricks on one side of the screen (either far left or far right). Once you've created a path for the ball to get *above* the brick layer, you can send it up into the gap. The ball will then bounce back and forth between the top wall and the top layer of bricks, destroying many bricks automatically without any risk of you missing the paddle. This is the fastest way to clear a screen.
+#### 1. 经典“打隧道”战术
+这是最著名也最有效的打法。核心思路是在屏幕左侧或右侧集中打出一条竖向通道，让小球有机会从侧边钻到砖块层的上方。一旦球被“送到砖块上面”，它就会在顶部与墙壁之间来回乱弹，自动帮你清掉大量砖块，同时几乎没有漏球风险，是最快速清关方式之一。
 
-#### 2. Master the Paddle for Angle Control
-[ZH TRANSLATION NEEDED] The ball's rebound angle is not random; it depends on *where* it strikes your paddle.
-*   **Hitting with the Center:** If the ball hits the center of your paddle, it will bounce back at a relatively straight, shallow angle.
-*   **Hitting with the Edges:** If the ball hits the outer edges of your paddle, it will bounce back at a much sharper, more extreme angle.
-[ZH TRANSLATION NEEDED] Mastering this allows you to aim the ball precisely, which is essential for creating the tunnel mentioned above.
+#### 2. 利用挡板控制反弹角度
+小球的反弹角度并非随机，而是取决于它击中挡板的具体位置：
+*   **击中挡板中部：** 反弹角度较平，轨迹更接近垂直上下。
+*   **击中挡板两侧：** 反弹角度更锐利，更容易把球送向场地左右两边。
 
-#### 3. Prioritize Higher Bricks
-[ZH TRANSLATION NEEDED] In the classic version, the bricks in the higher rows are worth more points. While clearing the screen is the primary objective, if you are playing for a high score, try to create your tunnel early to let the ball destroy the high-value bricks at the top.
+熟练利用这一点，就能主动“瞄准”某个区域的砖块，尤其是为打隧道创造条件时非常重要。
 
-#### 4. Anticipate, Don't React
-[ZH TRANSLATION NEEDED] As the ball speeds up, you won't have time to react to its current position. You must anticipate its trajectory. Watch the angle it's coming from and move your paddle to where the ball *is going to be*.
+#### 3. 优先清理高分砖块
+在经典配色设定中，上层砖块通常分值更高。若你是在追求高分而非单纯通关，可以尽早打通通道，让小球多在顶部区域乱弹，优先吃掉高分砖块。
 
-### Controls Guide
+#### 4. 预判，而不是等球到脚下
+当小球速度变快，仅凭“看到球到哪就往哪移”已经来不及了。要通过观察当前反弹角度，提前判断小球会落在底部的哪个区域，提前把挡板滑过去等待。
 
-[ZH TRANSLATION NEEDED] The controls for Breakout are famously simple.
+### 操作指南
 
-*   **Movement:**
-    *   **街机：** 使用旋转拨盘（spinner）来左右移动挡板。
-    *   **PC / 网页版本：** 通常，你通过左右移动鼠标来移动挡板。或者，通常也支持左右箭头键（`←` 和 `→`）。
-*   **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the **Spacebar** or a **left mouse click**) will launch it.
+本作的操作非常简单，主要就是左右移动挡板并在合适时机发球：
 
-### Frequently Asked Questions (FAQ)
+*   **移动挡板：**
+    *   **街机：** 通过旋转拨盘（spinner）来左右移动挡板。
+    *   **PC / 网页版：** 一般通过左右移动鼠标控制挡板位置，也有版本支持键盘左右方向键（`←` / `→`）。
+*   **发球：** 每条生命开始时，小球会贴在挡板上，按空格键或点击鼠标左键即可发射小球开始回合。
 
-*   **Q: How can I control the ball's direction?**
-    *   **A:** 通过控制球击中挡板的位置。用中心击球可以直线射击，用边缘击球可以向两侧进行锐角射击。
-
-*   **Q: What is the fastest way to clear a level?**
-    *   **A:** "隧道"策略。在一侧打开一条通道，让球被困在砖块上方，自动为你清除砖块。
-
-*   **Q: Do the different colored bricks mean anything?**
-    *   **A:** 是的。在原版游戏中，颜色表示分数值。从下到上，每块砖的分数通常会增加（例如，底部的黄色砖块价值较少，而顶部的红色砖块价值更高）。
-
-*   **Q: Where can I play Atari Breakout today?**
-    *   **A:** 你可以在众多经典游戏网站和档案馆中轻松找到并玩基于网络的Breakout版本。此外，在Google图片搜索中输入"Atari Breakout"曾经会激活游戏的可玩彩蛋版本，尽管此功能可能会有所不同。
-
+### 常见问题解答（FAQ）
+*   **问：怎么更好地控制小球方向？****
+    *   答：** 关键在于让小球击中挡板哪个位置：中间偏直线、两侧偏锐角。多练几次，建立手感后可以比较精准地“点哪打哪”。
+*   **问：最快的清关方式是什么？****
+    *   答：** 侧边打隧道战术几乎是公认效率最高的打法。一旦球被送到砖块上方，你只需要专心防止它掉下来，其余交给物理反弹即可。
+*   **问：不同颜色的砖块有什么区别？****
+    *   答：** 在原版中，不同颜色代表不同分值，一般越靠上的颜色得分越高。如果你追求高分，可以优先制造机会让球多击打上层砖块。
+*   **问：现在还能在哪里玩到 Atari Breakout？****
+    *   答：** 目前有很多网页重制版可以直接在浏览器中游玩，也有合集或模拟器收录了该作，可在经典游戏站点、复古游戏平台中寻找。

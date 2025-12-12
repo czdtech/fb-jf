@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: gold-miner-tom
-title: '[ZH TRANSLATION NEEDED] Gold Miner Tom'
+title: "Gold Miner Tom 湯姆黃金礦工"
 description: >-
-  [ZH TRANSLATION NEEDED] Help Tom get rich! A classic gold miner game where you
-  cast your claw to grab gold nuggets, gems, and other treasures. Reach the
-  level goal before time runs out!
+  幫湯姆發大財！經典黃金礦工玩法：操控鉤爪抓取金塊、寶石與寶袋，
+  在時間結束前達成每一關的金錢目標。
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/gold-miner-tom.png
 tags:
@@ -19,31 +18,39 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Gold Miner Tom is a classic arcade-style game that tests your timing and precision. As the ambitious miner Tom, you control a swinging claw and must cast it at the right moment to grab valuable treasures buried underground. Each level has a specific monetary goal you must reach within a time limit. Grab gold nuggets, sparkling diamonds, and mysterious goodie bags, but be careful to avoid worthless rocks that will waste your precious time!
+《Gold Miner Tom》是一款考驗時機掌握與判斷力的經典街機遊戲。
+你扮演有野心的礦工湯姆，操控前後擺動的鉤爪，在最佳時機出鉤，把埋在地下的寶物一網打盡。
+每一關都有固定的金額目標與時間限制，你得盡量抓金塊、鑽石與神祕寶袋，
+同時避開又重又不值錢的石頭，才能有效利用每一秒鐘。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Timing is Everything:** The claw swings back and forth continuously. Your success depends entirely on clicking at the perfect moment to send the claw in the direction of a valuable item.
-2.  [ZH TRANSLATION NEEDED] **Know Your Treasure:** Different items have different values and weights.
-    * [ZH TRANSLATION NEEDED] **Large Gold Nuggets & Diamonds:** These are your primary targets. They are worth the most money.
-    * [ZH TRANSLATION NEEDED] **Small Gold Nuggets:** Easier to grab and faster to reel in, but less valuable.
-    * [ZH TRANSLATION NEEDED] **Rocks:** Avoid these! They are worth very little money and are very heavy, meaning they take a long time to reel in, wasting valuable time.
-    * [ZH TRANSLATION NEEDED] **Mystery Bags:** These contain a random amount of money or a power-up.
-3.  [ZH TRANSLATION NEEDED] **Shop Between Levels:** Use the money you've earned to buy helpful items in the shop between levels. Dynamite is essential for blowing up worthless rocks you accidentally grab. Strength potions help you reel in heavy objects faster.
+
+1.  **時機最重要：** 鉤爪會左右來回擺動，成功與否完全取決於你何時按下出鉤的那一下。
+    先觀察擺動節奏，再在準備抓取的目標正下方時出手。
+2.  **認清每種寶物：** 不同物品的價值與重量不同。
+    *   **大金塊與鑽石：** 價值最高，是首要目標，但重量也較重，拉上來較慢。
+    *   **小金塊：** 容易抓、回收速度快，但單價較低，可用來補差額。
+    *   **石頭：** 基本上要避開。價值低、重量重，拉半天只拿到少少的錢，非常浪費時間。
+    *   **神祕寶袋：** 內含隨機金額或道具，運氣好時能大賺一筆。
+3.  **關卡間商店：** 每一關結束後可用賺到的錢在商店買道具。
+    *   **炸藥：** 當不小心勾到石頭或不想要的物品時，可丟炸藥把它炸掉，節省時間。
+    *   **力量藥水：** 在下一關大幅提升拉取速度，讓你能更快把重物拉上來。
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game uses a simple, one-touch control scheme.
+本遊戲採用簡單的一鍵操作。
 
-*   **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
-*   **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
+*   **放鉤：** 當鉤爪擺到你想要的位置時，點擊滑鼠或輕觸螢幕即可放下鉤爪。
+*   **使用炸藥：** 若當前勾住了物品且你有炸藥，畫面會出現炸藥按鈕，點擊即可炸掉鉤上的物品。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of each level?**
-     *   **A:** To earn enough money to meet the level's target amount before the timer runs out.
+*   **問：每一關的目標是什麼？**
+    *   **答：** 在倒數計時結束前，透過抓取金塊與寶物，累積金額達到該關卡設定的目標值。
 
-*   **Q: Why is my claw reeling in so slowly?**
-     *   **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
+*   **問：為什麼鉤爪拉得那麼慢？**
+    *   **答：** 很可能你勾到的是又重又不值錢的石頭。若有炸藥，可以果斷炸掉，
+        之後盡量避免把時間浪費在這些目標上。
 
-*   **Q: What happens if I don't reach the money goal in time?**
-     *   **A:** If the timer runs out and you haven't met the goal, the game is over.
+*   **問：如果時間到還沒達成目標會怎樣？**
+    *   **答：** 計時結束且金額未達標時，本局遊戲就會結束，你需要重新挑戰。"}

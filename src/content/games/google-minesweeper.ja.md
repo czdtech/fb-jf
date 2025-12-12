@@ -1,42 +1,36 @@
 ---
+title: "Google Minesweeper"
+description: "クラシックな論理パズル：数字の手がかりから安全なセルを推測し、地雷を作動させることなくグリッドをクリアしましょう。"
+iframeSrc: "https://www.minesweepergoogle.com/gameapp.html"
+thumbnail: "/new-images/google-minesweeper.jpg"
+urlstr: "google-minesweeper"
+score: "4.7/5  (181 votes)"
+tags: ["puzzle", "logic"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: google-minesweeper
-title: '[JA TRANSLATION NEEDED] Google Minesweeper'
-description: >-
-  [JA TRANSLATION NEEDED] Classic logic puzzle: clear the grid without
-  triggering mines by deducing safe cells from numbered clues and flags.
-iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
-thumbnail: /new-images/google-minesweeper.jpg
-tags:
-  - puzzle
-  - logic
-score: 4.7/5  (181 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+マインスイーパは、セルに隣接する地雷の数を示す数字をヒントにします。これらの手がかりを使って地雷に旗を立て、安全なセルを開き、爆発させずに盤面をクリアすることを目指します。難易度によってグリッドのサイズと地雷の数が変わります。
 
+### 遊び方
+- 左クリックでセルを開き、右クリックで旗を立てます。旗の数が数字と一致しているとき、数字をクリックして周囲を一気に開くことができます（ホストによります）。
+- 安全に拡張するために、基本的な推論（1-1ペア、1-2パターン）を使いましょう。
+- 大きな盤面では、分岐を減らすために角や端を孤立させて攻略しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Minesweeper reveals numbers showing how many mines touch a cell. Use these clues to mark mines with flags and open safe cells, aiming to clear the board without detonating. Difficulty scales grid size and mine count.
+### 操作方法
+- マウス/タッチ操作。オプションの同時押し（コーディング）やクイックオープンショートカットはホストによって異なります。
 
-### How to Play
-- Left‑click opens a cell; right‑click toggles a flag; chord/open around a number when flags match counts (host dependent).
-- Use basic inferences (1‑1 pairs, 1‑2 patterns) to expand safely.
-- On large boards, isolate corners/edges to reduce branching.
+### ヒント
+- 誤爆を防ぐために、一貫したマーキングルールを保ちましょう。
+- 推測せざるを得ないときは、間違っていた場合に最も多くの情報を明らかにするタイルを選びましょう。
+- 端（エッジ）はしばしばレイアウトを制限します。確実な手を見つけるために境界線に沿ってスキャンしましょう。
 
-### Controls
-- Mouse/touch; optional chording and quick‑open shortcuts vary by host.
-
-### Tips
-- Keep a consistent marking convention to avoid misflags.
-- When forced to guess, choose tiles that reveal the most info if wrong.
-- Edges often constrain layouts—scan along borders for sure moves.
-
-### FAQ
-- Q: How do I avoid guessing in Minesweeper?  
-[JA TRANSLATION NEEDED]   A: Use pattern sets and parity checks; some positions remain 50/50.
-- Q: What does the number on a cell indicate?  
-[JA TRANSLATION NEEDED]   A: It equals the count of adjacent mines among the eight neighbors.
-- Q: Does difficulty only change board size?  
-[JA TRANSLATION NEEDED]   A: It changes both size and mine density.
-
+### よくある質問 (FAQ)
+- **Q: マインスイーパで「運ゲー（推測）」を避けるには？**  
+  A: 定石パターンと偶奇性（パリティ）のチェックを使いましょう。それでも50/50の運任せになる局面は残ります。
+- **Q: セルの数字は何を示していますか？**  
+  A: そのセルの周囲8マスにある地雷の数と等しいです。
+- **Q: 難易度は盤面のサイズだけを変えますか？**  
+  A: サイズと地雷の密度の両方を変えます。

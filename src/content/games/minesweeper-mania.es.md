@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: minesweeper-mania
-title: '[ES] Minesweeper Mania'
+title: "Minesweeper Mania - Buscaminas con varios desafíos"
 description: >-
-  [ES] The classic logic puzzle, reimagined! Use number clues to locate all the
-  hidden mines on the board. With multiple difficulty levels, it's the ultimate
-  test of deduction.
+  El clásico rompecabezas lógico, reimaginado. Usa las pistas numéricas para
+  localizar todas las minas ocultas del tablero. Con varios niveles de
+  dificultad, es una auténtica prueba de deducción.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/minesweeper-mania.png
 tags:
@@ -18,32 +18,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Minesweeper Mania es una versión pulida del clásico rompecabezas para un
+jugador, Buscaminas. El objetivo es limpiar una cuadrícula que esconde minas
+sin detonar ninguna. Para lograrlo, debes usar las pistas numéricas reveladas en
+el tablero y deducir dónde se esconden las bombas: cada número indica cuántas
+minas hay en las ocho casillas que lo rodean. Esta edición ofrece varios niveles
+ de dificultad, con retos tanto para principiantes como para veteranos.
 
-Minesweeper Mania is a polished version of the timeless single-player logic puzzle, Minesweeper. The objective is to clear a rectangular grid containing hidden mines without detonating any of them. You must use the number clues revealed on the board to deduce where the mines are. Each number tells you how many mines are in the eight adjacent squares. This version offers multiple difficulty levels, providing a fresh challenge for both new players and seasoned veterans.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **El primer clic es seguro:** el primer clic de cada partida nunca será una
+    mina. Suele ser una buena idea abrir varias casillas en esquinas y centro
+    para despejar el tablero.
+2.  **Aprender los patrones:** la esencia de Buscaminas es reconocer patrones.
+    Si una casilla muestra un "1" y solo hay una casilla cerrada a su lado,
+    esa casilla debe ser una mina; márcala.
+3.  **Usar banderas:** cuando estés seguro de que una casilla contiene una
+    mina, márcala con clic derecho. Es clave para no equivocarte y para
+    organizar mejor la información.
+4.  **Chord‑click para ir rápido:** cuando un número esté rodeado por el número
+    correcto de banderas, puedes hacer clic sobre él (a menudo clic central o
+    clic izquierdo+derecho) para despejar de golpe todas las casillas adyacentes
+    restantes. Es la forma más rápida de limpiar grandes zonas seguras.
+5.  **Proceso de eliminación:** si no ves ningún movimiento totalmente seguro,
+    usa la lógica para descartar opciones. Pregúntate: "Si esta casilla fuera
+    mina, ¿cuadrarían los números de alrededor?". Así podrás encontrar casillas
+    seguras en situaciones aparentemente bloqueadas.
 
-1.  **[ES]** **The First Click is Free:** Your first click in any game is always safe and will never be a mine. A good start is to click a few times in the corners and center to open up the board.
-2.  **[ES]** **Learn the Patterns:** The core of Minesweeper is recognizing patterns. If a square says "1" and there is only one unopened square next to it, that square must be a mine. Flag it!
-3.  **[ES]** **Use Flags:** When you are certain a square contains a mine, right-click to flag it. This is crucial for keeping track of information and preventing accidental clicks on known mines.
-4.  **[ES]** **Chord-Clicking for Speed:** Once a numbered square is touching the correct number of flagged mines, you can click on the number itself (often a middle-click or left+right click) to automatically clear all other remaining adjacent squares. This is the fastest way to clear large safe areas.
-5.  **[ES]** **Process of Elimination:** If you can't find a definite safe square, use logic to eliminate possibilities. Ask yourself, "If this square were a mine, would it make sense with the numbers around it?" This can help you deduce safe squares to click.
+### Guía de controles
 
-### Controls Guide
+*   **Revelar casilla:** clic izquierdo sobre una casilla cubierta.
+*   **Poner bandera:** clic derecho para colocar o quitar una bandera.
 
-*   **[ES]** **Reveal a Square:** Left-click on a covered square.
-*   **[ES]** **Flag a Square:** Right-click on a covered square to place or remove a flag.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué significan los números?**
+    *   **R:** Cada número indica cuántas minas hay en las ocho casillas que lo
+        rodean (horizontal, vertical y diagonal).
 
-*   **[ES]** **Q: What do the numbers mean?**
-    *   **[ES]** **A:** A number on a square indicates the exact number of mines in the eight squares immediately surrounding it (horizontally, vertically, and diagonally).
+*   **P: ¿Qué pasa si hago clic en una mina?**
+    *   **R:** La partida termina de inmediato con derrota.
 
-*   **[ES]** **Q: What happens if I click on a mine?**
-    *   **[ES]** **A:** The game ends immediately in a loss.
-
-*   **[ES]** **Q: Do I have to use flags?**
-    *   **[ES]** **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
-
+*   **P: ¿Es obligatorio usar banderas?**
+    *   **R:** No, no son necesarias para ganar; solo te ayudan a recordar dónde
+        crees que están las minas. Ganas al revelar todas las casillas seguras,
+        no por marcar todas las minas.

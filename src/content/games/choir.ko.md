@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: choir
-title: '[KO] Choir Game'
+title: Choir Game 콰이어 게임
 description: >-
-  [KO] Discover Blob Opera, the viral choir game! This guide provides detailed
-  gameplay instructions, controls, tips, and answers to common questions for
-  this creative musical experiment.
+  Choir Game는 화제가 된 Blob Opera 합창 실험을 즐길 수 있는 인터랙티브 음악 토이입니다. 네 명의 "블롭"을 드래그해 음
+  높이와 모음을 조절하며, 나만의 합창을 만들어 보고 녹화해 공유해 보세요.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
 thumbnail: /new-images/choir.jpg
 tags:
@@ -15,52 +14,88 @@ score: 4.1/5  (123 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Choir Game(Blob Opera)은 스테이지나 점수가 없는 실험형 음악 장난감에 가깝습니다.
+플레이어는 색색의 블롭 네 마리를 조작해 실시간으로 합창을 만들어 볼 수 있으며,
+각 블롭은 베이스, 테너, 메조 소프라노, 소프라노에 해당하는 서로 다른 음역대를
+담당합니다.
 
+이 실험은 실제 오페라 가수 네 명의 음성을 바탕으로 학습된 머신러닝 모델을
+사용합니다. 단순히 녹음된 샘플을 재생하는 것이 아니라, 사용자의 입력에 따라
+자연스럽게 이어지는 합성 보컬을 생성하여, 누구나 손쉽게 그럴듯한 합창을 만들 수
+있도록 합니다. 뚜렷한 "클리어" 목표보다는, 자유롭게 소리를 가지고 놀며 창의적으로
+즐기는 것이 목적입니다.
 
-### **Game Introduction**
+### 플레이 팁
 
-Blob Opera is not a traditional game with levels or objectives, but rather an interactive musical experiment or a "musical toy." It allows users to control a quartet of colorful, endearing "blobs" to create operatic music in real-time. Each blob represents a different vocal range: bass, tenor, mezzo-soprano, and soprano.
+1.  **조작 축 이해하기**  
+    블롭을 위아래로 드래그하면 음 높이(피치)가, 앞뒤(좌우)로 드래그하면 모음
+    느낌이 바뀝니다. 이 두 축을 함께 활용해 다양한 표현을 만들어 보세요.
 
-The game utilizes a machine learning model trained on the voices of four real opera singers. The model doesn't simply play back pre-recorded samples; instead, it generates synthesized, fluid vocal sounds based on the user's input, creating surprisingly realistic and harmonious choral music. The primary goal is creative expression and fun, allowing anyone, regardless of musical skill, to compose beautiful and often hilarious opera pieces.
+2.  **하모니 느껴 보기**  
+    한 블롭을 움직이면 나머지 블롭들이 자동으로 화음을 맞춰 줍니다. 먼저 리드
+    블롭 한 마리만 천천히 움직이며, 다른 블롭들이 어떻게 따라오는지 들어보세요.
 
-### **Gameplay Strategy & Tips**
+3.  **솔로로 멜로디 만들기**  
+    특정 블롭을 클릭해 나머지를 잠시 묵음 처리하면 솔로 모드처럼 사용할 수
+    있습니다. 한 명으로 멜로디 라인을 만든 뒤, 다시 전체를 켜서 화음을 얹어
+    보는 방식으로 작은 곡을 만들어 보세요.
 
-Since there is no "winning," the strategy revolves around creating pleasant or interesting music.
+4.  **모음 변화 실험하기**  
+    단순히 위아래로만 움직이지 말고, 앞뒤로 천천히 드래그해 \"와아\" 하는 식의
+    모음 변화를 만들어 보세요. 소리의 질감이 크게 달라집니다.
 
-1.  **[KO]** **Understand the Controls**: The most crucial part is mastering the two axes of control. Vertical movement controls pitch (how high or low the note is), and horizontal movement controls the vowel sound (e.g., 'a', 'e', 'i', 'o', 'u').
-2.  **[KO]** **Harmonize Intelligently**: When you move one blob, the others automatically adjust to create a harmony. Pay attention to how they follow the lead singer. Start with slow, deliberate movements to hear how the harmonies form.
-3.  **[KO]** **Use Solos for Melodies**: To create a clear melody, click on a single blob to disable the others temporarily. Drag it around to craft a lead vocal line. Then, click the "All" toggle to bring the harmony back in, and the other blobs will support your melody.
-4.  **[KO]** **Experiment with Vowels**: Don't just move the blobs up and down. Dragging them forward and backward (or left and right) dramatically changes the texture of the sound. A slow drag from front to back can create a beautiful "wah" effect.
-5.  **[KO]** **Record and Share**: The best way to "finish" a piece is to use the record function. Plan a small composition—perhaps a solo followed by a full chorus—and record it. You can then share a link to your performance with others.
-6.  **[KO]** **Explore Festive Modes**: The game often includes special themed modes (like a Christmas mode). Look for a toggle icon (e.g., a Christmas tree) to switch backgrounds, hats for the blobs, and a playlist of festive songs the blobs can harmonize with.
+5.  **녹화와 공유 활용**  
+    마음에 드는 프레이즈를 만들었다면 녹화 버튼을 눌러 연주를 기록할 수
+    있습니다. 녹화가 끝나면 링크를 복사해 다른 사람에게 들려줄 수 있습니다.
 
-### **Controls Guide**
+6.  **테마 모드 살펴보기**  
 
-The controls are simple and intuitive, designed for mouse or touch input.
+- **Explore Festive Modes**: The game often includes special themed modes (like a Christmas mode). Look for a toggle icon (e.g., a Christmas tree) to switch backgrounds, hats for the blobs, and a playlist of festive songs the blobs can harmonize with.
+    크리스마스 등 특정 시즌에는 별도의 테마 모드가 추가되기도 합니다. 트리 모양
+    아이콘 등 테마 토글을 눌러 배경과 블롭의 모자, 전용 곡 리스트를 바꿔 보세요.
 
-*   **[KO]** **Drag a Blob Up/Down**: Increases or decreases the **pitch** of the note.
-*   **[KO]** **Drag a Blob Forward/Backward**: Changes the **vowel sound**.
-*   **[KO]** **Click/Tap on a Single Blob**: Selects that blob for a solo performance, temporarily muting the others.
-*   **[KO]** **Mute/Unmute Toggles**: At the bottom of the screen, there are individual toggles to mute or unmute each singer. There is also a master toggle to control them all at once.
-*   **[KO]** **Record Button (Red Circle)**: Click this to start recording your composition. Click it again to stop.
-*   **[KO]** **Share Button**: After you finish a recording, a share button will appear, allowing you to copy a link to your created performance.
-*   **[KO]** **Theme Toggle (e.g., Christmas Tree Icon)**: Switches the game to a different theme, often with new background music to sing along to.
+### 조작 방법
 
-### **Frequently Asked Questions (FAQ)**
+-   **블롭 드래그(위/아래):** 음 높이를 높이거나 낮춥니다.
+-   **블롭 드래그(앞/뒤 또는 좌/우):** 모음 색채를 바꿉니다.
+-   **블롭 클릭:** 해당 블롭만 활성화해 솔로로 노래하게 하거나, 음소거/해제를
+    전환합니다.
+-   **개별/전체 음소거 토글:** 화면 하단의 토글 버튼으로 각 성부를 개별적으로
+    끄고 켜거나, 전체를 한 번에 제어할 수 있습니다.
+-   **녹화 버튼(빨간 원):** 클릭해 녹화를 시작/종료합니다.
+-   **공유 버튼:** 녹화 후 생성되는 링크를 복사해 다른 사람과 합창을 공유할 수
+    있습니다.
+-   **테마 토글:** 트리 등 아이콘을 눌러 시즌 테마로 전환하고, 전용 배경과 곡을
 
-**1. Is there a goal or an ending to the game?**
-No, Blob Opera is a sandbox experience. There are no points, levels, or objectives. The "goal" is simply to have fun, experiment with music, and create something you enjoy.
+- **Theme Toggle (e.g., Christmas Tree Icon)**: Switches the game to a different theme, often with new background music to sing along to.
 
-**2. Are the voices from real singers?**
-The sounds are generated by a machine learning model. This model was trained on many hours of recordings from four real opera singers (Christian Joel - tenor, Frederick Tong - bass, Joanna Gamble - mezzo-soprano, and Olivia Doutney - soprano). So, while you aren't hearing direct recordings, the voices are based on real human performances.
+- **Share Button**: After you finish a recording, a share button will appear, allowing you to copy a link to your created performance.
 
-**3. Can I make the blobs sing specific words or lyrics?**
-No. You can only control the pitch and the vowel sounds. The blobs cannot form consonants, so they cannot sing lyrics.
+- **Record Button (Red Circle)**: Click this to start recording your composition. Click it again to stop.
+    선택할 수 있습니다.
 
-**4. How do I save my musical creation?**
-You cannot save it as a file (like an MP3). However, you can use the record function to capture a performance. After recording, the game provides a shareable link that allows anyone with the link to watch and listen to your specific composition.
+### 자주 묻는 질문 (FAQ)
 
-**5. Is the game free to play?**
-Yes, Blob Opera is a free web-based experiment accessible through any modern browser.
+**1. 이 게임에 끝이나 목표가 있나요?**  
+> 별도의 클리어 조건이나 점수는 없고, 자유롭게 연주를 즐기는 샌드박스형
+> 경험입니다. 스스로 마음에 드는 합창을 만드는 것이 사실상의 목표라고 볼 수
+> 있습니다.
 
+**2. 실제 가수 목소리를 쓰나요?**  
+> 소리는 네 명의 실제 오페라 가수 음성을 학습한 머신러닝 모델이 생성합니다.
+> 직접 녹음 재생은 아니지만, 가수들의 목소리를 바탕으로 한 합성 음색입니다.
+
+**3. 가사가 있는 노래를 만들 수 있나요?**  
+> 블롭은 모음 소리만 낼 수 있고 자음은 표현하지 못하므로, 구체적인 가사나 단어를
+> 부르게 할 수는 없습니다. 대신 모음과 피치만으로 멜로디와 화음을 표현하게
+> 됩니다.
+
+**4. 만든 곡을 파일로 저장할 수 있나요?**  
+> MP3 같은 음원 파일로 직접 저장할 수는 없지만, 녹화 기능을 통해 공연을
+> 캡처하고, 해당 연주로 바로 접속할 수 있는 링크를 공유할 수 있습니다.
+
+**5. 무료로 이용할 수 있나요?**  
+> 네, 현대적인 브라우저만 있으면 누구나 무료로 접속해 즐길 수 있는 웹 기반
+> 실험입니다.

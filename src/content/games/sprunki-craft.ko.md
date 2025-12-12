@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: sprunki-craft
-title: "[KO] Sprunki Craft \U0001F3AE Play Sprunki Craft Online"
+title: "Sprunki Craft \U0001F3AE 스프룽키 크래프트 온라인"
 description: >-
-  [KO] Sprunki Craft is the perfect combination of Minecraft and Incredibox,
-  providing players with a creative and fun platform for music creation. Come
-  join the world of Sprunki Craft, and use your familiar Minecraft characters to
-  create your own exclusive musical works!
+  Sprunki Craft는 Minecraft 세계와 Sprunki/Incredibox식 음악 만들기를 결합한 모드입니다. 스티브, 크리퍼
+  같은 익숙한 마인크래프트 캐릭터들을 합창단으로 꾸려 나만의 리듬과 멜로디를 만드는 창의적인 음악 게임입니다.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /sprunki-craft.jpg
 tags:
@@ -17,40 +15,56 @@ score: 4.9/5  (724 votes)
 
 
 
-### Introducing to Sprunki Craft
+### Sprunki Craft 소개
 
-Ever thought about creating beautiful music in the world of Minecraft? Sprunki Craft fulfills your wish! This game perfectly combines Minecraft's iconic world with Sprunki Incredibox's music-making magic, allowing you to use 20 unique Minecraft-themed characters to create a custom musical choir!
-
----
-
-### What's So Fun About Sprunki Craft?
-
-Imagine choosing Steve, Creeper, Herobrine, and other familiar Minecraft characters, and then having them make all sorts of wonderful sounds, show off cool animations, and create rhythmic beats. You can unleash your creativity, explore different combinations, and create unique musical works. Doesn't it sound a little exciting?
+마인크래프트 세계에서 진짜 음악을 만들어 보고 싶었던 적이 있나요?
+Sprunki Craft는 블록으로 가득한 Minecraft의 분위기와 Sprunki/Incredibox의
+음악 제작 시스템을 결합한 모드입니다. 20종 이상의 마인크래프트 테마 캐릭터를
+무대 위에 올려, 합창단처럼 연주하게 만들 수 있습니다.
 
 ---
 
-### Two Modes, Play Music Your Way:
+### Sprunki Craft가 재미있는 이유
 
-Sprunki Craft offers two different game modes, so whether you're a music lover or a Minecraft fan, you can find your fun:
-
-- **Default Mode:** In this mode, you're free to experiment with different characters, moving and changing them at will to create custom sounds and rhythms. Explore to your heart's content, and discover those combinations that can spark wonderful musical fireworks!
-- **Love Test Mode:** This mode supports single or multiplayer games, adding a bit of a competitive element. You can earn points based on the melodies you create, and the player with the highest score wins. Come and challenge your creativity and music-making skills!
-
-
----
-
-### Create, Experiment, and Discover:
-
-The most attractive thing about Sprunki Craft is its interactive approach to music-making. You can pause and repeat character animations to adjust your creations, enabling endless possibilities. The game encourages you to try different combinations, discover hidden surprises, and unlock new rhythms.
+스티브, 크리퍼, 헤로브라인 등 익숙한 캐릭터들이 단순한 NPC가 아니라
+비트·멜로디·효과음을 담당하는 연주자로 변신합니다. 캐릭터를 조합할수록
+예상치 못한 리듬과 사운드가 섞이며, 블록 세계를 배경으로 한 독특한 음악이
+완성됩니다. 직접 조합을 설계해 "마인크래프트 버전 밴드"를 꾸미는 맛이 있습니다.
 
 ---
 
-### Simple Operation, Suitable for All Ages:
+### 두 가지 모드로 즐기는 Sprunki Craft
 
-Sprunki Craft is very simple and intuitive to operate, whether using a mouse or touch controls on phones and tablets, you can easily get started. Whether you're a newbie to music creation or a veteran Minecraft player, you can find your own happiness in the world of Sprunki Craft.
+Sprunki Craft에는 성향에 따라 즐길 수 있는 두 가지 모드가 준비되어 있습니다.
+
+- **기본 모드:**
+  자유롭게 캐릭터를 올렸다 내리며 소리를 조합하는 모드입니다. 어떤 캐릭터가
+  어떤 파트를 맡을지 실험하면서, 자신만의 그루브와 분위기를 찾아 보세요.
+- **Love Test 모드:**
+  솔로 또는 멀티로 플레이할 수 있는 점수 모드입니다. 만든 멜로디와 조합에 따라
+  점수를 얻고, 더 높은 점수를 노리며 경쟁할 수 있습니다. 같은 캐릭터라도
+  배치 방식에 따라 전혀 다른 결과가 나옵니다.
 
 ---
+
+### Sprunki Craft에서 즐길 수 있는 것들
+
+- **마인크래프트 세계관과 음악의 결합:** 블록 배경, 픽셀 그래픽 위에서
+  리듬과 멜로디를 쌓아 올리며, 시청각 모두 만족스러운 경험을 제공합니다.
+- **다양한 캐릭터 조합:** 각 캐릭터가 담당하는 비트·보컬·이펙트가 달라,
+  조합만 바꿔도 완전히 다른 곡이 탄생합니다.
+- **쉽지만 깊이 있는 조작:** 드래그 앤 드롭만으로도 곡을 만들 수 있지만,
+  타이밍과 배치를 신경 쓰면 훨씬 완성도 높은 트랙을 만들 수 있습니다.
+- **공유와 경쟁:** 만든 곡을 친구에게 들려주거나, 점수 모드에서 서로의
+  기록을 겨루며 더 나은 조합을 연구할 수 있습니다.
+
+---
+
+### 마무리
+
+Sprunki Craft는 마인크래프트와 Sprunki를 모두 좋아하는 플레이어에게 특히
+추천할 만한 모드입니다. 익숙한 블록 세계에서, 친숙한 캐릭터들을 이용해 완전히
 
 ### Conclusion:
-
-Sprunki Craft is the perfect combination of Minecraft and Incredibox, providing players with a creative and fun platform for music creation. Come join the world of Sprunki Craft, and use your familiar Minecraft characters to create your own exclusive musical works!
+새로운 음악을 만들어 보는 경험은 다른 곳에서는 쉽게 찾기 어렵습니다.
+스프룽키 크래프트 세계로 들어가, 당신만의 마인크래프트 밴드를 만들어 보세요.

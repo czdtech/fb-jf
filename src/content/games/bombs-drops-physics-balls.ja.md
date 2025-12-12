@@ -1,75 +1,40 @@
 ---
+title: "Bombs Drops Physics balls ボムズ・ドロップス・フィジックス・ボール"
+description: "「Bombs Drops Physics balls」は爆弾と物理演算で遊ぶパズルゲーム。投下タイミングを見極め、連鎖反応を起こし、ターゲットを一掃しよう。"
+iframeSrc: "https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/"
+thumbnail: "/new-images/bombs-drops-physics-balls.jpg"
+urlstr: "bombs-drops-physics-balls"
+score: "3.9/5  (1598 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bombs-drops-physics-balls
-title: '[JA TRANSLATION NEEDED] Bombs Drops Physics balls'
-description: >-
-  [JA TRANSLATION NEEDED] Bombs Drops Physics balls is a playful physics puzzler
-  — time drops, trigger chain reactions, and clear targets with smart setups.
-iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
-thumbnail: /new-images/bombs-drops-physics-balls.jpg
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 3.9/5  (1598 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Bombs Drops Physics balls*は、重力、タイミング、そしてシンプルな破壊を混ぜ合わせた遊び心あふれる物理パズルです。爆弾やボールを装置の上に落とし、タワーを倒し、連鎖反応を引き起こしてレベルごとの目標を達成しましょう。物理法則を味方につけ、最小限の手数でエレガントな解決策を見つけるのがこのゲームの醍醐味です。
 
-[JA TRANSLATION NEEDED] Bombs Drops Physics balls mixes gravity, timing, and simple demolition. Drop balls or bombs onto contraptions, topple stacks, and trigger chain reactions to meet level goals. The fun is in finding minimal, elegant solutions that use physics in your favor.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **弱点を探す：** 支柱、くさび、または張力がかかっている部分を狙いましょう。構造物を効率的に崩壊させるコツです。
+2.  **連鎖のタイミング：** 2つ目を落とすタイミングをわざと遅らせることで、最初の衝撃で状況が整ってから追撃することができます。
+3.  **角度を使う：** 真上から落とすよりも、横から当てたほうが回転力（トルク）が生まれ、大きく倒れることがあります。
+4.  **手数を減らす：** 数撃ちゃ当たる戦法よりも、賢い数回の投下の方がクリアしやすいことが多いです。
+5.  **頻繁にリセット：** うまくいかなかったらすぐにやり直しましょう。試行錯誤で最適なタイミングと角度を見つけ出すのが近道です。
 
-[JA TRANSLATION NEEDED] 1.  Scout weak points: Hit supports, wedges, or tensioned pieces to collapse structures efficiently.
-[JA TRANSLATION NEEDED] 2.  Time cascades: Delay second drops so the first impact sets the stage.
-[JA TRANSLATION NEEDED] 3.  Use angles: Side hits create torque and bigger topples than straight drops.
-[JA TRANSLATION NEEDED] 4.  Minimize drops: Fewer, smarter drops often beat spammy solutions.
-[JA TRANSLATION NEEDED] 5.  Reset often: Quick retries help you iterate on timing and angles.
+### 操作ガイド
 
-### Controls Guide
+*   **操作：** マウス（またはタッチ）で狙いを定め、クリックして落とします。一部のレベルでは少し突っつく（ナッジ）等の操作ができることもあります。
+*   **機能：** リセットやアンドゥ機能を活用して、サクサクと試行錯誤しましょう。
 
-- Aim and drop with mouse/touch; some levels allow limited nudges.
-- Reset/Undo where available for fast iteration.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: ボールを当ててもビクともしません。何が足りない？**  
+  A: ど真ん中に当てていませんか？支柱やエッジを狙ってトルクを発生させ、バランスを崩しましょう。
 
-- Q: My drops barely move anything—what am I missing?
-  
-[JA TRANSLATION NEEDED]   A: You’re striking center mass. Target edges and supports to generate torque and collapses.
+- **Q: ドロップ数を減らすといいことがありますか？**  
+  A: 多くのレベルで、最小限の手数でクリアするとボーナス評価があります。爆弾を余らせてゴールすることを目指しましょう。
 
-- Q: Is there scoring for fewer drops?
-  
-[JA TRANSLATION NEEDED]   A: Many levels bonus minimal solutions; aim to complete with spare bombs.
-
-- Q: Do levels require perfect timing?
-  
-
-
-
-
-
-- Q: My drops barely move anything—what am I missing?
-### よくある質問（FAQ）
-- Reset/Undo where available for fast iteration.
-- Aim and drop with mouse/touch; some levels allow limited nudges.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: A few do, but most reward clear planning more than twitch timing.
-
-
-
-
-
-
-A: A few do, but most reward clear planning more than twitch timing.
-- Q: Do levels require perfect timing?
-A: Many levels bonus minimal solutions; aim to complete with spare bombs.
-- Q: Is there scoring for fewer drops?
-
-
-
-
-A: A few do, but most reward clear planning more than twitch timing.
-- Q: Do levels require perfect timing?
-A: Many levels bonus minimal solutions; aim to complete with spare bombs.
+- **Q: 完璧なタイミング操作が必要ですか？**  
+  A: 一部のレベルではシビアですが、ほとんどは「計画」がものを言います。落とす順番や角度を考える方が重要です。

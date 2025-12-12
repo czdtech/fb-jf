@@ -1,55 +1,70 @@
 ---
-locale: ja
+title: Bubble Shooter バブルシューター
+description: 「Bubble Shooter」は中毒性のある元祖バブルパズル。色を揃えて泡を消し、ハイスコアを目指せ。シンプルながら深い戦略性があなたを待っている。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/bubble-shooter.html'
+thumbnail: /new-images/bubble-shooter.png
 urlstr: bubble-shooter
-title: '[JA TRANSLATION NEEDED] Bubble Shooter'
-description: >-
-  [JA TRANSLATION NEEDED] Aim, shoot, and match colorful bubbles to clear the
-  board in the classic Bubble Shooter puzzle game. Plan your shots, use the
-  walls, and drop huge clusters to get a high score!
-iframeSrc: 'https://www.bubbleshooter-new.com/'
-thumbnail: /new-images/bubble-shooter.jpg
+score: 4.7/5  (865 votes)
 tags:
   - casual
   - puzzle
-score: 4.3/5  (1339 votes)
+  - match-3
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Bubble Shooter（バブルシューター）*は、世界中で何百万人ものファンを持つ伝説的なカジュアルパズルゲームです。クラシックなアーケードゲーム「パズルボブル」にインスパイアされ、よりシンプルで洗練されたWebゲームとして生まれ変わりました。
+
+ルールは簡単です。画面下の砲台から色のついた「バブル」を発射します。同じ色のバブルを3つ以上くっつけると、それらは弾けて消えます。画面上の全てのバブルを消滅させることが目標です。ただし、ミスショットを繰り返すと天井が一段ずつ下がってきます。バブルが一番下のラインに到達してしまうとゲームオーバーです。
+
+### ゲーム攻略と戦略
+
+- **壁打ち（バンクショット）を磨く**  
+  直接届かない位置は左右の壁に当てて回り込みます。角度を把握できれば狭い隙間も攻略できます。
+- **根元を切り離して一気に落とす**  
+  上部の支点を崩すと、ぶら下がっていた大きな塊が丸ごと落下して高得点が狙えます。
+- **次のバブルまで見据えて行動する**  
+  ランチャー横に表示される次弾の色を確認し、2 手先まで計画しましょう。
+- **孤立バブルを作らない**  
+  一色だけが点在すると後で処理しづらいので、端にまとめるか早めに処理して色数を減らします。
+- **ミスショットを抑える**  
+  連続ミスで天井が下がります。確実に 3 個以上揃えられる地点を優先し、無駄打ちを減らしましょう。
+
+### 操作ガイド
+
+マウスのみで完結するシンプルな操作です。
+
+*   **狙う:** マウスカーソルを動かして、矢印の方向（発射角度）を調整します。
+*   **撃つ:** 左クリックでバブルを発射します。
 
 
-### Game Introduction
+- **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] Bubble Shooter is a classic and highly addictive puzzle game. The objective is to clear the playing field by forming groups of three or more same-colored bubbles. The game screen is filled with a grid of colorful bubbles from the top. The player controls a launcher at the bottom of the screen, which shoots a single bubble upwards.
+- **Q: どうすれば高得点を取れますか？**
+  
+  > 上部の支点を先に崩し、大量のバブルを一気に落とすこと。連鎖落下でボーナスが伸びます。
 
-[JA TRANSLATION NEEDED] The core mechanic is simple: when the launched bubble hits a group of two or more bubbles of the same color, the entire connected group of matching bubbles is removed from the screen. Any bubbles that were attached only to the cleared group will also fall and be removed. The goal is to clear all the bubbles from the screen to win the level or achieve the highest possible score before the bubbles descend to the bottom line. After a certain number of shots without clearing any bubbles, a new row of bubbles is added at the top, increasing the pressure and challenge.
+- **Q: 天井が下がるタイミングは？**
+  
+  > バブルを消せなかったショットが一定回数に達すると天井が 1 段下がります。画面下のカウンターを確認しましょう。
 
-### Gameplay Strategy
+- **Q: 色を交換する機能はある？**
+  
+  > クラシック版にはありませんが、派生作によっては交換ボタンが付いている場合があります。
 
--   **Aim for the Highest Bubbles:** The single most important strategy is not just to make matches, but to make matches that are high up on the screen. If you clear a group of bubbles that is supporting other bubbles below it, all the unsupported bubbles will fall. Dropping large clusters this way is the key to high scores and efficient clearing.
--   **Use the Walls (Bank Shots):** Don't always aim directly. You can shoot the bubble against the side walls to make it bounce and reach difficult spots. Mastering these "bank shots" is essential for advanced play and for getting out of tricky situations.
--   **Plan Ahead:** Most versions of the game show you the color of the *next* bubble in your launcher. Use this information to plan your next two moves. Sometimes, it's better to make a less optimal move now to set up a perfect shot with the next bubble.
--   **Don't Create Single-Bubble Strands:** Try to avoid leaving a single bubble of a certain color hanging by itself. These can be very difficult to remove later, as you'll need to clear the bubbles around it or get two more of the same color to stick to it.
--   **Manage Difficult Colors:** If you get a bubble color that has no immediate good match, don't just waste the shot. Try to tuck it away next to a large group of another color where it won't block important future shots.
+- **Q: 進行中に詰まりやすい状況をどう防ぐ？**
+  
+  > 孤立したバブルを残さず、必要のない色は端に寄せて管理することで行き詰まりを防げます。
 
-### Controls Guide
 
-[JA TRANSLATION NEEDED] The controls are extremely simple and intuitive, designed for mouse or touch.
+> The best way to get a high score is to drop large clusters of bubbles at once. The more bubbles you drop that were not part of the direct match, the more bonus points you receive. Focus on making high-up bank shots to achieve this.
 
--   **Aim:** Move your **mouse cursor** to aim the launcher's arrow.
--   **Shoot:** **Left-click** with your mouse to shoot the bubble.
--   **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+**4. What is the best strategy for getting a high score?**
 
-### Frequently Asked Questions (FAQ)
+> In the classic, original version of Bubble Shooter, there are no special bubbles. However, many modern variations have introduced power-ups like **Bomb Bubbles** (clear an area), **Rainbow Bubbles** (match any color), and **Fireball Bubbles** (destroy everything in their path).
 
-[JA TRANSLATION NEEDED] **1. What is the goal of the game?**
-[JA TRANSLATION NEEDED] > In most classic versions, the goal is to clear the entire screen of bubbles. In endless modes, the goal is to survive as long as possible and get the highest score.
-
-[JA TRANSLATION NEEDED] **2. What happens if I miss a shot?**
-[JA TRANSLATION NEEDED] > A "miss" is typically defined as a shot that does not result in any bubbles being cleared. After a set number of misses (often shown as a counter of bubbles at the bottom), a new row of bubbles will be added to the top of the screen, pushing everything down.
-
-[JA TRANSLATION NEEDED] **3. Are there special bubbles or power-ups?**
-[JA TRANSLATION NEEDED] > In the classic, original version of Bubble Shooter, there are no special bubbles. However, many modern variations have introduced power-ups like **Bomb Bubbles** (clear an area), **Rainbow Bubbles** (match any color), and **Fireball Bubbles** (destroy everything in their path).
-
-[JA TRANSLATION NEEDED] **4. What is the best strategy for getting a high score?**
-[JA TRANSLATION NEEDED] > The best way to get a high score is to drop large clusters of bubbles at once. The more bubbles you drop that were not part of the direct match, the more bonus points you receive. Focus on making high-up bank shots to achieve this.
-
+**3. Are there special bubbles or power-ups?**

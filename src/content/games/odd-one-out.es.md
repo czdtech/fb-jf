@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: odd-one-out
-title: '[ES] Odd One Out'
+title: Odd One Out - Encuentra el que no encaja
 description: >-
-  [ES] Find the item that doesn't belong in the group in Odd One Out, a game
-  that tests your observation and critical thinking skills.
+  Encuentra el elemento que no pertenece al grupo en Odd One Out, un juego que
+  pone a prueba tu capacidad de observación y tu pensamiento crítico.
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/odd-one-out.jpg
 tags:
@@ -17,26 +17,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Odd One Out es un juego de puzles que desafía tu observación y tu capacidad para
+clasificar. En cada nivel se muestra un grupo de elementos y tu tarea es
+identificar cuál de ellos no encaja con el resto según una regla o categoría
+concreta.
 
-Odd One Out is a puzzle game that challenges your observation and categorization skills. In each level, you are presented with a group of items, and your task is to identify the one that doesn't fit with the others based on a certain rule or category.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Examinar el conjunto:** observa con atención todos los elementos que
+    aparecen en pantalla.
+2.  **Encontrar la conexión:** determina qué característica comparten la mayoría
+    (color, forma, tamaño, categoría como frutas o animales, etc.).
+3.  **Detectar al intruso:** el elemento que no comparte esa característica
+    común es el "que sobra".
+4.  **Seleccionar la respuesta:** haz clic o toca sobre el elemento que crees
+    que no encaja para pasar al siguiente nivel.
 
-1.  **[ES]** **Examine the Items:** Carefully look at all the items presented in the group.
-2.  **[ES]** **Find the Connection:** Determine the common characteristic that most of the items share. This could be color, shape, size, category (like fruits or animals), or another attribute.
-3.  **[ES]** **Identify the Odd One:** The item that does not share this common characteristic is the "odd one out."
-4.  **[ES]** **Select the Item:** Click or tap on the item you believe is the odd one out to proceed to the next level.
+### Guía de controles
 
-### Controls Guide
+*   **Ratón/táctil:** usa el ratón o la pantalla táctil para seleccionar el
+    elemento que consideres diferente al resto.
 
-*   **[ES]** **Mouse/Touch:** Use the mouse or touch screen to select the item that you think is the odd one out.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What if I'm stuck?**
-    *   **[ES]** **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.
-*   **[ES]** **Q: Is there a time limit?**
-    *   **[ES]** **A:** This can vary, but often these games are more about thinking and observation than speed.
-
+*   **P: ¿Qué hago si me quedo atascado?**
+    *   **R:** Prueba a pensar en distintas formas de relación: quizá la clave
+        sea el color, la forma, la categoría del objeto o algún detalle más
+        sutil. Considera varias posibilidades antes de decidir.
+*   **P: ¿Hay límite de tiempo?**
+    *   **R:** Depende de la versión o del modo, pero normalmente este tipo de
+        juegos premia más pensar y observar que ir a toda velocidad.

@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: giant-attack
-title: '[FR] Giant Attack'
+title: Giant Attack
 description: >-
-  [FR] Take on colossal giants in this action-packed arcade game! Collect your
-  allies to grow in size and power, and unleash devastating attacks to defeat
-  the towering monsters.
+  Affronte des géants colossaux dans ce jeu d’arcade nerveux : rassemble tes
+  alliés pour grandir en taille et en puissance, puis déclenche des attaques
+  dévastatrices pour abattre les monstres.
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
 thumbnail: /new-images/giant-attack.png
 tags:
@@ -16,35 +16,41 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Giant Attack est un jeu d’action rapide où tu te retrouves face à des monstres gigantesques. Tu contrôles un héros qui doit défendre le terrain contre ces colosses. La clé de la victoire ne se limite pas à attaquer : tu dois aussi ramasser des alliés colorés disséminés sur le champ de bataille. Plus tu en collectes, plus ton personnage grandit et se renforce, ce qui lui permet de lancer des projectiles plus puissants pour détruire les géants avant qu’ils ne t’écrasent.
 
+### Guide de jeu et stratégies
 
-### Detailed Game Introduction
+1.  Rassembler pour grandir : déplace‑toi pour récupérer les petits alliés colorés au sol. Chacun augmente ta taille et tes stats.
+2.  La force du nombre : en grandissant, les projectiles que tu lances automatiquement deviennent plus gros et plus destructeurs. Un héros minuscule jette de simples haches, alors qu’un géant peut balancer d’énormes marteaux.
+3.  Esquive constante : tout en ramassant des alliés, surveille les attaques du géant. Esquive ses projectiles et ses frappes au sol pour rester en vie.
+4.  Positionnement : ton attaque est automatique. Ton vrai travail, c’est de te placer pour ramasser des alliés tout en gardant une ligne de tir claire vers le géant pour vider sa barre de vie.
 
-Giant Attack is a fast-paced and thrilling action game where you face off against colossal monsters. You control a hero who must defend against these towering threats. The key to victory lies not just in attacking, but in gathering allies scattered across the battlefield. Collecting these allies makes your character grow in size and strength, enabling you to unleash more powerful projectiles and take down the giants before they crush you.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+Les contrôles sont simples et intuitifs.
 
-1.  **[FR]** **Gather and Grow:** Your primary focus should be on moving your character to collect the small, colored allies that appear on the ground. Each one you pick up contributes to making your character bigger and stronger.
-2.  **[FR]** **Power in Numbers:** As you grow, the projectiles you automatically throw become larger and more devastating. A small character might throw axes, while a giant-sized hero might hurl massive hammers.
-3.  **[FR]** **Dodge and Weave:** While you are focused on collecting allies, you must also pay attention to the giant's attacks. Dodge incoming projectiles or ground slams to stay in the fight.
-4.  **[FR]** **Focus Fire:** Your character attacks automatically. Your main job is to position yourself to collect allies while ensuring your projectiles are consistently hitting the giant to wear down its health bar.
+- Déplacement : clique/tape puis fais glisser pour déplacer ton personnage à gauche et à droite afin de ramasser des alliés et esquiver les attaques.  
+- Attaque : automatique ; ton héros lance en continu des armes vers l’ennemi tant qu’il est en vie.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-The controls are designed to be simple and intuitive.
+- Q : Comment attaquer le géant ?
+  
+  R : Tu n’as aucun bouton d’attaque à gérer : ton héros tire automatiquement. Concentre‑toi sur le mouvement, l’esquive et la collecte des alliés.
 
-*   **[FR]** **Move Character:** Use your mouse or finger to click and drag your character left and right across the battlefield to collect allies and dodge attacks.
-*   **[FR]** **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
+    - Q : Pourquoi mes dégâts semblent faibles ?
+  
+  R : Tu es trop petit. Plus tu récupères d’alliés, plus ton personnage grandit et plus ses projectiles infligent de dégâts. Si tu restes petit, tes attaques seront trop faibles.
 
-### Frequently Asked Questions (FAQ)
+- Q : Comment gagner un niveau ?
+  
 
-*   **[FR]** **Q: How do I attack the giant?**
-    *   **[FR]** **A:** You don't need to press a button to attack; your hero does it automatically. Your main task is to focus on movement—collecting allies and dodging.
+    - **A:** You win by depleting the giant's health bar to zero before it defeats you.
 
-*   **[FR]** **Q: Why am I not doing much damage?**
-    *   **[FR]** **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
+- **Q: How do I win a level?**
 
-*   **[FR]** **Q: How do I win a level?**
-    *   **[FR]** **A:** You win by depleting the giant's health bar to zero before it defeats you.
+    - **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
+  R : Tu remportes la partie en faisant tomber la barre de vie du géant à zéro avant qu’il ne te mette KO.
 

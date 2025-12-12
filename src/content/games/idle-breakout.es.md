@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: idle-breakout
-title: '[ES] Idle Breakout'
+title: "Idle Breakout"
 description: >-
-  [ES] Idle + brick‑breaker hybrid: click to smash bricks, buy autonomous
-  balls/turrets, prestige for multipliers, and min‑max upgrades.
+  Híbrido entre idle y rompe‑ladrillos: haz clic para destruir bloques, compra
+  bolas y torretas automáticas, reinicia con prestigio para conseguir
+  multiplicadores y optimiza cada mejora.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/idle-breakout.jpg
 tags:
@@ -16,29 +17,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Información general
+Idle Breakout combina la progresión incremental con el clásico rompe‑ladrillos.
+Al principio haces clic para causar daño; pronto empiezas a comprar bolas con
+velocidades, daños y efectos especiales distintos, además de lanzadores
+automatizados. Los ladrillos aumentan de vida, aparecen jefes de forma
+periódica y los reinicios de prestigio te dan multiplicadores permanentes que
+aceleran las partidas futuras.
 
+### Cómo jugar
+- Invierte al principio en bolas baratas para tener DPS constante; añade bolas
+  especiales (francotirador, dispersión, etc.) más adelante.
+- Apunta a umbrales de mejora que doblen tu DPS en lugar de subirlo en pasos
+  muy pequeños.
+- Usa el prestigio cuando el progreso se estanque; los multiplicadores
+  acumulativos son lo que más importa a largo plazo.
 
-### Overview
-Idle Breakout merges incremental progression with classic brick‑breaking. Early on you click to deal damage; soon you purchase balls with differing speed, damage, and special effects, plus automated launchers. Bricks scale health, bosses appear periodically, and prestige resets grant permanent multipliers that accelerate future runs.
+### Controles
+- Ratón: haz clic para hacer daño; usa la interfaz para comprar bolas, mejoras
+  y nodos de prestigio.
 
-### How to Play
-- Invest early in cheap balls for constant DPS; add specials (sniper, scatter) later.
-- Target upgrade breakpoints that double DPS rather than small steps.
-- Prestige when progress stalls; compounding multipliers matter most.
+### Consejos
+- Mantén al menos una bola de alto daño para reventar a los jefes.
+- La eficiencia idle aumenta con la automatización; entra de vez en cuando para
+  reasignar en qué gastas.
+- Aprovecha los multiplicadores por tiempo desconectado si tu host los admite.
 
-### Controls
-- Mouse: click to damage; UI to buy balls, upgrades, and prestige nodes.
-
-### Tips
-- Keep at least one high‑damage ball to burst bosses.
-- Idle efficiency rises with automation; check in to re‑allocate spending.
-- Use offline time multipliers if your host supports them.
-
-### FAQ
-- Q: When should I trigger a prestige reset?
-A: When your brick clears slow to a crawl; earlier resets often yield faster long‑term growth.
-- Q: Which ball types are best early in the game?
-A: Cheap, fast balls for coverage; add a sniper/strong ball for bosses.
-- Q: Does the game progress offline?
-A: Some hosts simulate offline earnings; behavior varies.
-
+### Preguntas frecuentes
+- Q: ¿Cuándo debería activar un reinicio de prestigio?  
+  A: Cuando limpiar filas de ladrillos se vuelva muy lento; hacer reinicios
+  relativamente tempranos suele darte un crecimiento más rápido a largo plazo.
+- Q: ¿Qué tipos de bola son mejores al inicio?  
+  A: Las bolas baratas y rápidas para cubrir pantalla, y luego una bola fuerte
+  o de francotirador para lidiar con los jefes.
+- Q: ¿El juego progresa mientras estoy desconectado?  
+  A: Algunos hosts simulan ganancias offline; el comportamiento concreto varía.

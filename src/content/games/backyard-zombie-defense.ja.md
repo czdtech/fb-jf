@@ -1,59 +1,39 @@
 ---
+title: "Backyard Zombie Defense 裏庭ゾンビディフェンス"
+description: "「Backyard Zombie Defense」は、バリケードを築き、武器を強化して、迫りくるアンデッドの群れから裏庭を守り抜くサバイバル防衛ゲームです。"
+iframeSrc: "https://72ss6r8k142go.h5games.usercontent.goog/v/1hld05o7aip3g/"
+thumbnail: "/new-images/backyard-zombie-defense.png"
+urlstr: "backyard-zombie-defense"
+score: "4.2/5  (1844 votes)"
+tags: ["action", "defense", "zombie"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: backyard-zombie-defense
-title: '[JA TRANSLATION NEEDED] Backyard Zombie Defense'
-description: >-
-  [JA TRANSLATION NEEDED] Backyard Zombie Defense is a casual tower defense —
-  place turrets, upgrade wisely, and hold off the horde.
-iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
-thumbnail: /new-images/backyard-zombie-defense.png
-tags:
-  - tower Defense
-  - thinky
-score: 4.1/5  (1994 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Backyard Zombie Defense（裏庭ゾンビディフェンス）*は、アンデッドの群れから自分の陣地を守る、アクション満載のゾンビ防衛ゲームです。プレイヤーはバリケードを築き、タレット（自動砲台）を設置し、自分自身の武器もアップグレードして、波状攻撃（ウェーブ）を仕掛けてくるゾンビたちを撃退しなければなりません。文字通り「裏庭」が最終防衛ラインです。リソースを慎重に管理し、防御を固めながら生き残る戦略性が求められます。
 
-[JA TRANSLATION NEEDED] Backyard Zombie Defense is a lightweight TD: build and upgrade a mix of single‑target and aoe turrets, slow enemies near exits, and pace economy to keep up with scaling waves.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **迷路を作る：** ただバリケードを一列に並べるだけでは不十分です。敵がプレイヤーに到達するまでに長く歩かされるような迷路状の通路を作りましょう。これにより、敵が移動している間に攻撃できる時間が増えます。
+2.  **武器のアップグレード：** 稼いだお金は、まず武器の火力強化に使いましょう。敵を素早く倒せることは、最強の防御になります。
+3.  **タレットの配置：** タレットは死角をカバーしたり、火力を集中させたい場所に置きましょう。自分がリロード中や移動中も攻撃し続けてくれる頼もしい味方です。
+4.  **修理を忘れずに：** ウェーブの合間に、損傷したバリケードを修理することを忘れないでください。わずかな隙間が命取りになります。
+5.  **逃げ道を残す：** 完全に囲ってしまうと、自分も逃げ場を失います。緊急時に退避できるルートを確保しておきましょう。
 
-[JA TRANSLATION NEEDED] 1.  Cover long paths and shared lanes for efficiency.
-[JA TRANSLATION NEEDED] 2.  Slow + splash near exits to catch leaks.
-[JA TRANSLATION NEEDED] 3.  Early upgrades on high‑impact towers compound value.
-[JA TRANSLATION NEEDED] 4.  Balance damage types for fast vs. tanky zombies.
-[JA TRANSLATION NEEDED] 5.  Save cash for mid‑wave emergencies when needed.
+### 操作ガイド
 
-### Controls Guide
+*   **移動：** WASDキー または 矢印キー
+*   **狙う/撃つ：** マウスで照準操作、左クリックで射撃
+*   **建設/修理：** 建設メニュー（画面下のUIやホットキー）から選択し、左クリックで配置
 
-- Place/Upgrade/Sell via UI; start waves when ready.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Keep leaking—what to do? Add slows and aoe at choke/exits; upgrade key towers.
-- Best openers? One strong early tower covering long lanes.
-- Speed toggle? Many versions include fast‑forward.
-
-
-
-
-
-
-
-
-
-- Speed toggle? Many versions include fast‑forward.
-- Best openers? One strong early tower covering long lanes.
-- Keep leaking—what to do? Add slows and aoe at choke/exits; upgrade key towers.
-### よくある質問（FAQ）
-- Place/Upgrade/Sell via UI; start waves when ready.
-### コントロールガイド
-- Save cash for mid‑wave emergencies when needed.
-
-
-
-- Speed toggle? Many versions include fast‑forward.
-- Best openers? One strong early tower covering long lanes.
+*   **バリケードがすぐに壊されます。**
+    *   バリケードの後ろに立って撃つだけでなく、積極的に動き回って敵の注意（アグロ）を引き、バリケードへの負担を減らしましょう。
+*   **お金が足りません。**
+    *   ヘッドショット（頭を撃つ）を狙うと、より効率的に敵を倒せます。また、無駄な弾薬消費を控えることも節約になります。
+*   **ウェーブいくつまでありますか？**
+    *   通常、エンドレスモードか、特定のウェーブ数（例：20〜50）を生き残ることが目標になります。後半は敵の数が圧倒的になるので、範囲攻撃できる武器が必須になります。

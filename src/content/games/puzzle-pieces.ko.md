@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: puzzle-pieces
-title: '[KO] Puzzle Pieces'
+title: "Puzzle Pieces 퍼즐 피시스"
 description: >-
-  [KO] Puzzle Pieces delivers clean brainteasers — rotate, fit shapes, and
-  complete boards without gaps.
+  다각형 블록을 회전·이동해 빈틈 없이 판을 채우는 공간 퍼즐 게임입니다.
+  제한된 공간과 조각 모양을 계산하며 깔끔한 해답을 찾아 보세요.
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/puzzle-pieces.png
 tags:
@@ -16,27 +16,58 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Puzzle Pieces*는 여러 모양의 블록(폴리폼)을 끌어다 놓으며 빈칸을
+정확히 채워 넣는 정돈된 공간 채우기 퍼즐입니다. 스테이지가 진행될수록
+보드 모양과 조각 구성이 복잡해져, 한 칸도 남기지 않고 채우기 위해
+여러 번 배치를 바꾸어 보는 사고력이 요구됩니다.
 
-Puzzle Pieces is a tidy shape‑fitting puzzler. Drag and rotate polyforms to fill boards exactly, managing limited space and piece orientations as layouts grow more intricate.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **큰 조각과 독특한 모양부터 배치하기**  
+   형태가 특이하거나 가장 큰 조각은 들어갈 수 있는 위치가
+   제한적입니다. 이런 조각부터 먼저 자리를 잡으면 이후 퍼즐이
+   훨씬 단순해집니다.
 
-1.  **[KO]** Start with anchors: Place unique or large shapes first to reduce ambiguity.
-2.  **[KO]** Edge framing: Build clean borders to reveal interior gaps.
-3.  **[KO]** Look for parity: Match protrusions and cavities; avoid leaving single‑cell holes.
-4.  **[KO]** Rotate liberally: Check all orientations; many fits appear only after rotation.
-5.  **[KO]** Undo freely: Backtrack early instead of forcing a bad fit.
+2. **가장자리부터 틀 만들기**  
+   보드의 외곽을 먼저 채우면 내부에 어떤 모양의 공간이 남을지
+   한눈에 보입니다. 테두리를 정리한 뒤 남은 빈칸에 맞춰 조각을
+   끼워 넣어 보세요.
 
-### Controls Guide
+3. **"한 칸 구멍"을 남기지 않기**  
+   돌기와 홈의 짝이 맞는지 항상 확인해, 단독으로는 채우기 어려운
+   1칸짜리 구멍이 생기지 않도록 주의하세요. 이런 구멍이 생기면
+   대부분 배치를 다시 생각해야 합니다.
 
-- Drag to move pieces; rotate via click/tap or a rotate button.
-- Undo/Reset: Fix mistakes quickly; no penalty in most modes.
+4. **회전을 아끼지 말고 시도하기**  
+   처음에는 맞지 않아 보이는 조각도, 방향을 바꿔 보면 딱 맞는
+   자리가 생길 수 있습니다. 모든 방향을 한 번씩 시도해 보는 것이
+   좋습니다.
 
-### Frequently Asked Questions (FAQ)
+5. **무리하게 끼워 넣지 말고 초기에 되돌리기**  
+   끝부분이 자꾸 안 맞는다면 중간에 잘못 끼워 넣은 조각이 있을
+   가능성이 큽니다. 억지로 맞추기보다, 몇 수 전으로 되돌려 다른
+   배치를 시험해 보세요.
 
-- A piece never fits—bug? Usually orientation; try other rotations or reframe edges.
-- Timers? Varies; most modes are relaxed.
-- Hints? Many versions include hints; use sparingly to preserve challenge.
+### 조작 가이드
 
+- **조각 이동**: 마우스로 조각을 드래그해 원하는 위치로 옮깁니다.  
+- **회전**: 조각을 클릭/탭하거나 별도의 회전 버튼을 눌러 방향을
+  변경합니다(버전에 따라 다를 수 있음).  
+- **되돌리기/리셋**: 잘못 배치한 경우 실행 취소 또는 리셋 버튼으로
+  손쉽게 처음 상태로 되돌릴 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 아무리 해도 들어가지 않는 조각이 있어요. 버그인가요?**  
+  **A:** 대부분은 방향 문제입니다. 모든 회전 방향을 다시 시도해 보고,
+  테두리를 다시 구성해 보세요.
+
+- **Q: 시간 제한이 있나요?**  
+  **A:** 모드에 따라 다르지만, 많은 버전이 시간 제한 없이 여유롭게
+  고민할 수 있도록 설계되어 있습니다.
+
+- **Q: 힌트 기능이 있나요?**  
+  **A:** 일부 버전은 힌트나 자동 배치 기능을 제공하지만, 퍼즐의
+  재미를 위해 막혔을 때만 최소한으로 사용하는 것을 추천합니다.

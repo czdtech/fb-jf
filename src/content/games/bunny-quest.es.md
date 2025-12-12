@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bunny-quest
-title: '[ES] Bunny Quest'
+title: "Bunny Quest"
 description: >-
-  [ES] Bunny Quest is a tile‑path puzzle — slide tiles, connect routes, and
-  guide the bunny to the goal.
+  Bunny Quest es un puzle de caminos con fichas deslizantes: mueve las piezas,
+  conecta la ruta y guía al conejito hasta la meta.
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/bunny-quest.png
 tags:
@@ -15,28 +15,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bunny Quest es un puzle de deslizar fichas para construir caminos. Tienes que
+reordenar las piezas del tablero para formar una ruta continua desde el inicio
+hasta la meta, recoger objetos opcionales y evitar callejones sin salida mientras
+los límites de movimientos se vuelven cada vez más estrictos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Bunny Quest is a path‑building slider puzzle. Rearrange tiles to form an unbroken route from start to finish, collect optional items, and avoid dead‑ends as move limits tighten in later levels.
+1.  **Esquinas y rectas primero:** Coloca primero las fichas de esquina y recta
+    para trazar el recorrido principal.
+2.  **Evita los bucles inútiles:** No gastes movimientos creando circuitos
+    cerrados que no lleven a la meta.
+3.  **Reserva las intersecciones:** Deja las fichas en T y en cruz para el final,
+    cuando necesites resolver ramificaciones.
+4.  **Optimiza movimientos:** Vigila el contador y deshaz pasos pronto si ves que
+    tu ruta se está complicando de más.
+5.  **Objetos opcionales con cabeza:** Intenta desviar el camino para recogerlos
+    solo cuando no disparen el número de movimientos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Corners and straights: Place corner/straight tiles to sketch the main path first.
-2.  **[ES]** Avoid loops: Don’t waste moves forming isolated loops that don’t reach the goal.
-3.  **[ES]** Save junctions: Use T‑junctions and crosses late to resolve branching.
-4.  **[ES]** Minimal moves: Track move counts and reverse steps early if inefficient.
-5.  **[ES]** Optional items: Route them only when they don’t explode move counts.
+- Desliza las fichas arrastrando; se desplazan por filas o columnas según las
+  reglas del nivel.
+- Usa Deshacer/Reiniciar si el juego lo permite para perfeccionar la ruta.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Slide tiles by dragging; tiles shift along rows/columns per rules.
-- Undo/Reset if available to optimize routes.
+- **¿Me queda solo una ficha mal puesta, qué hago?**
+  Suele ser señal de que el error está varias jugadas atrás. Retrocede y prueba
+  a fijar primero el inicio y la meta y luego rellenar el resto.
 
-### Frequently Asked Questions (FAQ)
+- **¿Hay temporizador?**
+  En muchos niveles no hay límite de tiempo como tal, sino un límite de
+  movimientos.
 
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
-- Timers? Some stages use move limits, not strict timers.
-- Hints? Many versions include hints; use sparingly.
-
+- **¿Hay sistema de pistas?**
+  Muchas versiones incluyen pistas; úsalas con moderación para no arruinar el
+  reto.

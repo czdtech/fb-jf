@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: my-space-pet
-title: '[ZH TRANSLATION NEEDED] My Space Pet'
+title: "《My Space Pet》我的太空宠物"
 description: >-
-  [ZH TRANSLATION NEEDED] Embark on an interstellar adventure with My Space Pet!
-  Adopt and care for your very own alien creature, explore the galaxy, and
-  customize your pet's home.
+  《My Space Pet》是一款星际主题的虚拟宠物养成游戏，你将收养一只名叫 Zuub 的外星小生物，照顾它的日常起居、玩小游戏赚取金币，并为它布置独一无二的太空小家。
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/my-space-pet.png
 tags:
@@ -17,28 +15,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] My Space Pet invites you to adopt and care for an adorable alien creature named Zuub. This charming virtual pet game combines elements of nurturing, mini-games, and customization. Your mission is to keep Zuub happy and healthy by fulfilling its basic needs: feeding it when hungry, washing it when dirty, and ensuring it gets enough rest. Beyond basic care, you can play engaging mini-games to earn coins, which can then be used to unlock a variety of stylish outfits and accessories to personalize your space pet.
+《My Space Pet》邀请你收养一只可爱的外星虚拟宠物 Zuub。游戏融合了养成、小游戏和装扮等元素，你需要像对待真实宠物一样关心它的状态：肚子饿了要喂食、身上脏了要清洗、困了就让它好好睡一觉。除了基本照料，你还可以通过各种休闲小游戏赚取金币，用来购买酷炫的服装与饰品，打造专属的太空萌宠形象，并逐步布置、升级它的居住环境。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Monitor Zuub's Needs:** Keep a close eye on Zuub's indicators for hunger, hygiene, and sleep. Addressing these needs promptly will keep Zuub happy and energetic.
-2.  [ZH TRANSLATION NEEDED] **Play Mini-Games:** Engage in the mini-games regularly to earn coins. These coins are essential for purchasing customization items and keeping Zuub entertained.
-3.  [ZH TRANSLATION NEEDED] **Customize Zuub:** Use your earned coins to buy new outfits and accessories. Personalizing Zuub adds to the fun and can sometimes unlock special interactions.
-4.  [ZH TRANSLATION NEEDED] **Explore and Interact:** Tap on different parts of the screen or interface elements to discover new interactions and activities with Zuub. A happy Zuub might even give you bonus rewards.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **关注 Zuub 的状态条：** 时刻留意饥饿、卫生与睡眠等指标，优先满足明显偏低的需求，让 Zuub 始终保持开心、有活力的状态。
+2.  **多玩小游戏赚金币：** 定期参与游戏内的各类小游戏，不仅能增加互动乐趣，更是获取金币的主要渠道，用于解锁装扮与道具。
+3.  **个性化装扮 Zuub：** 利用赚来的金币为 Zuub 购入新衣服、帽子或配饰，通过搭配构建独特风格，有时不同装扮还会触发特殊互动或反应。
+4.  **多点互动探索惊喜：** 尝试点击房间中的不同区域或界面元素，常常能发现隐藏互动，或者让 Zuub 做出有趣的表情与动作，甚至获得额外奖励。
 
-*   **Click/Tap:** Use your mouse (on desktop) or finger (on mobile) to interact with Zuub, select menu options, and play mini-games.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **点击 / 轻触：** 使用鼠标或手指点击 Zuub、按钮和场景中的可交互元素，完成喂食、清洗、哄睡以及启动小游戏等操作。
 
-*   **Q: What happens if I don't care for Zuub?**
-     *   **A:** If Zuub's needs are neglected, its happiness and energy levels will decrease, and it might become sad or sick. Regular care is important to keep your pet thriving.
+### 常见问题（FAQ）
 
-*   **Q: How do I earn coins in the game?**
-     *   **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
+*   **问：如果长时间不照顾 Zuub 会怎样？**
+    *   **答：** 若长期忽视，它的快乐值和精力会逐渐下降，可能变得烦躁或“生病”，你需要花更多时间和资源来恢复状态。因此建议经常上线看看它。
 
-*   **Q: Can I have more than one space pet?**
-     *   **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
+*   **问：金币主要从哪里获得？**
+    *   **答：** 金币主要通过完成小游戏、达成成就或参与特定活动获得，是购买服装、家具和道具的重要资源。
 
+*   **问：可以同时养多只太空宠物吗？**
+    *   **答：** 大多数版本会围绕一只主宠展开，以突出你和 Zuub 之间的陪伴关系；具体是否支持多宠物，需以游戏当前版本设定为准。

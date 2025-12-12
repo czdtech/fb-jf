@@ -1,68 +1,39 @@
 ---
+title: "Mega Prize Scratch"
+description: "Mega Prize Scratchは楽しいスクラッチカードゲームです。カードをスクラッチし、シンボルを明らかにし、賞品を獲得し、大きな勝利を目指します。"
+iframeSrc: "https://3hl81qo88gdb8.h5games.usercontent.goog/v/18j98kqfn1m3g/"
+thumbnail: "/new-images/mega-prize-scratch.png"
+urlstr: "mega-prize-scratch"
+score: "3.8/5  (1545 votes)"
+tags: ["casual", "novelty"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: mega-prize-scratch
-title: '[JA TRANSLATION NEEDED] Mega Prize Scratch'
-description: >-
-  [JA TRANSLATION NEEDED] Mega Prize Scratch is a casual scratch‑card — reveal
-  panels, match symbols, and set session limits to keep it fun.
-iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
-thumbnail: /new-images/mega-prize-scratch.png
-tags:
-  - casual
-score: 3.6/5  (1538 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Mega Prize Scratchは、リアルなスクラッチカードの興奮をデジタル形式で再現します。カード表面をスクラッチして隠されたシンボルを明らかにし、賞品を獲得します。純粋な運のゲームで、素早い満足感と簡単なゲームプレイに最適です。
 
-[JA TRANSLATION NEEDED] Mega Prize Scratch simulates a scratch ticket: recover hidden symbols, match patterns, and trigger bonus rounds. Each card is independent; treat the game as light entertainment rather than a strategy challenge.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **完全にスクラッチ:** すべてのシンボルが明らかになるまでカード全体をスクラッチします。
+2.  **ルールを理解:** 各カードタイプには、勝利に必要なシンボルの異なるルールがあります。
+3.  **バンクロールを管理:** 予算を設定し、それに固執します。
+4.  **楽しみのためにプレイ:** これは運のゲームです。保証された利益はありません。
+5.  **時間を取る:** 明らかにするプロセスを楽しんでください。
 
-[JA TRANSLATION NEEDED] 1.  Budget: Set a small session budget and stick to it.
-[JA TRANSLATION NEEDED] 2.  Pace: Scratch slowly to enjoy reveals; rushing doesn’t change outcomes.
-[JA TRANSLATION NEEDED] 3.  Bonus awareness: Read rules so you know which symbols unlock features.
-[JA TRANSLATION NEEDED] 4.  Stop rules: Quit on win targets or when the budget ends.
-[JA TRANSLATION NEEDED] 5.  Breaks: Step away periodically to avoid impulse spending.
+### 操作ガイド
 
-### Controls Guide
+- マウス/指でドラッグしてカード表面をスクラッチします。
+- 新しいカードを購入するためにボタンをクリック/タップします。
+- 獲得した賞品が自動的にクレジットされます。
 
-- Drag to scratch; press buttons to reveal all, buy new cards, or enter bonuses.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Can I influence results?
-  
-[JA TRANSLATION NEEDED]   A: No — outcomes are random; focus on pacing and budgeting.
-
-- Q: What bet size is best?
-  
-[JA TRANSLATION NEEDED]   A: Small, consistent bets extend playtime.
-
-- Q: Do bonuses improve odds?
-  
-
-
-
-
-
-- Q: Can I influence results?
-### よくある質問（FAQ）
-- Drag to scratch; press buttons to reveal all, buy new cards, or enter bonuses.
-### コントロールガイド
-- Breaks: Step away periodically to avoid impulse spending.
-[JA TRANSLATION NEEDED]   A: They change volatility more than long‑term expectation.
-
-
-
-
-
-
-A: They change volatility more than long‑term expectation.
-- Q: Do bonuses improve odds?
-A: Small, consistent bets extend playtime.
-- Q: What bet size is best?
-
-
-A: They change volatility more than long‑term expectation.
+- **Q: これは実際のお金のゲームですか？**  
+  A: いいえ、エンターテインメントのみです。実際のお金は含まれません。
+- **Q: 勝つ確率を上げるにはどうすればよいですか？**  
+  A: これは純粋な運のゲームです。戦略は結果を変えません。
+- **Q: カードはランダムですか？**  
+  A: はい、ゲームアルゴリズムによって結果が決定されます。

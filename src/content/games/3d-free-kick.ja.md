@@ -1,40 +1,39 @@
 ---
+title: "3D Free Kick 3D フリーキック"
+description: "「3D フリーキック」でプロのようなカーブシュートを決めましょう。壁を越え、ボールを曲げ、スタイリッシュなセットプレーでゴールを奪おう！"
+iframeSrc: "https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/"
+thumbnail: "/new-images/3d-free-kick.png"
+urlstr: "3d-free-kick"
+score: "4.1/5  (1866 votes)"
+tags: ["sports", "soccer"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: 3d-free-kick
-title: '[JA TRANSLATION NEEDED] 3D Free Kick'
-description: >-
-  [JA TRANSLATION NEEDED] 3D Free Kick lets you bend it like a pro — aim the
-  wall, curve the ball, and score stylish set‑pieces.
-iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
-thumbnail: /new-images/3d-free-kick.png
-tags:
-  - sports
-  - soccer
-score: 4.1/5  (1866 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*3D Free Kick（3D フリーキック）*は、セットプレーのテクニックに特化したゲームです。ターゲットを選び、壁を迂回するカーブをかけ、キーパーを破りましょう。ステージごとに壁のサイズ、キーパーの反応速度、距離、風向きが変化し、正確なコントロールとシュート技術が試されます。
 
-[JA TRANSLATION NEEDED] 3D Free Kick focuses on set‑piece mastery: pick a target, curve around the wall, and beat the keeper. Stages vary wall size, keeper reactions, distance, and wind to test precision and shot shaping.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
-
-1.  [JA TRANSLATION NEEDED] Target corners: High/low corners are hardest to reach for keepers.
-2.  [JA TRANSLATION NEEDED] Add controlled curve: Apply just enough spin to clear the wall and dip inside the post.
-3.  [JA TRANSLATION NEEDED] Read wind: Offset your aim and spin according to wind direction/strength (if present).
-4.  [JA TRANSLATION NEEDED] Mix heights: Flat drives for close range; dipping shots for longer walls.
-5.  [JA TRANSLATION NEEDED] Learn keeper tells: Some keepers step early—fake lines and bend late.
+1.  **四隅を狙う：** ゴールの高い位置や低い位置の隅（コーナー）は、キーパーが最も届きにくい場所です。
+2.  **コントロールされたカーブ：** 壁をぎりぎりで越え、ポストの内側に吸い込まれるように、適度な回転（スピン）をかけましょう。
+3.  **風を読む：** 風がある場合は、風向きと強さに応じて狙う位置と回転を調整（オフセット）する必要があります。
+4.  **高さを使い分ける：** 近距離では低く鋭いシュート、壁が遠い・高い場合は落とすようなシュートが有効です。
+5.  **キーパーの癖を見抜く：** 早く動き出すキーパーもいます。視線でフェイントを入れたり、逆に遅れて曲がるボールを使ったりしましょう。
 
 ### 操作ガイド
 
-- 狙い：ドラッグして方向と高さを設定します。
-- パワー：スワイプの長さ/ホールド時間を制御します。
-- カーブ：カーブをスワイプするか、スピンスライダーを調整してサイドスピン/トップスピンを適用します。
+*   **狙う（エイム）：** ドラッグして方向と高さを決めます。
+*   **パワー：** スワイプの長さやホールド時間で強さを調整します。
+*   **カーブ：** カーブを描くようにスワイプするか、スピンのスライダーを調整してサイドスピンやトップスピンをかけます。
 
-### よくある質問（FAQ）
+### よくある質問 (FAQ)
 
-- My shots hit the wall—how to fix? Start wider and add a bit more curve; or raise trajectory slightly.
-- Keeper keeps catching—tips? Aim for far post with late curl; vary height to break patterns.
-- Does wind matter? Yes—counter it with opposite‑direction curve and offset aim.
+*   **シュートが壁に当たってしまいます。どうすれば？**
+    *   もう少し外側から狙い始め、カーブを強めにするか、弾道を少し上げてみてください。
+*   **キーパーによくキャッチされます。コツは？**
+    *   ファーサイド（遠い側のポスト）を狙い、ゴール手前で急激に曲がるボールを意識しましょう。高さを変えてパターンを読まれないようにするのも重要です。
+*   **風の影響はありますか？**
+    *   はい、あります。風とは逆方向にカーブをかけたり、狙う位置をずらしたりして対策しましょう。

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: find-the-difference
-title: '[ZH TRANSLATION NEEDED] Find the Difference'
+title: "Find the Difference 經典找不同"
 description: >-
-  [ZH TRANSLATION NEEDED] Sharpen your eyes and test your attention to detail!
-  Compare two nearly identical images and find all the differences before the
-  time runs out.
+  鍛鍊眼力與細節感知！在《Find the Difference》中比較兩張近乎相同的圖片，
+  在時間耗盡前找出所有差異。
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/find-the-difference.jpg
 tags:
@@ -19,30 +18,39 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Find the Difference is a classic puzzle game that tests your observation skills and attention to detail. In each level, you are presented with two images that appear identical at first glance. However, they contain a set number of subtle differences. Your task is to carefully compare the two pictures and identify all the differences before the time runs out. It's a relaxing yet challenging game that provides a great workout for your brain.
+《Find the Difference》是一款經典找不同遊戲，專門考驗你的觀察力與對細節的注意力。
+每個關卡都會顯示兩張乍看之下完全一樣的圖片，但實際上藏有固定數量的細微差異。
+你的目標是在時間結束前，將所有不同之處一一找出。整體氛圍既放鬆又帶點挑戰，
+很適合當作腦力小運動。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Scan Systematically:** Don't just stare at the middle of the images. Start in one corner (e.g., top left) and systematically scan both pictures section by section. Move your eyes back and forth between the same area on both images to spot discrepancies.
-2.  [ZH TRANSLATION NEEDED] **Look for Common Types of Differences:** Be on the lookout for typical changes:
-    * [ZH TRANSLATION NEEDED] **Color Changes:** An object might be a different color.
-    * [ZH TRANSLATION NEEDED] **Missing/Added Objects:** An item might be present in one picture but absent in the other.
-    * [ZH TRANSLATION NEEDED] **Size or Shape Changes:** An object might be slightly larger, smaller, or a different shape.
-    * [ZH TRANSLATION NEEDED] **Positional Changes:** An item might be moved slightly.
-3.  [ZH TRANSLATION NEEDED] **Use Hints Wisely:** Most versions of the game provide a limited number of hints. Try to find as many differences as you can on your own, and save the hints for when you are truly stuck on the last one or two.
-4.  [ZH TRANSLATION NEEDED] **Avoid Random Clicking:** Be careful about clicking randomly. Many games will penalize you for incorrect clicks, often by reducing your remaining time.
+
+1.  **系統化掃描：** 不要只盯著畫面中間看。建議從左上角開始，將兩張圖片分區塊比較，
+    像翻書一樣一段一段橫向掃描，視線在同一區域的兩張圖間來回移動，比較容易看出差異。
+2.  **熟悉常見差異類型：** 常見的變化包括：
+    *   **顏色變化：** 物件的顏色與另一張圖不同。
+    *   **物件增減：** 某個物件在一張圖裡存在、另一張圖裡消失。
+    *   **大小或形狀：** 同一物件尺寸略有放大縮小，或線條形狀不同。
+    *   **位置偏移：** 某個元素被微微移動到別處。
+3.  **謹慎使用提示：** 大多數版本會提供有限的提示次數。建議先靠自己找出大部分差異，
+    把提示留給最後一兩個實在找不到的地方。
+4.  **避免亂點：** 許多作品會對錯誤點擊給予懲罰，例如減少剩餘時間或短暫禁止點擊，
+    因此不要靠「亂點掃圖」，先確定真的有差異再點。
 
 ### Controls Guide
 
-*   **Identify a Difference:** When you spot a difference, simply use your mouse to click on that area in either of the two images. If you are correct, the difference will be marked.
+*   **標記差異：** 當你發現不同之處時，直接用滑鼠在任一張圖片上點擊該區域，
+    如果判定正確，遊戲會自動標記或圈出那個差異點。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What kind of differences should I be looking for?**
-     *   **A:** Anything can be different! Look for objects that are added, missing, have a different color, are a different size, or are in a slightly different position.
+*   **問：我要找的是哪一種差異？**
+    *   **答：** 任何細節都有可能不同，包括物件的有無、顏色、大小、位置，甚至小圖案的細節。
 
-*   **Q: What happens if I click in the wrong place?**
-     *   **A:** Most games will have a penalty for incorrect guesses. This is often a reduction in your time limit or a temporary freeze on your ability to click again.
+*   **問：點錯地方會發生什麼事？**
+    *   **答：** 多數版本會對錯誤點擊施加時間懲罰，或短暫鎖定點擊功能，
+        所以建議在比較有把握時再下手。
 
-*   **Q: I can't find the last difference! What should I do?**
-     *   **A:** This is the perfect time to use a hint if you have one. If not, try looking away from the screen for a moment to reset your eyes, and then come back and scan the images again, perhaps in a different pattern than you did before.
-
+*   **問：最後一個差異怎麼都找不到？**
+    *   **答：** 這時就很適合使用提示；若沒有提示，也可以離開畫面休息一下，
+        讓眼睛重新適應，再以不同順序重新掃描兩張圖片，常常就能突然看出來。

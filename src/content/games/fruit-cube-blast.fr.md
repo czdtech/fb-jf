@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: fruit-cube-blast
-title: '[FR] Fruit Cube Blast'
+title: Fruit Cube Blast
 description: >-
-  [FR] Blast your way through juicy levels in Fruit Cube Blast! Tap groups of
-  matching fruit cubes to create explosive combos and clear the board in this
-  fun and colorful puzzle game.
+  Fais exploser des niveaux juteux dans Fruit Cube Blast : tape sur les groupes
+  de cubes de fruits identiques pour créer des combos spectaculaires et vider le
+  plateau.
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/fruit-cube-blast.jpg
 tags:
@@ -17,39 +17,45 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Fruit Cube Blast est un puzzle « tap‑to‑blast » explosif et coloré. Contrairement aux match‑3 classiques où tu échanges les pièces, ici tu tapes sur des groupes de deux cubes de fruits identiques ou plus pour les faire exploser. Ton objectif est de remplir les missions propres à chaque niveau en vidant les bons cubes et en déclenchant de puissants combos. En faisant exploser de grands groupes, tu crées des boosters spéciaux comme des fusées et des bombes qui nettoient de larges zones du plateau.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike match-3 games where you swap items, in this game, you tap on groups of two or more adjacent, identical fruit cubes to blast them off the board. The goal is to complete level-specific objectives by strategically clearing cubes and creating powerful combos. By blasting larger groups of cubes, you can create special boosters like rockets and bombs to clear even more of the level in spectacular fashion.
+1.  Plus c’est gros, mieux c’est : cherche toujours les plus grands groupes de cubes de même couleur avant de taper. Déclencher un petit groupe de 2 ou 3 est rarement rentable ; les gros groupes libèrent plus d’espace et sont les seuls à générer des boosters.
+2.  Crée et combine les boosters : c’est le cœur de la stratégie sur les niveaux difficiles.
+    *   **Fusée (Rocket)** : tape sur un groupe de 5–6 cubes pour créer une fusée qui nettoie une ligne complète (ligne ou colonne).
+    *   **Bombe** : un groupe de 7–8 cubes crée une bombe qui efface une zone 3×3.
+    *   **Roue de couleur (Color Wheel)** : un groupe de 9 cubes ou plus crée une roue qui supprime tous les cubes d’une même couleur.
+    *   **Combinaisons** : déclenche deux boosters côte à côte pour des effets massifs, par exemple Fusée + Bombe qui nettoie une énorme portion du plateau.
+3.  Joue pour l’objectif : regarde toujours le but du niveau. Si tu dois collecter 30 cubes rouges, concentre‑toi sur les groupes rouges. Si tu dois faire descendre un objet en bas, nettoie surtout les cubes juste en dessous.
+4.  Économise tes coups : chaque niveau dispose d’un nombre de mouvements limité. Évite de gaspiller des coups sur des petits groupes sans impact ; prépare plutôt de grands groupes qui génèrent des boosters et des cascades.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Bigger is Better:** Always look for the largest possible group of matching cubes to tap. Tapping a small group of 2 or 3 is less efficient. Larger groups not only clear more space but are also the only way to create powerful boosters.
-2.  **[FR]** **Create and Combine Boosters:** This is the core strategy for winning difficult levels.
-    *   **[FR]** **Rocket:** Tap a group of 5-6 cubes to create a Rocket, which clears a full row or column.
-    *   **[FR]** **Bomb:** Tap a group of 7-8 cubes to create a Bomb, which clears a 3x3 area.
-    *   **[FR]** **Color Wheel:** Tap a group of 9 or more cubes to create a Color Wheel, which clears all cubes of a single color.
-    *   **[FR]** **Combine:** The real power comes from activating two boosters next to each other. For example, a Rocket + Bomb combo clears a huge area.
-
-3.  **[FR]** **Plan for Objectives:** Pay attention to the goal. If you need to collect 30 red cubes, focus on matching red cubes. If you need to drop an item to the bottom, focus on clearing the cubes directly beneath it.
-4.  **[FR]** **Conserve Moves:** Each level has a limited number of moves. Don't waste them on small, insignificant matches. Try to set up large matches that will create boosters or cause large cascades.
-
-### Controls Guide
 
 The controls are extremely simple.
+- Faire exploser des cubes : utilise ta souris ou ton doigt pour taper sur un groupe de deux cubes adjacents ou plus de la même couleur.  
+- Activer un booster : tape simplement sur la fusée, la bombe, etc. pour déclencher son effet.
 
-*   **[FR]** **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
-*   **[FR]** **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q : Pourquoi je ne peux pas taper un cube isolé ?
+  
+  R : Le jeu exige un groupe d’au moins deux cubes connectés de la même couleur pour autoriser une explosion.
 
-*   **[FR]** **Q: Why can't I tap on a single cube?**
-    *   **[FR]** **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
+    - Q : Comment créer une fusée ?
+  
+  R : En tapant sur un groupe de 5 ou 6 cubes identiques adjacents.
 
-*   **[FR]** **Q: How do I create a Rocket?**
-    *   **[FR]** **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
+- Q : Comment réussir un niveau avec très peu de coups ?
+  
 
-*   **[FR]** **Q: What is the best way to clear a level with limited moves?**
-    *   **[FR]** **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
+    - **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
+
+- **Q: What is the best way to clear a level with limited moves?**
+
+    - **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
+  R : Priorise la création de boosters via de grands groupes au lieu de multiplier les petites explosions. Essaie ensuite de rapprocher deux boosters pour les activer ensemble et nettoyer une grande partie du plateau en un seul coup.
 

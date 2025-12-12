@@ -1,46 +1,56 @@
 ---
-locale: ja
-urlstr: crash-bandicoot
-title: '[JA TRANSLATION NEEDED] Crash Bandicoot'
-description: >-
-  [JA TRANSLATION NEEDED] Crash Bandicoot is a retro arcade platformer: run,
-  jump, spin, collect Wumpa fruit and crystals, dodge TNT, and clear themed
-  stages in a browser-based remake.
+title: Crash Bandicoot クラッシュ・バンディクー
+description: あの「クラッシュ・バンディクー」のファンメイド・ブラウザ版。走って、飛んで、スピンして、おなじみの木箱やリンゴを集めながらゴールを目指せ。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/crash-bandicoot.jpg
+urlstr: crash-bandicoot
+score: 4.8/5  (820 votes)
 tags:
   - arcade
   - platformer
   - retro
-score: 4.8/5  (820 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Overview
-[JA TRANSLATION NEEDED] Crash Bandicoot is a browser‑playable Flash/platformer tribute to the classic series. Make your way through a short set of themed stages, break crates, collect crystals and fruit, and avoid TNT hazards. After obtaining five crystals, you face Ripper Roo in a boss fight; spinning iron crates at him ends the game upon victory.  
+*Crash Bandicoot（クラッシュ・バンディクー）*は、PlayStationでおなじみの名作アクションゲームへのオマージュとして作られた、ブラウザで遊べる2Dアクション・プラットフォーマーです。
+プレイヤーは主人公のクラッシュを操作し、テーマの異なる5つのステージを攻略します。木箱を壊し、パワーストーン（クリスタル）やリンゴ（Wumpa fruit）を集め、TNT爆弾を避けながら進んでいきます。5つのクリスタルを集めると、ボスのリッパー・ルーとの対決が待っています。鉄の箱をスピンでぶつけて倒せばゲームクリアです。
 
-### How to Play
-- Progress through linear stages while gathering crystals and fruit.  
-- Break crates for items; avoid TNT and explosive crates.  
-- Use the spin attack to destroy certain obstacles and defeat light enemies.  
-- Reach the end of the level without falling into pits or traps.  
+### 遊び方
 
-### Controls
-- Arrow Keys: Move / Jump (Up) / Duck (Down)  
-- Space: Spin attack (key may vary slightly by host)  
+*   **目的:** ステージを進み、障害物を避けながらクリスタルとフルーツを集めてゴールします。
+*   **アクション:** 木箱はジャンプで踏むかスピンで壊せます。TNT箱（爆弾）には触れないように注意しましょう。
+*   **スピンアタック:** 敵を倒したり、特定の障害物を排除するのに使います。
+*   **落下注意:** 穴やトラップに落ちないように慎重かつ大胆に進んでください。
 
-### Tips and Strategies
-- Time jumps to clear moving platforms and gaps.  
-- Spin into crates from a safe distance; never linger near TNT after activation.  
-- Grab as many Wumpa fruit as possible for extra lives in some versions.  
-- Boss levels emphasize pattern recognition—wait for openings, then spin.  
+### 操作ガイド
 
-### FAQ
-- Q: How many levels are there?  
-[JA TRANSLATION NEEDED]   A: Five main stages; after collecting five crystals you fight Ripper Roo, then the game ends.  
-- Q: Why doesn’t the jump or spin work?  
-[JA TRANSLATION NEEDED]   A: Make sure the game canvas is focused; keys may vary slightly between hosts.  
-- Q: Is progress saved?  
-[JA TRANSLATION NEEDED]   A: Most Flash/browser versions do not save long‑term progress beyond the session.  
+*   **矢印キー:** 移動（左右）、ジャンプ（上）、しゃがむ（下）
+*   **スペースキー:** スピンアタック（※サイトによってキー割り当てが異なる場合があります）
 
+### 攻略のヒント
+
+*   **ジャンプのタイミング:** 動く足場や穴を越える時は、ギリギリのタイミングでジャンプしましょう。
+*   **TNTの処理:** スピンで直接攻撃すると爆発してしまいます。踏んでタイマーを作動させるか、基本的には避けて通りましょう。
+*   **フルーツ:** リンゴをたくさん集めると残機が増えるバージョンもあります。できるだけ回収しましょう。
+*   **ボス戦:** ボスの攻撃パターンをよく観察し、隙ができたらスピンで鉄箱を弾き飛ばしてぶつけましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: ステージはいくつありますか？**
+
+A: Five main stages; after collecting five crystals you fight Ripper Roo, then the game ends.
+- **A:** 基本的に5つのメインステージがあり、クリスタルを5つ集めるとボス戦（リッパー・ルー）になります。
+
+
+A: Make sure the game canvas is focused; keys may vary slightly between hosts.
+*   **Q: ジャンプやスピンが反応しません。**
+
+A: Most Flash/browser versions do not save long‑term progress beyond the session.
+    *   **A:** 一度ゲーム画面の中をクリックして、フォーカスを合わせてから操作してみてください。
+
+*   **Q: セーブできますか？**
+    *   **A:** 残念ながら、このバージョンの多くはセーブ機能がなく、ブラウザを閉じると最初からになります。短いゲームなので一気にクリアを目指しましょう。

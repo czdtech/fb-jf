@@ -1,85 +1,46 @@
 ---
+title: "Castle Craft キャッスル・クラフト"
+description: "「Castle Craft」でマージ（合成）して王国を築こう。アイテムを合体させて資源を集め、クエストをこなし、霧を晴らして壮大な帝国を作り上げろ。"
+iframeSrc: "https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/"
+thumbnail: "/new-images/castle-craft.png"
+urlstr: "castle-craft"
+score: "4.3/5  (2104 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: castle-craft
-title: '[JA TRANSLATION NEEDED] Castle Craft'
-description: >-
-  [JA TRANSLATION NEEDED] Embark on a merge-and-build adventure in Castle Craft.
-  Combine items to gather resources, complete quests, and expand your kingdom
-  from a humble garden into a grand medieval empire.
-iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/'
-thumbnail: /new-images/castle-craft.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.3/5  (2104 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Castle Craft（キャッスル・クラフト）*は、小さな土地を壮大な中世の王国へと発展させる、魅力的なマージ（合成）パズルゲームです。基本ルールはクラシックな「マージ3」システム。同じアイテムを3つ以上くっつけると、それらが合体して1つの上位アイテムに進化します。
 
-[JA TRANSLATION NEEDED] Castle Craft is a captivating merge-and-build puzzle game where players embark on a journey to transform a modest plot of land into a magnificent medieval kingdom. The core gameplay revolves around the classic "merge-3" mechanic: combining three or more identical items to create a single, more advanced item. By strategically merging resources like wheat, wood, and stone, players can fulfill quests, earn valuable currency, and lift the fog to unlock new territories, gradually revealing a sprawling and prosperous empire.
+小麦、木材、石材などの資源を戦略的に合成して、クエストを達成し、コインを稼ぎましょう。集めた鍵で霧を晴らせば新しい領土がアンロックされ、あなたの帝国はどんどん広がり、繁栄していきます。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  **Master the Merge-5:** While merging three items is the basic rule, always try to merge five identical items at once. A "merge-5" rewards you with a bonus, often an extra higher-level item, which significantly speeds up your progress.
-[JA TRANSLATION NEEDED] 2.  **Organize Your Board:** Don't let your land get cluttered. Keep similar items grouped together to make it easier to spot and execute large merges. Use open space strategically to maneuver items.
-[JA TRANSLATION NEEDED] 3.  **Focus on Quests:** Pay close attention to the quest log. Fulfilling quests and villager orders is the primary way to earn keys and coins, which are essential for unlocking new land and advancing the story.
-[JA TRANSLATION NEEDED] 4.  **Resource Management:** At times, you will need to decide which resource to focus on. If a quest requires high-level stone, dedicate a portion of your board to merging stone from basic rocks up to the required level. Don't spread your efforts too thin.
-[JA TRANSLATION NEEDED] 5.  **Unlock Land Wisely:** When you have enough keys, you can unlock a new patch of fog-covered land. Prioritize unlocking areas that give you the most building space or seem to lead towards critical quest items.
+1.  **「5つマージ」をマスターせよ:** 3つで合成するのが基本ですが、**同じアイテムを5つまとめて合成**するように心がけましょう。3つ合成だと上位アイテムが1つですが、5つ合成だと上位アイテムが「2つ」手に入ります（ボーナスで1つおまけ）。これは効率が段違いに良いので必須テクニックです。
+2.  **整理整頓:** 土地が散らかっていると大きな合成ができません。同じ種類のアイテムは一箇所にまとめて配置し、常に整理整頓を心がけましょう。
+3.  **クエスト優先:** 画面左のクエストログを常に確認しましょう。村人の注文やクエストを達成することが、新しい土地を開放するための「鍵」や「コイン」を得る主な手段です。
+4.  **資源管理:** クエストによっては特定の高レベル資源が必要になります。例えば「レンガ」が必要なら、石ころからコツコツ合成して育てる専用のスペースを確保しましょう。あれもこれもと一度に手を出しすぎないことが重要です。
+5.  **賢く土地を開放:** 鍵が貯まったら霧のかかった土地をアンロックできます。広いスペースが手に入る場所や、重要なクエストアイテムがありそうな場所を優先して開放していきましょう。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] The game is controlled entirely with a mouse or touch screen.
+マウスまたはタッチ操作で完結します。
 
-*   **Merge Items:** Click and drag an item onto at least two other identical items to perform a merge.
-    - **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.（日本語訳が必要）
-    - **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.（日本語訳が必要）
-    - **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.（日本語訳が必要）
-    - **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.（日本語訳が必要）
-    - **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.（日本語訳が必要）
-    - **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.（日本語訳が必要）
-*   **Move Items:** Drag an item to an empty tile to move it.
-*   **View Item Info:** Click on an item to see its name and level.
-*   **Collect Resources:** Click on resources that spawn automatically (like wheat from a field) to collect them.
+*   **マージ（合成）:** アイテムをクリックしてドラッグし、同じアイテムが2つ以上ある場所に重ねて指を離します。
+*   **移動:** アイテムを空いているマスにドラッグして移動させます。
+*   **情報確認:** アイテムをクリックすると、名前やレベルを確認できます。
+*   **収穫:** 畑の小麦など、時間経過で湧いてくる資源はクリックして収穫します。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-*   **Q: What is the main goal of Castle Craft?**
+*   **Q: ゲームの最終目標は？**
+    *   **A:** マージを繰り返して資源を作り、クエストをこなして霧を晴らし、ボロボロだった土地を立派な王国へと復興させることです。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.
+*   **Q: 鍵（Key）はどうやって手に入れますか？**
+    *   **A:** 主に特定のクエストを完了したり、市場や村人からの取引注文（オーダー）に応えることで報酬として手に入ります。
 
-*   **Q: How do I get more keys to unlock land?**
-[JA TRANSLATION NEEDED]     *   **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
-
-*   **Q: What's the difference between merging 3 and merging 5?**
-
-
-
-
-
-
-
-
-
-    - **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
-- **Q: What's the difference between merging 3 and merging 5?**
-    - **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
-- **Q: How do I get more keys to unlock land?**
-    - **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.
-- **Q: What is the main goal of Castle Craft?**
-### よくある質問（FAQ）
-- **Collect Resources:** Click on resources that spawn automatically (like wheat from a field) to collect them.
-
-    - **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.
-- **View Item Info:** Click on an item to see its name and level.
-
-
-
-    - **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
-- **Q: What's the difference between merging 3 and merging 5?**
-    - **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
-[JA TRANSLATION NEEDED]     *   **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
-
+*   **Q: 3つ合成と5つ合成、何が違うのですか？**
+    *   **A:** 3つ合成＝上位1個。5つ合成＝上位2個。つまり5つ合成すると**アイテム1個分が実質タダで手に入る**計算になります。基本的には5個揃うまで待つのが正解です。

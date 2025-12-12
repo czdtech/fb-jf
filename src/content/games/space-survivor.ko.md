@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: space-survivor
-title: '[KO] Space Survivor'
+title: 'Space Survivor 스페이스 서바이버'
 description: >-
-  [KO] Pilot your ship through endless waves of alien enemies in this thrilling
-  roguelike survival game. Collect XP, choose powerful upgrades, and see how
-  long you can survive the onslaught!
+  Space Survivor는 끝없이 몰려오는 외계 함대를 피해 살아남는 로그라이크 생존
+  슈팅 게임입니다. 경험치를 모아 레벨업하고, 다양한 무기와 강화 효과를 골라
+  얼마나 오래 버틸 수 있는지 도전해 보세요.
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/space-survivor.png
 tags:
@@ -18,34 +18,55 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Space Survivor는 "Vampire Survivors" 스타일의 로그라이크 생존 액션 게임입니다.
+플레이어는 자동으로 공격하는 우주선을 조종하며, 화면 가득 몰려오는 외계 적들을
+피해가야 합니다. 적을 처치하면 떨어지는 경험치 보석을 모아 레벨업하고, 그때마다
+새로운 무기나 패시브 업그레이드 중 하나를 선택해 빌드를 완성하게 됩니다.
+매 판마다 등장하는 선택지가 달라져, 매번 다른 조합과 전략으로 최대한 오래
+생존하는 것이 목표입니다.
 
-Space Survivor is an action-packed, roguelike survival game in the style of "Vampire Survivors." You pilot a spaceship that attacks automatically, and your only job is to skillfully navigate through ever-growing hordes of alien enemies. By defeating foes and collecting the experience gems they drop, you will level up and be able to choose from a variety of powerful new weapons and upgrades. Each run is different, challenging you to create a unique and overpowered build to survive for as long as possible.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **초반에는 생존 우선:** 초기 무기는 약하므로, 적을 전부 잡으려 하기보다
+    피격을 피하는 데 집중하세요. 적 무리를 파고들며 푸른 경험치 보석을 안전하게
+    수거하는 것이 중요합니다.
+2.  **업그레이드 선택은 핵심 전략:** 레벨업할 때마다 무기나 패시브를 고르게 되며,
+    이 선택이 한 판의 빌드를 결정합니다.
+    *   **시너지 고려:** 적을 느리게 만드는 무기와 근접 범위 고딜 오라처럼,
+        서로 잘 맞는 효과를 묶어 선택하면 훨씬 강력한 조합이 됩니다.
+    *   **진화 시스템:** 일부 무기는 특정 패시브 아이템과 함께 최고 레벨까지
+        올리면 더 강력한 "진화 무기"로 변합니다. 관련 설명을 잘 읽고 노려 보세요.
+3.  **멈추지 말고 계속 이동:** 제자리에서 버티려고 하면, 적들이 마지막 위치를
+    중심으로 몰려들어 금방 포위당합니다. 특히 후반에는 끊임없이 움직이며
+    안전한 공간을 찾아야 합니다.
+4.  **경험치 먹는 타이밍:** 항상 즉시 보석을 줍는 것이 최선은 아닙니다.
+    위험한 구역에 떨어진 보석은 잠시 두고, 먼저 주변을 정리한 뒤 한 번에
+    쓸어 담는 식으로 플레이하면 더 안전합니다.
 
-1.  **[KO]** **Focus on Survival:** In the early game, your top priority is not getting hit. Weave through the enemy swarms and focus on collecting the blue experience gems they drop. Your initial weapon is weak, so dodging is more important than trying to kill everything.
-2.  **[KO]** **Choose Your Upgrades Wisely:** Every time you level up, you get a choice of new weapons or upgrades. This is the core strategy of the game.
-    *   **[KO]** **Synergy:** Try to pick weapons that work well together. For example, a weapon that slows enemies combined with a short-range, high-damage aura can be very effective.
-    *   **[KO]** **Evolution:** Many weapons can be "evolved" into a much more powerful form if you have the correct corresponding passive item and have maxed out the weapon's level.
-3.  **[KO]** **Keep Moving:** Never stand still. The enemies will swarm your last known position. Constant movement is key to staying alive, especially in the later stages when the screen is full of enemies.
-4.  **[KO]** **Know When to Grab XP:** Sometimes it's dangerous to grab the XP gems immediately. It can be a good strategy to clear a large area first, then sweep back through to collect all the gems in safety.
+### 조작 방법 안내
 
-### Controls Guide
+이 게임은 매우 단순한 이동 조작만 사용합니다.
 
-The game uses simple movement controls.
+*   **우주선 이동:** 키보드의 **WASD** 또는 **방향키**, 혹은 마우스를 클릭·드래그해
+    우주선을 움직일 수 있습니다.
+*   **공격:** 모든 무기는 자동으로 발사됩니다. 플레이어는 이동과 회피에만
+    집중하면 됩니다.
 
-*   **[KO]** **Move Ship:** Use the **WASD keys**, **Arrow Keys**, or click and drag your **mouse** to move your spaceship around the screen.
-*   **[KO]** **Attacking:** All of your weapons fire automatically.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 어떻게 총을 쏘나요?**
+    *   **A:** 직접 쏠 필요가 없습니다. "서바이버" 스타일 게임의 특징은 모든
+        무기가 자동으로 발사된다는 점입니다. 플레이어는 적의 탄과 몸을
+        피하는 움직임에만 집중하세요.
 
-*   **[KO]** **Q: How do I shoot?**
-    *   **[KO]** **A:** You don't! The fun of a "survivor" style game is that all your weapons fire on their own. Your only job is to focus on expert movement and dodging.
+*   **Q: 새로운 무기와 능력은 어떻게 얻나요?**
+    *   **A:** 적을倒하면 떨어지는 푸른 경험치 보석을 모으면 됩니다. 화면 상단의
+        경험치 바가 가득 차면 레벨업하며, 무작위로 제시되는 무기/업그레이드
+        중 하나를 선택할 수 있습니다.
 
-*   **[KO]** **Q: How do I get new weapons and abilities?**
-    *   **[KO]** **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
-
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
+*   **Q: 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 모드에 따라 15분 또는 30분처럼 정해진 시간 동안 살아남는 것,
+        혹은 엔드리스 모드에서 가능한 한 오래 버티는 것이 목표입니다.
+        끝없이 강해지는 적들을 상대로 자신만의 최강 빌드를 만들어 보세요.

@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: spacebar-clicker
-title: '[DE] Spacebar Clicker'
-description: >-
-  [DE] Test your clicking speed with Spacebar Clicker, an addictive incremental
-  game. Press the spacebar to earn points and use them to buy powerful upgrades.
-  Automate your clicks and multiply your earnings to see how high you can score
-  in this simple yet engaging clicker game.
+title: "Spacebar Clicker"
+description: "Teste deine Klickgeschwindigkeit im Spacebar Clicker, einem süchtig machenden Incremental-Game. Drücke die Leertaste, um Punkte zu sammeln, kaufe damit Upgrades, automatisiere deine Klicks und vervielfache deine Einnahmen – bis der Highscore durch die Decke geht."
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/spacebar-clicker.jpg
 tags:
@@ -17,32 +13,29 @@ score: 4.1/5  (866 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Spacebar Clicker ist ein simples, aber hochgradig suchterzeugendes Incremental-Game, das sich um eine einzige Aktion dreht: das Drücken der Leertaste. Mit jedem Tastendruck sammelst du Punkte, die du anschließend in Upgrades investierst. Diese steigern entweder die Punkte pro Klick oder automatisieren das Klicken komplett. So entsteht ein befriedigender Fortschrittskreislauf, in dem deine Zahlen immer schneller wachsen.
 
-### Game Introduction
+### Spielanleitung
 
-Spacebar Clicker is a simple yet highly addictive incremental game centered around a single action: pressing the spacebar. The primary goal is to accumulate points by clicking, and then use those points to purchase upgrades. These upgrades enhance your clicking power or automate the process, creating a satisfying loop of progression where your numbers grow exponentially.
+Starte damit, die Leertaste immer wieder zu drücken, um deine ersten Punkte zu verdienen. Sobald du genug gesammelt hast, kaufst du im Shop Upgrades. Dazu gehören automatische Clicker, die dauerhaft Punkte erzeugen, oder Multiplikatoren, die jede manuelle Eingabe wertvoller machen. Die Kunst besteht darin, das Verhältnis zwischen aktivem Klicken und sinnvollen Investitionen so zu steuern, dass deine Punkte-pro-Sekunde möglichst schnell steigen.
 
-### Gameplay Guide
+### Steuerung
 
-Start by repeatedly pressing the spacebar to generate your first points. As you earn more, invest in upgrades from the shop. These upgrades might include auto-clickers that generate points for you over time, or multipliers that increase the points you get for each manual press. The key is to balance manual clicking with purchasing the right upgrades to maximize your points-per-second.
+- **Hauptaktion:** `Leertaste` – drücke sie, um Punkte zu generieren.
+- **Upgrades kaufen:** `Mausklick` – nutze die Maus, um im In-Game-Shop Verbesserungen auszuwählen und zu kaufen.
 
-### Controls Guide
+### Häufig gestellte Fragen (FAQ)
 
-- **Main Action:** `Spacebar` - Press to generate points.
-- **Upgrades:** `Mouse Click` - Use your mouse to purchase upgrades from the in-game menu.
+**Wozu dient ein Spacebar Clicker überhaupt?**
 
-### Frequently Asked Questions (FAQ)
+Das Spiel ist zugleich Zeitvertreib, ein Tool, um deine "Clicks per Second" (CPS) zu testen und zu verbessern, und ein entspannendes Zahlenspiel, bei dem du zusiehst, wie deine Werte durch clevere Upgrades immer größer werden.
 
-**What is the point of a Spacebar Clicker?**
+**Hat das Spiel ein festes Ende?**
 
-The game serves multiple purposes: it's a fun way to pass the time, a tool to test and improve your "clicks per second" (CPS) speed, and a satisfying game of watching numbers get bigger through strategic upgrades.
+Wie die meisten Clicker-Games ist auch Spacebar Clicker im Grunde endlos. Typische Ziele sind, neue Highscores zu erreichen oder alle verfügbaren Upgrades freizuschalten, statt ein klassisches "Game Over" zu bekommen.
 
-**Is there an end to the game?**
+**Was ist die beste Strategie?**
 
-Most clicker games, including Spacebar Clicker, are designed to be endless. The goal is typically to reach new high scores or unlock all available upgrades rather than reaching a specific "end."
-
-**What's the best strategy?**
-
-In the beginning, focus on manual clicking to afford your first few upgrades. Prioritize upgrades that provide passive, automatic income. Once you have a steady stream of points, you can invest in more expensive upgrades that multiply your overall earnings.
-
+Konzentriere dich anfangs auf manuelles Klicken, um dir schnell die ersten Upgrades leisten zu können. Priorisiere dann Verbesserungen, die passives Einkommen erzeugen. Wenn deine automatische Produktion stark genug ist, kannst du in teurere Multiplikatoren investieren, die deine Gesamtproduktion massiv steigern.

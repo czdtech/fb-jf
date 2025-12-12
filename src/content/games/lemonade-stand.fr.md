@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: lemonade-stand
-title: '[FR] Lemonade Stand'
-description: >-
-  [FR] Classic business sim: set price, recipe, and advertising; buy
-  cups/lemons/ice; and manage daily profit under changing weather.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
+title: "Lemonade Stand"
+description: "Simu business classique : fixe prix, recette et pub, achète gobelets/citrons/glace et gère ton bénéfice quotidien en fonction de la météo."
+iframeSrc: "https://ad-freegames.github.io/flash/game/lemonade-stand.html"
 thumbnail: /new-images/lemonade-stand.jpg
 tags:
   - simulation
@@ -15,30 +13,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation
 
+Lemonade Stand simule un petit stand de limonade. Chaque jour, tu achètes ton stock (gobelets, citrons, sucre, glace), règles la recette et le prix, et choisis éventuellement de faire de la publicité. La météo et des événements aléatoires influencent la demande ; ton profit dépend de l’adéquation entre prix, stock et conditions, tout en limitant le gaspillage (glace fondue, citrons perdus).
 
+### Comment jouer
 
-### Overview
-Lemonade Stand models a simple storefront. Each day you purchase inventory (cups, lemons, sugar, ice), set recipe and price, and optionally advertise. Weather and random events affect demand; profit depends on matching price and stock to conditions while minimizing waste (melted ice, leftover lemons).
+- Vérifie la météo ; augmente le prix et achète plus de glace lors des journées très chaudes.  
+- Ajuste la recette (plus de sucre/citron) pour trouver le bon équilibre coût / satisfaction client.  
+- Suis ton bénéfice/perte et améliore tes décisions jour après jour.
 
-### How to Play
-- Check forecast; raise price on hot days and buy more ice.
-- Adjust recipe (more sugar/lemons) to balance cost and demand.
-- Track profit/loss and iterate daily.
+### Commandes
 
-### Controls
-- Mouse/UI to set quantities and prices; advance day.
+- Souris / interface pour régler quantités et prix, puis passer au jour suivant.
 
-### Tips
-- Don’t overstock perishable items if the forecast is cool or rainy.
-- Keep a margin for events but avoid tying up cash in excess inventory.
-- Small price tests reveal elasticity for your market.
+### Astuces
+
+- Ne surcharge pas les stocks périssables si la météo est fraîche ou pluvieuse.  
+- Garde une petite marge pour les événements, mais évite de bloquer trop de cash en inventaire inutile.  
+- De petits tests de prix te permettent de mesurer la sensibilité de ta clientèle.
 
 ### FAQ
-- Q: How do I avoid running out of stock during peak hours?
-A: Buy a buffer of cups and ice on hot forecasts and increase price slightly.
-- Q: Does advertising matter in this game?
-A: It can boost demand, but overspending wastes money if supply is low.
-- Q: What is the most important metric to watch?
-A: Daily profit and leftover inventory; aim for steady upward trends.
+
+- **Q : Comment éviter la rupture de stock aux heures de pointe ?**  
+  R : Prends une marge de gobelets et de glace lors des canicules, et augmente un peu le prix pour lisser la demande.  
+
+- **Q : La publicité est‑elle vraiment utile ?**  
+  R : Elle peut booster la demande, mais devient inutile si tu n’as pas assez de stock ou si tu dépenses trop pour attirer des clients que tu ne peux pas servir.  
+
+- **Q : Quel indicateur suivre en priorité ?**  
+  R : Le bénéfice quotidien et les restes de stock ; ton objectif est une courbe de profit régulière à la hausse.
 

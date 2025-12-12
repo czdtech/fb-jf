@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: fancy-pants-2
-title: '[FR] Fancy Pants 2'
-description: >-
-  [FR] Momentum‑driven platformer sequel: faster movement tech, new enemies, and
-  larger hand‑drawn stages with secrets and trophies.
+title: "Fancy Pants 2"
+description: "Suite d’un platformer basé sur la vitesse : mouvements encore plus rapides, nouveaux ennemis et grands niveaux dessinés à la main remplis de secrets et de trophées."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/fancy-pants-2.jpg
@@ -16,30 +14,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Fancy Pants 2 est un jeu de plateforme nerveux où tout tourne autour du momentum. Tu dévales des pentes, cours sur les murs, récupères des trophées et traverses de grands niveaux remplis de salles bonus optionnelles. Plus tu gardes ta vitesse, plus les déplacements sont fluides et spectaculaires.
 
+### Comment jouer
 
-### Overview
-Build and preserve momentum through slopes and walls, collect trophies, and clear larger levels with optional challenge rooms.
+- Utilise les glissades et les sauts muraux pour enchaîner les mouvements et franchir de grands fossés.
+- Explore chaque recoin à la recherche de collectibles pour ouvrir des portes bonus et découvrir des zones secrètes.
+- Affronte les ennemis simples en leur sautant dessus ou avec de rapides coups de crayon (selon la version).
 
-### How to Play
-- Use slides and wall‑jumps to chain movement across big gaps.
-- Explore for collectibles to open bonus doors.
-- Fight simple enemies with stomp or quick swipes (when available).
+### Commandes
 
-### Controls
-- WASD/Arrows to move/jump; Down to slide; Up to enter doors.
+- WASD ou flèches pour te déplacer et sauter ; Bas pour glisser ; Haut pour entrer dans une porte.
 
-### Tips
-- Practice slope exits to keep speed over flat stretches.
-- Buffer jumps at edges for consistent long carries.
-- Use downhill slides before vertical climbs.
+### Astuces
 
-### FAQ
-- Q: Is there a story?
-A: Light framing; focus is movement and level secrets.
-- Q: Are there speed runs?
-A: Time trials/challenges exist in many hosts.
-- Q: Progress saving?
-A: Depends on host; some keep local progress.
+- Entraîne‑toi à sortir des pentes en conservant ta vitesse pour rester rapide sur les portions plates.
+- Prépare tes sauts : appuie légèrement avant le bord pour des sauts longs plus réguliers.
+- Profite des descentes pour prendre de l’élan avant les montées verticales.
 
+### Foire aux questions (FAQ)
+
+- Q : Il y a une histoire ?
+  
+  R : Le scénario reste très léger ; l’accent est surtout mis sur le mouvement et la découverte des secrets de niveaux.
+
+- Q : Y a‑t‑il un mode speedrun ?
+  
+  R : De nombreux hébergeurs proposent des défis de temps ou des parcours chronométrés.
+
+- Q : La progression est‑elle sauvegardée ?
+  
+  R : Ça dépend du site sur lequel tu joues ; certains conservent ta progression en local.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: jump-with-justin-2
-title: '[DE] Jump With Justin 2'
+title: "Jump With Justin 2"
 description: >-
-  [DE] Jump With Justin 2 is a bouncy platformer — time jumps, bounce off
-  hazards, and chain springs to the goal.
+  Jump With Justin 2 ist ein sprunghafter Plattformer: Time deine Sprünge,
+  pralle von Hindernissen ab, nutze Federn und Plattformen und hüpfe dich zum
+  Ziel.
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/jump-with-justin-2.png
 tags:
@@ -15,29 +16,60 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jump With Justin 2 ist ein leichtfüßiger Plattformer, in dem sich alles um
+federnde Sprünge, bewegliche Plattformen und gutes Timing dreht. Du planst
+Sprungbögen, prallst von Trampolinen oder Hindernissen ab und versuchst, deinen
+Schwung beizubehalten, um mit möglichst wenigen Fehlern den Ausgang jedes
+Levels zu erreichen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Sprungbögen kontrollieren**  
+    Versuche, saubere Bögen zu springen. Oft ist ein etwas späterer Sprung
+    besser, um über Stacheln oder andere Fallen hinwegzukommen.
 
-Jump With Justin 2 is a light platformer centered on springy jumps, moving platforms, and trap timing. Plan arcs, chain bounces, and keep momentum to reach exits with minimal mistakes.
+2.  **Schwung erhalten**  
+    Statt auf jeder Plattform stehen zu bleiben, ist es meist sinnvoll, den
+    Schwung mitzunehmen. Fließende Bewegungen helfen, große Abstände zu
+    überwinden und gefährliche Stellen in einem Zug zu passieren.
 
-### Gameplay Strategy & Walkthrough
+3.  **Fallen timen**  
+    Beobachte Stacheln, bewegliche Plattformen oder andere Gefahren zunächst,
+    bevor du losläufst. Wenn du die „sicheren Takte“ erkannt hast, lassen sich
+    auch schwierig aussehende Stellen gut meistern.
 
-1.  **[DE]** Arc control: Commit to clean arcs; late jumps often clear hazards better.
-2.  **[DE]** Momentum: Preserve speed across platforms instead of stopping each time.
-3.  **[DE]** Trap timing: Watch spikes and moving platforms to find safe beats.
-4.  **[DE]** Drill tough rooms: Restart segments to map exact jump windows.
-5.  **[DE]** Optional stars: Grab collectibles only on safe arcs.
+4.  **Schwere Räume üben**  
+    Scheiterst du immer wieder an einem Abschnitt, lohnt sich ein schneller
+    Neustart. So bekommst du ein Gefühl dafür, wann du genau springen musst und
+    prägst dir die Abfolge der Hindernisse ein.
 
-### Controls Guide
+5.  **Sammelobjekte nur auf sicheren Routen mitnehmen**  
+    Sterne und andere Extras solltest du zuerst ignorieren, wenn sie auf
+    riskanten Routen liegen. Spiele ein Level zunächst „sauber“ durch und hole
+    dir Sammelobjekte in einem zweiten Durchgang.
 
-- Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
-- Restart: Fast restart to practice sequences.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- **Bewegen/Springen:** Pfeiltasten oder WASD zum Bewegen, Leertaste zum
+  Springen; auf Mobilgeräten stehen Touch-Buttons zur Verfügung.
+- **Neustart:** Viele Versionen bieten eine Schnell-Neustart-Funktion, mit der
+  du einzelne Abschnitte direkt noch einmal üben kannst.
 
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- 100% collection tips? Clear the route first, then route collectibles.
+### FAQ
 
+- **F: Ich lande ständig in Stacheln – warum?**  
+  **A:** Meist springst du zu früh oder zu spät. Beobachte den Boden und die
+  Hindernisse genau und versuche, deine Sprünge minimal zu verzögern, damit der
+  Bogen sauber über die Gefahren hinwegführt.
+
+- **F: Gibt es einen Doppelsprung?**  
+  **A:** Ein klassischer Doppelsprung ist nicht immer vorhanden, aber manche
+  Level nutzen Sprungbretter oder Power-ups, die sich ähnlich anfühlen und dir
+  zusätzliche Höhe verleihen.
+
+- **F: Wie schaffe ich 100 % aller Sammelobjekte?**  
+  **A:** Lerne zunächst den sicheren Weg bis zum Ziel. Plane danach eine Route,
+  bei der du nach und nach alle Sterne oder Extras einsammelst – manchmal sind
+  dafür mehrere Durchläufe nötig.

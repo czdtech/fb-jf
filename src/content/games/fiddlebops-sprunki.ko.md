@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: fiddlebops-sprunki
-title: '[KO] Fiddlebops Sprunki - Play Fiddlebops Sprunki Online'
+title: Fiddlebops Sprunki 피들밥스 스프런키
 description: >-
-  [KO] The Fiddlebops Sprunki breathes new life into the original Sprunki game
-  by adding a delightful twist.it offers players a chance to enjoy a more
-  whimsical and less stressful gaming experience.
+  원작 Sprunki에 피들밥스식 음악 제작 요소를 더한 Mod입니다. 다양한 캐릭터와 루프를 조합해 더 가볍고 유쾌한 Sprunki 트랙을
+  만들어 보세요.
 iframeSrc: 'https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/'
 thumbnail: /fiddlebops-sprunki-bg-1.png
 tags:
@@ -15,28 +14,34 @@ score: 4.3/5 (684 votes)
 ---
 
 
+### Fiddlebops Sprunki 소개
 
-### Fiddlebops Sprunki Introduction
+Fiddlebops Sprunki는 원래의 Sprunki 게임에 밝고 유쾌한 변주를 더한 Mod입니다.
+긴장감 있고 다소 어두운 분위기의 원작과 달리, 더 귀엽고 가벼운 캐릭터 디자인과
+컬러풀한 연출, 한층 부담이 덜한 게임 흐름으로 “편하게 즐기는 Sprunki”에
+가깝게 만들어졌습니다.
 
-The Fiddlebops Sprunki breathes new life into the original Sprunki game by adding a delightful twist. With its charming characters, vivid visuals, and lighthearted gameplay, it offers players a chance to enjoy a more whimsical and less stressful gaming experience.
+### 게임 플레이
 
----
+- **캐릭터 선택**: 살짝 기괴하지만 매력적인 캐릭터들을 골라 각자의 보컬/사운드
+  루프를 확인합니다.  
+- **드래그 앤 드롭**: 마우스로 캐릭터를 무대 위에 올리면 바로 연주가 시작되고,
+  아래로 끌어내리거나 더블 클릭해 제거할 수 있습니다.  
+- **트랙 다듬기**: 음정 조정, 레이어 추가 등으로 여러 사운드를 겹쳐 독특한
+  트랙을 만들어 보세요.  
 
-### Fiddlebops Sprunki Gameplay
+### 특징
 
-- Start with Characters: Choose from a set of eerie yet charming characters, each with its own sound or vocal loop.
-- Drag and Drop: Use your mouse to drag characters onto the stage to build your track. Remove them by dragging them down or double-clicking.
-- Enhance Tracks: Adjust pitch, layer sounds, and experiment with combinations to create unique music.
-
-
----
-
-### Fiddlebops Sprunki Features
-
-This mod shifts the focus from the intense mechanics of the original game to a more relaxed, fun-filled experience. The simplified objectives and emphasis on creativity encourage players to explore, enjoy, and laugh. While it still retains the core essence of Sprunki, the Fiddlebops Sprunki introduces new levels of joy with its lighthearted approach.
-
----
+- 원작의 강한 연출보다는, 창의적인 사운드 조합과 가볍게 즐기는 플레이에
+  초점을 맞추고 있습니다.  
+- 목표나 실패 조건이 과하게 빡빡하지 않아, 실수에 대한 부담 없이 자유롭게
+  실험할 수 있습니다.  
 
 ### Perfect for All Ages
+- 코믹한 캐릭터와 애니메이션 덕분에 어린 플레이어부터 어른까지 함께
+  즐기기 좋습니다.  
 
-One of the standout aspects of the Fiddlebops Sprunki is its universal appeal. The whimsical avatars and playful animations make it a hit with younger audiences, while its charm and humor can easily captivate adult players as well. Whether you're looking for a solo adventure or a shared experience with friends or family, this mod delivers endless entertainment.
+혼자 음악을 만지작거리며 놀고 싶을 때도, 친구·가족과 함께 웃으며 플레이하고
+싶을 때도 Fiddlebops Sprunki는 좋은 선택입니다. 가벼운 마음으로 접속해
+나만의 Sprunki 비트를 만들어 보세요.
+

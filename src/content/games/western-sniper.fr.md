@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: western-sniper
-title: '[FR] Western Sniper'
+title: Western Sniper
 description: >-
-  [FR] Western Sniper is a quick‑draw shooter — steady aim, manage sway, and
-  pick priority targets across snappy missions.
+  Western Sniper est un jeu de tir à la première personne : vise calmement, gère
+  le souffle et élimine les bandits à distance.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/western-sniper.png
 tags:
@@ -16,30 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-
-### Detailed Game Introduction
-
-Western Sniper delivers short missions with bandits, explosives, and moving targets. Success means calm reticles, priority picks (rifles/throwers first), and resource care (ammo/time/bonus objectives).
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Priority: Take out ranged threats and explosives.
-2.  **[FR]** Hold breath: Time shots at sway minima for accuracy.
-3.  **[FR]** Environmental kills: Use barrels/ropes for multi‑downs.
-4.  **[FR]** Ammo discipline: Don’t spam; reset aim between shots.
-5.  **[FR]** Optional goals: Attempt only when the field is safe.
-
-### Controls Guide
-
-- Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I miss moving targets.
-
-A: Lead slightly and fire at sway lows; practice pacing.
+A: Take measured shots; save bullets by using environment kills.
 
 - Q: Ammo runs out.
 
+A: Lead slightly and fire at sway lows; practice pacing.
+
+- Q: I miss moving targets.
+
+### Foire aux questions (FAQ)
+
+
+Western Sniper delivers short missions with bandits, explosives, and moving targets. Success means calm reticles, priority picks (rifles/throwers first), and resource care (ammo/time/bonus objectives).
+- Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
+
+### Commandes
+
+- Optional goals: Attempt only when the field is safe.
+
+- Ammo discipline: Don’t spam; reset aim between shots.
+
+- Environmental kills: Use barrels/ropes for multi‑downs.
+
+- Hold breath: Time shots at sway minima for accuracy.
+
+- Priority: Take out ranged threats and explosives.
+
+### Guide de jeu
+
+
+- Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
+Western Sniper delivers short missions with bandits, explosives, and moving targets. Success means calm reticles, priority picks (rifles/throwers first), and resource care (ammo/time/bonus objectives).
+
+### Présentation du jeu
+
+
 A: Take measured shots; save bullets by using environment kills.
 
+- Q: Ammo runs out.
+
+A: Lead slightly and fire at sway lows; practice pacing.
+
+- Q: I miss moving targets.
+
+
+A: Take measured shots; save bullets by using environment kills.

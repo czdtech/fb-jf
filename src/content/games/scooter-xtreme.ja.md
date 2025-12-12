@@ -1,82 +1,52 @@
 ---
-locale: ja
+title: Scooter Xtreme
+description: Scooter Xtremeは極限スタントゲームです。トリックを実行し、ジャンプし、スタントをマスターし、スクーターチャンピオンになります。
+iframeSrc: 'https://scooterxtreme.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+thumbnail: /new-images/scooter-xtreme.png
 urlstr: scooter-xtreme
-title: '[JA TRANSLATION NEEDED] Scooter Xtreme 3D'
-description: >-
-  [JA TRANSLATION NEEDED] Hit the skate park in Scooter Xtreme 3D! Race through
-  challenging courses, perform awesome stunts and grinds, and collect coins to
-  unlock new scooters and characters.
-iframeSrc: >-
-  https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
-thumbnail: /new-images/scooter-xtreme.jpg
+score: 4.0/5  (1634 votes)
 tags:
   - action
   - sports
-  - driving
-score: 4.3/5  (2200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Scooter Xtremeは、スクーターでスタントを実行することに挑戦します。ランプをジャンプし、トリックを実行し、バランスを維持し、クラッシュせずに着地します。ポイントを獲得して新しいレベルとスクーターをアンロックします。
 
-[JA TRANSLATION NEEDED] Scooter Xtreme 3D is an action-packed stunt and racing game that puts you on a scooter in a vibrant 3D world. Your goal is to navigate through challenging courses filled with ramps, rails, and obstacles. Perform incredible stunts like flips and grinds to rack up points, collect coins, and race to the finish line. Use your earnings to unlock new scooters and characters to become the ultimate scooter champion.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **バランスに焦点を当てる:" 着地時のチルトを制御します。
+2.  **トリックをマスター:" フリップとグラブでポイントを獲得します。
+3.  **スピードを管理:" より速い = より高いジャンプですが、コントロールが難しい。
+4.  **完璧な着地:" クリーンな着地がボーナスを獲得します。
+5.  **練習:" 繰り返しでトリックが改善します。
 
-[JA TRANSLATION NEEDED] 1.  **Master the Basics:** Before trying complex tricks, get comfortable with the controls. Practice accelerating, turning, and jumping to get a feel for the physics of the scooter.
-[JA TRANSLATION NEEDED] 2.  **Link Your Tricks:** The key to a high score is combos. Don't just do one trick; try to link them together. For example, jump off a ramp, do a flip in the air, and land perfectly in a grind on a rail.
-[JA TRANSLATION NEEDED] 3.  **Explore the Park:** The levels are filled with different paths and hidden areas. Explore the environment to find the best lines for scoring points and collecting all the coins.
-[JA TRANSLATION NEEDED] 4.  **Choose the Right Scooter:** As you unlock new scooters, pay attention to their stats. Some might be faster, while others might be better for performing tricks. Choose the one that best fits your playstyle and the level's objective.
+### 操作ガイド
 
-### Controls Guide
-
-*   **Accelerate:** Press the **W** or **Up Arrow** key.
-    - **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.（日本語訳が必要）
-    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.（日本語訳が必要）
-    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.（日本語訳が必要）
-    - **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.（日本語訳が必要）
-    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.（日本語訳が必要）
-    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.（日本語訳が必要）
-*   **Steer:** Use the **A/D** or **Left/Right Arrow** keys to steer.
-*   **Brake/Reverse:** Press the **S** or **Down Arrow** key.
-*   **Jump:** Press the **Spacebar** to jump.
-*   **Perform Tricks:** Use other designated keys (often shown on-screen) while in the air or on a rail to perform various stunts.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I get a higher score?**
-[JA TRANSLATION NEEDED]     *   **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.
-
-*   **Q: What happens if I fall or crash?**
-[JA TRANSLATION NEEDED]     *   **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
-
-*   **Q: How do I unlock new characters and scooters?**
+- 矢印キー/WASD：加速、ブレーキ、チルト。
+- 番号キー/ボタン：トリックを実行します。
+- バランスを保ち、着地します。
 
 
-
-
-
-
-
-
-
-    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
-- **Q: How do I unlock new characters and scooters?**
-    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
-- **Q: What happens if I fall or crash?**
-    - **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.
-- **Q: How do I get a higher score?**
-### よくある質問（FAQ）
 - **Perform Tricks:** Use other designated keys (often shown on-screen) while in the air or on a rail to perform various stunts.
 
-    - **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.
 - **Jump:** Press the **Spacebar** to jump.
+### よくある質問 (FAQ)
 
-
+- **Q: 継続的にクラッシュします。ヒントは？**  
+  A: バランスを練習し、過度に回転しないでください。
+    - **Q: 最高のトリックは何ですか？**  
+  A: トリックを組み合わせてより多くのポイントを獲得します。
+- **Q: 新しいスクーターをアンロックできますか？**  
 
     - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
-- **Q: How do I unlock new characters and scooters?**
-    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
-[JA TRANSLATION NEEDED]     *   **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
 
+- **Q: How do I unlock new characters and scooters?**
+
+    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
+  A: はい、ポイントを獲得してアンロックします。

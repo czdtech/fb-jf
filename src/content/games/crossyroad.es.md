@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: crossyroad
-title: '[ES] Crossy Road - Play Crossy Road Online'
+title: "Crossy Road - Juega a Crossy Road Online"
 description: >-
-  [ES] Crossy Road is an 8-bit endless arcade hopper game in which your mission
-  is to control the chicken and cross the roads, rivers, and railroads safely.
+  Crossy Road es un runner infinito arcade de estética 8‑bit en el que tu misión
+  es controlar a la famosa gallina y cruzar carreteras, ríos y vías de tren sin
+  morir en el intento.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /crossy-road.jpg
 tags:
@@ -13,35 +14,68 @@ score: 4.8/5  (1104 votes)
 ---
 
 
+Crossy Road es un videojuego de estilo arcade infinito, tremendamente popular y
+adictivo, desarrollado y publicado por Hipster Whale. El objetivo es muy simple:
+cruzar una serie de carreteras con tráfico, ríos y vías de tren durante el
+máximo tiempo posible sin morir. Su encantador estilo voxel (como píxeles en 3D)
+y su enorme colección de personajes desbloqueables lo han convertido en un éxito
+mundial en móviles y otras plataformas. El nombre y el concepto del juego son
+un guiño al chiste clásico de "¿por qué cruzó la carretera la gallina?".
 
-Crossy Road is an incredibly popular and addictive endless arcade-style video game developed and published by Hipster Whale. The objective of the game is simple: to cross a series of busy roads, rivers, and train tracks for as long as possible without dying. Its charming voxel art style (similar to 3D pixels) and a vast collection of unlockable characters have made it a global hit on mobile devices and other platforms. The name and concept of the game are a playful reference to the classic joke, "Why did the chicken cross the road?". 
+### Cómo jugar a Crossy Road
 
-### How to Play Crossy Road
-
--  **Movement:** Players control their character by tapping the screen to hop forward one lane at a time, or swiping left, right, and down to move in those directions. The goal is to keep moving forward.
--  **Obstacles:** The world is filled with hazards. You must avoid being hit by cars, trucks, and trains. You also need to cross rivers by hopping on moving logs and lily pads. If you fall into the water, you lose.
--  **The Eagle:** You cannot stay still for too long! If you wait in one spot or move backward too much, a large eagle will swoop in and carry your character away, ending the game. This forces you to constantly assess risks and move forward.
--  **Scoring:** Your score is based on the number of forward hops you make. Each forward move adds one point to your score. Moving sideways or backward does not increase your score.
--  **Coins and Characters:** While playing, you can collect coins scattered on the ground. These coins are used in a prize machine (gacha) to unlock a wide variety of new characters, each with its own unique appearance and environment theme (e.g., the Penguin character makes the world snowy).
-
+-  **Movimiento:** Controlas a tu personaje tocando la pantalla para saltar una
+   casilla hacia delante, o deslizando hacia izquierda, derecha o atrás para
+   moverte en esas direcciones. El objetivo es seguir avanzando siempre.
+-  **Obstáculos:** El mundo está lleno de peligros. Debes evitar coches,
+   camiones y trenes, y también cruzar ríos saltando sobre troncos y nenúfares
+   en movimiento. Si caes al agua, pierdes la partida.
+-  **El águila:** No puedes quedarte quieto mucho tiempo. Si esperas demasiado
+   en el mismo sitio o retrocedes en exceso, un gran águila bajará en picado y
+   se llevará a tu personaje, terminando la partida. Esto te obliga a evaluar
+   riesgos constantemente y seguir avanzando.
+-  **Puntuación:** Tu puntuación se basa en el número de casillas que avanzas
+   hacia delante. Cada paso adelante suma un punto. Los movimientos laterales o
+   hacia atrás no aumentan la puntuación.
+-  **Monedas y personajes:** Durante la partida puedes recoger monedas del
+   suelo. Sirven para usar una máquina de premios (tipo gacha) con la que
+   desbloquear una gran variedad de personajes, cada uno con aspecto y ambiente
+   propios (por ejemplo, el pingüino convierte el escenario en un mundo nevado).
 
 ---
 
-### Strategy and Tips
+### Estrategia y consejos
 
--  **Patience and Rhythm:** Don't rush blindly. Observe the traffic patterns to find a safe path. The game has a rhythm; try to sync your taps with the flow of traffic and logs.
--  **Look Ahead:** Always scan a few lanes ahead of your character. This helps you anticipate upcoming dangers, like a fast-approaching train or a gap in the logs on a river.
--  **Use Sideways Movement:** Don't just hop forward. Swiping left and right is crucial for positioning yourself to wait for an opening or to line up a jump onto a log.
--  **Be Wary of Trains:** Trains are the deadliest obstacle because they are fast and give little warning. When you see flashing red lights and hear the bell, stop immediately and wait for the train to pass.
--  **Mastering Rivers:** When crossing rivers, try to stay in the middle of the logs. If you get too close to the edge of the screen, you might get pushed off by a log moving in the opposite direction.
-
+-  **Paciencia y ritmo:** No te lances a lo loco. Observa los patrones del
+   tráfico para encontrar un camino seguro. El juego tiene su propio ritmo;
+   intenta sincronizar tus toques con el flujo de coches, troncos y trenes.
+-  **Mira hacia delante:** Escanea siempre varias filas por delante de tu
+   personaje. Así podrás anticipar peligros como un tren que se acerca rápido o
+   un hueco en la fila de troncos del río.
+-  **Aprovecha el movimiento lateral:** No te limites a saltar hacia delante.
+   Desplazarte a izquierda y derecha es clave para colocarte en un sitio seguro
+   mientras esperas un hueco o para alinearte con un tronco concreto.
+-  **Cuidado con los trenes:** Son el obstáculo más letal porque son rápidos y
+   avisan poco. Cuando veas luces rojas parpadeando y oigas la campana, detente
+   y espera a que el tren pase antes de seguir.
+-  **Domina los ríos:** Al cruzar ríos, intenta mantenerte en la parte central
+   de los troncos. Si te acercas demasiado al borde de la pantalla, un tronco en
+   sentido contrario puede empujarte fuera.
 
 ---
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
-**Q: How do I get new characters?**  **A:** There are three main ways: 1) Use 100 coins in the prize machine for a random character. 2) Collect free gifts that appear every few hours. 3) Some secret characters are unlocked by performing specific actions in the game with certain characters. 
+**P: ¿Cómo consigo nuevos personajes?**  
+**R:** Hay tres formas principales: 1) Gastar 100 monedas en la máquina de
+premios para obtener un personaje aleatorio. 2) Abrir los regalos gratuitos que
+aparecen cada cierto tiempo. 3) Desbloquear personajes secretos realizando
+acciones concretas con determinados personajes.
 
-**Q: What's the point of the coins?**  **A:** Their only purpose is to be used in the prize machine to unlock new characters. They do not affect your score or gameplay abilities. 
+**P: ¿Para qué sirven exactamente las monedas?**  
+**R:** Su único uso es la máquina de premios para conseguir personajes nuevos.
+No afectan a tu puntuación ni a tus habilidades de juego.
 
-**Q: Why did an eagle take me away?**  **A:** This happens when you stay in one place for too long or move too many steps backward. The game is designed to keep you moving forward.
+**P: ¿Por qué me ha llevado un águila?**  
+**R:** Ocurre cuando te quedas demasiado tiempo en el mismo sitio o retrocedes
+mucho. El juego está diseñado para obligarte a seguir avanzando.

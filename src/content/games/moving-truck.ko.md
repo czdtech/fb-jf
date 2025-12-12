@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: moving-truck
-title: '[KO] Moving Truck'
+title: "Moving Truck 무빙 트럭"
 description: >-
-  [KO] Moving Truck is a physics-based puzzle game where players must
-  strategically load furniture and items into a moving truck to ensure safe and
-  balanced transport to the destination.
+  Moving Truck은 다양한 모양과 크기의 짐을 이삿 트럭에 안정적으로 적재해 목적지까지
+  무사히 운반해야 하는 물리 퍼즐 게임입니다.
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/moving-truck.jpg
 tags:
@@ -18,33 +17,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Moving Truck*은 물리 엔진을 기반으로 한 적재 퍼즐 게임입니다. 플레이어는 각기 다른
+크기와 모양의 가구, 상자 등을 트럭 안에 전략적으로 배치해, 이동 중에도 짐이 넘어지거나
+떨어지지 않도록 해야 합니다. 공간 감각과 계획 능력을 동시에 시험하는 게임입니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Moving Truck" is a physics-based puzzle game. Players' task is to strategically load furniture and various items of different shapes and sizes into a moving truck, ensuring that the items remain balanced and secure during transit, and ultimately arrive safely at their destination. The game challenges players' spatial reasoning and planning abilities.
+1. **물건 모양 관찰:** 옮겨야 할 짐의 크기와 형태를 잘 살펴보고, 어떤 방식으로 포개고
+   끼워 넣을지 미리 상상해 보세요.
+2. **적재 순서 계획:** 바닥에는 크고 단단한 물건을 먼저 깔아 받침으로 쓰고, 작은 짐이나
+   깨지기 쉬운 짐은 위쪽이나 빈틈에 배치하는 것이 좋습니다.
+3. **무게 중심 유지:** 적재할 때 트럭의 좌우 무게가 한쪽으로 치우치지 않도록 신경 써야
+   이동 중 트럭이 기울어지거나 전복되는 일을 막을 수 있습니다.
+4. **물리 특성 활용:** 일부 짐은 굴러가거나 미끄러질 수 있으니, 이를 미리 예상해 받침을
+   만들어 주거나, 일부러 굴려서 빈틈을 채우는 등 물리 특성을 역이용해 보세요.
+5. **반복 시도:** 어떤 스테이지는 여러 번의 시도를 통해 가장 안정적인 적재 방법을
+   찾아야 할 수도 있습니다. 실패를 통해 어느 배치가 위험한지 학습하세요.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Observe Item Shapes**: Carefully examine the shape and size of each item to be moved, envisioning how they can be best stacked and combined.
-2.  **[KO]** **Plan Loading Order**: Prioritize loading large, regularly shaped items as bottom supports, placing smaller or fragile items on top or in gaps.
-3.  **[KO]** **Maintain Balance**: During loading, pay attention to the truck's center of gravity, trying to distribute items evenly to prevent the truck from tipping or overturning.
-4.  **[KO]** **Utilize Physics**: Sometimes items may slide or roll due to physics; you need to cleverly utilize or secure them beforehand.
-5.  **[KO]** **Repeated Attempts**: Some levels may require multiple attempts to find the most perfect loading solution.
+* **짐 집기:** 클릭하여 짐을 선택합니다.
+* **짐 놓기:** 마우스로 드래그해 트럭 안의 적당한 위치로 옮긴 뒤 버튼을 떼면 내려놓을
+  수 있습니다.
+* **회전:** 일부 버전에서는 마우스 휠이나 지정 키로 짐을 회전시켜 더 촘촘하게
+  배치할 수 있습니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Pick Up Items**: Click on an item to pick it up.
-*   **[KO]** **Place Items**: Drag the item to a suitable position inside the truck, then release the mouse to place it down.
-*   **[KO]** **Rotate Items**: Some game versions might offer a function to rotate items for better fit (usually via mouse scroll wheel or specific keys).
+1. **Q: 게임의 목표는 무엇인가요?**  
+   **A:** 모든 짐을 트럭에 싣고, 이동 중에도 균형을 유지해 목적지까지 떨어뜨리지 않고
+   운반하는 것이 목표입니다.
 
-### Frequently Asked Questions
+2. **Q: 이동 중에 짐이 떨어지면 어떻게 되나요?**  
+   **A:** 운반 중 짐이 트럭 밖으로 떨어지면 보통 스테이지 실패로 처리되며, 다시 시도해야
+   합니다.
 
-1.  **[KO]** **Q: What is the objective of the game?**
-**A**: The objective is to successfully load all items into the truck and maintain its balance during transit, ultimately delivering them safely to the destination.
-2.  **[KO]** **Q: What happens if items fall out of the truck?**
-**A**: If items fall off the truck during transit, it usually results in task failure, requiring you to retry the level.
-3.  **[KO]** **Q: Is there a time limit in the game?**
-**A**: Some levels might have a time limit, requiring players to complete loading and transit within a specified time.
-4.  **[KO]** **Q: How can I improve my loading skills?**
-**A**: Practice spatial planning and item stacking, observe successful examples, and try different loading strategies.
+3. **Q: 시간 제한이 있나요?**  
+   **A:** 일부 스테이지에는 적재 및 운반을 제한 시간 내에 끝내야 하는 조건이 붙어 있을
+   수 있습니다.
+
+4. **Q: 적재 실력을 높이려면 어떻게 해야 하나요?**  
+   **A:** 여러 배치 방법을 연습해 보며, 다른 성공 예시를 관찰하고, 기울기와 무게 중심을
+   의식하는 습관을 들이면 점점 더 안정적으로 쌓을 수 있습니다.

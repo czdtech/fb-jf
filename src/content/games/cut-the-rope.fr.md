@@ -1,42 +1,76 @@
 ---
 locale: fr
 urlstr: cut-the-rope
-title: '[FR] Cut The Rope'
-description: >-
-  [FR] Cut The Rope is a physics puzzle: cut ropes, collect stars, and feed Om
-  Nom the candy without losing it.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
+title: Cut the Rope
+description: "Cut the Rope est un puzzle physique culte\_: coupe les cordes dans le bon ordre pour faire tomber le bonbon dans la bouche d’Om Nom."
+iframeSrc: 'https://6godz55q900to.h5games.usercontent.goog/v/0llluc2ekfil0/'
 thumbnail: /new-images/cut-the-rope.jpg
 tags:
   - puzzle
-  - physics
-score: 3.9/5  (1483 votes)
+  - casual
+score: 4.6/5  (2400 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
+
+Cut the Rope te met face à de petits niveaux où un bonbon est suspendu par des
+cordes, entouré d’étoiles et de gadgets (bulles, souffleries, ventouses,
+rebonds, etc.). Ton objectif est de donner le bonbon à Om Nom, la petite
+créature verte, en coupant les cordes dans le bon ordre et au bon moment.
+
+En route, tu peux aussi essayer de ramasser les trois étoiles de chaque niveau
+pour un score parfait.
+
+### Guide de jeu
+
+1.  **Analyse le niveau avant de couper**  
+    Avant de faire le premier geste, observe les cordes, obstacles et étoiles
+    pour visualiser le chemin idéal du bonbon.
+2.  **Coupe dans le bon ordre**  
+    Certaines cordes doivent être coupées en premier pour donner l’élan
+    nécessaire, d’autres servent à contrôler la trajectoire plus tard.
+3.  **Profite de la physique**  
+    Balance le bonbon comme un pendule, utilise le vent ou les bulles pour le
+    déplacer vers les étoiles avant de l’envoyer vers Om Nom.
+4.  **N’aie pas peur de recommencer**  
+    Les niveaux sont courts : teste des solutions, et recommence aussitôt si
+    quelque chose rate.
+5.  **Reviens pour les 3 étoiles**  
+    Tu peux d’abord viser la simple réussite du niveau, puis revenir plus tard
+    pour optimiser le trajet et récupérer toutes les étoiles.
+
+### Commandes
+
+- **Couper une corde** : fais glisser ton doigt ou la souris sur la corde pour
+  la trancher.  
+- **Interagir avec les gadgets** : touche/clique sur bulles, ventilateurs ou
+  autres éléments selon les indications du niveau.
+
+### Foire aux questions (FAQ)
 
 
-### Overview
-Cut the Rope is a physics‑based puzzle game where you slice ropes to deliver a candy to Om Nom while collecting up to three stars per level. Later stages introduce mechanics like bubbles, air cushions, and hazards that change the candy’s trajectory and timing. 
+- Q: Do I need all stars to progress?
 
-### How to Play
-- Swipe/click to cut ropes in the right order so the candy swings toward Om Nom.
-- Collect stars on the way; time cuts to avoid spikes and other traps.
-- Use interactive elements (e.g., bubbles that float the candy, air puffs that steer) when available.
 
-### Controls
-- Mouse/touch swipes to cut; buttons for level restart/next; some hosts add hint systems.
-
-### Tips and Strategies
-- Visualize the candy’s swing arc before cutting; chain two quick cuts to redirect motion.
-- Pop bubbles near target height so Om Nom can grab the candy.
 - Grab at least two stars first; optimize for three once you understand the timing.
 
-### FAQ
-- Q: Do I need all stars to progress?
-A: You typically need a certain number of stars to unlock new level packs, not every single one.   
+- Pop bubbles near target height so Om Nom can grab the candy.
+### Foire aux questions (FAQ)
+
+- Grab at least two stars first; optimize for three once you understand the timing.
+
+- Pop bubbles near target height so Om Nom can grab the candy.
+
+- Visualize the candy’s swing arc before cutting; chain two quick cuts to redirect motion.
+**Q : Dois‑je forcément prendre les trois étoiles ?**  
+
 - Q: Are there power‑ups?
-A: Some versions include optional helpers/hints; availability varies by host. 
+R : Non, une seule réussite du niveau suffit pour progresser, mais les étoiles
+servent souvent à débloquer de nouveaux chapitres.
+
+**Q : Les niveaux deviennent‑ils très difficiles ?**  
+R : Oui, certains demandent un timing précis et une bonne compréhension de la
+physique, mais tu peux toujours les rejouer autant que tu veux.

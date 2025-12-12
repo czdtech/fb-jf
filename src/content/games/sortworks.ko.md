@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: sortworks
-title: '[KO] SortWorks'
+title: 'SortWorks 소트웍스'
 description: >-
-  [KO] SortWorks is a clean sort‑and‑stack puzzler — organize items by rules,
-  plan buffers, and avoid deadlocks under rising pressure.
+  SortWorks는 다양한 물건을 규칙에 맞게 분류·적재하는 정렬 퍼즐 게임입니다.
+  컨베이어 벨트에서 흘러오는 아이템을 올바른 상자에 보내고, 한정된 버퍼 칸을
+  계획적으로 사용해 막힘 없이 처리하는 것이 핵심입니다.
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/sortworks.png
 tags:
@@ -17,34 +18,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+SortWorks는 색깔, 모양, 종류 등 여러 기준에 따라 물건을 분류하는 작업을 퍼즐로
+풀어낸 게임입니다. 아이템이 컨베이어 벨트를 타고 흘러오면, 플레이어는 이를 규칙에
+맞는 상자나 구역으로 빠르게 보내야 합니다. 중간에 임시로 보관할 수 있는 버퍼 칸을
+잘 활용해 벨트가 막히지 않게 관리하는 것이 중요하며, 후반 스테이지로 갈수록
+속도가 빨라지고 분류 기준도 복잡해집니다.
 
-SortWorks blends visual sorting with bin constraints (color/shape/type). Items arrive on belts; you must route them to correct bins, using buffer slots to prevent jams. Late boards raise speed and add tricky categories.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **규칙의 우선순위 세우기:** 위험물/일반 물품처럼 치명적인 분류 규칙을 먼저
+    처리하고, 그다음 세부 카테고리로 나누는 습관을 들이세요.
+2.  **버퍼 관리:** 버퍼 칸은 항상 최소 한 칸 이상 비워 두는 것을 목표로 합니다.
+    모든 버퍼를 채우면 작은 실수 하나로도 벨트가 바로 막혀 버릴 수 있습니다.
+3.  **쉬운 아이템 묶음 처리:** 구분이 쉬운 아이템은 연속으로 빠르게 처리해 콤보와
+    점수 배수를 유지하세요. 이렇게 확보한 여유로 어려운 아이템을 천천히 다루면
+    안전합니다.
+4.  **실수 비용 이해하기:** 확실하지 않은 아이템을 억지로 넣기보다는 한 번
+    넘기는 편이 나을 때가 많습니다. 오분류 페널티가 더 큰 경우가 많기 때문입니다.
+5.  **시야 확보:** 바로 눈앞의 물건만 보지 말고, 벨트 위 몇 칸 앞까지 함께
+    훑어보며 미리 동선을 계획하세요.
 
-1.  **[KO]** Rule hierarchy: Apply critical rules first (e.g., hazard vs non‑hazard) then fine categories.
-2.  **[KO]** Buffer discipline: Keep at least one buffer slot free at all times.
-3.  **[KO]** Batch easy items: Chain streaks on simple categories to maintain multipliers.
-4.  **[KO]** Error cost: Skip uncertain items rather than mis‑sort.
-5.  **[KO]** Eye flow: Scan ahead of the belt; don’t tunnel on the nearest item.
+### 조작 방법 안내
 
-### Controls Guide
+- 마우스나 터치로 아이템을 드래그하거나 탭하여 해당 상자나 구역으로 옮깁니다.
+- 일시정지, 재시작 등의 버튼은 화면 UI에서 사용할 수 있습니다.
+- 일부 스테이지에서는 힌트 기능이 활성화되어, 정답 위치를 잠시 표시해 주기도
+  합니다.
 
-- Drag/tap items to bins; pause/retry via UI; hints may highlight targets.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 벨트가 자꾸 막혀요.
 
-- Q: I jam belts.
+  A: 버퍼 칸을 모두 쓰고 있기 때문일 수 있습니다. 구분이 쉬운 아이템 위주로
+  한 번에 정리해 버퍼를 비운 뒤, 난이도 높은 물건을 천천히 처리해 보세요.
 
-A: You’re consuming buffers; clear an easy batch to reopen space before tackling hard items.
+- Q: 비슷한 아이콘들이 헷갈립니다.
 
-- Q: Similar icons confuse me.
+  A: 각 카테고리마다 특징적인 모양, 테두리, 색깔 등 2~3가지 기준을 정해두고
+  그 기준부터 확인하는 습관을 들이면 실수가 줄어듭니다.
 
-A: Learn 2–3 anchor features per category (shape/edge/color) and sort by those first.
+- Q: 콤보(연속 처리)가 중요한가요?
 
-- Q: Do streaks matter?
-
-A: Yes — streaks boost scores; feed them with easy items.
-
+  A: 네, 콤보를 유지하면 점수 배수가 올라 더 많은 점수를 획득할 수 있습니다.
+  비교적 쉬운 아이템으로 콤보를 이어 가며, 사이사이에 어려운 아이템을 섞어
+  처리하는 것이 좋습니다.

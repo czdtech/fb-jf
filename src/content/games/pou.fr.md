@@ -1,12 +1,12 @@
 ---
 locale: fr
 urlstr: pou
-title: '[FR] Pou Game'
+title: 'Pou Game'
 description: >-
-  [FR] Pou Game is a virtual pet simulation game where players adopt and care
-  for an alien pet named Pou. Players feed, clean, play with, and customize
-  their Pou, helping it grow and thrive while engaging in various mini-games and
-  activities.
+  Pou Game est un jeu de simulation d’animal virtuel dans lequel tu adoptes et
+  t’occupes d’un petit extraterrestre nommé Pou : nourris‑le, lave‑le, joue
+  avec lui et personnalise son apparence pour le voir grandir et s’épanouir à
+  travers de nombreux mini‑jeux et activités.
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/pou.jpg
@@ -20,34 +20,64 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Présentation du jeu
 
+Pou Game est un jeu de simulation d’animal virtuel où tu adoptes et éduques
+un petit extraterrestre nommé Pou. Tu dois le nourrir, le laver, jouer avec
+lui et personnaliser son apparence pour qu’il reste en bonne santé et de
+bonne humeur. De nombreux mini‑jeux et activités te permettent de gagner des
+pièces, d’acheter de nouveaux objets et décorations et de passer plus de
+temps avec ton Pou.
 
-### Game Introduction
+### Stratégies de jeu
 
-"Pou Game" is a virtual pet simulation game where players adopt and care for an alien pet named Pou. In the game, you need to feed Pou, clean it, play with it, and customize its appearance, helping it grow and stay healthy. The game also includes various mini-games and activities, allowing players to interact more with Pou and earn coins to buy items and decorations.
+1.  **Satisfaire les besoins de base :** nourris Pou, lave‑le et couche‑le
+    régulièrement afin de maintenir ses jauges de faim, d’hygiène et
+    d’énergie.
+2.  **Jouer et le faire bouger :** les mini‑jeux augmentent son niveau de
+    bonheur et te rapportent des pièces. Un Pou actif reste en meilleure
+    santé.
+3.  **Personnaliser ton Pou :** utilise tes pièces pour acheter des
+    tenues, accessoires, décorations de chambre et nourritures spéciales
+    afin de rendre ton Pou unique.
+4.  **Explorer et interagir :** débloque de nouvelles pièces et
+    environnements pour découvrir plus d’activités et renforcer le lien
+    avec ton Pou.
+5.  **Gagner des pièces :** joue aux mini‑jeux et accomplis les tâches
+    quotidiennes, c’est la clé pour pouvoir acheter davantage d’objets et
+    d’options de personnalisation.
 
-### Gameplay Strategy
+### Comment jouer
 
-1.  **[FR]** **Fulfill Basic Needs**: Timely feed, clean, and put Pou to sleep to maintain its hunger, hygiene, and energy levels.
-2.  **[FR]** **Play and Exercise**: Playing mini-games with Pou increases its happiness and earns coins. Regular exercise also helps maintain its health.
-3.  **[FR]** **Personalize Customization**: Use coins to buy various outfits, accessories, room decorations, and food to make your Pou unique.
-4.  **[FR]** **Explore and Interact**: Unlock and explore different areas to interact more with Pou and discover hidden fun.
-5.  **[FR]** **Earn Coins**: Earn coins by playing mini-games and completing daily tasks, which is key to purchasing items.
+*   **Icônes à l’écran :** les icônes en bas représentent l’alimentation,
+    le bain, le jeu, le sommeil, etc. Appuie dessus pour ouvrir l’interface
+    correspondante.
+*   **Glisser les objets :** dans les écrans de repas ou de toilette,
+    fais glisser la nourriture ou le savon sur Pou pour interagir avec
+    lui.
+*   **Mini‑jeux :** appuie sur l’icône de mini‑jeu pour ouvrir la liste,
+    choisis‑en un et lance‑toi pour gagner des pièces.
+*   **Personnalisation :** appuie sur l’icône de garde‑robe ou de chambre
+    pour accéder aux options de personnalisation et appliquer de nouvelles
+    décorations.
 
-### How to Play
+### Foire aux questions
 
-*   **[FR]** **Tap Icons**: Multiple icons at the bottom of the screen represent functions like feeding, cleaning, playing, and sleeping. Tap to enter the corresponding interface.
-*   **[FR]** **Drag Items**: In the feeding or cleaning interface, drag food or soap onto Pou to perform the action.
-*   **[FR]** **Mini-games**: Tap the mini-game icon to enter the game list, select and start playing.
-*   **[FR]** **Customize**: Tap the wardrobe or room icon to enter the customization interface, select and apply decorations.
+1.  **Q : Que faire si Pou tombe malade ?**  
+    R : Appuie sur l’icône de l’infirmerie, achète le médicament adapté
+    puis donne‑le à Pou. Veille aussi à ce qu’il se repose suffisamment.
 
-### Frequently Asked Questions
+2.  **Q : Comment faire grandir Pou plus vite ?**  
+    R : Nourris‑le, joue avec lui et prends‑en soin régulièrement. Les
+    mini‑jeux et les missions terminées accélèrent sa progression et ses
+    niveaux.
 
-1.  **[FR]** **Q: What should I do if Pou gets sick?**
-**A**: If Pou gets sick, you need to tap the medical room icon and buy the appropriate medicine to treat it. Ensuring Pou gets enough rest is also important.
-2.  **[FR]** **Q: How can I make Pou grow faster?**
-**A**: Pou will gradually grow and level up through continuous feeding, playing, and caring. Completing mini-games and tasks can also accelerate growth.
-3.  **[FR]** **Q: Do coins have any other uses besides buying items?**
-**A**: Coins are primarily used to purchase food, outfits, decorations, and medicine. In some versions, coins can also be used to unlock new mini-games or features.
-4.  **[FR]** **Q: Does the game require an internet connection?**
-**A**: The core gameplay of most Pou games can be played offline, but purchasing certain items, participating in online leaderboards, or updating the game may require an internet connection.
+3.  **Q : Les pièces servent‑elles à autre chose qu’acheter des objets ?**  
+    R : Les pièces servent surtout à acheter nourriture, vêtements,
+    décorations et médicaments. Dans certaines versions, elles permettent
+    aussi de débloquer de nouveaux mini‑jeux ou fonctionnalités.
+
+4.  **Q : Le jeu nécessite‑t‑il une connexion Internet ?**  
+    R : La plupart des actions de base peuvent se jouer hors ligne, mais
+    certains achats, classements en ligne ou mises à jour peuvent exiger
+    une connexion.

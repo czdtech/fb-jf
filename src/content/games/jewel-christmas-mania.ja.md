@@ -1,83 +1,39 @@
 ---
+title: "Jewel Christmas Mania"
+description: "Jewel Christmas Maniaでホリデー気分に浸りましょう！このお祝いのマッチ3パズルゲームできらめく宝石をマッチさせ、挑戦的なレベルを完了しましょう。"
+iframeSrc: "https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/"
+thumbnail: "/new-images/jewel-christmas-mania.png"
+urlstr: "jewel-christmas-mania"
+score: "4.7/5  (2500 votes)"
+tags: ["puzzle", "casual", "flash"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: jewel-christmas-mania
-title: '[JA TRANSLATION NEEDED] Jewel Christmas Mania'
-description: >-
-  [JA TRANSLATION NEEDED] Get into the holiday spirit with Jewel Christmas
-  Mania! Match sparkling jewels in this festive match-3 puzzle game and complete
-  challenging levels.
-iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
-thumbnail: /new-images/jewel-christmas-mania.png
-tags:
-  - puzzle
-  - casual
-  - flash
-score: 4.7/5  (2500 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Jewel Christmas Maniaは、ホリデーシーズンの喜びをスクリーンにもたらす、まばゆいマッチ3パズルゲームです。お祝いの宝石を交換して3つ以上をマッチさせ、ボードからクリアし、ポイントを獲得し、様々なレベル目標を完了します。きらめく宝石、挑戦的な障害物、強力なブースターでいっぱいの何百ものレベルで、このゲームは無限の脳トレーニングの楽しさを提供します。美しいグラフィックと陽気な音楽で、魅惑的なクリスマスの雰囲気に浸ってください。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Jewel Christmas Mania is a dazzling match-3 puzzle game that brings the joy of the holiday season to your screen. Swap and match three or more festive jewels to clear them from the board, earn points, and complete various level objectives. With hundreds of levels filled with sparkling gems, challenging obstacles, and powerful boosters, this game offers endless hours of brain-teasing fun. Immerse yourself in the enchanting Christmas atmosphere with beautiful graphics and cheerful music.
+1.  **特殊宝石の組み合わせを探す:** 一列に3つ以上の宝石をマッチさせるか、特定の形（LやTなど）でマッチさせると、強力な特殊宝石が作られます。これらは列全体、行全体をクリアしたり、爆発して大きなエリアをクリアしたりできます。
+2.  **レベル目標を優先する:** 常に現在のレベルの目標に目を配りましょう。時にはスコアに到達すること、時には特定のブロックをクリアすること、または特定のアイテムを集めることです。これらの目標を達成することにあなたの動きを集中させましょう。
+3.  **特殊宝石を組み合わせる:** ボードの大きな部分をクリアし、難しい障害物を克服する最も効果的な方法は、2つの特殊宝石を組み合わせることです。例えば、2つのライン消去宝石を組み合わせると、ボードの十字セクションをクリアできます。
+4.  **下から作業する:** ゲームボードの下部でマッチを作ると、上から多くの宝石が落ち、新しいマッチやカスケード（連鎖）が自動的に作成される可能性があります。これは非常に効率的な戦略になります。
+5.  **先を計画する:** 最初に見えたマッチをただ作るのではなく、ボード全体を見て、より大きな組み合わせをセットアップし、目標をより効率的に達成するように動きを計画しましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Look for Special Gem Combinations:** Matching more than three jewels in a row or in specific shapes (like L or T) will create powerful special gems. These can clear entire rows, columns, or explode to clear a large area.
-[JA TRANSLATION NEEDED] 2.  **Prioritize Level Objectives:** Always keep an eye on your current level's objective. Sometimes it's about reaching a score, other times it's about clearing specific blocks or collecting certain items. Focus your moves on achieving these goals.
-[JA TRANSLATION NEEDED] 3.  **Combine Special Gems:** The most effective way to clear large parts of the board and overcome difficult obstacles is by combining two special gems. For example, combining two line-clearing gems can clear a cross-section of the board.
-[JA TRANSLATION NEEDED] 4.  **Work from the Bottom:** Making matches at the bottom of the game board can cause more gems to fall from above, potentially creating new matches and cascades automatically. This can be a very efficient strategy.
-[JA TRANSLATION NEEDED] 5.  **Plan Ahead:** Don't just make the first match you see. Look at the entire board and plan your moves to set up bigger combinations and achieve your objectives more efficiently.
+*   **宝石を交換:** マウスを使用して宝石をクリックし、隣接する位置にドラッグして別の宝石と交換します。このアクションは、3つ以上の同じ宝石のマッチが生じる場合にのみ有効です。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Swap Jewels:** Use your mouse to click and drag a jewel to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical jewels.
-    - **A:** A match-3 game is a puzzle game where players swap adjacent game pieces on a grid to form a line of three or more identical pieces. When a match is made, the pieces disappear, and new ones fall into place.（日本語訳が必要）
-    - **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.（日本語訳が必要）
-    - **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.（日本語訳が必要）
-    - **A:** A match-3 game is a puzzle game where players swap adjacent game pieces on a grid to form a line of three or more identical pieces. When a match is made, the pieces disappear, and new ones fall into place.（日本語訳が必要）
-    - **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.（日本語訳が必要）
-    - **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.（日本語訳が必要）
+*   **Q: マッチ3ゲームとは何ですか？**
+    *   **A:** マッチ3ゲームは、プレイヤーがグリッド上の隣接するゲームピースを交換して、3つ以上の同じピースのラインを形成するパズルゲームです。マッチが作られると、ピースは消え、新しいものが落ちてきます。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ブースターを使用するには？**
+    *   **A:** ブースターは、難しいレベルをクリアするのに役立つ特別なアイテムです。通常、それらをクリックすることで発動されます。レベルを完了することや毎日の報酬を通じて獲得できます。
 
-*   **Q: What is a match-3 game?**
-[JA TRANSLATION NEEDED]     *   **A:** A match-3 game is a puzzle game where players swap adjacent game pieces on a grid to form a line of three or more identical pieces. When a match is made, the pieces disappear, and new ones fall into place.
-
-*   **Q: How do I use boosters?**
-[JA TRANSLATION NEEDED]     *   **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.
-
-*   **Q: What happens if I run out of moves?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.
-- **Q: How do I use boosters?**
-    - **A:** A match-3 game is a puzzle game where players swap adjacent game pieces on a grid to form a line of three or more identical pieces. When a match is made, the pieces disappear, and new ones fall into place.
-- **Q: What is a match-3 game?**
-### よくある質問（FAQ）
-- **Swap Jewels:** Use your mouse to click and drag a jewel to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical jewels.
-### コントロールガイド
-- **Plan Ahead:** Don't just make the first match you see. Look at the entire board and plan your moves to set up bigger combinations and achieve your objectives more efficiently.
-
-
-
-
-
-    - **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.
-- **Q: How do I use boosters?**
-    - **A:** A match-3 game is a puzzle game where players swap adjacent game pieces on a grid to form a line of three or more identical pieces. When a match is made, the pieces disappear, and new ones fall into place.
-[JA TRANSLATION NEEDED]     *   **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.
-
+*   **Q: 手数を使い果たすとどうなりますか？**
+    *   **A:** レベル目標を完了する前に手数を使い果たすと、レベルに失敗し、ライフを失う可能性があります。その後、レベルを再挑戦することを選択できます。

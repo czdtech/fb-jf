@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: color-pin
-title: '[ZH TRANSLATION NEEDED] Color Pin'
+title: "Color Pin 旋转彩钉"
 description: >-
-  [ZH TRANSLATION NEEDED] Color Pin is a precision pin‑dropper — stick pins into
-  a rotating core without collisions, matching colors under pressure.
+  《Color Pin 旋转彩钉》是一款考验时机与精确度的“插针”游戏。你需要将一根根细针精准
+  地射入旋转圆盘，既不能与已有细针相撞，在颜色模式下还要对准指定色块。
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/color-pin.png
 tags:
@@ -17,30 +17,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Color Pin asks you to fire pins into a spinning circle. Avoid hitting existing pins, and in color modes, land on matching segments. Rotation speed and direction shifts keep timing tight, rewarding rhythm and patience over spam.
+《Color Pin 旋转彩钉》要求你将细针一根根射入不断旋转的圆形核心。每一次出手，都必须
+避开已经插好的细针，在颜色模式下还要确保针尖落在与自身颜色相匹配的扇形区域。随着
+关卡推进，圆盘的转速、旋转方向和节奏都会频繁变化，使得出手时机愈发紧张，考验你的
+节奏感和耐心，而不是盲目“连点”。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Identify rotation cycles and shoot at a consistent phase.
-2.  [ZH TRANSLATION NEEDED] Prioritize wide gaps first; leave tight gaps for slow spins.
-3.  [ZH TRANSLATION NEEDED] Don’t chase missed windows — wait for the next clean pass.
-4.  [ZH TRANSLATION NEEDED] In color modes, pre‑aim the correct segment and shoot only on alignment.
-5.  [ZH TRANSLATION NEEDED] Recover rhythm after misses before continuing.
+
+1.  **先观察一整圈，再确定出手节奏：** 刚进入关卡时不要急着连点，先观察圆盘完整旋转
+    一圈，感受其速度与节奏，然后在每一圈中选择固定的“出手时刻”，持续在那个节拍上射
+    针，会比随机乱点稳定得多。
+2.  **宽缝先插，窄缝留给慢转：** 优先利用缝隙较大的区域插针，以免后期只剩下狭窄空档
+    ，难度陡增。如果发现转速开始变慢，可以再来处理那些稍微危险的窄缝。
+3.  **错过窗口不要硬追：** 如果你错过了原本计划好的出手机会，不要立刻在下一瞬间慌张
+    补射，宁可等待圆盘再转一圈后重新在熟悉的节拍出手。强行追窗口往往导致与刚插好的
+    针撞车。
+4.  **颜色模式下预瞄目标扇形：** 颜色关卡中，需要让针尖落在与自身颜色对应的扇形上。
+    先在圆盘上找到目标色块的位置，预判它旋转到你理想“出手点”所需的时间，只在颜色与
+    出手节奏同时对上时按下射出。
+5.  **出错后先重建节奏：** 如果刚刚连续几次险些撞针或节奏完全乱掉，不妨在下一两圈刻
+    意“空过”，只观察圆盘并重新在心里数拍，找回稳定节奏之后再继续插针。
 
 ### Controls Guide
 
-- Tap/Click to fire a pin; some variants allow holding to adjust.
-- Pause/Restart available via UI.
+- 点击/轻触屏幕即可向当前方向发射一根细针；部分版本支持按住蓄力或调整，具体以游戏内
+  提示为准。
+- 屏幕上的暂停与重开按钮可用于中途休息或快速重来。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep colliding with pins — why?
-  
-[ZH TRANSLATION NEEDED]   A: You’re desynced. Watch a full rotation, then resume at a consistent beat.
+- **Q: 我总是和已有的针相撞，问题在哪？**  
+  **A：** 通常是节奏已经“错拍”了。建议先放慢节奏，完整看一两圈的旋转，重新选定一个
+  固定的出手时机点，然后按照这个节拍稳定地射针，而不是被视觉刺激带着乱点。
 
-- Q: Does speed change mid‑level?
-  
-[ZH TRANSLATION NEEDED]   A: Often yes; be ready for step‑ups and direction flips.
+- **Q: 转速会在关卡中途变化吗？**  
+  **A：** 是的，很多关卡会在中途突然加速、减速，甚至反向旋转。要随时留意速度变化，
+  发现节奏对不上时及时调整自己的数拍方式。
 
-- Q: Any trick for color segments?
-  
-[ZH TRANSLATION NEEDED]   A: Shoot only when your target color aligns; forcing shots creates avoidable crashes.
+- **Q: 颜色玩法有什么小技巧？**  
+  **A：** 不要为了赶时间硬插不对颜色的扇形，这几乎必死。先锁定目标颜色所在区块，只
+  在它与自己预设的出手节奏重合时才出手，这样既能保证颜色正确，又能维持整体节奏。

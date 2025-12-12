@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: doodle-jump
-title: '[DE] Doodle Jump'
+title: "Doodle Jump"
 description: >-
-  [DE] Doodle Jump is a vertical platformer: bounce between platforms, avoid
-  hazards, and climb as high as possible.
+  Doodle Jump ist ein vertikaler Endless-Platformer: Springe von Plattform zu
+  Plattform, weiche Gefahren aus und klettere so hoch wie möglich.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/doodle-jump.jpg
 tags:
@@ -14,31 +14,49 @@ score: 4.2/5  (915 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Doodle Jump ist ein endloser, vertikaler Platformer. Deine Figur hüpft
+automatisch nach oben; du musst sie nur sicher auf Plattformen landen lassen.
+Unterwegs weichst du Monstern, zerbrechlichen Brettern und anderen Gefahren aus
+und nutzt Power-ups wie Federn, Propeller-Caps oder Jetpacks, um große
+Sprünge hinzulegen und noch höher zu kommen.
 
+### So spielst du
 
+- Halte den Doodler ungefähr in der Bildschirmmitte und lande nacheinander auf
+  sicheren Plattformen – fällst du unten aus dem Bild, ist der Run vorbei.
+- Gegner kannst du je nach Version ausweichen oder per Sprung auf den Kopf bzw.
+  mit Projektilen ausschalten.
+- Bewege dich vorsichtig über bewegliche oder zerbrechende Plattformen und
+  plane immer schon den nächsten und übernächsten Sprung mit ein.
 
-### Overview
-Endless vertical platformer: bounce upward, land on safe platforms, avoid monsters and broken boards, and use power‑ups (springs, propeller caps, jetpacks) to climb higher.
+### Steuerung
 
-### How to Play
-- Keep the doodler centered and chain safe landings; falling off‑screen ends the run.
-- Eliminate or avoid enemies; some versions allow tapping/shooting upward.
-- Use moving or breakable platforms carefully; plan two steps ahead.
+- Links/Rechts (oder Kippen auf Mobilgeräten): Bewegen; gesprungen wird
+  automatisch beim Kontakt mit einer Plattform; Schuss/Aktion, falls
+  vorhanden, über eine zusätzliche Taste oder einen Tap.
 
-### Controls
-- Left/Right (or tilt on mobile): move; automatic jumping on contact; action/shoot where available.
+### Tipps
 
-### Tips
-- Favor stable platforms when the screen scrolls quickly.
-- Save high‑impact power‑ups for sparse sections.
-- Wraparound edges to escape traps when supported.
+- Bevorzuge stabile Plattformen, besonders wenn der Bildschirm schneller
+  scrollt.
+- Hebe starke Power-ups für Abschnitte mit wenigen Plattformen auf – dort
+  machen Jetpacks und Co. den größten Unterschied.
+- Nutze bei unterstützten Versionen die Bildschirmränder: Oft kannst du links
+  herausfliegen und rechts wieder auftauchen (Wraparound), um Fallen zu
+  entkommen.
 
 ### FAQ
-- Q: Are levels finite?
-A: No—score rises until you miss a platform or hit a hazard.
-- Q: Do platforms differ?
-A: Yes—static, moving, disappearing/breakable, and trampolines/springs.
-- Q: Are there bosses?
-A: Usually no; it’s a score chase.
 
+- **F: Gibt es feste Level?**  
+  **A:** Nein, Doodle Jump ist als Endlosspiel gedacht – dein Score steigt, bis
+  du eine Plattform verfehlst oder an einem Gegner scheiterst.
+
+- **F: Unterscheiden sich die Plattformen?**  
+  **A:** Ja, es gibt statische, bewegliche, verschwindende/zerbrechliche
+  Plattformen sowie spezielle Federn oder Trampoline für Extrasprünge.
+
+- **F: Gibt es Bosskämpfe?**  
+  **A:** In der Regel nicht. Der Fokus liegt auf der Highscore-Jagd und immer
+  schwierigeren Sprungkombinationen.

@@ -1,65 +1,48 @@
 ---
-locale: ja
-urlstr: words-challenge
-title: '[JA TRANSLATION NEEDED] Words Challenge'
-description: >-
-  [JA TRANSLATION NEEDED] Words Challenge is a mixed word‑skills set — anagrams,
-  crosswords, and quick trivia that reward breadth and deduction.
-iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
+title: Words Challenge
+description: Words Challengeは、単語チャレンジゲームです。様々な単語パズルに挑戦しましょう。
+iframeSrc: 'https://ubg98.github.io/WordsChallenge/'
 thumbnail: /new-images/words-challenge.jpg
+urlstr: words-challenge
+score: 4.3/5  (2345 votes)
 tags:
   - puzzle
-  - thinky
-score: 4.1/5  (1982 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - word
+  - challenge
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Words Challengeは、様々な単語パズルとチャレンジを提供するゲームです。語彙力と問題解決能力をテストしましょう。
 
-[JA TRANSLATION NEEDED] Words Challenge mixes anagram solving, mini crosswords, and quick prompts. Success favors pattern recognition (prefix/suffix), letter frequency intuition, and calm elimination under light timers.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Morphology: Mine prefixes (RE/UN) and suffixes (‑ING/‑ED/‑ER) first.
-[JA TRANSLATION NEEDED] 2.  Frequency: Lean on ETAOIN SHRDLU letter order for guesses.
-[JA TRANSLATION NEEDED] 3.  Cross logic: In crosswords, fill easy crossings to unlock tough slots.
-[JA TRANSLATION NEEDED] 4.  Don’t tunnel: Switch modes when stuck; momentum matters.
-[JA TRANSLATION NEEDED] 5.  Streaks: Maintain steady pace to keep multipliers.
-
-### Controls Guide
-
-- Drag letters for anagrams; type for crosswords; click options for prompts.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I stall on anagrams.
-  
-[JA TRANSLATION NEEDED]   A: Reorder by vowel/consonant blocks and try common patterns.
-
-- Q: Are proper nouns allowed?
-  
+ - **チャレンジを選ぶ：** 様々な単語パズルから選択します
+ - **単語を作る：** 各チャレンジの目標を達成します
+ - **スコア獲得：** パフォーマンスに基づいてスコアを獲得します
+ - **進行：** より難しいチャレンジをアンロックします
 
 
-
-
-
-
-- Q: I stall on anagrams.
-### よくある質問（FAQ）
-- Drag letters for anagrams; type for crosswords; click options for prompts.
-### コントロールガイド
 - Streaks: Maintain steady pace to keep multipliers.
+### 操作ガイド
+
+ - **マウス/キーボード：** チャレンジのタイプに応じて操作
 
 ### よくある質問（FAQ）
-- Don’t tunnel: Switch modes when stuck; momentum matters.
-[JA TRANSLATION NEEDED]   A: Usually not; read dictionary rules.
 
 
+- Q: I stall on anagrams.
+**ゲームの目標は何ですか？**
 
 
-A: Usually not; read dictionary rules.
 - Q: Are proper nouns allowed?
+様々な単語パズルチャレンジを完了することです。
 
+**どんなチャレンジがありますか？**
 
-A: Usually not; read dictionary rules.
+単語検索、アナグラム、単語形成など、様々なパズルがあります。
+
+**難易度は上がりますか？**
+
+はい、より難しいチャレンジが段階的にアンロックされます。

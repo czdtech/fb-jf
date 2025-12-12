@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: google-minesweeper
-title: '[KO] Google Minesweeper'
+title: "Google Minesweeper 구글 지뢰찾기"
 description: >-
-  [KO] Classic logic puzzle: clear the grid without triggering mines by deducing
-  safe cells from numbered clues and flags.
+  숫자 단서를 바탕으로 안전한 칸을 추리해 지뢰를 피하며 판을 전부 여는 고전
+  논리 퍼즐입니다. 깃발로 지뢰 위치를 표시하고, 한 번도 폭발시키지 않고
+  전체 격자를 클리어해 보세요.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/google-minesweeper.jpg
 tags:
@@ -18,27 +19,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Minesweeper reveals numbers showing how many mines touch a cell. Use these clues to mark mines with flags and open safe cells, aiming to clear the board without detonating. Difficulty scales grid size and mine count.
+### 게임 개요
 
-### How to Play
-- Left‑click opens a cell; right‑click toggles a flag; chord/open around a number when flags match counts (host dependent).
-- Use basic inferences (1‑1 pairs, 1‑2 patterns) to expand safely.
-- On large boards, isolate corners/edges to reduce branching.
+`Google Minesweeper`는 한 칸을 열었을 때 주변 8칸에 있는 지뢰 개수를 숫자로
+알려 주는 고전 지뢰찾기 게임입니다. 플레이어는 이 숫자 단서를 이용해 지뢰가
+있는 칸을 깃발로 표시하고, 안전한 칸만 열어 나가면서 한 번도 폭발시키지 않고
+판 전체를 여는 것이 목표입니다. 난이도에 따라 격자 크기와 지뢰 개수가 달라집니다.
 
-### Controls
-- Mouse/touch; optional chording and quick‑open shortcuts vary by host.
+### 플레이 방법
 
-### Tips
-- Keep a consistent marking convention to avoid misflags.
-- When forced to guess, choose tiles that reveal the most info if wrong.
-- Edges often constrain layouts—scan along borders for sure moves.
+- 왼쪽 클릭(또는 탭)으로 칸을 열고, 오른쪽 클릭(혹은 길게 누르기)으로 깃발을
+  꽂아 “여기는 지뢰”라고 표시합니다.
+- 숫자가 적힌 칸 주변에 꽂힌 깃발 수가 숫자와 같다면, 나머지 인접 칸은
+  안전한 칸이므로 한 번에 열 수 있는 “빠른 열기(코드)” 기능이 지원되기도
+  합니다.
+- 1‑1, 1‑2 패턴처럼 기본적인 조합 추리를 이용해, 위험을 최소화하면서
+  영역을 넓혀 나가세요. 큰 판에서는 모서리와 가장자리를 먼저 정리하면
+  분기가 줄어듭니다.
 
-### FAQ
-- Q: How do I avoid guessing in Minesweeper?
-A: Use pattern sets and parity checks; some positions remain 50/50.
-- Q: What does the number on a cell indicate?
-A: It equals the count of adjacent mines among the eight neighbors.
-- Q: Does difficulty only change board size?
-A: It changes both size and mine density.
+### 조작 방법
 
+- 마우스/터치로 칸을 열거나 깃발을 꽂습니다.
+- 일부 호스트에서는 숫자 칸을 더블클릭해 주변을 빠르게 여는 단축 조작을
+  지원합니다.
+
+### 플레이 팁
+
+- 자신만의 표시 규칙(확정 지뢰, 의심 지뢰 등)을 일관되게 사용하면 깃발
+  실수를 줄일 수 있습니다.
+- 어쩔 수 없이 추측해야 할 상황이라면, 틀렸을 때 가장 많은 정보를 줄 수 있는
+  칸을 선택하는 것이 좋습니다.
+- 가장자리와 모서리는 배치가 제한되어 있어 확정 패턴이 잘 나오니, 초반에는
+  테두리를 따라가며 확실한 수를 찾아 보세요.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 지뢰찾기에서 완전히 추측을 피할 수 있나요?  
+  A: 대부분은 패턴과 짝수/홀수(패리티) 검사를 통해 논리적으로 풀이 가능하지만,
+  일부 상황은 구조상 50:50 운에 의존해야 하는 경우도 있습니다.
+- Q: 칸 위의 숫자는 정확히 무엇을 의미하나요?  
+  A: 해당 칸을 기준으로 주변 8칸 안에 숨겨진 지뢰의 개수를 나타냅니다.
+- Q: 난이도는 무엇이 어떻게 달라지나요?  
+  A: 판의 크기뿐 아니라, 칸 수 대비 지뢰 비율(밀도)도 함께 올라가면서
+  난이도가 상승합니다.

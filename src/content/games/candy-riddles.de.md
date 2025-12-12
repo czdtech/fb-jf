@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: candy-riddles
-title: '[DE] Candy Riddles'
+title: "Candy Riddles"
 description: >-
-  [DE] Candy Riddles is a cheerful match‑3 — swap sweets, trigger combos, and
-  solve stage objectives with smart cascades.
+  Candy Riddles ist ein fröhliches Match-3-Spiel – tausche Süßigkeiten,
+  löse Kombos aus und erfülle Levelziele mit cleveren Kettenreaktionen.
 iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
 thumbnail: /new-images/candy-riddles.png
 tags:
@@ -16,37 +16,54 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Candy Riddles* ist ein farbenfroher Match-3-Puzzler, in dem du benachbarte
+Süßigkeiten tauschst, um Reihen aus drei oder mehr gleichen Leckereien zu
+bilden. Jede Kombination räumt Felder ab, lädt Power-ups auf und kann
+blockierte Zellen befreien oder Missionsobjekte einsammeln. Mit fortschreitenden
+Leveln kommen Blocker wie Zuckerguss oder Kisten, begrenzte Züge und spezielle
+Ziele dazu – du musst also vorausplanen und möglichst effiziente Kaskaden
+bauen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Candy Riddles is a colorful match‑3 puzzler where you swap adjacent candies to form lines of three or more. Matches clear tiles, charge power‑ups, and can free trapped cells or collect mission items. As stages progress, blockers (e.g., frosting, crates), limited moves, and special goals require planning and efficient cascades.
+1.  Von unten arbeiten: Starte deine Matches bevorzugt im unteren Bereich des
+    Brettes. So entstehen natürliche Kettenreaktionen, die weiter oben
+    kostenlos zusätzliche Felder leeren.
+2.  Ziele vor Punkte: Konzentriere dich zuerst auf die Levelziele – etwa
+    Blocker abbauen oder bestimmte Objekte sammeln – anstatt nur auf die
+    Punktzahl zu achten.
+3.  Power-ups kombinieren: Wenn du Linien-Clears mit Bomben oder Farb-Clears
+    kombinierst, kannst du in einem Zug riesige Bereiche abräumen.
+4.  Farben nicht isolieren: Vermeide es, einzelne Farben an den Rand zu drängen,
+    wo kaum noch Matches möglich sind. Halte das Spielfeld offen, damit du
+    auch später neue Kombinationen findest.
+5.  Züge voraus planen: In Leveln mit Zuglimit solltest du zwei bis drei Züge im
+    Voraus denken, damit du möglichst viel Fortschritt pro Zug erzielst.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Work from the bottom to generate natural cascades that clear more tiles for free.
-2.  **[DE]** Target objectives first (e.g., remove blockers, collect items) before chasing score.
-3.  **[DE]** Combine power‑ups: merging a line‑clear with a bomb or color clear often wipes large areas.
-4.  **[DE]** Avoid isolating colors near walls; keep the board open for future matches.
-5.  **[DE]** On limited‑move stages, map two to three moves ahead to conserve steps.
+- Tausche zwei benachbarte Süßigkeiten per Ziehen – nur Züge, die ein gültiges
+  Match erzeugen, werden ausgeführt.
+- Aktiviere Power-ups, indem du sie in ein Match einbaust oder – je nach Spiel –
+  direkt antippst.
+- Pause/Neustart über die Benutzeroberfläche.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Swap two neighboring candies by dragging; only valid matches are executed.
-- Activate power‑ups by matching or tapping them per rules.
-- Pause/Restart via UI.
+- Ich scheitere ständig an Zuglimit-Levels – was mache ich falsch?
+  
+  Vermutlich erzielst du Punkte, ohne die eigentlichen Levelziele
+  voranzubringen. Priorisiere Blocker und Zielobjekte und setze kombinierte
+  Power-ups ein, um möglichst viel mit einem einzigen Zug zu erledigen.
 
-### Frequently Asked Questions (FAQ)
+- Zählen diagonale Kombinationen?
+  
+  Normalerweise nicht – die meisten Match-3-Spiele erkennen nur horizontale und
+  vertikale Linien, sofern keine Spezialregeln etwas anderes sagen.
 
-- Q: I always fail move‑limit levels — what am I doing wrong?
-
-A: You may be scoring without advancing the objective. Prioritize blockers/targets and combine power‑ups to maximize value per move.
-
-- Q: Do diagonals count?
-
-A: Typically no — most match‑3s only count orthogonal lines unless a special rule says otherwise.
-
-- Q: Any tip for stubborn blockers?
-
-A: Detonate bombs next to them or chain line clears through the row/column to chip them down quickly.
-
+- Tipps gegen besonders hartnäckige Blocker?
+  
+  Zünde Bomben direkt daneben oder schicke Linien-Clears gezielt durch die
+  entsprechende Reihe oder Spalte, um sie schnell herunterzuschmelzen.

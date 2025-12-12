@@ -1,43 +1,36 @@
 ---
+title: "Five Nights at Freddy's Sister Location"
+description: "タスクベースのシフト制ホラー：部屋を移動し、メンテナンス作業を完了し、Funtimeアニマトロニクスを監視して、スクリプト化されたセットピースを生き残りましょう。"
+iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnafsl.html"
+thumbnail: "/new-images/five-nights-at-freddy-sl.jpg"
+urlstr: "five-nights-at-freddy-sl"
+score: "3.9/5  (678 votes)"
+tags: ["horror", "adventure"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: five-nights-at-freddy-sl
-title: '[JA TRANSLATION NEEDED] Five Nights at Freddy''s Sister Location'
-description: >-
-  [JA TRANSLATION NEEDED] Shift‑based horror with tasks: move between rooms,
-  complete maintenance jobs, monitor Funtime animatronics, and survive scripted
-  set‑pieces.
-iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
-thumbnail: /new-images/five-nights-at-freddy-sl.jpg
-tags:
-  - horror
-  - adventure
-score: 3.9/5  (678 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+毎晩の目標が設定されたストーリー主導の作品です。通気口を這って進み、システムを修理し、指示に従いながら、Funtimeアニマトロニクスを回避します。
 
+### 遊び方
+- 端末のプロンプト（指示）に従いますが、指示が失敗した場合は状況に合わせて対応しましょう。
+- 必要な場合のみ、オーディオ、電気ショック、モニタリングを使用してください。アクションは節約しましょう。
+- 後の夜になるにつれ、タスクはより高いリスクと厳しい時間制限を伴うものに変化します。
 
-### Overview
-[JA TRANSLATION NEEDED] Story‑driven entry with nightly objectives. You crawl through vents, repair systems, and follow instructions while avoiding Funtime animatronics.
+### 操作方法
+- マウス/UIでパネル、電気ショック、モニターを操作します。通気口セクションの移動はキーで行います（ホストによります）。
 
-### How to Play
-- Follow the terminal’s prompts, but adapt when instructions fail.
-- Use audio, shock, and monitoring only when required; conserve actions.
-- Later nights remix tasks with higher risk and tighter windows.
+### ヒント
+- よく聞いてください。音声の合図やちらつきが危険を知らせてくれます。
+- 暗い通気口セクションはゆっくり移動しましょう。急ぐと失敗の原因になります。
+- プレッシャーの中でも実行できるように、パネル操作の手順を予習しておきましょう。
 
-### Controls
-- Mouse/UI to interact with panels, shocks, and monitors; movement keys for vent sections (host dependent).
-
-### Tips
-- Listen carefully—audio cues and flickers telegraph danger.
-- Move slowly through dark vent segments; rushing triggers failures.
-- Rehearse panel sequences so you can execute under pressure.
-
-### FAQ
-- Q: Why do shocks stop working?  
-[JA TRANSLATION NEEDED]   A: Some segments require patience or alternative steps; follow updated prompts.
-- Q: Can I skip to specific nights?  
-[JA TRANSLATION NEEDED]   A: Some hosts allow scene/night select; otherwise progress sequentially.
-- Q: Is there a custom night mode?  
-[JA TRANSLATION NEEDED]   A: Many versions include a challenge night after the story.
-
+### よくある質問 (FAQ)
+- **Q: 電気ショックが効かなくなるのはなぜですか？**  
+  A: 忍耐が必要なセグメントや、別の手順が必要な場合があります。更新されるプロンプトに従ってください。
+- **Q: 特定の夜にスキップできますか？**  
+  A: シーン/夜を選択できるホスト版もありますが、基本的には順番に進めることになります。
+- **Q: カスタムナイトモードはありますか？**  
+  A: 多くのバージョンには、ストーリーの後にチャレンジナイトが含まれています。

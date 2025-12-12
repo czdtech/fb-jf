@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: color-roll-3d
-title: '[KO] Color Roll 3D'
+title: Color Roll 3D 컬러 롤 3D
 description: >-
-  [KO] Color Roll 3D is a satisfying unfold‑and‑fill puzzle — unroll strips in
-  the right order to paint target patterns.
+  Color Roll 3D는 여러 겹의 색 스트립을 펼쳐 보드를 정확히 채우는 퍼즐 게임입니다. 스트립이 서로를 덮는 순서를 잘 계획해, 목표
+  패턴과 똑같이 칠해 보세요.
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/color-roll-3d.png
 tags:
@@ -14,37 +14,66 @@ score: 4.0/5  (1812 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Color Roll 3D에서는 색깔 스트립들을 순서대로 펼쳐, 보드를 빈칸 없이 정확히 채워야
+합니다. 각 스트립은 특정 경로를 따라 펼쳐지며, 나중에 펼친 스트립이 먼저 깔린
+색을 덮어 버릴 수 있기 때문에 "어떤 색을 먼저, 어떤 색을 나중에" 펼칠지가 핵심
+전략이 됩니다.
 
+화면 상단에는 완성해야 할 목표 패턴이 미리 보여지므로, 이를 보면서 보드를 어떤
+순서로 채워 나갈지 머릿속에서 시뮬레이션하는 것이 중요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 팁
 
-Color Roll 3D presents layered strips you unroll to cover a board exactly. The trick is sequencing: later strips may cover earlier ones, so you must choose an order that matches the target image without overlap errors.
+1.  **가장 넓은 바닥 색부터 채우기**  
+    전체 면적의 바탕이 되는 깊은 층의 색은 가능한 한 먼저 펼쳐 두어야 합니다.
+    그래야 이후 스트립이 그 위를 자연스럽게 덮어도 빈칸이 생기지 않습니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **테두리 스트립으로 윤곽 먼저 잡기**  
+    테두리나 구분 선을 담당하는 스트립을 먼저 깔아 두면, 그 안쪽을 어떤 색으로
+    채울지 계획하기 쉬워집니다. 경계를 먼저 만든 뒤 내부를 채운다는 느낌으로
+    플레이해 보세요.
 
-1.  **[KO]** Start with the deepest/base color that covers the largest area.
-2.  **[KO]** Place boundary strips to frame shapes, then fill interiors.
-3.  **[KO]** Watch overlaps — avoid burying needed edges under later strips.
-4.  **[KO]** Undo early when the final gaps look impossible.
-5.  **[KO]** Compare with the target preview after each placement.
+3.  **겹치는 구간을 항상 의식하기**  
+    나중에 펼칠 스트립이 어느 부분을 덮는지 미리 상상해 보세요. 필요한 가장자리나
+    모서리를 나중 스트립이 덮어 버릴 것 같다면, 순서를 바꾸는 편이 좋습니다.
 
-### Controls Guide
+4.  **마지막 칸이 애매하면 일찍 되돌리기**  
+    퍼즐 끝에서 한 칸만 남아 맞지 않는 상황은 대부분 중간 순서가 잘못되었기
+    때문입니다. 그런 경우에는 후반부 몇 수를 억지로 맞추려 하기보다, 처음
+    애매했던 구간으로 돌아가 순서 자체를 다시 설계하는 것이 빠릅니다.
 
-- Drag to unroll a strip along its path; tap to undo where allowed.
-- Zoom/pan if supported for precision.
+5.  **목표 패턴과 계속 비교하기**  
+    한 번 스트립을 펼칠 때마다, 화면의 목표 이미지와 현재 보드를 자주 비교해
+    보세요. 색과 위치가 조금이라도 어긋난 느낌이 들면 즉시 수정하는 편이 나중에
+    크게 꼬이는 것을 막아 줍니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
+
+-   **스트립 펼치기:** 스트립을 드래그해 지정된 경로를 따라 펼칩니다.
+-   **되돌리기:** 일부 버전에서는 언두 버튼을 눌러 방금 펼친 스트립을 다시 말아
+    원래 위치로 되돌릴 수 있습니다.
+-   **확대/이동:** 지원되는 경우, 확대·축소 및 드래그로 보드를 자세히 확인할 수
+    있습니다.
+
+### 자주 묻는 질문 (FAQ)
+
 
 - Q: I always end with one tile uncovered — what’s wrong?
-
-A: Your order is off. Lay base colors first, then smaller detail strips to avoid blocking.
+**1. 항상 한 칸이 안 맞게 남아요. 무엇이 잘못된 걸까요?**  
 
 - Q: Are multiple orders valid?
-
-A: Some puzzles allow several, but most intend a small set of correct sequences.
+> 대부분 스트립을 펼치는 순서가 잘못된 것입니다. 바닥이 되는 색을 먼저 깔고,
 
 - Q: Is there a hint system?
+> 그 위에 작은 디테일 스트립을 올리는 순서로 다시 시도해 보세요.
 
-A: Many versions include hints — use sparingly to preserve the challenge.
+**2. 정답 순서가 여러 개 있을 수 있나요?**  
+> 일부 퍼즐은 여러 해법을 허용하지만, 대부분의 스테이지는 소수의 의도된
+> 순서를 갖고 있습니다. 다양한 순서를 실험해 보는 것도 재미의 일부입니다.
 
+**3. 힌트 기능이 있나요?**  
+> 많은 버전에서 힌트가 제공되며, 잘 풀리지 않을 때 다음으로 펼칠 스트립을
+> 알려 주기도 합니다. 다만 힌트에 너무 의존하면 퍼즐 해결의 재미가 줄어들 수
+> 있으니, 막힐 때만 가볍게 사용하는 것을 추천합니다.

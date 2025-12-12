@@ -1,81 +1,41 @@
 ---
+title: "Daily Solitaire デイリー・ソリティア"
+description: "「Daily Solitaire」は毎日新しい挑戦が届くクロンダイク・ソリティア。24時間ごとに更新されるパズルで、スキルを試し、連続クリア記録を目指そう。"
+iframeSrc: "https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/"
+thumbnail: "/new-images/daily-solitaire.png"
+urlstr: "daily-solitaire"
+score: "4.7/5  (3300 votes)"
+tags: ["card", "puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: daily-solitaire
-title: '[JA TRANSLATION NEEDED] Daily Solitaire'
-description: >-
-  [JA TRANSLATION NEEDED] A new Klondike Solitaire challenge awaits you every
-  day. Sort the cards from Ace to King and test your skills with a fresh puzzle
-  daily.
-iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
-thumbnail: /new-images/daily-solitaire.png
-tags:
-  - card
-  - puzzle
-  - casual
-score: 4.7/5  (3300 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Daily Solitaire（デイリー・ソリティア）*は、毎日新しい「クロンダイク・ソリティア」の問題が配信されるゲームです。52枚のカードで構成されたデッキを使い、エースからキングまで、マークごとに4つの組札を完成させるという古典的なルールです。
+毎日配信されるパズルは、正解ルートが存在することが保証されているため、理不尽に詰むことはありません。毎日の頭の体操や、リラックスタイムに最適です。
 
-[JA TRANSLATION NEEDED] Daily Solitaire offers a fresh Klondike Solitaire puzzle every day. The game presents the classic challenge of sorting a 52-card deck into four foundation piles by suit, from Ace to King. With a new, guaranteed-winnable deal each day, it's a perfect way to test your skills, track your progress, and enjoy a moment of classic card game strategy.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **目的:** スート（マーク）ごとに、A（エース）からK（キング）まで順番に4つの「組札（ファウンデーション）」に全てのカードを移動させることです。
+2.  **場札の整理:** 場札（下の列）を動かす時は、色が交互（赤、黒、赤、黒…）かつ、数字が降順（K, Q, J, 10…）になるように重ねます。裏向きのカードを表に向けることを最優先しましょう。
+3.  **空いた列の活用:** 列が空になった場所には、「K（キング）」のみを置くことができます。ここを一時的な退避場所として使うことで、長い列を整理しやすくなります。
+4.  **山札:** 動かせるカードがなくなったら、山札からカードを引きます。
 
-[JA TRANSLATION NEEDED] 1.  **Objective:** Move all 52 cards to the four foundation piles in ascending order (Ace to King) for each suit.
-[JA TRANSLATION NEEDED] 2.  **Tableau Management:** Build columns on the tableau in descending order, alternating colors (e.g., a red Jack on a black Queen). The primary goal is to uncover face-down cards.
-[JA TRANSLATION NEEDED] 3.  **Prioritize Empty Columns:** Creating an empty column is a powerful move, as it can only be filled by a King. This gives you a valuable space to rearrange long sequences and uncover more cards.
-[JA TRANSLATION NEEDED] 4.  **Stock and Waste:** When no more moves are available on the tableau, draw from the stock pile to reveal new cards. Use these cards to build on the tableau or move them directly to the foundation.
+### 操作ガイド
 
-### Controls Guide
+*   **移動:** カードをクリックしてドラッグ＆ドロップします。
+*   **配布:** 山札をクリックしてカードをめくります。
+*   **オート移動:** カードをダブルクリックすると、移動可能な場所（主に組札）へ自動的に飛んでいく機能がある場合が多いです。
 
-*   **Move Cards:** Click and drag cards between piles.
-    - **A:** Yes, most "Daily Solitaire" games feature deals that are guaranteed to have at least one winning path, though it may be very tricky to find.（日本語訳が必要）
-    - **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.（日本語訳が必要）
-    - **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.（日本語訳が必要）
-    - **A:** Yes, most "Daily Solitaire" games feature deals that are guaranteed to have at least one winning path, though it may be very tricky to find.（日本語訳が必要）
-    - **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.（日本語訳が必要）
-    - **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.（日本語訳が必要）
-*   **Draw from Stock:** Click the stock pile to deal a new card to the waste pile.
-*   **Auto-Move:** Double-clicking a card will often send it to the appropriate foundation pile if the move is valid.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 毎日のパズルは必ずクリアできますか？**
+    *   **A:** はい、「デイリー」と名のつくパズルは基本的に「解法が存在する（Winnable）」配置になっています。
 
-*   **Q: Is the daily puzzle always winnable?**
+*   **Q: 「1枚めくり」と「3枚めくり」の違いは？**
+    *   **A:** 「1枚めくり」は山札から1枚ずつめくるので簡単です。「3枚めくり」は3枚同時にめくり、一番上のカードしか使えないため、難易度が格段に上がります。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Yes, most "Daily Solitaire" games feature deals that are guaranteed to have at least one winning path, though it may be very tricky to find.
-
-*   **Q: What is the difference between "Draw 1" and "Draw 3" mode?**
-[JA TRANSLATION NEEDED]     *   **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.
-
-*   **Q: Can I play previous days' puzzles?**
-
-
-
-
-
-
-
-
-    - **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.
-- **Q: Can I play previous days' puzzles?**
-    - **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.
-- **Q: What is the difference between "Draw 1" and "Draw 3" mode?**
-    - **A:** Yes, most "Daily Solitaire" games feature deals that are guaranteed to have at least one winning path, though it may be very tricky to find.
-- **Q: Is the daily puzzle always winnable?**
-### よくある質問（FAQ）
-- **Auto-Move:** Double-clicking a card will often send it to the appropriate foundation pile if the move is valid.
-
-
-
-
-
-    - **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.
-- **Q: Can I play previous days' puzzles?**
-    - **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.
-- **Q: What is the difference between "Draw 1" and "Draw 3" mode?**
-    - **A:** Yes, most "Daily Solitaire" games feature deals that are guaranteed to have at least one winning path, though it may be very tricky to find.
-[JA TRANSLATION NEEDED]     *   **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.
-
+*   **Q: 過去の日付のパズルは遊べますか？**
+    *   **A:** 多くのバージョンにはカレンダー機能があり、見逃した日のパズルに遡って挑戦することができます。

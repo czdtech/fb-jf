@@ -1,75 +1,50 @@
 ---
-locale: ja
-urlstr: fairyland
-title: '[JA TRANSLATION NEEDED] Fairyland'
-description: >-
-  [JA TRANSLATION NEEDED] Fairyland is a gentle puzzle adventure — explore cozy
-  scenes, solve light puzzles, and complete objectives at a restful pace.
+title: Fairyland フェアリーランド
+description: 「Fairyland」は優しいパズルアドベンチャー。心地よいシーンを探索し、軽いパズルを解き、ゆったりとしたペースで目標を達成しよう。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/fairyland.png
+urlstr: fairyland
+score: 4.0/5  (1821 votes)
 tags:
   - adventure
   - puzzle
   - casual
-score: 4.0/5  (1821 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Fairyland（フェアリーランド）*は、収集タスク、シンプルな環境パズル、そして幻想的なシーンで満たされた、ストレスフリーのアドベンチャーゲームです。
+隠されたオブジェクトを探し、正しい順序でスイッチを起動し、小さな生き物をエスコートし、時折ミニゲームを完了します。戦闘ではなく探索を楽しみながら、コンパクトなチャプターを進めていきましょう。
 
-[JA TRANSLATION NEEDED] Fairyland is a low‑stress adventure filled with collectible tasks, simple environmental puzzles, and whimsical scenes. You’ll search for hidden objects, activate switches in the right order, escort little critters, and occasionally complete mini‑games. Progress across compact chapters while enjoying exploration rather than combat.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **系統的に探索:** 一度に1つのシーンをクリアしましょう。ズームやパンで小さなインタラクティブ要素を見つけます。
+2.  **手がかりノート:** シンボルの順序や色の並びをメモして、後のドアに備えましょう。
+3.  **オプションタスク:** サイドの目標を完了すると、コスメティック報酬やヒントがアンロックされます。
+4.  **ルート計画:** シーンに戻る必要がある場合、ループに沿ってアイテムを集めて移動を最小限にしましょう。
+5.  **ミニゲーム集中:** ルールをよく読みましょう。多くはペナルティなしで素早くリトライできます。
 
-[JA TRANSLATION NEEDED] 1.  Sweep methodically: Clear one scene at a time; zoom or pan for small interactables.
-[JA TRANSLATION NEEDED] 2.  Clue notebooks: Note symbol sequences and color orders for later doors.
-[JA TRANSLATION NEEDED] 3.  Optional tasks: Complete side objectives to unlock cosmetic rewards/hints.
-[JA TRANSLATION NEEDED] 4.  Route planning: If a scene has backtracking, collect items along a loop to minimize travel.
-[JA TRANSLATION NEEDED] 5.  Mini‑game focus: Read rules carefully — many allow quick retries without penalty.
+### 操作ガイド
 
-### Controls Guide
+*   **操作:** クリック/タップで相互作用、アイテムやスライダーはドラッグ、必要に応じて長押し。
+*   **メニュー:** ヒント/ログブックが利用可能な場合があります。
 
-- Click/tap to interact, drag for items or sliders, hold for long presses when needed.
-- Menu provides hints/logbook if available.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 行き詰まりました。どうすればいいですか？**
 
-- Q: I’m stuck — what should I do?
-  
-[JA TRANSLATION NEEDED]   A: Revisit prior scenes for missed interactables, review notebooks, and try interacting with environmental decorations.
-
-- Q: Are there fail states?
-  
-[JA TRANSLATION NEEDED]   A: Rarely; most puzzles allow infinite retries and gentle hints.
-
-- Q: How long is a chapter?
-  
+A: Revisit prior scenes for missed interactables, review notebooks, and try interacting with environmental decorations.
+- **A:** 前のシーンに戻って見逃したインタラクティブ要素を探し、ノートを見直し、環境の装飾と相互作用してみましょう。
 
 
-
-
-
-- Q: I’m stuck — what should I do?
-### よくある質問（FAQ）
-- Menu provides hints/logbook if available.
-- Click/tap to interact, drag for items or sliders, hold for long presses when needed.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Short — built for quick sessions; multiple chapters add up to a relaxing journey.
-
-
-
-
-
+A: Rarely; most puzzles allow infinite retries and gentle hints.
+*   **Q: 失敗状態はありますか？**
 
 A: Short — built for quick sessions; multiple chapters add up to a relaxing journey.
-- Q: How long is a chapter?
-A: Rarely; most puzzles allow infinite retries and gentle hints.
-- Q: Are there fail states?
+    *   **A:** ほとんどありません。ほとんどのパズルは無限にリトライでき、優しいヒントがあります。
 
-
-
-
-A: Short — built for quick sessions; multiple chapters add up to a relaxing journey.
-- Q: How long is a chapter?
-A: Rarely; most puzzles allow infinite retries and gentle hints.
+*   **Q: チャプターはどのくらいの長さですか？**
+    *   **A:** 短めです。短時間セッション向けに作られており、複数のチャプターを合わせてリラックスした旅になります。

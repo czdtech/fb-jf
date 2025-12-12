@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: puzzle-pieces-merge
-title: '[FR] Puzzle Pieces Merge'
-description: >-
-  [FR] A relaxing and innovative puzzle game. Drag, drop, and merge puzzle
-  pieces to complete beautiful landscape images. Rotate pieces and use boosters
-  to solve each unique puzzle.
+title: Puzzle Pieces Merge
+description: "Puzzle Pieces Merge est un jeu de puzzle relaxant et innovant\_: fais glisser, pose et fusionne les pièces pour révéler de magnifiques paysages, en profitant de la rotation des pièces et de bonus pour résoudre chaque énigme."
 iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
 thumbnail: /new-images/puzzle-pieces-merge.jpg
 tags:
@@ -19,30 +16,58 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Puzzle Pieces Merge offers a serene and innovative twist on the classic jigsaw puzzle. Instead of a static board, this game invites you to drag, drop, and merge puzzle pieces to reveal beautiful, captivating landscapes. The core mechanic involves correctly placing pieces next to each other, at which point they will merge into a larger segment of the final image. With the ability to rotate pieces and use strategic power-ups, it’s a relaxing yet engaging experience for puzzle lovers.
+Puzzle Pieces Merge propose une variante paisible et originale du puzzle
+classique. Plutôt qu’un plateau fixe, tu dois faire glisser, déposer et
+fusionner les pièces pour révéler de superbes paysages. Lorsque deux pièces
+sont correctement placées côte à côte, elles se combinent pour former un
+segment plus grand de l’image finale. La rotation des pièces et l’utilisation
+de bonus bien choisis rendent l’expérience à la fois relaxante et prenante.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** **Start with the Edges:** Just like a real-world jigsaw puzzle, a good strategy is to identify and place the edge and corner pieces first. This helps you build a frame for the rest of the image.
-2.  **[FR]** **Group by Color:** Look at the pieces you have and try to group them by color or pattern. If you see a lot of blue pieces, they likely belong to the sky. Grouping them mentally will help you tackle one section of the puzzle at a time.
-3.  **[FR]** **Rotate for the Perfect Fit:** Don't forget that you can rotate the pieces. If a piece looks like it should fit but doesn't, try rotating it until it aligns perfectly with its neighbors.
-4.  **[FR]** **Use Boosters When Stuck:** If you find yourself truly stuck, use one of the available boosters. These power-ups can help by clearing a section, showing you where a piece goes, or providing other assistance to get you past a tricky spot.
+1.  **Commencer par les bords :** comme pour un vrai puzzle, repère d’abord
+    les pièces de bord et de coin pour construire le cadre de l’image.
+2.  **Trier par couleurs :** observe les pièces et regroupe‑les par couleur
+    ou motif. Par exemple, beaucoup de bleu correspondent souvent au ciel.
+    Cela t’aide à te concentrer sur une zone à la fois.
+3.  **Faire pivoter pour trouver l’ajustement parfait :** n’oublie pas que
+    tu peux faire tourner les pièces. Si une pièce semble presque
+    convenir, essaie différentes orientations jusqu’à ce qu’elle s’aligne
+    parfaitement avec ses voisines.
+4.  **Utiliser les boosters en cas de blocage :** si tu es vraiment coincé,
+    utilise un des bonus disponibles. Ils peuvent, selon la version,
+    révéler une position, nettoyer une zone ou t’apporter une aide
+    ponctuelle pour débloquer une situation.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Move Piece:** Click and drag a puzzle piece from your inventory onto the main puzzle board.
-*   **[FR]** **Rotate Piece:** Some versions may require you to click a button to rotate the piece, while others might use the right mouse button or a keyboard key.
+*   **Déplacer une pièce :** clique et fais glisser une pièce depuis ton
+    inventaire vers le plateau principal.
+*   **Faire pivoter une pièce :** selon la version, clique sur un bouton
+    de rotation, utilise le bouton droit de la souris ou une touche du
+    clavier pour changer son orientation.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: How do the pieces merge?**
-    *   **[FR]** **A:** Simply place a piece in its correct position next to another piece it connects with. If the placement is correct, they will automatically snap together and merge.
+*   **Q : Comment les pièces fusionnent‑elles ?**  
+    R : Place simplement une pièce à l’endroit où elle doit se connecter
+    à une autre. Si le placement est correct, elles s’emboîtent
+    automatiquement et fusionnent.
 
-*   **[FR]** **Q: I can't find where a piece goes. What should I do?**
-    *   **[FR]** **A:** First, try rotating it. If you're still stuck, set it aside and focus on another section of the puzzle. Often, filling in the surrounding areas will reveal exactly where the difficult piece needs to go. If all else fails, use a hint if one is available.
+    - **Q : Je ne trouve pas où va une pièce. Que faire ?**  
+    R : Commence par la faire pivoter. Si tu bloques encore, mets‑la de
+    côté et concentre‑toi sur une autre zone du puzzle. En complétant les
+    environs, l’emplacement exact finira souvent par devenir évident. Et
+    en dernier recours, utilise un indice si le jeu en propose.
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** The goal is to use all the provided puzzle pieces to successfully complete the entire image.
+*   **Q : Quel est l’objectif du jeu ?**  
 
+    - **A:** The goal is to use all the provided puzzle pieces to successfully complete the entire image.
+
+- **Q: What is the goal of the game?**
+
+    - **A:** First, try rotating it. If you're still stuck, set it aside and focus on another section of the puzzle. Often, filling in the surrounding areas will reveal exactly where the difficult piece needs to go. If all else fails, use a hint if one is available.
+    R : Utiliser toutes les pièces fournies pour compléter entièrement
+    l’image.

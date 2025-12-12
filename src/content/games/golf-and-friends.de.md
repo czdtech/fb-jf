@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: golf-and-friends
-title: '[DE] Golf and Friends'
+title: "Golf and Friends"
 description: >-
-  [DE] Golf and Friends is a breezy mini‑golf — read slopes, bank shots, and
-  sync putts with friends for cozy sessions.
+  Golf and Friends ist ein entspanntes Minigolf-Spiel mit Freunden. Lies die
+  Neigungen, spiele gezielte Bankschüsse und genieße gemütliche Runden im
+  Mehrspielermodus.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/golf-and-friends.jpg
 tags:
@@ -16,36 +17,57 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+## Spielanleitung
 
-## English Guide
+### Ausführliche Spielbeschreibung
 
-### Detailed Game Introduction
+Golf and Friends ist ein lockeres Minigolf-Erlebnis mit verspielten Hindernissen,
+Rampen und Banden. Der Fokus liegt auf **Gefühl für Tempo** und **Winkelwahl**:
+Sanfte Putts in Lochnähe verhindern, dass der Ball wieder herausrollt, und
+45°-Bankschüsse machen enge Kurven gut berechenbar. Im Mehrspielermodus wird der
+Kurs zur gemütlichen Party-Runde mit Freunden.
 
-Golf and Friends is a casual mini‑golf experience with playful obstacles, ramps, and bank walls. Mastery revolves around pace control and angle selection — soft touches near cups prevent lip‑outs, and 45° bank lines make tight corners consistent. Multiplayer turns the course into a light party game.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  **Tempo am Loch kontrollieren**  
+    Spiele Putts am Lochrand lieber etwas zu langsam als zu schnell, damit der
+    Ball nicht am Loch vorbeischießt oder am Rand hängen bleibt.
 
-1.  **[DE]** Pace near cup: Under‑hit slightly at the rim to avoid lip‑outs.
-2.  **[DE]** Bank geometry: Use 45° lines off walls to redirect into narrow lanes.
-3.  **[DE]** Hazard timing: Windmills/gates need a full cycle watch.
-4.  **[DE]** Two‑putt planning: Don’t force hero shots; set up a gimme second.
-5.  **[DE]** Camera work: Pan/zoom to preview hidden slopes.
+2.  **Banden nutzen**  
+    Verwende 45°-Winkel an den Wänden, um den Ball gezielt in enge Korridore zu
+    lenken oder um Ecken herumzuspielen.
 
-### Controls Guide
+3.  **Fallen timen**  
+    Bewegliche Hindernisse wie Windmühlen oder Tore solltest du zunächst einen
+    kompletten Zyklus lang beobachten, bevor du deinen Schlag ausführst.
 
-- Aim with mouse; pull to set power; release to putt. Reset/forfeit if stuck.
+4.  **Auf Zwei-Putt spielen**  
+    Erzwinge keine waghalsigen Schläge. Oft ist es besser, einen sicheren
+    ersten Putt zu spielen und sich damit einen leichten zweiten Schlag zu
+    eröffnen.
 
-### Frequently Asked Questions (FAQ)
+5.  **Kamera geschickt einsetzen**  
+    Nutze Schwenken und Zoomen, um versteckte Gefälle oder Kanten frühzeitig zu
+    erkennen.
 
-- Q: Why do my putts rim out?
+### Steuerung
 
-A: Too much pace or a poor entry angle; slow down near the cup.
+- Ziele mit der Maus, ziehe zurück, um die Schlagstärke zu bestimmen, und lasse
+  dann los, um zu putten.  
+- Wenn du feststeckst, bieten viele Versionen eine Reset- oder
+  Aufgeben-Funktion für das aktuelle Loch.
 
-- Q: Best bank‑shot tip?
+### Häufige Fragen (FAQ)
 
-A: Aim slightly inside 45° to account for speed loss.
+- **F: Warum rollen meine Putts ständig am Lochrand vorbei?**  
+  **A:** Meist ist dein Tempo zu hoch oder der Eintrittswinkel ungünstig. Reduziere
+  die Schlagstärke kurz vor dem Loch und richte den Putt eher frontal aus.
 
-- Q: Multiplayer local?
+- **F: Hast du einen Tipp für gute Bankschüsse?**  
+  **A:** Ziele leicht innerhalb des 45°-Winkels, um den Tempoverlust bei der
+  Bande auszugleichen. So kommt der Ball oft genau im richtigen Winkel wieder
+  heraus.
 
-A: Often hot‑seat style; pass the device between turns.
-
+- **F: Wie funktioniert der Mehrspielermodus?**  
+  **A:** In vielen Varianten spielst du im Hot-Seat-Modus: Mehrere Spieler
+  teilen sich dasselbe Gerät und führen ihre Schläge der Reihe nach aus.

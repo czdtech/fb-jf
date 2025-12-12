@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: uno
-title: '[DE] UNO Game'
+title: UNO Game
 description: >-
-  [DE] UNO is the classic card game where players race to empty their hands by
-  matching colors and numbers, using special action cards to block opponents and
-  be the first to shout 'UNO!'
+  UNO ist der klassische Karten‑Kracher: Lege passende Farben oder Zahlen ab,
+  nutze Aktionskarten, um deine Mitspieler auszubremsen, und sei der oder die
+  Erste, die nur noch eine Karte hat – inklusive lautem „UNO!“.
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/uno.jpg
 tags:
@@ -16,36 +16,43 @@ score: 4.4/5  (1083 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
+
+„UNO Game“ ist die digitale Version des weltberühmten Kartenspiels UNO. Ziel ist es, als Erste/r alle eigenen Karten loszuwerden. In jedem Zug legst du eine Karte ab, die entweder die gleiche Farbe oder die gleiche Zahl wie die offene Karte hat – oder du spielst eine Aktions‑ bzw. Jokerkarte, um den Spielfluss ordentlich durcheinanderzubringen.
+
+### Spielstrategie
+
+1. **Farben im Blick behalten:** Versuche, deine Hand so zu spielen, dass du mehrere Farben übrig hast. So bist du flexibler, wenn die Farbe auf dem Ablagestapel wechselt.
+2. **Aktionskarten clever timen:** „Aussetzen“, „Retour“ oder „+2/+4“ wirken am stärksten, wenn dein Zielspielende kurz vor dem Sieg steht.
+3. **Joker aufheben:** Farbwechsel‑ und „+4“-Joker sind deine Notfallknöpfe. Heb sie dir möglichst für kritische Situationen auf.
+4. **Mitspieler beobachten:** Achte auf die Kartenanzahl der anderen. Wer nur noch wenige Karten hat, sollte eher attackiert oder blockiert werden.
+5. **UNO rechtzeitig ansagen:** Wenn du auf eine Karte runtergehst, musst du „UNO“ ansagen – vergisst du das und wirst erwischt, gibt’s Strafkarten.
+
+### So wird gespielt
+
+- **Karte ausspielen:** Klicke auf eine legbare Karte in deiner Hand, um sie auf den Ablagestapel zu legen.
+- **Karte ziehen:** Wenn du nichts Passendes hast, klickst du auf den Nachziehstapel und nimmst eine Karte auf.
+- **Farbe wählen:** Nach dem Ausspielen einer Jokerkarte bestimmst du per Klick, welche Farbe als Nächstes gilt.
+- **UNO‑Button:** Bei nur noch einer Handkarte klickst du auf den UNO‑Button, um dies anzuzeigen.
+
+### Häufige Fragen (FAQ)
 
 
+- **Q: When do I need to shout UNO?**
+**Wann muss ich UNO sagen?**  
+
+- **Q: When is the best time to use wild cards?**
+Direkt nachdem du deine vorletzte Karte gelegt hast und nur noch eine auf der Hand hast – am besten sofort den UNO‑Button drücken.
 
 
-### Game Introduction
+- **Q: What happens if I forget to shout UNO?**
+**Wann spiele ich Joker am besten?**  
 
-"UNO Game" is the classic card game where players race to empty their hands by matching colors and numbers, using special action cards to block opponents and be the first to shout "UNO!" This game is famous worldwide for its simple-to-learn but strategically rich gameplay.
+- **Q: Can I play multiple identical cards in succession?**
+Wenn du sonst nicht legen kannst oder um kurz vor Schluss die Farbe auf etwas zu ändern, das deinen Mitspielern weh tut und dir nutzt.
 
-### Gameplay Strategy
+**Was passiert, wenn ich UNO vergesse?**  
+Wirst du ertappt, musst du in vielen Varianten 2–4 Strafkarten ziehen.
 
-1.  **[DE]** **Color Priority**: Prioritize playing cards that match the current color, keeping wild cards and action cards as backup.
-2.  **[DE]** **Action Card Timing**: Use Skip, Reverse, and other action cards at crucial moments to disrupt opponents' rhythm.
-3.  **[DE]** **Hand Management**: Distribute different colored cards wisely to avoid being stuck with one color.
-4.  **[DE]** **Observe Opponents**: Pay attention to opponents' playing patterns and hand counts to predict their strategies.
-5.  **[DE]** **UNO Declaration**: Remember to shout "UNO" when you have one card left, or face penalty cards.
-
-### How to Play
-
-*   **[DE]** **Play Cards**: Click on playable cards in your hand to play them.
-*   **[DE]** **Draw Cards**: Click the deck to draw when you can't play any cards.
-*   **[DE]** **Choose Color**: Select the next color after playing a wild card.
-*   **[DE]** **UNO Button**: Click the UNO button to declare when you have one card remaining.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: When do I need to shout UNO?**
-**A**: When you have only one card left, you must shout "UNO" immediately after playing your second-to-last card.
-2.  **[DE]** **Q: When is the best time to use wild cards?**
-**A**: When you have no other options, or at crucial moments to change the game color and block opponents.
-3.  **[DE]** **Q: What happens if I forget to shout UNO?**
-**A**: If caught by other players, you'll typically be penalized with 2-4 additional cards.
-4.  **[DE]** **Q: Can I play multiple identical cards in succession?**
-**A**: This depends on specific rule settings; standard UNO rules allow only one card per turn.
+**Kann ich mehrere gleiche Karten in einem Zug spielen?**  
+Das hängt von den eingestellten Hausregeln ab. Im klassischen UNO ist pro Zug normalerweise nur eine Karte erlaubt.

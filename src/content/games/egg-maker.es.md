@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: egg-maker
-title: '[ES] Egg Maker'
+title: "Egg Maker"
 description: >-
-  [ES] Egg Maker is a quick kitchen puzzler — sequence prep steps, time pans,
-  and serve perfect eggs under rush pressure.
+  Egg Maker es un pequeño puzle de cocina y gestión de tiempo: encadena pasos
+  de preparación, controla la sartén y sirve huevos perfectos incluso en plena
+  hora punta.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/egg-maker.png
 tags:
@@ -15,41 +16,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Egg Maker condensa la cocina de gestión de tiempo en una cadena rápida de
+estaciones: romper, batir, sazonar, calentar, emplatar y servir. Cada pedido
+marca un estilo (revueltos, fritos con la yema arriba, tortilla, etc.) y un punto de
+cocción concreto. Los alimentos siguen haciéndose mientras están al fuego, así
+que el orden de los pasos y el momento en que retiras la sartén deciden si
+consigues un plato "perfecto" o lo quemas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Egg Maker distills time‑management cooking into rapid stations: crack, whisk, season, heat, plate, and serve. Each order specifies a style (scrambled, sunny‑side, omelet) and doneness windows. Items on heat continue cooking, so sequencing and pickup timing decide whether you hit “perfect” or burn.
+1.  **Ritmo de estaciones:** Empieza por el paso más largo (la sartén) y
+    aprovecha el tiempo de cocción para tareas cortas como batir o sazonar.
+2.  **Flujo a dos sartenes:** Si tienes varias, escalona su uso unos segundos
+    para poder voltear o emplatar una mientras preparas la siguiente.
+3.  **Ventanas de cocción:** Retira los huevos justo al borde del punto
+    "perfecto" para maximizar la puntuación; aprende las pistas visuales y de
+    sonido.
+4.  **Pedidos múltiples:** Agrupa órdenes de estilo similar para reutilizar el
+    estado de la sartén y reducir ciclos de limpieza.
+5.  **Mejoras:** Prioriza una sartén extra y mayor velocidad de preparación por
+    encima de la decoración del local.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Station rhythm: Always start with the longest step (heat), then backfill short prep while the pan runs.
-2.  **[ES]** Two‑pan flow: Stagger pans by a few seconds so you can flip/plate one while prepping the next.
-3.  **[ES]** Doneness windows: Grab at the edge of “perfect” for score bonuses; learn visual/audio tells.
-4.  **[ES]** Multi‑orders: Group similar styles to reuse pan state and reduce clean cycles.
-5.  **[ES]** Upgrades: Prioritize extra pan and faster prep over décor.
+- Toca para romper huevos, batir y sazonar; arrastra hacia la sartén o el plato
+  para cocinar y emplatar; toca al cliente para servir.
+- Usa las opciones de pausa o reinicio entre turnos si necesitas descanso.
 
-### Controls Guide
+### Consejos avanzados
 
-- Tap to crack/whisk/season; drag to pan/plate; tap customer to serve.
-- Pause/Retry in the UI between shifts.
+- **Bandejas de paso:** Ten platos preparados cerca de la zona de entrega para
+  reducir desplazamientos en picos de pedidos.
+- **Cancelar a tiempo:** Si algo se pasa de cocción, deshazte de ello rápido y
+  rehaz el pedido; suele salir mejor que servir un plato penalizado.
+- **Rutas de combo:** Entregar 2–3 platos seguidos sin fallo suele otorgar
+  multiplicadores de propina.
 
-### Advanced Tips
+### Preguntas frecuentes (FAQ)
 
-- Buffer trays: Stage plates near the pass so you spend less movement when orders spike.
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+- **P: Quemo siempre los huevos, ¿cómo lo evito?**  
+  **R:** Escalona el inicio de cada sartén 3–4 segundos, haz las tareas de mesa
+  en ese hueco y fíate más del sonido del chisporroteo que del reloj.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Qué mejora debería comprar primero?**  
+  **R:** Una segunda sartén y luego velocidad de preparación; ampliar cola o
+  decoración puede esperar.
 
-- Q: I keep burning items — how to fix?
-
-A: Stagger pans by 3–4 seconds, do short prep during the gap, and focus on auditory sizzle cues.
-
-- Q: Which upgrade first?
-
-A: Extra pan > faster prep > queue size. Décor is endgame.
-
-- Q: Any trick for omelets with fillings?
-
-A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
+- **P: ¿Algún truco para tortillas con relleno?**  
+  **R:** Ten los ingredientes picados durante los momentos tranquilos, añádelos
+  pronto y pliega la tortilla en cuanto veas que cuaja para evitar que se
+  desborde.

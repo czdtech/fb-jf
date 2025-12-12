@@ -1,12 +1,8 @@
 ---
 locale: zh
 urlstr: soccar
-title: '[ZH TRANSLATION NEEDED] SocCar'
-description: >-
-  [ZH TRANSLATION NEEDED] Get behind the wheel in SocCar, an action-packed game
-  that combines the thrill of soccer with the power of cars. Drive on the field,
-  boost into the giant soccer ball, and score goals against your opponent.
-  Master your driving and aiming skills to win the match.
+title: 《SocCar》汽车足球对决
+description: 《SocCar》是一款把足球与赛车结合在一起的对战游戏。开着小车在球场上飞驰，加速撞向巨型足球，将球射进对方球门，用驾驶与预判赢下比赛。
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/soccar.jpg
 tags:
@@ -17,31 +13,33 @@ score: 4.7/5  (870 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] SocCar is an exciting hybrid sports game that blends the high-speed action of driving with the classic objective of soccer. Players control a car on a large field and compete to hit a giant ball into the opponent's goal. It's a game of fast reflexes, strategic positioning, and powerful boosts.
+《SocCar》是一款混合体育与载具操作的竞技小游戏。你和对手（或队友）驾驶卡丁车式的小车，在封闭球场内围绕一颗巨大足球展开攻防。你可以用车身“带球”、用全速冲撞完成远射，甚至借助加速和跳跃完成空中击球。整场比赛比的不是脚法，而是车技、站位和对球路的判断。
 
-### Gameplay Guide
+### 游玩指南
 
-[ZH TRANSLATION NEEDED] The main goal is to score more goals than your opponent before time runs out. Work with your teammate (if in 2v2 mode) to outmaneuver the other team. Use your car to "dribble" the ball down the field or hit it with force for a powerful shot. Control of the ball is key, as is knowing when to attack and when to fall back and defend your goal.
+主要目标是在倒计时结束前，打进比对手更多的进球。
 
-### Controls Guide
+- 在单人或 2v2 等模式下，与队友配合超车、拦截和补射；
+- 用车头或车侧慢速“带球”，将足球稳稳顶向对方球门；
+- 在合适时机全速冲向球，打出高速度射门或解围球；
+- 根据局势判断何时压上进攻、何时迅速回防守门。
 
-- **Movement:** Use `WASD` or `Arrow Keys` to drive your car around the field.
-- **Boost/Dash:** Press `Shift` or `Spacebar` to get a burst of speed. This is crucial for reaching the ball first or making a quick save.
-- **Jump:** Use the `Right Mouse Button` or a dedicated key to make your car jump, which is useful for aerial hits.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **移动：** 使用 `WASD` 或方向键控制车辆在场地上的前进、后退和转向；
+- **加速 / 冲刺：** 按 `Shift` 或空格键获得短暂的爆发速度，用于抢点或极限补防；
+- **跳跃：** 通过鼠标右键或指定按键让车辆跳起，有助于完成空中顶球或封堵高球。
 
-[ZH TRANSLATION NEEDED] **What is the objective of SocCar?**
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] The objective is to use your car to hit the ball into the opposing team's goal, scoring more points than them within the time limit.
+**问：SocCar 的获胜目标是什么？****
+答：** 操控你的小车把球射入对方球门，在限定时间内取得比对手更多的进球数即可获胜。
 
-[ZH TRANSLATION NEEDED] **Is there a good strategy for winning?**
+**问：有什么实用的取胜策略？****
+答：** 团队配合和场上站位非常关键。不要全队一窝蜂追球，可以让一名队友负责抢球，另一名负责补位或防守。合理管理加速资源，在关键时刻用来抢先触球或门线解围，会极大影响比赛走势。
 
-[ZH TRANSLATION NEEDED] Teamwork and positioning are critical. Don't have all players chase the ball at once. Instead, have one player attack the ball while others position themselves for a pass, a rebound, or to defend the goal. Managing your boost effectively is also essential for success.
-
-[ZH TRANSLATION NEEDED] **How is this different from regular soccer?**
-
-[ZH TRANSLATION NEEDED] In SocCar, you are a car! This means you can use high speeds, boosts, and jumps to interact with the ball in ways that are impossible in traditional soccer, leading to explosive and dynamic gameplay.
+**问：它和普通足球有什么不同？****
+答：** 在《SocCar》中你操控的是车而不是人，可以利用高速冲撞、喷射加速和跳跃等动作与足球互动，形成传统足球里无法出现的夸张射门和空中对抗，让比赛节奏更爆炸、更娱乐化。
 

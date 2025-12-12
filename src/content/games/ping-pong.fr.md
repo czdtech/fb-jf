@@ -1,47 +1,53 @@
 ---
 locale: fr
 urlstr: ping-pong
-title: '[FR] Ping Pong'
-description: >-
-  [FR] Ping Pong is a classic arcade sports game where two players control
-  paddles to hit a ball back and forth across a screen, aiming to score points
-  by making the opponent miss the ball.
-iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
-thumbnail: /new-images/ping-pong.jpg
+title: Ping Pong
+description: "Ping Pong est une adaptation rétro du jeu de raquette classique\_: renvoie la balle, anticipe les angles et tente de marquer sans laisser passer le moindre tir."
+iframeSrc: 'https://4spl3e8dr98t4.h5games.usercontent.goog/v/3r1e099l8q9h8/'
+thumbnail: /new-images/ping-pong.png
 tags:
   - arcade
   - sports
   - classic
-score: 4.6/5  (193 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 3.8/5  (1200 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+Ping Pong reprend le concept de Pong : deux raquettes se renvoient une balle sur un terrain horizontal. Ton objectif est de renvoyer chaque tir, de surprendre l’adversaire avec des trajectoires difficiles et de marquer suffisamment de points pour gagner la manche.
+
+### Stratégies de jeu et progression
+
+1.  **Garder la raquette centrée :** reste proche du milieu de ta zone pour pouvoir réagir aux tirs vers le haut comme vers le bas.  
+2.  **Jouer les angles :** vise les bords de la raquette pour envoyer la balle sur des trajectoires plus imprévisibles.  
+3.  **Lire la vitesse :** plus les échanges durent, plus la balle accélère ; adapte ton positionnement en conséquence.
+
+
+- **Balance Offense and Defense**: While defending, look for opportunities to hit tricky shots that are difficult for your opponent to return.
+### Commandes
+
+- Déplace ta raquette avec la souris, les flèches ou le doigt selon la version pour renvoyer la balle.
+
+### Foire aux questions (FAQ)
+
+- **Q : Le jeu devient très rapide, comment suivre ?**  
+  **R :** Anticipe les rebonds plutôt que de réagir au dernier moment et garde ta raquette en mouvement constant.
 
 
 
+**A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
 
-### Game Introduction
+- **Q: Can this game be played in two-player mode?**
 
-"Ping Pong" is a classic arcade sports game. Two players (or one player against AI) each control a paddle to hit a ball back and forth across the screen, aiming to score points by making the opponent miss the ball. The game is known for its simple and intuitive gameplay and fast pace, making it an excellent choice for casual entertainment and competitive matchups.
-
-### Gameplay Strategy
-
-1.  **[FR]** **Control the Paddle**: Move your paddle flexibly to ensure you can hit the incoming ball.
-2.  **[FR]** **Adjust Angle**: By changing the paddle's position and movement direction when hitting the ball, you can alter the ball's flight angle and speed.
-3.  **[FR]** **Anticipate Opponent**: Observe your opponent's hitting habits and movement patterns to predict where the ball will land.
-4.  **[FR]** **Balance Offense and Defense**: While defending, look for opportunities to hit tricky shots that are difficult for your opponent to return.
-
-### How to Play
-
-*   **[FR]** **Move Paddle**: Typically use keyboard arrow keys (up/down) or the mouse to control the paddle's vertical movement on the screen.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: What is the objective of the "Ping Pong" game?**
-**A**: The objective is to score points by getting the ball past your opponent's paddle area. The first player to reach a predetermined score usually wins.
-2.  **[FR]** **Q: Are there different difficulty levels in the game?**
-**A**: Many versions of Ping Pong games offer different difficulty levels, mainly reflected in the AI opponent's reaction speed and hitting skills.
-3.  **[FR]** **Q: How can I hit the ball more powerfully with the paddle?**
 **A**: The hitting power of the paddle is usually fixed, but you can influence the ball's speed and angle by changing the point of contact.
-4.  **[FR]** **Q: Can this game be played in two-player mode?**
+
+- **Q: How can I hit the ball more powerfully with the paddle?**
+
+**A**: Many versions of Ping Pong games offer different difficulty levels, mainly reflected in the AI opponent's reaction speed and hitting skills.
+
+- **Q: Are there different difficulty levels in the game?**
+
+
 **A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.

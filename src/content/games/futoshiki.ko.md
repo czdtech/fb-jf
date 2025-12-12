@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: futoshiki
-title: '[KO] Futoshiki'
+title: "Futoshiki 후토시키"
 description: >-
-  [KO] Futoshiki sharpens logic — place digits with row/column uniqueness while
-  honoring inequality signs for elegant deductions.
+  행·열에 같은 숫자가 한 번씩만 오도록 채우되, 칸 사이의 부등호 조건까지
+  만족시켜야 하는 논리 퍼즐입니다. 부등식 체인을 활용한 추론이 핵심입니다.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/futoshiki.jpg
 tags:
@@ -15,36 +15,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Futoshiki(일본어로 “불평등”)는 스도쿠와 비슷한 라틴 스퀘어 계열 퍼즐이지만,
+칸과 칸 사이에 `>`·`<` 같은 부등호가 추가된 것이 특징입니다. 각 행과 열에
+1부터 N까지 숫자가 한 번씩만 들어가야 하고, 동시에 인접한 칸들 사이의
+부등호 관계를 모두 만족시켜야 합니다. 이 부등호들이 연결되면서 강력한
+추론 체인이 형성됩니다.
 
+### 게임 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1. **부등식 체인 활용**  
+   예를 들어 A > B > C라면 A는 최소 C+2 이상이어야 합니다. 이런 관계를
+   이용해 각 칸의 후보 숫자를 빠르게 줄일 수 있습니다.  
+2. **극단값 찾기**  
+   A > … > B처럼 긴 체인의 양 끝에 있는 칸은 가장 큰 값/가장 작은 값에
+   가까운 숫자만 들어갈 수 있습니다. 이를 이용해 1이나 최대값 후보를
+   제거해 보세요.  
+3. **행/열 스캔**  
+   스도쿠처럼, 각 행·열에 이미 사용된 숫자를 기준으로 후보를 공격적으로
+   줄여 나갑니다.  
+4. **가정과 모순 활용**  
+   막히는 구간에서는 특정 칸에 임시로 값을 넣어 보고, 부등식이나 행·열
+   규칙을 위반하는 모순이 생기면 그 후보를 버리는 방식으로 추론할 수
+   있습니다.  
+5. **대칭 구조 이용하기**  
+   잘 만든 퍼즐은 부등호 배치가 좌우/상하 대칭인 경우가 많습니다.
+   한쪽에서 찾은 패턴을 반대편에도 적용해 보세요.  
 
-Futoshiki ("not equal") is a Latin‑square logic puzzle like Sudoku but with inequality signs (>, <) between neighboring cells. You must place digits so each row/column contains all numbers exactly once and every inequality is satisfied. The signs create strong chains that power elegant deductions.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 칸을 탭/클릭해 숫자 입력 모드를 열고, 정답 모드/메모 모드를 전환해
+  후보 숫자를 관리할 수 있습니다.  
+- 실행 취소/다시 실행, 힌트 기능을 지원하는 버전도 있습니다.  
 
-1.  **[KO]** Inequality chains: A>B>C means A≥C+2; pencil candidates accordingly.
-2.  **[KO]** Extremes: A>…>B bounds A high and B low; use 1/Max eliminations on chain ends.
-3.  **[KO]** Row/column scans: Apply Latin constraints to prune candidates aggressively.
-4.  **[KO]** Contradiction loops: Assume a value on tight cells; backtrack if an inequality breaks or row/col duplicates.
-5.  **[KO]** Symmetry: Balanced puzzles often have mirrored inequality structures — exploit them.
+### 자주 묻는 질문(FAQ)
 
-### Controls Guide
+- **Q: 막혀서 더 이상 진전이 안 됩니다.**  
+  **A:** 부등식 체인을 실제 수식으로 펼쳐 상하한을 다시 계산해 보세요.
+  예를 들어 5 > □ > 3이라면 가운데 칸은 4만 가능하다는 식입니다. 행·열
+  규칙과 함께 사용하면 강력한 힌트가 됩니다.  
 
-- Tap a cell to enter candidates/values; toggle pencil mode; undo/redo.
+- **Q: 추측이 꼭 필요한가요?**  
+  **A:** 잘 설계된 퍼즐은 논리적으로만 풀 수 있도록 되어 있습니다.
+  다만 난도가 높은 퍼즐에서는 제한적인 가정과 빠른 되돌리기를 활용하는
+  경우도 있습니다.  
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I can’t progress — any tip?
-
-A: Expand inequality chains into explicit bounds (e.g., if 5>□>3 then middle ∈ {4}); combine with row/col hits.
-
-- Q: Are guesses required?
-
-A: Good sets are solvable logically; at worst use controlled assumptions with quick backtrack.
-
-- Q: Difference vs Sudoku?
-
-A: Inequalities add directed constraints, enabling stronger forced moves.
+- **Q: 스도쿠와 어떤 점이 가장 다른가요?**  
+  **A:** 스도쿠는 숫자 중복 금지 규칙에만 의존하지만, Futoshiki는 부등호가
+  방향성을 주기 때문에 훨씬 강력한 강제수를 만들어 낼 수 있습니다.  
 

@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: incredibox-geek-dance-simulator
-title: '[FR] Incredibox Geek Dance Simulator'
+title: Incredibox Geek Dance Simulator
 description: >-
-  [FR] Explore 'Incredibox Geek Dance Simulator,' the fan-made mod celebrating
-  nerd culture with a grid-based interface. This guide details its 8-bit
-  chiptune sound palette and gameplay for creating retro video game loops.
+  Incredibox Geek Dance Simulator célèbre la culture geek avec une interface en
+  grille : sons chiptune 8‑bit, bruitages rétro et outils simples pour composer
+  tes propres boucles de jeu vidéo.
 iframeSrc: 'https://turbowarp.org/904948672/embed'
 thumbnail: /new-images/incredibox-geek-dance-simulator.png
 tags:
@@ -17,55 +17,68 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+*Incredibox Geek Dance Simulator* fait partie de la série de mods « Simulator ». C’est un hommage direct à la **culture geek et nerd**, avec une esthétique inspirée par les jeux rétro, les vieux ordinateurs et le son des puces audio 8‑bit.
 
+Contrairement à Incredibox classique, tu ne fais pas glisser d’icônes sur des personnages : tu interagis avec une **grille de 20 icônes pixelisées**. Chaque icône correspond à une piste chiptune ; en cliquant dessus, tu actives ou désactives son son dans la boucle.
 
-### **Incredibox Geek Dance Simulator Game Introduction**
+À mesure que tu empiles les sons, une barre de progression « LOOP » se remplit en haut de l’écran, te guidant vers le déblocage de bonus audio‑visuels secrets. L’expérience ressemble à un mini séquenceur de musique de jeu rétro.
 
-*Incredibox Geek Dance Simulator* is a fan-made game that is part of the popular "Simulator" series of Incredibox mods. As a tribute to **"geek" and "nerd" culture**, its theme is heavily inspired by retro video games, early computing, and the iconic sounds of the 8-bit era.
+### Stratégies de jeu et conseils
 
-The gameplay is fundamentally different from the official Incredibox series. It utilizes the signature **grid-based interface** of the Simulator mods, where players are presented with a grid of 20 pixelated sound icons. The objective is to create an authentic chiptune track by clicking these icons to activate or deactivate their corresponding sounds.
+1.  **Comprends la grille chiptune**  
+    - **Batterie / percussions** : kicks digitaux, snares bruités, hi‑hats simples — c’est la base rythmique.  
+    - **Basse** : lignes graves en onde carrée ou triangle qui portent l’harmonie.  
+    - **Leads (ondes carrées / dent de scie)** : mélodies aiguës typiques des OST 8‑bit.  
+    - **Effets / bruit** : sons de sauts, tirs, arpeggios rapides, canal de bruit pour des impacts ou ambiances.
 
-As players layer more sounds and experiment with combinations, a progress bar at the top of the screen (labeled "LOOP") fills up, guiding them toward unlocking the mod's secret audio-visual bonuses. The experience is a direct, hands-on approach to composing retro game music.
+2.  **Construis par couches, comme dans un tracker**  
+    Commence par un beat simple, ajoute une basse qui « colle » à la grosse caisse, puis une ou deux mélodies. La magie du chiptune vient de la façon dont ces éléments simples s’emboîtent.
 
-### **Gameplay Strategy & Tips**
+3.  **Remplis la barre LOOP intelligemment**  
+    Certains sons font progresser la barre plus que d’autres. Expérimente différentes combinaisons ; tu seras récompensé lorsque le mod estime que ton mix correspond à une configuration clé.
 
-1.  **[FR]** **Understand the Chiptune Grid**: The 20 icons represent the core channels of a retro sound chip.
-    *   **[FR]** **Drums/Percussion**: Look for icons that provide the digital drum sounds—sharp kicks, noisy snares, and simple hi-hats. These form the rhythmic base.
-    *   **[FR]** **Bass**: These icons will provide the low-frequency melodic lines, often simple square or triangle waves.
-    *   **[FR]** **Lead Melodies (Square/Sawtooth Waves)**: These are the heart of chiptune. Expect to find catchy, monophonic synth leads that are characteristic of classic video game soundtracks.
-    *   **[FR]** **Effects/Noise Channel**: This section includes classic game sound effects, arpeggios, and the static-like sounds from the "noise channel," used for creating complex percussion or atmospheric effects.
+4.  **Crée des variations en togglant**  
+    Profite du clic ON/OFF pour structurer ton morceau : commence par une intro minimaliste (juste la batterie), ajoute progressivement basse et leads, puis retire des éléments pour créer des breaks.
 
-2.  **[FR]** **Build Your Layers Like a Tracker**: Think like an old-school composer. Start with a simple drum beat. Add a bassline that locks in with the kick drum. Then, weave one or two lead melodies on top. The magic of chiptune comes from the interplay of these simple layers.
+### Commandes
 
-3.  **[FR]** **Fill the Loop Bar**: Your goal is to fill the "LOOP" progress bar by activating sounds. Experiment with different combinations, as some may contribute more to the progress bar than others, rewarding you for finding harmonious or intended combinations.
-
-4.  **[FR]** **Create Dynamics by Toggling**: Use the click-on/click-off mechanic to your advantage. You can build up an intro with just a beat, bring in a melody for a "verse," and then add more layers for a "chorus," creating a full song structure within the loop.
-
-### **Controls Guide**
 
 This mod uses the simple, click-based interface of the Simulator series.
+- **Activer / désactiver un son** : clique sur une icône de la grille ; allumée = active, éteinte = coupée.  
+- **Commandes principales** (en haut) : boutons Lecture / Pause, Enregistrer, Réinitialiser, selon l’hébergeur.
 
-*   **[FR]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will light up, adding its sound to the loop. Clicking it again will turn it off.
-*   **[FR]** **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
-*   **[FR]** **Main Controls (Top of Screen)**:
-    *   **[FR]** **Play/Pause Button**: Toggles the entire loop on or off.
-    *   **[FR]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[FR]** **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
 
-### **Frequently Asked Questions (FAQ)**
+- **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
 
-**1. Is this an official Incredibox game?**
+    - **Record Button**: Starts and stops the recording of your mix.
 
-No. The "Simulator" series, including *Geek Dance Simulator*, are **fan-made mods** and are not affiliated with the official Incredibox creators, So Far So Good.
+    - **Play/Pause Button**: Toggles the entire loop on or off.
 
-**2. Why is this different from the other "Geek Dance" mod?**
+    - **Main Controls (Top of Screen)**:
+### Foire aux questions (FAQ)
 
-This is a crucial distinction. The Incredibox modding community has created at least two popular mods with this theme.
-*   **[FR]** **Geek Dance (Drag-and-Drop)**: Features characters on screen that you drag icons onto.
-*   **[FR]** **Geek Dance Simulator (Grid-Based)**: This version, which uses a grid of icons you click to activate, offering a different gameplay experience.
+- **Q : Est‑ce un jeu Incredibox officiel ?**  
+  R : Non, c’est un mod créé par la communauté et non par les développeurs de la série.
 
-**3. Where can I play this mod?**
+- **Q : En quoi diffère‑t‑il de l’autre mod « Geek Dance » ?**  
+  R : *Geek Dance* classique utilise des personnages et du drag‑and‑drop, tandis que *Geek Dance Simulator* propose une interface en grille cliquable façon séquenceur.
+
+- **Q : Où puis‑je y jouer ?**  
+  R : Principalement sur des sites de jeux ou via des projets hébergés sur Scratch / TurboWarp, souvent partagés dans la communauté de modding Incredibox.
+
+
 
 You will not find it on official platforms. These mods are typically shared on gaming sites like **playfiddlebops.com**, modding communities like **scratch**, or showcased on YouTube with links to play them in a web browser.
 
+**3. Where can I play this mod?**
+
+- **Geek Dance Simulator (Grid-Based)**: This version, which uses a grid of icons you click to activate, offering a different gameplay experience.
+
+- **Geek Dance (Drag-and-Drop)**: Features characters on screen that you drag icons onto.
+
+This is a crucial distinction. The Incredibox modding community has created at least two popular mods with this theme.
+
+
+You will not find it on official platforms. These mods are typically shared on gaming sites like **playfiddlebops.com**, modding communities like **scratch**, or showcased on YouTube with links to play them in a web browser.

@@ -1,33 +1,36 @@
 ---
+title: "Daily Crossword デイリー・クロスワード"
+description: "「Daily Crossword」で毎日新しいパズルに挑戦。カギを解き、文字を埋めて、脳の活性化を習慣にしよう。"
+iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/"
+thumbnail: "/new-images/daily-crossword.jpg"
+urlstr: "daily-crossword"
+score: "4.4/5  (1181 votes)"
+tags: ["word", "puzzle"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: daily-crossword
-title: '[JA TRANSLATION NEEDED] Daily Crossword'
-description: >-
-  [JA TRANSLATION NEEDED] Daily Crossword delivers a fresh crossword each day:
-  solve across and down clues to fill the grid.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
-thumbnail: /new-images/daily-crossword.jpg
-tags:
-  - word
-  - puzzle
-score: 4.4/5  (1181 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Daily Crossword（デイリー・クロスワード）*は、日替わりで新しい問題が配信されるクロスワードパズルゲームです。基本的なアメリカンスタイルのルール（すべての文字が交差する）に基づいています。
+タイマー機能、ヒント機能、正解チェック機能など、デジタルならではの便利なツールも搭載されており、初心者から上級者まで楽しめます。
 
-### Overview
-[JA TRANSLATION NEEDED] Daily Crossword provides a new crossword each day with familiar American‑style rules: fill Across and Down answers so all letters cross‑check. Many hosts include timers, clue lists, and tools to check or reveal entries. 
+### 遊び方
 
-### How to Play
-- Select a clue or cell and type letters to fill the entry; arrow keys move the cursor.  
-- Use crossings to confirm uncertain answers; return to long entries later.  
-- Daily streaks and leaderboards may be supported depending on the host. 
+*   **入力:** マスまたはヒントを選択し、キーボードで英単語を入力します。
+*   **確認:** 交差する部分の手がかりを利用して、確実な答えから埋めていきましょう。
+*   **継続:** ホストサイトによっては、毎日の継続（ストリーク）記録やリーダーボード機能がある場合もあります。
 
-### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab switches direction or advances (site‑dependent). 
+### 操作ガイド
 
-### Tips and Strategies
-- Start with short/easy clues, then expand using crossings.  
-- Use Check tools sparingly to avoid time penalties if a host tracks time. 
+*   **文字:** キーボード入力（A-Z）
+*   **ナビゲーション:** 矢印キーで移動、BackSpaceで削除
+*   **切り替え:** EnterまたはTabキーで入力方向の切り替えや次のヒントへの移動
 
+### 攻略のヒント
+
+*   **まずは短い単語から:** 3文字や4文字の単語は推測しやすく、ヒントになりやすいです。
+*   **ツールの使用:** 「Check（チェック）」や「Reveal（答えを見る）」ツールを使うとペナルティ（タイム加算など）がある場合が多いので、ハイスコアを目指すなら慎重に使いましょう。
+
+※ このゲームは英語のクロスワードです。英単語の知識が必要になります。

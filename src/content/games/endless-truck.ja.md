@@ -1,80 +1,57 @@
 ---
-locale: ja
-urlstr: endless-truck
-title: '[JA TRANSLATION NEEDED] Endless Truck'
-description: >-
-  [JA TRANSLATION NEEDED] Endless Truck is a stunt‑runner — manage momentum,
-  land cleanly, and chain boosts while collecting cash and upgrades.
+title: Endless Truck エンドレス・トラック
+description: 「Endless Truck」はスタント・ランナー。勢いを管理し、きれいに着地し、ブーストを繋げながら現金とアップグレードを集めよう。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/endless-truck.png
+urlstr: endless-truck
+score: 3.9/5  (1734 votes)
 tags:
   - car
   - driving
   - action
-score: 3.9/5  (1734 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Endless Truck（エンドレス・トラック）*は、スピードコントロールと着地角度に焦点を当てた横スクロール型スタントランナーです。
+丘、ランプ、隙間は、スムーズなアクセルワークとコントロールされた宙返りに報いてくれます。雑な着地はスピードを失うか、クラッシュを招きます。現金の収集とミッション達成で、エンジン、サスペンション、ブーストなどのアップグレードをアンロックし、最高速度と安定性を向上させましょう。
 
-[JA TRANSLATION NEEDED] Endless Truck is a side‑scrolling stunt runner focused on speed control and landing angles. Hills, ramps, and gaps reward smooth throttle and controlled flips; sloppy landings bleed speed or crash. Cash pickups and missions unlock upgrades (engine, suspension, boost) that raise top speed and stability.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **平らに着地:** タイヤを水平にして着地することで、スピードを維持しバウンドを避けます。
+2.  **アクセル調整:** 頂上を越える時はアクセルを小刻みに調整して、機首下げ（ノーズダイブ）を防ぎましょう。
+3.  **宙返りの規律:** 高度と軌道が安全な時だけ宙返りしましょう。1回のクリーンな宙返りは、2回のリスキーな宙返りに勝ります。
+4.  **賢くブースト:** ニトロは空中ではなく、平地の出口で使いましょう。クリーンな着地後にブーストを重ねると最長の走行が得られます。
+5.  **アップグレード順序:** まずサスペンション/タイヤで制御性を上げ、安定してからエンジン/ブーストを強化します。
 
-[JA TRANSLATION NEEDED] 1.  Land flat: Touch down with wheels level to retain speed and avoid bounce.
-[JA TRANSLATION NEEDED] 2.  Throttle feathering: Pulse throttle over crests to prevent nose dives.
-[JA TRANSLATION NEEDED] 3.  Flip discipline: Only flip when altitude and arc are safe; one clean flip beats two risky ones.
-[JA TRANSLATION NEEDED] 4.  Boost wisely: Use nitro on flat exits, not mid‑air; stacking boosts after clean landings yields longest runs.
-[JA TRANSLATION NEEDED] 5.  Upgrade order: Suspension/tires for control, then engine/boost as you stabilize.
+### 操作ガイド
 
-### Controls Guide
+*   **加速/ブレーキ:** W/S または 上下矢印
+*   **傾き:** A/D または 左右矢印
+*   **ブースト:** Shift または Space（バージョンにより異なります）
 
-- Accelerate/Brake: W/S or Up/Down.  Tilt: A/D or Left/Right.  Boost: Shift/Space (varies).
+### 上級者向けヒント
 
-### Advanced Tips
+*   **ポンピング:** 落下前にブレーキをタップして機首を下げ、着地時に加速すると追加のトラクションが得られます。
+*   **ミッションルート:** 1回の走行で複数のミッションを完了できるルートを選びましょう（例：宙返り＋距離）。
+*   **クラッシュ回復:** 角度が悪い場合、アクセルを切って優しく傾けて着地を救いましょう。
 
-- Pumping: Tap brake before a drop to lower the nose, then accelerate on landing for extra traction.
-- Mission routing: Pick routes that complete multiple missions in one run (e.g., flips + distance).
-- Crash recovery: If angle is bad, cut throttle and gently tilt to save the landing.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: いつも着地で転倒してしまいます。**
 
-- Q: I always wipe out on landings — any fix?
-  
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Reduce flips, land with wheels level, and ease throttle until suspension settles.
-
-- Q: Best upgrade first?
-  
-
-### Advanced Tips
-[JA TRANSLATION NEEDED]   A: Suspension/tires for handling; speed after stability.
-
-- Q: When should I use boost?
-  
+A: Reduce flips, land with wheels level, and ease throttle until suspension settles.
+- **A:** 宙返りを減らし、タイヤを水平にして着地し、サスペンションが落ち着くまでアクセルを緩めましょう。
 
 
-
-
-- Q: I always wipe out on landings — any fix?
-### よくある質問（FAQ）
-- Crash recovery: If angle is bad, cut throttle and gently tilt to save the landing.
-
-### よくある質問（FAQ）
-- Mission routing: Pick routes that complete multiple missions in one run (e.g., flips + distance).
-[JA TRANSLATION NEEDED]   A: On flat ground after clean landings to extend speed without losing control.
-
-
-
-
-
-
-A: On flat ground after clean landings to extend speed without losing control.
-- Q: When should I use boost?
 A: Suspension/tires for handling; speed after stability.
-- Q: Best upgrade first?
-
+*   **Q: 最初のアップグレードは何がいい？**
 
 A: On flat ground after clean landings to extend speed without losing control.
+    *   **A:** サスペンション/タイヤでハンドリングを改善。安定性の後にスピードです。
+
+*   **Q: ブーストはいつ使うべき？**
+    *   **A:** クリーンな着地後の平地で使うと、制御を失わずにスピードを延長できます。

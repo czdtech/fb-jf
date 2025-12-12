@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: basketball-master-2
-title: '[FR] Basketball Master 2'
-description: >-
-  [FR] Show off your basketball skills in Basketball Master 2. Aim, shoot, and
-  score in this fun and challenging basketball game.
-iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
+title: "Basketball Master 2"
+description: "Basketball Master 2 est un jeu de tir au panier où tu vises, ajustes la puissance et brises parfois des obstacles en bois ou en glace pour faire rentrer la balle."
+iframeSrc: "https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/"
 thumbnail: /new-images/basketball-master-2.png
 tags:
   - sports
@@ -15,28 +13,28 @@ score: 4.5/5 (2345 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Basketball Master 2* est un jeu de tir au panier basé sur la physique. Tu dois viser et doser la puissance de ton tir pour faire passer la balle dans le panier, parfois en contournant des obstacles ou en les brisant à coups de tirs puissants.
 
+### Guide de jeu
 
+1. **Vise calmement**  
+   Fais glisser pour tracer la trajectoire, puis relâche quand l’arc te semble correct. Prends en compte la distance et la hauteur du panier.
 
-### Detailed Game Introduction
+2. **Utilise la puissance pour casser les obstacles**  
+   Certains niveaux comportent des blocs de bois ou de glace. Un tir plus fort permet de les briser avant que la balle n’atteigne le panier.
 
-Basketball Master 2 is a sports game focused on training basketball shooting skills. The core gameplay involves tapping and dragging to aim your shot to get the ball into the basket. You can even break through wood and ice blocks by shooting the ball with more power.
+3. **Prends le temps de sentir la physique**  
+   Plus tu joues, mieux tu évalues la courbe pour une distance donnée. Essaie plusieurs fois sur les premiers niveaux pour t’habituer à la sensation des tirs.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Aim and Shoot:** Tap and drag to control the aim and power of your shots.
-2.  **[FR]** **Break Obstacles:** Use more power to break through wood and ice blocks that may be in your way.
-3.  **[FR]** **Practice:** The key to mastering the game is to practice your shots and get a feel for the physics of the game.
+- **Souris / tactile :** touche et fais glisser pour viser et régler la puissance, puis relâche pour tirer.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Mouse/Touch:** Tap and drag to aim and shoot the ball.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[FR]** **Q: How do I get more points?**
-    *   **[FR]** **A:** Making consecutive shots and breaking obstacles can award you with more points.
-*   **[FR]** **Q: What is the best way to shoot?**
-    *   **[FR]** **A:** The best way to shoot depends on the level. Sometimes you need a high arc to get over obstacles, and other times you need a powerful shot to break through them.
-
+*   **Q : Comment marquer plus de points ?**
+    *   **R :** Enchaîner les tirs réussis et détruire certains obstacles dans les niveaux te donne souvent des points bonus.
+*   **Q : Quelle est la meilleure manière de tirer ?**
+    *   **R :** Ça dépend du niveau. Un arc haut permet de passer par‑dessus les obstacles, alors qu’un tir plus tendu et puissant peut servir à les casser.

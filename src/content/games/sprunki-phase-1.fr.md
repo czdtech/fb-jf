@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: sprunki-phase-1
-title: '[FR] Sprunki Phase 1 - Play Sprunki Phase 1 Online'
+title: Sprunki Phase 1 - Jouer à Sprunki Phase 1 en ligne
 description: >-
-  [FR] Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe.
-  It offers a simple, intuitive way to experience the joy of music creation and
-  see what this vibrant, creative world was like right at the start.
+  Sprunki Phase 1 est la porte d’entrée idéale dans l’univers Sprunki : une
+  version simple, intuitive et pleine de charme qui te fait remonter aux
+  origines de la série.
 iframeSrc: 'https://turbowarp.org/1127823859/embed'
 thumbnail: /sprunki-phase-1.png
 tags:
@@ -13,35 +13,53 @@ tags:
 score: 4.3/5  (96 votes)
 ---
 
+Tu te demandes où a commencé le voyage musical Sprunki ? La réponse, c’est
+Sprunki Phase 1. Ce Mod te ramène aux débuts de l’univers : personnages
+emblématiques, interface colorée et plaisir de création pure.
 
+### Qu’a de spécial Sprunki Phase 1 ?
 
-Ever wondered where the totally addictive Sprunki musical journey first kicked off? That's right! It all started with Sprunki Phase 1! This mod takes you back to the very beginning, letting you experience the original, vibrant charm of the Sprunki universe built on the classic Incredibox gameplay foundation.
+Sprunki Phase 1 garde tout ce qui fait la force d’Incredibox/Sprunki, mais avec
+un ton très « première génération » :
 
-### What's So Special About Sprunki Phase 1 Anyway?
+- une galerie de personnages attachants, entre artistes souriants et
+  musiciens robotiques 🤖 ;
+- des beats simples mais efficaces ;
+- des mélodies accrocheuses et faciles à assembler.
 
-Sprunki Phase 1 isn't just a copy-paste job; it keeps the core fun alive while injecting fresh energy. Picture this: you get to meet a whole new crew of characters, like that always-cheerful performer or the cool robotic musician 🤖. Each one brings their unique musical style and sound to the table. You can dive into experimenting with lively beats, catchy melodies, and playful rhythms, really capturing that pure joy from the Sprunki universe's early days.
+Les décors sont colorés, les personnages travaillés et l’ensemble reste clair
+pour que toute ton attention se concentre sur la création de musique.
 
-Beyond the sound, Sprunki Phase 1 looks awesome too. The bold background designs and detailed characters make the whole interface eye-catching without distracting you from the music-making magic. Even better, you can deck out your characters with all sorts of hats 🎩, props, and accessories to create a uniquely stylish band!
+### Comment jouer à Sprunki Phase 1 ?
 
-### How Do You Rock Sprunki Phase 1?
+- **Fais venir ton équipe :** choisis les personnages qui te plaisent et
+  glisse‑les sur la scène.
+- **Mélange les sons :** chaque avatar apporte un beat, une harmonie ou un
+  effet. Combine‑les pour trouver le groove qui te plaît.
+- **Personnalise le style :** certains Mods ou variantes autorisent chapeaux,
 
-It seriously couldn't be easier!
-
-- **Drag Your Crew:** Pick the characters you vibe with from the lineup and drag 'em onto the stage.
-- **Mix Those Sounds:** Each character drops a different beat, harmony, or rhythm. Go wild experimenting with combinations until you find a sound you love!
-- **Style Your Band:** Don't forget to add some accessories to make your characters look extra cool while they perform.
 - **Easy Controls:** Just use your mouse to drag the characters around. If you want a fresh start, there might be optional keyboard shortcuts to clear the stage too.
 
+- **Style Your Band:** Don't forget to add some accessories to make your characters look extra cool while they perform.
+  accessoires ou petits détails cosmétiques pour ton groupe.
 
-### Why Absolutely Give Sprunki Phase 1 a Go?
+### Pourquoi essayer Sprunki Phase 1 ?
 
-- **Where It All Began:** This is the origin story, letting you experience the pure, unfiltered fun of early Sprunki creation.
-- **Simple & Super Fun:** The controls are incredibly easy, making it perfect for everyone, whether you're a music pro or just starting out.
-- **Spark Your Creativity:** It encourages you to think differently and create something totally new every single time you play.
-- **An Audio-Visual Treat:** Not only does it sound great, but the engaging animations and bright colors make the whole creation process a blast.
+- **Origines de Sprunki :** parfait pour comprendre comment la série a commencé.
+- **Gameplay ultra simple :** idéal pour les débutants comme pour les joueurs
+  expérimentés qui veulent juste se détendre.
+- **Boost de créativité :** encourage l’expérimentation et les combinaisons
+  originales.
+- **Spectacle audio‑visuel :** animations dynamiques et couleurs vives
+
+
 - **Hidden Goodies:** Play around with different sound combos! You might just unlock secret bonus tracks and exclusive animations!
-
-
 ### Let's Wrap It Up:
 
-Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe. It offers a simple, intuitive way to experience the joy of music creation and see what this vibrant, creative world was like right at the start. Whether you're a longtime Sprunki fan or totally new to the scene, Sprunki Phase 1 guarantees a fantastically fun musical ride. Come on and jump into Sprunki Phase 1, compose your first Sprunki masterpiece with just your fingertips, and share your creations with everyone! 🎧✨
+- **Hidden Goodies:** Play around with different sound combos! You might just unlock secret bonus tracks and exclusive animations!
+  accompagnent tes compositions.
+
+Sprunki Phase 1, c’est l’entrée parfaite dans le monde Sprunki. Compose ton
+premier morceau, partage‑le si possible, et profite de la magie de la
+création musicale au bout des doigts. 🎧✨
+

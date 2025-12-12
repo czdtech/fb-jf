@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: lake-jump
-title: '[ES] Lake Jump'
+title: 'Lake Jump'
 description: >-
-  [ES] Lake Jump is a one‑tap timing game — hop across platforms, avoid falls,
-  and chain perfect jumps.
+  Lake Jump es un juego de un solo toque basado en el tiempo: salta de
+  plataforma en plataforma, evita las caídas al agua y encadena saltos
+  perfectos.
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
 thumbnail: /new-images/lake-jump.png
 tags:
@@ -15,29 +16,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+## Guía del juego
 
-## English Guide
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Lake Jump es un desafío minimalista de saltos temporizados. Toca en el momento
+justo para caer sobre plataformas en movimiento o separadas, mantener el ritmo y
+acumular rachas sin caer al lago.
 
-Lake Jump is a minimalist tap‑to‑jump challenge. Time taps to land on moving or spaced platforms, maintain rhythm, and rack up streaks without falling in the water.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  Cuenta los tiempos: usa un ritmo constante para interiorizar el momento del
+    salto.
+2.  Apunta al centro: aterrizar en la parte central de cada plataforma te deja
+    más margen para corregir.
+3.  Observa la velocidad: las plataformas rápidas requieren que pulses un poco
+    antes; adáptate enseguida cuando cambien.
+4.  No seas codicioso: ignora monedas o extras arriesgados cuando la alineación
+    no sea buena.
+5.  Reinicia con calma: después de fallar, vuelve a encontrar tu ritmo antes de
+    volver a buscar grandes rachas.
 
-1.  **[ES]** Count beats: Use a steady rhythm for predictable jump timing.
-2.  **[ES]** Aim for centers: Landing in the middle of platforms gives more correction time.
-3.  **[ES]** Watch platform speed: Faster cycles require earlier taps; adjust quickly.
-4.  **[ES]** Skip greed: Ignore risky coins when alignment is poor.
-5.  **[ES]** Reset calmly: After a miss, re‑establish rhythm before chasing streaks.
+### Guía de controles
 
-### Controls Guide
+- Salto: toca o haz clic en el momento adecuado.  
+- Pausa/Reintentar: botones en pantalla.
 
-- Jump: Tap/Click at the right moment.
-- Pause/Retry: On‑screen buttons.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: Siempre salto demasiado lejos, ¿por qué?  
+  A: Probablemente estás pulsando demasiado pronto; retrasa un poco el toque y
+  practica un ritmo estable.
 
-- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
-- Endless? Typically yes; set personal bests.
+- Q: ¿Hay potenciadores en el juego?  
+  A: Algunos modos incluyen cámara lenta o plataformas más grandes de forma
+  temporal.
+
+- Q: ¿Es un modo infinito?  
+  A: Normalmente sí; el objetivo es superar tus mejores marcas personales.
 

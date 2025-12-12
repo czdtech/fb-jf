@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: blocks-puzzle
-title: '[DE] Blocks Puzzle'
+title: "Blocks Puzzle"
 description: >-
-  [DE] Blocks Puzzle is a classic and addictive block puzzle game. Your goal is
-  to fit blocks of different shapes into a 10x10 grid.
+  Blocks Puzzle ist ein klassisches, süchtig machendes Blockpuzzle. Deine
+  Aufgabe ist es, unterschiedlich geformte Blöcke in ein 10×10‑Raster zu
+  setzen, Linien zu füllen und Platz zu schaffen.
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/blocks-puzzle.jpg
 tags:
@@ -16,34 +17,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Blocks Puzzle ist ein schlichtes, aber anspruchsvolles 10×10‑Puzzlespiel.
+Du platzierst verschiedene Blockformen auf einem Raster. Immer wenn eine
+horizontale Reihe oder vertikale Spalte vollständig gefüllt ist, wird sie
+geleert, bringt Punkte und schafft neuen Platz. Die Partie endet, sobald keiner
+ der drei aktuellen Blöcke mehr auf das Feld passt – also lautet die Devise:
+Platz sparen und vorausschauend denken.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Blocks Puzzle is a classic and engaging puzzle game that challenges your spatial reasoning. The objective is simple: fit variously shaped blocks onto a 10x10 grid. When you complete a full row or column, the line clears, freeing up space and earning you points. The game ends when you can no longer place any of the given blocks on the grid. With no time limit, you can think strategically to achieve the highest score.
+1.  **Züge vorausplanen:** Schau dir immer alle drei verfügbaren Blöcke an.
+    Lege nicht nur den offensichtlich passenden, sondern überlege, wie die
+    beiden anderen danach noch unterzubringen sind.
+2.  **Linien räumen priorisieren:** Halte das Feld möglichst frei. Nimm
+    Gelegenheiten, eine Linie zu leeren, auch dann wahr, wenn du dafür einen
+    scheinbar "schönen" Platz für einen einzelnen Block aufgibst.
+3.  **Auf Kombos spielen:** Versuche, das Board so vorzubereiten, dass ein
+    Block mehrere Reihen oder Spalten gleichzeitig leert – das bringt viele
+    Punkte auf einmal.
+4.  **Mitte nicht zustopfen:** Fülle nicht zu früh die Mitte zu. Beginne lieber
+    an Kanten und Ecken und lass dir in der Mitte Platz für große oder
+    unhandliche Formen.
+5.  **Große Formen im Auge behalten:** 3×3‑Quadrate oder lange Stäbe brauchen
+    viel Raum. Nutze sie möglichst früh oder halte bewusst eine passende Lücke
+    frei.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Plan Ahead:** Look at the three blocks you are given. Before placing one, consider how the other two might fit and how your move will affect the board's future state.
-2.  **[DE]** **Prioritize Clearing Lines:** Your main goal is to keep the board as clear as possible. Always look for opportunities to clear lines, even if it means sacrificing a seemingly good spot for a single block.
-3.  **[DE]** **Create Combos:** Clearing multiple lines with a single block placement will grant you a combo bonus and a significantly higher score. Try to set up the board to enable these multi-line clears.
-4.  **[DE]** **Don't Clog the Center:** It's tempting to fill the middle of the board first, but this can quickly lead to a clogged grid. Try to build from the corners and edges, keeping the center open for larger or more awkward pieces.
-5.  **[DE]** **Manage Difficult Shapes:** Some pieces, like the 3x3 square or the long straight line, require a lot of space. Try to use them as soon as you get them or ensure you have a dedicated space ready for them. Leaving them for later can be risky.
+- **Drag & Drop:** Klicke/tippe einen Block unten an und ziehe ihn auf das
+  Raster.
+- **Platzierung:** Lasse die Taste los, um die Form an der markierten Position
+  abzulegen.
+- **Keine Rotation:** Blöcke können nicht gedreht werden und müssen in ihrer
+  Standardausrichtung verwendet werden.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Drag and Drop:** Use your mouse to click and drag a block from the selection area onto the grid.
-*   **[DE]** **Placement:** Release the mouse button to place the block in the desired position.
-*   **[DE]** **No Rotation:** In this version of the game, blocks cannot be rotated. You must use them in the orientation they are given.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: Can I rotate the blocks?**
-    *   **[DE]** **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.
-
-*   **[DE]** **Q: How do I get a higher score?**
-    *   **[DE]** **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.
-
-*   **[DE]** **Q: What happens when I run out of moves?**
-    *   **[DE]** **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.
-
+-   **F: Kann ich die Blöcke drehen?**
+    -   **A:** Nein. Du arbeitest mit festen Formen, was die Planung anspruchsvoller macht.
+-   **F: Wie bekomme ich mehr Punkte?**
+    -   **A:** Setze auf Kombos – mehrere Linien mit einem Block zu räumen bringt große Punkteschübe.
+-   **F: Was passiert, wenn keine Züge mehr möglich sind?**
+    -   **A:** Sobald keiner der drei Blöcke mehr passt, endet die Partie und dein Endscore wird gewertet.

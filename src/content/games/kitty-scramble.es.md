@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: kitty-scramble
-title: '[ES] Kitty Scramble'
+title: "Kitty Scramble"
 description: >-
-  [ES] Kitty Scramble is a cozy word‑hunt — swipe across letter grids, find
-  themed words, and clear boards with pattern recognition.
+  Kitty Scramble es una sopa de letras acogedora: traza palabras en rejillas de
+  letras, encuentra términos del tema y limpia el tablero gracias al
+  reconocimiento de patrones.
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/kitty-scramble.png
 tags:
@@ -17,35 +18,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Kitty Scramble presenta rejillas de letras con temas concretos (animales,
+comida, lugares, etc.). Desliza el dedo o el ratón por letras contiguas en
+cualquier dirección para formar las palabras objetivo; las palabras extra te dan
+monedas. Los tableros suben de dificultad con vocabulario más largo, rutas en
+ diagonal y palabras que se solapan, lo que exige flexibilidad al trazar
+caminos y un buen vocabulario.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Kitty Scramble presents themed letter grids (animals, foods, places). Swipe contiguous letters in any direction to form target words; extra words grant coins. Boards escalate with longer words, diagonal paths, and overlapping targets that require flexible pathing and good vocabulary.
+1.  **Escanea el tema:** antes de empezar a trazar, piensa en una lista mental
+    de palabras probables relacionadas con el tema.
+2.  **Anclas de patrón:** busca combinaciones frecuentes de letras (p. ej., "TH",
+    "ING", "EST" en inglés) para iniciar rutas; en español, fíjate en "AR",
+    "ción", "que".
+3.  **Gestiona solapamientos:** si una palabra bloquea otra, intenta encontrar
+    una ruta alternativa usando diagonales o caminos en zig‑zag.
+4.  **Economía de bonos:** aprovecha las palabras extra al principio para ganar
+    monedas y guarda las pistas para los tableros más avanzados.
+5.  **Barrido sistemático:** recorre primero filas y luego columnas (o viceversa)
+    para no pasar por alto combinaciones obvias.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Theme scan: Pre‑list likely words from the theme before swiping.
-2.  **[ES]** Pattern anchors: Look for repeated bigrams/trigrams (TH, ING, EST) to seed paths.
-3.  **[ES]** Overlaps: When a word blocks another, find an alternate route using diagonals.
-4.  **[ES]** Bonus economy: Bank extra words early to save hints for late boards.
-5.  **[ES]** Systematic sweep: Scan rows then columns to avoid misses.
+- Arrastra sobre las letras para formar una palabra y suelta para enviarla.
+- Usa las pistas con moderación; suelen ser limitadas.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag across letters to form words; release to submit; use hints sparingly.
+*   **P: Veo la palabra pero no me deja marcarla, ¿por qué?**  
+    **R:** Las letras quizá no sean contiguas; intenta trazarla en diagonal o
+    con un recorrido en zig‑zag, siempre que el juego lo permita.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Valen los plurales?**  
+    **R:** Normalmente sí, salvo que la lista de objetivos especifique lo
+    contrario.
 
-- Q: I see the word but can’t draw it — why?
-
-A: The letters may not be contiguous; route diagonally or in a zig‑zag where allowed.
-
-- Q: Are plurals allowed?
-
-A: Usually yes unless excluded by the list.
-
-- Q: Can I replay for coins?
-
-A: Yes — farm early boards for extra hints.
-
+*   **P: ¿Puedo repetir niveles para conseguir más monedas?**  
+    **R:** En muchas versiones puedes rejugar tableros fáciles para farmear
+    monedas y conseguir más pistas.

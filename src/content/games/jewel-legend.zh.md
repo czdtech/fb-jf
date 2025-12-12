@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-legend
-title: '[ZH TRANSLATION NEEDED] Jewel Legend'
-description: >-
-  [ZH TRANSLATION NEEDED] Become a Jewel Legend in this dazzling match-3
-  adventure. Swap and match glittering gems to create explosive combos and solve
-  hundreds of challenging puzzles.
+title: 《Jewel Legend》宝石传奇
+description: 在《Jewel Legend》的绚丽宝石世界中开启三消冒险，通过交换宝石制造爆炸连锁，完成数百个各具目标的谜题关卡，成为真正的宝石传奇。
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
 thumbnail: /new-images/jewel-legend.png
 tags:
@@ -18,33 +15,33 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jewel Legend is a vibrant and highly addictive match-3 puzzle game set in a world filled with precious gems. Players embark on an epic adventure across hundreds of levels, solving puzzles by swapping and matching three or more jewels of the same color. The game is known for its colorful graphics, satisfying chain reactions, and a wide variety of level objectives that keep the gameplay fresh and engaging. Creating special gems through clever matches is crucial to overcoming the game's most difficult challenges.
+《Jewel Legend》是一款色彩鲜艳、极具黏性的三消解谜游戏，舞台是一片遍布珍贵宝石的奇幻大陆。你将沿着关卡地图一路推进，通过交换相邻宝石让三颗及以上同色连成一线完成消除。游戏以绚烂的视觉效果和爽快的连锁反应著称，同时配合各种各样的关卡目标，让玩法不断变化。通过巧妙布局生成特殊宝石，是攻克高难挑战的关键。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Create Special Gems:** The key to success is to think beyond simple match-3s. Always be on the lookout for opportunities to create powerful special gems:
-    * [ZH TRANSLATION NEEDED] **Match 4 Gems:** Creates a Lightning Jewel that clears an entire row or column.
-    * [ZH TRANSLATION NEEDED] **Match 5 Gems (L or T Shape):** Creates a Bomb Jewel that explodes, destroying all surrounding gems.
-    * [ZH TRANSLATION NEEDED] **Match 5 Gems (in a line):** Creates a powerful Color Jewel that can clear all gems of a single color from the board.
-2.  [ZH TRANSLATION NEEDED] **Combine Boosters for Maximum Impact:** Don't just use your special gems; combine them! Swapping two special gems next to each other results in a massive board-clearing effect. For example, swapping a Bomb with a Lightning Jewel clears three rows/columns, and swapping two Color Jewels clears every single gem on the board.
-3.  [ZH TRANSLATION NEEDED] **Plan Your Moves:** You only have a limited number of moves for each level. Before making a swap, look at the entire board and the level objective. Prioritize matches that will help you achieve the goal, such as breaking frozen tiles or dropping special items.
-4.  [ZH TRANSLATION NEEDED] **Anticipate Cascades:** Making matches at the bottom of the board is often a good strategy. This allows a large number of new gems to fall into place, increasing the chance of setting off a chain reaction (cascade) of automatic matches, which can clear a large portion of the board without using any extra moves.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **熟练制造特殊宝石**：想要通关困难关卡，必须善用特殊宝石而不是只做普通三连：  
+    *   **4 连宝石**：生成闪电宝石，可清除一整行或一整列。  
+    *   **“L / T 形”5 连**：生成炸弹宝石，会以自己为中心爆炸，清除周围大片区域。  
+    *   **“直线”5 连**：生成彩色宝石（Color Jewel），与任意颜色交换即可清除全盘所有该颜色宝石。  
+2.  **组合道具威力最大**：不要急着单独用掉每一个特殊宝石，把两个特殊宝石挨在一起交换，往往能产生成倍的效果。例如炸弹 + 闪电可以同时清除多行多列，两颗彩色宝石互换则几乎能瞬间清空整盘。  
+3.  **在有限步数中围绕目标行棋**：每关都有指定目标，如打碎冰块、解锁锁链宝石或将特殊道具运送到底部。行动前先确认目标，将步数集中投入到相关区域，而不是一味追求高分。  
+4.  **善用底部连锁**：优先在棋盘底部制造消除，不仅更容易让上方宝石大幅度下落，还能触发多轮连锁，用更少的步数完成更多工作。  
 
-[ZH TRANSLATION NEEDED] The game is controlled with simple touch or mouse gestures.
+### 操作说明
 
-*   **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
 
-### Frequently Asked Questions (FAQ)
+The game is controlled with simple touch or mouse gestures.
+- 使用鼠标或触屏点击并拖动宝石，与相邻宝石互换位置。只有在交换后会形成有效三消（或更长连线）时，动作才会被允许并结算。  
 
-*   **Q: How do I break the ice or chains on the jewels?**
-     *   **A:** To break ice or chains, you must make a match that includes the frozen or chained jewel. Sometimes it takes more than one match to fully release a jewel.
+### 常见问题（FAQ）
 
-*   **Q: What is the most powerful combination in the game?**
-     *   **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
+*   **Q: 如何打破冰块或锁链？**  
+    *   **A:** 只要让被冰封或被锁住的宝石参与到一次三消中，就能对其造成“解锁”进度，有些障碍可能需要多次消除才能完全破除。  
 
-*   **Q: I'm out of moves, what now?**
-     *   **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
+*   **Q: 游戏里最强的组合是什么？**  
+    *   **A:** 理论上两颗彩色宝石互相交换的效果最强，可以直接消除全盘所有宝石，是应对高难度关卡的终极手段。  
 
+*   **Q: 步数用完但目标还没完成怎么办？**  
+    *   **A:** 在步数用尽前未达成目标就会判定失败并消耗一条生命。你可以选择等待生命恢复后重试，或在有相关机制时通过游戏内方式获取额外生命。

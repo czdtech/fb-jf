@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: whack-your-boss
-title: '[KO] Whack Your Boss'
+title: Whack Your Boss 왝 유어 보스
 description: >-
-  [KO] Unleash your office frustrations in Whack Your Boss, a darkly humorous
-  interactive game! Discover over a dozen creative and comical ways to 'whack'
-  your annoying boss using everyday office items. Click on objects to trigger
-  hilarious animations and find all the secret methods.
+  사무실에서 쌓인 스트레스를 블랙 코미디로 풀어내는 인터랙티브 게임입니다. 사무실 곳곳의 물건을 클릭해 짜증 나는 상사를 "처리"하는
+  각양각색의 연출을 감상하며, 숨겨진 모든 방법을 찾아보세요.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/whack-your-boss.jpg
 tags:
@@ -18,34 +16,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+Whack Your Boss는 사무실에서 상사에게 느끼는 답답함과 분노를 과장된 블랙 코미디로 풀어내는
+인터랙티브 애니메이션 게임입니다. 화면에는 평범해 보이는 사무실 풍경이 펼쳐져 있고, 플레이어는
+책상 위의 물건, 벽, 천장 등 주변 사물들을 클릭해 상사를 "처리"하는 다양한 연출을 찾아내야 합니다.
 
-Whack Your Boss is a popular and darkly humorous interactive animation game designed to let players vent their office frustrations in a comical way. The game presents a static office scene filled with various objects. Your goal is to click on these objects to discover different, often over-the-top and hilarious, animations of "whacking" your boss.
+실제 폭력을 조장하기 위한 게임이 아니라, 과장된 카툰 연출을 통해 스트레스를 웃음으로 승화시키는
+일종의 풍자 작품에 가깝습니다.
 
-### Gameplay Guide
+### 게임 플레이 가이드
 
-The gameplay is simple:
-- **Explore:** Look around the office environment for interactive objects.
-- **Click:** Click on an object. If it's a valid "whack" item, an animation will play showing a unique way to deal with the boss.
-- **Discover:** The main challenge and fun come from finding all the hidden ways to "whack" the boss. There are usually many methods to uncover.
+- **탐색**: 사무실 배경을 천천히 훑어보며, 커서 모양이 바뀌거나 반응이 있는 물건을 찾아보세요.
+- **클릭**: 클릭 가능한 오브젝트를 누르면, 해당 물건을 이용해 상사를 처리하는 짧은 애니메이션이
+  재생됩니다. 방법에 따라 연출과 대사가 조금씩 달라집니다.
+- **수집**: 이 게임의 목표는 가능한 한 많은, 혹은 모든 "방법"을 찾아내는 것입니다. 몇 가지는
+  화면 구석이나 예상치 못한 위치에 숨겨져 있으니 꼼꼼하게 탐색해야 합니다.
+- **리셋**: 한 번의 연출이 끝나면 보통 "청소부(Cleaner)" 버튼이나 비슷한 옵션이 나타나 장면을
+
 - **Reset:** After each animation, a "Cleaner" option typically appears, allowing you to reset the scene and try another object.
 
-### Controls Guide
+- **Discover:** The main challenge and fun come from finding all the hidden ways to "whack" the boss. There are usually many methods to uncover.
+  초기화하고 다시 탐색을 이어갈 수 있습니다.
 
-- **Mouse:** Use your mouse to hover over and click on interactive objects in the scene.
+### 조작 방법 안내
 
-### Frequently Asked Questions (FAQ)
+- **마우스**: 커서를 이리저리 움직여 상호작용 가능한 오브젝트를 찾고, 클릭만으로 대부분의 기능을
+  사용할 수 있습니다.
 
-**What is the objective of the game?**
+### 자주 묻는 질문(FAQ)
 
-The primary objective is to discover all the different ways to "whack" your boss. It's a game of exploration and discovery of humorous animations.
+**Q. 이 게임의 목적은 무엇인가요?**  
+A. 특정 점수나 엔딩을 달성하기보다는, 사무실 곳곳에 숨겨진 모든 "방법"을 찾아 각기 다른 연출을
+감상하는 것이 주된 목표입니다.
 
-**Are there different versions of the game?**
+**Q. 시리즈가 더 있나요?**  
+A. 네, "Whack Your Boss" 외에도 컴퓨터, 전 애인 등 다른 테마를 가진 유사 작품들이 존재하며,
+각각 다른 연출과 배경을 제공합니다.
 
-Yes, there are several versions of "Whack Your Boss" and similar games, each offering a different number of "ways to whack" and sometimes different settings (e.g., Whack Your Computer, Whack Your Ex).
-
-**Is the game violent?**
-
-While the theme involves "whacking" a boss, the animations are highly stylized, cartoonish, and often absurd, making them more humorous than genuinely violent.
-
+**Q. 폭력적인 표현이 심한가요?**  
+A. 표현 자체는 다소 과격하지만, 매우 만화적이고 비현실적인 연출로 구성되어 있어 실제 폭력 묘사라기보다는
+블랙 코미디에 가깝습니다. 다만 이런 표현을 불편하게 느낄 수 있는 플레이어도 있으므로, 취향에 따라
+주의가 필요합니다.

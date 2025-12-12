@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: elastic-man
-title: '[KO] Elastic Man'
+title: "Elastic Man 엘라스틱 맨"
 description: >-
-  [KO] Elastic Man is an interactive toy: stretch, poke, and squish a rubbery
-  face with playful physics.
+  얼굴을 마음껏 늘리고 눌러 보는 인터랙티브 토이 Elastic Man입니다. 말랑말랑한
+  얼굴을 잡아당기고 놓으면서 탄성 물리 효과를 감상해 보세요.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/elastic-man.jpg
 tags:
@@ -15,21 +15,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Elastic Man은 말랑말랑한 얼굴을 마음껏 잡아당기고, 찌르고, 비틀어 보는 단순한
+인터랙티브 장난감 게임입니다. 화면을 드래그해 얼굴을 크게 늘렸다가 손을 떼면,
+고무 같은 탄성으로 출렁이며 원래 형태로 돌아가는 모습을 볼 수 있습니다.
 
+### 플레이 방법
 
-### Overview
-Interactive face‑stretching toy: grab and drag a rubbery face, then watch it wobble back with springy skin‑simulation.
+- 볼, 이마, 턱 등 원하는 위치를 마우스나 손가락으로 끌어당겨 모양을 마음껏
+  변형해 보세요.  
+- 여러 부분을 동시에 잡거나, 빠르게 잡았다 놓는 등 다양한 방식으로 얼굴이
+  어떻게 움직이는지 실험해 볼 수 있습니다.  
+- 일부 버전에서는 “Squish” 강도나 해상도(디테일)를 조절하는 옵션이 제공되기도
+  합니다.  
 
-### How to Play
-- Drag, poke, pinch, and release different spots to see varied deformations.
-- Some hosts include “squish” strength or resolution toggles.
+### 조작 방법
 
-### Controls
-- Mouse/Touch drag and release; settings panel where available.
+- 마우스/터치 드래그: 얼굴을 잡아당기거나 밀기  
+- 드래그 해제: 손을 떼면 얼굴이 탄성 물리에 따라 출렁이며 돌아옵니다.  
+- 설정 패널(지원 시)을 통해 품질/강도 등을 조절할 수 있습니다.  
 
-### Tips
-- Pull from cheeks/forehead for broad wobbles; small pinches create fast ripples.
-- Lower resolution on slower devices for smoother motion.
-- Shorter, repeated pulls keep the jello‑like jiggle going.
+### 팁
+
+- 볼이나 이마처럼 넓은 영역을 잡아당기면 크게 흔들리는 “물컹” 움직임을 볼 수
+  있고, 작은 부분을 살짝 집어당기면 빠르게 퍼져 나가는 잔잔한 파동이 생깁니다.  
+- 저사양 기기에서는 해상도를 낮추면 더 부드러운 움직임을 볼 수 있습니다.  
+- 짧게 여러 번 잡아끌었다 놓으면 젤리처럼 계속 흔들리는 효과를 만들 수 있습니다.  
 

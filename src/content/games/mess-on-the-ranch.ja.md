@@ -1,71 +1,39 @@
 ---
+title: "Mess on the Ranch"
+description: "Mess on the Ranchはカオスな牧場管理ゲームです。動物を整理し、タスクを完了し、秩序を取り戻し、楽しい農場の混乱を楽しみます。"
+iframeSrc: "https://3c5rbvbcdk92o.h5games.usercontent.goog/v/0l4eaogkjhga0/"
+thumbnail: "/new-images/mess-on-the-ranch.png"
+urlstr: "mess-on-the-ranch"
+score: "3.9/5  (1567 votes)"
+tags: ["casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: mess-on-the-ranch
-title: '[JA TRANSLATION NEEDED] Mess on the Ranch'
-description: >-
-  [JA TRANSLATION NEEDED] Mess on the Ranch is a tidy‑up puzzler — sort animals
-  and tools, repair fences, and restore order with efficient routing.
-iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
-thumbnail: /new-images/mess-on-the-ranch.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.0/5  (1882 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Mess on the Ranchは、混沌とした牧場を整理することに挑戦します。動物を正しいペンに並べ替え、タスクを完了し、農場を秩序に戻します。素早く考え、効率的に作業して、時間制限を打ち負かします。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Mess on the Ranch is a charming organizational puzzle. Herd animals back to pens, place tools in the right sheds, fix broken fence segments, and clear debris — all within move or time limits. Levels emphasize route planning and prioritization.
+1.  **タスクを優先:** 最も緊急なタスクから始めます。
+2.  **動物をグループ化:** 同じタイプの動物を一緒に移動します。
+3.  **効率的に計画:** 移動を最小限に抑えるためにルートを計画します。
+4.  **障害物を見る:** 行く手を阻むものに注意してください。
+5.  **時間管理:** 時計を見て、効率的に作業します。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Pen priority: Secure loose animals first to reduce chaos.
-[JA TRANSLATION NEEDED] 2.  Route loops: Plan loops that handle multiple pickups per pass.
-[JA TRANSLATION NEEDED] 3.  Tool matching: Deliver tools to sheds en route rather than backtracking.
-[JA TRANSLATION NEEDED] 4.  Fence triage: Repair segments that unblock multiple tasks.
-[JA TRANSLATION NEEDED] 5.  Bonus goals: Attempt optional cleanups only with spare moves.
+- 動物をドラッグ＆ドロップして移動します。
+- ペンをクリック/タップして開閉します。
+- タスクリストで進行状況を追跡します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Drag/tap to move and interact; context prompts for repair/deliver actions.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I run out of moves.
-  
-[JA TRANSLATION NEEDED]   A: Combine tasks in a single loop and avoid single‑purpose detours.
-
-- Q: Animals wander off.
-  
-[JA TRANSLATION NEEDED]   A: Pen them first, then do tool/fence tasks.
-
-- Q: Timers too tight.
-  
-
-
-
-
-
-- Q: I run out of moves.
-### よくある質問（FAQ）
-- Drag/tap to move and interact; context prompts for repair/deliver actions.
-### コントロールガイド
-- Bonus goals: Attempt optional cleanups only with spare moves.
-[JA TRANSLATION NEEDED]   A: Ignore optional litter and focus on objectives.
-
-
-
-
-
-
-A: Ignore optional litter and focus on objectives.
-- Q: Timers too tight.
-A: Pen them first, then do tool/fence tasks.
-- Q: Animals wander off.
-
-
-A: Ignore optional litter and focus on objectives.
+- **Q: 時間がなくなった場合はどうなりますか？**  
+  A: レベルを再起動して再試行する必要があります。
+- **Q: 移動を元に戻すことができますか？**  
+  A: 一部のバージョンでは元に戻すボタンがあります。
+- **Q: 最速の完了方法は？**  
+  A: 移動を最小限に抑え、事前に計画します。

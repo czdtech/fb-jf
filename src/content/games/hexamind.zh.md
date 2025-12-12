@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: hexamind
-title: '[ZH TRANSLATION NEEDED] HexaMind'
-description: >-
-  [ZH TRANSLATION NEEDED] HexaMind is a hex‑grid logic puzzler — place tiles,
-  satisfy adjacency rules, and manage parity across honeycomb layouts.
+title: "《HexaMind》六角逻辑谜题"
+description: "《HexaMind》是一款基于六边形棋盘的逻辑解谜游戏，你要在蜂巢格子上摆放颜色或数字，满足相邻约束与奇偶规则，通过环形与射线推理一步步锁定唯一解。"
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/hexamind.png
 tags:
@@ -15,32 +13,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] HexaMind plays on a hexagonal grid with rules about what may touch: colors, numbers, or symbols must satisfy adjacency constraints (e.g., no equal neighbors, or sums along rays). The six‑direction geometry enables rich deductions through fan‑shaped lines and rings.
+《HexaMind》的棋盘由六边形格子组成，每一格上可以填入不同的颜色、数字或符号。规则通常围绕“相邻约束”展开：例如相邻格不能相同、沿某条射线上的数字之和必须满足指定要求，或是某一圈环形区域内必须出现特定数量的某种颜色等。六方向的蜂巢结构让你可以沿扇形、环形和轴向多种路径进行推理，比传统的方格数独拥有更丰富的逻辑链条。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Constraint hotspots: Start at cells with the most neighbors or strictest rules.
-2.  [ZH TRANSLATION NEEDED] Ring logic: Use ring sums or color counts around a center to bound candidates.
-3.  [ZH TRANSLATION NEEDED] Ray scans: Scan along axial directions for parity/sequence constraints.
-4.  [ZH TRANSLATION NEEDED] Contradiction seeds: Try a candidate on a tight cell and backtrack on conflict.
-5.  [ZH TRANSLATION NEEDED] Pencil rigor: Maintain clean candidate notes to avoid circular mistakes.
+### 游戏玩法与攻略
+1.  **先从约束最紧的格子入手**：优先查看相邻格子最多、或者规则最苛刻的位置，这些“高约束点”往往候选很少，最容易先被确定。
+2.  **利用环形逻辑**：围绕某个中心格子的环形区域，如果要求总和或颜色数量固定，就可以通过已知格子逐步缩小其它格子的取值范围。
+3.  **顺着轴向射线排查**：沿六边形的轴向方向查看整条射线上的规则（例如总和、升降序列、奇偶分布），把环形信息与射线信息交叉使用，能快速排除大量不可能。
+4.  **适度尝试反证**：在局部候选较少时，可以对某一候选值做“假设填写”，沿规则推演几步，一旦出现矛盾就能把该候选彻底排除。
+5.  **保持候选标记干净**：合理使用铅笔记号（候选标记），及时清理已经不可能的数字或颜色，避免因为标记混乱导致逻辑绕回原点。
 
-### Controls Guide
+### 操作说明
 
-- Tap to place values/colors; toggle pencil marks; undo/redo.
+- 点击格子即可填写颜色或数字；可在普通填入与铅笔候选之间切换，并支持撤销/重做操作。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-- Q: I’m stuck — where to look?
-  
-[ZH TRANSLATION NEEDED]   A: Revisit high‑degree nodes and ring totals; combine ring and ray constraints.
+- Q: 卡关时应该从哪里重新下手？  
+  A: 建议重新回到“度数最高”的格子（相邻最多的节点）以及有总和值或数量限制的环形区域，把环约束和射线约束结合起来重新检查。 
 
-- Q: Is guessing required?
-  
-[ZH TRANSLATION NEEDED]   A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
+- Q: 这款游戏需要靠猜吗？  
+  A: 设计良好的关卡通常可以完全依靠逻辑推理完成。如果不得不猜，尽量只在候选很少的格子上做浅层可回溯的假设，一旦发现矛盾就立刻撤回。
 
-- Q: How is it different from square‑grid puzzles?
-  
-[ZH TRANSLATION NEEDED]   A: Six neighbors create stronger ring/ray reasoning that square grids lack.
-
+- Q: 和传统方格逻辑游戏有什么区别？  
+  A: 六边形格子让每个单元最多拥有六个相邻方向，可以构造更强的“环形”和“扇形”约束，推理链条更密集，这也是 HexaMind 与方格数独类游戏最大的不同。

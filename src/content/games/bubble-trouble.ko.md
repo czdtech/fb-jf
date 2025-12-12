@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bubble-trouble
-title: '[KO] Bubble Trouble'
+title: Bubble Trouble 버블 트러블
 description: >-
-  [KO] Pop bouncing bubbles with your harpoon in this fast-paced arcade action
-  game. Split large bubbles into smaller ones while avoiding contact. Master
-  power-ups and clear all bubbles before time runs out!
+  Bubble Trouble은 화면을 튀어 다니는 버블을 작살(하푼)로 터뜨리는 아케이드 액션 게임입니다. 큰 버블을 쏘면 두 개의 작은
+  버블로 나뉘니, 맞지 않도록 피하면서 시간 안에 모든 버블을 제거하세요.
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/bubble-trouble.jpg
@@ -16,57 +15,97 @@ score: 4.4/5  (203 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bubble Trouble은 빠른 템포의 고전 아케이드 액션 게임입니다. 플레이어는 화면
+아래를 좌우로만 이동할 수 있는 작은 악마 모양의 캐릭터를 조종하고, 위로 튀어
+다니는 버블들을 작살(하푼)로 터뜨려야 합니다.
 
+기본 규칙은 간단합니다. 위로 쏜 하푼이 버블을 맞히면 버블이 터지면서 두 개의
+더 작은 버블로 나뉩니다. 이렇게 나뉜 버블은 다시 화면을 튀어 다니며, 최소 크기까지
+작아질 때까지 같은 과정을 반복합니다. 가장 작은 크기의 버블을 터뜨리면 그제야
+완전히 사라집니다.
 
+플레이어는 어떤 버블에도 직접 닿아서는 안 됩니다. 버블에 맞으면 목숨을 잃고,
+남은 목숨이 모두 사라지거나 제한 시간이 0이 되면 게임 오버입니다. 스테이지가
+진행될수록 버블 수와 배치가 복잡해지고, 제한 시간도 점점 더 빡빡해집니다.
+일부 버전에서는 2인 협동 플레이도 지원해 함께 난장판을 즐길 수 있습니다.
 
+### 플레이 전략
 
-### Game Introduction
+-   **가장 큰 버블부터 처리하기**  
+    화면을 크게 차지하는 대형 버블이 가장 위험합니다. 공간을 많이 점유할 뿐만
+    아니라, 나중에 더 많은 작은 버블을 만들어 내기 때문입니다. 초반에는 큰
+    버블 위주로 우선 정리해 전체 난이도를 낮추세요.
 
-Bubble Trouble is a fast-paced arcade action game. The player controls a small, devil-like character at the bottom of the screen who can only move left and right. The objective is to clear the screen of all bouncing bubbles before the timer runs out.
+-   **버블 바로 아래에서 쏘기**  
+    사선으로 접근하기보다는, 가능한 한 버블의 수직 아래에 자리 잡은 뒤
+    하푼을 쏘는 것이 안전합니다. 이렇게 하면 버블이 두 개로 나뉜 뒤 양옆으로
+    튀어 나가기 때문에, 피할 수 있는 시간이 더 길어집니다.
 
-The core mechanic involves shooting a harpoon-like projectile straight up. When the harpoon hits a bubble, the bubble pops and splits into two smaller bubbles. These smaller bubbles continue to bounce around the screen. This process repeats—popping a bubble creates two smaller ones—until the bubbles reach their smallest size, at which point popping them removes them from the game completely.
+-   **코너 트랩 활용하기**  
+    버블을 한쪽 구석과 하푼 라인 사이에 가두면, 규칙적인 궤도로 튀어 나오게
+    만들 수 있습니다. 안전한 위치를 잡은 뒤, 버블이 일정 패턴대로 오갈 때마다
+    하푼을 반복해서 쏘면 비교적 안전하게 제거할 수 있습니다.
 
-The main challenge is to avoid being touched by any of the bouncing bubbles. If a bubble hits the player's character, they lose a life. The game is lost if the player runs out of lives or if the timer reaches zero. As players progress, levels become more difficult with more bubbles, complex starting layouts, and shorter time limits. The game also features a popular two-player cooperative mode.
+-   **파워업 효과 숙지하기**  
+    버블을 터뜨리다 보면 다양한 파워업 아이템이 떨어집니다. 이를 먹으면 게임을
+    크게 유리하게 만들 수 있습니다.
+    -   **더블 하푼:** 한 번에 두 개의 작살을 쏠 수 있어 처리 속도가 빨라집니다.
+    -   **스티키 하푼:** 일정 시간 동안 천장에 라인이 남아, 닿는 버블을 자동으로
+        터뜨립니다. 복잡한 구간 정리에 매우 유용합니다.
+    -   **실드:** 잠시 동안 무적 상태가 되므로, 보이면 최우선으로 먹는 것이 좋습니다.
+    -   **타임 슬로우/프리즈:** 버블의 움직임을 느리게 하거나 멈춰, 난관을 뚫을
+        기회를 제공합니다.
+    -   **다이너마이트:** 특정 크기의 버블을 화면 전체에서 한 번에 제거합니다.
 
-### Gameplay Strategy
+-   **2인 플레이에서는 역할 분담하기**  
+    2인 모드에서는 서로 반대쪽 화면을 담당해 "화면 나누기" 전략을 쓰는 것이
+    좋습니다. 서로 겹쳐 움직이면 버블뿐 아니라 서로에게도 방해가 되므로, 한 쪽은
+    왼쪽, 다른 한 쪽은 오른쪽을 책임지는 식으로 영역을 나누세요.
 
--   **Prioritize the Largest Bubbles:** Always try to pop the biggest bubbles first. They are the most dangerous because they cover the most area and create the most subsequent smaller bubbles. Getting them out of the way early reduces the overall chaos.
--   **Stay Under the Bubble:** A good general strategy is to position yourself directly underneath a bubble before firing. This gives you the maximum amount of time to react and move out of the way of the two smaller bubbles that will be created and bounce outwards.
--   **Corner Trapping:** One of the most effective tactics is to trap a bubble in a corner. When a bubble is bouncing predictably between a wall and your harpoon line, you can stand in a safe spot and fire repeatedly until it's completely destroyed.
--   **Master the Power-ups:** Popping bubbles will sometimes drop power-ups. Collecting these is crucial for success. Key power-ups include:
-    -   **Double Harpoon:** Lets you shoot two projectiles at once.
-    -   **Sticky Harpoon:** Shoots a line that sticks to the ceiling for a few seconds, popping any bubble that touches it. Excellent for clearing crowded areas.
-    -   **Shield:** Provides temporary invincibility. Grab this immediately!
-    -   **Time Freeze/Slow:** Slows down or completely stops the bubbles, giving you an easy opportunity to clear them.
-    -   **Dynamite:** Pops all bubbles of a certain size on the screen.
--   **Two-Player Coordination:** In 2-player mode, communication is key. The best strategy is often to "divide and conquer." Each player takes one half of the screen. This prevents you from running into each other and provides much better screen coverage.
+### 조작 방법
 
-### Controls Guide
+-   **플레이어 1**  
+    -   **방향키 ←/→:** 캐릭터를 좌우로 이동합니다.  
+    -   **스페이스바:** 위로 하푼을 발사합니다.
 
-The controls are simple and designed for quick arcade action.
+-   **플레이어 2**  
+    -   **A/D 키:** 캐릭터 좌우 이동.  
+    -   **Q 키:** 하푼 발사.  
 
--   **Player 1:**
-    -   **Left/Right Arrow Keys:** Move the character left and right.
-    -   **Spacebar:** Shoot harpoon.
+*버전마다 플레이어 2의 키 구성이 약간 다를 수 있으며, 일부에서는 X/C로 이동하고
 
--   **Player 2:**
-    -   **A and D Keys:** Move the character left and right.
-    -   **Q Key:** Shoot harpoon.
+- **Q Key:** Shoot harpoon.
 
-*(Note: Player 2 controls can sometimes vary slightly, e.g., using X and C for movement and W to shoot, depending on the version of the game.)*
+    - **A and D Keys:** Move the character left and right.
 
-### Frequently Asked Questions (FAQ)
+    - **Player 2:**
 
-**1. Is it possible to shoot diagonally?**
-> No, you can only shoot your harpoon straight up. The challenge comes from positioning your character correctly underneath the moving bubbles.
+- **Spacebar:** Shoot harpoon.
 
-**2. How do power-ups work?**
-> Power-ups are randomly dropped when you pop a bubble. You must physically move your character over the falling icon to collect it. Most power-ups are temporary.
+    - **Left/Right Arrow Keys:** Move the character left and right.
 
-**3. What is the best power-up?**
-> This is subjective, but the **Shield** is arguably the most valuable as it prevents you from losing a life. The **Sticky Harpoon** is incredibly effective for clearing multiple bubbles at once.
+    - **Player 1:**
+W로 발사하는 식의 조합을 사용하기도 합니다.*
 
-**4. What happens when the timer runs out?**
-> If the timer reaches zero before you have cleared all the bubbles, you lose a life and must restart the level. If you have no lives left, the game is over.
+### 자주 묻는 질문 (FAQ)
 
+**1. 대각선으로는 쏠 수 없나요?**  
+> 네, 하푼은 항상 위쪽으로만 발사됩니다. 따라서 핵심은 샷의 각도가 아니라,
+> 움직이는 버블의 아래로 얼마나 정확하게 파고들어 가는지에 달려 있습니다.
+
+**2. 파워업은 어떻게 먹는 건가요?**  
+> 버블을 터뜨리면 랜덤으로 아이템이 떨어집니다. 캐릭터를 움직여 떨어지는
+> 아이콘과 겹치면 자동으로 습득할 수 있으며, 대부분 일정 시간 동안만 효과가
+> 지속됩니다.
+
+**3. 가장 좋은 파워업은 무엇인가요?**  
+> 상황마다 다르지만, 한 번의 실수를 용서해 주는 **실드**의 가치가 가장 높다고
+> 볼 수 있습니다. 여러 버블을 한꺼번에 처리해야 할 때는 **스티키 하푼**도
+> 매우 강력합니다.
+
+**4. 시간이 다 되면 어떻게 되나요?**  
+> 제한 시간이 0이 되기 전에 버블을 모두 제거하지 못하면 목숨을 하나 잃고
+> 해당 스테이지를 다시 시작해야 합니다. 더 이상 남은 목숨이 없다면 게임 오버가
+> 됩니다.

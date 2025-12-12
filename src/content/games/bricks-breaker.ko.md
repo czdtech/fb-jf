@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: bricks-breaker
-title: '[KO] Bricks Breaker'
+title: Bricks Breaker 브릭스 브레이커
 description: >-
-  [KO] Get ready for classic arcade action in Bricks Breaker! Control the
-  paddle, bounce the ball, and destroy all the bricks to clear levels.
+  Bricks Breaker는 패들을 조종해 공을 튕기며 화면의 벽돌을 모두 깨는 클래식 아케이드 스타일 브레이크아웃 게임입니다. 다양한
+  레벨과 파워업으로 끝없는 재미를 제공합니다.
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
 thumbnail: /new-images/bricks-breaker.jpg
 tags:
@@ -18,31 +18,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Bricks Breaker is a modern take on the timeless arcade classic. The objective is to destroy all the bricks on the screen by hitting them with a bouncing ball. You control a paddle at the bottom of the screen to keep the ball in play. As you break bricks, you can collect various power-ups to help you clear levels faster. With numerous levels, challenging brick formations, and exciting power-ups, Bricks Breaker offers endless fun.
+*Bricks Breaker*는 오래 사랑받아 온 벽돌 깨기 아케이드 게임을 현대적으로 재해석한 작품입니다.
+패들을 좌우로 움직여 공을 튕기면서 화면 상단의 벽돌들을 하나씩 제거해야 하며,
+일정 벽돌을 깨면 떨어지는 파워업을 받아 플레이를 유리하게 만들 수 있습니다.
+다양한 배치와 특수 벽돌 덕분에 각 레벨마다 다른 공략이 필요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** **Control the Paddle:** Your primary job is to position the paddle to intercept the ball. Try to hit the ball with the edges of the paddle to change its angle and send it to different parts of the screen.
-2.  **[KO]** **Aim for the Top:** Try to get the ball into the space above the bricks. It will bounce around for a while, destroying many bricks without any risk of you missing the ball.
-3.  **[KO]** **Grab Power-Ups:** Falling power-ups can give you significant advantages, such as a wider paddle, multiple balls (multi-ball), or a laser to shoot bricks directly. Prioritize catching these.
-4.  **[KO]** **Focus on Tough Bricks:** Some bricks may require multiple hits to be destroyed. Focus your efforts on these to open up the level.
-5.  **[KO]** **Use the Walls:** Use the side walls to your advantage. Bouncing the ball off the walls at sharp angles can help you reach tricky spots.
+1. **패들 컨트롤:** 공을 패들의 어느 위치에서 맞추느냐에 따라 튕겨 나가는 각도가 바뀝니다.
+   양 끝 쪽으로 맞추면 더 날카로운 각도로 나가므로, 특정 구역을 노릴 때 유용합니다.
+2. **상단 침투:** 공을 벽돌 위쪽 공간으로 올려 보드 상단에 갇히게 하면, 한동안 자동으로
+   많은 벽돌을 제거할 수 있어 매우 효율적입니다.
+3. **파워업 적극 활용:** 넓어지는 패들, 멀티볼, 레이저 등 파워업은 난이도를 크게
+   낮춰 줍니다. 가능한 한 놓치지 않고 받되, 위험한 위치의 파워업을 무리해서
+   쫓다가 공을 놓치지 않도록 주의하세요.
+4. **단단한 벽돌 우선:** 여러 번 맞아야 깨지는 벽돌은 초반부터 꾸준히 노려야 합니다.
+   이들을 빨리 정리해 두면 후반에 공이 갇혀 막히는 상황을 줄일 수 있습니다.
+5. **벽 활용:** 옆벽에 날카로운 각도로 튕겨, 공이 좁은 통로를 여러 번 왕복하게 만들면
+   손을 많이 쓰지 않고도 깔끔하게 벽돌을 정리할 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-*   **[KO]** **Move Paddle:** Move your mouse left and right to control the paddle's position.
-*   **[KO]** **Launch Ball:** Click the left mouse button to launch the ball from the paddle at the start of each life.
+- **패들 이동:** 마우스를 좌우로 움직여 패들의 위치를 조정합니다.
+- **공 발사:** 각 목숨 시작 시, 마우스 왼쪽 버튼을 눌러 패들 위에 있는 공을 발사합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.
+- **Q: 게임의 목표는 무엇인가요?**
+    - **A:** 각 레벨의 모든 파괴 가능한 벽돌을 제거하면 다음 스테이지로 이동할 수 있습니다.
 
-*   **[KO]** **Q: What happens if I miss the ball?**
-    *   **[KO]** **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.
+- **Q: 공을 놓치면 어떻게 되나요?**
+    - **A:** 공이 패들 아래로 떨어지면 목숨을 하나 잃으며, 모든 목숨을 잃으면 게임 오버입니다.
 
-*   **[KO]** **Q: What do the different power-ups do?**
-    *   **[KO]** **A:** Power-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-
+- **Q: 파워업 종류가 궁금해요.**
+    - **A:** 패들을 넓히는 아이템, 멀티볼, 파이어볼, 패들 레이저 등 다양한 효과가 있으며, 상황에 맞게 선택하면 난이도를 크게 낮출 수 있습니다.

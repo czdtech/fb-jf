@@ -1,61 +1,38 @@
 ---
+title: "Ant and block puzzle アリとブロックパズル"
+description: "「Ant and block puzzle」は、シンプルなブロック配置パズルです。形をはめ込み、列を揃えて消し、手詰まりにならないよう効率よく詰め込みましょう。"
+iframeSrc: "https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/"
+thumbnail: "/new-images/ant-and-block-puzzle.png"
+urlstr: "ant-and-block-puzzle"
+score: "3.8/5  (1524 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: ant-and-block-puzzle
-title: '[JA TRANSLATION NEEDED] Ant and block puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Ant and block puzzle is a neat block‑fitter — place
-  shapes, fill rows, and avoid dead zones.
-iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
-thumbnail: /new-images/ant-and-block-puzzle.png
-tags:
-  - puzzle
-  - thinky
-score: 3.8/5  (1524 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Ant and block puzzle（アリとブロックパズル）*は、カジュアルなブロック配置チャレンジゲームです。テトリスのような形状のブロックを盤面にはめ込み、縦や横のライン（またはエリア）を隙間なく埋めて消していきます。ブロックを置く場所がなくならないように、効率よくスペースを管理し続けましょう。
 
-[JA TRANSLATION NEEDED] Ant and block puzzle is a casual shape‑placement challenge. Fit given blocks into a board, complete rows/areas to clear space, and stave off top‑outs with efficient packing.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **角（コーナー）の活用：** L字型やT字型のブロックは、角や端にフィットさせやすいので、そこを定位置にしましょう。
+2.  **柔軟な隙間を残す：** どんな小さなピースでも入るような、汎用性の高い隙間を残すように意識しましょう。
+3.  **深い穴を作らない：** 棒状のブロック（I字型）が来る保証はないので、それがないと埋められないような深い縦穴を作るのは避けましょう。
+4.  **中央を空ける：** 盤面の中央を開放するような消し方を優先すると、大きなブロックが来たときに対処しやすくなります。
+5.  **早めのアンドゥ：** 「あ、置き場所間違えた」と思ったら、手遅れになる前にアンドゥ（元に戻す）機能を使いましょう。
 
-[JA TRANSLATION NEEDED] 1.  Reserve corners for L/T shapes.
-[JA TRANSLATION NEEDED] 2.  Leave flexible gaps sized for common small pieces.
-[JA TRANSLATION NEEDED] 3.  Don’t build tall narrow wells without a matching piece.
-[JA TRANSLATION NEEDED] 4.  Prioritize clears that open board center.
-[JA TRANSLATION NEEDED] 5.  Undo early when placements feel forced.
+### 操作ガイド
 
-### Controls Guide
+*   **配置：** ドラッグ＆ドロップでブロックを盤面に置きます。回転機能があるモードでは、タップなどで回転できる場合があります。
+*   **アンドゥ/リセット：** UIボタンから操作します。
 
-- Drag to place; rotate if the mode supports it.
-- Undo/Reset via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- No fits left—what now? Use undo or restart with a different opening.
-- Rotations? Depends on variant; check the UI.
-- Endless? Many versions are score‑chasing.
-
-
-
-
-
-
-
-
-- Endless? Many versions are score‑chasing.
-- Rotations? Depends on variant; check the UI.
-- No fits left—what now? Use undo or restart with a different opening.
-### よくある質問（FAQ）
-- Undo/Reset via UI.
-- Drag to place; rotate if the mode supports it.
-### コントロールガイド
-
-
-
-
-- Endless? Many versions are score‑chasing.
-- Rotations? Depends on variant; check the UI.
-- No fits left—what now? Use undo or restart with a different opening.
+*   **置ける場所がなくなりました。**
+    *   アンドゥで少し戻って違う書き方を試すか、リスタートして新しい配置から始めましょう。
+*   **回転はできますか？**
+    *   ゲームのバリエーションによります。UIに回転ボタンがあるか確認してください。
+*   **終わりはありますか？**
+    *   多くのバージョンはスコアアタック形式のエンドレスゲームです。

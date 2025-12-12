@@ -1,53 +1,53 @@
 ---
 locale: zh
 urlstr: splatoon-3
-title: '[ZH TRANSLATION NEEDED] Splatoon 3'
-description: >-
-  [ZH TRANSLATION NEEDED] Dive into the colorful world of Splatoon 3! In this
-  action-packed shooter, cover the territory with your team's ink to claim
-  victory. Transform into a squid to swim through your ink, ambush opponents,
-  and refill your weapon. Master movement and teamwork to dominate the turf.
-iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
+title: 《Splatoon 3》泼墨对战 3
+description: 《Splatoon 3》是一款风格鲜明的射击对战游戏，你将操控喷墨小乌贼在战场上泼洒颜料，占领地盘并击退对手，体验快节奏的涂地对抗。
+iframeSrc: 'https://splatoon3.h5games.usercontent.goog/v/0e7vd4ltn2j00/'
 thumbnail: /new-images/splatoon-3.jpg
 tags:
-  - action
-  - shooting
+  - shooter
   - multiplayer
-score: 4.3/5  (955 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+score: 4.6/5  (2600 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] Splatoon 3 is a vibrant and stylish third-person shooter where the goal isn't just to defeat opponents, but to cover the map with your team's colored ink. Players control unique characters called Inklings and Octolings who can instantly switch between a humanoid "kid" form to shoot ink and a "squid" form to swim through it.
+### 游戏介绍
 
-### Gameplay Guide
+《Splatoon 3》延续了系列独特的“涂地当输出”的核心机制。玩家以喷墨小乌贼或章鱼的形态加入对战，通过各式各样的颜料武器（喷枪、滚筒、狙击墨枪等）在地图上大面积涂色，占据地盘。多数模式下，回合结束时场地上自己队伍颜料覆盖率更高的一方获胜，同时你也可以用墨水攻击对手，让其暂时退场，为己方争取宝贵时间。
 
-[ZH TRANSLATION NEEDED] The most common game mode is Turf War, a 4v4 battle where the team that covers the highest percentage of the map with their ink in three minutes wins.
-- **Kid Form:** Use this form to run, jump, and fire your ink weapon to cover turf and "splat" opponents.
-- **Squid Form:** Dive into your own ink to become a squid. In this form, you move much faster, can swim up inked walls, and are hidden from enemies. Swimming in ink also reloads your ink tank.
-- **Teamwork:** Coordinate with your team to control key areas of the map and push back the enemy.
+### 游玩策略
 
-### Controls Guide
 
-[ZH TRANSLATION NEEDED] While specific controls can vary, they are generally based on standard shooter layouts:
-- **Movement:** `WASD` or `Arrow Keys`
-- **Shoot Ink:** `Left Mouse Button`
-- **Sub Weapon:** `Right Mouse Button` or `G`
-- **Transform to Squid:** `Shift` or `Spacebar` (Hold to swim)
+The most common game mode is Turf War, a 4v4 battle where the team that covers the highest percentage of the map with their ink in three minutes wins.
+1.  **涂地优先于刚枪：** 在常规涂地模式中，占地面积通常比单纯击杀更重要。没必要全场追着人打，优先把关键区域刷上自家颜色。
+2.  **善用墨水移动：** 在己方颜料中可以潜行移动，速度快且不易被发现，还能快速回复弹药。多利用地面上的自家墨水进行突击与撤退。
+3.  **根据武器定位站位：** 近战武器更偏向前排压制与抢点，远程狙墨则适合在制高点提供火力支援和区域封锁，根据手中武器决定自己的站位和节奏。
+4.  **留意大招与资源点：** 合理利用大招、特殊武器或地图中的关键资源点（如高台、交通点），能在关键时刻左右战局。
+
+### 操作说明
+
+
+While specific controls can vary, they are generally based on standard shooter layouts:
+*   **移动与视角：** 使用方向键或摇杆移动角色，配合鼠标或右摇杆控制视角；
+*   **射击 / 涂地：** 按下射击键发射墨水，对敌人造成伤害并为地面上色；
+*   **潜行：** 在己方颜色区域按下潜行键可以以乌贼形态游动，加快移动并隐藏身形；
+*   **大招 / 特殊武器：** 在能量条充满后按下相应按键释放强力大招。
+
+
 - **Jump:** `Spacebar` (when in kid form)
+### 常见问题解答（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**问：打不过对面怎么办？****
+答：** 尝试减少正面 1v1 对抗，多绕路从侧翼或背后偷袭，同时专注涂地抢占高价值区域，即便人头数落后，也有可能凭占地赢下比赛。
 
-[ZH TRANSLATION NEEDED] **What is the main objective?**
+**问：地盘类模式里，击杀有什么用？****
+答：** 击杀主要是为团队争取短暂人数优势和涂地空间，被击败的对手会有一段重生时间，这段时间内你可以放心扩张己方颜料范围。
 
-[ZH TRANSLATION NEEDED] In the primary Turf War mode, the main objective is to cover more of the map's surface with your team's ink color than the opposing team.
 
-[ZH TRANSLATION NEEDED] **What happens when I run out of ink?**
 
-[ZH TRANSLATION NEEDED] You cannot fire your main weapon when your ink tank is empty. To refill it, simply transform into your squid form and swim in your team's ink for a few seconds.
+Both are important! Splatting opponents temporarily removes them from the field, giving your team an opportunity to cover more turf uncontested. However, the ultimate winner is decided by ink coverage, so don't neglect painting the ground.
 
-[ZH TRANSLATION NEEDED] **Is it better to cover turf or splat opponents?**
-
-[ZH TRANSLATION NEEDED] Both are important! Splatting opponents temporarily removes them from the field, giving your team an opportunity to cover more turf uncontested. However, the ultimate winner is decided by ink coverage, so don't neglect painting the ground.
-
+**Is it better to cover turf or splat opponents?**

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: learn-to-fly
-title: '[ZH TRANSLATION NEEDED] Learn To Fly'
-description: >-
-  [ZH TRANSLATION NEEDED] Penguin launch upgrade game: adjust launch angle,
-  glide and boost, earn cash, and buy parts to fly farther each day.
+title: 《Learn To Fly》学会飞行
+description: 《Learn To Fly》是一款企鹅发射升级类游戏，你要调整起飞角度、控制滑翔与加速，每天赚取现金购买新部件，让企鹅飞得越来越远。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/learn-to-fly.jpg
 tags:
@@ -16,27 +14,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Learn to Fly is a distance launcher about iterative improvement. Launch a penguin down a ramp, control pitch to maximize glide, and use boosters sparingly. Earnings buy better gliders, rockets, and payloads, unlocking new goals and challenge modes across days.
+### 概览
 
-### How to Play
-- Set launch angle; keep pitch near optimal to maintain speed.
-- Trigger boosters only when speed drops or to clear obstacles.
-- Spend on speed and glide upgrades first, then utility.
+《Learn to Fly》是一款以“距离挑战 + 逐步升级”为核心的发射类游戏。你要把一只企鹅从跳台上发射出去，通过控制俯仰角度来最大化滑翔距离，同时在合适时机使用推进器。每次飞行获得的收入可以用来购买更好的滑翔翼、火箭以及不同类型的配重，随着天数推进会解锁新的目标和挑战模式。 
 
-### Controls
-- Arrow keys adjust pitch; space/keys for boosters (host dependent).
+### 游戏玩法
 
-### Tips
-- Shallow dives regain speed; gentle climbs extend distance.
-- Save fuel for late‑flight when drag slows you down.
-- Daily goals guide efficient upgrade order.
+- 在起飞前设定合理的发射角度，飞行中保持接近最佳俯仰，让速度和滑翔距离达到平衡。  
+- 推进器或火箭要在速度开始下滑或需要越过障碍时再使用，避免在速度本来就很高时浪费燃料。  
+- 升级优先考虑基础速度与滑翔性能，其次再考虑一些辅助或娱乐性部件。  
 
-### FAQ
-- Q: What upgrades give the best early returns?  
-[ZH TRANSLATION NEEDED]   A: Base speed and glide efficiency outperform fancy extras early.
-- Q: How do I hit distance targets consistently?  
-[ZH TRANSLATION NEEDED]   A: Maintain optimal pitch and reserve boosts for late flight.
-- Q: Is there a hard cap on days?  
-[ZH TRANSLATION NEEDED]   A: You can keep improving until targets are met; challenge modes extend play.
+### 操作说明
 
+- 使用方向键调节企鹅在空中的俯仰角；空格或其他按键（视平台而定）用来触发推进器/火箭。  
+
+### 实用技巧
+
+- 通过轻微俯冲重新获得速度，再缓慢拉起进入长距离滑翔比一直平飞更有效率。  
+- 尽量把燃料保留到飞行后半程，当空气阻力让速度明显下降时再开启推进，这样距离提升更明显。  
+- 利用每日目标作为升级指引，按照任务提示优先加点比盲目升级更快达成新解锁。  
+
+### 常见问题（FAQ）
+
+*   **Q: 前期最值得投资哪些升级？**  
+
+A: Base speed and glide efficiency outperform fancy extras early.
+- **A:** 优先点基础速度和滑翔效率，这比早早购买花哨但性价比较低的装备收益更高。  
+
+
+A: Maintain optimal pitch and reserve boosts for late flight.
+*   **Q: 怎么稳定达成距离目标？**  
+
+A: You can keep improving until targets are met; challenge modes extend play.
+    *   **A:** 保持接近最佳俯仰角度，并把推进器留到后半段使用，不要一开始就全部喷完。  
+
+*   **Q: 天数有硬性上限吗？**  
+    *   **A:** 通常可以一直提升自己的配置直到完成所有目标，后续还可以通过挑战模式继续测试极限距离。

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: odd-one-out
-title: '[DE] Odd One Out'
+title: Odd One Out
 description: >-
-  [DE] Find the item that doesn't belong in the group in Odd One Out, a game
-  that tests your observation and critical thinking skills.
+  In Odd One Out musst du in jeder Gruppe das Objekt finden, das nicht dazu
+  gehört. Das Spiel testet deine Beobachtungsgabe und dein logisches Denken.
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/odd-one-out.jpg
 tags:
@@ -16,27 +16,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Odd One Out ist ein Rätselspiel, das deine Fähigkeit zum Vergleichen und
+ Sortieren von Objekten auf die Probe stellt. In jedem Level siehst du eine
+ Gruppe von Gegenständen, von denen die meisten einem gemeinsamen Muster
+ folgen – zum Beispiel derselben Kategorie, Farbe oder Form angehören. Deine
+ Aufgabe ist es, den einen Gegenstand zu finden, der nicht in diese Gruppe
+ passt.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Odd One Out is a puzzle game that challenges your observation and categorization skills. In each level, you are presented with a group of items, and your task is to identify the one that doesn't fit with the others based on a certain rule or category.
+1.  **Alle Objekte genau ansehen:** Nimm dir einen Moment Zeit, um jedes Objekt
+    in der Gruppe zu betrachten, bevor du entscheidest.
+2.  **Gemeinsames Merkmal finden:** Überlege, welches Merkmal die Mehrheit
+    teilt – etwa Farbe, Form, Größe oder Kategorie (z. B. Tiere, Früchte,
+    Fahrzeuge).
+3.  **Abweichung identifizieren:** Das Objekt, das dieses gemeinsame Merkmal
+    **nicht** hat, ist der eigentliche „Odd One Out“.
+4.  **Bewusst auswählen:** Tippe oder klicke auf das Objekt, von dem du glaubst,
+    dass es nicht zur Gruppe gehört, um das Level abzuschließen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Examine the Items:** Carefully look at all the items presented in the group.
-2.  **[DE]** **Find the Connection:** Determine the common characteristic that most of the items share. This could be color, shape, size, category (like fruits or animals), or another attribute.
-3.  **[DE]** **Identify the Odd One:** The item that does not share this common characteristic is the "odd one out."
-4.  **[DE]** **Select the Item:** Click or tap on the item you believe is the odd one out to proceed to the next level.
+*   **Maus/Touch:** Nutze Maus oder Touchscreen, um das Objekt auszuwählen, das
+    deiner Meinung nach nicht in die Gruppe passt.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Mouse/Touch:** Use the mouse or touch screen to select the item that you think is the odd one out.
+*   **F: Was kann ich tun, wenn ich feststecke?**
+    **A:** Versuche, unterschiedliche Kriterien durchzugehen: Farbe,
+    Kategorie, Anzahl von Details und so weiter. Manchmal ist die gesuchte
+    Gemeinsamkeit sehr offensichtlich, manchmal versteckter.
+    - **F: Gibt es ein Zeitlimit?**
 
-### Frequently Asked Questions (FAQ)
+- **A:** This can vary, but often these games are more about thinking and observation than speed.
 
-*   **[DE]** **Q: What if I'm stuck?**
-    *   **[DE]** **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.
-*   **[DE]** **Q: Is there a time limit?**
-    *   **[DE]** **A:** This can vary, but often these games are more about thinking and observation than speed.
-
+    - **Q: Is there a time limit?**
+    **A:** Je nach Version gibt es ein lockeres oder gar kein Zeitlimit.
+    Im Fokus stehen Beobachtungsgabe und ruhiges Nachdenken, nicht Reaktionstempo.

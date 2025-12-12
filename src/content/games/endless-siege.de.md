@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: endless-siege
-title: '[DE] Endless Siege'
+title: Endless Siege
 description: >-
-  [DE] Defend against relentless waves of orcs in Endless Siege, a captivating
-  tower defense game. Place and upgrade cannons, ballistas, and other powerful
-  towers to survive as long as you can on a new, challenging map every day.
+  Endless Siege ist ein forderndes Tower-Defense-Spiel: Baue und verbessere
+  Kanonen, Ballisten und andere Türme, um endlose Ork-Wellen auf täglich neuen
+  Karten aufzuhalten.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/endless-siege.jpg
 tags:
@@ -16,39 +16,62 @@ score: 4.6/5  (3100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Endless Siege ist ein intensives Tower-Defense-Spiel, in dem du dein Reich
+gegen endlose Wellen aus Orks, Goblins und anderen Monstern verteidigst. Das
+Besondere: Jeden Tag bekommst du eine neue, prozedural generierte Karte – so
+bleibt jede Partie frisch. Mit einer Auswahl an Verteidigungstürmen platzierst
+und verbesserst du dein Abwehrnetz, überstehst möglichst viele Wellen und
+konkurrierst um den Tages-Highscore.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Türme kennen:** Verstehe die Stärken deiner Verteidigung.  
+    - **Ballista:** Schnell feuernder Turm, ideal gegen einzelne, robuste Ziele.  
+    - **Torch:** Flammen-Turm mit Flächenschaden (AoE), perfekt gegen Gruppen
+     schwächerer Gegner.  
+    - **Cannon:** Langsam, aber mit schwerem AoE-Schaden gegen dichte
+     Gegnertrauben.  
+    - **Timewarp:** Support-Turm ohne direkten Schaden, der Gegner in seinem
+     Radius stark verlangsamt und sie zu leichten Zielen für deine
+     Schadens-Türme macht.
+2. **Kill-Zonen bauen:** Verteile deine Türme nicht überall. Platziere sie
+   gebündelt an Kurven oder Kreuzungen, an denen mehrere Türme gleichzeitig auf
+   denselben Gegner feuern können.
+3. **Verlangsamung ausnutzen:** Timewarp zählt zu den wichtigsten Türmen.
+   Stellst du ihn an den Beginn einer langen Geraden, bekommen deine Damage-
+   Türme viel mehr Schüsse auf dieselbe Welle – der Effekt ist enorm.
+4. **Gezielt aufrüsten:** Oft ist es besser, wenige Türme an optimalen Stellen
+   voll aufzurüsten, als viele schwache zu verteilen. Investiere dein Gold in
+   die Türme, die besonders lange Schussfenster auf den Pfad haben.
 
-Endless Siege is a highly engaging tower defense game that challenges you to defend your kingdom against relentless waves of orcs, goblins, and other monstrous foes. The standout feature of the game is that you are presented with a brand new, procedurally generated map every single day, ensuring endless replayability. You must strategically place and upgrade a variety of defensive towers to survive as many waves as possible and compete for the daily high score.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Turm bauen:** Klicke auf einen leeren, runden Bauplatz am Weg, um das
+  Baumenü zu öffnen, und wähle den gewünschten Turm.
+- **Turm upgraden:** Klicke einen bestehenden Turm an, um seine Werte und
+  Upgrade-Optionen zu sehen, und wähle eine Stufe höher.
+- **Nächste Welle starten:** Klicke auf den "Next Wave"-Button, sobald du bereit
+  bist.
 
-1.  **[DE]** **Know Your Towers:** Understanding your defenses is key.
-    *   **[DE]** **Ballista:** A fast-firing tower, excellent for taking down single, high-health enemies.
-    *   **[DE]** **Torch:** A flame tower that deals area-of-effect (AoE) damage, perfect for roasting groups of weaker enemies.
-    *   **[DE]** **Cannon:** A slow but powerful AoE tower that deals massive damage to clusters of foes.
-    *   **[DE]** **Timewarp:** A support tower that doesn't deal damage but significantly slows down all enemies that pass through its radius, making them easier targets for your other towers.
+### Häufige Fragen (FAQ)
 
-2.  **[DE]** **Create Kill Zones:** Don't spread your towers out too much. Try to place them in clusters, especially around bends in the path, where multiple towers can attack the same enemies simultaneously.
-3.  **[DE]** **The Power of Slowing:** The Timewarp tower is one of the most important in the game. Placing a Timewarp tower at the beginning of a long stretch of road allows your damage-dealing towers to get many more shots in, dramatically increasing their effectiveness.
-4.  **[DE]** **Upgrade Strategically:** It's often better to have a few fully upgraded, powerful towers than many weak, basic ones. Focus your gold on upgrading your best-placed towers to maximize their damage output.
+- **F: Welcher Turm ist der beste?**  
+  **A:** Es gibt keinen einzelnen besten Turm. Erfolgreiche Verteidigung lebt
+  von Kombinationen: Cannons und Torches für Gruppen, Ballistas für zähe
+  Einzelgegner und Timewarp, um alles zu verlangsamen.
 
-### Controls Guide
+    - **F: Warum kann ich an manchen Stellen nicht bauen?**  
+  **A:** Türme dürfen nur auf den markierten, runden Bauplätzen entlang des
+  Weges platziert werden.
 
-*   **[DE]** **Build a Tower:** Click on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
-*   **[DE]** **Upgrade a Tower:** Click on an existing tower to see its stats and available upgrades. Click the upgrade button to level it up.
-*   **[DE]** **Call the Next Wave:** When you are ready, click the "Next Wave" button to start the next onslaught of enemies.
+- **F: Wieso sieht die Karte heute anders aus als gestern?**  
 
-### Frequently Asked Questions (FAQ)
+    - **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
 
-*   **[DE]** **Q: What is the best tower in the game?**
-    *   **[DE]** **A:** There is no single "best" tower. A successful defense relies on a smart combination of all four types. Use Cannons and Torches for groups, Ballistas for tough single targets, and Timewarp towers to slow everything down.
+- **Q: Why is the map different from yesterday?**
 
-*   **[DE]** **Q: Why can't I build a tower somewhere?**
-    *   **[DE]** **A:** You can only build on the designated circular plots found along the enemy path.
-
-*   **[DE]** **Q: Why is the map different from yesterday?**
-    *   **[DE]** **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-
+    - **A:** You can only build on the designated circular plots found along the enemy path.
+  **A:** Endless Siege generiert jeden Tag eine neue Karte und bietet so allen
+  Spielern täglich eine frische taktische Herausforderung.

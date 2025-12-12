@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: football-penalty
-title: '[DE] Football Penalty'
+title: "Football Penalty"
 description: >-
-  [DE] Football Penalty captures shootouts — place shots, vary height and
-  corners, and outguess the keeper under pressure.
+  Football Penalty konzentriert sich auf Elfmeterschießen: Wähle Ecke und Höhe,
+  dosiere die Schusskraft und trickse den Keeper unter Druck aus.
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/football-penalty.png
 tags:
@@ -14,36 +14,42 @@ score: 4.0/5  (1881 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Football Penalty dreht sich ganz um Strafstöße. Als Schütze bestimmst du
+Platzierung, Höhe und Power, während du deine Absicht verschleierst. In manchen
+Modi spielst du auch als Torwart, liest den Anlauf und entscheidest dich für
+die richtige Ecke. Platziert geschossene Bälle ins Eck, flache Schüsse und
+spät verratene Richtungswechsel sind meist erfolgreicher als rohe Gewalt.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Ecken anvisieren:** Flache Schüsse in die Ecken sind schwerer zu halten;
+   hohe Bälle sind stark, bergen aber Lattentreffer-Risiko.
+2. **Absichten verbergen:** Variiere Anlaufwinkel und verzögere die endgültige
+   Ausrichtung, um den Keeper nicht zu früh zu informieren.
+3. **Kraft dosieren:** Mittlere bis hohe Power hält Schüsse schnell, ohne dass
+   sie unkontrolliert hochsteigen.
+4. **Als Keeper lesen:** Bewege dich spät und springe in die Richtung des
+   Schussbeins bzw. zur offenen Körperseite des Schützen.
+5. **Wind bedenken (falls vorhanden):** Korrigiere bei starkem Wind leicht die
+   Zielrichtung und halte Bälle flacher.
 
-Football Penalty focuses on spot‑kicks. As the taker, you must select placement, height, and power while disguising intent. As the keeper (in some modes), you read the run‑up and dive accordingly. Clean corners, low drives, and late disguise beat average AI.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Mit der Maus zielen; Power über Halten der Taste bestimmen; je nach Version
+  kannst du durch Ziehen Effet hinzufügen.
 
-1.  **[DE]** Corners: Aim low corners for harder saves; high corners are strong but risk the bar.
-2.  **[DE]** Disguise: Vary run‑up angles and shoot late to avoid telegraphing.
-3.  **[DE]** Power: Medium‑high power keeps shots quick without ballooning.
-4.  **[DE]** Keeper mode: Move late and dive toward foot/open‑body side.
-5.  **[DE]** Mind wind (if modeled): Offset slightly and reduce height.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Meine Schüsse werden ständig gehalten – was tun?**  
+  **A:** Wechsle Höhe und Ecke, verzögere das finale Zielen ein wenig und
+  meide vorhersehbare Schüsse in die Tormitte.
 
-- Aim with mouse; set power with a press/hold; add swerve by dragging (if supported).
+- **F: Was ist der sicherste Schuss?**  
+  **A:** Kräftige, flache Schüsse in die Ecke sind meist am schwersten zu
+  erreichen.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My shots always get saved — what now?
-
-A: Change level/height and delay the final aim; avoid predictable mid‑goal shots.
-
-- Q: Best safe shot?
-
-A: Firm low corner drives; they’re fast and tough to reach.
-
-- Q: How do I read the AI as keeper?
-
-A: Watch the last two steps of the run‑up; many strikers open their hips toward the shot.
-
+- **F: Wie lese ich als Keeper die KI?**  
+  **A:** Achte auf die letzten Schritte des Anlaufs; viele Schützen drehen Hüfte
+  und Oberkörper in Richtung der geplanten Schussseite.

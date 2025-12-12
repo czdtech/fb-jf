@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 4-in-row-mania
-title: '[KO] 4 In Row MANIA'
+title: '4 In Row MANIA 사목 매니아'
 description: >-
-  [KO] 4 In Row MANIA is a classic connect‑four duel — outmaneuver, control
-  columns, and line up four first.
+  4 In Row MANIA는 고전 사목(Connect Four)을 기반으로 한 대전 퍼즐입니다.
+  열을 장악하고 상대를 견제하며 네 개를 먼저 일직선으로 이어 보세요.
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
 thumbnail: /new-images/4-in-row-mania.jpg
 tags:
@@ -14,28 +14,45 @@ score: 4.1/5  (1993 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+4 In Row MANIA는 세로로 떨어지는 말로 네 개를 먼저 잇는 고전 사목 게임입니다.
+위에서 말을 떨어뜨려 줄을 만들면서 동시에 상대의 승리 수를 차단해야 하며,
+열을 어떻게 점유하느냐와 이중 위협(두 군데에서 동시에 승리 상황을 만드는 것)을
+설계하는 것이 핵심입니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **중앙 열 장악:** 중앙 열은 가로·세로·대각선 모든 방향에서 가장 많은
+    승리 라인을 만들 수 있는 위치입니다. 초반에는 중앙을 우선적으로
+    차지해 두는 것이 좋습니다.
+2.  **포크(이중 위협) 만들기:** 한 수를 두었을 때 두 군데에서 동시에 '다음 수에
+    이기게 되는' 모양을 만드는 것이 가장 강력한 전략입니다. 상대가 어느 쪽을
+    막아도 한쪽에서는 승리할 수 있게 구조를 설계하세요.
+3.  **패턴과 순서(패리티) 계산:** 마지막 말을 누가 두게 될지, 어느 줄이 먼저
+    가득 차는지를 미리 계산해 두면 승리 수를 강제로 만들어 내기 쉽습니다.
+4.  **함정 주의:** 눈앞의 한 줄만 보고 말을 쌓다 보면, 오히려 상대에게
+    이중 위협을 만들어 줄 수도 있습니다. 한 수 둘 때마다 상대가 그 위에 말을
+    두었을 때 어떤 상황이 되는지도 함께 상상해 보세요.
+5.  **마무리 계산:** 후반에는 남은 칸 수와 턴 순서를 정확히 세면서, 어느 칸을
+    누구 차례에 채우게 될지 역산해 승리 수를 준비하는 것이 중요합니다.
 
-4 In Row MANIA is a connect‑four game of vertical tactics. Drop checkers to create threats while blocking your opponent, managing column parity and double‑threat setups.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 원하는 열을 클릭/탭하면 그 열의 가장 아래 빈 칸으로 말이 떨어집니다.
+- 한 기기에서 번갈아 두는 2인용 로컬 모드나, AI와 대전하는 모드가 제공되는
+  경우가 많습니다.
 
-1.  **[KO]** Center control: The center column yields the most potential lines.
-2.  **[KO]** Create forks: Build positions that threaten two wins at once.
-3.  **[KO]** Parity: Force the opponent to give you the winning row by controlling move order.
-4.  **[KO]** Watch traps: Don’t stack into a setup that gives opponent a fork.
-5.  **[KO]** Endgame: Count remaining slots and tempo precisely.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **선공이 유리한가요?**  
+  이론상 약간 유리하지만, 견고한 수비와 순서 계산을 통해 후공도 충분히
+  승리를 노릴 수 있습니다.
 
-- Click/tap a column to drop a checker.
-- Local 2‑player or vs. AI modes are common.
+- **무승부가 자주 나오나요?**  
+  보드는 대부분 한쪽이 승리하는 쪽으로 마무리되는 편이며, 완전히 막힌
+  상태에서의 무승부는 비교적 드뭅니다.
 
-### Frequently Asked Questions (FAQ)
-
-- First‑move advantage? Slight; strong defense and parity control balance it.
-- Draws? Boards typically resolve; stalemates are rare.
-- Best opening? Center or near‑center for maximum options.
+- **좋은 초반 수는 무엇인가요?**  
+  일반적으로 중앙 또는 중앙에 가까운 열에 먼저 두는 것이 가장 많은 선택지를
+  남겨 줍니다.

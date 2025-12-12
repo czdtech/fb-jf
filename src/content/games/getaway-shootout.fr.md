@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: getaway-shootout
-title: '[FR] Getaway Shootout'
-description: >-
-  [FR] Chaotic physics race‑and‑shoot: hop your way to the getaway point, grab
-  goofy weapons, and outsmart rivals in 2‑player or solo.
+title: "Getaway Shootout"
+description: "Course‑tir chaotique avec physique débile : bondis jusqu’au point d’extraction, ramasse des armes improbables et piège tes rivaux en solo ou à 2 joueurs."
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/getaway-shootout.jpg
 tags:
@@ -15,30 +13,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Getaway Shootout est un platformer compétitif basé sur une physique volontairement bancale, où les personnages avancent en faisant de petits bonds alternés. Chaque manche te largue sur une carte en vue latérale pleine d’échelles, de plateformes mobiles et de caisses d’armes. Ton objectif : être le premier à atteindre le point d’extraction, tout en utilisant flingues et gadgets slapstick pour ralentir les autres. La locomotion maladroite fait partie du fun : maîtriser le timing des sauts, le momentum sur les pentes et les changements de direction en l’air, c’est ce qui fait gagner les courses.
 
+### Comment jouer
 
-### Overview
-Getaway Shootout is a competitive physics platformer where characters lurch forward with alternating hops. Each round drops you into a side‑scrolling map full of ladders, moving platforms, and weapon crates. The goal is to reach the extraction point first while using slapstick guns and gadgets to disrupt opponents. The awkward locomotion is the point: mastering hop timing, momentum on slopes, and mid‑air direction changes wins races.
+- Alterne les sauts gauche/droite pour prendre de la vitesse ; utilise de courtes pressions pour les petits ajustements et de longs maintiens pour de grands bonds.
+- Ramasse les caisses pour obtenir pistolets, lance‑roquettes ou gadgets variés, et déclenche‑les au bon moment.
+- Apprends les raccourcis de carte et le rythme des plateformes mobiles pour garder de l’avance.
 
-### How to Play
-- Alternate hops to build speed; use short taps for micro‑steps and long holds for vaults.
-- Grab crates for weapons like pistols, rocket launchers, or gadgets; use them sparingly.
-- Learn map shortcuts and moving platform cycles to stay ahead.
+### Commandes
 
-### Controls
-- Two keys to hop left/right; separate keys to use items (keybinds vary by host); supports local 2‑player.
+- Deux touches pour sauter vers la gauche/droite ; d’autres touches pour utiliser les objets (les bindings exacts dépendent de l’hébergeur).  
+- Le jeu supporte le multijoueur local à 2 joueurs sur le même clavier.
 
-### Tips
-- On slopes, time longer holds to convert vertical gain into forward speed.
-- Fire weapons at chokepoints or while an opponent jumps—knockback is strongest mid‑air.
-- Practice starts: early acceleration often decides close races.
+### Astuces
 
-### FAQ
-- Q: How do I move faster with such clumsy controls?
-A: Use alternating long/short hops and leverage slopes for momentum.
-- Q: Can I play with a friend on one keyboard?
-A: Yes, most hosts map a second control set for local multiplayer.
-- Q: Do weapons respawn during a round?
-A: Crates respawn on timers; memorize placements to plan routes.
+- Sur les pentes, maintiens ton saut plus longtemps pour convertir le gain vertical en vitesse horizontale.
+- Tire dans les goulets d’étranglement ou lorsque l’adversaire est en plein saut : le knockback est maximal en l’air.
+- Entraîne‑toi aux départs : un bon boost de vitesse dès les premières secondes décide souvent des manches serrées.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment aller plus vite avec des contrôles aussi « flottants » ?
+  
+  R : En alternant intelligemment petits et grands sauts et en utilisant les pentes pour gagner du momentum.
+
+- Q : Puis‑je jouer avec un ami sur le même clavier ?
+  
+  R : Oui, la plupart des versions proposent un second schéma de touches pour le joueur 2.
+
+- Q : Les armes réapparaissent‑elles pendant une manche ?
+  
+  R : Les caisses reviennent sur des timers. Mémorise leur position pour planifier tes trajets.
 

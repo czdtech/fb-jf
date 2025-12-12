@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: geometry-dash-world
-title: '[DE] Geometry Dash World'
+title: "Geometry Dash World"
 description: >-
-  [DE] Compact rhythm‑platformer worlds: run, jump, and fly through short
-  music‑synced levels, unlock gates with collected orbs, and visit daily levels.
+  Geometry Dash World fasst das Rhythmus-Platforming in kurze Welten zusammen:
+  Laufe, springe und fliege durch kompakte Musik-Level, sammle Orbs zum
+  Freischalten von Toren und spiele tägliche Stages.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/geometry-dash-world.jpg
 tags:
@@ -14,31 +15,50 @@ score: 3.6/5  (1425 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Geometry Dash World destilliert das Kernprinzip von Geometry Dash in zwei
+Themenwelten mit kurzen, eng designten Stages. Hindernisse sind dabei an die
+Soundtracks synchronisiert: Jump-Pads und Ringe katapultieren dich über
+Stacheln, Gravity- und Size-Portale verändern deine Bewegung, und
+Schiff-/Ball-Abschnitte fordern feine Kontrolle. Mit Orbs und Schlüsseln
+schaltest du neue Torbereiche frei, tägliche Level bringen zusätzliche
+Herausforderungen und im Übungsmodus kannst du Abschnitte mit Checkpoints
+verinnerlichen.
 
+### So spielst du
 
+- Tippe/Springe im Takt, um Spikes und Sägen zu überwinden; halte gedrückt, um
+  Schiff oder Ball stabil zu fliegen.
+- Sammle Orbs/Schlüssel, um Tore und zusätzliche Nodes freizuschalten;
+  optionale Münzen bieten Extra-Challenge.
+- Nutze den Practice-Mode, um schwierige Stellen in überschaubare Segmente mit
+  Checkpoints zu zerlegen.
 
-### Overview
-Geometry Dash World distills the core rhythm‑platforming into two themed worlds of brief, tightly designed stages. Each level syncs obstacles to the soundtrack: jump pads and rings propel you over spikes, gravity/size portals transform movement, and ship/ball segments test fine control. Collect orbs and keys to unlock gates, visit daily levels for fresh challenges, and practice sections with checkpoints before committing to a full clear. While shorter than the main series, World emphasizes fast iteration, readable patterns, and score‑chasing with coins and time.
+### Steuerung
 
-### How to Play
-- Tap/jump exactly on beat to clear spikes and saws; hold to pilot ship/ball smoothly.
-- Gather orbs/keys to open gates and extra nodes; optional coins add challenge.
-- Use practice mode to break difficult sections into repeatable chunks.
+- Leertaste/Maus/Touch zum Springen; Halten zum Fliegen; Practice- und
+  Checkpoint-Shortcuts sind hostabhängig.
 
-### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice/checkpoint controls vary by host.
+### Tipps
 
-### Tips
-- Learn the song’s phrasing—hazards often align with downbeats and fills.
-- Keep ship inputs light; release to settle before tight gaps.
-- Turn on practice to map tricky ring timings, then execute a clean run.
+- Lerne den Aufbau der Songs – Gefahren liegen oft auf Downbeats oder markanten
+  Soundeffekten.
+- Steuere das Schiff mit leichten Impulsen; lasse kurz los, um dich vor engen
+  Passagen zu stabilisieren.
+- Schalte früh in den Übungsmodus, wenn du an einer Stelle immer wieder
+  scheiterst, und gehe danach zurück in den Normalmodus für einen Clean Run.
 
 ### FAQ
-- Q: Does Geometry Dash World include user‑created levels?
-A: It focuses on curated stages; some hosts surface daily levels and community picks.
-- Q: How do I unlock gated nodes?
-A: Spend orbs/keys earned from clears and dailies.
-- Q: Can I place checkpoints?
-A: Practice mode supports checkpoints; normal clears do not.
 
+- **F: Gibt es in Geometry Dash World Community-Level?**  
+  **A:** Der Fokus liegt auf kuratierten Stages; einige Hosts blenden zusätzlich
+  Daily Levels oder Community-Empfehlungen ein.
+
+- **F: Wie öffne ich gesperrte Knoten?**  
+  **A:** Mit Orbs/Schlüsseln, die du beim Abschließen von Levels oder dailies
+  erhältst.
+
+- **F: Kann ich Checkpoints setzen?**  
+  **A:** Im Practice-Mode ja, im normalen Run musst du Level ohne Checkpoints
+  durchspielen.

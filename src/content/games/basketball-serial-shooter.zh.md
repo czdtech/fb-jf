@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: basketball-serial-shooter
-title: '[ZH TRANSLATION NEEDED] Basketball serial shooter'
+title: Basketball Serial Shooter 连发投篮挑战
 description: >-
-  [ZH TRANSLATION NEEDED] Basketball serial shooter turns rapid‑fire hoops into
-  skill — set arcs, manage rhythm, and chain swishes under pressure.
+  《Basketball Serial Shooter 连发投篮挑战》是一款强调节奏与弧线控制的连发投篮游戏，在有限时间或球数
+  内，通过稳定手感与精准预判，把一颗颗篮球空心送进篮筐。
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/basketball-serial-shooter.jpg
 tags:
@@ -16,44 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Basketball serial shooter is a fast, score‑attack basketball challenge focused on timing, arc control, and shot selection. You’ll face moving hoops, shifting wind (in some variants), and limited time or balls. The core loop is to settle a repeatable release, read the basket movement, and string swishes without rim‑outs. As you progress, obstacles, moving backboards, and changing hoop heights add variety and demand cleaner mechanics.
+*Basketball Serial Shooter* 是一款节奏明快的“连发投篮”得分挑战游戏，玩法核心在于 **出手时机、弧线控制和投篮选择**。你需要在限定时间或限定球数下，持续完成投篮，通过一记记空心命中来冲击更高分数。
 
-### Gameplay Strategy & Walkthrough
+游戏中会出现不断移动的篮筐、某些版本里还会加入风力影响，你既要读懂篮筐移动的节奏，又要根据风向与风力微调出手方向与弧线。随着进度推进，会出现挡板、移动篮板、变化高度的篮筐等要素，迫使你打磨更干净、更稳定的出手动作。
 
-1.  Build a repeatable form: Pick a comfortable cursor position and release rhythm so each attempt feels consistent.
-2.  Arc over power: Favor higher arcs that drop softly; flat line‑drives rim out more often.
-3.  Read cycles: For moving hoops, identify the motion cycle and shoot at the same phase each time.
-4.  Work inside‑out: Take nearer, higher‑percentage shots to establish a streak before attempting long‑range baskets.
-5.  Recover quickly: If you miss, pause half a beat to re‑center aim and re‑establish rhythm before the next shot.
-6.  Wind adjustment (if present): Offset aim into the wind and add a touch more arc to compensate for drift.
-7.  Goal management: In timed modes, ignore risky coins or side targets unless alignment is clean.
+### 游戏策略与通关思路
 
-### Controls Guide
+1.  **先建立可复现的出手动作：**  
+    找到一个你最舒服的鼠标位置与出手节奏，让每次投篮的起手动作尽量保持一致。这样你只需要做小幅度微调，就能快速修正偏差。
+2.  **优先高弧线，而不是一味加力：**  
+    较高的弧线可以让篮球从上方“砸进”篮筐，容错率更高；扁平、力量过大的投篮更容易在篮筐前后沿弹出。除非需要破坏特殊目标，否则尽量选择柔和而稳定的高弧线。
+3.  **读懂移动篮筐的节奏：**  
+    面对左右摆动的篮筐，先完整观察一整轮移动周期，再选择一个好记的“相位”（比如刚到最左端往回摆时）作为固定出手机会。只要你总是在同一节奏点出手，命中率会明显提高。
+4.  **由近到远，先把连击打稳：**  
+    在需要连击或倍率加成的模式中，先利用较近、较稳的投篮位置建立连击，再尝试距离更远、难度更高的投篮。先保住连击，再冒险拉远距离，是更稳妥的打法。
+5.  **投丢后，给自己半拍时间重置：**  
+    连续几次失误往往来自“心态加速”——一味急着抢时间。每次投失之后，稍微停顿半秒，重新对准准星和节奏，再出下一球，比盲目连点要稳定得多。
+6.  **有风时学会“顶风瞄准”：**  
+    如果关卡存在风向与风力，出手时轻微将瞄准方向偏向迎风一侧，并适当增加弧线高度。用几次试投感受风对球路的偏移量，再在此基础上做固定修正。
+7.  **合理取舍硬币与支线目标：**  
+    在计时模式中，地图上可能会出现金币或边缘目标。除非它们恰好与原本的投篮弧线重合，否则不要为了这些奖励强行改弧线，打乱原本稳定的节奏，得不偿失。
 
-- Aim and power: Drag to set angle/power and release to shoot; some builds separate power on a hold bar.
-- Special targets: Tap bonus targets only when they line up with your normal arc.
-- Pause/Retry: Use on‑screen controls; some versions allow quick reset.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+- **瞄准与力度：** 按住并拖动来设置角度和力度，松开即可投篮；有的版本会在力量槽上单独显示蓄力进度。  
+- **特殊目标：** 只有当金币或加分目标恰好落在你常用弧线轨迹附近时，再顺手去打；不要为它们完全改变出手习惯。  
+- **暂停 / 重开：** 通过界面按钮进行暂停或快速重开，有的版本会提供一键重试功能，方便你刷分。
 
-- Q: Why do my shots keep rimming out?
-  
-[ZH TRANSLATION NEEDED]   A: Your arc is too flat or power is too high. Raise the apex and reduce power slightly so the ball drops softly through the rim.
-
-- Q: How do I handle moving hoops?
-  
-[ZH TRANSLATION NEEDED]   A: Watch a full motion cycle, pick a consistent phase (e.g., leftmost point), and release at that moment every time.
-
-- Q: Does wind matter in this game?
-  
-[ZH TRANSLATION NEEDED]   A: In variants with wind, aim slightly into the wind and add arc; practice a few test shots to calibrate drift.
-
-- Q: Any tip for streaks and multipliers?
-  
-[ZH TRANSLATION NEEDED]   A: Start with close, safe shots to build a combo, then extend range once your rhythm is locked.
-
-- Q: Should I go for coin shots?
-  
-[ZH TRANSLATION NEEDED]   A: Only if their path matches your standard arc; otherwise you’ll lose more time and streak than you gain.
+### 常见问题解答（FAQ）
+*   **问：为什么我的球总是被篮筐弹出？****
+    **答：** 大概率是出手弧线太平、力度过大。尝试把弧线顶点抬高一点，同时稍微减小力度，让篮球以上升再下落的轨迹“柔和地”落入篮筐，而不是用直线强行砸向篮圈。
+*   **问：移动篮筐很难抓准时机，怎么办？****
+    **答：** 先不要急着出手，完整观察篮筐一次完整的移动周期，选定一个容易记住的位置（例如刚到最左端或回到中间时），以后每一球都在这个时机出手。固定节奏比“凭感觉乱丢”更可靠。
+*   **问：这款游戏里的风向真的有影响吗？****
+    **答：** 在带风力的版本中，确实会对球路产生明显影响。你需要略微朝迎风方向瞄准，并增加弧线高度，然后用几次试投感受偏移量，找到一套“顶风的固定瞄点”。
+*   **问：有什么连击和倍率的小技巧？****
+    **答：** 先用最近、最稳的投篮位置连续命中几球，先把连击和倍率堆起来，再逐步往更远、更难的位置尝试。越是连击高的时候越要稳住节奏，宁可保守一点，也不要为一球炫技断掉整串连击。
+*   **问：地图上的金币值得去抢吗？****
+    **答：** 只有当金币或支线目标刚好处在你习惯的标准弧线附近时，才值得顺手一投。如果需要大幅改变角度或力度，大多数情况下会浪费更多时间和连击，不如专心命中篮筐本身。

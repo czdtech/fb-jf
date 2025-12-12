@@ -1,70 +1,39 @@
 ---
+title: "Ghost Pro Racing"
+description: "Ghost Pro Racingはタイムトライアルレーサーです。ゴーストのリプレイを追いかけ、完璧なライン取りをし、一貫した入力でコンマ数秒を削りましょう。"
+iframeSrc: "https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/"
+thumbnail: "/new-images/ghost-pro-racing.jpg"
+urlstr: "ghost-pro-racing"
+score: "3.9/5  (1711 votes)"
+tags: ["car", "driving", "sports"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: ghost-pro-racing
-title: '[JA TRANSLATION NEEDED] Ghost Pro Racing'
-description: >-
-  [JA TRANSLATION NEEDED] Ghost Pro Racing is a time‑trial racer — chase ghost
-  replays, perfect lines, and shave tenths with consistent inputs.
-iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
-thumbnail: /new-images/ghost-pro-racing.jpg
-tags:
-  - car
-  - driving
-  - sports
-score: 3.9/5  (1711 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Ghost Pro Racingは、ゴーストリプレイに対するホットラップの一貫性を重視しています。ゴーストカーがより速いラインを示す中で、ブレーキングポイント、エイペックス（コーナーの頂点）の速度、スロットルを開けるタイミングを学びます。安定した自己ベスト（PB: Personal Best）を出すには、リスクの高いダイブボム（無理な突っ込み）よりも、きれいな入力と再現性のある基準点が勝ります。
 
-[JA TRANSLATION NEEDED] Ghost Pro Racing emphasizes hot‑lap consistency against ghost replays. You’ll learn braking points, apex speeds, and throttle pickups while ghost cars show faster lines. Clean inputs and repeatable references beat risky dive‑bombs for stable PBs.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **目印**: ブレーキングやターイン（ハンドルの切り始め）のために、固定されたコース上の目印を決めましょう。スピードメーターだけに頼るのは避けてください。
+2.  **レイトエイペックス**: 一呼吸遅れてターンすることで、出口を直線的にし、より早くスロットルを開けられるようにしましょう。
+3.  **トレイルブレーキング**: コーナーの初期段階までブレーキを残し（軽い圧力）、フロントのグリップを維持しましょう。
+4.  **出口優先**: 長い直線へと続く出口での成功は、入り口での小さな利益をはるかに上回ります。
+5.  **ゴーストの研究**: ゴーストの弧を追いましょう。自分がどこでスロットルを緩めているか、あるいはターンが早すぎるかを見つけましょう。
 
-[JA TRANSLATION NEEDED] 1.  Landmarks: Pick fixed track markers for braking/turn‑in; avoid relying on speedometer alone.
-[JA TRANSLATION NEEDED] 2.  Late apex: Turn a beat later to straighten exits and allow earlier throttle.
-[JA TRANSLATION NEEDED] 3.  Trail braking: Bleed brake into early corner to keep front grip (light pressure).
-[JA TRANSLATION NEEDED] 4.  Exit priority: A good exit onto long straights dwarfs small entry gains.
-[JA TRANSLATION NEEDED] 5.  Ghost study: Follow the ghost’s arc; find where you’re lifting or turning too early.
+### 操作ガイド
 
-### Controls Guide
+- **ステアリング**: A/D または 左/右。
+- **スロットル/ブレーキ**: W/S または 上/下。
+- **リスタート**: R。
 
-- Steer: A/D or Left/Right.  Throttle/Brake: W/S or Up/Down.  Restart: R.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep sliding — fix?
-  
-[JA TRANSLATION NEEDED]   A: You’re turning too much/too fast. Trail brake lightly and unwind steering sooner on exit.
-
-- Q: Can I beat the ghost?
-  
-[JA TRANSLATION NEEDED]   A: Yes — focus one sector at a time; once you’re ahead, maintain safe exits.
-
-- Q: Best training drill?
-  
-
-
-
-
-
-- Q: I keep sliding — fix?
-### よくある質問（FAQ）
-- Steer: A/D or Left/Right.  Throttle/Brake: W/S or Up/Down.  Restart: R.
-### コントロールガイド
-- Ghost study: Follow the ghost’s arc; find where you’re lifting or turning too early.
-[JA TRANSLATION NEEDED]   A: Ten laps at 90% pace without spins to lock references, then push.
-
-
-
-
-
-
-A: Ten laps at 90% pace without spins to lock references, then push.
-- Q: Best training drill?
-A: Yes — focus one sector at a time; once you’re ahead, maintain safe exits.
-- Q: Can I beat the ghost?
-
-
-A: Ten laps at 90% pace without spins to lock references, then push.
+- **Q: スライドし続けてしまいます。どうすればいいですか？**
+  A: ハンドルを切りすぎているか、速すぎます。トレイルブレーキングを軽く使い、出口では早めにステアリングを戻しましょう。
+- **Q: ゴーストに勝てますか？**
+  A: はい。一度に一つのセクターに集中しましょう。前に出たら、安全な出口を維持してください。
+- **Q: 最適な練習ドリルは？**
+  A: スピンしないように90%のペースで10周走り、基準点を固めてからプッシュしましょう。

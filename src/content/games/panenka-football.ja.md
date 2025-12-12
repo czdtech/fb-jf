@@ -1,69 +1,39 @@
 ---
+title: "Panenka Football"
+description: "Panenka Footballはペナルティキックゲームです。Panenkaスタイルショットをマスターし、ゴールキーパーを騙し、ペナルティキックチャレンジで勝ちます。"
+iframeSrc: "https://panenkafootball.h5games.usercontent.goog/v/5j8k9m2h7p3n8/"
+thumbnail: "/new-images/panenka-football.png"
+urlstr: "panenka-football"
+score: "4.0/5  (1734 votes)"
+tags: ["sports", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: panenka-football
-title: '[JA TRANSLATION NEEDED] Panenka Football'
-description: >-
-  [JA TRANSLATION NEEDED] Panenka Football is a penalty craft — disguise intent,
-  chip with touch, and outguess keepers with audacious Panenkas.
-iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
-thumbnail: /new-images/panenka-football.png
-tags:
-  - sports
-  - soccer
-score: 4.0/5  (1863 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Panenka Footballは、有名なPanenkaペナルティキック技術に焦点を当てます。ショットのパワーと方向を選択し、完璧にタイミングを合わせて、ゴールキーパーがダイブした後にボールを中央にチップします。
 
-[JA TRANSLATION NEEDED] Panenka Football focuses on the cheeky Panenka — a soft chip down the middle as the keeper dives. Mix chips with corners and height variations; success relies on late aim changes and reading keeper habits.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **キーパーを読む:** 彼らのダイブ傾向を観察します。
+2.  **タイミングが重要:** Panenkaには完璧なタイミングが必要です。
+3.  **ショットをミックス:** 常にPanenkaをしないでください。キーパーは学びます。
+4.  **パワーを調整:** 十分に高くチップしますが、高すぎません。
+5.  **練習:** 繰り返しがタイミングを完璧にします。
 
-[JA TRANSLATION NEEDED] 1.  Keeper read: If the keeper dives early, chip middle; if he holds, pick corners.
-[JA TRANSLATION NEEDED] 2.  Height control: Low hard drives vs cautious keepers; soft chips vs aggressive ones.
-[JA TRANSLATION NEEDED] 3.  Disguise: Delay final aim to avoid telegraphing; vary run‑up angles.
-[JA TRANSLATION NEEDED] 4.  Rhythm: Don’t overuse Panenkas; rotate options.
-[JA TRANSLATION NEEDED] 5.  Wind (if any): Offset shots slightly; keep chips low in strong wind.
+### 操作ガイド
 
-### Controls Guide
+- クリック/タップしてパワーを設定します。
+- 方向を選択します。
+- Panenkaのために完璧にタイミングを合わせます。
 
-- Aim with mouse/keys; set power/height; optional swerve via drag if supported.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My Panenkas get saved.
-  
-[JA TRANSLATION NEEDED]   A: Use them only when the keeper dives early; otherwise go corners.
-
-- Q: Best safe shot?
-  
-[JA TRANSLATION NEEDED]   A: Firm low corners; they demand perfect keeper timing.
-
-- Q: How do I hide intent?
-  
-
-
-
-
-
-- Q: My Panenkas get saved.
-### よくある質問（FAQ）
-- Aim with mouse/keys; set power/height; optional swerve via drag if supported.
-### コントロールガイド
-- Wind (if any): Offset shots slightly; keep chips low in strong wind.
-[JA TRANSLATION NEEDED]   A: Change aim late and vary run‑up tempo.
-
-
-
-
-
-
-A: Change aim late and vary run‑up tempo.
-- Q: How do I hide intent?
-A: Firm low corners; they demand perfect keeper timing.
-- Q: Best safe shot?
-
-
-A: Change aim late and vary run‑up tempo.
+- **Q: Panenkaとは何ですか？**  
+  A: ゴールキーパーがダイブした後に中央にボールをチップする技術。
+- **Q: 継続的にミスします。ヒントは？**  
+  A: タイミングと方向を練習します。キーパーを見てください。
+- **Q: 他のショットタイプはありますか？**  
+  A: はい、ほとんどのバージョンは通常のショットとPanenkaを許可します。

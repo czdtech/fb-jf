@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-virus-new-update
-title: '[KO] Sprunki Virus New Update - Play Sprunki Virus New Update Online'
+title: "Sprunki Virus New Update 스프룽키 바이러스 뉴 업데이트"
 description: >-
-  [KO] Are you craving a musical journey that challenges the limits of your
-  senses? Sprunki Virus will take you into a virus-infested Sprunki world, using
-  eerie soundscapes, glitchy graphics, and intense gameplay mechanics to bring
-  you an unprecedented thrilling experience!
+  Sprunki Virus New Update는 바이러스에 감염된 듯한 스프룽키 세계를 배경으로, 글리치
+  사운드와 어두운 비주얼, 변형된 캐릭터를 활용해 불길한 분위기의 음악을 만드는
+  모드입니다. 감각을 자극하는 괴이한 루프를 조합해 색다른 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
 thumbnail: /sprunki-virus-new-update.png
 tags:
@@ -16,26 +15,49 @@ score: 4.0/5  (407 votes)
 
 
 
-Are you craving a musical journey that challenges the limits of your senses? Sprunki Virus will take you into a virus-infested Sprunki world, using eerie soundscapes, glitchy graphics, and intense gameplay mechanics to bring you an unprecedented thrilling experience!
+당신의 감각 한계를 시험하는 음악 여행을 찾고 있다면,
+*Sprunki Virus New Update*가 바로 그 무대입니다. 이 모드는 바이러스에 감염된 듯한
+스프룽키 세계로 여러분을 초대하며, 기묘한 사운드스케이프와 글리치 그래픽,
+긴장감 있는 연출로 독특한 공포 분위기의 음악 경험을 선사합니다.
 
-### What is Sprunki Virus?
+### Sprunki Virus란 무엇인가요?
 
-Sprunki Virus takes the familiar Sprunki universe and transforms it into a haunting, suspense-filled experience. Blending eerie soundscapes, glitchy visuals, and intense gameplay mechanics, this mod is perfect for those who love a thrilling, creative challenge.
+Sprunki Virus는 익숙한 스프룽키 유니버스를 불길하고 서스펜스 넘치는 세계로
+재해석한 모드입니다. 으스스한 사운드 루프, 깨진 화면 같은 비주얼, 예측할 수 없는
+플레이 감각이 결합되어, 섬뜩하면서도 창의적인 음악 제작을 좋아하는 플레이어에게
+안성맞춤입니다.
 
-### What's So Special About Sprunki Virus?
+### Sprunki Virus의 특별한 점
 
-- **Twisted Character Design:** In Sprunki Virus, you will see characters infected with the virus, showcasing glitchy designs and distorted animations that reflect their viral affliction, creating an unsettling atmosphere.
-- **Eerie Soundscapes:** The mod features loops filled with haunting beats, unsettling melodies, and glitch effects. These eerie sound elements immerse players in a world on the brink of collapse, where every composition takes on a darker, more ominous tone.
-- **Dark Visuals:** The game's visuals are corrupted by the virus, with glitchy transitions, shadowy backgrounds, and distorted effects that amplify the feeling of suspense, keeping players on edge.
-- **Challenging Gameplay:** Expect unexpected glitches and evolving sound loops that push your creativity. You must constantly adapt and experiment with new combinations to survive in the world of Sprunki Virus.
+- **뒤틀린 캐릭터 디자인:** 이 모드에서는 바이러스에 감염된 스프룽키 캐릭터들을
+  만나게 됩니다. 글리치 효과와 왜곡된 애니메이션으로 표현된 이 캐릭터들은
+  전체적인 불안감을 한층 높입니다.
+- **불길한 사운드스케이프:** 루프들은 으스스한 비트와 불협화적인 멜로디,
+  글리치 효과로 가득 차 있습니다. 붕괴 직전의 세계를 연상시키는 사운드 덕분에,
+  곡을 만들 때마다 어두운 긴장감이 자연스럽게 살아납니다.
+- **어두운 비주얼:** 화면 전반에 바이러스가 번진 듯한 효과가 적용되어 있고,
+  글리치 전환, 그림자 가득한 배경, 왜곡된 이펙트들이 플레이어를 계속 긴장시키며
+  몰입감을 극대화합니다.
+- **도전적인 플레이:** 예기치 못한 글리치와 시간이 지나며 변하는 루프들이
+  끊임없이 새로운 조합을 요구합니다. 같은 패턴에 머무르지 않고, 계속 새로운
+  사운드를 실험해야 이 세계에서 살아남을 수 있습니다.
 
+### 바이러스 세계에서 살아남는 법
 
-### How to Survive in the Virus-Infested World?
+- **감염된 팀 구성하기:** 먼저 바이러스 테마의 캐릭터들 중에서 팀원을 고르세요.
+  각 캐릭터는 고유한 사운드 루프와 애니메이션을 가지고 있어, 조합에 따라 곡의
+  분위기가 크게 달라집니다.
+- **글리치 트랙 만들기:** 드래그 앤 드롭으로 캐릭터들을 무대 위에 배치해,
+  깨진 듯한 비트와 불길한 리듬을 만들어 보세요. 여러 트랙을 겹쳐 저주받은 합주를
+  완성할 수 있습니다.
+- **바이러스를 받아들이기:** 다양한 루프 조합을 시도하고, 볼륨과 구성을 조절해
+  바이러스 특유의 음산한 느낌을 극대화해 보세요. 깊이 파고들수록 곡은 점점 더
+  어둡고 강렬해집니다.
+- **혼돈을 공유하기:** 완성된 트랙은 커뮤니티와 공유해, 자신만의 기이한 작품을
+  보여 줄 수 있습니다. 다른 플레이어가 만든 음침한 곡들을 감상하는 것도 또 하나의
+  재미입니다.
 
-- **Choose Your Infected Team:** Start by selecting from a roster of virus-themed characters. Each character comes with unique sound loops and animations that affect your music creation.
-- **Create Glitchy Tracks:** Use the drag-and-drop feature to place your infected characters onto the stage and craft glitchy beats and haunting rhythms.
-- **Embrace the Virus:** Experiment with various loop combinations, adjust dynamics and refine your track to reflect the eerie essence of the virus. The more you explore, the darker your compositions become.
-- **Share Your Chaos:** Once your tracks are ready, share them with the Sprunki community. Showcase your hauntingly creative talents and enjoy others' eerie compositions.
-
-
-If you like dark, immersive themes and enjoy pushing the boundaries of your music-making skills, then Sprunki Virus is definitely the perfect addition to your gaming library. Come and join Sprunki Virus, let the virus ignite your creative inspiration, and start a thrilling musical adventure!
+어두운 테마와 몰입감 있는 연출을 좋아하고, 음악 제작에서도 색다른 실험을 해보고
+싶다면 Sprunki Virus New Update는 꼭 경험해 봐야 할 모드입니다. 지금 바로
+스프룽키 바이러스 세계에 합류해, 감염된 비트를 통해 당신만의 창의력을 폭발시켜
+보세요!

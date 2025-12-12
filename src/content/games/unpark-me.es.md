@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: unpark-me
-title: '[ES] Unpark Me'
+title: Unpark Me - Desbloquea el aparcamiento
 description: >-
-  [ES] A classic sliding block puzzle with a parking lot theme. Move the other
-  cars and trucks out of the way to clear a path for the red car to exit the
-  crowded parking lot.
+  Unpark Me es un clásico rompecabezas de bloques deslizantes con tema de
+  aparcamiento: mueve coches y camiones para abrir camino y sacar el coche rojo
+  del estacionamiento abarrotado.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/unpark-me.png
 tags:
@@ -17,34 +17,37 @@ score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-
-
-
 ### Detailed Game Introduction
 
-Unpark Me is a classic sliding block puzzle game, also known as a "parking jam" puzzle. You are presented with a crowded parking lot grid filled with cars and trucks. Your goal is to strategically slide the other vehicles out of the way to clear a path for the target car (usually the red one) to drive out of the exit. The game is a true test of logic and sequential thinking, challenging you to solve the puzzle in the fewest moves possible.
+Unpark Me es un rompecabezas clásico de bloques deslizantes, también conocido como puzzle de “atasco de parking”. Te enfrentas a una cuadrícula que representa un aparcamiento lleno de coches y camiones. Tu objetivo es deslizar estratégicamente los demás vehículos para despejarle el paso al coche objetivo (normalmente el rojo) y que pueda salir por la salida. Es una auténtica prueba de lógica y pensamiento secuencial, en la que se premia resolver cada nivel con el menor número de movimientos posible.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** **Identify the Blocker:** First, identify the cars that are directly blocking the red car's path to the exit.
-2.  **[ES]** **Work Backwards:** To move the primary blocking car, you often need to move another car that is blocking *it*. Work backwards from the exit, clearing a path piece by piece.
-3.  **[ES]** **Use Empty Space:** Efficiently using the empty spaces on the board is crucial. You will need to shuffle cars into temporary empty spots to make room to move the ones you really need to clear.
-4.  **[ES]** **Aim for Fewest Moves:** While just solving the puzzle is the main goal, a secondary challenge is to do it in the minimum number of moves. This requires thinking several steps ahead and not making any unnecessary shifts.
+1.  Identifica al bloqueador: localiza primero los coches que bloquean directamente la ruta del coche rojo hacia la salida.
+2.  Trabaja hacia atrás: para mover al primer bloqueador, a menudo antes tendrás que desplazar otro vehículo que lo tapona a él. Empieza desde la salida y ve despejando el camino paso a paso.
+3.  Aprovecha los huecos: el buen uso de los espacios vacíos del tablero es clave. Utilízalos como zonas de aparcamiento temporal mientras reubicas los vehículos que realmente necesitas mover.
+4.  Apunta a los mínimos movimientos: además de simplemente resolver el nivel, intenta hacerlo con la menor cantidad de desplazamientos posible. Para ello tendrás que pensar varios pasos por adelantado y evitar movimientos innecesarios.
 
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+El juego utiliza controles sencillos de arrastrar y soltar.
 
-*   **[ES]** **Move a Vehicle:** Click and hold on any car or truck. You can only slide it forwards and backwards along its current orientation (either horizontally or vertically). Drag it into an empty space to move it.
+*   **Mover un vehículo:** haz clic y mantén pulsado sobre cualquier coche o camión. Solo puedes deslizarlo hacia delante o hacia atrás según su orientación (horizontal o vertical) y siempre hacia un espacio libre.
 
 ### Frequently Asked Questions (FAQ)
 
-*   **[ES]** **Q: What is the objective?**
-    *   **[ES]** **A:** To slide the red car out through the exit on the side of the grid.
+*   **Q: ¿Cuál es el objetivo exacto?**  
+    **A:** Conseguir que el coche rojo llegue hasta la salida situada en el lateral de la cuadrícula.
 
-*   **[ES]** **Q: Why can't I move a car sideways?**
-    *   **[ES]** **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
+    - **Q: Por qué no puedo mover un coche de lado?**  
+    **A:** La regla básica del puzzle es que los vehículos solo se mueven en la dirección en la que están colocados (adelante y atrás). No se pueden girar ni deslizar de lado.
 
-*   **[ES]** **Q: I'm completely stuck. What can I do?**
-    *   **[ES]** **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
+*   **Q: Me he quedado totalmente bloqueado, ¿qué hago?**  
+
+    - **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
+
+- **Q: I'm completely stuck. What can I do?**
+
+    - **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
+    **A:** Muchas versiones incluyen un botón de pista que te sugiere el siguiente movimiento. Si no tienes pistas, lo mejor es reiniciar el nivel y afrontarlo con una estrategia distinta.
 

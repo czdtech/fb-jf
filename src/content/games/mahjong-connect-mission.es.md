@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: mahjong-connect-mission
-title: '[ES] Mahjong Connect : Mission'
+title: "Mahjong Connect: Mission - Conecta fichas bajo presión"
 description: >-
-  [ES] Mahjong Connect: Mission is a link‑pair mahjong — connect identical tiles
-  by paths with ≤2 turns, clear boards, and race timers.
+  Mahjong Connect: Mission es un mahjong de conectar parejas: une fichas
+  idénticas con un camino de hasta dos giros, limpia el tablero y vence al
+  cronómetro.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/mahjong-connect-mission.png
 tags:
@@ -17,34 +18,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Mahjong Connect se diferencia del mahjong solitario clásico: aquí tienes que
+unir fichas iguales con un camino que tenga, como máximo, dos giros en ángulo
+recto y que no atraviese otras fichas. Las misiones añaden fichas bloqueadas,
+niebla y bombas que exigen priorizar objetivos y mantener el tablero bien
+controlado.
 
-Mahjong Connect differs from classic mahjong solitaire: you must link matching tiles with a path that bends at most twice (i.e., ≤2 right‑angle turns) without crossing other tiles. Missions add locked tiles, fog, and bombs that require priority handling and clean board management.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  Búsqueda en los bordes: los bordes y las esquinas ofrecen la mayoría de
+    caminos legales; escanéalos primero.
+2.  Abrir pasillos: elimina parejas que despejen corredores y dejen el centro
+    más expuesto.
+3.  Gestionar los giros: prioriza caminos rectos o con un solo giro para
+    conservar opciones en el resto del tablero.
+4.  Prioridad de peligros: limpia antes bombas y fichas bloqueadas para que no
+    corten los caminos clave.
+5.  Gestión del tiempo: usa las pistas solo cuando el tablero se estanque y
+    te cueste encontrar nuevas parejas.
 
-1.  **[ES]** Edge hunting: Edges and corners yield the most legal paths — scan them first.
-2.  **[ES]** Pair pruning: Remove tiles that open corridors and expose the center.
-3.  **[ES]** Turn budgeting: Prefer straight or one‑turn paths to preserve options.
-4.  **[ES]** Hazard priority: Clear bombs/locks before they block vital lanes.
-5.  **[ES]** Time economy: Use hints only when the board stagnates.
+### Guía de controles
 
-### Controls Guide
+- Haz clic en dos fichas idénticas para conectarlas si existe un camino legal;
+  las opciones de pista y barajado dependen de la interfaz.
 
-- Click two identical tiles to connect if a legal path exists; hints/shuffles per UI.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- P: No veo movimientos, ¿la partida ha terminado?  
+  R: Si el modo lo permite, usa el barajado; de lo contrario, tendrás que
+  reiniciar y planificar mejor para evitar callejones sin salida.
 
-- Q: No moves — is it over?
+- P: ¿Se conectan las diagonales?  
+  R: No, solo se permiten caminos ortogonales con hasta dos giros.
 
-A: Use shuffle if allowed; otherwise restart to avoid early dead lanes.
-
-- Q: Do diagonals connect?
-
-A: No — only orthogonal paths with up to two turns.
-
-- Q: Any symbol confusion tips?
-
-A: Learn suits and season/flower symbols; zoom helps on dense art.
-
+- P: ¿Algún truco para no confundir símbolos?  
+  R: Familiarízate con los palos y las fichas de flores/estaciones; hacer zoom
+  ayuda mucho en diseños con arte muy detallado.

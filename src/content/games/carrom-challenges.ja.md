@@ -1,75 +1,38 @@
 ---
+title: "Carrom Challenges"
+description: "Carrom Challengesはキュースポーツの技巧をcarromにもたらします。ストライクを狙い、リバウンドをコントロールし、精度でポケットしましょう。"
+iframeSrc: "https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/"
+thumbnail: "/new-images/carrom-challenges.png"
+urlstr: "carrom-challenges"
+score: "4.1/5  (1979 votes)"
+tags: ["sports", "pool", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: carrom-challenges
-title: '[JA TRANSLATION NEEDED] Carrom Challenges'
-description: >-
-  [JA TRANSLATION NEEDED] Carrom Challenges brings cue‑sport finesse to carrom —
-  aim strikes, control rebounds, and pocket with precision.
-iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
-thumbnail: /new-images/carrom-challenges.png
-tags:
-  - sports
-  - pool
-  - casual
-score: 4.1/5  (1979 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Carrom Challengesは、テーブルトップのストライカーとカーロムメン（駒）のゲームをシミュレートします。ストライカーを使って自分のピース（そしておそらくカバー下のクイーン）をポケットし、角度とリバウンド速度をコントロールします。ファウル、カバールール、限られたストローク（打撃）が戦術的な深みを加えます。
 
-[JA TRANSLATION NEEDED] Carrom Challenges simulates the tabletop striker‑and‑carrommen game. Use the striker to pocket your pieces (and possibly the queen under cover) while controlling angles and rebound speed. Fouls, cover rules, and limited strokes add tactical depth.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **オープニングブレイク:** 中央のコントロールを保ちながらピースを広げます。スクラッチ（ストライカーのポケット)を避けましょう。
+2.  **ポケット順序:** クイーンのために簡単なカバーを確保します。露出したままにしないでください。
+3.  **速度コントロール:** 優しいヒットは精度を向上させ、リバウンドを減らします。
+4.  **バンクライン:** 難しいポケットのためのボード外の一般的な角度を学びましょう。
+5.  **セーフティ:** 高い成功率のショットが存在しない場合は、対戦相手をスヌーカー（困難な位置）に残しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Opening break: Spread pieces while keeping center control; avoid scratching.
-[JA TRANSLATION NEEDED] 2.  Pocket order: Secure easy covers for the queen; don’t leave it exposed.
-[JA TRANSLATION NEEDED] 3.  Speed control: Gentle hits improve precision and reduce rebounds.
-[JA TRANSLATION NEEDED] 4.  Bank lines: Learn common angles off the boards for tough pockets.
-[JA TRANSLATION NEEDED] 5.  Safety: When no high‑percentage shot exists, leave opponents snookered.
+### 操作ガイド
 
-### Controls Guide
+- カーソルの弧をドラッグして狙います。スライダーでパワーを設定します。離してストライクします。
+- ルールパネルが現在のモードのファウル/クイーンカバーを説明します。
 
-- Aim by dragging the cursor arc; set power with the slider; release to strike.
-- Rules panel explains fouls/queen cover for the current mode.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: What is “covering the queen”?
-  
-[JA TRANSLATION NEEDED]   A: After pocketing the queen, you must pocket one of your own pieces in the next stroke; failing to do so returns the queen to the board.
-
-- Q: How to avoid scratches?
-  
-[JA TRANSLATION NEEDED]   A: Control rebound angles and reduce power on thin contacts.
-
-- Q: Are board speeds adjustable?
-  
-
-
-
-
-
-- Q: What is “covering the queen”?
-### よくある質問（FAQ）
-- ルール panel explains fouls/queen cover for the current mode.
-- Aim by dragging the cursor arc; set power with the slider; release to strike.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Some versions provide friction settings; otherwise adapt with lighter strokes.
-
-
-
-
-
-
-A: Some versions provide friction settings; otherwise adapt with lighter strokes.
-- Q: Are board speeds adjustable?
-A: Control rebound angles and reduce power on thin contacts.
-- Q: How to avoid scratches?
-
-
-
-
-A: Some versions provide friction settings; otherwise adapt with lighter strokes.
-- Q: Are board speeds adjustable?
-A: Control rebound angles and reduce power on thin contacts.
+- **Q: 「クイーンをカバーする」とは何ですか？**
+  A: クイーンをポケットした後、次のストロークで自分のピースの1つをポケットする必要があります。これを行わないと、クイーンはボードに戻されます。
+- **Q: スクラッチを避けるには？**
+  A: リバウンド角度をコントロールし、薄い接触でパワーを減らします。
+- **Q: ボードの速度は調整可能ですか？**
+  A: 一部のバージョンでは摩擦設定が提供されています。そうでない場合は、より軽いストロークで適応します。

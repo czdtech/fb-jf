@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: ultimate-knife-smash
-title: '[ES] Ultimate Knife Smash'
+title: "Ultimate Knife Smash - Lluvia de cuchillos"
 description: >-
-  [ES] Ultimate Knife Smash is a quick‑reflex thrower — time stabs, avoid
-  hitting knives, and break targets cleanly.
-iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
-thumbnail: /new-images/ultimate-knife-smash.png
+  Ultimate Knife Smash es un arcade de reflejos: lanza cuchillos a un objetivo
+  giratorio, evita golpear las hojas ya clavadas y rompe las dianas con
+  precisión.
+iframeSrc: "https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/"
+thumbnail: "/new-images/ultimate-knife-smash.png"
 tags:
   - action
   - casual
@@ -14,30 +15,31 @@ score: 4.0/5  (1749 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-
-
-
-
 ### Detailed Game Introduction
 
-Ultimate Knife Smash is a timing‑based arcade game. Throw knives into a spinning target without striking existing blades. The rotation speed and direction often change, demanding clean timing, rhythm, and risk control for combo stages.
+Ultimate Knife Smash es un juego arcade basado en el timing. Tienes que lanzar cuchillos contra una diana giratoria sin golpear las hojas que ya están clavadas. La velocidad y el sentido de giro cambian a menudo, de modo que necesitarás buen ritmo, precisión y gestión del riesgo para superar las fases de combo.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** Watch rotations: Note speed shifts and direction flips before committing throws.
-2.  **[ES]** Count beats: Use a consistent cadence; throw on the same slice of the rotation.
-3.  **[ES]** Aim gaps: Target wide openings first; save tight gaps for slow rotations.
-4.  **[ES]** Don’t rush: Missing a cycle is better than forcing a risky throw.
-5.  **[ES]** Boss targets: Later stages may require extra hits—pace your throws.
+1.  Observa la rotación: presta atención a los cambios de velocidad y de sentido antes de comprometer un lanzamiento.
+2.  Cuenta el ritmo: usa un tempo constante; lanza siempre en el mismo “trozo” de giro para mantener la sincronización.
+3.  Aprovecha los huecos grandes: apunta primero a las aperturas amplias y deja los espacios más estrechos para cuando el giro sea más lento.
+4.  No te precipites: es mejor dejar pasar una vuelta que arriesgar un tiro dudoso y perder la partida.
+5.  Jefes y dianas especiales: en niveles avanzados algunas dianas requieren más golpes; dosifica tus lanzamientos.
 
 ### Controls Guide
 
-- Throw: Click/tap to launch a knife when the gap aligns.
-- Pause/Retry: Use UI controls to restart.
+- Lanzar: haz clic o toca la pantalla para lanzar un cuchillo cuando el hueco esté alineado.
+- Pausa / reinicio: utiliza los botones de la interfaz para parar o reiniciar la partida.
 
 ### Frequently Asked Questions (FAQ)
 
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
+- **Q: ¿Por qué siempre choco con otros cuchillos?**  
+  **A:** Probablemente has perdido el ritmo. Vuelve a establecer un patrón de lanzamiento fijo y espera a que se abran huecos claros.
+
+- **Q: ¿La rotación cambia durante la partida?**  
+  **A:** A menudo sí; prepárate para subidas de velocidad y cambios de sentido.
+
+- **Q: Hay potenciadores?**  
+  **A:** Algunas versiones ofrecen multicu chillos o efectos de ralentización; guárdalos para oleadas especialmente densas.
 

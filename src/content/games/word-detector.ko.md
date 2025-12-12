@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: word-detector
-title: '[KO] Word Detector'
+title: Word Detector 워드 디텍터
 description: >-
-  [KO] Put your vocabulary to the test! Find and trace hidden words in a grid of
-  letters. Connect letters in any direction to form words and clear the board
-  before time runs out.
+  글자 격자 속에서 가능한 한 많은 단어를 찾는 빠른 워드 퍼즐 게임입니다. 가로, 세로, 대각선으로 인접한 글자들을 이어 단어를 만들고,
+  제한 시간 안에 목표 점수를 달성하세요.
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/word-detector.png
 tags:
@@ -17,33 +16,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Word Detector는 어휘력과 순발력을 동시에 시험하는 단어 찾기 퍼즐 게임입니다. 화면에는 알파벳이
+채워진 격자가 나타나고, 플레이어는 서로 인접한 글자들을 이어 다양한 영어 단어를 만들어야 합니다.
+단어는 가로, 세로, 대각선 방향으로 이어 붙일 수 있으며, 보통 제한 시간 안에 특정 점수나 단어 수를
+달성해야 다음 단계로 넘어갈 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Word Detector is a fast-paced word-finding puzzle game that challenges your vocabulary and speed. You are presented with a grid of letters and must find as many words as possible by connecting adjacent letters. Words can be formed by linking letters horizontally, vertically, or diagonally. The goal is typically to reach a target score or find a certain number of words within a time limit to progress to the next level.
+1.  **접미사·접두사 먼저 찾기**: S, ED, ER, ING 같은 자주 쓰이는 접미사와, RE, UN 같은 접두사를
+    기준으로 단어를 확장해 보세요. 한 번 찾은 글자 조합에서 여러 단어가 파생되는 경우가 많습니다.
+2.  **긴 단어에 우선순위 두기**: 세 글자짜리 짧은 단어도 유효하지만, 다섯 글자 이상 긴 단어는
+    점수가 크게 높습니다. 격자를 훑을 때 긴 단어가 나올 수 있는 패턴을 눈여겨보세요.
+3.  **대각선까지 모두 활용하기**: 대부분의 플레이어는 가로·세로 위주로만 단어를 찾기 쉽습니다.
+    한 글자를 기준으로 8방향(상·하·좌·우 + 대각선)을 모두 확인하면 생각보다 많은 단어를 발견할 수
+    있습니다.
+4.  **막혔을 땐 힌트 활용하기**: 시간이 얼마 남지 않았는데 더 이상 단어가 떠오르지 않는다면,
+    힌트 기능을 사용해 숨겨진 단어 위치를 한 번쯤 확인해 보세요. 새로운 패턴을 배우는 데도
+    도움이 됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Scan for Common Prefixes and Suffixes:** Look for common letter combinations like "S", "ED", "ER", or "ING". These can often be the start or end of multiple words, helping you find several words quickly.
-2.  **[KO]** **Longer Words, More Points:** While finding short three-letter words is easy, longer words are worth significantly more points. Always be on the lookout for words that are five, six, or even seven letters long.
-3.  **[KO]** **Don't Forget Diagonals:** It's easy to spot horizontal and vertical words, but many players forget to look for diagonal connections. Make sure to scan the grid in all eight directions from each letter.
-4.  **[KO]** **Use Hints When Stuck:** If the clock is ticking and you can't find any more words, use a hint. It can help you spot a word you overlooked and keep your momentum going.
+게임은 간단한 드래그 방식으로 조작합니다.
 
-### Controls Guide
+*   **단어 만들기**: 만들고 싶은 단어의 첫 글자를 클릭한 뒤, 인접한 글자들을 순서대로 드래그해
+    마지막 글자까지 이어 줍니다. 손을 떼면 단어가 제출됩니다.
 
-The game is played with a simple click-and-drag motion.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Form a Word:** Click on the first letter of the word you've found, hold the mouse button, and drag your cursor through all the adjacent letters of the word in order. Release the mouse button on the last letter to submit the word.
+*   **Q. 최소 몇 글자부터 단어로 인정되나요?**  
+    **A:** 일반적으로 세 글자 이상인 단어만 유효한 답으로 인정되는 경우가 많습니다.
 
-### Frequently Asked Questions (FAQ)
+    - **Q. 같은 글자 칸을 한 단어에서 두 번 쓸 수 있나요?**  
+    **A:** 한 번 선택한 글자 칸은 그 단어 안에서 다시 사용할 수 없습니다. 루프를 만들어 되돌아갈
+    수 없으므로, 다른 경로를 찾아야 합니다.
 
-*   **[KO]** **Q: What is the minimum word length?**
-    *   **[KO]** **A:** In most word search games of this type, words must be at least three letters long to be considered valid.
+*   **Q. 시간이 다 되면 어떻게 되나요?**  
 
-*   **[KO]** **Q: Can I reuse a letter tile in the same word?**
-    *   **[KO]** **A:** No. Once you use a letter tile for a word, you cannot loop back and use it again in the same word.
+    - **A:** If you don't reach the level's objective (like a target score) before the timer runs out, you will have to restart the level.
 
-*   **[KO]** **Q: What happens if time runs out?**
-    *   **[KO]** **A:** If you don't reach the level's objective (like a target score) before the timer runs out, you will have to restart the level.
+- **Q: What happens if time runs out?**
 
+    - **A:** No. Once you use a letter tile for a word, you cannot loop back and use it again in the same word.
+    **A:** 제한 시간 안에 목표 점수나 요구 조건을 충족하지 못하면 해당 레벨을 실패하게 되고,
+    다시 도전해야 합니다.

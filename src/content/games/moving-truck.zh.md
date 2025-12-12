@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: moving-truck
-title: '[ZH TRANSLATION NEEDED] Moving Truck'
+title: "《Moving Truck》物理搬家装车"
 description: >-
-  [ZH TRANSLATION NEEDED] Moving Truck is a physics-based puzzle game where
-  players must strategically load furniture and items into a moving truck to
-  ensure safe and balanced transport to the destination.
+  《Moving Truck》是一款基于物理效果的装车解谜游戏，你需要将形状各异的家具和物品合理摆放进货车，让整车在行驶过程中保持平衡并顺利抵达终点。
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/moving-truck.jpg
 tags:
@@ -18,30 +16,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Moving Truck" is a physics-based puzzle game. Players' task is to strategically load furniture and various items of different shapes and sizes into a moving truck, ensuring that the items remain balanced and secure during transit, and ultimately arrive safely at their destination. The game challenges players' spatial reasoning and planning abilities.
+《Moving Truck》是一款强调空间感与平衡感的物理解谜游戏。你的任务是将各种形状和体积不同的家具与箱子装入货车车厢，在保证它们尽量稳固、不易滑动的前提下，将车开到目的地。途中由于颠簸、转弯或坡道，摆放不当的物品可能会滚落、倾倒甚至从车上掉出去，因此既要考虑“能装下”，还要考虑“装得稳”。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Observe Item Shapes**: Carefully examine the shape and size of each item to be moved, envisioning how they can be best stacked and combined.
-2.  **Plan Loading Order**: Prioritize loading large, regularly shaped items as bottom supports, placing smaller or fragile items on top or in gaps.
-3.  **Maintain Balance**: During loading, pay attention to the truck's center of gravity, trying to distribute items evenly to prevent the truck from tipping or overturning.
-4.  **Utilize Physics**: Sometimes items may slide or roll due to physics; you need to cleverly utilize or secure them beforehand.
-5.  **Repeated Attempts**: Some levels may require multiple attempts to find the most perfect loading solution.
+1.  **观察物品形状：** 在装车前先仔细观察每件物品的体积与轮廓，想象它们能以何种方式相互嵌套或堆叠，形成更稳固的结构。
+2.  **规划装载顺序：** 优先将体积大、形状规整的家具（如柜子、箱子）放在底部和靠前的位置，作为整体的“地基”，再把小件或不规则物体塞入空隙。
+3.  **保持车身重心平衡：** 装车时注意左右两侧重量不要相差太大，避免行驶中车身倾斜；纵向前后也要尽量均衡，防止上坡或下坡时重心过于偏移。
+4.  **利用物理特性：** 一些圆形或滑动性强的物体要尽量靠边或被其他物品固定住，否则行驶过程中容易滚动撞击其他物品，造成连锁翻倒。
+5.  **多次尝试找最优布局：** 某些关卡几乎很难一次就装到完美布局，多尝试几种摆放思路，找出既能全部装下、又能保持平衡的方案。
 
-### How to Play
+### 操作说明
 
-*   **Pick Up Items**: Click on an item to pick it up.
-*   **Place Items**: Drag the item to a suitable position inside the truck, then release the mouse to place it down.
-*   **Rotate Items**: Some game versions might offer a function to rotate items for better fit (usually via mouse scroll wheel or specific keys).
+*   **拾取物品：** 点击或轻触物品即可将其选中。
+*   **放置物品：** 拖动物品到车厢内合适位置后松开，使其落在指定位置上。
+*   **旋转物品：** 部分版本可通过鼠标滚轮或特定按键旋转物品，使其更好地贴合车厢或其他物品的形状。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What is the objective of the game?**
-     **A**: The objective is to successfully load all items into the truck and maintain its balance during transit, ultimately delivering them safely to the destination.
-2.  [ZH TRANSLATION NEEDED] **Q: What happens if items fall out of the truck?**
-     **A**: If items fall off the truck during transit, it usually results in task failure, requiring you to retry the level.
-3.  [ZH TRANSLATION NEEDED] **Q: Is there a time limit in the game?**
-     **A**: Some levels might have a time limit, requiring players to complete loading and transit within a specified time.
-4.  [ZH TRANSLATION NEEDED] **Q: How can I improve my loading skills?**
-     **A**: Practice spatial planning and item stacking, observe successful examples, and try different loading strategies.
+### 常见问题
+
+1.  **问：游戏的通关目标是什么？**
+    **答：** 目标是在货车上合理摆放所有关卡指定的物品，并在随后的行驶过程中保持车体平衡、不让物品掉出车外，安全抵达终点。
+2.  **问：如果物品在路上掉下去了会怎样？**
+    **答：** 一般情况下，一旦有物品在运输途中掉落，就会被判定任务失败，需要重新规划装载或驾驶方式再尝试一遍。
+3.  **问：是否存在时间限制？**
+    **答：** 有些关卡会设置时间或行驶节奏要求，你需要在限定时间内完成装车并顺利到达；也有的关卡更偏向解谜，本身并不强调时间。
+4.  **问：怎样提高自己的装车技巧？**
+    **答：** 多观察成功布局的重心分布，尽量用规则物件做底层与固定结构，留出空间给特殊形状物品；多尝试不同堆叠方式，就能渐渐摸索出更稳、更紧凑的装载方案。

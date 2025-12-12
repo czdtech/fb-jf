@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: slime-io
-title: '[DE] Slime.io'
+title: Slime.io
 description: >-
-  [DE] A fun and chaotic .io game of consumption! Control your slime, absorb
-  everything in the city from cars to buildings, and devour smaller players to
-  become the biggest slime of them all!
+  Slime.io ist ein chaotisches .io-Game rund ums Fressen: Steuere deinen Slime
+  durch die Stadt, verschlinge alles von Autos bis Gebäuden und friss kleinere
+  Spieler, um zum größten Schleimklumpen der Runde zu werden.
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
 thumbnail: /new-images/slime-io.png
 tags:
@@ -16,33 +16,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Slime.io ist ein 3D-Arcadespiel aus der beliebten .io-Reihe. Du startest als
+ kleiner Schleim in einer belebten Stadt und hast ein simples Ziel: wachse
+ schneller als alle anderen. Dazu gleitest du über die Karte und verschlingst
+ alles, was kleiner ist als du – von Straßenschildern und Menschen über Autos
+ bis hin zu ganzen Gebäuden. Gleichzeitig triffst du auf andere Spieler, die
+ du fressen kannst oder vor denen du fliehen musst.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Slime.io is a chaotic and satisfying 3D arcade game that belongs to the popular ".io" genre of multiplayer games. You control a small slime in a bustling city with one simple goal: become the biggest. You do this by sliding around the map and absorbing everything in your path that is smaller than you—from streetlights and cars to entire buildings. Compete against other players, absorb the smaller ones, and avoid being eaten by the giants to dominate the leaderboard before the timer runs out!
+1.  **Klein anfangen:** Am Anfang bist du verletzlich. Konzentriere dich auf
+    kleine Objekte wie Menschen, Zäune, Laternen und Bänke, um schnell zu
+    wachsen.
+2.  **Größer werden, Größeres fressen:** Mit zunehmender Größe kannst du immer
+    massivere Objekte aufsaugen – zunächst Autos, dann LKWs und schließlich
+    ganze Hochhäuser. Je größer das Objekt, desto mehr Punkte.
+3.  **Spieler im Blick behalten:** Achte auf andere Schleime. Kleinere kannst
+    du verschlingen und so einen großen Punkte-Boost bekommen, vor größeren
+    solltest du dich schleunigst in Sicherheit bringen.
+4.  **Auf die Uhr achten:** Jede Runde ist zeitlich begrenzt. Wer bei Ablauf
+    die meisten Punkte hat, gewinnt. Nutze deine Zeit effizient und verbringe
+    nicht zu lange in bereits leergefegten Bereichen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Start Small:** When the round begins, you are small and vulnerable. Focus on absorbing small objects first, like people, fences, and benches. This will quickly increase your size.
-2.  **[DE]** **Grow to Consume:** As you get bigger, you can absorb larger objects. Move from cars to trucks and eventually to entire skyscrapers. The bigger the object, the more points you get and the faster you grow.
-3.  **[DE]** **Player vs. Player:** Pay close attention to the other slimes on the map. You can absorb any player who is smaller than you for a massive score boost. Conversely, you must run away from any player who is bigger than you, or they will absorb you!
-4.  **[DE]** **Watch the Clock:** Each round is timed. Your goal is to have the highest score when the timer hits zero. Be as efficient as possible in your consumption to stay at the top.
+*   **Bewegung:** Halte die linke Maustaste gedrückt (oder den Finger auf dem
+    Touchscreen) und ziehe in die Richtung, in die sich dein Slime bewegen
 
-### Controls Guide
+- **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
+    soll.
 
-The game is controlled with a simple drag mechanic.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
+*   **F: Wie werde ich schnell groß?**
+    **A:** Suche nach Objektansammlungen oder den Resten gerade gestorbener
+    Großschleime – dort liegen viele Punkte auf engem Raum.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Kann ich andere Spieler fressen?**
+    **A:** Ja, solange sie deutlich kleiner sind als du. Umgekehrt können dich
+    größere Slimes genauso verschlingen.
 
-*   **[DE]** **Q: How do I grow bigger?**
-    *   **[DE]** **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.
+*   **F: Wie gewinne ich eine Runde?**
 
-*   **[DE]** **Q: Can I eat other players?**
-    *   **[DE]** **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
+    - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
 
-*   **[DE]** **Q: How do I win?**
-    *   **[DE]** **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
+- **Q: How do I win?**
 
+    - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
+    **A:** Indem du am Ende der Zeit den höchsten Punktestand hast – also mehr
+    Objekte und Spieler verschlungen hast als deine Konkurrenz.

@@ -1,35 +1,55 @@
 ---
 locale: fr
 urlstr: daily-crossword
-title: '[FR] Daily Crossword'
-description: >-
-  [FR] Daily Crossword delivers a fresh crossword each day: solve across and
-  down clues to fill the grid.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
+title: Daily Crossword
+description: "Résous un nouveau mot croisé chaque jour\_: lis les définitions, complète la grille et entraîne ton vocabulaire."
+iframeSrc: 'https://crosswordgames.io/game/dailiesamerican_crossword/index.html'
 thumbnail: /new-images/daily-crossword.jpg
 tags:
   - word
   - puzzle
-score: 4.4/5  (1181 votes)
+score: 4.1/5  (1300 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
+
+Daily Crossword te propose une grille de mots croisés différente chaque jour.
+Tu dois remplir les mots horizontaux et verticaux à partir des définitions
+fournies, en t’aidant des lettres croisées.
+
+C’est un excellent exercice quotidien pour travailler ton vocabulaire et ton
+sens de la déduction.
+
+### Guide de jeu
+
+1.  **Commence par les définitions les plus simples**  
+    Attaque les indices évidents pour poser des lettres dans la grille.
+2.  **Serre‑toi des lettres croisées**  
+    Dès que quelques lettres sont en place, tente de compléter les mots
+    adjacents.
+3.  **Reviens régulièrement**  
+    Un petit mot croisé par jour est une bonne habitude pour entretenir ta
+    logique linguistique.
+
+### Commandes
+
+- **Saisie** : clique/tape dans une case, puis entre les lettres au clavier.  
+- **Navigation** : flèches, Tab ou clic sur les définitions pour passer d’un
+  mot à l’autre.  
+- **Outils** : vérification, effacement, chrono selon la version.
+
+### Foire aux questions (FAQ)
 
 
-### Overview
-Daily Crossword provides a new crossword each day with familiar American‑style rules: fill Across and Down answers so all letters cross‑check. Many hosts include timers, clue lists, and tools to check or reveal entries. 
-
-### How to Play
-- Select a clue or cell and type letters to fill the entry; arrow keys move the cursor.
-- Use crossings to confirm uncertain answers; return to long entries later.
-- Daily streaks and leaderboards may be supported depending on the host.
-
-### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab switches direction or advances (site‑dependent).
-
-### Tips and Strategies
-- Start with short/easy clues, then expand using crossings.
 - Use Check tools sparingly to avoid time penalties if a host tracks time.
 
+- Start with short/easy clues, then expand using crossings.
+**Q : Puis‑je jouer aux grilles des jours précédents ?**  
+R : Selon le site, un calendrier permet parfois de revenir sur les anciens
+puzzles.
+
+**Q : Les grilles sont‑elles en anglais ?**  
+R : Oui, ce jeu particulier propose des mots croisés anglophones.

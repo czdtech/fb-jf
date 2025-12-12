@@ -1,42 +1,65 @@
 ---
 locale: fr
 urlstr: daily-sudoku
-title: '[FR] Daily Sudoku'
-description: >-
-  [FR] Daily Sudoku provides a fresh logic puzzle every day: place digits 1–9 so
-  each row, column, and box contains all numbers.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
+title: Daily Sudoku
+description: "Daily Sudoku t’offre une nouvelle grille de sudoku chaque jour\_: remplis les cases de 1 à 9 sans répéter de chiffre par ligne, colonne et carré."
+iframeSrc: 'https://dailysudoku.h5games.usercontent.goog/v/7kad9folsr8og/'
 thumbnail: /new-images/daily-sudoku.jpg
 tags:
   - puzzle
-  - logic
-score: 3.8/5  (1071 votes)
+  - thinky
+score: 4.4/5  (2100 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
+
+Daily Sudoku te propose une nouvelle grille 9×9 chaque jour, avec plusieurs
+niveaux de difficulté. Le but est de remplir la grille avec des chiffres de 1 à
+9 sans répéter un même chiffre dans une ligne, une colonne ou un bloc 3×3.
+
+### Guide de jeu
+
+1.  **Commence par les évidences**  
+    Remplis les cases où un seul chiffre est possible en regardant les lignes,
+    colonnes et blocs.
+2.  **Utilise les candidats**  
+    Sur les grilles difficiles, note mentalement (ou via la fonction note si
+    disponible) les chiffres possibles pour chaque case.
+3.  **Avance pas à pas**  
+    Chaque chiffre ajouté limite les possibilités des cases voisines : alterne
+    entre scan de lignes, colonnes et blocs.
+
+### Commandes
+
+- **Placer un chiffre** : clique/tape sur une case, puis sur un chiffre dans le
+  panneau ou via ton clavier.  
+- **Outils** : gomme, notes, vérification d’erreur, aide, selon la version.
+
+### Foire aux questions (FAQ)
 
 
-### Overview
-Daily Sudoku offers a fresh 9×9 logic puzzle each day. Fill digits 1–9 so that each row, column, and 3×3 box contains all numbers without repetition. Many hosts provide multiple difficulties, pencil marks, and validation tools.
+- Q: What difficulties are available?
 
-### How to Play
-- Select a cell and type a digit; use pencil marks (notes) to track candidates.
-- Apply basic techniques such as singles, hidden singles, and elimination by scanning peers.
-- On higher difficulties, learn advanced patterns (pairs, X‑Wing, etc.).
 
-### Controls
-- Number keys to enter digits; Shift/Right‑click toggles pencil marks (site‑dependent); Undo/Redo and Check tools are common.
-
-### Tips and Strategies
-- Start with singles found by scanning each row/column/box.
-- Use notes consistently and clear them after placing a number.
 - Avoid guesswork; if the host allows, use error‑highlighting conservatively.
 
-### FAQ
-- Q: What difficulties are available?
-A: Commonly Easy/Medium/Hard; daily sets may rotate difficulties.
-- Q: Do online versions support pencil marks?
-A: Most implementations support notes and candidate marking.
+- Use notes consistently and clear them after placing a number.
+### Foire aux questions (FAQ)
 
+- Avoid guesswork; if the host allows, use error‑highlighting conservatively.
+
+- Use notes consistently and clear them after placing a number.
+
+- Start with singles found by scanning each row/column/box.
+**Q : Les grilles sont‑elles uniques ?**  
+
+- Q: Do online versions support pencil marks?
+R : Les grilles quotidiennes sont en général générées pour n’avoir qu’une seule
+solution.
+
+**Q : Y a‑t‑il un chrono ?**  
+R : Souvent, oui, pour mesurer ton temps de résolution, mais tu peux l’ignorer
+si tu préfères jouer en mode détente.

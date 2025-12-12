@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: pixel-shooter
-title: '[KO] Pixel Shooter'
+title: "Pixel Shooter 픽셀 슈터"
 description: >-
-  [KO] Pixel Shooter is a retro-style pixel art shooting game where players
-  control a character to battle hordes of enemies across various levels,
-  collecting power-ups and upgrading weapons to survive.
+  레트로 픽셀 그래픽으로 즐기는 슈팅 액션 게임입니다. 몰려오는
+  적들을 쏘아 쓰러뜨리고, 파워업과 무기 업그레이드를 모아
+  스테이지를 돌파해 보세요.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/pixel-shooter.jpg
 tags:
@@ -18,33 +18,71 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
-### Game Introduction
+*Pixel Shooter*는 복고풍 픽셀 아트 스타일의 슈팅 게임입니다.
+플레이어는 작은 픽셀 캐릭터를 조종해 여러 스테이지를
+돌아다니며 몰려오는 적들을 처치하고, 각종 파워업과 무기
+업그레이드를 수집해 끝까지 생존해야 합니다.
 
-"Pixel Shooter" is a retro-style pixel art shooting game where players control a character to battle hordes of enemies across various levels, collecting power-ups and upgrading weapons to survive. The game attracts players with its classic pixel graphics and fast-paced shooting experience.
+단순해 보이는 그래픽과는 달리 빠른 템포의 전투와 탄막을
+피하는 컨트롤, 성장 요소가 어우러져 아케이드 감성을 좋아하는
+플레이어에게 특히 잘 맞는 게임입니다.
 
-### Gameplay Strategy
+### 플레이 전략
 
-1.  **[KO]** **Move and Shoot**: Move your character flexibly to dodge enemy attacks and shoot accurately to eliminate them.
-2.  **[KO]** **Collect Power-ups**: Defeated enemies may drop coins, health packs, or weapon upgrade items; collect them promptly to enhance your strength.
-3.  **[KO]** **Upgrade Weapons**: Use coins or specific items to upgrade your weapons, improving fire rate, damage, or range.
-4.  **[KO]** **Utilize Environment**: Some levels may offer cover or other environmental elements; utilize them wisely to avoid damage or ambush enemies.
-5.  **[KO]** **Master Enemy Patterns**: Different enemies have different attack patterns and movement speeds; familiarizing yourself with them can help you better cope.
+1. **이동과 공격을 동시에 관리하기**  
+   적들의 탄을 피하는 것과 정확히 조준해 쏘는 것을 동시에
+   해야 합니다. 한곳에 오래 머무르지 말고, 계속 움직이며
+   안전한 위치를 찾으면서 사격하는 습관을 들이세요.
 
-### How to Play
+2. **파워업은 바로바로 회수하기**  
+   쓰러진 적에서 떨어지는 코인, 체력 회복 아이템, 무기 강화
+   아이템은 잠시 후 사라질 수 있습니다. 전투가 잠시 뜸해졌을
+   때 빠르게 회수해 두면 이후 난이도 구간에서 훨씬 버티기
+   쉬워집니다.
 
-*   **[KO]** **Movement**: Typically use WASD keys or arrow keys to control character movement.
-*   **[KO]** **Shoot**: Use the left mouse button or press a specific key to shoot.
-*   **[KO]** **Aim**: Use mouse movement to aim at enemies.
-*   **[KO]** **Switch Weapons**: Some game versions may offer a weapon switching function, usually via number keys or mouse scroll wheel.
+3. **무기 업그레이드를 우선 투자하기**  
+   코인이나 특정 재화를 사용해 무기의 공격력, 발사 속도,
+   관통력 등을 올릴 수 있습니다. 체력 업그레이드도 중요하지만,
+   적을 빨리 처치할수록 공격을 덜 맞게 되므로, 초반에는
+   공격 쪽에 더 투자하는 것이 유리합니다.
 
-### Frequently Asked Questions
+4. **지형과 엄폐물을 활용하기**  
+   일부 스테이지에는 벽이나 장애물 등, 적의 탄을 막아 주는
+   구조물이 있습니다. 이를 사이에 두고 싸우면 위험한 탄막을
+   피하면서 반격할 수 있어 생존률이 크게 올라갑니다.
 
-1.  **[KO]** **Q: What is the objective of "Pixel Shooter"?**
-**A**: The main objective is to survive each level, defeat all enemies, and challenge for higher scores.
-2.  **[KO]** **Q: How do I get more powerful weapons?**
-**A**: Typically, by collecting coins or special items in the game, then upgrading existing weapons or unlocking new ones in the shop or a specific interface.
-3.  **[KO]** **Q: Does the game have a co-op mode?**
-**A**: Some pixel shooter game versions may support local or online co-op mode, where players can team up with friends to fight enemies.
-4.  **[KO]** **Q: What are "health packs" for in the game?**
-**A**: Health packs restore your character's health, helping you survive during intense battles.
+5. **적 유형과 패턴 익히기**  
+   적마다 이동 속도와 공격 패턴이 다릅니다. 곧장 달려드는
+   근접형, 멀리서 탄을 쏘는 원거리형 등 패턴을 익혀 두면,
+   어떤 적을 먼저 처리해야 할지 우선순위를 세우기 쉬워집니다.
+
+### 조작 방법
+
+- **이동**: WASD 키 또는 방향키로 캐릭터를 이동합니다.  
+- **사격**: 마우스 왼쪽 버튼 또는 지정된 키를 눌러 총을
+  발사합니다.  
+- **조준**: 마우스 커서를 움직여 조준 방향을 정합니다.  
+- **무기 교체**: 일부 버전에서는 숫자키나 마우스 휠로 다른
+  무기로 교체할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: Pixel Shooter의 기본 목표는 무엇인가요?**  
+   **A:** 각 스테이지에서 가능한 오래 살아남으며 등장하는 모든
+   적을 물리치고, 더 높은 점수와 기록을 세우는 것이 목표입니다.
+
+2. **Q: 더 강한 무기는 어떻게 얻나요?**  
+   **A:** 게임 중 획득한 코인이나 특수 아이템을 사용해 상점이나
+   업그레이드 메뉴에서 기존 무기를 강화하거나 새로운 무기를
+   해금할 수 있습니다.
+
+3. **Q: 협동 플레이가 가능한 버전도 있나요?**  
+   **A:** 일부 픽셀 슈터류 게임은 로컬/온라인 협동 모드를 지원해
+   친구와 함께 적을 상대할 수 있습니다. 지원 여부는 해당 버전의
+   설명을 확인해 보세요.
+
+4. **Q: 체력 회복 아이템은 어떤 역할을 하나요?**  
+   **A:** 전투 중에 잃은 체력을 회복해 주어, 실수로 공격을 몇 번
+   맞더라도 스테이지를 이어 나갈 수 있게 도와줍니다.

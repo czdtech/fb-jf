@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: chess-mania
-title: '[ZH TRANSLATION NEEDED] Chess Mania'
-description: >-
-  [ZH TRANSLATION NEEDED] Experience Chess Mania, a feature-packed chess game
-  for all levels. Play against AI, solve challenging puzzles, and become a chess
-  master.
+title: Chess Mania 国际象棋狂热
+description: 《Chess Mania 国际象棋狂热》是一款面向各个水平玩家的多功能国际象棋游戏。与你的 AI 对手过招、挑战趣味棋题，在对局与训练中不断提升自己的棋艺。
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
 thumbnail: /new-images/chess-mania.png
 tags:
@@ -19,28 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Chess Mania offers a superb chess experience for enthusiasts of all levels. This game provides a clean interface and a powerful AI opponent with multiple difficulty settings. Whether you are learning the rules or a seasoned grandmaster, Chess Mania is the perfect place to practice your strategy, test new openings, and sharpen your tactical skills. The goal remains the same: outwit your opponent and place their king in checkmate.
+《Chess Mania 国际象棋狂热》为不同水平的棋迷提供了出色的对局体验。游戏界面简洁清
+晰，内置多档 AI 难度，让你可以从学习规则开始，一路练到高手水准。无论你是刚刚接触
+国际象棋的新手，还是希望打磨开局和战术的老玩家，都可以在这里练习自己的布局思路、
+尝试新开局，并通过一盘盘对局不断提升阅读力和计算力。你的终极目标，依旧是运筹帷幄
+、将死对手的国王。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Master the Opening:** Start the game by developing your pieces toward the center of the board. A strong opening sets the stage for the entire game.
-2.  [ZH TRANSLATION NEEDED] **Piece Coordination:** Ensure your pieces work together. A well-coordinated attack or defense is much more effective than moving individual pieces without a plan.
-3.  [ZH TRANSLATION NEEDED] **Pawn Structure:** Pay attention to your pawn structure. Pawns can control key squares, defend your other pieces, and become powerful queens if they reach the other side of the board.
-4.  [ZH TRANSLATION NEEDED] **Endgame Practice:** The endgame is where games are often won or lost. Practice common endgame scenarios to convert your advantage into a win.
-5.  [ZH TRANSLATION NEEDED] **Always Be Alert:** Constantly ask yourself what your opponent is planning. Look for threats and tactical opportunities on every move.
+
+1.  **打好开局基础：** 对局开始时，优先把棋子向棋盘中心发展，控制关键格子，为中局
+    战斗打下良好基础。稳健的开局往往决定整盘棋的节奏。
+2.  **子力协同作战：** 让你的棋子互相配合，而不是各自为战。一个有组织的攻防体系，
+    远比单点冲动的走法更有效。
+3.  **重视兵形结构：** 注意自己的兵形是否健康。兵不仅能控制要点和保护子力，一旦推
+    进到棋盘另一侧，还能升变为强大的后。避免轻易制造弱兵，尽量保留可以相互支援的
+    兵链。
+4.  **强化残局能力：** 很多对局最终都在残局分出胜负。多练习常见残局（如王兵残局、
+    车兵残局等），学会如何将优势稳稳转化为胜势。
+5.  **保持警惕：** 每一步都问自己：“对手想干什么？”时刻关注对方潜在的战术和威胁
+    ，同时寻找自己可以利用的破绽。
 
 ### Controls Guide
 
-*   **Select and Move:** Click on a piece to see its legal moves highlighted, then click on the destination square to move it.
-*   **Game Menu:** Use the menu to choose your opponent's difficulty, start a new game, or get a hint if you're stuck.
+*   **选择并移动棋子：** 点击一枚棋子即可高亮其所有合法走法，再点击目标格完成移动
+    。
+*   **游戏菜单：** 通过菜单可以调整 AI 难度、开始新对局，或在某些版本中获取提示，帮
+    助你寻找更好的走法。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I win at Chess?**
-     *   **A:** You win by checkmating the opponent's king. This means the king is under attack and has no legal moves to escape.
+*   **Q: 怎么样才算赢下这盘棋？**  
+    **A：** 当你成功“将死”对手国王时就获胜——也就是对方的王正处在被攻击状态，而且
+    无论怎么走都无法摆脱被吃掉的命运。
 
-*   **Q: What is a stalemate?**
-     *   **A:** A stalemate is a type of draw where a player is not in check but has no legal moves to make. The game ends immediately in a tie.
+    - **Q: 什么是逼和（Stalemate）？**  
+    **A：** 逼和是一种和棋结果：轮到一方走棋时，他虽然没有被将军，但却没有任何合法
+    着法可走，这时对局立即以平局结束。
 
-*   **Q: How can I improve my chess skills?**
-     *   **A:** The best way to improve is to play regularly, analyze your games to learn from your mistakes, and study basic chess principles and tactics.
+*   **Q: 如何系统提升自己的国际象棋水平？**  
 
+    - **A:** The best way to improve is to play regularly, analyze your games to learn from your mistakes, and study basic chess principles and tactics.
+
+- **Q: How can I improve my chess skills?**
+
+    - **A:** A stalemate is a type of draw where a player is not in check but has no legal moves to make. The game ends immediately in a tie.
+    **A：** 最好的方法是经常下棋、复盘自己的对局并找出关键失误，同时配合学习基本原
+    则和常见战术。可以多做战术题、多看经典例局，在实战中不断运用和巩固。

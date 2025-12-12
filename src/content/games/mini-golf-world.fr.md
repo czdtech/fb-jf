@@ -1,51 +1,40 @@
 ---
 locale: fr
-urlstr: mini-golf-world
-title: '[FR] Mini Golf World'
-description: >-
-  [FR] Mini Golf World polishes putt‑putt — read slopes, bank rails, and master
-  pace for playful holes across themed worlds.
-iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
-thumbnail: /new-images/mini-golf-world.png
-tags:
-  - sports
-  - puzzle
-  - casual
-score: 4.1/5  (1903 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "mini-golf-world"
+title: "Mini Golf World"
+description: "Mini Golf World polit le mini‑golf : lis les pentes, utilise les rebonds sur les rampes et maîtrise la puissance pour enchaîner les trous dans des mondes thématiques."
+iframeSrc: "https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/"
+thumbnail: "/new-images/mini-golf-world.png"
+tags: ["sports", "puzzle", "casual"]
+score: "4.1/5  (1903 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Mini Golf World propose une collection de parcours de mini‑golf nets et colorés, avec rampes, moulins à vent et rails truqués. Pour faire de bons scores, tu dois contrôler précisément la puissance de tes putts, exploiter les bandes pour contourner les obstacles et choisir le bon moment pour traverser les éléments mobiles.
 
+### Stratégies de jeu et progression
 
+1.  **Vitesse au trou :** près du trou, putte un peu en‑deçà de la puissance maximale pour éviter que la balle ne fasse le tour du trou sans tomber.
+2.  **Rebonds sur les bandes :** les rails à environ 45° permettent de rediriger la balle vers les coins de manière très fiable ; mémorise ces angles.
+3.  **Observer les cycles de pièges :** regarde un cycle complet des éléments mobiles (moulins, plateformes) avant de frapper à travers.
+4.  **Penser en deux coups :** vise souvent un premier coup de placement qui laisse un putt très court et sûr au lieu de forcer un trou‑en‑un risqué.
+5.  **Scouter le parcours :** utilise la caméra pour déplacer la vue, lire les pentes et repérer les rails cachés avant de tirer.
 
-### Detailed Game Introduction
+### Commandes
 
-Mini Golf World is a crisp mini‑golf collection with ramps, windmills, and trick rails. Good scores come from precise pace control, smart bank lines, and patient timing on moving hazards.
+- Vise avec le curseur, tire la souris vers l’arrière pour régler la puissance, puis relâche pour putter. Utilise le reset si la balle est coincée.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** Cup‑rim pace: Under‑hit near the hole to avoid lip‑outs.
-2.  **[FR]** Bank lines: Use ~45° rails to redirect into corners consistently.
-3.  **[FR]** Hazard cycles: Watch one full cycle before hitting through moving parts.
-4.  **[FR]** Two‑putt logic: Set up a tap‑in instead of risking a wild hole‑in‑one.
-5.  **[FR]** Camera scouting: Pan/zoom to pre‑read slopes and hidden rails.
+- **Q : Pourquoi ma balle tourne‑t‑elle autour du trou sans rentrer ?**  
+  **R :** Tu tapes trop fort ou avec un mauvais angle d’entrée. Réduis un peu la puissance et approche‑toi davantage dans l’axe.
 
-### Controls Guide
+- **Q : Un conseil général pour les coups sur la bande ?**  
+  **R :** Vise légèrement en‑deçà des 45° pour compenser la perte de vitesse lors du contact avec le rail.
 
-- Aim with cursor; pull back to set power; release to putt; reset if stuck.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Why do I rim out?
-
-A: Too much pace or a bad entry angle — slow down and adjust approach.
-
-- Q: Any universal bank tip?
-
-A: Aim slightly inside 45° to compensate for speed loss on rails.
-
-- Q: Is there a stroke limit?
-
-A: Many holes cap strokes; plan two‑putts to stay under par.
+- **Q : Y a‑t‑il une limite de coups par trou ?**  
+  **R :** Beaucoup de trous imposent un maximum de coups. Pense à une stratégie en un ou deux putts pour rester sous le par.
 

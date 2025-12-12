@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: ragdoll-archers
-title: '[ZH TRANSLATION NEEDED] Ragdoll Archers'
+title: "《Ragdoll Archers》布偶射箭对决"
 description: >-
-  [ZH TRANSLATION NEEDED] Ragdoll Archers is a physics-based archery game where
-  players control wobbly ragdoll archers to shoot arrows at opponents, with
-  realistic physics making each shot challenging and entertaining.
+  《Ragdoll Archers》是一款基于真实物理的箭术对战游戏。你要操控摇摇晃晃的布偶弓箭手，用弓箭射倒对手，夸张的 ragdoll 物理效果让每一箭都充满变数和笑点。
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/ragdoll-archers.jpg
 tags:
@@ -17,31 +15,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Ragdoll Archers" is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents. The realistic physics effects make each shot challenging and entertaining, while the character instability adds humor and unpredictability to the game.
+《Ragdoll Archers》是一款强调物理反馈的射箭对战游戏。你操控的是身体软绵绵、重心不稳的布偶弓箭手，在战场上与其他弓手对射。每一箭的抛物线、落点和命中部位都会受到重力与人物姿势影响，再加上角色容易东倒西歪的 ragdoll 动作，让战斗既有操作感，又充满喜感与意外。
 
-### Gameplay Strategy
+### 游玩策略
 
-1.  **Master Shooting Skills**: Learn to adjust bow angle and power, considering the effects of gravity and air resistance on arrow trajectory.
-2.  **Predict Target Movement**: Opponents may move, so you need to anticipate their position for accurate hits.
-3.  **Utilize Environment**: Make good use of terrain and obstacles to protect yourself or create tactical advantages.
-4.  **Maintain Balance**: Due to the ragdoll nature of characters, maintaining balance is crucial for accurate shooting.
-5.  **Quick Reactions**: The game has a fast pace, requiring quick shooting decisions.
+1.  **先掌握射击手感：** 通过反复练习来熟悉拉弓角度和蓄力强度，学会根据重力和飞行距离预判箭矢的下坠幅度。
+2.  **预判目标走位：** 敌人往往会移动或跳跃，瞄准时要稍微提前，朝敌人“将要出现的位置”发射，而不是当前站位。
+3.  **善用地形与障碍物：** 地图上的高低差、墙体和掩体既能挡箭，也能反过来保护你。合理利用这些元素，创造更安全的输出位置。
+4.  **保持角色平衡：** 布偶角色本身就很难站稳，一旦姿势太夸张，瞄准精度会明显下降。尽量避免频繁做过大动作，保持相对稳定的站姿。
+5.  **果断出箭：** 游戏节奏通常较快，犹豫太久反而容易被先手命中。在大致确认角度后果断出手，比无限微调更实用。
 
-### How to Play
+### 操作说明
 
-*   **Aim**: Typically use mouse dragging to adjust shooting angle and power.
-*   **Shoot**: Release mouse or click to fire arrows.
-*   **Move**: Use keyboard or touch screen to control character movement (if supported by the game).
-*   **Reload**: Some versions may require manual arrow reloading.
+*   **瞄准：** 一般通过鼠标拖拽来调整弓的角度和拉弓力度。
+*   **射击：** 松开鼠标或点击指定按键即可放箭。
+*   **移动：** 使用键盘方向键或触控按键控制角色移动（具体是否支持取决于版本）。
+*   **装填：** 某些版本中需要等待或手动完成下一支箭的装填。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Why is my character always swaying?**
-     **A**: This is a design feature of the game; the ragdoll physics effects make characters unstable, which is part of the game's charm.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I improve shooting accuracy?**
-     **A**: Practice aiming more, familiarize yourself with the physics engine characteristics, and learn to predict target movement.
-3.  [ZH TRANSLATION NEEDED] **Q: Are there different game modes?**
-     **A**: Many versions offer different game modes such as single-player vs AI, multiplayer battles, survival mode, etc.
-4.  [ZH TRANSLATION NEEDED] **Q: Is there a limit to the number of arrows?**
-     **A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
+### 常见问题解答
+
+1.  **问：为什么角色总是摇摇晃晃？**  
+    **答：** 这是游戏刻意设计的 ragdoll 效果，角色略带失衡正是本作的乐趣所在，也让每一场战斗更加不可预测。
+2.  **问：怎样提高命中率？**  
+    **答：** 多练习不同距离下的角度和力度组合，熟悉物理引擎的“手感”，并学会提前瞄准移动中的敌人。
+3.  **问：游戏里有几种模式？**  
+    **答：** 许多版本都会提供单人闯关、人机对战、生存模式或多人对战等多种玩法，可根据自己习惯选择。
+4.  **问：箭是有限的吗？**  
+    **答：** 具体要看模式设置，有的模式箭矢数量有限，需要精打细算；也有模式提供接近无限的弹药，鼓励你尽情乱射。

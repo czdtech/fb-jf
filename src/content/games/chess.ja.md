@@ -1,163 +1,104 @@
 ---
-locale: ja
-urlstr: chess
-title: '[JA TRANSLATION NEEDED] Chess'
-description: >-
-  [JA TRANSLATION NEEDED] Learn the rules, pieces, and strategies of Chess, the
-  ultimate game of skill. Plan your moves, control the board, and checkmate your
-  opponent's king to win this timeless classic.
+title: Chess チェス
+description: 「Chess」で究極の頭脳戦に挑戦。ルール、駒の動き、そして戦略を学び、盤面を支配せよ。相手のキングをチェックメイトして勝利を掴め。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/chess.jpg
+urlstr: chess
+score: 4.0/5  (1497 votes)
 tags:
   - strategy
   - puzzle
   - classic
-score: 4.0/5  (1497 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+*Chess（チェス）*は、8x8のマス目（チェスボード）で戦う、2人対戦型の戦略ボードゲームです。各プレイヤーは16個の駒（キング1、クイーン1、ルーク2、ナイト2、ビショップ2、ポーン8）を持ってスタートします。ゲームの目的は、相手のキングを**チェックメイト**することです。チェックメイトとは、キングが捕獲される状態（チェック）にあり、かつ逃れるための合法的な手が一つもない状態を指します。
 
-### Game Introduction
+チェスは世界で最も人気のあるゲームの一つであり、その深い戦略と戦術的な複雑さで知られています。6種類の駒はそれぞれ異なる動きをするため、それらを理解することがプレイの第一歩です。
 
-[JA TRANSLATION NEEDED] Chess is a two-player strategy board game played on an 8x8 grid called a chessboard. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The objective of the game is to **checkmate** the opponent's king. A checkmate happens when the king is in a position to be captured (in "check") and there is no legal move to escape the capture.
-2.  **Pawn Promotion:** The goal of the endgame is often to advance one of your pawns to the other end of the board to promote it to a queen. A "passed pawn" (a pawn with no enemy pawns in front of it) is a major advantage.（日本語訳が必要）
+**駒の動き:**
+*   **キング（王）:** 縦、横、斜めに1マスだけ動けます。最も重要ですが、戦闘力としては弱い駒です。
+*   **クイーン（女王）:** 最強の駒です。縦、横、斜めのどの方向にも、邪魔な駒がない限り好きなだけ動けます。
+*   **ルーク（城/戦車）:** 縦または横に、好きなだけ動けます。
+*   **ビショップ（僧正）:** 斜め方向に好きなだけ動けます。白マスのビショップはずっと白マス、黒マスのビショップはずっと黒マスの上だけを移動します。
+*   **ナイト（騎士）:** L字型に動きます（縦か横に2マス進み、そこから直角に1マス）。ナイトだけが、他の駒を飛び越えて移動できます。
+*   **ポーン（歩兵）:** 前に1マスだけ進めます。ただし、敵の駒を取る時だけは「斜め前」に進みます。また、各ポーンの最初の移動に限り、2マス進むことも選べます。ポーンは後ろには戻れません。特殊な動きとして「アンパッサン」と「プロモーション（昇格）」があります。
 
-[JA TRANSLATION NEEDED] The game is one of the world's most popular, known for its deep strategy and tactical complexity. Each of the six different types of pieces moves differently, and understanding these movements is fundamental to playing the game.
-In digital chess (on a computer or mobile device), the controls are simple and intuitive.（日本語訳が必要）
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] **Piece Movements:**
--   **The King:** Moves one square in any direction (horizontally, vertically, or diagonally). The king is the most important piece but also one of the weakest.
--   **The Queen:** The most powerful piece. It can move any number of vacant squares in any direction (horizontally, vertically, or diagonally).
--   **The Rook:** Moves any number of vacant squares horizontally or vertically.
-**1. What is the difference between Checkmate and Stalemate?**（日本語訳が必要）
--   **The Bishop:** Moves any number of vacant squares diagonally. Each bishop starts on a single color (light or dark) and remains on that color for the entire game.
-    - **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.（日本語訳が必要）
-3.  **Always Think について Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
-    - **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.（日本語訳が必要）
-    - **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.（日本語訳が必要）
--   **The Knight:** Moves in an 'L' shape: two squares in a horizontal or vertical direction, then one square perpendicular to that. The knight is the only piece that can jump over other pieces.
-### Frequently Asked Questions (よくある質問)
-- **移動する a Piece:**
--   **The Pawn:** Moves forward one square, but captures diagonally one square forward. On its first move, a pawn has the option to move two squares forward. Pawns cannot move or capture backward. Pawns also have special moves: *En Passant* and *Promotion*.
-    - **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.（日本語訳が必要）
-- **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.（日本語訳が必要）
+#### オープニングの原則（序盤）
+1.  **中央の支配:** 中央の4マス（d4, e4, d5, e5）が最も重要です。ここを制圧すると、盤面全体への影響力が増します。
+2.  **駒の展開（デベロップメント）:** ナイトやビショップを初期位置から動かし、戦いに参加させましょう。一般的にはビショップより先にナイトを動かすのがセオリーです。
+3.  **早めのキャスリング:** キャスリングは、一手でキングを安全地帯に囲い、ルークを中央に展開できる特殊な手です。序盤に必ず行いましょう。
 
-### Gameplay Strategy
+#### ミドルゲームの戦略（中盤）
+1.  **駒の価値:** 駒の強さの目安（ポーン=1、ナイト=3、ビショップ=3、ルーク=5、クイーン=9）を覚えましょう。明確なメリットがない限り、高い価値の駒を安い駒と交換してはいけません。
+2.  **戦術（タクティクス）を探す:** チェスには頻出する戦術パターンがあります。
+    *   **フォーク:** 1つの駒で、同時に2つ以上の敵の駒を攻撃すること。
+    *   **ピン:** 動かすと後ろの価値の高い駒（またはキング）が取られてしまうため、動くに動けない状態にすること。
+    *   **スキュア:** 串刺し攻撃。価値の高い駒を攻撃し、それが逃げた後ろにある駒を取ること。
+3.  **相手の意図を読む:** 相手が動いた後、「相手は何を狙っている？」「何の脅威がある？」と必ず考えましょう。
 
-#### Opening Principles
-[JA TRANSLATION NEEDED] 1.  **Control the Center:** The central squares (d4, e4, d5, e5) are the most important. Pieces in the center control more of the board and have greater mobility.
-1.  **Activate Your King:** In the endgame, with fewer pieces on the board, the king becomes a powerful attacking and defending piece. 移動する it towards the center.
-[JA TRANSLATION NEEDED] 2.  **Develop Your Pieces:** Move your knights and bishops out from their starting squares to active positions. A good rule of thumb is to move knights before bishops.
-[JA TRANSLATION NEEDED] 3.  **Castle Early:** Castling is a special move that gets your king to safety and develops one of your rooks. It's a crucial part of the opening.
+#### エンドゲームの原則（終盤）
+1.  **キングの活性化:** 盤上の駒が減ってきたら、安全だったキングを攻撃や防御の要として中央へ進出させましょう。
+2.  **ポーンの昇格:** 終盤の目的の多くは、ポーンを相手側の端まで進めてクイーンに「プロモーション（昇格）」させることです。目の前に敵がいない「パスポーン」は大きな強みになります。
 
-#### Mid-Game Strategy
-[JA TRANSLATION NEEDED] 1.  **Piece Value:** Understand the relative value of your pieces as a general guide (Pawn=1, Knight=3, Bishop=3, Rook=5, Queen=9). Avoid losing a more valuable piece for a less valuable one unless it leads to a clear advantage.
-[JA TRANSLATION NEEDED] 2.  **Look for Tactics:** Chess is full of tactical patterns. Learn to spot common ones:
-[JA TRANSLATION NEEDED]     -   **Fork:** A single piece attacking two or more enemy pieces at once.
-[JA TRANSLATION NEEDED]     -   **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.
-[JA TRANSLATION NEEDED]     -   **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.
-[JA TRANSLATION NEEDED] 3.  **Always Think About Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
+### 操作ガイド（デジタル版）
 
-#### End-Game Principles
-[JA TRANSLATION NEEDED] 1.  **Activate Your King:** In the endgame, with fewer pieces on the board, the king becomes a powerful attacking and defending piece. Move it towards the center.
-[JA TRANSLATION NEEDED] 2.  **Pawn Promotion:** The goal of the endgame is often to advance one of your pawns to the other end of the board to promote it to a queen. A "passed pawn" (a pawn with no enemy pawns in front of it) is a major advantage.
+コンピュータやスマホでの操作は直感的です。
+*   **駒の移動:**
+    *   **ドラッグ＆ドロップ:** 駒をクリックして掴んだまま移動させたいマスで離します。
+    *   **クリック＆クリック:** 動かしたい駒をクリックして選択し、次に移動先のマスをクリックします。
+*   **キャスリング:** キャスリングしたい側のルークの方向へ、キングを2マス動かしてください。ルークは自動的に動きます（※キングをドラッグしてルークの上に落とす操作の場合もあります）。
 
-### Controls Guide (Digital Versions)
-
-[JA TRANSLATION NEEDED] In digital chess (on a computer or mobile device), the controls are simple and intuitive.
--   **Move a Piece:**
-[JA TRANSLATION NEEDED]     -   **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
-[JA TRANSLATION NEEDED]     -   **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
--   **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
-
-### Frequently Asked Questions (FAQ)
-
-[JA TRANSLATION NEEDED] **1. What is the difference between Checkmate and Stalemate?**
-[JA TRANSLATION NEEDED] > This is a crucial distinction.
-[JA TRANSLATION NEEDED] > - **Checkmate** is a win. It occurs when a king is in check (under attack) and there is no legal move to get out of check.
-[JA TRANSLATION NEEDED] > - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.
-
-[JA TRANSLATION NEEDED] **2. What are the rules for Castling?**
-[JA TRANSLATION NEEDED] > You can only castle if all of the following conditions are met:
-[JA TRANSLATION NEEDED] > 1.  It is that king's very first move.
-[JA TRANSLATION NEEDED] > 2.  It is that rook's very first move.
-[JA TRANSLATION NEEDED] > 3.  There are no pieces between the king and the rook.
-[JA TRANSLATION NEEDED] > 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.
-
-[JA TRANSLATION NEEDED] **3. What is "En Passant"?**
-[JA TRANSLATION NEEDED] > *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.
-
-[JA TRANSLATION NEEDED] **4. Can the King capture pieces?**
-[JA TRANSLATION NEEDED] > Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
-
-
-    - **Fork:** A single piece attacking two or more enemy pieces at once.（日本語訳が必要）
-    - **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.（日本語訳が必要）
-    - **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.（日本語訳が必要）
-#### End-Game Principles（日本語訳が必要）
-
-
-
-
-
-
-
-
-
-- **Pawn Promotion:** The goal of the endgame is often to advance one of your pawns to the other end of the board to promote it to a queen. A "passed pawn" (a pawn with no enemy pawns in front of it) is a major advantage.
-- **Activate Your King:** In the endgame, with fewer pieces on the board, the king becomes a powerful attacking and defending piece. Move it towards the center.
-#### End-Game Principles
-- **Always Think について Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
-    - **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.
-    - **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.
-    - **Fork:** A single piece attacking two or more enemy pieces at once.
-- **Look for Tactics:** Chess is full of tactical patterns. Learn to spot common ones:
-
-#### End-Game Principles
-- **Piece Value:** Understand the relative value of your pieces as a general guide (Pawn=1, Knight=3, Bishop=3, Rook=5, Queen=9). Avoid losing a more valuable piece for a less valuable one unless it leads to a clear advantage.
-### コントロール Guide (Digital Versions)
-> This is a crucial distinction.（日本語訳が必要）
-
-
-
-
-
-### よくある質問（FAQ）
-- **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
-
-### コントロール Guide (Digital Versions)
-    - **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
-    - **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
-- **Move a Piece:**
-> - **Checkmate** is a win. It occurs when a king is in check (under attack) and there is no legal move to get out of check.（日本語訳が必要）
-
-
-
-
-
-### よくある質問（FAQ）
-- **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
-    - **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
-    - **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
-- **Move a Piece:**
-
-### よくある質問（FAQ）
-> - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.（日本語訳が必要）
-**2. What are the rules for Castling?**（日本語訳が必要）
-> You can only castle if all of the following conditions are met:（日本語訳が必要）
-> 1.  It is that king's very first move.（日本語訳が必要）
-> 2.  It is that rook's very first move.（日本語訳が必要）
-> 3.  There are no pieces between the king and the rook.（日本語訳が必要）
-> 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.（日本語訳が必要）
-**3. What is "En Passant"?**（日本語訳が必要）
-> *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.（日本語訳が必要）
-**4. Can the King capture pieces?**（日本語訳が必要）
-> Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).（日本語訳が必要）
+### よくある質問 (FAQ)
 
 
 > Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
+
 **4. Can the King capture pieces?**
 
+> *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.
 
-> Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
+**3. What is "En Passant"?**
+
+> 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.
+
+> 3.  There are no pieces between the king and the rook.
+
+> 2.  It is that rook's very first move.
+
+> 1.  It is that king's very first move.
+
+> You can only castle if all of the following conditions are met:
+
+**2. What are the rules for Castling?**
+
+> - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.
+
+> - **Checkmate** is a win. It occurs when a king is in check (under attack) and there is no legal move to get out of check.
+
+> This is a crucial distinction.
+
+**1. What is the difference between Checkmate and Stalemate?**
+*   **Q: チェックメイトとステイルメイトの違いは？**
+    *   **A:** 非常に重要です。
+        *   **チェックメイト:** あなたの勝ちです。相手のキングが攻撃されており、逃げ場がない状態です。
+        *   **ステイルメイト:** 引き分け（ドロー）です。相手のキングは攻撃されて*いない*が、合法的に動かせる駒が一つもない状態です。
+
+*   **Q: キャスリングの条件は？**
+    *   **A:** 以下の全てを満たす必要があります。
+        1. キングが一度も動いていない。
+        2. パートナーとなるルークが一度も動いていない。
+        3. キングとルークの間に駒がない。
+        4. 現在チェックされておらず、通過するマスも移動先のマスも敵に攻撃されていない。
+
+*   **Q: 「アンパッサン（En Passant）」とは？**
+    *   **A:** ポーンの特殊な捕獲方法です。敵のポーンが初期位置から2マス進んで、自分のポーンの真横に来た直後のターンに限り、そのポーンをあたかも「1マスしか進まなかった」かのように斜めに取ることができます。
+
+*   **Q: キングも敵の駒を取れますか？**
+    *   **A:** はい、他の駒と同様に移動先にいる敵を取れます。ただし、敵の攻撃が及んでいる（取った後にチェックされる）場所には移動できません。

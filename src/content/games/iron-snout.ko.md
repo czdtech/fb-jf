@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: iron-snout
-title: '[KO] Iron Snout'
+title: "Iron Snout 무술 돼지 액션"
 description: >-
-  [KO] Kung‑fu pig brawler: parry wolves, juggle with kicks, and throw back
-  weapons to survive waves and set high scores.
+  늑대를 상대로 맨몸으로 싸우는 격투 액션 게임 'Iron Snout'
+  가이드입니다. 방향키만으로 펀치·킥·회피를 구사하고,
+  적이 던진 무기를 되받아쳐 높은 점수를 노려 보세요.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/iron-snout.jpg
 tags:
@@ -16,29 +17,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
 
+*Iron Snout*은 늑대 무리를 상대로 싸우는 **무술 돼지**가 주인공인
+2D 아케이드 격투 게임입니다. 별도의 공격 버튼 없이 방향키 입력만으로
+펀치, 킥, 점프, 숙이기 등을 수행하며, 적의 공격을 튕겨내고
+던져진 도끼를 잡아 던지거나 로켓을 반사하는 등 화려한
+대응이 가능합니다.
 
-### Overview
-Iron Snout is a fast 2D brawler starring a martial‑arts pig fighting wolves. With simple directional inputs you punch, kick, duck, and jump to parry attacks, catch thrown axes, and reflect rockets. Survival hinges on reading telegraphed moves and maintaining a steady rhythm of counters.
+생존을 위해서는 적의 공격 모션을 읽고, 끊임없이 리듬감 있게
+카운터를 이어 가는 것이 중요합니다.
 
-### How to Play
-- Watch enemy tells; jump‑kicks pop foes for multi‑hits, duck avoids overheads.
-- Catch airborne weapons and toss them back for bonus damage.
-- Keep the fight centered to react to both sides.
+### 플레이 방법
 
-### Controls
-- Arrow/WASD directions trigger attacks, jumps, and ducks; no attack buttons needed.
+- **적의 모션 읽기**: 늑대가 휘두르는 무기나 돌진 모션을 보고
+  점프·숙이기·옆 공격을 적절히 선택합니다.  
+- **공중 콤보 활용**: 점프 킥으로 적을 띄운 뒤 연속 타격을 넣으면
+  콤보와 점수를 동시에 올릴 수 있습니다.  
+- **무기 되받아치기**: 허공을 가르는 도끼나 투척 무기를
+  제때 입력해 캐치하면, 다시 던져 추가 피해를 줄 수 있습니다.  
+- **양쪽을 모두 신경쓰기**: 좌우 양쪽에서 적이 접근하므로,
+  화면 중앙 근처를 유지하며 양 방향을 번갈아 체크하는 것이 좋습니다.
 
-### Tips
-- Prioritize ranged enemies; projectiles disrupt combo flow.
-- Juggle light foes for score; finish heavies with weapon returns.
-- Don’t corner yourself—reset to mid‑screen often.
+### 조작법
 
-### FAQ
-- Q: How do I deal with multiple directions of attack at once?
-A: Stay near center stage and respond to the closest telegraph first.
-- Q: Can I catch weapons in this game?
-A: Yes—press toward flying weapons to grab and throw them back.
-- Q: Is there an end to the waves?
-A: Most modes are endless until you run out of health.
+- **방향키 / WASD**: 방향 입력에 따라 공격·점프·숙이기 등이
+  자동으로 나갑니다. 별도의 공격 버튼은 없습니다.  
+  - 위쪽: 점프 공격  
+  - 아래쪽: 숙이거나 엎드리기  
+  - 좌우: 해당 방향으로 펀치·킥 등
+
+### 팁
+
+- 원거리 공격을 하는 적을 우선 처리하면, 콤보가 끊기는 상황을
+  줄일 수 있습니다.  
+- 가벼운 적은 공중에서 계속 때려 점수용으로 활용하고,
+  체력이 많은 적은 무기를 되던져 빠르게 처리하는 것이 효율적입니다.  
+- 화면 구석에 몰리면 양쪽에서 동시에 공격받기 쉬우니,
+  틈날 때마다 다시 중앙으로 이동해 위치를 리셋하세요.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 양쪽에서 동시에 공격이 올 때 어떻게 대응하나요?**  
+  **A:** 가능한 한 무대 중앙을 유지하고, **먼저 닿는 공격**부터
+  처리하는 것이 안전합니다.
+
+- **Q: 날아오는 무기를 진짜로 잡을 수 있나요?**  
+  **A:** 네. 날아오는 방향으로 입력하면 무기를 캐치해,
+  다시 던져 적에게 큰 피해를 줄 수 있습니다.
+
+- **Q: 웨이브에 끝이 있나요?**  
+  **A:** 대부분의 모드는 체력이 다할 때까지 계속되는
+  **무한 모드**에 가깝습니다. 가능한 오래 버티며 최고 점수를
+  갱신해 보세요.
 

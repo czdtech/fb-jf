@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: jewel-halloween
-title: '[KO] Jewel Halloween'
+title: "Jewel Halloween 핼러윈 매치3"
 description: >-
-  [KO] Jewel Halloween is a spooky match‑3 — swap gems, trigger cascades, and
-  clear stage goals.
+  핼러윈 분위기의 3매치 퍼즐 게임 'Jewel Halloween' 가이드입니다.
+  보석을 맞바꿔 라인을 만들고, 특수 보석과 연쇄 반응으로
+  스테이지 목표를 달성하는 방법을 소개합니다.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/jewel-halloween.png
 tags:
@@ -16,28 +17,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Jewel Halloween*은 핼러윈 테마의 3매치 퍼즐 게임입니다.
+인접한 보석을 교환해 같은 모양 3개 이상을 맞추면 보석이
+사라지고, 다양한 스테이지 목표를 달성해 나가는 방식입니다.
 
-### Detailed Game Introduction
+스테이지마다 점수 달성, 이동 횟수 제한, 장애물 제거 등
+다양한 조건이 주어져, 단순 매치 이상의 간단한 전략이 필요합니다.
 
-Jewel Halloween is a seasonal match‑3. Swap adjacent gems to make lines of three or more, spawn power gems, and complete targets like score thresholds, limited moves, or clearing obstacles.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **하단 위주로 매치해 연쇄를 노리기**  
+   보드 아래쪽에서 매치를 만들면 위에서 새 보석이 많이
+   떨어지면서 자동 연쇄(캐스케이드)가 발생하기 쉽습니다.
 
-1.  **[KO]** Work from bottom to trigger cascades.
-2.  **[KO]** Prioritize objectives (e.g., blockers) over raw scoring.
-3.  **[KO]** Combine power gems for board‑wide clears.
-4.  **[KO]** Plan two moves ahead to avoid isolating colors.
-5.  **[KO]** Save strong combos for tight goals.
+2. **목표 우선**  
+   점수보다, 블로커 제거·특수 타일 파괴 등 스테이지 목표를
+   먼저 확인하고 해당 구역에서 매치를 우선하세요.
 
-### Controls Guide
+3. **파워 보석 조합하기**  
+   특수 보석끼리 맞바꾸면 보드 전체를 크게 정리할 수 있는
+   효과가 발생합니다. 난도가 높은 스테이지에서 특히 유용합니다.
 
-- Swap: Drag adjacent gems to swap.
-- Power‑ups: Activate by matching or tapping per rules.
+4. **두 수 앞까지 계획하기**  
+   한 번의 매치가 다음에 어떤 색을 고립시키는지 생각해 보고,
+   색깔이 흩어지지 않도록 계획적으로 맞추는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+5. **강력한 콤보는 아껴두기**  
+   목표가 빡빡한 스테이지에서는, 난관 구간을 위해 강력한
+   특수 보석 조합을 일부러 남겨 두는 것도 하나의 전략입니다.
 
-- Stuck on move limits? Focus on blockers and cascades rather than small matches.
-- Are diagonals allowed? Usually no—follow mode rules.
-- Hints available? Often yes; use sparingly.
+### 조작 가이드
+
+- **보석 교환**: 인접한 두 보석을 드래그해 서로 위치를 바꾸면,
+  3개 이상 매치가 되는 경우에만 교환이 성립합니다.  
+- **파워업 사용**: 규칙에 따라 특수 보석을 매치하거나,
+  아이콘을 눌러 사용합니다(모드 규칙 참고).
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 이동 횟수 제한 스테이지가 너무 어렵습니다.**  
+  **A:** 작은 매치 여러 번보다, 블로커 제거와 대형 캐스케이드를
+  노리는 것이 훨씬 효율적입니다.
+
+- **Q: 대각선 매치도 되나요?**  
+  **A:** 보통은 가로·세로 매치만 허용됩니다. 스테이지 규칙을
+  확인해 보세요.
+
+- **Q: 힌트 기능이 있나요?**  
+  **A:** 많은 버전에서 사용 가능한 힌트가 있지만, 남발하면
+  생각하는 재미가 줄어들 수 있습니다. 막혔을 때만 활용하는
+  편이 좋습니다.
 

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: hole-io
-title: '[ZH TRANSLATION NEEDED] Hole io'
-description: >-
-  [ZH TRANSLATION NEEDED] City‑swallowing .io brawler: move a black hole to eat
-  objects, grow larger, and outscore or eliminate rivals on the map.
+title: "《Hole io》城市黑洞大吞噬"
+description: "《Hole io》是一款城市吞噬类 .io 对战游戏，你操控一枚在街道中移动的黑洞，吞掉路上的物体不断长大，最终把车辆、建筑甚至其它玩家统统吸进去，比对手拿到更高得分或直接把他们淘汰出局。"
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/hole-io.jpg
 tags:
@@ -16,27 +14,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Hole io drops you into a destructible city as a roaming black hole. Start by eating small items—cones, benches, people—then graduate to cars, buildings, and entire blocks as your size increases. Modes include free‑for‑all score chases and battle variants where you knock out opponents by swallowing them.
+### 游戏概述
 
-### How to Play
-- Target clusters of small objects first for rapid growth.
-- Path through parks/markets early, then move to car‑dense streets.
-- When large, circle buildings to break them into swallowable pieces.
+在《Hole io》中，你将化身一枚在可破坏城市中游走的黑洞。开局只能吞下一些小物体，例如路锥、长椅、行人等；随着体型增大，你逐渐可以吃掉汽车、整栋建筑，乃至一整片街区。游戏通常提供自由积分模式和对战淘汰模式：前者比拼在限定时间内的总分，后者则可以通过把其他玩家整个人“吃”进去来直接淘汰对手。
 
-### Controls
-- Mouse/drag or WASD to steer; modes and timers vary by host.
+### 游戏玩法
+- 开局优先盯紧密集的小物件区域，用高密度的小目标快速叠大体型。
+- 前期多往公园、广场、集市等小物件密集区域跑，体型成型后再去车流密集的大路上“进补”。
+- 当体型足够大时，可以绕着大楼外圈转一圈，把建筑拆成更小的碎块，再一口一口全部吞掉。
 
-### Tips
-- Avoid larger rivals until you’ve grown; escape down wide streets.
-- Plan a growth route; detours waste precious timer seconds.
-- Use corners to trap opponents once you outsize them.
+### 操作说明
 
-### FAQ
-- Q: How can I grow quickly at the start of the match?  
-[ZH TRANSLATION NEEDED]   A: Prioritize dense clusters of tiny items before chasing cars or buildings.
-- Q: Can bigger holes eat me in this game?  
-[ZH TRANSLATION NEEDED]   A: Yes—avoid direct paths and stay in open lanes until you grow.
-- Q: What mode should I pick for learning?  
-[ZH TRANSLATION NEEDED]   A: FFA score mode is forgiving; practice routes without constant PvP.
+- 使用鼠标拖拽或 WASD / 方向键控制黑洞移动；具体模式、计时和得分规则会视托管平台略有差异。
 
+### 实用技巧
+
+- 体积小的时候尽量远离比你大的黑洞玩家，被追上很容易直接被吃掉，优先往宽阔大道和空地逃。  
+- 在脑中规划一条“成长路线”，避免在低价值区域绕圈浪费宝贵的计时秒数。  
+- 当你已经明显比别人更大时，可以利用街角或窄巷卡位，对方转弯空间有限，更容易被你封死去路直接吞掉。
+
+### 常见问题（FAQ）
+
+- Q: 开局怎样才能长得更快？  
+  A: 先锁定路锥、长椅、垃圾桶、人群等密度最高的小物体区域，在体型还小的时候不要急着追车或冲向大楼，效率会更高。
+
+- Q: 体型比较小时会被更大的黑洞吃掉吗？  
+  A: 会。尽量避免沿直线正面对着大号黑洞跑，优先选择宽一点的车道或空地绕开，等体型起来后再考虑反打。
+
+- Q: 新手练习用哪个模式比较好？  
+  A: 建议先玩自由积分/FFA 模式，这种模式容错更高，可以专心练熟路径规划和成长节奏，而不用一直承受高强度 PvP 压力。

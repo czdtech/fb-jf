@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: butterfly-shimai
-title: '[ZH TRANSLATION NEEDED] Butterfly Shimai'
-description: >-
-  [ZH TRANSLATION NEEDED] Soar into a beautiful puzzle adventure with Butterfly
-  Shimai! Connect matching butterfly wings to make them fly away and clear the
-  board.
+title: Butterfly Shimai 蝴蝶连连看
+description: 《Butterfly Shimai 蝴蝶连连看》是一款结合连连看与麻将配对规则的休闲解谜游戏，通过连接成对的蝴蝶翅膀让它们 振翅飞走，清空全盘。
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/butterfly-shimai.png
 tags:
@@ -17,29 +14,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Butterfly Shimai is a captivating and relaxing puzzle game that combines elements of Mahjong and connect-2 mechanics. The game presents you with a board filled with beautiful butterfly wings. Your objective is to find and connect pairs of identical wings to make them form a complete butterfly and fly away, clearing the board. The challenge lies in the connection rule: wings can only be paired if a path can be drawn between them with no more than two turns, and without passing through any other wings. With a time limit for each level, you need to be quick and strategic to clear all the butterflies.
+*Butterfly Shimai* 是一款画面非常柔和的连接类解谜游戏，融合了麻将连连看和“二折线连接”的规则。棋盘上布满了色彩各异的蝴蝶翅膀，你的目标是找出成对的同款翅膀，将它们连接成完整的蝴蝶，让蝴蝶飞走，从而逐步清空棋盘。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Scan for Obvious Matches:** Start by looking for pairs of wings that are directly adjacent or have a clear, straight path between them. These are the easiest to clear and will open up the board.
-2.  [ZH TRANSLATION NEEDED] **Prioritize Edges and Corners:** Wings located on the edges and corners of the board are often easier to connect as they have fewer blocking tiles around them. Clearing these first can create more opportunities.
-3.  [ZH TRANSLATION NEEDED] **Look for Two-Turn Paths:** Remember the connection rule: a path can have up to two turns. Visualize these paths to find less obvious matches.
-4.  [ZH TRANSLATION NEEDED] **Use Hints Wisely:** If you get stuck, the game usually provides a hint button. Use it when you're truly stumped, but try to solve puzzles on your own to improve your observation skills.
-5.  [ZH TRANSLATION NEEDED] **Time Management:** Keep an eye on the timer. Making matches adds a small amount of time back, so quick and continuous matching is key to completing levels.
+关键在于连接规则：**只有当两片相同的翅膀之间，可以画出一条最多拐弯两次（即最多两个 90 度转弯）且不穿过其他方块的连线时，这对翅膀才算可消除。** 每一关都有时间限制，你需要在倒计时结束前清除所有翅膀。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-*   **Select and Connect:** Use your mouse to click on the first butterfly wing, then click on its identical matching wing. If a valid path exists, the butterflies will fly away.
+1.  **先扫一圈找“直连”和简单对**  
+    开局先寻找那些相邻或一条直线就能连通的翅膀配对，优先清掉这些“显而易见”的组合，可以快速释放棋盘空间，为后续复杂路径创造条件。
 
-### Frequently Asked Questions (FAQ)
+2.  **优先处理边缘和角落**  
+    棋盘边缘和四角附近的翅膀通常周围阻挡较少，更容易连接。优先清理这里的配对可以打开局面，让中间区域有更多可行路径。
 
-*   **Q: What is the goal of Butterfly Shimai?**
-     *   **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
+3.  **多想“两折线”路径，不只看直线**  
+    连线最多可以有两次转折，所以很多表面上“被挡住”的对，其实可以走外圈或绕过空白格连接。尝试在心里沿着空格绘制折线，会发现不少隐藏配对。
 
-*   **Q: What are the rules for connecting wings?**
-     *   **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
+4.  **提示要留在真正卡关时再用**  
+    游戏通常会提供“Hint 提示”按钮。建议在自己实在找不到任何配对、且时间较紧时再使用，平时尽量靠自己寻找，有助于提高观察力。
 
-*   **Q: What happens if I run out of time?**
-     *   **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
+5.  **注意时间条与连击节奏**  
+    很多版本会在你成功连接一对翅膀时稍微回填一些时间，因此持续快速地找对并消除对，可以让你在后期拥有更多富余时间，不至于被倒计时逼死。
 
+### 操作指南
+
+-   **选择并连接：** 使用鼠标依次点击两片相同的蝴蝶翅膀。如果规则允许连线，它们会组合成一只完整蝴蝶并飞走。  
+-   **提示 / 重排：** 部分版本提供提示或重排按钮，可以在局面过于复杂时帮助你重新获得思路。  
+
+### 常见问题解答（FAQ）
+*   **问：Butterfly Shimai 的通关目标是什么？****
+    *   答：** 在时间耗尽前，将棋盘上的所有蝴蝶翅膀全部配对并消除，即视为通关。
+*   **问：连接规则具体是什么？****
+    *   答：** 两片完全相同的翅膀，只要能通过不超过两次转弯、且不穿过其他翅膀的路径连起来，就可以配对消除。
+*   **问：如果时间用完会怎样？****
+    *   答：** 倒计时归零前尚未清空棋盘，则本关失败，一般需要重新开始或消耗道具继续（视具体版本规则而定）。

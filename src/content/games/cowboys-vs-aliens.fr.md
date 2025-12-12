@@ -1,50 +1,88 @@
 ---
 locale: fr
 urlstr: cowboys-vs-aliens
-title: '[FR] Cowboys vs Aliens'
-description: >-
-  [FR] A comprehensive guide to the 'Cowboys vs Aliens' game theme. Learn the
-  common gameplay types (tower defense, action shooter), strategies, controls,
-  and tips for defending the Wild West from alien invaders.
-iframeSrc: >-
-  https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
-thumbnail: /new-images/cowboys-vs-aliens.jpg
+title: Cowboys vs Aliens
+description: "Cowboys vs Aliens mélange western et science‑fiction\_: défends ta ville avec ton revolver, vise vite et élimine les envahisseurs venus de l’espace."
+iframeSrc: 'https://cowboysvsaliens.h5games.usercontent.goog/v/3e45cncqb6d4g/'
+thumbnail: /new-images/cowboys-vs-aliens.png
 tags:
   - action
   - shooting
-score: 3.7/5  (1185 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 4.0/5  (1600 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
+
+Cowboys vs Aliens est un jeu de tir arcade où tu incarnes un cow‑boy qui doit
+protéger une petite ville du Far West contre une invasion extraterrestre.
+Armé de ton revolver (et parfois de gadgets plus avancés), tu dois arrêter les
+vagues d’aliens avant qu’ils n’atteignent les habitants.
+
+Le gameplay repose sur la rapidité, la précision et la gestion des munitions
+ou du temps de rechargement. Plus tu avances, plus les ennemis sont nombreux,
+rapides et résistants.
+
+### Guide de jeu
+
+1.  **Vise la tête ou les points faibles**  
+    Les tirs précis éliminent souvent les aliens plus vite et économisent tes
+    balles.
+2.  **Surveille le rechargement**  
+    Ne vide pas ton chargeur inutilement : recharge quand la vague ralentit pour
+    ne pas être à sec en plein rush.
+3.  **Utilise les bonus intelligemment**  
+    Certains niveaux proposent des power‑ups (tir rapide, dégâts accrus,
+    ralentissement du temps, etc.). Garde‑les pour les vagues les plus
+    dangereuses.
+4.  **Priorise les ennemis les plus proches**  
+    Concentre‑toi sur ceux qui sont sur le point d’atteindre ta position plutôt
+    que sur les cibles lointaines.
+5.  **Apprends les patterns d’attaque**  
+    Beaucoup d’aliens se déplacent selon des trajectoires répétitives.
+    Mémorise‑les pour anticiper leurs mouvements.
+
+#### Commandes
+
+- **Viser / Tirer** : déplace la souris ou ton doigt pour viser, clique ou tape
+  pour tirer.  
+- **Recharger / Changer d’arme** : utilise les touches ou icônes dédiées selon
+  la version.  
+- **Interaction** : dans certains niveaux, tu peux activer des pièges ou
+
+- **Know Your Arsenal**: Understand the strengths and weaknesses of each weapon. A shotgun is great for close-quarters crowd control, while a rifle is better for picking off distant foes. Switch weapons according to the situation.
+  éléments du décor.
+
+### Foire aux questions (FAQ)
 
 
+- **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
 
+    - **Movement**: Virtual joystick on the left side of the screen.
 
-### **Game Introduction**
+    - **Mobile:**
 
-This version puts you in direct control of a single cowboy hero. The gameplay is typically a side-scrolling or top-down shooter where you must run, jump, and shoot your way through levels filled with alien enemies. You collect new weapons (from revolvers to alien laser guns), power-ups, and health packs while dodging enemy projectiles and attacks. The goal is to survive each stage and defeat a boss at the end.
+    - **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
 
-### **Gameplay Strategy & Tips**
+    - **Jump**: `Space Bar`.
 
-#### **For Action/Shooter Games:**
+    - **Shoot**: `Left Mouse Button`.
 
-1.  **[FR]** **Movement is Life**: Never stand still. Constantly be on the move to dodge incoming alien lasers and attacks. Learn enemy attack patterns to know when to jump, duck, or run.
-2.  **[FR]** **Prioritize Threats**: Some aliens are more dangerous than others. Learn to quickly identify and eliminate high-priority targets first, such as long-range snipers or enemies that spawn smaller minions.
-3.  **[FR]** **Conserve Ammunition/Power-ups**: If your game has limited ammo or timed power-ups, save them for large groups of enemies or difficult boss encounters. Don't waste your strongest attacks on weak, single aliens.
-4.  **[FR]** **Know Your Arsenal**: Understand the strengths and weaknesses of each weapon. A shotgun is great for close-quarters crowd control, while a rifle is better for picking off distant foes. Switch weapons according to the situation.
+- **Aim**: Mouse.
 
-### **Controls Guide**
+    - **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
 
-*   **[FR]** **PC/Web:**
-    *   **[FR]** **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
-    *   **[FR]** **Aim**: Mouse.
-    *   **[FR]** **Shoot**: `Left Mouse Button`.
-    *   **[FR]** **Jump**: `Space Bar`.
-    *   **[FR]** **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
-*   **[FR]** **Mobile:**
-    *   **[FR]** **Movement**: Virtual joystick on the left side of the screen.
-    *   **[FR]** **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
+    - **PC/Web:**
+**Q : Le jeu est‑il uniquement en solo ?**  
+R : La plupart des versions sont solo, mais certains ports peuvent proposer des
+modes de score en ligne.
 
+**Q : Puis‑je améliorer mes armes ?**  
+R : Selon la version, tu peux débloquer de nouvelles armes ou upgrades en
+progressant ou en gagnant de la monnaie en jeu.
 
+**Q : Y a‑t‑il une fin ?**  
+R : Certaines campagnes ont un nombre de niveaux fini, d’autres enchaînent les
+vagues de plus en plus difficiles pour un score infini.

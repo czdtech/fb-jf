@@ -1,64 +1,64 @@
 ---
 locale: es
 urlstr: yojou-sprunki-mustard
-title: '[ES] Yojou Sprunki Mustard - Play Yojou Sprunki Mustard Online'
+title: "Yojou Sprunki Mustard - Mod de mostaza"
 description: >-
-  [ES] Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki
-  world, with all characters being eroded by a mysterious
-iframeSrc: 'https://turbowarp.org/1153723334/embed'
-thumbnail: /yojou-sprunki-mustard.png
+  Yojou Sprunki Mustard es un mod parodia que retuerce por completo el mundo
+  Sprunki: todos los personajes han sido invadidos por una misteriosa “salsa de
+  mostaza”, creando una experiencia musical tan caótica como divertida.
+iframeSrc: "https://turbowarp.org/1153723334/embed"
+thumbnail: "/yojou-sprunki-mustard.png"
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)
 ---
 
 
-
-Ready to welcome a bizarre baptism of color and sound? Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki world, with all characters being eroded by a mysterious "mustard sauce," creating a musical experience that's both chaotic and fun.
+¿Preparado para un extraño bautismo de color y sonido? Yojou Sprunki Mustard es un mod parodia que deform… y llena de amarillo el universo Sprunki: todos los personajes son corrompidos por una misteriosa “salsa de mostaza”, dando lugar a una experiencia musical tan caótica como hipnótica.
 
 ### What Exactly Happened to Yojou Sprunki Mustard?
 
-Ever since Brud discovered that mysterious "mustard sauce," everything has changed! All characters have been transformed into a yellow-tinted version, equipped with unique sound effects and FNF-inspired manic voices, and the familiar melodies have become strangely funny.
+Desde que Brud descubrió esa extraña “salsa de mostaza”, todo cambió. Los personajes se han convertido en versiones bañadas en amarillo, con efectos de sonido propios y voces frenéticas inspiradas en FNF, y las melodías familiares ahora suenan extrañamente cómicas.
 
 ### The Core Gameplay of Yojou Sprunki Mustard:
 
-- **Choose Your Mustard Avatar:** Choose from mustard-transformed characters, each with unique sounds and effects.
-- **Mix Manic Music:** Mix different yellow-tinted characters to create unique musical combinations. Are you ready to be brainwashed?
-- **Explore Hidden Secrets:** Discover special sound effects and character interactions in both normal and horror modes to unlock more surprises.
+- **Elige tu avatar mostaza:** selecciona entre los personajes transformados, cada uno con timbres y efectos únicos.
+- **Mezcla música maníaca:** combina distintos personajes amarillos para crear composiciones sonoras irrepetibles. ¿Listo para un buen lavado de cerebro auditivo?
+- **Explora secretos ocultos:** descubre efectos especiales e interacciones entre personajes en modos normal y de terror para desbloquear más sorpresas.
 
 
 ### What are the Highlights of the Yojou Sprunki Mustard Mod?
 
-- **Mustard-Themed Characters:** Every character in the game has been redesigned with a monochromatic mustard-yellow color scheme, adding a haunting and cohesive aesthetic to the game.
-- **Twisted Interface:** The game's interface is also enveloped in mustard hues, creating a surreal and intense atmosphere that feels both whimsical and eerie.
-- **New Horror Elements:** The Mod introduces an unsettling ambiance, encouraging players to experiment with unique sounds and embrace a new, eerie vibe.
+- **Personajes a la mostaza:** todos los personajes han sido rediseñados con una paleta monocromática amarillo‑mostaza, creando una estética inquietante pero coherente.
+- **Interfaz retorcida:** la propia UI está empapada de tonos mostaza, generando una atmósfera surrealista e intensa, a medio camino entre lo cómico y lo perturbador.
+- **Nuevos elementos de terror:** el mod introduce un ambiente más siniestro que anima a experimentar con sonidos raros y a abrazar una vibra inquietante.
 
 
 ### How to Play Yojou Sprunki Mustard (Sprunkstard):
 
-**Choose Mustard-Themed Characters:** 
-- Each character represents a unique sound element, such as beats, melodies, vocals, or special effects.
-- The characters are stylized to match the mustard color scheme, enhancing the immersive experience.
+**Elige personajes a la mostaza:**  
+- Cada personaje representa un elemento sonoro distinto: bases rítmicas, melodías, voces o efectos especiales.
+- El estilo visual de cada uno sigue el mismo código de color amarillo para reforzar la inmersión.
 
-**Drag and Drop Sounds:** 
-- Drag characters into the main composition area to add their sounds to your track.
-- Layer different sounds to create your own unique musical composition.
+**Arrastra y suelta sonidos:**  
+- Arrastra los personajes al área principal de composición para añadir sus sonidos a tu pista.
+- Superpone distintas fuentes para construir tu propia mezcla musical.
 
-**Experiment with Horror Elements:** 
-- Mix different character sounds to uncover new, spooky combinations.
-- Certain arrangements may trigger hidden animations, adding depth to the haunting theme.
+**Experimenta con los elementos de horror:**  
+- Mezcla combinaciones poco habituales de personajes para descubrir texturas sonoras más oscuras.
+- Ciertas disposiciones pueden activar animaciones ocultas, profundizando en el tono inquietante del mod.
 
-**Create and Share Your Music:** 
-- Once you're satisfied with your composition, share it with friends or the online community.
-- Explore other players' creations for inspiration.
-
+**Crea y comparte tu música:**  
+- Cuando estés satisfecho con tu composición, compártela con amigos o con la comunidad.
+- Explora las creaciones de otros jugadores para inspirarte.
 
 
 ### Why Play Yojou Sprunki Mustard Mod?
 
-- **A Refreshing Incredibox:** Offers a new perspective and challenges players to explore different creative avenues.
-- **Suitable for All Players:** Whether you're a long-time fan of Sprunki or a newbie, this Mod provides a uniquely engaging music creation experience.
-- **Unleash Creativity:** Experiment with unique sounds and visuals to craft compositions that reflect your personal style.
+- **Un Incredibox retorcido:** ofrece una perspectiva fresca sobre el formato y anima a explorar caminos creativos distintos.
+- **Apto para todo tipo de jugadores:** tanto si eres fan veterano de Sprunki como si llegas de nuevas, este mod ofrece una experiencia de creación musical muy accesible y envolvente.
+- **Desata tu creatividad:** juega con sonidos y visuales raros para montar piezas que reflejen tu estilo personal.
 
 
-Join the bizarre world of Yojou Sprunki Mustard and let your music creation be infected with this magical yellow color!
+Entra en el extraño mundo de Yojou Sprunki Mustard y deja que tus creaciones musicales se contagien de este mágico tono amarillo.
+

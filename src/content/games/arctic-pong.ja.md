@@ -1,63 +1,38 @@
 ---
+title: "Arctic Pong アークティック・ポン"
+description: "「Arctic Pong」は極寒の地で行うパドル対決。角度をつけて打ち返し、ペースを支配し、対戦相手より多く得点しましょう。"
+iframeSrc: "https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/"
+thumbnail: "/new-images/arctic-pong.png"
+urlstr: "arctic-pong"
+score: "3.7/5  (1332 votes)"
+tags: ["2 player", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: arctic-pong
-title: '[JA TRANSLATION NEEDED] Arctic Pong'
-description: >-
-  [JA TRANSLATION NEEDED] Arctic Pong is a frosty paddle duel — angle returns,
-  control pace, and outscore your opponent.
-iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
-thumbnail: /new-images/arctic-pong.png
-tags:
-  - 2 player
-  - casual
-score: 3.7/5  (1332 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Arctic Pong（アークティック・ポン）*は、名作ゲーム「ポン（Pong）」をシンプルかつクールにアレンジした極寒バージョンです。パドルを動かしてパック（ボール）を打ち返し、壁の角度を利用したショットや、 スピードとコース取りで相手にプレッシャーをかけましょう。
 
-### Detailed Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Arctic Pong is a simple, chilly spin on classic Pong. Move your paddle to return the puck, angle shots off edges, and pressure your opponent with pace and placement.
+1.  **角（カド）を狙う：** パドルの端っこ（角）でボールを打つと、打ち返す角度が劇的に変わります。これを利用して相手を惑わせましょう。
+2.  **緩急をつける：** 優しいタッチでゆっくり返したり、急に速いドライブを打ったりして、空振りを誘いましょう。
+3.  **中央に戻る：** 打った後は必ず中央の定位置に戻りましょう（リカバリー）。そうすれば左右どちらに来ても対応しやすくなります。
+4.  **反射を読む：** 壁に当たったボールがどのような角度で跳ね返ってくるかを予測し、早めに移動しましょう。
+5.  **サーブで支配する：** サーブ（発球）権がある時は、最初から厳しいコースを狙ってプレッシャーをかけましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Aim corners: Strike near paddle edges to change return angles.
-[JA TRANSLATION NEEDED] 2.  Mix speeds: Soft touches then fast drives can bait whiffs.
-[JA TRANSLATION NEEDED] 3.  Center recover: Return to center after each hit to cover both sides.
-[JA TRANSLATION NEEDED] 4.  Read bounces: Predict wall angles to pre‑position earlier.
-[JA TRANSLATION NEEDED] 5.  Serve control: Use serves to set early pressure.
+*   **パドル移動：** 矢印キー / WASDキー、またはドラッグ操作。
+*   **モード：** 1台の端末での2人対戦や、対AIのソロプレイが一般的です。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Move paddle: Arrow keys / WASD or drag.
-- Modes: Local 2‑player and solo vs. AI are common.
-
-### Frequently Asked Questions (FAQ)
-
-- Is there spin? Some versions approximate angle via contact point; no complex spin.
-- Best defense? Stay centered and react to edge bounces.
-- Quick wins? Vary angles and tempo to force mistakes.
-
-
-
-
-
-
-
-
-
-- Quick wins? Vary angles and tempo to force mistakes.
-- Best defense? Stay centered and react to edge bounces.
-- Is there spin? Some versions approximate angle via contact point; no complex spin.
-### よくある質問（FAQ）
-- Modes: Local 2‑player and solo vs. AI are common.
-- Move paddle: Arrow keys / WASD or drag.
-### コントロールガイド
-
-
-
-
-- Quick wins? Vary angles and tempo to force mistakes.
-- Best defense? Stay centered and react to edge bounces.
-- Is there spin? Some versions approximate angle via contact point; no complex spin.
+*   **回転（スピン）はかけられますか？**
+    *   一部のバージョンでは、パドルがボールに当たる位置や動きで擬似的に角度が変わりますが、複雑なスピン操作はありません。
+*   **一番の防御策は？**
+    *   常に中央をキープし、壁の反射に素早く反応することです。
+*   **早く勝つコツは？**
+    *   単調に打ち返すのではなく、角度とテンポを絶えず変化させて、相手のミスを誘発しましょう。

@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: mahjong-classic
-title: '[FR] Mahjong Classic'
+title: Mahjong Classic
 description: >-
-  [FR] Enjoy the timeless puzzle of Mahjong Classic. Match pairs of identical,
-  unblocked tiles to clear the board in this relaxing game of strategy and
-  observation.
+  Profite du puzzle intemporel Mahjong Classic : associe des paires de tuiles
+  identiques et libres pour vider le plateau dans ce jeu relaxant de stratégie
+  et d’observation.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/mahjong-classic.png
 tags:
@@ -14,38 +14,42 @@ tags:
   - casual
   - card
 score: 4.6/5  (2900 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Mahjong Classic est un jeu de puzzle solo intemporel basé sur un ensemble de tuiles de mahjong. Contrairement au mahjong traditionnel, le but n’est pas de former des mains, mais de vider une disposition de tuiles empilées en trouvant et en faisant correspondre des paires identiques. Le jeu met à l’épreuve ton sens de l’observation et ta capacité à planifier, tout en restant relaxant et accessible.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Comprendre la notion de tuile libre :** tu ne peux sélectionner et associer que les tuiles « libres ». Une tuile est considérée comme libre si elle peut être glissée vers la gauche ou la droite sans heurter une autre tuile, et si aucune tuile ne repose dessus.
+2.  **Choisir les bonnes paires :** ne te contente pas de la première paire visible. Privilégie les associations qui libèrent le plus de nouvelles tuiles, surtout celles situées sur des piles hautes ou au centre du plateau.
+3.  **Gérer les doublons avec soin :** si tu vois trois ou quatre tuiles identiques déjà libres, réfléchis avant de faire un match. Le mauvais choix peut laisser la paire restante bloquée ; choisis la combinaison qui ouvrira le plus de possibilités plus tard.
+4.  **Utiliser les tuiles Fleurs et Saisons :** rappelle‑toi que n’importe quelle tuile Fleur peut être associée avec une autre Fleur, et il en va de même pour les Saisons. Ces paires flexibles sont très utiles pour débloquer une situation.
 
-Mahjong Classic is the timeless single-player puzzle game that uses a set of Mahjong tiles. The goal is not to form winning hands as in traditional Mahjong, but to systematically clear a stacked layout of tiles by finding and matching identical pairs. It’s a game that tests your observation skills and strategic thinking, providing a relaxing yet engaging mental workout.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** **The Rule of Free Tiles:** You can only select and match tiles that are "free." A tile is considered free if it can be moved left or right without being blocked by another tile, and it has no other tiles sitting on top of it.
-2.  **[FR]** **Strategic Matching:** Don't just match the first pair you see. Think about which matches will open up the most new tiles. Prioritizing pairs that unblock heavily stacked areas of the board is key to success.
-3.  **[FR]** **Handle Multiples with Care:** If you see three or four identical free tiles, pause and consider which pair to match. The wrong choice could leave the other pair blocked permanently. Choose the pair that will be most beneficial for future moves.
-4.  **[FR]** **Flower and Season Tiles:** Remember that any Flower tile can be matched with any other Flower tile, and the same goes for Season tiles. They don't need to be identical. Use these flexible matches to your advantage, especially when you're stuck.
-
-### Controls Guide
 
 The game is played with simple mouse clicks or taps.
+- **Sélection et association :** clique sur une tuile libre pour la mettre en surbrillance, puis sur une seconde tuile identique libre pour retirer la paire du plateau.
+- **Aide :** la plupart des versions proposent un bouton « Indice » pour montrer une paire possible et un bouton « Mélanger » pour réorganiser les tuiles lorsque plus aucun coup n’est disponible.
 
-*   **[FR]** **Select & Match:** Click on a free tile to highlight it. Then, click on another identical, free tile to remove both from the board.
-*   **[FR]** **Hints/Shuffle:** Most versions include a "Hint" button to show you a possible match and a "Shuffle" button to rearrange the tiles if no moves are available.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q : Pourquoi je ne peux pas cliquer sur certaines tuiles ?  
+  R : Elles ne sont pas « libres » : elles sont bloquées sur leurs côtés gauche et droit ou recouvertes par une autre tuile.
 
-*   **[FR]** **Q: Why can't I click on a tile?**
-    *   **[FR]** **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.
+    - Q : Quel est l’objectif exact du jeu ?  
+  R : Vider 100 % des tuiles du plateau en les appariant par paires.
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
+- Q : Il ne me reste plus de coups, la partie est‑elle perdue ?  
 
-*   **[FR]** **Q: I have no more moves. Is the game over?**
-    *   **[FR]** **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
+    - **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
+
+- **Q: I have no more moves. Is the game over?**
+
+    - **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
+  R : Pas forcément. Si aucune paire n’est possible, le jeu propose souvent un bouton de mélange pour créer de nouvelles opportunités. Si ta version n’inclut pas de mélange, la partie est alors effectivement perdue.
 

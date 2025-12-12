@@ -1,70 +1,39 @@
 ---
+title: "Sky Tower"
+description: "Sky Towerはタワー構築ゲームです。ブロックを積み重ね、タワーを構築し、バランスを保ち、できるだけ高く構築します。"
+iframeSrc: "https://skytower.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
+thumbnail: "/new-images/sky-tower.png"
+urlstr: "sky-tower"
+score: "4.1/5  (1823 votes)"
+tags: ["casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: sky-tower
-title: '[JA TRANSLATION NEEDED] Sky Tower'
-description: >-
-  [JA TRANSLATION NEEDED] Sky Tower is a stack‑builder — time drops to align
-  floors, minimize overhangs, and build the tallest, cleanest tower.
-iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
-thumbnail: /new-images/sky-tower.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 3.9/5  (1731 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Sky Towerは、ブロックをできるだけ高く積み重ねることに挑戦します。各ブロックがスイングし、完璧にタイミングを合わせてタワーにドロップする必要があります。不完全な配置はタワーを不安定にします。
 
-[JA TRANSLATION NEEDED] Sky Tower challenges you to drop moving floors onto a growing tower. Misalignments shear off overhangs, shrinking the platform. Clean timing produces tall, stable towers; sloppiness shrinks floors and ends runs early.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **完璧にタイミング:" 中央配置が最適です。
+2.  **忍耐強く:" 完璧な瞬間を待ちます。
+3.  **リズムを見つける:" スイングパターンを学びます。
+4.  **中央を目指す:" オフセンターブロックは難易度を上げます。
+5.  **冷静を保つ:" 急ぐと間違いにつながります。
 
-[JA TRANSLATION NEEDED] 1.  Center cue: Align to a background landmark to release consistently.
-[JA TRANSLATION NEEDED] 2.  Late‑release bias: Drop just after alignment passes the center to compensate for human reaction.
-[JA TRANSLATION NEEDED] 3.  Recovery floors: After a bad chop, slow down and re‑center before chasing height.
-[JA TRANSLATION NEEDED] 4.  Rhythm: Maintain a steady cadence rather than reacting frantically.
-[JA TRANSLATION NEEDED] 5.  Patience: Ignore coins during wobble; stabilize first.
+### 操作ガイド
 
-### Controls Guide
+- クリック/タップしてブロックをドロップします。
+- タワーにブロックを積み重ねます。
+- できるだけ高く構築します。
 
-- Tap/Click to drop floors; pause/replay via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My tower shrinks fast.
-  
-[JA TRANSLATION NEEDED]   A: You’re releasing early/late inconsistently; use a fixed visual cue.
-
-- Q: Any way to recover?
-  
-[JA TRANSLATION NEEDED]   A: Yes — refocus on perfect centers for a few floors to rebuild width.
-
-- Q: Is speed important?
-  
-
-
-
-
-
-- Q: My tower shrinks fast.
-### よくある質問（FAQ）
-- Tap/Click to drop floors; pause/replay via UI.
-### コントロールガイド
-- Patience: Ignore coins during wobble; stabilize first.
-[JA TRANSLATION NEEDED]   A: Consistency beats speed; height follows from clean centers.
-
-
-
-
-
-
-A: Consistency beats speed; height follows from clean centers.
-- Q: Is speed important?
-A: Yes — refocus on perfect centers for a few floors to rebuild width.
-- Q: Any way to recover?
-
-
-A: Consistency beats speed; height follows from clean centers.
+- **Q: どれくらい高く構築できますか？**  
+  A: 理論的には無限ですが、徐々に難しくなります。
+- **Q: 完璧な配置が重要ですか？**  
+  A: はい、オフセンターブロックはタワーを不安定にします。
+- **Q: パワーアップはありますか？**  
+  A: 一部のバージョンには特別なブロックがあります。

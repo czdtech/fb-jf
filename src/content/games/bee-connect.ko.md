@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: bee-connect
-title: '[KO] Bee Connect'
+title: 'Bee Connect 비 커넥트'
 description: >-
-  [KO] In Bee Connect, you need to organize the numbers in the beehive into
-  adjacent groups of four to match each other.
+  육각 벌집 판 위에서 숫자 타일을 움직여 같은 숫자 네 개 이상을 이어 합치는
+  퍼즐 게임입니다. 한 수 한 수를 아껴 두며 높은 숫자를 만들어 보세요.
 iframeSrc: >-
   https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
 thumbnail: /new-images/bee-connect.jpg
@@ -15,44 +15,64 @@ score: 4.3/5  (1837 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+*Bee Connect*는 육각형 벌집 모양의 보드에서 숫자 타일을 합쳐 더 큰 숫자를
+만드는 전략 퍼즐 게임입니다. 목표는 숫자 타일을 효율적으로 합치며 가능한 한
+오래 버티고, 가장 높은 점수와 최대 숫자 타일을 만드는 것입니다.
 
+이 게임의 핵심은 같은 숫자 타일을 **4개 이상 인접하게 연결**해 하나의 더 큰
+숫자 타일로 합치는 것입니다. 예를 들어 숫자 2가 네 개 이어져 있으면, 한 번에
+더 높은 값의 단일 타일로 합쳐집니다.
 
+플레이어는 한 번에 한 개의 타일을 인접한 빈 칸으로 옮길 수 있습니다.
+하지만 **합치기에 실패하는 이동을 하면, 화면 상단 큐에 보이는 새로운 숫자
+타일들이 보드에 추가로 떨어져** 공간을 차지하게 됩니다. 주변이 모두 막힌
+타일은 움직일 수 없으며, 보드가 가득 차 더 이상 둘 곳이 없게 되면 게임이
+끝납니다.
 
-### **Game Introduction**
+### 플레이 전략 & 팁
 
-*Bee Connect* is a challenging and strategic number-merging puzzle game set on a hexagonal beehive grid. The objective is to achieve the highest score possible by strategically combining numbered tiles to create tiles with higher values.
+1.  **항상 합치기를 목표로 이동하기:** 아무 의미 없이 위치만 옮기는 이동은
+    상단 큐의 숫자를 보드에 채워 넣어 공간을 줄입니다. 가능한 한 "이동 = 즉시
+    합체"가 되도록 수를 아껴 써야 합니다.
+2.  **숫자를 모으고 흩어놓지 않기:** 같은 숫자 타일은 서로 가까이에 두어,
+    세 개까지 모아 둔 뒤 네 번째를 붙여 합칠 수 있도록 준비하세요. 높은
+    숫자 타일을 보드 반대편에 따로 떨어뜨려 두면 활용하기 어려워집니다.
+3.  **미리 몇 수 앞까지 생각하기:** 화면 상단 큐에 표시된 다음 등장 숫자를
+    보고, 앞으로 들어올 타일을 어디에 둘지 미리 계획하세요. 예를 들어 1이
+    두 개 연속으로 보인다면, 기존 1 타일 근처에 빈 칸을 미리 마련해 두는
+    식입니다.
+4.  **육각형 구조 활용하기:** 정사각형 그리드보다 최대 여섯 방향으로 인접할
+    수 있으므로, 직선뿐 아니라 다양한 모양으로 네 개 이상을 연결할 수
+    있습니다. 이 점을 활용해 더 유연한 그룹을 설계하세요.
+5.  **중앙을 살리고 가장자리에서 합치기:** 가능한 한 합치기는 바깥쪽에서
+    진행하고, 중앙은 여유 공간으로 남겨 두면 타일이 갇히는 상황을 늦출 수
+    있습니다.
+6.  **파워업(번개 등)은 위기 때 사용:** 특정 타일을 지우는 등의 강력한
+    파워업은 막판에 움직일 수 있는 수가 거의 없을 때, 혹은 중요한 합치기를
+    막고 있는 타일을 제거해야 할 때까지 아껴 두는 것이 좋습니다.
 
-Unlike classic 2048-style games, the core mechanic of *Bee Connect* requires players to connect a group of **four or more adjacent, identical numbers** to merge them into a single tile of a higher value. For example, grouping four '2' tiles together will merge them into one '8' tile.
+### 조작 방법
 
-Players move tiles one by one into adjacent empty cells. However, there's a catch: **if a move does not result in a merge, new numbers from the queue at the top of the screen will be added to the board**, filling up valuable space. Tiles that are completely surrounded by other tiles cannot be moved. The game ends when the board is full and no more moves can be made.
+게임은 드래그 앤 드롭 혹은 간단한 클릭 기반 조작으로 진행됩니다.
 
-### **Gameplay Strategy & Tips**
+*   **타일 이동:** 숫자 타일을 클릭/탭해 선택한 뒤 인접한 빈 벌집 칸으로 끌어다 놓거나, 일부 버전에서는 출발 칸과 도착 칸을 순서대로 클릭해 이동합니다.
 
-1.  **[KO]** **Always Plan for a Merge**: This is the golden rule. Every move you make should ideally result in a merge. Moving a tile just to reposition it is costly, as it will add more random numbers to the board and reduce your available space.
-2.  **[KO]** **Group, Don't Scatter**: Actively try to keep identical numbers close to each other. Your goal is to create clusters of three, setting them up for a fourth tile to complete the merge. Avoid leaving a single '8' tile isolated on the far side of the board from your other '8's.
-3.  **[KO]** **Think Several Moves Ahead**: Look at the queue of upcoming numbers at the top. This information is crucial. If you see two '1's are coming, you can prepare a space for them next to your existing '1's to set up an easy merge.
-4.  **[KO]** **Utilize the Hexagonal Grid**: The hexagonal grid offers more adjacent spaces (up to six) than a square grid. Use this to your advantage to create more complex and flexible groupings. You can often connect four tiles in non-linear shapes.
-5.  **[KO]** **Keep the Center Clear**: Try to push merges towards the edges of the board. Keeping the central area open provides more flexibility for moving and arranging tiles, preventing your key pieces from getting trapped early.
-6.  **[KO]** **Save Your Power-ups**: The lightning bolt icon is a powerful tool, likely for clearing a single tile or another helpful action. Don't use it on a whim. Save it for critical moments when you need to clear a specific tile to prevent the board from locking up or to enable a game-saving merge.
+### 자주 묻는 질문 (FAQ)
 
-### **Controls Guide**
+**1. 왜 갑자기 새 숫자가 보드에 생기나요?**  
+합치기에 실패한 이동을 했을 때, 상단 큐에 있던 숫자들이 보드의 빈 칸에
+자동으로 채워지는 패널티입니다.
 
-The game is designed for simple drag-and-drop or click-based gameplay.
+**2. 어떤 타일은 왜 움직이지 않나요?**  
+해당 타일을 둘 수 있는 인접 빈 칸이 하나도 없으면, 그 타일은 "갇힌" 상태가
+되어 이동할 수 없습니다.
 
-*   **[KO]** **Move a Tile**: **Click and drag** a numbered tile to an adjacent empty honeycomb cell. Alternatively, some versions may use a **click-to-select, click-to-place** system.
+**3. 숫자를 몇 개 모아야 합쳐지나요?**  
+최소 **4개 이상** 인접한 동일 숫자가 모여야 하나의 더 큰 숫자 타일로
+합쳐집니다. 세 개만 붙어 있어서는 합쳐지지 않습니다.
 
-### **Frequently Asked Questions (FAQ)**
-
-**1. Why did new numbers suddenly appear on the board?**
-This is the game's core penalty mechanic. It happens whenever you move a tile, and that move does not immediately create a group of four or more matching tiles.
-
-**2. Why can't I move a specific tile?**
-The tile is "trapped." A tile can only be moved if there is at least one empty, adjacent honeycomb cell to move it into. If it is completely surrounded by other tiles, it is stuck.
-
-**3. How many tiles do I need to make a match?**
-You need to create an adjacent group of **at least four** identical tiles. Three tiles next to each other will not merge.
-
-**4. What is the goal of the game?**
-The primary goal is to survive for as long as possible and achieve the highest score. A secondary goal for experts is to create the highest possible number tile (e.g., 1024, 2048, etc.) by repeatedly merging.
-
+**4. 최종 목표는 무엇인가요?**  
+보드가 가득 차 더 이상 움직일 수 없게 되기 전까지 살아남으며, 가능한 한 높은
+점수와 최대 숫자 타일(예: 1024, 2048 이상)을 만드는 것이 목표입니다.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: island-of-treasures
-title: '[ES] Island Of Treasures'
+title: Island Of Treasures
 description: >-
-  [ES] Embark on a thrilling pirate adventure in this 3D endless runner! Collect
-  gleaming jewels, dodge deadly traps, and outsmart rival pirates to become the
-  richest buccaneer on the forsaken island.
+  Embarca en una emocionante aventura pirata en este endless runner 3D.
+  Recolecta joyas relucientes, esquiva trampas mortales y supera a piratas
+  rivales para convertirte en el bucanero más rico de la isla maldita.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/island-of-treasures.png
 tags:
@@ -18,32 +18,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Island Of Treasures es un endless runner 3D cargado de acción que te lanza de
+lleno a una aventura pirata. Controlas a un intrépido bucanero que corre sin
+parar por una isla dinámica y llena de peligros. Tu misión es recoger el mayor
+botín posible, esquivar trampas letales y dejar en ridículo a los piratas
+rivales que también buscan el tesoro. El juego pone a prueba tus reflejos y
+agilidad mientras intentas batir tu mejor marca y convertirte en la leyenda de
+la isla maldita.
 
-Island Of Treasures is an action-packed 3D endless runner game that plunges you into a thrilling pirate adventure. You play as a daring buccaneer, constantly running through a dynamic and treacherous island environment. Your mission is to collect as much gleaming treasure as possible, dodge deadly traps, and outsmart rival pirates who are also after the riches. The game tests your reflexes and agility as you strive to achieve the highest score and become the legendary pirate of the forsaken island.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Recógelo todo:** tu objetivo principal es recolectar monedas, gemas y
+    otros tesoros repartidos por el camino. Aumentan tu puntuación y suelen
+    servir para desbloquear mejoras o nuevos personajes.
+2.  **Domina los movimientos:** tendrás que reaccionar rápido ante los
+    obstáculos. Cambia de carril hacia la izquierda/derecha, salta para superar
+    huecos y obstáculos bajos y deslízate para pasar bajo trampas altas.
+    Practica hasta que los gestos salgan casi de forma automática.
+3.  **Aprovecha los potenciadores:** mantén los ojos abiertos para recoger
+    power‑ups como acelerones, escudos o imanes. Te dan ventajas temporales muy
+    útiles para sobrevivir más tiempo y recoger más botín. Úsalos con cabeza,
+    sobre todo en zonas complicadas.
+4.  **Evita los choques:** chocar contra un obstáculo o un pirata rival pone fin
+    a la partida. Si estás en una situación límite, prioriza esquivar aunque
+    pierdas alguna moneda.
 
-1.  **[ES]** **Collect Everything:** Your primary goal is to collect coins, jewels, and other treasures scattered along your path. These contribute to your score and can be used to unlock upgrades or new characters.
-2.  **[ES]** **Master the Moves:** You'll need to quickly react to obstacles. Swipe left/right to change lanes, swipe up to jump over gaps and low obstacles, and swipe down to slide under high obstacles. Practice these moves to make them second nature.
-3.  **[ES]** **Utilize Power-ups:** Keep an eye out for power-ups like speed boosts, shields, or magnets. These temporary advantages can help you survive longer and collect more treasure. Use them strategically, especially in challenging sections.
-4.  **[ES]** **Avoid Collisions:** Hitting any obstacle or rival pirate will end your run. Always prioritize dodging over collecting if a collision is imminent.
+### Guía de controles
 
-### Controls Guide
+*   **Moverte izquierda/derecha:** usa las teclas **A/D** o las **flechas
+    izquierda/derecha** para cambiar de carril.
+*   **Saltar:** pulsa la **barra espaciadora** o la **flecha arriba**.
+*   **Deslizarte:** pulsa la tecla **S** o la **flecha abajo** para deslizarte
+    bajo obstáculos.
 
-*   **[ES]** **Move Left/Right:** Use the **A/D keys** or **Left/Right Arrow keys** to change lanes.
-*   **[ES]** **Jump:** Press the **Spacebar** or **Up Arrow key** to jump.
-*   **[ES]** **Slide:** Press the **S key** or **Down Arrow key** to slide under obstacles.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es el objetivo principal del juego?**
+    *   **R:** Correr lo más lejos posible y reunir la mayor cantidad de tesoro
+        para conseguir la máxima puntuación.
 
-*   **[ES]** **Q: What is the main objective of the game?**
-    *   **[ES]** **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.
+*   **P: ¿Cómo ataco a los piratas rivales?**
+    *   **R:** En la mayoría de endless runners el combate directo no es el
+        foco: normalmente los rivales se tratan como obstáculos que debes
+        esquivar. Algunas versiones pueden incluir un potenciador o acción para
+        aturdirlos de forma temporal.
 
-*   **[ES]** **Q: How do I attack rival pirates?**
-    *   **[ES]** **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
-
-*   **[ES]** **Q: What happens if I fall into the water or hit an obstacle?**
-    *   **[ES]** **A:** Your run ends immediately, and you will have to start over from the beginning.
-
+*   **P: ¿Qué pasa si caigo al agua o golpeo un obstáculo?**
+    *   **R:** La carrera termina al instante y tendrás que empezar de nuevo
+        desde el principio.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: g-switch-2
-title: '[DE] G-Switch 2'
+title: "G-Switch 2"
 description: >-
-  [DE] Gravity‑flip runner sequel: race solo or in local multiplayer, flipping
-  gravity to survive traps at rising speed.
+  G-Switch 2 ist der Nachfolger des Gravity-Flip-Runners: Laufe alleine oder im
+  lokalen Multiplayer, kippe die Schwerkraft im richtigen Moment und
+  überlebe Fallen bei steigender Geschwindigkeit.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/g-switch-2.jpg
@@ -15,30 +16,41 @@ score: 3.6/5  (331 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+G-Switch 2 verfeinert das Gravitations-Flip-Gameplay des ersten Teils. Neue
+Hindernisse und schnellere Passagen fordern präzises Timing; zusätzlich gibt es
+lokale Mehrspieler-Rennen.
 
+### So spielst du
 
+- Kippe die Schwerkraft kurz vor Kanten und Fallen, um saubere Übergänge zwischen
+  Boden und Decke zu schaffen.
+- Lerne die Timings von Sägen und beweglichen Plattformen – einige Passagen
+  verlangen schnelle Doppel-Flips.
+- Im Mehrspieler-Modus treten alle gleichzeitig auf demselben Kurs an.
 
-### Overview
-Refined gravity‑flip running with new obstacles and multiplayer races.
+### Steuerung
 
-### How to Play
-- Time flips before edges and hazards.
-- Learn trap timings; some require double‑flips in quick succession.
-- Challenge friends in local races if supported.
+- Eine Taste/Ein Tap pro Spieler, um die Schwerkraft zu wechseln; im Versus
+  hat jeder Spieler seine eigene Taste.
 
-### Controls
-- Single key/tap to flip; unique keys per player in versus.
+### Tipps
 
-### Tips
-- Keep rhythm steady; two quick flips can correct overshoots.
-- Stay low on long straights; ceilings often hide traps.
+- Halte ein gleichmäßiges Flip-Tempo; zwei schnelle Flips hintereinander können
+  Fehleinschätzungen korrigieren.
+- Auf langen Geraden ist es oft sicherer, unten zu bleiben – an Decken warten
+  nicht selten zusätzliche Fallen.
 
 ### FAQ
-- Q: How does multiplayer work in this game?
-A: Each player uses a separate key to flip in shared‑screen races.
-- Q: Are there checkpoints in levels?
-A: Level mode may add checkpoints; endless mode does not.
-- Q: Can I remap keys?
-A: Many hosts allow key selection before starting.
 
+- **F: Wie funktioniert der Multiplayer?**  
+  **A:** Jede Person bekommt eine eigene Taste zum Flippen; alle Figuren laufen
+  gleichzeitig auf demselben Screen um die Wette.
+
+- **F: Gibt es Checkpoints?**  
+  **A:** Im Levelmodus können Checkpoints vorhanden sein, im Endlosmodus
+  normalerweise nicht.
+
+- **F: Kann ich die Tastenbelegung ändern?**  
+  **A:** Viele Hosts erlauben es, vor Start des Spiels eigene Tasten zu wählen.

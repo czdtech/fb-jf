@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: footchinko
-title: '[KO] Footchinko'
-description: >-
-  [KO] Experience the unique blend of football and pachinko in Footchinko! Drop
-  the ball, hit the pegs, and aim for high scores and exciting bonuses.
+title: Footchinko 풋친코
+description: '축구와 파칭코를 섞은 독특한 아케이드 게임입니다. 공을 떨어뜨려 핀과 장애물을 통과시키고, 골대를 향해 궤적을 설계해 보세요.'
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/footchinko.jpg
 tags:
@@ -16,32 +14,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Footchinko는 축구의 슈팅 감각과 파칭코/핀볼 메커니즘을 결합한 아케이드 게임입니다.
+필드에는 핀과 범퍼, 각종 장애물이 가득하고, 플레이어는 공을 어느 위치에서
+떨어뜨릴지 정해 골대를 향한 궤적을 설계해야 합니다. 각 레벨은 서로 다른
+레이아웃과 난이도를 가지고 있으며, 파워업과 보너스를 모아 더 높은 점수를
+노릴 수 있습니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Footchinko is an innovative and highly engaging arcade game that creatively merges the excitement of football (soccer) with the classic mechanics of pachinko and pinball. Your objective is to guide a football through a field filled with pegs, bumpers, and other obstacles, aiming to score goals. Each level presents unique challenges and layouts, requiring precise aiming and strategic thinking to navigate the ball past defenders and into the net. Collect power-ups and bonuses to enhance your gameplay and achieve high scores.
+1. **조준이 핵심**  
+   공을 떨어뜨리기 전, 여러 핀과 파워업을 어떤 경로로 지나가게 할지 미리
+   상상해 보세요. 한 번에 여러 핀을 맞춰 콤보를 만드는 루트를 찾는 것이
+   중요합니다.  
+2. **장애물도 도구로 활용하기**  
+   핀과 범퍼는 단순한 방해물이 아니라, 공의 방향을 바꿔 주는 도구이기도
+   합니다. 직접 닿기 어려운 구역은 튕겨서 우회해 보세요.  
+3. **길 막는 장애물 정리하기**  
+   여러 번 맞추면 사라지는 장애물이 있다면, 골대로 가는 핵심 루트를 막고
+   있다면 우선적으로 제거하는 것이 좋습니다.  
+4. **파워업 적극 활용**  
+   추가 공, 강화 슛, 일정 시간 무적 등 각종 파워업을 잘 활용하면 한 번의
+   플레이에서 훨씬 많은 점수를 얻을 수 있습니다.  
+5. **리바운드 예측하기**  
+   핀볼과 마찬가지로, 공이 어디에 어떻게 맞으면 어떤 방향으로 튈지 감을
+   익히는 것이 중요합니다. 여러 번 플레이하며 물리 감각을 체득해 보세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Aiming is Key:** Before each shot, carefully consider the trajectory of the ball. Look for paths that will allow the ball to hit multiple pegs or power-ups, and ultimately lead to the goal.
-2.  **[KO]** **Utilize Obstacles:** The pegs and bumpers aren't just hindrances; they can be used to your advantage. Bounce the ball off them to change its direction and reach otherwise inaccessible areas.
-3.  **[KO]** **Clear the Path:** Some obstacles can be destroyed after being hit multiple times. Prioritize clearing these if they are blocking a direct path to the goal or a valuable power-up.
-4.  **[KO]** **Collect Power-ups:** Keep an eye out for power-ups that can give you an edge, such as extra balls, stronger shots, or temporary invincibility. Use them strategically to maximize your scoring potential.
-5.  **[KO]** **Anticipate Rebounds:** Just like in pinball, understanding how the ball will rebound off different surfaces is crucial. Practice will help you develop an intuition for the physics of the game.
+* **공 발사**: 화면을 클릭/탭해 공을 떨어뜨릴 위치를 정합니다. 클릭 위치에
+  따라 초기 방향과 힘이 달라질 수 있습니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Launch Ball:** Click or tap on the screen to launch the ball. The position of your click often determines the initial direction and power of your shot.
+- **Q: 게임의 기본 목표는 무엇인가요?**  
+  **A:** 파칭코 스타일의 핀과 장애물 사이를 통과해 최대한 많은 골을 넣고,
+  높은 점수를 얻는 것입니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 레벨이나 대회 모드가 있나요?**  
+  **A:** 여러 레벨과 챔피언십 형식이 준비되어 있으며, 진행할수록 필드
+  구성과 난이도가 다양해집니다.  
 
-*   **[KO]** **Q: What is the main objective of Footchinko?**
-    *   **[KO]** **A:** The main objective is to score goals by getting the football into the opponent's net, navigating through a field filled with pachinko-style obstacles.
+- **Q: 점수를 많이 얻으려면 어떻게 해야 하나요?**  
 
-*   **[KO]** **Q: Are there different levels or championships?**
-    *   **[KO]** **A:** Yes, Footchinko typically features multiple levels and championships, each with increasing difficulty and unique field layouts.
+    - **A:** Score more goals, collect power-ups, and try to clear obstacles efficiently. Some games might also reward you for hitting specific targets or making combo shots.
 
-*   **[KO]** **Q: How do I get a higher score?**
-    *   **[KO]** **A:** Score more goals, collect power-ups, and try to clear obstacles efficiently. Some games might also reward you for hitting specific targets or making combo shots.
+- **Q: How do I get a higher score?**
+
+    - **A:** Yes, Footchinko typically features multiple levels and championships, each with increasing difficulty and unique field layouts.
+  **A:** 골을 많이 넣는 것은 기본이고, 파워업을 잘 활용해 콤보를 만들고
+  장애물을 효율적으로 처리하는 것이 중요합니다. 일부 모드에서는 특정
+  타깃을 맞히거나 연속 샷을 성공시키면 추가 점수를 줍니다.  
 

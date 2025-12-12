@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: bricks-breaker-crush
-title: '[ES] Bricks Breaker Crush'
+title: "Bricks Breaker Crush"
 description: >-
-  [ES] Bricks Breaker Crush showers bricks to shatter — aim volleys, stack
-  multipliers, and carve optimal angles through dense fields.
+  Bricks Breaker Crush te lanza lluvias de ladrillos que debes destrozar: apunta
+  tus ráfagas, acumula multiplicadores y traza ángulos óptimos a través de
+  campos densos.
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/bricks-breaker-crush.png
 tags:
@@ -16,37 +17,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bricks Breaker Crush dispara ráfagas de bolas que rebotan entre ladrillos
+numerados. Tu puntería define la trayectoria inicial; cada impacto reduce en uno
+el valor del ladrillo. Dominar el juego consiste en diseñar recorridos largos de
+rebotes, maximizar el número de contactos por ráfaga y evitar que el muro
+numérico llegue a la parte inferior.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Bricks Breaker Crush fires barrages of balls that ricochet through numbered bricks. Your aim sets the initial trajectory; bricks count down as they’re hit. Mastery is about shaping long ricochet paths, multiplying contacts per volley, and preventing walls from reaching the bottom.
+1.  **Ángulos poco pronunciados:** Empieza con ángulos moderados para fomentar
+    rebotes de lado a lado y sumar más impactos por tiro.
+2.  **Prioriza los multiplicadores:** Golpea pronto los iconos de +bola para
+    aumentar el tamaño de tus ráfagas lo antes posible.
+3.  **Corta columnas peligrosas:** Elimina primero las columnas con números más
+    altos que estén cerca de la parte baja.
+4.  **Crea "trampas" de rebote:** Construye carriles en forma de V para que las
+    bolas se queden dando vueltas cerca de la parte superior y pasen más tiempo
+    pegando a los ladrillos clave.
+5.  **Limpiezas de emergencia:** Si una fila está a punto de caer, apunta tiros
+    directos para neutralizarla antes de que baje.
+6.  **Gestión de potenciadores:** Guarda los limpia‑líneas para momentos críticos y,
+    si puedes, encadénalos con ráfagas grandes para maximizar su efecto.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Shallow angles: Start at modest angles to maximize side‑to‑side hits.
-2.  **[ES]** Target multipliers: Hit +ball pickups early to scale your volleys.
-3.  **[ES]** Cut columns: Remove high‑value columns that threaten the bottom.
-4.  **[ES]** Set traps: Build V‑shaped lanes so balls loop near the top for extended time on target.
-5.  **[ES]** Emergency clears: When a row is critical, aim direct shots to neutralize it before it drops.
-6.  **[ES]** Power‑ups: Save line clears for emergencies; chain with big volleys when possible.
+- Arrastra para apuntar y suelta para disparar la ráfaga.
+- Los potenciadores se activan al recogerlos o tocarlos, según la versión.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to aim; release to fire the volley.
-- Power‑ups trigger on catch or tap depending on the build.
+- **P: Mis disparos parecen aleatorios, ¿cómo gano control?**
 
-### Frequently Asked Questions (FAQ)
+  R: Usa ángulos más suaves y diseña carriles que mantengan las bolas rebotando
+  cerca del techo. Evita los tiros muy verticales, que generan carambolas
+  caóticas.
 
-- Q: My shots feel too random—how do I get control?
+- **P: ¿Qué es más importante, conseguir +bola o limpiar filas?**
 
-A: Use modest angles and shape lanes that keep balls looping near the ceiling; avoid steep, chaotic caroms.
+  R: Al principio, los +bola son oro y hacen que cada ráfaga sea más potente. Si
+  estás en peligro, prioriza limpiar las columnas críticas aunque sacrifiques
+  alguna bonificación.
 
-- Q: What should I prioritize: +ball or clears?
+- **P: El muro baja sin parar, ¿algún consejo?**
 
-A: Early +ball pickups snowball; in danger, clear critical columns first.
-
-- Q: The wall keeps dropping—any fix?
-
-A: Stop building traps and fire surgical shots at the highest numbers near the bottom edge.
-
+  R: Deja de construir trampas de rebote y céntrate en disparos quirúrgicos
+  contra los números más altos que estén cerca del borde inferior.

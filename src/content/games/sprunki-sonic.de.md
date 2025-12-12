@@ -1,48 +1,48 @@
 ---
 locale: de
 urlstr: sprunki-sonic
-title: "[DE] Sprunki Sonic \U0001F525 Play Sprunki Sonic Online"
+title: "Sprunki Sonic \U0001F525"
 description: >-
-  [DE] Whether you are a rhythm game lover or a loyal fan of the Sonic series,
-  you can find your fun in Sprunki Sonic. This game is easy to learn but
-  difficult to master, making it perfect for players of all skill levels.
+  Sprunki Sonic ist ein Incredibox-Mod, der Sonic-Charaktere mit Musikmixing
+  verbindet: Du baust Tracks mit Sonic, Tails & Co., sammelst Ringe im Rhythmus
+  und gestaltest eigene Level.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
 thumbnail: /sprunki-sonic.png
 tags:
   - sprunki sonic
   - sprunki sonic online
 score: 4.0/5  (829 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Einführung in Sprunki Sonic
 
+Was wäre, wenn Sonic nicht nur rennt, sondern auch Musik macht? Sprunki Sonic beantwortet genau diese Frage: Der Mod kombiniert bekannte Figuren aus dem Sonic-Universum mit dem Sprunki-/Incredibox-Prinzip des Musikmixens.
 
-### Introducing to Sprunki Sonic
+### Was ist Sprunki Sonic?
 
-Ever thought about Sonic playing music? Sprunki Sonic gives you the answer! This Incredibox Mod, created by LittleJimmyGaming123 and Kirby-PRO-189, perfectly combines the classic characters of the Sonic universe with a unique music creation experience, allowing you to release your musical talents while enjoying the speed!
+Sprunki Sonic ist ein Rhythmusspiel, in dem du mit Sonic-Charakteren Musik baust. Du ziehst Figuren wie Sonic, Tails, Amy, Metal Sonic oder Knuckles auf Slots, jede mit eigenen Loops und Effekten, und formst daraus deinen individuellen Sonic-Track.
 
-### What Exactly Is Sprunki Sonic?
+### Wie spielst du Sprunki Sonic?
 
-Simply put, Sprunki Sonic is a rhythm game that lets you create music with Sonic characters! You can drag and drop your favorite characters and sound effects to the appropriate positions to create your own unique melodies. Tails, Amy, Metal Sonic, Knuckles... these star characters from the Sonic series will have unique styles and sound effects, allowing you to feel full of Sonic passion while enjoying the fun of creation!
-
-### How Do You Actually Play This Game?
 
 Sprunki Sonic's gameplay is very simple, but it's full of fun:
+- **Sounds ziehen:** Zieh Figuren und Sound-Icons auf die Bühne, um ihre Loops zu aktivieren.
+- **Ringe sammeln & Hindernissen ausweichen (je nach Version):** In Level-Varianten tappst du im Takt, sammelst Ringe und weichst Hindernissen aus – immer im Rhythmus.
+- **Items freischalten:** Über spezielle Noten oder Triggerpunkte kannst du Items einsammeln, die dir Vorteile bringen oder neue Elemente aktivieren.
+- **Eigene Level bauen:** In Versionen mit Editor erstellst du eigene Sonic-Musiklevel und teilst sie mit der Community.
 
-- **Drag and Drop Sound Effects to Weave Melodies:** Drag and drop your favorite characters and sound effects to the appropriate positions to create unique melodies.
-- **Collect Rings and Avoid Obstacles:** In Sonic's levels, collect rings, avoid obstacles, and tap the screen to create music in time with the rhythm.
-- **Unlock Items to Help You Pass Levels:** Collect various items by tapping special notes in the music to help Sonic collect more rings and avoid obstacles.
-- **Create Your Own Levels and Share Your Creativity:** The game also provides a level editor, allowing you to create your own levels and share them with other players in the community.
+### Highlights von Sprunki Sonic
+
+- **Bekannte Sonic-Crew:** Sonic, Tails, Amy, Metal Sonic, Knuckles und mehr – alle mit eigenen Klangfarben.
+- **Musikbaukasten + Speed-Feeling:** Du bekommst das typische Sonic-Tempo kombiniert mit frei gestaltbaren Tracks.
+- **Reaktions- und Rhythmus-Challenges:** Schnelle Abschnitte testen dein Timing und dein Gefühl für den Beat.
+- **Level-Editor:** Baue eigene Musik-Levels und teile sie mit anderen.
 
 
-### What Are the Highlights of Sprunki Sonic?
 
-- **Classic Characters from the Sonic Universe:** Tails, Amy, Metal Sonic, Knuckles, and more, your favorite characters are all here!
-- **Unique Music Creation Experience:** Easy to get started, but able to create melodies with endless possibilities.
-- **Exciting Rhythm Challenges:** Test your reaction speed and sense of rhythm in fast-paced levels.
-- **Rich Item System:** Help you pass levels easily and get higher scores.
 - **Free Level Editor:** Let you unleash your creativity and create unique Sonic music levels.
-
-
 ### Why Should You Play Sprunki Sonic?
 
-Whether you are a rhythm game lover or a loyal fan of the Sonic series, you can find your fun in Sprunki Sonic. This game is easy to learn but difficult to master, making it perfect for players of all skill levels. More importantly, Sprunki Sonic can also stimulate your creativity and allow you to express yourself through music. If you are looking for a fun, challenging, and creative rhythm game, then Sprunki Sonic is definitely your best choice!
+- **Free Level Editor:** Let you unleash your creativity and create unique Sonic music levels.
+Ob du eher Sonic-Fan oder Rhythmusspiel-Fan bist – Sprunki Sonic bietet dir einen kreativen Spielplatz, auf dem Geschwindigkeit und Sound Hand in Hand gehen.

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: truck-trials
-title: '[KO] Truck Trials'
+title: "Truck Trials 트럭 트라이얼즈"
 description: >-
-  [KO] Test your driving skills in Truck Trials, an off-road driving game where
-  you navigate challenging courses with powerful trucks.
+  거친 오프로드 코스를 강력한 트럭으로 돌파하는 주행 게임입니다. 속도보다는 균형과 가속을 섬세하게
+  조절해 전복이나 짐 손실 없이 결승선까지 도착하는 것이 목표입니다.
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
 thumbnail: /new-images/truck-trials.png
 tags:
@@ -16,27 +16,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Truck Trials는 속도 경쟁이 아니라 섬세한 조작을 요구하는 오프로드 트럭 주행 게임입니다. 플레이어는
+각종 바위더미, 경사로, 구덩이, 나무 다리 등으로 구성된 코스를 통과해야 하며, 트럭이 전복되거나 짐을
+모두 잃어버리면 실패하게 됩니다.
 
-### Detailed Game Introduction
+포인트는 페달을 끝까지 밟는 것이 아니라, 노면과 무게 중심을 느끼면서 천천히 코스를 읽어 가는 데
+있습니다. 각 스테이지의 지형과 장애물 패턴을 익히고 나면, 조금씩 속도를 올리며 더 좋은 기록에도
+도전할 수 있습니다.
 
-Truck Trials is an off-road driving game where players navigate challenging courses with trucks, focusing on skill and precision rather than speed. The goal is to reach the finish line without crashing or losing your cargo.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **조급해하지 말 것**: 이 게임은 속도보다는 안정성이 중요합니다. 급경사나 장애물이 많은 구간에서는
+    가속을 최소화하고, 서서히 진입해 차체가 어떻게 반응하는지 보면서 지나가세요.
+2.  **무게 중심과 균형 의식하기**: 언덕을 오르내릴 때 트럭의 앞뒤가 어떻게 들리는지 잘 관찰하면,
+    언제 기울기를 조정해야 하는지 감이 잡힙니다. 무게가 한쪽으로 쏠리면 쉽게 뒤집히므로, 가속과
+    기울기 조절을 함께 사용하는 것이 중요합니다.
+3.  **저단 기어/디퍼런셜 락 활용 (지원되는 경우)**: 일부 버전에서는 저단 기어나 디퍼런셜 락 기능을
+    제공해, 미끄러운 지형이나 급경사를 안정적으로 통과할 수 있게 해 줍니다. 속도는 느려지지만
+    접지력과 제어력이 크게 올라갑니다.
+4.  **반복 플레이로 물리 감각 익히기**: 같은 코스를 여러 번 달려 보면, 어디에서 속도를 줄이고 어디에서
+    가속해도 되는지 자연스럽게 알게 됩니다. 각 트럭마다 무게와 서스펜션이 다르므로, 여러 차량을
+    번갈아 연습해 보는 것도 좋습니다.
 
-1.  **[KO]** **Patience is Key:** This game requires careful maneuvering rather than high speed. Take your time to navigate obstacles.
-2.  **[KO]** **Balance and Weight Distribution:** Pay attention to how your truck's weight shifts, especially on inclines or uneven terrain, to avoid tipping over.
-3.  **[KO]** **Utilize Gears/Differential Lock:** If available, use lower gears or the differential lock for better control and traction in tough spots.
-4.  **[KO]** **Practice:** Practice will help you learn the physics and handling of different trucks and terrains.
+### 조작 방법 안내
 
-### Controls Guide
+*   **가속/브레이크**: 방향키 위/아래 또는 화면의 가상 버튼으로 가속과 감속을 조절합니다.
+*   **조향**: 방향키 좌/우 또는 화면 버튼으로 트럭의 진행 방향을 미세하게 조정합니다.
 
-*   **[KO]** **Arrow Keys/On-screen buttons:** Use the arrow keys or on-screen buttons for acceleration, braking, and steering.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 트럭이 자꾸 옆으로 넘어집니다.**  
+    *   **A:** 장애물을 너무 빠르게 넘거나, 경사면에서 무게 중심을 맞추지 못한 경우입니다. 언덕과
+        점프 구간에 들어가기 전에 속도를 줄이고, 차체가 들릴 때는 반대 방향으로 살짝 기울여 균형을
+        맞춰 주세요.
 
-*   **[KO]** **Q: How do I avoid tipping over?**
-    *   **[KO]** **A:** Drive slowly and be mindful of your truck's balance, especially when going over large obstacles or on steep inclines.
-*   **[KO]** **Q: What is the differential lock for?**
-    *   **[KO]** **A:** The differential lock provides better traction on difficult terrains, helping you to get through muddy or slippery areas.
-
+*   **Q: 디퍼런셜 락은 언제 사용하는 게 좋나요?**  
+    *   **A:** 바퀴가 헛도는 진흙 길이나, 바위가 많은 구간처럼 접지력이 떨어지는 지형에서 사용하면
+        효과적입니다. 평지에서는 오히려 속도가 느려질 수 있으니 필요한 순간에만 켜 두는 것이 좋습니다.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tiletopia
-title: '[KO] Tiletopia'
+title: "Tiletopia 타일토피아"
 description: >-
-  [KO] Build a thriving city one tile at a time in Tiletopia! A relaxing
-  strategy puzzle where you place tiles to connect roads, build houses, and
-  complete challenges to create your own miniature world.
+  육각형 타일을 하나씩 배치해 작은 도시와 풍경을 만들어 가는 퍼즐 게임 Tiletopia입니다. 도로와
+  숲, 마을의 가장자리를 맞추고 퀘스트를 완료해 높은 점수를 노려 보세요.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/tiletopia.png
 tags:
@@ -18,33 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tiletopia는 육각형 타일을 하나씩 이어 붙이며, 아름답게 이어지는 풍경과 마을을 만들어 가는
+도시 건설형 퍼즐 게임입니다. 플레이어는 시작 타일 하나에서 출발해, 무작위로 주어지는 타일 더미에서
+다음 타일을 뽑아 인접한 칸에 배치합니다. 각 타일의 가장자리에는 숲, 들판, 마을, 도로, 철도 등
+서로 다른 지형이 그려져 있고, 이 가장자리를 맞춰 연결하는 것이 핵심 규칙입니다.
 
+게임에는 단순히 타일을 이어 붙이는 것뿐 아니라, "숲을 일정 크기 이상으로 만들기"나 "특정 규모의
+마을을 완성하기" 같은 작은 퀘스트들이 함께 등장합니다. 이 퀘스트를 효율적으로 달성하면서도
+전체 지형이 보기 좋게 이어지도록 타일을 배치하는 것이 높은 점수의 비결입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Tiletopia is a peaceful and creative city-building puzzle game where you create beautiful, ever-expanding landscapes by placing hexagonal tiles. You start with a single tile and draw from a stack of procedurally generated tiles. The goal is to place these tiles strategically to create a coherent and picturesque world, matching edges like forests, fields, and villages. The game often includes small quests or challenges to guide your creation and maximize your score.
+1.  **가장자리를 맞추는 것이 최우선**: 타일을 배치할 때는 항상 인접한 타일의 가장자리를 확인해,
+    숲은 숲끼리, 들판은 들판끼리, 마을은 마을끼리 이어지도록 놓는 것이 좋습니다. 가장자리가 완벽히
+    맞을수록 더 많은 점수를 얻을 수 있습니다.
+2.  **퀘스트를 적극적으로 챙기기**: 화면에 표시되는 퀘스트는 점수의 큰 비중을 차지합니다.
+    예를 들어 "집이 몇 채 이상인 마을 만들기"나 "폐쇄된 도로 루프 완성하기"와 같은 요구 조건을
+    보고, 해당 구조가 만들어질 수 있도록 미리 자리를 비워 두거나 타일을 모아 두세요.
+3.  **영역을 완전히 닫아 추가 보너스 얻기**: 들판이나 숲, 마을 같은 영역을 빈틈 없이 둘러싸
+    완전히 닫힌 형태로 만들면, 보너스 점수를 얻는 경우가 많습니다. 이미 어느 정도 규모가 모였다면
+    주변을 둘러싸며 마무리하는 선택지를 고려해 보세요.
+4.  **다음 타일들을 미리 보고 준비하기**: 보통 화면 하단에는 앞으로 나올 몇 개의 타일이 미리
+    표시됩니다. 이 정보를 활용해 "다음에 이런 모양이 오니, 이 위치를 비워 둬야겠다"와 같이
+    사전에 자리를 만들어 두면 훨씬 여유 있게 플레이할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Match the Edges:** The fundamental rule is to match the edges of the tiles you place. Connect a forest edge to another forest edge, a field to a field, and so on. Every correct match earns you points.
-2.  **[KO]** **Complete Quests:** Pay attention to the quests that appear. These might ask you to create a forest of a certain size, build a village with a specific number of houses, or create a closed loop with a road or railway. Completing these quests is key to a high score.
-3.  **[KO]** **Closing Off Areas:** When you completely enclose an area (for example, a field surrounded by roads and houses with no gaps), you often receive bonus points. Look for opportunities to close off these areas.
-4.  **[KO]** **Plan Your Placements:** You can see the next few tiles in your stack. Use this information to plan ahead. If you know a specific type of tile is coming up, you can prepare a perfect spot for it.
+*   **타일 배치**: 화면 아래의 더미에서 현재 선택된 타일을 클릭·드래그해, 이미 배치된 타일에
+    인접한 빈 칸에 놓습니다.
+*   **타일 회전**: 대부분의 버전에서는 더미에 있는 타일을 클릭하거나 특정 키를 눌러 회전시킨 뒤,
+    가장자리가 잘 맞는 방향으로 배치할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Place Tile:** Click and drag a tile from your stack and drop it onto a valid empty space adjacent to an existing tile.
-*   **[KO]** **Rotate Tile:** In most versions, you can click on the tile in the stack to rotate it before placing it on the board.
+*   **Q: 이 게임의 주 목표는 무엇인가요?**  
+    *   **A:** 더미에 있는 타일을 모두 사용하면서 가능한 한 높은 점수를 얻는 것입니다. 타일을
+        배치할 수 있는 칸이 더 이상 없거나, 더미가 비면 한 판이 종료됩니다.
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 점수를 많이 얻으려면 어떻게 해야 하나요?**  
+    *   **A:** 타일의 가장자리를 완벽하게 맞추고, 동시에 여러 퀘스트 조건을 만족시키는 배치를 노리는
+        것이 중요합니다. 특히 큰 숲이나 들판, 마을을 완전히 닫힌 형태로 만들어 마무리하면 추가 점수를
+        얻을 수 있습니다.
 
-*   **[KO]** **Q: What is the main objective?**
-    *   **[KO]** **A:** To get the highest score possible by placing tiles from your stack. The game ends when the stack is empty.
-
-*   **[KO]** **Q: How do I get more points?**
-    *   **[KO]** **A:** By making perfect edge matches, completing quests, and closing off large areas of a single type (like a big forest or field).
-
-*   **[KO]** **Q: What happens if I can't place a tile anywhere?**
-    *   **[KO]** **A:** This usually doesn't happen, as there will almost always be a valid spot. However, a poorly placed tile might prevent you from completing a quest, so think carefully before you place!
-
+*   **Q: 더 이상 놓을 곳이 없는 타일이 나오면 어떻게 되나요?**  
+    *   **A:** 일반적으로는 항상 어딘가에 놓을 수 있는 위치가 존재하도록 설계되어 있지만, 잘못 배치한
+        타일 때문에 퀘스트를 완료하지 못하는 상황은 생길 수 있습니다. 타일을 놓기 전에 몇 수 뒤까지
+        생각해 보고, 나중에 후회할 만한 모양은 피하는 것이 좋습니다.

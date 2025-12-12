@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: five-nights-at-freddy-3
-title: '[ES] Five Nights at Freddy''s 3 (FNAF 3)'
+title: "Five Nights at Freddy's 3 (FNAF 3)"
 description: >-
-  [ES] System‑management horror: lure Springtrap with audio, watch
-  cameras/vents, and reboot failing systems to survive each night.
+  Terror de gestión de sistemas: atrae a Springtrap con el audio, vigila
+  cámaras y conductos y reinicia los sistemas que fallen para sobrevivir cada
+  noche.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/five-nights-at-freddy-3.jpg
 tags:
@@ -15,30 +16,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Años después de los sucesos originales, ahora trabajas en una atracción de
+terror basada en la leyenda de Freddy. Tu enemigo principal es Springtrap,
+mientras que las versiones fantasma de otros animatrónicos se dedican a
+interferir con tus sistemas. Tendrás que gestionar cámaras, señuelos de audio
+y ventilación para salir con vida.
 
+### Cómo jugar
 
-### Overview
-Set in a horror attraction years later, you face Springtrap while phantoms disrupt your systems. Manage cameras, audio lures, and ventilation.
+- Usa el señuelo de audio para atraer a Springtrap lejos de tu oficina; no lo
+  fuerces cuando el sistema esté en enfriamiento.
+- Sella los conductos de ventilación que haya en su ruta para bloquear atajos
+  hacia ti.
+- Reinicia los sistemas (vídeo, audio, ventilación) cuando den error para
+  recuperar el control.
 
-### How to Play
-- Use the audio lure to draw Springtrap away; avoid overusing it on cooldown.
-- Seal vents along his path to block shortcuts.
-- Reboot systems (video, audio, ventilation) when errors occur to restore control.
+### Controles
 
-### Controls
-- Mouse/UI for cameras, audio, vent seals, and system reboots.
+- Ratón/interfaz para manejar cámaras, audio, sellado de conductos y reinicios
+  de sistema.
 
-### Tips
-- Keep Springtrap in rooms far from your office; lure step‑by‑step.
-- Phantoms are distractions—avoid staring at them; recover and re‑establish control quickly.
-- Prioritize ventilation errors; long blackouts invite failures.
+### Consejos
 
-### FAQ
-- Q: Why does the audio stop working during a lure?
-A: The audio system overheats or errors; reboot it from the maintenance panel.
-- Q: How do I prevent Springtrap from entering the office?
-A: Chain lures and pre‑emptively seal vents on his likely routes.
-- Q: Which system should I reboot first when multiple fail?
-A: Ventilation to stabilize view/effects, then video/audio as needed.
+- Mantén a Springtrap en salas alejadas de la oficina, atrayéndolo paso a paso
+  con el audio.
+- Los fantasmas son distracciones: evita mirarlos fijamente, recupérate rápido
+  de sus efectos y vuelve a estabilizar tus sistemas.
+- Prioriza los errores de ventilación; los apagones prolongados favorecen los
+  fallos y los ataques.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Por qué deja de funcionar el audio cuando intento atraerlo?**  
+  **R:** El sistema de audio se recalienta o se ha estropeado. Debes reiniciarlo
+  desde el panel de mantenimiento.
+
+- **P: ¿Cómo evito que Springtrap entre en la oficina?**  
+  **R:** Encadena señuelos de audio y sella por adelantado los conductos que
+  puedan servirle de atajo.
+
+- **P: Si fallan varios sistemas a la vez, ¿cuál reinicio primero?**  
+  **R:** Empieza por la ventilación para estabilizar la visión y los efectos,
+  luego recupera vídeo y audio según la situación.

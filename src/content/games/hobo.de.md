@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: hobo
-title: '[DE] Hobo'
+title: "Hobo"
 description: >-
-  [DE] Over‑the‑top beat ’em up: brawl through city stages with unlockable
-  combos, improvised weapons, and outrageous special moves.
+  Hobo ist ein überdrehtes Beat ’em up: Prügle dich durch Straßenlevel mit
+  freischaltbaren Kombos, improvisierten Waffen und völlig abgefahrenen
+  Spezialattacken.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/hobo.jpg
 tags:
@@ -15,30 +16,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Überblick
 
+Hobo ist ein seitlich scrollendes Beat ’em up, das für Slapstick-Gewalt und
+sehr derben Humor bekannt ist. Du wanderst durch dreckige Stadtlevel und legst
+Feinde mit Schlägen, Tritten, Griffen und freischaltbaren Komboketten flach.
+Umgebungswaffen, herumliegende Gegenstände und Level-Fallen sorgen für
+Abwechslung, während Bosskämpfe dein Timing und dein Crowd-Control fordern.
+Wer Lebenspunkte, Ausdauer und Gegner-Tells im Blick behält, räumt ganze Wellen
+weg, ohne überrannt zu werden.
 
+### So spielst du
 
-### Overview
-Hobo is a side‑scrolling beat ’em up known for slapstick violence and deliberately crude humor. You traverse urban stages, smashing enemies with punches, kicks, grapples, and unlockable combo strings. Environmental weapons, throwable objects, and stage hazards add variety, while boss encounters test crowd control and timing. Health and stamina management, plus learning enemy tells, are key to clearing waves without being overwhelmed.
+- Verknüpfe leichte und schwere Angriffe zu Kombos, die Gegner länger
+  festsetzen und mehr Schaden verursachen.
+- Nutze aufgesammelte Waffen oder Wurfobjekte, um Gruppen schon aus der
+  Distanz zu dezimieren.
+- Lerne Bossmuster: Weiche Eröffnungsangriffen aus und bestrafe sie in ihren
+  Erholungsfenstern.
 
-### How to Play
-- Chain light/heavy attacks into discovered combos to increase damage and stunlock.
-- Use pickups and thrown objects to thin groups from a distance.
-- Learn boss patterns—dodge opening attacks, punish recovery windows.
+### Steuerung
 
-### Controls
-- Arrows to move; attack/jump/grab keys vary by host; combo inputs shown in‑game.
+- Bewegung mit den **Pfeiltasten**.  
+- Angriffs-, Sprung- und Griff-Tasten variieren je nach Host – die
+  Komboeingaben werden meist im Spiel angezeigt.
 
-### Tips
-- Keep enemies on one side; avoid getting surrounded.
-- Grapple single targets to remove them quickly when mobs thin out.
-- Save health items for post‑wave pickups, not mid‑crowd.
+### Tipps
 
-### FAQ
-- Q: How do I unlock new combo moves in the game?
-A: Progressing through stages reveals new inputs on splash screens; practice them immediately.
-- Q: What is the best way to handle large enemy groups?
-A: Kite to one edge, use throws or weapons, and pick off stragglers.
-- Q: Are there checkpoints between levels?
-A: Most hosts checkpoint at stage transitions; mid‑stage restarts depend on the version.
+- Halte Gegner nach Möglichkeit auf **einer Seite** von dir, damit du nicht in
+  die Zange genommen wirst.
+- Nutze Griffe, um einzelne Gegner schnell auszuschalten, sobald die Gruppe
+  ausgedünnt ist.
+- Hebe Heilgegenstände bis nach einer großen Welle auf, statt sie mitten im
+  Gedränge zu nehmen.
 
+### Häufige Fragen (FAQ)
+
+- **F: Wie schalte ich neue Kombos frei?**  
+  **A:** Im Verlauf der Stages werden auf Hinweisschildern oder Splash-Screens
+  neue Tastenkombinationen angezeigt. Probiere sie direkt danach aus, damit du
+  sie dir merkst.
+
+- **F: Wie gehe ich am besten mit großen Gegnergruppen um?**  
+  **A:** Zieh die Gegner zu einer Bildschirmkante, nutze Würfe und Waffen, um
+  die Masse zu lichten, und picke dir Nachzügler gezielt heraus.
+
+- **F: Gibt es Checkpoints?**  
+  **A:** In den meisten Versionen wird beim Übergang zwischen Stages
+  gespeichert. Ob es Zwischen-Checkpoints innerhalb eines Levels gibt, hängt
+  vom jeweiligen Host ab.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: basketball-legends
-title: '[KO] Basketball Legends'
+title: 'Basketball Legends 농구 레전드'
 description: >-
-  [KO] A complete guide to the arcade sports game Basketball Legends. Learn the
-  controls, strategies for offense and defense, how to use the supershot, and
-  answers to common questions for 1-player and 2-player modes.
+  과장된 캐릭터와 화려한 덩크가 난무하는 아케이드 농구 게임입니다. 1:1 혹은
+  2:2로 공격·수비와 슈퍼샷 타이밍을 익혀 전설 선수들로 코트를 지배해 보세요.
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/basketball-legends.jpg
 tags:
@@ -15,69 +14,93 @@ score: 4.5/5  (832 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+*Basketball Legends*는 실제 스타 선수들을 패러디한 캐리커처 캐릭터로 즐기는
+2D 아케이드 농구 게임입니다. 복잡한 시뮬레이션 요소는 모두 걷어내고, 시원한
+덩크와 블록, 빠른 템포의 공격·수비만 남긴 형태라 누구나 가볍게 즐길 수
+있습니다. 1:1, 2:2 모드를 선택해 제한 시간 안에 상대보다 더 많은 점수를
+넣으면 승리합니다.
 
+게임의 핵심 요소 중 하나는 **슈퍼샷(Super Shot)** 시스템으로, 플레이 도중
+게이지를 채운 뒤 발동하면 막을 수 없는 강력한 슛을 사용할 수 있습니다.
+빠른 경기 템포와 다양한 모드(빠른 경기, 토너먼트, 2인용 로컬 대전) 덕분에
+혼자 도전하기에도, 친구와 한 키보드로 겨루기에도 좋은 구성이 특징입니다.
 
+### 플레이 전략
 
+성공적인 플레이를 위해서는 이동, 타이밍, 그리고 특수 능력의 사용 시기를
+잘 파악해야 합니다.
 
-### Detailed Introduction
+#### 공격 팁
 
-*Basketball Legends* is a fast-paced, 2D arcade basketball game featuring exaggerated, caricature-style versions of famous basketball players. The game strips away the complexities of a simulation and focuses on pure, action-packed fun. Players can compete in 1-on-1 or 2-on-2 matches where the objective is simple: score more points than your opponent before the timer runs out.
+1.  **대시 활용:** 이동 키를 두 번 빠르게 눌러 사용하는 대시는 수비수를
+    제치고 골 밑을 파고들거나, 외곽에서 슛 공간을 만들 때 가장 중요한
+    수단입니다.
+2.  **덩크 vs 점프슛 선택:** 덩크는 블록 당할 확률이 낮고 성공률이 높지만,
+    골대 근처까지 파고들어야 합니다. 점프슛은 멀리서도 시도할 수 있지만
+    상대의 블록 타이밍에 취약합니다. 두 가지를 섞어 사용해 상대를 헷갈리게
+    하세요.
+3.  **슈퍼샷 운용:** 슈퍼샷 게이지는 슛·수비 등 행동을 통해 서서히 차오릅니다.
+    게이지가 꽉 찼다고 바로 쓰기보다는, 수비에 둘러싸여 있거나 점수 차이를
+    벌리거나 좁혀야 하는 "한 방" 타이밍에 아껴두었다가 사용하는 것이 좋습니다.
+4.  **2:2 모드에서의 패스:** 더블팀을 당할 땐 욕심내지 말고 빈 공간에 있는
+    팀원에게 공을 넘겨 확실한 득점을 노리세요.
 
-The gameplay is characterized by high-flying dunks, powerful blocks, and frantic movement. A key feature is the "Super Shot" mechanic: a special, unblockable shot that players can unleash after filling a power meter. With different modes available, including a quick match, a tournament, and a two-player mode, the game is designed for both solo players looking for a challenge and friends wanting to compete against each other on the same keyboard.
+#### 수비 팁
 
-### Gameplay Strategy
+1.  **마구 점프하지 않기:** 무작정 점프하다 보면 상대에게 쉽게 돌파당해
+    골 밑을 내주게 됩니다. 슛 타이밍에 맞춰서만 점프하는 습관을 들이세요.
+2.  **블록 타이밍:** 상대가 점프해 최고점에 도달하는 순간에 맞춰 점프하면
+    블록 성공률이 높습니다. 골대와 상대 사이를 유지한 채, 슛 동작이 보일
+    때까지 기다리는 것이 좋습니다.
+3.  **스틸 시도:** 상대가 드리블하며 가까이 다가왔을 때 펌프/스틸 버튼을
+    사용해 공을 빼앗을 수 있습니다. 성공하면 손쉽게 속공 상황을 만들 수
+    있지만, 무리한 시도는 파울이나 빈 공간을 내주는 결과가 될 수 있으니
+    타이밍을 고민하세요.
+4.  **수비에서도 대시 활용:** 놓친 상대를 따라잡거나, 외곽 슈터에게 빠르게
+    붙어 슛을 방해할 때 대시는 필수입니다.
 
-Success in *Basketball Legends* is about mastering movement, timing, and the strategic use of your special abilities.
+### 조작 방법
 
-#### On Offense:
+한 키보드에서 두 명이 동시에 플레이하도록 설계된 조작 체계를 사용합니다.
 
-1.  **[KO]** **Use Your Dash:** Dashing (double-tapping a movement key) is the most important tool for creating space. Use it to blow past your defender for an easy dunk or to get open for a jump shot.
-2.  **[KO]** **Know When to Dunk vs. Shoot:** A dunk is a high-percentage shot that is difficult to block, but it requires you to be very close to the basket. A jump shot can be taken from further away but is easier for a defender to block. Mix up your attacks to keep your opponent guessing.
-3.  **[KO]** **Master the Super Shot:** The Super Shot meter fills as you perform actions like shooting and defending. Once full, unleash it! It's a guaranteed point and can change the momentum of a close game. Don't use it when you're already wide open for an easy dunk; save it for when you're heavily defended.
-4.  **[KO]** **Use Your Teammate (2v2):** In a 2-on-2 match, don't forget you have a partner. If you're being double-teamed, pass the ball to your open teammate for an easy score.
+#### 플레이어 1
+*   이동: `A`, `D` 키
+*   대시: `A` 또는 `D`를 두 번 빠르게 입력
+*   슛/덩크: `B` 키
+*   펌프/스틸: `S` 키
+*   점프: `W` 키
+*   슈퍼샷: `V` 키
 
-#### On Defense:
+#### 플레이어 2
+*   이동: `←`, `→` 방향키
+*   대시: `←` 또는 `→`를 두 번 빠르게 입력
+*   슛/덩크: `L` 키
+*   펌프/스틸: `↓` 방향키
+*   점프: `↑` 방향키
+*   슈퍼샷: `K` 키
 
-1.  **[KO]** **Stay Grounded (Mostly):** Don't jump randomly. A poorly timed jump will leave you vulnerable and give your opponent an open lane to the basket. Only jump when you are in a position to block a shot.
-2.  **[KO]** **Timing Your Blocks:** To block a shot, you need to jump just as the opponent is at the peak of their jump. Stay between the shooter and the basket and time your leap perfectly to swat the ball away.
-3.  **[KO]** **Pump for the Steal:** The "pump" or "steal" action is effective when the opponent is dribbling near you. Use it to knock the ball loose and create a fast-break opportunity.
-4.  **[KO]** **Dash on Defense:** Dashing is just as crucial on defense. Use it to quickly get back into position or to close out on a shooter before they can get a shot off.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+**1. 슈퍼샷은 어떻게 쓰나요?**  
+플레이 도중 공격·수비를 하며 화면 아래의 파란 게이지를 채운 뒤, 가득 찼을
+때 플레이어 1은 `V`, 플레이어 2는 `K` 키를 눌러 발동할 수 있습니다. 발동 시
+대부분 막을 수 없는 강력한 슛이 나갑니다.
 
-The game is well-known for its two-player setup on a single keyboard.
+**2. 토너먼트에서 계속 지는데, 팁이 있을까요?**  
+여러 경기를 연속으로 치르는 만큼 공격보다 수비 안정이 중요합니다. 실점만
+줄여도 승률이 크게 올라가며, 슈퍼샷은 점수 차이가 적을 때나 승부처에서
+아껴 쓰는 것이 좋습니다.
 
-#### Player 1 Controls:
-*   **[KO]** **Movement:** `A` and `D` keys
-*   **[KO]** **Dash:** Double-tap `A` or `D`
-*   **[KO]** **Shoot / Dunk:** `B` key
-*   **[KO]** **Pump / Steal:** `S` key
-*   **[KO]** **Jump:** `W` key
-*   **[KO]** **Super Shot:** `V` key
+**3. 슈퍼샷은 정말 막을 수 없나요?**  
+네, 기본적으로 슈퍼샷은 블록이 불가능하도록 설계되어 있습니다. 잘 쓴
+슈퍼샷은 역전용 카드에 가깝습니다.
 
-#### Player 2 Controls:
-*   **[KO]** **Movement:** `Left` and `Right Arrow` keys
-*   **[KO]** **Dash:** Double-tap `Left` or `Right Arrow`
-*   **[KO]** **Shoot / Dunk:** `L` key
-*   **[KO]** **Pump / Steal:** `Down Arrow` key
-*   **[KO]** **Jump:** `Up Arrow` key
-*   **[KO]** **Super Shot:** `K` key
+**4. 캐릭터마다 능력 차이가 있나요?**  
+주요 능력은 대부분 비슷하며, 차이는 주로 외형과 모션에서 나타납니다. 좋아하는
+스타를 골라 외형 취향에 따라 즐기면 됩니다.
 
-### Frequently Asked Questions (FAQ)
-
-**1. How do I perform a Super Shot?**
-You must first fill the blue power bar at the bottom of the screen by playing the game (shooting, stealing, blocking). Once the bar is full and flashing, press the designated Super Shot key (`V` for Player 1, `K` for Player 2) to perform an unblockable special shot.
-
-**2. What is the best way to win a tournament?**
-Tournaments require you to win several games in a row against increasingly difficult opponents. The key is consistent defense. Focus on preventing your opponent from scoring, as your own points will come. Save your Super Shot for tie-breaking moments or to secure a lead near the end of the game.
-
-**3. Why can't I block the Super Shot?**
-The Super Shot is intentionally designed to be unblockable. It's a reward for skilled play and serves as a powerful comeback mechanic.
-
-**4. What's the difference between the characters?**
-While the game features many different characters, their core abilities are generally the same. The differences are mostly cosmetic, allowing you to play as your favorite legend.
-
-**5. Can I pass the ball in a 2-on-2 match?**
-In most versions of the game, the "shoot" button (`B` or `L`) acts as a "pass" button when your teammate does not have the ball.
-
+**5. 2:2에서 패스는 어떻게 하나요?**  
+일반적으로 팀원이 공을 가지고 있지 않을 때 슛 버튼(`B` 또는 `L`)을 누르면
+패스 동작으로 처리됩니다(버전별로 다를 수 있음).

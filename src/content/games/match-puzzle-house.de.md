@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: match-puzzle-house
-title: '[DE] Match Puzzle House'
+title: "Match Puzzle House"
 description: >-
-  [DE] Match Puzzle House is a home‑makeover match‑3 — complete goals, earn
-  stars, and renovate rooms with smart booster usage.
+  Match Puzzle House verbindet Match-3-Puzzle mit Wohnungsrenovierung: Erfülle
+  Levelziele, verdiene Sterne und richte Räume mit clever eingesetzten
+  Boostern ein.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/match-puzzle-house.png
 tags:
@@ -15,36 +16,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Match Puzzle House kombiniert klassisches Match-3-Gameplay mit einem
+Einrichtungsmodus. Du räumst Blocker, sammelst bestimmte Items innerhalb
+begrenzter Züge und gibst deine verdienten Sterne aus, um Zimmer zu dekorieren
+und aufzuwerten. Auf dicht gefüllten Brettern sind Booster und Power-up-Kombos
+entscheidend, um dir genug Platz zu verschaffen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Mitte öffnen**  
+    Räume zuerst Blocker im Zentrum, damit du Platz für große Kombos hast.
 
-Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear blockers, collect items within move caps, and spend stars on decor. Boosters and power‑up merges are key on dense layouts.
+2.  **Boosters klug kombinieren**  
+    Heb dir Bomben-, Linien- und Farb-Clears für Situationen auf, in denen du
+    eng gesteckte Ziele oder schwer zugängliche Bereiche erreichen musst.
 
-### Gameplay Strategy & Walkthrough
+3.  **Sterne sinnvoll einsetzen**  
+    Nutze Sterne nicht nur für Deko, sondern auch für Features, die dir im
+    Spiel helfen, etwa zusätzliche Booster-Slots oder Bonis (wenn vorhanden).
 
-1.  **[DE]** Central control: Open the middle first for combo space.
-2.  **[DE]** Merge smart: Save bomb/line/color clears for tight goals.
-3.  **[DE]** Star economy: Spend stars to unlock booster slots when stuck.
-4.  **[DE]** Edge awareness: Don’t strand colors on walls.
-5.  **[DE]** Two‑turn plans: Map your next move to avoid breaking setups.
+4.  **Farben am Rand nicht einsperren**  
+    Vermeide es, Farben entlang der Wände zu isolieren, wo sie schwer zu
+    kombinieren sind.
 
-### Controls Guide
+5.  **Zwei Züge vorausdenken**  
+    Plane deinen nächsten Zug mit, damit du vorbereitete Kombos nicht
+    versehentlich zerstörst.
 
-- Drag to swap; use boosters via UI; decorate rooms between levels.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- **Tauschen:** Ziehe zwei benachbarte Steine, um sie zu vertauschen.
+- **Booster nutzen:** Aktiviere Booster über die UI oder durch Kombinieren auf
+  dem Brett.
+- **Dekorieren:** Zwischen den Levels kannst du Räume auswählen und mit Sternen
+  neue Möbel oder Designs freischalten.
 
-- Q: I’m stuck on a chain level.
+### FAQ
 
-A: Prioritize detonations adjacent to chains; lines through chains speed clears.
+- **F: Ich komme bei einem Ketten-Level nicht weiter – Tipps?**  
+  **A:** Zünde Bomben oder Linien-Clears direkt neben Kettenfeldern. Mehrere
+  Treffer hintereinander schwächen sie schnell.
 
-- Q: Do renovations help in‑game?
+- **F: Bringen Renovierungen spielerische Vorteile?**  
+  **A:** Meist sind sie vor allem optisch, können aber Belohnungen oder
+  zusätzliche Booster-Slots freischalten.
 
-A: Mostly cosmetic; some unlock progression rewards.
-
-- Q: Best generic booster?
-
-A: Color clear to reshape stubborn boards.
-
+- **F: Welcher Booster ist allgemein am stärksten?**  
+  **A:** Farb-Clears sind sehr mächtig, um festgefahrene Bretter aufzubrechen,
+  weil sie eine komplette Farbe auf einmal entfernen.

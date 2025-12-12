@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: castle-craft
-title: '[KO] Castle Craft'
+title: Castle Craft 캐슬 크래프트
 description: >-
-  [KO] Embark on a merge-and-build adventure in Castle Craft. Combine items to
-  gather resources, complete quests, and expand your kingdom from a humble
-  garden into a grand medieval empire.
+  Castle Craft는 작은 정원을 중세 왕국으로 키워 나가는 머지 & 빌드 퍼즐 게임입니다. 같은 아이템을 합쳐 더 높은 단계로
+  업그레이드하고, 자원을 모아 퀘스트를 해결하며 안개로 가려진 땅을 하나씩 개척해 보세요.
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/'
 thumbnail: /new-images/castle-craft.png
 tags:
@@ -16,38 +15,73 @@ score: 4.3/5  (2104 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Castle Craft는 작은 땅 조각에서 시작해 웅장한 중세 왕국을 건설하는 머지 퍼즐
+게임입니다. 기본 규칙은 "머지-3"로, 같은 아이템 세 개 이상을 서로 겹쳐 하나의
+더 높은 단계 아이템으로 합칠 수 있습니다. 밀, 나무, 돌 같은 자원을 전략적으로
+합쳐 퀘스트를 완료하고, 통화와 열쇠를 모아 안개에 덮인 새 영역을 해제해 나가며
+점점 더 넓고 번영한 영지를 만들어 가게 됩니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **가능하면 머지-5를 노리기**  
+    세 개를 합쳐도 업그레이드는 되지만, 같은 아이템 다섯 개를 한 번에 합치는
+    **머지-5**를 하면 상위 아이템을 두 개 얻어, 사실상 하나를 공짜로 받는 효과가
+    있습니다. 조금 돌아가더라도 머지-5를 만드는 습관을 들이면 진행 속도가 크게
+    빨라집니다.
 
-Castle Craft is a captivating merge-and-build puzzle game where players embark on a journey to transform a modest plot of land into a magnificent medieval kingdom. The core gameplay revolves around the classic "merge-3" mechanic: combining three or more identical items to create a single, more advanced item. By strategically merging resources like wheat, wood, and stone, players can fulfill quests, earn valuable currency, and lift the fog to unlock new territories, gradually revealing a sprawling and prosperous empire.
+2.  **보드를 깔끔하게 정리하기**  
+    랜덤으로 떨어지는 아이템을 아무 데나 두면 금방 보드가 뒤엉켜 큰 머지를
+    만들기 어려워집니다. 비슷한 아이템끼리는 한 구역에 모아 두고, 빈 공간을
+    "작업대"처럼 활용해 머지 준비를 하는 등 정돈된 레이아웃을 유지하세요.
 
-### Gameplay Strategy & Walkthrough
+3.  **퀘스트를 최우선 목표로 삼기**  
+    화면에 표시되는 퀘스트와 주민 의뢰는 열쇠와 코인을 얻는 주된 수단입니다.
+    땅을 더 열고 스토리를 진행하려면 이 보상이 필수이므로, 단순히 예쁜 구조물을
+    만드는 것보다 퀘스트 요구 아이템을 먼저 맞추는 것이 좋습니다.
 
-1.  **[KO]** **Master the Merge-5:** While merging three items is the basic rule, always try to merge five identical items at once. A "merge-5" rewards you with a bonus, often an extra higher-level item, which significantly speeds up your progress.
-2.  **[KO]** **Organize Your Board:** Don't let your land get cluttered. Keep similar items grouped together to make it easier to spot and execute large merges. Use open space strategically to maneuver items.
-3.  **[KO]** **Focus on Quests:** Pay close attention to the quest log. Fulfilling quests and villager orders is the primary way to earn keys and coins, which are essential for unlocking new land and advancing the story.
-4.  **[KO]** **Resource Management:** At times, you will need to decide which resource to focus on. If a quest requires high-level stone, dedicate a portion of your board to merging stone from basic rocks up to the required level. Don't spread your efforts too thin.
-5.  **[KO]** **Unlock Land Wisely:** When you have enough keys, you can unlock a new patch of fog-covered land. Prioritize unlocking areas that give you the most building space or seem to lead towards critical quest items.
+4.  **자원 집중 투자 구역 정하기**  
+    어떤 시점에는 특정 자원(예: 고레벨 돌, 고급 목재 등)을 집중적으로 올려야
+    하는 경우가 많습니다. 이때는 보드의 한 구역을 해당 자원 전용 구역으로 정해
+    단계별로 차근차근 머지해 나가고, 다른 자원은 잠시 보류해 두면 효율이
+    좋아집니다.
 
-### Controls Guide
+5.  **안개 해제(땅 열기) 우선순위 정하기**  
+    열쇠가 모이면 안개로 가려진 땅을 열 수 있습니다. 단순히 가까운 칸부터 열기보다,
+    건물을 지을 만한 넓은 공간이나 중요한 퀘스트 아이템으로 이어질 것 같은
+    방향을 우선해서 해제하는 것이 장기적으로 유리합니다.
 
-The game is controlled entirely with a mouse or touch screen.
+### 조작 방법
 
-*   **[KO]** **Merge Items:** Click and drag an item onto at least two other identical items to perform a merge.
-*   **[KO]** **Move Items:** Drag an item to an empty tile to move it.
-*   **[KO]** **View Item Info:** Click on an item to see its name and level.
-*   **[KO]** **Collect Resources:** Click on resources that spawn automatically (like wheat from a field) to collect them.
+게임은 전부 마우스 또는 터치로 조작할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+-   **아이템 머지:** 같은 아이템 위로 드래그해 최소 세 개 이상을 한 지점에 모으면
+    상위 단계 아이템으로 합쳐집니다.
+-   **아이템 이동:** 아이템을 빈 칸으로 드래그해 원하는 위치로 옮길 수 있습니다.
+-   **정보 확인:** 아이템을 탭/클릭하면 이름과 레벨 등 정보를 확인할 수 있습니다.
+-   **자원 수집:** 필드에서 자동으로 생성되는 자원(밀, 나무 등)이 보이면 클릭해
+    인벤토리로 수집합니다.
 
-*   **[KO]** **Q: What is the main goal of Castle Craft?**
-    *   **[KO]** **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: How do I get more keys to unlock land?**
-    *   **[KO]** **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
+-   **Q. Castle Craft의 최종 목표는 무엇인가요?**  
+    A. 안개에 덮인 전 영역을 해제하고, 퀘스트를 완수하며 왕국을 최대한 발전시키는
+    것이 장기적인 목표입니다. 명확한 엔딩이 있다기보다, 점점 더 큰 왕국을
+    꾸며 나가는 과정 자체가 게임의 재미입니다.
 
-*   **[KO]** **Q: What's the difference between merging 3 and merging 5?**
-    *   **[KO]** **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
+    - **Q. 땅을 여는 데 필요한 열쇠는 어떻게 얻나요?**  
+    A. 대부분 특정 퀘스트를 완료하거나 시장·마을 사람들의 주문을 완료했을 때
+    보상으로 지급됩니다. 필요한 열쇠가 부족하다면, 우선 퀘스트와 거래 주문을
+    집중적으로 처리해 보세요.
 
+-   **Q. 왜 모두 머지-5를 추천하나요? 머지-3과 뭐가 다른가요?**  
+
+    - **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
+
+- **Q: What's the difference between merging 3 and merging 5?**
+
+    - **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
+    A. 머지-3은 상위 아이템을 1개 주지만, 머지-5는 상위 아이템을 2개 주어 결과적으로
+    한 개를 덤으로 얻는 셈입니다. 동일한 자원으로 더 많은 결과를 얻을 수 있어,
+    장기 플레이에서는 머지-5 중심 운영이 훨씬 효율적입니다.

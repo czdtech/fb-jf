@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: moving-co
-title: '[ES] Moving Co'
+title: "Moving Co - Día de mudanza convertido en puzle"
 description: >-
-  [ES] Moving Co. turns moving day into a puzzle — plan routes, carry items
-  safely, and beat the clock with tidy logistics.
+  Moving Co. convierte una mudanza en un rompecabezas ligero: planifica rutas,
+  transporta los objetos con cuidado y vence al reloj con una logística
+  ordenada.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/moving-co.png
 tags:
@@ -16,29 +17,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Moving Co. es un pequeño reto de logística y colocación. Recorre las estancias,
+recoge muebles y cajas y llévalos hasta el camión o las zonas objetivo evitando
+choques y reduciendo al mínimo el número de viajes. Puertas estrechas, objetos
+frágiles y formas incómodas convierten cada nivel en un rompecabezas espacial
+bajo presión de tiempo.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Moving Co. is a light logistics and packing challenge. Navigate rooms, pick up furniture or boxes, and move them to the truck or target spots while avoiding collisions and minimizing trips. Tight doorways, fragile items, and awkward shapes create spatial puzzles under time pressure.
+1.  Reconocer el terreno: identifica primero los muebles grandes y los pasillos
+    estrechos; mueve las piezas voluminosas antes de que el desorden bloquee las
+    rutas.
+2.  Apilar con cabeza: coloca primero los objetos pesados para estabilizar la
+    carga y evita poner piezas frágiles en la base.
+3.  Bucles cortos: diseña rutas compactas que te permitan transportar varios
+    objetos en el mismo recorrido siempre que sea posible.
+4.  Radio de giro: empieza a girar antes de atravesar puertas; los giros amplios
+    reducen golpes y pérdidas de tiempo.
+5.  Manejo de frágiles: baja la velocidad cerca de paredes y esquinas; una
+    mudanza limpia vale más que una carrera llena de golpes y reinicios.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Survey first: Identify large items and narrow passages; move big pieces before clutter blocks routes.
-2.  **[ES]** Stack smart: Place heavy items first to stabilize loads; avoid stacking fragile pieces underneath.
-3.  **[ES]** Shortest loops: Plan compact loops that grab multiple items per trip when possible.
-4.  **[ES]** Turn radius: Rotate early through doors; wide turns reduce bumps and time losses.
-5.  **[ES]** Handle fragile: Slow down near obstacles; a clean run beats a risky crash‑and‑restart.
+- Movimiento: teclas de dirección o WASD; algunas versiones incluyen joystick
+  virtual.
+- Coger/dejar objetos: acción contextual al acercarte o botón dedicado, según
+  la versión.
+- Rotar (si está disponible): flechas en pantalla o teclas Q/E.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move: Arrow keys / WASD; some versions support drag joystick.
-- Pick/Drop: Context action on contact or a dedicated button.
-- Rotate (if available): Use on‑screen arrows or Q/E.
+- P: Los muebles se quedan atascados en las puertas.  
+  R: Retira primero objetos pequeños que bloqueen el paso y empieza a girar
+  antes de entrar por los marcos.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Perder golpes afecta a la puntuación?  
+  R: Muchos modos penalizan choques o roturas de objetos frágiles; moverte con
+  suavidad suele dar mejores resultados que ir a toda prisa.
 
-- Items keep getting stuck—what to do? Clear small clutter first or rotate earlier before doorways.
-- Do I lose score for bumps? Many modes penalize collisions or breaking fragile items; smooth movement pays off.
-- How to 3‑star? Fewer trips, early big‑item moves, and tidy stacking.
-
+- P: ¿Cómo consigo las 3 estrellas?  
+  R: Haz menos viajes, mueve los muebles grandes al principio y apila de forma
+  ordenada para minimizar correcciones.

@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: mahjong-classic
-title: '[DE] Mahjong Classic'
+title: Mahjong Classic
 description: >-
-  [DE] Enjoy the timeless puzzle of Mahjong Classic. Match pairs of identical,
-  unblocked tiles to clear the board in this relaxing game of strategy and
-  observation.
+  Genieße das zeitlose Puzzle Mahjong Classic. Finde und paare identische, freie
+  Steine, um das Spielfeld zu räumen – ein entspanntes Spiel für Kopf und Auge.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/mahjong-classic.png
 tags:
@@ -18,34 +17,65 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Mahjong Classic ist die klassische Einzelspieler-Variante mit Mahjong-Steinen.
+Statt wie im traditionellen Mahjong eine Hand zu bilden, räumst du ein
+aufgestapeltes Layout, indem du identische, freie Steine paarweise entfernst.
+Das Spiel fordert deine Beobachtungsgabe und dein strategisches Denken – ideal
+für eine entspannte, aber dennoch fordernde Rätselrunde.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Mahjong Classic is the timeless single-player puzzle game that uses a set of Mahjong tiles. The goal is not to form winning hands as in traditional Mahjong, but to systematically clear a stacked layout of tiles by finding and matching identical pairs. It’s a game that tests your observation skills and strategic thinking, providing a relaxing yet engaging mental workout.
+1.  **Regel der freien Steine**  
+    Du kannst nur Steine auswählen, die „frei“ sind. Ein Stein gilt als frei,
+    wenn kein anderer Stein auf ihm liegt und er nach links oder rechts
+    verschoben werden könnte, ohne gegen einen weiteren Stein zu stoßen.
 
-### Gameplay Strategy & Walkthrough
+2.  **Überlegt kombinieren**  
+    Klicke nicht einfach das erste sichtbare Paar weg. Überlege, welche Paare
+    besonders viele neue Steine freilegen – vor allem solche, die auf hohen
+    Stapeln liegen oder große Bereiche blockieren.
 
-1.  **[DE]** **The Rule of Free Tiles:** You can only select and match tiles that are "free." A tile is considered free if it can be moved left or right without being blocked by another tile, and it has no other tiles sitting on top of it.
-2.  **[DE]** **Strategic Matching:** Don't just match the first pair you see. Think about which matches will open up the most new tiles. Prioritizing pairs that unblock heavily stacked areas of the board is key to success.
-3.  **[DE]** **Handle Multiples with Care:** If you see three or four identical free tiles, pause and consider which pair to match. The wrong choice could leave the other pair blocked permanently. Choose the pair that will be most beneficial for future moves.
-4.  **[DE]** **Flower and Season Tiles:** Remember that any Flower tile can be matched with any other Flower tile, and the same goes for Season tiles. They don't need to be identical. Use these flexible matches to your advantage, especially when you're stuck.
+3.  **Mehrfach vorkommende Steine beachten**  
+    Siehst du drei oder vier identische, freie Steine, wähle sorgfältig aus,
+    welche beiden du zuerst kombinierst. Eine unbedachte Wahl kann dazu führen,
+    dass das verbleibende Paar später blockiert ist.
 
-### Controls Guide
+4.  **Blumen- und Jahreszeitensteine**  
+    In vielen Sets können Blumen- und Jahreszeitensteine gruppenweise
+    kombiniert werden: Jede Blume passt zu jeder anderen Blume, jede Jahreszeit
+    zu jeder anderen Jahreszeit. Nutze diese Flexibilität, um das Brett
+    aufzuschließen, wenn du kaum noch Matches findest.
 
-The game is played with simple mouse clicks or taps.
+### Steuerung
 
-*   **[DE]** **Select & Match:** Click on a free tile to highlight it. Then, click on another identical, free tile to remove both from the board.
-*   **[DE]** **Hints/Shuffle:** Most versions include a "Hint" button to show you a possible match and a "Shuffle" button to rearrange the tiles if no moves are available.
+Das Spiel wird mit Maus oder per Touch gesteuert.
 
-### Frequently Asked Questions (FAQ)
+*   **Auswählen & Kombinieren:** Klicke auf einen freien Stein, um ihn zu
+    markieren, und anschließend auf seinen identischen, ebenfalls freien
+    Partner, um beide zu entfernen.
+*   **Hinweise/Shuffle:** Viele Versionen bieten einen „Hinweis“-Button für
+    mögliche Paare sowie eine „Mischen“-Funktion, wenn keine Züge mehr
+    vorhanden sind.
 
-*   **[DE]** **Q: Why can't I click on a tile?**
-    *   **[DE]** **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.
+### FAQ
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
+*   **F: Warum kann ich einen Stein nicht anklicken?**  
+    **A:** Der Stein ist nicht frei – entweder liegt ein anderer Stein ganz oder
+    teilweise auf ihm, oder er ist sowohl links als auch rechts blockiert.
 
-*   **[DE]** **Q: I have no more moves. Is the game over?**
-    *   **[DE]** **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
+    - **F: Was ist das Ziel des Spiels?**  
+    **A:** Entferne 100 % der Steine vom Spielfeld, indem du sie paarweise
+    abräumst.
 
+*   **F: Was passiert, wenn keine Züge mehr möglich sind?**  
+
+    - **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
+
+- **Q: I have no more moves. Is the game over?**
+
+    - **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
+    **A:** Viele Versionen bieten eine Shuffle-Funktion, die die verbleibenden
+    Steine neu anordnet. Gibt es kein Mischen und keine Paare mehr, ist die
+    Runde verloren.

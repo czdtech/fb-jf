@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: drive-mad
-title: '[ZH TRANSLATION NEEDED] Drive Mad'
+title: "Drive Mad 疯狂卡车物理闯关"
 description: >-
-  [ZH TRANSLATION NEEDED] Drive Mad is a physics driving challenge: balance your
-  vehicle, clear obstacles, and reach the finish without flipping.
+  《Drive Mad 疯狂卡车物理闯关》是一款基于物理的驾驶游戏。控制车辆重心与前进速度，穿
+  过跷跷板、桥梁与机关陷阱，在不翻车的前提下抵达终点。
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/drive-mad.jpg
 tags:
@@ -17,26 +17,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Physics obstacle driving: keep your truck upright across seesaws, bridges, and traps. Levels escalate with moving parts and brittle platforms.
+
+《Drive Mad 疯狂卡车物理闯关》是一款以“保持车身不翻”为核心的障碍驾驶游戏。你要驾驶卡车
+在各种充满机关的关卡中前进：跷跷板、弹跳桥、脆弱平台、旋转装置等会不断挑战你的节奏控制
+与重心把握。随着关卡推进，道路结构会变得越来越离谱，稍一不慎就会翻车，只能按下重试键再
+来一次。 
 
 ### How to Play
-- Control speed and weight shift to keep traction over gaps and ramps.
-- Reverse to steady the chassis before big drops or steep climbs.
-- Some stages require controlled flips to land wheels‑down.
+
+- 通过控制油门与刹车，让车辆在通过缺口与坡道时保持适度速度与良好抓地，避免车头或车尾过
+  度抬起。  
+- 在大跳跃或陡坡前，适当倒车调整车身姿态，使悬挂与车头角度更利于落地时保持四轮着地。  
+- 某些关卡设计成必须完成“受控翻转”才能落到正确位置，此时要利用油门/倒车在空中调整车身角
+  度，确保轮子朝下落地。  
 
 ### Controls
-- Arrow/WASD: drive/reverse/tilt; R: restart; Esc/P: pause (host dependent).
+
+- 方向键或 WASD：控制前进/后退以及车身前后倾斜；  
+- R 键：快速重开当前关卡；  
+- Esc / P：暂停或打开菜单（依托管版本而定）。  
 
 ### Tips
-- Feather throttle; full‑gas often flips the truck.
-- Use reverse mid‑air to tip the nose up or down.
-- Memorize trap timing; patience beats brute speed.
+
+- 轻点油门，避免全程“地板油”，大油门更容易让车头抬起导致翻车。  
+- 在空中时善用倒车/前进来调整车身姿态：前进可以让车头抬起，倒车则让车头下压，用来修正落
+  地角度。  
+- 记住机关触发节奏与桥梁脆弱程度，有些桥需要慢速轻压，有些则要快速通过避免因弹跳被甩出
+  赛道。  
 
 ### FAQ
-- Q: Are cars different?  
-[ZH TRANSLATION NEEDED]   A: Some packs change vehicle weight/length, altering balance.
-- Q: Can I skip hard levels?  
-[ZH TRANSLATION NEEDED]   A: Certain hosts allow level select; otherwise master timing and tilt control.
-- Q: Why break on bridges?  
-[ZH TRANSLATION NEEDED]   A: Excess speed compresses suspension and bounces you off.
 
+- **Q: 不同车辆手感会变吗？**  
+  **A：** 某些关卡包会更换车辆，车辆重量、长度和重心都会影响平衡性，需要稍作适应。  
+
+- **Q: 卡在某一关过不去能跳关吗？**  
+  **A：** 部分托管站点提供关卡选择/跳关功能，如果没有，只能通过多次练习掌握当前关卡的时机
+  与倾斜控制。  
+
+- **Q: 为什么在桥上总是被弹飞？**  
+  **A：** 过快驶上脆弱桥梁会让悬挂被压缩并迅速反弹，车辆就会被“弹飞”，适当减速、平稳通过
+  是关键。  

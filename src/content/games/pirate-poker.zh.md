@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: pirate-poker
-title: '[ZH TRANSLATION NEEDED] Pirate Poker'
+title: "《Pirate Poker》海盗德州扑克"
 description: >-
-  [ZH TRANSLATION NEEDED] Ahoy! Bet, bluff, and build the best five-card hand in
-  Pirate Poker. Challenge salty sea dogs, manage your doubloons, and prove
-  you're the sharpest card shark on the seven seas.
+  《Pirate Poker》是一款充满海盗风情的五张抽牌扑克游戏，你将和一群老海狗同桌搏命下注、诈唬与比牌，用有限的金币赢下七海上最大的筹码堆。
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/pirate-poker.png
 tags:
@@ -17,34 +15,35 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Pirate Poker is a classic five-card draw poker game with a swashbuckling pirate theme. You'll sit at a table with salty pirate opponents, betting your gold doubloons and trying to build the best possible five-card hand. The game involves rounds of betting, a chance to exchange your cards to improve your hand, and a final showdown to see who wins the pot. It's a game of strategy, psychology, and a little bit of luck.
+《Pirate Poker》是一款规则接近传统“五张抽牌（Five-Card Draw）”的扑克游戏，只不过桌上的对手换成了满口海腔的海盗船员。你将坐在甲板上的赌桌前，以金币（达布隆金）作为筹码，通过发牌、下注、换牌和摊牌等几个阶段，争夺每一局的底池。想要成为七海最狡猾的牌鲨，既需要理解牌型与概率，也要学会何时稳健，何时大胆诈唬。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Know the Hand Rankings:** The goal is to make the best five-card hand. From highest to lowest, the standard rankings are: Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, Straight, Three of a Kind, Two Pair, One Pair, and High Card.
-2.  [ZH TRANSLATION NEEDED] **The Draw Phase:** After the first round of betting, you'll have a chance to discard some of your cards and draw new ones. This is your chance to improve your hand. If you have a pair, discard the other three cards. If you are close to a Straight or a Flush, discard the one card that doesn't fit.
-3.  [ZH TRANSLATION NEEDED] **Betting Strategy:** Don't be afraid to "Fold" if you have a very weak hand and the bets are getting high. Sometimes, you can "Bluff" by betting aggressively with a weak hand to try and scare your opponents into folding.
-4.  [ZH TRANSLATION NEEDED] **Reading Your Opponents:** Pay attention to how your opponents are betting. If an opponent makes a very large bet, they likely have a strong hand (or are bluffing!). If they just "Check" (bet nothing), their hand might be weak.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **熟记牌型大小：** 游戏采用标准德扑/五张牌型，从大到小依次为：皇家同花顺、同花顺、四条、葫芦、同花、顺子、三条、两对、一对与高牌。任何决策前，先确保自己能准确判断当前牌力处于什么段位。
+2.  **抓住换牌阶段：** 第一轮下注后你可以选择弃掉部分手牌并补牌。如果已经有一对，可以考虑换掉其余三张博三条或两对；若距离顺子/同花只差一张，也可以保留潜力牌、换走无关牌搏成型。
+3.  **合理下注与弃牌：** 面对明显很弱的牌（比如毫无成型、抽成顺子/同花希望极低时），在对手大额加注时果断弃牌要比硬跟到底划算；相反，在牌力较强时也不要总是慢打，让对手廉价看到更多牌。
+4.  **学会“诈唬”：** 适时的诈唬是扑克乐趣所在。即便牌力一般，通过有节奏的加注、营造强势形象，也有机会让对手弃掉本来更好的牌。但要避免在多个跟注者面前胡乱诈唬，越多人看摊牌，越容易被戳穿。
+5.  **观察对手下注习惯：** 有的海盗只在牌好时才下重注，有的则频繁加注试图吓退他人。记录这些行为模式，有助于你判断一手“强牌加注”究竟是真有货，还是一次 bluff。
 
-[ZH TRANSLATION NEEDED] The game is played with on-screen buttons.
+### 操作说明
 
-*   **Bet/Raise:** Increase the current bet.
-*   **Check:** Bet nothing, passing the action to the next player (only possible if no one has bet before you in the round).
-*   **Call:** Match the current bet to stay in the hand.
-*   **Fold:** Give up the hand, forfeiting any money already in the pot.
-*   **Discard:** During the draw phase, click on the cards you want to get rid of, then click the "Draw" button.
+游戏通过屏幕按钮完成所有操作：
 
-### Frequently Asked Questions (FAQ)
+*   **Bet / Raise（下注/加注）：** 往底池中投入更多筹码，提高对手跟注成本。
+*   **Check（让牌）：** 在本轮没有人下注的情况下选择不下注也不弃牌，将行动权交给下一位。
+*   **Call（跟注）：** 跟上当前最高注额，继续参与本局对决。
+*   **Fold（弃牌）：** 放弃当前手牌，之前投入的筹码留在底池中，本局不再参与。
+*   **Discard / Draw（换牌阶段）：** 在换牌环节点击选中要丢弃的牌，再点击抽牌按钮补齐新牌。
 
-*   **Q: What is the best hand in poker?**
-     *   **A:** A Royal Flush (A, K, Q, J, 10, all of the same suit) is the highest possible hand.
+### 常见问题（FAQ）
 
-*   **Q: What does it mean to "bluff"?**
-     *   **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
+*   **问：扑克中最大的牌型是什么？**
+    *   **答：** 皇家同花顺（同一花色的 A、K、Q、J、10）是标准规则下的最强牌型，几乎不可能被击败。
 
-*   **Q: When should I fold?**
-     *   **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
+*   **问：什么叫“诈唬（Bluff）”？**
+    *   **答：** 诈唬指在手牌并不算强的情况下，通过强势下注或加注，假装自己拥有极强牌力，从而逼迫对手弃牌，让你在摊牌前直接拿下底池。
 
+*   **问：什么时候应该果断弃牌？**
+    *   **答：** 当你只是高牌或极弱的一对，而对手在多轮中持续大额加注时，继续硬跟通常只会投入更多筹码却难以翻盘，此时及时止损往往更明智。

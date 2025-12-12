@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: word-wipe
-title: '[KO] Word Wipe'
+title: "Word Wipe 워드 와이프"
 description: >-
-  [KO] Clear the board with your vocabulary in Word Wipe, a fast-paced and
-  addictive word puzzle game! Connect letters horizontally, vertically, or
-  diagonally to form words. Watch them disappear and new letters fall as you
-  race against the clock to clear rows and achieve a high score.
+  글자 보드에서 단어를 만들어 줄을 지우는 속도감 있는 워드 퍼즐 게임입니다. 가로·세로·대각선으로
+  인접한 글자를 이어 단어를 만들고, 시간 안에 여러 줄을 없애 높은 점수를 노려 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/word-wipe.jpg
 tags:
@@ -18,35 +16,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+Word Wipe는 단어 찾기와 낙하 퍼즐 요소가 결합된 속도감 있는 워드 게임입니다. 글자로 채워진 보드에서
+인접한 글자들을 이어 단어를 만들면, 해당 칸이 사라지고 위의 글자들이 아래로 떨어지며 새로운 조합이
+생깁니다. 제한 시간 안에 일정 개수의 줄을 지우는 것이 주된 목표입니다.
 
-Word Wipe is a dynamic and engaging word puzzle game that combines elements of word-finding with a falling-block mechanic. Players are presented with a grid of letters and must quickly find and connect letters to form words. Once a word is formed, the letters disappear, and new letters fall from above, creating a continuous and fast-paced challenge.
+### 게임 플레이 가이드
 
-### Gameplay Guide
+- **목표**: 각 레벨마다 요구되는 줄 수를 시간 안에 지워야 합니다. 줄을 지울수록 다음 단계로
+  진행할 수 있습니다.
+- **단어 만들기**: 가로, 세로, 대각선 방향으로 서로 인접한 글자들을 이어 세 글자 이상 단어를
+  만들 수 있습니다.
+- **줄 지우기**: 단어를 만들면 해당 칸이 비워지고, 위에 있던 글자 블록들이 아래로 떨어집니다.
+  어떤 경우에는 한 번의 단어로 여러 줄이 동시에 지워질 수 있습니다.
+- **시간 제한**: 각 단계는 제한 시간과 함께 진행되므로, 너무 오래 고민하기보다 빠르게 단어를
+  찾아내는 것이 중요합니다.
+- **점수**: 글자 수가 많고 복잡한 단어일수록 점수가 높습니다. 짧은 단어만 반복하기보다는,
+  가능한 긴 단어를 찾아 보세요.
+- **폭탄(보너스)**: 일정 조건을 만족하면 여러 칸을 한 번에 지울 수 있는 폭탄 아이템을 얻을 수
+  있습니다. 막힐 때 적절히 사용하면 큰 도움이 됩니다.
 
-- **Objective:** Form words to clear lines and progress through levels. The goal is to clear a certain number of rows within a time limit.
-- **Word Formation:** Connect letters horizontally, vertically, or diagonally to spell words of three letters or more.
-- **Clearing Lines:** When a word is formed, the letters are removed, and the tiles above them drop down. Clearing entire rows is often a key objective.
-- **Time Limit:** The game is played against a clock, adding an element of urgency.
-- **Scoring:** Longer and more complex words yield higher scores. Speed also contributes to your score.
-- **Bonus Bombs:** Earn special "bombs" that can clear multiple tiles at once, helping you out of tight spots.
+### 조작 방법 안내
 
-### Controls Guide
+- **마우스/터치**: 인접한 글자를 순서대로 드래그하거나 스와이프해 단어를 만듭니다.
 
-- **Mouse/Touch:** Click and drag (or swipe) across adjacent letters to form words.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Q. Word Wipe에서 어떻게 이기나요?**  
+A. 각 레벨에서 요구하는 줄 수를 제한 시간 안에 모두 지우면 클리어입니다. 전체적으로는 가능한 한
+높은 점수를 기록하는 것이 목표입니다.
 
-**How do I win in Word Wipe?**
+**Q. 시간이 다 되면 어떻게 되나요?**  
+A. 제한 시간 내에 목표를 달성하지 못하면 해당 레벨에서 실패 처리되고, 다시 도전해야 합니다.
 
-To win a level, you typically need to clear a specific number of rows by forming words within the given time limit. The overall goal is to achieve the highest score.
-
-**What happens if I run out of time?**
-
-If you fail to clear the required number of rows before the timer runs out, the game ends.
-
-**Are there any strategies for high scores?**
-
-Focus on finding longer words and clearing full rows. Try to create chain reactions where clearing one word leads to new opportunities. Use bonus bombs strategically when you're stuck or need to clear a large area.
-
+**Q. 고득점을 노리는 팁이 있을까요?**  
+A. 길이가 긴 단어와 한 번에 여러 줄을 지우는 배치를 우선적으로 노리세요. 단어를 지운 뒤 떨어지는
+글자들이 또 다른 단어를 만들 수 있도록, 연쇄 반응을 기대할 수 있는 구조를 만드는 것도 중요합니다.
+폭탄은 보드가 꽉 차기 직전 같은 위기 상황에서 사용하는 것이 가장 효율적입니다.

@@ -1,88 +1,77 @@
 ---
-locale: ja
-urlstr: cluster-rush
-title: '[JA TRANSLATION NEEDED] Cluster Rush'
-description: >-
-  [JA TRANSLATION NEEDED] Master the art of truck-jumping in Cluster Rush with
-  our detailed guide. Get gameplay strategies, controls, tips, and answers to
-  common questions for this intense first-person platformer.
+title: Cluster Rush クラスター・ラッシュ
+description: 「Cluster Rush」でカオスなトラックの車列を飛び移れ！物理演算ベースの激ムズ一人称パルクールアクション。タイミングと反射神経が全てだ。
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
 thumbnail: /new-images/cluster-rush.jpg
+urlstr: cluster-rush
+score: 4.6/5  (1082 votes)
 tags:
   - platformer
   - parkour
-score: 4.6/5  (1082 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Cluster Rush（クラスター・ラッシュ）*は、スピード感溢れる一人称視点（FPS視点）の3Dパルクールアクションゲームです。「Cluster Truck」という人気ゲームにインスパイアされています。ルールは単純ですが、難易度は鬼畜レベルです。暴走するトラックの車列の上を飛び移りながら、ゴールを目指します。地面に落ちたら即リスタートです。
+
+トラックは衝突したり、横転したり、爆発したりと予測不能な動きをします。物理演算に基づいた挙動を読み切り、正確なジャンプと着地を繰り返して進まなければなりません。純粋なスキルと、何度も死んで覚える「死にゲー」の要素を併せ持っています。
+
+### ゲーム攻略と戦略
 
 
-### **Game Introduction**
-
-[JA TRANSLATION NEEDED] Cluster Rush is a fast-paced, first-person 3D platformer with a simple yet incredibly challenging premise: you must jump from truck to truck in a chaotic, moving convoy to reach the finish line. The ground is effectively non-existent, and any fall results in an instant restart of the level.
-
-[JA TRANSLATION NEEDED] The gameplay is entirely physics-based, demanding precise timing, momentum control, and quick reflexes. Players must navigate swerving, crashing, and sometimes exploding trucks that serve as their only platforms. The game is structured into a series of levels, grouped into different worlds, with each level introducing new obstacles and more complex truck patterns. It is a game of pure skill, trial-and-error, and mastering movement to overcome seemingly impossible challenges.
-
-### **Gameplay Strategy & Tips**
-
-[JA TRANSLATION NEEDED] Success in Cluster Rush is about mastering movement and learning the levels.
-
-[JA TRANSLATION NEEDED] 1.  **Look Ahead, Not Down**: This is the most critical rule. Your focus should always be two or three trucks ahead of your current position. Planning your next jumps in advance is essential for maintaining flow and not getting trapped.
-[JA TRANSLATION NEEDED] 2.  **Momentum is Everything**: Your jump distance is directly tied to your running speed. Use the sprint button to make long jumps, but also learn when to let go of it for shorter, more controlled hops. You do not need to be sprinting 100% of the time.
-[JA TRANSLATION NEEDED] 3.  **Master the Double Jump**: The double jump is your most versatile tool. It can be used to gain extra height, extend your airtime to wait for a truck to get into position, or to correct your trajectory mid-air after a bad initial jump.
-[JA TRANSLATION NEEDED] 4.  **Use the Sides of Trucks**: You can cling to and slide along the sides of trucks. This is a crucial life-saving technique. If you are about to miss a landing, aim for the side of the truck. This allows you to recover, readjust, and jump again.
-[JA TRANSLATION NEEDED] 5.  **Learn the Level Patterns**: The truck movements in each level are not random; they follow a set pattern. The game is about trial and error. Pay attention to how the trucks move on each attempt. Memorizing the route is key to completing difficult levels.
-[JA TRANSLATION NEEDED] 6.  **Think Vertically**: Don't just jump between trucks at the same height. Look for opportunities to jump from a low truck onto the roof of a much taller one to find a safer or faster path.
-[JA TRANSLATION NEEDED] 7.  **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
-
-### **Controls Guide**
-
-[JA TRANSLATION NEEDED] The controls are similar to most first-person PC games.
-
-*   **Move**: `W`, `A`, `S`, `D` keys
-*   **Look**: Mouse
-*   **Jump**: `Space Bar`
-*   **Double Jump**: Press `Space Bar` again while in the air
-*   **Sprint**: `Shift` key (hold down to run faster)
-*   **Pause/Menu**: `Esc` key
+Success in Cluster Rush is about mastering movement and learning the levels.
+1.  **先を見る:** 足元ばかり見ていてはいけません。常に2〜3台先のトラックを見て、着地点を予測しましょう。
+2.  **勢い（モメンタム）が命:** ジャンプの距離は助走スピードに比例します。常にスプリント（Shiftキー）を使い、勢いをつけてから飛びましょう。ただし、制御のためにあえてスピードを落とす場面もあります。
+3.  **ダブルジャンプを駆使する:** 空中でもう一度ジャンプできます。これは飛距離を伸ばすだけでなく、着地点の微調整や、空中でトラックが来るのを待つ時間稼ぎにも使えます。
+4.  **側面にしがみつく:** トラックの上面だけでなく、**側面**にも張り付いてよじ登ることができます。ジャンプが届かなそうな時は、側面を狙ってリカバリーしましょう。
+5.  **パターンを覚える:** 一見ランダムに見えますが、トラックの動きや事故り方は決まっています。「ここで右のトラックが横転する」といったパターンを死んで覚えましょう。
+6.  **失敗を受け入れる:** 何百回も落ちることになりますが、イライラしてはいけません。即座にリトライできるので、失敗から学んで次に活かしましょう。
 
 
 - **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
-[JA TRANSLATION NEEDED] **Note:** Grabbing or sliding along the side of a truck is a contextual action. You do not need to press a specific key; simply make contact with the side of a truck while in the air.
+### 操作ガイド
 
-### **Frequently Asked Questions (FAQ)**
+一般的なFPSゲームと同じ操作感です。
 
-[JA TRANSLATION NEEDED] **1. Are the truck movements random in each level?**
-
-
-
-
-
-
-- **Pause/Menu**: `Esc` key
-- **Sprint**: `Shift` key (hold down to run faster)
-- **Double Jump**: Press `Space Bar` again while in the air
-- **Jump**: `Space Bar`
-- **Look**: Mouse
-- **Move**: `W`, `A`, `S`, `D` keys
-[JA TRANSLATION NEEDED] No, the patterns are pre-determined for each level. While it may look chaotic, the trucks' paths are the same every time you play a specific level, making it possible to learn and master the routes.
+*   **移動:** `W`, `A`, `S`, `D` キー
+*   **視点移動:** マウス
+*   **ジャンプ:** `スペースキー`
+*   **ダブルジャンプ:** 空中で `スペースキー`
+*   **スプリント（ダッシュ）:** `Shift` キー（押している間速くなる）
+*   **リトライ/一時停止:** `R` キー / `Esc` キー
 
 
-### **Frequently Asked Questions (よくある質問)**
-[JA TRANSLATION NEEDED] **2. I keep falling short on my jumps. What am I doing wrong?**
-[JA TRANSLATION NEEDED] This is almost always a momentum issue. Make sure you are holding down the `Shift` key to sprint before you make a long jump. For very long jumps, ensure you have a decent "runway" on the truck before you leap.
-
-[JA TRANSLATION NEEDED] **3. Is there a way to save my progress in the middle of a level?**
-[JA TRANSLATION NEEDED] No, there are no checkpoints. Each level must be completed from start to finish in a single run. This is a core part of the game's design and challenge.
-
-[JA TRANSLATION NEEDED] **4. How do I unlock new worlds or levels?**
-[JA TRANSLATION NEEDED] You unlock new levels and worlds by successfully completing the previous ones in sequential order.
-
-[JA TRANSLATION NEEDED] **5. Some levels seem impossible. Any advice?**
-[JA TRANSLATION NEEDED] Patience is key. If you are truly stuck, take a break to clear your head. You can also try watching a video playthrough of that specific level online to see the intended or an alternative route you may not have considered. Often, there's a specific trick or path that makes it much easier.
-
-
+**Note:** Grabbing or sliding along the side of a truck is a contextual action. You do not need to press a specific key; simply make contact with the side of a truck while in the air.
+### よくある質問 (FAQ)
 
 
 Patience is key. If you are truly stuck, take a break to clear your head. You can also try watching a video playthrough of that specific level online to see the intended or an alternative route you may not have considered. Often, there's a specific trick or path that makes it much easier.
+
 **5. Some levels seem impossible. Any advice?**
+
+You unlock new levels and worlds by successfully completing the previous ones in sequential order.
+
+**4. How do I unlock new worlds or levels?**
+
+No, there are no checkpoints. Each level must be completed from start to finish in a single run. This is a core part of the game's design and challenge.
+
+**3. Is there a way to save my progress in the middle of a level?**
+
+This is almost always a momentum issue. Make sure you are holding down the `Shift` key to sprint before you make a long jump. For very long jumps, ensure you have a decent "runway" on the truck before you leap.
+
+**2. I keep falling short on my jumps. What am I doing wrong?**
+
+No, the patterns are pre-determined for each level. While it may look chaotic, the trucks' paths are the same every time you play a specific level, making it possible to learn and master the routes.
+
+**1. Are the truck movements random in each level?**
+*   **Q: トラックの動きはランダムですか？**
+    *   **A:** いいえ、完全にパターン化されています。何度やり直しても同じ動きをするので、ルートを暗記すればクリア可能です。
+
+*   **Q: ジャンプが届きません。**
+    *   **A:** スピード不足です。ジャンプする前に確実に`Shift`キーでダッシュしてください。
+
+*   **Q: 途中セーブはありますか？**
+    *   **A:** 各ステージごとのセーブ（アンロック）はありますが、ステージ内での中間ポイント（チェックポイント）はありません。落ちたらスタート地点からです。

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: basket-random
-title: '[ES] Basket Random'
+title: "Basket Random baloncesto caótico con un botón"
 description: >-
-  [ES] A guide to Basket Random, the wacky and unpredictable physics-based
-  basketball game. Learn the one-button controls, strategies for embracing
-  chaos, and how to win in this hilarious 2-player game.
+  Basket Random es un juego de baloncesto con físicas locas y cambios aleatorios
+  en cada punto. Domina el único botón, acepta el caos y aprende a ganar en
+  partidas llenas de situaciones absurdas.
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/basket-random.jpg
@@ -17,55 +17,85 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+*Basket Random* es un juego de baloncesto en 2D con físicas ragdoll y un nivel
+de aleatoriedad altísimo. Dos equipos de dos jugadores "muñeco de trapo" se
+enfrentan en una cancha lateral con un objetivo muy simple: ser el primer equipo
+en anotar 5 puntos.
 
+Lo especial es que casi todo cambia en cada punto: la pista puede hacerse más
+larga, más corta o cubrirse de hielo; los jugadores pueden tener brazos
+larguísimos, cabezas enormes o volverse muy rebotones; incluso el balón cambia,
+convirtiéndose en un balón de fútbol, una bola de bolos o una pelota pequeña y
+rápida.
 
+El control sobre los personajes es muy limitado: se mueven y saltan de forma
+algo torpe. La jugabilidad se basa menos en la precisión y más en dominar el
+**timing de un único botón** para saltar, agitar los brazos y, con suerte,
+mandar la bola al aro rival. Ese caos calculado hace que cada partida sea un
+espectáculo frenético y muy divertido.
 
-### Detailed Introduction
+### Estrategia de juego
 
-*Basket Random* is a chaotic and hilarious physics-based basketball game defined by its extreme randomness. The game pits two teams of two ragdoll-like players against each other on a 2D court. The objective is simple: be the first team to score 5 points.
+Ganar en *Basket Random* consiste en domar el caos, no en controlarlo del todo.
 
-What makes the game unique is that almost everything changes with every point scored. The court might become long, short, or icy. The players might get long arms, big heads, or become bouncy. Even the ball itself can change, transforming from a standard basketball into a football, a bowling ball, or even a smaller, faster ball.
+1.  **Abraza el caos:** Asume desde el principio que no tendrás control
+    perfecto. Los jugadores tropezarán y girarán de formas raras. Tu meta es
+    influir en sus movimientos en el momento adecuado, no dirigirlos como si
+    fueran un juego de simulación.
+2.  **Domina el timing del botón:** Solo tienes una tecla, así que el *cuándo*
+    la pulsas es lo que cuenta.  
+    *   **En ataque:** Pulsa para saltar hacia el balón o para hacer un gesto de
+        tiro cuando lo tengas en las manos. Un salto bien cronometrado puede
+        lanzar el balón directo al aro.  
+    *   **En defensa:** Saltar en el momento justo puede bloquear un tiro rival
+        o robar el balón en el aire. Procura situarte entre la bola y tu
+        canasta.
+3.  **Usa a los demás jugadores:** La física se aplica a todos. Chocar con otros
+    muñecos puede hacerles perder el balón o desviar su trayectoria. Incluso
+    puedes usar la cabeza del rival o de tu compañero como plataforma para
+    saltar más alto.
+4.  **Adáptate al instante a cada variación:** Tras cada punto, detente un
+    segundo y observa qué ha cambiado. ¿La pista está resbaladiza? ¿El balón es
+    pesado? ¿Tenéis brazos enormes? Ajusta tu forma de jugar. Por ejemplo, en un
+    suelo helado te deslizarás más, así que tendrás que pulsar el botón antes
+    para compensar.
+5.  **Mantén cierta lógica de posición:** Dentro del caos, intenta que tus
+    jugadores mantengan posiciones útiles. En defensa, quédate más cerca de tu
+    aro. En ataque, sitúate debajo del balón para impulsarlo hacia la canasta
+    contraria.
 
-Players have extremely limited control over their characters, who move and jump in an unwieldy, floppy manner. The gameplay is less about precise skill and more about mastering the timing of a single button press to jump, flail, and hopefully guide the ball into the opponent's hoop. This unpredictable nature makes every match a frantic and comical experience.
+### Guía de controles
 
-### Gameplay Strategy
+El juego usa un esquema de un botón por jugador, pensado para dos personas en el
+mismo teclado.
 
-Winning in *Basket Random* is about taming the chaos, not controlling it.
+*   **Jugador 1:**  
+    *   **Tecla `W` o Flecha Arriba:** Saltar / agitar brazos.  
+*   **Jugador 2:**  
+    *   **Tecla `↑` o `W` (según versión):** Saltar / agitar brazos.  
+*   **Móvil / táctil:**  
+    *   Toca el lado izquierdo de la pantalla para el Jugador 1 y el derecho
+        para el Jugador 2.
 
-1.  **[ES]** **Embrace the Chaos:** The first and most important rule is to accept that you cannot fully control your players. They will stumble, fall, and spin unpredictably. The goal is to influence their actions at the right moment, not dictate their every move.
-2.  **[ES]** **Master Your Timing:** Since you only have one button, *when* you press it is the only skill that matters.
-    *   **[ES]** **On Offense:** Press the button to jump towards the ball or to perform a "shooting" motion when you have it. Sometimes a well-timed jump can launch the ball from your hands directly into the basket.
-    *   **[ES]** **On Defense:** Timing your jump correctly can block an opponent's shot or even steal the ball mid-air. Get your player between the ball and your basket.
-3.  **[ES]** **Use Your Opponent (and Teammate):** The physics engine applies to everyone. Bumping into other players can knock the ball loose or change their trajectory. You can even inadvertently use another player's head as a platform to jump higher.
-4.  **[ES]** **Adapt Instantly to New Conditions:** After every point, take a split second to assess the new random elements. Is the court now covered in ice? Is the ball heavy? Are your arms comically long? Your strategy must change immediately. For example, on an icy court, you'll slide more, so you need to press the button earlier to account for the drift.
-5.  **[ES]** **Positional Awareness:** Despite the randomness, try to keep your players in a useful position. On defense, stay closer to your own basket. On offense, try to get under the ball to propel it toward the opponent's hoop.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+**1. ¿Cómo controlo bien al personaje?**  
+Realmente no puedes, y esa es la gracia. Solo influyes en él con el timing del
+salto; el resto lo decide la física ragdoll.
 
-The game is famous for its extremely simple, single-button control scheme, designed for two players on one keyboard.
+**2. ¿Por qué cambia la pista, el balón o los jugadores en cada punto?**  
+Es la mecánica central "Random" del juego, que garantiza que ninguna ronda sea
+igual y mantiene la experiencia fresca y sorprendente.
 
-*   **[ES]** **Player 1:**
-    *   **[ES]** **`W` Key** or **`Up Arrow` Key**: Jump / Fling arms.
-*   **[ES]** **Player 2:**
-    *   **[ES]** **`Up Arrow` Key** or **`W` Key**: Jump / Fling arms. (The controls depend on the specific version, but it's always one key per player).
-*   **[ES]** **For Mobile / Touchscreen Devices:**
-    *   **[ES]** Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
+**3. ¿Cómo se gana un partido?**  
+El primer jugador o equipo que llegue a 5 puntos se lleva la victoria.
 
-### Frequently Asked Questions (FAQ)
+**4. ¿Puedo jugar solo?**  
+Sí, *Basket Random* incluye modo para un jugador contra la IA.
 
-**1. How do I properly control my character?**
-You don't—and that's the point of the game! You can only influence your character by timing your jumps. The ragdoll physics are designed to be clumsy and unpredictable for comedic effect.
-
-**2. Why does the court/ball/player change after every point?**
-This is the core "Random" mechanic of the game. It ensures that no two rounds are the same and keeps the gameplay fresh and unpredictable.
-
-**3. How do I win a match?**
-The first player (or team) to score 5 points wins the entire match.
-
-**4. Can I play this game by myself?**
-Yes, *Basket Random* includes a single-player mode where you can compete against a computer-controlled AI opponent.
-
-**5. What is the best "random" variation?**
-There is no "best" variation, as they are all designed to be chaotic. However, some players find the long-armed players useful for blocking and shooting, while others enjoy the challenge of a heavy bowling ball or an icy court. The fun comes from adapting to whatever the game throws at you.
-
+**5. ¿Cuál es la mejor variación aleatoria?**  
+No hay una mejor; todas están pensadas para ser caóticas. A algunos les gustan
+los brazos largos para tapar tiros, otros disfrutan el reto de un balón pesado o
+una pista helada. La diversión está en adaptarse a lo que toque.

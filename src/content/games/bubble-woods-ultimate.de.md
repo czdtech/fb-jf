@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bubble-woods-ultimate
-title: '[DE] Bubble Woods Ultimate'
+title: "Bubble Woods Ultimate"
 description: >-
-  [DE] Race against the clock in this fast-paced bubble shooter! You have 60
-  seconds to pop as many bubbles as you can, create massive combos, and use
-  powerful boosters to get the highest score.
+  Liefere dir ein Rennen gegen die Zeit im schnellen Bubble Woods Ultimate.
+  Du hast 60 Sekunden, um so viele Blasen wie möglich zu platzen, gewaltige
+  Kombos aufzubauen und mit starken Boostern einen neuen Highscore aufzustellen.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/bubble-woods-ultimate.png
 tags:
@@ -17,36 +17,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Bubble Woods Ultimate* ist ein energiegeladener, temporeicher Bubble-Shooter,
+der dich herausfordert, innerhalb eines strengen 60-Sekunden-Limits so viele
+Punkte wie möglich zu sammeln. In einem leuchtenden Waldsetting schießt du
+Blasen, um Dreier- (oder größere) Gruppen derselben Farbe zu bilden, Ketten zu
+auszulösen und massenhaft Punkte einzuheimsen.
 
-### Detailed Game Introduction
+Dank mächtiger Booster und eines Levelsystems, das präzises und schnelles Spiel
+belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
 
-Bubble Woods Ultimate is a high-energy, fast-paced bubble shooter that challenges you to score as many points as possible within a tight 60-second time limit. Set in a vibrant forest, you must shoot bubbles to create matches of three or more, triggering cascades and earning massive points. The game features a variety of powerful boosters and a level-up system that rewards skillful play, making every round an exciting race against the clock.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  Tempo ist alles: Mit nur 60 Sekunden auf der Uhr zählt jede Aktion. Zögere
+    nicht zu lange mit einem Schuss – ziele zügig und halte den Spielfluss
+    hoch.
+2.  Fireball-Kombo aufbauen: Für richtig hohe Punktzahlen ist der Fireball
+    entscheidend. Du erhältst ihn, wenn du 10 Treffer in Folge landest, also
+    10 Schüsse hintereinander, die jeweils eine Kombination bilden. Der
+    Fireball kann an jede Stelle geschossen werden und räumt ein großes Feld
+    frei – setze ihn an engen oder kritischen Stellen ein.
+3.  Lawinen auslösen: Wie in klassischen Bubble-Shootern kommen die meisten
+    Punkte zustande, wenn du große Cluster abkoppelst. Ziele daher bevorzugt
+    auf kleine Gruppen, die große Blöcke darunter tragen, damit ganze
+    Blasenpakete auf einmal fallen.
+4.  Power-ups klug nutzen: Achte auf Spezialblasen im Spielfeld:
+    *   Rainbow Bubble: Passt sich der Farbe an, die sie berührt, und hilft dir
+        beim Vervollständigen von Kombinationen.
+    *   Bomb Bubble: Explodiert beim Aufprall und räumt ein kleines Gebiet.
+    *   Hourglass (Stundenglas): Das wertvollste Symbol – ein Treffer fügt
+        deiner Uhr einige wertvolle Sekunden hinzu.
 
-1.  **[DE]** **Speed is Everything:** With only 60 seconds on the clock, you need to be fast. Aim and shoot quickly. Don't spend too long deliberating on a single shot.
-2.  **[DE]** **Build Your Combo for a Fireball:** The key to a huge score is the Fireball. You earn it by making 10 consecutive successful matches (10 "hits"). The Fireball can be shot anywhere and will destroy a large area of bubbles, so use it strategically.
-3.  **[DE]** **Aim for Avalanches:** Just like in classic bubble shooters, the biggest points come from detaching large clusters of bubbles. Aim high to pop a small group that is supporting a much larger group below.
-4.  **[DE]** **Utilize Power-ups:** Keep an eye out for special bubbles on the board:
-    *   **[DE]** **Rainbow Bubble:** Will act as any color it touches, helping you complete a match.
-    *   **[DE]** **Bomb Bubble:** Explodes on impact, clearing a small cluster.
-    *   **[DE]** **Hourglass:** The most valuable one—hitting it adds a few precious seconds to your timer.
+### Steuerung
 
-### Controls Guide
+*   Zielen: Bewege die Maus, um die Kanone auszurichten.
+*   Schießen: Klicke mit der linken Maustaste, um eine Blase abzufeuern.
+*   Tauschen: In vielen Versionen kannst du auf die Kanone oder die nächste
+    Blase in der Warteschlange klicken, um zwischen der aktuellen und der
+    kommenden Blase zu wechseln.
 
-*   **[DE]** **Aim:** Move your mouse to aim the bubble cannon.
-*   **[DE]** **Shoot:** Click the left mouse button to fire the bubble.
-*   **[DE]** **Swap:** You can often click on the cannon or the next bubble in the queue to swap between your current and next projectile.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   F: Was ist das Hauptziel?
+    *   A: Innerhalb von 60 Sekunden so viele Punkte wie möglich zu erzielen.
 
-*   **[DE]** **Q: What is the main objective?**
-    *   **[DE]** **A:** To score as many points as you can within the 60-second time limit.
+*   F: Wie bekomme ich mehr Zeit?
+    *   A: Zusätzliche Sekunden erhältst du ausschließlich über die speziellen
+        Hourglass-Blasen, die auf dem Spielfeld auftauchen.
 
-*   **[DE]** **Q: How do I get more time?**
-    *   **[DE]** **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
-
-*   **[DE]** **Q: What is the bar at the bottom next to the cannon?**
-    *   **[DE]** **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
-
+*   F: Was bedeutet die Leiste unten neben der Kanone?
+    *   A: Das ist deine Fireball-Anzeige. Sie füllt sich mit jedem erfolgreichen
+        Treffer. Nach 10 Treffern in Folge ist sie voll und dein nächster
+        Schuss wird zu einem mächtigen Fireball.

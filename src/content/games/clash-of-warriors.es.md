@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: clash-of-warriors
-title: '[ES] Clash of Warriors'
+title: "Clash of Warriors"
 description: >-
-  [ES] Clash of Warriors is a compact card battler — curve your plays, trade
-  efficiently, and outthink opponents.
+  Clash of Warriors condensa los duelos de cartas en rondas tácticas muy
+  compactas: curva bien tus jugadas, intercambia con eficiencia y supera a tus
+  rivales con mejores decisiones.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/clash-of-warriors.png
 tags:
@@ -15,28 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Clash of Warriors reduce el combate de cartas a partidas cortas y muy tácticas.
+Mantén la iniciativa con jugadas eficientes, lee las respuestas del enemigo y
+asegura el control de mesa para llevarte los duelos ajustados.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Clash of Warriors condenses card combat into short, tactical rounds. Build tempo with efficient plays, read enemy responses, and secure board control to win tight matches.
+1.  **Respeta la curva:** Intenta gastar tus recursos de forma limpia cada
+    turno; dejar recursos sin usar suele hacerte perder la iniciativa.
+2.  **Intercambios eficientes:** Prefiere líneas que eliminen amenazas rivales
+    conservando tus propias cartas clave.
+3.  **Condiciones de victoria:** Identifica pronto si tu plan es agresivo,
+    de iniciativa o de control, y ajusta tus decisiones a ese plan.
+4.  **Cartas de respuesta:** Si hay construcción de mazo, incluye respuestas a
+    las amenazas más comunes del metajuego.
+5.  **Mulligan (si existe):** Busca siempre cartas que encajen bien en los
+    primeros turnos para no quedarte atrás desde el inicio.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Curve discipline: Spend all resources cleanly each turn.
-2.  **[ES]** Efficient trades: Favor lines that remove enemy threats while preserving yours.
-3.  **[ES]** Win conditions: Identify your path (aggro/tempo/control) and play to it.
-4.  **[ES]** Tech picks: Include answers to common threats if deckbuilding exists.
-5.  **[ES]** Mulligan (if any): Seek early curve pieces.
+- Juega cartas haciendo clic o tocándolas y elige objetivos si es necesario; usa
+  el botón de fin de turno en la interfaz.
+- Pasa el ratón por encima o toca una carta para leer su texto completo.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Play cards by clicking/tapping; end turns via UI.
-- Hover/tap to inspect text.
+- **¿Manda demasiado el azar?**
+  El robo influye, pero las líneas que eliges y el orden en que juegas tus
+  cartas marcan la diferencia en partidas igualadas.
 
-### Frequently Asked Questions (FAQ)
+- **¿Es pay‑to‑win?**
+  Las versiones de navegador suelen ser autosuficientes; la progresión suele
+  depender de juego y no de pagos.
 
-- Is RNG decisive? Draws matter, but lines and sequencing win close games.
-- Pay‑to‑win? Browser versions are typically self‑contained.
-- Fast mode? Short matches suit quick sessions.
-
+- **¿Las partidas son rápidas?**
+  Sí, están pensadas para sesiones cortas y duelos rápidos.

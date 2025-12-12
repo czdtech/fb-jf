@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: fiddlebops-fix
-title: '[KO] Fiddlebops Fix - Play Fiddlebops Fix Online'
+title: "Fiddlebops Fix 피들밥스 픽스"
 description: >-
-  [KO] Fiddlebops Fix is a creative music game where players compose tracks,
-  explore interactive stories, and engage with a vibrant community, all for free
-  online.
+  Fiddlebops Fix는 다양한 오리지널 캐릭터와 사운드로 곡을 만드는 온라인
+  음악 제작 게임입니다. 자유롭게 루프를 조합해 나만의 트랙과 이야기를 만들어
+  보세요.
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
 thumbnail: /fiddlebops-polos.png
 tags:
@@ -14,27 +14,44 @@ score: 4.6/5  (217 votes)
 ---
 
 
+### Fiddlebops Fix만의 특징은?
 
-### So, what sets Fiddlebops Fix apart?
+Fiddlebops Fix는 단순한 음악 게임을 넘어, 개성 넘치는 캐릭터와 사운드스케이프로
+가득한 세계를 탐험하게 해 주는 창작 플랫폼에 가깝습니다. 음악에 익숙하지 않은
+플레이어도 드래그 앤 드롭만으로 곡을 만들 수 있고, 익숙한 플레이어라면 보다
+복잡한 구조와 스토리를 담은 트랙에 도전해 볼 수 있습니다.
 
-Fiddlebops Fix isn't just another face in the crowd; it's an innovative online music creation game that invites you into a whimsical world teeming with original characters and soundscapes. It aims to give newcomers and seasoned musicians a way to create and connect with others through the world of sound creation.
+### Fiddlebops Fix 세계에 빠져드는 법
 
-### Here's the lowdown on how to immerse yourself in the Fiddlebops Fix world:
+- **음악 크루 모으기**  
+  Fiddlebops Fix 전용 캐릭터 목록에서 원하는 캐릭터를 골라 무대에 올리며,
+  각 캐릭터의 루프와 효과음을 확인해 보세요. 캐릭터마다 리듬과 멜로디가
+  달라 조합에 따라 전혀 다른 곡이 탄생합니다.  
+- **트랙 작곡하기**  
+  캐릭터 아이콘을 드래그 앤 드롭해 무대에 배치하면, 자동으로 해당 사운드가
+  재생됩니다. 여러 레이어를 쌓아가며 마음에 드는 구간을 반복해 들어보고
+  세부 구성을 조정해 보세요.  
+- **사운드가 성장하는 세계**  
+  커뮤니티의 피드백과 공유를 통해 새로운 조합 아이디어를 얻고, 기존 트랙을
+  리믹스하는 식으로 계속해서 사운드를 발전시킬 수 있습니다.  
+- **이야기 만들기**  
+  캐릭터 선택과 배치를 통해 단순한 음악뿐 아니라, 작은 이야기와 장면을
+  연출해 보는 것도 가능합니다.  
 
-- **Round up your musical Crew:** Browse and pick from the cast of Fiddlebops Fix characters to lay the foundation. The vibrant sounds and rhythms are what makes this phase of the Mod stand out!
-- **Compose your masterpiece:** Craft away with drag and drop features and create tracks that speak to your musical soul. Combine new unique sounds with those all-time classics.
-- **Listen as your sounds Evolve:** The dynamic nature of this creative world allows you to always improve with the help of a vibrant community for feedback and collaboration.
-- **Become a Storyteller:** Your unique choices will alter characters, and shape compelling storylines on your one-of-a-kind journey!
+### 왜 Fiddlebops Fix를 해 봐야 할까요?
 
+- **오리지널 캐릭터와 사운드**  
+  Fiddlebops Fix에서만 만날 수 있는 캐릭터와 루프가 준비되어 있습니다.  
+- **제한 없는 창작 자유도**  
+  뚜렷한 승패가 없는 대신, 원하는 만큼 자유롭게 실험하고, 자신만의 스타일을
+  만들어 갈 수 있습니다.  
+- **스토리텔링까지 가능한 구조**  
+  선택에 따라 캐릭터와 사운드 구성이 달라지면서, 자연스럽게 하나의
+  스토리라인이 만들어지는 느낌을 줍니다.  
+- **커뮤니티와 함께 성장하는 음악**  
+  다른 플레이어와 트랙을 공유하고 피드백을 주고받으며, 혼자서는 떠올리기
+  어려운 새로운 조합을 발견할 수 있습니다.  
 
-### Looking for that extra magic? Here is why you need Fiddlebops Fix in your life:
+지금 바로 Fiddlebops Fix에서 무대 위에 첫 캐릭터를 올려 보세요.  
+당신만의 피들밥스 사운드를 만들 시간이 왔습니다.
 
-- **Original Characters are waiting for you:** You won’t find these Fiddlebops Fix characters anywhere else! Explore all the options, with all the sounds waiting to be tested!
-- **Open Access for your creative heart:** With no limits on options, craft your music to be authentic and true to your vision!
-- **Become a writer today:** Forge the history of these unique sounds with the choice-driven storylines available. Each one is a world of its own waiting to be discovered.
-- **Become a part of the best crew in town:** Trade tips, share your musical talent and connect with others and celebrate with others while you let your imagination run wild!
-
-
-With Fiddlebops Fix now is your time to take your shot at becoming a musical master that has something for everyone. If this is the type of journey that you have been looking for, I highly suggest giving it a shot today! It has heart, and a vibrant world of creativity that all players can dive into!
-
-Now it is time for you to take the stage and set the world on fire Fiddlebops Fix style.

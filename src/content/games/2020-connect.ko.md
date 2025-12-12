@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 2020-connect
-title: '[KO] 2020 Connect'
+title: '2020 Connect 2020 커넥트'
 description: >-
-  [KO] 2020 Connect is a number‑merge puzzler — connect equal tiles, create
-  higher values, and manage space for big chains.
+  같은 숫자 타일을 선으로 이어 합치고 공간을 관리하며 긴 콤보를 노리는
+  차분한 숫자 연결 퍼즐 게임입니다.
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
 thumbnail: /new-images/2020-connect.png
 tags:
@@ -14,30 +14,44 @@ score: 4.2/5  (1965 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+2020 Connect는 차분하게 즐길 수 있는 전략형 숫자 합치기 퍼즐입니다. 같은
+숫자 타일을 선으로 이어 하나로 합치고, 더 높은 숫자를 만들면서 보드에 공간을
+확보해 연쇄 반응을 노립니다. 타일 간의 간격을 잘 유지하고 미래에 생길 자리도
+생각해 두면 높은 점수를 오래 이어 갈 수 있습니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **중앙에 핵심 숫자 두기:** 높은 숫자 타일은 여러 방향으로 이어 붙일 수
+    있도록 가능한 한 중앙 쪽에 모아 두는 것이 좋습니다.
+2.  **모서리는 피하기:** 모서리 칸에 높은 숫자가 박혀 버리면 합치기가
+    힘들어집니다. 꼭 필요할 때가 아니면 가장자리는 보조용으로만 사용하세요.
+3.  **연쇄를 설계하기:** 한 번의 연결로 여러 번의 합치기가 이어지도록, 같은
+    숫자 타일을 목표 타일 주변에 미리 배치해 두세요.
+4.  **공간 관리:** 언제든 막힌 상황을 풀 수 있도록 최소 한 줄 정도는 여유
+    라인을 남겨 두는 것이 좋습니다.
+5.  **단계적으로 합치기:** 가장 큰 숫자만 노리며 무리하게 합치기보다는,
+    여러 단계를 거쳐 천천히 올려야 선택지가 더 많이 남습니다.
 
-2020 Connect is a calm, strategic number‑merge game. Draw connections between tiles of the same value to merge them into the next value, open space, and set up cascades. Smart spacing and future‑proofing keep the board alive for high scores.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 선 긋기: 마우스 클릭/터치 후 드래그해 같은 숫자 타일을 규칙에 맞게 이어
+  합칩니다.
+- 되돌리기(지원되는 경우): 제한된 횟수의 실행 취소로 잘못 그은 선을 바로잡을
+  수 있습니다.
+- 재시작: 언제든 새 보드에서 처음부터 다시 시작할 수 있습니다.
 
-1.  **[KO]** Build centers: Keep higher values central so they can connect in multiple directions.
-2.  **[KO]** Avoid corners: Corners trap values and stall merges; use edges sparingly.
-3.  **[KO]** Plan cascades: Position pairs so a single merge triggers additional merges.
-4.  **[KO]** Space management: Always leave at least one flexible lane to escape bad spawns.
-5.  **[KO]** Incremental merges: Don’t rush to max a value—step merges maintain options.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **공간이 금방 가득 차요. 어떻게 해야 하나요?**  
+  한 번에 큰 숫자를 만드는 것만 노리기보다, 한 줄을 비워 탈출구를 만드는
+  데 집중하세요.
 
-- Draw: Click/tap and drag to connect equal numbers per rules.
-- Undo (if available): Limited undos can salvage mis‑draws.
-- Restart: Start a fresh board at any time.
+- **엔딩이나 승리 조건이 있나요?**  
+  보통은 끝이 없는 점수 경쟁 모드에 가깝습니다. 특정 목표 숫자를 달성하거나
+  자신의 최고 점수를 갱신하는 것을 목표로 플레이해 보세요.
 
-### Frequently Asked Questions (FAQ)
-
-- I run out of space—what now? Focus on clearing a lane rather than chasing a single big merge.
-- Is there a win condition? Typically endless; aim for target values or high score milestones.
-- Any pattern tips? Centralize big tiles; keep small tiles near edges as feeders.
-
+- **패턴이나 배치 팁이 있나요?**  
+  큰 숫자 타일은 중앙 쪽에 두고, 작은 숫자는 가장자리에 배치해 공급원처럼
+  사용하는 것이 좋습니다.

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: diwali-lights
-title: '[ZH TRANSLATION NEEDED] Diwali Lights'
+title: "Diwali Lights 排灯节点灯谜题"
 description: >-
-  [ZH TRANSLATION NEEDED] Diwali Lights is a festive tap‑puzzle — light diyas in
-  patterns, avoid overlaps, and complete glowing designs.
+  《Diwali Lights 排灯节点灯谜题》是一款节日气氛十足的点灯解谜游戏。你需要按照规则点
+  亮油灯（diyas），在不违反限制的前提下完成发光图案，有些关卡还带有步数或时间限制。
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/diwali-lights.jpg
 tags:
@@ -18,23 +18,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Diwali Lights is a holiday‑themed light‑up puzzle. Activate lamps (diyas) in the correct order or pattern to illuminate designs without crossing rules. Later stages add limited moves, switches, and timing.
+《Diwali Lights 排灯节点灯谜题》以印度排灯节为主题，你需要在棋盘上依次点亮油灯（diyas）或
+开关，让整体图案呈现出完整的节日灯光效果。不同关卡会设置各种额外规则，例如禁止重复点亮
+特定路径、必须按照指定顺序经过灯位，或者要求在限定步数内点亮全部目标灯。后期还会加入开
+关、联动机关和计时元素，让每一关都像是一幅小型灯光线路图。 
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Understand rules: Some boards restrict overlaps or require sequences—read objectives first.
-2.  [ZH TRANSLATION NEEDED] Plan routes: Map a path that minimizes backtracking and respects move limits.
-3.  [ZH TRANSLATION NEEDED] Save toggles: Use switches to open multiple goals at once.
-4.  [ZH TRANSLATION NEEDED] Visual groups: Solve one motif at a time to simplify the board.
-5.  [ZH TRANSLATION NEEDED] Retry optimization: Short puzzles reward fast restarts after missteps.
+
+1.  **先看清关卡规则：** 有些关卡禁止灯光路径交叉，有些要求按顺序依次点亮特定灯位，开始前
+    一定要先阅读目标说明，避免一上来就走错方向浪费步数。  
+2.  **预先规划线路：** 把关卡抽象成一条需要走完的路径，在脑中画出一条尽量少回头、少重复的
+    行进路线，以减少无效移动和步数浪费。  
+3.  **节省开关/机关的使用：** 对于会改变多处灯光状态的开关，把它们留在能同时满足多个目标
+    的时机再使用，而不是看到就随手点。  
+4.  **将图案拆成几个小块逐个解决：** 面对复杂图案时，可以先把整体分成几个局部“花纹”，先集
+    中点亮一个局部，再衔接到下一个局部，避免被整体复杂度压垮。  
+5.  **短关卡多尝试不同方案：** 很多关卡很短，哪怕走错几步，重来一次也不会花太久时间。遇到
+    明显走歪的情况，果断重开比硬着头皮补救更有效率。  
 
 ### Controls Guide
 
-- Tap/Click lamps, switches, or tiles per puzzle rules.
-- Undo/Reset if the mode allows.
+- 按关卡规则点击/轻触油灯、开关或棋盘格子来点亮或关闭，部分关卡可能包含拖动操作；  
+- 若支持撤销/重置，可利用这些按钮快速回滚或从零开始重新规划。  
 
 ### Frequently Asked Questions (FAQ)
 
-- I keep failing on move limits—why? Your path wastes steps; redraw a shorter route.
-- Timed boards? Complete motifs near timers first.
-- Are hints available? Often yes; use them sparingly.
+- **Q: 总是在步数限制上失败，怎么办？**  
+  **A：** 说明你的线路存在明显绕路或重复走格。尝试在动手之前先在脑中或纸上画出一条覆盖所
+  有目标的最短路径，再按这条思路操作。  
 
+- **Q: 有计时关卡时应该先做什么？**  
+  **A：** 优先处理靠近计时器或与计时相关的“子图案”，避免最后时间快到才去点亮远离起点的图
+  形导致超时。  
+
+- **Q: 游戏有提示功能吗？**  
+  **A：** 许多版本会提供有限次数的提示，可在多次尝试无果时使用。但如果你希望保留解谜的乐
+  趣，建议先自己多试几种线路再求助。  

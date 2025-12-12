@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: sudoku-plus
-title: '[KO] Sudoku Plus'
+title: Sudoku Plus 스도쿠 플러스
 description: >-
-  [KO] A feature-rich Sudoku experience. Enjoy the classic logic puzzle with
-  helpful tools like hints, notes, and error checking to challenge your brain.
+  Sudoku Plus는 힌트, 메모, 오류 체크 등 편의 기능을 갖춘 9x9 스도쿠 퍼즐 컬렉션입니다. 입문자부터 숙련자까지 논리 퍼즐을
+  깔끔한 인터페이스로 즐길 수 있습니다.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/sudoku-plus.jpg
 tags:
@@ -17,34 +17,63 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Sudoku Plus는 고전 숫자 퍼즐 스도쿠를 깔끔한 화면과 다양한 편의 기능으로
+즐길 수 있는 버전입니다. 목표는 9x9 격자를 채워, 각 가로줄·세로줄·3x3 박스에
+1부터 9까지 숫자가 한 번씩만 들어가게 만드는 것입니다. 난이도에 따라 적절한
+힌트와 메모 기능, 오류 체크 기능이 제공되어 입문자에게도 친절하고,
+숙련자에게는 쾌적한 플레이 환경을 제공합니다.
 
-Sudoku Plus offers a premium experience for the timeless logic-based, number-placement puzzle. The goal is to fill a 9x9 grid so that each column, each row, and each of the nine 3x3 subgrids contain all of the digits from 1 to 9. This version is packed with helpful features like hints, a notes mode, and error checking, making it perfect for both beginners learning the ropes and advanced players looking for a smooth and polished interface.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **스도쿠의 황금 룰:**
+    각 줄, 각 칸, 각 3x3 박스에는 1~9가 한 번씩만 등장해야 합니다. 이
+    기본 규칙을 계속 떠올리며 플레이하세요.
+2.  **기본 교차 체크:**
+    빈 칸 하나를 볼 때, 해당 줄·칸·박스에 이미 있는 숫자를 먼저 제외하면
+    후보 숫자가 크게 줄어듭니다.
+3.  **메모 기능 활용:**
+    난이도가 높은 퍼즐일수록, 빈 칸에 들어갈 수 있는 후보 숫자를 메모해 두는
+    것이 중요합니다. 다른 칸이 풀리면 메모를 지우거나 정정하며 가능성을
+    하나씩 제거해 나가세요.
+4.  **싱글 찾기:**
+    - 어떤 칸에 후보 숫자가 하나만 남았다면 "네이키드 싱글"로 바로 확정할 수
+      있습니다.
+    - 어떤 숫자가 특정 줄·칸·박스 안에서 오직 한 칸에만 들어갈 수 있다면
+      "히든 싱글"로 간주하고 그 칸을 채워야 합니다.
 
-1.  **[KO]** **The Golden Rule:** The core of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box. No repetition is allowed in any of these areas.
-2.  **[KO]** **Cross-hatching:** The fundamental solving technique. For an empty cell, scan its corresponding row, column, and 3x3 box to see which numbers are already present. By eliminating these, you can deduce which numbers are possible candidates for the cell.
-3.  **[KO]** **Use the Notes Feature:** For more complex puzzles, the "Notes" or "Pencil" mode is essential. Use it to mark down all possible candidates for an empty cell. As you solve other cells, you can update your notes, eventually narrowing down the possibilities to a single correct number.
-4.  **[KO]** **Find Singles:** Look for cells where only one number is possible (a "Naked Single"). Also, look for instances where a specific number can only go in one possible cell within a row, column, or box (a "Hidden Single").
+### 조작 방법 안내
 
-### Controls Guide
+*   **칸 선택:** 원하는 칸을 클릭합니다.
+*   **숫자 입력:** 선택한 칸에 화면 키패드나 키보드 숫자를 눌러 숫자를 입력합니다.
+*   **메모 모드 전환:** "메모" 또는 "연필" 버튼을 눌러, 정답 숫자 대신 작은
+    후보 숫자를 적는 모드로 전환할 수 있습니다.
+*   **힌트/오류 체크:** 제공되는 버전에 따라 힌트 버튼이나 오류 표시 기능을
 
-*   **[KO]** **Select a Cell:** Click on any empty cell in the grid.
-*   **[KO]** **Enter a Number:** After selecting a cell, click a number on the on-screen keypad to place it.
-*   **[KO]** **Toggle Notes Mode:** Use the dedicated "Notes" or "Pencil" button to switch between entering final answers and entering small candidate numbers.
-*   **[KO]** **Erase:** Use the eraser tool to clear a cell.
-*   **[KO]** **Hint:** Click the hint button to reveal the correct number for a single cell.
+- **Hint:** Click the hint button to reveal the correct number for a single cell.
+    사용할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: Do I need to be good at math?**
-    *   **[KO]** **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
+*   **Q: 막혔을 때는 어떻게 해야 하나요?**
 
-*   **[KO]** **Q: What does the "Notes" feature do?**
-    *   **[KO]** **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
+    A: 돌아가서 가장 단순한 칸부터 다시 보세요. 후보가 두 개뿐인 칸, 혹은
+    줄·칸·박스에서 특정 숫자가 거의 확실해 보이는 위치부터 재검토하는 것이
+    좋습니다.
 
-*   **[KO]** **Q: Will the game tell me if I make a mistake?**
-    *   **[KO]** **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
+    - **Q: 메모를 너무 많이 써서 판이 복잡해져요.**
 
+    A: 다른 칸이 풀릴 때마다 관련 칸의 후보를 바로 지워 주는 습관을 들이면,
+    전체 메모가 훨씬 깔끔해집니다.
+
+*   **Q: 난이도 차이가 큰가요?**
+
+
+    - **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
+
+- **Q: Will the game tell me if I make a mistake?**
+
+    - **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
+    A: 보통 쉬움·보통·어려움 등으로 나뉘며, 어려운 모드일수록 메모와 고급
+    기법(쌍/삼중 후보, 박스-라인 상호 작용 등)이 필요해집니다.

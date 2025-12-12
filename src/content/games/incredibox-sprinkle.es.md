@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-sprinkle
-title: '[ES] Incredibox Sprinkle - Play Incredibox Sprinkle Online'
+title: "Incredibox Sprinkle - Play Incredibox Sprinkle Online"
 description: >-
-  [ES] Sprinkle is a music creation game that is simple to operate and full of
-  fun. Whether you are a casual player or a fan interested in music production,
-  you can find your own fun in the world of Sprinkle.
+  Sprinkle es un juego de creación musical sencillo de manejar y lleno de
+  diversión. Tanto si eres un jugador casual como si te interesa la producción
+  musical, encontrarás tu propio espacio creativo en el mundo de Sprinkle.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
 thumbnail: /incredibox-sprinkle.png
 tags:
@@ -15,24 +15,35 @@ score: 3.8/5  (387 votes)
 
 
 
-### How to Play Sprinkle?
+### ¿Cómo se juega a Sprinkle?
 
-- **Drag and Combine:** Drag and drop various music characters to designated positions, let them play unique notes. Each character will contribute a unique sound that layers with others to form a full musical arrangement.
-- **Experiment and Innovate:** The core fun of Sprinkle lies in trying different sound combinations. You can create endless variations of tracks simply by rearranging characters.
+- **Arrastra y combina:** arrastra y suelta distintos personajes musicales en las
+  posiciones indicadas para que toquen sus notas únicas. Cada personaje aporta
+  un sonido diferente que se mezcla con los demás para formar un arreglo
+  completo.
+- **Prueba e innova:** la gracia de Sprinkle está en probar combinaciones de
+  sonidos. Solo con reordenar personajes puedes crear infinidad de variaciones.
 
+### Guía de manejo
 
-### Operation Guide:
+- **Uso del ratón:** el ratón es la herramienta principal. Arrastra los
+  personajes de la parte inferior hasta los huecos vacíos del escenario.
+- **Uso del teclado:** algunas versiones de Sprinkle permiten controles sencillos
+  con teclado, como usar la barra espaciadora para reproducir o pausar la
+  música.
+- **Atajos:** según la versión, puede haber atajos para silenciar/reactivar
+  rápidamente o limpiar todos los personajes del escenario.
 
-- **Mouse Operation:** The mouse is the primary control tool for the game. You can use the mouse to drag the characters at the bottom to the blank slots on the stage.
-- **Keyboard Operation:** Some versions of Sprinkle support simple keyboard operations, such as using the spacebar to start/stop the music.
-- **Shortcut Keys:** Shortcut keys may vary depending on the version, but they usually allow quick access to functions such as mute/unmute or clear all characters.
+### Puntos fuertes de Sprinkle
 
+- **Sencillo e intuitivo:** los controles son muy fáciles de entender, aptos
+  para jugadores de cualquier edad.
+- **Creatividad infinita:** la variedad de sonidos y la libertad para combinarlos
+  hacen posible crear piezas musicales totalmente únicas.
+- **Atajos de teclado útiles:** en algunas versiones, los atajos de teclado
+  hacen que el proceso de mezcla sea todavía más cómodo.
 
-### Highlights of Sprinkle:
-
-- **Simple and Easy to Use:** The game operation is simple and intuitive, suitable for players of all ages.
-- **Infinite Creative Possibilities:** The rich sound material and free combination methods allow you to create unique musical works.
-- **Keyboard Auxiliary Operation:** Some versions support keyboard shortcuts, making your mixing operations more convenient.
-
-
-Sprinkle is a music creation game that is simple to operate and full of fun. Whether you are a casual player or a fan interested in music production, you can find your own fun in the world of Sprinkle.Come to Sprinkle, unleash your remix creativity, and create unique musical works!
+Sprinkle es un juego de creación musical simple de manejar y muy entretenido.
+Tanto si solo quieres relajarte como si te interesa trastear con ideas de
+producción, aquí encontrarás un buen lugar para experimentar. Entra en Sprinkle,
+libera tu creatividad como remixer y crea temas que solo tú podrías imaginar.

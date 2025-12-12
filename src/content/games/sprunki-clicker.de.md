@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: sprunki-clicker
-title: '[DE] Sprunki Clicker - Play Sprunki Clicker Online'
-description: >-
-  [DE] Embark on an enchanting musical adventure where every click breathes life
-  into a symphony of your own making. Sprunki Clicker is more than a game—it
+title: "Sprunki Clicker - Sprunki Clicker online spielen"
+description: "In Sprunki Clicker begibst du dich auf ein magisches Musikabenteuer, bei dem jeder Klick neue Klänge, Figuren und Effekte freischaltet – bis aus einfachen Tönen eine wachsende Klangwelt entsteht."
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
 thumbnail: /sprunki-clicker.png
 tags:
@@ -12,12 +10,10 @@ tags:
 score: 4.7/5  (524 votes)
 ---
 
+Begib dich in Sprunki Clicker auf eine musikalische Reise, in der jeder Klick deine eigene kleine Symphonie lebendig macht. Das Spiel ist mehr als ein klassischer Clicker – du tauchst in eine Welt voller Rhythmus, Magie und stetig wachsender Klanglandschaften ein.
 
+Du erkundest eine bunte Umgebung voller fantasievoller Figuren und dynamischer Beats. Mit jedem Klick schaltest du neue Klangebenen frei: Aus einer einfachen Melodie wird nach und nach ein vielschichtiger, lebendiger Track. Dein charmant-chaotischer Begleiter Sprunkle führt dich dabei auf einer Mission, den legendären Harmonienbaum zu erwecken. Sammle mystische Energie, wecke uralte Sound Spirits und sieh zu, wie deine Welt sich mit Musik und Farben füllt.
 
-Embark on an enchanting musical adventure where every click breathes life into a symphony of your own making. Sprunki Clicker is more than a game—it's a journey into a world humming with rhythm and magic.
+In Sprunki Clicker haben deine Klicks Bedeutung: Du sammelst nicht nur Punkte, sondern arbeitest an einem musikalischen Kunstwerk. Nutze Ressourcen, um Instrumente zu verbessern, neue Spirits verschiedener Musikrichtungen freizuschalten und deinen Klang nach und nach zu verfeinern. Jeder Fortschritt macht deine Tonwelt dichter, voller und beeindruckender.
 
-Explore a vibrant landscape bursting with whimsical characters and dynamic beats. With each tap, you'll unlock new layers of sound, transforming a simple melody into a rich, evolving masterpiece. Your charming guide, Sprunkle, will lead you on a quest to nurture the legendary Harmony Tree. Collect mystical energy, awaken ancient Sound Spirits, and watch as your world blossoms with color and music.
-
-In Sprunki Clicker, your clicks have meaning. You aren't just earning points; you are an artist in the middle of the creative process. Collect resources to upgrade instruments, unlock rare Spirits representing diverse musical genres, and watch as your personal symphony unfolds with dazzling visual effects.
-
-This is a captivating blend of rhythm and storytelling, perfect for anyone who loves music, imagination, and a truly creative escape. Dive into the world of Sprunki Clicker and let the music guide you!
+Sprunki Clicker verbindet Clicker-Gameplay mit Erzählung, Musik und entspanntem Flow – perfekt für alle, die Rhythmus, Fantasie und kreative Pausen lieben. Tauch ein, lass dich von der Musik leiten und klicke dir deinen eigenen Sprunki-Soundtrack zusammen.

@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: rocket-league
-title: '[KO] Rocket League'
+title: "Rocket League 로켓 리그"
 description: >-
-  [KO] Rocket League is a high-octane sports game that combines soccer with
-  rocket-powered cars, where players drive, jump, and boost to hit a giant ball
-  into the opponent's goal in fast-paced aerial matches.
+  로켓 부스터가 달린 자동차로 축구를 즐기는 고속 스포츠 게임입니다.
+  점프와 부스트를 활용해 거대한 공을 상대 골대로 몰아 넣고, 화려한
+  공중 슛과 팀 플레이로 승리를 노려 보세요.
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/rocket-league.jpg
 tags:
@@ -18,34 +18,72 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Rocket League*는 로켓 부스터가 장착된 차량으로 축구 경기를 치르는
+독특한 스포츠 게임입니다. 플레이어는 자동차를 몰며 가속·점프·부스트를
+활용해 거대한 공을 상대 골대로 밀어 넣어야 합니다.
 
-### Game Introduction
+빠른 속도의 공중전과 물리 엔진 기반 충돌이 어우러져, 한 골 한 골이
+하이라이트처럼 느껴지는 것이 특징입니다.
 
-"Rocket League" is a high-octane sports game that combines soccer with rocket-powered cars. Players drive vehicles equipped with rocket boosters, using driving, jumping, and boosting to hit a giant ball with the goal of scoring in the opponent's goal. The game is famous for its fast-paced aerial combat and exciting physics engine.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **기본 조작부터 확실히 익히기**  
+   가속, 브레이크, 조향, 점프, 부스트 등 기본 조작에 완전히 익숙해져야
+   공중전과 세밀한 수비가 가능합니다. 튜토리얼과 연습 모드에서
+   충분히 연습해 두세요.
 
-1.  **[KO]** **Master Basic Controls**: Become proficient with acceleration, steering, jumping, and rocket boost basic operations.
-2.  **[KO]** **Aerial Skills**: Learn to control vehicles in the air for aerial hits and interceptions.
-3.  **[KO]** **Team Cooperation**: Coordinate with teammates for passing, assists, and defensive plays.
-4.  **[KO]** **Positional Awareness**: Maintain good field position, balancing offense with timely defensive returns.
-5.  **[KO]** **Boost Management**: Use rocket boost energy wisely, conserving energy for crucial moments and key plays.
+2. **공중 플레이(에어리얼) 연습하기**  
+   점프 후 부스트를 사용하면 공중에서 차량을 제어할 수 있습니다.
+   고난도지만, 공중 볼을 먼저 잡는 능력은 경기력에 큰 차이를
+   만들어 줍니다.
 
-### How to Play
+3. **팀워크 중시하기**  
+   개인 플레이로 혼자 드리블을 이어 가기보다, 패스와 어시스트를
+   통해 팀원과 역할을 분담하는 것이 효율적입니다. 한 명은 수비,
+   한 명은 중앙 지원, 한 명은 공격처럼 자연스럽게 포지션을 나눠
+   움직여 보세요.
 
-*   **[KO]** **Movement**: Use arrow keys or WASD to control vehicle acceleration, reverse, and steering.
-*   **[KO]** **Jump**: Press jump key to make the vehicle jump; can perform double jumps.
-*   **[KO]** **Rocket Boost**: Hold boost key for extra speed and aerial maneuverability.
-*   **[KO]** **Steering**: Use steering controls in the air to adjust vehicle attitude and direction.
+4. **포지셔닝 의식하기**  
+   항상 공 주변에만 몰려 있으면 역습에 취약해집니다. 최소 한 명은
+   뒷라인을 지키며, 공이 튀어 나왔을 때 바로 수비로 전환할 수
+   있도록 거리감을 유지하는 것이 중요합니다.
 
-### Frequently Asked Questions
+5. **부스트 관리하기**  
+   필드 곳곳에 있는 부스트 패드를 적절히 밟아 부스트 게이지를
+   유지하세요. 무조건 모두 먹기보다, 중요한 상황(수비 복귀,
+   슛 찬스)에 쓸 수 있도록 일정량을 항상 남겨 두는 것이 좋습니다.
 
-1.  **[KO]** **Q: How do I perform aerial hits?**
-**A**: Use jump and rocket boost to get airborne, then adjust vehicle angle to hit the ball; requires extensive practice to master.
-2.  **[KO]** **Q: How is rocket boost energy replenished?**
-**A**: Collect boost pads scattered around the field to restore boost energy; there are small and large boost pads available.
-3.  **[KO]** **Q: What game modes are available?**
-**A**: Typically includes 1v1, 2v2, 3v3, and other match modes, plus various special game modes.
-4.  **[KO]** **Q: How can I improve my skill level?**
-**A**: Practice basic operations more, watch high-level player match recordings, and gradually learn advanced techniques.
+### 조작 가이드
+
+- **이동/조향**: 방향키 또는 `WASD` 키로 가속·후진·좌우 조향을
+  조작합니다.  
+- **점프**: 점프 키를 눌러 차량을 점프시킵니다. 공중에서 다시
+  입력하면 더블 점프를 사용할 수 있는 버전도 있습니다.  
+- **부스트**: 부스트 키를 누르고 있는 동안 로켓 부스터가 작동해
+  급가속하거나 공중에서 자세를 제어할 수 있습니다.  
+- **공중 조향**: 점프 후에는 공중에서도 조향 키로 차량의 각도와
+  방향을 조절할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 공중 슛은 어떻게 연습하나요?**  
+   **A:** 연습 모드에서 점프 후 부스트를 동시에 사용해 보는 것부터
+   시작하세요. 공을 향해 비스듬히 뛰어오르며 차량 앞부분을 공에
+   맞추는 연습을 반복하면 점차 감이 잡힙니다.
+
+2. **Q: 부스트는 어떻게 채우나요?**  
+   **A:** 경기장 곳곳에 있는 작은/큰 부스트 패드를 밟으면 게이지가
+   채워집니다. 큰 패드는 한 번에 많은 양을 채우지만, 위치가
+   한정적이니 타이밍을 잘 봐야 합니다.
+
+3. **Q: 어떤 모드들이 있나요?**  
+   **A:** 일반적으로 1대1, 2대2, 3대3 등의 팀 매치 모드와, 특수 룰이
+   적용된 이벤트 모드 등이 존재합니다. 모드별로 팀 플레이와 포지션
+   운영 방식이 달라질 수 있습니다.
+
+4. **Q: 실력을 빨리 올리려면?**  
+   **A:** 기본 조작을 충분히 연습한 뒤, 상위 실력자의 리플레이를
+   보며 포지셔닝과 팀 플레이를 참고하세요. 공중전 연습과 드리블,
+   수비 복귀 루트를 단계적으로 익혀 나가는 것이 좋습니다.

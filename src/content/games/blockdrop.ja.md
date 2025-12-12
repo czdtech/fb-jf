@@ -1,83 +1,40 @@
 ---
+title: "BlockDrop ブロックドロップ"
+description: "「BlockDrop」はクラシックでリラックスできるブロックパズル。10x10のグリッドに形をはめてラインを消そう。シンプルだけど奥深い、ハイスコアを目指す戦略ガイド。"
+iframeSrc: "https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/"
+thumbnail: "/new-images/blockdrop.png"
+urlstr: "blockdrop"
+score: "4.3/5  (2200 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: blockdrop
-title: '[JA TRANSLATION NEEDED] BlockDrop'
-description: >-
-  [JA TRANSLATION NEEDED] A classic and relaxing block puzzle game. Drag and
-  drop the shapes onto the 10x10 grid to form complete lines and clear them from
-  the board. How high can you score?
-iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
-thumbnail: /new-images/blockdrop.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.3/5  (2200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*BlockDrop（ブロックドロップ）*は、戦略的思考と空間認識能力が試される、時代を超えて愛されるパズルゲームです。目的は、テトリスのような様々な形のブロックを10x10のグリッド（格子）に配置し、縦または横に完全に隙間なく埋まったラインを作ることです。ラインが完成すると消滅し、スペースが空いてポイントが入ります。時間制限がないため、盤面がいっぱいにならないようにじっくりと次の手を考えられる、リラックスしつつも手ごわいゲームです。
 
-[JA TRANSLATION NEEDED] BlockDrop is a timeless and engaging puzzle game that challenges your strategic thinking and spatial awareness. The goal is to place different block shapes onto a 10x10 grid to create complete lines, either horizontally or vertically. When a line is completed, it disappears, freeing up space and earning you points. With no time limit, it’s a relaxing yet challenging game where you must plan your moves carefully to prevent the board from filling up.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **3つすべてを計画する：** ゲームでは一度に3つのブロック候補が渡されます。最初の1つを置く前に、頭の中でシミュレーションして、**3つすべて**を置ける場所があるか確認しましょう。これを怠ると、置けないピースが手元に残って詰む原因になります。
+2.  **コンボを優先する：** 1ラインずつ消すのも良いですが、1つのブロックで一度に複数ラインを消す「コンボ」の方が圧倒的に高いスコアを得られます。常に同時消しのチャンスを狙いましょう。
+3.  **選択肢を広く保つ：** 1マスの孤立した穴を作らないようにしましょう。後で埋めるのが非常に困難です。盤面をできるだけ平らでオープンな状態（断片化していない状態）に保つほど、どんな変な形のブロックが来ても対応しやすくなります。
+4.  **回転なし：** このゲームの最大の難関は「ブロックを回転できない」ことです。固定された向きのまま、どのように組み合わせればハマるのかを学習し、パターンを認識する能力が問われます。
 
-[JA TRANSLATION NEEDED] 1.  **Plan for All Three Blocks:** The game provides you with three block shapes at a time. Before placing the first one, mentally check if there is a viable spot for all three. This prevents you from getting stuck with an unplaceable piece.
-[JA TRANSLATION NEEDED] 2.  **Prioritize Combos:** While clearing any line is good, clearing multiple lines at once with a single piece (a "combo") will award you a much higher score. Always be on the lookout for these opportunities.
-[JA TRANSLATION NEEDED] 3.  **Keep Your Options Open:** Try to avoid creating single, isolated holes in your grid, as they can be very difficult to fill later on. The more open and less fragmented your board is, the more options you will have for placing new pieces.
-[JA TRANSLATION NEEDED] 4.  **No Rotations:** The central challenge of the game is that you cannot rotate the blocks. You must learn to recognize the shapes and how they can fit together in their fixed orientations.
+### 操作ガイド
 
-### Controls Guide
+シンプルなドラッグ＆ドロップ操作です。
 
-[JA TRANSLATION NEEDED] The game features a simple drag-and-drop control scheme.
+*   **ブロックの配置：** 画面下にある3つのブロック候補の中から1つをマウスや指でドラッグし、10x10グリッドの空いている場所にドロップします。
 
-*   **Place Blocks:** Use your mouse or finger to drag one of the three shapes from the bottom and drop it onto an empty space on the 10x10 grid.
-    - **A:** No, blocks cannot be rotated. You must use them in the orientation they are given.（日本語訳が必要）
-    - **A:** The game ends when there is no available space on the grid to place any of the three current block shapes.（日本語訳が必要）
-    - **A:** High scores come from two things: longevity and combos. Play as long as possible by keeping the board clean. More importantly, try to set up the board so you can clear two, three, or even four lines with a single piece to get massive combo bonuses.（日本語訳が必要）
-    - **A:** No, blocks cannot be rotated. You must use them in the orientation they are given.（日本語訳が必要）
-    - **A:** The game ends when there is no available space on the grid to place any of the three current block shapes.（日本語訳が必要）
-    - **A:** High scores come from two things: longevity and combos. Play as long as possible by keeping the board clean. More importantly, try to set up the board so you can clear two, three, or even four lines with a single piece to get massive combo bonuses.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ブロックを回転させることはできますか？**
+    *   **A:** いいえ、ブロックは回転できません。与えられた向きのまま使う必要があり、これがパズルの主要な難易度要素になっています。
 
-*   **Q: Can I rotate the pieces?**
-[JA TRANSLATION NEEDED]     *   **A:** No, blocks cannot be rotated. You must use them in the orientation they are given.
+*   **Q: ゲーム終了の条件は？**
+    *   **A:** 現在手元にある3つのブロックのうち、どれか1つでも盤面に置ける場所がなくなったらゲームオーバーです。
 
-*   **Q: How does the game end?**
-[JA TRANSLATION NEEDED]     *   **A:** The game ends when there is no available space on the grid to place any of the three current block shapes.
-
-*   **Q: What's the best way to achieve a high score?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** High scores come from two things: longevity and combos. Play as long as possible by keeping the board clean. More importantly, try to set up the board so you can clear two, three, or even four lines with a single piece to get massive combo bonuses.
-
-
-
-
-
-
-
-
-
-
-    - **A:** High scores come from two things: longevity and combos. Play as long as possible by keeping the board clean. More importantly, try to set up the board so you can clear two, three, or even four lines with a single piece to get massive combo bonuses.
-- **Q: What's the best way to achieve a high score?**
-    - **A:** The game ends when there is no available space on the grid to place any of the three current block shapes.
-- **Q: How does the game end?**
-    - **A:** No, blocks cannot be rotated. You must use them in the orientation they are given.
-- **Q: Can I rotate the pieces?**
-### よくある質問（FAQ）
-- **Place Blocks:** Use your mouse or finger to drag one of the three shapes from the bottom and drop it onto an empty space on the 10x10 grid.
-
-
-
-
-
-
-    - **A:** High scores come from two things: longevity and combos. Play as long as possible by keeping the board clean. More importantly, try to set up the board so you can clear two, three, or even four lines with a single piece to get massive combo bonuses.
-- **Q: What's the best way to achieve a high score?**
-    - **A:** The game ends when there is no available space on the grid to place any of the three current block shapes.
-- **Q: How does the game end?**
-    - **A:** No, blocks cannot be rotated. You must use them in the orientation they are given.
+*   **Q: ハイスコアを出す一番のコツは？**
+    *   **A:** スコアには「生存時間」と「コンボ」の2つが関わります。まずは盤面を整理して長く生き残ること。そして何より重要なのは、2列、3列、あるいは4列を一気に消すような配置を作って「コンボボーナス」を稼ぐことです。

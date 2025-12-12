@@ -1,88 +1,40 @@
 ---
+title: "Ludo Legend"
+description: "このクラシックなボードゲームでルドーレジェンドになりましょう。ダイスを振り、トークンを移動し、対戦相手より先にボードの中央に競争します。"
+iframeSrc: "https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/"
+thumbnail: "/new-images/ludo-legend.png"
+urlstr: "ludo-legend"
+score: "4.3/5  (1888 votes)"
+tags: ["2 player", "card", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: ludo-legend
-title: '[JA TRANSLATION NEEDED] Ludo Legend'
-description: >-
-  [JA TRANSLATION NEEDED] Become a Ludo Legend in this classic board game. Roll
-  the dice, move your tokens, and race to the center of the board before your
-  opponents.
-iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
-thumbnail: /new-images/ludo-legend.png
-tags:
-  - 2 player
-  - card
-  - casual
-score: 4.3/5  (1888 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Ludo Legendは、愛されているクラシックなボードゲーム、ルドーの素晴らしいデジタルバージョンです。ゲームはフィニッシュへのレースです！各プレイヤーには4つのトークンがあり、目標は、それらすべてをスタートヤードから、ボード全体を周回し、ホーム列に入れることです。コンピューター対戦相手と対戦し、ダイスを振り、戦略を使用して対戦相手のトークンを捕獲し、スタートに送り返します。すべてのトークンを最初にホームに入れることで、ルドーレジェンドになりましょう！
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Ludo Legend is a fantastic digital version of the beloved classic board game, Ludo. The game is a race to the finish! Each player has four tokens and the goal is to get all of them from the starting yard, around the entire board, and into the home column. Play against computer opponents, roll the dice, and use strategy to capture your opponents' tokens and send them back to the start. Become a Ludo Legend by being the first to get all your tokens home!
+1.  **ヤードから出る:** ゲームボードにスタートヤードからトークンを移動するには、6を振る必要があります。できるだけ早く少なくとも1つのトークンをプレイに入れることを優先します。
+2.  **戦略的移動:** ボード上にトークンができたら、ダイスロールに基づいてどれを移動するかを選択できます。より多くのオプションを提供するために、複数のトークンをプレイすることが多くの場合賢明です。
+3.  **対戦相手の捕獲:** 単一の対戦相手のトークンが占有するマスに着地すると、それを捕獲し、ヤードに送り返します。これは競争を後退させる重要な方法です。
+4.  **数の安全性:** 同じスペースに自分の2つのトークンを着地させると、ブロックが作成されます。対戦相手はブロックを通過できないため、強力な防御戦略になります。
+5.  **ホームストレッチ:** 勝つためには、4つのトークンすべてを色付きのホーム列に移動し、次に最終のホームトライアングルに移動する必要があります。ホームトライアングルにトークンを移動するには、正確なダイスロールが必要です。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Getting Out of the Yard:** You must roll a six to move a token from your starting yard onto the game board. Prioritize getting at least one token into play as soon as possible.
-[JA TRANSLATION NEEDED] 2.  **Strategic Movement:** Once you have tokens on the board, you can choose which one to move based on your dice roll. It's often wise to have multiple tokens in play to give you more options.
-[JA TRANSLATION NEEDED] 3.  **Capturing Opponents:** If you land on a square occupied by a single opponent's token, you capture it and send it back to their yard. This is a key way to set back your competition.
-[JA TRANSLATION NEEDED] 4.  **Safety in Numbers:** Landing two of your own tokens on the same space creates a block. Opponents cannot pass a block, making it a powerful defensive strategy.
-[JA TRANSLATION NEEDED] 5.  **The Home Stretch:** To win, you must move all four of your tokens into your colored home column and then into the final home triangle. You need an exact dice roll to move a token into the home triangle.
+*   **ダイスをロール:** ダイスをクリックしてロールします。
+*   **トークンを移動:** ロール後、ゲ���ムは可能な移動を強調表示します。移動したいトークンをクリックします。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Roll Dice:** Click on the dice to roll it.
-    - **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.（日本語訳が必要）
-    - **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.（日本語訳が必要）
-    - **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.（日本語訳が必要）
-    - **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.（日本語訳が必要）
-    - **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.（日本語訳が必要）
-    - **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.（日本語訳が必要）
-*   **Move Token:** After rolling, the game will highlight your possible moves. Click on the token you wish to move.
+*   **Q: ルドーの目的は何ですか？**
+    *   **A:** 目的は、4つのトークンすべてをスタートベースからホームトライアングルに移動する最初のプレイヤーになることです。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 6を振った場合はどうなりますか？**
+    *   **A:** 6を振ると、2つの利点があります：ヤードからトークンを移動でき、ダイスの追加ロールが得られます。
 
-*   **Q: What is the objective of Ludo?**
-[JA TRANSLATION NEEDED]     *   **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.
-
-*   **Q: What happens when I roll a six?**
-[JA TRANSLATION NEEDED]     *   **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
-
-*   **Q: Can I pass my own tokens?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
-- **Q: Can I pass my own tokens?**
-    - **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
-- **Q: What happens when I roll a six?**
-    - **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.
-- **Q: What is the objective of Ludo?**
-### よくある質問（FAQ）
-- **Move Token:** After rolling, the game will highlight your possible moves. Click on the token you wish to move.
-- **Roll Dice:** Click on the dice to roll it.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
-- **Q: Can I pass my own tokens?**
-    - **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
-- **Q: What happens when I roll a six?**
-    - **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.
-- **Q: What is the objective of Ludo?**
-
-    - **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
-[JA TRANSLATION NEEDED]     *   **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
-
+*   **Q: 自分のトークンを通過できますか？**
+    *   **A:** はい、自分のトークンを通過できます。ただし、ブロックを形成する同じスポットに2つのトークンがある場合、3番目のトークンをそのスポットに移動することさえできません。

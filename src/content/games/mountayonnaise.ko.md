@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: mountayonnaise
-title: '[KO] Sprunki Mountayonnaise - Play Sprunki Mountayonnaise Online'
+title: "Sprunki Mountayonnaise 스프런키 마운테이오네즈"
 description: >-
-  [KO] Sprunki Mountayonnaise is a surprisingly delightful Sprunki mod game
-  where different animal figures appear based on the sound effects added. It
-  boasts high replayability!
+  Sprunki Mountayonnaise는 추가한 사운드에 따라 서로 다른 동물 캐릭터와 연출이
+  등장하는 스프런키 모드 게임으로, 반복해서 새로운 조합을 실험하는 재미가 뛰어납니다.
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
 thumbnail: /sprunki-mountayonnaise.png
 tags:
@@ -16,30 +15,44 @@ score: 4.8/5  (649 votes)
 
 
 
-Sprunki Mountayonnaise is a surprisingly delightful Sprunki mod game where different animal figures appear based on the sound effects added. It boasts high replayability! Here, you will create your own music works with a group of unique animated characters.
+Sprunki Mountayonnaise는 다양한 사운드를 입혀가며 애니메이션 캐릭터들과 음악을 만드는
+스프런키 모드 게임입니다. 어떤 사운드를 어떤 캐릭터에 올리느냐에 따라 전혀 다른 동물
+실루엣과 연출이 등장해, 같은 곡을 여러 방식으로 재구성해 볼 수 있습니다.
 
-### How to Play Sprunki Mountayonnaise?
+### Sprunki Mountayonnaise 플레이 방법
 
-The gameplay is very simple, it can be done in a few steps:
+플레이 방식은 간단하며, 대략 다음과 같은 단계로 진행됩니다.
 
-- **Drag and Drop Sound Effects:** Drag different sound effect icons onto the characters to assign them different sounds.
-- **Overlay Sounds:** Build a complete music track by strategically placing beats, vocals, and sound effects.
-- **Unlock Bonuses:** Try specific sound combinations to discover hidden animations and special effects!
-- **Real-Time Mixing:** Adjust your work at any time, mute, remove, or rearrange sounds to make your music more perfect.
-
-
-### Tips for Playing Sprunki Mountayonnaise:
-
-- **Start with the Beat:** First lay the foundation for your music, drag a rhythmic sound to the character.
-- **Add Melodies and Sound Effects:** Use vocal and instrumental loops to enrich your mixing work.
-- **Explore Bonus Combinations:** Certain sound combinations will trigger special animations and exclusive musical sequences.
-- **Strive for Perfection:** Adjust, remove, or mute certain sounds at any time to achieve the best results.
-- **Save and Share:** In some versions, you can record and share your music works, allowing more people to hear your voice.
+- **사운드 드래그 & 드롭:** 화면 아래쪽의 사운드 아이콘을 캐릭터 위로 드래그해 올려
+  각 캐릭터에 다른 소리를 할당합니다.
+- **사운드 겹치기:** 비트·보컬·효과음을 적절히 배치해 하나의 완성된 트랙을 만드세요.
+- **보너스 해금:** 특정 조합을 시도하면 숨겨진 애니메이션이나 특수 이펙트가 등장하기도
+  합니다.
+- **실시간 믹싱:** 언제든지 소리를 끄거나 제거하고, 배치를 바꿔 곡을 계속 수정할 수
+  있습니다.
 
 
-### Highlights of Sprunki Mountayonnaise:
+### Sprunki Mountayonnaise 공략 팁
 
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started and create quickly.
-- **New Sprunki Style:** Brings a series of new Sprunki-themed beats, melodies, and sound effects, giving you a sense of freshness.
-- **Real-Time Mixing:** Adjust your work at any time to make your music more perfect.
-- **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+- **비트부터 깔기:** 먼저 리듬 파트를 캐릭터 한두 명에게 배치해 기본 박자를 만든 뒤,
+  그 위에 다른 사운드를 얹으면 곡 구성이 안정적입니다.
+- **멜로디와 효과음 추가:** 보컬 루프나 악기 루프를 사용해 믹스를 풍성하게 만들고,
+  효과음으로 포인트를 더하세요.
+- **보너스 조합 탐색:** 특정 사운드 조합은 숨겨진 애니메이션이나 전용 악절을 트리거할
+  수 있으니, 여러 패턴을 시도해 보세요.
+- **완성도 높이기:** 마음에 들지 않는 사운드는 언제든지 제거하거나 음소거해, 전체
+  밸런스를 조정하며 최종 결과물을 다듬으세요.
+- **저장 및 공유:** 일부 버전에서는 자신이 만든 트랙을 녹화하거나 공유할 수 있어,
+  다른 사람과 작품을 나눌 수 있습니다.
+
+
+### Sprunki Mountayonnaise의 특징
+
+- **간단한 조작:** Incredibox 스타일의 직관적인 인터페이스로, 처음 접하는 사람도 금방
+  음악을 만들 수 있습니다.
+- **새로운 스프런키 스타일:** 스프런키 테마의 새로운 비트와 멜로디, 효과음이 추가되어
+  기존 팬에게도 색다른 경험을 제공합니다.
+- **실시간 믹싱:** 재생 중에도 자유롭게 사운드를 추가·제거할 수 있어, 라이브 믹싱처럼
+  즉흥적인 플레이가 가능합니다.
+- **발견의 재미:** 특정 조합에서만 등장하는 숨겨진 연출과 이펙트를 찾는 재미가 있어,
+  반복 플레이에도 질리지 않습니다.

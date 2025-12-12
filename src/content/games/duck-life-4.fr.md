@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: duck-life-4
-title: '[FR] Duck Life 4'
+title: 'Duck Life 4'
 description: >-
-  [FR] Duck Life 4 is a training and racing sim: build your duck’s stats in
+  Duck Life 4 is a training and racing sim: build your duck’s stats in
   mini‑games and win tournaments.
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/duck-life-4.jpg

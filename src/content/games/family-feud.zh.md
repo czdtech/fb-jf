@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: family-feud
-title: '[ZH TRANSLATION NEEDED] Family Feud'
+title: "Family Feud 家庭問答大對決"
 description: >-
-  [ZH TRANSLATION NEEDED] Survey‑based quiz game: guess the most popular answers
-  to family survey questions across multiple rounds and fast money.
+  Family Feud 是一款以「問卷調查」為基礎的答題遊戲，你要在多個回合中猜出大眾最常回答的答案，
+  並在最後的 Fast Money 環節衝高總分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/family-feud.jpg
 tags:
@@ -17,26 +17,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Two teams try to guess top answers from survey questions. Rounds award points based on answer popularity; Fast Money closes with rapid‑fire questions.
+
+遊戲中會把事先對「家庭觀眾」做的問卷調查統整成題目，兩隊玩家輪流搶答，看誰能說出
+排行榜上最熱門的答案。每回合獲得的分數取決於答案的「人氣」，越多人在調查中回答過，
+得分就越高。最後的 Fast Money 環節則由兩名玩家進行快問快答，把最終總分推向高峰。
 
 ### How to Play
-- Face‑off: first correct answer gains control; the team reveals remaining answers or passes play.
-- Three strikes pass control; the other team can steal with one correct answer.
-- Final “Fast Money” totals points from two players’ rapid answers.
+
+- **搶答階段（Face‑off）：** 兩隊首先在搶答中爭取控制權，最先說出排行榜上高名次答案的一方，
+  可以選擇繼續由本隊作答，或把作答機會讓給對手。
+- **回合作答：** 取得控制權的一隊，嘗試在有限次數內說出更多榜上答案。
+  每答錯一次就記一個 strike，累積三個 strike 後，作答權轉給另一隊。
+- **偷分機會：** 對方出現三次 strike 後，自己這一隊有一次「偷分」機會，只要說對剩餘答案中的
+  任何一個，就能將本回合所有累積分數收入囊中。
+- **Fast Money：** 最後階段由兩名隊員輪流在短時間內回答一組題目，依照回覆是否為熱門答案給分，
+  兩人的分數加總即為最終成績。
 
 ### Controls
-- Keyboard entry for answers; Enter to submit; arrow/onscreen UI to navigate (host dependent).
+
+- 以鍵盤輸入答案並按 Enter 送出；
+- 方向鍵或畫面上的 UI 元件用於切換選項或瀏覽列表（依託管版本而定）。
 
 ### Tips
-- Think broad categories first (e.g., “fruit,” “car,” “money”).
-- Aim for synonyms if an obvious word is taken.
-- Short, common words often rank higher than niche terms.
+
+- 優先從「大類」思考，例如水果、車子、金錢這類廣泛概念，往往更接近大眾答案。
+- 若最直覺的字詞已被使用，可以試試同義字或接近的說法。
+- 在多數題目中，簡短、常見的詞彙通常比冷門或太具體的答案排名更高。
 
 ### FAQ
-- Q: Do spelling variants count?  
-[ZH TRANSLATION NEEDED]   A: Hosts typically normalize common variants; try close synonyms.
-- Q: How many strikes?  
-[ZH TRANSLATION NEEDED]   A: Three per round before control passes.
-- Q: Is there single‑player?  
-[ZH TRANSLATION NEEDED]   A: Most web versions support solo against survey results.
 
+- 問：不同拼寫或拼字錯誤會被算對嗎？  
+  答：多數版本會對常見拼寫變體做一定程度的容錯，接近的同義詞也常被視為同一答案。
+
+- 問：每回合有幾次答錯機會？  
+  答：一般是三次 strike，第三次錯誤後，回合控制權會轉交給另一隊進行偷分。
+
+- 問：可以一個人玩嗎？  
+  答：多數網頁版本提供單人模式，你可以自己挑戰調查結果，看看能不能猜出大多數人的想法。

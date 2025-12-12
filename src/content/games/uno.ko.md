@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: uno
-title: '[KO] UNO Game'
+title: "UNO Game 우노 게임"
 description: >-
-  [KO] UNO is the classic card game where players race to empty their hands by
-  matching colors and numbers, using special action cards to block opponents and
-  be the first to shout 'UNO!'
+  세계적으로 사랑받는 카드 게임 UNO를 즐길 수 있는 온라인 버전입니다. 같은 색 또는 같은 숫자의
+  카드를 내고, 특수 카드로 상대의 흐름을 끊으면서 손패를 가장 먼저 모두 비우고 "UNO!"를 외치는
+  사람이 승리합니다.
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/uno.jpg
 tags:
@@ -17,35 +17,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
+"UNO Game"은 같은 색 또는 같은 숫자의 카드를 연속해서 내며, 특수 카드로 상대를 방해해 손패를
+가장 먼저 0장으로 만드는 고전 카드 게임 UNO의 디지털 버전입니다. 규칙은 간단하지만, 어떤 색을
+남기고 어떤 카드를 아껴 둘지에 따라 전세가 크게 바뀌는 전략성이 특징입니다.
 
+### 플레이 전략
 
-### Game Introduction
+1.  **색 우선 전략 세우기**: 현재 테이블 위에 깔린 색을 기준으로, 손에 많은 색부터 차근차근
+    정리하는 것이 좋습니다. 와일드 카드와 +4 같은 강력한 카드는 꼭 필요할 때를 위해 최대한
+    아껴 두세요.
+2.  **특수 카드 사용 타이밍**: 스킵(Skip), 리버스(Reverse), +2 카드 등은 상대의 턴을 끊거나 손패를
+    늘리는 데 매우 중요합니다. 누군가 손에 카드가 1~2장밖에 남지 않았을 때를 노려 사용하면 효과가
+    극대화됩니다.
+3.  **손패 색 균형 맞추기**: 특정 색 카드만 잔뜩 남으면, 그 색이 나오지 않을 때 매우 곤란해집니다.
+    게임 중반에는 여러 색을 골고루 남기도록 조절해, 어떤 색이 나오더라도 한 장 정도는 낼 수 있는
+    상태를 유지해 보세요.
+4.  **상대 손패와 패턴 관찰하기**: 누가 카드를 몇 장 가지고 있는지, 어떤 색에서 자주 넘기거나
+    드로우하는지 살펴보면 상대가 어떤 색을 싫어하는지 짐작할 수 있습니다. 와일드 카드로 색을
+    바꿀 때 참고해 사용하면 좋습니다.
+5.  **UNO 선언 잊지 않기**: 손에 카드가 1장만 남게 되는 순간 바로 "UNO" 버튼을 눌러 선언해야
+    합니다. 잊고 있다가 다른 플레이어에게 적발되면 벌칙 카드(추가 드로우)를 받게 됩니다.
 
-"UNO Game" is the classic card game where players race to empty their hands by matching colors and numbers, using special action cards to block opponents and be the first to shout "UNO!" This game is famous worldwide for its simple-to-learn but strategically rich gameplay.
+### 플레이 방법
 
-### Gameplay Strategy
+*   **카드 내기**: 현재 턴일 때, 손패에서 색 또는 숫자가 일치하는 카드를 클릭해 냅니다. 특수 카드는
+    카드에 표시된 효과에 따라 게임 진행을 바꿉니다.
+*   **카드 뽑기**: 낼 수 있는 카드가 없으면 카드 더미를 클릭해 한 장을 뽑습니다. 뽑은 카드가
+    낼 수 있는 카드라면 바로 플레이할 수 있습니다.
+*   **색 선택**: 와일드(Wild) 계열 카드를 냈을 때는 다음 턴에 사용할 색을 선택해야 합니다.
+*   **UNO 버튼**: 손패가 1장 남는 순간, 화면의 UNO 버튼을 눌러 선언합니다.
 
-1.  **[KO]** **Color Priority**: Prioritize playing cards that match the current color, keeping wild cards and action cards as backup.
-2.  **[KO]** **Action Card Timing**: Use Skip, Reverse, and other action cards at crucial moments to disrupt opponents' rhythm.
-3.  **[KO]** **Hand Management**: Distribute different colored cards wisely to avoid being stuck with one color.
-4.  **[KO]** **Observe Opponents**: Pay attention to opponents' playing patterns and hand counts to predict their strategies.
-5.  **[KO]** **UNO Declaration**: Remember to shout "UNO" when you have one card left, or face penalty cards.
+### 자주 묻는 질문(FAQ)
 
-### How to Play
+1.  **Q: 언제 UNO를 선언해야 하나요?**  
+    **A:** 내 차례에 두 번째 마지막 카드를 낸 직후, 손에 카드가 1장 남았을 때 바로 선언해야 합니다.
+    타이밍을 놓치면 다른 플레이어가 신고했을 때 벌칙 카드를 여러 장 받게 됩니다.
 
-*   **[KO]** **Play Cards**: Click on playable cards in your hand to play them.
-*   **[KO]** **Draw Cards**: Click the deck to draw when you can't play any cards.
-*   **[KO]** **Choose Color**: Select the next color after playing a wild card.
-*   **[KO]** **UNO Button**: Click the UNO button to declare when you have one card remaining.
+2.  **Q: 와일드 카드는 언제 쓰는 게 좋나요?**  
+    **A:** 정말 낼 카드가 없을 때 색을 바꾸기 위한 용도로 쓰거나, 상대가 곧 이길 것 같을 때
+    의도적으로 불리한 색으로 바꾸기 위해 사용하는 것이 좋습니다. 막판 역전의 핵심 카드라 너무
+    일찍 소비하지 않는 편이 유리합니다.
 
-### Frequently Asked Questions
+3.  **Q: UNO를 외치는 걸 깜빡하면 어떻게 되나요?**  
+    **A:** 대부분의 룰에서는 다른 플레이어에게 들키는 순간 2장 혹은 그 이상을 추가로 뽑는 벌칙을
+    받습니다. 손패가 다시 많아지기 때문에, 승리 타이밍이 크게 늦어질 수 있습니다.
 
-1.  **[KO]** **Q: When do I need to shout UNO?**
-**A**: When you have only one card left, you must shout "UNO" immediately after playing your second-to-last card.
-2.  **[KO]** **Q: When is the best time to use wild cards?**
-**A**: When you have no other options, or at crucial moments to change the game color and block opponents.
-3.  **[KO]** **Q: What happens if I forget to shout UNO?**
-**A**: If caught by other players, you'll typically be penalized with 2-4 additional cards.
-4.  **[KO]** **Q: Can I play multiple identical cards in succession?**
-**A**: This depends on specific rule settings; standard UNO rules allow only one card per turn.
+4.  **Q: 같은 카드를 한 번에 여러 장 낼 수 있나요?**  
+    **A:** 기본 공식 룰에서는 한 턴에 한 장만 낼 수 있습니다. 다만 집마다 사용하는 하우스 룰이나
+    일부 온라인 모드에서는 같은 숫자 카드를 연속으로 내는 규칙을 지원하기도 합니다.

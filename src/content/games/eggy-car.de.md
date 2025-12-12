@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: eggy-car
-title: '[DE] Eggy Car'
+title: "Eggy Car"
 description: >-
-  [DE] Eggy Car is a physics driver: carry a fragile egg on your car, climb and
-  descend hills, and don’t let it fall.
+  Eggy Car ist ein physikbasiertes Fahrspiel: Transportiere ein zerbrechliches
+  Ei auf deinem Auto über Hügel und Täler, ohne es herunterfallen zu lassen.
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/eggy-car.jpg
 tags:
@@ -14,31 +14,45 @@ score: 4.9/5  (297 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+In Eggy Car balancierst du ein Auto mit einem empfindlichen Ei auf dem Dach
+über hügeliges Gelände. Zu harte Stöße lassen die Schale springen – nur mit
+feinem Gasfinger schaffst du lange Distanzen.
 
+### So spielst du
 
+- Fahre bergab langsam und kontrolliert; bergauf gibst du nur sanft Gas, damit
+  das Auto nicht wild springt.
+- Sammle Benzinkanister ein, um deine Fahrt zu verlängern, und nimm Münzen mit,
+  falls dein Host Fahrzeugupgrades anbietet.
+- Für lange Runs brauchst du einen Rhythmus aus kurzen Gasstößen statt
+  dauerhaft voll durchgedrücktem Pedal.
 
-### Overview
-Balance a car carrying a fragile egg across hilly terrain. Sudden bumps crack the egg; smooth throttle wins.
+### Steuerung
 
-### How to Play
-- Keep speed low on downhill; accelerate gently uphill to avoid bouncing.
-- Grab fuel cans to extend runs; collect coins for vehicle upgrades (host dependent).
-- Long runs demand rhythmic throttle taps, not holds.
+- A/D oder Pfeiltasten zum Fahren/Bremsen.  
+- R: Neustart des Laufs.
 
-### Controls
-- A/D or Arrows to drive/brake; R: restart.
+### Tipps
 
-### Tips
-- Treat crests like jumps—lift before the peak, reapply after landing.
-- If the egg wobbles, briefly brake to settle it.
-- Upgrades that improve suspension help the most early on.
+- Behandle Hügelkuppen wie kleine Sprünge – nimm kurz Gas weg, bevor du den
+  Scheitel erreichst, und beschleunige erst nach der Landung wieder.
+- Wenn das Ei stark zu wackeln beginnt, bremse kurz ab, damit es sich
+  stabilisiert.
+- Upgrades, die Federung und Fahrstabilität verbessern, bringen am Anfang den
+  größten Vorteil.
 
 ### FAQ
-- Q: What ends a run?
-A: Cracks (egg breaks) or running out of fuel.
-- Q: Is there a finish line?
-A: It’s a distance/high‑score chase in most hosts.
-- Q: Best early strategy?
-A: Drive slow; protect the egg—speed comes with smoother lines.
 
+- **F: Wodurch endet ein Run?**  
+  **A:** Entweder das Ei zerbricht oder dir geht der Sprit aus.
+
+- **F: Gibt es ein richtiges Ziel?**  
+  **A:** Meist handelt es sich um eine Distanz- bzw. Highscore-Jagd ohne feste
+  Ziellinie.
+
+- **F: Was ist die beste Early-Game-Strategie?**  
+  **A:** Fahre lieber zu langsam als zu schnell – Hauptsache, das Ei bleibt
+  intakt. Geschwindigkeit kommt automatisch, wenn du die Strecke besser lesen
+  kannst.

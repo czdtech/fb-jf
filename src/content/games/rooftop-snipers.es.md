@@ -1,13 +1,14 @@
 ---
 locale: es
 urlstr: rooftop-snipers
-title: '[ES] Rooftop Snipers'
+title: "Rooftop Snipers"
 description: >-
-  [ES] Rooftop Snipers is the original physics-based shooting game where two
-  pixel characters fight on rooftops, using simple controls to shoot and knock
-  opponents off buildings with hilarious ragdoll physics.
-iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
-thumbnail: /new-images/rooftop-snipers.jpg
+  Rooftop Snipers es el juego de disparos con físicas original en el que dos
+  personajes pixelados luchan sobre tejados usando controles sencillos para
+  disparar y tirarse mutuamente de los edificios con divertidísimas animaciones
+  ragdoll.
+iframeSrc: "https://webglmath.github.io/rooftop-snipers/"
+thumbnail: "/new-images/rooftop-snipers.jpg"
 tags:
   - shooting
   - physics
@@ -17,35 +18,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Rooftop Snipers" es el juego de disparos con físicas que inició la serie. Dos
+personajes estilo pixel art se enfrentan en azoteas y utilizan controles muy
+sencillos para disparar y lanzar al rival al vacío. Es conocido por sus
+animaciones ragdoll llenas de humor y por una jugabilidad simple pero más
+profunda de lo que parece.
 
+### Estrategias de juego
 
-### Game Introduction
+1.  **Domina los controles básicos:** Practica las combinaciones de movimiento,
+    salto y disparo hasta que te salgan de forma natural.
+2.  **Anticipa los movimientos del rival:** Aprende a predecir hacia dónde se
+    moverá el oponente y apunta ligeramente por delante antes de disparar.
+3.  **Controla el equilibrio:** Mantén el control cerca del borde del tejado y
+    ten en cuenta el retroceso del arma para no salir volando tú mismo.
+4.  **Encuentra tu ritmo:** Busca un patrón cómodo de disparar, moverte y saltar
+    para descolocar al rival sin perder estabilidad.
+5.  **Aprovecha el terreno:** Usa desniveles, obstáculos y la forma del tejado
+    para encontrar mejores ángulos de tiro o forzar malas posiciones al rival.
 
-"Rooftop Snipers" is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings. The game is famous for its hilarious ragdoll physics effects and simple yet challenging gameplay, laying the foundation for subsequent series games.
+### Cómo jugar
 
-### Gameplay Strategy
+*   **Movimiento:** Usa las teclas A/D o las flechas izquierda/derecha para
+    moverte.
+*   **Saltar:** Pulsa W o la flecha arriba para saltar.
+*   **Disparar:** Pulsa S o la flecha abajo para disparar.
+*   **Acciones combinadas:** Puedes moverte, saltar y disparar en combinación
+    para crear ataques más impredecibles.
 
-1.  **[ES]** **Master Basic Controls**: Become proficient with the basic combination of movement, jumping, and shooting operations.
-2.  **[ES]** **Shooting Prediction**: Learn to predict opponent movement direction and aim ahead when shooting.
-3.  **[ES]** **Balance Control**: Maintain balance on roof edges, avoiding accidental falls due to weapon recoil.
-4.  **[ES]** **Rhythm Mastery**: Find the optimal combination rhythm for shooting, moving, and jumping.
-5.  **[ES]** **Positional Strategy**: Use rooftop terrain advantages to find the best shooting positions.
+### Preguntas frecuentes
 
-### How to Play
-
-*   **[ES]** **Movement**: Use A/D keys or left/right arrow keys to control character left and right movement.
-*   **[ES]** **Jump**: Use W key or up arrow key to make character jump.
-*   **[ES]** **Shoot**: Use S key or down arrow key to shoot.
-*   **[ES]** **Combination Actions**: Can simultaneously perform combinations of movement, jumping, and shooting.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: Why do I always fall off first?**
-**A**: You might be moving too aggressively or not mastering weapon recoil effects; need to control position more carefully.
-2.  **[ES]** **Q: How can I improve hit rate?**
-**A**: Practice aiming more, learn to predict opponent movement trajectories, and shoot when opponents are jumping.
-3.  **[ES]** **Q: How many players does the game support?**
-**A**: The original "Rooftop Snipers" is mainly a two-player battle game where two players can fight on the same device.
-4.  **[ES]** **Q: Is there a single-player mode?**
-**A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.
+1.  **P: ¿Por qué siempre caigo yo primero?**
+    **R:** Probablemente te mueves demasiado agresivo o no controlas bien el
+    retroceso del arma. Intenta jugar más cerca del centro del tejado y dispara
+    con más cuidado.
+2.  **P: ¿Cómo puedo acertar más disparos?**
+    **R:** Practica la puntería y dispara cuando el oponente esté en el aire o
+    en un movimiento predecible.
+3.  **P: ¿Cuántos jugadores admite el juego?**
+    **R:** La versión original está pensada principalmente para duelos de dos
+    jugadores en el mismo dispositivo.
+4.  **P: ¿Tiene modo para un solo jugador?**
+    **R:** El foco está en el multijugador local, pero algunas versiones
+    incluyen combates contra la IA.

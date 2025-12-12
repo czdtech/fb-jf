@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: clicker-heroes
-title: '[ZH TRANSLATION NEEDED] Clicker Heroes'
+title: "Clicker Heroes 点击英雄全指南"
 description: >-
-  [ZH TRANSLATION NEEDED] The ultimate guide to Clicker Heroes. Learn the core
-  gameplay, expert strategies for Ascension and Ancients, controls, and answers
-  to common questions for this addictive idle/clicker game.
+  这是一份《Clicker Heroes 点击英雄》完整中文攻略。从核心玩法、Ascension（转生）与
+  Ancients（远古之神）培养思路，到操作技巧与常见问题解答，帮助你高效推进这款极具黏
+  性的放置/点击游戏。
 iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
 thumbnail: /new-images/clicker-heroes.jpg
 tags:
@@ -20,58 +20,94 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] Clicker Heroes is a quintessential "idle" or "incremental" game where the primary goal is to progress through an effectively infinite number of levels by defeating monsters. The game starts with the player actively clicking on a monster to deal damage and earn gold. This gold is then used to hire heroes who automatically attack monsters, generating Damage Per Second (DPS).
+《Clicker Heroes 点击英雄》是一款典型的“放置/增量”类游戏，核心目标是在无穷无尽的关
+卡中不断前进，通过击败怪物赚取金币。游戏一开始，你需要主动点击怪物来造成伤害并获
+得金币，再用这些金币雇佣自动攻击怪物的英雄，从而获得持续的每秒伤害（DPS）。
 
-[ZH TRANSLATION NEEDED] As you purchase and level up more heroes, your DPS grows exponentially, allowing you to defeat monsters faster and earn even more gold. The core gameplay loop involves managing your hero upgrades, using character skills, and deciding when to perform a crucial reset known as "Ascension." This mechanic allows you to restart from level 1 but with powerful permanent bonuses (Hero Souls and Ancients) that drastically accelerate all future runs. The ultimate objective is to see how far you can progress and how powerful you can become.
+随着你购买并升级越来越多的英雄，总体 DPS 会呈指数级提升，你也能更快击杀怪物、刷到
+更多金币。整个核心循环围绕着：如何分配升级点数、何时释放技能、在什么时机进行关键
+的“转生（Ascension）”重置。转生会让你回到 1 级，但同时获得强大的永久收益——英雄之魂
+（Hero Souls）和远古之神（Ancients）——让之后的每一轮周目都更快、更强。你的终极目标，
+就是不断突破更高关卡，打造越来越夸张的伤害与进度。
 
 ### **Gameplay Strategy & Tips**
 
-[ZH TRANSLATION NEEDED] The strategy for Clicker Heroes evolves as you play.
+游戏的策略会随着你的进度逐渐演变，早期和转生后的思路会有明显不同。
 
-[ZH TRANSLATION NEEDED] **1. The First Run (Before Ascending):**
-*   **Initial Phase**: Click the monster to earn your first bits of gold. Hire your first few heroes as soon as you can afford them.
-*   **Focus on DPS**: Continuously level up the most cost-effective hero. A good rule of thumb is to upgrade the cheapest hero that gives you the biggest DPS boost.
-*   **Unlock Hero Skills**: Leveling heroes to levels 10, 25, 50, 75, etc., unlocks crucial skills that often boost their own damage or the damage of all your heroes. Aim to unlock all skills for each hero before moving to the next.
-*   **Pushing Your Limit**: Keep progressing until defeating a boss (every 5th level) becomes very slow or impossible within the 30-second timer. Use your player skills (like Clickstorm, Powersurge) to help push past difficult bosses.
-*   **When to Ascend First**: A common recommendation is to ascend for the first time after beating level 139 and leveling your hero Amenhotep to 150 to unlock the "Ascension" skill. This should grant you around 7-10 Hero Souls.
+**1. 第一次游玩（初始未转生阶段）**
 
-[ZH TRANSLATION NEEDED] **2. Post-Ascension Strategy (The Real Game Begins):**
-*   **Understand Hero Souls (HS)**: This is the most important currency. Each Hero Soul you possess provides a +10% bonus to your total DPS. **Do not spend them all immediately.**
-*   **Ancients**: These are powerful beings that provide permanent, game-changing bonuses. You purchase and level them up using Hero Souls. Your choice of Ancients defines your playstyle.
-*   **Choose a Playstyle - Idle vs. Active**:
-     *   **Idle**: This build focuses on letting the game run in the background. Your heroes do all the work. The key starting Ancients are **Siyalatas** (Bonus Idle DPS) and **Libertas** (Bonus Idle Gold). This is highly recommended for beginners.
-     *   **Active**: This build focuses on active clicking and skill usage. The key starting Ancients are **Fragsworth** (Bonus Click Damage) and **Bhaal** (Bonus Critical Click Damage).
-*   **The Golden Rule of Ancients**: Use an "Ancients Calculator" (you can find them online). These tools will tell you the most efficient way to spend your Hero Souls to level up your Ancients for maximum progress.
-*   **Gilds**: After level 100, you will start receiving Gilds, which are damage multipliers assigned to random heroes. Early on, it's best to consolidate all your Gilds onto one powerful and efficient hero (like The Masked Samurai, Atlas, or Terra as you progress). This focuses your power dramatically.
-*   **Efficient Ascensions**: The core of the game is to perform many relatively quick ascensions. Do a run, push as far as you can quickly, ascend to collect Hero Souls, reinvest in Ancients, and repeat. Don't spend days on a single run if progress has stalled.
+*   **开局阶段：** 通过点击怪物获得最初的一点金币，在能负担得起时尽快雇佣第一批英
+    雄，让他们帮你自动输出。
+*   **优先提升 DPS：** 持续升级当前“性价比最高”的英雄。一个实用原则是：优先升级那
+    些花费较少却能给予最大 DPS 提升的角色。
+*   **解锁英雄技能：** 英雄在等级 10、25、50、75 等节点通常会解锁关键技能，有的提升
+    自身伤害，有的提升全队伤害。尽量在转向下一个英雄之前，把当前英雄的所有技能都解
+    锁齐全。
+*   **尽力推进极限：** 每隔 5 关会遇到一只 Boss，击杀有 30 秒倒计时。当你发现打 Boss
+    变得非常吃力或几乎无法在计时内击杀时，可以考虑集体开技能（例如 Clickstorm、
+    Powersurge 等）强行再冲一段距离。
+*   **第一次转生时机：** 常见建议是首次通关大约到 139 关左右，并将 Amenhotep 升到 150
+    级以解锁“Ascension（转生）”技能。完成这次转生通常会获得 7–10 点左右的英雄之魂。
+
+**2. 转生后的策略（真正的游戏开始）**
+
+*   **理解英雄之魂（Hero Souls，HS）：** 这是游戏中最重要的长期货币之一。每 1 点英雄
+    之魂都会提供被动的 +10% 总 DPS 加成。**不要一上来就把它们全部花光。**
+*   **远古之神（Ancients）：** 这些强力存在会提供永久且影响巨大的增益，需要用英雄之
+    魂来召唤和升级。你选择哪些远古之神、如何分配等级，将决定你的玩法路线。
+*   **确定玩法风格——挂机流 vs. 主动点击流：**  
+    *   **挂机流（Idle）：** 核心是让游戏在后台自动运行，英雄完成主要输出。关键远古之
+        神包括 **Siyalatas**（挂机 DPS 加成）和 **Libertas**（挂机金币加成），非常适合
+        新手作为起步路线。
+    *   **主动流（Active）：** 核心是频繁点击和高强度释放技能。关键远古之神包括
+        **Fragsworth**（点击伤害加成）和 **Bhaal**（暴击点击伤害加成）。
+*   **远古之神的黄金准则：** 建议搭配使用“Ancients 计算器”这类工具（可在网上找到），
+    把当前拥有的英雄之魂数输入后，系统会给出较为合理的分配方案，帮助你用最低成本获
+    得最大的整体增益。
+*   **Gild（镀金）系统：** 在 100 关之后，你会开始获得 Gild——它会随机加成某个英雄的
+    伤害。中期的高效做法，是把所有 Gild 都集中到一两名强力英雄身上（如 The Masked
+    Samurai、Atlas、Terra 等随进度解锁的角色），集中火力会比平均分散强得多。
+*   **高效周目（Ascensions）循环：** 这款游戏的精髓不在于“单次跑多远”，而在于不断进
+    行“快速周目”。原则是：一轮跑到效率开始明显下降就果断转生，拿到新的英雄之魂后立
+    即优化远古之神配置，再开启下一轮。通常中期的一轮跑动维持在 30–60 分钟会比较合理
+    ，不要为了多推几关而拖到数天不转生。
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The game is primarily mouse-driven, but keyboard shortcuts are essential for efficiency.
+游戏主要通过鼠标操作完成，但熟练使用键盘快捷键可以显著提升效率。
 
-*   **Mouse Click**: Click on the monster to deal damage. Click on buttons to hire/level up heroes and activate skills.
-*   **Number Keys (1-9)**: Activate your player skills.
-*   **Hero Leveling Shortcuts**:
-     *   **SHIFT + Click**: Level up a hero 10 times.
-     *   **Z + Click**: Level up a hero 25 times.
-     *   **CTRL + Click**: Level up a hero 100 times.
-     *   **Q + Click**: Level up a hero to the maximum affordable amount.
-     *   **A**: Progress to the next level (or toggle auto-progression).
+*   **鼠标点击：** 点击怪物造成直接伤害；点击界面按钮雇佣/升级英雄或释放技能。
+*   **数字键 1–9：** 对应激活各个主动技能。
+*   **英雄升级快捷键：**  
+    *   **SHIFT + 点击：** 一次升级英雄 10 级；  
+    *   **Z + 点击：** 一次升级英雄 25 级；  
+    *   **CTRL + 点击：** 一次升级英雄 100 级；  
+    *   **Q + 点击：** 将该英雄直接升到当前可负担的最高等级；  
+    *   **A 键：** 前进到下一关，或切换自动前进开关（视版本而定）。
 
 ### **Frequently Asked Questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. When should I ascend?**
-[ZH TRANSLATION NEEDED] For your very first run, aim for level 140 to get a handful of Hero Souls. After that, ascend whenever your progress slows down significantly. A good run might last anywhere from 30 to 60 minutes in the mid-game. The key is speed and efficiency.
+**1. 我应该在什么时候进行转生（Ascend）？**  
+在第一次游玩时，通常推荐先冲到大约 140 关左右，以拿到一小批英雄之魂。之后的每一轮
+，当你感觉升级成本越来越高、推进速度明显变慢时，就是可考虑转生的信号。中期比较理
+想的一轮通常持续 30–60 分钟左右，关键是“跑得快”而不是“死磕到尽头”。
 
-[ZH TRANSLATION NEEDED] **2. What are Hero Souls and what do I do with them?**
-[ZH TRANSLATION NEEDED] Hero Souls (HS) are a permanent currency earned by defeating Primal Bosses (bosses on levels 100, 110, 120, etc.) and by leveling up heroes. Each one gives a passive +10% DPS bonus. Their primary use is to summon and level up Ancients.
+**2. 英雄之魂（Hero Souls）是什么？我应该怎么用？**  
+英雄之魂是通过击败 Primal Boss（100、110、120 等关的特殊 Boss）以及升级英雄获得的
+长期货币。每 1 点英雄之魂都会提供 +10% 的被动 DPS 加成。更重要的用途，是用来召唤并
+升级各类远古之神，从而得到更强的全局增益。
 
-[ZH TRANSLATION NEEDED] **3. Should I play an Idle, Active, or Hybrid build?**
-[ZH TRANSLATION NEEDED] For beginners, an **Idle** build is strongly recommended. It is simpler to manage and very powerful for making steady progress. You can switch to an Active or Hybrid build later in the game when you have a large bank of Hero Souls.
+**3. 我该玩挂机流、主动流还是折中（Hybrid）流？**  
+对绝大多数新手来说，**挂机流**是更推荐的入门选择：操作简单、容错率高，同时提升效
+率也非常可观。等你积累了大量英雄之魂、对游戏系统更熟悉之后，再尝试主动流或混合流
+会更合适。
 
-[ZH TRANSLATION NEEDED] **4. All my Gilds are on random, weak heroes. What should I do?**
-[ZH TRANSLATION NEEDED] In the mid-game, you can spend Hero Souls to "de-gild" a hero and move that gild to another random hero. The goal is to consolidate all your Gilds onto one single, powerful hero to maximize your damage output. This process is called "re-gilding."
+**4. 我现在的 Gild 都在一些弱英雄身上，该怎么办？**  
+在游戏中后期，你可以消耗英雄之魂来“去镀金”，将某位英雄身上的镀金效果移除并重新滚
+给其他英雄。常见做法是把所有 Gild 集中到一位核心输出英雄身上，以获得巨大伤害加成
+。这个过程通常被称为“重刷镀金（re-gilding）”。
 
-[ZH TRANSLATION NEEDED] **5. Is there an end to the game?**
-[ZH TRANSLATION NEEDED] No, Clicker Heroes is designed to be an endless game. The levels and the amount of gold and damage required scale infinitely. The goal is personal progression and reaching ever-higher zones.
-
+**5. 这游戏有真正的结局吗？**  
+没有。《Clicker Heroes》被设计成一个理论上可以无限进行下去的游戏，关卡数和数值都可
+以不断向上扩张。真正的乐趣在于：不断刷新自己的最高关卡纪录、优化每一轮周目的效率
+，并尝试各种不同的远古之神组合与玩法流派。

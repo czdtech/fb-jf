@@ -1,8 +1,11 @@
 ---
 locale: es
 urlstr: sprunki-phase-2-5
-title: '[ES] Sprunki Phase 2.5 - Play Sprunki Phase 2.5 Online'
-description: '[ES] Sprunki Phase 2.5 (JOKE MOD) isn'
+title: 'Sprunki Phase 2.5 - Juega a Sprunki Phase 2.5 online'
+description: >-
+  Sprunki Phase 2.5 (JOKE MOD) es un experimento gamberro que convierte la
+  clásica mezcla musical de Sprunki en una fiesta de bromas, sustos y giros
+  inesperados.
 iframeSrc: 'https://html-classic.itch.zone/html/14324321/index.html'
 thumbnail: /sprunki-phase-2-5.png
 tags:
@@ -11,35 +14,60 @@ score: 4.3/5  (218 votes)
 ---
 
 
+¿Sientes que los juegos musicales normales son demasiado previsibles? ¿Te apetece
+algo más caótico y quizá un poco loco? Sprunki Phase 2.5 (JOKE MOD) está hecho
+para ti (y puede que te arranque algún susto). No es el típico juego de ritmo:
+es una aventura musical que mezcla creatividad, sorpresa y un toque de humor
+oscuro pensada para hacerte reír… y subirte las pulsaciones.
 
-Feeling like regular music games are a bit too predictable? Craving something unexpected and maybe a little wild? Then Sprunki Phase 2.5 (JOKE MOD) is guaranteed to grab your attention (or maybe give you a jump scare)! This isn't your average rhythm game; it's a fantastic adventure blending creativity, surprise, and even a dash of dark humor, designed to make you laugh and maybe even get your pulse racing!
+### Entonces, ¿qué es Sprunki Phase 2.5 (JOKE MOD)?
 
-### So, What's the Deal with Sprunki Phase 2.5 (JOKE MOD)?
+Sprunki Phase 2.5 toma la fórmula conocida de mezclar música y la convierte en
+un experimento cargado de espíritu bromista. Tu misión es sencilla: arrastrar
+cualquiera de los 20 adorables botones de personaje de la parte inferior a
+alguna de las siete ranuras superiores. En cuanto los sueltas, cobran vida con
+animaciones y sonidos únicos para ayudarte a montar temas vibrantes.
 
-Basically, Sprunki Phase 2.5 takes the familiar music-mixing fun and turns it into an experiment filled with prankster spirit. Your mission is simple: drag any of the 20 adorable character buttons from the bottom of the screen into one of the seven slots up top. Watch as they spring to life with unique sounds and dance moves, helping you compose lively tunes.
+### Pero ojo, aquí viene el giro
 
-### But Wait, There's a Twist!
+El auténtico golpe de efecto de Sprunki Phase 2.5 es su mecánica «JOKE MOD».
+Cuando colocas el personaje número 20 y llenas la última ranura, todo se da la
+vuelta: los personajes felices se transforman en versiones de terror, y la
+música alegre pasa a ser una mezcla inquietante de efectos y atmósferas. Este
+cambio imprevisible es el corazón del mod y hace que cada partida se sienta
+nueva y deliciosamente incierta.
 
-The real kicker in Sprunki Phase 2.5 is its "JOKE MOD" mechanic. When you place that 20th and final character into a slot, everything flips! The once-happy characters instantly transform into creepy, horror-themed versions of themselves. The upbeat music shifts immediately to eerie, unsettling sound effects. This unpredictable change is the core charm of Sprunki Phase 2.5, making every playthrough fresh and excitingly uncertain.
+### Cómo disfrutar esta fiesta musical de bromas
 
-### How to Rock This Prank Music Party?
+- **Arrastra personajes:** elige entre los 20 botones de personaje de la parte
+  inferior y arrástralos a una de las 7 ranuras de arriba. Empezarán a tocar al
+  instante.
+- **Mezcla los sonidos:** cada personaje aporta un sonido distinto. Prueba
+  combinaciones hasta crear una melodía alegre… o completamente perturbadora.
+- **Míralos actuar:** los personajes no se quedan quietos; se mueven, bailan y
+  vibran al ritmo de la música que están creando.
+- **Activa la «sorpresa»:** cuando coloques al vigésimo personaje, verás la
+  verdadera cara de Sprunki Phase 2.5.
+- **Abraza el caos:** aquí no hay reglas rígidas; simplemente diviértete
+  creando una mezcla que combine humor y horror.
+- **Guarda y comparte:** si tu «obra maestra» te encanta, guárdala para
+  repetirla o compártela con amigos y comprueba a quién consigues asustar.
 
-- **Drag Those Characters:** Pick from the 20 character buttons at the bottom and drag 'em to one of the 7 slots above. They'll start performing right away!
-- **Mix Up the Sounds:** Each character brings a unique sound. Go wild experimenting with different combinations to create your own melody – whether it's cheerful or downright creepy.
-- **Watch 'Em Go:** These characters aren't static! They wiggle, dance, and pulse with energy to the music they make.
-- **Trigger the "Surprise":** Ready for it? Drop that 20th character and see the true face of Sprunki Phase 2.5!
-- **Embrace the Chaos:** No rules, no pressure. Just have a blast creating music that blends humor and horror!
-- **Save & Share:** Love your "masterpiece"? You can save it to enjoy later, or share it with friends and see if you can give *them* a little scare!
+### ¿Por qué brilla Sprunki Phase 2.5?
 
+- **Humor + terror:** te mantiene en tensión, alternando entre momentos
+  adorables y escenas verdaderamente inquietantes.
+- **Controles súper sencillos:** el clásico sistema de arrastrar y soltar hace que cualquiera
+  pueda empezar a jugar en segundos.
+- **Animaciones hilarantes (y siniestras):** ver lo que hacen los personajes es
+  media gracia del juego.
+- **Libertad total:** no hay una forma «correcta» de jugar; tu mezcla es tuya y
+  puedes llevarla en la dirección que quieras.
 
-### What Makes Sprunki Phase 2.5 Shine?
+### Cierre
 
-- **Humor Meets Horror:** It keeps you guessing, bouncing between cute and creepy moments. You never know what's next!
-- **Super Simple Controls:** The classic drag-and-drop gameplay makes it easy for anyone to jump in.
-- **Hilarious (and Spooky) Animations:** Watching the characters perform their silly or unsettling actions is half the fun.
-- **Total Creative Freedom:** There's no right or wrong way to play. Just let your creativity run wild and mix up something unique.
-
-
-### Wrapping Up:
-
-Sprunki Phase 2.5 (JOKE MOD) isn't just a game; it's a musical adventure packed with surprises and twists. It perfectly balances lighthearted fun with unexpected dark humor, giving you a uniquely thrilling experience while you compose. Get ready to dive into the world of Sprunki Phase 2.5 – drag, drop, mix, match, create awesome music, and always be prepared for that heart-pounding "surprise"!
+Sprunki Phase 2.5 (JOKE MOD) no es solo un juego, es una aventura musical llena
+de sorpresas y giros. Equilibra a la perfección el humor ligero con el terror
+inesperado para ofrecer una experiencia de composición única. Entra en el
+mundo de Sprunki Phase 2.5, arrastra, suelta, mezcla, combina y crea pistas
+increíbles… siempre preparado para ese «susto» final.

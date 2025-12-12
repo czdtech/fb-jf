@@ -1,44 +1,42 @@
 ---
 locale: fr
-urlstr: mad-honey
-title: '[FR] Mad Honey'
-description: >-
-  [FR] Mad Honey is a bite‑size arcade adventure — collect nectar, dodge
-  hazards, and return safely to the hive.
-iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
-thumbnail: /new-images/mad-honey.png
-tags:
-  - adventure
-  - casual
-score: 3.7/5  (1299 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "mad-honey"
+title: "Mad Honey"
+description: "Mad Honey est une petite aventure arcade : collecte du nectar, évite les dangers et reviens sain et sauf à la ruche."
+iframeSrc: "https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/"
+thumbnail: "/new-images/mad-honey.png"
+tags: ["adventure", "casual"]
+score: "3.7/5  (1299 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Mad Honey est une courte aventure arcade à prendre en main en quelques secondes. Tu contrôles une abeille qui doit récupérer du nectar tout en évitant des ennemis simples et divers dangers de l’environnement. Les niveaux mettent l’accent sur les trajectoires de vol précises, le bon timing pour traverser les patrouilles et un retour sécurisé à la ruche pour marquer des points.
 
+### Stratégies de jeu et progression
 
+1.  **Planifie tes trajectoires :** repère les groupes de fleurs et les chemins des ennemis avant de te lancer.
+2.  **Fais de petites corrections :** ajuste ton mouvement avec de légères touches pour passer dans les passages étroits sans zigzaguer.
+3.  **Fractionne les zones risquées :** si un groupe de nectar est difficile à atteindre, n’hésite pas à le nettoyer en deux passages plutôt qu’en un seul mouvement dangereux.
+4.  **Surveille les compteurs :** si un timer ou une limite de charge est active, pense à déposer régulièrement ton nectar à la ruche.
+5.  **Évalue le risque :** n’insiste pas sur un pickup serré lorsque tu es à court de temps ou de points de vie ; survivre vaut souvent mieux que tout ramasser.
 
-### Detailed Game Introduction
+### Commandes
 
-Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar while avoiding simple enemies and environmental hazards. Levels emphasize careful flight paths, timing through patrols, and safe returns to score.
+- Déplacement : touches fléchées / WASD ou glisser du doigt selon la version.
+- Interaction : les fleurs et objets se ramassent automatiquement au contact.
+- Redémarrage : un bouton de recommencement rapide permet de relancer une tentative propre.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** Plot routes: Identify nectar clusters and patrol paths before committing.
-2.  **[FR]** Small corrections: Feather movement to thread narrow gaps without oversteering.
-3.  **[FR]** Stagger pickups: Clear risky clusters in two passes if needed.
-4.  **[FR]** Watch timers: Deposit nectar regularly if a timer or carry limit exists.
-5.  **[FR]** Risk vs. reward: Skip tight pickups when low on time or health.
+- Q : Les ennemis semblent injustes, des conseils ?  
+  R : Observe leurs trajectoires et attends une fenêtre réellement sûre avant de passer. Forcer un passage serré conduit souvent à une collision.
 
-### Controls Guide
+- Q : Y a‑t‑il de la profondeur dans le scoring ?  
+  R : Oui, les séries de collecte sans dégâts et les retours propres à la ruche sont souvent mieux récompensés que des ramassages isolés.
 
-- Move: Arrow keys / WASD or analog drag.
-- Interact: Automatic pickups on contact.
-- Retry: Quick restart for clean runs.
-
-### Frequently Asked Questions (FAQ)
-
-- Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
-- Is there scoring depth? Longer chains and clean returns typically grant bonuses.
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
+- Q : Puis‑je encaisser plusieurs coups ?  
+  R : De nombreux modes punissent lourdement la perte de vie ou la chute à zéro. Priorise la survie et des trajectoires sûres plutôt que les risques inutiles.
 

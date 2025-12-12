@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: age-of-war
-title: '[KO] Age of War'
+title: 'Age of War 에이지 오브 워'
 description: >-
-  [KO] iscover the ultimate guide to Age of War, the classic strategy game.
-  Learn winning strategies, controls, and tips to evolve your army from cavemen
-  to future warriors and dominate the battlefield.
+  동굴인에서 미래 병사까지 시대를 진화시키며 적 기지를 파괴하는 고전 전략
+  게임 Age of War입니다. 공격과 수비, 진화 타이밍을 조절해 전장을 지배해
+  보세요.
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/age-of-war.jpg
@@ -16,50 +16,85 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Age of War는 플래시 게임 시절 큰 인기를 끌었던 2D 횡스크롤 전략 게임입니다.
+플레이어 기지와 적 기지가 양쪽에 위치하고, 서로 유닛을 생산해 상대 기지를
+파괴하는 것이 기본 구조입니다. 이 게임의 가장 큰 특징은 **시대 진화
+(Evolution)** 시스템으로, 플레이어는 석기 시대에서 시작해 경험치(XP)를 모아
+중세, 현대, 미래 등 총 다섯 단계의 시대로 진화할 수 있습니다. 시대가
+진화할수록 더 강력한 유닛과 포탑을 사용할 수 있고, 진화 시 기지 체력이
+전부 회복됩니다. 최종 목표는 적의 파상공세를 버티며 상대 기지를 먼저
+파괴하는 것입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략 가이드
 
-Age of War is a classic 2D side-scrolling strategy game that became widely popular during the Flash game era. The game's core concept is a battle between two bases, one belonging to the player and the other to an AI opponent. The unique and defining feature of the game is its "evolution" mechanic. Players start in the Stone Age (as cavemen) and must earn experience points (XP) to advance through five distinct eras: Stone Age, Middle Ages, Modern Age, and finally, the Future Age. Each evolution not only unlocks more powerful units and defensive turrets but also fully restores your base's health. The ultimate goal is simple: survive the enemy's onslaught and destroy their base.
+공격, 수비, 진화 타이밍의 균형을 잡는 것이 승리의 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+#### 1. 초반 전략 (석기 시대)
 
-Mastering Age of War requires a balance of offense, defense, and strategic timing.
+*   **클럽맨 러시:** 가장 저렴한 기본 유닛인 "Club Man"(몽둥이맨)을 여러
+    개 빠르게 생산해 초반부터 상대를 몰아붙이는 전략이 많이 쓰입니다. 가격
+    대비 효율이 좋아 초반에는 수량 싸움에서 강합니다.
+*   **XP 확보에 집중:** 적 유닛을 많이 처치할수록 경험치가 빨리 쌓입니다.
+    공격적으로 밀어붙여 XP를 빠르게 모으면, 상대보다 먼저 상위 시대로 진화해
+    유리한 고지를 점할 수 있습니다.
+*   **첫 포탑 건설:** 가능해지는 즉시 첫 번째 포탑(Sling Shot)을 설치하는
+    것이 좋습니다. 포탑은 기지 근처를 자동으로 방어해 주어, 유닛과 기지
+    체력을 아끼면서 진화나 강력한 유닛을 준비할 시간을 벌어 줍니다.
 
-#### 1. Early Game Strategy (Stone Age)
-*   **[KO]** **The Caveman Rush:** The most common and effective opening strategy is to spam the cheapest unit, the "Club Man." They are cost-effective and can quickly overwhelm the enemy in the early stages.
-*   **[KO]** **Focus on XP:** Your primary goal is to kill enemy units to gain XP as quickly as possible. A strong offensive push helps you earn XP faster, leading to an earlier evolution.
-*   **[KO]** **First Turret:** Build the first turret (Sling Shot) as soon as you can afford it. It provides crucial defensive support and helps you conserve units and health while you save up for more powerful troops or your first evolution.
+#### 2. 중반 전략 (중세 & 현대 시대)
 
-#### 2. Mid-Game Strategy (Middle Ages & Modern Age)
-*   **[KO]** **Balanced Army:** Stop spamming only one type of unit. Create a balanced force. Place melee units (knights, infantry) at the front to absorb damage and protect your powerful but fragile ranged units (archers, riflemen) in the back.
-*   **[KO]** **When to Evolve:** Timing your evolution is critical. The best time to evolve is when your base health is low, as evolving fully restores it. Alternatively, evolve when you have a clear battlefield advantage to press your attack with superior units. Don't evolve if you are in the middle of a strong push, as it will clear all your units from the field.
-*   **[KO]** **Use Your Special Ability:** Each age comes with a powerful special ability (e.g., meteor shower, god's wrath). These have a long cooldown but can turn the tide of a battle. Use them to wipe out a large wave of enemy units or to support your own major offensive.
+*   **균형 잡힌 병력 구성:** 초반처럼 한 종류 유닛만 무한 생산하는 방식은
+    한계가 있습니다. 전방에는 기사·보병 같은 근접 유닛을 배치해 피해를 받게
+    하고, 후방에는 궁수·라이플맨 등 원거리 유닛을 세워 화력을 유지하는 식으로
+    전열을 정리하세요.
+*   **진화 타이밍 잡기:** 진화는 기지 체력을 모두 회복시켜 주지만, 진화하는
+    순간 현재 필드 위의 아군 유닛이 모두 사라집니다.  
+    - 기지 체력이 많이 깎였을 때 진화해 체력을 한 번에 회복하는
+      '긴급 회복' 용도로 쓰거나,  
+    - 이미 전장을 장악해 여유가 있을 때 진화해 더 강한 유닛으로 공세를
+      이어 가는 식이 좋습니다.  
+    강하게 밀고 있는 한가운데에서 진화하면 전선이 비어 역공을 허용할 수
+    있으니 주의하세요.
+*   **시대별 스페셜 스킬 활용:** 각 시대마다 쿨타임이 긴 강력한 스킬(운석
+    떨어뜨리기, 신의 분노 등)이 있습니다. 적 유닛이 한꺼번에 몰려 있을 때
+    사용하면 전장을 한 번에 정리할 수 있고, 결정적인 공세를 지원하는 용도로도
+    좋습니다.
 
-#### 3. Late Game Strategy (Future Age)
-*   **[KO]** **The Super Soldier:** In the Future Age, the "Super Soldier" is one of the most powerful units in the game. They are expensive but incredibly durable and have immense firepower. Saving up for a few of these can create an unstoppable force.
-*   **[KO]** **Advanced Turrets:** Fully upgrade your turrets. The final-era turrets deal massive damage and are essential for defending against the enemy's powerful futuristic units.
-*   **[KO]** **Final Push:** Coordinate your most powerful units with your special ability for a final, decisive push to destroy the enemy base.
+#### 3. 후반 전략 (미래 시대)
 
-### Controls Guide
+*   **슈퍼 솔저 운용:** 미래 시대에 해금되는 "Super Soldier"는 체력과 공격력이
+    모두 매우 높은 최종병기급 유닛입니다. 가격이 비싸지만 몇 기만 모여도
+    전장을 밀어붙이는 힘이 강하므로, 금을 모아 집중 운용하면 좋습니다.
+*   **포탑 풀 업그레이드:** 후반에는 적도 강력한 유닛을 대량으로 보내기
+    때문에, 기지 위 포탑을 최종 단계까지 업그레이드해 두는 것이 필수입니다.
+*   **마지막 총공세:** 슈퍼 솔저와 최종 포탑, 시대 스페셜 스킬을 동시에
+    활용해 적 기지를 향해 한 번에 밀어붙이는 '마지막 러시'를 노려 보세요.
 
-The game is controlled almost entirely with the mouse.
+### 조작 방법
 
-*   **[KO]** **Train Units:** Click on the unit icons at the top-left of the screen to train them. You must have enough gold.
-*   **[KO]** **Build Turrets:** Click on the empty turret slots on top of your base to open the build menu, then select a turret to construct.
-*   **[KO]** **Use Special Ability:** Click the special ability icon on the top-right of the screen when it's ready (not on cooldown).
-*   **[KO]** **Evolve:** Click the "Evolve" button at the top-right of the screen once you have accumulated enough XP.
+거의 모든 조작은 마우스로 이루어집니다.
 
-### Frequently Asked Questions (FAQ)
+*   **유닛 생산:** 화면 좌상단의 유닛 아이콘을 클릭하면, 보유 골드를 소모해
+    해당 유닛을 생산합니다.
+*   **포탑 건설:** 기지 위의 빈 포탑 슬롯을 클릭해 포탑 선택 메뉴를 열고,
+    원하는 포탑을 선택해 건설합니다.
+*   **스페셜 스킬 사용:** 화면 우상단의 스페셜 스킬 아이콘을 클릭해 발동합니다
+    (쿨타임이 끝났을 때만 사용 가능).
+*   **시대 진화:** 충분한 XP를 모으면 우상단의 "Evolve" 버튼이 활성화됩니다.
+    클릭해 다음 시대로 진화할 수 있습니다.
 
-*   **[KO]** **Q: How do I get XP?**
-    *   **[KO]** **A:** You gain Experience Points (XP) every time one of your units kills an enemy unit.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What is the best unit in the game?**
-    *   **[KO]** **A:** While it depends on the situation, the "Super Soldier" from the Future Age is widely considered the most powerful all-around unit due to its high health and damage. In the early game, the basic Club Man is the most effective for its cost.
+*   **Q: XP는 어떻게 모으나요?**
+    *   **A:** 내 유닛이 적을 처치할 때마다 XP를 얻습니다. 계속 압박해 적을 빠르게 정리할수록 진화가 빨라집니다.
 
-*   **[KO]** **Q: Is it better to build more turrets or train more units?**
-    *   **[KO]** **A:** In the early game, a mix is best. One or two turrets provide stable defense, allowing you to save gold for a strong offensive army. In the late game, having fully upgraded turrets is crucial for survival.
+*   **Q: 가장 강한 유닛은 무엇인가요?**
+    *   **A:** 상황에 따라 다르지만 미래 시대의 ‘슈퍼 솔져’는 체력과 공격력이 모두 최고라서 후반부의 핵심 전력이 됩니다.
 
-*   **[KO]** **Q: Where can I play Age of War now that Flash is gone?**
-    *   **[KO]** **A:** Many gaming websites like CrazyGames, Armor Games, and Kongregate now host Age of War using Flash emulators (like Ruffle), making it fully playable in modern web browsers. There are also mobile versions available on iOS and Android app stores.
+*   **Q: 포탑을 늘리는 것과 유닛을 많이 뽑는 것 중 뭐가 낫나요?**
+    *   **A:** 초반에는 포탑 1~2개로 방어를 안정시키면서 공격용 유닛을 꾸준히 생산하는 혼합 구성이 가장 안전합니다.
+
+*   **Q: 플래시가 종료된 뒤에는 어디에서 Age of War를 즐길 수 있나요?**
+    *   **A:** CrazyGames, Armor Games, Kongregate 등에서 HTML5/에뮬레이션 버전을 제공하니, ‘Age of War HTML5’를 검색해 최신 브라우저에서 플레이하세요.

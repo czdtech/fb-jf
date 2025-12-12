@@ -1,70 +1,37 @@
 ---
+title: "Football Kickoff"
+description: "Football Kickoffはスペシャルチームに焦点を当てています。キックの狙いを定め、風を読み、巧みなパワーコントロールでフィールドポジションを確保しましょう。"
+iframeSrc: "https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/"
+thumbnail: "/new-images/football-kickoff.jpg"
+urlstr: "football-kickoff"
+score: "3.8/5  (1709 votes)"
+tags: ["sports", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: football-kickoff
-title: '[JA TRANSLATION NEEDED] Football Kickoff'
-description: >-
-  [JA TRANSLATION NEEDED] Football Kickoff spotlights special teams — aim kicks,
-  read wind, and nail field position with smart power control.
-iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
-thumbnail: /new-images/football-kickoff.jpg
-tags:
-  - sports
-  - casual
-score: 3.8/5  (1709 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Football Kickoffは、アメリカンフットボールのキッキングシナリオに焦点を当てています。プレースキックでのフィールドゴール、方向を指定するキックオフ、そして時折のパント。風、スナップのタイミング、レース（ボールの縫い目）が重要です。パワーメーターの正確なタイミングと正しい狙いが、距離と精度を決定します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Football Kickoff focuses on American‑football kicking scenarios: placekick field goals, directional kickoffs, and occasional punts. Wind, snap timing, and laces matter; clean timing on the power meter and correct aim decide distance and accuracy.
+1.  **風を読む**: 風上に向かって狙いをずらしましょう。風が強いほど、大きな補正が必要です。
+2.  **パワーのタイミング**: スイートスポット付近で止めましょう。パワーを強くしすぎると、フックやスライス（カーブ）のリスクが高まります。
+3.  **弾道**: 長いキックには弧を描かせ、短い距離での精度が必要な場合は、弾道を低くして風によるドリフトを減らしましょう。
+4.  **キックオフの配置**: コーナーを狙ってリターンを制限し、深さを変えて相手のフィールドポジションを悪くしましょう。
+5.  **パント**: コフィンコーナー（相手陣地の奥深く）と滞空時間を狙い、味方がカバーできるようにしましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Wind read: Offset aim into the wind; stronger winds require larger compensation.
-[JA TRANSLATION NEEDED] 2.  Power timing: Stop near the sweet spot; over‑powering increases hook/slice risk.
-[JA TRANSLATION NEEDED] 3.  Trajectory: For long kicks, add arc; for short accuracy, lower arc reduces drift.
-[JA TRANSLATION NEEDED] 4.  Kickoff placement: Target corners to limit returns; vary depth to force poor field position.
-[JA TRANSLATION NEEDED] 5.  Punts: Aim for coffin corner and hang time to allow coverage.
+- **操作全般**: マウス/キーで狙いを定め、メーターでパワーを設定し、精度ゾーンでリリースします。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Aim with mouse/keys; set power with a meter; release on the accuracy zone.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Why do my kicks hook hard?
-  
-[JA TRANSLATION NEEDED]   A: You’re slamming max power or mis‑timing accuracy. Reduce power slightly and hit the accuracy zone cleanly.
-
-- Q: How to kick farther?
-  
-[JA TRANSLATION NEEDED]   A: Hit near‑max power with a high arc, but ensure accuracy timing to avoid drift.
-
-- Q: Best kickoff strategy?
-  
-
-
-
-
-
-- Q: Why do my kicks hook hard?
-### よくある質問（FAQ）
-- Aim with mouse/keys; set power with a meter; release on the accuracy zone.
-### コントロールガイド
-- Punts: Aim for coffin corner and hang time to allow coverage.
-[JA TRANSLATION NEEDED]   A: Corner deep kicks with hang time to force returns toward the sideline.
-
-
-
-
-
-
-A: Corner deep kicks with hang time to force returns toward the sideline.
-- Q: Best kickoff strategy?
-A: Hit near‑max power with a high arc, but ensure accuracy timing to avoid drift.
-- Q: How to kick farther?
-
-
-A: Corner deep kicks with hang time to force returns toward the sideline.
+- **Q: キックが大きくフックしてしまうのはなぜですか？**
+  A: パワーを最大にしすぎているか、精度のタイミングがずれています。パワーを少し下げて、精度ゾーンできれいにヒットさせましょう。
+- **Q: より遠くに蹴るには？**
+  A: 高い弾道で最大に近いパワーで蹴りますが、ドリフトを避けるために精度のタイミングを確実に合わせましょう。
+- **Q: 最適なキックオフ戦略は？**
+  A: 滞空時間のあるキックをコーナー深くに蹴り込み、リターンをサイドラインに向かわせることです。

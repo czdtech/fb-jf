@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: climb-man
-title: '[ZH TRANSLATION NEEDED] Climb Man'
+title: "Climb Man 登天小子"
 description: >-
-  [ZH TRANSLATION NEEDED] Master the fast-paced arcade game, Climb Man: Walk to
-  the Sky. This guide provides expert strategies for timing your climbs,
-  avoiding obstacles, and unlocking new characters to reach the highest score.
+  在《Climb Man: Walk to the Sky 登天小子》中挑战节奏飞快的爬楼街机玩法。掌握左右阶
+  梯切换的节奏，躲开绳索等障碍，完成任务并解锁新角色，冲击最高分。
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/climb-man.png
 tags:
@@ -16,42 +15,62 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] *Climb Man: Walk to the Sky* is a fast-paced and addictive arcade climber that tests your timing and reflexes. The objective is to **climb an endless, zig-zagging staircase as high as possible without falling or being hit by obstacles.**
+《Climb Man: Walk to the Sky 登天小子》是一款节奏紧凑、上头感十足的爬楼街机游戏，主
+要考验你的反应和节奏感。你的目标是**沿着无限延伸的“之”字形楼梯一路向上，在不踩空、
+不撞上障碍的前提下爬到尽可能高的位置。**
 
-[ZH TRANSLATION NEEDED] Players control a character who stands at the bottom of a staircase. By tapping the "Left Climb!" or "Right Climb!" buttons, the character will jump to the next step in that direction. You must tap the correct button corresponding to the next step's location.
+玩家操控的角色一开始站在楼梯底部。通过点击“Left Climb!” 或 “Right Climb!” 按钮，角
+色会跳向对应方向的下一阶台阶。你必须在台阶出现的瞬间，快速判断下一阶在左边还是右
+边，并点中正确的按钮。
 
-[ZH TRANSLATION NEEDED] The challenge comes from the increasing speed and the appearance of various obstacles, such as ropes or other hazards, that you must avoid. A single mistimed tap or a wrong directional choice will cause your character to fall, ending the run. The goal is to climb as many steps as possible to achieve a high score, complete missions, and unlock new characters.
+随着高度不断上升，游戏节奏会越来越快，同时还会出现绳索等各种障碍物打乱你的节奏。
+只要节奏错位或方向按错，角色就会踩空或撞上障碍，从楼梯上坠落，本局立即结束。你的
+目标是尽可能多地攀登阶梯，刷新最高得分，并完成任务解锁更多角色。
 
 ### **Gameplay Strategy & Tips**
 
-1.  **Find Your Rhythm**: This is a rhythm-based game at its core. Don't just react to each step as it comes. Try to get into a steady "tap-tap-tap" rhythm that matches the flow of the stairs.
-2.  **Look Ahead, Not at Your Character**: Your focus should be two or three steps ahead of your character. This allows you to anticipate the pattern of the stairs (e.g., left-right-left vs. left-left-right) and mentally prepare your next sequence of taps.
-3.  **Don't Panic at Obstacles**: Obstacles are designed to break your rhythm and cause a mistake. When you see an obstacle, stay calm, identify the safe path, and continue your climb. A brief pause to assess is better than a panicked wrong move.
-4.  **Master the "Double Tap"**: You will frequently encounter two consecutive steps on the same side. Be ready to quickly tap the same button twice in a row. This is a common point where players lose their rhythm.
-5.  **Complete Missions and Daily Rewards**: As the screenshots show, the game has a meta-progression system with missions, daily check-ins ("Attendance Check"), and currency (gold and diamonds). Log in daily and focus on completing missions to earn currency, which can be used to unlock new characters (like the "Swordsman") and potentially power-ups.
-6.  **Use Two Thumbs**: For maximum speed and control, play with both thumbs, hovering over the left and right buttons, respectively. This is much faster and more accurate than using a single finger.
+1.  **先找到自己的节奏：** 本质上这是一款节奏类反应游戏，不要把每一步都当作独立事件
+    去“救火式”地看，而是尝试进入一个稳定的“哒哒哒”节奏，让点击与楼梯生成的节奏匹配
+    。
+2.  **看前方，不要盯着脚下：** 视线尽量放在角色前方两三阶的位置，而不是只盯着当前台
+    阶。提前观察楼梯是“左‑右‑左”还是“左‑左‑右”之类的模式，有助于你在心里先排好下一
+    组点击节奏。
+3.  **遇到障碍时别慌：** 绳索等障碍就是为了打乱你的节奏设计的。看见障碍时先稳住，不
+    要乱点，先确认安全路径，再按原有节奏继续。短暂的判断停顿，比慌乱中按错要好得多
+    。
+4.  **学会快速“连点”同侧台阶：** 游戏中经常会出现同一侧连续两阶甚至更多台阶的情况
+    。要提前预判并准备好对同一侧按钮进行快速双击或多连击，这是许多玩家最容易失误的
+    节点。
+5.  **善用任务与签到系统：** 游戏提供任务、每日签到（Attendance Check）、金币与钻石
+    等 meta 养成系统。记得每天上线领取奖励，并优先完成任务来赚取货币，用于解锁新角
+    色（例如“剑士”）以及可能出现的增益道具。
+6.  **双拇指操控更稳：** 推荐左右手大拇指分别悬停在左右按钮上，用双手进行输入。相比
+    单指来回移动，这样的操作方式速度更快，误触率也更低。
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The controls are extremely simple, designed for fast-paced mobile gameplay.
+本作的操作非常简单，完全为移动端快节奏体验设计。
 
-*   **Climb Left**: Tap the **"Left Climb!"** button on the bottom left of the screen.
-*   **Climb Right**: Tap the **"Right Climb!"** button on the bottom right of the screen.
+*   **向左爬：** 点击屏幕左下角的 **“Left Climb!”** 按钮。
+*   **向右爬：** 点击屏幕右下角的 **“Right Climb!”** 按钮。
 
 ### **Frequently Asked questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. What happens if I press the wrong button?**
-[ZH TRANSLATION NEEDED] If you press "Left Climb!" when the next step is on the right (or vice versa), your character will jump into the empty space and fall, ending the game.
+**1. 如果按错方向会发生什么？**  
+当下一阶台阶在右边而你按了“Left Climb!”（或反之），角色就会跳向空中踩空坠落，本局
+立即结束。
 
-[ZH TRANSLATION NEEDED] **2. How do I get new characters?**
-[ZH TRANSLATION NEEDED] As shown in the "Attendance Check" screen, you can unlock characters like the "Swordsman" by logging in for consecutive days. You can also likely purchase new characters from the "Shop" or unlock them through the "Character" menu using the gold and diamonds you earn from playing and completing missions.
+**2. 怎么解锁新角色？**  
+在“签到奖励（Attendance Check）”界面中，可以看到例如“剑士（Swordsman）”等角色的解
+锁条件。连续登录达到指定天数即可领取；同时你也可以在“商店（Shop）”或“角色（Character）
+”菜单中，使用通过对局和完成任务获得的金币、钻石来购买或解锁角色。
 
-[ZH TRANSLATION NEEDED] **3. What is the goal of the game?**
-[ZH TRANSLATION NEEDED] The primary goal is to achieve the highest score possible by climbing the most steps in a single run. A secondary goal is to complete missions and collect all the available characters.
+**3. 这款游戏的目标是什么？**  
+主要目标是在单局中尽可能多地攀登台阶、刷出更高的分数。次要目标则是完成各种任务、
+收集并解锁全部可用角色。 
 
-[ZH TRANSLATION NEEDED] **4. Is this game endless?**
-[ZH TRANSLATION NEEDED] Yes, the main gameplay mode is an endless climber where the stairs are procedurally generated, and you climb until you make a mistake.
-
+**4. 游戏是不是无尽模式？**  
+是的，本作是典型的无尽爬楼玩法。楼梯由系统按规则持续生成，你会一直往上爬直到按错
+或者节奏失误为止。

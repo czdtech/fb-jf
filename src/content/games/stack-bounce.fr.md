@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: stack-bounce
-title: '[FR] Stack Bounce'
+title: Stack Bounce
 description: >-
-  [FR] Test your timing and reflexes in Stack Bounce. Smash through colorful
-  platforms by holding down, but be sure to release before you hit the black
-  obstacles to keep the ball bouncing.
+  Teste ton sens du timing et tes réflexes dans Stack Bounce. Traverse les
+  plateformes colorées en les brisant, mais relâche avant de toucher les zones
+  noires si tu veux continuer à rebondir.
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
 thumbnail: /new-images/stack-bounce.jpeg
 tags:
@@ -16,37 +16,56 @@ score: 4.4/5  (2451 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée du jeu
 
+Stack Bounce est un jeu d’arcade 3D nerveux où tu contrôles une balle qui
+descend le long d’une tour en spirale composée de plateformes colorées.
+L’objectif : atteindre le bas de la tour en détruisant un maximum d’étages
+sans percuter les segments noirs, impossibles à briser.
 
+Le principe est simple : une commande, mais beaucoup de maîtrise. Plus tu
+gardes le bouton appuyé longtemps, plus la balle accélère et traverse de
+niveaux de plateformes d’un coup, ce qui est grisant… mais risqué.
 
+### Stratégie et astuces de gameplay
 
-### Detailed Game Introduction
+1. **Maintenir pour briser :** garde le clic ou ton doigt appuyé pour faire
+   traverser les plateformes colorées à la balle et descendre plus vite.
+2. **Relâcher au bon moment :** observe la rotation de la tour et relâche
+   juste avant d’atteindre une zone noire pour éviter le game over.
+3. **Construire le mode « Fever » :** en détruisant plusieurs plateformes
+   d’affilée sans t’arrêter, tu remplis une jauge spéciale. Une fois pleine,
+   la balle entre en mode Fever : elle devient incassable et peut traverser
+   même les parties noires pendant quelques instants.
+4. **Rester patient :** ne fonce pas tête baissée. Attends un bon alignement
+   de plateformes colorées avant de maintenir longtemps, surtout dans les
+   niveaux avancés.
 
-Stack Bounce is a vibrant and addictive 3D arcade game that tests players' timing and reflexes. The game features a bouncing ball that must descend through a helix tower made of colorful, breakable platforms. The objective is to reach the bottom of the tower by smashing through the stacks. However, players must strategically avoid the black, unbreakable sections of the platforms, as hitting them results in an instant game over. With its simple one-touch controls and satisfying destruction physics, Stack Bounce is easy to pick up but challenging to master.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- **PC :** clique et maintiens le bouton gauche pour fracasser les plateformes,
+  relâche pour laisser la balle rebondir.
+- **Mobile / tablette :** maintiens ton doigt sur l’écran pour casser, relève‑le
+  pour arrêter.
 
-1.  **[FR]** **Hold to Smash:** The core mechanic is simple: press and hold the screen or mouse button to make the ball smash through the colored platforms. The longer you hold, the faster you descend.
-2.  **[FR]** **Timing Your Release:** The most crucial skill is knowing when to release. As the tower rotates, you must release your hold just before the ball hits a black section. The ball will then bounce harmlessly on the platform until you decide to smash again.
-3.  **[FR]** **Build Up Fever Mode:** If you successfully smash through several platforms in a row without stopping, you will build up a power meter. Once full, the ball enters "Fever Mode." In this state, it becomes a fiery projectile that can smash through *any* platform, including the black ones, for a short period. Use this to your advantage to clear difficult sections.
-4.  **[FR]** **Patience is a Virtue:** Don't get greedy. It's often better to pause and wait for the right opening than to risk hitting a black platform by rushing. Wait for a long stretch of colored platforms to appear before holding down to build up speed.
+### FAQ rapide
 
-### Controls Guide
+- **Que se passe‑t‑il si je touche une zone noire ?**  
+  La balle se brise et la partie est terminée, tu dois recommencer le niveau.
+    - **Comment activer le mode Fever ?**  
+  En enchaînant les plateformes détruites sans pause jusqu’à remplir la jauge
+  circulaire. Dès qu’elle est pleine, le mode s’active automatiquement.
+- **Peut‑on casser les zones noires en mode Fever ?**  
+  Oui, pendant le mode Fever la balle peut tout traverser sans risque.
+    - **Le jeu a‑t‑il une fin ?**  
 
-*   **[FR]** **Desktop/Laptop:** Press and hold the **left mouse button** to smash through platforms. Release the button to stop smashing and let the ball bounce.
-*   **[FR]** **Mobile/Tablet:** Press and hold your **finger on the screen** to smash. Lift your finger to stop.
+- **A:** The game is level-based. Your goal is to reach the bottom of the helix tower to complete the current level and move on to the next, which will often be longer or more complex.
 
-### Frequently Asked Questions (FAQ)
+    - **Q: Is there an end to the game?**
 
-*   **[FR]** **Q: What happens if I hit a black platform?**
-    *   **[FR]** **A:** Your ball shatters, and the game is over. You will have to restart the level.
+- **A:** Yes. During Fever Mode, the ball is invincible and can destroy any platform, including the black ones, without penalty.
 
-*   **[FR]** **Q: How do I activate Fever Mode?**
-    *   **[FR]** **A:** You activate it automatically by creating a long, uninterrupted combo of smashing through colored platforms. A circular meter will show your progress. Once it's full, Fever Mode begins.
-
-*   **[FR]** **Q: Can I break black platforms in Fever Mode?**
-    *   **[FR]** **A:** Yes. During Fever Mode, the ball is invincible and can destroy any platform, including the black ones, without penalty.
-
-*   **[FR]** **Q: Is there an end to the game?**
-    *   **[FR]** **A:** The game is level-based. Your goal is to reach the bottom of the helix tower to complete the current level and move on to the next, which will often be longer or more complex.
+    - **Q: Can I break black platforms in Fever Mode?**
+  Le jeu est organisé en niveaux. Ton objectif est d’atteindre le bas de la
+  tour à chaque niveau, les suivants étant de plus en plus longs ou complexes.
 

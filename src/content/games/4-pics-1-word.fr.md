@@ -1,79 +1,67 @@
 ---
 locale: fr
 urlstr: 4-pics-1-word
-title: '[FR] 4 Pics 1 Word'
-description: '[FR] Here''s your chance to play 4 Pics 1 Word Game. Have fun with this one!'
+title: "4 Pics 1 Word"
+description: "4 Pics 1 Word est un grand classique des jeux de mots : observe 4 images, trouve le mot qui les relie et complète des dizaines d’énigmes visuelles." 
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/4-pics-1-word.jpg
 tags:
-  - casual
-  - rhythm
+    - casual
+    - rhythm
 score: 4.5/5  (144 votes)
 developer: So Far So Good
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-
-
-
-
-*4 Pics 1 Word* (German: *4 Bilder 1 Wort*) is a highly popular and straightforward word puzzle game developed by LOTUM GmbH. The core concept is to guess a single word that is common to four different pictures shown on the screen. The game tests your lateral thinking, vocabulary, and ability to find connections between visual cues. Its simple premise and engaging puzzles have made it a lasting hit on mobile devices.
+*4 Pics 1 Word* est un jeu de mots très populaire au principe ultra simple : quatre images sont affichées, et un seul mot les relie toutes. À toi de deviner ce mot en t’appuyant sur les indices visuels. Le jeu met à l’épreuve ta capacité à faire des liens, ton vocabulaire et ton sens de l’observation.
 
 ---
 
-### How to Play 4 Pics 1 Word
+### Guide de jeu
 
-The gameplay is incredibly simple and intuitive, making it accessible to players of all ages.
+Le fonctionnement est très simple et intuitif, ce qui le rend accessible à tous les joueurs, même débutants.
 
-*   **[FR]** **The Goal:** Look at the four pictures presented and figure out the one word that they all represent or are associated with. This word can be a noun, verb, or adjective.
-
-*   **[FR]** **Guessing the Word:**
-    1.   **[FR]** Below the pictures, you will see a set of blank spaces representing the letters of the target word.
-    2.   **[FR]** Further below is a jumbled selection of letters.
-    3.   **[FR]** Tap the letters in the correct order to spell out your answer in the blank spaces.
-    4.   **[FR]** If you make a mistake, you can tap the letter in the answer space to return it to the selection area.
-
-*   **[FR]** **Earning Coins:** For each puzzle you solve correctly, you earn a small number of coins. These coins are the in-game currency used for getting hints.
-
-*   **[FR]** **Using Hints:** If you get stuck on a puzzle, there are several hints you can "purchase" with your earned coins:
-    *   **[FR]** **Reveal a Letter:** This will place one correct letter into its proper position in the answer. This is the most common and cheapest hint.
-    *   **[FR]** **Remove Letters:** This will remove several letters from the jumbled selection that are *not* part of the answer, making it much easier to guess the word.
-    *   **[FR]** **Ask a Friend:** The game provides a built-in feature to take a screenshot of the puzzle and easily share it on social media or messaging apps to ask for help.
+- **But du jeu :** regarde les quatre images et cherche le mot unique qui les décrit toutes ou qui représente l’idée commune.
+- **Composer le mot :**
+    - Sous les images, tu vois des cases vides correspondant au nombre de lettres du mot à trouver.
+    - Plus bas, un tas de lettres mélangées est proposé.
+    - Tape sur les lettres dans l’ordre pour remplir les cases et former ton mot.
+    - En cas d’erreur, retape sur une lettre dans la zone de réponse pour la renvoyer dans la réserve.
+- **Gagner des pièces :** chaque énigme réussie te donne des pièces que tu pourras utiliser plus tard pour débloquer de l’aide.
+- **Indices disponibles :** tu peux dépenser ces pièces pour :
+    - Révéler une lettre correcte.
+    - Retirer des lettres inutiles de la réserve.
+    - Demander de l’aide à des amis en partageant la capture.
 
 ---
 
-### Strategy and Tips
+### Astuces
 
-While the game is simple, a few strategies can help you solve puzzles more efficiently.
+Même si le principe est simple, ces astuces t’aideront à trouver la bonne réponse plus rapidement.
 
-1.  **[FR]** **Analyze Each Picture Individually:** First, describe each of the four pictures to yourself using simple words. Look for actions, objects, colors, or concepts.
-    *   **[FR]** *Example:* If you see a person sleeping, a light switch turned off, a dark sky, and an owl, individual words might be "sleep," "off," "dark," "night," "bird."
-
-2.  **[FR]** **Find the Common Theme:** After analyzing each picture, look for the overlapping concept or word. In the example above, the common theme is **"DARK"** (a dark room, a dark sky, a creature of the night).
-
-3.  **[FR]** **Think Abstractly:** Don't always think literally. Sometimes the connection is a concept or an idea.
-    *   **[FR]** *Example:* Pictures of a scale, a judge's gavel, and a blindfolded statue might all point to the word **"JUSTICE"**.
-
-4.  **[FR]** **Consider Wordplay and Multiple Meanings:** The game often uses words with double meanings (homonyms).
-    *   **[FR]** *Example:* A picture of a tree's outer layer and a dog's sound might both relate to the word **"BARK"**.
-
-5.  **[FR]** **Look at the Letter Count and Available Letters:** The number of blank spaces tells you exactly how long the word is. Use the provided letters as a major clue. If you have an idea, check if the necessary letters are available before you get too attached to it.
-
-6.  **[FR]** **Use Coins Wisely:** The "Remove Letters" hint is often more valuable than "Reveal a Letter," as it can make the answer immediately obvious. Save your coins for truly difficult puzzles.
+1. **Décris chaque image :** dans ta tête, nomme chaque photo avec des mots simples (objet, action, couleur, émotion…).
+    - *Exemple :* une personne qui dort, un interrupteur éteint, un ciel nocturne et une chouette peuvent t’amener à des mots comme « sommeil », « nuit », « sombre ».
+2. **Cherche le thème commun :** une fois les images décrites, demande‑toi quel mot ou quelle idée revient dans toutes.
+3. **Pense de façon abstraite :** le lien n’est pas toujours littéral – parfois c’est un concept (par ex. « justice », « froid », « sombre »).
+    - *Exemple :* une balance, un marteau de juge et une statue aux yeux bandés évoquent tous la **justice**.
+4. **Attention aux jeux de mots et doubles sens :** un même mot peut désigner deux réalités.
+    - *Exemple :* l’écorce d’un arbre et un chien qui aboie renvoient tous deux au mot anglais **« bark »**.
+5. **Regarde le nombre de lettres :** la longueur du mot et les lettres proposées te permettent d’écarter certaines pistes.
+    - *Exemple :* si le mot doit faire six lettres mais tu ne disposes que d’une seule voyelle dans la sélection, élimine d’emblée les hypothèses qui en demanderaient davantage.
+6. **Économise tes pièces :** privilégie la suppression de lettres inutiles, souvent plus rentable qu’une seule lettre révélée.
 
 ---
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-**Q: Is *4 Pics 1 Word* free to play?**
-**A:** Yes, the game is free to download and play. It is supported by in-app purchases (where you can buy more coins for hints) and sometimes advertisements.
+**Q : Le jeu est‑il gratuit ?**  
+**R :** Oui, le jeu est gratuit avec des achats intégrés pour obtenir des pièces supplémentaires et parfois quelques publicités.
 
-**Q: What happens if I run out of coins and am stuck?**
-**A:** Your best free option is to use the "Ask a Friend" feature to share the puzzle. You also earn free coins for solving puzzles, so you can always go back to easier levels (if the version allows) or wait for a daily bonus, if available.
+**Q : Que faire si je n’ai plus de pièces et que je suis bloqué ?**  
+**R :** Utilise la fonction de partage pour demander de l’aide à des amis, ou continue de résoudre d’autres énigmes/bonus pour regagner des pièces.
 
-**Q: Do the four pictures always relate in the same way?**
-**A:** No, and that's the core challenge. Sometimes all four pictures show different examples of the same object (e.g., four types of balls). Other times, they represent a shared concept (e.g., pictures related to "cold": an ice cube, a person shivering, a thermometer showing a low temperature, and a snowy landscape).
+**Q : Les 4 images sont‑elles toujours liées de la même manière ?**  
+**R :** Non. Parfois elles montrent quatre versions du même objet, parfois elles illustrent une idée commune plus subtile.
 
-**Q: Is the game available in other languages?**
-**A:** Yes, *4 Pics 1 Word* is available in many different languages. The puzzles and answers are localized for each language.
-
+**Q : Le jeu existe‑t‑il dans d’autres langues ?**  
+**R :** Oui, 4 Pics 1 Word est disponible dans plusieurs langues, avec des énigmes adaptées au vocabulaire de chaque langue.

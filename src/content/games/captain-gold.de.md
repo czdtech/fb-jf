@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: captain-gold
-title: '[DE] Captain Gold'
+title: "Captain Gold"
 description: >-
-  [DE] Captain Gold is a classic gold‑miner challenge — time throws, hook
-  valuables, and avoid rocks to hit quotas.
+  Captain Gold ist eine klassische Goldgräber-Herausforderung – timinge deine
+  Würfe, angelt wertvolle Schätze und meidet Felsen, um das Geldziel zu
+  erreichen.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/captain-gold.png
 tags:
@@ -15,36 +16,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Captain Gold* folgt der zeitlosen Goldgräber-Formel: Ein Haken schwingt hin
+und her über den Bildschirm, und du lässt ihn im richtigen Moment los, um
+Goldklumpen und andere Schätze einzusammeln. Schwere Objekte werden langsam
+herangezogen, leichte deutlich schneller. Jede Runde hat ein Geldziel und ein
+Zeitlimit; zwischen den Levels kannst du im Laden Upgrades kaufen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Captain Gold follows the timeless gold‑miner formula: swing a hook across the screen and release at the right moment to snag gold nuggets and treasures. Heavy objects pull slowly, light ones reel in faster. Stages set cash targets and time limits, with shop upgrades between rounds.
+1.  Große Nuggets zuerst: Konzentriere dich früh auf große Goldklumpen und
+    Geldsäcke – sie bringen viel Wert pro Zug und helfen dir, das Soll schnell
+    zu erfüllen.
+2.  Felsen meiden: Steine sind schwer und bringen kaum Geld. Greife sie nur an,
+    wenn du damit den Weg zu wertvolleren Objekten freiräumen musst.
+3.  Dynamit einsetzen: Wenn verfügbar, kannst du unerwünschte Objekte während
+    des Einholens mit Dynamit sprengen. Das spart Zeit, die du sonst an
+    nutzlosen Brocken verlieren würdest.
+4.  Clever einkaufen: Investiere im Shop zuerst in mehr Zugkraft oder extra
+    Dynamit. Passe deine Einkäufe an das Layout der nächsten Runde an.
+5.  Timing üben: Durch die Schwungbewegung musst du den Haken leicht vor dem
+    gewünschten Zielpunkt auslösen. Mit ein wenig Übung bekommst du schnell ein
+    Gefühl für den richtigen Moment.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Prioritize big nuggets and bags early for faster quota.
-2.  **[DE]** Avoid rocks — they’re heavy and low value unless you must clear space.
-3.  **[DE]** Use dynamite (if available) to drop unwanted items mid‑reel.
-4.  **[DE]** Shop smart: buy power‑reel or extra dynamite first; evaluate per stage layout.
-5.  **[DE]** Timing cues: Release slightly before the hook lines up due to swing momentum.
+- Tippen/Klicken, um den Haken in seiner aktuellen Position herunterzulassen.
+- Erneut tippen/klicken, um – falls vorhanden – Dynamit zu zünden und das
+  gerade eingehakte Objekt zu sprengen.
+- Navigiere mit Maus oder Touch durch die Shop-Menüs zwischen den Levels.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Tap/Click to release the hook; tap again to use dynamite if supported.
-- Navigate shop menus between levels.
+- Ich erreiche das Geldziel knapp nicht – Tipps?
+  
+  Fokussiere dich auf die größten sichtbaren Nuggets und ignoriere Steine.
+  Rüste so früh wie möglich die Einholgeschwindigkeit auf, damit du in einer
+  Runde mehr Fänge schaffst.
 
-### Frequently Asked Questions (FAQ)
+- Lohnt sich Dynamit wirklich?
+  
+  Besonders in layout mit vielen Felsen ja – du sparst damit viel Zeit, die du
+  sonst in nutzlosen Zügen verlieren würdest.
 
-- Q: I keep coming up short on cash — any tips?
-
-A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
-
-- Q: Is dynamite worth it?
-
-A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
-
-- Q: Can I control hook angle precisely?
-
-A: Learn the swing rhythm; release a fraction early to account for motion.
-
+- Kann ich den Winkel des Hakens genau steuern?
+  
+  Nicht direkt – du musst das Pendelgefühl trainieren. Löse den Haken einen
+  Moment früher aus, als du intuitiv denkst, um das Ziel zu treffen.

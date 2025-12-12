@@ -1,44 +1,47 @@
 ---
 locale: zh
 urlstr: tropical-merge
-title: '[ZH TRANSLATION NEEDED] Tropical Merge'
-description: >-
-  [ZH TRANSLATION NEEDED] Tropical Merge is a sunny merge adventure — build
-  chains, complete quests, and expand islands with smart space/energy use.
-iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
-thumbnail: /new-images/tropical-merge.png
+title: 《Tropical Merge》热带合成小岛
+description: 《Tropical Merge》是一款岛屿建设+合成玩法的休闲游戏。通过拖动合并相同物品，解锁更高阶建筑与资源，逐步修复和发展热带小岛。
+iframeSrc: 'https://tropicalmerge.h5games.usercontent.goog/v/3h7d2n9c1b5k0/'
+thumbnail: /new-images/tropical-merge.jpg
 tags:
-  - puzzle
+  - merge
+  - building
   - casual
-  - thinky
-score: 4.2/5  (2068 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.1/5  (2100 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+在《Tropical Merge》中，你将来到一座风景优美但破败不堪的热带小岛，需要通过合成玩法一步步重建它。游戏核心机制是“3 合 1”或“5 合 2”：当你将三（或更多）个相同物品拖到一起时，它们就会合成为更高等级的物品。通过这样的合成，你可以从杂草和碎木一路进化到农田、房屋甚至更高级的岛屿设施。
 
-[ZH TRANSLATION NEEDED] Merge items in sets of 3/5 to upgrade resources, clear fog, and unlock islands. Quests guide progression; energy and limited space reward planning over spam‑merging.
+### 游玩策略与建设指引
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Favor 5‑merges for extra yield when possible.
-2.  [ZH TRANSLATION NEEDED] Keep staging zones for near‑complete sets.
-3.  [ZH TRANSLATION NEEDED] Align merges with current quests to accelerate unlocks.
-4.  [ZH TRANSLATION NEEDED] Spend energy in planned bursts; collect dailies.
-5.  [ZH TRANSLATION NEEDED] Pre‑stock before events.
+1.  **尽量 5 合而非 3 合：** 如果条件允许，将 5 个同类物品一起合成通常比两次 3 合更划算，因为可以额外获得一个高阶产物。
+2.  **规划岛屿空间：** 不要把所有地块塞满，留出一定空位用于摆放待合成的物品，避免频繁挪动造成混乱。
+3.  **优先合成核心产出建筑：** 根据任务线或资源需求，优先升级那些可以提供关键材料或推进剧情的建筑。
+4.  **注意任务与订单系统：** 有些任务会要求特定物品，合成前最好确认是否会影响后续任务交付节奏。
 
-### Controls Guide
 
-- Drag to merge; tap buildings to collect; navigate via map.
+- Pre‑stock before events.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **拖动物品合成：** 按住某个物品拖动到同类物品附近，靠近后若数量满足合成条件就会自动合成；
+*   **收集资源：** 点击成熟的建筑或资源点即可收集产出；
+*   **任务与建筑：** 通过任务面板查看当前目标，使用收集的资源修复或建造岛屿设施。
+
+### 常见问题解答（FAQ）
+
 
 - Q: No space left.
-  
-[ZH TRANSLATION NEEDED]   A: Consolidate to 5‑merges, sell clutter, and expand land.
+**问：岛上空间不够用怎么办？****
 
 - Q: Energy too slow.
-  
-[ZH TRANSLATION NEEDED]   A: Time bursts with regeneration and rewards.
+答：** 尽量集中合成、清理低等级杂物，并优先解锁新的土地区域，以获得更多建设空间。
+
+**问：这游戏有明确终点吗？****
+答：** 通常会有主线剧情和区域解锁目标，但整体更偏向长期经营与收藏向体验。
 

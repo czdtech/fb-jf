@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: bolly-beat
-title: '[KO] Bolly Beat'
+title: 'Bolly Beat 볼리 비트'
 description: >-
-  [KO] Bolly Beat is a rhythm challenge where you tap in time, chain combos, and
-  master Bollywood‑style beats.
+  경쾌한 볼리우드 스타일 음악에 맞춰 화면을 두드리는 리듬 게임 Bolly Beat입니다.
+  박자에 맞게 탭하고 콤보를 이어 가며, 화려한 비트와 함께 높은 점수에 도전해
+  보세요.
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/bolly-beat.jpg
 tags:
@@ -14,30 +15,60 @@ score: 4.0/5  (1672 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bolly Beat은 밝고 신나는 볼리우드 스타일 곡에 맞춰 화면을 탭하는 캐주얼 리듬
+게임입니다. 화면 위에서 노트가 판정 라인 쪽으로 내려오고, 노트가 히트 구역에
+도달했을 때 정확한 타이밍에 탭해야 콤보를 유지할 수 있습니다. 판정이 좋을수록
+점수와 별 등급이 올라가며, 콤보를 길게 이어 갈수록 점수 배수가 높아져 더 어려운
+패턴도 클리어할 수 있습니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **판정 타이밍 익히기**  
+    기본은 "비트에 정확히 맞춰 누르기"입니다. 너무 이르거나 늦게 누르면 콤보가
+    끊기고 배수가 떨어지므로, 곡마다 판정 타이밍을 몸으로 익히는 것이 중요합니다.
 
-Bolly Beat is a light, accessible rhythm‑tapping game themed around energetic, upbeat Bollywood‑style tracks. Notes approach cues on screen and you must tap with accurate timing to keep the combo alive. Higher accuracy yields higher scores and star ratings, while streaks unlock bonus multipliers and more challenging patterns.
+2.  **패턴을 미리 읽기**  
+    시선은 항상 판정선보다 약간 위를 보는 느낌으로 두세요. 그래야 양손 번갈아
+    두드리기나 더블 탭 같은 패턴을 미리 파악하고 준비할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+3.  **소리를 적극적으로 활용하기**  
+    화면이 복잡해질수록 드럼이나 베이스 라인 같은 리듬 파트를 귀로 따라가는
+    것이 도움이 됩니다. 눈으로만 노트를 쫓기보다는, 음악의 비트에 몸을 맡기는
+    느낌으로 플레이해 보세요.
 
-1.  **[KO]** Learn the timing windows: Focus on hitting on the beat; late/early hits break combos and reduce multipliers.
-2.  **[KO]** Read patterns early: Keep your eyes slightly ahead of the hit line to anticipate alternating hands or double‑taps.
-3.  **[KO]** Use audio cues: Let the drum/bass line guide your rhythm when visual density is high.
-4.  **[KO]** Warm up on Normal: Build consistency before tackling Hard charts to avoid plateauing with bad habits.
-5.  **[KO]** Recover smartly: If you drop a combo, stabilize your timing before chasing max stars again.
+4.  **먼저 노말 난이도로 워밍업하기**  
+    바로 하드 난이도로 들어가면 나쁜 습관이 굳어질 수 있습니다. 먼저 노말에서
+    안정적인 판정과 콤보 유지력을 기른 뒤, 패턴을 어느 정도 외웠다고 느껴질 때
+    하드 난이도에 도전하는 것이 좋습니다.
 
-### Controls Guide
+5.  **콤보가 끊겼을 때는 침착하게**  
+    콤보를 놓쳤다고 해서 급하게 따라잡으려 하면 실수가 더 늘어납니다. 한 번
+    끊겼다면 잠시 호흡을 고르고, 다시 박자에 맞춰 정확도를 회복하는 데 집중한
+    뒤에 최고 점수를 노리세요.
 
-- Tap/Click cues: Tap when notes reach the hit area; some charts may include holds or swipes.
-- Pause/Retry: Use on‑screen controls to pause or restart a track.
-- Volume: Adjust music/sfx for clearer beat tracking.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+-   **탭/클릭:** 노트가 판정선에 도달하는 순간 화면(또는 마우스)을 탭/클릭해
+    입력합니다. 일부 곡에서는 홀드나 스와이프 같은 추가 동작이 포함될 수 있습니다.
+-   **일시정지/재도전:** 화면의 버튼을 눌러 곡을 일시정지하거나 처음부터
+    다시 시작할 수 있습니다.
+-   **볼륨 조절:** 음악과 효과음 볼륨을 조절해 비트가 더 잘 들리도록 설정하면
+    판정과 콤보 유지에 도움이 됩니다.
 
-- Do I need headphones? Recommended—clearer timing helps accuracy and combo stability.
-- Why do I miss on dense sections? Try lowering note speed or focusing on the downbeat; practice sections that introduce cross‑rhythms.
-- How to increase score? Maintain long combos and prioritize “Perfect” accuracy to raise multipliers.
+### 자주 묻는 질문 (FAQ)
 
+-   **헤드폰이 꼭 필요한가요?**  
+    꼭 필수는 아니지만, 헤드폰을 사용하면 비트가 더 또렷하게 들려 판정 타이밍과
+    콤보 유지에 큰 도움이 됩니다.
+
+-   **노트가 많을 때 자꾸 미스가 나요.**  
+    노트 속도를 낮춰 패턴을 더 잘 보이게 하거나, 기본 박자(다운비트)에 집중해
+    리듬을 잡아 보세요. 교차 리듬이나 손 교차 패턴이 나오는 구간은 반복 연습을
+    통해 손에 익히는 것이 좋습니다.
+
+-   **점수를 더 올리려면 어떻게 해야 하나요?**  
+    가장 중요한 것은 긴 콤보를 유지하는 것과 "Perfect"에 가까운 판정을 많이
+    얻는 것입니다. 콤보를 길게 이어 갈수록 점수 배수가 올라가니, 실수를 줄이고
+    안정적으로 플레이하는 것이 고득점의 지름길입니다.

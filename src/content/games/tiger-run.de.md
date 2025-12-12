@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: tiger-run
-title: '[DE] Tiger Run'
-description: >-
-  [DE] Tiger Run is a jungle runner — dash, jump, and slide to dodge obstacles
-  and collect coins.
+title: "Tiger Run"
+description: "Tiger Run ist ein Dschungel‑Endless‑Runner: Laufe, springe und rutsche, um Hindernissen auszuweichen und unterwegs Münzen einzusammeln."
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/tiger-run.jpeg
 tags:
@@ -14,30 +12,31 @@ score: 3.8/5  (1627 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Tiger Run ist ein geradliniger Endless‑Runner im Dschungel. Du rennst automatisch nach vorne, liest Hindernisse frühzeitig und wechselst Spuren, springst oder rutschst darunter hindurch. Während die Geschwindigkeit immer weiter anzieht, versuchst du, möglichst viele Münzen in Serie einzusammeln, ohne irgendwo hängen zu bleiben.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Blick nach vorn:** Richte deinen Blick ein Stück vor die Spielfigur, damit du Spurwechsel und Sprünge früh planen kannst.
+2. **Sicherheit vor Münzen:** Verzichte lieber auf seitliche Münzreihen, wenn die Lücken eng sind – ein Crash kostet mehr als ein paar verpasste Coins.
+3. **Muster merken:** Viele Hinderniskombinationen tauchen immer wieder auf. Wenn du sie erkannt hast, kannst du dich früh passend positionieren.
+4. **Ruhige Eingaben:** Kurze, gezielte Eingaben sind besser als hektisches Hin‑ und Herwechseln, besonders bei hoher Geschwindigkeit.
+5. **Power‑ups gezielt nutzen:** Heb dir Schilde, Magnete oder ähnliche Verstärker für dichte Hindernispassagen auf, in denen du sonst leicht Fehler machen würdest.
 
-Tiger Run is a straightforward endless runner set in the jungle. Read upcoming hazards, swap lanes or jump/slide to avoid obstacles, and chain coin pickups while maintaining a stable rhythm as speed ramps up.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Spur wechseln:** `A`/`D` oder `Links`/`Rechts`, um zwischen den Bahnen zu wechseln.
+- **Springen/Rutschen:** `Leertaste` oder `Pfeil nach oben` zum Springen; `Pfeil nach unten` (oder Wischgesten auf Mobilgeräten) zum Rutschen.
+- **Pause/Neustart:** Über die Bildschirm‑UI.
 
-1.  **[DE]** Eyes up: Look ahead to prepare lane swaps early.
-2.  **[DE]** Priority safety: Skip side coins when gaps are tight.
-3.  **[DE]** Memorize sets: Common obstacle patterns repeat—use them to pre‑position.
-4.  **[DE]** Smooth inputs: Quick, small moves reduce overcorrection at high speed.
-5.  **[DE]** Power‑ups: Save shields/magnets for dense sections.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Ich nehme ständig Hürden mit – warum?**  
+  Springe einen Tick später und halte ein gleichmäßiges Tempo bei den Eingaben, statt mehrfach nachzudrücken.
 
-- Move: A/D or Left/Right to change lanes.
-- Jump/Slide: Space/Up to jump; Down to slide (or swipe on mobile).
-- Pause/Retry: On‑screen UI.
+- **Kann ich langsamer werden?**  
+  In manchen Versionen gibt es Power‑ups, die das Tempo kurz senken oder Zeitlupen‑Effekte bieten.
 
-### Frequently Asked Questions (FAQ)
-
-- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
-- Is there a finish? Usually endless—aim for new personal bests.
-
+- **Gibt es ein Ziel?**  
+  Meist handelt es sich um einen echten Endless‑Runner – dein Ziel ist ein immer höherer Highscore und längere Laufstrecken.

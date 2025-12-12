@@ -1,47 +1,55 @@
 ---
 locale: zh
 urlstr: tiles-of-egypt
-title: '[ZH TRANSLATION NEEDED] Tiles of Egypt'
-description: >-
-  [ZH TRANSLATION NEEDED] Journey to ancient Egypt in this triple-tile matching
-  puzzle. Select three identical, unblocked tiles to clear them from the board.
-  Plan your moves to solve the puzzle before you run out of space!
-iframeSrc: >-
-  https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
-thumbnail: /new-images/tiles-of-egypt.jpg
+title: 《Tiles of Egypt》埃及方块秘境
+description: 《Tiles of Egypt》是一款以古埃及为主题的方块配对消除游戏。在金字塔与神庙背景下，从堆叠的方块中找出相同图案进行消除，解开古老的谜团。
+iframeSrc: 'https://tilesofegypt.h5games.usercontent.goog/v/6n2c3b1k9d8p0/'
+thumbnail: /new-images/tiles-of-egypt.png
 tags:
   - puzzle
+  - match 3
   - casual
-  - thinky
-score: 4.4/5  (2350 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.0/5  (1750 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Tiles of Egypt is a strategic, triple-tile matching puzzle game with a captivating ancient Egyptian theme. The game challenges you to clear a board stacked with intricately designed tiles. To do this, you must select three identical tiles and place them in a collection tray at the bottom. Once three matching tiles are in the tray, they disappear. The goal is to clear the entire board, but you must plan carefully, as the collection tray has limited space.
+《Tiles of Egypt》将三消/连连看式玩法与埃及风美术结合。你需要在层叠的方块堆中找出图案相同的方块，将它们加入下方托盘并凑成三张以完成消除。随着关卡推进，方块堆的结构会越来越复杂，图案也更繁多，需要更好的观察力与规划能力。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Rule of Three:** The entire game is about matching tiles in sets of three. You must select three identical tiles to remove them.
-2.  [ZH TRANSLATION NEEDED] **Limited Tray Space:** Your collection tray at the bottom can only hold a certain number of tiles (usually seven). If you fill it up without making a match, you lose the game. This is the central challenge.
-3.  [ZH TRANSLATION NEEDED] **Think Ahead:** Don't just click on the first available match. Look at the tiles underneath and try to prioritize matches that will uncover the most new tiles. This will give you more options and prevent you from getting stuck.
-4.  [ZH TRANSLATION NEEDED] **Use the Tray as a Buffer:** You can place tiles in the tray that don't immediately form a match. Use this to your advantage to temporarily store a tile while you dig for the other two you need. But be careful not to fill the tray with too many different types of tiles.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **拆解高层与遮挡：** 优先消除位于高层或明显压在其他方块上的那几块，以尽快打开视野，让更多方块可用。
+2.  **控制托盘负担：** 托盘可存放的方块数量有限，不要一次把太多不同图案塞进去，尽量保持图案种类在可控范围内。
+3.  **凑齐再换新：** 当某个图案已经有两张在托盘中时，尽量优先寻找第三张完成三消，释放槽位后再继续取其他图案。
+4.  **观察剩余配对机会：** 注意场上每种图案大致还有几块，判断是否值得继续在托盘中“押注”某一图案。
 
-[ZH TRANSLATION NEEDED] The game is played with simple clicks or taps.
+### 操作说明
 
-*   **Select a Tile:** Click on any uncovered tile on the board to move it to the collection tray below.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple clicks or taps.
+*   **选取方块：** 点击可见、不被完全遮挡的方块将其添加到托盘；
+*   **三消：** 某图案在托盘中达到三张时会自动消除；
+*   **道具（若有）：** 通过图标按钮使用提示、撤销或洗牌等辅助功能。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** To clear all the tiles from the board by collecting them in sets of three in your tray.
+### 常见问题解答（FAQ）
 
-*   **Q: Why can't I click on a tile?**
-     *   **A:** You can only select tiles that are on the top-most layer and are not covered by any other tile. You must clear the tiles above to access the ones below.
 
-*   **Q: What happens if my collection tray is full?**
-     *   **A:** If all the slots in your tray are filled and you cannot make a match of three, you are blocked and will lose the game. You must then restart the level.
+- **A:** If all the slots in your tray are filled and you cannot make a match of three, you are blocked and will lose the game. You must then restart the level.
+
+    - **Q: What happens if my collection tray is full?**
+
+- **A:** You can only select tiles that are on the top-most layer and are not covered by any other tile. You must clear the tiles above to access the ones below.
+
+    - **Q: Why can't I click on a tile?**
+
+- **A:** To clear all the tiles from the board by collecting them in sets of three in your tray.
+
+    - **Q: What is the goal of the game?**
+**问：为什么托盘很快就满了？****
+答：** 说明你在前期取牌时图案过于分散，可以尝试更集中地选择几种图案优先处理，减少托盘中图案种类。
+
+**问：是否存在时间限制？****
+答：** 具体取决于关卡设定，有些关卡更注重步数与局面规划，有些则会加入倒计时提升紧张感。
 

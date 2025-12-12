@@ -1,49 +1,58 @@
 ---
 locale: zh
 urlstr: slither-io
-title: '[ZH TRANSLATION NEEDED] Slither.io'
-description: >-
-  [ZH TRANSLATION NEEDED] Slither.io is a popular multiplayer online game where
-  players control a snake-like avatar, consuming glowing orbs to grow larger
-  while avoiding collisions with other players in an endless arena battle for
-  supremacy.
-iframeSrc: >-
-  https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
+title: 《Slither.io》贪吃蛇大作战
+description: 《Slither.io》是一款极受欢迎的在线多人贪吃蛇游戏。操控你的彩色小蛇吞食能量点、围杀其他玩家，让自己变成场上最长的一条蛇。
+iframeSrc: 'https://slitherio.org/slitherio/'
 thumbnail: /new-images/slither-io.jpg
 tags:
+  - io-games
+  - snake
   - multiplayer
-  - io game
-  - competitive
-score: 4.8/5  (1149 votes)
+score: 4.1/5  (980 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Slither.io》是在经典贪吃蛇玩法基础上的多人对战进化版。你将控制一条会不断变长的彩色小蛇，在布满发光能量点的战场上与其他玩家同场竞技。通过不断吞食地图上的能量点和其他玩家死亡后留下的大量能量，你可以快速变大变长；同时利用走位把对手逼到你的身体上，让对方“头撞蛇身”自爆，为你提供一大串养分。
 
-[ZH TRANSLATION NEEDED] "Slither.io" is a popular multiplayer online game where players control a snake-like avatar, consuming glowing orbs to grow larger while avoiding collisions with other players. In this endless arena, players compete for dominance with the goal of becoming the biggest and longest snake.
+### 游玩指南
 
-### Gameplay Strategy
+1.  **核心目标：** 持续吃能量点让蛇变长。击败其他玩家后留下的能量比普通散落能量更值钱，是快速成长的关键。
+2.  **击败对手的方式：** 让对手的蛇头撞上你的蛇身即可击败对方。你不需要直接咬到对方，只要对方的头先碰到你，就会立刻死亡并化成一长串能量。
+3.  **注意自身安全：** 你的蛇头一旦撞到其他蛇的身体或场地边界，就会当场死亡，之前积累的长度全部化为他人养分。
+4.  **控制加速：** 通过加速可以瞬间改线或抢能量，但加速会消耗自己的体型。要在“形体消耗”与“战术收益”之间做平衡。
 
-1.  **Safe Growth**: Focus on collecting small orbs in early game, avoiding contact with large snakes.
-2.  **Cutting Tactics**: When you're large enough, try to cut off other snakes' paths to make them crash into you.
-3.  **Boost Technique**: Use the boost function wisely to escape danger or capture prey, but note it consumes body length.
-4.  **Border Utilization**: Use map boundaries to protect one side, reducing the risk of being surrounded.
-5.  **Patient Waiting**: Wait for other snakes to make mistakes, then collect the large amount of orbs they leave behind.
 
-### How to Play
+- **Patient Waiting**: Wait for other snakes to make mistakes, then collect the large amount of orbs they leave behind.
+### 操作说明
 
-*   **Movement**: Use mouse to control snake movement direction; the snake head follows the mouse pointer.
-*   **Boost**: Hold left mouse button or spacebar to accelerate movement.
-*   **Observation**: Use mouse wheel or keys to zoom view (in some versions).
+**PC / 浏览器：**
+- **鼠标：** 小蛇会自动朝鼠标指针方向移动。
+- **键盘：** 也可以使用方向键或 WASD 控制移动方向。
+- **加速：** 按住鼠标左键或空格键即可短暂加速，但会消耗自身长度。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How do I grow quickly?**
-     **A**: Look for orb piles left by recently deceased large snakes; these provide significant growth points.
-2.  [ZH TRANSLATION NEEDED] **Q: What do I do when surrounded?**
-     **A**: Use boost to break through the encirclement, or try to hug other snakes' bodies to find gaps.
-3.  [ZH TRANSLATION NEEDED] **Q: What are the consequences of boosting?**
-     **A**: Boosting consumes your body length, so use it cautiously at critical moments.
-4.  [ZH TRANSLATION NEEDED] **Q: Is there a leaderboard in the game?**
-     **A**: Yes, the game displays rankings of the largest snakes on the current server.
+**移动端：**
+- 使用屏幕虚拟摇杆或在屏幕上拖动手指来控制蛇的移动方向。
+
+### 常见问题解答（FAQ）
+
+
+- **Q: How do I grow quickly?**
+**问：Slither.io 是真正的多人游戏吗？****
+
+- **Q: What do I do when surrounded?**
+答：** 是的，你会与来自全球的玩家实时同场对战，所有蛇都由其他玩家（或服务器匹配的对手）控制。
+
+
+- **Q: What are the consequences of boosting?**
+**问：Slither.io 和 Snake.io 有什么区别？****
+
+- **Q: Is there a leaderboard in the game?**
+答：** 两者的核心思路类似，都是多人贪吃蛇，但在皮肤数量、地图风格以及加速手感等方面有所差异，可以根据个人喜好选择。
+
+**问：可以和朋友一起玩吗？****
+答：** 可以在同一服务器中匹配，彼此比拼谁能存活更久、变得更长，也可以约定自我挑战目标，比如谁先上榜等。
+

@@ -1,11 +1,8 @@
 ---
 locale: ko
 urlstr: merge-heroes
-title: '[KO] Merge Heroes'
-description: >-
-  [KO] The ultimate merge-and-battle strategy game! Combine heroes to forge a
-  powerful army, deploy them on the battlefield, and defend your kingdom from
-  waves of monsters.
+title: Merge Heroes 머지 히어로즈
+description: 'Merge Heroes는 영웅을 합쳐 더 강한 부대를 만들고, 자동 전투로 몬스터 웨이브를 막아 왕국을 방어하는 머지 전략 배틀 게임입니다.'
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/merge-heroes.png
 tags:
@@ -18,34 +15,47 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Merge Heroes*는 머지 퍼즐과 자동 전투 전략이 결합된 게임으로, 플레이어는 끝없이 몰려오는
+몬스터들로부터 왕국을 지켜야 합니다. 단순히 영웅을 모집하는 것에 그치지 않고, 같은
+영웅을 머지해 상위 단계의 강한 영웅으로 진화시키고, 이들을 전장에 배치해 자동으로
+싸우게 만드는 것이 핵심입니다.
 
-Merge Heroes is a captivating blend of merge-puzzle mechanics and auto-battle strategy. In this game, you are tasked with defending your kingdom from hordes of monsters. You build your army not just by recruiting, but by merging identical heroes to evolve them into more powerful warriors. Strategically place your merged heroes on the battlefield and watch as they automatically defend against wave after wave of enemies.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **구매와 머지:** 골드를 사용해 기본 영웅을 구매하면 예비 보드에 등장합니다. 같은
+   영웅을 서로 겹치게 드래그하면 더 높은 레벨의 영웅으로 머지되며, 공격력과 스탯이
+   크게 상승합니다.
+2. **부대 배치:** 가장 강한 영웅들을 예비 보드에서 전장 그리드로 드래그해 배치하세요.
+   배치된 영웅은 사거리 안으로 들어오는 적을 자동으로 공격하며, 전장 슬롯 수는
+   제한되어 있으므로 어떤 영웅을 내보낼지 선별하는 것이 중요합니다.
+3. **영웅 타입 이해:** 기사처럼 근접형 영웅은 전면에, 궁수처럼 원거리 영웅은 후방에
+   배치하는 등 전열 구성이 중요합니다. 전방 탱커와 후방 딜러의 균형을 맞추세요.
+4. **골드 운용:** 적을 처치하면 자동으로 골드를 얻습니다. 이 골드를 다시 기본 영웅
+   구매에 투자해 머지 사이클을 끊임없이 돌려야, 점점 강해지는 웨이브를 따라잡을 수
+   있습니다.
 
-1.  **[KO]** **Buy and Merge:** Use your gold to buy basic heroes, which appear on your reserve board. The core of the game is to drag and drop one hero onto another identical hero. This merges them into a single, higher-level hero with improved stats.
-2.  **[KO]** **Deploy Your Army:** Drag your strongest heroes from the reserve board onto the battle grid. Once placed, they will automatically engage any enemies that come within their range. You have a limited number of slots on the battle grid, so choose your active heroes wisely.
-3.  **[KO]** **Hero Types:** Pay attention to different hero types. Melee heroes (like knights) must be on the front lines to engage enemies, while ranged heroes (like archers) can attack from the back. A balanced formation is key.
-4.  **[KO]** **Manage Your Gold:** You earn gold automatically as your heroes defeat monsters. Reinvest this gold quickly into buying more basic heroes so you can continue merging and upgrading your army to keep up with the increasingly difficult enemy waves.
+### 조작 방법
 
-### Controls Guide
+게임은 드래그 앤 드롭만 알면 쉽게 즐길 수 있습니다.
 
-The game is played with simple drag-and-drop controls.
+* **영웅 구매:** "Buy" 버튼을 눌러 골드를 소비하면 새로운 기본 영웅이 예비 보드에
+  소환됩니다.
+* **영웅 머지:** 같은 영웅을 드래그해 겹쳐 놓으면 더 높은 레벨의 영웅으로 합쳐집니다.
+* **배치/회수:** 예비 보드에서 전장 슬롯으로 드래그해 영웅을 배치하고, 필요하다면 다시
+  예비 보드로 끌어와 교체할 수 있습니다.
 
-*   **[KO]** **Buy Hero:** Click the "Buy" button to spend gold and get a new base-level hero.
-*   **[KO]** **Merge Heroes:** Click and drag a hero onto another identical hero to merge them.
-*   **[KO]** **Deploy/Undeploy:** Drag a hero from your reserve board to an empty slot on the battlefield to deploy them. You can also drag them back to the reserve board to swap them out.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 정말 강력한 영웅은 어떻게 만들 수 있나요?**
+    - **A:** 꾸준한 머지가 답입니다. 레벨 1 두 명 → 레벨 2 한 명, 레벨 2 두 명 → 레벨 3
+    한 명처럼, 같은 레벨 영웅을 계속 합쳐 가장 높은 레벨까지 끌어올리세요.
 
-*   **[KO]** **Q: How do I create a really strong hero?**
-    *   **[KO]** **A:** Through continuous merging. Two level 1 heroes make a level 2, two level 2s make a level 3, and so on. The key to a powerful army is to constantly buy and merge.
+* **Q: 약한 영웅을 많이 깔아두는 게 좋나요, 강한 영웅 몇 명이 좋나요?**
+    - **A:** 대부분의 경우 고레벨 영웅 소수가 저레벨 다수보다 훨씬 효율적입니다. 가능한 한
+    보드의 영웅을 합쳐 상위 레벨을 만드는 데 집중하세요.
 
-*   **[KO]** **Q: Should I fill my board with many weak heroes or a few strong ones?**
-    *   **[KO]** **A:** A few strong, high-level heroes are almost always more effective than a board full of weak, low-level ones. Focus on merging up to the highest level you can achieve.
-
-*   **[KO]** **Q: Why did my heroes stop attacking?**
-    *   **[KO]** **A:** This usually happens between waves. Once the next wave of enemies appears, your heroes will automatically resume their attack.
-
+* **Q: 영웅이 갑자기 공격을 멈췄어요. 버그인가요?**
+    - **A:** 보통 웨이브와 웨이브 사이에 잠시 전투가 멈추는 구간이 있습니다. 다음 적
+    웨이브가 시작되면 영웅들이 자동으로 다시 공격을 시작합니다.

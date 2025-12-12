@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: mahjong-solitaire
-title: '[DE] Mahjong Solitaire'
+title: Mahjong Solitaire
 description: >-
-  [DE] Challenge your mind with Mahjong Solitaire. Find and match pairs of
-  identical tiles to clear the board in this classic and relaxing puzzle game.
+  Fordere deinen Kopf mit Mahjong Solitaire heraus. Finde und paare identische,
+  freie Steine, um das Spielfeld in diesem klassischen, entspannenden
+  Puzzlespiel zu leeren.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/mahjong-solitaire.png
 tags:
@@ -17,38 +18,73 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Mahjong Solitaire ist ein Einzelspieler-Matching-Spiel mit Mahjong-Steinen.
+Anders als im traditionellen Mahjong geht es nicht darum, eine Hand zu bilden,
+sondern das Spielfeld zu räumen, indem du identische Paare freier Steine
+findest und entfernst. Die Steine sind in verschiedenen Layouts gestapelt,
+häufig über mehrere Ebenen.
 
-### Detailed Game Introduction
+Das Spiel verlangt sorgfältige Beobachtung, Planung und etwas Vorausdenken –
+mit einem unglücklichen Zug kannst du zukünftige Paare verbauen. Gleichzeitig
+wirkt es beruhigend und ist für viele ein tägliches Kopfpuzzle.
 
-Mahjong Solitaire is a single-player matching game that uses a set of Mahjong tiles. Unlike traditional Mahjong, the goal is not to form hands but to clear the board by finding and matching pairs of identical tiles. The tiles are arranged in various layouts, often in multi-layered stacks. The game requires careful observation, strategy, and planning, as one wrong move can block future matches. It's a relaxing yet mentally stimulating puzzle enjoyed by millions.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  **„Freie“ Steine verstehen**  
+    Du darfst nur „freie“ (oder „offene“) Steine kombinieren. Ein Stein ist
+    frei, wenn:
 
-1.  **[DE]** **Understanding "Free" Tiles:** The most important rule is that you can only select and match "free" (or "open") tiles. A tile is considered free if:
-    *   **[DE]** It has no other tiles on top of it.
-    *   **[DE]** It can be slid out to the left or the right without bumping into another tile.
+    *   kein anderer Stein direkt auf ihm liegt und  
+    *   er mindestens eine lange Seite (links oder rechts) ohne angrenzenden
+        Stein hat.
 
-2.  **[DE]** **Prioritize Unblocking:** Your main strategy should be to make matches that unblock the most new tiles. Look for pairs that are sitting on top of other columns or are blocking multiple tiles horizontally.
-3.  **[DE]** **Handle Triplets and Quads Carefully:** If you see three or four identical free tiles, be strategic about which pair you match. Choose the pair that will open up the most advantageous section of the board for future moves.
-4.  **[DE]** **Special Tiles (Seasons and Flowers):** In most versions, the Season and Flower tiles are exceptions to the identical match rule. Any Season tile can be matched with any other Season tile. The same applies to Flower tiles. These can be very useful for unblocking the board when no other matches are available.
-5.  **[DE]** **Use Hints and Shuffles Wisely:** If you are stuck, use the "Hint" button to reveal an available pair. If there are no more possible matches on the board, the game may offer a "Shuffle" option, which rearranges all remaining tiles to create new matching opportunities.
+2.  **Blockierer zuerst entfernen**  
+    Suche nach Paaren, die viele andere Steine freilegen – etwa solche, die
+    ganze Spalten überdecken oder lange Reihen blockieren.
 
-### Controls Guide
+3.  **Mit Dreier- und Vierergruppen vorsichtig sein**  
+    Siehst du drei oder vier identische, freie Steine, überlege gut, welche
+    zwei du zuerst abräumst. Wähle das Paar, das dir für spätere Züge am
+    meisten Raum verschafft.
 
-The game is controlled with a mouse or via touch screen.
+4.  **Spezialsteine (Jahreszeiten/Blumen)**  
+    In vielen Varianten dürfen Jahreszeiten- und Blumensteine innerhalb ihrer
+    Gruppen beliebig kombiniert werden. Nutze sie gezielt, um das Brett
+    aufzuschließen, wenn kaum noch reguläre Paare vorhanden sind.
 
-*   **[DE]** **Select a Tile:** Click on a free tile to highlight it.
-*   **[DE]** **Match a Pair:** Click on a second, identical free tile to match the pair. The two tiles will then be removed from the board.
+5.  **Hinweise und Mischen mit Bedacht nutzen**  
+    Setze Hinweise ein, wenn du längere Zeit keine Paare mehr findest, und
+    nutze Shuffle nur, wenn wirklich keine Züge mehr möglich sind – oft geht das
+    mit einem Punktabzug einher.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-*   **[DE]** **Q: Why can't I select a tile?**
-    *   **[DE]** **A:** The tile is not "free." It is likely blocked on both its left and right sides, or there is another tile partially or fully on top of it.
+Das Spiel wird mit Maus oder Touch gesteuert.
 
-*   **[DE]** **Q: What do I do when I run out of matches?**
-    *   **[DE]** **A:** If you are certain no matches are left, look for a "Shuffle" or "Reshuffle" button. If the game has no shuffle option and no moves are left, the game is lost.
+*   **Stein auswählen:** Klicke oder tippe auf einen freien Stein, um ihn zu
+    markieren.
+*   **Paar bilden:** Wähle anschließend einen identischen, ebenfalls freien
+    Stein, um beide zu entfernen.
 
-*   **[DE]** **Q: Are the Season/Flower tiles all different?**
-    *   **[DE]** **A:** Yes, the images on them are different, but they belong to the same group. You can match any tile from the "Seasons" group with any other tile from that same group, and likewise for the "Flowers" group.
+### FAQ
 
+*   **F: Warum kann ich einen bestimmten Stein nicht auswählen?**  
+    **A:** Er ist nicht frei – meistens, weil links und rechts noch Steine
+    anliegen oder ein Stein auf ihm liegt.
+
+    - **F: Was mache ich, wenn keine Paare mehr zu finden sind?**  
+    **A:** Manche Versionen bieten eine Shuffle- oder Hinweisfunktion. Gibt es
+    keine solche Hilfe und keine Züge mehr, ist die Runde verloren.
+
+*   **F: Sind alle Jahreszeiten-/Blumensteine unterschiedlich?**  
+
+    - **A:** Yes, the images on them are different, but they belong to the same group. You can match any tile from the "Seasons" group with any other tile from that same group, and likewise for the "Flowers" group.
+
+- **Q: Are the Season/Flower tiles all different?**
+
+    - **A:** If you are certain no matches are left, look for a "Shuffle" or "Reshuffle" button. If the game has no shuffle option and no moves are left, the game is lost.
+    **A:** Ja, die Motive unterscheiden sich, gehören aber zu jeweils einer
+    Gruppe. Du kannst beliebige zwei Jahreszeitensteine miteinander kombinieren
+    – ebenso jede beliebige Blumen-Kombination.

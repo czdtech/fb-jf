@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: freekick-football
-title: '[DE] Freekick Football'
+title: Freekick Football
 description: >-
-  [DE] Test your free-kick skills in Freekick Football. Aim, shoot, and score to
-  become a free-kick master.
+  Teste deine Freistoß-Fähigkeiten in Freekick Football: Ziele präzise, wähle
+  die richtige Schusskraft und verwandle Standardsituation um Standardsituation.
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/freekick-football.png
 tags:
@@ -15,28 +15,43 @@ score: 4.2/5 (1876 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Freekick Football konzentriert sich ganz auf die Kunst des Freistoßes im
+Fußball. Aus unterschiedlichen Distanzen und Winkeln versuchst du, den Ball an
+Mauer und Torwart vorbeizuschlenzen. Das Spiel fordert dein Gefühl für
+Platzierung, Timing und Ballflug.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Zielen:** Suche dir vor jedem Schuss eine klare Bahn zum Tor. Beziehe
+   Mauerstellung und Torwartposition mit ein.
+2. **Kraft dosieren:** Zu wenig Power bleibt in der Mauer hängen, zu viel
+   jagt den Ball über das Tor. Finde das passende Maß für Distanz und Winkel.
+3. **Effet nutzen:** Mit Spin kannst du den Ball um die Mauer herum oder weg
+   vom Keeper ziehen – vor allem bei schwierigeren Situationen der Schlüssel zum
+   Tor.
+4. **Situation lesen:** Achte vor dem Schuss auf Entfernung, Mauerhöhe und
+   Stand des Keepers, um dich für Flachschuss, Bananenball oder Vollspann zu
+   entscheiden.
 
-Freekick Football is a game that focuses on the art of the free kick in soccer. Players are challenged to score goals from various set-piece situations, navigating past defensive walls and the goalkeeper. The game tests your precision, timing, and understanding of ball physics.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Maus/Touch:** Zielen, Schusskraft und Effet werden meist über eine
+  Kombination aus Klicken/Tippen und Ziehen eingestellt (Details hängen vom
+  Host ab).
 
-1.  **[DE]** **Aiming:** Carefully aim your shot to find a path to the goal. Consider the position of the wall and the goalkeeper.
-2.  **[DE]** **Power:** Apply the right amount of power. Too little, and you won't clear the wall; too much, and you'll miss the goal.
-3.  **[DE]** **Curve/Spin:** Use spin to bend the ball around the wall and away from the goalkeeper. This is key to scoring in difficult situations.
-4.  **[DE]** **Analyze the Situation:** Before each kick, assess the distance, the wall's position, and the keeper's stance to choose the best strategy.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Wie treffe ich konstanter?**  
+  **A:** Übung ist alles. Probiere unterschiedliche Kombinationen aus Kraft und
+  Spin und halte dich bevorzugt an Ecken, die der Torwart schwer erreicht.
 
-*   **[DE]** **Mouse/Touch:** Use the mouse or touch screen to aim, set power, and apply spin to the ball. The exact controls may vary slightly, but generally involve a sequence of clicks or swipes.
+    - **F: Wie überwinde ich die Mauer am besten?**  
 
-### Frequently Asked Questions (FAQ)
+- **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
 
-*   **[DE]** **Q: How do I score more consistently?**
-    *   **[DE]** **A:** Practice is key. Experiment with different levels of power and spin to understand how the ball behaves. Aim for the corners of the goal, as these are the hardest spots for the keeper to reach.
-*   **[DE]** **Q: What's the best way to beat the wall?**
-    *   **[DE]** **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
-
+    - **Q: What's the best way to beat the wall?**
+  **A:** Entweder mit einem gezielten Curl über oder um die Mauer oder mit einem
+  harten, flachen Schuss durch eine Lücke – such dir je nach Maueraufstellung
+  die Variante mit der größten Trefferchance aus.

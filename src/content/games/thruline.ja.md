@@ -1,65 +1,48 @@
 ---
-locale: ja
-urlstr: thruline
-title: '[JA TRANSLATION NEEDED] Thruline'
-description: >-
-  [JA TRANSLATION NEEDED] Thruline is a clean connect‑the‑network — draw a
-  single continuous line through nodes to satisfy turn/coverage constraints.
-iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
+title: Thruline
+description: Thrulineは、線をつなぐパズルゲームです。すべての点を一筆書きでつなぎましょう。
+iframeSrc: 'https://ubg98.github.io/Thruline/'
 thumbnail: /new-images/thruline.jpg
+urlstr: thruline
+score: 4.2/5  (1765 votes)
 tags:
   - puzzle
-  - thinky
-score: 4.1/5  (1983 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - logic
+  - drawing
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Thrulineは、すべての点を一筆書きの線でつなぐ論理パズルゲームです。シンプルなルールですが、段階的に難しくなる挑戦的なパズルです。
 
-[JA TRANSLATION NEEDED] Thruline tasks you with tracing one unbroken path that visits all required nodes while obeying rules about turns, crossings, and coverage. Later grids add gates, bridges, and parity tricks that reward early bottleneck placement.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Bottlenecks first: Claim narrow corridors before they close.
-[JA TRANSLATION NEEDED] 2.  Turn budgeting: Minimize turns on long runs; save them for tight corners.
-[JA TRANSLATION NEEDED] 3.  Bridge logic: Cross only on provided bridges; treat them as limited resources.
-[JA TRANSLATION NEEDED] 4.  Early backtrack: Undo as soon as isolation appears.
-[JA TRANSLATION NEEDED] 5.  Symmetry exploitation: Mirror partial solutions in symmetric layouts.
-
-### Controls Guide
-
-- Drag to draw; undo/clear via UI; some builds show conflict highlights.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I end one edge short.
-  
-[JA TRANSLATION NEEDED]   A: You likely mis‑spent a turn; reroute a long segment straighter.
-
-- Q: Are crossings legal?
-  
+ - **線を描く：** 点から点へ線を描きます
+ - **すべてをつなぐ：** すべての点を通ります
+ - **一筆書き：** 線を切らずに一度で完成させます
+ - **パズルを解く：** 正しい経路を見つけます
 
 
-
-
-
-
-- Q: I end one edge short.
-### よくある質問（FAQ）
-- Drag to draw; undo/clear via UI; some builds show conflict highlights.
-### コントロールガイド
 - Symmetry exploitation: Mirror partial solutions in symmetric layouts.
+### 操作ガイド
+
+ - **マウス：** ドラッグして線を描く
 
 ### よくある質問（FAQ）
-- Early backtrack: Undo as soon as isolation appears.
-[JA TRANSLATION NEEDED]   A: Only on marked bridges.
 
 
+- Q: I end one edge short.
+**ゲームの目標は何ですか？**
 
 
-A: Only on marked bridges.
 - Q: Are crossings legal?
+すべての点を一筆書きの線でつなぐことです。
 
+**線を戻すことはできますか？**
 
-A: Only on marked bridges.
+いいえ、各点は一度だけ通れます。
+
+**難易度は高いですか？**
+
+最初は簡単ですが、徐々に複雑なパターンが必要になります。

@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: bunny-quest
-title: '[FR] Bunny Quest'
-description: >-
-  [FR] Bunny Quest is a tile‑path puzzle — slide tiles, connect routes, and
-  guide the bunny to the goal.
+title: Bunny Quest
+description: "Bunny Quest est un puzzle de glissement de tuiles\_: fais coulisser les cases pour créer un chemin continu et mener le lapin jusqu’à la carotte."
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/bunny-quest.png
 tags:
@@ -14,29 +12,44 @@ score: 4.1/5  (1881 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+*Bunny Quest* est un jeu de casse‑tête où tu dois réorganiser des tuiles de chemin pour relier le point de départ à l’arrivée. Le lapin suivra la route que tu as construite, en ramassant éventuellement des objets bonus.
+
+### Guide de jeu
+
+1. **Dessine d’abord la route principale**  
+   Place les coudes et les lignes droites pour assurer un chemin simple du départ à l’arrivée, avant de penser aux bonus.
+
+2. **Évite les boucles inutiles**  
+   Ne gaspille pas de coups à construire des chemins qui ne mènent nulle part.
+
+3. **Garde les jonctions pour la fin**  
+   Utilise les T et croix quand tu dois vraiment brancher plusieurs segments, pas au début.
+
+4. **Pense au nombre de mouvements**  
+
+- Optional items: Route them only when they don’t explode move counts.
+   Beaucoup de niveaux limitent tes glissements : si tu sens que tu tournes en rond, mieux vaut réinitialiser tôt.
+
+### Commandes
+
+- Fais glisser une tuile dans une rangée/colonne pour la déplacer selon les règles de glissement du niveau.  
+- Utilise retour ou reset si le jeu le permet pour revoir ton plan.
 
 
 
-### Detailed Game Introduction
-
-Bunny Quest is a path‑building slider puzzle. Rearrange tiles to form an unbroken route from start to finish, collect optional items, and avoid dead‑ends as move limits tighten in later levels.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Corners and straights: Place corner/straight tiles to sketch the main path first.
-2.  **[FR]** Avoid loops: Don’t waste moves forming isolated loops that don’t reach the goal.
-3.  **[FR]** Save junctions: Use T‑junctions and crosses late to resolve branching.
-4.  **[FR]** Minimal moves: Track move counts and reverse steps early if inefficient.
-5.  **[FR]** Optional items: Route them only when they don’t explode move counts.
-
-### Controls Guide
-
-- Slide tiles by dragging; tiles shift along rows/columns per rules.
-- Undo/Reset if available to optimize routes.
-
-### Frequently Asked Questions (FAQ)
-
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
-- Timers? Some stages use move limits, not strict timers.
 - Hints? Many versions include hints; use sparingly.
 
+- Timers? Some stages use move limits, not strict timers.
+
+- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
+
+### Foire aux questions (FAQ)
+
+
+- Hints? Many versions include hints; use sparingly.
+
+- Timers? Some stages use move limits, not strict timers.
+
+- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.

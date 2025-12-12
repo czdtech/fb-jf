@@ -1,40 +1,49 @@
 ---
 locale: zh
 urlstr: ultimate-knife-smash
-title: '[ZH TRANSLATION NEEDED] Ultimate Knife Smash'
-description: >-
-  [ZH TRANSLATION NEEDED] Ultimate Knife Smash is a quick‑reflex thrower — time
-  stabs, avoid hitting knives, and break targets cleanly.
-iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
-thumbnail: /new-images/ultimate-knife-smash.png
+title: 《Ultimate Knife Smash》终极飞刀挑战
+description: 《Ultimate Knife Smash》是一款节奏明快的飞刀投掷游戏。瞄准旋转靶心，将手中的飞刀一把把扎上去，避免击中已有刀刃或障碍。
+iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/2k7d3n9c1b5p0/'
+thumbnail: /new-images/ultimate-knife-smash.jpg
 tags:
-  - action
-  - casual
-score: 4.0/5  (1749 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - arcade
+  - reflex
+  - clicker
+score: 3.9/5  (1500 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+《Ultimate Knife Smash》中，圆形木靶会不断旋转，有时速度与方向还会发生变化。你需要在合适的时机点击屏幕，将手中的飞刀精确投掷到木靶上。每一关通常要求将所有飞刀都插在靶子上，同时不能碰到已经插上的刀刃或特定障碍物，一旦碰撞即宣告失败。
 
-[ZH TRANSLATION NEEDED] Ultimate Knife Smash is a timing‑based arcade game. Throw knives into a spinning target without striking existing blades. The rotation speed and direction often change, demanding clean timing, rhythm, and risk control for combo stages.
+### 游玩策略与投掷指引
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Watch rotations: Note speed shifts and direction flips before committing throws.
-2.  [ZH TRANSLATION NEEDED] Count beats: Use a consistent cadence; throw on the same slice of the rotation.
-3.  [ZH TRANSLATION NEEDED] Aim gaps: Target wide openings first; save tight gaps for slow rotations.
-4.  [ZH TRANSLATION NEEDED] Don’t rush: Missing a cycle is better than forcing a risky throw.
-5.  [ZH TRANSLATION NEEDED] Boss targets: Later stages may require extra hits—pace your throws.
+1.  **观察旋转节奏：** 不要急着上手，先看几圈木靶的旋转速度和方向变化，再决定投掷节奏。
+2.  **利用固定间隙：** 找到刀刃之间相对较大的空档，优先往这些“安全区”投掷。
+3.  **预判木靶位置：** 由于从点击到飞刀命中存在短暂延迟，可以略微提前一点在预期位置按下，以弥补延时。
+4.  **关卡变化：** 后期会出现带钉刺、移动障碍甚至改变旋转方向的特殊靶子，需要你及时调整节奏。
 
-### Controls Guide
 
-- Throw: Click/tap to launch a knife when the gap aligns.
-- Pause/Retry: Use UI controls to restart.
+- Boss targets: Later stages may require extra hits—pace your throws.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **投掷飞刀：** 点击屏幕或按下指定按键即可投掷一把飞刀；
+*   **关卡进度：** 界面通常会显示剩余飞刀数量与当前关卡进度；
+*   **重来：** 失败后可以立即重启关卡，重新掌握节奏。
+
+### 常见问题解答（FAQ）
+
+
+- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
+
+- Does rotation change? Often yes; be ready for speed spikes and direction flips.
 
 - Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
+**问：总是撞到已有的刀刃怎么办？****
+答：** 可以尝试放慢频率，专注观察木靶一整圈，确认最宽的空档位置后再投掷，不要连点。
+
+**问：后期木靶转得很乱怎么办？****
+答：** 许多关卡都在考验你适应突然变速或反向的能力，多观察两秒再投掷往往比急着丢刀更安全。
 

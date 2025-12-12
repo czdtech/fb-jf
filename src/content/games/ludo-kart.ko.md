@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: ludo-kart
-title: '[KO] Ludo Kart'
+title: "Ludo Kart 루도 카트"
 description: >-
-  [KO] Ludo Kart is a breezy dice‑and‑race board game — roll, move tokens, and
-  be the first to reach home.
+  Ludo Kart는 주사위를 굴려 말을 움직이고, 상대보다 먼저 모든 말을 집까지 보내는 것을
+  목표로 하는 가벼운 레이싱 보드게임입니다.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/ludo-kart.png
 tags:
@@ -17,29 +17,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Ludo Kart*는 고전 보드게임 루도를 빠르고 가족 친화적인 레이스 형식으로 재구성한
+게임입니다. 주사위를 굴려 자기 말을 보드 위를 한 바퀴 돌린 뒤, 마지막 홈 레인에
+진입해 모든 말을 집으로 들여보내면 승리합니다. 안전 칸과 상대 말을 시작 지점으로
+돌려보내는 캡처, 운 좋은 주사위 눈이 어우러져 판마다 큰 역전과 반전이 만들어집니다.
 
-### Detailed Game Introduction
+### 공략 & 플레이 팁
 
-Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to move tokens around the board, enter the final lane, and bring all tokens home before opponents do. Safe squares, captures, and lucky rolls create swings.
+1. 말 분산: 한 말만 멀리 보내기보다 여러 말을 고르게 전진시켜, 한 번 잡혔다고 해서
+   전체 진행이 한꺼번에 날아가지 않도록 하세요.
+2. 안전 칸 활용: 상대 말이 근처에 있을 때는 가능한 안전 칸에 정차해 잡히는 위험을
+   줄이세요.
+3. 진입 타이밍: 홈 레인으로 들어갈 때, 바로 다음 턴에 상대가 잡을 수 있는 거리인지
+   미리 계산해 안전한 타이밍에 진입하는 것이 좋습니다.
+4. 앞 수 계산: 항상 주사위 눈 범위 안에 있는 상대 말들을 살펴보고, 어떤 눈에서
+   잡히는지 미리 체크해 두세요.
+5. 한 말만 고집하지 않기: 선두 말이 막혔거나 위험한 위치에 있다면, 과감히 다른 말을
+   움직여 전체적인 압박을 유지하세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Token spread: Advance multiple tokens to reduce risk of a single capture wiping progress.
-2.  **[KO]** Safe spots: Park on safe squares when opponents are near.
-3.  **[KO]** Entry timing: Time your entry to the home lane so opponents can’t immediately capture you.
-4.  **[KO]** Counting ahead: Always check opponent threats within a dice range.
-5.  **[KO]** Don’t tunnel: If a lead token is blocked, switch to another to keep pressure.
+- 주사위 굴리기: 클릭/탭하여 주사위를 굴립니다.
+- 말 이동: 이동 가능한 말을 선택해 앞으로 나아가게 하세요.
+- 모드: 한 기기에서 번갈아 두는 로컬 멀티플레이가 일반적이며, 일부 버전에서는
+  AI와의 싱글 플레이도 지원합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Roll: Click/tap to roll the die.
-- Move: Select a legal token to advance.
-- Modes: Local multiplayer is common; solo vs. AI may be available.
+- Q: 이 게임은 주사위 운만으로 결정되나요?
 
-### Frequently Asked Questions (FAQ)
+  A: 주사위 눈이 중요한 것은 맞지만, 말을 어떻게 분산시키는지, 안전 칸을 어떻게
+  활용하는지, 상대의 위협 거리를 얼마나 잘 계산하는지에 따라 결과가 크게 달라집니다.
 
-- Is it pure luck? Dice matter, but token spread, safe‑square usage, and counting threats add strategy.
-- Can I block? Occupying certain squares can block lanes; observe mode rules.
-- How many players? Often 2–4; check mode options.
+- Q: 상대의 길을 막을 수 있나요?
 
+  A: 특정 칸에 말을 세워 두면 그 칸을 통과하지 못하게 막는 규칙이 있는 모드가 많습니다.
+  다만 플레이 중인 버전의 세부 규칙을 먼저 확인해 보세요.
+
+- Q: 몇 명까지 함께 플레이할 수 있나요?
+
+  A: 보통 2~4인 플레이를 지원하며, 일부 모드에서는 AI와 사람 플레이어를 섞어 즐길 수도
+  있습니다.

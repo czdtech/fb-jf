@@ -1,74 +1,40 @@
 ---
+title: "Bonanza Shooter Bubble ボナンザ・シューター・バブル"
+description: "「Bonanza Shooter Bubble」はカラフルな王道バブルシューティング。壁反射を使い、色を管理し、大量のバブルを一度に落として高得点を狙おう。"
+iframeSrc: "https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/"
+thumbnail: "/new-images/bonanza-shooter-bubble.jpg"
+urlstr: "bonanza-shooter-bubble"
+score: "4.1/5  (1937 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bonanza-shooter-bubble
-title: '[JA TRANSLATION NEEDED] Bonanza Shooter Bubble'
-description: >-
-  [JA TRANSLATION NEEDED] Bonanza Shooter Bubble is a colorful bubble‑shooter —
-  bank angles, manage colors, and drop big clusters for points.
-iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
-thumbnail: /new-images/bonanza-shooter-bubble.jpg
-tags:
-  - puzzle
-  - casual
-score: 4.1/5  (1937 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Bonanza Shooter Bubble*は、壁の反射（バンクショット）と爽快な落下連鎖が楽しめる、クラシックなバブルシューティングゲームです。狙いを定めて発射し、同じ色のバブルを3つ以上繋げて消していきましょう。塊（クラスター）の根元を消せば、ぶら下がっているバブルを一網打尽に落とすことができます。成功の鍵は、角度のコントロール、色の管理、そして次の一手の計画です。
 
-[JA TRANSLATION NEEDED] Bonanza Shooter Bubble is a classic bubble shooter with generous banking and satisfying drops. Aim and fire to connect three or more of the same color, clearing clusters and causing dangling groups to fall. Success hinges on angle control, color management, and planning for the next bubble.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **壁反射（バンクショット）：** 壁に反射させることで、直接狙えない奥まった場所にあるバブルに当てることができます。
+2.  **アンカー（支点）を切る：** １つのバブルが大量のバブルを支えている場所（アンカー）を見つけましょう。そこを消せば、ぶら下がっている全てのバブルが落下し、大量得点になります。
+3.  **色の節約：** 盤面に少ないレアな色のバブルを無駄に埋めてしまわないように。複数のルートが開けるようなショットを優先しましょう。
+4.  **先読み：** 次に発射されるバブルの色が表示されている場合、今のショットだけでなく次のショットのことも考えて、道を塞がないように計画しましょう。
+5.  **ペース配分：** 天井が下がってきたら、無理なスーパーショットを狙うよりも、確実に消せる場所を優先して安全を確保しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Bank shots: Use side‑wall bounces to reach tucked clusters.
-[JA TRANSLATION NEEDED] 2.  Cut anchors: Remove the single connecting bubble to drop an entire hanging group.
-[JA TRANSLATION NEEDED] 3.  Color economy: Avoid burying rare colors; prioritize shots that unlock multiple paths.
-[JA TRANSLATION NEEDED] 4.  Look‑ahead: If next bubble is shown, pre‑plan two moves to avoid blocking lanes.
-[JA TRANSLATION NEEDED] 5.  Pace control: When the ceiling lowers, favor safe clears over greedy snipes.
+### 操作ガイド
 
-### Controls Guide
+*   **操作：** マウス（またはタッチ）で方向を定め、クリック（タップ）で発射します。バブルの交換（スワップ）機能があるモードなら、有効活用しましょう。
+*   **UI:** 画面上のボタンで一時停止やリスタートが可能です。
 
-- Aim with mouse/touch and click/tap to fire; swap bubbles if the mode allows.
-- Pause/Restart via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 隠れていて狙えないバブルがあります。コツは？**  
+  A: 左右の壁でバンクショットを使い、浅い角度から裏側に回り込みましょう。
 
-- Q: I can’t hit a covered cluster—any trick?
-  
-[JA TRANSLATION NEEDED]   A: Bank off the side wall to approach from a shallower angle.
+- **Q: 欲しい色が全然出ません。どうすれば？**  
+  A: 小さな塊を処理して盤面を開け、将来の崩落に備えてください。バブル交換があるモードなら、レア色を温存してから撃つと効果的です。
 
-- Q: Wrong colors keep coming—what should I do?
-  
-[JA TRANSLATION NEEDED]   A: Trim small groups and set up future collapses; swap bubbles if available.
-
-- Q: Do I need to collect stars?
-  
-
-
-
-
-
-- Q: I can’t hit a covered cluster—any trick?
-### よくある質問（FAQ）
-- Pause/Restart via UI.
-- Aim with mouse/touch and click/tap to fire; swap bubbles if the mode allows.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Stars are optional goals but help unlock extra levels—pursue them when it’s safe.
-
-
-
-
-
-
-A: Stars are optional goals but help unlock extra levels—pursue them when it’s safe.
-- Q: Do I need to collect stars?
-A: Trim small groups and set up future collapses; swap bubbles if available.
-- Q: Wrong colors keep coming—what should I do?
-
-
-
-
-A: Stars are optional goals but help unlock extra levels—pursue them when it’s safe.
-- Q: Do I need to collect stars?
-A: Trim small groups and set up future collapses; swap bubbles if available.
+- **Q: 星は集めないといけませんか？**  
+  A: 星は任意ですが、追加レベルの解放などに必要なことがあります。安全に余裕がある時だけ狙えば十分です。

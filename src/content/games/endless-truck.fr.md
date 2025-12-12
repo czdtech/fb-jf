@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: endless-truck
-title: '[FR] Endless Truck'
-description: >-
-  [FR] Endless Truck is a stunt‑runner — manage momentum, land cleanly, and
-  chain boosts while collecting cash and upgrades.
+title: "Endless Truck"
+description: "Endless Truck est un runner de cascades : gère ton élan, atterris proprement et enchaîne les boosts tout en récoltant de l’argent et des améliorations."
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/endless-truck.png
 tags:
@@ -16,41 +14,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Endless Truck est un runner à défilement horizontal centré sur la gestion de la vitesse et l’angle d’atterrissage. Collines, tremplins et ravins récompensent une accélération fluide et des flips contrôlés ; les atterrissages ratés te font perdre de la vitesse ou provoquent un crash. En ramassant de l’argent et en accomplissant des missions, tu débloques des améliorations (moteur, suspension, boost) qui augmentent ta vitesse de pointe et la stabilité de ton camion.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Endless Truck is a side‑scrolling stunt runner focused on speed control and landing angles. Hills, ramps, and gaps reward smooth throttle and controlled flips; sloppy landings bleed speed or crash. Cash pickups and missions unlock upgrades (engine, suspension, boost) that raise top speed and stability.
+1.  Atterris bien à plat : touche le sol avec les roues bien horizontales pour conserver ta vitesse et éviter les rebonds incontrôlés.
+2.  Dose les gaz : relâche et réappuie sur l’accélérateur au sommet des bosses pour éviter que l’avant ne pique dans le vide.
+3.  Discipline sur les flips : ne tente des flips que lorsque la hauteur et la trajectoire sont sûres ; un flip propre vaut mieux que deux figures trop risquées.
+4.  Utilise le boost intelligemment : déclenche le nitro à la sortie d’un saut, sur terrain plat, plutôt qu’en plein vol ; enchaîner les boosts après des atterrissages propres donne les runs les plus longs.
+5.  Ordre des améliorations : commence par la suspension et les pneus pour gagner en contrôle, puis investis dans le moteur et le boost une fois le camion plus stable.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Land flat: Touch down with wheels level to retain speed and avoid bounce.
-2.  **[FR]** Throttle feathering: Pulse throttle over crests to prevent nose dives.
-3.  **[FR]** Flip discipline: Only flip when altitude and arc are safe; one clean flip beats two risky ones.
-4.  **[FR]** Boost wisely: Use nitro on flat exits, not mid‑air; stacking boosts after clean landings yields longest runs.
-5.  **[FR]** Upgrade order: Suspension/tires for control, then engine/boost as you stabilize.
+- Accélérer/Freiner : W/S ou Flèche Haut/Bas.  Incliner le camion : A/D ou Flèches Gauche/Droite.  Boost : Shift ou Barre d’espace (selon la configuration).
 
-### Controls Guide
+### Astuces avancées
 
-- Accelerate/Brake: W/S or Up/Down.  Tilt: A/D or Left/Right.  Boost: Shift/Space (varies).
+- Pumping : appuie brièvement sur le frein avant une descente pour baisser le nez du camion, puis accélère à l’atterrissage pour gagner en traction.
+- Optimisation des missions : choisis des trajectoires qui te permettent de valider plusieurs missions en un seul run (par exemple flips + distance).
+- Sauver un atterrissage raté : si ton angle est mauvais, coupe les gaz et ajuste doucement l’inclinaison pour récupérer un contact correct avec le sol.
 
-### Advanced Tips
+### Foire aux questions (FAQ)
 
-- Pumping: Tap brake before a drop to lower the nose, then accelerate on landing for extra traction.
-- Mission routing: Pick routes that complete multiple missions in one run (e.g., flips + distance).
-- Crash recovery: If angle is bad, cut throttle and gently tilt to save the landing.
+- Q : Je me crashe tout le temps à l’atterrissage, que faire ?
+  
+  R : Réduis le nombre de flips, veille à atterrir roues bien à plat et relâche légèrement l’accélérateur le temps que la suspension se stabilise.
 
-### Frequently Asked Questions (FAQ)
+- Q : Quelle amélioration acheter en premier ?
+  
+  R : La suspension et les pneus pour la maniabilité ; la vitesse vient après, une fois que tu contrôles bien le camion.
 
-- Q: I always wipe out on landings — any fix?
-
-A: Reduce flips, land with wheels level, and ease throttle until suspension settles.
-
-- Q: Best upgrade first?
-
-A: Suspension/tires for handling; speed after stability.
-
-- Q: When should I use boost?
-
-A: On flat ground after clean landings to extend speed without losing control.
-
+- Q : Quand utiliser le boost ?
+  
+  R : Sur les portions plates après un atterrissage propre, pour prolonger ta vitesse sans perdre le contrôle.

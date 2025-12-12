@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: word-pics
-title: '[ZH TRANSLATION NEEDED] Word Pics'
+title: 'Word Pics：看图猜词'
 description: >-
-  [ZH TRANSLATION NEEDED] Guess the word that connects the two pictures in Word
-  Pics, a fun and addictive word puzzle game.
+  《Word Pics》是一款通过两张图片来猜一个单词或短语的益智游戏。
+  仔细观察图中暗示，找出把两张图“串联”起来的那个关键词，一边闯关一边扩充词汇量。
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/word-pics.jpg
 tags:
@@ -16,25 +16,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Word Pics is a word puzzle game where players guess a single word or phrase based on two picture clues. The game is designed to be fun, addictive, and a great way to enhance your vocabulary.
+《Word Pics》是一款“看图猜词”类文字谜题游戏，
+每一关都会给出两张看似无关的小图片，你需要通过联想找出能把它们联系在一起的那个英文单词或短语。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Analyze the Pictures:** Look at both pictures and try to find a common theme or word that connects them.
-2.  [ZH TRANSLATION NEEDED] **Guess the Word:** Type in the word that you think connects the two images.
-3.  [ZH TRANSLATION NEEDED] **Use Hints:** If you're stuck, you can use hints. Hints can reduce the number of letters, reveal a letter, or even swap one of the images for a new one.
-4.  [ZH TRANSLATION NEEDED] **Game Modes:** The game offers different modes, including a classic mode, an expert mode with disappearing pictures, and a multiplayer mode to challenge other players.
+有时两张图的共同点非常直观，例如同一种物品或同一个颜色；
+有时则比较抽象，考验你对概念、情绪或短语含义的理解。
+游戏节奏轻松，很适合作为日常碎片时间的小训练。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-*   **Keyboard:** Use the keyboard to type in the letters of the word.
-*   **Mouse/Touch:** Use the mouse or touch screen to interact with the game's menus and hints.
+1.  **先整体再细节：**  
+    先从整体感觉出发，思考两张图给你的第一印象，
+    然后再回头观察其中的小细节，有时答案就藏在角落里。
+2.  **找共同主题：**  
+    想想这两张图在“物品、动作、情绪、场景”上有什么共通之处，
+    答案往往是它们的交集而不是单独描述某一张图。
+3.  **善用提示：**  
+    实在看不出来时，可以使用提示功能，
+    比如减少候选字母、显示一个正确字母，或者刷新其中一张图片，帮助你换个角度思考。
+4.  **尝试不同模式：**  
+    游戏通常包含经典模式、高难度图片会逐渐消失的专家模式，
+    以及与其他玩家比拼速度的多人模式，让挑战更有变化。
 
-### Frequently Asked Questions (FAQ)
+### 操作指南
 
-*   **Q: What if I can't guess the word?**
-     *   **A:** You can use the in-game hints to help you. You can also earn coins by passing levels to buy more hints.
-*   **Q: Are there different difficulty levels?**
-     *   **A:** The game has different modes, including an expert mode for a greater challenge. The puzzles also get progressively more difficult as you advance.
+*   **键盘输入：** 使用键盘输入你认为正确的英文单词或短语。
+*   **鼠标 / 触控：** 用鼠标或手指点击界面上的字母键、提示按钮和模式切换等。
 
+### 常见问题（FAQ）
+
+*   **问：如果实在猜不出来怎么办？**  
+    *   **答：** 可以消耗游戏内金币或奖励来使用提示，
+        也可以通过通关、签到或看广告来获得更多提示资源。
+
+*   **问：难度会变化吗？**  
+    *   **答：** 会。随着关卡推进，图片之间的联系会越来越隐晦，
+        此外专家模式和多人模式也会提供更高难度与竞争压力。

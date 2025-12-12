@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: brain-trainer
-title: '[ES] Brain Trainer'
+title: "Brain Trainer"
 description: >-
-  [ES] Challenge your mind with a variety of fun and engaging mini-games! Test
-  your memory, logic, calculation speed, and spatial awareness in this ultimate
-  brain workout.
+  Pon a prueba tu mente con una colección de minijuegos divertidos y
+  estimulantes. Entrena memoria, lógica, velocidad de cálculo y visión espacial
+  en esta completa sesión de gimnasio mental.
 iframeSrc: >-
   https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/brain-trainer.jpg
@@ -18,35 +18,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Brain Trainer es una recopilación de minijuegos pensados para poner en forma tus
+habilidades cognitivas. La colección se centra en varias áreas clave del
+cerebro: memoria, lógica, cálculo y percepción espacial. Al superar estos
+retos breves pero exigentes, pondrás a prueba tu agilidad mental, mejorarás la
+concentración y podrás seguir la evolución de tu rendimiento con el tiempo. Es
+una forma perfecta de mantener la mente despierta mientras te diviertes.
 
-### Detailed Game Introduction
+### Estrategia y tipos de prueba
 
-Brain Trainer is a collection of fun and stimulating mini-games designed to give your cognitive skills a workout. The game targets different areas of your brain, including memory, logic, calculation, and spatial awareness. By playing through these quick and challenging puzzles, you can test your mental agility, improve your focus, and track your performance over time. It's a perfect way to keep your mind sharp while having fun.
+Brain Trainer incluye distintos tipos de minijuegos. Algunos ejemplos:
 
-### Gameplay Strategy & Walkthrough
+1.  **Juegos de memoria:** Pueden mostrarte una secuencia de luces que se
+    encienden o un conjunto de cartas que se revelan brevemente. Tu tarea es
+    recordar el patrón o la posición de las parejas y reproducirlo de forma
+    correcta.
+2.  **Puzles de lógica:** Retos que ponen a prueba tu capacidad de resolución de
+    problemas. A veces tendrás que identificar el objeto más pesado a partir de
+    una balanza; otras, completar una serie visual eligiendo la pieza que falta.
+3.  **Desafíos de cálculo:** Pruebas de matemáticas mentales. Verás cadenas de
+    operaciones sencillas que debes resolver lo más rápido posible contra el
+    reloj.
+4.  **Conciencia espacial:** Puzles en los que quizá tengas que rotar bloques
+    para encajarlos en una silueta concreta o guiar un elemento a través de un
+    laberinto.
 
-Brain Trainer consists of several different mini-games. Here are a few examples:
+### Guía de controles
 
-1.  **[ES]** **Memory Games:** You might be shown a sequence of flashing lights or a set of cards that are briefly revealed. Your task is to remember the pattern or the location of matching pairs and replicate it correctly.
-2.  **[ES]** **Logic Puzzles:** These games challenge your problem-solving skills. You might have to identify the heaviest object from a set of scales or solve a visual pattern puzzle.
-3.  **[ES]** **Calculation Challenges:** Test your mental math. You will be presented with a series of simple arithmetic problems that you must solve as quickly as possible against the clock.
-4.  **[ES]** **Spatial Awareness:** These puzzles might involve rotating blocks to fit into a specific shape or navigating a maze.
+Los controles son muy simples y cambian ligeramente según el minijuego, pero
+siempre se basan en clics o toques.
 
-### Controls Guide
+*   **Seleccionar/Responder:** Haz clic o toca sobre el objeto, número o
+    secuencia correctos según lo que pida la prueba actual.
 
-The controls are simple and vary by mini-game, but they are all based on mouse clicks or taps.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Select/Answer:** Click on the correct object, number, or sequence as required by the current puzzle.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Conseguir la mayor puntuación posible en cada minijuego. Muchos
+        Brain Trainer ofrecen además una puntuación global del "cerebro" o una
+        estimación de "edad mental" basada en tus resultados en todas las
+        categorías.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Las pruebas están cronometradas?**
+    *   **R:** Sí, la mayoría de minijuegos tienen límite de tiempo. Tu
+        puntuación suele depender de una combinación de velocidad y precisión.
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** The goal is to achieve the highest score possible in each mini-game. The game often provides an overall "brain score" or "brain age" based on your performance across all categories.
-
-*   **[ES]** **Q: Are the games timed?**
-    *   **[ES]** **A:** Yes, most of the mini-games are timed. Your score is often based on a combination of speed and accuracy.
-
-*   **[ES]** **Q: How can I improve my score?**
-    *   **[ES]** **A:** Practice! The more you play, the more familiar you will become with the types of challenges, and the faster and more accurate you will get.
-
+*   **P: ¿Cómo puedo mejorar mis resultados?**
+    *   **R:** Con práctica. Cuanto más juegues, más familiar te volverás con los
+        tipos de retos y más rápido y preciso responderás.

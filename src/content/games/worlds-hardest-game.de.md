@@ -1,12 +1,11 @@
 ---
 locale: de
 urlstr: worlds-hardest-game
-title: '[DE] World''s Hardest Game'
+title: World's Hardest Game
 description: >-
-  [DE] World's Hardest Game is an extremely challenging arcade game where
-  players control a red square to navigate through levels filled with moving
-  blue circles, requiring precise timing and patience to avoid obstacles and
-  reach the goal.
+  World's Hardest Game ist ein knallhartes Arcade‑Geschicklichkeitsspiel:
+  Steuere ein rotes Quadrat durch Level voller beweglicher blauer Kreise – nur
+  mit perfektem Timing und viel Geduld schaffst du es ins Ziel.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/worlds-hardest-game.jpg
 tags:
@@ -17,35 +16,43 @@ score: 4.9/5  (1070 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
+
+World's Hardest Game gilt nicht ohne Grund als eines der schwierigsten Arcade‑Spiele überhaupt. Du steuerst ein kleines rotes Quadrat durch Labyrinthe, in denen sich blaue Kreise nach festen Mustern bewegen. Schon ein einziger Treffer setzt dich zurück – gefragt sind extrem präzise Bewegungen, perfekte Timings und eine Menge Frustrationstoleranz.
+
+### Spielstrategie
+
+1. **Muster beobachten:** Bevor du losrennst, sieh dir die Bewegungsabläufe der blauen Kreise genau an und präge dir ihre Zyklen ein.
+2. **Geduld bewahren:** Erzwinge keine riskanten Lücken. Warte lieber auf ein klares Zeitfenster, statt einen halbwegs „ok“ wirkenden Moment zu nehmen.
+3. **Pixelgenau bewegen:** Nutze kurze, kontrollierte Bewegungen statt großer Sprünge, um enge Passagen sauber zu treffen.
+4. **In Etappen denken:** Teile komplizierte Wege gedanklich in kleine Abschnitte ein und nimm dir einen Checkpunkt nach dem anderen vor.
+5. **Ruhe behalten:** Scheitern gehört zum Spiel – jede Wiederholung hilft dir, Muster besser zu lesen.
+
+### Steuerung
+
+- **Bewegung:** `WASD` oder `Pfeiltasten`, um das rote Quadrat präzise zu steuern.
+- **Kurz stoppen:** In sicheren Zonen kurz stehen bleiben, um den nächsten Abschnitt zu planen.
 
 
+- **Pause and Think**: Stop in safe areas to plan the next move.
+### Häufige Fragen (FAQ)
 
 
-### Game Introduction
+- **Q: Why is it called the World's Hardest Game?**
+**Warum heißt es „World's Hardest Game“?**  
 
-"World's Hardest Game" is an extremely challenging arcade game where players control a red square to navigate through levels filled with moving blue circles. It requires precise timing and immense patience to avoid obstacles and reach the goal. This game is famous for its extremely high difficulty and simple yet frustrating gameplay.
+- **Q: How many levels are there?**
+Weil bereits kleinste Timing‑ oder Richtungsfehler zum sofortigen Scheitern führen und viele Level extrem eng getaktet sind.
 
-### Gameplay Strategy
 
-1.  **[DE]** **Observe Patterns**: Carefully observe the movement patterns and timing of blue circles before moving.
-2.  **[DE]** **Wait Patiently**: Don't rush into action; wait for the right moment to move.
-3.  **[DE]** **Precise Movement**: Use exact movements, avoiding unnecessary large displacements.
-4.  **[DE]** **Segment Approach**: Break complex paths into multiple small segments and complete them step by step.
-5.  **[DE]** **Stay Calm**: Failure is normal; stay calm and learn from mistakes.
+- **Q: Can I save progress?**
+**Wie viele Level gibt es?**  
 
-### How to Play
+- **Q: Are there any tips for completion?**
+In den meisten Versionen rund 30, wobei jeder Abschnitt spürbar schwerer wird.
 
-*   **[DE]** **Movement Control**: Use WASD keys or arrow keys to control the red square's movement.
-*   **[DE]** **Precise Positioning**: Can make pixel-perfect precise movements to avoid obstacles.
-*   **[DE]** **Pause and Think**: Stop in safe areas to plan the next move.
+**Kann ich meinen Fortschritt speichern?**  
+Viele Builds speichern automatisch, sodass du beim nächsten Start beim letzten freigeschalteten Level weitermachen kannst.
 
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: Why is it called the World's Hardest Game?**
-**A**: Because the game requires extremely precise timing and movement, where even small errors lead to failure.
-2.  **[DE]** **Q: How many levels are there?**
-**A**: The game typically contains 30 levels, each more difficult than the previous one.
-3.  **[DE]** **Q: Can I save progress?**
-**A**: Most versions automatically save progress, allowing you to continue from the last completed level.
-4.  **[DE]** **Q: Are there any tips for completion?**
-**A**: Practice, patience, and observation are key. Learn to predict movement patterns and don't rush.
+**Gibt es Tricks, um es zu schaffen?**  
+Keine Abkürzungen – Beobachtung, Übung und Geduld sind der Schlüssel. Lerne, Bewegungsmuster vorauszusehen, und renne nicht unüberlegt los.

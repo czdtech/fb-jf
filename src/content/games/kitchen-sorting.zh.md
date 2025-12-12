@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: kitchen-sorting
-title: '[ZH TRANSLATION NEEDED] Kitchen Sorting'
-description: >-
-  [ZH TRANSLATION NEEDED] Kitchen Sorting is a tidy categorization puzzler —
-  sort foods, tools, and waste correctly under time pressure while avoiding
-  cross‑contamination.
+title: 《Kitchen Sorting》厨房分类挑战
+description: 《Kitchen Sorting》是一款关于厨房分类与卫生的益智游戏，你要在时间压力下把食材、工具和垃圾正确分拣到对应区域，避免交叉污染。
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/kitchen-sorting.png
 tags:
@@ -18,32 +15,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Kitchen Sorting is a fast, visual logic game about placing items into correct bins: produce vs meats, recyclables vs trash, clean tools vs dirty ones, hot vs cold storage, etc. Levels add misleaders (e.g., cooked vs raw), combo objectives (sort three safe items in a row), and penalties for wrong placement or delays. Difficulty rises with simultaneous conveyors and stricter hygiene rules that punish cross‑contamination.
+《Kitchen Sorting》是一款节奏明快的视觉逻辑游戏，你需要把传送带上出现的各类物品迅速放入正确的“区域”或收纳容器中：例如生鲜蔬果与生肉分区、可回收物与垃圾分开、干净工具与待清洗工具分离、冷热食材按照储存要求归类等等。关卡会逐渐加入具有迷惑性的物品（如熟食 vs 生食）、连击任务（连续分拣出 3 个安全物品）以及错误惩罚机制，后期甚至会出现多条传送带同时运行，以及更严格的卫生规则，一旦出现交叉污染就会被严厉扣分。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Big rules first: Prioritize health‑critical splits (raw meats vs ready‑to‑eat) before fine categories.
-2.  [ZH TRANSLATION NEEDED] Visual cues: Learn iconography (recycle marks, thermometer symbols) to speed decisions.
-3.  [ZH TRANSLATION NEEDED] Buffering: If allowed, park unclear items briefly to avoid mistakes under rush.
-4.  [ZH TRANSLATION NEEDED] Combo routing: Chain easy items to maintain streak multipliers; insert tricky items during lulls.
-5.  [ZH TRANSLATION NEEDED] Error control: One mistake costs more than a slight delay — skip uncertain picks.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **先抓“大原则”再细分**：在时间紧张时，优先确保卫生安全相关的大类划分，例如绝不能把生肉与即食食品放在一起，其次再考虑更精细的类别区分。  
+2.  **熟悉视觉提示符号**：尽快记住回收标志、温度计图标等直观符号，看到这些标记时可以迅速判断物品该去哪里，减少思考时间。  
+3.  **利用“缓冲区”（如关卡允许）**：在部分规则宽松的关卡里，可以先暂时把不确定的物品放到相对安全的中立区域，等有空再处理，避免仓促决策造成失误。  
+4.  **连击策略**：如果关卡有连击或连对奖励，可以先挑选最容易判断的物品连续分拣来稳定连击，再在节奏稍慢时处理复杂物品。  
+5.  **错误成本意识**：在高难度关卡中，一次严重的卫生错误往往比少拿一个连击奖励更致命。如果完全没有把握，宁可放慢一点、甚至放弃一个物品，也不要胡乱丢错。  
 
-- Drag or tap items into labeled bins; pause/retry via UI; hints may highlight correct zones.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过拖拽或点击，将物品移动到标记清晰的收纳桶或区域；界面上可使用暂停或重试按钮，部分关卡提供高亮提示正确区域的“帮助”功能。  
 
-- Q: I confuse recyclables and trash — any advice?
-  
-[ZH TRANSLATION NEEDED]   A: Memorize a few anchors (glass, cans, cardboard) as “always recycle”; uncertain plastics go to trash unless labeled.
+### 常见问题（FAQ）
 
-- Q: Combo streaks keep breaking.
-  
-[ZH TRANSLATION NEEDED]   A: Feed easy items first to stabilize streaks, then slip harder ones during slowdowns.
+*   **Q: 总是分不清可回收与普通垃圾，有什么记忆法？**  
 
-- Q: Are penalties harsh?
-  
-[ZH TRANSLATION NEEDED]   A: Later levels penalize hygiene mistakes heavily; skip if unsure rather than risking a red mark.
+A: Memorize a few anchors (glass, cans, cardboard) as “always recycle”; uncertain plastics go to trash unless labeled.
+- **A:** 可以先记住几个“锚点”：玻璃瓶、易拉罐和纸箱几乎总是可回收；没有标识的混合塑料如果拿不准，宁可当普通垃圾处理。  
 
+
+A: Feed easy items first to stabilize streaks, then slip harder ones during slowdowns.
+*   **Q: 连击总是被难判断的物品打断，怎么办？**  
+
+A: Later levels penalize hygiene mistakes heavily; skip if unsure rather than risking a red mark.
+    *   **A:** 先用最容易判断的物品（如明显的蔬菜、水果或清洗工具）来打连击，把难分辨的物品留在连击之外处理。  
+
+*   **Q: 后面关卡的惩罚为什么这么重？**  
+    *   **A:** 高章节会强调“卫生错误比速度错误更严重”，因此一旦分拣出严重交叉污染，比慢一点或错过个别物品扣分更高，建议把优先级放在“分错少”而不是“分得多”。

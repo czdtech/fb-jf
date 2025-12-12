@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: retro-drift
-title: '[KO] Retro Drift'
+title: "Retro Drift 레트로 드리프트"
 description: >-
-  [KO] Retro Drift is an old‑school top‑down drifter — feather throttle, manage
-  angles, and slide clean through corners.
+  탑다운 시점에서 드리프트를 이어 가며 랩 타임을 단축하는 운전 게임입니다.
+  가속을 조절하고 카운터 스티어로 미끄러짐을 컨트롤해 깨끗한 라인을
+  만들어 보세요.
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
 thumbnail: /new-images/retro-drift.jpg
 tags:
@@ -17,28 +18,63 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Retro Drift*는 최소한의 연출로 **컨트롤된 드리프트**에 집중하도록
+설계된 탑다운 운전 게임입니다. 코스는 부드러운 곡선과 연속 코너로
+이루어져 있으며, 스로틀을 얼마나 열고 언제 카운터 스티어를 넣는지에
+따라 랩 타임과 점수 배수가 크게 달라집니다.
 
-Retro Drift is a minimalist top‑down driving game focused on controlled slides. Courses favor flowing lines and corner linking—light throttle, counter‑steer timing, and exit speed determine lap times and score multipliers.
+완전히 그립을 회복했다가 다시 미끄러지는 것보다, 한 번의 드리프트로
+여러 코너를 이어 나가는 것이 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Enter slow, exit fast: Sacrifice a bit of entry speed to maximize exit traction and next corner setup.
-2.  **[KO]** Feather throttle: Short pulses keep traction while preserving the slide.
-3.  **[KO]** One drift, many corners: Link consecutive corners by planning line and throttle in advance.
-4.  **[KO]** Recover early: If the rear steps out too far, reduce throttle and steer into the slide before it spins.
-5.  **[KO]** Learn layouts: Repetition builds muscle memory for braking points and apex timing.
+1. **천천히 진입하고 빠르게 탈출하기**  
+   코너에 진입할 때 속도를 약간 포기하더라도, 코너를 빠져나갈 때
+   최대한 좋은 자세와 속도를 유지하는 것이 다음 코너 연결에 더
+   도움이 됩니다.
 
-### Controls Guide
+2. **스로틀을 살살 나누어 밟기**  
+   가속 페달을 계속 끝까지 밟기보다, 짧은 펄스로 나누어 밟으면
+   그립을 유지하면서도 미끄러짐을 유지할 수 있습니다.
 
-- Steer: A/D or Left/Right.
-- Throttle/Brake: W/S or Up/Down.
-- Handbrake (if available): Space for sharper rotation.
+3. **한 번의 드리프트로 여러 코너 잇기**  
+   코너 A의 탈출 라인을 B 코너의 진입 라인까지 연결할 수 있다면,
+   그 사이에서 그립을 완전히 회복하지 않는 것이 좋습니다.
+   연속 코너를 하나의 큰 드리프트로 묶는 것이 높은 점수의 비결입니다.
 
-### Frequently Asked Questions (FAQ)
+4. **미끄러지기 시작했을 때는 일찍 복구하기**  
+   뒤쪽이 너무 크게 나가기 시작하면 바로 스로틀을 줄이고, 미리
+   카운터 스티어를 넣어 차가 한 바퀴 도는 스핀 상황을 막아야
+   합니다. 반응이 늦을수록 복구가 더 어려워집니다.
 
-- I keep spinning—why? Too much throttle or late counter‑steer; soften inputs and react earlier.
-- Best way to link corners? Focus on exit of corner A to set a line into corner B; avoid full traction resets between them.
-- Are upgrades available? Some modes offer car unlocks; otherwise, skill and consistency drive improvement.
+5. **코스를 반복하며 레이아웃 익히기**  
+   여러 번 같은 코스를 돌다 보면 제동 지점, 코너의 안쪽(에이펙스),
+   탈출 타이밍이 몸에 배게 됩니다. 이때부터 랩 타임이 크게
+   줄어들기 시작합니다.
 
+### 조작 가이드
+
+- **조향**: `A/D` 또는 좌/우 방향키로 좌우로 조향합니다.  
+- **가속/감속**: `W/S` 또는 상/하 방향키로 가속과 브레이크를
+  조작합니다.  
+- **핸드브레이크(지원되는 경우)**: 스페이스바로 뒷바퀴를 잠가
+  더 날카로운 회전을 만들 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 자꾸 스핀해요. 이유가 뭔가요?**  
+  **A:** 스로틀을 너무 많이 열거나, 카운터 스티어 타이밍이 늦은
+  경우가 많습니다. 스티어링 입력을 부드럽게 하고, 차가 미끄러지기
+  시작할 때 조금 더 일찍 반대 방향으로 조향해 보세요.
+
+- **Q: 연속 코너를 자연스럽게 잇는 방법이 궁금해요.**  
+  **A:** 첫 번째 코너의 탈출선을 다음 코너 진입선까지 이어간다는
+  느낌으로, 중간에 그립을 완전히 회복하지 않도록 페달과 조향을
+  조절해 보세요.
+
+- **Q: 차량 업그레이드가 있나요?**  
+  **A:** 일부 모드에서는 다른 차량을 해금하거나 성능을 향상할 수
+  있지만, 기본적으로는 조작 실력과 일관된 주행이 기록 향상의
+  핵심입니다.

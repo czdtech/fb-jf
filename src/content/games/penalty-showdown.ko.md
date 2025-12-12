@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: penalty-showdown
-title: '[KO] Penalty Showdown'
+title: "Penalty Showdown 페널티 쇼다운"
 description: >-
-  [KO] Penalty Showdown is a tense shootout — pick corners, vary height, and
-  outguess keepers in alternating kicker/keeper rounds.
+  슈터와 골키퍼 역할을 번갈아 맡으며 승부차기를 치르는 축구 게임입니다.
+  코너와 슛 높이를 바꾸고, 타이밍을 흔들어 심리전으로 상대를
+  속여 보세요.
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/penalty-showdown.jpg
 tags:
@@ -16,34 +17,68 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Penalty Showdown*에서는 한 라운드마다 키커(슈터)와 골키퍼 역할을
+번갈아 수행합니다. 공격할 때는 킥 방향과 높이를 숨겨 골키퍼를
+속여야 하고, 수비할 때는 상대 러닝 동작과 몸의 방향을 읽어 어느
+쪽으로 뛰어들지 빠르게 판단해야 합니다.
 
-Penalty Showdown alternates between shooting and goalkeeping phases. As the taker, disguise placement and height; as the keeper, read run‑ups and dive late. Winning relies on rhythm changes and mixed shot profiles rather than power alone.
+이 게임에서 승패를 가르는 것은 단순한 슛 파워가 아니라,
+**리듬과 패턴을 계속 바꾸는 심리전**입니다. 낮은 구석, 높은 구석,
+중앙 슛을 적절히 섞어 쓰고, 러닝 속도나 멈춤 동작을 바꾸어
+상대가 슛 방향을 예측하기 어렵게 만드는 것이 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Mix profiles: Alternate low corners, high corners, and center chips to avoid patterns.
-2.  **[KO]** Keeper late dive: Move briefly then commit late to the striker’s open‑body side.
-3.  **[KO]** Power windows: Mid‑high power gives speed without wild slices.
-4.  **[KO]** Wind: Offset aim and reduce height under strong wind (if modeled).
-5.  **[KO]** Mind games: Pause a beat before shots to bait early dives.
+1. **슛 패턴 다양화하기**  
+   같은 높이와 코스를 반복하면 골키퍼가 금방 읽어 냅니다.
+   왼쪽/오른쪽 구석, 높게 찬 슛, 낮게 깔리는 슛, 중앙 강슛 등을
+   라운드마다 섞어 써서 패턴을 흐트러뜨리세요.
 
-### Controls Guide
+2. **골키퍼는 늦게 다이빙하기**  
+   키퍼로 플레이할 때는 너무 일찍 한쪽으로 뛰어들지 말고,
+   슈터의 마지막 두 발자국과 몸의 열린 방향을 보고 늦게
+   다이빙하는 것이 좋습니다. 이렇게 하면 반대쪽으로 속는
+   상황을 줄일 수 있습니다.
 
-- Shoot: aim + power + (optional) swerve. Keep: choose side/timing; some builds allow manual dives.
+3. **적당한 파워 구간 유지하기**  
+   게이지를 최대치까지 채우면 강력하긴 하지만, 방향이 조금만
+   빗나가도 골문을 벗어나기 쉽습니다. 중간~약간 높은 정도의 파워로
+   안정적인 슛을 노리면, 속도와 정확도를 모두 확보할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+4. **바람이 있을 때는 조준 보정하기**  
+   일부 버전에서는 바람이 슛 궤적에 영향을 줄 수 있습니다.
+   바람이 강하게 부는 방향의 반대쪽으로 약간 조준을 옮기고,
+   특히 높게 뜨는 슛은 바람의 영향을 더 많이 받으니 조심하세요.
 
-- Q: Shots keep getting saved.
+5. **간단한 심리전 활용하기**  
+   슈팅 직전에 잠깐 멈춰 서거나, 러닝 속도를 일부러 바꾸면
+   골키퍼가 먼저 반응하도록 유도할 수 있습니다. 이런 "페이크"로
+   상대의 다이빙 타이밍을 흐트러뜨려 보세요.
 
-A: Vary height and delay aim; avoid predictable mid‑goal strikes.
+### 조작 가이드
 
-- Q: Keeper guesses me every time.
+- **슈팅**: 마우스나 키보드로 골문 내 조준 지점을 선택한 뒤,
+  파워와 높이를 조절해 슛을 날립니다. 일부 버전에서는 드래그로
+  커브를 줄 수 있습니다.  
+- **키핑(골키퍼)**: 다이빙할 방향과 타이밍을 선택합니다.
+  어떤 빌드는 수동으로 직접 다이빙 방향을 입력해야 할 수도
+  있습니다.
 
-A: Change run‑up angles and add a brief pause before contact.
+### 자주 묻는 질문(FAQ)
 
-- Q: Best keeper tip?
+- **Q: 슛이 자꾸 막혀요. 어떻게 해야 하나요?**  
+  **A:** 항상 같은 높이와 코스를 사용하지 말고, 낮은 슛과 높은 슛,
+  중앙과 구석을 번갈아 사용해 패턴을 섞어 주세요. 조준은 너무
+  일찍 고정하지 말고 마지막 순간에 살짝 바꾸는 것도 좋습니다.
 
-A: Watch the last two steps — hips often telegraph shot side.
+- **Q: 골키퍼가 매번 제 슛을 읽어요.**  
+  **A:** 러닝 각도와 속도, 멈춤 타이밍을 조금씩 바꾸어 보세요.
+  반복되는 리듬을 깨면 골키퍼가 방향을 예측하기가 훨씬
+  어려워집니다.
 
+- **Q: 골키퍼 플레이에서 가장 중요한 팁은 무엇인가요?**  
+  **A:** 슈터의 마지막 두 걸음을 집중해서 보세요. 엉덩이와 어깨가
+  열리는 방향이 실제 슛 방향을 암시하는 경우가 많고, 너무 일찍
+  다이빙하기보다 약간 늦게 뛰어드는 편이 실점 확률을 줄여 줍니다.

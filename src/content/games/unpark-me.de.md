@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: unpark-me
-title: '[DE] Unpark Me'
+title: Unpark Me
 description: >-
-  [DE] A classic sliding block puzzle with a parking lot theme. Move the other
-  cars and trucks out of the way to clear a path for the red car to exit the
-  crowded parking lot.
+  Unpark Me ist ein klassisches Park‑Schiebepuzzle: Rangiere Autos und Laster so
+  um, dass der rote Wagen endlich aus dem verstopften Parkplatz herausfahren
+  kann.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/unpark-me.png
 tags:
@@ -17,34 +17,42 @@ score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Unpark Me ist ein Schiebeblock‑Puzzle im „Parking Jam“-Stil. Auf einem vollen Parkplatz‑Raster stehen Autos und Trucks kreuz und quer, und dein rotes Auto steckt mittendrin fest. Ziel ist es, die anderen Fahrzeuge so zu verschieben, dass der rote Wagen eine freie Spur bis zur Ausfahrt bekommt – ideal, um logisches und vorausschauendes Denken zu trainieren.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Hauptblocker finden:** Schau dir zuerst an, welche Fahrzeuge direkt die Fahrspur des roten Autos Richtung Ausgang versperren.
+2. **Rückwärts planen:** Um diese Blocker zu bewegen, musst du oft andere Autos aus dem Weg räumen. Arbeite dich gedanklich vom Ausgang aus rückwärts durch die Engstellen.
+3. **Freiraum nutzen:** Leere Felder sind Gold wert. Nutze sie als Zwischenparkplatz, um kritische Fahrzeuge kurzzeitig aus dem Weg zu stellen.
+4. **Züge minimieren:** Versuche, nicht planlos zu schieben. Wer wenige, durchdachte Züge macht, löst das Level eleganter – oft wirst du dafür mit einer besseren Bewertung belohnt.
 
-Unpark Me is a classic sliding block puzzle game, also known as a "parking jam" puzzle. You are presented with a crowded parking lot grid filled with cars and trucks. Your goal is to strategically slide the other vehicles out of the way to clear a path for the target car (usually the red one) to drive out of the exit. The game is a true test of logic and sequential thinking, challenging you to solve the puzzle in the fewest moves possible.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[DE]** **Identify the Blocker:** First, identify the cars that are directly blocking the red car's path to the exit.
-2.  **[DE]** **Work Backwards:** To move the primary blocking car, you often need to move another car that is blocking *it*. Work backwards from the exit, clearing a path piece by piece.
-3.  **[DE]** **Use Empty Space:** Efficiently using the empty spaces on the board is crucial. You will need to shuffle cars into temporary empty spots to make room to move the ones you really need to clear.
-4.  **[DE]** **Aim for Fewest Moves:** While just solving the puzzle is the main goal, a secondary challenge is to do it in the minimum number of moves. This requires thinking several steps ahead and not making any unnecessary shifts.
-
-### Controls Guide
 
 The game is played with simple drag-and-drop controls.
+- **Fahrzeug bewegen:** Klicke oder tippe ein Auto an und ziehe es entlang seiner Fahrtrichtung nach vorn oder hinten. Drehen oder seitlich schieben ist nicht möglich.
 
-*   **[DE]** **Move a Vehicle:** Click and hold on any car or truck. You can only slide it forwards and backwards along its current orientation (either horizontally or vertically). Drag it into an empty space to move it.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
 
-*   **[DE]** **Q: What is the objective?**
-    *   **[DE]** **A:** To slide the red car out through the exit on the side of the grid.
+- **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
 
-*   **[DE]** **Q: Why can't I move a car sideways?**
-    *   **[DE]** **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
+    - **Q: I'm completely stuck. What can I do?**
 
-*   **[DE]** **Q: I'm completely stuck. What can I do?**
-    *   **[DE]** **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
+- **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
 
+    - **Q: Why can't I move a car sideways?**
+
+- **A:** To slide the red car out through the exit on the side of the grid.
+
+    - **Q: What is the objective?**
+**Was ist das Ziel jedes Levels?**  
+Den roten Wagen so zu positionieren, dass er über die markierte Ausfahrt den Parkplatz verlassen kann.
+
+**Warum kann ich manche Autos nicht seitlich bewegen?**  
+Die Grundregel des Puzzles: Fahrzeuge dürfen nur in ihrer Längsrichtung verschoben werden. Seitliche oder diagonale Manöver sind nicht erlaubt.
+
+**Ich stecke komplett fest – was nun?**  
+Nutze gegebenenfalls die Hinweis‑Funktion, falls vorhanden, oder setze das Level zurück und probiere eine neue Strategie, statt den gleichen Fehlerpfad weiterzuspielen.

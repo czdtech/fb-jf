@@ -1,13 +1,12 @@
 ---
 locale: ko
 urlstr: stick-fighter
-title: '[KO] Stick Fighter'
+title: 'Stick Fighter 스틱 파이터'
 description: >-
-  [KO] Become a master of stickman combat in Stick Fighter! This action-packed
-  brawler pits you against other stick figures in a physics-based arena. Use
-  your fists, feet, and a variety of weapons to be the last one standing.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
+  Stick Fighter는 간단한 스틱맨 캐릭터를 조종해 물리 기반 아레나에서 싸우는
+  액션 격투 게임입니다. 주먹과 발차기, 다양한 무기를 활용해 마지막까지
+  살아남는 스틱맨이 되어 보세요.
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html'
 thumbnail: /new-images/stick-fighter.jpg
 tags:
   - fighting
@@ -19,37 +18,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Stick Fight is a fast-paced, physics-based fighting game where you control a simple stick figure and battle against others in a variety of hazardous arenas. The goal is to be the last stickman standing. The game is known for its chaotic, unpredictable combat, where environmental dangers and a wide array of weapons lead to hilarious and action-packed rounds.
+Stick Fighter는 빠른 템포의 물리 기반 격투 게임입니다. 플레이어는 단순한
+실루엣의 스틱맨을 조종해, 다양한 함정이 있는 아레나에서 다른 스틱맨들과
+싸우게 됩니다. 목표는 마지막까지 살아남는 것입니다. 지형과 무기, 물리엔진이
+뒤섞이며 매 판 예측할 수 없는 상황이 벌어지는 것이 특징입니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
-- **Combat:** Use punches, kicks, and a variety of weapons that are dropped into the arena.
-- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
-- **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
+각 라운드의 목표는 상대를 아레나 밖으로 날려 보내거나, 체력을 모두 깎아
+쓰러뜨리는 것입니다.
 
-### Controls Guide
+- **전투:**
+  기본 공격인 주먹과 발차기에 더해, 아레나에 떨어지는 다양한 무기를 집어
+  사용할 수 있습니다.
+- **물리 엔진 활용:**
+  캐릭터 움직임과 무기 반동, 넉백 등을 모두 물리가 결정합니다. 이를 이용해
+  트릭 샷을 노리거나, 적을 멀리 날려버리는 연출을 만들 수 있습니다.
+- **아레나 특징:**
+  가시 함정, 떨어지는 발판, 미끄러운 얼음 등 스테이지마다 다른 환경 요소가
+  배치되어 있으니, 그에 맞는 위치 선정과 움직임이 중요합니다.
 
-Controls are typically based on a standard 2D platformer layout:
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
-- **Jump:** `W` or `Up Arrow` Key
-- **Crouch:** `S` or `Down Arrow` Key
-- **Attack:** `Left Mouse Button` or `F`
-- **Block:** `Right Mouse Button` or `G`
+### 조작 방법 안내
 
-### Frequently Asked Questions (FAQ)
+조작은 일반적인 2D 플랫포머/격투 게임 레이아웃과 비슷합니다.
 
-**What is the main goal of Stick Fight?**
+- **이동:** `A`, `D` 또는 `←/→` 방향키
+- **점프:** `W` 또는 `↑` 방향키
+- **숙이기:** `S` 또는 `↓` 방향키
+- **공격:** 마우스 왼쪽 버튼 또는 `F`
+- **막기:** 마우스 오른쪽 버튼 또는 `G`
 
-To be the last player standing by knocking your opponents off the stage or defeating them with weapons.
+### 자주 묻는 질문(FAQ)
 
-**Can I play this game with friends?**
+**Q. Stick Fighter의 최종 목표는 무엇인가요?**
 
-Yes, Stick Fight is primarily a multiplayer game, often supporting both local and online matches with 2-4 players.
+각 라운드에서 상대를 스테이지 밖으로 튕겨내거나 체력을 모두 깎아, 마지막까지
+서 있는 플레이어가 되는 것입니다.
 
-**What kind of weapons are in the game?**
+**Q. 친구와 함께 플레이할 수 있나요?**
 
-The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
+네. Stick Fighter는 2~4인 로컬 또는 온라인 멀티플레이를 지원하는 경우가 많아,
+친구와 함께 대전을 즐기기에 적합합니다.
 
+**Q. 어떤 무기들이 등장하나요?**
+
+검과 창 같은 근접 무기부터, 권총·샷건·특수 발사기 등 다양한 원거리 무기까지
+폭넓게 등장합니다. 일부 무기는 뱀을 쏘는 바주카처럼, 웃기면서도 독특한
+효과를 보여 주기도 합니다.

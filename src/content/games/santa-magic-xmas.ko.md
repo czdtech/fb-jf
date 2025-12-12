@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: santa-magic-xmas
-title: '[KO] Santa Magic Xmas'
+title: Santa Magic Xmas 산타 매직 크리스마스
 description: >-
-  [KO] Experience the magic of Christmas in this festive match-3 puzzle game!
-  Help Santa by matching colorful ornaments and clearing the board to deliver
-  the presents.
+  크리스마스 장식들을 맞바꿔 3개 이상 맞추는 매치3 퍼즐 게임입니다. 종·오너먼트·진저브레드맨 등을 이어 강력한 파워업을 만들고, 선물을
+  제때 배달할 수 있도록 스테이지 목표를 달성해 보세요.
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/santa-magic-xmas.png
 tags:
@@ -18,36 +17,68 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Santa Magic Xmas*는 크리스마스 분위기가 가득한 매치3 퍼즐 게임입니다.
+플레이어는 산타를 도와 종, 트리 장식, 진저브레드맨 등 다양한
+크리스마스 아이템을 맞바꿔 **3개 이상 한 줄**로 맞추고, 강력한
+파워업을 만들어 보드를 정리해야 합니다.
 
-Santa Magic Xmas is a cheerful and festive match-3 puzzle game that immerses you in the holiday spirit. Your goal is to help Santa Claus by matching colorful Christmas items like bells, ornaments, and gingerbread men. Swap adjacent items to create lines of three or more, trigger powerful combos, and complete the objectives of each level to ensure all the presents are delivered on time!
+각 스테이지마다 얼음 타일을 깨거나 선물 상자를 아래로 떨어뜨리는 등
+고유한 목표가 존재하며, 모든 목표를 제한된 이동 수 안에 달성해야
+선물을 제때 배달할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Create Festive Power-ups:** The best way to clear the board is by making special items from larger matches.
-    *   **[KO]** **Match 4:** Creates a special item that can clear an entire row or column.
-    *   **[KO]** **Match 5 (L or T shape):** Creates a wrapped candy bomb that explodes and clears a large area.
-    *   **[KO]** **Match 5 (in a line):** Creates a powerful color bomb that can clear all items of a single color from the board.
+1. **특수 아이템을 먼저 만들기**  
+    - **4개 매치**: 가로 또는 세로 한 줄을 날려 버리는 특수 아이템을
+     만듭니다.  
+    - **5개 매치(L/T자)**: 주변을 크게 폭발시키는 포장 폭탄처럼,
+     넓은 범위를 지우는 아이템이 생성됩니다.  
+    - **5개 일직선 매치**: 한 색깔을 보드 전체에서 없애는 컬러
+     폭탄 계열 아이템이 생성됩니다.
 
-2.  **[KO]** **Combine for Holiday Cheer:** Swap two special items with each other to unleash a massive, board-clearing effect. This is the key to solving the most challenging puzzles.
-3.  **[KO]** **Focus on the Goal:** Each level has a unique objective, such as clearing all the frozen ice tiles or dropping special gift boxes to the bottom. Always prioritize moves that help you achieve the specific goal before you run out of moves.
-4.  **[KO]** **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+2. **파워업끼리 조합해 대형 콤보 만들기**  
+   특수 아이템 두 개를 서로 교환하면, 훨씬 강력한 효과를 낼 수
+   있습니다. 예를 들어 줄삭제 + 폭탄 조합은 한 번에 보드의 큰
+   영역을 지워 어려운 스테이지를 단번에 풀어 줄 수 있습니다.
 
-### Controls Guide
+3. **스테이지 목표에 맞게 플레이하기**  
+   얼음 타일을 깨야 하는 스테이지라면, 해당 타일 위나 주변에서
+   매치를 만드는 것이 중요합니다. 선물 상자를 아래로 내려야 한다면,
+   그 아래쪽 블록을 지워 길을 열어 주세요.
 
-The game is played with simple swap mechanics.
+4. **보드 하단에서 매치해 연쇄 폭발 노리기**  
+   아래쪽에서 블록을 지우면 위에서 새로운 블록이 많이 떨어지며
+   연쇄 매치가 일어나기 쉽습니다. 운이 좋으면 별도의 이동 없이도
+   목표를 자동으로 달성할 수 있습니다.
 
-*   **[KO]** **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+### 조작 가이드
 
-### Frequently Asked Questions (FAQ)
+게임은 기본적인 스와프 방식으로 진행됩니다.
 
-*   **[KO]** **Q: How do I break the ice blocks?**
-    *   **[KO]** **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.
+- **조각 맞바꾸기**: 원하는 아이템을 클릭/터치한 뒤, 상하좌우 인접한
+  아이템과 교환합니다. 3개 이상 매치가 만들어지지 않으면 교환은
+  취소됩니다.
 
-*   **[KO]** **Q: What is the most powerful combo?**
-    *   **[KO]** **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What happens if I run out of moves?**
-    *   **[KO]** **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+- **Q: 얼음 블록은 어떻게 깨나요?**  
+  **A:** 얼음과 인접한 칸에서 매치를 만들거나, 폭탄·줄삭제 같은
+  파워업의 범위에 얼음을 포함시키면 서서히 깨집니다.
 
+    - **Q: 가장 강력한 콤보는 무엇인가요?**  
+  **A:** 컬러 폭탄 두 개를 서로 교환하면 보드 전체를 거의 싹
+  쓸어버리는 효과를 냅니다. 다만 만들기 어렵기 때문에, 평소에는
+  다른 파워업 조합도 적극 활용하세요.
+
+- **Q: 이동 수를 다 쓰면 어떻게 되나요?**  
+
+    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+
+- **Q: What happens if I run out of moves?**
+
+    - **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
+  **A:** 남은 이동 없이 목표를 달성하지 못하면 스테이지를 다시
+  시작해야 합니다. 목표와 상관없는 매치는 최대한 줄이는 것이
+  중요합니다.

@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: yohoho-io
-title: '[KO] YoHoHo.io'
+title: "YoHoHo.io 요호호.io"
 description: >-
-  [KO] Set sail for adventure in YoHoHo.io, a thrilling pirate-themed battle
-  royale game! Grow your pirate by collecting gold, eliminate smaller opponents,
-  and avoid the shrinking safe zone. Master your sword attacks and dash
-  abilities to become the most feared pirate on the high seas!
+  해적들이 마지막 한 명이 될 때까지 싸우는 해적 배틀로얄 .io 게임입니다. 섬 곳곳의 금화를 모아
+  몸집과 공격 범위를 키우고, 칼 공격과 대시를 활용해 다른 해적들을 쓰러뜨리며 안전 지대 안에서
+  끝까지 살아남으세요.
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/yohoho-io.jpg
 tags:
@@ -18,36 +17,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+YoHoHo.io는 해적을 테마로 한 빠른 템포의 배틀로얄 .io 게임으로, 수많은 플레이어가 한 섬 위에서
+마지막 생존자가 되기 위해 경쟁하는 게임입니다. 작은 해적으로 시작해 섬에 흩어진 금화를 모으고,
+다른 플레이어를 쓰러뜨리며 점점 더 크고 강력한 해적으로 성장해야 합니다.
 
-YoHoHo.io is a fast-paced, pirate-themed battle royale .io game where players compete to be the last pirate standing on a shrinking island. Starting as a small pirate, you must collect gold, grow in size and strength, and eliminate other players to dominate the leaderboard. The game combines simple controls with addictive, competitive gameplay.
+### 게임 플레이 가이드
 
-### Gameplay Guide
+- **금화 수집**: 섬 곳곳에 떨어져 있는 금화를 모으면 해적의 크기가 커지고, 공격 범위와 데미지도
+  함께 상승합니다.
+- **상대 제거**: 자신보다 작은 해적에게 접근해 칼을 휘둘러 쓰러뜨리면, 그들이 떨군 금화까지
+  한꺼번에 획득할 수 있습니다. 반대로 자신보다 훨씬 큰 해적은 피하면서 성장해야 합니다.
+- **좁아지는 안전 지대**: 시간에 따라 안전 지대가 점점 줄어들어 플레이어들이 가까운 거리에서
+  전투를 벌일 수밖에 없게 됩니다. 붉은 구역 밖에 오래 머무르면 지속 피해를 입으므로, 항상 안전
+  구역 안에 머무르도록 주의하세요.
+- **대시 능력 활용**: 대시는 짧은 거리와 순간 속도를 이용해 적에게 빠르게 접근하거나, 위험한 상황에서
+  탈출하는 데 사용할 수 있습니다. 쿨타임을 고려해, 필요한 순간에 아껴 사용하세요.
 
-- **Collect Gold:** Your primary objective is to collect gold scattered around the island. Gold increases your pirate's size, attack range, and damage.
-- **Eliminate Opponents:** Attack smaller pirates to defeat them and collect their dropped gold. Avoid larger pirates until you're strong enough.
-- **Shrinking Map:** The safe zone on the island continuously shrinks, forcing players closer together and increasing the intensity of battles. Stay within the safe zone to avoid taking damage.
-- **Dash Ability:** Use your dash ability strategically to quickly close distances, escape danger, or dodge attacks.
+### 조작 방법 안내
 
-### Controls Guide
+- **이동**: 키보드의 `WASD` 또는 방향키로 이동하거나, 마우스/터치 드래그로 해적을 움직입니다.
+- **공격**: 마우스 왼쪽 클릭 혹은 스페이스바, 터치에서는 탭으로 칼을 휘두릅니다.
+- **차지 공격**: 왼쪽 클릭이나 스페이스바를 길게 눌러 강한 공격을 충전한 뒤, 떼어 발동할 수 있습니다.
+- **대시**: 마우스 오른쪽 클릭 또는 모바일 전용 대시 버튼으로 짧은 거리를 순간적으로 이동합니다.
 
-- **Movement:** `WASD` or `Arrow Keys` (Keyboard) / Drag mouse or finger (Mouse/Touch)
-- **Attack:** `Left Click` or `Spacebar` (Keyboard) / Tap (Touch)
-- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
-- **Dash:** `Right Click` (Mouse) / Dedicated dash button (Mobile)
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Q. 어떻게 더 크고 강해질 수 있나요?**  
+A. 섬에 떨어진 금화를 지속적으로 줍고, 다른 해적을 쓰러뜨려 그들이 떨군 금화까지 회수하세요.
+몸집이 커질수록 공격 범위와 피해량이 함께 증가합니다.
 
-**How do I get bigger and stronger?**
+**Q. 안전 지대 밖으로 나가면 어떻게 되나요?**  
+A. 붉게 표시된 영역 바깥에 있으면 지속적인 피해를 입게 되며, 오래 버티지 못하면 그대로 탈락합니다.
+항상 안전 지대의 경계를 확인하며 이동하세요.
 
-By collecting gold. The more gold you collect, the larger your pirate becomes, which increases your attack range and damage output.
-
-**What happens if I go outside the safe zone?**
-
-If you go outside the safe zone (indicated by the red area), your pirate will start taking continuous damage, eventually leading to defeat.
-
-**Are there different pirate characters?**
-
-Yes, you can unlock different pirate characters, each with unique appearances and sometimes different starting stats or abilities, as you progress and earn more gold.
-
+**Q. 해적 캐릭터는 종류가 여러 가지인가요?**  
+A. 네, 플레이를 통해 더 많은 금화를 모으면 외형이 다른 다양한 해적 캐릭터를 해금할 수 있습니다.
+일부 버전에서는 시작 능력치나 스킨 효과가 조금씩 다른 캐릭터도 제공될 수 있습니다.

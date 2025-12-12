@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: g-switch-4
-title: '[DE] G-Switch 4'
+title: "G-Switch 4"
 description: >-
-  [DE] Latest gravity‑flip runner entry: refined controls, tricky obstacle
-  chains, and competitive local races for many players.
+  G-Switch 4 ist der bisher feinste Gravity-Flip-Runner: präzise One-Button-
+  Steuerung, dichte Fallenketten und kompetitive lokale Rennen für viele
+  Spieler.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/g-switch-4.jpg
@@ -15,29 +16,41 @@ score: 4.9/5  (1069 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Der vierte Teil verfeinert das Timing-Gefühl und bietet besonders dichte
+Hindernislayouts sowie robuste lokale Mehrspielermodi. Ein Knopfdruck im
+richtigen Moment entscheidet über Sieg oder Sturz.
 
+### So spielst du
 
+- Flippe kurz vor Kanten und Abgründen; halte dir bei Kettenfallen immer einen
+  zweiten Flip in Reserve.
+- In Rennen ist eine sichere, konstante Flip-Cadence oft besser als riskante
+  Spät-Flips.
 
-### Overview
-Tight one‑button timing with dense trap layouts and robust local multiplayer support.
+### Steuerung
 
-### How to Play
-- Flip before edges; buffer a second flip for back‑to‑back traps.
-- In races, keep a safe cadence instead of risky late flips.
+- Eine Taste/Ein Tap zum Schwerkraftwechsel, im Versus-Modus je eine Taste pro
+  Spieler.
 
-### Controls
-- Single key/tap to flip; one key per player in vs.
+### Tipps
 
-### Tips
-- Practice on slower sections to lock in your rhythm.
-- Use long ceilings/floors to reset timing after mistakes.
+- Übe auf langsameren Abschnitten, bis dein Rhythmus sitzt, und steigere dann
+  Tempo und Anspruch.
+- Nutze lange Decken oder Böden, um nach Fehlern dein Timing wieder
+  einzupendeln.
 
 ### FAQ
-- Q: What is new in this installment?
-A: Smoother control feel and denser obstacle patterns; strong local multiplayer modes.
-- Q: Does it support many local players?
-A: Yes, many hosts allow multiple participants with unique keys.
-- Q: Are there checkpoints?
-A: Level modes may include them; endless races typically do not.
 
+- **F: Was ist neu im Vergleich zu früheren Teilen?**  
+  **A:** Geschmeidigere Steuerung, noch dichtere Hindernismuster und sehr gut
+  ausgebaute lokale Mehrspielermodi.
+
+- **F: Unterstützt das Spiel viele lokale Spieler?**  
+  **A:** Ja, viele Hosts erlauben große Runden, in denen jede Person eine eigene
+  Taste nutzt.
+
+- **F: Gibt es Checkpoints?**  
+  **A:** Im Levelmodus können Checkpoints vorhanden sein, Endlosrennen haben
+  üblicherweise keine.

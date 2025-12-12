@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: crazy-balls
-title: '[ES] Crazy Balls'
+title: "Crazy Balls"
 description: >-
-  [ES] Crazy Balls is a physics arcade — bounce, bank, and blast through
-  obstacle mazes with controlled shots.
+  Crazy Balls es un arcade de físicas: haz rebotar la pelota, aprovecha las
+  bandas y limpia laberintos de obstáculos con disparos bien calculados.
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/crazy-balls.png
 tags:
@@ -15,36 +15,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Crazy Balls te reta a lanzar bolas a través de niveles llenos de obstáculos,
+  aprovechando rebotes, bumpers y elementos móviles. Los ángulos precisos y un
+  control fino de la potencia son lo que diferencia una limpieza perfecta de un
+  disparo caótico.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Crazy Balls challenges you to send balls through obstacle‑filled stages, leveraging ricochets, bumpers, and moving elements. Precision angles and controlled power separate clean clears from chaotic misses.
+1.  Utiliza las paredes laterales para doblar la trayectoria y entrar en
+    pasillos estrechos.
+2.  Apuesta por una potencia media para tener tiros consistentes; la potencia
+    máxima hace que todo sea más impredecible.
+3.  Espera medio segundo a que los obstáculos móviles generen huecos seguros
+    antes de disparar.
+4.  Aprende a ojo las distancias de rebote para planear rutas con varios
+    rebotes encadenados.
+5.  Si el tiro sale mal, reinicia rápido y conserva tiempo para los intentos
+    buenos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Use side walls to bend trajectories into tight corridors.
-2.  **[ES]** Favor medium power for consistency; max power increases chaos.
-3.  **[ES]** Wait a beat for moving obstacles to create openings.
-4.  **[ES]** Learn rebound distances to plan multi‑bank routes.
-5.  **[ES]** Reset quickly after bad lines to preserve time.
+- Arrastra para apuntar y ajustar la potencia; suelta para disparar.
+- Usa los botones de la interfaz para reiniciar el nivel cuando lo necesites.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to aim and set power; release to shoot.
-- Restart via UI when needed.
+- P: Mis disparos parecen aleatorios, ¿cómo los controlo mejor?
+  
+  R: Baja la potencia, simplifica los ángulos y memoriza unos pocos puntos de
+  rebote fiables en las paredes.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Hay potenciadores?
+  
+  R: Algunas versiones incluyen multiplicadores o cámara lenta; guárdalos para
+  las secciones más complicadas.
 
-- Q: Shots feel random — how to control?
-
-A: Lower power, use simpler angles, and learn consistent bank points on walls.
-
-- Q: Are there power‑ups?
-
-A: Some modes include multiplies or slow‑mo; save for tricky sections.
-
-- Q: Timed levels?
-
-A: If timed, prioritize safe progress over risky trick shots.
-
+- P: ¿Los niveles tienen tiempo?
+  
+  R: Si hay límite de tiempo, prioriza el progreso seguro frente a los tiros
+  espectaculares pero arriesgados.

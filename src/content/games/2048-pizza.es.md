@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: 2048-pizza
-title: '[ES] 2048 Pizza'
+title: "2048 Pizza puzle de porciones"
 description: >-
-  [ES] 2048 Pizza reimagines 2048 with toppings — slide tiles, merge matches,
-  and bake your way to bigger slices.
+  2048 Pizza reimagina el clásico 2048 con porciones de pizza. Desliza las
+  fichas, combina iguales y hornea cada vez porciones más grandes mientras evitas
+  que el tablero se llene.
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
 thumbnail: /new-images/2048-pizza.png
 tags:
@@ -15,29 +16,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+2048 Pizza mantiene la fórmula clásica de deslizar y fusionar, pero con un
+vestido mucho más apetitoso. Deslizas las fichas en cuatro direcciones para que
+los valores iguales choquen y se combinen, mientras planificas cadenas y evitas
+que el tablero se quede sin huecos.
 
+### Estrategia de juego y recorrido
 
-### Detailed Game Introduction
+1.  **Usa una esquina como ancla:** Elige una esquina del tablero y procura que
+    allí se quede tu ficha más alta.
+2.  **Muévete sobre todo en dos direcciones:** Limita tus movimientos
+    principalmente a dos direcciones para no romper el orden de las fichas.
+3.  **Alimenta el lado del ancla:** Empuja las fichas pequeñas hacia el lado de
+    la esquina fuerte para preparar futuras fusiones.
+4.  **No persigas fusiones aleatorias:** Evita combinaciones aisladas que rompan
+    tu estructura y dejen números sueltos difíciles de aprovechar.
+5.  **Cuando estés atrapado, libera espacio:** En lugar de forzar una gran
+    fusión, prioriza limpiar filas o columnas para recuperar movilidad.
 
-2048 Pizza keeps the classic slide‑and‑merge formula but with tasty visuals. Slide tiles in four directions so identical values collide and combine, planning chains while keeping the board from filling.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- **Deslizar:** Usa las teclas de flecha o gestos de deslizamiento para mover
+  todas las fichas del tablero.
+- **Deshacer (si está disponible):** Algunas versiones ofrecen deshacer limitado
+  para corregir errores puntuales.
 
-1.  **[ES]** Keep a corner anchor for the highest tile.
-2.  **[ES]** Move in two directions primarily to avoid breaking order.
-3.  **[ES]** Feed toward the anchor side to set up merges.
-4.  **[ES]** Don’t chase random merges that break structure.
-5.  **[ES]** When stuck, clear space instead of forcing high merges.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **El tablero se llena muy rápido, ¿por qué?**  
+  Probablemente estés moviéndote en todas las direcciones. Intenta ceñirte a un
+  plan de dos direcciones para mantener la estructura.
 
-- Slide: Arrow keys/Swipes.
-- Undo (if available) to rescue missteps.
+- **¿Cuál es la condición de victoria?**  
+  Alcanzar la ficha objetivo (por ejemplo, 2048) o simplemente superar tus
+  mejores puntuaciones.
 
-### Frequently Asked Questions (FAQ)
-
-- Board clogs fast—why? You’re moving in all directions; stick to a two‑direction plan.
-- Win condition? Reach the target tile (e.g., 2048) or chase high scores.
-- Random spawns? Typically 2s and 4s with weighted chances.
-
+- **¿Los generadores son aleatorios?**  
+  Por lo general aparecen 2 y 4, con probabilidades ponderadas a favor del 2.

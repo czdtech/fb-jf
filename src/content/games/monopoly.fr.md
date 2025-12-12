@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: monopoly
-title: '[FR] MONOPOLY'
+title: MONOPOLY
 description: >-
-  [FR] Monopoly is a classic real estate board game where players buy, rent, or
-  sell properties with the goal of bankrupting their opponents and becoming the
-  wealthiest player.
+  Monopoly est un jeu de plateau immobilier classique où les joueurs achètent,
+  louent et vendent des propriétés pour ruiner leurs adversaires et devenir le
+  plus riche.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/monopoly.jpg
 tags:
@@ -13,39 +13,46 @@ tags:
   - strategy
   - economic
 score: 3.7/5  (1329 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+Monopoly est un grand classique des jeux de société, centré sur l’achat et la gestion de propriétés. Les joueurs lancent les dés pour se déplacer sur le plateau, acquièrent des rues, encaissent des loyers et négocient des échanges. Le but est de mener les autres joueurs à la faillite et de devenir le magnat immobilier ultime. Le jeu mélange stratégie, négociation et une bonne dose de chance.
+
+### Stratégies de jeu
+
+1.  **Acheter des propriétés :** quand tu arrives sur une case libre, acheter la propriété te permet d’en percevoir le loyer par la suite.
+2.  **Former des monopoles :** posséder tout un groupe de couleur est essentiel, car cela t’autorise à construire des maisons puis des hôtels pour augmenter fortement le loyer.
+3.  **Construire intelligemment :** ne construis pas partout d’un coup ; concentre tes investissements sur les groupes les plus rentables et proches des cases très fréquentées (comme la prison ou la case départ).
+4.  **Négocier :** échange des rues, des gares ou des compagnies avec les autres joueurs pour compléter tes séries de couleur ou casser les leurs. Une bonne négociation vaut parfois mieux qu’un bon jet de dés.
+5.  **Gérer ta trésorerie :** garde toujours assez de liquidités pour payer loyers, taxes et cartes « Chance » inattendues, sous peine de devoir hypothéquer ou vendre dans l’urgence.
+
+### Comment jouer
+
+- **Lancer les dés :** pendant ton tour, clique sur les dés pour les lancer, puis déplace ton pion du nombre de cases indiqué.  
+- **Acheter / construire :** si tu tombes sur une propriété non vendue, une option d’achat s’affiche. Une fois un groupe de couleur complet acquis, clique sur tes propriétés pour y construire maisons et hôtels.  
+- **Négocier :** utilise le menu d’échange pour proposer des trades (propriétés, argent, cartes) aux autres joueurs.
+
+
+- **Pay**: When landing on a space that requires rent or tax payment, you will be prompted to pay automatically.
+### Foire aux questions (FAQ)
+
+1.  **Q : Comment gagne‑t‑on une partie de Monopoly ?**  
+   **R :** En restant le dernier joueur solvable, après que tous les autres ont fait faillite.
+
+2.  **Q : Les cartes Chance et Caisse de communauté sont‑elles obligatoires ?**  
+   **R :** Oui, elles font partie de l’équilibre du jeu, apportant bonus et malus aléatoires qui pimentent les parties.
+
+3.  **Q : Les règles changent‑elles selon les versions ?**  
+   **R :** De nombreuses variantes existent (enchères, règles avancées, variantes maison). Vérifie les règles affichées par la version en ligne avant de commencer.
 
 
 
+**A**: Special squares include "Chance," "Community Chest," "Go to Jail," and "Free Parking," which trigger various events and rules.
 
-### Game Introduction
+- **Q: What are the special squares on the board?**
 
-"Monopoly" is a classic real estate board game where players roll dice to move around the game board, buying, renting, and selling properties. The goal is to bankrupt other players and ultimately become the wealthiest tycoon. The game combines elements of strategy, negotiation, and luck, and is loved by players worldwide.
 
-### Gameplay Strategy
-
-1.  **[FR]** **Buy Properties**: When you land on an unowned property, you can choose to buy it, making it your asset.
-2.  **[FR]** **Build Houses and Hotels**: After acquiring all properties of the same color group, you can build houses and hotels on them to increase rental income.
-3.  **[FR]** **Collect Rent**: When other players land on your property, they must pay you rent. Properties with houses and hotels yield higher rents.
-4.  **[FR]** **Trade and Negotiate**: Engage in property or card trades with other players, negotiating to acquire a more advantageous asset portfolio.
-5.  **[FR]** **Manage Finances**: Plan your finances wisely to ensure you have enough cash flow to cover rents, taxes, and unforeseen events.
-
-### How to Play
-
-*   **[FR]** **Roll Dice**: Click the dice during your turn to roll them, determining how many spaces your token moves.
-*   **[FR]** **Buy/Build**: When your token lands on a purchasable property, a buying option will appear. Once you own a complete color group, you can click on properties to build.
-*   **[FR]** **Trade**: Initiate trades with other players, selecting properties or cards you wish to exchange.
-*   **[FR]** **Pay**: When landing on a space that requires rent or tax payment, you will be prompted to pay automatically.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: What is the ideal number of players for Monopoly?**
-**A**: Traditional Monopoly usually suits 2 to 8 players, but the best experience is often with 3 to 6 players.
-2.  **[FR]** **Q: What is the objective of the game?**
-**A**: The main objective is to bankrupt all other players by buying, developing, and managing properties, thereby becoming the sole winner.
-3.  **[FR]** **Q: What happens if I go bankrupt?**
-**A**: Once you are unable to pay your debts (including rent, taxes, or bank loans), you go bankrupt and are out of the game.
-4.  **[FR]** **Q: What are the special squares on the board?**
 **A**: Special squares include "Chance," "Community Chest," "Go to Jail," and "Free Parking," which trigger various events and rules.

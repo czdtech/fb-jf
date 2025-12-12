@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: solitaire-0-21
-title: '[DE] Solitaire 0-21'
-description: >-
-  [DE] Solitaire 0-21 twists solitaire with math — place cards so row sums stay
-  between 0 and 21, balancing risk and reward.
+title: "Solitaire 0-21"
+description: "Solitaire 0-21 verbindet klassisches Solitaire mit Mathe: Lege Karten so, dass die Summen in den Reihen immer zwischen 0 und 21 bleiben – und balanciere dabei Risiko und Sicherheit."
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/solitaire-0-21.png
 tags:
@@ -15,36 +13,32 @@ score: 4.0/5  (1885 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Solitaire 0-21 kombiniert das Layout eines Solitaire-Spiels mit strengen Zahlenlimits. Du legst Zahlenkarten in Reihen, wobei die laufenden Summen immer im Bereich von 0 bis 21 bleiben müssen. Modifikatoren wie Plus-, Minus- oder Multiplikationskarten und spezielle Effekte machen die Planung knifflig. Gute Züge schaffen sichere Zwischenschritte und lassen zugleich Platz für spätere, größere Sprünge.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Puffer lassen:** Spiele deine Reihen nicht direkt an die Grenzen 0 oder 21 heran. Ein bisschen Spielraum verhindert, dass du dich früh blockierst.
+2.  **Modifikatoren richtig timen:** Nutze Multiplikatoren und starke Effekte nur, wenn die aktuelle Summe sie sicher verkraftet.
+3.  **Reihen planen:** Verteile riskante Karten auf mehrere Reihen, statt alle Volatilität in eine Reihe zu packen.
+4.  **Hohe Karten zurückhalten:** Behalte hohe Werte zunächst auf der Hand beziehungsweise im Vorrat, bis du genug negative Karten hast, um sie auszugleichen.
+5.  **Rückgängig-Funktion klug nutzen:** Wenn du merkst, dass eine Reihe „zugenagelt“ ist, nutze sofort Rückgängig, statt den Fehler mitzuschleppen.
 
-Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place number cards to keep running totals within [0, 21]; modifiers (+/‑/×) and special effects complicate planning. Optimal play sequences safe placements while reserving room for spikes.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Klicke oder ziehe Karten auf die gewünschte Reihe und nutze bei Bedarf die Undo- oder Hinweis-Funktionen im Interface.
 
-1.  **[DE]** Buffer space: Leave headroom near 21; don’t push totals to edges early.
-2.  **[DE]** Modifier timing: Spend multipliers only when totals allow safe absorption.
-3.  **[DE]** Row planning: Spread risk across rows; don’t stack volatility in one line.
-4.  **[DE]** Hold highs: Park high cards until you can offset with negatives.
-5.  **[DE]** Undo discipline: Undo immediately after noticing a boxed‑in row.
+### Häufig gestellte Fragen (FAQ)
 
-### Controls Guide
+- **F: Meine Reihen gehen ständig über 21 oder unter 0.**
+  
+  **A:** Du spielst zu nah an den Grenzen. Lass immer etwas Luft und setze Modifikatoren überlegt ein, statt sie sofort zu verschwenden.
 
-- Click/drag to place cards; use undo/hints per UI.
+- **F: Wie nutze ich Negativkarten am besten?**
+  
+  **A:** Kombiniere sie mit hohen Karten in derselben Reihe, um wieder mehr Spielraum nach oben zu bekommen.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Totals keep busting.
-
-A: You’re playing too close to 0/21 edges; leave cushion and pace modifiers.
-
-- Q: Best way to use negatives?
-
-A: Pair with highs to reset headroom on the same row.
-
-- Q: Is luck dominant?
-
-A: Draws matter, but placement strategy heavily impacts outcomes.
-
+- **F: Ist das Spiel hauptsächlich glücksabhängig?**
+  
+  **A:** Die Ziehung der Karten enthält Zufall, aber deine Platzierungsstrategie hat großen Einfluss darauf, wie oft du ein Level schaffst.

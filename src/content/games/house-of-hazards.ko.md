@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: house-of-hazards
-title: '[KO] House Of Hazards'
+title: "House Of Hazards 함정 하우스 파티"
 description: >-
-  [KO] Local party chaos: complete simple chores in a booby‑trapped house while
-  friends trigger hazards to knock you out.
+  집 안 곳곳에 숨겨진 함정을 서로 작동시키며 즐기는 로컬 파티 게임입니다.
+  한쪽은 커피 만들기, 식물 물 주기 같은 일상 미션을 수행하고, 다른 쪽은
+  토스터·조명·바닥 트랩을 켜서 친구들을 날려 버리세요.
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/house-of-hazards.jpg
 tags:
@@ -18,27 +19,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-House of Hazards is a couch‑multiplayer party game set in a trap‑filled home. Players race to finish everyday tasks—make coffee, water plants, head out the door—while opponents sabotage them by firing toasters, swinging lamps, or activating floor traps. Quick rounds, unpredictable physics, and map‑specific gags keep matches lively.
+### 게임 개요
 
-### How to Play
-- In task mode, finish your checklist first; in sabotage mode, time traps for maximum chaos.
-- Learn trigger points for each room to catch runners at chokepoints.
-- Coordinate with partners in team variants to chain hazards.
+`House of Hazards`는 함정으로 가득 찬 집을 무대로 펼쳐지는 소파 코옵 파티
+게임입니다. 플레이어들은 “커피 만들기, 화분에 물 주기, 집 밖으로 나가기” 같은
+평범한 집안일을 먼저 끝내기 위해 달리지만, 다른 플레이어들은 토스터를 쏘고
+천장 조명을 휘두르고 바닥 트랩을 작동시켜 이를 방해합니다. 짧은 라운드와
+예측 불가능한 물리 엔진, 맵마다 숨겨진 개그 요소 덕분에 매 판이 혼돈으로
+가득합니다.
 
-### Controls
-- Simple move/jump/action keys; multiple local players with separate binds.
+### 플레이 방법
 
-### Tips
-- Don’t tunnel‑vision the next task—watch for glows indicating armed traps.
-- Jump before moving hazards to maintain momentum after hits.
-- As saboteur, bait movement then trigger late to catch jump arcs.
+- **작업 모드**에서는 자신의 체크리스트에 적힌 집안 일을 누구보다 먼저
+  완료하는 것이 목표입니다.  
+- **방해 모드**에서는 함정 스위치를 정확한 타이밍에 눌러, 다른 플레이어가
+  좁은 통로나 출구를 지날 때 최대한 방해하세요.  
+- 팀 변형 모드에서는 팀원과 역할을 나눠, 한쪽이 유인하고 다른 쪽이 함정을
+  연달아 작동시키는 콤보 플레이도 가능합니다.
 
-### FAQ
-- Q: How do I win consistently against multiple opponents?
-A: Plan a task route with minimal room crossings and avoid known ambush spots.
-- Q: Can we customize rules or teams in this game?
-A: Many hosts allow team play and house rule tweaks.
-- Q: Is there a single‑player mode available?
-A: Some hosts include bot races or challenge runs, but the game shines in local multiplayer.
+### 조작 방법
 
+- 이동/점프/행동 키는 단순하며, 로컬 멀티플레이를 위해 플레이어마다 다른
+  키가 할당됩니다(호스트마다 다름).
+
+### 플레이 팁
+
+- 다음 작업만 쳐다보며 달리지 말고, 주변에 반짝이는 트랩 표시가 있는지
+  항상 살피세요.
+- 움직이는 장애물 앞에서는 미리 점프해, 맞더라도 모멘텀을 유지하며
+  앞으로 굴러갈 수 있도록 하는 것이 좋습니다.
+- 함정을 작동하는 입장이라면, 상대의 점프 타이밍을 유도한 뒤 살짝 늦게
+  트랩을 눌러 정점에서 맞추는 식의 심리전을 시도해 보세요.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 여러 명을 상대할 때 꾸준히 이기려면 어떻게 해야 하나요?  
+  A: 방을 최소한만 횡단하는 최단 작업 루트를 미리 정해 두고, 항상
+  매복 포인트(문, 좁은 복도)를 피하는 동선을 선택하세요.
+
+- Q: 팀전이나 규칙 커스터마이즈가 가능한가요?  
+  A: 많은 호스트에서 팀 플레이 옵션과 간단한 룰 변경(라운드 수, 함정
+  설정 등)을 지원합니다.
+
+- Q: 싱글 플레이 모드도 있나요?  
+  A: 일부 버전에는 봇과 레이스를 하거나 도전 과제를 수행하는 싱글 모드가
+  있지만, 이 게임의 진가는 역시 한 화면에서 친구들과 즐기는 로컬 멀티에
+  있습니다.

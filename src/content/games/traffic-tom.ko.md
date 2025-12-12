@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: traffic-tom
-title: '[KO] Traffic Tom'
+title: Traffic Tom 트래픽 톰
 description: >-
-  [KO] Join Tom on a thrilling motorbike adventure! Weave through heavy traffic,
-  dodge cars, complete missions, and upgrade your bike to become the king of the
-  road.
+  고양이 라이더 톰과 함께 고속도로를 질주하는 오토바이 게임입니다. 빽빽한 차량 사이를 요리조리 피해 다니며 미션을 수행하고, 코인으로
+  바이크를 업그레이드해 도로의 제왕이 되어 보세요.
 iframeSrc: >-
   https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
 thumbnail: /new-images/traffic-tom.jpg
@@ -18,32 +17,45 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Traffic Tom은 분주한 고속도로 한가운데를 달리는 3인칭 오토바이 레이싱 게임입니다. 모험심 강한
+고양이 라이더 톰을 조종해, 빽빽한 차량 사이를 비집고 달리며 각종 미션을 완료하고 코인을 모으는 것이
+목표입니다. 모은 코인으로 현재 바이크를 업그레이드하거나, 더 빠르고 다루기 쉬운 새 바이크를 구입해
+점점 더 어려워지는 도로 환경을 공략할 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Traffic Tom is a fast-paced, third-person motorbike racing game that puts you in the middle of a bustling highway. As the adventurous cat, Tom, your goal is to skillfully weave through dense traffic, dodge cars and buses, and complete challenging missions to earn coins. Use your earnings to upgrade your current bike or save up to buy new, more powerful motorcycles on your quest to become the king of the road.
+1.  **멀리 보고 달리기**: 바로 앞 차만 보지 말고, 가능한 한 멀리 도로 상황을 보면서 달리세요.
+    앞쪽에서 차선이 막히는 구간이나 느린 차량이 모여 있는 곳을 미리 보면, 여유 있게 차선을
+    변경해 위험한 상황을 피할 수 있습니다.
+2.  **미션 목표에 집중하기**: 단순히 오래 버티는 것만이 아니라, 특정 거리 주행, 차량 몇 대 추월,
+    아이템 수집 등 스테이지마다 별도의 목표가 주어지는 경우가 많습니다. 목표를 정확히 파악하고,
+    그에 맞는 라인 선택과 속도 조절을 하는 것이 중요합니다.
+3.  **위험한 근접 추월은 보너스를 노릴 때만**: 많은 운전 게임처럼 차량과의 간격을 아주 좁게 두고
+    추월하면 추가 점수나 니트로 게이지를 얻을 수 있습니다. 하지만 실수 시 바로 충돌하므로,
+    직선 도로에서 시야가 충분히 확보된 구간에서만 시도하는 것이 좋습니다.
+4.  **업그레이드는 균형 있게**: 속도만 올리면 컨트롤이 어려워지고, 핸들링만 올리면 최고 속도가
+    답답하게 느껴질 수 있습니다. 스테이지 난이도에 맞춰 속도, 핸들링, 브레이크 등을 고르게
+    강화해 주면 전반적인 생존력이 올라갑니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Look Ahead:** The key to survival is anticipation. Don't just look at the car directly in front of you; scan far down the road to see traffic patterns forming. This will give you plenty of time to switch lanes safely.
-2.  **[KO]** **Focus on Missions:** While surviving is important, completing the missions for each level is how you progress. Pay attention to whether your goal is to overtake a certain number of cars, travel a specific distance, or collect items.
-3.  **[KO]** **Close Calls for More Points:** Many driving games reward you for near misses. Safely overtaking a car very closely might give you bonus points or charge up a nitro boost.
-4.  **[KO]** **Upgrade Your Ride:** Don't hesitate to spend your coins in the garage. Upgrading your bike's speed, handling, and braking will make it much easier to navigate the increasingly heavy traffic in later levels.
+*   **좌우 조향**: **A** 키 또는 **←** 키로 좌측, **D** 키 또는 **→** 키로 우측 차선으로
 
-### Controls Guide
+- **Steer Right:** Press the **D** key or the **Right Arrow** key.
+    이동합니다.
 
-*   **[KO]** **Steer Left:** Press the **A** key or the **Left Arrow** key.
-*   **[KO]** **Steer Right:** Press the **D** key or the **Right Arrow** key.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 다른 차량과 부딪히면 어떻게 되나요?**  
+    *   **A:** 차량이나 장애물에 정면으로 충돌하면 그 라운드가 즉시 종료되고, 해당 레벨을 처음부터
+        다시 시작해야 합니다.
 
-*   **[KO]** **Q: What happens if I crash into another vehicle?**
-    *   **[KO]** **A:** Your run will end, and you will have to restart the level from the beginning.
+*   **Q: 새 오토바이는 어떻게 얻을 수 있나요?**  
+    *   **A:** 주행 중에 모은 코인과 미션 보상으로 얻은 코인을 사용해 차고(garage)에서 새 바이크를
+        구매할 수 있습니다. 더 좋은 바이크일수록 최고 속도와 조작성에서 큰 차이를 보입니다.
 
-*   **[KO]** **Q: How do I get a new motorcycle?**
-    *   **[KO]** **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
-
-*   **[KO]** **Q: Is there a way to go faster?**
-    *   **[KO]** **A:** Besides upgrading your bike's top speed, some levels may feature boost pads on the road that give you a temporary burst of speed when you drive over them.
-
+*   **Q: 더 빠르게 달릴 수 있는 방법이 있나요?**  
+    *   **A:** 바이크의 최고 속도 업그레이드 외에도, 일부 스테이지에는 밟으면 일시적으로 속도가
+        상승하는 부스터 패드가 깔려 있습니다. 도로 위의 특수 표시를 잘 살펴보며 주행해 보세요.

@@ -1,89 +1,46 @@
 ---
+title: "Garden Bloom"
+description: "Garden Bloomで美しい庭を復元しましょう！やりがいのあるマッチ3パズルを解き、星を獲得し、素敵な装飾を選んで夢の庭をデザインしましょう。"
+iframeSrc: "https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/"
+thumbnail: "/new-images/garden-bloom.png"
+urlstr: "garden-bloom"
+score: "4.6/5  (2780 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: garden-bloom
-title: '[JA TRANSLATION NEEDED] Garden Bloom'
-description: >-
-  [JA TRANSLATION NEEDED] Restore a beautiful garden in Garden Bloom! Solve
-  challenging match-3 puzzles, earn stars, and choose from lovely decorations to
-  design the garden of your dreams.
-iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
-thumbnail: /new-images/garden-bloom.png
-tags:
-  - puzzle
-  - casual
-score: 4.6/5  (2780 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Garden Bloomは、クラシックなマッチ3パズルと庭のデザイン・修復を見事に融合させた、リラックスできるクリエイティブなゲームです。プレイヤーは荒れ果てた庭をかつての栄光に戻す任務を負います。ゲームの核心はマッチ3レベルをクリアすることで、色とりどりの花や庭の要素を入れ替えて特定の目標を達成します。レベルをクリアすると報酬として星がもらえ、掃除、花の植え付け、美しい装飾の配置など、庭でのタスクを実行するための通貨として機能します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Garden Bloom is a relaxing and creative game that beautifully blends classic match-3 puzzles with garden design and restoration. Players are tasked with transforming a neglected garden back to its former glory. The core of the game involves completing match-3 levels, where you swap colorful flowers and other garden elements to achieve specific goals. Successfully beating a level rewards you with stars, which act as the currency to perform tasks in the garden, such as cleaning up, planting flowers, and placing beautiful decorations.
-- **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.（日本語訳が必要）
+1.  **2つのパートからなるゲームプレイ:**
+    *   **マッチ3パズル:** ここで星を獲得します。各レベルには独自の目標（例：赤い花を30個集める、土のパッチをすべて消す）があり、限られた手数内で完了する必要があります。
+    *   **庭の修復:** 獲得した星を使って、To-Doリストのタスクを完了します。これにはデザインの選択や、庭の新しいエリアの段階的なアンロックが含まれます。
 
-### Gameplay Strategy & Walkthrough
-- **Q: How do I earn stars?**（日本語訳が必要）
-    - As you complete tasks, you will often be given a choice between three different styles for a decoration (e.g., three different types of benches). Choose the one that best fits your vision for the garden!（日本語訳が必要）
-3.  **Garden Design:**（日本語訳が必要）
-### コントロール Guide
+2.  **マッチ3戦略:**
+    *   **目標に集中:** 適当にマッチさせるだけではいけません。常にレベルの目標達成に直接役立つマッチを優先しましょう。
+    *   **パワーアップを作る:** 4つ以上のアイテムをマッチさせると、強力なブースターが生成されます。4つ並べると一列を消すハチができ、L字型にマッチさせると爆弾ができます。これらのブースターを組み合わせると、さらに大きな盤面消去効果が得られます。
+    *   **動きを計画する:** 1手か2手先を読みましょう。連鎖（カスケード）や特別な宝石の組み合わせを作るチャンスを探してください。手数は限られているため、すべての入れ替えが重要です。
 
-[JA TRANSLATION NEEDED] 1.  **The Two-Part Gameplay:**
-- **Q: What happens if I run out of moves in a puzzle?**（日本語訳が必要）
-[JA TRANSLATION NEEDED]     *   **Match-3 Puzzles:** This is where you earn your stars. Each level has a unique objective (e.g., collect 30 red flowers, clear all the dirt patches) that must be completed in a limited number of moves.
-- **Q: Can I change the decorations I've chosen for the garden?**（日本語訳が必要）
-[JA TRANSLATION NEEDED]     *   **Garden Restoration:** Use the stars you've earned to complete tasks from your to-do list. This involves making design choices and progressively unlocking new areas of the garden.
+3.  **庭のデザイン:**
+    *   タスクを完了すると、装飾について3つの異なるスタイル（例：3種類のベンチ）から選択できることがよくあります。あなたの庭のビジョンに最も合うものを選びましょう！
 
-[JA TRANSLATION NEEDED] 2.  **Match-3 Strategy:**
-[JA TRANSLATION NEEDED]     *   **Focus on the Objective:** Don't just make random matches. Always prioritize matches that directly help you achieve the level's goal.
-[JA TRANSLATION NEEDED]     *   **Create Power-ups:** Matching more than three items creates powerful boosters. A 4-in-a-row match might create a bee that clears a line, while an L-shape match could create a bomb. Combining these boosters leads to even bigger board-clearing effects.
-[JA TRANSLATION NEEDED]     *   **Plan Your Moves:** Think a step or two ahead. Look for opportunities to set up cascades or special gem combinations. Since moves are limited, every swap counts.
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 3.  **Garden Design:**
-[JA TRANSLATION NEEDED]     *   As you complete tasks, you will often be given a choice between three different styles for a decoration (e.g., three different types of benches). Choose the one that best fits your vision for the garden!
+*   **パズル内:** マウスまたは指を使って、隣り合う2つのアイテム（花や葉など）を入れ替えます。アイテムをクリックして次のアイテムにドラッグするか、1つずつクリックします。
+*   **庭にて:** タスクリスト（通常は左下）をクリックして、何をすべきか確認します。タスクをクリックして星を使い、完了させます。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.
-- **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
-    - **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.（日本語訳が必要）
-    - **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.（日本語訳が必要）
-*   **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.
+*   **Q: どうやって星を獲得しますか？**
+    *   **A:** 星はマッチ3パズルのレベルをクリアすることでのみ獲得できます。通常、レベルをクリアするごとに1つの星がもらえます。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: パズルで手数がなくなったらどうなりますか？**
+    *   **A:** 手数制限内に目標を達成できないと、ライフを失います。時間が経ってライフが回復するのを待つか、ゲーム内コインを使って追加の手数やライフの補充を行うことができます。
 
-*   **Q: How do I earn stars?**
-    - **A:** You can only earn stars by successfully completing the match-3 puzzle levels. Each level you beat will typically award you one star.（日本語訳が必要）
-    - **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.（日本語訳が必要）
-    - **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.（日本語訳が必要）
-[JA TRANSLATION NEEDED]     *   **A:** You can only earn stars by successfully completing the match-3 puzzle levels. Each level you beat will typically award you one star.
-
-*   **Q: What happens if I run out of moves in a puzzle?**
-[JA TRANSLATION NEEDED]     *   **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
-
-*   **Q: Can I change the decorations I've chosen for the garden?**
-[JA TRANSLATION NEEDED]     *   **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
-
-
-    - **Match-3 Puzzles:** This is where you earn your stars. Each level has a unique objective (e.g., collect 30 red flowers, clear all the dirt patches) that must be completed in a limited number of moves.（日本語訳が必要）
-
-
-
-
-
-- **Q: How do I earn stars?**
-### よくある質問（FAQ）
-- **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.
-- **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.
-### コントロールガイド
-    - **Garden Restoration:** Use the stars you've earned to complete tasks from your to-do list. This involves making design choices and progressively unlocking new areas of the garden.（日本語訳が必要）
-
-- **Q: What happens if I run out of moves in a puzzle?**
-    - **Focus on the Objective:** Don't just make random matches. Always prioritize matches that directly help you achieve the level's goal.（日本語訳が必要）
-
-- **Q: Can I change the decorations I've chosen for the garden?**
-    - **Create パワー-ups:** Matching more than three items creates powerful boosters. A 4-in-a-row match might create a bee that clears a line, while an L-shape match could create a bomb. Combining these boosters leads to even bigger board-clearing effects.
-
-- **Q: Can I change the decorations I've chosen for the garden?**
-    - **Plan Your 移動するs:** Think a step or two ahead. Look for opportunities to set up cascades or special gem combinations. Since moves are limited, every swap counts.
+*   **Q: 一度選んだ庭の装飾を変更できますか？**
+    *   **A:** このジャンルのほとんどのゲームでは、一度デザインを選択すると永続的です。変更するには、通常、配置されたオブジェクトを長押ししてコインを支払う必要があります。

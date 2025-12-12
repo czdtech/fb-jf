@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: krishna-jump
-title: '[FR] Krishna Jump'
-description: >-
-  [FR] Krishna Jump is a rhythmic vertical runner — chain precise jumps, dodge
-  hazards, and collect idols across colorful stages.
-iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
+title: "Krishna Jump"
+description: "Krishna Jump est un runner vertical rythmique : enchaîne des sauts précis, évite les pièges et collecte des idoles à travers des niveaux colorés."
+iframeSrc: "https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/"
 thumbnail: /new-images/krishna-jump.png
 tags:
   - action
@@ -15,35 +13,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation détaillée
 
+Krishna Jump est un runner vertical à un seul bouton. Tu dois synchroniser tes sauts pour passer d’une plateforme à l’autre, éviter piques et ennemis mobiles, et récupérer des objets pour obtenir des bonus. Les niveaux avancés introduisent des plateformes qui disparaissent et des vitesses variables, ce qui exige un bon rythme et une lecture rapide de l’écran.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Krishna Jump is a one‑button vertical runner. Time jumps to leap between platforms, avoid spikes and moving enemies, and snag collectibles for bonuses. Later levels add disappearing tiles and shifting speeds that demand steady rhythm and quick reads.
+1.  **Compter le tempo** : adopte un rythme de tapotement régulier pour stabiliser ton timing de saut.  
+2.  **Viser le centre** : vise le milieu des plateformes pour conserver une marge de correction.  
+3.  **Lire en avance** : garde toujours un œil sur 2–3 plateformes au‑dessus pour anticiper tes arcs.  
+4.  **Laisse tomber les pièces risquées** : n’essaie pas de récupérer les collectibles mal alignés si cela met ta run en danger.  
+5.  **Retrouver la cadence** : après un échec, respire un coup et reprends ton rythme avant de chercher de longues séries.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Count beats: Tap on a steady cadence to normalize jump timing.
-2.  **[FR]** Aim centers: Land mid‑platform to allow corrections.
-3.  **[FR]** Read ahead: Watch 2–3 platforms up to plan safe arcs.
-4.  **[FR]** Skip greed: Abandon risky side coins when alignment is poor.
-5.  **[FR]** Recover cadence: After a miss, take a breath and re‑establish rhythm.
+- Tap/clic pour sauter ; dans certains builds, un appui prolongé augmente la hauteur ; pause via l’interface.
 
-### Controls Guide
+### FAQ
 
-- Tap/Click to jump; hold may increase height depending on build; pause via UI.
+- **Q : Je dépasse toujours les plateformes, que faire ?**  
+  R : Utilise des tapotements plus courts et vise le centre ; évite les appuis prolongés sauf nécessité.
 
-### Frequently Asked Questions (FAQ)
+- **Q : Y a‑t‑il un double saut ?**  
+  R : Certains niveaux offrent temporairement un double saut ou des bonus équivalents, signalés par le HUD.
 
-- Q: I overshoot platforms — fix?
-
-A: Short‑tap and target center landings; avoid full‑hold unless needed.
-
-- Q: Are double jumps available?
-
-A: Some stages grant temporary double jump; watch HUD prompts.
-
-- Q: Endless or level‑based?
-
-A: Modes vary; many campaigns use short, hand‑crafted levels.
+- **Q : Le jeu est‑il infini ou à niveaux ?**  
+  R : Selon le mode, tu peux jouer en campagne avec niveaux courts ou en mode infini pour le score.
 

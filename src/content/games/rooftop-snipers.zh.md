@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: rooftop-snipers
-title: '[ZH TRANSLATION NEEDED] Rooftop Snipers'
+title: "《Rooftop Snipers》天台布偶狙击战"
 description: >-
-  [ZH TRANSLATION NEEDED] Rooftop Snipers is the original physics-based shooting
-  game where two pixel characters fight on rooftops, using simple controls to
-  shoot and knock opponents off buildings with hilarious ragdoll physics.
+  《Rooftop Snipers》是系列初代作品，两名像素小人站在楼顶上，用极其简单的操作互相射击、把对方掀下楼。夸张的 ragdoll 布偶物理和“看似简单其实很坑”的操作，让对战既好笑又有难度。
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/rooftop-snipers.jpg
 tags:
@@ -17,32 +15,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Rooftop Snipers》是本系列最早的布偶物理对战射击游戏。两名像素风角色站在高楼天台上，通过简单的移动、跳跃和射击操作，把对手从楼顶打落下去。游戏以滑稽的布偶动作、不可预期的反冲效果和“操作越紧张越容易翻车”的特性著称，也为后续续作打下了玩法基础。
 
-[ZH TRANSLATION NEEDED] "Rooftop Snipers" is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings. The game is famous for its hilarious ragdoll physics effects and simple yet challenging gameplay, laying the foundation for subsequent series games.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **先练好基础操作：** 熟悉移动、跳跃与射击的组合键位，学会在保持平衡的前提下完成连贯动作，是稳定发挥的前提。
+2.  **预判对手走位瞄准：** 射击时尽量提前一点瞄准对方可能移动到的位置，尤其是在对手起跳或落地瞬间出手，更容易命中并把他打退。
+3.  **注意平衡控制：** 楼顶边缘非常危险，武器后坐力也会把你自己往后推。不要在边缘疯狂连发，必要时通过移动或反向射击来维持站稳。
+4.  **掌握节奏：** 在移动、跳跃和射击之间找到适合自己的节奏。过于激进容易自爆，过于保守又难以给对手压力。
+5.  **利用地形：** 不同屋顶的坡度、高低差和障碍都会影响站位与受击效果，尝试找到既安全又容易输出的位置。
 
-1.  **Master Basic Controls**: Become proficient with the basic combination of movement, jumping, and shooting operations.
-2.  **Shooting Prediction**: Learn to predict opponent movement direction and aim ahead when shooting.
-3.  **Balance Control**: Maintain balance on roof edges, avoiding accidental falls due to weapon recoil.
-4.  **Rhythm Mastery**: Find the optimal combination rhythm for shooting, moving, and jumping.
-5.  **Positional Strategy**: Use rooftop terrain advantages to find the best shooting positions.
+### 操作说明
 
-### How to Play
+*   **移动：** 使用 A/D 键或左右方向键控制角色左右移动。
+*   **跳跃：** 使用 W 键或上方向键让角色起跳，可搭配射击进行空中骚扰。
+*   **射击：** 使用 S 键或下方向键开枪，将子弹和后坐力一起用来击退对手。
+*   **组合动作：** 可以在移动、跳跃的同时射击，形成多变的攻击节奏。
 
-*   **Movement**: Use A/D keys or left/right arrow keys to control character left and right movement.
-*   **Jump**: Use W key or up arrow key to make character jump.
-*   **Shoot**: Use S key or down arrow key to shoot.
-*   **Combination Actions**: Can simultaneously perform combinations of movement, jumping, and shooting.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Why do I always fall off first?**
-     **A**: You might be moving too aggressively or not mastering weapon recoil effects; need to control position more carefully.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I improve hit rate?**
-     **A**: Practice aiming more, learn to predict opponent movement trajectories, and shoot when opponents are jumping.
-3.  [ZH TRANSLATION NEEDED] **Q: How many players does the game support?**
-     **A**: The original "Rooftop Snipers" is mainly a two-player battle game where two players can fight on the same device.
-4.  [ZH TRANSLATION NEEDED] **Q: Is there a single-player mode?**
-     **A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.
+1.  **问：为什么我总是第一个掉下去？**  
+    **答：** 很可能是你在边缘过于激进移动或连续开枪，没处理好后坐力。建议提前预留缓冲空间，并学会在危险边缘收一收节奏。
+
+2.  **问：怎么提高命中率？**  
+    **答：** 多观察对手习惯走位，尤其在对方起跳或落地那一刻出手，命中率会更高。适当提前一点瞄准目标位置，而不是只对着当前位置开枪。
+
+3.  **问：支持几名玩家对战？**  
+    **答：** 原版《Rooftop Snipers》主打双人对战，可以在同一台设备上两人分键位游玩，非常适合作为线下聚会小游戏。
+
+4.  **问：有没有单人模式？**  
+    **答：** 游戏主要以双人对战为核心，不过某些版本也提供与 AI 对手对战的单人模式，适合用于练手和熟悉物理手感。

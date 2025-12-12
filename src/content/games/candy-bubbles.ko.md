@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: candy-bubbles
-title: '[KO] Candy Bubbles'
+title: Candy Bubbles 캔디 버블즈
 description: >-
-  [KO] Step into a sweet world and pop colorful candy bubbles! Aim your cannon,
-  match three or more, and clear the board in this delightful bubble shooter
-  puzzle game.
+  Candy Bubbles는 달콤한 사탕 세계를 배경으로 한 버블 슈터 퍼즐 게임입니다. 캐넌으로 버블을 쏘아 같은 색을 세 개 이상 맞추고,
+  연쇄 낙하를 이용해 화면을 깨끗이 비워 보세요.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/candy-bubbles.png
 tags:
@@ -16,35 +15,64 @@ score: 4.3/5  (2050 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Candy Bubbles는 알록달록한 사탕 버블로 가득한 보드를 단계별로 비워 나가는
+버블 슈터 게임입니다. 화면 아래의 캐넌에서 버블을 쏘아, 위쪽에 붙어 있는 같은 색
+버블 세 개 이상을 연결하면 해당 그룹이 터지며 사라집니다.
 
+수백 개의 스테이지와 다양한 배치, 연쇄 낙하를 이용한 고득점 요소가 준비되어 있어
+가볍게 즐기기에도 좋고, 퍼즐을 곱씹으며 플레이하기에도 좋은 구성을 갖추고
+있습니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **위쪽 연결부를 우선 공략하기**  
+    가장 효과적인 전략은 언제나 **위쪽을 노리는 것**입니다. 상단의 작은 그룹을
+    터뜨리면, 그 아래에만 매달려 있던 버블들이 한꺼번에 떨어져 큰 점수와 넓은
+    공간을 확보할 수 있습니다.
 
-Candy Bubbles is a sweet and colorful twist on the classic bubble shooter genre. Set in a delightful candy-themed world, your goal is to clear the screen of vibrant candy bubbles. Aim your cannon, shoot, and match three or more bubbles of the same color to make them pop. With hundreds of levels, strategic challenges, and satisfying chain reactions, it’s a relaxing puzzle game perfect for all ages.
+2.  **벽 반사를 이용해 막힌 구역 뚫기**  
+    정면에 다른 색 버블이 가로막고 있을 때는 측면 벽을 이용해 샷을 꺾어 보내
+    보세요. 벽 반사 궤적에 익숙해지면, 처음에는 닿지 않을 것 같은 위치도
+    공격할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+3.  **현재 버블과 다음 버블을 함께 고려하기**  
+    발사기에는 현재 버블뿐 아니라 다음에 나올 버블 색도 함께 표시됩니다.
+    지금 샷으로 완벽한 매치를 만들 수 없다면, 다음 버블을 위한 밑작업을 한다는
+    생각으로 움직이는 것이 좋습니다.
 
-1.  **[KO]** **Aim High:** The most effective strategy in any bubble shooter is to aim for matches high up on the board. When you pop a cluster of bubbles, any bubbles that are only attached to that cluster (and nothing else) will also fall down, clearing large sections of the board at once and earning you massive bonus points.
-2.  **[KO]** **Use the Walls:** Don't forget that you can bounce your shots off the side walls. Use this to your advantage to reach tricky spots or to get around bubbles of the wrong color that are blocking a direct shot.
-3.  **[KO]** **Plan Your Shots:** Most versions of the game show you both your current bubble and the next one in the queue. Use this information to plan your moves. If you can't make a good match with your current bubble, perhaps you can set up a great match for the next one.
-4.  **[KO]** **Don't Let Them Reach the Bottom:** A line at the top of the screen will periodically drop, pushing the bubbles closer to your cannon. If any bubble crosses the line at the bottom, the game is over.
+4.  **바닥선에 닿기 전에 정리하기**  
+    일정 턴이 지나면 상단에서 새로운 줄이 내려와 버블 전체가 아래로 밀려납니다.
+    어떤 버블이라도 바닥선을 넘으면 게임 오버이므로, 위험 구역 근처는 미리미리
+    정리해 두는 것이 좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-*   **[KO]** **Aim:** Move your mouse to aim the cannon. A guideline will show you the trajectory of your shot.
-*   **[KO]** **Fire:** Click the left mouse button to shoot the bubble.
-*   **[KO]** **Swap (if available):** Some versions may have a button to swap your current bubble with the next one in the queue.
+-   **조준:** 마우스를 움직여 캐넌의 방향을 맞추면, 조준선을 통해 발사 궤적을
+    미리 확인할 수 있습니다.
+-   **발사:** 마우스 왼쪽 버튼을 클릭해 버블을 쏩니다.
+-   **버블 교체(지원되는 경우):** 일부 버전에서는 현재 버블과 다음 버블을 교체하는
+    버튼이 제공되며, 이를 눌러 더 유리한 색을 먼저 사용할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What is the goal of each level?**
-    *   **[KO]** **A:** The primary goal is usually to clear all the bubbles from the screen. Some levels may have special objectives, like freeing items trapped inside bubbles.
+-   **Q. 각 레벨의 목표는 무엇인가요?**  
+    A. 대부분은 화면의 모든 버블을 제거하는 것이 목표지만, 일부 레벨에서는
+    버블 안에 갇힌 오브젝트를 구출하는 등 특별 목표가 주어지기도 합니다.
 
-*   **[KO]** **Q: How do I get the highest score?**
-    *   **[KO]** **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
+    - **Q. 점수를 많이 얻으려면 어떻게 해야 하나요?**  
+    A. 세 개만 간신히 맞추기보다는, 상단 연결부를 끊어 아래에 매달린 큰
+    덩어리를 떨어뜨리는 "어발란치" 상황을 자주 만드는 것이 중요합니다. 한 번에
+    떨어지는 버블 수가 많을수록 콤보 보너스가 크게 올라갑니다.
 
-*   **[KO]** **Q: I have a bubble color I can't use. What should I do?**
-    *   **[KO]** **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
+-   **Q. 당장 쓸 데 없는 색 버블이 나왔을 때는 어떻게 하나요?**  
 
+    - **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
+
+- **Q: I have a bubble color I can't use. What should I do?**
+
+    - **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
+    A. 중앙의 좋은 자리를 막지 않는 선에서 구석이나 덜 중요한 위치에 붙여 두고,
+    나중에 같은 색이 더 나왔을 때 함께 정리하는 것이 좋습니다. 교체 기능이
+    있다면 다음 버블을 먼저 쓰는 것도 좋은 방법입니다.

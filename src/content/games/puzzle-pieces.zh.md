@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: puzzle-pieces
-title: '[ZH TRANSLATION NEEDED] Puzzle Pieces'
+title: "《Puzzle Pieces》极简方块拼图挑战"
 description: >-
-  [ZH TRANSLATION NEEDED] Puzzle Pieces delivers clean brainteasers — rotate,
-  fit shapes, and complete boards without gaps.
+  《Puzzle Pieces》是一款干净利落的方块拼图游戏，通过拖动和旋转拼图块，恰到好处地填满棋盘，不留任何空格。
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/puzzle-pieces.png
 tags:
@@ -15,25 +14,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Puzzle Pieces is a tidy shape‑fitting puzzler. Drag and rotate polyforms to fill boards exactly, managing limited space and piece orientations as layouts grow more intricate.
+《Puzzle Pieces》是一款精致的平面拼图游戏。你需要拖动并旋转各式各样的多边形拼图块，恰好填满棋盘上的所有格子。随着关卡推进，布局会越来越复杂，你必须在有限空间中合理安放每一块拼图。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Start with anchors: Place unique or large shapes first to reduce ambiguity.
-2.  [ZH TRANSLATION NEEDED] Edge framing: Build clean borders to reveal interior gaps.
-3.  [ZH TRANSLATION NEEDED] Look for parity: Match protrusions and cavities; avoid leaving single‑cell holes.
-4.  [ZH TRANSLATION NEEDED] Rotate liberally: Check all orientations; many fits appear only after rotation.
-5.  [ZH TRANSLATION NEEDED] Undo freely: Backtrack early instead of forcing a bad fit.
+### 通关思路与策略指南
 
-### Controls Guide
+1.  先放“锚点”拼图：优先摆放形状独特或体积较大的拼图块，减少后续摆放的不确定性。
+2.  利用边缘构框：先把边框拼完整，能够更清楚地看出内部还剩哪些空位。
+3.  注意“凹凸匹配”：观察拼图块的凸起和凹陷，避免留下单个孤立小格。
+4.  多尝试旋转：将拼图多角度旋转试试，很多正确解只有在特定角度才会出现。
+5.  勇于撤销：发现局面越拼越乱时，及时撤销几步，比硬撑着往下拼更省时间。
 
-- Drag to move pieces; rotate via click/tap or a rotate button.
-- Undo/Reset: Fix mistakes quickly; no penalty in most modes.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 拖拽即可移动拼图块，点击/轻触或使用旋转按钮调整方向。
+- 使用撤销/重置功能可以快速修正错误，在大多数模式下没有惩罚。
 
-- A piece never fits—bug? Usually orientation; try other rotations or reframe edges.
-- Timers? Varies; most modes are relaxed.
-- Hints? Many versions include hints; use sparingly to preserve challenge.
+### 常见问题解答（FAQ）
 
+- 拼图块怎么看都放不下，是不是卡关/bug？  
+  通常只是摆放方向还没找对，尝试换一种旋转角度，或者重新规划边缘布局。
+- 有时间限制吗？  
+  视具体版本而定，多数模式都比较休闲，没有严格倒计时。
+- 有提示功能吗？  
+  很多版本都提供提示系统，卡住时可以适当使用，但建议少用一点，才能保持解谜的成就感。

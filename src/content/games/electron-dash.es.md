@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: electron-dash
-title: '[ES] Electron Dash'
+title: "Electron Dash"
 description: >-
-  [ES] Electron Dash is a fast tunnel runner: jump, dash, and land on rotating
-  platforms to survive long runs.
+  Electron Dash es un corredor de túnel ultrarrápido: salta, haz un impulso rápido y cae
+  sobre plataformas giratorias para sobrevivir el máximo tiempo posible.
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/electron-dash.jpg
 tags:
@@ -14,30 +14,44 @@ score: 4.4/5  (1386 votes)
 ---
 
 
+### Descripción general
 
+Electron Dash es un runner en túnel muy rápido. Corres por cilindros y
+plataformas suspendidas, saltas huecos y haces impulsos rápidos sobre baldosas flotantes
+mientras la velocidad aumenta de forma constante.
 
+### Cómo jugar
 
-### Overview
-Fast tunnel runner: sprint along cylinders and platforms, leap gaps, and dash across floating tiles while the pace steadily increases.
+- Lee con antelación los patrones de baldosas; cambia de carril a tiempo y usa
+  el impulso para cruzar pequeños vacíos.
+- Algunas baldosas azules pueden colapsar tras pisarlas y los anillos móviles
+  requieren una sincronización muy precisa.
+- Tu objetivo es llegar lo más lejos posible y, cuando existan, recoger gemas
+  por el camino.
 
-### How to Play
-- Read tile patterns ahead; jump between lanes and dash across short voids.
-- Blue tiles may collapse; moving rings require precise timing.
-- Push for distance and gems where present.
+### Controles
 
-### Controls
-- Arrows/WASD to move/jump; Space/X to dash (host dependent).
+- Flechas/WASD para moverte y saltar.
+- Espacio/X para hacer un impulso rápido (puede variar según el portal).
 
-### Tips
-- Center your lane before blind rises; camera shifts can mislead footing.
-- Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.
-- Treat curves like lanes—switch early, not on the lip.
+### Consejos
 
-### FAQ
-- Q: Random or fixed levels?
-A: Many hosts use procedural sections, so runs differ.
-- Q: What counts as failure?
-A: Falling, hitting lasers, or being pushed off by rings.
-- Q: Any upgrades?
-A: Some hosts add gem unlocks or cosmetics; core loop is distance.
+- Colócate en el centro del carril antes de subidas ciegas; los cambios de
+  cámara pueden engañar sobre dónde está el borde.
+- Encadena impulso → salto para cruzar huecos largos; evita abusar del impulso en
+  baldosas inestables.
+- Trata las curvas como si fueran carriles: cambia pronto, no al borde mismo.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Los niveles son aleatorios o fijos?**  
+  **R:** Muchos portales usan secciones generadas de forma procedural, así que
+  cada carrera puede ser distinta.
+
+- **P: ¿Qué se considera fallo?**  
+  **R:** Caerte, tocar láseres o que un anillo en movimiento te saque de la
+  plataforma.
+
+- **P: ¿Hay mejoras permanentes?**  
+  **R:** Algunas versiones añaden desbloqueos de gemas o cosméticos; el bucle
+  central sigue siendo llegar lo más lejos posible.

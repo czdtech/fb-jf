@@ -1,51 +1,75 @@
 ---
 locale: ko
 urlstr: sudoku
-title: '[KO] Sudoku'
+title: Sudoku 스도쿠
 description: >-
-  [KO] Sudoku is a classic number puzzle game where players fill a 9x9 grid with
-  digits 1-9, ensuring each row, column, and 3x3 box contains all numbers
-  exactly once in this challenging logic-based brain teaser.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
+  Sudoku는 9x9 격자를 채워 각 줄·각 칸·3x3 박스에 1~9가 한 번씩만 들어가게 만드는 고전 숫자 논리 퍼즐입니다. 직관적인
+  인터페이스로 전통 스도쿠를 간단하게 즐길 수 있습니다.
+iframeSrc: 'https://sudoku.h5games.usercontent.goog/v/13p9p8jbh9ddo/'
 thumbnail: /new-images/sudoku.jpg
 tags:
   - puzzle
-  - logic
-  - numbers
-score: 5.0/5  (1136 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - thinky
+  - casual
+score: 4.6/5  (2800 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
 
+### 게임 상세 소개
+
+Sudoku는 가장 유명한 숫자 논리 퍼즐 가운데 하나로, 9x9 격자의 빈 칸에
+1부터 9까지의 숫자를 규칙에 맞게 채워 넣는 게임입니다. 각 가로줄, 세로줄,
+3x3 박스마다 같은 숫자가 두 번 이상 들어갈 수 없습니다. 이 버전은 전통적인
+스도쿠 규칙을 그대로 따르면서, 마우스/터치로 간단히 조작할 수 있는
+디지털 UI를 제공합니다.
+
+### 플레이 전략 및 공략
+
+1.  **기본 규칙 되새기기:**
+    모든 줄·칸·3x3 박스에 1~9가 한 번씩만 들어가야 한다는 점을 계속 염두에
+    두고 플레이하세요.
+2.  **행·열·박스 교차:**
+    빈 칸 하나를 볼 때, 해당 줄·칸·박스에 이미 들어 있는 숫자를 먼저
+    제외하면 후보가 줄어듭니다.
+3.  **싱글 찾기:**
+- 한 칸에 들어갈 수 있는 숫자가 하나뿐이라면 바로 채워 넣습니다.
+- 특정 숫자가 어떤 줄·칸·박스 안에서 한 칸에만 들어갈 수 있을 때도
+      그 칸은 확정할 수 있습니다.
+4.  **쉬운 곳부터 풀기:**
+    난이도가 느껴질 때는, 숫자가 많이 채워져 있는 줄이나 박스부터 공격해
+    나가면 퍼즐이 더 쉽게 풀립니다.
+
+### 조작 방법 안내
+
+- 격자에서 빈 칸을 클릭하거나 터치해 선택합니다.
+- 화면 하단 또는 키보드 숫자를 눌러 해당 칸에 숫자를 입력합니다.
+- 일부 버전에서는 메모·되돌리기·힌트 등의 버튼을 제공할 수 있습니다.
 
 
-### Game Introduction
+- **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
+### 자주 묻는 질문(FAQ)
 
-"Sudoku" is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once. This logic-based brain teaser challenges players' reasoning abilities and patience.
 
-### Gameplay Strategy
+- **Q: How do I know if a Sudoku has a solution?**
+**Q: 실수로 잘못 넣은 숫자를 수정할 수 있나요?**
 
-1.  **[KO]** **Start Simple**: Look for cells with only one possible answer first; these are usually breakthrough points.
-2.  **[KO]** **Elimination Method**: Observe existing numbers in rows, columns, and boxes to eliminate impossible options.
-3.  **[KO]** **Candidate Number Method**: Mark possible numbers in empty cells to help with analysis and reasoning.
-4.  **[KO]** **Find Hidden Singles**: Look for numbers that can only be placed in one position within a row, column, or box.
-5.  **[KO]** **Progressive Advancement**: After filling in each number, re-analyze the entire board to find new breakthrough points.
 
-### How to Play
+- **Q: What if I get stuck?**
+A: 대부분의 디지털 스도쿠에서는 같은 칸을 다시 클릭하거나 지우기 버튼을
 
-*   **[KO]** **Select Cell**: Click on empty cells to select them.
-*   **[KO]** **Input Numbers**: Use keyboard number keys 1-9 or click on-screen number buttons to input.
-*   **[KO]** **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
-*   **[KO]** **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
+- **Q: Are there different difficulty levels?**
+   사용해 숫자를 삭제할 수 있습니다.
 
-### Frequently Asked Questions
 
-1.  **[KO]** **Q: How do I know if a Sudoku has a solution?**
-**A**: Legal Sudoku puzzles should have a unique solution. If contradictions or multiple solutions appear, there might be issues with the puzzle design.
-2.  **[KO]** **Q: What if I get stuck?**
-**A**: Carefully check if filled numbers have errors, and use more advanced solving techniques like "naked pairs" or "hidden pairs."
-3.  **[KO]** **Q: Are there different difficulty levels?**
-**A**: Usually divided into different difficulty levels like easy, medium, hard, and expert.
-4.  **[KO]** **Q: Do I need to guess?**
-**A**: Standard Sudoku should be solvable through pure logical reasoning without guessing.
+- **Q: Do I need to guess?**
+**Q: 시간 제한이 있나요?**
+
+A: 모드에 따라 다르지만, 보통은 시간 제한 없이 천천히 생각하며 풀 수 있고,
+   기록 경쟁 모드에서는 클리어 시간을 측정하기도 합니다.
+
+**Q: 난이도가 어떻게 나뉘나요?**
+
+A: 일반적으로 쉬움·보통·어려움 등으로 나뉘며, 어려운 퍼즐ほど 초기 숫자가 적고
+   더 깊은 논리 추론이 필요합니다.

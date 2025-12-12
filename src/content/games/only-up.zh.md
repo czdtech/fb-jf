@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: only-up
-title: '[ZH TRANSLATION NEEDED] Only Up'
+title: "《Only Up》只许向上爬"
 description: >-
-  [ZH TRANSLATION NEEDED] Only Up is a challenging 3D platformer where players
-  must meticulously climb a precarious and often chaotic world, overcoming
-  obstacles and mastering precise jumps to reach higher altitudes without
-  falling.
+  《Only Up》是一款高难度 3D 跳跃攀爬游戏，你需要在由漂浮物、废弃建筑和诡异结构组成的世界中一路向上，依靠精确的跳跃与耐心，尽量在不失足坠落的前提下登上更高处。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/only-up.jpg
@@ -19,31 +16,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Only Up" is an extremely challenging 3D platformer. Players' objective is to continuously climb a massive world composed of various floating objects, abandoned buildings, and peculiar structures. The game has no save points; every mistake can lead to falling from great heights, requiring a restart from the beginning, thus posing a significant test to players' precision and mental fortitude.
+《Only Up》是一款极具挑战性的 3D 平台跳跃游戏。整个世界由各种漂浮的物体、残破的建筑以及充满想象力的结构堆叠而成，你需要不断向上攀登。游戏几乎没有传统意义上的存档点，一次失误就可能从高处跌落，甚至回到起点，既考验操作精度，也考验心理承受能力。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Meticulous Observation**: Before each jump, carefully observe the position, distance, and material of the next landing spot, and plan the optimal route.
-2.  **Master Jump Rhythm**: Different objects may require different jump strengths and timings; familiarize yourself with the character's jumping feel.
-3.  **Utilize Environment**: Some seemingly impossible jumps might require using small objects in the environment for assistance, or finding hidden paths.
-4.  **Stay Calm**: Don't get discouraged by multiple failures; staying calm helps improve operational stability and precision.
-5.  **Learn from Experience**: Every fall is an opportunity to learn; remember where you failed to avoid repeating mistakes.
+1.  **先观察再起跳：** 在每一次跳跃之前，先停下来观察下一块落点的距离、高度和材质，预估需要的助跑距离与起跳力度，而不是一味莽撞往前冲。
+2.  **熟悉跳跃节奏：** 不同平台间的距离和高度差，可能需要不同长短的助跑与按键时机。多试几次，记住角色起跳与落地的“手感曲线”。
+3.  **善用环境细节：** 有些看似够不到的平台，其实需要踩着旁边的小管道、箱子或斜坡中转；也可能存在半隐藏的小路，帮助你绕开最极限的跳跃。
+4.  **保持冷静心态：** 多次跌落是本作的“日常”，心态崩溃比失误本身更致命。放慢节奏、适时休息，比急于“报复性上爬”更有助于稳步前进。
+5.  **从失败中记路线：** 每次掉下去都是重新熟悉路径的机会，记住哪些地方最容易失误，下次经过就能提前调整视角与步伐，逐步将整条路线刻进肌肉记忆。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Use WASD or arrow keys to control character movement.
-*   **Jump**: Spacebar for jumping.
-*   **Sprint**: Some game versions may offer a sprint function, often combined with jumping for longer leaps (e.g., Shift + Spacebar).
-*   **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
+*   **移动：** 使用 WASD 或方向键控制角色移动方向。
+*   **跳跃：** 按空格键进行跳跃，根据按键时机与移动速度控制跳跃距离。
+*   **冲刺（部分版本）：** 某些版本提供冲刺功能，一般通过 Shift 搭配移动/跳跃使用，用于完成更远距离的跨越。
+*   **视角控制：** 使用鼠标调整镜头方向，保持良好的视角有助于判断距离并找到更安全的落脚点。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Does the game have save points?**
-     **A**: One of the core challenges of "Only Up" is the absence of save points. Players may fall back to the starting point after each fall, requiring them to restart the challenge.
-2.  [ZH TRANSLATION NEEDED] **Q: What is the objective of the game?**
-     **A**: The objective is to overcome all obstacles and continuously climb upwards to reach the highest point of the world.
-3.  [ZH TRANSLATION NEEDED] **Q: How can I avoid frequent falls?**
-     **A**: The key lies in precise execution, careful observation, and patience. Don't rush; take each step steadily.
-4.  [ZH TRANSLATION NEEDED] **Q: Is the game beginner-friendly?**
-     **A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
+### 常见问题
+
+1.  **问：游戏有没有自动存档或中途存档点？**
+    **答：** 本作的核心难点之一在于“几乎没有存档点”，一旦从高处失足，多数情况下会跌回很低的位置甚至重新开始。因此每一次上升都格外宝贵。
+2.  **问：游戏的通关目标是什么？**
+    **答：** 核心目标是克服所有平台与机关，一路向上攀登，抵达世界的最高处；很多玩家也会以“用时最短”或“跌落次数最少”等方式给自己设定额外挑战。
+3.  **问：如何减少频繁摔落？**
+    **答：** 控制好节奏是关键：多利用短跳、小步调整站位，不要在不熟悉的路段一味全速冲刺；同时多练习视角控制，让自己总能清楚看到下一个落点。
+4.  **问：新手适合玩吗？**
+    **答：** 《Only Up》以高难度著称，对新手并不“温柔”，但只要保持耐心、接受“反复跌落”这个前提，逐步练习操作和路线规划，依然可以从中获得成就感。

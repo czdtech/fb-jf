@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: captain-gold
-title: '[ES] Captain Gold'
+title: "Captain Gold"
 description: >-
-  [ES] Captain Gold is a classic gold‑miner challenge — time throws, hook
-  valuables, and avoid rocks to hit quotas.
+  Captain Gold recupera el clásico desafío del minero de oro: calcula el
+  momento del lanzamiento, engancha los objetos valiosos y esquiva las rocas
+  para alcanzar la cuota.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/captain-gold.png
 tags:
@@ -15,36 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Captain Gold sigue la fórmula atemporal de los juegos de mineros de oro: el gancho
+oscila de un lado a otro y debes soltarlo en el momento justo para atrapar
+pepitas y tesoros. Los objetos pesados tardan más en subir, mientras que los
+ligeros se recogen enseguida. Cada fase marca un objetivo de dinero y un límite
+ de tiempo, y entre rondas puedes invertir tus ganancias en mejoras en la tienda.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Captain Gold follows the timeless gold‑miner formula: swing a hook across the screen and release at the right moment to snag gold nuggets and treasures. Heavy objects pull slowly, light ones reel in faster. Stages set cash targets and time limits, with shop upgrades between rounds.
+1.  **Prioriza las pepitas grandes y las bolsas:** Ir a por los objetos de mayor
+    valor al principio te acerca antes a la cuota.
+2.  **Evita las rocas:** Pesan mucho, valen poco y consumen tiempo, salvo que
+    necesites despejar espacio.
+3.  **Usa dinamita (cuando esté disponible):** Si atrapas algo que no te
+    interesa, lánzale dinamita a mitad de la recogida para soltarlo sin perder
+    tanto tiempo.
+4.  **Compra con cabeza:** Suele ser buena idea adquirir primero mejoras de
+    velocidad del cable o dinamita extra; adapta tus compras al diseño de cada
+    nivel.
+5.  **Ajusta la sincronización:** Suelta el gancho un poco antes de que apunte
+    exactamente al objeto, teniendo en cuenta el balanceo.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Prioritize big nuggets and bags early for faster quota.
-2.  **[ES]** Avoid rocks — they’re heavy and low value unless you must clear space.
-3.  **[ES]** Use dynamite (if available) to drop unwanted items mid‑reel.
-4.  **[ES]** Shop smart: buy power‑reel or extra dynamite first; evaluate per stage layout.
-5.  **[ES]** Timing cues: Release slightly before the hook lines up due to swing momentum.
+- **Soltar gancho:** Un toque o clic para lanzar el gancho.
+- **Usar dinamita:** Otro toque/clic mientras estás recogiendo un objeto (si la
+  versión lo permite).
+- Navega por los menús de la tienda entre niveles para comprar mejoras.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap/Click to release the hook; tap again to use dynamite if supported.
-- Navigate shop menus between levels.
+- **Siempre me falta dinero para la cuota, ¿algún consejo?**
 
-### Frequently Asked Questions (FAQ)
+  R: Ve siempre a por las pepitas más grandes y bolsas visibles, ignora rocas
+  siempre que puedas y mejora pronto la velocidad del cable.
 
-- Q: I keep coming up short on cash — any tips?
+- **¿Merece la pena la dinamita?**
 
-A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
+  R: Sí, especialmente en niveles llenos de rocas: te ahorra el tiempo perdido
+  en arrastrar objetos de poco valor.
 
-- Q: Is dynamite worth it?
+- **¿Puedo controlar el ángulo del gancho con precisión?**
 
-A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
-
-- Q: Can I control hook angle precisely?
-
-A: Learn the swing rhythm; release a fraction early to account for motion.
-
+  R: Aprende el ritmo del balanceo y suelta un pelín antes del punto ideal para
+  compensar el movimiento.

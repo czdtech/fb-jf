@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bob-the-robber
-title: '[ES] Bob the Robber'
+title: "Bob the Robber"
 description: >-
-  [ES] Become a master thief in Bob the Robber! Sneak past guards, disable
-  cameras, crack safes, and steal valuable loot in this challenging stealth
-  puzzle-platformer series.
+  Conviértete en un ladrón maestro en Bob the Robber. Esquiva guardias, anula
+  cámaras, fuerza cajas fuertes y roba botines valiosos en esta desafiante saga
+  de sigilo y puzles de plataformas.
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/bob-the-robber.jpg
@@ -17,53 +17,90 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Bob the Robber es una serie de juegos 2D que mezclan sigilo, puzles y
+plataformas. Controlas a Bob, un ladrón experto con cierto sentido de la
+justicia (a menudo presentado como un Robin Hood moderno) que se infiltra en
+lugares altamente vigilados: casas, bancos, museos y bases secretas. El objetivo
+de cada nivel es recorrer el escenario, robar un botín concreto y llegar a la
+salida sin ser capturado.
 
+La jugabilidad se basa en evitar la detección. Los niveles están llenos de
+medidas de seguridad: guardias que patrullan, cámaras de vigilancia, barreras láser
+y puertas cerradas. Debes usar la observación, la sincronización de tus movimientos y el sigilo para
+superar cada obstáculo. Esconderte en las sombras es una mecánica clave que hace
+invisible a Bob para la mayoría de amenazas. Superar un nivel suele implicar
+resolver pequeños puzles, como encontrar códigos de teclados o forzar cerraduras,
+siempre procurando que nadie te vea.
 
+### Estrategia de juego
 
-### Game Introduction
+-   **La paciencia es tu mejor herramienta:** No te precipites. El error más
+    común es meterse de lleno en la ruta de un guardia. Al entrar en cada
+    pantalla, dedica unos segundos a observar los patrones de guardias y
+    cámaras.
+-   **Aprovecha las sombras:** Las zonas oscuras son tus refugios. Siempre que
+    puedas, muévete de una sombra a otra. Un guardia o una cámara no te
+    detectarán mientras estés oculto, salvo que el guardia choque contigo.
+-   **Cómo tratar con los guardias:**
+    -   **Evitar antes que golpear:** Lo más seguro suele ser esperar a que
+        pasen y colarte por detrás.
+    -   **Noquear:** Puedes acercarte sigilosamente por la espalda y dejarlos K.O.
+        con tu porra (normalmente con la barra espaciadora). Ten en cuenta que
+        esto lleva unos segundos y hace ruido, lo que puede alertar a otros
+        guardias cercanos. En algunos juegos, los guardias noqueados acaban
+        despertando o pueden ser descubiertos.
+-   **Controla el ritmo de las cámaras:** Las cámaras barren la zona con un cono
+    de visión predecible. Espera a que el haz apunte hacia otro lado antes de
+    cruzar. Correr bajo la cámara reduce el tiempo que permaneces expuesto.
+-   **Lee el entorno:** Busca pistas. Muchos códigos de seguridad están escritos
+    en notas, paredes o pizarras dentro del nivel. Fíjate en todos los
+    detalles.
+-   **Cerraduras y cajas fuertes:** El forzado de cerraduras suele presentarse
+    como un minijuego en el que debes pulsar un botón en el momento justo. Requiere
+    buena sincronización y algo de práctica.
+-   **Reúne todo el botín:** Además del objetivo principal, suele haber montones
+    de fajos de billetes escondidos en cajones, estanterías o detrás de cuadros.
+    Encontrarlos mejora tu puntuación final.
 
-Bob the Robber is a series of 2D stealth puzzle-platformer games. The player takes on the role of Bob, a skilled thief with a sense of justice (often portrayed as a modern-day Robin Hood), who infiltrates various secure locations like houses, banks, and museums. The objective of each level is to navigate the environment, collect a specific target loot item, and reach the exit without getting caught.
+### Guía de controles
 
-The core gameplay revolves around avoiding detection. Levels are filled with a variety of security measures, including patrolling guards, security cameras, laser grids, and locked doors. The player must use observation, timing, and stealth to overcome these obstacles. Hiding in the shadows is a key mechanic, making Bob invisible to most threats. Successfully completing a level often requires solving small puzzles, such as finding keycodes or lockpicking doors, all while remaining unseen.
+Los controles se mantienen bastante consistentes en toda la serie y son muy
+sencillos.
 
-### Gameplay Strategy
+-   **W/A/S/D o teclas de flecha:** Mueven a Bob a izquierda, derecha, arriba y
+    abajo (para escaleras y escaleras de mano).
+-   **Flecha arriba o W:** Interactuar con objetos. Sirve para:
+    -   Abrir puertas.
+    -   Forzar cerraduras.
+    -   Registrar muebles en busca de botín.
+    -   Introducir códigos.
+    -   Subir y bajar escaleras.
+-   **Barra espaciadora:** Usar la porra para dejar K.O. a un guardia por la
+    espalda.
+-   **Z, X, C (en entregas posteriores):** Utilizar gadgets especiales cuando
+    estén disponibles.
 
--   **Patience is Your Best Tool:** Do not rush. The most common mistake is running into a guard's patrol route. Take time at the start of each screen to observe the patterns of guards and cameras.
--   **Use the Shadows:** Shadows are your safe zones. Whenever possible, move from one shadow to another. A guard or camera will not spot you while you are hidden in a shadow, unless a guard physically walks into you.
--   **Dealing with Guards:**
-    -   **Avoidance:** The best method is to simply wait for a guard to pass and then sneak by behind them.
-    -   **Knockout:** You can sneak up behind a guard and knock them out with your club (usually with the Spacebar). Be aware that this takes a few seconds and makes a noise that can alert nearby guards. A knocked-out guard will eventually wake up in some games, or can be discovered by other guards.
--   **Timing Cameras:** Security cameras sweep back and forth in a predictable pattern. Wait for the camera's light cone to move away from your path before you cross. Running under a camera is faster and reduces your exposure time.
--   **Read the Environment:** Look for clues. Security codes for keypads are often written on pieces of paper or walls within the level. Pay attention to everything.
--   **Locks and Safes:** Lockpicking is a common mini-game. It usually requires you to press a button at the exact moment a pin is in the correct position. This requires good timing.
--   **Collect All the Loot:** Besides the main objective, there are often extra cash stashes hidden in drawers, shelves, or behind paintings. Finding these will improve your final score.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+**1. Un guardia me vio aunque estaba en las sombras. ¿Por qué?**
+> Si un guardia choca directamente contigo, te detectará aunque estés en una
+> zona oscura. Las sombras te protegen de la línea de visión, pero no del
+> contacto físico.
 
-The controls are generally consistent across the series and are very simple.
+**2. ¿Cómo atravieso las barreras láser?**
+> Normalmente tienes que encontrar un interruptor o panel de control en el nivel
+> para desactivarlas. A veces implica un pequeño minijuego; otras, basta con una
+> sola interacción.
 
--   **W/A/S/D or Arrow Keys:** Move Bob left, right, up, and down (for stairs/ladders).
--   **Up Arrow Key or W:** Interact with objects. This is used for:
-    -   Opening doors.
-    -   Picking locks.
-    -   Searching for loot.
-    -   Entering codes.
-    -   Climbing stairs or ladders.
--   **Spacebar:** Swing your club to knock out a guard from behind.
--   **Z, X, C (in later games):** Use special gadgets if available.
+**3. Noqueé a un guardia y aun así me atraparon. ¿Qué pasó?**
+> Seguramente otro guardia vio el cuerpo y dio la alarma. Cuando noquees a
+> alguien, procura que quede tumbado fuera de las rutas de patrulla de los
+> demás.
 
-### Frequently Asked Questions (FAQ)
-
-**1. A guard saw me even though I was in the shadows. Why?**
-> If a guard walks directly into you, they will detect you even if you are in a shadow. Shadows make you invisible to line-of-sight detection, but not to physical contact.
-
-**2. How do I get past the laser grids?**
-> You usually need to find a switch or a control panel somewhere in the level to disable the lasers. Sometimes this involves a small mini-game or just a single interaction.
-
-**3. I knocked out a guard, but then I got caught. What happened?**
-> Another guard likely saw the body of the knocked-out guard and raised the alarm. When you knock out a guard, make sure their body is not on another guard's patrol route.
-
-**4. Is it better to knock out guards or sneak past them?**
-> Sneaking is almost always the better and safer option. Knocking out guards should be a last resort or used only when you are certain no other guards will discover the body. It's a tool to create an opening, not a primary strategy.
-
+**4. ¿Es mejor noquear guardias o colarse sin que se den cuenta?**
+> Lo más seguro casi siempre es colarse sin hacer ruido. Noquear debería ser la
+> última opción o usarse solo cuando estés seguro de que ningún otro guardia
+> encontrará el cuerpo. Es una herramienta para abrir huecos puntuales, no una
+> estrategia base.

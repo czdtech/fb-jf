@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: bricks-breaker
-title: '[ZH TRANSLATION NEEDED] Bricks Breaker'
-description: >-
-  [ZH TRANSLATION NEEDED] Get ready for classic arcade action in Bricks Breaker!
-  Control the paddle, bounce the ball, and destroy all the bricks to clear
-  levels.
+title: Bricks Breaker 现代打砖块
+description: 《Bricks Breaker 现代打砖块》是一款节奏爽快的打砖块游戏，控制挡板反弹小球打碎砖块，配合多种强化道具挑战 各种砖块布局。
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
 thumbnail: /new-images/bricks-breaker.jpg
 tags:
@@ -17,30 +14,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Bricks Breaker is a modern take on the timeless arcade classic. The objective is to destroy all the bricks on the screen by hitting them with a bouncing ball. You control a paddle at the bottom of the screen to keep the ball in play. As you break bricks, you can collect various power-ups to help you clear levels faster. With numerous levels, challenging brick formations, and exciting power-ups, Bricks Breaker offers endless fun.
+*Bricks Breaker* 是对经典打砖块玩法的现代演绎。你的目标是在每一关中，将画面上的所有可破坏砖块全部击碎。你控制底部的挡板，接住并反弹小球，让它不断撞击上方砖堆。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Control the Paddle:** Your primary job is to position the paddle to intercept the ball. Try to hit the ball with the edges of the paddle to change its angle and send it to different parts of the screen.
-2.  [ZH TRANSLATION NEEDED] **Aim for the Top:** Try to get the ball into the space above the bricks. It will bounce around for a while, destroying many bricks without any risk of you missing the ball.
-3.  [ZH TRANSLATION NEEDED] **Grab Power-Ups:** Falling power-ups can give you significant advantages, such as a wider paddle, multiple balls (multi-ball), or a laser to shoot bricks directly. Prioritize catching these.
-4.  [ZH TRANSLATION NEEDED] **Focus on Tough Bricks:** Some bricks may require multiple hits to be destroyed. Focus your efforts on these to open up the level.
-5.  [ZH TRANSLATION NEEDED] **Use the Walls:** Use the side walls to your advantage. Bouncing the ball off the walls at sharp angles can help you reach tricky spots.
+随着游戏进行，你会遇到：  
+- 只需一次命中即可打碎的普通砖块；  
+- 需要多次命中才能消除的“硬砖”；  
+- 被击中后会掉落各种强化道具的特殊砖块。  
 
-### Controls Guide
+通过合理利用这些道具，你可以更快地清除关卡、冲击更高分数。
 
-*   **Move Paddle:** Move your mouse left and right to control the paddle's position.
-*   **Launch Ball:** Click the left mouse button to launch the ball from the paddle at the start of each life.
+### 游戏策略与通关思路
 
-### Frequently Asked Questions (FAQ)
+1.  **精确控制挡板，调整出射角度**  
+    挡板不仅用于接球，击中挡板不同位置时，小球的反弹角度会发生变化。多利用挡板两侧来改变球路，使小球飞向你想要的区域，而不是在同一条线路上“来回磨砖”。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.
+2.  **尽量让球进入砖堆上方空间**  
+    与经典打砖块一样，当你在砖层中打出通道，让球钻入顶层空间后，它会在上方自由弹跳，短时间内自动清掉大量砖块，而你仅需在下方等待球掉回即可。
 
-*   **Q: What happens if I miss the ball?**
-     *   **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.
+3.  **优先接取关键强化道具**  
+    从砖块中掉落的道具常见效果包括：  
+    - 挡板变宽，容错率提高；  
+    - 多球模式，一次在场上拥有多颗球；  
+    - 火球 / 穿透球，可一次穿透多块砖；  
+    - 激光挡板，可以直接射击砖块。  
+    在不影响接球的前提下，尽量优先接那些明显增强清屏能力的道具。
 
-*   **Q: What do the different power-ups do?**
-     *   **A:** Power-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
+4.  **集中火力处理“硬砖”**  
+    有些砖需要多次命中才能被打碎，如果它们正好挡在瓶颈位置，很容易长期影响你的路线规划。尽早对这些砖多次补刀，打通通往上层的通路。
 
+5.  **利用墙壁与斜角打到难触及区域**  
+    对于被其他砖挡住、难以正面命中的区域，可以尝试打出大角度斜线，让球先撞侧墙再折射入目标区域，通过几次尝试找到合适角度。
+
+### 操作指南
+
+*   **移动挡板：** 使用鼠标左右移动，使挡板跟随光标平移。  
+*   **发射小球：** 在每个回合开始时，点击鼠标左键从挡板上发射小球。  
+
+### 常见问题解答（FAQ）
+*   **问：这一关的目标是什么？****
+    *   答：** 每一关的目标都是把画面中所有可破坏的砖块全部击碎，即可自动进入下一关。
+*   **问：接漏了球会怎样？****
+    *   答：** 小球从挡板下方掉落视为失误，你会损失一条命。命数耗尽时游戏结束，需要重新开始或从最近的进度点继续（视具体版本而定）。
+*   **问：不同道具有什么用？****
+    *   答：** 道具种类较多，但大体都围绕“增加容错”“提升输出效率”展开，例如加宽挡板、分裂多球、火球穿透、多层击破、激光射击等。根据当前关卡难度和自身习惯，选择性追逐道具效果更佳。

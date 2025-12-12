@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: coloring-match
-title: '[DE] Coloring Match'
+title: "Coloring Match"
 description: >-
-  [DE] Coloring Match teaches color mixing — blend paints to match targets,
-  manage hue/saturation, and refine with small tweaks.
+  Coloring Match bringt dir Farbmischen bei – kombiniere Farben, um Zieltöne
+  zu treffen, justiere Farbton/Sättigung und feile mit kleinen Anpassungen am
+  perfekten Match.
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/coloring-match.jpg
 tags:
@@ -16,36 +17,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Coloring Match* fordert dich heraus, einen Zielton möglichst exakt zu
+reproduzieren, indem du Primärfarben mischst und Helligkeit bzw. Sättigung
+anpasst. Feinheiten sind entscheidend: Selbst wenn der Farbton stimmt, kannst
+du mit zu hoher Sättigung oder falscher Helligkeit danebenliegen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Coloring Match asks you to reproduce a target color by mixing primaries and adjusting brightness/saturation. Subtle differences matter: overshooting saturation or value can miss the goal even if the hue matches.
+1.  Erst Farbton, dann Feintuning: Orientiere dich zunächst am Farbkreis, bis
+    der Grundton passt. Danach justierst du Sättigung und Helligkeit.
+2.  Kleine Schritte nahe am Ziel: Je näher du am Ziel bist, desto kleiner
+    sollten deine Reglerbewegungen werden – große Sprünge führen schnell
+    vorbei.
+3.  Unter gleichen Bedingungen vergleichen: Wenn das UI es erlaubt, betrachte
+    Ziel- und Mischfarbe unter identischem Hintergrund/Licht, um Unterschiede
+    besser zu erkennen.
+4.  Aufräumen statt weiter „matschen“: Wird dein Mix unübersichtlich oder
+    „matschig“, nutze Rückgängig/Reset und starte mit klaren Verhältnissen neu.
+5.  Komplementärfarben merken: Lerne, welche Farben einander neutralisieren.
+    So kannst du zu kräftige Töne in Richtung grau/braun zähmen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Match hue first (color wheel), then adjust saturation and value.
-2.  **[DE]** Make small changes near the target; big swings overshoot.
-3.  **[DE]** Compare under the same lighting/background if the UI offers it.
-4.  **[DE]** Use undo/reset when the mix gets muddy.
-5.  **[DE]** Learn complementary pairs to neutralize tints.
+- Bewege Mischregler oder gib Farbanteile an; die Vorschau wird in Echtzeit
+  aktualisiert.
+- Bestätige, sobald deine Farbe innerhalb der erlaubten Toleranz ans Ziel
+  heranreicht.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drag sliders or mix paint amounts; preview updates live.
-- Confirm when your color matches the target within tolerance.
+- Farbton passt, aber das Spiel akzeptiert ihn nicht – wieso?
+  
+  Vermutlich sind Sättigung oder Helligkeit daneben. Reduziere die Sättigung
+  für mehr Grauanteil oder erhöhe/verringere die Helligkeit, bis beides
+  übereinstimmt.
 
-### Frequently Asked Questions (FAQ)
+- Gibt es eine Abkürzung für Braun/Grau?
+  
+  Mische Komplementärfarben (z. B. Blau/Orange, Rot/Grün), um den Ton zu
+  neutralisieren, und passe dann die Helligkeit an.
 
-- Q: Hue matches but still fails — why?
-
-A: Saturation or value is off. Lower saturation to gray it out or raise value for brightness.
-
-- Q: Any shortcut for brown/gray?
-
-A: Mix complementary colors to neutralize toward brown/gray, then adjust value.
-
-- Q: Do tiny tweaks matter?
-
-A: Yes — near the goal, use small slider nudges for precision.
-
+- Machen minimale Änderungen wirklich einen Unterschied?
+  
+  Ja. Besonders nahe am Ziel können wenige Prozent bei Sättigung oder Helligkeit
+  über Erfolg oder Misserfolg entscheiden. Nutze feine Reglerbewegungen.

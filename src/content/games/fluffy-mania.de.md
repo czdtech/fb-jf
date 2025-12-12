@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: fluffy-mania
-title: '[DE] Fluffy Mania'
+title: "Fluffy Mania"
 description: >-
-  [DE] Fluffy Mania is a cozy match‑and‑clear puzzler — connect cute fluffies,
-  trigger cascades, and chase high scores.
+  Fluffy Mania ist ein gemütliches Verbindepuzzle: Verbinde niedliche Fluffies,
+  löse Kettenreaktionen aus und jag hohen Punktzahlen und Levelzielen hinterher.
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/fluffy-mania.png
 tags:
@@ -14,29 +14,43 @@ score: 4.0/5  (1729 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Fluffy Mania ist ein farbenfrohes, entspanntes Connect-Puzzle. Du verbindest
+benachbarte Fluffies derselben Farbe, um sie vom Brett zu räumen,
+Kettenreaktionen zu erzeugen und Levelziele zu erfüllen – etwa Punktvorgaben,
+Zugbegrenzungen oder das Freilegen spezieller Felder.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Quadrate bilden:** Falls Loops/Quadrate erlaubt sind, räumen sie oft alle
+   Fluffies dieser Farbe ab – extrem wertvoll.
+2. **Lange Ketten aufsparen:** Verschwende große Gruppen nicht zu früh; nutze
+   sie, um enge Zielvorgaben am Ende zu schaffen.
+3. **Von unten spielen:** Matches am unteren Rand erzeugen natürliche
+   Kettenreaktionen darüber.
+4. **Zwei Züge vorausdenken:** Vermeide es, einzelne Steine zu isolieren, die
+   später den Spielfluss blockieren.
+5. **Power-ups gezielt zünden:** Löse sie aus, wenn sie mehrere Zielvorgaben
+   auf einmal voranbringen.
 
-Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑color fluffies to clear them, set up chain reactions, and complete stage goals like score targets, limited moves, or special tile clears.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Verbinden: Klicke/tippe auf einen Fluffy und ziehe über benachbarte
+  Fluffies gleicher Farbe.
+- Rückgängig/Neustart (falls verfügbar): Mit Bedacht einsetzen, besonders in
+  Leveln mit begrenzten Zügen.
 
-1.  **[DE]** Make squares: If rules allow loops/squares, they usually clear all of that color—huge value.
-2.  **[DE]** Save long chains: Don’t waste large groups early; use them to finish strict goals.
-3.  **[DE]** Work from bottom: Bottom clears create natural cascades above.
-4.  **[DE]** Think two moves ahead: Avoid isolating single tiles that clog progress.
-5.  **[DE]** Power‑ups: Trigger them when they open multiple goals at once.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Ich stecke mit einem Zug fest – was tun?**  
+  **A:** Versuche, am unteren Rand zu räumen, um neue Steine nachfallen zu
+  lassen und so frische Kombos zu eröffnen.
 
-- Connect: Click/tap and drag through same‑color neighbors.
-- Undo/Retry (if available): Use with care on limited‑move stages.
+- **F: Bringen Loops wirklich etwas?**  
+  **A:** Wenn sie aktiviert sind, zählen sie zu den stärksten Zügen im Spiel –
+  priorisiere sie, wann immer möglich.
 
-### Frequently Asked Questions (FAQ)
-
-- Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
-- Do loops matter? If enabled, loops are extremely strong—prioritize them.
-- Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
-
+- **F: Gibt es einen Unterschied zwischen Zeit- und Zugleveln?**  
+  **A:** Ja – in Zeitleveln spielt Tempo eine größere Rolle, in
+  Zugbegrenzungsleveln zählt vor allem effiziente Planung.

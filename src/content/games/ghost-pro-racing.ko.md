@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: ghost-pro-racing
-title: '[KO] Ghost Pro Racing'
+title: "Ghost Pro Racing 고스트 타임어택"
 description: >-
-  [KO] Ghost Pro Racing is a time‑trial racer — chase ghost replays, perfect
-  lines, and shave tenths with consistent inputs.
+  유령차 리플레이를 쫓으며 라인을 다듬는 타임어택 레이싱 게임입니다.
+  브레이킹 포인트와 코너 공략선을 익혀 랩타임의 0.1초까지 깎아 보세요.
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
 thumbnail: /new-images/ghost-pro-racing.jpg
 tags:
@@ -15,36 +15,63 @@ score: 3.9/5  (1711 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+`Ghost Pro Racing`은 고스트 리플레이와의 비교를 통해 한 바퀴 한 바퀴의
+일관성을 끌어올리는 데 초점을 맞춘 타임어택 레이싱 게임입니다. 더 빠른 고스트
+차의 궤적을 따라가며 어디서 브레이크를 밟고, 어느 속도로 코너를 지나며,
+언제 가속을 다시 시작해야 하는지 배우게 됩니다. 과감한 dive‑bomb보다 깨끗한
+조작과 반복 가능한 기준점을 세우는 것이 안정적인 개인 기록(PB)을 만드는
+지름길입니다.
 
+### 게임 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1. **랜드마크 잡기**  
+   브레이크를 밟거나 스티어링을 돌리기 시작하는 지점은 트랙의 고정된
+   표식을 기준으로 삼으세요(간판, 커브 색, 그림자 등). 속도계 수치에만
+   의존하면 매 랩마다 타이밍이 흐트러지기 쉽습니다.
 
-Ghost Pro Racing emphasizes hot‑lap consistency against ghost replays. You’ll learn braking points, apex speeds, and throttle pickups while ghost cars show faster lines. Clean inputs and repeatable references beat risky dive‑bombs for stable PBs.
+2. **늦은 에이펙스(Late Apex)**  
+   코너 진입을 한 박자 늦게 시작해, 출구 방향을 더 곧게 만들어 보세요.
+   이렇게 하면 스티어링을 더 빨리 풀 수 있고, 가속 페달을 더 일찍 밟아
+   직선 구간에서 시간을 크게 벌 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+3. **트레일 브레이킹(Trail Braking)**  
+   코너 초반에 브레이크를 완전히 떼지 말고, 가볍게 밟은 상태에서 서서히
+   풀어 주면 앞바퀴 그립이 유지되어 더 날카롭게 돌아갈 수 있습니다.
+   단, 압력을 너무 세게 주면 언더/오버스티어가 나기 쉬우니 살살 조절하는
+   것이 핵심입니다.
 
-1.  **[KO]** Landmarks: Pick fixed track markers for braking/turn‑in; avoid relying on speedometer alone.
-2.  **[KO]** Late apex: Turn a beat later to straighten exits and allow earlier throttle.
-3.  **[KO]** Trail braking: Bleed brake into early corner to keep front grip (light pressure).
-4.  **[KO]** Exit priority: A good exit onto long straights dwarfs small entry gains.
-5.  **[KO]** Ghost study: Follow the ghost’s arc; find where you’re lifting or turning too early.
+4. **출구 우선**  
+   긴 직선으로 이어지는 코너에서는 진입에서 약간 손해를 보더라도 출구를
+   깨끗하게 빠져나오는 것이 더 중요합니다. 출구에서의 속도 차이는 직선
+   전체에서 시간 차이로 누적됩니다.
 
-### Controls Guide
+5. **고스트 분석**  
+   고스트의 라인을 따라가며, 자신이 어디에서 먼저 브레이크를 밟고, 어디에서
+   더 일찍 스티어링을 돌리는지 비교해 보세요. 큰 실수보다 이런 작은 차이가
+   랩타임을 갈라놓는 경우가 많습니다.
 
-- Steer: A/D or Left/Right.  Throttle/Brake: W/S or Up/Down.  Restart: R.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+- 조향: `A/D` 또는 방향키 좌/우  
+- 가속/브레이크: `W/S` 또는 방향키 위/아래  
+- 재시작: `R`
 
-- Q: I keep sliding — fix?
+### 자주 묻는 질문(FAQ)
 
-A: You’re turning too much/too fast. Trail brake lightly and unwind steering sooner on exit.
+- Q: 코너에서 계속 미끄러집니다. 어떻게 해야 하나요?  
+  A: 보통 스티어링을 너무 많이/너무 빨리 돌리는 경우가 많습니다. 코너 초반에는
+  가볍게 트레일 브레이크를 사용해 그립을 유지하고, 출구에서는 스티어링을
+  서서히 풀어 주며 가속하세요.
 
-- Q: Can I beat the ghost?
+- Q: 고스트를 정말 이길 수 있나요?  
+  A: 가능합니다. 한 번에 전체 랩을 빠르게 만들려고 하기보다는, 트랙을 몇 개의
+  섹터로 나눠 한 구간씩 고스트보다 조금씩만 앞서 나가는 연습을 해 보세요.
+  한 섹터에서 앞서기 시작하면, 나머지 구간에서는 무리하지 않고 안정적으로
+  마무리하는 것이 좋습니다.
 
-A: Yes — focus one sector at a time; once you’re ahead, maintain safe exits.
-
-- Q: Best training drill?
-
-A: Ten laps at 90% pace without spins to lock references, then push.
-
+- Q: 연습할 때 어떤 방식이 가장 효과적인가요?  
+  A: 회전이나 스핀 없이 90% 정도의 속도로 10랩 연속 주행해, 브레이크·턴인
+  기준점을 몸에 먼저 익히는 것이 좋습니다. 이후 조금씩 속도를 올리며 한계에
+  가까워지도록 밀어붙이세요.

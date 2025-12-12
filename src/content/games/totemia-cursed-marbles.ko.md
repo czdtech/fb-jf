@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: totemia-cursed-marbles
-title: '[KO] Totemia: Cursed Marbles'
+title: "Totemia: Cursed Marbles 토테미아: 커스드 마블즈"
 description: >-
-  [KO] A classic marble shooter puzzle! Shoot marbles from your tiki stone to
-  create matches of three or more, and destroy the entire chain before it
-  reaches the end of the path.
+  고전 퍼즐 Zuma 스타일의 구슬 쏘기 게임 Totemia: Cursed Marbles입니다. 티키 석상에서 구슬을
+  발사해 같은 색 구슬 세 개 이상을 맞추고, 구슬 줄이 길의 끝에 도달하기 전에 모두 없애야 합니다.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/totemia-cursed-marbles.png
 tags:
@@ -17,33 +16,46 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Totemia: Cursed Marbles는 Zuma, Luxor 같은 고전 구슬 슈터의 계보를 잇는 액션 퍼즐 게임입니다.
+저주받은 색색의 구슬들이 한 줄로 연결되어 비밀 방을 향해 조금씩 굽이친 길을 따라 굴러가고,
+플레이어는 중앙의 티키 석상을 조준해 구슬을 발사합니다. 같은 색 구슬을 세 개 이상 연속으로 맞춰
+없애면서, 줄의 맨 앞 구슬이 길 끝의 구멍에 도달하기 전에 전부 제거하는 것이 목표입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Totemia: Cursed Marbles is a thrilling action-puzzle game in the style of classic marble shooters like Zuma or Luxor. A chain of cursed, colored marbles is rolling along a path towards a secret chamber. You control a powerful tiki stone that shoots marbles. Your objective is to destroy the entire chain by shooting marbles to create matches of three or more of the same color before the first marble reaches the end of the line.
+1.  **콤보를 노려 점수 올리기**: 한 번 구슬을 터뜨렸을 때, 끊어진 양쪽 끝이 같은 색이라면 서로
+    당겨지며 붙으면서 자동으로 추가 매치가 일어나기도 합니다. 이런 연쇄 반응이 바로 콤보이며,
+    점수와 게이지를 빠르게 올리는 핵심입니다. 한 번 터뜨린 뒤 어떤 색 조합이 만들어질지까지
+    생각하며 쏘면 더 큰 콤보를 만들 수 있습니다.
+2.  **틈 사이로 쏘기**: 항상 눈앞의 구슬만 보지 말고, 작은 틈 사이를 통과해 뒤쪽 구슬을 맞추는
+    샷을 연습해 보세요. 멀리 있는 같은 색 구슬을 터뜨리면 앞으로 당겨지면서 추가 매치를 유도해,
+    단 한 발로 큰 효과를 얻을 수 있습니다.
+3.  **특수 구슬 활용하기**: 체인 속에는 불꽃, 번개 등 특별한 아이콘이 붙은 구슬이 등장합니다.
+    이 구슬을 맞추면 일직선으로 구슬을 태워 버리거나, 특정 구간 전체를 제거하는 등 강력한 효과가
+    발동합니다. 위기 상황을 벗어나거나, 길게 이어진 체인을 한 번에 잘라 내는 데 사용해 보세요.
+4.  **구슬 교체(스왑) 기능 사용하기**: 티키 슈터는 보통 현재 발사될 구슬과 다음 구슬 두 개를
+    들고 있습니다. 지금 색이 필요 없다면 교체 버튼(스페이스바 또는 우클릭)을 눌러 더 유리한 색으로
+    바꾼 뒤 쏘는 것이 좋습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Aim for Combos:** The key to a high score and clearing levels efficiently is to create combos. When you pop a group of marbles, the chain will temporarily stop. If the two new ends of the chain are the same color, they will attract each other, pull back, and merge, often creating an automatic new match. This is a combo!
-2.  **[KO]** **Shoot Through Gaps:** Don't be afraid to shoot through small gaps in the chain to reach marbles further back. A well-aimed shot can set up a much more valuable match.
-3.  **[KO]** **Use Power-ups:** Look for special marbles that appear in the chain. Shooting these can grant you powerful abilities, like a Fireball that can destroy any marbles it hits, or a Lightning bolt that zaps a section of the chain.
-4.  **[KO]** **Swap Marbles:** Your tiki shooter often holds two marbles. If the current color isn't useful, you can swap it with the next one to make a better strategic shot.
+*   **조준**: 마우스를 움직여 티키 석상의 조준 방향을 정합니다.
+*   **발사**: 마우스 왼쪽 버튼을 클릭해 구슬을 발사합니다.
+*   **구슬 교체**: 보통 마우스 오른쪽 버튼이나 스페이스바로 현재 구슬과 대기 중인 다음 구슬을
+    서로 교체할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Aim:** Move your mouse to aim the tiki stone shooter.
-*   **[KO]** **Shoot:** Click the left mouse button to fire the marble.
-*   **[KO]** **Swap Marbles:** You can typically right-click or press the spacebar to swap between the two marbles in your shooter.
+*   **Q: 게임의 최종 목표는 무엇인가요?**  
+    *   **A:** 움직이는 구슬 체인의 모든 구슬을, 맨 앞 구슬이 길 끝의 구멍에 도달하기 전에 제거하는
+        것입니다. 한 개라도 구멍에 들어가면 스테이지를 다시 시작해야 합니다.
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 구슬이 구멍에 닿으면 어떻게 되나요?**  
+    *   **A:** 즉시 패배 처리되며, 해당 레벨을 처음부터 다시 도전해야 합니다.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To destroy all the marbles in the moving chain before any single marble reaches the hole at the end of the path.
-
-*   **[KO]** **Q: What happens if a marble reaches the end?**
-    *   **[KO]** **A:** You will lose the level and have to start again.
-
-*   **[KO]** **Q: How do I get the highest score?**
-    *   **[KO]** **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
-
+*   **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**  
+    *   **A:** 연속해서 구슬을 터뜨려 콤보를 만들고, 짧은 시간 안에 많은 구슬을 제거할수록 점수
+        배수가 올라갑니다. 스테이지를 빠르게 클리어하면 추가 시간 보너스를 받는 경우도 있으니,
+        무리하지 않는 선에서 속도도 함께 챙겨 보세요.

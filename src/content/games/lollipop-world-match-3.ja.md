@@ -1,70 +1,39 @@
 ---
+title: "Lollipop World : match 3"
+description: "Lollipop World: Match 3はキャンディパズラーです。パワーアップを組み合わせ、ブロッカーを破壊し、厳しい移動制限内でシーン目標を満たします。"
+iframeSrc: "https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/"
+thumbnail: "/new-images/lollipop-world-match-3.jpg"
+urlstr: "lollipop-world-match-3"
+score: "4.0/5  (1871 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: lollipop-world-match-3
-title: '[JA TRANSLATION NEEDED] Lollipop World : match 3'
-description: >-
-  [JA TRANSLATION NEEDED] Lollipop World: Match 3 is a candy puzzler — combine
-  power‑ups, break blockers, and meet scene goals within tight move limits.
-iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
-thumbnail: /new-images/lollipop-world-match-3.jpg
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.0/5  (1871 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Lollipop Worldは、フロスティング、ラッパー、チョコレートをブロッカーとしたカラフルなマッチ3です。目標は、スコアしきい値からキャンディの収集とゼリーのクリアまで様々です。パワーアップのマージ（爆弾+ライン、カラークリア）は、密集したボードに不可欠です。
 
-[JA TRANSLATION NEEDED] Lollipop World is a colorful match‑3 with frosting, wrappers, and chocolate as blockers. Objectives range from score thresholds to collecting candies and clearing jelly. Power‑up merges (bomb+line, color clears) are essential on dense boards.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  目標焦点：ポイントを追いかける前にブロッカー/収集品をクリアします。
+2.  下部プレイ：カスケードクリアを作成するために低く作業します。
+3.  コンボタイミング：チョークポイントのために強力なマージを保存します。
+4.  壁分離：エッジに沿って色をシールするのを避けます。
+5.  移動計画：オプションを保持するために2〜3移動をマップします。
 
-[JA TRANSLATION NEEDED] 1.  Objective focus: Clear blockers/collectibles before chasing points.
-[JA TRANSLATION NEEDED] 2.  Bottom play: Work low to create cascading clears.
-[JA TRANSLATION NEEDED] 3.  Combo timing: Save strong merges for choke points.
-[JA TRANSLATION NEEDED] 4.  Wall isolation: Avoid sealing colors along edges.
-[JA TRANSLATION NEEDED] 5.  Move planning: Map 2–3 moves to preserve options.
+### 操作ガイド
 
-### Controls Guide
+- スワップするためにドラッグ。パワーアップをタップ。UI経由で一時停止/再試行。
 
-- Drag to swap; tap power‑ups; pause/retry via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 移動制限にヒットします。何が変わりますか？**  
+  A: パワーアップを連鎖させ、スペースをアンロックするブロッカーを優先します。
 
-- Q: I hit move limits — what changes?
-  
-[JA TRANSLATION NEEDED]   A: Chain power‑ups and prioritize blockers that unlock space.
+- **Q: 最高のオープナーは？**  
+  A: カスケードをトリガーするための下部クリア。
 
-- Q: Best opener?
-  
-[JA TRANSLATION NEEDED]   A: Bottom clears to trigger cascades.
-
-- Q: Are diagonals allowed?
-  
-
-
-
-
-
-- Q: I hit move limits — what changes?
-### よくある質問（FAQ）
-- Drag to swap; tap power‑ups; pause/retry via UI.
-### コントロールガイド
-- Move planning: Map 2–3 moves to preserve options.
-[JA TRANSLATION NEEDED]   A: Typically no; check mode rules.
-
-
-
-
-
-
-A: Typically no; check mode rules.
-- Q: Are diagonals allowed?
-A: Bottom clears to trigger cascades.
-- Q: Best opener?
-
-
-A: Typically no; check mode rules.
+- **Q: 斜めは許可されていますか？**  
+  A: 通常いいえ。モードルールを確認してください。

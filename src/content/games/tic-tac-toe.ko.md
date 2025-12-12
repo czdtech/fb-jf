@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tic-tac-toe
-title: '[KO] Tic-Tac-Toe'
+title: "Tic-Tac-Toe 틱택토"
 description: >-
-  [KO] Tic-Tac-Toe is the classic strategy game where two players take turns
-  placing X's and O's on a 3x3 grid, aiming to be the first to get three symbols
-  in a row, column, or diagonal.
+  고전 전략 보드게임 Tic-Tac-Toe(틱택토)를 즐길 수 있는 3x3 퍼즐입니다. 두 플레이어가
+  번갈아 X와 O를 두어 가로, 세로, 대각선 어느 한 줄이라도 먼저 완성하면 승리합니다.
 iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
 thumbnail: /new-images/tic-tac-toe.jpg
 tags:
@@ -17,34 +16,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
+"Tic-Tac-Toe"는 3x3 격자에 두 사람이 번갈아 X와 O를 두면서, 가로·세로·대각선 중 한 줄을 먼저
+완성하는 사람이 이기는 고전 전략 게임입니다. 규칙은 단순하지만, 상대의 수를 읽고 미리 막는
+전략적 사고가 중요한 두뇌 싸움입니다.
 
+### 플레이 전략
 
-### Game Introduction
+1.  **중앙을 먼저 차지하기**: 가능하다면 가장 먼저 중앙 칸을 선점하세요. 중앙은 여러 방향의
+    승리 패턴과 연결되어 가장 많은 기회를 제공합니다.
+2.  **상대의 3줄을 우선 차단하기**: 항상 상대가 곧 3칸을 잇게 되는 패턴이 있는지 먼저 확인하고,
+    그 줄을 막는 수를 최우선으로 두세요.
+3.  **이중 위협 만들기**: 한 번에 두 개 이상의 승리 루트를 동시에 만들면 상대가 모두 막을 수
+    없습니다. 한 수로 여러 줄을 노릴 수 있는 수를 찾아 보세요.
+4.  **코너의 우선순위**: 중앙이 이미 차지되었다면 모서리(코너) 칸이 변보다 유리합니다. 코너를 잘
+    활용하면 대각선과 가로·세로 라인을 동시에 노릴 수 있습니다.
+5.  **선공과 후공의 전략 차이**: 선공일 때는 공격적으로 승리 패턴을 만들고, 후공일 때는 상대의
+    승리 루트를 차단하는 데 집중하는 것이 좋습니다.
 
-"Tic-Tac-Toe" is the classic strategy game where two players take turns placing X's and O's on a 3x3 grid, aiming to be the first to get three symbols in a row, column, or diagonal. While the rules are simple, the game contains rich strategic thinking.
+### 플레이 방법
 
-### Gameplay Strategy
+*   **칸 선택하기**: 3x3 격자의 빈 칸을 클릭해 자신의 기호(X 또는 O)를 놓습니다.
+*   **번갈아 두기**: 플레이어끼리 또는 AI와 번갈아 한 수씩 두면서 판을 채워 나갑니다.
+*   **상황 관찰하기**: 현재 어떤 줄이 2칸까지 채워져 있는지, 어디를 막거나 노려야 할지 항상
+    확인하면서 수를 두세요.
 
-1.  **[KO]** **Occupy Center**: If possible, prioritize taking the center position, which provides the most winning opportunities.
-2.  **[KO]** **Block Opponents**: Always watch if opponents are about to win and block their three-in-a-row attempts.
-3.  **[KO]** **Create Threats**: Try to create multiple winning threats simultaneously so opponents can't block them all.
-4.  **[KO]** **Corner Priority**: After the center is taken, corner positions are more advantageous than edge positions.
-5.  **[KO]** **First-Move Advantage**: As the first player, be aggressive; as the second player, focus on defense.
+### 자주 묻는 질문(FAQ)
 
-### How to Play
-
-*   **[KO]** **Select Position**: Click on empty squares in the 3x3 grid to place your symbol.
-*   **[KO]** **Take Turns**: Alternate moves with AI or other players.
-*   **[KO]** **Observe Situation**: Carefully observe the current board state, looking for winning or blocking opportunities.
-
-### Frequently Asked Questions
-
-1.  **[KO]** **Q: Does the first player have an advantage?**
-**A**: Theoretically, the first player (usually X) has a slight advantage, but perfect play results in a draw.
-2.  **[KO]** **Q: Is there a guaranteed winning strategy?**
-**A**: For experienced players, games typically end in draws because optimal strategies cancel each other out.
-3.  **[KO]** **Q: How can I improve my win rate?**
-**A**: Learn basic strategies like prioritizing center, blocking opponents, and creating fork threats.
-4.  **[KO]** **Q: Are there variant rules?**
-**A**: Some versions offer larger grids (like 4x4 or 5x5) or require more symbols in a row to win.
+1.  **Q: 선공이 유리한가요?**  
+    **A:** 이론적으로는 먼저 두는 플레이어(X)가 약간 유리하지만, 양쪽이 완벽하게 두면 항상 무승부로
+    끝납니다.
+2.  **Q: 무조건 이기는 공식 같은 것이 있나요?**  
+    **A:** 숙련자끼리라면 서로 최선의 수를 두기 때문에 대부분 비기게 됩니다. 다만 중앙 선점과
+    이중 위협 만들기 같은 기본 전략을 익히면 승률을 크게 올릴 수 있습니다.
+3.  **Q: 실력을 빨리 늘리려면 어떻게 해야 하나요?**  
+    **A:** 플레이 후에 각 판을 다시 되돌아보며 "여기서 다른 수를 두었으면?"을 생각해 보세요.
+    중앙·코너 우선 전략과 상대의 3줄 차단 습관만 들여도 초보 상대에게는 거의 지지 않게 됩니다.
+4.  **Q: 변형 룰도 있나요?**  
+    **A:** 일부 버전에서는 4x4, 5x5 같은 더 큰 격자에서 플레이하거나, 더 많은 칸을 연속으로
+    이어야 이기는 모드도 제공됩니다.

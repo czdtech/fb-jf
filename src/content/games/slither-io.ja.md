@@ -1,72 +1,50 @@
 ---
-locale: ja
+title: Slither.io
+description: Slither.ioはクラシックなヘビ成長ゲームです。ペレットを食べ、成長し、対戦相手を閉じ込め、最長のヘビになります。
+iframeSrc: 'https://slitherio.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+thumbnail: /new-images/slither-io.png
 urlstr: slither-io
-title: '[JA TRANSLATION NEEDED] Slither.io'
-description: >-
-  [JA TRANSLATION NEEDED] Slither.io is a popular multiplayer online game where
-  players control a snake-like avatar, consuming glowing orbs to grow larger
-  while avoiding collisions with other players in an endless arena battle for
-  supremacy.
-iframeSrc: >-
-  https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
-thumbnail: /new-images/slither-io.jpg
+score: 4.5/5  (4567 votes)
 tags:
-  - multiplayer
-  - io game
-  - competitive
-score: 4.8/5  (1149 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+  - 2 player
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Slither.ioは、クラシックなヘビゲームをマルチプレイヤーアリーナに持ち込みます。ペレットを食べて成長し、他のヘビを閉じ込めて排除し、リーダーボードを登ります。シンプルなゲームプレイ、深い戦略。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **ペレットを食べる:" 小さなペレットで安全に成長します。
+2.  **対戦相手を閉じ込める:" 彼らの前で円を描きます。
+3.  **大きいものを避ける:" より大きなヘビから離れます。
+4.  **ブーストを賢く使用:" 脱出または攻撃します。
+5.  **エッジをプレイ:" 壁が閉じ込めを助けます。
+
+### 操作ガイド
+
+- マウス/タッチ：ヘビを移動します。
+- クリック/タップ：スピードブースト（長さを失います）。
+- ペレットを食べて成長します。
+
+### よくある質問 (FAQ)
+
+- **Q: ブーストはいつ使用すべきですか？**  
+  A: 危険から逃れるため、または対戦相手を閉じ込めるため。
+- **Q: 最長のヘビはどれくらいですか？**  
+  A: 技術的に無限、しかし最終的に他の人がヒットします。
+- **Q: シングルプレイヤーモードはありますか？**  
+  A: いいえ、これはマルチプレイヤーのみです。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Slither.io" is a popular multiplayer online game where players control a snake-like avatar, consuming glowing orbs to grow larger while avoiding collisions with other players. In this endless arena, players compete for dominance with the goal of becoming the biggest and longest snake.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Safe Growth**: Focus on collecting small orbs in early game, avoiding contact with large snakes.
-[JA TRANSLATION NEEDED] 2.  **Cutting Tactics**: When you're large enough, try to cut off other snakes' paths to make them crash into you.
-[JA TRANSLATION NEEDED] 3.  **Boost Technique**: Use the boost function wisely to escape danger or capture prey, but note it consumes body length.
-[JA TRANSLATION NEEDED] 4.  **Border Utilization**: Use map boundaries to protect one side, reducing the risk of being surrounded.
-[JA TRANSLATION NEEDED] 5.  **Patient Waiting**: Wait for other snakes to make mistakes, then collect the large amount of orbs they leave behind.
-
-### How to Play
-
-*   **Movement**: Use mouse to control snake movement direction; the snake head follows the mouse pointer.
-*   **Boost**: Hold left mouse button or spacebar to accelerate movement.
-*   **Observation**: Use mouse wheel or keys to zoom view (in some versions).
-
-
-
-- **Patient Waiting**: Wait for other snakes to make mistakes, then collect the large amount of orbs they leave behind.
-- **Border Utilization**: Use map boundaries to protect one side, reducing the risk of being surrounded.
-### Frequently Asked Questions
-
-
-
-
-
-
-- **Q: How do I grow quickly?**
-### よくある質問
-- **Observation**: Use mouse wheel or keys to zoom view (in some versions).
-- **Boost**: Hold left mouse button or spacebar to accelerate movement.
-
-### よくある質問
-- **Movement**: Use mouse to control snake movement direction; the snake head follows the mouse pointer.
-[JA TRANSLATION NEEDED] 1.  **Q: How do I grow quickly?**
-
-- **Q: What do I do when surrounded?**
-[JA TRANSLATION NEEDED]     **A**: Look for orb piles left by recently deceased large snakes; these provide significant growth points.
-
-- **Q: What are the consequences of boosting?**
-[JA TRANSLATION NEEDED] 2.  **Q: What do I do when surrounded?**
+**A**: Yes, the game displays rankings of the largest snakes on the current server.
 
 - **Q: Is there a leaderboard in the game?**
-[JA TRANSLATION NEEDED]     **A**: Use boost to break through the encirclement, or try to hug other snakes' bodies to find gaps.
-[JA TRANSLATION NEEDED] 3.  **Q: What are the consequences of boosting?**
-[JA TRANSLATION NEEDED]     **A**: Boosting consumes your body length, so use it cautiously at critical moments.
-[JA TRANSLATION NEEDED] 4.  **Q: Is there a leaderboard in the game?**
-[JA TRANSLATION NEEDED]     **A**: Yes, the game displays rankings of the largest snakes on the current server.
+
+
+**A**: Yes, the game displays rankings of the largest snakes on the current server.

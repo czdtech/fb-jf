@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: pac-man
-title: '[ES] PAC-MAN'
+title: "PAC-MAN - Clásico arcade comefantasmas"
 description: >-
-  [ES] PAC-MAN is a classic arcade maze game where players control Pac-Man,
-  navigating a labyrinth to eat all the pellets while avoiding four colorful
-  ghosts. Eating power pellets allows Pac-Man to temporarily turn the tables and
-  eat the ghosts.
+  PAC-MAN es el clásico juego de laberintos de recreativa en el que controlas a
+  Pac-Man para recorrer el mapa comiendo todos los puntos mientras esquivas a
+  cuatro fantasmas de colores. Al comer las bolitas de poder, Pac-Man puede
+  darles la vuelta a las tornas y zamparse a los fantasmas.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/pac-man.jpg
 tags:
@@ -19,31 +19,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+"PAC-MAN" es un clásico absoluto de los salones recreativos. Controlas al
+icónico Pac-Man amarillo moviéndote por un laberinto con el objetivo de comerte
+todos los puntos. Al mismo tiempo, debes esquivar a cuatro fantasmas de colores
+—Blinky, Pinky, Inky y Clyde— que intentan atraparte. Cuando Pac-Man come una
+bolita de poder, los fantasmas se vuelven vulnerables durante unos segundos y
+puedes perseguirlos para conseguir puntos extra.
 
-### Game Introduction
+### Estrategia de juego
 
-"PAC-MAN" is a classic arcade maze game. Players control the yellow Pac-Man, moving through a complex labyrinth with the objective of eating all the pellets. Simultaneously, players must evade four colorful ghosts—Blinky, Pinky, Inky, and Clyde. When Pac-Man eats a power pellet, he can temporarily turn the tables and pursue and eat the ghosts for extra points.
+1.  **Entender el comportamiento de los fantasmas:** cada uno tiene un patrón de
+    IA distinto. Blinky (rojo) persigue directamente, Pinky (rosa) intenta
+    emboscar, Inky (azul claro) combina varios factores para moverse y Clyde
+    (naranja) tiende a deambular.
+2.  **Aprovechar las bolitas de poder:** tras comer una bolita grande, ve
+    inmediatamente a por los fantasmas para sumar muchos puntos; cuantos más
+    comas seguidos, mayor será la recompensa.
+3.  **Planear rutas:** traza tu recorrido pensando en no quedar acorralado;
+    utiliza pasillos largos y giros estratégicos para despistar a los fantasmas.
+4.  **Usar los túneles:** los túneles laterales permiten a Pac-Man cruzar de un
+    lado al otro del laberinto rápidamente, útiles tanto para huir como para
+    contraatacar.
+5.  **Priorizar las bolitas grandes:** guárdalas o cógelas en el momento justo
+    para poder limpiar zonas peligrosas con los fantasmas en modo vulnerable.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Understand Ghost Behavior**: Each ghost has its unique AI pattern. Blinky (red) is a chaser, Pinky (pink) tries to ambush, Inky (light blue) has more complex movements, and Clyde (orange) tends to wander randomly.
-2.  **[ES]** **Utilize Power Pellets**: After eating a power pellet, immediately chase and eat the ghosts for high scores. The more ghosts eaten, the higher the score.
-3.  **[ES]** **Plan Routes**: When moving through the maze, plan your route in advance to avoid being cornered by ghosts.
-4.  **[ES]** **Use Tunnels**: The tunnels at both ends of the maze allow Pac-Man to quickly move from one side to the other, useful for evading or counter-attacking ghosts.
-5.  **[ES]** **Prioritize Large Pellets**: Power pellets (large pellets) are crucial for turning the tide and should be prioritized.
+*   **Movimiento:** usa las flechas del teclado (arriba, abajo, izquierda,
+    derecha) para dirigir a Pac-Man por el laberinto.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How many levels are there in "PAC-MAN"?**
-**A**: The original "PAC-MAN" has 256 levels, but due to a programming error in level 256, it often results in a "kill screen" or "split screen," preventing the game from progressing normally.
-2.  **[ES]** **Q: What are the names and colors of the ghosts?**
-**A**: The four ghosts are: Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange).
-3.  **[ES]** **Q: What happens to the ghosts after eating a power pellet?**
-**A**: After eating a power pellet, the ghosts turn dark blue and can be eaten by Pac-Man. They will flee and return to their normal state after a period.
-4.  **[ES]** **Q: Is the objective of the game to eat all the pellets?**
-**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
+1.  **P: Cuántos niveles tiene el PAC-MAN original?**  
+    **R:** El juego clásico tiene 256 niveles; debido a un bug en el nivel 256,
+    aparece la famosa "kill screen" o pantalla dividida, que impide seguir
+    jugando con normalidad.
+2.  **P: Cómo se llaman los fantasmas y qué color tienen?**  
+    **R:** Blinky (rojo), Pinky (rosa), Inky (azul claro) y Clyde (naranja).
+3.  **P: Qué pasa con los fantasmas al comer una bolita de poder?**  
+    **R:** Se vuelven de color azul oscuro y pueden ser comidos por Pac-Man;
+    pasado un tiempo, recuperan su comportamiento normal.
+4.  **P: El objetivo es solo comerse todos los puntos?**  
+    **R:** Sí, en cada nivel debes comer todos los puntos pequeños y las
+    bolitas de poder para pasar al siguiente laberinto.

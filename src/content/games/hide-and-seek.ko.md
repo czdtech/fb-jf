@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: hide-and-seek
-title: '[KO] Hide And Seek!'
+title: "Hide And Seek! 술래잡기 스텔스"
 description: >-
-  [KO] Casual stealth‑tag: as a hider, blend and collect; as a seeker, use
-  vision cones and sprints to catch everyone before time runs out.
+  술래잡기를 탑다운 스텔스 액션으로 재해석한 캐주얼 게임입니다. 숨는
+  플레이어는 NPC 사이에 섞여 목표를 수행하고, 술래는 시야와 스프린트를
+  활용해 제한 시간 안에 모두 찾아야 합니다.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/hide-and-seek.jpg
@@ -19,27 +20,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Hide and Seek! adapts playground tag into top‑down stealth. Hiders blend among NPCs, gather items, and finish objectives while avoiding the seeker’s patrol. As the seeker, you watch movement patterns, use sprints or gadgets, and flush out suspicious players before the timer ends.
+### 게임 개요
 
-### How to Play
-- As a hider: move with the crowd, complete tasks, and break line‑of‑sight when chased.
-- As a seeker: learn map chokepoints, check objectives, and react to odd pathing.
-- Power‑ups provide short invisibility, speed, or reveals depending on mode.
+`Hide and Seek!`는 놀이터의 술래잡기를 탑다운 스텔스 게임으로 옮겨온 작품입니다.
+숨는 쪽(Hider)은 일반 NPC들 사이에 섞여 자연스럽게 움직이며 아이템을 모으고
+목표를 완료해야 하고, 술래(Seeker)는 의심스러운 움직임을 포착해 제한 시간 안에
+모든 플레이어를 찾아내야 합니다.
 
-### Controls
-- WASD/Arrows to move; action key for power‑ups (host dependent).
+### 플레이 방법
 
-### Tips
-- Hiders: mimic NPC pauses and turns; sprint only when necessary.
-- Seekers: circle objectives; real players hesitate at corners and doors.
-- Use audio/visual tells like sudden direction changes.
+- **숨는 쪽(Hider)**: 군중과 비슷한 속도와 회전 패턴으로 움직이며, 화면에
+  표시된 목표 지점을 조용히 처리하세요. 쫓기게 되면 장애물을 이용해 시야를
+  끊고, 코너를 돌아 사라지는 것이 중요합니다.
+- **술래(Seeker)**: 맵의 병목 지점과 목표 지점을 중심으로 순찰하며, NPC답지
+  않은 경로(짧은 지름길, 갑작스러운 회전 등)를 보이는 캐릭터를 집중적으로
+  추적하세요.
+- 파워업은 짧은 은신, 이동 속도 증가, 플레이어 위치 표시 등 모드에 따라
+  다양한 효과를 제공하므로, 중요한 순간까지 아껴 쓰는 것이 좋습니다.
 
-### FAQ
-- Q: How do I avoid being caught as a hider?
-A: Blend in—match NPC cadence, avoid straight sprints, and use obstacles to break vision.
-- Q: What is the best seeker strategy on new maps?
-A: Patrol objectives and chokepoints first, then sweep open spaces.
-- Q: Do power‑ups respawn during a match?
-A: Many modes respawn items on timers; learn locations.
+### 조작 방법
 
+- WASD 또는 방향키로 이동합니다.
+- 파워업 사용 키는 호스트별로 다르며, 게임 내 안내를 참고하세요.
+
+### 플레이 팁
+
+- 숨는 쪽은 NPC가 멈춰 서거나 방향을 바꾸는 리듬을 잘 관찰한 뒤, 비슷한
+  타이밍으로 행동해야 눈에 띄지 않습니다. 스프린트는 반드시 필요할 때만
+  사용하세요.
+- 술래는 목표 지점 주변을 원형으로 돌며 감시하면, 실제 플레이어가 잠시
+  망설이는 움직임을 쉽게 포착할 수 있습니다.
+- 갑작스러운 방향 전환이나 속도 변화 등 시각·청각 신호를 잘 관찰하면
+  플레이어와 NPC를 구분하는 데 도움이 됩니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 숨는 쪽일 때 어떻게 하면 잡히지 않을 수 있나요?  
+  A: 최대한 NPC의 움직임 패턴을 따라 하면서, 직선 전력질주를 피하고,
+  추격당하면 장애물 뒤로 숨어 시야를 끊는 것이 중요합니다.
+
+- Q: 새로운 맵에서 술래로 플레이할 때 어떤 전략이 좋나요?  
+  A: 먼저 목표 지점과 병목 구간(좁은 통로, 문)을 중심으로 순찰한 뒤, 나머지
+  열린 공간을 훑어보는 방식이 효율적입니다.
+
+- Q: 파워업은 한 번 쓰면 끝인가요, 다시 나오나요?  
+  A: 많은 모드에서 아이템은 일정 시간 이후 다시 생성됩니다. 주요 위치를
+  외워 두면 파워업을 안정적으로 회수할 수 있습니다.

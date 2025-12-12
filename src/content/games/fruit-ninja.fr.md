@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: fruit-ninja
-title: '[FR] Fruit Ninja'
-description: >-
-  [FR] Arcade slicing: swipe through flying fruit while avoiding bombs; chain
-  combos and frenzy boosts for higher scores.
+title: "Fruit Ninja"
+description: "Arcade de découpe culte : tranche les fruits en plein vol en évitant les bombes, enchaîne les combos et profite des modes frénésie pour booster ton score."
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/fruit-ninja.jpg
 tags:
@@ -15,30 +13,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Fruit Ninja est un jeu d’arcade où tu dois trancher les fruits en plein vol d’un simple swipe. Le but est d’en couper un maximum tout en évitant les bombes. Les combos, coups critiques et bonus frénésie te permettent de faire exploser ton score. Selon l’hébergeur, tu peux retrouver différents modes comme Classic, Arcade ou Zen.
 
+### Comment jouer
 
-### Overview
-Swipe to slice fruit mid‑air. Avoid bombs and aim for combos and criticals. Modes vary by host (classic, arcade, zen).
+- Trace des lignes rapides et nettes à travers plusieurs fruits pour obtenir des points de combo.
+- Laisse passer les bombes : les toucher met fin à la partie ou te pénalise fortement selon le mode.
+- Profite des bananes frénésie (quand elles existent) pour déclencher des vagues de fruits et construire de longues chaînes.
 
-### How to Play
-- Draw swift, clean lines through multiple fruit for combo points.
-- Let bombs pass; hitting one ends runs or deducts heavily.
-- Time frenzy bananas (when present) for massive chains.
+### Commandes
 
-### Controls
-- Mouse/Touch swipes to slice; pause/retry via UI.
+- Souris / écran tactile : glisse pour trancher les fruits.  
+- Pause / recommencer : via les boutons de l’interface.
 
-### Tips
-- Aim to intersect as many fruit trajectories as possible per stroke.
-- Use diagonal swipes; they cross more spawn arcs.
-- In Zen‑style modes, optimize pathing since bombs are absent.
+### Astuces
 
-### FAQ
-- Q: How do I score combos consistently?
-A: Wait half a beat to line up two or more fruit before swiping.
-- Q: What happens if I hit a bomb?
-A: Depending on mode, the run ends or you lose points/time.
-- Q: Are there different modes available?
-A: Many hosts include Classic, Arcade (with power‑ups), and Zen.
+- Essaie de croiser le maximum de trajectoires de fruits avec chaque coup de lame.
+- Privilégie les swipes diagonaux : ils traversent davantage de trajectoires de fruits que les lignes horizontales ou verticales.
+- En mode Zen (sans bombes), concentre‑toi sur l’optimisation de tes trajectoires et des combos, puisque le risque principal disparaît.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment enchaîner les combos de façon régulière ?
+  
+  R : Attends une demi‑seconde pour que deux fruits (ou plus) s’alignent avant de trancher, au lieu de les couper un par un.
+
+- Q : Que se passe‑t‑il si je touche une bombe ?
+  
+  R : Selon le mode, la partie se termine immédiatement ou tu perds des points / du temps.
+
+- Q : Quels sont les modes disponibles ?
+  
+  R : De nombreux hébergeurs proposent Classic, Arcade (avec des power‑ups comme les bananes frénésie) et Zen, qui est un mode plus relax sans bombes.
 

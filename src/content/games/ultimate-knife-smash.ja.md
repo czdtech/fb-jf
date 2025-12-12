@@ -1,63 +1,52 @@
 ---
-locale: ja
+title: Ultimate Knife Smash
+description: Ultimate Knife Smashは、ナイフ投げゲームです。タイミングよくナイフを投げて的に刺しましょう。
+iframeSrc: 'https://ubg98.github.io/UltimateKnifeSmash/'
+thumbnail: /new-images/ultimate-knife-smash.jpg
 urlstr: ultimate-knife-smash
-title: '[JA TRANSLATION NEEDED] Ultimate Knife Smash'
-description: >-
-  [JA TRANSLATION NEEDED] Ultimate Knife Smash is a quick‑reflex thrower — time
-  stabs, avoid hitting knives, and break targets cleanly.
-iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
-thumbnail: /new-images/ultimate-knife-smash.png
+score: 4.3/5  (2456 votes)
 tags:
-  - action
+  - arcade
+  - timing
   - casual
-score: 4.0/5  (1749 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Ultimate Knife Smashは、タイミングが重要なナイフ投げアーケードゲームです。回転する的にナイフを刺し、他のナイフに当たらないようにしましょう。
+
+### ゲームプレイガイド
+
+ - **タイミングを計る：** 的の回転を観察します
+ - **ナイフを投げる：** タップして投げます
+ - **当たらないように：** 既に刺さっているナイフを避けます
+ - **すべて刺す：** すべてのナイフを的に刺します
 
 
-### Detailed Game Introduction
+- Boss targets: Later stages may require extra hits—pace your throws.
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] Ultimate Knife Smash is a timing‑based arcade game. Throw knives into a spinning target without striking existing blades. The rotation speed and direction often change, demanding clean timing, rhythm, and risk control for combo stages.
+ - **マウス/タッチ：** タップまたはクリックでナイフを投げる
 
-### Gameplay Strategy & Walkthrough
 
-[JA TRANSLATION NEEDED] 1.  Watch rotations: Note speed shifts and direction flips before committing throws.
-[JA TRANSLATION NEEDED] 2.  Count beats: Use a consistent cadence; throw on the same slice of the rotation.
-[JA TRANSLATION NEEDED] 3.  Aim gaps: Target wide openings first; save tight gaps for slow rotations.
-[JA TRANSLATION NEEDED] 4.  Don’t rush: Missing a cycle is better than forcing a risky throw.
-[JA TRANSLATION NEEDED] 5.  Boss targets: Later stages may require extra hits—pace your throws.
-
-### Controls Guide
-
-- Throw: Click/tap to launch a knife when the gap aligns.
 - Pause/Retry: Use UI controls to restart.
-
-### Frequently Asked Questions (FAQ)
-
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
-
-
-
-
-
-
-
-
-
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
 ### よくある質問（FAQ）
-- Pause/Retry: Use UI controls to restart.
-- Throw: Click/tap to launch a knife when the gap aligns.
-### コントロールガイド
-
-
 
 
 - Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
+
 - Does rotation change? Often yes; be ready for speed spikes and direction flips.
+
 - Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
+**ゲームの目標は何ですか？**
+
+すべてのナイフを的に刺し、他のナイフに当てないことです。
+
+**ナイフに当たったらどうなりますか？**
+
+ゲームオーバーになり、レベルを再スタートします。
+
+**難易度は上がりますか？**
+
+はい、的の回転速度が変わり、ナイフの数が増えます。

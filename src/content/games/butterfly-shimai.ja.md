@@ -1,82 +1,42 @@
 ---
+title: "Butterfly Shimai バタフライ姉妹"
+description: "「Butterfly Shimai」は美しい蝶のパズルアドベンチャー！同じ羽根をつなげて、蝶を大空へ羽ばたかせよう。リラックスしながら楽しめる二角取りパズル。"
+iframeSrc: "https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/"
+thumbnail: "/new-images/butterfly-shimai.png"
+urlstr: "butterfly-shimai"
+score: "4.6/5  (2100 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: butterfly-shimai
-title: '[JA TRANSLATION NEEDED] Butterfly Shimai'
-description: >-
-  [JA TRANSLATION NEEDED] Soar into a beautiful puzzle adventure with Butterfly
-  Shimai! Connect matching butterfly wings to make them fly away and clear the
-  board.
-iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
-thumbnail: /new-images/butterfly-shimai.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.6/5  (2100 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Butterfly Shimai（バタフライ姉妹）*は、麻雀牌パズル（四川省や二角取りと呼ばれるジャンル）の要素を取り入れた、魅力的でリラックスできるパズルゲームです。
+ボード上には美しい蝶の「羽根」がたくさん並んでいます。プレイヤーの目的は、同じ種類の羽根のペアを見つけ出し、つなぎ合わせることです。ペアになると羽根は完全な蝶となって、美しく空へと飛び去っていきます。
 
-[JA TRANSLATION NEEDED] Butterfly Shimai is a captivating and relaxing puzzle game that combines elements of Mahjong and connect-2 mechanics. The game presents you with a board filled with beautiful butterfly wings. Your objective is to find and connect pairs of identical wings to make them form a complete butterfly and fly away, clearing the board. The challenge lies in the connection rule: wings can only be paired if a path can be drawn between them with no more than two turns, and without passing through any other wings. With a time limit for each level, you need to be quick and strategic to clear all the butterflies.
+このゲームのルールはシンプルですが奥が深いです。ペアをつなぐ線が「2回以内の屈折（曲がり角）」で結べる場合のみ、消すことができます。他の羽根が邪魔しているとつなげません。制限時間内にすべての蝶を解放してあげましょう。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  **Scan for Obvious Matches:** Start by looking for pairs of wings that are directly adjacent or have a clear, straight path between them. These are the easiest to clear and will open up the board.
-[JA TRANSLATION NEEDED] 2.  **Prioritize Edges and Corners:** Wings located on the edges and corners of the board are often easier to connect as they have fewer blocking tiles around them. Clearing these first can create more opportunities.
-[JA TRANSLATION NEEDED] 3.  **Look for Two-Turn Paths:** Remember the connection rule: a path can have up to two turns. Visualize these paths to find less obvious matches.
-[JA TRANSLATION NEEDED] 4.  **Use Hints Wisely:** If you get stuck, the game usually provides a hint button. Use it when you're truly stumped, but try to solve puzzles on your own to improve your observation skills.
-[JA TRANSLATION NEEDED] 5.  **Time Management:** Keep an eye on the timer. Making matches adds a small amount of time back, so quick and continuous matching is key to completing levels.
+1.  **隣り合うペアを探す:** 最も簡単なマッチは、隣り合っている同じ羽根や、一直線で結べるペアです。まずはこれらを消してスペースを空けましょう。
+2.  **端と角（カド）を優先:** ボードの外周（端っこ）にある羽根は、邪魔なタイルが片側に無いため、つなぎやすい傾向にあります。ここから崩していくとチャンスが広がります。
+3.  **「コの字」型をイメージする:** ルールである「2回までの屈折」は、アルファベットの「U」や「コ」の字のようなルートをイメージすると見つけやすくなります。
+4.  **ヒントを使う:** どうしても手詰まりになったら、ヒントボタンを使いましょう。ただし、自力で見つけるほうが観察力も鍛えられますし、楽しいです。
+5.  **時間を意識する:** 制限時間があります。ペアを見つけて蝶を飛ばすと、時間が少しだけ回復します。迷わずに次々とマッチさせていくことがクリアの鍵です。
 
-### Controls Guide
+### 操作ガイド
 
-*   **Select and Connect:** Use your mouse to click on the first butterfly wing, then click on its identical matching wing. If a valid path exists, the butterflies will fly away.
-    - **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.（日本語訳が必要）
-    - **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.（日本語訳が必要）
-    - **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.（日本語訳が必要）
-    - **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.（日本語訳が必要）
-    - **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.（日本語訳が必要）
-    - **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.（日本語訳が必要）
+*   **選択と接続:** マウスを使って、まず片方の羽根をクリックし、次にもう片方の同じ羽根をクリックします。ルートが有効であれば蝶になって飛んでいきます。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-*   **Q: What is the goal of Butterfly Shimai?**
-[JA TRANSLATION NEEDED]     *   **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
+*   **Q: ゲームの目的は？**
+    *   **A:** 制限時間内に、ボード上のすべての羽根をペアにして消すことです。
 
-*   **Q: What are the rules for connecting wings?**
-[JA TRANSLATION NEEDED]     *   **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
+*   **Q: 羽根をつなぐルールは？**
+    *   **A:** 2つの同じ羽根の間を、他の羽根にぶつからずに、「曲がり角が2回以内の線」で結べる場合に消すことができます。
 
-*   **Q: What happens if I run out of time?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
-- **Q: What happens if I run out of time?**
-    - **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
-- **Q: What are the rules for connecting wings?**
-    - **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
-- **Q: What is the goal of Butterfly Shimai?**
-### よくある質問（FAQ）
-- **Select and Connect:** Use your mouse to click on the first butterfly wing, then click on its identical matching wing. If a valid path exists, the butterflies will fly away.
-### コントロールガイド
-- **Time Management:** Keep an eye on the timer. Making matches adds a small amount of time back, so quick and continuous matching is key to completing levels.
-
-
-
-
-
-    - **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
-- **Q: What happens if I run out of time?**
-    - **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
-- **Q: What are the rules for connecting wings?**
-    - **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
-[JA TRANSLATION NEEDED]     *   **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
-
+*   **Q: 時間切れになるとどうなりますか？**
+    *   **A:** タイムオーバーとなり、そのレベルを最初からやり直す必要があります。

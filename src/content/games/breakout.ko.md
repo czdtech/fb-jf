@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: breakout
-title: '[KO] Breakout'
+title: 'Breakout 브레이크아웃'
 description: >-
-  [KO] Control the paddle, bounce the ball, and destroy all the bricks in the
-  classic arcade game, Breakout. Learn tips and tricks to master this timeless
-  block-breaker.
+  패들을 움직여 공을 튕기고 위쪽의 벽돌을 모두 부수는 고전 아케이드 게임
+  Breakout입니다. 각도 조절과 터널 전략을 익혀, 시대를 초월한 블록 브레이커의
+  손맛을 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/breakout.jpg
 tags:
@@ -15,53 +15,83 @@ score: 3.8/5  (494 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Breakout은 아케이드 역사에서 큰 영향을 끼친 대표적인 벽돌 깨기 게임입니다.
+개념은 아주 간단하지만, 한 번 빠지면 계속 하게 되는 중독성을 갖고 있습니다.
+플레이어는 화면 아래쪽의 가로 패들을 움직여 튕겨 나오는 공을 받아 치고, 화면
+위쪽에 배열된 벽돌에 공을 맞혀 하나씩 제거해야 합니다.
 
+공이 벽돌에 닿을 때마다 해당 벽돌은 사라지고 점수가 올라갑니다. 이후 공은 다시
+화면 아래로 되돌아오며, 플레이어는 패들을 좌우로 이동시켜 공이 바닥 밖으로
+떨어지지 않도록 계속 받아 쳐야 합니다. 일반적으로 제한된 목숨(예: 3개) 안에서
+모든 벽돌을 제거하지 못하면 게임 오버가 됩니다.
 
+벽돌이 줄어들수록 공의 속도가 빨라지는 경우가 많아, 후반으로 갈수록 난이도가
+급격히 올라갑니다. 공의 궤적을 원하는 방향으로 조절하면서, 실수 없이 화면을
+정리하는 것이 가장 큰 도전입니다.
 
+### 플레이 전략
 
-### Game Introduction
+-   **반사 각도 컨트롤 익히기**  
+    Breakout에서 가장 중요한 기술은 공이 패들을 맞고 튕겨 나가는 **각도**를
+    조절하는 것입니다.
+    -   패들 중앙에 맞추면 공이 거의 수직에 가깝게 위로 튀어 오릅니다.
+    -   패들의 양 끝에 가까울수록 공이 좌우로 더 날카롭게 꺾여 나갑니다.
 
-Breakout is a classic and highly influential arcade game. The concept is simple yet addictive: the player controls a horizontal paddle at the bottom of the screen, which is used to deflect a bouncing ball upwards. At the top of the screen is a wall of bricks. The objective is to destroy all the bricks by hitting them with the ball.
+    이 성질을 이용해 특정 벽돌을 노리거나, 공을 한쪽 구석으로 보낼 수 있습니다.
 
-Each time the ball hits a brick, the brick disappears, and the player earns points. The ball then ricochets back down towards the paddle. The player must continuously move the paddle left and right to prevent the ball from falling past it and off the screen. The player is given a limited number of lives (usually three). The game is lost if all lives are gone.
+-   **"터널" 전략 활용하기**  
+    가장 강력한 전략은 벽돌 더미의 한쪽 측면에 좁은 통로를 뚫는 것입니다.
+    날카로운 각도로 공을 보내 왼쪽 또는 오른쪽 끝 벽돌을 집중해서 제거해
+    통로를 만들면, 공이 벽돌벽 위쪽으로 들어가 천장과 벽돌 사이를 왔다 갔다
+    하며 상단 벽돌들을 자동으로 쓸어 담습니다. 이 전략이 고득점과 빠른 클리어의
+    핵심입니다.
 
-As more bricks are cleared, the ball often speeds up, increasing the difficulty. The challenge lies in controlling the ball's trajectory and clearing the screen without losing all your lives.
+-   **패들을 화면 중앙 근처에 두기**  
+    공을 쫓아다니느라 화면 끝까지 패들을 불필요하게 이동시키면 반대쪽으로
+    튈 때 대응하기 어렵습니다. 가능한 한 작은 움직임으로, 항상 중앙에 가깝게
+    위치를 유지하면서 공의 궤적을 예측하는 습관을 들이세요.
 
-### Gameplay Strategy
+-   **마지막 벽돌 앞에서는 조급해하지 않기**  
+    한 개 남은 벽돌이 제일 잘 안 맞는 법입니다. 성급하게 쫓아다니기보다는
+    패들 위치를 차분히 조정해, 원하는 각도로 공을 띄울 수 있는 상황을 만드는
+    것이 중요합니다.
 
--   **Master Angle Control:** This is the most crucial skill in Breakout. The direction the ball bounces depends on *where* it hits your paddle.
-    -   Hitting the ball in the **center** of the paddle will send it straight up.
-    -   Hitting the ball on the **edges** of the paddle will send it off at a sharp angle toward the sides. Mastering this allows you to aim for specific bricks.
--   **The "Breakthrough" or "Tunneling" Strategy:** The single most effective strategy is to create a tunnel on one side of the brick wall. Use angled shots to carve a path through the bricks on the far left or right. Once the ball gets *above* the main wall of bricks, it will bounce between the ceiling and the top layer of bricks, clearing large sections automatically and very quickly. This is the key to high scores and efficient level clearing.
--   **Stay Near the Center:** Avoid frantically chasing the ball to the corners of the screen. It's better to make small, controlled movements and try to stay relatively centered. This gives you a better chance to react, no matter which direction the ball comes from.
--   **Patience with the Last Brick:** Often, the most frustrating part of a level is trying to hit the very last brick. Don't panic. Take your time, focus on your paddle position, and try to set up the perfect angled shot to hit it.
+### 조작 방법
 
-### Controls Guide
+플랫폼에 따라 조작법이 조금씩 다르지만, 기본은 매우 단순합니다.
 
-The controls for Breakout are famously simple and vary slightly depending on the platform.
+-   **PC / 웹 브라우저**  
+    -   **방향키 ←/→:** 패들을 좌우로 이동합니다.  
+    -   **마우스:** 많은 현대 버전에서는 마우스를 좌우로 움직이는 것만으로 패들
+        위치를 조절할 수 있습니다.
 
--   **PC / Web Browser:**
-    -   **Left/Right Arrow Keys:** Move the paddle left and right.
-    -   **Mouse:** In many modern versions, you can simply move your mouse left and right to control the paddle.
+-   **오리지널 아케이드**  
+    -   전용 **다이얼/패들 컨트롤러**를 돌려 매우 정밀하게 패들을 움직였습니다.
 
--   **Original Arcade:**
-    -   A **rotary dial** or **paddle controller** was used to move the paddle with precision.
+-   **모바일 기기**  
+    -   **터치 & 드래그:** 화면 하단을 좌우로 스와이프해 패들을 이동합니다.
 
--   **Mobile Devices:**
-    -   **Touch and Drag:** Tap and drag your finger across the bottom of the screen to move the paddle.
+### 자주 묻는 질문 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**1. 공을 원하는 방향으로 보내려면 어떻게 해야 하나요?**  
+> 공이 패들을 맞는 위치에 따라 반사 각도가 결정됩니다. 중앙에 맞추면 위로,
+> 왼쪽 끝에 맞추면 왼쪽으로, 오른쪽 끝에 맞추면 오른쪽으로 더 많이 꺾입니다.
+> 가장자리 가까이 맞출수록 각도가 더 가팔라집니다.
 
-**1. How can I control where the ball goes?**
-> You control the ball's direction by changing where it makes contact with your paddle. Hitting it with the center of the paddle sends it up vertically. Hitting it with the left side of the paddle sends it to the left, and hitting it with the right side sends it to the right. The further to the edge you hit it, the sharper the angle will be.
+**2. 왜 시간이 지날수록 공이 점점 빨라지나요?**  
+> 난이도를 높이기 위한 기본 메커니즘입니다. 특정 횟수 이상 튕기거나, 일정
+> 색상의 벽돌 라인을 지나면 공의 속도가 올라가 똑같은 스테이지라도 점점 더
+> 어렵게 느껴지도록 설계되어 있습니다.
 
-**2. Why does the ball speed up?**
-> The ball speeding up is a core difficulty mechanic. It happens automatically after a certain number of hits or when you reach a certain color of brick. This keeps the game challenging as you progress through a level.
+**3. 스테이지를 빨리 끝내는 가장 좋은 방법은 뭔가요?**  
+> 한쪽 끝에 터널을 뚫어 공이 벽돌 위쪽 공간으로 들어가도록 만드는 것입니다.
+> 위쪽에 들어간 공은 천장과 벽돌에 계속 튕기며 스스로 대부분의 벽돌을 정리해
+> 주기 때문에, 플레이어는 아래에서 패들만 안전하게 지켜 주면 됩니다.
 
-**3. What is the best way to clear a level quickly?**
-> Use the "tunneling" strategy. Focus on breaking a hole through one of the side columns of bricks. Once the ball is behind the wall, it will do most of the work for you by bouncing around at the top of the screen.
-
-**4. Are there power-ups in Breakout?**
-> The original classic Breakout did not feature power-ups. However, the game inspired an entire genre of "block-breaker" games, and many of its successors and modern versions (most famously *Arkanoid*) introduced power-ups like multi-ball, a longer paddle, laser cannons, a slower ball, a sticky paddle, etc.
-
+**4. Breakout에도 파워업이 있나요?**  
+> 원조 Breakout에는 파워업 개념이 없었습니다. 하지만 이 게임은 수많은 "블록
+> 브레이커" 후속작에 영감을 주었고, 특히 *Arkanoid*처럼 여러 후속 작품에서
+> 멀티볼, 패들 길이 증가, 레이저, 슬로우 볼, 끈적한 패들 등 다양한 파워업이
+> 추가되었습니다.

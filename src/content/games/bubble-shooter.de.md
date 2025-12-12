@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bubble-shooter
-title: '[DE] Bubble Shooter'
+title: "Bubble Shooter"
 description: >-
-  [DE] Aim, shoot, and match colorful bubbles to clear the board in the classic
-  Bubble Shooter puzzle game. Plan your shots, use the walls, and drop huge
-  clusters to get a high score!
+  Ziele, schieße und kombiniere bunte Blasen im klassischen Bubble-Shooter.
+  Plane deine Schüsse, nutze die Wände für Abpraller und lasse große
+  Blasencluster fallen, um einen Höchstscore zu knacken.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
 thumbnail: /new-images/bubble-shooter.jpg
 tags:
@@ -16,42 +16,80 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Bubble Shooter* ist ein klassischer, stark süchtig machender Puzzler. Dein
+Ziel besteht darin, das Spielfeld zu leeren, indem du Gruppen aus mindestens
+ drei gleichfarbigen Blasen bildest. Vom oberen Bildschirmrand hängt ein Feld
+voller bunter Blasen herunter, während du unten einen Werfer kontrollierst, der
+jeweils eine Blase nach oben schießt.
 
+Trifft die abgeschossene Blase auf eine Gruppe von mindestens zwei Blasen
+ derselben Farbe, verschwindet die gesamte zusammenhängende Gruppe. Alle Blasen,
+ die nur an dieser Gruppe hingen, werden von der Schwerkraft erfasst und fallen
+ ebenfall ab. So arbeitest du dich Schritt für Schritt durch das Feld. Das Ziel
+ist, alle Blasen zu entfernen oder zumindest eine möglichst hohe Punktzahl zu
+erzielen, bevor die Blasen die untere Linie erreichen. Nach einer bestimmten
+Anzahl von Schüssen, die keine Gruppe lösen, erscheint oben eine neue Reihe –
+und erhöht den Druck.
 
-### Game Introduction
+### Strategie & Tipps
 
-Bubble Shooter is a classic and highly addictive puzzle game. The objective is to clear the playing field by forming groups of three or more same-colored bubbles. The game screen is filled with a grid of colorful bubbles from the top. The player controls a launcher at the bottom of the screen, which shoots a single bubble upwards.
+-   Auf hohe Blasen zielen: Wichtig ist nicht nur, überhaupt Treffer zu landen,
+    sondern vor allem Gruppen zu entfernen, die weit oben sitzen. Wenn du eine
+    tragende Gruppe sprengst, fallen alle Blasen, die nur daran hingen, in
+    einem Schwung herunter – das bringt viele Punkte und räumt das Feld sehr
+    effizient.
+-   Wände für Banden-Schüsse nutzen: Schieße nicht immer direkt. Du kannst die
+    Blase an die Seitenwand setzen, damit sie abprallt und schwer erreichbare
+    Stellen trifft. Diese "Bank Shots" sind essenziell, um aus kniffligen
+    Situationen herauszukommen.
+-   Vorausdenken: In den meisten Versionen siehst du die Farbe der nächsten
+    Blase im Werfer. Plane mit dieser Information mindestens zwei Züge im
+    Voraus. Manchmal lohnt es sich, jetzt einen mittelmäßigen Zug zu machen,
+    um im nächsten Schritt eine perfekte Kombination zu haben.
+-   Einzelne Blasen vermeiden: Lasse nach Möglichkeit keine einzelne Blase
+    einer Farbe isoliert stehen. Solche "einsamen" Blasen sind später schwer zu
+    entfernen, da du entweder die Umgebung freiräumen oder zwei weitere Blasen
+    derselben Farbe genau dorthin bringen musst.
+-   Schwierige Farben managen: Wenn du eine Farbe erhältst, für die es gerade
+    keinen guten Platz gibt, verschwende den Schuss nicht. Lege sie an einer
+    Stelle ab, an der sie dir zukünftige Wege nicht verbaut – zum Beispiel
+    seitlich an einer größeren Gruppe einer anderen Farbe.
 
-The core mechanic is simple: when the launched bubble hits a group of two or more bubbles of the same color, the entire connected group of matching bubbles is removed from the screen. Any bubbles that were attached only to the cleared group will also fall and be removed. The goal is to clear all the bubbles from the screen to win the level or achieve the highest possible score before the bubbles descend to the bottom line. After a certain number of shots without clearing any bubbles, a new row of bubbles is added at the top, increasing the pressure and challenge.
+### Steuerung
 
-### Gameplay Strategy
+Die Steuerung ist sehr einfach und intuitiv und eignet sich ideal für Maus oder
+Touch-Eingabe.
 
--   **Aim for the Highest Bubbles:** The single most important strategy is not just to make matches, but to make matches that are high up on the screen. If you clear a group of bubbles that is supporting other bubbles below it, all the unsupported bubbles will fall. Dropping large clusters this way is the key to high scores and efficient clearing.
--   **Use the Walls (Bank Shots):** Don't always aim directly. You can shoot the bubble against the side walls to make it bounce and reach difficult spots. Mastering these "bank shots" is essential for advanced play and for getting out of tricky situations.
--   **Plan Ahead:** Most versions of the game show you the color of the *next* bubble in your launcher. Use this information to plan your next two moves. Sometimes, it's better to make a less optimal move now to set up a perfect shot with the next bubble.
--   **Don't Create Single-Bubble Strands:** Try to avoid leaving a single bubble of a certain color hanging by itself. These can be very difficult to remove later, as you'll need to clear the bubbles around it or get two more of the same color to stick to it.
--   **Manage Difficult Colors:** If you get a bubble color that has no immediate good match, don't just waste the shot. Try to tuck it away next to a large group of another color where it won't block important future shots.
+-   Zielen: Bewege den Mauszeiger, um die Richtung des Zielpfeils des Werfers
+    festzulegen.
+-   Schießen: Klicke mit der linken Maustaste, um die Blase abzufeuern.
+-   Blasen tauschen (in einigen Versionen): Manche moderne Varianten erlauben
+    es dir, per Taste (z. B. die Leertaste) oder Symbol die aktuelle Blase mit
+    der nächsten im Puffer zu tauschen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The controls are extremely simple and intuitive, designed for mouse or touch.
+**1. Was ist das Ziel des Spiels?**
+> In den meisten klassischen Versionen geht es darum, das gesamte Spielfeld von
+> Blasen zu befreien. In Endlos-Modi versuchst du, so lange wie möglich zu
+> überleben und eine möglichst hohe Punktzahl zu erreichen.
 
--   **Aim:** Move your **mouse cursor** to aim the launcher's arrow.
--   **Shoot:** **Left-click** with your mouse to shoot the bubble.
--   **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+**2. Was passiert, wenn ich "danebenschieße"?**
+> Ein Fehlversuch ist ein Schuss, der keine Blasen entfernt. Nach einer festen
+> Anzahl solcher Fehlschüsse (oft als kleine Blasenanzeige am unteren Rand
+> dargestellt) wird oben eine neue Reihe an das Spielfeld angehängt und schiebt
+> alles weiter nach unten.
 
-### Frequently Asked Questions (FAQ)
+**3. Gibt es Spezialblasen oder Power-ups?**
+> In der ursprünglichen klassischen Version von Bubble Shooter gibt es keine
+> Spezialblasen. Viele moderne Varianten fügen jedoch Power-ups wie Bomben-
+> Blasen (räumen einen Bereich auf), Regenbogenblasen (passen zu jeder Farbe)
+> oder Feuerbälle (zerstören alles auf ihrem Weg) hinzu.
 
-**1. What is the goal of the game?**
-> In most classic versions, the goal is to clear the entire screen of bubbles. In endless modes, the goal is to survive as long as possible and get the highest score.
-
-**2. What happens if I miss a shot?**
-> A "miss" is typically defined as a shot that does not result in any bubbles being cleared. After a set number of misses (often shown as a counter of bubbles at the bottom), a new row of bubbles will be added to the top of the screen, pushing everything down.
-
-**3. Are there special bubbles or power-ups?**
-> In the classic, original version of Bubble Shooter, there are no special bubbles. However, many modern variations have introduced power-ups like **Bomb Bubbles** (clear an area), **Rainbow Bubbles** (match any color), and **Fireball Bubbles** (destroy everything in their path).
-
-**4. What is the best strategy for getting a high score?**
-> The best way to get a high score is to drop large clusters of bubbles at once. The more bubbles you drop that were not part of the direct match, the more bonus points you receive. Focus on making high-up bank shots to achieve this.
-
+**4. Was ist die beste Strategie für einen hohen Score?**
+> Am effektivsten ist es, große Blasencluster in einem einzigen Zug fallen zu
+> lassen. Je mehr Blasen mit herunterfallen, die nicht direkt Teil der
+> Dreiergruppe waren, desto mehr Bonuspunkte erhältst du. Konzentriere dich auf
+> präzise Bank-Schüsse auf hohe Stellen, um solche Kettenreaktionen auszulösen.

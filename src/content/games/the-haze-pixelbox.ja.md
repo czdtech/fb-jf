@@ -1,65 +1,41 @@
 ---
+title: "The Haze Pixelbox"
+description: "The Haze Pixelboxは、ピクセルアートスタイルのアドベンチャーゲームです。霧に覆われた世界を探索しましょう。"
+iframeSrc: "https://ubg98.github.io/TheHazePixelbox/"
+thumbnail: "/new-images/the-haze-pixelbox.jpg"
+urlstr: "the-haze-pixelbox"
+score: "4.2/5  (1743 votes)"
+tags: ["adventure", "pixel", "exploration"]
 locale: ja
-urlstr: the-haze-pixelbox
-title: '[JA TRANSLATION NEEDED] The Haze Pixelbox - Play The Haze Pixelbox Online'
-description: '[JA TRANSLATION NEEDED] Whether you'
-iframeSrc: 'https://turbowarp.org/1020955547/embed'
-thumbnail: /the-haze-pixelbox.png
-tags:
-  - the haze pixelbox
-score: 3.9/5  (132 votes)
 ---
 
-### What's So Special About The Haze Pixelbox?
-- **Become a Tribal Leader:** Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.（日本語訳が必要）
-- The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.（日本語訳が必要）
-### In the world of The Haze Pixelbox:（日本語訳が必要）
-- You will have endless combinations to create your own musical masterpiece.（日本語訳が必要）
-- You can share your works with friends and family to jointly feel the charm of music.（日本語訳が必要）
-**Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!**（日本語訳が必要）
-- **Showcase Your Creativity:** Unleash your creativity with a variety of unique sound effects and percussive elements, creating unique musical works.（日本語訳が必要）
- 
-- The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.（日本語訳が必要）
-[JA TRANSLATION NEEDED] Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist.
- 
-### The Core Gameplay of The Haze Pixelbox:
- 
-[JA TRANSLATION NEEDED]  - **Become a Tribal Leader:** Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.
-[JA TRANSLATION NEEDED]  - **Explore Primal Sounds:** The game is full of tribal rhythms, didgeridoos, and soulful chants, allowing you to fully experience the charm of Australian Aboriginal music.
-[JA TRANSLATION NEEDED]  - **Showcase Your Creativity:** Unleash your creativity with a variety of unique sound effects and percussive elements, creating unique musical works.
- 
- 
-### In the world of The Haze Pixelbox:
- 
-[JA TRANSLATION NEEDED]  - The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.
-[JA TRANSLATION NEEDED]  - You will have endless combinations to create your own musical masterpiece.
-[JA TRANSLATION NEEDED]  - You can share your works with friends and family to jointly feel the charm of music.
- 
- 
-[JA TRANSLATION NEEDED] **Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!**
+### ゲーム紹介
 
-- **Explore Primal Sounds:** The game is full of tribal rhythms, didgeridoos, and soulful chants, allowing you to fully experience the charm of Australian Aboriginal music.（日本語訳が必要）
-- You will have endless combinations to create your own musical masterpiece.（日本語訳が必要）
-- You can share your works with friends and family to jointly feel the charm of music.（日本語訳が必要）
+The Haze Pixelboxは、美しいピクセルアートスタイルのアドベンチャーゲームです。霧に覆われた神秘的な世界を探索し、謎を解き明かしましょう。
 
+### ゲームプレイガイド
 
+ - **探索：** 霧に覆われた世界を探索します
+ - **謎解き：** パズルを解いて進みます
+ - **アイテム収集：** 重要なアイテムを見つけます
+ - **ストーリー：** 物語を進めて真実を明らかにします
 
+### 操作ガイド
 
+ - **WASD/矢印キー：** 移動
+ - **スペースバー：** アクション/相互作用
+ - **E：** アイテム使用
 
-**Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!**
-- You can share your works with friends and family to jointly feel the charm of music.
-- You will have endless combinations to create your own musical masterpiece.
-- The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.
-### In the world of The Haze Pixelbox:
+### よくある質問（FAQ）
 
+**ゲームの目標は何ですか？**
 
+霧に覆われた世界の謎を解き明かし、ストーリーを進めることです。
 
+**ピクセルアートスタイルですか？**
 
+はい、レトロなピクセルアートグラフィックスを特徴としています。
 
-**Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!**
-- You can share your works with friends and family to jointly feel the charm of music.
-- You will have endless combinations to create your own musical masterpiece.
-- The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.
+**難易度は高いですか？**
 
-
-**Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!**
+謎解きには思考が必要ですが、段階的に難しくなります。

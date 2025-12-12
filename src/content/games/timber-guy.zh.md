@@ -1,38 +1,48 @@
 ---
 locale: zh
 urlstr: timber-guy
-title: '[ZH TRANSLATION NEEDED] Timber Guy'
-description: >-
-  [ZH TRANSLATION NEEDED] Timber Guy is a chop‑timing arcade — fell the tree,
-  dodge branches, and rack up chops.
-iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
+title: 《Timber Guy》伐木达人
+description: 《Timber Guy》是一款一键式反应游戏。你扮演伐木工，在限定时间内疯狂砍树，同时要不断切换站位，避免被树枝砸到。
+iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/3k8n2c1b5d9p0/'
 thumbnail: /new-images/timber-guy.png
 tags:
-  - action
+  - arcade
+  - reflex
   - casual
-score: 3.8/5  (1659 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.8/5  (1400 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Timber Guy is a one‑button timing game. Chop the trunk while switching sides to avoid incoming branches. The pace accelerates, demanding clean side swaps and steady rhythm.
+### 详细游戏介绍
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Read ahead: Watch the next few branches and pre‑plan swaps.
-2.  [ZH TRANSLATION NEEDED] Keep rhythm: Maintain a steady chop tempo for better reactions.
-3.  [ZH TRANSLATION NEEDED] Early swaps: Switch sides slightly before the branch passes you.
-4.  [ZH TRANSLATION NEEDED] Don’t panic: Miss one beat if unsure; safety beats a hit.
-5.  [ZH TRANSLATION NEEDED] High score: Small errors compound—reset after bad starts.
+《Timber Guy》操作极其简单，却很考验反应速度和节奏感。你需要不断敲击左右键（或点击屏幕两侧）来挥斧砍树，每砍一下树干就会变短，同时树上会随机生成新的树枝。如果你恰好站在树枝所在那一侧，就会被砸中并立刻结束游戏。
 
-### Controls Guide
+### 游玩策略与节奏指引
 
-- Chop/Swap: Tap left/right to chop from that side.
-- Pause/Retry via UI.
+1.  **眼睛看树枝，不看角色：** 把注意力集中在树干上方即将出现的树枝位置，提前决定下一击是否需要换边。
+2.  **保持节奏而非纯拼手速：** 虽然连按越快分数涨得越快，但过快容易来不及观察树枝。找到自己能兼顾观察和点击的节奏更重要。
+3.  **提前换边：** 当你发现下一段树干中树枝已经出现在当前这一侧时，不要犹豫，先换到另一侧再继续挥斧。
+4.  **利用声音和动画反馈：** 砍树的节奏感音效可以帮助你保持稳定节奏，避免忽快忽慢打乱自己节奏。
 
-### Frequently Asked Questions (FAQ)
+
+- High score: Small errors compound—reset after bad starts.
+### 操作说明
+
+*   **切换方向并砍树：** 使用键盘左右方向键（或 A/D），或在移动端点击屏幕左右两侧即可切换伐木工站位并完成砍树动作；
+*   **计时：** 随着你砍树，时间条会略微回填，停止砍太久则时间耗尽游戏结束。
+
+### 常见问题解答（FAQ）
+
+
+- Any power‑ups? Some versions include boosters; focus on consistency.
+
+- Does speed ramp? Yes; rhythm helps adaptation.
 
 - Why do I get hit? Late swaps—change sides earlier.
-- Does speed ramp? Yes; rhythm helps adaptation.
-- Any power‑ups? Some versions include boosters; focus on consistency.
+**问：总是被突然出现的树枝砸到怎么办？****
+答：** 放慢一点点击频率，多给自己半秒时间看清下一段树干情况，熟悉树枝出现规律后就能提前预判。
+
+**问：游戏有终点吗？****
+答：** 属于无尽街机型，目标是尽可能多砍几刀、刷出更高分。
 

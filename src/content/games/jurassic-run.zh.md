@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: jurassic-run
-title: '[ZH TRANSLATION NEEDED] Jurassic Run'
-description: >-
-  [ZH TRANSLATION NEEDED] Jurassic Run is a dino‑dash runner — evade hazards,
-  swap lanes, and sprint for high scores.
+title: "《Jurassic Run》侏罗纪狂奔"
+description: "《Jurassic Run》是一款恐龙主题的无尽跑酷游戏，你要在史前丛林中左右换道、跳跃和滑行，躲开各种危险并拾取金币，冲击更高分数。"
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/jurassic-run.png
 tags:
@@ -15,25 +13,31 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jurassic Run is a fast endless runner set among dinosaurs and jungle obstacles. Read the track ahead, switch lanes or jump/slide to avoid hazards, and chain coin pickups as speed increases.
+《Jurassic Run》是一款设定在恐龙与丛林障碍之间的高速无尽跑酷。你需要提前读懂前方赛道布局，通过及时左右换道、跳跃跨越陷阱或下滑穿过障碍，在不断提速的过程中尽可能长时间存活，并串联拾取金币与道具来刷新高分。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Look far ahead to plan early lane changes.
-2.  [ZH TRANSLATION NEEDED] Skip risky coins when gaps are tight; safety keeps runs alive.
-3.  [ZH TRANSLATION NEEDED] Memorize repeating obstacle sets to pre‑position.
-4.  [ZH TRANSLATION NEEDED] Make small, crisp inputs at higher speeds.
-5.  [ZH TRANSLATION NEEDED] Save shields/magnets for dense stretches if available.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **视线尽量看远**：不要只盯着角色脚下，尽量把视线放到前方几组障碍的位置，提前判断需要换道、跳跃还是滑行。  
+2.  **遇到危险金币别贪**：紧贴陷阱的金币往往风险远大于收益，宁可错过几枚，也不要为此破坏节奏甚至直接撞上障碍。  
+3.  **记住常见障碍组合**：很多关卡会使用重复出现的障碍模式，多跑几次后，你可以提前站位到最安全的跑道，降低临时决策的压力。  
+4.  **高速阶段要“少而准”**：速度上来后，宁可减少多余的来回换道，也要保证每一次操作都干净利落，避免过度修正导致撞墙。  
+5.  **善用护盾与磁铁**：如果游戏提供护盾、磁铁、减速等道具，建议留到障碍密集区或高速阶段使用，最大化保命和收益。  
 
-- Move: A/D or Left/Right; jump/slide with Space/Up and Down.
-- Pause/Retry via on‑screen UI.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **移动**：使用 A/D 或左右方向键在不同跑道间切换。  
+- **跳跃 / 滑行**：用空格或上方向键起跳，下方向键滑行穿过低矮障碍。  
+- 通过屏幕按钮可暂停或重新开始当前局。  
 
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
-- Is there an end? Usually endless—chase personal bests.
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
+### 常见问题（FAQ）
 
+- **Q: 老是被障碍边缘“擦到”，是什么问题？**  
+  **A:** 多数情况是起跳时机偏早或换道过度，尝试将起跳稍微延后半拍，并减少连续来回换道。  
+
+- **Q: 游戏有终点吗？**  
+  **A:** 通常为经典无尽模式，没有固定终点，目标是不断刷新个人最长距离和最高得分。  
+
+- **Q: 游戏里有哪些常见道具？**  
+  **A:** 许多版本会加入护盾、吸金币磁铁、减速等道具，合理利用可以在高难路段为你争取更多反应时间。

@@ -1,69 +1,37 @@
 ---
+title: "Go Escape"
+description: "Go Escapeは精密な脱出プラットフォーマーです。ジャンプのタイミングを計り、罠を読み、コンパクトな部屋の中の安全なルートを通り抜けましょう。"
+iframeSrc: "https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/"
+thumbnail: "/new-images/go-escape.png"
+urlstr: "go-escape"
+score: "4.0/5  (1833 votes)"
+tags: ["puzzle", "escape", "action"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: go-escape
-title: '[JA TRANSLATION NEEDED] Go Escape'
-description: >-
-  [JA TRANSLATION NEEDED] Go Escape is a precise escape‑platformer — time jumps,
-  read traps, and thread safe routes through compact rooms.
-iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/go-escape.png
-tags:
-  - puzzle
-  - escape
-  - action
-score: 4.0/5  (1833 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Go Escapeは、ミニマリストな部屋脱出プラットフォーマーです。トゲ、動くノコギリ、時間制限のあるゲートなどが、キレのある入力と忍耐強い読みを要求します。レベルは短いですが過酷です。各部屋のリズムをマスターし、完璧なラン（走り）を実行することに楽しさがあります。
 
-[JA TRANSLATION NEEDED] Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and timed gates demand crisp inputs and patient reads. Levels are short but punishing; the fun lies in mastering each room’s rhythm, then executing a clean run.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **周期を読む**: 動く前に罠の完全な周期（サイクル）を観察しましょう。予測可能な拍子で移動します。
+2.  **ショートホップ（小ジャンプ）**: 行き過ぎてしまうフルプレス（長押し）よりも、精密な短いタップを優先しましょう。
+3.  **先行入力（バッファ）**: 対応している場合、プラットフォームのタイミングに合わせるために少し早めにボタンを押しましょう。
+4.  **ルートの安全性**: 安定してクリアするために、まずは遅くても安全なレーンを選びましょう。
+5.  **チェックポイントの心構え**: 部屋を精神的に区切りましょう。成功するたびに集中し直します。
 
-[JA TRANSLATION NEEDED] 1.  Read cycles: Watch a full trap cycle before committing; move on predictable beats.
-[JA TRANSLATION NEEDED] 2.  Short hops: Prefer small taps for precision over full presses that overshoot.
-[JA TRANSLATION NEEDED] 3.  Buffer inputs: If supported, press slightly early to catch platform windows.
-[JA TRANSLATION NEEDED] 4.  Route safety: Take slower, safer lanes first for consistent clears.
-[JA TRANSLATION NEEDED] 5.  Checkpoint mindset: Mentally segment rooms; reset focus after each success.
+### 操作ガイド
 
-### Controls Guide
+- **移動/ジャンプ**: 矢印キー/WASD + スペースキー。一部のレベルでは壁ジャンプやダブルジャンプが追加されます。
 
-- Move/Jump: Arrows/WASD + Space; some levels add wall‑jump/double‑jump.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep clipping traps — how to stop?
-  
-[JA TRANSLATION NEEDED]   A: You’re moving on guesses. Watch cycles, count beats, and move only on consistent windows.
-
-- Q: Any tip for narrow gaps?
-  
-[JA TRANSLATION NEEDED]   A: Use lightweight taps and approach from flatter angles.
-
-- Q: Is there a timer?
-  
-
-
-
-
-
-- Q: I keep clipping traps — how to stop?
-### よくある質問（FAQ）
-- Move/Jump: Arrows/WASD + Space; some levels add wall‑jump/double‑jump.
-### コントロールガイド
-- Checkpoint mindset: Mentally segment rooms; reset focus after each success.
-[JA TRANSLATION NEEDED]   A: Many rooms are untimed; consistency beats speedruns until you learn layouts.
-
-
-
-
-
-A: Many rooms are untimed; consistency beats speedruns until you learn layouts.
-- Q: Is there a timer?
-A: Use lightweight taps and approach from flatter angles.
-- Q: Any tip for narrow gaps?
-
-
-A: Many rooms are untimed; consistency beats speedruns until you learn layouts.
+- **Q: 罠に引っかかり続けてしまいます。どうすれば止められますか？**
+  A: 推測で動いています。周期を見て、拍子を数え、一貫したタイミングの窓（ウィンドウ）でのみ移動しましょう。
+- **Q: 狭い隙間を抜けるコツは？**
+  A: 軽いタップを使い、平らな角度からアプローチしましょう。
+- **Q: タイマーはありますか？**
+  A: 多くの部屋は時間制限がありません。レイアウトを覚えるまでは、スピードランよりも一貫性が勝ります。

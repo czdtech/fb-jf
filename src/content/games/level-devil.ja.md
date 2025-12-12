@@ -1,43 +1,36 @@
 ---
+title: "Level Devil"
+description: "トロールプラットフォーマー：レベルはポップアップスパイク、落下する床、偽の出口で予期せず変化します。トラップを学び、冷静を保ちます。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html"
+thumbnail: "/new-images/level-devil.jpg"
+urlstr: "level-devil"
+score: "4.6/5  (350 votes)"
+tags: ["platformer", "puzzle"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: level-devil
-title: '[JA TRANSLATION NEEDED] Level Devil'
-description: >-
-  [JA TRANSLATION NEEDED] Troll platformer: levels change unexpectedly with
-  pop‑up spikes, falling floors, and fake exits; learn traps and keep calm.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
-thumbnail: /new-images/level-devil.jpg
-tags:
-  - platformer
-  - puzzle
-score: 4.6/5  (350 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Level Devilは、ステージがあなたを裏切るトリックプラットフォーマーです。タイルは崩れ、ジャンプ中にスパイクがポップアップし、出口が移動します。成功は、急ぐのではなく、慎重な探索、視覚的な兆候の読み取り、トラップの場所の記憶を要求します。
 
+### 遊び方
+- 前方に突き出して、安全にトラップをトリガーし、次に進みます。
+- 偽の床またはスパイクを示すわずかなピクセルの違いを見てください。
+- チェックポイント（提供されている場合）は、測定された進行を報います。
 
-### Overview
-[JA TRANSLATION NEEDED] Level Devil is a trick platformer where the stage betrays you—tiles crumble, spikes pop up mid‑jump, and exits move. Success demands cautious probing, reading visual tells, and memorizing trap locations rather than rushing.
+### 操作方法
+- 矢印/WASDで移動/ジャンプ。再起動キーはホストによって異なります。
 
-### How to Play
-- Nudge forward to trigger traps safely, then proceed.
-- Watch for slight pixel differences that hint at fake floors or spikes.
-- Checkpoints (when provided) reward measured progress.
+### ヒント
+- 盲目的にスプリントしないでください。最初にショートホップでレッジをテストします。
+- 明らかな「安全な」タイルと出口の近くでトラップを期待します。
+- ジャンプのタイミングを合わせるために、移動する障害物間のビートをカウントします。
 
-### Controls
-- Arrows/WASD to move/jump; restart keys vary by host.
-
-### Tips
-- Don’t sprint blind; test ledges with short hops first.
-- Expect traps near obvious “safe” tiles and exits.
-- Count beats between moving hazards to time jumps.
-
-### FAQ
-- Q: How can I avoid sudden pop‑up spikes?  
-[JA TRANSLATION NEEDED]   A: Trigger them with micro‑steps, retreat, then jump the safe path.
-- Q: Why did the exit disappear in this level?  
-[JA TRANSLATION NEEDED]   A: Many stages use fake exits; scan walls/floors for hidden doors.
-- Q: Are there checkpoints to reduce repetition?  
-[JA TRANSLATION NEEDED]   A: Some hosts include them; otherwise patience and routing are key.
-
+### よくある質問 (FAQ)
+- **Q: 突然のポップアップスパイクを避けるにはどうすればよいですか？**  
+  A: マイクロステップでトリガーし、後退し、次に安全なパスをジャンプします。
+- **Q: このレベルで出口が消えたのはなぜですか？**  
+  A: 多くのステージは偽の出口を使用します。壁/床を隠されたドアのためにスキャンします。
+- **Q: 繰り返しを減らすためのチェックポイントはありますか？**  
+  A: 一部のホストにはそれらが含まれます。それ以外の場合、忍耐力とルーティングが鍵です。

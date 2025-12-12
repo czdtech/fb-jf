@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: he-likes-the-darkness
-title: '[FR] He Likes The Darkness'
-description: >-
-  [FR] He Likes The Darkness is a moody platformer — navigate shadowy stages,
-  collect orbs, and time precise jumps through hazards.
+title: "He Likes The Darkness"
+description: "He Likes The Darkness est un platformer minimaliste et sombre : explore des niveaux plongés dans l’ombre, collecte des orbes et évite des pièges précis au pixel près."
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/he-likes-the-darkness.png
 tags:
@@ -15,35 +13,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+He Likes The Darkness est un platformer minimaliste à fort contraste, où la pénombre et les pièges mobiles définissent de petits niveaux exigeants. La visibilité réduite, les scies et piques en mouvement et les orbes à collecter te forcent à maîtriser la longueur de tes sauts, les micro‑pauses et la gestion de la vitesse pour garder un bon flux de jeu.
 
-### Detailed Game Introduction
+### Comment jouer
 
-He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibility, moving traps, and collectible orbs define compact stages. Mastering hop length, short stalls, and momentum preservation produces clean clears with satisfying flow.
+1.  **Repère le terrain avec de petits sauts**  
+    Utilise de courts sauts pour révéler les bords de plateformes sans t’engager complètement. Cela t’aide à comprendre où sont les trous ou les piques cachés.
 
-### Gameplay Strategy & Walkthrough
+2.  **Observe les cycles des pièges**  
+    Avant de foncer, regarde une fois ou deux le cycle complet des scies, piques mobiles et autres obstacles. Une fois le timing compris, engage‑toi sur le même rythme à chaque tentative.
 
-1.  **[FR]** Light scouting: Use small hops to reveal platform edges without overcommitting.
-2.  **[FR]** Cycle timing: Observe moving hazards (saws/spikes) for a full cycle, then commit.
-3.  **[FR]** Momentum: Keep micro‑momentum through tap‑taps rather than full stops.
-4.  **[FR]** Orb routing: Grab orbs on safe passes; don’t force risky backtracks.
-5.  **[FR]** Retry rhythm: Fast restarts build muscle memory for tricky segments.
+3.  **Garde un peu de momentum**  
+    Évite de t’arrêter net tout le temps. De petits tapotements sur les touches de déplacement permettent de conserver une légère inertie, ce qui rend certains enchaînements plus fluides et plus sûrs.
 
-### Controls Guide
+4.  **Planifie la collecte des orbes**  
+    Ne prends pas chaque orbe dès que tu la vois. Essaie de les récupérer quand le chemin est dégagé, même si cela signifie attendre un cycle de pièges supplémentaire plutôt que de tenter un passage trop risqué.
 
-- Move/Jump: Arrows/WASD + Space; occasional double‑jump per level rules.
+5.  **Enchaîne les essais rapides**  
+    Les niveaux sont courts : accepte de mourir souvent et relance immédiatement. Les redémarrages rapides construisent ta mémoire musculaire pour les segments difficiles.
 
-### Frequently Asked Questions (FAQ)
+### Commandes
 
-- Q: I can’t see edges clearly — any tip?
+- **Déplacement / Saut** : touches fléchées ou `WASD` pour bouger, `Espace` pour sauter (certains niveaux permettent un double saut selon les règles du stage).
 
-A: Feather short hops to probe boundaries; adjust brightness if available.
+### Foire aux questions (FAQ)
 
-- Q: Do I need all orbs?
+- **Q : Je ne vois pas bien les bords de plateformes, des conseils ?**  
+  R : Utilise de très petits sauts pour « sonder » le vide et ajuste la luminosité de ton écran ou les options du jeu si elles existent.
 
-A: Some levels require them; otherwise they’re optional mastery goals.
+- **Q : Dois‑je ramasser toutes les orbes ?**  
+  R : Certains niveaux les rendent obligatoires pour ouvrir la sortie, d’autres les laissent comme objectif secondaire. Si tu veux le 100 %, il faudra toutes les récupérer.
 
-- Q: Any trick for moving saws?
-
-A: Count beats and move on the same phase each attempt to lock timing.
+- **Q : Comment gérer les scies en mouvement ?**  
+  R : Compte mentalement les battements pendant leurs allers‑retours et engage‑toi toujours sur la même phase du cycle. Cela stabilise ton timing et réduit les erreurs.
 

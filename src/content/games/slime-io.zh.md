@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: slime-io
-title: '[ZH TRANSLATION NEEDED] Slime.io'
+title: 《Slime.io》城市吞噬史莱姆
 description: >-
-  [ZH TRANSLATION NEEDED] A fun and chaotic .io game of consumption! Control
-  your slime, absorb everything in the city from cars to buildings, and devour
-  smaller players to become the biggest slime of them all!
+  《Slime.io》是一款节奏混乱又极度解压的 3D .io
+  吞噬游戏。操控你的史莱姆在城市中滑行，吸收从路灯、车辆到整栋大楼的一切物体，并吞掉比你小的玩家，成为场上最大的史莱姆。
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
 thumbnail: /new-images/slime-io.png
 tags:
@@ -16,30 +15,43 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Slime.io is a chaotic and satisfying 3D arcade game that belongs to the popular ".io" genre of multiplayer games. You control a small slime in a bustling city with one simple goal: become the biggest. You do this by sliding around the map and absorbing everything in your path that is smaller than you—from streetlights and cars to entire buildings. Compete against other players, absorb the smaller ones, and avoid being eaten by the giants to dominate the leaderboard before the timer runs out!
+《Slime.io》是一款混战感十足的 3D 街机 .io 游戏。你一开始只是城市里一团不起眼的小史莱姆，在限定时间内需要通过不断吞噬周围比自己小的物体来成长。随着体型增大，你可以从最初的路人、长椅一路升级到汽车、卡车，最后甚至整栋高楼大厦都能一口吞下。同时，地图上还充满了其他玩家操控的史莱姆——比你小的可以直接吞掉获得巨量得分，比你大的则要尽量避开，否则你会反被吸收。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Start Small:** When the round begins, you are small and vulnerable. Focus on absorbing small objects first, like people, fences, and benches. This will quickly increase your size.
-2.  [ZH TRANSLATION NEEDED] **Grow to Consume:** As you get bigger, you can absorb larger objects. Move from cars to trucks and eventually to entire skyscrapers. The bigger the object, the more points you get and the faster you grow.
-3.  [ZH TRANSLATION NEEDED] **Player vs. Player:** Pay close attention to the other slimes on the map. You can absorb any player who is smaller than you for a massive score boost. Conversely, you must run away from any player who is bigger than you, or they will absorb you!
-4.  [ZH TRANSLATION NEEDED] **Watch the Clock:** Each round is timed. Your goal is to have the highest score when the timer hits zero. Be as efficient as possible in your consumption to stay at the top.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **开局先从小目标下手：** 刚开始体型很小，优先吞噬行人、栏杆、路牌、长椅这类小物体，快速度过最脆弱的阶段。
+2.  **稳步升级吞噬等级：** 体型上涨后，逐步把目标切换到汽车、卡车乃至建筑物。越大的物体提供的体积和得分越多，但也意味着你需要更好的走位才能“完整吃下”。
+3.  **合理处理玩家对抗：** 留心小地图和视野内的其他史莱姆。比你小的玩家是移动的“大份奖励”，找到机会直接吞掉；遇到体型明显更大的，则要立刻绕开或撤退。
+4.  **注意时间与积分：** 每局都有倒计时，最终排名由得分决定。中后期要提高效率，多选择高价值目标，并在安全前提下积极寻找可吞噬的玩家。
 
-[ZH TRANSLATION NEEDED] The game is controlled with a simple drag mechanic.
+### 操作说明
 
-*   **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
 
-### Frequently Asked Questions (FAQ)
+The game is controlled with a simple drag mechanic.
+*   **移动史莱姆：** 按住鼠标左键拖动，或在触屏上滑动方向，即可控制史莱姆移动路径。
 
-*   **Q: How do I grow bigger?**
-     *   **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.
+### 常见问题解答（FAQ）
 
-*   **Q: Can I eat other players?**
-     *   **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
 
-*   **Q: How do I win?**
-     *   **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
+- **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
+
+    - **Q: How do I win?**
+
+- **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
+
+    - **Q: Can I eat other players?**
+
+- **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.
+
+    - **Q: How do I grow bigger?**
+**问：怎么才能快速变大？****
+答：** 原则是“先小后大”：先密集清理小物体快速成长，再转向车辆和建筑等大目标，配合适时吞掉比你小的玩家，体型会暴涨得很快。
+
+**问：可以吞掉其他玩家吗？****
+答：** 可以。只要对方体型明显小于你，就能直接将其吸收，这通常会带来一次性的大额积分和体积增长。但也要小心周围是否还有更大的史莱姆埋伏。
+
+**问：这一局要如何获胜？****
+答：** 在局内计时结束时，得分最高的玩家获胜。得分主要来源于你吞噬的物体和玩家数量，因此既要积极清图，也要抓住机会进行玩家对抗。
 

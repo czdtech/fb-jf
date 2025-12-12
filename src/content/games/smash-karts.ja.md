@@ -1,71 +1,52 @@
 ---
-locale: ja
+title: Smash Karts
+description: Smash Kartsはマルチプレイヤーカートレーシングです。レース、戦闘、武器を使用し、対戦相手を打ち負かし、カートチャンピオンになります。
+iframeSrc: 'https://smashkarts.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+thumbnail: /new-images/smash-karts.png
 urlstr: smash-karts
-title: '[JA TRANSLATION NEEDED] Smash Karts'
-description: >-
-  [JA TRANSLATION NEEDED] Smash Karts is a multiplayer online kart racing game
-  where players compete in fast-paced races, collect power-ups, and battle
-  opponents while racing through various tracks in colorful 3D environments.
-iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
-thumbnail: /new-images/smash-karts.jpg
+score: 4.5/5  (4234 votes)
 tags:
   - racing
-  - multiplayer
-  - battle
-score: 4.7/5  (277 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+  - 2 player
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Smash Kartsは、カートレーシングと戦闘を組み合わせた混沌としたマルチプレイヤーゲームです。レース、武器を収集し、対戦相手を攻撃し、最初にフィニッシュします。Mario Kartスタイルのゲームプレイで、パワーアップと破壊があります。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **パワーアップを収集:" 武器とブーストが重要です。
+2.  **ドリフトをマスター:" コーナーでドリフトして速度を維持します。
+3.  **戦略的に攻撃:" リーダーをターゲットにします。
+4.  **近道を学ぶ:" マップには隠されたパスがあります。
+5.  **防御:" シールドとブーストで保護します。
+
+### 操作ガイド
+
+- WASD/矢印：ドライブ、ステア。
+- スペース：武器を使用/ブースト。
+- パワーアップを収集し、使用します。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Smash Karts" is a multiplayer online kart racing game where players compete in fast-paced races, collect power-ups, and battle opponents while racing through various tracks in colorful 3D environments. The game combines classic kart racing with combat elements, providing players with exciting and fun multiplayer gaming experience.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Power-up Usage**: Learn to use various power-ups wisely, attacking opponents or defending yourself at appropriate times.
-[JA TRANSLATION NEEDED] 2.  **Track Familiarity**: Familiarize yourself with different track layouts to find optimal routes and shortcuts.
-[JA TRANSLATION NEEDED] 3.  **Driving Skills**: Master turning, drifting, and acceleration techniques to gain competitive advantages.
-[JA TRANSLATION NEEDED] 4.  **Tactical Cooperation**: Coordinate with teammates in team modes to fight against enemy players.
-[JA TRANSLATION NEEDED] 5.  **Timing**: Choose the right moments to use power-ups and launch attacks.
-
-### How to Play
-
-*   **Movement**: Use WASD keys or arrow keys to control kart movement.
-*   **Acceleration**: Some versions may have additional acceleration keys.
-*   **Use Power-ups**: Typically use spacebar or mouse click to use collected power-ups.
-*   **Drift**: Master drifting techniques to maintain speed while turning.
-
-
-- **Timing**: Choose the right moments to use power-ups and launch attacks.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: How do I get power-ups?**
-### よくある質問
 - **Drift**: Master drifting techniques to maintain speed while turning.
-- **Use Power-ups**: Typically use spacebar or mouse click to use collected power-ups.
-- **Acceleration**: Some versions may have additional acceleration keys.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Movement**: Use WASD keys or arrow keys to control kart movement.
-[JA TRANSLATION NEEDED] 1.  **Q: How do I get power-ups?**
+- **Q: マルチプレイヤーですか？**  
+  A: はい、リアルタイムオンラインマルチプレイヤー。
+- **Q: 最高の武器は何ですか？**  
+  A: すべて強力です。ミサイルとボムは良いです。
+- **Q: ドリフトはどのように機能しますか？**  
+  A: コーナー中にスペースを押し��速度ブーストを獲得します。
 
-- **Q: How many players can play simultaneously?**
-[JA TRANSLATION NEEDED]     **A**: You'll encounter power-up boxes while driving on tracks; hit them to get random power-ups.
 
-- **Q: How can I improve my driving skills?**
-[JA TRANSLATION NEEDED] 2.  **Q: How many players can play simultaneously?**
+**A**: Typically includes standard racing, battle mode, team battles, and other various game modes.
 
 - **Q: Are there different game modes?**
-[JA TRANSLATION NEEDED]     **A**: Usually supports multiple players online simultaneously; specific numbers depend on server and game version.
-[JA TRANSLATION NEEDED] 3.  **Q: How can I improve my driving skills?**
-[JA TRANSLATION NEEDED]     **A**: Practice more on different tracks, learn optimal routes, and master drifting and turning techniques.
-[JA TRANSLATION NEEDED] 4.  **Q: Are there different game modes?**
-[JA TRANSLATION NEEDED]     **A**: Typically includes standard racing, battle mode, team battles, and other various game modes.
+
+
+**A**: Typically includes standard racing, battle mode, team battles, and other various game modes.

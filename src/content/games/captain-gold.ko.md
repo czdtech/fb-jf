@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: captain-gold
-title: '[KO] Captain Gold'
+title: 'Captain Gold 캡틴 골드'
 description: >-
-  [KO] Captain Gold is a classic gold‑miner challenge — time throws, hook
-  valuables, and avoid rocks to hit quotas.
+  Captain Gold는 고전 골드 마이너 방식의 캐주얼 게임입니다. 흔들리는 갈고리를
+  타이밍 맞춰 내려 황금과 보물을 낚아 올리고, 값싼 바위는 피하면서 라운드마다
+  요구되는 금액을 채워 보세요.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/captain-gold.png
 tags:
@@ -14,37 +15,70 @@ score: 3.9/5  (1683 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Captain Gold는 좌우로 흔들리는 갈고리를 내려 지하의 황금과 보물을 건져 올리는
+골드 마이너 스타일의 게임입니다. 화면 아래에 크기와 종류가 다른 금덩이, 보석,
+바위 등이 섞여 있고, 플레이어는 갈고리가 원하는 위치를 가리킬 때 클릭/탭해
+내려 보내야 합니다.
 
+무거운 물건일수록 끌어올리는 데 시간이 오래 걸리고, 가벼운 물건은 빠르게
+올라옵니다. 각 스테이지는 제한 시간 안에 달성해야 하는 목표 금액이 정해져 있고,
+라운드 사이에는 상점에서 갈고리 속도, 다이너마이트 등 각종 보조 아이템을
+구입할 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Captain Gold follows the timeless gold‑miner formula: swing a hook across the screen and release at the right moment to snag gold nuggets and treasures. Heavy objects pull slowly, light ones reel in faster. Stages set cash targets and time limits, with shop upgrades between rounds.
+1.  **큰 금덩이와 돈가방을 우선 공략하기**  
+    초반에는 한 번에 큰 금액을 벌 수 있는 대형 금덩이와 돈가방을 중심으로
+    노리는 것이 좋습니다. 목표 금액의 대부분을 이들로 채워 두면, 후반에는
+    작은 보석들로 안전하게 마무리할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **바위는 가급적 피하기**  
+    바위는 무거운 데 비해 가치가 낮아, 시간을 낭비하기 쉽습니다. 꼭 통로를
+    막고 있어 긁어내야 하는 경우가 아니라면, 바위 쪽으로 갈고리가 향할 때는
+    타이밍을 조금 일찍 끊어 다른 방향을 노려 보세요.
 
-1.  **[KO]** Prioritize big nuggets and bags early for faster quota.
-2.  **[KO]** Avoid rocks — they’re heavy and low value unless you must clear space.
-3.  **[KO]** Use dynamite (if available) to drop unwanted items mid‑reel.
-4.  **[KO]** Shop smart: buy power‑reel or extra dynamite first; evaluate per stage layout.
-5.  **[KO]** Timing cues: Release slightly before the hook lines up due to swing momentum.
+3.  **다이너마이트로 불필요한 물건 버리기**  
+    다이너마이트를 가지고 있다면, 저가 바위나 원치 않는 물건을 끌어올리는
+    도중에 터뜨려 시간을 절약할 수 있습니다. 특히 스테이지 후반, 시간은 적고
+    목표 금액이 아슬아슬할 때 매우 유용합니다.
 
-### Controls Guide
+4.  **상점에서 똑똑하게 투자하기**  
+    라운드 사이 상점에서는 갈고리 속도를 높여 주는 아이템이나, 추가 다이너마이트
+    등을 구매할 수 있습니다. 바위가 많은 스테이지에서는 다이너마이트를, 큰
+    금덩이가 많은 스테이지에서는 리얼 속도 업그레이드를 우선적으로 고려해
+    보세요.
 
-- Tap/Click to release the hook; tap again to use dynamite if supported.
-- Navigate shop menus between levels.
+5.  **스윙 타이밍 감각 익히기**  
+    갈고리는 좌우로 흔들리며 움직이고, 클릭하는 순간 바로 그 위치에서 내려가는
+    것이 아니라 약간의 관성 차이가 생길 수 있습니다. 실제로 잡고 싶은 위치보다
+    약간 앞에서 버튼을 눌러, 스윙 움직임을 감안한 타이밍을 몸에 익히는 것이
+    중요합니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Q: I keep coming up short on cash — any tips?
+-   **갈고리 내리기:** 갈고리가 원하는 방향을 가리킬 때 클릭/탭하면 그대로
+    아래로 내려가, 닿은 물건을 걸어 올립니다.
+-   **다이너마이트 사용(지원되는 경우):** 물건을 끌어올리는 도중 다시 한 번
+    클릭/탭하면 다이너마이트를 던져, 갈고리에 걸려 있던 물건을 폭파해 버릴 수
+    있습니다.
+-   **상점 이용:** 라운드 사이 상점 화면에서 마우스나 터치로 아이템을 선택해
+    구매합니다.
 
-A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
+### 자주 묻는 질문 (FAQ)
 
-- Q: Is dynamite worth it?
+-   **Q. 스테이지마다 목표 금액을 자꾸 못 채워요. 팁이 있을까요?**  
+    A. 가장 큰 금덩이와 돈가방 위주로 노리고, 바위는 최대한 피하는 것이
+    중요합니다. 또한 초반에 리얼 속도 업그레이드를 해 두면 같은 시간 안에 더
+    많은 물건을 건져 올릴 수 있습니다.
 
-A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
+-   **Q. 다이너마이트는 사는 게 아까운가요, 아니면 필수인가요?**  
+    A. 바위가 많이 깔린 스테이지에서는 다이너마이트가 시간 세이브에 큰 도움이
+    됩니다. 저가 바위를 오래 끌어올리느라 시간을 버리는 것보다는, 폭파하고
+    다시 노리는 편이 훨씬 효율적입니다.
 
-- Q: Can I control hook angle precisely?
-
-A: Learn the swing rhythm; release a fraction early to account for motion.
-
+-   **Q. 갈고리 각도를 세밀하게 조절할 수 있나요?**  
+    A. 직접 각도를 움직이는 것이 아니라, 스윙 리듬을 읽고 원하는 방향 직전에
+    버튼을 누르는 식으로 타이밍을 잡아야 합니다. 몇 판 연습해 스윙 속도와
+    타이밍을 익히면 훨씬 안정적으로 원하는 목표를 잡을 수 있습니다.

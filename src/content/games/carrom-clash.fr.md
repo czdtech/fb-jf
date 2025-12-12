@@ -1,11 +1,10 @@
 ---
 locale: fr
 urlstr: carrom-clash
-title: '[FR] Carrom Clash'
+title: Carrom Clash
 description: >-
-  [FR] Experience the classic tabletop game of Carrom on your device! Aim your
-  striker, pocket your pieces, and cover the queen to defeat your opponent in
-  this game of skill and precision.
+  Découvre la version numérique du carrom : place ton striker, empoche tes pions
+  et couvre la dame rouge avant ton adversaire dans ce duel de précision.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/carrom-clash.png
 tags:
@@ -18,32 +17,75 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Carrom Clash est une adaptation fidèle du jeu de carrom où deux joueurs
+s’affrontent sur un plateau carré. Tu utilises le **striker** pour projeter tes
+pions (noirs ou blancs selon ton camp) vers les trous situés dans les quatre
+coins. Le but est d’empocher tous tes pions avant ton adversaire, tout en
+respectant les règles de la dame rouge.
 
-Carrom Clash is a realistic digital version of the beloved tabletop "strike and pocket" game, Carrom. Often described as finger billiards, the game challenges you to use a larger disc, the "striker," to flick your set of assigned pieces (either black or white) into the four corner pockets. The game requires precision, strategy, and a good understanding of angles to outmaneuver your opponent and clear your pieces first.
+La **dame** (la reine) est une pièce spéciale que tu peux empocher presque à
+n’importe quel moment, mais que tu dois ensuite "couvrir" en rentrant l’un de
+tes propres pions au coup suivant. La gestion des fautes, des rebonds et des
+positions sur le plateau fait de chaque tir un petit problème de géométrie.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** **The Objective:** Be the first player to pocket all of your pieces (black or white). To win, you must also pocket and "cover" the red Queen.
-2.  **[FR]** **Pocketing Your Pieces:** On your turn, you shoot the striker from your baseline. If you successfully pocket one of your own pieces, you get to shoot again.
-3.  **[FR]** **The Queen:** The red Queen is a special piece. You can pocket it any time after you've sunk your first piece. However, to secure the points for the Queen, you *must* sink one of your own pieces immediately on the very next shot. This is called "covering the Queen."
-4.  **[FR]** **Fouls:** Be careful not to pocket your striker! This is a foul and results in a penalty, where one of your already pocketed pieces is returned to the center of the board.
-5.  **[FR]** **Bank Shots:** Use the sides of the board to your advantage. Bouncing the striker off the edges can help you hit pieces that are in difficult positions.
+1.  **Clarifie ton objectif à chaque tour**  
+    Demande‑toi toujours si tu joues un coup offensif (empocher un pion, couvrir
+    la dame) ou défensif (rendre le coup suivant difficile pour l’adversaire).
+    Ne tire pas sans plan.
+2.  **Ne prends la dame que si tu peux la couvrir**  
+    Empocher la dame sans possibilité réaliste de rentrer un pion au coup
+    suivant est souvent une erreur. Assure‑toi d’avoir une bille facile à
+    empocher juste après.
+3.  **Utilise les bandes pour atteindre les pions difficiles**  
+    Les pions collés aux bords ou derrière d’autres pièces se jouent mieux avec
+    des tirs en bande. Visualise la trajectoire comme au billard pour prévoir
+    où ira le striker après rebond.
+4.  **Évite les fautes inutiles**  
+    Faire tomber le striker dans un trou te coûte un pion remis au centre et
+    donne l’initiative à l’adversaire. Réduis la puissance de tir quand tu es
+    proche d’un coin.
+5.  **Contrôle le centre du plateau**  
+    Laisser trop de pions adverses libres au milieu augmente ses angles
+    possibles. Essaye de libérer tes pièces tout en gardant les siennes dans
+    des positions gênantes.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Position Striker:** Click and drag the striker left and right along your baseline to position it for your shot.
-*   **[FR]** **Aim and Shoot:** Click on the striker and pull back. An aiming line will appear. The further you pull back, the more powerful your shot will be. Release to shoot.
+- **Positionner le striker** : fais glisser le striker le long de ta ligne de
+  base pour choisir le point de départ du tir.  
+- **Régler l’angle et la puissance** : clique et tire en arrière, dans la
+  direction opposée à la trajectoire souhaitée ; plus tu tires loin, plus le
+  coup sera puissant.  
+- **Lancer le tir** : relâche pour frapper et laisser la physique gérer les
+  collisions et empoches.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: What does it mean to "cover the Queen"?**
-    *   **[FR]** **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.
 
-*   **[FR]** **Q: What happens if I pocket the striker?**
-    *   **[FR]** **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
+- **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
 
-*   **[FR]** **Q: What if I pocket my opponent's piece?**
-    *   **[FR]** **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
+    - **Q: What if I pocket my opponent's piece?**
 
+- **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
+
+    - **Q: What happens if I pocket the striker?**
+
+- **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.
+
+    - **Q: What does it mean to "cover the Queen"?**
+**Q : Que signifie "couvrir la dame" ?**  
+R : Après avoir empoché la dame, tu dois absolument rentrer l’un de tes pions au
+coup suivant pour la valider. Si tu échoues, la dame est replacée au centre du
+plateau et tu perds son avantage.
+
+**Q : Que se passe‑t‑il si je fais tomber le striker dans un trou ?**  
+R : C’est une faute. Selon les règles, un de tes pions précédemment empochés est
+remis en jeu et ton tour se termine immédiatement.
+
+**Q : Puis‑je gagner sans prendre la dame ?**  
+R : Non, dans la plupart des règles classiques, tu dois à la fois empocher tous
+tes pions et avoir correctement couvert la dame pour remporter la partie.

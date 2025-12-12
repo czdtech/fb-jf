@@ -1,41 +1,82 @@
 ---
 locale: fr
 urlstr: crossword
-title: '[FR] Crossword'
-description: >-
-  [FR] Crossword is a classic fill‑in puzzle: solve across and down clues so all
-  crossing letters match.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
+title: Crossword
+description: "Résous des grilles de mots croisés en ligne\_: lis les définitions, remplis les mots horizontaux et verticaux et utilise les lettres croisées pour t’aider."
+iframeSrc: 'https://crosswordgames.io/game/dailyamerican_crossword/index.html'
 thumbnail: /new-images/crossword.jpg
 tags:
   - word
   - puzzle
-score: 4.8/5  (195 votes)
+score: 4.1/5  (1200 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Overview
-Crosswords are letter grids solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is cross‑checked by an intersecting word and grids typically have 180° rotational symmetry; common sizes are 15×15 on weekdays and 21×21 on Sundays. 
+Crossword est une version en ligne de mots croisés de style américain. Tu y
+retrouves des grilles quotidiennes avec numérotation des définitions par lignes
+(Across) et colonnes (Down).
 
-### How to Play
-- Click a clue or cell, then type letters to fill the entry.
-- Use cross letters to confirm uncertain answers and resolve ambiguities.
-- Many web versions include tools such as Check/Reveal, timers, and navigation shortcuts.
+Chaque case de lettre fait partie d’un mot horizontal et d’un mot vertical,
+ce qui te permet de vérifier les réponses par croisement. Les thèmes
+quotidiens peuvent influencer quelques réponses clés.
 
-### Controls
-- Type A–Z; arrow keys move between cells; Backspace deletes; Enter/Tab often switches direction or jumps to the next clue (site‑dependent).
+### Guide de jeu
 
-### Tips and Strategies
-- Start with easy clues (fill‑in‑the‑blank, plural/tense markers) to get crossings.
-- Fill long theme entries after gaining letters from nearby answers.
+1.  **Choisis une définition de départ**  
+    Commence par une définition courte ou évidente pour poser des lettres dans
+    la grille.
+2.  **Utilise les croisements**  
+    Une fois quelques lettres découvertes, essaie de compléter les mots qui
+    partagent ces lettres. Plus il y a de croisements, plus la solution se
+    clarifie.
+3.  **Profite du thème (s’il y en a un)**  
+    Les mots thématiques sont souvent les plus longs : une fois l’un trouvé,
+    les autres deviennent plus faciles à deviner.
+4.  **N’aie pas peur d’effacer et corriger**  
+    Si un mot ne colle plus avec les lettres croisées, reviens en arrière et
+    tente une autre réponse.
+5.  **Apprends les conventions des mots croisés**  
+    Attention aux abréviations, aux sens figurés et aux jeux de mots légers
+    fréquents dans les définitions.
+
+### Commandes
+
+- **Saisie** : tape les lettres directement dans les cases sélectionnées.  
+- **Navigation** : flèches, Tab ou clic sur les définitions pour changer de
+  mot actif.  
+- **Outils** : boutons de vérification, d’effacement ou de révélation selon la
+  version.
+
+### Foire aux questions (FAQ)
+
+
+- Q: What sizes are typical?
+
+
 - Learn common abbreviations and clue conventions used by American‑style grids.
 
-### FAQ
-- Q: What sizes are typical?
-A: Daily American crosswords are often 15×15; Sunday editions around 21×21.   
-- Q: Do all letters cross?
-A: American‑style grids generally check every letter with an intersecting entry.   
+- Fill long theme entries after gaining letters from nearby answers.
+### Foire aux questions (FAQ)
 
+- Learn common abbreviations and clue conventions used by American‑style grids.
+
+- Fill long theme entries after gaining letters from nearby answers.
+
+- Start with easy clues (fill‑in‑the‑blank, plural/tense markers) to get crossings.
+**Q : Les grilles sont‑elles uniquement en anglais ?**  
+
+- Q: Do all letters cross?
+R : Ce jeu spécifique est basé sur des mots croisés anglophones, il faudra donc
+un minimum de vocabulaire en anglais.
+
+**Q : Puis‑je revenir sur une grille précédente ?**  
+R : Selon le site, il est parfois possible de rejouer les grilles des jours
+précédents via un calendrier ou un historique.
+
+**Q : Les accents sont‑ils pris en compte ?**  
+R : Non, comme dans la plupart des mots croisés numériques, seuls les lettres
+A–Z sont utilisées, sans accents.

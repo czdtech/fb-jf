@@ -1,42 +1,52 @@
 ---
-locale: ja
-urlstr: duck-life
-title: '[JA TRANSLATION NEEDED] Duck Life'
-description: >-
-  [JA TRANSLATION NEEDED] Duck Life is a training and racing sim: level up your
-  duck through mini‑games and win races.
+title: Duck Life ダックライフ
+description: 「Duck Life」は元祖アヒル育成レースゲーム。ミニゲームでステータスを上げ、レースに勝利して牧場を救おう。
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/duck-life.jpg
+urlstr: duck-life
+score: 4.2/5  (1164 votes)
 tags:
   - racing
   - simulation
-score: 4.2/5  (1164 votes)
+developer: Wix Games
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Duck Life（ダックライフ）*は、世界中で愛されるアヒル育成レースシミュレーションの初代作品です。
+プレイヤーはアヒルを育て、ランニング、水泳、飛行の3つの基本ステータスをミニゲームで鍛えます。そして、レースに出場し賞金を稼ぎ、より高難易度のエリアへと挑戦していきます。シンプルながら中毒性のある育成ループが魅力です。
+
+### 遊び方
+
+*   **トレーニング:** 各スキルに対応したミニゲームをクリアしてステータスを上げます。
+*   **エネルギー:** レースにはエネルギーが必要です。稼いだコインで「種（Seed）」を買って食べさせましょう。エネルギーが高いほど、長距離レースでバテにくくなります。
+*   **レース:** エリアごとのライバルアヒル達と競走し、勝利すると次のエリアへ進めます。
+
+### 操作ガイド
+
+*   **ミニゲーム:** 矢印キー（移動・ジャンプ）、またはマウス操作。ゲームによって異なります。
+
+### 攻略のヒント
+
+*   **バランス育成:** 1つの能力だけを特化させても勝てません。全ての能力をまんべんなく鍛えましょう。
+*   **コース確認:** レース前にプレビューを見て、どの能力（陸上、水中、飛行）が一番重要かを確認しましょう。
+*   **エネルギー重要:** ステータスが高くても、エネルギーが空だと途中で力尽きて負けてしまいます。常に満タンを維持しましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: レースをスキップできますか？**
+
+A: Progression typically requires winning set races per area.
+- **A:** いいえ、次のエリアへ進むためにはレースに勝利する必要があります。
 
 
-### Overview
-[JA TRANSLATION NEEDED] The original training‑and‑racing sim: raise a duck’s running, swimming, and flying stats via mini‑games, then win races to progress through areas.
+A: Purely visual; training and energy drive results.
+*   **Q: 帽子を買うと強くなりますか？**
 
-### How to Play
-- Train each skill to meet race demands; feed seeds to boost energy.
-- Replay training stages to raise caps; races require balanced stats.
-- Earn coins to buy seeds and cosmetics.
+A: Early areas cap stats until later unlocks.
+    *   **A:** 帽子などのアクセサリーは見た目が変わるだけで、能力には影響しません。
 
-### Controls
-- Arrows/Space or mouse depending on mini‑game.
-
-### Tips
-- Balance stats rather than grinding only one.
-- Watch race previews to see which skills matter most.
-- Keep energy high; it’s effectively endurance.
-
-### FAQ
-- Q: Can I skip races?  
-[JA TRANSLATION NEEDED]   A: Progression typically requires winning set races per area.
-- Q: Do cosmetics help?  
-[JA TRANSLATION NEEDED]   A: Purely visual; training and energy drive results.
-- Q: Are there level caps?  
-[JA TRANSLATION NEEDED]   A: Early areas cap stats until later unlocks.
-
+*   **Q: ステータスが上がりません。**
+    *   **A:** 序盤のエリアではトレーニングで上げられるレベルに上限があります。レースに勝って新しいエリアをアンロックしましょう。

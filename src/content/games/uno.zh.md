@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: uno
-title: '[ZH TRANSLATION NEEDED] UNO Game'
+title: 'UNO 纸牌：经典出牌对战'
 description: >-
-  [ZH TRANSLATION NEEDED] UNO is the classic card game where players race to
-  empty their hands by matching colors and numbers, using special action cards
-  to block opponents and be the first to shout 'UNO!'
+  UNO 是一款家喻户晓的经典卡牌游戏。玩家通过颜色或数字匹配不断出牌，
+  灵活使用功能牌干扰对手，率先打空自己手牌并成功喊出“UNO！”即获得胜利。
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/uno.jpg
 tags:
@@ -17,32 +16,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+「UNO 纸牌」是一款规则简单却极具博弈性的卡牌对战游戏。
+每位玩家起始持有一定数量的手牌，通过「颜色相同」或「数字相同」的规则轮流出牌，
+同时利用跳过、反转、加牌等功能牌打乱对手节奏。
 
-[ZH TRANSLATION NEEDED] "UNO Game" is the classic card game where players race to empty their hands by matching colors and numbers, using special action cards to block opponents and be the first to shout "UNO!" This game is famous worldwide for its simple-to-learn but strategically rich gameplay.
+当你只剩最后一张牌时，必须在出完倒数第二张牌后立刻宣告“UNO！”，
+否则被其他玩家抓到将会被罚抽牌，失去本该到手的优势。
+正是这种简单规则与高对抗性的结合，使 UNO 成为线下桌游聚会与线上休闲对战的常青树。
 
-### Gameplay Strategy
+### 策略要点
 
-1.  **Color Priority**: Prioritize playing cards that match the current color, keeping wild cards and action cards as backup.
-2.  **Action Card Timing**: Use Skip, Reverse, and other action cards at crucial moments to disrupt opponents' rhythm.
-3.  **Hand Management**: Distribute different colored cards wisely to avoid being stuck with one color.
-4.  **Observe Opponents**: Pay attention to opponents' playing patterns and hand counts to predict their strategies.
-5.  **UNO Declaration**: Remember to shout "UNO" when you have one card left, or face penalty cards.
+1.  **颜色优先，功能备用：**
+    日常回合优先出与当前同色的普通牌，尽量保留万用牌和功能牌，
+    在关键时刻改变颜色或打断他人连招，才能发挥最大价值。
+2.  **功能牌时机：**
+    跳过（Skip）、反转（Reverse）、+2 / +4 等牌，适合在对手牌数较少、
+    或你即将获胜时使用，用来拖慢他们的节奏甚至直接把胜利拉回自己手上。
+3.  **手牌颜色分布：**
+    不要让自己手上只剩单一颜色的牌，否则一旦场面颜色被改，你会被迫连续抽牌。
+    适度保留不同颜色，能让你在更多回合拥有出牌权。
+4.  **观察对手：**
+    关注每位玩家剩余手牌数量和他们在改变颜色时的偏好，
+    这能帮助你推测他们缺少哪种颜色，从而有针对性地选择出牌。
+5.  **记得喊“UNO”：**
+    当你只剩一张牌时，一定要在规则要求的时机按键或点击 UNO 按钮，
+    否则被发现未宣告就会被罚抽多张牌，功亏一篑。
 
-### How to Play
+### 玩法说明
 
-*   **Play Cards**: Click on playable cards in your hand to play them.
-*   **Draw Cards**: Click the deck to draw when you can't play any cards.
-*   **Choose Color**: Select the next color after playing a wild card.
-*   **UNO Button**: Click the UNO button to declare when you have one card remaining.
+*   **出牌：** 点击手牌中符合规则的牌（颜色或数字相同，或可用的万能/功能牌）即可打出。
+*   **摸牌：** 当没有可出的牌时，点击牌堆抽牌；某些规则允许抽牌后若可出仍能继续出牌。
+*   **选颜色：** 打出万用牌后，会弹出颜色选择界面，点击你希望切换到的颜色。
+*   **UNO 按钮：** 当只剩最后一张牌时，及时点击 UNO 按钮完成宣告，避免罚牌。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: When do I need to shout UNO?**
-     **A**: When you have only one card left, you must shout "UNO" immediately after playing your second-to-last card.
-2.  [ZH TRANSLATION NEEDED] **Q: When is the best time to use wild cards?**
-     **A**: When you have no other options, or at crucial moments to change the game color and block opponents.
-3.  [ZH TRANSLATION NEEDED] **Q: What happens if I forget to shout UNO?**
-     **A**: If caught by other players, you'll typically be penalized with 2-4 additional cards.
-4.  [ZH TRANSLATION NEEDED] **Q: Can I play multiple identical cards in succession?**
-     **A**: This depends on specific rule settings; standard UNO rules allow only one card per turn.
+### 常见问题
+
+1.  **问：什么时候必须喊“UNO”？**
+    **答：** 当你在自己回合打出倒数第二张牌、手上只剩 1 张时，
+    必须立即按规则喊“UNO”（在游戏中通常是点击 UNO 按钮）。
+
+2.  **问：万用牌什么时候用最好？**
+    **答：** 建议在两种情况下使用：
+    一是你没有其他合法出牌时，用来“续命”；
+    二是在临近结束、你想把颜色改成对手最不利而自己最有利的颜色时使用。
+
+3.  **问：如果忘记喊“UNO”会怎样？**
+    **答：** 如果被其他玩家发现你手上只有 1 张牌却没喊“UNO”，
+    一般会按照规则罚你抽 2～4 张牌，直接拉长你的获胜时间。
+
+4.  **问：能否一次打出多张相同的牌？**
+    **答：** 这取决于房间或规则设置。标准官方规则中，每回合通常只能打出 1 张牌，
+    某些自定义玩法才允许连出相同数字或相同功能牌，具体以当前房间规则为准。

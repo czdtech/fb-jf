@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: classic-solitaire
-title: '[DE] Classic Solitaire'
+title: "Classic Solitaire"
 description: >-
-  [DE] Enjoy the timeless card game of Classic Solitaire (Klondike).
-  Strategically move cards between the tableau and foundation piles to sort all
-  suits in ascending order.
+  Genieße das zeitlose Kartenspiel Classic Solitaire (Klondike). Verschiebe
+  Karten geschickt zwischen Tableau und Ablagestapeln, um alle Farben in
+  aufsteigender Reihenfolge zu sortieren.
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/classic-solitaire.png
 tags:
@@ -17,41 +17,59 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Classic Solitaire* (Klondike) ist eines der bekanntesten Solitärspiele der
+Welt. Dein Ziel ist es, ein gemischtes 52-Karten-Deck auf vier
+Ablagestapel (Foundation) nach Farben geordnet von Ass bis König zu sortieren.
+Dafür musst du die Karten im Tableau geschickt umstapeln, verdeckte Karten
+freilegen und mit etwas Glück und Planung alle Karten auf die Ablagen bringen.
 
-### Detailed Game Introduction
+### Aufbau & Grundregeln
 
-Classic Solitaire, also known as Klondike, is one of the most famous and beloved single-player card games in the world. The objective is to organize a shuffled 52-card deck into four foundation piles, one for each suit, in ascending order from Ace to King. The game requires strategy, patience, and a bit of luck as you manipulate cards on the tableau to uncover hidden cards and build your foundations.
+1.  **Bereiche des Spielfelds:**
+    *   **Tableau:** Das Hauptfeld mit sieben Spalten. Die erste Spalte hat
+        eine Karte, die zweite zwei, bis zur siebten mit sieben Karten; jeweils
+        nur die oberste ist aufgedeckt.
+    *   **Ablagestapel (Foundation):** Vier Stapel (für ♠, ♥, ♦, ♣), auf denen du
+        mit dem Ass beginnst und aufwärts bis zum König baust.
+    *   **Talon/Stock:** Der Rest des Decks liegt verdeckt als Nachziehstapel.
+    *   **Ablage (Waste):** Aufgedeckte Karten vom Talon landen hier.
 
-### Gameplay Strategy & Walkthrough
+2.  **Zugregeln & Strategie:**
+    *   **Verdeckte Karten freilegen:** Priorität hat, verdeckte Karten im
+        Tableau aufzudecken – jede neue offene Karte bringt dir zusätzliche
+        Optionen.
+    *   **Bauen im Tableau:** In den Spalten legst du Karten absteigend und
+        abwechselnd in der Farbe (z. B. schwarze 7 auf rote 8).
+    *   **Auf die Foundation legen:** Sobald ein Ass frei ist, lege es auf die
+        entsprechende Ablage und baue in der Farbe aufwärts.
+    *   **Talon nutzen:** Wenn keine Züge im Tableau möglich sind, ziehst du
+        Karten vom Talon. Nutze neue Karten, um das Tableau weiter zu öffnen
+        oder auf die Ablage zu bauen.
+    *   **Leere Spalten:** Nur ein König (oder eine gültige Sequenz mit einem
+        König oben) darf in eine leere Tableau-Spalte gelegt werden.
 
-1.  **[DE]** **Game Components:**
-    *   **[DE]** **The Tableau:** The main playing area, consisting of seven columns of cards. The first column has one card, the second has two, and so on, up to seven. The top card of each column is face-up.
-    *   **[DE]** **The Foundation:** The four empty piles, usually at the top right. This is where you will build your suits, starting with the Ace.
-    *   **[DE]** **The Stock Pile:** The deck of remaining cards, placed face-down.
-    *   **[DE]** **The Waste Pile:** Cards drawn from the Stock Pile are placed face-up here.
+### Steuerung
 
-2.  **[DE]** **Core Rules & Strategy:**
-    *   **[DE]** **Expose Hidden Cards:** Your first priority should always be to expose the face-down cards in the tableau. Uncovering these cards gives you more options.
-    *   **[DE]** **Building on the Tableau:** You can move cards between columns in the tableau. Cards must be placed on a card of the next-highest rank and of the opposite color (e.g., a black 7 can be placed on a red 8).
-    *   **[DE]** **Moving to Foundations:** As soon as an Ace becomes available, move it to a foundation pile. Continue to move cards of the same suit in ascending order (Ace, 2, 3, 4...) onto the foundation piles whenever possible.
-    *   **[DE]** **Using the Stock Pile:** When you have no more moves on the tableau, draw from the Stock Pile. Use the revealed cards to make new moves on the tableau or to build on your foundations.
-    *   **[DE]** **Empty Tableau Columns:** Only a King (or a sequence starting with a King) can be moved into an empty column on the tableau.
+*   Karten bewegen: Ziehe per Maus oder Touch eine Karte (oder eine gültige
+    Sequenz) auf einen anderen Stapel.
+*   Vom Talon ziehen: Klicke auf den verdeckten Nachziehstapel, um Karten auf
+den Ablagestapel (Waste) zu legen.
+*   Auto-Move: In vielen Versionen kannst du Karten mit Doppelklick automatisch
+    auf die passende Ablage verschieben.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Move Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
-*   **[DE]** **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
-*   **[DE]** **Auto-Move to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
+*   F: Was ist das eigentliche Ziel?
+    *   A: Alle 52 Karten müssen auf den vier Ablagestapeln landen, nach Farbe
+        sortiert und von Ass bis König aufgebaut.
 
-### Frequently Asked Questions (FAQ)
+*   F: Was, wenn keine Züge mehr möglich sind?
+    *   A: Ziehe zunächst aus dem Talon. Sind auch dort alle Karten verbraucht
+        und es gibt keinen legalen Zug mehr, ist die Partie verloren.
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** The goal is to move all 52 cards into the four foundation piles, sorted by suit and in order from Ace to King.
-
-*   **[DE]** **Q: What happens when I run out of moves?**
-    *   **[DE]** **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
-
-*   **[DE]** **Q: Can I move cards back from the foundation to the tableau?**
-    *   **[DE]** **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
-
+*   F: Darf ich Karten von der Ablage zurück ins Tableau legen?
+    *   A: In den meisten digitalen Varianten ja – zumindest die oberste Karte
+        jeder Ablage. Das ist oft wichtig, um weitere verdeckte Karten im
+        Tableau aufzudecken.

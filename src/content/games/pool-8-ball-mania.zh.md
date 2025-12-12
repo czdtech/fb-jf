@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: pool-8-ball-mania
-title: '[ZH TRANSLATION NEEDED] Pool 8 Ball Mania'
+title: "《Pool 8 Ball Mania》八球桌球高手"
 description: >-
-  [ZH TRANSLATION NEEDED] Pool 8 Ball Mania refines bar‑pool — aim clean,
-  control cue‑ball with spin, and clear patterns with smart position play.
+  《Pool 8 Ball Mania》是一款规则接近酒吧八球的台球游戏，你需要精准瞄准、利用旋转控制主球走位，用合理的母球线路规划来清台取胜。
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/pool-8-ball-mania.png
 tags:
@@ -15,32 +14,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Pool 8 Ball Mania simulates casual 8‑ball with responsive aiming and spin. The core is cue‑ball control: land shape for the next shot, use topspin to follow, backspin to draw, and sidespin off rails to manage lines.
+《Pool 8 Ball Mania》模拟了操作手感相当顺滑的休闲八球桌球体验。核心不只是把球打进袋，而是通过精准控制母球（白球）的落点，为下一杆预留舒适的出杆角度。通过上旋让母球跟进、下旋把母球拉回、侧旋配合库边改变线路，你可以完成一整套流畅的清台路线。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Pre‑plan shape: Decide landing spots before every pot.
-2.  [ZH TRANSLATION NEEDED] Speed first: Smooth medium strokes trump power slams.
-3.  [ZH TRANSLATION NEEDED] Spin sparing: Small top/back/side spin corrections are safer.
-4.  [ZH TRANSLATION NEEDED] Pattern clears: Resolve clusters and problem balls early.
-5.  [ZH TRANSLATION NEEDED] Safety: If the pot is thin and risky, play safe to leave the opponent tough.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **提前规划母球落点：** 每打一球前，先想好进球之后母球应该停在哪个区域，方便下一杆的衔接，而不是只顾眼前这一杆能不能进。
+2.  **力量优先稳而非猛：** 大部分情况下，中等力度且线路纯正的击球比一味大力出杆靠谱得多，过猛容易导致进球失败或母球失控乱跑。
+3.  **旋转要“小剂量”使用：** 上旋、下旋、侧旋都很有用，但初学阶段建议只做轻微调节，避免大幅旋转让母球轨迹难以预估。
+4.  **优先拆解难题球：** 开局观察哪些球团成堆或贴库难打，尽量在局势还简单时就找机会先把这些“问题球”处理掉，免得最后被它们卡死。
+5.  **不会进就打防守：** 当某杆进球风险极高时，可以选择保守一点，刻意留下让对手不容易进攻的球型，把主动权留在自己手里。
 
-- Aim: drag; Power: pull meter; Spin: adjust cue‑ball diagram; Camera: pan/zoom if available.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **瞄准：** 拖动瞄准线调整击球方向。  
+- **控制力度：** 通过拉动力量条来决定出杆力度。  
+- **设置旋转：** 在母球示意图上调整击打点，以添加上旋、下旋或侧旋。  
+- **视角与镜头：** 部分版本支持拖动画面或缩放查看球桌全局。
 
-- Q: Pots rattle out — why?
-  
-[ZH TRANSLATION NEEDED]   A: Too much speed or impure line; reduce power and aim through pocket center.
+### 常见问题（FAQ）
 
-- Q: How to hold position?
-  
-[ZH TRANSLATION NEEDED]   A: Short follow/draw and use rails to bleed speed.
+- **问：为什么球总是在袋口“晃一圈”出不去？**  
+  **答：** 通常是因为力量过大或入袋角度不正。可以适当降低出杆力度，并尽量让目标球沿着袋口中心线方向滚入。
 
-- Q: Break tips?
-  
-[ZH TRANSLATION NEEDED]   A: Square on head ball, moderate power, control cue‑ball center.
+- **问：如何让母球更好地停在想要的位置？**  
+  **答：** 多利用轻微的跟进球（上旋）、拉杆（下旋）和借库减速，让母球在撞击后逐渐减速并停在你预期的区域，而不是直线撞到另一侧库边乱弹。  
 
+- **问：开球有什么小技巧？**  
+  **答：** 尽量用适中偏大的力量正面击中顶球（最前面那颗），保证白球不过度偏移，同时有机会炸散球堆，又不至于把母球带入袋或贴库。

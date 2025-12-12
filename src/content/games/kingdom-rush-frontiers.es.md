@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: kingdom-rush-frontiers
-title: '[ES] Kingdom Rush Frontiers'
+title: "Kingdom Rush Frontiers"
 description: >-
-  [ES] Tower defense sequel: build and upgrade towers, deploy reinforcements and
-  heroes, and counter enemy types with smart placement.
+  Secuela de tower defense: construye y mejora torres, despliega refuerzos y
+  héroes, y contrarresta tipos de enemigos con una colocación inteligente.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/kingdom-rush-frontiers.jpg
 tags:
@@ -16,29 +16,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Visión general
+Frontiers refina la fórmula de Kingdom Rush con nuevos biomas, habilidades de
+enemigos y especializaciones de torres. Coloca torres de arqueros, cuarteles,
+magos y artillería a lo largo de los caminos y luego evoluciona cada línea en
+ramas especializadas. Llama refuerzos, lanza habilidades tipo meteorito y
+microgestiona a tu héroe para tapar fugas mientras gestionas resistencias físicas
+ y mágicas.
 
+### Cómo se juega
+- Identifica el tipo de armadura: usa magos contra enemigos muy blindados y
+  arqueros/artillería contra enjambres.
+- Coloca cuarteles en los cuellos de botella para frenar y apoya con daño de
+  área o mágico.
+- Reserva las habilidades del héroe y los "nukes" globales para oleadas élite o
+  grupos de voladores.
 
-### Overview
-Frontiers refines the Kingdom Rush formula with new biomes, enemy abilities, and tower specializations. Place archer, barracks, mage, and artillery towers, then branch them into unique specials. Call reinforcements, drop meteor‑like specials, and micro your hero to plug leaks while managing armor/magic resist counters.
+### Controles
+- Ratón/táctil para construir, mejorar y lanzar habilidades; los atajos de
+  teclado dependen del host.
 
-### How to Play
-- Identify armor types; use mages vs. armored foes, archers/artillery vs. swarms.
-- Position barracks to stall at choke points; support with splash or magic.
-- Save hero skills and nukes for elite waves or flying rushes.
+### Consejos
+- No sobreconstruyas al principio: es mejor mejorar 2‑3 torres clave para
+  maximizar el daño.
+- Mezcla daño de área y de objetivo único para lidiar con oleadas variadas.
+- Revisa las rutas de vuelo y añade antiaéreos donde sea necesario.
 
-### Controls
-- Mouse/touch to build, upgrade, and cast; hotkeys vary by host.
+### Preguntas frecuentes (FAQ)
 
-### Tips
-- Don’t overbuild early—upgrade key towers for efficient damage.
-- Split splash and single‑target to handle mixed waves.
-- Scout flying paths; add anti‑air where needed.
+*   **P: ¿Qué mejoras de torre debo priorizar?**  
+    **R:** Suele rendir mejor llevar una o dos torres cerca del choke a nivel
+    3/4 que llenar el mapa de torres débiles.
 
-### FAQ
-- Q: Which tower upgrades should I prioritize?
-A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
-- Q: How do I counter heavy armor waves?
-A: Invest in mage lines and armor‑shredding skills.
-- Q: Are heroes necessary to win?
-A: Not required but very helpful for stalling and finishing elites.
+*   **P: ¿Cómo contrarresto oleadas de armadura pesada?**  
+    **R:** Invierte en ramas de magos y habilidades que reduzcan armadura.
 
+*   **P: ¿Son imprescindibles los héroes?**  
+    **R:** No son obligatorios, pero ayudan mucho a frenar élites y estabilizar
+    picos de daño en los puntos clave.

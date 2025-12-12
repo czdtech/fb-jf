@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: there-is-no-game
-title: '[DE] There is no game'
-description: >-
-  [DE] Experience the unique meta-puzzle adventure of There is no game! Defy a
-  sarcastic narrator, break the fourth wall, and solve unconventional puzzles by
-  clicking and dragging elements. This humorous and mind-bending game challenges
-  your perception of what a game can be.
+title: "There is no game"
+description: "Erlebe das Meta‑Puzzle‑Abenteuer There is no game: Widersprich einem sarkastischen Erzähler, brich die vierte Wand und löse ungewöhnliche Rätsel, indem du mit der Benutzeroberfläche spielst."
 iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/there-is-no-game.jpg
 tags:
@@ -17,31 +13,32 @@ score: 3.9/5  (1003 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+„There is no game“ ist ein ungewöhnliches Meta‑Puzzle‑Abenteuer, das ständig mit deinen Erwartungen spielt. Ein spöttischer Erzähler behauptet die ganze Zeit, es gäbe hier gar kein Spiel – während du heimlich versuchst, genau dieses „Nicht‑Spiel“ doch zu spielen. Du musst Regeln brechen, unerwartete Interaktionen ausprobieren und Hinweise in Text und Interface lesen, um weiterzukommen.
 
-### Game Introduction
+### Spielanleitung
 
-"There is no game" is a unique and highly acclaimed meta-puzzle adventure game that constantly challenges the player's perception of what a game is. Guided (or rather, misguided) by a sarcastic narrator who insists there is no game to play, players must find unconventional ways to interact with the environment, break the rules, and progress through a series of clever and humorous puzzles.
+Das Gameplay basiert im Kern auf Point‑and‑Click‑Mechaniken. Du klickst, ziehst und verschiebst Elemente auf dem Bildschirm, oft auf Arten, die in klassischen Spielen gar nicht vorgesehen wären.
 
-### Gameplay Guide
+- **Unkonventionelle Interaktionen:** Viele Lösungen verlangen, dass du die Benutzeroberfläche selbst manipulierst – etwa Menüs verschiebst, Objekte auseinanderziehst oder Texte „kaputt machst“.
+- **Vierte Wand durchbrechen:** Der Erzähler redet direkt mit dir, kommentiert deine Aktionen und versucht, dich vom „Spielen“ abzuhalten. Oft ist der richtige Weg genau das Gegenteil von dem, was er dir rät.
+- **Level‑Struktur:** Jede Szene bringt ein neues Szenario und eigene Regeln mit sich, die du erst durch Herumprobieren verstehst.
 
-The core gameplay involves point-and-click interactions. You'll need to click, drag, and manipulate elements on the screen in unexpected ways to solve puzzles and advance. The game frequently breaks the fourth wall, and success often requires thinking outside the box and ignoring the narrator's direct instructions. Each "level" presents a new scenario where you must figure out how to bypass the narrator's attempts to stop you from playing.
+### Steuerung
 
-### Controls Guide
+- **Linke Maustaste:** Klicken, Ziehen, Loslassen – alle Interaktionen laufen über einen einfachen Mausknopf.
 
-- **Left Mouse Button:** Used for all interactions, including clicking on objects, dragging elements, and solving puzzles.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Ist das wirklich ein Spiel?**
 
-**Is this really a game?**
+Ja – der Titel und der Erzähler sind Teil des Witzes. Hinter dem „Es gibt kein Spiel“ steckt ein vollwertiges, wenn auch kurzes Point‑and‑Click‑Abenteuer.
 
-Yes, despite its title and the narrator's insistence, "There is no game" is indeed a game, and a very clever one at that. The title is part of its meta-narrative.
+**Welche Art von Rätseln gibt es?**
 
-**What kind of puzzles are there?**
+Sehr unkonventionelle Rätsel, bei denen du die Benutzeroberfläche manipulierst, versteckte Elemente findest oder Dinge tust, die in normalen Spielen „verboten“ wären. Humor und das Durchbrechen der vierten Wand stehen im Mittelpunkt.
 
-The puzzles are highly unconventional and often involve manipulating the game's interface, finding hidden elements, or performing actions that seem counter-intuitive to traditional gaming. Humor and breaking the fourth wall are central to the puzzle design.
+**Wie lang ist das Spiel?**
 
-**How long is the game?**
-
-The original "There is no game" is a relatively short experience, designed as a point-and-click adventure. There is also a longer, full-fledged sequel called "There Is No Game: Wrong Dimension."
-
+Die ursprüngliche Version ist eher kurz und eignet sich gut für eine einzelne Session. Es gibt außerdem eine größere, eigenständige Fortsetzung namens „There Is No Game: Wrong Dimension“.

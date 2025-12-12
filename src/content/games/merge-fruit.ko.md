@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: merge-fruit
-title: '[KO] Merge Fruit'
+title: "Merge Fruit 머지 프루트"
 description: >-
-  [KO] Merge Fruit is a juicy merge‑and‑drop — combine identical fruits, manage
-  stack heights, and engineer cascades for big scores.
+  Merge Fruit는 과일을 떨어뜨려 같은 과일끼리 합치고, 높이를 관리하며 연쇄 합성을
+  노려 높은 점수를 겨루는 머지 퍼즐 게임입니다.
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/merge-fruit.png
 tags:
@@ -17,34 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Merge Fruit*는 중력 낙하와 머지-2 규칙을 결합한 게임입니다. 상단에서 과일을 떨어뜨려
+바구니 안에 쌓으면, 서로 닿은 동일 과일이 합쳐져 더 큰 과일로 진화합니다. 중요한 것은
+앞으로의 머지를 위해 적당히 쌓는 동시에, 화면 상단을 넘지 않도록 높이를 관리하는
+부분입니다.
 
-Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; touching identical fruits merge into a larger one. The challenge is stacking for future merges while preventing overflows at the top.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **중앙에 큰 과일 고정:** 가장 큰 과일은 가능한 중앙 근처에 두어, 양쪽에서 새 과일이
+   떨어져도 쉽게 합쳐질 수 있도록 하세요.
+2. **높이 관리:** 특정 열만 튀어나와 있으면 오버플로우 위험이 커집니다. 한 열이 너무
+   높아지기 전에 주변으로 과일을 분산시켜 전체 높이를 평평하게 유지하세요.
+3. **연쇄 합성 설계:** 같은 과일 두 개를 미리 나란히 세팅해 두었다가, 세 번째 과일을
+   위에 떨어뜨려 한 번에 연쇄 머지가 일어나도록 설계해 보세요.
+4. **희생 라인 활용:** 한쪽 가장자리는 당장 쓸 일이 없는 애매한 과일을 버리는
+   '쓰레기 라인'으로 활용하면, 중앙의 머지 구조를 깔끔하게 유지하는 데 도움이 됩니다.
+5. **바운스 중에는 기다리기:** 과일이 튀어오르며 움직이는 동안 서둘러 다음 과일을
+   떨어뜨리면 의도치 않은 위치로 들어갈 수 있습니다. 움직임이 안정될 때까지 잠시
+   기다렸다가 투척하세요.
 
-1.  **[KO]** Center anchor: Keep the largest fruit near the center for multi‑side merges.
-2.  **[KO]** Height control: Flatten spikes before they cause overflow.
-3.  **[KO]** Chain planning: Stage twins adjacent before dropping a third to trigger cascades.
-4.  **[KO]** Sacrifice lane: Use one edge as a trash lane for off‑cycle fruits.
-5.  **[KO]** Patience: Don’t force drops during bounce chaos — wait a beat.
+### 조작 방법
 
-### Controls Guide
+- 좌우 이동 키나 슬라이드로 과일 투하 위치를 조준하고, 탭/클릭으로 과일을 떨어뜨립니다.
+- 일부 버전에서는 홀드나 실행 취소 기능이 제공될 수 있습니다.
 
-- Move left/right to aim; tap to drop; some builds allow holds/undos.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 보드가 자꾸 넘쳐서 게임이 빨리 끝나요.
 
-- Q: Board keeps overflowing.
+  A: 큰 머지 한 번을 노리기보다, 먼저 기둥 높이를 평평하게 만들고 같은 과일 쌍을
+  여기저기 준비해 두는 데 집중해 보세요.
 
-A: Stop chasing big merges; first flatten columns and stage pairs.
+- Q: 과일은 어디에 떨어뜨리는 게 가장 좋나요?
 
-- Q: Best place to drop?
+  A: 대부분의 상황에서는 중앙이 가장 유연합니다. 양쪽 가장자리는 필요할 때만
+  '쓰레기 라인'처럼 사용하는 것이 좋습니다.
 
-A: Center for flexibility; edges only for trash lane management.
+- Q: 실행 취소(Undo)를 써도 되나요?
 
-- Q: Are undos fair game?
-
-A: Use sparingly to fix genuine misdrops.
-
+  A: 실수한 투척을 바로잡는 용도로 가볍게 사용하는 정도라면 괜찮습니다. 다만 난이도를
+  유지하려면 모든 수를 되돌리기보다는, 정말 아쉬운 실수일 때만 쓰는 편이 좋습니다.

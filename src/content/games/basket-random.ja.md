@@ -1,103 +1,60 @@
 ---
+title: "Basket Random バスケット・ランダム"
+description: "「Basket Random」は、物理演算ベースの予測不能ハチャメチャ・バスケゲームの完全ガイド。ワンボタン操作をマスターし、カオスな状況を楽しみながら2人対戦で勝利を掴もう。"
+iframeSrc: "https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html"
+thumbnail: "/new-images/basket-random.jpg"
+urlstr: "basket-random"
+score: "4.2/5  (284 votes)"
+tags: ["casual", "sports"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: basket-random
-title: '[JA TRANSLATION NEEDED] Basket Random'
-description: >-
-  [JA TRANSLATION NEEDED] A guide to Basket Random, the wacky and unpredictable
-  physics-based basketball game. Learn the one-button controls, strategies for
-  embracing chaos, and how to win in this hilarious 2-player game.
-iframeSrc: >-
-  https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
-thumbnail: /new-images/basket-random.jpg
-tags:
-  - casual
-  - sports
-score: 4.2/5  (284 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Basket Random（バスケット・ランダム）*は、その名の通り「究極のランダム性」を特徴とする、カオスで爆笑必至の物理演算バスケットボールゲームです。ラグドール（ふにゃふにゃした人形）のような選手たちを操作し、2対2のチーム戦を行います。目的はシンプルで、先に5点先取したチームの勝利です。
 
+このゲームの最大の特徴は、ゴールが決まるたびに**ほぼ全ての条件が変わる**ことです。コートの長さが変わったり、地面が凍りついたり、リングの高さが変わったりします。選手の手足が異常に長くなったり、頭でっかちになったり、体が弾むボールのようになったりもします。さらに、ボール自体も普通のバスケットボールからアメフトボール、ボウリングの玉、小さくて速いボールなどに変化します。
 
-### Detailed Introduction
+プレイヤーはキャラクターを細かく操作することはできません。できるのは、たった一つのボタンを押して「ジャンプ＆腕を振る」ことだけ。この不自由で予測不能な動きこそが、すべての試合をお祭り騒ぎのような楽しい体験にしてくれます。
 
-[JA TRANSLATION NEEDED] *Basket Random* is a chaotic and hilarious physics-based basketball game defined by its extreme randomness. The game pits two teams of two ragdoll-like players against each other on a 2D court. The objective is simple: be the first team to score 5 points.
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] What makes the game unique is that almost everything changes with every point scored. The court might become long, short, or icy. The players might get long arms, big heads, or become bouncy. Even the ball itself can change, transforming from a standard basketball into a football, a bowling ball, or even a smaller, faster ball.
+*Basket Random* で勝つコツは、カオスを制御することではなく、カオスと「うまく付き合う」ことです。
 
-[JA TRANSLATION NEEDED] Players have extremely limited control over their characters, who move and jump in an unwieldy, floppy manner. The gameplay is less about precise skill and more about mastering the timing of a single button press to jump, flail, and hopefully guide the ball into the opponent's hoop. This unpredictable nature makes every match a frantic and comical experience.
-**1. How do I properly control my character?**（日本語訳が必要）
+1.  **カオスを受け入れろ：** 最も重要なルールです。自分の選手を思い通りに動かすことはできないと諦めましょう。彼らは転び、変な方向に跳ねます。あなたの役割は、彼らの一挙手一投足を管理することではなく、ここぞという瞬間に「介入」することです。
+2.  **タイミングを極める：** 操作ボタンは一つだけ。つまり、「いつ押すか」が唯一にして最大の技術です。
+    *   **攻撃時（オフェンス）：** ボールに向かってジャンプする時や、ボールを持っている時にシュート動作をするために押します。タイミングよくジャンプすれば、手から放たれたボールが直接リングに吸い込まれることもあります。
+    *   **防御時（ディフェンス）：** 相手のシュートをブロックしたり、空中でボールを奪う（スティール）ためにタイミングを合わせます。ボールと自軍のリングの間に体をねじ込みましょう。
+3.  **相手（と味方）を利用する：** 物理演算は全員に平等に働きます。他の選手に体当たりしてボールを落とさせたり、軌道をずらしたりできます。時には倒れている他の選手の頭を踏み台にして高くジャンプすることさえ可能です。
+4.  **状況変化に即応する：** 1点入るたびに、新しいランダム要素を確認しましょう。床が凍っていませんか？ ボールが重くなっていませんか？ 腕が伸びていませんか？ 戦略は即座に変えなければなりません。例えば氷のコートなら、滑る分を計算に入れて早めにジャンプする必要があります。
+5.  **位置取りの意識：** ランダムとはいえ、できるだけ有利な位置をキープしましょう。守備時は自軍ゴール近くに、攻撃時は相手ゴール方向へボールを弾けるように、ボールの下に潜り込むのが基本です。
 
-### Gameplay Strategy
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] Winning in *Basket Random* is about taming the chaos, not controlling it.
+2人で1つのキーボードを使って遊べる、超シンプルなワンボタン操作です。
 
-[JA TRANSLATION NEEDED] 1.  **Embrace the Chaos:** The first and most important rule is to accept that you cannot fully control your players. They will stumble, fall, and spin unpredictably. The goal is to influence their actions at the right moment, not dictate their every move.
-[JA TRANSLATION NEEDED] 2.  **Master Your Timing:** Since you only have one button, *when* you press it is the only skill that matters.
-[JA TRANSLATION NEEDED]     *   **On Offense:** Press the button to jump towards the ball or to perform a "shooting" motion when you have it. Sometimes a well-timed jump can launch the ball from your hands directly into the basket.
-[JA TRANSLATION NEEDED]     *   **On Defense:** Timing your jump correctly can block an opponent's shot or even steal the ball mid-air. Get your player between the ball and your basket.
-[JA TRANSLATION NEEDED] 3.  **Use Your Opponent (and Teammate):** The physics engine applies to everyone. Bumping into other players can knock the ball loose or change their trajectory. You can even inadvertently use another player's head as a platform to jump higher.
-[JA TRANSLATION NEEDED] 4.  **Adapt Instantly to New Conditions:** After every point, take a split second to assess the new random elements. Is the court now covered in ice? Is the ball heavy? Are your arms comically long? Your strategy must change immediately. For example, on an icy court, you'll slide more, so you need to press the button earlier to account for the drift.
-[JA TRANSLATION NEEDED] 5.  **Positional Awareness:** Despite the randomness, try to keep your players in a useful position. On defense, stay closer to your own basket. On offense, try to get under the ball to propel it toward the opponent's hoop.
+*   **プレイヤー1：**
+    *   **W キー：** ジャンプ / 腕を振る
+*   **プレイヤー2：**
+    *   **上矢印キー（↑）：** ジャンプ / 腕を振る
+*   **スマホ / タッチスクリーンの場合：**
+    *   画面の半分（左側が1P、右側が2P）をタップします。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] The game is famous for its extremely simple, single-button control scheme, designed for two players on one keyboard.
+**1. キャラクターを思い通りに動かせません！**  
+それがこのゲームの醍醐味です。操作はジャンプ＆腕振りのみなので、ジャンプのタイミングで流れをコントロールしましょう。
 
-*   **Player 1:**
-[JA TRANSLATION NEEDED]     *   **`W` Key** or **`Up Arrow` Key**: Jump / Fling arms.
-*   **Player 2:**
-    - **`W` Key** or **`Up Arrow` Key**: ジャンプ / Fling arms.
-- **Player 1:**（日本語訳が必要）
-    - タップ on the respective side of the screen (left side for Player 1, right side for Player 2).
-    - **`Up Arrow` Key** or **`W` Key**: ジャンプ / Fling arms. (The controls depend on the specific version, but it's always one key per player).
-- **Player 2:**（日本語訳が必要）
-- **For Mobile / タッチscreen Devices:**
-### Frequently Asked Questions (よくある質問)
-    - タップ on the respective side of the screen (left side for Player 1, right side for Player 2).
-[JA TRANSLATION NEEDED]     *   **`Up Arrow` Key** or **`W` Key**: Jump / Fling arms. (The controls depend on the specific version, but it's always one key per player).
-*   **For Mobile / Touchscreen Devices:**
-[JA TRANSLATION NEEDED]     *   Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
+**2. なぜゴールが決まるたびに環境が変わるのですか？**  
+「ランダム」要素はゲームの核です。コートや重力、ボールが変わることで毎回違うシチュエーションを楽しめます。
 
-### Frequently Asked Questions (FAQ)
+**3. 勝利条件は？**  
+基本ルールでは先に5ポイント取ったチームが勝利します（モードによって変更される場合があります）。
 
-[JA TRANSLATION NEEDED] **1. How do I properly control my character?**
+**4. 一人で遊べますか？**  
+はい。CPU と戦えるシングルプレイや協力モードが用意されています。
 
-- **Player 1:**
-[JA TRANSLATION NEEDED] You don't—and that's the point of the game! You can only influence your character by timing your jumps. The ragdoll physics are designed to be clumsy and unpredictable for comedic effect.
-
-[JA TRANSLATION NEEDED] **2. Why does the court/ball/player change after every point?**
-[JA TRANSLATION NEEDED] This is the core "Random" mechanic of the game. It ensures that no two rounds are the same and keeps the gameplay fresh and unpredictable.
-
-[JA TRANSLATION NEEDED] **3. How do I win a match?**
-[JA TRANSLATION NEEDED] The first player (or team) to score 5 points wins the entire match.
-
-[JA TRANSLATION NEEDED] **4. Can I play this game by myself?**
-[JA TRANSLATION NEEDED] Yes, *Basket Random* includes a single-player mode where you can compete against a computer-controlled AI opponent.
-
-[JA TRANSLATION NEEDED] **5. What is the best "random" variation?**
-[JA TRANSLATION NEEDED] There is no "best" variation, as they are all designed to be chaotic. However, some players find the long-armed players useful for blocking and shooting, while others enjoy the challenge of a heavy bowling ball or an icy court. The fun comes from adapting to whatever the game throws at you.
-
-
-    - **On Offense:** 押す the button to jump towards the ball or to perform a "shooting" motion when you have it. Sometimes a well-timed jump can launch the ball from your hands directly into the basket.
-
-- **Player 2:**
-    - **On Defense:** Timing your jump correctly can block an opponent's shot or even steal the ball mid-air. Get your player between the ball and your basket.（日本語訳が必要）
-
-
-    - Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
-- **For Mobile / Touchscreen Devices:**
-
-    - Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
-### コントロール Guide
-You don't—and that's the point of the game! You can only influence your character by timing your jumps. The ragdoll physics are designed to be clumsy and unpredictable for comedic effect.（日本語訳が必要）
-**2. Why does the court/ball/player change after every point?**（日本語訳が必要）
-This is the core "Random" mechanic of the game. It ensures that no two rounds are the same and keeps the gameplay fresh and unpredictable.（日本語訳が必要）
-**3. How do I win a match?**（日本語訳が必要）
-The first player (or team) to score 5 points wins the entire match.（日本語訳が必要）
-**4. Can I play this game by myself?**（日本語訳が必要）
-Yes, *Basket Random* includes a single-player mode where you can compete against a computer-controlled AI opponent.（日本語訳が必要）
-**5. What is the best "random" variation?**（日本語訳が必要）
-There is no "best" variation, as they are all designed to be chaotic. However, some players find the long-armed players useful for blocking and shooting, while others enjoy the challenge of a heavy bowling ball or an icy court. The fun comes from adapting to whatever the game throws at you.（日本語訳が必要）
-
-There is no "best" variation, as they are all designed to be chaotic. However, some players find the long-armed players useful for blocking and shooting, while others enjoy the challenge of a heavy bowling ball or an icy court. The fun comes from adapting to whatever the game throws at you.
+**5. どのランダムパターンが強いですか？**  
+「腕が長い」「低重力」などは人気ですが、どの環境にも利点と欠点があります。自分が得意なパターンを見つけて練習しましょう。

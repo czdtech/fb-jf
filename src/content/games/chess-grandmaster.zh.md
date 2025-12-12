@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: chess-grandmaster
-title: '[ZH TRANSLATION NEEDED] Chess Grandmaster'
+title: "Chess Grandmaster 国际象棋大师版"
 description: >-
-  [ZH TRANSLATION NEEDED] Chess Grandmaster offers classic chess — learn
-  openings, calculate tactics, and convert advantages with endgame fundamentals.
+  《Chess Grandmaster 国际象棋大师版》提供完整的浏览器国际象棋体验，你可以与 AI 或
+  本地对手对局，系统化练习开局、中局战术和残局基础，一步步向真正的“棋坛大师”迈进。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/chess-grandmaster.jpg
 tags:
@@ -17,31 +17,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Chess Grandmaster is a feature‑complete browser chess experience against AI or local opponents. Master the three phases: openings (development and king safety), middlegame (tactics like forks, pins, skewers), and endgames (king activity, opposition, basic mates). Adjustable difficulty helps you train calculation and pattern recognition.
+《Chess Grandmaster 国际象棋大师版》是一款功能完备的浏览器国际象棋游戏，你可以选择
+与电脑 AI 对弈，也可以在本地轮流落子和朋友对战。游戏围绕国际象棋的三个关键阶段——
+开局、中局和残局——进行设计：开局侧重发展与王的安全，中局强调各类战术（例如叉击、
+钉住、串击），残局则考验你的王的运用和基础将杀技巧。可调难度帮助你循序渐进地提升
+计算能力与棋形识别能力。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Openings: Develop minor pieces, castle early, and fight for the center (e4/d4).
-2.  [ZH TRANSLATION NEEDED] Tactics: Always scan checks, captures, threats on every move (“CCT”).
-3.  [ZH TRANSLATION NEEDED] Structure: Avoid doubled/isolation if possible; create pawn majorities you can push.
-4.  [ZH TRANSLATION NEEDED] Endgames: Activate your king; know basic mates (KQ vs K, KR vs K) and pawn endings (opposition/zugzwang).
-5.  [ZH TRANSLATION NEEDED] Time control: Play simple, safe moves when low on time.
+
+1.  **开局：** 争夺中心、快速发展轻子并尽早王车易位。优先把马和象发展到活跃格子，
+    避免一开始就频繁移动同一枚子。
+2.  **战术：** 每一步都养成“检查将军、吃子和威胁”（即 CCT：Checks, Captures,
+    Threats）的习惯，尽量不漏战术机会，也避免被对手战术打击。
+3.  **兵形结构：** 尽量避免出现成双兵、孤兵等薄弱兵形，争取形成可以推进的兵多数，
+    为残局优势做铺垫。
+4.  **残局：** 主动出动你的国王，让它成为强力的攻防单位；熟悉基础将杀（KQ vs K、
+    KR vs K）以及关键兵残局观念，如对峙（opposition）和“逼着”（zugzwang）。
+5.  **时间管理：** 若采用有时间限制的模式，在时间紧张时更倾向于稳健、简单的着法，
+    避免长时间思考导致超时。
 
 ### Controls Guide
 
-- Click a piece to see legal moves; click a destination to move.
-- Offer draw/resign and set AI level in the UI.
+- 点击棋子即可高亮显示所有合法走法，然后点击目标格完成落子。
+- 在界面中可以调整 AI 等级、提和或认输，并重新开始对局。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: How do I improve quickly?
-  
-[ZH TRANSLATION NEEDED]   A: Solve tactics daily, review your blunders, and learn a simple opening repertoire to reach familiar middlegames.
+- **Q: 想要快速提升棋力，有什么建议？**  
+  **A：** 建议每天做一定数量的战术题，复盘自己的失误局面，并准备一套简单稳定的开
+  局体系，让自己频繁进入熟悉的中局类型。
 
-- Q: Any beginner opening tips?
-  
-[ZH TRANSLATION NEEDED]   A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
+- **Q: 对新手来说，有没有简单好用的开局建议？**  
+  **A：** 先手可以从 1.e4 或 1.d4 入手，开局原则是：先发展马后发展象，尽早王车易位，
+  把两只车连通起来，并尽量控制中心。
 
-- Q: What endgames should I learn first?
-  
-[ZH TRANSLATION NEEDED]   A: Checkmates with KQ vs K, KR vs K, basic king‑pawn opposition, and rook endings like the Lucena/Philidor positions.
-
+- **Q: 应该先学哪些残局？**  
+  **A：** 建议从 KQ vs K、KR vs K 这类基础将杀练起，再配合学习王兵对王的对峙概念，
+  以及常见的车兵残局，如卢塞纳（Lucena）和菲利多尔（Philidor）等典型阵型。

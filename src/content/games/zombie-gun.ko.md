@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: zombie-gun
-title: '[KO] Zombie Gun'
+title: "Zombie Gun 좀비 건"
 description: >-
-  [KO] Zombie Gun is a physics shooter — ricochet bullets, trigger barrels, and
-  clear rooms with clever angles and limited ammo.
+  벽 튕김과 폭발을 이용해 최소 탄환으로 방을 쓸어버리는 물리 기반 슈팅 퍼즐 게임입니다. 각도를
+  계산해 총알을 튕기고, 드럼통과 구조물을 활용해 좀비들을 한 번에 정리해 보세요.
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/zombie-gun.png
 tags:
@@ -15,31 +15,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Zombie Gun은 벽에 튕기는 총알과 주변 오브젝트를 이용해, 제한된 탄환으로 방 안의 좀비들을 모두
+처치해야 하는 물리 퍼즐 슈팅 게임입니다. 단순히 조준해 쏘는 것이 아니라, 한 발로 여러 좀비를
+맞히기 위해 각도와 반사, 폭발 범위를 계산하는 것이 핵심입니다. 후반ステ이지로 갈수록 방패를 든
+좀비나 직격으로는倒れない 적이 등장해, 환경을 이용한 처치가 더욱 중요해집니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive barrels, and collapse props to eliminate zombies with few shots. Later rooms add armored foes that require environmental kills.
+1.  **뱅크 샷(벽 튕기기) 활용**: 벽이나 천장을 이용해 총알을 튕기면, 직선으로는 맞히기 어려운 위치의
+    좀비도 처치할 수 있습니다. 첫 발은 탐색용으로 쓰고, 총알 궤적을 본 뒤 각도를 조금씩 조정해
+    최적의 루트를 찾으세요.
+2.  **붉은 드럼통 우선 노리기**: 폭발 드럼통은 주변 좀비들을 한 번에 날려 버리는 강력한 도구입니다.
+    드럼통을 먼저 터뜨려 길을 만들거나, 구조물을 무너뜨려 연쇄 반응을 유도해 보세요.
+3.  **구조물 무너뜨리기**: 기둥이나 받침대를 쏘아 구조물을 쓰러뜨리면, 그 아래에 있던 좀비들을
+    깔아뭉개는 방식으로 처리할 수 있습니다. 탄환이 부족할 때 특히 유용합니다.
+4.  **탄약 절약하기**: 스테이지마다 사용할 수 있는 탄환 수가 제한되어 있으므로, 쏘기 전에 항상
+    "이 한 발로 몇 마리를 처리할 수 있는지"를 생각해 보세요. 무의미한 시험 사격은 최소화해야 합니다.
+5.  **장갑 좀비는 환경으로 처리**: 갑옷이나 방패를 든 좀비는 총알 한두 발로는倒れ지 않을 수 있습니다.
+    이 경우 근처의 드럼통이나 상자, 구조물을 이용해 간접적으로 피해를 입히는 전략이 필요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Bank shots: Use walls to hit tucked targets.
-2.  **[KO]** Red barrels: Chain explosions to clear clusters.
-3.  **[KO]** Prop falls: Shoot supports to drop objects on enemies.
-4.  **[KO]** Ammo discipline: Plan routes before firing.
-5.  **[KO]** Armor rule: Use environment against armored zombies.
+- **조준 및 발사**: 마우스로 조준점을 이동하고, 클릭해 총알을 발사합니다.
+- **재시작**: 탄환을 모두 소모했거나, 상황이 꼬였다고 느껴지면 UI의 재시작 버튼으로 스테이지를
+  다시 시작할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
+- **Q. 탄약이 항상 모자랍니다.**  
+  **A:** 첫 발은 물리 엔진과 구조 움직임을 파악하는 탐색용으로 쓰고, 이후에는 벽 튕김과 폭발을
+  적극적으로 활용해 한 발로 최대한 많은 좀비를 노려 보세요.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I run out of ammo.
-
-A: Plan a bank/explosion route before the first shot.
-
-- Q: Armored ones don’t die.
-
-A: Drop props or explode barrels near them.
-
+- **Q. 방패를 든 좀비는 왜 잘 안 죽나요?**  
+  **A:** 정면에서 쏘면 방패가 대부분의 피해를 막기 때문입니다. 뒤쪽이나 위쪽에서 구조물을
+  떨어뜨리거나, 폭발을 이용해 간접적으로 피해를 주는 방법을 활용해 보세요.

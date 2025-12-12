@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: quest-21
-title: '[ES] Quest 21'
+title: "Quest 21"
 description: >-
-  [ES] A Blackjack adventure! Play hands of 21 to defeat opponents and progress
-  on your quest. Get as close to 21 as possible without going over to win.
-iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
-thumbnail: /new-images/quest-21.png
+  Una aventura de Blackjack. Juega manos de 21 para derrotar a tus rivales y
+  avanzar en tu misión. Acércate todo lo posible a 21 sin pasarte para ganar.
+iframeSrc: "https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/"
+thumbnail: "/new-images/quest-21.png"
 tags:
   - card
   - puzzle
@@ -16,41 +16,52 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Quest 21 es una divertida y estratégica aventura de cartas basada en las reglas
+clásicas del Blackjack. En lugar de limitarte a una mesa de casino, te embarcas
+en una misión en la que te enfrentas a una serie de oponentes. Para derrotarlos
+ y seguir avanzando debes ganar manos de 21. En cada ronda el objetivo es que tu
+mano se acerque más a 21 que la de tu rival sin superarlo. El juego combina la
+suerte del reparto con decisiones tácticas muy sencillas de entender.
 
+### Estrategias de juego y recorrido
 
-### Detailed Game Introduction
+1.  **El objetivo:** Acercar la suma de tu mano a 21 sin pasarte. Si superas 21,
+    haces **bust** y pierdes automáticamente la ronda.
+2.  **Valor de las cartas:**
+    *   Las cartas del 2 al 10 valen su número.
+    *   Las figuras (Jota, Reina y Rey) valen 10 puntos.
+    *   Los Ases son especiales: pueden contar como 1 u 11, según te convenga.
+3.  **¿Pedir carta o plantarse?:** En tu turno tienes dos decisiones básicas:
+    *   **Pedir (Hit):** Robas una carta más para acercarte a 21.
+    *   **Plantarse (Stand):** Mantienes tu mano actual y terminas el turno.
+4.  **Estrategia básica:** Una regla simple es pedir siempre si tu mano suma 11
+    o menos. Si ya tienes 17 o más, suele ser mejor plantarse, porque el riesgo
+    de pasarte es muy alto.
+5.  **Blackjack:** Si tus dos primeras cartas son un As y una carta de valor 10,
+    tienes un **Blackjack** y normalmente ganas la mano al instante.
 
-Quest 21 is a fun and strategic card game adventure based on the rules of classic Blackjack. Instead of just playing at a casino table, you embark on a quest, facing off against a series of opponents. To defeat them and advance, you must win hands of 21. The goal in each hand is to get a card total closer to 21 than your opponent without going over. It combines the luck of the draw with simple, strategic decisions.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+El juego se maneja mediante botones en pantalla.
 
-1.  **[ES]** **The Goal:** Get your hand total as close to 21 as possible, without exceeding it. A hand over 21 is a "bust" and an automatic loss.
-2.  **[ES]** **Card Values:**
-    *   **[ES]** Cards 2-10 are worth their face value.
-    *   **[ES]** Face cards (Jack, Queen, King) are each worth 10.
-    *   **[ES]** Aces are special: they can be worth either 1 or 11, whichever is more beneficial to your hand.
-3.  **[ES]** **Hit or Stand?** On your turn, you have two main choices:
-    *   **[ES]** **Hit:** Take another card to try and get closer to 21.
-    *   **[ES]** **Stand:** Keep your current hand and end your turn.
-4.  **[ES]** **Basic Strategy:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
-5.  **[ES]** **Blackjack:** If your first two cards are an Ace and a 10-value card, you have a "Blackjack" and typically win the hand instantly.
+*   **Pedir (Hit):** Haz clic en el botón **"Hit"** para recibir otra carta.
+*   **Plantarse (Stand):** Haz clic en **"Stand"** para terminar tu turno y ver
+    qué tiene el rival.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The game is played with on-screen buttons.
+*   **P: ¿Qué significa hacer "bust"?**
+    *   **R:** Que has pedido una carta y la suma de tu mano supera 21. En ese
+        momento pierdes la ronda automáticamente.
 
-*   **[ES]** **Hit:** Click the "Hit" button to be dealt another card.
-*   **[ES]** **Stand:** Click the "Stand" button to end your turn and see what the opponent has.
+*   **P: ¿Cuándo debería plantarme?**
+    *   **R:** Una estrategia segura es plantarse con manos de 17 o más (un
+        "hard 17"). Si tu mano es "blanda" (soft), es decir, con un As que
+        cuenta como 11, a veces puedes permitirte arriesgar y pedir una carta
+        extra.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What does it mean to "bust"?**
-    *   **[ES]** **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.
-
-*   **[ES]** **Q: When should I stand?**
-    *   **[ES]** **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
-
-*   **[ES]** **Q: What happens if there is a tie?**
-    *   **[ES]** **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
-
+*   **P: ¿Qué ocurre si hay un empate?**
+    *   **R:** El empate se llama **push**. En la mayoría de versiones casuales
+        nadie gana ni pierde esa mano y simplemente pasas a la siguiente ronda.

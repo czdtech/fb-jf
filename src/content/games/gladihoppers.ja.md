@@ -1,42 +1,36 @@
 ---
+title: "Gladihoppers"
+description: "物理ホップを取り入れた2D剣闘士アクション：装備をカスタマイズし、突きやパリィのタイミングを計り、決闘やモードを通じてアリーナを勝ち上がりましょう。"
+iframeSrc: "https://m.igroutka.ru/g-1/113/Gladihoppers/"
+thumbnail: "/new-images/gladihoppers.jpg"
+urlstr: "gladihoppers"
+score: "3.7/5  (383 votes)"
+tags: ["fighting", "action"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: gladihoppers
-title: '[JA TRANSLATION NEEDED] Gladihoppers'
-description: >-
-  [JA TRANSLATION NEEDED] 2D gladiator brawler with physics hops: customize
-  gear, time lunges and parries, and climb arenas in duels or modes.
-iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
-thumbnail: /new-images/gladihoppers.jpg
-tags:
-  - fighting
-  - action
-score: 3.7/5  (383 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Gladihoppersは、ラグドールスタイルのホップ（跳ねる）移動と武器戦闘を融合させています。剣闘士の姿勢、リーチ、そして勢いがダメージを決定します。突きや頭部への攻撃はより大きなダメージを与えますが、盾やタイミングを合わせたパリィは打撃を軽減します。戦いの合間に新しい兜、防具、武器を装備してリーチや振りの速度を調整し、アリーナやモードを進めていきましょう。
 
+### 遊び方
+- ホップで距離を管理しましょう。自分の武器の攻撃範囲（アーク）が先に届くタイミングで攻撃します。
+- 盾を構えるかバックホップで攻撃を誘い、その隙（リカバリー中）にカウンターを決めましょう。
+- 好みの間合いやスピードを補完する装備にコインを使いましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Gladihoppers blends ragdoll‑style hopping movement with weapon combat. Your gladiator’s stance, reach, and momentum determine damage: lunges and head hits deal more, while shields and timing‑based parries mitigate blows. Between fights, equip new helms, armor, and weapons to shape reach and swing speed, then progress through arenas and modes.
+### 操作方法
+- 方向ホップ、攻撃、防御キー（キー配置はホストによって異なります）。ローカル対戦が利用可能な場合が多いです。
 
-### How to Play
-- Control distance with hops; strike when your weapon arc will land first.
-- Raise shield or back‑hop to bait swings, then counter during recovery.
-- Spend coins on gear that complements your preferred range and speed.
+### ヒント
+- 槍（スピア/パイク）は間合いを取るのに有利で、剣は近距離でのプレッシャーに優れています。
+- 安全なときは頭を狙いましょう。高い位置へのヒットはクリティカルになりやすいです。
+- 連打（スパム）はやめましょう。ほとんどの武器には後隙（エンドラグ）があります。テンポを覚えましょう。
 
-### Controls
-- Directional hops, attack and block keys (bindings vary by host); local versus often available.
-
-### Tips
-- Spear/pike favor spacing; swords excel at close pressure.
-- Aim for the head when safe; high hits often crit.
-- Don’t spam—most weapons have end‑lag; learn tempos.
-
-### FAQ
-- Q: Why do my attacks whiff at close range?  
-[JA TRANSLATION NEEDED]   A: Your weapon arc may be past its sweet spot; adjust spacing or switch to faster arms.
-- Q: Is blocking or back‑hopping better on defense?  
-[JA TRANSLATION NEEDED]   A: Use both—block against single swings, back‑hop to escape combos.
-- Q: How important is gear quality?  
-[JA TRANSLATION NEEDED]   A: Very—reach/weight drastically change matchups.
-
+### よくある質問 (FAQ)
+- **Q: 至近距離で攻撃が空振りするのはなぜですか？**  
+  A: 武器の判定がスイートスポットを過ぎている可能性があります。間合いを調整するか、より速い武器に切り替えましょう。
+- **Q: 防御にはブロックとバックホップ、どちらが良いですか？**  
+  A: 両方使いましょう。単発の振りにはブロック、コンボから逃げるにはバックホップが有効です。
+- **Q: 装備の質はどれくらい重要ですか？**  
+  A:非常に重要です。リーチや重さは相性を劇的に変えます。

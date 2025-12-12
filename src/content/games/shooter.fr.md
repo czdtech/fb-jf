@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: shooter
-title: '[FR] Five Nights at Freddy''s Shooter (FNAF Shooter)'
+title: "Five Nights at Freddy's Shooter (FNAF Shooter)"
 description: >-
-  [FR] Five Nights at Freddy's Shooter is a horror action game where players
-  fight against animatronic characters from the FNAF universe, using various
-  weapons to survive waves of attacking robots in a shooting gameplay style.
+  Five Nights at Freddy's Shooter est un jeu d’action horrifique où tu affrontes
+  les animatroniques de l’univers FNAF : utilise tout un arsenal d’armes pour
+  survivre à des vagues de robots hostiles dans un gameplay de tir nerveux.
 iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/shooter.jpg
 tags:
@@ -20,33 +20,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-"Five Nights at Freddy's Shooter" is a horror action game where players fight against animatronic characters from the FNAF universe. Use various weapons to survive in shooting gameplay style, defending against waves of attacking robots. The game combines classic FNAF horror elements with fast-paced shooting action.
+Five Nights at Freddy's Shooter est un spin‑off de tir qui reprend les
+animatroniques inquiétants de FNAF et les place dans un gameplay d’action
+pure. Armé de différents flingues, tu dois tenir le plus longtemps possible
+face à des vagues de robots qui se jettent sur toi. Le jeu mélange
+l’ambiance horrifique classique de FNAF avec le rythme d’un shooter arcade.
 
-### Gameplay Strategy
+### Stratégies de jeu
 
-1.  **[FR]** **Weapon Selection**: Familiarize yourself with different weapon characteristics and choose the most effective weapon based on enemy types.
-2.  **[FR]** **Aiming Skills**: Practice precise aiming, prioritizing closer or more threatening enemies.
-3.  **[FR]** **Ammo Management**: Manage ammunition wisely, avoiding running out of bullets at critical moments.
-4.  **[FR]** **Movement Strategy**: Keep moving to avoid enemy attacks and look for cover positions.
-5.  **[FR]** **Wave Preparation**: Use intervals between waves to reload and adjust position.
+1.  **Choix des armes :** apprends les caractéristiques de chaque arme et
+    sélectionne la plus adaptée au type d’ennemis (proches, lents, rapides,
+    etc.).
+2.  **Visée précise :** entraîne‑toi à viser la tête ou les points faibles
+    et élimine en priorité les menaces les plus proches ou les plus
+    agressives.
+3.  **Gestion des munitions :** surveille ton chargeur et évite de te
+    retrouver à sec au pire moment ; recharge dans les courts temps morts.
+4.  **Stratégie de mouvement :** reste en mouvement pour esquiver les
+    attaques et cherche des zones où le décor te protège partiellement.
+5.  **Préparation entre les vagues :** profite des pauses pour recharger,
+    changer d’arme et te replacer avant la vague suivante.
 
-### How to Play
+### Comment jouer
 
-*   **[FR]** **Movement**: Use WASD keys or arrow keys to control character movement.
-*   **[FR]** **Aim**: Use mouse to control aiming direction.
-*   **[FR]** **Shoot**: Click left mouse button to shoot.
-*   **[FR]** **Reload**: Use R key to reload.
-*   **[FR]** **Weapon Switch**: Use number keys or scroll wheel to switch between different weapons.
+*   **Déplacement :** touches WASD ou flèches directionnelles.  
+*   **Visée :** souris pour orienter ton viseur.  
+*   **Tir :** clic gauche pour tirer.  
+*   **Recharge :** touche **R**.  
+*   **Changer d’arme :** touches numériques ou molette de la souris.
 
-### Frequently Asked Questions
+### Foire aux questions
 
-1.  **[FR]** **Q: How can I improve survival time?**
-**A**: Keep moving, prioritize defeating dangerous enemies, use cover wisely, and manage ammunition properly.
-2.  **[FR]** **Q: What are the pros and cons of different weapons?**
-**A**: Each weapon differs in damage, fire rate, range, and ammo capacity; choose according to the situation.
-3.  **[FR]** **Q: How many waves of enemies are there?**
-**A**: The game typically contains multiple waves of enemies, with difficulty and enemy count gradually increasing each wave.
-4.  **[FR]** **Q: How do I handle multiple enemies attacking simultaneously?**
-**A**: Stay calm, prioritize defeating the closest threats, and use terrain advantages to separate enemies.
+1.  **Q : Comment survivre plus longtemps ?**  
+   R : Bouge en permanence, élimine d’abord les ennemis les plus
+   dangereux, utilise le décor comme couverture et gère bien tes munitions.
+
+2.  **Q : Quels sont les avantages et inconvénients des différentes
+   armes ?**  
+   R : Elles diffèrent en dégâts, cadence de tir, portée et capacité de
+   chargeur. Choisis en fonction de la distance et du type de vague.
+
+3.  **Q : Combien de vagues d’ennemis y a‑t‑il ?**  
+   R : Le jeu comporte plusieurs vagues successives, de plus en plus
+   nombreuses et difficiles.
+
+4.  **Q : Comment gérer plusieurs ennemis qui attaquent en même temps ?**  
+   R : Reste calme, focus les menaces les plus proches et utilise le décor
+   pour scinder les groupes au lieu de les affronter tous en face.

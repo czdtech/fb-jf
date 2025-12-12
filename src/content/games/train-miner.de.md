@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: train-miner
-title: '[DE] Train Miner'
+title: Train Miner
 description: >-
-  [DE] Train Miner is a rail‑laying puzzler — lay tracks, collect ore, and reach
-  exits while optimizing turns and fuel.
+  Train Miner ist ein Gleis‑Puzzler: Lege Schienen, sammle Erz ein und bring den
+  Zug mit möglichst wenigen Kurven und ohne Spritverschwendung sicher zum
+  Ausgang.
 iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
 thumbnail: /new-images/train-miner.png
 tags:
@@ -14,32 +15,30 @@ score: 4.1/5  (1970 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+In Train Miner platzierst du Gleisteile so, dass ein kleiner Grubenzug Erz einsammelt und anschließend sicher den Ausgang erreicht. Jede Kurve kostet Schwung und oft auch Treibstoff, und eine schlecht geplante Route endet in einer Sackgasse. Gute Strecken schaffen es, möglichst viele Extras mitzunehmen, ohne den Zug in eine ausweglose Ecke zu schicken.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Ausgang zuerst planen:** Sorge immer zuerst dafür, dass es überhaupt einen sauberen Weg zum Ausgang gibt und kümmere dich erst dann um optionale Erzadern.
+2. **Kurven sparen:** Bevorzuge lange Geraden und setze Kurven nur dort, wo sie unbedingt nötig sind – so bleibt dem Zug mehr Tempo.
+3. **Abzweige nutzen:** Baue kurze Seitenäste, um Erz links und rechts der Hauptstrecke mitzunehmen, und führe sie wieder an die Hauptlinie zurück.
+4. **Route im Kopf testen:** Geh die geplante Strecke gedanklich einmal durch, bevor du den Zug losfahren lässt, und prüfe auf offensichtliche Sackgassen.
+5. **Fehler früh korrigieren:** Wenn du beim Testlauf erkennst, dass du dich festfährst, ändere ein paar Gleisteile sofort, statt die Strecke nachträglich kompliziert zu „flicken“.
 
-Train Miner asks you to place track pieces so a mine‑train collects resources and exits safely. Turns cost momentum/fuel; mis‑routes cause dead‑ends. Smart layouts collect extras without trapping the train.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Über die UI platzierst und drehst du Gleisteile, startest den Zug und kannst das Level bei Bedarf pausieren oder neu beginnen.
 
-1.  **[DE]** Exit first: Ensure a viable exit path before optional ore.
-2.  **[DE]** Turn economy: Prefer straights; reserve turns for mandatory bends.
-3.  **[DE]** Branch spurs: Add short spurs to grab side ore and rejoin main line.
-4.  **[DE]** Test rides: Simulate routes mentally before launching.
-5.  **[DE]** Undo quickly after dead‑end sightings.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
-
-- Place/rotate track pieces; launch train; pause/retry via UI.
-
-### Frequently Asked Questions (FAQ)
 
 - Q: I dead‑end near the exit.
-
-A: You spent turns earlier; reroute straighter segments.
+**Ich lande kurz vor dem Ausgang in einer Sackgasse – warum?**  
 
 - Q: Can I collect everything?
+Du hast vermutlich zu viele Kurven oder Umwege früher im Level eingebaut. Versuche, einige Abschnitte gerader zu planen, damit du am Ende mehr Flexibilität hast.
 
-A: Often yes with smart spurs; prioritize safety first.
-
+**Kann ich wirklich jedes Erz einsammeln?**  
+In vielen Leveln ja – mit cleveren Abzweigungen. Wichtig ist aber, zuerst eine sichere Hauptstrecke zu haben und Bonuswege nur so zu bauen, dass du wieder problemlos einspuren kannst.

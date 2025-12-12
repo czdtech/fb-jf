@@ -1,71 +1,65 @@
 ---
+title: "Alien Hominid エイリアン・ホミニッド"
+description: "クラシックなラン＆ガン・シューティングゲーム「Alien Hominid」の究極ガイド。The Behemothが贈るこの高難易度な横スクロールアクションを攻略するための戦略、操作方法、FAQを網羅。"
+iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
+thumbnail: "/new-images/alien-hominid.jpg"
+urlstr: "alien-hominid"
+score: "5.0/5  (126 votes)"
+tags: ["shooting", "action"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: alien-hominid
-title: '[JA TRANSLATION NEEDED] Alien Hominid'
-description: >-
-  [JA TRANSLATION NEEDED] The ultimate guide for the classic run-and-gun
-  shooter, Alien Hominid. Find detailed strategies, controls, and FAQs to help
-  you master this challenging side-scroller from The Behemoth.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
-thumbnail: /new-images/alien-hominid.jpg
-tags:
-  - shooting
-  - action
-score: 5.0/5  (126 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Alien Hominid（エイリアン・ホミニッド）*は、The Behemothが開発したテンポの速い2D横スクロールのラン＆ガン（走りながら撃つ）シューティングゲームです。元々は2002年にNewgroundsポータルで人気のFlashゲームとして始まり、後にPlayStation 2、ニンテンドーゲームキューブ、Xbox向けの完全なコンソール版へと拡張されました。Dan Paladinによる魅力的で手描きのアートスタイル、カオスで挑戦的なゲームプレイ、そして奇抜なユーモアセンスで知られています。
 
-[JA TRANSLATION NEEDED] Alien Hominid is a fast-paced 2D side-scrolling run-and-gun shooter developed by The Behemoth. It originated as a popular Flash game on the Newgrounds portal in 2002 before being expanded into a full console release for PlayStation 2, Nintendo GameCube, and Xbox. The game is renowned for its charming, hand-drawn art style by Dan Paladin, its chaotic and challenging gameplay, and its quirky sense of humor.
+設定はシンプルです。プレイヤーは、FBIによってUFOを撃墜された小さな黄色いエイリアンを操作します。地球に取り残されたエイリアンは、宇宙船を取り戻してこの惑星から脱出するために、秘密工作員やKGBの兵士、そして様々なボスの波を突破して戦わなければなりません。『魂斗羅（コントラ）』や『メタルスラッグ』などの古典的なアーケードシューティングゲームに強く影響を受けており、「一撃死」システム、執拗な敵の波、正確な操作とパターン認識を必要とする激しいボス戦が特徴です。
 
-[JA TRANSLATION NEEDED] The premise is simple: players control a small, yellow alien whose UFO has been shot down by the FBI. Now stranded on Earth, the alien must fight its way through waves of secret agents, KGB soldiers, and various bosses to recover its spaceship and escape the planet. The gameplay is heavily inspired by classic arcade shooters like *Contra* and *Metal Slug*, featuring one-hit kills, relentless waves of enemies, and intense boss battles that demand precision and pattern recognition.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+Alien Hominid の難易度は非常に高いことで有名です。成功するためには、反射神経、パターンの暗記、そしてエイリアンの多彩なアクションをマスターすることが不可欠です。
 
-[JA TRANSLATION NEEDED] Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memorization, and mastering the alien's full moveset.
+#### 1. 移動こそが生存の鍵
+*   **止まるな：** 立ち止まることは死を意味します。常にジャンプし、走り、あるいは転がり続け、標的になりにくい状態を保ってください。
+*   **ロール（回転）としゃがみをマスターせよ：** ほとんどの通常の弾丸は、しゃがむことで回避できます。移動中にしゃがみボタンをタップすると「ロール（回転回避）」が発動します。これは敵の攻撃をかわしたり、素早く位置を変えたりするための素晴らしい回避テクニックです。
 
-#### 1. Movement is Survival
-*   **Never Stop Moving:** Standing still is the quickest way to die. Always be jumping, running, or rolling to make yourself a harder target.
-*   **Master the Roll/Duck:** You can duck under most standard bullets. Tapping the duck button while moving will initiate a roll, which is a fantastic evasive maneuver to dodge incoming fire or quickly reposition.
+#### 2. 全アクションを使いこなせ
+*   **「穴掘り」の力：** 最も重要なサバイバルスキルの一つが、地中に潜る能力です。地中にいる間は**完全に無敵**です。これを利用して激しい弾幕をやり過ごしたり、敵を地中に引きずり込んで即死させたりできます。
+*   **敵に乗れ！：** ほとんどの敵の頭上にジャンプして乗ることができます。そこから敵を「乗り回して」人間の盾として利用するか、「チョンプ（噛みつき）」で頭をかじってスタイリッシュに倒すかを選べます。これは防御と攻撃を兼ねた戦術です。
+*   **近接攻撃（ナイフ）：** 敵に圧倒され、すぐにスペースを空ける必要がある場合、ナイフによる近接攻撃が驚くほど効果的です。
+*   **グレネードは親友：** グレネードは広範囲に大きなダメージを与えます。敵の大群や、ボスに大ダメージを与えるために温存しておきましょう。
 
-#### 2. Use Your Full Arsenal
-*   **The Power of Digging:** One of the most critical survival skills is the ability to dig underground. While underground, you are completely invulnerable. You can use this to dodge massive bullet storms or to pull enemies underground for an instant kill.
-*   **Ride 'Em, Alien!:** You can jump on top of most enemies' heads. From there, you can choose to "ride" them, using them as a human shield, or perform a "chomp" to bite their head off for a stylish kill. This is both a defensive and offensive tactic.
-*   **Melee When Necessary:** Your knife is surprisingly effective for close-quarters combat, especially when you are overwhelmed and need to clear space immediately.
-*   **Grenades are Your Best Friend:** Grenades deal significant area-of-effect damage. Save them for large groups of enemies or for dealing heavy damage to bosses.
+#### 3. 戦闘のヒント
+*   **チャージショット：** 発射ボタンを押し続けるとブラスターをチャージし、複数の敵を貫通する強力なショットを撃てます。ただし、チャージ中は動けないため無防備になります。安全な隙がある時に戦略的に使いましょう。
+*   **脅威の優先順位：** 常に最も危険な敵（通常は連射武器を持つ敵や、発射物を飛ばしてくる敵）を特定し、最初に排除しましょう。
+*   **ボスのパターンを学ぶ：** すべてのボスは厳格な攻撃パターンに従います。勝利の鍵は「観察」です。最初の数回は、彼らの動きを学び、安全地帯と攻撃のチャンスを見極めることに費やしましょう。欲張ってはいけません。数発当てたら、すぐに回避の準備をしてください。
 
-#### 3. General Combat Tips
-*   **Charged Shots:** Holding down the fire button charges your blaster for a more powerful shot that can pierce through multiple enemies. However, you cannot move while charging, making you vulnerable. Use it strategically when you have a clear opening.
-*   **Prioritize Threats:** Always identify and eliminate the most dangerous enemies first—usually those with rapid-fire weapons or who launch projectiles.
-*   **Learn Boss Patterns:** Every boss follows a strict attack pattern. The key to victory is observation. Spend your first few attempts learning their moves and identifying safe spots and attack windows. Don't get greedy; land a few shots and then prepare to dodge again.
+### 操作ガイド
 
-### Controls Guide
+Flash版とコンソール/HD版で多少異なりますが、基本的な機能は同じです。
 
-[JA TRANSLATION NEEDED] Controls can vary slightly between the Flash version and console/HD versions, but the core functions remain the same.
+*   **移動：** 矢印キー
+*   **ジャンプ：** A キー
+*   **シュート（射撃）：** S キー（長押しでチャージ）
+*   **グレネード：** D キー
+*   **しゃがむ / ロール：** 下矢印キー（移動中に入力でロール）
+*   **特殊アクション：**
+    *   **穴掘り：** 柔らかい地面（土や砂）の上で「下」＋「ジャンプ」
+    *   **近接攻撃：** 敵に接近して「シュート」
+    *   **ライド / チョンプ：** 敵の頭上に直接ジャンプして乗る
 
-*   **Movement:** Arrow Keys / D-Pad / Analog Stick to move left and right.
-*   **Jump:** 'A' Key (Keyboard) / A or X Button (Controller).
-*   **Shoot:** 'S' Key (Keyboard) / X or Square Button (Controller). Hold to charge the shot.
-*   **Grenade:** 'D' Key (Keyboard) / B or Circle Button (Controller).
-*   **Duck/Roll:** Down Arrow Key / Down on D-Pad.
-*   **Special Moves:**
-    *   **掘る：** 柔らかい地面（土、砂）で下+ジャンプを押します。
-    *   **近接攻撃：** 敵に近づいてシュートボタンを押します。
-    *   **乗る/噛む：** 敵の頭の真上にジャンプします。
+### よくある質問 (FAQ)
 
-### よくある質問（FAQ）
+*   **Q: なぜ Alien Hominid はこんなに難しいのですか？**
+    *   **A:** この高い難易度は意図的なもので、8ビットや16ビット時代の古典的なアーケードゲームの挑戦を再現するように設計されています。「一撃で死ぬ」システムは、プレイヤーにほぼ完璧な操作を要求します。
 
-*   **Q: Why is Alien Hominid so difficult?**
-    *   **A:** [JA TRANSLATION NEEDED] The game's high difficulty is intentional, designed to emulate the challenge of classic 8-bit and 16-bit arcade games. The one-hit-kill system requires players to play with near-perfect execution.
+*   **Q: オリジナルのFlash版とHD/コンソール版の違いは何ですか？**
+    *   **A:** コンソール版やHD版は大幅に拡張されています。より多くのレベル、追加の敵やボス、向上したグラフィックとサウンド、2人での協力プレイ（Co-op）モード、そして多数のミニゲーやスキンのアンロック要素が含まれています。
 
-*   **Q: What is the difference between the original Flash game and the HD/console versions?**
-    *   **A:** [JA TRANSLATION NEEDED] The console and HD versions are greatly expanded. They feature more levels, additional enemies and bosses, improved graphics and sound, a 2-player co-op mode, and numerous mini-games and unlockable hats for your alien.
+*   **Q: ラスボスの倒し方は？**
+    *   **A:** ラスボスは多段階の長期戦になります。他のボスと同様、各フェーズ（段階）のパターンを根気よく学ぶことが鍵です。まずは回避に専念し、明らかな安全地帯ができた時だけ攻撃するようにしましょう。
 
-*   **Q: How do I beat the final boss?**
-    *   **A:** [JA TRANSLATION NEEDED] The final boss is a multi-stage endurance fight. The key, like with all bosses, is to patiently learn the patterns of each phase. Focus on dodging first and only attack when you have a clear, safe opening.
-
-*   **Q: Is *Alien Hominid Invasion* the same game?**
-    *   **A:** [JA TRANSLATION NEEDED] No. *Alien Hominid Invasion* is a modern follow-up and a "reimagining" of the original. It features co-op-focused, non-linear gameplay with rogue-lite elements, character progression, and different mechanics. It's a new game set in the same universe, not a remake.
-
+*   **Q: *Alien Hominid Invasion* は同じゲームですか？**
+    *   **A:** いいえ。*Alien Hominid Invasion* は現代向けに作られた続編であり、オリジナルの「再構築（リイマジニング）」です。ローグライト要素を取り入れた非線形のゲームプレイ、キャラクターの成長要素、異なるメカニクスを備えた、同じ世界観のまったく新しいゲームです。リメイクではありません。

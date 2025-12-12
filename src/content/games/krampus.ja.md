@@ -1,42 +1,36 @@
 ---
+title: "Krampus"
+description: "ホリデーホラープラットフォーマー：暗いレベルをナビゲートし、トラップと生き物を避け、Krampusの巣を脱出するためのキー/アイテムを見つけます。"
+iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/krampus1/"
+thumbnail: "/new-images/krampus.jpg"
+urlstr: "krampus"
+score: "3.9/5  (275 votes)"
+tags: ["horror", "platformer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: krampus
-title: '[JA TRANSLATION NEEDED] Krampus'
-description: >-
-  [JA TRANSLATION NEEDED] Holiday horror platformer: navigate dark levels, avoid
-  traps and creatures, and find keys/items to escape Krampus’s lair.
-iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
-thumbnail: /new-images/krampus.jpg
-tags:
-  - horror
-  - platformer
-score: 3.9/5  (275 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Krampusは、薄暗く照らされたステージ、環境トラップ、追跡セグメントを特徴とする季節的なホラープラットフォーマーです。不気味な生き物を回避しながら、キー、スイッチ、安全なルートを見つけるために探索します。限られた可視性とサウンドキューが緊張を作り出し、慎重な移動と観察を報います。
 
+### 遊び方
+- ゆっくり移動し、トラップパターンをスカウトし、安全なプラットフォームを記憶します。
+- ゲートをアンロックするためのキー/スイッチを見つけます。一部のアイテムは短い安全を付与します。
+- 追跡される場合は、視線を遮断するために垂直性とドアを使用します。
 
-### Overview
-[JA TRANSLATION NEEDED] Krampus is a seasonal horror platformer featuring dimly lit stages, environmental traps, and pursuit segments. Explore to find keys, switches, and safe routes while evading eerie creatures. Limited visibility and sound cues create tension, rewarding cautious movement and observation.
+### 操作方法
+- 矢印/WASDで移動/ジャンプ。アクション/インタラクトキーはホストによって異なります。
 
-### How to Play
-- Move slowly, scout trap patterns, and memorize safe platforms.
-- Find keys/switches to unlock gates; some items grant brief safety.
-- If chased, use verticality and doors to break line‑of‑sight.
+### ヒント
+- アイテムと出口をマークするきらめきまたは微妙な光を見てください。
+- リスクの高いジャンプを強制するのではなく、パトロールを待ちます。
+- サウンドキュー（うなり声、足音）は危険を予告します。一時停止して聞いてください。
 
-### Controls
-- Arrows/WASD to move/jump; action/interact keys vary by host.
-
-### Tips
-- Watch for glints or subtle lights that mark items and exits.
-- Wait out patrols rather than forcing risky jumps.
-- Sound cues (growls, steps) telegraph danger—pause and listen.
-
-### FAQ
-- Q: How do I progress when the level looks like a dead end?  
-[JA TRANSLATION NEEDED]   A: Search for levers, hidden passages, or destructible walls.
-- Q: Can I fight the monsters in this game?  
-[JA TRANSLATION NEEDED]   A: Most versions emphasize evasion; use routes and doors to escape.
-- Q: Are there checkpoints in stages?  
-[JA TRANSLATION NEEDED]   A: Many hosts include mid‑level checkpoints; consult the HUD/icons.
-
+### よくある質問 (FAQ)
+- **Q: レベルが行き止まりのように見える場合、どのように進めますか？**  
+  A: レバー、隠された通路、または破壊可能な壁を検索します。
+- **Q: このゲームでモンスターと戦うことができますか？**  
+  A: ほとんどのバージョンは回避を強調します。ルートとドアを使用して脱出します。
+- **Q: ステージにチェックポイントはありますか？**  
+  A: 多くのホストには中間レベルのチェックポイントが含まれます。HUD/アイコンを参照してください。

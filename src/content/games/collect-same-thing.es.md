@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: collect-same-thing
-title: '[ES] Collect Same Thing'
+title: "Collect Same Thing"
 description: >-
-  [ES] Collect Same Thing is a tidy pairing game — find identical items, clear
-  the board, and plan around limited space.
+  Collect Same Thing es un puzle limpio de emparejar: encuentra objetos
+  idénticos, despeja el tablero y planifica siempre teniendo en cuenta el poco
+  espacio disponible.
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/collect-same-thing.png
 tags:
@@ -16,35 +17,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Collect Same Thing te reta a emparejar fichas u objetos idénticos bajo límites de
+espacio y/o tiempo. Al eliminar parejas vas revelando capas más profundas; para
+triunfar tendrás que abrir pasillos, priorizar las fichas escasas y evitar dejar
+solitarios difíciles de combinar.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Collect Same Thing challenges you to match identical tiles or items under space/time limits. Removing pairs reveals deeper layers; success requires opening lanes, prioritizing scarce tiles, and avoiding isolated singles.
+1.  **Abre líneas de juego:** Quita primero las piezas que bloquean el acceso a
+    fichas ocultas.
+2.  **Empareja lo escaso pronto:** Si detectas un tipo de ficha que aparece muy
+    poco, intenta emparejarla antes de que bloquee el tablero.
+3.  **Trabaja de abajo hacia arriba (si hay capas):** Elimina piezas inferiores
+    para provocar pequeñas "cascadas" que ordenen mejor el tablero.
+4.  **Evita arrinconar solitarios:** No dejes piezas aisladas en esquinas o zonas
+    difíciles si sabes que tienen pocas parejas posibles.
+5.  **Guarda los barajados y las pistas para emergencias:** Usa las funciones de mezcla o
+    pista solo cuando estés realmente bloqueado.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Open lanes first to expose hidden tiles.
-2.  **[ES]** Match scarce items early before they clog the board.
-3.  **[ES]** Work bottom‑up to create cascades (when layers exist).
-4.  **[ES]** Avoid cornering singletons that have few partners.
-5.  **[ES]** Save shuffles/hints for emergencies.
+- Haz clic o toca las fichas según las reglas del modo para formar parejas.
+- Usa los botones de pista o barajar (si existen) con moderación.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Click/tap to select pairs per mode rules.
-- Use hint/shuffle (if available) sparingly.
+- **Me he quedado sin parejas visibles, ¿qué hago?**
 
-### Frequently Asked Questions (FAQ)
+  R: Baraja el tablero si el modo lo permite o reinicia probando una apertura
+  distinta que conserve mejor los pasillos centrales.
 
-- Q: I get stuck with no pairs — what now?
+- **¿Es por tiempo o por movimientos?**
 
-A: Shuffle if allowed or restart with a different opening that preserves lanes.
+  R: Depende del modo: en niveles con tiempo juega más rápido; con límite de
+  movimientos planifica con más calma.
 
-- Q: Timed or move limits?
+- **¿Algún truco para puntuar más?**
 
-A: Modes vary; play faster for timers and plan deeper for move limits.
-
-- Q: Any scoring tips?
-
-A: Chain quick pairs to maintain combo bonuses where supported.
+  R: Encadena parejas rápidas para mantener los combos y bonificaciones, cuando
+  el modo lo soporte.

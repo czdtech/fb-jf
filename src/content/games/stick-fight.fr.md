@@ -1,12 +1,10 @@
 ---
 locale: fr
 urlstr: stick-fight
-title: '[FR] Stick Fight'
+title: Stick Fight
 description: >-
-  [FR] Enter the chaotic arena of Stick Fight, a physics-based brawler where you
-  battle other stick figures to be the last one standing. Use a variety of
-  weapons and your own two fists to knock opponents off the stage in this
-  fast-paced action game.
+  Entre dans l’arène chaotique de Stick Fight, un brawler basé sur la physique
+  où tu affrontes d’autres bonshommes bâtons pour être le dernier debout.
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/stick-fight.jpg
 tags:
@@ -17,39 +15,46 @@ score: 3.6/5  (1015 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+Stick Fight est un jeu de combat rapide basé sur la physique. Tu contrôles un
+stickman dans des arènes pleines de pièges, et ton objectif est simple :
+être le dernier survivant. Les armes apparaissent aléatoirement, les décors
+peuvent s’effondrer et chaque partie dégénère très vite en chaos hilarant.
 
-### Game Introduction
+### Guide de gameplay
 
-Stick Fight is a fast-paced, physics-based fighting game where you control a simple stick figure and battle against others in a variety of hazardous arenas. The goal is to be the last stickman standing. The game is known for its chaotic, unpredictable combat, where environmental dangers and a wide array of weapons lead to hilarious and action-packed rounds.
+- **Combats :** utilise coups de poing, de pied et armes ramassées dans l’arène.
+- **Physique :** profite des rebonds, reculs et collisions pour envoyer tes
+  adversaires hors de la carte.
+- **Arènes variées :** chaque niveau propose un layout et des dangers
 
-### Gameplay Guide
-
-The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
-- **Combat:** Use punches, kicks, and a variety of weapons that are dropped into the arena.
-- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
 - **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
 
-### Controls Guide
+- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
+  différents (pics, blocs qui tombent, glace, etc.), adapte‑toi au terrain.
+
+### Commandes
+
 
 Controls are typically based on a standard 2D platformer layout:
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
-- **Jump:** `W` or `Up Arrow` Key
-- **Crouch:** `S` or `Down Arrow` Key
-- **Attack:** `Left Mouse Button` or `F`
-- **Block:** `Right Mouse Button` or `G`
+- **Déplacement :** `A`/`D` ou flèches gauche/droite  
+- **Saut :** `W` ou flèche haut  
+- **Accroupi :** `S` ou flèche bas  
+- **Attaque :** clic gauche ou `F`  
+- **Blocage :** clic droit ou `G`
 
-### Frequently Asked Questions (FAQ)
+### FAQ
 
-**What is the main goal of Stick Fight?**
+- **But du jeu ?**  
+  Survivre plus longtemps que les autres en les faisant tomber ou en
+  épuisant leur vie.
+- **Multijoueur ?**  
+  Oui, le jeu est pensé pour 2–4 joueurs, en local ou en ligne selon la
+  version.
 
-To be the last player standing by knocking your opponents off the stage or defeating them with weapons.
 
-**Can I play this game with friends?**
-
-Yes, Stick Fight is primarily a multiplayer game, often supporting both local and online matches with 2-4 players.
-
-**What kind of weapons are in the game?**
 
 The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
 
+**What kind of weapons are in the game?**

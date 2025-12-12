@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: archery
-title: '[ES] Archery World Tour'
+title: "Archery World Tour simulador de tiro con arco"
 description: >-
-  [ES] Grab your bow and arrow and travel the world in this realistic archery
-  game. Account for wind and distance to hit the bullseye and become a champion.
+  Archery World Tour es un simulador realista de tiro con arco. Viaja por el
+  mundo, ajusta tus disparos al viento y a la distancia y apunta al centro de la
+  diana para convertirte en campeón.
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/archery.jpg
@@ -17,31 +18,45 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Archery World Tour es un simulador de tiro con arco exigente y bastante
+realista. Viajas por distintos escenarios para participar en torneos donde tu
+objetivo es conseguir la máxima puntuación posible disparando flechas a la
+diana. No basta con tener buen pulso: también tienes que tener en cuenta
+factores ambientales como la velocidad y dirección del viento, así como la
+distancia al objetivo.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Archery World Tour is a realistic and challenging archery simulation game. You travel to various scenic locations to compete in archery tournaments. The goal is to score as many points as possible by shooting arrows at a target. Success requires more than just a steady hand; you must also account for environmental factors like wind speed, wind direction, and the distance to the target, making it a true test of skill.
+1.  **Compensa el viento:** Antes de cada disparo, fíjate en el indicador de
+    viento. Muestra la dirección y la fuerza. Debes apuntar ligeramente en
+    contra del viento para contrarrestar su efecto sobre la flecha.
+2.  **Ten en cuenta la gravedad:** En objetivos lejanos, la flecha caerá un
+    poco por efecto de la gravedad. Necesitas apuntar algo por encima del
+    centro para que el impacto acabe en el punto que quieres.
+3.  **Calcula bien el momento de soltar:** En algunas versiones, la mira se
+    balancea ligeramente. Espera al instante en el que el punto de mira esté lo
+    más estable posible y alineado con tu objetivo antes de soltar la cuerda.
+4.  **Apunta siempre al centro:** El centro de la diana (normalmente el
+    círculo amarillo) da la puntuación máxima —suele ser 10 puntos—. Encadenar
+    varios centros es la clave para un marcador alto.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Compensate for Wind:** Before each shot, look at the wind indicator. It will show you the direction and strength of the wind. You must aim slightly *against* the wind to counteract its effect on your arrow.
-2.  **[ES]** **Account for Gravity:** For targets at a long distance, your arrow will drop slightly due to gravity. You will need to aim a little bit higher than the bullseye to ensure your arrow hits the center.
-3.  **[ES]** **Timing Your Release:** In some versions, your aim may sway slightly. Wait for the moment your crosshair is perfectly still and aligned with your intended target before releasing the arrow.
-4.  **[ES]** **Aim for the Bullseye:** The center of the target (the yellow circle) is worth the most points (usually 10). Consistent bullseyes are the key to a high score.
+*   **Apuntar:** Mueve el ratón para orientar el arco. El cursor indica hacia
+    dónde saldrá la flecha.
+*   **Tensar y disparar:** Haz clic y mantén pulsado el botón izquierdo del
+    ratón para tensar la cuerda. A medida que mantienes pulsado, puede cambiar
+    el indicador de potencia o la mira. Suelta el botón para disparar.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **Aim:** Move your mouse to aim the bow. The cursor will show where the arrow is pointed.
-*   **Draw and Shoot:** Click and hold the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
+*   **P: ¿Cómo apunto teniendo en cuenta el viento?**
+    *   **R:** Apunta en sentido contrario al viento. Si sopla hacia la derecha, compensa apuntando algo a la izquierda; cuanto más fuerte, mayor compensación.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Por qué mi flecha ha caído baja?**
+    *   **R:** Es la gravedad, sobre todo en tiros lejanos. Eleva ligeramente el punto de mira para que la flecha caiga donde quieres.
 
-*   **Q: How do I aim with the wind?**
-    *   **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.
-
-*   **Q: Why did my arrow hit low?**
-    *   **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.
-
-*   **Q: What is the goal of the game?**
-    *   **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Lograr la máxima puntuación posible con un número limitado de flechas; los impactos en el centro dan el valor más alto.

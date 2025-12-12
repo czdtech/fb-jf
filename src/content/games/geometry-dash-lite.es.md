@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: geometry-dash-lite
-title: '[ES] Geometry Dash Lite'
+title: "Geometry Dash Lite"
 description: >-
-  [ES] Rhythm platforming sampler: jump and fly to the beat through preset
-  levels, avoiding spikes and timing pads/portals.
+  Versión de muestra de un juego de plataformas de ritmo: salta y vuela al compás
+  de la música a través de niveles prefijados, esquivando pinchos y sincronizando
+  pads y portales.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/geometry-dash-lite.jpg
@@ -16,30 +17,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Geometry Dash Lite es la versión de entrada del famoso juego de plataformas de ritmo.
+Supera niveles curados llenos de pads de salto, portales de gravedad y secciones de
+nave perfectamente sincronizadas con la música.
 
+### Cómo jugar
 
-### Overview
-Entry version of the rhythm platformer: clear curated levels with jump pads, gravity portals, and ship sections synced to music.
+- Toca o salta al ritmo para superar pinchos y sierras.
+- Mantén pulsado para pilotar la nave con suavidad y conservar una altura
+  estable.
+- Memoriza los tramos complicados y usa el modo práctica si está disponible.
 
-### How to Play
-- Tap/jump on the beat to pass spikes and saws.
-- Hold to fly the ship smoothly; keep altitude steady.
-- Memorize tricky segments and practice mode if available.
+### Controles
 
-### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice toggles vary by host.
+- Barra espaciadora, ratón o pantalla táctil para saltar; mantén pulsado para
+  volar; las teclas de práctica varían según el portal.
 
-### Tips
-- Turn on practice for tough sections to set checkpoints.
-- Use music cues to predict upcoming jumps.
-- Keep ship inputs gentle; over‑correction causes crashes.
+### Consejos
 
-### FAQ
-- Q: How do I beat hard levels without memorizing everything?
-A: Use practice mode to learn patterns, then switch to normal for a clean run.
-- Q: Why does my ship keep crashing?
-A: You are oversteering; use small holds and release to settle.
-- Q: Are custom levels included?
-A: Lite focuses on built‑in tracks; custom levels depend on host.
+- Activa el modo práctica en las secciones difíciles para colocar puntos de
+  control.
+- Usa las pistas de la música para anticipar saltos y cambios de ritmo.
+- Al manejar la nave, haz movimientos suaves; las correcciones bruscas suelen
+  acabar en choque.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo supero los niveles difíciles sin memorizar todo?**  
+  **R:** Usa el modo práctica para aprender los patrones y, cuando te sientas
+  cómodo, vuelve al modo normal para hacer una pasada limpia.
+
+- **P: ¿Por qué mi nave se estrella todo el rato?**  
+  **R:** Probablemente estás sobrecorrigiendo. Usa pulsaciones cortas y suelta
+  para estabilizar la altura.
+
+- **P: ¿Incluye niveles personalizados?**  
+  **R:** Lite se centra en las pistas incluidas; la presencia de niveles
+  personalizados depende del portal donde juegues.

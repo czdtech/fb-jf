@@ -1,11 +1,10 @@
 ---
 locale: fr
 urlstr: jungle-bricks
-title: '[FR] Jungle Bricks'
+title: Jungle Bricks
 description: >-
-  [FR] Aim and shoot to clear the board in Jungle Bricks! A vibrant
-  brick-breaker game where you must strategically destroy numbered blocks before
-  they reach the bottom.
+  Vise et tire pour nettoyer le plateau dans Jungle Bricks ! Casse les briques
+  numérotées avant qu’elles n’atteignent le bas de l’écran.
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
 thumbnail: /new-images/jungle-bricks.png
 tags:
@@ -17,34 +16,45 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation détaillée
 
+Jungle Bricks revisite le casse‑briques classique dans une jungle colorée. Au lieu de contrôler une raquette, tu tires une volée de balles depuis un point fixe pour réduire à zéro la durabilité des briques numérotées. À chaque tour, le mur avance d’une ligne vers le bas : ton but est de tenir le plus longtemps possible en détruisant les briques avant qu’elles ne touchent le bas de l’écran.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Jungle Bricks is a captivating and modern take on the classic brick-breaker genre. Set in a vibrant jungle, the game challenges players to clear an ever-advancing wall of numbered bricks. Unlike traditional brick-breakers where you control a paddle, here you aim and shoot a volley of balls from a fixed point. Each brick has a durability number that you must reduce to zero to destroy it. The goal is to survive for as long as possible by strategically clearing the bricks before they reach the bottom of the screen.
+1.  **Joue avec les angles**  
+    Évite les tirs verticaux. Vise les côtés de l’écran ou les interstices entre les briques pour créer des ricochets complexes : une bonne trajectoire peut faire rebondir les balles très longtemps et nettoyer de nombreuses briques.
 
-### Gameplay Strategy & Walkthrough
+2.  **Priorise les briques dangereuses**  
+    Cible en priorité les briques les plus proches de la ligne du bas : une seule brique qui la touche et la partie est terminée.
 
-1.  **[FR]** **Aim for Angles:** The key to a high score is maximizing the number of hits per shot. Avoid shooting straight up. Instead, aim for the sides of the screen or gaps between bricks to create complex ricochets. A well-aimed shot can have your balls bouncing around the screen for a long time, clearing multiple bricks at once.
-2.  **[FR]** **Prioritize High-Threat Bricks:** Always focus on the bricks that are closest to the bottom of the screen. A single brick touching the bottom line will end your game, so clearing these should be your top priority.
-3.  **[FR]** **Look for Power-ups:** Some bricks may contain power-ups, such as extra balls. Targeting these can dramatically increase your clearing power for subsequent turns.
-4.  **[FR]** **Plan for the Descent:** After every shot, all bricks on the screen will move one step down. Keep this in mind when planning your shots. A safe-looking board can become dangerous in just a few turns if you don't clear bricks efficiently.
+3.  **Cible les power‑ups**  
+    Certaines briques contiennent des bonus, comme des balles supplémentaires. Les récupérer tôt augmente énormément ta puissance de feu sur les tours suivants.
 
-### Controls Guide
+4.  **Anticipe la descente**  
+    Après chaque tir, tout le mur descend d’un cran. Garde ce mouvement en tête, car un plateau qui paraît sûr peut devenir critique en quelques tours si tu n’élimines pas assez vite les briques clés.
+
+### Commandes
+
 
 The game uses simple, one-touch controls.
+- **Viser** : maintiens le clic gauche (ou ton doigt) et fais glisser pour choisir l’angle ; un trait t’indique la trajectoire de départ.  
+- **Tirer** : relâche pour lancer la volée de balles.
 
-*   **[FR]** **Aim:** Click and hold the left mouse button (or your finger on a touch screen) and drag to aim. A guideline will appear showing the initial trajectory of your shot.
-*   **[FR]** **Shoot:** Release the mouse button (or your finger) to fire the balls.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q : Que signifient les nombres sur les briques ?**  
+  R : C’est leur « vie » : chaque impact réduit ce nombre de 1, et la brique disparaît lorsqu’il atteint 0.
 
-*   **[FR]** **Q: What do the numbers on the bricks mean?**
-    *   **[FR]** **A:** The number represents the brick's "health" or the number of times it must be hit by a ball before it is destroyed.
+    - **Q : Comment la partie se termine‑t‑elle ?**  
+  R : Si une brique atteint la ligne inférieure de la zone de jeu, la run s’arrête.
 
-*   **[FR]** **Q: How do you lose the game?**
-    *   **[FR]** **A:** The game ends if any brick successfully reaches the bottom line of the play area.
+- **Q : Comment obtenir plus de balles ?**  
 
-*   **[FR]** **Q: How can I get more balls?**
-    *   **[FR]** **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
+    - **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
+
+- **Q: How can I get more balls?**
+
+    - **A:** The game ends if any brick successfully reaches the bottom line of the play area.
+  R : En détruisant les blocs spéciaux marqués d’un symbole « + » (ou équivalent), qui ajoutent des balles supplémentaires à ta prochaine salve.
 

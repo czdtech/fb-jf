@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: rooftop-snipers-2
-title: '[ZH TRANSLATION NEEDED] Rooftop Snipers 2'
+title: "《Rooftop Snipers 2》天台布偶狙击战 2"
 description: >-
-  [ZH TRANSLATION NEEDED] Rooftop Snipers 2 is a hilarious physics-based
-  shooting game where two stick figures battle on rooftops, trying to knock each
-  other off using various weapons with unpredictable ragdoll physics.
+  《Rooftop Snipers 2》是一款充满搞笑 ragdoll 物理效果的对战射击小游戏。两名火柴人站在天台边缘，用各种武器把对手击飞下楼，过程充满失衡、反冲和意外翻车场面。
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/rooftop-snipers-2.jpg
 tags:
@@ -17,32 +15,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Rooftop Snipers 2》是一款以物理引擎和夸张动作见长的对战射击游戏。两个火柴人站在楼顶边缘，用各式各样的武器互相射击、撞击，目标不是“打空血条”，而是把对手直接震飞出天台。由于采用 ragdoll 布偶物理，每一次射击和后坐力都会让角色摇摇晃晃，常常演变成充满笑点的混乱场面。
 
-[ZH TRANSLATION NEEDED] "Rooftop Snipers 2" is a hilarious physics-based shooting game where two stick figures battle on rooftops, with the goal of using various weapons to knock opponents off the roof. The game features unpredictable ragdoll physics effects, making every battle full of surprises and fun.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **掌握开枪时机：** 尽量在对手起跳、换位或露出大破绽时开火，提前预判对方移动轨迹，而不是盲目乱射。
+2.  **善用后坐力：** 武器的后坐力不仅会让你后仰，也可以用来“反向助推”自己，例如在关键时刻通过后坐力把自己从危险边缘弹回安全位置。
+3.  **谨慎站位保平衡：** 靠近边缘时不要疯狂连跳或狂按射击，否则很可能一个失衡就直接掉下去。学会在进攻和自保之间找到平衡点。
+4.  **熟悉不同武器手感：** 各种武器的射速、弹道和后坐力差异很大，有的适合连发压制，有的适合爆发击退，多试几轮找到自己最顺手的类型。
+5.  **运用“心理战”：** 偶尔假动作，利用突然停手、假跳或诱导移动来骗对手开枪，让对方在错误时机失衡出局。
 
-1.  **Master Shooting Timing**: Learn to fire at the right moments, predicting opponent movement patterns.
-2.  **Utilize Recoil**: Weapon recoil can affect character balance; learn to use or counteract these effects.
-3.  **Maintain Balance**: Be careful to maintain balance near roof edges, avoiding accidental falls.
-4.  **Weapon Selection**: Different weapons have different shooting characteristics; familiarize yourself with each weapon's pros and cons.
-5.  **Psychological Tactics**: Use feints and fake movements to confuse opponents and create shooting opportunities.
+### 操作说明
 
-### How to Play
+*   **移动：** 使用左右方向键控制角色在天台上的移动位置。
+*   **跳跃：** 按下跳跃键让角色跃起，可用来躲避子弹或调整落点。
+*   **射击：** 使用射击键开火，注意子弹后坐力会影响你的站姿和平衡。
+*   **切换武器：** 某些模式下可以在不同武器间切换，尝试适应当前地图和局势。
 
-*   **Movement**: Use left and right keys to control character movement.
-*   **Jump**: Use jump key to make character jump, useful for dodging or position adjustment.
-*   **Shoot**: Use shoot key to fire, paying attention to recoil effects after shooting.
-*   **Weapon Switch**: In some modes, you can switch between different weapons.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How do I avoid falling off the roof myself?**
-     **A**: Control movement rhythm well, don't be too aggressive near edges, and pay attention to weapon recoil effects.
-2.  [ZH TRANSLATION NEEDED] **Q: What are the differences between weapons?**
-     **A**: Various weapons differ in fire rate, power, accuracy, and recoil; choose according to the situation.
-3.  [ZH TRANSLATION NEEDED] **Q: Can I play multiplayer?**
-     **A**: Yes, the game supports local multiplayer mode where two players can battle on the same device.
-4.  [ZH TRANSLATION NEEDED] **Q: Are there different maps in the game?**
-     **A**: The game typically provides multiple different rooftop scenarios, each with unique layouts and challenges.
+1.  **问：如何避免自己被后坐力弹下楼？**  
+    **答：** 不要在紧贴边缘的位置连续猛射，尽量先站稳再开火，必要时朝相对安全的方向开枪来“修正”站位。
+
+2.  **问：不同武器有什么区别？**  
+    **答：** 各把武器在射速、伤害、命中精度和后坐力等方面差异明显，有的适合近距离强力击退，有的适合中远距离消耗。可以根据地图布局和个人习惯选择使用。
+
+3.  **问：能不能双人一起玩？**  
+    **答：** 可以，本作支持本地双人模式，两名玩家可以共用一台设备，在同一屏幕上进行对战。
+
+4.  **问：游戏里有几种不同的场景？**  
+    **答：** 通常会提供多张造型各异的屋顶地图，有的平台宽阔，有的障碍较多，不同场景会带来完全不同的对战节奏和掉落风险。

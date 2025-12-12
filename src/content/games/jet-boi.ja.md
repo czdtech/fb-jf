@@ -1,43 +1,36 @@
 ---
+title: "Jet Boi"
+description: "2人プレイのジェットパック決闘：限られた燃料でブーストし、武器を掴み、素早いラウンドでライバルをプラットフォームから叩き落としましょう。"
+iframeSrc: "https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/"
+thumbnail: "/new-images/jet-boi.jpg"
+urlstr: "jet-boi"
+score: "4.9/5  (628 votes)"
+tags: ["action", "multiplayer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: jet-boi
-title: '[JA TRANSLATION NEEDED] Jet Boi'
-description: >-
-  [JA TRANSLATION NEEDED] 2‑player jetpack duels: boost with limited fuel, grab
-  weapons, and knock your rival off platforms in quick rounds.
-iframeSrc: >-
-  https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
-thumbnail: /new-images/jet-boi.jpg
-tags:
-  - action
-  - multiplayer
-score: 4.9/5  (628 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Jet Boiは、空中制御に関するコンパクトな対戦シューターです。2人のプレイヤーが短い燃料バーストでプラットフォームの周りをロケット移動し、銃を拾い、リングアウト（場外落下）またはKO（ノックアウト）でスコアを狙います。空中タップ、反動制御、武器のタイミングをマスターすることが、高所を確保して対戦相手を仕留めるために不可欠です。
 
+### 遊び方
+- ホバー（滞空）するためにブーストを小刻みにタップしましょう。燃料を一気に燃やさないでください。
+- 武器のスポーンを掴み、上から圧力をかけて安全な角度を確保しましょう。
+- 端の近くでノックバックを使いましょう。ダメージトレード（相打ち）ではなく、リングアウトを強制します。
 
-### Overview
-[JA TRANSLATION NEEDED] Jet Boi is a compact versus shooter about aerial control. Two players rocket around platforms with short fuel bursts, pick up guns, and try to score ring‑outs or KOs. Mastering mid‑air taps, recoil control, and weapon timing is critical to secure the high ground and finish opponents.
+### 操作方法
+- プレイヤー固有の移動/ブースト/射撃キー（ホスト依存）。ローカル2Pプレイ用に設計されています。
 
-### How to Play
-- Feather boosts to hover; don’t burn fuel in one go.
-- Grab weapon spawns and pressure from above for safer angles.
-- Use knockback near edges; force ring‑outs instead of trading damage.
+### ヒント
+- 短いタップで狙いを安定させましょう。長い燃焼（バーン）は位置調整のためだけです。
+- 必要なくても、武器クレートを拒否（取らせない）しましょう。
+- 上部のプラットフォームを奪い合いましょう。角度と安全性を左右します。
 
-### Controls
-- Player‑specific movement/boost/shoot keys (host dependent); designed for local 2P.
-
-### Tips
-- Short taps stabilize aim; long burns are for repositioning only.
-- Deny weapon crates even if you don’t need them.
-- Fight for top platforms—they dictate angles and safety.
-
-### FAQ
-- Q: How do I conserve fuel effectively?  
-[JA TRANSLATION NEEDED]   A: Use short, rhythmic taps to maintain altitude and adjust aim.
-- Q: What is the best way to finish opponents?  
-[JA TRANSLATION NEEDED]   A: Push them off stage with knockback rather than chasing raw damage.
-- Q: Can I remap keys for two players?  
-[JA TRANSLATION NEEDED]   A: Many hosts allow custom binds before matches.
-
+### よくある質問 (FAQ)
+- **Q: 燃料を効果的に節約するには？**  
+  A: 高度を維持し、狙いを調整するために、短くリズミカルなタップを使いましょう。
+- **Q: 対戦相手を仕留める最良の方法は？**  
+  A: 生のダメージを追いかけるのではなく、ノックバックでステージから押し出しましょう。
+- **Q: 2人プレイ用にキーを再マップ（変更）できますか？**  
+  A: 多くのホストでは、試合前にカスタムキー配置が可能です。

@@ -1,71 +1,45 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Solitaire"
+description: "Solitaireは、プレイヤーが特定のシーケンスとスートでカードを配置するクラシックな一人用カードゲーム。すべてのカードをファウンデーションパイルに移動してタブローをクリアすることを目指す、この不朽のパズルゲーム。"
+iframeSrc: "https://www.edogan.us/solitaire-js/"
+thumbnail: "/new-images/solitaire.jpg"
+urlstr: "solitaire"
+score: "4.8/5  (1242 votes)"
+tags: ["card game", "classic", "puzzle"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: solitaire
-title: '[JA TRANSLATION NEEDED] Solitaire'
-description: >-
-  [JA TRANSLATION NEEDED] Solitaire is the classic single-player card game where
-  players arrange cards in specific sequences and suits, aiming to move all
-  cards to foundation piles and clear the tableau in this timeless puzzle game.
-iframeSrc: 'https://www.edogan.us/solitaire-js/'
-thumbnail: /new-images/solitaire.jpg
-tags:
-  - card game
-  - classic
-  - puzzle
-score: 4.8/5  (1242 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] "Solitaire" is the classic single-player card game where players arrange cards in specific sequences and suits, aiming to move all cards to foundation piles and clear the tableau. This timeless puzzle game is widely popular for its simple-to-learn but strategy-requiring characteristics.
+「Solitaire」は、プレイヤーが特定のシーケンスとスートでカードを配置するクラシックな一人用カードゲームです。すべてのカードをファウンデーションパイルに移動してタブローをクリアすることを目指します。この不朽のパズルゲームは、学びやすいが戦略が必要な特性で広く人気があります。
 
-### Gameplay Strategy
+### ゲームプレイ戦略
 
-[JA TRANSLATION NEEDED] 1.  **Prioritize Revealing Hidden Cards**: Prioritize moving cards that can reveal hidden cards, increasing available move options.
-[JA TRANSLATION NEEDED] 2.  **Use Empty Columns Wisely**: Empty columns can hold Kings and serve as important temporary storage space.
-[JA TRANSLATION NEEDED] 3.  **Plan Move Sequences**: Plan multi-step moves in advance to avoid blocking subsequent operations.
-[JA TRANSLATION NEEDED] 4.  **Foundation Pile Management**: Move cards to foundation piles at appropriate times, but be aware you might need these cards to help other moves.
-[JA TRANSLATION NEEDED] 5.  **Utilize Waste Pile**: Make good use of cards in the waste pile to complete necessary moves.
+1.  **隠されたカードを優先的に明らかにする**：隠されたカードを明らかにできるカードを優先的に移動し、利用可能な移動オプションを増やします。
+2.  **空の列を賢く使う**：空の列はキングを保持でき、重要な一時保管スペースとして機能します。
+3.  **移動シーケンスを計画する**：複数ステップの移動を事前に計画し、後続の操作をブロックしないようにします。
+4.  **ファウンデーションパイルの管理**：適切なタイミングでカードをファウンデーションパイルに移動しますが、これらのカードが他の移動を助けるために必要になる可能性があることに注意してください。
+5.  **ウェイストパイルを活用する**：ウェイストパイルのカードを上手く使って、必要な移動を完了させます。
 
-### How to Play
+### プレイ方法
 
-*   **Move Cards**: Click and drag cards to appropriate positions.
-*   **Flip Cards**: Click on face-down cards at the top of piles to flip them.
-*   **Auto-move**: Double-clicking cards may automatically move them to appropriate foundation piles (if possible).
-*   **Undo**: Some versions provide undo functionality to reverse moves.
-
-
-- **Utilize Waste Pile**: Make good use of cards in the waste pile to complete necessary moves.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: What are foundation piles?**
-### よくある質問
-- **Undo**: Some versions provide undo functionality to reverse moves.
-- **Auto-move**: Double-clicking cards may automatically move them to appropriate foundation piles (if possible).
-- **Flip Cards**: Click on face-down cards at the top of piles to flip them.
+*   **カードを移動**：カードをクリックしてドラッグし、適切な位置に移動します。
+*   **カードをめくる**：パイルの上部にある裏向きのカードをクリックしてめくります。
+*   **自動移動**：カードをダブルクリックすると、適切なファウンデーションパイルに自動的に移動する場合があります（可能な場合）。
+*   **アンドゥ**：一部のバージョンでは、移動を元に戻すアンドゥ機能が提供されています。
 
 ### よくある質問
-- **Move Cards**: Click and drag cards to appropriate positions.
-[JA TRANSLATION NEEDED] 1.  **Q: What are foundation piles?**
 
-- **Q: How do I move multiple cards?**
-[JA TRANSLATION NEEDED]     **A**: Foundation piles are four empty spaces that need to be filled with cards by suit from A to K in order.
-
-- **Q: What if the game is unsolvable?**
-[JA TRANSLATION NEEDED] 2.  **Q: How do I move multiple cards?**
-
-- **Q: How does the scoring system work?**
-[JA TRANSLATION NEEDED]     **A**: Only card sequences arranged in descending order with alternating suits can be moved together.
-[JA TRANSLATION NEEDED] 3.  **Q: What if the game is unsolvable?**
-[JA TRANSLATION NEEDED]     **A**: Not all card layouts have solutions; when encountering unsolvable situations, you can start a new game.
-[JA TRANSLATION NEEDED] 4.  **Q: How does the scoring system work?**
-[JA TRANSLATION NEEDED]     **A**: Usually based on completion time, number of moves, and number of hints used.
+1.  **Q: ファウンデーションパイルとは何ですか？**
+    **A**：ファウンデーションパイルは、AからKまでスートごとに順番にカードで埋める必要がある4つの空のスペースです。
+2.  **Q: 複数のカードをどのように移動しますか？**
+    **A**：降順で交互のスートで配置されたカードシーケンスのみを一緒に移動できます。
+3.  **Q: ゲームが解決不可能な場合はどうなりますか？**
+    **A**：すべてのカードレイアウトに解決策があるわけではありません；解決不可能な状況に遭遇した場合は、新しいゲームを開始できます。
+4.  **Q: スコアリングシステムはどのように機能しますか？**
+    **A**：通常、完了時間、移動回数、使用したヒントの数に基づいています。

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: veggies-cut
-title: '[ZH TRANSLATION NEEDED] Veggies Cut'
+title: 'Veggies Cut：厨房切菜高手'
 description: >-
-  [ZH TRANSLATION NEEDED] Veggies Cut is a kitchen slicer — chain long clean
-  cuts, avoid hazards, and manage rhythm for high scores.
+  《Veggies Cut》是一款节奏感十足的切菜休闲游戏。用流畅的滑动划出利落刀路，
+  一次性切开尽可能多的蔬菜，躲开炸弹与危险道具，用稳定节奏冲击高分连击。
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/veggies-cut.jpg
 tags:
@@ -15,28 +15,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Slice veggies with sweeping lines, build combo chains, and avoid kitchen hazards (knives/bombs). Long straight cuts and calm rhythm top the scoreboards.
+在《Veggies Cut》中，你将扮演厨房里的神级厨师，用极具节奏感的滑动操作把飞起的蔬菜统统切碎。
+蔬菜会不断从屏幕底部抛出，你需要用顺畅的划线将它们一刀两断，
+长距离的连续切割可以触发连击和更高得分。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Long strokes through multiple veggies for combo value.
-2.  [ZH TRANSLATION NEEDED] Don’t chase low arcs; let items rise into safe lanes.
-3.  [ZH TRANSLATION NEEDED] Abort swipes that cross hazards.
-4.  [ZH TRANSLATION NEEDED] Use slow‑mo (if any) on dense volleys.
-5.  [ZH TRANSLATION NEEDED] Reset posture after misses.
+但厨房中不仅有无辜的蔬菜，也潜伏着炸弹、刀具等危险物品。
+一旦在切线中顺带划到这些危险道具，就可能直接失分、扣血甚至结束游戏，
+所以每一次挥刀都要在“贪心多切一点”和“安全避开危险”之间做出取舍。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-- Swipe/click‑drag to cut; pause/retry in UI.
+1.  **优先画长线连击：**
+    尽量用一条长线切中多颗蔬菜，连击数越高，得分倍率也越高。
+    观察抛物轨迹，提前预判它们会聚在什么位置，再一刀带走。
+2.  **不要追低位残渣：**
+    已经落到底部附近的蔬菜如果角度很刁钻、
+    又会让你靠近炸弹，不如干脆放弃。宁可少切一个，也不要为了一点分数赔上整局。
+3.  **看到危险果断收刀：**
+    当你发现划线即将穿过炸弹或锋利工具时，立刻收手重新起刀，
+    宁愿中断连击也不要强行穿越危险区域。
+4.  **利用慢动作或特殊道具：**
+    如果关卡中提供慢动作等技能，可以在蔬菜密集、炸弹较多的时刻开启，
+    把复杂局面放缓，细致规划一条安全高分的刀路。
+5.  **节奏平稳比手速更重要：**
+    不必疯狂乱划，保持稳定、有节奏的出刀频率，
+    更有利于观察整体局面，持续打出高质量连击。
 
-### Frequently Asked Questions (FAQ)
+### 操作指南
 
-- Q: I hit hazards.
-  
-[ZH TRANSLATION NEEDED]   A: Choose clean angles; never finish a line through a hazard.
+- **滑动 / 拖拽切割：** 在屏幕上按住并拖动手指（或用鼠标按住拖动），
+  划出的轨迹就是刀锋路径，经过的蔬菜都会被切开。
+- **暂停 / 重开：** 通过界面上的暂停或重试按钮，可随时中断一局并重新开始挑战。
 
-- Q: How to score high?
-  
-[ZH TRANSLATION NEEDED]   A: Focus on long multi‑cuts and consistent cadence.
+### 常见问题（FAQ）
 
+- **问：总是不小心切到炸弹怎么办？**  
+  **答：** 尽量从蔬菜密集但远离炸弹的一侧起刀，
+  如果发现划线会穿过危险物品，立即抬手重来，不要强求一线多切。
+
+- **问：怎样拿到更高分？**  
+  **答：** 高分来自稳定的连击与少失误。
+  专注于长距离、多目标的切线，保持手势平稳，
+  少追边角残留，多利用节奏和预判来形成连续高质量切割。

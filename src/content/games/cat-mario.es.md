@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: cat-mario
-title: '[ES] Cat Mario'
+title: "Cat Mario"
 description: >-
-  [ES] Face the ultimate unfair platformer in Cat Mario (Syobon Action)!
-  Navigate a world full of hidden traps, unexpected enemies, and deceptive level
-  design in this notoriously difficult and hilarious parody game.
+  Enfréntate al plataformas más injusto en Cat Mario (Syobon Action). Recorre un
+  mundo lleno de trampas ocultas, enemigos inesperados y diseños de niveles
+  engañosos en esta parodia tan difícil como divertida.
 iframeSrc: 'https://tiwb.github.io/catmario/'
 thumbnail: /new-images/cat-mario.jpg
 tags:
@@ -16,52 +16,78 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Cat Mario, conocido formalmente como Syobon Action (しょぼんのアクション), es un
+juego freeware japonés que parodia al clásico *Super Mario Bros.*. A primera
+vista parece un clon sencillo y algo tosco de Mario, con un personaje felino
+blanco en un mundo muy familiar. Pero el juego es famoso por ser un "plataformas
+injusto" o un juego troll.
 
+Todo está diseñado para romper tus expectativas y trollearte de todas las formas
+posibles. Los niveles están llenos de trampas ocultas, bloques invisibles,
+suelos que se hunden de repente, enemigos con comportamientos absurdos y
+"decorados" que en realidad son letales. La jugabilidad se basa en el ensayo y
+error: morirás una y otra vez hasta memorizar la posición y el tipo de cada
+trampa. Parte del humor viene de lo ridículo e injusto de muchas muertes, y del
+contador de vidas, que puede bajar a números negativos como chiste recurrente.
+Tu única meta real es llegar a la bandera del final de cada fase sin tirar el
+teclado por la ventana.
 
-### Game Introduction
+### Principios de estrategia y recorrido
 
-Cat Mario, more formally known as Syobon Action (しょぼんのアクション), is a Japanese freeware game that is a parody of the classic *Super Mario Bros*. At first glance, it appears to be a simple, crudely drawn clone of Mario, featuring a white cat-like character in a familiar-looking world. However, the game is infamous for being an "unfair platformer" or "troll game."
+Más que estrategia, aquí manda la memoria. Es una prueba de paciencia y
+memorización más que de habilidad pura.
 
-The entire game is designed to subvert player expectations and troll them in every way imaginable. The levels are filled with countless hidden traps, invisible blocks, ground that suddenly collapses, enemies that behave unpredictably, and background elements that are actually lethal. The core gameplay is based on trial and error, requiring players to die repeatedly to memorize the location and nature of each trap. The game's humor comes from the sheer absurdity and unfairness of the deaths, and the life counter, which often goes into negative numbers, serves as a running gag. The goal is simply to reach the flagpole at the end of each stage without rage-quitting.
+-   **Regla nº1: NO TE FÍES DE NADA.** Es la norma de oro de Cat Mario. No te
+    fíes del suelo, de los bloques, de las nubes ni siquiera de la bandera del
+    final. Todo puede ser una trampa.
+-   **Ensayo y error o nada:** Estás diseñado para morir. Cada muerte es una
+    pista. Cuando te maten, fíjate bien en qué ha pasado y recuerda ese punto
+    para el siguiente intento. Solo así se puede terminar.
+-   **Espera lo inesperado:**
+    -   Los bloques con `?` pueden ser sólidos, invisibles o generar enemigos
+        justo encima de ti.
+    -   El primer tramo de suelo del nivel 1 se hunde si caminas sobre él con
+        normalidad.
+    -   Algunos enemigos aceleran, saltan o caen del cielo sin previo aviso.
+    -   Incluso los potenciadores pueden matarte.
+-   **Trampas clave en el nivel 1 (spoilers):**
+    -   El primer bloque `?` es una trampa: si lo golpeas desde abajo, sale
+        disparado hacia arriba y te aplasta. Salta por encima.
+    -   El suelo justo después de la primera tubería se cae: tienes que saltar
+        el hueco.
+    -   Algunas nubes son en realidad enemigos y te matan al tocarlas.
+    -   Al llegar a la escalera final aparece un enemigo en la parte superior;
+        ve preparado.
+    -   **No toques la bandera.** Debes saltar *por encima* del asta, caer en
+        un bloque oculto y avanzar hasta el castillo para terminar el nivel. La
+        propia bandera es otra trampa.
 
-### Gameplay Strategy & Walkthrough Principles
+### Guía de controles
 
-There is no "strategy" in the traditional sense, only memorization. The game is a test of patience and memory, not skill.
+Los controles imitan a los plataformas 2D clásicos.
 
--   **Rule #1: TRUST NOTHING.** This is the golden rule of Cat Mario. Do not trust the ground you walk on, the blocks above you, the clouds in the sky, or even the flagpole at the end. Everything is a potential trap.
--   **Trial and Error is the Only Way:** You are meant to die. Every death is a lesson. When you die, pay close attention to what killed you and remember that spot for your next attempt. The game is only beatable through rote memorization.
--   **Expect the Unexpected:**
-    -   Question blocks can be solid, invisible, or spawn enemies on top of you.
-    -   The very first patch of ground in Level 1 will collapse if you walk on it normally.
-    -   Enemies may suddenly accelerate, jump, or fall from the sky.
-    -   Power-ups can kill you.
--   **Key Traps to Remember (Level 1 Spoilers):**
-    -   The first `?` block you see is a trap. Hitting it from below will cause it to fly upwards, killing you. Jump over it.
-    -   The ground right after the first pipe will collapse. You must jump over the gap.
-    -   Some clouds in the sky are actually enemies and will kill you if you touch them.
-    -   When you reach the final staircase, an enemy will spawn at the top. Be prepared.
-    -   **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
+-   **Flechas izquierda/derecha:** Mover al personaje.
+-   **Flecha arriba:** Saltar.
 
-### Controls Guide
+No hay botón de correr ni de disparar.
 
-The controls are very simple and mimic classic 2D platformers.
--   **Left/Right Arrow Keys:** Move the character left and right.
--   **Up Arrow Key:** Jump.
+### Preguntas frecuentes (FAQ)
 
-There is no run button or fire button.
+**1. Muero constantemente "sin motivo", ¿es imposible?**
+> Ese es justo el chiste del juego. Está diseñado como plataformas injusto: las
+> trampas rompen todas las reglas habituales del género. Se puede terminar, pero
+> solo memorizando.
 
-### Frequently Asked Questions (FAQ)
+**2. ¿Cuántas vidas tengo si el contador está en negativo?**
+> Tienes vidas infinitas. Que el contador baje a números negativos es solo una
+> broma; nunca verás un "Game Over" definitivo.
 
-**1. Why do I keep dying for no reason? This game is impossible!**
-> That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.
+**3. ¿Hay forma de saber dónde están las trampas?**
+> No en tu primera partida. La única manera de descubrirlas es activarlas y
+> morir.
 
-**2. How many lives do I have? My life counter is negative.**
-> You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."
-
-**3. Is there a way to know where the traps are?**
-> No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
-
-**4. What's the real name of this game?**
-> The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
-
+**4. ¿Cuál es el nombre real del juego?**
+> En inglés se le llama "Cat Mario" o "Neko Mario". Su nombre original en japonés
+> es "Syobon Action" (しょぼんのアクション).

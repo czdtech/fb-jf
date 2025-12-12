@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: raft-wars
-title: '[FR] Raft Wars'
+title: 'Raft Wars'
 description: >-
-  [FR] Raft Wars is a turn-based strategy shooting game where players help two
-  young brothers defend their treasure from pirates and vikings using tennis
-  balls and other projectiles in naval battles.
+  Raft Wars est un jeu de tir tactique au tour par tour où tu aides deux jeunes
+  frères à défendre leur trésor contre des pirates et des vikings en leur
+  lançant des balles de tennis et autres projectiles lors de batailles navales.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/raft-wars.jpg
@@ -21,32 +21,58 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-"Raft Wars" is a turn-based strategy shooting game where players help two young brothers defend their discovered treasure from pirates and vikings who try to steal it. The game features physics-based shooting mechanics, requiring players to adjust angles and power to use tennis balls and other projectiles to defeat enemies by knocking them off their rafts into the water.
+Raft Wars est un jeu de tir stratégique au tour par tour dans lequel tu
+aides deux jeunes frères à protéger le trésor qu’ils ont découvert contre
+des pirates et des vikings décidés à le voler. Le gameplay repose sur une
+physique de tir : tu dois régler l’angle et la puissance de tes lancers de
+balle de tennis (et d’autres projectiles) pour faire tomber les ennemis de
+leurs radeaux dans l’eau.
 
-### Gameplay Strategy
+### Stratégies de jeu
 
-1.  **[FR]** **Master Shooting Skills**: Learn to adjust launch angles and power, observing how environmental factors like wind affect the trajectory.
-2.  **[FR]** **Prioritize Target Selection**: Focus on attacking closer or more threatening enemies first, managing attack order wisely.
-3.  **[FR]** **Utilize Physics**: Take advantage of bouncing, explosions, and other physical effects to achieve better attack results.
-4.  **[FR]** **Protect Yourself**: Ensure your characters don't get knocked off, making good use of cover and positional advantages.
-5.  **[FR]** **Upgrade Equipment**: As the game progresses, acquire more powerful weapons and items to enhance combat capabilities.
+1.  **Maîtriser les tirs :** apprends à ajuster l’angle et la puissance de
+    chaque tir, en observant comment des éléments comme le vent peuvent
+    influencer la trajectoire.
+2.  **Choisir les bonnes cibles :** concentre‑toi d’abord sur les ennemis
+    les plus proches ou les plus dangereux. L’ordre d’attaque peut changer
+    totalement l’issue du combat.
+3.  **Exploiter la physique :** profite des rebonds, explosions et autres
+    effets physiques pour toucher plusieurs ennemis ou provoquer des
+    chutes spectaculaires.
+4.  **Te protéger :** veille à ce que tes personnages ne soient pas
+    facilement éjectés de leur radeau. Utilise bien les couvertures et la
+    position.
+5.  **Améliorer l’équipement :** au fil du jeu, débloque des armes et
+    objets plus puissants pour renforcer ta puissance de feu.
 
-### How to Play
+### Comment jouer
 
-*   **[FR]** **Aim**: Use the mouse to adjust launch angle, typically by dragging to control direction and power.
-*   **[FR]** **Fire**: Click the mouse or press a specific key to launch projectiles.
-*   **[FR]** **Select Weapons**: Switch between available weapons, choosing the most suitable one for the current situation.
-*   **[FR]** **Move**: In some levels, you may be able to move your raft position to get better shooting angles.
+*   **Viser :** utilise la souris pour régler l’angle de tir, souvent en
+    faisant glisser pour contrôler la direction et la puissance.  
+*   **Tirer :** clique ou appuie sur la touche dédiée pour lancer ton
+    projectile.  
+*   **Choisir une arme :** change d’arme parmi celles disponibles et
+    sélectionne la plus adaptée à la situation.  
+*   **Déplacer le radeau :** dans certains niveaux, tu peux repositionner
+    ton radeau pour obtenir un meilleur angle de tir.
 
-### Frequently Asked Questions
+### Foire aux questions
 
-1.  **[FR]** **Q: How can I improve shooting accuracy?**
-**A**: Practice adjusting combinations of angle and power, observe trajectory paths, and consider the effects of environmental factors like wind.
-2.  **[FR]** **Q: How many levels are there in the game?**
-**A**: "Raft Wars" typically contains multiple chapters and levels, each with different enemy configurations and challenges.
-3.  **[FR]** **Q: How do I get better weapons?**
-**A**: By completing levels and defeating enemies, you can unlock more powerful weapons and special items.
-4.  **[FR]** **Q: What happens if I get knocked off?**
-**A**: If your character gets knocked into the water, you typically lose health or need to restart the level.
+1.  **Q : Comment améliorer ma précision ?**  
+    R : Entraîne‑toi à ajuster les combinaisons d’angle et de puissance.
+    Observe bien la trajectoire et tiens compte de l’éventuel vent.
+
+2.  **Q : Combien de niveaux le jeu propose‑t‑il ?**  
+    R : Raft Wars comporte plusieurs chapitres et niveaux, chacun avec
+    des configurations d’ennemis et des défis différents.
+
+3.  **Q : Comment obtenir de meilleures armes ?**  
+    R : En terminant des niveaux et en vainquant des ennemis, tu
+    débloques progressivement des armes plus puissantes et des objets
+    spéciaux.
+
+4.  **Q : Que se passe‑t‑il si mon personnage tombe à l’eau ?**  
+    R : S’il est projeté dans l’eau, tu perds généralement de la
+    santé ou dois recommencer le niveau, selon la version.

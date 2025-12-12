@@ -1,66 +1,48 @@
 ---
-locale: ja
+title: Sugar Heroes
+description: Sugar Heroesは、甘いキャンディーをマッチするパズルゲームです。3つ以上の同じキャンディーを揃えてレベルをクリアしましょう。
+iframeSrc: 'https://ubg98.github.io/SugarHeroes/'
+thumbnail: /new-images/sugar-heroes.jpg
 urlstr: sugar-heroes
-title: '[JA TRANSLATION NEEDED] Sugar Heroes'
-description: >-
-  [JA TRANSLATION NEEDED] Sugar Heroes is a vibrant match‑3 — free blockers,
-  merge power‑ups, and hit scene goals under smart move planning.
-iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
-thumbnail: /new-images/sugar-heroes.png
+score: 4.4/5  (2543 votes)
 tags:
   - puzzle
+  - match-3
   - casual
-  - thinky
-score: 4.1/5  (1986 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Sugar Heroesは、カラフルで楽しいマッチ3パズルゲームです。同じ色のキャンディーを3つ以上揃えて消し、目標を達成してレベルをクリアしましょう。
 
-[JA TRANSLATION NEEDED] Sugar Heroes leans into combo‑heavy match‑3 with candy‑themed blockers and animated heroes. Goals range from clearing jelly to delivering ingredients; power‑up merges (bomb+line/color clears) are crucial for dense layouts.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Focus goals: Clear blockers or collect items before pure scoring.
-[JA TRANSLATION NEEDED] 2.  Bottom cascades: Work low for free chain clears.
-[JA TRANSLATION NEEDED] 3.  Save merges: Detonate strong combos at choke points.
-[JA TRANSLATION NEEDED] 4.  Side control: Don’t strand colors on edges.
-[JA TRANSLATION NEEDED] 5.  Two‑ahead planning: Map the next move to preserve setups.
-
-### Controls Guide
-
-- Drag to swap; tap power‑ups; pause/retry in UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I hit move limits.
-  
-[JA TRANSLATION NEEDED]   A: Chain power‑ups and prioritize clears that unlock space.
-
-- Q: Strong opener?
-  
+ - **キャンディーをスワップ：** 隣接するキャンディーを入れ替えます
+ - **マッチを作る：** 3つ以上の同じキャンディーを揃えて消します
+ - **目標を達成：** 各レベルの特定の目標を完了します
+ - **特別なキャンディー：** 4つ以上揃えて特別なキャンディーを作ります
 
 
-
-
-
-
-- Q: I hit move limits.
-### よくある質問（FAQ）
-- Drag to swap; tap power‑ups; pause/retry in UI.
-### コントロールガイド
 - Two‑ahead planning: Map the next move to preserve setups.
+### 操作ガイド
+
+ - **マウス/タッチ：** キャンディーをクリックまたはタップしてスワップ
 
 ### よくある質問（FAQ）
-- Side control: Don’t strand colors on edges.
-[JA TRANSLATION NEEDED]   A: Bottom clears; they spawn cascades.
 
 
+- Q: I hit move limits.
+**ゲームの目標は何ですか？**
 
 
-A: Bottom clears; they spawn cascades.
 - Q: Strong opener?
+制限された動きの中でレベルの目標を達成することです。
 
+**特別なキャンディーは何ですか？**
 
-A: Bottom clears; they spawn cascades.
+4つ以上のキャンディーを揃えると、より強力な効果を持つ特別なキャンディーが作られます。
+
+**レベルは何個ありますか？**
+
+多くのレベルがあり、それぞれ異なる目標とチャレンジがあります。

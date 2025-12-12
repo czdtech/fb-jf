@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: dices-2048-3d
-title: '[DE] Dices 2048 3D'
+title: "Dices 2048 3D"
 description: >-
-  [DE] Dices 2048 3D fuses 2048 with dice physics — merge same‑value dice to
-  climb toward 2048 in three dimensions.
+  Dices 2048 3D verbindet das klassische 2048-Prinzip mit Würfelphysik: Lasse
+  gleiche Würfelwerte zusammenstoßen, verschmelze sie zu höheren Zahlen und
+  arbeite dich im dreidimensionalen Spielfeld bis zur 2048 vor.
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/dices-2048-3d.png
 tags:
@@ -15,30 +16,54 @@ score: 4.1/5  (1924 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Dices 2048 3D ist eine physikbasierte Variante des bekannten 2048-Puzzles. Du
+lässt Würfel fallen oder schiebst sie so, dass identische Augenzahlen
+aufeinandertreffen und zu einem Würfel mit dem nächsthöheren Wert verschmelzen
+(z.B. 2 → 4 → 8). Schwerkraft, Abpraller und die räumliche Anordnung sorgen
+für neue Taktiken rund um Stapel, Abstände und das Verhindern unerwünschter
+Kettenreaktionen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Spalten sauber halten:** Reserviere dir eine Spalte zum Kombinieren und
+   eine zum Vorbereiten neuer Würfel. Wilde Stapel ohne Plan blockieren schnell
+   mögliche Fusionen.
+2. **Kettenreaktionen vorbereiten:** Lege mehrere Paare mit gleichem Wert so
+   zurecht, dass eine Fusion direkt die nächste auslöst. So springt dein Score
+   in die Höhe.
+3. **Werte im Blick behalten:** Lege hohe Würfelwerte nicht in eine Ecke ohne
+   passende Nachbarn. Halte gleiche Zahlen möglichst in Reichweite, damit sie
+   mit einem Zug zusammengeführt werden können.
+4. **Physik zähmen:** Sanfte Drops und kurze Schubser führen zu weniger
+   unkontrollierten Bouncern. Lass die Würfel erst zur Ruhe kommen, bevor du
+   den nächsten fallen lässt.
+5. **Rettungszüge nutzen:** Wird der Stapel zu hoch, räume mit sicheren,
+   kleinen Fusionen Platz, statt krampfhaft auf die perfekte Mega-Kombo zu
+   warten.
 
-Dices 2048 3D is a physics‑infused take on the classic 2048 merging puzzle. Drop or slide dice so that identical face values collide and merge into the next value (e.g., 2→4→8). Gravity, bounce, and 3D placement create fresh tactics around stacking, spacing, and controlling accidental merges.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Zielen/Platzieren:** Bewege den Cursor oder ziehe, um die
+  Abwurfposition zu wählen; manche Versionen erlauben auch das Drehen des
+  Würfels.
+- **Abwurf/Bestätigen:** Klicke oder tippe, um den Würfel fallen zu lassen.
+- **Rückgängig/Wiederholen (falls verfügbar):** Einige Varianten bieten
+  begrenzte Rückgängig-Züge – ideal, um einen missglückten Drop zu retten.
 
-1.  **[DE]** Keep lanes clean: Reserve a column for combining and another for staging; avoid cluttered piles that block merges.
-2.  **[DE]** Chain reactions: Set up multiple adjacent pairs so one merge cascades into the next for big score swings.
-3.  **[DE]** Value management: Don’t spawn a higher value in a corner with no neighbors; keep equal values within one move of contact.
-4.  **[DE]** Tame physics: Soft drops and short nudges reduce unwanted bounces; let dice settle before committing the next piece.
-5.  **[DE]** Bail‑out moves: When the board rises, clear space with safe merges rather than fishing for perfect chains.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Wie verschmelzen die Würfel genau?**  
+  **A:** Treffen zwei Würfel mit demselben Wert zusammen, werden sie zu einem
+  einzigen Würfel mit dem nächsthöheren Wert (z.B. zwei 8er ergeben einen 16er).
 
-- Aim/Place: Move cursor or drag to choose drop position; some versions allow rotation.
-- Drop/Confirm: Click/tap to release the die.
-- Undo/Retry (if available): Limited undos may exist; use them to rescue misdrops.
+- **F: Ich löse ständig ungewollte Fusionen aus – was tun?**  
+  **A:** Reduziere die Fallhöhe, warte, bis alle Würfel vollständig zur Ruhe
+  gekommen sind, und vermeide schräge Abpraller, bei denen Würfel in Gruppen
+  hineinrutschen.
 
-### Frequently Asked Questions (FAQ)
-
-- How do dice merge? Identical values touching merge into the next value (e.g., two 8s become a 16).
-- I keep causing accidental merges—how to stop? Reduce drop height, wait for full settle, and avoid diagonal ricochets.
-- Is there an end? The game ends when no legal placements remain or the container overflows; aim to reach 2048 or beyond.
-
+- **F: Wann ist das Spiel vorbei?**  
+  **A:** Die Partie endet, wenn du keinen Würfel mehr sinnvoll platzieren kannst
+  oder das Gefäß überläuft. Dein Ziel ist es, mindestens die 2048 zu erreichen –
+  oder sogar darüber hinaus.

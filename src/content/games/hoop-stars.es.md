@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: hoop-stars
-title: '[ES] Hoop Stars'
+title: "Hoop Stars"
 description: >-
-  [ES] Hoop Stars is a ring‑flip skill game — spin, time flips, and drop rings
-  cleanly over pegs before your rival does.
+  Hoop Stars es un juego de habilidad con aros: hazlos girar, calcula el
+  momento del lanzamiento y déjalos caer limpiamente sobre las estacas antes que
+  tu rival.
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/hoop-stars.png
 tags:
@@ -17,34 +18,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Hoop Stars es un concurso rápido de lanzamiento de aros. Giras un aro alrededor
+de una estaca central y lo impulsas para que pase por encima de los obstáculos.
+Los lanzamientos limpios que acaban encajando sobre la estaca puntúan; los
+fallos te hacen perder tiempo. En los duelos importa más tener una sincronización
+constante y preparar bien el ángulo que pulsar a lo loco.
 
-Hoop Stars is a rapid ring‑flip contest. You rotate a ring around a central peg and flip it to land past obstacles. Clean flips that settle over the peg score; misses costs time. Duels reward consistent timing and smart angle setups more than raw speed.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Pre‑giro:** gira el aro hasta un ángulo cómodo antes de lanzar.
+2.  **Ventanas tempranas/tardías:** aprende cómo cambia la altura de la parábola
+    si sueltas antes o después.
+3.  **Lectura de obstáculos:** espera medio ciclo hasta ver un hueco; no
+    fuerces lanzamientos imposibles.
+4.  **Cuidado con los rebotes:** si un aro rebota, no vuelvas a lanzarlo en
+    medio del caos: tómate un segundo para reajustar.
+5.  **PvP:** engaña al rival amagando lanzamientos y remata con un tiro limpio
+    cuando baje la guardia.
 
-1.  **[ES]** Pre‑spin: Rotate to a comfortable angle before flipping.
-2.  **[ES]** Early/late windows: Learn how early vs late flips change arc height.
-3.  **[ES]** Obstacle reads: Wait half a cycle for gaps; don’t force throws.
-4.  **[ES]** Mind rebounds: If a ring bounces, don’t re‑flip into chaos — reset.
-5.  **[ES]** PvP: Bait opponents by faking flips, then land a clean one.
+### Guía de controles
 
-### Controls Guide
+- Mantén pulsado para girar y suelta para lanzar; en algunas versiones hay dos
+  botones separados para girar y lanzar.
 
-- Hold to spin; release to flip; some builds use two buttons for spin vs flip.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: Mis lanzamientos siempre golpean el aro y salen despedidos, ¿qué hago mal?  
+  A: Ajusta el momento de la suelta un poco antes o después y reduce la
+  velocidad del pre‑giro para conseguir trayectorias más estables.
 
-- Q: My flips always rim out — fix?
+- Q: ¿Sirve de algo machacar botones?  
+  A: No demasiado; las preparaciones consistentes superan al spam casi siempre.
 
-A: Adjust release timing earlier/later and reduce pre‑spin speed for steadier arcs.
-
-- Q: Is button mashing viable?
-
-A: Not really — consistent setups beat spam.
-
-- Q: Local multiplayer?
-
-A: Often available with mirrored controls.
-
+- Q: ¿Hay multijugador local?  
+  A: En muchas versiones sí, con controles reflejados para cada jugador.

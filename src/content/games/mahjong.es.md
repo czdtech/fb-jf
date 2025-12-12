@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: mahjong
-title: '[ES] Mahjong'
+title: "Mahjongg Solitaire - Clásico rompecabezas de fichas"
 description: >-
-  [ES] Mahjongg Solitaire is a classic single-player puzzle game based on
-  traditional Chinese Mahjong tiles, where players match identical open pairs to
-  clear the board.
+  Mahjongg Solitaire es un rompecabezas clásico para un jugador basado en
+  fichas de Mahjong tradicionales chinas, donde debes emparejar fichas abiertas
+  e idénticas para limpiar el tablero.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/mahjong.jpg
 tags:
@@ -18,36 +18,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+Mahjongg Solitaire es un juego de emparejar fichas para un solo jugador basado
+en las tradicionales fichas chinas de Mahjong. El objetivo es limpiar todo el
+ tablero emparejando fichas idénticas que estén abiertas. Gracias a sus reglas
+sencillas y a un reto que aumenta con cada disposición, es un juego muy querido
+por jugadores de todo el mundo.
 
-### Game Introduction
+### Estrategia de juego
 
-"Mahjongg Solitaire" is a single-player matching game based on traditional Chinese Mahjong tiles. The objective of the game is to clear the entire board by matching pairs of identical, open tiles. Due to its easy-to-understand rules and challenging gameplay, Mahjongg Solitaire is loved by players worldwide.
+1.  **Observar la disposición del tablero:** examina con calma el tablero para
+    identificar todas las parejas disponibles.
+2.  **Priorizar fichas bloqueantes:** céntrate en eliminar parejas que estén
+    bloqueando muchas otras fichas para abrir más opciones de emparejamiento.
+3.  **Planificar varios movimientos:** piensa siempre a varios pasos vista para
+    que cada emparejamiento deje el tablero en una situación favorable para las
+    siguientes jugadas.
+4.  **Usar pistas y barajados con moderación:** recurre a las pistas o al
+    barajado solo cuando estés realmente bloqueado; así mantendrás el reto del
+    juego y aprenderás mejores patrones.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Observe the Board Layout**: Carefully examine the board to identify available matching pairs.
-2.  **[ES]** **Prioritize Blocking Tiles**: Focus on removing pairs that block other tiles to unlock more matching possibilities.
-3.  **[ES]** **Plan Multiple Moves**: Plan several moves ahead to ensure each step creates favorable conditions for subsequent matches.
-4.  **[ES]** **Use Hints and Shuffles**: Utilize in-game hints or shuffle features when stuck, but use them sparingly to maintain the game's challenge.
+*   **Seleccionar parejas:** haz clic en dos fichas idénticas y abiertas para
+    retirarlas.
+*   **Identificar fichas abiertas:** una ficha se considera abierta si cumple:
+    *   No tiene fichas en los laterales que la aprisionen por ambos lados.
+    *   No está cubierta por ninguna ficha encima.
+*   **Condiciones de fin de partida:** la partida termina cuando has retirado
+    todas las fichas o cuando ya no quedan emparejamientos posibles.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Select Pairs**: Click on two identical and open tiles to remove them.
-*   **[ES]** **Identify Open Tiles**: A tile is considered open if it meets the following criteria:
-    *   **[ES]** It has no adjacent tiles on its left or right side.
-    *   **[ES]** It is not covered by any tiles above it.
-*   **[ES]** **Game End Conditions**: The game ends when all tiles are successfully removed or when there are no more possible matches.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: What if the game doesn't load or start?**
-**A**: Try refreshing the page or switching browsers. If the problem persists, clearing your browser's cache might help.
-2.  **[ES]** **Q: How can I enlarge the game interface?**
-**A**: Click the full-screen button in the lower right corner of the game interface to enter full-screen mode and enlarge the game area.
-3.  **[ES]** **Q: Are there different tile themes available?**
-**A**: Many versions of Mahjongg Solitaire offer various tile themes, which you can change in the game settings.
-4.  **[ES]** **Q: What if there are no more matching pairs in the game?**
-**A**: Some game versions provide a shuffle feature, allowing you to rearrange the tiles to continue playing.
-5.  **[ES]** **Q: How do I pause the game?**
-**A**: Click the pause button in the game interface to pause the game, and the timer will also stop.
+1.  **P: ¿Qué hago si el juego no carga o no arranca?**  
+    **R:** Prueba a recargar la página o cambiar de navegador. Si el problema
+    continúa, limpiar la caché del navegador suele ayudar.
+2.  **P: ¿Cómo amplío la zona de juego?**  
+    **R:** Haz clic en el botón de pantalla completa de la esquina inferior
+    derecha para entrar en modo de pantalla completa y ampliar el tablero.
+3.  **P: ¿Hay diferentes temas de fichas?**  
+    **R:** Muchas versiones de Mahjongg Solitaire ofrecen varios temas de
+    fichas que puedes cambiar desde el menú de opciones.
+4.  **P: ¿Qué ocurre si ya no quedan parejas?**  
+    **R:** Algunas versiones incluyen una función de barajado que reorganiza las
+    fichas restantes para que puedas seguir jugando.
+5.  **P: ¿Cómo se pausa la partida?**  
+    **R:** Usa el botón de pausa en la interfaz del juego; el temporizador se
+    detendrá mientras esté activa la pausa.

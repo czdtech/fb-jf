@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: guess-the-word
-title: '[DE] Guess The Word'
+title: "Guess The Word"
 description: >-
-  [DE] Guess The Word is a clean word‑builder — connect letters, exploit
-  patterns, and clear crosswords with vocabulary and logic.
+  Guess The Word ist ein klares Wortlegespiel: Verbinde Buchstaben, nutze
+  Mustererkennung und fülle Kreuzwort-Gitter mit deinem Wortschatz und etwas
+  Kombinationsgabe.
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/guess-the-word.png
 tags:
@@ -15,35 +16,58 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Guess The Word verbindet Buchstaben-Verbindungsrätsel mit Kreuzworträtseln. Du
+ziehst eine Linie über Buchstabenringe, um gültige Wörter zu bilden, die dann
+in ein Gitter eingetragen werden. Mit fortschreitenden Leveln werden die
+Anagramme trickreicher, seltene Buchstabenkombinationen häufiger und Vokale
+knapper – belohnt werden ein gutes Gefühl für Muster und strategisches Raten.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Guess The Word blends letter‑link input with crossword slots. You drag through letter wheels to form valid words that populate a grid. Difficulty grows with trick anagrams, uncommon digrams, and sparse vowels, rewarding pattern recognition and strategic guesswork.
+1.  **Kurze, offensichtliche Wörter zuerst**  
+    Beginne mit einfachen Zwei- oder Drei-Buchstaben-Wörtern, um erste Felder
+    im Gitter zu füllen. Diese Kreuzungen helfen dir später bei schwereren
+    Wörtern.
 
-### Gameplay Strategy & Walkthrough
+2.  **Mit Präfixen und Suffixen arbeiten**  
+    Nutze typische Vorsilben und Endungen wie **re-**, **un-**, **-ing** oder
+    **-ed**, um aus einer Buchstabenkombination mehrere Varianten abzuleiten
+    (je nach Spracheinstellung des Spiels können diese Beispiele variieren).
 
-1.  **[DE]** Start with obvious short words to anchor crossings.
-2.  **[DE]** Work from prefixes/suffixes (re‑, un‑, ‑ing, ‑ed) to inflate options.
-3.  **[DE]** Use letter frequency — E/A/R/S/T appear more; hunt words around them.
-4.  **[DE]** Bank bonus words for hints in late boards.
-5.  **[DE]** When stuck, reshuffle mental order (middle‑out) to discover new strings.
+3.  **Buchstabenhäufigkeit nutzen**  
+    Häufige Buchstaben wie E, A, R, S oder T tauchen in vielen Wörtern auf.
+    Baue deine Versuche rund um diese Kernbuchstaben auf und ergänze seltenere
+    Zeichen drumherum.
 
-### Controls Guide
+4.  **Bonuswörter sammeln**  
+    Viele Versionen belohnen zusätzliche, nicht im Gitter benötigte Wörter mit
+    Münzen oder Hinweisen. Heb dir diese Boni für besonders knifflige Boards
+    auf.
 
-- Drag to connect letters; release to submit; use hints sparingly.
+5.  **Perspektive wechseln, wenn du feststeckst**  
+    Wenn dir nichts mehr einfällt, ändere deinen Blickwinkel: Starte z. B. in
+    der Mitte des Rings oder lies die Buchstaben rückwärts, um neue
+    Kombinationen zu entdecken.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: A slot seems impossible — tips?
+- Ziehe mit Maus oder Finger über die Buchstaben, um sie zu verbinden, und lasse
+  los, um das Wort einzureichen.  
+- Nutze Hinweis-Buttons nur sparsam, da sie meist Ressourcen kosten.
 
-A: Recheck crossings and try anagrams with the fixed letters (e.g., _ate → eat/tea/eta).
+### Häufige Fragen (FAQ)
 
-- Q: Are plurals/proper nouns allowed?
+- **F: Ein Feld wirkt unmöglich – was kann ich tun?**  
+  **A:** Überprüfe die vorhandenen Kreuzungen und probiere Anagramme mit den
+  festen Buchstaben im Gitter aus (z. B. aus _ate werden eat/tea/eta, je nach
+  Wörterliste der Sprache).
 
-A: Depends on the dictionary; generally no proper nouns.
+- **F: Sind Pluralformen oder Eigennamen erlaubt?**  
+  **A:** Das hängt vom verwendeten Wörterbuch ab. Meist sind Eigennamen
+  ausgeschlossen, während gängige Pluralformen erlaubt sein können.
 
-- Q: Can I replay for more coins?
-
-A: Usually yes — revisit earlier grids for bonuses.
-
+- **F: Kann ich Level wiederholen, um mehr Münzen zu verdienen?**  
+  **A:** In vielen Versionen ja – du kannst frühere Gitter erneut spielen, um
+  Bonusbelohnungen oder zusätzliche Münzen zu sammeln.

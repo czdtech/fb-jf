@@ -1,50 +1,46 @@
 ---
-locale: ja
-urlstr: the-pillar
-title: '[JA TRANSLATION NEEDED] The Pillar'
-description: >-
-  [JA TRANSLATION NEEDED] Embark on a mysterious journey in The Pillar, a
-  captivating puzzle and escape room game. Explore enigmatic environments, solve
-  intricate puzzles, and uncover hidden secrets as you progress through a series
-  of challenging levels. Test your logic and observation skills in this
-  immersive adventure.
-iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
+title: The Pillar
+description: The Pillarは、パズルアドベンチャーゲームです。謎を解いて柱の秘密を明らかにしましょう。
+iframeSrc: 'https://ubg98.github.io/ThePillar/'
 thumbnail: /new-images/the-pillar.jpg
+urlstr: the-pillar
+score: 4.2/5  (1543 votes)
 tags:
   - puzzle
   - adventure
   - mystery
-score: 3.8/5  (802 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] The Pillar is an immersive puzzle and escape room game that challenges players with a series of intricate environmental puzzles. Players explore mysterious and beautifully designed locations, interacting with objects and mechanisms to unlock new paths and uncover the secrets hidden within the game's world. It's a game that rewards observation, logic, and creative thinking.
+The Pillarは、美しいビジュアルと挑戦的なパズルを特徴とするアドベンチャーゲームです。神秘的な柱の周りの謎を解き明かしましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
-- **Exploration:** Wander through various unique settings, looking for clues and interactive elements.
-- **Puzzle Solving:** Engage with different types of puzzles, from mechanical contraptions to logical sequences.
-- **Progression:** Successfully solving puzzles opens new areas or reveals critical information needed to advance.
 
-### Controls Guide
+The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
+ - **探索：** 環境を探索します
+ - **パズル解決：** 様々なパズルを解きます
+ - **手がかり収集：** 重要な手がかりを見つけます
+ - **謎を明らかに：** ストーリーを進めて真実を発見します
 
-- **Movement:** `WASD` or `Arrow Keys` to move your character.
-- **Interaction:** `Left Mouse Button` to click on objects, activate mechanisms, and solve puzzles.
+### 操作ガイド
 
-### Frequently Asked Questions (FAQ)
+ - **WASD/矢印キー：** 移動
+ - **マウス：** 相互作用とパズル操作
+ - **E：** アクション
 
-[JA TRANSLATION NEEDED] **What kind of puzzles can I expect?**
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] The puzzles vary widely, including logic puzzles, pattern recognition, environmental manipulation, and sometimes even sound-based challenges.
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] **Is there a story in The Pillar?**
+柱の周りの謎を解き明かし、パズルをすべて解くことです。
 
-[JA TRANSLATION NEEDED] While the game is primarily puzzle-driven, there is an underlying narrative or mystery that unfolds as you progress and solve more puzzles, often revealed through environmental storytelling.
+**パズルは難しいですか？**
 
-[JA TRANSLATION NEEDED] **Is the game difficult?**
+段階的に難しくなりますが、論理的思考で解けます。
 
-[JA TRANSLATION NEEDED] The difficulty of the puzzles can range from straightforward to quite challenging, requiring players to think critically and sometimes experiment with solutions.
+**どれくらいの長さですか？**
 
+パズル解決スキルによって異なりますが、数時間のゲームプレイが楽しめます。

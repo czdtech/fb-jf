@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: secret-agent
-title: '[KO] Secret Agent'
+title: "Secret Agent 시크릿 에이전트"
 description: >-
-  [KO] Secret Agent is a stealth‑action caper — sneak past guards, disable
-  traps, and complete objectives with gadgets and precise timing.
+  잠입과 퍼즐 요소가 섞인 스텔스 액션 게임입니다. 경비의 시야를
+  피해 카메라와 함정을 해제하고, 각종 도구를 활용해 임무를 완수한
+  뒤 안전하게 탈출하세요.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/secret-agent.png
 tags:
@@ -16,34 +17,65 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Secret Agent*는 잠입 플레이에 가벼운 퍼즐 루팅 요소가 더해진
+스텔스 액션 게임입니다. 플레이어는 비밀 요원이 되어 감시 카메라를
+끄고, 경비병의 시야를 피해 이동하며, 문을 해킹하고 기밀 정보를
+수집한 뒤 탈출 지점까지 도달해야 합니다.
 
-Secret Agent blends stealth with light puzzle routing. You’ll disable cameras, avoid cones of vision, hack doors, and collect intel before extraction. Clean routes and gadget timing trump brute force.
+정면 승부보다는 **깨끗한 동선 설계와 장비 사용 타이밍**이 중요한
+게임이라, 한 번에 들키지 않고 "고스트 클리어"를 노리는 맛이
+있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Vision cones: Move only when guard cones sweep away.
-2.  **[KO]** Gadget economy: Save EMPs/decoys for multi‑guard rooms.
-3.  **[KO]** Route layering: Clear side intel when it’s along the optimal path; skip deep detours.
-4.  **[KO]** Sound bait: Throw a decoy to pivot patrol routes, then slip through.
-5.  **[KO]** Fail forward: After detection, break line of sight and hide; don’t panic sprint.
+1. **시야 콘(시야 원뿔)을 항상 의식하기**  
+   경비병과 카메라의 시야 범위를 파악한 뒤, 시야가 다른 쪽으로
+   돌아간 타이밍에만 움직이세요. 움직이기 전에는 항상 다음 은폐
+   지점을 먼저 정해 두는 것이 좋습니다.
 
-### Controls Guide
+2. **장비는 꼭 필요할 때만 사용하기**  
+   EMP, 미끼(디코이) 같은 가젯은 수량이 제한적입니다. 여러 경비가
+   동시에 지키는 구역이나, 패턴상 통과가 거의 불가능한 방을
+   돌파할 때를 위해 아껴 두세요.
 
-- WASD/Arrows to move; number keys for gadgets; interact with terminals; restart via menu.
+3. **동선 안에 있는 서브 목표만 챙기기**  
+   추가 정보나 보너스 아이템은 가능하면 본 루트와 크게 돌아가지
+   않는 선에서만 회수하세요. 깊은 우회로까지 들렀다가 되돌아오는
+   동선은 들킬 확률만 높입니다.
 
-### Frequently Asked Questions (FAQ)
+4. **소리로 순찰 경로 흔들기**  
+   미끼를 던져 소음을 내면 경비들이 그쪽으로 시선을 돌립니다.
+   이 틈에 반대편 통로로 빠져나가는 식으로, 직접 교전 없이
+   길을 여는 플레이가 가능합니다.
 
-- Q: I’m always spotted.
+5. **발각 후에는 시야 차단부터**  
+   들켰다고 무작정 달리기보다, 우선 코너나 문 뒤로 숨어 시야를
+   끊은 뒤 다시 잠입 상태로 돌아가는 것이 좋습니다. 라인을 끊고
+   기다리면 경비가 원래 경로로 돌아가는 경우가 많습니다.
 
-A: Study patrol cycles and move on fixed beats; use cover transitions.
+### 조작 가이드
 
-- Q: Gadgets feel scarce.
+- **이동**: `WASD` 또는 방향키로 캐릭터를 이동합니다.  
+- **가젯 선택**: 숫자 키로 사용할 장비를 선택합니다.  
+- **상호작용**: 터미널 해킹, 문 열기 등은 상호작용 키/버튼으로
+  실행합니다.  
+- **재시작**: 메뉴에서 현재 스테이지를 즉시 재시작할 수 있습니다.
 
-A: Use them only to break impossible rooms; rely on timing elsewhere.
+### 자주 묻는 질문(FAQ)
 
-- Q: Can I ghost levels?
+- **Q: 항상 금방 들켜요. 어떻게 해야 하나요?**  
+  **A:** 경비의 순찰 패턴을 먼저 관찰하고, 일정한 리듬에 맞춰 움직이는
+  것이 중요합니다. 커버(기둥, 벽, 상자)를 끊어 쓰며 시야 밖에서만
+  이동을 시도해 보세요.
 
-A: Many builds award bonuses for zero detections.
+- **Q: 장비가 너무 부족한 느낌이에요.**  
+  **A:** 모든 방에서 장비를 쓰려고 하지 말고, 정말 통과가 어려운
+  구역에서만 사용하세요. 나머지 구간은 패턴과 타이밍만으로도
+  충분히 돌파할 수 있는 경우가 많습니다.
 
+- **Q: 한 번도 들키지 않고 클리어할 수 있나요?**  
+  **A:** 많은 버전이 발각 0회 클리어에 추가 보너스를 제공합니다.
+  천천히 패턴을 익힌 뒤, 장비를 최소한으로 사용해 "고스트 런"에
+  도전해 보세요.

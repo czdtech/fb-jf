@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: paper-minecraft
-title: '[FR] Paper Minecraft'
+title: Paper Minecraft
 description: >-
-  [FR] Paper Minecraft is a 2D re-imagining of the popular sandbox game,
-  offering players a side-scrolling world to explore, mine resources, craft
-  items, build structures, and survive against monsters.
+  Paper Minecraft est une réinterprétation 2D de Minecraft, offrant un monde en
+  défilement horizontal à explorer, où tu mines, craftes, construis et survis
+  face aux monstres.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/paper-minecraft.jpg
 tags:
@@ -13,40 +13,47 @@ tags:
   - crafting
   - 2d platformer
 score: 3.6/5  (848 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+Paper Minecraft est une version 2D de Minecraft qui transpose le bac à sable dans un monde à défilement horizontal. Tu peux explorer, miner des ressources, fabriquer des objets, construire des structures et survivre aux monstres qui apparaissent dans l’obscurité. Le jeu conserve l’ADN du Minecraft original tout en proposant une approche plus simple à lire en 2D.
+
+### Stratégies de jeu
+
+1.  **Rassembler des ressources :** coupe du bois, mine les minerais en sous‑sol et stocke suffisamment de pierre et de charbon pour tes outils et ton abri.  
+2.  **Crafter des objets :** utilise la table de craft et le four pour transformer les ressources en outils, armes, blocs de construction et autres objets utiles.  
+3.  **Construire un abri :** un refuge sûr est indispensable pour passer la nuit à l’abri des zombies, squelettes et autres créatures hostiles.  
+4.  **Explorer et découvrir :** pars à la recherche de nouveaux biomes, de grottes cachées, de coffres et de veines de minerais rares.  
+5.  **Cultiver et élever :** mets en place des cultures pour la nourriture et élève des animaux pour la viande, le cuir et d’autres ressources.
+
+### Comment jouer
+
+- **Déplacement :** touches A/D ou flèches gauche/droite.  
+- **Saut :** touche W ou flèche haut.  
+- **Casser / récolter :** place le curseur sur un bloc et clique gauche pour le miner.  
+- **Placer des blocs :** sélectionne un bloc dans l’inventaire puis clique droit pour le poser.  
+- **Inventaire / craft :** touche E pour ouvrir l’inventaire, gérer les objets et crafter.
+
+### Foire aux questions (FAQ)
+
+- **Q : En quoi Paper Minecraft diffère‑t‑il du Minecraft original ?**  
+  **R :** Principalement par sa vue 2D en défilement horizontal. Le cœur du gameplay (minage, crafting, construction et survie) reste très proche de l’original.
+
+- **Q : Quels monstres puis‑je rencontrer ?**  
+  **R :** Zombies, squelettes, Creepers et autres créatures qui apparaissent la nuit ou dans les zones sombres.
 
 
 
+**A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.
 
-### Game Introduction
+- **Q: Does the game have dimensions like "The Nether" or "The End"?**
 
-"Paper Minecraft" is a 2D re-imagining of the popular sandbox game "Minecraft," offering players a side-scrolling world to explore, mine resources, craft items, build structures, and survive against various monsters. This game retains the core gameplay of the original while providing a unique experience from a 2D perspective.
-
-### Gameplay Strategy
-
-1.  **[FR]** **Gather Resources**: Chop trees for wood, mine underground for ores, which are fundamental materials for building and crafting.
-2.  **[FR]** **Craft Items**: Use a crafting table and furnace to process collected resources into tools, weapons, blocks, and other useful items.
-3.  **[FR]** **Build Shelter**: Building a safe base is a priority for survival, especially at night to fend off attacks from zombies, skeletons, and other monsters.
-4.  **[FR]** **Explore and Discover**: Explore different biomes, discover hidden caves, treasures, and resource points.
-5.  **[FR]** **Farming and Animal Husbandry**: Grow crops for food, and raise animals to provide meat, leather, and other resources.
-
-### How to Play
-
-*   **[FR]** **Movement**: Use A/D keys or left/right arrow keys to control horizontal character movement.
-*   **[FR]** **Jump**: Use the W key or up arrow key to jump.
-*   **[FR]** **Break/Collect**: Place the mouse pointer over a block, then click the left mouse button to break and collect it.
-*   **[FR]** **Place Blocks**: Select a block from your inventory, then click the right mouse button to place it.
-*   **[FR]** **Open Inventory/Crafting**: Use the E key to open your inventory, manage items, and craft.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: What are the main differences between "Paper Minecraft" and the original "Minecraft"?**
-**A**: The main differences are in perspective and dimension. Paper Minecraft is a 2D side-scrolling game, while the original Minecraft is a 3D open-world game, but the core sandbox, building, and survival gameplay are similar.
-2.  **[FR]** **Q: What are the common monsters in the game?**
-**A**: Common monsters include zombies, skeletons, Creepers, etc., which spawn and attack players at night or in dimly lit areas.
-3.  **[FR]** **Q: How do I craft more powerful tools and weapons?**
 **A**: By collecting higher-tier ores (e.g., iron, diamond) and processing them in a crafting table and furnace, you can create more durable and powerful tools and weapons.
-4.  **[FR]** **Q: Does the game have dimensions like "The Nether" or "The End"?**
+
+- **Q: How do I craft more powerful tools and weapons?**
+
+
 **A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.

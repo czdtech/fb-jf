@@ -1,15 +1,14 @@
 ---
 locale: es
 urlstr: pokemon-emerald
-title: '[ES] Pokemon Emerald'
+title: "Pokémon Esmeralda"
 description: >-
-  [ES] Pokemon Emerald is a role-playing video game in the Pokémon series, where
-  players embark on an adventure in the Hoenn region, catching and training
-  Pokémon, battling trainers, and challenging Gym Leaders to become the
-  Champion, while also dealing with the conflict between Team Magma and Team
-  Aqua.
-iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
-thumbnail: /new-images/pokemon-emerald.jpg
+  Pokémon Esmeralda es un JRPG clásico de la saga Pokémon en el que viajas por
+  la región de Hoenn, capturando y entrenando Pokémon, combatiendo contra otros
+  entrenadores y Líderes de Gimnasio para convertirte en Campeón, mientras
+  frenas los planes de los equipos Magma y Aqua.
+iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald"
+thumbnail: "/new-images/pokemon-emerald.jpg"
 tags:
   - rpg
   - adventure
@@ -19,36 +18,60 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Pokémon Esmeralda" es un videojuego de rol de la serie Pokémon en el que te
+embarcas en una aventura por la región de Hoenn. Tu objetivo principal es
+capturar y entrenar Pokémon, combatir contra toda clase de entrenadores,
+desafiar a los Líderes de Gimnasio y, finalmente, convertirte en el Campeón de
+la Liga Pokémon. Al mismo tiempo, te verás envuelto en el conflicto entre las
+organizaciones villanas **Equipo Magma** y **Equipo Aqua**, intentando detener
+sus planes para alterar el equilibrio del mundo.
 
+### Estrategias de juego
 
-### Game Introduction
+1.  **Atrapar Pokémon:** Encuentra Pokémon salvajes en la hierba alta, zonas de
+    agua, cuevas y otras áreas. Debilítalos en combate y después lánzales
+    Poké Balls para atraparlos.
+2.  **Entrenar Pokémon:** Gana puntos de experiencia en los combates para subir
+    de nivel y mejorar las estadísticas de tus Pokémon, desbloqueando nuevos
+    movimientos.
+3.  **Desafiar Gimnasios:** Derrota a los Líderes de Gimnasio repartidos por la
+    región para conseguir medallas, un paso imprescindible en el camino hacia la
+    Liga Pokémon.
+4.  **Explorar el mundo:** Recorre la extensa región de Hoenn, descubre nuevas
+    ciudades, rutas, cuevas y objetos ocultos, y amplía tu Pokédex con nuevas
+    especies.
+5.  **Construir un equipo estratégico:** Forma un equipo equilibrado teniendo en
+    cuenta los tipos, habilidades y movimientos de tus Pokémon para cubrir tus
+    debilidades y aprovechar las resistencias.
 
-"Pokemon Emerald" is a role-playing video game in the Pokémon series where players embark on an adventure in the Hoenn region. The main goal is to catch and train Pokémon, battle various trainers, challenge Gym Leaders, and ultimately become the Pokémon League Champion. Concurrently, players will be drawn into the conflict between the villainous organizations "Team Magma" and "Team Aqua," attempting to stop their plans to reshape the world.
+### Cómo jugar
 
-### Gameplay Strategy
+*   **Movimiento:** Usa las teclas de **dirección** para mover al personaje por
+    el mapa.
+*   **Botón A (confirmar/hablar):** Habla con NPC, selecciona opciones de menú
+    y confirma órdenes en combate.
+*   **Botón B (cancelar/correr):** Cancela acciones en los menús; en algunas
+    zonas, si tienes las zapatillas de correr, mantén pulsado B para correr.
+*   **Botón Start (abrir menú):** Abre el menú principal para ver tus Pokémon,
+    los objetos, guardar la partida, etc.
+*   **Botón Select (objeto rápido):** Registra un objeto del bolso para usarlo
+    rápidamente sin entrar en todos los menús.
 
-1.  **[ES]** **Catch Pokémon**: Encounter wild Pokémon in tall grass, water bodies, caves, etc., weaken them, and then catch them with Poké Balls.
-2.  **[ES]** **Train Pokémon**: Gain experience points through battles to level up and enhance Pokémon's abilities, teaching them new moves.
-3.  **[ES]** **Challenge Gyms**: Defeat Gym Leaders in various locations to earn badges, a necessary path to becoming the League Champion.
-4.  **[ES]** **Explore the World**: Explore the vast world of the Hoenn region, discovering new locations, items, and Pokémon.
-5.  **[ES]** **Strategic Team Building**: Assemble a balanced and strategic team based on Pokémon's types, abilities, and moves.
+### Preguntas frecuentes
 
-### How to Play
-
-*   **[ES]** **Movement**: Use arrow keys to control character movement.
-*   **[ES]** **A Button (Confirm/Talk)**: Talk to NPCs, select menu options, confirm battle commands.
-*   **[ES]** **B Button (Cancel/Run)**: Cancel menu selections, hold B button in some areas to run (requires running shoes).
-*   **[ES]** **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save game, etc.
-*   **[ES]** **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: Which Legendary Pokémon can be caught in "Pokemon Emerald"?**
-**A**: In "Emerald," players can catch Legendary Pokémon such as Kyogre, Groudon, and Rayquaza.
-2.  **[ES]** **Q: Which starter Pokémon should I choose at the beginning of the game?**
-**A**: The starter Pokémon are Treecko (Grass type), Torchic (Fire type), and Mudkip (Water type). The choice depends on the player's preference and strategy, with Mudkip often considered an easier choice for beginners.
-3.  **[ES]** **Q: How do I evolve Pokémon?**
-**A**: Pokémon typically evolve by leveling up, using Evolution Stones, or through trade communication.
-4.  **[ES]** **Q: What are the special battle facilities in the game?**
-**A**: "Emerald" introduced the "Battle Frontier," a large endgame challenge area with multiple facilities offering diverse battle experiences.
+1.  **P: ¿Qué Pokémon legendarios se pueden capturar en "Pokémon Esmeralda"?**
+    **R:** En "Esmeralda" puedes capturar legendarios como **Kyogre**, **Groudon**
+    y **Rayquaza**, entre otros.
+2.  **P: ¿Qué Pokémon inicial debería elegir al empezar la aventura?**
+    **R:** Los iniciales son Treecko (tipo Planta), Torchic (tipo Fuego) y Mudkip
+    (tipo Agua). Depende de tu estilo de juego, aunque Mudkip suele considerarse
+    la opción más sencilla para principiantes.
+3.  **P: ¿Cómo evolucionan los Pokémon?**
+    **R:** La mayoría evolucionan al subir de nivel, otros necesitan **Piedras de
+    Evolución** y algunos requieren intercambio con otros jugadores.
+4.  **P: ¿Qué instalaciones especiales de combate incluye el juego?**
+    **R:** "Esmeralda" introduce la **Zona Batalla (Battle Frontier)**, una gran
+    área de desafío final con múltiples instalaciones que ofrecen distintos
+    formatos de combate avanzados.

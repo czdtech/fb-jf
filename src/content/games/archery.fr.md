@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: archery
-title: '[FR] Archery World Tour'
-description: >-
-  [FR] Grab your bow and arrow and travel the world in this realistic archery
-  game. Account for wind and distance to hit the bullseye and become a champion.
-iframeSrc: >-
-  https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
+title: "Archery World Tour"
+description: "Dans Archery World Tour, tu voyages autour du monde pour participer à des concours de tir à l’arc où il faut gérer le vent, la distance et le timing pour viser le centre de la cible."
+iframeSrc: "https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/"
 thumbnail: /new-images/archery.jpg
 tags:
   - sports
@@ -16,32 +13,29 @@ score: 4.4/5  (2700 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Archery World Tour* est une simulation de tir à l’arc. Tu te déplaces dans différents lieux du monde et dois marquer un maximum de points en plaçant tes flèches au plus près du centre de la cible. Pour réussir, tu dois tenir compte de la distance, de la gravité et surtout du vent, qui dévie ta trajectoire.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1. **Compense le vent :** avant chaque tir, regarde l’indicateur de vent pour connaître sa direction et sa force. Vise légèrement à l’opposé du vent afin que la flèche soit déviée vers le centre.  
+2. **Anticipe la chute de la flèche :** sur les cibles éloignées, la flèche descend peu à peu. Vise légèrement au‑dessus du point que tu veux toucher.  
+3. **Soigne ton relâchement :** si le viseur oscille, attends le moment où il est le plus stable pour lâcher la corde. Un bon timing peut faire la différence entre un 8 et un 10.  
+4. **Cherche le bullseye :** la zone centrale jaune rapporte le plus de points. Mieux vaut viser souvent le centre avec une légère marge d’erreur que tenter des corrections extrêmes à chaque flèche.
 
-Archery World Tour is a realistic and challenging archery simulation game. You travel to various scenic locations to compete in archery tournaments. The goal is to score as many points as possible by shooting arrows at a target. Success requires more than just a steady hand; you must also account for environmental factors like wind speed, wind direction, and the distance to the target, making it a true test of skill.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- **Viser :** déplace la souris pour orienter l’arc.  
+- **Bandage et tir :** clique et maintiens le bouton gauche pour tendre la corde, puis relâche pour tirer. Sur mobile, maintiens le doigt et relâche de la même façon.
 
-1.  **[FR]** **Compensate for Wind:** Before each shot, look at the wind indicator. It will show you the direction and strength of the wind. You must aim slightly *against* the wind to counteract its effect on your arrow.
-2.  **[FR]** **Account for Gravity:** For targets at a long distance, your arrow will drop slightly due to gravity. You will need to aim a little bit higher than the bullseye to ensure your arrow hits the center.
-3.  **[FR]** **Timing Your Release:** In some versions, your aim may sway slightly. Wait for the moment your crosshair is perfectly still and aligned with your intended target before releasing the arrow.
-4.  **[FR]** **Aim for the Bullseye:** The center of the target (the yellow circle) is worth the most points (usually 10). Consistent bullseyes are the key to a high score.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+*   **Q : Comment viser avec du vent fort ?**
+    *   **R :** Plus l’indicateur de vent est fort, plus tu dois viser à l’opposé. Utilise quelques tirs d’essai pour estimer la compensation nécessaire.
 
-*   **[FR]** **Aim:** Move your mouse to aim the bow. The cursor will show where the arrow is pointed.
-*   **[FR]** **Draw and Shoot:** Click and hold the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
+*   **Q : Pourquoi ma flèche tombe‑t‑elle trop bas ?**
+    *   **R :** Sur les longues distances, la gravité fait chuter la flèche. Vise légèrement au‑dessus du point visé pour compenser.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[FR]** **Q: How do I aim with the wind?**
-    *   **[FR]** **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.
-
-*   **[FR]** **Q: Why did my arrow hit low?**
-    *   **[FR]** **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.
-
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.
+*   **Q : Quel est l’objectif principal du jeu ?**
+    *   **R :** Obtenir le meilleur score avec un nombre limité de flèches en enchaînant les tirs au centre de la cible.

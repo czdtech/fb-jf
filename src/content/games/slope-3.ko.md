@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: slope-3
-title: '[KO] Slope 3'
+title: "Slope 3 슬로프 3"
 description: >-
-  [KO] Slope 3 is the latest installment in the popular Slope series, featuring
-  enhanced graphics and new challenging obstacles as players guide a ball down
-  an endless slope while avoiding deadly barriers and red blocks.
+  인기 Slope 시리즈의 최신작으로, 향상된 3D 그래픽과 새로운 장애물이
+  추가된 엔드리스 볼 러너 게임입니다. 끝없이 이어지는 경사로에서
+  붉은 블록과 함정을 피해 한계까지 내려가 보세요.
 iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/slope-3.jpg
 tags:
@@ -18,33 +18,66 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Slope 3*는 Slope 시리즈의 최신작으로, 더 나아진 3D 그래픽과 새로운
+장애물이 추가된 엔드리스 러너 게임입니다. 플레이어는 경사진 트랙
+위에서 구르는 볼을 조종해, 붉은 블록과 벽, 낭떠러지를 피해 가능한
+한 오래 살아남아야 합니다.
 
-### Game Introduction
+전작의 핵심 게임 플레이는 유지하면서, 시각 효과와 코스 구조가
+업그레이드되어 더 빠른 속도와 복잡한 패턴을 제공합니다.
 
-"Slope 3" is the latest installment in the popular Slope series, featuring enhanced graphics and new challenging obstacles as players guide a ball down an endless slope while avoiding deadly barriers and red blocks. The game continues the series' core gameplay while introducing improved visuals and more complex level designs.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **향상된 그래픽에 눈이 빼앗기지 않기**  
+   조명과 이펙트가 화려해졌지만, 시선은 항상 볼 앞쪽의 트랙과
+   장애물에 두어야 합니다. 배경보다는 진행 방향에 집중하세요.
 
-1.  **[KO]** **Visual Adaptation**: Adapt to improved 3D graphics and new visual effects while maintaining focus.
-2.  **[KO]** **New Obstacle Learning**: Familiarize yourself with newly introduced obstacle types and their behavior patterns.
-3.  **[KO]** **Speed Management**: Master control techniques at higher speeds.
-4.  **[KO]** **Prediction Ability**: Anticipate complex obstacle combinations and path choices.
-5.  **[KO]** **Endurance Training**: Build the ability to maintain high concentration for extended periods.
+2. **새로운 장애물 패턴 익히기**  
+   회전하는 기둥, 움직이는 플랫폼 등 새로 추가된 장애물의 움직임을
+   몇 번 관찰해 두면, 어느 타이밍에 어느 라인이 안전한지 빠르게
+   파악할 수 있습니다.
 
-### How to Play
+3. **고속 구간에서의 조향 연습**  
+   속도가 오를수록 작은 입력만으로도 큰 궤도 변화가 생깁니다.
+   과도한 키 입력을 줄이고, 짧은 탭으로 방향을 미세하게 조정하는
+   연습을 해 보세요.
 
-*   **[KO]** **Left/Right Movement**: Use A/D keys or left/right arrow keys to control ball movement.
-*   **[KO]** **Precise Control**: Make small adjustments to precisely navigate through narrow passages.
-*   **[KO]** **Reaction Training**: Quickly respond to suddenly appearing obstacles and direction changes.
+4. **복잡한 조합 패턴 미리 예측하기**  
+   여러 장애물이 연속으로 이어지는 구간에서는, 첫 장애물만 보지
+   말고 뒤에 이어지는 패턴까지 함께 보고 이동 라인을 선택해야
+   합니다.
 
-### Frequently Asked Questions
+5. **장시간 집중력 유지하기**  
+   높은 기록을 노릴수록 몇 분 이상 집중해야 합니다. 피로를 느끼거나
+   집중이 흐트러지면 무리하지 말고 잠시 휴식 후 다시 도전하는 것이
+   좋습니다.
 
-1.  **[KO]** **Q: What new features does it have compared to previous games?**
-**A**: "Slope 3" typically includes better graphics, new obstacle types, improved physics engine, and smoother gameplay experience.
-2.  **[KO]** **Q: Is the difficulty higher than previous games?**
-**A**: Sequels usually add new challenging elements while maintaining core gameplay.
-3.  **[KO]** **Q: What are the performance requirements?**
-**A**: Due to graphics improvements, it may have higher device performance requirements.
-4.  **[KO]** **Q: Does it save progress?**
-**A**: Most versions record high scores and achievements, but specific features depend on the game version.
+### 조작 가이드
+
+- **좌우 이동**: `A/D` 키 또는 좌/우 방향키로 볼을 좌우로 이동합니다.  
+- **정밀 제어**: 좁은 통로를 지날 때는 키를 살짝 짧게 눌러 작은 각도로
+  조정하는 것이 안전합니다.  
+- **반응 훈련**: 갑자기 나타나는 장애물에 대비해, 항상 다음 두세 개의
+  블록을 함께 보며 준비하세요.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 이전 작품과 비교해 무엇이 달라졌나요?**  
+   **A:** *Slope 3*는 전반적인 그래픽 품질과 프레임이 향상되었고,
+   새로운 장애물 타입과 더 복잡한 레벨 디자인이 추가되었습니다.
+
+2. **Q: 난이도가 많이 올라갔나요?**  
+   **A:** 기본 규칙은 같지만, 속도와 패턴이 더 복잡해져 체감 난이도는
+   다소 상승했습니다. 전작에 익숙하다면 금방 적응할 수 있습니다.
+
+3. **Q: 성능 요구 사양이 높은 편인가요?**  
+   **A:** 그래픽이 좋아진 만큼, 일부 기기에서는 더 높은 성능을
+   요구할 수 있습니다. 랙이 느껴진다면 다른 앱을 종료하거나,
+   그래픽 옵션이 있다면 낮춰 보세요.
+
+4. **Q: 진행 상황이 저장되나요?**  
+   **A:** 대부분의 버전이 최고 점수와 일부 도전 과제를 기록합니다.
+   엔드리스 러너 특성상 스테이지 진행도 대신 최고 기록 갱신이
+   주된 목표가 됩니다.

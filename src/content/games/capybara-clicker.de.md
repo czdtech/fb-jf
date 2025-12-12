@@ -1,11 +1,12 @@
 ---
 locale: de
 urlstr: capybara-clicker
-title: '[DE] Capybara Clicker'
+title: "Capybara Clicker"
 description: >-
-  [DE] Multiply your capybara population in Capybara Clicker! Click to create
-  capybaras, buy auto-generating upgrades, unlock new weather, and dress up your
-  capybara in stylish hats in this charming idle game.
+  Vervielfache deine Capybara-Population in Capybara Clicker. Klicke, um
+  Capybaras zu erzeugen, kaufe automatische Upgrades, schalte neue Wetterlagen
+  frei und statte dein Capybara mit stylischen Hüten aus – in diesem
+  entspannten Idle-Spiel.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/capybara-clicker.jpg
 tags:
@@ -16,46 +17,77 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Capybara Clicker* ist ein charmantes, entspannendes Idle-/Clicker-Spiel rund
+um das wohl gelassenste Tier des Internets: das Capybara. Dein Ziel ist es,
+immer größere Mengen an Capybaras zu produzieren.
 
+Zu Beginn ist das Gameplay ganz simpel: Du klickst auf ein großes Capybara in
+der Bildschirmmitte und erhältst pro Klick ein Capybara. Diese dienen als
+Währung. Du investierst sie in zwei Hauptarten von Upgrades: Verbesserungen,
+ die die Capybaras pro Klick erhöhen, und automatische Quellen, die dir ganz
+ von selbst Capybaras pro Sekunde (CPS) erzeugen. Mit wachsender Population
+schaltest du neue kosmetische Items frei, mit denen du dein Haupt-Capybara
+verschönern kannst, und kannst per "Wetterwechsel" eine Art Prestige-System
+aktivieren: Du setzt deinen Fortschritt zurück, erhältst dafür aber einen
+permanenten Produktionsbonus.
 
+### Strategie & Tipps
 
+-   Klicks und Idle-Boni ausbalancieren: Am Anfang ist aktives Klicken deine
+    wichtigste Einnahmequelle. Langfristig willst du aber vor allem deine
+    passiven Capybaras pro Sekunde erhöhen. Deine ersten Käufe sollten daher
+    die günstigsten Auto-Upgrades sein.
+-   In Auto-Generation investieren: Wie in jedem Clicker-Spiel ist passives
+    Einkommen der Schlüssel zum exponentiellen Wachstum. Kaufe neue
+    Einkommensquellen oder verbessere bestehende so früh wie möglich – sie
+    arbeiten für dich, auch wenn du gerade nicht klickst.
+-   Richtiger Zeitpunkt für den Wetterwechsel (Prestige): Der Wetter-Button
+    fungiert als Aufstiegs-Mechanik. Ein Klick setzt deine Capybaras und
+    Upgrades zurück, gewährt dir aber einen dauerhaften Bonus auf alle
+    zukünftigen Einnahmen.
+    -   Scheue dich nicht vor dem Reset – mit dem Bonus holst du deinen alten
+        Fortschritt meist deutlich schneller wieder ein.
+    -   Ein guter Richtwert: prestige, wenn dein Fortschritt merklich zäh wird
+        und das nächste Upgrade unerreichbar weit entfernt wirkt.
+-   Klick-Upgrades nicht vergessen: Trotz Fokus auf passive Einnahmen sind
+    stärkere Klicks nützlich – besonders nach einem Prestige, wenn du die
+    ersten Gebäude schnell zurückkaufen möchtest.
+-   Alles freischalten: Bestimmte Populations-Meilensteine schalten neue Skins
+    und Hüte frei. Sie sind zwar rein kosmetisch, bieten aber motivierende
+    Zwischenziele.
 
-### Game Introduction
+### Steuerung
 
-Capybara Clicker is a charming and relaxing idle/clicker game centered around the internet's favorite calm animal, the capybara. The objective of the game is to generate an ever-increasing number of capybaras.
+Das gesamte Spiel wird mit der Maus (oder per Touch) gesteuert.
 
-The gameplay starts simply: the player clicks on a large capybara in the center of the screen, with each click generating one capybara. These generated capybaras act as the game's currency. You can spend them on two main types of upgrades: upgrades that increase the number of capybaras you get per click, and auto-generating upgrades that produce a steady stream of capybaras per second (CPS) without you having to do anything. As you accumulate more capybaras, you unlock new cosmetic items to dress up your main capybara and can trigger a "weather change," which acts as a prestige system to reset your progress in exchange for a permanent boost to your production rate.
+-   Capybaras erzeugen: Linksklick auf das große Capybara in der Mitte.
+-   Upgrades kaufen: Linksklick auf die Upgrade-Symbole im Menü am rechten Rand.
+-   Aussehen ändern: Klicke auf das Kleiderbügel-Symbol, um das Kosmetikmenü zu
+    öffnen.
+-   Aufsteigen (Wetter wechseln): Klicke auf das Wettersymbol oben am
+    Bildschirm.
 
-### Gameplay Strategy
+### Häufige Fragen (FAQ)
 
--   **Balance Clicks and Idle Generation:** In the very beginning, active clicking is your main source of income. However, the long-term goal is to build up your passive Capybaras Per Second (CPS). Your first few purchases should be the cheapest auto-generating upgrades to get the snowball rolling.
--   **Invest in Auto-Generation:** The key to exponential growth in any clicker game is passive income. Always prioritize buying new auto-generating sources or upgrading your existing ones. They work for you even when you're not actively clicking.
--   **Know When to Change the Weather (Prestige):** The "Ascend" or "Prestige" button in this game is the weather icon. Clicking it will reset your current capybaras and upgrades but will grant you a permanent boost to all future earnings.
-    -   Don't be afraid to ascend. The boost you get makes regaining your progress much, much faster.
-    -   A good rule of thumb is to ascend when your progress starts to slow down significantly and the next upgrade seems impossibly far away.
--   **Don't Forget Click Upgrades:** While passive income is key, don't completely ignore the "per click" upgrades. After you ascend, your powerful manual clicks can help you quickly buy back your first few auto-generating buildings.
--   **Unlock Everything:** Reaching population milestones will unlock new skins and hats for your capybara. These are cosmetic but are fun goals to aim for.
+**1. Was ist das Ziel des Spiels?**
+> Im Kern geht es darum, die Zahlen immer weiter steigen zu lassen. Es ist ein
+> entspanntes, wenig stressiges Spiel, in dem du riesige Werte erreichst und
+> nach und nach kosmetische Extras freischaltest – ein typisches
+> Incremental-/Idle-Game.
 
-### Controls Guide
+**2. Soll ich lieber weiterklicken oder auf Auto-Generatoren sparen?**
+> Zu Beginn solltest du viel klicken, um dir deine ersten Auto-Upgrades zu
+> leisten. Sobald deine CPS solide sind, kannst du das Spiel nebenbei laufen
+> lassen und gelegentlich zurückkehren, um neue Upgrades zu kaufen.
 
-The entire game is played with the mouse.
--   **Generate Capybaras:** Left-click on the main capybara.
--   **Buy Upgrades:** Left-click on the upgrade icons in the menu on the right.
--   **Change Appearance:** Click the hanger icon to open the cosmetic menu.
--   **Ascend:** Click the weather icon at the top of the screen.
+**3. Was bringt der Wetterwechsel genau?**
+> Der Wetterwechsel ist das Prestige-System: Er setzt Capybaras und Upgrades
+> zurück, gewährt dir aber einen dauerhaften prozentualen Bonus auf alle
+> zukünftigen Erzeugungsraten – unerlässlich für den Fortschritt im Endgame.
 
-### Frequently Asked Questions (FAQ)
-
-**1. What is the point of the game?**
-> The goal is simply to see the numbers go up! It's a relaxing, low-stress game about achieving ridiculously large numbers and unlocking fun cosmetic items. It's a classic example of an incremental or idle game.
-
-**2. Should I keep clicking or save up for auto-generators?**
-> In the beginning, click a lot to afford your first few auto-generating upgrades. Once you have a decent CPS, you can let the game idle and check back in to buy more upgrades. The focus should shift from clicking to managing your passive income.
-
-**3. What does changing the weather do?**
-> Changing the weather is the game's "prestige" or "ascension" mechanic. It resets your progress (capybaras, upgrades) but gives you a permanent percentage-based boost to all future capybara generation. This is essential for long-term progress.
-
-**4. How do I unlock the new hats and skins?**
-> You unlock new cosmetic items by reaching specific population milestones (e.g., 1 billion capybaras, 1 trillion, etc.). The game will notify you when a new item is available.
-
+**4. Wie schalte ich neue Hüte und Skins frei?**
+> Neue kosmetische Items erhältst du, wenn du bestimmte Populationsgrenzen
+> erreichst (z. B. 1 Milliarde, 1 Billion usw.). Das Spiel informiert dich,
+> sobald etwas Neues verfügbar ist.

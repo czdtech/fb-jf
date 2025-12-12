@@ -1,71 +1,38 @@
 ---
+title: "Maze Puzzle"
+description: "Maze Puzzleは脳を曲げる迷路ソルバーです。パスをトレースし、行き止まりを避け、最小限の移動で出口を見つけます。"
+iframeSrc: "https://4ri9qgqe5p52o.h5games.usercontent.goog/v/5r3rcin1ovlog/"
+thumbnail: "/new-images/maze-puzzle.png"
+urlstr: "maze-puzzle"
+score: "4.0/5  (1756 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: maze-puzzle
-title: '[JA TRANSLATION NEEDED] Maze Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Maze Puzzle is a clean labyrinth runner — plot
-  shortest paths, bait patrolling guards, and exit with keys under light timers.
-iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
-thumbnail: /new-images/maze-puzzle.png
-tags:
-  - puzzle
-  - thinky
-  - escape
-score: 4.0/5  (1866 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Maze Puzzleは、複雑な迷路を通してパスを見つけることに挑戦します。各レベルは、解決するためにより深い先見性と計画を必要とする、より複雑な迷路を提示します。目標は、最小限の移動またはタイムで出口に到達することです。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Maze Puzzle offers compact labyrinths with keys, doors, and occasional patrolling hazards. Optimal play finds safe, minimal routes that collect keys in efficient sequences while avoiding dead ends and patrol cones.
+1.  **先を見る:** スワイプまたは移動する前に、いくつかの動き先をトレースします。
+2.  **行き止まりをマーク:** 既に探索した行き止まりを精神的にマークします。
+3.  **壁に従う:** 古典的な戦略は、壁（左または右）に従って出口を見つけることです。
+4.  **元に戻すを使用:** 行き止まりに到達した場合、バックトラックを恐れないでください。
+5.  **パターンを学ぶ:** 一部の迷路には、繰り返されるパターンまたはトリックがあります。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Key ordering: Plan an order that minimizes backtracking.
-[JA TRANSLATION NEEDED] 2.  Landmarks: Use unique tiles to avoid loops.
-[JA TRANSLATION NEEDED] 3.  Patrol baiting: Step into edge of vision to lure guards, then slip past.
-[JA TRANSLATION NEEDED] 4.  Dead‑end pruning: Explore branches shallowly; abandon when they don’t progress keys.
-[JA TRANSLATION NEEDED] 5.  Timer awareness: Don’t rush — precision saves more time than speed blunders.
+- スワイプまたは矢印キーで移動方向を制御します。
+- 元に戻す/リセットボタンが行き詰まった場合に利用可能です。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Arrow/WASD movement; tap to interact; restart quickly from menu.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I get lost easily — tips?
-  
-[JA TRANSLATION NEEDED]   A: Mentally map junctions, or trace the right‑hand wall when safe.
-
-- Q: Guards catch me near doors.
-  
-[JA TRANSLATION NEEDED]   A: Lure them long before door zones; doors take time to open.
-
-- Q: Are keys reusable?
-  
-
-
-
-
-
-- Q: I get lost easily — tips?
-### よくある質問（FAQ）
-- Arrow/WASD movement; tap to interact; restart quickly from menu.
-### コントロールガイド
-- Timer awareness: Don’t rush — precision saves more time than speed blunders.
-[JA TRANSLATION NEEDED]   A: Usually single‑use; check icons.
-
-
-
-
-
-
-A: Usually single‑use; check icons.
-- Q: Are keys reusable?
-A: Lure them long before door zones; doors take time to open.
-- Q: Guards catch me near doors.
-
-
-A: Usually single‑use; check icons.
+- **Q: すべての迷路は解決可能ですか？**  
+  A: はい、すべての迷路には少なくとも1つの解決策があります。
+- **Q: 最速のルートを見つけるヒントは？**  
+  A: 最初にメインパスを見つけ、次にショートカットのために再試行します。
+- **Q: タイムリミットはありますか？**  
+  A: モードによって異なります。一部にはタイマーがありますが、他のものは移動数に焦点を当てます。

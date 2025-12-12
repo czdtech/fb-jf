@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tile-puzzle
-title: '[KO] Tile Puzzle'
+title: "Tile Puzzle 타일 퍼즐"
 description: >-
-  [KO] A relaxing and strategic puzzle game. Find and select three identical
-  tiles to clear them from the board. Plan your moves carefully to avoid filling
-  up your collection tray.
+  잔잔한 분위기의 전략 퍼즐 게임 Tile Puzzle입니다. 같은 타일 세 장을 찾아 선택해 보드를
+  비우고, 제한된 수집 트레이 칸이 가득 차지 않도록 신중하게 수를 두어야 합니다.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/tile-puzzle.jpg
 tags:
@@ -17,33 +16,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tile Puzzle는 계획성과 전략을 동시에 요구하는 현대적인 타일 매칭 게임입니다. 다양한 무늬의 타일이
+여러 층으로 쌓여 있고, 플레이어는 같은 그림의 타일 세 장을 모아 없애면서 보드를 전부 정리해야
+합니다.
 
-### Detailed Game Introduction
+플레이 방식은 간단합니다. 선택 가능한 타일을 클릭해 화면 아래의 **수집 트레이**로 보내고, 동일한
+타일이 세 장 모이면 자동으로 사라집니다. 이때 트레이의 칸 수는 매우 제한적이어서, 아무 생각 없이
+타일을 담다 보면 금세 가득 차서 더 이상 움직일 수 없게 됩니다. 따라서 판을 모두 비우려면 어떤
+타일을 언제 선택할지, 어떤 순서로 막힌 타일을 풀어 줄지 세심하게 계획해야 합니다.
 
-Tile Puzzle is a modern and engaging tile-matching game that challenges your planning and strategic skills. The goal is to clear a board stacked with various patterned tiles. You do this by selecting a tile and sending it to a collection tray at the bottom. When you have three identical tiles in the tray, they match and disappear, freeing up space. You must clear the entire board to win, but be careful—if you fill the tray completely, you lose!
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **누르기 전에 먼저 생각하기**: 수집 트레이는 보통 7칸 정도뿐입니다. 아무 계획 없이 눈에 보이는
+    타일을 눌러 담다 보면, 서로 다른 종류의 타일이 섞여 금세 꽉 차 버립니다. 타일을 클릭하기 전에
+    "이 타일로 어느 정도 안에 3장을 맞출 수 있는지"를 먼저 생각해 보세요.
+2.  **새 타일을 드러내는 매치를 우선하기**: 항상 가장 많은 새 타일을 드러내는 선택을 우선적으로
+    고려하세요. 단순히 쉬운 매치만 노리기보다, 아래에 있는 중요한 타일을 노출시키는 것이 후반
+    난도를 크게 줄여 줍니다.
+3.  **트레이를 임시 보관소처럼 활용하기**: 아직 3장을 완성하지 못하더라도, 나중에 사용할 수 있는
+    타일을 트레이에 잠시 보관해 둘 수 있습니다. 다만 너무 많은 종류를 동시에 올려 두면 칸이
+    부족해지므로, 2~3종류 이내로 관리하면서 필요한 타일을 조금씩 모아 가는 것이 좋습니다.
+4.  **갇힌 타일(Trapped Tile)을 눈여겨보기**: 같은 종류의 타일이 서로 바로 위아래로 겹쳐 있는
+    경우, 먼저 위에 있는 타일을 없애야 아래 타일까지 사용할 수 있습니다. 이런 갇힌 구조를 미리
+    파악해 두면, 언젠가 반드시 필요한 타일이 무엇인지 쉽게 알 수 있고 그 타일부터 계획적으로
+    풀어 줄 수 있습니다.
 
-1.  **[KO]** **Think Before You Tap:** The collection tray has a very limited capacity (usually seven slots). Before you tap a tile, have a plan for it. Don't just tap random tiles hoping for the best.
-2.  **[KO]** **Uncover New Tiles:** Your primary goal should be to make matches that uncover the most new tiles. Sometimes it's better to hold off on an easy match if it doesn't reveal any new, useful tiles underneath.
-3.  **[KO]** **Use the Tray as a Temporary Hold:** You can place tiles in the tray that don't yet form a match. Use this to your advantage. If you need a specific tile that is currently blocked, you can move other tiles into the tray to hold them while you work on freeing up the one you need.
-4.  **[KO]** **Identify Trapped Tiles:** Look for situations where one tile type is stacked directly on top of another of the same type. You will need to clear the top one first, which means you'll need to find its two other partners while the one below remains blocked.
+### 조작 방법 안내
 
-### Controls Guide
+이 게임은 마우스 클릭 또는 터치만으로 조작할 수 있습니다.
 
-The game is played with simple clicks or taps.
+*   **타일 선택**: 다른 타일에 가려져 있지 않아 회색으로 비활성화되지 않은 타일을 클릭(또는 탭)하면,
+    해당 타일이 화면 아래의 수집 트레이로 이동합니다.
 
-*   **[KO]** **Select a Tile:** Click on any tile that is not grayed out (i.e., not covered by another tile) to move it to the collection tray at the bottom of the screen.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 게임의 주 목표는 무엇인가요?**  
+    *   **A:** 보드 위에 있는 모든 타일을 100% 제거하는 것입니다. 같은 타일 세 장을 트레이에 모아
+        없애는 과정을 반복해, 한 장도 남기지 않고 보드를 비우면 클리어입니다.
 
-*   **[KO]** **Q: What is the main objective?**
-    *   **[KO]** **A:** To clear 100% of the tiles from the board by collecting them in sets of three in your tray.
+*   **Q: 어떤 타일은 회색으로 표시되면서 클릭이 안 돼요.**  
+    *   **A:** 위쪽 층에 다른 타일이 겹쳐 있는 경우 그 타일은 아직 선택할 수 없습니다. 항상 위에
+        있는 타일부터 치워야 아래 타일이 활성화되므로, 겹쳐 있는 구조를 잘 살피면서 플레이하세요.
 
-*   **[KO]** **Q: Why are some tiles gray and unclickable?**
-    *   **[KO]** **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
-
-*   **[KO]** **Q: What happens if the tray fills up?**
-    *   **[KO]** **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
-
+*   **Q: 수집 트레이가 가득 차면 어떻게 되나요?**  
+    *   **A:** 트레이의 7칸이 모두 차 있는 상태에서 새로운 세트를 완성하지 못하면 더 이상 타일을
+        옮길 수 없고, 그 스테이지는 실패 처리됩니다. 공간이 거의 찼을 때는 새로운 종류를 시작하기보다
+        이미 두 장 모인 세트를 먼저 완성하는 것이 중요합니다.

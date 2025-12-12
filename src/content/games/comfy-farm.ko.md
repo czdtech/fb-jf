@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: comfy-farm
-title: '[KO] Comfy Farm'
+title: Comfy Farm 컴피 팜
 description: >-
-  [KO] Welcome to Comfy Farm! Plant seeds, water your crops, and harvest them
-  for profit. Protect your plants from pests and use your earnings to upgrade
-  and expand your very own cozy farm.
+  Comfy Farm는 작은 텃밭에서 시작해 아기자기한 농장을 키워 나가는 캐주얼 농장 시뮬레이션 게임입니다. 씨앗을 심고, 물을 주고,
+  해충을 쫓아내며 수확한 작물로 농장을 업그레이드해 보세요.
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/comfy-farm.png
 tags:
@@ -16,36 +15,72 @@ score: 4.3/5  (2000 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
+
+Comfy Farm는 편안한 분위기 속에서 자신만의 농장을 운영하는 농장 경영 게임입니다.
+처음에는 작은 밭 한 조각에서 시작해, 씨앗을 심고 물을 주고 수확하면서 점점 더
+큰 농장으로 확장해 나가야 합니다.
+
+수확한 작물은 골드로 환전할 수 있고, 이를 이용해 더 비싼 씨앗을 구매하거나,
+농장을 자동화·보호해 주는 다양한 업그레이드를 구입할 수 있습니다. 복잡한 경영
+시뮬레이터라기보다는, 클릭 몇 번으로 농장의 성장 과정을 지켜보는 캐주얼 게임에
+가깝습니다.
+
+### 플레이 전략 & 팁
+
+1.  **기본 파밍 사이클 이해하기**  
+    빈 밭을 클릭해 정리하고, 씨앗을 심은 뒤 물을 주면 일정 시간이 지난 후 수확할
+    수 있습니다. 이 과정을 반복해 안정적인 수입 루틴을 만드는 것이 첫 목표입니다.
+
+2.  **해충 관리에 신경 쓰기**  
+    까마귀나 벌레 같은 해충이 주기적으로 나타나 작물을 노립니다. 해충이 보이면
+    빠르게 클릭해 쫓아내지 않으면, 수확량이 줄거나 작물이 아예 사라질 수
+    있습니다.
+
+3.  **업그레이드에 재투자하기**  
+    모은 돈은 스프링클러, 허수아비 같은 업그레이드를 사는 데 쓰세요. 스프링클러는
+    물주기를 자동화해 손을 덜게 해 주고, 허수아비는 해충을 대신 쫓아줘 더 넓은
+    농장을 관리할 수 있게 만들어 줍니다.
+
+4.  **밭 확장으로 생산량 늘리기**  
+    자금 여유가 생기면 새로운 밭을 구매해 동시에 더 많은 작물을 재배해 보세요.
+    밭이 늘어날수록 수확량이 기하급수적으로 증가하므로, 적절한 시점에 확장을
+    시작하는 것이 중요합니다.
+
+### 조작 방법
+
+게임은 마우스 클릭 또는 터치만으로 조작할 수 있습니다.
+
+-   **심기/물주기/수확:** 밭을 클릭하면 상황에 따라 밭 정리 → 씨앗 심기 → 물주기
+    → 수확 순서로 자동으로 진행됩니다.
+-   **해충 쫓기:** 농장 위에 나타나는 까마귀·벌레 등을 직접 클릭해 제거합니다.
+-   **업그레이드 구매:** 화면에 표시된 스프링클러, 허수아비 등 아이콘을 클릭해
+    업그레이드를 구매합니다.
+
+### 자주 묻는 질문 (FAQ)
 
 
+- **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
 
-### Detailed Game Introduction
+    - **Q: Why did one of my plants disappear?**
 
-Comfy Farm is a charming and relaxing farming simulation game where you get to build and manage your own virtual farm. The goal is to transform a small plot of land into a thriving agricultural enterprise. You'll plant seeds, water your crops, harvest them for profit, and protect them from pests. Use your earnings to buy new seeds and valuable upgrades to automate and expand your comfy farm.
+- **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
 
-### Gameplay Strategy & Walkthrough
+    - **Q: What is the best upgrade to get first?**
 
-1.  **[KO]** **The Farming Cycle:** The core of the game is the planting and harvesting cycle. Click on an empty plot to prepare it, plant a seed, and then water it. After a set amount of time, the crop will be ready to harvest, earning you money.
-2.  **[KO]** **Pest Patrol:** Be vigilant! Pests like crows and flies will periodically appear and try to eat your crops. You must quickly click on them to scare them away before they damage your harvest.
-3.  **[KO]** **Invest in Upgrades:** Reinvest your profits wisely. Upgrades are key to growing your farm. Buying a sprinkler will automate watering, and a scarecrow will help deter pests, freeing you up to manage a larger farm.
-4.  **[KO]** **Expand Your Land:** As you earn more money, you can purchase new plots of land. Expanding your farm allows you to plant more crops simultaneously, dramatically increasing your income potential.
+- **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
 
-### Controls Guide
+    - **Q: How do I make money faster?**
+**1. 돈을 더 빨리 벌려면 어떻게 해야 하나요?**  
+> 가능한 많은 밭을 가동하고, 수확 가능 상태가 되면 바로바로 수확하는 것이
+> 중요합니다. 이후에는 성장 시간이 길지만 수익이 큰 고급 씨앗으로 갈아타면
+> 장기적으로 더 많은 수익을 얻을 수 있습니다.
 
-The game is played entirely with mouse clicks or taps.
+**2. 어떤 업그레이드를 먼저 사는 게 좋나요?**  
+> 물주기를 자동화해 주는 스프링클러가 가장 좋은 첫 업그레이드 후보입니다.
+> 이후 농장 규모가 커질수록 해충이 늘어나므로, 허수아비처럼 해충을 자동으로
+> 처리해 주는 업그레이드에도 투자하는 것이 좋습니다.
 
-*   **[KO]** **Plant/Water/Harvest:** Click on a plot of land to perform the next logical action (till, plant, water, or harvest).
-*   **[KO]** **Scare Pests:** Click directly on any pest that appears on your farm to get rid of it.
-*   **[KO]** **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[KO]** **Q: How do I make money faster?**
-    *   **[KO]** **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
-
-*   **[KO]** **Q: What is the best upgrade to get first?**
-    *   **[KO]** **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
-
-*   **[KO]** **Q: Why did one of my plants disappear?**
-    *   **[KO]** **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
-
+**3. 작물이 갑자기 사라졌어요. 왜 그런가요?**  
+> 해충이 작물을 먹어 버렸을 가능성이 큽니다. 화면에 까마귀나 벌레가 보이면
+> 최대한 빨리 클릭해 쫓아내야 피해를 줄일 수 있습니다.

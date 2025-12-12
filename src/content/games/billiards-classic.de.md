@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: billiards-classic
-title: '[DE] Billiards Classic'
+title: "Billiards Classic"
 description: >-
-  [DE] Enjoy a classic game of 8-ball pool. Aim your shots, apply spin, and sink
-  your designated balls before pocketing the 8-ball to win!
+  Genieße klassisches 8‑Ball‑Pool im Browser. Ziele deine Stöße, setze Effet
+  ein und versenke zuerst deine Gruppe, bevor du die Schwarze spielst, um das
+  Match zu gewinnen.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/billiards-classic.png
 tags:
@@ -16,36 +17,39 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Billiards Classic bringt das traditionelle 8‑Ball‑Pool auf deinen Bildschirm.
+Du trittst gegen eine Computer‑KI an und versuchst, als Erster deine Kugelgruppe
+(Volle oder Halbe) komplett zu versenken und anschließend die 8 regelkonform zu
+lochen. Realistische Physik und einfache Bedienung machen das Spiel zu einer
+entspannten, aber fordernden Billard‑Simulation.
 
+### Strategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Der Anstoß:** Triff beim Break die vordere Kugel möglichst voll, damit sich das Rack öffnet und vielleicht schon eine Kugel fällt.
+2.  **Gruppe festlegen:** Nach dem Break ist der Tisch offen. Die erste legal gelochte Kugel bestimmt, ob du Volle (1–7) oder Halbe (9–15) spielst.
+3.  **Stöße planen:** Denke zwei bis drei Züge voraus, damit die Weiße nach jedem Stoß einen guten Winkel auf den nächsten Ball hat.
+4.  **Effet gezielt nutzen:** Ein wenig Rückläufer stoppt oder zieht die Weiße zurück, Topspin lässt sie nachlaufen und Seiteneffet verändert den Winkel nach der Bande – verwende nur so viel wie nötig.
+5.  **Spiel auf die 8:** Hast du deine sieben Kugeln versenkt, musst du die Schwarze in eine angesagte Tasche spielen. Zu frühes Versenken oder ein Scratch auf die 8 kostet die Partie.
 
-Billiards Classic brings the traditional game of 8-ball pool to your screen. This simulation pits you against a computer opponent in a test of skill, strategy, and physics. The objective is to be the first to pocket your assigned group of balls (either solids or stripes) and then legally sink the 8-ball to win the game. With realistic physics and intuitive controls, it’s a perfect way to enjoy a timeless pub classic.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+*   **Zielen:** Bewege die Maus, um den Queue auszurichten.
+*   **Kraft wählen:** Ziehe am Power‑Regler, um die Stoßstärke festzulegen.
+*   **Effet setzen:** Wähle auf dem Cue‑Ball‑Symbol den Treffpunkt, um Rückläufer, Vorläufer oder Seiteneffet zu geben.
+*   **Stoß ausführen:** Lasse die Maustaste los, um zu schlagen.
 
-1.  **[DE]** **The Break:** The game starts with a break shot. Aim for the front ball of the rack to scatter the balls effectively.
-2.  **[DE]** **Claiming Your Suit:** After the break, the table is "open." The first player to legally pocket a ball will be assigned that group for the rest of the game (either solids 1-7 or stripes 9-15).
-3.  **[DE]** **Plan Your Shots:** Don't just aim for the easiest shot. Think two or three steps ahead. Try to sink your balls in an order that also sets up your cue ball for your next shot.
-4.  **[DE]** **Use English (Spin):** For more advanced control, use the spin function. Applying backspin can stop your cue ball, while topspin will make it follow the object ball. Side-spin can change the angle it takes after hitting a rail.
-5.  **[DE]** **Winning the Game:** Once you have pocketed all seven of your designated balls, you must then legally pocket the 8-ball into a called pocket to win. Pocketing the 8-ball before clearing your group, or scratching on the 8-ball shot, results in a loss.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   **F: Was passiert, wenn ich die 8 beim Anstoß versenke?**
 
-*   **[DE]** **Aim:** Move your mouse to aim the cue stick.
-*   **[DE]** **Set Power:** Click and drag the power meter (usually on the side or bottom) to determine the strength of your shot.
-*   **[DE]** **Apply Spin (English):** Use the on-screen spin controller to adjust where on the cue ball your stick will hit, applying spin.
-*   **[DE]** **Shoot:** Release the mouse button to take the shot.
+    *   **A:** Je nach Regel wird neu aufgebaut oder die 8 wieder aufgesetzt. Versenkst du sie später, bevor du deine Gruppe abgeräumt hast, oder machst dabei ein Foul, verlierst du.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Was gilt als Foul?**
 
-*   **[DE]** **Q: What happens if I sink the 8-ball by accident at the start?**
-    *   **[DE]** **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.
+    *   **A:** Scratch (Weiße fällt), zuerst die gegnerische Kugel treffen oder gar keine Kugel treffen. Danach bekommt der Gegner Ball‑in‑Hand und darf die Weiße frei platzieren.
 
-*   **[DE]** **Q: What is a foul?**
-    *   **[DE]** **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.
+*   **F: Wie weiß ich, ob ich Volle oder Halbe spiele?**
 
-*   **[DE]** **Q: Which balls are mine?**
-    *   **[DE]** **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.
-
+    *   **A:** Die erste legal gelochte Kugel nach dem Break legt die Gruppe fest – lochst du eine Volle, gehören dir die Volle; bei einer Halben spielst du Halbe.

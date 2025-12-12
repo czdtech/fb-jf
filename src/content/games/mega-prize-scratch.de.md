@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: mega-prize-scratch
-title: '[DE] Mega Prize Scratch'
+title: "Mega Prize Scratch"
 description: >-
-  [DE] Mega Prize Scratch is a casual scratch‑card — reveal panels, match
-  symbols, and set session limits to keep it fun.
+  Mega Prize Scratch ist ein lockeres Rubbellos-Spiel: Rubble Felder frei,
+  triff Symbolkombinationen und setze dir feste Spielpausen und Limits, damit
+  es entspannt bleibt.
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/mega-prize-scratch.png
 tags:
@@ -14,35 +15,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Mega Prize Scratch simuliert ein digitales Rubbellos: Du legst verborgene
+Symbole frei, suchst nach Gewinnmustern und löst Bonusrunden aus. Jede Karte
+steht für sich – das Spiel ist als leichte Unterhaltung gedacht und nicht als
+strategische Herausforderung.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Mega Prize Scratch simulates a scratch ticket: recover hidden symbols, match patterns, and trigger bonus rounds. Each card is independent; treat the game as light entertainment rather than a strategy challenge.
+1.  **Budget festlegen**  
+    Bestimme dir vorab ein kleines Spielbudget für deine Sitzung und halte dich
+    konsequent daran.
 
-### Gameplay Strategy & Walkthrough
+2.  **Tempo genießen**  
+    Rubble Felder langsam frei und genieße den Reveal – hektisches Klicken
+    ändert das Ergebnis nicht.
 
-1.  **[DE]** Budget: Set a small session budget and stick to it.
-2.  **[DE]** Pace: Scratch slowly to enjoy reveals; rushing doesn’t change outcomes.
-3.  **[DE]** Bonus awareness: Read rules so you know which symbols unlock features.
-4.  **[DE]** Stop rules: Quit on win targets or when the budget ends.
-5.  **[DE]** Breaks: Step away periodically to avoid impulse spending.
+3.  **Bonusregeln kennen**  
+    Lies dir die Symbolerklärungen durch, damit du weißt, welche Icons Bonus-
+    Spiele oder höhere Gewinne auslösen.
 
-### Controls Guide
+4.  **Aufhörregeln setzen**  
+    Nimm dir vor, bei einem bestimmten Gewinnstand oder wenn dein Budget
+    aufgebraucht ist, aufzuhören.
 
-- Drag to scratch; press buttons to reveal all, buy new cards, or enter bonuses.
+5.  **Pausen einlegen**  
+    Mach zwischendurch kurze Pausen, um impulsives Weiterspielen zu vermeiden.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: Can I influence results?
+- Mit der Maus oder per Touch über die Felder wischen, um sie freizurubbeln.  
+- Buttons nutzen, um alles auf einmal aufzudecken, neue Karten zu kaufen oder
+  Bonusspiele zu starten (falls vorhanden).
 
-A: No — outcomes are random; focus on pacing and budgeting.
+### FAQ
 
-- Q: What bet size is best?
+- **F: Kann ich das Ergebnis beeinflussen?**  
+  **A:** Nein. Die Ausgänge sind zufällig – du kannst nur über Einsatz und
+  Spieltempo entscheiden.
 
-A: Small, consistent bets extend playtime.
+- **F: Welche Einsatzhöhe ist sinnvoll?**  
+  **A:** Kleine, gleichbleibende Einsätze verlängern die Spielzeit und halten
+  das Risiko überschaubar.
 
-- Q: Do bonuses improve odds?
-
-A: They change volatility more than long‑term expectation.
-
+- **F: Verbessern Bonusspiele meine Gewinnchancen?**  
+  **A:** Sie verändern vor allem die Varianz. Langfristig bleibt der
+  Erwartungswert ähnlich – sie bringen aber mehr Abwechslung.

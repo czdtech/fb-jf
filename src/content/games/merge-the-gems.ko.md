@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: merge-the-gems
-title: '[KO] Merge the Gems'
+title: Merge the Gems 머지 젬
 description: >-
-  [KO] Merge identical gems to forge new, more valuable jewels! Fill your board,
-  complete challenges, and discover all the precious stones in this sparkling
-  and addictive merge puzzle game.
+  Merge the Gems는 같은 보석을 합쳐 더 가치 있는 보석으로 업그레이드하고, 보드를 관리해 도전 과제를 완수하며 모든 보석을
+  수집하는 머지 퍼즐 게임입니다.
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/merge-the-gems.jpg
 tags:
@@ -18,33 +17,42 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Merge the Gems*는 동일한 보석을 머지해 새로운 상위 보석을 만드는 단순하면서도 중독성
+있는 퍼즐 게임입니다. 처음에는 가공되지 않은 작은 돌에서 시작해, 점점 더 반짝이는
+고급 보석으로 진화시켜 나갑니다. 보드를 효율적으로 관리하며 계속 머지를 이어 가고,
+주어진 목표를 달성해 점수와 코인을 얻는 것이 핵심입니다.
 
-Merge the Gems is a simple, relaxing, and highly addictive puzzle game centered around merging identical gems to create new, more valuable ones. You start with basic, uncut stones and combine them to progressively form sparkling, elaborate jewels. The goal is to manage your game board, continuously merge to discover new gem types, and fulfill objectives to earn points and coins.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **머지 체인:** 게임의 중심은 보석 머지입니다. 같은 보석 두 개를 겹치면 더 높은
+   레벨의 보석 하나로 합쳐지며, 공간을 비우는 동시에 더 높은 가치를 만들어 냅니다.
+2. **보드 관리:** 보드 칸 수는 한정적이므로, 칸이 가득 차면 새 보석을 배치할 수
+   없습니다. 항상 합칠 수 있는 쌍을 찾아 보드를 정리하는 것을 우선하세요.
+3. **코인 활용:** 일정 시간마다 기본 보석이 무료로 등장하지만, 빠르게 성장하려면 게임
+   중 얻은 코인으로 상점에서 보석을 구매하는 편이 훨씬 효율적입니다.
+4. **목표 달성:** 화면에 표시되는 과제나 주문을 주의 깊게 확인하세요. 이들을 완료하면
+   많은 코인과 보상을 얻을 수 있어 진행 속도가 빨라집니다.
 
-1.  **[KO]** **The Merge Chain:** The core of the game is to drag one gem and drop it onto an identical gem. The two will then merge into a single, new gem of a higher level. The key is to keep merging to create more space and discover more valuable jewels.
-2.  **[KO]** **Manage Your Board:** Your board has a limited number of spaces. If it fills up completely, you won't be able to add new gems. Always prioritize making merges to keep your board from getting cluttered.
-3.  **[KO]** **Use Coins to Accelerate:** While the game will periodically give you a free basic gem, the fastest way to progress is to use the coins you earn to buy more gems from the shop. This allows you to create high-level gems much more quickly.
-4.  **[KO]** **Fulfill Goals:** Pay attention to any goals or orders that may appear. Completing these challenges is the best way to earn large amounts of coins and advance in the game.
+### 조작 방법
 
-### Controls Guide
+게임은 간단한 드래그 앤 드롭 조작으로 진행됩니다.
 
-The game is played with simple drag-and-drop controls.
+* **보석 머지:** 보석을 드래그해 같은 보석 위에 놓으면 두 보석이 합쳐집니다.
+* **보석 구매:** 상점 아이콘을 눌러 이미 발견한 보석을 코인으로 구매할 수 있습니다.
 
-*   **[KO]** **Merge Gems:** Click and drag one gem and drop it onto another identical gem to merge them.
-*   **[KO]** **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 새로운 보석은 어떻게 얻나요?**
+    - **A:** 일정 시간이 지나면 빈 칸에 자동으로 기본 보석이 나타납니다. 또한 상점에서
+    코인을 사용해 보석을 직접 구매할 수도 있습니다.
 
-*   **[KO]** **Q: How do I get new gems?**
-    *   **[KO]** **A:** A new, basic gem will appear automatically on an empty spot after a short timer. You can also spend coins in the shop to buy gems directly.
+* **Q: 게임의 주된 목표는 무엇인가요?**
+    - **A:** 가능한 많은 종류의 보석을 머지해서 해금하고, 주어지는 과제를 완료해 최고
+    점수를 노리는 것입니다.
 
-*   **[KO]** **Q: What is the main objective?**
-    *   **[KO]** **A:** To discover all the different types of gems by merging them and to complete any given tasks to earn the highest score possible.
-
-*   **[KO]** **Q: My board is full and I can't make any moves. What should I do?**
-    *   **[KO]** **A:** You need to free up space. Double-check for any possible merges. If there are absolutely no moves, you may need to use an option to sell or delete a low-value gem to make room for a new one.
-
+* **Q: 보드가 꽉 차서 움직일 수 없어요. 어떻게 해야 하나요?**
+    - **A:** 합칠 수 있는 조합이 남아 있는지 다시 확인해 보세요. 정말 아무 머지도
+    불가능하다면, 저레벨 보석을 판매하거나 삭제해 새 보석이 들어올 공간을 만들어야
+    할 수 있습니다.

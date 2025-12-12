@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: geometry-dash-lite
-title: '[KO] Geometry Dash Lite'
+title: "Geometry Dash Lite 지오메트리 대시 라이트"
 description: >-
-  [KO] Rhythm platforming sampler: jump and fly to the beat through preset
-  levels, avoiding spikes and timing pads/portals.
+  리듬에 맞춰 점프하고 날아가며 장애물을 피하는 Geometry Dash 입문 버전입니다.
+  음악에 맞춘 여러 기본 스테이지에서 점프 패드와 포탈, 비행 파트에 도전해
+  보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/geometry-dash-lite.jpg
@@ -19,27 +20,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Entry version of the rhythm platformer: clear curated levels with jump pads, gravity portals, and ship sections synced to music.
+### 게임 개요
 
-### How to Play
-- Tap/jump on the beat to pass spikes and saws.
-- Hold to fly the ship smoothly; keep altitude steady.
-- Memorize tricky segments and practice mode if available.
+`Geometry Dash Lite`는 리듬에 맞춰 점프와 비행을 반복하며 스파이크와 톱날을
+피하는 리듬 플랫포머의 체험용 버전입니다. 정해진 몇 개의 스테이지가 포함되어
+있으며, 점프 패드와 링, 중력 포탈, 비행(Ship) 구간 등이 음악과 함께 배치되어
+있습니다.
 
-### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice toggles vary by host.
+### 플레이 방법
 
-### Tips
-- Turn on practice for tough sections to set checkpoints.
-- Use music cues to predict upcoming jumps.
-- Keep ship inputs gentle; over‑correction causes crashes.
+- 비트에 맞춰 점프해 스파이크와 톱날을 넘고, 점프 패드/링을 정확한 타이밍에
+  밟아 더 멀리 도약하세요.
+- 비행 구간에서는 버튼을 누르고 있는 동안 서서히 상승하고, 떼면 내려갑니다.
+  입력을 너무 크게 주면 벽이나 장애물에 부딪히기 쉬우니 부드럽게 조작해야
+  합니다.
+- 어려운 구간은 연습 모드가 지원되는 경우, 체크포인트를 찍으며 패턴을 몸에
+  익힌 뒤 본 모드에서 한 번에 클리어하는 방식으로 도전할 수 있습니다.
 
-### FAQ
-- Q: How do I beat hard levels without memorizing everything?
-A: Use practice mode to learn patterns, then switch to normal for a clean run.
-- Q: Why does my ship keep crashing?
-A: You are oversteering; use small holds and release to settle.
-- Q: Are custom levels included?
-A: Lite focuses on built‑in tracks; custom levels depend on host.
+### 조작 방법
 
+- PC에서는 스페이스바, 마우스 클릭, 터치를 사용해 점프하거나 비행 상태를
+  유지합니다.
+- 비행 구간에서는 버튼을 누르고 있는 동안 상승, 떼면 하강하며, 연습/체크포인트
+  관련 조작은 호스트에 따라 다를 수 있습니다.
+
+### 플레이 팁
+
+- 난도가 높은 스테이지는 먼저 연습 모드를 켜고, 까다로운 구간마다
+  체크포인트를 남기면서 반복 연습하는 것이 좋습니다.
+- 음악의 박자와 멜로디 라인을 잘 듣고, 반복되는 구간에서 언제 점프해야 하는지
+  감각을 익히면 눈에만 의존할 때보다 안정적으로 플레이할 수 있습니다.
+- 비행(Ship) 파트에서는 짧은 탭으로 미세 조정하는 것이 중요합니다. 길게
+  누르기보다는 짧게 여러 번 눌러 고도를 세밀하게 맞추세요.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 모든 패턴을 외우지 않고도 어려운 레벨을 깰 수 있나요?  
+  A: 연습 모드를 활용해 주요 함정 패턴과 타이밍만 확실히 익혀 두면, 전체를
+  완벽하게 암기하지 않아도 클리어할 수 있습니다. 어려운 지점 위주로 반복
+  연습하는 것이 좋습니다.
+- Q: 비행 구간에서 자꾸 추락합니다.  
+  A: 보통 입력을 과하게 주는 것이 원인입니다. 버튼을 살짝만 눌렀다가 바로
+  떼는 식으로, 고도를 조금씩만 조정하는 연습을 해 보세요.
+- Q: 커스텀 레벨도 포함되어 있나요?  
+  A: Lite 버전은 주로 내장된 트랙과 스테이지에 집중하며, 사용자 제작 레벨 제공
+  여부는 호스트 사이트에 따라 달라집니다.

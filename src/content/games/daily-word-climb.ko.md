@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: daily-word-climb
-title: '[KO] Daily Word Climb'
+title: Daily Word Climb 데일리 워드 클라임
 description: >-
-  [KO] A daily word puzzle challenge! Swap letters on the grid to form the
-  correct words. Use the color clues to deduce the right positions and solve the
-  puzzle within the move limit.
+  매일 주어지는 글자 퍼즐에서 알맞은 단어를 찾아 격자를 완성해 보세요. 타일 색깔 힌트를 활용해 글자의 올바른 위치를 추리하는 논리형 단어
+  게임입니다.
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
 thumbnail: /new-images/daily-word-climb.png
 tags:
@@ -17,37 +16,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Daily Word Climb는 매일 새로운 퍼즐을 제공하는 단어 추리 게임입니다. 각 줄에는
+완성해야 할 단어가 하나씩 숨겨져 있고, 플레이어는 격자 위의 글자들을 서로 교환해
+정답 단어를 만들어야 합니다. 글자를 한 번 바꿀 때마다 타일 색깔이 바뀌며,
+이 색깔이 “어떤 글자가 어디에 있어야 하는지”에 대한 중요한 단서를 제공합니다.
+제한된 이동 횟수 안에 모든 줄의 단어를 맞히는 것이 목표입니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Daily Word Climb is a clever and challenging word puzzle that provides a new brain-teaser every day. The goal is to unscramble a grid of letters to form correct words in each row. You do this by swapping letters one at a time. After each swap, the tiles change color to give you clues, helping you deduce the correct placement of each letter. With a limited number of moves, you must think strategically to solve the puzzle.
+1. **색깔 힌트 이해하기**  
+   색깔은 퍼즐을 푸는 핵심 단서입니다.  
+    - **초록색**: 글자와 위치가 모두 정답입니다. 이 타일은 고정된다고 생각하고
+     다시 움직이지 않는 것이 좋습니다.  
+    - **노란색**: 글자는 정답 단어에 포함되어 있지만, 현재 위치가 틀렸다는 뜻입니다.  
+    - **흰색/회색**: 해당 줄의 정답 단어에는 포함되지 않는 글자입니다.  
+2. **초록 타일부터 고정하기**  
+   초록으로 변한 글자는 이미 맞는 자리이므로 더 이상 건드리지 않는 것이 좋습니다.
+   초록 타일을 기준점 삼아 나머지 글자 위치를 유추해 보세요.  
+3. **노란 타일로 위치 추리하기**  
+   노란 타일은 “이 줄에는 꼭 들어가지만 지금 칸은 아니다”라는 의미입니다. 같은 줄
+   안에서 흰색/회색 타일과 자리를 바꾸며 올바른 위치를 찾아 보세요.  
+4. **이동 수 아껴 쓰기**  
+   각 퍼즐에는 이동(스왑) 횟수 제한이 있습니다. 무작정 바꾸기보다는, 한 번의
+   교환으로 얻을 수 있는 정보를 최대화할 수 있도록 계획적으로 움직이세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Understand the Color Clues:** The colors are your guide to solving the puzzle.
-    *   **[KO]** **Green:** The letter is in the correct word and in its final, correct position.
-    *   **[KO]** **Yellow:** The letter is in the word in that row, but it is currently in the wrong spot.
-    *   **[KO]** **White/Grey:** The letter does not belong in that row's word at all.
+이 게임은 간단한 클릭/탭만으로 조작합니다.
 
-2.  **[KO]** **Focus on Green Letters:** Once a letter turns green, you know it's locked in place. Don't move it again! Use the green letters as anchors to help you figure out the rest of the word.
-3.  **[KO]** **Use Yellow Letters to Deduce:** If you have a yellow letter, you know it belongs in that same row, just in a different position. Look for other yellow or white tiles in that row to swap it with.
-4.  **[KO]** **Conserve Your Moves:** You only have a limited number of swaps for each puzzle. Try to make each move count. Avoid random swaps and think about which swap will give you the most information.
+* **글자 교환**: 옮기고 싶은 첫 번째 글자를 클릭/탭한 뒤, 교환할 두 번째 글자를
+  다시 클릭하면 두 글자의 위치가 서로 바뀝니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-The game is played with simple clicks or taps.
+* **Q: 타일 색깔은 각각 무엇을 의미하나요?**  
+  **A:** 초록색은 글자와 위치가 모두 정답, 노란색은 글자는 맞지만 위치가 틀림,
+  흰색/회색은 해당 줄의 정답에 없는 글자를 뜻합니다.  
 
-*   **[KO]** **Swap Letters:** Click on the first letter you want to move, and then click on the second letter you want to swap it with. They will then exchange places.
+    - **Q: 이동 횟수를 다 써버리면 어떻게 되나요?**  
+  **A:** 제한된 스왑 횟수 안에 퍼즐을 모두 해결하지 못하면 클리어에 실패하며,
+  스테이지를 다시 시작해야 합니다.  
 
-### Frequently Asked Questions (FAQ)
+* **Q: 정말 매일 새로운 퍼즐이 나오나요?**  
 
-*   **[KO]** **Q: What do the colors on the tiles mean?**
-    *   **[KO]** **A:** Green means the right letter is in the right spot. Yellow means the right letter is in the wrong spot. White or Grey means it's the wrong letter for that row.
+    - **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
 
-*   **[KO]** **Q: What happens if I run out of moves?**
-    *   **[KO]** **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
+- **Q: Is there a new puzzle every day?**
 
-*   **[KO]** **Q: Is there a new puzzle every day?**
-    *   **[KO]** **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
+    - **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
+  **A:** 이름처럼 날짜에 따라 새로운 퍼즐이 제공되며, 매일 다른 단어 조합으로
+  두뇌를 자극할 수 있습니다.  
 

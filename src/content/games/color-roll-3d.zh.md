@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: color-roll-3d
-title: '[ZH TRANSLATION NEEDED] Color Roll 3D'
+title: "Color Roll 3D 色彩卷纸 3D"
 description: >-
-  [ZH TRANSLATION NEEDED] Color Roll 3D is a satisfying unfold‑and‑fill puzzle —
-  unroll strips in the right order to paint target patterns.
+  《Color Roll 3D 色彩卷纸 3D》是一款极具满足感的展开填色解谜游戏。你需要按照正确顺
+  序将彩色纸带一层层展开，用它们恰到好处地覆盖棋盘，拼出目标图案。
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/color-roll-3d.png
 tags:
@@ -17,31 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Color Roll 3D presents layered strips you unroll to cover a board exactly. The trick is sequencing: later strips may cover earlier ones, so you must choose an order that matches the target image without overlap errors.
+在《Color Roll 3D 色彩卷纸 3D》中，棋盘上铺着多层卷起的彩色纸带，你需要按照合适的顺
+序将它们展开，使最后铺成的图案和目标预览完全一致。关键难点在于“顺序”——后展开的纸
+带会覆盖先前展开的层，如果顺序错误，就会遮住本该暴露在表面的颜色，导致最终图案无
+法匹配。
+
+每一关都会给出一个目标图案预览，你要通过观察颜色块分布、层级关系以及纸带走向，推
+理出正确的展开顺序。成功的解法往往是：先铺大面积底色，再用较细的纸带勾勒边界、填
+补细节，最后用少量小块修饰，避免相互覆盖冲突。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Start with the deepest/base color that covers the largest area.
-2.  [ZH TRANSLATION NEEDED] Place boundary strips to frame shapes, then fill interiors.
-3.  [ZH TRANSLATION NEEDED] Watch overlaps — avoid burying needed edges under later strips.
-4.  [ZH TRANSLATION NEEDED] Undo early when the final gaps look impossible.
-5.  [ZH TRANSLATION NEEDED] Compare with the target preview after each placement.
+
+1.  **先铺底色：** 通常先从覆盖面积最大、颜色最靠底层的纸带开始展开，把整个棋盘的大
+    致底色打好基础，再考虑细节装饰。
+2.  **用边界纸带框出轮廓：** 在底色铺好之后，优先展开那些位于边缘或轮廓位置的纸带，
+    先把形状的外框确定，再填中间部分，这样更容易控制整体轮廓不被破坏。
+3.  **注意覆盖关系：** 仔细观察目标图案中哪一块颜色在“上面”、哪一块在“下面”，据此判
+    断哪条纸带必须最后展开，避免本该在上层的细节被早一步铺开的纸带覆盖。
+4.  **发现末端形状不对时尽早撤回：** 如果在中后期发现剩余空格已难以被现有纸带填满，
+    或者颜色明显错位，建议立刻使用撤回功能回滚几步，而不是硬着头皮往下铺。
+5.  **每铺一步都对照目标预览：** 展开每条纸带之后，习惯性地看一眼目标图案的预览，对
+    比一下当前整体区域是否仍有机会通过后续纸带补足，从而降低走到“死局”的概率。
 
 ### Controls Guide
 
-- Drag to unroll a strip along its path; tap to undo where allowed.
-- Zoom/pan if supported for precision.
+- 按住并拖动即可沿既定路径展开一条纸带；支持撤回的关卡中，可点击撤回按钮退回上一步
+  操作。
+- 如支持缩放/拖动画面，可利用这些功能更精细地查看局部区域。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I always end with one tile uncovered — what’s wrong?
-  
-[ZH TRANSLATION NEEDED]   A: Your order is off. Lay base colors first, then smaller detail strips to avoid blocking.
+- **Q: 我总是剩下一小块格子填不上，是哪里出了问题？**  
+  **A：** 这通常意味着你的展开顺序有误。应该先铺覆盖范围最大的底色纸带，再用更细的
+  纸带处理边缘和细节。如果先把细节纸带铺在下面，很可能会被后续大纸带完全盖住，导致
+  最终无法匹配目标图案。
 
-- Q: Are multiple orders valid?
-  
-[ZH TRANSLATION NEEDED]   A: Some puzzles allow several, but most intend a small set of correct sequences.
+- **Q: 一关是不是只有唯一解法？**  
+  **A：** 部分谜题可能存在多种可行顺序，但很多关卡实际只有极少数“合理”的解法。即便
+  不是唯一，整体思路通常也十分接近。
 
-- Q: Is there a hint system?
-  
-[ZH TRANSLATION NEEDED]   A: Many versions include hints — use sparingly to preserve the challenge.
-
+- **Q: 游戏有没有提示系统？**  
+  **A：** 多数版本会提供一定的提示次数，可以在卡关时使用。但为了保持解谜的成就感，建
+  议将提示留给真正过不去的关卡，尽量先自己尝试不同顺序。

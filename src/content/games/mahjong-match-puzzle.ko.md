@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mahjong-match-puzzle
-title: '[KO] Mahjong Match Puzzle'
+title: "Mahjong Match Puzzle 마작 매치 퍼즐"
 description: >-
-  [KO] Mahjong Match Puzzle blends solitaire and connect rules — match open
-  tiles, manage layers, and clear boards efficiently.
+  Mahjong Match Puzzle는 마작 솔리테어와 커넥트 방식의 요소를 섞은 퍼즐로, 열린 타일을
+  짝지어 층층이 쌓인 보드를 효율적으로 비우는 것이 목표입니다.
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
 thumbnail: /new-images/mahjong-match-puzzle.png
 tags:
@@ -16,34 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Mahjong Match Puzzle*에서는 여러 층으로 쌓인 타일 더미에서 위에 덮여 있지 않고, 좌우
+중 한쪽 이상이 열린 '오픈 타일'만 짝을 맞출 수 있습니다. 일부 보드는 커넥트식 경로
+규칙이나 특수 타일을 섞어 변주를 주며, 상단을 묶고 있는 캡 타일을 풀어 주고 선택지를
+넓히는 것이 효율적인 클리어의 핵심입니다.
 
-Mahjong Match Puzzle uses layered stacks where only open tiles (no cover, at least one free side) can be matched. Some boards introduce connect‑style paths or special tiles. Efficiency comes from freeing caps, preserving options, and avoiding early removal that seals deeper pairs.
+### 공략 & 플레이 팁
 
-### Gameplay Strategy & Walkthrough
+1. **캡부터 제거:** 가장 위층을 덮고 있는 캡 타일을 우선적으로 지워야, 아래층의 넓은
+   구역이 한꺼번에 열립니다.
+2. **희귀 패 우선 처리:** 같은 타일이 적게 남아 있는 희귀 문양은 초반에 처리해 두어야
+   후반에 막히는 상황을 줄일 수 있습니다.
+3. **측면 통로 유지:** 긴 줄을 한 번에 막아 버리지 말고, 좌우 측면에 항상 이동 경로가
+   남도록 타일을 제거하세요.
+4. **힌트는 막힐 때만:** 새로운 오픈 타일이 더 이상 생기지 않을 때에만 힌트나 셔플을
+   사용하는 것이 좋습니다. 너무 자주 쓰면 오히려 패턴을 익히기 어렵습니다.
+5. **속도보다 신중함:** 시간 제한이 있더라도, 서두르기보다는 한 수 한 수 어떤 타일이
+   열리는지 생각하며 두는 편이 결과적으로 더 좋은 기록을 만들 수 있습니다.
 
-1.  **[KO]** Cap removal: Free and remove top caps to expose large areas quickly.
-2.  **[KO]** Rarity first: Clear rare symbols early to prevent late deadlocks.
-3.  **[KO]** Side access: Keep side lanes open; avoid sealing long strips.
-4.  **[KO]** Hint reserve: Save hints/shuffles for when new openings stop appearing.
-5.  **[KO]** Pace: Don’t rush — deliberate picks trump speed.
+### 조작 방법
 
-### Controls Guide
+- 같은 그림의 오픈 타일 두 개를 선택하면 쌍으로 제거됩니다. UI에 따라 힌트/섞기 버튼이
+  제공될 수 있습니다.
 
-- Select two matching open tiles to remove; use hints/shuffles per UI.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 더 이상 둘 수 있는 쌍이 없으면 어떻게 하나요?
 
-- Q: No moves available?
+  A: 셔플 기능이 지원된다면 남은 타일을 섞어 새로운 경로를 만들 수 있습니다. 그렇지
+  않다면 초반에 캡 타일부터 풀어 주는 다른 전략으로 다시 도전해 보세요.
 
-A: Shuffle if allowed or restart with a different cap‑first plan.
+- Q: 계절/꽃 패는 서로 다른 그림끼리도 짝이 되나요?
 
-- Q: Do seasons/flowers match cross‑suit?
+  A: 많은 세트에서 계절 패는 계절끼리, 꽃 패는 꽃끼리 서로 다른 그림이라도 짝을
+  이룰 수 있습니다. 사용하는 세트 규칙을 한 번 확인해 두면 좋습니다.
 
-A: Many sets allow cross‑matching within seasonal/flower groups.
+- Q: 시간 제한이 있나요?
 
-- Q: Timed?
-
-A: Some boards are timed; prioritize caps and rare symbols.
-
+  A: 일부 스테이지에는 제한 시간이 있어, 상단 캡과 희귀 타일을 우선 제거하는 것이
+  중요합니다. 시간 제한이 없는 모드라면 여유롭게 최적의 수를 찾아 보세요.

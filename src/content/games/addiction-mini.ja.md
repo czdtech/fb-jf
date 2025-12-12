@@ -1,41 +1,38 @@
 ---
+title: "Addiction Mini アディクション・ミニ"
+description: "「Addiction Mini」はソリティア風の並べ替えパズルです。戦略的にカードを並べ替え、列をクリアし、数手先を読んで攻略しましょう。"
+iframeSrc: "https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/"
+thumbnail: "/new-images/addiction-mini.jpg"
+urlstr: "addiction-mini"
+score: "4.0/5  (1803 votes)"
+tags: ["card", "puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: addiction-mini
-title: '[JA TRANSLATION NEEDED] Addiction Mini'
-description: >-
-  [JA TRANSLATION NEEDED] Addiction Mini distills solitaire‑style sequencing —
-  place cards in order, clear rows, and think several moves ahead.
-iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
-thumbnail: /new-images/addiction-mini.jpg
-tags:
-  - card
-  - puzzle
-  - thinky
-score: 4.0/5  (1803 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Addiction Mini（アディクション・ミニ）*は、中毒性の高いソリティア「アディクション（モンテカルロ）」系のゲームをコンパクトにまとめたパズルです。ルールに従ってスート（マーク）や色ごとに数字が増える順序でカードをスライドまたは配置し、空きスペースを作りながら並べ替えていきます。慎重な計画で手詰まり（デッドロック）を回避し、クリアを目指しましょう。
 
-### Detailed Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Addiction Mini is a compact take on the Addiction/Monte Carlo family of patience games. Slide or place cards into increasing sequences by suit or color per mode rules, opening spaces and resolving deadlocks with careful planning.
-
-### Gameplay Strategy & Walkthrough
-
-1.  [JA TRANSLATION NEEDED] Open spaces: Create empty slots early to enable rearrangement.
-2.  [JA TRANSLATION NEEDED] Build from anchors: Start sequences at the lowest legal values and extend cleanly.
-3.  [JA TRANSLATION NEEDED] Avoid blocking keys: Don’t trap needed cards behind immovable structures.
-4.  [JA TRANSLATION NEEDED] Save swaps: Limited reshuffles/swaps should resolve multiple issues at once.
-5.  [JA TRANSLATION NEEDED] Think ahead: Visualize two to three placements in advance.
+1.  **空きスペースを活用する：** 早い段階で空きスロット（スペース）を作ることで、カードを再配置しやすくなります。
+2.  **アンカーから構築する：** 配置可能な最も小さい数字からスタートし、きれいに並べていきましょう。
+3.  **キーカードを塞がない：** 動かせないカード列の後ろに、必要なカードを閉じ込めないように注意が必要です。これをやると詰みます。
+4.  **シャッフルを温存する：** 回数制限のある「再シャッフル」や「スワップ（交換）」は、一度に複数の問題を解決できる決定的な瞬間のために取っておきましょう。
+5.  **先を読む：** 2〜3手先の配置を頭の中でシミュレーションしてからカードを動かしましょう。
 
 ### 操作ガイド
 
-- ルールに従ってカードをドラッグまたはクリックして移動します；利用可能なスワップを使用します。
-- 元に戻す/リセット（提供されている場合）。
+*   **移動：** ドラッグまたはクリックで、ルールの範囲内でカードを動かします。可能な場合はスワップも使用します。
+*   **アンドゥ/リセット：** 機能がある場合は、ミスをした時に活用しましょう。
 
-### よくある質問（FAQ）
+### よくある質問 (FAQ)
 
-- No moves left—what now? Use a swap/shuffle if available or restart.
-- Strict rules? Variants differ; read each mode’s constraints.
-- Is it winnable? Many deals are solvable with accurate planning.
+*   **動かせるカードがなくなったら？**
+    *   スワップやシャッフル機能が残っていれば使いましょう。なければリスタート（やり直し）です。
+*   **ルールは厳しいですか？**
+    *   モードによって異なりますが、特定の配置制限がある場合があります。各モードの制約を確認してください。
+*   **必ずクリアできますか？**
+    *   多くの配り手（ディール）は、正確な計画があれば解決可能に作られていますが、運も絡みます。

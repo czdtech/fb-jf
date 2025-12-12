@@ -1,11 +1,12 @@
 ---
 locale: de
 urlstr: dandyrunki-retake
-title: '[DE] Dandyrunki Retake - Play Dandyrunki Retake Online'
+title: "Dandyrunki Retake - Play Dandyrunki Retake Online"
 description: >-
-  [DE] In the Dandyrunki Retake, you can easily get started and effortlessly
-  explore various rhythms and melodies. Whether you are a casual player or a
-  music enthusiast, you can find your own fun in this remix version.
+  In Dandyrunki Retake steigst du ganz leicht ein und kannst spielerisch
+  verschiedene Rhythmen und Melodien ausprobieren. Egal, ob du nur kurz
+  entspannen willst oder ein echter Musikfan bist – in dieser Remix-Version
+  findest du deinen eigenen Sound.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /dandyrunki-retake.png
 tags:
@@ -14,28 +15,46 @@ tags:
 score: 3.7/5  (255 votes)
 ---
 
-
-
 ### What's So Fun About Dandyrunki Retake?
 
-Simply put, this remix version is like a cross-border collaboration in the music industry, letting the weird notes of Dandyrunki Retake to create unexpected sparks. Even better, you don't need to download anything, just open your browser and you can enjoy this creative game anytime, anywhere!
+Kurz gesagt ist diese Remix-Version wie eine verrückte musikalische
+Crossover-Kollaboration: Die schrägen Sounds von Dandyrunki Retake treffen auf
+neue Kombinationen und sorgen für überraschende Funken. Das Beste daran: Du
+musst nichts herunterladen – öffne einfach deinen Browser und leg jederzeit los,
+um kreativ mit Sounds zu experimentieren.
 
 ### Dandyrunki Retake Core Gameplay:
 
-- **Character Selection:** Choose your musical partners from the many characters in Dandyrunki Retake. Each character has unique sound and visual effects to make your creation full of personality.
-- **Drag and Drop Combination:** Drag the characters onto the stage, blending rhythms, melodies, and sound effects into harmonious music.
-- **Listen and Adjust:** Feel free to try different loop combinations, adjust the volume, explore endless possibilities, and create musical works that best reflect the spirit of Dandyrunki Retake.
-- **Save and Share:** Save your masterpiece and share it with the Sprunki community, allowing more people to appreciate your musical exploration trip in Dandyrunki Retake.
-
+- **Charakterauswahl:** Wähle deine musikalischen Partner aus den vielen
+  Charakteren in Dandyrunki Retake. Jede Figur bringt eigene Klänge,
+  Animationen und Effekte mit, damit dein Track richtig persönlich wird.
+- **Ziehen und Kombinieren:** Ziehe die Figuren auf die Bühne und kombiniere
+  Rhythmen, Melodien und Soundeffekte, bis alles zu einem stimmigen Musikstück
+  verschmilzt.
+- **Anhören und Anpassen:** Probiere unterschiedliche Loop-Kombinationen aus,
+  spiele mit Lautstärken und Reihenfolgen und entdecke immer neue Varianten, die
+  perfekt zu deinem Dandyrunki-Style passen.
+- **Speichern und Teilen:** Speichere dein Meisterwerk und teile es mit der
+  Sprunki-Community, damit andere deine musikalische Entdeckungsreise in
+  Dandyrunki Retake erleben können.
 
 ### What Are the Highlights of Sprunki Retake Meets Dandyrunki Retake?
 
-- **Richer Character Selection:** Exclusive characters from Dandyrunki Retake, with unique animations and sound loops, add more fun to your music creation journey.
-- **More Exquisite Visual Effects:** Bright and vibrant backgrounds, coupled with smooth and natural transition effects, make the fantastic world of Dandyrunki Retake come alive.
-- **Better Sound Effects:** Brand new beats and melodies bring you a vibrant listening experience while maintaining the playful style of the original Mod.
-- **Smoother Operation Experience:** The carefully tuned drag-and-drop mechanism allows players of all ages to easily get started and enjoy the fun of music creation.
-
+- **Mehr Charaktere zur Auswahl:** Exklusive Figuren aus Dandyrunki Retake mit
+  eigenen Animationen und Sound-Loops sorgen für noch mehr Abwechslung in deinen
+  Kompositionen.
+- **Aufwendigere Effekte:** Bunte Hintergründe und weiche Übergänge lassen die
+  verrückte Welt von Dandyrunki Retake lebendig werden und machen jede Session
+  zu einer kleinen Show.
+- **Verbesserter Sound:** Neue Beats und Melodien liefern ein frisches
+  Klangerlebnis, ohne den verspielten Stil des ursprünglichen Mods zu verlieren.
+- **Geschmeidiges Gameplay:** Die fein abgestimmte Drag-and-Drop-Steuerung
+  macht es Spielerinnen und Spielern jeden Alters leicht, einzusteigen und
+  sofort Spaß am Musikbasteln zu haben.
 
 ### Easy to Operate, Endless Fun:
 
-In the Dandyrunki Retake, you can easily get started and effortlessly explore various rhythms and melodies. Whether you are a casual player or a music enthusiast, you can find your own fun in this remix version. Come and join Dandyrunki Retake and start your music creation journey!
+In Dandyrunki Retake kommst du ohne lange Erklärungen direkt ins Spiel und
+kannst nach Belieben mit Rhythmen und Melodien spielen. Ob du nur ein paar
+Minuten Zeit hast oder länger experimentieren möchtest – diese Remix-Version
+bietet dir jede Menge kreativen, musikalischen Spaß.

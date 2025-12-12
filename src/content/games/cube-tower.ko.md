@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: cube-tower
-title: '[KO] Cube Tower'
+title: Cube Tower 큐브 타워 디펜스
 description: >-
-  [KO] Protect your Cube Tower from waves of enemies in this exciting tower
-  defense game. Place and upgrade your towers strategically to survive.
+  중앙의 큐브 타워를 향해 몰려오는 적 웨이브를 막아내는 타워 디펜스 게임 Cube Tower입니다. 다양한 포탑을 전략적으로 배치·강화해
+  생존을 노려 보세요.
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/cube-tower.png
 tags:
@@ -16,27 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Cube Tower는 맵 중앙의 “큐브 타워”를 지키는 것이 목표인 클래식 타워 디펜스 게임입니다.
+경로를 따라 몰려오는 적 웨이브를 막기 위해, 플레이어는 다양한 속성과 공격 범위를 가진
+포탑을 설치하고 업그레이드해야 합니다. 어느 위치에 어떤 타워를 둘지, 어느 타워를 먼저
+강화할지가 승패를 가르는 핵심 요소입니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Cube Tower is a tower defense game where your main objective is to protect a central "Cube Tower" from waves of enemy attacks. To achieve this, you strategically place and upgrade various types of defensive towers.
+1. **전략적인 배치**  
+   타워의 사거리와 공격 방향을 고려해, 적이 가장 오래 머무는 코너나 교차로에 포탑을
+   배치하세요. 한 경로를 여러 번 관통하는 위치일수록 장기적으로 큰 효율을 냅니다.  
+2. **적 유형에 맞춘 대응**  
+   게임에는 체력이 높은 적, 빠른 적, 특수 방어를 가진 외계 생명체 등 여러 타입이
+   등장합니다. 광역 공격, 단일 고화력, 슬로우 효과 등 타워 종류를 섞어 약점을 서로
+   보완해 주는 구성이 중요합니다.  
+3. **업그레이드 우선순위**  
+   모든 타워를 골고루 업그레이드하기보다는, 가장 많은 적을 상대하는 핵심 위치의
+   타워부터 강화하세요. 현재 웨이브에 특히 효과적인 타워의 레벨을 우선적으로 올리면
+   자원을 더 효율적으로 사용할 수 있습니다.  
+4. **자원 관리**  
+   포탑 설치와 업그레이드에는 게임 내 화폐가 필요합니다. 초반에는 코스트 대비 효율이
+   좋은 타워 위주로 배치하고, 필요한 경우 스테이지를 재도전해 자원을 모은 뒤 더 높은
+   난이도에 도전하는 것도 방법입니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Strategic Placement:** Carefully consider where to place your towers to maximize their coverage and impact on incoming enemies.
-2.  **[KO]** **Adapt to Enemy Types:** The game features different alien types, and figuring out which combination of towers and attack tactics works best for each is key.
-3.  **[KO]** **Upgrade Wisely:** Prioritize upgrading towers that are most effective against the current wave of enemies.
-4.  **[KO]** **Resource Management:** You'll need to manage your in-game currency to buy and upgrade towers. Replaying levels can help accumulate resources for upgrades.
+* **마우스/터치**: 포탑 아이콘을 선택해 맵 위에 배치하고, 이미 설치된 타워를 탭해
+  업그레이드 메뉴를 열 수 있습니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Mouse/Touch:** Use the mouse or touch screen to select, place, and upgrade your towers.
+* **Q: 어떤 포탑이 가장 좋은가요?**  
+  **A:** 적의 타입에 따라 효율이 달라지므로, 한 가지 타워만으로는 버티기 어렵습니다.
+  예를 들어 캐논 타워는 몰려오는 다수의 적에게 강하고, 레이저 타워는 빠르게 달리는
+  적을 처리하는 데 유리합니다. 다양한 포탑을 섞어 약점을 보완하는 구성이 좋습니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 3성 평가를 받으려면 어떻게 해야 하나요?**  
 
-*   **[KO]** **Q: What's the best tower to use?**
-    *   **[KO]** **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
-*   **[KO]** **Q: How do I get a 3-star rating?**
-    *   **[KO]** **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
+- **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
+
+    - **Q: How do I get a 3-star rating?**
+  **A:** 각 스테이지는 남은 라이프 수에 따라 별을 부여합니다. 3성을 얻으려면 가능한 한
+  많은 적이 큐브 타워에 도달하지 못하도록 막아야 하므로, 초반부터 효율적인 배치와
+  업그레이드를 통해 “한 마리도 놓치지 않는다”는 마음가짐으로 플레이해 보세요.  
 

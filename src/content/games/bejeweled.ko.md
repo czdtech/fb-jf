@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: bejeweled
-title: '[KO] Bejeweled - Play Bejeweled Online'
+title: "Bejeweled 비주얼드 온라인 플레이"
 description: >-
-  [KO] Bejeweled simple yet highly addictive gameplay loop made it a pioneer of
-  the
+  Bejeweled는 인접한 보석을 맞바꾸어 같은 색 보석 3개 이상을 이어 없애는 고전 퍼즐
+  게임으로, 단순하지만 중독성 강한 "매치 3" 게임 플레이로 캐주얼 게임 장르를
+  대표하는 작품이 되었습니다.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /bejeweled.png
 tags:
@@ -14,35 +15,61 @@ score: 4.8/5  (654 votes)
 
 
 
-*Bejeweled* is a legendary tile-matching puzzle video game. The objective is to swap two adjacent gems to form a horizontal or vertical line of three or more gems of the same color. When a match is made, the gems disappear, and new gems fall from the top to fill the empty spaces, potentially creating chain reactions called cascades. Its simple yet highly addictive gameplay loop made it a pioneer of the "match-three" genre and one of the most successful casual games of all time. 
+*Bejeweled*는 타일 매칭 퍼즐 게임의 전설적인 작품입니다. 플레이어는 서로 인접한
+두 개의 보석을 맞바꾸어 가로 또는 세로로 같은 색 보석 3개 이상을 한 줄로 만들면
+보석이 사라지고, 위에서 새 보석이 떨어지며 연쇄 반응(연속 콤보)이 발생할 수
+있습니다. 단순하지만 매우 중독성 있는 이 게임 플레이 루프 덕분에 Bejeweled는
+"매치 3" 장르를 개척한 대표작으로 자리 잡았습니다.
 
-### How to Play Bejeweled Game
+### Bejeweled 게임 방법
 
--  **The Core Action:** The only action you can take is swapping two adjacent gems, either horizontally or vertically. A swap is only valid if it results in at least one match of three or more gems.
--  **Basic Matching:** The primary goal is to create lines of three identical gems. These gems are then cleared from the board, and you earn points.
-**Special Gems:** Creating matches of more than three gems creates powerful special gems. These are key to getting high scores: 
-- **Flame Gem:** Created by matching four gems in a row. When this gem is matched, it explodes, destroying the eight gems surrounding it.
-- **Hyper Cube:** Created by matching five gems in a row. Swap this gem with any adjacent gem, and it will destroy all gems of that color on the board.
-- **Star Gem / Lightning Gem:** Created by matching gems in an "L" or "T" shape (in later versions). When matched, it destroys its entire row and column.
+- **기본 조작:** 할 수 있는 행동은 인접한 두 보석을 가로나 세로 방향으로 교환하는
+  것뿐입니다. 교환 결과로 3개 이상 매치가 만들어지지 않으면 그 이동은 무효가 됩니다.
+- **기본 매칭:** 목표는 동일한 보석 3개 이상을 일렬로 만드는 것입니다. 매치가
+  성사되면 그 보석들이 사라지고 점수를 얻으며, 위에서 새 보석이 떨어져 빈칸을
+  채웁니다.
 
-**Game Modes:** Bejeweled games typically feature several modes. The most common are: 
-- **Classic Mode:** An untimed mode where you play until there are no more possible moves left on the board.
-- **Action/Blitz Mode:** A fast-paced, timed mode (often 60 seconds) where the goal is to score as many points as possible before time runs out.
+**특수 보석:** 3개보다 많은 보석을 한 번에 매치하면 강력한 특수 보석이 생성되며,
+고득점의 핵심이 됩니다.
+- **Flame Gem:** 같은 보석 4개를 연속으로 맞췄을 때 생성됩니다. 이 보석을 터뜨리면
+  주변 8칸의 보석이 함께 폭발합니다.
+- **Hyper Cube:** 같은 보석 5개를 일직선으로 맞췄을 때 생성됩니다. 이 보석을 다른
+  보석과 교환하면, 그 색상의 보석이 화면 전체에서 모두 제거됩니다.
+- **Star Gem / Lightning Gem:** "L"자 혹은 "T"자 모양으로 매치했을 때(후속 버전 기준)
+  생성되며, 터뜨릴 경우 해당 줄과 열 전체를 한 번에 지워 줍니다.
 
+**게임 모드:** Bejeweled 시리즈에는 여러 가지 모드가 존재하지만, 대표적인 것은
+다음과 같습니다.
+- **Classic Mode:** 시간 제한이 없는 기본 모드로, 더 이상 가능한 수가 없어질 때까지
+  플레이합니다.
+- **Action/Blitz Mode:** 보통 60초 제한이 있는 빠른 타임어택 모드로, 제한 시간 안에
+  최대한 높은 점수를 얻는 것이 목표입니다.
 
+### 전략과 팁
 
-### Strategy and Tips
+- **더 큰 매치를 노리기:** 단순히 3개 매치만 노리기보다는, 4개 또는 5개를 한 번에
+  맞출 수 있는 위치를 찾아 특수 보석을 만드는 것이 중요합니다.
+- **아래쪽부터 노리기:** 화면 하단 근처에서 매치를 만들면 위쪽의 보석들이 크게
+  재배치되며, 자연스럽게 연쇄 반응이 일어날 확률이 높아집니다.
+- **특수 보석 아껴 쓰기:** Hyper Cube나 Flame Gem 같은 특수 보석은 바로 쓰지 말고,
+  특정 색이 많이 모였을 때나 난감한 구역을 정리해야 할 때까지 아껴 두면 더 큰
+  효과를 볼 수 있습니다.
+- **클래식 모드에서는 서두르지 않기:** 시간 제한이 없는 모드에서는 천천히 전체
+  판을 살펴본 뒤 최선의 수를 선택하세요. 막히면 대부분의 버전에서 "Hint" 버튼으로
+  힌트를 받을 수 있습니다.
 
--  **Look for Bigger Matches:** Don't just settle for matches of three. Actively scan the board for opportunities to create matches of four or five to generate powerful special gems.
--  **Work from the Bottom:** Making matches near the bottom of the board is generally a good strategy. This causes more gems to shift from the top, increasing the chances of creating automatic chain reactions (cascades).
--  **Use Special Gems Wisely:** Don't use a special gem on the first opportunity. Save Hyper Cubes for a moment when the board is filled with a specific color, or use Flame Gems to clear out difficult-to-reach areas.
--  **Don't Rush (in Classic Mode):** In untimed modes, take your time to analyze the entire board before making a move. Most versions have a "Hint" button if you get stuck.
+### 자주 묻는 질문(FAQ)
 
+**Q: Bejeweled는 무료인가요?**  
+**A:** 버전에 따라 다릅니다. *Bejeweled 2*나 *3* 같은 클래식 버전은 보통 유료
+다운로드 게임인 경우가 많고, 모바일용 *Bejeweled Blitz*, *Bejeweled Stars* 등은
+기본 플레이 무료(F2P) 대신 광고나 인앱 결제가 포함되어 있는 경우가 많습니다.
 
-### Frequently Asked Questions (FAQ)
+**Q: "더 이상 가능한 수가 없습니다"가 뜨면 어떻게 되나요?**  
+**A:** Classic Mode에서는 더 이상 어떤 교환으로도 3개 매치를 만들 수 없으면 게임이
+종료됩니다. 일부 버전에서는 자동으로 판을 섞어 새 판을 만들어 주기도 합니다.
 
-**Q: Is Bejeweled free to play?**  **A:** It varies. The original classic versions (like *Bejeweled 2* or *3*) are typically paid games. However, modern versions like *Bejeweled Blitz* or *Bejeweled Stars* on mobile are free-to-play but include in-app purchases and advertisements. 
-
-**Q: What happens when there are "No More Moves"?**  **A:** In Classic Mode, if the board reaches a state where no possible swaps can create a match, the game ends. In some versions, the game might automatically reshuffle the board for you. 
-
-**Q: What is the difference between Bejeweled Classic and Bejeweled Blitz?**  **A:** Bejeweled Classic is a slower, more strategic, and untimed puzzle experience. Bejeweled Blitz is a fast-paced, 60-second competition where the goal is to get the highest score possible, often competing with friends on social media.
+**Q: Bejeweled Classic과 Bejeweled Blitz의 차이는 무엇인가요?**  
+**A:** Bejeweled Classic은 시간 제한 없이 천천히 수를 고민하며 플레이하는 전략적인
+퍼즐 경험에 가깝습니다. Bejeweled Blitz는 60초 제한 안에 최대 점수를 노리는
+고속 모드로, 보통 친구들과 점수를 경쟁하는 소셜 요소가 강조됩니다.

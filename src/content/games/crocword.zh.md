@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: crocword
-title: '[ZH TRANSLATION NEEDED] Crocword'
+title: "Crocword 鳄鱼填词拼字"
 description: >-
-  [ZH TRANSLATION NEEDED] Crocword is a relaxing word puzzle — connect letters,
-  build words, and clear grids with clever vocabulary.
+  《Crocword 鳄鱼填词拼字》是一款结合填字格与连线拼字的放松向文字谜题游戏。通过连接
+  字母拼出单词，填满填字格，同时用额外的“隐藏单词”获取金币与提示。
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/crocword.png
 tags:
@@ -17,31 +17,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Crocword blends crossword patterns with letter‑link mechanics. Connect letters to form valid words that fill crossword slots. Bonus words grant coins or hints; difficulty rises with longer, trickier grids.
+《Crocword 鳄鱼填词拼字》将传统填字游戏与“连线拼字”机制结合在一起。你需要从给定的一圈
+字母中拖动连线，拼出合法英文单词，这些单词会自动填入上方的填字格中。部分额外单词虽
+然不会出现在主格子里，却会被视作“奖励单词”，为你提供额外金币或提示点数。随着关卡推
+进，填字格会越来越大、单词也更长更刁钻，对词汇量与观察力都是不小的考验。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Fill singular‑fit slots first (rare letter positions).
-2.  [ZH TRANSLATION NEEDED] Try anagrams of uncovered prefixes/suffixes.
-3.  [ZH TRANSLATION NEEDED] Use bonus words to stock hints for late game.
-4.  [ZH TRANSLATION NEEDED] Don’t tunnel — change angles (prefix/middle/suffix) when stuck.
-5.  [ZH TRANSLATION NEEDED] Build vocabulary lists (common digrams/trigrams) to speed solves.
+
+1.  **优先填“唯一位置”的格子：** 某些格子由于字母组合较为罕见，往往只有极少数单词能填
+    入。先锁定这类位置，可以迅速给整个谜题定下基调。
+2.  **善用前后缀变化：** 当你已经填出一部分前缀或后缀时，不妨尝试各种常见组合（如 re-
+    、un-、-ing、-ed 等），很容易从中衍生出多个可能单词。
+3.  **利用“奖励单词”囤提示：** 不只盯着主填字格，多尝试一些你想到但暂时没有空位的合
+    法单词，它们很可能被算作 Bonus Word，为你积累金币/提示，在后面更难的关卡中大有用
+    处。
+4.  **卡住时换个角度：** 如果连续几分钟都围着同一行/同一列打转不出答案，尝试从中间断
+    开、从另一个前缀或词缀入手，或者先换一个完全不同长度的单词去思考，避免思维“钻牛角
+    尖”。
+5.  **日积月累单词模式：** 可以在游戏之外顺手把常见双字母/三字母组合记录下来（如 th,
+    ch, sh, ing 等），久而久之，你会在拼字时本能地优先尝试这些组合，提升整体速度。
 
 ### Controls Guide
 
-- Drag across letters to form words; release to submit.
-- Use hints to reveal letters/words sparingly.
+- 按住并拖动手指或鼠标，从一个字母依次划过其他字母，组成单词，松手后若为合法词汇即会
+  自动提交。 
+- 在需要时谨慎使用提示功能，暴露某个字母或整个单词。提示数量有限，应留给真正卡关的
+  情况。 
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: A slot seems impossible — help?
-  
-[ZH TRANSLATION NEEDED]   A: Check crossing letters again; one mistake early can block several words.
+- **Q: 有些填字格怎么看都填不进去，该怎么办？**  
+  **A：** 先检查一下交叉单词是否有误——填错一个字母，可能会连锁阻挡多个正确答案。必要
+  时可以回退几个单词，重新审视交叉位置。  
 
-- Q: Are proper nouns allowed?
-  
-[ZH TRANSLATION NEEDED]   A: Most dictionaries disallow proper nouns; follow the game’s word list.
+- **Q: 游戏会收录专有名词吗？**  
+  **A：** 大多数内置词库都不接受专有名词（如人名、地名等），所以更要以通用词汇为主，
+  以游戏内判断为准。  
 
-- Q: Can I replay for bonus words?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — revisit earlier grids to farm coins if the mode supports it.
-
+- **Q: 之前关卡能重复玩吗？对金币有帮助吗？**  
+  **A：** 一般可以重玩旧关来寻找当时没发现的奖励单词，以额外获取金币或提示点数，非常
+  适合作为卡在高难度关卡时的“资源补给站”。  

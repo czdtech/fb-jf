@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: lows-adventures-3
-title: '[ES] Low''s Adventures 3'
+title: "Low's Adventures 3 - Plataformas retro avanzadas"
 description: >-
-  [ES] Retro platformer trilogy entry: tighter jumps, new gimmick blocks, and
-  more secrets across compact stages.
+  Tercera entrega de la trilogía de plataformas retro: saltos más ajustados,
+  nuevos bloques especiales y muchos más secretos en niveles compactos.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/lows-adventures-3.jpg
 tags:
@@ -16,29 +16,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Descripción general
+La tercera entrega afina todavía más las plataformas con ventanas de tiempo más
+exigentes, peligros móviles y rutas secretas adicionales. Encontrarás puzles de
+interruptores, llaves ocultas y pasadizos fuera de la pantalla que recompensan
+la exploración cuidadosa y las rutas eficientes.
 
+### Cómo jugar
+- Primero céntrate en superar la salida principal y luego vuelve para buscar
+  secretos y medallas de tiempo.
+- Usa las plataformas móviles para preparar saltos más largos y seguros.
+- Recuerda qué llave abre cada puerta para evitar retrocesos innecesarios.
 
-### Overview
-The third entry sharpens platforming with trickier timing windows, moving hazards, and additional secret routes. Expect switch puzzles, hidden keys, and off‑screen passages that reward careful exploration and efficient routing.
+### Controles
+- Flechas/WASD para moverte y saltar; los botones de ataque o interacción
+  dependen de la plataforma donde juegues.
 
-### How to Play
-- Clear main exits first, then return for secrets and time medals.
-- Use moving platforms to set up longer jumps.
-- Track which keys open which doors to avoid backtracking.
-
-### Controls
-- Arrows/WASD move/jump; attack/interact per host.
-
-### Tips
-- Stay patient on moving hazards—missing one cycle costs less than a death.
-- Route coins/items only if they don’t risk the timer.
-- Listen for audio cues hinting at hidden areas.
+### Consejos
+- Ten paciencia con los peligros móviles: perder un ciclo suele costar menos
+  que morir y repetir todo.
+- Solo recolecta monedas u objetos extra cuando no pongan en riesgo el tiempo
+  límite del nivel.
+- Presta atención a posibles pistas sonoras que sugieran zonas ocultas.
 
 ### FAQ
-- Q: How do I find hidden exits in this game?
-A: Check ceilings, false walls, and off‑screen ledges; look for slight tile seams.
-- Q: Are there difficulty spikes compared to part 2?
-A: Jumps are tighter and hazards denser; practice specific rooms.
-- Q: Can I replay levels quickly for medals?
-A: Yes—menus often support fast restarts for routing attempts.
-
+- P: ¿Cómo encuentro las salidas ocultas del juego?  
+  R: Revisa techos, paredes falsas y salientes fuera de la pantalla; busca
+  pequeñas diferencias en las baldosas.
+- P: ¿Hay picos de dificultad respecto a la segunda parte?  
+  R: Sí, los saltos son más ajustados y los peligros están más densos; conviene
+  practicar las salas complicadas.
+- P: ¿Puedo repetir niveles rápido para conseguir medallas?  
+  R: Sí, la mayoría de menús permiten reinicios rápidos para hacer intentos de
+  ruta una y otra vez.

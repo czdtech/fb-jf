@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: hole-io
-title: '[FR] Hole io'
-description: >-
-  [FR] City‑swallowing .io brawler: move a black hole to eat objects, grow
-  larger, and outscore or eliminate rivals on the map.
-iframeSrc: 'https://holeio.com/'
+title: "Hole io"
+description: "Brawler .io urbain : contrôle un trou noir, avale des objets pour grandir, puis dépasse ou élimine les autres joueurs sur la carte."
+iframeSrc: "https://holeio.com/"
 thumbnail: /new-images/hole-io.jpg
 tags:
   - io
@@ -15,30 +13,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Hole io te lâche dans une ville destructible sous la forme d’un trou noir mobile. Tu commences par avaler de petits objets — plots, bancs, passants — puis, en grossissant, tu peux engloutir des voitures, des immeubles et même des pâtés de maisons entiers. Selon le mode, tu cherches soit à faire le meilleur score en temps limité, soit à éliminer directement les autres joueurs en les absorbant.
 
+### Comment jouer
 
-### Overview
-Hole io drops you into a destructible city as a roaming black hole. Start by eating small items—cones, benches, people—then graduate to cars, buildings, and entire blocks as your size increases. Modes include free‑for‑all score chases and battle variants where you knock out opponents by swallowing them.
+- Vise d’abord les amas de petits objets pour grandir très rapidement.  
+- Au début, trace ta route par les parcs, marchés et trottoirs chargés, puis dirige‑toi vers les rues pleines de voitures.  
+- Quand tu es assez grand, tourne autour des bâtiments pour les faire s’effondrer en morceaux que tu peux avaler facilement.
 
-### How to Play
-- Target clusters of small objects first for rapid growth.
-- Path through parks/markets early, then move to car‑dense streets.
-- When large, circle buildings to break them into swallowable pieces.
+### Commandes
 
-### Controls
-- Mouse/drag or WASD to steer; modes and timers vary by host.
+- Déplace ton trou noir avec la souris (glisser) ou les touches `WASD`. Les modes de jeu et la durée des parties dépendent de l’hébergeur.
 
-### Tips
-- Avoid larger rivals until you’ve grown; escape down wide streets.
-- Plan a growth route; detours waste precious timer seconds.
-- Use corners to trap opponents once you outsize them.
+### Astuces
 
-### FAQ
-- Q: How can I grow quickly at the start of the match?
-A: Prioritize dense clusters of tiny items before chasing cars or buildings.
-- Q: Can bigger holes eat me in this game?
-A: Yes—avoid direct paths and stay in open lanes until you grow.
-- Q: What mode should I pick for learning?
-A: FFA score mode is forgiving; practice routes without constant PvP.
+- Évite les trous noirs plus gros que toi et fuis par les avenues les plus larges pour ne pas te faire coincer.  
+- Planifie un itinéraire de croissance ; les détours inutiles font perdre de précieuses secondes sur le chronomètre.  
+- Une fois plus grand que tes rivaux, utilise les angles de rue et les impasses pour les piéger et les avaler.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment grandir vite au début de la partie ?  
+  R : Priorise les zones très denses en petits objets (plots, poubelles, piétons) avant de viser les voitures ou les bâtiments.
+
+- Q : Est‑ce que les trous noirs plus grands peuvent m’avaler ?  
+  R : Oui. Évite leurs trajectoires directes et reste dans des zones ouvertes jusqu’à ce que tu sois assez gros pour rivaliser.
+
+- Q : Quel mode choisir pour apprendre à jouer ?  
+  R : Le mode score en chacun‑pour‑soi est le plus indulgent : tu peux y tester des routes et des stratégies sans subir un PvP trop agressif.
 

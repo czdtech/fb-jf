@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: merge-bistro
-title: '[ZH TRANSLATION NEEDED] Merge Bistro'
+title: "《Merge Bistro》合成经营小餐馆"
 description: >-
-  [ZH TRANSLATION NEEDED] Merge Bistro is a cozy merge‑management — combine
-  ingredients, fulfill orders, and expand a charming bistro efficiently.
+  《Merge Bistro》是一款温馨的合成+餐厅经营游戏，你需要合成食材、完成顾客订单，并通过精细规划操作台与仓库，逐步扩大这家迷你小餐馆。
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/merge-bistro.png
 tags:
@@ -17,32 +16,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Merge Bistro blends merge‑2 mechanics with light restaurant management. Generate base items (flour, milk, eggs), merge into higher‑tier ingredients (dough, batter), then craft dishes to satisfy orders. Storage limits and production cooldowns force clever board economy.
+《Merge Bistro》将“合成玩法”（merge‑2）与轻度餐厅经营结合在一起。你从最基础的原料开始，比如面粉、牛奶、鸡蛋等，通过拖动合成把它们升级成面团、面糊等高阶食材，再按照订单需求制作成各种菜品。每个工作台与仓库格子都是有限资源，如何在生产冷却时间与订单节奏之间取得平衡，是玩好这款游戏的核心。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Queue reading: Prep items for upcoming orders to avoid idle waits.
-2.  [ZH TRANSLATION NEEDED] Board economy: Keep a lane for bases and a lane for high tiers; avoid clogging.
-3.  [ZH TRANSLATION NEEDED] Merge discipline: Only merge when you can immediately use or free space.
-4.  [ZH TRANSLATION NEEDED] Generators: Upgrade generators that feed the most common recipes first.
-5.  [ZH TRANSLATION NEEDED] Delivery timing: Turn in batches to trigger combo rewards.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **提前阅读订单队列：** 在生产之前先看清接下来几张订单需要哪些食材，优先准备高频出现的原料与半成品，减少顾客等待时间。
+2.  **合理规划棋盘经济：** 给基础原料留出固定区域，再为高阶食材腾出一条“上游通道”。不要让整个棋盘被零散的小件塞满，维持可操作空间比一味囤货更重要。
+3.  **克制合成：** 不要见到两个同类就立刻合成成更高等级，只有在确定马上会用到或需要释放空间时再升级，避免产生一堆暂时无用、又占地方的高阶物品。
+4.  **优先升级关键生成器：** 观察哪些基础原料在配方中出现得最频繁，例如面粉、牛奶之类，优先升级这些生成器，可以显著提升整体效率。
+5.  **把握交付时机：** 尽量凑齐一批订单再一并交付，有些版本在连续完成多张订单时会触发连击奖励或额外收入，让同一段操作获得更高回报。
 
-- Drag identical items together to merge; tap stations to craft; deliver via order panel.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 拖动两个相同的食材或物品即可进行合成；点击对应的烹饪工位或工作台，把所需食材送入制作菜品；完成后的餐点通过订单面板交付给顾客。
 
-- Q: My board is full — help?
+### 常见问题（FAQ）
+
+- **问：棋盘很快就被塞满了怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Scrap low‑value clutter, merge toward active orders, and expand storage when possible.
+  **答：** 可以优先处理当下订单相关的食材，清掉明显无用的低价值合成物，必要时舍弃一些长期不会用到的杂物，为关键原料和高阶成品腾出空间。
 
-- Q: What to upgrade first?
+- **问：应该优先升级哪些内容？**
   
-[ZH TRANSLATION NEEDED]   A: Base generators tied to staple recipes (e.g., flour/milk) for consistent flow.
+  **答：** 通常优先升级与“基础配方”相关的原料生成器，比如面粉、牛奶等，这样可以保证大部分订单都有稳定的供应，再根据后期菜单情况补充其它方向。
 
-- Q: Do I need to rush merges?
+- **问：需要一直快速合成吗？**
   
-[ZH TRANSLATION NEEDED]   A: No — plan to avoid dead‑ends; merging without purpose clogs the board.
-
+  **答：** 不需要。更推荐“先看订单再动手”：只有在明确知道升级后的物品能帮助完成订单，或能显著释放棋盘空间时再合成，避免把局面拖入杂乱、难以调度的死局。

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: truck-trials
-title: '[DE] Truck Trials'
+title: Truck Trials
 description: >-
-  [DE] Test your driving skills in Truck Trials, an off-road driving game where
-  you navigate challenging courses with powerful trucks.
+  Teste deine Fahrkünste in Truck Trials: Steuere mächtige Trucks über
+  Offroad‑Parcours, meistere Hindernisse und bring deinen Wagen ohne Überschlag
+  ins Ziel.
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
 thumbnail: /new-images/truck-trials.png
 tags:
@@ -15,28 +16,34 @@ score: 4.1/5 (1123 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
+
+Truck Trials ist ein Offroad‑Fahrspiel, bei dem du mit verschiedenen Trucks anspruchsvolle Parcours bewältigst. Anders als in Rennspielen zählt hier nicht Höchstgeschwindigkeit, sondern sauberes Fahren: Du musst Steigungen, Sprünge und Hindernisse meistern, ohne deinen Truck zu überschlagen oder zu stark zu beschädigen.
+
+### Spielstrategie & Walkthrough
+
+1. **Geduld statt Vollgas:** Nimm dir Zeit für jedes Hindernis. Vorsichtige Beschleunigung bringt dich weiter als blindes Durchdrücken.
+2. **Gewicht im Blick behalten:** Achte darauf, wie sich das Gewicht deines Trucks bei Hügeln und Schlaglöchern verlagert. Passe Gas und Bremsen so an, dass du nicht nach vorne oder hinten kippst.
+3. **Gänge / Differentialsperre nutzen:** Falls verfügbar, nutze niedrigere Gänge oder eine Differentialsperre für besonders steile oder rutschige Stellen, um mehr Traktion zu bekommen.
+4. **Strecken lernen:** Mit jeder Wiederholung verstehst du besser, wo du abbremsen, beschleunigen oder den Truck anheben musst.
+
+### Steuerung
+
+- **Beschleunigen/Bremsen:** `Pfeil nach oben` / `Pfeil nach unten` oder Pedal‑Buttons auf dem Bildschirm.
+- **Lenken/Neigen:** Seitliche Pfeile, Tasten oder Kippsteuerung je nach Version.
+
+### Häufige Fragen (FAQ)
 
 
+- **A:** The differential lock provides better traction on difficult terrains, helping you to get through muddy or slippery areas.
 
-### Detailed Game Introduction
+    - **Q: What is the differential lock for?**
 
-Truck Trials is an off-road driving game where players navigate challenging courses with trucks, focusing on skill and precision rather than speed. The goal is to reach the finish line without crashing or losing your cargo.
+- **A:** Drive slowly and be mindful of your truck's balance, especially when going over large obstacles or on steep inclines.
 
-### Gameplay Strategy & Walkthrough
+    - **Q: How do I avoid tipping over?**
+**Wie vermeide ich Überschläge?**  
+Geh vor größeren Hügeln vom Gas, halte den Truck möglichst waagerecht und reagiere mit kurzen Gegenbewegungen, wenn er sich zu stark nach vorn oder hinten neigt.
 
-1.  **[DE]** **Patience is Key:** This game requires careful maneuvering rather than high speed. Take your time to navigate obstacles.
-2.  **[DE]** **Balance and Weight Distribution:** Pay attention to how your truck's weight shifts, especially on inclines or uneven terrain, to avoid tipping over.
-3.  **[DE]** **Utilize Gears/Differential Lock:** If available, use lower gears or the differential lock for better control and traction in tough spots.
-4.  **[DE]** **Practice:** Practice will help you learn the physics and handling of different trucks and terrains.
-
-### Controls Guide
-
-*   **[DE]** **Arrow Keys/On-screen buttons:** Use the arrow keys or on-screen buttons for acceleration, braking, and steering.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: How do I avoid tipping over?**
-    *   **[DE]** **A:** Drive slowly and be mindful of your truck's balance, especially when going over large obstacles or on steep inclines.
-*   **[DE]** **Q: What is the differential lock for?**
-    *   **[DE]** **A:** The differential lock provides better traction on difficult terrains, helping you to get through muddy or slippery areas.
-
+**Wofür ist die Differentialsperre gut?**  
+Sie hilft dir, auf Schlamm, Sand oder steilen Rampen mehr Grip zu bekommen, indem sie die Kraft gleichmäßiger auf die Räder verteilt.

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: golf-orbit
-title: '[ES] Golf Orbit'
+title: "Golf Orbit"
 description: >-
-  [ES] Golf Orbit is a one‑tap launch‑and‑land golf — set launch angle, manage
-  spin, and ride planetary gravity for long, strategic flights.
+  Golf Orbit convierte el golf en un puzle de vuelo físico: fija el ángulo de
+  salida, gestiona el efecto y aprovecha la gravedad de los planetas para
+  conseguir golpes larguísimos y estratégicos.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/golf-orbit.png
 tags:
@@ -16,35 +17,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Golf Orbit transforma el golf en un puzle de trayectoria y física. Eliges un
+ángulo y una potencia de lanzamiento y luego ves cómo la bola describe un gran
+arco sobre terrenos variados y cuerpos planetarios. El efecto, los botes, el
+viento y los pozos de gravedad añaden profundidad: los mejores golpes
+aprovechan las pendientes, rozan obstáculos y encadenan rebotes para llegar a
+objetivos escondidos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle and power, then watch your ball arc across varied terrain and planetary bodies. Spin and bounce behavior, wind, and occasional gravity wells add depth: the best shots ride slopes, skim obstacles, and chain bounces to reach hidden targets.
+1. **Disciplina con el ángulo:** Los lanzamientos bajos maximizan el rodaje;
+   los arcos altos sirven para superar obstáculos pero pierden recorrido en el
+   suelo.
+2. **Control del efecto:** Usa backspin para que la bola se quede en islas
+   pequeñas y topspin para cabalgar laderas en bajada y ganar metros extra.
+3. **Gravedad y viento:** Apunta un poco contra el viento y, si hay pozos de
+   gravedad, aprovéchalos para hacer efectos "slingshot" alrededor de ellos.
+4. **Leer el terreno:** Planifica el primer bote, no solo el punto de caída; las
+   pendientes redirigen el impulso.
+5. **Rutas de Par:** Hasta que seas consistente, escoge rutas de dos golpes
+   seguros en lugar de intentar clears de un solo tiro muy arriesgados.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Angle discipline: Shallow launches maximize roll; higher arcs clear hazards but lose rollout.
-2.  **[ES]** Spin control: Apply backspin to stick on small islands; topspin to ride downhill slopes for extra distance.
-3.  **[ES]** Gravity/wind: Aim slightly upwind; use gravity wells to slingshot if present.
-4.  **[ES]** Terrain reads: Plan for first bounce, not just landing; slopes redirect momentum.
-5.  **[ES]** Par routing: Take safe two‑shot lines rather than risky one‑shot clears until consistent.
+- Toca para iniciar la barra de potencia y vuelve a tocar para fijar
+  potencia/ángulo; en algunas versiones puedes aplicar efecto deslizando.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap to start the power bar; tap again to set power/angle; apply spin via swipe (if supported).
+- **P: Mi bola siempre se pasa de largo, ¿cómo lo arreglo?**  
+  **R:** Baja el ángulo de salida y reduce la potencia; añade backspin para
+  detenerte en greens pequeños.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Cuál es un buen ángulo "para todo"?**  
+  **R:** Los ángulos medio‑bajos (25–35°) con topspin para que la bola ruede
+  suelen funcionar muy bien en hoyos abiertos.
 
-- Q: My ball always overshoots — how to fix?
-
-A: Lower the launch angle and reduce power; use backspin to stop on small greens.
-
-- Q: What’s the best all‑around angle?
-
-A: Medium‑low angles (25–35°) with topspin for roll are consistent on open holes.
-
-- Q: Do gravity wells actually help?
-
-A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
-
+- **P: ¿Los pozos de gravedad realmente ayudan?**  
+  **R:** Sí. Entra en ellos de forma tangencial para salir disparado con más
+  velocidad; merece la pena practicar el timing.

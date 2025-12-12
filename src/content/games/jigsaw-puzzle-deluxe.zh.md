@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: jigsaw-puzzle-deluxe
-title: '[ZH TRANSLATION NEEDED] Jigsaw Puzzle Deluxe'
+title: 《Jigsaw Puzzle Deluxe》豪华拼图
 description: >-
-  [ZH TRANSLATION NEEDED] The classic jigsaw puzzle experience. Choose from a
-  huge library of beautiful images and piece them together. With multiple
-  difficulty levels, it's perfect for both beginners and experts.
+  《Jigsaw Puzzle
+  Deluxe》把经典拼图体验搬上屏幕，你可以从大量精美图集中选择喜欢的图片，按不同难度拆分为碎片，一块块拼回完整画面，适合新手和老手。
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
 thumbnail: /new-images/jigsaw-puzzle-deluxe.png
 tags:
@@ -18,31 +17,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jigsaw Puzzle Deluxe brings the timeless and relaxing activity of solving jigsaw puzzles to your screen. The game offers a vast collection of beautiful, high-quality images across various categories. Players can choose their preferred picture and select a difficulty level, which determines how many pieces the puzzle is divided into. The goal is to correctly assemble all the scattered pieces to recreate the original image.
+《Jigsaw Puzzle Deluxe》带来了经典且舒缓的拼图体验。游戏内收录了大量高清图片，涵盖风景、城市、动物等不同主题。你可以先选择一张喜欢的图片，再根据自己的习惯选择难度——难度越高，图片被切分的碎片就越多。目标很简单：在虚拟桌面上重新拼合散落的碎片，还原出完整的原始图像。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Build the Frame First:** A classic and highly effective jigsaw strategy is to start by finding all the edge and corner pieces. Assembling the border of the puzzle first provides a clear frame within which you can work.
-2.  [ZH TRANSLATION NEEDED] **Sort by Color and Pattern:** Once the frame is built, look at the remaining pieces. Sort them into groups based on their dominant colors or distinct patterns. If the picture has a blue sky, gather all the blue pieces together.
-3.  [ZH TRANSLATION NEEDED] **Focus on a Section:** Instead of trying to place pieces randomly, focus on completing one specific area of the picture at a time. For example, try to assemble a single object or building within the image.
-4.  [ZH TRANSLATION NEEDED] **Use the Preview:** If you get stuck or forget what the final image looks like, use the "Preview" or "Hint" button to get a quick look at the completed picture for reference.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **从边框开始永远不会错**：最传统也最有效的策略便是优先寻找所有带有直边的拼图块，先把四个角和整圈边框拼出来，为后续拼图打好“框架”。  
+2.  **按颜色和纹理分类**：边框完成后，可以按主色调或图案特征对剩余碎片进行归类，例如把蓝天部分、草地部分、建筑物、人物等分开摆放，便于快速寻找合适的拼图块。  
+3.  **聚焦局部区域**：不要在整个桌面上到处乱试，把精力集中在某一块区域，比如先拼完画面中最显眼的建筑、动物或物体。局部完成之后，剩下的碎片会更容易归位。  
+4.  **善用预览与提示**：如果一时记不清成品图案，可以使用“预览”功能快速看一眼完整图片，重新校准方向；在完全卡住时再考虑适度使用提示功能。  
 
-[ZH TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
+### 操作说明
 
-*   **Move a Piece:** Click and hold on a puzzle piece and drag it to the desired position on the board. Release to drop it into place.
-*   **Rotate a Piece (if applicable):** Some difficulty modes may include rotated pieces. There will typically be a button or keyboard key to rotate a selected piece.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple drag-and-drop controls.
+- **移动拼图块**：用鼠标按住某块拼图并拖动到桌面上的目标位置，松开即可放置。  
+- **旋转拼图块（若本难度开启）**：某些高难度模式会启用旋转机制，此时可通过屏幕按钮或指定键盘按键对选中碎片进行旋转。  
 
-*   **Q: How do I choose a puzzle?**
-     *   **A:** You can browse the in-game gallery and click on any image you find interesting. After selecting an image, you will usually be prompted to choose a difficulty level (number of pieces).
+### 常见问题（FAQ）
 
-*   **Q: What is the best way to start a puzzle?**
-     *   **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.
+*   **Q: 如何选择不同的拼图图案？**  
+    *   **A:** 进入游戏后可以浏览图集，点击任意一张图片即可开始拼图，然后选择你想要的难度（碎片数量）。  
 
-*   **Q: The pieces are all jumbled up. How can I organize them?**
-     *   **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.
+*   **Q: 开局最推荐的拼图思路是什么？**  
+    *   **A:** 通常先找出所有带直边的碎片，拼出完整边框，再根据色块和图案对内部碎片分组，会比从中间随便拼起轻松很多。  
 
+*   **Q: 桌面太乱怎么办？**  
+    *   **A:** 可以把碎片拖动到虚拟桌面的边缘或角落，留出一块“工作区”，同时把颜色或纹理相近的碎片集中到一起，方便后续查找。

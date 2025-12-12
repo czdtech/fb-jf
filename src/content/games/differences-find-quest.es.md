@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: differences-find-quest
-title: '[ES] Differences Find Quest'
+title: "Differences Find Quest"
 description: >-
-  [ES] Differences Find Quest is a detailed spot‑the‑difference — scan scenes,
-  mark discrepancies, and use hints wisely.
+  Differences Find Quest es un buscador de diferencias detallado: compara
+  escenas con calma, marca las discrepancias y usa las pistas con cabeza.
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/differences-find-quest.png
 tags:
@@ -16,36 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Differences Find Quest te propone comparar dos imágenes casi idénticas y
+localizar cambios sutiles: objetos que faltan, colores cambiados, patrones
+invertidos o variaciones de tamaño. En los niveles avanzados aumentan tanto el
+número de diferencias como los ángulos engañosos y, a menudo, hay una ligera
+presión de tiempo.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Differences Find Quest challenges you to compare two images and spot subtle changes: missing objects, color swaps, flipped patterns, or size variations. Later levels add more differences, trick angles, and gentle time pressure.
+1.  **Escaneo por zonas:** Divide mentalmente la imagen en 4–6 áreas y recorre
+    cada una de forma sistemática para no dejar huecos sin revisar.
+2.  **Mira los bordes:** Muchas diferencias se concentran en contornos, sombras y
+    texturas repetidas (tejas, ladrillos, hojas, etc.).
+3.  **Usa el zoom si existe:** Acércate para comprobar detalles pequeños como
+    botones, patrones o líneas finas.
+4.  **Reserva las pistas:** Guarda las ayudas para las 1–2 últimas diferencias
+    que se resistan, cuando ya hayas repasado toda la escena.
+5.  **Haz pausas cortas:** Si llevas rato mirando la misma zona, aparta la vista
+    unos segundos y vuelve; te ayudará a recuperar la atención a los detalles.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Grid scan: Divide the image into 4–6 zones and sweep each zone methodically.
-2.  **[ES]** Look for edges: Differences cluster at borders, shadows, and repeated textures.
-3.  **[ES]** Zoom if possible to check small details.
-4.  **[ES]** Save hints for the final 1–2 stubborn differences.
-5.  **[ES]** Take short breaks to reset your visual focus.
+- Toca o haz clic sobre la zona donde veas una diferencia en cualquiera de las
+  dos imágenes; los fallos pueden restar tiempo o puntuación.
+- Utiliza las pistas con moderación; algunos modos penalizan el uso excesivo.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap differences on either image; wrong taps may cost time.
-- Use hints sparingly; some modes penalize excessive hints.
+- **P: Me queda solo una diferencia y no la encuentro, ¿qué hago?**  
+  **R:** Aléjate un momento de la pantalla, luego vuelve y revisa sobre todo
+  bordes y patrones repetidos. Si aun así no la ves, es buen momento para usar
+  una pista.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Pierdo tiempo por cada fallo?**  
+  **R:** En muchos modos, los clics erróneos reducen el tiempo o la puntuación,
+  así que es mejor señalar solo cuando estés razonablemente seguro.
 
-- Q: I’m stuck on the last difference — what now?
-
-A: Step back, re‑scan edges and repeated patterns, then use a hint if available.
-
-- Q: Do I lose time for mistakes?
-
-A: Many modes deduct time or score for mis‑clicks; be deliberate.
-
-- Q: Any trick for tiny color shifts?
-
-A: Squint slightly or zoom — it can reveal subtle contrast differences.
-
+- **P: ¿Algún truco para cambios muy pequeños de color?**  
+  **R:** Entornar un poco los ojos o usar zoom ayuda a resaltar diferencias de
+  contraste que a simple vista pasan desapercibidas.

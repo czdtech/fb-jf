@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pirates-match-3
-title: '[KO] Pirates Match 3'
+title: Pirates Match 3 해적 매치3
 description: >-
-  [KO] Ahoy, matey! Set sail on a puzzle adventure in Pirates Match 3. Swap
-  pirate-themed gems like skulls, anchors, and coins to make matches of three or
-  more and claim your treasure.
+  해적 깃발, 닻, 금화 등 해적 테마 아이콘을 맞바꿔 3개 이상 맞추는 퍼즐 게임입니다. 특수 조합으로 파워업을 만들고, 제한된 이동 횟수
+  안에 스테이지 목표를 달성해 보세요.
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/pirates-match-3.jpg
@@ -19,37 +18,70 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Pirates Match 3*는 해적선을 배경으로 한 클래식 3매치 퍼즐 게임입니다.
+보물 지도가 펼쳐진 듯한 보드 위에서 해골, 닻, 선박 조타륜, 금화
+같은 해적 아이콘을 서로 맞바꿔 같은 모양 3개 이상을 한 줄로
+만들어야 합니다.
 
-### Detailed Game Introduction
+각 스테이지에는 목표 점수 달성, 특정 타일 제거, 특별 아이템을
+바닥까지 떨어뜨리기 등 다양한 목표가 있으며, **제한된 이동 횟수
+안에 목표를 모두 달성해야 클리어**할 수 있습니다.
 
-Pirates Match 3 is a classic match-3 puzzle game with a swashbuckling pirate theme. Players dive into a world of treasure maps and pirate booty, swapping colorful, pirate-themed icons like skulls, anchors, ship wheels, and coins. The goal is to create lines of three or more identical items to complete level-specific objectives, such as reaching a target score or clearing special tiles, all within a limited number of moves.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **파워업 생성부터 노리기**  
+   어려운 스테이지를 돌파하는 핵심은 세 칸 매치가 아니라,
+   네 칸 이상을 이용해 **특수 아이템(파워업)**을 만드는 것입니다.
+   
+    - **4개 매치**: 한 줄을 통째로 지우는 줄삭제 아이템을 만듭니다.  
+    - **5개 매치(L 또는 T자)**: 주변을 크게 폭파하는 폭탄을 생성해
+     넓은 범위를 한 번에 지울 수 있습니다.  
+    - **5개 일직선 매치**: 특정 색을 보드 전체에서 제거하는
+     특수 아이템(보물 상자 등)을 만듭니다.
 
-1.  **[KO]** **Create Power-ups:** The key to clearing difficult levels is to create special items by matching more than three pieces.
-    *   **[KO]** **Match 4:** Creates a line-clearing item that will destroy an entire row or column.
-    *   **[KO]** **Match 5 (L or T shape):** Creates a bomb that explodes and clears a large area of surrounding items.
-    *   **[KO]** **Match 5 (in a line):** Creates a special item (like a treasure chest) that can clear all items of a single color from the board.
+2. **파워업끼리 조합하기**  
+   파워업 두 개를 서로 교환하면 매우 강력한 효과를 발동할 수
+   있습니다. 줄삭제 + 폭탄 조합은 넓은 십자 형태를 지우는 등,
+   스테이지 목표를 단번에 크게 진행시킬 수 있습니다.
 
-2.  **[KO]** **Combine Power-ups:** For maximum effect, try to swap two power-ups with each other. This will trigger a massive board-clearing combo that can help you complete objectives much faster.
-3.  **[KO]** **Focus on the Objective:** Always be aware of the level's goal. If you need to break all the wooden planks in the background, focus your matches on those specific tiles. If you need to drop an item to the bottom, clear the path beneath it.
-4.  **[KO]** **Plan Your Moves:** With a limited number of moves per level, every swap counts. Look for moves that will create a cascade or set up a future power-up combination.
+3. **항상 스테이지 목표를 최우선으로**  
+   점수만 올리는 매치보다, 실제 목표에 직접 관여하는 매치가
+   더 중요합니다. 나무판이나 쇠사슬을 부숴야 한다면 그 타일
+   위에서 매치를 만들고, 특정 아이템을 바닥으로 내려야 한다면
+   그 아래쪽을 중심으로 지워 길을 만들어야 합니다.
 
-### Controls Guide
+4. **이동 횟수를 아끼는 한 수를 찾기**  
+   이동 횟수가 제한되어 있으므로, 한 번의 교환으로 연쇄 반응이나
+   파워업 생성까지 동시에 노릴 수 있는 수를 찾는 것이 좋습니다.
+   다음 몇 턴까지 내다보며, 단순한 3개 매치보다 큰 효과를 내는
+   수를 우선적으로 선택해 보세요.
 
-The game is played with simple mouse or touch controls.
+### 조작 가이드
 
-*   **[KO]** **Swap Items:** Click and drag an item to swap it with an adjacent one. A swap is only valid if it creates a match of three or more.
+게임은 단순한 마우스/터치 조작으로 진행됩니다.
 
-### Frequently Asked Questions (FAQ)
+- **아이콘 교환**: 원하는 조각을 클릭·드래그해 상하좌우 인접한
+  조각과 위치를 맞바꿉니다. 이때 3개 이상 매치가 만들어지지
+  않으면 교환이 취소됩니다.
 
-*   **[KO]** **Q: How do I break the wooden planks or chains?**
-    *   **[KO]** **A:** You must make a match on top of the plank or include the chained item in a match. It may take more than one match to fully clear some obstacles.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What is the best power-up combination?**
-    *   **[KO]** **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
+- **Q: 나무판이나 쇠사슬 같은 장애물은 어떻게 부수나요?**  
+  **A:** 해당 타일 위에서 매치를 만들거나, 그 위를 폭탄·줄삭제
+  파워업의 범위에 포함시키면 서서히 깨집니다. 일부 장애물은
+  여러 번의 타격이 필요할 수 있습니다.
 
-*   **[KO]** **Q: What happens if I run out of moves?**
-    *   **[KO]** **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
+    - **Q: 파워업을 언제 써야 할지 모르겠어요.**  
 
+- **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
+
+    - **Q: What happens if I run out of moves?**
+
+- **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
+
+    - **Q: What is the best power-up combination?**
+  **A:** 스테이지 목표와 가장 관련 있는 위치에서 사용하는 것이
+  좋습니다. 예를 들어, 바닥까지 내려야 하는 보물이 있다면 그
+  위쪽 열을 중심으로 파워업을 터뜨려 길을 열어 주세요.

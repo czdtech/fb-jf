@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: rock-paper-scissors-dojo
-title: '[KO] Rock Paper Scissors Dojo'
+title: "Rock Paper Scissors Dojo 가위바위보 도장"
 description: >-
-  [KO] Rock Paper Scissors Dojo is a quirky duel — read patterns, mix
-  strategies, and outwit opponents in best‑of series.
+  가위바위보를 심리전으로 확장한 대전 게임입니다. 상대의 패턴을
+  읽고, 스스로는 읽히지 않도록 전략을 섞어 베스트 오브 매치에서
+  승리를 노려 보세요.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
 thumbnail: /new-images/rock-paper-scissors-dojo.png
 tags:
@@ -16,34 +17,64 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Rock Paper Scissors Dojo*는 단순한 가위바위보를 가볍지만 깊이 있는
+심리전으로 확장한 게임입니다. 여러 판을 치르는 시리즈(베스트 오브
+방식) 동안 상대가 승리 후에 같은 손을 반복하는지, 패배 후에 손을
+바꾸는지 등 **습관과 패턴을 읽어내고**, 그에 맞춰 자신의 선택을
+조정해야 합니다.
 
-Rock Paper Scissors Dojo turns RPS into a light mind‑game. Across best‑of matches, you’ll try to detect tendencies (e.g., opponents repeat after wins, switch after losses) and counter with mixed strategies that avoid being predictable.
+완전히 운에 맡기는 대신, 적당한 랜덤성과 상대 심리 읽기를 섞어
+승률을 올리는 것이 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Baseline mix: Use a balanced random mix to avoid exploitation early.
-2.  **[KO]** Pattern spotting: Track opponent streaks — repeaters vs switchers.
-3.  **[KO]** Counter‑adapt: If they repeat after wins, pre‑counter next round; if they switch after losses, anticipate the switch.
-4.  **[KO]** Meta resets: Throw an occasional off‑pattern choice to reset reads.
-5.  **[KO]** Series math: In best‑of N, tighten play near deciding rounds.
+1. **기본은 균형 잡힌 손 분배**  
+   초반에는 특정 손만 반복해서 내기보다, 가위·바위·보를 최대한
+   균등하게 섞어 사용해 상대에게 패턴을 읽히지 않도록 하는 것이
+   좋습니다.
 
-### Controls Guide
+2. **상대의 반복 패턴 관찰하기**  
+   어떤 플레이어는 이기면 같은 손을 반복해서 내고, 지면 반드시
+   다른 손으로 바꾸는 경향이 있습니다. 몇 판 동안 상대의 행동을
+   지켜보면 이런 습관이 눈에 들어오기 시작합니다.
 
-- Pick rock/paper/scissors each round; local two‑player often available.
+3. **패턴에 대한 역카운터 준비하기**  
+   상대가 승리 후 같은 손을 반복하는 타입이라면, 다음 판에는 그
+   손을 이길 수 있는 손을 미리 준비해 두세요. 반대로, 패배 후 항상
+   손을 바꾸는 타입이라면 "무엇으로 바꿀지"를 예측해 한 단계 앞서
+   대응할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+4. **가끔은 의도적으로 패턴 깨기**  
+   자신도 어느 순간 특정 루틴에 갇히기 쉽습니다. 상대가 내 패턴을
+   읽었다고 느껴지면, 일부러 전혀 다른 손을 꺼내 패턴을 초기화해
+   두는 것도 중요합니다.
 
-- Q: Isn’t RPS random?
+5. **시리즈 막판일수록 신중하게**  
+   베스트 오브 형식에서는 마지막 한두 판의 승패가 전체 결과를
+   좌우합니다. 이때는 정보가 충분히 쌓여 있으므로, 지금까지 본
+   상대의 경향을 바탕으로 가장 합리적인 선택을 하세요.
 
-A: Humans show biases; exploiting them raises win rate over many rounds.
+### 조작 가이드
 
-- Q: Any unbeatable strategy?
+- **손 선택**: 각 라운드에서 화면에 표시된 가위/바위/보 아이콘 중
+  하나를 클릭하거나 터치해 선택합니다.  
+- **2인용 모드**: 일부 버전에서는 한 기기에서 두 플레이어가 나눠
+  선택할 수 있는 로컬 2인용 모드를 제공합니다.
 
-A: No — but balanced mixes and quick adaptation are robust.
+### 자주 묻는 질문(FAQ)
 
-- Q: Two‑player?
+- **Q: 가위바위보는 결국 운 아닌가요?**  
+  **A:** 한두 판만 보면 운의 영향이 크지만, 여러 판을 치르다 보면
+  사람마다 반복되는 습관과 편향이 드러납니다. 이런 패턴을 읽고
+  대응하면 장기적으로 승률을 올릴 수 있습니다.
 
-A: Many builds include local 2P on one device.
+- **Q: 절대 지지 않는 전략이 있나요?**  
+  **A:** 이론적으로는 완벽한 무적 전략은 없습니다. 다만 손을
+  고르게 섞어 내는 기본 전략과, 상대 패턴에 맞춘 빠른 적응을
+  함께 사용하면 비교적 안정적인 성과를 낼 수 있습니다.
 
+- **Q: 친구와도 함께 할 수 있나요?**  
+  **A:** 네. 많은 버전이 같은 기기에서 즐기는 로컬 2인용 모드를
+  지원하며, 번갈아 손을 선택해 대전할 수 있습니다.

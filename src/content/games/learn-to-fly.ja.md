@@ -1,42 +1,36 @@
 ---
+title: "Learn To Fly"
+description: "ペンギン発射アップグレードゲーム：発射角度を調整し、滑空してブーストし、現金を獲得し、毎日さらに遠くへ飛ぶためのパーツを購入します。"
+iframeSrc: "https://ad-freegames.github.io/flash/game/learn-to-fly.html"
+thumbnail: "/new-images/learn-to-fly.jpg"
+urlstr: "learn-to-fly"
+score: "4.6/5  (132 votes)"
+tags: ["arcade", "upgrade"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: learn-to-fly
-title: '[JA TRANSLATION NEEDED] Learn To Fly'
-description: >-
-  [JA TRANSLATION NEEDED] Penguin launch upgrade game: adjust launch angle,
-  glide and boost, earn cash, and buy parts to fly farther each day.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
-thumbnail: /new-images/learn-to-fly.jpg
-tags:
-  - arcade
-  - upgrade
-score: 4.6/5  (132 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Learn to Flyは、反復的な改善についての距離ランチャーです。ペンギンをランプから発射し、滑空を最大化するためにピッチを制御し、ブースターを控えめに使用します。収益により、より良いグライダー、ロケット、ペイロードを購入し、日々にわたって新しい目標とチャレンジモードをアンロックします。
 
+### 遊び方
+- 発射角度を設定します。速度を維持するために最適なピッチ近くを保ちます。
+- 速度が低下した場合、または障害物をクリアするためにのみブースターをトリガーします。
+- 最初に速度と滑空のアップグレードに費やし、次にユーティリティに費やします。
 
-### Overview
-[JA TRANSLATION NEEDED] Learn to Fly is a distance launcher about iterative improvement. Launch a penguin down a ramp, control pitch to maximize glide, and use boosters sparingly. Earnings buy better gliders, rockets, and payloads, unlocking new goals and challenge modes across days.
+### 操作方法
+- 矢印キーでピッチを調整します。ブースターのためのスペース/キー（ホスト依存）。
 
-### How to Play
-- Set launch angle; keep pitch near optimal to maintain speed.
-- Trigger boosters only when speed drops or to clear obstacles.
-- Spend on speed and glide upgrades first, then utility.
+### ヒント
+- 浅いダイブは速度を取り戻します。穏やかな上昇は距離を延ばします。
+- 抗力があなたを遅くする後期飛行のために燃料を節約します。
+- 毎日の目標は効率的なアップグレード順序を導きます。
 
-### Controls
-- Arrow keys adjust pitch; space/keys for boosters (host dependent).
-
-### Tips
-- Shallow dives regain speed; gentle climbs extend distance.
-- Save fuel for late‑flight when drag slows you down.
-- Daily goals guide efficient upgrade order.
-
-### FAQ
-- Q: What upgrades give the best early returns?  
-[JA TRANSLATION NEEDED]   A: Base speed and glide efficiency outperform fancy extras early.
-- Q: How do I hit distance targets consistently?  
-[JA TRANSLATION NEEDED]   A: Maintain optimal pitch and reserve boosts for late flight.
-- Q: Is there a hard cap on days?  
-[JA TRANSLATION NEEDED]   A: You can keep improving until targets are met; challenge modes extend play.
-
+### よくある質問 (FAQ)
+- **Q: 早期に最良のリターンを与えるアップグレードは何ですか？**  
+  A: ベース速度と滑空効率は、早期に豪華なエクストラを上回ります。
+- **Q: 距離ターゲットに一貫してヒットするにはどうすればよいですか？**  
+  A: 最適なピッチを維持し、後期飛行のためのブーストを予約します。
+- **Q: 日数にハードキャップはありますか？**  
+  A: ターゲットが満たされるまで改善を続けることができます。チャレンジモードがプレイを拡張します。

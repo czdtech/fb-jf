@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: minesweeper-1000
-title: '[DE] Minesweeper 1000'
+title: "Minesweeper 1000"
 description: >-
-  [DE] Minesweeper 1000 refreshes classic minesweeper — read number logic, flag
-  bombs, and clear huge boards with efficient techniques.
+  Minesweeper 1000 frischt den Klassiker auf: Lies die Zahlenlogik, markiere
+  Bomben und räume riesige Felder mit effizienten Techniken.
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/minesweeper-1000.png
 tags:
@@ -15,35 +15,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Minesweeper 1000 ist eine moderne Variante des klassischen Logikpuzzles. Du
+musst alle sicheren Felder aufdecken, ohne eine Mine zu sprengen. Jede
+aufgedeckte Zahl zeigt an, wie viele Minen das Feld berühren – inklusive
+Diagonalen. Auf großen Brettern sind Mustererkennung, schnelles Chorden und
+möglichst wenig Raten entscheidend.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Minesweeper 1000 is a modern take on the classic logic puzzle. Uncover all safe tiles without detonating mines: each revealed number shows how many bombs touch that tile (including diagonals). Larger boards emphasize pattern recognition, fast chording, and safe guessing minimization.
+1.  **Grundmuster lernen**  
+    Beherrsche typische Muster wie 1-2, 1-1 und 1-2-1 an Kanten, um Minen
+    eindeutig zu bestimmen.
 
-### Gameplay Strategy & Walkthrough
+2.  **Chorden nutzen**  
+    In vielen Versionen kannst du auf eine Zahl klicken, sobald alle
+    angrenzenden Minen markiert sind – die übrigen Nachbarfelder werden dann
+    automatisch aufgedeckt und du sparst viele Einzelklicks.
 
-1.  **[DE]** Core patterns: Master 1-2, 1-1, and 1-2-1 edge patterns to place flags deterministically.
-2.  **[DE]** Chording: On many builds, clicking a number with all its mines flagged opens surrounding safe tiles; abuse this for speed.
-3.  **[DE]** Probability: When forced to guess, choose corners with more unknown neighbors to maximize information.
-4.  **[DE]** Frontier focus: Solve along the boundary between known and unknown; avoid random digs deep in fog.
-5.  **[DE]** Flag hygiene: Only flag when certain; otherwise keep candidate notes (if the build supports marks).
+3.  **Wahrscheinlichkeit abwägen**  
+    Wenn du wirklich raten musst, wähle Felder, die möglichst viele neue
+    Informationen aufdecken, etwa an großen unbekannten Fronten statt in Ecken.
 
-### Controls Guide
+4.  **Am Rand der Frontier arbeiten**  
+    Löse das Feld an der Grenze zwischen bekannten und unbekannten Feldern.
+    Vermeide Blindklicks mitten im „Nebel“.
 
-- Left‑click: reveal. Right‑click: flag. Middle/Chord: open around a satisfied number (implementation‑dependent). Quick restart from the menu.
+5.  **Flaggen mit Disziplin**  
+    Setze Flaggen nur, wenn du dir sicher bist. Wenn das Spiel es erlaubt,
+    nutze zusätzliche Markierungen für Kandidaten.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I’m stuck with a 50/50 — what now?
+- **Linksklick:** Feld aufdecken.  
+- **Rechtsklick:** Mine markieren.  
+- **Chord/Mittenklick:** Alle nicht markierten Nachbarfelder einer erfüllten
+  Zahl aufdecken (falls unterstützt).  
+- **Neustart:** Über das Menü.
 
-A: Scan for overlooked patterns elsewhere or pick the tile that reveals the largest new frontier if you must guess.
+### FAQ
 
-- Q: What does chording do?
+- **F: Ich stecke in einer 50/50-Situation – was jetzt?**  
+  **A:** Suche zuerst nach übersehenen Mustern an anderer Stelle. Wenn du
+  wirklich raten musst, wähle das Feld, das die größte neue Front öffnet.
 
-A: If a number’s adjacent flags equal its count, chording reveals all its other neighbors at once.
+- **F: Was bringt Chorden genau?**  
+  **A:** Wenn die Anzahl gesetzter Flaggen der Zahl entspricht, deckt ein
+  Chord-Klick alle übrigen Nachbarfelder auf – ein enormer
+  Geschwindigkeitsvorteil.
 
-- Q: Any tip for early game?
-
-A: Start in the center to maximize opening cascades; corners give less information.
-
+- **F: Tipps für den Start?**  
+  **A:** Klicke meist eher in der Feldmitte als in Ecken, um größere
+  Anfangsöffnungen zu erhalten.

@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: wordle
-title: '[ES] Wordle'
+title: "Wordle - Adivina la palabra del día"
 description: >-
-  [ES] Wordle is a popular daily word puzzle game where players have six
-  attempts to guess a five-letter word, using color-coded feedback to deduce the
-  correct letters and their positions in this addictive vocabulary challenge.
-iframeSrc: 'https://ext.minijuegos.com/wordle/'
-thumbnail: /new-images/wordle.jpg
+  Wordle es un popular rompecabezas diario en el que tienes seis intentos para
+  adivinar una palabra de cinco letras, usando pistas de colores para deducir
+  las letras correctas y su posición en este adictivo reto de vocabulario.
+iframeSrc: "https://ext.minijuegos.com/wordle/"
+thumbnail: "/new-images/wordle.jpg"
 tags:
   - word
   - puzzle
@@ -16,36 +16,36 @@ score: 4.8/5  (515 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-
-
-
-
 ### Game Introduction
 
-"Wordle" is a popular daily word puzzle game where players have six attempts to guess a five-letter word, using color-coded feedback to deduce the correct letters and their positions. This addictive vocabulary challenge game has become globally popular due to its simple rules and daily puzzle design.
+Wordle es un rompecabezas diario de palabras en el que dispones de seis intentos para adivinar una palabra de cinco letras. Cada intento se evalúa con colores que indican qué letras están en la palabra y si están en la posición correcta. Su combinación de reglas sencillas y un único puzzle al día lo ha convertido en un fenómeno global.
 
 ### Gameplay Strategy
 
-1.  **[ES]** **First Word Choice**: Choose words containing common vowels (A, E, I, O, U) as starting words.
-2.  **[ES]** **Letter Frequency**: Prioritize using the most common letters in English, such as R, S, T, L, N, etc.
-3.  **[ES]** **Position Reasoning**: Based on yellow and green hints, reasonably deduce the correct positions of letters.
-4.  **[ES]** **Elimination Strategy**: Use gray letter information to eliminate impossible combinations.
-5.  **[ES]** **Vocabulary Building**: Expand vocabulary and familiarize yourself with more five-letter words.
+1.  **Primera palabra:** empieza con palabras que incluyan varias vocales y consonantes comunes.
+2.  **Frecuencia de letras:** prioriza letras frecuentes como R, S, T, L, N, etc., en tus primeros intentos.
+3.  **Razona posiciones:** usa la información de casillas verdes y amarillas para deducir dónde pueden ir las letras restantes.
+4.  **Estrategia de descarte:** utiliza las letras grises para eliminar combinaciones imposibles y reducir el espacio de búsqueda.
+5.  **Amplía tu vocabulario:** cuantos más términos de cinco letras conozcas, más fácil será encontrar buenas conjeturas.
 
 ### How to Play
 
-*   **[ES]** **Input Letters**: Use keyboard or on-screen keyboard to input five letters.
-*   **[ES]** **Submit Guess**: Press Enter key to submit the current word guess.
-*   **[ES]** **View Feedback**: Observe color hints: Green (correct position), Yellow (exists but wrong position), Gray (doesn't exist).
-*   **[ES]** **Delete Letters**: Use backspace key to delete input letters.
+*   **Introducir letras:** usa el teclado físico o el teclado en pantalla para escribir una palabra de cinco letras.
+*   **Enviar intento:** pulsa `Enter` para validar la palabra.
+*   **Ver las pistas:** observa los colores: verde (letra correcta en sitio correcto), amarillo (letra correcta en lugar equivocado), gris (letra ausente).
+*   **Corregir:** usa `Backspace` para borrar letras antes de enviar.
 
 ### Frequently Asked Questions
 
-1.  **[ES]** **Q: Can I only play once per day?**
-**A**: Traditional Wordle has one puzzle per day, but many versions offer unlimited mode or historical puzzles.
-2.  **[ES]** **Q: What are good starting words?**
-**A**: Words containing multiple vowels like "ADIEU," "AUDIO," "AROSE" are good choices.
-3.  **[ES]** **Q: Can I use proper nouns?**
-**A**: Usually only accepts common nouns from standard dictionaries, not proper nouns or plural forms.
-4.  **[ES]** **Q: How can I improve my word-guessing skills?**
-**A**: Play more often, learn common letter combinations and word patterns, and expand your vocabulary.
+1.  **Q: ¿Solo puedo jugar una vez al día?**  
+    **A:** En el Wordle “clásico” sí, hay un puzzle al día, pero muchas variantes ofrecen modo ilimitado o archivos de retos pasados.
+
+2.  **Q: Qué palabras iniciales son buenas?**  
+    **A:** Suele recomendarse empezar con palabras que contengan varias vocales y consonantes frecuentes.
+
+3.  **Q: Acepta nombres propios o plurales?**  
+    **A:** Normalmente solo se aceptan palabras comunes; los nombres propios suelen estar excluidos y el tratamiento de plurales depende del diccionario de cada versión.
+
+4.  **Q: Cómo puedo mejorar?**  
+    **A:** Juega con regularidad, aprende patrones frecuentes de letras y apunta las palabras útiles que vayas descubriendo.
+

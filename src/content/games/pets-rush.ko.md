@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pets-rush
-title: '[KO] Pets Rush'
+title: Pets Rush 펫 러시
 description: >-
-  [KO] A fast-paced and colorful match-3 puzzle! Swap cute pets to make matches
-  of three or more, create powerful combos, and clear the board before the pets
-  reach the top.
+  귀여운 동물 블록으로 즐기는 실시간 3매치 퍼즐 게임입니다. 아래에서 끊임없이 올라오는 펫 블록이 화면 위까지 닿기 전에 재빠르게 매치를
+  만들어 지워 보세요.
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/pets-rush.jpg
@@ -19,32 +18,70 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Pets Rush*는 귀여운 동물 아이콘으로 구성된 빠른 템포의 3매치 퍼즐
+게임입니다. 일반적인 스테이지형 퍼즐과 달리, 이 게임은 **끝까지
+버티는 생존 모드**에 가깝습니다.
 
-Pets Rush is a fast-paced and exciting match-3 puzzle game with an adorable animal theme. Unlike traditional level-based match-3 games, this is a game of survival. A wall of colorful pet blocks continuously rises from the bottom of the screen, and you must frantically make matches to keep it from reaching the top. Swap adjacent pets to create lines of three or more, trigger combos, and clear the board for as long as you can to achieve a high score.
+화면 아래에서 다채로운 펫 블록이 끊임없이 위로 밀려 올라오며,
+어느 한 줄이라도 화면 맨 위에 닿는 순간 게임이 즉시 종료됩니다.
+플레이어는 인접한 블록을 맞바꿔 3개 이상 같은 동물을 한 줄로 만들고,
+연쇄 콤보를 유도해 보드를 최대한 깨끗하게 유지해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Stay Ahead of the Rise:** Your primary goal is to prevent any column from reaching the top of the screen. Always prioritize making matches in your tallest columns to push them back down.
-2.  **[KO]** **Look for Combos:** The most effective way to clear the board is to set up chain reactions. When you make a match, new pets will fall into place. Look for opportunities where clearing one line will cause another match to form automatically. These combos clear more space and award more points.
-3.  **[KO]** **Think Fast, Act Fast:** The wall of pets will rise faster as the game progresses. You need to quickly identify and execute matches to keep up with the increasing speed.
-4.  **[KO]** **Special Blocks:** Keep an eye out for any special blocks or power-ups that might appear. These can help you clear large sections of the board in a pinch.
+1. **먼저 가장 높은 열부터 정리하기**  
+   목표는 어떤 열도 화면 상단에 닿지 않도록 막는 것입니다.
+   항상 보드에서 가장 높이 쌓인 열을 확인하고, 그 근처에서
+   가능한 매치를 우선적으로 만들어 블록을 아래로 끌어내리세요.
 
-### Controls Guide
+2. **연쇄 콤보를 의식하며 플레이하기**  
+   한 번의 매치로 끝내지 말고, 블록이 떨어진 뒤 추가 매치가
+   자동으로 발생하도록 판을 설계해 보세요. 줄 하나를 지울 때,
+   그 위의 블록이 내려오면서 또 다른 3매치가 생기면 한 번의
+   움직임으로 훨씬 많은 공간을 확보하고 더 많은 점수를 얻을 수
+   있습니다.
 
-The game is played with simple swap controls.
+3. **속도 싸움에 대비해 판단 단순화하기**  
+   시간이 지날수록 블록이 올라오는 속도가 빨라집니다.
+   복잡하게 생각하기보다는, 눈에 보이는 즉시 매치 가능 위치를
+   빠르게 선택하는 연습이 중요합니다. 익숙해질수록 직관적인
+   패턴 인식 능력이 향상됩니다.
 
-*   **[KO]** **Swap Pets:** Click on a pet and then click on an adjacent pet to swap their positions. You can also click and drag one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
+4. **특수 블록과 파워업 적극 활용하기**  
+   일부 버전에서는 한 번에 여러 줄을 지우거나 특정 색을 모두
+   없애는 특수 블록이나 파워업이 등장합니다. 위기가 다가올 때
+   까지 아껴 두었다가, 화면이 가득 차기 직전 과감하게 사용해
+   한 번에 큰 공간을 확보해 보세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: How do I lose the game?**
-    *   **[KO]** **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.
+게임은 매우 직관적인 스와프 방식으로 진행됩니다.
 
-*   **[KO]** **Q: What is the best way to get a high score?**
-    *   **[KO]** **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
+- **펫 블록 맞바꾸기**: 원하는 펫을 클릭한 뒤, 상하좌우 인접한
+  다른 펫을 클릭하거나, 드래그하여 위치를 맞바꿉니다.
+  교환 결과 3개 이상 매치가 만들어지지 않으면 교환이 취소됩니다.
 
-*   **[KO]** **Q: Is there a way to stop the blocks from rising?**
-    *   **[KO]** **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 게임은 언제 패배로 처리되나요?**  
+  **A:** 어느 한 열이라도 펫 블록이 화면 맨 위 칸에 닿는 순간,
+  그 즉시 게임이 종료됩니다. 한 줄이라도 너무 높이 쌓이지 않도록
+  계속해서 정리해야 합니다.
+
+    - **Q: 고득점을 노리는 가장 좋은 방법은 무엇인가요?**  
+  **A:** 최대한 오래 버티는 것과 연쇄 콤보를 만드는 것이 핵심입니다.
+  한 번의 움직임으로 여러 줄을 지우거나, 연속해서 매치가 일어나면
+  점수 배율이 올라가 최종 점수가 크게 상승합니다.
+
+- **Q: 올라오는 블록을 멈추게 할 수 있는 방법이 있나요?**  
+
+    - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
+
+- **Q: Is there a way to stop the blocks from rising?**
+
+    - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
+  **A:** 기본적으로 블록의 상승은 매치가 만들어질 때 잠시 멈춥니다.
+  따라서 계속해서 매치를 이어 가는 것이 곧 "속도를 늦추는" 유일한
+  방법입니다. 연속 콤보를 만들수록 여유 시간을 더 많이 벌 수 있습니다.

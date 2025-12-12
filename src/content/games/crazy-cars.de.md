@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: crazy-cars
-title: '[DE] Crazy Cars'
+title: "Crazy Cars"
 description: >-
-  [DE] Crazy Cars is a casual 3D driving and stunt racing game: explore a city
-  map, complete events, collect stars and wrenches, and perform jumps with nitro
-  in your browser.
+  Crazy Cars ist ein lockeres 3D-Fahr- und Stuntspiel: Erkunde eine Stadtkarte,
+  nimm an Events teil, sammle Sterne und Schraubenschlüssel und setze Nitro für
+  spektakuläre Sprünge im Browser ein.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/crazy-cars.jpg
 tags:
@@ -17,35 +17,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+*Crazy Cars* ist ein entspanntes Fahrspiel mit frei befahrbarer Stadtkarte,
+auf der Rampen, Sprungschanzen und Event-Markierungen verteilt sind. Du kannst
+Rennen und Zeitrennen starten, Sterne und Schraubenschlüssel auf Dächern und in
+versteckten Ecken sammeln und neue Fahrzeuge freischalten. Auf manchen Hosts
+steht zudem lokaler Splitscreen zur Verfügung.
 
+### So spielst du
 
-### Overview
-Crazy Cars is a casual browser driving game on a free‑roam city map with ramps, jump spots, and event markers. Explore to find races and time trials, collect stars and wrenches across rooftops and hidden corners, and unlock additional cars. Some hosts also include local split‑screen.
+- Erkunde die Karte und fahre zu Markierungen, um Rennen, Zeitläufe,
+  Hindernisstrecken oder Stunt-Events zu starten.
+- Sammle Sterne/Schraubenschlüssel auf Dächern, Rampen oder in versteckten
+  Passagen.
+- Verdiene Ingame-Währung über Events, um schnellere Autos freizuschalten.
+- Nutze Nitro auf Geraden und richte dein Auto sauber aus, bevor du große
+  Sprünge nimmst.
 
-### How to Play
-- Explore the map to find activities: races, time trials, obstacle runs, and stunt areas.
-- Collectibles (stars/wrenches) are scattered around rooftops, ramps, and hidden spots.
-- Earn currency by completing events to unlock faster cars.
-- Use nitro on straights; line up carefully before large jumps.
+### Steuerung
 
-### Controls
-- WASD or Arrow Keys: Drive / steer
-- Space: Brake/handbrake (host‑dependent); Nitro where available
-- R: Reset vehicle
-- Esc/P: Pause/menu
-- Split‑screen: second player uses the other key set
+- `WASD` oder Pfeiltasten: Fahren/Lenken
+- `Leertaste`: Bremse/Handbremse (bzw. Nitro, je nach Host)
+- `R`: Fahrzeug zurücksetzen
+- `Esc`/`P`: Pause/Menü
+- Splitscreen: Zweiter Spieler nutzt das alternative Tastenlayout des Hosts
 
-### Tips and Strategies
-- Feather the throttle during sharp turns to reduce understeer.
-- Approach big ramps straight and at speed; avoid mid‑air steering corrections.
-- Use the handbrake to initiate controlled drifts for tight corners.
-- Grab nearby wrenches early to repair after heavy landings.
+### Tipps & Strategien
+
+- Dosiertes Gasgeben in engen Kurven reduziert Untersteuern und hält dich auf
+  der Ideallinie.
+- Fahre große Sprünge gerade und mit ausreichend Tempo an; vermeide heftige
+  Lenkbewegungen in der Luft.
+- Nutze die Handbremse, um kontrollierte Drifts einzuleiten, wenn du enge
+  Kurven schnell nehmen willst.
+- Sammle nahegelegene Schraubenschlüssel früh, um nach harten Landungen schnell
+  reparieren zu können.
 
 ### FAQ
-- Q: How do I unlock more cars?
-A: Complete races and collect items to earn currency; spend it in the garage.  
-- Q: Is there multiplayer?
-A: Some browser versions offer local split‑screen; online multiplayer is typically not included.  
-- Q: My car flipped over—what now?
-A: Press R to reset near your last position.  
+
+- F: Wie schalte ich neue Autos frei?
+  
+  A: Schließe Rennen ab und sammle Items, um Währung zu verdienen, die du in
+  der Garage für neue Fahrzeuge ausgeben kannst.
+
+- F: Gibt es Multiplayer?
+  
+  A: Einige Browserversionen bieten lokalen Splitscreen, Online-Multiplayer ist
+  in der Regel nicht enthalten.
+
+- F: Mein Auto liegt auf dem Dach – was nun?
+  
+  A: Drücke `R`, um dein Fahrzeug in der Nähe der letzten Position
+  zurückzusetzen.

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: highway-traffic
-title: '[KO] Highway Traffic'
+title: Highway Traffic 하이웨이 트래픽
 description: >-
-  [KO] First‑person lane‑splitter: weave through highway cars, complete
-  missions, and earn cash for vehicles and upgrades.
+  붐비는 고속도로 위를 달리며 차량 사이를 요리조리 피해 나가는 아케이드 드라이빙 게임입니다. 교통사고를 내지 않고 멀리 갈수록 높은 점수와
+  보상을 얻을 수 있습니다.
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/highway-traffic.jpg
@@ -20,55 +20,96 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **게임 소개**
 
-"Highway Traffic" is a general name for a popular genre of arcade-style driving games. The core gameplay revolves around driving a car on a busy, seemingly endless highway. The primary objective is straightforward: **drive as long as possible to achieve the highest score and longest distance without crashing into other vehicles.**
+`Highway Traffic`는 끝없이 이어지는 고속도로를 달리며 다른 차량과의 충돌을
+피하는 아케이드 레이싱 장르를 대표하는 이름입니다. 가장 기본적인 목표는
+간단합니다. **다른 차에 부딪히지 않고 가능한 멀리, 가능한 오래 달리며 높은
+점수와 기록을 세우는 것**입니다.
 
-These games typically use a first-person or a third-person chase camera perspective, creating an immersive high-speed driving experience. Players must weave through dense traffic, using precise lane changes and overtakes to maintain high speed. The challenge intensifies as speed increases and time passes, with traffic becoming heavier and AI vehicle behavior potentially more erratic, requiring quick reflexes and good predictive skills.
+게임은 1인칭 혹은 3인칭 시점으로 진행되며, 플레이어는 차선 변경과 추월을
+정확하게 수행해 고속을 유지해야 합니다. 시간이 지날수록 속도가 빨라지고,
+교통량이 늘어나거나 AI 차량이 예측하기 어려운 움직임을 보이기 때문에
+반응 속도와 상황 예측 능력이 중요합니다.
 
-Most versions of *Highway Traffic* include the following elements:
-*   **[KO]** **Multiple Game Modes**: Such as one-way or two-way traffic, time trials, and police chase modes.
-*   **[KO]** **Vehicle Unlocks and Upgrades**: Players earn in-game currency to buy new cars that are faster or have better handling, or to upgrade the performance (speed, braking, handling) and appearance of their existing vehicles.
-*   **[KO]** **Varied Environments**: Offering different times of day (day, night) and weather conditions (sunny, rainy) to add challenge and visual diversity.
+많은 `Highway Traffic`류 게임에는 다음과 같은 요소들이 포함됩니다.  
+* **여러 게임 모드**: 편도/왕복(투‑웨이) 교통, 타임 트라이얼, 경찰 추격 모드
+  등 다양한 규칙을 선택할 수 있습니다.  
+* **차량 해금과 업그레이드**: 플레이를 통해 얻은 게임 머니로 더 빠르고
+  조향이 좋은 차량을 구매하거나, 기존 차량의 속도·브레이크·핸들링·외형을
+  업그레이드할 수 있습니다.  
+* **다양한 환경**: 낮과 밤, 맑음과 비 등 시간대와 날씨 변화를 통해 시야
+  조건과 난이도가 달라집니다.
 
-### **Gameplay Strategy & Tips**
+### **플레이 전략 & 팁**
 
-1.  **[KO]** **Drive Smoothly, Don't Jerk the Wheel**: At high speeds, small and smooth steering inputs are far more effective than sudden, sharp turns. Jerking the wheel can easily lead to losing control or overcorrecting, which often results in a crash.
-2.  **[KO]** **"Near Misses" are Key to High Scores**: Almost all games in this genre have a bonus system where you get extra points or nitro for overtaking another car at a very close distance. Mastering this skill is crucial for achieving high scores, but it comes with high risk.
-3.  **[KO]** **Look Far Ahead and Anticipate**: Don't just focus on the car directly in front of you. Your gaze should be as far down the road as possible, observing the movement of three or four cars ahead. This allows you to anticipate which lane will open up or which car might suddenly change lanes.
-4.  **[KO]** **Use Brakes, But Don't Abuse Them**: Brakes are a lifesaver for avoiding imminent collisions, but frequent or heavy braking will kill your speed and lower your scoring efficiency. Prioritize avoiding danger through smooth lane changes and only use heavy braking as a last resort.
-5.  **[KO]** **Utilize the Oncoming Lane in Two-Way Mode**: In two-way traffic mode, the oncoming lane often has less traffic and is a prime opportunity for near misses and score boosting. However, it's extremely dangerous. You must constantly watch for approaching cars and be ready to merge back into your lane.
-6.  **[KO]** **Upgrade Your Ride**: Don't be stingy with your in-game currency. Prioritize upgrading your car's **Handling** and **Brakes** first. These two stats are vital for surviving in dense traffic. Speed is important, but it's useless if you can't control it.
+1. **부드러운 조향, 과격한 꺾기는 금물**  
+   고속 주행 중에는 작은 입력으로 천천히 차선을 옮기는 것이 중요합니다.
+   갑작스럽게 크게 꺾으면 차가 심하게 흔들리거나, 다른 차와 충돌하기 쉽습니다.
 
-### **Controls Guide**
+2. **근접 추월(near miss) 활용**  
+   대부분의 작품에서 차량을 아주 가까이 스치듯 추월하면 추가 점수나 니트로
+   게이지를 얻습니다. 고득점을 노릴 때 필수지만, 위험도가 높으니 연습이
+   필요합니다.
 
-The controls for these games are usually very intuitive, especially on mobile devices.
+3. **멀리 보고 예측 운전하기**  
+   바로 앞 차량만 보지 말고, 최소 3~4대 앞까지 시야를 두고 어느 차선이
+   열릴지, 어떤 차량이 차선을 바꿀 것 같은지 미리 예측하세요.
 
-*   **[KO]** **Mobile:**
-    *   **[KO]** **Steering**: The most common method is **tilt controls** (tilting your device to steer). Options for **on-screen buttons** or **touch-to-steer** are usually available in the settings.
-    *   **[KO]** **Acceleration**: Usually **automatic**, or there's a dedicated gas pedal button on the right side of the screen.
-    *   **[KO]** **Braking**: Usually a dedicated brake pedal button on the left side of the screen.
-*   **[KO]** **PC/Web:**
-    *   **[KO]** **Steering**: `A` and `D` keys or `Left/Right Arrow` keys.
-    *   **[KO]** **Acceleration**: `W` key or `Up Arrow` key.
-    *   **[KO]** **Braking**: `S` key or `Down Arrow` key.
+4. **브레이크는 최후의 수단**  
+   브레이크는 충돌 직전 회피에는 필수지만 많이 쓰면 속도가 떨어져 점수가
+   잘 오르지 않습니다. 기본적으로는 부드러운 차선 변경으로 회피하고,
+   정말 피할 곳이 없을 때만 강하게 브레이크를 밟으세요.
 
-### **Frequently Asked Questions (FAQ)**
+5. **투‑웨이 모드의 역주행 차선 활용**  
+   왕복 모드에서는 마주 오는 차선이 상대적으로 비어 있는 경우가 많아,
+   위험하지만 고득점과 연속 near miss를 노리기 좋은 구간입니다. 다만
+   정면 충돌 위험이 크므로, 항상 반대 차선 차량을 주시하며 언제든지
+   원래 차선으로 돌아갈 준비를 해야 합니다.
 
-**1. Why can't I seem to reach top speed?**
-In most versions, you need to hold the accelerator or maintain a high speed for a period to reach your car's maximum velocity. Frequent braking or minor collisions with other cars will cause your speed to drop.
+6. **차량 업그레이드 우선순위**  
+   속도보다 먼저 **핸들링**과 **브레이크**를 올리는 것이 생존에 유리합니다.
+   아무리 빠른 차라도 제대로 제어하지 못하면 오래 버티지 못합니다.
 
-**2. How do I earn more in-game currency?**
-The primary ways to earn currency are:
-*   **[KO]** **Driving a longer distance**: The further you go, the higher the base reward.
-*   **[KO]** **Performing near misses**: Each close overtake provides a bonus.
-*   **[KO]** **Maintaining high speed**: Driving above a certain speed (e.g., 100 km/h) continuously earns you extra points/cash.
-*   **[KO]** **Completing daily missions or challenges**.
+### **조작 방법**
 
-**3. Which car is the best?**
-There's no single "best" car; it depends on your driving style.
-*   **[KO]** **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.
-*   **[KO]** **Experts**: Can opt for cars with the highest **Top Speed** and **Acceleration** to maximize their scoring potential.
+모바일과 PC/웹에서의 조작은 직관적입니다.
 
-**4. What's special about the "Two-Way" mode?**
-The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.
+* **모바일**  
+    - **조향**: 기기를 기울이는 틸트 조작이 기본이며, 설정에서 화면 버튼이나
+    터치 조향으로 바꿀 수 있는 경우도 있습니다.  
+    - **가속**: 자동 가속이거나, 화면 우측의 가속 페달 버튼으로 조작합니다.  
+    - **브레이크**: 화면 왼쪽의 브레이크 버튼을 눌러 속도를 줄입니다.  
+
+* **PC/Web**  
+    - **조향**: `A/D` 또는 `←/→`  
+    - **가속**: `W` 또는 `↑`  
+    - **브레이크**: `S` 또는 `↓`  
+
+### **자주 묻는 질문(FAQ)**
+
+**1. 최고 속도가 잘 안 나옵니다. 이유가 뭔가요?**  
+대부분의 버전에서 일정 시간 동안 가속을 유지해야 최고 속도에 도달합니다.
+자주 브레이크를 밟거나 다른 차량에 살짝이라도 부딪히면 속도가 떨어지므로,
+한번 속도를 올린 뒤에는 최대한 부드럽게 회피 운전을 해야 합니다.
+
+**2. 게임 머니를 빨리 벌려면 어떻게 해야 하나요?**  
+* 멀리까지 주행할수록 기본 보상이 올라가고,  
+* 차량을 바짝 스치듯 추월하는 near miss로 추가 보너스를 얻으며,  
+* 일정 속도 이상(예: 100km/h)을 계속 유지하면 속도 보너스가 쌓입니다.  
+또한 데일리 미션이나 도전 과제를 꾸준히 완료하면 수입이 크게 늘어납니다.
+
+**3. 어떤 차가 제일 좋나요?**  
+“최고” 차량은 운전 스타일에 따라 달라집니다.  
+* **초보자**: 최고 속도는 조금 낮더라도 핸들링과 안정성이 좋은 차량이 좋고,  
+* **숙련자**: 조향에 자신이 있다면 최고 속도·가속이 높은 차량을 선택해
+  점수 잠재력을 극대화할 수 있습니다.
+
+**4. 투‑웨이 모드는 무엇이 다른가요?**  
+
+- **Experts**: Can opt for cars with the highest **Top Speed** and **Acceleration** to maximize their scoring potential.
+
+- **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.
+왕복 모드에서는 같은 방향 차량뿐 아니라 반대 방향 차량까지 동시에
+피해야 합니다. 난이도는 높지만, 역주행 차선 주행 시 점수 배율이 올라가는
+경우가 많아 고득점에 유리합니다.

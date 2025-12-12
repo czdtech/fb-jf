@@ -1,43 +1,36 @@
 ---
+title: "Gangsters"
+description: "物理ラグドールの決闘：2人の棒人間ギャングが屋上で跳ね回り、撃ち合います。ジャンプと射撃のタイミングを計って、相手を叩き落としましょう。"
+iframeSrc: "https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html"
+thumbnail: "/new-images/gangsters.jpg"
+urlstr: "gangsters"
+score: "4.4/5  (242 votes)"
+tags: ["action", "physics"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: gangsters
-title: '[JA TRANSLATION NEEDED] Gangsters'
-description: >-
-  [JA TRANSLATION NEEDED] Physics ragdoll duels: two stick gangsters bounce and
-  shoot on rooftops; time jumps and shots to knock the opponent off.
-iframeSrc: >-
-  https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
-thumbnail: /new-images/gangsters.jpg
-tags:
-  - action
-  - physics
-score: 4.4/5  (242 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+1人または2人用の、ぐらぐらする屋上での銃撃戦。弾丸と反動（リコイル）が姿勢に影響します。目標は相手を転落させることです。
 
+### 遊び方
+- ジャンプのタイミングを計って弾丸を避け、狙いの高さを調整しましょう。
+- 反動を利用して、敵の姿勢を傾けたり滑らせたりしましょう。
+- 環境にある小道具は、弾を防いだり跳弾を引き起こしたりします。
 
-### Overview
-[JA TRANSLATION NEEDED] Wobbly rooftop shootouts for one or two players. Bullets and recoil affect your stance; the goal is to topple your opponent.
+### 操作方法
+- プレイヤーごとに1ボタンでジャンプ/射撃（ホストによります）、またはアクションごとに個別のキーを使用します。
 
-### How to Play
-- Time jumps to dodge bullets and adjust aim height.
-- Use recoil to your advantage to tilt or slide the enemy’s stance.
-- Environmental props can block shots or cause ricochets.
+### ヒント
+- 小さなホップ（跳ね）で狙いを定め、大きなホップで回避や位置取りを行いましょう。
+- 足元を狙って相手を浮かせ、バランスを崩しましょう。
+- 風や動くプラットフォームがある場合は注意しましょう。
 
-### Controls
-- One‑button jump/shoot per player (host dependent) or separate keys for actions.
-
-### Tips
-- Short hops steady aim; big hops dodge and reposition.
-- Aim at feet to pop opponents upward and off balance.
-- Watch wind or moving platforms when present.
-
-### FAQ
-- Q: How do I win rounds consistently?  
-[JA TRANSLATION NEEDED]   A: Control recoil and land shots that destabilize your opponent’s footing.
-- Q: Is there a two‑player mode on one keyboard?  
-[JA TRANSLATION NEEDED]   A: Yes, most hosts provide side‑by‑side key bindings.
-- Q: Do headshots deal extra damage?  
-[JA TRANSLATION NEEDED]   A: Usually knockback/positioning matters more than raw damage.
-
+### よくある質問 (FAQ)
+- **Q: どうすれば安定してラウンドに勝てますか？**  
+  A: 反動を制御し、相手の足場を不安定にするようなショットを当てましょう。
+- **Q: 1つのキーボードで2人プレイモードはありますか？**  
+  A: はい、ほとんどのホスト版では並んでプレイできるキー配置が提供されています。
+- **Q: ヘッドショットは追加ダメージを与えますか？**  
+  A: 通常、単純なダメージ量よりも、ノックバックや位置取りの方が重要です。

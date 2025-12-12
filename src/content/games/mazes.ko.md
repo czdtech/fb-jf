@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mazes
-title: '[KO] Mazes'
+title: "Mazes 미로 모음"
 description: >-
-  [KO] Mazes delivers classic labyrinth runs — draw optimal paths, dodge traps,
-  and beat par times with clean routing.
+  Mazes는 단순한 격자형부터 함정이 가득한 코스까지 다양한 미로를 달리며, 최적 경로를
+  그리고 함정을 피해 기준 기록에 도전하는 퍼즐 게임입니다.
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/mazes.jpg
 tags:
@@ -17,34 +17,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Mazes*는 간단한 구조의 미로부터 함정과 스위치, 문이 복잡하게 얽힌 코스까지 여러 가지
+미로 세트를 제공합니다. 핵심은 경로 설계로, 가장 짧으면서도 안전한 길을 찾아 함정 타일을
+피하고, 게이트를 여는 스위치를 밟으면서 기준 기록(파 시간) 안에 골인하는 것이 목표입니다.
 
-Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. The challenge is route planning: finding shortest safe paths, avoiding trap tiles, and hitting switches to open gates while staying under par times.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **벽 따라가기 규칙:** 단순히 한 덩어리로 연결된 미로에서는 오른손/왼손 법칙처럼 한쪽
+   벽을 따라가는 방식이 유용하지만, 루프가 많은 복잡한 미로에서는 과감히 버리고 다른
+   전략을 써야 합니다.
+2. **지름길 탐색:** 시야를 넓혀 문과 스위치의 위치를 먼저 파악하고, 한 번에 모두
+   들르는 동선을 설계하세요.
+3. **함정 위치 기억하기:** 한 번 밟은 함정 타일은 머릿속에 표시해 두고, 같은 실수를
+   반복하지 않도록 경로를 수정하세요.
+4. **시간 분배:** 처음부터 완벽한 최단 루트만 노리기보다, 일단 클리어를 한 번 해 보고
+   이후에 동선을 다듬어 기록을 갱신하는 편이 안정적입니다.
+5. **안전한 통로 선택:** 조작이 익숙하지 않거나 정밀도가 떨어질 때는, 좁은 길보다
+   폭이 넓은 통로를 우선적으로 선택해 실수를 줄이세요.
 
-1.  **[KO]** Right/left‑hand rules: Use wall‑following on simply connected mazes; abandon on multi‑loops.
-2.  **[KO]** Shortcut scouting: Zoom to spot door/switch pairs and plan a single sweep.
-3.  **[KO]** Trap memory: Mark dangerous tiles mentally to avoid repeat hits.
-4.  **[KO]** Time splits: Don’t chase a perfect line first; secure a finish, then optimize.
-5.  **[KO]** Safe corridors: Favor wide lanes when precision is shaky.
+### 조작 방법
 
-### Controls Guide
+- 캐릭터를 드래그하거나 WASD로 이동시키며, 일부 버전에서는 되돌리기나 재시작 기능을
+  통해 빠르게 다시 도전할 수 있습니다.
 
-- Drag or WASD to move; restart/undo if supported.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 스위치를 자꾸 놓치고 지나가요.
 
-- Q: I keep missing switches.
+  A: 주요 갈림길 근처는 일부러 한 번씩 지나가도록 루트를 짜 두면 좋습니다. 나중에
+  되돌아오는 것보다 초반에 작은 우회를 넣는 편이 더 효율적입니다.
 
-A: Route past every key junction; add a small detour rather than backtracking later.
+- Q: 함정이 랜덤으로 바뀌나요?
 
-- Q: Are traps random?
+  A: 대부분의 스테이지에서 함정 위치는 고정입니다. 몇 번 반복 플레이를 하면서 위치를
+  익혀 두면 훨씬 수월해집니다.
 
-A: Usually fixed; learn their positions.
+- Q: 빠르게 클리어하려면 어떤 요령이 있나요?
 
-- Q: Any speedrun tip?
-
-A: Hug inner walls on bends and cut diagonals where allowed.
-
+  A: 코너에서는 안쪽 벽을 최대한 바짝 붙어 돌고, 대각선 이동이 허용되는 모드라면
+  직각 코너를 대각선으로 잘라 시간을 줄이세요.

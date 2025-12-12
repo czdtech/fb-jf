@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: sprunki-retake
-title: "[DE] Sprunki Retake \U0001F525 Play Sprunki Retake Online"
+title: "Sprunki Retake \U0001F525 Sprunki Retake online spielen"
 description: >-
-  [DE] If you love rhythm games and have a penchant for horror elements, Sprunki
-  Retake will definitely get you hooked!
+  Wenn du Rhythmusspiele liebst und Horror-Elemente spannend findest, ist
+  Sprunki Retake der richtige Mod für dich: Ein Mix aus Sprunki-Charme,
+  Gruselstimmung und frischen Figuren.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
 thumbnail: /sprunki-retake.png
 tags:
@@ -13,47 +14,53 @@ tags:
 score: 4.3/5  (524 votes)
 ---
 
+### Einführung in Sprunki Retake
 
-
-### Introducing to Sprunki Retake
-
-If you love rhythm games and have a penchant for horror elements, Sprunki Retake will definitely get you hooked! This game not only retains the charm and creativity of the Sprunki series but also injects more fresh blood, guaranteeing you scream and fly!
+Sprunki Retake baut auf der bekannten Sprunki-Reihe auf, ergänzt sie aber um eine deutlich dunklere, leicht horrorhafte Note. Du bekommst neue Charaktere, intensivere Sounds und eine Atmosphäre, die irgendwo zwischen verspielt und gruselig liegt.
 
 ---
 
-### What Exactly Is Sprunki Retake?
+### Was ist Sprunki Retake?
 
-Simply put, Sprunki Retake is the powerful sequel in the Sprunki series! Imagine being in a spooky world where you not only have to sway to the rhythm but also be prepared to welcome sudden scares. Doesn't it sound exciting just thinking about it?
+Sprunki Retake versteht sich als kraftvolle Fortsetzung des Sprunki-Universums. Du landest in einer schaurigen Welt, in der du wie gewohnt mit Loops und Figuren arbeitest – aber permanent damit rechnen musst, dass dich Sound, Optik oder Animation kurz zusammenzucken lassen.
 
 ---
 
-### How Do You Actually Play This Game?
+### Wie spielst du Sprunki Retake?
 
-Sprunki Retake throws you into a colorful but dangerous world. All you need to do is:
+- **Erkunden:** Bewege dich durch die verschiedenen Szenen, finde versteckte Pfade, kleine Secrets und Sammlerstücke (abhängig von der konkreten Game-Version).
+- **Herausforderungen meistern:** Einzelne Abschnitte können kleine Puzzle-, Timing- oder Reaktionsaufgaben enthalten.
+- **Charaktere anpassen:** In Varianten mit Customizing passt du Aussehen und ggf. Fähigkeiten deines „Helden“ an deinen Stil an.
 
-- **Explore:** Freely explore the vast levels, dig up hidden paths and secret areas, which contain various treasures and collectibles!
-- **Challenge:** Each level has unique challenges that require you to think quickly and plan strategically. Solve puzzles, fight monsters, complete tasks, you can't miss any!
+Parallel dazu bleibt das Sprunki-Kernprinzip erhalten: Figuren aufs Feld ziehen, Loops kombinieren, Horror- und Glitch-Sounds layern und dir so deinen eigenen Retake-Track bauen.
+
+
 - **Customize Characters:** You can customize the appearance and abilities of your character to create an exclusive hero that perfectly fits your gaming style!
 
+- **Challenge:** Each level has unique challenges that require you to think quickly and plan strategically. Solve puzzles, fight monsters, complete tasks, you can't miss any!
 
+- **Explore:** Freely explore the vast levels, dig up hidden paths and secret areas, which contain various treasures and collectibles!
 ---
 
-### What Are the Highlights of Sprunki Retake?
+### Highlights von Sprunki Retake
 
-- **Spooky Sound Effects:** Use those creepy sound effects to create your unique horror music, it's just too cool!
-- **Personalized Characters:** Unlock various cool characters, each with their own exclusive horror sounds, perfectly integrated into your musical creations!
-- **Remix Master:** Move and mix characters to create unique rhythms, challenging your musical creativity!
-- **Easter Egg Surprise:** Find hidden sound combinations to unlock interesting animations and extra content, guaranteeing you will be pleasantly surprised!
-- **Let Yourself Go:** Feel free to experiment with various sounds and create your own original horror works!
-- **Immersive Experience:** Immerse yourself in a weird atmosphere full of darkness and mystery, guaranteeing your adrenaline soars!
-- **Graphics Upgrade:** The graphics are colorful and the animations are smooth, bringing the world of Sprunki to life!
-- **New Characters:** Meet a variety of new characters with unique abilities and personalities to enrich your gaming experience!
-- **Musical Integration:** Like its predecessors, integrate music into the gameplay, enhancing your immersion in solving puzzles and traversing levels!
+- **Creepy Soundeffekte:** Du arbeitest mit düsteren, verzerrten und spooky Sounds, aus denen du einzigartige Horrortracks bastelst.
+- **Individuelle Figuren:** Neue Charaktere mit eigenen, dunklen Klangsignaturen erweitern deine Klangpalette.
+- **Remix auf Horror:** Du verschiebst Figuren, änderst Reihenfolgen und erzeugst so deine persönliche Horror-Remix-Struktur.
+- **Easter Eggs & Secrets:** Versteckte Soundkombos oder Figuren-Setups können Spezialanimationen oder Extra-Inhalte freischalten.
+- **Starke Atmosphäre:** Farben, Hintergründe und Effekte erzeugen eine dichte, mysteriöse Umgebung.
+- **Koop-/Multiplayer-Elemente (je nach Plattform):** In manchen Varianten kannst du mit Freunden gemeinsam Herausforderungen angehen oder Tracks vergleichen.
+
+
 - **Multiplayer Mode:** Team up with your friends online to jointly deal with challenges and double the fun!
 
+- **Musical Integration:** Like its predecessors, integrate music into the gameplay, enhancing your immersion in solving puzzles and traversing levels!
 
+- **New Characters:** Meet a variety of new characters with unique abilities and personalities to enrich your gaming experience!
+
+- **Graphics Upgrade:** The graphics are colorful and the animations are smooth, bringing the world of Sprunki to life!
 ---
 
-### A Summary in One Sentence:
 
-Sprunki Retake successfully inherits the essence of the previous work, while bringing more fresh and exciting elements. Whether you are a long-time fan of Sprunki or a new player, you can find your own fun in the world of Sprunki Retake! Ready to scream? Let's go!
+### A Summary in One Sentence:
+Sprunki Retake übernimmt die Stärken der ursprünglichen Spiele, dreht aber Spannung, Horror und visuelle Intensität deutlich höher. Egal ob du die Reihe schon kennst oder neu einsteigst: In Retake findest du eine Version von Sprunki, die gleichermaßen zum Komponieren, Staunen und Gruseln einlädt.

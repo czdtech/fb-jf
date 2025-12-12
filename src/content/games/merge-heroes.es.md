@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: merge-heroes
-title: '[ES] Merge Heroes'
+title: "Merge Heroes - Funde héroes y defiende el reino"
 description: >-
-  [ES] The ultimate merge-and-battle strategy game! Combine heroes to forge a
-  powerful army, deploy them on the battlefield, and defend your kingdom from
-  waves of monsters.
+  El juego definitivo de fusión y batalla estratégica. Combina héroes para
+  forjar un ejército poderoso, despliega tus tropas en el campo y defiende el
+  reino de hordas de monstruos.
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/merge-heroes.png
 tags:
@@ -18,34 +18,55 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Merge Heroes combina de forma atractiva mecánicas de puzle de fusión con
+estrategia de auto‑batallas. Tu misión es proteger el reino de oleadas de
+monstruos. Para ello no solo reclutas héroes: fusionas copias idénticas para
+hacerlos evolucionar y luego los colocas de forma estratégica en el campo de
+batalla para que defiendan automáticamente tus fronteras.
 
-Merge Heroes is a captivating blend of merge-puzzle mechanics and auto-battle strategy. In this game, you are tasked with defending your kingdom from hordes of monsters. You build your army not just by recruiting, but by merging identical heroes to evolve them into more powerful warriors. Strategically place your merged heroes on the battlefield and watch as they automatically defend against wave after wave of enemies.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Comprar y fusionar:** utiliza el oro para comprar héroes básicos, que
+    aparecerán en la parrilla de reserva. El núcleo del juego es arrastrar un
+    héroe sobre otro idéntico para fusionarlos en uno de nivel superior, con
+    mejores estadísticas.
+2.  **Desplegar tu ejército:** arrastra tus héroes más fuertes desde la reserva
+    hasta la cuadrícula de batalla. Una vez en el campo, atacan
+    automáticamente a los enemigos que entren en su alcance. Como las casillas
+    son limitadas, elige bien qué héroes mantienes desplegados.
+3.  **Tipos de héroe:** presta atención a los roles. Los héroes cuerpo a cuerpo
+    (como los caballeros) deben ir en primera línea, mientras que arqueros y
+    unidades a distancia funcionan mejor en la retaguardia. Una formación
+    equilibrada suele rendir mejor.
+4.  **Gestión del oro:** ganas oro automáticamente al derrotar monstruos.
+    Reinviértelo cuanto antes en comprar más héroes básicos para seguir
+    fusionando y mantener tu ejército a la altura de las oleadas.
 
-1.  **[ES]** **Buy and Merge:** Use your gold to buy basic heroes, which appear on your reserve board. The core of the game is to drag and drop one hero onto another identical hero. This merges them into a single, higher-level hero with improved stats.
-2.  **[ES]** **Deploy Your Army:** Drag your strongest heroes from the reserve board onto the battle grid. Once placed, they will automatically engage any enemies that come within their range. You have a limited number of slots on the battle grid, so choose your active heroes wisely.
-3.  **[ES]** **Hero Types:** Pay attention to different hero types. Melee heroes (like knights) must be on the front lines to engage enemies, while ranged heroes (like archers) can attack from the back. A balanced formation is key.
-4.  **[ES]** **Manage Your Gold:** You earn gold automatically as your heroes defeat monsters. Reinvest this gold quickly into buying more basic heroes so you can continue merging and upgrading your army to keep up with the increasingly difficult enemy waves.
+### Guía de controles
 
-### Controls Guide
+El juego se maneja con controles sencillos de arrastrar y soltar.
 
-The game is played with simple drag-and-drop controls.
+*   **Comprar héroe:** haz clic en "Buy" para gastar oro y conseguir un nuevo
+    héroe básico.
+*   **Fusionar héroes:** arrastra un héroe sobre otro idéntico para fusionarlos.
+*   **Desplegar/retirar:** arrastra un héroe desde la reserva a una casilla
+    vacía del campo de batalla para desplegarlo, o devuélvelo a la reserva para
+    intercambiarlo por otro.
 
-*   **[ES]** **Buy Hero:** Click the "Buy" button to spend gold and get a new base-level hero.
-*   **[ES]** **Merge Heroes:** Click and drag a hero onto another identical hero to merge them.
-*   **[ES]** **Deploy/Undeploy:** Drag a hero from your reserve board to an empty slot on the battlefield to deploy them. You can also drag them back to the reserve board to swap them out.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo creo un héroe realmente fuerte?**
+    *   **R:** A base de fusiones en cadena. Dos héroes de nivel 1 forman uno de
+        nivel 2, dos de nivel 2 uno de nivel 3, etc. Mantén siempre el ciclo de
+        compra y fusión en marcha.
 
-*   **[ES]** **Q: How do I create a really strong hero?**
-    *   **[ES]** **A:** Through continuous merging. Two level 1 heroes make a level 2, two level 2s make a level 3, and so on. The key to a powerful army is to constantly buy and merge.
+*   **P: ¿Me compensa llenar el tablero de héroes débiles o pocos héroes
+    fuertes?**
+    *   **R:** Normalmente unos pocos héroes de nivel alto rinden mejor que
+        muchos de nivel bajo. Prioriza subir de nivel a tus mejores unidades.
 
-*   **[ES]** **Q: Should I fill my board with many weak heroes or a few strong ones?**
-    *   **[ES]** **A:** A few strong, high-level heroes are almost always more effective than a board full of weak, low-level ones. Focus on merging up to the highest level you can achieve.
-
-*   **[ES]** **Q: Why did my heroes stop attacking?**
-    *   **[ES]** **A:** This usually happens between waves. Once the next wave of enemies appears, your heroes will automatically resume their attack.
-
+*   **P: Mis héroes dejan de atacar de repente, ¿es un bug?**
+    *   **R:** Suele ocurrir entre oleadas. Cuando aparezca la siguiente, tus
+        héroes volverán a entrar en acción automáticamente.

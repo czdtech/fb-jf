@@ -1,35 +1,48 @@
 ---
 locale: fr
 urlstr: sprunki-like-minecraft
-title: '[FR] Sprunki Like Minecraft - Play Sprunki Like Minecraft Online'
+title: 'Sprunki Like Minecraft - Jouer à Sprunki Like Minecraft en ligne'
 description: >-
-  [FR] Are you both a loyal fan of Incredibox Sprunki and a passionate lover of
-  the pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will
-  definitely brighten your eyes!
+  Tu es fan d’Incredibox Sprunki et tu adores l’univers pixelisé de Minecraft ?
+  Le Mod Sprunki Like Minecraft fusionne les deux mondes pour te permettre de
+  créer de la musique dans une ambiance cube et pixel.
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
 thumbnail: /sprunki-like-minecraft.png
 tags:
   - sprunki like minecraft
-score: 4.6/5  (601 votes)
+score: "4.6/5  (601 votes)"
 ---
 
+Tu aimes autant le style musical de Sprunki que l’esthétique cubique de
+Minecraft ? Sprunki Like Minecraft est fait pour toi. Ce Mod réinvente les
+personnages Sprunki avec un look tout en blocs, tout en conservant le gameplay
+intuitif d’Incredibox.
 
+### Qu’est‑ce que le Mod Sprunki Like Minecraft ?
 
-Are you both a loyal fan of Incredibox Sprunki and a passionate lover of the pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will definitely brighten your eyes! This unique Mod reimagines the Sprunki characters with Minecraft's iconic blocky elements, bringing a refreshing visual experience while retaining Sprunki's classic gameplay.
+Sprunki Like Minecraft est une fusion créative entre Sprunki et le monde de
+Minecraft. Tous les avatars Sprunki y sont redessinés façon voxel : têtes
+cubiques, textures pixelisées et interface inspirée des menus de Minecraft.
+L’ensemble donne l’impression de composer ta musique au cœur d’une carte
+Minecraft vivante.
 
-### What is Sprunki Like Minecraft Mod?
+### Points forts de Sprunki Like Minecraft
 
-Sprunki Like Minecraft Mod is a creative fusion of Incredibox Sprunki and the iconic blocky world of Minecraft. In this Mod, each Sprunki character will be transformed into a Minecraft-style avatar, and the game interface and background will also draw inspiration from the theme of Minecraft, creating a harmonious blend between the two worlds.
+- **Design inspiré de Minecraft :** personnages, interface et décors adoptent
+  un style pixel art cohérent avec l’univers Minecraft.
+- **Gameplay interactif :** tu fais glisser les personnages « version cube »
+  sur la scène pour construire tes morceaux couche par couche.
+- **Créativité musicale :** comme dans Sprunki, tu peux expérimenter des
+  dizaines de combinaisons sonores pour obtenir la piste parfaite.
 
-### What Are the Highlights of Sprunki Like Minecraft Mod?
+### Comment jouer à Sprunki Like Minecraft ?
 
-- **Minecraft-Inspired Designs:** All characters and the interface are styled in pixel art to match Minecraft’s aesthetic.
-- **Interactive Gameplay:** Drag and drop Minecraft-themed Sprunki characters to create unique tracks.
-- **Creative Musical Fun:** Experience endless sound combinations for an immersive experience.
+- Choisis les personnages Sprunki au style Minecraft qui te plaisent.
+- Dépose‑les sur la scène pour activer leurs loops (basses, percussions,
+  mélodies, effets).
+- Ajuste, remplace et réorganise les avatars pour affiner ton morceau.
 
+Ce Mod est idéal si tu veux réunir tes deux passions : la construction
+block‑par‑block et la composition musicale. Laisse les notes se mêler aux
+pixels et joue ta propre mélodie Minecraft au bout des doigts !
 
-### How to Play the Music in Sprunki Like Minecraft Mod?
-
-This Incredibox Sprunki Like Minecraft Mod perfectly meets the needs of Minecraft and Sprunki fans, providing a fun and creative cross-border experience. Dive into this blocky world and start your musical creation journey now!
-
-What are you waiting for? Come to the world of Sprunki Like Minecraft, let the notes collide with pixels, and play your Minecraft melody at your fingertips! If you also want to try other Sprunki series Mods, such as Sprunki Interactive 1.0, Sprunki Kiss Edition and Sprunki Melodies, then act quickly!

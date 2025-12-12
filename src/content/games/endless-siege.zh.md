@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: endless-siege
-title: '[ZH TRANSLATION NEEDED] Endless Siege'
+title: "Endless Siege 無盡攻城塔防"
 description: >-
-  [ZH TRANSLATION NEEDED] Defend against relentless waves of orcs in Endless
-  Siege, a captivating tower defense game. Place and upgrade cannons, ballistas,
-  and other powerful towers to survive as long as you can on a new, challenging
-  map every day.
+  在《Endless Siege》中對抗一波又一波永不停止的獸人攻勢——布置並升級火砲、弩砲等防禦塔，
+  在每天更新的隨機地圖上盡可能撐過更多回合。
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/endless-siege.jpg
 tags:
@@ -20,32 +18,43 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Endless Siege is a highly engaging tower defense game that challenges you to defend your kingdom against relentless waves of orcs, goblins, and other monstrous foes. The standout feature of the game is that you are presented with a brand new, procedurally generated map every single day, ensuring endless replayability. You must strategically place and upgrade a variety of defensive towers to survive as many waves as possible and compete for the daily high score.
+《Endless Siege》是一款節奏紮實、極具黏著度的塔防遊戲，你必須守護自己的領地，
+抵禦源源不絕的獸人、哥布林與各種怪物大軍。它最吸引人的特色是「每日新地圖」——
+遊戲每天都會為所有玩家生成一張全新的隨機路線地圖，讓你不斷面對不同的佈陣難題，
+耐玩度極高。你需要聰明地選擇與升級各種防禦塔，盡力撐過越多波次，挑戰當日排行榜。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Know Your Towers:** Understanding your defenses is key.
-    * [ZH TRANSLATION NEEDED] **Ballista:** A fast-firing tower, excellent for taking down single, high-health enemies.
-    * [ZH TRANSLATION NEEDED] **Torch:** A flame tower that deals area-of-effect (AoE) damage, perfect for roasting groups of weaker enemies.
-    * [ZH TRANSLATION NEEDED] **Cannon:** A slow but powerful AoE tower that deals massive damage to clusters of foes.
-    * [ZH TRANSLATION NEEDED] **Timewarp:** A support tower that doesn't deal damage but significantly slows down all enemies that pass through its radius, making them easier targets for your other towers.
-2.  [ZH TRANSLATION NEEDED] **Create Kill Zones:** Don't spread your towers out too much. Try to place them in clusters, especially around bends in the path, where multiple towers can attack the same enemies simultaneously.
-3.  [ZH TRANSLATION NEEDED] **The Power of Slowing:** The Timewarp tower is one of the most important in the game. Placing a Timewarp tower at the beginning of a long stretch of road allows your damage-dealing towers to get many more shots in, dramatically increasing their effectiveness.
-4.  [ZH TRANSLATION NEEDED] **Upgrade Strategically:** It's often better to have a few fully upgraded, powerful towers than many weak, basic ones. Focus your gold on upgrading your best-placed towers to maximize their damage output.
+
+1.  **熟悉各種塔：** 先理解每種防禦塔的定位。
+    * **Ballista 弩砲：** 射速較快，適合專門處理血量較高的單一目標。
+    * **Torch 火焰塔：** 會造成範圍（AoE）傷害，非常適合焚燒一大群弱小怪物。
+    * **Cannon 火砲：** 攻速較慢，但爆炸範圍與傷害都很可觀，對成群敵人威力驚人。
+    * **Timewarp 時空塔：** 不直接造成傷害，但能大幅減慢範圍內所有敵人的移動速度，
+      讓其他輸出塔有更多攻擊時間。
+
+2.  **打造「殺戮區」：** 不要把塔防散得太開，盡量在路線的轉彎或重疊區域集中建塔，
+    讓同一批敵人同時承受多座塔的火力。
+3.  **好好運用減速：** Timewarp 是遊戲裡極關鍵的輔助塔。把它放在長直道的起點或
+    大量輸出塔前方，能讓敵人長時間暴露在火力之下，整體輸出會明顯放大。
+4.  **升級要有策略：** 與其到處蓋一堆一級塔，不如集中資源把位置極佳的塔升到高級，
+    通常幾座高火力、視野好的主力塔，比一大堆弱塔有效得多。
 
 ### Controls Guide
 
-*   **Build a Tower:** Click on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
-*   **Upgrade a Tower:** Click on an existing tower to see its stats and available upgrades. Click the upgrade button to level it up.
-*   **Call the Next Wave:** When you are ready, click the "Next Wave" button to start the next onslaught of enemies.
+*   **建造防禦塔：** 點擊地圖上可建造的圓形地基，開啟建造選單，選擇想放置的塔種。
+*   **升級防禦塔：** 點擊已建好的防禦塔可以查看屬性與可升級項目，點擊升級按鈕即可消耗金幣升級。
+*   **呼叫下一波：** 準備好後按下「Next Wave」按鈕，就會開始下一波敵人攻勢。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the best tower in the game?**
-     *   **A:** There is no single "best" tower. A successful defense relies on a smart combination of all four types. Use Cannons and Torches for groups, Ballistas for tough single targets, and Timewarp towers to slow everything down.
+*   **問：哪一種塔是最強的？**
+    *   **答：** 沒有單一「最強」塔，一套成功的防線必須靠四種塔的搭配：
+        用火砲與火焰塔處理成群敵人，用弩砲專點血厚單體，再搭配時空塔減速，
+        讓整體輸出最大化。
 
-*   **Q: Why can't I build a tower somewhere?**
-     *   **A:** You can only build on the designated circular plots found along the enemy path.
+*   **問：為什麼有些地方不能蓋塔？**
+    *   **答：** 你只能在路徑旁邊預設好的圓形地基上建塔，其他地形區域是無法放置的。
 
-*   **Q: Why is the map different from yesterday?**
-     *   **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-
+*   **問：為什麼今天的地圖跟昨天完全不同？**
+    *   **答：** 這正是《Endless Siege》的特色之一：遊戲每天會推出一張全新的隨機地圖，
+        讓所有玩家都在同一張圖上挑戰，帶來源源不絕的新鮮感與戰術變化。

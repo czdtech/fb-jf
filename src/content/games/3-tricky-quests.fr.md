@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: 3-tricky-quests
-title: '[FR] Brain Test 3: Tricky Quests'
-description: >-
-  [FR] Here's your chance to play Brain Test 3: Tricky Quests Game. Have fun
-  with this one!
+title: "Brain Test 3: Tricky Quests"
+description: "Brain Test 3: Tricky Quests mélange énigmes tordues et aventure : explore avec Alyx, collecte des objets et résous des quêtes pour retrouver les Gemmes de Pouvoir et sauver son père." 
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/3-tricky-quests.jpg
 tags:
@@ -14,75 +12,71 @@ score: 3.6/5  (787 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+*Brain Test 3: Tricky Quests* est le troisième épisode de la série signée Unico Studio. On y retrouve l’ADN de Brain Test – des énigmes qui cassent les codes – mais avec une dimension aventure beaucoup plus forte.
 
+Tu incarnes **Alyx**, partie en quête de six Gemmes de Pouvoir pour libérer son père prisonnier d’un sortilège. Les niveaux sont reliés entre eux, les scènes forment un petit monde connecté et une histoire principale.
 
+**Caractéristiques principales :**
 
-
-*Brain Test 3: Tricky Quests* is the third installment in the series from Unico Studio. While preserving the core "think outside the box" and "break the rules" puzzle-solving gameplay, this title introduces a significant evolution by incorporating stronger adventure and narrative elements, making it feel more like a puzzle-adventure game.
-
-In the game, players take on the role of **Alyx**, who embarks on a journey to find six Power Gems to save her magically trapped father. Unlike the level-based structure of its predecessors, *Brain Test 3* features an interconnected game world and a complete, overarching storyline.
-
-**Key Features:**
-
-*   **[FR]** **Fusion of Adventure and Puzzles:** The game is no longer a linear sequence of levels. Players must explore different scenes, find items, and use them to solve puzzles that block their path.
-*   **[FR]** **Inventory System:** This is the biggest new feature. Players can collect various items found in the environment and store them in Alyx's backpack. You need to figure out how to combine these items or apply them to specific scenarios at the right moment.
-*   **[FR]** **Workshop System:** Alyx has a workshop where you can combine key quest items or upgrade your tools, preparing you for the adventures ahead.
-*   **[FR]** **Interactive Dialogue:** The game introduces a dialogue choice system. By talking to NPCs (Non-Player Characters), you can obtain clues and advance the plot. Different choices can lead to different (and often humorous) outcomes.
-*   **[FR]** **Classic Tricky Puzzles:** Despite the new systems, the heart of the game remains the same: tricky puzzles that require you to use your imagination and challenge conventional thinking. Classic interactions like dragging, shaking, and zooming are still key to finding solutions.
+*   **Fusion aventure + énigmes :** ce n’est plus une simple succession de niveaux, mais un monde explorable où chaque scène cache des objets et des interactions.
+*   **Système d’inventaire :** récupère tout ce que tu trouves, stocke-le dans le sac d’Alyx et décide du bon moment pour l’utiliser.
+*   **Atelier dédié :** combine des fragments ou améliore tes outils afin de poursuivre la quête.
+*   **Dialogues interactifs :** les PNJ offrent des indices et déclenchent parfois des embranchements humoristiques.
+*   **Puzzles "tricky" classiques :** gestes comme glisser, secouer, zoomer restent indispensables pour contourner la logique habituelle.
 
 ---
 
-### **2. Game Walkthrough**
+### **2. Guide de jeu**
 
-The strategy for *Brain Test 3* not only inherits the mindset of the previous games but also requires a greater focus on resource management and exploration.
+La stratégie reprend l’esprit des précédents Brain Test tout en demandant davantage d’exploration et de gestion des ressources.
 
-*   **[FR]** **Core Principle: Explore and Collect**
-    *   **[FR]** When entering a new area, don't rush to solve the immediate puzzle. First, carefully observe and tap on all suspicious objects to see what can be collected into your inventory.
-*   **[FR]** **Master Your Inventory:**
-    *   **[FR]** **Drag and Use:** When facing a challenge, open your backpack and try dragging items from it onto characters or objects in the scene.
-    *   **[FR]** **Combine Items:** Sometimes, you need to drag two items onto each other within the inventory to craft a new, more useful tool.
-    *   **[FR]** **Check All Items:** Don't forget what you're carrying. The key to the current puzzle might be an inconspicuous item you collected a long time ago.
-*   **[FR]** **Pay Attention to Clues in Dialogue:**
-    *   **[FR]** Read all conversations carefully. NPCs' words often directly or indirectly hint at what you need to do next or what item you should be looking for.
-*   **[FR]** **Checklist for When You're Stuck:**
-    1.   **[FR]** Have I interacted with every element in the scene? (Tapping, dragging, rubbing, etc.)
-    2.   **[FR]** Is there an item in my backpack that I can use here?
-    3.   **[FR]** Can I combine items in my backpack to create a new tool?
-    4.   **[FR]** Do I need to return to a previous scene to find a missed item?
-    5.   **[FR]** Did I miss any key information in the dialogue?
-*   **[FR]** **The Hint System is Still Your Friend:**
-    *   **[FR]** If all else fails, the built-in "light bulb" hint system is still available. It will point you toward the critical step or the required item, helping you overcome the obstacle.
+*   **Explorer et ramasser :**
+    *   Dans chaque nouvelle zone, observe tout l’écran et touche chaque objet suspect avant de résoudre l’énigme évidente.
+*   **Maîtrise de l’inventaire :**
+    *   **Glisser et utiliser :** fais glisser un objet de ton sac vers un PNJ ou un élément du décor pour l’utiliser.
+    *   **Combiner des objets :** certains outils se créent en faisant glisser un objet sur un autre directement dans l’inventaire.
+    *   **Vérifier son sac :** un objet ramassé plus tôt peut être la clé du casse-tête actuel.
+*   **Surveiller les dialogues :**
+    *   Lis attentivement les répliques des PNJ ; elles donnent souvent l’indice ou l’objectif suivant.
+*   **Checklist quand tu es bloqué :**
+    1.  Ai-je interagi avec tous les éléments de la scène (objets, décor, titres, etc.) ?
+    2.  Un objet de mon sac peut-il être utilisé ici ?
+    3.  Puis-je combiner deux objets pour fabriquer un outil ?
+    4.  Dois-je retourner dans une scène précédente pour récupérer quelque chose ?
+    5.  Ai-je manqué une information donnée par un PNJ ?
+*   **Le système d’indices reste ton allié :**
+    *   Si tout échoue, l’icône ampoule t’indique l’étape cruciale ou l’objet nécessaire pour progresser.
 
 ---
 
-### **3. Operation Guide**
+### **3. Guide des commandes**
 
-The controls in *Brain Test 3* build upon the foundation of its predecessors, with the addition of inventory interactions.
+Les commandes reprennent la base des précédents Brain Test tout en ajoutant des interactions avec l’inventaire.
 
-| Action | Description | Example |
+| Action | Description | Exemple |
 | :--- | :--- | :--- |
-| **Tap/Click** | To interact with objects, characters, or dialogue options; to collect items. | Tapping a key on the ground to pick it up; selecting a dialogue choice. |
-| **Drag & Drop** | To move objects within the scene or to use an item from the inventory. | Dragging a ladder to a tree; dragging food from the backpack to a dog. |
-| **Item Combination** | Within the open inventory, drag one item on top of another. | Combining a rope and a hook to create a grappling hook. |
-| **Swipe** | To wipe away dirt or move obstacles. | Swiping away a pile of sand to uncover an item beneath it. |
-| **Pinch to Zoom** | To enlarge or shrink specific objects. | Zooming in on a photo to see a detail. |
-| **Shake/Tilt Device** | To interact using the phone's physical sensors. | Shaking the phone to make a coconut fall from a tree. |
+| **Toucher / cliquer** | Interagir avec objets, PNJ ou options de dialogue. | Ramasser une clé ou choisir une réplique. |
+| **Glisser-déposer** | Déplacer un élément ou utiliser un objet de l’inventaire sur une cible. | Faire glisser une échelle contre un mur. |
+| **Combiner des objets** | Dans le sac, glisser un objet sur un autre pour créer un outil. | Associer corde + crochet pour un grappin. |
+| **Balayer / frotter** | Retirer du sable, nettoyer ou repousser un obstacle. | Balayer un tas de sable pour révéler un bouton. |
+| **Pincer pour zoomer** | Agrandir/réduire pour inspecter un détail. | Zoomer sur une photo afin de lire un indice. |
+| **Secouer / incliner l’appareil** | Utiliser les capteurs physiques du téléphone. | Secouer pour faire tomber une noix de coco. |
 
 ---
 
-### **4. Frequently Asked Questions (FAQ)**
+### **4. Foire aux questions (FAQ)**
 
-**Q: How do I use the items in my backpack (inventory)?**
-**A:** Tap the backpack icon at the bottom of the screen to open it. Then, press and hold the item you want to use and drag it to the target location in the game scene. To combine items, drag one item onto another within the inventory screen.
+**Q : Comment utiliser les objets de mon inventaire ?**  
+**R :** Appuie sur l’icône du sac pour l’ouvrir, maintiens un objet puis fais‑le glisser vers la cible. Pour combiner, fais glisser un objet sur un autre directement dans le sac.
 
-**Q: What is the fundamental difference between Brain Test 3 and the first two games?**
-**A:** The main difference lies in the game structure. *Brain Test 1* is a collection of standalone puzzles. *Brain Test 2* introduced story-based chapters. *Brain Test 3* evolves into a full-fledged puzzle-adventure game with a complete main story, an inventory system, and an interconnected map, offering more freedom and continuity.
+**Q : En quoi Brain Test 3 est‑il différent des deux premiers ?**  
+**R :** Les deux premiers épisodes alignent des énigmes relativement indépendantes (le 2 ajoute des chapitres). Brain Test 3 devient une aventure avec histoire continue, inventaire persistant et atelier.
 
-**Q: Why can't I get past a certain area?**
-**A:** It's highly likely you are missing a key item. Try returning to previously visited scenes and search carefully for any collectible items you may have missed. Also, check if you can craft a new quest item in your workshop.
+**Q : Je n’arrive pas à passer une zone, pourquoi ?**  
+**R :** Il te manque sans doute un objet clé ou une fabrication d’atelier. Revisite les anciennes scènes, fouille chaque recoin et vérifie si tu peux assembler un nouvel outil.
 
-**Q: Is this game free?**
-**A:** Yes, *Brain Test 3* is free to download and play, but it contains ads. You can watch ads to receive hints. The game also offers an in-app purchase to remove ads.
+**Q : Le jeu est‑il gratuit ?**  
+**R :** Oui, il est free‑to-play avec des publicités (pour obtenir des indices) et des achats intégrés pour retirer les annonces.
 
-**Q: What is the Workshop for?**
-**A:** The workshop is a crucial location for advancing the main plot. When you collect specific quest items (like fragments of a Power Gem), you need to return to the workshop to assemble them or to craft/upgrade special tools necessary for your progress.
+**Q : À quoi sert l’atelier ?**  
+**R :** C’est l’endroit où tu assembles les fragments de Gemme de Pouvoir ou crées des outils spéciaux indispensables pour avancer dans l’histoire principale.

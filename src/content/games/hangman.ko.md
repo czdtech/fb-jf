@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: hangman
-title: '[KO] Hangman'
+title: Hangman 행맨 단어 맞히기
 description: >-
-  [KO] Classic word‑guessing: deduce the secret word by proposing letters,
-  avoiding too many wrong guesses before the figure is completed.
+  알파벳을 하나씩 추리해 숨겨진 단어를 맞히는 고전 단어 추리 게임입니다. 틀릴 때마다 행맨 그림이 완성되니, 그림이 모두 그려지기 전에
+  정답을 찾아야 합니다.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/hangman.jpg
 tags:
@@ -18,45 +18,80 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **게임 소개**
 
-Hangman is a classic word-guessing game where the objective is to uncover a secret word or phrase by guessing its letters one by one. The game begins with a series of blank spaces, representing each letter of the hidden word.
+`Hangman`은 알파벳을 하나씩 추리해 숨겨진 영어 단어나 문장을 맞히는 클래식
+단어 게임입니다. 게임이 시작되면 숨겨진 단어의 글자 수만큼 밑줄이 표시되고,
+플레이어는 그 안에 들어갈 것 같은 글자를 하나씩 골라 제출합니다.
 
-Players take turns guessing letters they believe are in the word. If a guessed letter is correct, it is revealed in all its positions. If the letter is incorrect, a part of a "hangman" stick figure is drawn. The game is won by successfully guessing all the letters in the word before the hangman drawing is completed. If the drawing is finished before the word is solved, the player loses.
+맞춘 글자는 해당 위치에 모두 공개되고, 틀린 글자를 고를 때마다 행맨(매달린
+사람) 스틱 피겨의 일부가 하나씩 그려집니다. 행맨 그림이 완전히 완성되기 전에
+모든 글자를 맞혀 단어를 완성하면 승리하고, 그림이 먼저 완성되면 패배합니다.
+디지털 버전에서는 남은 목숨 수, 풀이 속도 등에 따라 점수가 달라지기도 합니다.
 
-Many digital versions include scoring systems, rewarding points for correct letters, the speed of solving the puzzle, and the number of incorrect guesses (or "lives") remaining.
+### **플레이 전략 & 팁**
 
-### **Gameplay Strategy & Tips**
+1. **모음부터 시작하기**  
+   A, E, I, O, U 같은 모음은 대부분의 영어 단어에 들어가므로, 초반에 구조를
+   파악하기에 좋습니다. 예를 들어 ` _ A _ A _ A`처럼 나오면 BANANA를 쉽게
+   떠올릴 수 있듯이, 모음은 단어 윤곽을 잡는 데 핵심입니다.
 
-1.  **[KO]** **Start with Vowels**: The vowels (A, E, I, O, U) are present in almost every English word. Guessing them first is an excellent strategy to quickly reveal the word's structure. For example, if you guess 'A' and the word appears as `_ A _ A _ A`, you can make a strong educated guess that the word is "BANANA".
-2.  **[KO]** **Guess Common Consonants**: After the vowels, focus on the most frequently used consonants in the English language. A classic mnemonic for this is "Etaoin Shrdlu," but a more practical list includes **R, S, T, L, N**. Guessing these letters often yields good results.
-3.  **[KO]** **Think in Words, Not Just Letters (for Phrases)**: When the puzzle is a multi-word phrase, try to solve individual words. Guessing a small, common word like "THE" or "AND" can provide a huge clue to solving the entire phrase.
-4.  **[KO]** **Avoid Rare Letters Early**: Letters like **J, Q, X, and Z** are the least common in English. Save these for later when you have more context. Guessing them at the beginning is a high-risk, low-reward move.
-5.  **[KO]** **Use Context and Word Patterns**: Once you have a few letters revealed, look for common patterns. For example, a word ending in `_ I N G` is likely to have 'G' as its final letter. A `Q` is almost always followed by a `U`. Use your knowledge of spelling to make logical deductions.
+2. **자주 쓰이는 자음 우선**  
+   모음 다음에는 R, S, T, L, N처럼 출현 빈도가 높은 자음을 시도해 보세요.
+   이 글자들은 많은 단어에 포함되어 있어, 적은 시도로 큰 정보를 얻을 수
+   있습니다.
 
-### **Controls Guide**
+3. **문장일 땐 단어 단위로 생각하기**  
+   빈칸이 여러 단어로 나뉜 문장일 경우, 전체를 한 번에 보려 하지 말고
+   `THE`, `AND`처럼 자주 등장하는 짧은 단어부터 맞혀 나가면 전체 문장을
+   추리하기 쉬워집니다.
 
-The controls for digital versions of Hangman are extremely simple:
+4. **희귀 알파벳은 후반으로 미루기**  
+   J, Q, X, Z 같은 글자는 영어에서 매우 드물게 등장합니다. 초반에 시도하면
+   실패 확률이 높으니, 단어의 다른 글자가 어느 정도 드러난 뒤 마지막 퍼즐을
+   맞출 때 사용하는 쪽이 좋습니다.
 
-*   **[KO]** **Letter Guessing**: You can either **click** the on-screen alphabet letters with your mouse or **type** the corresponding letter on your keyboard.
+5. **철자 패턴 활용하기**  
+   몇 글자가 드러난 후에는 철자 패턴을 떠올려 보세요. 예를 들어 `_ I N G`로
+   끝나는 단어는 대부분 동사 진행형이며, Q 뒤에는 거의 항상 U가 오는 등
+   영어 철자 규칙을 활용하면 추측의 정확도가 크게 올라갑니다.
 
-### **Frequently Asked Questions (FAQ)**
+### **조작 방법**
 
-**1. What is the best letter to guess first?**
-Statistically, **'E'** is the most common letter in the English language, making it the strongest opening guess. After 'E', the other vowels (A, O, I, U) and top consonants (T, R, N, S) are excellent choices.
+디지털 버전의 조작은 매우 간단합니다.
 
-**2. What are some of the hardest Hangman words?**
-The hardest words are often short, use rare letters, or lack common vowels.
-*   **[KO]** **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
-*   **[KO]** **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
-*   **[KO]** **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
+* **글자 선택**: 화면에 표시된 알파벳 버튼을 마우스로 클릭하거나, 키보드에서
+  해당 글자를 직접 입력해 제출합니다.
 
-**3. What skills can you learn from playing Hangman?**
-Hangman is an excellent educational tool that helps improve:
-*   **[KO]** **Vocabulary**: You are exposed to new words.
-*   **[KO]** **Spelling**: You learn and reinforce correct spelling patterns.
-*   **[KO]** **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
+### **자주 묻는 질문(FAQ)**
 
-**4. What happens when I guess a wrong letter?**
-Each incorrect guess adds another part to the hangman drawing (e.g., the head, then the body, then an arm, etc.). You lose the game if you make too many incorrect guesses and the entire figure is drawn.
+**1. 처음에 어떤 글자를 고르는 것이 가장 좋나요?**  
+통계적으로 E가 가장 자주 등장하는 글자라, 첫 시도로 적합합니다. 그 다음으로는
+다른 모음(A, O, I, U)과 자주 쓰이는 자음(T, R, N, S, L)을 추천합니다.
 
+**2. 특히 풀기 어려운 단어에는 어떤 것들이 있나요?**  
+
+- **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
+
+- **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
+
+- **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
+길이가 짧고 희귀 알파벳이 포함된 단어, 또는 일반적인 모음이 없는 단어가
+어렵습니다. 예를 들어 J와 Z를 동시에 쓰는 `JAZZ`, 모음 없이 Y로만 이루어진
+
+- **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
+
+- **Spelling**: You learn and reinforce correct spelling patterns.
+
+- **Vocabulary**: You are exposed to new words.
+`RHYTHM`, 독특한 철자 조합을 가진 `FJORD`, `GNAT`, `WRY` 등이 대표적입니다.
+
+**3. Hangman을 통해 어떤 능력을 기를 수 있나요?**  
+새로운 단어를 접하며 **어휘력**이 늘고, 정확한 철자 패턴을 반복해 보며
+**철자 실력**이 향상됩니다. 또한 제한된 정보를 바탕으로 가장 가능성 높은
+다음 수를 고르는 **논리적 추리력**도 자연스럽게 훈련됩니다.
+
+**4. 틀린 글자를 고르면 정확히 어떤 일이 일어나나요?**  
+틀릴 때마다 행맨 그림에 머리, 몸통, 팔, 다리 등이 한 부분씩 추가됩니다.
+설정된 횟수만큼 오답을 누적해 그림이 완성되면, 해당 라운드는 패배로
+처리됩니다.

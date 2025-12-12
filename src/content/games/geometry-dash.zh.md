@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: geometry-dash
-title: '[ZH TRANSLATION NEEDED] Geometry Dash Wave Spam - Play Geometry Dash Online'
-description: '[ZH TRANSLATION NEEDED] Forget the fluff. This isn'
+title: "Geometry Dash Wave Spam - 線上幾何衝刺波形特訓"
+description: >-
+  別再管那些花俏裝飾了。這不是普通的 Geometry Dash 關卡，
+  而是一段純粹、只剩波形模式的地獄試煉，用來打碎你的手感，再把你鍛造成真正的波形高手。
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /geometry-dash.png
 tags:
@@ -10,16 +12,22 @@ tags:
 score: 4.5/5  (604 votes)
 ---
 
-[ZH TRANSLATION NEEDED] Forget the fluff. This isn't your standard Geometry Dash stroll. This is a pure, uncut, wave-only gauntlet designed to break you and build you back stronger. We've stripped out the portals, the pads, and the coins—it's just you, your ship, and a pixel-perfect corridor of death.
- 
+忘掉一切「點綴關卡」的包裝。這裡沒有重力門、沒有跳板、沒有金幣收集，
+只有你、你的波形飛船，以及一條像刮刀刃一樣窄的死亡走廊。
+
 ### MASTER THE WAVE OR DIE TRYING
- 
-[ZH TRANSLATION NEEDED] This is the ultimate training ground. A brutalist trial by fire where your muscle memory and rhythmic precision are the only things that matter. The corridors are tight, the spikes are unforgiving, and a single mistimed tap means instant failure. No luck, no shortcuts—just raw, unfiltered skill.
- 
-[ZH TRANSLATION NEEDED] If you can't handle the pressure, you won't last a second. But if you're here to truly master the wave, to sharpen your reflexes until they're razor-edged, then this is your arena. Every run is a high-octane lesson in control.
- 
-#### Features:
- 
-- Pure Wave Gameplay: Nothing but the wave form. This is the ultimate test of your core mechanics.
-- Pixel-Perfect Corridors: Navigate spike tunnels so tight they demand flawless control. One pixel can be the difference between glory and another reset.
-- Brutal, High-Intensity Runs: This level is designed for quick, explosive attempts. Learn, adapt, and go again—faster and sharper each time.
+
+這裡是專門為波形模式打造的訓練場，一場殘酷卻純粹的試煉。
+你的肌肉記憶與節奏感是唯一能依靠的東西——走廊極窄、尖刺毫不留情，
+任何一次錯拍都代表立刻重來。沒有運氣成分，也沒有捷徑，只有乾淨俐落的操作。
+
+如果承受不了壓力，你可能連一秒都撐不住；
+但如果你是來真正掌握 Wave 模式、想把反應磨到像刀鋒一樣銳利，這裡就是你的競技場。
+每一次嘗試都是一堂高強度的操控課。
+
+#### 特色亮點
+
+- **純粹波形玩法：** 完全移除其他形態，只保留 Wave，一針見血地檢驗你的核心操作能力。
+- **像素級走廊設計：** 尖刺通道窄到只容許幾個像素誤差，一個不小心就會撞牆重來。
+- **高張力短回合：** 關卡節奏設計成短促而爆發，每次失敗都能快速再來，
+  在高密度的嘗試中不斷學習、調整與進步。

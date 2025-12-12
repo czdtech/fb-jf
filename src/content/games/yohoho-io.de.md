@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: yohoho-io
-title: '[DE] YoHoHo.io'
-description: >-
-  [DE] Set sail for adventure in YoHoHo.io, a thrilling pirate-themed battle
-  royale game! Grow your pirate by collecting gold, eliminate smaller opponents,
-  and avoid the shrinking safe zone. Master your sword attacks and dash
-  abilities to become the most feared pirate on the high seas!
+title: "YoHoHo.io"
+description: "Stich in YoHoHo.io als Pirat in See: Sammle Gold, wachse, schalte kleinere Freibeuter aus und bleib in der schrumpfenden Safe‑Zone, bis nur noch du auf der Insel übrig bist." 
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/yohoho-io.jpg
 tags:
@@ -17,37 +13,31 @@ score: 5.0/5  (316 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+YoHoHo.io ist ein schnelles Battle‑Royale‑.io‑Spiel mit Piraten‑Setting. Du startest als kleiner Pirat auf einer Insel, sammelst Gold, wirst größer und stärker und versuchst, alle anderen Spieler auszuschalten. Gleichzeitig schrumpft die sichere Zone stetig, sodass die Kämpfe immer enger und intensiver werden.
 
-### Game Introduction
+### Spielanleitung
 
-YoHoHo.io is a fast-paced, pirate-themed battle royale .io game where players compete to be the last pirate standing on a shrinking island. Starting as a small pirate, you must collect gold, grow in size and strength, and eliminate other players to dominate the leaderboard. The game combines simple controls with addictive, competitive gameplay.
+- **Gold sammeln:** Sammle die Goldhaufen auf der Insel ein. Je mehr Gold du hast, desto größer und gefährlicher wird dein Pirat – Reichweite und Schaden steigen.
+- **Gegner ausschalten:** Suche dir kleinere Piraten, um sie mit deinem Schwert anzugreifen und ihr Gold zu kassieren. Größere solltest du zunächst meiden.
+- **Shrinking Zone:** Der Rand der Karte wird nach und nach zu einer gefährlichen Zone. Bleib innerhalb des sicheren Bereichs, sonst verlierst du schnell Lebenspunkte.
+- **Dash geschickt nutzen:** Mit dem Dash stürmst du schnell vor oder entkommst brenzligen Situationen – setze ihn nicht blind ein, sondern gezielt für Flanken oder Flucht.
 
-### Gameplay Guide
+### Steuerung
 
-- **Collect Gold:** Your primary objective is to collect gold scattered around the island. Gold increases your pirate's size, attack range, and damage.
-- **Eliminate Opponents:** Attack smaller pirates to defeat them and collect their dropped gold. Avoid larger pirates until you're strong enough.
-- **Shrinking Map:** The safe zone on the island continuously shrinks, forcing players closer together and increasing the intensity of battles. Stay within the safe zone to avoid taking damage.
-- **Dash Ability:** Use your dash ability strategically to quickly close distances, escape danger, or dodge attacks.
+- **Bewegen:** `WASD` oder `Pfeiltasten` / Ziehen mit Maus bzw. Finger.
+- **Angreifen:** `Linksklick` oder `Leertaste` / Tippen.
+- **Ladeangriff:** Halte `Linksklick` oder `Leertaste`, um einen stärkeren Schlag zu laden.
+- **Dash:** `Rechtsklick` oder separate Dash‑Taste (Mobil).
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- **Movement:** `WASD` or `Arrow Keys` (Keyboard) / Drag mouse or finger (Mouse/Touch)
-- **Attack:** `Left Click` or `Spacebar` (Keyboard) / Tap (Touch)
-- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
-- **Dash:** `Right Click` (Mouse) / Dedicated dash button (Mobile)
+**Wie werde ich stärker?**  
+Indem du Gold sammelst – von der Insel oder besiegten Gegnern. Mit wachsender Größe nehmen auch Reichweite und Schaden zu.
 
-### Frequently Asked Questions (FAQ)
+**Was passiert außerhalb der Safe‑Zone?**  
+Im roten Bereich verlierst du kontinuierlich Leben. Bleib so viel wie möglich im sicheren Ring.
 
-**How do I get bigger and stronger?**
-
-By collecting gold. The more gold you collect, the larger your pirate becomes, which increases your attack range and damage output.
-
-**What happens if I go outside the safe zone?**
-
-If you go outside the safe zone (indicated by the red area), your pirate will start taking continuous damage, eventually leading to defeat.
-
-**Are there different pirate characters?**
-
-Yes, you can unlock different pirate characters, each with unique appearances and sometimes different starting stats or abilities, as you progress and earn more gold.
-
+**Gibt es verschiedene Piratencharaktere?**  
+Ja, du kannst nach und nach neue Piraten mit anderen Looks (und teils leicht unterschiedlichen Werten) freischalten, wenn du genug Gold/Erfolge sammelst.

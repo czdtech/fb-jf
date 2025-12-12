@@ -1,10 +1,11 @@
 ---
 locale: zh
 urlstr: zombie-gun
-title: '[ZH TRANSLATION NEEDED] Zombie Gun'
+title: 'Zombie Gun：物理弹射打僵尸'
 description: >-
-  [ZH TRANSLATION NEEDED] Zombie Gun is a physics shooter — ricochet bullets,
-  trigger barrels, and clear rooms with clever angles and limited ammo.
+  《Zombie Gun》是一款强调“反弹与连锁”的物理射击解谜游戏。
+  利用墙面反弹子弹、引爆红色油桶、击倒场景道具，
+  用有限的弹药清空房间里的僵尸。
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/zombie-gun.png
 tags:
@@ -15,28 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive barrels, and collapse props to eliminate zombies with few shots. Later rooms add armored foes that require environmental kills.
+《Zombie Gun》是一款主打角度与弹道规划的物理射击游戏。
+你并不是单纯地对准僵尸连开几枪，而是要巧妙利用墙壁反弹、爆炸桶和可破坏场景，
+通过一两发精确射击引发连锁反应，把整屋僵尸一网打尽。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Bank shots: Use walls to hit tucked targets.
-2.  [ZH TRANSLATION NEEDED] Red barrels: Chain explosions to clear clusters.
-3.  [ZH TRANSLATION NEEDED] Prop falls: Shoot supports to drop objects on enemies.
-4.  [ZH TRANSLATION NEEDED] Ammo discipline: Plan routes before firing.
-5.  [ZH TRANSLATION NEEDED] Armor rule: Use environment against armored zombies.
+随着关卡推进，场景会变得越来越复杂，
+还会出现身披护甲、正面攻击很难击杀的僵尸，
+这时更需要借助环境伤害来解决难缠目标。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
+1.  **利用反弹射击（Bank shots）：**  
+    很多僵尸藏在墙后或角落里，直接射击无法命中，
+    需要依靠子弹在墙壁上的反弹角度来“拐弯”击中他们。
+2.  **优先引爆红色油桶（Red barrels）：**  
+    红色油桶是最重要的连锁道具，
+    一旦被击中就会爆炸，伤害周围大片区域，
+    尤其适合解决扎堆的僵尸群。
+3.  **砸落场景道具（Prop falls）：**  
+    对某些支撑结构或悬挂物开枪，
+    可以让大型物体砸向下方僵尸，是对付护甲僵尸的好办法。
+4.  **规划弹药路线（Ammo discipline）：**  
+    每个房间的子弹数量通常有限，
+    开枪前先在心中模拟好“反弹 → 爆炸 → 倒塌”的路线，
+    尽量用最少的射击完成最大范围的清理。
+5.  **善用环境对付精英僵尸（Armor rule）：**  
+    对于正面吃子弹仍然顽强的敌人，
+    不要硬拼，优先寻找可以炸翻或砸中的环境机关。
 
-### Frequently Asked Questions (FAQ)
+### 操作说明
 
-- Q: I run out of ammo.
-  
-[ZH TRANSLATION NEEDED]   A: Plan a bank/explosion route before the first shot.
+- **瞄准与射击：** 移动鼠标调整射击方向，点击发射子弹。
+- **重试关卡：** 通过界面上的重开按钮重新挑战本关；部分版本每个房间的弹药数量有限，请谨慎开火。
 
-- Q: Armored ones don’t die.
-  
-[ZH TRANSLATION NEEDED]   A: Drop props or explode barrels near them.
+### 常见问题（FAQ）
 
+- **问：总是子弹打光了还剩僵尸怎么办？**  
+  **答：** 开枪前先规划好路线，优先利用反弹和爆炸桶，
+  通过一发子弹引爆成片僵尸，而不是逐个点射。
+
+- **问：有些穿铠甲的僵尸打不死？**  
+  **答：** 护甲僵尸更适合用环境消灭，
+  多观察场景中可爆炸或可坠落的道具，
+  利用它们制造大范围伤害。

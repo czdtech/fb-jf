@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: pirate-poker
-title: '[DE] Pirate Poker'
+title: Pirate Poker
 description: >-
-  [DE] Ahoy! Bet, bluff, and build the best five-card hand in Pirate Poker.
-  Challenge salty sea dogs, manage your doubloons, and prove you're the sharpest
-  card shark on the seven seas.
+  Ahoi! Setze, bluffe und stelle in Pirate Poker das beste Fünf-Karten-Blatt
+  zusammen. Fordere raue Seebären heraus, verwalte deine Dublonen und zeige,
+  dass du der schärfste Kartenspieler auf den sieben Weltmeeren bist.
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/pirate-poker.png
 tags:
@@ -17,37 +17,62 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Pirate Poker ist klassisches Five-Card-Draw-Poker mit Piraten-Flair. Du sitzt
+ mit rauen Seebären am Tisch, setzt deine Gold-Dublonen und versuchst, das
+ bestmögliche Fünf-Karten-Blatt zu bilden. Jede Runde besteht aus einer
+ Setzphase, einem Kartentausch und dem finalen Showdown, bei dem entschieden
+ wird, wer den Pott gewinnt. Strategie, Psychologie und ein Quäntchen Glück
+ spielen dabei zusammen.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Pirate Poker is a classic five-card draw poker game with a swashbuckling pirate theme. You'll sit at a table with salty pirate opponents, betting your gold doubloons and trying to build the best possible five-card hand. The game involves rounds of betting, a chance to exchange your cards to improve your hand, and a final showdown to see who wins the pot. It's a game of strategy, psychology, and a little bit of luck.
+1.  **Blatt-Rangfolgen kennen:** Ziel ist das beste Fünf-Karten-Blatt. Von
+    hoch nach niedrig gilt in der Regel: Royal Flush, Straight Flush, Vierling,
+    Full House, Flush, Straight, Drilling, Zwei Paare, Ein Paar, High Card.
+2.  **Tauschphase nutzen:** Nach der ersten Setzrunde kannst du Karten
+    abwerfen und neue ziehen. Hast du ein Paar, wirfst du oft die übrigen drei
+    Karten ab. Fehlt dir nur eine Karte zur Straße oder Farbe, behältst du die
+    passenden Karten und tauschst nur die unpassende.
+3.  **Setzstrategie:** Scheue dich nicht zu passen (Fold), wenn dein Blatt
+    schwach ist und hoch gesetzt wird. Gelegentlich lohnt sich ein Bluff: Mit
+    einem mittelmäßigen Blatt aggressiv zu setzen kann Gegner zum Aufgeben
+    bewegen.
+4.  **Gegner lesen:** Achte auf das Setzverhalten. Große, selbstbewusste Bets
+    deuten auf ein starkes Blatt – oder einen Bluff. Häufiges Checken kann auf
+    Unsicherheit oder Schwäche hindeuten.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Know the Hand Rankings:** The goal is to make the best five-card hand. From highest to lowest, the standard rankings are: Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, Straight, Three of a Kind, Two Pair, One Pair, and High Card.
-2.  **[DE]** **The Draw Phase:** After the first round of betting, you'll have a chance to discard some of your cards and draw new ones. This is your chance to improve your hand. If you have a pair, discard the other three cards. If you are close to a Straight or a Flush, discard the one card that doesn't fit.
-3.  **[DE]** **Betting Strategy:** Don't be afraid to "Fold" if you have a very weak hand and the bets are getting high. Sometimes, you can "Bluff" by betting aggressively with a weak hand to try and scare your opponents into folding.
-4.  **[DE]** **Reading Your Opponents:** Pay attention to how your opponents are betting. If an opponent makes a very large bet, they likely have a strong hand (or are bluffing!). If they just "Check" (bet nothing), their hand might be weak.
+Du bedienst alles über Buttons auf dem Bildschirm.
 
-### Controls Guide
+*   **Bet/Raise:** Erhöhe den aktuellen Einsatz.
+*   **Check:** Setze nichts und gib den Zug weiter (nur möglich, wenn vor dir
+    noch niemand gesetzt hat).
+*   **Call:** Gleiche den aktuellen Einsatz an, um in der Runde zu bleiben.
+*   **Fold:** Steige aus der Runde aus und verzichte auf den Pott.
+*   **Discard:** In der Tauschphase klickst du Karten an, die du abwerfen
+    möchtest, und bestätigst mit „Draw“.
 
-The game is played with on-screen buttons.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Bet/Raise:** Increase the current bet.
-*   **[DE]** **Check:** Bet nothing, passing the action to the next player (only possible if no one has bet before you in the round).
-*   **[DE]** **Call:** Match the current bet to stay in the hand.
-*   **[DE]** **Fold:** Give up the hand, forfeiting any money already in the pot.
-*   **[DE]** **Discard:** During the draw phase, click on the cards you want to get rid of, then click the "Draw" button.
+*   **F: Was ist die beste Hand im Poker?**
+    **A:** Ein Royal Flush (A, K, Q, J, 10 in derselben Farbe) ist die höchste
+    mögliche Hand.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Was bedeutet „bluffen“?**
+    **A:** Beim Bluff tust du so, als hättest du ein sehr starkes Blatt, indem
+    du offensiv setzt. Ziel ist es, Gegner mit möglicherweise besseren Karten
+    zum Aufgeben zu bringen.
 
-*   **[DE]** **Q: What is the best hand in poker?**
-    *   **[DE]** **A:** A Royal Flush (A, K, Q, J, 10, all of the same suit) is the highest possible hand.
+*   **F: Wann sollte ich passen (Fold)?**
 
-*   **[DE]** **Q: What does it mean to "bluff"?**
-    *   **[DE]** **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
+    - **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
 
-*   **[DE]** **Q: When should I fold?**
-    *   **[DE]** **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
+- **Q: When should I fold?**
 
+    - **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
+    **A:** Wenn dein Blatt sehr schwach ist (kein Paar, keine realistische
+    Chance auf Straße/Flush) und Gegner hoch setzen, ist es oft besser, den
+    kleinen Verlust zu akzeptieren, statt noch mehr Dublonen zu riskieren.

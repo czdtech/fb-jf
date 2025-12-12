@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: flames-fortune
-title: '[DE] Flames & Fortune'
+title: "Flames & Fortune"
 description: >-
-  [DE] Flames & Fortune is a tactical card‑style battler — manage hands, trade
-  tempo, and outplay foes with smart turns.
+  Flames & Fortune ist ein taktischer, kartenähnlicher Battler – verwalte deine
+  Hand, nutze Tempo-Vorteile und überliste Gegner mit klug geplanten Zügen.
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/flames-fortune.jpg
 tags:
@@ -14,29 +14,44 @@ score: 4.0/5  (1776 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Flames & Fortune ist ein kompaktes, rundenbasiertes Kampfspiel, das sich an
+Kartenspiele anlehnt. Du spielst Effekte in möglichst effizienten Sequenzen,
+verwaltet begrenzte Ressourcen und reagierst auf die Absichten deiner Gegner,
+um den Kampfverlauf zu deinen Gunsten zu drehen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Zugkurve planen:** Versuche, deine Ressourcen pro Runde möglichst komplett
+   zu nutzen, statt Energie ungenutzt verfallen zu lassen.
+2. **Value-Trades setzen:** Nutze kleinere Karten, um große Spielzüge in der
+   nächsten Runde vorzubereiten.
+3. **Intents lesen:** Wenn dir das Spiel anzeigt, was der Gegner vorhat, kannst
+   du gezielt mit Block, Konter oder Kontroll-Effekten reagieren.
+4. **Fokus im Deck:** Baue lieber ein Deck mit wenigen klaren Synergien, als
+   viele verstreute Ideen zu mischen.
+5. **Mulligan klug nutzen:** Wenn es eine Starthand-Neuzieh-Funktion gibt,
+   tausche langsame Hände gegen schnellere Optionen, vor allem gegen aggressive
+   Gegner.
 
-Flames & Fortune is a compact, turn‑based battler with card‑like decisions. Play effects in efficient sequences, manage limited resources, and adapt to enemy intents to swing momentum your way.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Karten ausspielen und Zug beenden: Karte anklicken/antippen und die Aktion
+  bestätigen.  
+- Effekte einsehen: Karte mit Maushover oder Tipp halten, um den Text zu
+  lesen.
 
-1.  **[DE]** Curve planning: Spend your turn’s resources cleanly; avoid floating energy.
-2.  **[DE]** Value trades: Use small cards to set up big swings next turn.
-3.  **[DE]** Read intents: Counter incoming damage with blocks or denies.
-4.  **[DE]** Deck focus: Prioritize consistent synergies over scattered picks.
-5.  **[DE]** Mulligan wisely: If available, mulligan slow hands against fast foes.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Ist das Spiel sehr glückslastig?**  
+  **A:** Zufall spielt eine Rolle, wird aber durch saubere Sequenzen und
+  Ressourcenplanung abgemildert.
 
-- Play/End turn: Click/tap cards and confirm actions.
-- Inspect: Hover/tap to read effects.
+- **F: Was sind starke Builds?**  
+  **A:** Konzentriere dich auf wenige Synergien (z.B. Burn, Rüstungsaufbau,
+  Kontrollpaket), statt alles ein bisschen zu machen.
 
-### Frequently Asked Questions (FAQ)
-
-- RNG heavy? Mitigated by smart sequencing and resource planning.
-- Best builds? Lean into a few synergies rather than many partial ones.
-- Can I recover from bad draws? Stabilize with defense and play for two‑turn swings.
-
+- **F: Kann ich mich von schlechten Draws erholen?**  
+  **A:** Ja – stabilisiere mit defensiven Zügen und plane
+  Zwei-Runden-Powerplays, statt jeden Zug einzeln zu denken.

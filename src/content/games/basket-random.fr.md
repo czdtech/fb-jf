@@ -1,13 +1,9 @@
 ---
 locale: fr
 urlstr: basket-random
-title: '[FR] Basket Random'
-description: >-
-  [FR] A guide to Basket Random, the wacky and unpredictable physics-based
-  basketball game. Learn the one-button controls, strategies for embracing
-  chaos, and how to win in this hilarious 2-player game.
-iframeSrc: >-
-  https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
+title: "Basket Random"
+description: "Basket Random est un jeu de basket complètement chaotique basé sur la physique : un seul bouton pour sauter, des terrains, ballons et joueurs qui changent à chaque point, et des matchs délirants à 2 joueurs."
+iframeSrc: "https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html"
 thumbnail: /new-images/basket-random.jpg
 tags:
   - casual
@@ -16,56 +12,58 @@ score: 4.2/5  (284 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Basket Random* est un jeu de basket 2D ultra‑débile où tu contrôles deux joueurs « poupées de chiffon » avec un seul bouton. Ton objectif : inscrire 5 points avant l’adversaire dans un face-à-face survitaminé.
 
+Après chaque panier, presque tout change : longueur du terrain, gravité, taille des bras, type de ballon, sol glacé, etc. Aucun round ne se ressemble vraiment.
 
+Tu ne peux pas vraiment « diriger » tes joueurs ; tu peux seulement influencer leurs sauts et leurs mouvements de bras via le timing de tes appuis, ce qui donne des situations aussi imprévisibles qu’hilarantes.
 
+### Guide de jeu
 
-### Detailed Introduction
+Gagner consiste moins à contrôler parfaitement tes joueurs qu’à apprivoiser le chaos et à réagir à ce qu’il se passe à l’écran.
 
-*Basket Random* is a chaotic and hilarious physics-based basketball game defined by its extreme randomness. The game pits two teams of two ragdoll-like players against each other on a 2D court. The objective is simple: be the first team to score 5 points.
+1.  **Accepte le chaos**
+   Tu ne contrôleras jamais parfaitement tes personnages. Ton but est de choisir le bon moment pour sauter, pas de micro‑gérer leurs déplacements.
 
-What makes the game unique is that almost everything changes with every point scored. The court might become long, short, or icy. The players might get long arms, big heads, or become bouncy. Even the ball itself can change, transforming from a standard basketball into a football, a bowling ball, or even a smaller, faster ball.
+2.  **Maîtrise le timing du bouton**
+    *   **En attaque :** saute pour récupérer le ballon ou lancer au moment exact où tes bras se balancent.
+    *   **En défense :** un saut calé sur le tir adverse permet de contrer ou d’intercepter.
 
-Players have extremely limited control over their characters, who move and jump in an unwieldy, floppy manner. The gameplay is less about precise skill and more about mastering the timing of a single button press to jump, flail, and hopefully guide the ball into the opponent's hoop. This unpredictable nature makes every match a frantic and comical experience.
+3.  **Utilise les contacts physiques**
+   Se cogner contre les adversaires ou ton coéquipier peut faire tomber le ballon ou te propulser plus haut. Tu peux même utiliser la tête de l’autre comme tremplin.
 
-### Gameplay Strategy
+4.  **Adapte-toi après chaque point**
+   Après chaque panier, regarde immédiatement ce qui a changé : terrain glacé, ballons lourds, bras géants, etc. Ajuste ton timing en fonction de la nouvelle physique.
 
-Winning in *Basket Random* is about taming the chaos, not controlling it.
+5.  **Positionnement simple mais utile**
+   Essaie malgré tout de garder un joueur proche de ton panier en défense, et l’autre davantage vers le ballon en attaque.
 
-1.  **[FR]** **Embrace the Chaos:** The first and most important rule is to accept that you cannot fully control your players. They will stumble, fall, and spin unpredictably. The goal is to influence their actions at the right moment, not dictate their every move.
-2.  **[FR]** **Master Your Timing:** Since you only have one button, *when* you press it is the only skill that matters.
-    *   **[FR]** **On Offense:** Press the button to jump towards the ball or to perform a "shooting" motion when you have it. Sometimes a well-timed jump can launch the ball from your hands directly into the basket.
-    *   **[FR]** **On Defense:** Timing your jump correctly can block an opponent's shot or even steal the ball mid-air. Get your player between the ball and your basket.
-3.  **[FR]** **Use Your Opponent (and Teammate):** The physics engine applies to everyone. Bumping into other players can knock the ball loose or change their trajectory. You can even inadvertently use another player's head as a platform to jump higher.
-4.  **[FR]** **Adapt Instantly to New Conditions:** After every point, take a split second to assess the new random elements. Is the court now covered in ice? Is the ball heavy? Are your arms comically long? Your strategy must change immediately. For example, on an icy court, you'll slide more, so you need to press the button earlier to account for the drift.
-5.  **[FR]** **Positional Awareness:** Despite the randomness, try to keep your players in a useful position. On defense, stay closer to your own basket. On offense, try to get under the ball to propel it toward the opponent's hoop.
+### Commandes
 
-### Controls Guide
+Le jeu est célèbre pour sa prise en main à un seul bouton adaptée aussi bien aux claviers qu’aux écrans tactiles.
 
-The game is famous for its extremely simple, single-button control scheme, designed for two players on one keyboard.
+*   **Joueur 1 (PC) :**
+    *   **Touche `W`** ou flèche `↑` pour sauter / agiter les bras.
+*   **Joueur 2 (PC) :**
+    *   **Touche `↑`** ou `W` (selon le mapping) pour effectuer les mêmes actions.
+*   **Mobile / tactile :**
+    *   Tape sur la moitié gauche (J1) ou droite (J2) de l’écran pour déclencher les sauts.
 
-*   **[FR]** **Player 1:**
-    *   **[FR]** **`W` Key** or **`Up Arrow` Key**: Jump / Fling arms.
-*   **[FR]** **Player 2:**
-    *   **[FR]** **`Up Arrow` Key** or **`W` Key**: Jump / Fling arms. (The controls depend on the specific version, but it's always one key per player).
-*   **[FR]** **For Mobile / Touchscreen Devices:**
-    *   **[FR]** Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**1. Comment bien contrôler mon personnage ?**  
+Tu ne le contrôles jamais totalement : tu joues uniquement sur le timing des sauts et des moulinets de bras. Accepte cette part de chaos.
 
-**1. How do I properly control my character?**
-You don't—and that's the point of the game! You can only influence your character by timing your jumps. The ragdoll physics are designed to be clumsy and unpredictable for comedic effect.
+**2. Pourquoi le terrain et la balle changent-ils tout le temps ?**  
+Parce que c’est la mécanique « Random » : chaque panier recharge la partie avec un nouvel environnement (glace, ballons géants, gravité modifiée…).
 
-**2. Why does the court/ball/player change after every point?**
-This is the core "Random" mechanic of the game. It ensures that no two rounds are the same and keeps the gameplay fresh and unpredictable.
+**3. Comment gagne-t-on un match ?**  
+Le plus souvent, la première équipe à cinq points remporte la rencontre. Certains modes personnalisés permettent de modifier ce total.
 
-**3. How do I win a match?**
-The first player (or team) to score 5 points wins the entire match.
+**4. Peut-on y jouer en solo ?**  
+Oui, un mode contre l’IA existe, mais le jeu est plus fun en duel local sur le même appareil.
 
-**4. Can I play this game by myself?**
-Yes, *Basket Random* includes a single-player mode where you can compete against a computer-controlled AI opponent.
-
-**5. What is the best "random" variation?**
-There is no "best" variation, as they are all designed to be chaotic. However, some players find the long-armed players useful for blocking and shooting, while others enjoy the challenge of a heavy bowling ball or an icy court. The fun comes from adapting to whatever the game throws at you.
-
+**5. Quel est le “random” le plus avantageux ?**  
+Il n’y en a pas vraiment : bras géants = contres faciles, faible gravité = dunks improbables. Teste chaque variation pour trouver celle qui correspond à ton style.

@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: hexa-dungeon
-title: '[ZH TRANSLATION NEEDED] Hexa Dungeon'
-description: >-
-  [ZH TRANSLATION NEEDED] Enter the Hexa Dungeon and fight off skeletons! A
-  unique match-3 puzzle game where you connect hexagonal tiles of the same color
-  to unleash powerful attacks on your enemies.
+title: "《Hexa Dungeon》六角地牢连线战"
+description: "在《Hexa Dungeon》中走进六角地牢，对抗骷髅与怪物——通过在六边形棋盘上连接同色宝石触发消除，用更长的连线打出更高伤害，是一款融合三消与地牢战斗的解谜 RPG。"
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/hexa-dungeon.png
 tags:
@@ -17,30 +14,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Hexa Dungeon is an innovative puzzle-RPG that combines match-3 mechanics with dungeon-crawling combat. In this game, you face off against skeletons and other monsters in a dungeon. To attack your enemies, you must connect chains of three or more identical, adjacent hexagonal tiles on the puzzle board below. The longer the chain you create, the more powerful your attack will be. It's a strategic game where you must balance making powerful attacks with setting up future moves.
+《Hexa Dungeon》是一款把三消机制和地牢战斗融合在一起的解谜 RPG。你将在地牢中与骷髅和其它怪物对战，下方是由六角格组成的棋盘，要攻击敌人，就必须在棋盘上连接三格或以上相同颜色且相邻的六边形宝石，形成一条连续的链。连线越长，对敌人造成的伤害就越高。每一步既要打出当下的高伤害，又要为后续回合留下可用的布局，是一款非常看重前后手规划的策略游戏。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Longer Chains = More Damage:** The core strategy is to create the longest possible chain of matching tiles. A chain of 5 tiles will do significantly more damage than a chain of 3. Always scan the board for the best possible connection before making a move.
-2.  [ZH TRANSLATION NEEDED] **Plan Ahead:** Look at the board and think a few moves ahead. Sometimes, making a smaller match of 3 can position other tiles to allow for a much larger match on your next turn.
-3.  [ZH TRANSLATION NEEDED] **Focus Fire:** In levels with multiple enemies, you can often choose which enemy to target. Focus your attacks on one enemy at a time to defeat them more quickly, reducing the amount of incoming damage you take.
-4.  [ZH TRANSLATION NEEDED] **Special Tiles:** Keep an eye out for any special tiles that may appear on the board. These could be bombs or other power-ups that can be activated by including them in a match, resulting in extra damage or other beneficial effects.
+### 游戏玩法与攻略
+1.  **连线越长伤害越高**：核心思路就是想办法拉出尽可能长的同色连线。5 连甚至 7 连的伤害会远远高于普通 3 连，落子前先在全盘扫一圈，找一找是否存在潜在长链机会。
+2.  **提前铺垫下一步**：有时候先做一个看似普通的 3 连，可以为下一回合制造一个更长的连线结构。不要只盯着当前一步的伤害，尝试多想一两步。
+3.  **集中火力击杀目标**：在同时面对多个敌人的关卡中，通常可以选择攻击目标。优先快速击倒其中一个，能显著减少你每回合承受的伤害压力。
+4.  **善用特殊宝石或道具**：注意棋盘上出现的特殊宝石或道具，例如炸弹或带有特殊符号的格子，把它们包含在连线中往往能触发范围伤害或增益效果，为战局带来额外优势。
 
-### Controls Guide
+### 操作说明
 
-[ZH TRANSLATION NEEDED] The game is played with a simple click-and-drag or swipe mechanic.
+本作采用非常直观的点击拖拽/滑动操作：
 
-*   **Connect Tiles:** Click and hold on a tile, then drag your cursor over adjacent, identical tiles to form a chain. Release the mouse button to confirm the match and launch your attack.
+*   **连接宝石**：按住一颗宝石，拖动光标或手指划过相邻且同色的宝石，将它们连成一条链，松手后即可确认消除并对敌人发动攻击。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: How do I attack the skeletons?**
-     *   **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.
+*   **Q: 我该如何攻击骷髅等敌人？**  
+    *   **A:** 只要在六角棋盘上找到三格及以上相连的同色宝石，并用拖线方式把它们连接起来，松手后就会对当前目标发动一次攻击。
 
-*   **Q: How can I do more damage?**
-     *   **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
+*   **Q: 怎么才能造成更高的伤害？**  
+    *   **A:** 尽量连接更长的宝石链——比如 6 连、7 连，这类长连线的伤害远远高于普通 3 连。同时可以配合特殊宝石一起消除，打出爆发输出。
 
-*   **Q: Can I connect tiles diagonally?**
-     *   **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
-
+*   **Q: 宝石可以斜着连接吗？**  
+    *   **A:** 可以。由于棋盘由六边形构成，每个格子最多有六个相邻方向，只要是紧挨着的同色宝石，不论方向，都可以被纳入同一条连线。

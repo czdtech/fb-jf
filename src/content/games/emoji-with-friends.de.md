@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: emoji-with-friends
-title: '[DE] Emoji With Friends'
+title: "Emoji With Friends"
 description: >-
-  [DE] Emoji With Friends is a light party‑puzzle — match, deduce, and race your
-  friends with expressive emoji logic.
+  Emoji With Friends ist ein leichtes Party-Puzzlespiel: Finde und kombiniere
+  Emoji-Muster, ziehe Schlüsse und trete in schnellen Runden gegen Freunde an.
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/emoji-with-friends.png
 tags:
@@ -15,30 +15,45 @@ score: 3.9/5  (1517 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Emoji With Friends kombiniert schnelles Matching mit leichter Deduktion und
+nutzt ausdrucksstarke Emoji-Kacheln. Je nach Modus verbindest du Sets,
+erfüllst kleine Zwischenziele oder lieferst dir ein Kopf-an-Kopf-Rennen darum,
+wer das Board zuerst löst. Kurze Runden, klare Symbole und ein niedriger
+Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Muster scannen:** Achte auf häufig wiederkehrende Emojis und baue daraus
+   schnelle Ketten.
+2. **Aufgaben priorisieren:** Hat die Runde konkrete Ziele (z.B. bestimmte
+   Emojis oder Kombos), erledige diese zuerst, bevor du "schöne", aber
+   unwichtige Matches machst.
+3. **Gegner ausbremsen (Versus-Modus):** Schnapp dir umkämpfte Kacheln früh,
+   damit dein Gegenüber seine Ketten nicht vollenden kann.
+4. **Spielfeld offen halten:** Vermeide es, die Mitte komplett zu blockieren –
+   freie Flächen erleichtern spätere Matches.
+5. **Boosts timen:** Heb dir Power-ups für enge Rennen auf oder nutze sie, um
+   festgefahrene Boards wieder in Bewegung zu bringen.
 
-Emoji With Friends blends quick matching and light deduction using expressive emoji tiles. Depending on mode, you’ll connect sets, complete mini‑goals, or race an opponent to solve boards first. Short rounds, readable visuals, and low barrier to entry make it a friendly party pick.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Auswählen/Matchen:** Klicke oder tippe Emojis an, um sie gemäß den
+  jeweiligen Modusregeln zu verbinden.
+- **Power-ups:** Aktiviere sie über die Schaltflächen auf dem Bildschirm, wenn
+  sie verfügbar sind.
+- **Online/Lokal:** Je nach Host gibt es Solo-, Online- oder lokale
+  Zwei-Spieler-Modi mit kurzen Sessions.
 
-1.  **[DE]** Scan patterns: Identify frequent emoji sets to build quick chains.
-2.  **[DE]** Prioritize objectives: If a round has specific goals, complete them before chasing decorative matches.
-3.  **[DE]** Deny opponents (vs): Claim contested tiles early to slow their chains.
-4.  **[DE]** Keep the board open: Avoid cluttering the center; leave space for future matches.
-5.  **[DE]** Time your boosts: Save power‑ups for tight races or to break board stalls.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Ist das Spiel kompetitiv oder solo?**  
+  **A:** Es gibt unterschiedliche Modi; lokale Duelle sind sehr verbreitet.
 
-- Select/Match: Click/tap emoji to make valid connections per mode rules.
-- Power‑ups (if any): Activate via on‑screen buttons.
-- Online/local: Modes vary; many are quick local sessions.
+- **F: Sind die Regeln kompliziert?**  
+  **A:** In der Regel sind sie einfach – lies vor Rundenstart kurz das
+  jeweilige Ziel des Modus.
 
-### Frequently Asked Questions (FAQ)
-
-- Is it competitive or solo? Modes vary; local head‑to‑head is common.
-- Are there complex rules? Generally simple—read each mode’s objective before starting.
-- How long is a round? Usually under a couple of minutes, suitable for quick sessions.
-
+- **F: Wie lange dauert eine Runde?**  
+  **A:** Meist nur ein bis zwei Minuten, perfekt für kurze Spielsessions.

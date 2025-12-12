@@ -1,51 +1,45 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Snake.io"
+description: "Snake.ioをプレイしよう。クラシックなスネークゲームを現代風にアレンジした人気のマルチプレイヤーアクションゲーム。ペレットを食べて対戦相手を倒し、最長のスネークを目指そう。スピードブーストを戦略的に使ってアリーナを制覇する中毒性のあるカジュアルゲーム。"
+iframeSrc: "https://snake.io/crazygames/"
+thumbnail: "/new-images/snake-io.jpg"
+urlstr: "snake-io"
+score: "3.5/5  (677 votes)"
+tags: ["io-games", "snake", "multiplayer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: snake-io
-title: '[JA TRANSLATION NEEDED] Snake.io'
-description: >-
-  [JA TRANSLATION NEEDED] Play Snake.io, a popular multiplayer action game that
-  modernizes the classic snake experience. Compete against others to become the
-  longest snake by consuming pellets and defeating opponents. Use speed boosts
-  strategically to dominate the arena in this addictive casual game.
-iframeSrc: 'https://snake.io/crazygames/'
-thumbnail: /new-images/snake-io.jpg
-tags:
-  - io-games
-  - snake
-  - multiplayer
-score: 3.5/5  (677 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Snake.io is a popular online multiplayer game that puts a modern spin on the classic snake concept. Players control a snake-like avatar and compete against other players in real-time to become the largest and longest snake on the server. The primary objective is to grow your snake by consuming glowing pellets scattered throughout the game area while strategically defeating opponents by forcing them to collide with your body.
+Snake.ioは、クラシックなスネークゲームに現代的なひねりを加えた人気のオンラインマルチプレイヤーゲームです。プレイヤーはヘビのようなアバターを操作し、リアルタイムで他のプレイヤーと競い合い、サーバー内で最大かつ最長のスネークを目指します。主な目標は、ゲームエリア全体に散らばる光るペレットを食べてスネークを成長させながら、対戦相手の体に衝突させることで戦略的に倒すことです。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] Your main goal is to grow by eating pellets. The pellets left behind by a defeated snake will make you grow much faster than the standard scattered ones. To defeat an opponent, you must trick them into running their head into your snake's body. When a snake is defeated, it transforms into a large trail of valuable pellets. Be careful, as your game ends if you run into another snake's body or the arena walls.
+あなたの主な目標はペレットを食べて成長することです。倒されたスネークが残したペレットは、通常の散らばったペレットよりもはるかに速く成長させてくれます。対戦相手を倒すには、相手の頭を自分のスネークの体に突っ込ませるように誘導する必要があります。スネークが倒されると、貴重なペレットの長い軌跡に変わります。注意してください。他のスネークの体やアリーナの壁に衝突するとゲームオーバーになります。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] **PC/Web Browser:**
-- **Mouse:** Your snake follows the direction of your mouse cursor.
-- **Keyboard:** Use the `WASD` or arrow keys for movement.
-- **Speed Boost:** Hold the left mouse button or the spacebar to get a burst of speed. Using the boost consumes your mass, so use it wisely.
+**PC/ウェブブラウザ：**
+- **マウス：** スネークはマウスカーソルの方向に従います。
+- **キーボード：** 移動には`WASD`キーまたは矢印キーを使用します。
+- **スピードブースト：** マウスの左ボタンまたはスペースバーを押し続けると、スピードが上がります。ブーストを使用すると体重が消費されるので、賢く使いましょう。
 
-[JA TRANSLATION NEEDED] **Mobile:**
-- Use the on-screen virtual joystick or touch and drag your finger to guide the snake.
+**モバイル：**
+- 画面上のバーチャルジョイスティックを使用するか、指でタッチしてドラッグしてスネークを誘導します。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **Is Snake.io a real multiplayer game?**
+**Snake.ioは本物のマルチプレイヤーゲームですか？**
 
-[JA TRANSLATION NEEDED] Yes, Snake.io is a real-time multiplayer game where you compete against other live players.
+はい、Snake.ioはリアルタイムのマルチプレイヤーゲームで、他のライブプレイヤーと競い合います。
 
-[JA TRANSLATION NEEDED] **What is the main difference between Snake.io and Slither.io?**
+**Snake.ioとSlither.ioの主な違いは何ですか？**
 
-[JA TRANSLATION NEEDED] While the core gameplay is similar, Snake.io offers a wider variety of character skins and themed worlds.
+コアゲームプレイは似ていますが、Snake.ioはより幅広いキャラクタースキンとテーマワールドを提供しています。
 
-[JA TRANSLATION NEEDED] **Can I play Snake.io with friends?**
+**友達とSnake.ioをプレイできますか？**
 
-[JA TRANSLATION NEEDED] Yes, you can compete with friends to see who can achieve the highest score and become the biggest snake.
-
+はい、友達と競い合って、誰が最高スコアを達成し、最大のスネークになれるか見ることができます。

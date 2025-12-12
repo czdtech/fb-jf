@@ -1,61 +1,36 @@
 ---
+title: "Ludo Kart"
+description: "Ludo Kartはサクサクとしたダイス＆レースボードゲームです。ダイスを振り、トークンを移動し、最初にホームに到達します。"
+iframeSrc: "https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/"
+thumbnail: "/new-images/ludo-kart.png"
+urlstr: "ludo-kart"
+score: "3.8/5  (1542 votes)"
+tags: ["casual", "thinky", "2 player"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: ludo-kart
-title: '[JA TRANSLATION NEEDED] Ludo Kart'
-description: >-
-  [JA TRANSLATION NEEDED] Ludo Kart is a breezy dice‑and‑race board game — roll,
-  move tokens, and be the first to reach home.
-iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
-thumbnail: /new-images/ludo-kart.png
-tags:
-  - casual
-  - thinky
-  - 2 player
-score: 3.8/5  (1542 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Ludo Kartは、クラシックなルドーを素早く、家族向けのレースに適応します。ダイスを振ってボード周りでトークンを移動し、最終レーンに入り、対戦相手より先にすべてのトークンをホームに持ち帰ります。安全マス、捕獲、ラッキーロールがスイングを作成します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to move tokens around the board, enter the final lane, and bring all tokens home before opponents do. Safe squares, captures, and lucky rolls create swings.
+1.  トークンスプレッド：単一の捕獲が進行を拭き取るリスクを減らすために、複数のトークンを前進させます。
+2.  安全スポット：対戦相手が近くにいるときは安全マスに駐車します。
+3.  エントリタイミング：対戦相手がすぐにあなたを捕獲できないように、ホームレーンへのエントリのタイミングを合わせます。
+4.  先を数える：常にダイス範囲内で対戦相手の脅威を確認します。
+5.  トンネルしない：リードトークンがブロックされている場合、プレッシャーを保つために別のトークンに切り替えます。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Token spread: Advance multiple tokens to reduce risk of a single capture wiping progress.
-[JA TRANSLATION NEEDED] 2.  Safe spots: Park on safe squares when opponents are near.
-[JA TRANSLATION NEEDED] 3.  Entry timing: Time your entry to the home lane so opponents can’t immediately capture you.
-[JA TRANSLATION NEEDED] 4.  Counting ahead: Always check opponent threats within a dice range.
-[JA TRANSLATION NEEDED] 5.  Don’t tunnel: If a lead token is blocked, switch to another to keep pressure.
+- ロール：ダイスを振るためにクリック/タップします。
+- 移動：合法的なトークンを選択して前進します。
+- モード：ローカルマルチプレイヤーが一般的です。ソロ対AIが利用可能な場合があります。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Roll: Click/tap to roll the die.
-- Move: Select a legal token to advance.
-- Modes: Local multiplayer is common; solo vs. AI may be available.
-
-### Frequently Asked Questions (FAQ)
-
-- Is it pure luck? Dice matter, but token spread, safe‑square usage, and counting threats add strategy.
-- Can I block? Occupying certain squares can block lanes; observe mode rules.
-
-### コントロールガイド
-- How many players? Often 2–4; check mode options.
-
-
-
-
-
-
-
-
-- How many players? Often 2–4; check mode options.
-- Can I block? Occupying certain squares can block lanes; observe mode rules.
-- Is it pure luck? Dice matter, but token spread, safe‑square usage, and counting threats add strategy.
-### よくある質問（FAQ）
-- Modes: Local multiplayer is common; solo vs. AI may be available.
-- Move: Select a legal token to advance.
-
-
-- How many players? Often 2–4; check mode options.
+- 純粋な運ですか？ダイスは重要ですが、トークンスプレッド、安全マス使用、脅威のカウントが戦略を追加します。
+- ブロックできますか？特定のマスを占有するとレーンをブロックできます。モードルールを観察します。
+- 何人のプレイヤー？多くの場合2〜4人。モードオプションを確認します。

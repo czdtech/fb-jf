@@ -1,51 +1,50 @@
 ---
 locale: zh
 urlstr: tap-tap-shots
-title: '[ZH TRANSLATION NEEDED] Tap Tap Shots'
-description: >-
-  [ZH TRANSLATION NEEDED] Test your timing and rhythm in Tap-Tap Shots, an
-  addictive one-touch basketball game. Tap to make the ball bounce and score as
-  many consecutive baskets as you can. Find your rhythm, aim for clean shots,
-  and set the ball on fire to achieve a high score!
-iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
-thumbnail: /new-images/tap-tap-shots.jpg
+title: 《Tap Tap Shots》连点投篮
+description: 《Tap Tap Shots》是一款简单却颇具挑战性的街机投篮游戏。通过连续点击控制篮球高度，在限时内不断命中篮筐刷分。
+iframeSrc: 'https://taptapshots.h5games.usercontent.goog/v/1m2n3b4v5c6p0/'
+thumbnail: /new-images/tap-tap-shots.png
 tags:
   - sports
   - arcade
-  - rhythm
-score: 4.9/5  (415 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - clicker
+score: 3.9/5  (1550 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] Tap-Tap Shots is a simple, minimalist, and highly addictive arcade basketball game. The goal is to score as many points as possible by tapping the screen to make the ball bounce into the hoop. The challenge comes from the moving hoop and the pressure of the shot clock, requiring perfect timing and a steady rhythm to succeed.
+### 详细游戏介绍
 
-### Gameplay Guide
+《Tap Tap Shots》采用极简像素风，你只需通过不断点击来控制篮球向上弹起的高度，让它刚好飞进篮筐。每投进一个球就会刷新计时条，未能在时间耗尽前命中则游戏结束。随着关卡推进，篮筐位置会不断改变，有时甚至会瞬间移动到另一侧，考验你的手速与节奏把握。
 
-- **Objective:** Score as many baskets in a row as you can.
-- **Tapping:** Each tap makes the ball jump. You can tap multiple times in the air to gain more height.
-- **Timing:** The key to scoring is to tap at the right moment to guide the ball into the hoop.
-- **Combos:** Scoring consecutive baskets will set the ball on fire, which activates a score multiplier for bonus points. Clean shots that don't touch the rim also award extra points.
+### 游玩策略与投篮指引
+
+1.  **找准点击节奏：** 连续点击会让球逐步爬升，过快易飞过篮筐，过慢又难以触达高度，建议在几次尝试后找到自己的舒适节奏。
+2.  **利用篮板：** 有时稍大一点力道、让球先碰篮板再入框，比死磕“完美抛物线”更容易命中。
+3.  **提前适应篮筐变换：** 当篮筐位置刷新到另一侧时，快速调整点击节奏和节奏起点，避免因为还按旧节奏导致连续打铁。
+4.  **别让计时见底：** 在时间条即将耗尽时，优先求“先投进再说”，可以容忍命中不够好看，保证刷新时间更重要。
+
+
 - **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
+### 操作说明
 
-### Controls Guide
 
-[ZH TRANSLATION NEEDED] The controls are extremely simple:
-- **PC:** `Left Mouse Button` or `Spacebar` to tap.
+The controls are extremely simple:
+*   **点击 / 轻触：** 反复点击鼠标或轻触屏幕，使篮球不断向上弹起，点击频率决定球的上升高度。
+
+
 - **Mobile:** Tap the screen.
+### 常见问题解答（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**问：必须连点才能投得更高吗？****
+答：** 是的，本作通过点击频率控制球的上升高度，多次连续点击才能让球爬升到足以投篮的高度。
 
-[ZH TRANSLATION NEEDED] **How do I get a high score?**
+**问：是否有关卡终点？****
+答：** 更偏向无尽街机玩法，目标是尽可能多地投中篮筐、刷新个人最高分。
 
-[ZH TRANSLATION NEEDED] Focus on finding a consistent rhythm. Don't rush your shots. Aim for "clean" shots (not touching the rim) to get bonus points and try to build up a combo to set the ball on fire for a score multiplier.
 
-[ZH TRANSLATION NEEDED] **What happens when the ball is on fire?**
 
-[ZH TRANSLATION NEEDED] When the ball is on fire, you are in a combo streak. Every basket you score while the ball is on fire will be worth more points.
+It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
 
-[ZH TRANSLATION NEEDED] **Is there a trick to aiming?**
-
-[ZH TRANSLATION NEEDED] It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
-
+**Is there a trick to aiming?**

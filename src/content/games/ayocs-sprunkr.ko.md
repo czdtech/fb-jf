@@ -1,8 +1,10 @@
 ---
 locale: ko
 urlstr: ayocs-sprunkr
-title: '[KO] AYOCS Sprunkr - Play AYOCS Sprunkr Online'
-description: '[KO] You'
+title: 'AYOCS Sprunkr AYOCS 스프렁커'
+description: >-
+  Sprunki 스타일의 음악 만들기 게임을 감각적인 패션 콘셉트로 재해석한 모드
+  AYOCS Sprunkr입니다. 새 캐릭터와 사운드로 트렌디한 비트를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114188520/embed'
 thumbnail: /ayocs-sprunkr.png
 tags:
@@ -10,28 +12,40 @@ tags:
 score: 4.1/5  (54 votes)
 ---
 
+Sprunkr 팬이라면, 음악 만들기에 스타일을 더해 주는 모드 **AYOCS Sprunkr**를
+놓칠 수 없습니다. 기존 Sprunki 계열의 음악 제작 방식은 그대로 두면서, 캐릭터와
+연출을 패션 화보 같은 감각적인 분위기로 바꿔 준 것이 특징입니다.
 
+### AYOCS Sprunkr가 주목받는 이유
 
-Hey Sprunkr fans! Want to give your music creation a seriously stylish edge? You've got to check out AYOCS Sprunkr! This mod gives the Sprunki universe a super slick makeover, breathing fresh life into the familiar music-making experience.
+익숙한 플레이 방식은 그대로인데, 캐릭터와 사운드 디자인이 최신 패션 콘셉트로 재해석돼 훨씬 세련된 오디오·비주얼 경험을 제공합니다.
 
-### So, What's the Hype About AYOCS Sprunkr?
+### AYOCS Sprunkr의 특징
 
-Picture this: those characters you know are rocking modern, fashionable new looks, each oozing personality. That's the unique charm of AYOCS Sprunkr. It's more than just a reskin; it's a whole new style interpretation. This mod introduces a lineup known as the "AYOCS" characters. They don't just look distinct; their sounds are totally unique too, bringing **a whole new palette of possibilities** to your music creation. The focus here is injecting trendy elements and contemporary aesthetics into the drag-and-drop music fun you're used to within the AYOCS Sprunkr framework.
+- **스타일리시한 AYOCS 캐릭터들:** 익숙한 캐릭터들이 현대적인 패션 감성을
+  입고 다시 등장합니다. 각 캐릭터는 개성이 강한 외형과 함께, 새로운 음색과
+  루프를 제공해 전혀 다른 스타일의 곡을 만들 수 있게 해 줍니다.
+- **새로운 음향·비주얼 분위기:** 배경과 애니메이션도 매끄럽게 다듬어져, 음악과
+  화면이 함께 어우러지는 공연 무대 같은 느낌을 줍니다. AYOCS 테마에 맞춰
+  제작된 루프와 이펙트 덕분에 한층 세련된 오디오·비주얼 경험을 제공합니다.
+- **익숙한 조작, 다른 결과물:** 기본적인 드래그 앤 드롭 방식은 기존 Sprunki와
+  동일해 쉽게 적응할 수 있지만, 캐릭터와 사운드 구성이 완전히 달라져 이전과는
+  전혀 다른 장르의 곡을 만들 수 있습니다.
 
-### Core Highlights of AYOCS Sprunkr:
+### 플레이 방법
 
-- **Super Stylish Character Designs:** The heart and soul of AYOCS Sprunkr are these redesigned characters. They ditch previous styles for looks that are more modern and individualistic, each like a walking fashion statement.
-- **A Fresh Audio-Visual Vibe:** It's not just the characters getting a glow-up! AYOCS Sprunkr also features more polished backgrounds and smooth, dynamic animations. These visual enhancements perfectly sync with the fresh sound loops created specifically for the AYOCS theme, crafting an immersive experience that's both fashionable and energetic. AYOCS Sprunkr feels complete.
-- **Familiar Formula, Different Flavor:** Don't sweat the gameplay getting complicated. AYOCS Sprunkr keeps the classic Sprunki drag-and-drop controls, making it easy to jump right in. But the brand new characters and sound library absolutely let you cook up musical styles completely different from before, ensuring AYOCS Sprunkr offers something new.
+AYOCS Sprunkr를 즐기는 과정은 간단하면서도 창의력을 자극합니다.
 
+1.  **마음에 드는 캐릭터 선택:** AYOCS 전용 라인업에서 스타일이 마음에 드는
+    캐릭터들을 골라 무대에 올립니다.
+2.  **드래그 앤 드롭으로 비트 구성:** 캐릭터를 무대 위 슬롯에 배치하면 각자
+    고유한 루프와 비트를 연주하기 시작합니다. 여러 캐릭터를 조합해 자신만의
+    리듬과 화성을 만들어 보세요.
+3.  **연출과 음악 함께 감상:** 음악에 맞춰 움직이는 캐릭터 애니메이션과 배경
+    연출을 함께 감상하며, 필요할 때 캐릭터를 빼거나 추가해 곡 구성과 분위기를
+    바꾸면 됩니다.
 
-### How to Rock This Fashionable Music Box Called AYOCS Sprunkr?
-
-Getting started is as simple and fun as always:
-
-- **Pick Your Fashion Icons:** Choose your favorite stylish musicians from the all-new character roster provided in AYOCS Sprunkr.
-- **Drag & Drop Trendy Beats:** Place your chosen characters onto the stage, let them start performing, and mix and match their unique sounds to create your own trendy rhythm with AYOCS Sprunkr.
-- **Feel the Audio-Visual Rush:** Enjoy the characters' vibrant animations and the polished backgrounds that sync perfectly with the music, immersing yourself in the unique atmosphere AYOCS Sprunkr delivers.
-
-
-AYOCS Sprunkr is a successful style evolution, cleverly integrating modern fashion aesthetics into the musical world of Sprunki. If you're looking to experience music creation with more contemporary flair and polished visuals, then AYOCS Sprunkr is definitely worth a try. Come join the ranks of AYOCS Sprunkr, unleash your inner music stylist, and start crafting your own trendy beats today!
+AYOCS Sprunkr는 Sprunki 세계관에 현대적인 패션과 감각적인 연출을 더한 스타일
+업그레이드 모드입니다. 기존 Sprunki류 게임을 좋아한다면, 좀 더 세련된 분위기에서
+새로운 사운드를 실험해 보고 싶을 때 AYOCS Sprunkr로 나만의 트렌디한 비트를
+만들어 보세요.

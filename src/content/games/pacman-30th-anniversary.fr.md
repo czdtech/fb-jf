@@ -1,12 +1,8 @@
 ---
 locale: fr
 urlstr: pacman-30th-anniversary
-title: '[FR] Pacman 30th Anniversary'
-description: >-
-  [FR] Pacman 30th Anniversary is a special edition of the iconic arcade game,
-  celebrating three decades of maze-chasing fun. Players guide Pac-Man through a
-  labyrinth, eating pellets and power-ups while avoiding ghosts, in this
-  nostalgic and engaging classic.
+title: Pacman 30th Anniversary
+description: "Pacman 30th Anniversary est une édition spéciale du jeu d’arcade culte, célébrant 30\_ans de poursuites dans le labyrinthe avec Pac‑Man et ses fantômes."
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/pacman-30th-anniversary.jpg
 tags:
@@ -14,35 +10,43 @@ tags:
   - classic
   - celebration
 score: 3.6/5  (745 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+Pacman 30th Anniversary est une édition commémorative de PAC‑MAN qui célèbre plusieurs décennies de jeu de labyrinthe. Tu y guides une nouvelle fois Pac‑Man pour manger toutes les pastilles et super pastilles en évitant les quatre fantômes. Cette version conserve le gameplay d’origine tout en proposant des graphismes remis au goût du jour et parfois du contenu bonus.
+
+### Stratégies de jeu
+
+1.  **Apprendre les labyrinthes :** certains niveaux reprennent des cartes connues, d’autres introduisent de nouveaux tracés ; les mémoriser aide à planifier des trajets sûrs.  
+2.  **Exploiter les super pastilles :** mange les fantômes lorsqu’ils sont bleus pour booster ton score, mais garde toujours un œil sur la durée limitée de l’effet.  
+3.  **Utiliser les coins et tunnels :** les intersections et passages secrets sont parfaits pour semer les fantômes ou les attirer vers une zone où une super pastille t’attend.
+
+
+- **Prioritize Eating All Pellets**: The goal of the game is to eat all small pellets and power pellets in the maze to advance to the next level.
+### Comment jouer
+
+- Déplacement : flèches directionnelles pour choisir la direction de Pac‑Man.
+
+### Foire aux questions (FAQ)
+
+1.  **Q : En quoi cette édition diffère‑t‑elle de PAC‑MAN original ?**  
+   **R :** Elle propose en général une présentation modernisée, parfois des niveaux spéciaux ou des défis, tout en conservant les règles de base.
+
+2.  **Q : Y a‑t‑il un tableau des scores ?**  
+   **R :** Oui, de nombreuses versions intègrent des classements locaux ou en ligne pour comparer tes meilleurs scores à ceux des autres joueurs.
 
 
 
+**A**: Many versions of "Pacman 30th Anniversary" feature local or online scoreboards, allowing players to compete for high scores.
 
-### Game Introduction
+- **Q: Does the game have a leaderboard?**
 
-"Pacman 30th Anniversary" is a special edition of the classic arcade game "Pac-Man," celebrating three decades of this iconic game. Players once again guide the yellow Pac-Man through a maze, eating all the pellets and power pellets while evading four ghosts. This version retains the original gameplay and incorporates nostalgic elements, allowing both new and old players to experience the classic fun.
-
-### Gameplay Strategy
-
-1.  **[FR]** **Familiarize with Maze Layouts**: Each level has different maze layouts; familiarizing yourself with the map can help you plan the optimal route.
-2.  **[FR]** **Utilize Power Pellets**: After eating a power pellet, ghosts will temporarily turn blue and become edible. This is a good opportunity to counter-attack and clear the board.
-3.  **[FR]** **Evade and Pursue**: Skillfully use the maze's tunnels and corners to cleverly evade ghosts, and boldly pursue them after eating a power pellet.
-4.  **[FR]** **Prioritize Eating All Pellets**: The goal of the game is to eat all small pellets and power pellets in the maze to advance to the next level.
-
-### How to Play
-
-*   **[FR]** **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: What are the differences between "Pacman 30th Anniversary" and the original "PAC-MAN"?**
-**A**: This anniversary edition usually features updated visuals and may include some additional features or commemorative content, but the core gameplay remains consistent with the original.
-2.  **[FR]** **Q: What are the ghosts in the game, and what are their characteristics?**
-**A**: The ghosts are Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange), each with different pursuit and movement patterns.
-3.  **[FR]** **Q: How long does the power pellet effect last?**
 **A**: The power pellet effect lasts for a limited time; ghosts will return to normal after a while and become dangerous again.
-4.  **[FR]** **Q: Does the game have a leaderboard?**
+
+- **Q: How long does the power pellet effect last?**
+
+
 **A**: Many versions of "Pacman 30th Anniversary" feature local or online scoreboards, allowing players to compete for high scores.

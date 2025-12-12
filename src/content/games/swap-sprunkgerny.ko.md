@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: swap-sprunkgerny
-title: '[KO] Swap Sprunkgerny - Play Swap Sprunkgerny Online'
+title: 'Swap Sprunkgerny 스왑 스프렁거니'
 description: >-
-  [KO] Imagine a group of alien creatures standing in front of you, with
-  exaggerated eyes and quirky personalities, waiting for you to bring them to
-  life. And you are the conductor of this orchestra, using your fingers to make
-  them play unique music!
+  Swap Sprunkgerny는 여러 기묘한 캐릭터를 드래그해 올려 독특한 음악을 만드는
+  스프룽키 스타일 모드입니다. 자리 바꾸기(스왑)를 통해 서로 다른 사운드를
+  조합하며 자신만의 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
 thumbnail: /swap-sprunkgerny.png
 tags:
@@ -17,33 +16,52 @@ score: 4.9/5  (724 votes)
 
 
 
-### Introducing to Swap Sprunkgerny
+### Swap Sprunkgerny 소개
 
-Want to become a music master, creating unique musical works with just your fingers? SWAP SPRUNKGERNY gives you this opportunity! This game not only allows you to control a group of colorful and distinctive characters, but also immerses you in a fun and surprising musical world.
+손가락만으로 음악 마스터가 되어 보고 싶나요? Swap Sprunkgerny에서는 여러 색깔의
+괴상하지만 귀여운 캐릭터들을 무대에 올려, 조합에 따라 전혀 다른 곡을 만들어
+볼 수 있습니다. 플레이어는 지휘자처럼 캐릭터를 배치하고 바꾸며, 자신만의
+사운드를 완성하게 됩니다.
 
-### What's So Great About SWAP SPRUNKGERNY?
+### Swap Sprunkgerny가 특별한 이유
 
-Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!
+눈이 튀어나올 듯 과장된 외모와 특이한 성격을 가진 외계 생명체들이 줄지어
+서서, 당신의 손짓만 기다리고 있습니다. 플레이어는 이들을 악기처럼 사용해
+하나의 오케스트라를 지휘하게 되며, 캐릭터마다 다른 비트·멜로디·효과음을
+담고 있어 조합하는 재미가 큽니다.
 
-### The Core Gameplay of SWAP SPRUNKGERNY:
+### Swap Sprunkgerny 핵심 게임 플레이
 
-The core gameplay of SWAP SPRUNKGERNY is very simple: Drag! Drag! Drag!
+핵심 조작은 아주 간단합니다. **드래그! 드래그! 드래그!**
 
-- **Drag Characters:** The game has 20 distinctive characters, each with their own unique sound effects. Select a character you like from the buttons at the bottom of the screen, and then drag it to one of the 7 empty spaces at the top of the screen.
-- **Activate Music and Dance:** When you put the character in the empty space, they will "come alive", playing their own music and dancing their own dance!
-- **Create Exclusive Music:** Different character combinations will produce different musical effects. Feel free to try different combinations and create your own unique melodies!
+- **캐릭터 드래그:**
+  화면 아래에 20종의 개성 있는 캐릭터 버튼이 있습니다. 마음에 드는 캐릭터를
+  선택해 위쪽 7개의 빈 칸 중 한 곳으로 끌어다 놓으면, 해당 캐릭터가 무대에
+  등장합니다.
+- **음악·댄스 활성화:**
+  빈 칸에 배치된 캐릭터는 곧바로 자신의 루프 사운드를 재생하며, 고유의
+  춤을 추기 시작합니다.
+- **나만의 곡 만들기:**
+  캐릭터를 어떤 순서와 위치에 배치하느냐에 따라 전혀 다른 분위기의 곡이
+  만들어집니다. 여러 조합을 시도해 가장 마음에 드는 사운드를 찾아보세요.
 
+### Swap Sprunkgerny의 매력 포인트
 
-### What Are the Highlights of SWAP SPRUNKGERNY?
+- **직관적인 조작:**
+  드래그 앤 드롭만 알면 누구나 금방 곡을 만들 수 있습니다.
+- **자유로운 창작:**
+  각 캐릭터가 완전히 다른 소리를 내기 때문에, 조합만 바꿔도 새로운 트랙이
+  끝없이 나옵니다.
+- **시각·청각 연출:**
+  캐릭터들이 음악에 맞춰 움직이는 애니메이션과 함께, 화면과 귀가 동시에
+  즐거운 경험을 제공합니다.
+- **스왑을 통한 변주:**
+  같은 캐릭터라도 위치와 조합을 바꾸면 느낌이 달라지므로, 스왑을 활용해
+  변주를 주는 것이 핵심입니다.
 
-- **Intuitive Operation:** The simple drag and drop operation allows you to easily get started and quickly create your own music works.
-- **Free Creation:** Each character has its own unique sound effects and dance moves, you can freely combine them to create a unique musical world.
-- **Dynamic Audio-Visual Experience:** As the characters interact, the music will continue to change and the characters' dances will continue to evolve, giving you an immersive audio-visual experience.
-- **Endless Surprises:** Each time you play the game, the combination of characters and sounds will be different, always bringing you new surprises.
+### Swap Sprunkgerny의 독특한 매력
 
-
-### The Unique Charm of SWAP SPRUNKGERNY:
-
-In the world of SWAP SPRUNKGERNY, every action you take directly affects the music and atmosphere. As you place characters in their designated spots, a new, harmonious beat is born. These sounds are full of energy and fun, perfect for a relaxing and enjoyable gaming experience.
-
-The world of SWAP SPRUNKGERNY is far more than that, it also hides more unexpected surprises... Ready to explore this fun and mysterious musical world?
+Swap Sprunkgerny는 기존 스프룽키식 음악 제작에 "자리 바꾸기"라는 발상을 더해,
+간단한 조작만으로도 놀라울 정도로 다양한 곡을 만들 수 있게 해 줍니다.
+규칙에 얽매이지 말고, 마음 가는 대로 캐릭터를 올렸다 내리면서 당신만의
+괴상하고도 중독성 있는 사운드를 완성해 보세요.

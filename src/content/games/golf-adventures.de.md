@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: golf-adventures
-title: '[DE] Golf Adventures'
+title: "Golf Adventures"
 description: >-
-  [DE] Go on a Golf Adventure! A physics-based puzzle game where you aim your
-  ball to get it in the hole, navigating tricky obstacles and imaginative
-  courses in as few strokes as possible.
+  Golf Adventures ist ein physikbasiertes Golf-Puzzlespiel. Ziele deinen Ball,
+  überwinde kreative Hindernisse und versenke ihn mit möglichst wenigen
+  Schlägen im Loch.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/golf-adventures.png
 tags:
@@ -17,34 +17,59 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Golf Adventures ist ein fantasievolles Puzzlespiel, das mit Golf-Mechaniken
+arbeitet. Statt auf einem klassischen Golfplatz spielst du dich durch kreative
+Level voller Rampen, Wände und anderer Hindernisse. Dein Ziel ist immer gleich:
+Bringe den Ball mit so wenigen Schlägen wie möglich ins Loch. Winkel,
+Schlagstärke und cleveres Nutzen der Umgebung entscheiden über Erfolg oder
+Frust.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Schlag planen**  
+    Schau dir vor dem ersten Schlag den gesamten Levelaufbau an. Achte auf
+    Hindernisse, Gefälle und die Position des Lochs. Der kürzeste Weg ist nicht
+    immer der sicherste.
 
-Golf Adventures is a fun and imaginative puzzle game that uses the mechanics of golf. Instead of a realistic golf course, you'll find yourself in a series of creative and challenging levels filled with unique obstacles. The goal is simple: get the ball into the hole in as few strokes as possible. It's a game of angles, power, and clever problem-solving.
+2.  **Krafteinsatz beherrschen**  
+    Wie weit du die Schlagrichtung zurückziehst, bestimmt die Stärke deines
+    Schlags. Übe zunächst mit sanften Schlägen, um ein Gefühl für die Physik und
+    Entfernungen zu bekommen.
 
-### Gameplay Strategy & Walkthrough
+3.  **Umgebung nutzen**  
+    Viele Level sind so gestaltet, dass du Wände und Hindernisse zu deinem
+    Vorteil einsetzen kannst. Ein gezielter Bankshot an der Bande kann dich an
+    einem Hindernis vorbeibringen oder dich direkt vors Loch katapultieren.
 
-1.  **[DE]** **Plan Your Shot:** Before you shoot, take a look at the entire level. Observe the obstacles, the slopes, and the position of the hole. The shortest path is not always the best one.
-2.  **[DE]** **Master the Power:** The distance you pull back determines the power of your shot. Getting a feel for how much power is needed for different distances is key. Start with gentle shots until you get a feel for the physics.
-3.  **[DE]** **Use the Environment:** Many levels are designed for you to use the walls and obstacles to your advantage. Bouncing the ball off a wall (a "bank shot") might be the only way to get around an obstacle and close to the hole.
-4.  **[DE]** **Aim for Par or Better:** Each hole has a "Par," which is the target number of strokes for a skilled player. Your goal is to meet or beat par (a "Birdie" is one under par, an "Eagle" is two under).
+4.  **Auf Par oder besser spielen**  
+    Jedes Loch besitzt ein **Par**, also die erwartete Schlagzahl für geübte
+    Spieler. Unter Par zu bleiben (Birdie = eins unter Par, Eagle = zwei unter
+    Par) ist dein Ziel, wenn du hohe Wertungen anstrebst.
 
-### Controls Guide
+### Steuerung
 
-The game uses a simple drag-and-release mechanic.
+Das Spiel nutzt eine einfache Ziehen-und-Loslassen-Steuerung.
 
-*   **[DE]** **Aim and Set Power:** Click on the golf ball and hold the mouse button. Drag your cursor away from the ball. A line will appear showing your aim, and the distance you drag determines the power.
-*   **[DE]** **Shoot:** Release the mouse button to hit the ball.
+*   **Zielen und Stärke setzen:** Klicke auf den Ball und halte die Maustaste
+    gedrückt. Ziehe den Zeiger vom Ball weg. Die Richtung der Linie zeigt dein
+    Ziel, die Länge steht für die Schlagkraft.
+*   **Schlagen:** Lass die Maustaste los, um den Ball zu schlagen.
 
-### Frequently Asked Questions (FAQ)
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Q: What does "Par" mean?**
-    *   **[DE]** **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.
+*   **F: Was bedeutet "Par"?**
+    *   **A:** Par ist die Schlagzahl, die ein geübter Spieler für ein Loch
+        voraussichtlich benötigt. Bei einem Par-3-Loch versuchst du also, den
+        Ball in höchstens drei Schlägen einzulochen.
 
-*   **[DE]** **Q: What happens if my ball goes into a water hazard?**
-    *   **[DE]** **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
+*   **F: Was passiert, wenn der Ball ins Wasser fällt?**
+    *   **A:** Der Ball wird an die vorherige Position zurückgesetzt und du
+        erhältst in der Regel einen Strafschlag.
 
-*   **[DE]** **Q: How do I get past a large wall?**
-    *   **[DE]** **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
+*   **F: Wie komme ich über hohe Wände?**
+    *   **A:** Suche nach Rampen oder anderen Objekten im Level. Oft musst du
+        den Ball über eine Rampe schießen, um ihn über ein Hindernis zu
+        katapultieren – oder die Bande clever nutzen, um um die Wand
+        herumzuspielen.

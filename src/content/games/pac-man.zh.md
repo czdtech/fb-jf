@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: pac-man
-title: '[ZH TRANSLATION NEEDED] PAC-MAN'
+title: "《PAC-MAN》吃豆人经典街机"
 description: >-
-  [ZH TRANSLATION NEEDED] PAC-MAN is a classic arcade maze game where players
-  control Pac-Man, navigating a labyrinth to eat all the pellets while avoiding
-  four colorful ghosts. Eating power pellets allows Pac-Man to temporarily turn
-  the tables and eat the ghosts.
+  《PAC-MAN》是一款经典街机迷宫游戏，你操控黄色小吃豆人在迷宫中吃光所有豆子，同时躲避四只幽灵；吃下能量豆后，还可以短时间反吃幽灵获取高分。
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/pac-man.jpg
 tags:
@@ -19,28 +16,29 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "PAC-MAN" is a classic arcade maze game. Players control the yellow Pac-Man, moving through a complex labyrinth with the objective of eating all the pellets. Simultaneously, players must evade four colorful ghosts—Blinky, Pinky, Inky, and Clyde. When Pac-Man eats a power pellet, he can temporarily turn the tables and pursue and eat the ghosts for extra points.
+《PAC-MAN》（吃豆人）是街机史上最具代表性的迷宫类游戏之一。玩家操控黄色的吃豆人在复杂的迷宫中移动，目标是在不被幽灵抓到的前提下吃掉所有小豆子与能量豆。迷宫中游走着四只性格各异的幽灵——Blinky、Pinky、Inky 和 Clyde，你需要一边规划路线躲避追击，一边伺机在吃下能量豆的短暂时间内反吃幽灵，赚取额外分数。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Understand Ghost Behavior**: Each ghost has its unique AI pattern. Blinky (red) is a chaser, Pinky (pink) tries to ambush, Inky (light blue) has more complex movements, and Clyde (orange) tends to wander randomly.
-2.  **Utilize Power Pellets**: After eating a power pellet, immediately chase and eat the ghosts for high scores. The more ghosts eaten, the higher the score.
-3.  **Plan Routes**: When moving through the maze, plan your route in advance to avoid being cornered by ghosts.
-4.  **Use Tunnels**: The tunnels at both ends of the maze allow Pac-Man to quickly move from one side to the other, useful for evading or counter-attacking ghosts.
-5.  **Prioritize Large Pellets**: Power pellets (large pellets) are crucial for turning the tide and should be prioritized.
+1.  **熟悉幽灵 AI 行为：** 每只幽灵都有不同的追踪逻辑：红色 Blinky 更偏向正面追击，粉色 Pinky 擅长埋伏，蓝色 Inky 行走路径更复杂，而橙色 Clyde 经常随机乱逛，理解它们的习性能帮你更好预测危险。
+2.  **善用能量豆（大豆）：** 吃下能量豆后，幽灵会短时间变成蓝色并进入逃跑状态，此时你可以反过来追上去吃掉它们，连吃多只幽灵会获得成倍增加的高分，是冲击高分的关键时机。
+3.  **提前规划行进路线：** 在迷宫中行动时，尽量提前决定接下来的转弯方向，避免临时乱跑被两侧夹击；可以优先清理危险区域附近的小豆子，降低后期被困的风险。
+4.  **利用两侧通道：** 迷宫两端通常有穿梭通道，可以帮助你快速从一侧移动到另一侧，用来甩掉紧追不舍的幽灵或快速换线清理另一侧豆子。
+5.  **大豆留作“救命”或冲分：** 不必一开始就吃掉所有能量豆，可以保留一两颗在关键路口附近，方便危急时通过吃豆反转局势，或在幽灵集中时一口气吃下多只冲一波高分。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
+*   **移动：** 使用键盘方向键（上、下、左、右）控制吃豆人在迷宫中的行进方向，角色会沿当前方向持续移动，直到遇到墙体或你改变方向。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How many levels are there in "PAC-MAN"?**
-     **A**: The original "PAC-MAN" has 256 levels, but due to a programming error in level 256, it often results in a "kill screen" or "split screen," preventing the game from progressing normally.
-2.  [ZH TRANSLATION NEEDED] **Q: What are the names and colors of the ghosts?**
-     **A**: The four ghosts are: Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange).
-3.  [ZH TRANSLATION NEEDED] **Q: What happens to the ghosts after eating a power pellet?**
-     **A**: After eating a power pellet, the ghosts turn dark blue and can be eaten by Pac-Man. They will flee and return to their normal state after a period.
-4.  [ZH TRANSLATION NEEDED] **Q: Is the objective of the game to eat all the pellets?**
-     **A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
+### 常见问题
+
+1.  **问：《PAC-MAN》一共有多少关？**
+    **答：** 原版游戏理论上有 256 关，但由于经典程序错误，第 256 关会出现“分裂画面”（Kill Screen），导致游戏无法正常继续；各种移植版本可能在此基础上做了修正或改动。
+2.  **问：四只幽灵分别叫什么、有什么特点？**
+    **答：** 红色 Blinky 主打正面追击；粉色 Pinky 擅长预判你前进路线进行埋伏；蓝色 Inky 行动逻辑更复杂，常常配合其他幽灵制造包夹；橙色 Clyde 则更偏向随机游走，偶尔带来意外威胁。
+3.  **问：吃下能量豆后幽灵会发生什么变化？**
+    **答：** 幽灵会变成深蓝色并转身逃跑，此时它们可以被你吃掉并送回幽灵屋重生，效果持续时间有限，之后会恢复成原本的危险状态。
+4.  **问：每一关的通关目标是什么？**
+    **答：** 在不被幽灵抓到的情况下，吃掉迷宫中全部的小豆和能量豆即可通关并进入下一关。途中通过吃水果与幽灵可以获得额外得分。

@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: 3d-free-kick
-title: '[FR] 3D Free Kick'
-description: >-
-  [FR] 3D Free Kick lets you bend it like a pro — aim the wall, curve the ball,
-  and score stylish set‑pieces.
+title: "3D Free Kick"
+description: "3D Free Kick te permet de frapper des coups francs comme un pro : vise le mur, donne de l’effet et fais trembler les filets sur des situations arrêtées spectaculaires." 
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/3d-free-kick.png
 tags:
@@ -14,29 +12,26 @@ score: 4.1/5  (1866 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+3D Free Kick est entièrement dédié à l’art du coup franc. Choisis ta cible, contourne le mur et surprends le gardien. Les niveaux varient la taille du mur, la distance, les réactions du gardien et parfois le vent pour tester ta précision et la maîtrise de tes trajectoires.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1. **Vise les coins :** les lucarnes et petits filets sont les zones les plus difficiles à atteindre pour le gardien.
+2. **Dose l’effet :** donne juste assez de courbe pour passer le mur et faire rentrer le ballon à l’intérieur du poteau.
+3. **Prends le vent en compte :** si le vent est activé, décale ton viseur et ton effet dans le sens inverse de la flèche.
+4. **Varie la hauteur :** frappe tendue à ras de terre ou sous la barre de près, et balles plongeantes pour les murs plus éloignés.
+5. **Lis le gardien :** certains gardiens anticipent et se jettent tôt – feinte une direction puis enroule dans l’autre.
 
-3D Free Kick focuses on set‑piece mastery: pick a target, curve around the wall, and beat the keeper. Stages vary wall size, keeper reactions, distance, and wind to test precision and shot shaping.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- **Viser :** fais glisser pour régler la direction et la hauteur.
+- **Puissance :** adapte la longueur/durée du geste pour plus ou moins de force.
+- **Effet :** dessine une courbe avec ton swipe ou utilise le curseur d’effet (sidespin/topspin) selon la version.
 
-1.  **[FR]** Target corners: High/low corners are hardest to reach for keepers.
-2.  **[FR]** Add controlled curve: Apply just enough spin to clear the wall and dip inside the post.
-3.  **[FR]** Read wind: Offset your aim and spin according to wind direction/strength (if present).
-4.  **[FR]** Mix heights: Flat drives for close range; dipping shots for longer walls.
-5.  **[FR]** Learn keeper tells: Some keepers step early—fake lines and bend late.
+### Foire aux questions (FAQ)
 
-### Controls Guide
-
-- Aim: Drag to set direction and height.
-- Power: Control swipe length/hold duration.
-- Curve: Swipe curve or adjust spin slider to apply sidespin/topspin.
-
-### Frequently Asked Questions (FAQ)
-
-- My shots hit the wall—how to fix? Start wider and add a bit more curve; or raise trajectory slightly.
-- Keeper keeps catching—tips? Aim for far post with late curl; vary height to break patterns.
-- Does wind matter? Yes—counter it with opposite‑direction curve and offset aim.
+- **Je tire toujours dans le mur – que faire ?** Commence plus excentré, ajoute un peu plus d'effet ou relève légèrement la trajectoire pour franchir le mur.
+- **Le gardien capte tout ?** Vise le second poteau avec une courbe tardive et alterne frappes hautes/tendues pour casser ses lectures.
+- **Le vent change-t-il vraiment quelque chose ?** Oui : décale ton viseur et applique l'effet opposé au vent pour rester sur la même ligne.

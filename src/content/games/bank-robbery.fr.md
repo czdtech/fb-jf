@@ -1,13 +1,9 @@
 ---
 locale: fr
 urlstr: bank-robbery
-title: '[FR] Bank Robbery'
-description: >-
-  [FR] A detailed guide for the team-based FPS game Bank Robbery 2. Learn
-  strategies for both Robbers and Cops, controls, and answers to common
-  questions to master the heist.
-iframeSrc: >-
-  https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
+title: "Bank Robbery"
+description: "Bank Robbery 2 est un FPS en équipes Cops vs Robbers : perfore les coffres et évade‑toi avec l’argent côté braqueurs, ou défends la banque et fais échouer le braquage côté policiers."
+iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html"
 thumbnail: /new-images/bank-robbery.jpg
 tags:
   - fPS
@@ -16,69 +12,87 @@ score: 4.2/5  (1331 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Bank Robbery 2* est un FPS en équipes asymétriques où deux camps s’opposent dans une banque ultra-sécurisée.
 
+En tant que **braqueur**, tu dois pénétrer le bâtiment, installer une perceuse ou des explosifs sur les coffres, récupérer les sacs d’argent puis atteindre le point d’extraction.
 
+En tant que **policier**, ta mission est de verrouiller tous les accès, neutraliser la perceuse dès qu’elle se met en marche et empêcher les criminels de quitter les lieux avec le butin.
 
-### Detailed Introduction
+La carte prend place dans un quartier urbain : hall principal, salle des coffres, toits, ruelles et parkings servent de zones d’affrontement. Chaque manche gagnée rapporte de l’argent pour acheter un meilleur arsenal, des armures plus épaisses ou des outils comme le C4.
 
-*Bank Robbery 2* is a team-based, first-person shooter game where players are divided into two opposing factions: Cops and Robbers. The game revolves around a central, high-stakes objective: a bank heist.
+### Guide de jeu
 
-As a **Robber**, the goal is to infiltrate a heavily secured bank, use a drill to break into vaults and safes, steal as much cash as possible, and successfully transport it to a designated getaway point. This requires coordination, firepower, and a solid plan to bypass security and fight off the police force.
+Votre plan dépend fortement du camp choisi : les braqueurs doivent pénétrer, tenir la perceuse puis exfiltrer l’argent, tandis que les policiers doivent surveiller tous les accès, casser les offensives coordonnées et couper la fuite.
 
-As a **Cop**, the objective is to defend the bank and uphold the law. This involves preventing the Robbers from breaching the vault, defusing any drills they manage to place, and eliminating the criminal team before they can escape with the money. Success as a cop relies on strategic positioning, teamwork, and quick response to the Robbers' actions.
+#### Côté braqueurs
 
-The game takes place in an urban environment with the bank as the focal point. Players can use a variety of weapons, tools, and vehicles to achieve their team's goals, earning in-game currency to purchase better equipment for future rounds.
+1. **Préparer l’entrée**  
+   Ne fonce pas tous par la grande porte. Utilise les ruelles, entrées latérales ou accès au toit pour surprendre les flics et les forcer à se disperser.
 
-### Gameplay Strategy
+2. **Répartir les rôles**  
+   Désigne quelqu’un pour poser et surveiller la perceuse, d’autres pour tenir les accès, et éventuellement un joueur en éclaireur pour prévenir des renforts.
 
-Success is highly dependent on which team you are on.
+3. **Protéger la perceuse**  
+   La perceuse fait du bruit et attire les policiers. Installe des positions défensives autour de la salle des coffres et garde toujours un œil sur l’appareil pour éviter qu’il soit désamorcé.
 
-#### For Robbers:
+4. **Prévoir la fuite**  
+   Une fois l’argent en poche, vous devenez la cible principale. Planifiez à l’avance l’itinéraire vers le point d’extraction et, si possible, prépare un conducteur pour un départ rapide.
 
-1.  **[FR]** **Plan Your Entry:** Don't just rush the front door. Scout for alternative entry points like back alleys, side doors, or even rooftop access. A coordinated, multi-pronged attack can confuse the police.
-2.  **[FR]** **Assign Roles:** Don't have everyone do the same thing. Designate specific roles: one or two players to place and guard the drill, one to watch the main entrance, and another to cover flanking routes.
-3.  **[FR]** **Protect the Drill:** The drill is your key to the money, but it's noisy and takes time, making it a magnet for Cops. Set up defensive positions around the drilling area and hold your ground.
-4.  **[FR]** **The Escape is a Separate Mission:** Getting the money is only half the battle. Once you have the cash bags, you become a high-priority target. Plan your escape route in advance and consider having a designated getaway driver ready with a vehicle.
-5.  **[FR]** **Upgrade Your Gear:** Use the money you earn from successful heists to buy better weapons, stronger armor, and useful tools like C4 for faster breaching.
+5. **Améliorer l’équipement**  
+   Utilise tes gains pour acheter armes, armures et explosifs (C4, etc.) qui permettront des percées plus rapides lors des braquages suivants.
 
-#### For Cops:
+#### Côté policiers
 
-1.  **[FR]** **Secure All Entrances:** At the start of the round, don't just camp the main lobby. Spread out to cover all potential points of entry. A single robber slipping through can start a drill and put your team at a disadvantage.
-2.  **[FR]** **Communicate and Call Out:** Use the team chat to report enemy locations. Announce where the robbers are drilling ("Drill on the main vault!") so your team can converge on the threat.
-3.  **[FR]** **Coordinated Retakes:** If robbers have taken control of an area, don't rush in one by one. Group up and breach the room together from multiple angles to overwhelm them.
-4.  **[FR]** **Prioritize Defusing the Drill:** If a drill is active, stopping it is your top priority. Provide cover for a teammate who is attempting to defuse it, as they will be completely vulnerable during the process.
-5.  **[FR]** **Cut Off the Escape:** If the robbers manage to grab the money, your objective shifts to interception. Use police cars to chase them down or set up roadblocks on the path to their getaway point.
+1. **Sécuriser tous les accès**  
+   Au début, ne campe pas uniquement dans le hall. Place quelques agents aux entrées secondaires pour repérer très tôt les attaques.
 
-### Controls Guide
+2. **Communiquer**  
+   Utilise le chat d’équipe pour annoncer où tu vois des braqueurs et où une perceuse a été posée. Un bon call‑out permet à toute l’équipe de réagir.
 
-The game uses standard first-person shooter controls common on its platform (Roblox for PC).
+3. **Reprise coordonnée**  
+   Si les braqueurs contrôlent la salle des coffres, n’y retourne pas un par un. Attendez‑vous à plusieurs et entrez par plusieurs portes en même temps.
 
-*   **[FR]** **`W`, `A`, `S`, `D` Keys**: Move your character.
-*   **[FR]** **Mouse**: Aim and control the camera.
-*   **[FR]** **`Left Mouse Button`**: Fire your weapon.
-*   **[FR]** **`Right Mouse Button`**: Aim down sights (ADS).
-*   **[FR]** **`R` Key**: Reload your weapon.
-*   **[FR]** **`Left-Shift` Key**: Sprint.
-*   **[FR]** **`Spacebar`**: Jump.
-*   **[FR]** **`E` or `F` Key**: Interact with objects (e.g., place/defuse a drill, pick up cash, enter a vehicle).
-*   **[FR]** **Number Keys (`1`, `2`, `3`...)**: Switch between your equipped weapons and items.
-*   **[FR]** **`C` Key**: Crouch (if available in the specific version).
+4. **Priorité à la perceuse**  
+   Quand une perceuse est active, la désamorcer est la priorité. Protège le coéquipier qui interagit avec l’appareil, car il est totalement vulnérable.
 
-### Frequently Asked Questions (FAQ)
+5. **Couper la fuite**  
+   Si les braqueurs s’enfuient avec l’argent, pensez à tendre des embuscades sur le chemin de l’extraction ou à utiliser les véhicules de police pour les rattraper.
 
-**1. How do I get better weapons and equipment?**
-You earn in-game cash by completing objectives (stealing money as a robber, stopping robbers as a cop) and eliminating opponents. You can then use this cash in the game's shop to purchase a wide variety of new guns, armor, and tools.
+### Commandes
 
-**2. As a Robber, the drill keeps getting defused. What should I do?**
-Teamwork is the only solution. You cannot leave the drill unattended. You need at least one or two teammates dedicated to defending the area while the drill is running.
+Contrôles typiques d’un FPS PC (souvent basé sur Roblox ou navigateur) :
 
-**3. As a Cop, we are always overwhelmed. How can we defend better?**
-Avoid grouping up in one predictable spot. Use the entire bank as your defense area. By spreading out, you can get early warnings of where the robbers are attacking from and flank them when they commit to drilling a specific vault.
+- Déplacement : `W`, `A`, `S`, `D`  
+- Viser / caméra : souris  
+- Tir : clic gauche  
+- Viser (ADS) : clic droit  
+- Recharger : `R`  
+- Sprint : `Shift` gauche  
+- Saut : `Espace`  
+- Interagir (perceuse, argent, véhicules, etc.) : `E` ou `F`  
+- Changer d’arme : chiffres `1`, `2`, `3`…  
+- Accroupi (si disponible) : `C`
 
-**4. What is the best way to enter the bank as a Robber?**
-There is no single "best" way, as it depends on how the Cops set up their defense. The most effective strategy is often a surprise attack. Using C4 on a side wall or finding an unguarded back entrance is usually more successful than a direct assault on the front doors.
+### Foire aux questions (FAQ)
 
-**5. Can I switch teams during a game?**
-Typically, team selection happens before the round begins, and you are locked into that team until the next game to maintain balance.
+**1. Comment obtenir de meilleures armes ?**
 
+Accomplis les objectifs (braquage réussi, défense victorieuse, éliminations). L’argent gagné entre les manches sert à acheter armes, armures et explosifs plus puissants.
+
+**2. Nous jouons braqueurs et notre perceuse se fait désamorcer. Que faire ?**
+
+Installe une garde permanente : au moins deux joueurs doivent couvrir la perceuse, poser des barricades improvisées et utiliser grenades ou fusils automatiques pour empêcher toute approche.
+
+**3. Côté policiers, nous sommes systématiquement débordés. Des astuces ?**
+
+Évite de camper en bloc. Répartissez-vous dans la banque pour repérer tôt les intrusions, puis reprenez chaque zone à plusieurs entrées en couvrant le coéquipier qui désamorce.
+
+**4. Quelle est la meilleure manière d’entrer dans la banque en tant que braqueur ?**
+
+Il n’existe pas de route unique. Combine entrées latérales, accès au toit et charges de C4 pour surprendre la défense et l’obliger à se diviser avant de poser la perceuse.
+
+**5. Peut-on changer de camp en cours de partie ?**
+
+En règle générale, l’équipe est verrouillée avant le début du round pour conserver l’équilibre. Il faut attendre la manche suivante pour rejoindre l’autre camp.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bridge
-title: '[DE] Bridge'
+title: "Bridge"
 description: >-
-  [DE] Play the classic partnership card game, Bridge. Work with your partner
-  through bidding and trick-taking to outsmart your opponents and fulfill your
-  contract.
+  Spiele den klassischen Partnerschafts-Kartenspielklassiker Bridge. Biete
+  gemeinsam mit deinem Partner, gewinne Stiche und erfülle euren Kontrakt, um
+  die Gegenspieler auszutricksen.
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
 thumbnail: /new-images/bridge.png
 tags:
@@ -17,32 +17,64 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Bridge ist ein klassisches, sehr strategisches Stichkartenspiel für vier
+Spieler, die in zwei Teams zu je zwei Personen gegeneinander antreten.
+Partner sitzen sich gegenüber. Eine Runde Bridge besteht aus zwei Phasen: dem
+Reizen (Bidding/Auction) und dem eigentlichen Spiel.
 
-### Detailed Game Introduction
+Im Reizen legen die Partnerschaften fest, welcher Kontrakt gespielt wird –
+also welche Trumpffarbe (oder Sans Atout/No-Trump) gilt und wie viele Stiche
+das Team mindestens gewinnen muss. In der Spielphase versucht die
+Kontraktpartei (der Alleinspieler mit seinem Partner), genau diesen Kontrakt zu
+erfüllen, während die Gegenspieler dies verhindern wollen. Bridge gilt zu
+Recht als eine der anspruchsvollsten Denksportarten der Welt.
 
-Bridge is a classic and highly strategic trick-taking card game played by four players in two competing partnerships. Players sit opposite their partners. The game consists of two main phases: the Bidding (or Auction) and the Play. During bidding, the partnerships compete to determine the "contract," which specifies the trump suit and the number of tricks that partnership must win. During the play, the side that won the bid (the declarer) tries to fulfill their contract, while the defenders try to stop them. It is widely considered one of the world's greatest mind sports.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  Das Reizen verstehen: Beim Reizen geben die Spieler reihum Gebote ab. Ein
+    Gebot besteht aus einer Zahl (1–7) und einer Farbe (Kreuz, Karo, Herz,
+    Pik) oder "No-Trump" (Sans Atout). Die Zahl gibt an, wie viele Stiche über
+    sechs das Team gewinnen will (z. B. bedeutet 3 Herz, dass mindestens neun
+    Stiche mit Herz als Trumpf nötig sind). Das höchste gültige Gebot wird der
+    endgültige Kontrakt.
+2.  Rolle von Alleinspieler und Dummy: Der Spieler aus der Gewinnerpartnerschaft,
+    der die Trumpffarbe zuerst genannt hat, wird Alleinspieler
+    ("Declarer"). Sein Partner legt seine Karten als offen ausliegende
+    Dummy-Hand auf den Tisch. Der Alleinspieler spielt anschließend sowohl
+    seine eigene Hand als auch die Dummy-Karten.
+3.  Stiche gewinnen: Der Spieler links vom Alleinspieler spielt die erste Karte
+    aus. Die anderen müssen, wenn möglich, dieselbe Farbe bedienen
+    ("Farbe bedienen"). Die höchste Karte in der ausgespielten Farbe gewinnt
+    den Stich – es sei denn, es wird ein Trumpf gespielt. Wenn Trumpf im Spiel
+    ist, gewinnt der höchste Trumpf die Runde. Wer den Stich macht, spielt die
+    nächste Karte aus.
+4.  Wertung: Erfüllt die Kontraktpartei ihren Kontrakt (also die geforderte
+    Stichzahl oder mehr), erhält sie Punkte. Scheitern sie, erhalten die
+    Gegenspieler Punkte. Gute Partnerschaftskommunikation über das Reizen ist
+    entscheidend, um realistische Kontrakte zu bieten.
 
-1.  **[DE]** **The Bidding:** This is the first phase. Players take turns making bids. A bid consists of a number (1-7) and a suit (Clubs, Diamonds, Hearts, Spades) or "No-Trump" (NT). The number corresponds to the number of tricks over 6 that the partnership commits to winning (e.g., a bid of 3 Hearts means they must win at least 9 tricks with Hearts as the trump suit). The highest bid becomes the final contract.
-2.  **[DE]** **The Play:** The player from the winning partnership who first named the suit of the contract becomes the "declarer." Their partner becomes the "dummy," and places their hand face-up on the table for everyone to see. The declarer plays both their own hand and the dummy's hand.
-3.  **[DE]** **Trick-Taking:** The player to the declarer's left leads the first card. Other players must follow suit if they can. The player who plays the highest card of the suit led wins the trick, unless a trump card is played. If a trump card is played, the highest trump card wins. The winner of a trick leads the next one.
-4.  **[DE]** **Scoring:** If the declarer's side makes their contract (wins the required number of tricks or more), they score points. If they fail, the defending side scores points.
+### Steuerung
 
-### Controls Guide
+*   Reizen: Klicke auf die gewünschte Kombination aus Zahl und Farbe oder wähle
+    "Pass", wenn du nicht reizen möchtest.
+*   Karte ausspielen: Klicke auf die Karte aus deiner Hand (oder der Dummy-Hand,
+    falls du Alleinspieler bist), die du in den aktuellen Stich legen willst.
 
-*   **[DE]** **Bidding:** Click on the number and suit you wish to bid, or click "Pass."
-*   **[DE]** **Playing a Card:** Click on the card from your hand (or the dummy's hand, if you are the declarer) that you wish to play.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   F: Was ist ein "Stich"?
+    *   A: Ein Stich besteht aus vier Karten – jede Karte wird nacheinander von
+        einem Spieler ausgespielt. Die höchste Karte im Stich gewinnt ihn.
 
-*   **[DE]** **Q: What is a "trick"?**
-    *   **[DE]** **A:** A trick consists of four cards, one played by each of the four players in turn. The highest card wins the trick.
+*   F: Was ist eine "Trumpffarbe"?
+    *   A: Die Trumpffarbe wird im Reizen festgelegt und sticht alle anderen
+        Farben. Ist zum Beispiel Herz Trumpf, schlägt selbst die 2 in Herz das
+        Ass jeder anderen Farbe.
 
-*   **[DE]** **Q: What is a "trump suit"?**
-    *   **[DE]** **A:** A trump suit is a suit chosen during the bidding phase that outranks all other suits. For example, if Hearts are trump, even the 2 of Hearts will beat the Ace of any other suit.
-
-*   **[DE]** **Q: What does it mean to "follow suit"?**
-    *   **[DE]** **A:** If the first card played in a trick is a Spade, all other players must play a Spade if they have one in their hand. If they do not have a Spade, they can play any other card, including a trump card.
-
+*   F: Was bedeutet "Farbe bedienen"?
+    *   A: Wenn die erste Karte eines Stichs etwa Pik ist, müssen alle anderen
+        Spieler ebenfalls Pik spielen, sofern sie diese Farbe auf der Hand
+        haben. Wer keine Karte in dieser Farbe besitzt, darf eine andere Farbe
+        oder auch Trumpf abwerfen.

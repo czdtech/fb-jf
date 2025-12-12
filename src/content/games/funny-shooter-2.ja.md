@@ -1,42 +1,40 @@
 ---
-locale: ja
-urlstr: funny-shooter-2
-title: '[JA TRANSLATION NEEDED] Funny Shooter 2'
-description: >-
-  [JA TRANSLATION NEEDED] Wave‑based FPS: blast bizarre enemies with an
-  expanding arsenal, earn coins, and upgrade weapons between stages.
+title: Funny Shooter 2
+description: ウェーブベースのFPS：奇妙な敵の集団を拡大し続ける武器で爆破し、コインを稼ぎ、ステージ間で武器をアップグレードしましょう。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/funny-shooter-2.jpg
+urlstr: funny-shooter-2
+score: 3.8/5  (514 votes)
 tags:
   - shooting
   - fps
-score: 3.8/5  (514 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### 概要
+変な敵たちが波のように押し寄せるアリーナシューター。ラウンドを生き残り、目的を達成し、稼いだお金でより良い武器やユーティリティを購入しましょう。
+
+### 遊び方
+-動き続けましょう。サークルストレイフ（円を描くように移動）をして、大きな集団を引き撃ち（カイト）しましょう。
+- 遠距離攻撃の脅威と、爆発物を持った敵を優先してください。
+- まずDPS（火力）のアップグレードを購入し、次に生存性を強化しましょう。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Arena waves of oddball foes. Survive rounds, complete objectives, and spend earnings on better weapons and utilities.
-
-### How to Play
-- Keep moving; circle‑strafe and kite large groups.
-- Prioritize ranged threats and explosive carriers.
 - Buy DPS upgrades first, then survivability.
+### 操作方法
+- WASDで移動、マウスで照準/射撃。Rでリロード、1〜3キーで武器切り替え。Shiftキーでスプリント（ホストによります）。
 
-### Controls
-- WASD to move, Mouse to aim/shoot; R reload; 1–3 switch weapons; Shift sprint (host dependent).
+### ヒント
+- ヘッドショットを狙いましょう。高ウェーブになると敵は弾丸のスポンジのように硬くなります。
+- 角を使って敵を一箇所に集めましょう。囲まれないようにしてください。
+- 密集したスポーン（出現）に対して爆発物を温存しておきましょう。
 
-### Tips
-- Aim for headshots; enemies are bullet‑spongy at higher waves.
-- Use corners to funnel mobs; avoid getting surrounded.
-- Save explosives for clustered spawns.
-
-### FAQ
-- Q: How do I unlock new guns?  
-[JA TRANSLATION NEEDED]   A: Purchase them using coins gained from completing waves.
-- Q: Are there bosses in the game?  
-[JA TRANSLATION NEEDED]   A: Many versions include periodic boss waves with unique mechanics.
-- Q: Can I change sensitivity?  
-[JA TRANSLATION NEEDED]   A: Most hosts provide a settings menu for sensitivity and FOV.
-
+### よくある質問 (FAQ)
+- **Q: 新しい銃をアンロックするには？**  
+  A: ウェーブを完了して得たコインを使って購入します。
+- **Q: ゲームにボスはいますか？**  
+  A: 多くのバージョンには、独自のメカニックを持つ定期的なボスウェーブが含まれています。
+- **Q: 感度を変更できますか？**  
+  A: ほとんどのホスト版の設定メニューで感度とFOV（視野角）を調整できます。

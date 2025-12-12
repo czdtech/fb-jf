@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: domino-adventure
-title: '[ZH TRANSLATION NEEDED] Domino Adventure'
+title: "Domino Adventure 多米诺冒险指南"
 description: >-
-  [ZH TRANSLATION NEEDED] Master the classic board game, Domino Adventure. This
-  guide provides expert strategies for Block and Draw modes, tips for managing
-  your tiles, and how to win rounds by being the first to play all your
-  dominoes.
+  《Domino Adventure 多米诺冒险指南》是经典多米诺骨牌玩法的精致数字版。本文会介绍 Block
+  / Draw 两种模式的核心规则与实用策略，帮助你通过巧妙出牌率先打光手牌赢下回合。
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/domino-adventure.png
 tags:
@@ -21,40 +19,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] *Domino Adventure* is a beautifully presented digital version of the classic dominoes board game. The objective is to be the first player to **play all of your domino tiles** by strategically matching them to the ends of the domino chain on the table.
+《Domino Adventure 多米诺冒险》是对传统多米诺骨牌桌游的数字化还原。你的目标是通过策略性
+地将手中的骨牌依次接到桌面骨牌链的两端，**率先打光所有手牌**。每位玩家起始都会拿到一定
+数量的骨牌，轮到你时必须从手中选出至少一端点数与桌面开放端点匹配的骨牌进行连接。如果所
+有玩家都无法继续出牌，则视为“堵死局面（blocked）”。
 
-[ZH TRANSLATION NEEDED] Each player starts with a hand of domino tiles. On your turn, you must place a tile from your hand that has a number of pips (dots) matching one of the open ends of the chain on the board. The game ends when one player runs out of tiles, or when all players are "blocked" and can no longer make a legal move.
-
-[ZH TRANSLATION NEEDED] The winner of a round scores points equal to the total number of pips left in their opponents' hands. The game is played over several rounds until one player reaches a pre-set score target (e.g., 15 points as shown in the screenshot).
+当有玩家成功打完所有手牌，或游戏被堵死时，本回合结束。获胜者会根据对手手中剩余骨牌的点
+数总和获得相应积分。游戏通常会进行多回合累积分数，直到某位玩家达到预设目标分（示例中为
+15 分）即获得最终胜利。
 
 ### **Gameplay Strategy & Tips**
 
-1.  **Play Your Doubles Early**: Double-sided tiles (like double-fives or double-threes) are less versatile because they only have one number to match. Playing them early prevents them from getting stuck in your hand later when you have fewer options.
-2.  **Keep a Variety of Numbers**: Try to keep a diverse range of numbers in your hand. If you only have tiles with high numbers (fives and sixes), and the ends of the chain are all low numbers, you'll be blocked.
-3.  **Block Your Opponent**: Pay attention to the numbers your opponent is playing. If you notice they are avoiding a certain number, it's likely they don't have it. If you have the opportunity, try to leave that number exposed on both ends of the chain to block them and force them to pass their turn (in Block mode) or draw a new tile (in Draw mode).
-4.  **Play Your Heaviest Tiles First**: If you anticipate that you might not win the round, it's a good strategy to play your tiles with the highest total number of pips first. This minimizes the number of points your opponent will score off you if they win.
-5.  **Know the Game Modes**:
-     *   **Block Mode**: If you cannot play a tile, you must pass your turn. This mode is more about strategically blocking your opponent.
-     *   **Draw Mode**: If you cannot play a tile, you must draw a new tile from the boneyard until you get one you can play. This mode involves more luck.
+1.  **尽早打出“对子牌”（双数骨牌）：** 像 5–5、3–3 这类双数牌只有一个点数可供匹配，灵活性最
+    差。如果留到后期，牌面可选数字变少，很容易变成“废牌”卡在手里，所以建议尽量在中前期
+    寻找机会先打出去。  
+2.  **保留多种点数组合：** 尽量让手牌里的数字类型保持多样化。如果牌面开放端大部分变成小
+    数，而你手上全是 5、6 等点数，很容易被迫跳过回合或频繁抓牌。  
+3.  **主动制造“堵牌”机会：** 注意观察对手偏好出牌的点数，如果发现某个点数对手很少或从不
+    使用，很可能他们缺这类骨牌。若有机会，可以设法让牌链两端都暴露出这个点数，迫使对手
+    无牌可出，从而在 Block 模式下直接跳过对方回合，或在 Draw 模式下逼他们不断抓牌。  
+4.  **在可能落败时优先出“大点数”牌：** 如果预感这一回合自己未必能抢先出完牌，可以优先
+    打掉点数总和较大的骨牌，降低一旦对手获胜时你给对方贡献的积分。  
+5.  **熟悉两种主要玩法模式：**  
+    *   **Block Mode：** 当你没有可出的牌时，只能直接跳过回合。这种模式中更需要围绕“堵死对
+        手”来进行布局。  
+    *   **Draw Mode：** 当你没有可出的牌时，必须不断从“骨牌堆（boneyard）”抓牌，直到抓到能
+        出的牌为止。这种模式添加了更多运气成分，但也给了你借抓牌重组手牌的机会。  
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The game is designed for simple, intuitive drag-and-drop or click-based gameplay.
+本作采用直观的拖拽/点击操作，非常适合鼠标或触屏：
 
-*   **Play a Tile**: **Click and drag** a domino from your rack to a valid matching end on the board. Alternatively, you can often just **click** the tile you want to play, and it will automatically move to a valid spot if one exists.
+*   **出牌：** 使用鼠标点击并拖动手牌中的一张骨牌到桌面可匹配的一端即可完成出牌；某些版本
+    中，直接点击一张可用骨牌，系统会自动帮你放到合法位置。  
 
 ### **Frequently Asked Questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. How do I win a round?**
-[ZH TRANSLATION NEEDED] You win a round by being the first player to get rid of all the dominoes in your hand. You can also win if all players are blocked, and you have the lowest total number of pips remaining in your hand.
+**1. 回合怎样算赢？**  
+当你先于对手打光所有手牌时，本回合即获胜。如果所有玩家都无法继续出牌且骨牌堆为空，则比
+较双方手牌点数总和，点数更少的一方胜出。  
 
-[ZH TRANSLATION NEEDED] **2. How is scoring calculated?**
-[ZH TRANSLATION NEEDED] After a round ends, the winner receives points equal to the **sum of all the pips on the dominoes left in the loser's hand**. For example, if your opponent has a [6-5] and a [2-1] tile left, you score (6+5+2+1) = 14 points.
+**2. 回合结束后如何计算积分？**  
+回合结束时，获胜玩家会获得与对手剩余手牌点数总和相等的分数。例如对手手上只剩 [6–5] 和
+[2–1]，则你可获得 (6+5+2+1) = 14 分。  
 
-[ZH TRANSLATION NEEDED] **3. What's the difference between "Block" and "Draw" mode?**
-*   In **Block Mode**, if you don't have a playable tile, you do nothing and simply skip your turn.
-*   In **Draw Mode**, if you don't have a playable tile, you must keep drawing new tiles from the reserve pile (the "boneyard") until you get a tile that can be played.
+**3. Block 模式与 Draw 模式具体差别是什么？**  
+- **Block 模式：** 没牌可出时只能原地“干看”，直接跳过回合。  
+- **Draw 模式：** 没牌可出时必须从骨牌堆中不断抓牌，直到抽到可以出的一张为止；若骨牌堆也
+  已枯竭，则只能跳过。  
 
-[ZH TRANSLATION NEEDED] **4. What is the "Trophy Road"?**
-[ZH TRANSLATION NEEDED] The Trophy Road is a progression system where you earn exclusive rewards by playing the game. This likely includes new, collectible tile sets and other cosmetic items.
-
+**4. 游戏里提到的 “Trophy Road” 是什么？**  
+“Trophy Road（奖杯之路）”是游戏中的进度与奖励系统，通过不断游玩可以解锁新的牌面皮肤和其
+他外观奖励，用以展示你的成就与段位。  

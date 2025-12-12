@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: gangsters
-title: '[KO] Gangsters'
+title: "Gangsters 물리 래그돌 슈팅"
 description: >-
-  [KO] Physics ragdoll duels: two stick gangsters bounce and shoot on rooftops;
-  time jumps and shots to knock the opponent off.
+  옥상 위에서 두 명의 스틱맨 갱스터가 튕기고 미끄러지며 싸우는 물리 기반 대전
+  게임입니다. 점프와 사격 타이밍, 총 반동을 이용해 상대를 떨어뜨리면 라운드를
+  승리할 수 있습니다.
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/gangsters.jpg
@@ -19,27 +20,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Wobbly rooftop shootouts for one or two players. Bullets and recoil affect your stance; the goal is to topple your opponent.
+### 게임 개요
 
-### How to Play
-- Time jumps to dodge bullets and adjust aim height.
-- Use recoil to your advantage to tilt or slide the enemy’s stance.
-- Environmental props can block shots or cause ricochets.
+`Gangsters`는 물리 엔진으로 움직이는 스틱맨 갱스터 둘이 옥상 위에서 서로를
+쏘아 떨어뜨리는 1~2인용 대전 게임입니다. 총알이 날아가는 궤적뿐 아니라 반동까지
+캐릭터의 자세와 균형에 영향을 주기 때문에, 한 발 한 발이 승부를 가릅니다.
 
-### Controls
-- One‑button jump/shoot per player (host dependent) or separate keys for actions.
+### 플레이 방법
 
-### Tips
-- Short hops steady aim; big hops dodge and reposition.
-- Aim at feet to pop opponents upward and off balance.
-- Watch wind or moving platforms when present.
+- 점프 타이밍을 조절해 상대의 탄을 피하거나, 더 높은 위치에서 사격해 유리한
+  각도를 확보하세요.
+- 사격 시 발생하는 반동을 이용해 자신의 위치를 미세하게 조정하거나, 상대의
+  몸을 밀어 균형을 무너뜨릴 수 있습니다.
+- 맵에 배치된 상자나 장애물은 총알을 막아 주기도 하고, 튕겨 나가는 탄환으로
+  예상치 못한 명중을 만들어 내기도 합니다.
 
-### FAQ
-- Q: How do I win rounds consistently?
-A: Control recoil and land shots that destabilize your opponent’s footing.
-- Q: Is there a two‑player mode on one keyboard?
-A: Yes, most hosts provide side‑by‑side key bindings.
-- Q: Do headshots deal extra damage?
-A: Usually knockback/positioning matters more than raw damage.
+### 조작 방법
 
+- 기본적으로 플레이어마다 점프/사격을 겸하는 한 버튼을 사용하거나, 버전에 따라
+  점프와 사격이 서로 다른 키로 나뉘어 있을 수 있습니다.
+- 로컬 2인용 모드에서는 한 키보드에서 두 플레이어가 나란히 앉아 각자의 버튼으로
+  조작합니다.
+
+### 플레이 팁
+
+- 짧은 점프는 에임을 안정시키면서 약간의 위치 조정만 하고 싶을 때 유용합니다.
+- 상대의 발이나 하체를 노려 맞히면, 위로 튀어 오르거나 균형을 잃어 옥상 밖으로
+  떨어지기 쉬워집니다.
+- 바람, 움직이는 발판 등 환경 요소가 있는 맵에서는 탄환이 어떻게 영향을 받는지
+  먼저 관찰한 뒤 플레이하면 승률을 높일 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 라운드를 꾸준히 이기려면 어떻게 해야 하나요?  
+  A: 무작정 난사하기보다는 반동과 점프의 타이밍을 통제해, 상대의 균형을
+  무너뜨리는 탄을 정확히 맞히는 것이 중요합니다.
+- Q: 한 키보드에서 2인용으로도 즐길 수 있나요?  
+  A: 네. 대부분의 호스트에서 두 플레이어에게 서로 다른 키를 배정해, 같은 PC에서
+  로컬 대전을 즐길 수 있습니다.
+- Q: 헤드샷을 노리면 더 좋은가요?  
+  A: 이 게임에서는 순수한 데미지보다 캐릭터가 얼마나 밀려나는지가 더 중요합니다.
+  머리를 맞히는 것보다, 상대를 가장 잘 밀어낼 수 있는 위치를 노리는 편이 유리할
+  때가 많습니다.

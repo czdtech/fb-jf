@@ -1,14 +1,10 @@
 ---
 locale: es
 urlstr: temple-run-2
-title: '[ES] Temple Run 2'
-description: >-
-  [ES] Temple Run 2 is an endless running adventure game where players navigate
-  treacherous temple paths, collecting coins and power-ups while avoiding
-  obstacles and the pursuing demon monkeys in stunning environments.
-iframeSrc: >-
-  https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
-thumbnail: /new-images/temple-run-2.jpg
+title: "Temple Run 2 - Carrera infinita en el templo"
+description: "Temple Run 2 es un juego de carrera infinita de aventuras en el que corres por peligrosos caminos de templo, recoges monedas y potenciadores y esquivas obstáculos mientras huyes de los demonios que te persiguen a través de entornos espectaculares."
+iframeSrc: "https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html"
+thumbnail: "/new-images/temple-run-2.jpg"
 tags:
   - endless runner
   - adventure
@@ -17,36 +13,32 @@ score: 4.0/5  (277 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+Temple Run 2 es un juego de carrera infinita en el que corres por antiguos templos llenos de trampas, precipicios y curvas imposibles. Mientras el monstruo te persigue, recoges monedas y potenciadores, esquivas troncos, acantilados y minas, y te deslizas por tirolinas o vagonetas. Ofrece escenarios más ricos y efectos visuales más elaborados que el juego original.
 
+### Estrategia de juego
 
+1.  Recolecta monedas: prioriza las monedas del camino para poder mejorar a tus personajes y comprar nuevos potenciadores.
+2.  Usa bien los potenciadores: escudos, imanes, acelerones y otros poderes deben activarse en tramos peligrosos para aumentar tus posibilidades de supervivencia.
+3.  Anticípate a los obstáculos: mantén la vista en el camino y reacciona con saltos, deslizamientos o giros antes de que sea demasiado tarde.
+4.  Junta gemas: recoge gemas especiales para continuar una carrera tras un error, desbloquear personajes y mejorar habilidades.
+5.  Completa misiones: las misiones diarias y objetivos especiales dan recompensas adicionales y aceleran tu progreso.
 
-### Game Introduction
+### Cómo jugar
 
-"Temple Run 2" is an endless running adventure game where players navigate treacherous temple paths, collecting coins and power-ups while avoiding obstacles and the pursuing demon monkeys. The game unfolds in stunning environments, offering richer gameplay experience and visual effects than its predecessor.
+*   Deslizar a izquierda/derecha: desliza el dedo (o el ratón) hacia los lados para girar en las intersecciones.
+*   Deslizar hacia arriba para saltar: salta sobre huecos, troncos o trampas elevadas.
+*   Deslizar hacia abajo para deslizarte: pasa por debajo de obstáculos bajos como barreras o llamas.
+*   Inclinación: en algunas versiones puedes inclinar el dispositivo para recoger más monedas o cambiar ligeramente de carril.
 
-### Gameplay Strategy
+### Preguntas frecuentes
 
-1.  **[ES]** **Collect Coins**: Prioritize collecting coins on the path to upgrade characters and purchase power-ups.
-2.  **[ES]** **Power-up Usage**: Use shields, magnets, speed boosts, and other power-ups wisely to improve survival.
-3.  **[ES]** **Obstacle Prediction**: Observe obstacles ahead and react timely with jumps, slides, or turns.
-4.  **[ES]** **Gem Collection**: Collect special gems to unlock new characters and upgrade abilities.
-5.  **[ES]** **Mission Completion**: Complete daily missions to earn extra rewards and experience.
-
-### How to Play
-
-*   **[ES]** **Left/Right Swipe**: Swipe left or right on screen to turn.
-*   **[ES]** **Swipe Up to Jump**: Swipe up to jump over obstacles.
-*   **[ES]** **Swipe Down to Slide**: Swipe down to slide under low obstacles.
-*   **[ES]** **Tilt Control**: Tilt device to collect more coins (in some versions).
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How can I get more coins?**
-**A**: By completing missions, using magnet power-ups, unlocking achievements, and watching ads (if available).
-2.  **[ES]** **Q: What are the differences between characters?**
-**A**: Each character typically has unique appearance and starting abilities, unlockable through game progression.
-3.  **[ES]** **Q: How do I get power-ups?**
-**A**: By collecting them in-game, purchasing with coins, or completing specific missions.
-4.  **[ES]** **Q: Does the game have an ending?**
-**A**: This is an endless runner game that can theoretically continue indefinitely; the challenge is to run as far as possible.
+1.  **P: ¿Cómo puedo conseguir más monedas?**  
+    **R:** Completa misiones, utiliza el imán de monedas cuando lo obtengas, desbloquea logros y aprovecha las oportunidades de ver anuncios (si la versión lo permite) para obtener recompensas extra.
+2.  **P: ¿En qué se diferencian los personajes?**  
+    **R:** Normalmente se distinguen por su aspecto y por habilidades iniciales o potenciadores asociados. Algunos se desbloquean con gemas o al completar retos.
+3.  **P: ¿Cómo obtengo más potenciadores?**  
+    **R:** Puedes recogerlos durante la carrera, adquirirlos con monedas o desbloquear versiones mejoradas desde el menú de mejoras.
+4.  **P: ¿El juego tiene final?**  
+    **R:** No, es una carrera infinita. El reto consiste en llegar lo más lejos posible sin caer ni chocar, mejorando tus marcas en cada intento.

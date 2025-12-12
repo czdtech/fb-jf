@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: pirate-pop
-title: '[ZH TRANSLATION NEEDED] Pirate Pop'
+title: "《Pirate Pop》海盗泡泡龙"
 description: >-
-  [ZH TRANSLATION NEEDED] Ahoy! Take aim and pop the pirate bubbles. A classic
-  bubble shooter game where you match three or more to clear the board and claim
-  the pirate treasure.
+  《Pirate Pop》是一款海盗主题的泡泡龙消除游戏，你要操控船上的大炮瞄准射击，通过消除三个及以上同色泡泡来清理屏幕、赢走隐藏的海盗宝藏。
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/pirate-pop.png
 tags:
@@ -17,29 +15,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Pirate Pop is a fun and addictive bubble shooter game with a swashbuckling pirate theme. Your goal is to clear the screen of colorful bubbles by firing your cannon and matching three or more bubbles of the same color. Aim carefully, use the walls to make tricky bank shots, and create large chain reactions to drop big clusters of bubbles and claim the pirate treasure!
+《Pirate Pop》是一款节奏轻快、操作简单的泡泡射击游戏，整体包裹在充满趣味的海盗题材之中。你操控海盗大炮向上发射彩色泡泡，只要让射出的泡泡与场上同色泡泡形成三个及以上的组合，就能将它们一并消除。当支撑下方的连接点被打断时，整串悬挂的泡泡也会一并坠落，形成非常爽快的大面积清屏效果，是拿高分的关键。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Aim High for Big Drops:** The most effective way to score big is to pop a cluster of bubbles that is supporting other bubbles below it. This will cause a huge avalanche, clearing a large portion of the board at once and earning you massive combo points.
-2.  [ZH TRANSLATION NEEDED] **Use the Walls:** Master the bank shot. Bouncing your bubble off the side walls is a crucial skill for reaching tight spots and hitting bubbles that are otherwise blocked.
-3.  [ZH TRANSLATION NEEDED] **Plan Ahead:** The game usually shows you the next bubble in your cannon. Use this to your advantage. If your current bubble isn't a good match, see if you can use it to set up a better shot for the next one.
-4.  [ZH TRANSLATION NEEDED] **Don't Let Them Reach You:** A line of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, your voyage is over!
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **优先打“挂点”制造大坍塌：** 与其只消除局部几颗泡泡，不如瞄准那些上方支撑大片泡泡的连接点。只要击碎这些关键节点，下方整团泡泡就会一起掉落，既快速清场，又能获得更高连锁得分。
+2.  **熟练使用墙面反弹：** 掌握“弹墙球”非常重要。通过利用左右墙壁的反弹，可以打到被其它泡泡挡住的缝隙或高处角落，扩展你的攻击范围。
+3.  **提前观察下一个泡泡：** 游戏通常会显示即将发射的下一颗泡泡颜色。如果当前颜色不理想，可以先用它去凑将来更利于消除的位置，或堆到边缘，给下一颗更关键的泡泡留出空间。
+4.  **防止泡泡压线：** 泡泡团会随着时间或操作逐步往下压，一旦有泡泡越过屏幕底部安全线，你的航程就宣告结束。不要长时间只关注一侧，要兼顾全局高度。
 
-*   **Aim:** Move your mouse to aim the cannon. A helpful guideline will show you where your bubble will go.
-*   **Shoot:** Click the left mouse button to fire the bubble.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **瞄准：** 移动鼠标调整大炮朝向，屏幕上通常会出现弹道辅助线帮助判断落点。
+*   **发射：** 点击鼠标左键即可发射当前泡泡。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** To clear all the bubbles from the board and achieve the highest score possible.
+### 常见问题（FAQ）
 
-*   **Q: How do I get the highest score?**
-     *   **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
+*   **问：游戏的通关目标是什么？**
+    *   **答：** 目标是尽可能清空屏幕上的所有泡泡，并在此过程中刷出更高的得分与连锁消除。
 
-*   **Q: What if I can't make a match?**
-     *   **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
+*   **问：如何拿到更高的分数？**
+    *   **答：** 关键在于一次性让大量泡泡掉落——也就是打掉连接点制造“雪崩”。消除和坠落的泡泡越多，所获得的连锁加成就越高。
 
+*   **问：如果当前泡泡颜色用不上怎么办？**
+    *   **答：** 可以把这颗泡泡放到不碍事的位置，比如边角处，或者用来为下一颗更重要的泡泡“垫位”，避免堵住潜在的大消除路线。

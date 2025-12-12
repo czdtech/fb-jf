@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: sprunkgerny
-title: '[KO] Sprunkgerny - Play Sprunkgerny Online'
+title: 'Sprunkgerny 스프렁거니'
 description: >-
-  [KO] If you are looking for a unique musical experience, then Sprunkgerny is
-  definitely not to be missed! It breaks the shackles of traditional rhythm
-  games, encourages you to embrace imperfection and randomness, and allows you
-  to unleash your musical inspiration in exploration and fun.
+  Sprunkgerny는 기존 리듬 게임의 틀을 깨고, 실험적인 사운드와 기묘한 비주얼로
+  독특한 음악을 만들어 볼 수 있는 창의적인 음악 게임입니다. 규칙에 갇히지 않고
+  즉흥성과 우연성을 즐기며 새로운 영감을 얻을 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
 thumbnail: /Sprunkgerny.png
 tags:
@@ -17,28 +16,48 @@ score: 4.9/5  (724 votes)
 
 
 
-### Introducing to Sprunkgerny
+### Sprunkgerny 소개
 
-Tired of the same old regular rhythm games? Want something to subvert your worldview? Sprunkgerny can definitely satisfy you! This creatively explosive game allows you to create your own brainwashing songs in a quirky and surreal world using all sorts of bizarre characters!
-
----
-
-### What Exactly is Sprunkgerny?
-
-Simply put, Sprunkgerny is a crazy cousin of Sprunki. It abandoned Incredibox's refinement and professionalism, embracing experimentation, creativity, and nonsensicalness. Here, harmony is no longer king, chaos and humor are the truth!
-
-### What Makes Sprunkgerny Different?
-
-- **Surreal Themes and Characters:** Get ready to enter a dreamlike other dimension? There are all kinds of bizarre characters here, who will use exaggerated and comical movements to turn your music into a surreal visual feast!
-- **Mind-Blowing Sound Library:** Putting aside traditional instruments, Sprunkgerny offers a variety of unusual sounds, such as quirky instruments, experimental beats, and humorous vocal effects that make you laugh.
-- **Interactive Visual Effects:** As your music progresses, the background will also change dynamically, with distorted landscapes and abstract elements, everything is perfectly synchronized with your rhythm!
-- **Hidden Easter Eggs and Stories:** Try different sound combinations to unlock hidden scenes and mini-stories. Every note can be a secret, waiting for you to discover!
-
+매번 비슷한 리듬 게임에 지쳤나요? 세계관을 완전히 뒤집어 버릴 만한 무언가를
+찾고 있다면 Sprunkgerny가 제격입니다. 이 게임에서는 온갖 기묘한 캐릭터들을
+조합해, 현실감각이 흔들릴 정도로 묘한 브레인워시 송을 직접 만들어 볼 수
+있습니다.
 
 ---
 
-### Why Play Sprunkgerny?
+### Sprunkgerny란 무엇인가요?
 
-If you are looking for a unique musical experience, then Sprunkgerny is definitely not to be missed! It breaks the shackles of traditional rhythm games, encourages you to embrace imperfection and randomness, and allows you to unleash your musical inspiration in exploration and fun.Whether you are a rhythm game veteran or a newbie to music creation, you can find your own happiness in the world of Sprunkgerny!
+간단히 말해 Sprunkgerny는 Sprunki의 미친 사촌 같은 존재입니다. 깔끔하고
+정제된 Incredibox 스타일 대신, 실험성과 창의성, 그리고 의미 없는 혼돈을
+기꺼이 받아들인 작품이죠. 여기서는 완벽한 화음보다 혼란스러운 조합과
+황당한 유머가 더 중요한 법칙입니다.
 
-Sprunkgerny is like a quirky music laboratory, it encourages you to break the rules, try everything, embrace chaos, and create unique musical works. Ready for this mind-blowing audio-visual feast? Come to the world of Sprunkgerny and let your rhythm go completely crazy!
+### Sprunkgerny만의 특징
+
+- **초현실적인 테마와 캐릭터:** 꿈속의 다른 차원에 떨어진 듯한 연출과 함께,
+  온갖 괴상한 캐릭터들이 과장된 몸짓으로 음악에 맞춰 춤추며 기묘한
+  퍼포먼스를 펼칩니다.
+- **파격적인 사운드 라이브러리:** 전통 악기는 잠시 잊어도 좋습니다. 괴이한
+  악기, 실험적인 비트, 웃음을 부르는 음성 효과 등, 상식을 깨는 소리들이
+  준비되어 있습니다.
+- **인터랙티브 비주얼:** 음악 진행에 따라 배경이 실시간으로 변하며, 왜곡된
+  풍경과 추상적인 요소들이 리듬에 맞춰 요동칩니다. 소리와 화면이 하나로
+  어우러진 초현실적인 쇼를 즐길 수 있습니다.
+- **숨겨진 이스터에그와 작은 이야기들:** 특정 사운드 조합을 시도하면 숨겨진
+  장면이나 짧은 스토리가 열리기도 합니다. 한 음, 한 비트가 비밀을 품고 있는
+  셈입니다.
+
+---
+
+### 왜 Sprunkgerny를 플레이해야 할까요?
+
+색다른 음악 경험을 찾고 있다면 Sprunkgerny는 절대 놓치기 아까운 게임입니다.
+기존 리듬 게임이 요구하던 정확한 타이밍과 정답 패턴에서 벗어나, 불완전함과
+우연성을 기꺼이 받아들이도록 유도합니다. 탐색과 실험을 통해 자연스럽게
+영감이 샘솟는 음악 실험실 같은 공간이죠.
+
+리듬 게임 베테랑이든, 이제 막 음악 만들기에 관심을 갖기 시작한 초보자든,
+Sprunkgerny 세계에서는 누구나 자기만의 방식으로 즐거움을 찾을 수 있습니다.
+규칙을 깨고, 마음껏 시도하고, 혼돈을 끌어안으며 유일무이한 트랙을 만들 준비가
+되었나요? 지금 스프렁거니의 기묘한 세계로 들어가, 완전히 미쳐 버린 리듬을
+마음껏 풀어 보세요!

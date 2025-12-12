@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-geek-dance-simulator
-title: '[KO] Incredibox Geek Dance Simulator'
+title: Incredibox Geek Dance Simulator 긱 댄스 시뮬레이터
 description: >-
-  [KO] Explore 'Incredibox Geek Dance Simulator,' the fan-made mod celebrating
-  nerd culture with a grid-based interface. This guide details its 8-bit
-  chiptune sound palette and gameplay for creating retro video game loops.
+  긱·너드 문화를 기념하는 팬메이드 모드 'Incredibox Geek Dance Simulator' 가이드입니다. 8비트 칩튠 사운드와
+  그리드 기반 인터페이스로 레트로 게임 루프를 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/904948672/embed'
 thumbnail: /new-images/incredibox-geek-dance-simulator.png
 tags:
@@ -19,53 +18,79 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox Geek Dance Simulator Game Introduction**
+*Incredibox Geek Dance Simulator*는 Incredibox 팬메이드 모드 중
+Simulator 라인업에 속하는 작품으로, **긱·너드 문화**를 테마로 삼고
+있습니다. 복고 게임, 초기 컴퓨터, 8비트 사운드를 떠올리게 하는 그래픽과
+사운드가 특징입니다.
 
-*Incredibox Geek Dance Simulator* is a fan-made game that is part of the popular "Simulator" series of Incredibox mods. As a tribute to **"geek" and "nerd" culture**, its theme is heavily inspired by retro video games, early computing, and the iconic sounds of the 8-bit era.
+공식 Incredibox가 캐릭터에게 아이콘을 입히는 방식이라면, 이 모드는
+20개의 **픽셀 스타일 사운드 아이콘 그리드**를 클릭해 곡을 만드는 구조를
+사용합니다. 목표는 각 아이콘을 조합해 **레트로 게임 BGM 같은 칩튠
+루프**를 만드는 것입니다. 상단의 `LOOP` 게이지를 채우면 숨겨진
+보너스 연출도 감상할 수 있습니다.
 
-The gameplay is fundamentally different from the official Incredibox series. It utilizes the signature **grid-based interface** of the Simulator mods, where players are presented with a grid of 20 pixelated sound icons. The objective is to create an authentic chiptune track by clicking these icons to activate or deactivate their corresponding sounds.
+### **게임 플레이 전략 & 팁**
 
-As players layer more sounds and experiment with combinations, a progress bar at the top of the screen (labeled "LOOP") fills up, guiding them toward unlocking the mod's secret audio-visual bonuses. The experience is a direct, hands-on approach to composing retro game music.
+1. **칩튠 그리드 이해하기**  
+   20개의 아이콘은 고전 사운드 칩의 여러 채널을 표현하고 있습니다.  
+    - **드럼/퍼커션**: 디지털 킥, 노이즈 스네어, 단순한 하이햇 등
+     리듬을 담당하는 소리를 찾으세요.  
+    - **베이스**: 낮은 음역대에서 단순한 사각파·삼각파로 움직이는
+     베이스 라인이 포함됩니다.  
+    - **리드 멜로디(사각/톱니파)**: 칩튠의 핵심인 단선율 멜로디
+     채널로, 레트로 게임의 메인 테마를 떠올리게 하는 소리가 많습니다.  
+    - **효과/노이즈 채널**: 점프·피격 등 클래식 게임 효과음, 아르페지오,
+     노이즈를 활용한 특수 리듬 등이 들어 있습니다.
 
-### **Gameplay Strategy & Tips**
+2. **트래커처럼 레이어 쌓기**  
+   옛날 음악 툴을 사용한다고 생각해 보세요. 먼저 단순한 드럼 패턴을
+   만든 뒤, 그 위에 베이스를 얹어 리듬 섹션을 완성합니다. 마지막으로
+   1~2개의 리드 멜로디를 더해주면 전형적인 칩튠 구성이 됩니다.
 
-1.  **[KO]** **Understand the Chiptune Grid**: The 20 icons represent the core channels of a retro sound chip.
-    *   **[KO]** **Drums/Percussion**: Look for icons that provide the digital drum sounds—sharp kicks, noisy snares, and simple hi-hats. These form the rhythmic base.
-    *   **[KO]** **Bass**: These icons will provide the low-frequency melodic lines, often simple square or triangle waves.
-    *   **[KO]** **Lead Melodies (Square/Sawtooth Waves)**: These are the heart of chiptune. Expect to find catchy, monophonic synth leads that are characteristic of classic video game soundtracks.
-    *   **[KO]** **Effects/Noise Channel**: This section includes classic game sound effects, arpeggios, and the static-like sounds from the "noise channel," used for creating complex percussion or atmospheric effects.
+3. **LOOP 게이지 채우기**  
+   아이콘을 더 많이 활성화할수록 상단의 `LOOP` 게이지가 차오릅니다.
+   일부 조합은 게이지가 더 크게 오르기도 하므로, 여러 패턴을 시도하면서
+   잘 맞는 조합을 찾다 보면 자연스럽게 보너스도 해금할 수 있습니다.
 
-2.  **[KO]** **Build Your Layers Like a Tracker**: Think like an old-school composer. Start with a simple drum beat. Add a bassline that locks in with the kick drum. Then, weave one or two lead melodies on top. The magic of chiptune comes from the interplay of these simple layers.
+4. **온·오프로 다이내믹 만들기**  
+   단순히 모든 아이콘을 켜두기보다는, 클릭으로 일부를 껐다 켰다 하며
+   인트로 → 벌스 → 코러스 같은 간단한 곡 구성을 만들어 보세요.
+   예를 들어, 처음에는 드럼만, 이후 베이스를 추가하고, 마지막에
+   리드 멜로디를 더하면 짧지만 완성도 있는 곡처럼 들립니다.
 
-3.  **[KO]** **Fill the Loop Bar**: Your goal is to fill the "LOOP" progress bar by activating sounds. Experiment with different combinations, as some may contribute more to the progress bar than others, rewarding you for finding harmonious or intended combinations.
+### **조작 가이드**
 
-4.  **[KO]** **Create Dynamics by Toggling**: Use the click-on/click-off mechanic to your advantage. You can build up an intro with just a beat, bring in a melody for a "verse," and then add more layers for a "chorus," creating a full song structure within the loop.
+이 모드는 시뮬레이터 시리즈 특유의 클릭 기반 인터페이스를 사용합니다.
 
-### **Controls Guide**
+- **사운드 온/오프**: 그리드의 사운드 아이콘을 클릭하면 빛나면서
+  루프에 추가되고, 다시 클릭하면 꺼집니다.
+- **사운드 조합하기**: 여러 아이콘을 동시에 활성화해 레이어를
+  쌓으면서 자신만의 칩튠 트랙을 만들 수 있습니다.
+- **상단 컨트롤**:  
+    - **재생/일시정지 버튼**: 전체 루프를 켜거나 끕니다.  
+    - **녹음 버튼**: 현재 믹스를 녹음·저장합니다.  
+    - **리셋 버튼**: 활성화된 사운드를 모두 꺼서 처음 상태로 되돌립니다.
 
-This mod uses the simple, click-based interface of the Simulator series.
+### **자주 묻는 질문(FAQ)**
 
-*   **[KO]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will light up, adding its sound to the loop. Clicking it again will turn it off.
-*   **[KO]** **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
-*   **[KO]** **Main Controls (Top of Screen)**:
-    *   **[KO]** **Play/Pause Button**: Toggles the entire loop on or off.
-    *   **[KO]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[KO]** **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+**1. 이 게임은 공식 Incredibox인가요?**  
 
-### **Frequently Asked Questions (FAQ)**
+아니요. *Geek Dance Simulator*를 포함한 Simulator 시리즈는 모두
+팬이 만든 모드이며, 공식 개발사인 So Far So Good과는 관련이 없습니다.
 
-**1. Is this an official Incredibox game?**
+**2. 다른 Geek Dance 모드와 무엇이 다른가요?**  
 
-No. The "Simulator" series, including *Geek Dance Simulator*, are **fan-made mods** and are not affiliated with the official Incredibox creators, So Far So Good.
+커뮤니티에서는 비슷한 이름의 모드가 최소 두 개 존재합니다.  
+- **Geek Dance (드래그 앤 드롭)**: 캐릭터에게 아이콘을 입히는
+  일반적인 Incredibox 방식의 모드입니다.  
+- **Geek Dance Simulator (그리드 방식)**: 이 페이지에서 다루는
+  버전으로, 아이콘 그리드를 클릭해 루프를 만드는 시뮬레이터 형식입니다.
 
-**2. Why is this different from the other "Geek Dance" mod?**
+**3. 이 모드는 어디에서 플레이할 수 있나요?**  
 
-This is a crucial distinction. The Incredibox modding community has created at least two popular mods with this theme.
-*   **[KO]** **Geek Dance (Drag-and-Drop)**: Features characters on screen that you drag icons onto.
-*   **[KO]** **Geek Dance Simulator (Grid-Based)**: This version, which uses a grid of icons you click to activate, offering a different gameplay experience.
-
-**3. Where can I play this mod?**
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **playfiddlebops.com**, modding communities like **scratch**, or showcased on YouTube with links to play them in a web browser.
+공식 플랫폼에는 없으며, 보통 `playfiddlebops.com` 같은 모딩 사이트나
+Scratch 커뮤니티, 유튜브 소개 영상의 링크를 통해 웹 브라우저에서
+플레이할 수 있습니다.
 

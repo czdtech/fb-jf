@@ -1,13 +1,11 @@
 ---
 locale: zh
 urlstr: word-connect
-title: '[ZH TRANSLATION NEEDED] Word Connect'
+title: 'Word Connect：连线拼词挑战'
 description: >-
-  [ZH TRANSLATION NEEDED] Connect letters and expand your vocabulary in Word
-  Connect, an addictive word puzzle game! Swipe to form words from a circular
-  set of letters and fill in the crossword-style blanks. Discover bonus words,
-  use hints, and challenge yourself across thousands of levels in this relaxing
-  brain-teaser.
+  《Word Connect》是一款上瘾的英文拼词游戏。
+  从圆形字母盘中划线连出单词，填满上方填字格，顺便挖掘隐藏单词、赚取金币，
+  在轻松节奏中拓展词汇量。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/word-connect.jpg
 tags:
@@ -18,34 +16,52 @@ score: 3.9/5  (144 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Word Connect is a popular and relaxing word puzzle game that challenges players to form words by connecting letters. Typically, a set of letters is arranged in a circular pattern, and players swipe their finger (or mouse) across them to spell out words. The goal is to find all the hidden words that fit into a crossword-style grid above.
+《Word Connect》是一款节奏舒缓又很容易“越玩越上头”的英文单词拼写游戏。
+每一关都会给出一圈字母，你需要用手指或鼠标在这些字母之间连线，
+拼出真正存在的英文单词，并将它们填入上方类似填字游戏的网格中。
 
-### Gameplay Guide
+当所有目标单词都被找出后，本关即告通关。随着关卡推进，
+字母组合会越来越刁钻，隐藏词也会越来越多，非常考验你的词汇量和观察力。
 
-- **Forming Words:** Swipe your finger from one letter to the next in the circular arrangement to spell a word. Release to submit.
-- **Objective:** Fill in all the blank spaces in the crossword grid by finding the correct words.
-- **Bonus Words:** Find words that are not part of the main puzzle to earn extra coins.
-- **Shuffling:** Use the shuffle button to rearrange the letters, which can help you see new word combinations.
-- **Hints:** Use coins to get hints that reveal a letter in a word if you get stuck.
+### 游玩指南
 
-### Controls Guide
+- **拼单词（Forming Words）：**  
+  按顺序从一个字母滑到下一个字母，连成你想要拼出的单词，
+  松开手指或鼠标即可提交该单词。
 
-- **Swipe/Drag:** Use your finger (on mobile) or mouse (on PC) to drag across the letters to form words.
-- **Click:** Click on the shuffle or hint buttons.
+- **过关目标（Objective）：**  
+  通过不断找到正确单词，将上方填字格中的所有空格全部填满。
 
-### Frequently Asked Questions (FAQ)
+- **隐藏加分词（Bonus Words）：**  
+  有些你拼出的单词虽然不在主关卡答案中，但会被认定为“隐藏单词”，
+  用来额外奖励金币或提示点数。
 
-[ZH TRANSLATION NEEDED] **How do I earn coins?**
+- **打乱字母（Shuffling）：**  
+  看久了容易“眼瞎”？点击打乱按钮将字母重新排布，
+  换个视觉角度，往往能立刻发现新单词。
 
-[ZH TRANSLATION NEEDED] You earn coins by solving puzzles, finding bonus words, and often through daily challenges or watching ads. Coins can be used to purchase hints.
+- **提示系统（Hints）：**  
+  当你完全卡住时，可以使用金币购买提示，
+  例如揭示某个单词中的一个字母，帮助你重新找到突破口。
 
-[ZH TRANSLATION NEEDED] **Is there a time limit?**
+### 操作指南
 
-[ZH TRANSLATION NEEDED] Most versions of Word Connect do not have a time limit, allowing players to solve puzzles at their own pace.
+- **滑动 / 拖拽：** 在手机上用手指，或在电脑上用鼠标按住并拖动，
+  按顺序划过组成单词的字母。
+- **点击按钮：** 使用界面上的打乱（Shuffle）和提示（Hint）按钮，辅助解题。
 
-[ZH TRANSLATION NEEDED] **What makes a word valid?**
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] Words must be at least three letters long and must be valid English words found in the game's dictionary.
+**问：如何获得金币？**  
+**答：** 完成关卡、找出隐藏单词、参与每日挑战或观看广告都可以获得金币。
+金币主要用于购买提示，在高难度关卡中非常有用。
 
+**问：游戏有时间限制吗？**  
+**答：** 大多数版本没有时间限制，你可以按照自己的节奏慢慢思考，
+非常适合用来放松或当作英语词汇小练习。
+
+**问：什么样的单词才算有效？**  
+**答：** 通常要求至少 3 个字母，并且必须是收录在游戏内置词典中的合法英文单词。
+俚语、缩写或专有名词一般不会被计入。

@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: ludo-legend
-title: '[ZH TRANSLATION NEEDED] Ludo Legend'
-description: >-
-  [ZH TRANSLATION NEEDED] Become a Ludo Legend in this classic board game. Roll
-  the dice, move your tokens, and race to the center of the board before your
-  opponents.
+title: "《Ludo Legend》飞行棋传奇"
+description: "在《Ludo Legend》中体验最经典的飞行棋竞速：掷骰前进棋子，与对手争先冲向终点，成为棋盘上的真正传奇。"
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/ludo-legend.png
 tags:
@@ -18,30 +15,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Ludo Legend is a fantastic digital version of the beloved classic board game, Ludo. The game is a race to the finish! Each player has four tokens and the goal is to get all of them from the starting yard, around the entire board, and into the home column. Play against computer opponents, roll the dice, and use strategy to capture your opponents' tokens and send them back to the start. Become a Ludo Legend by being the first to get all your tokens home!
+《Ludo Legend》是经典飞行棋的数字化版本。每位玩家拥有 4 枚棋子，目标是把它们从起始基地依次送上跑道，绕棋盘一周后进入终点通道并最终抵达终点三角区。你可以与电脑对手对战，通过掷骰决定步数，用策略“撞飞”对手棋子，把它们送回基地重来，率先将自己 4 枚棋子全部送回家的玩家获胜。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Getting Out of the Yard:** You must roll a six to move a token from your starting yard onto the game board. Prioritize getting at least one token into play as soon as possible.
-2.  [ZH TRANSLATION NEEDED] **Strategic Movement:** Once you have tokens on the board, you can choose which one to move based on your dice roll. It's often wise to have multiple tokens in play to give you more options.
-3.  [ZH TRANSLATION NEEDED] **Capturing Opponents:** If you land on a square occupied by a single opponent's token, you capture it and send it back to their yard. This is a key way to set back your competition.
-4.  [ZH TRANSLATION NEEDED] **Safety in Numbers:** Landing two of your own tokens on the same space creates a block. Opponents cannot pass a block, making it a powerful defensive strategy.
-5.  [ZH TRANSLATION NEEDED] **The Home Stretch:** To win, you must move all four of your tokens into your colored home column and then into the final home triangle. You need an exact dice roll to move a token into the home triangle.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **先出家门**：你必须掷出 6 点才能把棋子从基地拉到起始格，因此开局优先争取尽快投出 6 点，让至少一枚棋子进入跑道。  
+2.  **多子并行更灵活**：当棋盘上有多枚己方棋子时，你可以根据骰点灵活选择移动哪一枚，一般来说同时推进多枚棋子比只推一枚风险更低。  
+3.  **抓住机会“吃子”**：走到只有一枚对手棋子占据的格子时，可以将其撞回基地，这是拉开差距、干扰对手节奏的关键手段。  
+4.  **双子叠加成“路障”**：当两枚自家棋子停在同一格时，会形成阻挡，对手无法通过该位置，这是非常强力的防守手段。  
+5.  **终点冲刺需精确骰点**：要将棋子推入最终的终点三角格，必须掷出刚好合适的点数。如果点数超出目标格，通常无法移动该棋子，需要合理规划每一步。  
 
-*   **Roll Dice:** Click on the dice to roll it.
-*   **Move Token:** After rolling, the game will highlight your possible moves. Click on the token you wish to move.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 点击屏幕上的骰子按钮进行投掷；  
+- 掷出点数后，系统会高亮本回合可移动的棋子，点击想要移动的那一枚即可完成行动。  
 
-*   **Q: What is the objective of Ludo?**
-     *   **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.
+### 常见问题（FAQ）
 
-*   **Q: What happens when I roll a six?**
-     *   **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
+*   **Q: Ludo 的胜利条件是什么？**  
+    *   **A:** 最先将自己 4 枚棋子全部从基地送出、绕场并成功进入终点三角区的玩家即获胜。  
 
-*   **Q: Can I pass my own tokens?**
-     *   **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
+*   **Q: 投出 6 点有什么特殊效果？**  
+    *   **A:** 通常可以选择从基地推出一枚新棋子进入跑道，并且还会获得一次额外投掷机会，是节奏非常关键的骰点。  
 
+*   **Q: 自己的棋子之间可以互相越过吗？**  
+    *   **A:** 可以，你可以从自家棋子所在格子跨过去；但当同一格中叠放两枚自家棋子形成“路障”时，自己也无法将第三枚棋子进驻该格。

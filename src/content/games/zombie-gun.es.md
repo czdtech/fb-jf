@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: zombie-gun
-title: '[ES] Zombie Gun'
+title: "Zombie Gun - Disparos de rebote contra zombis"
 description: >-
-  [ES] Zombie Gun is a physics shooter — ricochet bullets, trigger barrels, and
-  clear rooms with clever angles and limited ammo.
-iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
-thumbnail: /new-images/zombie-gun.png
+  Zombie Gun es un shooter de físicas: hace rebotar balas en las paredes,
+  detona barriles y limpia habitaciones usando ángulos inteligentes y munición
+  limitada.
+iframeSrc: "https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/"
+thumbnail: "/new-images/zombie-gun.png"
 tags:
   - shooting
   - puzzle
@@ -15,31 +16,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
-
 ### Detailed Game Introduction
 
-Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive barrels, and collapse props to eliminate zombies with few shots. Later rooms add armored foes that require environmental kills.
+Zombie Gun se centra en la puntería con rebotes: dispara contra paredes para cambiar la trayectoria de las balas, golpea barriles explosivos y derriba estructuras para eliminar zombis con el menor número posible de disparos. En las salas avanzadas aparecen enemigos acorazados que sólo pueden caer si usas el entorno a tu favor.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** Bank shots: Use walls to hit tucked targets.
-2.  **[ES]** Red barrels: Chain explosions to clear clusters.
-3.  **[ES]** Prop falls: Shoot supports to drop objects on enemies.
-4.  **[ES]** Ammo discipline: Plan routes before firing.
-5.  **[ES]** Armor rule: Use environment against armored zombies.
+1.  **Tiros de banda:** usa las paredes para alcanzar objetivos escondidos en esquinas o tras coberturas.
+2.  **Barriles rojos:** encadena explosiones de barriles para limpiar grupos enteros de zombis.
+3.  **Aplasta con objetos:** dispara a soportes y vigas para que caigan sobre los enemigos.
+4.  **Cuida la munición:** planifica la ruta de rebotes y explosiones antes de efectuar el primer disparo.
+5.  **Regla para acorazados:** contra los zombis con armadura, confía en el entorno: barriles, trampas y derrumbes.
 
 ### Controls Guide
 
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
+- Apunta con el ratón y haz clic para disparar; reinicia la sala desde la interfaz. Algunas versiones limitan el número de balas disponible.
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I run out of ammo.
+- **Q: Siempre me quedo sin balas.**  
+  **A:** Traza mentalmente un recorrido de rebotes y explosiones antes de disparar por primera vez.
 
-A: Plan a bank/explosion route before the first shot.
-
-- Q: Armored ones don’t die.
-
-A: Drop props or explode barrels near them.
+- **Q: Los acorazados no mueren con disparos directos.**  
+  **A:** Usa barriles y objetos pesados del entorno para causarles daño indirecto.
 

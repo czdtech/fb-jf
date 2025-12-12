@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: sushi-grab
-title: '[ES] Sushi Grab'
+title: 'Sushi Grab'
 description: >-
-  [ES] Sushi Grab is a speedy arcade picker — snag the right sushi, avoid traps,
-  and hit score targets.
+  Sushi Grab es un arcade rápido de cinta transportadora: elige el sushi
+  correcto, esquiva trampas y alcanza la puntuación objetivo.
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/sushi-grab.png
 tags:
@@ -15,28 +15,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Sushi Grab es un juego de reacción rápida ambientado en una cinta de sushi. Debes
+coger las piezas que te piden, evitar platos equivocados o con penalización y
+encadenar rachas para alcanzar la puntuación objetivo antes de que se acabe el
+tiempo.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Sushi Grab is a fast‑paced selection game themed around conveyor‑belt sushi. Pick requested pieces, avoid wrong items or hazards, and chain streaks to reach score goals under a timer.
+1.  **Lee bien los pedidos:** céntrate en el sushi que te piden en ese momento;
+    no cojas extras porque sí.
+2.  **Visión periférica:** observa la cinta con algo de antelación para saber qué
+    platos se acercan y prepararte.
+3.  **Encadena con seguridad:** las rachas aumentan la puntuación; prioriza la
+    precisión para no romperlas.
+4.  **Filtra trampas:** ignora platos señuelo o con penalización; suelen aparecer
+    cerca de piezas buenas para forzar errores.
+5.  **Juega seguro al final:** si el tiempo se agota, coge solo platos que
+    estés seguro de que son correctos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Read orders: Focus on the current request—don’t grab extras.
-2.  **[ES]** Peripheral vision: Track upcoming plates along the belt to prepare.
-3.  **[ES]** Chain safely: Streaks boost score; prioritize accuracy to keep them alive.
-4.  **[ES]** Filter traps: Ignore decoys or penalty plates; they often appear near good ones.
-5.  **[ES]** Time boxes: When the timer dips, take only guaranteed picks.
+- Seleccionar sushi: haz clic o toca sobre el plato correcto en la cinta.  
+- Pausa/reintento: botones de la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Pick: Click/tap the correct sushi on the belt.
-- Pause/Retry: Use UI buttons.
+- **P: ¿Los platos incorrectos penalizan?**  
+  **R:** normalmente sí, ya sea restando puntos o rompiendo la racha.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Puedo encadenar varios toques muy rápido?**  
+  **R:** la mayoría de versiones requieren clics individuales; lo ideal es
+  toques rápidos pero siempre precisos.
 
-- Do wrong picks penalize? Usually yes—score loss or streak breaks.
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
-- Fixed patterns? Belts often loop patterns—learn and exploit them.
-
+- **P: ¿La cinta sigue patrones fijos?**  
+  **R:** muchas veces los platos se repiten en bucle; si memorizas patrones,
+  podrás anticiparte mejor.

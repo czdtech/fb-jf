@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: superhot
-title: '[KO] Superhot'
+title: 'Superhot 슈퍼핫'
 description: >-
-  [KO] Superhot is an innovative first-person shooter where time moves only when
-  you move, creating a unique tactical puzzle experience that combines action
-  with strategic planning.
+  Superhot은 "내가 움직일 때만 시간이 흐르는" 독특한 규칙을 가진 1인칭 슈팅 게임입니다.
+  슬로 모션 속에서 한 발 한 발을 계산해, 액션과 퍼즐을 동시에 즐길 수 있습니다.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/superhot.jpg
 tags:
@@ -18,34 +17,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+"Superhot"은 플레이어가 움직이거나 시야를 돌릴 때만 시간이 흐르는 독특한 규칙을
+가지고 있는 1인칭 슈팅 게임입니다. 총알이 공중에 떠 있는 듯한 슬로 모션 상황에서,
+한 걸음, 한 발자국, 한 발의 사격까지 모두 신중하게 계획해야 합니다. 슈팅의 손맛과
+전략 퍼즐의 사고력이 결합된 형태라고 볼 수 있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Superhot" is an innovative first-person shooter where time moves only when you move, creating a unique tactical puzzle experience that combines action with strategic planning. Players need to precisely plan every move in a slow-motion world.
+1.  **시간 제어 이해하기**
+    가만히 서 있으면 시간이 거의 멈추고, 이동하거나 시야를 돌릴수록 시간이 정상
+    속도로 흐릅니다. 상황이 복잡해질수록 멈춰 서서 총알 궤적과 적 위치를 천천히
+    확인해 보세요.
+2.  **무기 확보 우선:**
+    적의 손에서 떨어진 총이나 근접 무기, 주변에 놓인 물건 등을 빨리 주워
+    무장하는 것이 중요합니다.
+3.  **총알 피하기:**
+    슬로 모션 덕분에 총알 궤적이 선명히 보입니다. 한 발 한 발의 궤적을 확인하며
+    옆으로 살짝 움직이거나 몸을 낮춰 피하세요.
+4.  **정확한 사격:**
+    머리나 상반신을 노리면 한 발에 적을 쓰러뜨릴 수 있습니다. 서두르지 말고
+    시간을 멈춰 조준을 정확히 맞춘 뒤 발사하세요.
+5.  **환경 활용:**
+    기둥, 벽, 유리 등 주변 사물을 엄폐물로 사용하거나, 던질 수 있는 물건을
+    사용해 적을 잠시 기절시키는 등 환경을 적극적으로 활용하면 유리합니다.
 
-### Gameplay Strategy
+### 조작 방법
 
-1.  **[KO]** **Time Control**: Time almost stops when standing still, returns to normal speed when moving.
-2.  **[KO]** **Weapon Acquisition**: Take weapons from enemies' hands or pick up items from the ground.
-3.  **[KO]** **Bullet Dodging**: Use slow-motion effects to observe and dodge incoming bullets.
-4.  **[KO]** **Precise Shooting**: Aim for enemies' heads or vital body parts for one-hit kills.
-5.  **[KO]** **Environmental Usage**: Use cover and environmental objects for protection.
+*   **이동:** `WASD` 키로 전후좌우 이동
+*   **시야 회전:** 마우스로 화면을 움직여 시야를 돌립니다.
+*   **사격:** 마우스 왼쪽 버튼 클릭
+*   **무기 줍기:** 무기나 물건 가까이 다가가면 자동으로 집거나, 안내에 따라
+    지정 키를 눌러 획득합니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Movement**: WASD keys control character movement.
-*   **[KO]** **View**: Mouse controls view rotation.
-*   **[KO]** **Shooting**: Left click to shoot.
-*   **[KO]** **Pickup**: Automatically pick up weapons or items when close.
+1.  **Q: 시간 시스템이 정확히 어떻게 작동하나요?**
+    **A:** 캐릭터가 움직이거나 시야를 회전할 때만 시간이 빠르게 흐르고,
+    완전히 멈추면 시간도 거의 멈춘 상태가 됩니다. 이를 이용해 상황을 분석하고
+    다음 행동을 계획할 수 있습니다.
 
-### Frequently Asked Questions
+2.  **Q: 무기는 어떻게 얻나요?**
+    **A:** 쓰러뜨린 적이 떨어뜨린 총이나 근접 무기를 줍거나, 스테이지 곳곳에
+    배치된 무기·물건을 주워 사용할 수 있습니다.
 
-1.  **[KO]** **Q: How does the time mechanism work?**
-**A**: When you stop moving and rotating view, time almost completely stops, giving you time to think strategically.
-2.  **[KO]** **Q: How do I get weapons?**
-**A**: Take them from defeated enemies or find available weapons in the scene.
-3.  **[KO]** **Q: How can I effectively avoid attacks?**
-**A**: Use the slow-motion time effect to observe bullet trajectories and move to dodge in time.
-4.  **[KO]** **Q: How many levels are in the game?**
-**A**: The prototype version usually contains several levels, each with different challenges and enemy configurations.
+3.  **Q: 총알을 효과적으로 피하는 요령이 있나요?**
+    **A:** 서두르지 말고 멈춰 서서 총알 궤적을 먼저 확인하세요. 이후 한두 걸음만
+    옆으로 움직여도 총알을 피할 수 있습니다. 구석으로 몰리기 전에 항상
+    탈출 경로를 염두에 두는 것이 좋습니다.
+
+4.  **Q: 스테이지는 얼마나 있나요?**
+    **A:** 프로토타입 버전 기준으로는 여러 개의 짧은 스테이지가 준비되어 있으며,
+    각 스테이지마다 적 배치와 난이도가 달라 다른 공략이 필요합니다.

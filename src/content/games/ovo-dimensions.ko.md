@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: ovo-dimensions
-title: '[KO] OvO Dimensions'
+title: "OvO Dimensions 오보 디멘션즈"
 description: >-
-  [KO] OvO Dimensions is a challenging 2D platformer that extends the OvO series
-  with new mechanics and obstacles, requiring players to master precise jumps,
-  wall slides, and momentum control to navigate complex levels and achieve fast
-  clear times.
+  하드코어 2D 플랫폼 시리즈 OvO의 확장판 'OvO Dimensions'
+  가이드입니다. 정교한 점프·벽 미끄러지기·관성 컨트롤을 익혀
+  복잡한 스테이지를 빠르게 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/ovo-dimensions.jpg
@@ -20,34 +19,64 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*OvO Dimensions*는 고난도 2D 플랫폼 게임 OvO 시리즈를
+확장한 작품으로, 새로운 기믹과 장애물을 대거 추가해
+더 복잡한 레벨 디자인과 속도감을 제공합니다.
 
-### Game Introduction
+플레이어는 정교한 점프, 벽 미끄러지기, 관성 활용 등을
+마스터해 좁은 틈과 함정 사이를 빠르게 통과해야 하며,
+가능한 한 빠른 클리어 타임을 노리는 스피드런 플레이가
+중심이 됩니다.
 
-"OvO Dimensions" is an extension of the "OvO" series, a highly challenging 2D platformer. It introduces new mechanics and obstacles, requiring players to master precise jumps, wall slides, and momentum control to navigate complex levels and achieve the fastest clear times. The game maintains the series' high difficulty while offering richer level design and visual experiences.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **새 기믹부터 익히기**  
+   단계마다 새 점프/슬라이드/대시 등 조작이 등장할 수 있으니,
+   안전한 구역에서 충분히 연습해 손에 익혀 두는 것이 좋습니다.
 
-1.  **[KO]** **Familiarize with New Mechanics**: Understand and adapt to the new jumping, sliding, or interaction mechanics introduced in the game.
-2.  **[KO]** **Precise Control**: Every jump and action demands extreme precision; a slight misstep can lead to failure. Practice frequently to improve operational accuracy.
-3.  **[KO]** **Utilize Momentum**: When moving and jumping quickly, cleverly using the character's momentum can help you reach further platforms or pass through narrow gaps.
-4.  **[KO]** **Memorize Level Layouts**: Through multiple attempts, familiarize yourself with the layout of each level and the characteristics of obstacles to plan the optimal route.
-5.  **[KO]** **Challenge Speed**: After mastering the basic methods of completing levels, try to optimize your operations to achieve faster clear times.
+2. **정밀한 컨트롤**  
+   작은 실수 하나가 곧바로 실패로 이어지는 게임이므로,
+   키 입력 시간을 미세하게 조절하는 연습이 필요합니다.
 
-### How to Play
+3. **관성 활용**  
+   빠르게 이동하면서 점프할 때 생기는 관성을 잘 활용하면,
+   단순 점프로는 닿지 않는 플랫폼이나 좁은 틈도 통과할 수 있습니다.
 
-*   **[KO]** **Move**: Use left/right arrow keys or A/D keys to control horizontal character movement.
-*   **[KO]** **Jump**: Use the up arrow key or W key to jump; some levels may support double or multiple jumps.
-*   **[KO]** **Slide/Crouch**: Use the down arrow key or S key to slide or crouch, passing through low passages or dodging obstacles.
-*   **[KO]** **Wall Jump**: When the character touches a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
+4. **맵 구조 암기**  
+   여러 번 시도하면서 장애물 위치와 이동 패턴을 외워,
+   최적 루트를 머릿속에 그려 보세요.
 
-### Frequently Asked Questions
+5. **타임 어택 도전**  
+   기본 클리어에 익숙해졌다면, 불필요한 정지를 줄이고
+   관성을 적극 활용해 기록 단축에 도전해 보세요.
 
-1.  **[KO]** **Q: What are the differences between "OvO Dimensions" and "OvO Game"?**
-**A**: "OvO Dimensions" is a sequel in the series, typically introducing new level designs, game mechanics, and more challenging obstacles, while also potentially improving visual effects.
-2.  **[KO]** **Q: Is the game's goal to clear levels quickly or collect items?**
-**A**: The core objective of the game is usually to complete levels as fast as possible, challenging the quickest times. Some levels might also include optional collectibles.
-3.  **[KO]** **Q: How do I handle high-difficulty levels?**
-**A**: High-difficulty levels require more practice and patience. Try breaking down levels into smaller parts to practice, and watch playthrough videos from other players for inspiration.
-4.  **[KO]** **Q: Does the game have a community or leaderboards?**
-**A**: Many high-difficulty platformers have active player communities and online leaderboards where players can share experiences and compete for rankings.
+### 조작 가이드
+
+- **이동**: 좌·우 방향키 또는 A/D 키로 이동합니다.  
+- **점프**: 위쪽 방향키 또는 W 키로 점프하며, 일부 스테이지는
+  더블 점프나 특수 점프를 지원할 수 있습니다.  
+- **슬라이드/앉기**: 아래 방향키 또는 S 키로 슬라이드하거나
+  몸을 낮춰 좁은 통로를 통과합니다.  
+- **벽 점프**: 벽에 닿은 상태에서 점프 키를 누르면 벽 점프가
+  가능하며, 연속 사용으로 위로 올라갈 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 기존 'OvO Game'과 무엇이 다른가요?**  
+  **A:** 새로운 스테이지 구성과 기믹, 더 높은 난이도의
+  장애물 패턴이 추가된 후속/확장판에 가깝습니다.
+
+- **Q: 목표가 기록 단축인지, 수집 요소인지 궁금해요.**  
+  **A:** 기본 목표는 가능한 한 빨리 스테이지를 클리어하는
+  것이며, 일부 레벨에는 선택적인 수집 요소가 있을 수 있습니다.
+
+- **Q: 너무 어려운 레벨은 어떻게 공략하나요?**  
+  **A:** 레벨을 작은 구간으로 나눠 문제 구간만 반복 연습하고,
+  다른 플레이어의 공략 영상에서 루트를 참고하는 것도 도움이 됩니다.
+
+- **Q: 리더보드나 커뮤니티가 있나요?**  
+  **A:** 많은 하드코어 플랫폼 게임이 그렇듯, OvO 시리즈도
+  스피드런 기록을 공유하는 커뮤니티와 온라인 랭킹이 활발한 편입니다.
+

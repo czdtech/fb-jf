@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: the-sea-rush
-title: '[ES] The Sea Rush'
+title: The Sea Rush - Aventura de puzles bajo el mar
 description: >-
-  [ES] Dive into The Sea Rush, an exciting underwater adventure. Collect
-  treasures and avoid dangers from the deep.
+  Sumérgete en The Sea Rush, una aventura submarina llena de combinaciones.
+  Alinea criaturas marinas, encadena explosiones y recoge tesoros mientras
+  esquivas los peligros de las profundidades.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/the-sea-rush.png
 tags:
@@ -14,26 +15,25 @@ score: 4.1/5 (1234 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+The Sea Rush es un juego tipo match‑3 en el que te embarcas en una aventura bajo el mar. Tu objetivo es alinear tres o más criaturas marinas iguales en fila o columna intercambiando piezas adyacentes para despejar el tablero y sumar puntos.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+Usa clics de ratón o deslizamientos en pantalla táctil para intercambiar dos animales marinos contiguos. Cuando consigues grupos de tres o más iguales, desaparecen y dejan espacio para nuevas piezas. Eliminar varias combinaciones a la vez otorga muchos más puntos. A medida que subes de nivel, los objetivos y las restricciones se vuelven más exigentes, así que conviene pensar cada movimiento con antelación. Intenta crear alineaciones de más de tres piezas y combos en cadena para multiplicar tu puntuación y ten siempre presente los límites de tiempo o movimientos.
 
-The Sea Rush is a match-3 puzzle game where players embark on an underwater adventure. The objective is to align three or more similar sea animals in a row or column by swapping adjacent animals.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+*   **Ratón:** haz clic sobre dos criaturas adyacentes para intercambiarlas.
+*   **Pantalla táctil:** desliza el dedo para intercambiar dos piezas vecinas.
 
-Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **P: ¿Cuál es el objetivo principal del juego?**  
+    *   **R:** Alinear tres o más criaturas marinas iguales para ganar puntos y avanzar al siguiente nivel o cumplir el objetivo de la fase.
 
-*   **[ES]** **Mouse:** Click to swap adjacent sea animals.
-*   **[ES]** **Touchscreen:** Swipe to swap adjacent sea animals.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-*   **[ES]** **Q: How do I get more points?**
-    *   **[ES]** **A:** Clearing more than three animals at once or creating combos will award you with more points.
-
+*   **P: ¿Cómo obtengo más puntos?**  
+    *   **R:** Crear alineaciones de cuatro o cinco piezas, formar combinaciones
+        especiales y encadenar varias reacciones en una sola jugada te dará muchos
+        más puntos que una simple línea de tres.

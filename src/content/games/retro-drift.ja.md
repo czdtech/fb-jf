@@ -1,60 +1,39 @@
 ---
+title: "Retro Drift"
+description: "Retro Driftはレトロレーシングゲームです。ドリフトし、レースし、ピクセルアートトラックをマスターし、レトロチャンピオンになります。"
+iframeSrc: "https://retrodrift.h5games.usercontent.goog/v/2j9k5m8h7p3n8/"
+thumbnail: "/new-images/retro-drift.png"
+urlstr: "retro-drift"
+score: "4.2/5  (2089 votes)"
+tags: ["racing", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: retro-drift
-title: '[JA TRANSLATION NEEDED] Retro Drift'
-description: >-
-  [JA TRANSLATION NEEDED] Retro Drift is an old‑school top‑down drifter —
-  feather throttle, manage angles, and slide clean through corners.
-iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
-thumbnail: /new-images/retro-drift.jpg
-tags:
-  - car
-  - driving
-  - casual
-score: 3.7/5  (1338 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Retro Driftは、クラシックなレトロなピクセルアートスタイルでアーケードドリフトレーシングをもたらします。コーナーを通してドリフトし、ポイントを獲得し、トラックをマスターします。シンプルなコントロール、挑戦的なマスタリー。
 
-[JA TRANSLATION NEEDED] Retro Drift is a minimalist top‑down driving game focused on controlled slides. Courses favor flowing lines and corner linking—light throttle, counter‑steer timing, and exit speed determine lap times and score multipliers.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **ドリフトをマスター:** 完璧なドリフトがポイントを獲得します。
+2.  **勢いを維持:** スピードを保ちます。
+3.  **コーナーライン:" 最適なレーシングラインを学びます。
+4.  **タイミングが鍵:" いつドリフトを開始するかを知ります。
+5.  **練習:" 繰り返しでドリフトが改善します。
 
-[JA TRANSLATION NEEDED] 1.  Enter slow, exit fast: Sacrifice a bit of entry speed to maximize exit traction and next corner setup.
-[JA TRANSLATION NEEDED] 2.  Feather throttle: Short pulses keep traction while preserving the slide.
-[JA TRANSLATION NEEDED] 3.  One drift, many corners: Link consecutive corners by planning line and throttle in advance.
-[JA TRANSLATION NEEDED] 4.  Recover early: If the rear steps out too far, reduce throttle and steer into the slide before it spins.
-[JA TRANSLATION NEEDED] 5.  Learn layouts: Repetition builds muscle memory for braking points and apex timing.
+### 操作ガイド
 
-### Controls Guide
+- 矢印キー/WASD：加速、ブレーキ、ステア。
+- スペース/特定のキー：ドリフト。
+- ドリフトでポイントを獲得します。
 
-- Steer: A/D or Left/Right.
-- Throttle/Brake: W/S or Up/Down.
-- Handbrake (if available): Space for sharper rotation.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- I keep spinning—why? Too much throttle or late counter‑steer; soften inputs and react earlier.
-- Best way to link corners? Focus on exit of corner A to set a line into corner B; avoid full traction resets between them.
-
-### コントロールガイド
-- Are upgrades available? Some modes offer car unlocks; otherwise, skill and consistency drive improvement.
-
-
-
-
-
-
-
-
-- Are upgrades available? Some modes offer car unlocks; otherwise, skill and consistency drive improvement.
-- Best way to link corners? Focus on exit of corner A to set a line into corner B; avoid full traction resets between them.
-- I keep spinning—why? Too much throttle or late counter‑steer; soften inputs and react earlier.
-### よくある質問（FAQ）
-- Handbrake (if available): Space for sharper rotation.
-- Throttle/Brake: W/S or Up/Down.
-
-
-- Are upgrades available? Some modes offer car unlocks; otherwise, skill and consistency drive improvement.
+- **Q: これはリアルなドリフトシミュレーションですか？**  
+  A: いいえ、アーケードスタイルのドリフトです。
+- **Q: マルチプレイヤーですか？**  
+  A: ほとんどのバージョンはシングルプレイヤーです。
+- **Q: どれくらいのトラックがありますか？**  
+  A: バージョンによって異なります。多くは複数を持っています。

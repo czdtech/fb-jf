@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: murder
-title: '[KO] Murder'
+title: Murder 머더
 description: >-
-  [KO] Murder is a suspenseful social deduction game where one player secretly
-  acts as the murderer, aiming to eliminate others without being discovered,
-  while other players try to identify and stop them.
+  Murder는 플레이어 중 한 명이 몰래 살인범 역할을 맡고, 나머지 플레이어는 토론과 추리를 통해 범인을 찾아내야 하는 긴장감 넘치는 소셜
+  디덕션 게임입니다.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/murder.jpg
 tags:
@@ -18,40 +17,60 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*"Murder"*는 한 명의 숨은 살인범과 여러 명의 일반인이 한 판을 이루는 소셜 디덕션 게임입니다.
+살인범은 정체를 숨긴 채 다른 플레이어들을 하나씩 제거해야 하고, 시민들은 주변에서 일어나는
+행동을 관찰·토론하며 범인이 누군지 가려내야 합니다. 각 판마다 심리전과 눈치 싸움이 치열하게
+벌어지며, 결과를 예측하기 어려운 것이 특징입니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Murder" is a tense and exciting social deduction game. Among a group of players, one is secretly designated as the "murderer," whose goal is to secretly eliminate other players without being discovered. Other players, on the other hand, need to observe, deduce, and discuss to identify the murderer and stop them. The game is full of strategy and psychological warfare, with each game session full of uncertainty.
+1. **살인범 입장:**  
+    - **은밀하게 행동하기:** 사람들의 시선이 덜한 위치와 타이밍을 골라 조용히 플레이어를
+     제거해야 합니다.  
+    - **알리바이 만들기:** 다른 사람과 함께 움직이거나, 일부러 수상한 사람을 지목해 헷갈리게
+     만드는 등 혼란을 유도하세요.  
+    - **평정 유지:** 토론에서 지나치게 방어적이거나 공격적으로 보이면 의심을 사기 쉽습니다.
 
-### Gameplay Strategy
+2. **시민 입장:**  
+    - **행동 관찰:** 혼자 자주 떨어져 다니거나, 사망 지점 근처를 반복해서 서성이는 사람 등
+     수상한 행동을 하는 플레이어를 눈여겨보세요.  
+    - **단서 수집:** 게임 내 로그·장소·이벤트 등 제공되는 단서를 종합해, 가능한 용의자 범위를
+     줄여 나가야 합니다.  
+    - **논리적 추리:** 토론에서 나온 주장과 알리바이를 비교하며 모순점을 찾고, 다수의 의견을
+     설득력 있게 모아 투표를 진행하세요.
 
-1.  **[KO]** **For the Murderer**:
-    *   **[KO]** **Act in Secret**: Choose the right time and place to secretly eliminate targets.
-    *   **[KO]** **Create Alibis**: Interact with others or move around to create confusion.
-    *   **[KO]** **Avoid Exposure**: Stay calm and do not exhibit unusual behavior.
-2.  **[KO]** **For the Civilians**:
-    *   **[KO]** **Observe Behavior**: Pay attention to unusual actions from other players, such as acting alone or frequently approaching targets.
-    *   **[KO]** **Gather Clues**: Look for in-game hints or events that might point to the murderer.
-    *   **[KO]** **Reason Logically**: Through discussion and analysis, gradually narrow down the list of suspects.
-3.  **[KO]** **General Strategies**:
-    *   **[KO]** **Maintain Communication**: Civilians need to communicate effectively and share information.
-    *   **[KO]** **Utilize Environment**: Familiarity with the game map and mechanics can help the murderer hide better or civilians find clues faster.
+3. **공통 전략:**  
+    - **소통 유지:** 시민 쪽은 서로 정보를 공유해야 하고, 살인범은 이 소통 속에서 자연스럽게
+     섞여 들어가야 합니다.  
+    - **맵 이해도:** 맵 구조와 주요 동선을 잘 파악하면, 살인범은 은신과 기습에, 시민은
+     도주와 감시에 유리해집니다.
 
-### How to Play
+### 조작 방법
 
-*   **[KO]** **Movement**: Typically use keyboard arrow keys or WASD keys to control character movement.
-*   **[KO]** **Interaction**: When near objects or other players, there might be interaction prompts (e.g., pick up weapons, talk).
-*   **[KO]** **Murderer Abilities**: The murderer will have specific abilities to eliminate targets; the exact operation depends on the game version (e.g., clicking on a target or using a skill key).
-*   **[KO]** **Civilian Self-defense**: In some game versions, civilians can defend themselves or fight back under certain conditions.
+* **이동:** 키보드 방향키 또는 WASD로 캐릭터를 움직입니다.  
+* **상호작용:** 문 열기, 스위치 조작, 플레이어와의 상호작용 등은 근처에 다가갔을 때 표시되는
+  버튼이나 키로 수행합니다.  
+* **살인범 능력:** 버전마다 다르지만, 특정 키나 클릭으로 처치 스킬을 사용하는 식으로
+  동작합니다.  
+* **시민의 자기방어:** 일부 버전에서는 특정 조건에서만 방어 또는 카운터가 허용되기도 합니다.
 
-### Frequently Asked Questions
+### 자주 묻는 질문(FAQ)
 
-1.  **[KO]** **Q: How do I determine who the murderer is?**
-**A**: Players need to judge by observing unusual behavior, analyzing clues, listening to discussions, and combining their own deductions. There are no direct hints; it all relies on the players' intelligence.
-2.  **[KO]** **Q: How should the murderer hide their identity?**
-**A**: The murderer needs to avoid exposure in public, choose discreet times and locations to eliminate targets, and try to mimic the movement patterns of civilians.
-3.  **[KO]** **Q: How can civilians protect themselves in the game?**
-**A**: Civilians can improve their survival rate by sticking together, being aware of their surroundings, and sharing information promptly. Avoid acting alone, especially with suspects.
-4.  **[KO]** **Q: How many players are typically needed to start a game?**
-**A**: Such games usually require at least 4-6 players for a good experience, depending on the game version and rule settings.
+1. **Q: 살인범이 누구인지 어떻게 추리하나요?**  
+   **A:** 수상한 행동, 알리바이의 모순, 사건 발생 위치 등을 종합해 논리적으로 추리해야
+   합니다. 시스템에서 직접적인 정답 힌트를 주지 않는 경우가 많기 때문에, 플레이어의
+   눈치와 추리력이 핵심입니다.
+
+2. **Q: 살인범은 어떻게 정체를 숨기는 게 좋나요?**  
+   **A:** 사람 많은 곳에서 섣불리 행동하지 말고, 시민과 비슷한 동선과 말투를 유지하며
+   틈을 엿봐야 합니다. 필요하다면 다른 사람을 수상 인물로 몰아가는 것도 한 방법입니다.
+
+3. **Q: 시민은 어떻게 생존 확률을 높일 수 있나요?**  
+   **A:** 가능하면 여러 명이 함께 움직이고, 주변 상황을 항상 주시하며, 이상한 점을 발견하면
+   바로 공유하는 것이 좋습니다. 특히 의심되는 사람과 단둘이 남는 상황은 피하세요.
+
+4. **Q: 몇 명 정도가 모여야 가장 재미있나요?**  
+   **A:** 버전에 따라 다르지만, 보통 4~6명 이상일 때 역할 분배와 심리전이 충분해져 가장
+   재미있게 즐길 수 있습니다.

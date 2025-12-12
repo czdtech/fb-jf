@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: hexamind
-title: '[KO] HexaMind'
+title: "HexaMind 헥사마인드 논리 퍼즐"
 description: >-
-  [KO] HexaMind is a hex‑grid logic puzzler — place tiles, satisfy adjacency
-  rules, and manage parity across honeycomb layouts.
+  벌집 모양 육각 격자 위에서 인접 규칙을 만족시키도록 타일을 배치하는
+  논리 퍼즐 게임입니다. 색·숫자·기호 제약을 모두 만족시키며 전체 보드를
+  완성해 보세요.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/hexamind.png
 tags:
@@ -17,33 +18,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-HexaMind plays on a hexagonal grid with rules about what may touch: colors, numbers, or symbols must satisfy adjacency constraints (e.g., no equal neighbors, or sums along rays). The six‑direction geometry enables rich deductions through fan‑shaped lines and rings.
+`HexaMind`는 육각형 격자를 사용하는 논리 퍼즐로, 어떤 타일이 서로 맞닿을 수
+있는지에 대한 규칙을 따라야 합니다. 색, 숫자, 기호 등이 인접 칸과의 관계를
+제한하며(예: 같은 숫자는 붙을 수 없음, 특정 방향의 합이 일정해야 함 등),
+육각 격자의 여섯 방향을 활용해 부채꼴·링 형태로 추론을 쌓아 가는 것이
+특징입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** Constraint hotspots: Start at cells with the most neighbors or strictest rules.
-2.  **[KO]** Ring logic: Use ring sums or color counts around a center to bound candidates.
-3.  **[KO]** Ray scans: Scan along axial directions for parity/sequence constraints.
-4.  **[KO]** Contradiction seeds: Try a candidate on a tight cell and backtrack on conflict.
-5.  **[KO]** Pencil rigor: Maintain clean candidate notes to avoid circular mistakes.
+1. **제약이 많은 칸부터 시작**  
+   주변 이웃이 가장 많거나, 규칙이 가장 빡빡하게 적용되는 칸을 먼저 공략하면
+   후보가 크게 줄어들어 이후 풀이가 쉬워집니다.
 
-### Controls Guide
+2. **링(고리) 논리 활용**  
+   중심을 둘러싼 링 형태의 칸들을 합계나 색 개수 기준으로 제한하면, 각 칸에
+   들어갈 수 있는 후보를 빠르게 좁힐 수 있습니다.
 
-- Tap to place values/colors; toggle pencil marks; undo/redo.
+3. **레이(직선) 스캔**  
+   육각 격자의 축 방향으로 길게 뻗은 선을 따라가며, 짝수/홀수, 수열 규칙 등을
+   적용해 후보를 걸러내세요.
 
-### Frequently Asked Questions (FAQ)
+4. **가정과 모순을 활용한 풀이**  
+   제약이 심한 칸에 후보 하나를 가정으로 넣어 본 뒤, 모순이 생기면 해당 후보를
+   완전히 배제하는 방식으로 역추론할 수 있습니다.
 
-- Q: I’m stuck — where to look?
+5. **후보 메모를 깔끔하게 유지**  
+   연필표시(후보 메모)를 일관되게 관리하지 않으면 같은 실수를 반복하기 쉽습니다.
+   후보를 지웠다면 메모에서도 확실히 제거하는 습관을 들이세요.
 
-A: Revisit high‑degree nodes and ring totals; combine ring and ray constraints.
+### 조작 방법
 
-- Q: Is guessing required?
+- 칸을 탭해 색/숫자/기호를 배치하고, 연필 아이콘으로 후보 메모를 토글할 수
+  있습니다.
+- 되돌리기/다시하기 기능으로 실수를 쉽게 수정할 수 있습니다.
 
-A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
+### 자주 묻는 질문(FAQ)
 
-- Q: How is it different from square‑grid puzzles?
+- Q: 막혔을 때는 어디부터 다시 봐야 하나요?  
+  A: 이웃 수가 많은 고도 노드와 링 합계 규칙을 다시 확인해 보세요. 링과
+  레이 조건을 동시에 적용하면 새로운 단서가 나오는 경우가 많습니다.
 
-A: Six neighbors create stronger ring/ray reasoning that square grids lack.
+- Q: 이 퍼즐은 반드시 논리로만 풀리나요, 추측이 필요한가요?  
+  A: 잘 설계된 세트는 논리만으로 풀이가 가능하지만, 일부 퍼즐은 얕은 가정을
+  했다가 모순이 나오면 되돌리는 방식의 “안전한 추측”이 필요할 수 있습니다.
 
+- Q: 일반적인 사각형 퍼즐과 뭐가 다른가요?  
+  A: 육각 격자는 이웃이 6개라 링과 레이로 묶인 제약이 더 강하게 작용해,
+  사각 격자에서는 볼 수 없던 형태의 추론이 가능하다는 점이 가장 큰 차이입니다.

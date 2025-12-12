@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: eggy-car
-title: '[ES] Eggy Car'
+title: "Eggy Car"
 description: >-
-  [ES] Eggy Car is a physics driver: carry a fragile egg on your car, climb and
-  descend hills, and don’t let it fall.
+  Eggy Car es un juego de conducción con físicas en el que llevas un huevo
+  frágil sobre el coche: sube y baja colinas sin que se caiga ni se rompa.
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/eggy-car.jpg
 tags:
@@ -15,30 +15,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Eggy Car te pide que equilibres un coche que transporta un huevo delicado a lo
+largo de un terreno lleno de colinas. Un bache brusco puede romper la cáscara;
+la clave está en un acelerador suave y en anticipar el relieve.
 
+### Cómo jugar
 
-### Overview
-Balance a car carrying a fragile egg across hilly terrain. Sudden bumps crack the egg; smooth throttle wins.
+- Reduce la velocidad en las bajadas y acelera con cuidado en las subidas para
+  evitar rebotes.
+- Recoge bidones de gasolina para alargar la carrera y monedas para posibles
+  mejoras (según el portal).
+- Las partidas largas se basan más en toques rítmicos de acelerador que en
+  mantenerlo pulsado.
 
-### How to Play
-- Keep speed low on downhill; accelerate gently uphill to avoid bouncing.
-- Grab fuel cans to extend runs; collect coins for vehicle upgrades (host dependent).
-- Long runs demand rhythmic throttle taps, not holds.
+### Controles
 
-### Controls
-- A/D or Arrows to drive/brake; R: restart.
+- A/D o flechas para avanzar/retroceder y modular la velocidad.
+- R: reiniciar la partida.
 
-### Tips
-- Treat crests like jumps—lift before the peak, reapply after landing.
-- If the egg wobbles, briefly brake to settle it.
-- Upgrades that improve suspension help the most early on.
+### Consejos
 
-### FAQ
-- Q: What ends a run?
-A: Cracks (egg breaks) or running out of fuel.
-- Q: Is there a finish line?
-A: It’s a distance/high‑score chase in most hosts.
-- Q: Best early strategy?
-A: Drive slow; protect the egg—speed comes with smoother lines.
+- Trata las crestas como pequeños saltos: levanta el pie antes del pico y vuelve
+  a acelerar tras el aterrizaje.
+- Si ves que el huevo empieza a bambolearse, frena un instante para que recobre
+  estabilidad.
+- Las mejoras de suspensión y control (cuando existan) son las que más se notan
+  al principio.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Qué puede terminar la carrera?**  
+  **R:** Romper el huevo por un golpe fuerte o quedarte sin combustible.
+
+- **P: ¿Hay línea de meta?**  
+  **R:** Normalmente es un juego de distancia y récord: lo importante es ver
+  hasta dónde llegas.
+
+- **P: ¿Cuál es la mejor estrategia al inicio?**  
+  **R:** Conduce despacio y prioriza proteger el huevo; la velocidad vendrá sola
+  cuando aprendas el ritmo de las colinas.

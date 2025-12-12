@@ -1,83 +1,49 @@
 ---
-locale: ja
+title: Merge Cakes
+description: Merge Cakesは甘いマージパズルです。ケーキをマージし、より大きなデザートを作成し、ベーカリー帝国を構築し、おいしいレベルを完了します。
+iframeSrc: 'https://64im4ubfqfqe8.h5games.usercontent.goog/v/5b1gg4a2h50o0/'
+thumbnail: /new-images/merge-cakes.png
 urlstr: merge-cakes
-title: '[JA TRANSLATION NEEDED] Merge Cakes'
-description: >-
-  [JA TRANSLATION NEEDED] Merge identical cakes to create new, more elaborate
-  desserts! Fill your display, complete orders, and build the sweetest bakery in
-  this delightful and relaxing merge puzzle game.
-iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
-thumbnail: /new-images/merge-cakes.jpg
+score: 4.1/5  (1876 votes)
 tags:
   - puzzle
   - casual
-  - clicker
-score: 4.4/5  (2350 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Merge Cakesは、ケーキとデザートのマージに関するものです。同じケーキをマージしてより大きく、より価値のあるデザートを作成します。レベル目標を完了し、新しいレシピをアンロックし、甘いベーカリー帝国を構築します。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **スマートにマージ:** 5つのチェーンマージは、3つのマージよりも良い報酬を与えます。
+2.  **目標に焦点を当てる:** 各レベルには、最高のケーキを作成するなどの特定の目標があります。
+3.  **ボードスペースを管理:** アイテムで混雑しないでください。定期的にマージします。
+4.  **レシピをアンロック:** より多くのオプションのために新しいケーキタイプを進めます。
+5.  **ブースターを使用:** 困難なレベルに固執します。
+
+### 操作ガイド
 
 
-### Detailed Game Introduction
+The game is played with simple drag-and-drop controls.
+- ケーキをドラッグ＆ドロップして移動およびマージします。
+- 同じケーキをタップして自動マージします（一部のバージョンで）。
+- ストアでブ��スターを購入します。
 
-[JA TRANSLATION NEEDED] Merge Cakes is a sweet and relaxing puzzle game where you combine identical cakes to create new and more magnificent desserts. You start with basic cupcakes and merge your way up to elaborate, multi-layered creations. The goal is to fulfill customer orders, earn coins, and discover every delicious cake in your recipe book. It's a simple, satisfying, and endlessly charming game.
+### よくある質問 (FAQ)
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  **The Merge Chain:** The core of the game is merging. Drag one cake and drop it onto an identical cake to create a new, higher-level cake. Two basic cupcakes might make a larger cupcake, which in turn can be merged to create a slice of cake, and so on.
-[JA TRANSLATION NEEDED] 2.  **Fulfill Orders:** At the top of the screen, you will see orders from customers. You must create the specific cakes they are asking for. Fulfilling an order is the primary way to earn coins.
-[JA TRANSLATION NEEDED] 3.  **Manage Your Board:** You only have a limited number of plates on your board. If it fills up, you won't be able to receive new cakes. Always try to make merges to keep space free.
-[JA TRANSLATION NEEDED] 4.  **Use Your Coins:** Spend the coins you earn to buy more cakes from the shop. This is much faster than waiting for the free delivery box and is essential for creating high-level cakes to fill difficult orders.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
-
-*   **Merge Cakes:** Click and drag one cake and drop it onto another identical cake to merge them.
-    - **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.（日本語訳が必要）
-    - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.（日本語訳が必要）
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.（日本語訳が必要）
-    - **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.（日本語訳が必要）
-    - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.（日本語訳が必要）
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.（日本語訳が必要）
-*   **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I get new cakes?**
-[JA TRANSLATION NEEDED]     *   **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.
-
-*   **Q: What is the main goal?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
-
-*   **Q: My board is full and I can't make any moves. What do I do?**
-
-
-
-
-
-
-
+- **Q: 5つのチェーンマージが常に良いですか？**  
+  A: はい、ボーナスアイテムを提供するため、可能な限り目指します。
+    - **Q: スペースが足りなくなった場合はどうすればよいですか？**  
+  A: より低いレベルのケーキをマージするか、不要なアイテムを販売します。
+- **Q: レベルをスキップできますか？**  
 
     - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
+
 - **Q: My board is full and I can't make any moves. What do I do?**
+
     - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
-- **Q: What is the main goal?**
-    - **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.
-- **Q: How do I get new cakes?**
-### よくある質問（FAQ）
-- **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
-
-
-
-
-
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
-- **Q: My board is full and I can't make any moves. What do I do?**
-    - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
-- **Q: What is the main goal?**
-    - **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.
-[JA TRANSLATION NEEDED]     *   **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
-
+  A: 通常いいえ。順番にすべてのレベルを完了する必要があります。

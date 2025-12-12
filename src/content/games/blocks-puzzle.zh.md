@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: blocks-puzzle
-title: '[ZH TRANSLATION NEEDED] Blocks Puzzle'
+title: Blocks Puzzle 经典方块拼图
 description: >-
-  [ZH TRANSLATION NEEDED] Blocks Puzzle is a classic and addictive block puzzle
-  game. Your goal is to fit blocks of different shapes into a 10x10 grid.
+  《Blocks Puzzle 经典方块拼图》是一款经典 10×10 方格方块游戏，将不同形状的方块拼进棋盘，凑满整行或整列
+  即可消除，在没有时间压力的前提下尽可能长久地坚持并刷新高分。
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/blocks-puzzle.jpg
 tags:
@@ -16,31 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Blocks Puzzle is a classic and engaging puzzle game that challenges your spatial reasoning. The objective is simple: fit variously shaped blocks onto a 10x10 grid. When you complete a full row or column, the line clears, freeing up space and earning you points. The game ends when you can no longer place any of the given blocks on the grid. With no time limit, you can think strategically to achieve the highest score.
+*Blocks Puzzle* 是一款非常经典、节奏轻松但极考验空间感的方块拼图游戏。你的目标很简单：将各种形状的方块摆放在 10×10 的棋盘上，只要某一整行或整列被方块完全填满，就会被消除并为你带来分数，同时释放新的空间。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Plan Ahead:** Look at the three blocks you are given. Before placing one, consider how the other two might fit and how your move will affect the board's future state.
-2.  [ZH TRANSLATION NEEDED] **Prioritize Clearing Lines:** Your main goal is to keep the board as clear as possible. Always look for opportunities to clear lines, even if it means sacrificing a seemingly good spot for a single block.
-3.  [ZH TRANSLATION NEEDED] **Create Combos:** Clearing multiple lines with a single block placement will grant you a combo bonus and a significantly higher score. Try to set up the board to enable these multi-line clears.
-4.  [ZH TRANSLATION NEEDED] **Don't Clog the Center:** It's tempting to fill the middle of the board first, but this can quickly lead to a clogged grid. Try to build from the corners and edges, keeping the center open for larger or more awkward pieces.
-5.  [ZH TRANSLATION NEEDED] **Manage Difficult Shapes:** Some pieces, like the 3x3 square or the long straight line, require a lot of space. Try to use them as soon as you get them or ensure you have a dedicated space ready for them. Leaving them for later can be risky.
+每一轮底部会给出 3 块新的方块，只要能把它们依次放入棋盘，游戏就会继续。当所有给出的方块都再也找不到合法位置时，本局就会结束。由于完全没有时间限制，你可以慢慢思考每一步的布局，以追求更高的总分。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-*   **Drag and Drop:** Use your mouse to click and drag a block from the selection area onto the grid.
-*   **Placement:** Release the mouse button to place the block in the desired position.
-*   **No Rotation:** In this version of the game, blocks cannot be rotated. You must use them in the orientation they are given.
+1.  **提前规划三块方块的整体落点**  
+    在放下第一块之前，先看清当前出现的三块方块。思考：如果先放这块，另外两块还能放在哪里？同一轮中三块能否全部找到合理位置，往往比眼前一块放得“舒服”更重要。
 
-### Frequently Asked Questions (FAQ)
+2.  **优先保证清行能力**  
+    首要任务是让棋盘保持干净、留有空间。看到有机会补齐一整行或一整列时，通常值得优先考虑，即便这意味着要放弃某个看似“完美贴合”的位置。
 
-*   **Q: Can I rotate the blocks?**
-     *   **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.
+3.  **刻意创造连消（Combo）机会**  
+    使用一块方块同时消除多行或多列，不仅得分更高，也能瞬间清出大面积空间。可以提前在几行上留出相同的缺口，让某块方块落下时一次性补全多行。
 
-*   **Q: How do I get a higher score?**
-     *   **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.
+4.  **避免堵死棋盘中央**  
+    很多人习惯从中间开始堆格子，但这样容易让大块无处安放。更稳妥的做法是从角落和边缘开始搭建，让棋盘中心保持相对开放，为 3×3、长条等大块预留落点。
 
-*   **Q: What happens when I run out of moves?**
-     *   **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.
+5.  **尽早处理“大块头”形状**  
+    像 3×3 正方形、长直条等都需要较大的连续空间。拿到这类形状时，要么尽快利用，要么刻意为它们预留专门区域。如果一直搁置，很容易在局面稍微拥挤时直接导致无处可放。
 
+### 操作指南
+
+-   **拖拽选择：** 使用鼠标按住底部区域的方块，将其拖到棋盘上。  
+-   **确认落点：** 拖到高亮区域后松开，即可将方块固定在该位置。  
+-   **无法旋转：** 本版本不支持旋转，你必须按照给定朝向使用每一个形状。
+
+### 常见问题解答（FAQ）
+
+-   **问：可以旋转方块吗？**  
+    -   **答：** 不可以。Blocks Puzzle 的经典规则之一就是“不旋转”，需要在固定朝向下完成所有布局。
+-   **问：怎么才能拿更高的分数？**  
+    -   **答：** 尽量创造多行连消来获取连击分，同时保持棋盘干净、避免出现难以利用的碎格。
+-   **问：没有位置可以放新方块时会发生什么？**  
+    -   **答：** 当当前三块方块中没有任何一块能够放入棋盘时，本局立即结束，并记录最终得分。

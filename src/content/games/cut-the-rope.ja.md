@@ -1,40 +1,50 @@
 ---
-locale: ja
-urlstr: cut-the-rope
-title: '[JA TRANSLATION NEEDED] Cut The Rope'
-description: >-
-  [JA TRANSLATION NEEDED] Cut The Rope is a physics puzzle: cut ropes, collect
-  stars, and feed Om Nom the candy without losing it.
+title: Cut The Rope カット・ザ・ロープ
+description: 「Cut The Rope」は世界的人気の物理パズル。ロープを切ってキャンディを操り、愛らしいモンスター「Om Nom（オム・ノム）」に食べさせてあげよう。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/cut-the-rope.jpg
+urlstr: cut-the-rope
+score: 3.9/5  (1483 votes)
 tags:
   - puzzle
   - physics
-score: 3.9/5  (1483 votes)
+developer: ZeptoLab
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Cut The Rope（カット・ザ・ロープ）*は、物理演算を利用したスマートなパズルゲームです。プレイヤーの役割は、ぶら下がっているキャンディのロープを適切なタイミングと順番で切り、緑色の愛らしいモンスター「Om Nom（オム・ノム）」の口へ届けることです。
+ステージが進むと、シャボン玉、エアクッション、スライダー、電気ビリビリなどのギミックが登場し、キャンディの軌道やタイミングを複雑にします。道中の星（スター）を3つ集めてクリアを目指しましょう。
+
+### 遊び方
+
+*   **ロープを切る:** マウス（または指）でスワイプしてロープを切ります。重力と振り子の原理を利用してキャンディを振ります。
+*   **星を集める:** キャンディを星に触れさせると獲得できます。3つ集めるのがパーフェクトクリアの条件です。
+*   **ギミック:** シャボン玉はキャンディを浮かせ、タップで割れます。エアクッションは風でキャンディを押します。
+
+### 操作ガイド
+
+*   **切る・操作:** スワイプ/クリック
+*   **その他:** リスタートや次のレベルへの移動は画面上のボタンで行います。
+
+### 攻略のヒント
+
+*   **軌道をイメージ:** ロープを切る前に、キャンディがどのように揺れ、落ちるかを頭の中でシミュレーションしましょう。
+*   **連続カット:** 複数のロープを素早く連続で切ることで、勢いを殺さずにキャンディを運べる場合があります。
+*   **バブルの活用:** シャボン玉に入ったキャンディは浮き上がります。Om Nomの真上に来たタイミングで割って落としましょう。
+*   **星の回収:** 全部の星を取るのが難しい場合は、まずクリアを優先し、コツを掴んでから再挑戦しても良いでしょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: 星は全部集めないといけませんか？**
+
+A: You typically need a certain number of stars to unlock new level packs, not every single one.
+- **A:** 必須ではありませんが、新しいレベルパック（ステージ群）をアンロックするために一定数の星が必要になります。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Cut the Rope is a physics‑based puzzle game where you slice ropes to deliver a candy to Om Nom while collecting up to three stars per level. Later stages introduce mechanics like bubbles, air cushions, and hazards that change the candy’s trajectory and timing. 
-
-### How to Play
-- Swipe/click to cut ropes in the right order so the candy swings toward Om Nom.  
-- Collect stars on the way; time cuts to avoid spikes and other traps.  
-- Use interactive elements (e.g., bubbles that float the candy, air puffs that steer) when available. 
-
-### Controls
-- Mouse/touch swipes to cut; buttons for level restart/next; some hosts add hint systems. 
-
-### Tips and Strategies
-- Visualize the candy’s swing arc before cutting; chain two quick cuts to redirect motion.  
-- Pop bubbles near target height so Om Nom can grab the candy.  
-- Grab at least two stars first; optimize for three once you understand the timing.  
-
-### FAQ
-- Q: Do I need all stars to progress?  
-[JA TRANSLATION NEEDED]   A: You typically need a certain number of stars to unlock new level packs, not every single one.   
-- Q: Are there power‑ups?  
-[JA TRANSLATION NEEDED]   A: Some versions include optional helpers/hints; availability varies by host. 
+A: Some versions include optional helpers/hints; availability varies by host.
+*   **Q: パワーアップアイテムはありますか？**
+    *   **A:** バージョンによってはヒント機能や、お助けアイテムが使える場合があります。

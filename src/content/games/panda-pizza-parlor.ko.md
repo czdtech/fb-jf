@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: panda-pizza-parlor
-title: '[KO] Panda Pizza Parlor'
+title: Panda Pizza Parlor 판다 피자 가게
 description: >-
-  [KO] Step into the Panda Pizza Parlor and serve up delicious pizzas to hungry
-  customers! Manage your time, get the orders right, and build a pizza empire.
+  귀여운 판다 셰프가 운영하는 피자 가게 경영 게임입니다. 손님 주문을 확인하고, 알맞은 토핑을 올려 구운 뒤 빠르게 서빙해 피자 가게를
+  성장시켜 보세요.
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
 thumbnail: /new-images/panda-pizza-parlor.png
 tags:
@@ -17,34 +17,77 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Panda Pizza Parlor*는 판다 셰프가 주인공인 아기자기한 피자 가게
+시뮬레이션 게임입니다. 플레이어는 가게의 메인 셰프가 되어 손님의
+주문을 받고, 도우에 소스를 바르고 각종 토핑을 올려 오븐에 굽고,
+완성된 피자를 손님에게 서빙해야 합니다.
 
-Welcome to Panda Pizza Parlor, a charming and fast-paced cooking game where you run your very own pizza shop! As the head panda chef, your job is to take orders, prepare delicious pizzas with the correct toppings, bake them to perfection, and serve them to a variety of hungry animal customers. Manage your time effectively to keep your customers happy, earn money, and grow your pizza business from a humble parlor into a world-famous pizzeria.
+처음에는 단순한 메뉴 위주로 비교적 여유롭지만, 시간이 지날수록
+손님 수가 늘어나고 토핑 종류도 많아져 순서와 시간을 더 꼼꼼하게
+관리해야 합니다. 주문을 정확하고 빠르게 처리하면 더 많은 돈과 팁을
+벌 수 있고, 가게의 평판이 올라가면서 "세계적인 피자 가게"를
+노릴 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Check the Order:** As soon as a customer arrives, look at the bubble above their head to see what kind of pizza they want. Pay close attention to the toppings.
-2.  **[KO]** **Prepare the Pizza:** Start by grabbing a dough ball. Add the tomato sauce, and then apply the specific toppings the customer requested.
-3.  **[KO]** **Bake to Perfection:** Place the pizza in the oven. Keep an eye on the timer! An undercooked or burnt pizza will make your customers unhappy.
-4.  **[KO]** **Serve Quickly:** Once the pizza is perfectly baked, take it out and serve it to the waiting customer. The faster you serve, the better your tip and the happier the customer.
-5.  **[KO]** **Manage Multiple Orders:** As you progress, you will have to juggle multiple orders at once. Create a workflow that allows you to prepare several pizzas simultaneously to keep up with the demand.
+1. **주문부터 정확히 확인하기**  
+   손님 머리 위 말풍선을 먼저 확인해 어떤 피자를 원하는지 파악하세요.
+   소스 종류, 치즈 유무, 토핑 개수 등을 잘못 넣으면 완성도가 떨어지고
+   손님 만족도도 낮아집니다.
 
-### Controls Guide
+2. **도우 → 소스 → 토핑 순서 익히기**  
+   기본 흐름은 도우를 집고, 토마토 소스를 바르고, 손님이 원하는
+   토핑을 정확히 올린 뒤 오븐에 넣는 순서입니다. 이 루틴을 몸에
+   익히면 동시에 여러 주문을 처리하기 쉬워집니다.
 
-*   **[KO]** **Point and Click:** The game is played entirely with the mouse.
-*   **[KO]** **Select Ingredients:** Click on the dough, sauce, and toppings to add them to the pizza.
-*   **[KO]** **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
-*   **[KO]** **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
+3. **굽기 타이밍 관리하기**  
+   오븐에 넣은 뒤에는 구워지는 시간을 잘 봐야 합니다. 덜 구워진 피자나
+   태워 버린 피자는 손님을 화나게 만들고, 돈도 제대로 받지 못합니다.
+   타이머가 거의 다 찼을 때 바로 꺼내는 습관을 들이세요.
 
-### Frequently Asked Questions (FAQ)
+4. **여러 주문을 병렬로 처리하기**  
+   레벨이 올라가면 동시에 여러 손님이 몰려옵니다. 이때는 한 판을
+   완전히 끝내기보다, 도우 여러 개를 먼저 깔아 두고 토핑과 굽기를
+   번갈아 처리하는 식으로 "작업 라인"을 만드는 것이 효율적입니다.
 
-*   **[KO]** **Q: What happens if I get an order wrong?**
-    *   **[KO]** **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.
+5. **실수는 최소화, 포기는 빠르게**  
+   토핑을 완전히 잘못 올렸다면, 시간을 더 쓰기보다는 빠르게
+   새 도우로 다시 시작하는 것이 나을 때도 있습니다. 전체 흐름을
+   끊기지 않게 관리하는 것이 고득점의 핵심입니다.
 
-*   **[KO]** **Q: How can I serve customers faster?**
-    *   **[KO]** **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
+### 조작 가이드
 
-*   **[KO]** **Q: Are there upgrades in the game?**
-    *   **[KO]** **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
+- **포인트 앤 클릭**: 마우스로만 플레이합니다.  
+- **재료 선택**: 도우, 소스, 토핑을 순서대로 클릭해 피자를
+  완성합니다.  
+- **오븐 사용**: 피자를 오븐에 넣고, 적절히 구워졌을 때 다시
+  클릭해 꺼냅니다.  
+- **서빙**: 완성된 피자를 클릭한 뒤 손님을 클릭해 전달하면 주문이
+  완료됩니다.
 
+### 자주 묻는 질문(FAQ)
+
+- **Q: 주문을 틀리면 어떻게 되나요?**  
+  **A:** 토핑을 잘못 올리거나 피자를 태우면 손님이 화를 내고
+  그냥 떠나 버립니다. 그 주문에 대한 보상은 받지 못하고,
+  가게 평판에도 좋지 않습니다.
+
+    - **Q: 손님을 더 빨리 처리하려면 어떻게 하나요?**  
+  **A:** 손님이 자주 찾는 기본 피자를 미리 준비해 두거나,
+  도우를 여러 개 한 번에 깔아 두는 식으로 여유 시간에 미리
+  작업해 두면 좋습니다. 게임에 익숙해질수록 동시에 여러 판을
+  굽는 연습을 해 보세요.
+
+- **Q: 게임에 업그레이드 요소가 있나요?**  
+
+    - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
+
+- **Q: Are there upgrades in the game?**
+
+    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
+  **A:** 진행할수록 새로운 토핑과 메뉴가 해금되어 주문이 더
+  복잡해집니다. 어떤 버전에서는 오븐이나 주방 설비를 업그레이드해
+  더 빠르게 굽거나, 한 번에 더 많은 피자를 처리할 수 있는 요소도
+  포함될 수 있습니다.

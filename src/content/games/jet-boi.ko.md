@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: jet-boi
-title: '[KO] Jet Boi'
+title: Jet Boi 제트팩 듀얼
 description: >-
-  [KO] 2‑player jetpack duels: boost with limited fuel, grab weapons, and knock
-  your rival off platforms in quick rounds.
+  2인용 제트팩 대전 게임 'Jet Boi' 가이드입니다. 제한된 연료로 공중을 제어하며 무기를 집어 들고, 상대를 스테이지 밖으로 날려 보내
+  승리를 노려 보세요.
 iframeSrc: >-
   https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
 thumbnail: /new-images/jet-boi.jpg
@@ -17,29 +17,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
+
+*Jet Boi*는 두 플레이어가 제트팩을 이용해 공중을 날아다니며
+싸우는 2인용 대전 슈팅 게임입니다. 짧게 치고 나가는 연료
+부스트로 위치를 잡고, 맵에 떨어지는 무기를 집어 들어
+상대를 때리거나 **링아웃** 시키는 것이 목표입니다.
+
+공중에서의 미세한 입력, 무반동 제어, 무기 타이밍을 익히면
+높은 위치를 선점해 더욱 유리하게 싸울 수 있습니다.
+
+### 플레이 방법
+
+- **부스트 깃털링(feathering)**: 연료를 한 번에 다 쓰지 말고
+  짧게 여러 번 눌러 제트팩을 제어하면, 더 안정적으로
+  공중에 머무를 수 있습니다.  
+- **무기 확보**: 스폰되는 무기를 먼저 확보해 위쪽 플랫폼에서
+  아래를 압박하면, 각도를 유리하게 가져갈 수 있습니다.  
+- **넉백 활용**: 체력을 다 깎기보다는, 가장자리 근처에서
+  넉백을 이용해 상대를 바깥으로 떨어뜨리는 것이 더 효율적인
+  마무리 방법입니다.
+
+### 조작법
 
 
-### Overview
-Jet Boi is a compact versus shooter about aerial control. Two players rocket around platforms with short fuel bursts, pick up guns, and try to score ring‑outs or KOs. Mastering mid‑air taps, recoil control, and weapon timing is critical to secure the high ground and finish opponents.
-
-### How to Play
-- Feather boosts to hover; don’t burn fuel in one go.
-- Grab weapon spawns and pressure from above for safer angles.
-- Use knockback near edges; force ring‑outs instead of trading damage.
-
-### Controls
 - Player‑specific movement/boost/shoot keys (host dependent); designed for local 2P.
+키 배치는 호스트에 따라 달라질 수 있지만, 기본적으로
+각 플레이어마다 이동·부스트·공격 키가 따로 지정된
+**로컬 2인용** 구조입니다.
 
-### Tips
-- Short taps stabilize aim; long burns are for repositioning only.
-- Deny weapon crates even if you don’t need them.
-- Fight for top platforms—they dictate angles and safety.
+### 팁
 
-### FAQ
-- Q: How do I conserve fuel effectively?
-A: Use short, rhythmic taps to maintain altitude and adjust aim.
-- Q: What is the best way to finish opponents?
-A: Push them off stage with knockback rather than chasing raw damage.
-- Q: Can I remap keys for two players?
-A: Many hosts allow custom binds before matches.
+- 긴 시간 부스트를 켜 두면 조준이 흔들리므로, 짧은 탭으로
+  높이를 조정하고, 큰 이동이 필요할 때만 길게 눌러 위치를
+  재정비하세요.  
+- 현재 필요하지 않은 무기라도 상대에게 뺏기지 않도록 먼저
+  먹어 두면, 전투 흐름을 훨씬 유리하게 가져갈 수 있습니다.  
+- 맵 최상단 플랫폼을 차지하면 사각지대가 줄어들고, 사격 각도도
+  좋아지므로 항상 높은 곳을 선점하는 습관을 들이세요.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 연료를 아끼는 요령이 있나요?**  
+  **A:** 리듬감 있게 짧게 탭하는 것이 핵심입니다. 일정 간격으로
+  살짝씩 눌러 고도를 유지하면 조준도 훨씬 수월해집니다.
+
+- **Q: 상대를 효과적으로 끝내는 방법은?**  
+  **A:** 체력을 끝까지 깎기보다는, 스테이지 가장자리에서
+  넉백을 이용해 링아웃을 노리는 것이 더 빠르고 안전합니다.
+
+- **Q: 2인용 키를 따로 설정할 수 있나요?**  
+  **A:** 많은 호스트에서 게임 시작 전 옵션 메뉴에서
+  플레이어별 키를 재설정할 수 있습니다.
 

@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: freekick-football
-title: '[KO] Freekick Football'
-description: >-
-  [KO] Test your free-kick skills in Freekick Football. Aim, shoot, and score to
-  become a free-kick master.
+title: Freekick Football 프리킥 풋볼
+description: '프리킥 상황만 집중적으로 즐기는 축구 게임입니다. 벽과 골키퍼를 넘길 수 있도록 방향과 파워, 회전을 조절해 골을 노려 보세요.'
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/freekick-football.png
 tags:
@@ -16,27 +14,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Freekick Football은 축구에서 가장 짜릿한 순간 중 하나인 프리킥에만 초점을 맞춘
+게임입니다. 다양한 거리와 각도, 수비벽 배치 상황에서 슈팅 방향과 세기, 스핀을
+조절해 골키퍼를 속이고 골망을 흔들어야 합니다. 정교한 조준과 타이밍, 공의
+궤적에 대한 감각을 동시에 요구합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Freekick Football is a game that focuses on the art of the free kick in soccer. Players are challenged to score goals from various set-piece situations, navigating past defensive walls and the goalkeeper. The game tests your precision, timing, and understanding of ball physics.
+1. **조준(Aiming)**  
+   수비벽과 골키퍼의 위치를 고려해, 공이 통과할 수 있는 궤적을 먼저
+   머릿속으로 그려 보세요. 골대 구석을 노리는 것이 가장 안전합니다.  
+2. **파워(Power)**  
+   파워가 너무 약하면 벽을 넘기지 못하고, 너무 강하면 골문을 벗어납니다.
+   상황별 적정 세기를 찾기 위해 여러 번 시도하며 감을 익히는 것이 좋습니다.  
+3. **회전/스핀(Curve/Spin)**  
+   공에 스핀을 주면 수비벽을 돌아 나가 골키퍼의 반대 방향으로 휘어 들어갈
+   수 있습니다. 난도 높은 상황일수록 회전 활용이 핵심입니다.  
+4. **상황 분석**  
+   킥을 차기 전에 거리, 각도, 벽 높이, 키퍼 위치를 모두 고려해 어떤
+   유형의 슛이 가장 적합한지 결정해 보세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Aiming:** Carefully aim your shot to find a path to the goal. Consider the position of the wall and the goalkeeper.
-2.  **[KO]** **Power:** Apply the right amount of power. Too little, and you won't clear the wall; too much, and you'll miss the goal.
-3.  **[KO]** **Curve/Spin:** Use spin to bend the ball around the wall and away from the goalkeeper. This is key to scoring in difficult situations.
-4.  **[KO]** **Analyze the Situation:** Before each kick, assess the distance, the wall's position, and the keeper's stance to choose the best strategy.
+- 마우스/터치로 방향을 설정한 뒤, 드래그 길이/게이지로 파워를 조절하고,
+  이어서 스핀을 설정합니다(버전에 따라 UI가 조금씩 다름).  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Mouse/Touch:** Use the mouse or touch screen to aim, set power, and apply spin to the ball. The exact controls may vary slightly, but generally involve a sequence of clicks or swipes.
+- **Q: 꾸준히 골을 넣으려면 어떻게 해야 하나요?**  
+  **A:** 파워와 스핀에 따른 궤적을 몸에 익히는 것이 중요합니다. 골대 네 구석을
+  각각 노려 보며, 각 상황에서 어느 정도 세기로 차야 하는지 연습해 보세요.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 수비벽을 넘기기가 너무 어렵습니다.**  
 
-*   **[KO]** **Q: How do I score more consistently?**
-    *   **[KO]** **A:** Practice is key. Experiment with different levels of power and spin to understand how the ball behaves. Aim for the corners of the goal, as these are the hardest spots for the keeper to reach.
-*   **[KO]** **Q: What's the best way to beat the wall?**
-    *   **[KO]** **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
+- **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
+
+    - **Q: What's the best way to beat the wall?**
+  **A:** 공이 뜨기 시작하는 시점과 최고점 위치를 주의 깊게 보면 도움이 됩니다.
+  처음에는 약간 더 높은 궤적으로 넘기는 연습부터 하는 편이 안정적입니다.  
 

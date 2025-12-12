@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: crazy-cars
-title: '[KO] Crazy Cars'
+title: "Crazy Cars 크레이지 카"
 description: >-
-  [KO] Crazy Cars is a casual 3D driving and stunt racing game: explore a city
-  map, complete events, collect stars and wrenches, and perform jumps with nitro
-  in your browser.
+  3D 도시 맵을 자유롭게 달리며 점프와 스턴트를 즐기는 캐주얼 레이싱 게임
+  Crazy Cars입니다. 이벤트를 완료하고 별과 스패너를 모아 더 빠른 차량을
+  해금해 보세요.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/crazy-cars.jpg
 tags:
@@ -17,35 +17,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Crazy Cars는 램프와 점프 지점, 각종 이벤트 포인트가 배치된 도시 맵을 자유롭게
+돌아다니는 브라우저용 캐주얼 드라이빙 게임입니다. 맵 곳곳을 탐험하며 레이싱과
+타임어택, 장애물 코스, 스턴트 구역을 찾아 도전할 수 있고, 지붕이나 숨겨진 구역에
+놓인 별과 스패너 같은 수집 아이템을 모아 새로운 차량을 해금합니다. 일부 버전에서는
+로컬 분할 화면(스플릿 스크린) 기능도 제공됩니다.
 
+### 플레이 방법
 
-### Overview
-Crazy Cars is a casual browser driving game on a free‑roam city map with ramps, jump spots, and event markers. Explore to find races and time trials, collect stars and wrenches across rooftops and hidden corners, and unlock additional cars. Some hosts also include local split‑screen.
+- 맵을 돌아다니며 레이스, 타임어택, 장애물 코스, 스턴트 구역 등 다양한 활동을 찾습니다.  
+- 별과 스패너 수집품은 지붕 위, 경사로, 숨겨진 골목 등 여러 곳에 흩어져 있습니다.  
+- 이벤트를 완료하면 게임 내 화폐를 얻을 수 있고, 이를 사용해 더 빠르고 성능이 좋은
+  차량을 구매할 수 있습니다.  
+- 직선 구간에서 니트로를 사용해 속도를 끌어올리고, 큰 점프대에 진입할 때는 미리
+  방향을 정확히 맞춰 두세요.  
 
-### How to Play
-- Explore the map to find activities: races, time trials, obstacle runs, and stunt areas.
-- Collectibles (stars/wrenches) are scattered around rooftops, ramps, and hidden spots.
-- Earn currency by completing events to unlock faster cars.
-- Use nitro on straights; line up carefully before large jumps.
+### 조작법
 
-### Controls
-- WASD or Arrow Keys: Drive / steer
-- Space: Brake/handbrake (host‑dependent); Nitro where available
-- R: Reset vehicle
-- Esc/P: Pause/menu
-- Split‑screen: second player uses the other key set
+- `WASD` 또는 방향키: 가속/감속 및 조향  
+- 스페이스: 브레이크/핸드브레이크(버전에 따라 기능 상이), 일부 버전에서는 니트로 버튼  
+- `R`: 차량 리셋(근처 도로로 다시 배치)  
+- `Esc` / `P`: 일시정지 및 메뉴  
+- 스플릿 스크린: 두 번째 플레이어는 다른 키 세트를 사용해 조작  
 
-### Tips and Strategies
-- Feather the throttle during sharp turns to reduce understeer.
-- Approach big ramps straight and at speed; avoid mid‑air steering corrections.
-- Use the handbrake to initiate controlled drifts for tight corners.
-- Grab nearby wrenches early to repair after heavy landings.
+### 팁 & 전략
+
+- 급코너에서는 가속을 살짝 떼면서 돌아 언더스티어를 줄이세요.  
+- 큰 점프대는 직선으로 충분한 속도를 낸 뒤 진입하고, 점프 중에는 과도한 방향 전환을
+  피하는 것이 착지 안정성에 좋습니다.  
+- 핸드브레이크를 이용하면 코너 진입 시 짧고 강한 드리프트를 만들어 좁은 코너를
+  빠르게 돌아 나올 수 있습니다.  
+- 맵 초반에 가까운 위치의 스패너를 먼저 수집해 두면, 이후 높은 점프나 강한 충돌 후
+  차량 수리를 할 때 도움이 됩니다.  
 
 ### FAQ
-- Q: How do I unlock more cars?
-A: Complete races and collect items to earn currency; spend it in the garage.  
-- Q: Is there multiplayer?
-A: Some browser versions offer local split‑screen; online multiplayer is typically not included.  
-- Q: My car flipped over—what now?
-A: Press R to reset near your last position.  
+
+- **Q: 더 많은 차량은 어떻게 해금하나요?**  
+  **A:** 레이싱과 각종 이벤트를 완료하고, 수집 아이템을 모아 화폐를 벌어야 합니다.
+  이후 차고(garage) 메뉴에서 새 차량을 구매할 수 있습니다.  
+
+- **Q: 멀티플레이가 지원되나요?**  
+  **A:** 일부 브라우저 버전은 한 PC에서 화면을 나누어 플레이하는 로컬 분할 화면을
+  지원하지만, 온라인 멀티플레이는 제공되지 않는 경우가 대부분입니다.  
+
+- **Q: 차가 뒤집혔는데 어떻게 해야 하나요?**  
+  **A:** `R` 키를 눌러 차량을 마지막 체크 지점 근처로 리셋하면 됩니다.  
+

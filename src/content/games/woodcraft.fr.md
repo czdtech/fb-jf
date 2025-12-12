@@ -1,20 +1,16 @@
 ---
 locale: fr
 urlstr: woodcraft
-title: '[FR] Woodcraft'
+title: 'Woodcraft'
 description: >-
-  [FR] Master the art of woodworking in this relaxing casual game. Craft wooden
-  items with rhythmic precision, complete orders, and unlock new tools and
-  patterns. A satisfying crafting experience!
+  Woodcraft est un jeu de bricolage rythmique : ponce, sculpte et façonne des
+  objets en bois en suivant le tempo.
 iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
 thumbnail: /new-images/woodcraft.jpg
 tags:
   - casual
   - rhythm
 score: 3.7/5  (568 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-08-16
 ---
-
-
-<!-- [FR] Translation needed -->
 

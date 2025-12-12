@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: daily-solitaire
-title: '[ES] Daily Solitaire'
+title: "Daily Solitaire"
 description: >-
-  [ES] A new Klondike Solitaire challenge awaits you every day. Sort the cards
-  from Ace to King and test your skills with a fresh puzzle daily.
+  Cada día te espera un nuevo desafío de Solitario Klondike. Ordena las cartas
+  del As al Rey y pon a prueba tu habilidad con un puzle fresco a diario.
 iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
 thumbnail: /new-images/daily-solitaire.png
 tags:
@@ -16,33 +16,47 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Daily Solitaire ofrece cada día un nuevo puzle de Solitario Klondike. El reto es
+el clásico: ordenar una baraja de 52 cartas en cuatro montones de bases por
+palo, del As al Rey. Con partidas diarias pensadas para ser resolubles, es una
+forma perfecta de medir tu nivel, seguir tu progreso y disfrutar de un rato de
+estrategia con cartas de toda la vida.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Daily Solitaire offers a fresh Klondike Solitaire puzzle every day. The game presents the classic challenge of sorting a 52-card deck into four foundation piles by suit, from Ace to King. With a new, guaranteed-winnable deal each day, it's a perfect way to test your skills, track your progress, and enjoy a moment of classic card game strategy.
+1.  **Objetivo:** Mover las 52 cartas a las cuatro bases, una por palo, en orden
+    ascendente (del As al Rey).
+2.  **Gestión del tablero (tableau):** Construye columnas en el tableau en
+    orden descendente y alternando colores (por ejemplo, una J roja sobre una Q
+    negra). La prioridad es voltear las cartas boca abajo.
+3.  **Valora los huecos libres:** Crear una columna vacía es muy potente, ya que
+    solo se puede rellenar con un Rey. Ese espacio extra te permite reorganizar
+    secuencias largas y descubrir más cartas.
+4.  **Mazo y descarte:** Cuando no queden movimientos claros en el tableau,
+    roba cartas del mazo para añadirlas a la pila de descarte. Úsalas para
+    construir en el tableau o enviarlas directamente a las bases.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Objective:** Move all 52 cards to the four foundation piles in ascending order (Ace to King) for each suit.
-2.  **[ES]** **Tableau Management:** Build columns on the tableau in descending order, alternating colors (e.g., a red Jack on a black Queen). The primary goal is to uncover face-down cards.
-3.  **[ES]** **Prioritize Empty Columns:** Creating an empty column is a powerful move, as it can only be filled by a King. This gives you a valuable space to rearrange long sequences and uncover more cards.
-4.  **[ES]** **Stock and Waste:** When no more moves are available on the tableau, draw from the stock pile to reveal new cards. Use these cards to build on the tableau or move them directly to the foundation.
+*   **Mover cartas:** Haz clic y arrastra las cartas entre pilas.
+*   **Robar del mazo:** Haz clic en el mazo para pasar una carta al descarte.
+*   **Movimiento automático:** En muchas versiones, hacer doble clic sobre una
+    carta la envía automáticamente a la base cuando el movimiento es válido.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Move Cards:** Click and drag cards between piles.
-*   **[ES]** **Draw from Stock:** Click the stock pile to deal a new card to the waste pile.
-*   **[ES]** **Auto-Move:** Double-clicking a card will often send it to the appropriate foundation pile if the move is valid.
+*   **P: ¿Las partidas diarias son siempre ganables?**
+    *   **R:** En la mayoría de versiones de "Daily Solitaire" las barajas se
+        generan para que exista al menos un camino ganador, aunque encontrarlo
+        puede ser muy exigente.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué diferencia hay entre los modos "Robar 1" y "Robar 3"?**
+    *   **R:** En "Robar 1" (`Draw 1`) solo giras una carta cada vez del mazo, lo que suele
+        ser más sencillo. En "Robar 3" (`Draw 3`) giras tres cartas a la vez y solo puedes
+        jugar la superior, haciendo la partida bastante más difícil.
 
-*   **[ES]** **Q: Is the daily puzzle always winnable?**
-    *   **[ES]** **A:** Yes, most "Daily Solitaire" games feature deals that are guaranteed to have at least one winning path, though it may be very tricky to find.
-
-*   **[ES]** **Q: What is the difference between "Draw 1" and "Draw 3" mode?**
-    *   **[ES]** **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.
-
-*   **[ES]** **Q: Can I play previous days' puzzles?**
-    *   **[ES]** **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.
-
+*   **P: ¿Puedo jugar los puzles de días anteriores?**
+    *   **R:** Muchos juegos diarios incluyen un calendario que te permite
+        volver atrás y jugar fechas que te hayas perdido.

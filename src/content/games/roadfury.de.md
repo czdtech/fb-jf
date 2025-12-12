@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: roadfury
-title: '[DE] Road Fury'
+title: Road Fury
 description: >-
-  [DE] An action-packed vertical shoot-'em-up on the highway! Control your armed
-  vehicle, destroy enemy cars, and collect coins to upgrade your weapons and
-  armor to survive the fury of the road.
+  Actiongeladener Vertical-Shooter auf der Autobahn! Steuere dein bewaffnetes
+  Fahrzeug, zerstöre gegnerische Wagen und sammle Münzen, um Waffen und
+  Panzerung aufzurüsten und den Wahnsinn auf der Straße zu überleben.
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
 thumbnail: /new-images/roadfury.png
 tags:
@@ -17,34 +17,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Road Fury ist ein rasanter Top-Down-Vertical-Shooter, in dem du ein schwer
+ bewaffnetes Auto über eine chaotische Autobahn steuerst. Dein Ziel ist es,
+ möglichst lange zu überleben, während dir gegnerische Fahrzeuge, Trucks und
+ Bossgegner entgegenkommen. Weiche dem Verkehr aus, sammle Power-ups ein und
+ nutze die erbeuteten Münzen nach jeder Runde, um Waffen und Panzerung deines
+ Wagens dauerhaft zu verbessern.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Road Fury is a high-octane, top-down vertical scrolling shooter that puts you in the driver's seat of a heavily armed vehicle on a chaotic highway. Your mission is to survive for as long as possible against waves of enemy cars, trucks, and bosses. Weave through traffic, collect powerful boosters, and use the coins you earn from destroyed enemies to upgrade your car's weapons and armor to unleash maximum fury.
+1.  **Ständig in Bewegung bleiben:** Wechsle permanent die Spur, um gegnerischem
+    Beschuss und Kollisionen auszuweichen. Wer zu lange an einer Stelle bleibt,
+    wird schnell getroffen.
+2.  **Power-ups priorisieren:** Schilde, Raketen, Münzmagnete oder Reparaturen
+    können einen Lauf komplett drehen. Versuche, sie mitzunehmen, wenn die
+    Situation halbwegs sicher ist.
+3.  **Auf Upgrades setzen:** Investiere deine Münzen zwischen den Läufen im
+    Garage-/Upgrade-Menü. Mehr Schaden deiner Hauptwaffe und zusätzliche
+    Panzerung sind besonders wertvoll.
+4.  **Gegnermuster lernen:** Manche Fahrzeuge rammen, andere feuern aus der
+    Distanz. Wenn du ihre Muster kennst, kannst du frühzeitig ausweichen und
+    gezielt kontern.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Constant Movement:** The key to survival is to never stop moving. Weave left and right to dodge enemy fire and collisions. Staying in one place is the fastest way to get destroyed.
-2.  **[DE]** **Grab Power-ups:** Prioritize collecting the power-ups that appear on the road. A temporary shield, a powerful rocket launcher, or a coin magnet can dramatically change the course of your run.
-3.  **[DE]** **Focus on Upgrades:** The coins you collect are crucial. Between runs, visit the garage to permanently upgrade your vehicle. Upgrading your main cannon's damage and your car's armor are excellent first choices.
-4.  **[DE]** **Learn Enemy Patterns:** Different enemy vehicles have different behaviors. Some will try to ram you, while others will shoot from a distance. Learn their patterns to anticipate their attacks and dodge them effectively.
+*   **Fahrzeug bewegen:** Halte die linke Maustaste gedrückt (oder den Finger
+    auf dem Screen) und ziehe nach links/rechts, um dein Auto zu steuern.
+*   **Schießen:** Deine Standardwaffe feuert automatisch, damit du dich ganz auf
 
-### Controls Guide
+- **Shooting:** Your primary weapon fires automatically.
+    Ausweichen und Sammeln konzentrieren kannst.
 
-The game is played with simple drag controls.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Move Vehicle:** Click and hold the left mouse button (or use your finger) and drag left and right on the screen to steer your car.
-*   **[DE]** **Shooting:** Your primary weapon fires automatically.
+*   **F: Wie feuere ich meine Waffe?**
+    **A:** Gar nicht – dein Auto schießt automatisch. Du kümmerst dich nur um
+    Positionierung.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Was sind die schwebenden Symbole auf der Straße?**
+    **A:** Das sind Power-ups. Fahre darüber, um Schilde, Raketen,
+    Reparatur-Kits oder Münzmagnete zu erhalten.
 
-*   **[DE]** **Q: How do I shoot my weapon?**
-    *   **[DE]** **A:** You don't need to! Your main gun fires automatically, allowing you to focus completely on skillful driving and dodging.
+*   **F: Was ist das wichtigste Upgrade?**
 
-*   **[DE]** **Q: What are the floating icons on the road?**
-    *   **[DE]** **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
+    - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
 
-*   **[DE]** **Q: What is the best upgrade?**
-    *   **[DE]** **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
+- **Q: What is the best upgrade?**
 
+    - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
+    **A:** Zu Beginn lohnt es sich, den Schaden deiner Hauptwaffe zu erhöhen,
+    damit du Gegner schneller zerstörst und mehr Münzen bekommst. Danach ist
+    zusätzliche Panzerung entscheidend, um länger durchzuhalten.

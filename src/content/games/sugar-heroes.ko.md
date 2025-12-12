@@ -1,46 +1,63 @@
 ---
 locale: ko
 urlstr: sugar-heroes
-title: '[KO] Sugar Heroes'
+title: Sugar Heroes 슈가 히어로즈
 description: >-
-  [KO] Sugar Heroes is a vibrant match‑3 — free blockers, merge power‑ups, and
-  hit scene goals under smart move planning.
-iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
-thumbnail: /new-images/sugar-heroes.png
+  Sugar Heroes는 귀여운 디저트 캐릭터를 맞추어 없애는 매치-3 퍼즐 게임입니다. 줄을 맞춰 터뜨리고, 스페셜 조합으로 강력한 폭발을
+  일으켜 스테이지 목표를 달성하세요.
+iframeSrc: 'https://sugarheroes.h5games.usercontent.goog/v/26o4l85f9rm2s/'
+thumbnail: /new-images/sugar-heroes.jpg
 tags:
+  - match-3
   - puzzle
   - casual
-  - thinky
-score: 4.1/5  (1986 votes)
+score: 4.3/5  (1987 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Sugar Heroes는 알록달록한 캔디와 디저트 캐릭터를 세 개 이상 맞추어 없애는
+매치-3 퍼즐 게임입니다. 각 스테이지마다 정해진 이동 횟수 안에 특정 점수 달성,
+장애물 제거, 특정 블록 모으기 등 다양한 목표가 주어집니다. 귀여운 연출과
+꾸준히 등장하는 스페셜 블록 덕분에 가볍게 즐기기 좋습니다.
 
-Sugar Heroes leans into combo‑heavy match‑3 with candy‑themed blockers and animated heroes. Goals range from clearing jelly to delivering ingredients; power‑up merges (bomb+line/color clears) are crucial for dense layouts.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **목표부터 확인:**
+    점수, 재료 수집, 장애물 제거 등 스테이지마다 목표가 다르기 때문에,
+    시작 전에 무엇을 우선해야 하는지 꼭 확인하세요.
+2.  **하단부터 풀기:**
+    아래쪽에서 매치를 만들면 위쪽 블록이 많이 떨어지면서 연쇄가 발생할
+    가능성이 커집니다.
+3.  **스페셜 블록 적극 활용:**
+    네 개 이상을 맞추면 줄 제거, 폭탄, 컬러 폭발 등 다양한 스페셜 블록이
+    생성됩니다. 서로 교차 조합하면 더 큰 범위를 한 번에 지울 수 있습니다.
+4.  **이동 수 아끼기:**
 
-1.  **[KO]** Focus goals: Clear blockers or collect items before pure scoring.
-2.  **[KO]** Bottom cascades: Work low for free chain clears.
-3.  **[KO]** Save merges: Detonate strong combos at choke points.
-4.  **[KO]** Side control: Don’t strand colors on edges.
-5.  **[KO]** Two‑ahead planning: Map the next move to preserve setups.
+- Two‑ahead planning: Map the next move to preserve setups.
+    의미 없는 작은 매치보다는, 장애물이나 목표에 직접적인 영향을 주는 움직임에
+    우선순위를 두는 것이 좋습니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- Drag to swap; tap power‑ups; pause/retry in UI.
+- 인접한 두 블록을 드래그/스와이프해 자리를 바꿉니다.
+- 세 칸 이상이 일직선으로 나열될 때만 교환이 성립하고, 그 줄이 제거됩니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
+
 
 - Q: I hit move limits.
+**Q: 이동 횟수가 모자라요.**
 
-A: Chain power‑ups and prioritize clears that unlock space.
 
 - Q: Strong opener?
+A: 목표와 상관없는 매치를 줄이고, 연쇄가 잘 발생하는 위치(아래쪽, 장애물 근처)를
+   우선적으로 공략하면 이동 수를 아낄 수 있습니다.
 
-A: Bottom clears; they spawn cascades.
+**Q: 스페셜 블록 조합은 어떻게 하나요?**
 
+A: 서로 인접한 두 스페셜 블록을 맞바꾸면, 양쪽 효과가 합쳐진 강력한 폭발이
+   발생합니다. 예를 들어 줄 제거 + 폭탄 조합은 넓은 십자형 영역을 지우는 식입니다.

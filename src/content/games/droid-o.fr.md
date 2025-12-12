@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: droid-o
-title: '[FR] Droid-O'
+title: 'Droid-O'
 description: >-
-  [FR] Droid-O is a tight top‑down arena shooter — kite waves, chain ability
+  Droid-O is a tight top‑down arena shooter — kite waves, chain ability
   synergies, and survive escalating threats with precise movement.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/droid-o.png
@@ -25,12 +25,12 @@ The arena often includes environmental features — choke corridors, pillars for
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[FR]** Kite wide, not tight: Large circular paths give more correction time than small, panicky loops.
-2.  **[FR]** Target priority: Eliminate fast chargers and ranged casters first; leave slow melee for cleanup.
-3.  **[FR]** Cooldown discipline: Save dash/shield to break encirclements; avoid blowing both escapes at once.
-4.  **[FR]** Ammunition/heat: Fire in short, accurate bursts; re‑engage while weapons cool or reload behind cover.
-5.  **[FR]** Funnel fights: Pull packs through narrow lanes so bullets pierce multiple targets; reset aggro lines with pillars.
-6.  **[FR]** Health economy: Take guaranteed safe shots; a single hit during late waves snowballs mistakes.
+1.  Kite wide, not tight: Large circular paths give more correction time than small, panicky loops.
+2.  Target priority: Eliminate fast chargers and ranged casters first; leave slow melee for cleanup.
+3.  Cooldown discipline: Save dash/shield to break encirclements; avoid blowing both escapes at once.
+4.  Ammunition/heat: Fire in short, accurate bursts; re‑engage while weapons cool or reload behind cover.
+5.  Funnel fights: Pull packs through narrow lanes so bullets pierce multiple targets; reset aggro lines with pillars.
+6.  Health economy: Take guaranteed safe shots; a single hit during late waves snowballs mistakes.
 
 ### Builds and Synergies (if available)
 

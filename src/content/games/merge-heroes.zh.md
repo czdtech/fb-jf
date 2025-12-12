@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: merge-heroes
-title: '[ZH TRANSLATION NEEDED] Merge Heroes'
+title: "《Merge Heroes》英雄合成自走战"
 description: >-
-  [ZH TRANSLATION NEEDED] The ultimate merge-and-battle strategy game! Combine
-  heroes to forge a powerful army, deploy them on the battlefield, and defend
-  your kingdom from waves of monsters.
+  《Merge Heroes》是一款“合成+自走战”策略游戏，你通过购买与合成英雄，打造小队阵容，将他们布置在战场上自动迎战一波又一波来袭的怪物大军，守卫你的王国。
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/merge-heroes.png
 tags:
@@ -17,32 +15,32 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Merge Heroes is a captivating blend of merge-puzzle mechanics and auto-battle strategy. In this game, you are tasked with defending your kingdom from hordes of monsters. You build your army not just by recruiting, but by merging identical heroes to evolve them into more powerful warriors. Strategically place your merged heroes on the battlefield and watch as they automatically defend against wave after wave of enemies.
+《Merge Heroes》将合成益智与自动战斗策略巧妙融合。你需要在怪物一波波来袭前，先在备用棋盘上购买基础英雄，再把相同英雄合成升级，打造出伤害更高、技能更强的战士。随后将这些强化后的英雄部署到战场格子中，他们会自动攻击靠近的敌人，为王国抵挡无尽的怪物潮。随着波次推进，你必须不断调整阵容与站位，保持战力曲线领先敌人。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Buy and Merge:** Use your gold to buy basic heroes, which appear on your reserve board. The core of the game is to drag and drop one hero onto another identical hero. This merges them into a single, higher-level hero with improved stats.
-2.  [ZH TRANSLATION NEEDED] **Deploy Your Army:** Drag your strongest heroes from the reserve board onto the battle grid. Once placed, they will automatically engage any enemies that come within their range. You have a limited number of slots on the battle grid, so choose your active heroes wisely.
-3.  [ZH TRANSLATION NEEDED] **Hero Types:** Pay attention to different hero types. Melee heroes (like knights) must be on the front lines to engage enemies, while ranged heroes (like archers) can attack from the back. A balanced formation is key.
-4.  [ZH TRANSLATION NEEDED] **Manage Your Gold:** You earn gold automatically as your heroes defeat monsters. Reinvest this gold quickly into buying more basic heroes so you can continue merging and upgrading your army to keep up with the increasingly difficult enemy waves.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **购买与合成：** 使用金币在商店购买基础英雄，他们会出现在预备棋盘上。将一个英雄拖到另一名同类型、同等级的英雄上即可合成为更高等级的英雄，属性和输出能力都会显著提升。
+2.  **部署战阵：** 从预备区把最强的英雄拖到战场网格中，战斗开始后他们会自动攻击进入射程的敌人。战场格子有限，要优先保证每个格子上都是当前能摆出的最强战力，而不是平均摊牌。
+3.  **职业与位置搭配：** 不同英雄类型承担不同职责——骑士等近战英雄适合作为前排顶在最前方承受伤害，弓手、法师等远程英雄则适合放在后排安全输出。前排稳固、后排火力充足的阵型通常更稳定。
+4.  **金币循环：** 击杀怪物会自动获得金币，你需要快速把金币投入到“继续购买基础英雄→合成升级→替换战场旧单位”的循环中，确保在新一波怪物到来前，阵容已经完成一轮强化。
 
-[ZH TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
+### 操作说明
 
-*   **Buy Hero:** Click the "Buy" button to spend gold and get a new base-level hero.
-*   **Merge Heroes:** Click and drag a hero onto another identical hero to merge them.
-*   **Deploy/Undeploy:** Drag a hero from your reserve board to an empty slot on the battlefield to deploy them. You can also drag them back to the reserve board to swap them out.
+本作同样以拖拽操作为主：
 
-### Frequently Asked Questions (FAQ)
+*   **购买英雄：** 点击“Buy（购买）”按钮，消耗金币获取新的 1 级英雄。
+*   **合成英雄：** 将一名英雄拖动到另一名相同英雄上即可合并升级。
+*   **上阵 / 替换：** 从预备棋盘拖动英雄到战场空位上完成部署；若想调整阵容，可以把英雄再拖回预备区，用更高等级的英雄替换前线位置。
 
-*   **Q: How do I create a really strong hero?**
-     *   **A:** Through continuous merging. Two level 1 heroes make a level 2, two level 2s make a level 3, and so on. The key to a powerful army is to constantly buy and merge.
+### 常见问题（FAQ）
 
-*   **Q: Should I fill my board with many weak heroes or a few strong ones?**
-     *   **A:** A few strong, high-level heroes are almost always more effective than a board full of weak, low-level ones. Focus on merging up to the highest level you can achieve.
+*   **问：怎样合成出非常强力的英雄？**
+    *   **答：** 不断重复“购买基础英雄→在预备区合成升级”的过程。两个 1 级合成 2 级、两个 2 级合成 3 级，以此类推。只要经济允许，优先把关键职业升到尽可能高的等级。
 
-*   **Q: Why did my heroes stop attacking?**
-     *   **A:** This usually happens between waves. Once the next wave of enemies appears, your heroes will automatically resume their attack.
+*   **问：是多摆几个低等级英雄好，还是集中养几个高等级好？**
+    *   **答：** 大多数情况下，少量高等级英雄要远比一大堆低等级英雄更划算。棋盘格子有限，高等级单位的攻击力、射程和技能往往有质的变化，建议优先合成高星英雄。
 
+*   **问：为什么有时英雄停下来不打怪？**
+    *   **答：** 这通常发生在波次间隙，当上一波怪物已被清空，新一波还没刷新时，英雄会短暂停火。等到下一波敌人出现后，他们会自动恢复攻击，无需额外操作。

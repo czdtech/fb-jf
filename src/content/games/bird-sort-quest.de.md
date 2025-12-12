@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: bird-sort-quest
-title: '[DE] Bird Sort Quest'
+title: "Bird Sort Quest"
 description: >-
-  [DE] Bird Sort Quest turns color‑sorting into a soothing challenge — move
-  birds between perches, unify colors, and plan several steps ahead.
+  Bird Sort Quest macht aus Farbsortieren ein entspanntes Logikrätsel. Verschiebe
+  Vögel zwischen Sitzstangen, trenne die Farben sauber und plane deine Züge ein
+  paar Schritte voraus.
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/bird-sort-quest.png
 tags:
@@ -16,45 +17,64 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Bird Sort Quest gehört zur Familie der Sortier‑Puzzles (ähnlich wie
+Flüssigkeits‑Sortierspiele), spielt sich aber mit Vögeln auf Sitzstangen. Jede
+Stange enthält einen Stapel verschiedenfarbiger Vögel. Du darfst immer nur
+den obersten Vogel einer Stange auf eine andere Stange setzen – mit dem Ziel,
+alle Stangen so zu ordnen, dass auf jeder nur noch Vögel **einer** Farbe sitzen.
 
-### Detailed Game Introduction
+Die Schwierigkeit entsteht durch begrenzte freie Stangen und die Regel, dass du
+nur auf leere Stangen oder auf Vögel derselben Farbe setzen darfst. Dadurch
+musst du dir Pufferstangen freihalten und Zwischenparkplätze für Farben
+schaffen.
 
-Bird Sort Quest is a calm logic puzzle in the family of liquid/sort games. Each perch holds a stack of colorful birds. Move one bird at a time so that every perch ends up with birds of a single color. The challenge comes from limited free perches and the rule that only a matching color (or empty slot) can accept a moved bird, forcing you to plan buffers and temporary parking.
+### Strategie & Walkthrough
 
-### Gameplay Strategy & Walkthrough
+1.  **Puffer reservieren:** Halte nach Möglichkeit mindestens eine Stange leer,
+    die du flexibel als Zwischenspeicher nutzen kannst.
+2.  **Von unten aufbauen:** Wenn du eine Farbe auf einer Stange sammelst,
+    fange möglichst mit der passenden Vogelart am Boden an und stapel gleiche
+    Farben sauber darüber.
+3.  **Einzelvögel nicht vergraben:** Lasse seltene oder vereinzelte Farben
+    nicht unter dicken Mischstapeln verschwinden. Hole sie früh nach oben.
+4.  **Mindestens zwei Züge vorausdenken:** Bevor du einen Vogel versetzt,
+    überlege, wie die nächsten ein bis zwei Züge aussehen. Vermeide Züge, die
+    Puffer komplett blockieren.
+5.  **Teilstapel früh zusammenführen:** Wenn du dieselbe Farbe auf mehreren
+    Stangen verteilt hast, führe diese Stapel so früh wie möglich zusammen, um
+    Stangen freizuräumen.
+6.  **Schnell zurücknehmen:** Merkst du, dass ein Zug mehr Chaos als Ordnung
+    erzeugt, nutze Undo (falls vorhanden), solange deine Pufferstangen noch
+    nicht komplett blockiert sind.
 
-1.  **[DE]** Reserve buffers: Keep at least one empty perch as a flexible buffer for shuffling.
-2.  **[DE]** Build from bottom: Stabilize stacks by finishing a color on a dedicated perch starting from the bottom.
-3.  **[DE]** Avoid burying singles: Don’t trap unique colors under mixed stacks; surface them early.
-4.  **[DE]** Two‑move foresight: Before moving, simulate the next two placements to avoid softlocks.
-5.  **[DE]** Consolidate mid‑game: Merge partial stacks of the same color as soon as feasible to free perches.
-6.  **[DE]** Backtrack quickly: If a move increases disorder, undo and try a different route while buffers are intact.
+### Steuerung
 
-### Controls Guide
+- **Vogel bewegen:** Tippe/Klicke zuerst auf eine Stange, um den obersten
+  Vogel aufzunehmen, und dann auf die Zielstange, um ihn abzusetzen.
+- **Rückgängig/Neustart:** Nutze Undo und Restart, wenn du dich in eine Ecke
+  manövriert hast (falls der Modus das anbietet).
 
-- Select a perch to pick the top bird, then select the destination perch.
-- Undo/Reset if the mode offers it; hints are best saved for late puzzles.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **F: Ich habe keine legalen Züge mehr – was jetzt?**  
+  **A:** Gehe einige Züge per Undo zurück und öffne wieder eine Pufferstange.
+  Versuche, zuerst vereinzelt vergrabene Farben freizulegen.
 
-- Q: I’m stuck with no legal moves — what should I do?
+- **F: Gibt es eine garantierte Lösung für jedes Level?**  
+  **A:** Nicht zwingend, aber mit mindestens einem Puffer und frühzeitigem
+  Zusammenführen von Teilstapeln sind die meisten Layouts lösbar.
 
-A: Backtrack a few moves and reopen a buffer perch. Prioritize surfacing buried singles to create new legal placements.
+- **F: Sollte ich eine Farbe immer komplett fertig sortieren, bevor ich an die
+  nächste gehe?**  
+  **A:** Wenn es ohne Pufferverlust möglich ist, ja – aber fixe dich nicht darauf
+  fest, wenn dir dadurch alle Zwischenablagen verloren gehen.
 
-- Q: Is there a guaranteed strategy for every level?
+- **F: Bekomme ich später mehr Stangen?**  
+  **A:** In manchen Levelsets werden zusätzliche Stangen freigeschaltet. Nutze
+  sie konsequent als Parksplatz, um komplexe Muster aufzubrechen.
 
-A: Not always, but maintaining at least one buffer and consolidating partial stacks early solves most layouts.
-
-- Q: Should I finish one color completely before touching others?
-
-A: It’s efficient to lock in a finished color when convenient, but don’t force it if it consumes all buffers.
-
-- Q: Are extra perches ever added?
-
-A: Some sets introduce bonus perches on tougher stages—use them as temporary parking to simplify.
-
-- Q: Do move counts matter?
-
-A: In some modes yes; aim for minimal moves by reducing unnecessary shuffles.
-
+- **F: Zählen Züge für die Wertung?**  
+  **A:** Einige Modi belohnen möglichst wenige Züge. Versuche unnötiges Hin‑ und
+  Herbewegen zu vermeiden, wenn du auf Highscores spielst.

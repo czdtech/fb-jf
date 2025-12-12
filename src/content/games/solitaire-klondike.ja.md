@@ -1,50 +1,43 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Solitaire Klondike"
+description: "最も人気のあるソリティアのバージョン、クラシックなKlondike Solitaireをプレイしよう。目標は52枚すべてのカードをスートごとに4つのファウンデーションパイルに、エースからキングまで昇順で移動すること。タブローでカードを戦略的に移動して新しい可能性を明らかにし、ゲームを完成させよう。"
+iframeSrc: "https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
+thumbnail: "/new-images/solitaire-klondike.jpg"
+urlstr: "solitaire-klondike"
+score: "3.9/5  (653 votes)"
+tags: ["card-game", "classic", "strategy"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: solitaire-klondike
-title: '[JA TRANSLATION NEEDED] Solitaire Klondike'
-description: >-
-  [JA TRANSLATION NEEDED] Play the classic game of Klondike Solitaire, the most
-  popular version of solitaire. The goal is to move all 52 cards into the four
-  foundation piles by suit, in ascending order from Ace to King. Strategically
-  move cards on the tableau to uncover new possibilities and complete the game.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
-thumbnail: /new-images/solitaire-klondike.jpg
-tags:
-  - card-game
-  - classic
-  - strategy
-score: 3.9/5  (653 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Klondike Solitaire is the most popular and well-known version of the single-player card game, often referred to simply as "Solitaire." Using a standard 52-card deck, the goal is to organize all the cards into four foundation piles, one for each suit, in ascending order. It's a game of patience, strategy, and a little bit of luck.
+Klondike Solitaireは、一人用カードゲームの中で最も人気があり有名なバージョンで、単に「Solitaire」と呼ばれることもよくあります。標準的な52枚のカードデッキを使用し、目標はすべてのカードを各スートごとに1つずつ、昇順で4つのファウンデーションパイルに整理することです。これは忍耐、戦略、そして少しの運のゲームです。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The main objective is to build four foundation piles, starting with the Ace and ending with the King for each suit (e.g., A♣, 2♣, 3♣...).
-- **Tableau:** You can move cards within the main playing area (the tableau) by stacking them in descending order (K, Q, J...) and alternating colors (e.g., a red 7 on a black 8).
-- **Revealing Cards:** When you move a face-up card, you can flip the face-down card beneath it.
-- **Stock Pile:** Draw cards from the stock pile to bring new cards into play via the waste pile.
-- **Empty Columns:** Only a King can be moved into an empty tableau column.
+主な目標は、各スートのエースから始まりキングで終わる4つのファウンデーションパイルを構築することです（例：A♣、2♣、3♣...）。
+- **タブロー：** メインプレイエリア（タブロー）内でカードを移動できます。降順（K、Q、J...）に重ね、色を交互にします（例：黒の8に赤の7）。
+- **カードを明らかにする：** 表向きのカードを移動すると、その下の裏向きのカードをめくることができます。
+- **ストックパイル：** ストックパイルからカードを引いて、ウェイストパイル経由で新しいカードをプレイに持ち込みます。
+- **空の列：** タブローの空の列にはキングのみを移動できます。
 
-### Controls Guide
+### 操作ガイド
 
-- **Mouse/Touch:** Click and drag cards to move them between piles. In most versions, you can also simply click a card, and it will automatically move to a valid position if one is available.
+- **マウス/タッチ：** カードをクリックしてドラッグし、パイル間で移動します。ほとんどのバージョンでは、カードをクリックするだけで、有効な位置があれば自動的にそこに移動します。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What is the difference between Klondike and other types of Solitaire?**
+**KlondikeとSolitaireの他のタイプとの違いは何ですか？**
 
-[JA TRANSLATION NEEDED] Klondike is the version most people know, characterized by its seven-column tableau and the goal of building up from Ace to King. Other versions like Spider or FreeCell have different rules and layouts.
+Klondikeは、7列のタブローとエースからキングまで積み上げる目標が特徴的な、ほとんどの人が知っているバージョンです。SpiderやFreeCellなどの他のバージョンは、異なるルールとレイアウトを持っています。
 
-[JA TRANSLATION NEEDED] **What does "Klondike" mean?**
+**「Klondike」とはどういう意味ですか？**
 
-[JA TRANSLATION NEEDED] The name is believed to have originated from the Klondike Gold Rush in Canada, possibly because the game was popular among prospectors.
+この名前は、カナダのクロンダイクゴールドラッシュに由来すると考えられており、おそらくこのゲームが鉱夫の間で人気があったためです。
 
-[JA TRANSLATION NEEDED] **Is every game of Klondike Solitaire winnable?**
+**Klondike Solitaireのすべてのゲームは勝てますか？**
 
-[JA TRANSLATION NEEDED] No, not every deal is winnable. The random shuffle of the cards means that some games are mathematically impossible to solve, which is part of the challenge.
-
+いいえ、すべての配置が勝てるわけではありません。カードのランダムなシャッフルは、一部のゲームが数学的に解決不可能であることを意味し、それがチャレンジの一部です。

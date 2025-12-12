@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: droid-o
-title: '[ES] Droid-O'
+title: "Droid-O"
 description: >-
-  [ES] Droid-O is a tight top‑down arena shooter — kite waves, chain ability
-  synergies, and survive escalating threats with precise movement.
+  Droid-O es un juego de disparos de arena en vista cenital, muy preciso: esquiva
+  oleadas de enemigos, encadena habilidades y sobrevive a amenazas cada vez mayores
+  moviéndote con precisión quirúrgica.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/droid-o.png
 tags:
@@ -15,55 +16,83 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Droid-O es un juego de disparos de arena en vista cenital, ágil y muy preciso, en
+el que pilotas un robot a través de oleadas de enemigos cada vez más densas. La
+clave está en moverte constantemente para mantener la distancia mientras apuntas
+y disparas, gestionar la munición o el sobrecalentamiento y usar habilidades como
+la esquiva rápida, el escudo o los drones en el momento justo. Los enemigos
+evolucionan de unidades cuerpo a cuerpo lentas a cargadores rápidos y amenazas a
+distancia que castigan las rutas predecibles. El éxito pasa por trazar recorridos
+seguros alrededor de la arena, eliminar primero los focos de presión y reservar
+tus tiempos de recarga para escapar de encerronas.
 
-### Detailed Game Introduction
+El escenario suele incluir elementos de entorno: pasillos estrechos, pilares
+para cortar la línea de visión y casillas peligrosas que dañan o ralentizan tanto
+a ti como a los enemigos. Aprovechar bien la cobertura y el terreno es tan
+importante como la puntería, sobre todo cuando aparecen múltiples tiradores.
 
-Droid-O is a compact, responsive top‑down arena shooter where you pilot a nimble robot through tightening survival waves. The core loop revolves around clean kiting (moving while firing without getting cornered), ammunition/overheat discipline, and situational ability use (dashes, shields, deployables). Enemies escalate from slow melee units to faster chargers and ranged threats that punish predictable paths. Success comes from carving safe orbits around the arena, thinning high‑pressure clusters first, and timing cooldowns to escape pinch points.
+### Estrategia y recorrido de juego
 
-The arena often includes environmental features — choke corridors, pillars for line‑of‑sight breaks, and hazard tiles that deal damage or slow both you and enemies. Efficient use of cover and terrain is as important as raw aim, especially once ranged enemies spawn.
+1.  **Haz círculos amplios, no pequeños:** Las trayectorias en círculos grandes te
+    dejan más margen de corrección que los bucles pequeños y nerviosos pegados
+    a las paredes.
+2.  **Prioriza objetivos:** Elimina primero cargadores rápidos y enemigos a
+    distancia; deja a los cuerpo a cuerpo lentos para el final.
+3.  **Disciplina con los tiempos de recarga:** Guarda la esquiva rápida y el
+    escudo para romper cercos; evita gastar tus dos "botones del pánico" a la
+    vez.
+4.  **Munición y calor:** Dispara ráfagas cortas y precisas; reutiliza coberturas
+    mientras el arma se enfría o recarga.
+5.  **Obligar al embudo:** Atrae grupos a pasillos estrechos para que las balas
+    atraviesen a varios enemigos; usa pilares para cortar la persecución.
+6.  **Economía de vida:** Solo toma disparos cuando sean realmente seguros; un
+    golpe en oleadas avanzadas suele encadenar errores.
 
-### Gameplay Strategy & Walkthrough
+### Construcciones y sinergias (cuando existan)
 
-1.  **[ES]** Kite wide, not tight: Large circular paths give more correction time than small, panicky loops.
-2.  **[ES]** Target priority: Eliminate fast chargers and ranged casters first; leave slow melee for cleanup.
-3.  **[ES]** Cooldown discipline: Save dash/shield to break encirclements; avoid blowing both escapes at once.
-4.  **[ES]** Ammunition/heat: Fire in short, accurate bursts; re‑engage while weapons cool or reload behind cover.
-5.  **[ES]** Funnel fights: Pull packs through narrow lanes so bullets pierce multiple targets; reset aggro lines with pillars.
-6.  **[ES]** Health economy: Take guaranteed safe shots; a single hit during late waves snowballs mistakes.
+- **Perforación + retroceso:** Los disparos perforantes son brutales en zonas
+  estrechas; el retroceso mantiene a los enemigos cuerpo a cuerpo fuera de
+  alcance.
+- **Lentitud + crítico:** Aplica ralentizaciones para alargar el tiempo que los
+  enemigos pasan en tu línea de fuego crítica.
+- **Drones desplegables:** Suéltalos antes de los giros de tu ruta de evasión
+  para que barran las filas de perseguidores.
 
-### Builds and Synergies (if available)
+### Guía de controles
 
-- Piercing + knockback: Piercing bullets gain huge value in choke fights; knockback keeps melee out of contact.
-- Slow + crit: Apply slows to create long exposure times for crit bursts.
-- Drone deployables: Drop drones before kite turns so they rake pursuing lines.
+- Movimiento: WASD/Flechas.
+- Apuntar: ratón o stick derecho.
+- Disparo: clic izquierdo o gatillo principal.
+- Habilidad/esquiva rápida: Espacio/E/Q (según la versión).
+- Pausa/Reintento: botones de interfaz.
 
-### Controls Guide
+### Consejos avanzados
 
-- Move: WASD/Arrows.  Aim: Mouse or right stick.  Fire: Left click/trigger.  Dash/Ability: Space/E/Q (varies by build).
-- Pause/Retry: UI buttons.
+- **Ruta de recogidas:** Diseña una ruta en forma de ocho que pase periódicamente
+  por munición y botiquines cuando reaparezcan.
+- **Romper línea de visión:** Escóndete tras pilares para obligar a los tiradores
+  a recolocarse, ganando tiempo para recargar.
+- **Ritmo de oleadas:** A veces conviene no matar tan rápido para agrupar
+  apariciones y luego limpiar a muchos enemigos de golpe con disparos perforantes.
 
-### Advanced Tips
+### Preguntas frecuentes (FAQ)
 
-- Pathing: Pre‑plan a figure‑eight route that revisits ammo/health pickups on cooldown.
-- LOS breaks: Step behind a pillar to force ranged foes to reposition, buying reload time.
-- Wave pacing: Throttle kill speed briefly to lump spawns together, then clear them with pierce lines.
+- **P: Siempre acabo acorralado, ¿cómo lo evito?**  
+  **R:** Evita girar en círculos pequeños cerca de los bordes. Traza arcos
+  amplios que crucen el centro de la arena, usa la esquiva rápida pronto por la rendija
+  más estrecha y apóyate en los pilares para cortar disparos enemigos.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿A quién debo eliminar primero?**  
+  **R:** A los cargadores rápidos y a los enemigos a distancia. Los cuerpo a
+  cuerpo lentos se pueden mantener a raya mientras limpias las amenazas
+  prioritarias.
 
-- Q: I keep getting cornered — how do I prevent this?
+- **P: Mi arma se sobrecalienta todo el rato, ¿qué hago?**  
+  **R:** Limita las ráfagas, muévete mientras enfría y, si el juego lo permite,
+  invierte en mejoras de eficiencia.
 
-A: Stop circling tightly near walls. Commit to wide arcs that cross the arena center, dash early through thinnest gaps, and use pillars to reset lines of sight.
-
-- Q: Which enemies should I kill first?
-
-A: Fast chargers and ranged units. Slow melee can be kited safely while you thin priority targets.
-
-- Q: My weapon overheats constantly — any fix?
-
-A: Fire in short bursts, reposition during cooldown, and stack efficiency upgrades if the mode supports them.
-
-- Q: Are deployables worth it?
-
-A: Yes — pre‑place them along your kite path so they fire as enemies chase, multiplying damage without extra risk.
-
+- **P: ¿Merece la pena usar desplegables?**  
+  **R:** Sí. Colócalos en tu ruta de escape para que disparen automáticamente a
+  los enemigos que te persiguen sin que tengas que exponerte más.

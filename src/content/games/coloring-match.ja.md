@@ -1,75 +1,50 @@
 ---
-locale: ja
-urlstr: coloring-match
-title: '[JA TRANSLATION NEEDED] Coloring Match'
-description: >-
-  [JA TRANSLATION NEEDED] Coloring Match teaches color mixing — blend paints to
-  match targets, manage hue/saturation, and refine with small tweaks.
+title: Coloring Match カラー・マッチ
+description: 「Coloring Match」は色混合の達人になるゲーム。絵の具を混ぜて手本と同じ色を作り出せ。色相、彩度、明度を調整する微細な感覚が試される。
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/coloring-match.jpg
+urlstr: coloring-match
+score: 4.1/5  (1968 votes)
 tags:
   - puzzle
   - casual
   - thinky
-score: 4.1/5  (1968 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Coloring Match（カラー・マッチ）*は、ターゲットの色を再現するために絵の具を混ぜ合わせる、カラーミキシングゲームです。三原色を混ぜ、黒と白で明るさや鮮やかさを調整して、お手本の色と完全に一致させることを目指します。
+色相（色味）が合っていても、彩度（鮮やかさ）や明度（明るさ）が少しでも違うとクリアできません。微妙な色の違いを見分ける能力と、大胆かつ繊細なブレンドテクニックが要求されます。
 
-[JA TRANSLATION NEEDED] Coloring Match asks you to reproduce a target color by mixing primaries and adjusting brightness/saturation. Subtle differences matter: overshooting saturation or value can miss the goal even if the hue matches.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **まずは色相から:** 色相環をイメージして、赤、青、黄などのベースカラーを混ぜ、ターゲットの「色味」に近づけることから始めましょう。
+2.  **微調整:** 色味が近づいたら、白や黒を少しずつ足して明るさや濃さを調整します。一気に混ぜると色が濁ったり、行き過ぎたりするので注意が必要です。
+3.  **比較する:** 画面上でターゲットの色と自分の色が隣り合って表示される場合、境界線が見えなくなるくらいまで一致させるのが理想です。
+4.  **リセットを活用:** いろいろ混ぜすぎて色が汚く（濁って）なってしまったら、無理に修正しようとせず「アンドゥ（戻る）」やリセットを使った方が早いです。
+5.  **補色を知る:** 鮮やかすぎる色を落ち着かせたいときは、補色（反対側の色）を少し混ぜると彩度を下げてグレーに近づけることができます。
 
-[JA TRANSLATION NEEDED] 1.  Match hue first (color wheel), then adjust saturation and value.
-[JA TRANSLATION NEEDED] 2.  Make small changes near the target; big swings overshoot.
-[JA TRANSLATION NEEDED] 3.  Compare under the same lighting/background if the UI offers it.
-[JA TRANSLATION NEEDED] 4.  Use undo/reset when the mix gets muddy.
-[JA TRANSLATION NEEDED] 5.  Learn complementary pairs to neutralize tints.
+### 操作ガイド
 
-### Controls Guide
+*   **混合:** 画面上の絵の具チューブやスライダーを操作して色を足していきます。
+*   **確認:** 納得がいったら「比較」や「完了」ボタンを押して判定を受けます。
 
-- Drag sliders or mix paint amounts; preview updates live.
-- Confirm when your color matches the target within tolerance.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 色は合っているはずなのにクリアになりません。**
 
-- Q: Hue matches but still fails — why?
-  
-[JA TRANSLATION NEEDED]   A: Saturation or value is off. Lower saturation to gray it out or raise value for brightness.
-
-- Q: Any shortcut for brown/gray?
-  
-[JA TRANSLATION NEEDED]   A: Mix complementary colors to neutralize toward brown/gray, then adjust value.
-
-- Q: Do tiny tweaks matter?
-  
+A: Saturation or value is off. Lower saturation to gray it out or raise value for brightness.
+- **A:** 明るさ（明度）か鮮やかさ（彩度）がズレています。白を混ぜて明るくするか、黒を混ぜて暗くするか、または元の色を足して鮮やかさを戻してみてください。
 
 
-
-
-
-- Q: Hue matches but still fails — why?
-### よくある質問（FAQ）
-- Confirm when your color matches the target within tolerance.
-- Drag sliders or mix paint amounts; preview updates live.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Yes — near the goal, use small slider nudges for precision.
-
-
-
-
-
+A: Mix complementary colors to neutralize toward brown/gray, then adjust value.
+*   **Q: グレーや茶色を作るには？**
 
 A: Yes — near the goal, use small slider nudges for precision.
-- Q: Do tiny tweaks matter?
-A: Mix complementary colors to neutralize toward brown/gray, then adjust value.
-- Q: Any shortcut for brown/gray?
+    *   **A:** 補色同士（赤と緑、青とオレンジなど）を混ぜると茶色やグレーに近い色になります。そこから白黒で調整します。
 
-
-
-
-A: Yes — near the goal, use small slider nudges for precision.
-- Q: Do tiny tweaks matter?
-A: Mix complementary colors to neutralize toward brown/gray, then adjust value.
+*   **Q: 完璧に合わせる必要がありますか？**
+    *   **A:** ある程度の許容範囲（トレランス）はありますが、レベルが上がるにつれて判定は厳しくなります。最後の微調整が勝負です。

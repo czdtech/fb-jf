@@ -1,74 +1,49 @@
 ---
-locale: ja
-urlstr: color-jump
-title: '[JA TRANSLATION NEEDED] Color Jump'
-description: >-
-  [JA TRANSLATION NEEDED] Color Jump is a one‑tap runner — match colors, time
-  jumps, and thread through shifting patterns.
+title: Color Jump カラー・ジャンプ
+description: 「Color Jump」はワンタップで遊べるランアクション。色を合わせ、ジャンプのタイミングを見極め、変化するパターンをすり抜けよう。
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/color-jump.png
+urlstr: color-jump
+score: 3.9/5  (1691 votes)
 tags:
   - action
   - casual
-score: 3.9/5  (1691 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Color Jump（カラー・ジャンプ）*は、ミニマルなデザインとシンプルな操作性が魅力の反射神経ゲームです。キャラクターは「同じ色のゲート」や「プラットフォーム」だけを通過したり着地したりできます。
+プレイヤーはタイミングよくジャンプして、キャラクターの色と障害物の色を合わせながら進んでいきます。速度が上がるにつれて複雑になるパターンを読み切り、リズムを崩さずに走り続けましょう。
 
-[JA TRANSLATION NEEDED] Color Jump is a minimalist reflex game where your character can pass only through matching‑color gates or platforms. Time jumps to align colors, avoid mismatched barriers, and maintain rhythm as speed increases.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **2つ先を見る:** 目の前の障害物だけに集中せず、常に2つ先の障害物を見てジャンプのリズムを準備しましょう。
+2.  **一定のリズム:** タップのテンポを一定に保つことが重要です。低めの障害物を避ける時は、あえて少し遅らせてジャンプするなどの微調整が必要です。
+3.  **コインは無理しない:** コインを取ろうとして態勢を崩すのはよくあるミスです。配置が難しい時はコインを無視して生存を優先しましょう。
+4.  **パターンの学習:** 色の切り替わりには一定のパターンがある場合があります。それを覚えると予測しやすくなります。
+5.  **音を聞く:** 密集した障害物を抜ける時は、BGMや効果音のリズムに合わせるとタイミングがとりやすい場合があります。
 
-[JA TRANSLATION NEEDED] 1.  Read two obstacles ahead; don’t fixate on the nearest gate.
-[JA TRANSLATION NEEDED] 2.  Keep a steady tap cadence; late jumps often dodge low obstacles better.
-[JA TRANSLATION NEEDED] 3.  Skip risky coins when alignment is off.
-[JA TRANSLATION NEEDED] 4.  Practice color order patterns if they loop.
-[JA TRANSLATION NEEDED] 5.  Use sound cues to stabilize timing on dense sets.
+### 操作ガイド
 
-### Controls Guide
+*   **ジャンプ:** 画面をクリック（タップ）するとジャンプします。バージョンによってはダブルクリックで2段ジャンプが可能です。
+*   **メニュー:** UIから一時停止やリスタートが選べます。
 
-- Tap/Click to jump; some variants allow double jumps.
-- Pause/Restart via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: いつも違う色にぶつかってしまいます。**
 
-- Q: I always hit the wrong color — any fix?
-  
-[JA TRANSLATION NEEDED]   A: Focus on the next two gates and time jumps slightly later to line up with high platforms.
-
-- Q: Is there an end?
-  
-[JA TRANSLATION NEEDED]   A: Often endless; set personal bests.
-
-- Q: Double jump?
-  
+A: Focus on the next two gates and time jumps slightly later to line up with high platforms.
+- **A:** 目線が近すぎる可能性があります。もう少し先を見て、高いプラットフォームに合わせるためにジャンプのタイミングを少し遅らせるなど工夫してみましょう。
 
 
-
-
-
-- Q: I always hit the wrong color — any fix?
-### よくある質問（FAQ）
-- Pause/Restart via UI.
-- Tap/Click to jump; some variants allow double jumps.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Some builds include it; watch the tutorial prompt.
-
-
-
-
-
+A: Often endless; set personal bests.
+*   **Q: ゴールはありますか？**
 
 A: Some builds include it; watch the tutorial prompt.
-- Q: Double jump?
-A: Often endless; set personal bests.
-- Q: Is there an end?
+    *   **A:** 基本的にはエンドレスゲームで、どれだけ進めるか（ハイスコア）を競います。
 
-
-
-
-A: Some builds include it; watch the tutorial prompt.
-- Q: Double jump?
-A: Often endless; set personal bests.
+*   **Q: 2段ジャンプはできますか？**
+    *   **A:** ゲームのバリエーションによります。チュートリアルで指示があるか、最初の数回試してみて可能か確認してください。

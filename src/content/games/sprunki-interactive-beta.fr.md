@@ -1,10 +1,12 @@
 ---
 locale: fr
 urlstr: sprunki-interactive-beta
-title: '[FR] Sprunki Interactive BETA - Play Sprunki Interactive BETA Online'
+title: Sprunki Interactive BETA - Jouer à Sprunki Interactive BETA en ligne
 description: >-
-  [FR] Sprunki Interactive BETA is not just a simple upgrade to the Sprunki
-  game, it
+  Sprunki Interactive BETA n’est pas une simple mise à jour de Sprunki, mais une
+  expérience expérimentale qui ajoute des déplacements dynamiques, des
+  collisions imprévisibles et une bonne dose de chaos contrôlé à la formule
+  musicale classique.
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
 thumbnail: /sprunki-interactive-beta.png
 tags:
@@ -12,33 +14,55 @@ tags:
 score: 4.0/5  (407 votes)
 ---
 
+### Qu’est‑ce que Sprunki Interactive BETA ?
+
+Sprunki Interactive BETA réinvente la façon de jouer avec Sprunki. Au lieu de
+personnages statiques rangés en ligne, tu contrôles un monde vivant où les
+avatars se déplacent en continu, se percutent, se croisent et déclenchent des
+sons de façon dynamique. Le résultat : une sorte de laboratoire sonore où
+chaque partie est différente.
+
+### Les fonctionnalités clés de Sprunki Interactive BETA
+
+- **Personnages en mouvement permanent :** les avatars ne restent plus
+  immobiles, ils traversent l’écran, se poursuivent et créent un joyeux
+  désordre.
+- **Interactions imprévisibles :** quand deux personnages se rencontrent ou se
+  percutent, ils déclenchent des effets sonores spéciaux et des variations
+  surprenantes.
+
+---
+
+### Comment se joue Sprunki Interactive BETA ?
+
+Au départ, l’univers est coloré, lumineux et plein de charme. Tu fais la
+connaissance de trois personnages principaux :  
+Durple, une créature jaune avec des antennes ; Brud, un personnage violet
+ailé ; et Oren, un être rose aux oreilles de chat. Chacun dispose de son
+propre minuteur (vitesse, errance, comportement) que tu peux ajuster pour
+gérer leurs actions.
+
+Peu à peu, l’ambiance change. Les mêmes personnages mignons commencent à se
+déformer et à adopter des formes monstrueuses. Le paysage vert et accueillant
+s’assombrit, les couleurs virent au cauchemar et le son devient plus inquiétant.
+Oren et Brud prennent des allures sanglantes et dérangeantes, tandis que les
+réglages de Durple peuvent déclencher une transformation encore plus sinistre.
+
+Cette transition progressive du mignon vers l’horreur donne une tension
+particulière au jeu. Tu jongles entre gestion du chaos, expérimentation
+musicale et atmosphère angoissante. Saura‑tu garder le contrôle avant que la
+transformation ne prenne totalement le dessus ?
+
+### Pourquoi essayer Sprunki Interactive BETA ?
+
+- Évolution originale du gameplay Sprunki
+- Mouvements dynamiques et imprévus des personnages
+- Interactions sonores émergentes à chaque collision
+- Ambiance qui bascule progressivement du coloré au horrifique
 
 
-### What is Sprunki Interactive BETA?
-
-Sprunki Interactive BETA is not just a simple upgrade to the Sprunki game, it's an innovative attempt to break the rules. It injects dynamic character movements and unpredictable interactions into the vibrant Sprunki gameplay, completely subverting the familiar world.
-
-### The Core Features of Sprunki Interactive BETA:
-
-- **Dynamic Character Movement:** Unlike traditional fixed models, the characters in Sprunki Interactive BETA are constantly moving across the screen, creating an exciting chaos.
-- **Unpredictable Interactions:** When these vibrant characters (including Sprunki and other partners) collide or interact, they generate unique sounds, creating a spontaneous and ever-changing soundscape.
-
-
-### How to Play the Game:
-
-In Sprunki Interactive BETA, the world starts out bright, colorful, and full of charm. You’re introduced to three lovable characters: Durple, a yellow creature with antennae; Brud, a purple character with wings; and Oren, a pink being with cat ears. Each character is equipped with its own timer: Durple's speed timer, Brud's wandering timer, and Oren's behavior timer. As a player, your task is to manage these timers effectively, adjusting them to ensure that each character's actions are executed at just the right moment.
-
-However, as you manipulate these cute pets, the gameplay takes a surprising turn. You're initially managing bright and adorable creatures, but as time passes, the game gradually shifts. The same characters that were once full of life and color start morphing into grotesque, monstrous versions of themselves. What was a bright, green landscape turns darker, with ominous tones creeping in. Characters like Oren and Brud shift from cute, innocent designs into nightmarish versions—bloody, eerie, and unsettling. Durple's speed timer could even be the trigger for his transformation into a more sinister form, further changing the environment around him.
-
-This eerie transition adds a layer of intensity to the gameplay, combining playful interaction with spine-chilling moments. As you adjust the timers and manage the chaos, you must face the growing horror that lurks beneath the surface of this seemingly innocent game. Can you keep your characters in check before the transformation takes over completely?
-
-### Highlights of Sprunki Interactive BETA:
-
-- Fresh and lively evolution of Sprunki gameplay
-- Dynamic character movements introduced
-- Unpredictable interactions throughout gameplay
-- Unique sounds from character collisions
 - Unique sounds, animations, and rhythms added to your worldview with a lot of creativity and imagination
+Plonge dans Sprunki Interactive BETA et laisse ce chaos musical t’inspirer.
+Seuls les joueurs les plus stratèges réussiront à garder l’équilibre entre
+mignonnerie et terreur.
 
-
-So, dive into Sprunki Interactive BETA and let the chaos of sound and movement inspire your next musical masterpiece! Only the most strategic players can control the balance between cuteness and terror.

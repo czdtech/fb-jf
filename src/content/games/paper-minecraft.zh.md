@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: paper-minecraft
-title: '[ZH TRANSLATION NEEDED] Paper Minecraft'
+title: "《Paper Minecraft》纸片版我的世界"
 description: >-
-  [ZH TRANSLATION NEEDED] Paper Minecraft is a 2D re-imagining of the popular
-  sandbox game, offering players a side-scrolling world to explore, mine
-  resources, craft items, build structures, and survive against monsters.
+  《Paper Minecraft》是人气沙盒游戏《Minecraft》的 2D 侧视再创作版本，你可以在纸片风格的横版世界中探索、挖矿、合成道具、建造房屋并对抗怪物，体验不一样视角的生存与创造乐趣。
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/paper-minecraft.jpg
 tags:
@@ -18,32 +16,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Paper Minecraft" is a 2D re-imagining of the popular sandbox game "Minecraft," offering players a side-scrolling world to explore, mine resources, craft items, build structures, and survive against various monsters. This game retains the core gameplay of the original while providing a unique experience from a 2D perspective.
+《Paper Minecraft》是《Minecraft（我的世界）》的 2D 侧滚视角改编作品。虽然从 3D 变成了横版“纸片世界”，但依旧保留了挖矿、合成、建造与生存等核心玩法：你可以在地表砍树、在地下挖矿，收集各种资源，再通过工作台和熔炉合成工具、武器和建筑方块，建造自己的基地，同时在夜晚警惕僵尸、骷髅等怪物的袭击。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Gather Resources**: Chop trees for wood, mine underground for ores, which are fundamental materials for building and crafting.
-2.  **Craft Items**: Use a crafting table and furnace to process collected resources into tools, weapons, blocks, and other useful items.
-3.  **Build Shelter**: Building a safe base is a priority for survival, especially at night to fend off attacks from zombies, skeletons, and other monsters.
-4.  **Explore and Discover**: Explore different biomes, discover hidden caves, treasures, and resource points.
-5.  **Farming and Animal Husbandry**: Grow crops for food, and raise animals to provide meat, leather, and other resources.
+1.  **开局收集资源：** 和原版一样，建议先砍树获得木材，制作最基础的木质工具，随后挖掘石头、煤炭等，为铁器时代打下基础。
+2.  **利用合成系统：** 通过工作台与熔炉，将原材料合成为更高级的工具、武器、盔甲以及各种建筑方块，使挖矿与战斗更高效。
+3.  **优先建造安全据点：** 夜晚会刷新僵尸、骷髅、苦力怕等敌对生物，尽早搭建一间封闭小屋或地下避难所，放置床、箱子与火把，保证安全与物资存放。
+4.  **探索不同区域：** 侧视地图同样存在不同地形与矿脉，深入地下可以找到铁、金甚至更稀有的资源，地表也可能刷新宝箱或特殊地形。
+5.  **发展农业与畜牧：** 种植小麦、胡萝卜等作物提供稳定食物来源，同时圈养牛羊猪等动物获取肉类与皮革、羊毛等材料。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Use A/D keys or left/right arrow keys to control horizontal character movement.
-*   **Jump**: Use the W key or up arrow key to jump.
-*   **Break/Collect**: Place the mouse pointer over a block, then click the left mouse button to break and collect it.
-*   **Place Blocks**: Select a block from your inventory, then click the right mouse button to place it.
-*   **Open Inventory/Crafting**: Use the E key to open your inventory, manage items, and craft.
+*   **移动：** 使用 A/D 或左右方向键控制角色水平移动。
+*   **跳跃：** 使用 W 或上方向键进行跳跃，帮助跨越地形或爬上高处。
+*   **破坏/采集：** 将鼠标指针移动到目标方块上，点击左键即可破坏并采集该方块（前提是使用了合适的工具）。
+*   **放置方块：** 在物品栏中选中方块后，右键点击目标位置即可放置。
+*   **打开背包与合成：** 按 E 键打开物品栏，管理物品并进行基础合成操作。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What are the main differences between "Paper Minecraft" and the original "Minecraft"?**
-     **A**: The main differences are in perspective and dimension. Paper Minecraft is a 2D side-scrolling game, while the original Minecraft is a 3D open-world game, but the core sandbox, building, and survival gameplay are similar.
-2.  [ZH TRANSLATION NEEDED] **Q: What are the common monsters in the game?**
-     **A**: Common monsters include zombies, skeletons, Creepers, etc., which spawn and attack players at night or in dimly lit areas.
-3.  [ZH TRANSLATION NEEDED] **Q: How do I craft more powerful tools and weapons?**
-     **A**: By collecting higher-tier ores (e.g., iron, diamond) and processing them in a crafting table and furnace, you can create more durable and powerful tools and weapons.
-4.  [ZH TRANSLATION NEEDED] **Q: Does the game have dimensions like "The Nether" or "The End"?**
-     **A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.
+### 常见问题
+
+1.  **问：《Paper Minecraft》和原版《Minecraft》有什么主要区别？**
+    **答：** 最大区别在于视角和维度：前者是 2D 横版侧视、地图结构相对更平面化，后者则是 3D 立体开放世界。但在资源采集、合成与生存建造等核心机制上，两者有许多共通之处。
+2.  **问：游戏里有哪些常见怪物？**
+    **答：** 与原版类似，会出现僵尸、骷髅、苦力怕等敌对生物，它们通常在夜间或阴暗区域刷新，需要用武器、盔甲和光源来应对。
+3.  **问：如何获得更强的工具和武器？**
+    **答：** 通过下矿挖掘铁矿、金矿甚至更高阶矿石，并在熔炉中冶炼，再配合工作台配方合成更高级的镐、剑以及护甲。
+4.  **问：有没有下界（Nether）或末地（The End）之类的维度？**
+    **答：** 作为 2D 再创作版本，通常不会完整复刻原版所有维度系统，不过部分版本可能通过特殊地图或关卡形式，提供类似的进阶挑战体验。

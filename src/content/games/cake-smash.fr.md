@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: cake-smash
-title: '[FR] Cake Smash'
-description: >-
-  [FR] Match and smash delicious cakes in Cake Smash, a fun and addictive
-  match-3 puzzle game.
+title: Cake Smash
+description: "Cake Smash est un match‑3 gourmand\_: échange des gâteaux adjacents pour aligner des lignes savoureuses, créer des gâteaux spéciaux et remplir les objectifs de chaque niveau."
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/cake-smash.png
 tags:
@@ -15,28 +13,46 @@ score: 4.3/5 (1543 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+*Cake Smash* est un jeu de match‑3 coloré : échange deux gâteaux voisins pour former des lignes d’au moins trois gâteaux identiques, qui explosent en laissant place à de nouveaux. Chaque niveau impose un objectif : score à atteindre, types de gâteaux à collecter, obstacles à casser, etc.
+
+### Guide de jeu
+
+1. **Repère rapidement les matches simples**  
+   Commence par les alignements évidents pour dégager le plateau.
+
+2. **Crée des gâteaux spéciaux**  
+- 4 en ligne : gâteau rayé qui nettoie une ligne ou colonne.  
+- 5 ou formes spéciales : gâteaux plus puissants qui peuvent effacer une couleur entière ou de grandes zones.
+
+3. **Combine les spéciaux**  
+   Échanger deux gâteaux spéciaux entre eux déclenche souvent un effet massif, utile pour les niveaux difficiles.
+
+4. **Joue pour l’objectif, pas pour le style**  
+   Si le niveau te demande un type de gâteau ou une zone spécifique, concentre tes coups dans ces secteurs.
+
+### Commandes
+
+- Souris / tactile : clique ou tape sur un gâteau, puis sur un voisin pour les échanger (si l’échange crée un match).
 
 
 
-### Detailed Game Introduction
+    - **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
 
-Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to swap adjacent cakes to create lines of three or more identical cakes, which then get "smashed" and removed from the board, with new cakes falling into place. Each level has a specific goal, such as reaching a certain score or clearing a certain number of a specific type of cake.
+- **Q: How do I beat difficult levels?**
 
-### Gameplay Strategy & Walkthrough
+    - **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
 
-1.  **[FR]** **Identify Matches:** Look for opportunities to match three or more identical cakes by swapping two adjacent cakes.
-2.  **[FR]** **Create Special Cakes:** Matching four or five cakes at once will often create a special cake with powerful clearing abilities. For example, a striped cake might clear a whole row or column.
-3.  **[FR]** **Combine Special Cakes:** For even bigger effects, try to swap two special cakes with each other.
-4.  **[FR]** **Focus on the Objective:** Pay attention to the level's goal. Sometimes you need to focus on clearing specific tiles or reaching a score target within a limited number of moves.
+- **Q: What do the special cakes do?**
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Mouse/Touch:** Use the mouse or touch screen to click and drag or tap on adjacent cakes to swap them.
 
-### Frequently Asked Questions (FAQ)
+- **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
 
-*   **[FR]** **Q: What do the special cakes do?**
-    *   **[FR]** **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-*   **[FR]** **Q: How do I beat difficult levels?**
-    *   **[FR]** **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
+    - **Q: How do I beat difficult levels?**
 
+- **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
+
+    - **Q: What do the special cakes do?**

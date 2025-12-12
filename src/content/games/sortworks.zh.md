@@ -1,47 +1,47 @@
 ---
 locale: zh
 urlstr: sortworks
-title: '[ZH TRANSLATION NEEDED] SortWorks'
-description: >-
-  [ZH TRANSLATION NEEDED] SortWorks is a clean sort‑and‑stack puzzler — organize
-  items by rules, plan buffers, and avoid deadlocks under rising pressure.
-iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
+title: 《SortWorks》多列颜色排序
+description: 《SortWorks》是一款瓶装/列式的颜色排序益智游戏。通过在不同列之间倒换彩色元素，把同色块整理到同一列中，考验你的规划与空间管理能力。
+iframeSrc: 'https://sortworks.h5games.usercontent.goog/v/3o6mp3ahks0oo/'
 thumbnail: /new-images/sortworks.png
 tags:
   - puzzle
-  - thinky
+  - sorting
   - casual
-score: 4.0/5  (1889 votes)
+score: 4.0/5  (1700 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] SortWorks blends visual sorting with bin constraints (color/shape/type). Items arrive on belts; you must route them to correct bins, using buffer slots to prevent jams. Late boards raise speed and add tricky categories.
+《SortWorks》延续了热门“倒瓶子/颜色排序”类游戏的核心玩法。屏幕上会出现多个装满彩色方块或液体的列，每列可容纳的格数有限，你一次只能把最上层的一段颜色挪到另一列顶部。目标是在不给任意一列“挤爆”的前提下，通过不断搬移，让每一列最终只留下同一种颜色。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Rule hierarchy: Apply critical rules first (e.g., hazard vs non‑hazard) then fine categories.
-2.  [ZH TRANSLATION NEEDED] Buffer discipline: Keep at least one buffer slot free at all times.
-3.  [ZH TRANSLATION NEEDED] Batch easy items: Chain streaks on simple categories to maintain multipliers.
-4.  [ZH TRANSLATION NEEDED] Error cost: Skip uncertain items rather than mis‑sort.
-5.  [ZH TRANSLATION NEEDED] Eye flow: Scan ahead of the belt; don’t tunnel on the nearest item.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **先找“纯色列”与“缓冲列”：** 早期优先把已经接近纯色的列整理干净，并留出至少一列尽量空的作为临时缓冲用。这样后续移动会轻松很多。
+2.  **从底色开始规划：** 思考每种颜色最终要落在哪一列，再围绕“目标列”逐层把同色块搬过去，避免随意移动造成反复返工。
+3.  **避免无意义来回搬运：** 每次移动前先想清楚这一步是否明确接近最终解，而不是只是“腾个地方”。无谓的往返会让局面越来越乱。
+4.  **遇到卡局要敢于回退：** 如果发现某种颜色被压在难以处理的位置，可以尝试倒回前几步，重新调整缓冲列和目标列的分配策略。
 
-- Drag/tap items to bins; pause/retry via UI; hints may highlight targets.
 
-### Frequently Asked Questions (FAQ)
+- Eye flow: Scan ahead of the belt; don’t tunnel on the nearest item.
+### 操作说明
+
+*   **选择与倒入：** 点击某一列的顶部颜色，再点击目标列，即可将能倒出的那段颜色转移过去（前提是目标列还有空间且顶部颜色兼容规则允许）。
+
+### 常见问题解答（FAQ）
+
 
 - Q: I jam belts.
-  
-[ZH TRANSLATION NEEDED]   A: You’re consuming buffers; clear an easy batch to reopen space before tackling hard items.
+**问：为什么经常出现“死局”？****
 
 - Q: Similar icons confuse me.
-  
-[ZH TRANSLATION NEEDED]   A: Learn 2–3 anchor features per category (shape/edge/color) and sort by those first.
+答：** 通常是因为中途没有留出足够缓冲列，或者过早把多种颜色堆叠在同一列底部，导致上层无法拆解。可以尝试重开或多利用撤销功能调整思路。
+
 
 - Q: Do streaks matter?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — streaks boost scores; feed them with easy items.
+**问：有没有通用解题套路？****
+答：** 较通用的方法是：先锁定一种颜色做到底，把它完全收纳到某一列后再处理下一种，同时始终保证至少保留 1–2 列用于周转。
 

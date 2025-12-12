@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: match-puzzle-house
-title: '[ES] Match Puzzle House'
+title: "Match Puzzle House - Combina y reforma tu casa"
 description: >-
-  [ES] Match Puzzle House is a home‑makeover match‑3 — complete goals, earn
-  stars, and renovate rooms with smart booster usage.
+  Match Puzzle House combina partidas de mach-3 con decoración del hogar: cumple
+  objetivos, gana estrellas y renueva habitaciones usando potenciadores con
+  cabeza.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/match-puzzle-house.png
 tags:
@@ -16,35 +17,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Match Puzzle House mezcla el clásico mach-3 con la renovación de interiores.
+Limpia bloqueos, recoge los objetos objetivo dentro del límite de movimientos y
+usa las estrellas para decorar. Los potenciadores y las combinaciones entre
+ellos son la clave para superar los tableros más cargados.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear blockers, collect items within move caps, and spend stars on decor. Boosters and power‑up merges are key on dense layouts.
+1.  Control del centro: abre primero la zona central para ganar espacio de
+    combos.
+2.  Combinar con inteligencia: reserva bombas, rayos y limpiadores de color
+    para niveles con objetivos difíciles.
+3.  Economía de estrellas: gasta estrellas en desbloquear opciones de
+    potenciadores cuando te encalles en un nivel.
+4.  Cuidar los bordes: evita dejar colores aislados en las paredes del tablero.
+5.  Plan a dos turnos: piensa siempre en la siguiente jugada para no romper una
+    buena preparación.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Central control: Open the middle first for combo space.
-2.  **[ES]** Merge smart: Save bomb/line/color clears for tight goals.
-3.  **[ES]** Star economy: Spend stars to unlock booster slots when stuck.
-4.  **[ES]** Edge awareness: Don’t strand colors on walls.
-5.  **[ES]** Two‑turn plans: Map your next move to avoid breaking setups.
+- Arrastra para intercambiar fichas adyacentes; activa los potenciadores desde
+  la interfaz; decora las habitaciones entre partidas.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to swap; use boosters via UI; decorate rooms between levels.
+- P: Me he quedado atascado en un nivel con cadenas.  
+  R: Prioriza detonaciones junto a las cadenas; los rayos que las atraviesan
+  ayudan a romperlas rápido.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Las reformas influyen en las partidas?  
+  R: Principalmente son cosméticas, aunque algunas decoraciones pueden
+  desbloquear recompensas de progresión.
 
-- Q: I’m stuck on a chain level.
-
-A: Prioritize detonations adjacent to chains; lines through chains speed clears.
-
-- Q: Do renovations help in‑game?
-
-A: Mostly cosmetic; some unlock progression rewards.
-
-- Q: Best generic booster?
-
-A: Color clear to reshape stubborn boards.
-
+- P: ¿Cuál es el mejor potenciador genérico?  
+  R: El limpiador de color, porque permite remodelar un tablero que se ha
+  quedado atascado.

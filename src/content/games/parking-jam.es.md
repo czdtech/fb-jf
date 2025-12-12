@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: parking-jam
-title: '[ES] Parking Jam'
+title: "Parking Jam - Desatasca el aparcamiento"
 description: >-
-  [ES] Parking Jam is a spatial slider — move cars in sequence, free the exit
-  lane, and solve compact lots with minimal moves.
+  Parking Jam es un rompecabezas espacial tipo "Rush Hour": mueve los coches en
+  secuencia, libera el carril de salida y resuelve aparcamientos compactos con
+  el mínimo de movimientos.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/parking-jam.png
 tags:
@@ -15,35 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Parking Jam es un puzle al estilo Rush Hour: debes deslizar los coches a lo
+largo de sus carriles para abrir camino al vehículo objetivo. En los niveles
+avanzados el aparcamiento se llena de coches de distintas longitudes, flechas de
+un solo sentido y bloqueadores que obligan a seguir un orden de movimientos muy
+concreto.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear the path for the target vehicle. Higher levels cram lots with multi‑length cars, one‑way arrows, and blockers requiring precise order of operations.
+1.  **Trabajar desde la salida hacia atrás:** analiza primero el carril de
+    salida y detecta qué coches bloquean realmente el avance del vehículo
+    principal.
+2.  **Minimizar movimientos inútiles:** prioriza los desplazamientos que
+    desbloquean a varios coches a la vez en vez de "mover por mover".
+3.  **Crear un carril de buffer:** libera pronto un carril auxiliar donde puedas
+    aparcar coches temporalmente mientras reorganizas el resto.
+4.  **Aparcar los no esenciales:** mueve los coches que no son críticos hacia
+    zonas muertas del tablero para mantener despejados los pasillos clave.
+5.  **Deshacer a tiempo:** si notas que das vueltas sin avanzar, usa deshacer
+    antes de encadenar demasiados movimientos inútiles y prueba una ruta
+    distinta.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Goal backchain: Work backward from the exit to identify cars that truly gate progress.
-2.  **[ES]** Minimal moves: Prefer moves that unlock multiple vehicles rather than local shuffles.
-3.  **[ES]** Buffer lanes: Open a buffer lane early to allow deeper rearrangements.
-4.  **[ES]** Priority stack: Park non‑critical cars in dead zones to keep corridors free.
-5.  **[ES]** Undo early: If progress stalls, rewind before the last “dead shuffle” and choose a different unlock.
+- Arrastra los coches a lo largo del eje permitido (solo en la dirección en la
+  que están orientados); usa los botones de deshacer o reinicio de la interfaz
+  para corregir o empezar de nuevo.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag cars along permitted axes; undo/reset via UI.
+- **P: Muevo coches y coches pero no avanzo, algún consejo?**  
+  **R:** Replantea qué vehículo está bloqueando de verdad la salida y busca un
+  movimiento que libere a varios coches, no solo uno.
 
-### Frequently Asked Questions (FAQ)
+- **P: Se pueden mover los coches en diagonal?**  
+  **R:** No, solo pueden deslizarse a lo largo de su propia longitud.
 
-- Q: I spin wheels with no progress — advice?
-
-A: Reassess which car blocks the exit chain; find a move that frees multiple cars.
-
-- Q: Are diagonal moves allowed?
-
-A: No — cars slide only along their length.
-
-- Q: Any hints?
-
-A: Many versions include step‑wise hints; use sparingly to preserve challenge.
-
+- **P: Hay sistema de pistas?**  
+  **R:** Muchas versiones incluyen pistas paso a paso; úsalas con moderación si
+  quieres mantener el reto.

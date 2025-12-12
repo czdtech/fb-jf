@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: merge-heroes
-title: '[FR] Merge Heroes'
+title: Merge Heroes
 description: >-
-  [FR] The ultimate merge-and-battle strategy game! Combine heroes to forge a
-  powerful army, deploy them on the battlefield, and defend your kingdom from
-  waves of monsters.
+  Le jeu de stratégie de fusion et de bataille ultime ! Combine des héros pour
+  forger une armée puissante, déploie‑les sur le champ de bataille et défends
+  ton royaume contre des vagues de monstres.
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/merge-heroes.png
 tags:
@@ -13,39 +13,41 @@ tags:
   - action
   - puzzle
 score: 4.4/5  (2350 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Merge Heroes est un mélange accrocheur de puzzle de fusion et de stratégie auto‑battle. Tu dois défendre ton royaume contre des hordes de monstres en construisant une armée de héros. Tu recrutes d’abord des héros de base, puis tu fusionnes deux héros identiques pour les faire évoluer en guerriers beaucoup plus puissants. Place ensuite tes unités sur le champ de bataille et regarde‑les repousser automatiquement vague après vague.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Acheter et fusionner :** dépense ton or pour acheter des héros de base qui apparaissent sur la grille de réserve, puis fais glisser un héros sur un autre identique pour les fusionner en une version de niveau supérieur.
+2.  **Déployer ton armée :** fais glisser tes meilleurs héros depuis la réserve vers la grille de combat. Une fois placés, ils attaquent automatiquement les ennemis qui entrent dans leur portée. Les emplacements étant limités, choisis soigneusement qui reste en première ligne.
+3.  **Composer ta formation :** mélange des héros de mêlée (comme les chevaliers) à l’avant pour bloquer les ennemis, et des tireurs à distance (archers, mages) à l’arrière pour infliger des dégâts constants.
+4.  **Gérer ton or :** tu gagnes de l’or au fil des vagues. Réinvestis‑le rapidement dans l’achat de nouveaux héros afin de pouvoir continuer à fusionner et à suivre la montée en puissance des monstres.
 
-Merge Heroes is a captivating blend of merge-puzzle mechanics and auto-battle strategy. In this game, you are tasked with defending your kingdom from hordes of monsters. You build your army not just by recruiting, but by merging identical heroes to evolve them into more powerful warriors. Strategically place your merged heroes on the battlefield and watch as they automatically defend against wave after wave of enemies.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+Le jeu se joue au drag‑and‑drop.
 
-1.  **[FR]** **Buy and Merge:** Use your gold to buy basic heroes, which appear on your reserve board. The core of the game is to drag and drop one hero onto another identical hero. This merges them into a single, higher-level hero with improved stats.
-2.  **[FR]** **Deploy Your Army:** Drag your strongest heroes from the reserve board onto the battle grid. Once placed, they will automatically engage any enemies that come within their range. You have a limited number of slots on the battle grid, so choose your active heroes wisely.
-3.  **[FR]** **Hero Types:** Pay attention to different hero types. Melee heroes (like knights) must be on the front lines to engage enemies, while ranged heroes (like archers) can attack from the back. A balanced formation is key.
-4.  **[FR]** **Manage Your Gold:** You earn gold automatically as your heroes defeat monsters. Reinvest this gold quickly into buying more basic heroes so you can continue merging and upgrading your army to keep up with the increasingly difficult enemy waves.
+- **Acheter un héros :** clique sur le bouton « Buy » pour dépenser de l’or et recevoir un nouveau héros de base.
+- **Fusionner des héros :** fais glisser un héros sur un autre identique pour les fusionner.
+- **Déployer / retirer :** fais glisser un héros de la réserve vers une case du champ de bataille pour le déployer, ou ramène‑le sur la réserve pour le remplacer.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-The game is played with simple drag-and-drop controls.
+- **Q : Comment créer un héros vraiment puissant ?**  
+  **R :** En fusionnant en continu. Deux héros de niveau 1 donnent un niveau 2, deux niveaux 2 donnent un niveau 3, etc. Plus le niveau est élevé, plus les statistiques explosent.
+    - **Q : Vaut‑il mieux beaucoup de petits héros ou peu de gros ?**  
+  **R :** Quelques héros de haut niveau sont presque toujours plus efficaces qu’une armée de héros faibles. Concentre‑toi sur la fusion pour monter quelques unités clés.
+- **Q : Pourquoi mes héros arrêtent‑ils de se battre parfois ?**  
 
-*   **[FR]** **Buy Hero:** Click the "Buy" button to spend gold and get a new base-level hero.
-*   **[FR]** **Merge Heroes:** Click and drag a hero onto another identical hero to merge them.
-*   **[FR]** **Deploy/Undeploy:** Drag a hero from your reserve board to an empty slot on the battlefield to deploy them. You can also drag them back to the reserve board to swap them out.
+    - **A:** This usually happens between waves. Once the next wave of enemies appears, your heroes will automatically resume their attack.
 
-### Frequently Asked Questions (FAQ)
+- **Q: Why did my heroes stop attacking?**
 
-*   **[FR]** **Q: How do I create a really strong hero?**
-    *   **[FR]** **A:** Through continuous merging. Two level 1 heroes make a level 2, two level 2s make a level 3, and so on. The key to a powerful army is to constantly buy and merge.
-
-*   **[FR]** **Q: Should I fill my board with many weak heroes or a few strong ones?**
-    *   **[FR]** **A:** A few strong, high-level heroes are almost always more effective than a board full of weak, low-level ones. Focus on merging up to the highest level you can achieve.
-
-*   **[FR]** **Q: Why did my heroes stop attacking?**
-    *   **[FR]** **A:** This usually happens between waves. Once the next wave of enemies appears, your heroes will automatically resume their attack.
+    - **A:** A few strong, high-level heroes are almost always more effective than a board full of weak, low-level ones. Focus on merging up to the highest level you can achieve.
+  **R :** C’est généralement entre deux vagues. Dès que la vague suivante d’ennemis arrive, ils reprennent automatiquement le combat.
 

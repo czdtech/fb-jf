@@ -1,45 +1,44 @@
 ---
-locale: ja
-urlstr: there-is-no-game
-title: '[JA TRANSLATION NEEDED] There is no game'
-description: >-
-  [JA TRANSLATION NEEDED] Experience the unique meta-puzzle adventure of There
-  is no game! Defy a sarcastic narrator, break the fourth wall, and solve
-  unconventional puzzles by clicking and dragging elements. This humorous and
-  mind-bending game challenges your perception of what a game can be.
-iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
+title: There Is No Game
+description: There Is No Gameは、メタゲームパズルです。ゲームがないと言われますが、実際には予想外のパズルがあります。
+iframeSrc: 'https://ubg98.github.io/ThereIsNoGame/'
 thumbnail: /new-images/there-is-no-game.jpg
+urlstr: there-is-no-game
+score: 4.6/5  (4123 votes)
 tags:
   - puzzle
-  - adventure
-  - funny
-score: 3.9/5  (1003 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - meta
+  - humor
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] "There is no game" is a unique and highly acclaimed meta-puzzle adventure game that constantly challenges the player's perception of what a game is. Guided (or rather, misguided) by a sarcastic narrator who insists there is no game to play, players must find unconventional ways to interact with the environment, break the rules, and progress through a series of clever and humorous puzzles.
+There Is No Gameは、ユニークなメタゲームパズルです。タイトルが示すように「ゲームはない」と言われますが、実際にはゲームをプレイしないよう説得するナレーターとの面白いやり取りがあります。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The core gameplay involves point-and-click interactions. You'll need to click, drag, and manipulate elements on the screen in unexpected ways to solve puzzles and advance. The game frequently breaks the fourth wall, and success often requires thinking outside the box and ignoring the narrator's direct instructions. Each "level" presents a new scenario where you must figure out how to bypass the narrator's attempts to stop you from playing.
 
-### Controls Guide
+The core gameplay involves point-and-click interactions. You'll need to click, drag, and manipulate elements on the screen in unexpected ways to solve puzzles and advance. The game frequently breaks the fourth wall, and success often requires thinking outside the box and ignoring the narrator's direct instructions. Each "level" presents a new scenario where you must figure out how to bypass the narrator's attempts to stop you from playing.
+ - **探索：** 画面上のすべてをクリックします
+ - **ナレーターと対話：** ナレーターの指示を無視します
+ - **パズルを解く：** 隠されたパズルを見つけて解きます
+ - **創造的に考える：** 明白でない方法で進みます
 
-- **Left Mouse Button:** Used for all interactions, including clicking on objects, dragging elements, and solving puzzles.
+### 操作ガイド
 
-### Frequently Asked Questions (FAQ)
+ - **マウス：** クリックして相互作用
 
-[JA TRANSLATION NEEDED] **Is this really a game?**
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] Yes, despite its title and the narrator's insistence, "There is no game" is indeed a game, and a very clever one at that. The title is part of its meta-narrative.
+**本当にゲームはないのですか？**
 
-[JA TRANSLATION NEEDED] **What kind of puzzles are there?**
+いいえ、それがジョークです。実際には創造的なパズルゲームです。
 
-[JA TRANSLATION NEEDED] The puzzles are highly unconventional and often involve manipulating the game's interface, finding hidden elements, or performing actions that seem counter-intuitive to traditional gaming. Humor and breaking the fourth wall are central to the puzzle design.
+**どうやって進めますか？**
 
-[JA TRANSLATION NEEDED] **How long is the game?**
+画面上のすべてをクリックし試して、隠されたパズルを見つけます。
 
-[JA TRANSLATION NEEDED] The original "There is no game" is a relatively short experience, designed as a point-and-click adventure. There is also a longer, full-fledged sequel called "There Is No Game: Wrong Dimension."
+**ナレーターは何ですか？**
 
+ゲームの一部で、あなたがプレイしないよう説得しようとします。

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: basketball-serial-shooter
-title: '[DE] Basketball serial shooter'
+title: "Basketball serial shooter"
 description: >-
-  [DE] Basketball serial shooter turns rapid‑fire hoops into skill — set arcs,
-  manage rhythm, and chain swishes under pressure.
+  Basketball serial shooter ist ein schneller Highscore‑Basketball‑Modus. Stelle
+  präzise Bögen ein, halte deinen Wurfrhythmus und reihe Treffer unter Druck an
+  einander.
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/basketball-serial-shooter.jpg
 tags:
@@ -15,47 +16,64 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Basketball serial shooter ist ein rasantes Punkte‑Jagd‑Spiel, bei dem es ganz
+auf Timing, Bogenkontrolle und Schussauswahl ankommt. Du spielst gegen die Uhr
+oder mit begrenzter Ballanzahl, während sich Körbe bewegen, Wind weht (in
+manchen Varianten) und Hindernisse oder verstellbare Backboards ins Spiel
+kommen. Ziel ist es, einen stabilen Wurfrhythmus zu finden und möglichst viele
+Treffer hintereinander zu landen.
 
+### Strategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Wiederholbare Form entwickeln:** Suche dir eine angenehme Cursor‑Position
+    und einen Release‑Rhythmus, den du immer wieder reproduzieren kannst. Je
+    konstanter deine Basisbewegung, desto leichter sind Feinanpassungen.
+2.  **Bogen vor Power:** Höhere Bögen, die von oben in den Korb fallen, sind
+    deutlich verzeihender als flache Würfe. Reduziere die Kraft leicht, wenn du
+    häufig am Ring scheiterst.
+3.  **Bewegte Körbe lesen:** Beobachte zunächst eine komplette
+    Bewegungsperiode, wähle dann einen festen Zeitpunkt im Zyklus (z. B. den
+    linken Extrempunkt) und wirf immer zu diesem Moment.
+4.  **Von nah nach fern:** Beginne mit sicheren Nahwürfen, um eine Serie und
+    Multiplikatoren aufzubauen. Erst wenn dein Rhythmus sitzt, solltest du
+    längere Distanzwürfe versuchen.
+5.  **Schnell erholen:** Nach einem Fehlwurf nicht sofort hektisch nachlegen.
+    Nimm dir einen halben Schlag Zeit, um Ziel und Gefühl neu zu setzen.
+6.  **Wind kompensieren (falls vorhanden):** Ziele leicht gegen die Windrichtung
+    und erhöhe den Bogen, bis der Ball trotz Drift zuverlässig fällt.
+7.  **Ziele priorisieren:** In Zeitmodi solltest du riskante Münzen oder
+    Bonusziele nur anspielen, wenn sie ohnehin auf deiner Standardbahn liegen –
+    sonst kostet dich der Fehlwurf mehr als der Bonus bringt.
 
-Basketball serial shooter is a fast, score‑attack basketball challenge focused on timing, arc control, and shot selection. You’ll face moving hoops, shifting wind (in some variants), and limited time or balls. The core loop is to settle a repeatable release, read the basket movement, and string swishes without rim‑outs. As you progress, obstacles, moving backboards, and changing hoop heights add variety and demand cleaner mechanics.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Zielen & Kraft:** Ziehe mit Maus oder Finger, um Winkel und Power
+  festzulegen, und lasse los, um zu werfen. In manchen Versionen stellst du die
+  Kraft separat über eine Halteleiste ein.
+- **Bonustargets:** Klicke auf Bonusziele nur, wenn sie sauber in deine
+  normale Wurfkurve fallen.
+- **Pause/Retry:** Nutze die Bildschirm‑Buttons für Pause oder schnellen
+  Neustart.
 
-1.  **[DE]** Build a repeatable form: Pick a comfortable cursor position and release rhythm so each attempt feels consistent.
-2.  **[DE]** Arc over power: Favor higher arcs that drop softly; flat line‑drives rim out more often.
-3.  **[DE]** Read cycles: For moving hoops, identify the motion cycle and shoot at the same phase each time.
-4.  **[DE]** Work inside‑out: Take nearer, higher‑percentage shots to establish a streak before attempting long‑range baskets.
-5.  **[DE]** Recover quickly: If you miss, pause half a beat to re‑center aim and re‑establish rhythm before the next shot.
-6.  **[DE]** Wind adjustment (if present): Offset aim into the wind and add a touch more arc to compensate for drift.
-7.  **[DE]** Goal management: In timed modes, ignore risky coins or side targets unless alignment is clean.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Warum rollen meine Würfe ständig vom Ring runter?**
+  **A:** Wahrscheinlich ist dein Bogen zu flach oder die Schusskraft zu hoch.
+  Erhöhe den höchsten Punkt der Flugbahn und nimm etwas Power heraus.
 
-- Aim and power: Drag to set angle/power and release to shoot; some builds separate power on a hold bar.
-- Special targets: Tap bonus targets only when they line up with your normal arc.
-- Pause/Retry: Use on‑screen controls; some versions allow quick reset.
+- **F: Wie gehe ich mit beweglichen Körben um?**
+  **A:** Schau dir den Bewegungstakt an, wähle einen festen Zeitpunkt im Zyklus
+  und wirf immer dann – Konsistenz ist wichtiger als perfekte Intuition.
 
-### Frequently Asked Questions (FAQ)
+- **F: Macht der Wind wirklich etwas aus?**
+  **A:** In Varianten mit Wind unbedingt kompensieren: Ziele leicht gegen die Windrichtung und erhöhe den Bogen minimal. Ein paar Probeschüsse helfen, die Drift abzuschätzen.
 
-- Q: Why do my shots keep rimming out?
+- **F: Tipps für Serien und Multiplikatoren?**
+  **A:** Starte mit sicheren Kurzdistanzwürfen, baue damit deine Serie auf und verlängere erst danach die Distanz, wenn der Rhythmus sitzt.
 
-A: Your arc is too flat or power is too high. Raise the apex and reduce power slightly so the ball drops softly through the rim.
-
-- Q: How do I handle moving hoops?
-
-A: Watch a full motion cycle, pick a consistent phase (e.g., leftmost point), and release at that moment every time.
-
-- Q: Does wind matter in this game?
-
-A: In variants with wind, aim slightly into the wind and add arc; practice a few test shots to calibrate drift.
-
-- Q: Any tip for streaks and multipliers?
-
-A: Start with close, safe shots to build a combo, then extend range once your rhythm is locked.
-
-- Q: Should I go for coin shots?
-
-A: Only if their path matches your standard arc; otherwise you’ll lose more time and streak than you gain.
+- **F: Lohnt es sich, auf Münzen zu gehen?**
+  **A:** Nur, wenn sie sich mit deiner Standardkurve treffen lassen. Wenn du
+  dafür stark umstellen musst, verlierst du meist mehr Zeit und Serienbonus als
+  du gewinnst.

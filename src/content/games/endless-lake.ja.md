@@ -1,82 +1,45 @@
 ---
-locale: ja
-urlstr: endless-lake
-title: '[JA TRANSLATION NEEDED] Endless Lake'
-description: >-
-  [JA TRANSLATION NEEDED] How far can you run? Test your reflexes in this
-  minimalist endless runner. Tap to jump once, or tap again in mid-air for a
-  double jump to cross the treacherous gaps of the Endless Lake.
+title: Endless Lake エンドレス・レイク
+description: 「Endless Lake」はミニマルなエンドレスランナー。タップでジャンプ、空中で再タップして二段ジャンプ。湖に浮かぶ足場を渡り、どこまでも走り続けろ。
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
 thumbnail: /new-images/endless-lake.png
+urlstr: endless-lake
+score: 4.2/5  (1900 votes)
 tags:
   - action
   - casual
   - clicker
-score: 4.2/5  (1900 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Endless Lake（エンドレス・レイク）*は、タイミングと反射神経を試すミニマルで挑戦的なエンドレスランナーです。
+穏やかな湖の上に浮かぶ一連のプラットフォームを走り抜けます。ゲームプレイは1つのシンプルなメカニクスに集中しています：ジャンプ。シングルジャンプとダブルジャンプを完璧にタイミングよく使い分けて、刻々と変化する足場の隙間を乗り越え、どこまで遠くへ行けるかに挑戦しましょう。
 
-[JA TRANSLATION NEEDED] Endless Lake is a minimalist and challenging endless runner that tests your timing and reflexes. You control a character running across a series of platforms suspended over a tranquil lake. The gameplay is focused on one simple mechanic: jumping. You must perfectly time your single and double jumps to navigate the ever-changing gaps between platforms and see how far you can go.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **二段ジャンプをマスター:** このゲームで最も重要なスキルは二段ジャンプです。1回タップすると短いホップ、空中でもう一度タップすると追加のブーストで広い隙間を越えられます。両方のジャンプの感覚と距離を体で覚えましょう。
+2.  **リズムを見つける:** ゲームには独特のリズムがあります。ジャンプのフローに乗りましょう。スピードが上がるにつれて反応時間は短くなりますが、安定したリズムが集中力を保つ助けになります。
+3.  **無駄な二段ジャンプを避ける:** よくある間違いは、短い隙間で二段ジャンプを使ってしまうことです。これは次のジャンプのタイミングと位置取りを狂わせます。本当に必要な時だけ二段ジャンプを使いましょう。
+4.  **先を見る:** キャラクターの数プラットフォーム先に目を向けましょう。次の隙間がシングルジャンプで行けるか、ダブルジャンプが必要かを認識する時間が増えます。
 
-[JA TRANSLATION NEEDED] 1.  **Master the Double Jump:** The most crucial skill in the game is the double jump. Tapping once gives you a short hop, but tapping a second time while in mid-air gives you an extra boost to cross wider gaps. Learning the feel and distance of both jump types is essential.
-[JA TRANSLATION NEEDED] 2.  **Find Your Rhythm:** The game has a distinct rhythm. Try to get into a flow with your jumps. As the speed increases, your reaction time will need to get shorter, but a steady rhythm can help you stay focused.
-[JA TRANSLATION NEEDED] 3.  **Don't Double Jump Unnecessarily:** A common mistake is to use a double jump for a short gap. This can mess up your timing and positioning for the next jump. Only use the double jump when it's absolutely necessary.
-[JA TRANSLATION NEEDED] 4.  **Look Ahead:** Keep your eyes focused a few platforms ahead of your character. This will give you more time to recognize whether the next gap requires a single or a double jump.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game uses a simple one-touch control system.
-
-*   **Single Jump:** Click the left mouse button or tap the screen once.
-    - **A:** To run as far as possible without falling into the lake. Your score is based on the distance you travel.（日本語訳が必要）
-    - **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.（日本語訳が必要）
-    - **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.（日本語訳が必要）
-    - **A:** To run as far as possible without falling into the lake. Your score is based on the distance you travel.（日本語訳が必要）
-    - **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.（日本語訳が必要）
-    - **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.（日本語訳が必要）
-*   **Double Jump:** Tap or click once to initiate a jump, then tap or click a second time while your character is in the air.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** To run as far as possible without falling into the lake. Your score is based on the distance you travel.
-
-*   **Q: How do I know when to use a double jump?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
-
-*   **Q: What are the mirror doors?**
+### 操作ガイド
 
 
+The game uses a simple one-touch control system.
+*   **シングルジャンプ:** 左クリック または 画面タップ（1回）
+*   **ダブルジャンプ:** ジャンプを開始した後、キャラクターが空中にいる間にもう一度タップ/クリック
 
+### よくある質問 (FAQ)
 
+*   **Q: ゲームの目的は何ですか？**
+    *   **A:** 湖に落ちずにできるだけ遠くまで走ることです。スコアは移動距離に基づいています。
 
+*   **Q: いつ二段ジャンプを使えばいいですか？**
+    *   **A:** 隙間の距離を目で判断する必要があります。広い隙間は二段ジャンプが必要で、短い隙間はシングルジャンプでクリアできます。これがこのゲームが試す主なスキルです。
 
-
-
-    - **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
-- **Q: What are the mirror doors?**
-    - **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
-- **Q: How do I know when to use a double jump?**
-    - **A:** To run as far as possible without falling into the lake. Your score is based on the distance you travel.
-- **Q: What is the goal of the game?**
-### よくある質問（FAQ）
-- **Double Jump:** Tap or click once to initiate a jump, then tap or click a second time while your character is in the air.
-
-
-
-
-
-    - **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
-- **Q: What are the mirror doors?**
-    - **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
-- **Q: How do I know when to use a double jump?**
-    - **A:** To run as far as possible without falling into the lake. Your score is based on the distance you travel.
-[JA TRANSLATION NEEDED]     *   **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
-
+*   **Q: 鏡のドア（ポータル）は何ですか？**
+    *   **A:** これらのポータルを通過すると、キャラクターのクローンが作られることがあり、複数のランナーを同時にコントロールする楽しいビジュアル効果が加わります。

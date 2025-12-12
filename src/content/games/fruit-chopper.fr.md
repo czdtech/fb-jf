@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: fruit-chopper
-title: '[FR] Fruit Chopper'
+title: Fruit Chopper
 description: >-
-  [FR] Sharpen your blades for Fruit Chopper! Slice through a barrage of flying
-  fruits while avoiding dangerous bombs. How high can you score?
+  Aiguise tes lames dans Fruit Chopper : tranche une pluie de fruits volants
+  tout en évitant les bombes. Jusqu’où iras‑tu en score ?
 iframeSrc: 'https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/'
 thumbnail: /new-images/fruit-chopper.png
 tags:
@@ -16,32 +16,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Fruit Chopper est un jeu d’arcade nerveux et juteux qui teste tes réflexes et ta précision. L’écran se remplit de fruits de toutes sortes projetés en l’air. Ta mission : en trancher un maximum d’un simple swipe de doigt ou de souris. Attention cependant, des bombes dangereuses sont mélangées aux fruits ; en toucher une peut mettre fin à ta partie. Le défi est de créer de gros combos, de survivre le plus longtemps possible et de battre ton record.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and precision. Your screen will be filled with a variety of delicious fruits flying through the air. Your mission is to slice as many of them as you can with a swipe of your finger or mouse. But be careful! Dangerous bombs are mixed in with the fruit, and hitting one will end your game. Challenge yourself to get the highest score by creating impressive combos and surviving as long as possible.
+1.  Tranche en combos : la clé d’un gros score, c’est de couper plusieurs fruits en un seul mouvement continu. Un combo de 3 fruits est correct, mais 4 ou 5 d’un coup rapportent un énorme bonus.
+2.  Évite les bombes : règle numéro une. Tes yeux doivent en permanence repérer les bombes. Il vaut mieux rater un fruit que exploser la partie.
+3.  Attends le sommet de la trajectoire : ne tranche pas les fruits dès leur apparition. Laisse‑les atteindre le sommet de leur arc ; tu auras plus de temps pour aligner un combo et repérer les bombes cachées.
+4.  Sur mobile, utilise deux mains : si tu joues sur écran tactile, deux doigts peuvent t’aider à réagir plus vite aux fruits qui arrivent des deux côtés.
+5.  Reste concentré : le rythme s’accélère au fil du temps. Garde ton calme et privilégie les gestes fluides et précis plutôt que les mouvements désordonnés.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Slice in Combos:** The key to a high score is slicing multiple fruits in a single, continuous swipe. A 3-fruit combo is good, but a 4 or 5-fruit combo will give you a massive score bonus.
-2.  **[FR]** **Avoid the Bombs:** This is the most important rule. Your eyes should always be scanning for bombs. It's better to miss a fruit than to accidentally hit a bomb.
-3.  **[FR]** **Wait for the Arc:** Don't slice fruits the moment they appear. Wait for them to reach the peak of their arc. This gives you more time to see other fruits that might line up for a combo and helps you avoid surprise bombs.
-4.  **[FR]** **Use Both Hands (on Mobile):** If you're playing on a touchscreen, using two hands can sometimes help you react faster to fruits appearing on both sides of the screen.
-5.  **[FR]** **Stay Focused:** The game gets faster and more frantic. Stay calm and focus on smooth, deliberate swipes rather than wild slashing.
+- Trancher : clique et fais glisser ta souris à travers les fruits, ou passe ton doigt sur l’écran pour les couper.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Slice:** Click and drag your mouse across the fruit to slice it. On a mobile device, simply swipe your finger across the screen.
+- Q : Quel est l’objectif exact du jeu ?
+  
+  R : Obtenir le score le plus élevé possible en tranchant des fruits. La partie s’arrête si tu touches une bombe ou si tu laisses passer trop de fruits (selon le mode).
 
-### Frequently Asked Questions (FAQ)
+    - Q : Comment obtenir les bonus de combo ?
+  
+  R : En tranchant trois fruits ou plus avec un seul swipe. Plus tu coupes de fruits d’un coup, plus le bonus de score est important.
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** The goal is to get the highest score possible by slicing fruit. The game ends if you hit a bomb or miss too many fruits.
+- Q : Y a‑t‑il plusieurs modes de jeu ?
+  
 
-*   **[FR]** **Q: How do I get a combo bonus?**
-    *   **[FR]** **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
+    - **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
 
-*   **[FR]** **Q: Are there different game modes?**
-    *   **[FR]** **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
+- **Q: Are there different game modes?**
+
+    - **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
+  R : De nombreux jeux de découpe proposent plusieurs modes comme Classic (éviter les bombes et ne pas rater de fruits), Arcade (60 secondes chronométrées avec des power‑ups) ou Zen (sans bombes, plus relax). Vérifie le menu principal pour voir ce qui est disponible dans ta version.
 

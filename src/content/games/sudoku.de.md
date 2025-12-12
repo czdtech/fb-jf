@@ -1,11 +1,8 @@
 ---
 locale: de
 urlstr: sudoku
-title: '[DE] Sudoku'
-description: >-
-  [DE] Sudoku is a classic number puzzle game where players fill a 9x9 grid with
-  digits 1-9, ensuring each row, column, and 3x3 box contains all numbers
-  exactly once in this challenging logic-based brain teaser.
+title: "Sudoku"
+description: "Sudoku ist der Klassiker unter den Zahlenrätseln: Du füllst ein 9×9‑Gitter mit den Ziffern 1–9, sodass jede Zahl in jeder Zeile, Spalte und jedem 3×3‑Block genau einmal vorkommt – ein reines Logikpuzzle ohne Rechnen." 
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/sudoku.jpg
 tags:
@@ -16,36 +13,35 @@ score: 5.0/5  (1136 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+„Sudoku“ ist ein logikbasiertes Zahlenrätsel. Du füllst ein 9×9‑Raster mit den Ziffern 1 bis 9, sodass in jeder Zeile, jeder Spalte und in jedem 3×3‑Block jede Zahl genau einmal auftaucht. Statt Mathematik brauchst du hier vor allem Kombinationsgabe und Geduld.
 
+### Spielstrategie
 
+1.  **Einfach anfangen:** Suche Felder, in denen nur noch eine Zahl logisch möglich ist – das sind deine ersten Ansatzpunkte.
+2.  **Ausschlussmethode:** Schau in Zeilen, Spalten und Blöcke, welche Zahlen dort bereits liegen, und streiche diese als Kandidaten für das aktuelle Feld.
+3.  **Kandidaten notieren:** Trage mögliche Zahlen klein als Notizen ins Feld ein (wenn der Modus verfügbar ist), um dir Optionen offen zu halten.
+4.  **Versteckte Singles finden:** Achte darauf, ob eine bestimmte Ziffer in einer Zeile/Spalte/einem Block nur in einem einzigen Feld stehen kann – dann gehört sie genau dorthin.
+5.  **Schrittweise vorgehen:** Nach jedem gesetzten Wert das Board erneut im Ganzen betrachten – oft ergeben sich dadurch neue logische Schlüsse.
 
-### Game Introduction
+### Steuerung
 
-"Sudoku" is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once. This logic-based brain teaser challenges players' reasoning abilities and patience.
+- **Feld auswählen:** Auf ein leeres Feld klicken.
+- **Zahl eingeben:** Über Tastatur (1–9) oder das On‑Screen‑Nummernpad.
+- **Zahl löschen:** `Entf`/Löschen oder die Löschen‑Funktion im UI nutzen.
+- **Kandidatenmodus:** Falls vorhanden, in den Notizen‑/Stiftmodus wechseln, um mehrere kleine Zahlen im Feld zu markieren.
 
-### Gameplay Strategy
+### Häufige Fragen
 
-1.  **[DE]** **Start Simple**: Look for cells with only one possible answer first; these are usually breakthrough points.
-2.  **[DE]** **Elimination Method**: Observe existing numbers in rows, columns, and boxes to eliminate impossible options.
-3.  **[DE]** **Candidate Number Method**: Mark possible numbers in empty cells to help with analysis and reasoning.
-4.  **[DE]** **Find Hidden Singles**: Look for numbers that can only be placed in one position within a row, column, or box.
-5.  **[DE]** **Progressive Advancement**: After filling in each number, re-analyze the entire board to find new breakthrough points.
+1.  **Brauche ich Mathekenntnisse?**  
+    Nein – es geht um Logik, nicht ums Rechnen.
 
-### How to Play
+2.  **Wozu dient der Notizenmodus?**  
+    Damit kannst du alle möglichen Kandidaten markieren, ohne dich sofort festlegen zu müssen – unverzichtbar bei schweren Rätseln.
 
-*   **[DE]** **Select Cell**: Click on empty cells to select them.
-*   **[DE]** **Input Numbers**: Use keyboard number keys 1-9 or click on-screen number buttons to input.
-*   **[DE]** **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
-*   **[DE]** **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
+3.  **Hat jedes Rätsel genau eine Lösung?**  
+    Seriöse Sudoku‑Rätsel sind so konstruiert, dass es genau eine logische Lösung gibt – ohne Raten.
 
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How do I know if a Sudoku has a solution?**
-**A**: Legal Sudoku puzzles should have a unique solution. If contradictions or multiple solutions appear, there might be issues with the puzzle design.
-2.  **[DE]** **Q: What if I get stuck?**
-**A**: Carefully check if filled numbers have errors, and use more advanced solving techniques like "naked pairs" or "hidden pairs."
-3.  **[DE]** **Q: Are there different difficulty levels?**
-**A**: Usually divided into different difficulty levels like easy, medium, hard, and expert.
-4.  **[DE]** **Q: Do I need to guess?**
-**A**: Standard Sudoku should be solvable through pure logical reasoning without guessing.
+4.  **Was mache ich, wenn ich feststecke?**  
+    Prüfe, ob irgendwo ein offensichtlicher Fehler steckt, oder nutze fortgeschrittenere Techniken (z. B. Paare/Tripel), sofern du sie kennst. In vielen Versionen kannst du dir auch vorsichtig mit Hinweisen helfen lassen.

@@ -1,52 +1,67 @@
 ---
 locale: fr
 urlstr: incredibox-cool-as-ice
-title: "[FR] Incredibox Cool As Ice \U0001F3AE Play Incredibox Cool As Ice Online"
+title: Incredibox Cool As Ice
 description: >-
-  [FR] The Incredibox Cool as Ice Mod is perfect for fans who love both
-  music-making and seasonal themes. Dive into this frosty version to experience
-  Incredibox like never before, bringing a cool twist to your sound creations.
+  Le mod Incredibox Cool As Ice gèle l’expérience classique : personnages
+  givrés, sons inspirés de l’hiver et bonus glacés pour des créations musicales
+  au thème neige et glace.
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
 thumbnail: /incredibox-cool-as-ice.png
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-### Introducing to Incredibox Cool As Ice
+Prêt à sentir le froid polaire ? *Incredibox Cool As Ice* est un mod saisonnier qui recouvre Incredibox d’une couche de glace. Tous les personnages deviennent des versions givrées d’eux‑mêmes, avec des textures cristallines et des effets visuels de neige. Comme dans les autres mods de la série, tu crées ta musique en faisant glisser des icônes sur les personnages, mais cette fois chaque son évoque l’hiver : tintements glacés, échos froids, nappes cristallines…
 
-Ready to feel a chill from the Arctic? The Incredibox Cool as Ice Mod completely freezes the classic Incredibox experience, turning all characters into cool, icy-themed versions of themselves. Like the much-loved Sprunki Mod, this frosty edition brings a unique visual and auditory atmosphere to the game, where each character is encased in ice, delivering a cool, refreshing sound experience.
+Ce mod s’adresse autant aux fans de thèmes saisonniers qu’aux joueurs qui veulent simplement un univers plus doux et relaxant, sans éléments horrifiques.
+
+### Comment jouer
+
+1.  **Choisis tes personnages glacés**  
+    Sélectionne parmi une vingtaine de personnages relookés en version « givrée ». Chacun reprend un rôle classique (beat, effet, mélodie, voix) mais avec une couleur sonore hivernale.
+
+2.  **Empile des sons enneigés**  
+    Fais glisser les icônes sur les personnages pour activer leurs beats et mélodies glacés. Combine plusieurs couches pour créer un paysage sonore enneigé : clochettes, vents froids, synthés cristallins, etc.
+
+3.  **Découvre les combos spéciaux**  
+    Certaines combinaisons de personnages déclenchent des animations givrées et des sons cachés. Amuse‑toi à tester différentes configurations pour trouver tous les bonus.
+
+### Ce qui rend Cool As Ice spécial
+
+- **Visuels d’hiver** : chaque personnage arbore textures de glace, reflets bleutés et effets de givre, donnant au mod une identité visuelle très marquée.  
+- **Palette sonore froide** : tu entendras des carillons, des échos légers et des percussions sèches qui évoquent la neige qui craque sous les pieds.  
+- **Bonus exclusifs** : plusieurs animations thématiques (flocons, cristaux, blizzards stylisés) se débloquent avec les bons ensembles de sons.  
+- **Expérience détendue** : pas de thèmes horrifiques ou trop sombres ; l’ambiance est plutôt cosy‑hivernale, idéale pour créer calmement sur mobile ou tablette.
+
+### Commandes
+
+- **Ajouter un son** : fais glisser une icône depuis le bas de l’écran sur un personnage pour l’activer.  
+- **Retirer / remplacer un son** : clique sur le « X » de l’icône active ou dépose une autre icône sur le personnage pour changer sa partie.  
+- **Mute / Unmute** : clique sur un personnage pour couper son son, puis reclique pour le réactiver.  
+- **Solo** : utilise le bouton de solo à côté d’un personnage pour n’entendre que lui.  
+- **Enregistrer** : clique sur le bouton d’enregistrement pour sauvegarder ton mix glacé.
+
 
 ---
 
-### What Exactly Is Incredibox Cool as Ice Mod?
-
-In the Cool as Ice Mod, the familiar Incredibox characters have been transformed, becoming icy, shiny, and sparkling! You'll see frozen effects, shimmering ice textures, and soundscapes inspired by winter. Each character brings beats and melodies with a crisp, icy feel, making this a unique experience for both new and seasoned Incredibox players. Imagine creating music with an ice and snow theme in the cold winter, isn't it very appropriate?
-
----
-
-### Icy Gameplay, Easy to Pick Up:
-
-- **Choose Icy Characters:** Start by selecting from the newly frosted lineup of characters. Each one brings a new twist on classic sounds, with a wintery chill. There are more than 20 unique ice-themed characters in the game, each with its own personality.
-- **Layer Frosty Sounds:** Drag and drop characters onto the soundboard to activate their icy beats, forming layers that create a snow-laden musical landscape. Try different combinations to create warm winter music.
-- **Unlock Special Cold Combos:** Certain character combinations reveal hidden animations and sounds, adding depth to the icy theme. There are also many surprises waiting for you to discover in the game!
-
-
-### What's Special About the Cool as Ice Mod?
-
-- **Winter-Themed Visuals:** Each character has been redesigned with icy textures and frost-covered appearances, adding a sparkling visual layer to the gameplay. It will definitely brighten your eyes!
-- **Chilled Sound Elements:** Expect to hear unique sounds reminiscent of winter, like gentle chimes, cool echoes, and crisp beats that complement the frozen atmosphere. Can you already feel the chill?
-- **Special Bonuses:** Discover exclusive frost-themed animations and sound combinations that make your compositions even more unique. Come and explore each character and dig up the surprises in the game!
-- **Play Offline:** Don't worry about network issues, you can enjoy the fun of creating music anytime, anywhere.
-- **Play for Free:** You can experience the charm of Incredibox without spending a penny.
 - **Personalized Gaming Experience:** There is only the default theme in the game, no horror themes, creating a more relaxed and enjoyable creative environment. The game is simple to operate and can run smoothly on mobile phones and tablets, easily creating your exclusive music world.
 
-
 ---
+### Foire aux questions (FAQ)
 
-### Conclusion:
+- **Q : Faut‑il attendre l’hiver pour y jouer ?**  
+  R : Pas du tout. L’ambiance évoque l’hiver, mais tu peux profiter de ce mod à n’importe quelle période de l’année.
 
-The Incredibox Cool as Ice Mod is perfect for fans who love both music-making and seasonal themes. Dive into this frosty version to experience Incredibox like never before, bringing a cool twist to your sound creations. Come to Incredibox Cool as Ice now, add some ice to your music creation, and make this winter no longer monotonous! If you want to try more Sprunki games, such as Sprunki Infection or Sprunki CorruptBox: Cool As Ice, then go and explore them!
+- **Q : Ce mod est‑il lié aux autres mods « Sprunki » ?**  
+  R : Il partage un esprit proche de certains mods comme Sprunki Infection ou CorruptBox: Cool As Ice, mais il s’agit d’un mod fan‑made distinct.
+
+- **Q : Peut‑on jouer hors‑ligne ?**  
+  R : Selon l’hébergeur, tu peux parfois le lancer dans le navigateur déjà chargé, mais en pratique il est surtout pensé pour être joué en ligne.
+

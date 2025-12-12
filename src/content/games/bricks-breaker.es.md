@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bricks-breaker
-title: '[ES] Bricks Breaker'
+title: "Bricks Breaker"
 description: >-
-  [ES] Get ready for classic arcade action in Bricks Breaker! Control the
-  paddle, bounce the ball, and destroy all the bricks to clear levels.
+  Prepárate para la acción arcade clásica en Bricks Breaker. Controla la pala,
+  devuelve la bola y destruye todos los ladrillos para superar los niveles.
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
 thumbnail: /new-images/bricks-breaker.jpg
 tags:
@@ -16,33 +16,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bricks Breaker es una versión moderna del rompebloques arcade de toda la vida.
+El objetivo es destruir todos los ladrillos de la pantalla golpeándolos con una
+bola que rebota. Controlas una pala en la parte inferior que mantiene la bola en
+juego. A medida que rompes ladrillos, puedes recoger distintos potenciadores que te
+ayudan a limpiar los niveles más rápido. Con numerosos niveles, formaciones de
+ladrillos desafiantes y potenciadores variados, Bricks Breaker ofrece diversión
+sin fin.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Bricks Breaker is a modern take on the timeless arcade classic. The objective is to destroy all the bricks on the screen by hitting them with a bouncing ball. You control a paddle at the bottom of the screen to keep the ball in play. As you break bricks, you can collect various power-ups to help you clear levels faster. With numerous levels, challenging brick formations, and exciting power-ups, Bricks Breaker offers endless fun.
+1.  **Controla la pala:** Tu tarea principal es colocar la pala en el sitio
+    correcto para interceptar la bola. Intenta golpearla con los bordes para
+    cambiar su ángulo y enviarla a distintas zonas de la pantalla.
+2.  **Apunta a la parte superior:** Intenta colar la bola en el espacio que hay
+    por encima de los ladrillos. Allí rebotará durante un buen rato, destruyendo
+    bloques sin que corras riesgo de perderla.
+3.  **Aprovecha los potenciadores:** Los potenciadores que caen pueden darte
+    ventajas enormes: pala más ancha, multi‑bola, láseres para disparar
+    directamente a los ladrillos, etc. Prioriza recogerlos cuando sea seguro.
+4.  **Ataca primero los ladrillos duros:** Algunos bloques necesitan varios
+    impactos para romperse. Enfócate en ellos para abrir el tablero y ganar
+    espacio.
+5.  **Usa las paredes:** Aprovecha las paredes laterales para generar ángulos
+    complicados y llegar a zonas difíciles.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Control the Paddle:** Your primary job is to position the paddle to intercept the ball. Try to hit the ball with the edges of the paddle to change its angle and send it to different parts of the screen.
-2.  **[ES]** **Aim for the Top:** Try to get the ball into the space above the bricks. It will bounce around for a while, destroying many bricks without any risk of you missing the ball.
-3.  **[ES]** **Grab Power-Ups:** Falling power-ups can give you significant advantages, such as a wider paddle, multiple balls (multi-ball), or a laser to shoot bricks directly. Prioritize catching these.
-4.  **[ES]** **Focus on Tough Bricks:** Some bricks may require multiple hits to be destroyed. Focus your efforts on these to open up the level.
-5.  **[ES]** **Use the Walls:** Use the side walls to your advantage. Bouncing the ball off the walls at sharp angles can help you reach tricky spots.
+*   **Mover la pala:** Mueve el ratón a izquierda y derecha para posicionar la
+    pala.
+*   **Lanzar la bola:** Haz clic con el botón izquierdo para lanzar la bola desde
+    la pala al inicio de cada vida.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Move Paddle:** Move your mouse left and right to control the paddle's position.
-*   **[ES]** **Launch Ball:** Click the left mouse button to launch the ball from the paddle at the start of each life.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Romper todos los ladrillos destruibles de cada nivel para pasar
+        al siguiente.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué ocurre si fallo la bola?**
+    *   **R:** Si la bola cae por debajo de la pala, pierdes una vida. La
+        partida termina cuando te quedas sin vidas.
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.
-
-*   **[ES]** **Q: What happens if I miss the ball?**
-    *   **[ES]** **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.
-
-*   **[ES]** **Q: What do the different power-ups do?**
-    *   **[ES]** **A:** Power-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-
+*   **P: ¿Qué hace cada potenciador?**
+    *   **R:** Depende del icono, pero los más comunes amplían la pala, dividen
+        la bola en tres (multi‑bola), convierten la bola en un proyectil que
+        atraviesa varios ladrillos o equipan la pala con láseres.

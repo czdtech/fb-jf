@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: crazy-balls
-title: '[ZH TRANSLATION NEEDED] Crazy Balls'
+title: "Crazy Balls 疯狂弹球"
 description: >-
-  [ZH TRANSLATION NEEDED] Crazy Balls is a physics arcade — bounce, bank, and
-  blast through obstacle mazes with controlled shots.
+  《Crazy Balls 疯狂弹球》是一款基于物理碰撞的街机游戏。通过控制击球角度与力度，让小
+  球在障碍迷宫中弹跳、反弹并炸开阻碍，完成关卡目标。
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/crazy-balls.png
 tags:
@@ -17,31 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Crazy Balls challenges you to send balls through obstacle‑filled stages, leveraging ricochets, bumpers, and moving elements. Precision angles and controlled power separate clean clears from chaotic misses.
+在《Crazy Balls 疯狂弹球》中，你需要将球射入布满挡板、移动平台和墙壁的关卡，利用反弹
+与物理碰撞清除目标。关卡中会出现弹簧、缓冲器与各种动态障碍，你的每一次击球都可能在
+墙壁之间疯狂反射——控制得好就是一串完美连锁，控制不好则会变成混乱的“乱弹琴”。
+
+游戏的关键不在“乱射”，而在于精准的入射角度与适中的力度。掌握好击球方向、利用场景
+边缘做“贴墙反弹”，你可以将小球送入看似不可能到达的狭窄通道，完成高难度清场。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Use side walls to bend trajectories into tight corridors.
-2.  [ZH TRANSLATION NEEDED] Favor medium power for consistency; max power increases chaos.
-3.  [ZH TRANSLATION NEEDED] Wait a beat for moving obstacles to create openings.
-4.  [ZH TRANSLATION NEEDED] Learn rebound distances to plan multi‑bank routes.
-5.  [ZH TRANSLATION NEEDED] Reset quickly after bad lines to preserve time.
+
+1.  **利用侧墙“折射”路线：** 面对狭窄通道或直线打不到的位置，尝试先瞄准侧墙，再利用反
+    弹让球折射进入目标区域，这是通过复杂迷宫的核心技巧之一。
+2.  **优先选择中等力度：** 极大力度虽然看上去爽，但更难预测弹道。多数情况下，中等力
+    度能获得更可控、更稳定的反弹路径，减少“乱飞乱撞”的不确定性。
+3.  **等待移动障碍形成缺口：** 不要急着在障碍刚动起来时出手，观察一两轮运动轨迹，在你
+    已经熟悉节奏后再趁缺口出现的一瞬间发射，会比盲目抢时机成功率高得多。
+4.  **记住常用反弹距离：** 多尝试几次之后，尽量在脑海中留下“从这个点以某个角度发射，会
+    反弹到哪儿”的感觉。掌握几个稳定的折射路径，有助于规划多次反弹后命中目标的高阶
+    路线。
+5.  **瞄准失误时果断重来：** 如果一发射就看出角度完全错误，与其等球在关卡里浪费时间乱
+    弹，不如尽快选择重置，保留更多尝试空间。
 
 ### Controls Guide
 
-- Drag to aim and set power; release to shoot.
-- Restart via UI when needed.
+- 按住并拖动即可调整击球方向与力度，松手后小球会沿对应方向发射。 
+- 如需重新规划路线，可通过界面上的重开按钮快速重置本次尝试。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: Shots feel random — how to control?
-  
-[ZH TRANSLATION NEEDED]   A: Lower power, use simpler angles, and learn consistent bank points on walls.
+- **Q: 感觉每次弹道都很随机，怎么控制？**  
+  **A：** 建议适当降低出球力度，并尽量选择简单、可预判的反弹角度。多在同一位置尝试几
+  次，你会逐渐掌握墙壁和障碍的“固定反射点”，从而减少随机感。
 
-- Q: Are there power‑ups?
-  
-[ZH TRANSLATION NEEDED]   A: Some modes include multiplies or slow‑mo; save for tricky sections.
+- **Q: 有增益道具吗？**  
+  **A：** 某些模式会加入诸如倍率加成、慢动作等辅助道具。建议将这些道具留给结构复杂、
+  需要高精度操作的关卡或关键分数点使用。
 
-- Q: Timed levels?
-  
-[ZH TRANSLATION NEEDED]   A: If timed, prioritize safe progress over risky trick shots.
-
+- **Q: 如果关卡有时间限制怎么办？**  
+  **A：** 在计时模式下，要在“保险路线”和“炫技路线”之间做权衡。相比高风险多次反弹的花
+  响路线，更推荐优先选择命中率高的稳妥路径，保证通关再考虑追求高分。

@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: basketball-legends
-title: '[ZH TRANSLATION NEEDED] Basketball Legends'
+title: "Basketball Legends 篮球传奇"
 description: >-
-  [ZH TRANSLATION NEEDED] A complete guide to the arcade sports game Basketball
-  Legends. Learn the controls, strategies for offense and defense, how to use
-  the supershot, and answers to common questions for 1-player and 2-player
-  modes.
+  《Basketball Legends 篮球传奇》完整攻略：带你掌握街机篮球的全部技巧——从基础操作、进攻与防守思路，到
+  Super Shot 超级投篮的使用时机，以及单人和双人模式的常见问题解答。
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/basketball-legends.jpg
 tags:
@@ -19,68 +17,67 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] *Basketball Legends* is a fast-paced, 2D arcade basketball game featuring exaggerated, caricature-style versions of famous basketball players. The game strips away the complexities of a simulation and focuses on pure, action-packed fun. Players can compete in 1-on-1 or 2-on-2 matches where the objective is simple: score more points than your opponent before the timer runs out.
+*Basketball Legends 篮球传奇* 是一款节奏飞快的 2D 街机篮球游戏，登场角色都是夸张卡通风格的篮球明星。它摒弃了复杂的真实模拟，只保留最爽快的攻防对抗，让你专注于运球、突破、盖帽和暴扣的瞬间快感。
 
-[ZH TRANSLATION NEEDED] The gameplay is characterized by high-flying dunks, powerful blocks, and frantic movement. A key feature is the "Super Shot" mechanic: a special, unblockable shot that players can unleash after filling a power meter. With different modes available, including a quick match, a tournament, and a two-player mode, the game is designed for both solo players looking for a challenge and friends wanting to compete against each other on the same keyboard.
+你可以参加 1v1 或 2v2 对局，目标很纯粹：在计时结束前，比对手多拿分。游戏的标志性机制是 **Super Shot 超级投篮**——当能量槽蓄满后，可以释放一次几乎无法被封盖的必进球。再加上快速比赛、锦标赛、双人同键盘等多种模式，无论你是独自挑战 AI，还是和朋友在同一键盘上对战，都能找到合适的玩法节奏。
 
-### Gameplay Strategy
+### 游戏策略
 
-[ZH TRANSLATION NEEDED] Success in *Basketball Legends* is about mastering movement, timing, and the strategic use of your special abilities.
+想要在 *Basketball Legends* 中稳定获胜，关键在于掌握移动细节、出手节奏，以及在对的时间使用 Super Shot 和队友配合。
 
-#### On Offense:
+#### 进攻端（On Offense）
 
-1.  **Use Your Dash:** Dashing (double-tapping a movement key) is the most important tool for creating space. Use it to blow past your defender for an easy dunk or to get open for a jump shot.
-2.  **Know When to Dunk vs. Shoot:** A dunk is a high-percentage shot that is difficult to block, but it requires you to be very close to the basket. A jump shot can be taken from further away but is easier for a defender to block. Mix up your attacks to keep your opponent guessing.
-3.  **Master the Super Shot:** The Super Shot meter fills as you perform actions like shooting and defending. Once full, unleash it! It's a guaranteed point and can change the momentum of a close game. Don't use it when you're already wide open for an easy dunk; save it for when you're heavily defended.
-4.  **Use Your Teammate (2v2):** In a 2-on-2 match, don't forget you have a partner. If you're being double-teamed, pass the ball to your open teammate for an easy score.
+1.  **善用冲刺（Dash）：** 冲刺（连续快速双击移动键）是制造空间最重要的工具。用它从防守人身边一穿而过，直接暴扣；或者在外线迅速拉开距离，创造空位跳投机会。
+2.  **懂得何时扣篮、何时跳投：** 扣篮命中率极高，也更难被盖帽，但需要贴近篮筐；跳投可以在更远距离出手，却更容易被封盖。进攻时不要只依赖一种方式，适当切换打法，才能让对手难以预测你的进攻选择。
+3.  **掌握 Super Shot 的节奏：** Super Shot 能量槽会在你投篮、防守、抢断时逐渐蓄满。能量满格后的一次超级投篮几乎是必进球，可以直接改变比分走势。不要在已经完全空位时浪费 Super Shot，把它留在对手防守严密、或关键分差的回合使用。
+4.  **2v2 时别忘了队友：** 在 2v2 模式中，队友是你进攻端最好的“保险”。如果你被包夹或被完全封住路线，果断把球传给处于空位的队友，让他完成轻松得分。
 
-#### On Defense:
+#### 防守端（On Defense）
 
-1.  **Stay Grounded (Mostly):** Don't jump randomly. A poorly timed jump will leave you vulnerable and give your opponent an open lane to the basket. Only jump when you are in a position to block a shot.
-2.  **Timing Your Blocks:** To block a shot, you need to jump just as the opponent is at the peak of their jump. Stay between the shooter and the basket and time your leap perfectly to swat the ball away.
-3.  **Pump for the Steal:** The "pump" or "steal" action is effective when the opponent is dribbling near you. Use it to knock the ball loose and create a fast-break opportunity.
-4.  **Dash on Defense:** Dashing is just as crucial on defense. Use it to quickly get back into position or to close out on a shooter before they can get a shot off.
+1.  **不要盲目起跳：** 乱跳只会让自己空中无力，给对手机会轻松突破上篮。大部分时间保持站稳位置，只在判断对手即将出手、且你已经到位时再起跳封盖。
+2.  **把握好封盖时机：** 盖帽的核心在于 **起跳时机**——要在对手跳起、接近最高点时起跳出手，保持自己刚好在球和篮筐之间的位置，才能把球牢牢盖下。
+3.  **用抢断（Steal）制造快攻：** 当对手在你身边运球时，使用“晃动/抢断”键可以把球拨掉，制造失误。成功抢断后马上冲刺反击，很多轻松得分都来自这种防守转进攻的瞬间。
+4.  **防守同样需要冲刺：** 冲刺不仅是进攻工具，也是补防利器。对手形成空位或快速推进时，立刻使用 Dash 回防，封堵上篮路线或干扰外线出手。
 
-### Controls Guide
+### 操作指南（Controls Guide）
 
-[ZH TRANSLATION NEEDED] The game is well-known for its two-player setup on a single keyboard.
+本作最有名的一点，就是支持两名玩家在同一键盘上对战；键位设计也非常经典。
 
-#### Player 1 Controls:
-*   **Movement:** `A` and `D` keys
-*   **Dash:** Double-tap `A` or `D`
-*   **Shoot / Dunk:** `B` key
-*   **Pump / Steal:** `S` key
-*   **Jump:** `W` key
-*   **Super Shot:** `V` key
+#### 玩家 1 操作
 
-#### Player 2 Controls:
-*   **Movement:** `Left` and `Right Arrow` keys
-*   **Dash:** Double-tap `Left` or `Right Arrow`
-*   **Shoot / Dunk:** `L` key
-*   **Pump / Steal:** `Down Arrow` key
-*   **Jump:** `Up Arrow` key
-*   **Super Shot:** `K` key
-*   **Shoot / Dunk:** `L` key
-*   **Pump / Steal:** `Down Arrow` key
-*   **Jump:** `Up Arrow` key
-*   **Super Shot:** `K` key
+*   **移动：** 使用 `A` 和 `D` 键左右移动
+*   **冲刺（Dash）：** 快速连续双击 `A` 或 `D`
+*   **投篮 / 扣篮：** `B` 键
+*   **晃动 / 抢断：** `S` 键
+*   **起跳：** `W` 键
+*   **Super Shot 超级投篮：** `V` 键（能量槽蓄满时）
 
-### Frequently Asked Questions (FAQ)
+#### 玩家 2 操作
 
-[ZH TRANSLATION NEEDED] **1. How do I perform a Super Shot?**
-[ZH TRANSLATION NEEDED] You must first fill the blue power bar at the bottom of the screen by playing the game (shooting, stealing, blocking). Once the bar is full and flashing, press the designated Super Shot key (`V` for Player 1, `K` for Player 2) to perform an unblockable special shot.
+*   **移动：** 使用 `←` 和 `→` 方向键
+*   **冲刺（Dash）：** 快速连续双击 `←` 或 `→`
+*   **投篮 / 扣篮：** `L` 键
+*   **晃动 / 抢断：** `↓` 方向键
+*   **起跳：** `↑` 方向键
+*   **Super Shot 超级投篮：** `K` 键
 
-[ZH TRANSLATION NEEDED] **2. What is the best way to win a tournament?**
-[ZH TRANSLATION NEEDED] Tournaments require you to win several games in a row against increasingly difficult opponents. The key is consistent defense. Focus on preventing your opponent from scoring, as your own points will come. Save your Super Shot for tie-breaking moments or to secure a lead near the end of the game.
+在大多数版本中，当你的队友没有持球时，“投篮键”（`B` 或 `L`）会被视作传球键，用来把球传给队友。
 
-[ZH TRANSLATION NEEDED] **3. Why can't I block the Super Shot?**
-[ZH TRANSLATION NEEDED] The Super Shot is intentionally designed to be unblockable. It's a reward for skilled play and serves as a powerful comeback mechanic.
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **4. What's the difference between the characters?**
-[ZH TRANSLATION NEEDED] While the game features many different characters, their core abilities are generally the same. The differences are mostly cosmetic, allowing you to play as your favorite legend.
+**1. Super Shot 要怎么释放？**  
+要先通过投篮、封盖和抢断来积累底部的蓝色能量条。能量条充满并开始闪烁时，按下对应的 Super Shot 键（玩家 1 用 `V`，玩家 2 用 `K`），即可释放一次几乎无法被封盖的超级投篮。
 
-[ZH TRANSLATION NEEDED] **5. Can I pass the ball in a 2-on-2 match?**
-[ZH TRANSLATION NEEDED] In most versions of the game, the "shoot" button (`B` or `L`) acts as a "pass" button when your teammate does not have the ball.
+**2. 锦标赛模式有什么取胜诀窍？**  
+锦标赛要求你连续击败一系列难度逐渐提升的对手。核心思路是“防守优先”：先确保自己不被轻易得分，你的进攻机会自然会不断出现。把 Super Shot 留给关键局势——例如打破僵局、反超比分，或者锁定最后几秒的领先优势。
 
+**3. 为什么我始终盖不到 Super Shot？**  
+设计上，Super Shot 就是一招几乎无法被封盖的“必杀技”。它是对玩家良好操作的奖励，也是落后方翻盘的关键机制。因此与其硬拼封盖，不如提前预判对手 Super Shot 时机，通过抢断或保持比分优势来化解威胁。
+
+**4. 不同球员之间有属性差别吗？**  
+游戏里有很多不同的传奇球员形象，但大多数版本中，他们的基础能力差异并不大，主要区别是外观和动画风格。你可以放心选择自己喜欢的传奇球星，更重要的是熟悉操作和战术，而不是纠结微小数值差异。
+
+**5. 在 2v2 模式中可以传球吗？**  
+可以。通常在队友没有持球时，使用投篮键（玩家 1 的 `B`，玩家 2 的 `L`）就会变成传球操作。合理运用传球，把球交给处于更好位置的队友，是打好 2v2 的关键之一。

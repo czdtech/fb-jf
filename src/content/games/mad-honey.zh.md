@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: mad-honey
-title: '[ZH TRANSLATION NEEDED] Mad Honey'
-description: >-
-  [ZH TRANSLATION NEEDED] Mad Honey is a bite‑size arcade adventure — collect
-  nectar, dodge hazards, and return safely to the hive.
+title: 《Mad Honey》疯狂蜂蜜
+description: 《Mad Honey》是一款小巧的街机冒险游戏，你要在场景中采集花蜜、躲避危险，并安全把蜂蜜带回蜂巢。
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/mad-honey.png
 tags:
@@ -16,26 +14,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar while avoiding simple enemies and environmental hazards. Levels emphasize careful flight paths, timing through patrols, and safe returns to score.
+《Mad Honey》是一款节奏轻快、适合“随手打一局”的小型冒险游戏。你扮演一只忙碌的小蜜蜂，在充满简单敌人和环境陷阱的区域中采集花蜜。每一关都强调规划飞行路线、把握巡逻怪的节奏，并在安全时机返回蜂巢完成得分。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Plot routes: Identify nectar clusters and patrol paths before committing.
-2.  [ZH TRANSLATION NEEDED] Small corrections: Feather movement to thread narrow gaps without oversteering.
-3.  [ZH TRANSLATION NEEDED] Stagger pickups: Clear risky clusters in two passes if needed.
-4.  [ZH TRANSLATION NEEDED] Watch timers: Deposit nectar regularly if a timer or carry limit exists.
-5.  [ZH TRANSLATION NEEDED] Risk vs. reward: Skip tight pickups when low on time or health.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **先规划路线**：起飞前先扫一眼花蜜的集中区域以及敌人的巡逻路线，大致规划一条“采集 → 回巢”的安全回路。  
+2.  **用小幅调整穿越缝隙**：在狭窄空间内尽量使用轻微的位移调整，而不是大幅摇摆，避免因为过度修正撞上障碍。  
+3.  **分两次清理高风险区域**：对聚集在危险地带的花蜜，可以分两波进入采集，不必一次全拿，先保证能顺利撤退。  
+4.  **注意计时或负重限制**：如果关卡有携带上限或时间限制，尽量定期返回蜂巢交付，不要贪多导致时间不足或行动迟缓。  
+5.  **权衡风险与收益**：当生命值或时间所剩无几时，果断放弃那些处于危险边缘的花蜜，以存活通关为第一目标。  
 
-- Move: Arrow keys / WASD or analog drag.
-- Interact: Automatic pickups on contact.
+### 操作说明
+
+- 使用方向键或 WASD 控制飞行方向，或在触屏上拖动控制；靠近花蜜即可自动采集，快速重开可用于刷更干净的“完美路线”。  
+
+
 - Retry: Quick restart for clean runs.
 
-### Frequently Asked Questions (FAQ)
+- Interact: Automatic pickups on contact.
+### 常见问题（FAQ）
 
-- Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
-- Is there scoring depth? Longer chains and clean returns typically grant bonuses.
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
+*   **Q: 敌人移动看起来很“阴间”，怎么才能不被阴到？**  
+- **A:** 花点时间观察敌人的巡逻周期和转折点，只在出现绝对安全间隙时通过，避免在“刚好够”的缝隙里硬挤。  
 
+*   **Q: 这游戏有深度计分玩法吗？**  
+    *   **A:** 通常更长的无伤采集链和快速返巢会提供额外加成，如果你追求高分，可以在熟悉敌人路线后制定更激进的采集路径。  
+
+*   **Q: 可以硬抗伤害强冲过去吗？**  
+    *   **A:** 多数模式对生命值惩罚较严，硬吃伤害往往得不偿失，建议始终把存活放在得分之前。

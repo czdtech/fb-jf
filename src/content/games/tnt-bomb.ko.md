@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tnt-bomb
-title: '[KO] TNT Bomb'
+title: "TNT Bomb TNT 폭탄"
 description: >-
-  [KO] A physics-based puzzle of strategic demolition! Place your limited
-  explosives, including dynamite and powerful bombs, to completely destroy the
-  structures on each level.
+  제한된 양의 폭탄을 이용해 건물을 무너뜨리는 물리 기반 폭파 퍼즐 게임입니다. 다이너마이트와
+  강력한 폭탄을 구조물의 약점에 설치해 각 스테이지의 구조물을 완전히 파괴해 보세요.
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/tnt-bomb.jpg
@@ -18,33 +17,44 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+TNT Bomb는 전략과 물리 엔진이 결합된 폭파 퍼즐 게임입니다. 각 스테이지마다 다양한 구조물이 등장하고,
+플레이어는 한정된 수의 폭탄을 이용해 이 구조물을 최대한 많이 파괴해야 합니다. 구조물의 형태와 지지대
+배치를 잘 관찰한 뒤, 가장 큰 연쇄 붕괴를 일으킬 수 있는 위치에 폭탄을 설치하는 것이 핵심입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-TNT Bomb is a strategic, physics-based puzzle game where your objective is demolition. In each level, you are presented with a structure and a limited inventory of explosives. Your task is to carefully place your bombs on the structure in a way that will cause the most damage. By identifying key support points and using the right bomb for the job, you must try to obliterate the entire structure to move on to the next challenge.
+1.  **구조 먼저 분석하기**: 폭탄을 놓기 전에 구조물을 천천히 살펴보세요. 어디가 약한 부분인지,
+    어떤 기둥과 지지대가 전체를 떠받치고 있는지 파악하면 훨씬 적은 폭탄으로 큰 피해를 줄 수
+    있습니다.
+2.  **기초(Foundation) 노리기**: 대부분의 경우, 구조물의 아래쪽 지지대를 무너뜨리는 것이 가장
+    효율적입니다. 가장 강력한 폭탄을 하단 지지 블록에 설치하면, 위쪽 전체 구조가 자기 무게를
+    견디지 못하고 한꺼번에 붕괴합니다.
+3.  **폭탄 종류 이해하기**: 일반 TNT는 한두 블록을 제거하는 데 적합하지만, 범위가 넓은 폭탄은
+    주변까지 함께 날려 버릴 수 있습니다. 좁은 부분에는 소형 폭약을, 중요한 기둥이나 넓은 면에는
+    대형 폭탄을 사용하는 식으로 역할을 나누면 좋습니다.
+4.  **연쇄 반응 노리기**: 폭발을 한 점에서 끝내지 말고, 쓰러진 구조물이 다른 부분을 밀어 떨어뜨리도록
+    유도해 보세요. 어느 블록을 없앴을 때 위 구조가 어떻게 쓰러질지 미리 상상하면, 한 번의 폭발로
+    예상보다 훨씬 많은 부분을 파괴할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Analyze the Structure:** Before placing any bombs, examine the structure's design. Look for weak points, key support beams, and load-bearing blocks at the base.
-2.  **[KO]** **Target the Foundation:** The most effective strategy is almost always to destroy the foundation. Placing your most powerful explosives on the lowest support blocks will destabilize the entire structure, causing it to collapse under its own weight.
-3.  **[KO]** **Know Your Explosives:** You will have different types of bombs. A standard TNT stick might be good for a single block, while a larger C4 bomb will have a much bigger blast radius. Use the right tool for the right job.
-4.  **[KO]** **Chain Reactions:** Think about how the explosion will travel. Placing a bomb that causes one part of the structure to fall onto another can create a chain reaction, leading to more destruction than the bomb could achieve on its own.
+*   **폭탄 선택**: 화면 하단 인벤토리에서 사용하고 싶은 폭탄 종류를 클릭합니다.
+*   **폭탄 배치**: 구조물의 블록을 클릭해 선택한 폭탄을 설치합니다.
+*   **폭파(기폭)**: 준비가 끝났다면 "Boom" 또는 "Detonate" 버튼을 눌러 한꺼번에 폭발을
+    시작합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Select Bomb:** Click on the type of explosive you want to use from your inventory.
-*   **[KO]** **Place Bomb:** Click on a block within the structure to place the selected bomb.
-*   **[KO]** **Detonate:** Once you have placed all your available bombs, click the "Boom" or "Detonate" button to watch the fireworks.
+*   **Q: 각 스테이지의 목표는 무엇인가요?**  
+    *   **A:** 대부분의 스테이지에서는 구조물의 일정 비율 이상을 파괴해야 합니다. 어떤 곳은 100%에
+        가까운 파괴를 요구하기도 하니, 목표 퍼센트를 잘 확인해 주세요.
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 분명 많이 터뜨렸는데도 건물이 안 무너졌어요. 왜 그런가요?**  
+    *   **A:** 기둥이나 하단 지지대가 남아 있으면 위쪽 일부만 무너지고 전체가 버티는 경우가 많습니다.
+        외곽 벽이나 꼭대기만 터뜨리기보다는, 하단의 주요 지지 블록을 노려 보세요.
 
-*   **[KO]** **Q: What is the goal of each level?**
-    *   **[KO]** **A:** The goal is to cause enough destruction to meet the level's requirement, which is usually to destroy a certain percentage of the blocks (often 100%).
-
-*   **[KO]** **Q: Why didn't the building fall down?**
-    *   **[KO]** **A:** You likely placed your bombs in an ineffective location. Try placing them lower down on the main support blocks instead of on the outer walls or at the top.
-
-*   **[KO]** **Q: Can I place more than one bomb?**
-    *   **[KO]** **A:** Yes, you must place all the bombs provided in your inventory for that level before you can detonate them.
-
+*   **Q: 한 스테이지에서 폭탄을 여러 개 쓸 수 있나요?**  
+    *   **A:** 네, 해당 스테이지에서 제공되는 모든 폭탄을 다 배치한 뒤에만 기폭할 수 있는 경우가
+        많습니다. 남은 폭탄이 있다면 위치를 다시 고민해 보고 모두 사용한 뒤 폭파 버튼을 누르세요.

@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: word-scramble
-title: '[ZH TRANSLATION NEEDED] Word Scramble'
+title: 'Word Scramble：字母重组猜词'
 description: >-
-  [ZH TRANSLATION NEEDED] Unscramble letters and challenge your mind in Word
-  Scramble, a classic word puzzle game! Rearrange jumbled letters to form the
-  correct word within a time limit. Test your vocabulary and quick thinking
-  across various levels and categories in this engaging brain-teaser.
+  《Word Scramble》是一款经典的英文字母重组游戏。
+  在限定时间内把打乱顺序的字母重新排列成正确单词，
+  一边训练词汇量，一边考验你的反应与模式识别能力。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/word-scramble.jpg
 tags:
@@ -17,35 +16,52 @@ score: 3.5/5  (764 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Word Scramble is a classic and engaging word puzzle game that challenges players to rearrange a set of jumbled letters to form a meaningful word. It's a test of vocabulary, pattern recognition, and quick thinking. The game often features various difficulty levels and categories, keeping the gameplay fresh and challenging.
+《Word Scramble》是一款历史悠久的字谜玩法——给你一堆被打乱顺序的字母，
+你需要在有限时间内把它们重新排列，拼出一个有意义的英文单词。
 
-### Gameplay Guide
+这类游戏看似简单，却非常考验你的词汇储备、对字母结构的敏感度，以及在时间压力下的思考速度。
+随着难度提升，单词长度会变长、字母组合也更刁钻，让每一道题都像一个小小的“字母魔方”。
 
-- **Objective:** The main goal is to correctly identify the original word from a given set of scrambled letters.
-- **Letters:** You will be presented with a set of letters that are an anagram of a single word.
-- **Time Limit:** Many versions include a time limit, adding pressure and testing your speed.
-- **Hints:** If you get stuck, hints might be available, such as revealing a letter or providing a definition.
-- **Scoring:** Points are typically awarded for correct answers, with bonuses for faster solutions.
+### 游玩指南
 
-### Controls Guide
+- **游戏目标（Objective）：**  
+  根据给定的一组乱序字母，推理出它们原本组成的正确单词。
 
-- **Typing:** Use your keyboard to type the word you believe is correct.
-- **Rearrange Letters:** Some versions allow you to click and drag letters to rearrange them visually, or have a "shuffle" button.
-- **Submit:** Press `Enter` to submit your answer.
+- **字母信息（Letters）：**  
+  屏幕上展示的字母其实是某个单词的变位组合（anagram），
+  所有字母都会被用上，不会多也不会少。
 
-### Frequently Asked Questions (FAQ)
+- **时间限制（Time Limit）：**  
+  很多版本都带有倒计时，你需要在时间归零前给出答案，
+  越快完成往往还能获得额外加分。
 
-[ZH TRANSLATION NEEDED] **How do I play Word Scramble?**
+- **提示系统（Hints）：**  
+  当你实在想不出时，可以使用提示功能，
+  例如显示一个正确字母位置、给出单词释义，或直接跳过本题。
 
-[ZH TRANSLATION NEEDED] You are given a set of jumbled letters. Your task is to rearrange these letters to form a valid English word.
+- **评分规则（Scoring）：**  
+  正确答题即可得分，通常用更短时间完成会有时间加成，
+  连续答对多题还可能触发连击或额外奖励。
 
-[ZH TRANSLATION NEEDED] **What if I can't find the word?**
+### 操作指南
 
-[ZH TRANSLATION NEEDED] Most games offer hints or a "pass" option. You can also try shuffling the letters to get a new perspective.
+- **键盘输入：** 使用键盘直接输入你认为正确的单词答案。
+- **拖拽重排：** 部分版本支持用鼠标拖动字母卡片重新排序，
+  或提供一个“Shuffle（洗牌）”按钮来随机打乱字母帮助你换个思路。
+- **提交答案：** 输入完成后按 `Enter` 键或点击提交按钮确认答案。
 
-[ZH TRANSLATION NEEDED] **Are there different types of Word Scramble games?**
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] Yes, variations include games with different word lengths, categories (e.g., animals, countries), or competitive multiplayer modes where players race to solve the scramble first.
+**问：这游戏具体怎么玩？**  
+**答：** 游戏会给你一组被打乱的字母，你要把它们重新排列，拼成一个合法的英文单词。
+可以通过心中默念、在纸上写出不同组合，或使用游戏提供的拖拽功能来尝试。
 
+**问：如果实在想不出怎么办？**  
+**答：** 你可以使用提示、选择跳过，或者尝试打乱字母顺序重新观察。
+很多时候换一个排列方式，就能突然意识到正确答案。
+
+**问：有没有不同类型的 Word Scramble？**  
+**答：** 有的。一些版本会按主题分类（如动物、国家、食物），
+另一些则增加多人竞速模式，玩家之间比拼谁先在限定时间内解出同一组字母。

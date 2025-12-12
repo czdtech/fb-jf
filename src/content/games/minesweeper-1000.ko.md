@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: minesweeper-1000
-title: '[KO] Minesweeper 1000'
+title: "Minesweeper 1000 마인스위퍼 1000"
 description: >-
-  [KO] Minesweeper 1000 refreshes classic minesweeper — read number logic, flag
-  bombs, and clear huge boards with efficient techniques.
+  Minesweeper 1000은 고전 마인스위퍼를 현대적으로 확장한 퍼즐로, 숫자 논리를 읽어 지뢰를
+  표시하고, 효율적인 테크닉으로 거대한 보드를 클리어하는 게임입니다.
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/minesweeper-1000.png
 tags:
@@ -16,34 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Minesweeper 1000*은 고전 논리 퍼즐인 마인스위퍼를 대형 보드와 편의 기능으로 확장한
+버전입니다. 목표는 지뢰를 밟지 않고 모든 안전한 칸을 여는 것이며, 공개된 숫자는 해당
+칸을 둘러싼 8칸(대각선 포함)에 몇 개의 지뢰가 있는지 알려 줍니다. 큰 보드에서는 패턴
+인식, 빠른 차핑(숫자 주변 일괄 오픈), 그리고 확률에 의존하는 상황을 최소화하는 것이
+중요합니다.
 
-Minesweeper 1000 is a modern take on the classic logic puzzle. Uncover all safe tiles without detonating mines: each revealed number shows how many bombs touch that tile (including diagonals). Larger boards emphasize pattern recognition, fast chording, and safe guessing minimization.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **핵심 패턴 익히기:** 1-2 패턴, 1-1 패턴, 가장자리의 1-2-1 패턴 등 기본 형태를
+   익혀 두면 깃발을 확정적으로 놓을 수 있는 구간이 크게 늘어납니다.
+2. **차핑(Chording) 활용:** 많은 버전에서, 숫자 주변 지뢰 칸을 모두 깃발로 표시한 뒤
+   해당 숫자를 한 번 더 클릭하면 나머지 안전 칸이 한꺼번에 열립니다. 이를 적극
+   활용하면 속도를 크게 높일 수 있습니다.
+3. **확률 선택:** 어쩔 수 없이 찍어야 할 때는 주변 미지 칸이 많은 위치를 선택해 한 칸을
+   열었을 때 얻는 정보량을 최대화하세요.
+4. **프런티어 집중:** 이미 열린 영역과 미지 영역의 경계선을 따라 문제를 풀어 나가고,
+   아무 의미 없이 안쪽 안개를 파는 무작위 클릭은 피하는 것이 좋습니다.
+5. **깃발 관리:** 확실하지 않은 칸에는 섣불리 깃발을 꽂지 말고, 지원되는 버전이라면
+   물음표나 메모 마크를 활용해 후보 정도로만 표시하세요.
 
-1.  **[KO]** Core patterns: Master 1-2, 1-1, and 1-2-1 edge patterns to place flags deterministically.
-2.  **[KO]** Chording: On many builds, clicking a number with all its mines flagged opens surrounding safe tiles; abuse this for speed.
-3.  **[KO]** Probability: When forced to guess, choose corners with more unknown neighbors to maximize information.
-4.  **[KO]** Frontier focus: Solve along the boundary between known and unknown; avoid random digs deep in fog.
-5.  **[KO]** Flag hygiene: Only flag when certain; otherwise keep candidate notes (if the build supports marks).
+### 조작 방법
 
-### Controls Guide
+- **왼쪽 클릭:** 칸 열기
+- **오른쪽 클릭:** 지뢰 깃발 표시
+- **가운데 클릭/차핑:** 숫자 주변에 필요한 수만큼 깃발이 꽂혀 있을 때, 해당 숫자를
+  클릭해 나머지 주변 칸을 한 번에 여는 기능(지원 여부는 버전마다 다를 수 있음)
+- 메뉴에서 빠른 재시작 가능
 
-- Left‑click: reveal. Right‑click: flag. Middle/Chord: open around a satisfied number (implementation‑dependent). Quick restart from the menu.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 50:50 상황에서 막혔어요. 어떻게 해야 하나요?
 
-- Q: I’m stuck with a 50/50 — what now?
+  A: 먼저 다른 구역에 놓친 패턴이 없는지 다시 살펴보세요. 정말 선택지가 둘뿐이라면,
+  새로 드러나는 칸이 더 많은 쪽을 열어 정보량을 최대화하는 편이 낫습니다.
 
-A: Scan for overlooked patterns elsewhere or pick the tile that reveals the largest new frontier if you must guess.
+- Q: 차핑 기능이 정확히 뭐예요?
 
-- Q: What does chording do?
+  A: 어떤 숫자를 둘러싼 칸들 중, 지뢰로 확정된 칸에 모두 깃발을 꽂은 뒤 그 숫자를
+  다시 클릭하면 남은 주변 칸이 한 번에 열리는 기능입니다.
 
-A: If a number’s adjacent flags equal its count, chording reveals all its other neighbors at once.
+- Q: 초반에는 어디부터 여는 게 좋나요?
 
-- Q: Any tip for early game?
-
-A: Start in the center to maximize opening cascades; corners give less information.
-
+  A: 보통 판 중앙 근처부터 여는 것이 연쇄 오픈을 많이 만들어 정보를 빠르게 얻는 데
+  유리합니다. 모서리에서 시작하면 정보량이 적어 초반이 더 답답해질 수 있습니다.

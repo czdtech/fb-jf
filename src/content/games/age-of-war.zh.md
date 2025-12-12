@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: age-of-war
-title: '[ZH TRANSLATION NEEDED] Age of War'
-description: >-
-  [ZH TRANSLATION NEEDED] iscover the ultimate guide to Age of War, the classic
-  strategy game. Learn winning strategies, controls, and tips to evolve your
-  army from cavemen to future warriors and dominate the battlefield.
+title: Age of War 战争时代
+description: 在《Age of War（战争时代）》中，你将从石器时代一路进化到未来时代，通过造兵、防守、进攻与时机把控，击退敌军并摧毁对方基地。
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/age-of-war.jpg
@@ -16,48 +13,44 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Age of War is a classic 2D side-scrolling strategy game that became widely popular during the Flash game era. The game's core concept is a battle between two bases, one belonging to the player and the other to an AI opponent. The unique and defining feature of the game is its "evolution" mechanic. Players start in the Stone Age (as cavemen) and must earn experience points (XP) to advance through five distinct eras: Stone Age, Middle Ages, Modern Age, and finally, the Future Age. Each evolution not only unlocks more powerful units and defensive turrets but also fully restores your base's health. The ultimate goal is simple: survive the enemy's onslaught and destroy their base.
+《Age of War（战争时代）》是一款诞生于 Flash 时代的经典 2D 横版对战策略游戏。你和 AI 各自拥有一座基地，通过训练单位向前推进、抵御来犯敌军，最终目标是摧毁对方基地并守住自己。游戏的核心特色是“时代进化”机制：从最初的石器时代出发，通过击杀敌军累积经验（XP），依次进化到中世纪、现代时代，最终迈入未来时代。每次进化不仅会解锁更强的单位和防御炮塔，还会**瞬间回满基地生命值**，相当于一次“整体升级 + 完整回血”。想要获胜，就要在生存与进攻之间拿捏好节奏，在恰当的时代用恰当的兵种压垮对手。
 
-### Gameplay Strategy & Walkthrough
+### 游戏策略与通关指南
 
-[ZH TRANSLATION NEEDED] Mastering Age of War requires a balance of offense, defense, and strategic timing.
+想真正玩好《Age of War》，需要在进攻、防守和进化时机之间取得平衡。
 
-#### 1. Early Game Strategy (Stone Age)
-*   **The Caveman Rush:** The most common and effective opening strategy is to spam the cheapest unit, the "Club Man." They are cost-effective and can quickly overwhelm the enemy in the early stages.
-*   **Focus on XP:** Your primary goal is to kill enemy units to gain XP as quickly as possible. A strong offensive push helps you earn XP faster, leading to an earlier evolution.
-*   **First Turret:** Build the first turret (Sling Shot) as soon as you can afford it. It provides crucial defensive support and helps you conserve units and health while you save up for more powerful troops or your first evolution.
+#### 1. 前期策略（石器时代）
+*   **棍棒兵速攻（The Caveman Rush）：** 最稳定的开局思路，是不断生产最便宜的棍棒兵（Club Man），用数量堆出一条人海兵线，尽早把战线顶到中线甚至敌方基地门口，占据经验优势。
+*   **优先刷经验（Focus on XP）：** 你的首要目标是尽快通过击杀敌军获取 XP，以便更早解锁下一时代。稳扎稳打的防守固然安全，但前期更需要一波强势进攻，把对面压在家门口刷经验。
+*   **尽早建第一门炮塔（First Turret）：** 在金币允许的情况下，尽快建出第一座投石/弹弓炮塔（Sling Shot）。它能大幅削弱冲到你家门口的敌军，让你在造兵和进化之间有更充裕的缓冲空间。
 
-#### 2. Mid-Game Strategy (Middle Ages & Modern Age)
-*   **Balanced Army:** Stop spamming only one type of unit. Create a balanced force. Place melee units (knights, infantry) at the front to absorb damage and protect your powerful but fragile ranged units (archers, riflemen) in the back.
-*   **When to Evolve:** Timing your evolution is critical. The best time to evolve is when your base health is low, as evolving fully restores it. Alternatively, evolve when you have a clear battlefield advantage to press your attack with superior units. Don't evolve if you are in the middle of a strong push, as it will clear all your units from the field.
-*   **Use Your Special Ability:** Each age comes with a powerful special ability (e.g., meteor shower, god's wrath). These have a long cooldown but can turn the tide of a battle. Use them to wipe out a large wave of enemy units or to support your own major offensive.
+#### 2. 中期策略（中世纪 & 现代时代）
+*   **前排扛伤，后排输出（Balanced Army）：** 进入中期后，只刷单一兵种很容易被针对。更好的做法是让骑士或近战步兵站在前排吃伤害，把弓箭手、步枪兵等高输出但脆皮的单位安排在后排持续输出，形成“肉盾 + 火力”双层编制。
+*   **把握进化时机（When to Evolve）：** 进化会清空你和敌人当前场上的所有单位，并立刻回满己方基地血量。通常在基地血量已经不安全时，是按下进化按钮的好时机；或者在你刚刚清掉对方一大波兵、战场相对干净时进化，再用高一时代的单位发起新一轮总攻。反之，如果你正依靠一条成型兵线疯狂拆塔，就不要在此刻贸然进化，以免白白清空自己的优势。
+*   **善用各时代大招（Use Your Special Ability）：** 每个时代都有冷却极长但是非常强力的范围技能（比如陨石雨、神罚等）。它们非常适合用来清理敌人的超级兵潮，或者在你准备打一波决定性总攻时配合使用，往往能直接改变整局战况。
 
-#### 3. Late Game Strategy (Future Age)
-*   **The Super Soldier:** In the Future Age, the "Super Soldier" is one of the most powerful units in the game. They are expensive but incredibly durable and have immense firepower. Saving up for a few of these can create an unstoppable force.
-*   **Advanced Turrets:** Fully upgrade your turrets. The final-era turrets deal massive damage and are essential for defending against the enemy's powerful futuristic units.
-*   **Final Push:** Coordinate your most powerful units with your special ability for a final, decisive push to destroy the enemy base.
+#### 3. 后期策略（未来时代）
+*   **未来超级士兵（The Super Soldier）：** 到了未来时代，Super Soldier 是真正的“终极兵种”：造价昂贵，但血量高、伤害爆炸。可以先用普通单位稳住战线，等资源充足后集中造出几名超级士兵，一旦成型就很难被挡住。
+*   **炮塔全面升级（Advanced Turrets）：** 敌人同样会进化到高时代，单靠地面部队往往挡不住他们的火力。尽量把基地上所有炮塔升级到最高级，让它们成为可靠的“第二道防线”，避免被一波兵线直接推平。
+*   **配合大招完成终结一推（Final Push）：** 在你集结了最强的高时代部队、并且大招冷却完毕之后，可以选择在敌方基地前果断开大，配合兵线完成最后的终结一推，一举摧毁对方基地。
 
-### Controls Guide
+### 操作指南
 
-[ZH TRANSLATION NEEDED] The game is controlled almost entirely with the mouse.
+本作几乎可以完全用鼠标来操作。
 
-*   **Train Units:** Click on the unit icons at the top-left of the screen to train them. You must have enough gold.
-*   **Build Turrets:** Click on the empty turret slots on top of your base to open the build menu, then select a turret to construct.
-*   **Use Special Ability:** Click the special ability icon on the top-right of the screen when it's ready (not on cooldown).
-*   **Evolve:** Click the "Evolve" button at the top-right of the screen once you have accumulated enough XP.
+*   **训练单位（Train Units）：** 点击界面左上角的单位图标，只要金币足够，就会开始生产对应单位。
+*   **建造炮塔（Build Turrets）：** 点击基地顶部的空炮塔槽位打开建造菜单，然后选择想要建造或升级的炮塔类型。
+*   **释放大招（Use Special Ability）：** 当右上角的大招图标冷却结束时，点击即可发动当前时代的范围技能。
+*   **时代进化（Evolve）：** 当经验条累积到指定值后，点击右上角的“Evolve/进化”按钮，就可以进入下一时代。
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I get XP?**
-    *   **A:** 每当你的单位击杀敌方单位时，你就会获得经验值（XP）。
-
-*   **Q: What is the best unit in the game?**
-    *   **A:** 虽然这取决于具体情况，但未来时代的"超级士兵"因其高生命值和伤害而被广泛认为是最强大的全能单位。在游戏早期，基础的棍棒人是性价比最高的。
-
-*   **Q: Is it better to build more turrets or train more units?**
-    *   **A:** 在游戏早期，混合使用最好。一两个炮塔提供稳定的防御，让你可以节省金币用于强大的进攻军队。在游戏后期，拥有完全升级的炮塔对生存至关重要。
-
-*   **Q: Where can I play Age of War now that Flash is gone?**
-    *   **A:** 许多游戏网站如CrazyGames、Armor Games和Kongregate现在使用Flash模拟器（如Ruffle）托管Age of War，使其在现代网络浏览器中完全可玩。iOS和Android应用商店也有移动版本。
+### 常见问题解答（FAQ）
+*   **问：游戏里的 XP 是怎么获得的？****
+    *   答：** 每当你的单位击杀一名敌方单位，你都会获得一定的经验值（XP）。积累足够 XP 后，就能解锁下一时代。
+*   **问：哪一个单位算是最强？****
+    *   答：** 就综合表现而言，未来时代的 Super Soldier 几乎是全能最强——血厚、输出高、泛用性强。前期则是廉价的棍棒兵在“性价比”上最为优越。
+*   **问：是多造炮塔好，还是多造部队好？****
+    *   答：** 前期通常建议“一到两门炮塔 + 持续造兵”的折中方案：炮塔负责兜底防线，你则把主要资源投入进攻以刷 XP。到了后期，满级炮塔几乎是必需品，否则很难扛住对方的高时代部队。
+*   **问：现在还可以在哪里玩到 Age of War？****
+    *   答：** 许多网页游戏平台（如 CrazyGames、Armor Games 等）已经通过 Flash 模拟器（如 Ruffle）重新提供了《Age of War》，可以直接在现代浏览器中游玩；移动端也有不少移植版或同类玩法的游戏可供选择。

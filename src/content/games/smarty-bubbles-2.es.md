@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: smarty-bubbles-2
-title: '[ES] Smarty Bubbles 2'
+title: "Smarty Bubbles 2"
 description: >-
-  [ES] The addictive bubble shooter is back! Aim, shoot, and match colorful
-  bubbles to clear the board. Plan your shots carefully to avoid adding new
-  rows!
-iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
-thumbnail: /new-images/smarty-bubbles-2.png
+  El adictivo bubble shooter está de vuelta. Apunta, dispara y combina burbujas
+  de colores para limpiar el tablero. Planifica bien tus tiros para evitar que
+  se añadan nuevas filas.
+iframeSrc: "https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/"
+thumbnail: "/new-images/smarty-bubbles-2.png"
 tags:
   - shooting
   - puzzle
@@ -17,32 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Smarty Bubbles 2 continúa la diversión del clásico bubble shooter con un aspecto
+renovado y cientos de niveles nuevos. El objetivo sigue siendo el mismo:
+limpiar el tablero de burbujas de colores disparando y formando grupos de tres o
+más del mismo color. Esta secuela te obliga a pensar de forma estratégica para
+crear grandes reacciones en cadena y completar cada fase, todo mientras
+administras tus disparos para que el techo no descienda.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Smarty Bubbles 2 continues the fun of the classic bubble shooter with a polished look and hundreds of new levels. The objective remains the same: clear the entire board of colorful bubbles by shooting and matching three or more of the same color. This sequel challenges you to think strategically to create massive chain reactions and clear each stage, all while managing your shots to prevent the ceiling from dropping.
+1.  **Evita los disparos fallidos:** Igual que en el original, la clave es que
+    cada lanzamiento cuente. Tras cierto número de tiros que no revienten
+    burbujas, se añade una nueva fila desde arriba. Un indicador lateral te
+    muestra cuántos fallos te quedan.
+2.  **Busca avalanchas:** La forma más eficiente de ganar es romper grupos de
+    burbujas que sostienen a otras. Así harás que todas las que queden colgadas
+    caigan de golpe y limpiarás mucho más rápido.
+3.  **Usa las paredes:** Domina los rebotes en las paredes laterales. Es
+    esencial para llegar a huecos difíciles y preparar combinaciones
+    inteligentes.
+4.  **Planifica con la siguiente burbuja:** El juego te muestra qué burbuja
+    viene después en el cañón. Aprovecha esa información: a veces conviene hacer
+    un disparo menos óptimo ahora para preparar el tiro perfecto con la
+    siguiente.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Avoid Misses:** Just like the original, the key is to make every shot count. After a certain number of shots that don't pop any bubbles, a new row will be added from the top, making the game harder. An indicator on the side will show you how many misses you have left.
-2.  **[ES]** **Aim for Avalanches:** The most efficient way to win is to pop bubble clusters that are supporting other bubbles. This will cause all the unsupported bubbles to fall, clearing the screen much faster.
-3.  **[ES]** **Use the Walls:** Master bouncing your shots off the side walls. This is an essential skill for reaching difficult spots and setting up clever matches.
-4.  **[ES]** **Plan Ahead:** The game shows you the next bubble in your cannon. Use this information to plan your next move. Sometimes it's best to make a less optimal shot now to set up a perfect shot with the next bubble.
+*   **Apuntar:** Mueve el ratón para orientar el cañón. Una guía te muestra la
+    trayectoria aproximada.
+*   **Disparar:** Haz clic con el botón izquierdo del ratón para lanzar la
+    burbuja.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-*   **[ES]** **Shoot:** Click the left mouse button to fire the bubble.
+*   **P: ¿Por qué ha aparecido una fila nueva de burbujas?**
+    *   **R:** Has realizado demasiados disparos seguidos sin explotar ninguna
+        burbuja. Tras un número fijo de fallos el juego añade una nueva fila
+        desde arriba.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Eliminar todas las burbujas del tablero para completar el nivel y
+        pasar al siguiente.
 
-*   **[ES]** **Q: Why did a new row of bubbles appear?**
-    *   **[ES]** **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.
-
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
-
-*   **[ES]** **Q: How do I get a high score?**
-    *   **[ES]** **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
-
+*   **P: ¿Cómo consigo una puntuación alta?**
+    *   **R:** Superando los niveles de forma eficiente y provocando caídas
+        masivas de burbujas. Cuantas más elimines de una sola vez, más puntos
+        obtendrás.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: incredibox-piege-simulator
-title: '[DE] Incredibox Piege Simulator'
+title: Incredibox Piège Simulator
 description: >-
-  [DE] Incredibox Piège Simulator this guide details its grid-based gameplay,
-  dark and atmospheric sound palette, and provides tips for creating intense
-  trap loops.
+  Incredibox Piège ("Trap") Simulator nutzt ein Raster-Interface und eine
+  dunkle, atmosphärische Trap-Soundpalette, mit der du intensive Trap-Loops
+  bauen kannst.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
 thumbnail: /new-images/incredibox-piege-simulator.png
 tags:
@@ -17,47 +17,61 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+*Incredibox Piège Simulator* ist ein stilvoller Fan-Mod aus der
+**„Simulator“-Reihe**. Der Name **Piège** (frz. für "Falle" bzw. Anspielung auf
+**Trap**) verrät den Fokus: moderne Trap-Beats mit dunkler Atmosphäre.
 
-### **Incredibox Piège Simulator Game Introduction**
+Statt Drag-and-drop auf Figuren steuerst du ein **Raster aus 20 farblich
+kodierten Sound-Icons** (Grün/Blau), die du per Klick an- und ausschaltest, um
+Trap-Loops zu erzeugen.
 
-*Incredibox Piège Simulator* is a stylish and atmospheric fan-made game from the "Simulator" series of Incredibox mods. The title "Piège" is French for **"Trap,"** which perfectly describes the mod's musical focus on the modern **Trap music** genre.
+### Gameplay & Tipps
 
-The game utilizes the signature **grid-based interface** of the Simulator mods. Instead of dragging icons onto characters, players are presented with a grid of 20 sound icons, color-coded in shades of green and blue. The objective is to create a dark, atmospheric trap loop by clicking these icons to activate or deactivate them.
+1.  **Mit dem Rhythmus beginnen**  
+    Aktiviere zunächst ein paar blaue Icons: schwere Kicks, Snare/Clap und
+    schnelle Hi-Hats bilden den typischen Trap-Grundbeat.
 
+2.  **Melodie layern**  
+    Ergänze grüne Icons mit simplen, wiederholten, meist düster klingenden
+    Motiven. Trap-Melodien sind oft kurz und stimmungsvoll statt kompliziert.
 
-### **Gameplay Strategy & Tips**
+3.  **LOOP-Leiste füllen**  
+    Durch das Aktivieren von Sounds füllst du die "LOOP"-Leiste. Unterschiedliche
+    Kombinationen beeinflussen Fortschritt und Gesamtwirkung deines Tracks.
 
-1.  **[DE]** **Start with the Rhythm**: To create an authentic trap beat, begin with the blue icons. Activate a heavy kick drum, a snare, and a rapid hi-hat pattern to establish the core groove.
+4.  **Spannung über Ein-/Ausblenden**  
+    Nutze das Raster, um introartige, Hook- und Break-Phasen zu bauen: erst nur
+    Beat, dann Melodie hinzu, später FX, danach wieder ausdünnen.
 
-2.  **[DE]** **Layer the Melody**: Once your beat is set, move to the green icons. Add a simple, repetitive, and often dark-sounding melody. In trap music, the melody is often less complex than the rhythm, serving to create a mood.
+### Steuerung
 
-3.  **[DE]** **Fill the Loop Bar**: Your goal is to fill the "LOOP" progress bar. This is achieved by activating more sounds. Experiment with different combinations to see how they affect the progress and the overall feel of the track.
+- **Sound an/aus:** Icon im Grid anklicken, um es zu aktivieren oder zu
+  deaktivieren.  
+- **Mehrere Sounds kombinieren:** Beliebig viele Icons gleichzeitig aktivieren,
+  um Schichten zu bilden.  
+- **Hauptsteuerung (oben links):** Play/Pause, Record und Reset bedienen den
 
-4.  **[DE]** **Create Dynamics**: Use the click-on/click-off nature of the simulator to create dynamics. You can build up a beat, add a melody to create a hook, and then deactivate elements to create a breakdown, mimicking the structure of a real trap song.
+- **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
 
-### **Controls Guide**
+    - **Record Button**: Starts and stops the recording of your mix.
 
-This mod uses the simple, click-based interface of the Simulator series.
+    - **Play Button**: Toggles the entire loop on or off.
 
-*   **[DE]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will be highlighted, adding its sound to the loop. Clicking it again will turn it off.
-*   **[DE]** **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
-*   **[DE]** **Main Controls (Top Left)**:
-    *   **[DE]** **Play Button**: Toggles the entire loop on or off.
-    *   **[DE]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[DE]** **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+    - **Main Controls (Top Left)**:
+  Loop, die Aufnahme und das Leeren des Rasters.
 
-### **Frequently Asked Questions (FAQ)**
+### FAQ
 
-**1. Is this an official Incredibox game?**
+- **F: Ist das ein offizielles Incredibox-Spiel?**  
+  **A:** Nein, *Piège* gehört zu den Fan-Mods und steht nicht in Verbindung mit
+  den offiziellen Entwicklern.
 
-No. The "Simulator" series, including *Piège*, are **fan-made mods** and are not affiliated with the official Incredibox creators, So Far So Good.
+- **F: Warum spielt es sich anders als das Original?**  
+  **A:** Das Raster passt perfekt zu elektronischen Genres wie Trap, weil sich
+  damit komplexe Rhythmen sehr direkt schichten lassen.
 
-**2. Why is the gameplay different from the original?**
-
-The "Simulator" style is a creative choice by the modding community. Its grid-based interface is particularly well-suited for electronic genres like Trap, as it allows for the precise and complex layering of rhythmic elements.
-
-**3. Where can I play this mod?**
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
-
+- **F: Wo kann ich den Mod spielen?**  
+  **A:** Üblicherweise über Modding-Seiten oder Links aus YouTube-Videos, die
+  auf Browser-Versionen verweisen.

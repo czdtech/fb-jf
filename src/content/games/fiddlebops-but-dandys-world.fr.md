@@ -1,8 +1,8 @@
 ---
 locale: fr
 urlstr: fiddlebops-but-dandys-world
-title: '[FR] Fiddlebops But Dandy''s World - Play Fiddlebops But Dandy''s World Online'
-description: '[FR] Fiddlebops But Dandys World is not just a game; it'
+title: "Fiddlebops But Dandy's World - Play Fiddlebops But Dandy's World Online"
+description: "Fiddlebops But Dandys World n’est pas qu’un simple jeu : c’est un voyage musical féerique où tu guides Dandy et son équipe à travers des paysages sonores remplis de surprises."
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /fiddlebops-but-dandys-world.png
 tags:
@@ -11,30 +11,29 @@ score: 4.6/5  (27 votes)
 ---
 
 
+Tu rêves d’entrer dans un royaume musical débordant de charme fantastique ? Fiddlebops But Dandy's World t’attend ! Imagine : tu n’es plus seulement assis devant l’écran, tu deviens le guide de Dandys World, à la tête d’une bande de compagnons Fiddlebops un peu déjantés, à travers une série de paysages musicaux surprenants.
 
-Are you yearning to step into a musical kingdom brimming with fantastical charm? Fiddlebops But Dandy's World awaits your exploration! Imagine, you're not just sitting in front of a screen, but transforming into Dandys World's guide, leading a quirky crew of Fiddlebops companions through a series of surprising musical landscapes.
+## Qu’est‑ce qui rend Fiddlebops But Dandy's World si spécial ?
 
-## Just what is so special about Fiddlebops But Dandy's World?
+Ici, la musique et la magie se mélangent. À l’origine, tu reconnaîtras peut‑être le gameplay d’Incredibox, mais Dandys World est venu l’enchanter et lui donner une nouvelle lumière. Dans ce mod, tu ne fais pas que créer de jolis morceaux : tu découvres de près la puissance fantastique de Dandys World, qui remplit chaque note que tu composes d’une énergie débordante.
 
-This is a world where music and magic intertwine. What was once the familiar Incredibox game has been enchanted by Dandys World, blossoming with brand-new radiance. In this Mod, you won't just create delightful tunes, but witness firsthand the fantastical power of Dandys World, imbuing each note you craft with boundless energy.
+## La baguette magique de Dandys World, qui illumine les notes de Fiddlebops
 
-## Dandys World's magic wand, illuminating Fiddlebops' wondrous notes!
+- **Deviens le guide, Dandy :** Dandy n’est pas qu’un simple personnage ; c’est ton assistant le plus fiable. Il te conduit à travers une multitude de scènes musicales créatives et surprenantes, où tu trouves sans cesse de nouvelles sources d’inspiration.
+- **Pars à l’aventure avec le groupe Fiddlebops :** les trois trésors, Big Bear, Bob the Builder et Scat Cat, se battent à tes côtés. Chacun apporte son talent musical unique pour illuminer chaque recoin de Dandys World.
+- **Libère ton inspiration musicale en glisser‑déposer :** le jeu conserve la mécanique simple de drag‑and‑drop. En quelques gestes, tu fais glisser des icônes de sons sur les personnages et tu composes des œuvres musicales vraiment à ton image.
 
-- **Become the guide, Dandy:** Dandy is more than just a character in this Mod; he's your most reliable assistant. He will lead you through a myriad of creative and surprising musical scenes, allowing you to constantly uncover fresh inspiration in your explorations.
-- **Adventure alongside the Fiddlebops band:** The three treasures, Big Bear, Bob the Builder, and Scat Cat, will fight side-by-side with you, using their unique musical talents to illuminate every corner of Dandys World.
-- **Unleash your musical inspiration with drag-and-drop combinations:** The game retains its simple and easy-to-grasp drag-and-drop operation. With just a light touch, you can drag various sound icons onto characters, creating unique musical works all your own.
+## Un voyage musical plein de surprises
 
+Fiddlebops But Dandy's World, ce n’est pas juste un jeu ; c’est une aventure musicale complète. Prêt à rejoindre cette odyssée fantastique ?
 
-## Fiddlebops But Dandy's World is not just a game; it's a musical journey full of surprises. Are you ready to join this fantastical adventure?
+Qu’est‑ce qui rend ce mod aussi captivant pour autant de joueurs ?
 
-Just what sort of magic does this Mod possess, captivating so many?
+- **La puissance magique de Dandys World :** des visuels colorés, des effets sonores surprenants… Dandys World insuffle une énergie et une imagination débordantes à l’univers de Fiddlebops.
+- **Une prise en main ultra simple :** que tu sois déjà à l’aise avec les jeux de rythme ou que tu débutes, tu peux t’y mettre en quelques secondes et profiter du plaisir de créer.
+- **Des combinaisons musicales sans limite :** avec la variété de sons et de personnages, tu crées une musique vraiment unique et laisses ton talent s’exprimer sans contrainte.
+- **Une exploration sans fin :** dans Fiddlebops But Dandy's World, tu ne sais jamais quelles surprises t’attendent au prochain clic. Chaque session révèle quelque chose de nouveau.
 
-- **Dandys World's fantastical power:** From the vividly colorful visuals to the surprising sound effects, Dandys World infuses the world of Fiddlebops with boundless energy and imagination.
-- **Effortless operation that's easy to grasp:** Whether you're a musical maestro or just getting started with rhythm games, you can easily pick it up and enjoy the joy of creating.
-- **Limitless Music Combos:** Create music that's uniquely yours with all the differing sounds and characters, letting your talents bloom without constraint.
-- **Never-Ending Exploration Fun:** In Fiddlebops But Dandy's World, you never know what surprises are hiding just around the corner. Every exploration is a completely fresh discovery!
+Avec la bénédiction de Dandys World, les notes autrefois ordinaires prennent vie. Chaque clic ressemble à un coup de baguette magique qui façonne un monde musical haut en couleurs.
 
-
-With the blessing of Dandys World, previously ordinary notes are now vibrantly alive. Every click feels like waving a magic wand, creating a musical world brimming with fantastical color.
-
-Come to Fiddlebops But Dandy's World, and let your musical inspiration bloom to its fullest potential under the fantastical power of Dandys World!
+Rejoins Fiddlebops But Dandy's World et laisse ton inspiration musicale s’épanouir pleinement sous la magie de Dandys World !

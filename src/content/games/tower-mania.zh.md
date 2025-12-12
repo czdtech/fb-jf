@@ -1,46 +1,53 @@
 ---
 locale: zh
 urlstr: tower-mania
-title: '[ZH TRANSLATION NEEDED] Tower Mania'
-description: >-
-  [ZH TRANSLATION NEEDED] Build the tallest tower in Tower Mania! Carefully
-  stack blocks to reach for the sky, but watch out for wobbles and toppling
-  structures.
-iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
+title: 《Tower Mania》高塔叠叠乐
+description: 《Tower Mania》是一款考验节奏与精度的叠塔游戏。通过在合适时机放下移动中的楼层方块，将高塔一层层叠向天空，尽量避免偏移导致塔体变窄甚至倒塌。
+iframeSrc: 'https://towermania.h5games.usercontent.goog/v/2n3c7b1k5d9p0/'
 thumbnail: /new-images/tower-mania.png
 tags:
+  - arcade
+  - one button
   - casual
-  - puzzle
-  - action
-score: 4.2/5  (1850 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.8/5  (1450 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+《Tower Mania》中，楼层方块会在屏幕上方左右来回移动，你只需要在它与下层尽可能对齐时点击，让方块落下。如果落点偏移，下方悬空的部分会被切掉，塔的宽度随之减小，留给后续叠放的容错空间也越来越窄。最终目标是在塔不倒的前提下尽可能叠得更高。
 
-[ZH TRANSLATION NEEDED] Tower Mania is an engaging and addictive arcade game that challenges your precision and timing. The objective is simple: build the tallest possible tower by carefully stacking blocks one on top of another. Blocks swing back and forth, and you must tap or click at the precise moment to drop them perfectly aligned. Any part of a block that hangs off will be cut away, making the next level smaller and increasing the difficulty. Test your steady hand and keen eye to reach new heights and achieve the ultimate high score!
+### 游玩策略与叠塔指引
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Timing is Crucial:** The core of the game is timing your tap perfectly. Watch the swinging block and try to release it when it's directly over the center of the block below. Precision is rewarded.
-2.  [ZH TRANSLATION NEEDED] **Start Slow and Steady:** Don't rush in the beginning. Take your time to get a feel for the block's swing speed and the rhythm of the game. A solid foundation is key to a tall tower.
-3.  [ZH TRANSLATION NEEDED] **Focus on the Center:** Always aim for the center. Even if you miss slightly, try to keep the main mass of the tower as central as possible to maintain stability.
-4.  [ZH TRANSLATION NEEDED] **Adapt to Smaller Blocks:** As you make imperfect drops, the base of your tower will shrink. You'll need to adapt your timing and precision to these smaller targets.
-5.  [ZH TRANSLATION NEEDED] **Use Power-ups (if available):** Some versions of Tower Mania might offer power-ups that can help stabilize your tower or give you a perfect drop. Use them strategically when the tower gets very high and unstable.
+1.  **追求早期完美对齐：** 前几层的宽度决定了后期的容错度，尽量在开局多叠几层近乎完美的楼层，为后面困难阶段打好基础。
+2.  **抓节奏而非拼手速：** 方块移动的速度会逐渐提升，与其乱按，不如找准来回移动的节奏，在每次回到中心时提前准备点击。
+3.  **偏移后及时修正：** 一旦某层明显偏向一侧，下一层就应故意向相反方向略微偏置，尝试把塔体重心拉回中间。
+4.  **接受窄塔的高风险：** 当塔已经变得很细时，更要冷静，宁可多等一个周期再落下，也不要勉强点出一个几乎必倒的楼层。
 
-### Controls Guide
 
-*   **Drop Block:** Click the left mouse button or tap the screen to release the swinging block.
+- **Use Power-ups (if available):** Some versions of Tower Mania might offer power-ups that can help stabilize your tower or give you a perfect drop. Use them strategically when the tower gets very high and unstable.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **放置楼层：** 在方块移动至你认为合适的位置时，点击屏幕或按下指定按键让其落下。
 
-*   **Q: What is the goal of Tower Mania?**
-     *   **A:** The main goal is to build the tallest possible tower by stacking blocks accurately. The game ends when a block falls off the tower.
+### 常见问题解答（FAQ）
 
-*   **Q: How do I get a higher score?**
-     *   **A:** Your score is determined by the height of your tower. The more blocks you stack successfully, the higher your score will be.
 
-*   **Q: What happens if a block isn't perfectly aligned?**
-     *   **A:** If a block is not perfectly aligned, any part of it that extends beyond the block below will be cut off. This makes the next block you drop have a smaller surface area to land on, increasing the difficulty.
+- **A:** If a block is not perfectly aligned, any part of it that extends beyond the block below will be cut off. This makes the next block you drop have a smaller surface area to land on, increasing the difficulty.
+
+    - **Q: What happens if a block isn't perfectly aligned?**
+
+- **A:** Your score is determined by the height of your tower. The more blocks you stack successfully, the higher your score will be.
+
+    - **Q: How do I get a higher score?**
+
+- **A:** The main goal is to build the tallest possible tower by stacking blocks accurately. The game ends when a block falls off the tower.
+
+    - **Q: What is the goal of Tower Mania?**
+**问：塔倒了会怎样？****
+答：** 一旦结构失衡严重导致塔体倒塌，本局结束，你可以查看自己叠到的层数并选择重来。
+
+**问：有没有结局或终点？****
+答：** 多为无尽模式，主要目标是刷新最高高度纪录，适合作为短时解压小游戏。
 

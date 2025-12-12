@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: going-balls
-title: '[DE] Going Balls'
+title: "Going Balls"
 description: >-
-  [DE] 3D ball‑rolling obstacle runner: balance across beams and traps, collect
-  coins, and reach the goal without falling.
+  Going Balls ist ein 3D-Kugel-Runner über schmale Bahnen voller Fallen. Halte
+  das Gleichgewicht, weich Hindernissen aus, sammle Münzen und erreiche das Ziel,
+  ohne von der Strecke zu fallen.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/going-balls.jpg
@@ -16,30 +17,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Überblick
 
+Going Balls ist ein Kugel-Runner im Stil klassischer "tilt & roll"-Spiele. Du
+rollst eine Kugel über schmale Stege, bewegliche Plattformen, Hämmer und
+Bumper. Feine Lenkbewegungen halten dich auf Kurs, während zu viel Tempo dich
+leicht über den Rand katapultiert. Mit jeder Stage kommen neue Elemente wie
+Magnete, Rampen oder Seilrutschen hinzu; unterwegs sammelst du Münzen, um neue
+Skins oder Fortsetzungen freizuschalten.
 
+### So spielst du
 
-### Overview
-Going Balls is a tilt‑and‑roll style runner on narrow tracks filled with beams, bumpers, hammers, and moving platforms. Precision matters: small steering inputs maintain balance, while reckless speed sends you off the edge. Stages introduce gimmicks like magnets, ramps, and zip tracks; coins unlock cosmetic balls and continues.
+- **Fein steuern:** Steuere nur leicht, um auf schmalen Balken mittig zu
+  bleiben. Breme vor engen Kurven rechtzeitig ab.
+- **Hindernisse timen:** Bewege dich durch Hämmer, Schieber und andere Fallen,
+  wenn sie gerade in ihre Ruheposition zurückkehren.
+- **Münzen sicher sammeln:** Nimm lieber eine etwas längere, sichere Route, um
+  Münzen und Schlüssel mitzunehmen, statt für ein paar extra Coins zu riskieren,
+  von der Strecke zu fallen.
 
-### How to Play
-- Feather steering to stay centered on beams; brake before sharp turns.
-- Time moving obstacles (hammers, pushers) and cross in their recovery windows.
-- Collect coins and keys along safer lines—don’t overreach.
+### Steuerung
 
-### Controls
-- WASD/Arrows or drag to steer; Space/brake where available; R to retry (host dependent).
+- Steuere die Kugel mit **WASD/Pfeiltasten** oder per **Ziehen/Wischen** (je
+  nach Plattform).  
+- Eine separate Taste oder Schaltfläche dient oft als **Bremse**.  
+- Manche Versionen unterstützen **R**, um schnell neu zu starten (abhängig vom
+  Host).
 
-### Tips
-- Look ahead; line up early for narrow entries.
-- On steep ramps, build speed first, then steer minimally.
-- If you start wobbling, slow down to re‑center.
+### Tipps
 
-### FAQ
-- Q: How can I stop falling off narrow beams?
-A: Reduce steering amplitude and approach straight on; micro‑correct only.
-- Q: What do coins unlock in the game?
-A: Cosmetics and, on some hosts, continues or bonus levels.
-- Q: Are there checkpoints in longer stages?
-A: Many levels include mid‑checkpoints; endless modes typically do not.
+- Schaue immer ein Stück **voraus**, statt nur direkt vor die Kugel – so kannst
+  du dich rechtzeitig auf enge Passagen einstellen.
+- Auf steilen Rampen solltest du zuerst **Geschwindigkeit aufbauen** und dann
+  nur minimal lenken, damit du nicht herunterfällst.
+- Wenn die Kugel beginnt zu **wackeln**, nimm Tempo heraus und bringe sie
+  wieder in die Mitte der Bahn.
 
+### Häufige Fragen (FAQ)
+
+- **F: Wie verhindere ich, dass ich ständig von schmalen Balken falle?**  
+  **A:** Reduziere deine Lenkbewegungen und nähere dich Balken möglichst gerade.
+  Korrigiere nur mit kleinen Bewegungen nach.
+
+- **F: Wofür sind die Münzen gut?**  
+  **A:** Je nach Version kannst du damit neue Kugel-Skins, Extras oder
+  Fortsetzungen/Bonus-Level freischalten.
+
+- **F: Gibt es Checkpoints in langen Leveln?**  
+  **A:** Viele Stages haben Zwischen-Checkpoints, ab denen du nach einem Sturz
+  weiterspielen kannst. In Endlos-Modi gibt es häufig keine Checkpoints.

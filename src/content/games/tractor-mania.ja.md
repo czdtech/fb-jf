@@ -1,66 +1,50 @@
 ---
-locale: ja
+title: Tractor Mania
+description: Tractor Maniaは、トラクターレーシングゲームです。でこぼこ道を走破してゴールを目指しましょう。
+iframeSrc: 'https://ubg98.github.io/TractorMania/'
+thumbnail: /new-images/tractor-mania.jpg
 urlstr: tractor-mania
-title: '[JA TRANSLATION NEEDED] Tractor Mania'
-description: >-
-  [JA TRANSLATION NEEDED] Tractor Mania is a farm hauler — balance loads, manage
-  torque, and deliver cargo safely across rough terrain.
-iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
-thumbnail: /new-images/tractor-mania.png
+score: 4.3/5  (2234 votes)
 tags:
-  - car
+  - racing
+  - physics
   - driving
-  - casual
-score: 4.0/5  (1880 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Tractor Maniaは、トラクターを操作してでこぼこの地形を走破する物理ベースのレーシングゲームです。バランスを保ちながらゴールを目指しましょう。
 
-[JA TRANSLATION NEEDED] Tractor Mania is a physics hauler: throttle control and balance keep trailers steady over bumps. Spilled cargo costs rewards; smooth driving beats speed.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Gentle throttle on inclines; avoid wheel‑spin.
-[JA TRANSLATION NEEDED] 2.  Lean to counter pitch; keep trailer level.
-[JA TRANSLATION NEEDED] 3.  Brake before descents; coast down.
-[JA TRANSLATION NEEDED] 4.  Secure partial loads first on tough routes.
-[JA TRANSLATION NEEDED] 5.  Upgrade tires/suspension before engines if available.
-
-### Controls Guide
-
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Cargo keeps spilling.
-  
-[JA TRANSLATION NEEDED]   A: You’re over‑throttling; slow and stabilize before bumps.
-
-- Q: Stuck on hills.
-  
+ - **トラクターを運転：** アクセルとブレーキを操作します
+ - **バランスを保つ：** 転倒しないようにバランスを取ります
+ - **障害物を越える：** 丘や障害物を乗り越えます
+ - **ゴールに到達：** 各レベルを完了します
 
 
-
-
-
-
-- Q: Cargo keeps spilling.
-### よくある質問（FAQ）
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right.
-### コントロールガイド
 - Upgrade tires/suspension before engines if available.
+### 操作ガイド
+
+ - **上矢印：** アクセル
+ - **下矢印：** ブレーキ/バック
+ - **左/右矢印：** バランス調整
 
 ### よくある質問（FAQ）
-- Secure partial loads first on tough routes.
-[JA TRANSLATION NEEDED]   A: Approach slower, keep traction, and lean forward gently.
 
 
+- Q: Cargo keeps spilling.
+**ゲームの目標は何ですか？**
 
 
-A: Approach slower, keep traction, and lean forward gently.
 - Q: Stuck on hills.
+転倒せずにトラクターでゴールに到達することです。
 
+**転倒したらどうなりますか？**
 
-A: Approach slower, keep traction, and lean forward gently.
+レベルを再スタートする必要があります。
+
+**物理エンジンは重要ですか？**
+
+はい、リアルな物理シミュレーションでバランスが重要です。

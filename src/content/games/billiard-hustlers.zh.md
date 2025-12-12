@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: billiard-hustlers
-title: '[ZH TRANSLATION NEEDED] Billiard Hustlers'
+title: Billiard Hustlers 台球高手
 description: >-
-  [ZH TRANSLATION NEEDED] Billiard Hustlers brings pool fundamentals to the
-  browser — aim clean, control cue‑ball, and run the table with smart position
-  play.
+  《Billiard Hustlers 台球高手》是一款强调瞄准、旋转与母球走位的台球模拟游戏，在 8 球、9 球等模式下，通过
+  精准解球与防守，让自己始终占据桌面主动权。
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/billiard-hustlers.jpg
 tags:
@@ -15,44 +14,51 @@ score: 4.2/5  (2217 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
+*Billiard Hustlers* 是一款手感流畅的台球模拟游戏，重点在于**母球控制与路线规划**。无论是 8 球、9 球，还是简单的清台挑战，核心目标都一样：  
+既要把目标球打进袋里，同时还要让母球停在一个利于下一杆的位置。
 
-[ZH TRANSLATION NEEDED] Billiard Hustlers is a slick pool sim that emphasizes aiming, spin, and cue‑ball control. Whether you’re playing 8‑ball, 9‑ball, or simple pot challenges, the core is identical: pocket your object balls while leaving the cue‑ball ideal for the next shot. Lighter tables and faster cloth encourage precise power and subtle english (spin) to shape routes across the table.
+相比现实桌面，本作中的球台更轻、台呢速度更快，这意味着轻微的力量变化和细微旋转，就会带来截然不同的走位结果。学会控制力度、适量使用上旋 / 下旋 / 侧旋，将帮助你在整盘对局中保持节奏，像真正的台球高手一样“走位铺路、一杆接一杆”地清台。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Pre‑plan position: Before every pot, decide where you want the cue‑ball to stop for the next shot.
-2.  [ZH TRANSLATION NEEDED] Speed discipline: Smooth, medium‑firm strokes improve accuracy and reduce skid.
-3.  [ZH TRANSLATION NEEDED] Use spin sparingly: Topspin to follow, backspin to draw back, sidespin to change lines after rails—start with small amounts.
-4.  [ZH TRANSLATION NEEDED] Patterns first: In 8‑ball, clear clusters and problem balls early; in 9‑ball, route naturally along the lowest numbers.
-5.  [ZH TRANSLATION NEEDED] Rails are allies: Learn natural two‑ and three‑rail paths to return to center or approach key balls.
-6.  [ZH TRANSLATION NEEDED] Safety when needed: If the pot is low‑percentage, play a safety to leave your opponent tough.
+### 游戏策略与通关思路
 
-### Controls Guide
+1.  **每一杆之前都先想好“下一杆”**  
+    不要只盯着眼前这一颗好打的球。出杆前先想好：这杆进球后，希望母球停在哪里？那里是否有下一颗容易下手的目标球？良好的母球位置往往决定整盘局面的走向。
 
-- Aim: Drag to line up; fine‑tune with small mouse movements.
-- Power: Pull back the cue meter; release to shoot.
-- Spin: Adjust the cue‑ball diagram for top/back/side spin.
-- Camera: Some versions allow pan/zoom for better sightlines.
+2.  **力量控制要平稳克制**  
+    过猛的力度容易导致母球到处乱飞，甚至打丢原本简单的球。平稳、偏中等力度的击球通常更容易瞄准，也能减少母球在库边的“飘移”和滑杆现象。
 
-### Frequently Asked Questions (FAQ)
+3.  **少量旋转已经足够改变线路**  
+    - **上旋（Topspin）：** 进球后母球继续向前跟进，适合往前“跟球”去下一个目标。  
+    - **下旋（Backspin）：** 让母球进球后回拉，适合把母球抽回原位附近，避免冲进袋口或撞到不想碰的球。  
+    - **侧旋（Sidespin）：** 在碰库之后改变母球出库角度，用来绕过障碍或调整走位路线。  
+    初学时只需给母球一点点旋转，就能明显感受到差异。
 
-- Q: My pots keep rattling out—what’s wrong?
-  
-[ZH TRANSLATION NEEDED]   A: You’re hitting too hard or at a poor angle. Reduce power, ensure clean aim through the pocket center, and avoid heavy sidespin on thin cuts.
+4.  **优先处理“难球”和堆球**  
+    在 8 球中，早期就要把成堆或被其他球挡住的“问题球”拆开；在 9 球中，则要顺着数字顺序，不断把下一号球打到“自然好打”的位置。不要等到桌面只剩一两颗球时才去解那些很难的局面。
 
-- Q: How do I control the cue‑ball better?
-  
-[ZH TRANSLATION NEEDED]   A: Focus on speed first, then add small amounts of top/backspin. Use rails to bleed off speed and approach your next ball at a friendly angle.
+5.  **把库边当成帮手而不是敌人**  
+    两库、三库路线是高级走位的核心。熟悉常见库球线路后，你可以更从容地让母球回到桌面中央，或者绕道接近关键目标球，让整盘路线更加顺畅。
 
-- Q: When should I play safe instead of potting?
-  
-[ZH TRANSLATION NEEDED]   A: If the pot is under 40–50% and leaves you snookered, a safety that tucks the cue‑ball behind traffic is often superior.
+6.  **看准时机打防守球（Safety）**  
+    某些球命中率很低，强打几乎等于把机会让给对手。这时选择一杆“防守球”往往更明智：把母球藏在一堆球后面或贴库，让对手难以直接进攻。
 
-- Q: Any tip for breaking clusters?
-  
-[ZH TRANSLATION NEEDED]   A: Nudge clusters early while you have nearby insurance balls; use controlled speed to avoid sticking on the pack.
+### 操作指南
 
-- Q: 8‑ball vs 9‑ball patterns—what’s the difference?
-  
-[ZH TRANSLATION NEEDED]   A: 8‑ball prioritizes solving problem balls and end‑patterns; 9‑ball routes naturally in numeric order, focusing on cue‑ball lines between consecutive targets.
+- **瞄准：** 拖动视角或击球方向，使母球指向目标球和对应袋口，细微调整可以通过小幅移动鼠标完成。  
+- **控制力度：** 拉动击球力量条到合适位置后松开，即可出杆。  
+- **设置旋转：** 在母球示意图上点击不同位置，为击球添加上旋、下旋或侧旋。  
+- **调整视角：** 某些版本支持拖动、缩放视角，以便查看复杂堆球和库球线路。
+
+### 常见问题解答（FAQ）
+*   **问：为什么我老是把球打在袋口但进不去？****
+    **答：** 多半是力量过大或击球角度不理想。尝试减小力度，让目标球“轻轻滚入”袋口，并避免在细薄切球上使用过重的侧旋。
+*   **问：怎么更好地控制母球停位？****
+    **答：** 先从完全不加旋转开始，只练习不同力度对应的停球距离。熟悉速度后，再逐步加入少量上旋或下旋，通过“借库减速”的方式，让母球在更可控的区域停下。
+*   **问：什么时候应该选择打防守而不是进攻？****
+    **答：** 如果当前球的成功率很低，而且一旦打丢就会把简单机会留给对手，那就更适合选择一杆防守。比如把母球贴在其他球后，让对方不得不打解球或远台。
+*   **问：如何安全地拆散堆在一起的球？****
+    **答：** 尽量在桌面上还留有多颗“保险球”可以打的时候，利用中等力度去轻轻碰散它们。力度过大会让母球粘在球堆上，反而让自己陷入困局。
+*   **问：8 球和 9 球在走位思路上有什么区别？****
+    **答：** 在 8 球里，你要优先处理难球与问题球，留下一些简单球用来“收尾”；9 球则是完全按照数字顺序走，更多需要考虑的是母球如何自然地从当前号码球走到下一颗指定号码球上。

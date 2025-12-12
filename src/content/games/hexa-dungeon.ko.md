@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: hexa-dungeon
-title: '[KO] Hexa Dungeon'
+title: Hexa Dungeon 헥사 던전
 description: >-
-  [KO] Enter the Hexa Dungeon and fight off skeletons! A unique match-3 puzzle
-  game where you connect hexagonal tiles of the same color to unleash powerful
-  attacks on your enemies.
+  육각형 타일을 이어 같은 색을 매치해 공격하는 퍼즐 RPG입니다. 해골과 몬스터가 등장하는 던전에서 긴 체인을 만들어 강력한 스킬 공격을
+  날려 보세요.
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/hexa-dungeon.png
 tags:
@@ -19,31 +18,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Hexa Dungeon is an innovative puzzle-RPG that combines match-3 mechanics with dungeon-crawling combat. In this game, you face off against skeletons and other monsters in a dungeon. To attack your enemies, you must connect chains of three or more identical, adjacent hexagonal tiles on the puzzle board below. The longer the chain you create, the more powerful your attack will be. It's a strategic game where you must balance making powerful attacks with setting up future moves.
+`Hexa Dungeon`은 매치‑3 퍼즐과 던전 전투를 결합한 퍼즐 RPG입니다. 화면 아래
+퍼즐판에는 육각형 타일이 깔려 있고, 위쪽에는 해골과 각종 몬스터가 등장합니다.
+공격을 하기 위해서는 퍼즐판에서 같은 색 타일 3개 이상을 인접하게 이어
+체인을 만들어야 하며, 체인이 길어질수록 공격력이 크게 상승합니다. 한 번의
+강력한 공격과 다음 턴을 위한 포지셔닝 사이에서 균형을 잡는 전략이 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** **Longer Chains = More Damage:** The core strategy is to create the longest possible chain of matching tiles. A chain of 5 tiles will do significantly more damage than a chain of 3. Always scan the board for the best possible connection before making a move.
-2.  **[KO]** **Plan Ahead:** Look at the board and think a few moves ahead. Sometimes, making a smaller match of 3 can position other tiles to allow for a much larger match on your next turn.
-3.  **[KO]** **Focus Fire:** In levels with multiple enemies, you can often choose which enemy to target. Focus your attacks on one enemy at a time to defeat them more quickly, reducing the amount of incoming damage you take.
-4.  **[KO]** **Special Tiles:** Keep an eye out for any special tiles that may appear on the board. These could be bombs or other power-ups that can be activated by including them in a match, resulting in extra damage or other beneficial effects.
+1. **긴 체인이 곧 높은 데미지**  
+   가능한 한 긴 체인을 만드는 것이 핵심입니다. 3개 매치보다 5개, 7개
+   체인이 훨씬 큰 피해를 주므로, 턴마다 보드를 천천히 훑으며 최선의
+   연결을 찾으세요.
 
-### Controls Guide
+2. **앞을 내다보고 작은 매치 활용**  
+   항상 큰 체인만 노리기보다, 3개짜리 작은 매치로 보드를 정리해 다음 턴에
+   더 긴 체인을 만들 수 있도록 세팅하는 것도 중요합니다.
 
-The game is played with a simple click-and-drag or swipe mechanic.
+3. **집중 공격(Focus Fire)**  
+   여러 적이 동시에 등장하는 스테이지에서는, 공격 대상을 분산시키지 말고
+   한 마리씩 빠르게 쓰러뜨리는 편이 전체 피해를 줄이는 데 유리합니다.
 
-*   **[KO]** **Connect Tiles:** Click and hold on a tile, then drag your cursor over adjacent, identical tiles to form a chain. Release the mouse button to confirm the match and launch your attack.
+4. **특수 타일 활용**  
+   폭탄이나 강화 타일처럼 특수 효과를 가진 타일을 눈여겨 보세요. 매치에
+   포함시키면 범위 공격이나 추가 효과가 발동해 전황을 크게 바꿀 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-*   **[KO]** **Q: How do I attack the skeletons?**
-    *   **[KO]** **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.
+이 게임은 클릭‑앤‑드래그 혹은 스와이프로 간단히 플레이할 수 있습니다.
 
-*   **[KO]** **Q: How can I do more damage?**
-    *   **[KO]** **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
+- **타일 연결**: 타일 하나를 누른 상태에서 인접한 같은 색 타일들을 이어
+  드래그해 체인을 만들고, 손을 떼면 매치가 확정되며 공격이 발동합니다.
 
-*   **[KO]** **Q: Can I connect tiles diagonally?**
-    *   **[KO]** **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 해골을 어떻게 공격하나요?**  
+  **A:** 퍼즐판에서 같은 색 타일 3개 이상이 서로 이어지도록 선을 그리면,
+  그 체인 길이에 비례한 공격이 적에게 들어갑니다.
+
+    - **Q: 더 큰 피해를 주려면 어떻게 해야 하나요?**  
+  **A:** 가능한 한 많은 타일을 하나의 체인에 포함시키는 것이 가장 중요합니다.
+  7개 이상 체인은 3개 매치와 비교할 수 없을 정도로 강력한 데미지를 줍니다.
+
+- **Q: 대각선으로도 연결할 수 있나요?**  
+
+    - **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
+
+- **Q: Can I connect tiles diagonally?**
+
+    - **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
+  **A:** 보드가 육각형 구조이기 때문에, 위·아래·좌우뿐 아니라 대각 포함
+  주변 여섯 방향으로 인접한 같은 색 타일은 모두 이어서 연결할 수 있습니다.

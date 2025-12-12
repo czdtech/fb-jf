@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: hit-and-run
-title: '[ES] Hit and Run'
+title: "Hit and Run"
 description: >-
-  [ES] Unleash chaos on the streets in Hit and Run, an action-packed driving
-  game! Drive through cityscapes, cause mayhem by hitting objects and other
-  vehicles, and then escape from the authorities. Test your driving skills and
-  reflexes in this thrilling pursuit game.
+  Desata el caos en las calles en Hit and Run, un juego de conducción lleno de
+  acción. Recorre la ciudad al volante, destroza objetos y otros vehículos y
+  luego huye de las autoridades. Pon a prueba tus reflejos y tu habilidad al
+  volante en esta trepidante persecución.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230911/07/index.html
 thumbnail: /new-images/hit-and-run.jpg
@@ -17,7 +17,3 @@ tags:
 score: 3.6/5  (111 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
-
-
-<!-- [ES] Translation needed -->
-

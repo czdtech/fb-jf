@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: candy-riddles
-title: '[ES] Candy Riddles'
+title: "Candy Riddles"
 description: >-
-  [ES] Candy Riddles is a cheerful match‑3 — swap sweets, trigger combos, and
-  solve stage objectives with smart cascades.
+  Candy Riddles es un alegre match‑3: intercambia caramelos, desata combos y
+  resuelve los objetivos de cada fase con cascadas inteligentes.
 iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
 thumbnail: /new-images/candy-riddles.png
 tags:
@@ -16,37 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Candy Riddles es un colorido puzle match‑3 en el que intercambias dulces
+adyacentes para formar líneas de tres o más iguales. Cada combinación limpia
+casillas, carga potenciadores y puede liberar celdas atrapadas o recoger
+objetos de misión. A medida que avanzas, aparecen bloqueadores (por ejemplo,
+heladas, cajas), límites de movimientos y objetivos especiales que exigen
+planificación y cascadas eficientes.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Candy Riddles is a colorful match‑3 puzzler where you swap adjacent candies to form lines of three or more. Matches clear tiles, charge power‑ups, and can free trapped cells or collect mission items. As stages progress, blockers (e.g., frosting, crates), limited moves, and special goals require planning and efficient cascades.
+1.  **Trabaja desde abajo:** Empezar por la parte inferior genera cascadas
+    naturales que limpian más fichas gratis.
+2.  **Prioriza los objetivos:** Elimina primero bloqueadores y recoge los
+    objetos de misión antes de pensar en la puntuación.
+3.  **Combina potenciadores:** Fusionar un limpia‑líneas con una bomba o un
+    comodín de color puede borrar grandes áreas de una sola vez.
+4.  **Evita aislar colores en las paredes:** Mantén el tablero lo más abierto
+    posible para no quedarte sin combinaciones futuras.
+5.  **En niveles con pocos movimientos:** Piensa dos o tres jugadas por
+    adelantado para no malgastar pasos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Work from the bottom to generate natural cascades that clear more tiles for free.
-2.  **[ES]** Target objectives first (e.g., remove blockers, collect items) before chasing score.
-3.  **[ES]** Combine power‑ups: merging a line‑clear with a bomb or color clear often wipes large areas.
-4.  **[ES]** Avoid isolating colors near walls; keep the board open for future matches.
-5.  **[ES]** On limited‑move stages, map two to three moves ahead to conserve steps.
+- Intercambia dos caramelos vecinos arrastrando; solo se ejecutan los cambios
+  que formen combinaciones válidas.
+- Activa los potenciadores haciéndolos coincidir en una jugada o tocándolos,
+  según las reglas del nivel.
+- Pausa/Reinicia desde la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Swap two neighboring candies by dragging; only valid matches are executed.
-- Activate power‑ups by matching or tapping them per rules.
-- Pause/Restart via UI.
+- **Siempre fallo en niveles con límite de movimientos, ¿qué hago mal?**
 
-### Frequently Asked Questions (FAQ)
+  R: Probablemente estés sumando puntos sin avanzar el objetivo. Prioriza
+  bloqueadores y casillas objetivo y combina potenciadores para maximizar el valor
+  de cada movimiento.
 
-- Q: I always fail move‑limit levels — what am I doing wrong?
+- **¿Cuentan las diagonales?**
 
-A: You may be scoring without advancing the objective. Prioritize blockers/targets and combine power‑ups to maximize value per move.
+  R: Normalmente no; la mayoría de match‑3 solo consideran líneas ortogonales a
+  menos que el juego indique lo contrario.
 
-- Q: Do diagonals count?
+- **¿Algún truco para bloqueadores muy resistentes?**
 
-A: Typically no — most match‑3s only count orthogonal lines unless a special rule says otherwise.
-
-- Q: Any tip for stubborn blockers?
-
-A: Detonate bombs next to them or chain line clears through the row/column to chip them down quickly.
-
+  R: Detona bombas junto a ellos o encadena limpia‑líneas que pasen por su fila
+  o columna para reducirlos rápido.

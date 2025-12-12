@@ -1,83 +1,56 @@
 ---
-locale: ja
+title: Unblock That
+description: Unblock Thatは、ブロック解除パズルゲームです。ブロックを動かして赤いブロックを脱出させましょう。
+iframeSrc: 'https://ubg98.github.io/UnblockThat/'
+thumbnail: /new-images/unblock-that.jpg
 urlstr: unblock-that
-title: '[JA TRANSLATION NEEDED] Unblock That'
-description: >-
-  [JA TRANSLATION NEEDED] A classic sliding block puzzle. Move the wooden blocks
-  around to clear a path and slide the red block out of the board. A great
-  brain-teaser for puzzle lovers!
-iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
-thumbnail: /new-images/unblock-that.png
+score: 4.4/5  (2765 votes)
 tags:
   - puzzle
-  - thinky
-  - casual
-score: 4.4/5  (2500 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - logic
+  - strategy
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Unblock Thatは、クラシックなブロック解除パズルゲームです。他のブロックを動かして赤いブロックが出口に到達できるようにしましょう。
 
-[JA TRANSLATION NEEDED] Unblock That is a classic and challenging sliding block puzzle. The game presents you with a grid filled with wooden blocks of various sizes. Your goal is to strategically slide these blocks to clear a path for the special red block to escape through the exit. With hundreds of levels ranging from easy to expert, it’s a perfect game to train your logical thinking and problem-solving skills.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
+ - **ブロックを動かす：** 水平または垂直にブロックをスライドさせます
+ - **パスを作る：** 赤いブロックが出口まで行けるようにします
+ - **最小移動：** できるだけ少ない動きで解きます
+ - **レベルクリア：** 赤いブロックを脱出させます
 
-[JA TRANSLATION NEEDED] 1.  **Identify the Main Blockers:** Look at the red block and identify the blocks that are directly in its path to the exit. Your first goal is to move these primary blockers.
-[JA TRANSLATION NEEDED] 2.  **Create Space:** To move a blocking piece, you often need to move other pieces first to create empty space. Look for smaller blocks that can be shuffled around easily to open up pathways.
-[JA TRANSLATION NEEDED] 3.  **Think Several Moves Ahead:** Don't just make random moves. Try to visualize the sequence of moves required to clear the path. The best players think several steps ahead to solve the puzzle in the fewest moves possible.
-[JA TRANSLATION NEEDED] 4.  **Don't Be Afraid to Reset:** If you get into a situation where the blocks are completely jammed and you can't see a solution, sometimes the best option is to reset the level and start again with a fresh approach.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
-
-*   **Move a Block:** Click and hold on any wooden block. You can only slide it along its orientation (horizontally or vertically) into an empty space.
-    - **A:** To slide the red block all the way to the right so it can exit the board.（日本語訳が必要）
-    - **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.（日本語訳が必要）
-    - **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.（日本語訳が必要）
-    - **A:** To slide the red block all the way to the right so it can exit the board.（日本語訳が必要）
-    - **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.（日本語訳が必要）
-    - **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** To slide the red block all the way to the right so it can exit the board.
-
-*   **Q: Why can't I move a block?**
-[JA TRANSLATION NEEDED]     *   **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
-
-*   **Q: How is the score determined?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
+### 操作ガイド
 
 
+The game is played with simple drag-and-drop controls.
+ - **マウス：** ブロックをドラッグして動かす
 
-
-
-
-
-
-
-
-    - **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
-- **Q: How is the score determined?**
-    - **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
-- **Q: Why can't I move a block?**
-    - **A:** To slide the red block all the way to the right so it can exit the board.
-- **Q: What is the goal of the game?**
 ### よくある質問（FAQ）
-- **Move a Block:** Click and hold on any wooden block. You can only slide it along its orientation (horizontally or vertically) into an empty space.
 
 
+- **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
 
+    - **Q: How is the score determined?**
 
+- **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
 
+    - **Q: Why can't I move a block?**
 
-    - **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
-- **Q: How is the score determined?**
-    - **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
-- **Q: Why can't I move a block?**
-    - **A:** To slide the red block all the way to the right so it can exit the board.
+- **A:** To slide the red block all the way to the right so it can exit the board.
+
+    - **Q: What is the goal of the game?**
+**ゲームの目標は何ですか？**
+
+赤いブロックを出口まで導くことです。
+
+**ブロックはどう動きますか？**
+
+各ブロックは水平または垂直にのみ動きます。
+
+**難易度は上がりますか？**
+
+はい、より多くのブロックと複雑な配置が登場します。

@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: ovo-dimensions
-title: '[ZH TRANSLATION NEEDED] OvO Dimensions'
+title: "《OvO Dimensions》高难维度跳跳关"
 description: >-
-  [ZH TRANSLATION NEEDED] OvO Dimensions is a challenging 2D platformer that
-  extends the OvO series with new mechanics and obstacles, requiring players to
-  master precise jumps, wall slides, and momentum control to navigate complex
-  levels and achieve fast clear times.
+  《OvO Dimensions》是 OvO 系列的进阶续作，这款高难度 2D 平台跳跃游戏加入了全新机关与机制，需要你精确掌握起跳、滑行与墙跳，用极限操作在复杂关卡中刷新通关时间。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/ovo-dimensions.jpg
@@ -20,31 +17,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "OvO Dimensions" is an extension of the "OvO" series, a highly challenging 2D platformer. It introduces new mechanics and obstacles, requiring players to master precise jumps, wall slides, and momentum control to navigate complex levels and achieve the fastest clear times. The game maintains the series' high difficulty while offering richer level design and visual experiences.
+《OvO Dimensions》是热门高难度平台游戏 OvO 系列的扩展作品，在原有的高速跳跃与墙跳玩法基础上，加入了更多机关、维度变化与路线设计。你需要在由尖刺、弹板、移动平台组成的复杂关卡中，凭借精准的起跳时机、墙面滑行与惯性利用，在尽量不失误的前提下以最快速度抵达终点。系列一贯的“硬核+流畅手感”在本作中得到进一步放大。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Familiarize with New Mechanics**: Understand and adapt to the new jumping, sliding, or interaction mechanics introduced in the game.
-2.  **Precise Control**: Every jump and action demands extreme precision; a slight misstep can lead to failure. Practice frequently to improve operational accuracy.
-3.  **Utilize Momentum**: When moving and jumping quickly, cleverly using the character's momentum can help you reach further platforms or pass through narrow gaps.
-4.  **Memorize Level Layouts**: Through multiple attempts, familiarize yourself with the layout of each level and the characteristics of obstacles to plan the optimal route.
-5.  **Challenge Speed**: After mastering the basic methods of completing levels, try to optimize your operations to achieve faster clear times.
+1.  **先适应新机制：** 新作加入了更多特殊地板与交互机制（如加速板、弹跳区、传送门等），建议在前几关刻意体验每种机制的触发方式与反馈，以免在高难关卡中措手不及。
+2.  **极致精确的操作：** 每一次起跳、落地、滑行与转向都需要严谨控制，哪怕是一个帧数的误差，都可能撞上尖刺或错过平台，多加练习能显著提升稳定性。
+3.  **巧用动量与墙滑：** 借助连贯的跑动与跳跃可以获得更远的跳跃距离，贴墙滑行则能缓冲下落速度、为墙跳争取节奏空间，熟练掌握动量利用是速通的关键。
+4.  **记忆关卡结构：** 高难关卡往往需要多次尝试，把关键平台、陷阱位置和最佳跳跃点牢牢记住，甚至可以在心里把一条“固定路线”拆解成若干操作段落逐一练熟。
+5.  **追求速度前先追求稳定：** 在还不熟悉地图时，可以先以“安全通过”为第一目标，不强求最短时间；当你能稳定无失误通关后，再逐步削减多余动作，向速通成绩发起冲击。
 
-### How to Play
+### 操作说明
 
-*   **Move**: Use left/right arrow keys or A/D keys to control horizontal character movement.
-*   **Jump**: Use the up arrow key or W key to jump; some levels may support double or multiple jumps.
-*   **Slide/Crouch**: Use the down arrow key or S key to slide or crouch, passing through low passages or dodging obstacles.
-*   **Wall Jump**: When the character touches a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
+*   **左右移动：** 使用左右方向键或 A/D 控制角色水平移动。
+*   **跳跃：** 上方向键或 W 进行跳跃，部分关卡可能支持二段跳或特殊弹跳。
+*   **滑铲 / 下蹲：** 下方向键或 S 用于滑铲、通过低矮空间或配合某些机关使用。
+*   **墙跳：** 角色贴近墙面时按跳跃键可进行墙跳，连续的左右墙跳能帮助你攀升到高处平台。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What are the differences between "OvO Dimensions" and "OvO Game"?**
-     **A**: "OvO Dimensions" is a sequel in the series, typically introducing new level designs, game mechanics, and more challenging obstacles, while also potentially improving visual effects.
-2.  [ZH TRANSLATION NEEDED] **Q: Is the game's goal to clear levels quickly or collect items?**
-     **A**: The core objective of the game is usually to complete levels as fast as possible, challenging the quickest times. Some levels might also include optional collectibles.
-3.  [ZH TRANSLATION NEEDED] **Q: How do I handle high-difficulty levels?**
-     **A**: High-difficulty levels require more practice and patience. Try breaking down levels into smaller parts to practice, and watch playthrough videos from other players for inspiration.
-4.  [ZH TRANSLATION NEEDED] **Q: Does the game have a community or leaderboards?**
-     **A**: Many high-difficulty platformers have active player communities and online leaderboards where players can share experiences and compete for rankings.
+### 常见问题
+
+1.  **问：《OvO Dimensions》和原版 OvO 有什么区别？**
+    **答：** 本作在保留原作核心操作的基础上，增加了更多机关类型、更复杂的关卡结构以及更强调速通路线的设计，整体难度与可玩性都更进一步。
+2.  **问：游戏主要目标是拼通关还是拼时间？**
+    **答：** 基础目标是通关所有关卡，但本作非常适合挑战更快的通关时间，许多玩家会反复刷同一关卡以刷新个人最佳成绩。
+3.  **问：高难度关卡一直过不去怎么办？**
+    **答：** 可以将关卡拆成几个关键段落，先集中练习某一个难点动作，再逐步连成一气；也可以参考其他玩家的通关视频，学习更合理的路线和操作节奏。
+4.  **问：是否有社区或排行榜？**
+    **答：** 许多高难平台游戏都有活跃的玩家社区和线上排行榜，你可以在相关平台与其他玩家交流技巧、分享速通记录或参与挑战。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: battleships-armada
-title: '[KO] Battleships Armada'
+title: 'Battleships Armada 배틀십 아르마다'
 description: >-
-  [KO] The classic naval combat game! Strategically place your fleet of ships on
-  the grid and fire at your opponent's grid to find and sink their entire armada
-  before they sink yours.
+  고전 보드게임 배틀쉽을 디지털로 즐기는 전략 게임입니다. 바다 위 격자에
+  함대를 배치하고, 상대의 위치를 추리해 먼저 모든 전함을 격침시키세요.
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/battleships-armada.png
 tags:
@@ -16,34 +15,42 @@ score: 4.5/5  (2900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Battleships Armada는 고전 해전 보드게임 "Battleship"을 디지털로 구현한 작품입니다.
+각 플레이어는 자신의 격자판에 여러 크기의 전함을 비밀리에 배치한 뒤, 번갈아
+좌표를 선언하며 상대 함선의 위치를 찾아 격침시키는 것이 목표입니다. 먼저
+상대 함대를 전부 침몰시키는 쪽이 승리합니다.
 
+### 플레이 전략 & 공략
 
+1.  **함대 배치 전략:** 배치 단계에서 모든 함선을 모서리나 한 구역에만
+    몰아 두면 쉽게 들통납니다. 배를 서로 떨어뜨리고, 가장자리와 중앙을 섞어
+    배치하면 상대가 추리하기 더 어렵습니다.
+2.  **격자 탐색 패턴:** 전투 단계에서는 무작위로 쏘기보다는, 체커보드 패턴이나
+    대각선 패턴처럼 간격을 두고 쏘는 것이 효율적입니다. 이렇게 하면 적어도
+    한 번은 긴 함선을 반드시 스캔하게 됩니다.
+3.  **명중 후 파고들기:** 한 번 "명중(Hit)"이 뜨면, 그 주변 상하좌우 칸을
+    우선적으로 공격해 함선의 방향과 길이를 파악하세요. 예를 들어 C5를 맞췄다면
+    C4, C6, B5, D5 순으로 확인해 보는 식입니다.
+4.  **함선 격침 확인:** 같은 함선에 속한 모든 칸을 맞히면 그 배는 "격침"으로
+    표시됩니다. 이때 인근 칸 주변은 더 이상 같은 함대가 없다고 보고, 다음
+    함선을 찾는 탐색 패턴으로 돌아가세요.
 
-### Detailed Game Introduction
+### 조작 방법
 
-Battleships Armada is a digital adaptation of the classic naval combat board game, Battleship. It's a game of pure strategy, deduction, and a little bit of luck. Each player secretly arranges their fleet of ships on a grid. Then, players take turns firing shots at the other player's grid in an attempt to locate and sink their entire fleet. The first player to sink all of their opponent's ships wins the game.
+*   **함선 배치:** 배치 단계에서 마우스로 함선을 드래그해 내 격자에 올리고,
+    클릭으로 가로/세로 방향을 회전할 수 있습니다.
+*   **포격:** 전투 단계에서는 상대 격자판(보통 오른쪽)에 있는 칸을 클릭해
+    해당 좌표로 포탄을 발사합니다. 맞으면 Hit, 빗나가면 Miss로 표시됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 자주 묻는 질문 (FAQ)
 
-1.  **[KO]** **Strategic Placement:** The game begins with the placement phase. Don't place all your ships clustered together or all along the edges. A scattered, random-looking placement is harder for your opponent to guess.
-2.  **[KO]** **Hunting for Ships:** When the combat phase begins, don't fire randomly. A common strategy is to fire in a checkerboard or diagonal pattern across the grid. This ensures you will find a ship with fewer wasted shots.
-3.  **[KO]** **Zeroing In:** Once you get a "Hit," you know you've found a ship. Your next shots should be focused on the adjacent squares (up, down, left, right) to find the rest of the ship. For example, if you hit C5, your next shots should be C4, C6, B5, and D5.
-4.  **[KO]** **Sinking the Ship:** Once you have hit all the squares that make up a single ship, it will be declared "sunk." Then you can resume your general search pattern to find the next ship.
+*   **Q: 상대 함선 위치는 어떻게 알 수 있나요?**
+    *   **A:** 처음에는 알 수 없으며, Miss/Hit 결과를 바탕으로 논리적으로 추론해야 합니다. 맞은 좌표 주변을 중심으로 탐색을 이어 가는 것이 기본입니다.
 
-### Controls Guide
+*   **Q: Hit 이후에는 어떻게 행동해야 하나요?**
+    *   **A:** 바로 인접한 칸들을 집중 공격해 함선의 방향과 전체 길이를 확인한 뒤, 해당 함선을 완전히 격침시키는 것이 좋습니다.
 
-*   **[KO]** **Place Ships:** During the setup phase, click and drag your ships onto your grid. You can also click a ship to rotate it between horizontal and vertical alignment.
-*   **[KO]** **Fire a Shot:** During the combat phase, click on a square in your opponent's grid (usually the one on the right) to fire at those coordinates.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[KO]** **Q: How do I know where my opponent's ships are?**
-    *   **[KO]** **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."
-
-*   **[KO]** **Q: What happens after I get a "Hit"?**
-    *   **[KO]** **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.
-
-*   **[KO]** **Q: How do I win?**
-    *   **[KO]** **A:** You win by being the first player to successfully sink all five of your opponent's ships.
-
+*   **Q: 어떻게 이기나요?**
+    *   **A:** 상대 격자에 배치된 모든 함선(보통 5척)의 모든 칸을 맞혀 전부 침몰시키면 승리합니다.

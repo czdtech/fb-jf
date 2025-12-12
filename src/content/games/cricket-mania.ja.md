@@ -1,62 +1,43 @@
 ---
-locale: ja
-urlstr: cricket-mania
-title: '[JA TRANSLATION NEEDED] Cricket Mania'
-description: >-
-  [JA TRANSLATION NEEDED] Cricket Mania is a quick cricket hitter — pick shots,
-  time swings, and chase targets over by over.
+title: Cricket Mania クリケット・マニア
+description: 「Cricket Mania」は手軽に遊べるクリケットバッティングゲーム。球筋を読み、ショットを選び、完璧なタイミングでターゲットスコアを追いかけろ。
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/cricket-mania.png
+urlstr: cricket-mania
+score: 4.0/5  (1897 votes)
 tags:
   - sports
   - casual
-score: 4.0/5  (1897 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cricket Mania（クリケット・マニア）*は、スピーディーな打撃戦を楽しめるクリケットゲームです。ライン（コース）とレングス（長さ）を読み取り、適切な方向にショットを打ち分けましょう。守備配置の隙間を抜き、限られた投球数の中で目標スコア（ターゲット）を達成するのが目的です。
 
-[JA TRANSLATION NEEDED] Cricket Mania captures fast batting sessions. Read line and length, pick appropriate shots, and time swings to beat field placements and rack up runs under target pressures.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **ショットの選択:** ボールのコースに合わせて打ち分けます。足元に来たらレッグ側（左打者なら右）、外角ならオフ側（左打者なら左）へのショットが基本です。
+2.  **タイミング:** レッグ側へ引っ張る時はわずかに遅らせ、オフ側へ流す時は早めに振るなど、方向によってタイミングのウィンドウが異なります。
+3.  **ターゲット意識:** 目標ランレート（1オーバーあたりの必要得点）を常に意識しましょう。長打が出ない時は単打で確実に得点を重ねることも重要です。
+4.  **リスク管理:** 外野手が深く守っている方向に高いボール（ロブショット）を打つのは避けましょう。キャッチされてアウトになります。
+5.  **パワープレイ:** 内野手が前進守備をしている時は、その頭上を越すか、間を抜く強いショットで長打を狙いましょう。
 
-[JA TRANSLATION NEEDED] 1.  Shot selection: Play with the line—leg glance for pads, cover for off‑side.
-[JA TRANSLATION NEEDED] 2.  Timing window: Swing slightly late for leg‑side, earlier for off‑side drives.
-[JA TRANSLATION NEEDED] 3.  Target focus: Track required run rate; rotate strike when boundaries dry up.
-[JA TRANSLATION NEEDED] 4.  Risk control: Avoid aerials when fielders camp deep.
-[JA TRANSLATION NEEDED] 5.  Power plays: Use gaps aggressively when the field is in.
+### 操作ガイド
 
-### Controls Guide
+*   **操作:** 方向キー（または画面タップ）で打つ方向を決め、タイミングよく振ります。ランは自動で加算されます。画面の指示に従い、特定のショットを狙う場合もあります。
 
-- Aim shot with directional input; tap to swing on time.
+
 - Runs tally automatically; watch prompts for special shots.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: すぐにキャッチされてアウトになります。**
+- **A:** 守備がいる方向にボールを高く上げすぎています。ゴロ（グラウンドショット）を打つか、守備がいない方向を狙いましょう。
 
-- Keep getting caught? You’re lofting into deep field—favor ground shots.
-- Miss timing? Watch bowler’s release, not just ball flight.
-- Can I bowl? Most versions focus on batting only.
+*   **Q: タイミングが合いません。**
+    *   **A:** ボールが手元に来てから反応するのではなく、投手がボールを離す瞬間（リリースポイント）を見てリズムを取りましょう。
 
-
-
-
-
-
-
-
-
-- Can I bowl? Most versions focus on batting only.
-- Miss timing? Watch bowler’s release, not just ball flight.
-- Keep getting caught? You’re lofting into deep field—favor ground shots.
-### よくある質問（FAQ）
-- Runs tally automatically; watch prompts for special shots.
-- Aim shot with directional input; tap to swing on time.
-### コントロールガイド
-
-
-
-
-- Can I bowl? Most versions focus on batting only.
-- Miss timing? Watch bowler’s release, not just ball flight.
-- Keep getting caught? You’re lofting into deep field—favor ground shots.
+*   **Q: 守備や投球はできますか？**
+    *   **A:** このゲームはバッティング（打撃）に特化しているため、守備や投球はできません。

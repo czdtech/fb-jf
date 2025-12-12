@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tractor-mania
-title: '[KO] Tractor Mania'
+title: "Tractor Mania 트랙터 매니아"
 description: >-
-  [KO] Tractor Mania is a farm hauler — balance loads, manage torque, and
-  deliver cargo safely across rough terrain.
+  농장 트랙터로 짐을 싣고 험한 길을 달리는 물리 기반 운송 게임입니다. 가속과 기울기를 섬세하게
+  조절해 짐을 흘리지 않고 목적지까지 안전하게 배달해 보세요.
 iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
 thumbnail: /new-images/tractor-mania.png
 tags:
@@ -16,31 +16,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tractor Mania는 짐을 실은 트랙터와 트레일러를 운전해 울퉁불퉁한 농로를 달리는 물리 기반 운송 게임입니다.
+언덕, 도랑, 요철이 많은 길을 지나며 짐을 최대한 많이 남긴 채 목적지까지 도착하는 것이 목표입니다.
+무리한 가속이나 급정지는 트레일러를 크게 흔들어 짐을 쏟게 만들기 때문에, 속도보다 안정적인 주행이
+더 중요한 게임입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Tractor Mania is a physics hauler: throttle control and balance keep trailers steady over bumps. Spilled cargo costs rewards; smooth driving beats speed.
+1.  **언덕에서는 부드럽게 가속하기**: 오르막길에서 갑자기 풀 가속을 하면 바퀴가 헛돌거나 앞바퀴가
+    들릴 수 있습니다. 살짝씩 엑셀을 밀어 주는 느낌으로 힘을 조절하면 접지력을 유지한 채 안정적으로
+    올라갈 수 있습니다.
+2.  **기울기(Lean)로 균형 잡기**: 트랙터가 앞뒤로 크게 기울어지면 트레일러도 함께 흔들리며 짐이
+    튀어나오기 쉽습니다. 방향키나 A/D 키로 차체를 살짝 기울여, 점프 후 착지나 경사 구간에서
+    최대한 수평에 가깝게 유지해 보세요.
+3.  **내리막 전에는 미리 감속하기**: 내리막에서 브레이크를 늦게 밟으면 속도가 과하게 붙어 제어가
+    어려워집니다. 내리막이 보이면 미리 속도를 줄이고, 가능한 한 관성으로 굴러 내려가는 식으로
+    주행하면 훨씬 안전합니다.
+4.  **어려운 구간에서는 부분 짐이라도 지키기**: 특정 스테이지는 구조상 일부 짐을 잃을 수밖에 없는
+    구간이 있을 수 있습니다. 이 경우 모든 짐을 지키려다 실패하기보다는, 최소한의 짐이라도 안정적으로
+    가져가는 쪽이 더 나은 선택일 때가 많습니다.
+5.  **업그레이드는 타이어와 서스펜션부터**: 업그레이드가 제공되는 버전이라면, 엔진 파워보다 먼저
+    타이어와 서스펜션을 강화해 안정성을 올리는 것이 좋습니다. 차체가 안정되면 그다음에 속도를
+    올려도 훨씬 운전하기 편해집니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Gentle throttle on inclines; avoid wheel‑spin.
-2.  **[KO]** Lean to counter pitch; keep trailer level.
-3.  **[KO]** Brake before descents; coast down.
-4.  **[KO]** Secure partial loads first on tough routes.
-5.  **[KO]** Upgrade tires/suspension before engines if available.
+- **엑셀/브레이크**: W/S 또는 위/아래 방향키로 가속과 감속을 조절합니다.
+- **기울기 조절**: A/D 또는 좌/우 방향키로 차량의 앞뒤 기울기를 조정합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right.
+- **Q: 짐을 자꾸 흘리는데 어떻게 해야 하나요?**  
+  **A:** 언덕에서 과도하게 가속하거나 점프 후 착지할 때 기울기를 맞추지 못해 트레일러가 크게 흔들리는
+  경우가 많습니다. 속도를 조금만 줄이고, 요철 구간에서는 차체를 수평에 가깝게 유지해 보세요.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Cargo keeps spilling.
-
-A: You’re over‑throttling; slow and stabilize before bumps.
-
-- Q: Stuck on hills.
-
-A: Approach slower, keep traction, and lean forward gently.
-
+- **Q: 언덕에서 자꾸 멈추거나 뒤로 미끄러져요.**  
+  **A:** 오르막에 들어가기 전 너무 빠르게 달렸다가 바퀴가 헛도는 경우입니다. 진입 속도를 조금 낮추고,
+  일정한 힘으로 천천히 밀어 주며, 필요하다면 차량을 앞으로 살짝 기울여 접지력을 확보해 보세요.

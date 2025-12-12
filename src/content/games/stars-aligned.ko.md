@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: stars-aligned
-title: '[KO] Stars Aligned'
+title: 'Stars Aligned 스타즈 얼라인드'
 description: >-
-  [KO] Stars Aligned is a soothing constellation puzzler — rotate fragments,
-  connect lines, and form complete star patterns.
+  Stars Aligned는 별 조각을 회전시켜 선과 점을 맞추고 별자리 형태를 완성하는
+  차분한 퍼즐 게임입니다. 조용한 분위기 속에서 공간 감각과 관찰력을 시험해
+  보세요.
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/stars-aligned.jpg
 tags:
@@ -17,27 +18,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Stars Aligned는 흩어진 별 조각들을 맞추어 하나의 별자리로 완성하는 공간 퍼즐
+게임입니다. 각 조각을 회전시켜 선과 노드(별점)가 정확히 이어지도록 맞추는 것이
+목표입니다. 스테이지가 진행될수록 조각 수가 늘어나고 회전 각도가 미묘해져,
+조금 더 섬세한 관찰과 조정이 필요해집니다.
 
-Stars Aligned is a gentle spatial puzzle about connecting star fragments into constellations. Rotate pieces to align lines and nodes; later stages introduce more fragments and subtle rotations that demand careful inspection.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **기준점부터 맞추기:**
+    가장 눈에 잘 들어오는 확실한 연결 지점부터 먼저 고정해 두면 이후 경우의
+    수를 크게 줄일 수 있습니다.
+2.  **모든 회전 각도 확인:**
+    거의 맞아 보이는 조각도 한두 번 더 돌려 보면 딱 맞는 각도가 나오는 경우가
+    많습니다. 조금씩 돌려 보며 정확한 위치를 찾아보세요.
+3.  **대칭성 활용:**
+    많은 별자리가 좌우 또는 상하 대칭 구조를 가지고 있습니다. 한쪽 모양이
+    맞으면 반대편도 비슷한 형태를 이루는지 확인해 보세요.
+4.  **부분 그래프부터 해결:**
+    전체를 한꺼번에 보려 하기보다, 작은 연결 그룹 단위로 나누어 맞추고
+    마지막에 이 그룹들을 이어 주면 더 수월합니다.
+5.  **확대/축소 기능 활용:**
+    미세하게 어긋난 연결부는 확대해서 보는 것이 좋습니다. 거의 맞은 것처럼
+    보여도, 한 칸 정도 더 돌려야 완전히 연결되는 경우가 있습니다.
 
-1.  **[KO]** Start with anchors: Lock obvious matches first to reduce possibilities.
-2.  **[KO]** Check all rotations: Slight orientation changes often reveal hidden fits.
-3.  **[KO]** Symmetry cues: Many constellations are symmetric—use mirroring to test placements.
-4.  **[KO]** Isolate sub‑graphs: Solve small connected groups before linking the whole.
-5.  **[KO]** Zoom for precision: Use any zoom to verify nearly‑aligned joints.
+### 조작 방법 안내
 
-### Controls Guide
+- 마우스나 터치를 이용해 조각을 회전시키고, 드래그로 위치를 조정합니다.
+- 필요할 때는 되돌리기/초기화 기능을 사용해 다른 패턴을 시도할 수 있습니다.
 
-- Rotate pieces and drag them into place per the UI.
-- Undo/Reset as needed to test patterns.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 선이 딱 맞지 않는데 버그인가요?**
 
-- A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
-- Timers? Often relaxed; enjoy the ambient pace.
-- Hints? Some modes include hints; use sparingly.
+  A: 대부분은 각도가 아주 조금 덜 맞은 상태입니다. 조각을 한 단계 정도 더
+  회전시켜 보거나, 위치를 미세하게 조정해 보세요.
 
+- **Q: 시간 제한이 있나요?**
+
+  A: 많은 모드에서 시간 제한이 느슨하거나 아예 없는 편입니다. 서두르지 말고
+  편안한 마음으로 플레이하세요.
+
+- **Q: 힌트 기능이 있나요?**
+
+  A: 일부 버전에는 힌트 기능이 제공됩니다. 막혔을 때만 가끔 사용하고, 가능하면
+  스스로 별자리를 완성해 보는 것이 더 재미있습니다.

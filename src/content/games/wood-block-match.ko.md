@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: wood-block-match
-title: '[KO] Wood Block Match'
+title: "Wood Block Match 우드 블록 매치"
 description: >-
-  [KO] Wood Block Match is a calming block‑fit — place wooden shapes, clear
-  rows/columns, and preserve space with smart pocketing.
+  10×10 보드에 나무 블록을 배치해 행과 열을 지우는 편안한 퍼즐 게임입니다. 제한된 공간을 고려해
+  블록을 배치하고, 주머니처럼 남겨 둔 공간으로 난해한 모양을 처리하며 높은 점수에 도전해 보세요.
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/wood-block-match.png
 tags:
@@ -16,35 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Wood Block Match는 10×10 보드 위에 다양한 모양의 나무 블록을 올려, 가로줄이나 세로줄을
+완전히 채워 지워 나가는 정적 퍼즐 게임입니다. 한 턴마다 3개의 블록 세트가 주어지며, 모두
+배치하면 다음 세트가 등장합니다. 더 이상 어떤 블록도 보드에 들어가지 못하는 순간 게임이 끝나기
+때문에, 장기적으로 공간을 어떻게 보존할지가 매우 중요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Wood Block Match is a 10×10‑style block placement game with wooden aesthetics. Each turn you receive a batch of shapes; place them to complete rows/columns and clear space. The session ends when none of the remaining pieces fit — so success is about preserving flexible lanes while engineering multi‑line clears.
+1.  **중앙에 숨 쉴 공간 남기기**: 보드 중앙을 최대한 비워 두고, 가장자리부터 정리해 나가면
+    예기치 못한 모양의 블록이 나와도 배치할 자리를 찾기 수월합니다. 가운데까지 빽빽하게 채우면
+    금방 막히기 쉽습니다.
+2.  **포켓(주머니) 공간 계획하기**: 2×2 정사각형이나 L자 모양의 작은 공간을 일부러 남겨 두면,
+    배치하기 까다로운 3칸짜리 블록이나 긴 일자 블록을 처리하기 좋습니다. 이런 포켓을 한두 개는
+    항상 유지하려고 노력해 보세요.
+3.  **배치가 어려운 블록부터 사용하기**: 남은 공간이 좁아졌다면, 가장 큰 블록이나 모양이 특이한
+    블록부터 먼저 사용하세요. 쉬운 블록을 먼저 배치하다 보면, 나중에 정말 넣기 어려운 조각이 남아
+    게임이 끝나기 쉽습니다.
+4.  **2줄 이상 동시 삭제 노리기**: 한 번의 블록 배치로 가로줄과 세로줄을 동시에 채워 두 줄 이상을
+    한꺼번에 지우면 점수 효율이 크게 올라갑니다. 단순히 바로 지울 수 있는 줄만 노리기보다, 두 줄이
+    동시에 완성되도록 블록을 쌓아 보세요.
+5.  **되돌리기 기능이 있다면 신중히 사용하기**: 일부 모드에는 직전에 놓은 블록을 되돌리는 기능이
+    있습니다. 포켓을 막아 버린 배치나, 명백히 실수라고 느껴지는 한 수는 즉시 되돌려 구조를
+    복구하는 것이 좋습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Center breathing room: Keep the board center open; tidy edges to prevent single‑cell traps.
-2.  **[KO]** Pocket planning: Reserve a 2×2 or L‑shaped pocket for awkward triominoes.
-3.  **[KO]** Hard piece first: When crowded, place the largest/most awkward piece first.
-4.  **[KO]** Double clears: Build two‑line setups so one piece clears both.
-5.  **[KO]** Undo discipline: If available, undo immediately after a placement that seals pockets.
+- **블록 배치**: 마우스나 손가락으로 블록을 끌어 보드 위 원하는 위치에 놓습니다.
+- **회전(지원되는 경우)**: 특정 모드에서는 버튼을 눌러 블록을 회전시킬 수 있습니다.
+- **점수 획득**: 행 또는 열이 가득 차면 해당 줄이 사라지며 점수를 얻고, 공간이 다시 비게 됩니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag pieces into the grid; rotate if the mode supports it; clear rows/cols score points.
+- **Q: 항상 금방 막혀 버립니다. 어떻게 해야 하나요?**  
+  **A:** 보드 중앙을 함부로 채우지 말고, 포켓 공간을 하나 이상 남겨 두는 습관을 들여 보세요. 또한
+  바로 지울 수 있는 한 줄에만 집착하지 말고, 두 줄 이상을 동시에 지우는 구조를 조금씩 만들어 가는
+  것이 중요합니다.
 
-### Frequently Asked Questions (FAQ)
+- **Q: 블록을 회전할 수 있나요?**  
+  **A:** 일부 변형 모드에서는 회전을 지원하지만, 기본 규칙에서는 회전이 제한된 경우도 많습니다.
+  회전이 안 될 때는 포켓 계획과 공간 관리가 더욱 중요해집니다.
 
-- Q: I run out of space very quickly — what should I change?
-
-A: Protect the center, pre‑plan one pocket for awkward pieces, and prefer double‑clear setups over single clears.
-
-- Q: Can I rotate pieces?
-
-A: Some variants disallow rotation — compensate with better pocketing.
-
-- Q: Any tip for high scores?
-
-A: Chain consecutive double clears and avoid emergency singles that break structure.
-
+- **Q: 고득점을 노릴 때 가장 중요한 팁은 뭔가요?**  
+  **A:** 연속해서 2줄 이상을 지우는 "더블 클리어"를 자주 만들어 내는 것입니다. 구조를 무너뜨리는
+  급한 단일 클리어는 최대한 줄이고, 보드를 평평하게 유지하면서 여유 공간을 확보해 나가세요.

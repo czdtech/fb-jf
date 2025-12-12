@@ -1,63 +1,63 @@
 ---
+title: "Age of War いにしえの戦争"
+description: "「Age of War」は、石器時代から未来へと進化しながら敵の基地を破壊する、クラシックな防衛戦略ゲームです。文明を発展させ、最強の軍隊を築き上げよう！"
+iframeSrc: "https://flash.8games.net/games/age-of-war.swf"
+thumbnail: "/new-images/age-of-war.png"
+urlstr: "age-of-war"
+score: "4.5/5  (3421 votes)"
+tags: ["strategy", "defense", "war"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: age-of-war
-title: '[JA TRANSLATION NEEDED] Age of War'
-description: >-
-  [JA TRANSLATION NEEDED] iscover the ultimate guide to Age of War, the classic
-  strategy game. Learn winning strategies, controls, and tips to evolve your
-  army from cavemen to future warriors and dominate the battlefield.
-iframeSrc: >-
-  https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
-thumbnail: /new-images/age-of-war.jpg
-tags:
-  - strategy
-  - action
-score: 4.5/5  (525 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Age of War is a classic 2D side-scrolling strategy game that became widely popular during the Flash game era. The game's core concept is a battle between two bases, one belonging to the player and the other to an AI opponent. The unique and defining feature of the game is its "evolution" mechanic. Players start in the Stone Age (as cavemen) and must earn experience points (XP) to advance through five distinct eras: Stone Age, Middle Ages, Modern Age, and finally, the Future Age. Each evolution not only unlocks more powerful units and defensive turrets but also fully restores your base's health. The ultimate goal is simple: survive the enemy's onslaught and destroy their base.
+*Age of War（いにしえの戦争）*は、非常に人気の高い「進化型」戦略ディフェンスゲームです。あなたの目的は、自軍の基地を守り抜き、反対側にある敵の基地を破壊することです。
 
-### Gameplay Strategy & Walkthrough
+このゲームの最大の特徴は「進化」システムです。最初は原始的な石器時代から始まり、こん棒を持った穴居人（原始人）や恐竜ライダーを使って戦います。しかし、経験値（XP）を稼ぐことによって、中世、ルネサンス、現代、そして最終的には未来のスーパーソルジャーの時代へと、自軍の文明を進化させることができます。各時代には独自のユニット、防衛タワー、そして強力な特殊攻撃が用意されています。
 
-[JA TRANSLATION NEEDED] Mastering Age of War requires a balance of offense, defense, and strategic timing.
+### ゲーム攻略と戦略
 
-#### 1. Early Game Strategy (Stone Age)
-*   **The Caveman Rush:** The most common and effective opening strategy is to spam the cheapest unit, the "Club Man." They are cost-effective and can quickly overwhelm the enemy in the early stages.
-*   **Focus on XP:** Your primary goal is to kill enemy units to gain XP as quickly as possible. A strong offensive push helps you earn XP faster, leading to an earlier evolution.
-*   **First Turret:** Build the first turret (Sling Shot) as soon as you can afford it. It provides crucial defensive support and helps you conserve units and health while you save up for more powerful troops or your first evolution.
+勝利のカギは、攻撃と防衛のバランス、そして進化のタイミングです。
 
-#### 2. Mid-Game Strategy (Middle Ages & Modern Age)
-*   **Balanced Army:** Stop spamming only one type of unit. Create a balanced force. Place melee units (knights, infantry) at the front to absorb damage and protect your powerful but fragile ranged units (archers, riflemen) in the back.
-*   **When to Evolve:** Timing your evolution is critical. The best time to evolve is when your base health is low, as evolving fully restores it. Alternatively, evolve when you have a clear battlefield advantage to press your attack with superior units. Don't evolve if you are in the middle of a strong push, as it will clear all your units from the field.
-*   **Use Your Special Ability:** Each age comes with a powerful special ability (e.g., meteor shower, god's wrath). These have a long cooldown but can turn the tide of a battle. Use them to wipe out a large wave of enemy units or to support your own major offensive.
+#### 1. 序盤戦略（石器時代）
 
-#### 3. Late Game Strategy (Future Age)
-*   **The Super Soldier:** In the Future Age, the "Super Soldier" is one of the most powerful units in the game. They are expensive but incredibly durable and have immense firepower. Saving up for a few of these can create an unstoppable force.
-*   **Advanced Turrets:** Fully upgrade your turrets. The final-era turrets deal massive damage and are essential for defending against the enemy's powerful futuristic units.
-*   **Final Push:** Coordinate your most powerful units with your special ability for a final, decisive push to destroy the enemy base.
+*   **穴居人ラッシュ:** クラブマンや恐竜ライダーを絶えず送り込み、敵ベース手前で圧をかけてXPとゴールドを稼ぎます。
+*   **XP を稼ぐ:** できるだけ多くの敵を倒し、早めの進化に必要な経験値を確保しましょう。
+*   **最初のタレット:** 資金が貯まり次第スリングショットを建設し、ベース前の防衛を安定させます。
 
-### Controls Guide
+#### 2. 中盤戦略（中世〜現代）
 
-[JA TRANSLATION NEEDED] The game is controlled almost entirely with the mouse.
+*   **バランスの取れた軍:** 近接・遠距離・タンクを混ぜ、敵の編成に応じて柔軟に入れ替えます。
+*   **進化のタイミング:** 敵の攻勢が一段落した瞬間に進化し、ユニットとタレットの質を一気に上げましょう。
+*   **スペシャル活用:** 各時代の全体攻撃（火山弾や空爆など）は、敵の波が重なった瞬間に撃つと戦線をリセットできます。
 
-*   **Train Units:** Click on the unit icons at the top-left of the screen to train them. You must have enough gold.
-*   **Build Turrets:** Click on the empty turret slots on top of your base to open the build menu, then select a turret to construct.
-*   **Use Special Ability:** Click the special ability icon on the top-right of the screen when it's ready (not on cooldown).
-*   **Evolve:** Click the "Evolve" button at the top-right of the screen once you have accumulated enough XP.
+#### 3. 終盤戦略（未来時代）
 
-### Frequently Asked Questions (FAQ)
+*   **スーパーソルジャー:** 未来時代の最強ユニットを量産し、前線を押し上げる主力にします。
+*   **タレット強化:** すべてのタレットを最終段階までアップグレードし、敵の反撃をベースの手前で止めましょう。
+*   **総攻撃:** スペシャルとスーパーソルジャーの波を同時に投入し、敵基地へのトドメを刺します。
 
-*   **Q: How do I get XP?**
-    *   **A:** ユニットが敵ユニットを倒すたびに経験値（XP）を獲得します。
+### 操作ガイド
 
-*   **Q: What is the best unit in the game?**
-    *   **A:** [JA TRANSLATION NEEDED] While it depends on the situation, the "Super Soldier" from the Future Age is widely considered the most powerful all-around unit due to its high health and damage. In the early game, the basic Club Man is the most effective for its cost.
+すべてマウス操作で行います。
 
-*   **Q: Is it better to build more turrets or train more units?**
-    *   **A:** [JA TRANSLATION NEEDED] In the early game, a mix is best. One or two turrets provide stable defense, allowing you to save gold for a strong offensive army. In the late game, having fully upgraded turrets is crucial for survival.
+*   **ユニット生産：** 画面上部のユニットアイコンをクリックして生産します。
+*   **タワー建設：** タワーメニューからタワーを選んで基地に設置します。
+*   **特殊攻撃：** ゲージが溜まっている時にスペシャルアイコンをクリックして発動します。
+*   **進化：** 必要なXPが溜まったら、進化ボタンを押して次の時代へ進みます。
 
-*   **Q: Where can I play Age of War now that Flash is gone?**
-    *   **A:** [JA TRANSLATION NEEDED] Many gaming websites like CrazyGames, Armor Games, and Kongregate now host Age of War using Flash emulators (like Ruffle), making it fully playable in modern web browsers. There are also mobile versions available on iOS and Android app stores.
+### よくある質問 (FAQ)
+
+*   **Q: XPはどうやって集めるの？**
+    *   **A:** 自軍ユニットが敵を倒すたびにXPを獲得します。敵の波を素早く処理してXPを稼ぎ、進化やタレット強化に充てましょう。
+
+*   **Q: 一番強いユニットは？**
+    *   **A:** 状況次第ですが、未来時代の「スーパーソルジャー」は攻撃・耐久とも最高クラスで、終盤の押し込み役に最適です。
+
+*   **Q: タレットを増やすのとユニット量産、どちらが良い？**
+    *   **A:** 序盤は1〜2基のタレットで防衛を固めつつ、前線へ継続的にユニットを送り込むバランスが最も安定します。
+
+*   **Q: Flash終了後はどこで遊べる？**
+    *   **A:** CrazyGames や Armor Games など、多くのサイトがHTML5版を公開しています。「Age of War HTML5」で検索すれば最新のプレイ先が見つかります。

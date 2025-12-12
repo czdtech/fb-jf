@@ -1,11 +1,8 @@
 ---
 locale: ko
 urlstr: pirate-poker
-title: '[KO] Pirate Poker'
-description: >-
-  [KO] Ahoy! Bet, bluff, and build the best five-card hand in Pirate Poker.
-  Challenge salty sea dogs, manage your doubloons, and prove you're the sharpest
-  card shark on the seven seas.
+title: Pirate Poker 해적 포커
+description: '해적 선원들과 함께 다섯 장 드로 포커를 즐기는 카드 게임입니다. 더블룬을 걸고 패를 교환하며, 최강의 5장 족보로 팟을 가져가 보세요.'
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/pirate-poker.png
 tags:
@@ -18,36 +15,75 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Pirate Poker*는 해적 배를 배경으로 한 클래식 5장 드로 포커 게임입니다.
+플레이어는 바다 냄새 물씬 나는 해적 동료들과 한 테이블에 앉아,
+황금 더블룬을 걸고 가장 강력한 다섯 장의 패를 만들어야 합니다.
 
-Pirate Poker is a classic five-card draw poker game with a swashbuckling pirate theme. You'll sit at a table with salty pirate opponents, betting your gold doubloons and trying to build the best possible five-card hand. The game involves rounds of betting, a chance to exchange your cards to improve your hand, and a final showdown to see who wins the pot. It's a game of strategy, psychology, and a little bit of luck.
+게임은 베팅 라운드와 카드 교환(드로) 단계, 그리고 마지막 쇼다운으로
+구성됩니다. 언제 카드를 버리고 새로 받을지, 언제 레이즈를 할지,
+언제 과감히 폴드할지가 승패를 좌우하는 전략·심리·운이 모두 섞인
+카드 게임입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Know the Hand Rankings:** The goal is to make the best five-card hand. From highest to lowest, the standard rankings are: Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, Straight, Three of a Kind, Two Pair, One Pair, and High Card.
-2.  **[KO]** **The Draw Phase:** After the first round of betting, you'll have a chance to discard some of your cards and draw new ones. This is your chance to improve your hand. If you have a pair, discard the other three cards. If you are close to a Straight or a Flush, discard the one card that doesn't fit.
-3.  **[KO]** **Betting Strategy:** Don't be afraid to "Fold" if you have a very weak hand and the bets are getting high. Sometimes, you can "Bluff" by betting aggressively with a weak hand to try and scare your opponents into folding.
-4.  **[KO]** **Reading Your Opponents:** Pay attention to how your opponents are betting. If an opponent makes a very large bet, they likely have a strong hand (or are bluffing!). If they just "Check" (bet nothing), their hand might be weak.
+1. **족보(핸드 랭킹)를 정확히 외우기**  
+   목표는 가능한 한 높은 족보의 패를 만드는 것입니다. 일반적인
+   순위는 다음과 같습니다.  
+   로열 플러시 > 스트레이트 플러시 > 포카드 > 풀 하우스 >
+   플러시 > 스트레이트 > 트리플(쓰리카드) > 투페어 > 원페어 > 탑 하이 카드.
 
-### Controls Guide
+2. **드로(카드 교환) 단계 활용하기**  
+   첫 베팅 라운드 후에는 일부 카드를 버리고 새 카드를 뽑을 수
+   있습니다. 이미 한 쌍(원페어)을 가지고 있다면 나머지 세 장을
+   버리고 더 나은 조합을 노려 보세요. 스트레이트나 플러시가 거의
+   완성된 상태라면, 맞지 않는 카드 한 장만 버리고 완성을 노리는
+   것이 좋습니다.
 
-The game is played with on-screen buttons.
+3. **베팅 전략 세우기**  
+   패가 매우 약하고 상대 베팅이 크게 올라간다면 과감히 **폴드**하는
+   것이 좋습니다. 반대로 약한 패지만 상대를 속이고 싶다면, 일부
+   상황에서는 공격적으로 **블러핑**을 시도해 상대를 폴드하게 만들
+   수도 있습니다. 다만 지나친 블러핑은 금방 들통날 수 있으니
+   상황을 잘 가려 사용하세요.
 
-*   **[KO]** **Bet/Raise:** Increase the current bet.
-*   **[KO]** **Check:** Bet nothing, passing the action to the next player (only possible if no one has bet before you in the round).
-*   **[KO]** **Call:** Match the current bet to stay in the hand.
-*   **[KO]** **Fold:** Give up the hand, forfeiting any money already in the pot.
-*   **[KO]** **Discard:** During the draw phase, click on the cards you want to get rid of, then click the "Draw" button.
+4. **상대 행동 읽기**  
+   상대가 언제 레이즈를 하고, 언제 콜 혹은 체크만 하는지 살펴보면
+   대략적인 패 강도를 추측할 수 있습니다. 갑작스러운 대형 레이즈는
+   정말 강한 패일 수도, 과감한 블러핑일 수도 있습니다. 상대의
+   평소 패턴과 함께 고려해 판단해 보세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: What is the best hand in poker?**
-    *   **[KO]** **A:** A Royal Flush (A, K, Q, J, 10, all of the same suit) is the highest possible hand.
+게임은 화면의 버튼을 클릭하는 방식으로 진행됩니다.
 
-*   **[KO]** **Q: What does it mean to "bluff"?**
-    *   **[KO]** **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
+- **베팅/레이즈(Bet/Raise)**: 현재 판돈을 올립니다.  
+- **체크(Check)**: 이전에 아무도 베팅하지 않았을 때, 베팅하지 않고
+  턴을 넘깁니다.  
+- **콜(Call)**: 현재까지 올라간 베팅 금액을 맞추고 게임을
+  이어갑니다.  
+- **폴드(Fold)**: 이번 판에서 손을 빼고, 이미 걸어 둔 돈을 포기합니다.  
+- **디스카드(Discard)**: 드로 단계에서 버리고 싶은 카드를
+  클릭해 선택한 뒤, "Draw" 버튼을 눌러 새 카드를 받습니다.
 
-*   **[KO]** **Q: When should I fold?**
-    *   **[KO]** **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
+### 자주 묻는 질문(FAQ)
 
+* **Q: 가장 좋은 시작 패는 무엇인가요?**  
+  **A:** 높은 페어(예: A,A 또는 K,K)나, 같은 무늬·연속 숫자를
+  노릴 수 있는 카드들이 좋은 시작 패입니다. 하지만 포커에서는
+  이후 드로와 상대의 베팅 방식에 따라 상황이 크게 달라질 수
+  있습니다.
+
+    - **Q: 초보자에게 가장 중요한 팁은?**  
+
+- **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
+
+    - **Q: When should I fold?**
+
+- **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
+
+    - **Q: What does it mean to "bluff"?**
+  **A:** 너무 많은 판에 억지로 참여하지 말고, 애매한 패에서는
+  폴드를 아끼지 않는 것이 좋습니다. 족보를 완전히 외운 다음,
+  천천히 베팅 패턴과 블러핑 감각을 익혀 나가 보세요.

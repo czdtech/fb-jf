@@ -1,76 +1,62 @@
 ---
+title: "Boxing Random ボクシング・ランダム"
+description: "「Boxing Random」は物理演算が予測不能なボクシングゲーム！ワンボタン操作でジャンプ＆パンチ。毎回変わるルールや環境に適応して、先に5勝した方が勝者だ。"
+iframeSrc: "https://boxingrandom.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+thumbnail: "/new-images/boxing-random.jpg"
+urlstr: "boxing-random"
+score: "4.5/5  (1820 votes)"
+tags: ["sports", "action", "2-players"]
+developer: "RHM Interactive"
+releaseDate: 2025-08-16
 locale: ja
-urlstr: boxing-random
-title: '[JA TRANSLATION NEEDED] Boxing Random'
-description: >-
-  [JA TRANSLATION NEEDED] Experience chaotic, physics-based boxing in Boxing
-  Random! Master one-button controls and adapt to random challenges to knock out
-  your opponent in this hilarious 1 or 2-player fighting game.
-iframeSrc: >-
-  https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
-thumbnail: /new-images/boxing-random.jpg
-tags:
-  - sports
-  - physics
-score: 4.1/5  (855 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Boxing Random（ボクシング・ランダム）*は、1つのボタンだけで操作するラグドール系ボクシングゲームです。先に5ポイントを獲ったプレイヤーが勝利します。
 
+「Random」という名の通り、ラウンドごとに状況が激変します。
 
-### Game Introduction
+- **ステージ**：背景や床の摩擦、傾きが変わり、氷面やトランポリンになることも。  
+- **キャラクター**：腕の長さ、頭の大きさ、衣装までランダム。  
+- **物理挙動**：低重力、重力増し、風、滑る床など。  
+- **イベント**：飛行物や障害物が乱入することもあり、笑いとカオスは常に上昇。
 
-[JA TRANSLATION NEEDED] Boxing Random is a whimsical and chaotic physics-based fighting game with an extremely simple control scheme. Unlike traditional boxing games that require complex combos and strategies, Boxing Random thrives on unpredictability and humor. The objective is to be the first player to score 5 points. A point is scored by landing a single successful punch on the opponent's head.
+この無限に近いランダム性のおかげで、まったく同じラウンドは二度と来ません。毎回の適応力が勝負です。
 
-[JA TRANSLATION NEEDED] The "Random" in the title is the core feature of the game. At the start of each round, everything can change:
--   **The Arena:** The background and stage layout might change.
-    - **Up Arrow Key:** ジャンプ / Lean Back & Punch
-    - **W Key:** ジャンプ / Lean Back & Punch
-    - **Up Arrow Key:** ジャンプ / Lean Back & Punch
-    - **W Key:** ジャンプ / Lean Back & Punch
--   **The Boxers:** The characters' appearances, arm length (from very short to incredibly long), and even head size can be randomized.
--   **The Physics:** Some rounds might have low gravity, while others might feature slippery ice floors.
--   **Special Elements:** Obstacles like rockets flying across the screen or other bizarre challenges may appear.
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] This constant randomness ensures that no two rounds are ever the same and forces players to constantly adapt their tactics. The game is known for its ragdoll physics, which leads to hilarious, wobbly character movements and unpredictable knockouts. It can be played solo against an AI or locally with a second player.
+運要素は強いものの、勝率を上げるテクニックもあります。
 
-### Gameplay Strategy
+- **カオスを受け入れる**：まずは今ラウンドの条件を観察し、重力や地形を味方につける。  
+- **タイミングが命**：無闇に連打せず、相手との距離が詰まった瞬間に押す。  
+- **慣性と弧線を使う**：後ろに反ってから前に倒れ込む、ジャンプして落下中にパンチするなど、体全体の動きを活かす。  
+- **コーナーを狙う**：相手を画面端に追い込むと、逃げ道がなくなりヒットしやすい。  
+- **腕を盾にする**：振り回す腕は攻撃だけでなく防御にもなる。敵のパンチコースに腕を置き、弾いた瞬間に反撃。  
+- **腕の長さに合わせる**：長い腕なら距離を保って刺し続け、短い腕なら密着してゴリ押しする。
 
--   **Embrace the Chaos:** Do not try to play this like a serious boxing game. The key to winning is to adapt to the random elements of each round and use them to your advantage.
--   -   **Timing is Everything:** With only one button, your success depends entirely on *when* you press it. Pressing the button makes your character jump and swing their arm. Learn the rhythm of your character's wobbly movements to time your punch perfectly.
--   **Use Momentum:** Your punch isn't just a simple jab. It's a full-body swing. Use the momentum from your character's jump and lean to create a powerful arc. Sometimes, jumping away from your opponent and then swinging on the way down can create a surprise attack.
--   **Corner Your Opponent:** A classic fighting game tactic that works well here. If you can push your opponent against the edge of the screen, they have less room to dodge, making it easier to land a hit.
--   **Play Defensively:** Your swinging arm isn't just for attacking. It can also act as a shield, blocking the opponent's incoming punch. Sometimes, a well-timed swing can knock their fist away, creating an opening for you.
--   **Adapt to Your Arms:** If you get a round with very long arms, try to keep your distance and attack from afar. If you have short arms, you need to get in close and be aggressive.
+### 操作ガイド
 
-### Controls Guide
+有名な「ワンボタン」操作システムです。
 
-[JA TRANSLATION NEEDED] The game is famous for its one-button control scheme.
+- **プレイヤー1:**  
+    - **上矢印キー (↑):** ジャンプ / 上体を反らす & パンチ
 
--   **Player 1:**
+- **プレイヤー2:**  
+    - **W キー:** ジャンプ / 上体を反らす & パンチ
 
-    - **Up Arrow Key:** Jump / Lean Back & Punch
-[JA TRANSLATION NEEDED]     -   **Up Arrow Key:** Jump / Lean Back & Punch
+**注意:** ジャンプも攻撃も1つのボタンで行われます。押すと自動的に体を動かして腕を振ります。
 
--   **Player 2:**
+### よくある質問 (FAQ)
 
-    - **W Key:** Jump / Lean Back & Punch
-[JA TRANSLATION NEEDED]     -   **W Key:** Jump / Lean Back & Punch
+**Q: どうすればラウンド勝利？**  
+> 相手の頭部に一発クリーンヒットさせればOK。先に5ポイント取ったほうが試合勝利です。
 
-[JA TRANSLATION NEEDED] **Note:** The same button controls all actions. Pressing it makes your character jump/lean and automatically swing their arm.
+**Q: どうしてキャラの動きがヘンなの？**  
+> ラグドール物理＆ランダム要素が売り。腕・頭・重力が毎回変わるため、予想外の動きになるのが魅力です。
 
-### Frequently Asked Questions (FAQ)
+**Q: ガードボタンは？**  
+> ありません。振り回す腕そのものが盾になるので、相手の拳の軌道に合わせて腕を差し込んでください。
 
-[JA TRANSLATION NEEDED] **1. How do I win a round?**
-[JA TRANSLATION NEEDED] > You win a round by landing one clean punch on your opponent's head. The first player to win 5 rounds wins the entire match.
-
-[JA TRANSLATION NEEDED] **2. Why do the characters look and move so strangely?**
-[JA TRANSLATION NEEDED] > That's the core feature of the game! The characters and physics are randomized each round. You might have long arms, a different background, or face new obstacles. The wobbly "ragdoll" physics is what makes the game fun and unpredictable.
-
-[JA TRANSLATION NEEDED] **3. Is there a way to block?**
-[JA TRANSLATION NEEDED] > There is no dedicated block button. However, you can use your own swinging arm as a makeshift shield to block or deflect the opponent's punch. This requires good timing.
-
-[JA TRANSLATION NEEDED] **4. Can I play this game by myself?**
-[JA TRANSLATION NEEDED] > Yes, Boxing Random has a single-player mode where you compete against a computer-controlled opponent (AI).
-
+**Q: 1人プレイは可能？**  
+> もちろん。CPUと対戦するソロモードがあり、ローカル2Pにも即切り替えられます。

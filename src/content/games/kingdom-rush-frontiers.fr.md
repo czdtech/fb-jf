@@ -1,44 +1,69 @@
 ---
 locale: fr
 urlstr: kingdom-rush-frontiers
-title: '[FR] Kingdom Rush Frontiers'
+title: Kingdom Rush Frontiers
 description: >-
-  [FR] Tower defense sequel: build and upgrade towers, deploy reinforcements and
-  heroes, and counter enemy types with smart placement.
-iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
-thumbnail: /new-images/kingdom-rush-frontiers.jpg
+  Kingdom Rush Frontiers est la suite du tower defense culte : construis des
+  tours, déploie renforts et héros, et défends de nouveaux biomes extrêmes.
+iframeSrc: 'https://kingdomrushfrontiers.h5games.usercontent.goog/v/0kedni3rec5k0/'
+thumbnail: /new-images/kingdom-rush-frontiers.png
 tags:
-  - tower-defense
   - strategy
-score: 4.6/5  (681 votes)
+  - tower defense
+score: 4.8/5  (placeholder votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation
+
+Kingdom Rush Frontiers reprend la formule du premier Kingdom Rush en l’étendant à des déserts, jungles et mondes extra‑terrestres. Tu y utilises toujours quatre familles de tours, des renforts à invoquer et des héros à contrôler pour arrêter les vagues ennemies.
+
+### Stratégies de base
+
+1.  **Contrôle de chemin** : place des tours sur les carrefours pour frapper plusieurs routes.  
+2.  **Spécialisations** : adapte les branches de tours (anti‑air, anti‑armure, magie) aux types d’ennemis de la carte.  
+3.  **Héros mobile** : déplace ton héros pour boucher les trous dans ta défense ou retenir les boss.  
+
+### Commandes
+4.  **Powers globaux** : garde les sorts de zone pour les situations de saturation.
 
 
 
-### Overview
-Frontiers refines the Kingdom Rush formula with new biomes, enemy abilities, and tower specializations. Place archer, barracks, mage, and artillery towers, then branch them into unique specials. Call reinforcements, drop meteor‑like specials, and micro your hero to plug leaks while managing armor/magic resist counters.
-
-### How to Play
-- Identify armor types; use mages vs. armored foes, archers/artillery vs. swarms.
-- Position barracks to stall at choke points; support with splash or magic.
-- Save hero skills and nukes for elite waves or flying rushes.
-
-### Controls
-- Mouse/touch to build, upgrade, and cast; hotkeys vary by host.
-
-### Tips
-- Don’t overbuild early—upgrade key towers for efficient damage.
-- Split splash and single‑target to handle mixed waves.
-- Scout flying paths; add anti‑air where needed.
-
-### FAQ
-- Q: Which tower upgrades should I prioritize?
-A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
-- Q: How do I counter heavy armor waves?
-A: Invest in mage lines and armor‑shredding skills.
-- Q: Are heroes necessary to win?
 A: Not required but very helpful for stalling and finishing elites.
 
+- Q: Are heroes necessary to win?
+
+A: Invest in mage lines and armor‑shredding skills.
+
+- Q: How do I counter heavy armor waves?
+
+A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
+
+- Q: Which tower upgrades should I prioritize?
+
+### Foire aux questions (FAQ)
+
+- Scout flying paths; add anti‑air where needed.
+
+- Split splash and single‑target to handle mixed waves.
+
+- Don’t overbuild early—upgrade key towers for efficient damage.
+
+### Tips
+
+
+A: Not required but very helpful for stalling and finishing elites.
+
+- Q: Are heroes necessary to win?
+
+A: Invest in mage lines and armor‑shredding skills.
+
+- Q: How do I counter heavy armor waves?
+
+A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
+
+- Q: Which tower upgrades should I prioritize?
+
+
+A: Not required but very helpful for stalling and finishing elites.

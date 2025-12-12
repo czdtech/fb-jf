@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: element-blocks
-title: '[KO] Element Blocks'
+title: Element Blocks 엘리먼트 블록
 description: >-
-  [KO] A strategic block puzzle game with a twist. Place elemental blocks to
-  clear lines, and collect stars to unleash powerful boosters. Plan your moves
-  carefully to master the grid!
+  10x10 보드에 다양한 블록을 배치해 줄을 지우는 전략 퍼즐입니다. 별이 달린 블록으로 파워업을 모으고, 신중한 수로 최대 점수를 노려
+  보세요.
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/element-blocks.png
 tags:
@@ -17,33 +16,58 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Element Blocks는 10x10 보드 위에 테트리스처럼 생긴 블록을 올려 가로줄·세로줄을
+가득 채워 지우는 정적 퍼즐 게임입니다. 한 번에 세 개의 블록 세트를 받고,
+세 개를 모두 배치해야만 다음 세트가 등장합니다. 이 게임만의 특징은 블록에
+붙어 있는 별과, 별로 사용하는 각종 파워업 시스템으로, 위기 상황에서 한 번에
+판을 정리할 수 있는 전략적 선택지를 제공합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Element Blocks is a calm yet strategic puzzle game that builds on the popular 10x10 block puzzle formula. Players place various Tetris-like shapes, themed as elemental blocks, onto a 10x10 grid. The goal is to fill and clear complete lines either horizontally or vertically. What sets this game apart is the addition of a star collection and power-up system, providing a strategic tool to get you out of difficult situations and extend your game.
+1. **기본 10x10 규칙 이해하기**  
+   항상 세 개의 블록을 모두 배치해야 다음 세트가 나오며, 블록은 회전할 수
+   없습니다. 세 블록을 모두 놓을 공간이 없으면 게임이 종료됩니다.  
+2. **별 모으기**  
+   가끔 별이 그려진 블록이 등장합니다. 해당 블록이 포함된 줄을 지우면 별을
+   획득하며, 이는 파워업을 사용하는 데 필요한 자원이 됩니다.  
+3. **파워업은 정말 막혔을 때 사용하기**  
+   모은 별로는 작은 범위를 지우는 폭탄, 한 줄을 없애는 번개 등 강력한
+   파워업을 사용할 수 있습니다. 하지만 개수가 한정되어 있으니, 이동 가능한
+   블록이 거의 없을 때 같은 진짜 위기 상황에 아껴 두는 것이 좋습니다.  
+4. **미래 블록까지 고려한 배치**  
+   당장 잘 맞아 보이는 자리에만 두지 말고, 현재 손에 들고 있는 나머지 두 개
+   블록까지 함께 고려해 배치하세요. 움직일 수 있는 공간을 넓게 유지하는 것이
+   장기 생존의 핵심입니다.  
+5. **콤보 노리기**  
+   한 번의 배치로 여러 줄을 동시에 지우면 큰 점수 보너스를 얻을 수 있습니다.
+   줄이 교차하는 지점을 중심으로 공간을 남겨 두면 콤보 기회를 만들기 좋습니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Standard 10x10 Rules:** You are given three block shapes at a time. You must place all three on the board before a new set appears. The blocks cannot be rotated.
-2.  **[KO]** **Collect Stars:** Occasionally, blocks will appear with stars embedded in them. When you clear a line that includes one of these special blocks, you collect the star. These stars are the currency for using power-ups.
-3.  **[KO]** **Use Power-ups Wisely:** Collected stars can be spent on powerful boosters. These might include a bomb to clear a small area, a lightning bolt to destroy a single line, or other helpful tools. Save these for when you are truly stuck and have no other good moves.
-4.  **[KO]** **Think About Future Shapes:** Don't just place a block where it fits now. Look at the other two shapes you have and try to place the current one in a way that leaves room for the others. The game ends when you can't place any of the three given shapes.
-5.  **[KO]** **Maximize Combos:** Clearing multiple lines with a single block placement is called a combo and will grant you a significant score bonus. Always be on the lookout for combo opportunities.
+* **블록 배치**: 화면 아래 대기 영역에서 블록을 드래그해 10x10 그리드 위 원하는
+  위치에 내려놓습니다.  
+* **파워업 사용**: 별이 충분하다면 화면의 파워업 아이콘을 클릭한 뒤, 효과를
+  적용할 칸이나 줄을 선택합니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
-*   **[KO]** **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
+- **Q: 별은 어떻게 모이나요?**  
+  **A:** 별 모양이 있는 블록이 포함된 줄을 지울 때마다 별을 얻을 수 있습니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 블록을 회전할 수 없나요?**  
+  **A:** 네. 회전이 되지 않는 것이 이 퍼즐의 난이도와 전략의 핵심입니다.
+  제시된 모양 그대로 활용해야 합니다.  
 
-*   **[KO]** **Q: How do I get stars?**
-    *   **[KO]** **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
+- **Q: 별은 언제 쓰는 것이 좋을까요?**  
 
-*   **[KO]** **Q: Can I rotate the blocks?**
-    *   **[KO]** **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
+    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
 
-*   **[KO]** **Q: What is the best way to use my stars?**
-    *   **[KO]** **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
+- **Q: What is the best way to use my stars?**
+
+    - **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
+  **A:** 보드는 넓을수록 좋기 때문에, 더 이상 세 블록을 모두 놓을 공간이
+  보이지 않을 때, 파워업으로 특정 구역을 지워 공간을 확보하는 용도로
+  사용하는 것이 가장 효율적입니다.  
 

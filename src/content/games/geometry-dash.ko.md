@@ -1,8 +1,11 @@
 ---
 locale: ko
 urlstr: geometry-dash
-title: '[KO] Geometry Dash Wave Spam - Play Geometry Dash Online'
-description: '[KO] Forget the fluff. This isn'
+title: "Geometry Dash Wave Spam 지오메트리 대시 웨이브 스팸"
+description: >-
+  포탈과 패드를 모두 걷어낸 순수 웨이브 전용 Geometry Dash 커스텀 레벨입니다.
+  한 줄짜리 좁은 코리더에서 파동 궤적만으로 끝까지 버티며 웨이브 컨트롤
+  실력을 극한까지 끌어올려 보세요.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /geometry-dash.png
 tags:
@@ -12,16 +15,30 @@ score: 4.5/5  (604 votes)
 
 
 
-Forget the fluff. This isn't your standard Geometry Dash stroll. This is a pure, uncut, wave-only gauntlet designed to break you and build you back stronger. We've stripped out the portals, the pads, and the coins—it's just you, your ship, and a pixel-perfect corridor of death.
+불필요한 요소는 모두 던져 버리세요. 이건 평범한 Geometry Dash 산책 코스가
+아닙니다. 오로지 웨이브만으로 구성된 순수한 가시밭 레벨로, 당신을 부수고 다시
+강하게 단련하기 위해 존재합니다. 포탈도, 패드도, 코인도 없습니다. 남는 건
+당신의 웨이브, 손가락, 그리고 한 픽셀만 삐끗해도 죽음이 확정되는 좁은 코리더
+뿐입니다.
 
-### MASTER THE WAVE OR DIE TRYING
+### 웨이브를 지배하라, 아니면 바로 추락하라
 
-This is the ultimate training ground. A brutalist trial by fire where your muscle memory and rhythmic precision are the only things that matter. The corridors are tight, the spikes are unforgiving, and a single mistimed tap means instant failure. No luck, no shortcuts—just raw, unfiltered skill.
+이곳은 궁극의 연습장입니다. 당신의 근육 기억과 리듬 감각만이 시험대에 오르는
+엄격한 불시험이죠. 통로는 터무니없이 좁고, 스파이크는 한 번의 실수도
+용납하지 않습니다. 잘못된 탭 한 번이면 즉시 바닥으로 추락합니다.  
+운도, 편법도 없습니다. 오직 순수한 실력과 집중력만이 결과를 결정합니다.
 
-If you can't handle the pressure, you won't last a second. But if you're here to truly master the wave, to sharpen your reflexes until they're razor-edged, then this is your arena. Every run is a high-octane lesson in control.
+압박을 견디지 못한다면 몇 초도 버티지 못할 것입니다. 하지만 정말로 웨이브를
+마스터하고 싶고, 반사 신경을 칼날처럼 벼리고 싶다면, 바로 이 레벨이
+당신을 위한 무대입니다. 매 시도는 컨트롤을 익히기 위한 고밀도 레슨이며, 실패할
+수록 다음 도전이 더 날카로워집니다.
 
-#### Features:
+#### 특징
 
-- Pure Wave Gameplay: Nothing but the wave form. This is the ultimate test of your core mechanics.
-- Pixel-Perfect Corridors: Navigate spike tunnels so tight they demand flawless control. One pixel can be the difference between glory and another reset.
-- Brutal, High-Intensity Runs: This level is designed for quick, explosive attempts. Learn, adapt, and go again—faster and sharper each time.
+- **순수 웨이브 게임플레이**: 웨이브 폼만 존재합니다. 복잡한 기믹 없이, 기본
+  조작 실력만으로 승부를 보는 궁극의 테스트입니다.
+- **픽셀 단위의 코리더**: 한 픽셀 차이로 생사가 갈리는 스파이크 터널을
+  통과해야 합니다. 미세한 각도 조절과 리듬감이 필수입니다.
+- **짧지만 고강도 러닝**: 빠르게 도전하고, 즉시 리트라이를 반복하도록
+  설계된 구조입니다. 패턴을 학습하고, 실수를 분석하며, 매 시도마다 조금씩 더
+  멀리 나아가 보세요.

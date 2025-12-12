@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: domino-adventure
-title: '[DE] Domino Adventure'
+title: Domino Adventure
 description: >-
-  [DE] Master the classic board game, Domino Adventure. This guide provides
-  expert strategies for Block and Draw modes, tips for managing your tiles, and
-  how to win rounds by being the first to play all your dominoes.
+  Beherrsche das klassische Brettspiel Domino in Domino Adventure. Lerne
+  Strategien für Block- und Draw-Modus, verwalte deine Steine clever und gewinne
+  Runden, indem du als Erster all deine Domino-Steine ausspielst.
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/domino-adventure.png
 tags:
@@ -16,46 +16,78 @@ score: 4.3/5  (2144 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### **Spieleinführung**
 
+*Domino Adventure* ist eine schön umgesetzte digitale Version des klassischen
+Domino-Brettspiels. Dein Ziel ist es, als erster Spieler **all deine
+Domino-Steine zu legen**, indem du sie passend an die offenen Enden der
+Dominokette auf dem Tisch anlegst.
 
+Zu Beginn erhält jeder Spieler eine Hand voller Steine. Wenn du an der Reihe
+bist, musst du einen Stein aus deiner Hand anlegen, dessen Augenzahl zu einer
+freien Seite der Kette passt. Die Runde endet, sobald ein Spieler keine Steine
+mehr hat oder wenn alle Spieler blockiert sind und keinen gültigen Zug mehr
+machen können.
 
+Der Sieger einer Runde erhält Punkte in Höhe der Gesamtaugenzahl aller Steine,
+die noch in den Händen der Gegner liegen. Gespielt wird über mehrere Runden,
+bis ein Spieler einen vorher festgelegten Zielscore erreicht (z.B. 15 Punkte
+wie im Beispiel).
 
-### **Game Introduction**
+### **Strategie & Tipps**
 
-*Domino Adventure* is a beautifully presented digital version of the classic dominoes board game. The objective is to be the first player to **play all of your domino tiles** by strategically matching them to the ends of the domino chain on the table.
+1. **Doppelsteine früh ausspielen:** Doppelsteine (z.B. Doppel-Fünf oder
+   Doppel-Drei) sind weniger flexibel, weil sie nur eine Zahl besitzen, die
+   passen muss. Wenn du sie früh loswirst, verhinderst du, dass sie dir später
+   im Weg stehen, wenn das Brett bereits zugebaut ist.
+2. **Zahlenvielfalt behalten:** Versuche, eine möglichst große Spannbreite an
+   Zahlen in deiner Hand zu halten. Wenn du nur hohe Werte (Fünfen, Sechsen)
+   hast, die offenen Enden aber niedrige Zahlen zeigen, bist du schnell
+   blockiert.
+3. **Gegner blockieren:** Achte auf die Zahlen, die dein Gegner spielt. Wenn du
+   bemerkst, dass er eine bestimmte Zahl meidet, besitzt er sie vermutlich
+   nicht. Versuche, diese Zahl an beiden Enden der Kette liegen zu lassen, um
+   ihn zu blockieren und ihn zum Passen (im Block-Modus) oder Nachziehen (im
+   Draw-Modus) zu zwingen.
+4. **Schwere Steine früh loswerden:** Wenn du damit rechnest, eine Runde nicht
+   zu gewinnen, spiele zuerst Steine mit hoher Gesamtaugenzahl. So reduzierst
+   du die Punkte, die dein Gegner bekommt, falls er gewinnt.
+5. **Spielmodi kennen:**  
+    - **Block-Modus:** Kannst du keinen Stein legen, musst du aussetzen. Hier
+     geht es besonders darum, den Gegner gezielt zu blockieren.  
+    - **Draw-Modus:** Kannst du nicht legen, musst du Steine aus dem Vorrat
+     (dem "Boneyard") nachziehen, bis du einen passenden Stein erhältst. Dieser
+     Modus enthält mehr Glückselemente.
 
-Each player starts with a hand of domino tiles. On your turn, you must place a tile from your hand that has a number of pips (dots) matching one of the open ends of the chain on the board. The game ends when one player runs out of tiles, or when all players are "blocked" and can no longer make a legal move.
+### **Steuerung**
 
-The winner of a round scores points equal to the total number of pips left in their opponents' hands. The game is played over several rounds until one player reaches a pre-set score target (e.g., 15 points as shown in the screenshot).
+Das Spiel setzt auf eine einfache, intuitive Steuerung per Drag-and-Drop oder
+Mausklicks.
 
-### **Gameplay Strategy & Tips**
+- **Stein spielen:** **Klicke und ziehe** einen Domino aus deinem Rack auf ein
+  gültiges Ende der Kette. In manchen Versionen reicht auch ein einfacher
+  **Klick** auf den gewünschten Stein, damit er automatisch an eine passende
+  Stelle gelegt wird.
 
-1.  **[DE]** **Play Your Doubles Early**: Double-sided tiles (like double-fives or double-threes) are less versatile because they only have one number to match. Playing them early prevents them from getting stuck in your hand later when you have fewer options.
-2.  **[DE]** **Keep a Variety of Numbers**: Try to keep a diverse range of numbers in your hand. If you only have tiles with high numbers (fives and sixes), and the ends of the chain are all low numbers, you'll be blocked.
-3.  **[DE]** **Block Your Opponent**: Pay attention to the numbers your opponent is playing. If you notice they are avoiding a certain number, it's likely they don't have it. If you have the opportunity, try to leave that number exposed on both ends of the chain to block them and force them to pass their turn (in Block mode) or draw a new tile (in Draw mode).
-4.  **[DE]** **Play Your Heaviest Tiles First**: If you anticipate that you might not win the round, it's a good strategy to play your tiles with the highest total number of pips first. This minimizes the number of points your opponent will score off you if they win.
-5.  **[DE]** **Know the Game Modes**:
-    *   **[DE]** **Block Mode**: If you cannot play a tile, you must pass your turn. This mode is more about strategically blocking your opponent.
-    *   **[DE]** **Draw Mode**: If you cannot play a tile, you must draw a new tile from the boneyard until you get one you can play. This mode involves more luck.
+### **Häufige Fragen (FAQ)**
 
-### **Controls Guide**
+**1. Wie gewinne ich eine Runde?**  
+Du gewinnst eine Runde, wenn du als erster alle Steine aus deiner Hand
+abgelegt hast. Eine Runde kann auch enden, wenn alle Spieler blockiert sind –
+dann gewinnt derjenige mit der niedrigsten Gesamtaugenzahl auf der Hand.
 
-The game is designed for simple, intuitive drag-and-drop or click-based gameplay.
+**2. Wie wird die Punktzahl berechnet?**  
+Nach Rundenende erhält der Sieger Punkte in Höhe der **Augensumme aller Steine
+in der Hand des Verlierers**. Hat dein Gegner zum Beispiel die Steine [6-5] und
+[2-1] übrig, bekommst du (6+5+2+1) = 14 Punkte.
 
-*   **[DE]** **Play a Tile**: **Click and drag** a domino from your rack to a valid matching end on the board. Alternatively, you can often just **click** the tile you want to play, and it will automatically move to a valid spot if one exists.
+**3. Was ist der Unterschied zwischen "Block"- und "Draw"-Modus?**  
+- Im **Block-Modus** machst du einfach keinen Zug, wenn du keinen passenden
+  Stein hast; dein Zug verfällt.  
+- Im **Draw-Modus** musst du, wenn du nicht legen kannst, solange neue Steine
+  aus dem Vorrat ziehen, bis du einen Stein spielen darfst.
 
-### **Frequently Asked Questions (FAQ)**
-
-**1. How do I win a round?**
-You win a round by being the first player to get rid of all the dominoes in your hand. You can also win if all players are blocked, and you have the lowest total number of pips remaining in your hand.
-
-**2. How is scoring calculated?**
-After a round ends, the winner receives points equal to the **sum of all the pips on the dominoes left in the loser's hand**. For example, if your opponent has a [6-5] and a [2-1] tile left, you score (6+5+2+1) = 14 points.
-
-**3. What's the difference between "Block" and "Draw" mode?**
-*   **[DE]** In **Block Mode**, if you don't have a playable tile, you do nothing and simply skip your turn.
-*   **[DE]** In **Draw Mode**, if you don't have a playable tile, you must keep drawing new tiles from the reserve pile (the "boneyard") until you get a tile that can be played.
-
-**4. What is the "Trophy Road"?**
-The Trophy Road is a progression system where you earn exclusive rewards by playing the game. This likely includes new, collectible tile sets and other cosmetic items.
-
+**4. Was ist die "Trophy Road"?**  
+Die Trophy Road ist ein Fortschrittssystem, über das du exklusive Belohnungen
+freischaltest, während du spielst. Dazu gehören vermutlich neue, sammelbare
+Steinsätze und andere kosmetische Extras.

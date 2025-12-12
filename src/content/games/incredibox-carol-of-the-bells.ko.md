@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-carol-of-the-bells
-title: '[KO] Incredibox Carol of the Bells'
+title: Incredibox Carol of the Bells 캐럴 모드
 description: >-
-  [KO] Discover the festive 'Incredibox Andlbox Carol of the Bells,' a fan-made
-  mod. This guide details its Christmas theme, gameplay for remixing the classic
-  carol, and how to unlock its unique holiday-themed bonuses.
+  크리스마스 캐럴 'Carol of the Bells'를 중심으로 만든 팬메이드 Incredibox 모드 'Incredibox Andlbox
+  Carol of the Bells' 가이드입니다. 캐럴 테마의 사운드와 게임플레이, 특별한 홀리데이 보너스를 여는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/931427102/embed'
 thumbnail: /new-images/incredibox-carol-of-the-bells.png
 tags:
@@ -20,40 +19,64 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **게임 소개**
 
-*Incredibox Andlbox Carol of the Bells* is a charming and festive fan-made mod for the music creation game Incredibox. This version is entirely dedicated to deconstructing and remixing the famous Christmas carol, **"Carol of the Bells."**
+`Incredibox Andlbox Carol of the Bells`는 음악 제작 게임 Incredibox를 기반으로 한
+크리스마스 테마 팬메이드 모드입니다. 이름 그대로 유명 캐럴 **`Carol of the Bells`**
+를 해체해 다시 조합하는 데 초점을 맞추고 있습니다.
 
-The game features a cast of characters dressed in winter and holiday attire, setting a cheerful Christmas mood. Players are given the standard Incredibox interface with 20 sound icons, but here, every single sound is a component of the classic carol. You'll find the iconic four-note melody, layered harmonies, sleigh bell rhythms, and choral vocals, all ready to be mixed.
+캐릭터들은 겨울·연말 분위기의 옷차림을 하고 있으며, 플레이어는 20개의
+사운드 아이콘을 이용해 믹스를 만들게 됩니다. 모든 사운드는 원곡의 요소로
+구성되어 있어, 상징적인 4음 패턴, 층층이 쌓인 화성, 썰매 방울 리듬, 합창
+보컬 등을 마음껏 조합할 수 있습니다.
 
-The objective is to allow players to creatively reconstruct their own version of "Carol of the Bells" while also solving the puzzle of finding the three secret animated bonuses. These bonuses are, of course, themed around Christmas, offering delightful visual rewards for musical experimentation.
+목표는 각자의 방식으로 `Carol of the Bells`를 재구성하면서, 세 가지 비밀
+애니메이션 보너스를 여는 조합을 찾아내는 것입니다. 보너스들은 모두
+크리스마스와 연말 분위기를 담은 연출로, 다양한 조합을 시도할수록 더 많은
+연출을 감상할 수 있습니다.
 
-### **Gameplay Strategy & Tips**
+### **플레이 전략 & 팁**
 
-The strategy in this mod revolves around understanding how the classic carol is broken down and layering the parts to create a rich, festive sound.
+이 모드의 핵심 전략은 원곡이 어떻게 여러 파트로 쪼개져 있는지 이해하고,
+이를 레이어링해 풍부한 캐럴 사운드를 만드는 것입니다.
 
-1.  **[KO]** **Understand the Carol's Components**:
-    *   **[KO]** **Beats**: The rhythm section is filled with festive percussion. Expect to find sounds like **sleigh bells**, deep holiday-themed drum patterns, and rhythmic basslines that provide a steady pulse.
-    *   **[KO]** **Effects**: This category adds the wintery atmosphere. It includes sounds like twinkling chimes, ambient winter wind, and other textural elements that give the mix a magical holiday feel.
-    *   **[KO]** **Melodies**: This is the heart of the mod. It contains the **iconic four-note ostinato** of "Carol of the Bells" played by various instruments or synths. You'll find different melodic layers that can be combined to form the main tune.
-    *   **[KO]** **Voices**: This category contains all the choral and vocal parts of the carol, from the "Hark! how the bells..." lyrics to beautiful, layered harmonies and powerful acapella arrangements.
+1. **캐럴 구성 요소 이해하기**  
+    - **Beats**: 썰매 방울, 깊은 홀리데이 드럼 패턴, 리드미컬한 베이스 등
+     축제 분위기의 퍼커션들이 리듬 섹션을 이룹니다.  
+    - **Effects**: 반짝이는 차임, 겨울 바람 같은 앰비언스 등, 곡의 겨울
+     분위기를 살리는 효과음이 포함됩니다.  
+    - **Melodies**: 모드의 중심으로, 다양한 악기로 연주되는 **4음 오스티나토
+     패턴**과 멜로디 레이어들이 들어 있습니다.  
+    - **Voices**: “Hark! how the bells…”와 같은 가사, 층층이 쌓인 합창, 아카펠라
+     연출 등, 캐럴 특유의 풍성한 보컬 파트가 담겨 있습니다.
 
-2.  **[KO]** **Start with the Main Melody**: A great way to begin is by finding and activating the main four-note melodic pattern from the "Melodies" category. This instantly recognizable tune will serve as the anchor for the rest of your composition.
+2. **메인 멜로디부터 깔기**  
+   먼저 `Melodies`에서 4음 패턴을 찾아 활성화하면, 단번에 캐럴 느낌이
+   살아납니다. 이 패턴을 중심축으로 삼고 나머지 파트를 얹어 가는 것이
+   안정적인 시작입니다.
 
-3.  **[KO]** **Build the Harmony**: Once the main melody is in place, experiment with adding different vocal parts from the "Voices" category. Layering the harmonies on top of the melody will create the rich, full sound the carol is known for.
+3. **화성 쌓기**  
+   메인 멜로디 위에 `Voices` 카테고리의 다양한 합창 파트를 올려 보면,
+   원곡에서 익숙한 풍성한 화성이 자연스럽게 재현됩니다.
 
-4.  **[KO]** **Add Rhythmic Flair**: Don't forget the beats! Adding sleigh bells and a solid drum pattern will give your mix a more modern and energetic feel.
+4. **리듬으로 마무리**  
+   썰매 방울과 드럼 패턴을 더해 주면 보다 현대적이고 에너지 넘치는 캐럴
+   트랙을 만들 수 있습니다.
 
-5.  **[KO]** **Systematic Bonus Hunting**: To find the three festive bonuses, be methodical. Once you have a core mix you enjoy, try swapping out the remaining icons one by one until you trigger one of the special Christmas-themed animations.
+5. **보너스 해금은 체계적으로**  
+   마음에 드는 기본 믹스를 만든 뒤, 남은 아이콘을 하나씩 바꿔 가며 시도하면
+   세 가지 크리스마스 보너스를 보다 효율적으로 찾을 수 있습니다.
 
-### **Controls Guide**
+### **조작 가이드**
 
-The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
+조작은 공식 Incredibox와 동일한 직관적인 드래그 앤 드롭 방식입니다.
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your festive creation.
-
+- **사운드 추가**: 하단의 사운드 아이콘을 드래그해 캐릭터 위에 올려놓습니다.
+- **사운드 제거**: 하단의 활성 아이콘에서 `X`를 누르거나, 새로운 아이콘을
+  덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나 다시 켤 수
+  있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼으로 해당 캐릭터만 남기고 나머지를 모두 뮤트할
+  수 있습니다.
+- **녹음**: 우측 상단 녹음 버튼으로 현재 믹스를 녹음·저장할 수 있습니다.
 

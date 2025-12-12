@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: minigolf-clash
-title: '[ZH TRANSLATION NEEDED] Minigolf Clash'
+title: "《Minigolf Clash》创意迷你高尔夫对决"
 description: >-
-  [ZH TRANSLATION NEEDED] Minigolf Clash serves creative putt‑putt puzzles —
-  read slopes, bank shots, and sink pars on quirky courses.
+  《Minigolf Clash》是一款充满创意障碍与机关的迷你高尔夫游戏，你需要读懂坡度、利用墙角反弹，控制推杆力度，在各类古怪球洞中打出标准杆成绩。
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
 thumbnail: /new-images/minigolf-clash.png
 tags:
@@ -17,26 +16,34 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Minigolf Clash is a casual putting game with creative obstacles, ramps, banks, and moving parts. Your goal is simple—finish holes under par—yet mastering angles and pace unlocks low scores and trick‑shot lines.
+《Minigolf Clash》是一款偏休闲向的推杆高尔夫游戏，关卡中布满了各种富有创意的障碍：高低起伏的坡道、会弹射的墙壁、移动中的风车叶片乃至机关门等。你的目标看似简单——在限定杆数内把球打进洞——但要想稳定打到标准杆甚至更低，就必须精准掌握线路与力度，学会利用反弹与地形优势完成“教科书推杆”。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Pace control: Soft putts around cups prevent lip‑outs; harder hits for uphill ramps.
-2.  [ZH TRANSLATION NEEDED] Clean angles: Use walls to bank at 45° where possible; reduce random ricochets.
-3.  [ZH TRANSLATION NEEDED] Avoid hazards: Favor consistent two‑putts over risky hole‑in‑one attempts.
-4.  [ZH TRANSLATION NEEDED] Learn movers: Time windmills, gates, and pistons; wait for safe windows.
-5.  [ZH TRANSLATION NEEDED] Line rehearsal: Practice putts from similar lies to build reliable muscle memory.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **力度控制优先：** 靠近洞杯时要优先考虑控制力度，轻推可以避免球在洞口高速度“掠洞而出”；上坡或长距离则需要适当加力，避免球滑坡回落。
+2.  **干净的反弹角度：** 尽量用接近 45° 的角度撞墙，通过固定角度反弹来控制球的方向，可以减少随机弹射带来的不可控因素。
+3.  **少冒险，多两杆策略：** 与其一味追求“一杆进洞”的花哨路线，不如多采用“第一杆把球送到洞口附近、第二杆稳稳推入”的两杆策略，更利于在总体杆数上保持稳定发挥。
+4.  **提前看清动态机关：** 面对风车、往复门、活塞平台等移动障碍，建议先观察完整运转周期，找到最宽松的时间窗口再出杆，而不是盲目硬冲。
+5.  **利用类似球位做练习：** 多留意自己常见的击球位置和角度，重复练习这些“典型球位”的推杆路线，可以帮助你形成相对稳定的手感与肌肉记忆。
 
-- Aim: Drag to set direction.
-- Power: Pull back to set strength, release to putt.
-- Restart: Use on‑screen control to retry a hole if allowed.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **瞄准：** 拖拽屏幕或拉动方向线来调整球的出杆方向。
+- **蓄力：** 向后拉动表示加大力度，松手即可完成推杆。
+- **重开球洞：** 在部分模式中，可以通过界面上的重开按钮重新挑战当前球洞，争取更低杆数。
 
-- Why do putts rim out? Too much pace or poor line; slow down near the cup.
-- Any bank‑shot tips? Aim slightly inside the perfect 45° to account for speed loss.
-- How to handle movers? Watch a full cycle first, then commit when timing is clear.
+### 常见问题（FAQ）
 
+- **问：为什么球老是绕洞不进？**
+  
+  **答：** 多半是力度过大或入洞角度太刁钻。靠近洞时适当减小力度，并尽量让球以更平直的路线接近洞口，可以明显减少“绕洞一圈又飞出”的情况。
+
+- **问：反弹球有什么通用技巧吗？**
+  
+  **答：** 可以以 45° 左右的角度撞击球道边缘来做“银行球”（bank shot），同时略微往内侧收一点角度，用来补偿速度衰减造成的偏差。
+
+- **问：怎么处理带有移动障碍的球洞？**
+  
+  **答：** 先花几秒观察风车或门的运动节奏，找到一个安全通过的时间段，再出杆；不要在完全没有把握时强行击球，否则很可能被机关弹回起点，浪费多次击球机会。

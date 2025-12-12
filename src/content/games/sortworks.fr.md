@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: sortworks
-title: '[FR] SortWorks'
+title: 'SortWorks'
 description: >-
-  [FR] SortWorks is a clean sort‑and‑stack puzzler — organize items by rules,
-  plan buffers, and avoid deadlocks under rising pressure.
+  SortWorks est un puzzle de tri et d’empilement épuré : classe les objets
+  selon des règles, gère tes emplacements tampons et évite les blocages
+  alors que la pression monte.
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/sortworks.png
 tags:
@@ -16,35 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation détaillée du jeu
 
+SortWorks mélange tri visuel et contraintes de bacs (couleur / forme /
+type). Les objets arrivent sur des tapis roulants ; tu dois les envoyer
+vers les bons bacs en utilisant des emplacements tampons pour éviter les
+embouteillages. Les niveaux avancés accélèrent le rythme et ajoutent des
+catégories plus vicieuses.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-SortWorks blends visual sorting with bin constraints (color/shape/type). Items arrive on belts; you must route them to correct bins, using buffer slots to prevent jams. Late boards raise speed and add tricky categories.
+1.  **Hiérarchie des règles :** applique d’abord les règles critiques (par
+    exemple dangereux / non‑dangereux), puis affine avec les sous‑catégories.
+2.  **Discipline des tampons :** garde au moins un emplacement tampon libre
+    en permanence.
+3.  **Gérer les items faciles en série :** enchaîne les objets simples pour
+    maintenir les multiplicateurs.
+4.  **Coût de l’erreur :** mieux vaut laisser passer un objet douteux que
+    de le placer dans le mauvais bac.
+5.  **Flux du regard :** regarde en avance sur le tapis, ne te fixe pas
+    uniquement sur l’objet le plus proche.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Rule hierarchy: Apply critical rules first (e.g., hazard vs non‑hazard) then fine categories.
-2.  **[FR]** Buffer discipline: Keep at least one buffer slot free at all times.
-3.  **[FR]** Batch easy items: Chain streaks on simple categories to maintain multipliers.
-4.  **[FR]** Error cost: Skip uncertain items rather than mis‑sort.
-5.  **[FR]** Eye flow: Scan ahead of the belt; don’t tunnel on the nearest item.
+- Fais glisser ou tape sur les objets pour les envoyer dans les bacs ;
+  pause / relance via l’UI ; les indices peuvent parfois surligner la
+  destination.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Drag/tap items to bins; pause/retry via UI; hints may highlight targets.
+- **Je bloque tout le tapis, que faire ?**  
+  Tu satur es tes tampons ; vide d’abord une série d’objets simples pour
+  rouvrir de la place avant de t’attaquer aux difficiles.
 
-### Frequently Asked Questions (FAQ)
+- **Les icônes qui se ressemblent me perdent…**  
+  Apprends 2–3 caractéristiques clés par catégorie (forme, bord, couleur)
+  et trie selon ces repères en priorité.
 
-- Q: I jam belts.
-
-A: You’re consuming buffers; clear an easy batch to reopen space before tackling hard items.
-
-- Q: Similar icons confuse me.
-
-A: Learn 2–3 anchor features per category (shape/edge/color) and sort by those first.
-
-- Q: Do streaks matter?
-
-A: Yes — streaks boost scores; feed them with easy items.
-
+- **Les séries (streaks) sont‑elles importantes ?**  
+  Oui, elles augmentent le score ; nourris‑les avec les objets faciles.

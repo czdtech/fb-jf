@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: wordle
-title: '[ZH TRANSLATION NEEDED] Wordle'
+title: 'Wordle：每日五字猜词'
 description: >-
-  [ZH TRANSLATION NEEDED] Wordle is a popular daily word puzzle game where
-  players have six attempts to guess a five-letter word, using color-coded
-  feedback to deduce the correct letters and their positions in this addictive
-  vocabulary challenge.
+  《Wordle》是一款风靡全球的每日单词猜谜游戏。
+  你有最多六次机会猜出一个五字母英文单词，
+  通过颜色提示推理出正确字母及其位置，是极简却高度上瘾的词汇挑战。
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/wordle.jpg
 tags:
@@ -18,32 +17,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Wordle》是一款规则极其简单、却异常上瘾的英文猜词小游戏。
+每天系统都会选定一个五个字母的秘密单词，你需要在最多六次尝试中把它猜出来。
 
-[ZH TRANSLATION NEEDED] "Wordle" is a popular daily word puzzle game where players have six attempts to guess a five-letter word, using color-coded feedback to deduce the correct letters and their positions. This addictive vocabulary challenge game has become globally popular due to its simple rules and daily puzzle design.
+每次提交一个五字母单词后，格子颜色会给出反馈：
+绿色代表字母和位置都正确，黄色代表字母存在但位置不对，灰色则表示该字母不在答案中。
+依靠这些提示，你需要不断缩小可能范围，最终锁定唯一答案。
 
-### Gameplay Strategy
+### 策略建议
 
-1.  **First Word Choice**: Choose words containing common vowels (A, E, I, O, U) as starting words.
-2.  **Letter Frequency**: Prioritize using the most common letters in English, such as R, S, T, L, N, etc.
-3.  **Position Reasoning**: Based on yellow and green hints, reasonably deduce the correct positions of letters.
-4.  **Elimination Strategy**: Use gray letter information to eliminate impossible combinations.
-5.  **Vocabulary Building**: Expand vocabulary and familiarize yourself with more five-letter words.
+1.  **首个单词的选择（First Word Choice）：**  
+    起手词尽量选择包含多元音（A、E、I、O、U）和高频辅音（R、S、T、L、N）的单词，
+    例如 “ARISE”、“AUDIO”、“SLATE” 等，可以一次性获得大量信息。
+2.  **利用字母频率（Letter Frequency）：**  
+    英文中某些字母出现频率很高，合理围绕这些字母试探，
+    能更快锁定答案结构，同时避开极少用的冷门字母。
+3.  **位置推理（Position Reasoning）：**  
+    根据黄格与绿格的反馈，反推字母可能出现的位置，
+    刻意尝试不同排列组合，而不是执着于同一种摆放方式。
+4.  **排除法（Elimination Strategy）：**  
+    灰色字母同样很重要——它们告诉你哪些字母已经可以彻底排除，
+    下一个尝试尽量避免再使用这些字母，以免浪费机会。
+5.  **长期积累词感（Vocabulary Building）：**  
+    经常玩《Wordle》能够让你逐渐熟悉常见的五字母单词模式，
+    例如常见前后缀和辅音组合，对提升英语词感非常有帮助。
 
-### How to Play
+### 玩法说明
 
-*   **Input Letters**: Use keyboard or on-screen keyboard to input five letters.
-*   **Submit Guess**: Press Enter key to submit the current word guess.
-*   **View Feedback**: Observe color hints: Green (correct position), Yellow (exists but wrong position), Gray (doesn't exist).
-*   **Delete Letters**: Use backspace key to delete input letters.
+*   **输入字母（Input Letters）：** 使用实体键盘或屏幕虚拟键盘输入五个字母。
+*   **提交猜测（Submit Guess）：** 按回车键（Enter）提交当前猜测的单词。
+*   **查看反馈（View Feedback）：** 观察格子颜色：
+    绿色（位置与字母都正确）、黄色（字母存在但位置错误）、灰色（该字母不在答案中）。
+*   **删除字母（Delete Letters）：** 使用退格键删除当前行中多余或错误的字母。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Can I only play once per day?**
-     **A**: Traditional Wordle has one puzzle per day, but many versions offer unlimited mode or historical puzzles.
-2.  [ZH TRANSLATION NEEDED] **Q: What are good starting words?**
-     **A**: Words containing multiple vowels like "ADIEU," "AUDIO," "AROSE" are good choices.
-3.  [ZH TRANSLATION NEEDED] **Q: Can I use proper nouns?**
-     **A**: Usually only accepts common nouns from standard dictionaries, not proper nouns or plural forms.
-4.  [ZH TRANSLATION NEEDED] **Q: How can I improve my word-guessing skills?**
-     **A**: Play more often, learn common letter combinations and word patterns, and expand your vocabulary.
+### 常见问题
+
+1.  **问：每天只能玩一次吗？**  
+   **答：** 经典官方版本每天只提供一个谜题，全球玩家共享同一个答案；
+   但很多衍生版本会提供“无限模式”或历史关卡，可以反复游玩。
+
+2.  **问：有哪些推荐的起手词？**  
+   **答：** 含有多元音且分布均匀的单词非常适合作为开局，
+   比如 “ADIEU”、“AUDIO”、“AROSE” 等，有助于快速探测元音布局。
+
+3.  **问：可以使用专有名词或缩写吗？**  
+   **答：** 一般只接受标准词典中的常用单词，
+   不包括人名、地名、缩写以及大部分复数或变形形式，具体以游戏版本为准。
+
+4.  **问：如何提升自己的猜词水平？**  
+   **答：** 多玩、多总结是关键。熟悉常见字母组合，
+   例如 “CH”、“SH”、“TH” 等，留意哪些单词经常出现，
+   逐步建立自己的“Wordle 词库”，就能更快在六次机会内锁定答案。

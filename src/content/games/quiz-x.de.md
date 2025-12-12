@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: quiz-x
-title: '[DE] Quiz x'
+title: "Quiz x"
 description: >-
-  [DE] Quiz x is a fast quiz show — read prompts, think broadly, and pick
-  best‑fit answers under light time pressure.
+  Quiz x ist eine schnelle Quizshow: Lies die Fragen, denke breit und wähle
+  unter leichtem Zeitdruck die passendste Antwort aus.
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/quiz-x.png
 tags:
@@ -16,36 +16,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Quiz x stellt dir im Schnellfeuer-Modus Fragen aus Allgemeinwissen,
+ Bilderrätseln und einfacher Logik. Punkte gibt es für richtige und schnelle
+ Antworten, Serien von richtigen Antworten („Streaks“) bringen Bonusmultiplikator.
+ Querzudenken und Ausschlussverfahren sind wichtiger als tiefes Spezialwissen.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Ausschlussprinzip:** Streiche zuerst offensichtlich falsche Antworten,
+    bevor du dich festlegst. So erhöhst du die Trefferchance.
+2.  **Kategorie erkennen:** Versuche schnell zu erfassen, ob es um Geografie,
+    Geschichte, Tiere usw. geht, und rufe das entsprechende Grundlagenwissen ab.
+3.  **Streaks pflegen:** Richtige Serien bringen mehr Punkte. Antworte
+    selbstbewusst, aber wenn ein Modus das Überspringen erlaubt, nutze es bei
+    völliger Unsicherheit, um die Serie zu retten.
+4.  **Zeit im Blick:** Verbringe nicht die gesamte Zeit an einer schweren
+    Frage. Eine solide Schätzung ist oft besser als gar keine Antwort.
+5.  **Bildfragen:** Achte auf auffällige Merkmale – Farben von Flaggen,
+    Silhouetten von Bauwerken, typische Tiermerkmale.
 
-Quiz x presents rapid‑fire questions across general knowledge, pictures, and simple logic. Scoring favors speed and correctness; streaks yield bonuses. Broad thinking and elimination beat over‑specialization.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Klicke oder tippe auf die gewünschte Antwort. In manchen Versionen kannst du
+  auch mit Tastenkürzeln antworten oder zwischen Runden pausieren.
 
-1.  **[DE]** Eliminate: Remove obviously wrong options before committing.
-2.  **[DE]** Category scan: Identify topic fast to recall relevant facts.
-3.  **[DE]** Streak management: Answer confidently to keep multipliers; skip if unsure (if allowed).
-4.  **[DE]** Time buffer: Don’t spend the entire timer on one tough question.
-5.  **[DE]** Image prompts: Focus on distinctive features (flags, landmarks, animals).
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Ich blockiere bei schweren Fragen – was tun?**
+  
+  Nutze Ausschluss, wähle die plausibelste Option und konzentriere dich auf die
+  nächste Frage, statt dich zu lange an einer zu verzetteln.
 
-- Click to choose answers; some variants allow keyboard shortcuts; pause between rounds if offered.
+- **F: Bildfragen machen mir Probleme.**
+  
+  Lerne nach und nach häufige Flaggen, Wahrzeichen und Symbole – je öfter du
+  spielst, desto vertrauter werden sie.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I freeze on tough questions.
-
-A: Use elimination and pick the most plausible; preserve streaks by skipping when permissible.
-
-- Q: Picture questions stump me.
-
-A: Learn common flags and landmarks; look for unique colors/shapes.
-
-- Q: Multiplayer?
-
-A: Some builds offer head‑to‑head; read lobby rules.
-
+- **F: Gibt es Mehrspielermodi?**
+  
+  Einige Varianten bieten Duelle oder Lobbys gegen andere Spieler. Lies die
+  Hinweise im jeweiligen Modus, um die Regeln zu kennen.

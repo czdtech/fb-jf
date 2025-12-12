@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: pets-rush
-title: '[DE] Pets Rush'
+title: Pets Rush
 description: >-
-  [DE] A fast-paced and colorful match-3 puzzle! Swap cute pets to make matches
-  of three or more, create powerful combos, and clear the board before the pets
-  reach the top.
+  Pets Rush ist ein schnelles, farbenfrohes Match-3-Puzzle: Tausche süße Tiere,
+  bilde Reihen aus drei oder mehr gleichen Motiven, löse starke Kombos aus und
+  räume das Feld ab, bevor die Tiere den oberen Rand erreichen.
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/pets-rush.jpg
@@ -18,33 +18,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Pets Rush ist ein rasantes Match-3-Spiel mit niedlichem Tier-Theme. Anders als
+ in klassischen Level-Puzzlern spielst du hier im Überlebensmodus: Eine Wand aus
+ bunten Tierblöcken schiebt sich kontinuierlich von unten nach oben, und du
+ musst so schnell wie möglich Kombinationen bilden, damit sie nicht den oberen
+ Bildschirmrand erreicht. Durch das Vertauschen benachbarter Tiere bildest du
+ Reihen von drei oder mehr gleichen Symbolen, löst Kombos aus und hältst das
+ Feld so lange wie möglich sauber, um eine hohe Punktzahl zu erzielen.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Pets Rush is a fast-paced and exciting match-3 puzzle game with an adorable animal theme. Unlike traditional level-based match-3 games, this is a game of survival. A wall of colorful pet blocks continuously rises from the bottom of the screen, and you must frantically make matches to keep it from reaching the top. Swap adjacent pets to create lines of three or more, trigger combos, and clear the board for as long as you can to achieve a high score.
+1.  **Hohe Spalten zuerst abräumen:** Dein Hauptziel ist, zu verhindern, dass
+    eine Spalte ganz nach oben wächst. Priorisiere Matches dort, wo die Blöcke
+    am höchsten stehen.
+2.  **Auf Kombos spielen:** Besonders effektiv sind Kettenreaktionen. Wenn nach
+    einem Match neue Tiere nachfallen und dadurch automatisch die nächste
+    Kombination entsteht, räumst du viel Platz und kassierst mehr Punkte.
+3.  **Schnell denken und handeln:** Je länger du überlegst, desto weiter steigt
+    die Wand. Trainiere deinen Blick, um typische 3er-Muster sofort zu
+    erkennen.
+4.  **Spezialblöcke beobachten:** Achte auf besondere Steine oder Power-ups, die
+    größere Bereiche auf einmal räumen können – ideal, wenn es knapp wird.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Stay Ahead of the Rise:** Your primary goal is to prevent any column from reaching the top of the screen. Always prioritize making matches in your tallest columns to push them back down.
-2.  **[DE]** **Look for Combos:** The most effective way to clear the board is to set up chain reactions. When you make a match, new pets will fall into place. Look for opportunities where clearing one line will cause another match to form automatically. These combos clear more space and award more points.
-3.  **[DE]** **Think Fast, Act Fast:** The wall of pets will rise faster as the game progresses. You need to quickly identify and execute matches to keep up with the increasing speed.
-4.  **[DE]** **Special Blocks:** Keep an eye out for any special blocks or power-ups that might appear. These can help you clear large sections of the board in a pinch.
+Gespielt wird mit einfachen Tauschbewegungen.
 
-### Controls Guide
+*   **Tiere tauschen:** Klicke auf ein Tier und dann auf ein benachbartes, um
+    ihre Positionen zu vertauschen. Alternativ kannst du ein Tier auf ein
+    angrenzendes ziehen. Der Tausch ist nur möglich, wenn dadurch ein gültiges
+    Match entsteht.
 
-The game is played with simple swap controls.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Swap Pets:** Click on a pet and then click on an adjacent pet to swap their positions. You can also click and drag one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
+*   **F: Wann verliere ich?**
+    **A:** Sobald eine Spalte von Tierblöcken den oberen Bildschirmrand
+    berührt, ist das Spiel vorbei.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Wie erreiche ich eine hohe Punktzahl?**
+    **A:** Überlebe so lange wie möglich und setze auf Kettenreaktionen. Mehrere
+    Matches in einem Zug erhöhen deinen Multiplikator und bringen deutlich mehr
+    Punkte.
 
-*   **[DE]** **Q: How do I lose the game?**
-    *   **[DE]** **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.
+*   **F: Kann ich das Aufsteigen der Blöcke anhalten?**
 
-*   **[DE]** **Q: What is the best way to get a high score?**
-    *   **[DE]** **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
+    - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
 
-*   **[DE]** **Q: Is there a way to stop the blocks from rising?**
-    *   **[DE]** **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
+- **Q: Is there a way to stop the blocks from rising?**
 
+    - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
+    **A:** Nur indirekt – jeder erfolgreiche Match stoppt die Wand für einen
+    kurzen Moment. Je schneller du Kombinationen findest, desto besser hältst du
+    sie auf.

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: western-sniper
-title: '[ZH TRANSLATION NEEDED] Western Sniper'
+title: 'Western Sniper：西部狙击手'
 description: >-
-  [ZH TRANSLATION NEEDED] Western Sniper is a quick‑draw shooter — steady aim,
-  manage sway, and pick priority targets across snappy missions.
+  《Western Sniper》是一款节奏紧凑的西部狙击射击游戏。稳住准星、控制呼吸，
+  优先击杀远程威胁与爆炸物，在一关关短小精悍的任务中完成清剿目标。
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/western-sniper.png
 tags:
@@ -15,28 +15,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Western Sniper delivers short missions with bandits, explosives, and moving targets. Success means calm reticles, priority picks (rifles/throwers first), and resource care (ammo/time/bonus objectives).
+《Western Sniper》把你带到充满尘土与枪声的西部小镇，
+每一关都是一场短平快的狙击任务：消灭土匪、引爆炸药桶、击中移动目标。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Priority: Take out ranged threats and explosives.
-2.  [ZH TRANSLATION NEEDED] Hold breath: Time shots at sway minima for accuracy.
-3.  [ZH TRANSLATION NEEDED] Environmental kills: Use barrels/ropes for multi‑downs.
-4.  [ZH TRANSLATION NEEDED] Ammo discipline: Don’t spam; reset aim between shots.
-5.  [ZH TRANSLATION NEEDED] Optional goals: Attempt only when the field is safe.
+想在游戏中表现稳定，你需要保持冷静的瞄准节奏，
+优先清理手持步枪、投掷物的高威胁敌人，同时兼顾时间、弹药与可选任务目标。
+利用环境中的爆炸桶、绳索等机关，一发子弹即可解决多名敌人，是高效狙击手的标志。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-- Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
+1.  **优先击杀远程与爆炸威胁：**  
+    先锁定手持远程武器或靠近炸药的敌人，他们给你的反击压力最大。
+    清理完这些高威胁目标后，再慢慢收拾剩余的敌人。
+2.  **抓准准星最稳定的时机：**  
+    部分关卡中准星会轻微晃动，尝试在晃动幅度最小的瞬间扣动扳机，
+    或在敌人运动轨迹的端点提前预判，从而提升命中率。
+3.  **善用环境击杀：**  
+    爆炸桶、悬挂的重物、绳索等都是你的“隐形子弹”。
+    击中这些物体可以造成范围伤害或触发连环反应，一发子弹清场多名敌人，
+    既省弹药又有极高观赏性。
+4.  **保持弹药节奏：**  
+    不要连续胡乱射击。每开一枪前先调整好瞄准位置，
+    让每一发子弹都有明确目标，这样能避免在关键时刻弹尽粮绝。
+5.  **可选目标先放一边：**  
+    如果关卡有额外挑战目标（例如爆头数、限时通关等），
+    建议在保证自身安全、主要目标已完成后再尝试，避免为了追求加分反而失败重来。
 
-### Frequently Asked Questions (FAQ)
+### 操作指南
 
-- Q: I miss moving targets.
-  
-[ZH TRANSLATION NEEDED]   A: Lead slightly and fire at sway lows; practice pacing.
+- **瞄准：** 使用鼠标移动准星，调整瞄准位置。
+- **射击：** 左键点击开火。若关卡提供“开镜/屏息”功能，可按照界面提示使用，以提升精度。
+- **装弹：** 按界面上的装弹按钮或等待自动装弹，注意把握装弹间隙的安全位置。
 
-- Q: Ammo runs out.
-  
-[ZH TRANSLATION NEEDED]   A: Take measured shots; save bullets by using environment kills.
+### 常见问题（FAQ）
 
+- **问：总是打不中移动的目标怎么办？**  
+  **答：** 对移动目标要稍微“提前量”瞄准，在敌人即将移动到的方向前方开枪，
+  同时选择准星晃动最小的瞬间射击，多练习节奏后命中率会明显提高。
+
+- **问：经常子弹不够用？**  
+  **答：** 尽量做到“一枪一敌”，避免在没有把握时连射。
+  多利用爆炸桶等环境物品进行范围击杀，用少量子弹解决成片敌人，
+  就能在高难度关卡中保留足够弹药完成任务。

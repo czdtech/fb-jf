@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: pou
-title: '[ZH TRANSLATION NEEDED] Pou Game'
+title: 《Pou Game》外星宠物养成
 description: >-
-  [ZH TRANSLATION NEEDED] Pou Game is a virtual pet simulation game where
-  players adopt and care for an alien pet named Pou. Players feed, clean, play
-  with, and customize their Pou, helping it grow and thrive while engaging in
-  various mini-games and activities.
+  《Pou Game》是一款虚拟宠物养成游戏，你将收养一只名叫 Pou
+  的外星小宠物，通过喂食、清洁、陪玩和装扮等日常互动，让它健康成长，并在各种小游戏中一起玩乐。
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/pou.jpg
@@ -20,31 +18,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Pou Game" is a virtual pet simulation game where players adopt and care for an alien pet named Pou. In the game, you need to feed Pou, clean it, play with it, and customize its appearance, helping it grow and stay healthy. The game also includes various mini-games and activities, allowing players to interact more with Pou and earn coins to buy items and decorations.
+《Pou Game》是一款经典的虚拟宠物游戏，你要扮演 Pou 的主人，照顾这只外星小家伙的日常生活。你需要定时给它喂食、帮它洗澡、哄它睡觉，还可以陪它玩小游戏、给它换装、布置它的房间，让 Pou 始终保持开心和健康。随着等级提升，会逐渐解锁更多房间、服装与玩法。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Fulfill Basic Needs**: Timely feed, clean, and put Pou to sleep to maintain its hunger, hygiene, and energy levels.
-2.  **Play and Exercise**: Playing mini-games with Pou increases its happiness and earns coins. Regular exercise also helps maintain its health.
-3.  **Personalize Customization**: Use coins to buy various outfits, accessories, room decorations, and food to make your Pou unique.
-4.  **Explore and Interact**: Unlock and explore different areas to interact more with Pou and discover hidden fun.
-5.  **Earn Coins**: Earn coins by playing mini-games and completing daily tasks, which is key to purchasing items.
+1.  **优先满足基础需求：** 注意观察 Pou 的饥饿、清洁、精力等状态条，当任何一项过低时优先处理，例如喂食、洗澡或让它睡觉，以免长时间处于不健康状态。
+2.  **通过小游戏赚取金币：** 与 Pou 一起玩内置小游戏不仅能让它更快乐，也是获得金币的主要方式。金币可用来购买更多食物、药品、服饰和房间装饰。
+3.  **个性化外观与房间：** 利用商店中的皮肤、帽子、服装和家具，为 Pou 打造独一无二的形象与居住空间，这也是很多玩家的长期动力来源。
+4.  **多探索不同房间：** 游戏中通常包含厨房、浴室、卧室、游戏室等多个场景，多切换房间会解锁更多互动方式和隐藏小玩法。
 
-### How to Play
 
-*   **Tap Icons**: Multiple icons at the bottom of the screen represent functions like feeding, cleaning, playing, and sleeping. Tap to enter the corresponding interface.
-*   **Drag Items**: In the feeding or cleaning interface, drag food or soap onto Pou to perform the action.
-*   **Mini-games**: Tap the mini-game icon to enter the game list, select and start playing.
-*   **Customize**: Tap the wardrobe or room icon to enter the customization interface, select and apply decorations.
+- **Earn Coins**: Earn coins by playing mini-games and completing daily tasks, which is key to purchasing items.
+### 操作说明
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What should I do if Pou gets sick?**
-     **A**: If Pou gets sick, you need to tap the medical room icon and buy the appropriate medicine to treat it. Ensuring Pou gets enough rest is also important.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I make Pou grow faster?**
-     **A**: Pou will gradually grow and level up through continuous feeding, playing, and caring. Completing mini-games and tasks can also accelerate growth.
-3.  [ZH TRANSLATION NEEDED] **Q: Do coins have any other uses besides buying items?**
-     **A**: Coins are primarily used to purchase food, outfits, decorations, and medicine. In some versions, coins can also be used to unlock new mini-games or features.
-4.  [ZH TRANSLATION NEEDED] **Q: Does the game require an internet connection?**
-     **A**: The core gameplay of most Pou games can be played offline, but purchasing certain items, participating in online leaderboards, or updating the game may require an internet connection.
+*   **点击底部图标：** 底栏上的不同图标代表喂食、清洁、游戏、睡觉等不同功能，点击可进入对应界面。
+*   **拖动物品：** 在喂食或洗澡时，可以将食物或肥皂拖到 Pou 身上完成操作。
+*   **进入小游戏：** 点击小游戏图标打开列表，选择一款游戏即可开始游玩。
+*   **装扮与装修：** 点击衣柜或房间图标进入个性化界面，使用金币购买并应用新的外观或家具。
+
+### 常见问题（FAQ）
+
+1.  **问：如果 Pou 生病了怎么办？**
+    **答：** 当 Pou 状态明显不佳时，可以进入医疗房/药品界面，用金币购买相应药物为它治疗，同时保证它有足够休息时间。
+2.  **问：怎样让 Pou 更快成长？**
+    **答：** 坚持每天上线喂养、陪玩与照顾，通过完成小游戏、任务与日常活动积累经验值，Pou 会逐渐升级并解锁更多内容。
+3.  **问：金币除了买食物还有什么用？**
+    **答：** 金币主要用于购买服饰、房间装饰、药品等道具，部分版本还可用于解锁新的小游戏或互动房间。
+4.  **问：这款游戏需要全程联网吗？**
+    **答：** 绝大部分核心玩法（喂养、小游戏等）可以离线进行，但某些在线排行榜、商店更新或云存档功能可能需要联网支持。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: color-burst-3d
-title: '[KO] Color Burst 3D'
+title: Color Burst 3D 컬러 버스트 3D
 description: >-
-  [KO] Master the fast-paced arcade game, Color Burst 3D. This guide provides
-  expert strategies for timing your moves, matching the ball's color to the
-  rotating rings, and surviving to achieve a high score.
+  Color Burst 3D는 움직이는 컬러 링 사이를 통과해야 하는 속도감 있는 아케이드 게임입니다. 공의 색과 회전하는 링의 색을 맞춰
+  타이밍 좋게 돌파하며, 실수 없이 더 많은 링을 통과해 높은 점수를 노려 보세요.
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/color-burst-3d.jpeg
 tags:
@@ -15,45 +14,71 @@ score: 3.8/5  (1487 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
+
+Color Burst 3D는 끝없이 앞으로 나아가는 컬러 볼을 조작해, 회전하는 다색 링들을
+통과시키는 반사 신경형 아케이드 게임입니다. 각 링은 여러 색으로 나뉘어 있으며,
+플레이어는 공이 링에 닿을 때 **공과 같은 색 구간**에만 부딪히도록 위치를
+조절해야 합니다. 다른 색에 조금이라도 닿으면 곧바로 게임 오버입니다.
+
+진행할수록 이동 속도와 링 회전 속도가 빨라지고, 패턴도 복잡해집니다. 공은 링을
+통과할 때마다 색이 바뀌는 경우가 많아, 매번 타깃 색을 재빠르게 바꾸며 대응해야
+합니다. 목표는 가능한 한 오래 살아남아 더 많은 링을 통과하는 것입니다.
+
+### 플레이 전략 & 팁
+
+1.  **타이밍이 최우선**  
+    단순히 위치를 맞추는 게임이 아니라, 회전 속도에 맞춘 **진입 타이밍**이
+    중요합니다. 링이 어느 방향으로 얼마나 빠르게 도는지 확인한 뒤, 원하는 색
+    구간이 공 앞에 도착하는 순간을 예측해 진입하세요.
+
+2.  **작고 정밀한 움직임**  
+    공의 좌우 이동은 민감하게 반응하므로, 크게 휙휙 움직이기보다는 작은 드래그로
+    미세 조정하는 것이 좋습니다. 과한 움직임은 오히려 다음 링 대응을 어렵게
+    만듭니다.
+
+3.  **회전 방향을 미리 읽기**  
+    링이 시계 방향인지, 반시계 방향으로 도는지 먼저 확인한 뒤, 색 구간이
+    "도착할 자리"를 기준으로 공을 맞추는 연습을 해 보세요. 현재 색 위치가 아니라
+    공이 닿을 때의 위치를 상상해야 합니다.
+
+4.  **가능하면 중앙으로 복귀**  
+    링과 링 사이 구간에서는 공을 화면 중앙 근처로 돌려놓는 것이 좋습니다.
+    중앙에 있으면 어느 쪽에서 색이 와도 짧은 이동으로 대응할 수 있어 여유가
+    생깁니다.
+
+5.  **색 변경에 즉시 적응하기**  
+    링을 통과한 직후 공 색이 바뀌면, 바로 다음 링에서 노려야 할 색도 즉시
+    바뀝니다. "지금 공이 어떤 색인지"를 계속 의식하면서, 다음 링에 들어갈 때
+    목표 색을 곧바로 전환해야 합니다.
+
+6.  **전체 링보다 목표 구간에 집중**  
+    링 전체를 보느라 시야를 분산시키기보다, 통과해야 하는 단 하나의 색 구간에
+   만 초점을 맞추는 것이 더 안정적인 경우가 많습니다.
+
+### 조작 방법
+
+-   **공 이동:** 화면 하단 슬라이더 영역을 좌우로 드래그해 공의 가로 위치를
+    조절합니다. 한 손가락으로 조작 가능한 원터치 방식입니다.
 
 
+- **Move the Ball**: **Touch and drag** your finger left and right on the slider at the bottom of the screen to control the ball's horizontal position.
+### 자주 묻는 질문 (FAQ)
 
+**1. 다른 색에 닿으면 어떻게 되나요?**  
+> 공이 자신의 색과 다른 링 구간에 닿는 순간 즉시 게임 오버가 되며, 처음부터
+> 다시 시작해야 합니다.
 
+**2. 공의 색은 언제 바뀌나요?**  
+> 대부분의 상황에서 링을 통과할 때 또는 특정 색 변경 아이콘을 통과할 때 공의
+> 색이 바뀝니다. 매번 새 색을 확인하고 다음 링에서 목표 구간을 다시 설정해야
+> 합니다.
 
-### **Game Introduction**
+**3. 점수를 많이 얻으려면 어떻게 해야 하나요?**  
+> 점수는 통과한 링의 개수에 비례합니다. 오래 살아남을수록 점수가 쌓이니,
+> 무리해서 공격적인 움직임을 하기보다는, 안정적으로 많은 링을 통과하는 방향으로
+> 플레이하는 것이 좋습니다.
 
-*Color Burst 3D* is a fast-paced and addictive arcade game that tests your reflexes and timing. The objective is to **guide a continuously advancing colored ball through a series of rotating, multi-colored rings.**
-
-To successfully pass through each ring, the player must maneuver the ball so that it **collides only with the segment of the ring that matches the ball's current color**. Hitting any other color will result in an instant game over.
-
-As the game progresses, the speed increases, the rings rotate faster, and the patterns become more complex. The ball will often change color after passing through a ring, forcing the player to constantly adapt. The goal is to survive for as long as possible and pass through as many rings as you can to achieve the highest score.
-
-### **Gameplay Strategy & Tips**
-
-1.  **[KO]** **Timing is Everything**: This is a game of rhythm and timing, not just positioning. You need to anticipate the ring's rotation and time your ball's entry to perfectly align with the correct color segment.
-2.  **[KO]** **Small, Precise Movements**: The ball's movement is very sensitive. Avoid making large, sweeping gestures. Use small, controlled left-and-right adjustments to fine-tune your position.
-3.  **[KO]** **Anticipate the Rotation**: Look at the direction and speed the ring is spinning. Don't aim for where the color is now; aim for where it *will be* when your ball reaches the ring.
-4.  **[KO]** **Stay Centered When Possible**: Between rings, it's often a good strategy to return your ball to the center of the screen. This gives you maximum flexibility to move left or right for the next obstacle.
-5.  **[KO]** **Adapt to Color Changes Instantly**: The moment your ball passes through a ring and changes color, your brain needs to immediately switch its target for the next ring. This is a core part of the challenge.
-6.  **[KO]** **Focus on the Gap**: Sometimes it's easier to focus on the "gap" you're aiming for rather than the entire rotating object. Keep your eyes on the prize—the single colored segment you need to hit.
-
-### **Controls Guide**
-
-As shown in the "How to Play" tutorial, the controls are extremely simple and designed for one-touch gameplay.
-
-*   **[KO]** **Move the Ball**: **Touch and drag** your finger left and right on the slider at the bottom of the screen to control the ball's horizontal position.
-
-### **Frequently Asked questions (FAQ)**
-
-**1. What happens if I hit the wrong color?**
-The game ends immediately, and you will have to restart. The core rule is to only touch the color that matches your ball.
-
-**2. Does the ball always change color?**
-Yes, in most games of this type, the ball will change color after successfully passing through a ring or by hitting a special color-changing icon. You must always be prepared to adapt.
-
-**3. How do I get a high score?**
-Your score is directly tied to the number of rings you successfully pass through. The longer you survive, the higher your score will be.
-
-**4. Is this game endless?**
-Yes, *Color Burst 3D* is designed as an endless arcade-style game. The goal is not to reach an end, but to challenge yourself and others to get the highest score possible.
-
+**4. 엔딩이 있는 게임인가요?**  
+> 아닙니다. Color Burst 3D는 끝이 없는 아케이드 스타일 게임으로, 얼마나 높은
+> 점수를 기록하느냐가 핵심입니다.

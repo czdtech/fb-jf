@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: fruit-cube-blast
-title: '[KO] Fruit Cube Blast'
+title: Fruit Cube Blast 프루트 큐브 블래스트
 description: >-
-  [KO] Blast your way through juicy levels in Fruit Cube Blast! Tap groups of
-  matching fruit cubes to create explosive combos and clear the board in this
-  fun and colorful puzzle game.
+  Fruit Cube Blast는 같은 색 과일 큐브를 터치해 한 번에 없애는 "탭 투 블래스트" 퍼즐 게임입니다. 큰 그룹을 터뜨려 폭발적인
+  콤보를 만들고, 다양한 부스터로 스테이지 목표를 달성해 보세요.
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/fruit-cube-blast.jpg
 tags:
@@ -19,37 +18,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike match-3 games where you swap items, in this game, you tap on groups of two or more adjacent, identical fruit cubes to blast them off the board. The goal is to complete level-specific objectives by strategically clearing cubes and creating powerful combos. By blasting larger groups of cubes, you can create special boosters like rockets and bombs to clear even more of the level in spectacular fashion.
+*Fruit Cube Blast*는 밝고 화려한 색감의 블록 퍼즐 게임으로, 같은 색 과일 큐브가
+둘 이상 붙어 있는 그룹을 탭해 한 번에 터뜨리는 방식으로 진행됩니다. 전통적인
+스왑식 매치-3 게임과 달리, 이 게임에서는 큐브를 바꾸는 대신 묶음으로 터뜨리는 것에
+집중합니다. 각 스테이지마다 다른 목표가 주어지며, 큰 그룹을 터뜨려 생성되는
+부스터를 활용해 판을 한 번에 정리하는 것이 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** **Bigger is Better:** Always look for the largest possible group of matching cubes to tap. Tapping a small group of 2 or 3 is less efficient. Larger groups not only clear more space but are also the only way to create powerful boosters.
-2.  **[KO]** **Create and Combine Boosters:** This is the core strategy for winning difficult levels.
-    *   **[KO]** **Rocket:** Tap a group of 5-6 cubes to create a Rocket, which clears a full row or column.
-    *   **[KO]** **Bomb:** Tap a group of 7-8 cubes to create a Bomb, which clears a 3x3 area.
-    *   **[KO]** **Color Wheel:** Tap a group of 9 or more cubes to create a Color Wheel, which clears all cubes of a single color.
-    *   **[KO]** **Combine:** The real power comes from activating two boosters next to each other. For example, a Rocket + Bomb combo clears a huge area.
+1. **큰 그룹 우선:** 2~3개의 작은 그룹보다는, 가능한 한 많은 큐브가 붙어 있는 큰
+   그룹을 노려 터뜨리세요. 큰 그룹만이 강력한 부스터를 만들어 내며, 한 번에 넓은
+   공간을 정리할 수 있습니다.
+2. **부스터 생성 및 조합:** 어려운 스테이지를 깨는 핵심 전략입니다.
+    - **로켓:** 5~6개 정도의 큐브를 한 번에 터뜨리면 가로 또는 세로 줄을 한 번에
+     지우는 로켓이 생성됩니다.
+    - **폭탄:** 7~8개 그룹을 터뜨리면 주변 3×3 영역을 지우는 폭탄이 만들어집니다.
+    - **컬러 휠:** 9개 이상 초대형 그룹을 터뜨리면 특정 색 큐브를 모두 지워 버리는
+     컬러 휠이 나타납니다.
+    - **부스터 조합:** 서로 인접한 두 부스터를 함께 폭발시키면, 단일 부스터보다 훨씬
+     큰 범위를 지울 수 있습니다(예: 로켓+폭탄).
 
-3.  **[KO]** **Plan for Objectives:** Pay attention to the goal. If you need to collect 30 red cubes, focus on matching red cubes. If you need to drop an item to the bottom, focus on clearing the cubes directly beneath it.
-4.  **[KO]** **Conserve Moves:** Each level has a limited number of moves. Don't waste them on small, insignificant matches. Try to set up large matches that will create boosters or cause large cascades.
+3. **목표에 맞춰 턴 사용:** 스테이지마다 요구하는 조건(특정 색 큐브 수집, 바닥까지
+   아이템 떨어뜨리기 등)을 잘 확인하고, 그 목표에 직접 기여하는 그룹을 우선
+   선택하세요.
+4. **이동 수 아끼기:** 각 스테이지에는 제한된 이동 수가 있으므로, 의미 없는 작은
+   그룹은 되도록 피하고, 큰 연쇄 반응을 노릴 수 있는 위치를 먼저 정리하는 것이
+   좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-The controls are extremely simple.
+- **큐브 터뜨리기:** 같은 색 큐브가 두 개 이상 붙어 있는 그룹을 마우스나 손가락으로
+  탭해 제거합니다.
+- **부스터 사용:** 생성된 로켓, 폭탄, 컬러 휠 등 부스터를 탭하면 즉시 발동합니다.
 
-*   **[KO]** **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
-*   **[KO]** **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
 
-### Frequently Asked Questions (FAQ)
+- **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: Why can't I tap on a single cube?**
-    *   **[KO]** **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
+- **Q: 한 개짜리 큐브는 왜 선택이 안 되나요?**  
+  **A:** 이 게임은 최소 두 개 이상 붙어 있는 큐브 그룹만 터뜨릴 수 있습니다.
 
-*   **[KO]** **Q: How do I create a Rocket?**
-    *   **[KO]** **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
+    - **Q: 로켓은 어떻게 만들 수 있나요?**  
+  **A:** 5~6개 정도의 같은 색 큐브를 한 번에 터뜨리면 로켓 부스터가 생성됩니다.
 
-*   **[KO]** **Q: What is the best way to clear a level with limited moves?**
-    *   **[KO]** **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
+- **Q: 이동 수가 적을 때는 어떻게 플레이하는 게 좋나요?**  
 
+    - **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
+
+- **Q: What is the best way to clear a level with limited moves?**
+
+    - **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
+  **A:** 많은 작은 그룹을 연속으로 없애기보다는, 큰 그룹을 만들어 부스터를 생성하고
+  부스터끼리 조합해 한 번에 넓은 구역을 지우는 것이 훨씬 효율적입니다.

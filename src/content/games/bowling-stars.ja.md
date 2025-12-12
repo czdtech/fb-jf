@@ -1,59 +1,41 @@
 ---
+title: "Bowling Stars ボウリング・スターズ"
+description: "「Bowling Stars」で本格的な10ピンボウリングをブラウザで体験。レーンのオイルを読み、角度を決め、ストライクを連発しよう。"
+iframeSrc: "https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/"
+thumbnail: "/new-images/bowling-stars.png"
+urlstr: "bowling-stars"
+score: "4.0/5  (1743 votes)"
+tags: ["sports", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bowling-stars
-title: '[JA TRANSLATION NEEDED] Bowling Stars'
-description: >-
-  [JA TRANSLATION NEEDED] Bowling Stars brings smooth ten‑pin bowling to the
-  browser — read oil, pick angles, and strike consistently.
-iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
-thumbnail: /new-images/bowling-stars.png
-tags:
-  - sports
-  - casual
-score: 4.0/5  (1743 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Bowling Stars*は、狙い（エイム）、パワー、そしてフック（カーブ）のコントロールが楽しめるカジュアルな10ピンボウリングシミュレーションです。ハイスコアの鍵は「安定性」と「スペアの処理」です。リリースのタイミングを調整し、レーンの挙動に合わせてストライクを積み重ねましょう。
 
-[JA TRANSLATION NEEDED] Bowling Stars is a casual ten‑pin bowling sim featuring aim, power, and hook control. Consistency and spare conversion define high scores—dial in your release and adapt to lane behavior to string together strikes.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **ポケットヒット：** 右利きの場合は1番ピンと3番ピンの間、左利きの場合は1番と2番の間（ポケットと呼ばれる場所）を狙いましょう。
+2.  **フックを操る：** 軽くカーブをかけることで、ボールが角度を持ってポケットに入り、ピンが弾け飛ぶアクションが良くなります。
+3.  **スペアのシステム化：** よくある残り方（7番ピンや10番ピンのみなど）に対する角度を覚えましょう。対角線（クロスレーン）を使って狙うのが基本です。
+4.  **テンポが大事：** 毎回バラバラの強さで投げるよりも、スムーズで再現性のあるリリースを心がけましょう。
+5.  **素早い修正：** スプリット（離れたピンが残る難しい配置）が頻発する場合、立ち位置を少しずらすか、フックの強さを弱めて調整しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Pocket hits: For right‑handers, aim between the 1–3 pins; left‑handers, 1–2 pocket.
-[JA TRANSLATION NEEDED] 2.  Control the hook: Add gentle curve so the ball enters the pocket at an angle for better pin action.
-[JA TRANSLATION NEEDED] 3.  Spare system: Memorize spare angles (e.g., 7‑pin and 10‑pin) and use cross‑lane shots.
-[JA TRANSLATION NEEDED] 4.  Tempo matters: A smooth, repeatable release beats random power spikes.
-[JA TRANSLATION NEEDED] 5.  Adjust quickly: If you leave frequent splits, shift your starting line or reduce hook.
+### 操作ガイド
 
-### Controls Guide
+*   **狙い：** 左右にドラッグして投げるラインを決めます。
+*   **パワー：** ホールド（長押し）してから離すことでスピードを決定します。
+*   **フック：** 投げる瞬間にドラッグ/フリックするか、リリース前にスピンパラメータを設定することでカーブをかけられます。
 
-- Aim: Drag left/right to set line.
-- Power: Hold/release to set speed.
-- Hook: Drag/tilt while rolling or set a spin parameter before release.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: スプリットばかり出てしまいます。どうすれば減らせますか？**
+    *   **A:** 制御可能な角度でポケットに入れることが重要です。進入角度が急すぎたり、逆に浅すぎたりするとスプリットになりやすいです。
 
-- How to reduce splits? Enter the pocket at a controllable angle; too steep or too flat increases split chances.
-- Any tip for 7/10? Use cross‑lane shots with enough angle; prioritize spare consistency over hero plays.
+*   **Q: 7番ピンや10番ピンを取るコツは？**
+    *   **A:** レーンを大きく対角線に使って狙いましょう（右端の10番なら左から投げる）。一発逆転を狙うより、確実にスペアを取ることを優先しましょう。
 
-### コントロールガイド
-- Why do I miss light/heavy? Adjust starting position or hook strength by small increments.
-
-
-
-
-
-
-
-
-- Why do I miss light/heavy? Adjust starting position or hook strength by small increments.
-- Any tip for 7/10? Use cross‑lane shots with enough angle; prioritize spare consistency over hero plays.
-- How to reduce splits? Enter the pocket at a controllable angle; too steep or too flat increases split chances.
-### よくある質問（FAQ）
-- Hook: Drag/tilt while rolling or set a spin parameter before release.
-- Power: Hold/release to set speed.
-
-
-- Why do I miss light/heavy? Adjust starting position or hook strength by small increments.
+*   **Q: なぜ狙った場所より右や左にズレるのですか？**
+    *   **A:** 立ち位置を微調整するか、フックの強さを少しずつ変えてみてください。

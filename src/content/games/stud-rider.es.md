@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: stud-rider
-title: '[ES] Stud Rider'
+title: 'Stud Rider'
 description: >-
-  [ES] Stud Rider is a moto hill‑runner — manage momentum, land flat, and link
-  jumps smoothly across rugged tracks.
+  Stud Rider es un juego de moto tipo carreras por colinas centrado en el flujo: gestiona
+  el impulso, aterriza plano y encadena saltos suaves a través de pistas llenas
+  de baches.
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/stud-rider.png
 tags:
@@ -16,31 +17,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Stud Rider apuesta por la sensación de flujo: pequeños toques de acelerador,
+aterrizajes planos y volteretas medidas para mantener la velocidad. El terreno
+irregular castiga los clavados de morro y las rotaciones excesivas; un ritmo
+constante vale más que acrobacias locas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Stud Rider emphasizes flow: small throttle pulses, flat landings, and cautious flips maintain speed. Rough terrain punishes nose‑dives and over‑rotation; consistent cadence beats wild stunts.
+1.  **Aterriza nivelado:** procura caer con la moto lo más plana posible para
+    conservar tracción y velocidad.
+2.  **Acelera con tacto en las crestas:** dosifica el gas al coronar colinas
+    para no «clavar» la rueda delantera al caer.
+3.  **Haz flips con moderación:** solo haz volteretas cuando tengas un arco
+    claro y suficiente altura.
+4.  **Bombea los valles:** aprovecha los cambios de rasante para ganar impulso y
+    corta gas en el aire para estabilizar la moto.
+5.  **Memoriza la longitud de los saltos:** así podrás enlazar mejor los
+    aterrizajes y mantener el ritmo.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Land level to keep traction.
-2.  **[ES]** Feather throttle over crests; don’t stuff the nose.
-3.  **[ES]** Flip sparingly — only with clear arc and altitude.
-4.  **[ES]** Pump dips for speed; cut throttle mid‑air to stabilize.
-5.  **[ES]** Memorize jump lengths for perfect linkups.
+- Acelerar/Frenar: `W`/`S` o flechas arriba/abajo.  
+- Inclinar la moto: `A`/`D` o flechas izquierda/derecha.  
+- Reiniciar: desde la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right; Restart via UI.
+- **P: Siempre hundo la rueda delantera al caer.**  
+  **R:** suelta gas un poco antes del borde del salto, inclínate ligeramente
+  hacia atrás y nivela la moto justo antes de tocar suelo.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep tucking the front.
-
-A: Ease off before lips and lean back slightly, then level out.
-
-- Q: Flips kill my speed.
-
-A: Use only when certain; focus on clean landings.
-
+- **P: Los flips me hacen perder toda la velocidad.**  
+  **R:** úsalos solo cuando tengas recorrido de sobra; el foco debe estar en
+  aterrizajes limpios y rápidos.

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: block-blaster-puzzle
-title: '[ES] Block Blaster Puzzle'
+title: "Block Blaster Puzzle"
 description: >-
-  [ES] Block Blaster Puzzle blends block‑fitting with clears — slot shapes, set
-  up multi‑line blasts, and keep the board breathable.
+  Block Blaster Puzzle combina la colocación de bloques con limpiezas en cadena:
+  encaja las piezas, prepara explosiones de varias líneas y mantén el tablero
+  siempre respirable.
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/block-blaster-puzzle.png
 tags:
@@ -15,45 +16,61 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Block Blaster Puzzle es un juego de colocación de bloques limpio y perfecto para
+partidas cortas. Recibes conjuntos de piezas que debes encajar en una
+cuadrícula; al completar filas o regiones se libera espacio. El éxito depende
+de ir moldeando el tablero para aceptar piezas incómodas más adelante, preparar
+limpiezas de varias líneas y evitar cavidades selladas que ya no se puedan
+rellenar.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You’re given sets of pieces to fit onto a grid; completing rows or regions clears space. Success relies on shaping the board to accept awkward pieces later, staging multi‑line clears, and avoiding sealed cavities that cannot be filled.
+1.  **Higiene de bordes:** Mantén los bordes lo más lisos posible para reducir
+    casillas sueltas aisladas.
+2.  **Reserva huecos:** Deja algunos espacios de 2×2 o de 3 casillas para las
+    piezas incómodas más habituales.
+3.  **Preparar limpiezas múltiples:** Construye pensando en dobles o triples
+    líneas para refrescar el espacio rápidamente.
+4.  **Evita pozos altos:** No caves pozos verticales estrechos que luego no
+    puedas rellenar.
+5.  **Prioriza las piezas difíciles:** Cuando el tablero esté saturado, coloca
+    primero la pieza más complicada.
+6.  **Aprovecha las previsualizaciones:** Si puedes ver las próximas piezas,
+    planifica secuencias completas en lugar de movimientos sueltos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Edge hygiene: Keep borders smooth to reduce isolated single cells.
-2.  **[ES]** Reserve sockets: Leave a few 2×2 or 3‑cell pockets for common awkward pieces.
-3.  **[ES]** Multi‑line setups: Build toward double/triple clears to refresh space quickly.
-4.  **[ES]** Avoid tall wells: Don’t dig narrow vertical shafts you can’t fill later.
-5.  **[ES]** Piece triage: Place the hardest piece first when the board gets crowded.
-6.  **[ES]** Use previews: If next pieces are visible, plan sequences instead of single moves.
+- Arrastra las piezas sobre la cuadrícula; rota si el juego lo permite tocando
+  la pieza o usando un botón de giro.
+- Las opciones de Deshacer/Reiniciar son útiles cuando una colocación arriesgada
+  sale mal.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag shapes onto the grid; rotate if supported by tapping or a rotate button.
-- Undo/Reset are helpful for greedy placements gone wrong.
+- Q: Siempre me quedo sin espacio, ¿cómo puedo aguantar más tiempo?
 
-### Frequently Asked Questions (FAQ)
+  A: Céntrate en preparar limpiezas de varias líneas y mantén un par de huecos
+  flexibles abiertos. Coloca primero tu pieza más difícil cuando la cuadrícula
+  esté muy llena.
 
-- Q: I always run out of space—how can I last longer?
+- Q: ¿Es mejor dejar el centro del tablero libre o rellenar primero los bordes?
 
-A: Focus on multi‑line clears and keep a couple of flexible pockets open. Place your hardest piece first when the grid is tight.
+  A: Procura que el centro se mantenga respirable y ve ordenando los bordes poco
+  a poco; el centro ofrece más flexibilidad para encajar formas raras.
 
-- Q: Should I keep the board center open or fill edges first?
+- Q: Siento que las rotaciones son muy limitadas, ¿hay alguna solución?
 
-A: Keep the center breathable and tidy edges gradually; the center gives the most flexibility for odd shapes.
+  A: No todas las variantes permiten rotar. Prioriza colocaciones simétricas y
+  deja huecos preparados para acomodar las piezas rígidas.
 
-- Q: Rotations feel limited—any workaround?
+- Q: ¿Hay niveles o es un modo infinito por puntuación?
 
-A: Not all variants allow rotation. Prioritize symmetric placements and leave pockets to accommodate rigid pieces.
+  A: Muchas versiones son infinitas; otras tienen objetivos por nivel. En ambos
+  casos, la gestión del tablero es la habilidad clave.
 
-- Q: Are there levels or endless score chase?
+- Q: ¿Cuándo debería usar el deshacer?
 
-A: Many builds are endless; some offer level goals. Either way, board management is the key skill.
-
-- Q: When should I use undo?
-
-A: Undo early when you notice a placement creates sealed cavities or removes your last flexible pocket.
-
+  A: Úsalo pronto en cuanto notes que una colocación crea cavidades selladas o
+  elimina tu último hueco flexible.

@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: mahjongg-solitaire
-title: '[ZH TRANSLATION NEEDED] Mahjongg Solitaire'
+title: "《Mahjongg Solitaire》经典麻将牌连连看"
 description: >-
-  [ZH TRANSLATION NEEDED] Clear the board in Mahjongg Solitaire, the classic
-  single-player tile-matching puzzle game! Find and match identical, unblocked
-  tiles to remove them from the layout. Strategize your moves to expose more
-  tiles and clear the entire board in this timeless brain-teaser.
+  《Mahjongg Solitaire》（又称麻将消除或上海接龙）是一款经典的单人麻将牌配对益智游戏。找出并消除一对对相同且“自由”的牌，解锁被压住的牌面，最终清空整块布局。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/mahjongg-solitaire.jpg
@@ -18,32 +15,31 @@ score: 4.5/5  (256 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Mahjongg Solitaire, also known as Mahjong Solitaire or Shanghai Solitaire, is a popular single-player tile-matching puzzle game. The game uses a set of Mahjong tiles arranged in various multi-layered layouts. The primary objective is to clear the entire board by finding and matching pairs of identical, "free" tiles.
+《Mahjongg Solitaire》（麻将连连看 / 上海接龙）是一款广受欢迎的单人麻将牌配对益智游戏。游戏使用一整副麻将牌，按照多层叠放的立体造型排列在棋盘上。你的目标是在棋盘上不断找出两张相同的“自由牌”并将其配对消除，直到把所有牌全部清空。如果中途把关键牌“锁死”，就可能再也找不到可行的配对组合。
 
-### Gameplay Guide
+### 玩法指南
 
-- **Matching Tiles:** Click or tap on two identical tiles to remove them.
-- **"Free" Tiles:** Only tiles that are "free" can be matched. A tile is free if it has no other tiles directly on top of it and at least one of its long sides (left or right) is unobstructed.
-- **Strategy:** Plan your moves carefully. Removing certain tiles might block others, making the game unsolvable. Prioritize removing tiles that are blocking many other tiles or those that are part of a critical stack.
-- **Special Tiles:** Flower and Season tiles can be matched with any other tile of their respective group, even if they are not identical.
+- **配对牌面：** 点击或轻触两张完全相同图案的麻将牌，即可将它们一起从棋盘上移除。
+- **什么是“自由牌”：** 只有处于“自由”状态的牌才能被选中配对。一张牌被视为自由牌，需要满足两个条件：上方没有任何其他牌压着；它的左侧或右侧至少有一侧不被紧贴的牌块挡住。
+- **策略思路：** 每一步都要谨慎规划。随意消除可能导致某些牌被永久封死，使局面无解。优先移除那些挡住大量牌堆的关键位置，或位于高层、长边的牌块。
+- **特殊牌：** 花牌和季节牌属于特殊组牌——同组内任意两张都可以互相配对，不要求图案完全一致，这在后期解场时非常关键。
 
-### Controls Guide
+### 操作说明
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+- **鼠标 / 触控：** 使用鼠标或手指点击/轻触两张想要消除的牌即可完成配对操作。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] **What is the goal of Mahjongg Solitaire?**
+**问：玩《Mahjongg Solitaire》的最终目标是什么？**
 
-[ZH TRANSLATION NEEDED] The goal is to remove all 144 tiles from the board by matching them in pairs.
+答：标准局面通常使用 144 张麻将牌，目标就是通过不断配对，将所有牌都移入“已完成”区域，把整块棋盘彻底清空。
 
-[ZH TRANSLATION NEEDED] **What happens if I can't find any more matches?**
+**问：如果牌面上已经没有可以配对的自由牌怎么办？**
 
-[ZH TRANSLATION NEEDED] If there are no more available "free" pairs to match, and tiles still remain on the board, the game is lost. Some digital versions offer a "shuffle" or "hint" option.
+答：如果牌面仍然有牌，但已经不存在任何可匹配的自由牌组合，那么本局就被视为失败。有些数字版会提供“洗牌”或“提示”功能，帮助你打乱剩余牌或找到可行配对。
 
-[ZH TRANSLATION NEEDED] **Is there a time limit?**
+**问：这个游戏有时间限制吗？**
 
-[ZH TRANSLATION NEEDED] Some versions of Mahjongg Solitaire are timed, adding an element of urgency, while others allow for a more relaxed pace.
-
+答：部分版本会加入计时或关卡时间限制，让节奏更加紧张；也有不少版本采用完全无时间限制的休闲模式，让你可以慢慢思考、当作放松解压的小憩游戏。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: snake-game
-title: '[KO] Snake Game'
+title: "Snake Game 스네이크 게임"
 description: >-
-  [KO] Snake Game is the classic arcade game where players control a growing
-  snake to eat food items while avoiding collisions with walls and the snake's
-  own body, aiming to achieve the highest possible score.
+  고전 휴대폰으로 익숙한 뱀 게임입니다. 먹이를 먹어 몸을 늘려 가며,
+  벽이나 자기 몸에 부딪히지 않고 최고 점수를 노려 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/snake-game.jpg
 tags:
@@ -18,34 +17,65 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Snake Game*은 단순하면서도 중독성 강한 고전 아케이드 게임입니다.
+플레이어는 뱀을 조종해 맵 곳곳에 나타나는 먹이를 먹으며, 점점
+길어지는 몸을 벽이나 자기 몸에 부딪히지 않게 관리해야 합니다.
 
-### Game Introduction
+최근 버전은 그래픽과 조작감이 개선되었지만, "길어질수록 어려워지는"
+원리는 예전과 동일합니다.
 
-"Snake Game" is the classic arcade game where players control a growing snake to eat food items while avoiding collisions with walls and the snake's own body, aiming to achieve the highest possible score. This game has become one of the most classic works in gaming history due to its simple yet addictive gameplay.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **이동 경로를 미리 계획하기**  
+   즉흥적으로 방향을 틀다 보면 금방 막다른 길에 갇히기 쉽습니다.
+   몇 칸 앞까지 미리 생각하며, 도망갈 통로를 항상 남겨 두세요.
 
-1.  **[KO]** **Path Planning**: Plan the snake's movement path in advance to avoid trapping yourself in dead ends.
-2.  **[KO]** **Space Utilization**: Make full use of every corner of the game area, avoiding wasted space.
-3.  **[KO]** **Rhythm Control**: Adjust movement rhythm as the snake grows, avoiding overly hasty operations.
-4.  **[KO]** **Boundary Awareness**: Always be aware of game boundaries to avoid accidental wall collisions.
-5.  **[KO]** **Body Management**: As the snake body gets longer, manage the snake's body position more carefully.
+2. **맵 구석까지 골고루 활용하기**  
+   맵 중앙만 돌다 보면 몸이 길어질수록 움직일 공간이 없어집니다.
+   초반부터 가장자리와 구석까지 넓게 활용해 뱀의 몸을 정리해
+   두는 것이 좋습니다.
 
-### How to Play
+3. **속도에 맞춰 리듬 조절하기**  
+   점수가 오르며 속도가 빨라지는 버전에서는, 방향 전환 타이밍을
+   일정한 리듬으로 유지하는 것이 중요합니다. 너무 급하게 키를
+   연타하면 자주 실수하게 됩니다.
 
-*   **[KO]** **Move Up**: Press up arrow key or W key to move up.
-*   **[KO]** **Move Down**: Press down arrow key or S key to move down.
-*   **[KO]** **Move Left**: Press left arrow key or A key to move left.
-*   **[KO]** **Move Right**: Press right arrow key or D key to move right.
+4. **경계선(벽) 항상 의식하기**  
+   화면 끝에 가까워질수록 한 번의 방향 전환 실수가 곧바로
+   충돌로 이어집니다. 벽 근처에서는 다음 방향을 미리 정해 둔
+   상태에서 움직이세요.
 
-### Frequently Asked Questions
+5. **길어진 몸 관리하기**  
+   몸이 길어지면 자신의 꼬리 주변을 도는 회전 루트를 만들어 두면
+   공간 관리가 쉬워집니다. U자, S자 형태로 몸을 말아 두되, 출구를
+   하나는 비워 두는 것이 좋습니다.
 
-1.  **[KO]** **Q: Does the snake's movement speed change?**
-**A**: In some versions, as the score increases, the snake's movement speed may gradually increase to add challenge difficulty.
-2.  **[KO]** **Q: How do I get higher scores?**
-**A**: Eat more food to make the snake longer while avoiding death. Each food item typically gives a fixed score.
-3.  **[KO]** **Q: Are there ending conditions for the game?**
-**A**: The game ends when the snake hits walls or its own body; theoretically it can continue indefinitely.
-4.  **[KO]** **Q: Are there different game modes?**
-**A**: Classic versions usually have only one mode, but modern versions may include different challenges and variations.
+### 조작 가이드
+
+- **위로 이동**: 위쪽 방향키 또는 `W` 키  
+- **아래로 이동**: 아래쪽 방향키 또는 `S` 키  
+- **왼쪽 이동**: 왼쪽 방향키 또는 `A` 키  
+- **오른쪽 이동**: 오른쪽 방향키 또는 `D` 키
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 뱀 속도는 계속 빨라지나요?**  
+   **A:** 일부 버전에서는 점수가 오를수록 속도가 조금씩 빨라져
+   난이도가 올라갑니다. 적응이 어렵다면 속도 조절 옵션이 있는지
+   확인해 보세요.
+
+2. **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**  
+   **A:** 가능한 한 오래 살아남는 것이 가장 중요합니다. 먹이를
+   모두 먹더라도 죽으면 점수가 초기화되므로, 무리하지 말고 안전한
+   동선을 유지하는 것이 좋습니다.
+
+3. **Q: 게임이 끝나는 조건은 무엇인가요?**  
+   **A:** 뱀이 벽이나 자신의 몸에 머리부터 충돌하는 순간 게임이
+   종료됩니다. 이론적으로는 끝이 없는 게임입니다.
+
+4. **Q: 모드가 여러 개 있나요?**  
+   **A:** 고전 버전은 한 가지 모드지만, 현대 버전에서는 장애물이
+   추가되거나, 속도가 점점 빨라지는 모드 등 여러 변형이 있을 수
+   있습니다.

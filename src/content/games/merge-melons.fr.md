@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: merge-melons
-title: '[FR] Merge Melons'
+title: Merge Melons
 description: >-
-  [FR] Drop and merge fruits in this addictive puzzle game inspired by Suika
-  Game. Combine identical fruits to create bigger ones, aiming for the giant
-  watermelon, but don't let your container overflow!
+  Lâche et fusionne des fruits dans ce jeu de puzzle inspiré de Suika Game.
+  Combine des fruits identiques pour en créer de plus gros, vise la pastèque
+  géante et ne laisse pas ton récipient déborder !
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/merge-melons.png
 tags:
@@ -13,40 +13,41 @@ tags:
   - casual
   - thinky
 score: 4.7/5  (2990 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Merge Melons est un puzzle physique addictif, souvent appelé « Suika Game » ou « jeu de la pastèque ». Tu laisses tomber différents fruits dans un récipient ; dès que deux fruits identiques se touchent, ils fusionnent pour former le fruit suivant de la chaîne d’évolution. Ton objectif est de créer le plus gros fruit possible — la pastèque — et de marquer un maximum de points sans laisser la pile dépasser la ligne supérieure.
 
+### Stratégies de jeu et progression
 
+1.  **Connaître la chaîne de fruits :** mémorise l’ordre d’évolution des fruits. Savoir ce que donneront deux fruits identiques (par exemple, deux grappes de raisin qui deviennent une orange) est crucial pour planifier tes lancers.
+2.  **Placement réfléchi :** ne lâche pas tes fruits au hasard. Place les petits fruits là où ils auront de fortes chances de rencontrer leur double, et évite de laisser un gros fruit coincer de nombreux petits en dessous.
+3.  **Préparer les réactions en chaîne :** arrange les fruits de façon à ce qu’une fusion en déclenche d’autres en cascade. C’est la clé pour libérer de la place et gonfler ton score.
+4.  **Gérer l’espace :** la partie se termine quand la pile atteint la ligne du haut. Surveille en permanence la hauteur. Parfois, il vaut mieux faire une fusion moins optimale juste pour dégager de la place.
 
-### Detailed Game Introduction
+### Commandes
 
-Merge Melons is a delightful and addictive physics-based puzzle game, famously known as a "Suika Game" or "Watermelon Game." The premise is simple yet captivating: you drop various types of fruits into a container. When two identical fruits touch, they merge into a single, larger fruit of the next type in the evolution cycle. Your goal is to create the largest fruit possible—the watermelon—and achieve the highest score without letting the container overflow.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** **Understand the Fruit Cycle:** Memorize the order of fruit evolution. Knowing what two fruits will create next (e.g., two grapes make an orange) is crucial for planning your drops.
-2.  **[FR]** **Strategic Placement:** Don't just drop fruits randomly. Try to place smaller fruits in positions where they are likely to meet their identical counterparts. Avoid dropping a large fruit on top of a much smaller one, as this can trap the small fruit and waste valuable space.
-3.  **[FR]** **Set Up Chain Reactions:** The most satisfying part of the game is a chain reaction. Try to arrange fruits so that one merge will cause the newly formed fruit to roll or drop and create another merge, and so on. This is key to clearing space and racking up a high score.
-4.  **[FR]** **Manage Your Space:** The game ends when the fruits pile up and cross the line at the top. Always be mindful of how much space you have left. Sometimes it's better to make a less optimal merge just to clear some room.
-
-### Controls Guide
 
 The controls are very straightforward.
+- **Positionner le fruit (PC) :** déplace ta souris à gauche ou à droite pour choisir la zone de chute.
+- **Lâcher le fruit (PC) :** clique pour le laisser tomber.
+- **Sur mobile :** glisse ton doigt pour viser et relâche pour lâcher le fruit.
 
-*   **[FR]** **Position the Fruit (Desktop):** Move your mouse left and right to determine where the fruit will be dropped from.
-*   **[FR]** **Drop the Fruit (Desktop):** Click the left mouse button to release the fruit.
-*   **[FR]** **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q : Quel est le but du jeu ?**  
+  **R :** Obtenir le score le plus élevé possible en enchaînant les fusions de fruits. L’accomplissement ultime est de réussir à créer une pastèque.
+    - **Q : Comment perd‑on la partie ?**  
+  **R :** Tu perds lorsque la pile de fruits touche ou dépasse la ligne au sommet du récipient.
+- **Q : Puis‑je contrôler précisément la direction après une fusion ?**  
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** The main goal is to get the highest score possible by continuously merging fruits. The ultimate achievement within a game is to successfully create a watermelon by merging two of the second-largest fruits.
+    - **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
 
-*   **[FR]** **Q: How do I lose the game?**
-    *   **[FR]** **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
+- **Q: Is there a way to control where the fruits go after they merge?**
 
-*   **[FR]** **Q: Is there a way to control where the fruits go after they merge?**
-    *   **[FR]** **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
+    - **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
+  **R :** Non, la physique fait le reste. En revanche, la façon dont tu positionnes les fruits avant la fusion influence beaucoup la direction dans laquelle le fruit fusionné roulera.
 

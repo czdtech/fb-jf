@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: merge-pirates
-title: '[KO] Merge Pirates'
+title: Merge Pirates 머지 파이러츠
 description: >-
-  [KO] Ahoy, captain! Merge cannons, ships, and pirate gear to build a powerful
-  fleet. Fulfill orders, earn gold, and become the most legendary pirate on the
-  seven seas in this addictive merge puzzle game.
+  Merge Pirates에서는 선장님이 되어 대포와 배, 해적 장비를 머지해 강력한 함대를 꾸리고, 주문을 처리해 골드를 모으며 일곱 바다
+  최고의 전설적인 해적을 노리는 머지 퍼즐 게임을 즐길 수 있습니다.
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/merge-pirates.png
 tags:
@@ -18,33 +17,43 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Merge Pirates*는 해적 선장이 되어 함대를 키우는 머지 퍼즐 게임입니다. 같은 해적
+테마 아이템(대포, 조타륜, 보물지도 등)을 서로 합쳐 더 높은 단계의 장비를 만들고,
+선원들의 주문을 채우며 골드를 모으는 것이 핵심입니다. 모든 전설 장비를 발견해 일곱
+바다에서 가장 악명 높은 선장이 되는 것을 목표로 합니다.
 
-Merge Pirates is a highly addictive and relaxing puzzle game where you take on the role of a pirate captain building your fleet. The gameplay revolves around merging identical pirate-themed items—like cannons, ship wheels, and treasure maps—to create new, higher-level items. Your goal is to fulfill orders for your crew, earn gold coins, and discover all the legendary pirate gear to become the most notorious captain on the seven seas.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **머지 체인 이해:** 게임의 중심은 머지입니다. 같은 아이템 두 개를 겹치면 상위 단계
+   아이템이 생성됩니다. 예를 들어, 작은 대포 두 개는 더 강력한 대포 한 개로 합쳐집니다.
+2. **주문 우선 처리:** 화면 상단에는 선원들이 요청하는 주문이 표시됩니다. 그들이 원하는
+   특정 아이템을 만들어 납품하는 것이 주요 수입원입니다.
+3. **보드 관리:** 보드 칸 수가 한정되어 있어, 가득 찼을 때는 새 상자나 아이템을 받을 수
+   없습니다. 항상 머지를 통해 공간을 확보해 두세요.
+4. **골드 사용:** 얻은 골드는 상점에서 새로운 아이템을 구매하는 데 사용할 수 있습니다.
+   무료 상자만 기다리기보다, 어려운 주문을 위해 필요한 단계의 아이템을 골드로 채워
+   빠르게 진행하는 것이 좋습니다.
 
-1.  **[KO]** **The Merge Chain:** The core of the game is merging. Drag one item and drop it onto an identical item to create a new, upgraded item. For example, two small cannons might merge into a larger, more powerful cannon.
-2.  **[KO]** **Fulfill Orders:** At the top of the screen, you will see orders from your pirate crew. You must create the specific items they are asking for. Fulfilling an order is the primary way to earn gold coins.
-3.  **[KO]** **Manage Your Board:** You only have a limited number of spaces on your board. If it fills up, you won't be able to receive new items. Always try to make merges to keep space free for new deliveries.
-4.  **[KO]** **Use Your Gold:** Spend the coins you earn to buy more items from the shop. This is much faster than waiting for the free crate and is essential for creating high-level items to fill difficult orders.
+### 조작 방법
 
-### Controls Guide
+게임은 드래그 앤 드롭 방식으로 간단히 조작할 수 있습니다.
 
-The game is played with simple drag-and-drop controls.
+* **아이템 머지:** 아이템을 클릭해 드래그한 뒤, 같은 아이템 위에 놓으면 머지됩니다.
+* **아이템 구매:** 상점 아이콘을 눌러 원하는 아이템을 선택하고 골드로 구매합니다
+  (이미 발견한 아이템만 구매 가능).
 
-*   **[KO]** **Merge Items:** Click and drag one item and drop it onto another identical item to merge them.
-*   **[KO]** **Buy Items:** Click on the shop icon and then click the item you wish to purchase.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 새로운 아이템은 어떻게 얻나요?**
+    - **A:** 일정 주기마다 무료 상자에서 기본 아이템이 한 칸에 떨어집니다. 이미 해금한
+    아이템은 골드로 상점에서 직접 구매할 수도 있습니다.
 
-*   **[KO]** **Q: How do I get new items?**
-    *   **[KO]** **A:** A free crate will periodically drop a basic item onto an empty space. You can also use your gold coins to buy any type of item you have previously discovered.
+* **Q: 이 게임의 주요 목표는 무엇인가요?**
+    - **A:** 주문을 완료해 골드를 벌고, 게임에 등장하는 모든 해적 아이템을 수집하는
+    것이 주요 목표입니다.
 
-*   **[KO]** **Q: What is the main goal?**
-    *   **[KO]** **A:** To earn gold by fulfilling orders and to discover all the different pirate items in the game.
-
-*   **[KO]** **Q: My board is full and I can't make any moves. What do I do?**
-    *   **[KO]** **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level item to free up a space.
-
+* **Q: 보드가 꽉 차서 더 이상 움직일 수 없어요.**
+    - **A:** 합칠 수 있는 조합이 없는지 다시 확인해 보고, 정말 없다면 휴지통 아이콘으로
+    낮은 단계 아이템을 처분해 공간을 확보해야 합니다.

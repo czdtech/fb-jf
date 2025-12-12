@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: farming-10x10
-title: '[DE] Farming 10x10'
+title: "Farming 10x10"
 description: >-
-  [DE] Farming 10x10 dresses classic 10x10 block‑fit — place shapes, clear
-  rows/columns, and avoid sealing off precious space.
+  Farming 10x10 kleidet das klassische 10x10-Blockpuzzle im Farmstil neu ein:
+  Platziere Formen, räume Reihen/Spalten ab und halte dir immer genug
+  Spielfeldraum offen.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/farming-10x10.jpg
 tags:
@@ -14,37 +15,46 @@ score: 4.1/5  (1914 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Farming 10x10 ist ein ruhiges Legespiel auf einem 10×10-Raster. Du erhältst
+immer Sets aus drei Formen und platzierst sie so, dass vollständige Reihen oder
+Spalten entstehen und gelöscht werden. Die Runde endet, sobald keine der drei
+aktuellen Formen mehr legal gesetzt werden kann – die Kunst liegt also darin,
+Flexibilität zu bewahren und gleichzeitig gezielt Mehrfach-Löschungen
+vorzubereiten.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Zentrum offen halten:** Lass die Mitte möglichst frei und räume Kanten
+   Schritt für Schritt auf, um einzelne "Ein-Feld-Fallen" zu vermeiden.
+2. **Platz für schwierige Teile reservieren:** Halte eine Ecke oder Zone frei,
+   in die besonders sperrige oder L-förmige Teile gut passen.
+3. **Schwierige Form zuerst legen:** Wenn das Brett voll wird, platziere zuerst
+   die Form, die am schwersten unterzubringen ist.
+4. **Doppel-Löschungen vorbereiten:** Baue Setups, in denen eine einzige Form
+   gleich zwei Reihen/Spalten auf einmal schließt – das bringt mehr Punkte und
+   macht Platz.
+5. **Lange, schmale "Spines" vermeiden:** Erzeuge möglichst keine langen
+   1×n-Streifen, in die praktisch nur noch Stabteile passen.
 
-Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive sets of three pieces; place them to complete rows/columns and score clears. The run ends when no legal placements remain, so the art is in preserving flexibility while constructing multi‑line clears.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Ziehe Formen per Drag & Drop auf das Brett und lasse sie los, um sie zu
+  platzieren.  
+- Einige Varianten erlauben Drehen, andere nicht – das hängt vom Host ab.
 
-1.  **[DE]** Keep the center breathable; tidy edges gradually to avoid single‑cell traps.
-2.  **[DE]** Reserve a pocket sized for the most awkward triominoes.
-3.  **[DE]** Place the hardest piece first when the board is crowded.
-4.  **[DE]** Build two‑line setups so one placement scores double clears.
-5.  **[DE]** Avoid creating 1×n “spines” that only fit sticks.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Mir geht ständig der Platz aus – was kann ich tun?**  
+  **A:** Halte die Mitte flexibel, reserviere eine Ecke für schwierige Teile
+  und plane Doppel-Löschungen, statt nur spontane Einzelreihen zu machen.
 
-- Drag pieces to the board; release to place; some modes allow rotate.
-- Undo/Reset if provided.
+- **F: Warum kann ich nicht drehen?**  
+  **A:** Viele 10×10-Varianten verzichten bewusst auf Rotation. Plane dafür mit
+  klaren Taschen und offenen Bereichen.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep running out of room — solutions?
-
-A: Maintain a central open area, set aside an awkward‑piece pocket, and prioritize double clear setups.
-
-- Q: Rotate is missing?
-
-A: Many 10×10 variants do not rotate; compensate with better pocketing.
-
-- Q: How to chase high scores?
-
-A: Chain doubles and avoid “rescue” singles that break structure.
-
+- **F: Wie erreiche ich hohe Scores?**  
+  **A:** Kette möglichst viele Doppel- oder Mehrfach-Löschungen und vermeide
+  "Rettungszüge", die zwar kurz helfen, aber deine Struktur langfristig
+  zerstören.

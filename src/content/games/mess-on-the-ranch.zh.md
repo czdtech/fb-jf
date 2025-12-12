@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: mess-on-the-ranch
-title: '[ZH TRANSLATION NEEDED] Mess on the Ranch'
+title: "《Mess on the Ranch》牧场大扫除"
 description: >-
-  [ZH TRANSLATION NEEDED] Mess on the Ranch is a tidy‑up puzzler — sort animals
-  and tools, repair fences, and restore order with efficient routing.
+  《Mess on the Ranch》是一款以牧场为背景的整理解谜游戏，你需要在有限步数或时间内，把乱跑的动物赶回围栏、归类工具、修补围栏并清理杂物，让牧场重新恢复井然有序。
 iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
 thumbnail: /new-images/mess-on-the-ranch.png
 tags:
@@ -17,32 +16,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Mess on the Ranch is a charming organizational puzzle. Herd animals back to pens, place tools in the right sheds, fix broken fence segments, and clear debris — all within move or time limits. Levels emphasize route planning and prioritization.
+《Mess on the Ranch》是一款氛围轻松的“整理型”解谜游戏。杂乱的牧场上，到处都是乱跑的牲畜、散落的工具、破损的栅栏与各种垃圾，你需要在关卡给定的步数或时间限制内，合理规划移动路线：先把动物赶回对应的圈舍，再将工具分类送到正确的工具房，修好能连通多条路的围栏缺口，最后顺手清理掉散落在地面的杂物。每一关都像是一道“牧场调度题”，考验的是你的前瞻规划和路径优化能力。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Pen priority: Secure loose animals first to reduce chaos.
-2.  [ZH TRANSLATION NEEDED] Route loops: Plan loops that handle multiple pickups per pass.
-3.  [ZH TRANSLATION NEEDED] Tool matching: Deliver tools to sheds en route rather than backtracking.
-4.  [ZH TRANSLATION NEEDED] Fence triage: Repair segments that unblock multiple tasks.
-5.  [ZH TRANSLATION NEEDED] Bonus goals: Attempt optional cleanups only with spare moves.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **优先安顿牲畜：** 自由乱跑的动物会制造额外干扰，甚至挡住关键路线。开局时尽量先把它们赶回对应的围栏或圈舍，减少场上的混乱程度，再从容处理其他任务。
+2.  **规划循环路线：** 尽可能让每一趟行程都顺带完成多件事，例如在同一路线上先送工具、再修栅栏、顺手捡垃圾，而不是为单个目标反复来回，浪费宝贵步数或时间。
+3.  **沿途投递工具：** 在整理工具时，尽量选择一条可以顺路经过多个工具房的路线，将不同工具按顺序投递，而不是送完一件又原路返回。
+4.  **优先修复关键围栏：** 有些栅栏缺口一旦修好，就能打开通往多个区域的捷径，极大减少来回绕路。优先修复这类“高价值”路口，比先修处在边角、影响不大的围栏更划算。
+5.  **量力而行处理加分目标：** 关卡中常会出现额外垃圾或可选清洁任务，这些多半是额外得分用。如果剩余步数/时间充裕可以顺便完成；但在通关压力很大时，应当果断放弃这些非必需目标。
 
-- Drag/tap to move and interact; context prompts for repair/deliver actions.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过拖动或点击地面格子来控制角色移动和互动，根据提示完成“赶动物”“投递工具”“修理围栏”“清理垃圾”等上下文操作。
 
-- Q: I run out of moves.
+### 常见问题（FAQ）
+
+- **问：总是在还剩一点任务时就步数耗尽怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Combine tasks in a single loop and avoid single‑purpose detours.
+  **答：** 回顾自己的路线规划，尽量把多种任务合并在一条循环路径里完成，减少“为一件小事特地跑一趟”的单一用途路线，整体效率会有明显提升。
 
-- Q: Animals wander off.
+- **问：动物总是跑得到处都是，挡路很烦？**
   
-[ZH TRANSLATION NEEDED]   A: Pen them first, then do tool/fence tasks.
+  **答：** 一般建议在关卡初期就优先把散落的动物集中赶回圈舍，这样后续在牧场中穿梭时会少很多干扰，也不容易在关键转角被动物挡住。
 
-- Q: Timers too tight.
+- **问：计时关卡的时间总觉得不够用？**
   
-[ZH TRANSLATION NEEDED]   A: Ignore optional litter and focus on objectives.
-
+  **答：** 可以暂时无视可选垃圾或额外清洁点，把注意力集中在主目标上：安顿动物、修关键围栏、完成核心整理任务。熟悉关卡布局后，再在有余量的情况下挑战额外目标。

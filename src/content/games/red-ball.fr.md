@@ -1,11 +1,12 @@
 ---
 locale: fr
 urlstr: red-ball
-title: '[FR] Red Ball'
+title: 'Red Ball'
 description: >-
-  [FR] Red Ball is the original physics-based platformer game where players
-  control a bouncing red ball through various levels filled with obstacles,
-  enemies, and puzzles, using momentum and physics to overcome challenges.
+  Red Ball est le premier jeu de plateforme basé sur la physique de la série :
+  tu y contrôles une petite balle rouge rebondissante à travers des niveaux
+  remplis d’obstacles, d’ennemis et de puzzles en jouant sur l’élan et la
+  gravité.
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/red-ball.jpg
@@ -21,31 +22,55 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-"Red Ball" is the original physics-based platformer game where players control a bouncing red ball through various levels filled with obstacles, enemies, and puzzles. The game uses momentum and physics properties to overcome challenges, laying the foundation for subsequent Red Ball series games. The game is known for its simple yet challenging gameplay.
+Red Ball est le jeu fondateur de la série, un platformer basé sur la
+physique où tu guides une balle rouge rebondissante à travers des niveaux
+remplis d’obstacles, d’ennemis et de petits casse‑têtes. En jouant sur
+l’élan, les pentes et la gravité, tu dois atteindre la fin de chaque
+niveau en un seul morceau.
 
-### Gameplay Strategy
+### Stratégies de jeu
 
-1.  **[FR]** **Master Basic Physics**: Learn to utilize the red ball's bouncing and rolling characteristics to navigate levels.
-2.  **[FR]** **Observe Environment**: Carefully observe each level's layout, looking for hidden paths and secrets.
-3.  **[FR]** **Timing Matters**: Many obstacles require precise timing to pass through; wait patiently for the best moment.
-4.  **[FR]** **Defeat Enemies**: Defeat enemies by jumping on them from above, avoiding direct collisions.
-5.  **[FR]** **Explore and Collect**: Look for hidden items and stars to achieve higher scores.
+1.  **Maîtriser la physique de base :** apprends à utiliser le rebond et le
+    roulement de la balle pour franchir les obstacles et atteindre les
+    plateformes.
+2.  **Observer le décor :** regarde attentivement la disposition de chaque
+    niveau et garde l’œil ouvert pour repérer des chemins cachés ou des
+    passages secrets.
+3.  **Soigner le timing :** beaucoup d’obstacles nécessitent un bon sens du
+    rythme. Attends le moment opportun avant de sauter ou de traverser une
+    zone dangereuse.
+4.  **Vaincre les ennemis :** élimine‑les en leur sautant dessus par le
+    haut et évite les collisions directes sur les côtés.
+5.  **Explorer et collectionner :** cherche les objets cachés et les
+    étoiles pour augmenter ton score global.
 
-### How to Play
+### Comment jouer
 
-*   **[FR]** **Move**: Use left and right arrow keys to control the red ball's horizontal movement.
-*   **[FR]** **Jump**: Use the up arrow key or spacebar to make the red ball jump.
-*   **[FR]** **Physics Interaction**: Utilize slopes and gravity to gain extra speed and height.
+*   **Se déplacer :** utilise les flèches gauche et droite pour contrôler
+    le mouvement horizontal de la balle.  
+*   **Sauter :** appuie sur la flèche haut ou la barre d’espace pour
+    sauter.  
+*   **Interagir avec la physique :** profite des pentes et de la gravité
+    pour gagner de la vitesse ou atteindre des hauteurs supplémentaires.
 
-### Frequently Asked Questions
+### Foire aux questions
 
-1.  **[FR]** **Q: What are the differences between the first Red Ball game and subsequent titles?**
-**A**: The first game established the basic physics gameplay mechanics, while subsequent titles added more levels, enemy types, and mechanisms on this foundation.
-2.  **[FR]** **Q: How can I achieve higher scores?**
-**A**: Collect all stars and hidden items in levels, complete levels quickly, and avoid deaths to achieve higher scores.
-3.  **[FR]** **Q: How difficult is the game?**
-**A**: The game starts simple and gradually increases in difficulty, suitable for players of all ages.
-4.  **[FR]** **Q: Is there a time limit?**
-**A**: Most levels don't have strict time limits, but completing them quickly can result in better ratings.
+1.  **Q : Quelles sont les différences entre le premier Red Ball et les
+    épisodes suivants ?**  
+    R : Le premier jeu pose les bases des mécaniques physiques. Les titres
+    suivants ajoutent davantage de niveaux, de types d’ennemis et de
+    mécanismes plus variés.
+
+2.  **Q : Comment obtenir de meilleurs scores ?**  
+    R : Récupère toutes les étoiles et objets cachés, termine les niveaux
+    rapidement et évite de mourir pour maximiser ta note.
+
+3.  **Q : Le jeu est‑il difficile ?**  
+    R : Les premiers niveaux sont assez simples puis la difficulté augmente
+    progressivement, ce qui le rend adapté à tous les âges.
+
+4.  **Q : Y a‑t‑il une limite de temps ?**  
+    R : La plupart des niveaux n’imposent pas de chrono strict, mais finir
+    vite peut améliorer ta note finale.

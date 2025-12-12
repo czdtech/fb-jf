@@ -1,99 +1,49 @@
 ---
+title: "Solitaire Classic"
+description: "時代を超えた一人用カードゲーム、Klondikeとしても知られる。エースからキングまで、すべてのカードをファウンデーションパイルに移動して勝利しよう。"
+iframeSrc: "https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/"
+thumbnail: "/new-images/solitaire-classic.png"
+urlstr: "solitaire-classic"
+score: "4.7/5  (3100 votes)"
+tags: ["card", "puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: solitaire-classic
-title: '[JA TRANSLATION NEEDED] Solitaire Classic'
-description: >-
-  [JA TRANSLATION NEEDED] The timeless single-player card game, also known as
-  Klondike. Move all cards to the foundation piles from Ace to King to win.
-iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
-thumbnail: /new-images/solitaire-classic.png
-tags:
-  - card
-  - puzzle
-  - casual
-score: 4.7/5  (3100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 詳細なゲーム紹介
 
-- **移動する Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
-[JA TRANSLATION NEEDED] Solitaire Classic, also known as Klondike, is one of the most famous and beloved single-player card games in the world. The objective is to organize a shuffled 52-card deck into four foundation piles, one for each suit, in ascending order from Ace to King. The game requires strategy, patience, and a bit of luck as you manipulate cards on the tableau to uncover hidden cards and build your foundations.
+Solitaire ClassicはKlondikeとしても知られ、世界で最も有名で愛されている一人用カードゲームの1つです。目標は、シャッフルされた52枚のカードデッキを、各スートごとに1つずつ、エースからキングまで昇順に4つのファウンデーションパイルに整理することです。ゲームは戦略、忍耐、そして少しの運を必要とします。タブローでカードを操作して隠されたカードを明らかにし、ファウンデーションを構築します。
 
-### Gameplay Strategy & Walkthrough
-- **Q: What is the goal of the game?**（日本語訳が必要）
+### ゲームプレイ戦略とウォークスルー
 
-[JA TRANSLATION NEEDED] 1.  **Game Components:**
-[JA TRANSLATION NEEDED]     *   **The Tableau:** The main playing area, consisting of seven columns of cards. The first column has one card, the second has two, and so on, up to seven. The top card of each column is face-up.
-    - **Empty Tableau Columns:** Only a King (or a sequence starting with a King) can be moved into an empty column on the tableau.（日本語訳が必要）
-### コントロール Guide
-[JA TRANSLATION NEEDED]     *   **The Foundation:** The four empty piles, usually at the top right. This is where you will build your suits, starting with the Ace.
-[JA TRANSLATION NEEDED]     *   **The Stock Pile:** The deck of remaining cards, placed face-down.
-[JA TRANSLATION NEEDED]     *   **The Waste Pile:** Cards drawn from the Stock Pile are placed face-up here.
-- **Q: What happens when I run out of moves?**（日本語訳が必要）
-- **Q: Can I move cards back from the foundation to the tableau?**（日本語訳が必要）
+1.  **ゲームコンポーネント：**
+    *   **タブロー：** メインプレイエリアで、7列のカードで構成されています。最初の列には1枚のカード、2番目には2枚、というように7枚まで続きます。各列のトップカードは表向きです。
+    *   **ファウンデーション：** 通常右上にある4つの空のパイル。ここでエースから始まるスートを構築します。
+    *   **ストックパイル：** 残りのカードのデッキで、裏向きに置かれています。
+    *   **ウェイストパイル：** ストックパイルから引いたカードはここに表向きに置かれます。
 
-[JA TRANSLATION NEEDED] 2.  **Core Rules & Strategy:**
-[JA TRANSLATION NEEDED]     *   **Expose Hidden Cards:** Your first priority should always be to expose the face-down cards in the tableau. Uncovering these cards gives you more options.
-[JA TRANSLATION NEEDED]     *   **Building on the Tableau:** You can move cards between columns in the tableau. Cards must be placed on a card of the next-highest rank and of the opposite color (e.g., a black 7 on a red 8).
-[JA TRANSLATION NEEDED]     *   **Moving to Foundations:** As soon as an Ace becomes available, move it to a foundation pile. Continue to move cards of the same suit in ascending order (Ace, 2, 3, 4...) onto the foundation piles whenever possible.
-[JA TRANSLATION NEEDED]     *   **Using the Stock Pile:** When you have no more moves on the tableau, draw from the Stock Pile. Use the revealed cards to make new moves on the tableau or to build on your foundations.
-[JA TRANSLATION NEEDED]     *   **Empty Tableau Columns:** Only a King (or a sequence starting with a King) can be moved into an empty column on the tableau.
+2.  **コアルールと戦略：**
+    *   **隠されたカードを露出させる：** 最優先事項は、常にタブローの裏向きのカードを露出させることです。これらのカードを明らかにすることで、より多くの選択肢が得られます。
+    *   **タブローで構築：** タブロー内の列間でカードを移動できます。カードは、次に高いランクで反対の色のカード（例：赤の8に黒の7）に置く必要があります。
+    *   **ファウンデーションへの移動：** エースが利用可能になったらすぐに、ファウンデーションパイルに移動します。同じスートのカードを昇順（エース、2、3、4...）でファウンデーションパイルに移動し続けます。
+    *   **ストックパイルの使用：** タブローで移動できなくなったら、ストックパイルから引きます。明らかになったカードを使って、タブローで新しい移動を行うか、ファウンデーションを構築します。
+    *   **空のタブロー列：** キング（またはキングから始まるシーケンス）のみが、タブローの空の列に移動できます。
 
-### Controls Guide
+### 操作ガイド
 
-*   **Move Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
-- **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.（日本語訳が必要）
-- **Auto-移動する to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
-### Frequently Asked Questions (よくある質問)
-*   **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
-*   **Auto-Move to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
+*   **カードを移動：** カード（または有効なカードのシーケンス）をクリックしてドラッグし、1つのパイルから別のパイルに移動します。
+*   **ストックから引く：** 裏向きのストックパイルをクリックして、カード（またはゲームバリアントによっては3枚）をウェイストパイルに引きます。
+*   **ファウンデーションへの自動移動：** 多くのデジタルバージョンでは、カードをダブルクリックすると、移動が有効な場合、自動的に正しいファウンデーションパイルに移動します。
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** The goal is to move all 52 cards into the four foundation piles, sorted by suit and in order from Ace to King.
-
-    - **A:** The goal is to move all 52 cards into the four foundation piles, sorted by suit and in order from Ace to King.（日本語訳が必要）
-    - **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.（日本語訳が必要）
-    - **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.（日本語訳が必要）
-*   **Q: What happens when I run out of moves?**
-[JA TRANSLATION NEEDED]     *   **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
-
-*   **Q: Can I move cards back from the foundation to the tableau?**
-[JA TRANSLATION NEEDED]     *   **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
-
-
-    - **The Tableau:** The main playing area, consisting of seven columns of cards. The first column has one card, the second has two, and so on, up to seven. The top card of each column is face-up.（日本語訳が必要）
-    - **The Foundation:** The four empty piles, usually at the top right. This is where you will build your suits, starting with the Ace.（日本語訳が必要）
-    - **The Stock Pile:** The deck of remaining cards, placed face-down.（日本語訳が必要）
-    - **The Waste Pile:** Cards drawn from the Stock Pile are placed face-up here.（日本語訳が必要）
-    - **Expose Hidden Cards:** Your first priority should always be to expose the face-down cards in the tableau. Uncovering these cards gives you more options.（日本語訳が必要）
-
-
-
-
-
-
-- **Q: What is the goal of the game?**
 ### よくある質問（FAQ）
-- **Auto-Move to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
-- **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
-- **Move Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
-### コントロールガイド
-    - **構築するing on the Tableau:** You can move cards between columns in the tableau. Cards must be placed on a card of the next-highest rank and of the opposite color (e.g., a black 7 on a red 8).
 
-- **Q: What happens when I run out of moves?**
-    - **Moving to Foundations:** As soon as an Ace becomes available, move it to a foundation pile. Continue to move cards of the same suit in ascending order (Ace, 2, 3, 4...) onto the foundation piles whenever possible.（日本語訳が必要）
+*   **Q: ゲームの目標は何ですか？**
+    *   **A:** 目標は、52枚すべてのカードを4つのファウンデーションパイルに移動し、スートごとに分類してエースからキングまで順番に並べることです。
 
-- **Q: Can I move cards back from the foundation to the tableau?**
-    - **Using the Stock Pile:** When you have no more moves on the tableau, draw from the Stock Pile. Use the revealed cards to make new moves on the tableau or to build on your foundations.（日本語訳が必要）
+*   **Q: 移動できなくなったらどうなりますか？**
+    *   **A:** タブローやファウンデーションでこれ以上移動できない場合は、ストックパイルから引く必要があります。ストックパイルも空で移動が不可能な場合、ゲームは負けです。
 
-
-
-    - **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
-- **Q: Can I move cards back from the foundation to the tableau?**
-
-
-    - **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
+*   **Q: ファウンデーションからタブローにカードを戻すことはできますか？**
+    *   **A:** はい、ほとんどのバージョンでは、他のカードを明らかにするのに役立つ場合、ファウンデーションパイルのトップカードをタブローに戻すことができます。これはしばしば重要な戦略的移動です。

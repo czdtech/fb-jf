@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bubble-tower
-title: '[ES] Bubble Tower 3D'
+title: "Bubble Tower 3D"
 description: >-
-  [ES] Take on a new dimension of bubble shooting in Bubble Tower 3D! Rotate the
-  tower, aim your shot, and match three or more colored bubbles to clear the
-  board before the bubbles reach the bottom.
+  Enfréntate a una nueva dimensión del bubble shooter en Bubble Tower 3D.
+  Gira la torre, apunta tus disparos y combina tres o más burbujas del mismo
+  color para limpiar el tablero antes de que alcancen la parte inferior.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/bubble-tower.png
 tags:
@@ -17,36 +17,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bubble Tower 3D añade una tercera dimensión al clásico bubble shooter. En lugar
+de una pared plana, las burbujas se adhieren al exterior de una torre cilíndrica
+en rotación. Tu objetivo es limpiar todos los grupos disparando nuevas burbujas
+desde el cañón de la parte inferior y emparejándolas con al menos otras dos del
+mismo color. La posibilidad de girar la torre introduce una capa extra de
+estrategia: tendrás que buscar el ángulo ideal para cada disparo, crear grandes
+reacciones en cadena y dejar la torre completamente despejada.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **Gira e inspecciona:** Antes de cada disparo, tómate un momento para girar
+    la torre a izquierda y derecha. Así podrás ver toda la disposición de
+    burbujas y planificar mejor. Busca grandes grupos del mismo color o tiros
+    que puedan hacer caer secciones enteras.
+2.  **Aprovecha los tiros con rebote:** Usa las paredes del área de juego a tu favor.
+    Rebotar la burbuja en los laterales puede ayudarte a alcanzar puntos
+    difíciles o a colarte detrás de burbujas que bloquean un tiro directo.
+3.  **Prioriza las burbujas "fundamentales":** Intenta encontrar combinaciones
+    que desprendan grupos grandes de otros colores que cuelgan por debajo. Al
+    hacer estallar un racimo, todas las burbujas que solo estaban conectadas a
+    él también caerán, limpiando la torre mucho más rápido.
+4.  **Usa bien las burbujas especiales:** Presta atención a burbujas especiales
+    como bolas de fuego o bombas. Pueden destruir cualquier burbuja sin importar
+    el color y conviene guardarlas para momentos en los que estés bloqueado o
+    necesites despejar una zona crítica para no perder.
 
-Bubble Tower 3D adds an exciting third dimension to the classic bubble shooter formula. In this game, colorful bubbles are stuck to the outside of a rotating cylindrical tower. Your objective is to clear all the bubbles by shooting a new bubble from your cannon at the bottom and matching it with at least two other bubbles of the same color. The ability to rotate the tower adds a layer of strategy, requiring you to find the best angle for every shot to create massive chain reactions and clear the tower.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+*   **Girar la torre:**
+    *   **Ratón:** Haz clic y arrastra el fondo para girar la torre.
+    *   **Teclado:** Usa las flechas izquierda y derecha.
+*   **Apuntar y disparar:**
+    *   **Ratón:** El cañón apunta automáticamente según la posición del cursor.
+        Haz clic con el botón izquierdo para disparar la burbuja.
 
-1.  **[ES]** **Rotate and Inspect:** Before every shot, take a moment to rotate the tower left and right. This allows you to see the entire layout of bubbles and plan your moves more effectively. Look for large clusters of the same color or strategic shots that could cause a large section to fall.
-2.  **[ES]** **Bank Shots:** Use the walls of the play area to your advantage. Bouncing your bubble off the side walls can help you reach tricky spots or get behind bubbles that are blocking a direct shot.
-3.  **[ES]** **Prioritize Foundational Bubbles:** Look for matches that will detach a large group of differently colored bubbles underneath them. When you pop a cluster, any bubbles that are only connected to that cluster will also fall, clearing the board much faster.
-4.  **[ES]** **Use Special Bubbles:** Pay attention to special bubbles like Fireballs or Bombs. These powerful tools can destroy any bubble, regardless of color, and are best saved for situations where you are stuck or need to clear a critical section to prevent losing.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **P: ¿Cómo gano la partida?**
+    *   **R:** Ganarás cuando hayas eliminado todas las burbujas de la torre.
 
-*   **[ES]** **Rotate the Tower:**
-    *   **[ES]** **Mouse:** Click and drag the background to rotate the tower.
-    *   **[ES]** **Keyboard:** Use the Left and Right arrow keys.
-*   **[ES]** **Aim and Shoot:**
-    *   **[ES]** **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
+*   **P: ¿Qué pasa si no limpio la torre a tiempo?**
+    *   **R:** La columna de burbujas desciende poco a poco. Si alguna cruza la
+        línea inferior de la pantalla, la partida termina.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: How do I win the game?**
-    *   **[ES]** **A:** You win by clearing all the bubbles from the tower.
-
-*   **[ES]** **Q: What happens if I don't clear the bubbles in time?**
-    *   **[ES]** **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
-
-*   **[ES]** **Q: I can't find a match for the bubble in my cannon. What should I do?**
-    *   **[ES]** **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
-
+*   **P: No encuentro combinación para la burbuja del cañón, ¿qué hago?**
+    *   **R:** Primero, gira la torre completa para asegurarte de que no se te
+        escapa ninguna coincidencia. Si realmente no hay, tendrás que hacer un
+        disparo táctico y colocar la burbuja en un lugar donde estorbe lo menos
+        posible o prepare una combinación futura.

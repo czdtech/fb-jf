@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: air-traffic-control
-title: '[ES] Air Traffic Control'
+title: "Air Traffic Control simulador de control aéreo"
 description: >-
-  [ES] Guide aircraft safely in Air Traffic Control — vector planes, avoid
-  conflicts, and coordinate landings in a clean, accessible browser challenge.
+  Air Traffic Control es un juego de gestión en tiempo real donde organizas
+  llegadas y salidas de aviones. Marca rumbos, evita conflictos y coordina
+  aterrizajes seguros desde tu pantalla.
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/air-traffic-control.png
 tags:
@@ -16,34 +17,63 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Air Traffic Control es un juego de gestión en tiempo real, con un enfoque casi
+puzle, sobre secuenciar despegues y aterrizajes manteniendo siempre la
+separación mínima entre aeronaves. Seleccionas aviones, trazas vectores para
+construir patrones ordenados de tramo de viento en cola → base → final y
+secuencias el tráfico de forma que ningún aparato ocupe el mismo espacio al
+mismo tiempo. El bucle central es detectar y resolver conflictos: ver las rutas
+que convergen con antelación, ajustar rumbos y distancias y alimentar la pista
+con un flujo estable y seguro.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Air Traffic Control is a real‑time, puzzle‑like management game about sequencing arrivals and departures while maintaining safe separation. You select aircraft, issue vectors to build orderly downwind–base–final patterns, and sequence traffic so no two aircraft occupy the same space at the same time. The core loop is conflict detection and resolution: spot converging paths early, adjust headings and spacing, and feed aircraft to the runway at a steady, safe cadence.
+1.  **Prioriza los conflictos inminentes:** Resuelve primero las trayectorias
+    que se cruzan a corta distancia. El tráfico que no está en conflicto puede
+    esperar hasta que el "radar" se vea más limpio.
+2.  **Planifica la separación con tiempo:** Genera finales escalonados dando
+    pequeñas diferencias de rumbo o trayectoria mucho antes del punto en el que
+    se juntan. Las decisiones tempranas evitan giros bruscos de última hora.
+3.  **Construye un patrón estándar:** Usa un flujo consistente de viento en cola
+    → base → final. Esto simplifica el escaneo visual y reduce las sorpresas.
+4.  **Aprovecha velocidad/altitud si el modo lo permite:** Si la interfaz lo
+    soporta, pequeños recortes de velocidad o escalones de altitud ayudan a
+    ganar separación sin necesidad de grandes desvíos.
+5.  **Mantén la pista libre:** No envíes otro avión a corta final si la pista
+    sigue ocupada o uno de los aparatos tarda en desalojarla.
+6.  **Evita sobre‑vectorear:** Cada giro extra incrementa la carga de trabajo y
+    puede generar nuevos conflictos. Es mejor dar pocos vectores pero claros y
+    decisivos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Prioritize imminent conflicts: Resolve the closest crossing paths first; defer non‑conflicting traffic until the picture is stable.
-2.  **[ES]** Plan early spacing: Create staggered finals by giving small heading or path differences well before the merge; early decisions prevent last‑second turns.
-3.  **[ES]** Build a standard pattern: Use a consistent downwind → base → final flow; it simplifies visual scanning and reduces surprises.
-4.  **[ES]** Use altitude/speed if available: If the UI supports it, small speed reductions or altitude offsets add separation without large turns.
-5.  **[ES]** Keep the runway clear: Don’t feed another arrival to short final if the runway is still occupied or an aircraft is slow to vacate.
-6.  **[ES]** Avoid over‑vectoring: Each extra turn adds pilot workload and increases the chance of new conflicts—prefer minimal, decisive vectors.
+Los controles exactos pueden variar según la versión, pero suelen incluir:
 
-### Controls Guide
+- **Seleccionar avión:** Haz clic o toca la etiqueta/objetivo del avión.
+- **Marcar ruta o rumbo:** Haz clic en puntos del mapa o arrastra para dibujar
+  una trayectoria corta; algunas versiones ofrecen botones de rumbo en pantalla.
+- **Gestionar velocidad/altitud (si está disponible):** Usa las flechas o
+  botones de la interfaz para hacer ajustes pequeños y graduales.
+- **Asignar pista o aproximación (si está disponible):** Elige la pista o punto
+  de entrada cuando secuencies a final.
 
-Controls vary by version but commonly include:
+### Preguntas frecuentes (FAQ)
 
-- Select aircraft: Click or tap an aircraft label/target.
-- Set path/heading: Click waypoints on the map or drag to draw a short path; some versions provide on‑screen heading buttons.
-- Manage speed/altitude (if available): Use the UI arrows or buttons to make small adjustments; keep changes incremental.
-- Assign runway/approach (if available): Choose a runway or approach fix when sequencing to final.
+- **¿Cómo evito colisiones?**  
+  Mantén separación horizontal dando vectores con antelación y, si el modo lo
+  permite, combina pequeñas diferencias de velocidad para abrir huecos.
 
-### Frequently Asked Questions (FAQ)
+- **¿Qué es una alerta de conflicto?**  
+  Señala una posible pérdida de separación prevista. Ajusta de inmediato el
+  rumbo de uno o ambos aviones para que sus trayectorias diverjan.
 
-- How do I avoid collisions? Maintain horizontal separation by issuing early vectors; if available, combine gentle speed differences to open gaps.
-- What does a conflict alert mean? It indicates predicted loss of separation; immediately adjust one or both aircraft to diverging headings.
-- Can I pause or change speed? Many browser versions support pause or time controls; use them to plan sequences when the board is busy.
-- Any tip for heavy traffic? Standardize the pattern and meter entries; resolve conflicts far from the runway so the final stays stable.
+- **¿Puedo pausar o cambiar la velocidad del juego?**  
+  Muchas versiones de navegador incluyen pausa o control de tiempo. Úsalos para
+  planificar la secuencia cuando el tráfico esté muy cargado.
 
+- **¿Algún consejo para tráfico intenso?**  
+  Estandariza el patrón y regula las entradas. Resuelve los conflictos lejos de
+  la pista para que el tramo final se mantenga lo más estable y predecible
+  posible.

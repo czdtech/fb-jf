@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: getting-over-it
-title: '[DE] Getting over it'
+title: "Getting over it"
 description: >-
-  [DE] Climb‑with‑a‑hammer challenge: swing, pogo, and drag a cauldron man up
-  surreal obstacles; precision physics punish impatience.
+  Getting Over It ist eine Kletter-Herausforderung mit Hammerphysik: Schwinge,
+  pogo und ziehe einen Mann im Kessel über surreale Hindernisse – jede kleine
+  Unachtsamkeit kann dich weit zurückwerfen.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/getting-over-it.jpg
 tags:
@@ -14,31 +15,45 @@ score: 5.0/5  (226 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Getting Over It ist ein Präzisionskletterspiel, in dem du ausschließlich einen
+Hammer kontrollierst. Durch Schwingen, Pogo-Sprünge und Einhaken manövrierst du
+einen Mann im Kessel über Felsen, Türme und wacklige Vorsprünge. Das Design
+lebt vom Rückschritt: Ein winziger Fehler kann dich minuten- oder sogar
+stundenweit zurückfallen lassen – und zwingt dich, deinen Weg neu zu erarbeiten.
 
+### So spielst du
 
+- Setze den Hammer an stabilen Kanten an, bevor du drückst; kurze, schnelle
+  Bewegungen erzeugen Pogo-Sprünge.
+- Verknüpfe Schwünge, um horizontale Bewegung in Höhe umzuwandeln.
+- Nach einem Sturz: Nimm dir einen Moment, deinen Rhythmus neu zu finden –
+  Hektik führt fast immer zu weiteren Fehlern.
 
-### Overview
-Getting Over It is a precision physics climb where you control only a hammer. By swinging, pogoing, and hooking the hammer, you haul a man in a cauldron up cliffs, towers, and precarious ledges. The design embraces loss: a small mistake can drop you back minutes—or hours—forcing you to rebuild progress. Mastery comes from learning anchor spots, momentum arcs, and gentle mouse angles rather than brute force.
+### Steuerung
 
-### How to Play
-- Plant the hammer on stable edges before pushing; quick flicks create pogo launches.
-- Chain swings to convert horizontal motion into vertical lift.
-- After falls, reset your rhythm—rushing causes repeat mistakes.
+- Die Maus steuert Winkel und Kraft des Hammers; Tastatureinsatz ist minimal
+  (abhängig vom Host).
 
-### Controls
-- Mouse controls hammer angle and force; minimal keyboard use (host dependent).
+### Tipps
 
-### Tips
-- Use gentle circular motions for controlled swings; avoid jerky inputs.
-- Identify safe anchor “pockets” before committing to big moves.
-- Practice notorious sections (Devil’s Chimney, Orange, Towers) until muscle memory forms.
+- Nutze sanfte Kreisbewegungen für kontrollierte Schwünge und vermeide harte,
+  ruckartige Eingaben.
+- Suche dir sichere "Ankerpunkte", bevor du große Sprünge ansetzt.
+- Übe berüchtigte Abschnitte wie den "Devil's Chimney", die Orange oder die
+  Türme so lange, bis Bewegungen in Fleisch und Blut übergehen.
 
 ### FAQ
-- Q: How do I stop sliding off edges?
-A: Keep the hammer slightly below the lip to maintain friction and stability.
-- Q: What is the fastest way past the early chimney?
-A: Small pogo hops with controlled angles are safer than risky full launches.
-- Q: Can I lose all progress with one mistake?
-A: Yes, large falls are part of the design; patience is the core skill.
 
+- **F: Wie verhindere ich, dass ich von Kanten abrutsche?**  
+  **A:** Halte den Hammer leicht unterhalb der Kante, damit er mehr Reibung und
+  Stabilität bekommt.
+
+- **F: Was ist der sicherste Weg durch den ersten Kamin?**  
+  **A:** Kleine, kontrollierte Pogo-Sprünge sind wesentlich sicherer als
+  riskante Vollpower-Sprünge.
+
+- **F: Kann ich mit einem Fehler den gesamten Fortschritt verlieren?**  
+  **A:** Ja – große Abstürze sind Kernbestandteil des Spiels. Geduld und
+  Gelassenheit sind die wichtigste "Mechanik".

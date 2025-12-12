@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: om-nom-connect-classic
-title: '[ES] Om Nom Connect Classic'
+title: Om Nom Connect Classic - Conecta fichas con Om Nom
 description: >-
-  [ES] Connect with Om Nom in this classic tile-matching puzzle! Find pairs of
-  identical tiles featuring Om Nom and his friends, and clear the board by
-  linking them with a path of no more than two turns.
+  Conéctate con Om Nom en este clásico puzle de emparejar fichas. Encuentra
+  parejas idénticas con Om Nom y sus amigos y limpia el tablero conectándolas
+  con un camino que no tenga más de dos giros.
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/om-nom-connect-classic.jpg
@@ -19,33 +19,49 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Om Nom Connect Classic es un puzle rápido de conectar fichas protagonizado por
+los adorables personajes del universo Cut the Rope. El objetivo es limpiar el
+ tablero encontrando y conectando parejas de fichas idénticas. La dificultad
+está en la regla de conexión: solo podrás eliminar una pareja si el camino entre
+ellas tiene como máximo dos giros de 90 grados. Con el tiempo corriendo, tendrás
+que ser rápido y pensar con estrategia para superar cada nivel.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Om Nom Connect Classic is a fun and fast-paced tile-matching puzzle game featuring the adorable characters from the Cut the Rope universe. The goal is to clear the board by finding and connecting pairs of identical tiles. The challenge lies in the connection rule: a pair can only be removed if the path between them has no more than two 90-degree turns. With a timer counting down, you'll need to be quick and strategic to complete each level.
+1.  **Regla de conexión:** solo puedes eliminar dos fichas iguales si puedes
+    trazar una línea entre ellas con un máximo de dos quiebros (formas tipo L,
+    Z o U). Además, el camino debe estar libre de otras fichas.
+2.  **Escanear los bordes:** los emparejamientos más sencillos suelen estar en
+    la periferia del tablero. Empieza revisando el perímetro para encontrar
+    parejas adyacentes o que puedas unir con una línea recta.
+3.  **Pensar a futuro:** cada pareja que eliminas abre nuevas rutas. Busca
+    emparejamientos que despejen caminos hacia fichas más encerradas,
+    especialmente las del centro.
+4.  **Usar pistas y barajados:** si te quedas atascado, usa una pista para que
+    el juego te muestre una pareja válida. Si realmente ya no hay movimientos
+    posibles, recurre al botón de barajar para reorganizar las fichas y crear
+    nuevas oportunidades.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **The Connection Rule:** You can only match two identical tiles if you can draw a line between them with a maximum of two bends (L-shape or Z/U-shape). The path must also be clear of any other tiles.
-2.  **[ES]** **Scan the Edges:** The easiest matches are often on the outside of the grid. Start by quickly scanning the perimeter for adjacent pairs or those that can be connected with a straight line.
-3.  **[ES]** **Think Ahead:** Every pair you remove opens up new possibilities. Try to make matches that will clear a path to other potential pairs, especially those trapped in the center of the board.
-4.  **[ES]** **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a valid pair. If you completely run out of moves, use the shuffle button to rearrange all the tiles on the board and create new matching opportunities.
+El juego se maneja con clics o toques sencillos.
 
-### Controls Guide
+*   **Seleccionar fichas:** haz clic en una ficha para marcarla y luego en su
+    pareja idéntica. Si el camino cumple las reglas, ambas fichas desaparecerán.
 
-The game is played with simple clicks or taps.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Select Tiles:** Click on a tile to select it, then click on its identical partner. If the connection is valid according to the rules, the pair will be removed.
+*   **P: ¿Por qué no puedo conectar dos fichas iguales?**
+    *   **R:** Porque el camino entre ellas está bloqueado por otra ficha, o
+        porque la línea necesitaría más de dos giros de 90 grados.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué pasa si se acaba el tiempo?**
+    *   **R:** Fallas el nivel y tienes que empezar de nuevo. Aquí la rapidez y
+        el reconocimiento visual cuentan mucho.
 
-*   **[ES]** **Q: Why can't I connect two identical tiles?**
-    *   **[ES]** **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.
-
-*   **[ES]** **Q: What happens if the timer runs out?**
-    *   **[ES]** **A:** You will fail the level and have to start over. Speed and quick recognition are key!
-
-*   **[ES]** **Q: What's the best strategy for finding matches quickly?**
-    *   **[ES]** **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
-
+*   **P: ¿Cuál es la mejor estrategia para encontrar parejas rápido?**
+    *   **R:** No te quedes mirando una sola ficha demasiado tiempo. Mantén la
+        vista en movimiento y recorre todo el tablero. A veces pasas por alto
+        las parejas más obvias por enfocarte demasiado en un área concreta.

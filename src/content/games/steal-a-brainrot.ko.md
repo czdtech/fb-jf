@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: steal-a-brainrot
-title: '[KO] Steal a Brainrot'
+title: 'Steal a Brainrot 스틸 어 브레인롯'
 description: >-
-  [KO] Discover the chaotic Roblox experience, 'Steal a Brainrot.' Learn the
-  gameplay of this meme-filled game where you snatch brainrot characters like
-  Skibidi Toilet and escape guards. Find tips, strategies, and more.
+  Steal a Brainrot는 Roblox에서 즐길 수 있는 액션·잠입 게임으로, 엄중 경비를
+  뚫고 인터넷 밈 "Brainrot" 캐릭터를 훔쳐 기지로 가져오는 것이 목표입니다.
+  스키비디 화장실 같은 밈 캐릭터를 들고 경비를 피해 도망쳐 보세요.
 iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
 thumbnail: /new-images/steal-a-brainrot.webp
 tags:
@@ -17,53 +17,84 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Steal a Brainrot*는 Roblox 플랫폼에서 인기 있는 멀티플레이 액션·잠입 게임입니다.
+플레이어의 목표는 철통같이 경비되는 구역에 잠입해, 의인화된 인터넷 밈
+"Brainrot" 캐릭터를 훔쳐 자신 팀의 기지로 무사히 가져오는 것입니다.
 
+보물이나 서류를 훔치는 대신, **Skibidi Toilet**, **Sigma Face**, **The Rizzler**
+같은 밈 캐릭터를 납치해 오는 구조라, 진지한 잠입 플레이와 황당한 인터넷
+밈이 뒤섞이면서 특유의 웃음을 만들어 냅니다.
 
-### **Steal a Brainrot Game Introduction**
+맵은 함정과 장애물, 순찰 경비가 가득한 복잡한 구조로 설계되어 있습니다.
+지형과 도구, 팀워크를 잘 활용해 경비의 시야를 피하고, 보안 장치를 무력화한 뒤
+목표 Brainrot까지 접근해야 합니다. 캐릭터를 확보한 뒤에는, 알람과 추격을
+피하며 더 위험해진 탈출 루트를 돌파해야 점수 또는 승리를 얻을 수 있습니다.
 
-*Steal a Brainrot* is a popular multiplayer action-stealth game on the Roblox platform, with a core gameplay loop centered around a humorous and absurd objective: **infiltrate a heavily guarded area, steal a personified internet "Brainrot" character, and successfully bring it back to your base.**
+### 플레이 전략 & 팁
 
-The game blends the classic "capture the flag" or "heist" genre with the most current internet meme culture. Instead of stealing treasure or documents, players are tasked with snatching iconic "Brainrot" characters like **Skibidi Toilet, Sigma Face, The Rizzler**, and others.
+1.  **정찰이 절반:**
+    시작하자마자突진하지 말고, 먼저 맵 구조와 경비 동선을 관찰하세요.
+    카메라 사각지대, 숨을 수 있는 위치, 가장 짧고 안전한 경로를 파악하는
+    것이 중요합니다.
+2.  **팀워크가 핵심:**
+    이 게임은 기본적으로 팀 단위 플레이에 최적화되어 있습니다. 역할 분담을
+    해 두면 성공 확률이 크게 올라갑니다.
+    *   **미끼 역할:** 일부러 경비를 끌어당겨 다른 팀원이 몰래 지나갈 수 있는
+        틈을 만들어 줍니다.
+    *   **지원 역할:** 함정을 해제하거나 잠긴 문을 여는 등, 후방 지원을 맡습니다.
+    *   **러너:** 발이 빠른 플레이어가 최종적으로 Brainrot를 들고 달리는 역할을
+        담당합니다.
+3.  **장비는 타이밍:**
+    섬광탄, 잠깐 투명해지는 물약 등 잠입을 도와주는 여러 아이템이 등장합니다.
+    위기 상황에서 한 번 잘 쓰면 판세를 완전히 뒤집을 수도 있으니, 아끼다
+    쓰지 못하는 일은 없도록 하세요.
+4.  **소음을 줄이기:**
+    대부분의 잠입 게임과 마찬가지로, 웅크리거나 천천히 움직이면 발소리가
+    줄어들어 경비에게 들킬 확률이 낮아집니다. 경비 근처에서는 전력 질주를
+    피하세요.
+5.  **진입·탈출 경로 분리:**
+    Brainrot를 들고 나올 때는 속도가 느려지거나, 알람이 울려 경비가 몰려
+    올 수 있습니다. 들어갈 때 사용한 길이 아닌, 더 짧거나 엄폐물이 많은
+    별도의 탈출 루트를 미리 생각해 두는 편이 안전합니다.
+6.  **Brainrot 특성 파악:**
+    일부 버전에서는 Brainrot마다 특성이 다를 수 있습니다. 덩치가 큰 대상은
+    이동 속도를 느리게 만들고, 계속 소리를 내는 Brainrot는 위치를 들킬
+    위험이 커지는 식입니다.
 
-The game map is typically designed as a complex area filled with obstacles, traps, and patrolling guards. Players must utilize the terrain, various gadgets, and teamwork to evade the guards' line of sight, disable security systems, and finally reach the target "Brainrot." Once they "capture" it, they must carry it back along what is often a more perilous escape route to score points or secure a win.
+### 조작 방법 안내
 
-The fun of the game largely derives from its chaotic, unpredictable multiplayer interactions and the comedic effect of combining serious stealth gameplay with ridiculous internet memes.
+Roblox 게임답게 기본 조작은 플랫폼 공통 키 배열을 따릅니다.
 
-### **Gameplay Strategy & Tips**
+*   **이동:** `W`, `A`, `S`, `D`
+*   **점프:** `Space`
+*   **달리기:** `Shift` 길게
+*   **웅크리기/잠행:** `Ctrl` 또는 `C`
+*   **상호작용/훔치기:** `E` 또는 `F`
+*   **아이템 사용:** 숫자 키 `1`, `2`, `3`… 또는 `Q`
 
-1.  **[KO]** **Recon is Half the Battle**: Don't just rush in blindly at the start. Take a moment to observe the map layout and the patrol routes of the guards. Identify camera blind spots, hiding places, and the shortest, safest paths to the objective.
-2.  **[KO]** **Teamwork is Crucial**: This is primarily a team-based game. Assigning roles can significantly increase your chances of success.
-    *   **[KO]** **Decoy**: One player can intentionally draw the attention of guards to create an opening for others to sneak past.
-    *   **[KO]** **Support**: Other players can focus on disabling traps or opening locked doors.
-    *   **[KO]** **Runner**: The fastest or most agile player on the team, responsible for executing the final "steal" once the path is clear.
-3.  **[KO]** **Use Your Gadgets Wisely**: The game usually provides various items to aid your stealth, such as a flashbang to temporarily blind guards or a potion for brief invisibility. Using these items at the right moment can be a game-changer.
-4.  **[KO]** **Maintain a Low Profile**: In most stealth games, crouching or moving slowly reduces the noise you make, making you harder for guards to detect. Avoid sprinting when guards are nearby.
-5.  **[KO]** **Plan a Different Escape Route**: After you steal the objective, you might move slower, or an alarm might trigger, alerting all guards to your position. Plan an escape route that is different from your entry path—perhaps one that is more direct or offers more cover.
-6.  **[KO]** **Know Your "Brainrot"**: In some versions of the game, different "Brainrots" might have unique properties. For example, stealing a larger "Brainrot" might make you move slower, while stealing one that makes noise will constantly give away your position.
+### 자주 묻는 질문(FAQ)
 
-### **Controls Guide**
+**1. 어디에서 이 게임을 플레이할 수 있나요?**
 
-As a Roblox game, the controls follow the platform's standard format.
+Roblox 플랫폼에서 무료로 즐길 수 있습니다. Roblox 앱이나 웹사이트에서
+**"Steal a Brainrot"**를 검색한 뒤, 인기 서버 중 하나에 접속하면 됩니다.
 
-*   **[KO]** **Move**: `W`, `A`, `S`, `D` keys
-*   **[KO]** **Jump**: `Space Bar`
-*   **[KO]** **Sprint**: Hold `Shift` key
-*   **[KO]** **Crouch / Sneak**: `Ctrl` or `C` key
-*   **[KO]** **Interact / Steal**: `E` or `F` key
-*   **[KO]** **Use Item**: Number keys `1`, `2`, `3`... or `Q` key
+**2. 싱글 플레이도 가능한가요?**
 
-### **Frequently Asked Questions (FAQ)**
+기본적으로는 **멀티플레이** 협동/대전 구조를 염두에 두고 설계되었습니다.
+혼자 서버에 들어갈 수는 있지만, 다른 플레이어와 함께할 때가 훨씬
+재미있습니다.
 
-**1. Where can I play this game?**
-The game is available to play for free on the **Roblox** platform. Simply search for **"Steal a Brainrot"** in the Roblox app or on the website and choose one of the most popular versions.
+**3. "Brainrot"가 정확히 무엇인가요?**
 
-**2. Is this game single-player or multiplayer?**
-It is designed primarily for **multiplayer** cooperative or competitive play. While you might be able to enter a server alone, the core fun and gameplay are centered around interacting with other players.
+원래는 질 낮지만 중독적인 인터넷 밈, 바이럴 콘텐츠를 가리키는 인터넷
+속어입니다. 이 게임에서는 그 개념을 실제로 훔쳐 올 수 있는 캐릭터로
+구현해, 상황 자체가 웃음을 유발합니다.
 
-**3. What exactly is a "Brainrot"?**
-It's an internet slang term for low-quality, viral online content. This game turns that abstract concept into a physical object you can actually "steal," which is the source of its humor.
+**4. 어떻게 해야 이기나요?**
 
-**4. What is the objective to win the game?**
-Typically, the goal is for a team to successfully steal and return the "Brainrot" to their base the most times within a time limit. Other game modes might exist, such as completing the heist without being detected at all.
-
+일반적으로 제한 시간 안에 더 많이 Brainrot를 훔쳐 기지로 가져오는 팀이
+승리합니다. 특정 모드에서는 한 번도 들키지 않고 성공하는 등 별도의 승리
+조건이 있을 수도 있습니다.

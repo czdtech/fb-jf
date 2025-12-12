@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: 2048-giant
-title: '[KO] 2048 Giant'
+title: '2048 Giant 2048 자이언트'
 description: >-
-  [KO] Experience the classic 2048 puzzle in a giant new way in 2048 Giant.
-  Combine tiles and reach for a high score on a bigger board.
-iframeSrc: >-
-  https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
+  넓은 보드에서 고전 2048 퍼즐을 즐길 수 있는 버전입니다. 숫자 타일을 합쳐
+  2048을 만들고, 커진 공간에서 더 높은 점수를 노려 보세요.
+iframeSrc: https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/2048-giant.jpg
 tags:
   - puzzle
@@ -16,31 +15,38 @@ score: 4.5/5 (2500 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+2048 Giant는 고전 2048 퍼즐을 더 큰 그리드에서 즐길 수 있도록 만든 버전입니다.
+기본 목표는 동일합니다. 숫자 타일을 밀어 같은 숫자끼리 합치고, 2048 타일을
+완성하는 것이죠. 하지만 넓어진 보드 덕분에 더 많은 움직임과 선택지가 생기는
+만큼, 한층 더 깊은 전략이 요구됩니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+2048의 핵심 전략은 그대로 적용되지만, 더 큰 보드에 맞게 응용해야 합니다.
 
-2048 Giant is a version of the classic 2048 puzzle game, but played on a larger grid. The goal remains the same: slide numbered tiles to combine them and create the 2048 tile. The larger board offers a new level of challenge and requires more strategic planning.
+1.  **코너를 잡고 플레이하기:** 한 코너를 정해 가장 큰 숫자를 고정해 두세요.
+    큰 보드에서는 높은 숫자가 중앙에 떠돌다 보면 정리하기 더 어려워집니다.
+2.  **이동 방향을 제한하기:** 타일이 예측 가능하게 쌓이도록 2~3개의 방향만
+    주로 사용하세요. 예를 들어, 오른쪽 코너를 쓴다면 위/오른쪽/아래 정도만
+    사용하는 식입니다.
+3.  **연쇄 구조 만들기:** 선택한 코너에서 멀어질수록 숫자가 작아지도록 줄을
+    정리하면 체인 합치기가 쉬워집니다.
+4.  **여유 있게 내다보기:** 보드가 넓은 만큼 한두 수 앞이 아니라 여러 수를
+    미리 생각해 두어야 합니다. 무심코 한 번 잘못 밀면 되돌리기 어려운 상황이
+    되기 쉽습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-The core strategies for 2048 apply here, but need to be adapted for the larger board.
+*   **화살표 키:** 키보드 방향키로 타일을 이동합니다.
+*   **스와이프:** 터치 기기에서는 원하는 방향으로 화면을 스와이프해 타일을
+    움직입니다.
 
-1.  **[KO]** **The Corner Strategy:** Choose one corner and keep your highest value tile there. This is more crucial on a larger board to avoid getting high-value tiles trapped in the middle.
-2.  **[KO]** **Limit Movement:** Stick to 2 or 3 directions to keep the tiles organized and predictable. For example, use only the up, down, and right arrows if your corner is on the right side.
-3.  **[KO]** **Build Chains:** Arrange tiles in descending order from your chosen corner. This helps in creating chain reactions of merges.
-4.  **[KO]** **Plan Ahead:** Think several moves ahead. A larger board means more possibilities and more chances for error.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+*   **Q: 2048 Giant의 목표는 무엇인가요?**
+    *   **A:** 같은 숫자 타일을 합쳐 2048 타일을 만드는 것이 기본 목표입니다. 2048을 만든 뒤에도 계속 플레이하며 더 높은 점수와 더 큰 숫자를 노릴 수 있습니다.
 
-*   **[KO]** **Arrow Keys:** Use the arrow keys to move the tiles.
-*   **[KO]** **Swipe:** On touch devices, swipe in the direction you want the tiles to move.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[KO]** **Q: What is the goal of 2048 Giant?**
-    *   **[KO]** **A:** To create the 2048 tile by merging tiles of the same number. The game can be continued after reaching 2048 to achieve a higher score.
-*   **[KO]** **Q: How is it different from classic 2048?**
-    *   **[KO]** **A:** It's played on a larger grid, which makes the game longer and requires more planning.
-
+*   **Q: 일반 2048과 뭐가 다른가요?**
+    *   **A:** 더 큰 그리드에서 진행되기 때문에 게임이 더 길어지고, 계획해야 할 변수도 많아집니다. 여유 공간이 많은 만큼 초반에는 쉽지만, 후반으로 갈수록 한 수 한 수의 중요성이 더 커집니다.

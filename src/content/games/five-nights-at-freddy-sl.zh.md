@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: five-nights-at-freddy-sl
-title: '[ZH TRANSLATION NEEDED] Five Nights at Freddy''s Sister Location'
+title: "Five Nights at Freddy's: Sister Location 姐妹店"
 description: >-
-  [ZH TRANSLATION NEEDED] Shift‑based horror with tasks: move between rooms,
-  complete maintenance jobs, monitor Funtime animatronics, and survive scripted
-  set‑pieces.
+  帶有明顯劇情導向的篇章：在不同房間之間穿梭、完成維護任務，
+  監控 Funtime 系列機械玩偶，在腳本式事件中設法活下來。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/five-nights-at-freddy-sl.jpg
 tags:
@@ -18,26 +17,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Story‑driven entry with nightly objectives. You crawl through vents, repair systems, and follow instructions while avoiding Funtime animatronics.
+
+《Sister Location》是系列中劇情感最強的一作，每一夜都有明確的任務目標。
+你要在設施的各個房間與通風管之間匍匐前進，檢修系統、調整控制面板，
+同時避開 Funtime 系列機械玩偶的追擊，按照指示一步步推進故事。
 
 ### How to Play
-- Follow the terminal’s prompts, but adapt when instructions fail.
-- Use audio, shock, and monitoring only when required; conserve actions.
-- Later nights remix tasks with higher risk and tighter windows.
+
+- 一開始可依照終端機的語音指示行動，但當指令看起來不合理或頻頻失效時，
+  也要學會隨機應變，嘗試替代方案。
+- 僅在必要時使用音訊、電擊或監控畫面，避免過度操作讓自己暴露在危險之中。
+- 隨著夜數增加，任務會被重新組合，風險升高、操作時間窗口也會變得更緊迫。
 
 ### Controls
-- Mouse/UI to interact with panels, shocks, and monitors; movement keys for vent sections (host dependent).
+
+- 使用滑鼠與 UI 操作各種控制面板、電擊按鈕與監控螢幕；
+- 在通風管段落則需要使用鍵盤方向鍵或指定按鍵移動（依託管版本而定）。
 
 ### Tips
-- Listen carefully—audio cues and flickers telegraph danger.
-- Move slowly through dark vent segments; rushing triggers failures.
-- Rehearse panel sequences so you can execute under pressure.
+
+- 仔細聆聽聲音變化——金屬摩擦聲、腳步聲與環境雜訊的突變，都是危險即將逼近的信號。
+- 在漆黑的通風管中前進時，保持慢速、節奏穩定，躁進猛衝很容易被判定失敗。
+- 多熟悉各種控制面板的操作順序，當真正進入高壓情境時，
+  才能在很短時間內準確完成每一步。
 
 ### FAQ
-- Q: Why do shocks stop working?  
-[ZH TRANSLATION NEEDED]   A: Some segments require patience or alternative steps; follow updated prompts.
-- Q: Can I skip to specific nights?  
-[ZH TRANSLATION NEEDED]   A: Some hosts allow scene/night select; otherwise progress sequentially.
-- Q: Is there a custom night mode?  
-[ZH TRANSLATION NEEDED]   A: Many versions include a challenge night after the story.
 
+- 問：為什麼電擊突然不再有用？  
+  答：有些橋段刻意要求你暫停使用電擊，或改用其他方式應對；此時應該冷靜聽從更新後的指示，
+  或觀察環境找出新解法。
+
+- 問：可以直接跳到指定夜晚重玩嗎？  
+  答：部分平台提供場景／夜晚選擇功能，否則一般需要按劇情順序逐夜推進。
+
+- 問：有額外的自訂挑戰夜嗎？  
+  答：許多版本會在本篇劇情後加入額外挑戰夜或 Custom Night 模式，
+  讓熟練玩家嘗試更高強度的配置。

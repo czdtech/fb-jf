@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: google-feud
-title: '[ES] Google Feud'
+title: "Google Feud"
 description: >-
-  [ES] Survey‑style guessing game: complete autocomplete prompts with the most
-  popular queries and climb the rounds without striking out.
+  Juego de adivinanzas tipo encuesta: completa las sugerencias de autocompletar
+  con las búsquedas más populares y avanza rondas sin quedarte sin intentos.
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/google-feud.jpg
 tags:
@@ -15,30 +15,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Google Feud imita el formato de "Family Feud" aplicado a las búsquedas de
+Google: ves el inicio de una consulta y debes adivinar cómo la completan
+habitualmente los usuarios. Cada categoría tiene varias respuestas principales
+con distintos valores en puntos. Tres fallos terminan la ronda, así que conocer
+patrones y hacer conjeturas amplias es la clave.
 
+### Cómo jugar
 
-### Overview
-Google Feud mimics a family‑feud‑style prompt list: you see the beginning of a search query and must guess how users commonly complete it. Each category has multiple top answers with point values. Three wrong guesses end the round, so pattern knowledge and broad guesses win.
+- Elige una categoría, lee el comienzo de la frase y escribe posibles
+  terminaciones.
+- Empieza con respuestas generales (quién/qué/dónde/por qué) antes de probar
+  nombres y marcas muy concretos.
+- Fíjate en singular/plural y en posibles diferencias de expresión según la
+  región.
 
-### How to Play
-- Pick a category; read the prompt stem; type likely completions.
-- Start broad (who/what/where) before specific names and brands.
-- Watch for plural/singular and regional phrasing.
+### Guía de controles
 
-### Controls
-- Keyboard to type answers; Enter to submit; on‑screen buttons for categories.
+- Usa el teclado para escribir respuestas y pulsa Enter para enviarlas; los
+  botones en pantalla sirven para elegir categorías y avanzar.
 
-### Tips
-- Think like autocomplete: spellings, synonyms, and common idioms.
-- If stuck, try opposites or related concepts.
-- Avoid over‑specific proper nouns early.
+### Consejos
 
-### FAQ
-- Q: How are answers ranked in the game?
-A: By popularity within the prompt’s dataset; top answers score higher.
-- Q: Do typos count as correct answers?
-A: Common variants may match; exact matching depends on host.
-- Q: Can I change the category mid‑round?
-A: Usually no—finish or fail the current list first.
+- Piensa como el autocompletado: ortografías frecuentes, sinónimos y expresiones
+  hechas.
+- Si te bloqueas, prueba con opuestos o conceptos relacionados.
+- Evita meter nombres propios demasiado específicos al principio de la ronda.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo se ordenan las respuestas en el juego?**  
+  **R:** Por popularidad dentro del conjunto de datos de esa consulta; las
+  respuestas más utilizadas dan más puntos.
+
+- **P: ¿Los errores tipográficos cuentan como aciertos?**  
+  **R:** Algunas variantes comunes pueden contabilizarse; la tolerancia a
+  errores depende del portal.
+
+- **P: ¿Puedo cambiar de categoría a mitad de ronda?**  
+  **R:** Normalmente no; tienes que acabar o fallar la lista actual antes de
+  cambiar.

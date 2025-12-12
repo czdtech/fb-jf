@@ -1,49 +1,49 @@
 ---
 locale: fr
 urlstr: penalty-showdown
-title: '[FR] Penalty Showdown'
-description: >-
-  [FR] Penalty Showdown is a tense shootout — pick corners, vary height, and
-  outguess keepers in alternating kicker/keeper rounds.
+title: Penalty Showdown
+description: "Penalty Showdown est un duel de tirs au but tendu\_: alterne entre tireur et gardien, choisis les bons coins et déjoue les gardiens grâce au timing et à la variation des frappes."
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/penalty-showdown.jpg
 tags:
   - sports
   - soccer
 score: 4.0/5  (1879 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Penalty Showdown alterne entre phases de tir et phases de gardien. En tant que tireur, tu dois varier placement et hauteur de tes frappes. En tant que gardien, tu dois lire la course d’élan de l’adversaire et plonger au bon moment. La victoire repose davantage sur le changement de rythme et la variété des profils de tirs que sur la puissance brute.
+
+### Stratégies de jeu et progression
+
+1.  **Mélanger les profils de tir :** alterne frappes ras de terre, lucarnes et balles piquées au centre pour éviter que le gardien ne te lise.  
+2.  **Plonger tard côté gardien :** fais un léger pas d’attente puis engage‑toi au dernier moment, souvent du côté ouvert du tireur.  
+3.  **Gérer la puissance :** une puissance moyenne à haute donne un bon compromis entre vitesse et précision ; les barres trop pleines entraînent souvent des frappes hors cadre.  
+4.  **Jouer le mind‑game :** marque parfois une petite pause dans ta course pour forcer un plongeon anticipé, puis ajuste ta frappe en conséquence.
 
 
+- Mind games: Pause a beat before shots to bait early dives.
+### Commandes
 
-### Detailed Game Introduction
+- **Tireur :** déplace le viseur, règle la puissance (et parfois l’effet), puis valide pour frapper.  
+- **Gardien :** choisis la direction et le timing de ton plongeon via la souris ou les touches.
 
-Penalty Showdown alternates between shooting and goalkeeping phases. As the taker, disguise placement and height; as the keeper, read run‑ups and dive late. Winning relies on rhythm changes and mixed shot profiles rather than power alone.
+### Foire aux questions (FAQ)
 
-### Gameplay Strategy & Walkthrough
+- **Q : Mes tirs sont souvent arrêtés, que faire ?**  
+  **R :** Ne répète pas toujours la même zone ; varie hauteur et timing, et évite les frappes trop centrées.
 
-1.  **[FR]** Mix profiles: Alternate low corners, high corners, and center chips to avoid patterns.
-2.  **[FR]** Keeper late dive: Move briefly then commit late to the striker’s open‑body side.
-3.  **[FR]** Power windows: Mid‑high power gives speed without wild slices.
-4.  **[FR]** Wind: Offset aim and reduce height under strong wind (if modeled).
-5.  **[FR]** Mind games: Pause a beat before shots to bait early dives.
+- **Q : Je devine rarement le bon côté en tant que gardien.**  
+  **R :** Observe les deux derniers appuis du tireur ; la position des hanches et des épaules trahit souvent la direction.
 
-### Controls Guide
 
-- Shoot: aim + power + (optional) swerve. Keep: choose side/timing; some builds allow manual dives.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Shots keep getting saved.
-
-A: Vary height and delay aim; avoid predictable mid‑goal strikes.
-
-- Q: Keeper guesses me every time.
-
-A: Change run‑up angles and add a brief pause before contact.
-
-- Q: Best keeper tip?
 
 A: Watch the last two steps — hips often telegraph shot side.
 
+- Q: Best keeper tip?
+
+
+A: Watch the last two steps — hips often telegraph shot side.

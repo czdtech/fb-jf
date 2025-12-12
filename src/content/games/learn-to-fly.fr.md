@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: learn-to-fly
-title: '[FR] Learn To Fly'
-description: >-
-  [FR] Penguin launch upgrade game: adjust launch angle, glide and boost, earn
-  cash, and buy parts to fly farther each day.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
+title: "Learn To Fly"
+description: "Jeu de lancer/upgrade avec pingouin volant : règle l’angle, plane et booste, gagne de l’argent et achète des pièces pour aller toujours plus loin."
+iframeSrc: "https://ad-freegames.github.io/flash/game/learn-to-fly.html"
 thumbnail: /new-images/learn-to-fly.jpg
 tags:
   - arcade
@@ -15,30 +13,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation
 
+Learn to Fly est un jeu de distance basé sur l’amélioration continue. Tu lances un pingouin sur une rampe, contrôles son inclinaison pour optimiser le vol plané et utilises les boosters avec parcimonie. L’argent gagné sert à acheter de meilleurs planeurs, fusées et charges utiles, ce qui débloque de nouveaux objectifs et modes de défi au fil des jours.
 
+### Comment jouer
 
-### Overview
-Learn to Fly is a distance launcher about iterative improvement. Launch a penguin down a ramp, control pitch to maximize glide, and use boosters sparingly. Earnings buy better gliders, rockets, and payloads, unlocking new goals and challenge modes across days.
+- Choisis l’angle de lancement ; maintiens une inclinaison optimale pour garder la vitesse.  
+- N’active les boosters que lorsque la vitesse chute ou pour franchir un obstacle.  
+- Investis d’abord dans la vitesse de base et l’efficacité de plane, puis dans les utilitaires.
 
-### How to Play
-- Set launch angle; keep pitch near optimal to maintain speed.
-- Trigger boosters only when speed drops or to clear obstacles.
-- Spend on speed and glide upgrades first, then utility.
+### Commandes
 
-### Controls
-- Arrow keys adjust pitch; space/keys for boosters (host dependent).
+- Flèches pour ajuster le pitch ; barre espace/touches dédiées pour les boosters (selon l’hébergeur).
 
-### Tips
-- Shallow dives regain speed; gentle climbs extend distance.
-- Save fuel for late‑flight when drag slows you down.
-- Daily goals guide efficient upgrade order.
+### Astuces
+
+- De petites plongées redonnent de la vitesse, des montées douces allongent la distance.  
+- Garde du carburant pour la fin du vol, quand la traînée commence à te ralentir.  
+- Les objectifs quotidiens t’aident à prioriser l’ordre des upgrades.
 
 ### FAQ
-- Q: What upgrades give the best early returns?
-A: Base speed and glide efficiency outperform fancy extras early.
-- Q: How do I hit distance targets consistently?
-A: Maintain optimal pitch and reserve boosts for late flight.
-- Q: Is there a hard cap on days?
-A: You can keep improving until targets are met; challenge modes extend play.
+
+- **Q : Quels upgrades sont les plus rentables au début ?**  
+  R : Vitesse de base et qualité du plane sont plus efficaces que les gadgets au début.  
+
+- **Q : Comment atteindre régulièrement les objectifs de distance ?**  
+  R : Garde une inclinaison proche de l’optimum et réserve tes boosts pour la seconde moitié du vol.  
+
+- **Q : Y a‑t‑il une limite de jours ?**  
+  R : Tu peux continuer à t’améliorer jusqu’à atteindre les cibles ; les modes défi prolongent encore la durée de vie.
 

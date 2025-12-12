@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: smarty-bubbles-2
-title: '[FR] Smarty Bubbles 2'
-description: >-
-  [FR] The addictive bubble shooter is back! Aim, shoot, and match colorful
-  bubbles to clear the board. Plan your shots carefully to avoid adding new
-  rows!
+title: Smarty Bubbles 2
+description: "Le shooter de bulles addictif est de retour\_! Vise, tire et associe les bulles colorées pour nettoyer le plateau. Planifie bien tes tirs pour éviter de faire apparaître de nouvelles rangées."
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
 thumbnail: /new-images/smarty-bubbles-2.png
 tags:
@@ -17,32 +14,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation détaillée du jeu
 
+Smarty Bubbles 2 prolonge le plaisir du classique bubble shooter avec un
+habillage plus soigné et des centaines de nouveaux niveaux. Le principe ne
+change pas : vider le plateau de toutes ses bulles colorées en tirant et en
+formant des groupes d’au moins trois bulles de même couleur. Cette suite te
+pousse à réfléchir stratégiquement pour créer d’énormes réactions en chaîne
+et nettoyer chaque niveau, tout en gérant tes tirs pour empêcher le plafond
+de descendre.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Smarty Bubbles 2 continues the fun of the classic bubble shooter with a polished look and hundreds of new levels. The objective remains the same: clear the entire board of colorful bubbles by shooting and matching three or more of the same color. This sequel challenges you to think strategically to create massive chain reactions and clear each stage, all while managing your shots to prevent the ceiling from dropping.
+1.  **Éviter les tirs « dans le vide » :** comme dans l’original, chaque
+    tir compte. Après un certain nombre de tirs qui ne font éclater aucune
+    bulle, une nouvelle rangée descend du haut et complique la partie. Un
+    indicateur sur le côté te montre combien d’essais il te reste.
+2.  **Viser les avalanches :** la méthode la plus efficace consiste à
+    faire éclater des groupes qui soutiennent d’autres bulles. Les bulles
+    non attachées tomberont d’un coup, ce qui nettoie le plateau bien plus
+    vite.
+3.  **Utiliser les murs :** apprends à faire rebondir tes tirs sur les
+    parois. C’est indispensable pour atteindre des zones difficiles et
+    préparer des combinaisons intelligentes.
+4.  **Planifier à l’avance :** tu vois toujours la prochaine bulle dans le
+    canon. Sers‑toi de cette information pour anticiper. Parfois, il vaut
+    mieux faire un tir « moyen » maintenant pour préparer un tir parfait
+    avec la bulle suivante.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Avoid Misses:** Just like the original, the key is to make every shot count. After a certain number of shots that don't pop any bubbles, a new row will be added from the top, making the game harder. An indicator on the side will show you how many misses you have left.
-2.  **[FR]** **Aim for Avalanches:** The most efficient way to win is to pop bubble clusters that are supporting other bubbles. This will cause all the unsupported bubbles to fall, clearing the screen much faster.
-3.  **[FR]** **Use the Walls:** Master bouncing your shots off the side walls. This is an essential skill for reaching difficult spots and setting up clever matches.
-4.  **[FR]** **Plan Ahead:** The game shows you the next bubble in your cannon. Use this information to plan your next move. Sometimes it's best to make a less optimal shot now to set up a perfect shot with the next bubble.
+*   **Viser :** déplace la souris pour orienter le canon ; une ligne guide
+    la trajectoire.  
+*   **Tirer :** clique avec le bouton gauche pour lancer la bulle.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-*   **[FR]** **Shoot:** Click the left mouse button to fire the bubble.
+*   **Q : Pourquoi une nouvelle rangée de bulles est‑elle apparue ?**  
+    R : Tu as enchaîné trop de tirs sans faire éclater de bulles.
+    Au‑delà d’un certain nombre d’échecs, une nouvelle rangée descend.
 
-### Frequently Asked Questions (FAQ)
+    - **Q : Quel est l’objectif du jeu ?**  
+    R : Vider complètement le plateau de toutes ses bulles pour terminer le
+    niveau et passer au suivant.
 
-*   **[FR]** **Q: Why did a new row of bubbles appear?**
-    *   **[FR]** **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.
+*   **Q : Comment obtenir un score élevé ?**  
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
+    - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
 
-*   **[FR]** **Q: How do I get a high score?**
-    *   **[FR]** **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
+- **Q: How do I get a high score?**
 
+    - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
+    R : Termine les niveaux efficacement et provoque la chute de gros
+    amas de bulles en un seul tir. Plus tu fais tomber de bulles d’un coup,
+    plus ton score grimpe.

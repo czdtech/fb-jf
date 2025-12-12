@@ -1,71 +1,52 @@
 ---
-locale: ja
+title: Rooftop Snipers
+description: Rooftop Snipersは物理ベースのスナイパー対決です。狙い、射撃し、屋上から対戦相手をノックし、混沌とした楽しみを楽しみます。
+iframeSrc: 'https://rooftopsnipers.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+thumbnail: /new-images/rooftop-snipers.png
 urlstr: rooftop-snipers
-title: '[JA TRANSLATION NEEDED] Rooftop Snipers'
-description: >-
-  [JA TRANSLATION NEEDED] Rooftop Snipers is the original physics-based shooting
-  game where two pixel characters fight on rooftops, using simple controls to
-  shoot and knock opponents off buildings with hilarious ragdoll physics.
-iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
-thumbnail: /new-images/rooftop-snipers.jpg
+score: 4.3/5  (2789 votes)
 tags:
-  - shooting
-  - physics
-  - classic
-score: 3.8/5  (995 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+  - 2 player
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Rooftop Snipersは、屋上で行われるシンプルですが陽気な物理ベースのスナイパーゲームです。2つのボタンコントロール：ジャンプとショット。対戦相手を屋根からノックするか、自分で落ちないようにします。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **狙いを練習:" 物理ベースの射撃は挑戦的です。
+2.  **ジャンプを使用:" ショットを避け、位置を調整します。
+3.  **タイミングが鍵:" 対戦相手のパターンを読みます。
+4.  **バランスを保つ:" 屋根から落ちないでください。
+5.  **忍耐強く:" 完璧なショットを待ちます。
+
+### 操作ガイド
+
+- W/I：ジャンプします。
+- E/O：射撃します。
+- プレイヤー1対プレイヤー2またはAI。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Rooftop Snipers" is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings. The game is famous for its hilarious ragdoll physics effects and simple yet challenging gameplay, laying the foundation for subsequent series games.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Master Basic Controls**: Become proficient with the basic combination of movement, jumping, and shooting operations.
-[JA TRANSLATION NEEDED] 2.  **Shooting Prediction**: Learn to predict opponent movement direction and aim ahead when shooting.
-[JA TRANSLATION NEEDED] 3.  **Balance Control**: Maintain balance on roof edges, avoiding accidental falls due to weapon recoil.
-[JA TRANSLATION NEEDED] 4.  **Rhythm Mastery**: Find the optimal combination rhythm for shooting, moving, and jumping.
-[JA TRANSLATION NEEDED] 5.  **Positional Strategy**: Use rooftop terrain advantages to find the best shooting positions.
-
-### How to Play
-
-*   **Movement**: Use A/D keys or left/right arrow keys to control character left and right movement.
-*   **Jump**: Use W key or up arrow key to make character jump.
-*   **Shoot**: Use S key or down arrow key to shoot.
-*   **Combination Actions**: Can simultaneously perform combinations of movement, jumping, and shooting.
-
-
-- **Positional 戦略**: Use rooftop terrain advantages to find the best shooting positions.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: Why do I always fall off first?**
-### よくある質問
 - **Combination Actions**: Can simultaneously perform combinations of movement, jumping, and shooting.
-- **Shoot**: Use S key or down arrow key to shoot.
-- **Jump**: Use W key or up arrow key to make character jump.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Movement**: Use A/D keys or left/right arrow keys to control character left and right movement.
-[JA TRANSLATION NEEDED] 1.  **Q: Why do I always fall off first?**
+- **Q: 2ボタンだけですか？**  
+  A: はい！シンプルさが美しさです。
+- **Q: シングルプレイヤーモードはありますか？**  
+  A: はい、AIと対戦します。
+- **Q: なぜこんなに混沌としていますか？**  
+  A: 物理ベースのゲームプレイが予測不可能で陽気な瞬間を作成します。
 
-- **Q: How can I improve hit rate?**
-[JA TRANSLATION NEEDED]     **A**: You might be moving too aggressively or not mastering weapon recoil effects; need to control position more carefully.
 
-- **Q: How many players does the game support?**
-[JA TRANSLATION NEEDED] 2.  **Q: How can I improve hit rate?**
+**A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.
 
 - **Q: Is there a single-player mode?**
-[JA TRANSLATION NEEDED]     **A**: Practice aiming more, learn to predict opponent movement trajectories, and shoot when opponents are jumping.
-[JA TRANSLATION NEEDED] 3.  **Q: How many players does the game support?**
-[JA TRANSLATION NEEDED]     **A**: The original "Rooftop Snipers" is mainly a two-player battle game where two players can fight on the same device.
-[JA TRANSLATION NEEDED] 4.  **Q: Is there a single-player mode?**
-[JA TRANSLATION NEEDED]     **A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.
+
+
+**A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.

@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: love-tester
-title: '[DE] Love Tester'
+title: "Love Tester"
 description: >-
-  [DE] Playful novelty: enter names to get a fun compatibility score;
-  non‑scientific and meant purely for entertainment.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
+  Verspieltes Spaß-Tool: Gib zwei Namen ein und erhalte einen lustigen
+  Liebes-Kompatibilitätswert – völlig unwissenschaftlich und nur zur
+  Unterhaltung gedacht.
+iframeSrc: 'https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref='
 thumbnail: /new-images/love-tester.jpg
 tags:
   - casual
@@ -16,28 +16,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+Love Tester ist ein leichtfütiges Namens-Matching-Spielzeug. Du gibst zwei
+Namen ein und bekommst einen augenzwinkernden „Kompatibilitäts“-Prozentwert,
+inklusive kleiner Nachrichten oder Animationen. Das Ganze ist nur Spaß – die
+Ergebnisse sind zufällig oder basieren auf einfachen Berechnungen und sagen
+nichts über echte Beziehungen aus.
 
+### So spielst du
 
-### Overview
-Love Tester is a lighthearted name‑matching toy. You input two names and receive a whimsical “compatibility” percentage with occasional messages or animations. It’s purely for fun—results are random or based on simple hashing and do not represent real compatibility.
+- Gib zwei Namen (oder beliebige Wörter) ein und drücke den Test-Button.
+- Teile das Ergebnis mit Freunden oder probiere neue Namenskombinationen aus.
 
-### How to Play
-- Enter two names (or any words) and press test.
-- Share results or rerun with different inputs for laughs.
+### Steuerung
 
-### Controls
-- Keyboard input and a single test button.
+- Texteingabe per Tastatur und ein einzelner Button zum Starten des Tests.
 
-### Tips
-- Use creative prompts (nicknames, team names) to vary outputs.
-- Treat results as a joke, not advice.
+### Tipps
+
+- Nutze kreative Eingaben wie Spitznamen, Teamnamen oder Insider-Wörter, um
+  unterschiedliche Ergebnisse zu bekommen.
+- Nimm die Anzeige mit Humor – sie ersetzt weder echte Gespräche noch
+  Beziehungsrat.
 
 ### FAQ
-- Q: Is the compatibility score scientifically accurate?
-A: No, it is for entertainment only.
-- Q: Can I save or share the results?
-A: Some hosts include share buttons or screenshots.
-- Q: Do spaces or punctuation matter in names?
-A: Behavior varies; stick to letters for consistent outputs.
 
+- **F: Ist der Kompatibilitätswert wissenschaftlich korrekt?**  
+  **A:** Nein, er dient ausschließlich der Unterhaltung.
+
+- **F: Kann ich Ergebnisse speichern oder teilen?**  
+  **A:** Manche Hosts bieten Share-Buttons oder du machst einfach einen
+  Screenshot.
+
+- **F: Machen Leerzeichen oder Satzzeichen einen Unterschied?**  
+  **A:** Das hängt von der jeweiligen Implementierung ab. Für möglichst
+  reproduzierbare Ergebnisse bleib am besten bei Buchstaben.

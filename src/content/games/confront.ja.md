@@ -1,22 +1,29 @@
 ---
+title: "Confront コンフロント"
+description: "「Confront」は一瞬の判断が生死を分けるハイスピード・シューティング。バレットタイム（時間停止）を駆使し、群がる敵を精密な射撃でなぎ倒せ。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm"
+thumbnail: "/new-images/confront.jpg"
+urlstr: "confront"
+score: "4.7/5  (407 votes)"
+tags: ["casual", "shooting"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: confront
-title: '[JA TRANSLATION NEEDED] Confront'
-description: >-
-  [JA TRANSLATION NEEDED] Confront places players in a fast-paced shooting
-  scenario where quick aim and sharp reflexes are crucial.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
-thumbnail: /new-images/confront.jpg
-tags:
-  - casual
-  - shooting
-score: 4.7/5  (407 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Confront places players in a fast-paced shooting scenario where quick aim and sharp reflexes are crucial. Employ bullet-time for more calculated actions, setting this title apart from typical shooters. Balance intuition and precision across varied, action-filled environments as you hone your accuracy in rapidly evolving challenges.
+*Confront（コンフロント）*は、素早いエイム（照準）と鋭い反射神経が不可欠な、ハイペースなシューティングアクションゲームです。ただ撃ち合うだけでなく、「バレットタイム」と呼ばれる時間の流れを遅くするシステムが特徴です。これにより、映画のような計算されたアクションが可能になります。直感的な操作と精密な射撃をバランス良く使いこなし、次々と現れる敵や変化する状況に対応して生き残りましょう。
 
-### How to Play
-[JA TRANSLATION NEEDED] Use your mouse to guide the character. Click to both slow down time and fire at enemies. Advance by defeating all opponents. Adapt quickly and aim carefully. A tip: prioritizing headshots can speed up success.
+### 遊び方と攻略のヒント
+
+マウスを使ってキャラクターを操作します。クリックすることで、時間を遅くしながら敵を射撃できます。
+
+*   **バレットタイムの活用:** クリック（または操作入力）で時間がスローになります。この隙に敵の弾を避けたり、正確に狙いを定めたりしましょう。
+*   **ヘッドショット:** 敵の頭を狙う「ヘッドショット」はダメージが高く、素早く敵を倒すことができます。成功への近道です。
+*   **状況判断:** 敵の数や位置を把握し、どの敵から倒すべきか瞬時に判断しましょう。
+
+### 操作ガイド
+
+*   **照準移動:** マウス操作
+*   **攻撃＆スロー:** クリック（長押しでスロー効果が続く場合があります、ゲーム内の挙動に合わせて操作してください）

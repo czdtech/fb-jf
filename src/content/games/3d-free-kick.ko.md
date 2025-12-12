@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 3d-free-kick
-title: '[KO] 3D Free Kick'
+title: '3D Free Kick 3D 프리킥'
 description: >-
-  [KO] 3D Free Kick lets you bend it like a pro — aim the wall, curve the ball,
-  and score stylish set‑pieces.
+  프리킥 상황에 집중한 축구 게임입니다. 수비벽과 골키퍼를 피해 공을 휘어 차
+  멋진 프리킥 골을 넣어 보세요.
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/3d-free-kick.png
 tags:
@@ -14,29 +14,45 @@ score: 4.1/5  (1866 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+3D Free Kick은 프리킥 상황에만 집중한 축구 게임입니다. 목표 지점을 정하고
+수비벽을 피해 공에 회전을 걸어, 골키퍼를 넘어서는 멋진 한 방을 노립니다.
+스테이지마다 수비벽의 높이와 인원, 골키퍼 반응 속도, 거리, 바람 등이 달라져
+정확한 조준과 섬세한 궤적 컨트롤이 요구됩니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **골문 구석을 노리기:** 골키퍼가 닿기 가장 어려운 곳은 상·하단 모서리
+    근처입니다. 코너를 향해 노리는 슛이 성공 확률이 높습니다.
+2.  **과하지 않은 곡선 주기:** 수비벽을 살짝 넘어 골대 안으로 휘어 들어가도록,
+    벽을 간신히 피할 정도의 적당한 회전을 거는 것이 좋습니다.
+3.  **바람 읽기:** 바람이 있는 스테이지에서는 바람 방향과 세기에 맞춰 조준점을
+    반대로 조금 옮기고, 회전도 그에 맞게 조절해야 합니다.
+4.  **높낮이 섞어 쓰기:** 가까운 거리에서는 낮게 강하게 찬 직선 슛이 유리하고,
+    거리가 멀거나 벽이 높으면 위로 띄운 뒤 떨어지는 궤적의 슛이 효과적입니다.
+5.  **골키퍼의 움직임 파악하기:** 일부 골키퍼는 한쪽으로 먼저 움직이는
+    경향이 있습니다. 그 움직임을 이용해 반대 방향으로 공을 휘어 차면 더
+    쉽게 골을 넣을 수 있습니다.
 
-3D Free Kick focuses on set‑piece mastery: pick a target, curve around the wall, and beat the keeper. Stages vary wall size, keeper reactions, distance, and wind to test precision and shot shaping.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 조준: 드래그로 공이 날아갈 방향과 높이를 설정합니다.
+- 파워: 스와이프 길이나 버튼을 누르고 있는 시간으로 슛의 세기를 조절합니다.
+- 회전: 커브를 그리듯이 스와이프하거나, 제공되는 스핀 슬라이더를 조절해
+  측면 회전이나 탑스핀/백스핀을 줄 수 있습니다.
 
-1.  **[KO]** Target corners: High/low corners are hardest to reach for keepers.
-2.  **[KO]** Add controlled curve: Apply just enough spin to clear the wall and dip inside the post.
-3.  **[KO]** Read wind: Offset your aim and spin according to wind direction/strength (if present).
-4.  **[KO]** Mix heights: Flat drives for close range; dipping shots for longer walls.
-5.  **[KO]** Learn keeper tells: Some keepers step early—fake lines and bend late.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **슛이 자꾸 벽에 막혀요. 어떻게 해야 하나요?**  
+  조준점을 조금 더 바깥쪽으로 잡고, 공에 더 많은 회전을 걸어 벽을 크게
+  돌아가게 하거나, 약간 더 높은 궤적으로 차 보세요.
 
-- Aim: Drag to set direction and height.
-- Power: Control swipe length/hold duration.
-- Curve: Swipe curve or adjust spin slider to apply sidespin/topspin.
+- **골키퍼가 계속 공을 잡습니다. 팁이 있나요?**  
+  멀리 있는 포스트 쪽으로 휘어 들어가게 차고, 높이도 매번 조금씩 바꿔
+  패턴을 깨 주세요. 골키퍼가 예상하기 어렵게 만드는 것이 중요합니다.
 
-### Frequently Asked Questions (FAQ)
-
-- My shots hit the wall—how to fix? Start wider and add a bit more curve; or raise trajectory slightly.
-- Keeper keeps catching—tips? Aim for far post with late curl; vary height to break patterns.
-- Does wind matter? Yes—counter it with opposite‑direction curve and offset aim.
+- **바람이 실제로 영향이 있나요?**  
+  네, 스테이지에 따라 바람이 공의 궤적에 큰 영향을 줍니다. 바람 방향의
+  반대편으로 조준점을 조금 옮기고, 그에 맞는 회전을 함께 걸어 주면 궤적을
+  보정할 수 있습니다.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: rotate
-title: '[KO] Rotate'
+title: "Rotate 로테이트"
 description: >-
-  [KO] Rotate is a challenging puzzle game where players must rotate the game
-  world to guide a ball through complex mazes and obstacles, using gravity and
-  momentum to reach the goal in each level.
+  스테이지 전체를 회전시켜 공을 목표 지점까지 보내는 물리 퍼즐 게임입니다.
+  중력 방향과 관성을 계산해 미로와 함정을 통과할 경로를 찾아 보세요.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/rotate.jpg
 tags:
@@ -18,33 +17,71 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Rotate*는 화면 속 세계 전체를 회전시켜 하나의 공을 목표 지점까지
+보내는 도전적인 퍼즐 게임입니다. 플레이어는 복잡한 미로와 함정이
+배치된 스테이지에서, 회전 각도와 타이밍을 조절해 공이 떨어지지 않고
+끝까지 굴러가도록 유도해야 합니다.
 
-### Game Introduction
+중력 방향과 관성, 경사면의 모양을 이해하는 것이 핵심이며, 단순히
+마구 돌리는 것보다 미리 궤적을 상상하면서 움직이는 것이 중요합니다.
 
-"Rotate" is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles. The game utilizes the physics properties of gravity and momentum, requiring players to cleverly control rotation angles and timing to get the ball to reach the target position in each level.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **중력 방향 이해하기**  
+   화면을 회전시키면 중력 방향도 함께 바뀝니다. 공이 어느 쪽으로
+   떨어질지, 회전 후 어떤 벽이 바닥이 될지 항상 예측하면서
+   조작해야 합니다.
 
-1.  **[KO]** **Understand Gravity Mechanics**: Master how rotation changes gravity direction and affects the ball's movement trajectory.
-2.  **[KO]** **Observe Level Layout**: Carefully study each level's design to find the optimal rotation path.
-3.  **[KO]** **Control Rotation Rhythm**: Don't rush to rotate; observe the ball's movement before making the next rotation.
-4.  **[KO]** **Utilize Momentum**: Learn to use the ball's movement momentum to pass through areas that are difficult to reach directly.
-5.  **[KO]** **Think from Multiple Angles**: Observing levels from different perspectives may reveal unexpected solutions.
+2. **스테이지 구조 먼저 관찰하기**  
+   바로 회전하기보다, 발판·구멍·가시 등 장애물이 어떻게 배치되어
+   있는지 천천히 살펴보세요. 공이 지나가야 할 필수 경로를 먼저
+   눈으로 찾는 것이 좋습니다.
 
-### How to Play
+3. **회전 리듬 조절하기**  
+   너무 빠르게 여러 번 연속 회전하면 공이 예기치 않은 곳으로
+   튀어 나갈 수 있습니다. 공이 안정된 위치에 도달할 때까지 잠시
+   기다렸다가 다음 회전을 하는 등 리듬을 잡는 연습이 필요합니다.
 
-*   **[KO]** **Rotation Control**: Typically use mouse dragging or keyboard arrow keys to rotate the game world.
-*   **[KO]** **Reset**: If the ball gets stuck or falls out of bounds, you can reset the current level to start over.
-*   **[KO]** **Pause**: You can pause the game while thinking of strategies and planning the next rotation operation.
+4. **관성을 이용해 어려운 구간 넘기**  
+   경사면에서 속도를 붙인 뒤 회전하면, 평소에는 닿기 힘든 높이나
+   간격도 한 번에 넘을 수 있습니다. 공의 속도와 회전 타이밍을
+   맞춰 "탄력 점프"처럼 활용해 보세요.
 
-### Frequently Asked Questions
+5. **다른 시점에서 다시 생각해 보기**  
+   막혔다고 느껴질 때는 화면을 완전히 다른 각도로 돌려, 위·아래가
+   뒤바뀐 상태에서 구조를 다시 보는 것도 도움이 됩니다. 전혀
+   생각하지 못한 경로가 보일 수 있습니다.
 
-1.  **[KO]** **Q: What if the ball keeps falling out of bounds?**
-**A**: Control rotation angle and speed more carefully, observe the ball's trajectory before making the next move.
-2.  **[KO]** **Q: Some levels seem unsolvable?**
-**A**: Try thinking from different angles and rotation sequences; sometimes it takes multiple attempts to find the correct solution.
-3.  **[KO]** **Q: How can I improve completion speed?**
-**A**: After familiarizing yourself with physics mechanics, you can predict ball movement and plan rotation sequences in advance to complete levels faster.
-4.  **[KO]** **Q: How many levels are in the game?**
-**A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.
+### 조작 가이드
+
+- **회전**: 마우스를 드래그하거나 키보드 방향키 등으로 스테이지를
+  좌우로 회전합니다(버전마다 다를 수 있음).  
+- **리셋**: 공이 구멍 아래로 떨어졌거나 더 이상 진행이 불가능한
+  상황이면, 리셋 버튼으로 현재 스테이지를 처음부터 다시 시작할 수
+  있습니다.  
+- **일시정지**: 전략을 다시 세우고 싶을 때는 일시정지 메뉴를 열어
+  잠시 생각을 정리한 뒤 재개하세요.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 공이 자꾸 화면 밖으로 떨어집니다.**  
+   **A:** 회전 각도와 속도를 너무 크게 조절한 탓일 가능성이 큽니다.
+   공의 움직임을 한 번 지켜본 뒤, 다음 회전을 짧고 부드럽게 나누어
+   입력해 보세요.
+
+2. **Q: 어떤 스테이지는 도저히 풀 수 없을 것 같아요.**  
+   **A:** 회전 순서를 완전히 바꿔 보거나, 먼저 다른 경로를 시도해
+   보는 것이 좋습니다. 여러 번 실패하면서도 새로운 각도에서
+   구조를 관찰하면 정답이 보이는 경우가 많습니다.
+
+3. **Q: 클리어 시간을 줄이려면 어떻게 해야 하나요?**  
+   **A:** 물리 규칙에 익숙해지면 공의 궤적을 미리 예측할 수 있게
+   됩니다. 스테이지 구조를 외운 뒤에는, 필요한 회전만 최소한으로
+   사용해 한 번에 공을 통과시키는 루트를 연습해 보세요.
+
+4. **Q: 스테이지 수는 얼마나 되나요?**  
+   **A:** *Rotate*는 여러 개의 월드와 난이도가 점점 높아지는
+   스테이지로 구성되어 있으며, 버전에 따라 추가 레벨이 포함될 수
+   있습니다.

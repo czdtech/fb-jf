@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: bolly-beat
-title: '[DE] Bolly Beat'
+title: "Bolly Beat"
 description: >-
-  [DE] Bolly Beat is a rhythm challenge where you tap in time, chain combos, and
-  master Bollywood‑style beats.
+  Bolly Beat ist ein Rhythmusspiel im Bollywood‑Stil. Tippe im Takt, halte
+  Kombos am Laufen und meistere bunte Beats zu energiegeladenen Tracks.
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/bolly-beat.jpg
 tags:
@@ -15,29 +15,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Bolly Beat ist ein leicht zugängliches Tap‑Rhythmusspiel mit
+Bollywood‑angehauchter Musik. Noten bewegen sich auf eine Trefferzone zu, und du
+musst im richtigen Moment tippen, um den Beat zu treffen und deine Combo zu
+halten. Gute Genauigkeit bringt höhere Scores und Sterne, lange Serien schalten
+Multiplikatoren und anspruchsvollere Muster frei.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Bolly Beat is a light, accessible rhythm‑tapping game themed around energetic, upbeat Bollywood‑style tracks. Notes approach cues on screen and you must tap with accurate timing to keep the combo alive. Higher accuracy yields higher scores and star ratings, while streaks unlock bonus multipliers and more challenging patterns.
+1.  **Timing‑Fenster lernen:** Konzentriere dich darauf, so nah wie möglich auf
+    dem Beat zu tippen. Zu frühe oder späte Treffer brechen Kombos und senken
+    deinen Multiplikator.
+2.  **Muster früh lesen:** Richte den Blick leicht vor die Trefferlinie, um
+    Wechsel zwischen Händen oder Doppel‑Taps rechtzeitig zu erkennen.
+3.  **Audio nutzen:** Orientiere dich an Drums/Bass, besonders in dichten
+    Notenpassagen, in denen die Optik unübersichtlich wird.
+4.  **Auf Normal einspielen:** Baue auf Normal‑Schwierigkeit ein stabiles
+    Timing auf, bevor du auf Hard wechselst – so verhinderst du schlechte
+    Gewohnheiten.
+5.  **Ruhig neu aufbauen:** Wenn du eine Combo verlierst, fokussiere dich erst
+    wieder auf sauberes Timing, statt krampfhaft Max‑Stars zu jagen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Learn the timing windows: Focus on hitting on the beat; late/early hits break combos and reduce multipliers.
-2.  **[DE]** Read patterns early: Keep your eyes slightly ahead of the hit line to anticipate alternating hands or double‑taps.
-3.  **[DE]** Use audio cues: Let the drum/bass line guide your rhythm when visual density is high.
-4.  **[DE]** Warm up on Normal: Build consistency before tackling Hard charts to avoid plateauing with bad habits.
-5.  **[DE]** Recover smartly: If you drop a combo, stabilize your timing before chasing max stars again.
+- **Tippen/Klicken:** Tippe oder klicke, wenn Noten die Trefferzone erreichen;
+  je nach Track können auch Halte‑Noten oder Wischbewegungen vorkommen.
+- **Pause/Neustart:** Über die UI kannst du Songs pausieren oder neu starten.
+- **Lautstärke:** Passe Musik/SFX so an, dass du den Beat gut hörst.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Tap/Click cues: Tap when notes reach the hit area; some charts may include holds or swipes.
-- Pause/Retry: Use on‑screen controls to pause or restart a track.
-- Volume: Adjust music/sfx for clearer beat tracking.
+- **F: Brauche ich Kopfhörer?**  
+  **A:** Sehr empfehlenswert – klarer Sound erleichtert das Timing und stabilere
+  Kombos.
 
-### Frequently Asked Questions (FAQ)
+- **F: Warum treffe ich dichte Passagen so schlecht?**  
+  **A:** Reduziere ggf. die Notengeschwindigkeit und konzentriere dich auf den
+  Grundschlag; übe problematische Stellen mehrfach.
 
-- Do I need headphones? Recommended—clearer timing helps accuracy and combo stability.
-- Why do I miss on dense sections? Try lowering note speed or focusing on the downbeat; practice sections that introduce cross‑rhythms.
-- How to increase score? Maintain long combos and prioritize “Perfect” accuracy to raise multipliers.
-
+- **F: Wie steigere ich meine Punktzahl?**  
+  **A:** Halte lange Kombos, vermeide "Miss"‑Treffer und ziele auf möglichst
+  viele "Perfects", um den Multiplikator hochzutreiben.

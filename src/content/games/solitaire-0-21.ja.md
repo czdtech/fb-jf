@@ -1,70 +1,43 @@
 ---
+title: "Solitaire 0-21"
+description: "Solitaire 0-21は、ソリティアに数学的ひねりを加えた— 行の合計が0と21の間に収まるようにカードを配置し、リスクとリターンのバランスを取ろう。"
+iframeSrc: "https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/"
+thumbnail: "/new-images/solitaire-0-21.png"
+urlstr: "solitaire-0-21"
+score: "4.0/5  (1885 votes)"
+tags: ["card", "puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: solitaire-0-21
-title: '[JA TRANSLATION NEEDED] Solitaire 0-21'
-description: >-
-  [JA TRANSLATION NEEDED] Solitaire 0-21 twists solitaire with math — place
-  cards so row sums stay between 0 and 21, balancing risk and reward.
-iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
-thumbnail: /new-images/solitaire-0-21.png
-tags:
-  - card
-  - puzzle
-  - thinky
-score: 4.0/5  (1885 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 詳細なゲーム紹介
 
-[JA TRANSLATION NEEDED] Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place number cards to keep running totals within [0, 21]; modifiers (+/‑/×) and special effects complicate planning. Optimal play sequences safe placements while reserving room for spikes.
+Solitaire 0-21は、ソリティアのレイアウトと算術的制約を融合させたゲームです。数字カードを配置して、実行中の合計を[0, 21]の範囲内に保ちます；修飾子（+/‑/×）と特殊効果が計画を複雑にします。最適なプレイは、安全な配置を連続させながら、急上昇に備えて余裕を残します。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイ戦略とウォークスルー
 
-[JA TRANSLATION NEEDED] 1.  Buffer space: Leave headroom near 21; don’t push totals to edges early.
-[JA TRANSLATION NEEDED] 2.  Modifier timing: Spend multipliers only when totals allow safe absorption.
-[JA TRANSLATION NEEDED] 3.  Row planning: Spread risk across rows; don’t stack volatility in one line.
-[JA TRANSLATION NEEDED] 4.  Hold highs: Park high cards until you can offset with negatives.
-[JA TRANSLATION NEEDED] 5.  Undo discipline: Undo immediately after noticing a boxed‑in row.
+1.  バッファスペース：21に近い余裕を残す；早い段階で合計を端に押し込まないこと。
+2.  修飾子のタイミング：合計が安全に吸収できる場合にのみ乗数を使う。
+3.  行の計画：リスクを行全体に分散させる；1つの行にボラティリティを積み重ねない。
+4.  高い数を保持：ネガティブでオフセットできるまで高いカードを保管する。
+5.  アンドゥの規律：行が行き詰まったことに気づいたら、すぐにアンドゥする。
 
-### Controls Guide
+### 操作ガイド
 
-- Click/drag to place cards; use undo/hints per UI.
+- クリック/ドラッグしてカードを配置；UIに従ってアンドゥ/ヒントを使用。
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Totals keep busting.
-  
-[JA TRANSLATION NEEDED]   A: You’re playing too close to 0/21 edges; leave cushion and pace modifiers.
-
-- Q: Best way to use negatives?
-  
-[JA TRANSLATION NEEDED]   A: Pair with highs to reset headroom on the same row.
-
-- Q: Is luck dominant?
-  
-
-
-
-
-
-- Q: Totals keep busting.
 ### よくある質問（FAQ）
-- Click/drag to place cards; use undo/hints per UI.
-### コントロールガイド
-- Undo discipline: Undo immediately after noticing a boxed‑in row.
-[JA TRANSLATION NEEDED]   A: Draws matter, but placement strategy heavily impacts outcomes.
 
+- Q: 合計が破綻し続ける。
+  
+  A: 0/21の端に近すぎてプレイしている；クッションを残し、修飾子のペースを調整すること。
 
+- Q: ネガティブを使う最良の方法は？
+  
+  A: 高い数とペアにして、同じ行の余裕をリセットする。
 
-
-
-
-A: Draws matter, but placement strategy heavily impacts outcomes.
-- Q: Is luck dominant?
-A: Pair with highs to reset headroom on the same row.
-- Q: Best way to use negatives?
-
-
-A: Draws matter, but placement strategy heavily impacts outcomes.
+- Q: 運が支配的ですか？
+  
+  A: ドローは重要だが、配置戦略が結果に大きく影響する。

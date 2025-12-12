@@ -1,42 +1,47 @@
 ---
 locale: zh
 urlstr: tile-guru
-title: '[ZH TRANSLATION NEEDED] Tile Guru'
-description: >-
-  [ZH TRANSLATION NEEDED] Tile Guru is a polished tile‑match — pick triples,
-  manage stacks, and clear trays without clogging lanes.
-iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
+title: 《Tile Guru》方块大师三消
+description: 《Tile Guru》是一款 3D 视角的方块消除/连连看类游戏。通过从堆叠的立体方块中挑选图案相同的牌，凑成三张即可消除，清空全部方块即为通关。
+iframeSrc: 'https://tileguru.h5games.usercontent.goog/v/2g7d9c1b4k8p0/'
 thumbnail: /new-images/tile-guru.png
 tags:
-  - mahjong
   - puzzle
-score: 4.1/5  (1974 votes)
+  - match 3
+  - casual
+score: 4.1/5  (1900 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Tile Guru uses the triple‑match tray formula: pick tiles into a limited tray; three of a kind clear. The puzzle is stack management — avoid burying mismatched sets that clog the tray and force deadlocks.
+《Tile Guru》采用类似“3 消麻将牌/方块消除”的玩法。屏幕中会堆叠大量带有不同图案的小方块，你一次可以将可见的方块放入下方的槽中，当槽中同一图案的方块达到三块时便会自动消除。若槽位被填满却无法继续消除，则本局失败。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Pair discipline: Don’t start too many sets at once; resolve pairs quickly.
-2.  [ZH TRANSLATION NEEDED] Depth control: Pull accessible tiles that won’t bury needed matches.
-3.  [ZH TRANSLATION NEEDED] Look‑ahead: Plan the next 2–3 picks to avoid tray overflow.
-4.  [ZH TRANSLATION NEEDED] Undo wisely: Undo immediately after a clogging pick.
-5.  [ZH TRANSLATION NEEDED] Power‑ups: Save shuffles for near‑deadlocks.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **优先选择暴露更多方块的牌：** 尽量从上层或边缘处拿牌，减少遮挡，尽快让更多隐藏方块暴露出来。
+2.  **控制槽位数：** 不要把过多不同图案堆在槽里，尽量将槽位维持在可控数量，避免因为花样太多导致难以凑成三消。
+3.  **提前规划三消组合：** 当你看到场上某种图案数量较多时，可以优先收集，快速完成一组三消腾出空间。
+4.  **利用撤销或道具（如果有）：** 部分版本会提供撤销、洗牌或移除单个方块的道具，在快要卡死时可以用来救场。
 
-- Click tiles to add to tray; three‑of‑a‑kind clear; hints/shuffles via UI.
 
-### Frequently Asked Questions (FAQ)
+- Power‑ups: Save shuffles for near‑deadlocks.
+### 操作说明
+
+*   **选择方块：** 点击堆叠结构中未被完全遮挡的方块即可将其放入下方槽位；
+*   **消除：** 当槽中同一图案的方块累积到三块时，会自动消除并释放槽位；
+*   **道具使用：** 如游戏提供提示、撤销或洗牌等功能，可通过界面按钮触发。
+
+### 常见问题解答（FAQ）
+
 
 - Q: My tray fills too fast.
-  
-[ZH TRANSLATION NEEDED]   A: Limit open sets and complete pairs before starting new ones.
+**问：为什么明明还有牌却突然失败？****
 
 - Q: Which tiles first?
-  
-[ZH TRANSLATION NEEDED]   A: Exposed, shallow tiles that won’t bury partners.
+答：** 一般是因为槽位已经被不同图案挤满，无法再放入新牌。建议控制同时存在的图案种类，优先完成即将形成的三消组合。
+
+**问：有没有时间限制？****
+答：** 部分关卡会设置时间限制，部分则以步数或纯粹清空为目标，可以根据模式选择自己喜欢的节奏。
 

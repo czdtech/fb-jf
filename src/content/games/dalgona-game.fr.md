@@ -1,50 +1,59 @@
 ---
 locale: fr
 urlstr: dalgona-game
-title: '[FR] Dalgona Game'
-description: >-
-  [FR] Dalgona Game recreates honeycomb carving — trace shapes carefully, manage
-  cracks, and finish before time runs out.
-iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
+title: Dalgona Game
+description: "Dalgona Game s’inspire du défi du biscuit au sucre\_: découpe soigneusement la forme dans le bonbon sans le casser."
+iframeSrc: 'https://dalgonagame.h5games.usercontent.goog/v/0mqchv5s6eg60/'
 thumbnail: /new-images/dalgona-game.png
 tags:
+  - puzzle
   - casual
-  - thinky
-score: 3.9/5  (1722 votes)
+score: 4.0/5  (1600 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Dalgona Game reprend le principe du célèbre jeu de bonbons coréens : tu dois
+suivre les contours d’une forme (étoile, cercle, parapluie, etc.) dessinée dans
+un biscuit au sucre, sans casser le bonbon.
 
-Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve out the stamped shape by following edges; too much pressure or off‑path cuts crack the candy and fail the round.
+Le défi réside dans la précision de tes gestes et parfois dans un temps limité.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Slow and steady near corners; speed only on straight segments.
-2.  **[FR]** Follow grooves; don’t force turns across the grain.
-3.  **[FR]** Watch micro‑cracks; if they spread, lift and re‑approach.
-4.  **[FR]** Save tight angles for last after stabilizing long edges.
-5.  **[FR]** Manage the timer by alternating quick/slow sections.
+1.  **Suis le contour doucement**  
+    Avance lentement le long des bords de la forme pour éviter les mouvements
+    brusques.
+2.  **Anticipe les angles serrés**  
+    Ralentis encore davantage dans les virages ou les pointes.
+3.  **Garde un œil sur le chrono**  
 
-### Controls Guide
+- Manage the timer by alternating quick/slow sections.
 
-- Drag to trace the outline; pressure/angle sensitivity varies by build.
-- Restart quickly on breaks.
+- Save tight angles for last after stabilizing long edges.
+    Si un temps limite est imposé, trouve un équilibre entre vitesse et
+    précision.
 
-### Frequently Asked Questions (FAQ)
+### Commandes
+
+- **Tracer** : clique/maintiens ou glisse ton doigt pour suivre le tracé sur le
+  biscuit.  
+- **Pause / Rejouer** : via les boutons de l’interface.
+
+### Foire aux questions (FAQ)
+
 
 - Q: I keep cracking near corners — how to fix?
-
-A: Reduce speed, take wider arcs if allowed, and pause before turning sharply.
+**Q : Que se passe‑t‑il si le biscuit se casse ?**  
 
 - Q: Is pressure modeled?
+R : La partie est perdue pour ce niveau, mais tu peux le relancer.
 
-A: Some builds simulate pressure; gentle drags are safer near delicate edges.
 
 - Q: Any tips for stars/umbrellas?
-
-A: Do long straights first, then carve the tight inner curves last.
-
+**Q : Les formes changent‑elles ?**  
+R : Oui, chaque niveau peut proposer un motif différent, avec une difficulté
+croissante.

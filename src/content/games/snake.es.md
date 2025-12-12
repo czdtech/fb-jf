@@ -1,13 +1,14 @@
 ---
 locale: es
 urlstr: snake
-title: '[ES] Snake'
+title: "Snake"
 description: >-
-  [ES] Play the timeless classic, Snake. Control a continuously moving line,
-  consume food to grow longer, and avoid colliding with walls or your own tail.
-  Test your reflexes and planning in this simple yet challenging arcade game.
-iframeSrc: 'https://www.googlesnake.com/snakem.php'
-thumbnail: /new-images/snake.jpg
+  Juega al clásico atemporal Snake. Controla una línea en movimiento continuo,
+  come comida para alargarla y evita chocar contra las paredes o tu propia cola.
+  Pon a prueba tus reflejos y tu planificación en este arcade tan simple como
+  desafiante.
+iframeSrc: "https://www.googlesnake.com/snakem.php"
+thumbnail: "/new-images/snake.jpg"
 tags:
   - classic
   - arcade
@@ -17,33 +18,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
-### Game Introduction
+Snake es un juego arcade clásico en el que controlas una línea que crece a
+medida que come. El objetivo es ir comiendo las piezas de comida que aparecen en
+pantalla, haciendo que la serpiente se alargue con cada bocado. La dificultad
+está en evitar chocar contra los bordes del escenario o contra tu propio cuerpo
+cada vez más largo.
 
-Snake is a classic arcade game where the player controls a single line that grows in length. The objective is to eat food items that appear on the screen, making the snake longer with each item consumed. It's a game of skill and foresight, as the primary challenge is to avoid colliding with the outer walls or the snake's own ever-growing body.
+### Guía de juego
 
-### Gameplay Guide
+La mecánica es sencilla: guía a la serpiente hasta la comida. Según come, se va
+haciendo más grande y, en muchas versiones, también más rápida. La partida
+termina en cuanto golpeas un obstáculo. Tu meta es lograr la máxima puntuación
+posible comiendo tanta comida como puedas antes de colisionar.
 
-The core mechanic is simple: guide the snake to eat the food. As the snake eats, it gets longer, and often, its speed increases, making navigation progressively harder. The game ends when the snake hits an obstacle. Your goal is to achieve the highest score possible by eating as much food as you can before a collision occurs.
+### Guía de controles
 
-### Controls Guide
+Los controles suelen ser muy simples:
+- **Flechas:** Usa las flechas arriba, abajo, izquierda y derecha para dirigir la
+  serpiente.
+- **WASD:** Muchas versiones también admiten `W`, `A`, `S`, `D` como alternativa.
+- **Pausa:** La barra espaciadora suele servir para pausar y reanudar la partida.
 
-The controls are typically straightforward:
-- **Arrow Keys:** Use the Up, Down,Left, and Right arrow keys to direct the snake.
-- **WASD Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
-- **Pause:** The `Spacebar` can often be used to pause and resume the game.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**¿Cuál es el objetivo principal de Snake?**
 
-**What is the main objective of Snake?**
+Intentar conseguir la puntuación más alta, comiendo comida para alargar la
+serpiente sin estrellarte.
 
-The goal is to get the highest score by eating food and growing your snake as long as possible without crashing.
+**¿Alguna estrategia para conseguir buenas puntuaciones?**
 
-**What's a good strategy for a high score?**
+Una táctica común es moverte bordeando la pantalla, creando un recorrido
+predecible. Otra es usar patrones en zigzag para mantener el cuerpo de la
+serpiente compacto y controlable. Planifica siempre varios movimientos por
+adelantado.
 
-A common strategy is to keep the snake moving along the edges of the screen, creating a predictable path. Another is to use a tight zig-zag pattern to keep the snake's body compact and manageable. Always try to plan your moves ahead of time.
+**¿De dónde viene el juego de la serpiente?**
 
-**Where did the Snake game come from?**
-
-The concept originated with the 1976 arcade game "Blockade," but it became immensely popular after being included on Nokia mobile phones in 1998.
-
+El concepto nació con el arcade "Blockade" de 1976, pero se hizo mundialmente
+famoso al incluirse en los móviles Nokia a finales de los 90.

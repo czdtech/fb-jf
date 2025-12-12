@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-melophobia
-title: '[KO] Incredibox Melophobia'
+title: Incredibox Melophobia 실험적 사운드 모드
 description: >-
-  [KO] Incredibox Melophobia This guide details its eclectic sound palette,
-  featuring chiptune and strange samples, and provides tips for unlocking its
-  bizarre animated bonuses.
+  기괴하고 실험적인 사운드를 전면에 내세운 팬메이드 모드 'Incredibox Melophobia' 가이드입니다. 칩튠·레트로 샘플·노이즈가
+  섞인 독특한 사운드 팔레트와 플레이 팁, 보너스 해금 방법을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1110167821/embed'
 thumbnail: /new-images/incredibox-melophobia.png
 tags:
@@ -17,50 +16,92 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
+*Incredibox Melophobia*는 음악 제작 게임 Incredibox를 바탕으로 한
+초현실·실험 테마의 팬메이드 모드입니다. 제목인 `Melophobia`는 말 그대로
+**“음악에 대한 두려움”**을 뜻하는데, 이름에 걸맞게 전체 테마가
+기묘하고 낯설며 어딘가 불안한 분위기로 가득 차 있습니다.
 
+일반적인 비트박서 대신, 거미처럼 생긴 외눈 괴물, 살아 움직이는
+그래머폰 혼, 가면을 쓴 불길한 인간형 캐릭터 등 상상력이 폭발하는
+존재들이 무대에 등장합니다. 플레이 방식은 여전히 아이콘을 캐릭터에게
+드래그해 올리는 고전 Incredibox 구조지만, 20개의 아이콘이 내는 소리는
+평범한 비트와 멜로디가 아닙니다. **게임보이 아이콘에서 나오는 칩튠,
+낡은 샘플, 기묘한 퍼커션, 실험적인 전자 노이즈**가 뒤섞인
+특이한 사운드 팔레트가 핵심입니다.
 
-### **Incredibox Melophobia Game Introduction**
+이 모드의 목표는 전통적인 곡 구조에서 벗어나 **다른 세계에서 들려오는
+소리 같은 사운드스케이프**를 만들어 보는 것입니다. 숨겨진 보너스
+애니메이션 역시 캐릭터 못지않게 초현실적인 연출로 구성되어 있습니다.
 
-*Incredibox Melophobia* is a highly creative and surreal fan-made mod for the music creation game Incredibox. The name "Melophobia" means "fear of music," which perfectly sets the stage for the mod's **bizarre, experimental, and eclectic theme**.
+### **플레이 전략 & 팁**
 
-The game replaces the usual characters with a cast of strange and imaginative beings, including a one-eyed spider creature, a living gramophone horn, and unsettling humanoid figures with mask-like faces. It utilizes the classic Incredibox drag-and-drop gameplay, but the 20 sound icons unleash a palette of unconventional sounds. The audio library is a unique blend of **chiptune (suggested by the Game Boy icon), old-timey samples, strange percussion, and experimental electronic noises**.
+Melophobia에서는 “이상함”을 두려워하지 않고, 서로 어울릴 것 같지 않은
+소리들을 섞어 의외로 잘 어울리는 조합을 찾는 것이 핵심입니다.
 
-The objective is to encourage players to step outside of traditional music structures and build a unique, otherworldly soundscape. Unlocked animations promising to be just as surreal and imaginative as the characters themselves.
+1. **다채로운 사운드 카테고리 이해하기**  
+   아이콘 모양은 제각각이지만, 기능적으로는 다음과 같이 나눠 볼 수 있습니다.  
+    - **Beats (퍼커션)**: 드럼 머신 스피커, 게(crab), 종(bell)처럼
+     리듬을 만들어 주는 아이콘들입니다. 각각 전혀 다른 질감의
+     타격음을 내므로, 여러 조합을 시도해 보세요.  
+    - **Effects (분위기)**: 기어 모양 아이콘, 리모컨, 불꽃 아이콘 등
+     추상적인 심볼은 대개 질감과 앰비언스를 더하는 이펙트 역할을 합니다.  
+    - **Melodies (리드)**: 게임보이 아이콘은 8비트 칩튠 멜로디를,
+     그래머폰 혼은 빈티지·왜곡된 선율을 들려주는 식으로, 곡의
+     메인 라인을 담당하는 아이콘들입니다.  
+    - **Voices (보컬/기타)**: 사람 형태의 캐릭터에 연결된 아이콘들은
+     기묘하게 가공된 보컬이나, 정체를 정의하기 어려운 음성 샘플을
+     재생하는 경우가 많습니다.
 
-### **Gameplay Strategy & Tips**
+2. **리듬으로 기준점 만들기**  
+   아무리 실험적인 곡이라도, 최소한의 박자가 있으면 듣기 훨씬
+   편합니다. 먼저 비교적 “정상적인” 비트 계열 아이콘을 하나 둘
+   골라 기본 템포를 만든 뒤, 그 위에 기묘한 이펙트와 멜로디를
+   얹어 보세요.
 
-Strategy in *Incredibox Melophobia* is about embracing the weirdness and combining disparate sounds into a surprisingly cohesive whole.
+3. **서로 다른 시대·질감 섞어 보기**  
+   이 모드의 진짜 재미는 **전혀 어울릴 것 같지 않은 소리들을
+   일부러 섞는 것**입니다. 예를 들어 게임보이 칩튠 위에
+   그래머폰 샘플을 올리거나, 노이즈 퍼커션과 몽환적인 드론을
+   동시에 켜 보는 식으로 조합해 보세요. 음악 이론적인 “조화”보다
+   “재미있는 소리”에 초점을 맞추는 편이 좋습니다.
 
-1.  **[KO]** **Understand the Eclectic Sound Categories**: The icons are varied, but they can be functionally grouped.
-    *   **[KO]** **Beats (Percussion)**: Look for icons that provide rhythm. This could be the **drum machine/speaker**, the **crab**, or the **bell**, each likely offering a unique percussive texture.
-    *   **[KO]** **Effects (Atmosphere)**: This category likely includes the more abstract icons that add texture and atmosphere, such as the strange gear-like icon, the remote control, or the fire symbol.
-    *   **[KO]** **Melodies (Leads)**: The core tunes will come from distinct icons like the **Game Boy** (for an 8-bit chiptune melody) or the **gramophone horn** (for a vintage, possibly distorted melody).
-    *   **[KO]** **Voices (Vocals/Other)**: The two human-like characters suggest that some icons will unlock vocal parts, which are likely to be as strange and processed as the rest of the sound palette.
+4. **보너스는 체계적으로 탐색**  
+   다른 모드에 비해 보너스 조합이 직관적이지 않을 수 있습니다.
+   흥미로운 베이스 조합을 몇 개 정해 두고, 남은 슬롯을 하나씩
+   바꿔 가며 시험해 보는 방식으로 천천히 탐색해 보세요.
 
-2.  **[KO]** **Start with a Rhythmic Foundation**: Even in experimental music, a beat can provide a helpful anchor. Try starting with one of the more conventional beat icons to establish a pulse before layering the stranger sounds on top.
+### **조작 가이드**
 
-3.  **[KO]** **Fuse Different Eras and Textures**: The magic of this mod is in its unexpected combinations. Try layering the 8-bit sound of the Game Boy over a jazzy beat from the gramophone horn. The goal is not necessarily harmony, but creating an interesting and unique soundscape.
+조작은 공식 Incredibox와 동일한 드래그 앤 드롭 방식입니다.
 
-4.  **[KO]** **Systematic Bonus Hunting**: The bonus combos might be less intuitive than in other mods. The best approach is to be methodical. Lock in a few core sounds that create an interesting base, then systematically swap out the remaining icons one by one until you trigger a bonus.
+- **사운드 추가**: 하단의 사운드 아이콘을 드래그해 캐릭터 위에
+  올려놓습니다.
+- **사운드 제거**: 하단 활성 아이콘의 `X`를 누르거나, 다른 아이콘을
+  덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나
+  다시 켤 수 있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼을 눌러 해당 캐릭터만 남기고
+  나머지를 모두 뮤트할 수 있습니다.
+- **녹음**: 우측 상단의 녹음 버튼을 눌러 자신만의 기괴한 믹스를
+  녹음·저장할 수 있습니다.
 
-### **Controls Guide**
+### **자주 묻는 질문(FAQ)**
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+**1. 공식 Incredibox 버전인가요?**  
+아니요. *Melophobia*는 커뮤니티에서 만든 **팬메이드 모드**이며,
+공식 개발사 So Far So Good과는 무관합니다.
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** (top right) to start and stop recording your unique creation.
+**2. 어디에서 플레이할 수 있나요?**  
+공식 플랫폼에는 없으며, 보통 **playfiddlebops.com** 같은 모딩 사이트나
+유튜브 소개 영상에서 제공하는 링크를 통해 웹 브라우저로 플레이할 수
+있습니다.
 
-### **Frequently Asked Questions (FAQ)**
+**3. Melophobia 모드만의 특별한 점은 무엇인가요?**  
+이 모드는 “기묘함”과 “실험성”을 전면에 내세운 것이 가장 큰 특징입니다.
+Incredibox 사운드 디자인의 한계를 시험하듯, 예측 불가능하고 독특한
+소리를 마음껏 섞어 볼 수 있기 때문에, 전통적인 곡 구조에서 벗어나
+완전히 새로운 사운드를 만들어 보고 싶은 플레이어에게 특히 잘
+어울립니다.
 
-**1. Is this an official Incredibox version?**
-No. It is a highly imaginative **fan-made mod**. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**2. Where can I play this mod?**
-You will not find it on official platforms. Mods like *Melophobia* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**3. What makes the "Melophobia" mod special?**
-Its main appeal comes from its fearless embrace of the surreal and experimental. It pushes the boundaries of Incredibox's sound design, offering a palette that is bizarre, unpredictable, and ultimately very creative. It's a perfect mod for players who want to create something truly unique and unconventional.

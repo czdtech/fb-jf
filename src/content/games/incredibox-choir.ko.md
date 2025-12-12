@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-choir
-title: '[KO] Incredibox Choir'
+title: Incredibox Choir 합창 모드
 description: >-
-  [KO] Explore the harmonious world of Incredibox Choir, a fan-made mod focusing
-  on vocal arrangements and choral music.
+  음악 제작 게임 Incredibox의 팬메이드 모드인 'Incredibox Choir'를 소개하는 가이드입니다. 합창·아카펠라·클래식 보컬
+  중심의 사운드 팔레트와 플레이 전략, 보너스 해금 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1034584392/embed'
 thumbnail: /new-images/incredibox-choir.png
 tags:
@@ -18,40 +18,66 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox "Choir" Game Introduction**
+*Incredibox Choir*는 음악 제작 게임 Incredibox를 기반으로 한 팬메이드 모드로,
+이름 그대로 **합창·아카펠라·클래식 보컬 사운드**에 초점을 맞춘 버전입니다.
+공식 버전이나 다른 모드와 달리, 비트박서 대신 정식 합창단처럼 보이는
+캐릭터들이 등장하며, 웅장하고 신비로운 성가 느낌의 사운드를 들려줍니다.
 
-*Incredibox Choir* is a highly acclaimed fan-made mod of the music creation game Incredibox. It distinguishes itself from official versions and other mods with its powerful and atmospheric sound palette centered around **choral, acapella, and classical music**.
+플레이 화면은 익숙한 Incredibox 인터페이스를 유지합니다. 플레이어 앞에는
+공연을 기다리는 여러 명의 캐릭터와 20개의 사운드 아이콘이 준비되어 있고,
+아이콘은 **Beats, Effects, Melodies, Voices** 네 가지 카테고리로 나뉘어 있습니다.
+각 아이콘에는 그레고리오 성가, 클래식 화성, 오페라 솔로, 깊은 베이스 보컬 등
+합창 음악에서 따온 소스가 담겨 있습니다.
 
-The game transforms the usual beatboxing crew into a formal choir. Players are presented with the familiar interface: a cast of characters ready to perform and a selection of 20 sound icons. These icons are divided into the standard four categories (Beats, Effects, Melodies, Voices), but are filled with sounds inspired by Gregorian chants, classical harmonies, powerful solo operatic voices, and deep vocal basslines.
+목표는 여전히 “멋진 곡을 만드는 것”이지만, 동시에 **3개의 숨겨진 보너스
+애니메이션 조합**을 찾는 퍼즐 요소도 존재합니다. 보너스 연출 역시 성당 합창
+무대나 장엄한 의식 같은 분위기로 꾸며져, 모드의 장중한 테마를 잘 살려 줍니다.
 
-The gameplay objective remains the creative and puzzle-solving experience Incredibox is known for. Players can freely combine sounds by dragging icons onto the characters to compose their own majestic choral pieces. The challenge lies in discovering the three specific combinations of sounds that unlock the secret animated bonuses, which are thematically designed to fit the grand, almost sacred, atmosphere of the mod.
+### **플레이 전략 & 팁**
 
-### **Gameplay Strategy & Tips**
+이 모드의 전략은 화음을 층층이 쌓아 웅장한 합창을 만드는 것과, 보너스를
+체계적으로 찾는 것에 맞춰져 있습니다.
 
-The strategy for *Incredibox Choir* focuses on layering harmonies and exploring its unique vocal textures to create a cohesive piece and find the bonuses.
+1. **합창 사운드 카테고리 이해하기**  
+    - **Beats (빨간 아이콘)**: 일반 드럼 대신, 깊은 저음 보컬 퍼커션과
+     리드미컬한 베이스 챈트, 묵직한 허밍 등이 리듬 섹션을 담당합니다.  
+    - **Effects (파란 아이콘)**: 성당 잔향처럼 퍼지는 리버브, 코러스 패드,
+     메아리·앰비언스 등 공간감을 만드는 사운드가 들어 있습니다.  
+    - **Melodies (초록 아이콘)**: 테너·알토 계열의 선명한 선율이 중심입니다.
+     후렴처럼 반복되는 패턴이나 귀에 남는 동기가 많습니다.  
+    - **Voices (노란 아이콘)**: 고음 소프라노 솔로, 다성부 합창, 강한 합창
+     클라이맥스 등 트랙의 개성을 결정하는 파트가 모여 있습니다.
 
-1.  **[KO]** **Understand the Choral Categories**:
-    *   **[KO]** **Beats (Red)**: Forget traditional drums. Here, the beats are formed from deep vocal percussion, rhythmic bass chants, and powerful, low-frequency hums that provide a solid foundation.
-    *   **[KO]** **Effects (Blue)**: These add atmospheric layers. Expect to find ethereal vocal pads, reverbs, echoes, and ambient choral textures that create a sense of space and grandeur.
-    *   **[KO]** **Melodies (Green)**: These are the core melodic lines, often performed by clear tenor or alto voices, creating patterns that function like musical hooks.
-    *   **[KO]** **Voices (Yellow)**: This category contains the most prominent and complex vocal performances, including soaring soprano solos, multi-part harmonies, and powerful ensemble passages that define the track's character.
+2. **아래에서 위로 쌓기**  
+   처음에는 1~2개의 Beat 아이콘으로 박자를 잡은 뒤, Effect로 공간을 채우고,
+   그 위에 Melodies와 Voices를 얹어 가며 음악을 완성하는 방식이 안정적입니다.
 
-2.  **[KO]** **Build from the Bottom Up**: A good way to compose is to start with a solid foundation. Begin with one or two "Beat" icons to establish the rhythm. Then, add an "Effect" to create atmosphere. Finally, layer the "Melodies" and "Voices" on top to build your composition.
+3. **불협화음보다 조화 추구하기**  
+   합창 음악 특성상, 일부 아이콘을 동시에 켜면 불협이 날 수도 있습니다.
+   소리가 지나치게 탁하거나 불안하게 느껴지면 과감히 다른 아이콘으로 교체해
+   보세요. 목표는 **힘 있고 통일감 있는 합창**입니다.
 
-3.  **[KO]** **Find Harmony, Not Dissonance**: Due to the nature of choral music, not all sounds will harmonize well together. If a combination sounds off-key or chaotic, don't be afraid to swap out sounds. The goal is to create a powerful, unified chorus.
+4. **보너스는 체계적으로 탐색하기**  
+   마음에 드는 기본 조합을 몇 개 정해 둔 뒤, 남은 슬롯만 하나씩 바꿔 보는 식으로
+   시도하면 3개의 숨겨진 보너스 애니메이션을 찾기 쉬워집니다.
 
-4.  **[KO]** **Systematic Search for Bonuses**: To find the three hidden bonuses, a methodical approach is best. Try locking in a few sounds that you think work well together and then systematically cycle through the remaining icons one by one until you trigger the animation.
+5. **솔로 기능으로 세부 사운드 감상하기**  
+   이 모드는 개별 보컬 퀄리티가 높은 편이라, 솔로 기능을 활용해 각 파트를
+   따로 들어 보면 사운드를 더 잘 이해할 수 있습니다. 어떤 캐릭터가 분위기를
+   잡는 역할인지 파악하는 데도 도움이 됩니다.
 
-5.  **[KO]** **Use Solo to Appreciate the Detail**: The vocal work in this mod is often very detailed. Use the "solo" function to isolate individual voices and appreciate the nuances of each performance. This can also help you understand how each part contributes to the whole.
+### **조작 가이드**
 
-### **Controls Guide**
+조작은 공식 Incredibox와 동일한 직관적인 마우스 기반 인터페이스를 사용합니다.
 
-The controls are identical to the official Incredibox game, relying on simple mouse actions.
-
-*   **[KO]** **Add a Sound**: **Drag** an icon from the bottom panel and **drop** it onto a character.
-*   **[KO]** **Remove a Sound**: Click the "X" on a character's icon at the bottom, or replace it by dragging a new sound onto them.
-*   **[KO]** **Mute / Unmute**: **Click** an active character to silence them. Click again to bring them back into the mix.
-*   **[KO]** **Solo**: Click the **small button** that appears next to a performing character to mute all others.
-*   **[KO]** **Record**: Click the **record button** to start and stop a recording of your current mix.
+- **사운드 추가**: 하단의 사운드 아이콘을 드래그해 캐릭터 위에 올려놓습니다.
+- **사운드 제거**: 하단 활성화된 아이콘의 `X`를 클릭하거나, 다른 아이콘을
+  덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나 다시 켤 수
+  있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼을 눌러 그 캐릭터만 남기고 나머지를 모두
+  뮤트할 수 있습니다.
+- **녹음**: 상단의 녹음 버튼을 눌러 현재 믹스를 녹음·저장할 수 있습니다.
 

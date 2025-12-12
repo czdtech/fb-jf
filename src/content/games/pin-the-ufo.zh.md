@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: pin-the-ufo
-title: '[ZH TRANSLATION NEEDED] Pin the UFO'
-description: >-
-  [ZH TRANSLATION NEEDED] Master the 'pull the pin' puzzle game, Pin the UFO.
-  This guide provides expert strategies for solving levels by pulling pins in
-  the correct order to guide the colorful aliens safely into their spaceship.
+title: 《Pin the UFO》外星人拉针救援
+description: 《Pin the UFO》是一款“拉针解谜”类休闲游戏，你需要按正确顺序拔出各个机关销钉，让彩色外星小球避开炸弹与陷阱，顺利滚入底部的飞碟中。
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
 thumbnail: /new-images/pin-the-ufo.jpeg
 tags:
@@ -18,44 +15,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] *Pin the UFO* is a charming and strategic "pull the pin" puzzle game set in outer space. The primary objective is to **safely guide a group of colorful alien "cubs" into their UFO spaceship at the bottom of the screen.**
+《Pin the UFO》是一款画风可爱的“拉针”物理解谜游戏，舞台设定在外太空。每一关都有一个装着外星小球的容器，被多根金属销钉隔成不同区域，你的目标是通过拔出这些销钉，让所有外星小球在重力作用下依次滚动，最终安全抵达底部的飞碟中。
 
-[ZH TRANSLATION NEEDED] Each level consists of a container holding the aliens, sectioned off by a series of movable pins. The player must analyze the puzzle and pull the pins out in the correct order to release the aliens and let gravity do the rest.
+关卡中通常包含三类关键元素：
+*   **颜色传染：** 部分外星小球一开始是灰白色，只有与彩色同伴接触之后才会被染色，只有被染色的小球滚入飞碟才算成功救援。
+*   **危险机关：** 炸弹、尖刺等陷阱区域一旦与小球接触就会导致关卡失败，因此必须想办法让它们单独掉落到安全区，或让小球绕开这些区域。
+*   **物理流动：** 小球会根据重力和斜坡自然滚动，你需要预先判断在拔掉某根销钉后，小球和炸弹会如何流动与混合。
 
-[ZH TRANSLATION NEEDED] The game introduces several key mechanics:
-*   **Color Spreading**: Some aliens start off colorless (white or grey). They must come into contact with the colored aliens to gain color before they can be collected.
-*   **Obstacles**: Levels often contain hazards like bombs or explosives. The aliens must be kept away from these dangers.
-*   **Physics**: The game is based on simple physics. You must understand how the balls will fall, mix, and flow once a pin is removed.
+难点在于：既要让灰色小球先和彩色小球接触完成“上色”，又要避免它们跌落到炸弹区域，并最终全部进入飞碟。
 
-[ZH TRANSLATION NEEDED] The challenge lies in figuring out the precise sequence of pin-pulls to ensure all colorless aliens are colored, all hazards are avoided, and all aliens successfully reach the UFO.
 
-### **Gameplay Strategy & Tips**
+The challenge lies in figuring out the precise sequence of pin-pulls to ensure all colorless aliens are colored, all hazards are avoided, and all aliens successfully reach the UFO.
 
-1.  **Plan Before You Pull**: This is the most important rule. Do not pull pins randomly. Take a moment to look at the entire setup and mentally trace the path the aliens will take for each possible pin-pull.
-2.  **Color the Grey Aliens First**: Your top priority in most levels is to ensure the colorless aliens mix with the colored ones. Often, you will need to pull a pin that allows the colored aliens to drop down onto the colorless ones *before* you release them all towards the exit.
-3.  **Isolate and Neutralize Bombs**: If there are bombs, the puzzle is usually about finding a way to either drop the bombs into a separate, harmless area, or to release the aliens in a way that they flow around the bombs. Never drop the aliens directly onto bombs.
-4.  **The Order Matters**: The sequence in which you pull the pins is everything. Pulling pin A before pin B might lead to success, while pulling B before A leads to failure. Think of it like a combination lock.
-5.  **Look for Separators**: Some pins are there just to keep things separate (e.g., bombs from aliens, colored aliens from colorless ones). Understand the function of each pin before you remove it.
+- **Physics**: The game is based on simple physics. You must understand how the balls will fall, mix, and flow once a pin is removed.
 
-### **Controls Guide**
+- **Obstacles**: Levels often contain hazards like bombs or explosives. The aliens must be kept away from these dangers.
 
-[ZH TRANSLATION NEEDED] The controls are extremely simple and designed for one-touch mobile gameplay.
+- **Color Spreading**: Some aliens start off colorless (white or grey). They must come into contact with the colored aliens to gain color before they can be collected.
 
-*   **Pull a Pin**: **Click and drag** the pin you want to remove out of its slot. Alternatively, a simple **tap** on the end of the pin often works as well.
+The challenge lies in figuring out the precise sequence of pin-pulls to ensure all colorless aliens are colored, all hazards are avoided, and all aliens successfully reach the UFO.
+### 玩法策略与通关思路
 
-### **Frequently Asked questions (FAQ)**
+1.  **动手前先演算：** 千万不要随机拉针。先观察全局结构，在脑中模拟每拔出一根销钉之后，小球和炸弹会朝哪个方向流动，是否会提前掉入危险区域。
+2.  **优先完成“上色”流程：** 大多数关卡都要求灰色小球先与彩色小球相遇，因此通常要先拉针让彩色小球流向灰色小球所在区域，再一起被导向飞碟，而不是一开始就把灰球直接放下去。
+3.  **隔离并处理炸弹：** 对于带炸弹的关卡，通常需要先通过某根销钉让炸弹单独掉入空仓或无害区域，再释放外星人，避免它们同路而行。
+4.  **顺序决定成败：** 同样的销钉如果拔的顺序不同，结果往往截然相反。把整个关卡想象成“组合锁”，尝试梳理出一条从“上色→去雷→入舱”的稳定路径。
+5.  **认清每根销钉的作用：** 有的销钉只是简单的隔板，有的则是关乎炸弹去向的关键节点。在下手前先明确“这根针拔了之后会改变哪两块区域的连通关系”。
 
-[ZH TRANSLATION NEEDED] **1. Why did I lose the level? All the aliens got to the UFO!**
-[ZH TRANSLATION NEEDED] You likely failed to color all the colorless (grey/white) aliens. Only colored aliens count as being successfully "saved." Make sure every alien has been colored before they enter the spaceship.
+### 操作说明
 
-[ZH TRANSLATION NEEDED] **2. I pulled a pin, and everything exploded. What did I do wrong?**
-[ZH TRANSLATION NEEDED] You allowed the aliens to come into contact with a bomb. The solution to these levels involves finding a way to get rid of the bombs first, or guiding the aliens along a path that safely avoids them.
 
-[ZH TRANSLATION NEEDED] **3. The level seems impossible. What should I do?**
-[ZH TRANSLATION NEEDED] Every level has a specific solution. If you are stuck, try to rethink the order of your pin-pulls. The solution is often counter-intuitive. Consider pulling a pin that doesn't seem to lead directly to the exit, but instead sets up a better flow for the aliens.
+The controls are extremely simple and designed for one-touch mobile gameplay.
+*   **拔出销钉：** 使用鼠标点击并拖动销钉即可将其从槽位中抽出；在触屏设备上则可直接轻触对应销钉完成拔出操作。
 
-[ZH TRANSLATION NEEDED] **4. What is the goal of the game?**
-[ZH TRANSLATION NEEDED] The goal is to successfully solve each puzzle level by getting all the colored aliens into the UFO, progressing through as many levels as possible.
+### 常见问题（FAQ）
 
+**1. 为什么明明所有小球都进了飞碟还是判定失败？**  
+说明仍有灰白小球没有被染色。只有变为彩色的外星小球被成功送进飞碟时才计入完成，小心不要过早把灰球单独放走。
+
+**2. 一拔针炸弹就把所有外星人炸光了怎么办？**  
+你需要先想办法让炸弹独自掉入安全位置，再释放外星人。通常正确解法会先为炸弹打开一条“单人通道”，避免它和小球处于同一流动路径上。
+
+**3. 有些关卡看起来完全无解？**  
+每一关都有固定解法，如果屡次失败，不妨从“反向”思考：先想象最后一步外星人入舱前的局面，再往前推演需要保留或拆开的隔板顺序，往往能找到突破口。
+
+**4. 游戏的最终目标是什么？**  
+目标是在每一关中让所有需要拯救的彩色外星小球（包括被染色后的）安全抵达飞碟，并在不触发炸弹或陷阱的前提下通关尽可能多的关卡。

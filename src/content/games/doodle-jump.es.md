@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: doodle-jump
-title: '[ES] Doodle Jump'
+title: "Doodle Jump"
 description: >-
-  [ES] Doodle Jump is a vertical platformer: bounce between platforms, avoid
-  hazards, and climb as high as possible.
+  Doodle Jump es un juego de plataformas vertical infinito: rebota entre plataformas,
+  esquiva peligros y sube todo lo que puedas.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/doodle-jump.jpg
 tags:
@@ -15,30 +15,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Doodle Jump es un juego de plataformas vertical sin fin en el que tu personaje rebota
+automáticamente hacia arriba. Tu misión es caer siempre sobre plataformas
+seguras, evitar monstruos y tablas rotas y aprovechar los potenciadores (muelles,
+gorro propulsor, jetpacks) para escalar aún más alto.
 
+### Cómo jugar
 
-### Overview
-Endless vertical platformer: bounce upward, land on safe platforms, avoid monsters and broken boards, and use power‑ups (springs, propeller caps, jetpacks) to climb higher.
+- Mantén al doodle centrado y encadena aterrizajes seguros; si caes fuera de la
+  pantalla, la partida termina.
+- Esquiva o elimina enemigos; en algunas versiones puedes tocar/disparar hacia
+  arriba para limpiarlos.
+- Usa con cuidado las plataformas móviles o frágiles y planifica siempre dos
+  saltos por adelantado.
 
-### How to Play
-- Keep the doodler centered and chain safe landings; falling off‑screen ends the run.
-- Eliminate or avoid enemies; some versions allow tapping/shooting upward.
-- Use moving or breakable platforms carefully; plan two steps ahead.
+### Controles
 
-### Controls
-- Left/Right (or tilt on mobile): move; automatic jumping on contact; action/shoot where available.
+- Izquierda/Derecha (o inclinación en móvil): mover al personaje. El salto es
+  automático al tocar plataformas; en algunas versiones hay botón de disparo.
 
-### Tips
-- Favor stable platforms when the screen scrolls quickly.
-- Save high‑impact power‑ups for sparse sections.
-- Wraparound edges to escape traps when supported.
+### Consejos
 
-### FAQ
-- Q: Are levels finite?
-A: No—score rises until you miss a platform or hit a hazard.
-- Q: Do platforms differ?
-A: Yes—static, moving, disappearing/breakable, and trampolines/springs.
-- Q: Are there bosses?
-A: Usually no; it’s a score chase.
+- Cuando el scroll se acelere, prioriza plataformas estables frente a las que
+  desaparecen o se rompen.
+- Guarda los potenciadores más potentes para secciones donde las plataformas estén
+  muy separadas.
+- Si el juego lo permite, aprovecha el efecto de pantalla (salir por un lado
+  y entrar por el otro) para escapar de situaciones peligrosas.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Los niveles tienen final?**  
+  **R:** No. La puntuación aumenta mientras no falles un salto ni choques con un
+  peligro.
+
+- **P: ¿Todas las plataformas son iguales?**  
+  **R:** No. Hay plataformas estáticas, móviles, que desaparecen o se rompen, y
+  trampolines/muelles.
+
+- **P: ¿Hay jefes finales?**  
+  **R:** Normalmente no; el enfoque está en conseguir la máxima puntuación
+  posible.

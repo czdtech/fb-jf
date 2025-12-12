@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: pirates-match-3
-title: '[DE] Pirates Match 3'
+title: Pirates Match 3
 description: >-
-  [DE] Ahoy, matey! Set sail on a puzzle adventure in Pirates Match 3. Swap
-  pirate-themed gems like skulls, anchors, and coins to make matches of three or
-  more and claim your treasure.
+  Ahoi, Matrose! Stürz dich in Pirates Match 3 in ein Piraten-Puzzleabenteuer.
+  Tausche Totenköpfe, Anker, Steuerräder und Münzen, bilde Reihen aus drei oder
+  mehr Symbolen und sichere dir dein Gold.
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/pirates-match-3.jpg
@@ -18,38 +18,63 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Pirates Match 3 ist ein klassisches 3-Gewinnt-Puzzlespiel mit Piratenflair.
+ Du begibst dich in eine Welt aus Schatzkarten und Beute und tauschst bunte,
+ piratige Symbole wie Totenköpfe, Anker, Steuerräder und Münzen. Dein Ziel ist
+ es, Reihen aus drei oder mehr gleichen Symbolen zu bilden, um
+ Level-Aufgaben zu erfüllen – etwa eine bestimmte Punktzahl zu erreichen oder
+ spezielle Felder zu zerstören – und das alles mit begrenzter Anzahl an Zügen.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Power-ups erschaffen:** Schwierige Level meisterst du mit Spezialsteinen,
+    die durch größere Matches entstehen.
+    *   **Match 4:** Erzeugt einen Reihen- oder Spalten-Clears, der eine ganze
+        Linie entfernt.
+    *   **Match 5 (L- oder T-Form):** Erzeugt eine Bombe, die ein großes
+        Gebiet um sich herum sprengt.
+    *   **Match 5 (in einer Reihe):** Erzeugt ein besonderes Symbol (z. B.
+        Schatztruhe), das alle Steine einer Farbe vom Brett räumen kann.
 
-Pirates Match 3 is a classic match-3 puzzle game with a swashbuckling pirate theme. Players dive into a world of treasure maps and pirate booty, swapping colorful, pirate-themed icons like skulls, anchors, ship wheels, and coins. The goal is to create lines of three or more identical items to complete level-specific objectives, such as reaching a target score or clearing special tiles, all within a limited number of moves.
+2.  **Power-ups kombinieren:** Versuche zwei Spezialsteine zu vertauschen. So
+    löst du riesige Kombos aus, die große Teile des Spielfelds auf einmal
+    leeren.
+3.  **Auf das Ziel achten:** Behalte immer im Blick, was das Level verlangt.
+    Musst du Bretter im Hintergrund zerbrechen, konzentriere deine Züge auf
+    diese Felder. Musst du ein Objekt nach unten bringen, räume den Weg direkt
+    darunter frei.
+4.  **Züge planen:** Da deine Züge begrenzt sind, zählt jeder Tausch. Suche nach
+    Matches, die Kettenreaktionen auslösen oder neue Power-up-Kombinationen
+    vorbereiten.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Create Power-ups:** The key to clearing difficult levels is to create special items by matching more than three pieces.
-    *   **[DE]** **Match 4:** Creates a line-clearing item that will destroy an entire row or column.
-    *   **[DE]** **Match 5 (L or T shape):** Creates a bomb that explodes and clears a large area of surrounding items.
-    *   **[DE]** **Match 5 (in a line):** Creates a special item (like a treasure chest) that can clear all items of a single color from the board.
+Das Spiel wird mit Maus oder Touch gesteuert.
 
-2.  **[DE]** **Combine Power-ups:** For maximum effect, try to swap two power-ups with each other. This will trigger a massive board-clearing combo that can help you complete objectives much faster.
-3.  **[DE]** **Focus on the Objective:** Always be aware of the level's goal. If you need to break all the wooden planks in the background, focus your matches on those specific tiles. If you need to drop an item to the bottom, clear the path beneath it.
-4.  **[DE]** **Plan Your Moves:** With a limited number of moves per level, every swap counts. Look for moves that will create a cascade or set up a future power-up combination.
+*   **Symbole tauschen:** Klicke auf ein Symbol und ziehe es auf ein
+    benachbartes. Der Tausch findet nur statt, wenn dabei mindestens ein
+    gültiges 3er-Match entsteht.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game is played with simple mouse or touch controls.
+*   **F: Wie zerstöre ich Holzbretter oder Ketten?**
+    **A:** Du musst direkt über diesen Feldern kombinieren oder die
+    eingeschlossenen Steine in ein Match einbeziehen. Manche Hindernisse
+    benötigen mehrere Treffer.
 
-*   **[DE]** **Swap Items:** Click and drag an item to swap it with an adjacent one. A swap is only valid if it creates a match of three or more.
+    - **F: Welche Power-up-Kombi ist am stärksten?**
+    **A:** Zwei „Match-5-in-einer-Reihe“-Steine zusammen sind meist extrem
+    stark, da sie fast das gesamte Board leeren. Eine Bombe mit einem
+    Reihen-Clear ist ebenfalls sehr mächtig.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Was passiert, wenn mir die Züge ausgehen?**
 
-*   **[DE]** **Q: How do I break the wooden planks or chains?**
-    *   **[DE]** **A:** You must make a match on top of the plank or include the chained item in a match. It may take more than one match to fully clear some obstacles.
+    - **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
 
-*   **[DE]** **Q: What is the best power-up combination?**
-    *   **[DE]** **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
+- **Q: What happens if I run out of moves?**
 
-*   **[DE]** **Q: What happens if I run out of moves?**
-    *   **[DE]** **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
-
+    - **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
+    **A:** Erreichst du das Levelziel nicht, bevor alle Züge verbraucht sind,
+    musst du das Level neu starten.

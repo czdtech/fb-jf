@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: bird-sort-quest
-title: '[FR] Bird Sort Quest'
-description: >-
-  [FR] Bird Sort Quest turns color‑sorting into a soothing challenge — move
-  birds between perches, unify colors, and plan several steps ahead.
-iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
+title: "Bird Sort Quest"
+description: "Bird Sort Quest est un jeu de tri apaisant : déplace les oiseaux d’un perchoir à l’autre pour regrouper les couleurs, tout en gérant les emplacements libres."
+iframeSrc: "https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/"
 thumbnail: /new-images/bird-sort-quest.png
 tags:
   - puzzle
@@ -15,46 +13,53 @@ score: 4.1/5  (2069 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Bird Sort Quest* appartient à la famille des jeux de tri de liquides/objets. Chaque perchoir contient une pile d’oiseaux colorés, et tu dois déplacer un oiseau à la fois pour qu’à la fin chaque perchoir n’accueille qu’une couleur. La difficulté vient des règles strictes : seuls les perchoirs vides ou dont l’oiseau du dessus est de la même couleur peuvent recevoir un oiseau, et les emplacements libres sont limités. Il faut donc utiliser certains perchoirs comme tampons temporaires pour « garer » des oiseaux pendant que tu réorganises les autres.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1. **Garde un perchoir tampon**  
+   Essaie de conserver au moins un perchoir vide pour servir de zone de rangement temporaire, sinon tu te retrouves vite bloqué.
 
-Bird Sort Quest is a calm logic puzzle in the family of liquid/sort games. Each perch holds a stack of colorful birds. Move one bird at a time so that every perch ends up with birds of a single color. The challenge comes from limited free perches and the rule that only a matching color (or empty slot) can accept a moved bird, forcing you to plan buffers and temporary parking.
+2. **Construis les piles couleur par le bas**  
+   Quand tu consacres un perchoir à une couleur, commence par stabiliser le bas de la pile avec la bonne couleur puis complète doucement par le dessus.
 
-### Gameplay Strategy & Walkthrough
+3. **Évite d’enterrer les « singletons »**  
+   Si une couleur n’apparaît que peu de fois, ne la coince pas sous un mélange d’autres oiseaux. Remonte tôt ces oiseaux rares pour pouvoir les regrouper.
 
-1.  **[FR]** Reserve buffers: Keep at least one empty perch as a flexible buffer for shuffling.
-2.  **[FR]** Build from bottom: Stabilize stacks by finishing a color on a dedicated perch starting from the bottom.
-3.  **[FR]** Avoid burying singles: Don’t trap unique colors under mixed stacks; surface them early.
-4.  **[FR]** Two‑move foresight: Before moving, simulate the next two placements to avoid softlocks.
-5.  **[FR]** Consolidate mid‑game: Merge partial stacks of the same color as soon as feasible to free perches.
-6.  **[FR]** Backtrack quickly: If a move increases disorder, undo and try a different route while buffers are intact.
+4. **Anticipe deux coups à l’avance**  
+   Avant de déplacer un oiseau, demande‑toi où tu poseras le suivant. Un mouvement qui semble bon sur le moment peut bloquer une autre couleur si tu ne regardes pas plus loin.
 
-### Controls Guide
+5. **Fusionne les demi‑piles dès que possible**  
+   Si tu as plusieurs perchoirs avec la même couleur en haut, essaie de les rassembler sur un seul pour libérer des emplacements.
 
-- Select a perch to pick the top bird, then select the destination perch.
-- Undo/Reset if the mode offers it; hints are best saved for late puzzles.
+6. **Reviens en arrière dès que ça se dégrade**  
+   Si un déplacement aggrave le désordre ou supprime ton dernier tampon, annule immédiatement et teste une autre séquence pendant qu’il reste de la marge.
 
-### Frequently Asked Questions (FAQ)
+### Commandes
 
-- Q: I’m stuck with no legal moves — what should I do?
+- Clique/tape sur un perchoir pour prendre l’oiseau du dessus, puis clique/tape sur le perchoir de destination pour le déposer.  
+- Utilise les boutons d’annulation ou de réinitialisation si le jeu les propose pour corriger un mauvais choix.
 
-A: Backtrack a few moves and reopen a buffer perch. Prioritize surfacing buried singles to create new legal placements.
+### Foire aux questions (FAQ)
 
-- Q: Is there a guaranteed strategy for every level?
+*   **Q : Je n’ai plus aucun coup possible, que faire ?**
 
-A: Not always, but maintaining at least one buffer and consolidating partial stacks early solves most layouts.
+    A : Reviens quelques déplacements en arrière pour rouvrir un perchoir libre. Fais remonter les oiseaux isolés avant qu’ils ne restent coincés sous des piles mixtes.
 
-- Q: Should I finish one color completely before touching others?
+*   **Q : Tous les niveaux sont‑ils solvables ?**
 
-A: It’s efficient to lock in a finished color when convenient, but don’t force it if it consumes all buffers.
+    A : La majorité oui, mais ils exigent souvent une gestion rigoureuse des tampons. Maintiens au moins un perchoir vide et fusionne vite les piles partielles.
 
-- Q: Are extra perches ever added?
+*   **Q : Faut‑il terminer une couleur avant d’en commencer une autre ?**
 
-A: Some sets introduce bonus perches on tougher stages—use them as temporary parking to simplify.
+    A : C’est pratique quand l’occasion se présente, mais inutile de sacrifier tous tes tampons pour y parvenir. Stabilise les couleurs dès que possible sans te priver de flexibilité.
 
-- Q: Do move counts matter?
+*   **Q : Y a‑t‑il des perchoirs supplémentaires dans certains niveaux ?**
 
-A: In some modes yes; aim for minimal moves by reducing unnecessary shuffles.
+    A : Les étapes avancées offrent parfois un ou deux perchoirs bonus. Utilise‑les comme garages temporaires pour simplifier les permutations complexes.
 
+*   **Q : Le nombre de mouvements compte‑t‑il ?**
+
+    A : Certains modes notent ton efficacité. Réduis les allers‑retours inutiles pour conserver un score d’étoiles élevé.

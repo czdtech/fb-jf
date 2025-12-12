@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fairyland
-title: '[ZH TRANSLATION NEEDED] Fairyland'
+title: "Fairyland 精靈小鎮解謎之旅"
 description: >-
-  [ZH TRANSLATION NEEDED] Fairyland is a gentle puzzle adventure — explore cozy
-  scenes, solve light puzzles, and complete objectives at a restful pace.
+  Fairyland 是一款氣氛溫柔的解謎冒險遊戲，在溫馨場景中慢慢探索、解開輕量謎題，
+  以悠閒步調完成各種小目標。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/fairyland.png
 tags:
@@ -18,31 +18,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Fairyland is a low‑stress adventure filled with collectible tasks, simple environmental puzzles, and whimsical scenes. You’ll search for hidden objects, activate switches in the right order, escort little critters, and occasionally complete mini‑games. Progress across compact chapters while enjoying exploration rather than combat.
+《Fairyland》是一段幾乎沒有壓力的輕旅程，充滿可收集的小任務、簡單的環境謎題
+與童話感十足的場景。你會在風景各異的畫面中尋找隱藏物品、按照正確順序啟動機關，
+護送小生物到達目的地，偶爾還會遇到小型迷你遊戲。整體以小章節推進，比起戰鬥，
+更強調「探索」與「發現」本身的樂趣。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Sweep methodically: Clear one scene at a time; zoom or pan for small interactables.
-2.  [ZH TRANSLATION NEEDED] Clue notebooks: Note symbol sequences and color orders for later doors.
-3.  [ZH TRANSLATION NEEDED] Optional tasks: Complete side objectives to unlock cosmetic rewards/hints.
-4.  [ZH TRANSLATION NEEDED] Route planning: If a scene has backtracking, collect items along a loop to minimize travel.
-5.  [ZH TRANSLATION NEEDED] Mini‑game focus: Read rules carefully — many allow quick retries without penalty.
+
+1.  **有條理地掃場景：** 建議一個畫面一個畫面慢慢清，利用縮放或拖動畫面，
+    仔細檢查角落裡那些細小的可互動物件。
+2.  **記錄線索：** 遇到符號順序、顏色排列等線索時，不妨用紙筆或心中記下，
+    之後開門或解鎖機關時通常都會用到。
+3.  **完成額外任務：** 遊戲中常有支線目標，完成後可能解鎖裝飾、收集品或額外提示，
+    對後續解謎也有幫助。
+4.  **規劃路徑：** 若某些區域需要來回跑，試著用「繞圈」方式收集道具，
+    一趟路順便完成多個目標，減少重複走回頭路的時間。
+5.  **專心看懂迷你遊戲：** 每個小遊戲在開始前都會先簡單說明規則，
+    先看懂再動手，反而能更快通關；大多數迷你遊戲都可無限重試，失敗也不太會懲罰你。
 
 ### Controls Guide
 
-- Click/tap to interact, drag for items or sliders, hold for long presses when needed.
-- Menu provides hints/logbook if available.
+- 點擊或輕觸即可與物件互動；
+- 某些道具或拉桿需要拖曳操作；
+- 少數機關可能需要長按或持續按住一段時間；
+- 若有提供選單，可在其中查看提示或筆記紀錄。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I’m stuck — what should I do?
-  
-[ZH TRANSLATION NEEDED]   A: Revisit prior scenes for missed interactables, review notebooks, and try interacting with environmental decorations.
+- 問：卡關的時候該怎麼辦？  
+  答：可以回到前面的場景，檢查是否漏掉了可互動物件，
+  再翻翻自己的線索記錄，或嘗試點擊看起來只是裝飾的小元素，
+  很多謎題的關鍵都藏在細節裡。
 
-- Q: Are there fail states?
-  
-[ZH TRANSLATION NEEDED]   A: Rarely; most puzzles allow infinite retries and gentle hints.
+- 問：遊戲會有失敗或 Game Over 嗎？  
+  答：幾乎沒有真正的失敗狀態，大部分謎題與迷你遊戲都可以無限重試，
+  有的還會給出溫和的提示，整體節奏偏向放鬆。
 
-- Q: How long is a chapter?
-  
-[ZH TRANSLATION NEEDED]   A: Short — built for quick sessions; multiple chapters add up to a relaxing journey.
-
+- 問：每一章大概有多長？  
+  答：單一章節偏短，適合利用零碎時間完成；多個章節串起來，
+  會是一段舒緩又療癒的完整小旅程。

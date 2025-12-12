@@ -1,13 +1,12 @@
 ---
 locale: de
 urlstr: monkey-mart
-title: '[DE] Monkey Mart'
+title: "Monkey Mart"
 description: >-
-  [DE] Monkey Mart is a charming and addictive simulation game where players
-  manage a supermarket run by adorable monkeys, harvesting crops, stocking
-  shelves, and serving customers to grow their business.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
+  Monkey Mart ist eine charmante Supermarkt-Simulation, in der du einen Laden
+  voller Affen leitest: Ernte Feldfrüchte, befülle Regale, bediene Kundschaft
+  und lass dein Geschäft wachsen.
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm'
 thumbnail: /new-images/monkey-mart.jpg
 tags:
   - simulation
@@ -18,34 +17,61 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+Monkey Mart ist eine niedliche, leicht zugängliche Supermarkt-Simulation. Du
+leitest einen Markt, der von Affen betrieben wird: Du erntest Feldfrüchte,
+verarbeitest sie zu Produkten, bestückst die Regale und bedienst Kund:innen, um
+Gewinn zu machen und deinen Laden zu erweitern. Mit der Zeit schaltest du neue
+Produkte frei, rüstest Maschinen auf und stellst weitere Affen als Personal ein.
 
+### Spielstrategie
 
-### Game Introduction
+1.  **Pflanzen & Ernten**  
+    Baue Bananen, Mais und andere Feldfrüchte an und ernte sie, sobald sie
+    reif sind.
 
-"Monkey Mart" is a charming and addictive simulation game where players manage a supermarket run by adorable monkeys. In the game, you need to harvest crops, produce goods, stock shelves, and serve customers to grow and expand your supermarket business. As the game progresses, you can unlock new products, upgrade equipment, and hire more monkey employees to improve efficiency.
+2.  **Produzieren**  
+    Verarbeite deine Ernte zu Produkten wie Bananenmilch oder Cornflakes, indem
+    du sie an die richtigen Maschinen bringst.
 
-### Gameplay Strategy
+3.  **Regale befüllen**  
+    Stelle fertige Produkte ins Verkaufsregal, damit Kund:innen sie kaufen
+    können.
 
-1.  **[DE]** **Plant and Harvest**: Plant crops like bananas and corn in the fields, and harvest them promptly when ripe.
-2.  **[DE]** **Produce Goods**: Process harvested crops into various products, such as banana milk and cornflakes.
-3.  **[DE]** **Stock Shelves**: Place the prepared goods on the supermarket shelves for customers to purchase.
-4.  **[DE]** **Serve Customers**: Customers will come to buy products; you need to respond quickly to ensure their satisfaction.
-5.  **[DE]** **Upgrade and Expand**: Use earned coins to upgrade farmlands, production equipment, and supermarket facilities, unlock new products, and expand the supermarket's size.
+4.  **Kundschaft bedienen**  
+    Reagiere zügig auf neue Kund:innen, damit sie nicht zu lange warten und
+    zufrieden bleiben.
 
-### How to Play
+5.  **Aufrüsten & Erweitern**  
+    Investiere verdiente Münzen in größere Felder, schnellere Maschinen,
+    zusätzliche Regale und neue Abteilungen, um Umsatz und Effizienz zu
+    steigern.
 
-*   **[DE]** **Movement**: Use the virtual joystick or keyboard arrow keys to control your monkey character's movement.
-*   **[DE]** **Interaction**: When near crops, production equipment, or shelves, your character will automatically perform planting, crafting, or restocking actions.
-*   **[DE]** **Tap/Click**: Tap on screen icons to perform actions like upgrading, hiring employees, etc.
+### Steuerung
 
-### Frequently Asked Questions
+*   **Bewegen:** Mit virtuellem Joystick oder Pfeiltasten/WASD steuerst du
+    deinen Affen.  
+*   **Interaktion:** In der Nähe von Feldern, Maschinen oder Regalen arbeitet
+    dein Affe automatisch – erntet, produziert oder räumt ein.  
+*   **Tippen/Klicken:** Über Symbole auf dem Bildschirm kannst du Upgrades
+    kaufen, Personal einstellen und neue Bereiche freischalten.
 
-1.  **[DE]** **Q: How can I earn money quickly in the game?**
-**A**: The key to earning money quickly is efficient production and fast customer service. Prioritize upgrading production lines and expanding shelves to ensure a sufficient supply of goods.
-2.  **[DE]** **Q: How do I unlock new products?**
-**A**: New crops and manufactured products can be gradually unlocked by upgrading production equipment and expanding the supermarket's scale.
-3.  **[DE]** **Q: What are the benefits of hiring employees?**
-**A**: Hiring employees can automate parts of the work, such as harvesting, crafting, or restocking shelves, thereby improving the overall operational efficiency of the supermarket.
-4.  **[DE]** **Q: Is there a time limit in the game?**
-**A**: The game usually does not have a strict time limit, allowing players to manage at their own pace, but some tasks or challenges might have time requirements.
+### FAQ
+
+1.  **F: Wie verdiene ich schnell Geld?**  
+    **A:** Halte deine Produktionsketten am Laufen und bediene Kund:innen ohne
+    große Wartezeiten. Upgrades für Produktionslinien und Regale haben hohe
+    Priorität.
+
+2.  **F: Wie schalte ich neue Produkte frei?**  
+    **A:** Durch Upgrades an Maschinen und das Erweitern deines Markts erhältst
+    du Zugang zu weiteren Rezepten und Waren.
+
+3.  **F: Wozu dienen zusätzliche Angestellte?**  
+    **A:** Sie automatisieren Teile der Arbeit – etwa Ernte, Produktion oder
+    das Auffüllen der Regale – und erhöhen damit massiv die Effizienz.
+
+4.  **F: Gibt es ein Zeitlimit?**  
+    **A:** In der Regel nicht. Du kannst in deinem eigenen Tempo spielen; nur
+    einige Aufgaben oder Events können zeitgebunden sein.

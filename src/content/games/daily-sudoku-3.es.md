@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: daily-sudoku-3
-title: '[ES] Daily Sudoku'
+title: "Daily Sudoku"
 description: >-
-  [ES] A new Sudoku puzzle every day to challenge your logic. Fill the 9x9 grid
-  so each row, column, and 3x3 box contains the digits 1 to 9 without
-  repetition.
+  Un nuevo Sudoku cada día para retar tu lógica. Rellena la cuadrícula 9x9 de
+  forma que cada fila, columna y subcuadrícula 3x3 contenga los dígitos del 1 al
+  9 sin repetir.
 iframeSrc: >-
   https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
 thumbnail: /new-images/daily-sudoku-3.jpg
@@ -18,35 +18,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Daily Sudoku te ofrece un Sudoku clásico nuevo cada día. Es un puzle de
+lógica y colocación de números conocido en todo el mundo. El objetivo es llenar
+una cuadrícula de 9x9 con dígitos de manera que cada fila, cada columna y cada
+subcuadrícula 3x3 contenga todos los números del 1 al 9. No necesitas saber
+matemáticas: solo lógica, paciencia y concentración.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every single day. Sudoku is a world-renowned logic-based, number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9. It's a pure logic puzzle that requires no calculation or mathematical skills, only patience and concentration.
+1.  **Regla básica:** La regla de oro es sencilla: del 1 al 9, una sola vez por
+    fila, una sola vez por columna y una sola vez por cada caja 3x3.
+2.  **Escaneo (cross‑hatching):** Técnica básica. Elige una casilla vacía y mira
+    qué números ya aparecen en su fila, columna y caja. Por eliminación, a
+    menudo queda solo un candidato posible.
+3.  **Anotaciones (pencil marks):** En sudokus más difíciles, usa el modo
+    "notas". En una casilla vacía escribe todos los números que podrían ir ahí.
+    A medida que completas otras casillas, podrás ir tachando candidatos hasta
+    que quede uno solo.
+4.  **Singles desnudos (naked singles):** Cuando una casilla solo tiene un
+    candidato posible en sus notas, escríbelo de inmediato.
+5.  **Singles ocultos (hidden singles):** Si un número solo aparece una vez en
+    las notas de una fila, columna o caja 3x3, debe ir en esa casilla concreta,
+    aunque tenga otros candidatos anotados.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **The Basic Rule:** The golden rule of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box.
-2.  **[ES]** **Scanning (Cross-hatching):** The most basic solving technique. Pick an empty cell. Look at its row, column, and 3x3 box to see which numbers are already used. By process of elimination, you can often find the only possible number for that cell.
-3.  **[ES]** **Penciling In (Notes):** For more difficult puzzles, use the "notes" or "pencil" feature. In an empty cell, enter all the possible numbers that could legally go there. As you fill in other cells, you can eliminate candidates from your notes, eventually leaving only one possibility.
-4.  **[ES]** **Look for "Naked Singles":** This is when a cell has only one possible candidate number left in its notes. Fill that number in immediately.
-5.  **[ES]** **Look for "Hidden Singles":** This is when a candidate number appears only once within the notes of a specific row, column, or 3x3 box. Even if the cell itself has other candidates, that number must go in that cell for that specific row/column/box.
+*   **Seleccionar casilla:** Haz clic en cualquier casilla vacía del 9x9.
+*   **Introducir número:** Tras seleccionar una casilla, pulsa una tecla
+    numérica o haz clic en el número del panel para colocarlo.
+*   **Modo notas:** Usa el botón de notas (normalmente con icono de lápiz) para
+    alternar entre modo respuesta y modo candidatos. En modo notas, los números
+    aparecen pequeños.
+*   **Borrador:** Usa la herramienta de borrar para limpiar una casilla o sus
+    anotaciones.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Select a Cell:** Click on any empty cell in the 9x9 grid.
-*   **[ES]** **Enter a Number:** After selecting a cell, click on a number from the on-screen number pad to place it in the cell.
-*   **[ES]** **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
-*   **[ES]** **Eraser:** Use the eraser tool to clear a number or notes from a cell.
+*   **P: ¿Hay que ser bueno en matemáticas para jugar al Sudoku?**
+    *   **R:** No. Es un puzle de lógica pura. Podrías usar símbolos en
+        lugar de números; el reto está en los patrones y en la deducción.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué pasa si pongo un número incorrecto?**
+    *   **R:** La mayoría de versiones digitales, incluida esta, marcan los
+        conflictos al instante (por ejemplo, en rojo), para que puedas
+        corregirlos.
 
-*   **[ES]** **Q: Do I need to be good at math to play Sudoku?**
-    *   **[ES]** **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
-
-*   **[ES]** **Q: What happens if I enter a wrong number?**
-    *   **[ES]** **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-
-*   **[ES]** **Q: Why should I use the "Notes" feature?**
-    *   **[ES]** **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-
+*   **P: ¿Cuándo conviene usar el modo "notas"?**
+    *   **R:** En los sudokus de dificultad media y alta es casi imprescindible.
+        Te permite trabajar de forma estructurada sin depender de la memoria.

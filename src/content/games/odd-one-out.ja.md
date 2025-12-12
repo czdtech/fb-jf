@@ -1,66 +1,44 @@
 ---
-locale: ja
+title: Odd One Out
+description: Odd One Outは観察パズルゲームです。異なるアイテムを見つけ、パターンを識別し、素早く考え、鋭い目をテストします。
+iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/3m5k7j9h2p8n8/'
+thumbnail: /new-images/odd-one-out.png
 urlstr: odd-one-out
-title: '[JA TRANSLATION NEEDED] Odd One Out'
-description: >-
-  [JA TRANSLATION NEEDED] Find the item that doesn't belong in the group in Odd
-  One Out, a game that tests your observation and critical thinking skills.
-iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
-thumbnail: /new-images/odd-one-out.jpg
+score: 4.1/5  (1834 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.0/5 (987 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Odd One Outは、アイテムのグループから異なるものを見つけることに挑戦します。各レベルは、わずかに異なるまたは異なるカテゴリに属する1つのアイテムのセットを提示します。観察スキルと素早い思考をテストします。
 
-[JA TRANSLATION NEEDED] Odd One Out is a puzzle game that challenges your observation and categorization skills. In each level, you are presented with a group of items, and your task is to identify the one that doesn't fit with the others based on a certain rule or category.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **素早くスキャン:** すべてのアイテムを素早く見ます。
+2.  **パターンを探す:** 色、形、サイズの違いに注意してください。
+3.  **カテゴリーを考える:** アイテムが属するグループ。
+4.  **時間を管理:** 素早いですが、正確です。
+5.  **練習:** 繰り返しが観察を改善します。
 
-[JA TRANSLATION NEEDED] 1.  **Examine the Items:** Carefully look at all the items presented in the group.
-[JA TRANSLATION NEEDED] 2.  **Find the Connection:** Determine the common characteristic that most of the items share. This could be color, shape, size, category (like fruits or animals), or another attribute.
-[JA TRANSLATION NEEDED] 3.  **Identify the Odd One:** The item that does not share this common characteristic is the "odd one out."
-[JA TRANSLATION NEEDED] 4.  **Select the Item:** Click or tap on the item you believe is the odd one out to proceed to the next level.
+### 操作ガイド
 
-### Controls Guide
+- 異なるアイテムをクリック/タップして選択します。
+- 時間制限内に見つけます（該当する場合）。
+- 次のレベルに進みます。
 
-*   **Mouse/Touch:** Use the mouse or touch screen to select the item that you think is the odd one out.
-    - **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.（日本語訳が必要）
-    - **A:** This can vary, but often these games are more about thinking and observation than speed.（日本語訳が必要）
-    - **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.（日本語訳が必要）
-    - **A:** This can vary, but often these games are more about thinking and observation than speed.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What if I'm stuck?**
-[JA TRANSLATION NEEDED]     *   **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.
-*   **Q: Is there a time limit?**
-
-
-
-
-
-
-
+- **Q: 違いの種類は何ですか？**  
+  A: 色、形、サイズ、カテゴリー、パターン。
+    - **Q: タイムリミットはありますか？**  
+  A: 多くのレベルには時間制限があります。
+- **Q: 間違えた場合はどうなりますか？**  
 
     - **A:** This can vary, but often these games are more about thinking and observation than speed.
-- **Q: Is there a time limit?**
-    - **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.
-- **Q: What if I'm stuck?**
-### よくある質問（FAQ）
-- **Mouse/Touch:** Use the mouse or touch screen to select the item that you think is the odd one out.
-### コントロールガイド
-- **Select the Item:** Click or tap on the item you believe is the odd one out to proceed to the next level.
-
-
-
-    - **A:** This can vary, but often these games are more about thinking and observation than speed.
-- **Q: Is there a time limit?**
-    - **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.
-[JA TRANSLATION NEEDED]     *   **A:** This can vary, but often these games are more about thinking and observation than speed.
-
+  A: 通常、時間ペナルティまたは即座の失敗。

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: tile-puzzle
-title: '[ES] Tile Puzzle'
+title: Tile Puzzle - Rompecabezas de fichas modernas
 description: >-
-  [ES] A relaxing and strategic puzzle game. Find and select three identical
-  tiles to clear them from the board. Plan your moves carefully to avoid filling
-  up your collection tray.
+  Tile Puzzle es un rompecabezas relajante y estratégico: encuentra y selecciona
+  tres fichas idénticas para eliminarlas del tablero y planifica cada jugada
+  para no desbordar la bandeja de colección.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/tile-puzzle.jpg
 tags:
@@ -16,34 +16,30 @@ score: 4.4/5  (2300 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Tile Puzzle es un rompecabezas actual de combinación de fichas que exige planificación y buena lectura del tablero. Tu objetivo es vaciar un conjunto de fichas con distintos patrones. Cada ficha que seleccionas baja a la bandeja inferior; cuando se juntan tres iguales, se eliminan y liberan espacio. Ganar significa limpiar el tablero por completo, pero si llenas la bandeja, pierdes.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  Piensa antes de tocar: la bandeja suele tener solo siete casillas. Antes de seleccionar una ficha, decide qué papel jugará; no pulses al azar esperando tener suerte.
+2.  Destapa nuevas fichas: prioriza las combinaciones que destapen la mayor cantidad posible de fichas ocultas. A veces conviene esperar con un trío fácil si no revela nada interesante.
+3.  Usa la bandeja como reserva: puedes guardar fichas que aún no formen trío. Si hay una ficha bloqueada que necesitas, mueve otras a la bandeja para liberar el camino mientras mantienes abiertas tus opciones.
+4.  Detecta fichas atrapadas: fíjate en los casos en los que una ficha está justo encima de otra del mismo tipo. Tendrás que eliminar primero la de arriba, lo que implica encontrar sus dos parejas mientras la inferior sigue bloqueada.
 
-Tile Puzzle is a modern and engaging tile-matching game that challenges your planning and strategic skills. The goal is to clear a board stacked with various patterned tiles. You do this by selecting a tile and sending it to a collection tray at the bottom. When you have three identical tiles in the tray, they match and disappear, freeing up space. You must clear the entire board to win, but be careful—if you fill the tray completely, you lose!
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+El control es muy sencillo:
 
-1.  **[ES]** **Think Before You Tap:** The collection tray has a very limited capacity (usually seven slots). Before you tap a tile, have a plan for it. Don't just tap random tiles hoping for the best.
-2.  **[ES]** **Uncover New Tiles:** Your primary goal should be to make matches that uncover the most new tiles. Sometimes it's better to hold off on an easy match if it doesn't reveal any new, useful tiles underneath.
-3.  **[ES]** **Use the Tray as a Temporary Hold:** You can place tiles in the tray that don't yet form a match. Use this to your advantage. If you need a specific tile that is currently blocked, you can move other tiles into the tray to hold them while you work on freeing up the one you need.
-4.  **[ES]** **Identify Trapped Tiles:** Look for situations where one tile type is stacked directly on top of another of the same type. You will need to clear the top one first, which means you'll need to find its two other partners while the one below remains blocked.
+*   **Seleccionar ficha:** haz clic en cualquier ficha no sombreada (es decir, que no esté cubierta por otra) para enviarla a la bandeja en la parte inferior de la pantalla.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The game is played with simple clicks or taps.
+*   **Q: ¿Cuál es el objetivo principal?**
+    *   **A:** Vaciar el 100 % de las fichas del tablero reuniéndolas en grupos de tres en la bandeja.
 
-*   **[ES]** **Select a Tile:** Click on any tile that is not grayed out (i.e., not covered by another tile) to move it to the collection tray at the bottom of the screen.
+*   **Q: ¿Por qué algunas fichas están grises y no se pueden seleccionar?**
+    *   **A:** Una ficha solo se puede elegir cuando no hay ninguna otra superpuesta por encima. Primero tienes que retirar las fichas de la capa superior.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What is the main objective?**
-    *   **[ES]** **A:** To clear 100% of the tiles from the board by collecting them in sets of three in your tray.
-
-*   **[ES]** **Q: Why are some tiles gray and unclickable?**
-    *   **[ES]** **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
-
-*   **[ES]** **Q: What happens if the tray fills up?**
-    *   **[ES]** **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
-
+*   **Q: ¿Qué pasa si se llena la bandeja?**
+    *   **A:** Si se ocupan las siete casillas y no has completado ningún trío, te quedas sin movimientos y la partida termina.

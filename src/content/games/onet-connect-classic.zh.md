@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: onet-connect-classic
-title: '[ZH TRANSLATION NEEDED] Onet Connect Classic'
-description: >-
-  [ZH TRANSLATION NEEDED] Test your speed and perception in Onet Connect
-  Classic. Find pairs of identical tiles and clear the board by connecting them
-  with a path of no more than two turns before time runs out!
+title: 《Onet Connect Classic》经典连连看
+description: 在《Onet Connect Classic》中测试你的眼力与速度！在时间耗尽前，找出并消除所有可以通过不超过两次转弯连接的相同图案方块，清空整个棋盘。
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/onet-connect-classic.png
 tags:
@@ -18,37 +15,39 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Onet Connect Classic is a fast-paced and addictive tile-matching puzzle game, often referred to as a "link-up" game. The objective is to clear a board filled with colorful tiles (often featuring animals, fruits, or other cute icons) by finding and connecting pairs of identical tiles. Unlike Mahjong Solitaire, the challenge comes from the connection rules and a ticking clock, requiring both sharp eyes and quick thinking to clear the board before time expires.
+《Onet Connect Classic》是一款节奏明快的连连看消除游戏。棋盘上布满各种可爱的图案方块（常见有动物、水果等），你的目标是在倒计时结束前，通过“连线规则”找到并消除所有成对的相同图案。与传统麻将连连看类似，但本作更强调连线路径的规划以及在时间压力下的眼力与反应，是一款非常适合碎片时间挑战的小品益智游戏。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Connection Rule:** This is the most important concept. You can only remove a pair of identical tiles if the path between them is clear and can be drawn with a line that has **no more than two 90-degree turns**. This means the path can be:
-    * [ZH TRANSLATION NEEDED] A straight line (zero turns).
-    * [ZH TRANSLATION NEEDED] An "L" shape (one turn).
-    * [ZH TRANSLATION NEEDED] A "Z" or "U" shape (two turns).
-2.  [ZH TRANSLATION NEEDED] **Scan the Edges First:** The easiest matches to spot are usually around the perimeter of the board, as they have more open space around them. Start by scanning the edges for adjacent pairs or pairs that can be connected with a simple straight line.
-3.  [ZH TRANSLATION NEEDED] **Think Ahead:** When you clear a pair, it opens up new paths for other tiles. Try to make matches that will free up the most critical areas of the board, rather than just the first pair you see.
-4.  [ZH TRANSLATION NEEDED] **Use Your Tools:** Don't be afraid to use hints and shuffles when you get stuck.
-    * [ZH TRANSLATION NEEDED] **Hints:** The hint button will show you one possible valid match.
-    * [ZH TRANSLATION NEEDED] **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
-5.  [ZH TRANSLATION NEEDED] **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **理解连线规则：** 只有当两块相同图案之间可以画出一条不超过两次 90° 转弯的连线（即最多三段折线）且路径上没有其他方块阻挡时，才能成功消除。常见合法路径包括：
+    *   直线连接（0 次转弯）；
+    *   “L” 型折线（1 次转弯）；
+    *   “Z” 形或“U” 形路径（2 次转弯）。
+2.  **优先扫描边缘：** 棋盘边缘附近通常更容易形成直线或简单折线连接，可以先从外围开始找起，既好判断，又能迅速打开局面。
+3.  **考虑后续空间：** 每消除一对方块都会改变棋盘结构，尽量优先消除那些能打开大块空白区域的组合，为后续连线创造更多可能，而不仅仅是看到什么就点什么。
+4.  **合理使用提示与洗牌：** 卡关时可以使用提示功能高亮一组可消除的方块；当实在找不到任何组合时，洗牌可以打乱剩余方块的位置，重新生成可行路径。两者通常次数有限，建议在时间紧张时再使用。
+    - **时刻盯住计时条：** 每一关都有时间限制，保持稳定的“节奏消除”比盯着一个难找的组合死磕更划算——先把容易的全部消掉，再慢慢处理难点。
 
-[ZH TRANSLATION NEEDED] The game is played entirely with the mouse or by tapping.
 
-*   **Select Tiles:** Click on a tile to select it.
-*   **Connect Pair:** Click on a second, identical tile. If the path between them is valid, both tiles will be removed from the board.
+    - **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
 
-### Frequently Asked Questions (FAQ)
+- **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
+### 操作说明
 
-*   **Q: Why can't I connect two identical tiles?**
-     *   **A:** There are two possible reasons: 1) The path between them is blocked by another tile, or 2) The path required to connect them would need more than two 90-degree turns.
+本作完全通过点击/触控操作完成：
 
-*   **Q: What happens when I run out of time?**
-     *   **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
+*   **选择方块：** 点击任意一块图案以选中它；
+*   **连接与消除：** 再点击另一块相同图案的方块，如果系统判定两者之间存在合法连线路径，这一对方块就会被同时消除。
 
-*   **Q: Is there a penalty for using hints?**
-     *   **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
+### 常见问题（FAQ）
 
+*   **问：明明是相同图案，为什么点了却不能消除？**
+    *   **答：** 通常是因为两块之间的连线路径被其他方块阻挡，或者需要的折线次数超过了两次。可以尝试从别的方向绕路，或先消除挡在路上的其他组合。
+
+*   **问：时间到了但棋盘还没清空会怎样？**
+    *   **答：** 计时结束前若仍有方块未消除，本关就会失败，需要重新挑战这一关卡。
+
+*   **问：使用提示会有惩罚吗？**
+    *   **答：** 一般不会扣分，但提示次数有限，且在时间紧张时才真正发挥价值。建议把提示留给“满屏找不到一对”的局面，而不是一开始就依赖。

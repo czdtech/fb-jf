@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: puppet-master
-title: '[KO] Puppet Master'
+title: Puppet Master 퍼펫 마스터
 description: >-
-  [KO] Puppet Master is a quirky physics-based puzzle game where players control
-  a puppet character through challenging obstacles and levels by manipulating
-  its movement and limbs to reach the goal.
+  인형의 팔다리를 따로 조작해 장애물을 돌파하는 물리 퍼즐 게임입니다. 어설픈 움직임과 코믹한 연출 속에서 목표 지점까지 인형을 끌고 가
+  보세요.
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/puppet-master.jpg
 tags:
@@ -18,34 +17,75 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Puppet Master*는 물리 엔진을 활용해 우스꽝스러운 인형을 조종하는
+퍼즐 게임입니다. 플레이어는 인형의 팔과 다리, 몸통을 따로 움직여
+점프하고 매달리고 기어가며, 각 스테이지의 장애물을 통과해 골 지점에
+도달해야 합니다.
 
-### Game Introduction
+조작이 일부러 어색하고 불안정하게 설계되어 있어, 인형이 넘어지고
+구르는 모습 자체가 큰 웃음을 주면서도, 숙련되면 의외로 섬세한
+컨트롤이 가능한 것이 매력입니다.
 
-"Puppet Master" is a quirky physics-based puzzle game where players control a puppet character through challenging obstacles and levels by manipulating its movement and limbs to reach the goal. The game is famous for its unique control scheme and humorous animation effects, providing players with an entertaining yet challenging gaming experience.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **조작법부터 충분히 익히기**  
+   처음에는 팔, 다리, 몸통 각각이 어떤 키 또는 마우스 조작에
+   연결되어 있는지 차근차근 익히세요. 간단한 튜토리얼 스테이지에서
+   걷기와 점프, 매달리기를 반복해 보는 것이 좋습니다.
 
-1.  **[KO]** **Master the Controls**: Familiarize yourself with controlling each body part of the puppet, learning to coordinate the movement of arms, legs, and other limbs.
-2.  **[KO]** **Utilize Physics**: Make good use of the game's physics engine through swinging, pushing, pulling, and grasping actions to overcome obstacles.
-3.  **[KO]** **Observe Environment**: Carefully observe environmental elements in levels such as platforms, ropes, and buttons to find the best path to completion.
-4.  **[KO]** **Be Patient**: Due to the complex controls, it takes multiple attempts to master the techniques. Don't get discouraged by failures.
-5.  **[KO]** **Think Creatively**: Sometimes unconventional solutions may be more effective than standard methods; try different approaches.
+2. **물리 엔진을 활용한 스윙과 밀기**  
+   인형의 무게 중심과 관성을 이용하면, 팔로 철봉을 잡고 흔들어서
+   멀리 점프하거나, 몸을 던지듯 장애물을 넘어갈 수 있습니다.
+   단순히 앞으로만 가려고 하지 말고, 흔들고 밀고 끌어당기는
+   움직임을 적극적으로 활용해 보세요.
 
-### How to Play
+3. **주변 지형을 잘 관찰하기**  
+   발판, 밧줄, 버튼, 레버 등 스테이지에 배치된 오브젝트들은 모두
+   공략의 힌트입니다. 어느 곳에 매달려야 하는지, 어떤 버튼을
+   눌러야 문이 열리는지 먼저 눈으로 파악한 뒤 움직이면 시행착오를
+   줄일 수 있습니다.
 
-*   **[KO]** **Body Control**: Typically use mouse or keyboard to control different body parts of the puppet.
-*   **[KO]** **Grab**: Click and drag to make the puppet grab objects or surfaces.
-*   **[KO]** **Movement**: Achieve puppet movement by coordinating arm and leg movements.
-*   **[KO]** **Jumping**: Use coordination between legs and arms to achieve jumping actions.
+4. **여러 번 실패하는 것을 전제로 하기**  
+   조작 특성상 한 번에 깔끔하게 성공하기는 어렵습니다.
+   여러 번 넘어지고 추락하면서 인형이 어떻게 반응하는지 감을
+   잡다 보면, 어느 순간 몸짓이 자연스러워집니다.
 
-### Frequently Asked Questions
+5. **정석이 아닌 기상천외한 방법도 시도하기**  
+   때로는 정상적인 "걷기"보다 몸을 굴리거나 점프 후 벽에
+   붙는 식의 기묘한 방법이 더 효과적일 때도 있습니다.
+   다양한 루트를 실험해 보면서 의외의 해결책을 찾아 보세요.
 
-1.  **[KO]** **Q: Controlling the puppet is very difficult. Are there any tips?**
-**A**: Control indeed requires practice. It's recommended to start with simple levels to familiarize yourself with operating each body part, gradually improving coordination.
-2.  **[KO]** **Q: How can I make the puppet walk steadily?**
-**A**: Maintaining rhythm is important; don't rush. Alternate between using arms and legs, simulating real walking motions.
-3.  **[KO]** **Q: What if I'm stuck on a level and can't pass it?**
-**A**: Try different paths and methods; sometimes seemingly impossible routes are actually feasible. Watching other players' walkthrough videos might also help.
-4.  **[KO]** **Q: Are there different difficulty levels in the game?**
-**A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.
+### 조작 방법
+
+- **신체 조작**: 마우스나 키보드 키로 팔·다리 등 특정 신체 부위를
+  움직입니다. 버전에 따라 조작 방식이 조금 다를 수 있습니다.  
+- **잡기(그랩)**: 마우스를 클릭하고 드래그해 인형이 물체나 벽을
+  붙잡게 할 수 있습니다.  
+- **이동**: 팔과 다리의 움직임을 번갈아 사용해 앞으로 나아가거나
+
+- **Jumping**: Use coordination between legs and arms to achieve jumping actions.
+  점프합니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 인형 조작이 너무 어려운데 팁이 있나요?**  
+   **A:** 초반 튜토리얼 구간에서 걷기와 매달리기만 반복 연습해도
+   금방 익숙해집니다. 한 번에 여러 부위를 동시에 조작하려 하지
+   말고, 두세 가지 동작만 먼저 익힌 뒤 점차 늘려 가 보세요.
+
+2. **Q: 인형을 안정적으로 걷게 만드는 방법이 있나요?**  
+   **A:** 리듬을 일정하게 유지하는 것이 중요합니다. 한쪽 다리를
+   너무 빨리 움직이면 중심을 잃기 쉽기 때문에, 왼발과 오른발을
+   번갈아 천천히 내딛는 느낌으로 조작해 보세요.
+
+3. **Q: 특정 스테이지를 도저히 못 깨겠어요.**  
+   **A:** 다른 길이 없는지 주변 지형을 다시 살펴보고, 매달리기나
+   스윙 같은 다른 방법을 시도해 보세요. 경우에 따라 다른 플레이어의
+   공략 영상에서 새로운 루트를 참고하는 것도 도움이 됩니다.
+
+4. **Q: 난이도 조절이 가능한가요?**  
+   **A:** 대부분의 버전은 쉬운 튜토리얼 스테이지에서 시작해, 이후
+   스테이지가 진행될수록 점점 더 복잡한 장애물이 추가되는 구조입니다.
+   덕분에 조작에 조금씩 적응하며 난이도를 올릴 수 있습니다.

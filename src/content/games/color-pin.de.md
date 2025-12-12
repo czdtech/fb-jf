@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: color-pin
-title: '[DE] Color Pin'
+title: "Color Pin"
 description: >-
-  [DE] Color Pin is a precision pin‑dropper — stick pins into a rotating core
-  without collisions, matching colors under pressure.
+  Color Pin ist ein Präzisions-Nadelspiel – schieße Pins in einen rotierenden
+  Kern, ohne Kollisionen zu verursachen, und triff unter Druck die richtige
+  Farbe.
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/color-pin.png
 tags:
@@ -15,35 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+In *Color Pin* schießt du Pins auf einen rotierenden Kreis. Du darfst weder
+bereits steckende Pins treffen noch – in Farbmodi – auf das falsche Segment
+zielen. Drehgeschwindigkeit und -richtung ändern sich immer wieder, sodass gutes
+Timing und Geduld wichtiger sind als wildes Tippen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Color Pin asks you to fire pins into a spinning circle. Avoid hitting existing pins, and in color modes, land on matching segments. Rotation speed and direction shifts keep timing tight, rewarding rhythm and patience over spam.
+1.  Rotationsrhythmus erkennen: Beobachte zunächst mindestens eine komplette
+    Umdrehung und schieße dann immer im gleichen Takt, wenn dein Zielbereich
+    vorbeikommt.
+2.  Große Lücken zuerst nutzen: Steck deine Pins zuerst in breite
+    Freiräume und hebe enge Lücken für langsamere Rotationen oder späte,
+    präzise Schüsse auf.
+3.  Verpasste Chance akzeptieren: Verfolge verpasste "Fenster" nicht mit
+    Hauruck-Aktionen. Warte lieber auf die nächste saubere Gelegenheit.
+4.  Farbmodi beachten: In Farbvarianten ziele nur auf Segmente, die der
+    Pin-Farbe entsprechen, und löse den Schuss exakt beim Alignment aus.
+5.  Rhythmus nach Fehlern neu finden: Nach einem Fast-Fail nimm kurz Tempo
+    raus, beobachte eine Umdrehung und steige dann wieder mit ruhigem Takt ein.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Identify rotation cycles and shoot at a consistent phase.
-2.  **[DE]** Prioritize wide gaps first; leave tight gaps for slow spins.
-3.  **[DE]** Don’t chase missed windows — wait for the next clean pass.
-4.  **[DE]** In color modes, pre‑aim the correct segment and shoot only on alignment.
-5.  **[DE]** Recover rhythm after misses before continuing.
+- Tippen/Klicken, um einen Pin in Richtung Kreis abzufeuern; in manchen
+  Versionen kannst du Halten oder gedrückt halten, um Winkel zu variieren.
+- Pause/Neustart über die Benutzeroberfläche.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Tap/Click to fire a pin; some variants allow holding to adjust.
-- Pause/Restart available via UI.
+- Ich pralle ständig an vorhandenen Pins ab – warum?
+  
+  Meist bist du aus dem Takt geraten. Schau dir eine volle Umdrehung an und
+  versuche, deine Schüsse wieder im gleichen zeitlichen Abstand zu setzen.
 
-### Frequently Asked Questions (FAQ)
+- Ändert sich die Geschwindigkeit im Level?
+  
+  Oft ja – rechne mit plötzlichen Beschleunigungen oder sogar Richtungswechseln
+  und passe deinen Rhythmus an.
 
-- Q: I keep colliding with pins — why?
-
-A: You’re desynced. Watch a full rotation, then resume at a consistent beat.
-
-- Q: Does speed change mid‑level?
-
-A: Often yes; be ready for step‑ups and direction flips.
-
-- Q: Any trick for color segments?
-
-A: Shoot only when your target color aligns; forcing shots creates avoidable crashes.
+- Tipp für Farbsegmente?
+  
+  Schieße nur dann, wenn dein Zielsegment exakt unter dem Pin ist. Erzwungene
+  Schüsse führen fast garantiert zu Kollisionen.

@@ -1,70 +1,43 @@
 ---
+title: "Solitaire 2048"
+description: "Solitaire 2048は2048とカードフローをマージ — 数字カードを配置して値を結合し、レーンを管理して大きな連鎖を作ろう。"
+iframeSrc: "https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/"
+thumbnail: "/new-images/solitaire-2048.png"
+urlstr: "solitaire-2048"
+score: "4.1/5  (1961 votes)"
+tags: ["card", "puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: solitaire-2048
-title: '[JA TRANSLATION NEEDED] Solitaire 2048'
-description: >-
-  [JA TRANSLATION NEEDED] Solitaire 2048 merges 2048 with card flow — place
-  numbered cards to combine values and manage lanes for big chains.
-iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
-thumbnail: /new-images/solitaire-2048.png
-tags:
-  - card
-  - puzzle
-  - thinky
-score: 4.1/5  (1961 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 詳細なゲーム紹介
 
-[JA TRANSLATION NEEDED] Solitaire 2048 converts merge logic into a card stream. You place cards (2, 4, 8…) into columns; adjacent equals merge to the next value. The trick is sequencing so merges cascade and free space rather than clog lanes.
+Solitaire 2048は、マージロジックをカードストリームに変換します。カード（2、4、8…）を列に配置します；隣接する同じ値は次の値にマージされます。コツは、マージがカスケードしてレーンを詰まらせるのではなくスペースを解放するようにシーケンスを組むことです。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイ戦略とウォークスルー
 
-[JA TRANSLATION NEEDED] 1.  Anchor column: Keep the highest value centralized for lateral access.
-[JA TRANSLATION NEEDED] 2.  Feeder management: Use side lanes to stage pairs before feeding center.
-[JA TRANSLATION NEEDED] 3.  Spike control: Flatten tall spikes first to avoid dead columns.
-[JA TRANSLATION NEEDED] 4.  Trigger timing: Drop the triggering card only after both neighbors are set.
-[JA TRANSLATION NEEDED] 5.  Trash lane: Dedicate one edge to off‑cycle cards.
+1.  アンカー列：最高値を中央に保持して横方向のアクセスを確保。
+2.  フィーダー管理：サイドレーンを使用して、中央に供給する前にペアをステージング。
+3.  スパイクコントロール：デッドカラムを避けるため、まず高いスパイクを平らにする。
+4.  トリガータイミング：両隣が設定された後にのみトリガーカードをドロップ。
+5.  ゴミレーン：オフサイクルカードのために1つのエッジを専用にする。
 
-### Controls Guide
+### 操作ガイド
 
-- Click a column to place current card; undo/hints if available.
+- 列をクリックして現在のカードを配置；利用可能な場合はアンドゥ/ヒント。
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Columns keep locking.
-  
-[JA TRANSLATION NEEDED]   A: Spread staging across two side lanes and avoid premature triggers.
-
-- Q: Anchor corner or center?
-  
-[JA TRANSLATION NEEDED]   A: Center yields more merge routes.
-
-- Q: Can I recover from bad stacks?
-  
-
-
-
-
-
-- Q: Columns keep locking.
 ### よくある質問（FAQ）
-- Click a column to place current card; undo/hints if available.
-### コントロールガイド
-- Trash lane: Dedicate one edge to off‑cycle cards.
-[JA TRANSLATION NEEDED]   A: Yes — flatten spikes and rebuild pairs before triggering.
 
+- Q: 列がロックし続ける。
+  
+  A: ステージングを2つのサイドレーンに分散させ、早すぎるトリガーを避ける。
 
+- Q: アンカーはコーナーか中央か？
+  
+  A: 中央の方がマージルートが多い。
 
-
-
-
-A: Yes — flatten spikes and rebuild pairs before triggering.
-- Q: Can I recover from bad stacks?
-A: Center yields more merge routes.
-- Q: Anchor corner or center?
-
-
-A: Yes — flatten spikes and rebuild pairs before triggering.
+- Q: 悪いスタックから回復できますか？
+  
+  A: はい — スパイクを平らにし、トリガーする前にペアを再構築する。

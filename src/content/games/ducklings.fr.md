@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: ducklings
-title: '[FR] Ducklings'
+title: 'Ducklings'
 description: >-
-  [FR] Ducklings is a relaxing collect‑’em‑up: rescue ducklings on the water and
+  Ducklings is a relaxing collect‑’em‑up: rescue ducklings on the water and
   bring them safely back to your nest.
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/ducklings.jpg

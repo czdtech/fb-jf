@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: granny-hero
-title: '[ZH TRANSLATION NEEDED] Granny Hero'
-description: >-
-  [ZH TRANSLATION NEEDED] Granny Hero is a comedic action‑runner — dodge
-  hazards, use quirky power‑ups, and rescue neighbors with surprising agility.
+title: "《Granny Hero》奶奶英雄跑酷"
+description: "《Granny Hero》是一款充满喜感的动作跑酷游戏——操控敏捷奶奶在街头疾跑，躲避危险、使用古怪道具，一路营救需要帮助的邻居。"
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/granny-hero.png
 tags:
@@ -15,32 +13,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Granny Hero is a lighthearted runner where a spry granny dashes through streets, avoids slapstick hazards, and collects items to aid neighbors. Expect lane swaps, jump/slide timing, and occasional gadgets (scooters, umbrellas, pans) that grant brief invulnerability or crowd‑control.
+《Granny Hero》是一款轻松搞笑的跑酷游戏，你要操控一位身手敏捷的奶奶在街道上狂奔，躲开各种滑稽障碍，并收集物品帮助街坊邻居。游戏中会频繁切换跑道、把握跳跃/滑行节奏，还能使用滑板车、雨伞、平底锅等道具，短时间内获得无敌或清场效果。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Lane vision: Keep eyes two obstacles ahead to prepare swaps.
-2.  [ZH TRANSLATION NEEDED] Jump/slide rhythm: Late jumps clear hurdles; slides beat low bars.
-3.  [ZH TRANSLATION NEEDED] Power‑up economy: Save shields/speed boosts for dense stretches.
-4.  [ZH TRANSLATION NEEDED] Mission focus: Prioritize rescue targets over side coins when routes conflict.
-5.  [ZH TRANSLATION NEEDED] Recovery: After a mistake, re‑establish cadence before chasing score.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  跑道观察：视线尽量看向前方两格障碍，提前规划换道。
+2.  跳跃与滑行节奏：稍晚一点起跳更容易越过路障，遇到低矮横杆优先用滑行动作闪避。
+3.  道具管理：护盾、加速等强力道具尽量留给障碍密集、转弯多的路段使用。
+4.  任务优先：当「营救目标」和金币路线发生冲突时，优先保证完成营救任务。
+5.  失误后的调整：失误摔倒后先找回节奏与视角，再去追求高分与高速度。
 
-- Swap lanes: A/D or Left/Right; Jump: Space/Up; Slide: Down; gadgets via keys.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 切换跑道：A/D 或 左/右 方向键
+- 跳跃：空格键 或 上方向键
+- 滑行：下方向键
+- 使用道具：按提示对应的键位
 
-- Q: I keep clipping cones — any tip?
-  
-[ZH TRANSLATION NEEDED]   A: Jump a beat later and center after passes to maximize options.
+### 常见问题（FAQ）
 
-- Q: Are gadgets necessary?
-  
-[ZH TRANSLATION NEEDED]   A: They provide safety nets; use them where obstacle density spikes.
+- Q: 老是被路锥绊倒，有什么技巧吗？  
+  A: 起跳时机稍微延后一点，越过路锥后尽快回到中间跑道，这样预留的闪避空间最多。
 
-- Q: Endless?
-  
-[ZH TRANSLATION NEEDED]   A: Most modes are endless with missions layered in.
+- Q: 道具一定要用吗？  
+  A: 道具相当于安全垫，在障碍特别密集的路段可以救你一命，建议在视线复杂或速度很快的阶段果断使用。
 
+- Q: 游戏是无尽模式吗？  
+  A: 大部分模式都是无尽跑酷，上面叠加不同任务与目标，你可以一边完成任务一边挑战更高分数。

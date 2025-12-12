@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: fairyland
-title: '[FR] Fairyland'
-description: >-
-  [FR] Fairyland is a gentle puzzle adventure — explore cozy scenes, solve light
-  puzzles, and complete objectives at a restful pace.
+title: "Fairyland"
+description: "Fairyland est une aventure de puzzle toute en douceur : explore des décors chaleureux, résous de petites énigmes et atteins tes objectifs à ton rythme."
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/fairyland.png
 tags:
@@ -16,36 +14,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Fairyland est une aventure tranquille remplie de petites tâches à collectionner, de puzzles environnementaux simples et de scènes féeriques. Tu vas chercher des objets cachés, activer des interrupteurs dans le bon ordre, escorter de petites créatures et, de temps en temps, jouer à des mini‑jeux. Tu progresses à travers de courts chapitres en privilégiant l’exploration et la détente plutôt que le combat.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Fairyland is a low‑stress adventure filled with collectible tasks, simple environmental puzzles, and whimsical scenes. You’ll search for hidden objects, activate switches in the right order, escort little critters, and occasionally complete mini‑games. Progress across compact chapters while enjoying exploration rather than combat.
+1.  Balaye chaque scène méthodiquement : termine une zone à la fois ; zoome ou déplace la vue pour repérer les petits éléments interactifs.
+2.  Garde une trace des indices : note les suites de symboles et les ordres de couleurs pour les portes et mécanismes que tu rencontreras plus tard.
+3.  Ne néglige pas les tâches optionnelles : accomplis les objectifs secondaires pour débloquer des récompenses cosmétiques ou des indices supplémentaires.
+4.  Planifie tes trajets : si une scène nécessite des allers‑retours, ramasse les objets en suivant une boucle afin de limiter les déplacements inutiles.
+5.  Concentre‑toi pendant les mini‑jeux : lis bien les règles, beaucoup d’entre eux autorisent des tentatives rapides et répétées sans vraie pénalité.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Sweep methodically: Clear one scene at a time; zoom or pan for small interactables.
-2.  **[FR]** Clue notebooks: Note symbol sequences and color orders for later doors.
-3.  **[FR]** Optional tasks: Complete side objectives to unlock cosmetic rewards/hints.
-4.  **[FR]** Route planning: If a scene has backtracking, collect items along a loop to minimize travel.
-5.  **[FR]** Mini‑game focus: Read rules carefully — many allow quick retries without penalty.
+- Clique/tape pour interagir, fais glisser pour déplacer des objets ou des curseurs, et maintiens le clic pour les actions qui demandent une longue pression.
+- Le menu offre des indices ou un carnet de notes si cette option est disponible.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Click/tap to interact, drag for items or sliders, hold for long presses when needed.
-- Menu provides hints/logbook if available.
+- Q : Je suis bloqué, que faire ?
+  
+  R : Retourne dans les scènes précédentes pour chercher des éléments interactifs manqués, relis tes notes et essaie de cliquer sur les éléments décoratifs de l’environnement.
 
-### Frequently Asked Questions (FAQ)
+- Q : Est‑ce qu’on peut échouer définitivement ?
+  
+  R : C’est très rare ; la plupart des puzzles offrent des essais illimités et des indices progressifs.
 
-- Q: I’m stuck — what should I do?
-
-A: Revisit prior scenes for missed interactables, review notebooks, and try interacting with environmental decorations.
-
-- Q: Are there fail states?
-
-A: Rarely; most puzzles allow infinite retries and gentle hints.
-
-- Q: How long is a chapter?
-
-A: Short — built for quick sessions; multiple chapters add up to a relaxing journey.
-
+- Q : Combien de temps dure un chapitre ?
+  
+  R : Ils sont courts, pensés pour de petites sessions. Plusieurs chapitres mis bout à bout forment une aventure relaxante.

@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: merge-cakes
-title: '[ZH TRANSLATION NEEDED] Merge Cakes'
+title: "《Merge Cakes》蛋糕合成小铺"
 description: >-
-  [ZH TRANSLATION NEEDED] Merge identical cakes to create new, more elaborate
-  desserts! Fill your display, complete orders, and build the sweetest bakery in
-  this delightful and relaxing merge puzzle game.
+  《Merge Cakes》是一款轻松解压的合成益智游戏，你通过合成相同的蛋糕，解锁更华丽的新甜点，填满展示台、完成客人订单，并一步步经营出全城最甜蜜的蛋糕店。
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
 thumbnail: /new-images/merge-cakes.jpg
 tags:
@@ -18,31 +16,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Merge Cakes is a sweet and relaxing puzzle game where you combine identical cakes to create new and more magnificent desserts. You start with basic cupcakes and merge your way up to elaborate, multi-layered creations. The goal is to fulfill customer orders, earn coins, and discover every delicious cake in your recipe book. It's a simple, satisfying, and endlessly charming game.
+《Merge Cakes》是一款甜度爆表又节奏悠闲的合成类益智游戏。你从最基础的小纸杯蛋糕开始，通过不断合成相同蛋糕，解锁体积更大、装饰更精致的高级甜点：从普通蛋糕、慕斯，到多层庆典大蛋糕，逐步填满整个展示台。你的核心目标是根据顾客订单制作指定蛋糕、赚取金币，并集齐配方簿中所有款式，让这家小店成为名副其实的甜品天堂。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Merge Chain:** The core of the game is merging. Drag one cake and drop it onto an identical cake to create a new, higher-level cake. Two basic cupcakes might make a larger cupcake, which in turn can be merged to create a slice of cake, and so on.
-2.  [ZH TRANSLATION NEEDED] **Fulfill Orders:** At the top of the screen, you will see orders from customers. You must create the specific cakes they are asking for. Fulfilling an order is the primary way to earn coins.
-3.  [ZH TRANSLATION NEEDED] **Manage Your Board:** You only have a limited number of plates on your board. If it fills up, you won't be able to receive new cakes. Always try to make merges to keep space free.
-4.  [ZH TRANSLATION NEEDED] **Use Your Coins:** Spend the coins you earn to buy more cakes from the shop. This is much faster than waiting for the free delivery box and is essential for creating high-level cakes to fill difficult orders.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **掌握合成链路：** 游戏的核心是合成机制。拖动一块蛋糕叠放到另一块相同蛋糕上，就能生成更高一级的新蛋糕。两块基础纸杯蛋糕可以合成大纸杯蛋糕，再继续合成切片蛋糕，最终解锁更高档的甜点。
+2.  **优先完成订单：** 屏幕上方会显示顾客当前的订单，你需要合成出他们指定的蛋糕。完成订单是获得金币的主要方式，也是推动进度的关键。
+3.  **管理好盘子空间：** 棋盘上可用的餐盘数量是有限的，如果被塞满，新蛋糕就掉不下来。要经常观察是否有可以合成的组合，及时清理低阶蛋糕，为更高阶合成留出空间。
+4.  **聪明花金币：** 用金币从商店购买蛋糕要比一直等免费投放箱快得多，也是冲击高阶蛋糕和高难订单的关键。优先购买当前合成链上最有价值的那一环，而不是盲目囤积低阶蛋糕。
 
-[ZH TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
+### 操作说明
 
-*   **Merge Cakes:** Click and drag one cake and drop it onto another identical cake to merge them.
-*   **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
+本作的操作非常直观，以拖拽为主：
 
-### Frequently Asked Questions (FAQ)
+*   **合成蛋糕：** 用鼠标或手指拖动一块蛋糕，将其放到另一块相同的蛋糕上即可完成合成。
+*   **购买蛋糕：** 点击商店图标，再点击你想购买的蛋糕类型，花费相应金币后会在空盘上生成蛋糕。
 
-*   **Q: How do I get new cakes?**
-     *   **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.
+### 常见问题（FAQ）
 
-*   **Q: What is the main goal?**
-     *   **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
+*   **问：如何获得新的蛋糕种类？**
+    *   **答：** 系统会定期通过免费投放箱往空盘上掉落基础蛋糕；你也可以用金币在商店购买已经解锁过的蛋糕类型。不断向上合成，就能解锁全新的高级甜点。
 
-*   **Q: My board is full and I can't make any moves. What do I do?**
-     *   **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
+*   **问：游戏的主要目标是什么？**
+    *   **答：** 一方面是通过完成订单获得金币，另一方面是不断合成、收集并解锁配方簿中的所有蛋糕种类，打造最豪华的蛋糕展示台。
 
+*   **问：如果盘子全满，完全动不了了怎么办？**
+    *   **答：** 先仔细检查是否还有被忽略的可合成组合，尽量通过合成释放空间。如果确实没有任何可合并的蛋糕，可以使用垃圾桶功能出售一块低等级蛋糕，换取少量金币并腾出一个盘位。

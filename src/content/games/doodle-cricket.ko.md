@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: doodle-cricket
-title: '[KO] Doodle Cricket'
+title: "Doodle Cricket 두들 크리켓"
 description: >-
-  [KO] Doodle Cricket is a casual cricket mini‑game: time your swings to score
-  runs while avoiding outs.
+  구글 두들로 유명한 캐주얼 크리켓 미니 게임입니다. 투구 타이밍에 맞춰 배트를
+  휘둘러 런을 획득하고, 아웃되지 않도록 최대 점수에 도전해 보세요.
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/doodle-cricket.jpg
 tags:
@@ -15,30 +15,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Doodle Cricket는 구글이 선보였던 크리켓 두들을 기반으로 한 간단한 타격 게임입니다.
+타자는 투수가 던지는 공의 속도와 구질을 눈으로 읽어 타이밍에 맞춰 배트를 휘둘러야
+하며, 수비를 피해 공을 넘어 보내면 1~6점까지 다양한 런을 얻을 수 있습니다.
+아웃되기 전까지 누적 점수를 얼마나 높게 만들 수 있는지가 승부입니다.
 
+### 플레이 방법
 
-### Overview
-Google’s playable cricket doodle: batters time swings to send the ball past fielders while the bowler varies speed and type. Runs accumulate until you’re out.
+- 공이 타자 쪽으로 들어올 때 화면을 탭/클릭해 배트를 휘두릅니다.  
+- 필드 사이의 빈 공간을 노려 쳐야 4점, 6점 같은 장타를 노릴 수 있습니다.  
+- 투수는 빠른 공과 느린 공, 바운스 위치를 섞어 던지므로, 릴리스 타이밍과
+  바운스를 함께 보며 타이밍을 조절해야 합니다.  
+- 캐치되거나, 볼에 직접 맞거나, 볼링/엘비더블유(lbw) 판정을 받으면 이닝이
+  끝나고 기록이 확정됩니다.  
 
-### How to Play
-- Tap/Click to swing as the ball arrives; aim for gaps to score 1–6 runs.
-- Watch bowler tells (slow/fast) and bounce; late swings tend to slice to off‑side.
-- Your innings ends on a catch or a bowled/lbw; chase a new high score.
+### 조작 방법
 
-### Controls
-- Mouse/Touch: single tap/click to bat. Timing determines placement and power.
+- 마우스/터치: 공이 올 때 한 번 탭/클릭하면 타격합니다. 입력 타이밍에 따라
+  공의 방향과 힘이 결정됩니다.  
 
-### Tips
-- Don’t pre‑swing—react to release and bounce.
-- Favor ground strokes early; go aerial only when gaps are clear.
-- Adjust to slower deliveries; wait a fraction longer.
+### 팁
 
-### FAQ
-- Q: Can I hit 6s consistently?
-A: Yes, with late‑but‑clean contact when field is spread.
-- Q: Does difficulty ramp?
-A: Bowling speed/patterns vary as score increases.
-- Q: How is score saved?
-A: Typically local/session only.
+- 미리 스윙을 준비하기보다, 투수 릴리스와 바운스를 보고 반응하는 것이 좋습니다.  
+- 초반에는 땅볼 위주의 안전한 샷으로 감을 익히고, 빈 공간이 확실히 보일 때만
+  공을 띄워 쳐 장타를 노리세요.  
+- 느린 공은 생각보다 늦게 휘둘러야 하므로, 빠른 공과 다른 타이밍을 몸에 익혀
+  두면 도움이 됩니다.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 6점을 꾸준히 칠 수 있나요?**  
+  **A:** 필드가 넓게 벌어진 상황에서, 약간 늦은 타이밍에 깔끔하게 맞추면 6점
+  샷을 비교적 안정적으로 노릴 수 있습니다.  
+
+- **Q: 점수가 오를수록 난이도가 올라가나요?**  
+  **A:** 네. 점수가 높아질수록 투구 속도와 패턴이 다양해져 타이밍 맞추기가
+  점점 어려워집니다.  
+
+- **Q: 점수는 어떻게 저장되나요?**  
+  **A:** 대부분 로컬/세션 기준으로 기록되며, 새로고침하면 초기화되는 경우가
+  많습니다.  
 

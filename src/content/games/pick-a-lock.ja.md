@@ -1,71 +1,39 @@
 ---
+title: "Pick a Lock"
+description: "Pick a Lockはロック解除パズルです。タイミングを合わせ、ピンを揃え、ロックを解除し、忍耐とタイミングをマスターします。"
+iframeSrc: "https://pickalock.h5games.usercontent.goog/v/4k9j5m8h7p3n8/"
+thumbnail: "/new-images/pick-a-lock.png"
+urlstr: "pick-a-lock"
+score: "4.0/5  (1734 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: pick-a-lock
-title: '[JA TRANSLATION NEEDED] Pick a Lock'
-description: >-
-  [JA TRANSLATION NEEDED] Pick a Lock tests timing and focus — stop the dial on
-  markers, chain perfect hits, and unlock increasingly tricky locks.
-iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
-thumbnail: /new-images/pick-a-lock.jpg
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 3.9/5  (1712 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Pick a Lockは、ロックピッキングメカニクスをシミュレートします。ピンを正しい位置に揃えるためにタイミングを合わせ、ロックを解除します。完璧なタイミングと忍耐が必要なシンプルですが中毒性のあるゲームです。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Pick a Lock is a minimalist rhythm‑timing game: a dial sweeps around a lock, and you must tap exactly when it passes highlighted markers. Later locks add multiple markers, tighter windows, and reversed sweeps, rewarding calm focus.
+1.  **タイミングを見る:** ピンが正しい位置に揃うのを待ちます。
+2.  **忍耐強く:** 急がないでください。完璧な瞬間を待ちます。
+3.  **パターンを学ぶ:** 各ロックには独自のリズムがあります。
+4.  **冷静を保つ:** プレッシャー下で焦点を保ちます。
+5.  **練習:** 繰り返しでタイミングが改善します。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Count rhythm: Lock into the dial’s beat; tap on the beat rather than by eye alone.
-[JA TRANSLATION NEEDED] 2.  Peripheral vision: Watch the next marker while tapping the current.
-[JA TRANSLATION NEEDED] 3.  Noise control: Mute distractions and keep a steady posture for precision.
-[JA TRANSLATION NEEDED] 4.  Recovery: If you miss, reset your cadence before the next marker.
-[JA TRANSLATION NEEDED] 5.  Late‑tap bias: Slightly late taps are safer than early in many builds.
+- クリック/タップして適切な瞬間にピンをロックします。
+- すべてのピンを揃えてロックを解除します。
+- より速い時間のために練習します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Tap/click when the dial overlaps markers; some variants support key presses.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m always early — fix?
-  
-[JA TRANSLATION NEEDED]   A: Add a tiny delay to your internal count; try “one‑and‑tap” instead of “one‑tap.”
-
-- Q: Markers stack fast.
-  
-[JA TRANSLATION NEEDED]   A: Focus on the next one only; don’t mentally hold more than one future target.
-
-- Q: Does FPS matter?
-  
-
-
-
-
-
-- Q: I’m always early — fix?
-### よくある質問（FAQ）
-- Tap/click when the dial overlaps markers; some variants support key presses.
-### コントロールガイド
-- Late‑tap bias: Slightly late taps are safer than early in many builds.
-[JA TRANSLATION NEEDED]   A: Stable framerate helps; close other apps if timing feels inconsistent.
-
-
-
-
-
-
-A: Stable framerate helps; close other apps if timing feels inconsistent.
-- Q: Does FPS matter?
-A: Focus on the next one only; don’t mentally hold more than one future target.
-- Q: Markers stack fast.
-
-
-A: Stable framerate helps; close other apps if timing feels inconsistent.
+- **Q: 継続的に失敗します。ヒントは？**  
+  A: タイミングを見て、忍耐強く、タップを急がないでください。
+- **Q: レベルはいくつありますか？**  
+  A: バージョンによって異なります。多くは数十。
+- **Q: タイムリミットはありますか？**  
+  A: 一部のレベルにはタイマーがあります。

@@ -1,13 +1,9 @@
 ---
 locale: zh
 urlstr: super-smash-flash-2-v08
-title: '[ZH TRANSLATION NEEDED] Super Smash Flash 2: Demo v0.8b'
+title: 'Super Smash Flash 2: Demo v0.8b'
 description: >-
-  [ZH TRANSLATION NEEDED] The legendary fan-made fighting game returns with
-  Super Smash Flash 2! Choose from an even larger roster of iconic characters
-  and battle it out in highly polished, fast-paced platform-fighting action.
-  Master advanced techniques and compete against friends or CPU opponents to
-  prove your skill.
+  传奇粉丝自制格斗游戏 Super Smash Flash 2 强势回归！从更庞大的经典角色阵容中选择你的战士，在精致流畅的平台格斗中展开激烈对决。掌握高级技巧，与好友或电脑对手一较高下，证明你的实力。
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/super-smash-flash-2-v08.jpg
 tags:
@@ -18,41 +14,41 @@ score: 4.3/5  (1114 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Super Smash Flash 2 is the highly anticipated sequel to the legendary fan-made fighting game. It is a massive improvement over the original, featuring a larger roster of characters, more polished stages, and significantly more complex and balanced gameplay that mirrors the official Super Smash Bros. series. It stands as one of the most impressive and comprehensive fan-made games ever created.
+Super Smash Flash 2 是备受期待的传奇粉丝自制格斗游戏续作。相比初代有了巨大提升，拥有更庞大的角色阵容、更精致的场景，以及更复杂平衡的玩法系统，完美还原了官方《任天堂明星大乱斗》系列的精髓。这是有史以来最令人印象深刻、最完整的粉丝自制游戏之一。
 
-### Gameplay Guide
+### 玩法指南
 
-[ZH TRANSLATION NEEDED] Like its inspiration, the goal is to launch opponents off the screen by increasing their damage percentage.
-- **Advanced Techniques:** SSF2 includes advanced mechanics like dashing, shielding, grabbing, and a variety of aerial attacks, making the combat much deeper than in the first game.
-- **Character Roster:** The game features dozens of characters from a wide array of video game and anime series, each with their own unique and faithful moveset.
-- **Game Modes:** Includes various modes for both single-player and multiplayer, such as standard Versus mode and event-based challenges.
+和原作一样，游戏目标是通过提高对手的伤害百分比，将其击飞出屏幕。
+- **高级技巧：** SSF2 包含冲刺、防御、抓取以及各种空中攻击等高级机制，战斗深度远超初代。
+- **角色阵容：** 游戏收录了来自各类电子游戏和动漫作品的数十个角色，每个角色都有独特且忠实还原的招式系统。
+- **游戏模式：** 包含单人和多人的多种模式，如标准对战模式和基于事件的挑战关卡。
 
-### Controls Guide
+### 操作指南
 
-[ZH TRANSLATION NEEDED] Controls are fully customizable. A common default layout for Player 1 is:
-- **Move:** `A` and `D`
-- **Up/Aim Up:** `W`
-- **Crouch/Aim Down:** `S`
-- **Jump:** `Spacebar`
-- **Standard Attack:** `J`
-- **Special Attack:** `K`
-- **Shield:** `L`
-- **Grab:** `U`
-- **Pause:** `Enter`
+操作完全可自定义。玩家1的常见默认布局为：
+- **移动：** `A` 和 `D`
+- **向上/瞄准向上：** `W`
+- **蹲下/瞄准向下：** `S`
+- **跳跃：** `空格键`
+- **普通攻击：** `J`
+- **特殊攻击：** `K`
+- **防御：** `L`
+- **抓取：** `U`
+- **暂停：** `回车键`
 
-### Frequently Asked Questions (FAQ)
+### 常见问题 (FAQ)
 
-[ZH TRANSLATION NEEDED] **How is this different from the first Super Smash Flash?**
+**这款游戏和初代 Super Smash Flash 有什么不同？**
 
-[ZH TRANSLATION NEEDED] Super Smash Flash 2 is a complete overhaul. It features a new engine, much smoother animations, a larger and more balanced cast of characters, more competitive mechanics, and online play.
+Super Smash Flash 2 是一次彻底的重制。它采用了全新引擎，动画更流畅，角色阵容更大更平衡，竞技机制更完善，还支持在线对战。
 
-[ZH TRANSLATION NEEDED] **Can I use a controller?**
+**我可以使用手柄吗？**
 
-[ZH TRANSLATION NEEDED] Yes, the game has built-in support for a wide variety of controllers, which can be configured in the options menu.
+可以，游戏内置了对各种手柄的支持，可以在选项菜单中进行配置。
 
-[ZH TRANSLATION NEEDED] **Is this game still being updated?**
+**这款游戏还在更新吗？**
 
-[ZH TRANSLATION NEEDED] Yes, the development team at McLeodGaming continues to release updates, adding new characters, stages, and features to the game.
+是的，McLeodGaming 开发团队持续发布更新，不断添加新角色、新场景和新功能。
 

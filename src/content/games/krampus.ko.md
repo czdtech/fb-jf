@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: krampus
-title: '[KO] Krampus'
+title: "Krampus 크람푸스 공포 플랫폼"
 description: >-
-  [KO] Holiday horror platformer: navigate dark levels, avoid traps and
-  creatures, and find keys/items to escape Krampus’s lair.
+  크리스마스 전설 속 괴물 크람푸스를 소재로 한 공포 플랫폼 게임
+  'Krampus' 가이드입니다. 어두운 던전을 탐색하며 함정과 괴물을
+  피해 열쇠와 아이템을 찾아 탈출하세요.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/krampus.jpg
 tags:
@@ -16,29 +17,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
 
+*Krampus*는 은은한 조명과 추격 연출이 특징인 **홀리데이 공포
+플랫폼 게임**입니다. 플레이어는 어두운 스테이지를 돌아다니며
+열쇠와 스위치를 찾고, 각종 함정과 괴물들을 피해 탈출 루트를
+찾아야 합니다.
 
-### Overview
-Krampus is a seasonal horror platformer featuring dimly lit stages, environmental traps, and pursuit segments. Explore to find keys, switches, and safe routes while evading eerie creatures. Limited visibility and sound cues create tension, rewarding cautious movement and observation.
+제한된 시야와 음향 효과가 긴장감을 더해, 서두르기보다는
+주변을 잘 살피며 천천히 움직이는 플레이가 요구됩니다.
 
-### How to Play
-- Move slowly, scout trap patterns, and memorize safe platforms.
-- Find keys/switches to unlock gates; some items grant brief safety.
-- If chased, use verticality and doors to break line‑of‑sight.
+### 플레이 방법
 
-### Controls
-- Arrows/WASD to move/jump; action/interact keys vary by host.
+- **천천히 전진하기**: 트랩 패턴을 확인하며 조금씩 이동해
+  안전 지점을 파악하세요.  
+- **열쇠·스위치 찾기**: 문을 여는 열쇠나 스위치를 찾아
+  숨겨진 통로를 열어야 다음 구역으로 넘어갈 수 있습니다.  
+- **추격전 대처**: 괴물에게 쫓길 때는 높낮이 차이나 문을
+  활용해 시야를 끊고, 잠시 숨을 고른 뒤 다시 경로를 모색하세요.
 
-### Tips
-- Watch for glints or subtle lights that mark items and exits.
-- Wait out patrols rather than forcing risky jumps.
-- Sound cues (growls, steps) telegraph danger—pause and listen.
+### 조작법
 
-### FAQ
-- Q: How do I progress when the level looks like a dead end?
-A: Search for levers, hidden passages, or destructible walls.
-- Q: Can I fight the monsters in this game?
-A: Most versions emphasize evasion; use routes and doors to escape.
-- Q: Are there checkpoints in stages?
-A: Many hosts include mid‑level checkpoints; consult the HUD/icons.
+- **이동/점프**: 방향키 또는 WASD 키로 이동·점프합니다.  
+- **상호작용**: 호스트에 따라 별도의 액션 키로 문이나
+  오브젝트를 조사할 수 있습니다.
+
+### 팁
+
+- 아이템·출구는 미세한 빛이나 반짝임으로 표시되는 경우가 많으니,
+  배경을 세심하게 관찰해 보세요.  
+- 경비 패턴이 있는 적은 무리하게 뛰어넘기보다, 동선이
+  비었을 때 지나가는 편이 안전합니다.  
+- 괴물의 발소리·숨소리 같은 음향 효과가 위험을 미리 알려 주니,
+  잠시 멈춰 소리를 듣는 것도 좋은 방법입니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 막다른 길처럼 보이는데 진행이 안 됩니다.**  
+  **A:** 레버, 숨겨진 통로, 부술 수 있는 벽이 있는지
+  다시 한 번 살펴보세요.
+
+- **Q: 괴물과 싸울 수 있나요?**  
+  **A:** 대부분의 버전에서는 전투보다 회피에 초점을 맞추고 있습니다.
+  지형과 문을 활용해 거리를 벌리는 것이 중요합니다.
+
+- **Q: 스테이지에 체크포인트가 있나요?**  
+  **A:** 일부 호스트에서는 중간 세이브 포인트를 제공하며,
+  HUD나 아이콘으로 표시되는 경우가 많습니다.
 

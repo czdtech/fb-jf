@@ -1,42 +1,54 @@
 ---
-locale: ja
-urlstr: drive-mad
-title: '[JA TRANSLATION NEEDED] Drive Mad'
-description: >-
-  [JA TRANSLATION NEEDED] Drive Mad is a physics driving challenge: balance your
-  vehicle, clear obstacles, and reach the finish without flipping.
+title: Drive Mad ドライブ・マッド
+description: 「Drive Mad」は物理演算ドライビング・パズル。バランスを取り、障害物を乗り越え、どんな手を使ってでもゴールまでトラックを運ぼう。
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/drive-mad.jpg
+urlstr: drive-mad
+score: 3.7/5  (1285 votes)
 tags:
   - driving
   - physics
-score: 3.7/5  (1285 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Drive Mad（ドライブ・マッド）*は、物理演算に基づいた障害物走破型のドライビングゲームです。
+モンスタートラックのような車を操作し、シーソー、崩れる橋、水場、壁などのギミック満載のステージを攻略します。単に走るだけでなく、車体をひっくり返したり、絶妙なバランスで橋を渡ったりと、パズル的な要素が強いのが特徴です。
+
+### 遊び方
+
+*   **バランス制御:** 非常に転倒しやすいので、スピード調整と重心移動（加速・減速による傾き）が重要です。
+*   **ギミック:** ステージごとに異なる仕掛けがあります。時には勢いよく突っ込み、時にはミリ単位の微調整で進みましょう。
+*   **着地:** 空中で車体が傾いた時は、バック（または前進）を入れて姿勢制御し、必ずタイヤから着地するようにしましょう。
+
+### 操作ガイド
+
+*   **移動:** 矢印キー、またはWASDキー（前進、バック、バランス調整）
+*   **リスタート:** Rキー
+*   **その他:** Esc/Pキーで一時停止（ホストサイトによります）
+
+### 攻略のヒント
+
+*   **ふんわりアクセル:** 常にフルスロットルだとすぐにひっくり返ります（ウィリー状態）。小刻みにアクセルボタンを押してバランスを取りましょう。
+*   **空中制御:** ジャンプ中、車首が上がりすぎたらブレーキ（バック）、下がりすぎたらアクセルを入れることで回転を調整できます。
+*   **タイミング:** 動く壁や床などのトラップは、闇雲に進まずタイミングを見計らう「待ち」も戦術のうちです。
+
+### よくある質問 (FAQ)
+
+*   **Q: 車の形が変わったのですが？**
+
+A: Some packs change vehicle weight/length, altering balance.
+- **A:** ステージによっては、リムジンのように長い車や、四角いタイヤの車など、操作感が全く異なる車両に強制的に乗り換えさせられます。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Physics obstacle driving: keep your truck upright across seesaws, bridges, and traps. Levels escalate with moving parts and brittle platforms.
+A: Certain hosts allow level select; otherwise master timing and tilt control.
+*   **Q: 難しいレベルをスキップできますか？**
 
-### How to Play
-- Control speed and weight shift to keep traction over gaps and ramps.
-- Reverse to steady the chassis before big drops or steep climbs.
-- Some stages require controlled flips to land wheels‑down.
+A: Excess speed compresses suspension and bounces you off.
+    *   **A:** 基本的にはクリアしないと次へ進めませんが、攻略のコツは「スピード」と「バランス」のどちらが求められているかを見極めることです。
 
-### Controls
-- Arrow/WASD: drive/reverse/tilt; R: restart; Esc/P: pause (host dependent).
-
-### Tips
-- Feather throttle; full‑gas often flips the truck.
-- Use reverse mid‑air to tip the nose up or down.
-- Memorize trap timing; patience beats brute speed.
-
-### FAQ
-- Q: Are cars different?  
-[JA TRANSLATION NEEDED]   A: Some packs change vehicle weight/length, altering balance.
-- Q: Can I skip hard levels?  
-[JA TRANSLATION NEEDED]   A: Certain hosts allow level select; otherwise master timing and tilt control.
-- Q: Why break on bridges?  
-[JA TRANSLATION NEEDED]   A: Excess speed compresses suspension and bounces you off.
-
+*   **Q: 橋で跳ねて落ちてしまいます。**
+    *   **A:** スピードを出しすぎるとサスペンションが沈み込んで大きくバウンドすることがあります。進入速度を落としてみてください。

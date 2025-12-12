@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: tomb-of-the-mask
-title: '[KO] Tomb of the Mask'
+title: "Tomb of the Mask 툼 오브 더 마스크"
 description: >-
-  [KO] Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game!
-  Swipe to move your character from wall to wall, collecting coins and power-ups
-  while outrunning a rising flood. Master precise movements and quick decisions
-  to survive and uncover the tomb's secrets.
+  미로와 러너 게임이 결합된 아케이드 게임 Tomb of the Mask입니다. 벽에서 벽으로 미끄러지듯
+  이동하며 코인과 파워업을 모으고, 아래에서 차오르는 액체를 피해 빠르게 길을 찾아 올라가야 합니다.
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/tomb-of-the-mask.jpg
 tags:
@@ -18,34 +16,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+Tomb of the Mask는 미로 탐험과 엔드리스 러너 요소가 결합된 빠른 템포의 아케이드 게임입니다.
+플레이어는 벽에 부딪힐 때까지 한 번에 쭉 미끄러져 이동하는 캐릭터를 조작해, 픽셀 아트 스타일의
+미로를 빠르게 돌파해야 합니다. 맵 곳곳에 흩어져 있는 코인과 점, 각종 파워업을 모으는 동시에,
+화면 아래에서 점점 차오르는 잉크나 용암을 피해 위쪽으로 계속 올라가는 것이 목표입니다.
 
-Tomb of the Mask is a highly addictive, fast-paced arcade game that combines elements of maze navigation and endless runner. Players control a character who moves by swiping, sliding from wall to wall in a pixel-art maze. The primary goal is to collect coins and power-ups while outrunning a constantly rising flood of ink or lava from below.
+### 플레이 가이드
 
-### Gameplay Guide
+- **이동 방식 이해하기**: 캐릭터는 위/아래/왼쪽/오른쪽 네 방향 중 하나로 스와이프하면, 벽이나
+  장애물에 부딪힐 때까지 그 방향으로 한 번에 이동합니다. 짧게 한 칸씩 움직이는 게임이 아니므로,
+  이동 후 위치를 미리 계산하는 것이 중요합니다.
+- **코인 수집**: 미로 곳곳에 배치된 코인과 점을 모으면 점수가 올라가고, 일부 모드는 추가 보상이나
+  마스크 해금에 사용됩니다.
+- **파워업 활용**: 방패, 속도 증가, 시간 정지 등 다양한 파워업이 등장할 수 있습니다. 위급한 순간에
+  사용하면 한 번의 실수를 커버해 주거나, 어려운 구간을 쉽게 통과할 수 있습니다.
+- **함정과 적 피하기**: 바닥 가시, 움직이는 함정, 적과의 접촉은 대부분 즉사로 이어집니다. 이동 경로를
+  그려 보면서, 어느 타이밍에 어느 방향으로 미끄러질지 신중하게 선택하세요.
+- **아래에서 올라오는 위협**: 화면 아래에서 색색의 액체가 계속 차오르며, 너무 오래 머뭇거리면
+  그대로 잡혀 게임이 종료됩니다. 안전하게 생각하되, 지나치게 느리게 움직이지 않도록 속도와 안전의
+  균형을 맞추세요.
 
-- **Movement:** Swipe in any of the four cardinal directions (up, down, left, right). Your character will slide in that direction until they hit an obstacle.
-- **Collect:** Gather coins and dots scattered throughout the maze.
-- **Power-ups:** Pick up various power-ups like shields, speed boosts, or freeze abilities to help you survive.
-- **Avoid Obstacles:** Dodge spikes, traps, and enemies.
-- **Outrun the Flood:** A colored flood rises from the bottom of the screen, forcing you to move quickly upwards.
+### 조작 방법 안내
 
-### Controls Guide
+- **스와이프 이동(모바일)**: 화면을 위/아래/왼쪽/오른쪽으로 스와이프해 해당 방향으로 캐릭터를
+  이동시킵니다.
+- **키보드 이동(PC)**: `Arrow Keys` 또는 `WASD` 키를 사용해 네 방향으로 이동 명령을 내립니다.
+  캐릭터는 벽에 부딪힐 때까지 계속 이동한다는 점을 꼭 기억하세요.
 
-- **Swipe:** Swipe your finger across the screen (on mobile) or use `Arrow Keys` / `WASD` (on PC) to control your character's movement.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Q. 높은 점수를 얻으려면 어떻게 해야 하나요?**  
+A. 최대한 오래 살아남으면서 코인과 점을 빠짐없이 수집하는 것이 핵심입니다. 파워업을 아끼지 말고
+위험한 구간에서 적극 활용하고, 미로를 빠르게 읽어 효율적인 경로를 선택하면 점수가 크게 올라갑니다.
 
-**How do I get a high score?**
+**Q. 장애물에 부딪히면 어떻게 되나요?**  
+A. 대부분의 함정이나 적과 접촉하면 즉시 사망해 그 판이 종료됩니다. 다만 일시적으로 보호막을 주는
+파워업을 사용 중이라면 한 번 정도는 실수를 버틸 수 있습니다.
 
-A high score is achieved by surviving longer, collecting more coins, and utilizing power-ups effectively. Focus on efficient pathfinding and quick reflexes.
-
-**What happens if I hit an obstacle?**
-
-Hitting an obstacle will usually result in instant death, ending your run. Some power-ups might offer temporary protection.
-
-**Are there different masks?**
-
-Yes, as you progress and collect coins, you can unlock various masks. Each mask might offer a unique ability or bonus, adding a strategic layer to your runs.
-
+**Q. 다른 마스크(가면)를 잠금 해제할 수 있나요?**  
+A. 네, 게임을 진행하면서 코인을 모으거나 특정 조건을 달성하면 다양한 마스크를 해금할 수 있습니다.
+일부 마스크는 이동 속도나 점수 보너스 등 고유한 효과를 제공해, 플레이 스타일에 맞는 세팅을
+찾는 재미를 제공합니다.

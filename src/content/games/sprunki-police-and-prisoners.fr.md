@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: sprunki-police-and-prisoners
-title: '[FR] Sprunki Police And Prisoners - Play Sprunki Police And Prisoners Online'
+title: Sprunki Police And Prisoners - Jouer à Sprunki Police And Prisoners en ligne
 description: >-
-  [FR] Sprunki Police and Prisoners Mod is an engaging and innovative
-  modification to the renowned Incredibox Sprunki reality.
+  Sprunki Police and Prisoners est un Mod créatif qui transpose l’univers
+  Sprunki dans un monde abstrait façon police vs prisonniers, avec un style
+  visuel surréaliste et une forte dimension artistique.
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
 thumbnail: /sprunki-police-and-prisoners.png
 tags:
@@ -12,29 +13,38 @@ tags:
 score: 3.9/5  (325 votes)
 ---
 
+### Qu’est‑ce que Sprunki Police and Prisoners ?
 
+Sprunki Police and Prisoners revisite Incredibox Sprunki dans un décor
+abstrait, presque pictural. Les personnages rappellent des figures de
+policiers et de prisonniers stylisés, mais traités comme des formes graphiques
+modernes. Le résultat : une expérience à mi‑chemin entre jeu musical et œuvre
+d’art animée.
 
-### What is Sprunki Police and Prisoners Mod?
+### Comment créer ta musique ?
 
-Sprunki Police and Prisoners Mod is an engaging and innovative modification to the renowned Incredibox Sprunki reality. The Sprunki Police and Prisoners mod portrays characters and environment in a surreal, abstract design.
+- **Choisis tes personnages :** sélectionne différentes figures (côté « police »
+  ou « prisonniers »), chacune liée à un élément sonore (percussion, mélodie,
+  effet, voix…).
+- **Glisse‑dépose pour mixer :** place‑les sur la scène pour déclencher leurs
+  boucles et construire ton arrangement.
+- **Cherche les combinaisons cachées :** en testant différentes associations,
+  tu peux débloquer effets, transitions et petites animations bonus.
+- **Partage ton morceau :** si la plateforme le permet, exporte ou partage
+  ta création avec la communauté Incredibox/Sprunki.
 
-### How to Rock Your Music in Sprunki Police and Prisoners Mod?
+### Points forts de Sprunki Police and Prisoners
 
-- **Choose Your Character of Sprunki Police and Prisoners:** Select from a variety of animated characters, each representing different musical components. These characters bring rhythm, melody, and harmony together in a customizable format.
-- **Drag and Drop to Mix:** Using a simple drag-and-drop interface, you can arrange characters on the stage to compose your own musical track. Experiment with different combinations to discover the perfect balance of sound.
-- **Unlock Hidden Features of Sprunki Police and Prisoners:** Discover hidden content and achievements of Sprunki Police and Prisoners by experimenting with sound combinations. Incredibox Sprunki rewards creative exploration with Easter eggs and unique effects.
-- **Share Your Masterpiece of Sprunki Police and Prisoners:** Once you’ve completed your composition, share it with the Incredibox Sprunki community via Cocrea, where collaboration and feedback fuel even greater creativity.
-
-
-### Highlights of Sprunki Police and Prisoners Mod:
-
-- **Abstract Art Style:** This Mod places characters and environment in surreal, abstract designs, breaking the typical music pattern and introducing a novel harmonic ensemble.
-- **Ingenious Note Characters:** Sprunki's traditional characters assume an abstract identity, adopting a modern, art-centric aesthetic.
-- **Extraordinary Musical Journey:** It's not just making tunes; it's a symphony of creativity where every note dances with color and every beat has a personality, turning the mundane into a magical, rhythmic adventure that's as fun as it is mesmerizing.
-
+- **Style visuel abstrait :** personnages et environnement adoptent une
+  esthétique surréaliste très marquée, qui change des Mods plus « classiques ».
+- **Personnages‑notes ingénieux :** les avatars deviennent presque des symboles
+  graphiques, tout en restant faciles à lire côté gameplay.
+- **Voyage musical original :** plus qu’un simple jeu, c’est une petite
 
 ### Conclusion:
+  expérience sensorielle où chaque note semble se fondre dans les couleurs
+  et les formes.
 
-Whether you’re showing off your musical talent or just enjoying a relaxing time, Sprunki Police and Prisoners Mod promises endless entertainment. Come and drag, drop, and combine sounds to create hauntingly catchy tunes with a lovable cast of monstrous characters!
+Si tu veux un Mod Sprunki qui sorte de l’ordinaire, Sprunki Police and
+Prisoners est un excellent terrain de jeu pour ton oreille… et pour tes yeux.
 
-Immerse yourself into the whimsical journey, Sprunki Police and Prisoners infuses music creation with a vibrant cast of visually enchanting characters and rich, immersive soundscapes. Join this carnival of music and color, and let your creativity flow freely!

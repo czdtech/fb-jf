@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: grass-cutter
-title: '[KO] Grass Cutter'
+title: "Grass Cutter 잔디 깎기 퍼즐"
 description: >-
-  [KO] Grid puzzler: mow every tile exactly once with limited moves, avoid
-  obstacles, and plan routes to clear the lawn perfectly.
+  격자 위의 모든 잔디 칸을 한 번씩만 밟으며 깎아 나가는 경로 계획 퍼즐입니다.
+  바위와 물, 일방통행 타일 같은 장애물을 피해 막히지 않는 최적 루트를
+  찾아보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/grass-cutter.jpg
@@ -19,27 +20,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Grass Cutter is a route‑planning puzzle where a mower moves cell‑by‑cell or in straight lines until blocked (host dependent). The goal is to cut all grassy tiles without getting stuck, while rocks, water, and one‑way tiles complicate routes. Later stages add switches and teleporters.
+### 게임 개요
 
-### How to Play
-- Survey the grid; identify choke points you must pass once.
-- Use blockers to stop long slides at the right cells (if sliding rules apply).
-- Leave return paths open so you can cover remaining tiles.
+`Grass Cutter`는 잔디 깎는 기계를 한 칸씩, 혹은 장애물에 막힐 때까지 일직선으로
+이동시켜 모든 잔디 칸을 깎는 경로 설계 퍼즐입니다(움직임 방식은 호스트에 따라
+다를 수 있습니다). 바위, 물, 일방통행 타일 등이 길을 복잡하게 만들고, 후반
+스테이지에는 스위치나 순간이동 장치까지 추가되어 루트 계획이 점점 어려워집니다.
 
-### Controls
-- Arrow keys or swipe to move; undo/restart buttons are common.
+### 플레이 방법
 
-### Tips
-- Work backward from hard‑to‑reach corners.
-- If you slide, set up “stoppers” to end on target tiles.
-- Restart early when a route seals off uncut tiles.
+- 먼저 전체 그리드를 둘러보고, 반드시 한 번만 지나가야 하는 병목 구간을
+  찾아두세요.
+- 미끄러지는 규칙이 있는 버전이라면, 장애물을 “브레이크”처럼 사용해 원하는
+  칸에서 이동을 멈출 수 있도록 배치 방향을 조정해야 합니다.
+- 모든 잔디를 깎기 위해서는 되돌아올 길이 항상 남아 있어야 하므로, 마지막에
+  다녀야 할 구역을 막아 버리지 않도록 주의하세요.
 
-### FAQ
-- Q: What ends a level unsuccessfully?
-A: Leaving uncut tiles with no legal path or running out of moves (in move‑limited variants).
-- Q: Are there hints in the game?
-A: Many hosts provide limited hints or an undo stack.
-- Q: Do all versions use sliding movement?
-A: Some do, others are step‑based—check the rules on your host.
+### 조작 방법
 
+- 방향키 또는 스와이프 입력으로 잔디 깎기를 상하좌우로 이동시킵니다.
+- 대부분의 버전에서 되돌리기/재시작 버튼을 제공하므로, 잘못된 선택을 되짚을 수
+  있습니다.
+
+### 플레이 팁
+
+- 도달하기 어려운 구석부터 역으로 생각해, 그 칸으로 들어가기 위해 어떤 루트가
+  필요한지 먼저 설계해 보세요.
+- 미끄러지는 모드에서는 목표 칸에서 정확히 멈출 수 있도록, 벽이나 장애물을
+  “정지 지점”으로 활용하는 것이 핵심입니다.
+- 이미 특정 구역의 잔디를 더 이상 깎을 수 없게 막아 버렸다면, 과감히
+  재시작하는 편이 빠릅니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 어떤 경우에 레벨 실패로 처리되나요?  
+  A: 아직 깎지 않은 잔디 칸이 남아 있는데 더 이상 그 칸들로 갈 수 없는 경우,
+  또는 이동 횟수 제한이 있는 모드에서 횟수를 모두 소진했을 때 실패합니다.
+- Q: 힌트 기능이 있나요?  
+  A: 많은 호스트에서 제한된 힌트나 되돌리기 스택을 제공해 막혔을 때 도움을
+  줍니다.
+- Q: 모든 버전이 미끄러지는 이동을 사용하나요?  
+  A: 그렇지 않습니다. 일부는 한 칸씩 이동하는 방식이고, 다른 일부는 장애물에
+  닿을 때까지 미끄러지는 방식이니, 사용 중인 호스트의 규칙을 먼저 확인하세요.

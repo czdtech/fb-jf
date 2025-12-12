@@ -1,41 +1,54 @@
 ---
-locale: ja
-urlstr: drift-boss
-title: '[JA TRANSLATION NEEDED] Drift Boss'
-description: >-
-  [JA TRANSLATION NEEDED] Drift Boss is a one‑button drifting game: time your
-  turns to stay on the track and earn coins for upgrades.
+title: Drift Boss ドリフト・ボス
+description: 「Drift Boss」はワンボタン操作の爽快ドリフトゲーム。タイミングよく曲がり、コースから落ちないように走り続けてコインを集めよう。
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/drift-boss.jpg
+urlstr: drift-boss
+score: 3.7/5  (679 votes)
 tags:
   - racing
   - drifting
-score: 3.7/5  (679 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Overview
-[JA TRANSLATION NEEDED] One‑button drifting on a floating track: tap/hold to drift at corners, release to straighten, and stay on the platform to bank coins for vehicle upgrades.
+*Drift Boss（ドリフト・ボス）*は、ボタン一つで楽しめるカジュアルかつ中毒性の高いドライビングゲームです。宙に浮いた曲がりくねったコースを、車でドリフトしながら進みます。
+操作は「右に曲がる」だけ。ボタンを押すと右へ、離すと左へハンドルを切るというシンプルな仕組みですが、完璧なタイミングとリズム感が求められます。コース上のコインを集めて、新しい車やアップグレードをアンロックしましょう。
 
-### How to Play
-- Anticipate corner entry; press to start a drift, release to exit.
-- Narrow platforms and bumps require shorter, snappier holds.
-- Coins unlock cars with better traction or stability.
+### 遊び方
 
-### Controls
-- Mouse/Space/Touch: hold to drift; release to go straight.
+*   **ドリフト:** カーブの入り口を見極め、ボタンを押して（または画面をタップして）ドリフトを開始します。
+*   **直線:** カーブが終わったらボタンを離し、直進します。
+*   **落下注意:** タイミングが早すぎたり遅すぎたりすると、コースから落下してゲームオーバーになります。
 
-### Tips
-- Look ahead for S‑bends; use micro‑taps instead of long holds.
-- Don’t over‑correct—falling usually comes from late releases.
-- Spend early on stability to survive longer tracks.
+### 操作ガイド
 
-### FAQ
-- Q: Is there braking?  
-[JA TRANSLATION NEEDED]   A: No manual brake—timed holds manage angle and speed through corners.
-- Q: Do cars handle differently?  
-[JA TRANSLATION NEEDED]   A: Yes—higher tiers offer grippier or more forgiving drift windows.
-- Q: How to farm coins faster?  
-[JA TRANSLATION NEEDED]   A: Chain long runs and complete daily/track challenges when present.
+*   **操作:** マウス（クリック長押し）、スペースキー、またはタッチ操作。
+    *   **押している間:** 右に曲がる（ドリフト）
+    *   **離すと:** 左に戻る（直進）
 
+### 攻略のヒント
+
+*   **先読み:** 目の前のカーブだけでなく、その先のコース形状も見ておきましょう。S字カーブでは細かい連打（タップ）が必要になることがあります。
+*   **修正:** 大きく曲がりすぎたと思ったら、一瞬だけ指を離して微調整しましょう。
+*   **アップグレード:** 集めたコインで「グリップ力」などを強化すると、操作しやすくなり、より長く走れるようになります。
+
+### よくある質問 (FAQ)
+
+*   **Q: ブレーキはありますか？**
+
+A: No manual brake—timed holds manage angle and speed through corners.
+- **A:** いいえ、車は自動で走り続けます。ハンドル操作のみで制御します。
+
+
+A: Yes—higher tiers offer grippier or more forgiving drift windows.
+*   **Q: 車によって性能は違いますか？**
+
+A: Chain long runs and complete daily/track challenges when present.
+    *   **A:** はい、コインでアンロックできる車の中には、ハンドリング性能が良いものや、コインボーナスがあるものなどがあります。
+
+*   **Q: コインを早く集める方法は？**
+    *   **A:** 毎日のリワードを受け取ったり、長い距離を走って記録を伸ばすとボーナスが貰えたりします。

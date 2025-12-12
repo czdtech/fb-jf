@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: confront
-title: '[KO] Confront'
+title: 'Confront 컨프론트'
 description: >-
-  [KO] Confront places players in a fast-paced shooting scenario where quick aim
-  and sharp reflexes are crucial.
+  Confront는 총알 시간(bullet time)을 활용해 빠른 전투 속에서도 침착하게 조준을
+  결정해야 하는 1인칭 슈팅 액션 게임입니다. 빠른 반응과 정확한 에임으로 다가오는
+  적들을 처치하세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/confront.jpg
@@ -15,10 +16,39 @@ score: 4.7/5  (407 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Confront는 속도감 있는 슈팅 전투 속에서, 상황에 따라 시간을 느리게 만들 수 있는
+"총알 시간(bullet time)"을 활용하는 것이 특징인 슈팅 게임입니다. 플레이어는 짧은
+순간에 여러 적을 상대해야 하며, 빠른 반사 신경과 함께 언제 시간을 늦춰 침착하게
+조준할지 판단하는 전략이 중요합니다.
 
+각 스테이지는 액션이 가득한 전장으로 구성되어 있으며, 사방에서 등장하는 적을
+정확히 조준해 쓰러뜨리며 앞으로 나아가야 합니다. 감각에만 의존하기보다는, 직감과
+정밀 조준 사이의 균형을 잡는 것이 승리의 열쇠입니다.
 
-Confront places players in a fast-paced shooting scenario where quick aim and sharp reflexes are crucial. Employ bullet-time for more calculated actions, setting this title apart from typical shooters. Balance intuition and precision across varied, action-filled environments as you hone your accuracy in rapidly evolving challenges.
+### 플레이 방법
 
-### How to Play
-Use your mouse to guide the character. Click to both slow down time and fire at enemies. Advance by defeating all opponents. Adapt quickly and aim carefully. A tip: prioritizing headshots can speed up success.
+-   **조준 및 이동:** 마우스로 시점을 움직여 캐릭터가 바라보는 방향과 조준점을
+    조절합니다.
+-   **공격 및 슬로 모션:** 마우스를 클릭하면 시간이 느려지면서 동시에 적에게
+    발포합니다. 슬로 모션 상태에서는 탄도와 적의 움직임을 더 잘 파악할 수 있어
+    정확한 조준이 쉬워집니다.
+-   **진행:** 화면에 등장하는 적들을 모두 처치하면 다음 구간 혹은 스테이지로
+    이동할 수 있습니다.
+
+### 플레이 팁
+
+-   **머리부터 노리기**  
+    헤드샷은 적을 더 빨리 제압할 수 있어, 다수의 적을 상대할 때 특히 유리합니다.
+    슬로 모션 상태에서 여유를 가지고 머리를 정확히 겨냥해 보세요.
+
+-   **슬로 모션은 필요할 때만**  
+    시간 느리게 하기 기능은 남용하면 템포를 잃기 쉽습니다. 위기 상황이나 멀리
+    있는 적을 정밀하게 처리해야 할 때 등, 필요할 때만 사용하는 습관을 들이는
+    것이 좋습니다.
+
+-   **주변 상황 항상 확인하기**  
+    한 명의 적에게만 집중하다가, 다른 방향에서 날아온 공격에 당하지 않도록
+    주변을 수시로 둘러보세요. 특히 좁은 공간에서는 후방에서 접근하는 적을
+    주의해야 합니다.

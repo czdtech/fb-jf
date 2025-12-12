@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: incredibox-sprunksters
-title: '[KO] Incredibox Sprunksters - Play Incredibox Sprunksters Online'
+title: "Incredibox Sprunksters 스프렁크스터즈 모드"
 description: >-
-  [KO] Say goodbye to the same old sounds! Incredibox Sprunksters brings new
-  samples and effects to the table, making your music feel unique and creative.
+  Bismeowth가 제작한 팬메이드 모드 'Incredibox Sprunksters'
+  가이드입니다. Sprunki 스타일 캐릭터와 숨겨진 어나더 월드를
+  활용해 개성 있는 비트를 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
 thumbnail: /incredibox-sprunksters.png
 tags:
@@ -14,35 +15,67 @@ score: 4.3/5  (185 votes)
 
 
 
-Hey music makers! Wanna spice up your music creation routine? Let me introduce you to Incredibox Sprunksters! This isn't your standard Incredibox vibe; it's a super creative mod crafted by the awesome Bismeowth, blending the quirky spirit of Sprunki with music making in a way that opens up endless possibilities!
+음악 작업 루틴이マン네리하게 느껴진다면, *Incredibox Sprunksters*를
+한번 켜 볼 차례입니다. 이 모드는 기본 Incredibox 감성과는 조금 다른,
+Sprunki 특유의 **괴짜스러운 스타일**을 음악 제작에 녹여낸 작품으로,
+모더 Bismeowth가 제작했습니다. 덕분에 기존 팬에게도 새로운 자극을
+주는 실험적인 모드가 되었습니다.
 
-### So, What's the Lowdown on Incredibox Sprunksters?
+### Incredibox Sprunksters란?
 
-Basically, Incredibox Sprunksters is your ticket to a musical adventure where you get to compose beats using a crew of seriously stylish characters. It keeps the classic Incredibox drag-and-drop gameplay – pick a character, drop 'em on stage, let 'em do their thing – but injects it with a whole new Sprunksters flavour. The best part? There are no wrong notes here, just pure creative freedom to experiment and mash up awesome sound combos.
+간단히 말해, Incredibox Sprunksters는 **스타일리시한 캐릭터 크루로
+비트를 만드는 모험**입니다. 기본적인 드래그 앤 드롭 구조는
+그대로 유지하되, Sprunksters만의 독특한 디자인과 사운드가
+추가되어 완전히 다른 분위기를 만들어 줍니다.
 
-### How to Get Down with Incredibox Sprunksters?
+클래식 Incredibox처럼 “정답”은 없습니다. 마음에 드는 캐릭터를
+무대에 올려 자유롭게 조합하며, 본인이 듣기 좋은 믹스를 만드는
+것이 이 모드의 전부이자 전부입니다.
 
-It's super easy to get started!
+### 어떻게 플레이하나요?
 
-- **Pick Your Players:** You've got a lineup of charming Sprunksters characters waiting, each representing different instruments or sound effects.
-- **Drag & Mix:** Grab the characters you like and drop them onto the stage. Their sounds instantly become part of your track.
-- **Layer It Up:** Keep adding more characters, trying out different sound layers. You'll see (and hear!) how the music gets richer and more interesting.
-- **Experiment for Magic:** The real fun of Incredibox Sprunksters is just messing around! Mix different characters together, and you might stumble upon some seriously cool and unexpected rhythms and melodies.
+조작 자체는 매우 간단합니다.
 
+- **플레이어(캐릭터) 선택**: 다양한 스프렁크스터 캐릭터가
+  대기 중이며, 각각 악기나 효과음 등 다른 역할을 담당합니다.  
+- **드래그 & 믹스**: 마음에 드는 캐릭터를 무대로 끌어 올리면
+  그 순간부터 해당 사운드가 곡에 더해집니다.  
+- **레이어 쌓기**: 여러 캐릭터를 계속 추가해 사운드를 겹치면,
+  루프가 점점 풍성해지며, 캐릭터 간 시너지도 자연스럽게 들립니다.  
+- **실험이 곧 정답**: 서로 어울릴 것 같지 않은 조합을 과감히
+  섞어 보는 것이 이 모드의 진짜 재미입니다. 예상치 못한 리듬이나
+  멜로디가 나올 때가 많습니다.
 
-### The Unique Twist in Incredibox Sprunksters:
+### Sprunksters만의 숨겨진 트릭
 
-Ready for a little surprise? Incredibox Sprunksters has a hidden trick up its sleeve. When you drag that special character wearing the black hat to the center stage, and *then* remove him, BAM! The whole vibe switches to a darker, more chaotic "alternate world"! This hidden realm comes with a completely new set of sounds and atmosphere, letting you experiment with a totally different musical style. How cool is that setup?
+이 모드에는 작은 장치가 하나 숨어 있습니다.  
+검은 모자를 쓴 **특별한 캐릭터**를 무대 중앙에 올렸다가 제거하면,
+갑자기 전체 분위기가 **더 어둡고 혼란스러운 “대체 세계”**로
+전환됩니다. 이 숨겨진 영역에서는 완전히 다른 사운드 세트와
+분위기를 경험할 수 있어, 한 모드 안에서 두 개의 스타일을
+즐기는 느낌을 줍니다.
 
-### Why Should You Jump into Incredibox Sprunksters?
+### 왜 Incredibox Sprunksters를 해봐야 할까요?
 
-- **Characters & Animations with Style:** Bismeowth really put effort into the character designs and animations – they look great and add a ton of visual fun to the music-making process.
-- **Fresh & Fun Sound Library:** Say goodbye to the same old sounds! Incredibox Sprunksters brings new samples and effects to the table, making your music feel unique and creative.
-- **Simple Yet Deep:** The gameplay is easy to grasp, but the possibilities for combinations are endless. Perfect for music newbies and seasoned players alike.
-- **That Hidden Dark Side:** The switchable "alternate world" is a brilliant touch, adding layers of exploration and surprise to the game.
-- **Play Anywhere:** You can play it directly online on sites like playfiddlebops.com – no downloads needed, super convenient!
+- **개성 넘치는 캐릭터와 애니메이션**: Bismeowth가 정성 들여 만든
+  캐릭터 디자인과 애니메이션 덕분에, 단순히 음악만 듣는 것이 아니라
+  “공연”을 감상하는 기분을 줍니다.  
+- **새로운 사운드 라이브러리**: 기존 Incredibox와 다른 샘플과
+  효과음이 다수 포함되어 있어, 익숙한 구조 안에서 새로운 조합을
+  찾는 맛이 있습니다.  
+- **단순하지만 깊은 조합성**: 조작은 매우 간단하지만, 캐릭터 배치
+  방식에 따라 결과는 무한대로 달라집니다. 입문자와 고급 유저 모두에게
+  어울리는 구조입니다.  
+- **숨겨진 다크 사이드**: 버튼 한 번으로 전환되는 것은 아니지만,
+  특정 캐릭터를 활용해 “어두운 세계”로 넘어갈 수 있다는 설정이
+  탐색과 재플레이 욕구를 자극합니다.  
+- **언제 어디서나 플레이 가능**: 설치 없이 **playfiddlebops.com**
+  같은 사이트에서 바로 플레이할 수 있어 접근성이 좋습니다.
 
+### 한줄 정리
 
-### Bottom Line:
+Incredibox Sprunksters는 **창의성, 유머, 깜짝 놀랄 만한 연출**이
+알차게 담긴 모드입니다. 매력적인 캐릭터, 새로운 사운드,
+숨겨진 대체 세계까지 더해져, Incredibox 팬이라면 반드시 한 번은
+경험해 볼 만한 작품입니다.
 
-Incredibox Sprunksters is a fantastic platform packed with creativity, fun, and delightful surprises. With its charming characters, fresh sounds, and that awesome "alternate world" feature, it offers a truly unique gaming experience. Don't hesitate! Dive into the world of Incredibox Sprunksters and start creating your own quirky beats right now! 🎶✨ Have fun!

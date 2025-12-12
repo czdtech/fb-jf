@@ -1,42 +1,36 @@
 ---
+title: "Gold Miner"
+description: "フックで釣り上げるアーケードの定番：タイミングよく爪を放って金や宝石を掴み、パワーアップを購入し、時間切れになる前に目標金額を達成しましょう。"
+iframeSrc: "https://ad-freegames.github.io/flash/game/gold-miner.html"
+thumbnail: "/new-images/gold-miner.jpg"
+urlstr: "gold-miner"
+score: "4.2/5  (260 votes)"
+tags: ["arcade", "skill"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: gold-miner
-title: '[JA TRANSLATION NEEDED] Gold Miner'
-description: >-
-  [JA TRANSLATION NEEDED] Hook‑and‑haul arcade classic: time your claw to snag
-  gold and gems, buy power‑ups, and reach the target cash before time runs out.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
-thumbnail: /new-images/gold-miner.jpg
-tags:
-  - arcade
-  - skill
-score: 4.2/5  (260 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Gold Minerは、揺れる爪（クロー）を指示通りに落とし、地下の物体に引っ掛けるタイミングベースのアーケードゲームです。大きな金の塊は重いですが高価です。岩は安価で速度を落とさせます。ダイヤモンドは軽くて高価です。各レベルには制限時間内に達成すべき目標金額があり、ショップでは難しいステージのためにダイナマイト、強力ドリンク、幸運のクローバーなどが販売されています。
 
+### 遊び方
+- 爪の弧がターゲットと重なった時に発射（トリガー）します。
+- 序盤は大きな金を優先しましょう。不要な岩を捨てるためにダイナマイトを使いましょう。
+- ラウンド間にアップグレードを購入して、より高い目標を達成しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Gold Miner is a timing‑based arcade game where a swinging claw drops on command to latch onto underground objects. Large gold chunks are heavy but lucrative; rocks are cheap and slow you down; diamonds are light and valuable. Each level has a cash target under a time limit, and a shop offers dynamite, strength drinks, and lucky clovers for tougher stages.
+### 操作方法
+- 1つのキー/クリックで爪を落とします。アイテム用の追加キーがある場合もあります（ホストによります）。
 
-### How to Play
-- Trigger the claw when its arc aligns with your target.
-- Prioritize large gold early; use dynamite to ditch unwanted rocks.
-- Purchase upgrades between rounds to meet higher goals.
+### ヒント
+- 弧のタイミングを覚えましょう。物体の中心よりわずかに手前でリリースします。
+- 時間を浪費する大きな岩のために、ダイナマイトを取っておきましょう。
+- ダイヤモンドとミステリーバッグは投資対効果（ROI）が高いです。レイアウトによって狙いを調整しましょう。
 
-### Controls
-- One key/click to drop claw; additional keys for items (host dependent).
-
-### Tips
-- Learn arc timing—release slightly before the object’s center.
-- Save dynamite for big rocks that waste time.
-- Diamonds and mystery bags are high ROI; adjust targets by layout.
-
-### FAQ
-- Q: How do I reach high targets on late levels?  
-[JA TRANSLATION NEEDED]   A: Buy strength and bombs, and focus on diamond routes.
-- Q: Does dynamite refund time on rocks?  
-[JA TRANSLATION NEEDED]   A: It cancels the haul, letting you resume faster.
-- Q: Are layouts random each run?  
-[JA TRANSLATION NEEDED]   A: Many versions randomize objects within difficulty bounds.
-
+### よくある質問 (FAQ)
+- **Q: 後半のレベルで高い目標を達成するには？**  
+  A: パワーアップや爆弾を購入し、ダイヤモンドのルートに集中しましょう。
+- **Q: ダイナマイトを使うと、岩にかかった期間も返ってきますか？**  
+  A: 引き上げをキャンセルできるので、すぐに再開できます。
+- **Q: レイアウトは毎回ランダムですか？**  
+  A: 多くのバージョンでは、難易度の範囲内でオブジェクトがランダム化されます。

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: block-champ
-title: '[ZH TRANSLATION NEEDED] Block Champ'
+title: "Block Champ 闪电方块大师"
 description: >-
-  [ZH TRANSLATION NEEDED] Challenge your strategic mind with Block Champ, a
-  10x10 grid puzzle game. Place shapes to clear lines, master special lightning
-  and ice blocks, and aim for the highest score in this engaging brain-teaser.
+  《Block Champ 闪电方块大师》是一款 10×10 棋盘的策略拼块游戏，在普通消行机制基础上加入闪电块与冰块等特殊
+  方块，合理利用连消与特效清理棋盘，冲击高分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/block-champ.jpg
 tags:
@@ -16,48 +15,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Block Champ is a strategic puzzle game played on a 10x10 grid. It combines the line-clearing mechanics of classic block puzzle games with unique special blocks to create a more dynamic challenge. The objective is to score as many points as possible by strategically placing a variety of given block shapes onto the grid.
+*Block Champ* 是一款在 10×10 棋盘上进行的策略型方块拼图游戏，它延续了经典消行拼块玩法，同时加入了多种特殊方块，让局面更加多变。你的目标是：通过合理摆放底部给出的各种方块，在棋盘上不断凑满横行或纵列以清行并获得高分。
 
-[ZH TRANSLATION NEEDED] When a complete horizontal or vertical line is formed, that line is cleared from the board, freeing up space. The game provides the player with three block shapes at a time. The game ends when none of the three currently available shapes can be placed on the grid.
+每次你会同时看到三块可用拼图。当某一行或某一列被方块完全填满时，该行 / 列就会被清除，腾出空间。只要当前这三块中有任意一块完全无处可放，本局就会立即结束。
 
-[ZH TRANSLATION NEEDED] What sets Block Champ apart are its special blocks:
--   **Lightning Blocks:** Some pieces will have a lightning bolt icon on one of their squares. When the line (row or column) containing this specific square is cleared, the lightning bolt activates and clears the entire perpendicular line as well.
--   **Ice Blocks:** These appear on the board as obstacles. To remove an ice block, you must clear the line it is in twice. The first clear breaks the ice, revealing a normal block underneath. The second clear removes the block and the space.
+本作的关键特色在于两类特殊方块：
 
-[ZH TRANSLATION NEEDED] The game requires foresight and careful space management to achieve a high score.
+-   **闪电方块（Lightning Blocks）：** 某些拼块上的单个格子会带有闪电图标。当包含该格子的那一整行或一整列被清除时，闪电会额外触发一次**垂直或水平的整行清除**——如果你清的是行，就再清整列；如果清的是列，就再清整行。
+-   **冰块（Ice Blocks）：** 这些方块会以带冰壳的形式出现在棋盘上。要把它们真正移除，需要清除它所在的那一行 / 列 **两次**：第一次只打碎冰壳，露出下面的普通块；第二次再清行时才会连同该块一并消除。
 
-### Gameplay Strategy
+因此，要拿高分，既要会普通的空间管理，也要充分利用闪电与冰块机制。
 
--   **Keep Your Options Open:** Avoid creating single, isolated empty squares. These "holes" are very difficult to fill, as you must wait for a 1x1 block, which is rare. Try to keep the board as flat and open as possible.
--   **Use Large Pieces First:** When you are given large, awkward pieces (like the 3x3 square or the 5-block straight line), try to place them as soon as a good opportunity arises. Hoarding them will quickly lead to a situation where they no longer fit.
--   **Plan for Combos:** Always look for opportunities to clear a row and a column simultaneously with a single piece. This not only scores more points but is also much more efficient at clearing space.
--   **Strategic Use of Lightning Blocks:** A lightning block is a powerful tool. Don't just place it anywhere. If you have a lightning block that clears a column, try placing it in a column that is messy and difficult to complete normally. This can save you from a tight spot.
--   **Prioritize Clearing Ice Blocks:** Ice blocks are a major threat because they clog up the board and require double the effort to remove. Make it your top priority to clear the lines they occupy. Letting them accumulate can quickly end your game.
--   **Think in Threes:** Always consider all three pieces available to you before making a move. Sometimes the best move isn't placing the easiest piece, but placing one piece in a way that sets up perfect spots for the other two.
+### 游戏策略
 
-### Controls Guide
+-   **保持棋盘“通透”，避免孤立空格：** 尽量避免留下单个孤立空格，这些位置往往需要极少出现的 1×1 方块才能填上。让棋盘轮廓尽量平整、空位成片，会给你更多可用落点。
+-   **优先处理体积大、形状怪的方块：** 遇到 3×3 方块、长条等占地面积大的形状时，只要有合适位置就尽早放下。把它们一直留在待选区，很容易在后期找不到容身之所，直接导致死局。
+-   **善用连消机会：** 尽量寻找既能完成一行又能完成一列的落点，一次清双线既能大量得分，又能迅速清空大块区域，为后续留出更整洁的棋盘。
+-   **策略性使用闪电方块：** 闪电是救场神器，不要随便落子。若闪电能清列，就把它放到最难填满的那一列；若能清行，就用来扫掉杂乱的一行，关键时刻能直接起死回生。
+-   **优先清理冰块所在的行 / 列：** 冰块会占据格子并需要两次清行才能完全消除，如果任由它们堆积，很快会把棋盘堵死。看到冰块时，尽量围绕它的那一行 / 列做布局，优先完成两次清除。
+-   **每次落子前，都看一眼三块的整体配合：** 有时最好的选择并不是先摆最容易的一块，而是通过第一块的位置，为后两块预留刚好合适的空间。把三块当作一个“组合”来思考，会比逐块随缘摆放稳定得多。
 
-[ZH TRANSLATION NEEDED] The game features very simple drag-and-drop controls, suitable for both mouse and touch devices.
+### 操作指南
 
--   **Select a Piece:** Click and hold (or tap and hold) one of the three available block shapes at the bottom of the screen.
--   **Place the Piece:** Drag the selected shape onto the 10x10 grid. If the placement is valid, the squares will be highlighted.
--   **Confirm Placement:** Release the mouse button (or lift your finger) to drop the piece into the highlighted position.
+本作采用非常直观的拖拽式操作，适合鼠标和触控设备：
 
-[ZH TRANSLATION NEEDED] **Important Note:** The pieces cannot be rotated. You must use them in the orientation they are given.
+-   **选择方块：** 在屏幕底部点击并按住任意一块拼图。  
+-   **移动与放置：** 将其拖动到 10×10 棋盘上合适位置，当格子高亮时松手即可放置。  
+-   **确认落子：** 当位置正确时松开鼠标（或抬起手指）即可完成放置。
 
-### Frequently Asked Questions (FAQ)
+**重要说明：** 方块**无法旋转**，你必须按照给定朝向来使用它们，这是游戏难度的重要来源。
 
-[ZH TRANSLATION NEEDED] **1. Can I rotate the blocks?**
-[ZH TRANSLATION NEEDED] > No, rotation is not a feature in Block Champ. This is a core part of the challenge, forcing you to work with the shapes exactly as they are presented.
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **2. What do the lightning bolts do exactly?**
-[ZH TRANSLATION NEEDED] > A lightning bolt is on a single square within a larger piece. When you complete the line (row OR column) that this specific square is in, the lightning activates. If you completed a row, it will clear the entire column it was in. If you completed a column, it will clear the entire row it was in.
+**1. 方块可以旋转吗？**  
+不能。*Block Champ* 特意不提供旋转功能，就是希望你在固定形状下做好空间规划。
 
-[ZH TRANSLATION NEEDED] **3. How do I get rid of the frozen or ice blocks?**
-[ZH TRANSLATION NEEDED] > You must clear the line containing the ice block two times. The first time you complete the line, the ice will break, but the block underneath remains. The second time you complete that same line, the block will be removed like any normal clear.
+**2. 闪电方块的效果具体是什么？**
+> 闪电只附着在某一块拼图中的单个格子上。当你完成包含该格子的那一行或那一列时就会触发：如果你清的是行，它会把对应整列也一并清除；如果清的是列，它会清掉整行，等于用一次消除换来十字形的双线清屏。
 
-[ZH TRANSLATION NEEDED] **4. Why did the game end even though I have space on the board?**
-[ZH TRANSLATION NEEDED] > The game ends when there is no valid position on the board for ANY of the three pieces you are currently holding. Even if the board looks mostly empty, if none of your specific shapes can fit into the available gaps, the game is over.
+**3. 冰块该怎么处理？**  
+冰块所在行第一次被清除时，只会打碎冰层，露出正常方块；第二次再清同一行 / 列时，才会把该格子和其所在行 / 列彻底清掉。因此，看到冰块就尽量围绕它多做一次清行。
 
+**4. 为什么明明棋盘还有不少空位，游戏却结束了？**  
+游戏结束条件不是“棋盘塞满”，而是“当前三块拼图**都找不到可放位置**”。哪怕棋盘看起来还有很多空格，如果这些空格的形状组合容纳不了任意一块，你依然会直接 Game Over。

@@ -1,11 +1,10 @@
 ---
 locale: fr
 urlstr: hoop-hero
-title: '[FR] Hoop Hero'
+title: Hoop Hero
 description: >-
-  [FR] Tap at the right moment to dunk the ball! Test your reflexes in this
-  fast-paced, one-touch basketball game. Time your dunks perfectly to score and
-  achieve a high score.
+  Appuie au bon moment pour dunker ! Jeu de basket one‑tap nerveux où tu
+  enchaînes les paniers pour battre ton record.
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/hoop-hero.png
 tags:
@@ -18,34 +17,37 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Hoop Hero est un jeu d’arcade minimaliste et addictif jouable avec un seul tap. Un ballon de basket se déplace et tu dois toucher l’écran au moment précis où il s’aligne avec le panier pour réussir un dunk. La difficulté vient de la vitesse qui augmente et des trajectoires de plus en plus trompeuses. Ton objectif est d’enchaîner le plus de dunks consécutifs possible pour établir un nouveau record.
 
+### Comment jouer
 
-### Detailed Game Introduction
+1.  **Concentre‑toi sur le timing** : tout repose sur le rythme. Observe la trajectoire du ballon et anticipe le moment où il va passer exactement au‑dessus du panier.  
+2.  **Vise les « perfect »** : dans certaines versions, les tirs parfaits (sans toucher l’arceau) rapportent des points bonus. Essaie de taper quand le ballon est parfaitement centré sur le cercle.  
+3.  **Reste calme** : plus ta série est longue, plus la pression monte. Pour garder un bon score, respire et garde ton tempo ; une seule tape précipitée peut ruiner ta run.  
+4.  **Apprends les motifs de mouvement** : le ballon ne se contente pas toujours d’un simple va‑et‑vient. Reste attentif aux nouveaux patterns pour ajuster ton timing.
 
-Hoop Hero is a minimalist and addictive one-touch arcade game that tests your timing and reflexes. The gameplay is simple: a basketball moves, and you must tap the screen at the precise moment it aligns with the hoop to score a dunk. The challenge comes from the increasing speed and tricky patterns of the ball's movement. The goal is to score as many consecutive dunks as possible to achieve a new high score.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+Le jeu se joue avec une seule action.
 
-1.  **[FR]** **Focus on the Timing:** This game is all about rhythm and timing. Don't get distracted. Watch the ball's movement pattern and anticipate when it will cross over the hoop.
-2.  **[FR]** **Aim for Perfect Swishes:** While just getting the ball in is enough, many versions of this game reward "perfect" or "swish" shots (dunking without hitting the rim) with extra points. Try to tap when the ball is perfectly centered over the hoop.
-3.  **[FR]** **Stay Calm:** As your streak gets longer, the pressure builds. The key to a high score is to stay calm and maintain your focus. One rushed or panicked tap will end your run.
-4.  **[FR]** **Learn the Patterns:** The ball doesn't always move in a simple back-and-forth line. Pay attention to different movement patterns as they appear so you can adapt your timing accordingly.
+- **Dunker** : clique avec le bouton gauche de la souris ou touche l’écran pour faire chuter le ballon et tenter le panier.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-The game is played with a single action.
+- **Q : Quel est l’objectif du jeu ?**  
+  R : Marquer le plus de dunks d’affilée possible. La partie se termine dès ton premier tir raté.
 
-*   **[FR]** **Dunk:** Click the left mouse button or tap anywhere on the screen to make the ball drop and dunk.
+    - **Q : Comment obtenir un meilleur score ?**  
+  R : Ton score dépend du nombre de paniers consécutifs. Dans certaines versions, les tirs parfaits qui traversent le filet sans toucher l’arceau donnent des points supplémentaires.
 
-### Frequently Asked Questions (FAQ)
+- **Q : Peut‑on continuer après un raté ?**  
 
-*   **[FR]** **Q: What is the objective of the game?**
-    *   **[FR]** **A:** To score as many consecutive dunks as you can. The game ends after your first miss.
+    - **A:** Typically, no. These hyper-casual games are designed for quick sessions, and a single miss means the game is over and you must start again.
 
-*   **[FR]** **Q: How do I get a higher score?**
-    *   **[FR]** **A:** Your score is based on the number of successful dunks you make in a row. Some versions also provide bonus points for "perfect" shots that go straight through the net.
+- **Q: Is there any way to continue after a miss?**
 
-*   **[FR]** **Q: Is there any way to continue after a miss?**
-    *   **[FR]** **A:** Typically, no. These hyper-casual games are designed for quick sessions, and a single miss means the game is over and you must start again.
+    - **A:** Your score is based on the number of successful dunks you make in a row. Some versions also provide bonus points for "perfect" shots that go straight through the net.
+  R : En général non. Ces jeux hyper‑casual sont pensés pour des parties rapides : un échec met fin à la run et tu recommences depuis zéro.
 

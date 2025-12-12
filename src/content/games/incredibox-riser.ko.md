@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-riser
-title: '[KO] Incredibox Riser'
+title: Incredibox Riser 코즈믹 일렉트로닉 모드
 description: >-
-  [KO] Incredibox Riser this guide details its ambient electronic sound palette,
-  gameplay for creating cosmic tracks, and how to unlock its sci-fi bonuses.
+  우주·SF 분위기의 앰비언트 일렉트로닉 사운드를 담은 팬메이드 모드 'Incredibox Riser' 가이드입니다. 코즈믹 신스와 서서히
+  고조되는 트랙을 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
 thumbnail: /new-images/incredibox-riser.png
 tags:
@@ -17,43 +17,76 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox Riser Game Introduction**
+*Incredibox Riser*는 음악 제작 게임 Incredibox를 기반으로 한
+분위기 넘치는 팬메이드 모드로, 이름처럼 **점점 고조되는 코즈믹
+일렉트로닉 사운드**에 초점을 맞추고 있습니다.
 
-*Incredibox Riser* is a popular and atmospheric fan-made mod for the music creation game Incredibox. The game utilizes the classic Incredibox drag-and-drop gameplay. Players are given a palette of 20 unique sound icons to assign to their crew of seven performers. The sound library is a cinematic blend of **ambient electronic music, soaring synth melodies, and futuristic sound effects**, designed to create a sense of wonder and exploration.
+플레이어는 7명의 캐릭터에게 20개의 사운드 아이콘을 입히며 곡을
+만드는 익숙한 드래그 앤 드롭 방식을 사용합니다. 사운드 라이브러리는
+**앰비언트 전자음, 상승하는 신스 멜로디, 미래적인 효과음**으로
+구성되어, 우주를 여행하는 듯한 장대한 사운드스케이프를 만들 수
+있습니다.
 
+### **플레이 전략 & 팁**
 
-### **Gameplay Strategy & Tips**
+Riser의 핵심은 **규모감과 여정**을 표현하는 것입니다. 한 번에
+모든 사운드를 켜기보다는, 천천히 쌓아 올려 클라이맥스를 향해
+올라가는 구조를 만드는 것이 좋습니다.
 
-Strategy in *Incredibox Riser* is about building a sense of scale and journey, layering sounds to create an epic, cinematic track.
+1. **코즈믹 사운드 카테고리 이해하기**  
+    - **Beats**: 깨끗하고 미래적인 전자 비트가 중심입니다. 펄싱
+     전자 드럼, 딥 서브베이스 패턴, 정교한 신스 퍼커션 등이
+     곡의 추진력을 담당합니다.  
+    - **Effects**: SF 분위기를 만드는 데 가장 중요한 카테고리입니다.
+     우주 공간을 연상시키는 신스 패드, 통신 노이즈, 에테리얼 드론
+     등 무한한 공간감을 주는 사운드가 들어 있습니다.  
+    - **Melodies**: 웅장하고 떠오르는 듯한 신스 멜로디가 많습니다.
+     기억에 남는 아르페지오 라인, 리드 신스 훅 등을 중심으로
+     트랙의 감정선을 만들 수 있습니다.  
+    - **Voices**: 보컬은 보코더·로봇 보이스·합창 패드 등으로
+     적극적으로 처리되어, 인간과 기계 사이 어딘가에 있는
+     미래적 느낌을 줍니다.
 
-1.  **[KO]** **Understand the Cosmic Sound Palette**:
-    *   **[KO]** **Beats**: The rhythms are clean and futuristic. Expect to find pulsing **electronic beats**, deep sub-bass patterns, and precise, synthetic percussion that provides a steady, driving pulse.
-    *   **[KO]** **Effects**: This category is key to the sci-fi atmosphere. It includes sounds like **spacey synth pads**, the static of radio transmissions, ethereal drones, and other ambient textures that create a feeling of infinite space.
-    *   **[KO]** **Melodies**: The melodies are often grand and soaring. This category features memorable **arpeggiated synth lines**, powerful lead melodies, and cosmic-sounding hooks that give the track its emotional weight.
-    *   **[KO]** **Voices**: Vocals are heavily processed to sound futuristic or alien. Look for **vocoder harmonies**, robotic chanting, and ethereal, choir-like vocal pads.
+2. **서서히 커지는 크레센도 만들기**  
+   이름 그대로, 이 모드는 “점점 올라가는” 구조가 잘 어울립니다.
+   처음에는 비트와 가벼운 패드만 사용해 작은 루프를 만들고,
+   이후 신스 멜로디와 보컬을 하나씩 더해 가며 에너지를
+   고조시켜 보세요.
 
-2.  **[KO]** **Create a Crescendo**: The name "Riser" suggests building intensity. Many of the sounds may have a rising or evolving quality. Experiment with layering sounds to create a powerful crescendo, starting small and building towards an epic climax.
+3. **보너스는 분위기를 유지한 채 탐색하기**  
+   세 개의 보너스를 찾을 때도, 너무 많은 아이콘을 무작정
+   켜기보다는 자신이 만든 코어 루프를 유지한 상태에서 남은
+   슬롯만 교체하며 시도해 보세요. 그러면 곡의 흐름을 깨지 않고
+   SF 애니메이션 연출을 차례대로 확인할 수 있습니다.
 
-3.  **[KO]** **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a core atmospheric and rhythmic base, then systematically swap out the melody and voice icons one by one until you trigger one of the sci-fi animations.
+### **조작 가이드**
 
-### **Controls Guide**
+조작은 기본 Incredibox와 동일합니다.
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+- **사운드 추가**: 하단 사운드 아이콘을 드래그해 캐릭터 위에
+  올려놓습니다.
+- **사운드 제거**: 하단 아이콘의 `X`를 눌러 끄거나, 새 아이콘을
+  덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나
+  다시 켤 수 있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼으로 그 캐릭터만 남기고 나머지를
+  모두 뮤트할 수 있습니다.
+- **녹음**: 상단의 녹음 버튼으로 완성된 우주 여행 트랙을
+  녹음·저장할 수 있습니다.
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your cosmic journey.
+### **자주 묻는 질문(FAQ)**
 
-### **Frequently Asked Questions (FAQ)**
+**1. 공식 Incredibox 버전인가요?**  
+아니요. *Riser*는 BadSnacks가 제작한 **팬메이드 모드**이며,
+공식 개발사 So Far So Good과는 관련이 없습니다.
 
-**1. Is this an official Incredibox version?**
-No. It is a **fan-made mod** created by BadSnacks. It is not affiliated with the official Incredibox team, So Far So Good.
+**2. 어디에서 플레이할 수 있나요?**  
+대부분 **Scratch** 같은 모딩 플랫폼이나 유튜브 소개 영상의
+플레이 링크를 통해 브라우저 상에서 즐길 수 있습니다.
 
-**2. Where can I play this mod?**
-You will not find it on official platforms. Mods like *Riser* are typically hosted on game modding websites like **Scratch** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
+**3. 보너스 조합 공략은 어디서 찾을 수 있나요?**  
+`Incredibox Riser combos`로 유튜브를 검색하면, 각 애니메이션을
+여는 조합을 정리한 영상들을 쉽게 찾을 수 있습니다.
 
-**3. Are the bonus solutions for "Riser" available online?**
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Riser combos*" on YouTube will show you the solutions.

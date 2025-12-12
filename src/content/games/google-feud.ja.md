@@ -1,43 +1,36 @@
 ---
+title: "Google Feud"
+description: "アンケートスタイルの推測ゲーム：最も人気のある検索クエリでオートコンプリートのプロンプトを完成させ、ストライクアウトせずにラウンドを勝ち進みましょう。"
+iframeSrc: "https://mac-web.github.io/macvg/projects/google-feud/game.html"
+thumbnail: "/new-images/google-feud.jpg"
+urlstr: "google-feud"
+score: "4.3/5  (511 votes)"
+tags: ["trivia", "quiz"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: google-feud
-title: '[JA TRANSLATION NEEDED] Google Feud'
-description: >-
-  [JA TRANSLATION NEEDED] Survey‑style guessing game: complete autocomplete
-  prompts with the most popular queries and climb the rounds without striking
-  out.
-iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
-thumbnail: /new-images/google-feud.jpg
-tags:
-  - trivia
-  - quiz
-score: 4.3/5  (511 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Google Feudは、ファミリー・フュード（クイズ番組）スタイルのプロンプトリストを模しています。検索クエリの始まりを見て、ユーザーが一般的にどのように検索を完了させるかを推測しなければなりません。各カテゴリにはポイント値を持つ複数のトップアンサーがあります。3回間違えるとラウンド終了となるため、パターンの知識と幅広い推測が勝利の鍵です。
 
+### 遊び方
+- カテゴリを選び、プロンプトの冒 head（始まり）を読み、ありそうな続きを入力します。
+- 特定の名前やブランドの前に、広い概念（誰/何/どこ）から始めましょう。
+- 単数形/複数形や地域的な言い回しに注意しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Google Feud mimics a family‑feud‑style prompt list: you see the beginning of a search query and must guess how users commonly complete it. Each category has multiple top answers with point values. Three wrong guesses end the round, so pattern knowledge and broad guesses win.
+### 操作方法
+- キーボードで答えを入力し、Enterで送信。画面上のボタンでカテゴリを選択します。
 
-### How to Play
-- Pick a category; read the prompt stem; type likely completions.
-- Start broad (who/what/where) before specific names and brands.
-- Watch for plural/singular and regional phrasing.
+### ヒント
+- オートコンプリートのように考えましょう：スペル、同義語、よくある慣用句など。
+- 行き詰まったら、反対語や関連する概念を試してみましょう。
+- 序盤から過度に具体的な固有名詞を使うのは避けましょう。
 
-### Controls
-- Keyboard to type answers; Enter to submit; on‑screen buttons for categories.
-
-### Tips
-- Think like autocomplete: spellings, synonyms, and common idioms.
-- If stuck, try opposites or related concepts.
-- Avoid over‑specific proper nouns early.
-
-### FAQ
-- Q: How are answers ranked in the game?  
-[JA TRANSLATION NEEDED]   A: By popularity within the prompt’s dataset; top answers score higher.
-- Q: Do typos count as correct answers?  
-[JA TRANSLATION NEEDED]   A: Common variants may match; exact matching depends on host.
-- Q: Can I change the category mid‑round?  
-[JA TRANSLATION NEEDED]   A: Usually no—finish or fail the current list first.
-
+### よくある質問 (FAQ)
+- **Q: ゲーム内の回答はどのようにランク付けされていますか？**  
+  A: プロンプトのデータセット内での人気順です。トップアンサーほどスコアが高くなります。
+- **Q: タイプミスは正解としてカウントされますか？**  
+  A: 一般的な異表記は一致する可能性がありますが、完全一致かどうかはホストによります。
+- **Q: ラウンドの途中でカテゴリを変更できますか？**  
+  A: 通常はできません。現在のリストを完了するか失敗するまで続けましょう。

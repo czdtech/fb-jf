@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: fruit-chef
-title: '[ES] Fruit Chef'
+title: "Fruit Chef"
 description: >-
-  [ES] Fruit Chef is a swift slice‑’em‑up — chain clean cuts, avoid bombs, and
-  manage tempo for monster combos.
+  Fruit Chef es un frenético juego de cortar fruta: encadena cortes limpios,
+  esquiva bombas y controla el ritmo para lograr combos monstruosos.
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/fruit-chef.png
 tags:
@@ -15,35 +15,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Fruit Chef recupera la esencia clásica de cortar fruta: traza líneas limpias a
+través de las piezas que vuelan por la pantalla, construye cadenas de combos y
+mantente lejos de las bombas. El sistema de puntuación premia los cortes
+largos y rectos que alcanzan varias frutas a la vez y un ritmo constante por
+encima de los manotazos caóticos.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Fruit Chef channels classic fruit‑slicing: flick clean lines through flying fruit, build combo chains, and avoid bombs. The scoring engine rewards long, straight multi‑fruit cuts and steady rhythm over frantic swipes.
+1. **Trazos largos:** Intenta rebanar varias frutas con una sola línea recta
+   para obtener bonificaciones de combo.
+2. **No persigas las que van bajas:** Deja que las frutas que van muy abajo suban a una
+   trayectoria más segura antes de cortarlas.
+3. **Disciplina con las bombas:** Cancela cualquier gesto que vaya a cruzar una
+   bomba; la prioridad siempre es no explotarlas.
+4. **Ritmo:** Mantén una cadencia cómoda; los movimientos nerviosos reducen la
+   precisión.
+5. **Potenciadores:** Guarda el modo cámara lenta para oleadas muy densas de
+   fruta.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Long strokes: Slice multiple fruits in a single straight line for combo bonuses.
-2.  **[ES]** Don’t chase lows: Let low fruit rise into a safe arc before slicing.
-3.  **[ES]** Bomb discipline: Abort swipes that would cross bombs; safety first.
-4.  **[ES]** Rhythm: Maintain a comfortable cadence; panic flutters reduce accuracy.
-5.  **[ES]** Power‑ups: Save slow‑mo for dense volleys.
+- Haz clic y arrastra, o desliza el dedo, para cortar; evita las bombas y usa
+  los botones de pausa o reinicio en la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Click‑drag or swipe to cut; avoid bombs; pause/retry via UI.
+- **P: Siempre termino tocando bombas, ¿cómo lo evito?**  
+  **R:** Traza cortes solo por ángulos limpios y no completes gestos que
+  atraviesen una bomba.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Cuál es la mejor manera de lograr puntuaciones altas?**  
+  **R:** Combos largos y rectos que golpeen varias frutas y un ritmo estable de
+  cortes.
 
-- Q: I keep hitting bombs — how do I stop?
-
-A: Slice only along clean angles; don’t complete swipes that intersect bombs.
-
-- Q: Best way to score high?
-
-A: Long, straight combo cuts and consistent rhythm.
-
-- Q: Multi‑touch helps?
-
-A: If supported, multi‑finger arcs can cover more screen safely.
-
+- **P: ¿Ayuda usar multitáctil?**  
+  **R:** Si la versión lo admite, usar varios dedos te permite cubrir más
+  pantalla de forma segura.

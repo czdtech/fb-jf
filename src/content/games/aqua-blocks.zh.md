@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: aqua-blocks
-title: '[ZH TRANSLATION NEEDED] Aqua Blocks'
+title: Aqua Blocks 水元素方块
 description: >-
-  [ZH TRANSLATION NEEDED] Aqua Blocks is a watery block‑placer — fit shapes,
-  clear lines, and keep the board breathing.
+  《Aqua
+  Blocks（水元素方块）》是一款带有水纹视觉效果的方块填充游戏，你需要将给定的形状摆放在棋盘上，通过连成整行或整块来清除空间、保持棋盘“能呼吸”。
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/aqua-blocks.png
 tags:
@@ -15,25 +15,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Aqua Blocks is a relaxing block‑placement game. Place given shapes to fill lines or regions, make space with multi‑line clears, and avoid creating sealed cavities.
+*Aqua Blocks（水元素方块）* 是一款节奏舒缓的方块摆放类益智游戏。系统会不断给出不同形状的积木，你需要在网格上为它们找到位置，当连续一整行或某片区域被填满时，就会被消除，为你腾出新的空间。
 
-### Gameplay Strategy & Walkthrough
+和传统“下落式”的俄罗斯方块不同，这里没有重力，你可以自由选择把形状放在棋盘的任何位置。难点在于如何在有限空间中兼顾当前得分和未来可用空间，避免把棋盘堆成一团却没有地方放新块。
 
-1.  保持边缘整洁以防止零散的单个单元格。
-2.  建立类似俄罗斯方块的多行清除。
-3.  不要过度投入到一个角落。
-4.  为尴尬的形状保存紧急插槽。
-5.  使用预览（如果有）来规划序列。
+### 游戏策略与攻略
 
-### 控制指南
+1.  **保持边缘整洁：** 尽量避免在边缘留下散乱的单格空位，这类空格往往很难刚好匹配到合适形状，不如预留成更规整的小块区域。
+2.  **争取“一次多行”消除：** 像俄罗斯方块一样，提前布局让某个区域能够同时消掉两行或更多行，这样不仅得分快，腾出的空间也更多。
+3.  **不要过早把某个角落堆满：** 长时间只在一个角落摆块，很容易让棋盘整体偏向一侧，剩下的位置都变成尴尬碎缝。尽量让消除发生在中部区域，让布局保持均衡。
+4.  **为怪异形状留“保险位”：** 有些形状比较别扭，可以在棋盘上刻意保留一两块专门为它们准备的空位，在抽到这些形状时就不会手忙脚乱。
+5.  **利用预览信息（如果有）：** 如果当前版本会预先显示接下来几块的形状，可以提前按照这些形状设计布局，而不是只看眼前的一块。
 
-- Drag shapes onto the grid; rotate if supported.
-- Undo/Reset via UI.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+- 通过拖拽的方式将下方的方块放到网格上，部分版本支持旋转，可以先旋转到合适方向再摆放。
+- 若提供撤销或重新开始按钮，可在布局明显走偏、即将无处可放时使用，以重新规划。
 
-- No space left—what now? Undo and re‑plan; otherwise restart.
-- Rotations? Depends on the variant.
-- Endless? Typically yes.
+### 常见问题解答（FAQ）
+*   **问：棋盘已经塞满，新方块放不下怎么办？****
+    *   答：** 如果有撤销功能，可以尝试退回几步找到更优摆放方案；否则只能重新开始一局，在下一局更注意提前保留空位。
+*   **问：方块一定能旋转吗？****
+    *   答：** 视具体版本而定，有些只允许原始方向，有些会在方块旁提供旋转按钮，可以留意界面提示。
+*   **问：是无尽模式吗？****
+    *   答：** 大部分版本都属于“越玩越高分”的无尽模式，只要还有可用空间就可以继续摆放，挑战的是你在有限空间里的规划能力。

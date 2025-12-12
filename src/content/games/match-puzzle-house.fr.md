@@ -1,50 +1,38 @@
 ---
 locale: fr
-urlstr: match-puzzle-house
-title: '[FR] Match Puzzle House'
-description: >-
-  [FR] Match Puzzle House is a home‑makeover match‑3 — complete goals, earn
-  stars, and renovate rooms with smart booster usage.
-iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
-thumbnail: /new-images/match-puzzle-house.png
-tags:
-  - puzzle
-  - casual
-score: 4.0/5  (1887 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "match-puzzle-house"
+title: "Match Puzzle House"
+description: "Match Puzzle House est un match‑3 de rénovation : termine les objectifs, gagne des étoiles et rénove les pièces en utilisant intelligemment les boosters."
+iframeSrc: "https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/"
+thumbnail: "/new-images/match-puzzle-house.png"
+tags: ["puzzle", "casual"]
+score: "4.0/5  (1887 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Match Puzzle House combine des niveaux de match‑3 avec la rénovation d’intérieur. Sur le plateau, tu dois éliminer des bloqueurs, collecter des objets précis et atteindre les objectifs imposés avec un nombre de coups limité. Les étoiles gagnées servent ensuite à acheter des meubles, repeindre les murs et débloquer de nouvelles pièces de la maison. Les boosters et les combinaisons de power‑ups sont indispensables pour venir à bout des grilles les plus chargées.
 
+### Stratégies de jeu et progression
 
+1.  **Contrôler le centre du plateau :** ouvre d’abord la zone centrale pour disposer de plus d’espace afin de créer des combos et des bonus.
+2.  **Utiliser les boosters intelligemment :** garde les bombes, lignes et effaceurs de couleur pour les objectifs difficiles ou les zones coincées, plutôt que de les déclencher dès qu’ils apparaissent.
+3.  **Gérer tes étoiles :** dépense tes étoiles sur les rénovations qui débloquent de nouveaux niveaux ou des emplacements de booster quand tu es bloqué.
+4.  **Faire attention aux bords :** évite de laisser des couleurs isolées le long des murs, car elles sont plus difficiles à atteindre plus tard.
+5.  **Prévoir deux coups à l’avance :** visualise toujours au moins le coup suivant pour ne pas casser une bonne mise en place par un échange mal placé.
 
-### Detailed Game Introduction
+### Commandes
 
-Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear blockers, collect items within move caps, and spend stars on decor. Boosters and power‑up merges are key on dense layouts.
+- Fais glisser pour échanger deux pièces, déclenche les boosters via l’interface, puis retourne au menu de décoration entre deux niveaux pour rénover les pièces.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** Central control: Open the middle first for combo space.
-2.  **[FR]** Merge smart: Save bomb/line/color clears for tight goals.
-3.  **[FR]** Star economy: Spend stars to unlock booster slots when stuck.
-4.  **[FR]** Edge awareness: Don’t strand colors on walls.
-5.  **[FR]** Two‑turn plans: Map your next move to avoid breaking setups.
-
-### Controls Guide
-
-- Drag to swap; use boosters via UI; decorate rooms between levels.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m stuck on a chain level.
-
-A: Prioritize detonations adjacent to chains; lines through chains speed clears.
-
-- Q: Do renovations help in‑game?
-
-A: Mostly cosmetic; some unlock progression rewards.
-
-- Q: Best generic booster?
-
-A: Color clear to reshape stubborn boards.
+- **Q : Je suis bloqué sur un niveau avec des chaînes, que faire ?**  
+  **R :** Priorise les explosions juste à côté des chaînes ; les lignes qui les traversent sont très efficaces pour les affaiblir rapidement.
+- **Q : Les rénovations influencent‑elles le gameplay ?**  
+  **R :** La plupart sont surtout cosmétiques, mais certaines étapes de rénovation peuvent débloquer de nouvelles zones ou des récompenses de progression.
+- **Q : Quel est le booster le plus polyvalent ?**  
+  **R :** Le bonus qui supprime toutes les pièces d’une couleur est généralement le plus flexible pour réorganiser une grille vraiment bloquée.
 

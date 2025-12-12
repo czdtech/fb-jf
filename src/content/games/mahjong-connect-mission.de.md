@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: mahjong-connect-mission
-title: '[DE] Mahjong Connect : Mission'
+title: "Mahjong Connect : Mission"
 description: >-
-  [DE] Mahjong Connect: Mission is a link‑pair mahjong — connect identical tiles
-  by paths with ≤2 turns, clear boards, and race timers.
+  Mahjong Connect: Mission ist ein Verbindungs-Mahjong: Verbinde identische
+  Steine über Pfade mit höchstens zwei Knicken, räume das Feld und schlage die
+  Zeit.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/mahjong-connect-mission.png
 tags:
@@ -16,35 +17,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Mahjong Connect unterscheidet sich vom klassischen Mahjong-Solitaire: Hier
+musst du passende Steine über eine Linie verbinden, die höchstens zwei
+Rechtwinkel-Knicke haben darf und keinen anderen Stein kreuzen kann. Die
+Missionen führen nach und nach gesperrte Steine, Nebel, Bomben und andere
+Spezialfelder ein, die du priorisiert abräumen und mit sauberem
+Board-Management kontrollieren musst.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Mahjong Connect differs from classic mahjong solitaire: you must link matching tiles with a path that bends at most twice (i.e., ≤2 right‑angle turns) without crossing other tiles. Missions add locked tiles, fog, and bombs that require priority handling and clean board management.
+1.  **Ränder zuerst prüfen**  
+    An Kanten und Ecken gibt es am häufigsten gültige Verbindungen – scanne
+    diese Bereiche zuerst nach Paaren.
 
-### Gameplay Strategy & Walkthrough
+2.  **Korridore öffnen**  
+    Entferne gezielt Paare, die ganze Gänge freiräumen und den Zugriff auf das
+    Zentrum ermöglichen.
 
-1.  **[DE]** Edge hunting: Edges and corners yield the most legal paths — scan them first.
-2.  **[DE]** Pair pruning: Remove tiles that open corridors and expose the center.
-3.  **[DE]** Turn budgeting: Prefer straight or one‑turn paths to preserve options.
-4.  **[DE]** Hazard priority: Clear bombs/locks before they block vital lanes.
-5.  **[DE]** Time economy: Use hints only when the board stagnates.
+3.  **Wenig Knicke bevorzugen**  
+    Nutze, wenn möglich, gerade oder nur einmal abknickende Pfade, damit dir
+    für spätere Züge noch genug Linienoptionen bleiben.
 
-### Controls Guide
+4.  **Gefahren zuerst**  
+    Bomben, Schlösser oder andere Blocker sollten Priorität haben, bevor sie
+    wichtige Wege versperren oder explodieren.
 
-- Click two identical tiles to connect if a legal path exists; hints/shuffles per UI.
+5.  **Zeit und Hilfen gut einteilen**  
+    Verwende Hinweise nur dann, wenn du länger keine neuen Paare findest, und
+    spare Shuffle-Effekte für wirklich festgefahrene Situationen auf.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: No moves — is it over?
+- Klicke zwei identische Steine an, zwischen denen ein gültiger Pfad mit
+  maximal zwei Knicken existiert.  
+- Nutze Hinweis- oder Shuffle-Buttons über die Benutzeroberfläche, falls
+  vorhanden.
 
-A: Use shuffle if allowed; otherwise restart to avoid early dead lanes.
+### FAQ
 
-- Q: Do diagonals connect?
+- **F: Es gibt scheinbar keine Züge mehr – ist das Spiel vorbei?**  
+  **A:** Wenn ein Shuffle erlaubt ist, mische die verbleibenden Steine neu.
+  Andernfalls kann ein Neustart helfen, von Beginn an bessere Korridore
+  freizuhalten.
 
-A: No — only orthogonal paths with up to two turns.
+- **F: Zählen diagonale Verbindungen?**  
+  **A:** Nein. Erlaubt sind nur orthogonale Pfade (oben/unten/links/rechts) mit
+  maximal zwei 90°-Winkeln.
 
-- Q: Any symbol confusion tips?
-
-A: Learn suits and season/flower symbols; zoom helps on dense art.
-
+- **F: Wie behalte ich bei vielen Symbolen den Überblick?**  
+  **A:** Lerne typische Sets wie Farben, Jahreszeiten- und Blumensteine zu
+  unterscheiden und nutze Zoom-Funktionen, wenn das Layout sehr detailreich ist.

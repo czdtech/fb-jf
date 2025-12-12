@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: emoji-with-friends
-title: '[KO] Emoji With Friends'
-description: >-
-  [KO] Emoji With Friends is a light party‑puzzle — match, deduce, and race your
-  friends with expressive emoji logic.
+title: Emoji With Friends 이모지 위드 프렌즈
+description: '친구와 함께 즐기는 가벼운 이모지 파티 퍼즐입니다. 이모지를 빠르게 매칭하고 간단한 목표를 달성하며, 서로보다 먼저 보드를 해결해 보세요.'
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/emoji-with-friends.png
 tags:
@@ -16,29 +14,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
+
+Emoji With Friends는 표정이 풍부한 이모지 타일을 이용해 빠른 매칭과 가벼운
+추리를 즐기는 파티형 퍼즐 게임입니다. 모드에 따라 정해진 세트를 맞추거나,
+간단한 목표를 달성하거나, 친구보다 먼저 보드를 정리하는 레이스 등 다양한
+방식으로 플레이할 수 있습니다. 라운드가 짧고 규칙이 단순해 여러 사람이
+번갈아 즐기기 좋습니다.
+
+### 게임 플레이 전략 & 공략
+
+1. **패턴 먼저 훑어보기**  
+   자주 등장하는 이모지 세트나 반복 패턴을 먼저 찾아두면 연속 매칭을 빠르게
+   만들 수 있습니다.  
+2. **목표 우선**  
+   특정 라운드에서 “특정 이모지 n개 매칭하기” 같은 목표가 있다면, 장식용
+   매치보다 목표 달성에 직접 관련된 매치를 먼저 처리하세요.  
+3. **대전 모드에서는 선점 전략**  
+   경쟁 모드에서는 상대도 노릴 법한 중심부나 효율 좋은 타일을 먼저 가져와
+   상대의 연계를 끊는 것이 유리합니다.  
+4. **보드 여유 공간 확보**  
+   중앙을 너무 빽빽하게 채우지 말고, 이후 매치를 위한 여유 공간을 남겨두면
+   막히지 않고 플레이를 이어가기 좋습니다.  
+5. **부스트/파워업 타이밍**  
+   파워업이 있다면 막상막하의 상황이나 보드가 굳어 버렸을 때 사용해 판을
+   한 번에 바꾸는 용도로 아껴 두세요.  
+
+### 조작 방법
+
+- 이모지를 클릭/탭해 모드 규칙에 맞는 유효한 조합을 만들고, 필요 시 화면에
+  표시되는 버튼으로 파워업을 발동합니다.  
+- 일부 버전은 온라인/로컬 2인 모드를 지원하며, 대부분 짧은 한 판 구조입니다.  
 
 
-### Detailed Game Introduction
-
-Emoji With Friends blends quick matching and light deduction using expressive emoji tiles. Depending on mode, you’ll connect sets, complete mini‑goals, or race an opponent to solve boards first. Short rounds, readable visuals, and low barrier to entry make it a friendly party pick.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[KO]** Scan patterns: Identify frequent emoji sets to build quick chains.
-2.  **[KO]** Prioritize objectives: If a round has specific goals, complete them before chasing decorative matches.
-3.  **[KO]** Deny opponents (vs): Claim contested tiles early to slow their chains.
-4.  **[KO]** Keep the board open: Avoid cluttering the center; leave space for future matches.
-5.  **[KO]** Time your boosts: Save power‑ups for tight races or to break board stalls.
-
-### Controls Guide
-
-- Select/Match: Click/tap emoji to make valid connections per mode rules.
-- Power‑ups (if any): Activate via on‑screen buttons.
 - Online/local: Modes vary; many are quick local sessions.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 경쟁 모드와 혼자 하는 모드가 모두 있나요?**  
+  **A:** 버전에 따라 다르지만, 로컬 경쟁 모드는 자주 포함되어 있습니다.  
 
-- Is it competitive or solo? Modes vary; local head‑to‑head is common.
-- Are there complex rules? Generally simple—read each mode’s objective before starting.
-- How long is a round? Usually under a couple of minutes, suitable for quick sessions.
+- **Q: 규칙이 복잡한가요?**  
+  **A:** 대부분의 모드는 “이 이모지를 이렇게 연결하라”는 간단한 목표만 읽으면
+  바로 이해할 수 있을 정도로 단순합니다.  
+
+- **Q: 한 판 길이는 어느 정도인가요?**  
+  **A:** 보통 몇 분이 채 안 되는 짧은 라운드로 구성되어, 가볍게 즐기기 좋습니다.  
 

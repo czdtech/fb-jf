@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: five-nights-at-freddy-2
-title: '[ZH TRANSLATION NEEDED] Five Nights at Freddy''s 2 (FNAF 2)'
+title: "Five Nights at Freddy's 2 (FNAF 2) 弗雷迪的五夜驚魂 2"
 description: >-
-  [ZH TRANSLATION NEEDED] Mask and music‑box management: track multiple
-  animatronics, wind the Puppet’s box, use the flashlight, and don the Freddy
-  mask at the right moment to survive.
+  二代的核心是面具與八音盒管理：在同時監控多個機械玩偶的情況下，
+  持續上發條維持 Puppet 的音樂盒，適時使用手電筒與 Freddy 面具活下來。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/five-nights-at-freddy-2.jpg
 tags:
@@ -18,26 +17,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Sequel shifts the loop: no power doors, but you manage a Freddy mask and a music box for the Puppet while watching hallways and vents.
+
+續作大幅調整了玩法節奏：辦公室不再有可關閉的電動門，取而代之的，是需要管理的 Freddy 面具
+以及為 Puppet 上發條的音樂盒。你要一邊盯著走廊與通風口，一邊在最關鍵的時機戴上面具偽裝，
+避免被機械玩偶當作目標。
 
 ### How to Play
-- Keep the music box wound via the camera; failure releases the Puppet.
-- Use the Freddy mask when certain animatronics enter the office.
-- Flashlight checks the hallway and stuns Foxy briefly.
+
+- 透過監視器畫面進入音樂盒畫面，持續為 Puppet 的音樂盒上發條；若完全停轉，Puppet 會現身收掉你。
+- 當某些特定機械玩偶直接出現在辦公室時，立刻戴上 Freddy 面具，
+  讓牠們誤以為你是同類，從而離開。
+- 使用手電筒照亮正前方走廊，既能確認是否有敵人接近，也能短暫嚇阻 Foxy 向你衝來。
 
 ### Controls
-- Mouse/UI for cameras and mask; Ctrl/Space for flashlight (host dependent).
+
+- 使用滑鼠與畫面 UI 操作監視器與面具切換；
+- Ctrl 或空白鍵通常用來開啟手電筒（依託管版本略有不同）。
 
 ### Tips
-- Build a loop: wind box → lower cam → hallway flash → vent lights → mask on if needed.
-- Don’t over‑flash; conserve battery for hallway checks.
-- Recognize which characters require the mask versus lights.
+
+- 建立固定巡迴節奏：上發條 → 放下監視器 → 閃一下走廊 → 看兩側通風口 → 視情況戴面具。
+- 手電筒不要亂照，頻繁長亮會讓電量過快耗盡，盡量只在必要時短按照明。
+- 熟悉哪些角色可以用面具應對，哪些則要依靠燈光與觀察，才能在高難度夜晚存活。
 
 ### FAQ
-- Q: Why am I losing to the Puppet?  
-[ZH TRANSLATION NEEDED]   A: Camera time too long elsewhere; prioritize winding the box.
-- Q: When do I use the mask?  
-[ZH TRANSLATION NEEDED]   A: Immediately when an animatronic is in the office (not in vents/hall).
-- Q: Is there door control?  
-[ZH TRANSLATION NEEDED]   A: No—FNAF 2 relies on mask, vents, and flashlight management.
 
+- 問：為什麼我總是死在 Puppet 手上？  
+  答：通常是花太多時間在其他攝影機或觀察上，而忽略了上發條。音樂盒的轉動必須排在最高優先級。
+
+- 問：什麼時候該戴上 Freddy 面具？  
+  答：當你放下監視器，發現某個機械玩偶已經「站在辦公室裡」時，要立刻戴上面具，
+  不要等牠靠近；在通風口或走廊中出現時則先用燈光與聽覺判斷。
+
+- 問：二代還有門可以關嗎？  
+  答：沒有，FNAF 2 的防禦完全依賴面具、通風口與手電筒管理，門機制已被移除。

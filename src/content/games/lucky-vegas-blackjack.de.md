@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: lucky-vegas-blackjack
-title: '[DE] Lucky Vegas Blackjack'
+title: "Lucky Vegas Blackjack"
 description: >-
-  [DE] Lucky Vegas Blackjack streamlines 21 — apply basic strategy, manage
-  bankroll, and enjoy quick hands without chasing losses.
+  Lucky Vegas Blackjack bringt schnelles 21 auf den Bildschirm: Nutze
+  Basisstrategie, verwalte deinen Einsatz und genieße kurze Runden, ohne
+  Verlusten hinterherzujagen.
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
 thumbnail: /new-images/lucky-vegas-blackjack.png
 tags:
@@ -16,35 +17,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Lucky Vegas Blackjack bietet schnelle Blackjack-Runden nach klassischen Regeln:
+Du versuchst, so nah wie möglich an 21 Punkte zu kommen, ohne dich zu
+"überkaufen", oder den Dealer einfach zu schlagen. Bildkarten zählen 10, Asse
+1 oder 11. Mit solider Basisstrategie spielst du gegen die offene Karte des
+Dealers und meidest riskante Sidebets mit hohem Hausvorteil.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Lucky Vegas Blackjack offers fast blackjack rounds with standard rules: reach 21 or best the dealer without busting. Face cards count as 10; aces as 1 or 11. Use basic strategy vs the dealer upcard and avoid risky side bets with higher house edges.
+1.  **Basisstrategie nutzen**  
+    - Mit harten Händen (ohne flexibles Ass) ab 17 stehen bleiben.  
+    - Bei 11 und weniger in der Regel noch eine Karte nehmen.  
+    - 10–11 gegen schwache Dealerkarten oft verdoppeln (Double).
 
-### Gameplay Strategy & Walkthrough
+2.  **Weiche Hände richtig spielen**  
+    Bei soft 17 (z. B. A+6) meist noch ziehen, soft 18 gegen schwache
+    Dealerkarten, wenn möglich, verdoppeln.
 
-1.  **[DE]** Basic chart: Stand hard 17+, hit ≤11, double 10–11 vs weak upcards.
-2.  **[DE]** Soft hands: Hit soft 17; double soft 18 vs weak upcards when allowed.
-3.  **[DE]** Splits: Split A/8; don’t split 10/5; follow table rules for others.
-4.  **[DE]** Bankroll: Flat bet sizing; stop after win target or loss limit.
-5.  **[DE]** Side bets: Treat as entertainment, not EV.
+3.  **Split-Regeln merken**  
+    Asse und Achter fast immer splitten, Zehner und Fünfer nie. Für andere
+    Paare gilt: An die Tischregeln halten bzw. die Standardtabelle nutzen.
 
-### Controls Guide
+4.  **Bankroll-Management**  
+    Setze möglichst konstante, kleine Einsätze und lege im Voraus fest, bei
+    welchem Gewinn du aufhörst und welches Verlustlimit du akzeptierst.
 
-- Hit/Stand/Double/Split via UI; adjust bet between hands.
+5.  **Nebenwetten nur als Spaß sehen**  
+    Sidebets haben meist einen deutlich höheren Hausvorteil. Spiele sie, wenn
+    überhaupt, nur aus Spaß – nicht, um "clever" mehr zu gewinnen.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: Can I count cards here?
+- Hit/Stand/Double/Split per Buttons in der Benutzeroberfläche.
+- Einsatzhöhe vor jeder Runde im entsprechenden Menü einstellen.
 
-A: Single‑shoe resets/auto shuffles often negate counting; play for fun.
+### FAQ
 
-- Q: Insurance worth it?
+- **F: Lohnt sich Kartenzählen in diesem Spiel?**  
+  **A:** Bei automatisch gemischten Decks oder sehr häufigen Neumischungen
+  bringt Kartenzählen praktisch nichts – betrachte das Spiel als reines
+  Freizeitvergnügen.
 
-A: Generally no; it has high house edge.
+- **F: Ist die Versicherung (Insurance) sinnvoll?**  
+  **A:** In der Regel nicht. Sie erhöht den Hausvorteil und lohnt sich nur in
+  seltenen Spezialfällen.
 
-- Q: How to reduce variance?
-
-A: Use smaller flat bets and avoid side bets.
-
+- **F: Wie verringere ich Schwankungen?**  
+  **A:** Spiele mit kleineren, gleichbleibenden Einsätzen, halte dich an die
+  Basisstrategie und verzichte auf Sidebets.

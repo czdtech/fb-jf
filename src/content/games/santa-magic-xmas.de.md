@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: santa-magic-xmas
-title: '[DE] Santa Magic Xmas'
+title: Santa Magic Xmas
 description: >-
-  [DE] Experience the magic of Christmas in this festive match-3 puzzle game!
-  Help Santa by matching colorful ornaments and clearing the board to deliver
-  the presents.
+  Erlebe die Magie von Weihnachten in diesem festlichen Match-3-Puzzlespiel!
+  Hilf dem Weihnachtsmann, indem du bunte Kugeln und Leckereien kombinierst und
+  das Spielfeld räumst, damit alle Geschenke rechtzeitig ausgeliefert werden.
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/santa-magic-xmas.png
 tags:
@@ -17,37 +17,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
+
+Santa Magic Xmas ist ein fröhliches Weihnachts-Match-3, das dich direkt in
+ Feiertagsstimmung bringt. Du hilfst dem Weihnachtsmann, indem du festliche
+ Symbole wie Glocken, Kugeln und Lebkuchenmänner tauschst und Reihen aus drei
+ oder mehr gleichen Motiven bildest. Mit starken Kombos räumst du große Teile
+ des Spielfelds ab und erfüllst Levelziele, damit alle Geschenke pünktlich
+ ankommen.
+
+### Strategien & Spieltipps
+
+1.  **Power-ups erzeugen:** Größere Kombinationen erzeugen Spezialsteine.
+    *   **Match 4:** Erzeugt einen Stein, der eine ganze Reihe oder Spalte
+        beseitigt.
+    *   **Match 5 (L- oder T-Form):** Erzeugt eine „verpackte“ Bombe, die ein
+        größeres Gebiet sprengt.
+    *   **Match 5 (in einer Linie):** Erzeugt eine Farb-Bombe, die alle Steine
+        einer Farbe entfernt.
+
+2.  **Spezialsteine kombinieren:** Tausche zwei Power-ups miteinander, um
+    riesige Effekte auszulösen – ideal für schwere Level.
+3.  **Auf das Levelziel achten:** Mal musst du Eisfelder aufbrechen, mal
+    Geschenkkisten nach unten bringen. Priorisiere stets Züge, die das
+    Levelziel voranbringen, bevor dir die Züge ausgehen.
+4.  **Von unten spielen:** Matches nahe am unteren Rand erzeugen oft
+    Kettenreaktionen, weil neue Steine nachfallen und automatisch weitere
+    Kombinationen bilden.
+
+### Steuerung
+
+*   **Tauschen:** Klicke auf ein Symbol und ziehe es auf ein benachbartes. Der
+    Tausch findet nur statt, wenn dabei ein gültiges Match entsteht.
 
 
-### Detailed Game Introduction
+- **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+### Häufige Fragen (FAQ)
 
-Santa Magic Xmas is a cheerful and festive match-3 puzzle game that immerses you in the holiday spirit. Your goal is to help Santa Claus by matching colorful Christmas items like bells, ornaments, and gingerbread men. Swap adjacent items to create lines of three or more, trigger powerful combos, and complete the objectives of each level to ensure all the presents are delivered on time!
+*   **F: Wie entferne ich Eisblöcke?**
+    **A:** Erzeuge ein Match direkt neben dem Eis oder darauf. Mehrere Treffer
+    sind nötig, um dickes Eis komplett zu entfernen.
 
-### Gameplay Strategy & Walkthrough
+    - **F: Was ist die stärkste Kombination?**
+    **A:** Zwei Farb-Bomben zusammen räumen in der Regel das gesamte Board –
+    perfekt, wenn du kurz vor dem Scheitern stehst.
 
-1.  **[DE]** **Create Festive Power-ups:** The best way to clear the board is by making special items from larger matches.
-    *   **[DE]** **Match 4:** Creates a special item that can clear an entire row or column.
-    *   **[DE]** **Match 5 (L or T shape):** Creates a wrapped candy bomb that explodes and clears a large area.
-    *   **[DE]** **Match 5 (in a line):** Creates a powerful color bomb that can clear all items of a single color from the board.
+*   **F: Was passiert, wenn mir die Züge ausgehen?**
 
-2.  **[DE]** **Combine for Holiday Cheer:** Swap two special items with each other to unleash a massive, board-clearing effect. This is the key to solving the most challenging puzzles.
-3.  **[DE]** **Focus on the Goal:** Each level has a unique objective, such as clearing all the frozen ice tiles or dropping special gift boxes to the bottom. Always prioritize moves that help you achieve the specific goal before you run out of moves.
-4.  **[DE]** **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
 
-### Controls Guide
+- **Q: What happens if I run out of moves?**
 
-The game is played with simple swap mechanics.
-
-*   **[DE]** **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: How do I break the ice blocks?**
-    *   **[DE]** **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.
-
-*   **[DE]** **Q: What is the most powerful combo?**
-    *   **[DE]** **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
-
-*   **[DE]** **Q: What happens if I run out of moves?**
-    *   **[DE]** **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
+    - **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
+    **A:** Hast du das Ziel bis dahin nicht erreicht, musst du das Level neu
+    starten (oder je nach Version zusätzliche Züge kaufen).

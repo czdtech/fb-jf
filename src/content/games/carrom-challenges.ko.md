@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: carrom-challenges
-title: '[KO] Carrom Challenges'
+title: 'Carrom Challenges 캐롬 챌린지'
 description: >-
-  [KO] Carrom Challenges brings cue‑sport finesse to carrom — aim strikes,
-  control rebounds, and pocket with precision.
+  Carrom Challenges는 실제 캐롬 보드를 옮겨 놓은 듯한 테이블 스포츠 게임입니다.
+  스트라이커 각도와 세기를 조절해 자신의 말을 포켓에 넣고, 퀸을 안전하게 커버하며
+  정교한 수 싸움을 펼쳐 보세요.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
 thumbnail: /new-images/carrom-challenges.png
 tags:
@@ -15,37 +16,62 @@ score: 4.1/5  (1979 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Carrom Challenges는 네모난 보드 위에서 스트라이커로 말을 튕겨 포켓에 넣는
+캐롬(Carrom) 게임을 디지털로 구현한 작품입니다. 플레이어는 보드 위의 자신의 말과
+퀸(Queen)을 포켓에 넣어 점수를 얻어야 하며, 각도와 반사, 속도 조절이 승패를 가르는
+핵심 요소입니다.
 
+규칙에 따라 파울, 퀸 커버, 제한 타수 등이 적용되어 단순한 운보다는, 안전한 수와
+공격적인 수 사이에서 균형을 잡는 전략성이 중요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Carrom Challenges simulates the tabletop striker‑and‑carrommen game. Use the striker to pocket your pieces (and possibly the queen under cover) while controlling angles and rebound speed. Fouls, cover rules, and limited strokes add tactical depth.
+1.  **오프닝 브레이크 설계하기**  
+    첫 샷에서는 말을 넓게 퍼뜨리되, 스트라이커가 바로 포켓에 빠지는 스크래치를
+    조심해야 합니다. 중앙 근처의 말을 살짝 흩트려 이후 노릴 수 있는 쉬운 공을
+    만들어 두는 것이 좋습니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **퀸과 커버 순서 관리**  
+    퀸을 포켓에 넣은 뒤, 바로 다음 샷에서 자신의 말을 또 하나 포켓에 넣어야만
+    퀸이 인정됩니다(퀸 커버). 커버가 가능한 쉬운 공이 보이지 않는다면, 퀸을
+    먼저 넣는 모험은 잠시 미뤄 두는 편이 안전합니다.
 
-1.  **[KO]** Opening break: Spread pieces while keeping center control; avoid scratching.
-2.  **[KO]** Pocket order: Secure easy covers for the queen; don’t leave it exposed.
-3.  **[KO]** Speed control: Gentle hits improve precision and reduce rebounds.
-4.  **[KO]** Bank lines: Learn common angles off the boards for tough pockets.
-5.  **[KO]** Safety: When no high‑percentage shot exists, leave opponents snookered.
+3.  **속도 조절로 정확도 높이기**  
+    너무 강하게 치면 반사 각을 예측하기 어려워지고, 스트라이커까지 포켓에
+    빠질 위험이 커집니다. 얇은 두께로 맞혀야 하는 샷일수록 스트로크를 부드럽게
+    해, 리코셰를 최소화하는 것이 좋습니다.
 
-### Controls Guide
+4.  **보드를 이용한 뱅크 샷 연습**  
+    직접 넣기 어려운 말은 보드 가장자리를 활용한 뱅크 샷으로 노릴 수 있습니다.
+    자주 나오는 각도를 몇 가지 외워 두면, 막혀 있는 말도 의외로 쉽게 노릴 수
+    있습니다.
 
-- Aim by dragging the cursor arc; set power with the slider; release to strike.
-- Rules panel explains fouls/queen cover for the current mode.
+5.  **안전 수(세이프티)도 고려하기**  
+    성공 확률이 낮은 공격 샷뿐 아니라, 상대가 쉽게 득점하지 못하도록 스트라이커와
+    말을 애매한 위치에 남겨 두는 세이프티 샷도 중요합니다. 고수일수록 공격과
+    수비를 적절히 섞어 상대를 곤란하게 만듭니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Q: What is “covering the queen”?
+-   **조준:** 스트라이커 주변의 가이드 아크를 드래그해 방향을 맞춥니다.
+-   **파워 설정:** 파워 슬라이더를 조절해 스트라이커 세기를 설정합니다.
+-   **샷 실행:** 마우스 버튼을 떼거나 지정 키를 눌러 스트라이커를 발사합니다.
+-   **규칙 확인:** 화면의 규칙 패널에서 현재 모드에 적용되는 파울/퀸 커버 규정을
+    확인할 수 있습니다.
 
-A: After pocketing the queen, you must pocket one of your own pieces in the next stroke; failing to do so returns the queen to the board.
+### 자주 묻는 질문 (FAQ)
 
-- Q: How to avoid scratches?
+-   **Q. "퀸을 커버한다"는 게 무슨 뜻인가요?**  
+    A. 퀸을 포켓에 넣은 뒤, 바로 다음 샷에서 자신의 말을 한 개 더 포켓에 넣어야
+    퀸이 유효 득점으로 인정됩니다. 커버에 실패하면 퀸이 다시 보드로 올라옵니다.
 
-A: Control rebound angles and reduce power on thin contacts.
+-   **Q. 스크래치를 줄이려면 어떻게 해야 하나요?**  
+    A. 스트라이커가 포켓 방향으로 너무 곧게 향하지 않도록 각도를 조절하고,
+    얇게 맞히는 샷에서는 파워를 줄이는 것이 좋습니다. 반사 후 궤적까지 고려해
+    스트라이커가 포켓 근처로 가지 않도록 설계하세요.
 
-- Q: Are board speeds adjustable?
-
-A: Some versions provide friction settings; otherwise adapt with lighter strokes.
-
+-   **Q. 보드 속도를 바꿀 수 있나요?**  
+    A. 일부 버전에서는 마찰/속도 옵션을 제공하기도 합니다. 별도 설정이 없다면
+    샷 파워를 조절하는 방식으로 보드 속도에 적응해야 합니다.

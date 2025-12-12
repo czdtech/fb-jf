@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: spider-solitaire-2
-title: '[KO] Spider Solitaire'
+title: 'Spider Solitaire 스파이더 솔리테어'
 description: >-
-  [KO] Take on the challenge of Spider Solitaire. Arrange cards in descending
-  order by suit to clear them from the tableau. A true test of strategy and
-  planning.
+  Spider Solitaire는 높은 난이도와 깊은 전략성으로 유명한 솔리테어 변형 게임입니다.
+  같은 무늬의 카드를 K에서 A까지 내림차순으로 정렬해 더미를 비워 나가는 것이
+  목표로, 신중한 계획과 장기적인 수 읽기가 요구됩니다.
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/spider-solitaire-2.png
 tags:
@@ -18,33 +18,59 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Spider Solitaire는 솔리테어 가운데에서도 가장 인기 있고 어려운 변형 중 하나입니다.
+두 벌의 카드(총 104장)를 사용하며, 같은 무늬로 K에서 A까지 완전한 내림차순
+열을 만들어 테이블로에서 제거하는 것이 목표입니다. 이렇게 만든 완성 열을 모두
+치우면 게임에서 승리하게 됩니다. 특히 2무늬, 4무늬 모드에서는 수를 잘못 읽으면
+되돌리기 어렵기 때문에, 높은 수준의 계획성과 인내심이 필요합니다.
 
-Spider Solitaire is one of the most popular and challenging variations of solitaire. Played with two full decks of cards, the objective is to clear the tableau by building eight complete descending sequences of a single suit, from King down to Ace. Once a full sequence is completed, it is removed from play. The game is renowned for its difficulty and the strategic depth required to win, especially when played with two or four suits.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **목표 이해하기:** 테이블로 안에서 같은 무늬의 K부터 A까지 이어지는
+    완전한 내림차순 시퀀스를 총 여덟 개 만드는 것이 최종 목표입니다.
+    이 시퀀스가 완성되면 자동으로 판 위에서 제거되며, 모든 열을 정리하면
+    게임에 승리합니다.
+2.  **카드 옮기기 규칙:** 아무 카드나 한 단계 높은 카드 위에 올려둘 수 있습니다.
+    예를 들어 어떤 무늬의 7이든, 어떤 무늬의 8 위로 옮기는 것은 가능합니다.
+    다만 여러 장을 한 번에 묶어서 옮기려면, 그 카드들이 모두 같은 무늬이면서
+    K→Q→J처럼 완벽한 내림차순을 이루고 있어야 합니다.
+3.  **숨겨진 카드 드러내기:** 전략의 핵심은 테이블로에 뒤집혀 있는 카드를
+    가능한 빨리 앞면으로 뒤집어 더 많은 선택지를 만드는 것입니다. 뒤집힌 카드가
+    많은 열부터 우선적으로 정리해 보세요.
+4.  **빈 열 활용:** 비어 있는 열에는 아무 카드나, 혹은 유효한 내림차순 카드
+    묶음을 옮길 수 있습니다. 이 빈 공간을 이용해 같은 무늬끼리 묶거나, 꼬인
+    열을 재정리하는 등 큰 재배치를 시도할 수 있으므로 매우 소중한 자원입니다.
+5.  **덱에서 새 카드 뽑기:** 더 이상 생산적인 수가 없다고 느껴질 때는 덱을
+    클릭해 각 열 맨 아래에 카드 한 장씩을 새로 뿌릴 수 있습니다.
+    **주의:** 어떤 열이든 완전히 비어 있는 상태에서는 새 카드를 뿌릴 수 없으니,
+    덱을 사용하기 전에 최소 한 장씩은 채워 두어야 합니다.
 
-1.  **[KO]** **The Goal:** To build eight sequences of cards within the tableau, each from King to Ace in a single suit. Once a full K-to-A sequence is formed, it is automatically removed from the board. The game is won when the tableau is empty.
-2.  **[KO]** **Moving Cards:** You can place any card onto another card that is one rank higher. For example, you can place a 7 of any suit onto an 8 of any suit. However, you can only move a *group* of cards together if they are all of the *same suit* and in perfect descending order (e.g., you can move a 9♠-8♠-7♠ sequence together).
-3.  **[KO]** **Uncovering Cards:** The primary strategy is to uncover the face-down cards in the tableau as quickly as possible to give yourself more options.
-4.  **[KO]** **Empty Columns:** An empty column can be filled with any card or any valid sequence of cards. Use these empty spaces strategically to rearrange your tableau and organize your suits.
-5.  **[KO]** **Dealing from the Stock:** When you have no more productive moves, you can click the stock pile. This will deal one new face-up card to the bottom of each of the ten tableau columns. **Important:** You cannot deal new cards if any of your tableau columns are empty.
+### 조작 방법 안내
 
-### Controls Guide
+*   **카드 이동:** 카드를 클릭해 드래그하거나, 유효한 경우 카드 묶음을 통째로
+    다른 열로 옮길 수 있습니다.
+*   **카드 뽑기:** 화면 모서리에 있는 덱을 클릭하면 열마다 카드 한 장씩이
+    새로 배치됩니다.
+*   **자동 정리:** K부터 A까지 완성된 같은 무늬 시퀀스는 많은 버전에서 자동으로
+    옆 영역으로 이동하며, 테이블로에서 사라집니다.
 
-*   **[KO]** **Move Cards:** Click and drag a card or a valid sequence to another column.
-*   **[KO]** **Deal Cards:** Click the stock pile in the corner to deal a new row of cards.
-*   **[KO]** **Auto-Move:** Many versions will automatically move a completed K-to-A sequence to the foundation area for you.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 1무늬, 2무늬, 4무늬 모드는 어떻게 다른가요?**
+    *   **A:** 난이도의 차이입니다. 1무늬 모드에서는 모든 카드가 같은 무늬라
+        순서를 맞추기가 비교적 쉽습니다. 2무늬, 4무늬 모드에서는 서로 다른
+        무늬가 섞여 있어, 제거하려면 반드시 단일 무늬로 내림차순을 맞춰야 하므로
+        훨씬 어렵습니다.
 
-*   **[KO]** **Q: What is the difference between 1, 2, and 4 suit Spider Solitaire?**
-    *   **[KO]** **A:** The difficulty. In 1-suit mode, all cards are of the same suit, making it easy to create sequences. In 2-suit and 4-suit modes, you must manage different suits, which makes it much harder to build the required single-suit sequences for removal.
+*   **Q: 왜 덱에서 새 카드를 뿌릴 수 없나요?**
+    *   **A:** 열 가운데 하나라도 완전히 비어 있으면 덱을 사용할 수 없습니다.
+        열이 모두 최소 한 장 이상 채워져 있어야 새 카드를 한 줄씩 배치할 수
+        있습니다.
 
-*   **[KO]** **Q: Why can't I deal new cards from the stock?**
-    *   **[KO]** **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
-
-*   **[KO]** **Q: What is the best strategy for beginners?**
-    *   **[KO]** **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
-
+*   **Q: 초보자에게 좋은 기본 전략은 무엇인가요?**
+    *   **A:** 처음에는 1무늬 모드로 규칙에 익숙해지는 것이 좋습니다. 숨겨진
+        카드를 열어 가는 것과 빈 열을 만드는 것을 우선 목표로 삼으세요.
+        특히 뒤집힌 카드가 많이 쌓인 열을 중심으로 정리하면, 이후 수가 크게
+        늘어나면서 게임이 수월해집니다.

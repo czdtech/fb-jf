@@ -1,67 +1,70 @@
 ---
-locale: ja
-urlstr: capybara-clicker
-title: '[JA TRANSLATION NEEDED] Capybara Clicker'
-description: >-
-  [JA TRANSLATION NEEDED] Multiply your capybara population in Capybara Clicker!
-  Click to create capybaras, buy auto-generating upgrades, unlock new weather,
-  and dress up your capybara in stylish hats in this charming idle game.
+title: Capybara Clicker カピバラ・クリッカー
+description: 「Capybara Clicker」でカピバラを増殖させよう！クリックして生産、アップグレードで自動化、そしておめかし。癒やしの放置系クリッカーゲーム。
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/capybara-clicker.jpg
+urlstr: capybara-clicker
+score: 4.4/5  (1397 votes)
 tags:
   - casual
   - clicker
-score: 4.4/5  (1397 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Capybara Clicker（カピバラ・クリッカー）*は、ネットで大人気の穏やかな動物「カピバラ」をテーマにした、魅力的でリラックスできる放置系（クリッカー）ゲームです。ゲームの目的は至ってシンプル。カピバラの数をひたすら増やすことです。
+
+最初は画面中央の大きなカピバラをクリックして、1匹ずつ手動で増やしていきます。増えたカピバラを通貨として使い、アップグレードを購入しましょう。「クリックごとの生産数を増やすアップグレード」と、「自動的にカピバラを生み出す施設の建設（自動化）」の2種類があります。
+カピバラが増えると、帽子やスキンなどの着せ替えアイテムがアンロックされたり、「天候を変える（転生）」ことで生産効率を劇的に上げたりできるようになります。
+
+### ゲーム攻略と戦略
+
+*   **クリックと放置のバランス:** 最初は必死にクリックするのが主な収入源です。しかし、最終的な目標は「秒間生産量（CPS）」を上げて放置することです。まずは安い自動生産施設を買って、放置収入の基盤を作りましょう。
+*   **自動化に投資する:** 放置系ゲームの鉄則は「不労所得」です。新しい生産施設を買ったり、既存の施設をアップグレードすることを最優先にしましょう。あなたがクリックしていない間もカピバラは増え続けます。
+*   **天候を変える（転生/Prestige）：** 画面上部の天気アイコンは「転生」ボタンです。これを押すと、現在のカピバラと施設はリセットされますが、代わりに**永続的な生産ボーナス**が得られます。
+    *   恐れずに転生しましょう。ボーナスのおかげで、前回よりも圧倒的に速く元の状態まで戻れます。
+    *   進捗が遅くなって次のアップグレードが遠すぎると感じたら、転生のタイミングです。
+*   **手動クリックも忘れずに:** 転生直後は、強化された手動クリック連打で素早く資金を貯め、最初の自動施設を一気に買い戻すのが効率的です。
+*   **すべてをアンロック:** カピバラの総数が一定（10億匹、1兆匹など）に達すると、新しい帽子やスキンが手に入ります。可愛いカピバラを着飾るのをモチベーションに頑張りましょう。
+
+### 操作ガイド
+
+マウスのみで遊べます。
+
+*   **カピバラを増やす:** 中央のカピバラを左クリック。
+*   **アップグレード購入:** 右側のメニューからアイコンをクリック。
+*   **着せ替え:** ハンガーのアイコンをクリックしてメニューを開く。
+*   **転生（天候変更）:** 画面上部の天気アイコンをクリック。
+
+### よくある質問 (FAQ)
 
 
+> You unlock new cosmetic items by reaching specific population milestones (e.g., 1 billion capybaras, 1 trillion, etc.). The game will notify you when a new item is available.
 
+**4. How do I unlock the new hats and skins?**
 
-### Game Introduction
+> Changing the weather is the game's "prestige" or "ascension" mechanic. It resets your progress (capybaras, upgrades) but gives you a permanent percentage-based boost to all future capybara generation. This is essential for long-term progress.
 
-[JA TRANSLATION NEEDED] Capybara Clicker is a charming and relaxing idle/clicker game centered around the internet's favorite calm animal, the capybara. The objective of the game is to generate an ever-increasing number of capybaras.
+**3. What does changing the weather do?**
 
-[JA TRANSLATION NEEDED] The gameplay starts simply: the player clicks on a large capybara in the center of the screen, with each click generating one capybara. These generated capybaras act as the game's currency. You can spend them on two main types of upgrades: upgrades that increase the number of capybaras you get per click, and auto-generating upgrades that produce a steady stream of capybaras per second (CPS) without you having to do anything. As you accumulate more capybaras, you unlock new cosmetic items to dress up your main capybara and can trigger a "weather change," which acts as a prestige system to reset your progress in exchange for a permanent boost to your production rate.
+> In the beginning, click a lot to afford your first few auto-generating upgrades. Once you have a decent CPS, you can let the game idle and check back in to buy more upgrades. The focus should shift from clicking to managing your passive income.
 
-### Gameplay Strategy
+**2. Should I keep clicking or save up for auto-generators?**
 
--   **Balance Clicks and Idle Generation:** In the very beginning, active clicking is your main source of income. However, the long-term goal is to build up your passive Capybaras Per Second (CPS). Your first few purchases should be the cheapest auto-generating upgrades to get the snowball rolling.
-    - Don't be afraid to ascend. The boost you get makes regaining your progress much, much faster.（日本語訳が必要）
-    - A good rule of thumb is to ascend when your progress starts to slow down significantly and the next upgrade seems impossibly far away.（日本語訳が必要）
-    - A good rule of thumb is to ascend when your progress starts to slow down significantly and the next upgrade seems impossibly far away.（日本語訳が必要）
-    - Don't be afraid to ascend. The boost you get makes regaining your progress much, much faster.（日本語訳が必要）
--   **Invest in Auto-Generation:** The key to exponential growth in any clicker game is passive income. Always prioritize buying new auto-generating sources or upgrading your existing ones. They work for you even when you're not actively clicking.
--   **Know When to Change the Weather (Prestige):** The "Ascend" or "Prestige" button in this game is the weather icon. Clicking it will reset your current capybaras and upgrades but will grant you a permanent boost to all future earnings.
+> The goal is simply to see the numbers go up! It's a relaxing, low-stress game about achieving ridiculously large numbers and unlocking fun cosmetic items. It's a classic example of an incremental or idle game.
 
+**1. What is the point of the game?**
+*   **Q: このゲームの目的は何ですか？**
+    *   **A:** 数字が増えていくのを見て楽しむことです！馬鹿げた桁数までカピバラを増やし、可愛いスキンを集める、ストレスフリーな癒やしゲームです。
 
-    - A good rule of thumb is to ascend when your progress starts to slow down significantly and the next upgrade seems impossibly far away.
-    - Don't be afraid to ascend. The boost you get makes regaining your progress much, much faster.
-[JA TRANSLATION NEEDED]     -   Don't be afraid to ascend. The boost you get makes regaining your progress much, much faster.
-[JA TRANSLATION NEEDED]     -   A good rule of thumb is to ascend when your progress starts to slow down significantly and the next upgrade seems impossibly far away.
--   **Don't Forget Click Upgrades:** While passive income is key, don't completely ignore the "per click" upgrades. After you ascend, your powerful manual clicks can help you quickly buy back your first few auto-generating buildings.
--   **Unlock Everything:** Reaching population milestones will unlock new skins and hats for your capybara. These are cosmetic but are fun goals to aim for.
+*   **Q: クリックし続けるべきですか？それとも放置？**
+    *   **A:** 最初はクリック連打で資金を稼ぎましょう。ある程度自動収入（CPS）が増えたら、放置してたまにアップグレードを買いに戻ってくるスタイルに切り替えるのが王道です。
 
-### Controls Guide
+*   **Q: 天気を変えると何が起きますか？**
+    *   **A:** ゲームのリセットと引き換えに、生産倍率に恒久的なブーストがかかります。長期的に数を増やすためには必須の機能です。
 
-[JA TRANSLATION NEEDED] The entire game is played with the mouse.
--   **Generate Capybaras:** Left-click on the main capybara.
--   **Buy Upgrades:** Left-click on the upgrade icons in the menu on the right.
--   **Change Appearance:** Click the hanger icon to open the cosmetic menu.
--   **Ascend:** Click the weather icon at the top of the screen.
-
-### Frequently Asked Questions (FAQ)
-
-[JA TRANSLATION NEEDED] **1. What is the point of the game?**
-[JA TRANSLATION NEEDED] > The goal is simply to see the numbers go up! It's a relaxing, low-stress game about achieving ridiculously large numbers and unlocking fun cosmetic items. It's a classic example of an incremental or idle game.
-
-[JA TRANSLATION NEEDED] **2. Should I keep clicking or save up for auto-generators?**
-[JA TRANSLATION NEEDED] > In the beginning, click a lot to afford your first few auto-generating upgrades. Once you have a decent CPS, you can let the game idle and check back in to buy more upgrades. The focus should shift from clicking to managing your passive income.
-
-[JA TRANSLATION NEEDED] **3. What does changing the weather do?**
-[JA TRANSLATION NEEDED] > Changing the weather is the game's "prestige" or "ascension" mechanic. It resets your progress (capybaras, upgrades) but gives you a permanent percentage-based boost to all future capybara generation. This is essential for long-term progress.
-
-[JA TRANSLATION NEEDED] **4. How do I unlock the new hats and skins?**
-[JA TRANSLATION NEEDED] > You unlock new cosmetic items by reaching specific population milestones (e.g., 1 billion capybaras, 1 trillion, etc.). The game will notify you when a new item is available.
-
+*   **Q: 新しい帽子はどうやって手に入れますか？**
+    *   **A:** カピバラの総生産数が特定のマイルストーンに達すると自動的にアンロックされます。

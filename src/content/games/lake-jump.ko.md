@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: lake-jump
-title: '[KO] Lake Jump'
+title: Lake Jump 호수 점프
 description: >-
-  [KO] Lake Jump is a one‑tap timing game — hop across platforms, avoid falls,
-  and chain perfect jumps.
+  한 번의 탭으로 점프 타이밍을 맞추는 게임 'Lake Jump' 가이드입니다. 움직이는 발판에 맞춰 점프해 물에 빠지지 않고 연속 점프를
+  이어 가 보세요.
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
 thumbnail: /new-images/lake-jump.png
 tags:
@@ -16,28 +16,68 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-## English Guide
+## 게임 상세 소개
 
-### Detailed Game Introduction
+*Lake Jump*는 미니멀한 연속 점프 챌린지 게임입니다.
+화면을 탭하는 간단한 조작만으로 움직이는 발판 사이를
+오가며, 물에 빠지지 않고 가능한 한 오랫동안 버티는 것이
+목표입니다.
 
-Lake Jump is a minimalist tap‑to‑jump challenge. Time taps to land on moving or spaced platforms, maintain rhythm, and rack up streaks without falling in the water.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **박자 세기**  
+   일정한 리듬으로 탭하면, 발판 속도에 맞춘 점프 타이밍을
+   익히기 쉬워집니다.
 
-1.  **[KO]** Count beats: Use a steady rhythm for predictable jump timing.
-2.  **[KO]** Aim for centers: Landing in the middle of platforms gives more correction time.
-3.  **[KO]** Watch platform speed: Faster cycles require earlier taps; adjust quickly.
-4.  **[KO]** Skip greed: Ignore risky coins when alignment is poor.
-5.  **[KO]** Reset calmly: After a miss, re‑establish rhythm before chasing streaks.
+2. **발판 중앙 노리기**  
+   항상 발판 중앙 근처에 떨어지도록 조준하면, 다음 점프를
+   수정할 여유가 더 생깁니다.
 
-### Controls Guide
+3. **속도 변화 관찰**  
+   발판이 빨리 움직이기 시작하면 약간 더 이른 타이밍에
+   점프해야 하므로, 속도 변화를 눈여겨보세요.
 
-- Jump: Tap/Click at the right moment.
-- Pause/Retry: On‑screen buttons.
+4. **욕심 줄이기**  
+   점수를 위한 코인이 위험한 위치에 있다면 과감히
+   포기하고 생존을 우선하는 것이 장기적으로 더 좋은 기록으로
+   이어집니다.
 
-### Frequently Asked Questions (FAQ)
+5. **실수 후 리셋**  
+   리듬이 틀어졌다고 느껴질 때는 잠시 멈춰 호흡을 고르고,
+   다시 일정한 박자로 탭하는 습관을 들이세요.
+
+### 조작 가이드
+
+- **점프**: 적절한 시점에 화면을 탭/클릭해 점프합니다.  
+- **일시정지/재시작**: 화면 상의 버튼으로 조작합니다.
+
+
+- Reset calmly: After a miss, re‑establish rhythm before chasing streaks.
+
+- Skip greed: Ignore risky coins when alignment is poor.
+
+- Watch platform speed: Faster cycles require earlier taps; adjust quickly.
+### 자주 묻는 질문(FAQ)
+
+- **Q: 자꾸 발판을 지나쳐 버립니다.**  
+  **A:** 너무 이른 타이밍에 점프하고 있을 가능성이 큽니다.
+  살짝 늦게 탭해 발판 중앙을 겨냥해 보세요.
+
+- **Q: 파워업이 있나요?**  
+
+- Endless? Typically yes; set personal bests.
+
+- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
 
 - I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
+
+### 자주 묻는 질문(FAQ)
+
 - Endless? Typically yes; set personal bests.
+
+- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
+
+- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
+  **A:** 일부 모드에서는 잠시 속도를 늦추거나 발판을
+  크게 만드는 파워업이 제공될 수 있습니다.
 

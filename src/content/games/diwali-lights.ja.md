@@ -1,63 +1,41 @@
 ---
+title: "Diwali Lights ディワリ・ライツ"
+description: "「Diwali Lights」は光のパズルゲーム。ディワリのお祭りをテーマに、秩序正しくランプ（ディヤ）を点灯させ、美しい光の模様を描き出そう。"
+iframeSrc: "https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/"
+thumbnail: "/new-images/diwali-lights.jpg"
+urlstr: "diwali-lights"
+score: "4.1/5  (1835 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: diwali-lights
-title: '[JA TRANSLATION NEEDED] Diwali Lights'
-description: >-
-  [JA TRANSLATION NEEDED] Diwali Lights is a festive tap‑puzzle — light diyas in
-  patterns, avoid overlaps, and complete glowing designs.
-iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
-thumbnail: /new-images/diwali-lights.jpg
-tags:
-  - puzzle
-  - casual
-score: 4.1/5  (1835 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Diwali Lights（ディワリ・ライツ）*は、インドの光の祭典「ディワリ」をテーマにした幻想的なパズルゲームです。
+目的は、並べられたランプ（ディヤ）やタイルを正しい順序やパターンで点灯させ、美しいデザインを完成させることです。ステージが進むと、移動回数の制限や、一度に複数のランプを操作するスイッチ、時間制限などのギミックが登場します。
 
-### Detailed Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Diwali Lights is a holiday‑themed light‑up puzzle. Activate lamps (diyas) in the correct order or pattern to illuminate designs without crossing rules. Later stages add limited moves, switches, and timing.
+1.  **ルール把握:** ステージによって「線が交差してはいけない」「一筆書きで点灯させる」などのルールが異なるため、開始前に目標を確認しましょう。
+2.  **ルート計画:** 移動回数に制限がある場合、無駄な後戻りをしない最短ルートを見つける必要があります。
+3.  **スイッチ活用:** 複数のランプを同時に点けるスイッチがある場合は、それを効果的に使って手数を節約しましょう。
+4.  **部分ごとの解決:** 複雑な絵柄の場合、全体を一度に見るのではなく、小さなパターンごとに解決していくと整理しやすくなります。
+5.  **リトライ:** 何度でもすぐにやり直せるので、失敗を恐れずに試行錯誤しましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Understand rules: Some boards restrict overlaps or require sequences—read objectives first.
-[JA TRANSLATION NEEDED] 2.  Plan routes: Map a path that minimizes backtracking and respects move limits.
-[JA TRANSLATION NEEDED] 3.  Save toggles: Use switches to open multiple goals at once.
-[JA TRANSLATION NEEDED] 4.  Visual groups: Solve one motif at a time to simplify the board.
-[JA TRANSLATION NEEDED] 5.  Retry optimization: Short puzzles reward fast restarts after missteps.
+*   **操作:** タップ（クリック）でランプを点灯、またはスイッチを操作します。
+*   **ツール:** アンドゥ（一手戻る）やリセットボタンが使えます。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Tap/Click lamps, switches, or tiles per puzzle rules.
-- Undo/Reset if the mode allows.
+*   **Q: 移動回数が足りません。**
+    *   **A:** 遠回りしていませんか？一筆書きの要領で、効率的なルートを考え直してみましょう。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 時間制限が厳しいです。**
+    *   **A:** 時間制限がある場合は、タイマーの近くにあるランプや、ボーナス時間をくれるアイテムを優先的に処理しましょう。
 
-- I keep failing on move limits—why? Your path wastes steps; redraw a shorter route.
-- Timed boards? Complete motifs near timers first.
-- Are hints available? Often yes; use them sparingly.
-
-
-
-
-
-
-
-
-
-- Are hints available? Often yes; use them sparingly.
-- Timed boards? Complete motifs near timers first.
-- I keep failing on move limits—why? Your path wastes steps; redraw a shorter route.
-### よくある質問（FAQ）
-- Undo/Reset if the mode allows.
-- Tap/Click lamps, switches, or tiles per puzzle rules.
-### コントロールガイド
-
-
-
-
-- Are hints available? Often yes; use them sparingly.
-- Timed boards? Complete motifs near timers first.
-- I keep failing on move limits—why? Your path wastes steps; redraw a shorter route.
+*   **Q: ヒントはありますか？**
+    *   **A:** 多くのバージョンでヒント機能が用意されていますが、使用回数に制限があることが多いので慎重に使いましょう。

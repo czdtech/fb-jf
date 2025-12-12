@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bee-connect
-title: '[ES] Bee Connect'
+title: "Bee Connect rompecabezas numérico en panal"
 description: >-
-  [ES] In Bee Connect, you need to organize the numbers in the beehive into
-  adjacent groups of four to match each other.
+  En Bee Connect debes organizar los números de un panal hexagonal formando
+  grupos de cuatro o más celdas iguales para fusionarlas en valores superiores.
 iframeSrc: >-
   https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
 thumbnail: /new-images/bee-connect.jpg
@@ -16,43 +16,68 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+*Bee Connect* es un puzle numérico exigente y estratégico sobre una cuadrícula
+hexagonal con forma de panal. Tu objetivo es lograr la máxima puntuación posible
+fusionando fichas numeradas para crear valores cada vez más altos.
 
+A diferencia de los 2048 clásicos, la mecánica central consiste en **conectar
+un grupo de cuatro o más números iguales y adyacentes** para fusionarlos en una
+sola ficha de valor superior. Por ejemplo, agrupar cuatro fichas "2" generará
+una ficha "8".
 
-### **Game Introduction**
+Mueves las fichas una a una a celdas vacías adyacentes. El problema es que, **si
+un movimiento no provoca una fusión, entran nuevos números desde la cola superior**
+llenando huecos preciosos. Las fichas totalmente rodeadas no se pueden mover. El
+juego acaba cuando el panal se llena y ya no quedan movimientos posibles.
 
-*Bee Connect* is a challenging and strategic number-merging puzzle game set on a hexagonal beehive grid. The objective is to achieve the highest score possible by strategically combining numbered tiles to create tiles with higher values.
+### Estrategia y consejos
 
-Unlike classic 2048-style games, the core mechanic of *Bee Connect* requires players to connect a group of **four or more adjacent, identical numbers** to merge them into a single tile of a higher value. For example, grouping four '2' tiles together will merge them into one '8' tile.
+1.  **Planifica siempre para fusionar:** Regla de oro. Cada movimiento debería,
+    idealmente, culminar en una fusión. Mover por mover es caro, porque hace que
+    aparezcan más números aleatorios y te quita espacio.
+2.  **Agrupa, no disperses:** Mantén juntos los números iguales. Intenta formar
+    grupos de tres preparados para recibir una cuarta ficha y completar la
+    combinación. Evita dejar un "8" suelto en una esquina lejos del resto de 8.
+3.  **Piensa varios movimientos por delante:** Fíjate en la cola de números que
+    aparece arriba. Si ves, por ejemplo, que se acercan dos "1", reserva sitio
+    junto a tus "1" actuales para una fusión fácil.
+4.  **Aprovecha la rejilla hexagonal:** El panal tiene hasta seis adyacencias por
+    celda, más que un tablero cuadrado. Esto te permite crear grupos de cuatro
+    en formas no lineales. Usa esa flexibilidad para generar conexiones más
+    complejas.
+5.  **Mantén el centro despejado:** Procura que las grandes fusiones ocurran
+    hacia los bordes. Dejar el centro relativamente libre te da más opciones de
+    movimiento y evita que tus fichas clave queden atrapadas pronto.
+6.  **Guarda los potenciadores:** El icono del rayo suele permitir eliminar una
+    ficha o algo similar. No lo gastes a la ligera: resérvalo para momentos
+    críticos en los que necesites liberar una casilla concreta para evitar el
+    bloqueo o habilitar una fusión importante.
 
-Players move tiles one by one into adjacent empty cells. However, there's a catch: **if a move does not result in a merge, new numbers from the queue at the top of the screen will be added to the board**, filling up valuable space. Tiles that are completely surrounded by other tiles cannot be moved. The game ends when the board is full and no more moves can be made.
+### Guía de controles
 
-### **Gameplay Strategy & Tips**
+El juego está pensado para un control sencillo de arrastrar y soltar.
 
-1.  **[ES]** **Always Plan for a Merge**: This is the golden rule. Every move you make should ideally result in a merge. Moving a tile just to reposition it is costly, as it will add more random numbers to the board and reduce your available space.
-2.  **[ES]** **Group, Don't Scatter**: Actively try to keep identical numbers close to each other. Your goal is to create clusters of three, setting them up for a fourth tile to complete the merge. Avoid leaving a single '8' tile isolated on the far side of the board from your other '8's.
-3.  **[ES]** **Think Several Moves Ahead**: Look at the queue of upcoming numbers at the top. This information is crucial. If you see two '1's are coming, you can prepare a space for them next to your existing '1's to set up an easy merge.
-4.  **[ES]** **Utilize the Hexagonal Grid**: The hexagonal grid offers more adjacent spaces (up to six) than a square grid. Use this to your advantage to create more complex and flexible groupings. You can often connect four tiles in non-linear shapes.
-5.  **[ES]** **Keep the Center Clear**: Try to push merges towards the edges of the board. Keeping the central area open provides more flexibility for moving and arranging tiles, preventing your key pieces from getting trapped early.
-6.  **[ES]** **Save Your Power-ups**: The lightning bolt icon is a powerful tool, likely for clearing a single tile or another helpful action. Don't use it on a whim. Save it for critical moments when you need to clear a specific tile to prevent the board from locking up or to enable a game-saving merge.
+*   **Mover ficha:** Haz clic y arrastra una ficha numerada a una celda
+    adyacente vacía. En algunas versiones puedes usar un sistema de
+    "seleccionar y luego hacer clic para colocar".
 
-### **Controls Guide**
+### Preguntas frecuentes (FAQ)
 
-The game is designed for simple drag-and-drop or click-based gameplay.
+**1. ¿Por qué aparecen de repente nuevos números en el tablero?**  
+Es la mecánica de penalización central: ocurre siempre que mueves una ficha y
+ese movimiento **no** genera un grupo de cuatro o más iguales.
 
-*   **[ES]** **Move a Tile**: **Click and drag** a numbered tile to an adjacent empty honeycomb cell. Alternatively, some versions may use a **click-to-select, click-to-place** system.
+**2. ¿Por qué no puedo mover cierta ficha?**  
+Está "atrapada". Solo puedes mover fichas que tengan al menos una celda libre
+adyacente. Si están completamente rodeadas, no se pueden desplazar.
 
-### **Frequently Asked Questions (FAQ)**
+**3. ¿Cuántas fichas necesito para hacer una fusión?**  
+Debes crear un grupo adyacente de **al menos cuatro** fichas iguales. Tres
+juntas no son suficientes.
 
-**1. Why did new numbers suddenly appear on the board?**
-This is the game's core penalty mechanic. It happens whenever you move a tile, and that move does not immediately create a group of four or more matching tiles.
-
-**2. Why can't I move a specific tile?**
-The tile is "trapped." A tile can only be moved if there is at least one empty, adjacent honeycomb cell to move it into. If it is completely surrounded by other tiles, it is stuck.
-
-**3. How many tiles do I need to make a match?**
-You need to create an adjacent group of **at least four** identical tiles. Three tiles next to each other will not merge.
-
-**4. What is the goal of the game?**
-The primary goal is to survive for as long as possible and achieve the highest score. A secondary goal for experts is to create the highest possible number tile (e.g., 1024, 2048, etc.) by repeatedly merging.
-
+**4. ¿Cuál es el objetivo final?**  
+Sobrevivir el máximo tiempo posible y conseguir la mayor puntuación. Como reto
+secundario, puedes intentar llegar al número más alto posible (1024, 2048,
+etc.) mediante fusiones sucesivas.

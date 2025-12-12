@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: billiard-hustlers
-title: '[KO] Billiard Hustlers'
+title: 'Billiard Hustlers 빌리어드 허슬러스'
 description: >-
-  [KO] Billiard Hustlers brings pool fundamentals to the browser — aim clean,
-  control cue‑ball, and run the table with smart position play.
+  Billiard Hustlers는 에임과 회전, 수구 컨트롤에 집중한 포켓볼 게임입니다.
+  정확한 샷과 포지셔닝으로 다음 공까지 계산하며 테이블을 정리해 보세요.
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/billiard-hustlers.jpg
 tags:
@@ -14,48 +14,60 @@ score: 4.2/5  (2217 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Billiard Hustlers는 에임, 회전(스핀), 수구 컨트롤을 중점적으로 다루는 포켓볼
+시뮬레이션 게임입니다. 8볼, 9볼, 단순 포팅 챌린지 등 다양한 모드에서 목적구를
+넣고, 동시에 다음 샷을 위해 수구 위치를 어떻게 남길지 고민해야 합니다.
+가벼운 테이블과 빠른 천 덕분에, 세기와 회전량 조절이 섬세할수록 원하는
+루트를 만들기 쉬워집니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **포지션부터 계획하기:** 매 샷마다 "이번 공을 넣은 후 수구가 어디에
+    서 있어야 다음 공을 쉽게 칠 수 있을까"를 먼저 생각해 보세요.
+2.  **세기는 부드럽게:** 과한 파워보다는 부드럽고 중간 정도의 세기가
+    정확도를 높여 주고, 미끄러짐도 줄여 줍니다.
+3.  **스핀은 조금씩만 사용:** 따라가는 상회전, 뒤로 끌어오는 하회전, 쿠션
+    이후 궤적을 바꾸는 측회전 등은 처음에는 소량만 적용해도 큰 차이를
+    만듭니다. 과한 스핀은 실수를 부르기 쉽습니다.
+4.  **패턴 우선:** 8볼에서는 뭉쳐 있는 공과 문제 구역을 초반에 풀어 두고,
+    9볼에서는 번호 순서에 따라 자연스럽게 이동할 수 있는 루트를 짜는 것이
+    중요합니다.
+5.  **쿠션 활용:** 2~3쿠션으로 수구를 테이블 중앙으로 돌려보내거나, 다음
+    목적구 쪽으로 접근하는 기본 길을 익혀 두면 포지션 플레이가 한층 쉬워집니다.
+6.  **위험할 땐 세이프티:** 확률 낮은 샷으로 무리하기보다는, 상대가 치기
+    어렵게 수구를 가리는 세이프티를 선택하는 편이 전체적으로 더 유리할 때가
+    많습니다.
 
-Billiard Hustlers is a slick pool sim that emphasizes aiming, spin, and cue‑ball control. Whether you’re playing 8‑ball, 9‑ball, or simple pot challenges, the core is identical: pocket your object balls while leaving the cue‑ball ideal for the next shot. Lighter tables and faster cloth encourage precise power and subtle english (spin) to shape routes across the table.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 에임: 마우스로 큐를 움직여 방향을 맞추고, 미세 조정은 작은 움직임으로
+  조절합니다.
+- 파워: 큐 파워 게이지를 뒤로 당겼다가 놓으면 샷이 나갑니다.
+- 스핀: 수구 그림 위에서 타점을 조정해 상·하·측 회전을 줄 수 있습니다.
+- 카메라: 일부 버전에서는 화면을 회전·확대해 시야를 조정할 수 있습니다.
 
-1.  **[KO]** Pre‑plan position: Before every pot, decide where you want the cue‑ball to stop for the next shot.
-2.  **[KO]** Speed discipline: Smooth, medium‑firm strokes improve accuracy and reduce skid.
-3.  **[KO]** Use spin sparingly: Topspin to follow, backspin to draw back, sidespin to change lines after rails—start with small amounts.
-4.  **[KO]** Patterns first: In 8‑ball, clear clusters and problem balls early; in 9‑ball, route naturally along the lowest numbers.
-5.  **[KO]** Rails are allies: Learn natural two‑ and three‑rail paths to return to center or approach key balls.
-6.  **[KO]** Safety when needed: If the pot is low‑percentage, play a safety to leave your opponent tough.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **샷이 자꾸 포켓 입구에서 튕겨 나옵니다.**  
+  세기를 너무 세게 치거나, 포켓 중앙을 정확히 관통하지 못했을 가능성이 큽니다.
+  힘을 조금 줄이고, 포켓의 안쪽 중앙을 지나는 라인으로 에임을 잡으세요.
 
-- Aim: Drag to line up; fine‑tune with small mouse movements.
-- Power: Pull back the cue meter; release to shoot.
-- Spin: Adjust the cue‑ball diagram for top/back/side spin.
-- Camera: Some versions allow pan/zoom for better sightlines.
+- **수구 컨트롤이 어렵습니다.**  
+  우선 세기부터 안정시키고, 그다음에 상·하회전을 조금씩 섞어 보세요.
+  쿠션을 이용해 속도를 줄이며 다음 공이 치기 좋은 각도가 되도록 연습하는 것이
+  좋습니다.
 
-### Frequently Asked Questions (FAQ)
+- **언제 세이프티를 써야 하나요?**  
+  성공 확률이 40~50% 이하로 느껴지는 얇은 샷인데, 실패하면 상대에게 완벽한
+  찬스를 내주는 상황이라면 과감히 세이프티를 선택하는 것이 좋습니다.
 
-- Q: My pots keep rattling out—what’s wrong?
+- **클러스터(뭉친 공)를 어떻게 풀어야 하나요?**  
+  인근에 여유 공이 있을 때, 적당한 세기로 살짝 건드려 놓는 식으로 초반에
+  풀어 두세요. 너무 세게 치면 수구가 엉켜서 더 어려운 상황이 될 수 있습니다.
 
-A: You’re hitting too hard or at a poor angle. Reduce power, ensure clean aim through the pocket center, and avoid heavy sidespin on thin cuts.
-
-- Q: How do I control the cue‑ball better?
-
-A: Focus on speed first, then add small amounts of top/backspin. Use rails to bleed off speed and approach your next ball at a friendly angle.
-
-- Q: When should I play safe instead of potting?
-
-A: If the pot is under 40–50% and leaves you snookered, a safety that tucks the cue‑ball behind traffic is often superior.
-
-- Q: Any tip for breaking clusters?
-
-A: Nudge clusters early while you have nearby insurance balls; use controlled speed to avoid sticking on the pack.
-
-- Q: 8‑ball vs 9‑ball patterns—what’s the difference?
-
-A: 8‑ball prioritizes solving problem balls and end‑patterns; 9‑ball routes naturally in numeric order, focusing on cue‑ball lines between consecutive targets.
-
+- **8볼과 9볼에서 패턴은 어떻게 다른가요?**  
+  8볼은 문제 공과 마지막 마무리 패턴을 먼저 생각하는 것이 중요하고, 9볼은
+  항상 낮은 번호 순서대로 자연스럽게 이어지는 수구 길을 만드는 데 집중하는
+  것이 핵심입니다.

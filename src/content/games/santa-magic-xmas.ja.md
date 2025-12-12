@@ -1,111 +1,53 @@
 ---
-locale: ja
-urlstr: santa-magic-xmas
-title: '[JA TRANSLATION NEEDED] Santa Magic Xmas'
-description: >-
-  [JA TRANSLATION NEEDED] Experience the magic of Christmas in this festive
-  match-3 puzzle game! Help Santa by matching colorful ornaments and clearing
-  the board to deliver the presents.
-iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
+title: Santa Magic Xmas
+description: Santa Magic Xmasはホリデーマジックゲームです。プレゼントを配達し、魔法を使用し、クリスマスを救い、フェスティブな冒険を楽しみます。
+iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/santa-magic-xmas.png
+urlstr: santa-magic-xmas
+score: 4.0/5  (1723 votes)
 tags:
-  - puzzle
   - casual
-  - action
-score: 4.4/5  (2250 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - adventure
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Santa Magic Xmasは、サンタが魔法の力を使用してプレゼントを配達する楽しいホリデーアドベンチャーです。障害物をナビゲートし、魔法を使用し、すべての贈り物を時間内に配達してクリスマスを救います。
 
-- **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.（日本語訳が必要）
-The game is played with simple swap mechanics.（日本語訳が必要）
-[JA TRANSLATION NEEDED] Santa Magic Xmas is a cheerful and festive match-3 puzzle game that immerses you in the holiday spirit. Your goal is to help Santa Claus by matching colorful Christmas items like bells, ornaments, and gingerbread men. Swap adjacent items to create lines of three or more, trigger powerful combos, and complete the objectives of each level to ensure all the presents are delivered on time!
-- **Q: How do I break the ice blocks?**（日本語訳が必要）
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  **Create Festive Power-ups:** The best way to clear the board is by making special items from larger matches.
-[JA TRANSLATION NEEDED]     *   **Match 4:** Creates a special item that can clear an entire row or column.
-[JA TRANSLATION NEEDED]     *   **Match 5 (L or T shape):** Creates a wrapped candy bomb that explodes and clears a large area.
-[JA TRANSLATION NEEDED]     *   **Match 5 (in a line):** Creates a powerful color bomb that can clear all items of a single color from the board.
-
-[JA TRANSLATION NEEDED] 2.  **Combine for Holiday Cheer:** Swap two special items with each other to unleash a massive, board-clearing effect. This is the key to solving the most challenging puzzles.
-[JA TRANSLATION NEEDED] 3.  **Focus on the Goal:** Each level has a unique objective, such as clearing all the frozen ice tiles or dropping special gift boxes to the bottom. Always prioritize moves that help you achieve the specific goal before you run out of moves.
-[JA TRANSLATION NEEDED] 4.  **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple swap mechanics.
-
-*   **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
-
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
-
-    - **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.（日本語訳が必要）
-    - **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.（日本語訳が必要）
-- **Q: What is the most powerful combo?**（日本語訳が必要）
-- **Q: What happens if I run out of moves?**（日本語訳が必要）
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.（日本語訳が必要）
-*   **Q: How do I break the ice blocks?**
-[JA TRANSLATION NEEDED]     *   **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.
-
-*   **Q: What is the most powerful combo?**
-[JA TRANSLATION NEEDED]     *   **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
-
-*   **Q: What happens if I run out of moves?**
-[JA TRANSLATION NEEDED]     *   **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+1.  **魔法を賢く使用:" 魔法の力を戦略的に使用します。
+    - **パスを計画:" すべての家に到達するための効率的なルート。
+    - **障害物を避ける:" 遅延を避けます。
+    - **時間を管理:" クリスマス前に配達します。
+5.  **パワーアップを収集:" スピードと能力をブーストします。
 
 
-    - **Match 4:** Creates a special item that can clear an entire row or column.（日本語訳が必要）
-    - **Match 5 (L or T shape):** Creates a wrapped candy bomb that explodes and clears a large area.（日本語訳が必要）
-    - **Match 5 (in a line):** Creates a powerful color bomb that can clear all items of a single color from the board.（日本語訳が必要）
-### コントロール Guide
+- **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+
+- **Focus on the Goal:** Each level has a unique objective, such as clearing all the frozen ice tiles or dropping special gift boxes to the bottom. Always prioritize moves that help you achieve the specific goal before you run out of moves.
+### 操作ガイド
 
 
-
-
-
-
-
-
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
-- **Q: What is the most powerful combo?**
-    - **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.
-- **Q: How do I break the ice blocks?**
-### よくある質問（FAQ）
-- **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
 The game is played with simple swap mechanics.
+- 矢印キー/WASD：移動します。
+- スペース/特定のキー：魔法を使用します。
+- すべてのプレゼントを配達します。
 
+### よくある質問 (FAQ)
 
-
-
-
-
-
-
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
-- **Q: What is the most powerful combo?**
-    - **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.
-- **Q: How do I break the ice blocks?**
-### よくある質問（FAQ）
-- **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
-
-
-
-
-
+- **Q: これは季節限定ですか？**  
+  A: いいえ、年中プレイできます。
+    - **Q: どのような魔法の力がありますか？**  
+  A: テレポート、スピードブースト、障害物除去など。
+- **Q: どれくらいのレベルがありますか？**  
 
     - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+
 - **Q: What happens if I run out of moves?**
+
     - **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
-- **Q: What is the most powerful combo?**
-    - **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.
+  A: バージョンによって異なります。多くは数十。

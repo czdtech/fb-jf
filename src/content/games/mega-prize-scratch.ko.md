@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mega-prize-scratch
-title: '[KO] Mega Prize Scratch'
+title: "Mega Prize Scratch 메가 프라이즈 스크래치"
 description: >-
-  [KO] Mega Prize Scratch is a casual scratch‑card — reveal panels, match
-  symbols, and set session limits to keep it fun.
+  Mega Prize Scratch는 복권 긁기 느낌을 간단히 즐길 수 있는 캐주얼 스크래치 카드
+  게임입니다. 패널을 긁어 심볼을 확인하고, 세션별 한도를 정해 가볍게 즐겨 보세요.
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/mega-prize-scratch.png
 tags:
@@ -15,34 +15,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Mega Prize Scratch*는 스크래치 복권을 디지털로 옮긴 게임으로, 가려진 칸을 긁어 심볼을
+확인하고 특정 패턴을 맞추면 보너스 라운드가 열리는 방식입니다. 각 카드는 서로 독립적으로
+동작하며, 복잡한 전략보다는 가볍게 긁어 보며 연출을 즐기는 데 초점을 맞춘 게임입니다.
 
-Mega Prize Scratch simulates a scratch ticket: recover hidden symbols, match patterns, and trigger bonus rounds. Each card is independent; treat the game as light entertainment rather than a strategy challenge.
+### 플레이 전략 & 팁
 
-### Gameplay Strategy & Walkthrough
+1. **예산 설정:** 플레이를 시작하기 전에 이번 세션에서 사용할 소액 예산을 정해 두고,
+   그 한도를 반드시 지키세요.
+2. **여유 있게 긁기:** 결과는 이미 정해져 있으므로, 너무 서두르지 말고 연출을 천천히
+   보면서 즐기는 편이 좋습니다.
+3. **보너스 규칙 파악:** 어떤 심볼 조합이 보너스 라운드나 추가 보상을 여는지 규칙을
+   미리 읽어 두면, 화면에 뜨는 패턴을 더 흥미롭게 볼 수 있습니다.
+4. **멈출 기준 정하기:** 일정 금액을 따거나, 처음 정한 예산을 다 쓰면 그 시점에서
+   깔끔하게 세션을 마무리하는 습관을 들이세요.
+5. **중간중간 휴식:** 오랫동안 연속으로 긁기보다는, 중간에 잠깐 자리를 비우며 충동적인
+   지출을 막는 것이 좋습니다.
 
-1.  **[KO]** Budget: Set a small session budget and stick to it.
-2.  **[KO]** Pace: Scratch slowly to enjoy reveals; rushing doesn’t change outcomes.
-3.  **[KO]** Bonus awareness: Read rules so you know which symbols unlock features.
-4.  **[KO]** Stop rules: Quit on win targets or when the budget ends.
-5.  **[KO]** Breaks: Step away periodically to avoid impulse spending.
+### 조작 방법
 
-### Controls Guide
+- 마우스 드래그나 터치로 패널을 긁어 내용을 드러냅니다.
+- "Reveal All" 같은 버튼이 있다면 한 번에 모두 공개할 수 있고, 새 카드를 구매하거나
+  보너스 라운드로 진입하는 버튼도 인터페이스에 배치되어 있습니다.
 
-- Drag to scratch; press buttons to reveal all, buy new cards, or enter bonuses.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 결과에 영향을 줄 수 있는 요소가 있나요?
 
-- Q: Can I influence results?
+  A: 없습니다. 결과는 난수에 의해 결정되므로, 플레이어가 할 수 있는 건 속도와 예산을
+  조절하는 것뿐입니다.
 
-A: No — outcomes are random; focus on pacing and budgeting.
+- Q: 어떤 베팅 금액이 좋나요?
 
-- Q: What bet size is best?
+  A: 한 판당 작은 금액을 꾸준히 사용하는 쪽이 플레이 시간을 길게 가져가는 데
+  유리합니다.
 
-A: Small, consistent bets extend playtime.
+- Q: 보너스 게임을 자주 가면 이득인가요?
 
-- Q: Do bonuses improve odds?
-
-A: They change volatility more than long‑term expectation.
-
+  A: 보너스는 장기적인 기대값보다는 변동성을 키우는 역할에 가깝습니다. 큰 상금을
+  노리는 연출을 즐기는 정도로만 받아들이는 것이 좋습니다.

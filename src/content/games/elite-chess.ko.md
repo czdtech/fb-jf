@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: elite-chess
-title: '[KO] Elite Chess'
+title: "Elite Chess 엘리트 체스"
 description: >-
-  [KO] Elite Chess focuses your fundamentals — sound openings, clean tactics,
-  and endgame technique to convert advantages.
+  탄탄한 체스 기본기를 다지는 데 초점을 맞춘 체스 게임입니다. 정석적인
+  오프닝과 깔끔한 전술, 실전적인 엔드게임 운영을 연습해 보세요.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/elite-chess.png
 tags:
@@ -15,40 +15,61 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Elite Chess는 난이도를 조절할 수 있는 AI나 로컬 상대와 대국할 수 있는 체스
+플랫폼으로, 실력 향상에 필요한 기본 요소를 세 영역으로 나누어 체험하게 합니다.  
+1) **오프닝**: 빠른 기물 전개, 킹 안전 확보, 말의 활동성  
+2) **미들게임 전술**: 포크, 핀, 스큐어, 발견 공격, 디플렉션 등  
+3) **엔드게임**: 킹의 활동성, 옵포지션, 기본 체크메이트, 실제 자주 나오는
+   룩 엔드게임  
+퍼즐과 단계별 난이도 조정 기능을 통해 계산력과 패턴 인식을 꾸준히 쌓을 수 있습니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Elite Chess provides a streamlined chess experience against scalable AI or a local opponent. Improvement hinges on three pillars: (1) Opening principles — rapid development, king safety, and active piece placement; (2) Middlegame tactics — forks, pins, skewers, discovered attacks, deflections; (3) Endgames — king activity, opposition, basic checkmates, and practical rook endings. Puzzles and adjustable levels help build calculation depth and pattern recall.
+1. **오프닝 원칙 지키기**  
+   폰으로 중앙(e4/d4/c4 등)을 점유하고, 나이트를 비숍보다 먼저 전개한 뒤
+   빠르게 캐슬링을 해서 킹을 안전한 곳으로 옮기세요. 룩을 연결해 뒤줄
+   조정을 마무리하는 것도 중요합니다.  
+2. **매 수마다 전술 스캔(CCT)**  
+   수를 두기 전마다 ‘Check(체크), Capture(잡는 수), Threat(위협)’ 세 가지를
+   양쪽 입장에서 모두 확인해 보세요. 강제 수를 먼저 보는 습관이 blunder를 크게
+   줄여 줍니다.  
+3. **폰 구조 관리**  
+   불필요한 고립/중복/후퇴 폰을 만들지 말고, 상대의 약점을 고정시킨 뒤 열린
+   파일을 룩으로 점유하세요.  
+4. **엔드게임 기초 연습**  
+   킹+퀸 vs 킹, 킹+룩 vs 킹 같은 기본 체크메이트와, 킹+폰 엔드게임에서의
+   옵포지션, 루세나·필리도르 같은 대표적인 룩 엔드게임 패턴을 익혀 두면
+   실제 경기에서 승리를 끝까지 밀어붙이기 수월해집니다.  
+5. **시간 관리**  
+   시간 압박이 심할 때는 복잡한 수보다 “괜찮은 자리”의 단순하고 건강한
+   수를 선택해 실수를 줄이세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Openings: Occupy the center (pawns e4/d4/c4), develop knights before bishops, castle early, connect rooks.
-2.  **[KO]** Tactics scan: On every move, run “CCT” — Checks, Captures, Threats; look for forcing moves.
-3.  **[KO]** Pawn structure: Avoid unnecessary weaknesses (isolated/doubled/backward pawns); fix targets, seize open files.
-4.  **[KO]** Endgames: Activate your king, study K+Q vs K, K+R vs K, basic king‑pawn opposition, and Lucena/Philidor rook techniques.
-5.  **[KO]** Time management: When low on time, choose simple, healthy moves over deep complications.
+- 말을 클릭하면 이동 가능한 칸이 하이라이트되며, 목적 칸을 다시 클릭하면
+  수가 실행됩니다.  
+- 옵션 메뉴에서 AI 난이도를 조절하거나, 무승부 제안·기권을 할 수 있습니다.  
 
-### Controls Guide
+### 간단 학습 루틴 예시
 
-- Click a piece to highlight legal moves; click a destination to move.
-- Offer draw/resign; set AI strength in the options.
+- 퍼즐 15분(포크, 핀, 스큐어, 발견 공격 위주)  
+- 최근 대국의 실수 수 10분 복기  
+- 특정 오프닝 하나를 정해 그 오프닝만 사용해 10분 집중 대국  
 
-### Study Plan (Quick)
+### 자주 묻는 질문(FAQ)
 
-- 15 min puzzles (forks/pins/skewers/discovered). 10 min review game blunders. 10 min play a focused game with one opening.
+- **Q: 말 blunder를 줄이려면 어떻게 해야 하나요?**  
+  **A:** 모든 수를 두기 전, 내 킹과 수비가 약한 말이 공격당하는지 확인하고,
+  양쪽 시점에서 CCT(체크·잡는 수·위협)를 돌려 보는 습관을 들이세요.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 초보자는 어떤 오프닝부터 시작하는 게 좋나요?**  
+  **A:** 백은 이탈리안 게임(1.e4 e5 2.Nf3 Nc6 3.Bc4)이나 퀸즈 갬빗(1.d4 d5 2.c4),
+  흑은 1.e4에 카로칸/시칠리안, 1.d4에는 슬라브/퀸즈 갬빗 디클라인드처럼
+  구조가 단순한 오프닝부터 시작하는 것이 좋습니다.  
 
-- Q: How do I stop blundering pieces?
-
-A: Before every move, blunder‑check your king and loose pieces; run CCT for both sides to catch tactics.
-
-- Q: Which openings should I start with?
-
-A: For White try Italian (1.e4 e5 2.Nf3 Nc6 3.Bc4) or Queen’s Gambit (1.d4 d5 2.c4). For Black use Caro‑Kann/Sicilian vs 1.e4 and Slav/Queen’s Gambit Declined vs 1.d4.
-
-- Q: What endgames give fastest rating gain?
-
-A: King‑pawn fundamentals and rook endings; they occur most frequently and convert advantages reliably.
+- **Q: 어떤 엔드게임을 먼저 공부해야 하나요?**  
+  **A:** 가장 자주 나오는 킹+폰 기본 이론과 룩 엔드게임을 우선 추천합니다.
+  승세를 확실하게 이기는 힘이 빠르게 늘어납니다.  
 

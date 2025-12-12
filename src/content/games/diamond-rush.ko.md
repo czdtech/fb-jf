@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: diamond-rush
-title: '[KO] Diamond Rush'
+title: Diamond Rush 다이아몬드 러시
 description: >-
-  [KO] Experience the sparkle of Diamond Rush! A fast-paced match-3 puzzle game
-  where you swap and match dazzling diamonds to clear the board and achieve high
-  scores.
+  반짝이는 다이아몬드를 맞춰 보드를 지우는 빠른 속도의 매치3 퍼즐 게임입니다. 보석을 스왑해 줄을 만들고, 특수 보석을 활용해 높은 점수를
+  노려 보세요.
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/diamond-rush.png
 tags:
@@ -17,32 +16,59 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Diamond Rush는 인접한 다이아몬드를 서로 바꿔 3개 이상 한 줄로 맞추는 고전적인
+매치3 퍼즐 게임입니다. 같은 보석이 사라지면서 점수를 얻고, 연쇄 반응이 일어날수록
+점수와 쾌감이 함께 올라갑니다. 화려한 그래픽과 반짝이는 이펙트, 경쾌한 효과음이
+더해져 짧은 시간에도 손을 멈추기 힘든 중독성을 보여 줍니다. 일부 스테이지는
+시간 제한이나 특정 목표(점수, 장애물 제거 등)를 요구해 더 빠르고 정확한 판단이
+필요합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges your quick thinking and matching skills. The objective is to swap adjacent diamonds to create lines of three or more identical gems, clearing them from the board and earning points. With vibrant graphics, sparkling animations, and engaging sound effects, Diamond Rush offers a classic match-3 experience with a focus on fast-paced gameplay and high scores. Race against the clock or complete specific objectives to progress through exciting levels.
+1. **특수 보석 조합 노리기**  
+   보석 4개 또는 5개를 일직선으로 맞추거나, L/T 모양으로 맞추면 줄 전체를 지우거나
+   폭발을 일으키는 특수 보석이 생성됩니다. 이런 보석은 넓은 범위를 한 번에 정리해
+   고득점을 노릴 때 핵심입니다.  
+2. **스테이지 목표에 집중하기**  
+   어떤 스테이지는 특정 점수에 도달해야 하고, 어떤 곳은 특정 색 보석이나 장애물을
+   우선 제거해야 합니다. 단순히 아무 보석이나 지우기보다는, 목표 달성에 직접
+   연결되는 위치를 우선적으로 없애세요.  
+3. **특수 보석끼리의 연계 사용**  
+   특수 보석 두 개를 서로 맞닿게 만들어 폭발시키면, 혼자 사용할 때보다 훨씬 큰
+   효과를 냅니다. 줄 지우기 + 폭탄 조합 등 다양한 연계를 실험해 보세요.  
+4. **아래쪽부터 정리하기**  
+   보드 하단에서 매치를 만들면 위에서 새로운 보석이 떨어지며 자연스럽게 추가
+   매치가 생길 가능성이 커집니다. 연속 콤보를 노릴 때 특히 유리합니다.  
+5. **시간 제한 스테이지의 시간 관리**  
+   시간이 있는 스테이지에서는 한 수에 너무 오래 고민하지 말고, 눈에 보이는
+   좋은 매치부터 빠르게 처리하세요. 복잡한 연계를 노리기보다 안정적인 매치를
+   우선하는 것이 실패를 줄여 줍니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Look for Special Gem Combinations:** Matching four or five diamonds, or creating L/T shapes, will generate powerful special gems (like line clearers or bombs). These are crucial for clearing large sections of the board and achieving high scores.
-2.  **[KO]** **Prioritize Objectives:** Each level often has specific objectives, such as reaching a certain score, clearing specific types of diamonds, or breaking through obstacles. Focus your moves on achieving these goals efficiently.
-3.  **[KO]** **Combine Special Gems:** The most effective way to clear the board and overcome tough challenges is by combining two special gems. Experiment with different combinations to see their powerful effects.
-4.  **[KO]** **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade effect, where new diamonds fall into place and potentially create new matches automatically. This can be a great way to rack up points and clear the board.
-5.  **[KO]** **Time Management (if applicable):** If the level has a time limit, try to make quick, efficient matches. Don't spend too much time deliberating over a single move.
+* **보석 스왑**: 마우스로 보석을 클릭해 상하좌우 인접한 칸으로 드래그하면 자리가
+  바뀝니다. 3개 이상이 한 줄로 맞춰지는 경우에만 유효한 이동으로 인정됩니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Swap Diamonds:** Use your mouse to click and drag a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
+* **Q: 이 게임의 기본 목표는 무엇인가요?**  
+  **A:** 각 스테이지에서 요구하는 목표(점수, 특정 보석 제거, 장애물 파괴 등)를
+  달성하는 것입니다. 대부분은 보드를 일정 수준 이상 정리하고 목표 점수에 도달하면
+  클리어합니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 파워업이나 특수 다이아는 어떻게 만들 수 있나요?**  
+  **A:** 한 번의 이동으로 동일한 보석을 4개 이상 맞추거나, L/T 모양으로 배치하면
+  줄 지우기, 폭탄, 색상 제거 등 다양한 특수 보석이 생성됩니다.  
 
-*   **[KO]** **Q: What is the goal of Diamond Rush?**
-    *   **[KO]** **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
+* **Q: 모든 스테이지가 시간 제한이 있나요?**  
 
-*   **[KO]** **Q: How do I get power-ups or special diamonds?**
-    *   **[KO]** **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
+    - **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
 
-*   **[KO]** **Q: Is there a time limit in the game?**
-    *   **[KO]** **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
+- **Q: Is there a time limit in the game?**
+
+    - **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
+  **A:** 아닙니다. 많은 스테이지가 시간 제한 또는 이동 횟수 제한 중 하나를
+  사용하며, 일부는 보다 느긋하게 즐길 수 있는 이동 제한형으로 구성되어 있습니다.  
 

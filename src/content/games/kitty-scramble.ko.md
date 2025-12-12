@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: kitty-scramble
-title: '[KO] Kitty Scramble'
+title: "Kitty Scramble 고양이 단어 찾기"
 description: >-
-  [KO] Kitty Scramble is a cozy word‑hunt — swipe across letter grids, find
-  themed words, and clear boards with pattern recognition.
+  글자 격자에서 단어를 찾는 퍼즐 게임 'Kitty Scramble' 가이드입니다.
+  테마별 단어를 스와이프로 찾아내고, 추가 단어로 코인을 모아
+  힌트를 확보해 보세요.
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/kitty-scramble.png
 tags:
@@ -17,35 +18,60 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Kitty Scramble*은 고양이와 함께 테마별 단어를 찾는
+워드 퍼즐 게임입니다. 화면에는 동물, 음식, 장소 등
+특정 주제를 가진 글자 격자가 나타나며, 인접한 글자를
+연결해 단어를 완성하면 보드를 조금씩 비워 나갈 수 있습니다.
 
-### Detailed Game Introduction
+목표 단어 외에도, 추가로 찾아낸 단어는 코인 보상으로
+전환되어 나중에 힌트를 사는 데 사용할 수 있습니다.
 
-Kitty Scramble presents themed letter grids (animals, foods, places). Swipe contiguous letters in any direction to form target words; extra words grant coins. Boards escalate with longer words, diagonal paths, and overlapping targets that require flexible pathing and good vocabulary.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **테마 먼저 떠올리기**  
+   플레이를 시작하기 전에, 해당 스테이지 테마에서 나올 법한
+   단어들을 머릿속으로 미리 떠올려 두면 찾기가 쉬워집니다.
 
-1.  **[KO]** Theme scan: Pre‑list likely words from the theme before swiping.
-2.  **[KO]** Pattern anchors: Look for repeated bigrams/trigrams (TH, ING, EST) to seed paths.
-3.  **[KO]** Overlaps: When a word blocks another, find an alternate route using diagonals.
-4.  **[KO]** Bonus economy: Bank extra words early to save hints for late boards.
-5.  **[KO]** Systematic sweep: Scan rows then columns to avoid misses.
+2. **패턴 단서 활용**  
+   영어 스펠링의 빈도 높은 조합(TH, ING, EST 등)을 눈여겨 보고,
+   해당 글자들에서 단어 경로를 시작해 보세요.
 
-### Controls Guide
+3. **겹치는 단어는 다른 경로로**  
+   어떤 단어를 먼저 완성하면 다른 단어 경로가 막히기도 합니다.
+   이럴 때는 대각선이나 지그재그 경로를 활용해 다른 길을
+   찾아야 합니다.
 
-- Drag across letters to form words; release to submit; use hints sparingly.
+4. **보너스 단어로 힌트 비축**  
+   초반 쉬운 스테이지에서 추가 단어를 많이 찾아 코인을
+   모아 두면, 후반 난이도 높은 보드에서 힌트를 여유롭게
+   쓸 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+5. **체계적으로 훑기**  
+   줄 단위, 열 단위로 순서대로 스캔하면 빠뜨리는 단어를
+   줄일 수 있습니다.
 
-- Q: I see the word but can’t draw it — why?
+### 조작 가이드
 
-A: The letters may not be contiguous; route diagonally or in a zig‑zag where allowed.
+- **단어 입력**: 찾은 단어의 첫 글자에서 시작해, 인접한
+  글자를 끌어가며 드래그하면 단어가 완성됩니다. 손을
+  떼면 제출됩니다.  
+- **힌트 사용**: 힌트 버튼을 누르면 일부 글자나 단어가
+  자동으로 공개됩니다.
 
-- Q: Are plurals allowed?
+### 자주 묻는 질문(FAQ)
 
-A: Usually yes unless excluded by the list.
+- **Q: 단어를 알고 있는데 그릴 수가 없어요.**  
+  **A:** 글자가 서로 인접하지 않아 바로 그릴 수 없는
+  경우입니다. 대각선이나 지그재그 경로를 허용하는지 확인하고,
+  가능한 경로를 찾아 보세요.
 
-- Q: Can I replay for coins?
+- **Q: 복수형 단어도 인정되나요?**  
+  **A:** 대부분 모드에서 복수형도 허용되지만, 목표 리스트에는
+  포함되지 않을 수 있습니다.
 
-A: Yes — farm early boards for extra hints.
+- **Q: 코인은 다시 파밍할 수 있나요?**  
+  **A:** 네, 초기 쉬운 스테이지를 반복 플레이해 추가 단어를
+  찾아 코인을 모을 수 있습니다.
 

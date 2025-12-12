@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: guess-their-answer
-title: '[ES] Guess Their Answer'
+title: "Guess Their Answer"
 description: >-
-  [ES] Guess Their Answer is a quick survey showdown — think like the crowd,
-  list top answers, and outscore opponents with broad coverage.
+  Guess Their Answer es un duelo rápido de “respuestas de encuesta”: piensa
+  como la mayoría, enumera las respuestas más populares y supera a tus rivales
+  cubriendo el máximo de opciones.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
 thumbnail: /new-images/guess-their-answer.png
 tags:
@@ -16,36 +17,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Guess Their Answer funciona como un juego de encuestas tipo "Family Feud".
+Recibes un enunciado (por ejemplo, "Cosas que llevas a la playa") y tienes que
+escribir las respuestas que crees que más gente daría. Los puntos escalan con
+la popularidad: las respuestas muy comunes puntúan mucho, mientras que las
+respuestas ingeniosas pero poco frecuentes apenas suman. La clave no es el
+conocimiento nicho, sino **pensar como la media** de los encuestados.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1. **Empieza por grandes categorías:** Personas, objetos, acciones… y luego
+   expande con sinónimos (por ejemplo, gafas de sol / lentes de sol).
+2. **Cubre el espectro:** Al principio, intenta poner **una respuesta por
+   sub‑tema** en lugar de varios sinónimos del mismo concepto; así cubres más
+   terreno.
+3. **Piensa en demografía:** Imagina respuestas de una familia media: cosas
+   prácticas, cotidianas y fáciles de recordar.
+4. **No te obceques:** Si una línea de respuestas no funciona, cambia rápido a
+   otro sub‑tema en lugar de seguir insistiendo.
+5. **En duelo directo:** Intenta “bloquear” pronto las respuestas evidentes que
+   tu rival también intentaría.
 
-Guess Their Answer plays like a family‑feud style survey game. Given a prompt (“Things you bring to the beach”), you must list common answers. Points scale by popularity; obscure answers score little. The meta is not niche knowledge but modeling average respondents.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Escribe tus respuestas con el teclado y pulsa Enter para enviarlas; el juego
+  las contrasta con su lista de popularidad.
 
-1.  **[ES]** Start with categories: People, objects, actions; then expand synonyms (e.g., sunglasses/shades).
-2.  **[ES]** Cover spectrum: List one answer per sub‑theme rather than synonyms first to maximize early coverage.
-3.  **[ES]** Think demographics: Family answers skew practical and familiar.
-4.  **[ES]** Don’t overfit: If an answer flops, pivot quickly to a different sub‑theme.
-5.  **[ES]** Head‑to‑head: Block likely opponent picks early.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **P: Mis respuestas ingeniosas no puntúan, ¿por qué?**  
+  **R:** El sistema premia las respuestas comunes. Cambia el enfoque hacia
+  objetos, acciones o conceptos muy familiares.
 
-- Type answers and submit; the game checks popularity lists.
+- **P: ¿Acepta faltas de ortografía?**  
+  **R:** Algunas variantes corrigen automáticamente; otras exigen que la
+  ortografía sea correcta o muy aproximada.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My clever answers don’t score — why?
-
-A: Scoring favors common responses. Switch to broadly familiar items/actions.
-
-- Q: Are misspellings accepted?
-
-A: Some variants autocorrect; others require correct spelling or close matches.
-
-- Q: Any hint system?
-
-A: Some modes offer letter hints or reveal the category breadth.
-
+- **P: ¿Hay sistema de pistas?**  
+  **R:** En ciertos modos se ofrecen pistas de letras o indicaciones sobre la
+  amplitud de la categoría.

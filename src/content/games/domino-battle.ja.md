@@ -1,87 +1,41 @@
 ---
+title: "Domino Battle ドミノ・バトル"
+description: "「Domino Battle」は正統派のドミノ対戦ゲーム。戦略的に牌を配置し、相手をブロックして、誰よりも早く手牌を使い切ろう。"
+iframeSrc: "https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/"
+thumbnail: "/new-images/domino-battle.png"
+urlstr: "domino-battle"
+score: "4.5/5  (2700 votes)"
+tags: ["card", "puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: domino-battle
-title: '[JA TRANSLATION NEEDED] Domino Battle'
-description: >-
-  [JA TRANSLATION NEEDED] Challenge an opponent in a classic game of Dominoes.
-  Strategically place your tiles, block your opponent, and be the first to empty
-  your hand to win the battle.
-iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
-thumbnail: /new-images/domino-battle.png
-tags:
-  - card
-  - puzzle
-  - thinky
-score: 4.5/5  (2700 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Domino Battle（ドミノ・バトル）*は、世界中で愛されるテーブルゲーム「ドミノ」のデジタル対戦版です。コンピュータの対戦相手と知恵比べを繰り広げます。
+目的は、自分の手持ちの牌（タイル）を場の牌と目を合わせながら繋げていき、最初の手配を全て出し切ることです。自分の牌を出すだけでなく、相手の動きを予測して妨害（ブロック）することも重要な戦略となります。
 
-[JA TRANSLATION NEEDED] Domino Battle is a digital adaptation of the classic tile-based game, Dominoes. This version pits you against a computer opponent in a strategic battle of wits. The objective is to be the first player to get rid of all your domino tiles by matching them end-to-end with the layout on the board. It requires careful planning, as you must not only play your own tiles but also anticipate and potentially block your opponent's moves.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **基本:** 最大のダブル牌（6-6など）を持つプレイヤーから始まります。場の両端の数字と同じ数字を持つ牌を繋げていきます。
+2.  **スピナー:** 最初のダブル牌は「スピナー」と呼ばれ、十字（4方向）に牌を繋げることができます。これにより戦局が大きく広がります。
+3.  **ドロー（山引き）:** 出せる牌がない時は、出せる牌を引くまで山（ボーンヤード）から引き続けなければなりません。山が空の場合はパスになります。
+4.  **勝利と得点:** 誰かが手配を出し切ったらラウンド終了です。勝者は相手の手配に残った数字の合計を得点として獲得します。
+5.  **ロック:** 誰も牌を出せず、山も空になった場合は「ロック（ブロック）」状態となり、手配の合計数が少ない方が勝利となります。
 
-[JA TRANSLATION NEEDED] 1.  **The Basics:** Each player starts with a hand of dominoes. The player with the highest double-tile typically goes first. On your turn, you must place a tile from your hand so that one of its ends matches the number of pips on an open end of the domino chain.
-[JA TRANSLATION NEEDED] 2.  **Playing Doubles:** Double-tiles (e.g., a 6-6) are often played perpendicularly to the main line, creating a "spinner" with multiple open ends to play off of, which can open up the game significantly.
-[JA TRANSLATION NEEDED] 3.  **Drawing from the Boneyard:** If you do not have a playable tile in your hand, you must draw from the stock pile (the "boneyard") until you pick one that you can play. If the boneyard is empty and you still cannot play, you must pass your turn.
-[JA TRANSLATION NEEDED] 4.  **Winning a Round:** The round ends when one player plays their last domino. That player then scores points equal to the total number of pips on all the dominoes remaining in the opponent's hand.
-[JA TRANSLATION NEEDED] 5.  **Blocking the Game:** If neither player can make a move and the boneyard is empty, the game is "blocked." In this case, the player with the lowest total pip count in their hand wins the round and scores points based on the opponent's hand.
+### 操作ガイド
 
-### Controls Guide
+*   **牌を出す:** 手配から牌をドラッグして、場のハイライトされている有効な場所にドロップします。
+*   **ドロー:** 出せる牌がない場合、裏向きの山をクリックして牌を引きます。
 
-*   **Play a Tile:** Click and drag a domino from your hand to a valid open end on the board.
-    - **A:** To be the first player to play all of your dominoes and empty your hand. The overall game is usually won by being the first to reach a target score over several rounds.（日本語訳が必要）
-    - **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.（日本語訳が必要）
-    - **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.（日本語訳が必要）
-    - **A:** To be the first player to play all of your dominoes and empty your hand. The overall game is usually won by being the first to reach a target score over several rounds.（日本語訳が必要）
-    - **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.（日本語訳が必要）
-    - **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.（日本語訳が必要）
-*   **Draw a Tile:** If you have no valid moves, click on the face-down boneyard pile to draw a new domino.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: どうすれば勝てますか？**
+    *   **A:** 複数のラウンドを行い、先に目標スコア（例: 100点）に到達したプレイヤーがゲーム全体の勝者となります。
 
-*   **Q: What is the main goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** To be the first player to play all of your dominoes and empty your hand. The overall game is usually won by being the first to reach a target score over several rounds.
+*   **Q: パスはどうやるのですか？**
+    *   **A:** 出せる牌がなく、山も空のときに自動的に（または指示に従って）パスになります。
 
-*   **Q: What happens if I can't make a move?**
-[JA TRANSLATION NEEDED]     *   **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.
-
-*   **Q: How can I block my opponent?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
-- **Q: How can I block my opponent?**
-    - **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.
-- **Q: What happens if I can't make a move?**
-    - **A:** To be the first player to play all of your dominoes and empty your hand. The overall game is usually won by being the first to reach a target score over several rounds.
-- **Q: What is the main goal of the game?**
-### よくある質問（FAQ）
-- **Draw a Tile:** If you have no valid moves, click on the face-down boneyard pile to draw a new domino.
-- **Play a Tile:** Click and drag a domino from your hand to a valid open end on the board.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
-- **Q: How can I block my opponent?**
-    - **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.
-- **Q: What happens if I can't make a move?**
-    - **A:** To be the first player to play all of your dominoes and empty your hand. The overall game is usually won by being the first to reach a target score over several rounds.
-- **Q: What is the main goal of the game?**
-
-    - **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
-[JA TRANSLATION NEEDED]     *   **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
-
+*   **Q: ブロックのコツはありますか？**
+    *   **A:** 相手がパスしたりドローしたりした数字を覚えておき、その数字が端に来るように誘導して、相手の手を詰まらせましょう。

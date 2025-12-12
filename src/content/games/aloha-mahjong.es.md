@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: aloha-mahjong
-title: '[ES] Aloha Mahjong'
+title: "Aloha Mahjong mahjong relajante"
 description: >-
-  [ES] Aloha Mahjong is a relaxing tile‑match — find pairs, clear layers, and
-  enjoy island vibes.
+  Aloha Mahjong es un mahjong solitario relajante: encuentra parejas de fichas,
+  despeja capas del tablero y disfruta de un ambiente de isla tropical mientras
+  resuelves cada disposición.
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/aloha-mahjong.jpg
 tags:
@@ -15,27 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Aloha Mahjong ofrece la experiencia clásica de mahjong solitario. Debes
+combinar fichas "libres" para limpiar estructuras apiladas, administrar barajados
+y pistas limitadas y resolver cada tablero sin dejar parejas clave atrapadas.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Aloha Mahjong offers classic mahjong solitaire. Match open tiles to clear stacked layouts, manage limited shuffles/hints, and solve sets without trapping key pairs.
+1.  **Abre la estructura:** Prioriza fichas que, al eliminarlas, liberen el
+    mayor número posible de fichas nuevas.
+2.  **Prioriza símbolos raros:** Si ves fichas de un símbolo poco frecuente,
+    intenta emparejarlas pronto para evitar bloqueos al final.
+3.  **Mira varios movimientos por delante:** Evita retirar fichas que cierren el
+    acceso a parejas más profundas en la pila.
+4.  **Usa los barajados con moderación:** Recurre a ellos solo cuando estés
+    realmente bloqueado.
+5.  **Tiempo vs. precisión:** En modos con tiempo, equilibra la rapidez con
+    decisiones seguras; algunos segundos extra bien usados valen más que un
+    error que arruina el tablero.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Open structures: Free tiles that unlock the most others.
-2.  **[ES]** Pair priorities: Clear rare symbols early to prevent deadlocks.
-3.  **[ES]** Look ahead: Avoid removing tiles that seal deeper pairs.
-4.  **[ES]** Use shuffles sparingly when blocked.
-5.  **[ES]** Time vs. accuracy: In timed modes, balance speed with safe picks.
+- **Seleccionar fichas:** Toca o haz clic en dos fichas iguales que estén
+  "abiertas" para retirarlas.
+- **Pistas/Barajados:** Utiliza los botones de la interfaz si el modo los
+  ofrece.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Select matching open tiles to clear them.
-- Hints/Shuffles via UI if available.
+- **No veo más parejas, ¿qué hago?**  
+  Si el modo lo permite, usa un barajado. Si no, probablemente tengas que
+  reiniciar la disposición.
 
-### Frequently Asked Questions (FAQ)
+- **¿Qué se considera una ficha "abierta"?**  
+  Una ficha que no está cubierta por otra y que tiene al menos un lado libre
+  (izquierdo o derecho).
 
-- No pairs? Use a shuffle if allowed or restart.
-- What is an “open” tile? One free on at least one side and not covered.
-- Multiple layouts? Usually several, with varying difficulty.
+- **¿Hay varios tableros?**  
+  Sí, normalmente se incluyen varias disposiciones con distintos niveles de
+  dificultad.

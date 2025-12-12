@@ -1,91 +1,56 @@
 ---
+title: "Basketball serial shooter バスケットボール・シリアルシューター"
+description: "「Basketball serial shooter」は、連射と技術が融合したバスケ・チャレンジ。リズムを刻み、弧を描き、プレッシャーの中で連続ゴールを決めろ。"
+iframeSrc: "https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/"
+thumbnail: "/new-images/basketball-serial-shooter.jpg"
+urlstr: "basketball-serial-shooter"
+score: "4.3/5  (2141 votes)"
+tags: ["sports", "basketball"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: basketball-serial-shooter
-title: '[JA TRANSLATION NEEDED] Basketball serial shooter'
-description: >-
-  [JA TRANSLATION NEEDED] Basketball serial shooter turns rapid‑fire hoops into
-  skill — set arcs, manage rhythm, and chain swishes under pressure.
-iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
-thumbnail: /new-images/basketball-serial-shooter.jpg
-tags:
-  - sports
-  - basketball
-score: 4.3/5  (2141 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Basketball serial shooter（バスケットボール・シリアルシューター）*は、タイミング、軌道制御、そしてシュート選択に焦点を当てた、ハイスピードなスコアアタック・バスケットボールゲームです。動くゴール、変化する風向き（一部モード）、そして制限時間やボール数というプレッシャーの中で戦います。
 
-### Detailed Game Introduction
+ゲームの核心は、再現性のあるリリース（発射）ポイントを見つけ、ゴールの動きを読み、リングに触れずにスパッと入る「スウィッシュ」を連続させることです。レベルが進むにつれ、障害物や動くバックボード、ゴールの高さの変化などが加わり、よりクリーンで正確なメカニクスが求められます。
 
-[JA TRANSLATION NEEDED] Basketball serial shooter is a fast, score‑attack basketball challenge focused on timing, arc control, and shot selection. You’ll face moving hoops, shifting wind (in some variants), and limited time or balls. The core loop is to settle a repeatable release, read the basket movement, and string swishes without rim‑outs. As you progress, obstacles, moving backboards, and changing hoop heights add variety and demand cleaner mechanics.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **再現性のあるフォームを作る：** 毎回同じリズムで打てるように、カーソルの位置やリリースのタイミングを固定しましょう。
+2.  **力よりも「弧（アーチ）」：** 低い弾道（ライナー）はリングに弾かれやすいです。高い弧を描いて、上から柔らかく落とすシュートを心がけましょう。
+3.  **周期を読む：** ゴールが動いている場合、その動きには一定の周期があります。毎回同じ位置（例えば一番左に来た瞬間）でリリースするようにしましょう。
+4.  **近くから確実に：** いきなり遠くのシュートを狙わず、近くの確実なシュートを決めてコンボ（ストリーク）を積み重ねてから距離を伸ばしましょう。
+5.  **素早いリカバリー：** ミスしても焦らないでください。一瞬だけ間を置いて、狙いとリズムを整えてから次のシュートを打ちましょう。
+6.  **風への対応（ある場合）：** 風があるときは、風上に向けて狙いをずらし、流される分を計算して少し高めに打ち上げます。
+7.  **目標を見極める：** タイムアタックモードでは、コインやサイドターゲットを狙うのはリスクが高いです。ラインが完璧に合っている時以外は無視しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Build a repeatable form: Pick a comfortable cursor position and release rhythm so each attempt feels consistent.
-[JA TRANSLATION NEEDED] 2.  Arc over power: Favor higher arcs that drop softly; flat line‑drives rim out more often.
-[JA TRANSLATION NEEDED] 3.  Read cycles: For moving hoops, identify the motion cycle and shoot at the same phase each time.
-[JA TRANSLATION NEEDED] 4.  Work inside‑out: Take nearer, higher‑percentage shots to establish a streak before attempting long‑range baskets.
-[JA TRANSLATION NEEDED] 5.  Recover quickly: If you miss, pause half a beat to re‑center aim and re‑establish rhythm before the next shot.
-[JA TRANSLATION NEEDED] 6.  Wind adjustment (if present): Offset aim into the wind and add a touch more arc to compensate for drift.
-[JA TRANSLATION NEEDED] 7.  Goal management: In timed modes, ignore risky coins or side targets unless alignment is clean.
+### 操作ガイド
 
-### Controls Guide
+*   **狙いとパワー：** ドラッグして角度と強さを決め、指を離してシュートします。パワーゲージを溜めるタイプの場合もあります。
+*   **ボーナスターゲット：** 通常のシュート軌道上にある時だけ狙いましょう。
+*   **一時停止/リトライ：** 画面上のボタンを使用します。
 
-- Aim and power: Drag to set angle/power and release to shoot; some builds separate power on a hold bar.
-- Special targets: Tap bonus targets only when they line up with your normal arc.
-- Pause/Retry: Use on‑screen controls; some versions allow quick reset.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: なぜシュートがリングに弾かれてばかりなのですか？**
+    
+    **A:** 軌道が低すぎる（フラット）か、力が強すぎます。もっと山なりに投げて、ボールが上からストンと落ちるようにパワーを調整してください。
 
-- Q: Why do my shots keep rimming out?
-  
-[JA TRANSLATION NEEDED]   A: Your arc is too flat or power is too high. Raise the apex and reduce power slightly so the ball drops softly through the rim.
+*   **Q: 動くゴールはどう攻略すればいいですか？**
+    
+    **A:** 動きの1サイクル全体を観察し、決まったフェーズ（例：右端から折り返す瞬間など）で毎回投げるようにすると安定します。
 
-- Q: How do I handle moving hoops?
-  
-[JA TRANSLATION NEEDED]   A: Watch a full motion cycle, pick a consistent phase (e.g., leftmost point), and release at that moment every time.
+*   **Q: 風の影響はありますか？**
+    
+    **A:** 風があるバリエーションでは影響します。流される方向と逆に向けて打ち、いつもより少し山なりにすることを意識して、数発打って感覚を調整してください。
 
-- Q: Does wind matter in this game?
-  
-[JA TRANSLATION NEEDED]   A: In variants with wind, aim slightly into the wind and add arc; practice a few test shots to calibrate drift.
+*   **Q: コンボやマルチプライヤーを稼ぐコツは？**
+    
+    **A:** まずは近距離の安全なシュートでコンボを稼ぎ、リズムが掴めてから徐々に距離を伸ばしていくのが鉄則です。
 
-- Q: Any tip for streaks and multipliers?
-  
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Start with close, safe shots to build a combo, then extend range once your rhythm is locked.
-
-- Q: Should I go for coin shots?
-  
-
-
-
-
-- Q: Why do my shots keep rimming out?
-### よくある質問（FAQ）
-- Pause/Retry: Use on‑screen controls; some versions allow quick reset.
-
-### よくある質問（FAQ）
-- Special targets: Tap bonus targets only when they line up with your normal arc.
-[JA TRANSLATION NEEDED]   A: Only if their path matches your standard arc; otherwise you’ll lose more time and streak than you gain.
-
-
-
-
-
-
-
-
-
-A: Only if their path matches your standard arc; otherwise you’ll lose more time and streak than you gain.
-- Q: Should I go for coin shots?
-A: Start with close, safe shots to build a combo, then extend range once your rhythm is locked.
-- Q: Any tip for streaks and multipliers?
-A: In variants with wind, aim slightly into the wind and add arc; practice a few test shots to calibrate drift.
-- Q: Does wind matter in this game?
-A: Watch a full motion cycle, pick a consistent phase (e.g., leftmost point), and release at that moment every time.
-- Q: How do I handle moving hoops?
-
-
-A: Only if their path matches your standard arc; otherwise you’ll lose more time and streak than you gain.
+*   **Q: コインは狙うべきですか？**
+    
+    **A:** 無理に狙うと時間とコンボを失います。いつものシュート軌道上にコインがある時だけ取るのが賢明です。

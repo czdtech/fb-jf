@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: paper-minecraft
-title: '[KO] Paper Minecraft'
+title: "Paper Minecraft 페이퍼 마인크래프트"
 description: >-
-  [KO] Paper Minecraft is a 2D re-imagining of the popular sandbox game,
-  offering players a side-scrolling world to explore, mine resources, craft
-  items, build structures, and survive against monsters.
+  인기 샌드박스 게임을 2D 횡스크롤 방식으로 재해석한 게임입니다.
+  자원을 채집하고 아이템을 제작해 건물을 짓고, 몬스터를 피해
+  끝까지 생존해 보세요.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/paper-minecraft.jpg
 tags:
@@ -18,35 +18,76 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Paper Minecraft*는 인기 샌드박스 게임 *Minecraft*를 2D 횡스크롤
+형식으로 재구성한 작품입니다. 플레이어는 종이처럼 펼쳐진 옆면
+월드를 탐험하며 나무와 광석을 캐고, 도구와 무기를 제작하고,
+자신만의 집과 기지를 건설해 몬스터들로부터 살아남아야 합니다.
 
-### Game Introduction
+원작의 **채집 → 제작 → 건설 → 생존**이라는 핵심 구조는 그대로
+살리면서, 2D 시점 덕분에 구조를 한눈에 파악하고 보다 직관적인
+플랫폼 액션을 즐길 수 있다는 점이 특징입니다.
 
-"Paper Minecraft" is a 2D re-imagining of the popular sandbox game "Minecraft," offering players a side-scrolling world to explore, mine resources, craft items, build structures, and survive against various monsters. This game retains the core gameplay of the original while providing a unique experience from a 2D perspective.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **기초 자원부터 안정적으로 확보하기**  
+   게임 초반에는 나무를 베어 목재를 모으고, 지표 가까운 곳에서
+   돌과 석탄을 채굴해 기본 도구를 갖추는 것이 최우선입니다.
+   이런 재료들은 건물과 공방, 무기 제작에 모두 쓰입니다.
 
-1.  **[KO]** **Gather Resources**: Chop trees for wood, mine underground for ores, which are fundamental materials for building and crafting.
-2.  **[KO]** **Craft Items**: Use a crafting table and furnace to process collected resources into tools, weapons, blocks, and other useful items.
-3.  **[KO]** **Build Shelter**: Building a safe base is a priority for survival, especially at night to fend off attacks from zombies, skeletons, and other monsters.
-4.  **[KO]** **Explore and Discover**: Explore different biomes, discover hidden caves, treasures, and resource points.
-5.  **[KO]** **Farming and Animal Husbandry**: Grow crops for food, and raise animals to provide meat, leather, and other resources.
+2. **작업대와 용광로로 아이템 제작하기**  
+   모은 자원은 작업대와 용광로를 통해 더 강력한 도구와 무기로
+   가공할 수 있습니다. 예를 들어 돌 곡괭이로는 철을, 철 곡괭이로는
+   더 높은 등급의 광석을 캘 수 있으므로, 장비 업그레이드를
+   꾸준히 이어 가는 것이 중요합니다.
 
-### How to Play
+3. **안전한 거점(집)부터 짓기**  
+   밤에는 좀비나 스켈레톤, 크리퍼 등 몬스터가 나타나 공격합니다.
+   주변을 둘러싼 벽과 문, 충분한 조명을 갖춘 집을 먼저 지어 두면
+   야간에도 비교적 안전하게 시간을 보낼 수 있습니다.
 
-*   **[KO]** **Movement**: Use A/D keys or left/right arrow keys to control horizontal character movement.
-*   **[KO]** **Jump**: Use the W key or up arrow key to jump.
-*   **[KO]** **Break/Collect**: Place the mouse pointer over a block, then click the left mouse button to break and collect it.
-*   **[KO]** **Place Blocks**: Select a block from your inventory, then click the right mouse button to place it.
-*   **[KO]** **Open Inventory/Crafting**: Use the E key to open your inventory, manage items, and craft.
+4. **새로운 지형과 동굴 탐험하기**  
+   숲, 설원, 사막 등 다양한 바이옴을 탐험하며 희귀 자원과 숨겨진
+   동굴, 보물을 찾을 수 있습니다. 단, 너무 깊은 동굴에 들어갈 때는
+   길을 잃지 않도록 횃불로 표시를 남기는 습관을 들이세요.
 
-### Frequently Asked Questions
+5. **농사와 동물 사육으로 장기 생존 준비하기**  
+   씨앗을 뿌려 작물을 재배하면 안정적인 음식 공급원이 되며,
+   돼지·소·닭 같은 동물을 울타리 안에 사육하면 고기와 가죽 등
+   추가 자원을 얻을 수 있습니다.
 
-1.  **[KO]** **Q: What are the main differences between "Paper Minecraft" and the original "Minecraft"?**
-**A**: The main differences are in perspective and dimension. Paper Minecraft is a 2D side-scrolling game, while the original Minecraft is a 3D open-world game, but the core sandbox, building, and survival gameplay are similar.
-2.  **[KO]** **Q: What are the common monsters in the game?**
-**A**: Common monsters include zombies, skeletons, Creepers, etc., which spawn and attack players at night or in dimly lit areas.
-3.  **[KO]** **Q: How do I craft more powerful tools and weapons?**
-**A**: By collecting higher-tier ores (e.g., iron, diamond) and processing them in a crafting table and furnace, you can create more durable and powerful tools and weapons.
-4.  **[KO]** **Q: Does the game have dimensions like "The Nether" or "The End"?**
-**A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.
+### 조작 방법
+
+- **이동**: A/D 키 또는 좌·우 방향키로 좌우 이동을 합니다.  
+- **점프**: W 키 또는 위쪽 방향키로 점프합니다.  
+- **블록 파괴/채집**: 마우스 커서를 원하는 블록 위에 올린 뒤,
+  왼쪽 버튼을 길게 눌러 부수고 아이템으로 획득합니다.  
+- **블록 설치**: 인벤토리에서 원하는 블록을 선택한 후,
+  마우스 오른쪽 버튼으로 월드에 배치합니다.  
+- **인벤토리/제작 창 열기**: E 키를 눌러 인벤토리를 열고,
+  아이템을 정리하거나 제작 레시피에 따라 새 아이템을 만듭니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 원작 Minecraft와 무엇이 가장 다른가요?**  
+   **A:** 가장 큰 차이는 시점과 차원입니다. Paper Minecraft는
+   옆에서 바라보는 2D 횡스크롤 방식이고, 원작은 3D 오픈 월드 게임입니다.
+   다만 자원 채집, 건설, 몬스터와의 생존 같은 핵심 샌드박스 구조는
+   매우 비슷합니다.
+
+2. **Q: 게임에 등장하는 대표적인 몬스터는 무엇인가요?**  
+   **A:** 좀비, 스켈레톤, 크리퍼 등 원작에서 익숙한 몬스터들이
+   밤이나 어두운 동굴 속에 출현해 플레이어를 공격합니다. 조명을
+   설치하거나 안전한 집을 지어 대비해야 합니다.
+
+3. **Q: 더 강력한 도구와 무기는 어떻게 만들 수 있나요?**  
+   **A:** 철, 다이아몬드 같은 상위 등급 광석을 채굴해 작업대와
+   용광로에서 가공하면 내구도와 공격력이 높은 도구·무기를
+   제작할 수 있습니다. 장비 등급이 올라갈수록 더 깊은 곳의 자원까지
+   안전하게 캐낼 수 있습니다.
+
+4. **Q: 네더나 엔드 같은 차원도 있나요?**  
+   **A:** 2D로 재해석된 버전이기 때문에 원작의 모든 차원이 그대로
+   구현되어 있지는 않은 경우가 많습니다. 다만 일부 버전에서는
+   간단히 변형된 전용 지역이나 던전이 추가로 포함될 수 있습니다.

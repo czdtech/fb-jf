@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: pocket-champions
-title: '[ZH TRANSLATION NEEDED] Pocket Champs: 3D Racing'
+title: '《Pocket Champs: 3D Racing》口袋冠军 3D 竞速'
 description: >-
-  [ZH TRANSLATION NEEDED] Train your Champ, pick the right gadgets, and watch
-  them race to victory! An idle racing game where strategy and preparation are
-  key to becoming a Pocket Champ.
+  《Pocket Champs: 3D
+  Racing》是一款放置+策略类多人竞速游戏，你不直接操控比赛，而是负责训练小冠军、选择合适装备，让它在自动奔跑中赢下终点线。
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/pocket-champions.png
 tags:
@@ -17,32 +16,36 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Pocket Champs is an idle multiplayer racing game where you don't directly control the race, but you control everything that leads to victory. Your role is to train your "Champ" in various disciplines like running, flying, and climbing. Before each race, you must strategically equip your Champ with the right gadgets for the course. Once the race begins, you watch as your preparation pays off and your Champ competes automatically to bring home the win.
+《Pocket Champs》是一款偏休闲向的放置竞速游戏，它把“操作”阶段简化成自动跑步，把真正的博弈时间放在赛前准备上。你要做的不是在赛道上摇杆操作，而是在赛前持续训练自己的小冠军（Champ），提升它在跑步、飞行、攀爬、游泳等多个维度的基础能力；同时根据每一条赛道的障碍构成，给它配备最合适的装备，让它在比赛开始后自动发挥出最大潜力。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Train, Train, Train:** The foundation of your success is training. Keep your Champ training at all times to level up their running, flying, climbing, and swimming skills. This is an idle game, so training continues even when you are offline.
-2.  [ZH TRANSLATION NEEDED] **Match Gadgets to the Race:** Before a race begins, you will see a preview of the track. Pay close attention to the obstacles. If you see a lot of water, equip the flippers. If there's a big climbing wall, equip the climbing picks. Choosing the right gadget for the right obstacle is the most important strategic decision you make.
-3.  [ZH TRANSLATION NEEDED] **Watch and Learn:** Although the races are automatic, watch them to see where your Champ is struggling. Are they slow on the running sections? Are they losing time on the climbs? This will tell you what skills you need to focus on training next.
-4.  [ZH TRANSLATION NEEDED] **Collect Your Rewards:** Winning races earns you chests and currency. Be sure to open these to get new gadgets and the resources needed to upgrade your Champ and existing gear.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **长期坚持训练：** 成绩的地基是数值。确保你的 Champ 几乎一直处于训练状态，优先升级常见赛道上出现频率最高的技能，例如跑步和跳跃，再根据地图增加飞行、攀爬或游泳训练。放置机制意味着即使你离线，训练进度仍会持续。
+2.  **赛前选对装备：** 每场比赛开始前都会给出赛道预览，认真观察其中出现的水面、攀爬墙、坡道等元素：  
+- 水面多 → 带上脚蹼或快艇类装备；  
+- 高墙多 → 优先选择攀爬镐或抓钩；  
+    *   大量跳跃段 → 适合选择助跑鞋或弹跳类装备。  
+    装备与赛道匹配程度，往往比单纯数值堆叠更关键。
+3.  **通过观看比赛复盘：** 虽然比赛过程是自动的，但建议亲眼看几场：观察你的 Champ 在哪种路段明显被对手甩开，回头就针对那一环节加练对应能力或更换装备。
+4.  **善用宝箱与奖励货币：** 获胜或参与比赛可以获得宝箱与金币，用于解锁新装备或升级现有装备。优先提升使用频率最高、收益最直接的装备，而不是平均摊薄资源。
 
-[ZH TRANSLATION NEEDED] The game is played through a series of menus.
+### 操作说明
 
-*   **Training:** Click on the training section and select the skill you want your Champ to work on.
-*   **Gadget Selection:** Before a race, click on the gadget slots to choose which items your Champ will use.
-*   **Start Race:** Click the "Race" button to enter a competition.
 
-### Frequently Asked Questions (FAQ)
+The game is played through a series of menus.
+*   **训练：** 在训练界面中选择你想要提升的能力（如跑步、攀爬等），点击开始后 Champ 会自动训练。  
+*   **装备选择：** 每场比赛前，在装备槽中点击选择适合这条赛道的道具，例如飞行器、脚蹼等。  
+*   **开始比赛：** 点击“Race”或类似按钮进入匹配，随后只需观战即可。
 
-*   **Q: How do I control my character during the race?**
-     *   **A:** You don't! The race is fully automatic. Your job is to prepare your Champ *before* the race through training and gadget selection.
+### 常见问题（FAQ）
 
-*   **Q: How do I win more races?**
-     *   **A:** By having better stats and strategy than your opponents. Make sure your Champ's training levels are high and that you are choosing the correct gadgets that counter the obstacles in the upcoming race.
+*   **问：比赛中能不能手动控制角色？**
+    *   **答：** 不能。比赛阶段完全自动进行，你的主要决策都发生在赛前的训练与装备选择上。
 
-*   **Q: What is the best gadget?**
-     *   **A:** There is no single "best" gadget. The best one is always the one that matches the next major obstacle on the track. A speedboat is useless on a running track, but essential on a water track.
+*   **问：怎样提高胜率？**
+    *   **答：** 一方面要保持各项能力持续训练、提升基础数值；另一方面要认真阅读赛道构成，针对性选好装备，避免在水面、攀爬等关键节点吃亏。
 
+*   **问：有没有“最强装备”？**
+    *   **答：** 没有绝对最强，只有最适合当局赛道的装备。再强的游泳装备在全陆地赛道上也帮不上忙，关键是看当前赛道主要考验哪种能力。

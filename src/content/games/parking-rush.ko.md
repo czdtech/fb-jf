@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: parking-rush
-title: '[KO] Parking Rush'
+title: Parking Rush 파킹 러시
 description: >-
-  [KO] A fun and challenging puzzle game of traffic control! Draw a path for
-  each car to its matching parking spot, but be careful not to let them crash
-  into each other.
+  Parking Rush는 혼잡한 주차장을 정리하는 라인 드로잉 퍼즐 게임으로, 각 자동차에 맞는 색상의 주차 칸까지 길을 그려 주되 서로
+  부딪히지 않도록 동선과 타이밍을 조절해야 합니다.
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/parking-rush.png
 tags:
@@ -20,31 +19,47 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Parking Rush is a clever and addictive line-drawing puzzle game that puts you in control of a chaotic parking lot. Your job is to play the role of a parking attendant and guide each car to its designated, color-matched parking space. The challenge is to draw paths for all the cars without them crashing into each other. As the levels progress, the number of cars and obstacles increases, requiring careful planning and timing to succeed.
+*Parking Rush*는 색깔로 구분된 주차 칸에 대응되는 자동차들을, 서로 부딪히지 않도록 유도하는
+라인 드로잉 퍼즐 게임입니다. 주차장 전경을 한눈에 살펴본 뒤 각 차량에게 이동 경로를
+그려 주면, 손을 떼는 순간 자동차들이 그 길을 따라 움직입니다. 레벨이 올라갈수록 차량
+수와 장애물이 늘어나, 이동 경로뿐 아니라 출발 타이밍까지 신경 써야 합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** **Plan Your Routes:** Before you draw a single line, take a look at the entire layout. Identify which cars have the shortest or most direct paths and which ones might need to take a longer route to avoid a collision.
-2.  **[KO]** **Control the Timing:** The key to this game is timing. You don't have to send all cars at once. You can draw a long, winding path for one car to deliberately delay it, giving another car time to pass through a busy intersection first.
-3.  **[KO]** **One Car at a Time:** For complex levels, it's often best to draw a path for one car, let it park, and then move on to the next one. This reduces the number of moving vehicles you have to worry about at any given moment.
-4.  **[KO]** **Use Open Space:** Don't be afraid to draw paths that loop around the edges or through empty parts of the parking lot. A longer path is better than a crash!
+1. **경로 미리 설계:** 선을 그리기 전에 전체 구조를 살펴보고, 가장 짧은 길을 갈 차량과
+   일부러 돌아가야 할 차량을 먼저 구분하세요.
+2. **타이밍 조절:** 모든 차를 동시에 출발시킬 필요는 없습니다. 일부 차량은 동선을 길게
+   그려 의도적으로 늦게 도착하게 만들고, 다른 차량이 먼저 교차로를 지나가게 하는 식으로
+   충돌을 피할 수 있습니다.
+3. **한 대씩 처리하기:** 복잡한 스테이지에서는 한 번에 여러 대를 움직이기보다, 한 대씩
+   안전하게 주차시킨 뒤 다음 차량을 처리하는 방식이 안정적입니다.
+4. **빈 공간 적극 활용:** 주차장 모서리나 넓은 공간을 크게 돌도록 경로를 그려, 교차 지점에
+   동시에 차량이 모이지 않도록 분산시키세요.
 
-### Controls Guide
+### 조작 방법
 
-The game is played with a simple line-drawing mechanic.
+- 자동차를 클릭/터치한 뒤, 같은 색 주차 칸까지 마우스나 손가락으로 선을 그으면 해당
+  경로가 설정됩니다. 손을 떼면 자동차가 움직이기 시작합니다.
 
-*   **[KO]** **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
 
-### Frequently Asked Questions (FAQ)
+- **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What happens if two cars crash?**
-    *   **[KO]** **A:** You will fail the level and have to restart it from the beginning.
+- **Q: 두 차량이 부딪히면 어떻게 되나요?**  
+  **A:** 충돌이 발생하면 해당 레벨은 실패 처리되며, 처음부터 다시 시도해야 합니다.
 
-*   **[KO]** **Q: How do I stop cars from crashing when their paths cross?**
-    *   **[KO]** **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
+    - **Q: 경로가 교차하는 구간에서 충돌을 막으려면?**  
+  **A:** 한 차량의 경로를 길게 만들어 도착 시간을 늦추거나, 먼저 한 차량을 주차시킨 뒤
+  다음 차량의 경로를 나중에 그리는 방식으로 타이밍을 분리하세요.
 
-*   **[KO]** **Q: Do I have to park all the cars?**
-    *   **[KO]** **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+- **Q: 모든 차를 주차시키지 않아도 되나요?**  
 
+    - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+
+- **Q: Do I have to park all the cars?**
+
+    - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
+  **A:** 아닙니다. 각 레벨의 모든 차량을 자신의 색에 맞는 주차 칸으로 안전하게 안내해야만
+  스테이지를 클리어할 수 있습니다.

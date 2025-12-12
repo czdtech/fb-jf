@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: crazy-caves
-title: '[ES] Crazy Caves'
+title: "Crazy Caves"
 description: >-
-  [ES] Enter the Crazy Caves and test your reflexes! Dodge an endless barrage of
-  falling rocks while throwing pickaxes to smash them for valuable gems and
-  gold. Upgrade your gear to survive longer and score higher.
+  Adéntrate en Crazy Caves y pon a prueba tus reflejos. Esquiva una lluvia
+  constante de rocas mientras lanzas picos para romperlas y conseguir gemas y
+  oro. Mejora tu equipo para sobrevivir más tiempo y batir tus récords.
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/crazy-caves.jpg
@@ -18,32 +18,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Crazy Caves es un arcade de ritmo rápido que pone a prueba tus reflejos y tu
+instinto de supervivencia. Controlas a un minero en una vagoneta en el fondo de
+una cueva peligrosa donde caen rocas de todos los tamaños sin parar. Tu misión
+es doble: esquivar la lluvia de escombros para seguir con vida y, al mismo
+  tiempo, lanzar picos para romper las rocas y recoger las gemas y el oro que
+  sueltan. Con las ganancias podrás mejorar tu equipo y ver hasta dónde eres
+  capaz de aguantar en estas cavernas caóticas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Crazy Caves is a fast-paced, action-packed arcade game that tests your reflexes and survival skills. You control a miner in a cart at the bottom of a dangerous cave where rocks of all sizes are constantly falling. Your mission is twofold: dodge the falling debris to survive, and simultaneously throw pickaxes to smash the rocks, collecting the valuable gems and gold that fall out. Use your earnings to upgrade your equipment and see how long you can last in the chaotic caverns.
+1.  **Sobrevivir primero:** Tu prioridad absoluta es no recibir impactos. Muévete
+    sin parar y vigila la trayectoria de todas las rocas. Un solo golpe basta
+    para terminar la partida.
+2.  **Prioriza amenazas:** Algunas rocas son más grandes y caen más rápido, por
+    lo que suponen un peligro mayor. Céntrate en lanzarles picos a las más
+    peligrosas antes que al resto.
+3.  **Minería eficiente:** Intenta colocarte de forma que, al romper una roca,
+    sigas en una posición segura para seguir atacando otras. No te arrincones por
+    intentar destruir solo un gran bloque.
+4.  **Mejora con cabeza:** Tras cada partida, invierte el oro y las gemas con
+    criterio. Mejorar el daño del pico te permite destruir rocas más rápido, lo
+    que es vital para sobrevivir. Aumentar tus ingresos por roca crea un bucle
+    positivo para futuras mejoras.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Survival First:** Your absolute top priority is to not get hit. Always be moving and keep an eye on the trajectory of all falling rocks. It only takes one hit to end your run.
-2.  **[ES]** **Prioritize Threats:** Some rocks are larger and fall faster, posing a greater threat. Focus your pickaxe throws on the most immediate dangers first.
-3.  **[ES]** **Efficient Mining:** Try to position yourself so that when you destroy a rock, you are in a safe place to continue attacking others. Don't get cornered while trying to break a single large boulder.
-4.  **[ES]** **Upgrade Smartly:** After each run, invest your collected gold and gems wisely. Upgrading your pickaxe damage allows you to destroy rocks faster, which is crucial for survival. Upgrading your income helps you earn more for future upgrades, creating a powerful feedback loop.
+*   **Moverse:** Usa el ratón o el dedo para arrastrar la vagoneta de izquierda
+    a derecha por la parte inferior de la pantalla.
+*   **Lanzar picos:** Haz clic con el botón izquierdo o toca la pantalla para
+    lanzar un pico hacia arriba.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Move:** Use your mouse or finger to drag your mining cart left and right along the bottom of the screen.
-*   **[ES]** **Throw Pickaxe:** Click the left mouse button or tap anywhere on the screen to throw a pickaxe upwards.
+*   **P: ¿Qué ocurre si una roca me golpea?**
+    *   **R:** La partida termina al instante y tendrás que empezar una nueva
+        ronda desde cero.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué debería mejorar primero?**
+    *   **R:** Una buena estrategia inicial es subir el daño del pico. Así podrás
+        eliminar las rocas peligrosas con menos golpes y alargar tus partidas. A
+        continuación, invertir en mejoras de ingresos es una excelente opción.
 
-*   **[ES]** **Q: What happens if a rock hits me?**
-    *   **[ES]** **A:** The game is over instantly. You will need to start a new run from the beginning.
-
-*   **[ES]** **Q: What should I focus on upgrading first?**
-    *   **[ES]** **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
-
-*   **[ES]** **Q: How do I deal with the really big boulders?**
-    *   **[ES]** **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
-
+*   **P: ¿Cómo gestiono los bloques gigantes?**
+    *   **R:** Las rocas grandes necesitan varios impactos. Lanza varios picos
+        seguidos mientras sigues esquivando el resto de escombros y procura
+        empezar a dañarlas cuando aún estén lejos de tu posición.

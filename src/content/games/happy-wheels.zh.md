@@ -1,12 +1,8 @@
 ---
 locale: zh
 urlstr: happy-wheels
-title: '[ZH TRANSLATION NEEDED] Happy Wheels'
-description: >-
-  [ZH TRANSLATION NEEDED] A detailed guide to the notoriously graphic and
-  humorous physics-based game, Happy Wheels. Learn gameplay strategies,
-  controls, and answers to common questions for surviving its deadly
-  user-created levels.
+title: "《Happy Wheels》血腥物理闯关"
+description: "《Happy Wheels》是一款以夸张血腥和黑色幽默著称的物理闯关游戏。通过不同角色和载具，在各式玩家自制的关卡中想办法“活着”冲到终点。"
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
 thumbnail: /new-images/happy-wheels.jpg
 tags:
@@ -19,55 +15,60 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **游戏简介**
 
-[ZH TRANSLATION NEEDED] Happy Wheels is a physics-based, side-scrolling platformer game known for its graphic violence and dark humor. The gameplay does not focus on simply winning, but on survival. Players control a variety of unconventional characters, each with a unique and often comically unsafe vehicle, such as a dad on a bicycle with his son, a man in a jet-powered wheelchair, or a person on a Segway.
+《Happy Wheels》是一款侧视视角的物理闯关平台游戏，以夸张的暴力表现和黑色幽默著称。游戏的重点并不只是“赢”，而是如何在充满机关和陷阱的关卡中尽可能活下去。你将操控各种非常“不安全”的角色与座驾组合，比如骑单车带着儿子的爸爸、坐在喷气轮椅上的老头，或者骑着平衡车（Segway）的上班族等。
 
-[ZH TRANSLATION NEEDED] The primary objective in most levels is to navigate a treacherous obstacle course and reach a finish line. The challenge lies in the game's brutal and realistic physics engine. Characters can be dismembered, crushed, and impaled in countless gruesome ways, yet can often continue towards the goal as long as their core body is intact.
+大部分关卡的主要目标，是在保证主角还能动的前提下，从起点一路穿越各种危险障碍，最终抵达终点线。由于采用了相当写实又夸张的物理系统，角色可能被压扁、被刺穿、身体被分成好几截，但只要躯干还活着，就有机会继续向终点挪动。
 
-[ZH TRANSLATION NEEDED] A defining feature of Happy Wheels is its extensive user-generated content. The game includes a powerful level editor, allowing players to create and share their own complex, creative, and often sadistic courses. This results in a virtually endless supply of levels, ranging from simple races to elaborate puzzle-solving adventures and impossible-to-survive death traps.
+《Happy Wheels》的一大亮点，是其强大的玩家自制关卡系统。游戏内置了功能丰富的关卡编辑器，允许玩家自由搭建、分享自己设计的机关地形——从简单的竞速赛道，到复杂的解谜机关，再到几乎不可能活着通过的死亡陷阱，内容几乎无穷无尽。
 
-### **Gameplay Strategy & Tips**
+### **玩法策略与技巧**
 
-1.  **Control Your Speed**: Speed is not always your friend. Going too fast often leads to losing control and crashing into an obstacle. Learn to gently accelerate and decelerate to navigate tight spaces and unpredictable terrain.
-2.  **Master Your Character**: Each character controls differently and has unique special abilities.
-     *   **Wheelchair Guy**: His jet booster provides a powerful burst of speed, useful for clearing large gaps, but it's hard to control. Use it in short bursts.
-     *   **Segway Guy**: Can jump, making him more agile for platforming challenges. His upright stance, however, makes him very unstable.
-     *   **Irresponsible Dad**: Can brake hard. His son adds extra weight and can be detached, sometimes serving as a morbid counterweight or shield.
-3.  **Lean for Balance**: Leaning your character forward and backward (using the up and down arrow keys) is crucial for maintaining balance. Lean back when going up steep hills to prevent flipping over, and lean forward when going down to maintain speed and control.
-4.  **Survival Over Perfection**: You don't need to finish a level in pristine condition. You can win a level even if your character has lost both legs and an arm. The goal is to get the character's torso to the finish line. Sometimes, sacrificing a limb to an obstacle is a viable strategy.
-5.  **Learn to Eject**: The 'Z' key allows most characters to eject from their vehicle. This is a last-ditch move that can be used to fling your character's body across a gap to the finish line when the vehicle is destroyed or stuck.
-6.  **Explore Different Level Types**: Don't just play the featured levels. Use the level browser to find different kinds of challenges. Search for terms like "puzzle," "rope swing," or "BMX" to find unique and creative maps made by the community.
+1.  **掌控速度，而不是一味加速**：高速并不总是好事，过快的速度会让你在遇到尖刺、陷阱或落差时完全来不及反应。学会点按加速、适时刹车，用稳定节奏通过复杂地形。
+2.  **熟悉每个角色的特性**：不同角色的操作手感与特殊能力差异很大。  
+    *   **Wheelchair Guy（轮椅老头）**：喷气推进器可以提供强力加速，适合飞越大坑，但极难控制，建议短按分段使用。  
+    *   **Segway Guy（平衡车男）**：可以跳跃，在需要精细平台跳跃的关卡中非常好用，但重心高、容易失衡。  
+    *   **Irresponsible Dad（不负责任的老爸）**：制动能力强，但后座的儿子会增加重量，有时甚至会被当作“肉盾”或配重来利用。  
+3.  **善用前后倾斜保持平衡**：利用方向键向前/向后倾斜角色，是维持平衡的核心。上坡时适当后仰可以防止翻车，下坡时略微前倾能更平稳地衔接落差并保持速度。
+4.  **生存比体面更重要**：你不需要以完美状态抵达终点——就算角色失去双腿甚至一条手臂，只要躯干还能动，就有机会赢下关卡。有时为了通过某个机关，牺牲一部分身体反而是可行的策略。
+5.  **学会“抛尸”冲线**：大部分角色可以用 `Z` 键从载具上弹出，在车辆报废或被卡住时，你可以把角色的身体直接甩向终点，有时只差那一点点距离就能完成通关。
+6.  **多尝试不同类型关卡**：不要只局限于内置精选关卡。通过关卡浏览器，你可以搜索 “puzzle（解谜）”“rope swing（绳索荡秋千）”“BMX” 等关键词，体验社区玩家设计的各种脑洞地图。
 
-### **Controls Guide**
+### **操作说明**
 
-[ZH TRANSLATION NEEDED] The controls are relatively standard but have specific functions for each character.
+整体操作较为直观，但各角色在细节上会有不同按键功能。
 
-[ZH TRANSLATION NEEDED] **Primary Controls:**
-*   **Accelerate**: `Up Arrow` key
-*   **Decelerate / Reverse**: `Down Arrow` key
-*   **Lean Left / Backward**: `Left Arrow` key
-*   **Lean Right / Forward**: `Right Arrow` key
+**基础移动控制：**  
+*   **加速前进**：`↑` 上方向键  
+*   **减速 / 倒退**：`↓` 下方向键  
+*   **向左/后倾斜**：`←` 左方向键  
+*   **向右/前倾斜**：`→` 右方向键  
 
-[ZH TRANSLATION NEEDED] **Action Keys:**
-*   **Primary Special Ability**: `Space Bar` (e.g., Wheelchair Guy's jet, Segway Guy's jump)
-*   **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
-*   **Eject**: `Z` key (abandons the vehicle)
+**动作与技能按键：**  
+*   **主要技能**：`Space`（空格键），例如轮椅老头的喷气加速、平衡车男的跳跃等。  
+*   **次要技能**：`Shift` 和 `Ctrl` 键，用来在某些角色上移动腿部或手臂，尤其是在弹出载具后控制身体姿势时很好用。  
+*   **弹出载具（Eject）**：`Z` 键，直接从当前载具上跳出。  
 
-### **Frequently Asked Questions (FAQ)**
+### **常见问题（FAQ）**
 
-[ZH TRANSLATION NEEDED] **1. Why is this game so graphic and violent?**
-[ZH TRANSLATION NEEDED] The over-the-top, graphic violence is a core part of the game's identity and its black humor. It's a defining feature of its physics-based ragdoll system, designed to be shocking and absurdly funny.
+**1. 为什么这款游戏会做得这么血腥？**  
+夸张且写实的肢解效果是《Happy Wheels》标志性的黑色幽默之一。它充分利用了基于物理的布偶系统，让角色在各种机关下以极度夸张、甚至有点滑稽的方式损坏身体，这是游戏风格中刻意为之的一部分。  
 
-[ZH TRANSLATION NEEDED] **2. Can I still win if my character is badly injured?**
-[ZH TRANSLATION NEEDED] Yes. The win condition for most levels is for the main character's torso to cross the finish line. You can win even after losing all limbs.
+**2. 角色严重受伤还能通关吗？**  
+可以。大多数关卡只要求“主角躯干”抵达终点线即可判定胜利，手脚甚至头盔都不是必须的。也就是说，即便你已经断手断脚，只要身体还能挪动到终点，就算成功通关。  
 
-[ZH TRANSLATION NEEDED] **3. How do I find good or fun levels to play?**
-[ZH TRANSLATION NEEDED] Use the in-game level browser. You can play the "Featured Levels," which are curated by the community, or browse the most played levels. You can also use the search function to look for specific types of levels or creators.
+**3. 如何找到好玩、有创意的关卡？**  
+你可以使用游戏内的关卡浏览器：  
+*   先尝试官方精选的 Featured Levels；  
+*   也可以按“最多游玩”“评分最高”等排序浏览；  
+*   利用搜索功能查找特定类型的地图或知名作者的作品。  
 
-[ZH TRANSLATION NEEDED] **4. Some characters or levels are not available. How do I unlock them?**
-[ZH TRANSLATION NEEDED] In the free web version of the game, many characters and the level editor are often locked or limited. The full version of the game typically provides access to all characters and features.
+**4. 有些角色或关卡看起来没法玩，是锁住了吗？**  
+在很多网页版本中，部分角色或关卡编辑器功能可能被锁定或做了精简。完整版通常会开放全部角色和编辑功能，而免费 Web 版会有所取舍，这属于版本差异而非 BUG。  
 
-[ZH TRANSLATION NEEDED] **5. The game is running very slowly or lagging. What can I do?**
-[ZH TRANSLATION NEEDED] Happy Wheels can be demanding on your computer, especially on very large or complex user-created levels with many objects. Try closing other browser tabs and applications to free up resources. Playing on a more powerful computer or using a different web browser can also help.
-
+**5. 游戏很卡或者明显掉帧怎么办？**  
+《Happy Wheels》在包含大量机关、物体的玩家自制关卡上，的确可能对设备性能要求较高。你可以尝试：  
+*   关闭其它浏览器标签页或后台应用，释放内存和 CPU；  
+*   更换性能稍强的设备或使用更高效的浏览器；  
+*   优先游玩物体数量较少、结构更简单的关卡，以获得更稳定的帧率。  

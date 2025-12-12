@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: basketball-master-2
-title: '[DE] Basketball Master 2'
+title: "Basketball Master 2"
 description: >-
-  [DE] Show off your basketball skills in Basketball Master 2. Aim, shoot, and
-  score in this fun and challenging basketball game.
+  Zeig dein Wurftalent in Basketball Master 2. Ziele präzise, passe die
+  Schusskraft an und triff den Korb – notfalls sogar durch Holz‑ und Eisblöcke
+  hindurch.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/basketball-master-2.png
 tags:
@@ -16,27 +17,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Basketball Master 2 ist ein Geschicklichkeits‑Basketballspiel, das sich ganz
+aufs Werfen konzentriert. Mit einfachen Zieh‑Gesten bestimmst du Richtung und
+Kraft deines Schusses und versuchst, den Ball trotz Hindernissen im Korb zu
+versenken. Je nach Level musst du über oder durch Holz‑ und Eisblöcke
+hindurchwerfen, Banden nutzen oder enge Winkel treffen.
 
+### Strategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Zielen und Gefühl entwickeln:** Ziehe Linie und Kraft immer ähnlich auf,
+    um ein konstanteres Wurfgefühl zu bekommen. Kleine Anpassungen sind leichter
+    zu kontrollieren als jedes Mal komplett neue Winkel.
+2.  **Hindernisse nutzen oder brechen:** Holz‑ und Eisblöcke lassen sich mit
+    kräftigen Würfen zerstören. Manchmal ist es aber besser, sie als Bande zu
+    benutzen und den Ball abprallen zu lassen, statt sie direkt zu zerschießen.
+3.  **Winkel zuerst testen:** Wenn du dir unsicher bist, probiere mit etwas
+    geringerer Stärke, ob die Richtung passt. Hast du den richtigen Winkel
+    gefunden, kannst du die Power leicht erhöhen.
+4.  **Auf Physik achten:** Der Ball folgt einer Bogenbahn – höhere Bögen
+    helfen, über Hindernisse zu kommen, flache Würfe eignen sich eher für
+    Banden‑Schüsse.
+5.  **Üben, üben, üben:** Viele Level wiederholen ähnliche Situationen. Je
+    besser du das physikalische Verhalten verinnerlichst, desto einfacher werden
+    spätere Stages.
 
-Basketball Master 2 is a sports game focused on training basketball shooting skills. The core gameplay involves tapping and dragging to aim your shot to get the ball into the basket. You can even break through wood and ice blocks by shooting the ball with more power.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Maus/Touch:** Tippe oder klicke auf den Ball, ziehe in die Gegenrichtung
+  deines gewünschten Schusses, justiere den Bogen und lasse los, um zu werfen.
 
-1.  **[DE]** **Aim and Shoot:** Tap and drag to control the aim and power of your shots.
-2.  **[DE]** **Break Obstacles:** Use more power to break through wood and ice blocks that may be in your way.
-3.  **[DE]** **Practice:** The key to mastering the game is to practice your shots and get a feel for the physics of the game.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   **F: Wie bekomme ich mehr Punkte?**
+    *   **A:** Saubere Treffer in Folge, besonders ohne den Ring zu berühren, bringen oft Bonuspunkte. Das Zerstören von Hindernissen kann in manchen Leveln zusätzliche Punkte geben.
 
-*   **[DE]** **Mouse/Touch:** Tap and drag to aim and shoot the ball.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: How do I get more points?**
-    *   **[DE]** **A:** Making consecutive shots and breaking obstacles can award you with more points.
-*   **[DE]** **Q: What is the best way to shoot?**
-    *   **[DE]** **A:** The best way to shoot depends on the level. Sometimes you need a high arc to get over obstacles, and other times you need a powerful shot to break through them.
-
+*   **F: Was ist die beste Wurftechnik?**
+    *   **A:** Das hängt vom Level ab. Hohe Bögen eignen sich, um über Blöcke zu kommen, kräftige, flachere Schüsse sind besser, um Holz oder Eis gezielt zu zerschlagen.

@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: yummy-taco
-title: '[KO] Yummy Taco'
+title: Yummy Taco 야미 타코
 description: >-
-  [KO] Get ready to cook up some delicious tacos in Yummy Taco, a fun and
-  fast-paced cooking simulation game! Take customer orders, select fresh
-  ingredients, and assemble mouth-watering tacos. Serve quickly to earn money
-  and upgrade your kitchen in this addictive culinary challenge.
+  분주한 타코 가게의 셰프가 되어 손님에게 맛있는 타코를 만들어 주는 요리 시뮬레이션 게임입니다. 주문을 빠르게 확인하고 신선한 재료를 골라
+  조합해, 시간 안에 정확한 타코를 완성해 보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/yummy-taco.jpg
@@ -19,35 +17,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+Yummy Taco는 빠르게 몰려오는 손님들을 상대로 주문에 맞는 타코를 만들어 내는 속도감 있는 요리
+시뮬레이션 게임입니다. 플레이어는 타코 전문점의 셰프로서, 또르띠야 위에 고기, 채소, 소스 등을
+정확한 순서와 조합으로 올려 손님의 요구를 맞춰야 합니다. 주문이 밀리기 시작하면 시간 관리와
+멀티태스킹이 중요한 도전 과제가 됩니다.
 
+### 게임 플레이 가이드
 
-Yummy Taco is a delightful and fast-paced cooking simulation game where you step into the role of a taco chef. Your mission is to prepare delicious tacos for a stream of hungry customers, managing ingredients, assembly, and serving with speed and accuracy. The game challenges your time management skills and ability to keep up with demand.
+- **주문 확인하기**: 손님 머리 위 말풍선을 통해 어떤 재료가 들어간 타코를 원하는지 확인합니다.
+- **재료 선택하기**: 또르띠야, 고기, 치즈, 채소, 소스 등 준비된 재료를 클릭 또는 드래그해
+  조리대 위에 올립니다. 순서보다는 빠르고 정확한 조합이 중요합니다.
+- **서빙하기**: 주문과 동일한 타코가 완성되면 손님에게 건네면 됩니다. 서빙 속도가 빠를수록 팁과
+  만족도가 올라갑니다.
+- **수익 사용하기**: 손님에게서 받은 돈과 팁은 더 많은 재료, 빠른 조리 도구, 추가 조리 공간 등
+  주방 업그레이드에 사용할 수 있습니다.
+- **재료 관리**: 일부 버전에서는 재료가 소진될 수 있으므로, 적절한 타이밍에 재고를 보충해야 합니다.
 
-### Gameplay Guide
+### 조작 방법 안내
 
-- **Take Orders:** Customers will appear with speech bubbles indicating their desired taco ingredients.
-- **Assemble Tacos:** Click or drag ingredients (tortillas, meats, vegetables, sauces) onto the preparation area to build the taco according to the order.
-- **Serve:** Once the taco is complete, serve it to the customer. Speed is key to earning higher tips and keeping customers happy.
-- **Earn Money:** Successful and quick service earns you money, which can be used to purchase new ingredients, upgrade your kitchen, or unlock new recipes.
-- **Manage Ingredients:** Keep an eye on your ingredient supplies and restock as needed.
+- **마우스/터치 조작**: 대부분의 조작은 마우스 클릭이나 터치로 이루어집니다.
+    - 클릭: 재료 선택, 손님 선택, 메뉴 인터페이스 조작 등에 사용됩니다.
+    - 드래그 앤 드롭: 재료를 조리대 위로 옮기거나, 완성된 타코를 손님에게 전달할 때 사용합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- **Mouse/Touch:** All interactions are typically done with mouse clicks or touch gestures.
-    -   **Click:** Select ingredients, click on customers, or interact with menu items.
-    -   **Drag and Drop:** Drag ingredients to assemble tacos or drag completed tacos to customers.
+**Q. Yummy Taco의 주된 목표는 무엇인가요?**  
+A. 가능한 한 많은 손님에게 신속하고 정확하게 타코를 제공해 높은 점수와 수익을 얻는 것입니다.
 
-### Frequently Asked Questions (FAQ)
+**Q. 점수를 더 많이 받으려면 어떻게 해야 하나요?**  
+A. 주문을 틀리지 않는 것이 기본이고, 여기에 빠른 서빙이 더해지면 추가 팁과 콤보 보너스를 얻을 수
+있습니다. 실수를 줄이고 리듬을 유지하는 것이 중요합니다.
 
-**What is the main goal of Yummy Taco?**
-
-The main goal is to serve as many customers as possible, earn money, and achieve a high score by efficiently preparing and serving tacos.
-
-**How do I get a higher score?**
-
-Serve customers quickly and accurately. Avoid mistakes in orders. Longer streaks of perfect service often lead to bonus points.
-
-**Can I upgrade my kitchen or recipes?**
-
-Yes, in many cooking simulation games like Yummy Taco, you can use the money you earn to upgrade your kitchen equipment, unlock new ingredients, or learn new, more complex recipes to attract more customers.
-
+**Q. 주방을 업그레이드할 수 있나요?**  
+A. 네, 많은 요리 시뮬레이션 게임과 마찬가지로, 벌어들인 수익으로 조리 속도를 올려 주는 장비나
+새로운 재료, 더 복잡한 레시피를 잠금 해제해 가게를 성장시킬 수 있습니다.

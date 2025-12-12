@@ -1,83 +1,44 @@
 ---
+title: "Comfy Farm コンフィ・ファーム"
+description: "「Comfy Farm」へようこそ！種をまき、水をやり、収穫して夢の農場を作ろう。害虫から作物を守り、設備を自動化して、最高の居心地（Comfy）を手に入れろ。"
+iframeSrc: "https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/"
+thumbnail: "/new-images/comfy-farm.png"
+urlstr: "comfy-farm"
+score: "4.3/5  (2000 votes)"
+tags: ["casual", "strategy", "clicker"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: comfy-farm
-title: '[JA TRANSLATION NEEDED] Comfy Farm'
-description: >-
-  [JA TRANSLATION NEEDED] Welcome to Comfy Farm! Plant seeds, water your crops,
-  and harvest them for profit. Protect your plants from pests and use your
-  earnings to upgrade and expand your very own cozy farm.
-iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
-thumbnail: /new-images/comfy-farm.png
-tags:
-  - casual
-  - strategy
-  - clicker
-score: 4.3/5  (2000 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Comfy Farm（コンフィ・ファーム）*は、自分だけの居心地の良い農場を作り上げる、魅力的でリラックスできる農業シミュレーションゲームです。最初は小さな土地から始まりますが、種を植え、水をやり、収穫して利益を上げることで、立派な農業ビジネスへと成長させていきます。
 
-[JA TRANSLATION NEEDED] Comfy Farm is a charming and relaxing farming simulation game where you get to build and manage your own virtual farm. The goal is to transform a small plot of land into a thriving agricultural enterprise. You'll plant seeds, water your crops, harvest them for profit, and protect them from pests. Use your earnings to buy new seeds and valuable upgrades to automate and expand your comfy farm.
+稼いだお金で新しい種を買ったり、自動水やり機などの便利なアップグレードを購入して、農場をさらに拡大・自動化しましょう。カラスなどの害虫との戦いも農家の大事な仕事です。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  **The Farming Cycle:** The core of the game is the planting and harvesting cycle. Click on an empty plot to prepare it, plant a seed, and then water it. After a set amount of time, the crop will be ready to harvest, earning you money.
-[JA TRANSLATION NEEDED] 2.  **Pest Patrol:** Be vigilant! Pests like crows and flies will periodically appear and try to eat your crops. You must quickly click on them to scare them away before they damage your harvest.
-[JA TRANSLATION NEEDED] 3.  **Invest in Upgrades:** Reinvest your profits wisely. Upgrades are key to growing your farm. Buying a sprinkler will automate watering, and a scarecrow will help deter pests, freeing you up to manage a larger farm.
-[JA TRANSLATION NEEDED] 4.  **Expand Your Land:** As you earn more money, you can purchase new plots of land. Expanding your farm allows you to plant more crops simultaneously, dramatically increasing your income potential.
+1.  **農業サイクル:** 基本は「耕す」「植える」「水やり」「収穫」の繰り返しです。作物が育つ時間を無駄にしないよう、常に手を動かし続けましょう。
+2.  **害虫パトロール:** カラスやハエなどの害虫は定期的に現れ、作物を食べてしまいます。見つけたらすぐにクリックして追い払いましょう。放置すると収穫が減ってしまいます。
+3.  **設備投資:** 利益は貯め込むのではなく、再投資しましょう。「スプリンクラー」を買えば水やりが自動化され、「カカシ」を買えば害虫を防いでくれます。これらの自動化こそが大規模農場への近道です。
+4.  **土地の拡張:** お金が貯まったら新しい区画（プロット）をアンロックしましょう。一度に育てられる作物の数が増えれば、収入も飛躍的に増えます。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] The game is played entirely with mouse clicks or taps.
+すべてマウスクリック（またはタップ）で操作します。
 
-*   **Plant/Water/Harvest:** Click on a plot of land to perform the next logical action (till, plant, water, or harvest).
-    - **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.（日本語訳が必要）
-    - **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.（日本語訳が必要）
-    - **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.（日本語訳が必要）
-    - **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.（日本語訳が必要）
-    - **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.（日本語訳が必要）
-    - **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.（日本語訳が必要）
-*   **Scare Pests:** Click directly on any pest that appears on your farm to get rid of it.
-*   **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
+*   **農作業:** 畑をクリックすると、その状態に合わせて必要なアクション（植える、水やり、収穫など）を自動で行います。
+*   **害虫駆除:** 畑の上を飛んでいるカラスやハエをクリックして撃退します。
+*   **購入:** 画面上のアイコンをクリックして、アップグレードや種の購入を行います。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-*   **Q: How do I make money faster?**
+*   **Q: どうすれば早くお金が稼げますか？**
+    *   **A:** とにかく回転率を上げることです。また、高価な種がアンロックされたら、栽培時間が長くてもそちらに切り替えた方が利益率が良い場合が多いです。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
+*   **Q: 最初に買うべきアップグレードは？**
+    *   **A:** 「スプリンクラー」が断然おすすめです。水やりの手間が省けるだけで、作業負担が大幅に減り、他の作業に集中できます。
 
-*   **Q: What is the best upgrade to get first?**
-[JA TRANSLATION NEEDED]     *   **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
-
-*   **Q: Why did one of my plants disappear?**
-
-
-
-
-
-
-
-
-    - **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
-- **Q: Why did one of my plants disappear?**
-    - **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
-- **Q: What is the best upgrade to get first?**
-    - **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
-- **Q: How do I make money faster?**
-### よくある質問（FAQ）
-- **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
-
-
-
-
-
-    - **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
-- **Q: Why did one of my plants disappear?**
-    - **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
-- **Q: What is the best upgrade to get first?**
-    - **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
-[JA TRANSLATION NEEDED]     *   **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
-
+*   **Q: 作物が消えてしまいました！**
+    *   **A:** 害虫に食べられてしまった可能性があります。警告音や画面の変化に注意し、害虫が現れたら最優先で対処しましょう。

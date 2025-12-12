@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: slice-master
-title: '[KO] Slice Master'
+title: Slice Master 슬라이스 마스터
 description: >-
-  [KO] Slice Master is a satisfying physics-based game where players control a
-  knife to slice through various objects, aiming for perfect cuts and collecting
-  rewards while navigating through challenging obstacle courses.
+  칼을 조종해 다양한 물체를 산 satisfying 하게 베어 나가는 물리 기반 액션 게임입니다. 장애물을 피해 완벽한 컷을 노리며 보상을
+  모아 스테이지를 돌파하세요.
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/slice-master.jpg
 tags:
@@ -18,33 +17,65 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Slice Master*는 화면 속 칼을 조종해 과일, 상자, 장애물 등을
+시원하게 잘라 나가는 물리 기반 액션 게임입니다. 부드러운 컷팅
+애니메이션과 손맛 좋은 조작감 덕분에 한 번 시작하면 계속 플레이하게
+되는 중독성이 특징입니다.
 
-### Game Introduction
+플레이어는 칼의 각도와 움직임을 조절해 최대한 정확하게 물체를
+베어 보상을 얻고, 장애물을 피해 코스를 끝까지 완주해야 합니다.
 
-"Slice Master" is a satisfying physics-based game where players control a knife to slice through various objects, aiming for perfect cuts and collecting rewards while navigating through challenging obstacle courses. The game is famous for its smooth cutting mechanics and addictive gameplay.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **컷 타이밍 익히기**  
+   물체가 화면 어느 위치에 왔을 때 칼을 내려야 가장 깔끔하게
+   잘리는지 감을 익히세요. 급하게 여러 번 긋기보다, 한 번을
+   정확히 베는 것이 점수에 더 유리합니다.
 
-1.  **[KO]** **Master Cutting Timing**: Learn to cut at the right moments to ensure maximum scoring and effectiveness.
-2.  **[KO]** **Object Recognition**: Identify cuttable and non-cuttable objects, avoiding collision with obstacles.
-3.  **[KO]** **Angle Control**: Adjust the knife's angle to achieve optimal cutting effects.
-4.  **[KO]** **Combo System**: Build consecutive successful cuts to earn higher score bonuses.
-5.  **[KO]** **Collect Items**: Gather special items and coins in levels to enhance abilities.
+2. **베어지는 물체와 장애물 구분하기**  
+   칼로 잘라야 할 물체와 피해야 할 장애물이 섞여 있습니다.
+   색이나 모양, 이펙트를 보고 무엇을 베야 하고 무엇을 피해 가야
+   하는지 빠르게 구분해야 합니다.
 
-### How to Play
+3. **각도 조절로 최적의 컷 만들기**  
+   칼의 각도를 바꾸면 베이는 방향과 길이가 달라집니다. 긴 물체는
+   대각선으로 크게 그어 한 번에 자르고, 작은 물체는 짧게 끊어
+   정확히 맞추는 것이 좋습니다.
 
-*   **[KO]** **Direction Control**: Typically use mouse or touch to control the knife's movement direction.
-*   **[KO]** **Cutting Action**: Click or swipe to perform cutting actions.
-*   **[KO]** **Angle Adjustment**: Drag to adjust the knife's angle and trajectory.
+4. **콤보 시스템 활용하기**  
+   연속으로 성공적인 컷을 만들어 내면 콤보가 쌓이며 추가 점수를
+   얻을 수 있습니다. 실수 없이 일정 리듬으로 베어 나가는 것이
+   고득점의 핵심입니다.
 
-### Frequently Asked Questions
+5. **코인과 아이템 수집**  
+   스테이지 곳곳에 있는 코인과 특수 아이템을 모으면 새로운
+   스킨이나 능력 업그레이드를 해금할 수 있습니다.
 
-1.  **[KO]** **Q: How do I get perfect cuts?**
-**A**: Observe the shape and texture of objects, find the optimal cutting line, and maintain steady gestures.
-2.  **[KO]** **Q: What happens if I hit obstacles?**
-**A**: Hitting obstacles will reduce health or cause game over; you need to carefully avoid them.
-3.  **[KO]** **Q: Are there different knives in the game?**
-**A**: Many versions offer different knives with various appearances and attributes for players to unlock and use.
-4.  **[KO]** **Q: How can I improve my score?**
-**A**: Through consecutive successful cuts, collecting reward items, and avoiding collisions to achieve higher scores.
+### 조작 가이드
+
+- **이동/방향 조절**: 마우스 또는 터치로 칼의 위치와 움직이는
+  방향을 조절합니다.  
+- **베기 동작**: 화면을 드래그하거나 탭해 칼이 지나가도록 하면,
+  궤적을 따라 물체가 잘려 나갑니다.  
+- **각도 조정**: 드래그 방향과 속도로 칼의 각도와 궤적을 세밀하게
+  조정할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 완벽한 컷을 내는 요령이 있나요?**  
+   **A:** 물체의 모양과 결을 잘 관찰한 뒤, 한 번에 두 조각으로
+   나뉘도록 직선 혹은 대각선으로 과감하게 베어 보세요. 손을 너무
+   떨지 않고 부드럽게 그리는 것이 중요합니다.
+
+2. **Q: 장애물에 닿으면 어떻게 되나요?**  
+   **A:** 버전에 따라 즉시 게임 오버가 되거나, 체력을 잃고 점수
+   페널티를 받을 수 있습니다. 베어지지 않는 물체와 빨간색 위협
+   요소는 최대한 피하세요.
+
+3. **Q: 더 많은 보상을 얻으려면?**  
+   **A:** 가능한 많은 물체를 한 번에 자르고, 콤보를 유지해 점수
+
+- **Q: How can I improve my score?**
+   배율을 높이세요. 숨겨진 코인이나 상자를 놓치지 않는 것도 중요합니다.

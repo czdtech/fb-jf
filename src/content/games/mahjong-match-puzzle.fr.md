@@ -1,49 +1,41 @@
 ---
 locale: fr
-urlstr: mahjong-match-puzzle
-title: '[FR] Mahjong Match Puzzle'
-description: >-
-  [FR] Mahjong Match Puzzle blends solitaire and connect rules — match open
-  tiles, manage layers, and clear boards efficiently.
-iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
-thumbnail: /new-images/mahjong-match-puzzle.png
-tags:
-  - mahjong
-  - puzzle
-score: 4.1/5  (1981 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "mahjong-match-puzzle"
+title: "Mahjong Match Puzzle"
+description: "Mahjong Match Puzzle mélange les règles du solitaire et du connect : associe des tuiles libres, gère les couches et nettoie les plateaux de façon efficace."
+iframeSrc: "https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/"
+thumbnail: "/new-images/mahjong-match-puzzle.png"
+tags: ["mahjong", "puzzle"]
+score: "4.1/5  (1981 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Mahjong Match Puzzle propose des piles de tuiles en couches où seules les tuiles ouvertes (sans couverture et avec au moins un côté libre) peuvent être appariées. Certains plateaux introduisent des règles de connexion ou des tuiles spéciales. Pour être efficace, tu dois libérer les tuiles « capuchons », préserver les possibilités de mouvement et éviter de retirer trop tôt des paires qui isoleraient des doublons plus profonds.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Retire les tuiles de couverture :** commence par libérer et enlever les tuiles qui couvrent de grandes zones pour exposer rapidement de nouvelles paires.
+2.  **Traite les symboles rares en priorité :** si un symbole n’apparaît que très peu, fais ses paires tôt pour éviter qu’une tuile unique ne reste bloquée.
+3.  **Garde les côtés ouverts :** évite de fermer de longues rangées en faisant des paires sur les bords trop tôt ; cela peut t’enfermer.
+4.  **Économise les indices et mélanges :** garde les aides pour les moments où plus aucune nouvelle ouverture n’apparaît.
+5.  **Ne te précipite pas :** la vitesse compte moins que les bons choix ; prends le temps de vérifier l’impact de chaque paire.
 
-Mahjong Match Puzzle uses layered stacks where only open tiles (no cover, at least one free side) can be matched. Some boards introduce connect‑style paths or special tiles. Efficiency comes from freeing caps, preserving options, and avoiding early removal that seals deeper pairs.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Sélectionne deux tuiles ouvertes identiques pour les retirer.
+- Utilise les boutons d’indice ou de mélange si la grille le permet.
 
-1.  **[FR]** Cap removal: Free and remove top caps to expose large areas quickly.
-2.  **[FR]** Rarity first: Clear rare symbols early to prevent late deadlocks.
-3.  **[FR]** Side access: Keep side lanes open; avoid sealing long strips.
-4.  **[FR]** Hint reserve: Save hints/shuffles for when new openings stop appearing.
-5.  **[FR]** Pace: Don’t rush — deliberate picks trump speed.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- Q : Le jeu m’indique qu’il n’y a plus de coups, que faire ?  
+  R : Si un bouton de mélange est disponible, utilise‑le pour redistribuer les tuiles. Sinon, essaie un autre plan en commençant par retirer davantage de tuiles de couverture.
 
-- Select two matching open tiles to remove; use hints/shuffles per UI.
+- Q : Les tuiles Saisons et Fleurs se combinent‑elles entre elles ?  
+  R : Dans beaucoup de plateaux, n’importe quelle tuile Saison peut être associée à une autre Saison, et il en va de même pour les Fleurs. Vérifie les règles de ton mode.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: No moves available?
-
-A: Shuffle if allowed or restart with a different cap‑first plan.
-
-- Q: Do seasons/flowers match cross‑suit?
-
-A: Many sets allow cross‑matching within seasonal/flower groups.
-
-- Q: Timed?
-
-A: Some boards are timed; prioritize caps and rare symbols.
+- Q : Certains niveaux sont‑ils chronométrés ?  
+  R : Oui, certaines configurations imposent un temps limite. Dans ces cas‑là, concentre‑toi d’abord sur les tuiles de couverture et les symboles rares.
 

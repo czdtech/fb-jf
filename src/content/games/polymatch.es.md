@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: polymatch
-title: '[ES] PolyMatch'
+title: "PolyMatch"
 description: >-
-  [ES] Dive into the colorful world of PolyMatch! A unique puzzle game where you
-  rotate and place polyomino pieces to complete intricate patterns.
-iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
-thumbnail: /new-images/polymatch.png
+  Sumérgete en el colorido mundo de PolyMatch. Un original juego de puzles en el
+  que debes seleccionar y combinar fichas para despejar el tablero sin llenar la
+  zona de reserva.
+iframeSrc: "https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/"
+thumbnail: "/new-images/polymatch.png"
 tags:
   - puzzle
   - thinky
@@ -16,33 +17,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+PolyMatch es un adictivo juego de combinar fichas que pone a prueba tu
+observación y tu pensamiento estratégico. El tablero se llena de fichas, cada
+una con un dibujo o patrón distinto. Tu objetivo es despejarlo por completo
+localizando y emparejando fichas idénticas. El giro interesante está en la
+pequeña zona de reserva situada en la parte inferior de la pantalla: solo puede
+contener unas pocas fichas. Tendrás que elegir muy bien qué fichas envías allí
+para asegurarte de poder hacer parejas antes de que se llene; si la reserva se
+satura, la partida termina.
 
+### Estrategias de juego y recorrido
 
-### Detailed Game Introduction
+1.  **Prioriza las parejas visibles:** Empieza siempre por las coincidencias que
+    ya ves y puedes tocar directamente. Esto te ayuda a despejar espacio y a
+    revelar nuevas fichas.
+2.  **Gestiona la zona de reserva:** La zona de reserva es tu recurso más
+    crítico. No toques una ficha sin tener un plan claro para combinarla. Evita
+    llenarla con fichas sueltas que no puedas emparejar pronto.
+3.  **Piensa en las fichas ocultas:** A medida que limpias el tablero aparecen
+    nuevas fichas. Intenta anticipar qué símbolos podrían salir y cómo pueden
+    ayudarte en futuras combinaciones.
+4.  **Toques estratégicos:** Si tienes varias opciones para completar una
+    pareja, elige la que abra más posibilidades o libere las zonas más
+    complicadas del tablero.
+5.  **No tengas prisa:** Muchas versiones de PolyMatch no tienen límite de
+    tiempo, así que tómate el tuyo para analizar el tablero y planear cada
+    movimiento. Un solo toque mal pensado puede llevarte al game over.
 
-PolyMatch is an engaging tile-matching puzzle game that challenges your observation and strategic thinking. The game presents you with a board filled with various tiles, each featuring a unique image or pattern. Your objective is to clear the board by finding and matching pairs of identical tiles. The twist lies in the limited holding area at the bottom of the screen, which can only hold a few tiles. You must carefully select tiles to ensure you can make matches and prevent the holding area from filling up, which would lead to a game over.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+*   **Seleccionar ficha:** Haz clic o toca una ficha del tablero principal para
+    enviarla a la zona de reserva de la parte inferior.
 
-1.  **[ES]** **Prioritize Visible Matches:** Always look for and make matches that are immediately visible and accessible. This helps to clear space and reveal more tiles.
-2.  **[ES]** **Manage the Holding Area:** The holding area is your most critical resource. Never tap a tile unless you have a clear plan for how it will be matched. Avoid filling it with unmatched tiles.
-3.  **[ES]** **Look for Hidden Tiles:** As you clear tiles, new ones will be revealed. Try to anticipate which tiles will become available and how they might contribute to future matches.
-4.  **[ES]** **Strategic Tapping:** If you have multiple options for a match, consider which one will open up the most possibilities or clear the most difficult sections of the board.
-5.  **[ES]** **Don't Rush:** There's no time limit in many versions of PolyMatch, so take your time to analyze the board and plan your moves carefully. A single wrong tap can lead to a game over.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **P: ¿Cómo gano un nivel?**
+    *   **R:** Superas el nivel cuando consigues despejar todas las fichas del
+        tablero principal.
 
-*   **[ES]** **Select Tile:** Click or tap on a tile on the main game board to move it to the holding area at the bottom.
+*   **P: ¿Qué pasa si se llena la zona de reserva?**
+    *   **R:** Si la zona de reserva (normalmente hasta 6 fichas) se llena y no
+        puedes hacer más parejas, la partida termina.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: How do I win a level?**
-    *   **[ES]** **A:** You win a level by successfully clearing all the tiles from the main game board.
-
-*   **[ES]** **Q: What happens if the holding area fills up?**
-    *   **[ES]** **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
-
-*   **[ES]** **Q: Are there power-ups or hints?**
-    *   **[ES]** **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
-
+*   **P: ¿Hay potenciadores o pistas?**
+    *   **R:** Algunas versiones de PolyMatch incluyen ayudas como un botón de
+        barajar o una pista que resalta una posible combinación cuando te
+        quedas atascado.

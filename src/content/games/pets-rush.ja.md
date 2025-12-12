@@ -1,84 +1,49 @@
 ---
-locale: ja
+title: Pets Rush
+description: Pets Rushはかわいいマッチ3ゲームです。ペットをマッチし、パズルを解決し、レベルをクリアし、愛らしい動物の冒険を楽しみます。
+iframeSrc: 'https://petsrush.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+thumbnail: /new-images/pets-rush.png
 urlstr: pets-rush
-title: '[JA TRANSLATION NEEDED] Pets Rush'
-description: >-
-  [JA TRANSLATION NEEDED] A fast-paced and colorful match-3 puzzle! Swap cute
-  pets to make matches of three or more, create powerful combos, and clear the
-  board before the pets reach the top.
-iframeSrc: >-
-  https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
-thumbnail: /new-images/pets-rush.jpg
+score: 4.2/5  (2089 votes)
 tags:
   - puzzle
   - casual
-  - action
-score: 4.3/5  (2150 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Pets Rushは、かわいいペットをフィーチャーしたカラフルなマッチ3パズルです。3つ以上の同じペットをマッチしてポップし、ボードをクリアし、レベル目標を完了します。チャーミングなグラフィックと中毒性のあるゲームプレイ。
 
-[JA TRANSLATION NEEDED] Pets Rush is a fast-paced and exciting match-3 puzzle game with an adorable animal theme. Unlike traditional level-based match-3 games, this is a game of survival. A wall of colorful pet blocks continuously rises from the bottom of the screen, and you must frantically make matches to keep it from reaching the top. Swap adjacent pets to create lines of three or more, trigger combos, and clear the board for as long as you can to achieve a high score.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **目標に焦点を当てる:** 各レベルには特定の目標があります。
+2.  **大きなマッチを作成:** 4つ以上のマッチはパワーアップを作成します。
+3.  **パワーアップを組み合わせる:** 大規模な効果のために一緒にマッチします。
+4.  **移動を計画:** 限られた移動を賢く使用します。
+5.  **下から作業:** カスケード効果を作成します。
 
-[JA TRANSLATION NEEDED] 1.  **Stay Ahead of the Rise:** Your primary goal is to prevent any column from reaching the top of the screen. Always prioritize making matches in your tallest columns to push them back down.
-[JA TRANSLATION NEEDED] 2.  **Look for Combos:** The most effective way to clear the board is to set up chain reactions. When you make a match, new pets will fall into place. Look for opportunities where clearing one line will cause another match to form automatically. These combos clear more space and award more points.
-[JA TRANSLATION NEEDED] 3.  **Think Fast, Act Fast:** The wall of pets will rise faster as the game progresses. You need to quickly identify and execute matches to keep up with the increasing speed.
-[JA TRANSLATION NEEDED] 4.  **Special Blocks:** Keep an eye out for any special blocks or power-ups that might appear. These can help you clear large sections of the board in a pinch.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple swap controls.
-
-*   **Swap Pets:** Click on a pet and then click on an adjacent pet to swap their positions. You can also click and drag one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
-    - **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.（日本語訳が必要）
-    - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.（日本語訳が必要）
-    - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.（日本語訳が必要）
-    - **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.（日本語訳が必要）
-    - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.（日本語訳が必要）
-    - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I lose the game?**
-[JA TRANSLATION NEEDED]     *   **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.
-
-*   **Q: What is the best way to get a high score?**
-[JA TRANSLATION NEEDED]     *   **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
-
-*   **Q: Is there a way to stop the blocks from rising?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
+### 操作ガイド
 
 
+The game is played with simple swap controls.
+- ペットをドラッグまたはクリック/タップしてスワップします。
+- 3つ以上をマッチしてポップします。
+- レベル目標を完了します。
 
+### よくある質問 (FAQ)
 
-
-
-
-
-
+- **Q: 移動がなくなった場合はどうなりますか？**  
+  A: 目標を完了しない場合、再試行します。
+    - **Q: 最高のパワーアップコンボは何ですか？**  
+  A: 2つのカラーボムを一緒に = 巨大クリア。
+- **Q: どれくらいのレベルがありますか？**  
 
     - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
+
 - **Q: Is there a way to stop the blocks from rising?**
+
     - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
-- **Q: What is the best way to get a high score?**
-    - **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.
-- **Q: How do I lose the game?**
-### よくある質問（FAQ）
-- **Swap Pets:** Click on a pet and then click on an adjacent pet to swap their positions. You can also click and drag one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
-
-
-
-
-
-
-    - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
-- **Q: Is there a way to stop the blocks from rising?**
-    - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
-- **Q: What is the best way to get a high score?**
-    - **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.
+  A: バージョンによって異なります。多くは数百。

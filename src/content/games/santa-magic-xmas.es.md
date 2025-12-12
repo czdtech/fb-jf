@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: santa-magic-xmas
-title: '[ES] Santa Magic Xmas'
+title: "Santa Magic Xmas"
 description: >-
-  [ES] Experience the magic of Christmas in this festive match-3 puzzle game!
-  Help Santa by matching colorful ornaments and clearing the board to deliver
-  the presents.
-iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
-thumbnail: /new-images/santa-magic-xmas.png
+  Vive la magia de la Navidad en este festivo juego de puzles match‑3. Ayuda a
+  Santa combinando adornos de colores y despejando el tablero para que los
+  regalos lleguen a tiempo.
+iframeSrc: "https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/"
+thumbnail: "/new-images/santa-magic-xmas.png"
 tags:
   - puzzle
   - casual
@@ -17,37 +17,55 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Santa Magic Xmas es un alegre y festivo juego de puzles tipo match‑3 que te
+mete de lleno en el ambiente navideño. Tu misión es echar una mano a Papá Noel
+combinando campanas, bolas, casitas de jengibre y otros elementos típicos de la
+fiesta. Intercambia piezas adyacentes para formar líneas de tres o más,
+encadena potentes combos y cumple los objetivos de cada nivel para que todos los
+regalos lleguen a su destino.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Santa Magic Xmas is a cheerful and festive match-3 puzzle game that immerses you in the holiday spirit. Your goal is to help Santa Claus by matching colorful Christmas items like bells, ornaments, and gingerbread men. Swap adjacent items to create lines of three or more, trigger powerful combos, and complete the objectives of each level to ensure all the presents are delivered on time!
+1.  **Crea potenciadores navideños:** La mejor forma de limpiar el tablero es
+    generando piezas especiales con combinaciones más grandes.
+    *   **Match de 4:** Crea una pieza especial capaz de limpiar una fila o
+        columna entera.
+    *   **Match de 5 en forma de L o T:** Genera una bomba envuelta que explota
+        y limpia un área amplia.
+    *   **Match de 5 en línea:** Produce una poderosa bomba de color que elimina
+        todas las piezas de un mismo color.
 
-### Gameplay Strategy & Walkthrough
+2.  **Combina potenciadores:** Intercambia dos piezas especiales entre sí para
+    desatar efectos masivos que barren casi todo el tablero. Esta es la clave
+    para superar los niveles más difíciles.
+3.  **Céntrate en el objetivo:** Cada nivel tiene una meta concreta, como romper
+    todas las casillas congeladas o hacer que cajas de regalo especiales lleguen
+    al fondo. Prioriza siempre las jugadas que te acerquen a ese objetivo antes
+    de gastar movimientos.
+4.  **Trabaja desde abajo:** Hacer combinaciones en la parte inferior del
+    tablero provoca cascadas, haciendo caer nuevas piezas que pueden crear
+    matches automáticos y ayudarte a limpiar el nivel con más eficiencia.
 
-1.  **[ES]** **Create Festive Power-ups:** The best way to clear the board is by making special items from larger matches.
-    *   **[ES]** **Match 4:** Creates a special item that can clear an entire row or column.
-    *   **[ES]** **Match 5 (L or T shape):** Creates a wrapped candy bomb that explodes and clears a large area.
-    *   **[ES]** **Match 5 (in a line):** Creates a powerful color bomb that can clear all items of a single color from the board.
+### Guía de controles
 
-2.  **[ES]** **Combine for Holiday Cheer:** Swap two special items with each other to unleash a massive, board-clearing effect. This is the key to solving the most challenging puzzles.
-3.  **[ES]** **Focus on the Goal:** Each level has a unique objective, such as clearing all the frozen ice tiles or dropping special gift boxes to the bottom. Always prioritize moves that help you achieve the specific goal before you run out of moves.
-4.  **[ES]** **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+El juego utiliza un sistema sencillo de intercambio de piezas.
 
-### Controls Guide
+*   **Intercambiar piezas:** Haz clic y arrastra una ficha para cambiarla por
+    otra adyacente. El intercambio solo se realizará si produce una combinación
+    válida.
 
-The game is played with simple swap mechanics.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+*   **P: ¿Cómo rompo los bloques de hielo?**
+    *   **R:** Debes hacer una combinación que incluya una pieza junto al bloque
+        de hielo. Cada match irá agrietando y finalmente rompiendo el hielo.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la combinación más poderosa?**
+    *   **R:** Intercambiar dos bombas de color es el movimiento más fuerte,
+        porque limpia prácticamente todas las piezas del tablero.
 
-*   **[ES]** **Q: How do I break the ice blocks?**
-    *   **[ES]** **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.
-
-*   **[ES]** **Q: What is the most powerful combo?**
-    *   **[ES]** **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
-
-*   **[ES]** **Q: What happens if I run out of moves?**
-    *   **[ES]** **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
+*   **P: ¿Qué ocurre si me quedo sin movimientos?**
+    *   **R:** Si no logras cumplir el objetivo del nivel antes de agotar los
+        movimientos, tendrás que reiniciar la partida de ese nivel.

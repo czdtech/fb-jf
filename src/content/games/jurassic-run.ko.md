@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: jurassic-run
-title: '[KO] Jurassic Run'
+title: Jurassic Run 공룡 러너
 description: >-
-  [KO] Jurassic Run is a dino‑dash runner — evade hazards, swap lanes, and
-  sprint for high scores.
+  공룡과 정글을 배경으로 한 끝less 러너 'Jurassic Run' 가이드입니다. 레인을 바꾸고 점프·슬라이드로 장애물을 피하며, 코인을
+  모아 높은 점수를 노려 보세요.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/jurassic-run.png
 tags:
@@ -16,27 +16,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Jurassic Run*은 공룡 시대 정글을 무대로 한 빠른 속도의
+끝less 러너입니다. 길 앞을 미리 읽어 좌우 레인을 바꾸고,
+점프·슬라이드로 바위와 장애물을 회피하며 가능한 한 멀리
+달리는 것이 목표입니다.
 
-Jurassic Run is a fast endless runner set among dinosaurs and jungle obstacles. Read the track ahead, switch lanes or jump/slide to avoid hazards, and chain coin pickups as speed increases.
+달리다 보면 속도가 점점 빨라지고, 코인을 연속으로 먹어
+고득점을 노릴 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Look far ahead to plan early lane changes.
-2.  **[KO]** Skip risky coins when gaps are tight; safety keeps runs alive.
-3.  **[KO]** Memorize repeating obstacle sets to pre‑position.
-4.  **[KO]** Make small, crisp inputs at higher speeds.
-5.  **[KO]** Save shields/magnets for dense stretches if available.
+1. **먼 거리 시야 확보**  
+   캐릭터 바로 앞만 보지 말고, 트랙 먼 곳까지 보면서
+   일찍 레인을 변경하면 실수가 줄어듭니다.
 
-### Controls Guide
+2. **위험한 코인은 과감히 포기**  
+   좁은 틈이나 복잡한 장애물 사이의 코인은 생존을 해치면
+   과감히 스킵하는 것이 좋습니다.
 
-- Move: A/D or Left/Right; jump/slide with Space/Up and Down.
-- Pause/Retry via on‑screen UI.
+3. **패턴 암기**  
+   일정 주기로 반복되는 장애물 패턴이 많으므로,
+   몇 번 플레이해 보면 미리 어느 레인에 있어야 안전한지
+   감이 잡힙니다.
 
-### Frequently Asked Questions (FAQ)
+4. **고속 구간에서는 작은 입력**  
+   속도가 빨라질수록 방향 전환은 짧고 정확하게 눌러야
+   오버 스티어링으로 인한 충돌을 줄일 수 있습니다.
 
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
-- Is there an end? Usually endless—chase personal bests.
+5. **파워업 활용**  
+   버전별로 방어막, 자석, 슬로모션 등 파워업이 있는 경우,
+   장애물이 촘촘한 구간에서 사용하면 큰 도움이 됩니다.
+
+### 조작 가이드
+
+- **이동**: `A/D` 또는 좌우 방향키로 레인을 변경합니다.  
+- **점프/슬라이드**: 스페이스·위쪽 방향키로 점프,
+  아래쪽 방향키로 슬라이드합니다.  
+- **일시정지/재시작**: 화면 UI 버튼으로 조작합니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 자꾸 장애물 모서리에 스치는데 이유가 뭔가요?**  
+  **A:** 점프 타이밍이 너무 이르거나, 방향키를 오래 눌러
+  과하게 움직이는 경우가 많습니다. 약간 늦게 점프하고
+  입력 시간을 줄여 보세요.
+
+- **Q: 이 게임에 끝이 있나요?**  
+
 - Power‑ups? Many versions include shields, magnets, or slow‑mo.
+  **A:** 보통 끝less 모드로, 죽지 않는 한 계속 진행됩니다.
+  최고 기록 경신을 목표로 하시면 됩니다.
 

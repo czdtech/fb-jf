@@ -1,126 +1,60 @@
 ---
-locale: ja
-urlstr: quest-21
-title: '[JA TRANSLATION NEEDED] Quest 21'
-description: >-
-  [JA TRANSLATION NEEDED] A Blackjack adventure! Play hands of 21 to defeat
-  opponents and progress on your quest. Get as close to 21 as possible without
-  going over to win.
-iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
+title: Quest 21
+description: Quest 21はカード戦略ゲームです。21を目指し、バストを避け、対戦相手を打ち負かし、カードマスターになります。
+iframeSrc: 'https://quest21.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/quest-21.png
+urlstr: quest-21
+score: 4.1/5  (1834 votes)
 tags:
   - card
-  - puzzle
   - thinky
-score: 4.5/5  (2700 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+Quest 21は、ブラックジャックスタイルのゲームプレイと戦略要素を組み合わせます。21に到達するか、それに近づくことを目指しますが、バストしないでください。対戦相手と戦い、賢く賭け、各ラウンドで勝ちます。
 
-### Detailed Game Introduction
-5.  **Blackjack:** If your first two cards are an Ace and a 10-value card, you have a "Blackjack" and typically win the hand instantly.（日本語訳が必要）
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Quest 21 is a fun and strategic card game adventure based on the rules of classic Blackjack. Instead of just playing at a casino table, you embark on a quest, facing off against a series of opponents. To defeat them and advance, you must win hands of 21. The goal in each hand is to get a card total closer to 21 than your opponent without going over. It combines the luck of the draw with simple, strategic decisions.
-The game is played with on-screen buttons.（日本語訳が必要）
-
-### Gameplay Strategy & Walkthrough
-
-- **Q: What does it mean to "bust"?**（日本語訳が必要）
-[JA TRANSLATION NEEDED] 1.  **The Goal:** Get your hand total as close to 21 as possible, without exceeding it. A hand over 21 is a "bust" and an automatic loss.
-[JA TRANSLATION NEEDED] 2.  **Card Values:**
-[JA TRANSLATION NEEDED]     *   Cards 2-10 are worth their face value.
-[JA TRANSLATION NEEDED]     *   Face cards (Jack, Queen, King) are each worth 10.
-[JA TRANSLATION NEEDED]     *   Aces are special: they can be worth either 1 or 11, whichever is more beneficial to your hand.
-[JA TRANSLATION NEEDED] 3.  **Hit or Stand?** On your turn, you have two main choices:
-[JA TRANSLATION NEEDED]     *   **Hit:** Take another card to try and get closer to 21.
-[JA TRANSLATION NEEDED]     *   **Stand:** Keep your current hand and end your turn.
-[JA TRANSLATION NEEDED] 4.  **Basic Strategy:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
-[JA TRANSLATION NEEDED] 5.  **Blackjack:** If your first two cards are an Ace and a 10-value card, you have a "Blackjack" and typically win the hand instantly.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with on-screen buttons.
-
-*   **Hit:** Click the "Hit" button to be dealt another card.
-*   **Stand:** Click the "Stand" button to end your turn and see what the opponent has.
-- **Hit:** Click the "Hit" button to be dealt another card.（日本語訳が必要）
-
-- **Stand:** Click the "Stand" button to end your turn and see what the opponent has.（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What does it mean to "bust"?**
-    - **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.（日本語訳が必要）
-4.  **Basic 戦略:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
-    - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.（日本語訳が必要）
-- **Q: When should I stand?**（日本語訳が必要）
-- **Q: What happens if there is a tie?**（日本語訳が必要）
-    - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.（日本語訳が必要）
-[JA TRANSLATION NEEDED]     *   **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.
-
-*   **Q: When should I stand?**
-[JA TRANSLATION NEEDED]     *   **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
-
-*   **Q: What happens if there is a tie?**
-[JA TRANSLATION NEEDED]     *   **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
-
-
-    - Cards 2-10 are worth their face value.（日本語訳が必要）
-    - Face cards (Jack, Queen, King) are each worth 10.（日本語訳が必要）
+1.  **バスト��避ける:** 21を超えないでください。
+2.  **対戦相手を読む:** 彼らのカードと戦略を観察します。
+    - **賢く賭ける:** 手の強さに基づいてベットサイズを調整します。
+    - **リスクを計算:** いつヒットまたはスタンドするかを知ります。
+    - **リソースを管理:** 長期的にチップを保存します。
 
 
 - **Blackjack:** If your first two cards are an Ace and a 10-value card, you have a "Blackjack" and typically win the hand instantly.
-- **Basic 戦略:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
-    - Aces are special: they can be worth either 1 or 11, whichever is more beneficial to your hand.（日本語訳が必要）
-    - **Hit:** Take another card to try and get closer to 21.（日本語訳が必要）
-    - **Stand:** Keep your current hand and end your turn.（日本語訳が必要）
-### コントロール Guide
+
+    - **Basic Strategy:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
+
+    - **Stand:** Keep your current hand and end your turn.
+
+- **Hit:** Take another card to try and get closer to 21.
+
+- **Hit or Stand?** On your turn, you have two main choices:
+### 操作ガイド
 
 
-
-
-
-
-
-
-
-
-    - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
-- **Q: What happens if there is a tie?**
-    - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
-- **Q: When should I stand?**
-    - **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.
-- **Q: What does it mean to "bust"?**
-### よくある質問（FAQ）
-- **Stand:** Click the "Stand" button to end your turn and see what the opponent has.
-- **Hit:** Click the "Hit" button to be dealt another card.
 The game is played with on-screen buttons.
+- クリック/タップしてヒット、スタンド、または賭けます。
+- カードを管理し、決定を下します。
+- 対戦相手を打ち負かします。
 
+### よくある質問 (FAQ)
 
-
-
-
-
-
-
-
-
-    - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
-- **Q: What happens if there is a tie?**
-    - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
-- **Q: When should I stand?**
-    - **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.
-- **Q: What does it mean to "bust"?**
-### よくある質問（FAQ）
-- **Stand:** Click the "Stand" button to end your turn and see what the opponent has.
-
-    - **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.
-- **Hit:** Click the "Hit" button to be dealt another card.
-
-
-
+- **Q: これは通常のブラックジャックですか？**  
+  A: 似ていますが、追加の戦略要素があります。
+    - **Q: マルチプレイヤーですか？**  
+  A: 一部のバージョンは対戦を提供します。
+- **Q: 最高の戦略は何ですか？**  
 
     - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
+
 - **Q: What happens if there is a tie?**
+
     - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
+  A: バストを避け、賢く賭け、対戦相手を読みます。

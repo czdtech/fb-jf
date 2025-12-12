@@ -1,80 +1,39 @@
 ---
+title: "Archery World Tour アーチェリー・ワールドツアー"
+description: "「アーチェリー・ワールドツアー」へようこそ。風向きや距離を計算してブルズアイを射抜き、世界中の大会でチャンピオンを目指すリアルなアーチェリーゲームです。"
+iframeSrc: "https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/"
+thumbnail: "/new-images/archery.jpg"
+urlstr: "archery"
+score: "4.4/5  (2700 votes)"
+tags: ["sports", "shooting", "action"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: archery
-title: '[JA TRANSLATION NEEDED] Archery World Tour'
-description: >-
-  [JA TRANSLATION NEEDED] Grab your bow and arrow and travel the world in this
-  realistic archery game. Account for wind and distance to hit the bullseye and
-  become a champion.
-iframeSrc: >-
-  https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
-thumbnail: /new-images/archery.jpg
-tags:
-  - sports
-  - shooting
-  - action
-score: 4.4/5  (2700 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Archery World Tour（アーチェリー・ワールドツアー）*は、リアルでやりごたえのあるアーチェリーシミュレーションゲームです。プレイヤーは風光明媚なロケーションを巡り、様々なアーチェリー大会に参加します。目的はターゲット（的）に矢を放ち、できるだけ高いスコアを獲得することです。成功するには単に手がブレないようにするだけでは不十分です。「風速」「風向き」そして「ターゲットまでの距離」といった環境要因を計算に入れる必要があり、真の実力が試されます。
 
-[JA TRANSLATION NEEDED] Archery World Tour is a realistic and challenging archery simulation game. You travel to various scenic locations to compete in archery tournaments. The goal is to score as many points as possible by shooting arrows at a target. Success requires more than just a steady hand; you must also account for environmental factors like wind speed, wind direction, and the distance to the target, making it a true test of skill.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **風を計算する：** 毎回のショットの前に、風向計を見てください。風の向きと強さが表示されています。矢は風に流されるため、風とは**逆方向**に狙いをずらす（オフセットする）必要があります。
+2.  **重力を考慮する：** ターゲットが遠くにある場合、矢は重力によって飛行中に徐々に落下します。中心に当てるには、ブルズアイ（的の中心）よりも**少し上**を狙う必要があります。
+3.  **リリースのタイミング：** バージョンによっては、狙っている最中に照準が揺れることがあります。クロスヘア（照準）が完全に静止し、狙った場所と重なった瞬間を待ってから矢を放ちましょう。
+4.  **ブルズアイを狙う：** 的の中心にある黄色い円（ブルズアイ）が最も高得点（通常は10点）です。安定してブルズアイを射抜くことがハイスコアへの鍵です。
 
-[JA TRANSLATION NEEDED] 1.  **Compensate for Wind:** Before each shot, look at the wind indicator. It will show you the direction and strength of the wind. You must aim slightly *against* the wind to counteract its effect on your arrow.
-[JA TRANSLATION NEEDED] 2.  **Account for Gravity:** For targets at a long distance, your arrow will drop slightly due to gravity. You will need to aim a little bit higher than the bullseye to ensure your arrow hits the center.
-[JA TRANSLATION NEEDED] 3.  **Timing Your Release:** In some versions, your aim may sway slightly. Wait for the moment your crosshair is perfectly still and aligned with your intended target before releasing the arrow.
-[JA TRANSLATION NEEDED] 4.  **Aim for the Bullseye:** The center of the target (the yellow circle) is worth the most points (usually 10). Consistent bullseyes are the key to a high score.
+### 操作ガイド
 
-### Controls Guide
+*   **狙う（エイム）：** マウスを動かして弓の向きを調整します。カーソルが矢の向いている先を示します。
+*   **引いて撃つ：** マウスの左ボタンを長押しして弦を引き絞ります。長押し中にパワーメーターや照準が変わることがあります。ボタンを離すと矢が発射されます。
 
-*   **Aim:** Move your mouse to aim the bow. The cursor will show where the arrow is pointed.
-    - **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.（日本語訳が必要）
-    - **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.（日本語訳が必要）
-    - **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.（日本語訳が必要）
-    - **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.（日本語訳が必要）
-    - **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.（日本語訳が必要）
-    - **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.（日本語訳が必要）
-*   **Draw and Shoot:** Click and hold the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 風があるときはどう狙えばいいですか？**
+    *   **A:** 風が吹いてくる方向に向かって狙いをずらします。例えば、風が右へ強く吹いているなら、的の中心より「左」を狙う必要があります。風が強いほど、大きくずらす必要があります。
 
-*   **Q: How do I aim with the wind?**
-[JA TRANSLATION NEEDED]     *   **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.
+*   **Q: なぜ矢が狙った場所より下に当たるのですか？**
+    *   **A:** それは重力の影響です。特に長距離のショットでは顕著になります。落下の分を見越して、当てたい場所より少し上を狙ってください。
 
-*   **Q: Why did my arrow hit low?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.
-
-*   **Q: What is the goal of the game?**
-
-
-
-
-
-
-
-
-    - **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.
-- **Q: What is the goal of the game?**
-    - **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.
-- **Q: Why did my arrow hit low?**
-    - **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.
-- **Q: How do I aim with the wind?**
-### よくある質問（FAQ）
-- **Draw and Shoot:** Click and hold the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
-
-
-
-
-
-    - **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.
-- **Q: What is the goal of the game?**
-    - **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.
-- **Q: Why did my arrow hit low?**
-    - **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.
-[JA TRANSLATION NEEDED]     *   **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.
+*   **Q: ゲームの目的は何ですか？**
+    *   **A:** 定められた本数の矢を放ち、合計スコアを競うことです。的の中心に近ければ近いほど、高いポイントがもらえます。

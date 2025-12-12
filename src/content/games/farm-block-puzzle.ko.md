@@ -1,11 +1,8 @@
 ---
 locale: ko
 urlstr: farm-block-puzzle
-title: '[KO] Farm Block Puzzle'
-description: >-
-  [KO] A relaxing and fun block puzzle with a charming farm theme. Drag and drop
-  the block shapes onto the 10x10 grid to create full lines and clear them from
-  the board.
+title: Farm Block Puzzle 팜 블록 퍼즐
+description: 귀여운 농장 테마의 10x10 블록 퍼즐입니다. 블록 모양을 끌어다 놓아 가로나 세로 줄을 채우고 지우며 높은 점수를 노려 보세요.
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/farm-block-puzzle.png
 tags:
@@ -17,33 +14,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Farm Block Puzzle는 전통적인 10x10 퍼즐 방식에 농장 분위기를 더한 캐주얼
+블록 게임입니다. 서로 다른 모양의 블록들을 10x10 격자 위에 배치해 가로줄
+또는 세로줄을 완전히 채우면 해당 줄이 사라지고 점수를 얻습니다. 가능한 오래
+버티며 블록을 배치하고 줄을 지우는 것이 목표입니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Farm Block Puzzle is a relaxing and addictive puzzle game based on the classic 10x10 formula, all set in a charming farm environment. The goal is to strategically place different block shapes onto a 10x10 grid. When you successfully form a complete line of blocks, either horizontally or vertically, the line will be cleared. The game challenges you to keep placing blocks and clearing lines for as long as possible to achieve a high score.
+1. **현재 가진 세 블록을 모두 고려하기**  
+   항상 세 개의 블록이 한 세트로 주어지며, 세 블록을 모두 배치해야 새로운
+   세트가 등장합니다. 한 개를 놓기 전에 나머지 두 개를 어디에 둘 수 있을지
+   먼저 생각해 보세요.  
+2. **콤보 노리기**  
+   줄 한 줄만 지우는 것보다, 한 번의 배치로 두 줄 이상을 동시에 지우면 큰
+   점수 보너스를 얻습니다. 두세 줄이 동시에 완성되는 위치를 항상 염두에 두고
+   배치해 보세요.  
+3. **보드를 깔끔하게 유지하기**  
+   한 칸씩 떨어진 고립된 빈칸을 남기지 않는 것이 좋습니다. 보드가 정돈되어
+   있을수록 나중에 큰 블록이나 복잡한 모양을 배치하기 쉽습니다.  
+4. **회전 불가를 기억하기**  
+   블록은 회전할 수 없으며, 제시된 방향 그대로 사용해야 합니다. 이는 퍼즐의
+   핵심 난이도이므로, 미리 다양한 모양의 배치 가능성을 상상해 보는 것이 좋습니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Plan for the Pieces You Have:** The game gives you three block shapes at a time. Before placing one, always consider if you have a viable spot for the other two. This prevents you from getting stuck with a piece that won't fit.
-2.  **[KO]** **Aim for Combos:** Clearing one line is good, but clearing multiple lines at once with a single piece is a "combo" and will give you a much higher score. Always look for opportunities to complete two or more lines simultaneously.
-3.  **[KO]** **Keep the Board Clean:** Try to avoid leaving single, isolated empty holes in your grid. A clean and open board gives you more flexibility to place larger and more awkward pieces later on.
-4.  **[KO]** **No Rotations:** Remember, the blocks cannot be rotated. You must use them in the orientation they are given, which is the core challenge of the puzzle.
+게임은 간단한 드래그 앤 드롭 방식으로 진행됩니다.
 
-### Controls Guide
+- 아래쪽 대기 영역에서 블록을 클릭/탭해 10x10 격자의 빈 자리에 끌어다 놓으면
+  배치됩니다.  
 
-The game is played with a simple drag-and-drop mechanic.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
+- **Q: 게임의 목표는 무엇인가요?**  
+  **A:** 줄을 지워 점수를 획득하면서, 더 이상 세 블록 중 어느 것도 놓을 자리가
+  없어지기 전까지 가능한 한 오래 버티는 것입니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 블록을 회전할 수는 없나요?**  
+  **A:** 회전 기능은 없으며, 주어진 방향 그대로 사용해야 합니다. 이 제약 덕분에
+  배치 계획이 더 중요해집니다.  
 
-*   **[KO]** **Q: What is the objective of the game?**
-    *   **[KO]** **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.
+- **Q: 어떻게 하면 높은 점수를 받을 수 있나요?**  
 
-*   **[KO]** **Q: Can I rotate the blocks?**
-    *   **[KO]** **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
+    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
 
-*   **[KO]** **Q: How do I get the highest score?**
-    *   **[KO]** **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
+- **Q: How do I get the highest score?**
+
+    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
+  **A:** 콤보를 많이 만들고, 보드를 깨끗하게 유지해 긴 시간 동안 플레이하는 것이
+  핵심입니다. 한 번에 여러 줄을 지우는 배치를 노려 보세요.  
 

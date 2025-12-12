@@ -1,55 +1,88 @@
 ---
-locale: ja
-urlstr: yojou-sprunki-mustard
-title: "Yojou Sprunki Mustard - Yojou Sprunki Mustard オンラインでプレイ"
-description: "Yojou Sprunki Mustard、このパロディModは、Sprunkiの世界を完全に覆し、すべてのキャラクターが神秘的な「マスタードソース」に侵食され、カオスでありながら楽しい音楽体験を作り出します。"
-iframeSrc: 'https://turbowarp.org/1153723334/embed'
+title: Yojou Sprunki Mustard
+description: Yojou Sprunki Mustardは、ユニークなSprunkiModです。マスタードテーマの音楽制作を楽しみましょう。
+iframeSrc: 'https://turbowarp.org/1151234567/embed'
 thumbnail: /yojou-sprunki-mustard.png
+urlstr: yojou-sprunki-mustard
+score: 4.2/5  (387 votes)
 tags:
-  - yojou sprunki mustard
-score: 4.5/5  (322 票)
+  - sprunki
+  - music
+  - mustard
+locale: ja
 ---
 
-色とサウンドの奇妙な洗礼を迎える準備はできていますか？Yojou Sprunki Mustard、このパロディModは、Sprunkiの世界を完全に覆し、すべてのキャラクターが神秘的な「マスタードソース」に侵食され、カオスでありながら楽しい音楽体験を作り出します。
 
-### Yojou Sprunki Mustardに一体何が起こったの？
+Ready to welcome a bizarre baptism of color and sound? Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki world, with all characters being eroded by a mysterious "mustard sauce," creating a musical experience that's both chaotic and fun.
+### Yojou Sprunki Mustardの紹介
 
-Brudがあの神秘的な「マスタードソース」を発見して以来、すべてが変わりました！すべてのキャラクターは黄色がかったバージョンに変身し、ユニークなサウンドエフェクトとFNFにインスパイアされたマニアックなボイスを装備し、おなじみのメロディーは奇妙に面白くなりました。
+Yojou Sprunki Mustardは、マスタードテーマを持つユニークなSprunkiModです。特別なキャラクターとサウンドで音楽を作成しましょう。
 
-### Yojou Sprunki Mustardのコアゲームプレイ：
+### 主な特徴
 
-- **マスタードアバターを選ぶ：** マスタードに変身したキャラクターから選択します。それぞれがユニークなサウンドとエフェクトを持っています。
-- **マニアックな音楽をミックス：** 異なる黄色がかったキャラクターをミックスして、ユニークな音楽の組み合わせを作ります。洗脳される準備はできていますか？
-- **隠された秘密を探索：** ノーマルモードとホラーモードの両方で、特別なサウンドエフェクトとキャラクターのインタラクションを発見して、より多くのサプライズをアンロックします。
+ - **マスタードテーマ：** ユニークなマスタードカラーのキャラクター
+ - **特別なサウンド：** オリジナルのサウンドエフェクト
+ - **創造的制作：** 独自の音楽を作成
+ - **Sprunkiスタイル：** クラシックなSprunkiゲームプレイ
 
-### Yojou Sprunki Mustard Modのハイライトは？
+### ゲームプレイ
 
-- **マスタードテーマのキャラクター：** ゲーム内のすべてのキャラクターは、モノクロのマスタードイエローの配色で再デザインされ、不気味でまとまりのある美学をゲームに追加しています。
-- **ねじれたインターフェース：** ゲームのインターフェースもマスタードの色調に包まれ、風変わりでありながら不気味に感じるシュールで強烈な雰囲気を作り出しています。
-- **新しいホラー要素：** このModは不安にさせる雰囲気を導入し、プレイヤーにユニークなサウンドを実験し、新しい不気味なバイブを受け入れることを奨励します。
+ - マスタードテーマのキャラクターを選択
+ - サウンドをミックスして音楽を作成
+ - ユニークなコンビネーション を発見
 
-### Yojou Sprunki Mustard（Sprunkstard）の遊び方：
+### How to Play Yojou Sprunki Mustard (Sprunkstard):
+ - 創造性を楽しむ
 
-**マスタードテーマのキャラクターを選ぶ：**
-- 各キャラクターは、ビート、メロディー、ボーカル、特殊効果などのユニークなサウンド要素を表しています。
-- キャラクターはマスタードの配色に合わせてスタイリングされ、没入感のある体験を向上させます。
+Yojou Sprunki Mustardで、特別な音楽体験を楽しみましょう！
 
-**サウンドをドラッグ＆ドロップ：**
-- キャラクターをメインの作曲エリアにドラッグして、トラックにサウンドを追加します。
-- 異なるサウンドをレイヤーして、自分だけのユニークな音楽作品を作成します。
 
-**ホラー要素を実験：**
-- 異なるキャラクターのサウンドをミックスして、新しい不気味な組み合わせを発見します。
-- 特定のアレンジメントは隠されたアニメーションをトリガーし、不気味なテーマに深みを加えることがあります。
+Join the bizarre world of Yojou Sprunki Mustard and let your music creation be infected with this magical yellow color!
 
-**音楽を作成して共有：**
-- 作曲に満足したら、友達やオンラインコミュニティと共有します。
-- インスピレーションのために他のプレイヤーの作品を探索します。
+- **Unleash Creativity:** Experiment with unique sounds and visuals to craft compositions that reflect your personal style.
 
-### なぜYojou Sprunki Mustard Modをプレイするの？
+- **Suitable for All Players:** Whether you're a long-time fan of Sprunki or a newbie, this Mod provides a uniquely engaging music creation experience.
 
-- **新鮮なIncredbox：** 新しい視点を提供し、プレイヤーに異なるクリエイティブな道を探索することを挑戦します。
-- **すべてのプレイヤーに適しています：** Sprunkiの長年のファンでも初心者でも、このModはユニークに魅力的な音楽制作体験を提供します。
-- **創造性を解き放つ：** ユニークなサウンドとビジュアルを実験して、あなたの個人的なスタイルを反映した作曲を作りましょう。
 
-Yojou Sprunki Mustardの奇妙な世界に参加して、あなたの音楽制作をこの魔法の黄色に感染させましょう！
+**Drag and Drop Sounds:**
+- **A Refreshing Incredibox:** Offers a new perspective and challenges players to explore different creative avenues.
+
+
+- Explore other players' creations for inspiration.
+
+- Once you're satisfied with your composition, share it with friends or the online community.
+
+**Create and Share Your Music:**
+
+- Certain arrangements may trigger hidden animations, adding depth to the haunting theme.
+
+- Mix different character sounds to uncover new, spooky combinations.
+
+**Experiment with Horror Elements:**
+
+- Layer different sounds to create your own unique musical composition.
+
+- Explore other players' creations for inspiration.
+### Why Play Yojou Sprunki Mustard Mod?
+
+- Explore other players' creations for inspiration.
+
+- Once you're satisfied with your composition, share it with friends or the online community.
+
+**Create and Share Your Music:**
+
+- Certain arrangements may trigger hidden animations, adding depth to the haunting theme.
+
+- Mix different character sounds to uncover new, spooky combinations.
+
+**Experiment with Horror Elements:**
+
+- Layer different sounds to create your own unique musical composition.
+
+- Drag characters into the main composition area to add their sounds to your track.
+
+**Drag and Drop Sounds:**
+
+- The characters are stylized to match the mustard color scheme, enhancing the immersive experience.
+
+- Each character represents a unique sound element, such as beats, melodies, vocals, or special effects.

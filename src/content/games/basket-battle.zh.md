@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: basket-battle
-title: '[ZH TRANSLATION NEEDED] Basket Battle'
-description: >-
-  [ZH TRANSLATION NEEDED] Basket Battle is a physics basketball duel — aim arcs,
-  box out, and outscore in quick bouts.
+title: Basket Battle 篮筐对决
+description: 《Basket Battle（篮筐对决）》是一款偏物理效果的街机篮球小游戏，通过控制出手弧线和抢篮板，在短局对抗中比对手先得到更多得分。
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/basket-battle.png
 tags:
@@ -15,26 +13,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Basket Battle is a snappy, physics‑leaning basketball mini‑game. Line up arcs, control timing, and manage rebounds to edge opponents in short, hectic rounds.
+*Basket Battle（篮筐对决）* 是一款节奏很快的物理篮球对战小游戏。你需要在小小的球场上和对手轮流起跳出手，通过控制投篮弧线、抢占篮板位置，在有限时间/回合内比对手拿到更多分数。
 
-### Gameplay Strategy & Walkthrough
+游戏的手感略带“布偶物理”风格，投篮时篮球会真实地受弧线和力度影响，砸框、弹筐、掉进圈里或被对手抢到二次进攻，都会让局面充满随机性和趣味性。
 
-1.  Arc aiming: Higher arcs drop softer and score more consistently.
-2.  Rebounds: Box out after shots to secure second‑chance points.
-3.  Tempo: Shoot quickly off rebounds before defense resets.
-4.  Shot selection: Avoid flat drives from deep; step in for better odds.
-5.  Mind wind (if any): Offset aim when wind appears.
+### 游戏策略与攻略
 
-### Controls Guide
+1.  **投高弧线，比平射更稳定：**  
+   尽量让出手弧线稍高一些，这样篮球下落角度更接近垂直，更容易“干净入网”，也不容易被篮筐弹出。
 
-- Aim/Power: Drag to aim, release to shoot.
-- Move/Jump (if available) via arrows/buttons.
+2.  **重视篮板球：**  
+   投完之后立刻准备抢篮板：
+   - 观察球的落点，提前移动到篮筐附近；
+   - 用身体卡位，把对手挤在身后，抢到二次出手机会。
 
-### Frequently Asked Questions (FAQ)
+3.  **节奏要快，但不能瞎投：**  
+   - 进攻节奏快可以趁对手还没完全站好就完成出手；
+   - 但也不要为了快而乱扔，宁可多瞄半拍，把弧线和力度控制在八成把握以上。
 
-- Shots rim out—why? Too flat or over‑powered; raise arc and reduce power.
-- Can I dunk? Depends on mode; close‑range jumps may allow it.
-- Multiplayer? Often local head‑to‑head.
+4.  **选择好的出手点：**  
+   - 离篮筐太远且弧线过平，命中率会明显下降；
+   - 可以适当向篮筐靠近半步再出手，换取更高命中率，特别是在比分胶着的时候。
 
+5.  **注意风向（如果版本支持风）：**  
+   某些版本会加入风力设定，如果你发现球在空中被明显吹偏，需要在瞄准时提前向逆风方向略微修正出手角度。
+
+### 操作指南
+
+- **瞄准与力度：** 按住并拖动手指/鼠标来调整投篮方向和力度，松开即可出手。
+- **移动/跳跃（如果有）：** 通过屏幕上的虚拟按键或方向键控制人物移动和起跳，具体以当前版本 UI 为准。
+
+### 常见问题解答（FAQ）
+*   **问：为什么球老是打铁弹出？****
+    *   答：** 通常是弧线太平或力度过大。尝试提高出手弧度、略微减小力量，让球以更柔和的抛物线落向篮筐。
+*   **问：能不能扣篮？****
+    *   答：** 取决于具体模式和物理设定，有的版本在距离足够近、起跳时机会允许近距离“灌框”效果。
+*   **问：有多人对战吗？****
+    *   答：** 大多数版本支持本地双人或轮流对战，你可以和身边的朋友在同一设备上进行比分较量。

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: chess-classic
-title: '[DE] Chess Classic'
+title: "Chess Classic"
 description: >-
-  [DE] Enjoy the classic game of chess with Chess Classic. Play against the
-  computer at different difficulty levels and improve your skills.
+  Genieße das klassische Schach in Chess Classic. Spiele gegen den Computer in
+  verschiedenen Schwierigkeitsstufen und verbessere Schritt für Schritt dein
+  Können.
 iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
 thumbnail: /new-images/chess-classic.png
 tags:
@@ -16,34 +17,58 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Chess Classic* bringt das zeitlose Schach-Erlebnis direkt in deinen Browser.
+Ob Einsteiger oder fortgeschrittener Spieler – du kannst dein Können gegen eine
+KI mit einstellbaren Schwierigkeitsgraden testen. Gespielt wird nach den
+international üblichen Schachregeln – eine ideale Umgebung, um Mattbilder zu
+lernen, Eröffnungen zu üben und Endspiele zu trainieren.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Chess Classic offers the timeless strategy board game experience directly in your browser. Whether you are a beginner or a seasoned player, you can test your skills against a computer opponent with adjustable difficulty levels. The game follows the standard international rules of chess, providing a perfect platform to learn, practice, and master the art of the checkmate.
+1.  Zentrum kontrollieren: In der Eröffnung solltest du mit Bauern und Figuren
+    das Zentrum (z. B. Felder wie e4, d4, e5, d5) besetzen oder angreifen.
+    Figuren im Zentrum wirken auf mehr Felder und sind meist stärker.
+2.  Figuren entwickeln: Bringe Springer und Läufer früh ins Spiel und vermeide
+    es, dieselbe Figur mehrmals hintereinander zu ziehen, sofern es nicht nötig
+    ist. Eine gute Faustregel: Jeder Zug in der Eröffnung sollte eine neue
+    Figur aktivieren oder die Königssicherheit verbessern.
+3.  Königssicherheit: Rochiere früh, um deinen König hinter einer Bauernmauer in
+    Sicherheit zu bringen und gleichzeitig einen Turm in Richtung Zentrum zu
+    entwickeln.
+4.  Vor jedem Zug nachdenken: Prüfe immer zuerst, was der letzte Zug deines
+    Gegners droht. Frage dich: "Was greift er an?" und "Was würde ich an seiner
+    Stelle jetzt tun?".
+5.  Figurenwerte kennen: Kenne die ungefähren Wertigkeiten (Bauer=1, Springer=3,
+    Läufer=3, Turm=5, Dame=9). So kannst du besser einschätzen, ob ein Tausch
+    günstig oder ungünstig ist.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Control the Center:** In the opening, use your pawns and pieces to exert control over the central squares (e4, d4, e5, d5). Pieces in the center have more mobility and influence over the game.
-2.  **[DE]** **Develop Your Pieces:** Move your knights and bishops off the back rank early in the game. A good rule of thumb is to move a piece to a better square in each of the first few moves. Try not to move the same piece twice in the opening.
-3.  **[DE]** **King Safety:** One of the most important principles. Castle your king to safety early on. This move tucks your king away behind a wall of pawns and develops one of your rooks.
-4.  **[DE]** **Think Before You Move:** Always check for your opponent's threats before making a move. Ask yourself what your opponent's last move accomplished and what they might do next.
-5.  **[DE]** **Know Piece Values:** Understand the relative value of the pieces (Pawn=1, Knight=3, Bishop=3, Rook=5, Queen=9). This will help you make good trades and avoid blunders.
+*   Figur wählen: Klicke auf eine Figur, um sie auszuwählen. Gültige Züge
+    werden in der Regel farblich markiert.
+*   Zug ausführen: Klicke auf ein markiertes Feld, um die Figur dorthin zu
+    ziehen.
+*   Optionen: Über das In-Game-Menü kannst du die Schwierigkeit wählen, Züge
+    zurücknehmen oder eine neue Partie starten.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Piece Selection:** Click on a piece to select it. Possible moves will be highlighted on the board.
-*   **[DE]** **Move Piece:** Click on one of the highlighted squares to move your selected piece to that location.
-*   **[DE]** **Game Options:** Use the in-game menu to select the difficulty level, undo a move, or start a new game.
+*   F: Was ist das Ziel beim Schach?
+    *   A: Ziel ist es, den gegnerischen König schachmatt zu setzen – also ihn
+        so anzugreifen, dass er im Schach steht und keinen legalen Zug mehr hat,
+        um dem Schach zu entkommen.
 
-### Frequently Asked Questions (FAQ)
+*   F: Was ist die Rochade?
+    *   A: Die Rochade ist ein Sonderzug, bei dem sich König und Turm
+        gleichzeitig bewegen: Der König zieht zwei Felder Richtung Turm, dieser
+        springt auf das Feld neben den König. Voraussetzung: Keine Figur steht
+        zwischen den beiden, keiner der beiden ist zuvor gezogen, und der König
+        steht weder im Schach noch zieht er durch ein angegriffenes Feld.
 
-*   **[DE]** **Q: What is the goal of chess?**
-    *   **[DE]** **A:** The ultimate goal is to checkmate your opponent's king. This means the king is in a position to be captured (in "check") and cannot escape capture.
-
-*   **[DE]** **Q: What is castling?**
-    *   **[DE]** **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.
-
-*   **[DE]** **Q: What happens if no one can win?**
-    *   **[DE]** **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.
-
+*   F: Wie endet eine Partie remis?
+    *   A: Es gibt mehrere Wege zum Remis – z. B. Patt (kein legaler Zug, aber
+        König nicht im Schach), dreifache Stellungswiederholung, unzureichendes
+        Material zum Mattsetzen oder wenn beide Spieler sich auf ein Unentschieden
+        einigen.

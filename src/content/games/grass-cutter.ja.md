@@ -1,43 +1,36 @@
 ---
+title: "Grass Cutter"
+description: "グリッドパズル：限られた手数で全てのタイルを一度だけ刈り、障害物を避け、芝生を完璧にクリアするためのルートを計画しましょう。"
+iframeSrc: "https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/"
+thumbnail: "/new-images/grass-cutter.jpg"
+urlstr: "grass-cutter"
+score: "4.5/5  (1065 votes)"
+tags: ["puzzle", "logic"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: grass-cutter
-title: '[JA TRANSLATION NEEDED] Grass Cutter'
-description: >-
-  [JA TRANSLATION NEEDED] Grid puzzler: mow every tile exactly once with limited
-  moves, avoid obstacles, and plan routes to clear the lawn perfectly.
-iframeSrc: >-
-  https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
-thumbnail: /new-images/grass-cutter.jpg
-tags:
-  - puzzle
-  - logic
-score: 4.5/5  (1065 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Grass Cutterは、芝刈り機が1マスずつ、あるいはブロックされるまで一直線に進む（ホストによる）ルート計画パズルです。目的は、岩、水、一方通行タイルなどがルートを複雑にする中で、行き詰まることなく全ての芝生タイルを刈ることです。後のステージでは、スイッチやテレポートも追加されます。
 
+### 遊び方
+- グリッドを見渡し、一度しか通れないチョークポイント（要所）を特定しましょう。
+- ブロッカーを使って、適切なマスで長いスライドを止めましょう（スライド移動ルールの場合）。
+- 残りのタイルをカバーできるように、戻る道を空けておきましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Grass Cutter is a route‑planning puzzle where a mower moves cell‑by‑cell or in straight lines until blocked (host dependent). The goal is to cut all grassy tiles without getting stuck, while rocks, water, and one‑way tiles complicate routes. Later stages add switches and teleporters.
+### 操作方法
+- 矢印キーまたはスワイプで移動。元に戻す（アンドゥ）/リスタートボタンが一般的です。
 
-### How to Play
-- Survey the grid; identify choke points you must pass once.
-- Use blockers to stop long slides at the right cells (if sliding rules apply).
-- Leave return paths open so you can cover remaining tiles.
+### ヒント
+- 到達しにくい角から逆算して考えましょう。
+- スライドする場合は、目標のタイルで止まるように「ストッパー」を用意しましょう。
+- ルートが未処理のタイルを塞いでしまったら、早めにリスタートしましょう。
 
-### Controls
-- Arrow keys or swipe to move; undo/restart buttons are common.
-
-### Tips
-- Work backward from hard‑to‑reach corners.
-- If you slide, set up “stoppers” to end on target tiles.
-- Restart early when a route seals off uncut tiles.
-
-### FAQ
-- Q: What ends a level unsuccessfully?  
-[JA TRANSLATION NEEDED]   A: Leaving uncut tiles with no legal path or running out of moves (in move‑limited variants).
-- Q: Are there hints in the game?  
-[JA TRANSLATION NEEDED]   A: Many hosts provide limited hints or an undo stack.
-- Q: Do all versions use sliding movement?  
-[JA TRANSLATION NEEDED]   A: Some do, others are step‑based—check the rules on your host.
-
+### よくある質問 (FAQ)
+- **Q: どのような場合に失敗になりますか？**  
+  A: 有効なパスがなく刈り残しがある場合、または手数が尽きた場合（手数制限のあるバリエーションにおいて）です。
+- **Q: ヒントはありますか？**  
+  A: 多くのホスト版では、限られたヒントやアンドゥ機能が提供されています。
+- **Q: すべてのバージョンでスライド移動しますか？**  
+  A: するものもあれば、1歩ずつ進むものもあります。ホスト版のルールを確認してください。

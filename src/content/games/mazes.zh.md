@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: mazes
-title: '[ZH TRANSLATION NEEDED] Mazes'
+title: "《Mazes》经典迷宫闯关合集"
 description: >-
-  [ZH TRANSLATION NEEDED] Mazes delivers classic labyrinth runs — draw optimal
-  paths, dodge traps, and beat par times with clean routing.
+  《Mazes》是一款经典迷宫闯关游戏，包含从简单网格到机关重重的多种关卡，你需要规划最优路径，躲开陷阱，并在限定时间内冲向终点。
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/mazes.jpg
 tags:
@@ -16,32 +15,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. The challenge is route planning: finding shortest safe paths, avoiding trap tiles, and hitting switches to open gates while staying under par times.
+《Mazes》收录了多种风格的迷宫关卡，从结构规整的基础网格，到布满陷阱与机关的复杂路线一应俱全。真正的挑战不在于“能不能走到终点”，而在于你能否规划出既安全又高效的路线：在避开陷阱地块的同时，合理踩下各种开关，打开大门或桥梁，并在系统给出的参考时间内完成冲关。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Right/left‑hand rules: Use wall‑following on simply connected mazes; abandon on multi‑loops.
-2.  [ZH TRANSLATION NEEDED] Shortcut scouting: Zoom to spot door/switch pairs and plan a single sweep.
-3.  [ZH TRANSLATION NEEDED] Trap memory: Mark dangerous tiles mentally to avoid repeat hits.
-4.  [ZH TRANSLATION NEEDED] Time splits: Don’t chase a perfect line first; secure a finish, then optimize.
-5.  [ZH TRANSLATION NEEDED] Safe corridors: Favor wide lanes when precision is shaky.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **左右手贴墙法：** 在结构单一、没有大量环路的迷宫里，可以尝试“贴墙走”——一路顺着左手或右手边的墙前进，通常能保证最终找到出口；一旦遇到大量回环或多层回路，就需要灵活调整策略。
+2.  **提前侦察捷径：** 如果视角允许，先观察大门与开关的位置关系，尝试规划一条能够“一圈走完所有关键点”的路线，减少反复来回。
+3.  **记忆陷阱：** 记住曾经踩中过的陷阱位置，下次绕行；可以用路口形状、附近装饰等作为记忆锚点，避免在同一块危险区域连续失误。
+4.  **分段优化时间：** 第一遍通关不必追求最短路径，先保证完整走通一遍，熟悉机关位置；之后再针对关键路段微调走位和转弯，从而逐步压缩总用时。
+5.  **优先选择安全通道：** 在操作精度不足或设备不太灵敏时，优先走宽阔的通道和转角更平滑的路线，比“抄近路但容易失误”的路径更稳妥。
 
-- Drag or WASD to move; restart/undo if supported.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 使用拖拽或 WASD/方向键控制移动；若支持，可以使用撤销或快速重开功能，在出现严重失误时迅速回到起点重新规划路线。
 
-- Q: I keep missing switches.
+### 常见问题（FAQ）
+
+- **问：总是错过某些开关怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Route past every key junction; add a small detour rather than backtracking later.
+  **答：** 在规划路线时刻意路过每一个关键岔路口，宁愿提前绕一小圈，也不要在发现门没开时再从远处回头，大幅增加时间成本。
 
-- Q: Are traps random?
+- **问：陷阱是随机出现的吗？**
   
-[ZH TRANSLATION NEEDED]   A: Usually fixed; learn their positions.
+  **答：** 大多数关卡中的陷阱都具有固定位置和触发方式，多玩几次就能记住它们的分布，从而在下一轮直接绕开。
 
-- Q: Any speedrun tip?
+- **问：有什么冲刺用时的技巧？**
   
-[ZH TRANSLATION NEEDED]   A: Hug inner walls on bends and cut diagonals where allowed.
-
+  **答：** 在允许斜向移动或走“对角线”的关卡中，尽量贴着内侧墙角转弯；在直线段上保持路径居中，可以减少微调次数，让整体移动更顺畅自然。

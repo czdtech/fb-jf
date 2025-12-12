@@ -1,43 +1,47 @@
 ---
 locale: zh
 urlstr: super-brick-builder
-title: '[ZH TRANSLATION NEEDED] Super Brick Builder'
-description: >-
-  [ZH TRANSLATION NEEDED] Super Brick Builder is a satisfying block‑stack — lay
-  bricks cleanly, plan supports, and complete structures with minimal waste.
-iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
+title: 《Super Brick Builder》超级砖块建造者
+description: 《Super Brick Builder》是一款休闲建造向的方块堆叠游戏。通过拖放和旋转各类砖块，搭建稳定的结构或完成指定造型目标。
+iframeSrc: 'https://superbrickbuilder.h5games.usercontent.goog/v/3h8s9d2k1lp80/'
 thumbnail: /new-images/super-brick-builder.png
 tags:
   - puzzle
-  - thinky
+  - building
   - casual
-score: 4.0/5  (1873 votes)
+score: 3.9/5  (1500 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Super Brick Builder plays like a physics‑aware stacking puzzle: place bricks to complete silhouettes without collapse. Clean placement and support planning beat aggressive fills.
+《Super Brick Builder》主打轻松的“搭积木”体验。游戏会提供各种形状、大小不同的砖块，你需要在给定区域内合理堆叠、拼接这些方块，以达到指定高度、形状或稳定性要求。有些关卡会考验你对重心和平衡的理解，有些则更偏向于几何拼图。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Foundation first: Build symmetrical bases before rising.
-2.  [ZH TRANSLATION NEEDED] Overhang control: Avoid long overhangs without counter‑weights.
-3.  [ZH TRANSLATION NEEDED] Fit pieces: Use smaller bricks to plug stress gaps.
-4.  [ZH TRANSLATION NEEDED] Pace: Slow down on top layers to avoid nudges.
-5.  [ZH TRANSLATION NEEDED] Retry: Quick resets help iterate designs.
+### 游玩策略与建造指引
 
-### Controls Guide
+1.  **先搭稳定底座：** 无论目标是多高或多复杂的结构，坚实平稳的底部基础都非常关键，避免上层刚搭好，下层就塌。
+2.  **考虑重心与接触面：** 尽量让较重或较大的砖块处在结构的下层，并增加每块砖与其他砖块的接触面积，以提高整体稳固性。
+3.  **提前观察所有可用砖块：** 在摆第一块之前，先看一眼本关所有可用砖块形状，心里有个大致布局，减少后期拆掉重来。
+4.  **善用旋转与镜像：** 有些难对付的缺口，可以通过旋转甚至镜像摆放某个砖块来完美填充。
 
-- Drag/rotate bricks; place to lock; restart via UI.
 
-### Frequently Asked Questions (FAQ)
+- Retry: Quick resets help iterate designs.
+### 操作说明
+
+*   **放置砖块：** 拖动砖块到目标位置，松手即可放置；
+*   **旋转：** 使用旋转按钮或键盘快捷键调整砖块方向；
+*   **撤销 / 重置：** 如摆放失误，可使用撤销或关卡重置功能重新布局。
+
+### 常见问题解答（FAQ）
+
 
 - Q: Structures topple.
-  
-[ZH TRANSLATION NEEDED]   A: Strengthen bases and reduce overhangs.
+**问：结构总是轻易倒塌怎么办？****
 
 - Q: Run out of fitting pieces.
-  
-[ZH TRANSLATION NEEDED]   A: Save small bricks for top‑layer adjustments.
+答：** 检查是否存在“悬空”太多或重心偏移严重的部分，尝试增加支撑层或重新分配上下位置。
+
+**问：是否有沙盒模式？****
+答：** 若版本提供沙盒/自由建造模式，你可以不受关卡目标限制，随意搭建自己喜欢的结构。
 

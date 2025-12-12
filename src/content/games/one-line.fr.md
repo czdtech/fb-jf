@@ -1,50 +1,58 @@
 ---
 locale: fr
 urlstr: one-line
-title: '[FR] One Line'
+title: One Line
 description: >-
-  [FR] One Line is a minimalistic puzzle game where players draw a single
-  continuous line to connect all given points on the board without lifting their
-  finger or retracing any path.
-iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
+  One Line est un jeu de réflexion minimaliste où tu dois relier tous les points
+  d’une figure avec un seul trait continu, sans lever le stylo.
+iframeSrc: 'https://1lin.h5games.usercontent.goog/v/6f1fc4c4-c24e-4d1d-83ca-863f3990f0f7/'
 thumbnail: /new-images/one-line.jpg
 tags:
   - puzzle
-  - logic
-  - minimalist
-score: 3.9/5  (549 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - thinky
+score: 4.0/5  (1721 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+One Line reprend le principe du dessin d’un seul trait : chaque niveau présente une figure géométrique faite de segments et de points d’intersection. Ton but est de tracer la figure entière en un mouvement continu, sans repasser deux fois sur le même segment. C’est simple à comprendre, mais les figures compliquées demandent une vraie gymnastique mentale.
+
+### Stratégies de jeu et progression
+
+1.  **Analyser la figure :** repère les points très connectés et ceux qui semblent « en bout de chaîne ».  
+2.  **Tester différents points de départ :** si tu échoues toujours au même endroit, change de point de départ ; cela peut ouvrir de nouvelles possibilités.  
+3.  **Penser en arrière :** imagine le chemin à partir de la fin du tracé pour éviter de te piéger.  
+4.  **Apprendre les motifs classiques :** certains motifs reviennent (croix, ponts, triangles imbriqués) ; une fois compris, tu les résoudras beaucoup plus vite.
+
+
+- **Practice More**: Practice makes perfect; through extensive practice, you will gradually grasp the tricks and patterns for solving.
+### Commandes
+
+- Appuie sur un point pour commencer à tracer, puis glisse le curseur ou le doigt le long des segments jusqu’à couvrir la figure. Utilise le bouton de reset pour recommencer.
+
+
+- **Reset Level**: If you make a mistake or get stuck, you can click the reset button to restart the current level.
+
+- **Connect Points**: Ensure each move connects to a new, unvisited point.
+### Foire aux questions (FAQ)
+
+- **Q : Le jeu impose‑t‑il un temps limite ?**  
+  **R :** La plupart des niveaux ne sont pas chronométrés ; tu peux réfléchir à ton rythme.
+
+- **Q : Puis‑je revenir en arrière ?**  
+  **R :** Certaines versions permettent d’annuler le dernier segment, d’autres exigent un reset complet.
 
 
 
+**A**: Yes, this game helps develop children's logical thinking and problem-solving skills, suitable for players of all ages.
 
-### Game Introduction
+- **Q: Is this game suitable for children?**
 
-"One Line" is a minimalist puzzle game. Players' task is to draw a single continuous line to connect all given points on the board without lifting their finger or retracing any path. The game aims to train players' logical thinking and spatial perception, with difficulty gradually increasing as levels progress.
-
-### Gameplay Strategy
-
-1.  **[FR]** **Observe Paths**: Before starting to draw, carefully observe all points and their potential connections to plan the optimal path.
-2.  **[FR]** **Find Starting Point**: Try starting from different points; sometimes a specific starting point can make solving the puzzle easier.
-3.  **[FR]** **Avoid Dead Ends**: In some cases, if a point has only one exit, it often means that path must be taken.
-4.  **[FR]** **Utilize Symmetry**: If the board has a symmetrical structure, try to use this symmetry to aid in solving.
-5.  **[FR]** **Practice More**: Practice makes perfect; through extensive practice, you will gradually grasp the tricks and patterns for solving.
-
-### How to Play
-
-*   **[FR]** **Start Drawing**: Click any point as the starting point, then drag the mouse or finger (on touch devices) to connect to the next point.
-*   **[FR]** **Connect Points**: Ensure each move connects to a new, unvisited point.
-*   **[FR]** **Reset Level**: If you make a mistake or get stuck, you can click the reset button to restart the current level.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: What is the objective of the game?**
-**A**: The objective is to connect all points on the board with a single continuous line, without retracing any path.
-2.  **[FR]** **Q: Are there any hints if I get stuck?**
-**A**: Some game versions may offer a hint feature to help players find the next correct move.
-3.  **[FR]** **Q: How many levels does the game have?**
 **A**: It usually contains hundreds or even thousands of levels, gradually increasing in challenge from simple to complex.
-4.  **[FR]** **Q: Is this game suitable for children?**
+
+- **Q: How many levels does the game have?**
+
+
 **A**: Yes, this game helps develop children's logical thinking and problem-solving skills, suitable for players of all ages.

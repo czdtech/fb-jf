@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 8x8-match-tiles
-title: '[KO] 8x8 Match Tiles'
+title: '8x8 Match Tiles 8x8 매치 타일'
 description: >-
-  [KO] 8x8 Match Tiles is a clean tile matcher — pair identical tiles, clear
-  boards, and plan around limited space.
+  8x8 Match Tiles는 8x8 보드에서 같은 타일을 짝지어 없애는 퍼즐 게임입니다.
+  제한된 공간을 관리하며 보드를 정리해 보세요.
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
 thumbnail: /new-images/8x8-match-tiles.jpg
 tags:
@@ -14,29 +14,45 @@ score: 3.9/5  (1716 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+8x8 Match Tiles는 8×8 격자 위에서 같은 그림 타일을 짝지어 제거하는 깔끔한
+매칭 퍼즐입니다. 제한된 이동 수나 시간 안에서 타일 쌍을 찾아 없애고, 남은
+공간을 효율적으로 관리해 막히지 않게 만드는 것이 핵심입니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **통로를 먼저 열어 두기:** 깊숙이 있는 타일이 보이도록, 가운데나 주요
+    통로에 있는 타일부터 정리해 안쪽 타일을 드러내세요.
+2.  **희귀 타일을 우선 제거:** 같은 모양이 적게 보이는 타일은 나중에 짝을
+    찾기 어려워 보드를 막히게 만들 수 있으니 가능한 한 먼저 처리하는 것이
+    좋습니다.
+3.  **아래쪽에서부터 연쇄 제거:** 아래쪽 줄을 위주로 지워 나가면 위에 있던
+    타일이 내려오면서 새로운 매치가 생겨, 한 번의 선택으로 더 많은 타일을
+    정리할 수 있습니다.
+4.  **코너에 외톨이 타일 만들지 않기:** 모서리 근처에 짝이 없는 타일만
+    덩그러니 남으면 정리하기 매우 어렵습니다. 모서리는 되도록 짝이 잘 보이는
+    타일부터 골고루 없애 주세요.
+5.  **힌트는 막힐 때만 사용:** 힌트 기능이 있다면 정말 더 이상 수가 보이지
+    않을 때만 사용하는 것이 좋습니다. 너무 자주 쓰면 난이도가 급격히 낮아집니다.
 
-8x8 Match Tiles is a tidy pairing puzzle on an 8×8 grid. Match identical tiles under move or time constraints, manage board space, and avoid trapping unmatchable singles.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 마우스 클릭/터치로 같은 그림의 짝을 선택해 제거합니다. 모드에 따라 연결
+  방식이나 규칙이 조금씩 달라질 수 있습니다.
+- 일부 버전에서는 실행 취소나 초기화 기능을 지원하기도 합니다.
 
-1.  **[KO]** Open lanes: Keep paths clear to expose deeper tiles.
-2.  **[KO]** Prioritize scarce tiles before they clog the board.
-3.  **[KO]** Chain clears from the bottom to trigger reveals.
-4.  **[KO]** Avoid isolating singles near corners.
-5.  **[KO]** Use hints sparingly if available.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **더 이상 둘 수 있는 수가 안 보여요. 어떻게 하나요?**  
+  제공되는 섞기(Shuffle)나 힌트 기능이 있다면 사용해 보시고, 없다면 이번
+  판을 다시 시작해 다른 초반 배치를 시도해 보는 것이 좋습니다.
 
-- Select pairs via click/tap following mode rules.
-- Undo/Reset if included.
+- **시간 제한인가요, 이동 제한인가요?**  
+  버전에 따라 다릅니다. 어떤 모드는 제한 시간 안에 최대한 많은 타일을
+  지우는 방식이고, 어떤 모드는 제한된 이동 수 안에서 보드를 비우는 방식이니
+  시작 전 규칙을 확인하세요.
 
-### Frequently Asked Questions (FAQ)
-
-- No moves left—restart? Often yes; plan openings differently.
-- Timed or moves? Modes vary; play accordingly.
-- Shuffle? Some versions offer shuffles; save for emergencies.
-
+- **섞기 기능이 있는데 언제 쓰는 게 좋나요?**  
+  섞기는 막다른 상황을 풀어 주는 강력한 수단입니다. 초반보다는 거의 더 이상
+  수가 보이지 않을 때, 마지막 보험처럼 사용하는 편이 좋습니다.

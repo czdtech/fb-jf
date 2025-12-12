@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: ludo-legend
-title: '[KO] Ludo Legend'
+title: Ludo Legend 루도 레전드
 description: >-
-  [KO] Become a Ludo Legend in this classic board game. Roll the dice, move your
-  tokens, and race to the center of the board before your opponents.
+  Ludo Legend는 고전 보드게임 루도를 디지털로 옮긴 작품으로, 주사위를 굴려 말을 움직이고 상대보다 먼저 네 개의 말을 중앙 홈까지
+  보내 전설적인 승자가 되는 것을 목표로 합니다.
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/ludo-legend.png
 tags:
@@ -17,33 +17,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Ludo Legend*는 많은 이들에게 사랑받는 고전 보드게임 루도를 멋지게 재현한 디지털
+버전입니다. 각 플레이어는 네 개의 말을 가지고 시작 구역에서 보드 전체를 한 바퀴 돈 뒤,
+자신의 색 홈 칼럼과 최종 홈 삼각형까지 모두 이동시키는 것을 목표로 합니다. 컴퓨터
+상대와 대전하며 주사위를 굴리고, 상대 말을 잡아 다시 시작 지점으로 돌려보내는 전략을
+섞어 사용해 누구보다 먼저 모든 말을 집에 들여보내면 진정한 루도 레전드가 됩니다.
 
-### Detailed Game Introduction
+### 공략 & 플레이 팁
 
-Ludo Legend is a fantastic digital version of the beloved classic board game, Ludo. The game is a race to the finish! Each player has four tokens and the goal is to get all of them from the starting yard, around the entire board, and into the home column. Play against computer opponents, roll the dice, and use strategy to capture your opponents' tokens and send them back to the start. Become a Ludo Legend by being the first to get all your tokens home!
+1. **시작 구역에서 나오기:** 보통 6이 나와야 시작 구역의 말을 보드 위로 꺼낼 수
+   있습니다. 가능한 빨리 최소 한 개 이상의 말을 필드에 내보내 두는 것이 중요합니다.
+2. **전략적 이동:** 말이 여러 개 올라온 뒤에는 주사위 눈에 따라 어떤 말을 움직일지
+   선택할 수 있습니다. 여러 말을 동시에 운용하면 선택지가 늘어나고 위험 분산에도
+   도움이 됩니다.
+3. **상대 말 잡기:** 상대 말이 한 개만 서 있는 칸에 정확히 도착하면 그 말을 잡아
+   다시 상대의 시작 구역으로 돌려보낼 수 있습니다. 이는 상대 진척도를 크게 되돌리는
+   핵심 수단입니다.
+4. **블록으로 방어하기:** 자신의 말 두 개가 같은 칸에 서면 '블록'이 되어 상대는 그
+   칸을 통과할 수 없습니다. 잘 배치된 블록은 주요 통로를 완전히 막는 강력한 방어
+   전략이 됩니다.
+5. **마지막 홈 구간:** 승리하려면 네 개의 말을 모두 자신의 색 홈 칼럼에 진입시킨 뒤,
+   최종 홈 삼각형까지 이동시켜야 합니다. 마지막 칸에 들어갈 때는 정확히 맞는 주사위
+   눈이 필요하다는 점을 기억하세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Getting Out of the Yard:** You must roll a six to move a token from your starting yard onto the game board. Prioritize getting at least one token into play as soon as possible.
-2.  **[KO]** **Strategic Movement:** Once you have tokens on the board, you can choose which one to move based on your dice roll. It's often wise to have multiple tokens in play to give you more options.
-3.  **[KO]** **Capturing Opponents:** If you land on a square occupied by a single opponent's token, you capture it and send it back to their yard. This is a key way to set back your competition.
-4.  **[KO]** **Safety in Numbers:** Landing two of your own tokens on the same space creates a block. Opponents cannot pass a block, making it a powerful defensive strategy.
-5.  **[KO]** **The Home Stretch:** To win, you must move all four of your tokens into your colored home column and then into the final home triangle. You need an exact dice roll to move a token into the home triangle.
+* **주사위 굴리기:** 화면의 주사위를 클릭해 눈을 굴립니다.
+* **말 이동:** 주사위를 굴린 뒤 이동 가능한 칸이 있는 말이 하이라이트되며, 이동시키고
+  싶은 말을 클릭하면 해당 칸으로 이동합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Roll Dice:** Click on the dice to roll it.
-*   **[KO]** **Move Token:** After rolling, the game will highlight your possible moves. Click on the token you wish to move.
+* **Q: Ludo의 목표는 무엇인가요?**
+    - **A:** 시작 지점에 있는 네 개의 말을 모두 보드 한 바퀴를 돌아 자신의 홈 삼각형까지
+    가장 먼저 이동시키는 것이 목표입니다.
 
-### Frequently Asked Questions (FAQ)
+* **Q: 6이 나오면 어떤 일이 생기나요?**
+    - **A:** 6이 나오면 시작 구역의 말을 필드로 꺼낼 수 있을 뿐 아니라, 대부분의 규칙에서
+    한 번 더 주사위를 굴릴 수 있는 추가 턴이 주어집니다.
 
-*   **[KO]** **Q: What is the objective of Ludo?**
-    *   **[KO]** **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.
-
-*   **[KO]** **Q: What happens when I roll a six?**
-    *   **[KO]** **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
-
-*   **[KO]** **Q: Can I pass my own tokens?**
-    *   **[KO]** **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
-
+* **Q: 내 말은 서로 지나갈 수 있나요?**
+    - **A:** 네, 자신의 말은 서로를 자유롭게 지나칠 수 있습니다. 다만 같은 칸에 말 두 개를
+    세워 블록을 만들면, 세 번째 말을 그 칸 위에 올릴 수 없다는 점에 유의하세요.

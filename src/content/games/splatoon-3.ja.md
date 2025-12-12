@@ -1,53 +1,47 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Splatoon 3"
+description: "Splatoon 3のカラフルな世界に飛び込もう！このアクション満載のシューターで、チームのインクで領域をカバーして勝利を掴もう。イカに変身してインクの中を泳ぎ、相手を待ち伏せし、武器を再装填しよう。移動とチームワークをマスターして、陣地を支配しよう。"
+iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
+thumbnail: "/new-images/splatoon-3.jpg"
+urlstr: "splatoon-3"
+score: "4.3/5  (955 votes)"
+tags: ["action", "shooting", "multiplayer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: splatoon-3
-title: '[JA TRANSLATION NEEDED] Splatoon 3'
-description: >-
-  [JA TRANSLATION NEEDED] Dive into the colorful world of Splatoon 3! In this
-  action-packed shooter, cover the territory with your team's ink to claim
-  victory. Transform into a squid to swim through your ink, ambush opponents,
-  and refill your weapon. Master movement and teamwork to dominate the turf.
-iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
-thumbnail: /new-images/splatoon-3.jpg
-tags:
-  - action
-  - shooting
-  - multiplayer
-score: 4.3/5  (955 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Splatoon 3 is a vibrant and stylish third-person shooter where the goal isn't just to defeat opponents, but to cover the map with your team's colored ink. Players control unique characters called Inklings and Octolings who can instantly switch between a humanoid "kid" form to shoot ink and a "squid" form to swim through it.
+Splatoon 3は、目標が相手を倒すだけでなく、マップをチームの色のインクで覆うことである、鮮やかでスタイリッシュなサードパーソンシューターです。プレイヤーは、インクを撃つためのヒト型「キッド」フォームと、その中を泳ぐための「イカ」フォームを瞬時に切り替えることができる、インクリングとオクトリングと呼ばれるユニークなキャラクターを操作します。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The most common game mode is Turf War, a 4v4 battle where the team that covers the highest percentage of the map with their ink in three minutes wins.
-- **Kid Form:** Use this form to run, jump, and fire your ink weapon to cover turf and "splat" opponents.
-- **Squid Form:** Dive into your own ink to become a squid. In this form, you move much faster, can swim up inked walls, and are hidden from enemies. Swimming in ink also reloads your ink tank.
-- **Teamwork:** Coordinate with your team to control key areas of the map and push back the enemy.
+最も一般的なゲームモードはTurf Warで、3分間でマップの最も高い割合を自分のインクで覆ったチームが勝つ4対4の戦いです。
+- **キッドフォーム：** このフォームを使用して、走り、ジャンプし、インク武器を発射して陣地を覆い、相手を「スプラット」します。
+- **イカフォーム：** 自分のインクに飛び込んでイカになります。このフォームでは、はるかに速く移動でき、インクで塗られた壁を泳いで登ることができ、敵から隠れることができます。インクの中を泳ぐことは、インクタンクを再装填します。
+- **チームワーク：** チームと協力してマップの重要なエリアを制御し、敵を押し返します。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] While specific controls can vary, they are generally based on standard shooter layouts:
-- **Movement:** `WASD` or `Arrow Keys`
-- **Shoot Ink:** `Left Mouse Button`
-- **Sub Weapon:** `Right Mouse Button` or `G`
-- **Transform to Squid:** `Shift` or `Spacebar` (Hold to swim)
-- **Jump:** `Spacebar` (when in kid form)
+特定の操作は異なる場合がありますが、一般的に標準的なシューターのレイアウトに基づいています：
+- **移動：** `WASD`または`矢印キー`
+- **インクを撃つ：** `左マウスボタン`
+- **サブウェポン：** `右マウスボタン`または`G`
+- **イカに変身：** `Shift`または`スペースバー`（泳ぐために押し続ける）
+- **ジャンプ：** `スペースバー`（キッドフォームのとき）
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What is the main objective?**
+**主な目標は何ですか？**
 
-[JA TRANSLATION NEEDED] In the primary Turf War mode, the main objective is to cover more of the map's surface with your team's ink color than the opposing team.
+主要なTurf Warモードでは、主な目標は、相手チームよりもチームのインクの色でマップの表面をより多く覆うことです。
 
-[JA TRANSLATION NEEDED] **What happens when I run out of ink?**
+**インクが切れたらどうなりますか？**
 
-[JA TRANSLATION NEEDED] You cannot fire your main weapon when your ink tank is empty. To refill it, simply transform into your squid form and swim in your team's ink for a few seconds.
+インクタンクが空の場合、メイン武器を発射できません。補充するには、イカフォームに変身してチームのインクの中を数秒泳ぐだけです。
 
-[JA TRANSLATION NEEDED] **Is it better to cover turf or splat opponents?**
+**陣地を覆うのと相手をスプラットするのとどちらが良いですか？**
 
-[JA TRANSLATION NEEDED] Both are important! Splatting opponents temporarily removes them from the field, giving your team an opportunity to cover more turf uncontested. However, the ultimate winner is decided by ink coverage, so don't neglect painting the ground.
-
+両方とも重要です！相手をスプラットすると一時的にフィールドから削除され、チームが妨害されずにより多くの陣地を覆う機会が得られます。しかし、最終的な勝者はインクのカバレッジによって決まるので、地面を塗ることを怠らないでください。

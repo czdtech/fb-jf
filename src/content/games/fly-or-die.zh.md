@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: fly-or-die
-title: '[ZH TRANSLATION NEEDED] Fly or Die'
+title: "Fly or Die 進化生存 .io"
 description: >-
-  [ZH TRANSLATION NEEDED] Evolution survival (.io): eat correct food to evolve
-  through the chain while avoiding predators and hazards across sky and ground
-  biomes.
+  Fly or Die 是一款進化生存類 .io 遊戲，吃對應的食物才能升級進化，
+  同時避開天上與地面各種掠食者與環境危險。
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/fly-or-die.jpg
@@ -19,26 +18,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Multiplayer survival with evolution: start as a small creature, consume specific items to level up into new forms, and avoid predators and environmental threats.
+
+這是一款多人同場的進化生存遊戲，你會從最弱小的生物形態開始，
+透過吞食特定食物獲得經驗升級，一步步解鎖新的生物形態。
+同時，場上還有比你強的掠食者與各種環境危險，你必須靈活走位、善用高度與地形，
+在天空與地面不同生態區之間求生。
 
 ### How to Play
-- Check your current diet icons; only those items grant XP.
-- Watch predator icons—higher tiers can kill you; hide or flee.
-- Manage water/oxygen (when applicable) and use thermals/updrafts.
+
+- 隨時注意介面上的「食譜圖示」，只有列在上面的食物才會提供經驗值，吃錯東西只是浪費時間與風險。
+- 留意畫面上標示為掠食者的圖示／圖標，比你高階的生物可以直接殺死你，遇到時要立刻躲藏或逃跑。
+- 某些階段會加入水分或氧氣等資源條，你需要定期上岸、潛水或調整高度，避免因缺氧或乾涸而死亡。
+- 善用熱氣流或上升氣流（若有），可以讓你節省體力快速上升或滑翔一大段距離。
 
 ### Controls
-- Mouse/Keyboard to move/fly; boost keys vary by host.
+
+- 使用滑鼠或鍵盤操控移動／飛行方向；
+- 衝刺或加速鍵依託管伺服器設定略有不同，通常會在遊戲說明中標示。
 
 ### Tips
-- Eat safely at the edge of busy zones; don’t contest predators.
-- Memorize the food chain so you can route upgrades quickly.
-- Use verticality to escape—climb high or dive underground depending on form.
+
+- 儘量在熱區邊緣覓食，不要在掠食者聚集的中央搶資源，被針對風險很高。
+- 熟記食物鏈與各階段可吃的目標，這樣升級路線會更順，不會在某階段卡很久。
+- 善用垂直高度逃生：對於能飛的形態，爬高或急遽俯衝到低層往往比橫向逃跑安全許多；
+  對地面或地下形態則善用洞穴與地形掩護。
 
 ### FAQ
-- Q: How do I evolve to the next creature?  
-[ZH TRANSLATION NEEDED]   A: Eat the items shown in your diet bar to earn XP and level up.
-- Q: What happens when a predator catches me?  
-[ZH TRANSLATION NEEDED]   A: You lose progress or a life depending on the server rules.
-- Q: Is there team play?  
-[ZH TRANSLATION NEEDED]   A: Most servers are FFA; some hosts rotate special modes.
 
+- 問：要怎樣進化到下一種生物？  
+  答：食用介面上顯示的可食目標並累積足夠經驗值，等經驗條滿了就會自動進化到下一階。
+
+- 問：被掠食者抓到會怎樣？  
+  答：依伺服器規則不同，可能會損失大量進度、退階甚至直接死亡，需要重新開始。
+
+- 問：有團隊模式嗎？  
+  答：大多數伺服器是人人互相競爭的 FFA 模式，也有部分主機會輪替特殊玩法或團隊模式。

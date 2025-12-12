@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: g-switch
-title: '[ES] G-Switch'
+title: "G-Switch"
 description: >-
-  [ES] One‑button gravity runner: flip gravity to keep running across platforms,
-  avoid gaps and saws, and survive increasing speed.
+  Runner de un solo botón con gravedad invertida: cambia la gravedad para seguir
+  corriendo por las plataformas, esquiva huecos y sierras y sobrevive a una
+  velocidad cada vez mayor.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/g-switch.jpg
@@ -16,30 +17,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+G-Switch es un runner automático en el que cambias la gravedad. Con cada pulsación
+inviertes la gravedad para aterrizar en la siguiente superficie mientras el
+ritmo se acelera.
 
+### Cómo jugar
 
-### Overview
-Auto‑runner with gravity flips. Tap to invert gravity and land on the next surface while the pace accelerates.
+- Cambia justo antes de los bordes para superar los huecos con limpieza.
+- Anticípate a las sierras y paredes; es mejor invertir un poco antes que
+  demasiado tarde.
+- Suelen existir tanto modos infinitos como niveles diseñados.
 
-### How to Play
-- Flip just before edges to clear gaps cleanly.
-- Anticipate saws and walls; flip early rather than late.
-- Endless and level modes may both be available.
+### Controles
 
-### Controls
-- One key/tap to flip gravity; multiplayer maps separate keys per player.
+- Una tecla o toque para invertir la gravedad; en multijugador cada jugador
+  dispone de su propia tecla.
 
-### Tips
-- Keep a steady flip rhythm; panic flips cause chain mistakes.
-- Use long ceilings to reset timing safely.
-- In multiplayer, watch opponents’ flips to pre‑empt traps.
+### Consejos
 
-### FAQ
-- Q: Why do I miss short platforms?
-A: You are flipping too late; flip slightly before the edge.
-- Q: Does the game support multiplayer?
-A: Many versions include local multiplayer with multiple keys.
-- Q: Are level layouts fixed?
-A: Some modes are authored levels; endless modes are often procedural.
+- Mantén un ritmo de cambios estable; los cambios por pánico encadenan errores.
+- Usa los tramos largos de techo para reajustar la sincronización con seguridad.
+- En multijugador, observa los cambios de tus rivales para predecir las
+  trampas que vienen.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Por qué fallo tanto en las plataformas cortas?**  
+  **R:** Sueles cambiar demasiado tarde; prueba a invertir la gravedad un poco
+  antes del borde.
+
+- **P: ¿El juego tiene multijugador?**  
+  **R:** Muchas versiones incluyen multijugador local con varias teclas
+  asignadas.
+
+- **P: ¿Los niveles son siempre iguales?**  
+  **R:** Algunos modos usan niveles diseñados a mano y otros ofrecen tramos
+  infinitos generados de forma procedimental.

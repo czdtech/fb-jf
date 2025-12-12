@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: friday-night-funkin
-title: '[FR] Friday Night Funkin'
-description: >-
-  [FR] Rhythm battle: hit notes on beat against opponents across weeks; higher
-  difficulties add faster patterns and tricky holds.
+title: "Friday Night Funkin"
+description: "Battle de rythme : enchaîne les notes en rythme face à tes adversaires au fil des semaines ; les difficultés élevées ajoutent des patterns plus rapides et des notes longues piégeuses."
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/friday-night-funkin.jpg
 tags:
@@ -15,30 +13,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Friday Night Funkin est un jeu de rythme en « semaines » où tu affrontes différents adversaires en duel musical. Sur chaque morceau, tu dois reproduire les flèches affichées à l’écran au bon moment pour rester en tête de la barre de score. Plus la difficulté augmente, plus les patterns deviennent rapides et complexes, avec des notes longues, des doubles et des séquences serrées.
 
+### Comment jouer
 
-### Overview
-Week‑based rhythm battles: match the arrow prompts in time with music to outscore your opponent.
+- Concentre‑toi sur la précision et les combos : les notes ratées ou jouées hors tempo font baisser ta jauge de vie.
+- Maintiens les notes longues : certaines notes doivent être gardées enfoncées jusqu’à la fin de la barre.
+- Sur les difficultés élevées, prépare‑toi à des « jacks » (mêmes touches répétées très vite) et des doubles frappes.
+- Le mode Freeplay te permet de t’entraîner sur des chansons spécifiques sans suivre l’ordre des semaines.
 
-### How to Play
-- Focus on accuracy and combo; misses and off‑beat hits drop health.
-- Long notes require holding; jacks and doubles appear on higher levels.
-- Freeplay allows practicing specific songs.
+### Commandes
 
-### Controls
-- Arrow keys (or WASD) to hit notes; Enter for menus.
+- Flèches directionnelles (ou WASD) : jouer les notes.
+- `Entrée` : valider dans les menus.
 
-### Tips
-- Learn patterns by sound, not just visuals.
-- Relax your hands; rolling chords reduce finger jams on jacks.
-- Lower visual effects if lag affects timing.
+### Astuces
 
-### FAQ
-- Q: How do I unlock new weeks?
-A: Clear prior weeks or use Freeplay depending on the host.
-- Q: Why are my hits late?
-A: Adjust input offset in options to match your device latency.
-- Q: Can I play custom songs?
-A: Some hosts include mods or a custom chart loader.
+- Apprends les motifs d’abord à l’oreille, pas seulement avec les visuels : la musique t’aide à anticiper les séries de notes.
+- Garde les mains détendues : faire « rouler » les doigts sur les touches est plus efficace que taper de façon rigide, surtout sur les jacks.
+- Si tu ressens du lag, réduis les effets visuels et ajuste l’offset d’entrée dans les options pour recaler le timing.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment débloquer de nouvelles semaines ?
+  
+  R : En général, tu dois terminer les semaines précédentes. Certains hébergeurs te laissent aussi accéder aux morceaux via le mode Freeplay.
+
+- Q : Pourquoi mes frappes semblent en retard ?
+  
+  R : C’est souvent un problème de latence. Va dans les options et ajuste l’offset audio/entrée jusqu’à ce que tes hits coïncident avec le rythme.
+
+- Q : Puis‑je jouer des chansons personnalisées ?
+  
+  R : Certains sites proposent des mods ou un chargeur de charts personnalisés. Tout dépend de la version que tu utilises.
 

@@ -1,111 +1,81 @@
 ---
+title: "Bank Robbery 銀行強盗：警官vs泥棒"
+description: "「Bank Robbery」で究極の強盗劇、または正義の執行を体験せよ！強盗チームと警察チームに分かれ、戦略とチームワークで勝利を掴むタクティカルFPSの完全ガイド。"
+iframeSrc: "https://www.roblox.com/games/embed/123456789" 
+thumbnail: "/new-images/bank-robbery.jpg"
+urlstr: "bank-robbery"
+score: "4.6/5  (2300 votes)"
+tags: ["action", "fps", "multiplayer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: bank-robbery
-title: '[JA TRANSLATION NEEDED] Bank Robbery'
-description: >-
-  [JA TRANSLATION NEEDED] A detailed guide for the team-based FPS game Bank
-  Robbery 2. Learn strategies for both Robbers and Cops, controls, and answers
-  to common questions to master the heist.
-iframeSrc: >-
-  https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
-thumbnail: /new-images/bank-robbery.jpg
-tags:
-  - fPS
-  - action
-score: 4.2/5  (1331 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Bank Robbery（銀行強盗）*は、プレイヤーが2つの対立する側、「強盗（Robbers）」と「警察（Cops）」のどちらかを選んで戦う、スリル満点のマルチプレイヤーFPS（一人称視点シューティング）ゲームです。
 
-### Detailed Introduction
+このゲームの核心は、単なる撃ち合い（デスマッチ）ではなく目標達成型のタクティカルバトルである点です。各ラウンドでの判断、装備選択、侵入経路の駆け引きが勝敗を左右します。
 
-[JA TRANSLATION NEEDED] *Bank Robbery 2* is a team-based, first-person shooter game where players are divided into two opposing factions: Cops and Robbers. The game revolves around a central, high-stakes objective: a bank heist.
+**強盗チーム**は、銀行に潜入してドリルや爆薬で金庫を破り、現金バッグを奪って脱出するのが仕事です。侵入ルートの偵察、ドリルの防衛、逃走車の確保など、役割分担と同時多発的な攻撃が求められます。
 
-[JA TRANSLATION NEEDED] As a **Robber**, the goal is to infiltrate a heavily secured bank, use a drill to break into vaults and safes, steal as much cash as possible, and successfully transport it to a designated getaway point. This requires coordination, firepower, and a solid plan to bypass security and fight off the police force.
+**警察チーム**は、銀行を守り切り、設置されたドリルを迅速に無力化し、逃走を阻止することが使命です。早期警戒網を敷いて侵入を察知し、奪われた現金を運ぶ敵を追い詰めるまでが任務となります。
 
-[JA TRANSLATION NEEDED] As a **Cop**, the objective is to defend the bank and uphold the law. This involves preventing the Robbers from breaching the vault, defusing any drills they manage to place, and eliminating the criminal team before they can escape with the money. Success as a cop relies on strategic positioning, teamwork, and quick response to the Robbers' actions.
+舞台は銀行を中心にした都市マップで、ロビー、金庫室、屋上、裏路地など複数の進入口があります。ラウンドごとに獲得した資金で装備を購入・強化できるため、勝ち続けるほど次のラウンドで有利になります。
 
-[JA TRANSLATION NEEDED] The game takes place in an urban environment with the bank as the focal point. Players can use a variety of weapons, tools, and vehicles to achieve their team's goals, earning in-game currency to purchase better equipment for future rounds.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy
+どちらのチームでプレイする場合も、コミュニケーションとチームでの役割分担が勝利の鍵です。
 
-[JA TRANSLATION NEEDED] Success is highly dependent on which team you are on.
+#### 【強盗チーム】の攻略
 
-#### For Robbers:
+1.  **侵入地点を分散させる：** チーム全員で正面玄関から突入するのは自殺行為です。裏口、屋上、あるいは爆発物で壁に穴を開けるなど、複数のルートから同時に侵入し、警察の防衛線を撹乱しましょう。
+2.  **ドリルを守れ：** 金庫を開けるにはドリルを設置する必要がありますが、これには時間がかかります。ドリルが稼働している間、警察は必ず止めに来ます。最低でも2人はドリルの護衛に専念してください。
+3.  **連携して制圧射撃：** 仲間が金庫を開けている間、他のメンバーは警察が来そうな通路を制圧射撃（サプレッシブ・ファイア）で封鎖し、敵を近寄らせないようにしましょう。
+4.  **脱出までが強盗だ：** お金を手に入れただけでは勝ちではありません。現金バッグを持ったプレイヤーは格好の的です。事前に逃走ルートを確保し、ドライバー役が逃走車両を待機させておくなどの計画が必要です。
+5.  **装備を強化：** 成功して得た報酬で、より強力な武器、アーマー、そして壁を素早く破壊できるC4爆弾などのツールを購入しましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Plan Your Entry:** Don't just rush the front door. Scout for alternative entry points like back alleys, side doors, or even rooftop access. A coordinated, multi-pronged attack can confuse the police.
-[JA TRANSLATION NEEDED] 2.  **Assign Roles:** Don't have everyone do the same thing. Designate specific roles: one or two players to place and guard the drill, one to watch the main entrance, and another to cover flanking routes.
-[JA TRANSLATION NEEDED] 3.  **Protect the Drill:** The drill is your key to the money, but it's noisy and takes time, making it a magnet for Cops. Set up defensive positions around the drilling area and hold your ground.
-[JA TRANSLATION NEEDED] 4.  **The Escape is a Separate Mission:** Getting the money is only half the battle. Once you have the cash bags, you become a high-priority target. Plan your escape route in advance and consider having a designated getaway driver ready with a vehicle.
-[JA TRANSLATION NEEDED] 5.  **Upgrade Your Gear:** Use the money you earn from successful heists to buy better weapons, stronger armor, and useful tools like C4 for faster breaching.
+#### 【警察チーム】の攻略
 
-#### For Cops:
+1.  **全入り口を確保せよ：** ラウンド開始時、メインロビーに固まってはいけません。すべての侵入可能なポイントをカバーするように散開してください。一人の侵入者を許すだけで、ドリル設置を許してしまいます。
+2.  **報告と連携：** 敵の位置をボイスチャットやテキストで報告し合いましょう。「メイン金庫でドリル作動中！」などの呼びかけがあれば、チーム全員で現場に急行できます。
+3.  **突入は組織的に：** 強盗に制圧されたエリアを取り返す時、一人ずつ突っ込むのはやめましょう。味方と集まり、複数の角度から同時に奇襲（ブリーチング）をかけて圧倒しましょう。
+4.  **最優先事項＝ドリルの停止：** ドリルが動いているなら、それを止めることが最優先です。ドリルを解除している味方は完全に無防備になるので、必ず他のメンバーが援護射撃を行ってください。
+5.  **逃走を阻止せよ：** もし強盗にお金を取られた場合、目標は「阻止」から「追跡」に変わります。パトカーを使って追跡するか、逃走ポイントに先回りして検問（ロードブロック）を敷きましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Secure All Entrances:** At the start of the round, don't just camp the main lobby. Spread out to cover all potential points of entry. A single robber slipping through can start a drill and put your team at a disadvantage.
-[JA TRANSLATION NEEDED] 2.  **Communicate and Call Out:** Use the team chat to report enemy locations. Announce where the robbers are drilling ("Drill on the main vault!") so your team can converge on the threat.
-[JA TRANSLATION NEEDED] 3.  **Coordinated Retakes:** If robbers have taken control of an area, don't rush in one by one. Group up and breach the room together from multiple angles to overwhelm them.
-[JA TRANSLATION NEEDED] 4.  **Prioritize Defusing the Drill:** If a drill is active, stopping it is your top priority. Provide cover for a teammate who is attempting to defuse it, as they will be completely vulnerable during the process.
-[JA TRANSLATION NEEDED] 5.  **Cut Off the Escape:** If the robbers manage to grab the money, your objective shifts to interception. Use police cars to chase them down or set up roadblocks on the path to their getaway point.
+### 操作ガイド
 
-### Controls Guide
+PC（Roblox等のプラットフォーム）における標準的なFPS操作です。
 
-[JA TRANSLATION NEEDED] The game uses standard first-person shooter controls common on its platform (Roblox for PC).
+*   **W, A, S, D キー：** 移動
+*   **マウス：** 視点操作とエイム
+*   **マウス左クリック：** 発射
+*   **マウス右クリック：** サイトを覗く（ADS / 精密射撃）
+*   **R キー：** リロード
+*   **左Shift キー：** ダッシュ（スプリント）
+*   **スペースキー：** ジャンプ
+*   **E または F キー：** インタラクト（ドリルの設置/解除、現金の回収、車両への乗車など）
+*   **数字キー（1, 2, 3...）：** 武器やアイテムの切り替え
+*   **C キー：** しゃがむ（対応している場合）
 
-*   **`W`, `A`, `S`, `D` Keys**: Move your character.
-*   **Mouse**: Aim and control the camera.
-*   **`Left Mouse Button`**: Fire your weapon.
-*   **`Right Mouse Button`**: Aim down sights (ADS).
-*   **`R` Key**: Reload your weapon.
+### よくある質問 (FAQ)
 
-#### For Cops:
-*   **`Left-Shift` Key**: Sprint.
-*   **`Spacebar`**: Jump.
-*   **`E` or `F` Key**: Interact with objects (e.g., place/defuse a drill, pick up cash, enter a vehicle).
-*   **Number Keys (`1`, `2`, `3`...)**: Switch between your equipped weapons and items.
-*   **`C` Key**: Crouch (if available in the specific version).
+**1. どうすれば強い武器を手に入れられますか？**
 
-### Frequently Asked Questions (FAQ)
+強盗成功や逮捕の成功報酬でゲーム内マネーを稼ぎ、ラウンド間のショップでより高性能な銃・アーマー・爆薬を購入します。
 
-[JA TRANSLATION NEEDED] **1. How do I get better weapons and equipment?**
+**2. 強盗側でドリルがすぐ解除されてしまいます。どうすれば？**
 
+ドリルを無防備に放置しないことが最優先です。最低2人は護衛につき、遮蔽物を構築しつつ投擲物や重火器を温存して「保護フェーズ」に集中しましょう。
 
+**3. 警官側が常に押し負けます。守り方のコツは？**
 
+一箇所に固まらず、銀行全体に防衛ラインを張って早期発見を心掛けます。奪還時は複数経路から同時突入し、ドリル解除役を守りながら交互に射線を作ると安定します。
 
+**4. 強盗はどこから入るのがベストですか？**
 
+唯一の正解はありません。防衛の手薄な側面・屋上・地下トンネルなどをC4で開ける奇襲が成功率は高めなので、開幕で偵察して柔軟に切り替えましょう。
 
+**5. 試合の途中でチーム変更はできますか？**
 
-
-
-
-
-### よくある質問（FAQ）
-- **`C` Key**: Crouch (if available in the specific version).
-- **Number Keys (`1`, `2`, `3`...)**: Switch between your equipped weapons and items.
-- **`E` or `F` Key**: Interact with objects (e.g., place/defuse a drill, pick up cash, enter a vehicle).
-- **`Spacebar`**: Jump.
-- **`Left-Shift` Key**: Sprint.
-- **`R` Key**: Reload your weapon.
-- **`Right Mouse Button`**: Aim down sights (ADS).
-- **`Left Mouse Button`**: Fire your weapon.
-- **Mouse**: Aim and control the camera.
-- **`W`, `A`, `S`, `D` Keys**: Move your character.
-
-### よくある質問（FAQ）
-[JA TRANSLATION NEEDED] You earn in-game cash by completing objectives (stealing money as a robber, stopping robbers as a cop) and eliminating opponents. You can then use this cash in the game's shop to purchase a wide variety of new guns, armor, and tools.
-
-[JA TRANSLATION NEEDED] **2. As a Robber, the drill keeps getting defused. What should I do?**
-[JA TRANSLATION NEEDED] Teamwork is the only solution. You cannot leave the drill unattended. You need at least one or two teammates dedicated to defending the area while the drill is running.
-
-[JA TRANSLATION NEEDED] **3. As a Cop, we are always overwhelmed. How can we defend better?**
-[JA TRANSLATION NEEDED] Avoid grouping up in one predictable spot. Use the entire bank as your defense area. By spreading out, you can get early warnings of where the robbers are attacking from and flank them when they commit to drilling a specific vault.
-
-[JA TRANSLATION NEEDED] **4. What is the best way to enter the bank as a Robber?**
-[JA TRANSLATION NEEDED] There is no single "best" way, as it depends on how the Cops set up their defense. The most effective strategy is often a surprise attack. Using C4 on a side wall or finding an unguarded back entrance is usually more successful than a direct assault on the front doors.
-
-[JA TRANSLATION NEEDED] **5. Can I switch teams during a game?**
-[JA TRANSLATION NEEDED] Typically, team selection happens before the round begins, and you are locked into that team until the next game to maintain balance.
-
-
-
-Typically, team selection happens before the round begins, and you are locked into that team until the next game to maintain balance.
+ほとんどのサーバーではラウンド前に陣営が固定され、試合中は変更できません。次のゲーム開始時に改めてチームが割り当てられます。

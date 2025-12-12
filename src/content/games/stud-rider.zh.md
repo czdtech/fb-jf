@@ -1,43 +1,47 @@
 ---
 locale: zh
 urlstr: stud-rider
-title: '[ZH TRANSLATION NEEDED] Stud Rider'
-description: >-
-  [ZH TRANSLATION NEEDED] Stud Rider is a moto hill‑runner — manage momentum,
-  land flat, and link jumps smoothly across rugged tracks.
-iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
-thumbnail: /new-images/stud-rider.png
+title: 《Stud Rider》山地越野骑手
+description: 《Stud Rider》是一款横版摩托越野游戏。驾驶你的摩托在起伏的山地上飞驰，控制油门与重心，在不翻车的前提下完成远距离跳跃和特技。
+iframeSrc: 'https://studrider.h5games.usercontent.goog/v/0q8l2v3a9d1g0/'
+thumbnail: /new-images/stud-rider.jpg
 tags:
-  - bike
-  - driving
-  - action
-score: 3.9/5  (1707 votes)
+  - racing
+  - motorcycle
+  - stunt
+score: 3.9/5  (1500 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Stud Rider emphasizes flow: small throttle pulses, flat landings, and cautious flips maintain speed. Rough terrain punishes nose‑dives and over‑rotation; consistent cadence beats wild stunts.
+《Stud Rider》主打轻量级的摩托越野体验。场景中布满坡道、山丘和坑洼，你需要一边保持速度、一边通过重心控制来保证摩托在落地时保持稳定，避免前翻或后仰翻车。连续完成漂亮的起跳与落地，可以获得更高的得分与连击奖励。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Land level to keep traction.
-2.  [ZH TRANSLATION NEEDED] Feather throttle over crests; don’t stuff the nose.
-3.  [ZH TRANSLATION NEEDED] Flip sparingly — only with clear arc and altitude.
-4.  [ZH TRANSLATION NEEDED] Pump dips for speed; cut throttle mid‑air to stabilize.
-5.  [ZH TRANSLATION NEEDED] Memorize jump lengths for perfect linkups.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **控制油门节奏：** 在上坡前适当加速，在飞跃落点不明时则可以稍微收一点油门，保证有足够时间调整重心。
+2.  **用重心矫正姿态：** 在空中或落地瞬间通过前倾/后仰来让车身与地面保持平行，减少摔车风险。
+3.  **利用地形连段：** 熟悉赛道后，可以利用连续的小坡和平台串联多个跳跃，既帅气又能快速前进。
+4.  **避免盲目贪特技：** 在不熟悉赛道时，不要刻意追求夸张起跳或后空翻，先保证稳稳到达终点，再考虑挑战更炫的动作。
 
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right; Restart via UI.
 
-### Frequently Asked Questions (FAQ)
+- Memorize jump lengths for perfect linkups.
+### 操作说明
+
+*   **加速 / 减速：** 使用方向键或指定按键控制摩托前进与减速；
+*   **调整重心：** 使用左右方向键或对应按键控制骑手前倾/后仰；
+*   **跳跃（若支持）：** 在特定坡道或按跳跃键起跳，配合重心调整完成特技。
+
+### 常见问题解答（FAQ）
+
 
 - Q: I keep tucking the front.
-  
-[ZH TRANSLATION NEEDED]   A: Ease off before lips and lean back slightly, then level out.
+**问：总是落地就翻车怎么办？****
 
 - Q: Flips kill my speed.
-  
-[ZH TRANSLATION NEEDED]   A: Use only when certain; focus on clean landings.
+答：** 尝试在落地前调整车身角度，让轮子尽量同时接触地面，避免前轮或后轮单独先着地幅度过大。
+
+**问：有没有车辆或关卡解锁？****
+答：** 视具体版本而定，有的会提供额外车辆皮肤或更具挑战性的赛道，通常通过完成关卡或累计得分解锁。
 

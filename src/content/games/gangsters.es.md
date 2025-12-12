@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: gangsters
-title: '[ES] Gangsters'
+title: "Gangsters"
 description: >-
-  [ES] Physics ragdoll duels: two stick gangsters bounce and shoot on rooftops;
-  time jumps and shots to knock the opponent off.
+  Duelos con físicas ragdoll: dos gangsters tipo stickman rebotan y disparan
+  sobre azoteas; calcula saltos y tiros para mandar al rival al vacío.
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/gangsters.jpg
@@ -16,30 +16,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Gangsters propone tiroteos torpes en las azoteas para uno o dos jugadores. Las
+balas y el retroceso afectan a tu postura; el objetivo es desestabilizar al
+oponente hasta que caiga.
 
+### Cómo jugar
 
-### Overview
-Wobbly rooftop shootouts for one or two players. Bullets and recoil affect your stance; the goal is to topple your opponent.
+- Calcula los saltos para esquivar balas y ajustar la altura de tu puntería.
+- Aprovecha el retroceso para inclinar o deslizar la postura del enemigo.
+- Algunos elementos del escenario bloquean disparos o provocan rebotes.
 
-### How to Play
-- Time jumps to dodge bullets and adjust aim height.
-- Use recoil to your advantage to tilt or slide the enemy’s stance.
-- Environmental props can block shots or cause ricochets.
+### Controles
 
-### Controls
-- One‑button jump/shoot per player (host dependent) or separate keys for actions.
+- Un solo botón por jugador para saltar/disparar (según el portal) o teclas
+  separadas para cada acción.
 
-### Tips
-- Short hops steady aim; big hops dodge and reposition.
-- Aim at feet to pop opponents upward and off balance.
-- Watch wind or moving platforms when present.
+### Consejos
 
-### FAQ
-- Q: How do I win rounds consistently?
-A: Control recoil and land shots that destabilize your opponent’s footing.
-- Q: Is there a two‑player mode on one keyboard?
-A: Yes, most hosts provide side‑by‑side key bindings.
-- Q: Do headshots deal extra damage?
-A: Usually knockback/positioning matters more than raw damage.
+- Los saltos cortos estabilizan el apuntado; los grandes sirven para esquivar y
+  reposicionarte.
+- Apunta a los pies para hacer que el rival salga despedido hacia arriba y
+  pierda el equilibrio.
+- Ten en cuenta el viento o las plataformas móviles cuando aparezcan.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo gano rondas de forma consistente?**  
+  **R:** Controla el retroceso y apunta a golpes que desequilibren la postura
+  del rival.
+
+- **P: ¿Hay modo para dos jugadores en el mismo teclado?**  
+  **R:** Sí, la mayoría de versiones asignan teclas en paralelo para cada
+  jugador.
+
+- **P: ¿Los disparos a la cabeza hacen más daño?**  
+  **R:** Normalmente importa más el empuje y la posición que el daño "puro".

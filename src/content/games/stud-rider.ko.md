@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: stud-rider
-title: '[KO] Stud Rider'
+title: 'Stud Rider 스터드 라이더'
 description: >-
-  [KO] Stud Rider is a moto hill‑runner — manage momentum, land flat, and link
-  jumps smoothly across rugged tracks.
+  Stud Rider는 언덕과 점프로 가득한 코스를 모토바이크로 질주하는 게임으로,
+  부드러운 흐름과 착지 각도, 적절한 플립 타이밍이 중요한 러너형 레이싱 게임입니다.
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/stud-rider.png
 tags:
@@ -17,30 +17,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Stud Rider는 언덕과 점프대가 연속으로 이어지는 코스를 끊김 없이 달리는 데
+초점을 둔 모토바이크 러너 게임입니다. 가속을 짧게 끊어서 쓰고, 가능한 평평하게
+착지하며, 무리한 플립을 자제하는 것이 속도를 유지하는 핵심입니다. 울퉁불퉁한
+지형에서는 앞바퀴가 박히거나 과도한 회전각이 나오면 곧바로 전복되므로,
+과감함보다는 일정한 리듬과 안정적인 플레이가 더 좋은 기록으로 이어집니다.
 
-Stud Rider emphasizes flow: small throttle pulses, flat landings, and cautious flips maintain speed. Rough terrain punishes nose‑dives and over‑rotation; consistent cadence beats wild stunts.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **수평 착지 유지:**
+    착지할 때 바이크가 최대한 수평에 가깝게 닿아야 접지력을 잃지 않고
+    속도를 유지할 수 있습니다. 점프 후 공중에서 살짝 기울기를 조정해
+    앞·뒷바퀴가 거의 동시에 닿도록 해 보세요.
+2.  **언덕 봉우리에서 가속 조절:**
+    언덕 꼭대기에서는 엑셀을 너무 세게 당기면 앞바퀴가 들리거나, 착지 시
+    코가 박히기 쉽습니다. 봉우리를 넘기 직전에는 살짝 가속을 줄여 바이크가
+    자연스럽게 넘어가도록 하는 것이 좋습니다.
+3.  **플립은 적당히:**
+    점프 중 뒤집기 플립은 점수나 재미를 주지만, 각도가 잘못되면 곧바로
+    전복으로 이어집니다. 충분한 높이와 포물선이 확보된 점프에서만
+    여유 있게 시도해 보세요.
+4.  **웅덩이·골짜기 펌핑:**
+    내리막 구간에서는 가속을 살짝 더해 속도를 끌어올리고, 점프 직전에는
+    엑셀을 줄여 공중에서 자세를 안정시키는 식으로 리듬을 타면 좋습니다.
+5.  **점프 간 거리 익히기:**
+    스테이지를 반복하다 보면 점프와 언덕 길이가 어느 정도 몸에 익습니다.
+    자주 플레이하며 지형 감각을 익히면, 어디서 속도를 줄이고 어디서
+    최대 속도를 유지해야 할지 감이 잡힙니다.
 
-1.  **[KO]** Land level to keep traction.
-2.  **[KO]** Feather throttle over crests; don’t stuff the nose.
-3.  **[KO]** Flip sparingly — only with clear arc and altitude.
-4.  **[KO]** Pump dips for speed; cut throttle mid‑air to stabilize.
-5.  **[KO]** Memorize jump lengths for perfect linkups.
+### 조작 방법 안내
 
-### Controls Guide
+- **가속/브레이크:** `W/S` 또는 방향키 `↑/↓`
+- **기울이기:** `A/D` 또는 방향키 `←/→`
+- **재시작/일시정지:** 화면 UI 버튼 사용
 
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right; Restart via UI.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 앞바퀴가 자꾸 박혀 전복됩니다.**
 
-- Q: I keep tucking the front.
+  A: 점프대 끝에서 엑셀을 너무 세게 당기고 있거나, 언덕 봉우리를 넘을 때
+  속도를 줄이지 않은 경우가 많습니다. 점프 직전에는 가속을 살짝 풀고,
+  공중에서는 뒤로 약간 기울였다가 착지 직전에 수평으로 맞춰 주세요.
 
-A: Ease off before lips and lean back slightly, then level out.
+- **Q: 플립을 하면 속도가 너무 많이 떨어져요.**
 
-- Q: Flips kill my speed.
-
-A: Use only when certain; focus on clean landings.
-
+  A: 플립 자체가 공기 저항과 체공 시간을 늘리기 때문에, 난이도 높은 구간에서는
+  점수보다는 깨끗한 착지에 집중하는 편이 좋습니다. 비교적 낮은 언덕과 여유
+  있는 구간에서만 플립을 시도해 보세요.

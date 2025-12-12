@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-yaboo
-title: '[KO] Incredibox YaBoo'
+title: Incredibox YaBoo 인크레디박스 야부
 description: >-
-  [KO] Dive into the fan-made 'Incredibox YaBoo' mod. This guide covers its
-  unique sound palette, music creation gameplay, and how to unlock its themed
-  bonuses.
+  Incredibox YaBoo는 Incredibox를 기반으로 한 팬 메이드 모드로, 일본 요괴와 오니 콘셉트를 살린 독특한 사운드 팔레트와
+  시각 스타일이 특징입니다. 이 가이드는 해당 모드의 사운드 구성, 음악 제작 방식, 테마 보너스를 여는 방법을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/incredibox-yaboo.png
 tags:
@@ -19,38 +18,58 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
-### **Incredibox "YaBoo" Game Introduction**
+### Incredibox "YaBoo" 소개
 
-*Incredibox YaBoo* is a popular and artistically distinct fan-made mod for the music creation game Incredibox. this version stands out with its unique and cohesive theme inspired by **Japanese folklore, featuring Oni (demons) and Yokai (spirits)**.
+*Incredibox YaBoo*는 음악 제작 게임 Incredibox를 바탕으로 한 팬 메이드 모드로,
+**오니와 요괴 등 일본 민속 설화**에서 영감을 받은 비주얼과 사운드를 선보입니다.
 
-The game mechanics are identical to the official series. Players are presented with a crew of characters stylized as Oni, who are ready to perform. By dragging and dropping 20 unique sound icons onto these characters, players can mix their own beats. The sound palette is completely original, blending traditional Japanese instruments and vocal styles with modern electronic and hip-hop elements.
+기본적인 조작과 시스템은 공식 시리즈와 동일합니다. 오니 스타일로 꾸며진 캐릭터들에
+아래쪽 아이콘을 드래그해 올려, 각기 다른 비트와 멜로디, 효과음을 조합해 곡을
+만들게 됩니다. 사운드 팔레트는 전통 일본 악기와 보컬 스타일을 현대적인 전자음,
+힙합 요소와 섞어 완전히 새로운 분위기를 만들어 냅니다.
 
-The goal, as always, is a blend of creative expression and puzzle-solving. Players can freely experiment to create their own Japanese-inspired musical track. The puzzle element involves discovering the three specific sound combinations that unlock beautifully animated bonuses, each deeply rooted in the mod's folkloric theme.
+플레이 목표는 창의적인 음악 제작과 퍼즐 요소의 조합입니다. 자유롭게 조합해 일본풍
+트랙을 만드는 것은 물론, 특정 조합을 찾아내면 테마에 맞는 애니메이션 보너스가
+해금됩니다.
 
-### **Gameplay Strategy & Tips**
+### 플레이 전략 & 팁
 
-The strategy for *Incredibox YaBoo* is about layering its unique sounds to create a compelling mix and uncovering the hidden animations.
+*Incredibox YaBoo*에서는 독특한 사운드를 겹쳐 매력적인 믹스를 만들고, 숨겨진
+애니메이션을 찾는 것이 핵심입니다.
 
-1.  **[KO]** **Understand the Japanese-Themed Categories**:
-    *   **[KO]** **Beats (Red)**: The rhythmic foundation here is a mix of modern bass-heavy beats and traditional Japanese percussion, such as the powerful sound of **Taiko drums**.
-    *   **[KO]** **Effects (Blue)**: These icons provide the atmospheric texture, featuring synthesized sounds with an Eastern feel, ambient noises, and sometimes rhythmic chants that add depth.
-    *   **[KO]** **Melodies (Green)**: This is where the traditional instruments shine. Expect to hear catchy loops from instruments like the **Shamisen** (a three-stringed lute) or the **Koto** (a stringed zither), blended with modern synth melodies.
-    *   **[KO]** **Voices (Yellow)**: This category features a range of Japanese-style vocal performances, from melodic singing and harmonies to powerful, guttural chants and exclamations reminiscent of "kakegoe" (shouts in Japanese theater and martial arts).
+1. **일본 테마 카테고리 이해하기**
+    - **Beats (Red)**: 전통 타이코 드럼 느낌의 강한 타격음과, 현대적인 베이스 비트가
+     섞인 리듬 트랙입니다.
+    - **Effects (Blue)**: 동양적인 신시사이저 효과, 주변 환경음, 리듬성 있는 챈트 등을
+     통해 곡에 분위기를 더합니다.
+    - **Melodies (Green)**: 샤미센, 코토 등 전통 악기풍 멜로디 루프와 현대 신스 선율이
+     함께 들어 있습니다.
+    - **Voices (Yellow)**: 멜로디 보컬과 화음, 가케고에 스타일의 외침 등 일본풍 보컬이
+     포함되어 있습니다.
 
-2.  **[KO]** **Blend the Traditional with the Modern**: The magic of this mod is in the fusion of sounds. Don't be afraid to layer a traditional Shamisen melody over a modern, heavy beat. The contrast is what gives the music its unique character.
+2. **전통과 현대의 조화:** 이 모드의 매력은 전통 악기와 현대 비트의 대비에 있습니다.
+   무거운 베이스 비트 위에 샤미센 멜로디를 얹거나, 조용한 신스 패드와 타이코를
+   조합해 독특한 질감을 만들어 보세요.
 
-3.  **[KO]** **Find the Hidden Bonuses Systematically**: The bonus-unlocking combinations can be tricky to find randomly. A good method is to lock in a few sounds that you feel create a strong core for your track, and then methodically swap out the remaining sounds one by one until a bonus animation is triggered.
+3. **보너스는 체계적으로 탐색:** 보너스 조합을 운에 맡기기보다, 마음에 드는 기본
+   구성 몇 개를 고정한 뒤 나머지 슬롯을 하나씩 바꿔 보며 조합을 시험하는 방식이
+   효율적입니다.
 
-4.  **[KO]** **Listen for the Narrative**: The sounds and animations tell a story. Pay attention to how the characters' appearances change with each sound. This can sometimes give you a hint about which sounds might belong together.
+4. **사운드와 비주얼의 연결 살피기:** 특정 사운드를 올렸을 때 캐릭터의 외형이 어떻게
+   변하는지 관찰하면, 서로 잘 어울리는 조합에 대한 힌트를 얻을 수 있습니다.
 
-5.  **[KO]** **Use Solo and Mute for Clarity**: If your mix feels too busy, use the mute function to silence individual characters. Use the solo function to isolate a specific instrument or vocal part to appreciate its detail and see how it fits into the overall composition.
+5. **Solo/뮤트 적극 활용:** 믹스가 너무 복잡하게 느껴질 때는 캐릭터를 클릭해 뮤트하거나,
+   Solo 기능으로 특정 트랙만 들어 보며 전체 구조를 정리해 보세요.
 
-### **Controls Guide**
+### 조작 방법
 
-The controls are the standard, user-friendly Incredibox interface, driven by mouse actions.
+기본적으로 마우스로 조작하는 Incredibox 인터페이스를 그대로 사용합니다.
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto a character.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound over an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your musical creation.
+- **사운드 추가:** 아래쪽 아이콘을 드래그해 캐릭터 위에 올리면 해당 사운드가
+  재생됩니다.
+- **사운드 제거:** 하단 활성 아이콘의 "X"를 누르거나, 다른 아이콘을 덮어씌워 교체할
+  수 있습니다.
+- **뮤트/해제:** 캐릭터를 클릭해 해당 파트를 끄고 켤 수 있습니다.
+- **Solo:** 특정 캐릭터 옆의 작은 버튼을 눌러 그 트랙만 단독으로 재생되게 할 수
+  있습니다.
+- **녹음:** 레코드 버튼을 눌러 자신의 믹스를 녹음하고, 다시 눌러 녹음을 종료합니다.

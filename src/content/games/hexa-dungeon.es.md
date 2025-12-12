@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: hexa-dungeon
-title: '[ES] Hexa Dungeon'
+title: Hexa Dungeon
 description: >-
-  [ES] Enter the Hexa Dungeon and fight off skeletons! A unique match-3 puzzle
-  game where you connect hexagonal tiles of the same color to unleash powerful
-  attacks on your enemies.
+  Entra en Hexa Dungeon y enfréntate a esqueletos y monstruos. Un original puzle
+  match‑3 en el que conectas fichas hexagonales del mismo color para desatar
+  poderosos ataques contra tus enemigos.
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/hexa-dungeon.png
 tags:
@@ -17,33 +17,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Hexa Dungeon es un puzle‑RPG innovador que combina mecánicas match‑3 con
+combate de mazmorras. Te enfrentas a esqueletos y otros monstruos en un
+calabozo, y para atacarlos debes conectar cadenas de tres o más fichas
+hexagonales idénticas y adyacentes en el tablero. Cuanto más larga sea la
+cadena, más daño inflige tu ataque. Es un juego estratégico donde tienes que
+equilibrar golpes fuertes con la preparación de futuras jugadas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Hexa Dungeon is an innovative puzzle-RPG that combines match-3 mechanics with dungeon-crawling combat. In this game, you face off against skeletons and other monsters in a dungeon. To attack your enemies, you must connect chains of three or more identical, adjacent hexagonal tiles on the puzzle board below. The longer the chain you create, the more powerful your attack will be. It's a strategic game where you must balance making powerful attacks with setting up future moves.
+1. **Cadenas largas = más daño:** La estrategia central es crear la cadena más
+   larga posible. Una cadena de 5 fichas hace mucho más daño que una de 3. Antes
+   de mover, revisa todo el tablero en busca de la mejor conexión.
+2. **Planifica a futuro:** Mira el tablero y piensa varias jugadas por
+   adelantado. A veces un pequeño match de 3 coloca las piezas para un gran
+   combo en el turno siguiente.
+3. **Foco de fuego:** En niveles con varios enemigos, sueles poder elegir
+   objetivo. Concentrar ataques en uno a la vez te permite eliminarlo rápido y
+   reducir el daño que recibes.
+4. **Aprovecha las fichas especiales:** Fíjate en las fichas especiales que
+   puedan aparecer: bombas u otros power‑ups que, al incluirlos en una cadena,
+   provocan daño adicional o efectos beneficiosos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Longer Chains = More Damage:** The core strategy is to create the longest possible chain of matching tiles. A chain of 5 tiles will do significantly more damage than a chain of 3. Always scan the board for the best possible connection before making a move.
-2.  **[ES]** **Plan Ahead:** Look at the board and think a few moves ahead. Sometimes, making a smaller match of 3 can position other tiles to allow for a much larger match on your next turn.
-3.  **[ES]** **Focus Fire:** In levels with multiple enemies, you can often choose which enemy to target. Focus your attacks on one enemy at a time to defeat them more quickly, reducing the amount of incoming damage you take.
-4.  **[ES]** **Special Tiles:** Keep an eye out for any special tiles that may appear on the board. These could be bombs or other power-ups that can be activated by including them in a match, resulting in extra damage or other beneficial effects.
+El juego se maneja con un simple gesto de arrastrar.
 
-### Controls Guide
+- **Conectar fichas:** Haz clic y mantén sobre una ficha, luego arrastra el
+  cursor por las fichas adyacentes del mismo color para formar la cadena. Suelta
+  para confirmar el match y lanzar el ataque.
 
-The game is played with a simple click-and-drag or swipe mechanic.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Connect Tiles:** Click and hold on a tile, then drag your cursor over adjacent, identical tiles to form a chain. Release the mouse button to confirm the match and launch your attack.
+*   **P: ¿Cómo ataco a los esqueletos?**
+    *   **R:** Atacas creando matches en el tablero hexagonal. Encuentra un grupo de al
+        menos tres fichas conectadas del mismo color y traza una línea a través de ellas.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo puedo hacer más daño?**
+    *   **R:** Cuanto más larga sea la cadena, más poderoso será el golpe. Una cadena de
+        7 fichas es muchísimo más fuerte que una de 3.
 
-*   **[ES]** **Q: How do I attack the skeletons?**
-    *   **[ES]** **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.
-
-*   **[ES]** **Q: How can I do more damage?**
-    *   **[ES]** **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
-
-*   **[ES]** **Q: Can I connect tiles diagonally?**
-    *   **[ES]** **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
-
+*   **P: ¿Puedo conectar fichas en diagonal?**
+    *   **R:** Sí. Al ser un tablero de hexágonos, puedes conectar en seis direcciones
+        diferentes hacia cualquier ficha idéntica y adyacente.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cat-mario
-title: '[KO] Cat Mario'
+title: Cat Mario 캣 마리오 (Syobon Action)
 description: >-
-  [KO] Face the ultimate unfair platformer in Cat Mario (Syobon Action)!
-  Navigate a world full of hidden traps, unexpected enemies, and deceptive level
-  design in this notoriously difficult and hilarious parody game.
+  Cat Mario는 일본 프리웨어 게임 *Syobon Action(しょぼんのアクション)* 로, 클래식 슈퍼 마리오를 패러디한 악명 높은
+  "언페어 플랫폼" 게임입니다. 숨겨진 함정과 예측 불가능한 적, 플레이어를 속이는 레벨 디자인을 기억해 가며 클리어하는 것이 핵심입니다.
 iframeSrc: 'https://tiwb.github.io/catmario/'
 thumbnail: /new-images/cat-mario.jpg
 tags:
@@ -19,49 +18,74 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Cat Mario, more formally known as Syobon Action (しょぼんのアクション), is a Japanese freeware game that is a parody of the classic *Super Mario Bros*. At first glance, it appears to be a simple, crudely drawn clone of Mario, featuring a white cat-like character in a familiar-looking world. However, the game is infamous for being an "unfair platformer" or "troll game."
+*Cat Mario* 또는 *Syobon Action(しょぼんのアクション)* 은 클래식 *Super Mario Bros.*를
+패러디한 일본 프리웨어 게임입니다. 겉보기에는 하얀 고양이 캐릭터가 나오는 단순한
+2D 점프 액션처럼 보이지만, 실제로는 플레이어를 끝까지 괴롭히는 언페어 플랫폼,
+일명 "트롤 게임"으로 유명합니다.
 
-The entire game is designed to subvert player expectations and troll them in every way imaginable. The levels are filled with countless hidden traps, invisible blocks, ground that suddenly collapses, enemies that behave unpredictably, and background elements that are actually lethal. The core gameplay is based on trial and error, requiring players to die repeatedly to memorize the location and nature of each trap. The game's humor comes from the sheer absurdity and unfairness of the deaths, and the life counter, which often goes into negative numbers, serves as a running gag. The goal is simply to reach the flagpole at the end of each stage without rage-quitting.
+이 게임의 레벨은 플레이어의 예상을 철저히 배신하도록 설계되어 있습니다. 보이지 않는
+블록, 갑자기 무너지는 발판, 이상한 움직임을 보이는 적들, 보기에는 장식 같지만
+닿으면 즉사하는 배경 오브젝트까지 수없이 많은 함정이 숨겨져 있습니다. 기본 진행은
+"죽으면서 외우는" 트라이 앤 에러에 가깝고, 수많은 황당한 죽음 자체가 게임의 개그
+포인트입니다. 목숨 카운트가 0을 지나 마이너스로 내려가는 것도 하나의 웃음 요소죠.
+목표는 단순합니다. 분노로 게임을 끄기 전에 각 스테이지 끝의 깃발까지 도달하는 것.
 
-### Gameplay Strategy & Walkthrough Principles
+### 공략 & 진행 원칙
 
-There is no "strategy" in the traditional sense, only memorization. The game is a test of patience and memory, not skill.
+전통적인 의미의 "실력 위주 전략"은 거의 없고, 기억력과 인내심이 전부라고 해도
+과언이 아닙니다.
 
--   **Rule #1: TRUST NOTHING.** This is the golden rule of Cat Mario. Do not trust the ground you walk on, the blocks above you, the clouds in the sky, or even the flagpole at the end. Everything is a potential trap.
--   **Trial and Error is the Only Way:** You are meant to die. Every death is a lesson. When you die, pay close attention to what killed you and remember that spot for your next attempt. The game is only beatable through rote memorization.
--   **Expect the Unexpected:**
-    -   Question blocks can be solid, invisible, or spawn enemies on top of you.
-    -   The very first patch of ground in Level 1 will collapse if you walk on it normally.
-    -   Enemies may suddenly accelerate, jump, or fall from the sky.
-    -   Power-ups can kill you.
--   **Key Traps to Remember (Level 1 Spoilers):**
-    -   The first `?` block you see is a trap. Hitting it from below will cause it to fly upwards, killing you. Jump over it.
-    -   The ground right after the first pipe will collapse. You must jump over the gap.
-    -   Some clouds in the sky are actually enemies and will kill you if you touch them.
-    -   When you reach the final staircase, an enemy will spawn at the top. Be prepared.
-    -   **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
+- **규칙 1: 아무것도 믿지 마라.** 이것이 Cat Mario의 황금률입니다. 밟고 있는 땅,
+  머리 위의 블록, 하늘의 구름, 마지막 골인지점의 깃발까지, 어느 것 하나 믿을 수
+  없습니다. 모든 것이 잠재적인 함정입니다.
+- **트라이 앤 에러만이 길이다:** 죽는 것은 이 게임의 전제 조건입니다. 죽을 때마다
+  무엇 때문에 죽었는지 잘 기억해 두고, 다음 시도에서 그 구간을 피해 가야 합니다.
+  결국 모든 함정의 위치와 형태를 암기했을 때 비로소 클리어가 가능합니다.
+- **항상 예상 밖을 예상하라:**
+    - 물음표 블록은 고정 블록이거나 보이지 않는 블록일 수 있고, 머리 위로 적을
+    소환해 즉사시킬 수도 있습니다.
+    - 1스테이지 시작 직후 첫 번째 발판은 평범해 보이지만, 그냥 걸어가면 그대로
+    무너져 내려 떨어집니다.
+    - 적들은 갑자기 속도가 빨라지거나 이상한 점프를 하거나, 하늘에서 덮쳐 오기도
+    합니다.
+    - 심지어 일부 파워업은 당신을 강화시키는 대신 그대로 죽여 버리기도 합니다.
+- **기억해 둘 만한 함정들 (1스테이지 스포일러):**
+    - 처음 보이는 `?` 블록은 함정입니다. 아래에서 치면 위로 날아오르면서 플레이어를
+    그대로 치어 죽입니다. 과감하게 건너뛰세요.
+    - 첫 번째 파이프 직후의 땅은 무너지는 구간입니다. 그 부분은 반드시 점프로
+    넘어가야 합니다.
+    - 일부 구름은 실제로는 적이어서, 닿는 순간 즉사합니다.
+    - 마지막 계단에 도달했을 때 꼭대기에서 적이 튀어나오니, 여유를 두고 대비해야
+    합니다.
+    - **절대 깃발을 그대로 잡지 마세요.** 깃발에 닿으면 함정이 발동합니다. 깃발을
+    *넘어* 점프해 숨겨진 블록 위에 올라가고, 그 뒤로 걸어가 성문에 들어가야
+    클리어됩니다.
 
-### Controls Guide
+### 조작 방법
 
-The controls are very simple and mimic classic 2D platformers.
--   **Left/Right Arrow Keys:** Move the character left and right.
--   **Up Arrow Key:** Jump.
+조작은 고전 2D 플랫폼 게임과 거의 같습니다.
+- **좌/우 방향키:** 캐릭터를 좌우로 이동.
+- **위쪽 방향키:** 점프.
 
-There is no run button or fire button.
+달리기나 공격 전용 버튼은 없는 매우 단순한 조작입니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**1. Why do I keep dying for no reason? This game is impossible!**
-> That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.
+**1. 이유도 없이 계속 죽어요. 이 게임 불가능 아닌가요?**  
+> 이게 바로 이 게임의 의도입니다. Cat Mario는 플레이어가 예상하지 못하는 곳에
+> 함정을 배치해, 기존 플랫폼 게임의 룰을 일부러 깨뜨리는 "트롤 게임"입니다.
+> 불가능한 게임이 아니라, 죽으면서 패턴을 외워야 깰 수 있는 구조입니다.
 
-**2. How many lives do I have? My life counter is negative.**
-> You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."
+**2. 목숨이 마이너스로 내려가는데요. 몇 번 죽으면 끝인가요?**  
+> 사실상 목숨은 무한입니다. 죽을 때마다 카운트가 줄어들어 결국 음수가 되는데,
+> 이는 제작진의 농담일 뿐 실제 게임 오버 조건은 아닙니다.
 
-**3. Is there a way to know where the traps are?**
-> No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
+**3. 함정 위치를 미리 알 수 있는 방법이 있나요?**  
+> 첫 시도에서는 없습니다. 유일한 방법은 직접 함정을 밟아 보고 죽으면서 위치와
+> 패턴을 외우는 것입니다.
 
-**4. What's the real name of this game?**
-> The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
-
+**4. 이 게임의 진짜 이름은 무엇인가요?**  
+> 영어권에서는 보통 "Cat Mario"라고 부르지만, 원래 제목은 "Syobon Action"
+> (しょぼんのアクション)입니다. "Neko Mario"라는 별칭으로도 종종 불립니다.

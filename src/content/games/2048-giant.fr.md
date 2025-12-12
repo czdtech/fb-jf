@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: 2048-giant
-title: '[FR] 2048 Giant'
-description: >-
-  [FR] Experience the classic 2048 puzzle in a giant new way in 2048 Giant.
-  Combine tiles and reach for a high score on a bigger board.
-iframeSrc: >-
-  https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
+title: "2048 Giant"
+description: "2048 Giant reprend la formule de 2048 sur un plateau plus grand : fusionne les tuiles, anticipe davantage et vise toujours des valeurs plus folles." 
+iframeSrc: 'https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/'
 thumbnail: /new-images/2048-giant.jpg
 tags:
   - puzzle
@@ -16,31 +13,28 @@ score: 4.5/5 (2500 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+2048 Giant est une déclinaison de 2048 jouée sur une grille plus large. Le but reste identique : faire glisser des tuiles numérotées pour fusionner les doublons et créer des tuiles de plus en plus grandes, jusqu’à au moins 2048. Le plateau géant offre plus d’espace, mais demande aussi plus de planification pour ne pas te faire submerger.
 
+### Guide de jeu et stratégies
 
-### Detailed Game Introduction
+Les principes de base de 2048 s’appliquent toujours, mais la grille plus grande accentue les erreurs.
 
-2048 Giant is a version of the classic 2048 puzzle game, but played on a larger grid. The goal remains the same: slide numbered tiles to combine them and create the 2048 tile. The larger board offers a new level of challenge and requires more strategic planning.
+1. **Coin d’ancrage :** choisis un coin (par exemple en bas à gauche) comme emplacement permanent de ta plus grosse tuile et organise tout autour.
+2. **Limiter les mouvements :** joue principalement avec 2–3 directions pour garder une structure stable (par ex. `Gauche` + `Bas` et `Haut` seulement si nécessaire).
+3. **Chaîne décroissante :** essaie de ranger les valeurs en décroissant à partir du coin (2048‑1024‑512‑256…), ce qui aide à déclencher des fusions en série.
+4. **Penser plusieurs coups à l’avance :** sur une grande grille, un mouvement mal pensé peut créer un « bouchon » difficile à résorber – regarde toujours ce que ton coup va produire sur la ligne suivante.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-The core strategies for 2048 apply here, but need to be adapted for the larger board.
+- **Clavier :** utilise les flèches directionnelles pour déplacer toutes les tuiles.
+- **Écran tactile :** glisse le doigt dans la direction souhaitée.
 
-1.  **[FR]** **The Corner Strategy:** Choose one corner and keep your highest value tile there. This is more crucial on a larger board to avoid getting high-value tiles trapped in the middle.
-2.  **[FR]** **Limit Movement:** Stick to 2 or 3 directions to keep the tiles organized and predictable. For example, use only the up, down, and right arrows if your corner is on the right side.
-3.  **[FR]** **Build Chains:** Arrange tiles in descending order from your chosen corner. This helps in creating chain reactions of merges.
-4.  **[FR]** **Plan Ahead:** Think several moves ahead. A larger board means more possibilities and more chances for error.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+*   **Q : Quel est l’objectif dans 2048 Giant ?**
+    *   **R :** Comme dans 2048 classique, créer la tuile 2048 (et au‑delà si tu veux continuer) en fusionnant des tuiles de même valeur.
 
-*   **[FR]** **Arrow Keys:** Use the arrow keys to move the tiles.
-*   **[FR]** **Swipe:** On touch devices, swipe in the direction you want the tiles to move.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[FR]** **Q: What is the goal of 2048 Giant?**
-    *   **[FR]** **A:** To create the 2048 tile by merging tiles of the same number. The game can be continued after reaching 2048 to achieve a higher score.
-*   **[FR]** **Q: How is it different from classic 2048?**
-    *   **[FR]** **A:** It's played on a larger grid, which makes the game longer and requires more planning.
-
+*   **Q : En quoi est‑il différent de la version originale ?**
+    *   **R :** La grille est plus grande, ce qui rallonge les parties et exige une gestion plus précise de l’espace et des valeurs pour rester maître du plateau.

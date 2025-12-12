@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: duck-life-4
-title: '[ZH TRANSLATION NEEDED] Duck Life 4'
+title: "Duck Life 4 小鴨培訓與競速模擬"
 description: >-
-  [ZH TRANSLATION NEEDED] Duck Life 4 is a training and racing sim: build your
-  duck’s stats in mini‑games and win tournaments.
+  Duck Life 4 是一款結合培訓與競速的模擬遊戲，你要透過各種迷你遊戲訓練小鴨的跑步、
+  游泳、飛行、攀爬等能力，提升體力，最後在各地錦標賽中奪冠。
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/duck-life-4.jpg
 tags:
@@ -17,26 +17,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Train a racing duck across mini‑games (running, swimming, flying, climbing), then enter regional tournaments. Energy controls stamina; hats and evolutions change looks.
+
+在 Duck Life 4 中，你將養成一隻專業賽鴨，透過不同的訓練迷你遊戲（跑步、游泳、飛行、
+攀爬）來提升各項數值。當能力足夠後，就能參加各個地區的賽事與錦標賽。能量值決定
+小鴨的耐力，而帽子與進化形態則會改變外觀風格。
 
 ### How to Play
-- Improve each stat via its training mini‑game; avoid obstacles to gain XP quickly.
-- Feed seeds to raise energy; low energy reduces race endurance.
-- Win qualifying heats to unlock new areas and tournaments.
+
+- 進入對應的訓練迷你遊戲，專注提升單一能力，躲開障礙可以更快獲得經驗值。
+- 餵食種子可以提升能量值；能量過低時，小鴨在比賽中會很快耗盡體力。
+- 先在預選賽中取得好成績，才能解鎖新的地區與更高級的錦標賽。
 
 ### Controls
-- Arrows/Mouse depending on mini‑game; Space to jump in runners (host dependent).
+
+- 具體操作依各個迷你遊戲而定，通常使用方向鍵或滑鼠控制；
+- 在跑步類關卡中，常見是使用空白鍵跳躍（以實際託管版本為準）。
 
 ### Tips
-- Rotate training so no single stat bottlenecks a race.
-- Keep energy topped off before tournaments.
-- Re‑run earlier tracks to grind safe XP if stuck.
+
+- 訓練時要輪流強化各項能力，避免只練一項導致比賽中被單一段落拖慢。
+- 在重要錦標賽之前，務必把能量值補滿，確保全程有足夠體力衝線。
+- 如果卡關，可以回到早期關卡反覆訓練，在安全環境中穩定刷經驗。
 
 ### FAQ
-- Q: Do cosmetics affect speed?  
-[ZH TRANSLATION NEEDED]   A: Hats are cosmetic; progression comes from stats and energy.
-- Q: Can I respec?  
-[ZH TRANSLATION NEEDED]   A: No—just keep training the needed stat.
-- Q: Why am I losing photo‑finish races?  
-[ZH TRANSLATION NEEDED]   A: Usually low energy or one stat (e.g., climbing) is behind.
 
+- 問：裝飾品會影響速度或能力嗎？  
+  答：帽子等外觀純粹是裝飾，不會改變能力；真正決定表現的是訓練出的數值與能量。
+
+- 問：可以重置屬性或洗點嗎？  
+  答：遊戲沒有重置屬性的系統，只要持續針對需要的能力多做訓練就可以補強。
+
+- 問：為什麼我總是在終點前一點點輸掉？  
+  答：通常是能量不足，或是某一項關鍵能力（例如攀爬）落後太多，導致關鍵路段被對手拉開。

@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: drifting-mania
-title: '[KO] Drifting mania'
-description: >-
-  [KO] Drifting mania tests top‑down drift control — feather throttle, link
-  slides, and master corner rhythm.
+title: Drifting Mania 드리프팅 매니아
+description: 상단 시점에서 드리프트 컨트롤을 시험하는 레이싱 게임입니다. 코너 리듬에 맞춰 가속과 슬라이드를 조절하며 깔끔한 랩 타임을 노려 보세요.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/drifting-mania.png
 tags:
@@ -15,28 +13,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Drifting Mania는 위에서 내려다보는 탑다운 방식의 드리프트 레이싱 게임입니다.
+차량의 미끄러지는 각도와 가속·감속 타이밍을 조절해, 코너를 부드럽게 이어 나가며
+랩 타임을 단축하는 것이 핵심입니다. 조작은 간단하지만, 드리프트 리듬을 익히려면
+반복 연습이 필요합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle pulses, and tidy exits to chain corners and set clean lap times.
+1. **천천히 들어가 빠르게 나가기**  
+   코너 진입에서는 속도를 줄이고, 탈출하면서 다시 가속해 전체 속도를 유지하는
+   것이 랩 타임을 줄이는 기본입니다.  
+2. **엑셀을 섬세하게 조절하기**  
+   드리프트 중에는 엑셀을 계속 끝까지 밟기보다 살짝살짝 떼며 슬립 각도를
+   유지해야 스핀을 방지할 수 있습니다.  
+3. **코너 연결 계획 세우기**  
+   한 코너만 보고 돌기보다, 다음 코너로 이어지는 탈출 라인을 미리 생각하고
+   진입하면 연속 드리프트가 훨씬 쉬워집니다.  
+4. **오버스티어는 빨리 수습하기**  
+   차가 너무 많이 돌아간다고 느껴지면 즉시 엑셀을 줄이고 반대 방향으로
+   핸들을 돌려 자세를 회복하세요.  
+5. **레이아웃 반복 학습**  
+   같은 트랙을 여러 번 돌면서 브레이킹 포인트와 코너별 적정 속도를 몸으로
+   익히면, 꾸준히 빠른 랩 타임을 유지할 수 있습니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Enter slow, exit fast to keep momentum.
-2.  **[KO]** Feather throttle for controlled slides.
-3.  **[KO]** Link corners by planning exit lines.
-4.  **[KO]** Recover early if over‑rotated.
-5.  **[KO]** Drill layouts for consistent braking points.
+- 조향: `A/D` 또는 좌/우 방향키  
+- 가속/브레이크: `W/S` 또는 위/아래 방향키  
+- 핸드브레이크(있는 경우): `Space`  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Steer: A/D or Left/Right; Throttle/Brake: W/S or Up/Down.
-- Handbrake (if any): Space for rotation.
+- **Q: 자꾸 회전해 버립니다.**  
+  **A:** 진입 속도를 줄이고, 드리프트 중에는 빠르게 카운터 스티어를 넣으면서
+  엑셀을 조금 덜 밟아 보세요.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 차량 업그레이드가 있나요?**  
 
-- Spinning out? Reduce throttle and counter‑steer sooner.
-- Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
 - Best times? Clean lines beat reckless speed.
+  **A:** 일부 버전에서는 차량 해금이나 성능 업그레이드를 지원하지만, 우선은
+  안정적인 운전 습관을 익히는 것이 더 중요합니다.  
 

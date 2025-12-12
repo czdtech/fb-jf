@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: fluffy-mania
-title: '[ES] Fluffy Mania'
+title: "Fluffy Mania"
 description: >-
-  [ES] Fluffy Mania is a cozy match‑and‑clear puzzler — connect cute fluffies,
-  trigger cascades, and chase high scores.
+  Fluffy Mania es un acogedor puzle de conectar y despejar: une adorables
+  fluffies, provoca cascadas y persigue las mejores puntuaciones.
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/fluffy-mania.png
 tags:
@@ -15,28 +15,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Fluffy Mania es un colorido y relajante puzle de conexión. Tienes que enlazar
+fluffies adyacentes del mismo color para eliminarlos, preparar reacciones en
+cadena y cumplir objetivos de nivel como alcanzar cierta puntuación, superar
+fases con un número limitado de movimientos o limpiar casillas especiales.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑color fluffies to clear them, set up chain reactions, and complete stage goals like score targets, limited moves, or special tile clears.
+1. **Crea cuadrados o bucles:** Si las reglas permiten hacer bucles o
+   cuadrados, normalmente limpian todas las fichas de ese color, lo que aporta
+   muchísimo valor.
+2. **Guarda las cadenas largas:** No gastes los grupos grandes al principio;
+   resérvalos para rematar objetivos exigentes.
+3. **Trabaja desde la parte inferior:** Limpiar fichas en la zona baja genera
+   cascadas naturales en la parte superior del tablero.
+4. **Piensa dos movimientos por delante:** Evita dejar fichas sueltas aisladas
+   que bloqueen el progreso.
+5. **Usa los potenciadores con cabeza:** Actívalos cuando puedan ayudarte a
+   avanzar en varios objetivos a la vez.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Make squares: If rules allow loops/squares, they usually clear all of that color—huge value.
-2.  **[ES]** Save long chains: Don’t waste large groups early; use them to finish strict goals.
-3.  **[ES]** Work from bottom: Bottom clears create natural cascades above.
-4.  **[ES]** Think two moves ahead: Avoid isolating single tiles that clog progress.
-5.  **[ES]** Power‑ups: Trigger them when they open multiple goals at once.
+- **Conectar:** Haz clic o toca y arrastra por vecinos del mismo color para
+  enlazarlos.
+- **Deshacer/Reintentar (si está disponible):** Úsalo con cuidado en niveles
+  con movimientos limitados.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Connect: Click/tap and drag through same‑color neighbors.
-- Undo/Retry (if available): Use with care on limited‑move stages.
+- **P: Me quedo atascado con un solo movimiento, ¿qué hago?**  
+  **R:** Busca jugadas en la parte inferior del tablero que puedan abrir
+  cascadas y generar nuevas conexiones.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Importan los bucles?**  
+  **R:** Si están habilitados, los bucles son muy potentes; dales prioridad
+  siempre que puedas crearlos sin arruinar otros objetivos.
 
-- Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
-- Do loops matter? If enabled, loops are extremely strong—prioritize them.
-- Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
-
+- **P: ¿Es lo mismo jugar con límite de tiempo que con límite de movimientos?**  
+  **R:** No. En los niveles con tiempo prima la velocidad; en los de movimientos
+  limitados importa más la eficiencia de cada jugada.

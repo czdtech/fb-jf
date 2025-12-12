@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: checkers-legend
-title: '[DE] Checkers Legend'
+title: "Checkers Legend"
 description: >-
-  [DE] Become a Checkers Legend in this classic board game. Plan your moves,
-  capture your opponent's pieces, and crown your kings to dominate the board.
+  Werde zur Checkers-Legende in diesem klassischen Brettspiel. Plane deine
+  Züge, schlage die Steine deines Gegners und kröne deine Figuren zu Königen,
+  um das Brett zu dominieren.
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
 thumbnail: /new-images/checkers-legend.png
 tags:
@@ -17,35 +18,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Checkers Legend* ist eine digitale Version des klassischen
+Strategie-Brettspiels Dame (Checkers/Draughts). Gespielt wird auf einem 8×8-
+Brett zwischen zwei Kontrahenten. Das Ziel ist einfach, aber strategisch
+anspruchsvoll: Schlage alle gegnerischen Steine oder blockiere sie so, dass
+kein legaler Zug mehr möglich ist.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Checkers Legend is a digital version of the classic strategy board game, also known as Draughts. The game is played on an 8x8 checkered board between two opponents. The objective is simple but requires deep strategy: capture all of your opponent's pieces or block them so they have no legal moves left. It's a timeless game of foresight and tactics.
+1.  Grundbewegung: Deine normalen Steine ("Men") ziehen jeweils ein Feld
+    diagonal vorwärts auf ein freies, dunkles Feld.
+2.  Schlagen: Um zu gewinnen, musst du gegnerische Steine schlagen. Steht dein
+    Stein diagonal neben einem gegnerischen und das Feld dahinter ist frei,
+    springst du darüber und nimmst ihn vom Brett. Ist danach ein weiterer
+    Sprung möglich, musst du die Schlagserie im selben Zug fortsetzen.
+3.  Zur Krone (King) werden: Erreicht einer deiner Steine die gegnerische
+    Grundreihe, wird er gekrönt und zum König. Im Spiel ist das meist durch
+    ein Krönungssymbol gekennzeichnet.
+4.  Stärke der Könige: Gekrönte Steine sind deutlich stärker, da sie sich sowohl
+    vorwärts als auch rückwärts diagonal bewegen und schlagen können.
+5.  Zentrum kontrollieren: Gute Spieler halten ihre Steine bevorzugt im
+    Brettzentrum. So haben sie mehr Zugoptionen und können Angriffe wie
+    Verteidigung besser koordinieren.
+6.  Hinterreihe schützen: Lass deine Grundreihe möglichst lange geschlossen, um
+    deinem Gegner den Weg zu frühen Königen zu versperren.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Basic Movement:** Your pieces, or "men," can only move one step diagonally forward onto an empty dark square.
-2.  **[DE]** **Capturing:** The key to winning is capturing your opponent's pieces. If your piece is diagonally adjacent to an opponent's piece, and the square directly behind that opponent's piece is empty, you *must* jump over and capture it. If your landing position allows for another jump, you must take that one as well in the same turn.
-3.  **[DE]** **Becoming a King:** When one of your pieces reaches the last row on the opponent's side of the board, it gets "crowned" and becomes a King. Kings are marked with a crown.
-4.  **[DE]** **King Power:** Kings are much more powerful because they can move and capture both diagonally forwards and diagonally backwards.
-5.  **[DE]** **Control the Center:** A good strategy is to control the center of the board. This gives your pieces more mobility and limits your opponent's options.
-6.  **[DE]** **Protect Your Back Row:** Be careful not to leave your back row (the row closest to you) open for your opponent to easily get a King.
+Die Bedienung ist klickbasiert.
 
-### Controls Guide
+*   Stein auswählen: Klicke auf einen deiner Steine, um ihn zu markieren –
+    mögliche Züge werden hervorgehoben.
+*   Zug ausführen: Klicke auf ein hervorgehobenes Feld, um den Stein dorthin zu
+    bewegen oder zu schlagen.
 
-The game is played with simple clicks.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Select a Piece:** Click on one of your pieces to select it. Valid moves will be highlighted.
-*   **[DE]** **Move a Piece:** Click on a highlighted empty square to move your selected piece there.
+*   F: Muss ich schlagen, wenn ich kann?
+    *   A: Ja. In den meisten offiziellen Damm-Regeln ist Schlagen Pflicht. Wenn
+        ein Schlagzug möglich ist, musst du ihn ausführen.
 
-### Frequently Asked Questions (FAQ)
+*   F: Was macht einen König so stark?
+    *   A: Normale Steine ziehen nur vorwärts. Ein König darf diagonal vor- und
+        zurückziehen und schlagen und ist dadurch extrem flexibel.
 
-*   **[DE]** **Q: Do I have to jump if I can?**
-    *   **[DE]** **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.
-
-*   **[DE]** **Q: What makes a King so special?**
-    *   **[DE]** **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
-
-*   **[DE]** **Q: How do I win the game?**
-    *   **[DE]** **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
+*   F: Wie gewinne ich das Spiel?
+    *   A: Du siegst, wenn dein Gegner keine Steine mehr hat oder seine
+        verbleibenden Steine vollständig blockiert sind und keinen legalen Zug
+        ausführen können.

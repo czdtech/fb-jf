@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: bad-time-simulator
-title: '[ZH TRANSLATION NEEDED] Bad Time Simulator'
+title: "Bad Time Simulator 坏时间模拟器"
 description: >-
-  [ZH TRANSLATION NEEDED] A detailed guide to the Bad Time Simulator, a fan-made
-  game simulating the difficult Sans boss fight. Includes an introduction,
-  gameplay strategy, controls, and FAQ.
+  《Bad Time Simulator（坏时间模拟器）》是一款粉丝自制浏览器游戏，完整复刻了《Undertale》屠杀路线中与 Sans 的高难度最终战，下面是关于玩法策略、操作与常见问题的详细说明。
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/bad-time-simulator.jpg
 tags:
@@ -17,48 +15,70 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 详细介绍
 
-[ZH TRANSLATION NEEDED] Bad Time Simulator is a fan-made browser game that meticulously recreates the final boss battle against the character Sans from the Genocide Route of the game *Undertale*. It is renowned for its extreme difficulty, designed to test a player's reflexes, patience, and pattern recognition skills to their absolute limits.
+*Bad Time Simulator（坏时间模拟器）* 是一款粉丝制作的网页游戏，用来高度还原《Undertale》屠杀路线（Genocide Route）中与 Sans 的最终 Boss 战。这场战斗以极端难度著称，目的是把玩家的反应速度、耐心以及对弹幕模式的记忆推到极限。
 
-[ZH TRANSLATION NEEDED] The game pits the player, controlling a red heart-shaped SOUL, against an onslaught of complex and fast-paced attacks. Unlike typical battles, the objective is not simply to deal damage, but to survive a series of relentless "bullet hell" sequences. The gameplay area is a small white box where the player must maneuver their SOUL to dodge bones, laser beams from "Gaster Blasters," and navigate challenging platforming sections where gravity is manipulated. The fight is characterized by its lack of invincibility frames (meaning you can take damage rapidly) and the "Karmic Retribution" (KR) effect, a poison-like mechanic that drains health over time after being hit.
+在这款游戏中，你操控的是一个红色心形的 SOUL，在一个小小的白色方框内不停移动，躲避 Sans 释放出的各种攻击：
 
-### Gameplay Strategy
+- 成片的骨头弹幕；
+- 从四面八方扫射的 “Gaster Blaster” 激光；
+- 在重力发生变化时的“蓝心平台跳跃”关卡等。
 
-[ZH TRANSLATION NEEDED] Winning in Bad Time Simulator is less about aggression and more about endurance and memorization.
+与普通 RPG 战斗不同，这里真正的目标不是输出伤害，而是**在一轮又一轮弹幕地狱中活下来**。战斗的特点包括：
 
-1.  **Memorize Attack Patterns:** Every attack from Sans is scripted, not random. The key to survival is to die, learn the pattern, and try again. Each attempt helps you anticipate the next move.
-2.  **Make Small, Precise Movements:** Panicked, large movements often lead you into other projectiles. Stay calm and make small, controlled adjustments to your position. For most patterns, there's a "safe spot" or a clear path if you move minimally.
-3.  **Understand Karmic Retribution (KR):** The purple bar that appears when you're hit is the KR effect. It acts as a poison, continually chipping away at your HP. The goal is not just to avoid fatal blows, but to avoid *any* contact with attacks to keep KR from stacking up.
-4.  **The First Attack is a Filter:** The opening attack is one of the hardest in the game. It's a long sequence designed to be overwhelming. Focus on learning its three main parts: the initial Gaster Blaster wall, the short bone waves, and the tall bone waves you must jump through. Mastering this first attack is a major milestone.
-5.  **Platforming Sections:** During some attacks, your SOUL will turn blue, subjecting it to gravity. You must jump (Up Arrow) to navigate bone platforms. Timing your jumps is critical, as a single misstep can lead to taking massive damage.
-6.  **The Final Attack:** The final sequence is a marathon of all previous attack types, culminating in a circle of Gaster Blasters firing inward. The strategy here is to move in a precise, circular pattern inside the box to avoid the beams. It requires extreme focus.
-7.  **Use Practice Mode:** Most versions of the simulator include a Practice Mode. Use it to isolate and master the specific attacks that give you the most trouble without having to restart the entire fight.
+- 几乎没有无敌时间（没有明显的“受伤硬直保护”），被打中一次可能在短时间内连续掉大量血；
+- 被击中后会出现名为 “KR（Karmic Retribution）” 的紫色条，相当于持续掉血的中毒效果；
+- 所有攻击都是脚本固定的，你面对的是一套设计好的“招式编排”。
 
-### Controls Guide
+### 游戏攻略思路
 
-[ZH TRANSLATION NEEDED] The controls are simple and based on standard keyboard inputs for PC/browser versions.
+想在 Bad Time Simulator 中获胜，靠的不是乱动，而是**记招 + 微操 + 心态**。
 
-*   **Arrow Keys (`↑` `↓` `←` `→`)**: Move the SOUL (your heart) around the box.
-*   **`Z` Key / `Enter` Key**: Confirm selections in the menu (e.g., selecting `[FIGHT]`).
-*   **`X` Key / `Shift` Key**: Cancel or go back in menus (less frequently used in the simulator).
+1.  **记住每一轮攻击模式：**  
+   Sans 的每一招都是固定顺序，没有随机。你需要通过一次次失败，逐步记住每一轮骨头、Blaster、平台段的节奏和顺位，做到“看到开头就知道下一步会发生什么”。
 
-[ZH TRANSLATION NEEDED] In "Blue SOUL" mode (gravity enabled), the **`Up Arrow`** key is used to jump.
+2.  **小幅精准移动比大幅乱躲更安全：**  
+   惊慌之下的大幅度移动很容易一头扎进另一串弹幕。尽量保持冷静，用最小的位移穿过缝隙。在大多数攻击里，正确路线其实是一条很窄的安全通道。
 
-### Frequently Asked Questions (FAQ)
+3.  **理解 KR（Karmic Retribution） 的机制：**  
+   受击后生命条上出现的紫色部分就是 KR，它会在一段时间内持续啃掉你的 HP。也就是说，即便不是致命一击，多次小伤叠加的 KR 也会让你迅速倒下，所以“完全不被打中”远比“只要不被秒就行”更重要。
 
-[ZH TRANSLATION NEEDED] **1. Why is this game so incredibly difficult?**
-[ZH TRANSLATION NEEDED] The game is a faithful simulation of what is considered one of the most challenging boss fights in modern gaming. Its difficulty is intentional, serving as the ultimate test for players who have completed the Genocide Route in the original game.
+4.  **第一轮攻击就是一重门槛：**  
+   开场的第一套连招就是本战中最难的一段之一，包括：密集的 Gaster Blaster 墙、短骨头波以及需要跳跃穿越的高骨头波。很多玩家会在这一段卡很久。可以把初期精力集中在熟练这一整套动作。
 
-[ZH TRANSLATION NEEDED] **2. What is KR (Karmic Retribution)?**
-[ZH TRANSLATION NEEDED] KR is a special damage-over-time effect. Instead of taking a single chunk of damage, getting hit by an attack applies KR, which continuously drains your health for a short period. The more you get hit, the more damage you'll take from this "poison."
+5.  **蓝心平台段要当成“节奏跳台游戏”来打：**  
+   进入蓝色 SOUL 模式后，你会受到重力影响，需要用 `↑` 键跳跃配合左右移动，在骨头平台之间穿梭。关键是掌握节奏，不要连按乱跳，一次失误可能吃到成片伤害。
 
-[ZH TRANSLATION NEEDED] **3. Is it possible to actually win?**
-[ZH TRANSLATION NEEDED] Yes, it is entirely possible to beat the Bad Time Simulator. However, it requires a significant amount of practice, patience, and dedication to memorizing every single attack pattern.
+6.  **最终攻击是耐力与集中力的考试：**  
+   最后一套大招会将之前所有类型的攻击综合到一起，最后以一圈向内收缩的 Gaster Blaster 收尾。最佳策略通常是让心保持一个近似圆形的移动轨迹，同时兼顾所有光束的间隙，这需要高度专注和多次练习。
 
-[ZH TRANSLATION NEEDED] **4. Why can't I hit Sans?**
-[ZH TRANSLATION NEEDED] In this fight, Sans dodges every single one of your attacks until the very end. The `[FIGHT]` option serves only to advance the battle to the next phase of his attacks. Your focus should be 100% on defense and survival.
+7.  **善用练习模式（Practice Mode）：**  
+   很多模拟器版本提供练习模式，可以单独练习某几段攻击，避免每次都从头打到那一段。优先把你最容易暴毙的几套招式练熟，会大幅提高通关几率。
 
-[ZH TRANSLATION NEEDED] **5. What is the difference between this and the fight in the actual game?**
-[ZH TRANSLATION NEEDED] The simulator is a very accurate recreation. Minor differences might exist depending on the specific version of the simulator, but the core mechanics, attack patterns, and overall difficulty are designed to be as close to the original experience as possible.
+### 操作指南
 
+Bad Time Simulator 的操作比较简单，主要是键盘：
+
+*   **方向键 `↑` `↓` `←` `→`：** 控制红色 SOUL 在小方框内移动。
+*   **`Z` / `Enter`：** 在菜单中确认（例如选择 `[FIGHT]`）。
+*   **`X` / `Shift`：** 菜单中的取消/返回（在模拟器中用得较少）。
+
+在蓝色 SOUL 模式下，**`↑`** 作为跳跃键配合左右移动通过平台。
+
+### 常见问题解答（FAQ）
+
+**1. 这游戏为什么这么难？**  
+这是对原作中 Sans 战的忠实还原，本身就被认为是近年游戏里最难的 Boss 战之一。极高难度是设计的一部分，面向的是已经打完屠杀线、想要挑战极限的玩家。
+
+**2. KR（Karmic Retribution） 到底是什么？**  
+KR 是一种持续性伤害效果。被攻击命中后，你不会只掉一块血，而是会在接下来的一小段时间内持续失血。命中次数越多，KR 叠加造成的总伤害就越高。
+
+**3. 真的有可能打赢吗？**  
+可以，模拟器是可以通关的。但通常需要大量练习和死很多次，通过不断记住每一轮攻击的节奏来“肌肉记忆化”整个战斗流程。
+
+**4. 为什么我打不到 Sans？**  
+在这场战斗中，Sans 会躲掉你所有的攻击，直到战斗的最后阶段为止。`[FIGHT]` 选项更多是用来推进攻击轮次，而不是用来“打伤”他。整个战斗的重点是防御与生存。
+
+**5. 模拟器和原作战斗有什么差别？**  
+大多数 Bad Time Simulator 版本都尽可能忠实于原作：攻击模式、节奏、KR 机制等都会保持一致。不同版本之间可能存在轻微差异，但整体体验目标是“和原作几乎一样”。

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: train-miner
-title: '[KO] Train Miner'
+title: "Train Miner 트레인 마이너"
 description: >-
-  [KO] Train Miner is a rail‑laying puzzler — lay tracks, collect ore, and reach
-  exits while optimizing turns and fuel.
+  광산 열차를 위해 선로를 놓아 자원을 수집하고 출구까지 안전하게 도달해야 하는 철도 퍼즐 게임입니다.
+  회전과 굴곡을 아껴 쓰며 연료를 절약하고, 막다른 길에 갇히지 않도록 경로를 설계해 보세요.
 iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
 thumbnail: /new-images/train-miner.png
 tags:
@@ -15,31 +15,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Train Miner는 광산 열차가 움직일 선로를 직접 배치해, 맵에 흩어진 자원을 최대한 많이 모으면서도
+안전하게 출구까지 도달하도록 돕는 철도 퍼즐 게임입니다. 선로를 너무 많이 굽이치게 만들면 열차의
+속도와 연료가 빨리 소모되어 도중에 멈추거나, 잘못 연결된 길 때문에 막다른 곳에 갇혀 버릴 수도
+있습니다.
 
-### Detailed Game Introduction
+플레이어는 제한된 공간과 선로 조각 안에서 최적의 경로를 설계해, 추가 자원을 챙길지 아니면 안전한
+직선 루트를 택할지 끊임없이 선택해야 합니다. 정답이 하나로 고정되어 있지 않은 스테이지가 많아,
+각자 다른 해법을 찾는 재미도 느낄 수 있습니다.
 
-Train Miner asks you to place track pieces so a mine‑train collects resources and exits safely. Turns cost momentum/fuel; mis‑routes cause dead‑ends. Smart layouts collect extras without trapping the train.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **먼저 출구까지의 기본 루트 확보하기**: 보너스 자원을 모두 먹는 것보다, 무엇보다도 열차가
+    출구까지 도달할 수 있는 최소 경로를 확보하는 것이 중요합니다. 먼저 "출구까지 갈 수 있는
+    안전한 길"을 만든 뒤, 여유가 있다면 그 주변에 분기 선로를 추가해 자원을 회수하세요.
+2.  **회전 수(커브) 최소화하기**: 선로가 자주 꺾일수록 열차의 속도와 연료가 더 빨리 떨어지는
+    구조라면, 가능한 한 직선 위주로 길을 설계하는 것이 좋습니다. 꼭 필요한 구간에만 커브를 사용해
+    낭비를 줄이세요.
+3.  **짧은 지선(스퍼) 활용하기**: 메인 루트에서 짧게 뻗어나가는 지선을 만들어 옆길 자원을 챙긴
+    뒤, 다시 본선으로 합류하도록 설계하면, 큰 위험 없이 추가 보상을 얻을 수 있습니다.
+4.  **출발 전 머릿속으로 시뮬레이션하기**: 열차를 출발시키기 전에, 선로를 눈으로 따라가 보며
+    "여기서 갈림길이 잘 이어지는지", "막다른 길은 없는지"를 한 번 더 확인하세요. 실제로 열차를
+    출발시킨 뒤에야 문제가 드러나면, 다시 설계해야 하는 수고가 늘어납니다.
+5.  **막다른 길이 보이면 빠르게 되돌리기**: 테스트 주행 도중 잘못된 갈림길이나 막힌 구간이 보이면,
+    즉시 선로를 수정해 루트를 재설계하세요. 초기에 문제를 발견하고 고치는 편이, 복잡해진 뒤에
+    전체를 갈아엎는 것보다 훨씬 수월합니다.
 
-1.  **[KO]** Exit first: Ensure a viable exit path before optional ore.
-2.  **[KO]** Turn economy: Prefer straights; reserve turns for mandatory bends.
-3.  **[KO]** Branch spurs: Add short spurs to grab side ore and rejoin main line.
-4.  **[KO]** Test rides: Simulate routes mentally before launching.
-5.  **[KO]** Undo quickly after dead‑end sightings.
+### 조작 방법 안내
 
-### Controls Guide
+- **선로 배치/회전**: 화면의 UI를 사용해 선로 조각을 선택하고, 원하는 칸에 배치하거나 회전시킵니다.
+- **열차 출발**: 경로 설계가 끝났다면 시작 버튼을 눌러 열차를 출발시킵니다.
+- **일시 정지 및 다시 시작**: 언제든지 일시 정지하거나, 마음에 들지 않을 경우 스테이지를 다시
+  시작할 수 있습니다.
 
-- Place/rotate track pieces; launch train; pause/retry via UI.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 출구 근처에서 자꾸 막다른 길이 생겨요.**  
+  **A:** 초반 구간에서 불필요하게 선로를 많이 소비했기 때문일 수 있습니다. 보다 직선에 가까운
+  루트로 다시 설계해 커브 수를 줄이고, 출구 주변에는 여유 공간을 남겨 두는 것이 좋습니다.
 
-- Q: I dead‑end near the exit.
-
-A: You spent turns earlier; reroute straighter segments.
-
-- Q: Can I collect everything?
-
-A: Often yes with smart spurs; prioritize safety first.
-
+- **Q: 맵에 있는 자원을 전부 수집하는 것이 가능한가요?**  
+  **A:** 많은 스테이지에서 이론적으로는 모든 자원을 회수할 수 있지만, 그만큼 경로가 복잡해지고
+  위험도도 함께 올라갑니다. 먼저 안정적인 클리어 루트를 만든 뒤, 여유가 생겼을 때 전체 수집에
+  도전해 보세요.

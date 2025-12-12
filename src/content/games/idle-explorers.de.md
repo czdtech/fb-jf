@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: idle-explorers
-title: '[DE] Idle Explorers'
+title: "Idle Explorers"
 description: >-
-  [DE] Manage a team of explorers and automate your digging empire in Idle
-  Explorers! Upgrade your workers, unlock new dig sites, and discover rare
-  artifacts in this addictive idle adventure.
+  Leite ein Team von Entdeckern und automatisiere dein Graben-Imperium in Idle
+  Explorers! Rüste deine Arbeiter auf, schalte neue Grabungsorte frei und finde
+  seltene Artefakte in diesem süchtig machenden Idle-Abenteuer.
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
 thumbnail: /new-images/idle-explorers.png
 tags:
@@ -17,35 +17,65 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Idle Explorers ist ein Idle-Management- und Clicker-Spiel, in dem du als
+Minen-Tycoon dein eigenes Forschungsimperium aufbaust. Du startest mit einem
+Explorer in einem einfachen Schacht und nutzt dessen Einnahmen, um deine
+Anlage auszubauen: weitere Arbeiter anheuern, Förderbänder und Lager optimieren
+und mit Managern Prozesse automatisieren. Mit der Zeit schaltest du neue,
+profitablere Minen in anderen Gebieten frei und erweiterst dein Reich Schritt
+für Schritt.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Idle Explorers is an addictive idle management and clicker game where you take on the role of a mining tycoon. Your goal is to build a vast exploration empire by managing a team of workers who dig for valuable resources. You start with a single explorer in a basic mine shaft and must use the income they generate to upgrade your operation, hire more workers, automate processes by hiring managers, and eventually unlock new, more profitable mines across different worlds.
+1.  **Den Kern-Loop verstehen**  
+    Deine Arbeiter graben automatisch und erzeugen Einkommen. Mit diesem Geld
+    kaufst du Upgrades, die wiederum dein Einkommen erhöhen. Dieser Kreislauf
+    aus **Fördern → Verdienen → Aufrüsten** ist der Motor des Spiels.
 
-### Gameplay Strategy & Walkthrough
+2.  **Upgrades mit Augenmaß priorisieren**  
+    In der Frühphase lohnt es sich, vor allem **Geschwindigkeit und Kapazität**
+    deiner Schächte zu erhöhen. Achte darauf, dass Schacht, Aufzug und Lager
+    grob auf einem ähnlichen Level bleiben, damit es keine Engpässe gibt.
 
-1.  **[DE]** **The Core Loop:** The gameplay loop is simple but compelling: Your workers dig automatically, generating cash. You use that cash to buy upgrades. Those upgrades make you earn cash faster, allowing you to afford even bigger upgrades. This cycle continues as you expand your empire.
-2.  **[DE]** **Prioritize Upgrades:** In the early game, focus on upgrading the speed and capacity of your workers and shafts. A good strategy is to keep your mine shafts, elevator, and warehouse at roughly the same level to ensure a smooth and balanced workflow without bottlenecks.
-3.  **[DE]** **Automate with Managers:** The key to any idle game is automation. As soon as you can afford them, hire managers for each part of your operation (the mine shafts, the elevator, and the warehouse). Once a manager is in place, that part of the operation will run automatically, earning you money even when you are not clicking or have the game open.
-4.  **[DE]** **Expand and Prestige:** Your main long-term goal is to earn enough money to unlock the next mine or world. Each new location offers significantly higher income potential. Many idle games also feature a "Prestige" system, where you can reset your progress in exchange for a permanent boost to all future earnings.
+3.  **Mit Managern automatisieren**  
+    Wie in jedem Idle-Game ist Automatisierung entscheidend. Sobald du es dir
+    leisten kannst, solltest du für jeden Bereich (Schacht, Aufzug, Lager)
+    Manager anheuern. Mit ihnen läuft alles weiter – auch ohne dein Zutun.
 
-### Controls Guide
+4.  **Erweitern und ggf. Prestigen**  
+    Langfristig ist dein Ziel, genug Geld zu verdienen, um neue Minen oder
+    Welten aufzuschließen. Jede neue Location bietet deutlich höhere
+    Einnahmepotenziale. Viele Idle-Spiele bieten außerdem ein **Prestige**-
+    System, bei dem du deinen Fortschritt zurücksetzt und im Gegenzug permanente
+    Einkommens-Boni erhältst.
 
-The game is played entirely with mouse clicks or taps.
+### Steuerung
 
-*   **[DE]** **Upgrade:** Click on the upgrade buttons for your mine shafts, elevator, and warehouse to level them up.
-*   **[DE]** **Hire Managers:** Click on the manager icons when you have enough funds to automate a process.
-*   **[DE]** **Navigate:** Use the map or world buttons to switch between your different mines.
+Das Spiel wird komplett mit Maus oder Touch gesteuert.
 
-### Frequently Asked Questions (FAQ)
+*   **Upgraden:** Klicke auf die Upgrade-Buttons für Schächte, Aufzug und Lager,
+    um ihre Stufen und Effizienz zu erhöhen.
+*   **Manager anheuern:** Klicke auf das Manager-Symbol eines Bereichs, sobald
+    du genug Geld hast, um dessen Arbeit zu automatisieren.
+*   **Navigation:** Nutze Karte oder Welten-Buttons, um zwischen unterschiedlichen
+    Minen zu wechseln.
 
-*   **[DE]** **Q: What should I upgrade first?**
-    *   **[DE]** **A:** A balanced approach is best. There's no point in having super-fast miners if your elevator can't keep up. Try to upgrade your shafts, elevator, and warehouse in tandem to keep the resources flowing smoothly.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Q: What do managers do?**
-    *   **[DE]** **A:** Managers are essential for idle income. They automate the work of their respective departments, so you continue to earn money even when you are offline.
+*   **F: Was sollte ich zuerst aufrüsten?**
+    *   **A:** Am besten entwickelst du Schacht, Aufzug und Lager **gleichmäßig**.
+        Ein extrem schneller Schacht bringt nichts, wenn der Aufzug die Erze
+        nicht abtransportieren kann.
 
-*   **[DE]** **Q: Should I spend my money right away or save it?**
-    *   **[DE]** **A:** In idle games, it's almost always best to reinvest your money into upgrades as soon as you can afford them. Each upgrade increases your earning rate, which means you'll be able to afford the next upgrade even faster. This exponential growth is the core of the game.
+*   **F: Wozu brauche ich Manager?**
+    *   **A:** Manager sorgen dafür, dass ihre Station dauerhaft arbeitet – auch
+        dann, wenn du nicht klickst oder das Spiel geschlossen hast (je nach
+        Host). Sie sind die Basis für echtes Idle-Einkommen.
 
+*   **F: Soll ich Geld sparen oder direkt ausgeben?**
+    *   **A:** In Idle-Games lohnt es sich fast immer, Geld sofort in Upgrades
+        zu stecken. Jede Verbesserung steigert deine Einnahmen und beschleunigt
+        damit den Weg zu den nächsten Upgrades – exponentielles Wachstum ist der
+        Kern des Spiels.

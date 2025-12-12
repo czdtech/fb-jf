@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: cards-of-the-undead
-title: '[FR] Cards of the Undead'
+title: Cards of the Undead
 description: >-
-  [FR] A turn-based strategy card game of survival. Move your hero across the
-  board, battle zombies, and collect coins and power-ups. Manage your health and
-  armor to survive as long as you can!
+  Jeu de cartes tactique au tour par tour en pleine apocalypse zombie : déplace
+  ton héros sur une grille de cartes, affronte les morts‑vivants, ramasse des
+  pièces et des objets et essaie de survivre le plus longtemps possible.
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/cards-of-the-undead.png
 tags:
@@ -19,32 +19,81 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Cards of the Undead est un roguelike de survie présenté sous forme de grille de
+cartes. Chaque case face cachée peut dissimuler un zombie, une potion de soin,
+de l’armure, des pièces d’or ou d’autres surprises. Tu contrôles un héros qui
+se déplace de case en case, révèle les cartes et doit survivre assez longtemps
+pour nettoyer le plateau.
 
-Cards of the Undead is a turn-based roguelike puzzle game set in a zombie apocalypse. The world is represented by a grid of face-down cards, and you control a hero who can move one space at a time. Each move uncovers a new card, which could be a zombie to fight, valuable coins, or helpful items like health potions and armor. The goal is to strategically navigate the board, manage your health, defeat all the zombies, and survive for as long as possible.
+Chaque fois que tu te déplaces sur une carte ennemie, un combat automatique se
+lance : tu perds de la vie (et éventuellement de l’armure), mais tu gagnes de
+l’expérience et des pièces si tu t’en sors vivant. Les potions restaurent ta
+santé, les équipements améliorent tes statistiques, et les pièces servent à
+acheter des améliorations entre les parties ou à débloquer de nouveaux héros.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** **Check Before You Move:** Before moving to a zombie card, always compare your hero's stats (Health and Armor) with the zombie's. Make sure you can survive the encounter. It's often better to find a potion or armor first before taking on a strong enemy.
-2.  **[FR]** **Plan Your Path:** Don't just move randomly. Try to plan a path that allows you to pick up helpful items before you are forced to fight a powerful zombie. Clearing a path to a health potion can be a lifesaver.
-3.  **[FR]** **Know Your Hero:** Different heroes have different skills. Use your hero's unique abilities to your advantage. Some might be better at fighting, while others might be better at finding treasure.
-4.  **[FR]** **Level Up:** Defeating zombies grants you Experience Points (XP). Leveling up will restore your health and improve your stats, making you stronger for the challenges ahead.
+1.  **Vérifie toujours tes points de vie avant d’attaquer**  
+    Compare tes statistiques (PV, armure, dégâts) avec celles du zombie avant
+    de te jeter sur une carte ennemie. Si le combat risque de te tuer, cherche
+    d’abord une potion ou un meilleur équipement.
+2.  **Planifie ton chemin sur la grille**  
+    Évite de te déplacer au hasard. Essaie d’ouvrir un chemin qui te permet de
+    récupérer des soins ou des bonus avant de te confronter aux ennemis les
+    plus dangereux. Laisser quelques cases inconnues pour la fin peut parfois
+    être risqué.
+3.  **Exploite les forces de ton héros**  
+    Selon le personnage choisi, tu auras peut‑être plus d’attaque, plus de
+    défense ou des compétences spéciales. Joue en fonction de ces atouts : un
+    héros fragile mais puissant doit éviter les combats inutiles, tandis qu’un
+    tank peut encaisser plus de risques.
+4.  **Montez de niveau intelligemment**  
+    L’expérience obtenue en éliminant des zombies te permet de monter de
+    niveau. Choisis les améliorations qui sécurisent ta survie (PV max, défense
+    supplémentaire) avant les bonus plus offensifs si tu as tendance à mourir
+    trop tôt.
+5.  **Sache quand battre en retraite**  
+    Parfois, la meilleure décision est de contourner un groupe d’ennemis trop
+    fort et de revenir plus tard avec de meilleures stats, plutôt que de tout
+    affronter de front.
 
-### Controls Guide
+### Commandes
 
-The game is played with simple mouse clicks or taps.
+Le jeu se joue entièrement à la souris ou au tactile.
 
-*   **[FR]** **Move:** Click on any adjacent (horizontal, vertical, or diagonal) card to move your hero to that space. This will reveal the card.
+- **Se déplacer** : clique ou touche une carte adjacente (horizontalement,
+  verticalement ou en diagonale) pour y déplacer ton héros et la révéler.  
+- **Valider / continuer** : utilise les boutons à l’écran pour passer les
+  dialogues, ouvrir les menus d’améliorations ou lancer une nouvelle partie.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: How does combat work?**
-    *   **[FR]** **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
 
-*   **[FR]** **Q: What is the goal of a level?**
-    *   **[FR]** **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
+- **A:** If your hero's HP drops to zero, your run is over, and you must start again.
 
-*   **[FR]** **Q: What happens if I run out of health?**
-    *   **[FR]** **A:** If your hero's HP drops to zero, your run is over, and you must start again.
+    - **Q: What happens if I run out of health?**
 
+- **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
+
+    - **Q: What is the goal of a level?**
+
+- **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
+
+    - **Q: How does combat work?**
+**Q : Comment fonctionne exactement le combat ?**  
+R : Le combat se résout automatiquement quand tu entres sur une carte zombie.
+Tu subis des dégâts en fonction des stats de l’ennemi et de ton armure. Si tes
+PV tombent à zéro, la partie est terminée. Si tu survis, le zombie disparaît et
+tu peux continuer.
+
+**Q : Quel est l’objectif d’un niveau ?**  
+R : L’objectif principal est de survivre et de nettoyer la grille de ses
+zombies. En parallèle, tu peux ramasser un maximum de pièces pour débloquer de
+nouveaux héros ou améliorations pour ta prochaine run.
+
+**Q : Que se passe‑t‑il quand je meurs ?**  
+R : La partie actuelle se termine, mais tu conserveras souvent une partie de
+l’expérience ou des pièces accumulées pour améliorer ton prochain essai. C’est
+un roguelike : chaque run te rend un peu plus fort pour la suivante.

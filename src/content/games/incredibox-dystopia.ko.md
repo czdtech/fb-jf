@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-dystopia
-title: '[KO] Incredibox Dystopia'
+title: Incredibox Dystopia 디스토피아 사이버펑크 모드
 description: >-
-  [KO] Explore 'Incredibox Dystopia,' the fan-made mod set in a dark cyberpunk
-  world. This guide details its electronic and synthwave sound palette, gameplay
-  tips for creating futuristic beats, and how to unlock its themed bonuses
+  어두운 사이버펑크 미래를 배경으로 한 팬메이드 모드 'Incredibox Dystopia' 가이드입니다. 신스웨이브·인더스트리얼 사운드로
+  미래 도시 비트를 만드는 방법과 보너스 해금 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1015284026/embed'
 thumbnail: /new-images/incredibox-dystopia.png
 tags:
@@ -19,40 +18,69 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox "Dystopia" Game Introduction**
+*Incredibox Dystopia*는 음악 제작 게임 Incredibox를 기반으로 한
+사이버펑크·디스토피아 테마 팬메이드 모드입니다. 네온사인이 번쩍이는
+어두운 미래 도시를 배경으로, 마스크나 후드를 쓴 캐릭터들이 등장해
+강렬한 일렉트로닉 사운드를 들려줍니다.
 
-*Incredibox Dystopia* is a highly acclaimed fan-made mod for the music creation game Incredibox. This version plunges players into a dark, neon-lit **dystopian or cyberpunk future**. The characters are stylized as futuristic figures, some wearing masks or hoods, fitting the oppressive, high-tech urban theme.
+플레이 방식은 기본 Incredibox와 동일하게, 7명의 캐릭터에게 20개의
+사운드 아이콘을 입혀 곡을 완성하는 구조입니다. 사운드는 **신스웨이브,
+다크웨이브, 인더스트리얼** 계열을 중심으로 구성되어, 미래 도시를
+달리는 듯한 분위기의 트랙을 만들 수 있습니다.
 
-The game follows the classic Incredibox drag-and-drop gameplay. Players compose music by assigning 20 unique sound icons to a crew of seven performers. The sound library is a masterful blend of **electronic music genres, including synthwave, darkwave, and industrial**, creating a powerful and atmospheric futuristic soundscape.
+목표는 전자음으로 가득한 영화풍 BGM을 직접 만들어 보는 동시에,
+특정 조합으로만 열리는 3개의 비밀 보너스 애니메이션을 찾아내는
+것입니다. 각 보너스 연출은 디스토피아 세계관의 핵심 장면을
+담고 있어, 모두 해금하는 재미도 큽니다.
 
-The objective is to foster creativity while providing a puzzle challenge. Players can freely mix and layer sounds to produce their own cinematic, cyberpunk-themed track. The puzzle element involves discovering the three specific combinations that unlock the secret animated bonuses, each one visually representing a core aspect of the dystopian theme.
+### **플레이 전략 & 팁**
 
-### **Gameplay Strategy & Tips**
+이 모드의 핵심은 **강력한 비트 + 분위기 있는 신스 레이어**를
+어떻게 배치하느냐입니다.
 
-Strategy in *Incredibox Dystopia* is about building a powerful, driving electronic beat and layering atmospheric textures to create a cohesive futuristic vibe.
+1. **사이버펑크 사운드 카테고리 이해하기**  
+    - **Beats**: 묵직한 일렉트로닉 드럼 머신, 두터운 신스 베이스,
+     공장 소음을 연상시키는 퍼커션 등이 포함되어 곡의 추진력을
+     책임집니다.  
+    - **Effects**: 글리치 효과, 기계가 돌아가는 소리, 디스토피아 도시
+     앰비언스, 신스 패드 등 분위기를 만드는 사운드가 모여 있습니다.  
+    - **Melodies**: 신스웨이브 특유의 훅을 담당하는 아르페지오 신스,
+     어두운 멜로디 루프, 강렬한 리드 신스가 들어 있습니다.  
+    - **Voices**: 로봇 보이스, 보코더 하모니, 글리치 처리된 보컬 등
+     미래적인 느낌을 주는 보컬 이펙트가 중심입니다.
 
-1.  **[KO]** **Understand the Cyberpunk Sound Categories**:
-    *   **[KO]** **Beats**: This category provides the powerful, rhythmic foundation. Expect heavy **electronic drum machines**, deep **synth basslines**, and pulsing **industrial percussion** that drive the track forward.
-    *   **[KO]** **Effects**: These are the atmospheric and textural elements. This includes glitchy sound effects, the hum of futuristic machinery, dystopian city ambiance, and synth pads that create a sense of scale and darkness.
-    *   **[KO]** **Melodies**: Here you'll find the iconic hooks of the synthwave genre. This category features memorable **arpeggiated synth lines**, dark melodic loops, and powerful lead synth riffs.
-    *   **[KO]** **Voices**: The vocals are heavily processed to fit the theme. Expect to hear **robotic chants**, **vocoder harmonies**, glitched-out singing, and other futuristic vocal effects.
+2. **강한 리듬부터 만들기**  
+   먼저 `Beats` 카테고리에서 킥·스네어·베이스 역할을 하는 아이콘을
+   1~2개 골라 기본 리듬을 만든 뒤, 필요하다면 추가 비트를 얹어 곡의
+   뼈대를 세우세요. 이 모드는 리듬만 잘 깔아도 분위기가 절반 이상
+   완성됩니다.
 
-2.  **[KO]** **Start with a Driving Rhythm**: The core of this mod's music is its powerful rhythm. Begin your composition by laying down a strong foundation with one or two icons from the "Beats" category. A solid beat and bassline are essential.
+3. **도시의 분위기를 덧입히기**  
+   리듬이 마련되면 `Effects` 아이콘으로 도시 앰비언스나 신스 패드를
+   더해 깊이를 만들어 보세요. 배경이 단단히 깔려 있으면 이후 멜로디를
+   올렸을 때 훨씬 영화적인 느낌이 납니다.
 
-3.  **[KO]** **Layer the Atmosphere**: To create a true dystopian feel, build up the atmosphere. After the beat is established, add one or two "Effects" to create a sense of being in a futuristic city. This will give your track depth before you even add the main melody.
+4. **강렬한 훅 찾기**  
+   `Melodies`에서 마음에 드는 신스 라인을 골라 트랙의 중심으로 삼으세요.
+   반복해도 질리지 않는 패턴이 이상적입니다. 이후 보컬 계열 아이콘으로
+   마무리를 하면 보다 완성도 높은 믹스를 만들 수 있습니다.
 
-4.  **[KO]** **Find a Powerful Hook**: Experiment with the "Melodies" to find a synth line that you can build the rest of the track around. A strong, memorable melody is key to making your mix stand out.
+5. **보너스는 체계적으로 탐색**  
+   다른 모드처럼, 기본적으로 잘 어울리는 3~4개 조합을 고정해 두고
+   나머지 슬롯만 하나씩 바꾸어 보는 식으로 보너스를 찾는 것이 효율적입니다.
 
-5.  **[KO]** **Systematic Bonus Hunting**: As with other versions, the best way to find the hidden bonuses is to be methodical. Lock in a few core sounds that form a good base, then systematically try every other icon one by one until you trigger an animation.
+### **조작 가이드**
 
-### **Controls Guide**
+조작 방식은 공식 Incredibox와 동일합니다.
 
-The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
-
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the seven characters.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your musical creation.
+- **사운드 추가**: 하단의 사운드 아이콘을 드래그해 캐릭터 위에 올려놓습니다.
+- **사운드 제거**: 하단 아이콘의 `X`를 누르거나, 새 아이콘을 덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나 다시 켤 수
+  있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼으로 그 캐릭터만 남기고 나머지를 모두
+  뮤트할 수 있습니다.
+- **녹음**: 상단의 녹음 버튼으로 완성된 디스토피아 사운드트랙을
+  녹음·저장할 수 있습니다.
 

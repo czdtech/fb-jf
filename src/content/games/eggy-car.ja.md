@@ -1,42 +1,53 @@
 ---
-locale: ja
-urlstr: eggy-car
-title: '[JA TRANSLATION NEEDED] Eggy Car'
-description: >-
-  [JA TRANSLATION NEEDED] Eggy Car is a physics driver: carry a fragile egg on
-  your car, climb and descend hills, and don’t let it fall.
+title: Eggy Car エッギー・カー
+description: 「Eggy Car」は壊れやすい卵を運ぶドライブゲーム。デコボコ道を慎重に走り、卵を落として割らないように遠くまで進もう。
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/eggy-car.jpg
+urlstr: eggy-car
+score: 4.9/5  (297 votes)
 tags:
   - driving
   - physics
-score: 4.9/5  (297 votes)
+developer: Beedo Games
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Eggy Car（エッギー・カー）*は、屋根の上に巨大で壊れやすい「卵」を乗せた車を運転する、物理演算バランスゲームです。
+急な加速や激しい着地をすると、卵は飛び跳ねて地面に落ち、割れてしまいます。繊細なアクセルワークで丘を越え、谷を抜け、卵を守りながらできるだけ遠くまで走りましょう。
+
+### 遊び方
+
+*   **運転:** 下り坂ではスピードを出しすぎず、上り坂では跳ねないように優しく加速します。
+*   **収集:** 道中の燃料缶（Fuel）を取ってガス欠を防ぎます。コインを集めると、新しい車やアップグレード（一部バージョン）が購入できます。
+*   **リズム:** 長距離を走るコツは、アクセルを押し続けるのではなく、リズミカルにタップして微調整することです。
+
+### 操作ガイド
+
+*   **移動:** A/Dキー または 左右矢印キー（前進・ブレーキ/バック）
+*   **リスタート:** Rキー
+
+### 攻略のヒント
+
+*   **丘の越え方:** 頂上（クレスト）の手前でアクセルを離し、着地してから再加速することで、車体が跳ねるのを防げます。
+*   **安定:** 卵がグラグラし始めたら、一瞬だけブレーキを踏むと落ち着くことがあります。
+*   **アップグレード:** 最初に投資するなら「サスペンション」や「安定性」に関わる項目がおすすめです。
+
+### よくある質問 (FAQ)
+
+*   **Q: ゲームオーバーの条件は？**
+
+A: Cracks (egg breaks) or running out of fuel.
+- **A:** 卵が車から落ちて割れるか、燃料がなくなると終了です。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Balance a car carrying a fragile egg across hilly terrain. Sudden bumps crack the egg; smooth throttle wins.
+A: It’s a distance/high‑score chase in most hosts.
+*   **Q: ゴールはありますか？**
 
-### How to Play
-- Keep speed low on downhill; accelerate gently uphill to avoid bouncing.
-- Grab fuel cans to extend runs; collect coins for vehicle upgrades (host dependent).
-- Long runs demand rhythmic throttle taps, not holds.
+A: Drive slow; protect the egg—speed comes with smoother lines.
+    *   **A:** エンドレスラン形式で、走行距離とハイスコアを競うのが主な目的です。
 
-### Controls
-- A/D or Arrows to drive/brake; R: restart.
-
-### Tips
-- Treat crests like jumps—lift before the peak, reapply after landing.
-- If the egg wobbles, briefly brake to settle it.
-- Upgrades that improve suspension help the most early on.
-
-### FAQ
-- Q: What ends a run?  
-[JA TRANSLATION NEEDED]   A: Cracks (egg breaks) or running out of fuel.
-- Q: Is there a finish line?  
-[JA TRANSLATION NEEDED]   A: It’s a distance/high‑score chase in most hosts.
-- Q: Best early strategy?  
-[JA TRANSLATION NEEDED]   A: Drive slow; protect the egg—speed comes with smoother lines.
-
+*   **Q: 序盤のコツは？**
+    *   **A:** とにかくゆっくり走ることです。卵を守るのが最優先で、スピードは慣れてから出しましょう。

@@ -1,69 +1,39 @@
 ---
+title: "One Line Only Dot to Dot"
+description: "One Line Only Dot to Dotは一筆書きパズルです。すべての点を一筆で接続し、論理パズルをマスターします。"
+iframeSrc: "https://onelineonlydottodot.h5games.usercontent.goog/v/3j8k5m9h7p2n8/"
+thumbnail: "/new-images/one-line-only-dot-to-dot.png"
+urlstr: "one-line-only-dot-to-dot"
+score: "4.2/5  (1967 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: one-line-only-dot-to-dot
-title: '[JA TRANSLATION NEEDED] One line only: dot to dot'
-description: >-
-  [JA TRANSLATION NEEDED] One line only: dot to dot is a neat one‑stroke puzzler
-  — draw a single line to cover all dots and segments without retracing.
-iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
-thumbnail: /new-images/one-line-only-dot-to-dot.jpg
-tags:
-  - puzzle
-  - thinky
-score: 4.2/5  (2050 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+One Line Only Dot to Dotは、単一の連続した線ですべての点を接続することに挑戦します。線を引き直したり、同じ点を2回通過したりすることはできません。各レベルは、より複雑な配置で難易度を上げます。
 
-[JA TRANSLATION NEEDED] One line only: dot to dot follows the Euler path tradition: connect all points/edges with a single, unbroken stroke. Boards introduce bridges, forced turns, and parity tricks that require careful route planning and backtracking discipline.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **終点を識別:** 1つの接続のみを持つ点を探します。
+2.  **そこから始める:** 終点から始めることが多くの場合最適です。
+3.  **橋を避ける:** 重要な接続をブロックしないでください。
+4.  **先を計画:** 全体的なパスを視覚化します。
+5.  **元に戻して再試行:** 行き詰まった場合、やり直します。
 
-[JA TRANSLATION NEEDED] 1.  Degree count: Start at odd‑degree nodes (0 or 2 exist for Euler trails); they suggest endpoints.
-[JA TRANSLATION NEEDED] 2.  Bridge first: Draw mandatory bridges early so you don’t lock them out later.
-[JA TRANSLATION NEEDED] 3.  Avoid isolating: Don’t complete loops that strand unvisited edges.
-[JA TRANSLATION NEEDED] 4.  Look‑ahead: Test two moves mentally; backtrack early when isolation appears.
-[JA TRANSLATION NEEDED] 5.  Symmetry: Use symmetrical halves to mirror partial routes.
+### 操作ガイド
 
-### Controls Guide
+- 点をクリック/タップしてドラッグして接続します。
+- すべての点を一筆で接続します。
+- 同じパスを2回トレースしないでください。
 
-- Drag to draw along segments; undo/clear via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I end one step short — why?
-  
-[JA TRANSLATION NEEDED]   A: You likely started at a wrong endpoint; try an odd‑degree node instead.
-
-- Q: Are crossings allowed?
-  
-[JA TRANSLATION NEEDED]   A: Only along provided segments; no freehand crossings.
-
-- Q: Any hint system?
-  
-
-
-
-
-
-- Q: I end one step short — why?
-### よくある質問（FAQ）
-- Drag to draw along segments; undo/clear via UI.
-### コントロールガイド
-- Symmetry: Use symmetrical halves to mirror partial routes.
-[JA TRANSLATION NEEDED]   A: Many builds provide hints or highlight bridges.
-
-
-
-
-
-
-A: Many builds provide hints or highlight bridges.
-- Q: Any hint system?
-A: Only along provided segments; no freehand crossings.
-- Q: Are crossings allowed?
-
-
-A: Many builds provide hints or highlight bridges.
+- **Q: すべてのパズルは解決可能ですか？**  
+  A: はい、すべてのパズルには解決策があります。
+- **Q: 最良の開始戦略は何ですか？**  
+  A: 1つの接続のみを持つ点（終点）を探します。
+- **Q: ヒントはありますか？**  
+  A: 一部のバージョンにはヒントシステムがあります。

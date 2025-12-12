@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: collect-same-thing
-title: '[KO] Collect Same Thing'
+title: Collect Same Thing 콜렉트 세임 씽
 description: >-
-  [KO] Collect Same Thing is a tidy pairing game — find identical items, clear
-  the board, and plan around limited space.
+  Collect Same Thing는 같은 그림 타일을 짝지어 보드를 비워 나가는 매칭 퍼즐 게임입니다. 한정된 공간과 시간 안에서 동일한
+  아이템을 찾아 제거하며, 막히지 않는 동선을 계획해 보세요.
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/collect-same-thing.png
 tags:
@@ -15,36 +15,68 @@ score: 3.8/5  (1582 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Collect Same Thing는 여러 겹으로 쌓인 타일 또는 아이템들 가운데 같은 그림을 가진
+쌍을 찾아 제거하는 퍼즐 게임입니다. 한 쌍을 제거하면 그 아래 숨겨져 있던 타일이
+드러나며, 보드는 점점 정리되지만 동시에 공간이 좁아질 수도 있어, 무작정 제거하기보다는
+다음 수를 고려한 정리가 필요합니다.
 
+일부 모드에서는 시간 제한이나 이동 횟수 제한이 적용되어, 빠른 판단과 공간 설계가
+동시에 요구됩니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Collect Same Thing challenges you to match identical tiles or items under space/time limits. Removing pairs reveals deeper layers; success requires opening lanes, prioritizing scarce tiles, and avoiding isolated singles.
+1.  **통로부터 열어 숨은 타일 드러내기**  
+    초반에는 한 번에 여러 칸이 열릴 수 있는 통로 위주로 쌍을 제거해, 가려진
+    타일을 최대한 많이 드러내는 것이 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **개수가 적은 아이템을 우선 처리**  
+    보드에 몇 개 안 보이는 희귀 아이템은 나중에 보드가 막히면 짝을 찾기
+    어려워집니다. 여유가 있을 때 미리 제거해 두면 후반 동선이 훨씬 수월합니다.
 
-1.  **[KO]** Open lanes first to expose hidden tiles.
-2.  **[KO]** Match scarce items early before they clog the board.
-3.  **[KO]** Work bottom‑up to create cascades (when layers exist).
-4.  **[KO]** Avoid cornering singletons that have few partners.
-5.  **[KO]** Save shuffles/hints for emergencies.
+3.  **아래층부터 차근차근 정리하기**  
+    여러 층 구조일 경우, 가능한 한 아래쪽 타일을 먼저 없애 위에서 자연스럽게
+    떨어지는 "연쇄 정리"를 노려 보세요. 덕분에 추가 이동 없이도 새로운 쌍이
+    생기는 경우가 많습니다.
 
-### Controls Guide
+4.  **구석의 홀로 남은 타일 만들지 않기**  
+    파트너가 적은 타일을 보드 구석이나 깊숙한 곳에 남겨두면 나중에 접근하기
+    힘들어집니다. 가능하면 중앙 쪽에서 쌍을 정리하고, 구석은 마지막에 한꺼번에
+    비우는 쪽이 안전합니다.
 
-- Click/tap to select pairs per mode rules.
-- Use hint/shuffle (if available) sparingly.
+5.  **셔플·힌트는 위기 때만 사용**  
+    셔플이나 힌트 기능이 있다면, 더 이상 쌍을 찾기 어렵거나 시간 제한이 촉박할
+    때를 위해 아껴 두는 것이 좋습니다. 초반부터 남발하면 정말 필요할 때 쓸 수
+    없습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
+
+-   **쌍 선택:** 같은 그림의 타일/아이템을 연속으로 탭하거나 클릭해 짝을
+    선택합니다. 모드 규칙에 따라 연결 경로 제한이 있을 수 있습니다.
+-   **힌트/셔플:** 제공되는 경우, 화면의 버튼을 통해 가능한 쌍을 보여 주거나
+    전체 배치를 섞을 수 있습니다.
+
+### 자주 묻는 질문 (FAQ)
+
 
 - Q: I get stuck with no pairs — what now?
-
-A: Shuffle if allowed or restart with a different opening that preserves lanes.
+**1. 더 이상 짝이 없는 것 같은데 어떻게 해야 하나요?**  
 
 - Q: Timed or move limits?
-
-A: Modes vary; play faster for timers and plan deeper for move limits.
+> 셔플 기능이 있다면 이를 사용해 보드를 재배열해야 합니다. 셔플이 없다면,
 
 - Q: Any scoring tips?
+> 초반의 선택이 막힌 원인이 되었을 수 있으니 다른 시작 패턴으로 다시 도전해
+> 보세요.
 
-A: Chain quick pairs to maintain combo bonuses where supported.
+**2. 시간 제한과 이동 제한은 어떻게 다르게 플레이해야 하나요?**  
+> 시간 제한 모드에서는 빠른 시야 스캔과 손속도가 중요하므로, 작은 실수를
+> 크게 신경 쓰지 말고 우선 눈에 보이는 쌍부터 처리하는 것이 좋습니다. 이동
+> 제한 모드에서는 한 쌍을 제거할 때 얼마나 많은 공간과 새로운 쌍이 열리는지까지
+> 고려해 더 "가성비 좋은" 선택을 해야 합니다.
+
+**3. 점수를 더 많이 얻으려면 어떻게 해야 하나요?**  
+> 연속해서 빠르게 쌍을 맞추면 콤보 보너스를 주는 모드가 많습니다. 보드를 어느
+> 정도 외운 뒤에는, 의도적으로 연속 매치를 이어 가며 콤보를 유지하는 것이
+> 고득점에 도움이 됩니다.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: sprunki-retake-new-human
-title: "[DE] Sprunki Retake New Human \U0001F525 Play Sprunki Retake New Human Online"
+title: "Sprunki Retake New Human \U0001F525 Sprunki Retake New Human online spielen"
 description: >-
-  [DE] The core of Sprunki Retake New Human is to reimagine the classic
-  Incredibox experience through a new humanoid character design.
+  Sprunki Retake New Human denkt das klassische Incredibox-/Sprunki-Erlebnis mit
+  humanoiden Figuren neu: Du mischst Tracks mit neu designten, menschlich
+  wirkenden Charakteren und behältst dabei das vertraute Gameplay.
 iframeSrc: 'https://turbowarp.org/1139615160/embed'
 thumbnail: /sprunki-retake-new-human.png
 tags:
@@ -13,43 +14,49 @@ tags:
 score: 4.0/5  (829 votes)
 ---
 
+### Einführung in Sprunki Retake New Human
 
+Sprunki Retake New Human verpasst der Retake-Welt ein komplettes Redesign: Statt abstrakter Figuren siehst du humanoide Charaktere mit eigenem Look, Mimik und Ausstrahlung – das Spielgefühl bleibt aber klar Sprunki.
 
-### Introducing to Sprunki Retake New Human
+### Was ist Sprunki Retake New Human?
 
-Ready for a visual revolution? Welcome to the world of **Sprunki Retake New Human**! This innovative Mod transforms classic note characters into human form, bringing a refreshing visual experience while preserving the original gameplay mechanics.
+Im Kern reinterpretiert der Mod das Incredibox-/Sprunki-Prinzip mit menschlich dargestellten Charakteren. Die Spielmechanik (Figuren ziehen, Loops layern, Mixer bauen) bleibt erhalten, nur die Optik und die emotionale Anbindung ändern sich.
 
-### What is Sprunki Retake New Human?
+### Was macht Sprunki Retake New Human einzigartig?
 
-The core of **Sprunki Retake New Human** is to reimagine the classic Incredibox experience through a new humanoid character design. It not only retains the familiar Incredibox game mechanics, but also impresses you with a brand new visual style.
+- **Neues Charakterdesign:** Jede Figur hat eine humanoide Silhouette, ein eigenes Outfit und eine klar erkennbare Persönlichkeit.
+- **Mehr Bindung an die Figuren:** Durch die menschliche Darstellung fühlt sich das Zusammenspiel oft persönlicher an.
+- **Lebendige Animationen:** Die Charaktere reagieren mit Gestik, Mimik und Bewegung auf deinen Mix und wirken dadurch deutlich „lebendiger“.
 
-### What Makes Sprunki Retake New Human Unique?
+### So spielst du Sprunki Retake New Human
 
-- **New Character Design:** In **Sprunki Retake New Human**, each character has a unique humanoid design and personality, injecting new vitality into the world of Sprunki.
-- **Immersive Gaming Experience:** These humanoid character designs enhance the emotional connection between the player and the game, making it easier for you to immerse yourself in the world of music creation.
-- **Vivid Animation Effects:** As you progress through the game, you'll find that **Sprunki Retake New Human** presents a variety of dynamic animations that capture human traits, making interactions more interesting and immersive.
-
-
-### How to Play Sprunki Retake New Human?
 
 Want to experience the charm of **Sprunki Retake New Human**? The operation is very simple:
+- **Figuren wählen:** Such dir aus den neuen Humanoid-Charakteren deine Musikpartner aus.
+- **Sounds kombinieren:** Zieh sie auf die Stage, layer ihre Sounds und bastle dir daraus deinen Track.
+- **Animationen genießen:** Schau zu, wie die Figuren deine Musik spielerisch visuell interpretieren.
+- **Kreationen teilen:** In unterstützten Versionen kannst du deine Mixes mit der Community teilen.
 
-- **Choose Characters:** Choose your music partner from the newly designed humanoid characters.
-- **Combine Notes:** Combine different sounds and rhythms to create unique musical works.
-- **Appreciate Animation:** Appreciate the various vivid animations presented by these humanoid characters in **Sprunki Retake New Human**.
-- **Share Creations:** Share your **Sprunki Retake New Human** works with other players in the community!
+### Hintergrund
 
 
-### Highlights of Sprunki Retake New Human:
 
-- **Refreshed Visual Style:** Experience iconic characters reimagined as humans in **Sprunki Retake New Human**, each with distinct appearances reflecting their individuality.
-- **Lively Humanoid Animations:** Enjoy lively animations in **Sprunki Retake New Human** that capture human traits, enhancing the overall gameplay experience.
-- **Creative Design:** Immerse yourself in the upgraded visual style of **Sprunki Retake New Human**, featuring creative designs and expressive character animations.
 - **Familiar Game Mechanics:** Rediscover the beloved mechanics of Incredibox with a fresh twist in **Sprunki Retake New Human**.
 
+- **Creative Design:** Immerse yourself in the upgraded visual style of **Sprunki Retake New Human**, featuring creative designs and expressive character animations.
 
+- **Lively Humanoid Animations:** Enjoy lively animations in **Sprunki Retake New Human** that capture human traits, enhancing the overall gameplay experience.
+
+- **Refreshed Visual Style:** Experience iconic characters reimagined as humans in **Sprunki Retake New Human**, each with distinct appearances reflecting their individuality.
 ### The Story of Sprunki Retake New Human:
 
-The birth of **Sprunki Retake New Human** stems from the desire to inject new life into the classic Incredibox experience. This innovative Mod reimagines beloved characters in human form, offering a fresh perspective on the game. The development of **Sprunki Retake New Human** focused on creating unique humanoid designs for each character while preserving the core game mechanics that fans love.
+- **Familiar Game Mechanics:** Rediscover the beloved mechanics of Incredibox with a fresh twist in **Sprunki Retake New Human**.
 
-Today, **Sprunki Retake New Human** stands as a testament to creative Modding, where familiar gameplay meets innovative visual design for an engaging new experience. Join the growing **Sprunki Retake New Human** community and share your experiences with this exciting Mod! Whether you're a long-time fan or new to the series, this unique interpretation of the classic offers a brand new perspective!
+- **Creative Design:** Immerse yourself in the upgraded visual style of **Sprunki Retake New Human**, featuring creative designs and expressive character animations.
+
+- **Lively Humanoid Animations:** Enjoy lively animations in **Sprunki Retake New Human** that capture human traits, enhancing the overall gameplay experience.
+
+- **Refreshed Visual Style:** Experience iconic characters reimagined as humans in **Sprunki Retake New Human**, each with distinct appearances reflecting their individuality.
+Sprunki Retake New Human entstand aus dem Wunsch, das vertraute Sprunki-Gameplay frischer und „menschlicher“ aussehen zu lassen. Dabei wurden die ursprünglichen Mechaniken bewusst beibehalten, während Design, Gestik und Stil der Figuren komplett neu gedacht wurden.
+
+Wenn du Retake magst, aber Lust auf eine optisch andere, etwas „näher an Menschen“ wirkende Variante hast, ist Sprunki Retake New Human eine spannende Alternative.

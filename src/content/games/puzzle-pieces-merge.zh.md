@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: puzzle-pieces-merge
-title: '[ZH TRANSLATION NEEDED] Puzzle Pieces Merge'
-description: >-
-  [ZH TRANSLATION NEEDED] A relaxing and innovative puzzle game. Drag, drop, and
-  merge puzzle pieces to complete beautiful landscape images. Rotate pieces and
-  use boosters to solve each unique puzzle.
+title: 《Puzzle Pieces Merge》拼图碎片合成
+description: 《Puzzle Pieces Merge》是一款放松又有创意的拼图游戏，你需要拖拽、旋转并合并散落的拼图碎片，逐步拼出一幅幅精美的风景图。
 iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
 thumbnail: /new-images/puzzle-pieces-merge.jpg
 tags:
@@ -17,29 +14,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Puzzle Pieces Merge offers a serene and innovative twist on the classic jigsaw puzzle. Instead of a static board, this game invites you to drag, drop, and merge puzzle pieces to reveal beautiful, captivating landscapes. The core mechanic involves correctly placing pieces next to each other, at which point they will merge into a larger segment of the final image. With the ability to rotate pieces and use strategic power-ups, it’s a relaxing yet engaging experience for puzzle lovers.
+《Puzzle Pieces Merge》在传统拼图玩法上做了轻巧的创新。你不再是把碎片一块块放进固定边框，而是将散落在画面四周的碎片拖拽到中央，在正确位置彼此相邻时，它们会自动“合并”成更大的一块图像。随着不断拼合，小块碎片会逐渐变成清晰的大场景，最终呈现出完整的精美风景图。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Start with the Edges:** Just like a real-world jigsaw puzzle, a good strategy is to identify and place the edge and corner pieces first. This helps you build a frame for the rest of the image.
-2.  [ZH TRANSLATION NEEDED] **Group by Color:** Look at the pieces you have and try to group them by color or pattern. If you see a lot of blue pieces, they likely belong to the sky. Grouping them mentally will help you tackle one section of the puzzle at a time.
-3.  [ZH TRANSLATION NEEDED] **Rotate for the Perfect Fit:** Don't forget that you can rotate the pieces. If a piece looks like it should fit but doesn't, try rotating it until it aligns perfectly with its neighbors.
-4.  [ZH TRANSLATION NEEDED] **Use Boosters When Stuck:** If you find yourself truly stuck, use one of the available boosters. These power-ups can help by clearing a section, showing you where a piece goes, or providing other assistance to get you past a tricky spot.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **从边缘与角落开始：** 和现实拼图一样，先寻找带直线边的碎片拼出画面边框，能快速建立整体轮廓，为后续填充细节打底。
+2.  **按颜色与纹理分组：** 对碎片进行颜色或图案归类，例如一组可能属于天空、另一组属于草地或建筑，这样可以一次集中解决画面的一小块区域。
+3.  **记得旋转碎片：** 不要忘了碎片是可以旋转的。如果某块看起来很像属于某个位置，却始终对不上角度，尝试旋转到不同方向，往往就能完美契合。
+4.  **合理使用增益道具：** 当你卡在某个区域时，可以使用游戏提供的提示或道具，如高亮可拼接的碎片、自动摆正方向等，帮助你跨过难点。
 
-*   **Move Piece:** Click and drag a puzzle piece from your inventory onto the main puzzle board.
-*   **Rotate Piece:** Some versions may require you to click a button to rotate the piece, while others might use the right mouse button or a keyboard key.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **移动碎片：** 使用鼠标拖拽碎片，从侧边或底部区域拖到中心拼图区域。  
+*   **旋转碎片：** 部分版本通过右键点击或点击旋转按钮来调整碎片方向，也可能支持键盘快捷键。
 
-*   **Q: How do the pieces merge?**
-     *   **A:** Simply place a piece in its correct position next to another piece it connects with. If the placement is correct, they will automatically snap together and merge.
+### 常见问题（FAQ）
 
-*   **Q: I can't find where a piece goes. What should I do?**
-     *   **A:** First, try rotating it. If you're still stuck, set it aside and focus on another section of the puzzle. Often, filling in the surrounding areas will reveal exactly where the difficult piece needs to go. If all else fails, use a hint if one is available.
+*   **问：碎片是如何“合并”的？**
+    *   **答：** 当你把某一块碎片放在正确位置、并与已经放好的相邻碎片贴合时，它们会自动吸附并合并成一块更大的拼图，大幅减轻后续整理难度。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The goal is to use all the provided puzzle pieces to successfully complete the entire image.
+*   **问：找不到某块碎片对应位置怎么办？**
+    *   **答：** 可以先尝试旋转该碎片，或暂时放到一旁专注其它区域。随着周围图像逐渐完善，往往会更容易看出它应该放在哪里；必要时也可以使用提示功能。
 
+- **A:** The goal is to use all the provided puzzle pieces to successfully complete the entire image.
+
+    - **Q: What is the goal of the game?**

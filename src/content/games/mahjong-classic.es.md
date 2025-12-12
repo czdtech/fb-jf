@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: mahjong-classic
-title: '[ES] Mahjong Classic'
+title: "Mahjong Classic - Rompecabezas atemporal"
 description: >-
-  [ES] Enjoy the timeless puzzle of Mahjong Classic. Match pairs of identical,
-  unblocked tiles to clear the board in this relaxing game of strategy and
-  observation.
+  Disfruta del rompecabezas atemporal Mahjong Classic. Empareja parejas de
+  fichas idénticas y libres para limpiar el tablero en este juego relajante de
+  estrategia y observación.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/mahjong-classic.png
 tags:
@@ -19,33 +19,55 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Mahjong Classic es el rompecabezas para un solo jugador de toda la vida, basado
+en un conjunto de fichas de Mahjong. El objetivo no es formar manos ganadoras
+como en el Mahjong tradicional, sino despejar paso a paso una disposición de
+fichas apiladas encontrando y emparejando parejas idénticas. Es un juego que
+pone a prueba tu capacidad de observación y tu pensamiento estratégico,
+ofreciendo una experiencia relajante pero mentalmente estimulante.
 
-Mahjong Classic is the timeless single-player puzzle game that uses a set of Mahjong tiles. The goal is not to form winning hands as in traditional Mahjong, but to systematically clear a stacked layout of tiles by finding and matching identical pairs. It’s a game that tests your observation skills and strategic thinking, providing a relaxing yet engaging mental workout.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **La regla de las fichas libres:** solo puedes seleccionar y emparejar
+    fichas que estén "libres". Una ficha se considera libre si puede moverse a
+    la izquierda o a la derecha sin estar bloqueada por otra ficha, y si no hay
+    ninguna ficha encima de ella.
+2.  **Emparejar con cabeza:** no emparejes automáticamente la primera pareja
+    que veas. Piensa qué combinaciones abrirán más fichas nuevas. Dar prioridad
+    a las parejas que desbloquean las zonas más apiladas del tablero suele ser
+    la clave del éxito.
+3.  **Cuidado con las múltiples copias:** si ves tres o cuatro fichas idénticas
+    libres, tómate un momento para decidir qué pareja quitar primero. Una
+    elección equivocada puede dejar la otra pareja bloqueada para siempre.
+    Escoge la combinación que más ayude a tus futuros movimientos.
+4.  **Fichas de Flores y Estaciones:** recuerda que cualquier ficha de Flor se
+    puede emparejar con cualquier otra ficha de Flor, y lo mismo ocurre con las
+    fichas de Estaciones. No necesitan ser idénticas. Aprovecha esta flexibilidad,
+    sobre todo cuando estés a punto de quedarte sin movimientos.
 
-1.  **[ES]** **The Rule of Free Tiles:** You can only select and match tiles that are "free." A tile is considered free if it can be moved left or right without being blocked by another tile, and it has no other tiles sitting on top of it.
-2.  **[ES]** **Strategic Matching:** Don't just match the first pair you see. Think about which matches will open up the most new tiles. Prioritizing pairs that unblock heavily stacked areas of the board is key to success.
-3.  **[ES]** **Handle Multiples with Care:** If you see three or four identical free tiles, pause and consider which pair to match. The wrong choice could leave the other pair blocked permanently. Choose the pair that will be most beneficial for future moves.
-4.  **[ES]** **Flower and Season Tiles:** Remember that any Flower tile can be matched with any other Flower tile, and the same goes for Season tiles. They don't need to be identical. Use these flexible matches to your advantage, especially when you're stuck.
+### Guía de controles
 
-### Controls Guide
+El juego se maneja con simples clics de ratón o toques en pantalla.
 
-The game is played with simple mouse clicks or taps.
+*   **Seleccionar y emparejar:** haz clic en una ficha libre para resaltarla y
+    luego en otra ficha idéntica y libre para eliminar ambas del tablero.
+*   **Pistas y barajado:** la mayoría de versiones incluyen un botón de "Pista"
+    que te muestra una posible pareja y un botón de "Barajar" que reorganiza
+    las fichas si ya no hay movimientos disponibles.
 
-*   **[ES]** **Select & Match:** Click on a free tile to highlight it. Then, click on another identical, free tile to remove both from the board.
-*   **[ES]** **Hints/Shuffle:** Most versions include a "Hint" button to show you a possible match and a "Shuffle" button to rearrange the tiles if no moves are available.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Por qué no puedo hacer clic en una ficha?**
+    *   **R:** La ficha no está "libre". Puede estar bloqueada por ambos lados
+        por otras fichas o tener otra ficha apilada encima.
 
-*   **[ES]** **Q: Why can't I click on a tile?**
-    *   **[ES]** **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Limpiar el 100% de las fichas del tablero emparejándolas de dos
+        en dos.
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
-
-*   **[ES]** **Q: I have no more moves. Is the game over?**
-    *   **[ES]** **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
-
+*   **P: Me he quedado sin movimientos, ¿la partida ha terminado?**
+    *   **R:** No necesariamente. Si ya no hay parejas posibles, el juego suele
+        ofrecerte una opción de "Barajar" para reorganizar las fichas restantes
+        y generar nuevos movimientos.

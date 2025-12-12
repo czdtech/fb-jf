@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: infiltrating-the-airship
-title: '[ES] Infiltrating the Airship'
+title: "Infiltrating the Airship"
 description: >-
-  [ES] Henry Stickmin heist: choose gadgets and routes to board an airship,
-  trigger gags, and unlock multiple endings with scene replays.
+  Golpe de Henry Stickmin en una aeronave: elige artilugios y rutas para abordar
+  el dirigible, dispara gags absurdos y desbloquea múltiples finales rejugando
+  escenas.
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/infiltrating-the-airship.jpg
 tags:
@@ -16,29 +17,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Visión general
+Este episodio de Henry Stickmin gira en torno a un asalto ramificado a una
+nave aérea. Vas eligiendo artilugios (disfraces, ganchos, gadgets tecnológicos)
+ y rutas alternativas que pueden llevarte al éxito… o a fracasos cómicos.
+Durante las secuencias de acción aparecen QTE (quick‑time events) y, gracias al
+mapa de escenas, puedes volver a momentos clave para coleccionar todos los
+fails y finales.
 
+### Cómo se juega
+- Elige herramientas en los puntos de decisión; la sincronización importa en las
+  persecuciones.
+- Explora las grandes ramas narrativas para ver todos los finales.
+- Usa la selección de escenas (si el host la incluye) para completar la
+  colección de fails.
 
-### Overview
-This Henry Stickmin episode revolves around a branching airship break‑in. You pick gadgets (disguises, grapples, tech toys) and follow route splits that lead to success or hilarious failure. Quick‑time prompts appear in action scenes, while a scene map lets you revisit to collect all fails and endings.
+### Controles
+- Ratón para escoger opciones; algunas versiones usan teclas para los QTE, según
+  el host.
 
-### How to Play
-- Select tools at decision points; timing matters in chase sequences.
-- Explore the major branches to see unique endings.
-- Use scene select (if available) to finish collections.
+### Consejos
+- No temas fallar: cada elección equivocada te enseña cuál es el camino bueno y
+  te regala un gag nuevo.
+- Haz clic sobre los personajes en mitad de la escena para registrar bios cuando
+  el host lo permita.
+- Lleva un registro de los finales que ya has visto para no repetirlos.
 
-### Controls
-- Mouse to choose; occasional keys for QTEs depending on host.
+### Preguntas frecuentes
+- **P: ¿Cuántos finales tiene el juego?**  
+  R: Hay varios finales según la ruta que tomes; el número exacto depende de la
+  versión/host.
 
-### Tips
-- Don’t fear failure—each wrong pick teaches the right path.
-- Click characters mid‑scene to log bios when supported.
-- Keep a list of endings to avoid repeats.
+- **P: ¿Necesito reflejos rápidos en todas las escenas?**  
+  R: Solo en ciertos QTE. El progreso principal se basa en las decisiones.
 
-### FAQ
-- Q: How many endings are available in this game?
-A: Multiple branch‑specific endings; exact count depends on the host version.
-- Q: Do I need fast reactions for every scene?
-A: Only certain QTE segments; most progress comes from choices.
-- Q: Can I replay scenes to complete my collection?
-A: Yes—scene select assists with 100% runs on many hosts.
-
+- **P: ¿Puedo rejugar escenas para completar la colección?**  
+  R: Sí. La selección de escenas ayuda a conseguir el 100 % en muchas versiones.

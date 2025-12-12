@@ -1,8 +1,9 @@
 ---
 locale: zh
 urlstr: 2-tricky-stories
-title: '脑力测试2：棘手故事'
-description: '这是你玩脑力测试2：棘手故事游戏的机会。玩得开心！'
+title: "Brain Test 2: Tricky Stories 脑力测试2：棘手故事"
+description: >-
+  在《Brain Test 2: Tricky Stories（脑力测试2：棘手故事）》中，通过一系列脑洞大开的故事关卡挑战你的常识和想象力，跟随不同角色完成一连串离奇又好笑的任务。
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
 thumbnail: /new-images/2-tricky-stories.jpg
 tags:
@@ -13,7 +14,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-*脑力测试2：棘手故事* 是由Unico Studio开发和发行的一款极具创意和挑战性的益智游戏。它是广受欢迎的 *脑力测试：棘手谜题* 的续作。与前作的独立关卡不同，*脑力测试2* 引入了故事驱动模式，将谜题组织成连贯的、以角色为中心的章节。
+*Brain Test 2: Tricky Stories（脑力测试2：棘手故事）* 是由 Unico Studio 开发和发行的一款极具创意和挑战性的益智游戏。它是广受欢迎的 *脑力测试：棘手谜题* 的续作。与前作的独立关卡不同，*脑力测试2* 引入了故事驱动模式，将谜题组织成连贯的、以角色为中心的章节。
 
 核心玩法围绕"跳出思维定式"展开。玩家必须解决一系列看似简单但充满技巧和陷阱的谜题。这些谜题通常违背常规逻辑，需要玩家发挥想象力，以意想不到的方式与屏幕元素互动来找到解决方案。
 

@@ -1,49 +1,45 @@
 ---
-locale: ja
-urlstr: tomb-of-the-mask
-title: '[JA TRANSLATION NEEDED] Tomb of the Mask'
-description: >-
-  [JA TRANSLATION NEEDED] Navigate treacherous mazes in Tomb of the Mask, a
-  fast-paced arcade game! Swipe to move your character from wall to wall,
-  collecting coins and power-ups while outrunning a rising flood. Master precise
-  movements and quick decisions to survive and uncover the tomb's secrets.
-iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
+title: Tomb of the Mask
+description: Tomb of the Maskは、迷路を駆け抜けるアーケードゲームです。マスクをつけた冒険者を操作して墓を探索しましょう。
+iframeSrc: 'https://ubg98.github.io/TombOfTheMask/'
 thumbnail: /new-images/tomb-of-the-mask.jpg
+urlstr: tomb-of-the-mask
+score: 4.5/5  (4123 votes)
 tags:
   - arcade
   - maze
   - action
-score: 3.7/5  (843 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Tomb of the Mask is a highly addictive, fast-paced arcade game that combines elements of maze navigation and endless runner. Players control a character who moves by swiping, sliding from wall to wall in a pixel-art maze. The primary goal is to collect coins and power-ups while outrunning a constantly rising flood of ink or lava from below.
+Tomb of the Maskは、古代の墓の迷路を探索する速いペースのアーケードゲームです。マスクの力で壁に沿って移動し、宝物を集め、罠を避けましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-- **Movement:** Swipe in any of the four cardinal directions (up, down, left, right). Your character will slide in that direction until they hit an obstacle.
-- **Collect:** Gather coins and dots scattered throughout the maze.
-- **Power-ups:** Pick up various power-ups like shields, speed boosts, or freeze abilities to help you survive.
-- **Avoid Obstacles:** Dodge spikes, traps, and enemies.
+ - **壁に沿って移動：** スワイプして壁伝いに進みます
+ - **アイテムを集める：** コインやパワーアップを集めます
+ - **罠を避ける：** スパイクや敵を避けます
+ - **迷路を脱出：** できるだけ高く登ります
+
+
 - **Outrun the Flood:** A colored flood rises from the bottom of the screen, forcing you to move quickly upwards.
+### 操作ガイド
 
-### Controls Guide
+ - **矢印キー/WASD：** 移動方向
+ - **スワイプ：** モバイルでの移動
 
-- **Swipe:** Swipe your finger across the screen (on mobile) or use `Arrow Keys` / `WASD` (on PC) to control your character's movement.
+### よくある質問（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] **How do I get a high score?**
+迷路を探索し、宝物を集め、できるだけ高く登ることです。
 
-[JA TRANSLATION NEEDED] A high score is achieved by surviving longer, collecting more coins, and utilizing power-ups effectively. Focus on efficient pathfinding and quick reflexes.
+**マスクの力は何ですか？**
 
-[JA TRANSLATION NEEDED] **What happens if I hit an obstacle?**
+壁に沿って自動的に移動できる特別な能力です。
 
-[JA TRANSLATION NEEDED] Hitting an obstacle will usually result in instant death, ending your run. Some power-ups might offer temporary protection.
+**難易度は高いですか？**
 
-[JA TRANSLATION NEEDED] **Are there different masks?**
-
-[JA TRANSLATION NEEDED] Yes, as you progress and collect coins, you can unlock various masks. Each mask might offer a unique ability or bonus, adding a strategic layer to your runs.
-
+徐々に難しくなり、速い反応と戦略が必要になります。

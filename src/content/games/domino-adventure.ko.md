@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: domino-adventure
-title: '[KO] Domino Adventure'
+title: Domino Adventure 도미노 어드벤처
 description: >-
-  [KO] Master the classic board game, Domino Adventure. This guide provides
-  expert strategies for Block and Draw modes, tips for managing your tiles, and
-  how to win rounds by being the first to play all your dominoes.
+  Domino Adventure는 고전 보드게임 도미노를 디지털로 즐길 수 있는 게임입니다. 손패의 타일을 끝까지 잘 관리해 가장 먼저 모든
+  도미노를 내려놓고, Block/Draw 두 모드에서 점수를 유리하게 가져가는 전략을 익혀 보세요.
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/domino-adventure.png
 tags:
@@ -20,42 +19,73 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### 게임 소개
 
-*Domino Adventure* is a beautifully presented digital version of the classic dominoes board game. The objective is to be the first player to **play all of your domino tiles** by strategically matching them to the ends of the domino chain on the table.
+*Domino Adventure*는 클래식 도미노 보드게임을 깔끔한 그래픽과 함께 즐길 수 있는 디지털
+버전입니다. 목표는 테이블 위 도미노 줄 양 끝 숫자에 맞춰 타일을 이어 붙이며,
+**가장 먼저 손패의 모든 도미노를 소진하는 것**입니다.
 
-Each player starts with a hand of domino tiles. On your turn, you must place a tile from your hand that has a number of pips (dots) matching one of the open ends of the chain on the board. The game ends when one player runs out of tiles, or when all players are "blocked" and can no longer make a legal move.
+게임 시작 시 각 플레이어는 일정 수의 도미노 타일을 나누어 가진 뒤, 자신의 턴에
+보드 양 끝에 놓인 숫자 중 하나와 같은 숫자를 가진 타일을 내려놓습니다. 한 명이
+타일을 모두 내려놓거나, 모두 더 이상 합법적인 수를 둘 수 없는 "블록" 상태가 되면
+그 라운드는 종료됩니다.
 
-The winner of a round scores points equal to the total number of pips left in their opponents' hands. The game is played over several rounds until one player reaches a pre-set score target (e.g., 15 points as shown in the screenshot).
+라운드의 승자는 상대 손에 남아 있는 타일의 피프(점) 총합만큼 점수를 얻습니다.
+게임은 여러 라운드를 거쳐 사전에 정해진 목표 점수(예: 15점)에 도달하는 사람이 나올
+때까지 진행됩니다.
 
-### **Gameplay Strategy & Tips**
+### 플레이 전략 & 팁
 
-1.  **[KO]** **Play Your Doubles Early**: Double-sided tiles (like double-fives or double-threes) are less versatile because they only have one number to match. Playing them early prevents them from getting stuck in your hand later when you have fewer options.
-2.  **[KO]** **Keep a Variety of Numbers**: Try to keep a diverse range of numbers in your hand. If you only have tiles with high numbers (fives and sixes), and the ends of the chain are all low numbers, you'll be blocked.
-3.  **[KO]** **Block Your Opponent**: Pay attention to the numbers your opponent is playing. If you notice they are avoiding a certain number, it's likely they don't have it. If you have the opportunity, try to leave that number exposed on both ends of the chain to block them and force them to pass their turn (in Block mode) or draw a new tile (in Draw mode).
-4.  **[KO]** **Play Your Heaviest Tiles First**: If you anticipate that you might not win the round, it's a good strategy to play your tiles with the highest total number of pips first. This minimizes the number of points your opponent will score off you if they win.
-5.  **[KO]** **Know the Game Modes**:
-    *   **[KO]** **Block Mode**: If you cannot play a tile, you must pass your turn. This mode is more about strategically blocking your opponent.
-    *   **[KO]** **Draw Mode**: If you cannot play a tile, you must draw a new tile from the boneyard until you get one you can play. This mode involves more luck.
+1. **더블 타일은 일찍 처리:** 5-5, 3-3처럼 양쪽 숫자가 같은 더블 타일은 활용 범위가
+   좁아 후반에 손에 남으면 발목을 잡기 쉽습니다. 가능한 초반에 소진해 두는 편이
+   안전합니다.
+2. **숫자 분포를 다양하게 유지:** 손패가 5, 6 등 높은 숫자에만 몰려 있으면, 보드
+   끝 숫자가 낮게 흘러갈 때 쉽게 막히게 됩니다. 여러 숫자가 고르게 남도록 플레이해
+   선택지를 확보하세요.
+3. **상대 막기:** 상대가 자주 쓰는 숫자와 잘 쓰지 않는 숫자를 눈여겨보세요. 특정
+   숫자를 피하고 있다면 그 숫자가 없을 가능성이 큽니다. 기회가 되면 그 숫자가
+   보드 양 끝에 남도록 만들어, 상대를 막고 Block 모드에서는 패스를, Draw 모드에서는
+   강제 드로우를 유도할 수 있습니다.
+4. **무거운 타일부터 줄이기:** 이번 라운드를 이기기 어렵다고 느껴지면, 남았을 때
+   점수가 많이 쌓이는 타일(피프 합계가 큰 타일)부터 우선적으로 처리해 두세요.
+   지더라도 상대에게 넘겨줄 점수를 줄일 수 있습니다.
+5. **모드 차이 이해하기:**
+    - **Block 모드:** 둘 수 있는 타일이 없으면 그대로 턴을 넘깁니다. 상대의 수를
+     차단하는 운영이 중요합니다.
+    - **Draw 모드:** 둘 수 있는 타일이 없으면 뼈무더기(boneyard)에서 타일을 계속
+     뽑아, 낼 수 있는 타일이 나올 때까지 이어가야 합니다. 운 요소가 늘어나지만,
+     역전 기회도 많습니다.
 
-### **Controls Guide**
+### 조작 방법
 
-The game is designed for simple, intuitive drag-and-drop or click-based gameplay.
+게임은 직관적인 드래그 앤 드롭 또는 클릭 방식으로 즐길 수 있습니다.
 
-*   **[KO]** **Play a Tile**: **Click and drag** a domino from your rack to a valid matching end on the board. Alternatively, you can often just **click** the tile you want to play, and it will automatically move to a valid spot if one exists.
+- **타일 두기:** 자신의 랙에 있는 도미노 타일을 클릭해 보드의 유효한 끝으로 드래그해
+  놓거나, 일부 버전에서는 타일을 클릭하면 자동으로 둘 수 있는 위치에 배치되기도
+  합니다.
 
-### **Frequently Asked Questions (FAQ)**
+### 자주 묻는 질문(FAQ)
 
-**1. How do I win a round?**
-You win a round by being the first player to get rid of all the dominoes in your hand. You can also win if all players are blocked, and you have the lowest total number of pips remaining in your hand.
+**1. 한 라운드는 어떻게 이기나요?**  
+> 손에 있는 도미노를 가장 먼저 모두 내려놓으면 그 라운드 승리입니다. 모두가
+> 막힌 상황에서는 손에 남은 피프 합계가 가장 적은 플레이어가 승리하는 룰도
+> 자주 사용됩니다.
 
-**2. How is scoring calculated?**
-After a round ends, the winner receives points equal to the **sum of all the pips on the dominoes left in the loser's hand**. For example, if your opponent has a [6-5] and a [2-1] tile left, you score (6+5+2+1) = 14 points.
+**2. 점수는 어떻게 계산되나요?**  
 
-**3. What's the difference between "Block" and "Draw" mode?**
-*   **[KO]** In **Block Mode**, if you don't have a playable tile, you do nothing and simply skip your turn.
-*   **[KO]** In **Draw Mode**, if you don't have a playable tile, you must keep drawing new tiles from the reserve pile (the "boneyard") until you get a tile that can be played.
+- In **Draw Mode**, if you don't have a playable tile, you must keep drawing new tiles from the reserve pile (the "boneyard") until you get a tile that can be played.
 
-**4. What is the "Trophy Road"?**
-The Trophy Road is a progression system where you earn exclusive rewards by playing the game. This likely includes new, collectible tile sets and other cosmetic items.
+- In **Block Mode**, if you don't have a playable tile, you do nothing and simply skip your turn.
+> 라운드 종료 후, 승자는 상대 손패에 남아 있는 도미노의 피프 합계를 모두 더한
+> 값만큼 점수를 얻습니다. 예를 들어 상대가 [6-5]와 [2-1]을 들고 끝났다면,
+> (6+5+2+1) = 14점을 얻게 됩니다.
 
+**3. Block 모드와 Draw 모드의 차이는 무엇인가요?**  
+> **Block 모드**에서는 낼 수 있는 타일이 없으면 아무 행동도 하지 못한 채 턴을
+> 넘기게 됩니다.  
+> **Draw 모드**에서는 낼 수 있는 타일이 나올 때까지 뼈무더기에서 타일을 계속
+> 뽑아야 합니다.
+
+**4. "Trophy Road"는 무엇인가요?**  
+> Trophy Road는 플레이를 통해 트로피를 모으고, 그에 따라 새로운 타일 세트나 기타
+> 꾸미기 요소를 해금할 수 있는 진행 시스템입니다.

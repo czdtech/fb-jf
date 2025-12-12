@@ -1,51 +1,46 @@
 ---
-locale: ja
-urlstr: word-connect
-title: '[JA TRANSLATION NEEDED] Word Connect'
-description: >-
-  [JA TRANSLATION NEEDED] Connect letters and expand your vocabulary in Word
-  Connect, an addictive word puzzle game! Swipe to form words from a circular
-  set of letters and fill in the crossword-style blanks. Discover bonus words,
-  use hints, and challenge yourself across thousands of levels in this relaxing
-  brain-teaser.
-iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
+title: Word Connect
+description: Word Connectは、単語つなぎパズルゲームです。文字をつないで単語を作りましょう。
+iframeSrc: 'https://ubg98.github.io/WordConnect/'
 thumbnail: /new-images/word-connect.jpg
+urlstr: word-connect
+score: 4.4/5  (2876 votes)
 tags:
-  - word-game
   - puzzle
-  - brain-teaser
-score: 3.9/5  (144 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - word
+  - brain
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Word Connect is a popular and relaxing word puzzle game that challenges players to form words by connecting letters. Typically, a set of letters is arranged in a circular pattern, and players swipe their finger (or mouse) across them to spell out words. The goal is to find all the hidden words that fit into a crossword-style grid above.
+Word Connectは、文字をつないで単語を作る楽しい単語パズルゲームです。隠された単語をすべて見つけて、語彙力をテストしましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-- **Forming Words:** Swipe your finger from one letter to the next in the circular arrangement to spell a word. Release to submit.
-- **Objective:** Fill in all the blank spaces in the crossword grid by finding the correct words.
-- **Bonus Words:** Find words that are not part of the main puzzle to earn extra coins.
-- **Shuffling:** Use the shuffle button to rearrange the letters, which can help you see new word combinations.
+ - **文字をつなぐ：** 文字をスワイプしてつなぎます
+ - **単語を作る：** 有効な単語を形成します
+ - **すべて見つける：** 各レベルのすべての単語を発見します
+ - **レベルクリア：** すべての空欄を埋めます
+
+
 - **Hints:** Use coins to get hints that reveal a letter in a word if you get stuck.
+### 操作ガイド
 
-### Controls Guide
+ - **マウス/タッチ：** 文字をドラッグしてつなぐ
 
-- **Swipe/Drag:** Use your finger (on mobile) or mouse (on PC) to drag across the letters to form words.
+
 - **Click:** Click on the shuffle or hint buttons.
+### よくある質問（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] **How do I earn coins?**
+与えられた文字から隠された単語をすべて見つけることです。
 
-[JA TRANSLATION NEEDED] You earn coins by solving puzzles, finding bonus words, and often through daily challenges or watching ads. Coins can be used to purchase hints.
+**ヒントはありますか？**
 
-[JA TRANSLATION NEEDED] **Is there a time limit?**
+はい、困ったときに使えるヒント機能があります。
 
-[JA TRANSLATION NEEDED] Most versions of Word Connect do not have a time limit, allowing players to solve puzzles at their own pace.
+**難易度は上がりますか？**
 
-[JA TRANSLATION NEEDED] **What makes a word valid?**
-
-[JA TRANSLATION NEEDED] Words must be at least three letters long and must be valid English words found in the game's dictionary.
-
+はい、より長い単語とより多くの単語が必要になります。

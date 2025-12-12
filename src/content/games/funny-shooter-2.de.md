@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: funny-shooter-2
-title: '[DE] Funny Shooter 2'
+title: "Funny Shooter 2"
 description: >-
-  [DE] Wave‑based FPS: blast bizarre enemies with an expanding arsenal, earn
-  coins, and upgrade weapons between stages.
+  Funny Shooter 2 ist ein Wave-basierter FPS: Ballere skurrile Gegner mit einem
+  wachsenden Waffenarsenal weg, sammle Coins und verbessere deine Ausrüstung
+  zwischen den Runden.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/funny-shooter-2.jpg
 tags:
@@ -14,31 +15,43 @@ score: 3.8/5  (514 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+In Funny Shooter 2 stellst du dich in einer Arena Wellen immer abgefahrener
+Gegner. Überlebe die Runden, erfülle Ziele und investiere deine Einnahmen in
+bessere Waffen und Hilfsmittel.
 
+### So spielst du
 
+- Bleib in Bewegung: Circle-strafe und kite große Gruppen, statt stehen zu
+  bleiben.
+- Schalte zuerst Fernkämpfer und Gegner mit Explosivwaffen aus.
+- Kaufe zuerst Schadensupgrades, danach Lebenspunkte oder Rüstung.
 
-### Overview
-Arena waves of oddball foes. Survive rounds, complete objectives, and spend earnings on better weapons and utilities.
+### Steuerung
 
-### How to Play
-- Keep moving; circle‑strafe and kite large groups.
-- Prioritize ranged threats and explosive carriers.
-- Buy DPS upgrades first, then survivability.
+- WASD zum Laufen, Maus zum Zielen/Schießen.  
+- R zum Nachladen.  
+- 1–3 zum Waffenwechsel.  
+- Shift zum Sprinten (je nach Host).
 
-### Controls
-- WASD to move, Mouse to aim/shoot; R reload; 1–3 switch weapons; Shift sprint (host dependent).
+### Tipps
 
-### Tips
-- Aim for headshots; enemies are bullet‑spongy at higher waves.
-- Use corners to funnel mobs; avoid getting surrounded.
-- Save explosives for clustered spawns.
+- Kopftreffer sparen Munition und Zeit – besonders auf höheren Wellen.
+- Nutze Ecken und Deckung, um Gegner in Funnels zu ziehen und nicht umzingelt
+  zu werden.
+- Heb Explosivwaffen für dicht gespawnte Gruppen oder Elitegegner auf.
 
 ### FAQ
-- Q: How do I unlock new guns?
-A: Purchase them using coins gained from completing waves.
-- Q: Are there bosses in the game?
-A: Many versions include periodic boss waves with unique mechanics.
-- Q: Can I change sensitivity?
-A: Most hosts provide a settings menu for sensitivity and FOV.
 
+- **F: Wie schalte ich neue Waffen frei?**  
+  **A:** Kaufe sie mit den Coins, die du durch abgeschlossene Wellen
+  verdienst.
+
+- **F: Gibt es Bosswellen?**  
+  **A:** Viele Versionen haben in bestimmten Abständen Bosse mit eigenen
+  Mechaniken.
+
+- **F: Kann ich die Maus-Sensitivität ändern?**  
+  **A:** Meist gibt es im Einstellungsmenü Optionen für Sensitivität und
+  Sichtfeld (FOV).

@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: sprunki-1996
-title: '[DE] Sprunki 1996 - Play Sprunki 1996 Online'
+title: "Sprunki 1996 - Sprunki 1996 online spielen"
 description: >-
-  [DE] Sprunki 1996 is a music game brimming with creativity and nostalgia. It
-  uses a unique 90s retro computer aesthetic combined with simple, fun music
-  creation gameplay to offer a fresh experience for fans of Sprunki and
-  Incredibox.
+  Sprunki 1996 ist ein Musikspiel voller Kreativität und Nostalgie: Mit
+  90er-Retro-Computer-Look, Pixelart und elektronischen Beats bastelst du als
+  Incredibox-Fanmod deine eigenen Tracks im Stil einer "verlorenen" Anwendung
+  von 1996.
 iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
 thumbnail: /sprunki-1996.png
 tags:
@@ -14,36 +14,32 @@ tags:
 score: 4.0/5  (122 votes)
 ---
 
+Hey, erinnerst du dich noch an diese leicht flimmernden 90er-Monitore? Lust, genau dieses Gefühl zurückzuholen – und dabei auch noch Musik zu machen? Dann wird dich Sprunki 1996 umhauen. Dieser von Fans erstellte Incredibox-Mod, gebaut von Draker in Scratch, fühlt sich an wie eine Zeitmaschine zurück in die Hochphase von Pixelart und Retro-Elektro.
 
+### Was genau ist Sprunki 1996?
 
-Hey! Remember those cool, slightly glitchy screens from 90s computers? Want to relive that vibe and maybe make some music while you're at it? Then Sprunki 1996 is totally gonna blow your mind! This fan-made Incredibox mod, crafted by the awesome Draker using Scratch, is like a time machine straight back to the golden age of pixel art and retro electronic tunes!
+Im Kern ist Sprunki 1996 ein Musikbaukasten, in dem du Figuren und Sounds im Look alter 90er-Computerprogramme nutzt. Es ist nicht nur ein simples Reskin von Sprunki, sondern bringt eine eigene kleine Legende mit: So tut das Spiel, als wäre es eine "verschollene" Anwendung aus dem Jahr 1996, entwickelt von einer fiktiven Firma namens "Sunset Entertainment & Technologies". Zusammen mit Pixelgrafik, VHS-Glitches und klassischen Drum-Machine-Beats entsteht eine richtig dichte Retro-Atmosphäre.
 
-### So, What Exactly is Sprunki 1996?
+### Wie spielst du Sprunki 1996?
 
-Basically, Sprunki 1996 is a music creation game where you use characters and sounds styled like 90s computer programs. It's not just a reskin of Sprunki; it has its own unique lore – pretending to be a "lost" 1996 application developed by a fictional company called "Sunset Entertainment & Technologies"! This wild backstory, combined with pixelated visuals, VHS-style glitches, and classic drum machine beats, instantly transports you back in time!
+Sprunki 1996 bleibt super intuitiv – nur mit extra 90er-Charme:
 
-### How Do You Rock This Retro Music Box?
+- **Booten:** Klicke auf den nostalgischen "open ok it!!!"-Button auf dem Startbildschirm, um Sprunki 1996 zu starten.
+- **Die Crew kennenlernen:** Dich erwarten 20 bekannte Sprunki-Charaktere im Retro-Look plus 2 zusätzliche neue Figuren.
+- **Beats droppen:** Zieh die pixeligen Figuren auf die Bühne. Sobald sie platziert sind, legen sie los – mit Beats, Melodien und Effekten im Stil der 90er-Clubszene.
+- **Mischen und experimentieren:** Kombiniere verschiedene Charaktere, layer ihre Sounds und baue so deinen eigenen Retro-Elektrotrack.
+- **Stil wechseln (Achtung!):** Lust auf Abwechslung? Zieh den schwarzen Quadrat-Button aus der rechten unteren Ecke auf die Bühne – Sprunki 1996 schaltet in den Horror-Modus. Zurück geht es über den "pray"-Button. Ein genialer Stilbruch.
+- **Loop resetten:** Wenn du komplett neu anfangen willst, setzt der "loop"-Button alle Melodien und Figuren zurück.
+- **Mute- und Solo-Steuerung:** Du kannst einzelne Spuren hervorheben oder vorübergehend stummschalten, um deinen Mix zu verfeinern.
 
-Playing Sprunki 1996 is still super intuitive, but with double the fun:
+### Warum ist Sprunki 1996 so beliebt?
 
-- **Boot Up:** Click that nostalgic "open ok it!!!" button on the first screen to officially enter the world of Sprunki 1996.
-- **Meet the Crew:** You'll see 20 Sprunki characters given a retro makeover, plus 2 extra new faces waiting for you!
-- **Drag to Drop Beats:** Grab these pixelated cuties and drag 'em onto the stage. They'll immediately start performing, laying down beats, melodies, and effects straight out of the 90s underground electronic scene.
-- **Mix & Experiment:** Try all sorts of character combos, layering different sounds to create your very own retro electronic masterpiece.
-- **Switch Styles (Heads Up!):** Want something different? Drag that black square button from the bottom right onto the stage, and Sprunki 1996 flips into "Horror Mode"! Want to go back? Just hit the "pray" button. (This mode switch is genius!)
-- **Reset the Loop:** Need a fresh start? The "loop" button easily resets all melodies and characters.
-- **Mute/Solo Control:** Want to highlight a specific sound or temporarily remove one? No worries, the game offers these basic controls too.
+- **Maximale 90er-Stimmung:** Von VHS-Effekten über Retro-UI bis hin zu pixeligen Charakteren – alles schreit förmlich "90s".
+- **Eigenständige Pixelart:** Die Figuren sehen nicht nur niedlich aus, sondern sind liebevoll im Retro-Stil animiert.
+- **Authentischer Sound:** Die Beats klingen wie aus alten Drumcomputern und geben deinen Tracks echten 90er-Flair.
+- **Einfach zugänglich:** Sprunki 1996 läuft direkt im Browser, kostenlos und ohne Installation – auch auf dem Handy.
+- **Kreativer Spielplatz:** Hinter der simplen Steuerung steckt viel Raum für Experimente, sodass du ganz entspannt mit Ideen spielen kannst.
 
+### Fazit
 
-### Why is Sprunki 1996 Such a Hit?
-
-- **Total 90s Vibe:** From the VHS-style graphics to the retro designs, sounds, and animations, Sprunki 1996 absolutely nails the nostalgic atmosphere!
-- **Unique Pixel Art:** Who can resist charming pixel people? This retro yet polished visual style really stands out.
-- **Authentic 90s Music Experience:** It's not just the look; the sounds capture that 90s electronic feel, letting you create genuinely retro tracks.
-- **Super Convenient:** It's completely free, no downloads or installs needed, runs right in your browser, and even works on mobile! Sites like playfiddlebops.com or TwoPlayerGames make it easy to find.
-- **Sparks Creativity:** Simple controls hide endless possibilities for music creation, letting your imagination run wild.
-
-
-### Let's Wrap It Up:
-
-Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox. Whether you want to relive the golden days of the 90s or try a novel way of making music, Sprunki 1996 is definitely worth exploring. Go boot up your "old computer" and start creating your own retro beats in the pixelated world of Sprunki 1996! Have fun!
+Sprunki 1996 ist ein Musikspiel, das Kreativität und Nostalgie perfekt verbindet. Der 90er-Retro-Computerstil, die Pixelgrafik und das unkomplizierte Gameplay sorgen für ein frisches Erlebnis für alle Fans von Sprunki und Incredibox. Egal, ob du die Neunziger noch selbst erlebt hast oder einfach Lust auf einen besonderen Musikbaukasten hast – Sprunki 1996 ist einen Ausflug wert. Starte deinen "alten" Rechner und bau im pixeligen Sprunki-1996-Universum deine eigenen Retro-Beats.

@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: parking-rush
-title: '[ZH TRANSLATION NEEDED] Parking Rush'
-description: >-
-  [ZH TRANSLATION NEEDED] A fun and challenging puzzle game of traffic control!
-  Draw a path for each car to its matching parking spot, but be careful not to
-  let them crash into each other.
+title: 《Parking Rush》画线停车管制
+description: 《Parking Rush》是一款画线式停车解谜游戏，你需要为每辆车划定行驶路线，让它们安全驶入对应颜色的车位，同时避免在路线上发生碰撞。
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/parking-rush.png
 tags:
@@ -18,30 +15,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Parking Rush is a clever and addictive line-drawing puzzle game that puts you in control of a chaotic parking lot. Your job is to play the role of a parking attendant and guide each car to its designated, color-matched parking space. The challenge is to draw paths for all the cars without them crashing into each other. As the levels progress, the number of cars and obstacles increases, requiring careful planning and timing to succeed.
+《Parking Rush》是一款思路巧妙、节奏紧凑的画线解谜游戏。你扮演一名“停车场调度员”，需要为场景中的每一辆车画出一条通往对应颜色车位的路线。看似只要把起点和终点连起来就行，但随着关卡推进，车辆数量和障碍物会越来越多，如果线路规划不当，车辆在行驶途中就会互相相撞、堵在一起，导致任务失败。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Plan Your Routes:** Before you draw a single line, take a look at the entire layout. Identify which cars have the shortest or most direct paths and which ones might need to take a longer route to avoid a collision.
-2.  [ZH TRANSLATION NEEDED] **Control the Timing:** The key to this game is timing. You don't have to send all cars at once. You can draw a long, winding path for one car to deliberately delay it, giving another car time to pass through a busy intersection first.
-3.  [ZH TRANSLATION NEEDED] **One Car at a Time:** For complex levels, it's often best to draw a path for one car, let it park, and then move on to the next one. This reduces the number of moving vehicles you have to worry about at any given moment.
-4.  [ZH TRANSLATION NEEDED] **Use Open Space:** Don't be afraid to draw paths that loop around the edges or through empty parts of the parking lot. A longer path is better than a crash!
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **先整体后细节：** 在动笔画线前，先观察整个场地布局，找出最短、最直接的路线和可能的“冲突路口”，避免一上来就随意画线。
+2.  **利用路线长度控制节奏：** 不需要所有车辆同时出发。可以故意为某辆车画一条稍长的“绕路线”，用来延迟它到达关键路口的时间，让另一辆车先通过，错峰通行避免相撞。
+3.  **逐车分步执行：** 在复杂关卡中，可以先为一辆车规划路线并让它先完成停车，再依次处理其它车辆，这样屏幕上同时运动的车辆更少，更好掌控局面。
+4.  **善用边缘空地：** 不要害怕把路线画得稍微绕一点，充分利用停车场边缘或空旷区域，让线路错层分布，避免在中间路口“挤成一团”。
 
-[ZH TRANSLATION NEEDED] The game is played with a simple line-drawing mechanic.
+### 操作说明
 
-*   **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
 
-### Frequently Asked Questions (FAQ)
+The game is played with a simple line-drawing mechanic.
+*   **绘制路线：** 用鼠标或手指按住车辆，拖动到对应颜色的车位即可画出行驶路径；松手后车辆会沿路线行驶。
 
-*   **Q: What happens if two cars crash?**
-     *   **A:** You will fail the level and have to restart it from the beginning.
+### 常见问题（FAQ）
 
-*   **Q: How do I stop cars from crashing when their paths cross?**
-     *   **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
+*   **问：两辆车在交叉路口总是撞到一起怎么办？**
+    *   **答：** 可以将其中一辆车的路线画得更长，让它绕路“拖延时间”，或者先只为一辆车画线并完成停车，再处理另一辆。
 
-*   **Q: Do I have to park all the cars?**
-     *   **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+*   **问：必须让所有车辆都停进车位吗？**
+    *   **答：** 是的，每辆车都必须安全停到对应颜色的车位上，且过程中不能发生任何碰撞，关卡才算完成。
 
+- **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+
+    - **Q: Do I have to park all the cars?**

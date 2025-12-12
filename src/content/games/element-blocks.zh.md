@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: element-blocks
-title: '[ZH TRANSLATION NEEDED] Element Blocks'
+title: "Element Blocks 元素方塊拼圖"
 description: >-
-  [ZH TRANSLATION NEEDED] A strategic block puzzle game with a twist. Place
-  elemental blocks to clear lines, and collect stars to unleash powerful
-  boosters. Plan your moves carefully to master the grid!
+  Element Blocks 是一款帶有小巧變化的策略方塊拼圖遊戲。將各種元素方塊擺到 10x10 棋盤上
+  消除整行整列，並收集星星啟動強力道具，用精心規劃掌控整個棋盤。
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/element-blocks.png
 tags:
@@ -19,28 +18,36 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Element Blocks is a calm yet strategic puzzle game that builds on the popular 10x10 block puzzle formula. Players place various Tetris-like shapes, themed as elemental blocks, onto a 10x10 grid. The goal is to fill and clear complete lines either horizontally or vertically. What sets this game apart is the addition of a star collection and power-up system, providing a strategic tool to get you out of difficult situations and extend your game.
+《Element Blocks》在經典 10x10 方塊消除玩法上做了優雅的進化。你要把各種類似俄羅斯方塊
+的元素形狀放到 10x10 棋盤上，透過填滿整行或整列來進行消除。遊戲最特別的地方，是加入了
+星星收集與能量道具系統，讓你在棋盤即將卡死時，仍有翻盤的操作空間，延長整局壽命。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Standard 10x10 Rules:** You are given three block shapes at a time. You must place all three on the board before a new set appears. The blocks cannot be rotated.
-2.  [ZH TRANSLATION NEEDED] **Collect Stars:** Occasionally, blocks will appear with stars embedded in them. When you clear a line that includes one of these special blocks, you collect the star. These stars are the currency for using power-ups.
-3.  [ZH TRANSLATION NEEDED] **Use Power-ups Wisely:** Collected stars can be spent on powerful boosters. These might include a bomb to clear a small area, a lightning bolt to destroy a single line, or other helpful tools. Save these for when you are truly stuck and have no other good moves.
-4.  [ZH TRANSLATION NEEDED] **Think About Future Shapes:** Don't just place a block where it fits now. Look at the other two shapes you have and try to place the current one in a way that leaves room for the others. The game ends when you can't place any of the three given shapes.
-5.  [ZH TRANSLATION NEEDED] **Maximize Combos:** Clearing multiple lines with a single block placement is called a combo and will grant you a significant score bonus. Always be on the lookout for combo opportunities.
+
+1.  **標準 10x10 規則：** 每回合會同時給你三個方塊形狀，必須把這三個都放到棋盤上，
+    才會生成下一批新方塊。所有方塊都不能旋轉，這也是難度的一部分。
+2.  **收集星星：** 偶爾會出現帶有星星圖案的特殊方塊。當你消除的行或列包含這些方塊時，
+    就能獲得星星。星星是啟動特殊道具的貨幣。
+3.  **聰明地使用道具：** 累積到一定數量的星星後，就能啟用強力輔助，例如小範圍炸彈、
+    直線閃電清除一整行等。建議把道具留到真的沒有好位置可以放新方塊時，再果斷出手。
+4.  **預判未來形狀：** 不要只看「眼前這一塊放得下哪裡」，要同時思考另外兩個即將上場的形狀。
+    嘗試用當前的方塊去營造空間，替後面的方塊鋪路。當三個方塊中任何一個都無處可放時，遊戲就會結束。
+5.  **追求連消與高分：** 一次放置就同時消除多行或多列，會形成連消（Combo），可獲得額外高分。
+    時刻留意能否透過一顆關鍵方塊，造成多線連鎖消除。
 
 ### Controls Guide
 
-*   **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
-*   **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
+*   **放置方塊：** 使用滑鼠或手指，從底部待命區拖曳一個方塊到棋盤上，放開即可確認。
+*   **使用道具：** 在星星足夠時點擊想用的道具圖示，再點擊棋盤上的目標位置，就能釋放效果。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I get stars?**
-     *   **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
+*   **問：星星要怎麼取得？**
+    *   **答：** 當你消除的行或列中包含帶星星的特殊方塊時，就會獲得相應的星星數量。
 
-*   **Q: Can I rotate the blocks?**
-     *   **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
+*   **問：可以旋轉方塊嗎？**
+    *   **答：** 不可以，無法旋轉是這款遊戲的核心限制之一，你必須依照原本的形狀來規劃擺放。
 
-*   **Q: What is the best way to use my stars?**
-     *   **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-
+*   **問：星星最划算的用法是什麼？**
+    *   **答：** 建議把星星留在「棋盤快要塞滿」的緊急狀態再使用。當你無法放下即將到來的方塊時，
+        以炸彈或直線清除道具開一條生路，往往能讓這局再撐好一段時間，分數也能翻倍成長。

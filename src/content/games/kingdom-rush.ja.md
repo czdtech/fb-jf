@@ -1,42 +1,36 @@
 ---
+title: "Kingdom Rush"
+description: "フラッグシップのタワーディフェンス：4つのタワータイプを配置してアップグレードし、援軍を呼び、ヒーローを細かく操作してチョークポイントを守りましょう。"
+iframeSrc: "https://1000freegames.github.io/swf/kingdom-rush.html"
+thumbnail: "/new-images/kingdom-rush.jpg"
+urlstr: "kingdom-rush"
+score: "3.8/5  (405 votes)"
+tags: ["tower-defense", "strategy"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: kingdom-rush
-title: '[JA TRANSLATION NEEDED] Kingdom Rush'
-description: >-
-  [JA TRANSLATION NEEDED] Flagship tower defense: place and upgrade four tower
-  types, call reinforcements, and micro a hero to hold choke points.
-iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
-thumbnail: /new-images/kingdom-rush.jpg
-tags:
-  - tower-defense
-  - strategy
-score: 3.8/5  (405 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Kingdom Rushは、レーンコントロールとヒーローマイクロ（細かい操作）のミックスでシリーズを確立しました。パスの曲がり角に沿って、アーチャー、バラック（兵舎）、メイジ、アーティラリー（砲兵）タワーを建てます。特化した分岐にアップグレードし、援軍を呼んで敵の進軍を遅らせ、ヒーローのアクティブスキルと核攻撃を使ってスパイク（急増）を安定させます。敵のウェーブは、アーマー、魔法耐性、飛行、スポーン（生成）メカニクスを組み合わせ、柔軟なビルドを要求します。
 
+### 遊び方
+- チョークポイントに固定し、スプラッシュと単体ターゲットタワーでサポートしましょう。
+- タワーを耐性に合わせましょう。ヒーローを脅威のあるレーンに回します。
+- ボスフェーズと集中的なウェーブのためにグローバルスキルのタイミングを計りましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Kingdom Rush established the series’ mix of lane control and hero micro. Build archer, barracks, mage, and artillery towers along path bends. Upgrade into specialized branches, call reinforcements to stall, and use hero actives and nukes to stabilize spikes. Enemy waves combine armor, magic resist, flyers, and spawn mechanics, demanding flexible builds.
+### 操作方法
+- すべてのタワーとヒーローアクションにマウス/タッチ。ホットキーは異なります。
 
-### How to Play
-- Anchor at choke points; support with splash and single‑target towers.
-- Match towers to resistances; rotate hero to threatened lanes.
-- Time global skills for boss phases and bursty waves.
+### ヒント
+- 序盤は多くの弱いタワーよりも、少数の強いタワーの方が優れています。
+- 対空カバレッジを保ちましょう。飛行ユニットは地上のみのセットアップを罰します。
+- バラックを使って敵をスプラッシュの下に集めましょう。
 
-### Controls
-- Mouse/touch for all tower and hero actions; hotkeys vary.
-
-### Tips
-- Fewer, stronger towers outperform many weak ones early.
-- Keep anti‑air coverage; flyers punish ground‑only setups.
-- Use barracks to clump enemies under splash.
-
-### FAQ
-- Q: What is a good early game build order?  
-[JA TRANSLATION NEEDED]   A: One barracks + one splash + one mage, then upgrade near the main choke.
-- Q: How do I handle mixed waves effectively?  
-[JA TRANSLATION NEEDED]   A: Combine mage (armor), archer/artillery (swarm), and position hero as finisher.
-- Q: Are heroes required for completing levels?  
-[JA TRANSLATION NEEDED]   A: Not mandatory, but they smooth spikes and save lives at choke points.
-
+### よくある質問 (FAQ)
+- **Q: 良い序盤のビルド順序は？**  
+  A: バラック1つ + スプラッシュ1つ + メイジ1つ、その後メインチョークポイント近くでアップグレードします。
+- **Q: 混合ウェーブを効果的に処理するには？**  
+  A: メイジ（アーマー用）、アーチャー/アーティラリー（群れ用）を組み合わせ、ヒーローをフィニッシャーとして配置します。
+- **Q: レベルを完了するためにヒーローは必要ですか？**  
+  A: 必須ではありませんが、スパイクを滑らかにし、チョークポイントで命を救います。

@@ -1,82 +1,39 @@
 ---
+title: "Fruit Chopper"
+description: "Fruit Chopperのために刃を研ぎましょう！危険な爆弾を避けながら、飛んでくるフルーツの集中砲火をスライスしましょう。どれだけ高得点を取れますか？"
+iframeSrc: "https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/"
+thumbnail: "/new-images/fruit-chopper.png"
+urlstr: "fruit-chopper"
+score: "4.2/5  (2345 votes)"
+tags: ["action", "casual", "flash"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: fruit-chopper
-title: '[JA TRANSLATION NEEDED] Fruit Chopper'
-description: >-
-  [JA TRANSLATION NEEDED] Sharpen your blades for Fruit Chopper! Slice through a
-  barrage of flying fruits while avoiding dangerous bombs. How high can you
-  score?
-iframeSrc: 'https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/'
-thumbnail: /new-images/fruit-chopper.png
-tags:
-  - action
-  - casual
-  - flash
-score: 4.2/5  (2345 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Fruit Chopperは、反射神経と精度をテストする、テンポの速いジューシーなアーケードゲームです。画面は空中を飛ぶさまざまな美味しいフルーツでいっぱいになります。あなたのミッションは、指またはマウスのスワイプで、できるだけ多くをスライスすることです。しかし注意してください！危険な爆弾がフルーツに混ざっており、1つでも当てるとゲームオーバーです。印象的なコンボを作り、できるだけ長く生き残ることで、最高得点に挑戦しましょう。
 
-[JA TRANSLATION NEEDED] Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and precision. Your screen will be filled with a variety of delicious fruits flying through the air. Your mission is to slice as many of them as you can with a swipe of your finger or mouse. But be careful! Dangerous bombs are mixed in with the fruit, and hitting one will end your game. Challenge yourself to get the highest score by creating impressive combos and surviving as long as possible.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **コンボでスライス:** 高得点への鍵は、単一の連続したスワイプで複数のフルーツをスライスすることです。3フルーツのコンボは良いですが、4または5フルーツのコンボは巨大なスコアボーナスを与えます。
+2.  **爆弾を避ける:** これが最も重要なルールです。目は常に爆弾をスキャンしているべきです。誤って爆弾に当てるよりも、フルーツを逃す方が良いです。
+3.  **弧を待つ:** フルーツが現れた瞬間にスライスしないでください。弧の頂点に達するのを待ちます。これにより、コンボのために並ぶかもしれない他のフルーツを見る時間が増え、驚きの爆弾を避けるのに役立ちます。
+4.  **両手を使う（モバイルで）:** タッチスクリーンでプレイしている場合、両手を使うと、画面の両側に現れるフルーツに素早く反応するのに役立つことがあります。
+5.  **集中を保つ:** ゲームはより速く、より狂乱的になります。落ち着いて、野生の斬撃ではなく、滑らかで意図的なスワイプに焦点を当てましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Slice in Combos:** The key to a high score is slicing multiple fruits in a single, continuous swipe. A 3-fruit combo is good, but a 4 or 5-fruit combo will give you a massive score bonus.
-[JA TRANSLATION NEEDED] 2.  **Avoid the Bombs:** This is the most important rule. Your eyes should always be scanning for bombs. It's better to miss a fruit than to accidentally hit a bomb.
-[JA TRANSLATION NEEDED] 3.  **Wait for the Arc:** Don't slice fruits the moment they appear. Wait for them to reach the peak of their arc. This gives you more time to see other fruits that might line up for a combo and helps you avoid surprise bombs.
-[JA TRANSLATION NEEDED] 4.  **Use Both Hands (on Mobile):** If you're playing on a touchscreen, using two hands can sometimes help you react faster to fruits appearing on both sides of the screen.
-[JA TRANSLATION NEEDED] 5.  **Stay Focused:** The game gets faster and more frantic. Stay calm and focus on smooth, deliberate swipes rather than wild slashing.
+### 操作ガイド
 
-### Controls Guide
+*   **スライス:** マウスをクリックしてフルーツを横切ってドラッグしてスライスします。モバイルデバイスでは、画面を指でスワイプするだけです。
 
-*   **Slice:** Click and drag your mouse across the fruit to slice it. On a mobile device, simply swipe your finger across the screen.
-    - **A:** The goal is to get the highest score possible by slicing fruit. The game ends if you hit a bomb or miss too many fruits.（日本語訳が必要）
-    - **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.（日本語訳が必要）
-    - **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.（日本語訳が必要）
-    - **A:** The goal is to get the highest score possible by slicing fruit. The game ends if you hit a bomb or miss too many fruits.（日本語訳が必要）
-    - **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.（日本語訳が必要）
-    - **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ゲームの目標は何ですか？**
+    *   **A:** 目標は、フルーツをスライスして可能な限り最高のスコアを獲得することです。爆弾に当たるか、フルーツを逃しすぎるとゲームは終了します。
 
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** The goal is to get the highest score possible by slicing fruit. The game ends if you hit a bomb or miss too many fruits.
+*   **Q: コンボボーナスを獲得するには？**
+    *   **A:** 1回のスワイプで3つ以上のフルーツをスライスすることでコンボボーナスを獲得します。一度にスライスするフルーツが多いほど、ボーナスが大きくなります。
 
-*   **Q: How do I get a combo bonus?**
-[JA TRANSLATION NEEDED]     *   **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
-
-*   **Q: Are there different game modes?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
-- **Q: Are there different game modes?**
-    - **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
-- **Q: How do I get a combo bonus?**
-    - **A:** The goal is to get the highest score possible by slicing fruit. The game ends if you hit a bomb or miss too many fruits.
-- **Q: What is the goal of the game?**
-### よくある質問（FAQ）
-- **Slice:** Click and drag your mouse across the fruit to slice it. On a mobile device, simply swipe your finger across the screen.
-### コントロールガイド
-- **Stay Focused:** The game gets faster and more frantic. Stay calm and focus on smooth, deliberate swipes rather than wild slashing.
-
-
-
-
-
-    - **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
-- **Q: Are there different game modes?**
-    - **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
-- **Q: How do I get a combo bonus?**
-    - **A:** The goal is to get the highest score possible by slicing fruit. The game ends if you hit a bomb or miss too many fruits.
-[JA TRANSLATION NEEDED]     *   **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
-
+*   **Q: 異なるゲームモードはありますか？**
+    *   **A:** 多くのフルーツスライシングゲームは、クラシック（爆弾を避け、フルーツを逃さない）、アーケード（パワーアップ付きの60秒タイム制）、またはゼン（爆弾のないリラック��モード）のような異なるモードを特徴としています。利用可能なモードを確認するには、メインメニューを確認してください。

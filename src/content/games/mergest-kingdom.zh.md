@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: mergest-kingdom
-title: '[ZH TRANSLATION NEEDED] Mergest Kingdom'
+title: "《Mergest Kingdom》合成王国冒险"
 description: >-
-  [ZH TRANSLATION NEEDED] Mergest Kingdom is a merge‑and‑build fantasy — combine
-  tiles, complete quests, and expand realms with efficient chain planning.
+  《Mergest Kingdom》是一款奇幻题材的合成建造游戏，你通过合成植物、石块与各类遗物来升级产物、清除迷雾、扩张领地，并在任务与活动中规划高效的合成链。
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/mergest-kingdom.png
 tags:
@@ -15,32 +14,32 @@ score: 4.2/5  (2079 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Mergest Kingdom combines merge‑3 chains with kingdom building. Merge plants, stones, and artifacts to craft higher tiers, clear fog, and unlock new regions. Quests and events provide targets; energy and space limit reckless merging, rewarding planned ladders.
+《Mergest Kingdom》将合成机制与王国建设融合在一起，你会在一片被迷雾笼罩的奇幻大陆上，从零开始重建王国。通过拖拽合成三块甚至五块相同的物品，你可以获得更高等级的植物、石材、建筑与魔法遗物。高级产物可以帮你驱散迷雾、开辟新区域、解锁新居民与建筑。任务与限时活动为你设定了明确目标，而有限的体力与棋盘空间则倒逼你精打细算每一次合成。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Merge‑3 vs 5: Save sets of 5 for extra yield when feasible.
-2.  [ZH TRANSLATION NEEDED] Space staging: Keep staging zones for near‑complete sets; don’t block quest spawns.
-3.  [ZH TRANSLATION NEEDED] Quest alignment: Prioritize merges that satisfy current quests to accelerate unlocks.
-4.  [ZH TRANSLATION NEEDED] Energy pacing: Spend in bursts on planned chains, then idle to regenerate.
-5.  [ZH TRANSLATION NEEDED] Event prep: Stock partial sets before events for rapid progression.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **三合与五合的取舍：** 在条件允许的情况下，尽量收集五个同类物品再合成，可以多获得一个额外产物，性价比更高；但在卡任务或急需空间时，三合也是合理选择，不必一味强求五合。
+2.  **预留摆放与集结区：** 在棋盘上规划“临时集结区”，专门摆放即将凑齐的同类物品，避免它们散落各处导致难以合成；同时注意不要把任务刷新点或关键掉落位置堵死。
+3.  **围绕任务合成：** 游戏会提供主线任务与日常任务，优先合成与当前任务直接相关的物品，可以更快解锁新区域与功能建筑，比盲目升级所有链路更高效。
+4.  **体力节奏管理：** 体力是稀缺资源，建议在体力充足时集中进行一大串合成与清理操作，然后让体力慢慢恢复；不要在没有明确目标时随意消耗体力。
+5.  **活动前的储备：** 在活动开启前，可以提前备好一些“差一合”的组合（比如已凑齐 4 个同类物品），等活动开始后再统一合成，加速完成活动任务与奖励梯度。
 
-- Drag to merge items; tap buildings to collect; navigate regions via map.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过拖动将三个或五个相同物品摆在一起即可完成合成；点击建筑与资源点收集产出；使用地图或界面按钮在不同区域之间移动，解锁新的地块与任务。
 
-- Q: I run out of space.
+### 常见问题（FAQ）
+
+- **问：棋盘总是不够放东西怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Consolidate into 5‑merges and sell clutter; expand land ASAP.
+  **答：** 尽量优先做五合以提升产出效率，并定期清理无关紧要的低阶杂物。遇到实在放不下时，可以先合成一两次三合释放空间，再继续规划长线合成链；同时优先完成能解锁土地的任务。
 
-- Q: Energy too slow?
+- **问：体力恢复太慢影响进度？**
   
-[ZH TRANSLATION NEEDED]   A: Plan chains, collect daily rewards, and time boosts.
+  **答：** 合理安排在线时间，集中在有体力时完成大额合成；别忘了领取每日签到、活动奖励与体力礼包，在有加成时多做高收益操作。
 
-- Q: Worth merging everything?
+- **问：是不是所有东西都应该无脑往最高级合成？**
   
-[ZH TRANSLATION NEEDED]   A: No — merge toward quests and buildings that unlock features.
-
+  **答：** 不必。很多装饰类或非关键链路在中等级别就已经够用，把资源集中在能解锁新功能建筑、扩张领地或完成任务的那几条主线合成链上，会比把所有物品合满级更划算。

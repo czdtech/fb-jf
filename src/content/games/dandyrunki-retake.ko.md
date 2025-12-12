@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: dandyrunki-retake
-title: '[KO] Dandyrunki Retake - Play Dandyrunki Retake Online'
+title: "Dandyrunki Retake 단디어런키 리테이크 온라인 플레이"
 description: >-
-  [KO] In the Dandyrunki Retake, you can easily get started and effortlessly
-  explore various rhythms and melodies. Whether you are a casual player or a
-  music enthusiast, you can find your own fun in this remix version.
+  Dandyrunki Retake에서 다양한 캐릭터 루프를 조합해 나만의 음악을 만들어 보세요.
+  드래그 앤 드롭만으로 리듬과 멜로디를 섞어 누구나 쉽게 즐길 수 있는 리믹스
+  음악 놀이 게임입니다.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /dandyrunki-retake.png
 tags:
@@ -15,27 +15,42 @@ score: 3.7/5  (255 votes)
 ---
 
 
+### Dandyrunki Retake가 재미있는 이유
 
-### What's So Fun About Dandyrunki Retake?
+Dandyrunki Retake는 음악 업계의 “콜라보 앨범” 같은 리믹스 버전으로, 원작의
+독특한 사운드를 새로운 조합으로 섞어 보는 것이 핵심입니다. 따로 설치할 필요 없이
+브라우저만 열면 바로 플레이할 수 있어, 언제 어디서나 가볍게 음악 놀이를 즐길 수
+있습니다.
 
-Simply put, this remix version is like a cross-border collaboration in the music industry, letting the weird notes of Dandyrunki Retake to create unexpected sparks. Even better, you don't need to download anything, just open your browser and you can enjoy this creative game anytime, anywhere!
+### 핵심 게임 플레이
 
-### Dandyrunki Retake Core Gameplay:
+- **캐릭터 선택**: Dandyrunki Retake 세계관의 다양한 캐릭터 중 마음에 드는
+  캐릭터를 골라 무대 위에 올립니다. 각 캐릭터는 고유한 루프 사운드와
+  애니메이션을 가지고 있어, 조합에 따라 전혀 다른 분위기의 곡이 완성됩니다.  
+- **드래그 앤 드롭 조합**: 캐릭터를 무대에 드래그해 놓기만 하면 자동으로 리듬과
+  멜로디가 재생되며, 여러 캐릭터를 섞어 새로운 패턴을 만들 수 있습니다.  
+- **듣고 조절하기**: 루프 조합을 바꿔 보거나, 볼륨과 배치를 조절하며 자신에게
+  가장 잘 맞는 사운드를 찾아 보세요. 다양한 시도를 통해 Dandyrunki Retake의
+  분위기를 가장 잘 살려 주는 믹스를 만들 수 있습니다.  
+- **저장 및 공유**: 완성한 트랙을 저장하거나, 커뮤니티와 공유해 다른 사람들에게
+  당신의 음악을 들려줄 수 있는 버전도 있습니다.  
 
-- **Character Selection:** Choose your musical partners from the many characters in Dandyrunki Retake. Each character has unique sound and visual effects to make your creation full of personality.
-- **Drag and Drop Combination:** Drag the characters onto the stage, blending rhythms, melodies, and sound effects into harmonious music.
-- **Listen and Adjust:** Feel free to try different loop combinations, adjust the volume, explore endless possibilities, and create musical works that best reflect the spirit of Dandyrunki Retake.
-- **Save and Share:** Save your masterpiece and share it with the Sprunki community, allowing more people to appreciate your musical exploration trip in Dandyrunki Retake.
+### Sprunki Retake × Dandyrunki Retake 하이라이트
 
+- **풍부해진 캐릭터 선택지**: Dandyrunki Retake 전용 캐릭터들이 추가되어,
+  각기 다른 애니메이션과 사운드 루프를 통해 더 다채로운 조합을 시도할 수
+  있습니다.  
+- **더 세련된 비주얼**: 밝고 화려한 배경과 부드러운 전환 효과가 어우러져,
+  기상천외한 Dandyrunki 세계가 한층 생동감 있게 표현됩니다.  
+- **향상된 사운드**: 새롭게 제작된 비트와 멜로디 루프가 추가되어, 원작 모드의
+  장난스러운 스타일은 유지하면서도 더 풍성한 사운드를 들려줍니다.  
+- **부드러운 조작감**: 드래그 앤 드롭 메커니즘이 정교하게 다듬어져, 연령과
+  실력에 상관없이 누구나 쉽게 캐릭터를 배치하고 음악을 만들 수 있습니다.  
 
-### What Are the Highlights of Sprunki Retake Meets Dandyrunki Retake?
+### 쉽지만 끝없는 음악 놀이
 
-- **Richer Character Selection:** Exclusive characters from Dandyrunki Retake, with unique animations and sound loops, add more fun to your music creation journey.
-- **More Exquisite Visual Effects:** Bright and vibrant backgrounds, coupled with smooth and natural transition effects, make the fantastic world of Dandyrunki Retake come alive.
-- **Better Sound Effects:** Brand new beats and melodies bring you a vibrant listening experience while maintaining the playful style of the original Mod.
-- **Smoother Operation Experience:** The carefully tuned drag-and-drop mechanism allows players of all ages to easily get started and enjoy the fun of music creation.
+Dandyrunki Retake에서는 몇 번의 드래그만으로도 전혀 다른 리듬과 멜로디 조합을
+만들어 볼 수 있습니다. 잠깐 즐기는 캐주얼 플레이어든, 사운드 디자인에 관심 있는
+음악 팬이든, 각자 스타일에 맞는 재미를 찾을 수 있습니다. 지금 브라우저에서
+Dandyrunki Retake를 실행하고, 나만의 리믹스를 만들어 보세요!
 
-
-### Easy to Operate, Endless Fun:
-
-In the Dandyrunki Retake, you can easily get started and effortlessly explore various rhythms and melodies. Whether you are a casual player or a music enthusiast, you can find your own fun in this remix version. Come and join Dandyrunki Retake and start your music creation journey!

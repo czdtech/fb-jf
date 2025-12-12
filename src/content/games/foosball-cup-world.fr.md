@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: foosball-cup-world
-title: '[FR] Foosball Cup World'
-description: >-
-  [FR] Foosball Cup World brings fast table‑soccer — angle shots, time spins,
-  and defend smartly across tight matches.
+title: "Foosball Cup World"
+description: "Foosball Cup World propose un baby‑foot nerveux : place tes tirs, maîtrise les spins et défends intelligemment dans des matchs serrés."
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/foosball-cup-world.png
 tags:
@@ -16,36 +14,34 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Foosball Cup World est une simulation de baby‑foot rapide, avec des barres réactives et une physique de balle précise. En attaque, tout se joue sur les passes en angle, les frappes sèches et les spins bien timés ; en défense, il faut couvrir les lignes de tir et couper les centres. Les matchs sont courts mais exigeants en précision.
 
+### Guide de jeu et stratégies
 
-### Detailed Game Introduction
+1.  Privilégie les petites passes : fais de légers taps pour pousser la balle d’une rangée à l’autre, puis enchaîne avec une frappe rapide.
+2.  Couvre les couloirs : garde tes défenseurs placés pour fermer les lignes centrales ; ne bouge que lorsque c’est vraiment nécessaire.
+3.  Tirs en angle : frappe la balle sur l’extérieur du « pied » pour viser le second poteau.
+4.  Anti‑spin : pour rester précis, évite les tours de barre complets qui font perdre le contrôle.
+5.  Engagem… (kick‑off) : dès l’engagement, arme un tir diagonal avant que l’adversaire n’ait le temps de se placer.
 
-Foosball Cup World is a quick table‑football simulation with responsive rods and crisp ball physics. Attack relies on angled passes, snap shots, and well‑timed spins; defense is about lane coverage and cutting cross‑shots. Matches are short, demanding precise control over frantic flailing.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Déplacer les barres : WASD / flèches / glisser la souris (selon la version).  
+- Tirer : tapoter / donner un coup sec ; certaines versions distinguent inclinaison et spin.
 
-1.  **[FR]** Short passes: Tap to nudge the ball between adjacent rows, then snap‑shoot.
-2.  **[FR]** Cover lanes: Park defenders to block central lanes; move only when needed.
-3.  **[FR]** Angle finishes: Hit the ball on the outside of the foot for far‑post angles.
-4.  **[FR]** Anti‑spin: For stability, avoid full‑rod spins that lose control.
-5.  **[FR]** Kickoffs: Shoot diagonally off kickoff before the opponent settles.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- Q : Les spins à 360° sont‑ils autorisés ?
+  
+  R : Dans les vraies règles de baby‑foot, ils sont souvent interdits ; le jeu les pénalise généralement avec un mauvais contrôle de balle.
 
-- Move rods: WASD/Arrows/mouse drag (varies).  Shoot: Tap/flick; some builds separate tilt vs spin.
+- Q : Quelle est la meilleure défense de base ?
+  
+  R : Garde un défenseur centré et fais suivre au gardien l’angle de la balle. Évite de te jeter partout.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Are full 360° spins allowed?
-
-A: Many foosball rules forbid them; the game often discourages them with poor control.
-
-- Q: Best basic defense?
-
-A: Keep one defender centered and the goalie tracking the ball’s angle; avoid chasing.
-
-- Q: Two‑player support?
-
-A: Commonly yes via shared keyboard or local hot‑seat.
+- Q : Peut‑on jouer à deux ?
+  
+  R : Oui, la plupart des versions proposent un mode deux joueurs sur le même clavier ou en hot‑seat local.
 

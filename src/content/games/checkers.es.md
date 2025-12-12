@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: checkers
-title: '[ES] Checkers'
+title: "Checkers"
 description: >-
-  [ES] Learn the rules and strategies of Checkers, the classic board game.
-  Master diagonal moves, force captures, and crown your pieces to become a King
-  in this timeless test of wits.
+  Aprende las reglas y estrategias de Checkers, el clásico juego de mesa. Domina
+  los movimientos en diagonal, las capturas obligatorias y la coronación de tus
+  fichas para convertirlas en damas en esta prueba de ingenio atemporal.
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/checkers.jpg
@@ -17,54 +17,80 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Checkers, conocido también como draughts en muchos países, es un clásico juego
+estratégico para dos jugadores que se disputa en un tablero de 8x8 casillas. Un
+jugador maneja fichas oscuras y el otro fichas claras. La partida empieza con 12
+fichas por jugador, colocadas en las casillas oscuras de las tres primeras filas
+más cercanas a cada uno.
 
+El objetivo es capturar todas las fichas del oponente o bloquearlas hasta que no
+puedan realizar movimientos legales. Sus reglas son sencillas, pero las
+posibilidades estratégicas son profundas, por lo que resulta accesible para
+principiantes y a la vez desafiante para jugadores experimentados.
 
+**Reglas básicas:**
+-   Las fichas se colocan y mueven solo sobre las casillas oscuras.
+-   Las fichas normales (peones) solo pueden avanzar una casilla en diagonal.
+-   Capturas saltando en diagonal sobre una ficha rival hacia una casilla vacía
+    inmediatamente detrás.
+-   Si existe una captura posible, es **obligatorio** realizarla. Si en un mismo
+    turno se pueden encadenar varias capturas (salto múltiple), el jugador debe
+    completar toda la cadena.
+-   Cuando una ficha llega a la última fila del lado contrario, se corona y se
+    convierte en **Dama**.
+-   Una **Dama** puede moverse y capturar en diagonal tanto hacia adelante como
+    hacia atrás.
 
+### Estrategia de juego
 
+-   **Controla el centro:** Quien domina las casillas centrales tiene más
+    movilidad y oportunidades tanto ofensivas como defensivas. Intenta llevar
+    tus fichas hacia el medio del tablero.
+-   **Protege tu fila trasera:** La fila más cercana a ti es tu "fila hogar".
+    Manténla intacta el mayor tiempo posible para dificultar que el rival corone
+    damas.
+-   **Intercambios ventajosos:** No temas sacrificar una ficha si te permite
+    capturar una del rival en una posición clave o conseguir una secuencia
+    favorable. Un "2 por 1" casi siempre compensa.
+-   **Piensa varios movimientos por adelantado:** Como en el ajedrez, intenta
+    anticipar dos o tres jugadas. Imagina cómo responderá el rival y prepara tus
+    réplicas.
+-   **Bloquea a tu oponente:** Busca maneras de encerrar sus fichas, limitando
+    sus movimientos hasta dejarlas inútiles.
+-   **El poder de las damas:** Obtener la primera dama suele ser decisivo. Es la
+    pieza más fuerte; úsala para cazar fichas rezagadas y controlar grandes
+    zonas del tablero.
 
-### Game Introduction
+### Guía de controles
 
-Checkers, also known as Draughts in many parts of the world, is a classic two-player strategy board game played on an 8x8 checkered board. One player has dark pieces, and the other has light pieces. The game begins with 12 pieces per player, placed on the dark squares of the first three rows on their respective sides of the board.
+En la versión digital, los controles suelen ser de apuntar y hacer clic o tocar
+ y arrastrar.
 
-The objective of the game is to capture all of the opponent's pieces or to block them so that they have no legal moves left. The game is known for its relatively simple rules but deep strategic possibilities, making it accessible to beginners while still offering a challenge to experienced players.
+-   **Seleccionar ficha:** Haz clic o toca una de tus fichas que pueda moverse;
+    normalmente se resaltan sus casillas de destino.
+-   **Mover ficha:** Haz clic o toca en la casilla resaltada a la que quieras
+    moverla.
+-   **Saltos/Capturas:** Si hay captura disponible, el juego suele obligarte a
+    elegir esa ficha. Clic en la ficha y después en la casilla de destino para
+    completar el salto. En saltos múltiples, sigue seleccionando las casillas
+    encadenadas.
 
-**Basic Rules:**
--   Pieces are always placed and moved on the dark squares only.
--   Standard pieces (men) can only move one square diagonally forward.
--   A piece captures an opponent's piece by jumping over it diagonally to an empty square immediately beyond it.
--   If a capture is available, it is **mandatory** to make that capture. If multiple captures are possible in a single turn (a chain jump), the player must complete the entire chain.
--   When a standard piece reaches the farthest row from its starting position (the opponent's back row), it is "crowned" and becomes a **King**.
--   A **King** can move diagonally both forwards and backwards, and can capture in both directions.
+### Preguntas frecuentes (FAQ)
 
-### Gameplay Strategy
+**1. ¿Es opcional capturar una ficha rival?**
+> No. En las reglas estándar americanas, si hay una captura posible, es
+> **obligatorio** realizarla.
 
--   **Control the Center:** The player who controls the center of the board has more mobility and more opportunities for both attack and defense. Try to position your pieces towards the middle.
--   **Keep Your Back Row Intact:** Your rearmost row of squares is your "home row." Protect it as long as possible. A solid back row prevents your opponent from easily getting a King.
--   **Force Trades to Your Advantage:** Don't be afraid to sacrifice one of your pieces if it allows you to capture one of your opponent's pieces in a more strategic position. A "2-for-1" trade, where you lose one piece to capture two of theirs, is always a good move.
--   **Think Ahead:** Like chess, Checkers is a game of foresight. Try to think at least two or three moves ahead. Anticipate your opponent's moves and plan your responses.
--   **Block Your Opponent:** Look for opportunities to trap your opponent's pieces. By strategically placing your checkers, you can limit their movement and eventually render them useless.
--   **The Power of Kings:** Getting the first King can be a game-changing advantage. A King is the most powerful piece on the board. Use it to hunt down your opponent's remaining pieces and control large areas of the board.
+**2. ¿Qué pasa si tengo varias opciones de captura?**
+> Si dos fichas distintas pueden capturar, puedes elegir con cuál hacerlo. Pero
+> si una de ellas tiene un salto múltiple disponible, debes tomar esa secuencia.
 
-### Controls Guide
+**3. ¿Un peón puede mover hacia atrás?**
+> No. Las fichas normales solo pueden avanzar hacia el lado del oponente. Solo
+> las Damas se mueven también hacia atrás.
 
-In a digital version of Checkers, the controls are typically very simple point-and-click or tap-and-drag.
-
--   **Select a Piece:** Click or tap on one of your pieces that is able to move. Valid moves will often be highlighted.
--   **Move a Piece:** Click or tap on the highlighted destination square to move your piece there.
--   **Jumping/Capturing:** If a capture is possible, the game will usually force you to select that piece. Click the piece and then the destination square to complete the jump. For multiple jumps, you simply continue clicking the next destination squares in the chain.
-
-### Frequently Asked Questions (FAQ)
-
-**1. Is capturing an opponent's piece optional?**
-> No. In standard American Checkers rules, if a capture is available, you **must** make that move. This is known as a "forced capture" and is a fundamental part of the game's strategy.
-
-**2. What happens if I have multiple capture options?**
-> If you have a choice between different captures (e.g., two different pieces can each make a single jump), you can choose which one to make. If one piece has the option of a multi-jump sequence, you must take that sequence.
-
-**3. Can a regular piece (a "man") move backwards?**
-> No, standard pieces can only move diagonally *forward* towards the opponent's side of the board. Only a King can move both forwards and backwards.
-
-**4. How does a piece become a King?**
-> A piece becomes a King when it reaches the last row on the opponent's side of the board (the row where their pieces started). In a physical game, this is usually marked by placing a second checker of the same color on top of it.
-
+**4. ¿Cómo se convierte una ficha en Dama?**
+> Cuando llega a la última fila del lado rival (la de salida de sus fichas). En
+> el juego físico se suele marcar apilando otra ficha del mismo color encima.

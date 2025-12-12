@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: alien-hominid
-title: '[ES] Alien Hominid'
+title: "Alien Hominid guía del shooter clásico"
 description: >-
-  [ES] The ultimate guide for the classic run-and-gun shooter, Alien Hominid.
-  Find detailed strategies, controls, and FAQs to help you master this
-  challenging side-scroller from The Behemoth.
+  Alien Hominid es un frenético run-and-gun de scroll lateral creado por The
+  Behemoth. Descubre estrategias, controles y consejos para dominar este
+  desafiante clásico de disparos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/alien-hominid.jpg
 tags:
@@ -16,58 +16,68 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Alien Hominid es un shooter 2D de desplazamiento lateral rápido y caótico
+desarrollado por The Behemoth. Nació como un juego Flash en el portal
+Newgrounds en 2002, y más tarde se expandió a versiones de consola para
+PlayStation 2, Nintendo GameCube y Xbox. Es conocido por su estilo artístico a
+mano alzada, obra de Dan Paladin, su dificultad elevada y su humor absurdo.
 
-### Detailed Game Introduction
+La premisa es simple: controlas a un pequeño alienígena amarillo cuyo platillo
+ha sido derribado por el FBI. Atrapado en la Tierra, debe abrirse paso entre
+oleadas de agentes secretos, soldados y jefes finales para recuperar su nave y
+escapar del planeta. Jugablemente, se inspira en clásicos arcade como *Contra* y
+*Metal Slug*: muertes de un solo golpe, enemigos constantes y combates contra
+jefes que exigen precisión y aprender patrones.
 
-Alien Hominid is a fast-paced 2D side-scrolling run-and-gun shooter developed by The Behemoth. It originated as a popular Flash game on the Newgrounds portal in 2002 before being expanded into a full console release for PlayStation 2, Nintendo GameCube, and Xbox. The game is renowned for its charming, hand-drawn art style by Dan Paladin, its chaotic and challenging gameplay, and its quirky sense of humor.
+### Estrategia de juego y recorrido
 
-The premise is simple: players control a small, yellow alien whose UFO has been shot down by the FBI. Now stranded on Earth, the alien must fight its way through waves of secret agents, KGB soldiers, and various bosses to recover its spaceship and escape the planet. The gameplay is heavily inspired by classic arcade shooters like *Contra* and *Metal Slug*, featuring one-hit kills, relentless waves of enemies, and intense boss battles that demand precision and pattern recognition.
+Alien Hominid es famoso por su dificultad. Para progresar necesitas reflejos,
+memoria de patrones y dominar todo el repertorio de movimientos del alien.
 
-### Gameplay Strategy & Walkthrough
+#### 1. El movimiento es supervivencia
 
-Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memorization, and mastering the alien's full moveset.
+*   **Nunca te quedes quieto:** Estar parado es la forma más rápida de morir; salta, corre o rueda continuamente para ser un objetivo difícil.
+*   **Domina el rodar/agacharte:** Puedes agacharte para esquivar la mayoría de balas estándar, y si pulsas agacharse mientras te mueves harás una voltereta perfecta para esquivar ráfagas o reposicionarte con rapidez.
 
-#### 1. Movement is Survival
-*   **Never Stop Moving:** Standing still is the quickest way to die. Always be jumping, running, or rolling to make yourself a harder target.
-*   **Master the Roll/Duck:** You can duck under most standard bullets. Tapping the duck button while moving will initiate a roll, which is a fantastic evasive maneuver to dodge incoming fire or quickly reposition.
+#### 2. Usa todo tu arsenal
 
-#### 2. Use Your Full Arsenal
-*   **The Power of Digging:** One of the most critical survival skills is the ability to dig underground. While underground, you are completely invulnerable. You can use this to dodge massive bullet storms or to pull enemies underground for an instant kill.
-*   **Ride 'Em, Alien!:** You can jump on top of most enemies' heads. From there, you can choose to "ride" them, using them as a human shield, or perform a "chomp" to bite their head off for a stylish kill. This is both a defensive and offensive tactic.
-*   **Melee When Necessary:** Your knife is surprisingly effective for close-quarters combat, especially when you are overwhelmed and need to clear space immediately.
-*   **Grenades are Your Best Friend:** Grenades deal significant area-of-effect damage. Save them for large groups of enemies or for dealing heavy damage to bosses.
+*   **El poder de excavar:** Una de las habilidades más importantes es excavar bajo tierra; mientras estés enterrado eres invulnerable, ideal para esquivar lluvias de balas o arrastrar enemigos y rematarlos al instante.
+*   **Montar a los enemigos:** Puedes saltar sobre la cabeza de muchos enemigos y usarlos como escudo humano o morderles la cabeza para una eliminación estilosa, lo que sirve tanto en ofensiva como en defensa.
+*   **Cuerpo a cuerpo cuando haga falta:** El cuchillo es sorprendentemente útil a corta distancia, sobre todo cuando te rodean y necesitas despejar espacio.
+*   **Las granadas son tus aliadas:** Hacen mucho daño en área; resérvalas para grupos grandes o para infligir daño masivo a los jefes.
 
-#### 3. General Combat Tips
-*   **Charged Shots:** Holding down the fire button charges your blaster for a more powerful shot that can pierce through multiple enemies. However, you cannot move while charging, making you vulnerable. Use it strategically when you have a clear opening.
-*   **Prioritize Threats:** Always identify and eliminate the most dangerous enemies first—usually those with rapid-fire weapons or who launch projectiles.
-*   **Learn Boss Patterns:** Every boss follows a strict attack pattern. The key to victory is observation. Spend your first few attempts learning their moves and identifying safe spots and attack windows. Don't get greedy; land a few shots and then prepare to dodge again.
+#### 3. Consejos generales de combate
 
-### Controls Guide
+*   **Disparos cargados:** Mantener pulsado el botón de disparo carga un tiro más potente que atraviesa a varios enemigos, pero mientras cargas no puedes moverte, así que úsalo solo cuando tengas una ventana segura.
+*   **Prioriza amenazas:** Elimina primero a los enemigos más peligrosos, como los de disparo rápido o proyectiles especiales.
+*   **Aprende los patrones de los jefes:** Cada jefe sigue un patrón fijo; dedica los primeros intentos a observar, identificar zonas seguras y atacar solo cuando sea realmente seguro.
 
-Controls can vary slightly between the Flash version and console/HD versions, but the core functions remain the same.
+### Guía de controles
 
-*   **Movement:** Arrow Keys / D-Pad / Analog Stick to move left and right.
-*   **Jump:** 'A' Key (Keyboard) / A or X Button (Controller).
-*   **Shoot:** 'S' Key (Keyboard) / X or Square Button (Controller). Hold to charge the shot.
-*   **Grenade:** 'D' Key (Keyboard) / B or Circle Button (Controller).
-*   **Duck/Roll:** Down Arrow Key / Down on D-Pad.
-*   **Special Moves:**
-    *   **Dig:** Press Down + Jump when on soft ground (dirt, sand).
-    *   **Melee Attack:** Get close to an enemy and press the Shoot button.
-    *   **Ride/Chomp:** Jump directly on top of an enemy's head.
+Los controles cambian ligeramente entre la versión Flash y las de consola/HD, pero las funciones básicas son las mismas.
 
-### Frequently Asked Questions (FAQ)
+*   **Movimiento:** Flechas / cruceta / stick analógico para ir a izquierda y derecha.
+*   **Saltar:** Tecla `A` en teclado / botón A o X en mando.
+*   **Disparar:** Tecla `S` en teclado / botón X o Cuadrado en mando; mantén pulsado para disparo cargado.
+*   **Granada:** Tecla `D` en teclado / botón B o Círculo en mando.
+*   **Agacharse/Rodar:** Flecha abajo / abajo en la cruceta.
+*   **Movimientos especiales:**
+    *   **Excavar:** Pulsa Abajo + Saltar sobre terreno blando (arena, tierra).
+    *   **Ataque cuerpo a cuerpo:** Acércate a un enemigo y pulsa Disparar.
+    *   **Montar/Morder:** Salta directamente sobre la cabeza de un enemigo.
 
-*   **Q: Why is Alien Hominid so difficult?**
-    *   **A:** The game's high difficulty is intentional, designed to emulate the challenge of classic 8-bit and 16-bit arcade games. The one-hit-kill system requires players to play with near-perfect execution.
+### Preguntas frecuentes (FAQ)
 
-*   **Q: What is the difference between the original Flash game and the HD/console versions?**
-    *   **A:** The console and HD versions are greatly expanded. They feature more levels, additional enemies and bosses, improved graphics and sound, a 2-player co-op mode, and numerous mini-games and unlockable hats for your alien.
+*   **P: ¿Por qué Alien Hominid es tan difícil?**
+    *   **R:** La dificultad alta es intencionada y busca reproducir el reto de los arcades de 8 y 16 bits. El sistema de muerte de un solo golpe obliga a jugar con mucha precisión.
 
-*   **Q: How do I beat the final boss?**
-    *   **A:** The final boss is a multi-stage endurance fight. The key, like with all bosses, is to patiently learn the patterns of each phase. Focus on dodging first and only attack when you have a clear, safe opening.
+*   **P: ¿En qué se diferencia la versión Flash de las versiones HD/consola?**
+    *   **R:** Las versiones de consola y HD están muy ampliadas: más niveles, enemigos y jefes, gráficos y sonido mejorados, cooperativo para 2 jugadores, minijuegos y muchos sombreros desbloqueables para el alien.
 
-*   **Q: Is *Alien Hominid Invasion* the same game?**
-    *   **A:** No. *Alien Hominid Invasion* is a modern follow-up and a "reimagining" of the original. It features co-op-focused, non-linear gameplay with rogue-lite elements, character progression, and different mechanics. It's a new game set in the same universe, not a remake.
+*   **P: ¿Cómo derroto al jefe final?**
+    *   **R:** Es un combate de varias fases. Igual que con el resto de jefes, la clave es aprender patrones. Prioriza esquivar y ataca solo cuando haya una ventana clara y segura.
 
+*   **P: ¿Alien Hominid Invasion es el mismo juego?**
+    *   **R:** No. *Alien Hominid Invasion* es una reinterpretación moderna centrada en el cooperativo, con progreso de personaje y elementos rogue‑lite. Comparte universo, pero es un juego nuevo.

@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: bombs-drops-physics-balls
-title: '[FR] Bombs Drops Physics balls'
-description: >-
-  [FR] Bombs Drops Physics balls is a playful physics puzzler — time drops,
-  trigger chain reactions, and clear targets with smart setups.
-iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
+title: "Bombs Drops Physics balls"
+description: "Bombs Drops Physics balls est un puzzle de physique : laisse tomber des bombes et des balles au bon endroit pour déclencher des réactions en chaîne et détruire les structures avec un minimum de coups."
+iframeSrc: "https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/"
 thumbnail: /new-images/bombs-drops-physics-balls.jpg
 tags:
   - puzzle
@@ -15,37 +13,39 @@ score: 3.9/5  (1598 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+Dans *Bombs Drops Physics balls*, tu dois utiliser la gravité et les collisions pour faire s’effondrer des constructions. Tu disposes d’un certain nombre de bombes ou de balles à lâcher ; à toi de choisir l’endroit et le timing pour provoquer les plus gros dégâts avec le moins de lancers possible.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1. **Vise les points faibles**  
+   Touche les piliers, coins et éléments sous tension plutôt que le centre de la masse pour faire basculer toute la structure.
 
-Bombs Drops Physics balls mixes gravity, timing, and simple demolition. Drop balls or bombs onto contraptions, topple stacks, and trigger chain reactions to meet level goals. The fun is in finding minimal, elegant solutions that use physics in your favor.
+2. **Chrono les réactions en chaîne**  
+   Laisse parfois la première explosion agir avant de lâcher la suivante, afin que l’effondrement crée de nouvelles opportunités.
 
-### Gameplay Strategy & Walkthrough
+3. **Utilise les angles**  
+   Une frappe latérale génère plus de couple (rotation) qu’un impact parfaitement vertical et provoque souvent des chutes plus spectaculaires.
 
-1.  **[FR]** Scout weak points: Hit supports, wedges, or tensioned pieces to collapse structures efficiently.
-2.  **[FR]** Time cascades: Delay second drops so the first impact sets the stage.
-3.  **[FR]** Use angles: Side hits create torque and bigger topples than straight drops.
-4.  **[FR]** Minimize drops: Fewer, smarter drops often beat spammy solutions.
-5.  **[FR]** Reset often: Quick retries help you iterate on timing and angles.
+4. **Moins, c’est mieux**  
+   Cherche des solutions qui utilisent moins de bombes mais de façon plus intelligente, surtout si le niveau récompense les coups restants.
 
-### Controls Guide
+5. **Resette souvent**  
+   N’hésite pas à recommencer immédiatement pour ajuster ton timing ou l’angle du lancer ; les itérations rapides mènent aux meilleures solutions.
 
-- Aim and drop with mouse/touch; some levels allow limited nudges.
-- Reset/Undo where available for fast iteration.
+### Commandes
 
-### Frequently Asked Questions (FAQ)
+- Positionne ton curseur (ou ton doigt) puis tape/clique pour lâcher une bombe/ball.  
+- Utilise les boutons de reset/undo si disponibles pour retenter un niveau avec un autre angle.
 
-- Q: My drops barely move anything—what am I missing?
+### Foire aux questions (FAQ)
 
-A: You’re striking center mass. Target edges and supports to generate torque and collapses.
+- **Q : Mes bombes ne bougent presque rien, que faire ?**  
+  **R :** Tu frappes probablement trop au centre. Vise les bords, les supports et les articulations pour créer des basculements.
 
-- Q: Is there scoring for fewer drops?
+- **Q : Est‑ce que le jeu récompense les solutions économiques ?**  
+  **R :** Dans beaucoup de niveaux, oui : terminer avec des bombes non utilisées améliore ton score ou ton rang.
 
-A: Many levels bonus minimal solutions; aim to complete with spare bombs.
-
-- Q: Do levels require perfect timing?
-
-A: A few do, but most reward clear planning more than twitch timing.
-
+- **Q : Faut‑il un timing parfait ?**  
+  **R :** Quelques niveaux demandent des déclenchements précis, mais la majorité privilégie la planification et la compréhension de la physique plus que les réflexes millimétrés.

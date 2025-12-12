@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: daily-room-escape
-title: '[KO] Daily Room Escape'
+title: "Daily Room Escape 데일리 방탈출"
 description: >-
-  [KO] Daily Room Escape delivers bite‑size escapes — scour rooms, solve logic
-  locks, and piece clues together.
+  짧은 방탈출 퍼즐을 매일 즐길 수 있는 Daily Room Escape입니다. 방을 샅샅이
+  수색하고 논리 자물쇠와 퍼즐을 풀어 탈출에 필요한 단서를 맞춰 보세요.
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/daily-room-escape.png
 tags:
@@ -16,37 +16,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Daily Room Escape는 짧고 간단한 방탈출(Room Escape) 퍼즐을 연속해서 즐길 수 있는
+게임입니다. 플레이어는 작은 방이나 공간에 갇힌 상태에서 숨겨진 물건을 찾고, 숫자
+암호나 기호 퍼즐을 해독하며, 얻은 아이템을 적절한 위치에 사용해 출구를 여는 것이
+목표입니다. 한 판의 분량이 짧아 매일 가볍게 두뇌를 깨우기에 좋습니다.
 
+### 게임 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1. **방을 처음부터 끝까지 훑기**  
+   의심스러운 곳은 전부 눌러 본다는 느낌으로, 쿠션을 들춰 보고 서랍과 문, 그림,
+   바닥까지 모두 확인하세요. 숨겨진 힌트나 아이템이 의외의 곳에 숨겨져 있는 경우가
+   많습니다.  
+2. **패턴과 단서를 메모하기**  
+   벽이나 책, 그림 등에 적힌 기호 순서, 색상 코드, 숫자 배열은 대부분 자물쇠
+   암호와 연결됩니다. 화면 캡처나 메모로 순서를 기록해 두면 퍼즐을 맞출 때
+   도움이 됩니다.  
+3. **아이템은 논리적으로 조합하기**  
+   열쇠와 손잡이, 배터리와 기기처럼, 현실에서 자연스럽게 이어질 것 같은 조합을
+   우선 시도해 보세요. 뜬금없는 무작위 조합보다는 “쓸 만해 보이는 곳”을 먼저
+   떠올리는 것이 효율적입니다.  
+4. **힌트에 맞는 범위 안에서 추측하기**  
+   숫자나 도형 암호는 단서와 모순되지 않는 선에서 여러 경우의 수를 시도해 볼 수
+   있지만, 완전한 무차별 대입(브루트포스)은 피하는 것이 좋습니다. 게임도 그 정도의
+   추측만으로 풀리도록 설계된 경우가 대부분입니다.  
+5. **막히면 이전 구역 다시 살펴보기**  
+   더 이상 진전이 없다고 느껴질 때는, 이미 지나친 방을 다시 살펴보세요. 작은
+   클릭 포인트나 잘 안 보이는 아이템을 놓쳤을 가능성이 큽니다.  
 
-Daily Room Escape offers short escape‑the‑room puzzles. Search for hidden objects, decode numeric/shape ciphers, and use items in the correct spots to unlock the exit.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 화면을 탭해 물체를 조사하고, 아이템을 회수하거나 사용합니다.  
+- 일부 퍼즐은 드래그 앤 드롭 방식으로 조작해야 할 수 있습니다.  
+- 힌트 버튼이 있는 버전에서는, 막힌 구간에서 강조 표시나 간단한 힌트를 받을 수
+  있습니다.  
 
-1.  **[KO]** Sweep the room: Tap hotspots, move cushions, open drawers.
-2.  **[KO]** Note patterns: Photograph or note symbol orders and color codes.
-3.  **[KO]** Combine items logically (e.g., key + handle, battery + device).
-4.  **[KO]** Try code permutations consistent with clues — avoid brute force.
-5.  **[KO]** If stuck, re‑scan earlier rooms for missed hotspots.
+### 자주 묻는 질문(FAQ)
 
-### Controls Guide
+- **Q: 암호를 맞게 입력한 것 같은데 안 열립니다. 버그인가요?**  
+  **A:** 암호의 순서나 방향을 다시 한 번 확인해 보세요. 좌우가 반대로 읽히거나,
+  시작점이 다른 경우도 있고, 일부 퍼즐은 순환 구조를 사용하는 경우도 있습니다.  
 
-- Tap to inspect, collect, and use items; some puzzles drag‑and‑drop.
-- A hint button may highlight missed areas.
+- **Q: 아이템이 서로 조합되지 않습니다.**  
+  **A:** 조합 순서가 잘못되었거나, 아이템을 먼저 조사해 추가 단서를 찾아야 할 수도
+  있습니다. 아이템을 길게 눌러 확대하거나 설명을 확인해 보세요.  
 
-### Frequently Asked Questions (FAQ)
-
-- Q: A code won’t work — bug?
-
-A: Recheck clue order/direction; many sequences are reversible or wrap.
-
-- Q: Items don’t combine?
-
-A: Ensure correct order or examine items closely for hidden parts.
-
-- Q: Too dark to see?
-
-A: Use brightness or in‑game lamps/flashlight when provided.
+- **Q: 화면이 너무 어두워 잘 안 보입니다.**  
+  **A:** 기기 밝기를 높이거나, 게임 내에서 제공되는 램프·손전등 같은 도구를 활용해
+  어두운 구역을 비추어 보세요.  
 

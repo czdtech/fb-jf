@@ -1,71 +1,50 @@
 ---
-locale: ja
+title: Monkey Mart
+description: Monkey Martは忙しいストア管理ゲームです。商品を補充し、顧客にサービスを提供し、ストアを拡大し、楽しい小売帝国を構築します。
+iframeSrc: 'https://monkeymart.h5games.usercontent.goog/v/23sjt6hqspr00/'
+thumbnail: /new-images/monkey-mart.png
 urlstr: monkey-mart
-title: '[JA TRANSLATION NEEDED] Monkey Mart'
-description: >-
-  [JA TRANSLATION NEEDED] Monkey Mart is a charming and addictive simulation
-  game where players manage a supermarket run by adorable monkeys, harvesting
-  crops, stocking shelves, and serving customers to grow their business.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
-thumbnail: /new-images/monkey-mart.jpg
+score: 4.5/5  (3123 votes)
 tags:
-  - simulation
-  - management
   - casual
-score: 4.4/5  (592 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - thinky
+  - strategy
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Monkey Martは、あなたが猿としてストアを運営するチャーミングな管理ゲームです。商品を補充し、顧客にサービスを提供し、お金を集め、ストアを拡大します。新しいアイテムをアンロックし、設備をアップグレードし、究極のマートを構築します。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **補充を優先:** 商品がなくならないようにします。
+2.  **賢くアップグレード:** 速度と容量のアップグレードに焦点を当てます。
+3.  **顧客満足:** より速いサービスはより多くの収益を意味します。
+4.  **拡大:** より多くのオプションのために新しいセクションをアンロックします。
+5.  **効率:** 移動を最小限に抑えるためにレイアウトを最適化します。
+
+### 操作ガイド
+
+- WASD/矢印で移動します。
+- 自動インタラクション（補充、販売、収集）。
+- ストアをアップグレードおよび拡大するためにクリック/タップします。
+
+### よくある質問 (FAQ)
+
+- **Q: 最初に何をアップグレードすべきですか？**  
+  A: 移動速度と商品容量。
+- **Q: 顧客を失った場合はどうなりますか？**  
+  A: 彼らは去ります。速いサービスが重要です。
+- **Q: 拡張に制限はありますか？**  
+  A: 一部のバージョンには最大サイズがありますが、ほとんどは拡大を続けることができます。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Monkey Mart" is a charming and addictive simulation game where players manage a supermarket run by adorable monkeys. In the game, you need to harvest crops, produce goods, stock shelves, and serve customers to grow and expand your supermarket business. As the game progresses, you can unlock new products, upgrade equipment, and hire more monkey employees to improve efficiency.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Plant and Harvest**: Plant crops like bananas and corn in the fields, and harvest them promptly when ripe.
-[JA TRANSLATION NEEDED] 2.  **Produce Goods**: Process harvested crops into various products, such as banana milk and cornflakes.
-[JA TRANSLATION NEEDED] 3.  **Stock Shelves**: Place the prepared goods on the supermarket shelves for customers to purchase.
-[JA TRANSLATION NEEDED] 4.  **Serve Customers**: Customers will come to buy products; you need to respond quickly to ensure their satisfaction.
-[JA TRANSLATION NEEDED] 5.  **Upgrade and Expand**: Use earned coins to upgrade farmlands, production equipment, and supermarket facilities, unlock new products, and expand the supermarket's size.
-
-### How to Play
-
-*   **Movement**: Use the virtual joystick or keyboard arrow keys to control your monkey character's movement.
-*   **Interaction**: When near crops, production equipment, or shelves, your character will automatically perform planting, crafting, or restocking actions.
-*   **Tap/Click**: Tap on screen icons to perform actions like upgrading, hiring employees, etc.
-
-
-
-- **Upgrade and Expand**: Use earned coins to upgrade farmlands, production equipment, and supermarket facilities, unlock new products, and expand the supermarket's size.
-- **Serve Customers**: Customers will come to buy products; you need to respond quickly to ensure their satisfaction.
-### Frequently Asked Questions
-
-
-
-
-
-
-- **Q: How can I earn money quickly in the game?**
-### よくある質問
-- **Tap/Click**: Tap on screen icons to perform actions like upgrading, hiring employees, etc.
-- **Interaction**: When near crops, production equipment, or shelves, your character will automatically perform planting, crafting, or restocking actions.
-
-### よくある質問
-- **Movement**: Use the virtual joystick or keyboard arrow keys to control your monkey character's movement.
-[JA TRANSLATION NEEDED] 1.  **Q: How can I earn money quickly in the game?**
-
-- **Q: How do I unlock new products?**
-[JA TRANSLATION NEEDED]     **A**: The key to earning money quickly is efficient production and fast customer service. Prioritize upgrading production lines and expanding shelves to ensure a sufficient supply of goods.
-
-- **Q: What are the benefits of hiring employees?**
-[JA TRANSLATION NEEDED] 2.  **Q: How do I unlock new products?**
+**A**: The game usually does not have a strict time limit, allowing players to manage at their own pace, but some tasks or challenges might have time requirements.
 
 - **Q: Is there a time limit in the game?**
-[JA TRANSLATION NEEDED]     **A**: New crops and manufactured products can be gradually unlocked by upgrading production equipment and expanding the supermarket's scale.
-[JA TRANSLATION NEEDED] 3.  **Q: What are the benefits of hiring employees?**
-[JA TRANSLATION NEEDED]     **A**: Hiring employees can automate parts of the work, such as harvesting, crafting, or restocking shelves, thereby improving the overall operational efficiency of the supermarket.
-[JA TRANSLATION NEEDED] 4.  **Q: Is there a time limit in the game?**
-[JA TRANSLATION NEEDED]     **A**: The game usually does not have a strict time limit, allowing players to manage at their own pace, but some tasks or challenges might have time requirements.
+
+
+**A**: The game usually does not have a strict time limit, allowing players to manage at their own pace, but some tasks or challenges might have time requirements.

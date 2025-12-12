@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: jump-with-justin-2
-title: '[ZH TRANSLATION NEEDED] Jump With Justin 2'
-description: >-
-  [ZH TRANSLATION NEEDED] Jump With Justin 2 is a bouncy platformer — time
-  jumps, bounce off hazards, and chain springs to the goal.
+title: "《Jump With Justin 2》贾斯汀的弹跳冒险 2"
+description: "《Jump With Justin 2》是一款强调弹跳手感的平台跳跃游戏，你要踩准起跳时机、利用弹簧和机关连锁弹跳，在尽量少失误的前提下抵达终点。"
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/jump-with-justin-2.png
 tags:
@@ -16,25 +14,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jump With Justin 2 is a light platformer centered on springy jumps, moving platforms, and trap timing. Plan arcs, chain bounces, and keep momentum to reach exits with minimal mistakes.
+《Jump With Justin 2》是一款轻量的平台跳跃游戏，核心在于“弹性跳跃”。关卡中布满弹簧台、移动平台和各类陷阱，你需要规划每一次跳跃的弧线，让主角踩在安全位置上完成连续弹跳，既不能被尖刺、锯齿等机关击中，又要保持足够的前进动能，最终平稳抵达出口。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Arc control: Commit to clean arcs; late jumps often clear hazards better.
-2.  [ZH TRANSLATION NEEDED] Momentum: Preserve speed across platforms instead of stopping each time.
-3.  [ZH TRANSLATION NEEDED] Trap timing: Watch spikes and moving platforms to find safe beats.
-4.  [ZH TRANSLATION NEEDED] Drill tough rooms: Restart segments to map exact jump windows.
-5.  [ZH TRANSLATION NEEDED] Optional stars: Grab collectibles only on safe arcs.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **掌控跳跃弧线**：尽量让每一次起跳都画出干净、可控的弧线。很多机关在稍微“晚一点”起跳时反而更好躲开，不要急于提前起跳。  
+2.  **保持动能而不是一跳一停**：在平台之间适当保持前进速度，比每个平台都完全停下再跳更稳，也更容易掌握节奏。  
+3.  **观察陷阱节奏**：对往返的锯刃、周期弹出的尖刺和移动平台，最好先观察一整轮周期，再决定起跳时机，避免被节奏打乱。  
+4.  **重复练习难点房间**：有些关卡段落需要非常精确的起跳时机，不妨多次快速重开这一段，专门训练某几个跳跃窗口。  
+5.  **收集物品量力而行**：关卡中可能散布星星或额外奖励，优先保证主线路安全，只有在起跳弧线本身就安全的前提下，再顺手捎带收集。  
 
-- Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
-- Restart: Fast restart to practice sequences.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **移动/跳跃**：使用方向键或 WASD 移动，按空格或上方向键起跳；移动端则通过屏幕按钮完成。  
+- **快速重开**：使用重启键或菜单中的“重试”按钮，可以迅速回到当前关卡起点或最近的检查点。  
 
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- 100% collection tips? Clear the route first, then route collectibles.
+### 常见问题（FAQ）
 
+- **Q: 总是被尖刺边缘蹭到，是哪里出问题？**  
+  **A:** 多半是起跳过早导致落点偏低。尝试把起跳时机稍微延后一瞬，并保持弧线流畅不要在空中乱改方向。  
+
+- **Q: 有没有二段跳？**  
+  **A:** 游戏本身通常不提供原生二段跳，但部分关卡会通过弹簧、弹跳平台或增益道具模拟“再次弹起”的效果，可以当作变相二段跳使用。  
+
+- **Q: 想拿到 100% 收集有什么建议？**  
+  **A:** 建议先用较稳的路线通关一遍，熟悉每个陷阱和平台位置，再第二次进关时专门规划一条“收集路线”，把星星或收集品串联到相对安全的弧线中。

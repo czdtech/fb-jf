@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: tiletopia
-title: '[DE] Tiletopia'
+title: Tiletopia
 description: >-
-  [DE] Build a thriving city one tile at a time in Tiletopia! A relaxing
-  strategy puzzle where you place tiles to connect roads, build houses, and
-  complete challenges to create your own miniature world.
+  Baue in Tiletopia deine eigene Mini‑Welt: Platziere Hex‑Kacheln, verbinde
+  Wälder, Felder und Dörfer, erfülle Aufträge und erschaffe eine stimmige
+  Landschaft Kachel für Kachel.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/tiletopia.png
 tags:
@@ -17,34 +17,35 @@ score: 4.5/5  (2800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Tiletopia ist ein ruhiges, kreatives Städtebau‑Puzzle, in dem du mit sechseckigen Kacheln nach und nach eine schöne Landschaft aufbaust. Du startest mit einem einzigen Feld und ziehst neue, prozedural erzeugte Kacheln aus einem Stapel. Durch geschicktes Platzieren verbindest du Wald‑, Feld‑, Wasser‑ und Dorf‑Segmente zu einem stimmigen Gesamtbild. Kleine Aufträge und Herausforderungen geben dir Ziele vor und sorgen dafür, dass du für clevere Platzierungen Extrapunkte erhältst.
 
+### Spielstrategie & Walkthrough
 
+1. **Kanten passend legen:** Grundregel: Gleiche Terrain‑Kanten sollten aneinanderstoßen – Wald an Wald, Feld an Feld usw. Jede perfekt passende Kante bringt Punkte.
+2. **Quests im Blick behalten:** Achte auf die Aufgaben, die dir das Spiel stellt – etwa eine bestimmte Waldgröße, eine Mindestanzahl Häuser oder eine geschlossene Straße. Erfüllte Quests sind der Schlüssel zu hohen Punkteständen.
+3. **Gebiete schließen:** Wenn du ein Gebiet komplett abschließt (z. B. ein Feld, das rundum sauber eingerahmt ist), erhältst du oft Bonuspunkte. Halte Ausschau nach Stellen, an denen du solche Schleifen vollenden kannst.
+4. **Platzierungen planen:** Du siehst meist die nächsten ein bis zwei Kacheln deines Stapels. Nutze diese Vorschau, um schon jetzt Plätze vorzubereiten, an denen sie perfekt hineinpassen.
 
-### Detailed Game Introduction
+### Steuerung
 
-Tiletopia is a peaceful and creative city-building puzzle game where you create beautiful, ever-expanding landscapes by placing hexagonal tiles. You start with a single tile and draw from a stack of procedurally generated tiles. The goal is to place these tiles strategically to create a coherent and picturesque world, matching edges like forests, fields, and villages. The game often includes small quests or challenges to guide your creation and maximize your score.
+- **Kachel platzieren:** Ziehe eine Kachel aus deinem Stapel und setze sie auf ein freies, angrenzendes Feld.
+- **Kachel drehen:** In den meisten Versionen kannst du Kacheln vor dem Platzieren per Klick oder Taste drehen, um die Kanten besser anzupassen.
 
-### Gameplay Strategy & Walkthrough
+### Häufige Fragen (FAQ)
 
-1.  **[DE]** **Match the Edges:** The fundamental rule is to match the edges of the tiles you place. Connect a forest edge to another forest edge, a field to a field, and so on. Every correct match earns you points.
-2.  **[DE]** **Complete Quests:** Pay attention to the quests that appear. These might ask you to create a forest of a certain size, build a village with a specific number of houses, or create a closed loop with a road or railway. Completing these quests is key to a high score.
-3.  **[DE]** **Closing Off Areas:** When you completely enclose an area (for example, a field surrounded by roads and houses with no gaps), you often receive bonus points. Look for opportunities to close off these areas.
-4.  **[DE]** **Plan Your Placements:** You can see the next few tiles in your stack. Use this information to plan ahead. If you know a specific type of tile is coming up, you can prepare a perfect spot for it.
+- **Q: Was ist das Hauptziel?**  
+  **A:** Möglichst viele Punkte zu erzielen, bevor dein Kachelstapel leer ist. Ist keine Kachel mehr übrig, endet die Partie.
 
-### Controls Guide
+    - **Q: Wie bekomme ich mehr Punkte?**  
+  **A:** Durch perfekte Kantenübereinstimmungen, das Erfüllen von Quests und das saubere Abschließen großer, einheitlicher Flächen wie Wälder oder Felder.
 
-*   **[DE]** **Place Tile:** Click and drag a tile from your stack and drop it onto a valid empty space adjacent to an existing tile.
-*   **[DE]** **Rotate Tile:** In most versions, you can click on the tile in the stack to rotate it before placing it on the board.
+- **Q: Was passiert, wenn ich eine Kachel „schlecht“ platziere?**  
 
-### Frequently Asked Questions (FAQ)
+    - **A:** This usually doesn't happen, as there will almost always be a valid spot. However, a poorly placed tile might prevent you from completing a quest, so think carefully before you place!
 
-*   **[DE]** **Q: What is the main objective?**
-    *   **[DE]** **A:** To get the highest score possible by placing tiles from your stack. The game ends when the stack is empty.
+- **Q: What happens if I can't place a tile anywhere?**
 
-*   **[DE]** **Q: How do I get more points?**
-    *   **[DE]** **A:** By making perfect edge matches, completing quests, and closing off large areas of a single type (like a big forest or field).
-
-*   **[DE]** **Q: What happens if I can't place a tile anywhere?**
-    *   **[DE]** **A:** This usually doesn't happen, as there will almost always be a valid spot. However, a poorly placed tile might prevent you from completing a quest, so think carefully before you place!
-
+    - **A:** By making perfect edge matches, completing quests, and closing off large areas of a single type (like a big forest or field).
+  **A:** Du bekommst weniger Punkte und machst dir das Erfüllen mancher Quests schwerer. Ein kompletter Deadlock ist selten, aber vorausschauende Platzierung zahlt sich klar aus.

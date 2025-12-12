@@ -1,48 +1,45 @@
 ---
+title: "Air Traffic Control 航空管制官"
+description: "「Air Traffic Control」は、リアルタイムで航空機の離着陸を管理するパズルゲームです。衝突を回避し、安全な間隔を保ちながら飛行機を誘導しましょう。"
+iframeSrc: "https://8k40409g1s60o.h5games.usercontent.goog/v/1h9mj7q5j6gjg/"
+thumbnail: "/new-images/air-traffic-control.png"
+urlstr: "air-traffic-control"
+score: "4.2/5  (1846 votes)"
+tags: ["thinky", "puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: air-traffic-control
-title: '[JA TRANSLATION NEEDED] Air Traffic Control'
-description: >-
-  [JA TRANSLATION NEEDED] Guide aircraft safely in Air Traffic Control — vector
-  planes, avoid conflicts, and coordinate landings in a clean, accessible
-  browser challenge.
-iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
-thumbnail: /new-images/air-traffic-control.png
-tags:
-  - thinky
-  - puzzle
-  - casual
-score: 4.2/5  (1846 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Air Traffic Control（航空管制官）*は、まるで本物の管制官のように、航空機の到着と出発の順序を整理し、安全な間隔を維持するリアルタイム管理パズルゲームです。プレイヤーは航空機を選択し、進路（ベクトル）を指示して、ダウンウィンド・ベース・ファイナルといった着陸進入パターンを構築します。最大の任務は「衝突の回避」です。同じ空間に2機の飛行機が同時に存在しないように交通整理を行いましょう。交差しそうな進路を早期に発見し、機首方位や間隔を調整し、一定の安全なリズムで滑走路へと誘導します。
 
-[JA TRANSLATION NEEDED] Air Traffic Control is a real‑time, puzzle‑like management game about sequencing arrivals and departures while maintaining safe separation. You select aircraft, issue vectors to build orderly downwind–base–final patterns, and sequence traffic so no two aircraft occupy the same space at the same time. The core loop is conflict detection and resolution: spot converging paths early, adjust headings and spacing, and feed aircraft to the runway at a steady, safe cadence.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
-
-1.  [JA TRANSLATION NEEDED] Prioritize imminent conflicts: Resolve the closest crossing paths first; defer non‑conflicting traffic until the picture is stable.
-2.  [JA TRANSLATION NEEDED] Plan early spacing: Create staggered finals by giving small heading or path differences well before the merge; early decisions prevent last‑second turns.
-3.  [JA TRANSLATION NEEDED] Build a standard pattern: Use a consistent downwind → base → final flow; it simplifies visual scanning and reduces surprises.
-4.  [JA TRANSLATION NEEDED] Use altitude/speed if available: If the UI supports it, small speed reductions or altitude offsets add separation without large turns.
-5.  [JA TRANSLATION NEEDED] Keep the runway clear: Don’t feed another arrival to short final if the runway is still occupied or an aircraft is slow to vacate.
-6.  [JA TRANSLATION NEEDED] Avoid over‑vectoring: Each extra turn adds pilot workload and increases the chance of new conflicts—prefer minimal, decisive vectors.
+1.  **衝突の危険を優先処理：** 最も接近している、あるいは交差しそうな進路を持つ機体を最優先で処理します。衝突の危険がない機体は、状況が落ち着くまで後回しでも構いません。
+2.  **早めの間隔調整：** 合流地点の直前で慌てるのではなく、早い段階でわずかな方位変更や経路調整を行い、着陸機同士の間隔（スタッガー）を作りましょう。早めの決断が、最後の瞬間の急旋回を防ぎます。
+3.  **標準パターンの構築：** ダウンウィンド（滑走路と並行）→ベース（直角に曲がる）→ファイナル（最終進入）という一貫した流れを作りましょう。これにより視覚的なスキャンが容易になり、予期せぬ事態を減らせます。
+4.  **高度と速度の活用：** UIで操作可能な場合、大きな旋回をさせる代わりに、わずかな減速や高度変更で分離（セパレーション）を確保するほうが安全です。
+5.  **滑走路を空ける：** 前の機体がまだ滑走路にいる、あるいは離脱が遅れている場合は、次の到着機をショートファイナル（着陸直前）に入れないでください。
+6.  **過度な誘導（ベクタリング）を避ける：** 無駄な旋回指示はパイロット（ゲーム内のAI）の負担を増やし、新たな衝突リスクを生み出します。最小限かつ的確な指示を心がけましょう。
 
 ### 操作ガイド
 
-バージョンによって異なりますが、一般的には以下が含まれます：
+バージョンによって異なりますが、一般的な操作は以下の通りです：
 
-- 航空機を選択：航空機のラベル/ターゲットをクリックまたはタップします。
-- パス/方位を設定：マップ上のウェイポイントをクリックするか、ドラッグして短いパスを描きます；一部のバージョンでは画面上の方位ボタンが提供されます。
-- 速度/高度を管理（利用可能な場合）：UIの矢印またはボタンを使用して小さな調整を行います；変更は段階的に保ちます。
-- 滑走路/アプローチを割り当て（利用可能な場合）：最終進入時に滑走路またはアプローチフィックスを選択します。
+*   **航空機の選択：** 機体のラベルやターゲットをクリックまたはタップします。
+*   **経路/方位の設定：** マップ上のウェイポイント（通過点）をクリックするか、ドラッグして短い経路を描きます。画面上のボタンで方位を指定するタイプもあります。
+*   **速度/高度管理（ある場合）：** UIの矢印やボタンを使って微調整します。急激な変更は避けましょう。
+*   **滑走路/進入の指定（ある場合）：** ファイナルへの誘導時に、使用する滑走路や進入フィックスを選択します。
 
-### よくある質問（FAQ）
+### よくある質問 (FAQ)
 
-- How do I avoid collisions? Maintain horizontal separation by issuing early vectors; if available, combine gentle speed differences to open gaps.
-- What does a conflict alert mean? It indicates predicted loss of separation; immediately adjust one or both aircraft to diverging headings.
-- Can I pause or change speed? Many browser versions support pause or time controls; use them to plan sequences when the board is busy.
-- Any tip for heavy traffic? Standardize the pattern and meter entries; resolve conflicts far from the runway so the final stays stable.
-
+*   **どうすれば衝突を防げますか？**
+    *   早期に針路指示（ベクタリング）を出して、水平方向の間隔を維持してください。可能であれば、速度差を利用してギャップを広げましょう。
+*   **「Conflict Alert（衝突警報）」が出たらどうすればいいですか？**
+    *   間隔不足（セパレーションロス）が予測されています。直ちに片方、または両方の機体の進路を互いに離れる方向に変更してください。
+*   **一時停止や速度変更はできますか？**
+    *   多くのブラウザ版では一時停止や倍速機能があります。画面が忙しくなった時は、一時停止して落ち着いて順序を計画しましょう。
+*   **交通量が多い時のコツは？**
+    *   進入パターンを定型化し、整然と並ばせましょう（メータリング）。滑走路から遠い場所でコンフリクトを解決しておくと、最終進入（ファイナル）が安定します。

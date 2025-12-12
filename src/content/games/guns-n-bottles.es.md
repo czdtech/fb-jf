@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: guns-n-bottles
-title: '[ES] Guns n'' Bottles'
+title: Guns n' Bottles
 description: >-
-  [ES] Test your timing and precision in this addictive shooting gallery game.
-  Tap at the perfect moment to shoot the bottles as your gun rotates, but avoid
-  the red ones!
+  Pon a prueba tu sincronización y precisión en este adictivo arcade de galería
+  de tiro. Dispara en el momento perfecto mientras la pistola gira y rompe las
+  botellas verdes, pero cuidado con las rojas.
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/guns-n-bottles.png
 tags:
@@ -17,34 +17,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Guns n' Bottles es un arcade de un solo toque, sencillo pero muy adictivo, que
+pone a prueba tu precisión y tu sincronización. Una pistola gira sin parar en
+el centro de la pantalla y tu objetivo es disparar justo en el momento
+adecuado para hacer añicos las botellas que aparecen. El reto consiste en
+sincronizar el disparo con la rotación. Rompe las botellas verdes para sumar
+puntos, pero evita a toda costa las rojas.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1. **Anticípate a la rotación:** No dispares cuando el cañón apunte exactamente
+   a la botella; adelántate un instante. Dispara **un poco antes** de que la
+   mira se alinee con el objetivo para compensar el tiempo que tarda la bala y
+   el giro continuo.
+2. **Busca rachas:** La clave para una puntuación alta es encadenar varios
+   aciertos seguidos sin fallos. Las rachas suelen activar multiplicadores o
+   darte monedas extra.
+3. **Esquiva las botellas rojas:** Golpear una botella roja suele terminar la
+   partida de inmediato. Están ahí para romper tu ritmo, así que prioriza
+   mantenerte con vida antes que arriesgar por un disparo dudoso.
+4. **Desbloquea nuevas armas:** Usa las monedas que ganes para desbloquear
+   pistolas con apariencias distintas en la tienda. Aunque muchas son solo
+   estéticas, le dan variedad y sensación de progreso.
 
-Guns n' Bottles is a simple yet highly addictive one-touch arcade game that tests your timing and precision. A gun continuously rotates in the center of the screen, and your goal is to tap at the perfect moment to fire a bullet and shatter the bottles that appear. The challenge lies in timing your shot perfectly with the gun's rotation. Hit the green bottles to score points, but be careful to avoid the red ones!
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+El juego se maneja con un solo gesto.
 
-1.  **[ES]** **Anticipate the Rotation:** Don't tap when your gun is aimed directly at the bottle. You need to lead your shot slightly. Fire just *before* the gun aligns with the target to account for the bullet's travel time and the gun's continuous rotation.
-2.  **[ES]** **Go for Streaks:** The key to a high score is to hit multiple bottles in a row without missing. This will often build up a combo multiplier or award bonus coins.
-3.  **[ES]** **Avoid the Red Bottles:** Hitting a red bottle will end your game instantly. They are there to trick you and break your rhythm. Always prioritize avoiding them.
-4.  **[ES]** **Unlock New Guns:** Use the coins you earn from successful hits to unlock new and cooler-looking guns in the shop. While often cosmetic, they add a fun sense of progression.
+- **Disparar:** Haz clic con el botón izquierdo del ratón o toca cualquier
+  parte de la pantalla para disparar.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The game is played with a single action.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Acierta el mayor número posible de botellas verdes seguidas para lograr
+        la máxima puntuación.
 
-*   **[ES]** **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
+*   **P: ¿Qué pasa si fallo una botella o le doy a una roja?**
+    *   **R:** En ambos casos la partida termina, se registra tu puntuación y tendrás
+        que empezar de nuevo.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What is the objective of the game?**
-    *   **[ES]** **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.
-
-*   **[ES]** **Q: What happens if I miss a bottle or hit a red one?**
-    *   **[ES]** **A:** In either case, the game will end, and your score will be recorded. You must then start over.
-
-*   **[ES]** **Q: How do I aim?**
-    *   **[ES]** **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
-
+*   **P: ¿Cómo apunto exactamente?**
+    *   **R:** No controlas directamente la mira: la pistola gira sola. Tu habilidad
+        está en disparar justo cuando el cañón pasa por el ángulo adecuado.

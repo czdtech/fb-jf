@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: descent
-title: '[ZH TRANSLATION NEEDED] Descent'
+title: "Descent 垂直坠落挑战"
 description: >-
-  [ZH TRANSLATION NEEDED] Descent is an arcade skill game: navigate downward,
-  avoid hazards, and time movements to reach the goal.
+  《Descent 垂直坠落挑战》是一款极简风竖版技巧游戏。你需要沿着竖井一路向下，利用墙
+  面跳跃，躲开尖刺与机关，在重力拉扯下安全抵达更深处。
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/descent.jpg
 tags:
@@ -17,24 +17,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Descent is a minimalist vertical skill game where you drop down a shaft, time jumps off walls, and avoid hazards like spikes and moving traps. Many web versions use one‑button or two‑button controls to leap from wall to wall while gravity pulls you downward. 
+
+《Descent 垂直坠落挑战》是一款操作简单但容错不高的竖向技巧小游戏。角色被困在一条狭窄的竖井
+中，只能依靠在左右墙壁间反复弹跳往下移动。一路上你会遇到尖刺、移动陷阱以及节奏变化的机关
+，需要精确把握起跳时机，在不断下坠的重力中持续存活。许多网页版本采用“一键”或“双键”操
+作，让你专注于节奏与时机，而不是复杂按键。 
 
 ### How to Play
-- Tap/click to jump from the current wall to the opposite side; chain jumps to pass gaps.  
-- Read obstacle timing (moving spikes/platforms) and wait for safe windows.  
-- Collectibles may award points or unlock cosmetics depending on the host. 
+
+- 在当前一侧墙壁上点击/轻触即可让角色向对面墙跳跃，通过连续的墙间跳跃向下通过各类缺口。  
+- 仔细观察移动尖刺、滑动平台等障碍的节奏，等待安全空档再起跳，不要盲目往下冲。  
+- 路途中出现的收集物可提升分数或解锁外观皮肤，具体效果取决于托管版本。 
 
 ### Controls
-- Mouse/touch: tap to jump; some versions use Left/Right or A/D to leap off the respective wall. Controls vary slightly by host. 
+
+- 鼠标/触屏：点击屏幕（或指定侧边区域）即可从当前墙面跳到对侧墙；  
+- 部分版本使用键盘 `Left/Right` 或 `A/D` 键来控制从左/右墙起跳，不同站点按键略有差异。 
 
 ### Tips and Strategies
-- Don’t rush: small delays often desync hazards and create openings.  
-- Jump earlier for longer lateral travel; later for short, steep hops.  
-- Use wall‑cling moments to scout the next two screens ahead.  
+
+- 不必急于下落：适当在墙面停留一瞬，可以让机关节奏“错位”，为你制造安全窗口。  
+- 想跳得更横向、更远一些，起跳时可以稍早一点出手；想要更陡峭、几乎垂直向下的跳跃，则可
+  稍微晚一点起跳。  
+- 利用角色贴墙停留的瞬间，观察下方两三个屏幕的布局，再决定下一步走法，而不是只盯脚下。  
 
 ### FAQ
-- Q: Is progress endless or level‑based?  
-[ZH TRANSLATION NEEDED]   A: Hosts vary; some are endless score chases, others have stage checkpoints.   
-- Q: Are there power‑ups?  
-[ZH TRANSLATION NEEDED]   A: Some versions add shields or slow‑mo; availability depends on the host. 
 
+- **Q: 这是无尽模式还是有关卡的？**  
+  **A：** 具体取决于托管版本。有的属于无尽下落、比拼得分的模式；也有按关卡划分、带检查
+  点的版本，在通过一定深度后可以从更深处继续挑战。   
+
+- **Q: 游戏里有道具或增益效果吗？**  
+  **A：** 部分版本会加入护盾、减速等临时增益，帮助你在高难度路段苟住一命。是否出现以及
+  触发方式取决于不同站点的实现。 

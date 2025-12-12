@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: candy-riddles
-title: '[KO] Candy Riddles'
+title: 'Candy Riddles 캔디 리들즈'
 description: >-
-  [KO] Candy Riddles is a cheerful match‑3 — swap sweets, trigger combos, and
-  solve stage objectives with smart cascades.
+  Candy Riddles는 알록달록한 사탕을 맞춰 터뜨리는 3매치 퍼즐 게임입니다.
+  사탕을 교환해 콤보를 만들고, 제한된 이동 수 안에서 스테이지 목표를 해결해
+  보세요.
 iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
 thumbnail: /new-images/candy-riddles.png
 tags:
@@ -15,38 +16,63 @@ score: 4.2/5  (2018 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Candy Riddles는 인접한 사탕을 서로 바꿔 같은 사탕을 세 개 이상 줄 세워 지우는
+3매치 퍼즐입니다. 매치를 만들면 타일이 사라지거나 미션 아이템이 수집되고,
+특수 사탕 게이지가 차오르며, 일부 칸에서는 갇힌 타일이 해방되기도 합니다.
 
+스테이지가 진행될수록 크림, 상자 같은 방해 요소와 이동 수 제한, 특정 사탕만
+지워야 하는 목표 등이 추가돼, 단순 매치 대신 효율적인 연쇄와 우선순위 계획이
+중요해집니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Candy Riddles is a colorful match‑3 puzzler where you swap adjacent candies to form lines of three or more. Matches clear tiles, charge power‑ups, and can free trapped cells or collect mission items. As stages progress, blockers (e.g., frosting, crates), limited moves, and special goals require planning and efficient cascades.
+1.  **보드 하단부터 정리해 자연 연쇄 만들기**  
+    아래쪽에서 매치를 만들면 위의 타일들이 한꺼번에 내려오면서 무료 콤보가
+    발생할 가능성이 커집니다. 상단만 건드리는 것보다 전체 정리에 훨씬 효율적입니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **점수보다 스테이지 목표를 우선하기**  
+    이동 수가 제한된 스테이지에서는 점수보다 "방해물 제거"나 "특정 사탕 수집"처럼
+    명시된 목표를 먼저 진행해야 합니다. 단순 고득점 매치만 노리다 보면 목표를
+    채우지 못하고 이동 수가 떨어질 수 있습니다.
 
-1.  **[KO]** Work from the bottom to generate natural cascades that clear more tiles for free.
-2.  **[KO]** Target objectives first (e.g., remove blockers, collect items) before chasing score.
-3.  **[KO]** Combine power‑ups: merging a line‑clear with a bomb or color clear often wipes large areas.
-4.  **[KO]** Avoid isolating colors near walls; keep the board open for future matches.
-5.  **[KO]** On limited‑move stages, map two to three moves ahead to conserve steps.
+3.  **특수 사탕 조합 활용**  
+    줄 지우기, 폭탄, 색 삭제 등 특수 사탕은 서로 교환했을 때 훨씬 강력한 효과를
+    냅니다. 예를 들어 줄 지우기와 폭탄을 섞으면 넓은 십자 영역을 한 번에 지울 수
+    있습니다.
 
-### Controls Guide
+4.  **벽 근처에 색을 고립시키지 않기**  
+    모서리와 가장자리에서 쓸모없는 색이 여러 개 뭉쳐 있으면 향후 매치를
+    만들기 어려워집니다. 가능한 한 중앙 쪽에서 색을 섞어 두고, 벽 근처는
+    특수 사탕으로 한 번에 정리하는 전략이 좋습니다.
 
-- Swap two neighboring candies by dragging; only valid matches are executed.
-- Activate power‑ups by matching or tapping them per rules.
-- Pause/Restart via UI.
+5.  **이동 제한 스테이지에서는 두세 수 앞까지 계산하기**  
+    한 번의 이동으로 얼마나 많은 목표를 동시에 진행할 수 있는지 항상 생각하세요.
+    효율이 떨어지는 매치는 처음부터 되돌리기(Undo)를 활용해 이동 수를 아끼는 것도
+    방법입니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Q: I always fail move‑limit levels — what am I doing wrong?
+-   **사탕 교환:** 마우스나 터치로 인접한 두 사탕을 드래그해서 위치를 바꿉니다.
+    교환 후 3매치 이상이 성립될 때만 실제로 자리가 바뀝니다.
+-   **특수 사탕 발동:** 일반 매치에 포함시키거나, 일부는 탭만으로도 활성화할 수
+    있습니다(게임 내 규칙에 따름).
+-   **일시정지/재시작:** 화면 UI 버튼으로 게임을 멈추거나 스테이지를 다시
+    시작할 수 있습니다.
 
-A: You may be scoring without advancing the objective. Prioritize blockers/targets and combine power‑ups to maximize value per move.
+### 자주 묻는 질문 (FAQ)
 
-- Q: Do diagonals count?
+-   **Q. 이동 수 제한 스테이지를 자꾸 실패해요. 무엇을 잘못하는 걸까요?**  
+    A. 단순 점수 매치에만 집중하고, 실제 목표(방해물·미션 타일)를 거의 건드리지
+    못했을 가능성이 큽니다. 한 번의 이동이 목표에 얼마나 기여하는지를 기준으로
+    수를 고르고, 특수 사탕 조합으로 이동당 효율을 극대화해 보세요.
 
-A: Typically no — most match‑3s only count orthogonal lines unless a special rule says otherwise.
+-   **Q. 대각선 매치는 인정되나요?**  
+    A. 대부분의 3매치 게임과 마찬가지로 가로·세로 줄만 인정되며, 대각선 매치는
+    성립하지 않는 것이 일반적입니다(특수 규칙이 없는 한).
 
-- Q: Any tip for stubborn blockers?
-
-A: Detonate bombs next to them or chain line clears through the row/column to chip them down quickly.
-
+-   **Q. 잘 안 지워지는 방해 블록은 어떻게 처리하나요?**  
+    A. 바로 옆에서 폭탄을 터뜨리거나, 줄 지우기 사탕의 가로/세로 라인을 관통하게
+    만들어 한 번에 큰 피해를 주는 것이 좋습니다. 여러 번의 작은 매치보다 이렇게
+    집중 화력을 주는 편이 이동 수를 아끼는 데 유리합니다.

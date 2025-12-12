@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: dice-puzzle
-title: '[ZH TRANSLATION NEEDED] Dice Puzzle'
+title: Dice Puzzle 骰子合成谜题
 description: >-
-  [ZH TRANSLATION NEEDED] A challenging brain-teaser! Place and merge dice on
-  the board. Combine three identical dice to create a higher number, and aim for
-  the ultimate jewel cube. Plan your moves carefully before the board fills up!
+  《Dice Puzzle 骰子合成谜题》是一款兼具策略与运气的脑力小游戏。你需要在棋盘上摆放与
+  合成骰子，三枚相同点数即可升级为更高点数，最终目标是合出能够引爆棋盘的宝石方块。
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/dice-puzzle.jpg
 tags:
@@ -19,27 +18,46 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Dice Puzzle is a clever and strategic puzzle game that blends logic with a bit of luck. The objective is to place dice onto a 5x5 grid and merge them to create higher-value dice. By matching three or more adjacent dice of the same number, you combine them into a single die of the next higher number. The ultimate goal is to create special jewel cubes by merging dice with the number 6, which helps clear the board and achieve a high score. The game ends when the board is full and you can no longer place a die.
+《Dice Puzzle 骰子合成谜题》是一款颇具巧思的数字合成类益智游戏，将逻辑规划与一点点运气融
+合在一起。你的任务是在 5×5 棋盘上依次摆放骰子，通过让三枚或以上相同点数的骰子相邻，从而
+将它们合成为更高点数的骰子。不断合成升级，最终可以通过合成点数为 6 的骰子生成特殊宝石方
+块，清理大片区域并冲击高分。当棋盘被完全填满且没有可以放置新骰子的位置时，游戏结束。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Merge Rule:** The core of the game is matching three or more identical dice that are adjacent to each other (in a line or cluster). They will then merge into a single die of the next number (e.g., three '4s' become one '5').
-2.  [ZH TRANSLATION NEEDED] **Plan Your Placements:** Don't just place a die in the first available spot. Look at the existing dice on the board and try to place your new die where it can either complete a set of three or set up a future merge.
-3.  [ZH TRANSLATION NEEDED] **Rotate for a Better Fit:** You can rotate the die before you place it. Use this to your advantage to position it perfectly for a merge.
-4.  [ZH TRANSLATION NEEDED] **Aim for the Jewel Cube:** The most powerful move is to merge three dice with the number 6. This creates a special jewel cube that will explode, clearing a 3x3 area around it. This is crucial for freeing up space on the board and extending your game.
+
+1.  **合成规则：** 游戏核心规则是“相邻三合一”：当横向或纵向（以及规则允许的相邻方式）出现
+    至少三枚相同点数骰子时，它们会自动合成为下一点数的单一骰子，例如三个 4 会变成一个 5。
+2.  **规划落点，不要乱放：** 不要把新骰子随便扔在第一个空格。先观察棋盘上已有点数，优先把
+    新骰子放在能立刻完成三消、或者明显有利于未来合成的位置。 
+3.  **合理利用旋转（若支持）：** 某些版本允许你在放置前旋转骰子。虽然点数本身不会变，但旋
+    转可以影响你对棋盘“布局感”的掌握，更精确地把骰子放在有潜在连锁的位置。 
+4.  **冲击宝石方块：** 当你成功合成三枚点数为 6 的骰子时，会生成一个特殊宝石方块。该方块在
+    再次参与合成或被触发时，会引发小范围爆炸，清空周围 3×3 区域，为棋盘腾出大量空间，这对
+    于延长游戏时间和刷高分非常关键。 
 
 ### Controls Guide
 
-*   **Rotate Die:** Click on the die in the holding area to rotate it before placing it.
-*   **Place Die:** Click on an empty square on the 5x5 grid to place the current die.
+*   **旋转骰子：** 在“预览区”点击当前骰子即可对其进行旋转（具体效果视版本而定）。 
+*   **放置骰子：** 在 5×5 棋盘上点击一个空格，即可将当前骰子放置于该位置。若形成满足条件的
+    相邻组合，合成会自动触发。 
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I merge dice?**
-     *   **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.
+*   **Q: 骰子是如何触发合成的？**  
+    **A：** 当至少三枚相同点数骰子在水平或垂直方向上互相接触（有的版本还支持 L 型、团块相
+    邻），它们会自动合成为点数更高的一枚骰子。 
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
+    - **Q: 游戏的最终目标是什么？**  
+    **A：** 尽可能在棋盘被填满之前，通过不断合成与爆炸清理空间，刷新自己的最高分。合成出更
+    多高点数及宝石方块，是冲击高分的关键。 
 
-*   **Q: What happens when I merge three '6' dice?**
-     *   **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
+*   **Q: 合成三枚“6 点骰子”会发生什么？**  
 
+    - **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
+
+- **Q: What happens when I merge three '6' dice?**
+
+    - **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
+    **A：** 三枚 6 点骰子会合成一个特殊的宝石方块。在它参与下一次合成或被特定机制触发时，会
+    引发 3×3 范围的小爆炸，清除周围大量棋子并给予额外得分。合理规划这类合成是中后期翻盘的
+    重要手段。 

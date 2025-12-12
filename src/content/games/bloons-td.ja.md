@@ -1,195 +1,67 @@
 ---
+title: "Bloons TD ブルーンズTD"
+description: "タワーディフェンスの原点にして金字塔『Bloons TD』。モンキー・タワーを配置して、迫りくる Bloon の大群を一つ残らず割り尽くそう。"
+iframeSrc: "https://ad-freegames.github.io/flash/game/bloons-tower-defense.html"
+thumbnail: "/new-images/bloons-td.jpg"
+urlstr: "bloons-td"
+score: "4.1/5  (812 votes)"
+tags: ["casual", "strategy"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: bloons-td
-title: '[JA TRANSLATION NEEDED] Bloons TD'
-description: >-
-  [JA TRANSLATION NEEDED] Master the art of tower defense in Bloons TD!
-  Strategically place and upgrade powerful monkey towers to pop waves of
-  invading balloons (Bloons) before they overwhelm your defenses.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
-thumbnail: /new-images/bloons-td.jpg
-tags:
-  - casual
-  - strategy
-score: 4.1/5  (812 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+## ゲーム紹介
 
+*Bloons TD（Bloons Tower Defense）* は、Bloon（風船）たちが進むルートの脇にモンキー・タワーを配置し、出口に到達する前にすべて割り切ることを目指すシリーズの出発点です。
 
-## Game Introduction
+各タワーには独自の攻撃方法やアップグレードがあり、Bloon を割るたびに得られるゲーム内通貨で新たな戦力を整えていきます。ラウンドが進むほど Bloon のスピードや特殊能力が増し、戦略的な判断がより重要になります。
 
-[JA TRANSLATION NEEDED] Bloons TD (Tower Defense) is a highly popular series of tower defense games. The core premise is straightforward yet engaging: players must prevent waves of balloons, known as "Bloons," from traversing a set path and reaching the exit. To do this, players strategically place a variety of "monkey towers" along the path.
+主な特徴は以下の通りです。
 
-[JA TRANSLATION NEEDED] Each monkey tower has unique abilities, attack styles, and upgrade paths. Popping Bloons earns the player in-game money, which can be used to buy more towers or purchase powerful upgrades for existing ones. The game's challenge escalates as the rounds progress, introducing tougher and more complex Bloon types.
+-   **多彩な Bloon:** 赤・青・緑といった多層構造に加え、**Camo**（迷彩）、**Lead**（鋭利攻撃無効）、**Regrow**（自動回復）、**Fortified**（強化）など特殊属性を持つ Bloon が次々登場します。
+-   **巨大ブリンプ（MOAB クラス）:** MOAB、BFB、ZOMG、DDT、BAD といった巨大飛行船は膨大な HP を持ち、撃破すると大量の Bloon を吐き出します。
+-   **奥深いアップグレード:** 多くのタワーは 3 本のアップグレードルートを持ち、1 つのタワーでは 2 ルートまでしか伸ばせないため、役割に応じたビルドが無数に存在します。
+-   **ヒーロー:** 近作で導入された特別ユニットで、自動レベルアップや強力なアクティブスキルによって戦況を一変させられます。
 
-[JA TRANSLATION NEEDED] Key features of the series include:
-The game is primarily controlled via mouse or touch screen, making it very intuitive.（日本語訳が必要）
--   **Diverse Bloons:** Starting from simple red Bloons, players will face multi-layered Bloons (blue, green, yellow, etc.), fast-moving ones, and Bloons with special properties like **Camo** (invisible to most towers), **Lead** (immune to sharp projectiles), **Regrow** (regenerate layers if not popped quickly), and **Fortified** (extra tough).
-    - **Camo Detection:** A Ninja Monkey, a Sniper Monkey with the right upgrade, or a Monkey Village with Radar Scanner is essential.（日本語訳が必要）
-    - **Crowd Control:** Towers that excel at popping large groups of Bloons, like the Tack 撃つer, Bomb Shooter, or Wizard Monkey, are crucial for dense waves.
-    - **MOAB Damage:** As you approach later rounds, you need high-damage towers specifically for MOAB-class Bloons. Super Monkeys, Spike Factories, and certain high-tier upgrades are designed for this.（日本語訳が必要）
-- **Map Placement Matters:** Place towers where they can cover the most track. Bends and intersections are ideal spots. Place long-range towers like Sniper Monkeys where they have a clear line of sight across the map.（日本語訳が必要）
-**1. Why are my towers not attacking certain Bloons?**（日本語訳が必要）
-- **Invest in Economy:** On harder maps and modes, generating extra income is vital. Banana Farms are towers dedicated solely to producing more money each round, allowing you to afford the most expensive and powerful upgrades.（日本語訳が必要）
-- **Placing a Tower:** Select a tower from the UI panel (usually on the right or bottom of the screen). Drag it to a valid position on the map and release to place it.（日本語訳が必要）
-## コントロール Guide
-- **Upgrading a Tower:** Click on a tower you have already placed on the map. This will bring up its upgrade menu. If you have enough money, you can click on an available upgrade to purchase it.（日本語訳が必要）
-- **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. Click them to activate their effect.（日本語訳が必要）
-- **Hotkeys (PC):** Most towers and upgrades are bound to hotkeys (e.g., Q for Dart Monkey, comma and period for upgrades), allowing for very fast placement and upgrading for experienced players.（日本語訳が必要）
-## Frequently Asked Questions (よくある質問)
-- **Tower Synergy is パワーful:** Some towers are designed to boost others. The Monkey Village can provide buffs like increased attack speed and range to all towers within its radius. An Alchemist can throw potions that dramatically increase the damage and attack speed of a nearby tower. Combining these is a core part of high-level strategy.
--   **Massive Blimps:** The ultimate threats are the MOAB-class Bloons (Massive Ornary Air Blimp), which are enormous blimps that absorb huge amounts of damage and release smaller Bloons upon being popped.
-    - **MOAB Damage:** As you approach later rounds, you need high-damage towers specifically for MOAB-class Bloons. Super Monkeys, Spike Factories, and certain high-tier upgrades are designed for this.（日本語訳が必要）
--   **Deep Upgrade System:** Most towers have three distinct upgrade paths. Players can only upgrade two of these paths on a single tower, leading to a vast number of strategic combinations and specialized tower roles.
-> - **ZOMG** (black blimp): Contains 4 BFBs.（日本語訳が必要）
-- **DDT** (fast, black blimp): Has Camo, Lead, and Black Bloon properties, making it very dangerous.（日本語訳が必要）
--   **Heroes:** Special, powerful units that level up automatically during a game, providing unique abilities that can turn the tide of a difficult round.
-- **BAD** (purple blimp): The toughest blimp in the game, contains ZOMGs and DDTs.（日本語訳が必要）
-**3. What is the "best" tower in the game?**（日本語訳が必要）
+どのマップ・難易度でも、設定されたラウンドを最後まで耐え抜き、ライフをすべて失わないことが勝利条件です。
 
-[JA TRANSLATION NEEDED] The goal is to survive all the rounds on a given map and difficulty without losing all your lives.
+## ゲーム攻略と戦略
 
-## Gameplay Strategy
+-   **序盤の基盤づくり:** 低コストで効率の良いタワー（強化した Dart Monkey やカーブに置く Tack Shooter）から始め、初期ラウンドを安く乗り切りましょう。
+-   **バランス型の防衛網:** 1 種類だけではすべての Bloon に対応できません。
+    -   **Camo 対応:** Ninja Monkey、Sniper Monkey のカモ検知アップグレード、Monkey Village（Radar Scanner）などで視認可能に。  
+    -   **Lead 破壊:** Bomb Shooter、Mortar Monkey、あるいは火炎系アップグレードを備えたタワーを用意。  
+    -   **群集処理:** Tack Shooter、Bomb Shooter、Wizard Monkey など範囲攻撃タワーで密集ラウンドを掃討。  
+    -   **MOAB 対策:** Super Monkey や Spike Factory のような高単体 DPS タワーが後半には必須です。
+-   **シナジーを活用:** Monkey Village のバフや Alchemist の薬瓶など、味方を強化するタワーを組み合わせると防衛効率が一気に跳ね上がります。
+-   **地形を読む:** 道の長いカーブや交差点にタワーを置き、できるだけ長時間攻撃できるよう配置しましょう。射程の長いタワーは視界の開けた場所に。
+-   **経済投資:** 高難度モードでは Banana Farm などの収益タワーを建て、後半の高額アップグレードに備えることが重要です。
 
--   **Early Game is Key:** Start with cost-effective towers. A few upgraded Dart Monkeys or a Tack Shooter placed on a sharp corner can handle the initial waves cheaply, allowing you to save money for more powerful defenses later.
--   **Create a Balanced Defense:** Do not rely on just one type of tower. Your defense must be able to handle all Bloon types. By mid-game, ensure you have:
-[JA TRANSLATION NEEDED]     -   **Camo Detection:** A Ninja Monkey, a Sniper Monkey with the right upgrade, or a Monkey Village with Radar Scanner is essential.
-[JA TRANSLATION NEEDED]     -   **Lead Popping Power:** Bomb Shooters, Mortar Monkeys, or towers with specific upgrades (e.g., a Boomerang Monkey's Red Hot Rangs) are needed for Lead Bloons.
-[JA TRANSLATION NEEDED]     -   **Crowd Control:** Towers that excel at popping large groups of Bloons, like the Tack Shooter, Bomb Shooter, or Wizard Monkey, are crucial for dense waves.
-[JA TRANSLATION NEEDED]     -   **MOAB Damage:** As you approach later rounds, you need high-damage towers specifically for MOAB-class Bloons. Super Monkeys, Spike Factories, and certain high-tier upgrades are designed for this.
--   **Tower Synergy is Powerful:** Some towers are designed to boost others. The Monkey Village can provide buffs like increased attack speed and range to all towers within its radius. An Alchemist can throw potions that dramatically increase the damage and attack speed of a nearby tower. Combining these is a core part of high-level strategy.
--   **Map Placement Matters:** Place towers where they can cover the most track. Bends and intersections are ideal spots. Place long-range towers like Sniper Monkeys where they have a clear line of sight across the map.
--   **Invest in Economy:** On harder maps and modes, generating extra income is vital. Banana Farms are towers dedicated solely to producing more money each round, allowing you to afford the most expensive and powerful upgrades.
+## 操作ガイド
 
-## Controls Guide
+Bloons TD はマウスまたはタッチ操作だけで完結するシンプルなインターフェースを採用しています。
 
-[JA TRANSLATION NEEDED] The game is primarily controlled via mouse or touch screen, making it very intuitive.
+-   **タワーの配置:** 画面右（または下）の UI パネルからタワーを選び、マップ上の有効地点にドラッグ＆ドロップ／タップして設置します。
+-   **タワーのアップグレード:** 配置済みタワーをクリックするとアップグレードメニューが開き、所持金が足りれば即購入可能です。
+-   **アクティブスキル:** 一部タワーやヒーローはアクティブ能力を持ち、ボタンを押すだけで強力な効果を発動できます。
+-   **PC ホットキー:** 多くのタワーやアップグレードにショートカットが割り当てられており（例：Q で Dart Monkey、カンマ/ピリオドでアップグレード）、熟練者の操作を大幅に高速化します。
 
--   **Placing a Tower:** Select a tower from the UI panel (usually on the right or bottom of the screen). Drag it to a valid position on the map and release to place it.
--   **Upgrading a Tower:** Click on a tower you have already placed on the map. This will bring up its upgrade menu. If you have enough money, you can click on an available upgrade to purchase it.
--   **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. Click them to activate their effect.
--   **Hotkeys (PC):** Most towers and upgrades are bound to hotkeys (e.g., Q for Dart Monkey, comma and period for upgrades), allowing for very fast placement and upgrading for experienced players.
+## よくある質問 (FAQ)
 
-## Frequently Asked Questions (FAQ)
+**1. 特定の Bloon にタワーがまったく攻撃しないのはなぜ？**  
+> Bloon に特殊属性があるためです。迷彩柄は **Camo Bloon** で、カモ検知を持たないタワーには見えません。灰色で金属質の Bloon は **Lead Bloon** で、ダーツやタックといった鋭利攻撃をすべて弾きます。対応するアップグレードを追加しましょう。
 
-[JA TRANSLATION NEEDED] **1. Why are my towers not attacking certain Bloons?**
-[JA TRANSLATION NEEDED] > This is usually due to special Bloon properties. If a Bloon is green with a camo pattern, it's a **Camo Bloon**, and only specific towers or towers with a "camo detection" upgrade can see it. If it's a grey, metallic Bloon, it's a **Lead Bloon**, and it's immune to sharp projectiles like darts and tacks. You need explosive or magical attacks to pop it.
+**2. MOAB、BFB、ZOMG、DDT、BAD とは？**  
+> いずれも後半に登場する MOAB クラスの巨大ブリンプで、非常に硬く動きは遅めです。弱い順に  
+> - **MOAB**（青）：内部に Ceramic Bloon を 4 体抱えています。  
+> - **BFB**（赤）：MOAB を 4 機内蔵。  
+> - **ZOMG**（黒）：BFB を 4 機内蔵する超巨大ブリンプ。  
+- **DDT**（黒くて高速）: Camo / Lead / Black の性質を同時に持ち、最も危険なブリンプの一つです。  
+- **BAD**（紫）: ゲーム最強の耐久力を誇り、撃破すると ZOMG と DDT を大量に放出します。  
 
-[JA TRANSLATION NEEDED] **2. What is a MOAB, BFB, ZOMG, DDT, or BAD?**
-[JA TRANSLATION NEEDED] > These are all "MOAB-class" blimps that appear in later rounds. They are extremely durable and move slowly. From weakest to strongest:
-[JA TRANSLATION NEEDED] > - **MOAB** (blue blimp): Contains 4 Ceramic Bloons.
-[JA TRANSLATION NEEDED] > - **BFB** (red blimp): Contains 4 MOABs.
-[JA TRANSLATION NEEDED] > - **ZOMG** (black blimp): Contains 4 BFBs.
-- **DDT** (fast, black blimp): Has Camo, Lead, and Black Bloon properties, making it very dangerous.
-- **BAD** (purple blimp): The toughest blimp in the game, contains ZOMGs and DDTs.
+**3. 「最強のタワー」は存在する？**  
+> 環境やマップによって求められる役割が異なるため、万能なタワーはありません。複数のタワーを組み合わせ、互いの弱点を補完するのが最善です。
 
-[JA TRANSLATION NEEDED] **3. What is the "best" tower in the game?**
-[JA TRANSLATION NEEDED] > There is no single "best" tower. The strength of Bloons TD lies in its balance and synergy. A tower that is amazing in one situation might be useless in another. The best strategy is to build a diverse team of towers that support each other and cover all weaknesses.
-
-[JA TRANSLATION NEEDED] **4. How do I make more money?**
-[JA TRANSLATION NEEDED] > The primary way is by popping Bloons. For a significant income boost, build and upgrade Banana Farms. Some other towers, like the Alchemist or Monkey Buccaneer, also have upgrade paths that generate money.
-
-
-    - **Lead Popping Power:** Bomb 撃つers, Mortar Monkeys, or towers with specific upgrades (e.g., a Boomerang Monkey's Red Hot Rangs) are needed for Lead Bloons.
-    - **Crowd Control:** Towers that excel at popping large groups of Bloons, like the Tack 撃つer, Bomb Shooter, or Wizard Monkey, are crucial for dense waves.
-
-
-
-
-
-
-## コントロールガイド
-- **Invest in Economy:** On harder maps and modes, generating extra income is vital. Banana Farms are towers dedicated solely to producing more money each round, allowing you to afford the most expensive and powerful upgrades.
-- **Map Placement Matters:** Place towers where they can cover the most track. Bends and intersections are ideal spots. Place long-range towers like Sniper Monkeys where they have a clear line of sight across the map.
-- **Tower Synergy is Powerful:** Some towers are designed to boost others. The Monkey Village can provide buffs like increased attack speed and range to all towers within its radius. An Alchemist can throw potions that dramatically increase the damage and attack speed of a nearby tower. Combining these is a core part of high-level strategy.
-    - **MOAB Damage:** As you approach later rounds, you need high-damage towers specifically for MOAB-class Bloons. Super Monkeys, Spike Factories, and certain high-tier upgrades are designed for this.
-    - **Crowd Control:** Towers that excel at popping large groups of Bloons, like the Tack Shooter, Bomb Shooter, or Wizard Monkey, are crucial for dense waves.
-> This is usually due to special Bloon properties. If a Bloon is green with a camo pattern, it's a **Camo Bloon**, and only specific towers or towers with a "camo detection" upgrade can see it. If it's a grey, metallic Bloon, it's a **Lead Bloon**, and it's immune to sharp projectiles like darts and tacks. You need explosive or magical attacks to pop it.（日本語訳が必要）
-
-
-
-
-
-## よくある質問（FAQ）
-- **Hotkeys (PC):** Most towers and upgrades are bound to hotkeys (e.g., Q for Dart Monkey, comma and period for upgrades), allowing for very fast placement and upgrading for experienced players.
-- **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. Click them to activate their effect.
-- **Upgrading a Tower:** Click on a tower you have already placed on the map. This will bring up its upgrade menu. If you have enough money, you can click on an available upgrade to purchase it.
-
-## コントロールガイド
-- **Placing a Tower:** Select a tower from the UI panel (usually on the right or bottom of the screen). Drag it to a valid position on the map and release to place it.
-**2. What is a MOAB, BFB, ZOMG, DDT, or BAD?**（日本語訳が必要）
-> These are all "MOAB-class" blimps that appear in later rounds. They are extremely durable and move slowly. From weakest to strongest:（日本語訳が必要）
-> - **MOAB** (blue blimp): Contains 4 Ceramic Bloons.（日本語訳が必要）
-> - **BFB** (red blimp): Contains 4 MOABs.（日本語訳が必要）
-> There is no single "best" tower. The strength of Bloons TD lies in its balance and synergy. A tower that is amazing in one situation might be useless in another. The best strategy is to build a diverse team of towers that support each other and cover all weaknesses.（日本語訳が必要）
-**4. How do I make more money?**（日本語訳が必要）
-> The primary way is by popping Bloons. For a significant income boost, build and upgrade Banana Farms. Some other towers, like the Alchemist or Monkey Buccaneer, also have upgrade paths that generate money.（日本語訳が必要）
-
-
-
-
-
-
-> The primary way is by popping Bloons. For a significant income boost, build and upgrade Banana Farms. Some other towers, like the Alchemist or Monkey Buccaneer, also have upgrade paths that generate money.
-**4. How do I make more money?**
-> There is no single "best" tower. The strength of Bloons TD lies in its balance and synergy. A tower that is amazing in one situation might be useless in another. The best strategy is to build a diverse team of towers that support each other and cover all weaknesses.
-**3. What is the "best" tower in the game?**
-- **BAD** (purple blimp): The toughest blimp in the game, contains ZOMGs and DDTs.
-- **DDT** (fast, black blimp): Has Camo, Lead, and Black Bloon properties, making it very dangerous.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> The primary way is by popping Bloons. For a significant income boost, build and upgrade Banana Farms. Some other towers, like the Alchemist or Monkey Buccaneer, also have upgrade paths that generate money.
-**4. How do I make more money?**
-> There is no single "best" tower. The strength of Bloons TD lies in its balance and synergy. A tower that is amazing in one situation might be useless in another. The best strategy is to build a diverse team of towers that support each other and cover all weaknesses.
-**3. What is the "best" tower in the game?**
-- **BAD** (purple blimp): The toughest blimp in the game, contains ZOMGs and DDTs.
-- **DDT** (fast, black blimp): Has Camo, Lead, and Black Bloon properties, making it very dangerous.
-> - **ZOMG** (black blimp): Contains 4 BFBs.
-> - **BFB** (red blimp): Contains 4 MOABs.
-> - **MOAB** (blue blimp): Contains 4 Ceramic Bloons.
-> These are all "MOAB-class" blimps that appear in later rounds. They are extremely durable and move slowly. From weakest to strongest:
-**2. What is a MOAB, BFB, ZOMG, DDT, or BAD?**
-> This is usually due to special Bloon properties. If a Bloon is green with a camo pattern, it's a **Camo Bloon**, and only specific towers or towers with a "camo detection" upgrade can see it. If it's a grey, metallic Bloon, it's a **Lead Bloon**, and it's immune to sharp projectiles like darts and tacks. You need explosive or magical attacks to pop it.
-**1. Why are my towers not attacking certain Bloons?**
-## よくある質問（FAQ）
-
-
-
-
-
-
-
-> - **ZOMG** (black blimp): Contains 4 BFBs.
-> - **BFB** (red blimp): Contains 4 MOABs.
-> - **MOAB** (blue blimp): Contains 4 Ceramic Bloons.
-> These are all "MOAB-class" blimps that appear in later rounds. They are extremely durable and move slowly. From weakest to strongest:
-**2. What is a MOAB, BFB, ZOMG, DDT, or BAD?**
-> This is usually due to special Bloon properties. If a Bloon is green with a camo pattern, it's a **Camo Bloon**, and only specific towers or towers with a "camo detection" upgrade can see it. If it's a grey, metallic Bloon, it's a **Lead Bloon**, and it's immune to sharp projectiles like darts and tacks. You need explosive or magical attacks to pop it.
-**1. Why are my towers not attacking certain Bloons?**
-- **Hotkeys (PC):** Most towers and upgrades are bound to hotkeys (e.g., Q for Dart Monkey, comma and period for upgrades), allowing for very fast placement and upgrading for experienced players.
-- **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. Click them to activate their effect.
-
-
-
-
-
-> The primary way is by popping Bloons. For a significant income boost, build and upgrade Banana Farms. Some other towers, like the Alchemist or Monkey Buccaneer, also have upgrade paths that generate money.
-**4. How do I make more money?**
-> There is no single "best" tower. The strength of Bloons TD lies in its balance and synergy. A tower that is amazing in one situation might be useless in another. The best strategy is to build a diverse team of towers that support each other and cover all weaknesses.
-**3. What is the "best" tower in the game?**
+**4. どうやってお金を増やす？**  
+> 基本収入は Bloon を割ったときの報酬です。さらに稼ぎたい場合は Banana Farm を建ててアップグレードしたり、Monkey Buccaneer や Alchemist の金策ルートを活用しましょう。

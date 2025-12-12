@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: football-legends
-title: '[ES] Football Legends'
+title: "Football Legends"
 description: >-
-  [ES] Arcade soccer duels: play 1v1 or 2v2 with headers, volleys, and special
-  shots, in quick matches or tournaments.
+  Duelo arcade de fútbol: juega 1v1 o 2v2 con remates de cabeza, volea y
+  disparos especiales en partidos rápidos o torneos.
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/football-legends.jpg
 tags:
@@ -15,30 +15,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Football Legends es un fútbol rápido 1v1 o 2v2 con física exagerada y disparos
+especiales. Puedes jugar partidos rápidos o intentar ganar cuadros de torneo
+completos.
 
+### Cómo jugar
 
-### Overview
-Fast 1v1/2v2 football with exaggerated physics and special kicks. Modes include quick match and tournament brackets.
+- Colócate para rematar de cabeza o de volea; sincroniza los disparos
+  potentes cuando el medidor esté lleno.
+- Aprovecha paredes y rebotes para crear ángulos de tiro; protege tu portería
+  justo después del saque.
+- En modo 2 jugadores, repartid roles: que uno presione arriba y el otro
+  cubra atrás.
 
-### How to Play
-- Position for headers and volleys; time power shots when the meter is full.
-- Use walls/bounces to set up angles; protect your goal after a kickoff.
-- In 2‑player, coordinate roles: one presses, one covers.
+### Controles
 
-### Controls
-- Arrows/WASD to move/jump; shot/pass keys and special vary by host.
+- Flechas/WASD para moverse y saltar; las teclas de tiro, pase y especial
+  dependen del portal donde juegues.
 
-### Tips
-- Jump‑timed headers are the safest way to score.
-- Save specials for open looks rather than congested scrums.
-- On defense, backpedal and block angles instead of lunging.
+### Consejos
 
-### FAQ
-- Q: How do I activate a special shot?
-A: Fill the meter via play, then press the special key shown on your host.
-- Q: Does 2‑player work on one keyboard?
-A: Yes, most versions map two separate key sets.
-- Q: Are there teams with different stats?
-A: Many hosts offer team skins; physics are generally consistent.
+- Los remates de cabeza bien cronometrados suelen ser la forma más segura de
+  marcar.
+- Guarda los disparos especiales para situaciones claras de gol, no para
+  melés llenas de jugadores.
+- En defensa, retrocede y cierra ángulos en lugar de lanzarte a por la
+  entrada.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo activo un disparo especial?**  
+  **R:** Llena el medidor durante el juego y luego pulsa la tecla especial que
+  indique tu versión.
+
+- **P: ¿Se puede jugar 2 jugadores en el mismo teclado?**  
+  **R:** Sí, la mayoría de versiones asignan dos esquemas de teclas distintos.
+
+- **P: ¿Los equipos tienen estadísticas diferentes?**  
+  **R:** Muchos portales ofrecen solo skins distintos; la física suele ser la
+  misma para todos.

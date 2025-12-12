@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: minigolf-clash
-title: '[ES] Minigolf Clash'
+title: "Minigolf Clash - Desafíos creativos de putt"
 description: >-
-  [ES] Minigolf Clash serves creative putt‑putt puzzles — read slopes, bank
-  shots, and sink pars on quirky courses.
+  Minigolf Clash propone circuitos de minigolf llenos de obstáculos creativos:
+  lee las pendientes, usa los rebotes y emboca bajo par en recorridos llenos de
+  personalidad.
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
 thumbnail: /new-images/minigolf-clash.png
 tags:
@@ -17,29 +18,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Minigolf Clash es un juego casual de putting con obstáculos creativos, rampas,
+paredes de rebote y elementos móviles. El objetivo es sencillo —terminar cada
+hoyo por debajo del par— pero dominar ángulos y potencia es lo que te permitirá
+lograr puntuaciones bajas y tiros espectaculares.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Minigolf Clash is a casual putting game with creative obstacles, ramps, banks, and moving parts. Your goal is simple—finish holes under par—yet mastering angles and pace unlocks low scores and trick‑shot lines.
+1.  Control de fuerza: usa golpes suaves cerca del hoyo para evitar que la bola
+    se salga por el borde; reserva golpes más fuertes para rampas cuesta arriba.
+2.  Ángulos limpios: apóyate en las paredes para hacer tiros a banda cercanos a
+    45° siempre que puedas y así reducir rebotes aleatorios.
+3.  Evitar peligros: prioriza recorridos seguros en dos golpes frente a intentos
+    muy arriesgados de hoyo en uno.
+4.  Dominar elementos móviles: cronometra molinos, compuertas y pistones;
+    espera siempre a una ventana clara antes de lanzar la bola.
+5.  Practicar líneas: repite golpes desde posiciones similares para construir
+    memoria muscular y conseguir trayectorias fiables.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Pace control: Soft putts around cups prevent lip‑outs; harder hits for uphill ramps.
-2.  **[ES]** Clean angles: Use walls to bank at 45° where possible; reduce random ricochets.
-3.  **[ES]** Avoid hazards: Favor consistent two‑putts over risky hole‑in‑one attempts.
-4.  **[ES]** Learn movers: Time windmills, gates, and pistons; wait for safe windows.
-5.  **[ES]** Line rehearsal: Practice putts from similar lies to build reliable muscle memory.
+- Apuntar: arrastra para fijar la dirección.  
+- Potencia: tira hacia atrás para ajustar la fuerza y suelta para golpear.  
+- Reinicio: usa el control en pantalla para reiniciar el hoyo si la versión lo permite.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim: Drag to set direction.
-- Power: Pull back to set strength, release to putt.
-- Restart: Use on‑screen control to retry a hole if allowed.
+- P: ¿Por qué mis putts se salen del hoyo?  
+  R: Normalmente por exceso de fuerza o por una línea deficiente; baja la
+  potencia cerca del agujero.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Algún consejo para los tiros a banda?  
+  R: Apunta un poco por dentro del ángulo perfecto de 45° para compensar la
+  pérdida de velocidad en la pared.
 
-- Why do putts rim out? Too much pace or poor line; slow down near the cup.
-- Any bank‑shot tips? Aim slightly inside the perfect 45° to account for speed loss.
-- How to handle movers? Watch a full cycle first, then commit when timing is clear.
-
+- P: ¿Cómo gestiono los obstáculos móviles?  
+  R: Observa un ciclo completo antes de golpear y solo lanza cuando tengas clara
+  la ventana de paso.

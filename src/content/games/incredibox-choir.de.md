@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: incredibox-choir
-title: '[DE] Incredibox Choir'
+title: Incredibox Choir
 description: >-
-  [DE] Explore the harmonious world of Incredibox Choir, a fan-made mod focusing
-  on vocal arrangements and choral music.
+  Incredibox Choir ist ein Fan-Mod mit Fokus auf Chorgesang: Arrangiere
+  mehrstimmige Vocals, gregorianisch angehauchte Melodien und klassische
+  Harmonien zu deinem eigenen Chorstück.
 iframeSrc: 'https://turbowarp.org/1034584392/embed'
 thumbnail: /new-images/incredibox-choir.png
 tags:
@@ -16,42 +17,64 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+*Incredibox Choir* ist ein viel gelobter Fan-Mod von Incredibox mit
+Schwerpunkt auf **Chor-, A-cappella- und klassischer Musik**. Statt locker
+angezogener Beatboxer steht hier ein formeller Chor auf der Bühne. Du erhältst
+wie gewohnt 20 Sound-Icons, aufgeteilt in die vier Kategorien Beats, Effekte,
+Melodien und Stimmen – allerdings mit Fokus auf gregorianische Anklänge,
+klassische Harmonien, Opern-Soli und tiefe Vocal-Bässe.
 
+Dein Ziel ist es, aus diesen Bausteinen ein wuchtiges oder getragenes
+Chorstück zu bauen und nebenbei die drei geheimen Bonus-Kombinationen zu
+entdecken, die atmosphärisch an sakrale oder epische Szenen angelehnt sind.
 
-### **Incredibox "Choir" Game Introduction**
+### Strategie & Tipps
 
-*Incredibox Choir* is a highly acclaimed fan-made mod of the music creation game Incredibox. It distinguishes itself from official versions and other mods with its powerful and atmospheric sound palette centered around **choral, acapella, and classical music**.
+1.  **Chor-Kategorien kennen**  
+    *   **Beats (Rot):** Statt klassischer Drums bekommst du hier tiefe
+        Vocal-Percussion, rhythmische Bass-Chants und Summen, die das
+        Fundament bilden.  
+- **Effekte (Blau):** Luftige Pads, Hallfahnen, Echos und atmosphärische
+        Chorflächen, die Raum und Größe erzeugen.  
+    *   **Melodien (Grün):** Klare Tenor- oder Altstimmen, die eingängige
+        Tonfolgen tragen und als musikalischer Hook dienen.  
+    *   **Stimmen (Gelb):** Komplexe Soli, mehrstimmige Harmonien und
+        Ensemble-Passagen, die deiner Komposition Charakter geben.
 
-The game transforms the usual beatboxing crew into a formal choir. Players are presented with the familiar interface: a cast of characters ready to perform and a selection of 20 sound icons. These icons are divided into the standard four categories (Beats, Effects, Melodies, Voices), but are filled with sounds inspired by Gregorian chants, classical harmonies, powerful solo operatic voices, and deep vocal basslines.
+    - **Von unten nach oben aufbauen**  
+    Starte mit ein bis zwei Beat-Icons, um den Puls festzulegen. Füge dann ein
+    Effekt-Icon für Raum hinzu und schichte anschließend Melodien und Stimmen,
+    bis der Chor „voll" klingt.
 
-The gameplay objective remains the creative and puzzle-solving experience Incredibox is known for. Players can freely combine sounds by dragging icons onto the characters to compose their own majestic choral pieces. The challenge lies in discovering the three specific combinations of sounds that unlock the secret animated bonuses, which are thematically designed to fit the grand, almost sacred, atmosphere of the mod.
+    - **Auf Harmonie achten**  
+    Nicht alle Sounds harmonieren miteinander. Wenn ein Mix dissonant oder
+    chaotisch klingt, tausche gezielt einzelne Stimmen aus. Ziel ist ein
+    kraftvoller, geschlossener Chorklang.
 
-### **Gameplay Strategy & Tips**
+4.  **Bonis methodisch suchen**  
+    Sperre eine solide Grundbesetzung ein und rotiere die übrigen Icons
+    nacheinander durch, um die drei Bonus-Animationen aufzudecken.
 
-The strategy for *Incredibox Choir* focuses on layering harmonies and exploring its unique vocal textures to create a cohesive piece and find the bonuses.
+5.  **Solo-Funktion nutzen**  
 
-1.  **[DE]** **Understand the Choral Categories**:
-    *   **[DE]** **Beats (Red)**: Forget traditional drums. Here, the beats are formed from deep vocal percussion, rhythmic bass chants, and powerful, low-frequency hums that provide a solid foundation.
-    *   **[DE]** **Effects (Blue)**: These add atmospheric layers. Expect to find ethereal vocal pads, reverbs, echoes, and ambient choral textures that create a sense of space and grandeur.
-    *   **[DE]** **Melodies (Green)**: These are the core melodic lines, often performed by clear tenor or alto voices, creating patterns that function like musical hooks.
-    *   **[DE]** **Voices (Yellow)**: This category contains the most prominent and complex vocal performances, including soaring soprano solos, multi-part harmonies, and powerful ensemble passages that define the track's character.
+- **Use Solo to Appreciate the Detail**: The vocal work in this mod is often very detailed. Use the "solo" function to isolate individual voices and appreciate the nuances of each performance. This can also help you understand how each part contributes to the whole.
 
-2.  **[DE]** **Build from the Bottom Up**: A good way to compose is to start with a solid foundation. Begin with one or two "Beat" icons to establish the rhythm. Then, add an "Effect" to create atmosphere. Finally, layer the "Melodies" and "Voices" on top to build your composition.
+- **Systematic Search for Bonuses**: To find the three hidden bonuses, a methodical approach is best. Try locking in a few sounds that you think work well together and then systematically cycle through the remaining icons one by one until you trigger the animation.
+    Isoliere einzelne Stimmen per Solo, um die Details zu hören und besser zu
+    verstehen, wie jede Spur in das Gesamtstück einzahlt.
 
-3.  **[DE]** **Find Harmony, Not Dissonance**: Due to the nature of choral music, not all sounds will harmonize well together. If a combination sounds off-key or chaotic, don't be afraid to swap out sounds. The goal is to create a powerful, unified chorus.
+### Steuerung
 
-4.  **[DE]** **Systematic Search for Bonuses**: To find the three hidden bonuses, a methodical approach is best. Try locking in a few sounds that you think work well together and then systematically cycle through the remaining icons one by one until you trigger the animation.
+Die Steuerung entspricht der Standard-Incredibox-Bedienung.
 
-5.  **[DE]** **Use Solo to Appreciate the Detail**: The vocal work in this mod is often very detailed. Use the "solo" function to isolate individual voices and appreciate the nuances of each performance. This can also help you understand how each part contributes to the whole.
-
-### **Controls Guide**
-
-The controls are identical to the official Incredibox game, relying on simple mouse actions.
-
-*   **[DE]** **Add a Sound**: **Drag** an icon from the bottom panel and **drop** it onto a character.
-*   **[DE]** **Remove a Sound**: Click the "X" on a character's icon at the bottom, or replace it by dragging a new sound onto them.
-*   **[DE]** **Mute / Unmute**: **Click** an active character to silence them. Click again to bring them back into the mix.
-*   **[DE]** **Solo**: Click the **small button** that appears next to a performing character to mute all others.
-*   **[DE]** **Record**: Click the **record button** to start and stop a recording of your current mix.
-
+*   **Sound hinzufügen:** Ziehe ein Icon aus der unteren Leiste auf eine Figur.
+*   **Sound entfernen:** Klicke auf das "X" unter dem betreffenden Icon oder
+    überschreibe es mit einem neuen.
+*   **Mute / Unmute:** Klicke auf eine Figur, um sie stumm zu schalten, und
+    erneut, um sie wieder zu aktivieren.
+*   **Solo:** Mit dem kleinen Button neben einer Figur blendest du alle anderen
+    Stimmen stumm.
+*   **Aufnehmen:** Mit dem Record-Button kannst du deinen Chor-Mix aufnehmen
+    und später erneut anhören.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: roll-this-ball-3
-title: '[DE] Roll This Ball'
+title: Roll This Ball
 description: >-
-  [DE] A classic sliding puzzle that will test your logic. Slide the wooden
-  blocks to create a clear path for the ball to roll from the start to the goal.
+  Roll This Ball ist ein klassisches Schiebepuzzle, das deine Logik fordert:
+  Verschiebe Holzblöcke, um eine durchgehende Bahn zu bauen, auf der die Kugel
+  vom Start bis ins Ziel rollen kann.
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/roll-this-ball-3.png
 tags:
@@ -16,33 +17,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
+
+Roll This Ball ist ein klassisches Schiebeblock-Puzzle, das dein
+ Vorausplanen testet. Auf einem Raster liegen verschiedene Bahnsegmente; einige
+ sind fest verankert, andere kannst du verschieben. Dein Ziel ist es, die
+ beweglichen Teile so anzuordnen, dass eine lückenlose Strecke vom Startfeld
+ bis zum Zielfeld entsteht, auf der die Kugel ununterbrochen rollen kann.
+
+### Strategien & Spieltipps
+
+1.  **Weg vorab analysieren:** Bevor du Blöcke verschiebst, verfolge mit den
+    Augen eine mögliche Route von Start zum Ziel und markiere die zentralen
+    Segmente, die verbunden werden müssen.
+2.  **Rückwärts denken:** Oft hilft es, vom Ziel aus zu überlegen: Welches
+    Teil muss direkt am Ziel liegen, welches daran anschließen usw., bis du zum
+    Start zurückkommst.
+3.  **Feste Blöcke als Anker:** Blöcke mit Nieten sind fix und können nicht
+    bewegt werden. Nutze sie als Orientierung und baue deine Strecke um diese
+    Anker herum.
+4.  **Züge minimieren:** Für die volle Sternenwertung musst du das Puzzle meist
+    in einer begrenzten Anzahl von Zügen lösen. Vermeide unnötige
+    Hin-und-her-Schiebereien.
+
+### Steuerung
+
+*   **Block bewegen:** Klicke einen verschiebbaren Block an und ziehe ihn in ein
+    benachbartes freies Feld.
 
 
-### Detailed Game Introduction
+- **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
+### Häufige Fragen (FAQ)
 
-Roll This Ball is a classic and challenging sliding block puzzle designed to test your logic and planning skills. The game presents you with a grid of tiles, some of which are fixed in place, while others can be moved. Your goal is to slide the movable blocks to form a continuous, unbroken path for a ball to roll from its starting point to the goal. It's a simple concept with surprisingly deep and challenging puzzles.
+*   **F: Was ist das Ziel des Spiels?**
+    **A:** Eine ununterbrochene Bahn aufzubauen, auf der die Kugel vom Start-
+    zum Zielfeld rollen kann.
 
-### Gameplay Strategy & Walkthrough
+    - **F: Warum lässt sich ein bestimmter Block nicht verschieben?**
+    **A:** Teile mit sichtbaren Nieten sind fest verankert und können nicht
+    bewegt werden. Plane deine Lösung um diese Fixpunkte herum.
 
-1.  **[DE]** **Analyze the Path:** Before you start moving blocks, trace the potential path with your eyes. Identify the key pieces that need to connect the start and end points.
-2.  **[DE]** **Work Backwards:** Sometimes it's easier to solve the puzzle by working backwards from the goal tile. Figure out which piece needs to connect to the goal, then which piece needs to connect to that one, and so on, until you reach the start.
-3.  **[DE]** **Use Fixed Blocks as Anchors:** The blocks with rivets in them cannot be moved. Use these as fixed points in your path and build your solution around them.
-4.  **[DE]** **Aim for the Stars:** Many levels have a star rating. To get all three stars, you typically need to solve the puzzle in the minimum number of moves possible. This requires thinking efficiently and not making any unnecessary slides.
+*   **F: Die Kugel rollt nicht, obwohl der Weg fast fertig aussieht.**
 
-### Controls Guide
+    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
 
-The game is played with simple drag-and-drop or sliding controls.
+- **Q: I've made a path, but the ball isn't rolling. Why?**
 
-*   **[DE]** **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.
-
-*   **[DE]** **Q: Why can't I move a specific block?**
-    *   **[DE]** **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-
-*   **[DE]** **Q: I've made a path, but the ball isn't rolling. Why?**
-    *   **[DE]** **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
-
+    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
+    **A:** Prüfe, ob wirklich alle Segmente korrekt verbunden und ausgerichtet
+    sind. Schon ein falscher Winkel oder eine kleine Lücke verhindert, dass die
+    Bahn als durchgehend erkannt wird.

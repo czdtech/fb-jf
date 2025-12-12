@@ -1,69 +1,39 @@
 ---
+title: "Krishna Jump"
+description: "Krishna Jumpはリズミカルな垂直ランナーです。正確なジャンプを連鎖させ、障害物を回避し、カラフルなステージでアイドルを収集します。"
+iframeSrc: "https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/"
+thumbnail: "/new-images/krishna-jump.png"
+urlstr: "krishna-jump"
+score: "3.9/5  (1718 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: krishna-jump
-title: '[JA TRANSLATION NEEDED] Krishna Jump'
-description: >-
-  [JA TRANSLATION NEEDED] Krishna Jump is a rhythmic vertical runner — chain
-  precise jumps, dodge hazards, and collect idols across colorful stages.
-iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
-thumbnail: /new-images/krishna-jump.png
-tags:
-  - action
-  - casual
-score: 3.9/5  (1718 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Krishna Jumpはワンボタンの垂直ランナーです。プラットフォーム間を跳躍するタイミングを合わせ、スパイクと移動する敵を避け、ボーナスのために収集品をつかみます。後のレベルでは、消える タイルと変化する速度が追加され、安定したリズムと素早い読みが必要です。
 
-[JA TRANSLATION NEEDED] Krishna Jump is a one‑button vertical runner. Time jumps to leap between platforms, avoid spikes and moving enemies, and snag collectibles for bonuses. Later levels add disappearing tiles and shifting speeds that demand steady rhythm and quick reads.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  ビートをカウント：ジャンプタイミングを正常化するために安定したケーデンス（リズム）でタップします。
+2.  中央を狙う：修正を可能にするためにプラットフォームの中央に着地します。
+3.  先を読む：安全なアークを計画するために2〜3プラットフォーム上を見ます。
+4.  貪欲をスキップ：配置が悪い時はリスクの高いサイドコインを放棄します。
+5.  ケーデンスを回復：ミスの後、呼吸をしてリズムを再確立します。
 
-[JA TRANSLATION NEEDED] 1.  Count beats: Tap on a steady cadence to normalize jump timing.
-[JA TRANSLATION NEEDED] 2.  Aim centers: Land mid‑platform to allow corrections.
-[JA TRANSLATION NEEDED] 3.  Read ahead: Watch 2–3 platforms up to plan safe arcs.
-[JA TRANSLATION NEEDED] 4.  Skip greed: Abandon risky side coins when alignment is poor.
-[JA TRANSLATION NEEDED] 5.  Recover cadence: After a miss, take a breath and re‑establish rhythm.
+### 操作ガイド
 
-### Controls Guide
+- ジャンプするためにタップ/クリック。ビルドによっては保持すると高さが増加する可能性があります。UI経由で一時停止。
 
-- Tap/Click to jump; hold may increase height depending on build; pause via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: プラットフォームをオーバーシュートします。修正は？**  
+  A: ショートタップして中央着地をターゲットにします。必要でない限りフルホールドを避けます。
 
-- Q: I overshoot platforms — fix?
-  
-[JA TRANSLATION NEEDED]   A: Short‑tap and target center landings; avoid full‑hold unless needed.
+- **Q: ダブルジャンプは利用可能ですか？**  
+  A: 一部のステージでは一時的なダブルジャンプを付与します。HUDプロンプトを見てください。
 
-- Q: Are double jumps available?
-  
-[JA TRANSLATION NEEDED]   A: Some stages grant temporary double jump; watch HUD prompts.
-
-- Q: Endless or level‑based?
-  
-
-
-
-
-
-- Q: I overshoot platforms — fix?
-### よくある質問（FAQ）
-- Tap/Click to jump; hold may increase height depending on build; pause via UI.
-### コントロールガイド
-- Recover cadence: After a miss, take a breath and re‑establish rhythm.
-[JA TRANSLATION NEEDED]   A: Modes vary; many campaigns use short, hand‑crafted levels.
-
-
-
-
-
-
-A: Modes vary; many campaigns use short, hand‑crafted levels.
-- Q: Endless or level‑based?
-A: Some stages grant temporary double jump; watch HUD prompts.
-- Q: Are double jumps available?
-
-
-A: Modes vary; many campaigns use short, hand‑crafted levels.
+- **Q: エンドレスまたはレベルベース？**  
+  A: モードは様々です。多くのキャンペーンは短い、手作りのレベルを使用します。

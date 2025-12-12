@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: sprunki-rotrizi-5
-title: '[ES] Sprunki Rotrizi 5.0 - Play Sprunki Rotrizi 5.0 Online'
+title: Sprunki Rotrizi 5.0 - Juega a Sprunki Rotrizi 5.0 online
 description: >-
-  [ES] Sprunki Rotrizi 5.0 is an exhilarating free-to-play music-mixing
-  experience that lets you unleash your creativity and craft electrifying beats.
-  It stands out among Sprunki mods thanks to its advanced distortion algorithms
-  and immersive visuals.
+  Sprunki Rotrizi 5.0 es una experiencia gratuita de mezcla musical que te deja
+  desatar tu creatividad y crear beats electrizantes, destacando entre los mods
+  de Sprunki por sus algoritmos de distorsión avanzados y sus visuales
+  envolventes.
 iframeSrc: 'https://turbowarp.org/1126764795/embed'
 thumbnail: /sprunki-rotrizi-5.png
 tags:
@@ -15,42 +15,69 @@ score: 4.0/5  (232 votes)
 ---
 
 
+¿Listo para entrar en un reino sonoro lleno de efectos de vanguardia y
+posibilidades infinitas? Sprunki Rotrizi 5.0 llega para cambiar tu forma de ver
+la creación musical. Este mod lleva el concepto original de Rotrizi varios
+escalones más arriba, con capas de sonido intrincadas, glitches psicodélicos y
+distorsiones de graves que hacen temblar el suelo.
 
-Are you ready to step into a musical realm filled with cutting-edge sounds and endless possibilities? Sprunki Rotrizi 5.0 is here to blow your mind about music creation! This state-of-the-art music-mixing mod takes the original Rotrizi concept and kicks it up several notches, immersing you in intricate sound layering, trippy glitch effects, and earth-shattering deep bass distortions.
+### ¿Qué es Sprunki Rotrizi 5.0?
 
-### What's the Deal with Sprunki Rotrizi 5.0?
+Imagínate como un alquimista del sonido y a Sprunki Rotrizi 5.0 como tu
+laboratorio de alta tecnología. Puedes mezclar y combinar toda clase de
+elementos, desde golpes secos de percusión hasta sintes agresivos, para crear
+temas verdaderamente únicos. La magia de este mod está en la libertad
+absoluta para experimentar, sobre todo con los efectos glitch y las capas de
+graves que dan a tus pistas un aire futurista y contundente.
 
-Imagine yourself as a sound alchemist, and Sprunki Rotrizi 5.0 is your high-tech lab. You get to freely mix and match all sorts of sound elements, from sharp beats to dynamic synth sounds, crafting truly unique musical pieces. The magic of this mod lies in the extreme freedom and experimentation it offers, especially with those mesmerizing glitch effects and deep bass enhancements that give your creations a futuristic and powerful vibe.
+### ¿Por qué engancha tanto Sprunki Rotrizi 5.0?
 
-### What Makes Sprunki Rotrizi 5.0 So Addictive?
+- **Capas de sonido avanzadas:** si quieres composiciones complejas, aquí las
+  tienes; Sprunki Rotrizi 5.0 te permite mezclar varias pistas de audio de forma
+  fluida y construir temas llenos de detalle.
+- **Glitches y distorsiones:** los efectos digitales y las distorsiones dan a
+  tu música un toque de ciencia ficción inmediato; es difícil no volverse adicto.
+- **Graves que se sienten:** la mejora de graves hace que cada pista tenga un
+  empuje físico, ideal si te gustan los bajos que «sacuden el pecho».
 
-- **Advanced Sound Layering:** Want complexity? No problem! Sprunki Rotrizi 5.0 lets you seamlessly blend multiple audio tracks, building compositions rich in layers and detail.
-- **Play with Glitches & Distortion:** Spice up your mix! Unique digital glitch effects and distortions can instantly inject a futuristic, sci-fi feel into your music – it's seriously cool!
-- **Soul-Shaking Deep Bass:** Ready to feel bass that can shake the ground? The bass enhancement feature in Sprunki Rotrizi 5.0 packs every track with power and punch.
+### Cómo sacarle partido a Sprunki Rotrizi 5.0
 
+Empezar tu experimento sonoro es muy fácil:
 
-### How to Rock This Cool Sprunki Rotrizi 5.0 Thing?
+- **Ten paciencia con la carga:** al iniciar el juego hay unos 30–45 segundos
+  de carga para preparar todos los elementos. La espera compensa.
+- **Arrastra personajes:** una vez dentro, usa el botón izquierdo para arrastrar
+  personajes desde el menú hasta la zona de mezcla.
+- **Prueba combinaciones:** si un sonido no te convence, haz clic en el
+  personaje sobre el escenario para eliminarlo y prueba otro en su lugar.
+- **Activa la magia glitch:** con el botón derecho puedes activar efectos
+  glitch que añaden giros inesperados y distorsiones deliciosas a tu mezcla.
+- **Reinicia cuando quieras:** si el caos se te va de las manos, pulsa la barra
+  espaciadora para limpiar el escenario y empezar de cero.
 
-Starting your sonic experimentation journey is super easy:
+### Consejos para jugar a Sprunki Rotrizi 5.0
 
-- **Patience During Loading:** Firing up the game requires a bit of patience – about 30-45 seconds of loading time is needed to prep all the awesome music elements. Trust me, the wait is totally worth it!
-- **Drag Characters:** Once loaded, use your left mouse button to pick characters from the menu and drop them onto the mixing area.
-- **Try Different Combos:** Not feeling a sound? Just click a character on the stage to remove it and try swapping in something new!
-- **Unleash Glitch Magic:** Want to get wild? Try right-clicking to activate those crazy glitch effects, adding unexpected twists and delightful distortions to your mix!
-- **Reset Everything:** Went a bit too crazy and want a fresh start? Hit the spacebar to clear the stage and begin anew.
+- **Experimenta sin miedo:** prueba todo tipo de combinaciones de personajes;
+  muchas veces los mejores resultados salen de mezclas aparentemente «raras».
+- **Aprovecha los glitches:** el botón derecho es tu mejor amigo para darle una
+  capa extra de emoción a la pista.
+- **Abraza el caos:** en el mundo de Sprunki Rotrizi 5.0, cuanto más imprevisibles
+  sean los beats, más divertido suele ser el resultado.
 
+### ¿Dónde se puede jugar a Sprunki Rotrizi 5.0?
 
-### Some Tips for Playing Sprunki Rotrizi 5.0:
+La buena noticia es que Sprunki Rotrizi 5.0 es completamente gratuito y no
+necesita instalación; con un navegador moderno puedes empezar tu revolución de
+remixes en cualquier momento. En móviles también se puede jugar, aunque el
+rendimiento dependerá del dispositivo.
 
-- **Experiment Boldly:** Don't hesitate to try out all sorts of character combinations. You never know what unique sonic sparks might fly!
-- **Make Good Use of Glitches:** Remember to use that right-click for the awesome glitch effects! They can instantly elevate your mix and add an extra layer of excitement.
-- **Embrace the Chaos:** In the world of Sprunki Rotrizi 5.0, the more unpredictable the beats, the more fun it often is! Let loose and enjoy the delightful chaos!
+### Cierre
 
-
-### Where Can You Play Sprunki Rotrizi 5.0?
-
-The great news is that Sprunki Rotrizi 5.0 is completely free and requires no downloads! All you need is a modern web browser to start your remix revolution anytime, anywhere. While it's accessible on mobile browsers too, performance might vary depending on your device.
-
-### Wrapping Up:
-
-Sprunki Rotrizi 5.0 is an exhilarating free-to-play music-mixing experience that lets you unleash your creativity and craft electrifying beats. It stands out among Sprunki mods thanks to its advanced distortion algorithms and immersive visuals. Whether you're a seasoned remix wizard or a budding music enthusiast just starting out, Sprunki Rotrizi 5.0 offers a challenging and fun platform for creation. Join the remix revolution today and push the limits of your musical imagination! If you're eager for more music creation fun, don't forget to check out other Sprunki games like Sprunki Specimen!
+Sprunki Rotrizi 5.0 es una experiencia de mezcla musical trepidante que te
+permite crear beats cargados de energía mientras exploras al máximo tu
+creatividad. Sus algoritmos de distorsión y sus visuales lo convierten en uno
+de los mods más distintivos de Sprunki. Tanto si ya eres un veterano de los
+remixes como si acabas de empezar, aquí tienes un escenario perfecto para
+experimentar. Únete a la revolución y lleva tu imaginación sonora un paso más
+allá; y si te quedas con ganas de más, siempre puedes pasar por otros mods como
+Sprunki Specimen.

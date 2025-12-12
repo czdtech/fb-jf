@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: bonanza-shooter-bubble
-title: '[KO] Bonanza Shooter Bubble'
+title: 'Bonanza Shooter Bubble 보난자 버블 슈터'
 description: >-
-  [KO] Bonanza Shooter Bubble is a colorful bubble‑shooter — bank angles, manage
-  colors, and drop big clusters for points.
+  Bonanza Shooter Bubble은 화려한 색감이 돋보이는 클래식 버블 슈터 게임입니다.
+  각도를 계산해 버블을 쏘고, 같은 색 버블을 3개 이상 맞춰 큰 덩어리를 떨어뜨리며
+  점수를 노려 보세요.
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/bonanza-shooter-bubble.jpg
 tags:
@@ -14,37 +15,62 @@ score: 4.1/5  (1937 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bonanza Shooter Bubble은 넉넉한 벽 반사 판정과 시원한 콤보가 특징인 클래식
+버블 슈터 게임입니다. 화면 아래에서 버블을 발사해 위쪽에 쌓인 버블 더미에
+맞추고, 같은 색 버블을 3개 이상 연결해 제거하면 주변에 매달려 있던 버블까지
+한꺼번에 떨어뜨릴 수 있습니다.
 
+각도 조절, 색 관리, 다음 버블까지 고려한 한 수 앞 계획이 점수를 좌우하는 게임으로,
+짧게 즐기기에도, 기록에 도전하기에도 적합한 구성이 특징입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Bonanza Shooter Bubble is a classic bubble shooter with generous banking and satisfying drops. Aim and fire to connect three or more of the same color, clearing clusters and causing dangling groups to fall. Success hinges on angle control, color management, and planning for the next bubble.
+1.  **뱅크 샷(벽 반사)을 적극 활용하기**  
+    정면으로는 맞추기 어려운 구석의 버블은 측면 벽을 맞춰 각도를 꺾는 뱅크 샷으로
+    공략할 수 있습니다. 벽에 닿는 지점을 기준으로 반사 각을 머릿속으로 그려 보세요.
 
-### Gameplay Strategy & Walkthrough
+2.  **매달린 덩어리의 연결점 끊기**  
+    커다란 버블 덩어리는 실제로는 한두 개의 버블로만 위와 연결되어 있는 경우가
+    많습니다. 그 "앵커" 역할을 하는 버블만 제거하면 아래에 매달린 전체 그룹이
+    통째로 떨어지며 큰 점수를 얻을 수 있습니다.
 
-1.  **[KO]** Bank shots: Use side‑wall bounces to reach tucked clusters.
-2.  **[KO]** Cut anchors: Remove the single connecting bubble to drop an entire hanging group.
-3.  **[KO]** Color economy: Avoid burying rare colors; prioritize shots that unlock multiple paths.
-4.  **[KO]** Look‑ahead: If next bubble is shown, pre‑plan two moves to avoid blocking lanes.
-5.  **[KO]** Pace control: When the ceiling lowers, favor safe clears over greedy snipes.
+3.  **색 관리로 막히지 않게 하기**  
+    자주 나오지 않는 색 버블을 깊숙이 묻어 두면 나중에 처리하기 어려워집니다.
+    가능한 한 여러 경로를 동시에 열 수 있는 위치를 노려 쏘고, 사용하지 않는
+    색을 위쪽 구석으로 보내 정리하는 식으로 색을 관리해 보세요.
 
-### Controls Guide
+4.  **다음 버블까지 미리 고려하기**  
+    다음에 나올 버블이 미리 표시되는 모드라면, 항상 두 수 앞까지 계획하면서 쏘는
+    것이 좋습니다. 한 번의 잘못된 선택이 통로를 막아 버리면 이후 각도 계산이
+    매우 까다로워질 수 있습니다.
 
-- Aim with mouse/touch and click/tap to fire; swap bubbles if the mode allows.
-- Pause/Restart via UI.
+5.  **천장이 내려올 때는 안전 우선**  
+    상단 천장이 점점 내려오는 단계에서는 욕심을 내서 먼 곳을 노리는 샷보다,
+    당장 위험한 지점을 빠르게 정리하는 안전한 선택이 중요합니다. 여유가 없을
+    때일수록 확실히 제거할 수 있는 위치를 우선하세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Q: I can’t hit a covered cluster—any trick?
+-   **조준 및 발사:** 마우스나 터치로 조준선을 움직인 뒤 클릭/탭해 버블을
+    발사합니다. 일부 모드에서는 대기 중인 버블과 교체하는 기능이 제공될 수
+    있습니다.
+-   **일시정지/재시작:** 화면 UI 버튼으로 일시정지하거나 스테이지를 처음부터
+    다시 시작할 수 있습니다.
 
-A: Bank off the side wall to approach from a shallower angle.
+### 자주 묻는 질문 (FAQ)
 
-- Q: Wrong colors keep coming—what should I do?
+-   **Q. 위에 가려진 버블 클러스터를 전혀 맞출 수가 없어요. 요령이 있을까요?**  
+    A. 측면 벽을 이용한 뱅크 샷이 답입니다. 벽에 한번 튕겨서 더 얕은 각도로
+    진입하면 정면으로는 닿지 않는 위치도 노릴 수 있습니다.
 
-A: Trim small groups and set up future collapses; swap bubbles if available.
+-   **Q. 계속 쓸모없는 색만 나와서 막혀 버립니다. 어떻게 해야 하나요?**  
+    A. 작은 그룹을 잘라 내면서, 나중에 큰 덩어리가 떨어지도록 연결 구조를
+    준비해 두세요. 버블 교체 기능이 있다면 필요 없는 색을 미리 소모해 두는 것도
+    좋은 방법입니다.
 
-- Q: Do I need to collect stars?
-
-A: Stars are optional goals but help unlock extra levels—pursue them when it’s safe.
-
+-   **Q. 별(스타)은 꼭 모아야 하나요?**  
+    A. 별은 대개 추가 스테이지를 여는 보너스 목표에 가깝습니다. 클리어에
+    반드시 필요하지는 않으니, 여유가 있을 때만 노리고 기본 클리어를 먼저
+    안정적으로 달성하는 편을 추천합니다.

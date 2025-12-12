@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: run-3
-title: '[FR] Run 3'
+title: 'Run 3'
 description: >-
-  [FR] Run 3 is an endless running game set in space where players control an
-  alien character running through a 3D tunnel, jumping over gaps and avoiding
-  obstacles while defying gravity in this addictive platformer.
+  Run 3 est un endless runner spatial : tu contrôles un petit alien qui court
+  dans un tunnel 3D, saute par‑dessus les trous et évite les obstacles en
+  défiant la gravité dans un platformer ultra addictif.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/run-3.jpg
 tags:
@@ -20,31 +20,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-"Run 3" is an endless running game set in space where players control an alien character running through a 3D tunnel, jumping over gaps and avoiding obstacles while defying gravity. The game is famous for its unique 3D perspective and gradually increasing difficulty, providing players with both simple and challenging gameplay experience.
+Run 3 est un jeu de course infinie dans l’espace. Tu contrôles un petit
+alien qui fonce à travers un tunnel en 3D, saute par‑dessus les vides et
+évite les obstacles tout en courant sur les murs et le plafond. Sa vue
+originale et sa difficulté progressive offrent une expérience à la fois
+simple à comprendre et difficile à maîtriser.
 
-### Gameplay Strategy
+### Stratégies de jeu
 
-1.  **[FR]** **Master Jumping Timing**: Learn to jump at the right moments to avoid gaps and obstacles.
-2.  **[FR]** **Utilize Walls**: You can run on tunnel walls and ceilings, making full use of 3D space.
-3.  **[FR]** **Choose Appropriate Characters**: Different characters have different abilities; choose the one suitable for the current level.
-4.  **[FR]** **Plan Your Path**: Observe obstacles ahead and plan the optimal running route.
-5.  **[FR]** **Maintain Rhythm**: Keep a steady running rhythm, avoiding hasty operations that lead to mistakes.
+1.  **Maîtriser le timing des sauts :** apprends à sauter au bon moment
+    pour franchir trous et plateformes cassées.
+2.  **Exploiter les parois :** tu peux courir sur les murs et le plafond du
+    tunnel, ce qui te permet d’utiliser tout l’espace en 3D.
+3.  **Choisir le bon personnage :** chaque personnage possède des
+    capacités différentes (sauts plus hauts, taille plus petite, etc.).
+    Adapte ton choix au niveau.
+4.  **Planifier ta trajectoire :** observe bien ce qui arrive devant toi et
+    décide à l’avance sur quelle paroi tu veux te retrouver.
+5.  **Garder le rythme :** conserve une cadence de déplacement régulière et
+    évite les mouvements brusques qui entraînent des erreurs.
 
-### How to Play
+### Comment jouer
 
-*   **[FR]** **Movement**: Use left and right arrow keys to control character's left and right movement.
-*   **[FR]** **Jump**: Use spacebar or up arrow key to make the character jump.
-*   **[FR]** **Direction Change**: In the tunnel, you can change gravity direction to run on walls and ceilings.
+*   **Déplacement :** utilise les flèches gauche/droite pour te déplacer
+    latéralement dans le tunnel.  
+*   **Saut :** appuie sur la barre d’espace ou la flèche haut pour sauter.  
+*   **Changer de paroi :** en approchant d’un mur, l’orientation de la
+    gravité se bascule et tu peux continuer à courir sur murs ou plafond.
 
-### Frequently Asked Questions
+### Foire aux questions
 
-1.  **[FR]** **Q: How do I run on walls?**
-**A**: When approaching walls, the character automatically switches gravity direction, allowing you to continue running on walls or ceilings.
-2.  **[FR]** **Q: What are the differences between characters?**
-**A**: Each character has unique abilities, such as better jumping ability, smaller size, or special movement methods.
-3.  **[FR]** **Q: Does the game have an endpoint?**
-**A**: "Run 3" is an endless runner game, but there are multiple different levels and modes to explore.
-4.  **[FR]** **Q: How do I unlock new characters?**
-**A**: New playable characters can be unlocked by completing specific levels or achieving certain accomplishments.
+1.  **Q : Comment courir sur les murs ?**  
+   R : Approche‑toi simplement d’une paroi ; ton personnage basculera
+   automatiquement et la gravité se réorientera, te permettant de courir
+   sur les murs ou le plafond.
+
+2.  **Q : Qu’est‑ce qui distingue les différents personnages ?**  
+   R : Chacun a ses atouts : meilleur saut, taille réduite, mouvement
+   spécial, etc. Choisis selon le type de niveau que tu affrontes.
+
+3.  **Q : Le jeu a‑t‑il une vraie fin ?**  
+   R : Run 3 est pensé comme un endless runner, mais propose aussi de
+   nombreux niveaux et modes pour varier.
+
+4.  **Q : Comment débloquer de nouveaux personnages ?**  
+   R : Tu peux en débloquer en terminant certains niveaux ou en réalisant
+   des objectifs précis.

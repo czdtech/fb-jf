@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-creatophobos
-title: '[KO] Incredibox Creatophobos'
+title: Incredibox Creatophobos 공포 테마 모드
 description: >-
-  [KO] Uncover the secrets of 'Incredibox Creatophobos,' the unsettling
-  horror-themed fan-made mod. This guide details its monstrous and industrial
-  sound palette, and provides tips for creating terrifying soundscapes.
+  공포·괴물 콘셉트의 팬메이드 모드 'Incredibox Creatophobos'를 소개하는 가이드입니다. 산업 소음과 몬스터 보컬이 섞인
+  사운드 팔레트와 긴장감 있는 믹스를 만드는 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1041902515/embed'
 thumbnail: /new-images/incredibox-creatophobos.png
 tags:
@@ -18,40 +17,75 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox "Creatophobos" Game Introduction**
+*Incredibox Creatophobos*는 음악 제작 게임 Incredibox를 기반으로 한
+다크·호러 테마 팬메이드 모드입니다. 이름은 **Creator(창조자)와 Phobos(그리스
+신화의 공포)**를 합친 것으로, “무언가를 만들어 내는 존재와 그에 대한
+두려움”이라는 컨셉을 잘 보여 줍니다.
 
-*Incredibox Creatophobos* is a dark and experimental fan-made mod for the music creation game Incredibox. The name itself is a portmanteau of "Creator" and "Phobos" (the Greek personification of fear), setting the stage for its core theme: **the fear of creation, monstrous beings, and unsettling horror**.
+이 모드에서 평소 세련된 비트박서들은 모두 **괴물·이형 존재·돌연변이**처럼
+변해 있습니다. 여전히 아이콘을 캐릭터 위에 드래그하는 고전적인
+Incredibox 방식이지만, 20개의 사운드 아이콘이 내는 소리는 더 이상
+멜로디컬하지 않습니다. 대신 **산업 소음, 괴물의 포효, 찌그러진 드럼과
+불길한 앰비언스**가 뒤섞인 혼돈스러운 사운드 라이브러리를 제공합니다.
 
-The game replaces the usual stylish beatboxers with a crew of monstrous, otherworldly, or mutated characters. It utilizes the classic Incredibox drag-and-drop interface, but the 20 sound icons unleash a palette of sounds that are far from melodic. The audio library is a complex mix of **industrial noise, guttural monster sounds, distorted beats, and eerie atmospheric textures**.
+목표 역시 곡을 만드는 것이지만, 여기서의 곡은 **공포와 긴장을 극대화한
+사운드스케이프**에 가깝습니다. 특정 조합으로만 열리는 3개의 보너스
+애니메이션도 모두 기괴하고 악몽 같은 분위기를 연출해, 모드의 컨셉을
+완성합니다.
 
-The objective, while still rooted in musical creation, shifts from creating a catchy tune to building a **terrifying and immersive soundscape**. The puzzle element of finding the three secret bonuses remains, with the unlocked animations perfectly reflecting the mod's grotesque and nightmarish aesthetic.
+### **플레이 전략 & 팁**
 
-### **Gameplay Strategy & Tips**
+이 모드에서의 전략은 “조화”보다는 **불안과 긴장감**을 어떻게 쌓아 올릴지에
+집중하는 것입니다.
 
-Strategy in *Incredibox Creatophobos* is about embracing the chaos and building tension, rather than harmony.
+1. **괴물 같은 사운드 카테고리 이해하기**  
+    - **Beats**: 박자는 거칠고 기계적입니다. 산업 현장을 떠올리게 하는
+     금속 스텝, 심장을 두드리는 듯한 둔탁한 킥, 불규칙한 드럼
+     머신 등이 포함돼 긴장감을 만듭니다.  
+    - **Effects**: 순수하게 분위기를 담당하는 영역입니다. 공장 소음,
+     금속이 긁히는 소리, 괴물의 숨소리, 낮게 깔리는 드론 등, 공포 영화에서
+     들을 법한 사운드들이 모여 있습니다.  
+    - **Melodies**: 귀에 남는 멜로디 대신 **불협·불안정한 음계**가 중심입니다.
+     삐걱거리는 신스 라인, 경고음을 닮은 루프, 사이렌 같은 사운드로
+     긴장을 높입니다.  
+    - **Voices**: 인간이라고 부르기 어려운 목소리들이 등장합니다. 괴성,
+     저음의 으르렁거림, 왜곡된 코러스, 로봇·악마처럼 처리된 챈트 등이
+     사운드스케이프의 중심을 이룹니다.
 
-1.  **[KO]** **Understand the Monstrous Sound Categories**:
-    *   **[KO]** **Beats**: The rhythms here are harsh and mechanical. Expect to find heavy **industrial stomps**, distorted drum machines, and unsettling, heartbeat-like pulses that create a feeling of dread.
-    *   **[KO]** **Effects**: This category is pure atmosphere. It includes eerie ambient drones, monstrous growls, the screech of metal, and other sound effects straight out of a horror film.
-    *   **[KO]** **Melodies**: Forget catchy tunes. The melodies here are often **dissonant and atonal**. They consist of creepy synth lines, distorted instrumental loops, and sirens that add to the anxiety.
-    *   **[KO]** **Voices**: The vocals are inhuman and primal. This category features guttural roars, distorted screams, robotic and demonic chanting, and other monstrous vocalizations.
+2. **불길한 분위기부터 만들기**  
+   다른 모드처럼 바로 비트를 쌓기보다, 먼저 `Effects` 아이콘으로
+   음산한 배경을 만든 뒤 느리고 무거운 `Beats`를 더하면 긴장감이 잘
+   살아납니다.
 
-2.  **[KO]** **Build an Atmosphere of Dread**: Unlike other mods, the goal here is to create a feeling of unease. Start with an "Effect" icon to establish a creepy ambient background. Then, add a slow, heavy "Beat" to build tension.
+3. **불협을 두려워하지 않기**  
+   여러 사운드를 켜면 곡이 지저분하게 들릴 수 있지만, 이 모드에서는
+   어느 정도의 **혼란과 소음**이 오히려 컨셉에 잘 맞습니다. 다만
+   너무 정신없다면 한두 파트를 끄면서 “위협적이지만 들을 수 있는”
+   선을 찾아 보세요.
 
-3.  **[KO]** **Embrace Dissonance**: Many of the sounds are designed to clash with each other. Don't be afraid of creating a noisy or chaotic mix. This dissonance is a key part of the mod's horror aesthetic. The goal is to create something that sounds intimidating and powerful.
+4. **보너스는 인내심 있게 탐색하기**  
+   각 사운드가 비슷하게 느껴질 수 있어 보너스 조합을 찾기 어렵습니다.
+   기본적으로 마음에 드는 베이스·효과 조합을 고정해 두고, 나머지 슬롯만
+   하나씩 바꿔 보는 식으로 체계적으로 조합을 시험해 보세요.
 
-4.  **[KO]** **Systematic Search for the Horrors**: Finding the bonus combos requires patience. The sounds are less distinct than in melodic mods, so a methodical approach is key. Lock in a few sounds that create a strong foundation and then systematically cycle through the rest until you unlock the terrifying animations.
+5. **솔로 기능으로 소음 해체하기**  
+   믹스가 너무 복잡하게 느껴질 때는 솔로 기능으로 개별 사운드를
+   분리해서 들어 보세요. 어떤 아이콘이 긴장감을 책임지는지, 어떤
+   아이콘이 과하게 시끄러운지 파악하는 데 도움이 됩니다.
 
-5.  **[KO]** **Use Solo to Deconstruct the Noise**: The soundscape can become very dense and overwhelming. Use the "solo" function to isolate individual sounds. This will help you understand what each monster is contributing to the overall chaos and allow you to make more deliberate creative choices.
+### **조작 가이드**
 
-### **Controls Guide**
+조작법은 공식 Incredibox와 동일합니다.
 
-The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
-
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your monstrous creation.
+- **사운드 추가**: 하단의 사운드 아이콘을 드래그해 캐릭터 위에 올려놓습니다.
+- **사운드 제거**: 하단 활성 아이콘의 `X`를 클릭하거나, 다른 아이콘을
+  덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나 다시 켤 수
+  있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼을 눌러 그 캐릭터만 남기고 나머지를 모두
+  뮤트할 수 있습니다.
+- **녹음**: 상단의 녹음 버튼을 눌러 완성된 괴기스러운 믹스를 녹음·저장할
+  수 있습니다.
 

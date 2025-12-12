@@ -1,11 +1,8 @@
 ---
 locale: de
 urlstr: superhot
-title: '[DE] Superhot'
-description: >-
-  [DE] Superhot is an innovative first-person shooter where time moves only when
-  you move, creating a unique tactical puzzle experience that combines action
-  with strategic planning.
+title: "Superhot"
+description: "Superhot ist ein innovativer Ego-Shooter, in dem sich die Zeit nur bewegt, wenn du dich bewegst – dadurch wird jede Szene zu einem taktischen Rätsel aus Kugeln, Wegen und Aktionen." 
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/superhot.jpg
 tags:
@@ -16,36 +13,35 @@ score: 3.9/5  (1186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+„Superhot“ ist ein ungewöhnlicher First‑Person‑Shooter: Zeit läuft nur dann annähernd normal, wenn du dich bewegst oder umschaust. Bleibst du stehen, friert sie fast ein. Dadurch wird jede Begegnung weniger zu einem reinen Reflex‑Duell, sondern zu einem taktischen Puzzle in Zeitlupe.
 
+### Spielstrategie
 
+1.  **Zeit einfrieren:** Nutze das Stehenbleiben, um dich zu orientieren, Kugelbahnen zu lesen und deinen nächsten Schritt zu planen.
+2.  **Waffen beschaffen:** Entwaffne Gegner oder heb Waffen und Gegenstände vom Boden auf – Flaschen, Rohre oder Pistolen können alle tödlich sein.
+3.  **Kugeln ausweichen:** Beobachte die Flugbahnen der Projektile in Zeitlupe und mach kleine, gezielte Bewegungen, um ihnen auszuweichen.
+4.  **Gezielt schießen:** Kopftreffer oder Treffer in den Oberkörper schalten Gegner meist mit einem Schuss aus – verschwende keine Munition.
+5.  **Umgebung nutzen:** Nutze Deckung oder wirf Objekte, um Gegner zu unterbrechen oder kurz zu betäuben.
 
-### Game Introduction
+### Steuerung
 
-"Superhot" is an innovative first-person shooter where time moves only when you move, creating a unique tactical puzzle experience that combines action with strategic planning. Players need to precisely plan every move in a slow-motion world.
+- **Bewegen:** `W`, `A`, `S`, `D`
+- **Umsehen:** Maus bewegen
+- **Schießen:** `Linke Maustaste`
+- **Interagieren/Waffe aufnehmen:** je nach Version `E` oder automatisch in Griffnähe
 
-### Gameplay Strategy
+### Häufige Fragen
 
-1.  **[DE]** **Time Control**: Time almost stops when standing still, returns to normal speed when moving.
-2.  **[DE]** **Weapon Acquisition**: Take weapons from enemies' hands or pick up items from the ground.
-3.  **[DE]** **Bullet Dodging**: Use slow-motion effects to observe and dodge incoming bullets.
-4.  **[DE]** **Precise Shooting**: Aim for enemies' heads or vital body parts for one-hit kills.
-5.  **[DE]** **Environmental Usage**: Use cover and environmental objects for protection.
+1.  **Wie genau funktioniert die Zeitmechanik?**  
+    Wenn du dich nicht bewegst und die Maus nicht drehst, läuft die Zeit extrem langsam. Jede Bewegung beschleunigt sie – je schneller du agierst, desto „normaler“ wirkt das Geschehen.
 
-### How to Play
+2.  **Wie bekomme ich mehr Waffen?**  
+    Entweder durch das Aufheben fallen gelassener Waffen oder durch Gegenstände, die in der Umgebung positioniert sind.
 
-*   **[DE]** **Movement**: WASD keys control character movement.
-*   **[DE]** **View**: Mouse controls view rotation.
-*   **[DE]** **Shooting**: Left click to shoot.
-*   **[DE]** **Pickup**: Automatically pick up weapons or items when close.
+3.  **Wie weiche ich Treffern am besten aus?**  
+    Bewege dich nur leicht zur Seite oder nach vorn/hinten, während du die Kugelbahnen beobachtest. Große hektische Bewegungen bringen dich oft in neue Schusslinien.
 
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How does the time mechanism work?**
-**A**: When you stop moving and rotating view, time almost completely stops, giving you time to think strategically.
-2.  **[DE]** **Q: How do I get weapons?**
-**A**: Take them from defeated enemies or find available weapons in the scene.
-3.  **[DE]** **Q: How can I effectively avoid attacks?**
-**A**: Use the slow-motion time effect to observe bullet trajectories and move to dodge in time.
-4.  **[DE]** **Q: How many levels are in the game?**
-**A**: The prototype version usually contains several levels, each with different challenges and enemy configurations.
+4.  **Wie viele Level hat die Prototype-Version?**  
+    Meist mehrere, kurz gehaltene Szenarien, die verschiedene Situationen (enge Räume, mehrere Gegner, Waffenmangel usw.) durchspielen lassen.

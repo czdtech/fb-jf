@@ -1,65 +1,48 @@
 ---
-locale: ja
+title: Wordler
+description: Wordlerは、Wordle風の単語推測ゲームです。ヒントを使って単語を推測しましょう。
+iframeSrc: 'https://ubg98.github.io/Wordler/'
+thumbnail: /new-images/wordler.jpg
 urlstr: wordler
-title: '[JA TRANSLATION NEEDED] Wordler'
-description: >-
-  [JA TRANSLATION NEEDED] Wordler is a daily deduction word game — guess
-  five‑letter words, leverage feedback colors, and converge with pattern logic.
-iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
-thumbnail: /new-images/wordler.png
+score: 4.4/5  (2876 votes)
 tags:
   - puzzle
-  - thinky
-score: 4.2/5  (2054 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - word
+  - guessing
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Wordlerは、人気のWordleにインスパイアされた単語推測ゲームです。色のヒントを使って制限された試行回数で単語を推測しましょう。
 
-[JA TRANSLATION NEEDED] Wordler follows the modern five‑letter deduction format: each guess yields color feedback (correct letter/place, correct letter/wrong place, absent). Optimal play prunes the search space with informed guesses instead of random stabs.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Strong opener: Use a high‑coverage starter with common vowels/consonants (e.g., SLATE/CRANE/ROAST).
-[JA TRANSLATION NEEDED] 2.  Letter accounting: Track confirmed/excluded letters explicitly; avoid re‑testing dead letters.
-[JA TRANSLATION NEEDED] 3.  Position logic: Fix green letters, permute yellows across remaining slots.
-[JA TRANSLATION NEEDED] 4.  Frequency bias: Favor common digrams (TH, CH, SH, ST) and endings (‑ER, ‑ED, ‑ING).
-[JA TRANSLATION NEEDED] 5.  Endgame pruning: Before final guesses, shortlist all valid permutations to avoid whiffs.
-
-### Controls Guide
-
-- Type and submit guesses; review color feedback; limited attempts per puzzle.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I get multiple possibles late — how to pick?
-  
-[JA TRANSLATION NEEDED]   A: Choose a diagnostic word that tests the most uncertain letters/positions.
-
-- Q: Are plurals allowed?
-  
+ - **推測する：** 単語を入力して推測します
+ - **ヒント活用：** 色のフィードバックを使います
+ - **論理的に：** 情報を使って次の推測を改善します
+ - **正解を見つける：** 制限回数内に正しい単語を見つけます
 
 
-
-
-
-
-- Q: I get multiple possibles late — how to pick?
-### よくある質問（FAQ）
-- Type and submit guesses; review color feedback; limited attempts per puzzle.
-### コントロールガイド
 - Endgame pruning: Before final guesses, shortlist all valid permutations to avoid whiffs.
+### 操作ガイド
+
+ - **キーボード：** 文字をタイプ
 
 ### よくある質問（FAQ）
-- Frequency bias: Favor common digrams (TH, CH, SH, ST) and endings (‑ER, ‑ED, ‑ING).
-[JA TRANSLATION NEEDED]   A: Depends on dictionary; many allow plurals sparingly.
 
 
+- Q: I get multiple possibles late — how to pick?
+**Wordleとの違いは何ですか？**
 
 
-A: Depends on dictionary; many allow plurals sparingly.
 - Q: Are plurals allowed?
+似たゲームプレイですが、独自の単語セットと機能があります。
 
+**何回試行できますか？**
 
-A: Depends on dictionary; many allow plurals sparingly.
+通常、6回の試行があります。
+
+**ヒントの色は何ですか？**
+
+Wordleと同様に、緑、黄、灰の色でヒントが表示されます。

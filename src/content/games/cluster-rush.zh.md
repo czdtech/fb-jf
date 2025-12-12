@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: cluster-rush
-title: '[ZH TRANSLATION NEEDED] Cluster Rush'
+title: "Cluster Rush 卡车疾驰跳跃"
 description: >-
-  [ZH TRANSLATION NEEDED] Master the art of truck-jumping in Cluster Rush with
-  our detailed guide. Get gameplay strategies, controls, tips, and answers to
-  common questions for this intense first-person platformer.
+  《Cluster Rush 卡车疾驰跳跃》是一款第一人称 3D 跑酷平台游戏，你必须在失去地面的
+  情况下不断在疾驶卡车之间腾跃前进。本指南将帮助你掌握移动节奏、利用卡车侧面保命，
+  并通过关卡模式化记忆攻克高难度关卡。
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
 thumbnail: /new-images/cluster-rush.jpg
 tags:
@@ -19,49 +19,75 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] Cluster Rush is a fast-paced, first-person 3D platformer with a simple yet incredibly challenging premise: you must jump from truck to truck in a chaotic, moving convoy to reach the finish line. The ground is effectively non-existent, and any fall results in an instant restart of the level.
+《Cluster Rush 卡车疾驰跳跃》是一款节奏极快的第一人称 3D 跑酷平台游戏，规则看似简
+单却异常残酷：你只能在一队疯狂疾驰的卡车车顶之间不断跳跃，地面几乎等同于“死亡地带
+”，只要掉下去就会立刻重来。
 
-[ZH TRANSLATION NEEDED] The gameplay is entirely physics-based, demanding precise timing, momentum control, and quick reflexes. Players must navigate swerving, crashing, and sometimes exploding trucks that serve as their only platforms. The game is structured into a series of levels, grouped into different worlds, with each level introducing new obstacles and more complex truck patterns. It is a game of pure skill, trial-and-error, and mastering movement to overcome seemingly impossible challenges.
+游戏的操作基于物理系统，要求你精准掌握起跳时机、移动惯性和空中姿态。卡车会不断变
+道、碰撞甚至爆炸，而这些卡车就是你唯一可以踩的“平台”。关卡按世界划分，每一关都会
+引入新的障碍形式和更复杂的车阵路线。整个体验完全依赖技巧与试错，你需要通过一次次
+失败来熟悉路线，最终以娴熟的移动与跳跃征服看似“不可能”的关卡。
 
 ### **Gameplay Strategy & Tips**
 
-[ZH TRANSLATION NEEDED] Success in Cluster Rush is about mastering movement and learning the levels.
+想要在《Cluster Rush》中通关，关键在于熟悉移动手感和记忆关卡节奏。
 
-1.  **Look Ahead, Not Down**: This is the most critical rule. Your focus should always be two or three trucks ahead of your current position. Planning your next jumps in advance is essential for maintaining flow and not getting trapped.
-2.  **Momentum is Everything**: Your jump distance is directly tied to your running speed. Use the sprint button to make long jumps, but also learn when to let go of it for shorter, more controlled hops. You do not need to be sprinting 100% of the time.
-3.  **Master the Double Jump**: The double jump is your most versatile tool. It can be used to gain extra height, extend your airtime to wait for a truck to get into position, or to correct your trajectory mid-air after a bad initial jump.
-4.  **Use the Sides of Trucks**: You can cling to and slide along the sides of trucks. This is a crucial life-saving technique. If you are about to miss a landing, aim for the side of the truck. This allows you to recover, readjust, and jump again.
-5.  **Learn the Level Patterns**: The truck movements in each level are not random; they follow a set pattern. The game is about trial and error. Pay attention to how the trucks move on each attempt. Memorizing the route is key to completing difficult levels.
-6.  **Think Vertically**: Don't just jump between trucks at the same height. Look for opportunities to jump from a low truck onto the roof of a much taller one to find a safer or faster path.
-7.  **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
+1.  **视线看前方而不是脚下：** 这是最重要的规则之一。不要只盯着当前脚下的卡车，视线
+    至少要放在前方两三辆车的位置，提前规划接下来的跳跃路线，才能保持流畅节奏，不被
+    卡在死角。
+2.  **惯性就是生命：** 跳跃距离完全取决于你的移动速度。使用冲刺键可以完成超远跳，但
+    也要学会在需要更短、更可控的跳跃时松开冲刺，并适当减速。你并不需要全程按住冲刺
+    键。
+3.  **熟练运用二段跳：** 二段跳是你最万能的救命工具。它可以让你获得额外高度，或者在
+    空中多停留一瞬，等前方卡车到位；也可以用来修正一次起跳方向不佳的跳跃。
+4.  **善用卡车侧面：** 你可以在卡车侧面“擦边滑行”。当你发现自己快要踩空时，尝试瞄
+    准卡车侧面，让角色挂在侧面滑行片刻，再利用这个缓冲时间调整位置、重新起跳，这往
+    往能救回看似必死的一跳。
+5.  **记住每一关的“车阵路线”：** 每一关卡车的运动轨迹并非真正随机，而是固定模式。
+    游戏本质上是一个“记忆 + 执行”的过程。多次尝试时，刻意观察每一辆卡车的撞击、转
+    向和翻滚顺序，熟悉之后你会发现通关路线其实非常稳定。
+6.  **立体思考，而非只在同一高度横跳：** 不要只在同一高度的卡车之间横向跳跃。有时
+    从低车跳到更高的卡车车顶，可以获得更好视野和更安全的路线，也是一些高难度关卡的
+    关键解法。
+7.  **把失败当作调查而不是惩罚：** 在这类游戏中，失败次数往往以百计甚至千计。与其沮
+    丧，不如把每次失败都当作“侦察”：弄清是提前起跳了、速度不够，还是路线选择本身不
+    佳，并在下一次尝试中做出针对性调整。
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The controls are similar to most first-person PC games.
+操作方式与常见 PC 第一人称游戏类似。
 
-*   **Move**: `W`, `A`, `S`, `D` keys
-*   **Look**: Mouse
-*   **Jump**: `Space Bar`
-*   **Double Jump**: Press `Space Bar` again while in the air
-*   **Sprint**: `Shift` key (hold down to run faster)
-*   **Pause/Menu**: `Esc` key
+*   **移动：** 使用 `W`、`A`、`S`、`D` 键控制前后左右移动。
+*   **视角：** 通过鼠标移动来调整视野和朝向。
+*   **跳跃：** 按 `空格键 (Space)` 进行跳跃。
+*   **二段跳：** 在空中再次按下 `空格键`，进行第二次跳跃。
+*   **冲刺：** 按住 `Shift` 键可以加速奔跑，获得更大的起跳距离。
+*   **暂停/菜单：** 按 `Esc` 键打开暂停或设置菜单。
 
-[ZH TRANSLATION NEEDED] **Note:** Grabbing or sliding along the side of a truck is a contextual action. You do not need to press a specific key; simply make contact with the side of a truck while in the air.
+> 提示：抓住或贴着卡车侧面滑行是根据碰撞与物理判定自动触发的，不需要额外按键，只需
+> 在空中让角色与卡车侧面接触即可。
 
 ### **Frequently Asked Questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. Are the truck movements random in each level?**
-[ZH TRANSLATION NEEDED] No, the patterns are pre-determined for each level. While it may look chaotic, the trucks' paths are the same every time you play a specific level, making it possible to learn and master the routes.
+**1. 每一关卡车的运动是随机的吗？**  
+并不是。虽然画面看起来非常混乱，但每一关的卡车运动模式实际上都是预先设定好的——你
+每次进入同一关卡时，卡车的路线都是相同的。这也意味着只要多试几次、学习路线，就一
+定可以掌握通关节奏。
 
-[ZH TRANSLATION NEEDED] **2. I keep falling short on my jumps. What am I doing wrong?**
-[ZH TRANSLATION NEEDED] This is almost always a momentum issue. Make sure you are holding down the `Shift` key to sprint before you make a long jump. For very long jumps, ensure you have a decent "runway" on the truck before you leap.
+**2. 我总是跳不到目标卡车上，是哪里出问题了？**  
+绝大多数情况都是“惯性”不够，也就是起跳前速度不对。确保在起跳前已经按住 `Shift` 进
+行冲刺，并在卡车顶部预留一点“助跑距离”再起跳。对于超远跳，更长的助跑和更准确的起跳
+点都非常关键。
 
-[ZH TRANSLATION NEEDED] **3. Is there a way to save my progress in the middle of a level?**
-[ZH TRANSLATION NEEDED] No, there are no checkpoints. Each level must be completed from start to finish in a single run. This is a core part of the game's design and challenge.
+**3. 关卡中途可以存档或设置检查点吗？**  
+不能。每一关都需要一口气从起点跑到终点，没有中途存档或检查点。这种一气呵成的通关
+方式本身就是游戏的一部分难度与魅力所在。
 
-[ZH TRANSLATION NEEDED] **4. How do I unlock new worlds or levels?**
-[ZH TRANSLATION NEEDED] You unlock new levels and worlds by successfully completing the previous ones in sequential order.
+**4. 新世界或新关卡怎么解锁？**  
+只要按照顺序通关当前世界的所有关卡，就会自动解锁后续的关卡与世界。卡关时可以先回
+去刷前面的关卡巩固手感。
 
-[ZH TRANSLATION NEEDED] **5. Some levels seem impossible. Any advice?**
-[ZH TRANSLATION NEEDED] Patience is key. If you are truly stuck, take a break to clear your head. You can also try watching a video playthrough of that specific level online to see the intended or an alternative route you may not have considered. Often, there's a specific trick or path that makes it much easier.
-
+**5. 有些关卡看起来根本不可能通关，有什么建议？**  
+先冷静一下。如果连续多次卡在同一位置，可以先停下来观察一两轮卡车的完整运动，再上
+手操作。必要时也可以在网上搜索该关卡的通关视频参考“设计路线”或另类解法。大部分看似
+“鬼畜”的关卡其实都有比较稳定且可复制的解法。

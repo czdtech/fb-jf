@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: rampage-road
-title: '[ES] Rampage Road'
+title: "Rampage Road"
 description: >-
-  [ES] Rampage Road is a chaotic car shooter — weave traffic, blast foes, and
-  survive explosive pursuits.
-iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
-thumbnail: /new-images/rampage-road.png
+  Rampage Road es un caótico shooter sobre ruedas: esquiva el tráfico, destroza
+  enemigos y sobrevive a persecuciones llenas de explosiones.
+iframeSrc: "https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/"
+thumbnail: "/new-images/rampage-road.png"
 tags:
   - car
   - driving
@@ -16,28 +16,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Rampage Road mezcla conducción cenital con acción arcade. Conducirás por
+carreteras llenas de tráfico mientras gestionas munición o tiempos de recarga y
+eliminas objetivos, intentando mantener tu vehículo entero frente a oleadas de
+enemigos y disparos.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Rampage Road mixes top‑down driving with arcade shooting. Navigate traffic, manage ammo or cooldowns, and eliminate targets while keeping your vehicle intact through waves of enemies.
+1.  **Traza líneas limpias:** Mantente en carriles con huecos previsibles para
+    evitar choques con el tráfico. Es mejor una ruta segura que un atajo
+    arriesgado.
+2.  **Dispara en ráfagas cortas:** Tiros controlados ahorran munición y evitan
+    sobrecalentar las armas (según el modo). No mantengas el disparo pulsado sin
+    pensar.
+3.  **Prioriza objetivos peligrosos:** Acaba primero con los enemigos que llevan
+    cohetes o intentan embestirte. Reducir esas amenazas te dará más margen para
+    esquivar.
+4.  **Recoge power‑ups con cabeza:** Coge mejoras, munición o vida solo cuando
+    la zona esté relativamente despejada. No cruces toda la autopista si está
+    llena de coches.
+5.  **Guarda tus escapes:** Conserva los turbos, escudos u otras habilidades de
+    emergencia para momentos críticos, como emboscadas o jefes.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Clean lines: Hug lanes with predictable gaps to avoid traffic hits.
-2.  **[ES]** Burst fire: Short controlled bursts conserve ammo and heat.
-3.  **[ES]** Focus targets: Remove dangerous foes (rockets/rammers) first.
-4.  **[ES]** Collect wisely: Grab pickups when safe; don’t cut across heavy traffic.
-5.  **[ES]** Escape tools: Save boosts or shields for emergencies.
+- **Conducir:** A/D o Flechas Izquierda/Derecha para cambiar de carril; W/S o
+  Flechas Arriba/Abajo para acelerar o frenar, según la versión.
+- **Disparar:** Barra espaciadora o clic del ratón, según el esquema de control.
+- **Arma secundaria:** En algunos modos se usa otra tecla dedicada.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drive: A/D or Left/Right; accelerate/brake with W/S or Up/Down.
-- Fire: Click/Space per mode; secondary with another key if present.
+- **P: Exploto muy rápido, ¿qué estoy haciendo mal?**
+  
+  **R:** Probablemente estás intentando matar demasiado y esquivar poco. Dale
+  prioridad a evitar choques y disparos; los enemigos siempre vuelven, tu coche
+  no.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿La munición es limitada?**
+  
+  **R:** Depende del modo. En muchos niveles debes usar ráfagas y aprovechar los
+  tiempos de recarga para reposicionarte.
 
-- I explode fast—why? You’re trading hits in traffic; prioritize avoidance over kills.
-- Ammo limited? Many modes—use bursts and time reloads.
-- Boss fights? Some waves escalate; prepare boosts and space.
-
+- **P: ¿Hay jefes o oleadas especiales?**
+  
+  **R:** Algunas fases introducen oleadas más duras o jefes. Asegúrate de llegar
+  a ellas con vida suficiente y con tus boosts listos.

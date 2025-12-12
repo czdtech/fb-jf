@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: spider-solitaire-2
-title: '[ES] Spider Solitaire'
+title: "Spider Solitaire"
 description: >-
-  [ES] Take on the challenge of Spider Solitaire. Arrange cards in descending
-  order by suit to clear them from the tableau. A true test of strategy and
-  planning.
-iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
-thumbnail: /new-images/spider-solitaire-2.png
+  Enfréntate al reto de Spider Solitaire. Ordena las cartas en secuencias
+  descendentes por palo para retirarlas del tablero. Una verdadera prueba de
+  estrategia y planificación.
+iframeSrc: "https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/"
+thumbnail: "/new-images/spider-solitaire-2.png"
 tags:
   - card
   - puzzle
@@ -17,34 +17,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Spider Solitaire es una de las variantes de solitario más populares y
+exigentes. Se juega con dos barajas completas y el objetivo es limpiar el
+ tablero construyendo ocho secuencias completas descendentes del mismo palo, de
+Rey a As. Cuando completas una secuencia entera, se retira del juego. Es famoso
+por su dificultad y la profundidad estratégica necesaria para ganar, sobre todo
+con dos o cuatro palos.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Spider Solitaire is one of the most popular and challenging variations of solitaire. Played with two full decks of cards, the objective is to clear the tableau by building eight complete descending sequences of a single suit, from King down to Ace. Once a full sequence is completed, it is removed from play. The game is renowned for its difficulty and the strategic depth required to win, especially when played with two or four suits.
+1.  **Objetivo:** Construir ocho secuencias dentro del tableau, cada una de Rey
+    a As del mismo palo. Cuando se forma una secuencia completa de K a A, se
+    retira automáticamente. Ganas cuando no queda ninguna carta en el tablero.
+2.  **Movimiento de cartas:** Puedes colocar cualquier carta sobre otra que sea
+    un rango superior (por ejemplo, un 7 sobre un 8, sin importar el palo). Sin
+    embargo, solo puedes mover en bloque un grupo de cartas si todas son del
+    mismo palo y están en orden descendente perfecto (por ejemplo, 9♠‑8♠‑7♠).
+3.  **Descubrir cartas:** Tu estrategia principal debe ser destapar lo antes
+    posible las cartas boca abajo del tableau para aumentar tus opciones.
+4.  **Columnas vacías:** Una columna vacía puede llenarse con cualquier carta o
+    secuencia válida. Usa estos huecos para reorganizar el tablero y agrupar
+    palos.
+5.  **Robar del mazo:** Cuando ya no veas movimientos productivos, puedes hacer
+    clic en el mazo para repartir una carta boca arriba al final de cada una de
+    las diez columnas. **Importante:** no puedes repartir nuevas cartas si
+    alguna columna está vacía.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **The Goal:** To build eight sequences of cards within the tableau, each from King to Ace in a single suit. Once a full K-to-A sequence is formed, it is automatically removed from the board. The game is won when the tableau is empty.
-2.  **[ES]** **Moving Cards:** You can place any card onto another card that is one rank higher. For example, you can place a 7 of any suit onto an 8 of any suit. However, you can only move a *group* of cards together if they are all of the *same suit* and in perfect descending order (e.g., you can move a 9♠-8♠-7♠ sequence together).
-3.  **[ES]** **Uncovering Cards:** The primary strategy is to uncover the face-down cards in the tableau as quickly as possible to give yourself more options.
-4.  **[ES]** **Empty Columns:** An empty column can be filled with any card or any valid sequence of cards. Use these empty spaces strategically to rearrange your tableau and organize your suits.
-5.  **[ES]** **Dealing from the Stock:** When you have no more productive moves, you can click the stock pile. This will deal one new face-up card to the bottom of each of the ten tableau columns. **Important:** You cannot deal new cards if any of your tableau columns are empty.
+*   **Mover cartas:** Haz clic y arrastra una carta o una secuencia válida a
+    otra columna.
+*   **Repartir cartas:** Haz clic en el mazo para añadir una nueva fila de
+    cartas.
+*   **Auto‑mover:** Muchas versiones moverán automáticamente las secuencias
+    completas de K a A a la zona de fundación.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Move Cards:** Click and drag a card or a valid sequence to another column.
-*   **[ES]** **Deal Cards:** Click the stock pile in the corner to deal a new row of cards.
-*   **[ES]** **Auto-Move:** Many versions will automatically move a completed K-to-A sequence to the foundation area for you.
+*   **P: ¿Qué diferencia hay entre jugar con 1, 2 o 4 palos?**
+    *   **R:** La dificultad. Con 1 palo todas las cartas son iguales, lo que
+        facilita crear secuencias. En 2 y 4 palos debes gestionar colores
+        distintos, lo que complica mucho poder formar secuencias puras para
+        retirarlas.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Por qué no puedo repartir nuevas cartas del mazo?**
+    *   **R:** Necesitas tener al menos una carta en cada una de las diez
+        columnas del tableau. Si alguna está vacía, debes rellenarla antes de
+        poder repartir.
 
-*   **[ES]** **Q: What is the difference between 1, 2, and 4 suit Spider Solitaire?**
-    *   **[ES]** **A:** The difficulty. In 1-suit mode, all cards are of the same suit, making it easy to create sequences. In 2-suit and 4-suit modes, you must manage different suits, which makes it much harder to build the required single-suit sequences for removal.
-
-*   **[ES]** **Q: Why can't I deal new cards from the stock?**
-    *   **[ES]** **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
-
-*   **[ES]** **Q: What is the best strategy for beginners?**
-    *   **[ES]** **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
-
+*   **P: ¿Cuál es la mejor estrategia para principiantes?**
+    *   **R:** Empieza con el modo de 1 palo para aprender la mecánica. Céntrate
+        en destapar cartas nuevas y en crear columnas vacías. Intenta construir
+        secuencias en columnas que no tengan muchas cartas boca abajo.

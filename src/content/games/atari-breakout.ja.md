@@ -1,91 +1,60 @@
 ---
+title: "Atari Breakout アタリ・ブロック崩し"
+description: "伝説のアーケードゲーム「Atari Breakout」を極めよう。すべてのブロックを粉砕し、ハイスコアを叩き出すための勝利の戦略、操作方法、そしてコツを伝授。"
+iframeSrc: "https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html"
+thumbnail: "/new-images/atari-breakout.jpg"
+urlstr: "atari-breakout"
+score: "3.7/5  (602 votes)"
+tags: ["casual", "action"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: atari-breakout
-title: '[JA TRANSLATION NEEDED] Atari Breakout'
-description: >-
-  [JA TRANSLATION NEEDED] Learn how to master the classic arcade game Atari
-  Breakout. Discover winning strategies, controls, and tips for smashing every
-  brick and achieving a high score.
-iframeSrc: >-
-  https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
-thumbnail: /new-images/atari-breakout.jpg
-tags:
-  - casual
-  - action
-score: 3.7/5  (602 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Atari Breakout（アタリ・ブレイクアウト）*は、ビデオゲームの歴史の礎石となった、古典的なアーケードゲームです。日本では「ブロック崩し」の名で親しまれています。ゲームプレイは単純明快。プレイヤーは画面下部にあるパドルを操作し、ボールを跳ね返して画面上部にあるブロックの壁を破壊します。パドルは左右にしか動けません。
 
-[JA TRANSLATION NEEDED] Atari Breakout is a classic arcade game that has become a cornerstone of video game history. The gameplay is straightforward and instantly understandable. The player controls a single paddle at the bottom of the screen, which can only move horizontally. At the top of the screen are several rows of bricks. A ball bounces around the screen, and the player must move the paddle to intercept the ball, preventing it from falling off the bottom edge.
+ボールがブロックに当たると、ブロックは破壊され、ボールは跳ね返ります。画面上のすべてのブロックを破壊すると次のレベルに進めます。ゲームが進むにつれてボールの速度が上がり、より速い反射神経が求められます。ボールを打ち損じて画面下に落としてしまうと、ライフ（残機）を失います。すべてのライフを失うとゲームオーバーです。
 
-[JA TRANSLATION NEEDED] When the ball hits a brick, the brick is destroyed, and the ball ricochets off it. The objective is to destroy all the bricks on the screen to advance to the next level. As the game progresses, the speed of the ball often increases, demanding faster reflexes. If the player fails to hit the ball with the paddle and it goes past them, they lose a life. The game ends when all lives are lost.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+シンプルに見えますが、スコアを伸ばし効率よくクリアするための重要な戦略があります。
 
-[JA TRANSLATION NEEDED] While Breakout seems simple, there are key strategies to maximize your score and clear levels efficiently.
+#### 1. 「トンネリング（穴掘り）」戦略
+これは最も有名で効果的な戦法です。画面の左右どちらかの端にあるブロックを集中的に狙い、縦に貫通する穴（トンネル）を開けます。ボールをブロック層の**上側**に送り込むことができれば、ボールは天井とブロックの間で激しく跳ね返り、パドルで打ち返すリスクなしに自動的に大量のブロックを破壊してくれます。これが最速のクリア方法です。
 
-#### 1. The "Tunneling" Strategy
-[JA TRANSLATION NEEDED] This is the most famous and effective strategy. The goal is to break a vertical tunnel through the bricks on one side of the screen (either far left or far right). Once you've created a path for the ball to get *above* the brick layer, you can send it up into the gap. The ball will then bounce back and forth between the top wall and the top layer of bricks, destroying many bricks automatically without any risk of you missing the paddle. This is the fastest way to clear a screen.
+#### 2. パドルでの角度制御をマスターする
+ボールの反射角度はランダムではありません。パドルの**どこに**当たったかで決まります。
+*   **中心で打つ：** パドルの中心でボールを受けると、比較的まっすぐ、緩やかな角度で跳ね返ります。
+*   **端で打つ：** パドルの外側の端（エッジ）で受けると、鋭く極端な角度で横に跳ね返ります。
+これを使いこなすことで、ボールを狙った場所に正確に打ち込むことができ、上記のトンネルを作るために不可欠な技術となります。
 
-#### 2. Master the Paddle for Angle Control
-[JA TRANSLATION NEEDED] The ball's rebound angle is not random; it depends on *where* it strikes your paddle.
-*   **Hitting with the Center:** If the ball hits the center of your paddle, it will bounce back at a relatively straight, shallow angle.
-    - **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.（日本語訳が必要）
-    - **PC / Web Versions:** Typically, you move the paddle by moving your **mouse left and right**. Alternatively, the **Left and Right Arrow Keys** (`←` and `→`) are often supported.（日本語訳が必要）
-    - **A:** By controlling where the ball hits your paddle. Hit it with the center for a straight shot and with the edges for a sharp-angled shot towards the sides.（日本語訳が必要）
-    - **A:** The "tunneling" strategy. Break a path through one of the sides so the ball gets trapped above the bricks, clearing them out for you automatically.（日本語訳が必要）
-    - **A:** Yes. In the original game, the color indicates the point value. From bottom to top, the points per brick typically increase (e.g., yellow bricks at the bottom are worth fewer points than the red bricks at the top).（日本語訳が必要）
-    - **A:** You can easily find and play web-based versions of Breakout on numerous classic game websites and archives. Additionally, typing "Atari Breakout" into Google Image Search used to activate a playable Easter egg version of the game, though this feature may vary.（日本語訳が必要）
-    - **PC / Web Versions:** Typically, you move the paddle by moving your **mouse left and right**. Alternatively, the **Left and Right Arrow Keys** (`←` and `→`) are often supported.（日本語訳が必要）
-    - **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.（日本語訳が必要）
-    - **A:** By controlling where the ball hits your paddle. Hit it with the center for a straight shot and with the edges for a sharp-angled shot towards the sides.（日本語訳が必要）
-    - **A:** The "tunneling" strategy. Break a path through one of the sides so the ball gets trapped above the bricks, clearing them out for you automatically.（日本語訳が必要）
-    - **A:** Yes. In the original game, the color indicates the point value. From bottom to top, the points per brick typically increase (e.g., yellow bricks at the bottom are worth fewer points than the red bricks at the top).（日本語訳が必要）
-    - **A:** You can easily find and play web-based versions of Breakout on numerous classic game websites and archives. Additionally, typing "Atari Breakout" into Google Image Search used to activate a playable Easter egg version of the game, though this feature may vary.（日本語訳が必要）
-*   **Hitting with the Edges:** If the ball hits the outer edges of your paddle, it will bounce back at a much sharper, more extreme angle.
-[JA TRANSLATION NEEDED] Mastering this allows you to aim the ball precisely, which is essential for creating the tunnel mentioned above.
+#### 3. 上のブロックを優先する
+クラシック版では、上段のブロックほど得点が高く設定されています。全消しが目的ですが、ハイスコアを狙うなら、早めにトンネルを作ってボールを上層に送り込み、高得点のブロックから破壊しましょう。
 
-#### 3. Prioritize Higher Bricks
-[JA TRANSLATION NEEDED] In the classic version, the bricks in the higher rows are worth more points. While clearing the screen is the primary objective, if you are playing for a high score, try to create your tunnel early to let the ball destroy the high-value bricks at the top.
+#### 4. 反応するのではなく、予測する
+ボールが加速すると、目で見てから反応していては間に合いません。ボールの軌道を予測し、ボールが**来るであろう場所**にあらかじめパドルを移動させておく必要があります。
 
-#### 4. Anticipate, Don't React
-[JA TRANSLATION NEEDED] As the ball speeds up, you won't have time to react to its current position. You must anticipate its trajectory. Watch the angle it's coming from and move your paddle to where the ball *is going to be*.
+### 操作ガイド
 
-### Controls Guide
+*Breakout* の操作は有名なくらいシンプルです。
 
-[JA TRANSLATION NEEDED] The controls for Breakout are famously simple.
+*   **移動：**
+    *   **アーケード版：** 本来はダイヤル（パドルコントローラー）を回して操作していました。
+    *   **PC / Web版：** 通常は**マウスを左右**に動かして操作します。または、キーボードの**左右矢印キー**（`←` と `→`）もよく使われます。
+*   **ボール発射：** ゲーム開始時やリスポーン時、ボールはパドルにくっついています。発射ボタン（通常は**スペースキー**か**マウスの左クリック**）を押すと発射されます。
 
-*   **Movement:**
+### よくある質問 (FAQ)
 
+*   **Q: ボールの飛ぶ方向はどうやってコントロールするのですか？**
+    *   **A:** パドルの当てる位置で調整します。真っ直ぐ返したければ中心で、横に鋭く飛ばしたければ端っこで当ててください。
 
-    - **PC / Web Versions:** Typically, you move the paddle by moving your **mouse left and right**. Alternatively, the **Left and Right Arrow Keys** (`←` and `→`) are often supported.
-    - **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.
-[JA TRANSLATION NEEDED]     *   **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.
-[JA TRANSLATION NEEDED]     *   **PC / Web Versions:** Typically, you move the paddle by moving your **mouse left and right**. Alternatively, the **Left and Right Arrow Keys** (`←` and `→`) are often supported.
-*   **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the **Spacebar** or a **left mouse click**) will launch it.
+*   **Q: 一番速くクリアする方法は？**
+    *   **A:** 「トンネリング」戦略です。端の壁を崩して裏側にボールを送り込み、自動反射で内部から破壊させましょう。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ブロックの色に意味はありますか？**
+    *   **A:** はい。オリジナルのゲームでは色が点数を表しています。下から上に行くほど、1ブロックあたりの点数が高くなります（例：下の黄色いブロックより上の赤いブロックの方が高得点）。
 
-*   **Q: How can I control the ball's direction?**
-
-    - **A:** By controlling where the ball hits your paddle. Hit it with the center for a straight shot and with the edges for a sharp-angled shot towards the sides.
-[JA TRANSLATION NEEDED]     *   **A:** By controlling where the ball hits your paddle. Hit it with the center for a straight shot and with the edges for a sharp-angled shot towards the sides.
-
-*   **Q: What is the fastest way to clear a level?**
-
-    - **A:** The "tunneling" strategy. Break a path through one of the sides so the ball gets trapped above the bricks, clearing them out for you automatically.
-[JA TRANSLATION NEEDED]     *   **A:** The "tunneling" strategy. Break a path through one of the sides so the ball gets trapped above the bricks, clearing them out for you automatically.
-
-*   **Q: Do the different colored bricks mean anything?**
-
-    - **A:** Yes. In the original game, the color indicates the point value. From bottom to top, the points per brick typically increase (e.g., yellow bricks at the bottom are worth fewer points than the red bricks at the top).
-[JA TRANSLATION NEEDED]     *   **A:** Yes. In the original game, the color indicates the point value. From bottom to top, the points per brick typically increase (e.g., yellow bricks at the bottom are worth fewer points than the red bricks at the top).
-
-*   **Q: Where can I play Atari Breakout today?**
-
-    - **A:** You can easily find and play web-based versions of Breakout on numerous classic game websites and archives. Additionally, typing "Atari Breakout" into Google Image Search used to activate a playable Easter egg version of the game, though this feature may vary.
-[JA TRANSLATION NEEDED]     *   **A:** You can easily find and play web-based versions of Breakout on numerous classic game websites and archives. Additionally, typing "Atari Breakout" into Google Image Search used to activate a playable Easter egg version of the game, though this feature may vary.
-
+*   **Q: 今でも Atari Breakout は遊べますか？**
+    *   **A:** 多くのクラシックゲームサイトでWeb版をプレイできます。以前はGoogle画像検索で「Atari Breakout」と検索すると隠しゲームが遊べましたが、現在は仕様が変わっている場合があります。

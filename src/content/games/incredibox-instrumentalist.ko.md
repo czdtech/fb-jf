@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-instrumentalist
-title: '[KO] Incredibox Instrumentalist'
+title: Incredibox Instrumentalist 악기 오케스트라 모드
 description: >-
-  [KO] Incredibox Instrumentalist This guide details its unique gameplay of
-  summoning instruments to the stage and its eclectic world music palette,
-  creating a purely instrumental orchestra
+  무대 위에 악기를 직접 소환해 세계 각국의 악기로 오케스트라를 구성하는 팬메이드 모드 'Incredibox Instrumentalist'
+  가이드입니다. 순수 기악 사운드로 풍부한 합주를 만드는 방법을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1040856097/embed'
 thumbnail: /new-images/incredibox-instrumentalist.png
 tags:
@@ -19,53 +18,90 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
+*Incredibox Instrumentalist*는 기존 Incredibox의 구성을 과감히 바꾼
+매우 실험적인 팬메이드 모드입니다. 다른 버전이 캐릭터에게 사운드를
+입히는 방식이라면, 이 모드에서는 **무대 위에 악기 자체를 소환해
+오케스트라를 구성**하게 됩니다.
 
-### **Incredibox Instrumentalist Game Introduction**
+테마는 전 세계의 다양한 악기를 모은 **월드 뮤직 오케스트라**입니다.
+20개의 사운드 아이콘은 키보드·오르간·아코디언·마라카스·타악기·현악기
+등 실제 악기를 바탕으로 한 소리들로 채워져 있습니다. 보컬 없이
+**순수하게 악기 소리만으로 곡을 만드는 순수 기악 모드**라는 점도
+독특합니다.
 
-*Incredibox Instrumentalist* is a highly innovative and beautifully designed fan-made mod. It fundamentally changes the core Incredibox presentation: instead of dragging icons onto a crew of performers, **players summon the instruments themselves directly onto the stage**, where they come to life and perform.
+플레이어의 목표는 여러 악기를 조합해 자신만의 합주단을 만들고,
+풍부한 레이어를 가진 연주곡을 완성하는 것입니다.
 
-The mod's theme is a celebration of **global musical instruments**, creating a **purely instrumental** and vibrant world music orchestra. All 20 sound icons represent a diverse range of real instruments from various cultures and genres, including keyboards, accordions, maracas, stringed instruments, and a wide array of percussion. 
+### **게임 플레이 전략 & 팁**
 
-The objective is to allow players to compose rich, layered instrumental pieces by building their own unique orchestra. 
+이 모드에서의 전략은 악기들 간의 역할을 이해하고, 밸런스 있게
+오케스트라를 쌓는 것입니다.
 
-### **Gameplay Strategy & Tips**
+1. **악기 섹션 이해하기**  
+    - **리듬 섹션(퍼커션)**: 핸드 드럼, 클라베스, 마라카스, 탬버린,
+     트라이앵글, 축구공처럼 생긴 쉐이커 등, 기본 리듬을 담당하는
+     타악기가 여기에 해당합니다.  
+    - **하모니/베이스(코드/토대)**: 코드 진행과 저역대를 채우는
+     키보드·오르간·아코디언 같은 악기들이 포함됩니다.  
+    - **멜로디(리드)**: 트럼펫, 플루트, 여러 종류의 현악기(코라, 만돌린
+     느낌의 악기 등), 오카리나처럼 선율을 연주하는 악기가 이 카테고리입니다.  
+    - **텍스처 악기**: 구이로(긁는 소리의 스크레이퍼), 카주처럼
+     독특한 질감이나 리듬 포인트를 추가하는 악기들이 여기에 속합니다.
 
-Strategy in *Incredibox Instrumentalist* revolves around understanding how different instruments complement each other to build a full-sounding ensemble.
+2. **리듬부터 쌓기**  
+   대부분의 곡과 마찬가지로, 먼저 리듬 섹션을 세팅하는 것이 좋습니다.
+   드럼 + 쉐이커 조합만으로도 충분히 그루브가 생기므로, 먼저 2~3개의
+   퍼커션 아이콘으로 안정적인 박자를 만들어 보세요.
 
-1.  **[KO]** **Understand the Instrumental Sections**: All 20 icons represent a full orchestra.
-    *   **[KO]** **Rhythm Section (Percussion)**: This forms the foundation. It includes icons like the hand drum, claves, maracas, tambourine, triangle, and various shakers (including one that resembles a soccer ball, likely a caxixi or similar rattle).
-    *   **[KO]** **Harmony and Bass (Chords/Foundation)**: This section provides the harmonic structure. It includes instruments like the keyboard/organ and the accordion.
-    *   **[KO]** **Melody (Leads)**: These are the lead instruments that play the main tunes. Look for icons representing trumpets, flutes, various stringed instruments (like the kora or mandolin), and the ocarina.
-    *   **[KO]** **Textural Instruments**: This category includes instruments that add unique timbres and rhythmic complexity, such as the güiro (scraper) and the kazoo.
+3. **하모니 레이어 추가**  
+   리듬이 잡히면 키보드나 아코디언 같은 코드 악기를 추가해 곡의
+   화성을 채웁니다. 이 레이어가 있어야 이후 멜로디 악기를 얹었을 때
+   곡이 풍부하게 들립니다.
 
-2.  **[KO]** **Build from the Rhythm Up**: A solid foundation is key. Start by summoning a few percussion instruments to establish a steady groove. A simple drum and maraca combination can set the stage perfectly.
+4. **멜로디로 곡 완성하기**  
+   그 다음 트럼펫·플루트·현악기 등 멜로디 악기를 1~2개 선택해
+   주 멜로디를 만들면, 하나의 완성된 합주곡처럼 들립니다. 멜로디를
+   너무 많이 겹치면 산만해질 수 있으니, 중요한 라인만 남기는 것이
+   좋습니다.
 
-3.  **[KO]** **Add the Harmonic Layer**: Once your rhythm is set, bring in an instrument that can play chords, like the keyboard or accordion. This will add depth and a harmonic structure to your composition.
+5. **텍스처 악기로 색채 더하기**  
+   구이로나 카주처럼 개성이 강한 악기는 곡의 빈 공간을 채워 주거나
+   특정 구간을 강조하는 데 유용합니다. 전체 밸런스를 해치지 않는
+   선에서 살짝씩 더해 곡에 개성을 부여해 보세요.
 
-4.  **[KO]** **Weave in the Melodies**: With the foundation in place, it's time for the lead instruments to shine. Layer a trumpet or flute melody on top of your rhythm and harmony to create a complete song.
+### **조작 가이드**
 
-5.  **[KO]** **Use Textural Instruments for Flavor**: Instruments like the güiro or kazoo are perfect for adding unique character and flavor to your mix. Drop them in to make your loop more interesting and dynamic.
+조작은 Incredibox 기본 방식과 비슷하지만, “악기를 소환한다”는 연출이
+더해져 있습니다.
 
-### **Controls Guide**
+- **악기 추가**: 하단 사운드 아이콘을 드래그해 무대의 빈 슬롯에
+  올려놓으면, 해당 악기가 무대에 등장해 연주를 시작합니다.
+- **악기 제거**: 무대 위 악기를 직접 클릭하면 제거됩니다.
+- **녹음**: 화면 상단의 녹음 버튼을 눌러 지금 연주 중인 오케스트라
+  연주를 녹음·저장할 수 있습니다.
 
-This mod features a unique take on the classic Incredibox controls.
+### **자주 묻는 질문(FAQ)**
 
-*   **[KO]** **Add an Instrument**: **Drag** a sound icon from the bottom and **drop** it onto one of the empty slots on the stage. The instrument itself will appear and start playing.
-*   **[KO]** **Remove an Instrument**: Simply **click** on the instrument on the stage to remove it.
-*   **[KO]** **Record**: Click the **record button** (top right) to start and stop recording your instrumental piece.
+**1. 공식 Incredibox 버전인가요?**  
 
-### **Frequently Asked Questions (FAQ)**
+아니요. *Instrumentalist*는 모더 Gabsoares04가 제작한 **팬메이드 모드**이며,
+공식 개발사 So Far So Good과는 관련이 없습니다.
 
-**1. Is this an official Incredibox version?**
-No. It is a highly creative **fan-made mod** created by Gabsoares04. It is not affiliated with the official Incredibox team, So Far So Good.
+**2. 이 모드가 특히 독특한 이유는 무엇인가요?**  
 
-**2. What makes this mod so unique?**
-Its primary innovation is the "instruments as performers" gameplay. Instead of customizing characters, you are literally building an orchestra on stage. Furthermore, it is a **purely instrumental experience**, focusing entirely on the sounds of a diverse range of world instruments, which sets it apart from almost every other version.
+가장 큰 차별점은 **캐릭터가 아니라 악기를 배치한다**는 점입니다.
+또한 보컬 없이 세계 각지의 악기들만으로 곡을 만드는 **순수 기악 모드**
+라는 점 덕분에, 다른 Incredibox 버전과 완전히 다른 감성을 제공합니다.
 
-**3. Where can I play this mod?**
-You will not find it on official platforms. Mods like *Instrumentalist* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
+**3. 이 모드는 어디에서 플레이할 수 있나요?**  
 
-**4. Are the bonus solutions for "Instrumentalist" available online?**
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Instrumentalist combos*" on YouTube will likely provide you with the solutions.
+공식 사이트나 앱에는 없고, 보통 `playfiddlebops.com` 같은 모딩 사이트나
+유튜브 영상 설명란의 링크를 통해 브라우저에서 플레이할 수 있습니다.
+
+**4. 보너스 조합 공략은 어디에서 볼 수 있나요?**  
+
+`Incredibox Instrumentalist combos` 같은 키워드로 유튜브를 검색하면,
+숨겨진 애니메이션을 여는 조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
 

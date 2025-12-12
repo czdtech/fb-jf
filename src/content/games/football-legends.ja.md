@@ -1,42 +1,36 @@
 ---
+title: "Football Legends"
+description: "アーケードサッカーの決闘：ヘディング、ボレー、特別なショットを使って、クイックマッチやトーナメントで1対1または2対2の対戦を楽しみましょう。"
+iframeSrc: "https://webglmath.github.io/football-legends/"
+thumbnail: "/new-images/football-legends.jpg"
+urlstr: "football-legends"
+score: "4.3/5  (222 votes)"
+tags: ["sports", "soccer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: football-legends
-title: '[JA TRANSLATION NEEDED] Football Legends'
-description: >-
-  [JA TRANSLATION NEEDED] Arcade soccer duels: play 1v1 or 2v2 with headers,
-  volleys, and special shots, in quick matches or tournaments.
-iframeSrc: 'https://webglmath.github.io/football-legends/'
-thumbnail: /new-images/football-legends.jpg
-tags:
-  - sports
-  - soccer
-score: 4.3/5  (222 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+大げさな物理挙動とスペシャルキックが特徴の、スピーディーな1対1/2対2サッカー。クイックマッチやトーナメントブラケットなどのモードがあります。
 
+### 遊び方
+- ヘディングやボレーに備えてポジションを取りましょう。メーターが満タンになったらパワーショットのタイミングを計ります。
+- 壁やバウンドを利用して角度を調整しましょう。キックオフ後は自分のゴールを守ってください。
+- 2人プレイでは役割を分担しましょう。一人がプレスをかけ、もう一人がカバーします。
 
-### Overview
-[JA TRANSLATION NEEDED] Fast 1v1/2v2 football with exaggerated physics and special kicks. Modes include quick match and tournament brackets.
+### 操作方法
+- 矢印キー/WASDで移動/ジャンプ。シュート/パスやスペシャルのキーはホストによって異なります。
 
-### How to Play
-- Position for headers and volleys; time power shots when the meter is full.
-- Use walls/bounces to set up angles; protect your goal after a kickoff.
-- In 2‑player, coordinate roles: one presses, one covers.
+### ヒント
+- ジャンプのタイミングを合わせたヘディングが、最も安全な得点方法です。
+- スペシャルは混戦状態ではなく、オープンスペースがあるときのために温存しましょう。
+- 防御時は、突っ込むのではなく、後ろに下がってコースを塞ぎましょう。
 
-### Controls
-- Arrows/WASD to move/jump; shot/pass keys and special vary by host.
-
-### Tips
-- Jump‑timed headers are the safest way to score.
-- Save specials for open looks rather than congested scrums.
-- On defense, backpedal and block angles instead of lunging.
-
-### FAQ
-- Q: How do I activate a special shot?  
-[JA TRANSLATION NEEDED]   A: Fill the meter via play, then press the special key shown on your host.
-- Q: Does 2‑player work on one keyboard?  
-[JA TRANSLATION NEEDED]   A: Yes, most versions map two separate key sets.
-- Q: Are there teams with different stats?  
-[JA TRANSLATION NEEDED]   A: Many hosts offer team skins; physics are generally consistent.
-
+### よくある質問 (FAQ)
+- **Q: スペシャルショットはどうやって発動しますか？**  
+  A: プレイしてメーターを貯め、ホストに表示されているスペシャルキーを押してください。
+- **Q: 1つのキーボードで2人プレイはできますか？**  
+  A: はい、ほとんどのバージョンで2つの異なるキーセットが割り当てられています。
+- **Q: ステータスの異なるチームはありますか？**  
+  A: 多くのホスト版ではチームスキンが提供されていますが、物理挙動は一般的に同じです。

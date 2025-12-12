@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: finger-slayer
-title: '[DE] Finger Slayer'
+title: "Finger Slayer"
 description: >-
-  [DE] Finger Slayer tests raw reaction — pull back at the last millisecond to
-  dodge a closing blade without flinching early.
+  Finger Slayer ist ein Reflex-Test mit nur einem Button: Ziehe deinen
+  "Finger" in letzter Millisekunde zurück, um der zuschnappenden Falle zu
+  entkommen – ohne zu früh zu zucken.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/finger-slayer.jpg
 tags:
@@ -14,36 +15,47 @@ score: 3.8/5  (1690 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Finger Slayer ist ein simples, aber gnadenloses Reaktionsspiel. Du legst deinen
+"Finger" in eine Gefahrenzone und musst ihn im richtigen Moment zurückziehen,
+bevor die Falle zuschnappt. Mit jeder Runde werden die Schließgeschwindigkeiten
+höher, Täuschungsanimationen gemeiner und Rhythmuswechsel unangenehmer.
+Ziel ist es, so spät wie möglich – aber noch rechtzeitig – zu reagieren.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Auf das Signal achten:** Die meisten Fallen haben einen kurzen
+   Vorbereitungsmoment (Animation/Sound). Reagiere auf dieses echte Signal
+   statt nach Gefühl mitzuzählen.
+2. **Nicht vorzeitig zucken:** Frühzeitige Zuckungen ruinieren Score und
+   Rhythmus. Bleib ruhig, bis das visuelle oder akustische Tell wirklich
+   einsetzt.
+3. **Ein sauberer Zug:** Ziehe den Finger entschlossen zurück – halbe,
+   zögerliche Bewegungen werden leichter erwischt.
+4. **Rhythmus anpassen:** Nach ein paar Runden ändern sich Muster. Mach dir
+   bewusst, dass sich der Takt verschiebt, und starte gedanklich immer wieder
+   neu.
+5. **Eigene Reaktionsgrenze kennen:** Finde heraus, wie dicht du an das
+   Zuschnappen herankommst, ohne getroffen zu werden, und peile dann minimal
+   früher an.
 
-Finger Slayer is a single‑button reflex test: place your “finger” within a danger zone and yank it away right before a trap snaps shut. Rounds escalate with faster closures, fake telegraphs, and rhythm changes that punish anticipation. The goal is to commit to a single crisp pull at the last safe frame without flinching early (which scores lower) or waiting too long.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Halten, um den Finger zu platzieren, und Loslassen, um ihn zurückzuziehen;
+  manche Builds unterscheiden zwischen Tippen und Halten.
 
-1.  **[DE]** Read the tell: Most traps give a micro‑windup (sound/visual); key off that signal, not a mental count.
-2.  **[DE]** Don’t pre‑move: Early flinches reduce score and rhythm; stay still until the tell.
-3.  **[DE]** One clean pull: Make the exit decisive — partial drags get clipped.
-4.  **[DE]** Rhythm adaptation: After a few rounds, patterns shift; reset mentally between attempts.
-5.  **[DE]** Safe thresholds: Learn your personal reaction boundary and aim a hair earlier.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Ich ziehe immer zu früh weg – wie kann ich mir das abgewöhnen?**  
+  **A:** Konzentriere dich auf die Voranimation oder das Geräusch der Falle und
+  blende dein inneres Zählen aus. Reagiere auf das echte Signal, nicht auf
+  Vermutungen.
 
-- Hold to “place” and release to pull back; some builds use tap vs hold.
+- **F: Die Schließzeiten wirken zufällig – stimmt das?**  
+  **A:** Meist handelt es sich um pseudozufällige Muster mit wiederkehrenden
+  "Tells". Trainiere eine ruhige Warte-und-Schnapp-Reaktion.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I always move too early — how do I stop?
-
-A: Focus on the trap’s pre‑animation or audio cue; suppress guessing and react to the real tell.
-
-- Q: Closures feel random — any tip?
-
-A: They’re pseudo‑random with patterned “tells.” Train a calm wait‑then‑snap reaction.
-
-- Q: Is there input lag?
-
-A: Minor delays exist on some devices; compensate by reacting on the cue’s first frame.
-
+- **F: Gibt es Eingabeverzögerung?**  
+  **A:** Kleine Delays sind je nach Gerät möglich. Reagiere im Zweifel schon im
+  ersten Frame des Signals, um das auszugleichen.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: emoji-fun
-title: '[ES] Emoji Fun'
+title: Emoji Fun
 description: >-
-  [ES] A creative puzzle game of associations! Connect the pairs of related
-  emojis by drawing a line between them. Think outside the box to solve each
-  unique puzzle.
+  Emoji Fun es un creativo puzle de asociaciones: une parejas de emojis
+  relacionados dibujando líneas entre ellos. Piensa fuera de lo común para
+  superar cada nivel.
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
 thumbnail: /new-images/emoji-fun.png
 tags:
@@ -17,32 +17,49 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Emoji Fun es un puzle de asociaciones visuales, creativo y sorprendentemente
+profundo. En cada nivel ves dos columnas de emojis. Tu tarea es descubrir la
+relación entre ellos y trazar líneas para conectar las parejas correctas. Las
+conexiones pueden ser literales (un calcetín y un pie) o más conceptuales (un
+fantasma y una casa encantada), así que tendrás que combinar lógica con
+pensamiento lateral.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Emoji Fun is a creative and thought-provoking puzzle game based on associations. In each level, you are presented with two columns of emojis. Your task is to figure out the relationship between them and draw lines to connect the correct pairs. The connections can be literal (like a sock and a foot) or conceptual (like a ghost and a haunted house). It's a fun test of your logic and lateral thinking.
+1.  **Empieza por las parejas evidentes:** Recorre rápidamente las columnas en
+    busca de relaciones muy claras. Unir primero pares como "miel" y "abeja" o
+    "pelota" y "portería" reduce el número de combinaciones posibles.
+2.  **Piensa de forma abstracta:** No todas las parejas son directas. A veces
+    debes pensar en el uso (libro ↔ biblioteca), en quién lo lleva (corona ↔ rey)
+    o en causa‑efecto (semilla ↔ árbol).
+3.  **Usa la eliminación:** Una vez conectes varias parejas, quedarán menos
+    emojis sin línea en cada lado. Usa ese recorte de opciones para resolver las
+    combinaciones más difíciles.
+4.  **Sin presión de tiempo:** El juego es relajado; tómate tu tiempo para
+    reflexionar sobre las conexiones antes de trazar una línea.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Find the Obvious Pairs First:** Start by scanning for the most direct and obvious connections. Matching pairs like "peanut" and "elephant" or "honey" and "bee" will help you narrow down the remaining options.
-2.  **[ES]** **Think Abstractly:** Not all pairs are literal. You might need to think about what things are used for, where they come from, or what they represent. For example, you might connect a book to a library or a crown to a king.
-3.  **[ES]** **Process of Elimination:** Once you have connected a few pairs, you will have fewer emojis left on each side. Use the process of elimination to help you figure out the final, more difficult connections.
-4.  **[ES]** **No Time Pressure:** This is a relaxing game. Take your time to think about the relationships between the images.
+El control se basa en arrastrar y soltar.
 
-### Controls Guide
+*   **Conectar emojis:** Haz clic y mantén pulsado sobre un emoji de una
+    columna, luego arrastra el cursor o el dedo hasta el emoji relacionado de la
+    otra columna para dibujar la línea.
 
-The game is played with a simple drag-and-drop mechanic.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Connect Emojis:** Click and hold on an emoji in one column, then drag your finger or mouse to the related emoji in the other column to draw a connecting line.
+*   **P: ¿Cuál es el objetivo exacto?**  
+    - **R:** Conectar correctamente todas las parejas de emojis relacionados que
+      aparecen en la pantalla para completar el nivel.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué pasa si uno la línea con un emoji incorrecto?**  
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** To correctly connect all the pairs of related emojis on the screen to complete the level.
+    - **R:** Normalmente la línea se borra o se marca en rojo, indicando una
+      pareja incorrecta. Puedes intentarlo de nuevo sin penalización fuerte.
 
-*   **[ES]** **Q: What happens if I draw a line to the wrong emoji?**
-    *   **[ES]** **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
+- **P: No entiendo la conexión entre dos emojis, ¿qué hago?**
 
-*   **[ES]** **Q: I don't understand the connection between two emojis.**
-    *   **[ES]** **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
+    - **R:** Piensa fuera de lo común: la relación puede ser una acción (balón ↔ gol),
+      una causa‑efecto (semilla ↔ árbol) o un concepto compartido (perro ↔ hueso).

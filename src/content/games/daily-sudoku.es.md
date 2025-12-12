@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: daily-sudoku
-title: '[ES] Daily Sudoku'
+title: "Daily Sudoku"
 description: >-
-  [ES] Daily Sudoku provides a fresh logic puzzle every day: place digits 1–9 so
-  each row, column, and box contains all numbers.
+  Daily Sudoku te ofrece cada día un nuevo puzle de lógica: coloca los
+  dígitos del 1 al 9 de forma que cada fila, columna y caja contenga todos los
+  números sin repetir.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/daily-sudoku.jpg
 tags:
@@ -15,28 +16,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Daily Sudoku propone una cuadrícula 9×9 nueva cada día. Debes colocar los
+números del 1 al 9 de forma que cada fila, columna y caja 3×3 contenga todos los
+valores sin repetir. Muchas versiones ofrecen distintos niveles de dificultad,
+modo de notas y herramientas de validación.
 
+### Cómo jugar
 
-### Overview
-Daily Sudoku offers a fresh 9×9 logic puzzle each day. Fill digits 1–9 so that each row, column, and 3×3 box contains all numbers without repetition. Many hosts provide multiple difficulties, pencil marks, and validation tools.
+- Selecciona una casilla y escribe un dígito; utiliza las notas para anotar
+  candidatos.
+- Aplica técnicas básicas como candidatos únicos (singles), candidatos únicos ocultos y eliminación escaneando
+  filas, columnas y cajas.
+- En dificultades altas, puedes necesitar patrones avanzados (parejas,
+  X‑Wing, etc.).
 
-### How to Play
-- Select a cell and type a digit; use pencil marks (notes) to track candidates.
-- Apply basic techniques such as singles, hidden singles, and elimination by scanning peers.
-- On higher difficulties, learn advanced patterns (pairs, X‑Wing, etc.).
+### Controles
 
-### Controls
-- Number keys to enter digits; Shift/Right‑click toggles pencil marks (site‑dependent); Undo/Redo and Check tools are common.
+- Teclas numéricas para introducir dígitos; Shift o clic derecho suelen activar
+  el modo notas (según la web). Las funciones de Deshacer/Rehacer y Comprobar
+  son habituales.
 
-### Tips and Strategies
-- Start with singles found by scanning each row/column/box.
-- Use notes consistently and clear them after placing a number.
-- Avoid guesswork; if the host allows, use error‑highlighting conservatively.
+### Consejos y estrategias
 
-### FAQ
-- Q: What difficulties are available?
-A: Commonly Easy/Medium/Hard; daily sets may rotate difficulties.
-- Q: Do online versions support pencil marks?
-A: Most implementations support notes and candidate marking.
+- Empieza por los singles que encuentres al escanear cada fila, columna y caja.
+- Usa las notas de forma consistente y bórralas en cuanto coloques un número
+  definitivo.
+- Evita adivinar; si la aplicación lo permite, usa el resaltado de errores solo
+  como apoyo puntual.
 
+### Preguntas frecuentes (FAQ)
+
+- P: ¿Qué niveles de dificultad hay?
+  
+  R: Lo más habitual es contar con Fácil/Medio/Difícil; los sets diarios pueden
+  rotar entre ellos.
+
+- P: ¿Las versiones online permiten notas?
+  
+  R: Casi todas las implementaciones modernas incluyen modo de candidatos y
+  marcado de notas.

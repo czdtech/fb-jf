@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: duck-life
-title: '[DE] Duck Life'
+title: "Duck Life"
 description: >-
-  [DE] Duck Life is a training and racing sim: level up your duck through
-  mini‑games and win races.
+  Duck Life ist der erste Teil der Trainings- und Rennsimulation: Stärke deine
+  Ente in Minispielen und gewinne Rennen, um neue Gebiete freizuschalten.
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/duck-life.jpg
 tags:
@@ -14,31 +14,43 @@ score: 4.2/5  (1164 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Duck Life ist das Original unter den Trainings-und-Renn-Sims. Du verbesserst
+die Lauf-, Schwimm- und Flugwerte deiner Ente in Minispielen und trittst dann
+in Rennen an, um dich durch verschiedene Gebiete zu arbeiten.
 
+### So spielst du
 
+- Trainiere jede Fähigkeit separat, damit sie den Anforderungen der Rennen
+  entspricht, und füttere Samen, um die Energie zu steigern.
+- Spiele Trainingslevel wiederholt, um Wertelimits zu erhöhen; für Rennen
+  brauchst du ausgeglichene Stats.
+- Verdiene Münzen und nutze sie, um Samen und kosmetische Items für deine Ente
+  zu kaufen.
 
-### Overview
-The original training‑and‑racing sim: raise a duck’s running, swimming, and flying stats via mini‑games, then win races to progress through areas.
+### Steuerung
 
-### How to Play
-- Train each skill to meet race demands; feed seeds to boost energy.
-- Replay training stages to raise caps; races require balanced stats.
-- Earn coins to buy seeds and cosmetics.
+- Pfeiltasten/Leertaste oder Maus, je nach Minispiel.
 
-### Controls
-- Arrows/Space or mouse depending on mini‑game.
+### Tipps
 
-### Tips
-- Balance stats rather than grinding only one.
-- Watch race previews to see which skills matter most.
-- Keep energy high; it’s effectively endurance.
+- Konzentriere dich nicht nur auf einen Wert – ausgeglichene Stats bringen in
+  den meisten Rennen die besten Ergebnisse.
+- Sieh dir Rennvorschauen an, um zu erkennen, welche Disziplinen besonders
+  wichtig sind.
+- Halte die Energie hoch – sie fungiert praktisch als Ausdauerleiste.
 
 ### FAQ
-- Q: Can I skip races?
-A: Progression typically requires winning set races per area.
-- Q: Do cosmetics help?
-A: Purely visual; training and energy drive results.
-- Q: Are there level caps?
-A: Early areas cap stats until later unlocks.
 
+- **F: Kann ich Rennen überspringen?**  
+  **A:** In der Regel musst du bestimmte Rennen pro Gebiet gewinnen, um
+  weiterzukommen.
+
+- **F: Bringen Kosmetiksachen spielerische Vorteile?**  
+  **A:** Nein, sie sind rein optisch. Training und Energie entscheiden über
+  deine Zeiten.
+
+- **F: Gibt es Levelgrenzen?**  
+  **A:** In frühen Gebieten sind deine Werte gedeckelt, bis du später neue
+  Bereiche freischaltest.

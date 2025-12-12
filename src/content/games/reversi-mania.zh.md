@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: reversi-mania
-title: '[ZH TRANSLATION NEEDED] Reversi Mania'
+title: 《Reversi Mania》黑白棋大师对决
 description: >-
-  [ZH TRANSLATION NEEDED] Reversi Mania brings classic Othello to your browser —
-  outflank discs, seize corners, and win with smart endgame parity.
+  《Reversi Mania》是一款忠实还原经典黑白棋（又名 Othello 反转棋）的对战游戏。在 8×8
+  棋盘上夹击对手棋子、抢占角落，并通过精妙的终盘“奇偶控制”拿下胜利。
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
 thumbnail: /new-images/reversi-mania.png
 tags:
@@ -16,27 +16,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Reversi Mania is a faithful, fast‑to‑learn implementation of Reversi (also known as Othello). Players take turns placing discs on an 8×8 board to outflank the opponent’s discs in straight lines (horizontal, vertical, or diagonal). Any outflanked discs flip to your color. If a player has no legal move that flips at least one disc, they must pass; the game ends when neither side can move (usually when the board is full). The side with more discs wins.
+《Reversi Mania》是一款规则纯正、上手迅速的黑白棋游戏（也叫 Othello 反转棋）。双方轮流在 8×8 棋盘上落子，只要你新落下的棋子在一条直线上（横、竖或斜线）把对方棋子夹在中间，被夹住的棋子就会全部翻转成你的颜色。如果某一方没有任何可以翻子的合法落点，就必须选择“跳过”。当双方都无法再落子时（通常是棋盘被下满），棋盘上棋子数量多的一方获胜。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Corners first: Corner discs can never be flipped; securing corners often decides the game.
-2.  [ZH TRANSLATION NEEDED] Avoid “X‑squares” early: The diagonally adjacent squares to corners (X‑squares) often give your opponent an easy corner capture.
-3.  [ZH TRANSLATION NEEDED] Edge stability: Edges are powerful once stabilized; build safely from corners before expanding along the edge.
-4.  [ZH TRANSLATION NEEDED] Mobility over material (early): Keep your options open and deny moves to your opponent; too many early flips can backfire.
-5.  [ZH TRANSLATION NEEDED] Parity (endgame): Aim to move last in the final regions; controlling whether a region has odd/even empties can secure the final swing.
+### 对局策略与实战指引
 
-### Controls Guide
+1.  **角落优先：** 棋盘四个角的棋子一旦占据就无法被翻转，谁掌握更多角落，往往就掌握了整盘的主动权。
+2.  **开局慎踩 X 位：** 紧邻角落对角线位置的格子（俗称 X 位）在开局阶段极其危险，很容易给对手创造“白送角落”的机会。
+3.  **稳定边线：** 一旦从角落开始稳住一整条边线，这条边上的棋子就很难再被翻回，能给你带来巨大的后期优势。优先从角落向边缘扩张，而不是贸然占边。
+4.  **前期重“行动力”而非盘面子数：** 游戏开局和中盘阶段，不要盲目追求翻子数量。更重要的是保持自己有足够多的候选落点，同时压缩对手的可下位置，否则中后盘会被“反收割”。
+5.  **终盘奇偶（Parity）思路：** 后期要关注各个区域剩余空格的“奇偶性”，争取在关键小区域中成为“最后一个落子的人”。这往往能决定最终几十子的翻转方向。
 
-- Place a disc: Click or tap a legal square (most implementations highlight valid moves). A legal move must flip at least one opposing disc.
-- Passing: If no legal move exists, the game auto‑passes or prompts you to pass.
-- Modes: Single‑player (vs. AI) or local 2‑player are commonly available.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **落子：** 点击或轻触高亮的合法位置即可落子。合法落点必须至少在一条直线上翻转一枚对方棋子。
+- **跳过回合：** 当你没有任何合法落点时，游戏会自动或提示你跳过本回合。
+- **模式选择：** 通常提供单人（对 AI）和本地双人对战模式，可按喜好选择。
 
-- What makes a move legal? It must outflank one or more opponent discs in a straight line; all outflanked discs flip.
-- What if neither side can move? The game ends and the side with more discs on the board wins.
-- Is going first stronger? Initiative helps, but strong play revolves around corners, mobility, and endgame parity.
-- Any quick tip for beginners? Don’t over‑flip early; fight for mobility and avoid X‑squares until you can secure corners.
-
+### 常见问题解答（FAQ）
+*   **问：什么样的落子才算“合法”？****
+    *   答：** 必须在横向、纵向或对角线方向上，用你新下的棋子与已有己方棋子形成夹击，中间至少有一枚对手棋子被夹住，并因此翻转成你的颜色。
+*   **问：如果双方都无子可下会怎样？****
+    *   答：** 当轮到某方行动时，棋盘上已经不存在任何可以翻子的落点，则该方必须跳过；当双方连续一轮都无法落子时，棋局结束，以棋盘上各自棋子总数决定胜负。
+*   **问：先手是不是更有优势？****
+    *   答：** 先手有一定主动权，但真正决定胜负的是对角落、行动力以及终盘奇偶的掌控。熟练玩家即便后手也完全有机会翻盘。
+*   **问：新手有什么快速提升的小窍门？****
+    *   答：** 开局少抢边、多抢内圈，尽量避免站上 X 位和给对手轻松抢角的机会。把重点放在限制对手落点数量，而不是一味翻更多棋子。

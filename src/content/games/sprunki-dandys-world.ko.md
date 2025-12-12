@@ -1,8 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-dandys-world
-title: '[KO] Sprunki Dandy''s World - Play Sprunki Dandy''s World Online'
-description: '[KO] Sprunki Dandy'
+title: "Sprunki Dandy's World 스프룽키 댄디의 월드"
+description: >-
+  Sprunki Dandy's World는 음악·아트·스토리텔링을 함께 즐길 수 있는 스프룽키식
+  리듬/뮤직 비디오 제작 게임입니다. 개성 강한 캐릭터와 악기를 조합해 나만의
+  뮤직 비디오를 연출할 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1075503895/embed'
 thumbnail: /sprunki-dandys-world.png
 tags:
@@ -12,32 +15,54 @@ score: 4.4/5  (304 votes)
 
 
 
-### Introducing to Sprunki Dandy's World
+### Sprunki Dandy's World 소개
 
-Tired of the same old rhythm games? Want to play something different? Sprunki Dandy's World is sure to satisfy your restless heart! It's not just a rhythm game, it's a magical fusion of music, art, and storytelling. Here, you'll become a rhythm master, using all sorts of quirky characters and instruments to create your own exclusive music video!
+똑같은 노트만 맞추는 리듬 게임이 지루하게 느껴질 때, Sprunki Dandy's World는
+음악과 영상, 이야기를 한 번에 다루는 새로운 놀이터가 되어 줍니다. 여기서
+플레이어는 단순히 박자를 맞추는 사람이 아니라, 독특한 캐릭터와 악기를
+연출하는 "뮤직 비디오 감독"에 가깝습니다.
 
-### What's So Special About Sprunki Dandy's World?
+### Sprunki Dandy's World가 특별한 점
 
-Simply put, Sprunki Dandy's World is a music playground where you can let your imagination run wild and unleash your creativity. You're no longer just mechanically clicking notes, but you can personally create your own musical universe. Isn't that cool?
+Sprunki Dandy's World는 상상력을 마음껏 펼칠 수 있는 음악 놀이터입니다.
+정해진 악보를 따라가는 대신, 캐릭터와 사운드를 고르고 배치해 자신만의
+세계관과 스토리가 담긴 음악 장면을 만들 수 있습니다. 곡이 완성될수록 배경과
+연출도 함께 살아나, 작은 뮤직 비디오를 완성하는 듯한 경험을 줍니다.
 
-### How Do You Actually Play This Game?
+### Sprunki Dandy's World 플레이 방법
 
-Sprunki Dandy's World is super easy to play, guaranteeing you won't be able to stop once you get started:
+조작은 간단하지만, 조합에 따라 분위기가 크게 바뀝니다.
 
-- **Choose a Character You Love:** The game has all sorts of quirky characters, each with their own unique style and personality. Pick one you like best and let him/her be your musical spokesperson!
-- **Create Your Exclusive Rhythm:** After choosing a character, you can start selecting various instruments and sound effects. Click, click, click, add, add, add, combine them to create your own unique sound!
-- **Watch Your Character Rock the Stage:** As you continue to add instruments, your character will start performing and dancing to the music. Watching them vividly interpret your work is so rewarding, isn't it?
-- **Share Your Creative Masterpiece:** After creating a satisfactory work, you can share it with your friends and family, or even post it online for more people to appreciate your talent!
+- **마음에 드는 캐릭터 선택:**
+  각기 다른 스타일과 개성을 가진 캐릭터들이 준비되어 있습니다. 가장 마음에 드는
+  캐릭터를 골라 당신의 음악을 대표하는 주인공으로 세워 보세요.
+- **나만의 리듬 만들기:**
+  다양한 악기와 효과음을 선택해 캐릭터에게 할당합니다. 여러 사운드를 더하고
+  빼면서 자신만의 리듬과 멜로디를 만들어 보세요.
+- **무대 위 퍼포먼스 감상:**
+  악기를 추가할수록 캐릭터는 더 화려하게 연주하고 춤추며, 당신이 만든 곡에
+  맞춰 무대를 채웁니다.
+- **작품 공유:**
+  마음에 드는 구성이 완성되면 친구나 가족과 함께 감상하거나, 녹화 기능이
+  있다면 온라인에 올려 더 많은 사람들과 나눌 수도 있습니다.
 
+### Sprunki Dandy's World 공략 & 팁
 
-### Tips and Tricks for Playing Sprunki Dandy's World:
+- **조합을 두려워하지 않기:**
+  악기와 사운드를 과감하게 섞어 보세요. 예상치 못한 조합에서 더 매력적인
+  결과가 나오는 경우가 많습니다.
+- **창작 과정 자체를 즐기기:**
+  완벽한 곡을 만들려고 하기보다, 여러 시도를 해 보며 창작 과정 자체를
+  즐기는 것이 좋습니다.
+- **캐릭터의 성격 살리기:**
+  각 캐릭터의 분위기에 어울리는 사운드를 붙이면 장면의 몰입감이 높아집니다.
+- **리듬의 뼈대 맞추기:**
+  비트 역할을 하는 사운드들을 먼저 배치해 기본 리듬을 만들고, 그 위에 멜로디와
+  효과음을 얹으면 곡이 훨씬 안정적으로 들립니다.
 
-- **Be Bold and Try Different Combinations:** Don't be afraid to try out different combinations of instruments and sound effects. The more you try, the more unique and creative your works will be!
-- **Enjoy the Fun of Creation:** The most important thing is, of course, to enjoy the fun of creating music! Don't be afraid to experiment and make mistakes, as this is all part of the learning process. Let your imagination run wild and have fun!
-- **Incorporate the Character's Personality:** Every character has their own unique personality. Try to choose instruments and sound effects that match their personality to create a more immersive musical experience.
-- **Grasp the Soul of the Rhythm:** The rhythm is the soul of a good piece of music. Try to keep your instruments in time with each other to create a harmonious and pleasing sound.
+### 마무리
 
-
-### Conclusion:
-
-Sprunki Dandy's World is a unique game that combines music, art, and storytelling. Here, you can unleash your creativity and create your own musical world. What are you waiting for? Come join Sprunki Dandy's World and start your musical graffiti journey!
+Sprunki Dandy's World는 음악, 아트, 이야기를 한 번에 즐길 수 있는 독특한
+스프룽키 모드입니다. 클릭 몇 번으로 색다른 장면과 사운드를 만들어 볼 수 있어,
+창의력을 발휘하고 싶은 플레이어에게 특히 잘 어울립니다. 지금 스프룽키 댄디의
+월드에 들어가, 당신만의 뮤직 비디오를 연출해 보세요.

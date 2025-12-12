@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: jewel-duel
-title: '[ES] Jewel Duel'
+title: "Jewel Duel"
 description: >-
-  [ES] Jewel Duel mixes match‑3 with RPG — swap to attack/defend, trigger
-  skills, and break shields with tactical matches.
+  Jewel Duel mezcla el match‑3 con el RPG: intercambia gemas para atacar o
+  defender, dispara habilidades y rompe escudos con jugadas tácticas.
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
 thumbnail: /new-images/jewel-duel.jpg
 tags:
@@ -16,34 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Jewel Duel añade una capa RPG al combate por match‑3. Al combinar ciertos
+colores alimentas ataques, defensa o habilidades especiales; el turno del
+enemigo llega después del tuyo, así que el orden de acciones importa. Algunos
+rivales tienen escudos o absorciones que se rompen solo con tipos concretos de
+combinaciones, lo que añade profundidad de puzle más allá del daño puro.
 
-Jewel Duel layers RPG elements onto match‑3 combat. Matching certain colors fuels attacks/defense/skills; enemy turns follow yours, so turn order matters. Some foes carry shields/absorbs that require specific match types, adding puzzle depth beyond raw damage.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Combina con intención:** prioriza el color que alimente la acción que
+    necesitas en ese momento (atacar, curarte o levantar escudos).
+2.  **Controla el tempo de turnos:** evita que el enemigo llegue a su habilidad
+    definitiva rompiendo sus escudos o aturdiéndolo antes de su fase.
+3.  **Prepara cascadas:** limpia ahora gemas de poco impacto para dejar listo el
+    tablero para grandes cascadas en el siguiente turno.
+4.  **Focaliza objetivos:** céntrate en un enemigo cada vez para reducir rápido
+    las fuentes de daño.
+5.  **Respeta las mecánicas de jefe:** lee las descripciones; algunos jefes
+    exigen combinaciones especiales o limpieza por filas/columnas.
 
-1.  **[ES]** Match intent: Prioritize color that fuels your needed action (attack vs heal vs shield).
-2.  **[ES]** Turn tempo: Deny enemy ult turns by breaking shields or stuns before their phase.
-3.  **[ES]** Setup cascades: Clear low‑impact gems now to prepare high‑value cascades next turn.
-4.  **[ES]** Targeting: Focus one enemy at a time to remove damage sources.
-5.  **[ES]** Boss mechanics: Read tooltips; some require special matches or row clears.
+### Guía de controles
 
-### Controls Guide
+- Intercambia gemas adyacentes, activa habilidades cuando estén cargadas y
+  presta atención a las intenciones del enemigo.
 
-- Swap adjacent gems; trigger skills when charged; read enemy intents.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Por qué hago tan poco daño?**  
+  R: Seguramente estás combinando colores que no encajan con tu build. Prioriza
+  las gemas que alimentan el ataque o rompe escudos antes de gastar combos en
+  colores inútiles.
 
-- Q: I do low damage — why?
+- **P: ¿Algún consejo para combates contra varios enemigos?**  
+  R: Elimina primero a los objetivos más peligrosos y usa efectos de fila o
+  columna para controlar el tablero.
 
-A: You’re matching the wrong colors for your build; fuel attack gems or break shields first.
-
-- Q: Any tip for multi‑target fights?
-
-A: Eliminate high‑threat targets first; use row/column clears for board control.
-
-- Q: Can I save skills?
-
-A: Yes — hold until you can chain with a big cascade or to interrupt enemy ultimates.
-
+- **P: ¿Puedo guardar habilidades para más tarde?**  
+  R: Sí. A menudo es mejor reservarlas para encadenarlas con una gran cascada o
+  cortar de raíz la ulti de un jefe.

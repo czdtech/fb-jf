@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: neon-tower
-title: '[FR] Neon Tower'
-description: >-
-  [FR] Guide the bouncing ball down the Neon Tower! Rotate the helix platform to
-  find gaps and let the ball fall through, but watch out for the red obstacles.
-  Smash through multiple levels to get a power boost!
+title: Neon Tower
+description: "Guide la balle rebondissante dans Neon Tower\_! Fais pivoter la tour hélicoïdale pour aligner les ouvertures, laisse la balle chuter et évite les plateformes rouges mortelles."
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
 thumbnail: /new-images/neon-tower.png
 tags:
@@ -13,38 +10,41 @@ tags:
   - casual
   - clicker
 score: 4.2/5  (2000 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Neon Tower est un jeu d’arcade 3D rapide et addictif où tu guides une balle rebondissante le long d’une immense tour hélicoïdale. Le principe est simple : tu fais pivoter la tour pour aligner les trous dans les plateformes et laisser la balle tomber d’étage en étage. L’objectif est d’atteindre le bas de la tour tout en évitant les plateformes rouges, qui détruisent instantanément la balle.
 
+### Stratégies de jeu et progression
 
+1.  **Chercher les ouvertures :** le mécanisme central consiste à faire pivoter la tour pour aligner les ouvertures avec la trajectoire de la balle. Laisse la gravité faire le travail.  
+2.  **Construire le mode « fireball » :** pour nettoyer les sections difficiles, laisse la balle traverser plusieurs plateformes sans toucher de surface ; elle se transforme alors en projectile enflammé capable de briser toutes les plateformes, rouges comprises, pendant un court instant.  
+3.  **Gérer le risque :** choisis quand jouer la sécurité avec de petites descentes et quand tenter une longue chute pour activer le mode fireball ; une chute mal jugée peut t’envoyer droit sur une plateforme rouge.  
+4.  **Regarder en bas :** ne te concentre pas uniquement sur la plateforme actuelle ; jette un œil plusieurs étages plus bas pour anticiper les zones sans issue.
 
-### Detailed Game Introduction
+### Commandes
 
-Neon Tower is a fast-paced and addictive 3D arcade game where you guide a bouncing ball down a massive, twisting helix tower. The gameplay is simple to learn but hard to master. You must rotate the tower to find gaps in the platforms, allowing the ball to fall through. The goal is to reach the bottom of the tower while avoiding the deadly red platforms that will end your run instantly.
+Le jeu se contrôle au glisser :
 
-### Gameplay Strategy & Walkthrough
+- Fais glisser la souris ou ton doigt à gauche/droite pour faire pivoter la tour autour de la balle.
 
-1.  **[FR]** **Find the Gaps:** The core mechanic is rotating the tower to line up the gaps with your bouncing ball. Let gravity do the work and guide the ball downwards.
-2.  **[FR]** **Build a Combo for Fireball Mode:** The key to high scores and clearing difficult sections is to build momentum. If you let the ball fall through multiple platforms without touching any of them, it will turn into a fiery projectile. In this "fireball" mode, you can smash through *any* platform, including the red ones, for a short time.
-3.  **[FR]** **Risk vs. Reward:** Decide when to play it safe and when to go for a long drop. A long drop can activate fireball mode, but if you misjudge the landing, you might hit a red platform. Sometimes, it's better to make a few smaller, safer drops.
-4.  **[FR]** **Look Ahead:** Don't just focus on the platform you are on. Look several levels below to plan your descent and anticipate where the gaps and red platforms will be.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+1.  **Q : Quel est l’objectif exact du jeu ?**  
+   **R :** Guider la balle jusqu’à la base de la tour en passant par les trous dans les plateformes sans s’écraser sur les sections rouges.
 
-The game is controlled with a simple drag mechanic.
+    - **Q : Que se passe‑t‑il si je touche une plateforme rouge ?**  
+   **R :** La balle explose et la partie est terminée, sauf si tu es en mode fireball.
 
-*   **[FR]** **Rotate Tower:** Click and hold the left mouse button (or your finger) and drag left or right to rotate the helix tower.
+3.  **Q : Comment activer le mode fireball ?**  
 
-### Frequently Asked Questions (FAQ)
+    - **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
 
-*   **[FR]** **Q: What is the objective of the game?**
-    *   **[FR]** **A:** To guide the bouncing ball safely to the bottom of the tower by falling through the gaps in the platforms.
+- **Q: How do I activate the fireball mode?**
 
-*   **[FR]** **Q: What happens if I land on a red platform?**
-    *   **[FR]** **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
-
-*   **[FR]** **Q: How do I activate the fireball mode?**
-    *   **[FR]** **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
+    - **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
+   **R :** Laisse la balle traverser plusieurs plateformes d’affilée sans rebondir. Elle s’embrase alors et peut traverser toutes les plateformes pendant quelques instants.
 

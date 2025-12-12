@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: five-nights-at-freddy-4
-title: '[FR] Five Nights at Freddy''s 4 (FNAF 4)'
-description: >-
-  [FR] Bedroom nightmare survival: listen for breathing, manage doors and
-  closet, and use your flashlight wisely to keep night terrors at bay.
+title: "Five Nights at Freddy's 4 (FNAF 4)"
+description: "Survie cauchemardesque dans une chambre : écoute la respiration, gère portes et placard, et utilise ta lampe torche avec prudence pour tenir les terreurs nocturnes à distance."
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/five-nights-at-freddy-4.jpg
 tags:
@@ -15,30 +13,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Dans *Five Nights at Freddy’s 4*, l’horreur se déroule à la maison, dans une chambre d’enfant plongée dans le noir. Le jeu repose presque entièrement sur les indices audio : tu patrouilles entre les portes de la chambre, le placard et le lit, en utilisant ta lampe torche et une écoute très attentive pour éviter les jumpscares.
 
+Les nuits deviennent de plus en plus rapides et exigeantes, et une erreur de timing peut suffire à tout faire basculer.
 
-### Overview
-Home‑set horror focused on audio cues: you patrol bedroom doors, closet, and bed, using the flashlight and careful listening to avoid jumpscares.
+### Comment jouer
 
-### How to Play
-- Approach a door and pause to listen; shut doors if you hear breathing.
-- Flash the hallway only when safe; check the closet and bed regularly.
-- Later nights increase speed and require tighter timing.
+- Approche une porte et fais une pause pour écouter ; si tu entends une respiration, n’allume **pas** la lampe et referme la porte.
+- N’éclaire le couloir que lorsque tu es sûr qu’il n’y a pas de respiration.
+- Vérifie régulièrement le placard et le lit pour empêcher les cauchemars de s’accumuler.
 
-### Controls
-- Mouse/keyboard to move between locations; specific keys for doors and flashlight vary by host.
+### Commandes
 
-### Tips
-- Always listen before flashing the light at a doorway.
-- Build a loop (left door → right door → closet → bed) and repeat quickly.
-- Headphones help distinguish subtle breathing and footsteps.
+- Souris / clavier pour te déplacer entre les portes, le lit et le placard ; les touches exactes pour fermer les portes et utiliser la lampe varient selon l’hébergeur.
 
-### FAQ
-- Q: Why do I get jumpscared when I flash the light at the door?
-A: You likely flashed while breathing was present; close the door first.
-- Q: Do I need to check the bed?
-A: Yes—ignoring the bed lets nightmares accumulate and increases risk.
-- Q: Does the game add extra nights?
-A: Many hosts include later challenge nights beyond Night 5.
+### Astuces
+
+- Écoute toujours avant de flasher la lumière vers une porte : la lampe au mauvais moment entraîne souvent un jumpscare instantané.
+- Mets en place une boucle rapide (porte gauche → porte droite → placard → lit) et répète‑la en continu.
+- Utilise un casque audio : il t’aidera à distinguer les respirations et bruits de pas très discrets.
+
+### Foire aux questions (FAQ)
+
+- Q : Pourquoi je me fais jumpscare dès que j’allume la lampe à une porte ?
+  
+  R : Tu as probablement allumé la lumière alors que de la respiration était déjà audible. Dans ce cas, il faut immédiatement fermer la porte sans flasher.
+
+- Q : Est‑ce vraiment nécessaire de vérifier le lit ?
+  
+  R : Oui. Ignorer le lit laisse les cauchemars s’accumuler derrière toi et augmente fortement le risque de jumpscare.
+
+- Q : Y a‑t‑il des nuits supplémentaires ?
+  
+  R : Beaucoup de versions ajoutent des nuits défis au‑delà de la Nuit 5, avec des mécaniques plus punitives.
 

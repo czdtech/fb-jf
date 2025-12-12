@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: cricket-mania
-title: '[KO] Cricket Mania'
+title: "Cricket Mania 크리켓 매니아"
 description: >-
-  [KO] Cricket Mania is a quick cricket hitter — pick shots, time swings, and
-  chase targets over by over.
+  빠른 템포로 진행되는 크리켓 타격 게임 Cricket Mania입니다. 라인과 길이를
+  읽고, 적절한 샷을 선택해 타이밍을 맞추며 오버마다 목표 스코어를 추격해 보세요.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/cricket-mania.png
 tags:
@@ -15,28 +15,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Cricket Mania는 짧고 강렬한 타격 세션에 초점을 맞춘 크리켓 게임입니다. 볼의 라인과
+길이를 읽어 어떤 샷을 선택할지 결정하고, 필드 배치의 빈 공간을 노려 정확한 타이밍으로
+배트를 휘둘러야 합니다. 제한된 오버 안에서 요구 런 레이트를 따라잡거나 넘어서는 것이
+주요 목표이며, 공격적인 샷과 안정적인 스트라이크 로테이션 사이의 균형이 중요합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Cricket Mania captures fast batting sessions. Read line and length, pick appropriate shots, and time swings to beat field placements and rack up runs under target pressures.
+1. **샷 선택: 라인에 맞게 치기**  
+   패드 쪽으로 들어오는 볼은 레그 글랜스, 오프 사이드로 향하는 볼은 커버 드라이브처럼
+   볼 라인에 맞는 샷을 선택하세요. 잘못된 샷 선택은 간단한 공도 쉽게 잡히는 뜬공이
+   되기 쉽습니다.  
+2. **타이밍 조절**  
+   레그 사이드로 보내고 싶다면 스윙을 약간 늦게, 오프 사이드 드라이브는 조금 더
+   이르게 휘두르는 식으로 타이밍을 조절합니다. 짧은 타이밍 차이가 큰 결과 차이를
+   만들어 냅니다.  
+3. **목표와 요구 런 레이트 의식하기**  
+   현재 점수와 남은 오버, 요구 런 레이트를 항상 확인하세요. 바운더리가 잘 나오지
+   않는 구간에는 무리해서 홈런만 노리기보다, 잔 런을 꾸준히 쌓아 스트라이크를
+   자주 교대해 주는 것이 안정적입니다.  
+4. **위험 관리**  
+   깊은 수비가 배치되어 있을 때는 높은 뜬공을 자제하고, 가능한 한 땅볼 위주의 샷을
+   선택해 캐치를 피하세요.  
+5. **파워 플레이 활용**  
+   필드 제약이 적어지는 파워 플레이 상황에서는 빈 공간이 많아지므로, 그 틈을
+   적극적으로 파고들어 점수를 크게 벌릴 수 있는 기회로 삼으세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Shot selection: Play with the line—leg glance for pads, cover for off‑side.
-2.  **[KO]** Timing window: Swing slightly late for leg‑side, earlier for off‑side drives.
-3.  **[KO]** Target focus: Track required run rate; rotate strike when boundaries dry up.
-4.  **[KO]** Risk control: Avoid aerials when fielders camp deep.
-5.  **[KO]** Power plays: Use gaps aggressively when the field is in.
+- 방향 입력으로 샷의 방향을 조준하고, 제때 화면을 탭하거나 버튼을 눌러 스윙합니다.  
+- 점수는 자동으로 계산되며, 특수 샷이 가능한 상황에서는 화면에 안내가 표시되기도 합니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Aim shot with directional input; tap to swing on time.
-- Runs tally automatically; watch prompts for special shots.
+- **Q: 자꾸 외야수에게 잡힙니다. 어떻게 해야 하나요?**  
+  **A:** 볼을 너무 띄워 치고 있을 가능성이 큽니다. 깊은 수비가 있을 때는 땅볼 위주의
+  샷을 선택해 라인 사이의 빈 공간을 노리세요.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 타이밍을 계속 놓칩니다.**  
+  **A:** 공의 궤적만 보기보다는, 볼러가 공을 손에서 놓는 순간을 주의 깊게 보세요. 릴리스
+  타이밍에 집중하면 전체 리듬을 잡는 데 도움이 됩니다.  
 
-- Keep getting caught? You’re lofting into deep field—favor ground shots.
-- Miss timing? Watch bowler’s release, not just ball flight.
-- Can I bowl? Most versions focus on batting only.
+- **Q: 내가 직접 볼링도 할 수 있나요?**  
+  **A:** 대부분의 버전은 타격 플레이에 집중하고 있으며, 볼링은 지원하지 않는 경우가
+  많습니다.  
 

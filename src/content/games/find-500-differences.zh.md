@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: find-500-differences
-title: '[ZH TRANSLATION NEEDED] Find 500 Differences'
+title: "Find 500 Differences 找不同大挑戰"
 description: >-
-  [ZH TRANSLATION NEEDED] Challenge your observation skills with Find 500
-  Differences. Compare two seemingly identical images and find all the subtle
-  differences.
+  在《Find 500 Differences》中挑戰你的觀察力：比較兩張幾乎一模一樣的圖片，
+  找出藏在細節裡的所有差異。
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
 thumbnail: /new-images/find-500-differences.png
 tags:
@@ -19,28 +18,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Find 500 Differences is a classic puzzle game that puts your attention to detail to the test. Across numerous levels, you will be presented with two beautiful, almost identical images. Your task is to carefully examine them and identify the five subtle differences that set them apart. With a wide variety of pictures, from charming landscapes to complex scenes, the game provides hours of relaxing and engaging fun for all ages.
+《Find 500 Differences》是一款經典的找不同解謎遊戲，專門考驗你對細節的敏感度。
+在眾多關卡中，你會看到兩張精美、看似相同的圖片，而你的任務，是仔細比較其中細微差異，
+找出那幾處不一樣的地方。圖片題材從溫馨風景到複雜場景都有，適合全年齡玩家放鬆遊玩，
+同時訓練專注力與觀察力。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Scan Systematically:** Don't just randomly look around. Start from the top-left corner and scan both images horizontally, like you're reading a book. This methodical approach ensures you don't miss any sections.
-2.  [ZH TRANSLATION NEEDED] **Focus on Backgrounds and Edges:** Differences are often hidden in plain sight in the background or along the edges of the picture, where players might not look as closely.
-3.  [ZH TRANSLATION NEEDED] **Look for Missing or Added Objects:** The most common type of difference is an object that is present in one image but missing from the other. Scan for these first.
-4.  [ZH TRANSLATION NEEDED] **Check for Color and Shape Changes:** Sometimes the difference is a subtle change in color, size, or shape of an object. Compare similar items in both pictures closely.
-5.  [ZH TRANSLATION NEEDED] **Use Hints Sparingly:** If you get stuck, the game provides a hint system. Try to save your hints for when you are truly stumped to maximize your score and challenge yourself.
+
+1.  **系統化掃描：** 不要漫無目的地亂看，建議從圖片左上角開始，像看書一樣橫向掃描，
+    依序比較兩張圖的同一區域，這樣較不容易漏掉某一塊區域。
+2.  **特別注意背景與邊緣：** 很多差異其實藏在背景或畫面邊緣，這些地方常常被玩家忽略，
+    反而容易藏有陷阱。
+3.  **先找有無的差別：** 最常見的差異類型，是某個物件在一張圖中存在、另一張圖中卻消失，
+    先掃這一類「多一個／少一個」的物件，通常很好辨認。
+4.  **再看顏色與形狀：** 另一類差異則是顏色、大小或形狀略有不同，例如衣服顏色變了、
+    裝飾少了一個圖案等，找完物件有無後，再仔細比較這種細節變化。
+5.  **謹慎使用提示：** 卡關時可以使用提示系統，但建議留在真的找不到時再用，
+    這樣既能保留挑戰性，也有助於拿更高分。
 
 ### Controls Guide
 
-*   **Click/Tap:** Use your mouse to click, or your finger to tap, on the area in either picture where you have spotted a difference.
-*   **Zoom (If available):** Some versions may allow you to zoom in for a closer look at the details.
+*   **點擊／輕觸：** 使用滑鼠或手指，點擊任一張圖中你認為有差異的位置，
+    若正確通常會標記或圈出該處。
+*   **縮放（若有）：** 部分版本支援放大檢視，方便你查看細節更多的區域。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What happens if I click on the wrong spot?**
-     *   **A:** In many "spot the difference" games, clicking on an incorrect spot may result in a time penalty or a reduction in your score. Be sure of your choice before you click!
+*   **問：點錯地方會怎樣？**
+    *   **答：** 許多找不同遊戲在你點錯位置時，會扣時間或減少分數，
+        所以下手前最好先多確認幾眼。
 
-*   **Q: Is there a time limit?**
-     *   **A:** Yes, most levels are timed to add an extra layer of challenge. Try to find all the differences before the time runs out.
+*   **問：有時間限制嗎？**
+    *   **答：** 多數關卡會設置倒數時間，讓找不同多一點壓力與挑戰性，
+        需要在時間內找到所有差異。
 
-*   **Q: How many differences are in each level?**
-     *   **A:** Typically, there are 5 differences to find in each pair of images.
-
+*   **問：每一關要找幾處不同？**
+    *   **答：** 一般來說每組圖片有 5 處差異需要找出，具體數量依實際關卡設計為準。

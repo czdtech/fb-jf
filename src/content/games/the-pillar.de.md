@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: the-pillar
-title: '[DE] The Pillar'
-description: >-
-  [DE] Embark on a mysterious journey in The Pillar, a captivating puzzle and
-  escape room game. Explore enigmatic environments, solve intricate puzzles, and
-  uncover hidden secrets as you progress through a series of challenging levels.
-  Test your logic and observation skills in this immersive adventure.
+title: "The Pillar"
+description: "The Pillar ist ein rätsellastiges Escape‑Abenteuer: Erforsche geheimnisvolle Inseln und Räume, löse Umwelt‑ und Logikrätsel und enthülle Schritt für Schritt die Geheimnisse dieser Welt."
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/the-pillar.jpg
 tags:
@@ -17,35 +13,33 @@ score: 3.8/5  (802 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+The Pillar ist ein atmosphärisches Puzzle‑ und Escape‑Room‑Spiel, in dem du eine Reihe mysteriöser Umgebungen erkundest. Du aktivierst Mechanismen, entschlüsselst Muster und Codes und öffnest neue Bereiche, während sich nach und nach eine rätselhafte Geschichte entfaltet.
 
-### Game Introduction
+### Spielanleitung
 
-The Pillar is an immersive puzzle and escape room game that challenges players with a series of intricate environmental puzzles. Players explore mysterious and beautifully designed locations, interacting with objects and mechanisms to unlock new paths and uncover the secrets hidden within the game's world. It's a game that rewards observation, logic, and creative thinking.
+Der Kern des Gameplays besteht darin, Umgebungsrätsel zu lösen, um voranzukommen. Jede Zone bringt neue Herausforderungen mit sich.
 
-### Gameplay Guide
+- **Erkundung:** Laufe durch unterschiedliche Schauplätze und halte nach Hinweisen, Symbolen und interaktiven Objekten Ausschau.
+- **Rätsellösung:** Du begegnest Schieberätseln, Muster‑Puzzles, Schaltern und anderen Mechanismen, die du in der richtigen Reihenfolge bedienen musst.
+- **Fortschritt:** Gelöste Rätsel öffnen Türen, aktivieren Brücken oder schalten neue Hinweise frei, die dich tiefer in die Welt von The Pillar führen.
 
-The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
-- **Exploration:** Wander through various unique settings, looking for clues and interactive elements.
-- **Puzzle Solving:** Engage with different types of puzzles, from mechanical contraptions to logical sequences.
-- **Progression:** Successfully solving puzzles opens new areas or reveals critical information needed to advance.
+### Steuerung
 
-### Controls Guide
+- **Bewegung:** `WASD` oder `Pfeiltasten`, um deine Figur zu steuern.
+- **Interaktion:** `Linke Maustaste`, um Objekte anzuklicken, Schalter zu betätigen und Rätseloberflächen zu bedienen.
 
-- **Movement:** `WASD` or `Arrow Keys` to move your character.
-- **Interaction:** `Left Mouse Button` to click on objects, activate mechanisms, and solve puzzles.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Welche Arten von Rätseln erwarten mich?**
 
-**What kind of puzzles can I expect?**
+Von klassischen Logik‑ und Muster‑Rätseln über Schalterkombinationen bis hin zu Rätseln, bei denen du die Umgebung aufmerksam beobachten musst – die Vielfalt ist recht groß.
 
-The puzzles vary widely, including logic puzzles, pattern recognition, environmental manipulation, and sometimes even sound-based challenges.
+**Gibt es eine Story?**
 
-**Is there a story in The Pillar?**
+Ja, auch wenn die Erzählung eher subtil bleibt. Durch Umgebungsdetails und Fortschritt im Spiel setzt du dir nach und nach zusammen, was hinter den Säulen und Inseln steckt.
 
-While the game is primarily puzzle-driven, there is an underlying narrative or mystery that unfolds as you progress and solve more puzzles, often revealed through environmental storytelling.
+**Ist das Spiel schwer?**
 
-**Is the game difficult?**
-
-The difficulty of the puzzles can range from straightforward to quite challenging, requiring players to think critically and sometimes experiment with solutions.
-
+Der Schwierigkeitsgrad reicht von recht zugänglich bis hin zu knifflig. Wenn du aufmerksam beobachtest, experimentierst und dir Zeit nimmst, lassen sich die meisten Rätsel ohne externe Hilfe lösen.

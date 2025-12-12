@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: red-ball-4
-title: '[KO] Red Ball 4'
+title: "Red Ball 4 레드 볼 4"
 description: >-
-  [KO] Red Ball 4 is a physics-based platformer game where players control a red
-  ball on a mission to save the world from evil squares that want to turn
-  everything into squares, navigating through challenging levels filled with
-  obstacles and puzzles.
+  Red Ball 4는 세상의 모든 것을 네모로 만들려는 악당 사각형들을 막기 위해, 귀여운 빨간
+  공을 조종해 모험을 떠나는 물리 기반 플랫포머 게임입니다. 장애물과 퍼즐을 넘어서며
+  세상을 구해 보세요.
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/red-ball-4.jpg
 tags:
@@ -21,31 +20,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-"Red Ball 4" is a physics-based platformer game where players control a cute red ball on a mission to save the world from evil squares that want to turn everything into squares. The game features challenging levels where players must navigate through various obstacles and puzzles, using physics properties to solve problems and defeat enemies.
+*Red Ball 4*는 플레이어가 작은 빨간 공을 조종해, 세상을 전부 네모로 바꾸려는 악당
+사각형들을 저지하는 물리 기반 플랫포머 게임입니다. 각 스테이지에는 다양한 장애물과
+간단한 퍼즐이 배치되어 있으며, 공의 구르기와 튕기기를 이용해 길을 찾고 적을
+처치해야 합니다.
 
-### Gameplay Strategy
+### 플레이 전략
 
-1.  **[KO]** **Master Physics Properties**: Utilize the red ball's bouncing and rolling characteristics to traverse obstacles and reach targets.
-2.  **[KO]** **Timing Mastery**: Many obstacles require precise timing to pass through; observe patterns and act at the right moment.
-3.  **[KO]** **Collect Stars**: Each level has hidden stars; collecting them can unlock additional content.
-4.  **[KO]** **Defeat Enemies**: Jump on square enemies to defeat them, but be careful of their attack patterns.
-5.  **[KO]** **Use Mechanisms**: Learn to use buttons, switches, and other mechanisms to open new paths.
+1. **물리 특성 이해:** 빨간 공의 탄성과 구르는 느낌을 잘 파악해, 점프 높이와
+   이동 거리를 감으로 익혀 두면 장애물을 넘기가 훨씬 수월해집니다.
+2. **타이밍 중요:** 움직이는 발판이나 장애물은 패턴을 먼저 관찰한 뒤, 가장 안전한
+   타이밍에만 건너가세요.
+3. **별 수집:** 각 레벨에는 숨겨진 별이 있어, 모아서 추가 콘텐츠를 해금할 수
+   있습니다. 길이 조금 돌아가더라도 별을 챙겨 두는 것이 좋습니다.
+4. **적 처치:** 사각형 적은 위에서 점프해 밟으면 처치할 수 있지만, 옆이나 아래에서
+   닿으면 피해를 입으니 항상 위쪽에서 내려 찍는 형태로 접근하세요.
+5. **장치 활용:** 버튼, 스위치, 움직이는 박스 등 다양한 장치를 이용해 문을 열고
+   새로운 길을 만들 수 있습니다. 화면에 보이는 모든 요소가 힌트가 될 수 있습니다.
 
-### How to Play
+### 조작 방법
 
-*   **[KO]** **Move**: Use left and right arrow keys to control the red ball's left and right movement.
-*   **[KO]** **Jump**: Use the up arrow key or spacebar to make the red ball jump.
-*   **[KO]** **Roll**: Utilize gravity to naturally roll on slopes, or accelerate by continuously pressing arrow keys.
+- **이동:** 왼쪽/오른쪽 방향키로 공을 굴려 이동합니다.
+- **점프:** 위쪽 방향키 또는 스페이스바를 눌러 점프합니다.
+- **경사 활용:** 경사로에서는 중력과 관성을 이용해 자연스럽게 굴러가며, 연속으로
+  방향키를 눌러 가속하면 더 멀리 도약할 수 있습니다.
 
-### Frequently Asked Questions
+### 자주 묻는 질문(FAQ)
 
-1.  **[KO]** **Q: How do I defeat square enemies?**
-**A**: Jump on them from above to defeat them, but avoid touching them from the side or below.
-2.  **[KO]** **Q: What are stars used for?**
-**A**: Collecting stars can unlock new levels and game content, making them an important element for completing the game.
-3.  **[KO]** **Q: What if I get stuck on a level?**
-**A**: Carefully observe all elements in the level, try different paths and methods; sometimes you need to use hidden mechanisms.
-4.  **[KO]** **Q: How many levels are there in the game?**
-**A**: "Red Ball 4" typically contains multiple chapters, each with several levels, totaling dozens of challenging levels.
+1. **Q: 사각형 적을 어떻게 쓰러뜨리나요?**  
+   **A:** 적 위로 점프해 내려 찍으면 처치할 수 있습니다. 측면이나 아래에서 닿으면
+   데미지를 입으니 주의하세요.
+
+2. **Q: 별은 어디에 쓰이나요?**  
+   **A:** 각 레벨에서 얻은 별은 새로운 스테이지나 추가 요소를 해금하는 데 사용되며,
+   100% 클리어를 노릴 때 중요한 수집 요소입니다.
+
+3. **Q: 특정 스테이지에서 막히면 어떻게 해야 하나요?**  
+   **A:** 스테이지의 모든 오브젝트를 다시 살펴보며, 밀 수 있는 박스나 숨겨진 발판이
+   없는지 확인해 보세요. 때로는 다소 돌아가는 경로가 정답일 수 있습니다.
+
+4. **Q: 총 몇 개의 레벨이 있나요?**  
+   **A:** 일반적으로 여러 챕터로 구성되어 있고, 각 챕터마다 여러 레벨이 준비되어
+   있어 수십 개의 도전적인 스테이지를 즐길 수 있습니다.

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: grass-cutter
-title: '[ZH TRANSLATION NEEDED] Grass Cutter'
-description: >-
-  [ZH TRANSLATION NEEDED] Grid puzzler: mow every tile exactly once with limited
-  moves, avoid obstacles, and plan routes to clear the lawn perfectly.
+title: "《Grass Cutter》草坪割草解谜"
+description: "《Grass Cutter》是一款方格路线解谜游戏，你要在有限步数内规划割草路径，让割草机在不被困住的前提下刚好把每一格草坪修剪一次，同时绕开岩石、水渠和单行格等障碍。"
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/grass-cutter.jpg
@@ -17,27 +15,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Grass Cutter is a route‑planning puzzle where a mower moves cell‑by‑cell or in straight lines until blocked (host dependent). The goal is to cut all grassy tiles without getting stuck, while rocks, water, and one‑way tiles complicate routes. Later stages add switches and teleporters.
+### 游戏概述
+《Grass Cutter》是一款路线规划类解谜游戏，你要操控割草机在网格草坪上移动：有的版本是一格一格前进，有的版本则会沿直线滑行，直到撞上障碍物才会停下。你的目标是在不把自己困死的前提下，刚好把所有长草的格子都修剪干净。场地上的岩石、水面、单行格等会让路线规划更加棘手，后期关卡还会加入开关、传送门等机关。
 
-### How to Play
-- Survey the grid; identify choke points you must pass once.
-- Use blockers to stop long slides at the right cells (if sliding rules apply).
-- Leave return paths open so you can cover remaining tiles.
+### 游戏玩法
+- 先整体观察棋盘，找出那些只能通过一次的“瓶颈”格子。
+- 如果采用滑行规则，就利用石块等障碍物当作“刹车点”，让割草机恰好停在你想要的位置。
+- 时刻注意保留回程路线，避免提前封死仍未割到的区域。
 
-### Controls
-- Arrow keys or swipe to move; undo/restart buttons are common.
+### 操作说明
+- 使用方向键或滑动来控制移动；大部分版本都提供撤销和重新开始按钮。
 
-### Tips
-- Work backward from hard‑to‑reach corners.
-- If you slide, set up “stoppers” to end on target tiles.
-- Restart early when a route seals off uncut tiles.
+### 实用技巧
+- 可以从最难触及的角落开始规划路线。
+- 对于滑行关卡，优先寻找可以借助障碍物停下来的目标格。
+- 一旦发现有大片草地被自己封死，果断重开，比硬撑到死局更省时间。
 
-### FAQ
-- Q: What ends a level unsuccessfully?  
-[ZH TRANSLATION NEEDED]   A: Leaving uncut tiles with no legal path or running out of moves (in move‑limited variants).
-- Q: Are there hints in the game?  
-[ZH TRANSLATION NEEDED]   A: Many hosts provide limited hints or an undo stack.
-- Q: Do all versions use sliding movement?  
-[ZH TRANSLATION NEEDED]   A: Some do, others are step‑based—check the rules on your host.
+### 常见问题（FAQ）
+- Q: 什么时候算关卡失败？  
+  A: 如果还有草地没割完，而你已经没有任何合法的移动路径，或者在有限步数模式下步数耗尽，关卡就会判定失败。
 
+- Q: 游戏里有提示功能吗？  
+  A: 很多平台会提供有限次数的提示，或者至少有多步撤销功能，方便你试错和回溯。
+
+- Q: 所有版本都会用滑行移动吗？  
+  A: 不一定，有些版本是一步一格的步进式移动，有些才是滑行式。进入关卡前可以先看一下规则说明。

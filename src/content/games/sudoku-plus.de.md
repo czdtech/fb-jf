@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: sudoku-plus
-title: '[DE] Sudoku Plus'
+title: Sudoku Plus
 description: >-
-  [DE] A feature-rich Sudoku experience. Enjoy the classic logic puzzle with
-  helpful tools like hints, notes, and error checking to challenge your brain.
+  Sudoku Plus ist ein komfortables Sudoku mit Extras: klassische 9x9-Rätsel plus
+  Notizenmodus, Hinweise und Fehlerprüfung – ideal für Einsteiger und Profis.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/sudoku-plus.jpg
 tags:
@@ -15,36 +15,47 @@ score: 4.7/5  (3100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
+
+Sudoku Plus bietet eine moderne Umsetzung des klassischen Logikrätsels. Ziel ist es, ein 9×9‑Raster so zu füllen, dass in jeder Zeile, jeder Spalte und in jedem 3×3‑Block die Ziffern 1 bis 9 genau einmal vorkommen. Diese Version bringt Komfortfunktionen wie Hinweise, Notizenmodus und Fehlerprüfung mit – hilfreich für Neulinge und praktisch für alle, die viele Rätsel am Stück lösen.
+
+### Spielstrategie & Walkthrough
+
+1.  **Grundregel verinnerlichen:** Jede Zahl von 1 bis 9 darf pro Zeile, Spalte und 3×3‑Block nur einmal vorkommen.
+2.  **Ausschlusslogik (Cross‑Hatching):** Für ein leeres Feld schaust du, welche Zahlen in seiner Zeile, Spalte und seinem Block schon gesetzt sind – die verbleibenden sind Kandidaten.
+3.  **Notizen nutzen:** Trage mit dem Notizenmodus mögliche Kandidaten klein ins Feld ein. Wenn andere Felder gelöst werden, kannst du Kandidaten wieder streichen, bis nur noch eine Zahl übrig bleibt.
+4.  **Singles finden:**
+   - **Naked Single:** Ein Feld hat nur noch einen Kandidaten – diese Zahl ist korrekt.
+   - **Hidden Single:** In einer Zeile/Spalte/einem Block kann eine bestimmte Zahl nur in ein einziges Feld – dort gehört sie hin.
+5.  **Schrittweise vorgehen:** Fülle zuerst einfache, offensichtliche Stellen und nutze dann Notizen und fortgeschrittene Muster, wenn es knifflig wird.
+
+### Steuerung
+
+- **Feld wählen:** Per Mausklick auf ein leeres oder bereits gesetztes Feld.
+- **Zahl eintragen:** Nach der Auswahl über das On‑Screen‑Keypad oder Tastaturziffern.
+- **Notizenmodus:** Mit „Notizen“/„Stift“-Button zwischen finaler Eingabe und Kandidatenwechseln umschalten.
+- **Löschen:** Mit Radiergummi oder `Entf` ein Feld leeren.
+- **Hinweis:** Auf den Hinweis‑Button klicken, um die richtige Zahl in einem Feld aufzudecken (falls verfügbar).
+
+### Häufige Fragen (FAQ)
 
 
+- **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
 
-### Detailed Game Introduction
+    - **Q: Will the game tell me if I make a mistake?**
 
-Sudoku Plus offers a premium experience for the timeless logic-based, number-placement puzzle. The goal is to fill a 9x9 grid so that each column, each row, and each of the nine 3x3 subgrids contain all of the digits from 1 to 9. This version is packed with helpful features like hints, a notes mode, and error checking, making it perfect for both beginners learning the ropes and advanced players looking for a smooth and polished interface.
+- **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
 
-### Gameplay Strategy & Walkthrough
+    - **Q: What does the "Notes" feature do?**
 
-1.  **[DE]** **The Golden Rule:** The core of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box. No repetition is allowed in any of these areas.
-2.  **[DE]** **Cross-hatching:** The fundamental solving technique. For an empty cell, scan its corresponding row, column, and 3x3 box to see which numbers are already present. By eliminating these, you can deduce which numbers are possible candidates for the cell.
-3.  **[DE]** **Use the Notes Feature:** For more complex puzzles, the "Notes" or "Pencil" mode is essential. Use it to mark down all possible candidates for an empty cell. As you solve other cells, you can update your notes, eventually narrowing down the possibilities to a single correct number.
-4.  **[DE]** **Find Singles:** Look for cells where only one number is possible (a "Naked Single"). Also, look for instances where a specific number can only go in one possible cell within a row, column, or box (a "Hidden Single").
+- **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
 
-### Controls Guide
+    - **Q: Do I need to be good at math?**
+**Muss ich gut in Mathe sein?**  
+Nein. Sudoku basiert auf Logik und Mustererkennung, nicht auf Rechnen.
 
-*   **[DE]** **Select a Cell:** Click on any empty cell in the grid.
-*   **[DE]** **Enter a Number:** After selecting a cell, click a number on the on-screen keypad to place it.
-*   **[DE]** **Toggle Notes Mode:** Use the dedicated "Notes" or "Pencil" button to switch between entering final answers and entering small candidate numbers.
-*   **[DE]** **Erase:** Use the eraser tool to clear a cell.
-*   **[DE]** **Hint:** Click the hint button to reveal the correct number for a single cell.
+**Wozu dient der Notizenmodus?**  
+Damit kannst du alle möglichen Zahlen in einem Feld vormerken, ohne dich sofort endgültig festzulegen – essenziell für schwerere Rätsel.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: Do I need to be good at math?**
-    *   **[DE]** **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
-
-*   **[DE]** **Q: What does the "Notes" feature do?**
-    *   **[DE]** **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
-
-*   **[DE]** **Q: Will the game tell me if I make a mistake?**
-    *   **[DE]** **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
-
+**Zeigt das Spiel Fehler an?**  
+In vielen Modi markiert das Spiel doppelte Zahlen in Zeilen, Spalten oder Blöcken. So kannst du Tippfehler schneller finden und korrigieren.

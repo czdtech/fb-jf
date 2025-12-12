@@ -1,40 +1,49 @@
 ---
 locale: zh
 urlstr: tiger-run
-title: '[ZH TRANSLATION NEEDED] Tiger Run'
-description: >-
-  [ZH TRANSLATION NEEDED] Tiger Run is a jungle runner — dash, jump, and slide
-  to dodge obstacles and collect coins.
-iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
-thumbnail: /new-images/tiger-run.jpeg
+title: 《Tiger Run》丛林猛虎奔跑
+description: 《Tiger Run》是一款丛林主题的跑酷游戏。你将化身敏捷的老虎，在树林与岩石间飞奔、跳跃与滑行，躲避障碍并收集道具。
+iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/3n8c2b1k5d7p0/'
+thumbnail: /new-images/tiger-run.png
 tags:
-  - action
-  - casual
-score: 3.8/5  (1627 votes)
+  - running
+  - animal
+  - endless
+score: 3.9/5  (1500 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Tiger Run is a straightforward endless runner set in the jungle. Read upcoming hazards, swap lanes or jump/slide to avoid obstacles, and chain coin pickups while maintaining a stable rhythm as speed ramps up.
+《Tiger Run》让你扮演在丛林中奔跑的老虎，一路躲避树干、岩石、陷坑和陷阱，同时收集路上的金币或肉块来解锁更多外观或能力。游戏采用典型“无尽跑酷”结构，节奏会随时间逐渐加快，是一款上手简单、追求高分的休闲动作游戏。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Eyes up: Look ahead to prepare lane swaps early.
-2.  [ZH TRANSLATION NEEDED] Priority safety: Skip side coins when gaps are tight.
-3.  [ZH TRANSLATION NEEDED] Memorize sets: Common obstacle patterns repeat—use them to pre‑position.
-4.  [ZH TRANSLATION NEEDED] Smooth inputs: Quick, small moves reduce overcorrection at high speed.
-5.  [ZH TRANSLATION NEEDED] Power‑ups: Save shields/magnets for dense sections.
+### 游玩策略与跑酷指引
 
-### Controls Guide
+1.  **提前观察前方地形：** 把视线略微抬高，看清前方数个障碍的位置，再决定是跳跃、滑行还是转向，避免临时慌乱操作。
+2.  **熟悉三种基本动作：** 跳过低矮障碍、滑过低矮洞口、向左右变道躲开固定障碍，这三种组合就能应付大部分情况。
+3.  **收集但不贪心：** 在速度较快时，不要为了几枚金币或道具硬拐路线，稳定跑得更远通常比勉强收集更划算。
+4.  **善用道具：** 磁铁、护盾或加速等道具可以短时间大幅提升收益或容错率，尽量在道具生效期间多跑一段距离或多吃一些奖励。
 
-- Move: A/D or Left/Right to change lanes.
-- Jump/Slide: Space/Up to jump; Down to slide (or swipe on mobile).
-- Pause/Retry: On‑screen UI.
 
-### Frequently Asked Questions (FAQ)
+- Power‑ups: Save shields/magnets for dense sections.
+### 操作说明
+
+*   **左右变道：** 使用左右方向键或滑动屏幕左右切换跑道；
+*   **跳跃：** 按上方向键或向上滑动以跳过较高障碍；
+*   **下滑：** 按下方向键或向下滑动以钻过低矮障碍。
+
+### 常见问题解答（FAQ）
+
+
+- Is there a finish? Usually endless—aim for new personal bests.
+
+- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
 
 - I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
-- Is there a finish? Usually endless—aim for new personal bests.
+**问：游戏有终点吗？****
+答：** 作为无尽跑酷，本作没有固定终点，目标是尽可能跑得更远、刷出更高分数。
+
+**问：是否能升级老虎的能力？****
+答：** 视版本而定，一些实现会提供速度、磁铁持续时间等属性升级，来帮助你更轻松地刷新纪录。
 

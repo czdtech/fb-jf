@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: incredibox-carol-of-the-bells
-title: '[FR] Incredibox Carol of the Bells'
-description: >-
-  [FR] Discover the festive 'Incredibox Andlbox Carol of the Bells,' a fan-made
-  mod. This guide details its Christmas theme, gameplay for remixing the classic
-  carol, and how to unlock its unique holiday-themed bonuses.
-iframeSrc: 'https://turbowarp.org/931427102/embed'
+title: "Incredibox Carol of the Bells"
+description: "Découvre le mod festif « Incredibox Andlbox Carol of the Bells » : remixe le célèbre chant de Noël, empile cloches, chœurs et percussions, et débloque des bonus animés aux couleurs des fêtes."
+iframeSrc: "https://turbowarp.org/931427102/embed"
 thumbnail: /new-images/incredibox-carol-of-the-bells.png
 tags:
   - music
@@ -17,43 +14,54 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+*Incredibox Andlbox Carol of the Bells* est un mod fan‑made chaleureux et festif pour Incredibox. Tout y est dédié au célèbre chant de Noël **« Carol of the Bells »** : chaque son que tu actives est un fragment de ce morceau culte.
 
+Les personnages portent des tenues d’hiver et de fête, ce qui pose immédiatement une ambiance de Noël. Tu retrouves l’interface classique d’Incredibox avec 20 icônes, mais ici, tout est lié au chant : mélodie à quatre notes, harmonies superposées, rythmes de clochettes et chœurs puissants.
 
-### **Game Introduction**
+Ton objectif est de recomposer ta propre version de « Carol of the Bells » tout en découvrant les trois bonus animés secrets, évidemment inspirés de l’univers de Noël.
 
-*Incredibox Andlbox Carol of the Bells* is a charming and festive fan-made mod for the music creation game Incredibox. This version is entirely dedicated to deconstructing and remixing the famous Christmas carol, **"Carol of the Bells."**
+### Stratégies de jeu et conseils
 
-The game features a cast of characters dressed in winter and holiday attire, setting a cheerful Christmas mood. Players are given the standard Incredibox interface with 20 sound icons, but here, every single sound is a component of the classic carol. You'll find the iconic four-note melody, layered harmonies, sleigh bell rhythms, and choral vocals, all ready to be mixed.
+La clé est de comprendre comment le chant a été découpé, puis de superposer les bonnes couches pour obtenir un son riche et festif.
 
-The objective is to allow players to creatively reconstruct their own version of "Carol of the Bells" while also solving the puzzle of finding the three secret animated bonuses. These bonuses are, of course, themed around Christmas, offering delightful visual rewards for musical experimentation.
+1.  **Découpe le chant en catégories**  
+    - **Beats** : percussions de Noël, clochettes de traîneau, grosses caisses et basses rythmiques qui donnent l’élan au morceau.  
+    - **Effets** : tintements cristallins, bruitages d’hiver, souffles de vent et textures qui ajoutent une atmosphère magique.  
+    - **Mélodies** : le cœur du mod, avec l’**ostinato de quatre notes** de « Carol of the Bells » décliné sur différents instruments et couches mélodiques.  
+    - **Voix** : paroles et chœurs inspirés du cantique, harmonies riches et arrangements a cappella.
 
-### **Gameplay Strategy & Tips**
+2.  **Commence par la mélodie principale**  
+    Active d’abord la ligne mélodique à quatre notes, immédiatement reconnaissable. Elle sert d’ancre à tout le reste et garantit que ton mix évoque bien le chant original.
 
-The strategy in this mod revolves around understanding how the classic carol is broken down and layering the parts to create a rich, festive sound.
+3.  **Construis les harmonies**  
+    Une fois la base mélodique posée, ajoute progressivement des chœurs et voix de la catégorie **Voices**. Superposer plusieurs parties vocales donne la profondeur chorale typique de la chanson.
 
-1.  **[FR]** **Understand the Carol's Components**:
-    *   **[FR]** **Beats**: The rhythm section is filled with festive percussion. Expect to find sounds like **sleigh bells**, deep holiday-themed drum patterns, and rhythmic basslines that provide a steady pulse.
-    *   **[FR]** **Effects**: This category adds the wintery atmosphere. It includes sounds like twinkling chimes, ambient winter wind, and other textural elements that give the mix a magical holiday feel.
-    *   **[FR]** **Melodies**: This is the heart of the mod. It contains the **iconic four-note ostinato** of "Carol of the Bells" played by various instruments or synths. You'll find different melodic layers that can be combined to form the main tune.
-    *   **[FR]** **Voices**: This category contains all the choral and vocal parts of the carol, from the "Hark! how the bells..." lyrics to beautiful, layered harmonies and powerful acapella arrangements.
+4.  **Ajoute le rythme de fête**  
+    Intègre clochettes et percussions pour moderniser le morceau et lui donner un côté plus punchy, comme un remix de Noël contemporain.
 
-2.  **[FR]** **Start with the Main Melody**: A great way to begin is by finding and activating the main four-note melodic pattern from the "Melodies" category. This instantly recognizable tune will serve as the anchor for the rest of your composition.
+5.  **Cherche les bonus de façon méthodique**  
+    Quand tu as un mix qui te plaît, garde quelques pistes fixes (mélodie + chœur) puis remplace les autres icônes une à une pour déclencher les trois animations spéciales de Noël.
 
-3.  **[FR]** **Build the Harmony**: Once the main melody is in place, experiment with adding different vocal parts from the "Voices" category. Layering the harmonies on top of the melody will create the rich, full sound the carol is known for.
+### Commandes
 
-4.  **[FR]** **Add Rhythmic Flair**: Don't forget the beats! Adding sleigh bells and a solid drum pattern will give your mix a more modern and energetic feel.
+Les commandes sont celles d’Incredibox :
 
-5.  **[FR]** **Systematic Bonus Hunting**: To find the three festive bonuses, be methodical. Once you have a core mix you enjoy, try swapping out the remaining icons one by one until you trigger one of the special Christmas-themed animations.
+- **Ajouter un son** : fais glisser une icône depuis le bas de l’écran sur un personnage.  
+- **Retirer un son** : clique sur le « X » d’une icône active ou remplace‑la en déposant un autre son sur le même personnage.  
+- **Mute / Unmute** : clique sur un chanteur pour le couper, puis reclique pour le réactiver.  
+- **Solo** : clique sur le petit bouton à côté d’un personnage pour n’écouter que lui.  
+- **Enregistrer** : clique sur le bouton d’enregistrement pour capturer ta version de « Carol of the Bells ».
 
-### **Controls Guide**
+### Foire aux questions (FAQ)
 
-The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
+- **Q : Puis‑je recréer la version originale du chant ?**  
+  R : Tu peux t’en approcher fortement en utilisant la mélodie principale, les chœurs et quelques percussions classiques, mais le mod t’encourage aussi à proposer tes propres arrangements.
 
-*   **[FR]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[FR]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[FR]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[FR]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[FR]** **Record**: Click the **record button** to start and stop recording your festive creation.
+- **Q : Le mod est‑il jouable toute l’année ou seulement à Noël ?**  
+  R : Tu peux bien sûr y jouer quand tu veux, mais son ambiance est particulièrement adaptée aux périodes de fêtes.
 
+- **Q : Combien de bonus secrets y a‑t‑il ?**  
+  R : Trois bonus animés, chacun lié à une combinaison précise de sons—tous fortement thématisés autour de Noël.
 

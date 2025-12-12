@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: kingdom-rush
-title: '[ES] Kingdom Rush'
+title: "Kingdom Rush"
 description: >-
-  [ES] Flagship tower defense: place and upgrade four tower types, call
-  reinforcements, and micro a hero to hold choke points.
+  Tower defense emblemático: coloca y mejora cuatro tipos de torres, llama
+  refuerzos y microgestiona a un héroe para mantener los cuellos de botella.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/kingdom-rush.jpg
 tags:
@@ -16,29 +16,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Visión general
+Kingdom Rush estableció la mezcla de control de caminos y micro de héroe que
+define la saga. Construyes torres de arqueros, cuarteles, magos y artillería a
+lo largo de las curvas del recorrido. Cada línea puede evolucionar a ramas
+especializadas. Llamas refuerzos para frenar a los enemigos, usas habilidades
+globales para momentos críticos y mueves al héroe entre carriles para rematar
+amenazas. Las oleadas combinan armaduras, resistencias mágicas, voladores y
+engendros, lo que exige configuraciones flexibles.
 
+### Cómo se juega
+- Ancla tu defensa en los cuellos de botella y apóyala con daño de área y de
+  objetivo único.
+- Ajusta los tipos de torre a las resistencias enemigas y rota al héroe hacia
+  los carriles más presionados.
+- Guarda las habilidades globales para jefes y oleadas especialmente densas.
 
-### Overview
-Kingdom Rush established the series’ mix of lane control and hero micro. Build archer, barracks, mage, and artillery towers along path bends. Upgrade into specialized branches, call reinforcements to stall, and use hero actives and nukes to stabilize spikes. Enemy waves combine armor, magic resist, flyers, and spawn mechanics, demanding flexible builds.
+### Controles
+- Ratón/táctil para todas las acciones de torres y héroe; los atajos varían por
+  host.
 
-### How to Play
-- Anchor at choke points; support with splash and single‑target towers.
-- Match towers to resistances; rotate hero to threatened lanes.
-- Time global skills for boss phases and bursty waves.
+### Consejos
+- Menos torres, pero más fuertes, rinden mejor al principio que llenar el mapa
+  de torres débiles.
+- No descuides el antiaéreo; los voladores castigan muy duro las defensas solo
+  de suelo.
+- Usa los cuarteles para agrupar enemigos bajo tus torres de área.
 
-### Controls
-- Mouse/touch for all tower and hero actions; hotkeys vary.
+### Preguntas frecuentes (FAQ)
 
-### Tips
-- Fewer, stronger towers outperform many weak ones early.
-- Keep anti‑air coverage; flyers punish ground‑only setups.
-- Use barracks to clump enemies under splash.
+*   **P: ¿Qué orden de construcción funciona bien al inicio?**  
+    **R:** Un cuartel + una torre de área + una de mago cerca del choke suele
+    dar una base sólida; después céntrate en mejorarlas.
 
-### FAQ
-- Q: What is a good early game build order?
-A: One barracks + one splash + one mage, then upgrade near the main choke.
-- Q: How do I handle mixed waves effectively?
-A: Combine mage (armor), archer/artillery (swarm), and position hero as finisher.
-- Q: Are heroes required for completing levels?
-A: Not mandatory, but they smooth spikes and save lives at choke points.
+*   **P: ¿Cómo manejo oleadas mixtas?**  
+    **R:** Combina magos (contra armadura), arqueros/artillería (contra
+    enjambres) y usa al héroe como rematador.
 
+*   **P: ¿Son obligatorios los héroes para completar niveles?**  
+    **R:** No son estrictamente necesarios, pero suavizan mucho los picos de
+    dificultad y salvan situaciones límite en los cuellos de botella.

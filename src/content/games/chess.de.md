@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: chess
-title: '[DE] Chess'
+title: "Chess"
 description: >-
-  [DE] Learn the rules, pieces, and strategies of Chess, the ultimate game of
-  skill. Plan your moves, control the board, and checkmate your opponent's king
-  to win this timeless classic.
+  Lerne Regeln, Figuren und Strategien von Schach, dem ultimativen
+  Denksport-Spiel. Plane deine Züge, kontrolliere das Brett und setze den König
+  deines Gegners matt, um diesen zeitlosen Klassiker zu gewinnen.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/chess.jpg
 tags:
@@ -17,67 +17,102 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Schach ist ein Strategiespiel für zwei Personen auf einem 8×8-Brett. Jeder
+Spieler startet mit 16 Figuren: König, Dame, zwei Türme, zwei Springer, zwei
+Läufer und acht Bauern. Ziel der Partie ist es, den gegnerischen König
+**schachmatt** zu setzen – also so anzugreifen, dass er im Schach steht und
+keinen legalen Zug mehr hat, um diesem Angriff zu entkommen.
 
+Schach gehört zu den beliebtesten Spielen der Welt und ist bekannt für seine
+Tiefe und taktische Komplexität. Jede der sechs Figurentypen bewegt sich
+anders; ihre Bewegungen zu verstehen, ist die Grundlage für jede Partie.
 
-### Game Introduction
+**Zugregeln der Figuren:**
+-   **König:** Zieht ein Feld in jede Richtung (horizontal, vertikal,
+    diagonal). Er ist die wichtigste, aber nicht die stärkste Figur.
+-   **Dame:** Die stärkste Figur. Sie zieht beliebig viele freie Felder in
+    jede Richtung (horizontal, vertikal, diagonal).
+-   **Turm:** Zieht beliebig viele freie Felder nur horizontal oder vertikal.
+-   **Läufer:** Zieht beliebig viele freie Felder diagonal. Jeder Läufer bleibt
+    das ganze Spiel über auf der Farbe, auf der er gestartet ist.
+-   **Springer:** Zieht in einem "L"-Muster: zwei Felder gerade (orthogonal)
+    und eines seitlich. Als einzige Figur darf er über andere Figuren
+    hinwegspringen.
+-   **Bauer:** Zieht ein Feld gerade nach vorne, schlägt jedoch ein Feld
+    diagonal nach vorne. Im ersten Zug kann er zwei Felder vorrücken. Bauern
+    ziehen und schlagen nie rückwärts. Sie besitzen Sonderregeln wie *En
+    Passant* und *Umwandlung*.
 
-Chess is a two-player strategy board game played on an 8x8 grid called a chessboard. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The objective of the game is to **checkmate** the opponent's king. A checkmate happens when the king is in a position to be captured (in "check") and there is no legal move to escape the capture.
+### Strategie & Tipps
 
-The game is one of the world's most popular, known for its deep strategy and tactical complexity. Each of the six different types of pieces moves differently, and understanding these movements is fundamental to playing the game.
+#### Eröffnungsgrundsätze
+1.  Zentrum kontrollieren: Die Felder d4, e4, d5, e5 sind besonders wichtig.
+    Figuren im Zentrum kontrollieren mehr Felder und sind meist aktiver.
+2.  Figuren entwickeln: Bringe Springer und Läufer früh von ihren
+    Ausgangsfeldern weg auf aktive Positionen – meistens erst Springer, dann
+    Läufer.
+3.  Früh rochieren: Die Rochade bringt deinen König in Sicherheit und entwickelt
+    einen Turm. Sie ist ein zentraler Bestandteil der Eröffnung.
 
-**Piece Movements:**
--   **The King:** Moves one square in any direction (horizontally, vertically, or diagonally). The king is the most important piece but also one of the weakest.
--   **The Queen:** The most powerful piece. It can move any number of vacant squares in any direction (horizontally, vertically, or diagonally).
--   **The Rook:** Moves any number of vacant squares horizontally or vertically.
--   **The Bishop:** Moves any number of vacant squares diagonally. Each bishop starts on a single color (light or dark) and remains on that color for the entire game.
--   **The Knight:** Moves in an 'L' shape: two squares in a horizontal or vertical direction, then one square perpendicular to that. The knight is the only piece that can jump over other pieces.
--   **The Pawn:** Moves forward one square, but captures diagonally one square forward. On its first move, a pawn has the option to move two squares forward. Pawns cannot move or capture backward. Pawns also have special moves: *En Passant* and *Promotion*.
+#### Mittelspiel-Ideen
+1.  Figurenwerte beachten: Nutze die Faustregel Bauer=1, Springer=3, Läufer=3,
+    Turm=5, Dame=9 als grobe Orientierung bei Abtäuschen. Tausche selten
+    eine wertvollere Figur gegen eine deutlich schwächere, außer du erhältst
+    dafür einen klaren Vorteil.
+2.  Taktikmotive lernen: Häufige Motive sind:
+    -   **Gabel:** Eine Figur greift gleichzeitig zwei oder mehr gegnerische
+        Figuren an.
+    -   **Fesselung:** Eine angegriffene Figur darf sich nicht bewegen, ohne
+        eine wertvollere Figur dahinter preiszugeben.
+    -   **Spieß:** Eine wertvolle Figur wird angegriffen und muss weichen,
+        wodurch eine weniger wertvolle Figur dahinter geschlagen werden kann.
+3.  Immer den Antwortzug bedenken: Nach jedem gegnerischen Zug solltest du
+    fragen: "Was droht er?" und "Was wäre sein nächster guter Zug?".
 
-### Gameplay Strategy
+#### Endspiel-Grundlagen
+1.  König aktivieren: Im Endspiel wird der König zur aktiven Figur und sollte
+    meist in die Brettmitte vorrücken, um Bauern zu unterstützen oder
+    gegnerische zu blockieren.
+2.  Bauernumwandlung: Häufiges Endspielziel ist es, einen Bauern bis zur
+    gegnerischen Grundreihe zu führen und in eine Dame umzuwandeln. Ein
+    "Freibauer" ohne gegnerische Bauern davor ist dabei besonders wertvoll.
 
-#### Opening Principles
-1.  **[DE]** **Control the Center:** The central squares (d4, e4, d5, e5) are the most important. Pieces in the center control more of the board and have greater mobility.
-2.  **[DE]** **Develop Your Pieces:** Move your knights and bishops out from their starting squares to active positions. A good rule of thumb is to move knights before bishops.
-3.  **[DE]** **Castle Early:** Castling is a special move that gets your king to safety and develops one of your rooks. It's a crucial part of the opening.
+### Steuerung (digitale Version)
 
-#### Mid-Game Strategy
-1.  **[DE]** **Piece Value:** Understand the relative value of your pieces as a general guide (Pawn=1, Knight=3, Bishop=3, Rook=5, Queen=9). Avoid losing a more valuable piece for a less valuable one unless it leads to a clear advantage.
-2.  **[DE]** **Look for Tactics:** Chess is full of tactical patterns. Learn to spot common ones:
-    -   **Fork:** A single piece attacking two or more enemy pieces at once.
-    -   **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.
-    -   **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.
-3.  **[DE]** **Always Think About Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
+In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
 
-#### End-Game Principles
-1.  **[DE]** **Activate Your King:** In the endgame, with fewer pieces on the board, the king becomes a powerful attacking and defending piece. Move it towards the center.
-2.  **[DE]** **Pawn Promotion:** The goal of the endgame is often to advance one of your pawns to the other end of the board to promote it to a queen. A "passed pawn" (a pawn with no enemy pawns in front of it) is a major advantage.
+-   Figur ziehen:
+    -   **Klicken & Ziehen:** Figur anklicken, halten, auf ein legales Feld
+        ziehen und loslassen.
+    -   **Klicken & Klicken:** Figur anklicken (legale Felder werden meist
+        markiert), dann Zielfeld anklicken.
+-   Rochade: Bewege den König einfach zwei Felder in Richtung des Turms; der
+    Turm wird automatisch auf das richtige Feld daneben gesetzt.
 
-### Controls Guide (Digital Versions)
+### Häufige Fragen (FAQ)
 
-In digital chess (on a computer or mobile device), the controls are simple and intuitive.
--   **Move a Piece:**
-    -   **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
-    -   **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
--   **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
+**1. Was ist der Unterschied zwischen Matt und Patt?**
+> **Matt** bedeutet Sieg: Der König steht im Schach und kann nicht entkommen.
+> **Patt** ist ein Unentschieden: Der Spieler am Zug steht *nicht* im Schach,
+> hat aber keinen legalen Zug mehr – die Partie endet remis.
 
-### Frequently Asked Questions (FAQ)
+**2. Welche Bedingungen gelten für die Rochade?**
+> Du darfst nur rochieren, wenn:
+> 1.  König und der beteiligte Turm noch nie gezogen haben.
+> 2.  Zwischen König und Turm keine Figuren stehen.
+> 3.  Der König nicht im Schach steht, kein vom Gegner angegriffenes Feld
+>     überschreitet und nicht auf einem angegriffenen Feld landet.
 
-**1. What is the difference between Checkmate and Stalemate?**
-> This is a crucial distinction.
-> - **Checkmate** is a win. It occurs when a king is in check (under attack) and there is no legal move to get out of check.
-> - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.
+**3. Was ist "En Passant"?**
+> *En Passant* ist eine Sonderregel für Bauern: Zieht ein gegnerischer Bauer
+> von seiner Grundreihe aus zwei Felder nach vorne und landet direkt
+> neben deinem Bauern, kannst du ihn im nächsten Zug so schlagen, als wäre er
+> nur ein Feld vorgerückt. Dieser Schlag ist nur sofort im darauffolgenden Zug
+> erlaubt.
 
-**2. What are the rules for Castling?**
-> You can only castle if all of the following conditions are met:
-> 1.  It is that king's very first move.
-> 2.  It is that rook's very first move.
-> 3.  There are no pieces between the king and the rook.
-> 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.
-
-**3. What is "En Passant"?**
-> *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.
-
-**4. Can the King capture pieces?**
-> Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
-
+**4. Darf der König selbst schlagen?**
+> Ja, der König darf gegnerische Figuren schlagen, solange das Zielfeld nicht
+> von einer gegnerischen Figur gedeckt ist – er darf sich niemals selbst ins
+> Schach stellen.

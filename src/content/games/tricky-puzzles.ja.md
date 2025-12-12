@@ -1,51 +1,48 @@
 ---
-locale: ja
-urlstr: tricky-puzzles
-title: '[JA TRANSLATION NEEDED] Brain Test: Tricky Puzzles'
-description: >-
-  [JA TRANSLATION NEEDED] Challenge your brain with Brain Test: Tricky Puzzles,
-  a mind-bending game that defies conventional logic! Solve unique riddles and
-  puzzles by tapping, dragging, and even rotating your device. Think outside the
-  box and explore every possibility to find the surprising solutions.
-iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
+title: Tricky Puzzles
+description: Tricky Puzzlesは、トリッキーなパズルゲームです。創造的思考で難しいパズルを解きましょう。
+iframeSrc: 'https://ubg98.github.io/TrickyPuzzles/'
 thumbnail: /new-images/tricky-puzzles.jpg
+urlstr: tricky-puzzles
+score: 4.3/5  (2234 votes)
 tags:
   - puzzle
-  - brain-teaser
+  - brain
   - logic
-score: 4.1/5  (713 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Brain Test: Tricky Puzzles is a popular and innovative puzzle game that challenges players to think outside the box. Unlike traditional puzzles, this game often requires unconventional solutions, encouraging players to interact with elements on the screen in unexpected ways, including tapping, dragging, and even rotating their device. It's designed to test your creativity and lateral thinking.
+Tricky Puzzlesは、常識を覆すトリッキーなパズルゲームです。明白な解決策は間違っていることが多く、箱の外で考える必要があります。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] Each level presents a unique riddle or puzzle. The solution is rarely straightforward and often involves misdirection or humor.
-- **Interaction:** Tap on objects, drag them around, or use multi-touch gestures.
-- **Observation:** Pay close attention to every detail on the screen, as even seemingly irrelevant elements might be part of the solution.
-- **Experimentation:** Don't be afraid to try anything. If a solution seems too obvious, it's probably a trick!
-- **Hints:** If you get stuck, hints are usually available, but try to solve it yourself first for the most satisfaction.
 
-### Controls Guide
+Each level presents a unique riddle or puzzle. The solution is rarely straightforward and often involves misdirection or humor.
+ - **パズルを観察：** 各パズルを注意深く見ます
+ - **創造的に考える：** 明白でない解決策を探します
+ - **相互作用：** 画面上のあらゆるものを試します
+ - **パズルを解く：** ユニークな方法で問題を解決します
 
-- **Tap:** Use your finger (on mobile) or mouse (on PC) to tap on objects.
-- **Drag:** Tap and hold, then move your finger/mouse to drag objects.
+### 操作ガイド
+
+ - **マウス：** クリックして相互作用
+
+
 - **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
 
-### Frequently Asked Questions (FAQ)
+- **Drag:** Tap and hold, then move your finger/mouse to drag objects.
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **Why are the puzzles so "tricky"?**
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] The puzzles are tricky because they often play on common assumptions or use wordplay and visual gags to mislead you. The solutions are usually simple once you figure out the "trick."
+各レベルのトリッキーなパズルを解くことです。
 
-[JA TRANSLATION NEEDED] **Is there a time limit for puzzles?**
+**なぜ"Tricky"なのですか？**
 
-[JA TRANSLATION NEEDED] Generally, there is no time limit for solving puzzles, allowing you to take your time and experiment.
+解決策は見た目ほど簡単ではなく、創造的思考が必要です。
 
-[JA TRANSLATION NEEDED] **How do I get hints?**
+**ヒントはありますか？**
 
-[JA TRANSLATION NEEDED] Hints are typically available after watching an ad or using in-game currency. They provide clues to help you solve the puzzle without giving away the full answer immediately.
-
+困ったときに使えるヒントシステムがあります。

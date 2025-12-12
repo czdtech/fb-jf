@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: highway-traffic
-title: '[FR] Highway Traffic'
+title: Highway Traffic
 description: >-
-  [FR] First‑person lane‑splitter: weave through highway cars, complete
-  missions, and earn cash for vehicles and upgrades.
+  Highway Traffic est un lane‑splitter arcade en vue interne ou poursuite :
+  faufile‑toi dans la circulation, évite les collisions et gagne de l’argent
+  pour acheter de nouveaux véhicules et améliorations.
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/highway-traffic.jpg
@@ -16,59 +17,68 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Highway Traffic représente un genre populaire de jeux de conduite arcade. Le principe est simple : tu roules sur une autoroute très fréquentée et ton objectif est de parcourir la plus grande distance possible sans entrer en collision avec les autres véhicules, tout en réalisant le meilleur score.
 
+Selon la version, le jeu utilise une vue à la première personne ou une caméra de poursuite. Tu dois te faufiler dans un trafic dense, changer de voie avec précision et dépasser les voitures à grande vitesse. Plus tu roules vite et plus le temps passe, plus la circulation devient chargée et le comportement des véhicules peut devenir imprévisible, ce qui demande de très bons réflexes.
 
+La plupart des jeux de ce type proposent :
+- **Plusieurs modes de jeu** : circulation à sens unique ou double, contre‑la‑montre, poursuites avec la police, etc.  
+- **Des véhicules à débloquer et à améliorer** : dépense l’argent gagné pour acheter de nouvelles voitures plus rapides ou avec une meilleure tenue de route, ou pour améliorer vitesse, freinage, maniabilité et apparence.  
+- **Des environnements variés** : différents moments de la journée (jour/nuit) et conditions météo (soleil, pluie…) pour diversifier le challenge.
 
-### **Game Introduction**
+### Stratégies de jeu et astuces
 
-"Highway Traffic" is a general name for a popular genre of arcade-style driving games. The core gameplay revolves around driving a car on a busy, seemingly endless highway. The primary objective is straightforward: **drive as long as possible to achieve the highest score and longest distance without crashing into other vehicles.**
+1.  **Conduis en douceur, pas en à‑coups**  
+    À haute vitesse, de petites corrections de trajectoire sont bien plus efficaces que de grands coups de volant. Des mouvements brusques peuvent te faire perdre le contrôle et provoquer un crash.
 
-These games typically use a first-person or a third-person chase camera perspective, creating an immersive high-speed driving experience. Players must weave through dense traffic, using precise lane changes and overtakes to maintain high speed. The challenge intensifies as speed increases and time passes, with traffic becoming heavier and AI vehicle behavior potentially more erratic, requiring quick reflexes and good predictive skills.
+2.  **Les « frôlements » rapportent gros**  
+    Dans la plupart des jeux de ce genre, dépasser une voiture de très près te donne des points bonus, du nitro ou un multiplicateur de score. Maîtriser ces frôlements est crucial pour les scores élevés, mais le risque augmente fortement.
 
-Most versions of *Highway Traffic* include the following elements:
-*   **[FR]** **Multiple Game Modes**: Such as one-way or two-way traffic, time trials, and police chase modes.
-*   **[FR]** **Vehicle Unlocks and Upgrades**: Players earn in-game currency to buy new cars that are faster or have better handling, or to upgrade the performance (speed, braking, handling) and appearance of their existing vehicles.
-*   **[FR]** **Varied Environments**: Offering different times of day (day, night) and weather conditions (sunny, rainy) to add challenge and visual diversity.
+3.  **Regarde loin devant et anticipe**  
+    Ne te focalise pas uniquement sur la voiture juste devant toi. Essaie de regarder plusieurs véhicules plus loin sur la route pour anticiper les changements de file, les ralentissements et les ouvertures de trafic.
 
-### **Gameplay Strategy & Tips**
+4.  **Utilise les freins avec parcimonie**  
+    Les freins sont essentiels pour éviter une collision imminente, mais un freinage fréquent ou trop fort fait chuter ta vitesse et ton rendement en points. Privilégie les changements de file fluides et garde les gros freinages pour les urgences.
 
-1.  **[FR]** **Drive Smoothly, Don't Jerk the Wheel**: At high speeds, small and smooth steering inputs are far more effective than sudden, sharp turns. Jerking the wheel can easily lead to losing control or overcorrecting, which often results in a crash.
-2.  **[FR]** **"Near Misses" are Key to High Scores**: Almost all games in this genre have a bonus system where you get extra points or nitro for overtaking another car at a very close distance. Mastering this skill is crucial for achieving high scores, but it comes with high risk.
-3.  **[FR]** **Look Far Ahead and Anticipate**: Don't just focus on the car directly in front of you. Your gaze should be as far down the road as possible, observing the movement of three or four cars ahead. This allows you to anticipate which lane will open up or which car might suddenly change lanes.
-4.  **[FR]** **Use Brakes, But Don't Abuse Them**: Brakes are a lifesaver for avoiding imminent collisions, but frequent or heavy braking will kill your speed and lower your scoring efficiency. Prioritize avoiding danger through smooth lane changes and only use heavy braking as a last resort.
-5.  **[FR]** **Utilize the Oncoming Lane in Two-Way Mode**: In two-way traffic mode, the oncoming lane often has less traffic and is a prime opportunity for near misses and score boosting. However, it's extremely dangerous. You must constantly watch for approaching cars and be ready to merge back into your lane.
-6.  **[FR]** **Upgrade Your Ride**: Don't be stingy with your in-game currency. Prioritize upgrading your car's **Handling** and **Brakes** first. These two stats are vital for surviving in dense traffic. Speed is important, but it's useless if you can't control it.
+5.  **Exploite la voie inverse en mode deux voies**  
+    En mode trafic à double sens, la voie en face est souvent moins chargée et idéale pour les frôlements et les gros scores. Mais elle est extrêmement dangereuse : surveille constamment les voitures qui arrivent en face et prépare toi à revenir dans ta voie à tout moment.
 
-### **Controls Guide**
+6.  **Améliore les bonnes statistiques en premier**  
+    Ne sois pas trop avare avec ton argent en jeu. Améliore en priorité la **maniabilité** et les **freins** de ta voiture pour survivre dans la circulation dense. La vitesse est importante, mais ne sert à rien si tu ne peux pas la contrôler.
 
-The controls for these games are usually very intuitive, especially on mobile devices.
+### Commandes
 
-*   **[FR]** **Mobile:**
-    *   **[FR]** **Steering**: The most common method is **tilt controls** (tilting your device to steer). Options for **on-screen buttons** or **touch-to-steer** are usually available in the settings.
-    *   **[FR]** **Acceleration**: Usually **automatic**, or there's a dedicated gas pedal button on the right side of the screen.
-    *   **[FR]** **Braking**: Usually a dedicated brake pedal button on the left side of the screen.
-*   **[FR]** **PC/Web:**
-    *   **[FR]** **Steering**: `A` and `D` keys or `Left/Right Arrow` keys.
-    *   **[FR]** **Acceleration**: `W` key or `Up Arrow` key.
-    *   **[FR]** **Braking**: `S` key or `Down Arrow` key.
+Les commandes sont généralement très intuitives, surtout sur mobile.
 
-### **Frequently Asked Questions (FAQ)**
+- **Sur mobile :**  
+    - **Direction** : souvent via l’inclinaison de l’appareil (tilt), mais certains jeux proposent aussi des boutons à l’écran ou un contrôle au toucher.  
+    - **Accélération** : automatique ou via une pédale virtuelle à droite.  
+    - **Freinage** : pédale de frein virtuelle à gauche.
 
-**1. Why can't I seem to reach top speed?**
-In most versions, you need to hold the accelerator or maintain a high speed for a period to reach your car's maximum velocity. Frequent braking or minor collisions with other cars will cause your speed to drop.
+- **Sur PC / navigateur :**  
+    - **Direction** : touches `A` / `D` ou `Flèche gauche` / `Flèche droite`.  
+    - **Accélérer** : touche `W` ou `Flèche haut`.  
+    - **Freiner** : touche `S` ou `Flèche bas`.
 
-**2. How do I earn more in-game currency?**
-The primary ways to earn currency are:
-*   **[FR]** **Driving a longer distance**: The further you go, the higher the base reward.
-*   **[FR]** **Performing near misses**: Each close overtake provides a bonus.
-*   **[FR]** **Maintaining high speed**: Driving above a certain speed (e.g., 100 km/h) continuously earns you extra points/cash.
-*   **[FR]** **Completing daily missions or challenges**.
+### Foire aux questions (FAQ)
 
-**3. Which car is the best?**
-There's no single "best" car; it depends on your driving style.
-*   **[FR]** **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.
-*   **[FR]** **Experts**: Can opt for cars with the highest **Top Speed** and **Acceleration** to maximize their scoring potential.
+**1. Pourquoi je n’atteins jamais la vitesse maximale ?**  
+Dans la plupart des versions, tu dois maintenir l’accélérateur ou rouler vite suffisamment longtemps pour atteindre la vitesse de pointe. Les freinages fréquents ou les petits chocs avec d’autres voitures réduisent ta vitesse.
 
-**4. What's special about the "Two-Way" mode?**
-The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.
+**2. Comment gagner plus d’argent en jeu ?**  
+Les méthodes principales sont :  
+- **Parcourir une grande distance** : plus tu vas loin, plus la récompense de base est élevée.  
+- **Effectuer des frôlements** : chaque dépassement très proche offre un bonus.  
+- **Garder une vitesse élevée** : rester au‑dessus d’une certaine vitesse (par exemple 100 km/h) pendant longtemps rapporte des points/cash supplémentaires.  
+- **Terminer des missions ou défis quotidiens**.
+
+**3. Quelle est la meilleure voiture ?**  
+Il n’y a pas de voiture parfaite : tout dépend de ton style de conduite.  
+- **Débutants** : privilégie les véhicules avec une bonne maniabilité et une grande stabilité, même s’ils ne sont pas les plus rapides.  
+- **Joueurs expérimentés** : peuvent choisir les voitures les plus rapides, avec une excellente accélération, pour maximiser le potentiel de score.
+
+**4. Qu’a de spécial le mode « Two‑Way » (double sens) ?**  
+Le mode double sens est plus difficile mais souvent plus rentable. Tu dois éviter le trafic circulant dans le même sens que toi et en sens inverse. Rouler longtemps sur la voie opposée rapporte généralement un bonus de score ou un multiplicateur.
+

@@ -1,10 +1,11 @@
 ---
 locale: zh
 urlstr: zombie-ragdoll
-title: '[ZH TRANSLATION NEEDED] Zombie Ragdoll'
+title: 'Zombie Ragdoll：布偶僵尸弹射解谜'
 description: >-
-  [ZH TRANSLATION NEEDED] Zombie Ragdoll is a ragdoll physics shooter — launch
-  corpses, trigger traps, and clear puzzles with chain reactions.
+  《Zombie Ragdoll》是一款带 ragdoll 物理效果的射击解谜游戏。
+  把僵尸布偶像炮弹一样发射出去，触发机关、引爆炸药、推倒结构，
+  利用连锁反应清除整片关卡。
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
 thumbnail: /new-images/zombie-ragdoll.jpg
 tags:
@@ -16,28 +17,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Zombie Ragdoll is a puzzle shooter where you fling ragdolls to trigger levers, hit explosives, and topple structures. Mastering launch angles and sequencing traps yields satisfying chain clears.
+《Zombie Ragdoll》是一款强调物理反馈和连锁机关的弹射解谜游戏。
+你需要把僵尸布偶从发射器中抛射出去，让它们砸中拉杆、按钮、炸药桶或脆弱支撑点，
+通过一连串倒塌与爆炸，把场景中的目标区域完全清理干净。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] First shot scouts physics; adjust angle/power after observing.
-2.  [ZH TRANSLATION NEEDED] Hit triggers first to open kill paths.
-3.  [ZH TRANSLATION NEEDED] Use bouncers/walls to redirect ragdolls.
-4.  [ZH TRANSLATION NEEDED] Save straight power shots for anchors.
-5.  [ZH TRANSLATION NEEDED] Minimal shots win bonuses — plan before firing.
+游戏的关键在于掌握发射角度与力度，
+观察每一关的机关布局后，规划好“第一发打哪里、第二发又触发什么”的顺序，
+才能用尽可能少的发射次数完成任务，拿到更高评价。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-- Drag to set angle/power and release to launch; restart via UI.
+1.  **第一发当“侦察弹”（First shot scouts physics）：**  
+    首次发射可以当作试探，观察布偶的抛物线与碰撞后的反应，
+    然后根据结果微调角度与力度。
+2.  **优先打关键机关（Hit triggers first）：**  
+    先击中拉杆、按钮、炸药桶等“关键点”，
+    打开后续的杀伤路径或制造更大规模的坍塌空间。
+3.  **利用弹板与墙壁（Use bouncers/walls）：**  
+    某些关卡会提供弹跳垫或可利用的墙面，
+    通过多段弹跳来让布偶绕到正常轨迹无法触及的位置。
+4.  **保留直线强力射击（Save straight power shots）：**  
+    对于需要大力冲撞的支撑物或远处目标，
+    可以留出几发几乎满力度、直线打击的“终结弹”。
+5.  **少发多效（Minimal shots）：**  
+    每发布偶都尽量提前规划好路线与触发顺序，
+    用最少次数触发最多机关，才能拿到关卡的高评分奖励。
 
-### Frequently Asked Questions (FAQ)
+### 操作说明
 
-- Q: I barely move structures.
-  
-[ZH TRANSLATION NEEDED]   A: Target supports or use explosives for leverage.
+- **拖拽瞄准与蓄力：** 按住并拖动来调整发射角度和力度，
+  松开即可将僵尸布偶抛射出去。
+- **重置关卡：** 通过界面按钮重新开始当前关卡，
+  在充分了解机关布局后再尝试完美路线。
 
-- Q: Shots feel random.
-  
-[ZH TRANSLATION NEEDED]   A: Make a scouting shot, then iterate with small angle/power tweaks.
+### 常见问题（FAQ）
 
+- **问：为什么总是很难推倒建筑？**  
+  **答：** 与其直接打在大块结构上，不如瞄准支撑点、关节处或炸药桶，
+  借助物理杠杆和爆炸力更容易让整块结构倒塌。
+
+- **问：感觉每次发射效果都不一样？**  
+  **答：** 这是 ragdoll 与物理模拟的特性，
+  建议先用一两发“试射”观察整体趋势，再通过微调角度和力度稳定路线。

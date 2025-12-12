@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: color-jump
-title: '[ZH TRANSLATION NEEDED] Color Jump'
+title: "Color Jump 色彩跳跃"
 description: >-
-  [ZH TRANSLATION NEEDED] Color Jump is a one‑tap runner — match colors, time
-  jumps, and thread through shifting patterns.
+  《Color Jump 色彩跳跃》是一款一键式跑酷反应游戏。通过精准把握起跳时机，让角色穿
+  过颜色匹配的门或平台，在不断加速与图案切换中保持节奏，躲开错误颜色。
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/color-jump.png
 tags:
@@ -17,31 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Color Jump is a minimalist reflex game where your character can pass only through matching‑color gates or platforms. Time jumps to align colors, avoid mismatched barriers, and maintain rhythm as speed increases.
+《Color Jump 色彩跳跃》是一款极简风格的反应类跑酷游戏，你操控的角色只能穿过与自身
+颜色相匹配的门、栏杆或平台。通过在合适的时间点起跳，对齐正确的颜色区域，同时避开
+不匹配的障碍物，才能一路向前。
+
+随着游戏进行，跑动速度会逐渐提升，颜色门的组合与高度变化也会变得更加复杂。你需要
+在高速前进的情况下，兼顾节奏感与颜色判断，才能在不断变化的节奏中存活更久。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Read two obstacles ahead; don’t fixate on the nearest gate.
-2.  [ZH TRANSLATION NEEDED] Keep a steady tap cadence; late jumps often dodge low obstacles better.
-3.  [ZH TRANSLATION NEEDED] Skip risky coins when alignment is off.
-4.  [ZH TRANSLATION NEEDED] Practice color order patterns if they loop.
-5.  [ZH TRANSLATION NEEDED] Use sound cues to stabilize timing on dense sets.
+
+1.  **提前读两道障碍，而不是只看眼前：** 不要只盯着即将撞上的那一扇门，视线尽量放在
+    前方两组障碍上，提前判断色块顺序和高度变化，这样在节奏加快时也能保持从容。
+2.  **保持稳定敲击节奏：** 比起完全靠“反射神经”，更推荐给自己建立一个相对稳定的点击
+    节奏。略晚一拍起跳，往往更容易越过低矮障碍，也能给你多一点时间看清颜色。
+3.  **对对齐困难的金币说“不”：** 如果收集金币会破坏你对颜色门的理想路线，宁可放弃
+    这枚金币，也不要冒险改变原本安全的节奏。稳定通关比为了一点额外收益冒险要划算。
+4.  **记住循环的颜色顺序：** 部分关卡的颜色组合会以固定顺序循环出现。如果你发现颜色
+    门在按某种规律反复出现，可以刻意去记住这个顺序，从而提前做出节奏安排。
+5.  **善用声音节奏：** 如果你觉得视觉信息太多，可以适当借助游戏的音效节奏来稳定自己
+    的点击频率——在连续障碍密集出现时尤其有效。
 
 ### Controls Guide
 
-- Tap/Click to jump; some variants allow double jumps.
-- Pause/Restart via UI.
+- 点击/轻触屏幕即可让角色起跳；部分版本支持二段跳，请留意新手教程中的提示说明。
+- 屏幕上的暂停或重开按钮可用于中途休息或快速重来。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I always hit the wrong color — any fix?
-  
-[ZH TRANSLATION NEEDED]   A: Focus on the next two gates and time jumps slightly later to line up with high platforms.
+- **Q: 我总是撞在错误的颜色上，有什么办法改善？**  
+  **A：** 尝试把视线放在前方两组障碍上，而不是只盯眼前的一道门，并适当把起跳时机稍
+  微推迟一点，让角色在腾空时“落到”目标色块位置。同时多练习在同一节奏下连续通过两三
+  道门，建立肌肉记忆。
 
-- Q: Is there an end?
-  
-[ZH TRANSLATION NEEDED]   A: Often endless; set personal bests.
+- **Q: 这游戏有终点吗？**  
+  **A：** 大多数版本采用无尽模式，没有固定终点。你的目标是不断刷新自己的最佳成绩，挑
+  战更高的通过距离或得分。
 
-- Q: Double jump?
-  
-[ZH TRANSLATION NEEDED]   A: Some builds include it; watch the tutorial prompt.
-
+- **Q: 是否一定有二段跳？**  
+  **A：** 具体取决于当前版本。有些构建提供二段跳，有些则没有。进入游戏时留意新手教程
+  或屏幕提示，如果有二段跳，一般会在提示中明确说明。

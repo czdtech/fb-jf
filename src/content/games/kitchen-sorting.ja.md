@@ -1,72 +1,37 @@
 ---
+title: "Kitchen Sorting"
+description: "Kitchen Sortingは整頓された分類パズルゲームです。時間のプレッシャーの下で食品、道具、廃棄物を正しく分類し、交差汚染を避けましょう。"
+iframeSrc: "https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/"
+thumbnail: "/new-images/kitchen-sorting.png"
+urlstr: "kitchen-sorting"
+score: "3.9/5  (1744 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: kitchen-sorting
-title: '[JA TRANSLATION NEEDED] Kitchen Sorting'
-description: >-
-  [JA TRANSLATION NEEDED] Kitchen Sorting is a tidy categorization puzzler —
-  sort foods, tools, and waste correctly under time pressure while avoiding
-  cross‑contamination.
-iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
-thumbnail: /new-images/kitchen-sorting.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 3.9/5  (1744 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Kitchen Sortingは、アイテムを正しい箱に入れることに関する速い視覚論理ゲームです：農産物対肉類、リサイクル可能対ゴミ、きれいな道具対汚れた道具、熱対冷蔵庫保存など。レベルでは誤導表示（例：調理済み対生）、コンボ目標（安全なアイテムを3つ連続で分類）、誤配置や遅延に対するペナルティが追加されます。同時進行のコンベアと、交差汚染を罰するより厳しい衛生ルールで難易度が上がります。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Kitchen Sorting is a fast, visual logic game about placing items into correct bins: produce vs meats, recyclables vs trash, clean tools vs dirty ones, hot vs cold storage, etc. Levels add misleaders (e.g., cooked vs raw), combo objectives (sort three safe items in a row), and penalties for wrong placement or delays. Difficulty rises with simultaneous conveyors and stricter hygiene rules that punish cross‑contamination.
+1.  **大きなルールを最初に:** 細かいカテゴリーの前に、健康上重要な分割（生肉対すぐに食べられるもの）を優先しましょう。
+2.  **視覚的手がかり:** 決定を速くするために、アイコン（リサイクルマーク、温度計の記号）を学びましょう。
+3.  **バッファリング（一時保管）:** 許可されている場合、急いでいる間の間違いを避けるために、不明なアイテムを一時的に保管します。
+4.  **コンボルーティング:** ストリーク倍率を維持するために簡単なアイテムをチェインしましょう。静かな時にトリッキーなアイテムを挿入します。
+5.  **エラーコントロール:** 1つのミスは、わずかな遅延よりもコストがかかります。不確実な選択はスキップしましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Big rules first: Prioritize health‑critical splits (raw meats vs ready‑to‑eat) before fine categories.
-[JA TRANSLATION NEEDED] 2.  Visual cues: Learn iconography (recycle marks, thermometer symbols) to speed decisions.
-[JA TRANSLATION NEEDED] 3.  Buffering: If allowed, park unclear items briefly to avoid mistakes under rush.
-[JA TRANSLATION NEEDED] 4.  Combo routing: Chain easy items to maintain streak multipliers; insert tricky items during lulls.
-[JA TRANSLATION NEEDED] 5.  Error control: One mistake costs more than a slight delay — skip uncertain picks.
+- ラベル付きの箱にアイテムをドラッグまたはタップします。UI経由で一時停止/再試行。ヒントは正しいゾーンを強調表示する場合があります。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Drag or tap items into labeled bins; pause/retry via UI; hints may highlight correct zones.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I confuse recyclables and trash — any advice?
-  
-[JA TRANSLATION NEEDED]   A: Memorize a few anchors (glass, cans, cardboard) as “always recycle”; uncertain plastics go to trash unless labeled.
-
-- Q: Combo streaks keep breaking.
-  
-[JA TRANSLATION NEEDED]   A: Feed easy items first to stabilize streaks, then slip harder ones during slowdowns.
-
-- Q: Are penalties harsh?
-  
-
-
-
-
-
-- Q: I confuse recyclables and trash — any advice?
-### よくある質問（FAQ）
-- Drag or tap items into labeled bins; pause/retry via UI; hints may highlight correct zones.
-### コントロールガイド
-- Error control: One mistake costs more than a slight delay — skip uncertain picks.
-[JA TRANSLATION NEEDED]   A: Later levels penalize hygiene mistakes heavily; skip if unsure rather than risking a red mark.
-
-
-
-
-
-
-A: Later levels penalize hygiene mistakes heavily; skip if unsure rather than risking a red mark.
-- Q: Are penalties harsh?
-A: Feed easy items first to stabilize streaks, then slip harder ones during slowdowns.
-- Q: Combo streaks keep breaking.
-
-
-A: Later levels penalize hygiene mistakes heavily; skip if unsure rather than risking a red mark.
+- **Q: リサイクル可能とゴミを混同してしまいます。アドバイスは？**
+  A: いくつかのアンカー（ガラス、缶、段ボール）を「常にリサイクル」として記憶しましょう。不確実なプラスチックは、ラベルがない限りゴミに入れます。
+- **Q: コンボストリークが途切れ続けます。**
+  A: ストリークを安定させるために最初に簡単なアイテムを供給し、スローダウン中により難しいアイテムを滑り込ませましょう。
+- **Q: ペナルティは厳しいですか？**
+  A: 後半のレベルは衛生上の間違いを重くペナルティします。確信が持てない場合は、レッドマーク（ペナルティマーク）を危険にさらすよりもスキップしましょう。

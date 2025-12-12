@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: armored-assault-strike
-title: '[ES] Armored Assault Strike'
+title: "Armored Assault Strike shooter de vehículos blindados"
 description: >-
-  [ES] Armored Assault Strike is a top‑down vehicle shooter — maneuver armor,
-  manage cooldowns, and crush hostiles.
+  Armored Assault Strike es un shooter cenital de vehículos acorazados. Mueve tu
+  blindado, gestiona enfriamientos y habilidades y destruye oleadas de enemigos
+  sin exponerte demasiado.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/armored-assault-strike.png
 tags:
@@ -15,27 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Armored Assault Strike combina disparos arcade con un toque de posicionamiento
+estratégico. Controlas un vehículo blindado visto desde arriba, rodeas enemigos
+peligrosos, usas el terreno como cobertura y encadenas habilidades para limpiar
+oleadas con eficacia sin dejar tu casco a merced del fuego rival.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Armored Assault Strike blends arcade shooting with light positioning. Circle tough foes, use terrain for cover, and chain abilities to break waves efficiently without overexposing your hull.
+1.  **Mantén a los élites a distancia y corta su línea de fuego cuando te presionen:**
+    No te quedes quieto delante de enemigos fuertes; muévete en círculos y usa
+    esquinas y obstáculos para cortar su ángulo de disparo.
+2.  **Ráfagas y enfriamiento:** Dispara en ráfagas controladas para no
+    sobrecalentar armas ni quedarte sin habilidades en momentos críticos.
+3.  **Foco en objetivos prioritarios:** Elimina primero a los enemigos más
+    peligrosos, como lanzacohetes o unidades de daño en área, antes de limpiar
+    los rivales menores.
+4.  **Traza rutas seguras hacia los objetos:** Planifica cómo recoger vida,
+    munición o potenciadores sin cruzar el mapa a campo abierto en mitad del
+    combate.
+5.  **Guarda tus escapes para emergencias:** Habilidades de impulso rápido,
+    escudos o acelerones son tu seguro de vida; no las gastes en situaciones triviales.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Kite elites and break line‑of‑sight when pressured.
-2.  **[ES]** Burst and cool: Fire in bursts to control heat/cooldowns.
-3.  **[ES]** Focus fire on priority targets (rockets/aoe casters).
-4.  **[ES]** Route safe pickups and avoid mid‑fight crossovers.
-5.  **[ES]** Save escapes (dash/shield) for emergencies.
+- **Movimiento:** Teclas WASD o flechas para desplazar el vehículo.
+- **Apuntar/Disparar:** Según la versión, apunta con el ratón o con el stick y
+  dispara con el botón indicado en la interfaz.
+- **Habilidades:** Usa las teclas rápidas para activar habilidades especiales
+  con enfriamiento.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move with WASD/Arrows; aim/fire per UI; trigger abilities on hotkeys.
+- **Me derriten muy rápido, ¿por qué?**  
+  Probablemente estás demasiado expuesto en campo abierto. Usa coberturas y haz
+  kiting en lugar de quedarte quieto intercambiando disparos.
 
-### Frequently Asked Questions (FAQ)
+- **¿La munición es limitada?**  
+  En algunos modos sí. Ahorra balas contra enemigos débiles y reserva ráfagas
+  largas para élites o jefes.
 
-- I melt fast—why? Overexposed in the open; use cover and kiting.
-- Ammo limited? Conserve on trash; burst elites.
-- Bosses? Learn patterns and break adds first.
-
+- **¿Cómo enfrento a los jefes?**  
+  Aprende sus patrones de ataque, limpia primero a los enemigos menores que los
+  acompañan y aprovecha las ventanas seguras para hacer daño concentrado.

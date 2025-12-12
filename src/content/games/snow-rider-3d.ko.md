@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: snow-rider-3d
-title: '[KO] Snow Rider 3D'
+title: Snow Rider 3D 스노우 라이더 3D
 description: >-
-  [KO] Jump on your sled in Snow Rider 3D, a fast-paced winter-themed action
-  game. Steer down the snowy hills, dodge obstacles like trees and snowmen, and
-  use ramps to perform jumps. Collect gifts to unlock new sleds and challenge
-  your reflexes to get the highest score.
+  눈 덮인 산을 썰매로 내려오는 3D 액션 게임입니다. 나무와 눈사람 같은 장애물을 피하고 점프대를 활용해 멀리 날아오르며, 선물을 모아
+  새로운 썰매를 해금해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/snow-rider-3d.jpg
@@ -20,32 +18,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Snow Rider 3D is a fast-paced, winter-themed action game where you ride a sled down a vast, snowy mountain. The goal is to travel as far as possible while skillfully dodging a variety of obstacles, including trees, rocks, snowmen, and boulders. It's a test of reflexes and anticipation as the speed increases and the challenges become more intense.
+*Snow Rider 3D*는 광활한 설산을 배경으로 썰매를 타고 내려오는
+속도감 있는 겨울 액션 게임입니다. 플레이어는 내려가는 동안 나무,
+바위, 눈사람, 바oulder 등 다양한 장애물을 피해, 가능한 한 멀리까지
+도달해 최고 점수를 노려야 합니다.
 
-### Gameplay Guide
+경사가 내려갈수록 속도가 점점 빨라지기 때문에, 예측과 반사 신경이
+동시에 요구됩니다.
 
-Your main objective is to get the highest score by surviving for as long as you can. Look ahead to anticipate upcoming obstacles and plan your path accordingly. Use the ramps scattered on the hill to your advantage by jumping over large obstacles or clusters of trees. Along the way, you can collect gifts which can be used to unlock new and cooler sleds in the shop.
+### 플레이 가이드
 
-### Controls Guide
+목표는 장애물에 부딪히지 않고 최대한 멀리까지 내려가는 것입니다.
+
+- 미리 앞을 보고 다가오는 장애물을 확인하며, 좌우로 경로를
+  조정해 피해 나가세요.  
+- 언덕에 배치된 점프대를 활용하면 큰 장애물을 한 번에 뛰어넘거나,
+  나무가 빽빽한 구간을 건너뛸 수 있습니다.  
+- 길에 놓인 선물 상자를 모으면 상점에서 새로운 썰매를 구매할 수
+  있습니다.
+
+### 조작 가이드
+
 
 The controls are simple and responsive:
-- **Steer Left:** `A` or `Left Arrow` key
-- **Steer Right:** `D` or `Right Arrow` key
-- **Jump:** `W` or `Up Arrow` key
+- **왼쪽으로 조향**: `A` 또는 왼쪽 방향키  
+- **오른쪽으로 조향**: `D` 또는 오른쪽 방향키  
+- **점프**: `W` 또는 위쪽 방향키로 점프합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**What is the main goal of Snow Rider 3D?**
+**Q: Snow Rider 3D의 주요 목표는 무엇인가요?**  
+**A:** 장애물에 부딪히거나 쓰러지지 않고 최대한 멀리 내려가 높은
+점수를 얻는 것입니다.
 
-The goal is to achieve the highest possible score by sledding as far as you can without crashing into an obstacle.
+**Q: 새로운 썰매는 어떻게 해금하나요?**  
+**A:** 플레이 중 코스에 등장하는 선물 상자를 모으면, 일정 수량
+이상 모았을 때 상점에서 다양한 썰매를 구매해 사용할 수 있습니다.
 
-**How can I unlock new sleds?**
-
-You can unlock new sleds by collecting the gift boxes that appear on the slope as you play. Once you have enough, you can purchase new sleds from the in-game shop.
-
-**What's the best strategy for a high score?**
-
-Focus on survival above all else. Make small, controlled movements instead of sharp turns. Look far ahead to anticipate obstacles and don't take unnecessary risks just to grab a gift. Mastering the timing of your jumps is also crucial for clearing difficult sections.
-
+**Q: 고득점을 위해 어떤 전략이 좋나요?**  
+**A:** 생존을 최우선으로 두고, 큰 장애물 앞에서는 과감히 속도를
+줄이거나 넓은 경로를 선택하는 것이 좋습니다. 선물을 무리해서
+노리다 보면 오히려 일찍 끝날 수 있으니, 여유가 있을 때만 챙기세요.

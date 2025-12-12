@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: bombs-drops-physics-balls
-title: '[ES] Bombs Drops Physics balls'
+title: "Bombs Drops Physics Balls"
 description: >-
-  [ES] Bombs Drops Physics balls is a playful physics puzzler — time drops,
-  trigger chain reactions, and clear targets with smart setups.
+  Bombs Drops Physics balls es un puzle de física desenfadado: calcula el
+  momento de cada caída, encadena reacciones en cadena y limpia los objetivos
+  con montajes inteligentes.
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
 thumbnail: /new-images/bombs-drops-physics-balls.jpg
 tags:
@@ -16,36 +17,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bombs Drops Physics balls mezcla gravedad, sincronización y demolición sencilla. Deja
+caer bolas o bombas sobre estructuras, derriba pilas y provoca reacciones en
+cadena para cumplir los objetivos de cada nivel. La gracia está en encontrar
+soluciones mínimas y elegantes que aprovechen la física a tu favor.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Bombs Drops Physics balls mixes gravity, timing, and simple demolition. Drop balls or bombs onto contraptions, topple stacks, and trigger chain reactions to meet level goals. The fun is in finding minimal, elegant solutions that use physics in your favor.
+1.  **Localiza los puntos débiles:** Apunta a soportes, cuñas o piezas en
+    tensión para colapsar estructuras de forma eficiente.
+2.  **Templa las cascadas:** Retrasa las segundas caídas para que el primer
+    impacto prepare el terreno.
+3.  **Juega con los ángulos:** Golpear de lado genera par y vuelcos mucho más
+    espectaculares que las caídas totalmente verticales.
+4.  **Minimiza las caídas:** Menos caídas, pero mejor pensadas, suelen ser
+    mejores que soluciones basadas en lanzar bombas sin control.
+5.  **Reinicia a menudo:** Los reinicios rápidos te permiten iterar la sincronización y
+    los ángulos hasta encontrar la línea perfecta.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Scout weak points: Hit supports, wedges, or tensioned pieces to collapse structures efficiently.
-2.  **[ES]** Time cascades: Delay second drops so the first impact sets the stage.
-3.  **[ES]** Use angles: Side hits create torque and bigger topples than straight drops.
-4.  **[ES]** Minimize drops: Fewer, smarter drops often beat spammy solutions.
-5.  **[ES]** Reset often: Quick retries help you iterate on timing and angles.
+- Apunta y suelta con ratón o pantalla táctil; en algunos niveles puedes dar
+  pequeños empujones a ciertos elementos.
+- Usa Reiniciar/Deshacer cuando estén disponibles para probar variaciones de forma rápida.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim and drop with mouse/touch; some levels allow limited nudges.
-- Reset/Undo where available for fast iteration.
+- **P: Mis caídas casi no mueven nada, ¿qué hago mal?**
 
-### Frequently Asked Questions (FAQ)
+  R: Probablemente estés golpeando el centro de las estructuras. Intenta
+  impactar en bordes y soportes para generar par y provocar verdaderos
+  derrumbes.
 
-- Q: My drops barely move anything—what am I missing?
+- **P: ¿Cuenta el juego las caídas que me sobran?**
 
-A: You’re striking center mass. Target edges and supports to generate torque and collapses.
+  R: En muchos niveles se premian las soluciones mínimas; intenta completarlos
+  dejando bombas sin usar.
 
-- Q: Is there scoring for fewer drops?
+- **P: ¿Hace falta una sincronización perfecta?**
 
-A: Many levels bonus minimal solutions; aim to complete with spare bombs.
-
-- Q: Do levels require perfect timing?
-
-A: A few do, but most reward clear planning more than twitch timing.
-
+  R: Solo unos pocos niveles exigen una sincronización muy precisa. La mayoría recompensan
+  más una planificación clara que reflejos súper rápidos.

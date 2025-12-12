@@ -1,42 +1,36 @@
 ---
+title: "Iron Snout"
+description: "カンフー豚の格闘ゲーム：オオカミを受け流し、キックでジャグリングし、武器を投げ返して波を生き延び、ハイスコアを目指しましょう。"
+iframeSrc: "https://webglmath.github.io/iron-snout/"
+thumbnail: "/new-images/iron-snout.jpg"
+urlstr: "iron-snout"
+score: "4.3/5  (842 votes)"
+tags: ["fighting", "arcade"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: iron-snout
-title: '[JA TRANSLATION NEEDED] Iron Snout'
-description: >-
-  [JA TRANSLATION NEEDED] Kung‑fu pig brawler: parry wolves, juggle with kicks,
-  and throw back weapons to survive waves and set high scores.
-iframeSrc: 'https://webglmath.github.io/iron-snout/'
-thumbnail: /new-images/iron-snout.jpg
-tags:
-  - fighting
-  - arcade
-score: 4.3/5  (842 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Iron Snoutは、武術を使う豚がオオカミと戦う、速い2D格闘ゲームです。シンプルな方向入力で、パンチ、キック、しゃがみ、ジャンプを行い、攻撃を受け流し、投げられた斧を掴み、ロケットを反射します。生き残りは、予告された動きを読み、カウンターの安定したリズムを維持することにかかっています。
 
+### 遊び方
+- 敵の予兆を見ましょう。ジャンプキックは敵を浮かせて複数ヒット、しゃがみは頭上攻撃を回避します。
+- 空中の武器を掴んで投げ返し、ボーナスダメージを与えましょう。
+- 両側に反応できるように、戦闘を中央に保ちましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Iron Snout is a fast 2D brawler starring a martial‑arts pig fighting wolves. With simple directional inputs you punch, kick, duck, and jump to parry attacks, catch thrown axes, and reflect rockets. Survival hinges on reading telegraphed moves and maintaining a steady rhythm of counters.
+### 操作方法
+- 矢印キー/WASDの方向が攻撃、ジャンプ、しゃがみをトリガーします。攻撃ボタンは不要です。
 
-### How to Play
-- Watch enemy tells; jump‑kicks pop foes for multi‑hits, duck avoids overheads.
-- Catch airborne weapons and toss them back for bonus damage.
-- Keep the fight centered to react to both sides.
+### ヒント
+- 遠距離の敵を優先しましょう。飛び道具はコンボの流れを妨げます。
+- スコアのために軽い敵をジャグリングし、武器を返して重い敵を仕留めましょう。
+- 自分を隅に追い込まないでください。頻繁に画面中央にリセットしましょう。
 
-### Controls
-- Arrow/WASD directions trigger attacks, jumps, and ducks; no attack buttons needed.
-
-### Tips
-- Prioritize ranged enemies; projectiles disrupt combo flow.
-- Juggle light foes for score; finish heavies with weapon returns.
-- Don’t corner yourself—reset to mid‑screen often.
-
-### FAQ
-- Q: How do I deal with multiple directions of attack at once?  
-[JA TRANSLATION NEEDED]   A: Stay near center stage and respond to the closest telegraph first.
-- Q: Can I catch weapons in this game?  
-[JA TRANSLATION NEEDED]   A: Yes—press toward flying weapons to grab and throw them back.
-- Q: Is there an end to the waves?  
-[JA TRANSLATION NEEDED]   A: Most modes are endless until you run out of health.
-
+### よくある質問 (FAQ)
+- **Q: 複数の方向からの攻撃に同時に対処するには？**  
+  A: ステージの中央近くに留まり、最も近い予告に最初に反応しましょう。
+- **Q: このゲームで武器を掴むことはできますか？**  
+  A: はい。飛んでくる武器に向かって押して掴み、投げ返します。
+- **Q: 波に終わりはありますか？**  
+  A: ほとんどのモードは、体力がなくなるまでエンドレスです。

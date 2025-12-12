@@ -1,10 +1,12 @@
 ---
 locale: es
 urlstr: the-hidden-antique-shop
-title: '[ES] The Hidden Antique Shop'
+title: "The Hidden Antique Shop - Objetos ocultos en la tienda"
 description: >-
-  [ES] The Hidden Antique Shop is a cozy hidden‑object — scan scenes, spot
-  subtle differences, and solve light puzzles in a vintage store.
+  Adéntrate en The Hidden Antique Shop, una acogedora tienda de antigüedades
+  llena de objetos ocultos. Recorre cada rincón, detecta las diferencias más
+  sutiles y resuelve pequeños rompecabezas para abrir nuevas vitrinas y
+  estanterías.
 iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
 thumbnail: /new-images/the-hidden-antique-shop.png
 tags:
@@ -15,32 +17,29 @@ score: 4.1/5  (1988 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Explora una tienda vintage repleta de curiosidades: encuentra objetos ocultos, empareja siluetas con los artículos correctos y resuelve pequeños mecanismos para desbloquear nuevas estanterías. Los temporizadores suaves y las pistas opcionales hacen que sea una experiencia relajante, pero seguirás necesitando una buena vista para detectar los detalles más pequeños.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  Barrido por cuadrículas: divide la escena en zonas y examina cada área con calma.
+2.  Mira los bordes: marcos, molduras y líneas de sombra suelen esconder objetos.
+3.  Coincidencia de siluetas: compara cuidadosamente la silueta con los posibles objetos antes de hacer clic.
+4.  Ahorro de pistas: reserva las pistas para los 1–2 últimos objetos realmente difíciles.
+5.  Truco de contraste: aleja o acerca la vista para notar pequeñas diferencias de color o brillo.
 
-Explore a vintage shop full of curios: find hidden objects, match silhouettes, and solve simple locks to open new shelves. Gentle timers and hints make it accessible while still rewarding careful observation.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Haz clic para recoger objetos; usa pellizco/zoom si está disponible; solicita pistas desde la interfaz cuando las necesites.
 
-1.  **[ES]** Grid sweep: Divide scenes and scan zone by zone.
-2.  **[ES]** Edge focus: Borders and shadow lines hide items frequently.
-3.  **[ES]** Silhouette match: Align outlines with candidate objects before clicking.
-4.  **[ES]** Hint rationing: Save hints for the last 1–2 stubborn items.
-5.  **[ES]** Contrast tricks: Squint/zoom to spot small contrast differences.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- Q: Me falta siempre el último objeto, ¿qué hago?
+  
+  A: Vuelve a revisar los bordes de la escena y los patrones repetidos (estanterías, baldosas, paredes). Si aun así no lo encuentras, entonces usa una pista.
 
-- Click to collect; pinch/zoom if supported; hints via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m missing one last item.
-
-A: Re‑scan edges and repeated patterns; only then use a hint.
-
-- Q: Do mistakes penalize?
-
-A: Many builds dock time for mis‑clicks; click deliberately.
+- Q: ¿Me penalizan los errores?
+  
+  A: En muchas versiones, los clics erróneos restan tiempo del reloj, así que intenta hacer clic solo cuando estés seguro.
 

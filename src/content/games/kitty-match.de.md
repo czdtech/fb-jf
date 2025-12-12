@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: kitty-match
-title: '[DE] Kitty Match'
+title: Kitty Match
 description: >-
-  [DE] Welcome to Kitty Match, a purr-fectly delightful match-3 puzzle game!
-  Swap colorful cat-themed items to make matches and complete challenging
-  levels.
+  Willkommen in Kitty Match, einem "purr-fekt" gemütlichen Match-3-Puzzlespiel!
+  Tausche bunte Katzen-Symbole, bilde Kombos und meistere knifflige Level.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/kitty-match.png
 tags:
@@ -17,31 +16,65 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Kitty Match ist ein charmantes, süchtig machendes Match-3-Puzzlespiel voller
+niedlicher Katzen und farbenfroher Herausforderungen. Dein Ziel ist es,
+benachbarte Felder zu vertauschen, um Reihen aus drei oder mehr gleichen
+Symbolen zu bilden.
 
-### Detailed Game Introduction
+Jedes Level hat eigene Aufgaben – etwa eine bestimmte Anzahl an Items zu
+sammeln oder spezielle Blöcke zu entfernen. Mit jedem geschafften Level
+schaltest du Belohnungen frei und reist durch eine verspielte Katzenwelt.
+Das Spiel ist entspannt und eignet sich für alle Altersgruppen, besonders
+für Puzzle- und Katzenfans.
 
-Kitty Match is a charming and addictive match-3 puzzle game filled with cute cats and colorful challenges. The goal is to swap adjacent tiles to create lines of three or more identical items. Each level has a unique objective, such as collecting a certain number of specific items or clearing special blocks. By completing levels, you can earn rewards and progress through a delightful, cat-filled world. It's a relaxing game for all ages, perfect for puzzle and cat lovers alike.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  **Auf große Matches achten**  
+    Drei gleiche Symbole sind gut, vier oder fünf sind besser. Größere Matches
+    erzeugen Spezialkacheln, die ganze Reihen oder Spalten räumen oder als
+    Bombe eine größere Fläche sprengen.
 
-1.  **[DE]** **Look for Big Matches:** While matching three items is good, matching four or five items is even better! These larger matches create special power-up tiles that can clear entire rows, columns, or explode to clear a whole area.
-2.  **[DE]** **Plan Your Moves:** You only have a limited number of moves in each level. Before making a swap, look at the whole board and try to plan a few moves ahead. Prioritize matches that will help you achieve the level's goal.
-3.  **[DE]** **Combine Power-ups:** The real magic happens when you combine two special power-up tiles. Swapping a bomb with a rocket, for example, can create a massive board-clearing effect. Experiment with different combinations.
-4.  **[DE]** **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade of new tiles to fall, often creating new matches automatically. This is a great way to clear the board efficiently.
+2.  **Züge planen**  
+    Du hast pro Level nur eine begrenzte Anzahl an Zügen. Schaue dir das ganze
+    Spielfeld an, bevor du tauschst, und plane ein paar Züge voraus. Priorisiere
+    Kombinationen, die direkt am Levelziel arbeiten.
 
-### Controls Guide
+3.  **Power-ups kombinieren**  
+    Die stärksten Effekte entstehen, wenn du zwei Spezialkacheln miteinander
+    vertauschst – etwa eine Bombe mit einer Rakete. So räumst du einen großen
+    Teil des Boards in einem Zug.
 
-*   **[DE]** **Swap Tiles:** Use your mouse to click and drag an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
+4.  **Von unten beginnen**  
+    Matches am unteren Rand sorgen dafür, dass viele neue Steine nachrutschen
+    und automatisch neue Reihen bilden. So räumst du das Feld effizient und
+    nutzt Kettenreaktionen.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-*   **[DE]** **Q: What is the goal of each level?**
-    *   **[DE]** **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.
+*   **Felder tauschen:** Klicke ein Symbol an und ziehe es auf ein benachbartes
+    Feld, um die Position zu vertauschen. Der Zug ist nur gültig, wenn dabei
+    mindestens drei gleiche Symbole in einer Reihe oder Spalte entstehen.
 
-*   **[DE]** **Q: What happens if I run out of moves?**
-    *   **[DE]** **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
+### FAQ
 
-*   **[DE]** **Q: How do I create a bomb?**
-    *   **[DE]** **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
+*   **F: Was ist das Ziel eines Levels?**  
+    **A:** Am Anfang jedes Levels wird das Ziel eingeblendet – zum Beispiel eine
+    bestimmte Anzahl einer Farbe zu sammeln, alle Gelee-Felder zu entfernen oder
+    spezielle Items bis nach unten zu bringen.
 
+    - **F: Was passiert, wenn mir die Züge ausgehen?**  
+    **A:** Erreichst du das Levelziel nicht, bevor deine Züge aufgebraucht sind,
+    verlierst du ein Leben und musst das Level erneut versuchen.
+
+*   **F: Wie erstelle ich eine Bombe?**  
+
+    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
+
+- **Q: How do I create a bomb?**
+
+    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
+    **A:** In der Regel erhältst du eine Bomben-Kachel, wenn du fünf gleiche
+    Symbole in L- oder T-Form verbindest. Beim Auslösen räumt sie ein größeres
+    Gebiet um sich herum.

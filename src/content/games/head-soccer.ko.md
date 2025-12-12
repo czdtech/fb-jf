@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: head-soccer
-title: '[KO] Head Soccer'
+title: "Head Soccer 헤드 사커 1대1"
 description: >-
-  [KO] 1v1 arcade football with giant heads: jump, shoot, and use power shots to
-  outscore your opponent in short matches.
+  커다란 머리 캐릭터가 나오는 1대1 아케이드 축구 게임입니다. 점프와 슛,
+  필살 슛을 활용해 짧은 시간 안에 상대보다 더 많은 골을 넣어 보세요.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/head-soccer.jpg
 tags:
@@ -18,27 +18,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Head Soccer condenses football to punchy 1v1 duels with oversized heads and simple physics. Matches last seconds to minutes; power‑ups and special shots create swing moments. Win by outscoring within the timer or golden‑goal rules.
+### 게임 개요
 
-### How to Play
-- Position under lobs for headers; volley low balls for speed.
-- Trigger specials when the goal is open; block with timely jumps.
-- In two‑player, divide roles—pressure vs. coverage.
+`Head Soccer`는 축구를 단순화한 1대1 대전 게임으로, 몸집보다 머리가 훨씬 큰
+캐릭터들이 필드 위를 뛰어다니며 공을 주고받습니다. 경기 시간은 짧고,
+파워업과 특수 슛이 한 번에 분위기를 바꾸는 경우가 많습니다. 제한 시간 안에
+더 많은 골을 넣거나, 골든 골 규칙으로 먼저 득점하면 승리합니다.
 
-### Controls
-- Arrows/WASD to move/jump; shoot/special keys vary by host.
+### 플레이 방법
 
-### Tips
-- Early jump + tap shot produces fast low drives.
-- Save specials for counterattacks or rebounds.
-- Defensively, stand slightly off‑line to angle clearances.
+- 하이볼이 뜰 때는 공의 낙하지점 아래로 파고들어 헤딩을 시도하고, 낮게
+  오는 공은 발리 슛으로 강하게 차내세요.
+- 필살기 게이지가 찼을 때는 골문이 비어 있거나 수비가 정돈되지 않았을 때
+  사용해 성공률을 높이고, 상대의 필살 슛은 적절한 점프로 막아야 합니다.
+- 2인용 모드에서는 한 명이 공격 압박을, 다른 한 명이 골문 커버를 담당하는
+  식으로 역할을 나누면 수비가 안정됩니다.
 
-### FAQ
-- Q: How do I score more consistently in this game?
-A: Use jump‑timed headers/volleys and shoot low into corners.
-- Q: Does the game support two players on one device?
-A: Many hosts include local 2P with separate key binds.
-- Q: Are there team or character differences?
-A: Often cosmetic; physics are generally uniform across skins.
+### 조작 방법
 
+- 이동/점프: 방향키 또는 WASD  
+- 슛/특수 기술: 호스트마다 별도의 키가 지정되어 있으니 게임 내 안내를
+  참고하세요.
+
+### 플레이 팁
+
+- 점프 직후 가볍게 슛 키를 눌러 **빠르고 낮은 드라이브 슛**을 만들면,
+  골키퍼가 반응하기 어렵습니다.
+- 필살 슛은 무작정 쓰기보다 상대 역습 직후나 리바운드 상황에 맞춰 사용하면
+  역전 각을 만들기 좋습니다.
+- 수비 시 골대 정중앙이 아닌 약간 옆에 서 있으면, 클리어할 때 공이 자연스럽게
+  측면으로 빠져 역습 기회를 만들 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 어떻게 하면 더 안정적으로 골을 넣을 수 있나요?  
+  A: 헤딩과 발리 타이밍을 맞춰 점프 후 낮은 코너로 빠르게 차는 슛을 연습해
+  보세요. 높게 뜬 공보다 낮은 슛이 성공률이 좋습니다.
+
+- Q: 한 기기에서 2인용도 가능한가요?  
+  A: 많은 버전에서 서로 다른 키 세트를 할당해 로컬 2인 플레이를 지원합니다.
+
+- Q: 팀이나 캐릭터에 성능 차이가 있나요?  
+  A: 대부분은 스킨 차이에 가깝고, 물리 엔진은 비슷하게 적용됩니다. 다만
+  일부 버전은 속도·점프력에 약간의 차이를 둔 경우도 있으니 설명을 확인하세요.

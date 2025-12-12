@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: clash-of-warriors
-title: '[KO] Clash of Warriors'
+title: 'Clash of Warriors 클래시 오브 워리어즈'
 description: >-
-  [KO] Clash of Warriors is a compact card battler — curve your plays, trade
-  efficiently, and outthink opponents.
+  Clash of Warriors는 짧고 굵은 카드 배틀이 핵심인 전략 게임입니다. 마나曲선에
+  맞춰 카드를 내고, 효율적인 교환으로 보드를 장악해 상대를 읽어내며 승리를
+  노려 보세요.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/clash-of-warriors.png
 tags:
@@ -14,29 +15,66 @@ score: 3.9/5  (1668 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Clash of Warriors는 턴마다 카드를 내어 싸우는 카드 배틀을 짧은 라운드 안에
+압축한 게임입니다. 각 턴에 사용할 수 있는 자원을 소모해 유닛이나 주문 카드를
+플레이하고, 필드(보드)를 유리하게 유지하면서 상대의 체력이나 타워를 먼저
+무너뜨리는 것이 목표입니다.
 
+게임의 핵심은 제한된 자원을 최대한 효율적으로 사용해 템포를 가져오고, 유리한
+교환을 통해 상대 필드를 정리하는 것입니다. 덱 구성 요소나 카드 풀에 따라 덱의
+성격이 크게 달라질 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Clash of Warriors condenses card combat into short, tactical rounds. Build tempo with efficient plays, read enemy responses, and secure board control to win tight matches.
+1.  **마나 커브(코스트 곡선)를 지키기**  
+    매 턴 손에 있는 카드를 적절히 조합해 자원을 거의 남기지 않고 사용하는 것이
+    중요합니다. 매 턴 "코스트를 다 쓰는 것"이 필수는 아니지만, 대체로 마나를
+    남기지 않고 효율적으로 사용하는 덱이 장기적으로 더 강력합니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **효율적인 교환을 노리기**  
+    가능한 한 내 카드 한 장으로 상대 카드 여러 장을 제거하는 상황을 만들거나,
+    적어도 같은 코스트에서 내가 더 이득을 보는 교환을 노려야 합니다. 체력 1이
+    남은 내 유닛이라도 상대의 더 비싼 유닛 하나를 더 끌고 갈 수 있다면 가치가
+    있습니다.
 
-1.  **[KO]** Curve discipline: Spend all resources cleanly each turn.
-2.  **[KO]** Efficient trades: Favor lines that remove enemy threats while preserving yours.
-3.  **[KO]** Win conditions: Identify your path (aggro/tempo/control) and play to it.
-4.  **[KO]** Tech picks: Include answers to common threats if deckbuilding exists.
-5.  **[KO]** Mulligan (if any): Seek early curve pieces.
+3.  **덱의 승리 플랜을 명확히 하기**  
+    -   **어그로/템포 덱:** 빠르게 상대 체력을 압박하며, 게임을 길게 끌지 않는
+        것이 목표입니다. 초반 저코스트 카드를 최우선으로 구성해야 합니다.
+    -   **컨트롤 덱:** 초반엔 수비적으로 운영하다가 후반 강력한 카드로 게임을
+        마무리하는 스타일입니다. 광역 제거와 후반 피니셔 위주 구성이 중요합니다.
 
-### Controls Guide
+4.  **환경에 맞는 테크 카드 채용**  
+    덱을 구성할 수 있는 모드라면, 자주 마주치는 위협(예: 특정 타입 유닛, 버프
+    콤보 등)에 대응할 수 있는 테크 카드 한두 장을 넣어 두는 것도 좋습니다. 다만
+    너무 많은 테크 카드는 기본 플랜을 약하게 만들 수 있으니, 비율을 잘 조절해야
+    합니다.
 
-- Play cards by clicking/tapping; end turns via UI.
-- Hover/tap to inspect text.
+5.  **멀리건(초기 패 교체) 활용**  
+    멀리건 기능이 있다면, 초반에 쓸 수 없는 고코스트 카드는 과감히 다시 섞고,
+    1~3턴에 바로 쓸 수 있는 카드 위주로 가져오는 것이 좋습니다. 초반 템포를
+    잃으면 전체 게임이 어려워집니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Is RNG decisive? Draws matter, but lines and sequencing win close games.
-- Pay‑to‑win? Browser versions are typically self‑contained.
-- Fast mode? Short matches suit quick sessions.
+-   **카드 플레이:** 손패의 카드를 클릭/탭한 뒤 보드 위의 적절한 위치나 타겟을
+    선택해 사용합니다.
+-   **턴 종료:** 더 이상 할 행동이 없거나 턴을 넘기고 싶을 때는 화면의 "End Turn"
+    버튼을 눌러 상대 턴으로 넘깁니다.
+-   **카드 정보 확인:** 카드 위에 커서를 올리거나 탭하면 상세 능력과 효과를 확인할
+    수 있습니다.
 
+### 자주 묻는 질문 (FAQ)
+
+-   **Q. 운(RNG)이 너무 큰 비중을 차지하나요?**  
+    A. 카드 게임 특성상 드로우 운은 존재하지만, 대부분의 접전은 플레이 순서와
+    교환 선택, 멀리건 등 플레이어의 결정이 승패를 가릅니다.
+
+-   **Q. 과금 요소가 있나요?**  
+    A. 브라우저 버전은 일반적으로 하나의 독립된 카드 풀을 사용하며, 외부 과금
+    요소 없이도 전 내용을 즐길 수 있는 경우가 많습니다.
+
+-   **Q. 짧게 즐길 수 있는 모드인가요?**  
+    A. Clash of Warriors는 한 판 한 판이 짧게 끝나는 구조라, 짬날 때 빠르게 몇
+    게임씩 즐기기 좋습니다.

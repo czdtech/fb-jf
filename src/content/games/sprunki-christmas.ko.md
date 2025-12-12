@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: sprunki-christmas
-title: '[KO] Sprunki Christmas - Play Sprunki Christmas Online'
+title: Sprunki Christmas 스프룽키 크리스마스
 description: >-
-  [KO] Sprunki Christmas is a Mod that allows you to fully enjoy the fun of the
-  game in the festive atmosphere. Come to the world of Sprunki Christmas and
-  light up your Christmas with vibrant music!
+  Sprunki Christmas는 크리스마스 분위기 속에서 스프룽키 스타일 음악과 퍼즐을 즐길 수 있는 모드입니다. 선물을 모으고 트리를
+  장식하며, 축제 감성 가득한 사운드와 비주얼을 경험해 보세요.
 iframeSrc: 'https://turbowarp.org/1104040581/embed'
 thumbnail: /sprunki-christmas.png
 tags:
@@ -15,28 +14,45 @@ score: 4.6/5  (486 votes)
 
 
 
-Ready to welcome a musical adventure full of festive atmosphere? Sprunki Christmas will take you into a Sprunki universe full of joy and excitement, where you will embark on a fun adventure, including puzzles, challenges, and Christmas-themed collectibles. This game combines vibrant visuals, charming characters, and engaging gameplay to deliver a delightful experience for players of all ages.
+풍성한 연말 분위기가 가득한 음악 어드벤처를 즐길 준비가 되었나요?
+Sprunki Christmas는 설레는 크리스마스 세계로 여러분을 초대합니다. 퍼즐과
+도전 요소, 그리고 크리스마스 수집 아이템이 어우러진 이 게임에서, 플레이어는
+스프룽키 캐릭터들과 함께 겨울 왕국을 돌아다니며 다채로운 미션을 수행하게
+됩니다. 밝은 색감의 그래픽과 사랑스러운 캐릭터, 그리고 따뜻한 사운드트랙이
+어우러져 남녀노소 모두 즐길 수 있는 작품입니다.
 
-### How to Play Sprunki Christmas?
+### Sprunki Christmas 플레이 방법
 
-- **Objective:** Help the Sprunki characters spread holiday cheer by completing levels, collecting gifts, and overcoming winter-themed challenges.
- **[KO]** **Gameplay Mechanics:** 
-- Gift Collection: Navigate through snowy landscapes to collect presents.
-- Puzzle Solving: Solve holiday-themed puzzles to unlock new levels.
-- Power-Ups: Use festive boosters, like candy canes and ornaments, to clear difficult stages.
-- Decorate the Tree: Gather decorations throughout the levels to light up the Christmas tree.
+- **목표:** 스프룽키 캐릭터들과 함께 여러 스테이지를 클리어하고,
+  선물을 모으며, 겨울 테마의 장애물과 퍼즐을 해결해 크리스마스 분위기를
+  가득 채우는 것이 주요 목표입니다.
+- **게임 메커닉:**
+- **선물 수집:** 눈 덮인 맵을 탐험하며 여기저기에 숨겨진 선물을 찾아 모읍니다.
+- **퍼즐 해결:** 크리스마스 테마의 간단한 퍼즐을 풀어 다음 스테이지나
+    숨겨진 구역을 해금하세요.
+- **파워업 활용:** 사탕 지팡이, 오너먼트 같은 특별한 아이템을 사용해
+    어려운 구간을 돌파할 수 있습니다.
+  - **트리 장식:** 플레이 중 모은 장식품으로 크리스마스 트리를 꾸미며,
+    점점 더 화려한 겨울 풍경을 완성해 보세요.
+- **특별 이벤트:** 한정 기간 동안 열리는 이벤트에 참여하면, 특별 스킨이나
+  장식 아이템 등 독점 보상을 얻을 수 있습니다.
 
-  - **Special Events:** Participate in limited-time holiday challenges and earn exclusive rewards.
+### 주요 특징
 
+- **홀리데이 테마 비주얼:** 눈, 전구, 장식으로 가득한 겨울 마을과
+  눈 덮인 풍경이 아름답게 표현되어 있습니다.
+- **매력적인 캐릭터:** 귀여운 Sprunki Rejoyed 캐릭터들이 크리스마스 복장을
+  입고 등장해, 보는 것만으로도 기분이 좋아집니다.
+- **다양한 스테이지:** 난이도가 다른 여러 크리스마스 테마 스테이지가 준비되어
+  있어, 누구나 자기 실력에 맞게 도전할 수 있습니다.
+- **축제 분위기 사운드트랙:** 캐럴 느낌의 BGM과 효과음이 게임 전반에 깔려 있어,
+  플레이하는 동안 내내 연말 분위기를 느낄 수 있습니다.
+- **꾸미기 요소:** 게임을 진행하며 얻은 장식 아이템으로 나만의 트리와
+  공간을 꾸밀 수 있습니다.
+- **커뮤니티 이벤트:** 이벤트 기간에는 친구와 점수를 겨루거나 리더보드에
+  도전해, 함께 경쟁·협력하는 재미를 느낄 수 있습니다.
 
-### Features of the Game:
-
-- **Holiday-Themed Visuals:** Beautifully designed winter wonderlands with snow, lights, and festive decor.
-- **Charming Characters:** Meet Sprunki Rejoyed characters dressed in adorable holiday outfits.
-- **Creative Levels:** Unique Christmas-themed stages with varying difficulties.
-- **Festive Soundtrack:** A cheerful collection of holiday tunes that enhance the festive mood.
-- **Customization:** Unlock and personalize Christmas decorations for your in-game environment.
-- **Community Challenges:** Team up with friends or compete on leaderboards during holiday events.
-
-
-Sprunki Christmas is a Mod that allows you to fully enjoy the fun of the game in the festive atmosphere. Come to the world of Sprunki Christmas and light up your Christmas with vibrant music! Whether you want to immerse yourself in the exquisite winter wonderland or experience the thrill of playing with friends and the community, Sprunki Christmas can meet your needs!
+Sprunki Christmas는 크리스마스의 따뜻한 분위기 속에서 스프룽키 특유의 음악과
+게임성을 모두 즐길 수 있는 모드입니다. 섬세하게 꾸며진 겨울 마을을 천천히
+감상하고 싶든, 친구들과 도전 과제를 깨며 경쟁하고 싶든, Sprunki Christmas는
+다양한 방식으로 연말의 즐거움을 선물해 줄 것입니다.

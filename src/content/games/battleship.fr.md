@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: battleship
-title: '[FR] Battleship game'
-description: >-
-  [FR] A comprehensive guide to the classic Battleship game. Learn the rules,
-  ship placement strategies, effective search patterns, and tips to sink the
-  enemy fleet before they find yours.
-iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
+title: "Battleship"
+description: "Bataille navale classique : place ta flotte, devine les coordonnées ennemies et coule chaque navire avant que l’adversaire ne t’expose."
+iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
 thumbnail: /new-images/battleship.jpg
 tags:
   - strategy
@@ -15,65 +12,60 @@ score: 4.4/5  (986 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+*Battleship* est un duel stratégique à deux joueurs. Chaque commandant dispose de deux grilles : l’une pour cacher sa flotte, l’autre pour suivre ses tirs. Le premier à couler tous les navires adverses remporte la bataille.
 
+Avant le combat, place secrètement ta flotte sur ta grille. La flotte standard comprend :
 
+*   **Porte-avions** (5 cases)
+*   **Cuirassé** (4 cases)
+*   **Croiseur** (3 cases)
+*   **Sous-marin** (3 cases)
+*   **Destroyer** (2 cases)
 
+Une fois les placements terminés, chaque joueur annonce à tour de rôle une coordonnée (ex. D5). L’adversaire répond « Touché » ou « Manqué », et tu marques le résultat sur ta grille d’observation pour déduire peu à peu la position des navires ennemis. Un navire est « coulé » dès que toutes ses cases sont touchées.
 
-### Detailed Introduction
+### Stratégie de jeu
 
-*Battleship* is a classic two-player strategy guessing game. The objective is to be the first to sink all of your opponent's warships. The game is played on two grids for each player: one grid represents your own ocean, where you secretly place your fleet of ships, and the other represents your opponent's ocean, which you use to track your guesses.
+Gagner exige un mélange de placements malins et de déductions méthodiques.
 
-Before the battle begins, each player secretly arranges their ships on their own grid. A standard fleet consists of five ships of varying lengths, which must be placed either horizontally or vertically, and cannot overlap:
-*   **[FR]** **Aircraft Carrier** (5 squares)
-*   **[FR]** **Battleship** (4 squares)
-*   **[FR]** **Cruiser** (3 squares)
-*   **[FR]** **Submarine** (3 squares)
-*   **[FR]** **Destroyer** (2 squares)
+#### Placement des navires (défense)
 
-Once both players have placed their fleets, they take turns firing "shots" at the opponent's grid by calling out a coordinate (e.g., "D5"). The opponent must respond with either "Hit!" if a ship occupies that square, or "Miss!" if it's empty water. Players mark their opponent's grid with pegs or icons to record hits and misses, using this information to deduce the location of the enemy ships. A ship is considered "sunk" when all of its squares have been hit.
+1.  **Évite les évidences :** Les bords et coins sont souvent bombardés en premier. Écarte tes navires pour casser les intuitions adverses.
+2.  **Ne fais pas de grappes :** Une flotte regroupée tombe vite. Dès qu’un bateau est repéré, l’adversaire ratisse la zone et découvre les autres.
+3.  **Garde un espace entre les navires :** Essaie de laisser au moins une case vide entre deux navires pour qu’un hit accidentel ne révèle pas immédiatement un deuxième objectif.
+4.  **Utilise aussi le centre :** Placer un petit navire au milieu fonctionne bien, car de nombreux joueurs privilégient l’extérieur de la grille dans leurs premiers tirs.
 
-### Gameplay Strategy
+#### Stratégie de tir (attaque)
 
-Winning at *Battleship* involves a combination of clever placement and logical deduction.
+1.  **Motif de recherche :** Tire sur une case sur deux (motif damier). Comme aucun navire ne peut se glisser uniquement sur les cases oubliées, tu finis par détecter tous les bateaux plus vite.
+2.  **Passe en mode chasse :** Dès qu’un tir touche, arrête le motif global et attaque immédiatement les cases adjacentes pour trouver l’orientation du navire.
+3.  **Coule méthodiquement :** Quand tu obtiens deux touches alignées, continue dans cette direction jusqu’à manquer, puis repars de l’autre côté pour finir le bateau.
+4.  **Exploite la logique :** Note les navires déjà coulés. Si le destroyer (2 cases) a disparu, une touche isolée ailleurs doit appartenir à un navire plus long, ce qui réduit les possibilités.
 
-#### Ship Placement Strategy (Defense):
+### Guide des commandes
 
-1.  **[FR]** **Avoid the Obvious:** Many players tend to place ships along the edges or in the corners of the grid. Avoid these common spots to make your ships harder to find.
-2.  **[FR]** **Don't Cluster:** Placing all your ships close together is risky. Once your opponent finds one ship, they will easily find the others nearby. Spread your fleet across the entire grid.
-3.  **[FR]** **Don't Let Ships Touch:** If possible, place ships so that they are not adjacent to each other. This prevents an opponent from getting a hit on one ship and immediately finding another right next to it.
-4.  **[FR]** **Embrace the Center:** Placing some ships, especially smaller ones, in the middle of the board can be effective, as many opponents focus their initial search patterns on the outer areas.
+La version numérique repose essentiellement sur des clics.
 
-#### Firing Strategy (Offense):
+*   **Phase de placement :**
+    *   **Choisir un navire :** Clique sur un navire dans ta flotte.
+    *   **Placer :** survole la grille et clique pour l’installer.
+    *   **Faire pivoter :** utilise le bouton prévu ou le clic droit pour passer de l’orientation horizontale à verticale.
+*   **Phase de bataille :**
+    *   **Tirer :** clique sur une case de la grille adverse pour lancer une salve.
+    *   **Feedback :** le jeu marque automatiquement les touches en rouge et les ratés en blanc, afin que tu puisses suivre ton enquête.
 
-1.  **[FR]** **Use a Search Pattern:** Do not fire randomly. The most effective strategy is to use a pattern that covers the board efficiently. A "checkerboard" or "parity" pattern is highly recommended. This means firing on every other square (e.g., A1, A3, A5, B2, B4, C1, C3, etc.). This guarantees you will find any ship on the board in fewer moves, as no ship can hide between the squares of your grid pattern.
-2.  **[FR]** **Switch to "Hunt" Mode:** As soon as you get a "Hit," stop your search pattern. Now your goal is to determine the ship's orientation. Fire at the adjacent squares (above, below, left, and right) of the initial hit.
-3.  **[FR]** **Sink the Ship:** Once you get a second consecutive hit, you know the ship's orientation (horizontal or vertical). Continue firing along that line until you get a "miss." This means you have found the end of the ship. Then, work your way down the other end until the ship is sunk.
-4.  **[FR]** **Use Logic:** Keep track of which ships have been sunk. If you've already sunk the 2-square Destroyer, you know that any single hit in an open area must be part of a larger ship. This helps you eliminate possibilities and make smarter guesses.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+**1. Quels navires composent la flotte standard ?**  
+Porte-avions (5), cuirassé (4), croiseur (3), sous-marin (3) et destroyer (2).
 
-For digital versions of *Battleship*, the controls are typically mouse-driven and very intuitive.
+**2. Puis-je placer mes navires en diagonale ?**  
+Non, seules les positions horizontales ou verticales sont autorisées dans les règles classiques.
 
-*   **[FR]** **Placement Phase:**
-    *   **[FR]** **Select a Ship:** Click on a ship from your fleet.
-    *   **[FR]** **Place a Ship:** Move your mouse over your grid to the desired location and click to place it.
-    *   **[FR]** **Rotate a Ship:** Often there is a dedicated button to rotate the ship from horizontal to vertical, or you can use the right mouse button.
-*   **[FR]** **Battle Phase:**
-    *   **[FR]** **Fire a Shot:** Click on a square on the opponent's grid to fire at that coordinate.
-    *   **[FR]** **Game Feedback:** The game will automatically mark the square as a hit (usually with a red marker or explosion) or a miss (with a white marker or splash icon).
+**3. Dois-je coller mes navires ou les séparer ?**  
+Il vaut mieux les séparer. Quand chaque navire est isolé, l’adversaire doit relancer une phase de recherche complète après chaque destruction.
 
-### Frequently Asked questions (FAQ)
-
-**1. What are the standard ships in a game of Battleship?**
-The standard fleet includes an Aircraft Carrier (5 squares), a Battleship (4 squares), a Cruiser (3 squares), a Submarine (3 squares), and a Destroyer (2 squares).
-
-**2. Can I place ships diagonally?**
-No. In the standard rules of *Battleship*, ships can only be placed horizontally or vertically.
-
-**3. Is it better to place my ships touching each other or separated?**
-It is almost always better to place your ships so they are not touching. Spreading them out forces your opponent to start a new search pattern after sinking each ship, wasting their turns.
-
-**4. Is the game just pure luck?**
-No. While there is an element of luck in the initial search, the game heavily relies on strategy, logic, and deduction. A player with a good search pattern and logical thinking will consistently beat a player who guesses randomly.
-
+**4. Est-ce un jeu basé uniquement sur la chance ?**  
+La chance intervient lors des tout premiers tirs, mais les joueurs qui appliquent un motif de tir structuré et raisonnent à partir des informations acquises dominent nettement les tireurs aléatoires.

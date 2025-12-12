@@ -1,82 +1,39 @@
 ---
+title: "Cricket Hero クリケット・ヒーロー"
+description: "「Cricket Hero」でバッティングの天才になろう。タイミングよくバットを振って、ボールを打ち返し、クリケットの伝説として高得点を叩き出せ。"
+iframeSrc: "https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/"
+thumbnail: "/new-images/cricket-hero.jpg"
+urlstr: "cricket-hero"
+score: "4.3/5  (2109 votes)"
+tags: ["sports", "action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: cricket-hero
-title: '[JA TRANSLATION NEEDED] Cricket Hero'
-description: >-
-  [JA TRANSLATION NEEDED] Step up to the crease and become a Cricket Hero! Time
-  your shots to perfection and score as many runs as you can in this exciting
-  cricket batting game.
-iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
-thumbnail: /new-images/cricket-hero.jpg
-tags:
-  - sports
-  - action
-  - casual
-score: 4.3/5  (2109 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cricket Hero（クリケット・ヒーロー）*は、打者（バッツマン）として可能な限り多くのラン（得点）を稼ぐ、シンプルかつ中毒性のあるアーケード・クリケットゲームです。
+次々と投げ込まれるボールに対して、タイミングよくバットを振り、ウィケット（後ろにある3本の棒）を守り抜きましょう。ボールに当てるだけでなく、完璧なタイミングで打つことで長打を狙います。ミスをしてウィケットにボールが当たるか、打ち損じるとゲームオーバーの危機が迫ります。
 
-[JA TRANSLATION NEEDED] Cricket Hero is a simple yet addictive arcade-style cricket game where your goal is to score as many runs as possible. As the batsman, you will face a variety of bowlers who will try to get you out. Your job is to watch the ball closely and time your swing to hit the ball and score runs. The game is all about timing and reflexes. Miss the ball or get bowled out, and your turn is over. How many runs can you score to become a true Cricket Hero?
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **ボールを凝視せよ:** 最も基本にして重要なことは、ボールから目を離さないことです。投手がボールをリリースした瞬間から集中しましょう。
+2.  **タイミングが命:** 得点を稼ぐ鍵はタイミングです。早すぎても遅すぎても空振りします。完璧なタイミングで捉えた打球は、最高の「6ラン」になります。
+3.  **バウンドを読む:** ボールがどこでバウンドするか（ピッチ）に注目しましょう。これによりボールの速さと高さを予測し、スイングのタイミングを調整できます。
+4.  **集中を持続:** ゲームが進むにつれて投球のスピードが上がり、変化球も交えてくるため、一瞬の油断も許されません。
 
-[JA TRANSLATION NEEDED] 1.  **Watch the Ball:** This is the most fundamental rule of cricket and this game. Keep your eyes glued to the ball from the moment it leaves the bowler's hand.
-[JA TRANSLATION NEEDED] 2.  **Timing is Everything:** The key to scoring big is timing your shot perfectly. Swing too early or too late, and you'll miss the ball. A perfectly timed shot will send the ball flying for a six!
-[JA TRANSLATION NEEDED] 3.  **Anticipate the Bounce:** Pay attention to where the ball is going to pitch. This will help you judge the speed and height of the ball, allowing you to time your swing more effectively.
-[JA TRANSLATION NEEDED] 4.  **Stay Focused:** The game will get progressively faster and more challenging. Maintain your concentration to keep up with the increasing speed and variations in bowling.
+### 操作ガイド
 
-### Controls Guide
+*   **スイング:** 画面をタップ（またはクリック）するだけです。方向キーなどは使わず、スイングする「タイミング」のみをコントロールします。
 
-*   **Swing Bat:** Click the left mouse button or tap the screen to swing your bat. The timing of your click is the only control you have, so make it count!
-    - **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).（日本語訳が必要）
-    - **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.（日本語訳が必要）
-    - **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.（日本語訳が必要）
-    - **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).（日本語訳が必要）
-    - **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.（日本語訳が必要）
-    - **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: どうやって得点しますか？**
+    *   **A:** ボールを打ち返すと自動的に得点が加算されます。タイミングが良いほど強い打球になり、野球で言うホームランのような「6ラン」や、ヒットの「4ラン」を獲得できます。
 
-*   **Q: How do I score runs?**
-[JA TRANSLATION NEEDED]     *   **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).
+*   **Q: ゲームオーバーの条件は？**
+    *   **A:** 打ち損じてボールが後ろのウィケット（棒）に当たるとアウトです。アウトの許容回数（ライフ）が尽きるとゲーム終了です。
 
-*   **Q: How does the game end?**
-[JA TRANSLATION NEEDED]     *   **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
-
-*   **Q: Are there different types of bowlers?**
-
-
-
-
-
-
-
-
-
-    - **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
-- **Q: Are there different types of bowlers?**
-    - **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
-- **Q: How does the game end?**
-    - **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).
-- **Q: How do I score runs?**
-### よくある質問（FAQ）
-- **Swing Bat:** Click the left mouse button or tap the screen to swing your bat. The timing of your click is the only control you have, so make it count!
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
-- **Q: Are there different types of bowlers?**
-    - **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
-- **Q: How does the game end?**
-    - **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).
-- **Q: How do I score runs?**
-
-    - **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
-[JA TRANSLATION NEEDED]     *   **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
+*   **Q: 違う種類のボウラー（投手）は出ますか？**
+    *   **A:** はい、スコアが伸びると、より速い球を投げたり、変化球を投げる手強いボウラーが登場します。

@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: crash-bandicoot
-title: '[KO] Crash Bandicoot'
+title: "Crash Bandicoot 크래시 밴디쿳"
 description: >-
-  [KO] Crash Bandicoot is a retro arcade platformer: run, jump, spin, collect
-  Wumpa fruit and crystals, dodge TNT, and clear themed stages in a
-  browser-based remake.
+  레트로 감성의 아케이드 플랫포머 Crash Bandicoot 브라우저 버전입니다. 달리고,
+  점프하고, 회전 공격으로 상자를 부수며 움파 열매와 크리스털을 모아 스테이지를
+  클리어해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/crash-bandicoot.jpg
 tags:
@@ -17,32 +17,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Crash Bandicoot는 고전 콘솔 게임을 오마주한 플래시/플랫포머로, 브라우저에서 바로
+플레이할 수 있는 짧은 스테이지 구성의 게임입니다. 테마가 다른 여러 구간을
+돌파하면서 상자를 부수고, 크리스털과 움파(Wumpa) 열매를 모으며, 곳곳에 배치된
+TNT 상자를 피해 나가야 합니다. 크리스털을 다섯 개 모으면 보스 `리퍼 루(Ripper Roo)`
+전이 열리며, 철 상자를 회전 공격으로 튕겨 맞춰 쓰러뜨리면 엔딩을 볼 수 있습니다.
 
-### Overview
-Crash Bandicoot is a browser‑playable Flash/platformer tribute to the classic series. Make your way through a short set of themed stages, break crates, collect crystals and fruit, and avoid TNT hazards. After obtaining five crystals, you face Ripper Roo in a boss fight; spinning iron crates at him ends the game upon victory.  
+### 플레이 방법
 
-### How to Play
-- Progress through linear stages while gathering crystals and fruit.
-- Break crates for items; avoid TNT and explosive crates.
-- Use the spin attack to destroy certain obstacles and defeat light enemies.
-- Reach the end of the level without falling into pits or traps.
+- 직선형 스테이지를 따라 전진하면서 크리스털과 과일을 수집합니다.  
+- 상자를 부수어 아이템을 얻되, TNT와 폭발 상자는 가능하면 피하세요.  
+- 회전 공격(스핀)을 사용해 특정 장애물을 파괴하고 약한 적들을 쓰러뜨립니다.  
+- 구덩이, 함정에 떨어지지 않고 스테이지 끝 깃발까지 도달하면 클리어입니다.  
 
-### Controls
-- Arrow Keys: Move / Jump (Up) / Duck (Down)
-- Space: Spin attack (key may vary slightly by host)
+### 조작법
 
-### Tips and Strategies
-- Time jumps to clear moving platforms and gaps.
-- Spin into crates from a safe distance; never linger near TNT after activation.
-- Grab as many Wumpa fruit as possible for extra lives in some versions.
-- Boss levels emphasize pattern recognition—wait for openings, then spin.
+- 방향키: 이동 / 점프(위) / 숙이기(아래)  
+- 스페이스: 회전 공격(호스팅 사이트에 따라 키가 달라질 수 있음)  
+
+### 팁 & 전략
+
+- 움직이는 발판과 간격이 넓은 구간에서는 점프 타이밍을 정확히 맞추는 것이 중요합니다.  
+- 상자에 접근하기 전에 적당한 거리에서 회전 공격을 사용해 안전하게 부수고,  
+  TNT를 활성화한 뒤에는 근처에 머무르지 마세요.  
+- 일부 버전에서는 움파 열매를 많이 모을수록 추가 목숨을 얻을 수 있으니 최대한 챙기세요.  
+- 보스 스테이지는 패턴 파악이 핵심입니다. 안전한 타이밍까지 기다렸다가 빈틈에 맞춰 회전
+  공격을 넣으면 수월하게 클리어할 수 있습니다.  
 
 ### FAQ
-- Q: How many levels are there?
-A: Five main stages; after collecting five crystals you fight Ripper Roo, then the game ends.  
-- Q: Why doesn’t the jump or spin work?
-A: Make sure the game canvas is focused; keys may vary slightly between hosts.  
-- Q: Is progress saved?
-A: Most Flash/browser versions do not save long‑term progress beyond the session.  
+
+- **Q: 스테이지는 몇 개 정도 있나요?**  
+  **A:** 기본적으로 다섯 개의 메인 스테이지가 있으며, 크리스털 다섯 개를 모두 모은 뒤
+  리퍼 루와의 보스를 쓰러뜨리면 게임이 종료됩니다.  
+
+- **Q: 점프나 회전 공격이 먹히지 않는 것 같습니다.**  
+  **A:** 게임 화면(캔버스)에 포커스가 맞춰져 있는지 확인해 보세요. 또, 게임이 호스팅된
+  사이트에 따라 조작 키가 조금씩 다를 수 있습니다.  
+
+- **Q: 진행 상황이 저장되나요?**  
+  **A:** 대부분의 플래시/브라우저 버전은 세션을 넘어가는 장기 저장을 지원하지 않습니다.
+  보통 게임을 종료하거나 새로고침하면 진행도가 초기화됩니다.  
 

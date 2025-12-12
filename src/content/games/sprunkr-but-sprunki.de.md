@@ -1,43 +1,40 @@
 ---
 locale: de
 urlstr: sprunkr-but-sprunki
-title: '[DE] Sprunkr But Sprunki - Play Sprunkr But Sprunki Online'
+title: Sprunkr But Sprunki
 description: >-
-  [DE] Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod,
-  replacing the existing characters with beloved Sprunki figures. You can not
-  only experience the classic gameplay of Sprunkr, but also immerse yourself in
-  the visual and auditory feast of Sprunki style.
+  Sprunkr But Sprunki ersetzt die Figuren des Sprunkr-Mods durch
+  Sprunki-Charaktere – du spielst mit dem Sprunkr-Gameplay, aber im Look & Sound
+  der Sprunki-Welt.
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
 thumbnail: /sprunkr-but-sprunki.png
 tags:
   - sprunkr but sprunki
 score: 4.5/5  (541 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+Magst du das Spielgefühl von Sprunkr, aber liebst den Stil von Sprunki? Sprunkr But Sprunki verbindet beides zu einem Crossover-Mod.
+
+### Was ist Sprunkr But Sprunki?
+
+Der Mod nimmt die Mechaniken von Sprunkr und tauscht die Cast gegen neu gestaltete Sprunki-Figuren aus. Du bekommst also das bekannte Spielsystem, aber mit Sprunki-Optik, Animationen und Soundloops.
+
+### Features
+
+- **Sprunki-Cast:** Alle alten Figuren werden durch Sprunki-Charaktere mit eigenen Loops und Bewegungen ersetzt.
+- **Frische Soundkulisse:** Rhythmen und Melodien tragen klar die Handschrift der Sprunki-Mods.
+- **Bekanntes Gameplay:** Drag-and-drop, Loops schichten, Arrangements ausprobieren – alles bleibt vertraut.
 
 
-Are you fond of Sprunkr's unique gameplay, and also have a soft spot for Sprunki's cute characters? Then Sprunkr But Sprunki Mod will definitely satisfy all your fantasies! This creative Mod cleverly combines Sprunkr's game mechanics with Sprunki's inspired designs, bringing a refreshing experience to fans of both universes.
-
-### What is Sprunkr But Sprunki Mod?
-
-Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod, replacing the existing characters with beloved Sprunki figures. You can not only experience the classic gameplay of Sprunkr, but also immerse yourself in the visual and auditory feast of Sprunki style.
-
-### Sprunkr But Sprunki Mod Game Features:
-
-- **Sprunki Characters:** The original Sprunkr characters are replaced with redesigned Sprunki characters, each bringing their unique sound loops and animations.
-- **Dynamic Soundscapes:** Offers rhythmic beats and melodies with a distinct Sprunki flair, giving a fresh auditory experience.
-- **Bright Visuals:** Sprunki-themed designs and animations enhance the overall aesthetic.
 - **Engaging Gameplay:** Combines the best of Sprunkr’s mechanics with the creativity of Sprunki characters.
+### So spielst du Sprunkr But Sprunki
 
-
-### How to Play Sprunkr But Sprunki Mod:
-
-- **Select Characters:** Choose from the Sprunki-themed roster, each offering unique sounds and animations.
-- **Drag and Drop:** Arrange characters on the stage to layer beats, melodies, and effects into cohesive compositions.
-- **Experiment and Refine:** Mix loops creatively and explore new combinations with the Sprunki characters.
-- **Save and Share:** Save your tracks and share them with the Sprunki community to showcase your creations.
+- **Figuren wählen:** Such dir Sprunki-Charaktere aus der Leiste aus.
+- **Auf die Bühne ziehen:** Platziere sie, um Beats, Melodien und Effekte zu aktivieren.
+- **Mixen & verfeinern:** Spiele mit verschiedenen Figurenkombos, bis dein Track rund klingt.
+- **Track teilen:** In passenden Versionen kannst du deine Mischungen mit der Community teilen.
 
 
 ### Conclusion:
-
-Sprunkr But Sprunki Mod is a delightful crossover that adds a refreshing twist to the original gameplay. Dive into this mod and experience the best of both worlds! Whether you want to immerse yourself in the vibrant visuals of Sprunkr But Sprunki Mod or immerse yourself in its dynamic soundscapes, you will find endless happiness and satisfaction here!
+Sprunkr But Sprunki ist perfekt, wenn du dich im Sprunkr-Gameplay zuhause fühlst, aber optisch und klanglich lieber in der Sprunki-Welt unterwegs bist.

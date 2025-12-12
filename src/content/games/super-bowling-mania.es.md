@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: super-bowling-mania
-title: '[ES] Super Bowling Mania'
+title: Super Bowling Mania
 description: >-
-  [ES] Lace up your bowling shoes for Super Bowling Mania! Aim for a strike,
-  pick up spares, and compete for the highest score in this realistic bowling
-  game.
+  Ponte los zapatos de bolos en Super Bowling Mania. Apunta al strike, recoge
+  spares y compite por la mejor puntuación en esta experiencia de bolos con
+  físicas realistas.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
 thumbnail: /new-images/super-bowling-mania.png
 tags:
@@ -17,33 +17,54 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Super Bowling Mania lleva la experiencia clásica de bolos de 10 pinos a tu
+pantalla con físicas creíbles y controles intuitivos. Tanto si eres un veterano
+de la bolera como si estás empezando, sentirás la satisfacción de buscar el
+strike perfecto. El reto es derribar los diez bolos en cada frame, gestionar
+spares complicados y soñar con el ansiado 300. Es una forma ideal de disfrutar
+de los bolos en cualquier momento.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Super Bowling Mania brings the classic ten-pin bowling experience to your screen with realistic physics and intuitive controls. Whether you're a seasoned bowler or new to the sport, you can enjoy the thrill of aiming for a perfect strike. The game challenges you to knock down all ten pins in each frame. Score strikes, pick up tricky spares, and aim for a perfect 300 game. With its engaging gameplay, it's a perfect way to enjoy bowling anytime, anywhere.
+1.  **Coloca bien al jugador:** antes de lanzar, ajusta tu posición sobre el
+    carril. Moverte a izquierda o derecha te ayuda a encontrar el ángulo
+    correcto para golpear el «pocket» (entre el bolo delantero y el que tiene
+    detrás).
+2.  **Controla la potencia:** el medidor de potencia aparece antes del lanzamiento.
+    Busca un punto de potencia consistente: poca fuerza tumba pocos bolos; con
+    demasiada, la bola puede volverse difícil de controlar.
+3.  **Añade efecto:** muchos juegos de bolos permiten dar efecto a la bola al
+    soltarla. Una curva suave aumenta mucho las probabilidades de lograr un
+    strike al atravesar el pocket con el ángulo adecuado.
+4.  **Cazar spares:** si no haces strike, tendrás que rematar los bolos
+    restantes. Apunta al bolo clave del grupo que queda para maximizar tus
+    opciones de limpiar la calle.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Position Your Bowler:** Before you throw, you can typically adjust your starting position on the lane. Moving left or right can help you find the perfect angle to hit the pocket (between the front pin and the one behind it).
-2.  **[ES]** **Set the Power:** A power meter will appear. Try to aim for a consistent power level. Too little power and you won't knock down many pins; too much and the ball might be harder to control.
-3.  **[ES]** **Add Spin (Curve):** Many bowling games allow you to add spin to the ball as you release it. A slight curve can dramatically increase your chances of getting a strike by helping the ball drive through the pins.
-4.  **[ES]** **Picking Up Spares:** If you don't get a strike, you'll need to knock down the remaining pins. Aim carefully for the key pin in the remaining cluster to maximize your chances of clearing the lane.
+- **Apuntar:** mueve el ratón a izquierda o derecha para ajustar tu posición y
+  la dirección inicial del tiro.  
+- **Potencia y lanzamiento:** haz clic y mantén para iniciar el medidor de
+  potencia; suelta en el nivel deseado para lanzar la bola.  
+- **Efecto/curva:** mientras la bola rueda, en algunas versiones puedes mover el
+  ratón para influir en su trayectoria.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Aiming:** Move the mouse left or right to adjust your position and the initial direction of your throw.
-*   **[ES]** **Power and Release:** Click and hold the mouse button to start the power meter. Release the button at the desired power level to throw the ball.
-*   **[ES]** **Spin/Curve:** While the ball is rolling, you may be able to move the mouse to influence its curve.
+*   **P: ¿Cómo se puntúa una partida de bolos?**
+    *   **R:** Una partida tiene 10 frames. Un strike (derribar los 10 bolos en el
+        primer tiro) vale 10 puntos más los bolos de tus dos siguientes lanzamientos.
+        Un spare (derribar los 10 en dos tiros) vale 10 puntos más los bolos del
+        siguiente lanzamiento.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué es una partida perfecta?**
+    *   **R:** Una partida perfecta son 300 puntos, que se consiguen con 12 strikes
+        seguidos en una misma partida.
 
-*   **[ES]** **Q: How is bowling scored?**
-    *   **[ES]** **A:** A game consists of 10 frames. A strike (all 10 pins on the first ball) gives you 10 points plus a bonus of the pins knocked down on your next two balls. A spare (all 10 pins in two balls) gives you 10 points plus a bonus of the pins from your next one ball.
-
-*   **[ES]** **Q: What is a perfect game?**
-    *   **[ES]** **A:** A perfect game is a score of 300, which is achieved by bowling 12 strikes in a row in a single game.
-
-*   **[ES]** **Q: How do I get more strikes?**
-    *   **[ES]** **A:** The key to getting strikes is consistency. Find a starting position, power level, and spin that works for you and try to replicate it. Aiming for the "pocket" just to the side of the head pin is generally the most effective strategy.
-
+*   **P: ¿Cómo puedo conseguir más strikes?**
+    *   **R:** La clave es la consistencia. Encuentra una combinación de posición,
+        potencia y efecto que funcione para ti e intenta repetirla. Apuntar al
+        pocket (justo a un lado del bolo delantero) suele ser la estrategia más
+        efectiva.

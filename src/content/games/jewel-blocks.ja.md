@@ -1,82 +1,41 @@
 ---
+title: "Jewel Blocks"
+description: "戦略と空間認識の魅惑的なパズルゲーム。宝石テーマのブロックをグリッドにドラッグ＆ドロップして完全なラインを作って消しましょう。ただし、回転はできないので慎重に計画してください！"
+iframeSrc: "https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/"
+thumbnail: "/new-images/jewel-blocks.png"
+urlstr: "jewel-blocks"
+score: "4.4/5  (2410 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: jewel-blocks
-title: '[JA TRANSLATION NEEDED] Jewel Blocks'
-description: >-
-  [JA TRANSLATION NEEDED] A captivating puzzle game of strategy and spatial
-  awareness. Drag and drop jewel-themed blocks onto the grid to create and clear
-  full lines, but plan carefully—no rotations allowed!
-iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
-thumbnail: /new-images/jewel-blocks.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.4/5  (2410 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Jewel Blocksは、一見シンプルですが非常に中毒性の高いパズルゲームで、あなたの空間計画スキルに挑戦します。目的は、様々な宝石テーマのブロック形状を10x10のグリッドに配置して、できるだけ多くのポイントを獲得することです。水平または垂直にブロックの完全なラインを形成すると、そのラインはボードからクリアされます。主な挑戦は、ブロックを回転できないという事実にあり、ボードがいっぱいにならないように配置を慎重に考えなければなりません。
 
-[JA TRANSLATION NEEDED] Jewel Blocks is a deceptively simple yet highly addictive puzzle game that challenges your spatial planning skills. The objective is to score as many points as possible by fitting various jewel-themed block shapes onto a 10x10 grid. When you form a complete line of blocks, either horizontally or vertically, the line is cleared from the board. The main challenge lies in the fact that the blocks cannot be rotated, so you must think carefully about placement to keep the board from filling up.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **先を計画する:** 一度に3つのブロック形状が提示されます。最初のものを配置する前に、3つすべてがボードにどのように配置されるかを考えましょう。目の前の配置だけに集中せず、将来のピースのために残すスペースについて考えてください。
+2.  **コンボを狙う:** 単一のラインをクリアするのは良いですが、1つのピースで複数のラインをクリア（「コンボ」）すると、はるかに多くのポイントが得られます。常に一度に2つ以上のラインを完成させる機会を探しましょう。
+3.  **ボードを開いたままにする:** 孤立した単一の空のマスを作らないようにしましょう。これらは埋めるのが非常に難しい場合があります。様々な形状に対応できるように、ボードをできるだけオープンで柔軟に保つようにしてください。
+4.  **急がない:** 時間制限はありません。各ブロックの最適な配置を見つけるために、ピースとボードを分析する時間をかけましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Plan Ahead:** You are presented with three block shapes at a time. Before placing the first one, consider how all three might fit on the board. Don't just focus on the immediate placement; think about the space you are leaving for future pieces.
-[JA TRANSLATION NEEDED] 2.  **Aim for Combos:** Clearing a single line is good, but clearing multiple lines with a single piece (a "combo") awards significantly more points. Always look for opportunities to complete two or more lines at once.
-[JA TRANSLATION NEEDED] 3.  **Keep the Board Open:** Avoid creating single, isolated empty squares, as these can be very difficult to fill. Try to keep your board as open and flexible as possible to accommodate a wide variety of shapes.
-[JA TRANSLATION NEEDED] 4.  **Don't Rush:** There is no time limit. Take your time to analyze the pieces and the board to find the optimal placement for each block.
+### 操作ガイド
 
-### Controls Guide
+ゲームはシンプルなドラッグ＆ドロップメカニクスでプレイします。
 
-[JA TRANSLATION NEEDED] The game is played with a simple drag-and-drop mechanic.
+*   **選択と配置:** マウスまたは指を使って、画面下部にある3つの利用可能なブロック形状の1つをクリックし、10x10グリッドにドラッグします。
+*   **離す:** マウスボタンまたは指を離して、強調表示されたスペースにブロックをドロップします。
 
-*   **Select and Place:** Use your mouse or finger to click and drag one of the three available block shapes from the bottom of the screen onto the 10x10 grid.
-    - **A:** You cannot rotate the blocks. This is a core rule and the main challenge of the game. You must use the shapes exactly as they are given.（日本語訳が必要）
-    - **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.（日本語訳が必要）
-    - **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.（日本語訳が必要）
-    - **A:** You cannot rotate the blocks. This is a core rule and the main challenge of the game. You must use the shapes exactly as they are given.（日本語訳が必要）
-    - **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.（日本語訳が必要）
-    - **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.（日本語訳が必要）
-*   **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ブロックを回転させるには？**
+    *   **A:** ブロックは回転できません。これは核となるルールであり、ゲームの主な挑戦です。与えられた形状を正確にそのまま使用しなければなりません。
 
-*   **Q: How do I rotate the blocks?**
-[JA TRANSLATION NEEDED]     *   **A:** You cannot rotate the blocks. This is a core rule and the main challenge of the game. You must use the shapes exactly as they are given.
+*   **Q: ゲームはどうなると終了しますか？**
+    *   **A:** 3つのブロックのセットが与えられ、そのいずれもグリッド上に配置できる合法的なスペースがなくなった時点で終了です。
 
-*   **Q: How does the game end?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
-
-*   **Q: What is the best strategy for a high score?**
-
-
-
-
-
-
-
-
-    - **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
-- **Q: What is the best strategy for a high score?**
-    - **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
-- **Q: How does the game end?**
-    - **A:** You cannot rotate the blocks. This is a core rule and the main challenge of the game. You must use the shapes exactly as they are given.
-- **Q: How do I rotate the blocks?**
-### よくある質問（FAQ）
-- **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
-
-
-
-
-
-    - **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
-- **Q: What is the best strategy for a high score?**
-    - **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
-- **Q: How does the game end?**
-    - **A:** You cannot rotate the blocks. This is a core rule and the main challenge of the game. You must use the shapes exactly as they are given.
-[JA TRANSLATION NEEDED]     *   **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
-
+*   **Q: ハイスコアのための最良の戦略は？**
+    *   **A:** ハイスコアの鍵は、長生き（持続時間）とコンボです。ボードをきれいでオープンに保つことで、できるだけ長く生き残りましょう。一度に複数のラインをクリアしてコンボボーナスを得る動きを優先してください。例えば、一度に2つのラインをクリアすることは、異なる2つの動きで2つの別々のラインをクリアするよりも価値があります。

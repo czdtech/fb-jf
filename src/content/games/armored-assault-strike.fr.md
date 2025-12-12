@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: armored-assault-strike
-title: '[FR] Armored Assault Strike'
-description: >-
-  [FR] Armored Assault Strike is a top‑down vehicle shooter — maneuver armor,
-  manage cooldowns, and crush hostiles.
-iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
+title: "Armored Assault Strike"
+description: "Armored Assault Strike est un shooter vue de dessus où tu pilotes un véhicule blindé, gères tes compétences et élimines des vagues d’ennemis sans exposer ton char inutilement."
+iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
 thumbnail: /new-images/armored-assault-strike.png
 tags:
   - shooting
@@ -14,28 +12,32 @@ score: 4.0/5  (1930 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Armored Assault Strike* mélange shoot ’em up arcade et gestion de position. Tu contrôles un véhicule blindé vu du dessus, dois contourner les ennemis les plus dangereux, utiliser le décor comme couverture et déclencher tes capacités au bon moment pour survivre aux vagues.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1. **Kite les élites :** reste en mouvement autour des ennemis puissants, tire en reculant et casse la ligne de vue dès que la pression devient trop forte.  
+2. **Gère la chaleur et les temps de recharge :** au lieu de tirer sans arrêt, utilise des rafales pour éviter la surchauffe et garder tes compétences pour les moments critiques.  
+3. **Priorise les cibles dangereuses :** élimine d’abord les ennemis à roquettes, à dégâts de zone ou ceux qui ralentissent ton véhicule.  
+4. **Planifie les ramassages :** ramasse les bonus de vie/munitions quand le champ est relativement sûr, pas en plein milieu d’une grosse vague.  
+5. **Garde un échappatoire :** conserve une compétence d’esquive (dash, bouclier, etc.) pour t’en sortir quand tu es coincé.
 
-Armored Assault Strike blends arcade shooting with light positioning. Circle tough foes, use terrain for cover, and chain abilities to break waves efficiently without overexposing your hull.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Déplacement avec les touches WASD ou flèches.  
+- Vise et tire avec la souris ou les boutons d’action indiqués dans l’interface.  
+- Active les capacités spéciales via les touches de raccourci (par exemple 1–4).
 
-1.  **[FR]** Kite elites and break line‑of‑sight when pressured.
-2.  **[FR]** Burst and cool: Fire in bursts to control heat/cooldowns.
-3.  **[FR]** Focus fire on priority targets (rockets/aoe casters).
-4.  **[FR]** Route safe pickups and avoid mid‑fight crossovers.
-5.  **[FR]** Save escapes (dash/shield) for emergencies.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- **Q : Pourquoi mon char se fait‑il détruire si vite ?**  
+  **R :** Rester à découvert face à plusieurs ennemis concentrés est très dangereux. Utilise le décor comme couverture et n’hésite pas à reculer.  
 
-- Move with WASD/Arrows; aim/fire per UI; trigger abilities on hotkeys.
+- **Q : Les munitions sont‑elles limitées ?**  
+  **R :** Selon la version, tu peux avoir des chargeurs ou de la chaleur à gérer. Tire en rafales et garde tes gros tirs pour les ennemis résistants.  
 
-### Frequently Asked Questions (FAQ)
-
-- I melt fast—why? Overexposed in the open; use cover and kiting.
-- Ammo limited? Conserve on trash; burst elites.
-- Bosses? Learn patterns and break adds first.
+- **Q : Comment battre les boss ?**  
+  **R :** Observe leurs patterns, détruis les sbires qui les accompagnent en priorité et profite des fenêtres d’attaque pour vider tes compétences sur le boss.
 

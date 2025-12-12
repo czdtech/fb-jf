@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: kitchen-sorting
-title: '[KO] Kitchen Sorting'
+title: "Kitchen Sorting 키친 소팅"
 description: >-
-  [KO] Kitchen Sorting is a tidy categorization puzzler — sort foods, tools, and
-  waste correctly under time pressure while avoiding cross‑contamination.
+  Kitchen Sorting은 주방에서 나오는 재료, 도구, 쓰레기 등을 올바른 분류함에 빠르게
+  넣어야 하는 카테고리 퍼즐 게임입니다. 시간 압박 속에서도 교차 오염을 피하며
+  정확하게 분류하는 것이 중요합니다.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/kitchen-sorting.png
 tags:
@@ -19,33 +20,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Kitchen Sorting is a fast, visual logic game about placing items into correct bins: produce vs meats, recyclables vs trash, clean tools vs dirty ones, hot vs cold storage, etc. Levels add misleaders (e.g., cooked vs raw), combo objectives (sort three safe items in a row), and penalties for wrong placement or delays. Difficulty rises with simultaneous conveyors and stricter hygiene rules that punish cross‑contamination.
+*Kitchen Sorting*은 각종 주방 물품을 올바른 분류함에 넣는 빠른 시각 논리 게임입니다.
+야채와 고기처럼 서로 구분해야 하는 식재료, 재활용 쓰레기와 일반 쓰레기, 깨끗한
+도구와 사용한 도구, 상온 보관과 냉장 보관 등 다양한 기준이 동시에 등장합니다.
+스테이지가 진행될수록 익힌/생 재료 구분, 연속 정답 콤보, 오분류 패널티, 동시
+컨베이어 등 규칙이 복잡해지고, 위생 규칙을 어기면 큰 감점이 들어가는 등 난도가
+점점 올라갑니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 플레이 팁
 
-1.  **[KO]** Big rules first: Prioritize health‑critical splits (raw meats vs ready‑to‑eat) before fine categories.
-2.  **[KO]** Visual cues: Learn iconography (recycle marks, thermometer symbols) to speed decisions.
-3.  **[KO]** Buffering: If allowed, park unclear items briefly to avoid mistakes under rush.
-4.  **[KO]** Combo routing: Chain easy items to maintain streak multipliers; insert tricky items during lulls.
-5.  **[KO]** Error control: One mistake costs more than a slight delay — skip uncertain picks.
+1. **큰 기준부터 우선 적용:** 세부 카테고리보다, 생고기 vs 바로 먹는 식품처럼
+   위생에 직결되는 큰 기준을 먼저 떠올려 분류하세요.
+2. **시각적 단서 익히기:** 재활용 마크, 온도계 아이콘, 색상 구분 등 UI상의 아이콘을
+   빠르게 읽어낼 수 있도록 익혀 두면 판단 속도가 크게 올라갑니다.
+3. **보류 공간 활용:** 허용되는 범위 내에서 헷갈리는 물건은 잠시 한쪽에 둔 뒤,
+   여유가 생겼을 때 다시 판단하는 것이 실수하는 것보다 낫습니다.
+4. **콤보 운영:** 처리하기 쉬운 물건부터 연속으로 넣어 콤보 배수를 유지하고,
+   헷갈리는 물건은 컨베이어가 잠시 한가해졌을 때 처리하세요.
+5. **오류 최소화:** 후반 레벨에서는 한 번의 오분류가 큰 패널티를 부를 수 있습니다.
+   확신이 서지 않으면 과감히 건너뛰는 것이 전체 점수에 더 도움이 될 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Drag or tap items into labeled bins; pause/retry via UI; hints may highlight correct zones.
+- 아이템을 드래그하거나 탭해 해당 라벨이 붙은 분류함으로 보냅니다.
+- 일시정지/다시 시작 버튼을 통해 잠시 템포를 조절할 수 있으며, 일부 버전에서는
+  힌트 기능으로 정답 구역을 잠깐 표시해 주기도 합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: I confuse recyclables and trash — any advice?
+- **Q: 재활용과 일반 쓰레기를 자꾸 헷갈립니다.**  
+  **A:** 유리병, 캔, 골판지처럼 "항상 재활용"에 해당하는 대표 품목을 몇 개 외워 두고,
+  라벨이 없는 애매한 플라스틱은 기본적으로 일반 쓰레기로 보내는 쪽이 안전합니다.
 
-A: Memorize a few anchors (glass, cans, cardboard) as “always recycle”; uncertain plastics go to trash unless labeled.
+- **Q: 콤보가 자꾸 끊어져요.**  
+  **A:** 난이도가 낮은 품목들을 먼저 처리해 콤보를 안정적으로 쌓은 뒤, 컨베이어가
+  잠깐 느려질 때 어려운 품목을 끼워 넣는 방식으로 운영해 보세요.
 
-- Q: Combo streaks keep breaking.
-
-A: Feed easy items first to stabilize streaks, then slip harder ones during slowdowns.
-
-- Q: Are penalties harsh?
-
-A: Later levels penalize hygiene mistakes heavily; skip if unsure rather than risking a red mark.
-
+- **Q: 패널티가 너무 심한 것 같아요.**  
+  **A:** 후반 스테이지일수록 위생 관련 실수의 감점이 커집니다. 확실하지 않은 경우에는
+  과감히 건너뛰고, 확실한 물건 위주로 콤보를 유지하는 것이 전체 점수에는 더
+  유리할 수 있습니다.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: kitty-match
-title: '[ES] Kitty Match'
+title: Kitty Match
 description: >-
-  [ES] Welcome to Kitty Match, a purr-fectly delightful match-3 puzzle game!
-  Swap colorful cat-themed items to make matches and complete challenging
-  levels.
+  Bienvenido a Kitty Match, un encantador juego de puzles match‑3. Intercambia
+  objetos gatunos de colores para hacer combinaciones y superar niveles
+  desafiantes.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/kitty-match.png
 tags:
@@ -18,30 +18,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Kitty Match es un juego de puzles match‑3 encantador y adictivo, repleto de
+adorables gatos y retos llenos de color. El objetivo es intercambiar fichas
+adyacentes para formar líneas de tres o más objetos iguales. Cada nivel trae un
+objetivo distinto: recolectar cierto número de piezas, limpiar bloques
+especiales, etc. Al superarlos obtienes recompensas y avanzas por un mundo
+lleno de gatitos. Es un juego relajante para todas las edades, perfecto para
+amantes de los puzles y de los gatos.
 
-Kitty Match is a charming and addictive match-3 puzzle game filled with cute cats and colorful challenges. The goal is to swap adjacent tiles to create lines of three or more identical items. Each level has a unique objective, such as collecting a certain number of specific items or clearing special blocks. By completing levels, you can earn rewards and progress through a delightful, cat-filled world. It's a relaxing game for all ages, perfect for puzzle and cat lovers alike.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Busca grandes combinaciones:** hacer match‑3 está bien, pero alinear 4 o 5
+    piezas es aún mejor. Las combinaciones grandes crean power‑ups que limpian
+    filas, columnas o explotan en área.
+2.  **Planifica tus movimientos:** cada nivel tiene un número limitado de
+    jugadas. Antes de mover, observa todo el tablero y piensa 2‑3 jugadas por
+    delante. Prioriza movimientos que acerquen al objetivo del nivel.
+3.  **Combina power‑ups:** la magia real aparece al combinar dos potenciadores.
+    Por ejemplo, intercambiar una bomba con un cohete puede limpiar una gran
+    zona del tablero. Experimenta con distintas combinaciones.
+4.  **Trabaja desde abajo:** hacer combinaciones cerca de la parte inferior
+    provoca cascadas de fichas nuevas, que a menudo generan matches extra sin
+    gastar movimientos.
 
-1.  **[ES]** **Look for Big Matches:** While matching three items is good, matching four or five items is even better! These larger matches create special power-up tiles that can clear entire rows, columns, or explode to clear a whole area.
-2.  **[ES]** **Plan Your Moves:** You only have a limited number of moves in each level. Before making a swap, look at the whole board and try to plan a few moves ahead. Prioritize matches that will help you achieve the level's goal.
-3.  **[ES]** **Combine Power-ups:** The real magic happens when you combine two special power-up tiles. Swapping a bomb with a rocket, for example, can create a massive board-clearing effect. Experiment with different combinations.
-4.  **[ES]** **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade of new tiles to fall, often creating new matches automatically. This is a great way to clear the board efficiently.
+### Guía de controles
 
-### Controls Guide
+*   **Intercambiar fichas:** usa el ratón para hacer clic y arrastrar un ítem a
+    una casilla adyacente. El intercambio solo se realiza si genera una
+    combinación de tres o más.
 
-*   **[ES]** **Swap Tiles:** Use your mouse to click and drag an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es el objetivo de cada nivel?**
+    *   **R:** Se muestra al inicio y cambia según el nivel: puede ser
+        recolectar un número de piezas de cierto tipo, romper gelatina o bajar
+        objetos especiales hasta el fondo del tablero.
 
-*   **[ES]** **Q: What is the goal of each level?**
-    *   **[ES]** **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.
+*   **P: ¿Qué pasa si me quedo sin movimientos?**
+    *   **R:** Si no completas el objetivo antes de agotar los movimientos,
+        pierdes una vida y tendrás que intentarlo de nuevo.
 
-*   **[ES]** **Q: What happens if I run out of moves?**
-    *   **[ES]** **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
-
-*   **[ES]** **Q: How do I create a bomb?**
-    *   **[ES]** **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
-
+*   **P: ¿Cómo creo una bomba?**
+    *   **R:** Normalmente se crea al combinar cinco piezas iguales en forma de
+        "L" o "T". Al activarse, la bomba limpia un área amplia alrededor.

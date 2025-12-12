@@ -1,14 +1,13 @@
 ---
 locale: es
 urlstr: slither-io
-title: '[ES] Slither.io'
+title: "Slither.io"
 description: >-
-  [ES] Slither.io is a popular multiplayer online game where players control a
-  snake-like avatar, consuming glowing orbs to grow larger while avoiding
-  collisions with other players in an endless arena battle for supremacy.
-iframeSrc: >-
-  https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
-thumbnail: /new-images/slither-io.jpg
+  Slither.io es un popular juego multijugador online en el que controlas una
+  serpiente que crece al comer orbes brillantes, mientras evitas chocar contra
+  otros jugadores en una arena infinita por la supremacía.
+iframeSrc: "https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html"
+thumbnail: "/new-images/slither-io.jpg"
 tags:
   - multiplayer
   - io game
@@ -18,34 +17,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Slither.io" es un juego .io muy popular en el que controlas una serpiente que
+se desliza por una arena compartida con otros jugadores. Tu objetivo es comer
+orbes de luz para hacerte cada vez más grande, mientras evitas chocar con otras
+serpientes. En este escenario sin fin, todos compiten por convertirse en la
+serpiente más larga del servidor.
 
+### Estrategias de juego
 
-### Game Introduction
+1.  **Crecimiento seguro:** Al principio, céntrate en recoger orbes pequeños y
+    evita acercarte a serpientes grandes.
+2.  **Cortar el paso:** Cuando seas lo bastante grande, intenta cruzarte en la
+    trayectoria de otras serpientes para obligarlas a chocar contigo.
+3.  **Uso del turbo:** Utiliza el impulso con cabeza para escapar de peligros o
+    rematar presas, pero recuerda que consume parte de tu longitud.
+4.  **Aprovecha los bordes:** Puedes usar los límites del mapa para proteger uno
+    de tus flancos y reducir el riesgo de que te rodeen.
+5.  **Paciencia:** Espera a que los demás se equivoquen y aprovecha los montones
+    de orbes que dejan las serpientes grandes al morir.
 
-"Slither.io" is a popular multiplayer online game where players control a snake-like avatar, consuming glowing orbs to grow larger while avoiding collisions with other players. In this endless arena, players compete for dominance with the goal of becoming the biggest and longest snake.
+### Cómo jugar
 
-### Gameplay Strategy
+*   **Movimiento:** Usa el ratón para indicar la dirección. La cabeza de la
+    serpiente sigue el puntero.
+*   **Turbo:** Mantén pulsado el botón izquierdo del ratón o la barra
+    espaciadora para acelerar.
+*   **Vista:** En algunas versiones puedes usar la rueda del ratón o teclas
+    específicas para ajustar el zoom.
 
-1.  **[ES]** **Safe Growth**: Focus on collecting small orbs in early game, avoiding contact with large snakes.
-2.  **[ES]** **Cutting Tactics**: When you're large enough, try to cut off other snakes' paths to make them crash into you.
-3.  **[ES]** **Boost Technique**: Use the boost function wisely to escape danger or capture prey, but note it consumes body length.
-4.  **[ES]** **Border Utilization**: Use map boundaries to protect one side, reducing the risk of being surrounded.
-5.  **[ES]** **Patient Waiting**: Wait for other snakes to make mistakes, then collect the large amount of orbs they leave behind.
+### Preguntas frecuentes
 
-### How to Play
-
-*   **[ES]** **Movement**: Use mouse to control snake movement direction; the snake head follows the mouse pointer.
-*   **[ES]** **Boost**: Hold left mouse button or spacebar to accelerate movement.
-*   **[ES]** **Observation**: Use mouse wheel or keys to zoom view (in some versions).
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How do I grow quickly?**
-**A**: Look for orb piles left by recently deceased large snakes; these provide significant growth points.
-2.  **[ES]** **Q: What do I do when surrounded?**
-**A**: Use boost to break through the encirclement, or try to hug other snakes' bodies to find gaps.
-3.  **[ES]** **Q: What are the consequences of boosting?**
-**A**: Boosting consumes your body length, so use it cautiously at critical moments.
-4.  **[ES]** **Q: Is there a leaderboard in the game?**
-**A**: Yes, the game displays rankings of the largest snakes on the current server.
+1.  **P: ¿Cómo crezco rápido?**
+    **R:** Busca zonas donde hayan muerto serpientes grandes; los orbes que dejan
+    dan mucha más masa que los dispersos.
+2.  **P: ¿Qué hago si me rodean?**
+    **R:** Usa el turbo para intentar romper el cerco o deslízate muy pegado a
+    los cuerpos rivales buscando un hueco.
+3.  **P: ¿Qué efectos tiene usar el turbo?**
+    **R:** Pierdes longitud mientras lo usas, así que utilízalo solo cuando haga
+    falta.
+4.  **P: ¿Hay tabla de clasificación?**
+    **R:** Sí, normalmente verás un ranking con las serpientes más grandes del
+    servidor actual.

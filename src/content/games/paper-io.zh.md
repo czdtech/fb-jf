@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: paper-io
-title: '[ZH TRANSLATION NEEDED] Paper io'
+title: "《Paper.io》彩纸领地大作战"
 description: >-
-  [ZH TRANSLATION NEEDED] Paper.io is a popular multiplayer online game where
-  players control a colored block and aim to conquer as much territory as
-  possible by drawing lines and enclosing areas, while avoiding other players.
+  《Paper.io》是一款多人领地争夺类 io 游戏，你操控一块彩色方块，通过画线围出地盘并封闭区域来扩张势力，同时要小心其他玩家切断你的尾迹将你淘汰。
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/paper-io.jpg
 tags:
@@ -17,28 +15,29 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Paper.io" is a popular multiplayer online territory-conquering game. Players control a colored block with the objective of claiming as much territory as possible by drawing lines and enclosing areas. In the game, you need to cleverly expand your territory while being wary of attacks from other players, as your line is your weakness; once touched, you fail. The game is fast-paced, highly strategic, and full of competitive fun.
+《Paper.io》是一款节奏明快的多人在线领地争夺游戏。你将操控一块带有自己颜色的小方块，在地图上移动时会在身后留下“彩色轨迹”。当你成功将轨迹首尾相连并封闭一个区域时，该区域就会被染成你的颜色，成为你的领地。但风险在于：只要你还在领地外画线，任何玩家只要撞到你的线，就能直接将你淘汰出局。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Safe Expansion**: In the early stages, try to expand within small areas near your territory to ensure safety.
-2.  **Quick Action**: When enemy players are far away or distracted, seize the opportunity to quickly claim large areas.
-3.  **Protect Your Line**: Your line is your lifeline; be especially careful of other players chasing you while drawing your line.
-4.  **Cut Off Enemies**: If an enemy player is expanding their territory by drawing a line, you can eliminate them by cutting off their line.
-5.  **Utilize Map Edges**: The edges of the map can also be used as boundaries to enclose areas, which can save time and avoid risks.
+1.  **安全小步扩张：** 开局阶段建议先在自己初始领地周围画小圈，稳健扩张，避免一开始就画过长的路线暴露太久在外。
+2.  **抓时机大圈吃地：** 当周围暂时没有敌人或其他玩家相距较远时，可以抓紧机会画一条更大的圈，一口气吃下大片空地，迅速提升领地占比。
+3.  **时刻保护“尾巴”：** 你在领地外留下的彩色轨迹就是你的致命弱点，一旦被别人撞断你就会立刻出局，所以画线时要多留意小地图和附近动向。
+4.  **反切敌人路线：** 当看到其他玩家正在领地外画线时，可以直接冲向他身后尚未封闭的轨迹，一旦碰到，就能瞬间消灭对方并抢占他的大块潜在领地。
+5.  **善用地图边缘：** 地图边缘也可以用作边界来封圈，一侧靠墙画线通常更安全，能减少被对手绕后包抄的角度。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Typically use the keyboard arrow keys or WASD keys to control your colored block's movement. Your block will automatically draw a line.
+*   **移动：** 使用键盘方向键或 WASD 控制彩色方块移动方向。角色会持续匀速移动，你只需不断调整方向即可，移动时会自动留下轨迹。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What is the objective of "Paper.io"?**
-     **A**: The objective is to claim as much of the map territory as possible and become the largest player.
-2.  [ZH TRANSLATION NEEDED] **Q: How is my score calculated?**
-     **A**: Your score is primarily based on the percentage of the map you control. Eliminating other players also grants bonus points.
-3.  [ZH TRANSLATION NEEDED] **Q: Is there an upgrade system in the game?**
-     **A**: "Paper.io" typically does not have a complex upgrade system; the core of the game lies in players' immediate strategy and execution.
-4.  [ZH TRANSLATION NEEDED] **Q: How do I avoid being eliminated by other players?**
-     **A**: Avoid staying outside your territory for too long, especially while drawing lines, and always be aware of nearby enemies. When enemies approach, quickly return to your own territory.
+### 常见问题
+
+1.  **问：《Paper.io》的胜利目标是什么？**
+    **答：** 核心目标是在当前房间中占据尽可能多的地图面积，成为排行榜上占地比例最高的玩家；存活时间越长、扩张越成功，得分越高。
+2.  **问：游戏中的分数（或百分比）如何计算？**
+    **答：** 你的分数主要取决于当前掌控的地图面积，占地比例越高，排名越靠前；击杀其他玩家通常还会有额外奖励积分。
+3.  **问：游戏里有升级或数值成长吗？**
+    **答：** 大多数版本的《Paper.io》没有复杂的数值养成，大家起点基本一致，比拼的是临场策略、路线规划与反应，而不是属性差距。
+4.  **问：如何降低被别人“切尾巴”的风险？**
+    **答：** 不要在远离自家领地的地方画过长路线，保持扩张半径适中；当发现有玩家靠近时，立刻停止外扩并尽快回到已经封好的安全区域。

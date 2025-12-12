@@ -1,12 +1,11 @@
 ---
 locale: fr
 urlstr: solitaire-klondike
-title: '[FR] Solitaire Klondike'
+title: 'Solitaire Klondike'
 description: >-
-  [FR] Play the classic game of Klondike Solitaire, the most popular version of
-  solitaire. The goal is to move all 52 cards into the four foundation piles by
-  suit, in ascending order from Ace to King. Strategically move cards on the
-  tableau to uncover new possibilities and complete the game.
+  Joue à la version la plus populaire du solitaire : Klondike. Le but est de
+  déplacer les 52 cartes vers les quatre piles de fondation par couleur, de
+  l’As au Roi, en manipulant le tableau pour révéler de nouvelles options.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/solitaire-klondike.jpg
@@ -19,34 +18,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-### Game Introduction
+Klondike Solitaire est la variante de solitaire la plus célèbre, souvent
+appelée simplement « Solitaire ». Avec un paquet standard de 52 cartes, ton
+objectif est de tout ranger dans quatre piles de fondation, une pour
+chaque couleur, en ordre croissant. C’est un jeu de patience, de stratégie
+et d’un peu de chance.
 
-Klondike Solitaire is the most popular and well-known version of the single-player card game, often referred to simply as "Solitaire." Using a standard 52-card deck, the goal is to organize all the cards into four foundation piles, one for each suit, in ascending order. It's a game of patience, strategy, and a little bit of luck.
+### Guide de jeu
 
-### Gameplay Guide
+L’objectif principal est de construire quatre piles de fondation en
+commençant par l’As et en terminant par le Roi pour chaque couleur (A♣, 2♣,
+3♣, etc.).  
+- **Tableau :** tu déplaces les cartes dans la zone principale en les
+  empilant en ordre décroissant (R, D, V…) en alternant les couleurs
+  (par exemple un 7 rouge sur un 8 noir).  
+- **Retourner les cartes :** quand tu enlèves une carte face visible, tu
+  peux retourner la carte face cachée en dessous.  
+- **Pioche :** pioche des cartes pour les envoyer dans la défausse et les
+  rendre jouables.  
+- **Colonnes vides :** seul un Roi peut être déplacé sur une colonne
+  vide du tableau.
 
-The main objective is to build four foundation piles, starting with the Ace and ending with the King for each suit (e.g., A♣, 2♣, 3♣...).
-- **Tableau:** You can move cards within the main playing area (the tableau) by stacking them in descending order (K, Q, J...) and alternating colors (e.g., a red 7 on a black 8).
-- **Revealing Cards:** When you move a face-up card, you can flip the face-down card beneath it.
-- **Stock Pile:** Draw cards from the stock pile to bring new cards into play via the waste pile.
-- **Empty Columns:** Only a King can be moved into an empty tableau column.
+### Commandes
 
-### Controls Guide
+- **Souris / tactile :** clique‑dépose les cartes pour les déplacer entre
+  les piles. Dans la plupart des versions, un simple clic peut aussi
+  envoyer automatiquement une carte vers une position valide.
 
-- **Mouse/Touch:** Click and drag cards to move them between piles. In most versions, you can also simply click a card, and it will automatically move to a valid position if one is available.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Quelle différence entre Klondike et les autres solitaires ?**  
+Klondike est la version la plus connue, avec ses sept colonnes et l’objectif
+de construire de l’As au Roi. D’autres variantes comme Spider ou FreeCell
+ont des règles et mises en page différentes.
 
-**What is the difference between Klondike and other types of Solitaire?**
+**Que signifie « Klondike » ?**  
+Le nom viendrait de la ruée vers l’or du Klondike au Canada, le jeu ayant
+probablement été populaire parmi les chercheurs d’or.
 
-Klondike is the version most people know, characterized by its seven-column tableau and the goal of building up from Ace to King. Other versions like Spider or FreeCell have different rules and layouts.
-
-**What does "Klondike" mean?**
-
-The name is believed to have originated from the Klondike Gold Rush in Canada, possibly because the game was popular among prospectors.
-
-**Is every game of Klondike Solitaire winnable?**
-
-No, not every deal is winnable. The random shuffle of the cards means that some games are mathematically impossible to solve, which is part of the challenge.
-
+**Toutes les parties de Klondike sont‑elles gagnables ?**  
+Non. Le mélange aléatoire fait que certaines distributions sont
+mathématiquement impossibles à résoudre, ce qui fait partie du défi.

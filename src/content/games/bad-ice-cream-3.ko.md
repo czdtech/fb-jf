@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bad-ice-cream-3
-title: '[KO] Bad Ice Cream 3'
+title: 'Bad Ice Cream 3 배드 아이스크림 3'
 description: >-
-  [KO] Master the icy puzzles of Bad Ice-Cream 3. Find expert strategies,
-  controls, and tips to collect all fruit and outsmart new enemies in this
-  chilly arcade adventure.
+  새로운 적과 퍼즐이 추가된 시리즈 3편 Bad Ice-Cream 3입니다. 얼음 블록을
+  이용해 적을 따돌리고, 과일을 모두 모아 미로를 탈출해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/bad-ice-cream-3.jpg
@@ -16,68 +15,96 @@ score: 4.2/5  (660 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+*Bad Ice-Cream 3*는 인기 픽셀 아트 퍼즐 액션 시리즈의 세 번째 작품입니다.
+전작과 마찬가지로, 플레이어는 의인화된 아이스크림 콘을 조종해 얼음 미로
+속에서 과일을 모두 모아야 합니다.
 
+핵심 시스템은 여전히 한 번에 일렬의 얼음 블록을 만들고 부술 수 있는
+능력입니다. 이 얼음 블록은 길을 막아 적을 차단하거나, 새로운 통로를 만드는
+등 이동 경로를 설계하는 데 필수적인 도구입니다. 3편에서는 더욱 복잡한 지형과
+새로운 종류의 적이 추가되어, 기존 전략에 변화를 줄 필요가 있습니다. 어떤 적은
+더 빠르거나 몸집이 크고, 어떤 적은 플레이어가 만든 얼음 벽을 직접 부수기도
+해 이전보다 까다로운 상황이 자주 벌어집니다. 1인 플레이는 물론, 키보드 하나로
+함께 즐길 수 있는 2인 협동 모드도 그대로 지원됩니다.
 
+### 플레이 전략 & 공략
 
+새롭게 추가된 적에 적응하는 동시에, 기본 시스템을 더욱 정교하게 활용해야
+합니다.
 
+#### 1. 얼음은 여전히 모든 것의 핵심
 
+얼음 블록 시스템은 이번 작품에서 생존을 좌우하는 절대적인 요소입니다. 한 번의 실수로 길을 막히지 않도록 항상 다음 행동을 계산하세요.
 
-### Detailed Game Introduction
+*   **방어용 벽:** 규칙적인 경로로 움직이는 적은 여전히 얼음 벽으로 쉽게
+    막을 수 있습니다. 예상 경로 앞에 미리 벽을 세워 안전 구역을 만들면
+    과일 수집이 훨씬 수월합니다.
+*   **적 가두기:** 막다른 길로 적을 유인한 뒤 양쪽을 얼음으로 막아 가두면,
+    해당 구역은 한동안 안전하게 탐색할 수 있습니다.
+*   **새 적 대응:** 얼음을 부수는 적에게는 벽이 영구적인 해결책이 아닙니다.
+    이들에게는 벽을 잠깐 세워 진행을 지연시키는 정도로만 활용하고, 그 사이에
+    도망치거나 과일을 재빨리 회수하는 식으로 운용해야 합니다.
 
-*Bad Ice-Cream 3* is the third installment in the popular 2D pixel-art arcade puzzle series. It builds upon the successful formula of its predecessors, placing players in control of a sentient ice cream cone on a mission to collect all the fruit in each maze-like level.
+#### 2. 난이도 높은 과일부터 노리기
 
-The core gameplay remains centered around the unique ability to create and destroy rows of ice blocks with a single command. This mechanic is essential for navigating the levels, defending against enemies, and solving environmental puzzles. *Bad Ice-Cream 3* introduces a host of new levels, more challenging layouts, and, most importantly, new types of enemies with unique behaviors. Some enemies are faster, some are larger, and some can even destroy the ice walls the player creates, forcing new strategies. The game retains its beloved single-player and two-player cooperative modes, making it an excellent game to play solo or with a friend on the same keyboard.
+레벨이 시작되면 전체 지형을 빠르게 살펴, 적이 많이 지키고 있거나 접근이
+어려운 위치의 과일부터 우선 공략할 계획을 세우세요. 초반에는 적의 움직임이
+예측하기 쉬우므로, 어려운 지점을 먼저 해결해 두는 편이 안전합니다.
 
-### Gameplay Strategy & Walkthrough
+#### 3. 새 적의 패턴 익히기
 
-Mastering *Bad Ice-Cream 3* requires adapting to the new threats while perfecting the core mechanics.
+새로운 행동 패턴을 이해하는 것이 3편 공략의 핵심입니다. 각각의 능력을 파악하면 그만큼 손실을 줄일 수 있습니다.
 
-#### 1. Ice is Your Everything
-The ice block mechanic is more crucial than ever.
-*   **[KO]** **Defensive Walls:** Continue to use ice walls to block predictable enemy paths. This remains your primary survival tool.
-*   **[KO]** **Offensive Trapping:** Lure enemies into dead ends and seal them in. This is especially useful for clearing a quadrant of the map so you can collect fruit in peace.
-*   **[KO]** **Countering New Enemies:** Be aware of enemies that can destroy your ice. Against these foes, walls are only a temporary solution. Use them to buy a few seconds to escape, not as a permanent barrier.
+*   **파괴형 적:** 뿔이 있거나 덩치가 큰 적은 얼음 블록을 부수며 다닙니다.
+    이들에게는 장기적인 감금이 불가능하므로, 잠깐 막아 시간을 버는 용도로
+    만 벽을 사용하세요.
+*   **스폰형 적:** 특정 지점에서 계속 등장하는 적도 있을 수 있으니, 스폰
+    위치를 파악해 지나갈 때 주의해야 합니다.
+*   **추격형 적:** 단순 순찰이 아니라 플레이어를 직접 쫓아오는 적도
+    등장합니다. 이런 적은 즉흥적으로 벽을 세워 동선을 꼬거나, 코너를
+    활용해 크게 돌아 나오도록 유도해야 합니다.
 
-#### 2. Prioritize Difficult Fruit
-Survey the map at the start of each level. Identify which fruits are heavily guarded or in hard-to-reach places. It's often best to devise a plan to get these difficult fruits first, while the enemy layout is still predictable.
+#### 4. 효율적인 동선 설계
 
-#### 3. Learn the New Enemy Behaviors
-This is the key to beating the third game.
-*   **[KO]** **Destroyers:** Some horned or large enemies will smash through your ice blocks. Do not try to trap them for long.
-*   **[KO]** **Spawners:** Some enemies might emerge from certain points in the level. Be aware of their spawn locations.
-*   **[KO]** **Aggressive Chasers:** Unlike the simple patrollers of earlier games, some new enemies will actively change their path to pursue you. You must be more agile and use ice walls reactively to misdirect them.
+과일을 하나씩 흩어져 있는 순서대로 쫓아가기보다는, 지도를 3~4개의 구역으로
+나눠 한 구역씩 정리하는 것이 좋습니다. 얼음 블록을 만드는 데에도 시간이
+들어가므로 불필요한 생성·파괴를 줄이는 것이 시간 관리에 도움이 됩니다.
 
-#### 4. Efficient Movement
-Don't wander aimlessly. Collect fruit in logical groups. Clear one area of the map, then move to the next. Breaking and creating ice takes time, so minimize unnecessary actions. A well-planned path is much faster than a frantic one.
+#### 5. 2인 협동 플레이 팁
 
-#### 5. 2-Player Cooperative Tactics
-*   **[KO]** **Assign Roles:** One player can be the "decoy" or "trapper," whose main job is to manage and contain enemies. The other player can be the "collector," focusing on grabbing the fruit.
-*   **[KO]** **Cover Each Other:** Use your ice abilities to protect your partner if they get cornered. A well-timed wall can save a life.
-*   **[KO]** **Stay Apart:** To avoid getting trapped together and to cover more ground, it's generally best to work on opposite sides of the map.
+*   **역할 분담:** 한 사람은 적을 유인·가두는 역할(탱커/트래퍼), 다른 한 사람은
+    과일을 모으는 역할(수집가)에 집중하는 식으로 역할을 나누면 효율이
+    높습니다.
+*   **서로를 살려 주기:** 동료가 코너에 몰렸을 때, 얼음 벽을 적 앞에 세워
+    잠깐 시간을 벌어 주면 위기를 넘길 수 있습니다.
+*   **거리 유지:** 둘이 너무 붙어서 움직이면 한 번의 실수로 둘 다 위험해질 수
+    있으니, 맵의 서로 다른 쪽을 맡아 움직이는 것이 좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-The controls remain consistent with the previous games, designed for easy sharing on one keyboard.
+이전 시리즈와 동일하게, 한 키보드에서 두 명이 함께 플레이할 수 있도록
+설계되어 있습니다.
 
-*   **[KO]** **Player 1:**
-    *   **[KO]** **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
-    *   **[KO]** **Action (Create/Destroy Ice):** `Spacebar`
+*   **플레이어 1**  
+    - 이동: 방향키 (`↑`, `↓`, `←`, `→`)  
+    - 얼음 생성/파괴: `Space` 키
 
-*   **[KO]** **Player 2:**
-    *   **[KO]** **Move:** `W`, `A`, `S`, `D` Keys
-    *   **[KO]** **Action (Create/Destroy Ice):** `F` Key
+*   **플레이어 2**  
+    - 이동: `W`, `A`, `S`, `D` 키  
+    - 얼음 생성/파괴: `F` 키
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What is the main difference between Bad Ice-Cream 2 and 3?**
-    *   **[KO]** **A:** The biggest difference is the introduction of new enemy types with more complex behaviors. Some enemies can now destroy your ice walls, requiring you to adapt your strategies. The game also features 40 brand-new, more challenging levels.
+*   **Q: Bad Ice-Cream 2와 3의 가장 큰 차이는 무엇인가요?**
+    *   **A:** 3편에서는 얼음을 부수는 적 등 새로운 종류의 적이 추가되어 기존 전략을 그대로 쓰기 어렵습니다. 더욱 복잡한 지형과 다수의 신규 레벨도 포함되어 있습니다.
 
-*   **[KO]** **Q: Can I finally kill the enemies in this game?**
-    *   **[KO]** **A:** No, the core design remains the same. You cannot directly attack or kill enemies. You must rely on evasion and trapping them with your ice blocks.
+*   **Q: 이번에도 적을 직접 처치할 수는 없나요?**
+    *   **A:** 네, 이 시리즈의 기본 디자인은 변하지 않았습니다. 적을 공격해 없애기보다는 얼음 블록으로 피하거나 가두는 방식으로 상대해야 합니다.
 
-*   **[KO]** **Q: How do I beat the big monsters that break my ice walls?**
-    *   **[KO]** **A:** You can't trap them permanently. The best strategy is to use ice walls as a momentary distraction. Place a wall to block them, then immediately use that brief window of time to escape or grab a nearby piece of fruit.
+*   **Q: 얼음을 부수는 거대 몬스터는 어떻게 상대하나요?**
+    *   **A:** 완전히 가두기는 불가능하니, 잠깐 길을 막아 속도를 늦추는 용도로만 사용하고 그 사이에 도망가거나 중요한 과일을 빠르게 회수하세요.
 
-*   **[KO]** **Q: Is there a way to get more lives?**
-    *   **[KO]** **A:** In the classic Flash game versions, there are no in-game items or ways to earn extra lives. You start with a set number of lives, and if you lose them all, you must start the level over.
+*   **Q: 추가 목숨을 얻는 방법이 있나요?**
+    *   **A:** 고전 플래시 버전 기준으로는 별도의 추가 목숨 아이템이 거의 없습니다. 주어진 목숨 안에서 실수를 줄이는 것이 최선입니다.

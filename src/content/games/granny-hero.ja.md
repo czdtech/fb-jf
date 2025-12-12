@@ -1,69 +1,40 @@
 ---
+title: "Granny Hero"
+description: "Granny Heroはコミカルなアクションランナーです。ハザードを避け、奇抜なアイテムを使い、驚くべき敏捷性で隣人を救助しましょう。"
+iframeSrc: "https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/"
+thumbnail: "/new-images/granny-hero.png"
+urlstr: "granny-hero"
+score: "3.9/5  (1751 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: granny-hero
-title: '[JA TRANSLATION NEEDED] Granny Hero'
-description: >-
-  [JA TRANSLATION NEEDED] Granny Hero is a comedic action‑runner — dodge
-  hazards, use quirky power‑ups, and rescue neighbors with surprising agility.
-iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
-thumbnail: /new-images/granny-hero.png
-tags:
-  - action
-  - casual
-score: 3.9/5  (1751 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Granny Heroは、元気なおばあちゃんが通りを疾走し、ドタバタなハザード（危険）を避け、隣人を助けるためのアイテムを集める、軽快なランナーゲームです。レーン移動、ジャンプやスライディングのタイミング、そして時折現れるガジェット（スクーター、傘、フライパンなど）による一時的な無敵や群衆整理（クラウドコントロール）が楽しめます。
 
-[JA TRANSLATION NEEDED] Granny Hero is a lighthearted runner where a spry granny dashes through streets, avoids slapstick hazards, and collects items to aid neighbors. Expect lane swaps, jump/slide timing, and occasional gadgets (scooters, umbrellas, pans) that grant brief invulnerability or crowd‑control.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **レーンの視界**: 移動に備えるために、視線は障害物の2つ先を捉えておきましょう。
+2.  **ジャンプ/スライディングのリズム**: 遅めのジャンプでハードルをクリアし、スライディングで低いバーをくぐりましょう。
+3.  **パワーアップの節約**: シールドやスピードブーストは、障害物が密集している区間のために温存しましょう。
+4.  **ミッション重視**: ルートが競合する場合は、脇道のコインよりも救助ターゲットを優先しましょう。
+5.  **リカバリー**: ミスをした後は、スコアを追いかける前にリズムを立て直しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Lane vision: Keep eyes two obstacles ahead to prepare swaps.
-[JA TRANSLATION NEEDED] 2.  Jump/slide rhythm: Late jumps clear hurdles; slides beat low bars.
-[JA TRANSLATION NEEDED] 3.  Power‑up economy: Save shields/speed boosts for dense stretches.
-[JA TRANSLATION NEEDED] 4.  Mission focus: Prioritize rescue targets over side coins when routes conflict.
-[JA TRANSLATION NEEDED] 5.  Recovery: After a mistake, re‑establish cadence before chasing score.
+### 操作ガイド
 
-### Controls Guide
+- **レーン移動**: A/D または 左/右。
+- **ジャンプ**: スペース/上。
+- **スライディング**: 下。
+- **ガジェット**: キー操作（対応するキーを使用）。
 
-- Swap lanes: A/D or Left/Right; Jump: Space/Up; Slide: Down; gadgets via keys.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep clipping cones — any tip?
-  
-[JA TRANSLATION NEEDED]   A: Jump a beat later and center after passes to maximize options.
-
-- Q: Are gadgets necessary?
-  
-[JA TRANSLATION NEEDED]   A: They provide safety nets; use them where obstacle density spikes.
-
-- Q: Endless?
-  
-
-
-
-
-
-- Q: I keep clipping cones — any tip?
-### よくある質問（FAQ）
-- Swap lanes: A/D or Left/Right; Jump: Space/Up; Slide: Down; gadgets via keys.
-### コントロールガイド
-- Recovery: After a mistake, re‑establish cadence before chasing score.
-[JA TRANSLATION NEEDED]   A: Most modes are endless with missions layered in.
-
-
-
-
-
-
-A: Most modes are endless with missions layered in.
-- Q: Endless?
-A: They provide safety nets; use them where obstacle density spikes.
-- Q: Are gadgets necessary?
-
-
-A: Most modes are endless with missions layered in.
+- **Q: コーンによく当たってしまいます。コツは？**
+  A: ジャンプをワンテンポ遅らせ、通過後に中央に戻ることで選択肢を最大化しましょう。
+- **Q: ガジェットは必要ですか？**
+  A: セーフティネットになります。障害物の密度が急増する場所で使いましょう。
+- **Q: エンドレスですか？**
+  A: ほとんどのモードは、ミッションが組み込まれたエンドレス形式です。

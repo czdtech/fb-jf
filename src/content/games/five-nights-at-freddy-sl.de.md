@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: five-nights-at-freddy-sl
-title: '[DE] Five Nights at Freddy''s Sister Location'
+title: "Five Nights at Freddy's Sister Location"
 description: >-
-  [DE] Shift‑based horror with tasks: move between rooms, complete maintenance
-  jobs, monitor Funtime animatronics, and survive scripted set‑pieces.
+  Sister Location setzt auf schichtbasierten Horror mit Aufgaben: Wechsle
+  zwischen Räumen, erledige Wartungsjobs, überwache Funtime-Animatronics und
+  überstehe geskriptete Szenen.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/five-nights-at-freddy-sl.jpg
 tags:
@@ -14,31 +15,46 @@ score: 3.9/5  (678 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Sister Location ist stärker storygetrieben als frühere Teile und gibt dir für
+jede Nacht konkrete Aufgaben. Du kriechst durch Lüftungsschächte, reparierst
+Systeme und folgst Anweisungen – während die Funtime-Animatronics dir im
+Nacken sitzen.
 
+### So spielst du
 
+- Folge den Anweisungen des Terminals, aber halte Ausschau nach Momenten,
+  in denen die vorgegebenen Schritte nicht mehr sicher sind.
+- Nutze Audio, Elektroschocks und Monitore nur, wenn es nötig ist – zu
+  häufiges Auslösen kann riskant sein.
+- Spätere Nächte variieren die Aufgaben mit höherem Risiko und engere
+  Zeitfenster.
 
-### Overview
-Story‑driven entry with nightly objectives. You crawl through vents, repair systems, and follow instructions while avoiding Funtime animatronics.
+### Steuerung
 
-### How to Play
-- Follow the terminal’s prompts, but adapt when instructions fail.
-- Use audio, shock, and monitoring only when required; conserve actions.
-- Later nights remix tasks with higher risk and tighter windows.
+- Maus/UI, um Bedienpanels, Schockknöpfe und Monitore zu benutzen.  
+- Bewegungs-Tasten für Lüftungsabschnitte (je nach Host).
 
-### Controls
-- Mouse/UI to interact with panels, shocks, and monitors; movement keys for vent sections (host dependent).
+### Tipps
 
-### Tips
-- Listen carefully—audio cues and flickers telegraph danger.
-- Move slowly through dark vent segments; rushing triggers failures.
-- Rehearse panel sequences so you can execute under pressure.
+- Höre genau hin – Geräusche und Bildschirmflackern kündigen Gefahr meist an.
+- Bewege dich in dunklen Schachtpassagen langsam; Hektik führt oft zum
+  Scheitern.
+- Präge dir Panel-Abläufe ein, damit du sie auch unter Druck sauber
+  durchspielen kannst.
 
 ### FAQ
-- Q: Why do shocks stop working?
-A: Some segments require patience or alternative steps; follow updated prompts.
-- Q: Can I skip to specific nights?
-A: Some hosts allow scene/night select; otherwise progress sequentially.
-- Q: Is there a custom night mode?
-A: Many versions include a challenge night after the story.
 
+- **F: Warum funktionieren die Schocks manchmal nicht?**  
+  **A:** Manche Begegnungen lassen sich nicht einfach "wegschocken" – hier sind
+  Geduld oder alternative Schritte gefragt. Achte auf neue Hinweise des
+  Terminals.
+
+- **F: Kann ich zu bestimmten Nächten springen?**  
+  **A:** Einige Hosts bieten Nacht- oder Szenenauswahl, ansonsten spielst du die
+  Story linear durch.
+
+- **F: Gibt es einen Custom-Night-Modus?**  
+  **A:** Viele Versionen schalten nach der Kampagne zusätzliche
+  Herausforderungsnächte frei.

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: kitty-scramble
-title: '[DE] Kitty Scramble'
+title: "Kitty Scramble"
 description: >-
-  [DE] Kitty Scramble is a cozy word‑hunt — swipe across letter grids, find
-  themed words, and clear boards with pattern recognition.
+  Kitty Scramble ist ein gemütliches Wortsuchspiel: Wische über Buchstabengitter,
+  finde thematische Wörter und räume die Tafeln mit deinem Wortschatz ab.
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/kitty-scramble.png
 tags:
@@ -16,36 +16,58 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Kitty Scramble präsentiert dir Buchstabengitter zu unterschiedlichen Themen
+– etwa Tiere, Lebensmittel oder Städte. Du wischst über benachbarte Buchstaben
+in beliebige Richtungen, um vorgegebene Zielwörter zu bilden. Zusätzliche,
+nicht geforderte Wörter bringen dir oft Münzen oder andere Belohnungen.
 
+Mit der Zeit steigen die Anforderungen: Die Wörter werden länger, diagonale
+Wege wichtiger und viele Zielwörter überlagern sich, sodass du flexible Pfade
+finden und deinen Wortschatz gut einsetzen musst.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Kitty Scramble presents themed letter grids (animals, foods, places). Swipe contiguous letters in any direction to form target words; extra words grant coins. Boards escalate with longer words, diagonal paths, and overlapping targets that require flexible pathing and good vocabulary.
+1.  **Thema vorab durchdenken**  
+    Schau dir das aktuelle Thema an und überlege dir vor dem ersten Wischen,
+    welche Begriffe wahrscheinlich vorkommen könnten.
 
-### Gameplay Strategy & Walkthrough
+2.  **Muster erkennen**  
+    Achte auf häufige Buchstabenkombinationen wie "CH", "ER" oder typische
+    Endungen. Solche Anker helfen dir, mögliche Wörter im Gitter zu entdecken.
 
-1.  **[DE]** Theme scan: Pre‑list likely words from the theme before swiping.
-2.  **[DE]** Pattern anchors: Look for repeated bigrams/trigrams (TH, ING, EST) to seed paths.
-3.  **[DE]** Overlaps: When a word blocks another, find an alternate route using diagonals.
-4.  **[DE]** Bonus economy: Bank extra words early to save hints for late boards.
-5.  **[DE]** Systematic sweep: Scan rows then columns to avoid misses.
+3.  **Überlappungen einplanen**  
+    Wenn ein gefundenes Wort einen anderen Pfad blockiert, versuche eine
+    alternative Route – oft lassen sich dieselben Buchstaben diagonal oder im
+    Zickzack verbinden.
 
-### Controls Guide
+4.  **Bonus-Wirtschaft**  
+    Sammle früh im Level zusätzliche Wörter, um Münzen und Hinweise zu
+    erhalten. Die kannst du später auf schwierigen Tafeln einsetzen.
 
-- Drag across letters to form words; release to submit; use hints sparingly.
+5.  **Systematisch scannen**  
+    Gehe das Gitter Reihe für Reihe und Spalte für Spalte durch, damit dir
+    keine offensichtlichen Wörter entgehen.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I see the word but can’t draw it — why?
+- **Wörter bilden:** Wische mit gedrückter Maustaste oder dem Finger über
+  zusammenhängende Buchstaben, um ein Wort zu markieren, und lasse los, um es
+  einzureichen.
+- **Hinweise:** Nutze Hinweise sparsam, sie helfen vor allem bei den letzten
+  fehlenden Wörtern.
 
-A: The letters may not be contiguous; route diagonally or in a zig‑zag where allowed.
+### FAQ
 
-- Q: Are plurals allowed?
+- **F: Ich sehe ein Wort, kann es aber nicht zeichnen – warum?**  
+  **A:** Vermutlich liegen die Buchstaben nicht direkt nebeneinander. Prüfe, ob
+  du das Wort diagonal oder über eine Zickzack-Linie verbinden kannst, falls
+  das Spiel solche Wege erlaubt.
 
-A: Usually yes unless excluded by the list.
+- **F: Sind Mehrzahlformen erlaubt?**  
+  **A:** In vielen Leveln ja, außer das Wörterbuch schließt sie explizit aus.
 
-- Q: Can I replay for coins?
-
-A: Yes — farm early boards for extra hints.
-
+- **F: Kann ich Levels erneut spielen, um mehr Münzen zu verdienen?**  
+  **A:** Ja, du kannst frühere Tafeln wiederholen und zusätzliche Wörter finden,
+  um dir ein Polster an Hinweisen aufzubauen.

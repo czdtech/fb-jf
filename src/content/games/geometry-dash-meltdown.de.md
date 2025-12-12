@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: geometry-dash-meltdown
-title: '[DE] Geometry Dash Meltdown'
+title: "Geometry Dash Meltdown"
 description: >-
-  [DE] Rhythm platformer pack: jump and fly through new music‑synced levels with
-  themed hazards and ship segments.
+  Geometry Dash Meltdown ist ein eigenständiges Levelpaket: Springe und fliege
+  durch neue, musik-synchrone Stages mit eigenen Themen, Fallen und
+  Schiffspassagen.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/geometry-dash-meltdown.jpg
 tags:
@@ -14,30 +15,38 @@ score: 4.4/5  (994 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Meltdown liefert eine Auswahl eigener Geometry-Dash-Level mit eigenständigen
+Songs und visuellen Themen. Dich erwarten Stacheln, Jump-Pads, Portale sowie
+Schiff- und Ball-Sektionen, die alle eng auf den Beat abgestimmt sind.
 
+### So spielst du
 
+- Lerne die Muster im Übungsmodus und spiele sie danach in einem Durchlauf.
+- Tippe im Takt, um über Stacheln und Sägen zu kommen; halte gedrückt, um
+  Schiff/Ball ruhig zu steuern.
+- Nutze Jump-Pads und Ringe präzise – Über-Tappen führt schnell zu Fehleingaben.
 
-### Overview
-Standalone set of Geometry Dash levels with distinct visual themes and songs; expect spikes, pads, portals, and ship/ball sections.
+### Steuerung
 
-### How to Play
-- Learn patterns in practice, then execute full runs.
-- Tap on the beat; hold ship/ball sections with gentle inputs.
-- Use jump pads and rings precisely; over‑tapping causes misses.
+- Tippen/Leertaste/Mausklick zum Springen; Halten zum Fliegen (je nach Host).
 
-### Controls
-- Tap/Space/Mouse to jump; hold to fly (host dependent).
+### Tipps
 
-### Tips
-- Turn off heavy effects if timing feels late.
-- Count beats aloud for early learning.
+- Reduziere grafische Effekte, wenn dein Timing durch Lags leidet.
+- Zähle zu Beginn laut im Rhythmus mit, um ein Gefühl für die Sprungpunkte zu
+  bekommen.
 
 ### FAQ
-- Q: Are the levels different from the base game?
-A: Yes, Meltdown features its own curated tracks and layouts.
-- Q: Can I use practice mode here?
-A: Most hosts include a practice option with checkpoints.
-- Q: Is there user‑generated content?
-A: Meltdown focuses on built‑in levels; UGC depends on host.
 
+- **F: Sind die Level anders als im Hauptspiel?**  
+  **A:** Ja, Meltdown bringt eigene Tracks und Layouts mit.
+
+- **F: Gibt es einen Übungsmodus?**  
+  **A:** In den meisten Versionen kannst du im Practice Mode mit Checkpoints
+  trainieren.
+
+- **F: Gibt es User-Levels?**  
+  **A:** Meltdown konzentriert sich auf eingebaute Level; Community-Content
+  hängt vom Host ab.

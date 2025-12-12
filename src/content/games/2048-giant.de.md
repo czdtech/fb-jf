@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: 2048-giant
-title: '[DE] 2048 Giant'
+title: "2048 Giant"
 description: >-
-  [DE] Experience the classic 2048 puzzle in a giant new way in 2048 Giant.
-  Combine tiles and reach for a high score on a bigger board.
+  2048 Giant bringt das klassische 2048‑Puzzle auf ein größeres Spielfeld. Schiebe
+  Zahlenkacheln zusammen, bilde immer höhere Werte und plane voraus, damit das
+  Brett nicht überläuft.
 iframeSrc: >-
   https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/2048-giant.jpg
@@ -17,30 +18,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+2048 Giant ist eine Variante des bekannten 2048‑Rätsels, die auf einem
+vergrößerten Raster gespielt wird. Das Ziel bleibt gleich: Du verschiebst
+nummerierte Kacheln, kombinierst gleiche Zahlen und versuchst, eine 2048‑Kachel
+zu erzeugen. Durch das größere Spielfeld ergeben sich neue Möglichkeiten – aber
+auch mehr Raum für Fehler, sodass vorausschauende Planung noch wichtiger wird.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-2048 Giant is a version of the classic 2048 puzzle game, but played on a larger grid. The goal remains the same: slide numbered tiles to combine them and create the 2048 tile. The larger board offers a new level of challenge and requires more strategic planning.
+Die Grundstrategien aus dem normalen 2048 gelten weiterhin, müssen aber an das
+größere Brett angepasst werden.
 
-### Gameplay Strategy & Walkthrough
+1.  **Eckenstrategie:** Suche dir eine Ecke aus und halte dort konsequent deine
+    höchste Zahl. Auf dem größeren Feld ist das noch entscheidender, damit
+    wichtige Kacheln nicht in der Mitte feststecken.
+2.  **Bewegungen einschränken:** Nutze bevorzugt nur zwei bis drei Richtungen,
+    um die Kacheln geordnet zu halten. Liegt dein Eckanker rechts oben, bieten
+    sich zum Beispiel **Oben**, **Rechts** und nur selten **Unten** an.
+3.  **Ketten aufbauen:** Sortiere die Zahlen von deiner Eck‑Kachel aus in
+    absteigender Reihenfolge. So entstehen leichte Kettenreaktionen, wenn neue
+    hohe Kacheln gebildet werden.
+4.  **Vorausdenken:** Ein größeres Brett bedeutet mehr Kombinationsmöglichkeiten
+    – und mehr Chancen, sich zu verbauen. Versuche daher, mehrere Züge im
+    Voraus zu planen, bevor du swipst.
 
-The core strategies for 2048 apply here, but need to be adapted for the larger board.
+### Steuerung
 
-1.  **[DE]** **The Corner Strategy:** Choose one corner and keep your highest value tile there. This is more crucial on a larger board to avoid getting high-value tiles trapped in the middle.
-2.  **[DE]** **Limit Movement:** Stick to 2 or 3 directions to keep the tiles organized and predictable. For example, use only the up, down, and right arrows if your corner is on the right side.
-3.  **[DE]** **Build Chains:** Arrange tiles in descending order from your chosen corner. This helps in creating chain reactions of merges.
-4.  **[DE]** **Plan Ahead:** Think several moves ahead. A larger board means more possibilities and more chances for error.
+*   **Pfeiltasten:** Bewege alle Kacheln mit den Pfeiltasten in die gewünschte
+    Richtung.
+*   **Wischen (Touch):** Auf mobilen Geräten wischst du in die Richtung, in die
+    sich die Kacheln bewegen sollen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Arrow Keys:** Use the arrow keys to move the tiles.
-*   **[DE]** **Swipe:** On touch devices, swipe in the direction you want the tiles to move.
+*   **F: Was ist das Ziel von 2048 Giant?**
+    *   **A:** Wie im Original versuchst du, gleichwertige Kacheln zu vereinen, bis du eine 2048‑Kachel erzeugt hast. Danach kannst du weiterspielen und deinen Highscore weiter steigern.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What is the goal of 2048 Giant?**
-    *   **[DE]** **A:** To create the 2048 tile by merging tiles of the same number. The game can be continued after reaching 2048 to achieve a higher score.
-*   **[DE]** **Q: How is it different from classic 2048?**
-    *   **[DE]** **A:** It's played on a larger grid, which makes the game longer and requires more planning.
-
+*   **F: Worin unterscheidet es sich vom klassischen 2048?**
+    *   **A:** Das Spiel läuft auf einem größeren Raster ab. Dadurch dauern Partien länger, bieten mehr Raum für Taktik und verlangen sorgfältigere Planung.

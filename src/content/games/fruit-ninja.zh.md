@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fruit-ninja
-title: '[ZH TRANSLATION NEEDED] Fruit Ninja'
+title: "Fruit Ninja 切水果忍者"
 description: >-
-  [ZH TRANSLATION NEEDED] Arcade slicing: swipe through flying fruit while
-  avoiding bombs; chain combos and frenzy boosts for higher scores.
+  街機式切水果遊戲代表作：在空中用手勢劃破飛出的水果，
+  避開炸彈，串起連斬與狂熱模式來衝擊高分。
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/fruit-ninja.jpg
 tags:
@@ -17,26 +17,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Swipe to slice fruit mid‑air. Avoid bombs and aim for combos and criticals. Modes vary by host (classic, arcade, zen).
+
+在《Fruit Ninja》中，你要用滑鼠或手指在空中劃出利落的刀光，
+將瘋狂飛出的水果一刀兩斷。同時必須小心混在其中的炸彈──一旦誤砍，
+就可能立刻結束遊戲或被扣大量分數／時間。不同版本通常提供經典、街機、禪模式等多種玩法。
 
 ### How to Play
-- Draw swift, clean lines through multiple fruit for combo points.
-- Let bombs pass; hitting one ends runs or deducts heavily.
-- Time frenzy bananas (when present) for massive chains.
+
+- 用迅速且乾淨的劃線，同時切中多顆水果取得連斬加分與暴擊效果。
+- 對炸彈一律「敬而遠之」，讓它自然飛出畫面，不要嘗試在炸彈附近撿零碎水果。
+- 若有狂熱香蕉（Frenzy Banana）或其他加成道具，記得在水果密集的波次中觸發，
+  可以在短時間內刷出超高分。
 
 ### Controls
-- Mouse/Touch swipes to slice; pause/retry via UI.
+
+- 使用滑鼠或觸控螢幕滑動來切水果；
+- 透過介面按鈕暫停或重新開始。
 
 ### Tips
-- Aim to intersect as many fruit trajectories as possible per stroke.
-- Use diagonal swipes; they cross more spawn arcs.
-- In Zen‑style modes, optimize pathing since bombs are absent.
+
+- 每一刀儘量讓劃線「穿過最多水果的軌跡」，一線多果比分散亂切更有效率。
+- 多使用斜線切割，橫跨畫面上下的斜線更容易穿過多條拋物線軌跡。
+- 在無炸彈的禪模式中，可以完全專注在規劃最佳路徑，追求極致 Combo 與路徑優化。
 
 ### FAQ
-- Q: How do I score combos consistently?  
-[ZH TRANSLATION NEEDED]   A: Wait half a beat to line up two or more fruit before swiping.
-- Q: What happens if I hit a bomb?  
-[ZH TRANSLATION NEEDED]   A: Depending on mode, the run ends or you lose points/time.
-- Q: Are there different modes available?  
-[ZH TRANSLATION NEEDED]   A: Many hosts include Classic, Arcade (with power‑ups), and Zen.
 
+- 問：怎麼才能穩定打出連斬？  
+  答：看到水果出現時先稍微等半拍，讓兩顆以上水果靠近後再一刀劃過，
+  比一顆一顆立刻切更容易累積 Combo。
+
+- 問：砍到炸彈會發生什麼事？  
+  答：依模式不同，經典模式通常會直接判定遊戲結束，街機模式則可能扣分或減少剩餘時間。
+
+- 問：有哪些常見模式？  
+  答：多數版本會包含 Classic（經典模式）、Arcade（帶有各種道具的計時模式）與 Zen（無炸彈、純切水果）等，
+  可在主選單中選擇。

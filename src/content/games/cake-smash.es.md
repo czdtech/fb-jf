@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: cake-smash
-title: '[ES] Cake Smash'
+title: "Cake Smash"
 description: >-
-  [ES] Match and smash delicious cakes in Cake Smash, a fun and addictive
-  match-3 puzzle game.
+  Combina y aplasta deliciosos pasteles en Cake Smash, un adictivo puzle match‑3
+  lleno de color.
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/cake-smash.png
 tags:
@@ -16,27 +16,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Cake Smash es un vibrante y entretenido puzle match‑3. Tu objetivo es intercambiar
+pasteles adyacentes para formar líneas de tres o más iguales; al hacerlo, se
+"aplastan" y desaparecen del tablero, mientras nuevas piezas caen desde arriba.
+Cada nivel tiene un objetivo concreto, como alcanzar cierta puntuación o
+eliminar un número específico de un tipo de pastel.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to swap adjacent cakes to create lines of three or more identical cakes, which then get "smashed" and removed from the board, with new cakes falling into place. Each level has a specific goal, such as reaching a certain score or clearing a certain number of a specific type of cake.
+1.  **Detecta combinaciones:** Busca oportunidades para alinear tres o más
+    pasteles idénticos intercambiando dos adyacentes.
+2.  **Crea pasteles especiales:** Al combinar cuatro o cinco piezas de una vez
+    sueles generar pasteles especiales con habilidades de limpieza, como rayas
+    que borran filas o columnas enteras.
+3.  **Combina especiales entre sí:** Si logras intercambiar dos pasteles
+    especiales, el efecto resultante suele ser devastador y limpia grandes
+    zonas.
+4.  **Céntrate en el objetivo:** No juegues solo por limpiar; fíjate en la meta
+    del nivel. A veces tendrás que priorizar ciertas casillas o alcanzar una
+    puntuación dentro de un número limitado de movimientos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Identify Matches:** Look for opportunities to match three or more identical cakes by swapping two adjacent cakes.
-2.  **[ES]** **Create Special Cakes:** Matching four or five cakes at once will often create a special cake with powerful clearing abilities. For example, a striped cake might clear a whole row or column.
-3.  **[ES]** **Combine Special Cakes:** For even bigger effects, try to swap two special cakes with each other.
-4.  **[ES]** **Focus on the Objective:** Pay attention to the level's goal. Sometimes you need to focus on clearing specific tiles or reaching a score target within a limited number of moves.
+*   **Ratón/Pantalla táctil:** Haz clic y arrastra, o toca dos pasteles
+    adyacentes, para intercambiarlos.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Mouse/Touch:** Use the mouse or touch screen to click and drag or tap on adjacent cakes to swap them.
+*   **P: ¿Qué hacen exactamente los pasteles especiales?**
+    *   **R:** Depende del tipo, pero suelen limpiar filas, columnas completas o
+        todas las piezas de un color concreto cuando se activan en una
+        combinación.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What do the special cakes do?**
-    *   **[ES]** **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-*   **[ES]** **Q: How do I beat difficult levels?**
-    *   **[ES]** **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
-
+*   **P: ¿Cómo supero los niveles difíciles?**
+    *   **R:** Intenta crear tantos pasteles especiales como puedas y
+        combínalos entre sí para maximizar su efecto. Planifica varios movimientos
+        por adelantado y mantén siempre en mente el objetivo del nivel.

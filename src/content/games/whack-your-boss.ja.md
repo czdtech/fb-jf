@@ -1,49 +1,44 @@
 ---
-locale: ja
-urlstr: whack-your-boss
-title: '[JA TRANSLATION NEEDED] Whack Your Boss'
-description: >-
-  [JA TRANSLATION NEEDED] Unleash your office frustrations in Whack Your Boss, a
-  darkly humorous interactive game! Discover over a dozen creative and comical
-  ways to 'whack' your annoying boss using everyday office items. Click on
-  objects to trigger hilarious animations and find all the secret methods.
-iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
+title: Whack Your Boss
+description: Whack Your Bossは、ストレス発散ゲームです。様々な方法でボスにストレスをぶつけましょう。
+iframeSrc: 'https://ubg98.github.io/WhackYourBoss/'
 thumbnail: /new-images/whack-your-boss.jpg
+urlstr: whack-your-boss
+score: 4.2/5  (2234 votes)
 tags:
-  - interactive
-  - funny
-  - puzzle
-score: 4.7/5  (899 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - casual
+  - stress relief
+  - humor
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Whack Your Boss is a popular and darkly humorous interactive animation game designed to let players vent their office frustrations in a comical way. The game presents a static office scene filled with various objects. Your goal is to click on these objects to discover different, often over-the-top and hilarious, animations of "whacking" your boss.
+Whack Your Bossは、オフィスでのストレスを発散するユーモラスなゲームです。オフィスにあるアイテムを使って、様々な創造的な方法を発見しましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The gameplay is simple:
-- **Explore:** Look around the office environment for interactive objects.
-- **Click:** Click on an object. If it's a valid "whack" item, an animation will play showing a unique way to deal with the boss.
-- **Discover:** The main challenge and fun come from finding all the hidden ways to "whack" the boss. There are usually many methods to uncover.
-- **Reset:** After each animation, a "Cleaner" option typically appears, allowing you to reset the scene and try another object.
 
-### Controls Guide
+The gameplay is simple:
+ - **アイテムを探す：** オフィス内のアイテムをクリックします
+ - **反応を見る：** 各アイテムの面白い反応を楽しみます
+ - **すべて発見：** すべての隠されたアイテムを見つけます
+ - **ストレス発散：** ユーモアを楽しみます
 
-- **Mouse:** Use your mouse to hover over and click on interactive objects in the scene.
+### 操作ガイド
 
-### Frequently Asked Questions (FAQ)
+ - **マウス：** アイテムをクリック
 
-[JA TRANSLATION NEEDED] **What is the objective of the game?**
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] The primary objective is to discover all the different ways to "whack" your boss. It's a game of exploration and discovery of humorous animations.
+**このゲームは何ですか？**
 
-[JA TRANSLATION NEEDED] **Are there different versions of the game?**
+ストレス発散とユーモアを目的としたカジュアルゲームです。
 
-[JA TRANSLATION NEEDED] Yes, there are several versions of "Whack Your Boss" and similar games, each offering a different number of "ways to whack" and sometimes different settings (e.g., Whack Your Computer, Whack Your Ex).
+**何個の方法がありますか？**
 
-[JA TRANSLATION NEEDED] **Is the game violent?**
+複数の隠された方法があります。
 
-[JA TRANSLATION NEEDED] While the theme involves "whacking" a boss, the animations are highly stylized, cartoonish, and often absurd, making them more humorous than genuinely violent.
+**このゲームは暴力的ですか？**
 
+漫画的なユーモアです。深刻に受け取らないでください。

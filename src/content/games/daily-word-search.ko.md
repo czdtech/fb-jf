@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: daily-word-search
-title: '[KO] Daily Word Search'
+title: "Daily Word Search 데일리 낱말 찾기"
 description: >-
-  [KO] Daily Word Search offers calming word hunts — find hidden words across
-  directions and beat the clock or relax.
+  격자 속에 숨겨진 영어 단어들을 찾는 Daily Word Search입니다. 가로·세로·대각선
+  방향으로 단어를 이어 보고, 타이머 모드와 휴식 모드 중 원하는 방식으로 즐겨 보세요.
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/daily-word-search.png
 tags:
@@ -15,36 +15,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Daily Word Search는 알파벳 격자 속에 숨겨진 단어들을 찾아 표시하는 워드 서치
+퍼즐입니다. 단어는 가로, 세로, 대각선 방향으로 배치될 수 있으며, 매일 다른
+테마와 단어 목록이 제공됩니다. 제한 시간 안에 가능한 한 빨리 모든 단어를 찾는
+도전적인 모드와, 시간을 신경 쓰지 않고 천천히 즐길 수 있는 편안한 모드 둘 다를
+지원하는 경우가 많습니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Daily Word Search hides words horizontally, vertically, and diagonally. Themes change daily; you can play timed for a challenge or untimed to unwind.
+1. **특징적인 글자 패턴 먼저 찾기**  
+   Q, Z, X 같은 희귀 알파벳이나 긴 접두사·접미사를 가진 단어부터 눈에 익히면
+   격자에서 찾기가 훨씬 쉽습니다.  
+2. **단어 목록 활용하기**  
+   화면에 표시된 단어 목록을 보며 앞부분이나 뒷부분(접두사/접미사)을 기준으로
+   격자를 훑어 보세요. 비슷한 글자 패턴이 보이면 그 주변을 집중적으로 확인합니다.  
+3. **행·열을 체계적으로 스캔하기**  
+   격자를 아무렇게나 보는 것보다, 한 줄씩 차례대로 가로/세로 스캔해 나가는 것이
+   미스 없이 찾는 데 도움이 됩니다.  
+4. **힌트는 마지막 수단으로**  
+   힌트 기능은 시작 글자만 알려 주거나, 단어 전체를 표시해 주기도 합니다.
+   충분히 격자를 훑어본 뒤 마지막 몇 단어에서만 사용하는 편이 좋습니다.  
+5. **타임 모드에서는 시야 관리**  
+   시간 제한 모드에서는 한 구역만 오래 보지 말고, 한 단어를 찾을 때마다 잠깐씩
+   눈을 떼고 다른 구역으로 이동해 터널 비전을 방지하세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Scan for distinctive letter patterns and rare letters (Q, Z, X).
-2.  **[KO]** Highlight prefixes/suffixes from the word list.
-3.  **[KO]** Sweep rows/columns systematically to avoid misses.
-4.  **[KO]** Use hints only after a full grid sweep.
-5.  **[KO]** In timed mode, take short breaks between clusters to avoid tunnel vision.
+- 글자를 드래그해 단어를 이루는 연속된 칸을 선택하고 손을 떼면 단어가 완성됩니다.  
+- 힌트 버튼이 있는 버전에서는 시작 글자나 전체 단어 위치가 잠시 표시될 수 있습니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag across letters to select words; release to confirm.
-- Hints highlight a starting letter or full word depending on the build.
+- **Q: 대각선으로 된 단어도 포함되나요?**  
+  **A:** 일반적으로 예입니다. 다만 일부 모드에서는 방향을 제한하기도 하므로,
+  모드 설명을 확인하세요.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 단어들이 서로 겹쳐도 되나요?**  
+  **A:** 자주 겹쳐서 배치되며, 여러 단어가 특정 글자를 공유할 수 있습니다.
+  겹치는 부분을 잘 살펴보세요.  
 
-- Q: Do diagonals count?
-
-A: Yes, unless a mode restricts directions.
-
-- Q: Can words overlap?
-
-A: Often yes; look for shared letters.
-
-- Q: Timed vs relaxed — which to pick?
-
-A: Timed for speed practice; relaxed for unwinding.
+- **Q: 타이머 모드와 휴식 모드 중 무엇을 선택해야 할까요?**  
+  **A:** 속도와 집중력을 훈련하고 싶다면 타이머 모드를, 가볍게 머리를 식히고
+  싶다면 시간을 신경 쓰지 않는 편안한 모드를 추천합니다.  
 

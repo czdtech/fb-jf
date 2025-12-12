@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: hex-puzzle
-title: '[ZH TRANSLATION NEEDED] Hex Puzzle'
-description: >-
-  [ZH TRANSLATION NEEDED] A challenging and addictive block puzzle on a
-  hexagonal grid. Drag and drop the hexa blocks to create and clear full lines
-  in any direction. Plan your moves, as blocks cannot be rotated!
+title: "《Hex Puzzle》六角方块拼图"
+description: "《Hex Puzzle》是一款六边形棋盘上的方块消除游戏，你要把不同形状的六角拼块拖拽到棋盘上，凑成任意方向上的完整直线即可清除，无法旋转的拼块让布局更考验空间想象力。"
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
 thumbnail: /new-images/hex-puzzle.jpg
 tags:
@@ -18,30 +15,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Hex Puzzle is a fun and engaging twist on the classic block puzzle genre, played on a hexagonal grid. The objective is to place various shapes, made of hexagonal blocks, onto the board to create complete, unbroken lines of hexes. Lines can be formed in three directions: horizontally and in both diagonal directions. When a line is complete, it clears from the board, freeing up space and earning you points. With no time limits, it’s a test of pure strategy and spatial planning.
+《Hex Puzzle》是在经典方块消除基础上做出的六边形变体。棋盘由大量六边形格子组成，你需要把由多个六角格组成的拼块放入棋盘中，只要在任意一个方向（水平或两条对角线方向）凑出一条连续不断的直线，就可以将整条线清除并获得积分。游戏没有时间限制，考验的是纯粹的布局规划和空间思维能力。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Think in Three Directions:** Unlike a square grid, a hexagonal grid allows you to form lines in three different directions. Always be scanning the board not just for horizontal lines, but for diagonal opportunities as well.
-2.  [ZH TRANSLATION NEEDED] **Don't Isolate Spaces:** Try to keep your placements compact. Leaving single empty hexes scattered around the board can make it very difficult to place larger pieces later in the game.
-3.  [ZH TRANSLATION NEEDED] **Plan for Your Pieces:** You are given three pieces at a time. Before placing one, quickly assess if there is room for the other two. It's a common mistake to place one piece only to find that you have blocked yourself from placing the next one.
-4.  [ZH TRANSLATION NEEDED] **Combos are Key:** Clearing multiple lines with a single piece placement will award you a combo score bonus. Look for placements that can complete two or even three lines simultaneously for a huge score boost.
+### 游戏玩法与攻略
+1.  **三向思考**：与正方形棋盘不同，六边形棋盘可以在三条方向上凑线。每落一个块时，不仅要看横向是否能清行，还要顺着两条斜向多想一步，寻找多方向连线的机会。
+2.  **避免零碎空格**：尽量让自己的布局紧凑连续，散落单个独立的小空格，会让很多大型拼块完全无处安放，极容易提前锁死局面。
+3.  **三块一组整体规划**：系统每次给出三块拼图。下子前快速评估一下另外两块能放在哪里，避免先放了一块“顺手”的，结果把剩下两块的可用空间全部堵死。
+4.  **追求连消与多线清除**：一次放置就能同时消除两条甚至三条线时，会获得连消加成和更高得分。多观察能否通过一个聪明的位置，完成多方向同时连线。
 
-### Controls Guide
+### 操作说明
 
-[ZH TRANSLATION NEEDED] The game is controlled with a simple drag-and-drop interface.
+游戏通过简单的拖拽来操作：
 
-*   **Place Blocks:** Use your mouse or finger to drag a shape from your inventory at the bottom and place it onto an empty space on the hexagonal grid.
+*   **放置方块**：用鼠标或手指从下方备选区拖动一个拼块，放到棋盘空位上，松手即确认落子。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: Can I rotate the blocks?**
-     *   **A:** No. The inability to rotate the blocks is a core part of the challenge. You must figure out how to fit the pieces as they are presented.
+*   **Q: 方块可以旋转吗？**  
+    *   **A:** 不可以。不能旋转正是本作难度与乐趣的来源之一，你需要学会用原始形状去找合适位置，而不是依赖旋转来“硬凹”拼块。
 
-*   **Q: How does the game end?**
-     *   **A:** The game ends when you are given a set of pieces and there is no possible move to place any of them on the board.
+*   **Q: 游戏在什么情况下结束？**  
+    *   **A:** 当当前给出的三块拼图中，没有任何一块能放入棋盘的任何位置时，本局就会结束。
 
-*   **Q: What is the best way to get a high score?**
-     *   **A:** Survive as long as possible by keeping the board from filling up, and always prioritize moves that clear multiple lines at once to get combo points.
-
+*   **Q: 怎么打出更高分？**  
+    *   **A:** 一方面要尽量延长存活时间，让棋盘保持可操作空间；另一方面要优先考虑能一次消除多条线的布局，连锁消除会带来非常可观的额外得分。

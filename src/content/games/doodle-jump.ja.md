@@ -1,42 +1,50 @@
 ---
-locale: ja
-urlstr: doodle-jump
-title: '[JA TRANSLATION NEEDED] Doodle Jump'
-description: >-
-  [JA TRANSLATION NEEDED] Doodle Jump is a vertical platformer: bounce between
-  platforms, avoid hazards, and climb as high as possible.
+title: Doodle Jump ドゥードゥル・ジャンプ
+description: 「Doodle Jump」は中毒性抜群の縦スクロールアクション。足場を飛び移り、モンスターを避け、空高くどこまでも登っていこう。
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/doodle-jump.jpg
+urlstr: doodle-jump
+score: 4.2/5  (915 votes)
 tags:
   - arcade
   - platformer
-score: 4.2/5  (915 votes)
+developer: Lima Sky
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Doodle Jump（ドゥードゥル・ジャンプ）*は、世界中で愛されるエンドレス・ジャンピングゲームです。落書き風のキャラクター「Doodler」を操作し、ひたすら上へ上へとジャンプし続けます。
+足場を踏み外し画面下に落ちたらゲームオーバー。途中で現れるモンスターやブラックホール、壊れる足場などの障害物を回避しながら、ジェットパックやプロペラ帽子などのアイテムを駆使してハイスコアを目指しましょう。
+
+### 遊び方
+
+*   **ジャンプ:** 足場に着地すると自動的にジャンプします。
+*   **移動:** キャラクターを左右に動かして、次の足場へ着地させます。画面の端から反対側の端へワープすることもできます。
+*   **攻撃:** モンスターはタップ（クリック）で弾を発射して倒すか、上から踏みつけて倒せます。
+
+### 操作ガイド
+
+*   **移動:** 左右矢印キー、またはマウス移動、スマホの場合は傾き操作。
+*   **射撃:** クリックまたは上方向キー（バージョンにより異なります）。
+
+### 攻略のヒント
+
+*   **足場の見極め:** 茶色の足場は踏むと壊れます。青い足場は左右に動きます。確実な緑の足場を狙いましょう。
+*   **アイテム活用:** バネやトランポリン、プロペラなどのアイテムを見つけたら積極的に使いましょう。一気に距離を稼げます。
+*   **ワープ移動:** 画面の右端に行くと左端から出てきます。これを利用して難しい配置を切り抜けるテクニックが重要です。
+
+### よくある質問 (FAQ)
+
+*   **Q: ゴールはありますか？**
+
+A: No—score rises until you miss a platform or hit a hazard.
+- **A:** いいえ、エンドレスゲームです。どこまで高く登れるか、自己記録に挑戦しましょう。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Endless vertical platformer: bounce upward, land on safe platforms, avoid monsters and broken boards, and use power‑ups (springs, propeller caps, jetpacks) to climb higher.
+A: Yes—static, moving, disappearing/breakable, and trampolines/springs.
+*   **Q: モンスターに当たるとどうなりますか？**
 
-### How to Play
-- Keep the doodler centered and chain safe landings; falling off‑screen ends the run.
-- Eliminate or avoid enemies; some versions allow tapping/shooting upward.
-- Use moving or breakable platforms carefully; plan two steps ahead.
-
-### Controls
-- Left/Right (or tilt on mobile): move; automatic jumping on contact; action/shoot where available.
-
-### Tips
-- Favor stable platforms when the screen scrolls quickly.
-- Save high‑impact power‑ups for sparse sections.
-- Wraparound edges to escape traps when supported.
-
-### FAQ
-- Q: Are levels finite?  
-[JA TRANSLATION NEEDED]   A: No—score rises until you miss a platform or hit a hazard.
-- Q: Do platforms differ?  
-[JA TRANSLATION NEEDED]   A: Yes—static, moving, disappearing/breakable, and trampolines/springs.
-- Q: Are there bosses?  
-[JA TRANSLATION NEEDED]   A: Usually no; it’s a score chase.
-
+A: Usually no; it’s a score chase.
+    *   **A:** 横や下から接触するとゲームオーバーです。上から踏むか、弾を撃って倒しましょう。

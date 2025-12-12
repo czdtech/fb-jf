@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: basket-battle
-title: '[DE] Basket Battle'
+title: "Basket Battle"
 description: >-
-  [DE] Basket Battle is a physics basketball duel — aim arcs, box out, and
-  outscore in quick bouts.
+  Basket Battle ist ein physikbasiertes Basketball‑Duell. Ziele mit hohen
+  Bögen, sichere Rebounds und punkte in kurzen, intensiven Runden mehr als dein
+  Gegner.
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/basket-battle.png
 tags:
@@ -15,28 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Basket Battle ist ein schnelles, leicht chaotisches Basketball‑Minispiel mit
+simpler Physik. Du stellst die Flugbahn deiner Würfe ein, achtest auf Timing
+und nutzt Abpraller, um in kurzen Duellen möglichst viele Körbe zu erzielen.
+Je nach Variante kannst du deine Figur bewegen, zum Rebound springen und den
+Gegner beim Nachsetzen ausboxen.
 
-### Detailed Game Introduction
+### Strategie & Walkthrough
 
-Basket Battle is a snappy, physics‑leaning basketball mini‑game. Line up arcs, control timing, and manage rebounds to edge opponents in short, hectic rounds.
+1.  **Mit hohem Bogen werfen:** Würfe mit höherem Bogen fallen weicher in den
+    Korb und prallen seltener am Ring ab. Flache Line‑Drives führen öfter zu
+    Rimouts.
+2.  **Rebounds sichern:** Springe nach jedem Wurf sofort zum Korb, um
+    Abpraller einzusammeln und dir zweite Chancen zu sichern.
+3.  **Schnelles Tempo nutzen:** Wenn du den Rebound hast, wirf schnell, bevor
+    der Gegner seine Position neu gefunden hat. So erzielst leichte Punkte.
+4.  **Gute Wurfposition wählen:** Vermeide sehr weite, flache Distanzwürfe.
+    Ein kleiner Schritt in Richtung Korb erhöht deine Trefferquote deutlich.
+5.  **Wind beachten (falls vorhanden):** In Varianten mit Wind solltest du
+    leicht gegen die Windrichtung zielen und etwas mehr Bogen geben, damit der
+    Ball trotzdem im Korb landet.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Arc aiming: Higher arcs drop softer and score more consistently.
-2.  **[DE]** Rebounds: Box out after shots to secure second‑chance points.
-3.  **[DE]** Tempo: Shoot quickly off rebounds before defense resets.
-4.  **[DE]** Shot selection: Avoid flat drives from deep; step in for better odds.
-5.  **[DE]** Mind wind (if any): Offset aim when wind appears.
+- **Zielen & Kraft:** Ziehe mit Maus oder Finger, um Richtung und Stärke
+  festzulegen, lasse los, um zu werfen.
+- **Bewegen/Springen (falls verfügbar):** Steuere deine Figur über Pfeiltasten,
+  WASD oder Bildschirmbuttons, um bessere Wurf‑ oder Rebound‑Positionen zu
+  erreichen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Aim/Power: Drag to aim, release to shoot.
-- Move/Jump (if available) via arrows/buttons.
+- **Meine Würfe springen ständig vom Ring – warum?**  
+  Meist wirfst du zu flach oder mit zu viel Kraft. Erhöhe den Bogen und reduziere
+  leicht die Power, damit der Ball weicher in den Korb fällt.
 
-### Frequently Asked Questions (FAQ)
+- **Kann ich dunken?**  
+  In manchen Versionen sind Dunks aus kurzer Distanz möglich, wenn du direkt
+  unter dem Korb springst.
 
-- Shots rim out—why? Too flat or over‑powered; raise arc and reduce power.
-- Can I dunk? Depends on mode; close‑range jumps may allow it.
-- Multiplayer? Often local head‑to‑head.
-
+- **Gibt es einen Mehrspielermodus?**  
+  Viele Ausgaben bieten lokale Duelle zu zweit an einem Gerät oder gegen die
+  KI.

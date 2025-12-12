@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: archery
-title: '[ZH TRANSLATION NEEDED] Archery World Tour'
-description: >-
-  [ZH TRANSLATION NEEDED] Grab your bow and arrow and travel the world in this
-  realistic archery game. Account for wind and distance to hit the bullseye and
-  become a champion.
+title: Archery World Tour 射箭世界巡回赛
+description: 在《Archery World Tour（射箭世界巡回赛）》中，背上弓箭走遍全球射箭场，学会根据风向与距离精确修正瞄准，用一箭命中靶心的方式赢下比赛。
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/archery.jpg
@@ -18,29 +15,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Archery World Tour is a realistic and challenging archery simulation game. You travel to various scenic locations to compete in archery tournaments. The goal is to score as many points as possible by shooting arrows at a target. Success requires more than just a steady hand; you must also account for environmental factors like wind speed, wind direction, and the distance to the target, making it a true test of skill.
+*Archery World Tour（射箭世界巡回赛）* 是一款偏写实风格的射箭模拟游戏。你将前往世界各地的户外射箭场，在不同距离、不同天气条件下参加一场又一场比赛，用有限的箭尽可能打出高分。
 
-### Gameplay Strategy & Walkthrough
+游戏的难点不在于“按键难”，而在于你是否真正理解现实射箭中的几个关键因素：风向与风速、目标距离以及重力对箭矢轨迹的影响。只有把这几项都考虑进去，才能稳定命中靶心，而不是靠运气。
 
-1.  **补偿风力：** 在每次射击前，查看风向指示器。它会显示风的方向和强度。你必须稍微瞄准风的相反方向以抵消其对箭的影响。
-2.  **考虑重力：** 对于远距离目标，你的箭会因重力而略微下降。你需要瞄准比靶心稍高的位置，以确保箭击中中心。
-3.  **把握释放时机：** 在某些版本中，你的瞄准可能会略微摇晃。等待你的十字准星完全静止并与预期目标对齐的时刻再释放箭。
-4.  **瞄准靶心：** 目标的中心（黄色圆圈）价值最高（通常为10分）。持续的靶心命中是高分的关键。
+### 游戏策略与通关思路
 
-### 控制指南
+1.  **先看风再抬弓：** 每次射击前先观察屏幕上的风向指示器，它会给出风的方向与强度。若风从右向左吹，你就要将准星稍微瞄到靶心的右侧，反之亦然；风越大，修正量越大。
+2.  **远距离必须预留“下坠量”：** 目标距离越远，箭在飞行中受到重力影响越明显，实际落点会低于你瞄的位置。此时需要略微将瞄准点抬高一些，让箭在飞行过程中下坠到靶心位置。
+3.  **把握松弦时机：** 有些版本会模拟手部抖动，准星会轻微晃动。可以稍微等待一两秒，挑准准星经过理想落点的瞬间松手，而不是在准星乱晃时急着放箭。
+4.  **靶心优先，但不要贪心：** 黄色中心区域通常分值最高（如10分），但如果风大又没有把握，可以先保证命中高分环（例如 8、9 分），比冒险打偏到低分区更划算。
 
-*   **Aim:** Move your mouse to aim the bow. The cursor will show where the arrow is pointed.
-*   **Draw and Shoot:** Click and hold the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+*   **瞄准：** 使用鼠标移动来调整弓箭的指向，屏幕上的准星会实时显示你的瞄准位置。
+*   **拉弓与放箭：** 按住鼠标左键拉弓，拉得越久力度通常越大；调整好方向后松开鼠标左键即可射出箭矢。部分版本会在界面上显示力度条，帮助你判断蓄力程度。
 
-*   **Q: How do I aim with the wind?**
-    *   **A:** 你必须朝风的相反方向瞄准。如果风强烈地向右吹，你需要瞄准目标中心的左侧。风越强，你需要补偿的距离就越远。
-
-*   **Q: Why did my arrow hit low?**
-    *   **A:** 这是由于重力，特别是在远距离射击时。你需要瞄准比你想要箭击中的位置稍高一点，以考虑下降。
-
-*   **Q: What is the goal of the game?**
-    *   **A:** 通过向目标射击一定数量的箭来获得最高分数。你离靶心越近，获得的分数就越多。
+### 常见问题解答（FAQ）
+*   **问：带风的关卡该怎么瞄？****
+    *   答：** 观察风向箭头并记住一个大致规律：风从哪边吹来，你就把准星往反方向偏移一些。可以通过多射几箭建立“手感记忆”。
+*   **问：为什么箭总是打在靶心下方？****
+    *   答：** 这是重力造成的自然下坠，尤其在远距离靶位上最明显。试着把瞄准点抬高半个到一个环位，再看落点变化。
+*   **问：本作的目标是什么？****
+    *   答：** 在限定的箭数或回合内打出尽可能高的总分。每一次命中越接近靶心，你得到的分数就越高，保持稳定的高分命中远比偶尔一箭神准更重要。

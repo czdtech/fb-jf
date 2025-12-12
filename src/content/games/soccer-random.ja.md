@@ -1,51 +1,43 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Soccer Random"
+description: "Soccer Randomで、これまでにないサッカーを体験しよう！この爽快な物理ベースのゲームは、シンプルなワンボタン操作でプレイヤーをジャンプさせキックさせる。常に変化するフィールド、ボール、プレイヤーに適応し、友達やCPUと対戦して最初に5ゴールを決めよう。"
+iframeSrc: "https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html"
+thumbnail: "/new-images/soccer-random.jpg"
+urlstr: "soccer-random"
+score: "4.1/5  (594 votes)"
+tags: ["2-player", "physics", "sports"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: soccer-random
-title: '[JA TRANSLATION NEEDED] Soccer Random'
-description: >-
-  [JA TRANSLATION NEEDED] Experience soccer like never before in Soccer Random!
-  This hilarious, physics-based game uses a simple one-button control to make
-  your players jump and kick. Adapt to ever-changing fields, balls, and players
-  as you compete against a friend or the CPU to be the first to score five
-  goals.
-iframeSrc: >-
-  https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
-thumbnail: /new-images/soccer-random.jpg
-tags:
-  - 2-player
-  - physics
-  - sports
-score: 4.1/5  (594 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Soccer Random is a chaotic and hilarious physics-based soccer game with a minimalist one-button control scheme. The objective is simple: score five goals before your opponent. The "random" part of the title comes from the fact that everything, from the type of ball and the player characters to the playing field itself, can change after every goal, forcing you to constantly adapt.
+Soccer Randomは、ミニマリストなワンボタン操作スキームを持つ、混沌として爽快な物理ベースのサッカーゲームです。目標はシンプル：対戦相手よりも先に5ゴールを決めることです。タイトルの「ランダム」部分は、ボールの種類、プレイヤーキャラクター、プレイフィールド自体まで、すべてがゴールごとに変わる可能性があり、常に適応を強いられることから来ています。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The first player or team to score 5 goals wins the match. All you can do is make your two players jump and kick at the same time. The challenge comes from the wacky physics and the unpredictable nature of the game. You might be playing on an icy field one moment and a beach the next. Use the single button to time your jumps perfectly to both attack the ball and defend your goal.
+最初に5ゴールを決めたプレイヤーまたはチームが試合に勝ちます。できることは、2人のプレイヤーを同時にジャンプさせキックさせることだけです。挑戦は、奇抜な物理学とゲームの予測不可能な性質から来ています。ある瞬間は氷のフィールドでプレイし、次の瞬間はビーチでプレイするかもしれません。シングルボタンを使ってジャンプのタイミングを完璧に合わせ、ボールを攻撃し自分のゴールを守りましょう。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] The game is designed for simplicity and can be played by one or two players on the same keyboard.
-- **Player 1:** `W` Key
-- **Player 2:** `Up Arrow` Key
+ゲームはシンプルさを重視して設計されており、同じキーボードで1人または2人でプレイできます。
+- **プレイヤー1：** `W`キー
+- **プレイヤー2：** `上矢印`キー
 
-[JA TRANSLATION NEEDED] Press your key to make your players jump and kick.
+キーを押すと、プレイヤーがジャンプしキックします。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What is the goal of Soccer Random?**
+**Soccer Randomの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] The main goal is to be the first to score 5 goals against your opponent.
+主な目標は、対戦相手に対して最初に5ゴールを決めることです。
 
-[JA TRANSLATION NEEDED] **How many players can play?**
+**何人でプレイできますか？**
 
-[JA TRANSLATION NEEDED] Soccer Random can be played solo against a computer opponent or with a friend in 2-player mode on the same device.
+Soccer Randomは、コンピューター対戦相手に対するソロプレイ、または同じデバイスで2プレイヤーモードで友達とプレイできます。
 
-[JA TRANSLATION NEEDED] **Why does the game keep changing?**
+**なぜゲームが変わり続けるのですか？**
 
-[JA TRANSLATION NEEDED] That's the core feature of the game! The randomness of the fields, players, and balls after each goal ensures that no two matches are ever the same and keeps the gameplay funny and unpredictable.
-
+それがゲームのコア機能です！各ゴール後のフィールド、プレイヤー、ボールのランダム性により、同じ試合は二度となく、ゲームプレイが面白く予測不可能になります。

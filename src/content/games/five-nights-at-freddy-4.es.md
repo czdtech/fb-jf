@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: five-nights-at-freddy-4
-title: '[ES] Five Nights at Freddy''s 4 (FNAF 4)'
+title: "Five Nights at Freddy's 4 (FNAF 4)"
 description: >-
-  [ES] Bedroom nightmare survival: listen for breathing, manage doors and
-  closet, and use your flashlight wisely to keep night terrors at bay.
+  Supervivencia a pesadillas en el dormitorio: escucha la respiración, gestiona
+  puertas y armario y usa la linterna con cabeza para mantener a raya a los
+  horrores nocturnos.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/five-nights-at-freddy-4.jpg
 tags:
@@ -15,30 +16,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Este capítulo traslada el terror a casa y se centra en las pistas de audio.
+Vigila las puertas del dormitorio, el armario y la cama, usando la linterna
+y escuchando con mucha atención para evitar jumpscares.
 
+### Cómo jugar
 
-### Overview
-Home‑set horror focused on audio cues: you patrol bedroom doors, closet, and bed, using the flashlight and careful listening to avoid jumpscares.
+- Acércate a una puerta y detente para escuchar; si oyes respiración, cierra la
+  puerta.
+- Ilumina el pasillo solo cuando sea seguro y revisa con frecuencia tanto el
+  armario como la cama.
+- En las noches posteriores, los enemigos se mueven más rápido y exigen una
+  sincronización más precisa.
 
-### How to Play
-- Approach a door and pause to listen; shut doors if you hear breathing.
-- Flash the hallway only when safe; check the closet and bed regularly.
-- Later nights increase speed and require tighter timing.
+### Controles
 
-### Controls
-- Mouse/keyboard to move between locations; specific keys for doors and flashlight vary by host.
+- Ratón y teclado para moverte entre ubicaciones; las teclas concretas para
+  puertas y linterna dependen del portal donde juegues.
 
-### Tips
-- Always listen before flashing the light at a doorway.
-- Build a loop (left door → right door → closet → bed) and repeat quickly.
-- Headphones help distinguish subtle breathing and footsteps.
+### Consejos
 
-### FAQ
-- Q: Why do I get jumpscared when I flash the light at the door?
-A: You likely flashed while breathing was present; close the door first.
-- Q: Do I need to check the bed?
-A: Yes—ignoring the bed lets nightmares accumulate and increases risk.
-- Q: Does the game add extra nights?
-A: Many hosts include later challenge nights beyond Night 5.
+- Escucha siempre antes de encender la linterna hacia una puerta.
+- Crea un bucle de patrulla (puerta izquierda → puerta derecha → armario →
+  cama) y repítelo con rapidez.
+- Jugar con auriculares ayuda a distinguir respiraciones y pasos muy sutiles.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Por qué me asustan cuando enciendo la linterna en la puerta?**  
+  **R:** Probablemente encendiste la luz mientras aún se escuchaba la
+  respiración. Primero cierra la puerta y espera a que el sonido desaparezca.
+
+- **P: ¿Es realmente necesario revisar la cama?**  
+  **R:** Sí. Ignorar la cama permite que las pesadillas se acumulen y aumenta
+  mucho el riesgo de jumpscare.
+
+- **P: ¿El juego incluye noches extra?**  
+  **R:** Muchos portales añaden noches de desafío adicionales más allá de la
+  Noche 5.

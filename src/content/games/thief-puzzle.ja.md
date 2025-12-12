@@ -1,65 +1,48 @@
 ---
-locale: ja
+title: Thief Puzzle
+description: Thief Puzzleは、泥棒をテーマにしたパズルゲームです。伸びる腕を使ってアイテムを盗みましょう。
+iframeSrc: 'https://ubg98.github.io/ThiefPuzzle/'
+thumbnail: /new-images/thief-puzzle.jpg
 urlstr: thief-puzzle
-title: '[JA TRANSLATION NEEDED] Thief Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Thief Puzzle is a mischievous rope‑arm puzzler —
-  stretch, avoid traps, and grab targets with clever angles and timing.
-iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
-thumbnail: /new-images/thief-puzzle.png
+score: 4.4/5  (2876 votes)
 tags:
   - puzzle
-  - thinky
-score: 4.0/5  (1876 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - strategy
+  - casual
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Thief Puzzleは、伸びる腕を持つ泥棒を操作して、さまざまなアイテムを盗むパズルゲームです。捕まらずに目標を達成しましょう。
 
-[JA TRANSLATION NEEDED] Extend a stretchy arm to steal objects while dodging lasers, guards, and buzzsaws. Levels reward path planning: route around triggers, exploit timing windows, and retract fast when hazards reset.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Probe path: Move slowly to test trigger ranges.
-[JA TRANSLATION NEEDED] 2.  Time windows: Pass lasers/guards right after cycle flips.
-[JA TRANSLATION NEEDED] 3.  Angle tricks: Wrap around corners to stay outside detection cones.
-[JA TRANSLATION NEEDED] 4.  Risk control: Abandon greedy arcs when cycles desync.
-[JA TRANSLATION NEEDED] 5.  Multi‑grab: Chain safe pickups before retracting.
-
-### Controls Guide
-
-- Drag to stretch arm; release to retract; restart via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I trip alarms.
-  
-[JA TRANSLATION NEEDED]   A: Slow down near sensors and route around corners to cut line‑of‑sight.
-
-- Q: Timing feels tight.
-  
+ - **腕を伸ばす：** 泥棒の腕を伸ばしてアイテムに到達します
+ - **障害物を避ける：** ガード、カメラ、犬を避けます
+ - **アイテムを盗む：** 目標のアイテムを手に入れます
+ - **捕まらない：** 検出されずにクリアします
 
 
-
-
-
-
-- Q: I trip alarms.
-### よくある質問（FAQ）
-- Drag to stretch arm; release to retract; restart via UI.
-### コントロールガイド
 - Multi‑grab: Chain safe pickups before retracting.
+### 操作ガイド
+
+ - **マウス：** ドラッグして腕の経路を描く
 
 ### よくある質問（FAQ）
-- Risk control: Abandon greedy arcs when cycles desync.
-[JA TRANSLATION NEEDED]   A: Wait one full cycle; most rooms have relaxed windows.
 
 
+- Q: I trip alarms.
+**ゲームの目標は何ですか？**
 
 
-A: Wait one full cycle; most rooms have relaxed windows.
 - Q: Timing feels tight.
+捕まらずに各レベルのアイテムを盗むことです。
 
+**捕まったらどうなりますか？**
 
-A: Wait one full cycle; most rooms have relaxed windows.
+レベルを再スタートする必要があります。
+
+**レベルは難しくなりますか？**
+
+はい、より多くの障害物と複雑な経路が必要になります。

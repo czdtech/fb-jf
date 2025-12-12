@@ -1,69 +1,37 @@
 ---
+title: "Guess The Word"
+description: "Guess The Wordはクリーンな単語構築ゲームです。文字を繋げ、パターンを利用し、語彙力と論理を駆使してクロスワードをクリアしましょう。"
+iframeSrc: "https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/"
+thumbnail: "/new-images/guess-the-word.png"
+urlstr: "guess-the-word"
+score: "4.2/5  (2041 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: guess-the-word
-title: '[JA TRANSLATION NEEDED] Guess The Word'
-description: >-
-  [JA TRANSLATION NEEDED] Guess The Word is a clean word‑builder — connect
-  letters, exploit patterns, and clear crosswords with vocabulary and logic.
-iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
-thumbnail: /new-images/guess-the-word.png
-tags:
-  - puzzle
-  - thinky
-score: 4.2/5  (2041 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Guess The Wordは、文字をリンクさせる入力方式と、クロスワードのスロットを融合させたゲームです。文字の円盤をドラッグして有効な単語を作り、グリッドを埋めていきます。引っかけのアナグラム、珍しいダイグラム（2文字の組み合わせ）、少ない母音など、難易度は徐々に上がり、パターン認識と戦略的な推測が報われます。
 
-[JA TRANSLATION NEEDED] Guess The Word blends letter‑link input with crossword slots. You drag through letter wheels to form valid words that populate a grid. Difficulty grows with trick anagrams, uncommon digrams, and sparse vowels, rewarding pattern recognition and strategic guesswork.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **短い単語から:** 交差点を確定させるために、まずは明白で短い単語から始めましょう。
+2.  **接頭辞/接尾辞:** 選択肢を増やすために、接頭辞や接尾辞（re-、un-、-ing、-edなど）から考えましょう。
+3.  **文字の頻度:** E/A/R/S/Tなどは頻繁に登場します。これらの周りにある単語を探しましょう。
+4.  **ボーナス単語の貯金:** 後半の難しい盤面のために、ヒントを使えるようコイン（ボーナス単語）を貯めておきましょう。
+5.  **詰まったら:** 新しい文字列を発見するために、頭の中で順序を並べ替えましょう（真ん中から考えるなど）。
 
-[JA TRANSLATION NEEDED] 1.  Start with obvious short words to anchor crossings.
-[JA TRANSLATION NEEDED] 2.  Work from prefixes/suffixes (re‑, un‑, ‑ing, ‑ed) to inflate options.
-[JA TRANSLATION NEEDED] 3.  Use letter frequency — E/A/R/S/T appear more; hunt words around them.
-[JA TRANSLATION NEEDED] 4.  Bank bonus words for hints in late boards.
-[JA TRANSLATION NEEDED] 5.  When stuck, reshuffle mental order (middle‑out) to discover new strings.
+### 操作ガイド
 
-### Controls Guide
+- **ドラッグ:** 文字を繋げて単語を作ります。指を離して送信します。ヒントは控えめに使いましょう。
 
-- Drag to connect letters; release to submit; use hints sparingly.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: A slot seems impossible — tips?
-  
-[JA TRANSLATION NEEDED]   A: Recheck crossings and try anagrams with the fixed letters (e.g., _ate → eat/tea/eta).
-
-- Q: Are plurals/proper nouns allowed?
-  
-[JA TRANSLATION NEEDED]   A: Depends on the dictionary; generally no proper nouns.
-
-- Q: Can I replay for more coins?
-  
-
-
-
-
-
-- Q: A slot seems impossible — tips?
-### よくある質問（FAQ）
-- Drag to connect letters; release to submit; use hints sparingly.
-### コントロールガイド
-- When stuck, reshuffle mental order (middle‑out) to discover new strings.
-[JA TRANSLATION NEEDED]   A: Usually yes — revisit earlier grids for bonuses.
-
-
-
-
-
-
-A: Usually yes — revisit earlier grids for bonuses.
-- Q: Can I replay for more coins?
-A: Depends on the dictionary; generally no proper nouns.
-- Q: Are plurals/proper nouns allowed?
-
-
-A: Usually yes — revisit earlier grids for bonuses.
+- **Q: 不可能に見えるスロットがあります。コツは？**
+  A: 交差部分を再確認し、確定している文字を使ってアナグラムを試してみましょう（例：_ate → eat/tea/eta）。
+- **Q: 複数形や固有名詞は使えますか？**
+  A: 辞書によりますが、一般的に固有名詞は使えません。
+- **Q: コインを稼ぐために再プレイできますか？**
+  A: 通常は可能です。以前のグリッドに戻ってボーナスを獲得しましょう。

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: king-rugni-tower-conquest
-title: '[ES] King Rugni Tower Conquest'
+title: "King Rugni Tower Conquest"
 description: >-
-  [ES] King Rugni Tower Conquest is a compact tower defense — place towers,
-  route creeps, and upgrade smartly to hold lines.
+  King Rugni Tower Conquest es un tower defense compacto: coloca torres, enruta
+  oleadas y mejora con cabeza para mantener la línea.
 iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
 thumbnail: /new-images/king-rugni-tower-conquest.jpg
 tags:
@@ -16,27 +16,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+King Rugni Tower Conquest es un tower defense muy depurado. Coloca y mejora
+ torres para contrarrestar distintos tipos de enemigos, gestiona un oro limitado
+y, cuando el mapa lo permite, moldea los caminos para maximizar tus zonas de
+matanza.
 
-King Rugni Tower Conquest is a streamlined tower defense. Place and upgrade towers to counter varied enemy types, manage limited gold, and shape paths (if possible) to maximize kill zones.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Cobertura primero:** coloca torres que cubran tramos largos y puntos de
+    estrangulamiento compartidos.
+2.  **Daño mixto:** combina daño de objetivo único y de área para lidiar con
+    oleadas numerosas y unidades élite.
+3.  **Mejoras tempranas:** unas pocas torres bien subidas suelen rendir mejor
+    que muchas débiles.
+4.  **Moldea la ruta:** si el mapa lo permite, obliga a los enemigos a recorrer
+    caminos más largos dentro de tus zonas de fuego.
+5.  **Economía:** no acumules oro sin gastar; invertir pronto maximiza el daño a
+    largo plazo.
 
-1.  **[ES]** Coverage first: Place towers to cover long paths and shared choke points.
-2.  **[ES]** Mixed damage: Combine single‑target and splash to handle waves and elites.
-3.  **[ES]** Early upgrades: A few well‑upgraded towers often beat many weak ones.
-4.  **[ES]** Path shaping: If routing exists, force longer paths through kill zones.
-5.  **[ES]** Economy: Don’t over‑float gold—invest early for compounding value.
+### Guía de controles
 
-### Controls Guide
+- Usa el ratón/táctil para **colocar, mejorar y vender** torres mediante la UI.
+- Pulsa para iniciar oleadas cuando estés listo; pausa para planificar.
 
-- Place/Upgrade/Sell towers via the UI.
-- Start waves when ready; pause to plan.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: Siguen escapándose enemigos, ¿qué hago?**  
+    **R:** Añade torres de ralentización o área cerca de la salida y equilibra
+    tus tipos de daño.
 
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
-- Best first tower? One that covers the longest segment; upgrade it early.
-- Fast‑forward? Many versions include a speed toggle.
+*   **P: ¿Qué torre debería construir primero?**  
+    **R:** Una que cubra el tramo más largo posible; súbela de nivel pronto para
+    maximizar su impacto.
 
+*   **P: ¿Hay botón de velocidad rápida?**  
+    **R:** Muchas versiones incluyen un control de velocidad; revisa los
+    botones de la interfaz.

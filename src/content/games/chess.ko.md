@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: chess
-title: '[KO] Chess'
+title: Chess 체스
 description: >-
-  [KO] Learn the rules, pieces, and strategies of Chess, the ultimate game of
-  skill. Plan your moves, control the board, and checkmate your opponent's king
-  to win this timeless classic.
+  Chess는 여섯 가지 기물을 이용해 상대 킹을 체크메이트하는 고전 전략 보드게임입니다. 기물의 움직임과 기본 전술, 오프닝과 엔드게임
+  원리를 익히며 보드를 지배해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/chess.jpg
 tags:
@@ -16,68 +15,122 @@ score: 4.0/5  (1497 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Chess(체스)는 8x8 체스보드 위에서 두 사람이 겨루는 턴제 전략 게임입니다. 각
+플레이어는 킹, 퀸, 룩 2개, 비숍 2개, 나이트 2개, 폰 8개로 이루어진 16개의
+기물을 가지고 시작하며, 목표는 상대 킹을 **체크메이트**하는 것입니다. 체크메이트란
+킹이 공격(체크)을 받고 있고, 어떤 합법적인 수로도 그 공격을 피할 수 없는 상태를
+말합니다.
 
+여섯 가지 기물은 모두 움직임 방식이 서로 다르며, 이 움직임을 이해하는 것이
+체스를 배우는 첫 단계입니다.
 
+**기물의 기본 움직임**
 
-### Game Introduction
+-   **킹(King):** 상하좌우·대각선으로 한 칸씩 이동합니다. 가장 중요한 기물이지만
+    동시에 가장 약한 기물이기도 합니다.
+-   **퀸(Queen):** 가장 강력한 기물로, 상하좌우·대각선 어느 방향으로든 빈칸이
+    허용하는 만큼 멀리 이동할 수 있습니다.
+-   **룩(Rook):** 상하좌우 직선 방향으로 원하는 만큼 이동합니다.
+-   **비숍(Bishop):** 대각선 방향으로만 원하는 만큼 이동합니다. 시작한 색(흑/백)
+    칸에서 평생 벗어나지 않습니다.
+-   **나이트(Knight):** 가로나 세로로 두 칸 + 직각으로 한 칸 움직이는 L자
+    형태로 이동합니다. 유일하게 다른 기물을 "점프"해 넘어갈 수 있는 기물입니다.
+-   **폰(Pawn):** 기본적으로 앞으로 한 칸 이동하지만, 상대 기물을 잡을 때는
+    대각선 앞으로 한 칸을 사용합니다. 첫 움직임에 한해 두 칸 전진이 가능하며,
+    뒤로는 움직일 수도 잡을 수도 없습니다. 앙파상(En Passant), 승진(Promotion)
+    같은 특수 규칙도 존재합니다.
 
-Chess is a two-player strategy board game played on an 8x8 grid called a chessboard. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The objective of the game is to **checkmate** the opponent's king. A checkmate happens when the king is in a position to be captured (in "check") and there is no legal move to escape the capture.
+### 기본 전략
 
-The game is one of the world's most popular, known for its deep strategy and tactical complexity. Each of the six different types of pieces moves differently, and understanding these movements is fundamental to playing the game.
+#### 오프닝(초반) 원칙
 
-**Piece Movements:**
--   **The King:** Moves one square in any direction (horizontally, vertically, or diagonally). The king is the most important piece but also one of the weakest.
--   **The Queen:** The most powerful piece. It can move any number of vacant squares in any direction (horizontally, vertically, or diagonally).
--   **The Rook:** Moves any number of vacant squares horizontally or vertically.
--   **The Bishop:** Moves any number of vacant squares diagonally. Each bishop starts on a single color (light or dark) and remains on that color for the entire game.
--   **The Knight:** Moves in an 'L' shape: two squares in a horizontal or vertical direction, then one square perpendicular to that. The knight is the only piece that can jump over other pieces.
--   **The Pawn:** Moves forward one square, but captures diagonally one square forward. On its first move, a pawn has the option to move two squares forward. Pawns cannot move or capture backward. Pawns also have special moves: *En Passant* and *Promotion*.
+1.  **중앙 장악**  
+    d4, e4, d5, e5 같은 중앙 칸은 기물 활동성이 가장 높은 자리입니다. 폰과
+    기물로 중앙을 점유하거나 공격하는 것이 중요합니다.
 
-### Gameplay Strategy
+2.  **기물 전개**  
+    나이트와 비숍을 시작 칸에서 꺼내 보다 좋은 칸으로 배치하세요. 일반적인
+    원칙은 나이트를 먼저, 비숍은 그다음에 전개하는 것입니다. 같은 기물을 초반에
+    여러 번 움직이는 것은 가급적 피합니다.
 
-#### Opening Principles
-1.  **[KO]** **Control the Center:** The central squares (d4, e4, d5, e5) are the most important. Pieces in the center control more of the board and have greater mobility.
-2.  **[KO]** **Develop Your Pieces:** Move your knights and bishops out from their starting squares to active positions. A good rule of thumb is to move knights before bishops.
-3.  **[KO]** **Castle Early:** Castling is a special move that gets your king to safety and develops one of your rooks. It's a crucial part of the opening.
+3.  **빠른 캐슬링**  
+    캐슬링은 킹을 안전하게 옮기는 동시에 룩을 활성화하는 특수 수입니다.
+    초반에 캐슬링을 완료해 킹을 폰 벽 뒤로 숨기고, 룩을 중앙 쪽으로 가까이
+    가져오는 것이 좋습니다.
 
-#### Mid-Game Strategy
-1.  **[KO]** **Piece Value:** Understand the relative value of your pieces as a general guide (Pawn=1, Knight=3, Bishop=3, Rook=5, Queen=9). Avoid losing a more valuable piece for a less valuable one unless it leads to a clear advantage.
-2.  **[KO]** **Look for Tactics:** Chess is full of tactical patterns. Learn to spot common ones:
-    -   **Fork:** A single piece attacking two or more enemy pieces at once.
-    -   **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.
-    -   **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.
-3.  **[KO]** **Always Think About Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
+#### 미들게임 전략
 
-#### End-Game Principles
-1.  **[KO]** **Activate Your King:** In the endgame, with fewer pieces on the board, the king becomes a powerful attacking and defending piece. Move it towards the center.
-2.  **[KO]** **Pawn Promotion:** The goal of the endgame is often to advance one of your pawns to the other end of the board to promote it to a queen. A "passed pawn" (a pawn with no enemy pawns in front of it) is a major advantage.
+1.  **기물 가치 이해하기**  
+    대략적인 기물 가치는 폰=1, 나이트=3, 비숍=3, 룩=5, 퀸=9 정도로 볼 수
+    있습니다. 이 기준을 참고해, 더 가치 있는 기물을 덜 가치 있는 기물과 단순
+    교환하는 실수를 피하세요.
 
-### Controls Guide (Digital Versions)
+2.  **전술 패턴 찾기**  
+    체스에는 포크, 핀, 스큐어, 디스커버드 어택 등 반복적으로 등장하는 전술
+    패턴이 많습니다. 상대가 마지막에 둔 수가 어떤 전술을 노리는지 항상 점검하고,
+    반대로 본인에게 유리한 전술 기회가 없는지 찾아보세요.
 
-In digital chess (on a computer or mobile device), the controls are simple and intuitive.
--   **Move a Piece:**
-    -   **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
-    -   **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
--   **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
+    - **상대 수 읽기**  
 
-### Frequently Asked Questions (FAQ)
+    - **Always Think About Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
 
-**1. What is the difference between Checkmate and Stalemate?**
-> This is a crucial distinction.
-> - **Checkmate** is a win. It occurs when a king is in check (under attack) and there is no legal move to get out of check.
-> - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.
+    - **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.
 
-**2. What are the rules for Castling?**
-> You can only castle if all of the following conditions are met:
-> 1.  It is that king's very first move.
-> 2.  It is that rook's very first move.
-> 3.  There are no pieces between the king and the rook.
-> 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.
+- **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.
+    자신의 수만 생각하지 말고, 상대가 무엇을 위협하고 있는지 매번 확인하세요.
+    "상대의 마지막 한 수가 무엇을 노리는가?"를 자문하는 습관이 blunder(큰 실수)를
+    크게 줄여 줍니다.
 
-**3. What is "En Passant"?**
-> *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.
+#### 엔드게임 원칙
 
-**4. Can the King capture pieces?**
-> Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
+1.  **킹을 적극적으로 사용하기**  
+    기물이 많이 교환된 엔드게임에서는 킹이 강력한 공격·수비 기물이 됩니다.
+    킹을 중앙으로 끌어올려 폰을 지원하고, 상대 킹의 진입을 막는 것이 중요합니다.
 
+2.  **폰 승진 노리기**  
+    엔드게임의 핵심은 종종 폰 하나를 끝까지 전진시켜 퀸으로 승진시키는 것입니다.
+    앞에 상대 폰이 없는 "통과폰(passed pawn)"은 큰 이점이 되므로, 통과폰을
+    만들고 지원하는 계획을 세워 보세요.
+
+### 조작 방법 (디지털 버전)
+
+-   **기물 이동:**  
+    -   클릭 & 드래그: 기물을 클릭한 상태로 원하는 칸까지 끌어다 놓습니다.  
+    -   클릭 & 클릭: 기물을 클릭해 선택한 뒤, 하이라이트된 목적 칸을 다시 클릭해
+        이동합니다.
+-   **캐슬링:** 킹을 캐슬링할 방향으로 두 칸 움직이면, 룩이 자동으로 킹 옆 칸으로
+
+    - **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
+
+    - **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
+
+- **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
+    이동해 캐슬링이 수행됩니다.
+
+### 자주 묻는 질문 (FAQ)
+
+**1. 체크메이트와 스테일메이트의 차이는 무엇인가요?**  
+> - **체크메이트(Checkmate)**: 킹이 체크를 받고 있으며, 어떤 합법 수로도 그 체크를
+>   피할 수 없는 상태입니다. 체크메이트를 당한 쪽이 패배합니다.  
+> - **스테일메이트(Stalemate)**: 킹이 체크 상태는 아니지만, 둘 수 있는 합법 수가
+>   전혀 없는 상태입니다. 이 경우 즉시 무승부가 됩니다.
+
+**2. 캐슬링 규칙이 궁금해요.**  
+> 캐슬링을 하기 위해서는 다음 조건을 모두 만족해야 합니다.  
+> 1. 해당 킹이 아직 한 번도 움직인 적이 없어야 합니다.  
+> 2. 캐슬링에 사용하는 룩 역시 한 번도 움직인 적이 없어야 합니다.  
+> 3. 킹과 룩 사이에 다른 기물이 없어야 합니다.  
+> 4. 킹이 현재 체크 상태가 아니며, 지나가는 칸과 도착 칸이 상대 기물의 공격 범위에
+>    포함되지 않아야 합니다.
+
+**3. "앙파상(En Passant)"은 무엇인가요?**  
+> 앙파상은 폰만 사용할 수 있는 특수 잡기입니다. 상대 폰이 시작 위치에서 두 칸
+> 전진해 내 폰 옆 칸을 지나쳐 도착했을 때, 바로 그 다음 턴에만 그 폰을 마치 한
+> 칸만 전진한 것처럼 대각선으로 잡을 수 있습니다.
+
+**4. 킹도 상대 기물을 잡을 수 있나요?**  
+> 네. 킹 역시 다른 기물처럼 상대 말이 있는 칸으로 이동해 그 말을 잡을 수
+> 있습니다. 다만 이동하려는 칸이 상대 기물의 공격 범위(체크 위치)에 해당한다면
+> 그 칸으로는 이동할 수 없습니다.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: battleships-armada
-title: '[DE] Battleships Armada'
+title: "Battleships Armada"
 description: >-
-  [DE] The classic naval combat game! Strategically place your fleet of ships on
-  the grid and fire at your opponent's grid to find and sink their entire armada
-  before they sink yours.
+  Battleships Armada ist eine digitale Umsetzung des klassischen
+  Schiffe‑Versenken. Platziere deine Flotte klug auf dem Raster und finde mit
+  systematischen Schüssen die gegnerische Armada, bevor deine untergeht.
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/battleships-armada.png
 tags:
@@ -17,33 +17,45 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Battleships Armada orientiert sich eng am Brettspielklassiker Battleship.
+Beide Spieler platzieren heimlich eine Flotte auf ihrem Raster und geben sich
+anschließend abwechselnd Koordinaten‑Schüsse, um die Schiffe des Gegners
+aufzuspüren und zu versenken. Wer zuerst alle gegnerischen Schiffe zerstört,
+gewinnt.
 
+### Strategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Schiffe klug platzieren:** Vermeide es, die gesamte Flotte am Rand zu
+    stapeln oder eng zu clustern. Eine zufällig wirkende, weit verteilte
+    Anordnung ist deutlich schwerer zu erraten.
+2.  **Effizient suchen:** Beginne die Gefechtsphase mit einem klaren
+    Suchmuster – etwa einem Schachbrett oder diagonalen Schüssen – statt
+    vollkommen zufälliger Treffer. So deckst du das Raster mit weniger
+    verschwendeten Schüssen ab.
+3.  **Nach einem Treffer nachsetzen:** Sobald du ein "Treffer"‑Feld hast,
+    konzentriere deine Schüsse auf die angrenzenden Felder (oben, unten, links,
+    rechts), um Länge und Richtung des Schiffs zu ermitteln.
+4.  **Schiff konsequent versenken:** Hast du die Ausrichtung erkannt, arbeite
+    dich der Länge nach vor, bis alle Felder getroffen sind und das Schiff als
+    "versenkt" gilt. Erst danach gehst du zurück in dein globales Suchmuster.
 
-Battleships Armada is a digital adaptation of the classic naval combat board game, Battleship. It's a game of pure strategy, deduction, and a little bit of luck. Each player secretly arranges their fleet of ships on a grid. Then, players take turns firing shots at the other player's grid in an attempt to locate and sink their entire fleet. The first player to sink all of their opponent's ships wins the game.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Schiffe platzieren:** Ziehe deine Schiffe in der Setupphase auf das eigene
+  Raster und rotiere sie per Klick, bis sie passen.
+- **Schuss abfeuern:** Klicke in der Gefechtsphase auf ein Feld im gegnerischen
+  Raster, um dort zu feuern. Das Spiel markiert automatisch Treffer oder
+  Fehlschüsse.
 
-1.  **[DE]** **Strategic Placement:** The game begins with the placement phase. Don't place all your ships clustered together or all along the edges. A scattered, random-looking placement is harder for your opponent to guess.
-2.  **[DE]** **Hunting for Ships:** When the combat phase begins, don't fire randomly. A common strategy is to fire in a checkerboard or diagonal pattern across the grid. This ensures you will find a ship with fewer wasted shots.
-3.  **[DE]** **Zeroing In:** Once you get a "Hit," you know you've found a ship. Your next shots should be focused on the adjacent squares (up, down, left, right) to find the rest of the ship. For example, if you hit C5, your next shots should be C4, C6, B5, and D5.
-4.  **[DE]** **Sinking the Ship:** Once you have hit all the squares that make up a single ship, it will be declared "sunk." Then you can resume your general search pattern to find the next ship.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   **F: Woher weiß ich, wo die gegnerischen Schiffe sind?**
+    *   **A:** Du weißt es nicht – du musst aus Treffern und Fehlschüssen ableiten, wo Schiffe liegen können und wo nicht.
 
-*   **[DE]** **Place Ships:** During the setup phase, click and drag your ships onto your grid. You can also click a ship to rotate it between horizontal and vertical alignment.
-*   **[DE]** **Fire a Shot:** During the combat phase, click on a square in your opponent's grid (usually the one on the right) to fire at those coordinates.
+*   **F: Was soll ich nach meinem ersten Treffer tun?**
+    *   **A:** Beschieße die Nachbarfelder des Treffers, bis du die Ausrichtung kennst, und arbeite das Schiff dann Feld für Feld ab.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: How do I know where my opponent's ships are?**
-    *   **[DE]** **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."
-
-*   **[DE]** **Q: What happens after I get a "Hit"?**
-    *   **[DE]** **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.
-
-*   **[DE]** **Q: How do I win?**
-    *   **[DE]** **A:** You win by being the first player to successfully sink all five of your opponent's ships.
-
+*   **F: Wie gewinne ich eine Partie?**
+    *   **A:** Indem du alle Schiffe deines Gegners versenkst, bevor er deine Flotte vollständig zerstört.

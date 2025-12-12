@@ -1,40 +1,50 @@
 ---
-locale: ja
-urlstr: daily-sudoku
-title: '[JA TRANSLATION NEEDED] Daily Sudoku'
-description: >-
-  [JA TRANSLATION NEEDED] Daily Sudoku provides a fresh logic puzzle every day:
-  place digits 1–9 so each row, column, and box contains all numbers.
+title: Daily Sudoku デイリー・数独
+description: 「Daily Sudoku」で毎日新しいナンプレに挑戦。論理的思考を駆使して、1から9の数字ですべてのマスを埋めよう。脳トレの王道。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/daily-sudoku.jpg
+urlstr: daily-sudoku
+score: 3.8/5  (1071 votes)
 tags:
   - puzzle
   - logic
-score: 3.8/5  (1071 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Daily Sudoku（デイリー・数独）*は、毎日新しい9x9マスのロジックパズルを楽しめるゲームです。
+ルールはシンプル。空いているマスに1から9までの数字を入れます。ただし、縦の列、横の行、そして3x3の太戦で囲まれたブロック内で、同じ数字が重複してはいけません。
+日替わりで手応えのある問題が提供され、鉛筆マーク（メモ機能）や難易度設定なども充実しています。
+
+### 遊び方
+
+*   **入力:** マスを選択し、キーボードまたは数字パネルで数字を入力します。
+*   **メモ:** 候補となる数字を小さくメモしておく「ペンシルマーク」機能を活用しましょう。
+*   **解法:** 「この列に1が入るのはここだけ」といった基本的なテクニックから、「ペア」や「X-Wing」などの上級テクニックまで、論理的に答えを絞り込んでいきます。
+
+### 操作ガイド
+
+*   **数字キー:** 数字の入力
+*   **Shift / 右クリック:** メモモードの切り替え（サイトにより異なる場合があります）
+*   **ツール:** アンドゥ（元に戻す）、リドゥ（やり直し）、チェック（間違い探し）ボタンなどが用意されています。
+
+### 攻略のヒント
+
+*   **スキャン:** 縦、横、ボックスを見て、すでに埋まっている数字が多いところから攻めましょう。「この行にはあと1と5しか入らない」という状況を見逃さないように。
+*   **メモの更新:** 数字を確定させたら、影響する行・列・ボックスのメモから、その数字を消去するのを忘れずに。
+*   **推測はNG:** 数独は論理パズルです。「たぶんここ」という当てずっぽうは失敗のもとです。
+
+### よくある質問 (FAQ)
+
+*   **Q: 難易度は選べますか？**
+
+A: Commonly Easy/Medium/Hard; daily sets may rotate difficulties.
+- **A:** 一般的に、初級（Easy）、中級（Medium）、上級（Hard）などが用意されているか、曜日によって難易度が変わる場合があります。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Daily Sudoku offers a fresh 9×9 logic puzzle each day. Fill digits 1–9 so that each row, column, and 3×3 box contains all numbers without repetition. Many hosts provide multiple difficulties, pencil marks, and validation tools.
-
-### How to Play
-- Select a cell and type a digit; use pencil marks (notes) to track candidates.
-- Apply basic techniques such as singles, hidden singles, and elimination by scanning peers.
-- On higher difficulties, learn advanced patterns (pairs, X‑Wing, etc.).
-
-### Controls
-- Number keys to enter digits; Shift/Right‑click toggles pencil marks (site‑dependent); Undo/Redo and Check tools are common.
-
-### Tips and Strategies
-- Start with singles found by scanning each row/column/box.
-- Use notes consistently and clear them after placing a number.
-- Avoid guesswork; if the host allows, use error‑highlighting conservatively.
-
-### FAQ
-- Q: What difficulties are available?
-[JA TRANSLATION NEEDED]   A: Commonly Easy/Medium/Hard; daily sets may rotate difficulties.
-- Q: Do online versions support pencil marks?
-[JA TRANSLATION NEEDED]   A: Most implementations support notes and candidate marking.
-
+A: Most implementations support notes and candidate marking.
+*   **Q: メモ機能はありますか？**
+    *   **A:** ほとんどのデジタル版数独にはメモ機能（Pencil marks / Notes）が搭載されています。

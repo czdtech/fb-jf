@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bolly-beat
-title: '[ES] Bolly Beat'
+title: "Bolly Beat"
 description: >-
-  [ES] Bolly Beat is a rhythm challenge where you tap in time, chain combos, and
-  master Bollywood‑style beats.
+  Bolly Beat es un reto de ritmo en el que debes pulsar al compás, encadenar
+  combos y dominar ritmos al estilo Bollywood.
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/bolly-beat.jpg
 tags:
@@ -15,29 +15,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bolly Beat es un juego de ritmo accesible y ligero, ambientado en enérgicas
+pistas con sabor Bollywood. Las notas avanzan hacia las zonas de impacto en
+pantalla y tienes que tocar con sincronización precisa para mantener vivo el
+combo. Cuanta más precisión logres, mayor será tu puntuación y tu número de
+estrellas, y las rachas largas desbloquean multiplicadores de puntos y patrones
+más exigentes.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Bolly Beat is a light, accessible rhythm‑tapping game themed around energetic, upbeat Bollywood‑style tracks. Notes approach cues on screen and you must tap with accurate timing to keep the combo alive. Higher accuracy yields higher scores and star ratings, while streaks unlock bonus multipliers and more challenging patterns.
+1.  **Aprende las ventanas de tiempo:** Concéntrate en golpear justo en el
+    pulso; los toques demasiado pronto o demasiado tarde rompen el combo y
+    reducen el multiplicador.
+2.  **Lee los patrones con antelación:** Mantén la mirada un poco por delante de
+    la línea de impacto para anticipar manos alternas o dobles toques.
+3.  **Apóyate en el sonido:** Deja que la línea de percusión y el bajo marquen
+    tu ritmo cuando la pantalla se llene de notas.
+4.  **Calienta en Normal:** Gana consistencia en dificultades medias antes de
+    dar el salto a Difícil, así evitas consolidar malos hábitos.
+5.  **Recupérate con cabeza:** Si rompes el combo, prioriza estabilizar el
+    la sincronización antes de volver a perseguir la puntuación perfecta.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Learn the timing windows: Focus on hitting on the beat; late/early hits break combos and reduce multipliers.
-2.  **[ES]** Read patterns early: Keep your eyes slightly ahead of the hit line to anticipate alternating hands or double‑taps.
-3.  **[ES]** Use audio cues: Let the drum/bass line guide your rhythm when visual density is high.
-4.  **[ES]** Warm up on Normal: Build consistency before tackling Hard charts to avoid plateauing with bad habits.
-5.  **[ES]** Recover smartly: If you drop a combo, stabilize your timing before chasing max stars again.
+- Toca/haz clic en los indicadores: Pulsa cuando las notas llegan a la zona de
+  impacto; algunas canciones pueden incluir notas mantenidas o deslizamientos.
+- Pausa/Reintento: Usa los botones en pantalla para pausar o reiniciar la pista.
+- Volumen: Ajusta música y efectos para oír con claridad el pulso del tema.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap/Click cues: Tap when notes reach the hit area; some charts may include holds or swipes.
-- Pause/Retry: Use on‑screen controls to pause or restart a track.
-- Volume: Adjust music/sfx for clearer beat tracking.
+- **¿Necesito auriculares?**
+  Recomendados: un audio más claro facilita la sincronización y la estabilidad del
+  combo.
 
-### Frequently Asked Questions (FAQ)
+- **¿Por qué fallo tanto en las secciones densas?**
+  Prueba a reducir la velocidad de las notas o a centrarte en el pulso
+  principal; también ayuda repetir los fragmentos con contra‑ritmos.
 
-- Do I need headphones? Recommended—clearer timing helps accuracy and combo stability.
-- Why do I miss on dense sections? Try lowering note speed or focusing on the downbeat; practice sections that introduce cross‑rhythms.
-- How to increase score? Maintain long combos and prioritize “Perfect” accuracy to raise multipliers.
-
+- **¿Cómo subo la puntuación?**
+  Mantén combos largos y busca siempre la máxima precisión "Perfect" para
+  aumentar el multiplicador de puntos.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: merge-cakes
-title: '[KO] Merge Cakes'
+title: Merge Cakes 머지 케이크
 description: >-
-  [KO] Merge identical cakes to create new, more elaborate desserts! Fill your
-  display, complete orders, and build the sweetest bakery in this delightful and
-  relaxing merge puzzle game.
+  Merge Cakes는 같은 케이크를 합쳐 더 화려한 디저트를 만들어 가는 머지 퍼즐 게임입니다. 진열대를 채우고 주문을 완료하며 가장
+  달콤한 베이커리를 키워 보세요.
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
 thumbnail: /new-images/merge-cakes.jpg
 tags:
@@ -20,32 +19,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Merge Cakes is a sweet and relaxing puzzle game where you combine identical cakes to create new and more magnificent desserts. You start with basic cupcakes and merge your way up to elaborate, multi-layered creations. The goal is to fulfill customer orders, earn coins, and discover every delicious cake in your recipe book. It's a simple, satisfying, and endlessly charming game.
+*Merge Cakes*는 동일한 케이크를 합쳐 상위 단계의 디저트를 만들어 내는 아기자기한 퍼즐
+게임입니다. 처음에는 기본 컵케이크에서 시작해, 점점 더 크고 화려한 다층 케이크로
+업그레이드해 나가며 손님들의 주문을 채우고 코인을 모으게 됩니다. 목표는 레시피 북에
+있는 모든 케이크를 해금하고, 효율적인 머지로 보드를 관리하는 것입니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** **The Merge Chain:** The core of the game is merging. Drag one cake and drop it onto an identical cake to create a new, higher-level cake. Two basic cupcakes might make a larger cupcake, which in turn can be merged to create a slice of cake, and so on.
-2.  **[KO]** **Fulfill Orders:** At the top of the screen, you will see orders from customers. You must create the specific cakes they are asking for. Fulfilling an order is the primary way to earn coins.
-3.  **[KO]** **Manage Your Board:** You only have a limited number of plates on your board. If it fills up, you won't be able to receive new cakes. Always try to make merges to keep space free.
-4.  **[KO]** **Use Your Coins:** Spend the coins you earn to buy more cakes from the shop. This is much faster than waiting for the free delivery box and is essential for creating high-level cakes to fill difficult orders.
+1. **머지 체인 이해하기:** 게임의 핵심은 머지입니다. 같은 케이크 두 개를 드래그해
+   겹치면 더 높은 단계의 케이크가 생성됩니다. 기본 컵케이크 → 큰 컵케이크 → 케이크
+   조각 → 전체 케이크처럼 점점 진화해 나갑니다.
+2. **주문 우선 처리:** 화면 상단에는 손님들의 주문이 표시되며, 요청한 케이크를
+   만들어 내면 코인을 얻습니다. 어려운 주문일수록 보상이 크니, 필요한 단계의 케이크를
+   목표로 머지 체인을 설계하세요.
+3. **보드 관리:** 사용할 수 있는 접시 수가 제한되어 있습니다. 판이 가득 차면 새
+   케이크를 받을 수 없으니, 자주 머지를 시도해 빈 공간을 확보하세요.
+4. **코인 활용:** 코인을 사용해 상점에서 케이크를 직접 구매할 수 있습니다. 무료로
+   떨어지는 박스만 기다리기보다, 적절히 코인을 써서 고레벨 케이크를 빨리 만들면
+   난이도 높은 주문을 빠르게 처리할 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-The game is played with simple drag-and-drop controls.
+- **케이크 머지:** 케이크를 클릭해 드래그한 뒤, 같은 케이크 위에 놓아 합칩니다.
+- **케이크 구매:** 상점 아이콘을 눌러 원하는 케이크를 선택해 코인으로 구매합니다
+  (이미 발견한 케이크만 구매 가능).
 
-*   **[KO]** **Merge Cakes:** Click and drag one cake and drop it onto another identical cake to merge them.
-*   **[KO]** **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
 
-### Frequently Asked Questions (FAQ)
+- **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
 
-*   **[KO]** **Q: How do I get new cakes?**
-    *   **[KO]** **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.
+- **Merge Cakes:** Click and drag one cake and drop it onto another identical cake to merge them.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What is the main goal?**
-    *   **[KO]** **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
+- **Q: 새로운 케이크는 어떻게 얻나요?**  
+  **A:** 일정 시간마다 무료 배송 상자에서 기본 케이크가 떨어지고, 머지하여 상위
+  단계 케이크를 만들면서 새로운 레시피가 해금됩니다. 한 번 만든 케이크는 상점에서
+  코인으로 다시 구매할 수 있습니다.
 
-*   **[KO]** **Q: My board is full and I can't make any moves. What do I do?**
-    *   **[KO]** **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
+    - **Q: 게임의 최종 목표는 무엇인가요?**  
+  **A:** 손님 주문을 완료해 코인을 벌고, 레시피 북에 있는 모든 케이크를 수집하는
+  것이 주요 목표입니다.
 
+- **Q: 보드가 꽉 차서 아무 것도 할 수 없어요.**  
+
+    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
+
+- **Q: My board is full and I can't make any moves. What do I do?**
+
+    - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
+  **A:** 합칠 수 있는 조합이 없는지 다시 한 번 꼼꼼히 확인해 보세요. 정말 없다면,
+  휴지통 아이콘을 사용해 저레벨 케이크를 팔고 공간을 확보해야 할 수 있습니다.

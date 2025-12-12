@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: blockbuster-puzzle
-title: '[ZH TRANSLATION NEEDED] Blockbuster Puzzle'
-description: >-
-  [ZH TRANSLATION NEEDED] Blockbuster Puzzle is a satisfying block clear — plan
-  placements, chain blasts, and avoid sealing off critical space.
+title: Blockbuster Puzzle 方块连锁爆破
+description: 《Blockbuster Puzzle 方块连锁爆破》是一款以连锁清除为核心的方块消除游戏，通过精心摆放来引爆整行或整片方 块，一口气清理大面积棋盘空间。
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/blockbuster-puzzle.png
 tags:
@@ -15,33 +13,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or cluster clears. The art is in pacing: keep multiple lanes viable, prepare “bomb” turns that clear large areas, and never burn your last escape pocket unless it secures a chain.
+在 *Blockbuster Puzzle* 中，你需要不断把出现的各种形状方块安置在棋盘上，通过凑满整行或触发特定形状的“连锁爆破”，一次性清除大片区域。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Keep two lanes free: Always preserve at least two flexible build lanes for awkward shapes.
-2.  [ZH TRANSLATION NEEDED] Bank a bailout slot: Reserve one pocket to recover from bad piece sets.
-3.  [ZH TRANSLATION NEEDED] Cluster thinking: Group related shapes so one placement sets up several clears.
-4.  [ZH TRANSLATION NEEDED] Avoid single‑cell cavities: These are nearly impossible to fill consistently.
-5.  [ZH TRANSLATION NEEDED] Convert advantage: When the board is open, push for multi‑line clears to snowball space.
+游戏的精髓在于节奏感与“蓄力”：**不要急着每一步都清行，而是为关键回合储备出“炸弹回合”**——让一个方块的落地同时引发多处清除，把原本拥挤的棋盘瞬间洗干净。
 
-### Controls Guide
+只要还能为下一块方块找到合适位置，游戏就会继续；一旦所有可选方块都无处可放，本局即告结束。
 
-- Drag‑and‑drop pieces; rotate if supported.
-- Undo/Reset can recover from greedy mistakes.
+### 游戏策略与通关思路
 
-### Frequently Asked Questions (FAQ)
+1.  **始终保留至少两条“活路”**  
+    尽量让棋盘上始终保持至少两条相对宽敞的布局通道，用来安置形状别扭的方块。把所有方块都堆在一边，很容易让某些形状完全没路可走。
 
-- Q: Why do I keep losing despite early good clears?
-  
-[ZH TRANSLATION NEEDED]   A: You’re over‑committing to one side and losing flexibility. Rebalance and keep a bailout pocket.
+2.  **永远留一个“保险口袋”**  
+    在棋盘上预留一块专门的“逃生口”，用于暂时安放尴尬的方块组合。当抽到一组非常难摆的形状时，这个口袋能帮你度过最危险的几轮。
 
-- Q: Is rotation required to win?
-  
-[ZH TRANSLATION NEEDED]   A: No, but it helps. When rotation is limited, rely on symmetry and larger open lanes.
+3.  **成片思考，而非单行思考**  
+    不要只盯着一行是否能立刻清除，尝试把相关形状聚拢在某一片区域，让一个落点能同时触发多行甚至大片的连锁爆破，这才是本作的精髓。
 
-- Q: Should I place big shapes first or last?
-  
-[ZH TRANSLATION NEEDED]   A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
+4.  **尽量避免单格空洞**  
+    和多数方块拼图一样，单独一格的不规则空洞几乎很难再利用。宁可先用普通消行把这些隐患消掉，也不要为了等一块“刚好合适”的形状白白浪费空间。
 
+5.  **在优势局面时主动“滚雪球”**  
+    当棋盘相对干净、空位很多时，不要只做零散清除，尽量构造多行或大片连锁，这样可以让你在后续局面里继续保持空间优势，形成正向循环。
+
+### 操作指南
+
+-   通过拖拽将方块放置到棋盘上，若某一模式支持旋转，可通过点击或旋转按钮调整形状朝向。  
+-   如提供“撤销 / 重开”功能，可以在发现某一步明显让棋盘变得更糟（比如封死关键通道或保险口袋）时，及时回滚。
+
+### 常见问题解答（FAQ）
+
+-   **问：明明开局连消很多，为什么还是很快输？**  
+    > 多半是你把棋盘压在同一侧，导致另一侧没有变通空间。记得随时保持至少一个保险口袋，并让布局在左右两边都留有余地。
+-   **问：不旋转还能通关吗？**  
+    > 可以。缺少旋转时，要更注重对称布局和宽阔通道；若模式允许旋转，则能更灵活地挽救尴尬形状。
+-   **问：大块应该先放还是后放？**  
+    > 局面拥挤时，优先处理最难放的大块以免被卡死；局面宽松时，用大块先搭建好连消结构，再用小块收尾引爆。

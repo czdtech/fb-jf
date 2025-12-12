@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: diner-dash
-title: '[DE] Diner Dash'
+title: "Diner Dash"
 description: >-
-  [DE] Diner Dash is a time‑management game: seat guests, take orders, serve
-  meals, and keep everyone happy to clear levels.
+  Diner Dash ist ein rasantes Zeitmanagement-Spiel: Setze Gäste an Tische,
+  nimm Bestellungen auf, serviere Essen und halte alle zufrieden, um die
+  Levelziele zu erreichen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/diner-dash.jpg
 tags:
@@ -14,28 +15,47 @@ score: 4.3/5  (691 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Diner Dash ist ein klassisches Zeitmanagement-Spiel rund um einen kleinen
+Diner. Du führst Gäste zu ihren Tischen, nimmst Bestellungen auf, bringst Essen
+und räumst anschließend wieder ab – und das alles, bevor die Gäste ungeduldig
+werden. Durch gut getimte Aktionsketten (zum Beispiel mehrere Gäste derselben
+Farbe hintereinander setzen oder besonders schnell bedienen) sammelst du
+Kombos und verdienst Geld, das du zwischen den Leveln in Upgrades investieren
+kannst.
 
+### So spielst du
 
-### Overview
-Diner Dash is a time‑management game about seating guests, taking orders, delivering food, bussing tables, and keeping customer hearts high to clear objectives. You earn combos by chaining actions (e.g., seating groups of the same color, serving quickly) and buy upgrades between levels. 
+- Setze ankommende Gäste möglichst schnell an passende Tische und achte dabei
+  auf Tischgröße und Farben, um Bonuspunkte zu kassieren.
+- Nimm Bestellungen auf, serviere die Gerichte und räume die Tische in einem
+  effizienten Kreislauf ab, damit sich keine langen Schlangen bilden.
+- Nutze Upgrades wie schnellere Schuhe, zusätzliche Tische oder bessere
+  Ausstattung, um die höheren Zielvorgaben in späteren Leveln zu schaffen.
 
-### How to Play
-- Seat arriving customers promptly; match table sizes and colors when possible for bonuses.
-- Take orders, deliver dishes, and clear tables in an efficient loop to avoid queues.
-- Use upgrades (faster shoes, more tables, equipment) to meet higher quotas.
+### Steuerung
 
-### Controls
-- Mouse/touch: click destinations in order to queue actions; some versions allow drag‑and‑drop for seating or serving.
+- Maus/Touch: Klicke oder tippe nacheinander auf Zielorte und Objekte, um
+  Aktionen in eine Warteschlange zu legen. In manchen Versionen kannst du Gäste
+  oder Teller auch per Drag-and-Drop bewegen.
 
-### Tips and Strategies
-- Chain related actions back‑to‑back to maintain high combos.
-- Prioritize impatient customers first; watch the hearts meter.
-- Pre‑stage actions (collect orders in a sweep, then serve in a sweep) to minimize travel.
+### Tipps und Strategien
+
+- Kette ähnliche Aktionen möglichst hintereinander, um lange Kombos aufzubauen
+  und mehr Punkte zu verdienen.
+- Kümmere dich zuerst um ungeduldige Gäste – behalte die Herz-Anzeigen im
+  Blick, damit niemand wütend geht.
+- Plane deine Route: Sammle z.B. in einem Durchgang mehrere Bestellungen ein
+  und serviere sie in einem weiteren, statt ständig hin und her zu laufen.
 
 ### FAQ
-- Q: What do color matches do?
-A: Seating same‑color groups at like‑colored tables yields extra points/combos.   
-- Q: Can I retry for a higher score?
-A: Yes—replaying levels to optimize routes and chains is a core loop. 
 
+- **F: Was bringen Farb-Matches?**  
+  **A:** Wenn du Gäste derselben Farbe an entsprechend markierte Tische setzt,
+  erhältst du zusätzliche Punkte und Kombos.
+
+- **F: Kann ich Level für eine bessere Wertung wiederholen?**  
+  **A:** Ja, das erneute Spielen von Leveln, um Wege und Aktionsketten zu
+  optimieren, gehört zum Kern von Diner Dash und hilft dir, höhere Scores und
+  mehr Upgrades freizuschalten.

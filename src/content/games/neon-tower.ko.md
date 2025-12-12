@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: neon-tower
-title: '[KO] Neon Tower'
+title: Neon Tower 네온 타워
 description: >-
-  [KO] Guide the bouncing ball down the Neon Tower! Rotate the helix platform to
-  find gaps and let the ball fall through, but watch out for the red obstacles.
-  Smash through multiple levels to get a power boost!
+  Neon Tower에서는 거대한 나선형 타워를 회전시켜 튕기는 공을 아래로 내려보내야 합니다. 틈을 찾아 연속으로 떨어뜨리되, 붉은 장애물은
+  조심하세요. 여러 층을 한 번에 뚫고 내려가면 강력한 파워 부스트가 발동합니다.
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
 thumbnail: /new-images/neon-tower.png
 tags:
@@ -18,33 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Neon Tower*는 3D 나선형 타워를 회전시키며 튕기는 공을 아래층으로 내려 보내는 아케이드
+게임입니다. 조작은 단순하지만, 속도가 빨라질수록 플랫폼의 틈과 붉은 위험 플랫폼을
+구분해 빠르게 회전시켜야 하므로 난도가 점점 올라갑니다. 한 번도 발판에 닿지 않고 여러
+층을 연속으로 떨어뜨리면 공이 불꽃 모드로 변해, 잠시 동안 어떤 플랫폼이든 그대로
+부숴 버릴 수 있습니다.
 
-### Detailed Game Introduction
+### 공략 & 플레이 팁
 
-Neon Tower is a fast-paced and addictive 3D arcade game where you guide a bouncing ball down a massive, twisting helix tower. The gameplay is simple to learn but hard to master. You must rotate the tower to find gaps in the platforms, allowing the ball to fall through. The goal is to reach the bottom of the tower while avoiding the deadly red platforms that will end your run instantly.
+1. **틈 찾기:** 기본은 타워를 돌려 공 아래에 있는 빈틈과 일치시키는 것입니다.
+   중력을 활용해 공이 자연스럽게 아래로 떨어지도록 유도하세요.
+2. **파이어볼 콤보:** 발판을 건드리지 않고 여러 층을 연속으로 빠르게 통과하면
+   파이어볼 모드가 발동합니다. 이 상태에서는 붉은 플랫폼까지도 부술 수 있으므로,
+   어려운 구간을 한 번에 돌파하기 좋습니다.
+3. **리스크 vs 리워드:** 너무 욕심을 내서 긴 낙하를 노리다 붉은 플랫폼에 떨어지면
+   그대로 게임 오버입니다. 상황에 따라 짧은 안전 낙하와 긴 콤보 낙하를 적절히
+   섞어 사용하세요.
+4. **미리 내려다보기:** 현재 층만 보지 말고, 아래 몇 층을 미리 훑어보며 붉은 플랫폼의
+   위치와 틈의 흐름을 파악해 두면 반응 속도를 줄일 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Find the Gaps:** The core mechanic is rotating the tower to line up the gaps with your bouncing ball. Let gravity do the work and guide the ball downwards.
-2.  **[KO]** **Build a Combo for Fireball Mode:** The key to high scores and clearing difficult sections is to build momentum. If you let the ball fall through multiple platforms without touching any of them, it will turn into a fiery projectile. In this "fireball" mode, you can smash through *any* platform, including the red ones, for a short time.
-3.  **[KO]** **Risk vs. Reward:** Decide when to play it safe and when to go for a long drop. A long drop can activate fireball mode, but if you misjudge the landing, you might hit a red platform. Sometimes, it's better to make a few smaller, safer drops.
-4.  **[KO]** **Look Ahead:** Don't just focus on the platform you are on. Look several levels below to plan your descent and anticipate where the gaps and red platforms will be.
+게임은 간단한 드래그 조작으로 진행됩니다.
 
-### Controls Guide
+* **타워 회전:** 마우스 왼쪽 버튼(또는 손가락)을 누른 채 좌우로 드래그해 나선형 타워를
+  회전시킵니다.
 
-The game is controlled with a simple drag mechanic.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Rotate Tower:** Click and hold the left mouse button (or your finger) and drag left or right to rotate the helix tower.
+* **Q: 게임의 목표는 무엇인가요?**  
+  **A:** 플랫폼의 틈을 통해 공을 아래로 계속 떨어뜨려, 타워 최하단까지 무사히
+  도달하는 것이 목표입니다.
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 빨간 플랫폼에 닿으면 어떻게 되나요?**  
+  **A:** 일반 상태에서 붉은 플랫폼에 닿으면 공이 깨지며 게임이 종료됩니다. 파이어볼
+  모드일 때만 붉은 플랫폼을 부술 수 있습니다.
 
-*   **[KO]** **Q: What is the objective of the game?**
-    *   **[KO]** **A:** To guide the bouncing ball safely to the bottom of the tower by falling through the gaps in the platforms.
+* **Q: 파이어볼 모드는 어떻게 발동하나요?**  
 
-*   **[KO]** **Q: What happens if I land on a red platform?**
-    *   **[KO]** **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
+    - **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
 
-*   **[KO]** **Q: How do I activate the fireball mode?**
-    *   **[KO]** **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
+- **Q: How do I activate the fireball mode?**
 
+    - **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
+  **A:** 발판에 닿지 않고 여러 층을 연속해서 통과하면 공이 점점 빨라지다가, 불꽃에
+  휩싸이는 연출과 함께 파이어볼 모드에 돌입합니다. 이때는 짧은 시간 동안 어떤 플랫폼도
+  안전하게 부술 수 있습니다.

@@ -1,82 +1,50 @@
 ---
-locale: ja
-urlstr: roadfury
-title: '[JA TRANSLATION NEEDED] Road Fury'
-description: >-
-  [JA TRANSLATION NEEDED] An action-packed vertical shoot-'em-up on the highway!
-  Control your armed vehicle, destroy enemy cars, and collect coins to upgrade
-  your weapons and armor to survive the fury of the road.
-iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
+title: RoadFury
+description: RoadFuryは激しいカーチェイスゲームです。運転し、射撃し、敵を避け、道路の狂乱をマスターします。
+iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/roadfury.png
+urlstr: roadfury
+score: 4.1/5  (1867 votes)
 tags:
   - action
-  - shooting
-  - driving
-score: 4.3/5  (2450 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - racing
+  - shooter
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+RoadFuryは、レーシングとシューティングを激しいカーチェイスで組み合わせます。運転し、敵の車両を射撃し、障害物を避け、できるだけ長く生き残ります。アップグレード可能な武器と車両。
 
-[JA TRANSLATION NEEDED] Road Fury is a high-octane, top-down vertical scrolling shooter that puts you in the driver's seat of a heavily armed vehicle on a chaotic highway. Your mission is to survive for as long as possible against waves of enemy cars, trucks, and bosses. Weave through traffic, collect powerful boosters, and use the coins you earn from destroyed enemies to upgrade your car's weapons and armor to unleash maximum fury.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **射撃し続ける:" 敵を破壊してポイントを獲得します。
+2.  **障害物を避ける:" クラッシュは損傷を引き起こします。
+3.  **パワーアップを収集:" ヘルス、弾薬、シールド。
+4.  **賢くアップグレード:" より良い武器と車両性能。
+5.  **レーンを切り替える:" 機動性が重要です。
 
-[JA TRANSLATION NEEDED] 1.  **Constant Movement:** The key to survival is to never stop moving. Weave left and right to dodge enemy fire and collisions. Staying in one place is the fastest way to get destroyed.
-[JA TRANSLATION NEEDED] 2.  **Grab Power-ups:** Prioritize collecting the power-ups that appear on the road. A temporary shield, a powerful rocket launcher, or a coin magnet can dramatically change the course of your run.
-[JA TRANSLATION NEEDED] 3.  **Focus on Upgrades:** The coins you collect are crucial. Between runs, visit the garage to permanently upgrade your vehicle. Upgrading your main cannon's damage and your car's armor are excellent first choices.
-[JA TRANSLATION NEEDED] 4.  **Learn Enemy Patterns:** Different enemy vehicles have different behaviors. Some will try to ram you, while others will shoot from a distance. Learn their patterns to anticipate their attacks and dodge them effectively.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple drag controls.
-
-*   **Move Vehicle:** Click and hold the left mouse button (or use your finger) and drag left and right on the screen to steer your car.
-    - **A:** You don't need to! Your main gun fires automatically, allowing you to focus completely on skillful driving and dodging.（日本語訳が必要）
-    - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.（日本語訳が必要）
-    - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.（日本語訳が必要）
-    - **A:** You don't need to! Your main gun fires automatically, allowing you to focus completely on skillful driving and dodging.（日本語訳が必要）
-    - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.（日本語訳が必要）
-    - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.（日本語訳が必要）
-*   **Shooting:** Your primary weapon fires automatically.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I shoot my weapon?**
-[JA TRANSLATION NEEDED]     *   **A:** You don't need to! Your main gun fires automatically, allowing you to focus completely on skillful driving and dodging.
-
-*   **Q: What are the floating icons on the road?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
-
-*   **Q: What is the best upgrade?**
+### 操作ガイド
 
 
+The game is played with simple drag controls.
+- 矢印キー/WASD：ドライブ、レーンを切り替えます。
+- スペース/マウス：射撃します。
+- パワーアップを収集します。
 
+### よくある質問 (FAQ)
 
-
-
-
+- **Q: エンドレスですか？**  
+  A: はい、できるだけ長く生き残ります。
+    - **Q: 車と武器をアップグレードできますか？**  
+  A: はい、獲得したポイントでアップグレードします。
+- **Q: マルチプレイヤーですか？**  
 
     - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
+
 - **Q: What is the best upgrade?**
+
     - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
-- **Q: What are the floating icons on the road?**
-    - **A:** You don't need to! Your main gun fires automatically, allowing you to focus completely on skillful driving and dodging.
-- **Q: How do I shoot my weapon?**
-### よくある質問（FAQ）
-- **Shooting:** Your primary weapon fires automatically.
-
-
-
-
-
-    - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
-- **Q: What is the best upgrade?**
-    - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
-- **Q: What are the floating icons on the road?**
-    - **A:** You don't need to! Your main gun fires automatically, allowing you to focus completely on skillful driving and dodging.
-[JA TRANSLATION NEEDED]     *   **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
-
+  A: ほとんどのバージョンはシングルプレイヤーです。

@@ -1,46 +1,47 @@
 ---
 locale: fr
 urlstr: 60s-burger-run
-title: '[FR] 60 Seconds Burger Run - Play 60 Seconds Burger Run Online'
-description: >-
-  [FR] 60 Second Burger Run is an exciting and colorful speed-running platformer
-  where your main goal is to reach a closing burger shop within a strict
-  60-second time limit!
-iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
+title: "60 Seconds Burger Run - Play 60 Seconds Burger Run Online"
+description: "60 Seconds Burger Run est un jeu de plateforme de speed‑run coloré où tu dois atteindre un fast‑food sur le point de fermer en moins de 60 secondes."
+iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
 thumbnail: /60s-burger-run.jpg
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)
 ---
 
+*60 Seconds Burger Run* est un jeu de plateforme nerveux en défilement horizontal où tu incarnes un fan de fast‑food qui n’a qu’une minute pour attraper son burger avant la fermeture. Tu cours à toute vitesse à travers des niveaux remplis de précipices, de pics et de plateformes fragiles. Chaque erreur te renvoie au début du niveau, tandis que le chronomètre global de 60 secondes continue de tourner. Ton but est de franchir un maximum d’arrêts de bus avant la fin du temps.
 
+### Présentation du jeu
 
-*60 Second Burger Run* is an exciting and colorful speed-running platformer where your main goal is to reach a closing burger shop within a strict 60-second time limit! You control a cheerful, chubby hero who loves tasty fast food, and you must guide him through a series of challenging stages as quickly as possible. The game tests your reaction time, precision jumping, and ability to quickly memorize paths to pass as many levels as you can before the timer hits zero. 
+Dans chaque niveau, ton personnage doit rejoindre l’arrêt de bus au bout du parcours. Si tu réussis, tu montes dans le bus et passes directement au niveau suivant, toujours avec le même compteur de 60 secondes. Plus tu avances, plus les parcours deviennent techniques, avec des sauts précis, des plateformes qui s’effondrent et des pièges serrés qui punissent la moindre erreur.
 
-### How to Play 60 Second Burger Run
+### Guide de jeu
 
--  **The Objective:** You have a total of 60 seconds to complete as many stages as possible. The ultimate goal of each stage is to run to the bus stop, get on the bus, and proceed to the next level.
--  **Controls:** The controls are simple. Use the **Arrow Keys** or **WASD** keys to run left and right, and to jump.
--  **Navigating Levels:** You need to run very fast, using your reaction and attention. You must jump high, climb over ledges, fly over sharp objects, and leap over fire pits to reach the end.
--  **Hazards and Warnings:** The path is filled with dangers. Be aware of colored platforms that may burst under your hero. Road signs with skulls will also warn you about upcoming cliffs.
--  **Timer and Respawns:** The 60-second timer is for your entire run. If you hit an obstacle but still have time left, you will restart at the beginning of the *current stage*. If the 60 seconds run out, your entire game ends, and you must start over from the very first stage.
-
-
----
-
-### Strategy and Tips
-
--  **Memorization is Key:** Since the timer doesn't reset between levels, your main strategy should be to memorize the path. The game encourages learning through repetition. Don't be discouraged if you fail; each attempt helps you learn the layout for the next run.
--  **Speed and Momentum:** Continuous movement is crucial. Plan your jumps to flow from one action to the next without stopping. Every second you save in an early level gives you more time for later, more difficult stages.
--  **Pay Attention to Visual Cues:** The game warns you about dangers. Look out for skull signs indicating cliffs and be cautious on unfamiliar colored platforms, as they might collapse. The rules for new items are often explained by "little angels" in the game.
-
+- **Objectif principal :** tu disposes de 60 secondes au total pour terminer le plus de niveaux possible. La partie se termine lorsque le temps atteint zéro.
+- **Commandes :** utilise les **flèches directionnelles** ou les touches **WASD** pour courir à gauche/droite et sauter.
+- **Navigation des niveaux :** cours le plus vite possible, enchaîne les sauts, grimpe sur les rebords, franchis les fosses de feu et évite les objets tranchants pour atteindre l’arrêt de bus.
+- **Pièges et avertissements :** certaines plateformes colorées s’effritent sous ton poids ; les panneaux avec un crâne t’annoncent un gouffre ou un danger imminent.
+- **Chronomètre et respawn :** si tu meurs mais qu’il reste du temps, tu recommences au début du niveau en cours. Le compteur, lui, ne se réinitialise jamais.
 
 ---
 
-### Frequently Asked Questions (FAQ)
+### Stratégies et astuces
 
-**Q: How do I win the game?**  **A:** The game is an endless "time attack." The goal isn't to reach a final ending, but to see how many levels you can successfully complete within the 60-second time limit. A higher number of completed levels means a better score. 
+- **Mémorise les parcours :** comme le temps ne se réinitialise pas, chaque tentative sert surtout à apprendre le niveau. Plus tu connais l’emplacement des pièges, plus tu peux courir sans hésiter.
+- **Garde ton élan :** évite de t’arrêter inutilement. Essaie d’enchaîner tes sauts et tes mouvements pour conserver la vitesse et gagner de précieuses secondes pour les niveaux suivants.
+- **Lis les indices visuels :** surveille les panneaux avec des crânes, les nouvelles plateformes colorées et les petits « anges » qui expliquent les règles. Ils t’annoncent souvent les dangers à venir.
 
-**Q: What happens if I hit a spike or fall?**  **A:** If you hit an obstacle, you will immediately restart the current level from its beginning. However, the main 60-second timer does NOT stop or reset, so mistakes are very costly. 
+---
 
-**Q: How many levels are there in total?**  **A:** The game is designed to see how far you can get in one minute. While there may be a finite number of designed levels, the challenge is in completing as many as possible in a single run, not in reaching a specific final level.
+### Foire aux questions (FAQ)
+
+**Q : Comment « finir » le jeu ?**  
+**R :** *60 Seconds Burger Run* fonctionne comme un mode contre‑la‑montre. Le but est de voir combien de niveaux tu peux terminer en une minute, plutôt que d’atteindre un dernier niveau précis.
+
+**Q : Que se passe‑t‑il si je tombe ou touche un piège ?**  
+**R :** Tu réapparais au début du niveau en cours, mais le chronomètre global continue de descendre. Chaque erreur coûte donc du temps.
+
+**Q : Combien y a‑t‑il de niveaux au total ?**  
+**R :** Il existe une série de niveaux prédéfinis, mais l’important est surtout d’améliorer ton record de niveaux complétés en 60 secondes.
+

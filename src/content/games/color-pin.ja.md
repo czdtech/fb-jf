@@ -1,73 +1,48 @@
 ---
-locale: ja
-urlstr: color-pin
-title: '[JA TRANSLATION NEEDED] Color Pin'
-description: >-
-  [JA TRANSLATION NEEDED] Color Pin is a precision pin‑dropper — stick pins into
-  a rotating core without collisions, matching colors under pressure.
+title: Color Pin カラー・ピン
+description: 「Color Pin」は回転する円にピンを刺すタイミングパズル。既存のピンを避け、色を合わせて、正確なリズムでクリアを目指せ。
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/color-pin.png
+urlstr: color-pin
+score: 3.8/5  (1576 votes)
 tags:
   - puzzle
   - casual
-score: 3.8/5  (1576 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Color Pin（カラー・ピン）*は、回転するコア（円）に向けてピンを発射する、タイミング重視のパズルゲームです。ルールはシンプルですが、緊張感があります。既存のピンにぶつからないよう空きスペースを狙ってピンを刺してください。色合わせが必要なモードでは、ピンと同じ色のセグメント（区画）に刺さなければなりません。回転速度の変化や逆回転を見極め、連打よりもリズムと忍耐力が試されます。
 
-[JA TRANSLATION NEEDED] Color Pin asks you to fire pins into a spinning circle. Avoid hitting existing pins, and in color modes, land on matching segments. Rotation speed and direction shifts keep timing tight, rewarding rhythm and patience over spam.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **リズムを読む:** 回転には周期があります。一定のタイミングで発射できるように、回転のクセを見極めましょう。
+2.  **広い隙間から:** 最初は広いスペースを狙ってピンを刺し、狭い隙間は回転が遅くなった時やタイミングが取りやすい時のために残しておきましょう。
+3.  **無理をしない:** タイミングを逃したら、無理に撃たずに次の回転を待ちましょう。焦りは禁物です。
+4.  **色合わせモード:** ターゲットと同じ色が回ってくる位置を予測し（置きエイム）、重なる瞬間だけを狙って撃ちましょう。
+5.  **ミスからの復帰:** 一度ミスをするとリズムが崩れがちです。深呼吸してリズムを取り直してから再開しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Identify rotation cycles and shoot at a consistent phase.
-[JA TRANSLATION NEEDED] 2.  Prioritize wide gaps first; leave tight gaps for slow spins.
-[JA TRANSLATION NEEDED] 3.  Don’t chase missed windows — wait for the next clean pass.
-[JA TRANSLATION NEEDED] 4.  In color modes, pre‑aim the correct segment and shoot only on alignment.
-[JA TRANSLATION NEEDED] 5.  Recover rhythm after misses before continuing.
+### 操作ガイド
 
-### Controls Guide
+*   **発射:** 画面をタップ（またはクリック）するとピンを発射します。
+*   **調整:** バージョンによっては長押しで微調整できる場合もあります。
 
-- Tap/Click to fire a pin; some variants allow holding to adjust.
-- Pause/Restart available via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: すぐにピン同士がぶつかってしまいます。**
 
-- Q: I keep colliding with pins — why?
-  
-[JA TRANSLATION NEEDED]   A: You’re desynced. Watch a full rotation, then resume at a consistent beat.
-
-- Q: Does speed change mid‑level?
-  
-[JA TRANSLATION NEEDED]   A: Often yes; be ready for step‑ups and direction flips.
-
-- Q: Any trick for color segments?
-  
+A: You’re desynced. Watch a full rotation, then resume at a consistent beat.
+- **A:** タイミングがズレています。一度手を止めて回転をよく観察し、心の中でリズムを刻んでから再開してください。
 
 
-
-
-
-- Q: I keep colliding with pins — why?
-### よくある質問（FAQ）
-- Pause/Restart available via UI.
-- Tap/Click to fire a pin; some variants allow holding to adjust.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Shoot only when your target color aligns; forcing shots creates avoidable crashes.
-
-
-
-
+A: Often yes; be ready for step‑ups and direction flips.
+*   **Q: 途中で速度が変わりますか？**
 
 A: Shoot only when your target color aligns; forcing shots creates avoidable crashes.
-- Q: Any trick for color segments?
-A: Often yes; be ready for step‑ups and direction flips.
-- Q: Does speed change mid‑level?
+    *   **A:** はい、頻繁に変わります。急に速くなったり、逆回転したりするので常に警戒が必要です。
 
-
-
-
-A: Shoot only when your target color aligns; forcing shots creates avoidable crashes.
-- Q: Any trick for color segments?
-A: Often yes; be ready for step‑ups and direction flips.
+*   **Q: 色付きの場所を狙うコツは？**
+    *   **A:** 「その色が来たから撃つ」のではなく、「その色が来るタイミングに合わせて撃つ」予測射撃が基本です。

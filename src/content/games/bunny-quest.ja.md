@@ -1,62 +1,40 @@
 ---
+title: "Bunny Quest バニー・クエスト"
+description: "「Bunny Quest」はスライドパズルで道を作る冒険。タイルを動かし、ルートを繋げ、ウサギをゴールまで導こう。ニンジンを集めてハイスコアを目指せ。"
+iframeSrc: "https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/"
+thumbnail: "/new-images/bunny-quest.png"
+urlstr: "bunny-quest"
+score: "4.1/5  (1881 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bunny-quest
-title: '[JA TRANSLATION NEEDED] Bunny Quest'
-description: >-
-  [JA TRANSLATION NEEDED] Bunny Quest is a tile‑path puzzle — slide tiles,
-  connect routes, and guide the bunny to the goal.
-iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
-thumbnail: /new-images/bunny-quest.png
-tags:
-  - puzzle
-  - thinky
-score: 4.1/5  (1881 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Bunny Quest（バニー・クエスト）*は、スライドパズルの要領で道を作るパズルゲームです。バラバラに配置された道のタイルをスライドさせて並べ替え、スタート地点からゴール地点まで繋がる一本のルートを作りましょう。ウサギが安全に通り抜けられるようにするのが目的です。ステージが進むと手数制限が厳しくなり、より効率的な配置が求められます。
 
-[JA TRANSLATION NEEDED] Bunny Quest is a path‑building slider puzzle. Rearrange tiles to form an unbroken route from start to finish, collect optional items, and avoid dead‑ends as move limits tighten in later levels.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **大枠を作る:** まずはスタートとゴール、そして曲がり角（コーナー）や直線のタイルを使って、メインとなるルートの概略をイメージしましょう。
+2.  **ループを避ける:** ゴールに繋がらない無駄なループ（周回コース）を作ってしまうと、手数を浪費します。一直線にゴールを目指す意識を持ちましょう。
+3.  **分岐点の処理:** T字路や交差点のタイルは、ルートの接続が難しい場合の解決策になりますが、複雑になりがちなので後半に調整するのがコツです。
+4.  **手数を減らす:** 多くのステージには「移動回数制限」や星を獲得するための目標手数があります。無駄な動きを減らすため、動かす前によく考えましょう。
+5.  **アイテム回収:** 道中にニンジンなどのアイテムが落ちていることがあります。これらを回収するにはルートを少し遠回りさせる必要がありますが、手数が足りなくならない範囲で狙いましょう。
 
-[JA TRANSLATION NEEDED] 1.  Corners and straights: Place corner/straight tiles to sketch the main path first.
-[JA TRANSLATION NEEDED] 2.  Avoid loops: Don’t waste moves forming isolated loops that don’t reach the goal.
-[JA TRANSLATION NEEDED] 3.  Save junctions: Use T‑junctions and crosses late to resolve branching.
-[JA TRANSLATION NEEDED] 4.  Minimal moves: Track move counts and reverse steps early if inefficient.
-[JA TRANSLATION NEEDED] 5.  Optional items: Route them only when they don’t explode move counts.
+### 操作ガイド
 
-### Controls Guide
+*   **タイル移動:** マウスでドラッグ（またはスワイプ）して、空いているスペースにタイルをスライドさせます。
+*   **機能:** 間違えたときは「リセット」や「アンドゥ（一手戻る）」機能を活用してルートを最適化しましょう。
 
-- Slide tiles by dragging; tiles shift along rows/columns per rules.
-- Undo/Reset if available to optimize routes.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: あと1枚がどうしても繋がりません。**
+    *   **A:** スタートとゴールの位置から逆算して固定し、その間を埋めるように考えると上手くいきやすいです。一度大きく崩してから再構築する勇気も必要です。
 
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
-- Timers? Some stages use move limits, not strict timers.
-- Hints? Many versions include hints; use sparingly.
+*   **Q: 時間制限はありますか？**
+    *   **A:** 多くのステージでは時間制限はありませんが、代わりに「移動回数」の制限がある場合があります。じっくり考えて解くことができます。
 
-
-
-
-
-
-
-
-
-- Hints? Many versions include hints; use sparingly.
-- Timers? Some stages use move limits, not strict timers.
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
-### よくある質問（FAQ）
-- Undo/Reset if available to optimize routes.
-- Slide tiles by dragging; tiles shift along rows/columns per rules.
-### コントロールガイド
-
-
-
-
-- Hints? Many versions include hints; use sparingly.
-- Timers? Some stages use move limits, not strict timers.
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
+*   **Q: ヒント機能はありますか？**
+    *   **A:** ゲーム内の「電球アイコン」などをクリックするとヒントが見られる場合がありますが、回数制限があることが多いので大切に使いましょう。

@@ -1,50 +1,70 @@
 ---
 locale: fr
 urlstr: pixel-shooter
-title: '[FR] Pixel Shooter'
-description: >-
-  [FR] Pixel Shooter is a retro-style pixel art shooting game where players
-  control a character to battle hordes of enemies across various levels,
-  collecting power-ups and upgrading weapons to survive.
-iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
-thumbnail: /new-images/pixel-shooter.jpg
+title: Pixel Shooter
+description: "Pixel Shooter est un shooter arcade rétro en pixel art\_: esquive les projectiles, vise juste et nettoie les vagues d’ennemis à l’écran."
+iframeSrc: 'https://pixelshooter.h5games.usercontent.goog/v/2h3b1cd3k5p40/'
+thumbnail: /new-images/pixel-shooter.png
 tags:
-  - shooting
-  - pixel art
   - action
-score: 3.9/5  (682 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - shooting
+  - arcade
+score: 4.0/5  (1700 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Pixel Shooter est un jeu de tir arcade en vue de dessus ou de côté (selon la version), avec un style visuel pixel art. Tu pilotes un vaisseau ou un personnage armé et dois abattre les vagues d’ennemis tout en esquivant leurs projectiles. Des power‑ups temporaires peuvent améliorer ton tir, ta vitesse ou ta résistance.
+
+### Stratégies de jeu et progression
+
+1.  **Prioriser l’esquive :** rester en vie est plus important que de tirer en continu ; concentre‑toi d’abord sur les trajectoires des projectiles.  
+2.  **Cibler les menaces majeures :** élimine en priorité les ennemis qui tirent beaucoup ou ceux qui foncent sur toi.  
+3.  **Ramasser les bonus prudemment :** ne te jette pas dans un nuage de tirs juste pour un power‑up ; attends une fenêtre sûre.  
+4.  **Apprendre les patterns :** les boss et certaines vagues suivent des schémas répétés ; une fois connus, ils deviennent plus simples à gérer.
+
+
+- **Master Enemy Patterns**: Different enemies have different attack patterns and movement speeds; familiarizing yourself with them can help you better cope.
+### Commandes
+
+- Déplacement : ZQSD / flèches ou joystick virtuel.  
+- Tir : clic, barre d’espace ou touche dédiée, parfois en tir automatique lorsque tu restes appuyé.
 
 
 
-### Game Introduction
-
-"Pixel Shooter" is a retro-style pixel art shooting game where players control a character to battle hordes of enemies across various levels, collecting power-ups and upgrading weapons to survive. The game attracts players with its classic pixel graphics and fast-paced shooting experience.
-
-### Gameplay Strategy
-
-1.  **[FR]** **Move and Shoot**: Move your character flexibly to dodge enemy attacks and shoot accurately to eliminate them.
-2.  **[FR]** **Collect Power-ups**: Defeated enemies may drop coins, health packs, or weapon upgrade items; collect them promptly to enhance your strength.
-3.  **[FR]** **Upgrade Weapons**: Use coins or specific items to upgrade your weapons, improving fire rate, damage, or range.
-4.  **[FR]** **Utilize Environment**: Some levels may offer cover or other environmental elements; utilize them wisely to avoid damage or ambush enemies.
-5.  **[FR]** **Master Enemy Patterns**: Different enemies have different attack patterns and movement speeds; familiarizing yourself with them can help you better cope.
-
-### How to Play
-
-*   **[FR]** **Movement**: Typically use WASD keys or arrow keys to control character movement.
-*   **[FR]** **Shoot**: Use the left mouse button or press a specific key to shoot.
-*   **[FR]** **Aim**: Use mouse movement to aim at enemies.
-*   **[FR]** **Switch Weapons**: Some game versions may offer a weapon switching function, usually via number keys or mouse scroll wheel.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: What is the objective of "Pixel Shooter"?**
-**A**: The main objective is to survive each level, defeat all enemies, and challenge for higher scores.
-2.  **[FR]** **Q: How do I get more powerful weapons?**
-**A**: Typically, by collecting coins or special items in the game, then upgrading existing weapons or unlocking new ones in the shop or a specific interface.
-3.  **[FR]** **Q: Does the game have a co-op mode?**
-**A**: Some pixel shooter game versions may support local or online co-op mode, where players can team up with friends to fight enemies.
-4.  **[FR]** **Q: What are "health packs" for in the game?**
 **A**: Health packs restore your character's health, helping you survive during intense battles.
+
+- **Q: What are "health packs" for in the game?**
+
+**A**: Some pixel shooter game versions may support local or online co-op mode, where players can team up with friends to fight enemies.
+
+- **Q: Does the game have a co-op mode?**
+
+**A**: Typically, by collecting coins or special items in the game, then upgrading existing weapons or unlocking new ones in the shop or a specific interface.
+
+- **Q: How do I get more powerful weapons?**
+
+**A**: The main objective is to survive each level, defeat all enemies, and challenge for higher scores.
+
+- **Q: What is the objective of "Pixel Shooter"?**
+
+### Foire aux questions
+
+- **Switch Weapons**: Some game versions may offer a weapon switching function, usually via number keys or mouse scroll wheel.
+
+
+**A**: The main objective is to survive each level, defeat all enemies, and challenge for higher scores.
+- **Aim**: Use mouse movement to aim at enemies.
+
+
+**A**: Health packs restore your character's health, helping you survive during intense battles.
+
+- **Q: What are "health packs" for in the game?**
+
+**A**: Some pixel shooter game versions may support local or online co-op mode, where players can team up with friends to fight enemies.
+
+- **Q: Does the game have a co-op mode?**
+
+**A**: Typically, by collecting coins or special items in the game, then upgrading existing weapons or unlocking new ones in the shop or a specific interface.

@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: retro-bowl
-title: '[ZH TRANSLATION NEEDED] Retro Bowl'
+title: "《Retro Bowl》像素橄榄球经理"
 description: >-
-  [ZH TRANSLATION NEEDED] Retro Bowl is a nostalgic American football game with
-  retro 8-bit graphics where players manage and play as a football team, calling
-  plays, throwing passes, and leading their team to championship glory.
+  《Retro Bowl》是一款充满怀旧风格的美式橄榄球游戏，采用复古 8 位像素画面。你既是主教练也是四分卫，需要管理球队薪资与阵容、制定战术、传球推进，并一步步带队冲击总冠军。
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/retro-bowl.jpg
 tags:
@@ -17,32 +15,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Retro Bowl》是一款将球队经营与场上操作结合在一起的美式橄榄球游戏。复古 8 位画风下，你既要扮演教练，在赛季之间负责签约、交易、调配阵容；又要在比赛中扮演四分卫，通过选择战术、精准传球和冲球推进，带领球队一路打进 Retro Bowl 总决赛。
 
-[ZH TRANSLATION NEEDED] "Retro Bowl" is a nostalgic American football game with retro 8-bit graphics where players act as both coach and quarterback, managing the team and controlling gameplay through play-calling, passing, and leading the team to championship glory. The game combines team management with real-time game control, providing players with a complete football experience.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **练好传球基本功：** 熟悉不同接球手的跑路线和速度，观察防守站位，在空档刚刚出现时把球稳稳传出去，减少被抄截的风险。
+2.  **精打细算管理球队：** 合理分配薪资空间，在超级明星和功能型球员之间找到平衡，避免把全部工资帽都砸在少数位置上。
+3.  **因地制宜选战术：** 根据场上码数、剩余时间和比分来决定是主打传球还是冲球。领先时可以多用稳健的地面推进，落后时则需要更积极的传球。
+4.  **把握四分卫节奏：** 在四分卫控制模式下，要学会判断何时果断出手传球、何时自己持球冲跑，避免在口袋里犹豫太久被擒杀。
+5.  **规划整个赛季：** 不只是盯着一两场比赛的结果，要从长远角度考虑阵容培养，给年轻球员足够上场时间，为季后赛冲刺做好准备。
 
-1.  **Master Passing Skills**: Learn to accurately pass to receivers, observe defensive positions to choose the best passing moments.
-2.  **Team Management**: Allocate salary budget wisely, sign and trade players to build a strong roster.
-3.  **Tactical Choices**: Choose appropriate offensive tactics based on field situations, including passing and rushing plays.
-4.  **Timing Mastery**: In quarterback mode, master the optimal timing for passing and running.
-5.  **Season Planning**: Develop long-term team development strategies, nurture young players, and compete for playoff spots.
+### 操作说明
 
-### How to Play
+*   **传球：** 拖动以瞄准接球手，调整出手方向和力度，松开手指即可完成传球。
+*   **冲球：** 操控四分卫向前推进，寻找防守空隙突破。
+*   **球队管理：** 在菜单中管理球员合同、交易和深度表设置。
+*   **战术选择：** 比赛过程中根据局面切换不同的进攻与防守战术。
 
-*   **Passing**: Drag to aim at receivers, release finger to pass.
-*   **Rushing**: Control the quarterback to run forward, looking for gaps to break through.
-*   **Team Management**: Manage player contracts, trades, and roster settings in the menu.
-*   **Tactical Selection**: Choose different offensive and defensive tactics during games.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How can I improve passing accuracy?**
-     **A**: Practice aiming more, pay attention to receivers' running routes, and avoid being intercepted by defenders.
-2.  [ZH TRANSLATION NEEDED] **Q: How do I manage team salary?**
-     **A**: Balance salaries between star players and role players, ensuring a competitive roster within the salary cap.
-3.  [ZH TRANSLATION NEEDED] **Q: Are there playoffs in the game?**
-     **A**: Yes, well-performing teams can enter the playoffs, with the ultimate goal of winning the Retro Bowl championship.
-4.  [ZH TRANSLATION NEEDED] **Q: Can players get injured?**
-     **A**: Players may get injured during games, affecting their performance, requiring proper rotation and player management.
+1.  **问：怎样提升传球命中率？**  
+    **答：** 多练习瞄准时机，提前判断接球手跑出的空档，避免在防守人紧贴时勉强出手，并尽量让传球线路远离防守后卫的抄截范围。
+2.  **问：球队薪资应该怎么管？**  
+    **答：** 在明星球员和角色球员之间做好平衡，优先确保关键位置（如四分卫、外接手、防守核心）有稳定输出，同时留出一定空间应对未来续约与补强。
+3.  **问：游戏里有季后赛吗？**  
+    **答：** 有。常规赛表现出色的球队可以打进季后赛，最终目标就是捧起 Retro Bowl 总冠军奖杯。
+4.  **问：球员会受伤吗？**  
+    **答：** 会。比赛中球员可能因碰撞受伤，影响出场和状态，因此需要合理轮换阵容，避免个别人长期超负荷出战。

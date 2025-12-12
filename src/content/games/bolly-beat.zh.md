@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: bolly-beat
-title: '[ZH TRANSLATION NEEDED] Bolly Beat'
-description: >-
-  [ZH TRANSLATION NEEDED] Bolly Beat is a rhythm challenge where you tap in
-  time, chain combos, and master Bollywood‑style beats.
+title: Bolly Beat 宝莱坞节奏
+description: 《Bolly Beat 宝莱坞节奏》是一款节奏轻快的敲击音乐游戏，跟随宝莱坞风格的动感鼓点，在正确节拍点击打出连击 与高分。
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/bolly-beat.jpg
 tags:
@@ -15,26 +13,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Bolly Beat is a light, accessible rhythm‑tapping game themed around energetic, upbeat Bollywood‑style tracks. Notes approach cues on screen and you must tap with accurate timing to keep the combo alive. Higher accuracy yields higher scores and star ratings, while streaks unlock bonus multipliers and more challenging patterns.
+*Bolly Beat* 是一款操作简单、节奏感十足的敲击类音乐游戏，以充满活力的宝莱坞风格配乐为主题。音符会沿着轨道滑向判定圈，你需要在恰当时机点击或敲击，让音乐保持连贯，维持你的连击（Combo）。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Learn the timing windows: Focus on hitting on the beat; late/early hits break combos and reduce multipliers.
-2.  [ZH TRANSLATION NEEDED] Read patterns early: Keep your eyes slightly ahead of the hit line to anticipate alternating hands or double‑taps.
-3.  [ZH TRANSLATION NEEDED] Use audio cues: Let the drum/bass line guide your rhythm when visual density is high.
-4.  [ZH TRANSLATION NEEDED] Warm up on Normal: Build consistency before tackling Hard charts to avoid plateauing with bad habits.
-5.  [ZH TRANSLATION NEEDED] Recover smartly: If you drop a combo, stabilize your timing before chasing max stars again.
+判定越准，得分越高，也越容易拿到更高的星级评价；保持长时间的连续命中还能解锁更高的分数倍率与更复杂的谱面。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Tap/Click cues: Tap when notes reach the hit area; some charts may include holds or swipes.
-- Pause/Retry: Use on‑screen controls to pause or restart a track.
-- Volume: Adjust music/sfx for clearer beat tracking.
+1.  **先熟悉判定节奏**  
+    重点是“在拍子上”点击。过早或过晚都会打断连击并降低倍率。可以在简单难度先熟悉判定窗口与延迟。
 
-### Frequently Asked Questions (FAQ)
+2.  **提前阅读音符轨迹**  
+    视线不要死盯在判定圈上，尽量看稍微靠前的位置，提前预判左右手交替、双击或密集连打的段落，这能让你有心理准备，而不是等音符扑面才慌张。
 
-- Do I need headphones? Recommended—clearer timing helps accuracy and combo stability.
-- Why do I miss on dense sections? Try lowering note speed or focusing on the downbeat; practice sections that introduce cross‑rhythms.
-- How to increase score? Maintain long combos and prioritize “Perfect” accuracy to raise multipliers.
+3.  **充分利用音乐本身作为提示**  
+    在图谱密集、视觉压力较大的段落，建议更多依靠鼓点、贝斯线等节奏声部来抓拍子，让手跟着音乐走，而不是强行盯图。
 
+4.  **先从 Normal 难度练习手感**  
+    在节奏游戏中，如果没把基础节奏和手感练扎实就直接挑战 Hard，容易养成各种坏习惯。建议先在 Normal 难度上把歌曲玩顺，再逐步提升。
+
+5.  **掉连后先稳住节奏再追分**  
+    一旦连击被打断，不要急着“狂点”想抢回分数。先用几拍时间重新对齐节奏，让每一下重新回到 Perfect / Great 的判定，再图后续高分与全连。  
+
+### 操作指南
+
+-   **点击 / 轻触判定：** 当音符到达判定区域时，点击屏幕 / 鼠标或对应按键完成敲击；某些谱面包含长按或滑动，需要按提示完成。  
+-   **暂停 / 重开：** 使用界面上的暂停或重试按钮，可以中途暂停或重新开始歌曲。  
+-   **音量调节：** 可在设置中调整音乐与音效音量，建议将音乐音量调得清晰一些以便抓拍。  
+
+### 常见问题解答（FAQ）
+*   **问：一定要戴耳机玩吗？****
+    *   答：** 强烈推荐。耳机可以让你更清晰地听到节拍和鼓点，有助于提高判定精准度与连击稳定性。
+*   **问：为什么在密集音符段总是 Miss？****
+    *   答：** 可以尝试调低音符速度，或者更加专注于主拍（鼓点），不要试图“看清每一个音符再点”，而是让手顺着节奏自然滑动，多练习交叉节奏与交替敲击的段落。
+*   **问：要怎样提升得分？****
+    *   答：** 核心在于：
+1. 尽量保持长连击，以维持高倍率；
+2. 优先追求更多 Perfect 判定；
+当你能稳定全曲高连击时，分数自然会水涨船高。

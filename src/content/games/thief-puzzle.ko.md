@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: thief-puzzle
-title: '[KO] Thief Puzzle'
+title: 'Thief Puzzle 시프 퍼즐'
 description: >-
-  [KO] Thief Puzzle is a mischievous rope‑arm puzzler — stretch, avoid traps,
-  and grab targets with clever angles and timing.
+  Thief Puzzle은 고무줄처럼 늘어나는 팔을 뻗어 물건을 훔치면서, 레이저와 경비,
+  톱날 함정을 피해야 하는 퍼즐 게임입니다. 각 스테이지마다 최적의 경로와
+  타이밍을 찾아 목표물을 챙기세요.
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thief-puzzle.png
 tags:
@@ -16,30 +17,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Thief Puzzle에서는 플레이어가 고무줄처럼 늘어나는 팔을 가진 도둑이 되어,
+레이저와 경비, 회전 톱날 사이를 피해 목표 물건을 훔쳐야 합니다. 팔을 뻗는
+경로와 타이밍이 핵심으로, 위험 구역을 최대한 피해 안전한 곡선을 그리는
+동선 설계가 중요합니다.
 
-Extend a stretchy arm to steal objects while dodging lasers, guards, and buzzsaws. Levels reward path planning: route around triggers, exploit timing windows, and retract fast when hazards reset.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **경로 미리 탐색:**
+    팔을 급하게 뻗지 말고, 천천히 움직이며 센서와 함정이 어디에서 작동하는지
+    먼저 확인하세요.
+2.  **타이밍 창 노리기:**
+    레이저나 경비의 시야가 돌아가는 주기를 관찰한 뒤, 막 지나간 직후의
+    여유 시간에 빠르게 통과하는 것이 좋습니다.
+3.  **각도 활용:**
+    모서리를 크게 돌아 나가면, 탐지 범위 밖에서 안전하게 지나갈 수 있는
+    경우가 많습니다.
+4.  **욕심 줄이기:**
+    한 번에 여러 물건을 욕심내다 보면 타이밍이 꼬이기 쉽습니다. 위험하다고
+    느껴지면 과감히 팔을 빼고, 다음 기회를 노리세요.
+5.  **연속 회수:**
+    안전한 루트가 확보된 구간에서는, 여러 물건을 한 번에 끌어올 수 있는
+    경로를 찾아 효율을 높여 보세요.
 
-1.  **[KO]** Probe path: Move slowly to test trigger ranges.
-2.  **[KO]** Time windows: Pass lasers/guards right after cycle flips.
-3.  **[KO]** Angle tricks: Wrap around corners to stay outside detection cones.
-4.  **[KO]** Risk control: Abandon greedy arcs when cycles desync.
-5.  **[KO]** Multi‑grab: Chain safe pickups before retracting.
+### 조작 방법 안내
 
-### Controls Guide
+- 화면을 드래그해 팔을 늘려 목표물에 닿게 합니다.
+- 손을 떼면 팔이 되돌아오며, 물건이 함께 끌려옵니다.
+- 함정에 닿거나 알람이 울리면 스테이지가 실패 처리되며, UI를 통해 재시작할 수
+  있습니다.
 
-- Drag to stretch arm; release to retract; restart via UI.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 자꾸 알람을 울려요.**
 
-- Q: I trip alarms.
+  A: 센서 근처에서는 속도를 줄이고, 벽 모서리를 크게 돌아 시야 밖을
+  활용해 보세요.
 
-A: Slow down near sensors and route around corners to cut line‑of‑sight.
+- **Q: 타이밍이 너무 빡빡한 것 같아요.**
 
-- Q: Timing feels tight.
-
-A: Wait one full cycle; most rooms have relaxed windows.
-
+  A: 대부분의 스테이지는 한 주기를 온전히 관찰한 뒤 천천히 움직이면
+  여유가 생기도록 설계되어 있습니다. 한 번 실패했다고 바로 다시 돌진하기보다,
+  전체 패턴을 다시 보는 것이 좋습니다.

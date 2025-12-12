@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: tile-guru
-title: '[FR] Tile Guru'
-description: >-
-  [FR] Tile Guru is a polished tile‑match — pick triples, manage stacks, and
-  clear trays without clogging lanes.
+title: Tile Guru
+description: "Tile Guru est un triple‑match soigné\_: choisis des tuiles par trois, gère ton plateau et évite d’encombrer ton casier."
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/tile-guru.png
 tags:
@@ -14,32 +12,47 @@ score: 4.1/5  (1974 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Principe
 
-
-
-### Detailed Game Introduction
-
-Tile Guru uses the triple‑match tray formula: pick tiles into a limited tray; three of a kind clear. The puzzle is stack management — avoid burying mismatched sets that clog the tray and force deadlocks.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Pair discipline: Don’t start too many sets at once; resolve pairs quickly.
-2.  **[FR]** Depth control: Pull accessible tiles that won’t bury needed matches.
-3.  **[FR]** Look‑ahead: Plan the next 2–3 picks to avoid tray overflow.
-4.  **[FR]** Undo wisely: Undo immediately after a clogging pick.
-5.  **[FR]** Power‑ups: Save shuffles for near‑deadlocks.
-
-### Controls Guide
-
-- Click tiles to add to tray; three‑of‑a‑kind clear; hints/shuffles via UI.
-
-### Frequently Asked Questions (FAQ)
+Tu cliques des tuiles pour les envoyer dans un casier limité. Trois
 
 - Q: My tray fills too fast.
 
-A: Limit open sets and complete pairs before starting new ones.
+### Foire aux questions (FAQ)
+
+- Click tiles to add to tray; three‑of‑a‑kind clear; hints/shuffles via UI.
+
+
+- Power‑ups: Save shuffles for near‑deadlocks.
+
+- Undo wisely: Undo immediately after a clogging pick.
+
+- Look‑ahead: Plan the next 2–3 picks to avoid tray overflow.
+
+- Depth control: Pull accessible tiles that won’t bury needed matches.
+### Commandes
+
+- Power‑ups: Save shuffles for near‑deadlocks.
+
+- Undo wisely: Undo immediately after a clogging pick.
+
+- Look‑ahead: Plan the next 2–3 picks to avoid tray overflow.
+
+- Depth control: Pull accessible tiles that won’t bury needed matches.
+
+- Pair discipline: Don’t start too many sets at once; resolve pairs quickly.
+
+### Guide de jeu
+identiques les font disparaître. La difficulté vient de la gestion de l’espace
 
 - Q: Which tiles first?
+et de l’ordre de prise.
+
+
 
 A: Exposed, shallow tiles that won’t bury partners.
 
+- Q: Which tiles first?
+
+
+A: Exposed, shallow tiles that won’t bury partners.

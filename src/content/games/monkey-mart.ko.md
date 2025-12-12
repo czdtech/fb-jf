@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: monkey-mart
-title: '[KO] Monkey Mart'
+title: "Monkey Mart 몽키 마트"
 description: >-
-  [KO] Monkey Mart is a charming and addictive simulation game where players
-  manage a supermarket run by adorable monkeys, harvesting crops, stocking
-  shelves, and serving customers to grow their business.
+  Monkey Mart는 귀여운 원숭이 점장과 직원들이 운영하는 슈퍼마켓을 관리하는 시뮬레이션
+  게임으로, 농작물을 수확하고 상품을 진열하며 손님을 응대해 가게를 키워 나갑니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/monkey-mart.jpg
@@ -19,33 +18,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Monkey Mart*는 사랑스러운 원숭이들이 운영하는 마트를 관리하는 경영 시뮬레이션 게임입니다.
+플레이어는 밭에 작물을 심고, 수확한 뒤 가공해 상품을 만들고, 이를 매대에 진열해
+찾아온 손님들에게 판매해야 합니다. 게임이 진행될수록 새로운 상품을 해금하고,
+설비를 업그레이드하며, 더 많은 원숭이 직원을 고용해 효율을 높일 수 있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Monkey Mart" is a charming and addictive simulation game where players manage a supermarket run by adorable monkeys. In the game, you need to harvest crops, produce goods, stock shelves, and serve customers to grow and expand your supermarket business. As the game progresses, you can unlock new products, upgrade equipment, and hire more monkey employees to improve efficiency.
+1. **재배와 수확:** 바나나, 옥수수 등 기본 작물을 꾸준히 심고, 익자마자 바로 수확해
+   생산 라인이 끊기지 않도록 유지하세요.
+2. **가공 라인 운영:** 수확한 작물을 바나나 우유, 시리얼 등 가공품으로 만들어
+   단가를 올리면, 같은 시간에도 더 많은 수익을 올릴 수 있습니다.
+3. **매대 관리:** 인기 상품 위주로 매대를 채우고, 비어 있는 칸이 없도록 자주 채워
+   손님이 기다리는 시간을 줄이세요.
+4. **손님 응대:** 손님이 몰리는 시간대에는 직접 움직여 부족한 구역을 채워 주거나,
+   결제 대기열이 길어지지 않도록 신경 써야 합니다.
+5. **업그레이드와 확장:** 벌어들인 코인으로 밭, 가공 설비, 매장 크기 등을 업그레이드하고
+   새로운 상품과 구역을 열어 나가면, 시간이 지날수록 마트의 생산성과 수익이 크게
+   증가합니다.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Plant and Harvest**: Plant crops like bananas and corn in the fields, and harvest them promptly when ripe.
-2.  **[KO]** **Produce Goods**: Process harvested crops into various products, such as banana milk and cornflakes.
-3.  **[KO]** **Stock Shelves**: Place the prepared goods on the supermarket shelves for customers to purchase.
-4.  **[KO]** **Serve Customers**: Customers will come to buy products; you need to respond quickly to ensure their satisfaction.
-5.  **[KO]** **Upgrade and Expand**: Use earned coins to upgrade farmlands, production equipment, and supermarket facilities, unlock new products, and expand the supermarket's size.
+* **이동:** 가상 조이스틱 또는 키보드 방향키로 원숭이 캐릭터를 이동시킵니다.
+* **상호작용:** 작물, 생산 설비, 진열대 근처에 서 있으면 자동으로 심기/가공/진열 작업을
+  수행합니다.
+* **탭/클릭:** 화면의 아이콘을 눌러 업그레이드, 직원 고용 등 메뉴를 열고 조작합니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Movement**: Use the virtual joystick or keyboard arrow keys to control your monkey character's movement.
-*   **[KO]** **Interaction**: When near crops, production equipment, or shelves, your character will automatically perform planting, crafting, or restocking actions.
-*   **[KO]** **Tap/Click**: Tap on screen icons to perform actions like upgrading, hiring employees, etc.
+1. **Q: 게임에서 돈을 빨리 벌려면 어떻게 해야 하나요?**  
+   **A:** 생산 라인이 쉬지 않도록 농사와 가공, 진열을 끊김 없이 유지하는 것이 핵심입니다.
+   특히 잘 팔리는 상품 위주로 설비를 업그레이드하고 매대를 넓혀 두면 수익이 빠르게
+   늘어납니다.
 
-### Frequently Asked Questions
+2. **Q: 새로운 상품은 어떻게 해금하나요?**  
+   **A:** 생산 설비와 매장을 업그레이드하면 새로운 작물과 가공품이 순차적으로
+   해금됩니다.
 
-1.  **[KO]** **Q: How can I earn money quickly in the game?**
-**A**: The key to earning money quickly is efficient production and fast customer service. Prioritize upgrading production lines and expanding shelves to ensure a sufficient supply of goods.
-2.  **[KO]** **Q: How do I unlock new products?**
-**A**: New crops and manufactured products can be gradually unlocked by upgrading production equipment and expanding the supermarket's scale.
-3.  **[KO]** **Q: What are the benefits of hiring employees?**
-**A**: Hiring employees can automate parts of the work, such as harvesting, crafting, or restocking shelves, thereby improving the overall operational efficiency of the supermarket.
-4.  **[KO]** **Q: Is there a time limit in the game?**
-**A**: The game usually does not have a strict time limit, allowing players to manage at their own pace, but some tasks or challenges might have time requirements.
+3. **Q: 직원을 고용하면 어떤 점이 좋아지나요?**  
+   **A:** 직원이 일부 작업(수확, 가공, 진열 등)을 자동으로 처리해 주어, 플레이어는
+   동선 관리나 업그레이드 같은 중요한 부분에 더 집중할 수 있습니다.
+
+4. **Q: 시간 제한이 있나요?**  
+   **A:** 일반적으로는 엄격한 시간 제한 없이 자유로운 속도로 경영을 즐길 수 있지만,
+   특정 과제나 챌린지에는 제한 시간이 있을 수 있습니다.

@@ -1,70 +1,38 @@
 ---
+title: "Match Puzzle House"
+description: "Match Puzzle Houseはホームデザインマッチ3です。パズルを解決し、報酬を獲得し、あなたの夢の家を改装します。"
+iframeSrc: "https://0mlsg6gqgu1og.h5games.usercontent.goog/v/39j55vlqhgbuo/"
+thumbnail: "/new-images/match-puzzle-house.png"
+urlstr: "match-puzzle-house"
+score: "4.2/5  (2089 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: match-puzzle-house
-title: '[JA TRANSLATION NEEDED] Match Puzzle House'
-description: >-
-  [JA TRANSLATION NEEDED] Match Puzzle House is a home‑makeover match‑3 —
-  complete goals, earn stars, and renovate rooms with smart booster usage.
-iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
-thumbnail: /new-images/match-puzzle-house.png
-tags:
-  - puzzle
-  - casual
-score: 4.0/5  (1887 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Match Puzzle Houseは、マッチ3パズルとホーム改装を組み合わせます。パズルを解決して報酬を獲得し、新しい家具、装飾、部屋のアップグレードをアンロックするために費やします。各レベルクリアは、あなたの夢の家に近づきます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear blockers, collect items within move caps, and spend stars on decor. Boosters and power‑up merges are key on dense layouts.
+1.  **目標に焦点を当てる:** 各レベルには、ブロッカーをクリアする、アイテムを収集するなどの特定の目標があります。
+2.  **パワーアップを作成:** 4つ以上のマッチは、ボードをクリアするのに役立つ特別なタイルを作成します。
+3.  **パワーアップを組み合わせる:** 2つのパワーアップを一緒にマッチして、大規模な効果を得ます。
+4.  **移動を計画:** 限られた移動があります。各スワップが目標に向かって進むことを確認します。
+5.  **賢く費やす:** デザインの選択に報酬を費やします。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Central control: Open the middle first for combo space.
-[JA TRANSLATION NEEDED] 2.  Merge smart: Save bomb/line/color clears for tight goals.
-[JA TRANSLATION NEEDED] 3.  Star economy: Spend stars to unlock booster slots when stuck.
-[JA TRANSLATION NEEDED] 4.  Edge awareness: Don’t strand colors on walls.
-[JA TRANSLATION NEEDED] 5.  Two‑turn plans: Map your next move to avoid breaking setups.
+- スワップするためにアイテムをドラッグするか、クリック/タップします。
+- パズルを解決した後、報酬を使用して改装します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Drag to swap; use boosters via UI; decorate rooms between levels.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m stuck on a chain level.
-  
-[JA TRANSLATION NEEDED]   A: Prioritize detonations adjacent to chains; lines through chains speed clears.
-
-- Q: Do renovations help in‑game?
-  
-[JA TRANSLATION NEEDED]   A: Mostly cosmetic; some unlock progression rewards.
-
-- Q: Best generic booster?
-  
-
-
-
-
-
-- Q: I’m stuck on a chain level.
-### よくある質問（FAQ）
-- Drag to swap; use boosters via UI; decorate rooms between levels.
-### コントロールガイド
-- Two‑turn plans: Map your next move to avoid breaking setups.
-[JA TRANSLATION NEEDED]   A: Color clear to reshape stubborn boards.
-
-
-
-
-
-
-A: Color clear to reshape stubborn boards.
-- Q: Best generic booster?
-A: Mostly cosmetic; some unlock progression rewards.
-- Q: Do renovations help in‑game?
-
-
-A: Color clear to reshape stubborn boards.
+- **Q: 移動がなくなった場合はどうなりますか？**  
+  A: レベル目標を完了しない場合、ライフを失い、再試行する必要があります。
+- **Q: 最高のパワーアップコンボは何ですか？**  
+  A: 2つのカラーボムを一緒にマッチすると、ボード全体がクリアされます。
+- **Q: デザインの選択は重要ですか？**  
+  A: 純粋に化粧品です。好きなものを選択してください！

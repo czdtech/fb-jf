@@ -1,13 +1,12 @@
 ---
 locale: de
 urlstr: pokemon-emerald
-title: '[DE] Pokemon Emerald'
+title: "Pokemon Emerald"
 description: >-
-  [DE] Pokemon Emerald is a role-playing video game in the Pokémon series, where
-  players embark on an adventure in the Hoenn region, catching and training
-  Pokémon, battling trainers, and challenging Gym Leaders to become the
-  Champion, while also dealing with the conflict between Team Magma and Team
-  Aqua.
+  Pokemon Emerald ist ein Rollenspiel der Pokémon-Reihe: Du reist durch die
+  Hoenn-Region, fängst und trainierst Pokémon, trittst gegen Trainer und
+  Arenaleiter an und stellst dich Team Magma und Team Aqua, um am Ende
+  Champ der Pokémon-Liga zu werden.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/pokemon-emerald.jpg
 tags:
@@ -19,36 +18,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Pokemon Emerald" ist ein klassisches Pokémon-Rollenspiel, das in der
+ Hoenn-Region spielt. Dein Ziel ist es, Pokémon zu fangen und zu trainieren,
+ gegen andere Trainer und Arenaleiter anzutreten und schließlich die
+ Pokémon-Liga zu erobern. Gleichzeitig gerätst du in den Konflikt der
+ Verbrecherorganisationen **Team Magma** und **Team Aqua**, deren Pläne zur
+ Umgestaltung der Welt du vereiteln musst.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Pokémon fangen:** Triff wilde Pokémon im hohen Gras, auf dem Wasser oder
+    in Höhlen, schwäche sie im Kampf und fange sie mit Pokébällen, um dein Team
+    zu erweitern.
+2.  **Trainieren & Leveln:** Gewinne Kämpfe, sammle Erfahrungspunkte und lasse
+    deine Pokémon im Level aufsteigen. So verbessern sich ihre Werte und sie
+    lernen neue Attacken.
+3.  **Arenen herausfordern:** In jeder Stadt warten Arenaleiter mit einem
+    Spezialtyp. Besiege sie, um Orden zu erhalten – nur mit allen Orden darfst
+    du die Pokémon-Liga herausfordern.
+4.  **Hoenn erkunden:** Durchstreife die vielfältigen Gebiete der Region,
+    entdecke neue Routen, Städte, Items und natürlich weitere Pokémon.
+5.  **Ausgewogenes Team bauen:** Achte auf eine gute Mischung von Typen,
+    Fähigkeiten und Attacken in deinem Team, damit du möglichst viele
+    Gegnertypen abdecken kannst.
 
-"Pokemon Emerald" is a role-playing video game in the Pokémon series where players embark on an adventure in the Hoenn region. The main goal is to catch and train Pokémon, battle various trainers, challenge Gym Leaders, and ultimately become the Pokémon League Champion. Concurrently, players will be drawn into the conflict between the villainous organizations "Team Magma" and "Team Aqua," attempting to stop their plans to reshape the world.
+### Steuerung
 
-### Gameplay Strategy
+*   **Bewegung:** Mit den Pfeiltasten bewegst du deinen Charakter.
+*   **A-Taste (Bestätigen/Sprechen):** Sprich mit NPCs, wähle Menüpunkte und
+    bestätige Befehle im Kampf.
+*   **B-Taste (Abbrechen/Rennen):** Brich Menüs ab; mit Laufschuhen kannst du
+    gehaltene B-Taste zum Rennen nutzen.
+*   **Start (Menü öffnen):** Öffnet das Hauptmenü mit Pokémon, Items,
+    Speichern usw.
+*   **Select (Item registrieren):** Häufig genutzte Items kannst du registrieren
+    und schneller einsetzen.
 
-1.  **[DE]** **Catch Pokémon**: Encounter wild Pokémon in tall grass, water bodies, caves, etc., weaken them, and then catch them with Poké Balls.
-2.  **[DE]** **Train Pokémon**: Gain experience points through battles to level up and enhance Pokémon's abilities, teaching them new moves.
-3.  **[DE]** **Challenge Gyms**: Defeat Gym Leaders in various locations to earn badges, a necessary path to becoming the League Champion.
-4.  **[DE]** **Explore the World**: Explore the vast world of the Hoenn region, discovering new locations, items, and Pokémon.
-5.  **[DE]** **Strategic Team Building**: Assemble a balanced and strategic team based on Pokémon's types, abilities, and moves.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Movement**: Use arrow keys to control character movement.
-*   **[DE]** **A Button (Confirm/Talk)**: Talk to NPCs, select menu options, confirm battle commands.
-*   **[DE]** **B Button (Cancel/Run)**: Cancel menu selections, hold B button in some areas to run (requires running shoes).
-*   **[DE]** **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save game, etc.
-*   **[DE]** **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: Which Legendary Pokémon can be caught in "Pokemon Emerald"?**
-**A**: In "Emerald," players can catch Legendary Pokémon such as Kyogre, Groudon, and Rayquaza.
-2.  **[DE]** **Q: Which starter Pokémon should I choose at the beginning of the game?**
-**A**: The starter Pokémon are Treecko (Grass type), Torchic (Fire type), and Mudkip (Water type). The choice depends on the player's preference and strategy, with Mudkip often considered an easier choice for beginners.
-3.  **[DE]** **Q: How do I evolve Pokémon?**
-**A**: Pokémon typically evolve by leveling up, using Evolution Stones, or through trade communication.
-4.  **[DE]** **Q: What are the special battle facilities in the game?**
-**A**: "Emerald" introduced the "Battle Frontier," a large endgame challenge area with multiple facilities offering diverse battle experiences.
+1.  **F: Welche Legendären Pokémon kann ich in "Pokemon Emerald" fangen?**
+    **A:** Unter anderem Kyogre, Groudon und Rayquaza sind in Emerald fangbar –
+    neben weiteren Spezial-Pokémon.
+2.  **F: Welchen Starter soll ich wählen?**
+    **A:** Zur Wahl stehen Geckarbor (Pflanze), Flemmli (Feuer) und Hydropi
+    (Wasser). Alle sind spielbar – viele Einsteiger finden Hydropi wegen seiner
+    späteren Typenkombination besonders angenehm.
+3.  **F: Wie entwickeln sich Pokémon?**
+    **A:** Die meisten entwickeln sich durch Levelaufstieg, einige per
+    Entwicklungsstein oder Tausch.
+4.  **F: Was ist das Battle Frontier?**
+    **A:** Nach der Liga kannst du im Battle Frontier antreten – einem
+    Endgame-Gebiet mit mehreren Kampf-Einrichtungen und speziellen Regeln, das
+    für erfahrene Spieler eine große Herausforderung bietet.

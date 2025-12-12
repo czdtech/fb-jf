@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: aquaparkio
-title: '[FR] Aquapark io'
-description: >-
-  [FR] ace to the finish line in aquapark.io! Learn the best strategies, tips,
-  and controls to master the water slide, bump opponents, and take epic flight
-  shortcuts to win.
-iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
+title: "Aquapark io"
+description: "Dans aquapark.io, tu dévales un toboggan géant, bouscules tes adversaires et prends des raccourcis en volant hors de la piste pour franchir la ligne d’arrivée en premier."
+iframeSrc: "https://bitlifeonline.github.io/class23523/aquaparkio/"
 thumbnail: /new-images/aquaparkio.jpg
 tags:
   - casual
@@ -15,55 +12,56 @@ score: 4.9/5  (169 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+*aquapark.io* est un jeu de course hyper‑casual développé par Voodoo. Tu y affronteras un flot d’adversaires sur un immense toboggan aquatique suspendu dans les airs. L’objectif est simple : être le premier à plonger dans la piscine à la fin du parcours.
+
+La vraie particularité du jeu vient de la possibilité de **sauter hors du toboggan** pour couper le circuit. En prenant assez de vitesse, tu peux te lancer dans le vide et essayer d’atterrir plus bas sur la piste, gagnant ainsi plusieurs virages d’avance. Tu peux également pousser d’autres joueurs pour les faire tomber.
+
+### Guide de jeu et stratégies
+
+Gagner une course dans *aquapark.io* demande de maîtriser les raccourcis aériens et de bien doser la prise de risque.
 
 
+#### 1. Maîtriser les sauts et les raccourcis
 
+C’est la condition n°1 pour gagner : apprendre à bondir hors du toboggan sans perdre de vitesse, puis retomber plus loin que tes adversaires.
 
-### Detailed Game Introduction
+- **Comment voler :** laisse ton personnage prendre de la vitesse dans une pente, puis dirige‑toi vers l’extérieur d’un virage pour être projeté hors de la paroi.  
+- **Viser l’atterrissage :** en l’air, oriente légèrement ton personnage pour viser une portion plus basse du toboggan. Si tu tombes dans le vide, tu réapparaîtras plus haut, en perdant beaucoup de temps.  
+- **Risque contre récompense :** un bon saut peut te propulser de la queue du peloton jusqu’en tête, mais un saut raté peut te faire perdre la course. Prends le temps d’apprendre les endroits les plus sûrs pour sauter.
 
-*aquapark.io* is a wildly popular hyper-casual racing game developed by Voodoo. The game throws players into a vibrant, massive water park where the objective is simple: be the first to slide down a gigantic, winding water slide and splash into the pool at the end.
+#### 2. Gérer les contacts
 
-Players compete against a large group of other characters (primarily AI-controlled bots) in a fast-paced race. The core mechanics involve more than just staying on the slide. Players can bump into opponents to knock them off the track, and more importantly, they can gain enough speed to launch off the edge of the slide, fly through the air, and land on a lower section of the track, creating massive shortcuts. This "flying" mechanic is the central strategy of the game, blending risk with high reward. The game features simple, one-touch controls and a satisfying progression system where players earn coins to unlock new characters and cosmetic items.
+- **Bousculer :** lorsque tu es à côté d’un adversaire proche du bord, pousse‑le pour le faire tomber du toboggan. C’est particulièrement efficace dans les virages serrés.  
+- **Éviter d’être poussé :** garde une trajectoire proche du centre si quelqu’un tente de t’éjecter, ou utilise un boost de vitesse pour t’échapper du groupe.
 
-### Gameplay Strategy & Walkthrough
+#### 3. Profiter du décor
 
-Winning in *aquapark.io* is all about mastering shortcuts and managing risk.
+- **Boosts de vitesse :** passe sur les plaques jaunes fléchées pour obtenir une accélération temporaire, très utile pour préparer un grand saut.  
+- **Éviter les obstacles :** certains parcours sont remplis de obstacles fixes qui coupent net ta vitesse si tu les heurtes. Anticipe leurs positions.
 
-#### 1. The Art of Flying is Everything
-This is the single most important strategy. To win consistently, you must leave the slide.
-*   **[FR]** **How to Fly:** Build up speed by sliding down a steep section. As you approach a curve or the edge of the slide, steer sharply outwards. This will launch your character into the air.
-*   **[FR]** **Aim Your Landing:** While in the air, you have limited control. Try to aim for the red and white striped surface of a lower track section. Landing in the water means you'll respawn back on the slide, losing precious time.
-*   **[FR]** **Risk vs. Reward:** A successful shortcut can put you from last place into first instantly. A failed attempt will set you back significantly. Learning which corners are best for launching is key.
+#### 4. Début de course
 
-#### 2. Strategic Bumping
-*   **[FR]** **Offensive Bumping:** When you are side-by-side with an opponent near an edge, you can give them a nudge to knock them off the slide. This is most effective on sharp turns.
-*   **[FR]** **Defensive Sliding:** Be aware of others trying to bump you. If you see someone closing in, try to move towards the center of the slide or use a speed boost to get away.
+Le départ est souvent très chaotique. Plutôt que de te battre au milieu de la masse, tu peux parfois rester légèrement en retrait et attendre une bonne opportunité de saut pendant que les autres se gênent.
 
-#### 3. Use the Environment
-*   **[FR]** **Speed Boosters:** Slide over the yellow arrow panels on the track. They provide a significant, temporary speed boost which is perfect for setting up a big jump.
-*   **[FR]** **Avoid Obstacles:** Some slides have stationary obstacles. Hitting them will bring you to a dead stop, killing all your momentum.
+### Commandes
 
-#### 4. The Start of the Race
-At the very beginning, it can be crowded and chaotic. It's often safer to hang back slightly and avoid the initial cluster, then look for an early opportunity to take a flying shortcut while everyone else is bumping each other.
+Les contrôles d’*aquapark.io* sont volontairement minimalistes, que tu joues sur mobile ou au navigateur.
 
-### Controls Guide
+- **Sur mobile :** pose le doigt sur l’écran et fais‑le glisser à gauche ou à droite pour diriger ton personnage.  
+- **Sur PC/navigateur :** clique et maintiens le bouton gauche, puis déplace la souris pour tourner.
 
-The game is famous for its extremely simple control scheme.
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Movement (Mobile):** Place your finger anywhere on the screen and drag left or right to steer your character. There are no other buttons.
-*   **[FR]** **Movement (PC/Web Browser):** Click and hold the left mouse button, then drag the mouse left or right to steer.
+*   **Q : Les autres joueurs sont‑ils réels ?**
+    *   **R :** La plupart sont des bots IA pour assurer des courses pleines et un matchmaking instantané, même si quelques joueurs humains peuvent apparaître.
 
-### Frequently Asked Questions (FAQ)
+*   **Q : Comment sauter plus haut et plus loin ?**
+    *   **R :** Tout dépend de ta vitesse et de l’angle de sortie. Utilise les plaques jaunes et vise les virages très pentus pour prendre de l’élan avant de t’envoler.
 
-*   **[FR]** **Q: Are the other players in *aquapark.io* real people?**
-    *   **[FR]** **A:** The vast majority of opponents you race against are AI-controlled bots. This is a common practice in ".io" and hyper-casual games to ensure full lobbies and fast matchmaking. You may occasionally be matched with real players, but most are bots designed to simulate a real race.
+*   **Q : À quoi servent les pièces ?**
+    *   **R :** Elles servent uniquement à débloquer des skins, bouées et autres cosmétiques; elles n’offrent pas d’avantages de gameplay.
 
-*   **[FR]** **Q: How do I jump higher and fly further?**
-    *   **[FR]** **A:** The height and distance of your flight depend entirely on your speed and the angle at which you leave the slide. Use speed boosters and hit the edge of a steep, curved section of the slide to maximize your air time.
-
-*   **[FR]** **Q: What are the coins for?**
-    *   **[FR]** **A:** The coins you collect at the end of each race can be used in the in-game shop to unlock new character skins and other cosmetic items, such as different rubber rings. These items do not affect gameplay.
-
-*   **[FR]** **Q: I landed in the water. Is the race over?**
-    *   **[FR]** **A:** No. If you miss the slide and land in the water, you will automatically respawn on the track near where you fell off, but you will have lost several seconds.
-
+*   **Q : Que se passe‑t‑il si je tombe dans l’eau ?**
+    *   **R :** Tu réapparaîtras sur le toboggan près du point de chute, mais tu perdras plusieurs secondes précieuses.

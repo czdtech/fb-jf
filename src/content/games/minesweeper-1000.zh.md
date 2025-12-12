@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: minesweeper-1000
-title: '[ZH TRANSLATION NEEDED] Minesweeper 1000'
+title: "《Minesweeper 1000》高难扫雷挑战"
 description: >-
-  [ZH TRANSLATION NEEDED] Minesweeper 1000 refreshes classic minesweeper — read
-  number logic, flag bombs, and clear huge boards with efficient techniques.
+  《Minesweeper 1000》是在经典扫雷基础上扩展的大棋盘逻辑游戏，你需要通过数字提示标记地雷、排除安全格，在超大棋盘上用高效技巧完成无误清盘。
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/minesweeper-1000.png
 tags:
@@ -15,32 +14,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Minesweeper 1000 is a modern take on the classic logic puzzle. Uncover all safe tiles without detonating mines: each revealed number shows how many bombs touch that tile (including diagonals). Larger boards emphasize pattern recognition, fast chording, and safe guessing minimization.
+《Minesweeper 1000》是经典扫雷的“进阶版”，主打更大的棋盘和更密集的逻辑推理。和传统扫雷一样，你的目标是在不引爆任何地雷的前提下，揭开所有安全格。每一个被翻开的数字格都会告诉你：它周围（包含斜对角在内的八个方向）相邻格子中，有多少颗地雷。大棋盘更强调模式识别、快速“连开”（chord）操作，以及尽量减少被迫猜测的情况。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Core patterns: Master 1-2, 1-1, and 1-2-1 edge patterns to place flags deterministically.
-2.  [ZH TRANSLATION NEEDED] Chording: On many builds, clicking a number with all its mines flagged opens surrounding safe tiles; abuse this for speed.
-3.  [ZH TRANSLATION NEEDED] Probability: When forced to guess, choose corners with more unknown neighbors to maximize information.
-4.  [ZH TRANSLATION NEEDED] Frontier focus: Solve along the boundary between known and unknown; avoid random digs deep in fog.
-5.  [ZH TRANSLATION NEEDED] Flag hygiene: Only flag when certain; otherwise keep candidate notes (if the build supports marks).
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **掌握核心数字形态：** 熟练识别 1-2、1-1 和 1-2-1 等常见边缘模式，可以在不猜测的前提下稳妥插旗，锁定地雷位置。
+2.  **善用连开（Chording）：** 在很多版本中，当某个数字格周围已经插满了等同数字数量的旗子时，点击该数字格（或使用特定组合键）会一次性翻开其余所有相邻未翻格，极大提升效率。
+3.  **概率与期望：** 如果遇到不得不猜的局面，优先选择能揭示更多“未知邻居”的格子，这样即使猜错概率一样，也能在猜对时获得更多信息。
+4.  **沿着“前线”推进：** 解题时尽量沿着“已知数字边界”和“未知区域”的交界推进，而不是在完全没有数字信息的深处随便点，以降低踩雷风险。
+5.  **谨慎插旗：** 只有在 100% 确定是雷的格子上才插旗；如果游戏支持“标记疑雷”的第二种标记方式，可以用来做候选记号，避免误导自己的推理。
 
-- Left‑click: reveal. Right‑click: flag. Middle/Chord: open around a satisfied number (implementation‑dependent). Quick restart from the menu.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **左键点击：** 翻开一个格子。
+- **右键点击：** 插上或移除一面旗子，标记该格为地雷。
+- **中键 / 连开操作：** 当某个数字格周围的旗子数量已经等于它的数字时，在该数字上“连开”（具体按键视版本而定）会一次性翻开其余相邻格子。
+- **重新开始：** 可通过菜单快速重开一局，继续挑战更优解或更快通关时间。
 
-- Q: I’m stuck with a 50/50 — what now?
+### 常见问题（FAQ）
+
+- **问：遇到 50% 概率只能猜的时候怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Scan for overlooked patterns elsewhere or pick the tile that reveals the largest new frontier if you must guess.
+  **答：** 先仔细检查棋盘其他区域是否有遗漏的可解逻辑；如果确实只剩下纯猜，就选择能揭示更大新区域的格子，这样在猜对时收益更高。
 
-- Q: What does chording do?
+- **问：连开（chording）究竟有什么用？**
   
-[ZH TRANSLATION NEEDED]   A: If a number’s adjacent flags equal its count, chording reveals all its other neighbors at once.
+  **答：** 当某个数字格周围的旗子已经完全匹配该数字时，连开可以一键翻开所有剩余相邻格，大幅提升操作速度。但前提是你之前插旗必须正确，否则会直接踩雷。
 
-- Q: Any tip for early game?
+- **问：开局有什么推荐？**
   
-[ZH TRANSLATION NEEDED]   A: Start in the center to maximize opening cascades; corners give less information.
-
+  **答：** 建议尽量从棋盘中央或相对空旷的位置下手，这样一旦点到“0 雷区域”，就能连锁展开大范围空格，比从角落开始更容易形成可推理的数字边界。

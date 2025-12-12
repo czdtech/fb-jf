@@ -1,42 +1,49 @@
 ---
-locale: ja
-urlstr: ducklings
-title: '[JA TRANSLATION NEEDED] Ducklings'
-description: >-
-  [JA TRANSLATION NEEDED] Ducklings is a relaxing collect‑’em‑up: rescue
-  ducklings on the water and bring them safely back to your nest.
+title: Ducklings ダックリングス
+description: 「Ducklings」は癒やし系のアヒル救出ゲーム。池に迷子の子アヒルたちを集め、ボートを避けながら安全に巣まで連れて帰ろう。
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/ducklings.jpg
+urlstr: ducklings
+score: 4.0/5  (1129 votes)
 tags:
   - casual
   - arcade
-score: 4.0/5  (1129 votes)
+developer: Pelican Party
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Ducklings（ダックリングス）*は、水上を舞台にしたリラックスできる収集ゲームです。
+親アヒルとなって池を泳ぎ回り、迷子になっている子アヒル（Ducklings）たちを見つけて救出しましょう。後ろに行列を作って泳ぎ、巣まで安全に送り届けるのが目的です。ただし、池には危険なボートも行き交っています。
+
+### 遊び方
+
+*   **救出:** 迷子のアヒルに近づくと、後ろについてくるようになります。
+*   **帰還:** 巣の場所まで戻ると、集めた子アヒルたちがカウントされ、巣がアップグレードされていきます。
+*   **危険:** ボートにぶつかると、連れている子アヒルたちが散り散りになってしまいます。列が長くなるほど回避が難しくなります。
+
+### 操作ガイド
+
+*   **移動:** マウス（またはタッチ）で泳ぐ方向を指示します。
+
+### 攻略のヒント
+
+*   **欲張らない:** 一度に大量の子アヒルを連れて帰ろうとすると、列が長くなりすぎてボートに轢かれやすくなります。こまめに巣に戻りましょう。
+*   **ボートの回避:** ボートの後ろ（お尻側）を横切るようにしましょう。真正面から横切ろうとするのは危険です。
+*   **巣のアップグレード:** たくさん連れ帰ると、巣がだんだん豪華になっていきます。
+
+### よくある質問 (FAQ)
+
+*   **Q: 時間制限はありますか？**
+
+A: Typically no—play at your pace.
+- **A:** 基本的にはありません。自分のペースでゆったり楽しめます。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Relaxed collect‑’em‑up on the water: rescue ducklings scattered around a pond and escort them safely back to your nest while avoiding boats and hazards.
+A: Losing followers to collisions reduces haul; the nest is safe.
+*   **Q: ゲームオーバーはありますか？**
 
-### How to Play
-- Swim near ducklings to have them follow; return to the nest to bank them.
-- Larger trains are riskier—boats can scatter your line; take safe routes.
-- Upgrade your nest between trips when offered.
-
-### Controls
-- Mouse/Touch or Arrows to steer.
-
-### Tips
-- Don’t over‑extend; bank small batches when traffic is heavy.
-- Cut diagonals behind slow boats; never cross a bow head‑on.
-- Keep your chain compact to avoid stragglers getting clipped.
-
-### FAQ
-- Q: Is there a time limit?  
-[JA TRANSLATION NEEDED]   A: Typically no—play at your pace.
-- Q: What ends a run?  
-[JA TRANSLATION NEEDED]   A: Losing followers to collisions reduces haul; the nest is safe.
-- Q: Are there power‑ups?  
-[JA TRANSLATION NEEDED]   A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
-
+A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
+    *   **A:** 自分がボートに轢かれるとゲームオーバーになる場合がありますが、基本的にはペナルティは子アヒルを失うことだけです。

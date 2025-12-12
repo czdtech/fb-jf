@@ -1,48 +1,59 @@
 ---
 locale: zh
 urlstr: space-survivor
-title: '[ZH TRANSLATION NEEDED] Space Survivor'
-description: >-
-  [ZH TRANSLATION NEEDED] Pilot your ship through endless waves of alien enemies
-  in this thrilling roguelike survival game. Collect XP, choose powerful
-  upgrades, and see how long you can survive the onslaught!
-iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
+title: 《Space Survivor》太空生存射击
+description: 《Space Survivor》是一款俯视角太空生存射击游戏。驾驶你的飞船在宇宙中躲避敌人攻击、收集升级道具，对抗一波波来袭的敌舰与陨石，尽可能活得更久。
+iframeSrc: 'https://spacesurvivor.h5games.usercontent.goog/v/6s5p6ou2ep2io/'
 thumbnail: /new-images/space-survivor.png
 tags:
-  - action
   - shooting
-  - casual
-score: 4.5/5  (2900 votes)
+  - survival
+  - space
+score: 4.0/5  (1800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Space Survivor is an action-packed, roguelike survival game in the style of "Vampire Survivors." You pilot a spaceship that attacks automatically, and your only job is to skillfully navigate through ever-growing hordes of alien enemies. By defeating foes and collecting the experience gems they drop, you will level up and be able to choose from a variety of powerful new weapons and upgrades. Each run is different, challenging you to create a unique and overpowered build to survive for as long as possible.
+《Space Survivor》让你扮演孤身一人的宇宙飞行员，被包围在充满敌舰、陨石和子弹的外太空战场。你的目标不是冲关，而是在无尽的敌浪中尽可能生存更久。通过击毁敌人和收集掉落的强化道具，你可以提高火力、提升护盾或改善机动性，从而应对愈发密集的攻击。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Focus on Survival:** In the early game, your top priority is not getting hit. Weave through the enemy swarms and focus on collecting the blue experience gems they drop. Your initial weapon is weak, so dodging is more important than trying to kill everything.
-2.  [ZH TRANSLATION NEEDED] **Choose Your Upgrades Wisely:** Every time you level up, you get a choice of new weapons or upgrades. This is the core strategy of the game.
-    * [ZH TRANSLATION NEEDED] **Synergy:** Try to pick weapons that work well together. For example, a weapon that slows enemies combined with a short-range, high-damage aura can be very effective.
-    * [ZH TRANSLATION NEEDED] **Evolution:** Many weapons can be "evolved" into a much more powerful form if you have the correct corresponding passive item and have maxed out the weapon's level.
-3.  [ZH TRANSLATION NEEDED] **Keep Moving:** Never stand still. The enemies will swarm your last known position. Constant movement is key to staying alive, especially in the later stages when the screen is full of enemies.
-4.  [ZH TRANSLATION NEEDED] **Know When to Grab XP:** Sometimes it's dangerous to grab the XP gems immediately. It can be a good strategy to clear a large area first, then sweep back through to collect all the gems in safety.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **生存优先，输出其次：** 在弹幕和敌人密集区域，优先考虑寻找安全走位，而不是盲目追求多打几艘敌舰。
+2.  **合理选择升级方向：** 根据自己的手感与关卡节奏，在火力、移动速度、护盾等属性间取舍。喜欢灵活走位的玩家，可以优先升级速度与推进；偏好硬刚的则可以强化护盾与输出。
+    - **熟悉敌人类型：** 不同敌舰可能拥有不同的移动模式和攻击方式，有的直冲、有的环绕、有的远距离射击。观察几局后，提前预判它们的行为会大幅降低被击中的几率。
+    - **利用边缘与空区：** 当屏幕中心过于混乱时，可以暂时向边缘撤离，在空旷地带整理节奏，等待下一波更易处理的刷怪。 
 
-[ZH TRANSLATION NEEDED] The game uses simple movement controls.
 
-*   **Move Ship:** Use the **WASD keys**, **Arrow Keys**, or click and drag your **mouse** to move your spaceship around the screen.
-*   **Attacking:** All of your weapons fire automatically.
+- **Know When to Grab XP:** Sometimes it's dangerous to grab the XP gems immediately. It can be a good strategy to clear a large area first, then sweep back through to collect all the gems in safety.
 
-### Frequently Asked Questions (FAQ)
+- **Keep Moving:** Never stand still. The enemies will swarm your last known position. Constant movement is key to staying alive, especially in the later stages when the screen is full of enemies.
+### 操作说明
 
-*   **Q: How do I shoot?**
-     *   **A:** You don't! The fun of a "survivor" style game is that all your weapons fire on their own. Your only job is to focus on expert movement and dodging.
 
-*   **Q: How do I get new weapons and abilities?**
-     *   **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
+The game uses simple movement controls.
+*   **移动：** 使用方向键或 WASD 控制飞船在平面上移动。
+*   **射击：** 多数版本支持自动射击，也有部分需要按住鼠标或按键持续开火，具体以游戏提示为准。
+*   **拾取道具：** 接近漂浮的强化道具即可自动拾取，生效方式视图标类型而定。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
+### 常见问题解答（FAQ）
+
+
+- **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
+
+    - **Q: What is the goal of the game?**
+
+- **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
+
+    - **Q: How do I get new weapons and abilities?**
+
+- **A:** You don't! The fun of a "survivor" style game is that all your weapons fire on their own. Your only job is to focus on expert movement and dodging.
+
+    - **Q: How do I shoot?**
+**问：游戏的最终目标是什么？****
+答：** 在不断增强的敌浪中尽可能存活更长时间，刷出更高的生存时长和击毁数量记录。
+
+**问：被击毁后还有保留要素吗？****
+答：** 视具体版本而定，有的会在局间保留部分升级或解锁新飞船，有的则是纯粹的单局生存挑战。
+

@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: pics-word-game
-title: '[KO] Pics Word Game'
-description: >-
-  [KO] Guess the word that connects the pictures in Pics Word Game, a fun and
-  addictive word puzzle game.
+title: Pics Word Game 픽스 워드 게임
+description: 여러 장의 그림을 보고 공통으로 떠오르는 단어를 맞히는 단어 퍼즐 게임입니다. 이미지를 꼼꼼히 관찰해 모두를 이어 주는 단어를 찾아 보세요.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
 thumbnail: /new-images/pics-word-game.jpg
 tags:
@@ -17,26 +15,59 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Pics Word Game*은 몇 장의 관련 있는 그림을 제시하고, 그 그림들이
+공통적으로 가리키는 단어 하나를 추리해 내는 퍼즐 게임입니다.
 
-Pics Word Game is a word puzzle game where you are presented with images and must deduce a single word that connects them. It's a fun way to test your vocabulary and critical thinking skills.
+예를 들어, 모래사장·파라솔·바다 사진이 함께 나온다면 정답은
+"해변"일 수 있습니다. 이렇게 그림 속의 물건, 색깔, 상황, 감정 등
+여러 요소를 연결해 단어를 떠올려야 하므로, 어휘력과 연상 능력,
+관찰력을 함께 시험해 볼 수 있는 게임입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Review the Pictures:** Carefully examine all the images provided for the puzzle. Look for common themes, objects, actions, or concepts.
-2.  **[KO]** **Determine Word Length:** Below the pictures, you'll typically see a series of blank squares, indicating the number of letters in the answer.
-3.  **[KO]** **Select Letters:** A selection of letters will be provided, from which you must choose to spell out the correct word.
-4.  **[KO]** **Use Hints:** If you get stuck, most games of this type offer hints, such as revealing a letter or removing unused letters.
+1. **모든 그림을 먼저 천천히 살펴보기**  
+   한 장의 이미지만 보고 섣불리 답을 떠올리기보다, 제시된 모든
+   이미지를 차례로 살펴보세요. 공통된 물건, 장소, 계절, 행동 등
+   눈에 반복해서 등장하는 요소가 단서가 됩니다.
 
-### Controls Guide
+2. **단어 길이로 후보 좁히기**  
+   그림 아래에는 정답 단어의 글자 수만큼 빈 칸이 표시됩니다.
+   한국어로 머릿속에서 떠올린 단어를, 제시된 알파벳(또는 글자)과
+   칸 수에 맞춰 보면서 후보를 좁혀 가면 추리가 훨씬 쉬워집니다.
 
-*   **[KO]** **Mouse/Touch:** Use the mouse or touch screen to select letters and interact with the game's menus.
+3. **제공된 글자 조합 활용하기**  
+   퍼즐마다 선택 가능한 글자들이 따로 주어집니다. 떠올린 단어가
+   정말 가능한 후보인지, 해당 글자들이 모두 있는지 확인해 보세요.
+   없는 글자가 포함되어 있다면 다른 단어를 떠올려야 합니다.
 
-### Frequently Asked Questions (FAQ)
+4. **힌트는 막히는 부분에만 사용하기**  
+   도저히 떠오르지 않는 문제라면, 글자 하나를 열어 주거나 쓸모없는
+   글자를 제거해 주는 힌트를 활용할 수 있습니다. 다만 힌트에는
+   보통 코인 같은 자원이 소모되니, 여러 번 시도해도 감이 전혀
+   오지 않는 문제에만 사용하는 것이 좋습니다.
 
-*   **[KO]** **Q: What if I can't guess the word?**
-    *   **[KO]** **A:** Use the in-game hints to help you. Sometimes it also helps to take a break and come back to the puzzle with a fresh perspective.
-*   **[KO]** **Q: How can I get more coins for hints?**
-    *   **[KO]** **A:** You can usually earn coins by successfully completing levels. Some games also offer coins for watching ads.
+### 조작 가이드
 
+- **마우스/터치 입력**: 마우스 클릭이나 터치로 글자를 선택해
+  빈 칸에 순서대로 배치합니다. 필요하다면 선택한 글자를 다시
+  눌러 제거하고 다른 글자를 골라 넣을 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 아무리 봐도 정답이 떠오르지 않을 때는 어떻게 하나요?**  
+  **A:** 우선 잠시 게임을 멈추고 다른 일을 하다 돌아오면 전혀 다른
+  관점에서 그림이 보이는 경우가 많습니다. 그다음에도 답이
+  떠오르지 않으면, 글자 하나를 열어 주는 힌트나 불필요한 글자를
+  제거하는 힌트를 활용해 보세요.
+
+    - **Q: 힌트에 필요한 코인은 어떻게 모으나요?**  
+
+- **A:** You can usually earn coins by successfully completing levels. Some games also offer coins for watching ads.
+
+    - **Q: How can I get more coins for hints?**
+  **A:** 일반적으로 스테이지를 성공적으로 클리어하면 일정량의 코인을
+  얻을 수 있습니다. 일부 버전에서는 광고 시청이나 특별 미션을
+  통해 추가 코인을 지급하기도 하니, 힌트가 필요하다면 이런
+  방법을 활용해 자원을 모아 두는 것이 좋습니다.

@@ -1,50 +1,57 @@
 ---
 locale: fr
 urlstr: daily-word-search
-title: '[FR] Daily Word Search'
-description: >-
-  [FR] Daily Word Search offers calming word hunts — find hidden words across
-  directions and beat the clock or relax.
-iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
-thumbnail: /new-images/daily-word-search.png
+title: Daily Word Search
+description: "Daily Word Search te propose une nouvelle grille de mots mêlés chaque jour\_: retrouve les mots cachés horizontalement, verticalement et en diagonale."
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-word-search/'
+thumbnail: /new-images/daily-word-search.jpg
 tags:
+  - word
   - puzzle
-  - thinky
-score: 4.1/5  (1984 votes)
+score: 4.0/5  (1500 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Daily Word Search est un jeu de mots mêlés quotidien. Une liste de mots à
+trouver est affichée et tu dois les repérer dans la grille de lettres.
 
-Daily Word Search hides words horizontally, vertically, and diagonally. Themes change daily; you can play timed for a challenge or untimed to unwind.
+Les mots peuvent être cachés horizontalement, verticalement, en diagonale et
+parfois à l’envers.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Scan for distinctive letter patterns and rare letters (Q, Z, X).
-2.  **[FR]** Highlight prefixes/suffixes from the word list.
-3.  **[FR]** Sweep rows/columns systematically to avoid misses.
-4.  **[FR]** Use hints only after a full grid sweep.
-5.  **[FR]** In timed mode, take short breaks between clusters to avoid tunnel vision.
+1.  **Repère d’abord les mots longs**  
+    Ils sont souvent plus faciles à repérer visuellement que les petits.
+2.  **Balaye la grille classe par classe**  
+    Parcours ligne par ligne puis colonne par colonne pour ne rien manquer.
+3.  **Cherche des paires de lettres caractéristiques**  
 
-### Controls Guide
+- In timed mode, take short breaks between clusters to avoid tunnel vision.
 
-- Drag across letters to select words; release to confirm.
-- Hints highlight a starting letter or full word depending on the build.
+- Use hints only after a full grid sweep.
+    Certaines combinaisons (TH, QU, OU…) sautent plus facilement aux yeux.
 
-### Frequently Asked Questions (FAQ)
+### Commandes
+
+- **Sélectionner un mot** : clique et fais glisser (ou glisse du doigt) de la
+  première à la dernière lettre du mot.  
+- **Navigation** : utilise la souris ou le tactile pour parcourir la grille.
+
+### Foire aux questions (FAQ)
+
 
 - Q: Do diagonals count?
-
-A: Yes, unless a mode restricts directions.
+**Q : Puis‑je rejouer la grille du jour ?**  
 
 - Q: Can words overlap?
-
-A: Often yes; look for shared letters.
+R : Oui, mais les mots seront déjà connus ; c’est surtout utile pour t’entraîner
 
 - Q: Timed vs relaxed — which to pick?
+au repérage rapide.
 
-A: Timed for speed practice; relaxed for unwinding.
-
+**Q : Les mots sont‑ils en anglais ?**  
+R : Dans cette version, la liste de mots est généralement en anglais.

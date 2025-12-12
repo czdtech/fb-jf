@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: jump-with-justin-2
-title: '[ES] Jump With Justin 2'
+title: "Jump With Justin 2"
 description: >-
-  [ES] Jump With Justin 2 is a bouncy platformer — time jumps, bounce off
-  hazards, and chain springs to the goal.
+  Jump With Justin 2 es un plataformas ligero centrado en saltos elásticos,
+  plataformas móviles y trampas cronometradas: encadena botes y mantiene el
+  ritmo hasta la meta.
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/jump-with-justin-2.png
 tags:
@@ -16,28 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Jump With Justin 2 es un plataformas ligero centrado en saltos con muelles,
+plataformas en movimiento y trampas que exigen buena sincronización. Planifica las
+trayectorias, encadena rebotes y conserva el impulso para llegar a las salidas
+cometiendo el mínimo de errores posible.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Jump With Justin 2 is a light platformer centered on springy jumps, moving platforms, and trap timing. Plan arcs, chain bounces, and keep momentum to reach exits with minimal mistakes.
+1.  **Control del arco:** busca saltos limpios; los saltos tardíos suelen
+    superar mejor los peligros.
+2.  **Mantén el impulso:** intenta no detenerte en cada plataforma; mantener la
+    velocidad facilita enlazar saltos.
+3.  **Cronometra las trampas:** observa el ciclo de pinchos y plataformas
+    móviles para encontrar los momentos seguros.
+4.  **Practica las salas difíciles:** reinicia los segmentos complicados para
+    memorizar las ventanas exactas de salto.
+5.  **Estrellas opcionales:** recoge coleccionables solo cuando el arco sea
+    seguro; primero domina la ruta.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Arc control: Commit to clean arcs; late jumps often clear hazards better.
-2.  **[ES]** Momentum: Preserve speed across platforms instead of stopping each time.
-3.  **[ES]** Trap timing: Watch spikes and moving platforms to find safe beats.
-4.  **[ES]** Drill tough rooms: Restart segments to map exact jump windows.
-5.  **[ES]** Optional stars: Grab collectibles only on safe arcs.
+- **Mover/Saltar:** teclas de flecha o WASD y barra espaciadora; botones táctiles
+  en móvil.
+- **Reiniciar:** reinicio rápido para practicar secuencias.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
-- Restart: Fast restart to practice sequences.
+- **Siempre caigo en los pinchos, ¿por qué?**  
+  R: Probablemente estás saltando demasiado pronto; retrasa un poco el salto y
+  mantén arcos suaves.
 
-### Frequently Asked Questions (FAQ)
+- **¿Hay doble salto?**  
+  R: Algunas fases incluyen muelles o power‑ups que simulan ese efecto, pero no
+  siempre está disponible.
 
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- 100% collection tips? Clear the route first, then route collectibles.
-
+- **Consejos para conseguir el 100 % de coleccionables?**  
+  R: Primero limpia el nivel completando la ruta básica y luego vuelve para
+  trazar una ruta específica que incluya todas las estrellas.

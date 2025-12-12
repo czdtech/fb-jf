@@ -1,46 +1,45 @@
 ---
 locale: zh
 urlstr: totemia-cursed-marbles
-title: '[ZH TRANSLATION NEEDED] Totemia: Cursed Marbles'
+title: '《Totemia: Cursed Marbles》图腾诅咒弹珠'
 description: >-
-  [ZH TRANSLATION NEEDED] A classic marble shooter puzzle! Shoot marbles from
-  your tiki stone to create matches of three or more, and destroy the entire
-  chain before it reaches the end of the path.
-iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
-thumbnail: /new-images/totemia-cursed-marbles.png
+  《Totemia: Cursed Marbles》是一款类 Zuma
+  弹珠消除游戏。在古老图腾与丛林背景下，发射彩色弹珠，消除逐步前进的诅咒弹珠链，阻止它们到达终点。
+iframeSrc: 'https://totemiacursedmarbles.h5games.usercontent.goog/v/7h3d2n9c1b5k0/'
+thumbnail: /new-images/totemia-cursed-marbles.jpg
 tags:
-  - shooting
+  - zuma
   - puzzle
   - action
-score: 4.5/5  (2750 votes)
+score: 4.2/5  (1950 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Totemia: Cursed Marbles is a thrilling action-puzzle game in the style of classic marble shooters like Zuma or Luxor. A chain of cursed, colored marbles is rolling along a path towards a secret chamber. You control a powerful tiki stone that shoots marbles. Your objective is to destroy the entire chain by shooting marbles to create matches of three or more of the same color before the first marble reaches the end of the line.
+《Totemia: Cursed Marbles》延续了经典 Zuma 弹珠轨道消除的玩法。屏幕中会有一串被诅咒的彩色弹珠沿轨道缓慢向前爬行，你则操控图腾发射手中的弹珠，当三颗及以上相同颜色的弹珠连成一串时就会被消除。若弹珠链最终抵达终点洞口，则本关失败。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Aim for Combos:** The key to a high score and clearing levels efficiently is to create combos. When you pop a group of marbles, the chain will temporarily stop. If the two new ends of the chain are the same color, they will attract each other, pull back, and merge, often creating an automatic new match. This is a combo!
-2.  [ZH TRANSLATION NEEDED] **Shoot Through Gaps:** Don't be afraid to shoot through small gaps in the chain to reach marbles further back. A well-aimed shot can set up a much more valuable match.
-3.  [ZH TRANSLATION NEEDED] **Use Power-ups:** Look for special marbles that appear in the chain. Shooting these can grant you powerful abilities, like a Fireball that can destroy any marbles it hits, or a Lightning bolt that zaps a section of the chain.
-4.  [ZH TRANSLATION NEEDED] **Swap Marbles:** Your tiki shooter often holds two marbles. If the current color isn't useful, you can swap it with the next one to make a better strategic shot.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **优先消除前段弹珠：** 最接近终点的那一段弹珠威胁最大，尽量优先将其颜色组合消除，防止整串过早推进到危险区域。
+2.  **制造连锁反应：** 尝试消除中间连接处的弹珠，让前后两段同色弹珠相接时形成新的三消，触发多段连锁以大幅度后退弹珠链。
+3.  **灵活切换弹珠颜色：** 很多版本允许切换发射器中当前弹珠与下一颗弹珠，善用这一点可以在关键时刻打出精准颜色组合。
+4.  **利用瞄准与反弹：** 对于复杂轨道，学会使用墙面反弹和弧线射击，更容易打到内侧或转角处的目标位置。
 
-*   **Aim:** Move your mouse to aim the tiki stone shooter.
-*   **Shoot:** Click the left mouse button to fire the marble.
-*   **Swap Marbles:** You can typically right-click or press the spacebar to swap between the two marbles in your shooter.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **瞄准发射：** 使用鼠标移动或拖动控制发射方向，点击即可射出当前弹珠；
+*   **切换弹珠颜色（若有）：** 点击发射器或特定按钮可切换当前准备发射的弹珠颜色；
+*   **暂停与重试：** 通过界面按钮暂停游戏或重新开始关卡。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** To destroy all the marbles in the moving chain before any single marble reaches the hole at the end of the path.
+### 常见问题解答（FAQ）
+*   **问：连锁反应有什么好处？****
+    *   答：** 连锁不仅能一次性清掉更多弹珠，还能让弹珠链整体大幅后退，为你争取更多反应时间和操作空间。
+*   **问：后期弹珠速度很快怎么办？****
+    *   答：** 尽量提升自己的精准度和颜色管理能力，优先打出能触发连锁的组合，而不是随便往空隙中填弹珠。
 
-*   **Q: What happens if a marble reaches the end?**
-     *   **A:** You will lose the level and have to start again.
 
-*   **Q: How do I get the highest score?**
-     *   **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
+- **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
 
+    - **Q: How do I get the highest score?**

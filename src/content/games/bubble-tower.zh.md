@@ -1,49 +1,62 @@
 ---
 locale: zh
 urlstr: bubble-tower
-title: '[ZH TRANSLATION NEEDED] Bubble Tower 3D'
-description: >-
-  [ZH TRANSLATION NEEDED] Take on a new dimension of bubble shooting in Bubble
-  Tower 3D! Rotate the tower, aim your shot, and match three or more colored
-  bubbles to clear the board before the bubbles reach the bottom.
-iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
-thumbnail: /new-images/bubble-tower.png
+title: Bubble Tower 泡泡塔防
+description: 《Bubble Tower 泡泡塔防》将泡泡射击与塔防元素结合，你需要从塔底发射泡泡，阻止彩色泡泡队列一路向下压到 终点。
+iframeSrc: 'https://609rdgbn651oo.h5games.usercontent.goog/v/0beo414bd5d2g/'
+thumbnail: /new-images/bubble-tower.jpg
 tags:
   - puzzle
-  - shooting
   - casual
-score: 4.3/5  (1950 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.9/5  (1750 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+*Bubble Tower* 在经典泡泡射击的基础上加入了“塔防式”压场机制：彩色泡泡从顶部或上方区域不断生成并逐步下压，而你需要从塔底发射泡泡，以颜色匹配的方式进行消除，防止泡泡堆叠到终点线。
 
-[ZH TRANSLATION NEEDED] Bubble Tower 3D adds an exciting third dimension to the classic bubble shooter formula. In this game, colorful bubbles are stuck to the outside of a rotating cylindrical tower. Your objective is to clear all the bubbles by shooting a new bubble from your cannon at the bottom and matching it with at least two other bubbles of the same color. The ability to rotate the tower adds a layer of strategy, requiring you to find the best angle for every shot to create massive chain reactions and clear the tower.
+与普通泡泡龙相比，本作更强调节奏与整体高度控制：  
+既要通过三连及以上的同色消除清理大块区域，又要始终留意整塔高度，避免被突然刷新的行数压垮。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Rotate and Inspect:** Before every shot, take a moment to rotate the tower left and right. This allows you to see the entire layout of bubbles and plan your moves more effectively. Look for large clusters of the same color or strategic shots that could cause a large section to fall.
-2.  [ZH TRANSLATION NEEDED] **Bank Shots:** Use the walls of the play area to your advantage. Bouncing your bubble off the side walls can help you reach tricky spots or get behind bubbles that are blocking a direct shot.
-3.  [ZH TRANSLATION NEEDED] **Prioritize Foundational Bubbles:** Look for matches that will detach a large group of differently colored bubbles underneath them. When you pop a cluster, any bubbles that are only connected to that cluster will also fall, clearing the board much faster.
-4.  [ZH TRANSLATION NEEDED] **Use Special Bubbles:** Pay attention to special bubbles like Fireballs or Bombs. These powerful tools can destroy any bubble, regardless of color, and are best saved for situations where you are stuck or need to clear a critical section to prevent losing.
+### 游戏策略与通关思路
 
-### Controls Guide
+1.  **旋转塔体先观察**  
+    每次出手前都先左右旋转整座塔，确认大块同色区域和关键连接点，再决定射击角度。
+2.  **利用反弹射击补位**  
+    通过侧面墙壁进行“bank shot”，可以打到被挡住的位置或是塔背面的空位。
+3.  **优先击破“承重”泡泡**  
+    找到支撑整串泡泡的枢纽，先将其打掉，让下方大团泡泡一起坠落，效率最高。
+4.  **善用特殊泡泡**  
+    火球、炸弹等能跨色消除的泡泡要留在关键时刻使用，用来解锁被逼近底线的危险区域。
 
-*   **Rotate the Tower:**
-    *   [ZH TRANSLATION NEEDED] **Mouse:** Click and drag the background to rotate the tower.
-    *   [ZH TRANSLATION NEEDED] **Keyboard:** Use the Left and Right arrow keys.
-*   **Aim and Shoot:**
-    *   [ZH TRANSLATION NEEDED] **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+-   **瞄准与发射：** 使用鼠标调整塔底发射器的方向，点击即可射出当前泡泡。  
+    - **反弹射击：** 通过瞄准侧墙来改变弹道，从而攻击到被遮挡的目标区域。  
+    - **暂停与重新开始：** 如界面提供相关按钮，可随时暂停或重开当前关卡。  
 
-*   **Q: How do I win the game?**
-     *   **A:** You win by clearing all the bubbles from the tower.
 
-*   **Q: What happens if I don't clear the bubbles in time?**
-     *   **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
+- **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
 
-*   **Q: I can't find a match for the bubble in my cannon. What should I do?**
-     *   **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
+    - **Aim and Shoot:**
+### 常见问题解答（FAQ）
 
+- **问：如何算赢得一局？**
+  
+  > 把塔上的所有泡泡都清空即可过关。
+
+    - **问：如果泡泡太慢清掉会怎样？**
+  
+  > 塔会不断下移，只要有泡泡触碰到屏幕底部便立即失败。
+
+- **问：手里这颗泡泡找不到匹配怎么办？**
+  
+
+    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
+
+- **Q: I can't find a match for the bubble in my cannon. What should I do?**
+
+    - **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
+  > 先把塔完全转一圈，确认没有遗漏匹配点；若确实没有，就把泡泡放在不会妨碍后续的位置，为未来的匹配做铺垫。

@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: pokemon-fire-red
-title: '[KO] Pokemon Fire Red'
+title: "Pokemon Fire Red 포켓몬 파이어레드"
 description: >-
-  [KO] Pokemon Fire Red is a faithful remake of the original Pokémon Red game,
-  where players journey through the Kanto region to catch and train Pokémon,
-  battle Gym Leaders, and thwart the plans of Team Rocket to become the Pokémon
-  League Champion.
+  1세대 '포켓몬 레드'를 리메이크한 작품입니다. 관동 지방을
+  여행하며 포켓몬을 포획·육성하고, 로켓단의 음모를 저지하며
+  포켓몬 리그 챔피언에 도전해 보세요.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/pokemon-fire-red.jpg
 tags:
@@ -19,35 +18,73 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Pokemon Fire Red*는 초대작 *Pokémon Red*를 GBA로 리메이크한
+RPG입니다. 플레이어는 관동 지방을 여행하며 다양한 포켓몬을
+잡고 육성하고, 8곳의 체육관 관장을 쓰러뜨리며 로켓단의 계획을
+막아 최종적으로 포켓몬 리그 챔피언에 오르는 것을 목표로 합니다.
 
-### Game Introduction
+원작의 스토리와 구조는 그대로 유지하면서, 그래픽과 시스템이
+GBA 기준으로 개선되어 보다 쾌적한 플레이를 제공하는 것이 특징입니다.
 
-"Pokemon Fire Red" is a faithful remake of the original "Pokémon Red" game. Players embark on an adventure through the Kanto region, catching and training Pokémon, battling Gym Leaders, and thwarting the plans of Team Rocket with the ultimate goal of becoming the Pokémon League Champion. The game retains the classic storyline and gameplay of the original, with visual and functional enhancements from the GBA era.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **스타터 포켓몬 선택하기**  
+   게임 시작 시 **이상해씨(풀)**, **파이리(불)**, **꼬부기(물)** 중
+   한 마리를 파트너로 선택합니다. 초반 체육관 상성과 자신의 취향을
+   고려해 고르세요.
 
-1.  **[KO]** **Choose Your Starter Pokémon**: At the beginning of the game, select one of three Pokémon—Bulbasaur, Charmander, or Squirtle—as your partner.
-2.  **[KO]** **Catch New Pokémon**: Encounter wild Pokémon in tall grass and other areas, weaken them, and use Poké Balls to catch them, expanding your team.
-3.  **[KO]** **Train and Evolve**: Gain experience through battles to level up your Pokémon, and use Evolution Stones or specific conditions to evolve them, enhancing their strength.
-4.  **[KO]** **Challenge Gyms**: Defeat the eight Gym Leaders and collect all badges, which are necessary to enter the Pokémon League.
-5.  **[KO]** **Confront Team Rocket**: Throughout your adventure, you will repeatedly encounter Team Rocket; thwart their evil schemes.
+2. **야생 포켓몬 포획으로 파티 확장**  
+   풀숲 등에서 만나는 야생 포켓몬을 약하게 만든 뒤 몬스터볼을
+   던져 잡으면, 점점 다양한 타입의 팀을 구성할 수 있습니다.
+   상성에 유리한 포켓몬을 확보해 두면 체육관 공략이 수월해집니다.
 
-### How to Play
+3. **레벨업과 진화 관리**  
+   배틀을 통해 경험치를 얻어 레벨을 올리면 능력치가 상승하고,
+   일정 레벨이나 조건을 만족하면 진화해 전투력이 크게
+   상승합니다. 진화의 돌이 필요한 포켓몬도 있으니, 타입과 용도에
+   따라 진화 시점을 조절해 보세요.
 
-*   **[KO]** **Movement**: Use the arrow keys to control character movement.
-*   **[KO]** **A Button (Confirm/Talk)**: Talk to NPCs, select menu options, confirm battle commands.
-*   **[KO]** **B Button (Cancel/Run)**: Cancel menu selections, hold the B button in some areas to run (requires running shoes).
-*   **[KO]** **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save the game, etc.
-*   **[KO]** **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
+4. **8개의 체육관 배지 수집**  
+   관동 전역에는 8명의 체육관 관장이 있으며, 각기 다른 타입의
+   포켓몬을 사용합니다. 배지를 모두 모아야 포켓몬 리그에 입장할
+   수 있으므로, 관장 타입에 대비한 파티를 구성하는 것이 핵심입니다.
 
-### Frequently Asked Questions
+5. **로켓단과의 대결**  
+   모험 중 여러 번 마주치는 악의 조직 **로켓단**의 계획을 저지하는
+   것도 스토리의 중요한 부분입니다. 숨겨진 아지트와 이벤트를
+   놓치지 말고 진행해 보세요.
 
-1.  **[KO]** **Q: What are the starter Pokémon in "Pokemon Fire Red"?**
-**A**: The starter Pokémon are Bulbasaur (Grass type), Charmander (Fire type), and Squirtle (Water type).
-2.  **[KO]** **Q: How do I trade Pokémon in the game?**
-**A**: Trading requires connecting with another player through the in-game communication feature, usually done at a Pokémon Center.
-3.  **[KO]** **Q: Which Legendary Pokémon can be caught in the game?**
-**A**: In the Kanto region, players can catch Legendary Pokémon such as Moltres, Zapdos, Articuno, and Mewtwo.
-4.  **[KO]** **Q: What are the differences between "Fire Red" and "Leaf Green"?**
-**A**: "Fire Red" and "Leaf Green" are two versions of the same generation of games, with the main differences being the types and encounter rates of some wild Pokémon, as well as dialogue for some NPCs.
+### 조작 방법
+
+- **이동**: 방향키로 주인공을 이동합니다.  
+- **A 버튼(결정/대화)**: NPC와 대화, 메뉴 선택, 배틀 커맨드
+  확정 등에 사용합니다.  
+- **B 버튼(취소/달리기)**: 메뉴 취소, 일부 구간에서는 러닝 슈즈를
+  얻은 뒤 B 버튼을 누른 채 이동하면 달릴 수 있습니다.  
+- **START 버튼(메뉴 열기)**: 포켓몬, 가방, 세이브 등 메인 메뉴를
+  엽니다.  
+- **SELECT 버튼(등록 아이템)**: 자주 쓰는 아이템을 등록해 두고
+  빠르게 사용할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: Fire Red에서 선택 가능한 스타터는 무엇인가요?**  
+   **A:** 이상해씨(풀), 파이리(불), 꼬부기(물) 세 마리 중 하나를
+   선택할 수 있습니다.
+
+2. **Q: 다른 플레이어와 교환은 어떻게 하나요?**  
+   **A:** 원작 기준으로는 통신 기능을 이용해 포켓몬 센터에 있는
+   통신 장치를 통해 교환합니다. 웹 버전 구현 방식에 따라 실제
+   교환 기능 지원 여부는 달라질 수 있습니다.
+
+3. **Q: 잡을 수 있는 전설의 포켓몬은 누구인가요?**  
+   **A:** 관동 지방에서는 파이어, 썬더, 프리저, 뮤츠와 같은 전설의
+   포켓몬을 포획할 수 있습니다. 각각의 서식지는 스토리 진행 후
+   특정 장소에서 만날 수 있습니다.
+
+4. **Q: Fire Red와 Leaf Green의 차이는 무엇인가요?**  
+   **A:** 두 버전은 대부분의 내용이 같지만, 일부 야생 포켓몬의
+   등장 종류와 출현률, 몇몇 NPC 대사 등이 다릅니다. 서로 다른
+   포켓몬은 교환을 통해 채우는 것이 전통적인 방식입니다.

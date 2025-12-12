@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: mahjong-solitaire
-title: '[ZH TRANSLATION NEEDED] Mahjong Solitaire'
-description: >-
-  [ZH TRANSLATION NEEDED] Challenge your mind with Mahjong Solitaire. Find and
-  match pairs of identical tiles to clear the board in this classic and relaxing
-  puzzle game.
+title: 《Mahjong Solitaire》麻将接龙
+description: 在《Mahjong Solitaire》中挑战你的观察力：在多层麻将牌阵中不断寻找并消除成对的自由牌，用策略与耐心清空整盘。
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/mahjong-solitaire.png
 tags:
@@ -18,34 +15,34 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Mahjong Solitaire is a single-player matching game that uses a set of Mahjong tiles. Unlike traditional Mahjong, the goal is not to form hands but to clear the board by finding and matching pairs of identical tiles. The tiles are arranged in various layouts, often in multi-layered stacks. The game requires careful observation, strategy, and planning, as one wrong move can block future matches. It's a relaxing yet mentally stimulating puzzle enjoyed by millions.
+《Mahjong Solitaire》是一款基于麻将牌的单人配对游戏。与传统麻将胡牌不同，这里不讲究番型，而是面对一个按特定布局堆叠的多层牌阵，通过寻找并消除成对的相同牌逐步清空牌面。牌阵往往有多层叠加，你需要在层层解锁的过程中兼顾观察、规划与运气，一步不慎就可能把关键配对堵死。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Understanding "Free" Tiles:** The most important rule is that you can only select and match "free" (or "open") tiles. A tile is considered free if:
-    * [ZH TRANSLATION NEEDED] It has no other tiles on top of it.
-    * [ZH TRANSLATION NEEDED] It can be slid out to the left or the right without bumping into another tile.
-2.  [ZH TRANSLATION NEEDED] **Prioritize Unblocking:** Your main strategy should be to make matches that unblock the most new tiles. Look for pairs that are sitting on top of other columns or are blocking multiple tiles horizontally.
-3.  [ZH TRANSLATION NEEDED] **Handle Triplets and Quads Carefully:** If you see three or four identical free tiles, be strategic about which pair you match. Choose the pair that will open up the most advantageous section of the board for future moves.
-4.  [ZH TRANSLATION NEEDED] **Special Tiles (Seasons and Flowers):** In most versions, the Season and Flower tiles are exceptions to the identical match rule. Any Season tile can be matched with any other Season tile. The same applies to Flower tiles. These can be very useful for unblocking the board when no other matches are available.
-5.  [ZH TRANSLATION NEEDED] **Use Hints and Shuffles Wisely:** If you are stuck, use the "Hint" button to reveal an available pair. If there are no more possible matches on the board, the game may offer a "Shuffle" option, which rearranges all remaining tiles to create new matching opportunities.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **理解“自由牌”的条件**：你只能选择并配对“自由牌”，通常需满足两点：  
+    *   上面没有其他牌压着；  
+    *   左侧或右侧至少有一侧没有紧贴的牌，理论上可以向该方向滑出。  
+2.  **优先配对能解锁更多牌的组合**：不要只抓住第一眼看到的一对，而要优先消除那些位于高层或挡住大片牌面的牌对，让更多底层与内部牌块变成自由牌。  
+3.  **谨慎处理三张或四张同牌**：当你看见同样图案的自由牌有 3～4 张时，先判断不同配对方式会如何影响未来布局，优先选择能打开更多区域或留出更多后手的那一对。  
+4.  **善用季节牌和花牌**：大部分版本里，季节牌可以彼此配对，花牌亦然，它们不必图案完全相同。遇到局面紧张或可选配对有限时，可以优先利用这些组内匹配来解锁新空间。  
+5.  **提示与洗牌的使用时机**：如果长时间找不到可配对牌，可以使用“提示”帮助发现组合；当棋盘上确实没有任何合法配对时，若游戏提供“洗牌/重排”，可以重排剩余牌块，重新创造机会。 
 
-[ZH TRANSLATION NEEDED] The game is controlled with a mouse or via touch screen.
+### 操作说明
 
-*   **Select a Tile:** Click on a free tile to highlight it.
-*   **Match a Pair:** Click on a second, identical free tile to match the pair. The two tiles will then be removed from the board.
 
-### Frequently Asked Questions (FAQ)
+The game is controlled with a mouse or via touch screen.
+- 使用鼠标或触屏点击一张自由牌，再点击第二张相同的自由牌，即可将这对牌从棋盘上移除。  
+- 若版本提供“提示”或“洗牌”按钮，可在界面上直接点击使用。  
 
-*   **Q: Why can't I select a tile?**
-     *   **A:** The tile is not "free." It is likely blocked on both its left and right sides, or there is another tile partially or fully on top of it.
+### 常见问题（FAQ）
 
-*   **Q: What do I do when I run out of matches?**
-     *   **A:** If you are certain no matches are left, look for a "Shuffle" or "Reshuffle" button. If the game has no shuffle option and no moves are left, the game is lost.
+*   **Q: 为什么有些牌点击不了？**  
+    *   **A:** 这些牌目前不是自由牌，可能左右两侧都被其他牌卡住，或者上方仍有牌压着，需要先移除阻挡它们的牌。  
 
-*   **Q: Are the Season/Flower tiles all different?**
-     *   **A:** Yes, the images on them are different, but they belong to the same group. You can match any tile from the "Seasons" group with any other tile from that same group, and likewise for the "Flowers" group.
+*   **Q: 这局还没清完就没有任何配对了怎么办？**  
+    *   **A:** 如果有“洗牌/重排”功能，可以尝试重排剩余牌；若游戏不提供洗牌且确实无配对可走，则本局只能判负，需重新开始。  
 
+*   **Q: 季节牌和花牌图案都不一样，真的能互相配吗？**  
+    *   **A:** 可以。虽然图案不同，但它们属于同一功能组，只要同属“季节”或“花”组，就可以相互匹配并从牌阵中移除。

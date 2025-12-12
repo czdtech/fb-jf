@@ -1,42 +1,36 @@
 ---
+title: "Google Doodle Baseball"
+description: "Googleの独立記念日Doodleから生まれたピックアップバッティングゲーム：スイングのタイミングを計り、隙間を狙って、アウトになる前に得点を積み重ねましょう。"
+iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
+thumbnail: "/new-images/google-doodle-baseball.jpg"
+urlstr: "google-doodle-baseball"
+score: "4.4/5  (1154 votes)"
+tags: ["sports", "arcade"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: google-doodle-baseball
-title: '[JA TRANSLATION NEEDED] Google Doodle Baseball'
-description: >-
-  [JA TRANSLATION NEEDED] Pick‑up batting game from Google’s 4th of July doodle:
-  time swings, aim for gaps, and rack up runs before outs.
-iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/google-doodle-baseball.jpg
-tags:
-  - sports
-  - arcade
-score: 4.4/5  (1154 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Googleの遊び心あふれる野球Doodleでは、あなたはバッターとして様々な変化球に立ち向かいます。タイミングと狙いがシングルヒット、ダブルヒット、ホームランを決定し、コミカルな野手たちがフライボールを捕ろうとします。守備はありません。バッティングの一貫性と球種の選択に集中しましょう。
 
+### 遊び方
+- ピッチャーのワインドアップとボールの速度を見て、ホームベースを通過する瞬間にスイングしましょう。
+- タイミングによって引っ張るか流すかを狙いましょう。遅いスイングは逆方向への打球になります。
+- ポップフライ（打ち上げ）は避けましょう。ライナー性の方が確実に野手の間を抜けます。
 
-### Overview
-[JA TRANSLATION NEEDED] Google’s playful baseball doodle casts you as a batter facing varied pitches. Timing and placement determine singles, doubles, and home runs, while comedic fielders try to catch fly balls. There’s no fielding—focus purely on batting consistency and shot selection.
+### 操作方法
+- タップ/クリック/スペースキーでスイングします。
 
-### How to Play
-- Watch the pitcher’s wind‑up and ball speed; swing when it crosses the plate.
-- Aim to pull or push based on timing; late swings send to opposite field.
-- Avoid pop‑ups; line drives find gaps more reliably.
+### ヒント
+- 予測で振らないでください。リリースとコースに反応しましょう。
+- わずかに遅れて当てると、内野手を越える逆方向へのヒットになりやすいです。
+- 空振りした後はリズムをリセットしましょう。焦るとエラーが続きます。
 
-### Controls
-- Tap/Click/Space to swing.
-
-### Tips
-- Don’t pre‑swing—react to release and location.
-- Slightly late contact often yields opposite‑field hits past infielders.
-- Reset rhythm after a miss; rushing compounds errors.
-
-### FAQ
-- Q: How do I hit consistent home runs?  
-[JA TRANSLATION NEEDED]   A: Meet the ball slightly out front at belt height; too high becomes an easy catch.
-- Q: Does pitch speed change during play?  
-[JA TRANSLATION NEEDED]   A: Yes, speeds vary; adjust your trigger point.
-- Q: Is progress saved?  
-[JA TRANSLATION NEEDED]   A: Scores are typically local to the session.
-
+### よくある質問 (FAQ)
+- **Q: どうすれば安定してホームランが打てますか？**  
+  A: ベルトの高さで、少し前でボールを捉えましょう。高すぎると簡単に捕球されてしまいます。
+- **Q: プレイ中に球速は変わりますか？**  
+  A: はい、速度は変わります。スイングの始動ポイント（トリガーポイント）を調整してください。
+- **Q: 進捗は保存されますか？**  
+  A: スコアは通常、そのセッション内でのみ有効（ローカル）です。

@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: gold-miner
-title: '[KO] Gold Miner'
+title: "Gold Miner 골드 마이너 클래식"
 description: >-
-  [KO] Hook‑and‑haul arcade classic: time your claw to snag gold and gems, buy
-  power‑ups, and reach the target cash before time runs out.
+  흔들리는 집게를 내려 금과 보석을 끌어올리는 아케이드 명작 Gold Miner입니다.
+  시간 안에 목표 금액을 맞추기 위해 집게 타이밍을 정확히 맞추고, 상점에서
+  폭탄과 강화 아이템을 활용해 후반 스테이지를 공략해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/gold-miner.jpg
 tags:
@@ -18,27 +19,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Gold Miner is a timing‑based arcade game where a swinging claw drops on command to latch onto underground objects. Large gold chunks are heavy but lucrative; rocks are cheap and slow you down; diamonds are light and valuable. Each level has a cash target under a time limit, and a shop offers dynamite, strength drinks, and lucky clovers for tougher stages.
+### 게임 개요
 
-### How to Play
-- Trigger the claw when its arc aligns with your target.
-- Prioritize large gold early; use dynamite to ditch unwanted rocks.
-- Purchase upgrades between rounds to meet higher goals.
+`Gold Miner`는 좌우로 흔들리는 집게를 원하는 타이밍에 내려 지하의 물체를
+낚아 올리는 타이밍 기반 아케이드 게임입니다. 큰 금덩이는 무겁지만 매우
+높은 가치를 가지고 있고, 돌은 값이 거의 없는데도 집게를 오래 붙잡아 시간만
+낭비하게 만듭니다. 다이아몬드는 가볍고 가치가 높아 최고의 효율을 자랑합니다.
+각 레벨은 제한 시간 내 달성해야 하는 목표 금액이 정해져 있으며, 라운드 사이
+상점에서는 다이너마이트, 힘 증가 음료, 행운 부적 등을 구매해 난도가 높은
+단계에 대비할 수 있습니다.
 
-### Controls
-- One key/click to drop claw; additional keys for items (host dependent).
+### 플레이 방법
 
-### Tips
-- Learn arc timing—release slightly before the object’s center.
-- Save dynamite for big rocks that waste time.
-- Diamonds and mystery bags are high ROI; adjust targets by layout.
+- 집게가 목표 물체와 한 줄로 정렬되는 순간에 키를 눌러 집게를 내려 잡습니다.
+- 초반에는 큰 금덩이를 우선적으로 노리고, 실수로 돌을 잡았을 때는 다이너마이트로
+  날려 시간을 아끼는 것이 좋습니다.
+- 라운드 사이 상점에서 폭탄, 힘 강화 등 업그레이드를 구매해, 점점 높아지는
+  목표 금액을 따라잡으세요.
 
-### FAQ
-- Q: How do I reach high targets on late levels?
-A: Buy strength and bombs, and focus on diamond routes.
-- Q: Does dynamite refund time on rocks?
-A: It cancels the haul, letting you resume faster.
-- Q: Are layouts random each run?
-A: Many versions randomize objects within difficulty bounds.
+### 조작 방법
 
+- 한 번의 키 입력 또는 클릭으로 집게를 떨어뜨립니다.
+- 호스트에 따라 다이너마이트 등 아이템을 사용하는 추가 키가 제공될 수
+  있습니다.
+
+### 플레이 팁
+
+- 집게의 흔들리는 궤적을 익혀, 물체의 중심보다 약간 앞선 지점에서 버튼을
+  눌러야 정확히 맞추기 쉽습니다.
+- 시간만 잡아먹는 큰 돌에는 다이너마이트를 아껴 두었다가 사용하는 것이
+  효율적입니다.
+- 다이아몬드와 미스터리 가방은 투자 대비 수익이 높은 편이므로, 레이아웃을
+  보고 우선순위를 조절해 노려 보세요.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 후반 레벨의 높은 목표 금액은 어떻게 맞추나요?  
+  A: 상점에서 힘 강화와 폭탄을 적극적으로 구매하고, 다이아몬드가 많은 루트를
+  중심으로 노려야 합니다.
+- Q: 돌을 폭탄으로 터뜨리면 시간도 되돌아가나요?  
+  A: 시간을 직접 되돌리지는 않지만, 느린 끌어올리기를 즉시 취소하고 다음
+  집게를 더 빨리 내릴 수 있으므로 결과적으로 시간을 절약하게 됩니다.
+- Q: 레이아웃은 매번 똑같나요, 아니면 랜덤인가요?  
+  A: 많은 버전에서 난이도 범위 안에서 물체 위치를 무작위로 배치하므로,
+  매번 조금씩 다른 상황을 상대해야 합니다.

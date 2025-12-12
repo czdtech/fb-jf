@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: gin-rummy
-title: '[FR] Gin Rummy'
+title: Gin Rummy
 description: >-
-  [FR] Play the classic card game of Gin Rummy. Form your cards into sets and
-  runs, knock to end the round, and try to catch your opponent with a hand full
-  of deadwood.
+  Joue au grand classique Gin Rummy : forme des brelans et des suites, « knock »
+  pour terminer la manche et tente de piéger l’adversaire avec une main pleine
+  de deadwood.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/gin-rummy.png
 tags:
@@ -17,41 +17,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Gin Rummy est un jeu de cartes à deux joueurs de la famille du Rami. Ton objectif est d’organiser ta main en combinaisons valides, appelées « melds » : soit des brelans/quadris de même rang, soit des suites de la même couleur. Tu marques des points en ayant moins de « deadwood » (cartes non groupées) que ton adversaire à la fin de la manche. C’est un jeu de compétence, de stratégie et de mémoire, où tu dois bien observer ce que l’autre pioche et défausse.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Gin Rummy is a classic two-player card game that belongs to the Rummy family. The objective is to form your hand into valid combinations called "melds"—either sets of the same rank or runs of the same suit. The goal is to score points by having less "deadwood" (unmatched cards) than your opponent when a round ends. It's a game of skill, strategy, and memory, where you must pay close attention to what your opponent discards.
+1.  Objectif : transformer ta main de 10 cartes en melds, puis « knock » lorsque la valeur totale de ton deadwood est de 10 ou moins.
+2.  Types de melds :
+    *   **Brelans/quadris** : trois ou quatre cartes de même rang (ex. 8♠ 8♥ 8♦).  
+    *   **Suites** : au moins trois cartes de la même couleur en ordre (ex. 5♣ 6♣ 7♣).
+3.  Ton tour se déroule en deux temps :
+    *   **Piocher** : prends soit la carte face visible sur la défausse, soit la carte du dessus de la pioche face cachée.  
+    *   **Défausser** : pose une carte de ta main sur la pile de défausse, face visible.
+4.  Knocking : tu peux terminer la manche en « knockant » si ton deadwood vaut 10 ou moins. Pour knock, tu te défausses d’une carte, puis tu étales tes melds et tes cartes restantes. L’adversaire peut alors poser certaines de ses cartes mortes sur tes combinaisons.
+5.  Aller Gin : si tu parviens à faire des melds avec tes 10 cartes (aucun deadwood), tu « Go Gin ». Tu obtiens un gros bonus et l’adversaire ne peut poser aucune carte sur tes combinaisons.
+6.  Score : As = 1, figures (K, Q, J) = 10, autres cartes = leur valeur. Après un knock, si ton deadwood est plus faible que celui de l’adversaire, tu marques la différence. Si l’adversaire a un deadwood inférieur ou égal après avoir posé sur tes melds (undercut), c’est lui qui marque la différence + un bonus.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **The Goal:** To form your 10-card hand into melds and "knock" when the value of your unmatched cards (deadwood) is 10 or less.
-2.  **[FR]** **Melds:**
-    *   **[FR]** **Sets:** Three or four cards of the same rank (e.g., 8♠ 8♥ 8♦).
-    *   **[FR]** **Runs:** Three or more cards of the same suit in sequence (e.g., 5♣ 6♣ 7♣).
-3.  **[FR]** **The Turn:** On your turn, you must perform two actions:
-    *   **[FR]** **Draw:** Take either the top face-up card from the discard pile OR the top face-down card from the stock pile.
-    *   **[FR]** **Discard:** Discard one card from your hand onto the discard pile, placing it face-up.
-4.  **[FR]** **Knocking:** You can end the round by "knocking" if your deadwood value is 10 or less. To knock, you discard a card and then lay out your melds and deadwood. Your opponent then gets a chance to lay off their own deadwood cards on your melds.
-5.  **[FR]** **Going Gin:** If you form melds with all 10 of your cards, you can "Go Gin." This results in a bonus, and your opponent is not allowed to lay off any cards.
-6.  **[FR]** **Scoring:** Card values are: Aces = 1, Face Cards (K, Q, J) = 10, Number Cards = face value. After a knock, if your deadwood value is lower than your opponent's, you score the difference. If your opponent's deadwood is lower (an "undercut"), they score the difference plus a bonus.
+Le jeu se joue à la souris ou au tactile.
 
-### Controls Guide
+- Piocher : clique sur la pioche face cachée ou sur la défausse face visible.  
+- Défausser : clique sur une carte de ta main pour la poser sur la défausse.  
+- Knock / Go Gin : un bouton dédié apparaît en général quand ta main te permet de le faire.
 
-The game is played with a mouse or touch screen.
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Draw:** Click on either the face-down stock pile or the face-up discard pile to take a card.
-*   **[FR]** **Discard:** Click on a card in your hand to move it to the discard pile.
-*   **[FR]** **Knock/Go Gin:** A special button will usually appear when you are eligible to knock or go gin.
+- Q : Qu’est‑ce que le « deadwood » ?
+  
+  R : Ce sont les cartes qui ne font partie d’aucun meld (ni brelan, ni suite). Le but est de réduire au maximum la valeur totale de ces cartes.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Dois‑je toujours prendre une carte de la défausse ?
+  
+  R : Non. Ne prends la carte défaussée que si elle t’aide à compléter un meld. Sache que piocher dans la défausse révèle à ton adversaire ce que tu cherches.
 
-*   **[FR]** **Q: What is "deadwood"?**
-    *   **[FR]** **A:** Deadwood refers to any cards left in your hand that are not part of a valid set or run. The goal is to minimize the point value of your deadwood.
+- Q : C’est quoi un « undercut » ?
+  
 
-*   **[FR]** **Q: Should I always take a card from the discard pile?**
-    *   **[FR]** **A:** Only if it helps you form a meld. Be aware that taking a card from the discard pile signals to your opponent what kind of meld you might be building.
+    - **A:** An undercut happens when you knock, but your opponent has a deadwood value equal to or less than yours after they lay off their cards. In this case, your opponent scores points instead of you.
 
-*   **[FR]** **Q: What is an "undercut"?**
-    *   **[FR]** **A:** An undercut happens when you knock, but your opponent has a deadwood value equal to or less than yours after they lay off their cards. In this case, your opponent scores points instead of you.
+- **Q: What is an "undercut"?**
+
+    - **A:** Only if it helps you form a meld. Be aware that taking a card from the discard pile signals to your opponent what kind of meld you might be building.
+  R : Un undercut se produit lorsque tu knock, mais que ton adversaire se retrouve avec un deadwood inférieur ou égal au tien après avoir posé sur tes melds. Dans ce cas, c’est lui qui marque les points (différence + bonus).
 

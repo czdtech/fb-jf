@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bridge
-title: '[ES] Bridge'
+title: "Bridge"
 description: >-
-  [ES] Play the classic partnership card game, Bridge. Work with your partner
-  through bidding and trick-taking to outsmart your opponents and fulfill your
-  contract.
+  Juega al clásico juego de cartas por parejas, Bridge. Coopera con tu compañero
+  en la subasta y en el juego de bazas para superar a los rivales y cumplir el
+  contrato.
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
 thumbnail: /new-images/bridge.png
 tags:
@@ -17,32 +17,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bridge es un juego de cartas de bazas clásico y muy estratégico que se juega a
+cuatro jugadores, formando dos parejas enfrentadas. Cada jugador se sienta
+frente a su compañero. La partida se divide en dos fases principales: la
+**subasta** y el **juego de cartas**. Durante la subasta, las parejas compiten
+por fijar el contrato, que determina el palo de triunfo (o la ausencia de
+triunfo) y el número de bazas que esa pareja se compromete a ganar. En el juego,
+la pareja declarante intenta cumplir el contrato, mientras que los defensores
+tratan de impedirlo. Está considerado uno de los grandes deportes mentales del
+mundo.
 
-### Detailed Game Introduction
+### Estrategia y desarrollo de la partida
 
-Bridge is a classic and highly strategic trick-taking card game played by four players in two competing partnerships. Players sit opposite their partners. The game consists of two main phases: the Bidding (or Auction) and the Play. During bidding, the partnerships compete to determine the "contract," which specifies the trump suit and the number of tricks that partnership must win. During the play, the side that won the bid (the declarer) tries to fulfill their contract, while the defenders try to stop them. It is widely considered one of the world's greatest mind sports.
+1.  **La subasta:** Es la primera fase. Los jugadores, por turnos,
+    realizan ofertas formadas por un número (1–7) y un palo (Tréboles, Diamantes,
+    Corazones, Picas) o "Sin triunfo" (NT). El número indica cuántas bazas por
+    encima de 6 se compromete la pareja a ganar (por ejemplo, 3 Corazones
+    significa ganar al menos 9 bazas con Corazones como triunfo). La oferta más
+    alta se convierte en el contrato final.
+2.  **El juego de cartas:** El jugador de la pareja ganadora de la
+    subasta que nombró primero el palo del contrato se convierte en **declarante**.
+    Su compañero pasa a ser el **muerto** y coloca sus cartas boca arriba sobre
+    la mesa. El declarante juega tanto su mano como la del muerto.
+3.  **Juego de bazas:** El jugador a la izquierda del declarante
+    sale en la primera baza. Los demás deben **asistir al palo** si pueden. La
+    carta más alta del palo de salida gana la baza, salvo que alguien juegue
+    triunfo; en ese caso gana el triunfo más alto. Quien gana la baza sale en la
+    siguiente.
+4.  **Puntuación:** Si la pareja declarante cumple el contrato (gana las bazas
+    comprometidas o más), anota puntos. Si falla, puntúan los defensores.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **The Bidding:** This is the first phase. Players take turns making bids. A bid consists of a number (1-7) and a suit (Clubs, Diamonds, Hearts, Spades) or "No-Trump" (NT). The number corresponds to the number of tricks over 6 that the partnership commits to winning (e.g., a bid of 3 Hearts means they must win at least 9 tricks with Hearts as the trump suit). The highest bid becomes the final contract.
-2.  **[ES]** **The Play:** The player from the winning partnership who first named the suit of the contract becomes the "declarer." Their partner becomes the "dummy," and places their hand face-up on the table for everyone to see. The declarer plays both their own hand and the dummy's hand.
-3.  **[ES]** **Trick-Taking:** The player to the declarer's left leads the first card. Other players must follow suit if they can. The player who plays the highest card of the suit led wins the trick, unless a trump card is played. If a trump card is played, the highest trump card wins. The winner of a trick leads the next one.
-4.  **[ES]** **Scoring:** If the declarer's side makes their contract (wins the required number of tricks or more), they score points. If they fail, the defending side scores points.
+*   **Subasta:** Haz clic en la combinación de número y palo que quieras ofertar
+    o pulsa `Pass` para pasar.
+*   **Jugar una carta:** Haz clic en la carta de tu mano (o en la del muerto, si
+    eres declarante) que quieras jugar.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Bidding:** Click on the number and suit you wish to bid, or click "Pass."
-*   **[ES]** **Playing a Card:** Click on the card from your hand (or the dummy's hand, if you are the declarer) that you wish to play.
+*   **P: ¿Qué es una "baza"?**
+    *   **R:** Una baza está formada por cuatro cartas, una jugada por cada
+        jugador en orden. La carta ganadora se lleva la baza.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué es el "palo de triunfo"?**
+    *   **R:** Es el palo elegido en la subasta que supera a los demás. Si
+        Corazones es triunfo, incluso un 2 de Corazones gana al As de cualquier
+        otro palo.
 
-*   **[ES]** **Q: What is a "trick"?**
-    *   **[ES]** **A:** A trick consists of four cards, one played by each of the four players in turn. The highest card wins the trick.
-
-*   **[ES]** **Q: What is a "trump suit"?**
-    *   **[ES]** **A:** A trump suit is a suit chosen during the bidding phase that outranks all other suits. For example, if Hearts are trump, even the 2 of Hearts will beat the Ace of any other suit.
-
-*   **[ES]** **Q: What does it mean to "follow suit"?**
-    *   **[ES]** **A:** If the first card played in a trick is a Spade, all other players must play a Spade if they have one in their hand. If they do not have a Spade, they can play any other card, including a trump card.
-
+*   **P: ¿Qué significa "asistir al palo"?**
+    *   **R:** Si la primera carta de la baza es, por ejemplo, de Picas, todos
+        los jugadores que tengan Picas deben jugar una. Solo si no tienen
+        ninguna pueden descartar otra carta o jugar triunfo.

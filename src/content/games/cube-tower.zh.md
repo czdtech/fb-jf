@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: cube-tower
-title: '[ZH TRANSLATION NEEDED] Cube Tower'
+title: Cube Tower 立方体塔防
 description: >-
-  [ZH TRANSLATION NEEDED] Protect your Cube Tower from waves of enemies in this
-  exciting tower defense game. Place and upgrade your towers strategically to
-  survive.
+  在《Cube Tower 立方体塔防》中，你需要保护位于中央的“立方体之塔”，抵御一波又一波来袭
+  的敌人。通过合理放置并升级不同类型的防御塔，才能在高压攻势下生存下来。
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/cube-tower.png
 tags:
@@ -19,22 +18,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Cube Tower is a tower defense game where your main objective is to protect a central "Cube Tower" from waves of enemy attacks. To achieve this, you strategically place and upgrade various types of defensive towers.
+《Cube Tower 立方体塔防》是一款以中心“立方体塔”为核心的塔防游戏。敌人会沿既定路线分波
+数次袭来，你的目标是通过在道路周围布置防御塔，阻止它们抵达并摧毁中央塔楼。游戏提供多
+种不同功能的防御塔，你需要根据敌人种类与行进路线搭配合适的防线组合。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Strategic Placement:** Carefully consider where to place your towers to maximize their coverage and impact on incoming enemies.
-2.  [ZH TRANSLATION NEEDED] **Adapt to Enemy Types:** The game features different alien types, and figuring out which combination of towers and attack tactics works best for each is key.
-3.  [ZH TRANSLATION NEEDED] **Upgrade Wisely:** Prioritize upgrading towers that are most effective against the current wave of enemies.
-4.  [ZH TRANSLATION NEEDED] **Resource Management:** You'll need to manage your in-game currency to buy and upgrade towers. Replaying levels can help accumulate resources for upgrades.
+
+1.  **重视防御塔布局：** 在放置防御塔时，优先选择敌人必经之路的转角或交汇处，让单个防
+    御塔尽可能覆盖更长路径，最大化输出时间。
+2.  **针对不同敌人调整组合：** 游戏往往会出现移动速度快、防御高或成群出现的不同敌人类
+    型。你需要通过试验找到“哪种塔 + 哪种升级路线”对每一类敌人最有效，例如群体输出塔克
+    制小怪潮，单体高伤塔针对精英怪等。
+3.  **升级要有侧重点：** 资源有限时，不要平均分配在所有塔上。优先升级那些处在关键路口
+    、输出时间最长的核心塔楼，而不是“每座塔都差不多升一点”。
+4.  **合理管理资源与重玩：** 通过通关与重玩关卡积累游戏内货币，用于解锁或进一步强化防
+    御塔。必要时可以回刷较早的关卡，先把核心塔升到关键等级，再挑战更高难度波次。
 
 ### Controls Guide
 
-*   **Mouse/Touch:** Use the mouse or touch screen to select, place, and upgrade your towers.
+*   **鼠标/触控：** 使用鼠标或触摸屏点击地图空位放置防御塔，再次点击即可打开升级或售卖
+    菜单。所有操作均可通过点击完成，适合在 PC 或移动设备上游玩。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What's the best tower to use?**
-     *   **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
-*   **Q: How do I get a 3-star rating?**
-     *   **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
+*   **Q: 哪种防御塔最好用？**  
+    **A：** 不存在绝对最强塔。面对不同敌人组合，最稳妥的做法是搭配多种塔型来互补短板。
+    例如：群伤炮塔适合清理大波小怪，激光类高射速塔适合对付移动迅速的敌人，而高伤单体
+    塔则用来处理血量厚的精英怪。 
 
+    - **Q: 怎么才能拿到 3 星评价？**  
+
+- **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
+
+    - **Q: How do I get a 3-star rating?**
+    **A：** 关卡结算时会根据你剩余的生命值（或中央“Cube Tower”的耐久度）来给星级评定。
+    想拿 3 星，就要尽量不让敌人成功冲到终点，保持基地在几乎未受损状态通关。 

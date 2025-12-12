@@ -1,42 +1,36 @@
 ---
+title: "Guess the Kitty"
+description: "猫の写真クイズ：写真やヒントから正しい品種や特徴を推測し、テーマ別ラウンドを進んでいきましょう。"
+iframeSrc: "https://webglmath.github.io/guess-the-kitty/"
+thumbnail: "/new-images/guess-the-kitty.jpg"
+urlstr: "guess-the-kitty"
+score: "3.8/5  (727 votes)"
+tags: ["trivia", "puzzle"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: guess-the-kitty
-title: '[JA TRANSLATION NEEDED] Guess the Kitty'
-description: >-
-  [JA TRANSLATION NEEDED] Picture quiz with cats: deduce the correct
-  breed/feature from images and hints; progress through themed rounds.
-iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
-thumbnail: /new-images/guess-the-kitty.jpg
-tags:
-  - trivia
-  - puzzle
-score: 3.8/5  (727 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Guess the Kittyは、写真やプロンプトから猫の品種や特徴を特定するライトなクイズゲームです。ラウンドには、多肢選択、穴埋め、タイムアタックモードなどが含まれる場合があります。正確さと連続正解（ストリーク）がスコアを上げ、ヒントを使うとポイントを消費します。
 
+### 遊び方
+- 目に見える特徴（耳の形、毛の模様、カラーポイント、尻尾の長さ）を観察しましょう。
+- 決定する前に、ありえない選択肢を除外しましょう。
+- ヒントは控えめに使いましょう。あと少しで正解できそうな時のために取っておきます。
 
-### Overview
-[JA TRANSLATION NEEDED] Guess the Kitty is a light quiz where you identify cat breeds or features from photos and prompts. Rounds may include multiple‑choice, fill‑in, or timed modes. Accuracy and streaks raise your score; hints cost points.
+### 操作方法
+- マウス/タッチで回答を選択。テキスト入力が必要な場合はキーボードを使用します。
 
-### How to Play
-- Study visible traits (ear shape, coat pattern, color points, tail length).
-- Eliminate unlikely options before committing.
-- Use hints sparingly; save them for near‑misses.
+### ヒント
+- 特徴的な模様（タビーのMマーク、トータシェル（サビ猫）のまだら模様、カラーポイントのマスクなど）を覚えましょう。
+- 頭や耳のシルエットを比較して、系統を絞り込みましょう。
+- タイムアタックモードでも焦らないでください。1回の素早い推測よりも、連続正解ボーナスの方が重要です。
 
-### Controls
-- Mouse/touch to select answers; keyboard for text entries when applicable.
-
-### Tips
-- Learn hallmark patterns (tabby M‑mark, tortoiseshell mottling, color‑point masks).
-- Compare head/ear silhouette to narrow families.
-- Don’t rush timed modes—streak bonuses outweigh one fast guess.
-
-### FAQ
-- Q: How can I improve accuracy on similar breeds?  
-[JA TRANSLATION NEEDED]   A: Focus on ear set, muzzle shape, and coat pattern rather than color alone.
-- Q: Are hints worth using in the game?  
-[JA TRANSLATION NEEDED]   A: Only when you’ve narrowed to two choices; otherwise they waste points.
-- Q: Does the game include a practice mode?  
-[JA TRANSLATION NEEDED]   A: Some hosts include casual/practice rounds without timers.
-
+### よくある質問 (FAQ)
+- **Q: 似たような品種の正答率を上げるには？**  
+  A: 色だけでなく、耳の付き方、マズル（口周り）の形、毛の模様に注目しましょう。
+- **Q: ゲームでヒントを使う価値はありますか？**  
+  A: 選択肢を2つまで絞り込んだ時だけ使いましょう。そうでないとポイントの無駄です。
+- **Q: 練習モードはありますか？**  
+  A: 一部のホスト版には、タイマーなしのカジュアル/練習ラウンドが含まれています。

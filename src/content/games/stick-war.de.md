@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: stick-war
-title: '[DE] Stick War'
-description: >-
-  [DE] Lead your stickman army to victory in Stick War, a classic real-time
-  strategy game. Mine for gold, train a variety of units like swordsmen,
-  archers, and giants, and command them in battle. Destroy the enemy statue
-  while defending your own to conquer the land of Inamorta.
+title: "Stick War"
+description: "Führe deine Strichmännchen-Armee in Stick War zum Sieg: baue dein Einkommen auf, rekrutiere Schwertkämpfer, Bogenschützen, Riesen & Co. und zerstöre die gegnerische Statue, bevor sie deine vernichten." 
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/stick-war.jpg
 tags:
@@ -17,36 +13,31 @@ score: 3.6/5  (1080 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Stick War gehört zu den bekanntesten Web‑Strategiespielen. In Echtzeit befehligst du die Nation der „Order“ im Land Inamorta. Jede Fraktion verehrt ihre eigene Waffentechnologie – du musst deine Wirtschaft aufbauen, eine Armee formen und nach und nach alle gegnerischen Statuen zerstören.
 
-### Game Introduction
+### Spielanleitung
 
-Stick War is one of the most popular and highly-rated web games of all time. It is a real-time strategy game where you take command of the "Order" nation. In a world called Inamorta, where nations are devoted to their individual technologies, you must build a powerful army, destroy the enemy's statue, and conquer all territories.
+Der Kern des Spiels sind Ressourcenmanagement und Truppensteuerung:
 
-### Gameplay Guide
+- **Wirtschaft:** Rekrutiere Miner, die Gold abbauen. Gold brauchst du für neue Einheiten und Upgrades.
+- **Armeeaufbau:** Du kannst verschiedene Typen ausbilden, z. B. die günstigen **Swordwrath**, Fernkampf‑**Archidons**, defensive **Speartons**, gewaltige **Giants** oder Zauberer **Magikill**.
+- **Kampf:** Wechsle zwischen Angriff- und Verteidigungsmodus oder übernimm direkt die Kontrolle über eine einzelne Einheit für präzise Aktionen. Das Hauptziel bleibt immer: die gegnerische Statue auf der anderen Seite der Karte zu zerstören und deine eigene zu beschützen.
 
-The core of the game revolves around managing resources and commanding your army.
-- **Economy:** You must train Miners to gather gold, which is the resource used to create units and purchase upgrades.
-- **Army Building:** Train a variety of units, including basic Swordwrath, ranged Archidons, tank-like Speartons, powerful Giants, and spell-casting Magikill.
-- **Combat:** You can command your army to attack or defend. A key feature is the ability to take direct control of any unit, significantly boosting its power and allowing for precise maneuvers. The ultimate goal is to destroy the enemy statue on the far side of the map.
+### Steuerung
 
-### Controls Guide
+- **Maus:** Einheiten anwählen, Buttons für Ausbildung/Upgrades klicken, Armee befehligen.
+- **Bewegung (bei direkter Kontrolle):** `A` / `D`
+- **Angriff (bei direkter Kontrolle):** `Leertaste`
 
-- **Mouse:** Used to select units, click buttons to train soldiers, and direct your army.
-- **Movement (when controlling a unit):** `A` and `D` keys.
-- **Attack (when controlling a unit):** `Spacebar`.
+### FAQ
 
-### Frequently Asked Questions (FAQ)
+**Was ist eine gute Anfangsstrategie?**  
+Starte meist mit mehreren Minern, um schnell eine starke Goldbasis zu haben. Danach einen Swordwrath ausbilden, ihn selbst steuern und damit frühe Angriffe abwehren, während deine Wirtschaft weiter wächst.
 
-**What is the best starting strategy?**
+**Welche Einheiten sind am stärksten?**  
+Ein ausgewogener Mix ist entscheidend: Speartons tanken und blocken Pfeile, Archidons richten aus der Distanz Schaden an, Swordwrath räumen gegnerische Bogenschützen ab, Giants und Magikill dominieren im späteren Spiel.
 
-A common and effective strategy is to immediately build a few Miners to establish a strong gold income. Then, train a single Swordwrath, take control of it, and use it to defend against the first wave of enemies while your economy grows.
-
-**Which units should I use?**
-
-A balanced army is key. Speartons are excellent for defense and absorbing arrow fire, while Archidons deal high damage from a distance. Swordwrath are cheap and good against archers. Magikill and Giants are powerful late-game units that can turn the tide of a major battle.
-
-**What should I upgrade first?**
-
-It is highly recommended to spend your first upgrade points on your Miners' bags and your statue's income to accelerate your economy. After that, focus on upgrading the units you use most often.
-
+**Was zuerst upgraden?**  
+Meist lohnen sich zuerst Upgrades für Miner (größere Taschen) und das Einkommen deiner Statue. Danach rüstest du gezielt die Einheiten auf, die du am häufigsten nutzt.

@@ -1,12 +1,13 @@
 ---
 locale: fr
 urlstr: soccer-random
-title: '[FR] Soccer Random'
+title: 'Soccer Random'
 description: >-
-  [FR] Experience soccer like never before in Soccer Random! This hilarious,
-  physics-based game uses a simple one-button control to make your players jump
-  and kick. Adapt to ever-changing fields, balls, and players as you compete
-  against a friend or the CPU to be the first to score five goals.
+  Découvre le foot comme tu ne l’as jamais vu dans Soccer Random ! Ce jeu
+  délirant basé sur la physique se joue avec une seule touche pour faire
+  sauter et tirer tes joueurs. Adapte‑toi aux terrains, ballons et joueurs
+  qui changent à chaque but et sois le premier à marquer cinq fois, contre un
+  ami ou l’IA.
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/soccer-random.jpg
@@ -19,34 +20,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-### Game Introduction
+Soccer Random est un jeu de foot chaotique et hilarant basé sur la
+physique, avec un système de contrôle minimaliste à une seule touche. La
+règle est simple : être le premier à marquer cinq buts. Le côté « random »
+vient du fait que tout peut changer après chaque but : type de ballon,
+apparence des joueurs, terrain (glace, plage, terrain classique, etc.),
+ce qui t’oblige à t’adapter en permanence.
 
-Soccer Random is a chaotic and hilarious physics-based soccer game with a minimalist one-button control scheme. The objective is simple: score five goals before your opponent. The "random" part of the title comes from the fact that everything, from the type of ball and the player characters to the playing field itself, can change after every goal, forcing you to constantly adapt.
+### Guide de jeu
 
-### Gameplay Guide
+Le premier joueur ou la première équipe à marquer 5 buts remporte le
+match. Tu ne peux que faire sauter et tirer tes deux joueurs en même temps.
+La difficulté vient de la physique complètement loufoque et du côté
+imprévisible du jeu. Une manche peut se jouer sur neige, la suivante sur
+une plage. Utilise le bouton unique pour caler tes sauts au bon moment,
+frapper le ballon et défendre ton but.
 
-The first player or team to score 5 goals wins the match. All you can do is make your two players jump and kick at the same time. The challenge comes from the wacky physics and the unpredictable nature of the game. You might be playing on an icy field one moment and a beach the next. Use the single button to time your jumps perfectly to both attack the ball and defend your goal.
+### Commandes
 
-### Controls Guide
+Le jeu est pensé pour être ultra simple, jouable à un ou deux joueurs sur
+le même clavier.  
+- **Joueur 1 :** touche `W`.  
+- **Joueur 2 :** flèche **Haut**.  
+Appuie sur ta touche pour faire sauter/ tirer tes joueurs.
 
-The game is designed for simplicity and can be played by one or two players on the same keyboard.
-- **Player 1:** `W` Key
-- **Player 2:** `Up Arrow` Key
+### Foire aux questions (FAQ)
 
-Press your key to make your players jump and kick.
+**Quel est l’objectif de Soccer Random ?**  
+Être le premier à marquer 5 buts face à ton adversaire.
 
-### Frequently Asked Questions (FAQ)
+**Combien de joueurs peuvent jouer ?**  
+Tu peux jouer seul contre l’ordinateur ou à deux sur le même appareil.
 
-**What is the goal of Soccer Random?**
-
-The main goal is to be the first to score 5 goals against your opponent.
-
-**How many players can play?**
-
-Soccer Random can be played solo against a computer opponent or with a friend in 2-player mode on the same device.
-
-**Why does the game keep changing?**
-
-That's the core feature of the game! The randomness of the fields, players, and balls after each goal ensures that no two matches are ever the same and keeps the gameplay funny and unpredictable.
-
+**Pourquoi le jeu change‑t‑il tout le temps ?**  
+C’est le principe du jeu ! Le terrain, les joueurs et les ballons qui
+changent après chaque but rendent chaque match unique et gardent la partie
+fun et imprévisible.

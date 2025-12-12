@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: moto-x3m
-title: '[ZH TRANSLATION NEEDED] Moto X3M'
+title: "《Moto X3M》特技摩托极限赛"
 description: >-
-  [ZH TRANSLATION NEEDED] Moto X3M is an exciting and challenging online
-  motorcycle racing game where players perform daring stunts and navigate
-  through treacherous tracks filled with obstacles, ramps, and explosions.
+  《Moto X3M》是一款刺激的摩托特技竞速游戏，你需要驾驶摩托在布满陷阱、跳台与爆炸机关的赛道上飞跃、翻转、冲线，用最快速度完成关卡并刷出高分。
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
 thumbnail: /new-images/moto-x3m.jpg
 tags:
@@ -18,30 +16,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Moto X3M" is an exciting and challenging online motorcycle stunt racing game. Players ride motorcycles through treacherous tracks filled with obstacles, ramps, and explosions, performing various daring stunts. The goal is to cross the finish line as quickly as possible and complete as many flips and stunts as possible to earn higher scores.
+《Moto X3M》是一款节奏明快的横版摩托特技竞速游戏。你将驾驶摩托车在充满危险的赛道上前进：各种高低起伏的坡道、旋转齿轮、爆炸桶与机关陷阱随处可见。除了要在限定时间内冲过终点，还可以在空中完成前空翻、后空翻等高难度动作，既提升得分，也为通关评价加分。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Control Balance**: Maintaining the motorcycle's balance during jumps and landings is crucial to avoid crashing.
-2.  **Utilize Stunts**: Performing front flips or backflips in the air can reduce completion time and earn extra points.
-3.  **Beware of Obstacles**: The tracks are filled with various traps and obstacles, requiring anticipation and flexible responses.
-4.  **Master Acceleration and Braking**: Use acceleration and braking judiciously to adapt to different terrains and stunt requirements.
-5.  **Repeated Attempts**: Some levels may require multiple attempts to find the optimal route and stunt timing.
+1.  **平衡控制是第一要务：** 在起跳与落地时，及时用前后倾斜来调整车身角度，避免头着地或车尾刮地导致翻车。
+2.  **善用空中翻转：** 在安全高度的飞跃中尝试做前空翻或后空翻，不仅可以加速计时奖励，在部分关卡中还会成为解锁成就的关键。
+3.  **提前识别赛道机关：** 赛道中布满爆炸桶、尖刺和旋转平台，多观察一两秒再冲刺，有时比盲目加速更加安全稳定。
+4.  **合理掌握油门与刹车：** 上坡要提前加速，下坡与落地前适当松油或轻点刹车，可以避免车速过快而冲飞或撞上障碍。
+5.  **多次尝试找最优路线：** 某些关卡需要多尝试几次，才能摸清最佳起跳点与翻转节奏，一旦掌握后，通关时间往往能大幅缩短。
 
-### How to Play
+### 操作说明
 
-*   **Accelerate**: Typically using the W key, up arrow key, or mouse click.
-*   **Brake**: Typically using the S key, down arrow key, or mouse click.
-*   **Lean Forward/Backward**: Typically using the A/D keys, left/right arrow keys, or tilting the device to control the motorcycle's posture in the air or on slopes.
+*   **加速：** 通常使用 W 键、上方向键或点击加速按钮。
+*   **刹车 / 减速：** 使用 S 键、下方向键或相应按钮。
+*   **前后倾斜：** 使用 A/D 键或左右方向键，控制摩托在空中或坡道上的姿态，以便安全落地或完成空翻。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How can I achieve higher scores in the game?**
-     **A**: You can achieve higher scores by performing more flips and stunts in the air and completing levels faster.
-2.  [ZH TRANSLATION NEEDED] **Q: How many levels are there in the game?**
-     **A**: "Moto X3M" typically includes multiple chapters, each with dozens of challenging levels.
-3.  [ZH TRANSLATION NEEDED] **Q: How do I unlock new motorcycles?**
-     **A**: More powerful motorcycles can be unlocked by completing specific levels or reaching certain scores.
-4.  [ZH TRANSLATION NEEDED] **Q: What if I get stuck on a level?**
-     **A**: Try different stunt combinations and routes, or watch playthrough videos from other players, which might reveal new strategies.
+### 常见问题
+
+1.  **问：如何获得更高的关卡评分和总分？**
+    **答：** 多做空中翻转、缩短通关时间并减少失误次数，都能显著提升评分；熟悉赛道后可以刻意规划几个安全的翻转点来刷分。
+2.  **问：游戏一共有多少关卡？**
+    **答：** 《Moto X3M》通常包含多个章节，每章有若干高难度赛道；具体关卡数量会随版本更新而变化。
+3.  **问：如何解锁新的摩托或角色？**
+    **答：** 一般通过通关特定关卡、完成时间挑战或累计获得一定星星数即可解锁新车款或新角色，属性和手感也会有所不同。
+4.  **问：卡在某一关过不去怎么办？**
+    **答：** 可以多观察关卡地形，调整起跳时机和空中姿态；必要时降低追求极限速度的欲望，先用更稳妥的路线通关，再在熟悉赛道后追求更快成绩。

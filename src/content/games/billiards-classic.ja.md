@@ -1,83 +1,42 @@
 ---
+title: "Billiards Classic クラシック・ビリヤード"
+description: "「Billiards Classic」で正統派8ボールを楽しもう。狙いを定め、スピンを操り、相手より先に自分のボールを全て落として勝利をつかめ！"
+iframeSrc: "https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/"
+thumbnail: "/new-images/billiards-classic.png"
+urlstr: "billiards-classic"
+score: "4.5/5  (2900 votes)"
+tags: ["sports", "puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: billiards-classic
-title: '[JA TRANSLATION NEEDED] Billiards Classic'
-description: >-
-  [JA TRANSLATION NEEDED] Enjoy a classic game of 8-ball pool. Aim your shots,
-  apply spin, and sink your designated balls before pocketing the 8-ball to win!
-iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
-thumbnail: /new-images/billiards-classic.png
-tags:
-  - sports
-  - puzzle
-  - casual
-score: 4.5/5  (2900 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Billiards Classic（クラシック・ビリヤード）*は、伝統的な「8ボール」プールゲームを画面上で再現した作品です。このシミュレーションゲームでは、スキル、戦略、そして物理演算を駆使してコンピュータ対戦相手と勝負します。目的は、割り当てられたグループのボール（ソリッド：1〜7番、またはストライプ：9〜15番）を全てポケットに入れ、最後に合法的に8番ボールを沈めて勝利することです。リアルな物理挙動と直感的な操作で、時代を超えて愛されるパブゲームの定番を楽しめます。
 
-### Detailed Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Billiards Classic brings the traditional game of 8-ball pool to your screen. This simulation pits you against a computer opponent in a test of skill, strategy, and physics. The objective is to be the first to pocket your assigned group of balls (either solids or stripes) and then legally sink the 8-ball to win the game. With realistic physics and intuitive controls, it’s a perfect way to enjoy a timeless pub classic.
+1.  **ブレイクショット：** ゲームはブレイクショットから始まります。ラック（球の塊）の先頭のボールを狙い、ボールを効果的に散らばらせましょう。
+2.  **グループの決定：** ブレイク直後はテーブルが「オープン」状態です。最初に合法的にポケットに入れたボールの種類が、その試合でのあなたの担当グループ（ソリッドかストライプ）になります。
+3.  **ショットの計画：** 単に一番簡単なボールを狙うのはやめましょう。2手、3手先を考えます。「このボールを入れた後、手球（白い球）がどこに止まれば次のボールを狙いやすいか」を常に計算して順番を決めましょう。
+4.  **イングリッシュ（ひねり/スピン）の使用：** 上級テクニックとしてスピンを活用しましょう。手球の下を撞く「引き球（バックスピン）」で手球をあ手前で止めたり、上を撞く「押し球（トップスピン）」で前進させたりできます。左右のひねりはクッションに当たった後の反射角度を変えます。
+5.  **勝利への道：** 自分のグループの7個のボールを全て入れたら、最後に8番ボールを指定したポケットに入れて勝利です。自分のボールが残っている状態で8番を入れたり、8番を狙ってスクラッチ（手球が落ちる）したりすると負けになります。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **The Break:** The game starts with a break shot. Aim for the front ball of the rack to scatter the balls effectively.
-[JA TRANSLATION NEEDED] 2.  **Claiming Your Suit:** After the break, the table is "open." The first player to legally pocket a ball will be assigned that group for the rest of the game (either solids 1-7 or stripes 9-15).
-[JA TRANSLATION NEEDED] 3.  **Plan Your Shots:** Don't just aim for the easiest shot. Think two or three steps ahead. Try to sink your balls in an order that also sets up your cue ball for your next shot.
-[JA TRANSLATION NEEDED] 4.  **Use English (Spin):** For more advanced control, use the spin function. Applying backspin can stop your cue ball, while topspin will make it follow the object ball. Side-spin can change the angle it takes after hitting a rail.
-[JA TRANSLATION NEEDED] 5.  **Winning the Game:** Once you have pocketed all seven of your designated balls, you must then legally pocket the 8-ball into a called pocket to win. Pocketing the 8-ball before clearing your group, or scratching on the 8-ball shot, results in a loss.
+*   **狙う（エイム）：** マウスを動かしてキュー（棒）の向きを調整します。
+*   **パワー設定：** パワーメーター（通常は横か下にあります）をクリック＆ドラッグして、ショットの強さを決めます。
+*   **スピン（イングリッシュ）：** 画面上のスピンコントローラーを使い、手球のどこを撞くかを指定して回転をかけます。
+*   **ショット：** マウスボタンを離してショットを打ちます。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Aim:** Move your mouse to aim the cue stick.
-    - **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.（日本語訳が必要）
-    - **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.（日本語訳が必要）
-    - **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.（日本語訳が必要）
-    - **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.（日本語訳が必要）
-    - **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.（日本語訳が必要）
-    - **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.（日本語訳が必要）
-*   **Set Power:** Click and drag the power meter (usually on the side or bottom) to determine the strength of your shot.
-*   **Apply Spin (English):** Use the on-screen spin controller to adjust where on the cue ball your stick will hit, applying spin.
-*   **Shoot:** Release the mouse button to take the shot.
+*   **Q: ブレイクショットでうっかり8番ボールが入ってしまったら？**
+    *   **A:** ブレイクエースです！通常、勝ちになるか、または8番を戻して（ラックし直して）続行するかを選べます。負けではありません。ただし、通常のプレイ中に間違って入れたら負けです。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ファウルとは何ですか？**
+    *   **A:** 手球がポケットに落ちる「スクラッチ」、相手のグループのボールに最初に当ててしまう、またはどのボールにも当たらない場合などがファウルです。ファウルになると、相手は手球を好きな場所に置いて再開できる「フリーボール（ボール・イン・ハンド）」となります。
 
-*   **Q: What happens if I sink the 8-ball by accident at the start?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.
-
-*   **Q: What is a foul?**
-[JA TRANSLATION NEEDED]     *   **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.
-
-*   **Q: Which balls are mine?**
-
-
-
-
-
-
-
-
-
-    - **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.
-- **Q: Which balls are mine?**
-    - **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.
-- **Q: What is a foul?**
-    - **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.
-- **Q: What happens if I sink the 8-ball by accident at the start?**
-### よくある質問（FAQ）
-- **Shoot:** Release the mouse button to take the shot.
-
-    - **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.
-- **Apply Spin (English):** Use the on-screen spin controller to adjust where on the cue ball your stick will hit, applying spin.
-
-
-
-    - **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.
-- **Q: Which balls are mine?**
-    - **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.
-[JA TRANSLATION NEEDED]     *   **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.
-
+*   **Q: どっちが自分のボールですか？**
+    *   **A:** 最初の1球が入るまでは決まっていません。もしあなたがソリッド（色のついた球）を入れたら、そのゲーム中はずっとソリッドがあなたのボールです。相手はストライプになります。

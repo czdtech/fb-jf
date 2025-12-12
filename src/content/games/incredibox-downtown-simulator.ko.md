@@ -1,8 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-downtown-simulator
-title: '[KO] Incredibox Downtown Simulator'
-description: '[KO] A new Incredibox mod to discover. More details coming soon.'
+title: Incredibox Downtown Simulator 도심 시뮬레이터 모드
+description: >-
+  그리드 기반 인터페이스로 도심 힙합·일렉트로닉 비트를 만드는 팬메이드 모드 'Incredibox Downtown Simulator'에 대한
+  소개와 기본 전략, 조작법을 정리한 가이드입니다.
 iframeSrc: 'https://turbowarp.org/949700724/embed'
 thumbnail: /new-images/incredibox-downtown-simulator.png
 tags:
@@ -13,34 +15,67 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### **게임 소개**
 
+*Incredibox Downtown*은 Incredibox 팬메이드 모드 중에서도 인기가 높은
+**Simulator 시리즈**에 속하는 작품입니다. 기존 Incredibox처럼
+캐릭터에게 아이콘을 입히는 방식이 아니라, **20개의 사운드 아이콘이
+배치된 그리드**를 직접 클릭해 루프를 만드는 것이 가장 큰 특징입니다.
 
-### **Incredibox "Downtown" (Simulator Mod) Game Introduction**
+테마는 현대적인 **도심(downtown)** 분위기로, 힙합·스트리트 컬처·일렉트로닉
+사운드에서 영감을 받은 비트와 효과음이 중심을 이룹니다. 플레이어는
+각 아이콘을 켜고 끄면서 비트를 쌓고, 자연스럽게 도심 한가운데에서
+흘러나오는 듯한 트랙을 만들어 갈 수 있습니다.
 
-*Incredibox Downtown* is a popular and high-quality fan-made game belonging to the **"Simulator" series of mods**. This version distinguishes itself with a unique user interface and gameplay mechanic that differs from the official Incredibox series. Instead of dragging icons onto a crew of characters, players interact with a **grid of 20 sound icons**.
+이와 같은 시뮬레이터 형식은, 개별 캐릭터보다는 **사운드 조합 그 자체에
+집중하는 플레이**를 제공한다는 점에서 공식 Incredibox와 다른 경험을
+선사합니다.
 
-The game is themed around a modern, urban **downtown** setting, with a sound palette inspired by hip-hop, street culture, and electronic music. The objective is to create a musical loop by clicking on the various icons to activate or deactivate them. 
+### **게임 플레이 전략 & 팁**
 
-This "Simulator" format offers a different creative experience, focusing on the direct combination of sounds in a grid-based interface, rather than assigning sounds to individual performers.
+1. **그리드 구조 이해하기**  
+   20개의 아이콘이 한 화면 안에 배치되어 있으며, 색으로 카테고리가
+   나뉘어 있지는 않지만 역할은 여전히 `Beats`, `Effects`, `Melodies`,
+   `Voices`로 생각할 수 있습니다. 일반적으로 상단 쪽에는 기본 비트와
+   분위기를 담당하는 사운드가, 하단 쪽에는 멜로디와 보컬처럼 존재감이
+   강한 사운드가 배치되는 경우가 많습니다.
 
-### **Gameplay Strategy & Tips**
+2. **레이어를 단계적으로 쌓기**  
+   먼저 1~2개의 비트 아이콘만 켜서 기본 리듬을 만든 뒤, 베이스나
+   앰비언스 역할을 하는 사운드를 추가하세요. 그 다음에 멜로디나 보컬을
+   올리면, 과하지 않으면서도 완성도 높은 루프를 만들기 쉽습니다.
 
-1.  **[KO]** **Understand the Grid**: All 20 sounds are presented in a single grid. While they are not color-coded into distinct categories in the UI, they still function as **Beats, Effects, Melodies, and Voices**. Experiment by clicking different icons to understand their roles. The top rows often contain foundational beats and effects, while the bottom rows feature more complex melodies and vocals.
-2.  **[KO]** **Layer Sounds Methodically**: The core of the gameplay is layering. Start by clicking one or two beat icons to establish a rhythm. Then, add a bassline or an atmospheric effect. Build your track layer by layer until you have a full, cohesive loop.
-3.  **[KO]** **Fill the Loop Bar**: Your primary goal is to fill the "LOOP" progress bar at the top of the screen. This bar typically fills up as you activate more sounds. In some simulator mods, finding specific combinations of sounds can cause the bar to fill up faster, rewarding experimentation.
-4.  **[KO]** **Listen for Harmony**: Not all 20 sounds are designed to be played at once. Click icons on and off to find combinations that sound good together. The fun comes from creating your own unique mix, whether it's a simple, clean beat or a complex, multi-layered track.
-5.  **[KO]** **Use the Controls**:
-    *   **[KO]** **Play/Pause**: The play button allows you to start and stop the entire composition.
-    *   **[KO]** **Reset**: The reset/shuffle button is perfect for clearing the board and starting a fresh mix.
-    *   **[KO]** **Record**: Use the record function to save and share the loops you are proud of.
+3. **LOOP 게이지 채우기**  
+   화면 상단의 `LOOP` 게이지는 활성화된 사운드가 늘어날수록 차오릅니다.
+   일부 시뮬레이터 모드에서는 특정 조합을 맞췄을 때 게이지가 더 빠르게
+   차는 등 숨겨진 규칙이 있기 때문에, 다양한 조합을 시도해 보면서
+   어떤 패턴이 더 잘 맞는지 들어 보세요.
 
-### **Controls Guide**
+4. **조화로운 조합 찾기**  
+   20개 전부를 동시에 켜는 것이 정답은 아닙니다. 때로는 6~10개 정도만
+   활성화한 상태가 가장 듣기 좋은 경우도 많습니다. 클릭으로 쉽게 온·오프
+   할 수 있으니, 여러 패턴을 시도하면서 자신만의 이상적인 도심 비트를
+   찾아 보세요.
 
-This is the key difference from standard Incredibox. The game is controlled entirely by mouse clicks.
+5. **보조 조작 활용하기**  
+    - **재생/일시정지**: 전체 루프를 잠시 멈추고 다시 들으면서, 어느
+     부분을 수정할지 판단할 수 있습니다.  
+    - **리셋**: 그리드 전체를 초기화하고 완전히 새로운 아이디어로 시작하고
+     싶을 때 유용합니다.  
+    - **녹음**: 마음에 드는 루프를 찾았다면 녹음 기능으로 결과를 남겨 두세요.
 
-*   **[KO]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will be highlighted or change color, and its sound will be added to the loop. Clicking it again will deactivate it.
-*   **[KO]** **Combine Sounds**: You can click and activate as many sounds as you wish simultaneously to create your mix.
-*   **[KO]** **Main Controls (Top Left)**:
-    *   **[KO]** **Play Button**: Toggles the entire loop on or off.
-    *   **[KO]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[KO]** **Reset Button**: Clears all active sounds from the grid.
+### **조작 가이드**
+
+이 모드는 캐릭터 드래그가 아니라 **마우스 클릭만으로 조작**하는 것이
+특징입니다.
+
+- **사운드 온/오프**: 그리드 안의 사운드 아이콘을 클릭하면 활성화되고,
+  다시 클릭하면 비활성화됩니다. 활성화된 아이콘은 색이나 표시가
+  바뀌어 구분됩니다.
+- **사운드 조합하기**: 여러 개의 사운드를 동시에 켜 두면, 그 모든
+  아이콘이 하나의 루프 안에서 함께 재생됩니다.
+- **상단 컨트롤(좌측 상단)**:  
+    - **재생 버튼**: 전체 루프를 시작·정지합니다.  
+    - **녹음 버튼**: 현재 믹스를 녹음·저장합니다.  
+    - **리셋 버튼**: 활성화된 아이콘을 모두 끄고 처음 상태로 되돌립니다.
+

@@ -1,80 +1,41 @@
 ---
+title: "Dice Puzzle ダイス・パズル"
+description: "「Dice Puzzle」は脳を刺激するダイス合体パズル。3つの同じサイコロを揃えて数を増やし、魔法のジュエルキューブを目指せ。盤面が埋まるまでの生存競争。"
+iframeSrc: "https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/"
+thumbnail: "/new-images/dice-puzzle.jpg"
+urlstr: "dice-puzzle"
+score: "4.4/5  (2100 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: dice-puzzle
-title: '[JA TRANSLATION NEEDED] Dice Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] A challenging brain-teaser! Place and merge dice on
-  the board. Combine three identical dice to create a higher number, and aim for
-  the ultimate jewel cube. Plan your moves carefully before the board fills up!
-iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
-thumbnail: /new-images/dice-puzzle.jpg
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.4/5  (2100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Dice Puzzle（ダイス・パズル）*は、論理的思考と少しの運が鍵を握る、戦略的なダイス（サイコロ）パズルゲームです。
+5x5の盤面にサイコロを配置し、同じ目を持つサイコロを3つ以上隣接させて合体（マージ）させます。合体すると、目は1つ大きな数字に変わります（例：3つの「4」が合体し、1つの「5」になる）。
+最終目標は、「6」のサイコロを3つ合体させて「ジュエルキューブ（宝石）」を作ること。これを使うと周囲のブロックを爆破できます。盤面がいっぱいになり、サイコロが置けなくなるとゲームオーバーです。
 
-[JA TRANSLATION NEEDED] Dice Puzzle is a clever and strategic puzzle game that blends logic with a bit of luck. The objective is to place dice onto a 5x5 grid and merge them to create higher-value dice. By matching three or more adjacent dice of the same number, you combine them into a single die of the next higher number. The ultimate goal is to create special jewel cubes by merging dice with the number 6, which helps clear the board and achieve a high score. The game ends when the board is full and you can no longer place a die.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **マージの基本:** 縦または横に、同じ目のサイコロを3つ以上並べると、その場所で1段階上の数字のサイコロ1個に合体します。
+2.  **配置計画:** 適当に置くのは厳禁です。今の盤面を見て、次にマージできそうな場所や、将来の連鎖（コンボ）を狙える場所に配置しましょう。
+3.  **回転を活用:** 手持ちのサイコロは、置く前にクリックで回転させることができます（2個ペアの場合など）。この回転を使って、完璧な場所にフィットさせましょう。
+4.  **ジュエルキューブを狙え:** 「6」のサイコロを3つマージすると、赤い「ジュエルキューブ」が生成されます。これをさらに3つ揃える（またはマージに巻き込む）と、周囲3x3マスを吹き飛ばす爆発が起き、一気にスペースを確保できます。
 
-[JA TRANSLATION NEEDED] 1.  **The Merge Rule:** The core of the game is matching three or more identical dice that are adjacent to each other (in a line or cluster). They will then merge into a single die of the next number (e.g., three '4s' become one '5').
-[JA TRANSLATION NEEDED] 2.  **Plan Your Placements:** Don't just place a die in the first available spot. Look at the existing dice on the board and try to place your new die where it can either complete a set of three or set up a future merge.
-[JA TRANSLATION NEEDED] 3.  **Rotate for a Better Fit:** You can rotate the die before you place it. Use this to your advantage to position it perfectly for a merge.
-[JA TRANSLATION NEEDED] 4.  **Aim for the Jewel Cube:** The most powerful move is to merge three dice with the number 6. This creates a special jewel cube that will explode, clearing a 3x3 area around it. This is crucial for freeing up space on the board and extending your game.
+### 操作ガイド
 
-### Controls Guide
+*   **回転:** 手持ちのサイコロをクリックすると向きが変わります。
+*   **配置:** 盤面の空いているマスをクリックしてサイコロを置きます。
 
-*   **Rotate Die:** Click on the die in the holding area to rotate it before placing it.
-    - **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.（日本語訳が必要）
-    - **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.（日本語訳が必要）
-    - **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.（日本語訳が必要）
-    - **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.（日本語訳が必要）
-    - **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.（日本語訳が必要）
-    - **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.（日本語訳が必要）
-*   **Place Die:** Click on an empty square on the 5x5 grid to place the current die.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: どうやってマージするのですか？**
+    *   **A:** 同じ数字のサイコロを、縦横に繋がるように3つ以上並べると自動的にマージされます。
 
-*   **Q: How do I merge dice?**
-[JA TRANSLATION NEEDED]     *   **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.
+*   **Q: ゲームの目的は？**
+    *   **A:** 盤面が埋まって手詰まりになるのを防ぎながら、できるだけ長くプレイし、ハイスコアを更新し続けることです。
 
-*   **Q: What is the goal of the game?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
-
-*   **Q: What happens when I merge three '6' dice?**
-
-
-
-
-
-
-
-
-    - **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
-- **Q: What happens when I merge three '6' dice?**
-    - **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
-- **Q: What is the goal of the game?**
-    - **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.
-- **Q: How do I merge dice?**
-### よくある質問（FAQ）
-- **Place Die:** Click on an empty square on the 5x5 grid to place the current die.
-
-
-
-
-
-    - **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
-- **Q: What happens when I merge three '6' dice?**
-    - **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
-- **Q: What is the goal of the game?**
-    - **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.
-[JA TRANSLATION NEEDED]     *   **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
-
+*   **Q: 「6」の次はどうなりますか？**
+    *   **A:** 「6」を3つ合わせると、数字ではなく「ジュエル（宝石）」になります。宝石をマージさせると爆発して消滅し、盤面をクリアにするボーナスとなります。

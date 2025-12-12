@@ -1,49 +1,58 @@
 ---
 locale: fr
 urlstr: incredibox-yellow-colorbox
-title: '[FR] Incredibox Yellow Colorbox - Play Incredibox Yellow Colorbox Online'
+title: Incredibox Yellow Colorbox
 description: >-
-  [FR] Incredibox Yellow Colorbox is a fan-created Incredibox mod music game. In
-  this version, all characters are presented in a striking yellow color, and
-  each character has a unique and unrepeatable sound effect.
-iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
-thumbnail: /incredibox-yellow-colorbox.png
+  Incredibox Yellow Colorbox est un mod thématique jaune : sons électroniques
+  lumineux et esthétique monochrome pour des mixes très marqués visuellement.
+iframeSrc: 'https://turbowarp.org/1049455116/embed'
+thumbnail: /new-images/incredibox-yellow-colorbox.png
 tags:
-  - incredibox yellow colorbox
-  - incredibox yellow colorbox online
-score: 4.5/5  (614 votes)
+  - music
+  - rhythm
+score: 4.4/5 (placeholder votes)
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-### What is Incredibox Yellow Colorbox?
+Dans *Incredibox Yellow Colorbox*, tout tourne autour du jaune : personnages, interface et FX. La palette sonore mélange **beats électro, basses vives et petits synthés aigus**, pour des morceaux punchy qui collent à cette identité monochrome.
 
-Incredibox Yellow Colorbox is a fan-created Incredibox mod music game. In this version, all characters are presented in a striking yellow color, and each character has a unique and unrepeatable sound effect. With simple drag-and-drop operations, you can combine various musical elements to create your own exclusive melody.
-
----
-
-### Simple Gameplay, Endless Fun:
-
-Incredibox Yellow Colorbox has extremely simple operation methods. You only need to drag different musical sounds and rhythms onto the characters to make them "sing" and create your own music. This game is easy to pick up, but it is still challenging, and both novices and experienced music game players can find fun.
 
 ---
+### Stratégies de jeu et conseils
+
+1.  **Reste lisible**  
+    Avec une esthétique forte, garde un mix clair : une base rythmique, une basse, une mélodie et éventuellement une voix.
+
+2.  **Utilise les FX avec parcimonie**  
+    Trop d’effets peut brouiller l’écoute ; garde les plus marquants.
+
 
 ### Distinctive Character Roster:
+3.  **Cherche des motifs répétitifs**  
+    Le thème visuel se prête bien à des patterns sonores répétitifs et hypnotiques.
 
-Incredibox Yellow Colorbox provides 25 different characters, each with their own unique sound. You can layer these sounds to create very cool music works. The sound design is extremely creative, covering various music styles, from energetic and rhythmic music to relaxing and soothing melodies.
 
----
 
-### Discover Hidden Surprises:
-
-As you continue to try different sound combinations, you will discover some hidden features and unlock new sounds, making your creative process even more exciting. The game encourages players to use their creativity, try new things, and mix and match various sounds with endless possibilities.
+Whether you want to create a simple beat or make a complex song, Incredibox Yellow Colorbox allows you to express your creativity in a unique and fun way. Join the world of Incredibox now and let your musical inspiration run wild!
 
 ---
-
-### A Dual Enjoyment of Sight and Sound:
 
 Each character in Incredibox Yellow Colorbox has a special appearance and color, which not only makes them look very cool, but also helps you quickly identify their sound types. Some characters are responsible for providing rhythmic beats, while others are responsible for adding melodies or interesting sound effects to make your songs more colorful.
 
+### A Dual Enjoyment of Sight and Sound:
+
 ---
 
+As you continue to try different sound combinations, you will discover some hidden features and unlock new sounds, making your creative process even more exciting. The game encourages players to use their creativity, try new things, and mix and match various sounds with endless possibilities.
+
+### Discover Hidden Surprises:
+
+---
+
+
 Whether you want to create a simple beat or make a complex song, Incredibox Yellow Colorbox allows you to express your creativity in a unique and fun way. Join the world of Incredibox now and let your musical inspiration run wild!
+
+---

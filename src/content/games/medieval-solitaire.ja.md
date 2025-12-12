@@ -1,82 +1,48 @@
 ---
-locale: ja
-urlstr: medieval-solitaire
-title: '[JA TRANSLATION NEEDED] Medieval Solitaire'
-description: >-
-  [JA TRANSLATION NEEDED] Journey back in time with Medieval Solitaire, a
-  classic Klondike card game with a medieval theme. Build your foundations from
-  Ace to King and clear the tableau in this strategic puzzle.
-iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
+title: Medieval Solitaire
+description: 中世紀ソリティアで騎士道の時代に旅立ちましょう。クラシックなカードゲームをプレイし、中世のテーマを楽しみ、数百のレベルをマスターします。
+iframeSrc: 'https://medievalsolitaire.h5games.usercontent.goog/v/5e4lf77omm180/'
 thumbnail: /new-images/medieval-solitaire.png
+urlstr: medieval-solitaire
+score: 4.3/5  (1950 votes)
 tags:
   - card
-  - puzzle
+  - solitaire
   - casual
-score: 4.4/5  (1560 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Medieval Solitaireは、クラシックなソリティアゲームプレイに中世のテーマを組み合わせます。カードスタックを構築し、タブローをクリアし、騎士、城、ドラゴンで飾られた中世の世界で基礎を完成させます。
 
-[JA TRANSLATION NEEDED] Medieval Solitaire transports the timeless appeal of Classic Klondike Solitaire to a world of knights, castles, and royalty. While the rules of the game are the same as the beloved original, the experience is enhanced with a charming medieval theme, featuring custom card designs and backgrounds. The goal remains to clear the entire deck by sorting all cards into four foundation piles by suit, in ascending order from Ace to King.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **基礎を構築:** スートごとにエースからキングまで基礎を構築します。
+2.  **タブローを整理:** タブローで交互の色で降順にスタックします。
+3.  **キングを使用:** 空のタブロー列にはキングのみを配置できます。
+4.  **ストックを管理:** カードを賢く引き、循環を追跡します。
+5.  **先を計画:** 移動する前に数手先を考えます。
 
-[JA TRANSLATION NEEDED] 1.  **Objective:** Move all 52 cards to the four foundation piles, starting each pile with an Ace and building up to the King for each suit.
-[JA TRANSLATION NEEDED] 2.  **Tableau Management:** The main play area (the tableau) is where most of the strategy happens. Build columns by placing cards in descending order and alternating colors (e.g., a black Queen on a red King). Your primary goal should be to uncover the face-down cards in the tableau to open up more moves.
-[JA TRANSLATION NEEDED] 3.  **Prioritize Aces:** Whenever an Ace is available, move it to a foundation pile immediately to begin building your suits.
-[JA TRANSLATION NEEDED] 4.  **Empty Columns:** An empty column in the tableau can only be filled by a King. This is a powerful move, so try to empty a column strategically to help you rearrange other cards.
-[JA TRANSLATION NEEDED] 5.  **Stock Pile:** When you have no more available moves on the tableau, draw from the stock pile to bring new cards into play.
+### 操作ガイド
 
-### Controls Guide
+- カードをクリック/タップしてドラッグ＆ドロップするか、クリックして自動移動します。
+- ストックをクリックして新しいカードを引きます。
+- 元に戻すボタンが利用可能です（多くのバージョンで）。
 
-*   **Move Cards:** Click and drag cards to move them between the tableau columns or up to the foundation piles.
-    - **A:** The gameplay and rules are identical to Classic (Klondike) Solitaire. The only difference is the visual theme, which features medieval-style art and music.（日本語訳が必要）
-    - **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.（日本語訳が必要）
-    - **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.（日本語訳が必要）
-    - **A:** The gameplay and rules are identical to Classic (Klondike) Solitaire. The only difference is the visual theme, which features medieval-style art and music.（日本語訳が必要）
-    - **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.（日本語訳が必要）
-    - **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.（日本語訳が必要）
-*   **Draw Card:** Click the stock pile (usually in the top-left corner) to deal a new card to the waste pile.
-*   **Auto-Play:** Many versions feature a double-click option to automatically send a card to its correct foundation pile if the move is valid.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the difference between this and Classic Solitaire?**
-[JA TRANSLATION NEEDED]     *   **A:** The gameplay and rules are identical to Classic (Klondike) Solitaire. The only difference is the visual theme, which features medieval-style art and music.
-
-*   **Q: I can't make any more moves. What should I do?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.
-
-*   **Q: Can I undo a move?**
-
-
-
-
-
-
-
-
+- **Q: これは通常のソリティアと何が違いますか？**  
+  A: 同じゲームプレイですが、中世のテーマのビジュアルとサウンドがあります。
+    - **Q: すべてのゲームは勝てますか？**  
+  A: すべてのゲームが勝てるわけではありません。運と戦略が重要です。
+- **Q: ヒントはありますか？**  
 
     - **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.
+
 - **Q: Can I undo a move?**
+
     - **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.
-- **Q: I can't make any more moves. What should I do?**
-    - **A:** The gameplay and rules are identical to Classic (Klondike) Solitaire. The only difference is the visual theme, which features medieval-style art and music.
-- **Q: What is the difference between this and Classic Solitaire?**
-### よくある質問（FAQ）
-- **Auto-Play:** Many versions feature a double-click option to automatically send a card to its correct foundation pile if the move is valid.
-
-    - **A:** The gameplay and rules are identical to Classic (Klondike) Solitaire. The only difference is the visual theme, which features medieval-style art and music.
-- **Draw Card:** Click the stock pile (usually in the top-left corner) to deal a new card to the waste pile.
-
-
-
-    - **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.
-- **Q: Can I undo a move?**
-    - **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.
-[JA TRANSLATION NEEDED]     *   **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.
-
+  A: 多くのバージョンは、行き詰まったときにヒントボタンを提供します。

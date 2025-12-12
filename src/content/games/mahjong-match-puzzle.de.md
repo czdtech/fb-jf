@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: mahjong-match-puzzle
-title: '[DE] Mahjong Match Puzzle'
+title: "Mahjong Match Puzzle"
 description: >-
-  [DE] Mahjong Match Puzzle blends solitaire and connect rules — match open
-  tiles, manage layers, and clear boards efficiently.
+  Mahjong Match Puzzle mischt Solitaire- und Connect-Regeln: Finde passende
+  freie Steine, verwalte Ebenen geschickt und räume die Layouts effizient.
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
 thumbnail: /new-images/mahjong-match-puzzle.png
 tags:
@@ -15,35 +15,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Mahjong Match Puzzle arbeitet mit mehrschichtigen Stapeln, bei denen nur
+„offene“ Steine (nicht überdeckt und mindestens eine freie Seite) kombiniert
+werden dürfen. Manche Bretter bringen zusätzlich Connect-ähnliche Pfade oder
+Spezialsteine ins Spiel. Effizientes Räumen bedeutet, Decksteine freizulegen,
+Optionen offen zu halten und keine Paare zu früh zu entfernen, die tiefere
+Steine einschließen würden.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Mahjong Match Puzzle uses layered stacks where only open tiles (no cover, at least one free side) can be matched. Some boards introduce connect‑style paths or special tiles. Efficiency comes from freeing caps, preserving options, and avoiding early removal that seals deeper pairs.
+1.  **Decksteine zuerst entfernen**  
+    Räume Steine ab, die als „Deckel“ auf großen Flächen liegen, damit du
+    schnell Zugriff auf viele neue Steine bekommst.
 
-### Gameplay Strategy & Walkthrough
+2.  **Seltene Symbole priorisieren**  
+    Siehst du nur zwei Exemplare eines Symbols, versuche, diese früh zu
+    verwerten, damit am Ende nicht ein einzelner Stein ohne Partner übrig
+    bleibt.
 
-1.  **[DE]** Cap removal: Free and remove top caps to expose large areas quickly.
-2.  **[DE]** Rarity first: Clear rare symbols early to prevent late deadlocks.
-3.  **[DE]** Side access: Keep side lanes open; avoid sealing long strips.
-4.  **[DE]** Hint reserve: Save hints/shuffles for when new openings stop appearing.
-5.  **[DE]** Pace: Don’t rush — deliberate picks trump speed.
+3.  **Seitliche Zugänge offen halten**  
+    Blockiere keine langen Reihen an den Seiten, indem du zu früh die
+    letzten Zugänge schließt.
 
-### Controls Guide
+4.  **Hinweise und Mischen aufsparen**  
+    Hebe dir Hinweise und Shuffle-Funktionen für den Moment auf, in dem kaum
+    noch neue Öffnungen entstehen.
 
-- Select two matching open tiles to remove; use hints/shuffles per UI.
+5.  **Ruhig spielen**  
+    Hektische Klicks führen schnell zu Sackgassen. Überlegte Züge, die mehrere
+    Folgeschritte berücksichtigen, sind wichtiger als reine Geschwindigkeit.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: No moves available?
+- Wähle zwei passende, offene Steine an, um sie zu entfernen.
+- Nutze Hinweis- und Shuffle-Buttons gemäß Benutzeroberfläche.
 
-A: Shuffle if allowed or restart with a different cap‑first plan.
+### FAQ
 
-- Q: Do seasons/flowers match cross‑suit?
+- **F: Es sind keine Züge mehr möglich – was nun?**  
+  **A:** Wenn erlaubt, mische die verbleibenden Steine. Ansonsten kann ein
+  Neustart mit einer Strategie „Decksteine zuerst“ helfen.
 
-A: Many sets allow cross‑matching within seasonal/flower groups.
+- **F: Passen Jahreszeiten- und Blumensteine auch gruppenweise?**  
+  **A:** In vielen Sets ja – jede Jahreszeit kann mit jeder anderen Jahreszeit
+  kombiniert werden, Blumen entsprechend untereinander.
 
-- Q: Timed?
-
-A: Some boards are timed; prioritize caps and rare symbols.
-
+- **F: Gibt es einen Timer?**  
+  **A:** Einige Layouts sind zeitlich begrenzt. Konzentriere dich in diesen
+  Fällen zuerst auf Decksteine und seltene Symbole.

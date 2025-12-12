@@ -1,101 +1,93 @@
 ---
-locale: ja
-urlstr: cookie-clicker-2
-title: '[JA TRANSLATION NEEDED] Cookie Clicker 2'
+title: Cookie Clicker 2 クッキークリッカー2
 description: >-
-  [JA TRANSLATION NEEDED] The definitive guide for Cookie Clicker, the legendary
-  incremental game. Discover gameplay strategies, tips for Ascension, Golden
-  Cookies, and answers to common questions to maximize your cookie production.
-iframeSrc: 'https://games-online.io/game/cake-maker/'
-thumbnail: /new-images/cookie-clicker-2.jpg
+  「Cookie Clicker
+  2」でクッキー帝国を築き上げよう。クリックしてクッキーを焼き、施設をアップグレードし、ゴールデンクッキーを集めて、無限に広がる放置ゲームの傑作。
+iframeSrc: 'https://cookie-clicker2.github.io/'
+thumbnail: /new-images/cookie-clicker-2.png
+urlstr: cookie-clicker-2
+score: 4.5/5  (5178 votes)
 tags:
-  - casual
   - clicker
-score: 4.1/5  (1344 votes)
+  - idle
+  - casual
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Cookie Clicker 2（クッキークリッカー2）*は、放置系ゲーム（クリッカーゲーム）というジャンルを確立した伝説的なゲームの続編（および拡張版）です。目的はシンプルです。**クッキーを焼くこと。それも、天文学的な数のクッキーを。**
+
+最初は大きなクッキーをクリックして1枚ずつ焼くところから始まります。しかし、すぐに「カーソル」などの自動クリックアイテムや、「おばあちゃん（Grandma）」、「農場」、「鉱山」、「工場」、「銀行」、そして「魔法の塔」や「タイムマシン」といった施設を購入し、クッキーの生産を自動化・加速させていきます。
+ゲームが進むにつれて、「名声（プレステージ）」システムによる転生、「ゴールデンクッキー」による爆発的なブースト、そして不気味な「グランマポカリプス」など、驚くべき深みと中毒性が明らかになります。
+
+### ゲーム攻略と戦略
+
+クッキークリッカーはマラソンのようなゲームですが、いくつかの段階があります。
+
+**1. 序盤（最初の転生まで）:**
+*   **クリックと購入:** 最初は地道にクリックし、買える施設を片っ端から購入します。
+*   **アップグレード:** ストアの上に表示される「アップグレード」は非常に重要です。特に、カーソルやおばあちゃんの生産力を2倍にするアップグレードは最優先で取得しましょう。
+*   **実績（Achievements）解除:** 「ミルク」は実績解除数に応じて生産量（CpS）をブーストします。簡単な実績を積極的に狙いましょう。
+*   **ゴールデンクッキー:** 画面にランダムに出現する金色のクッキーを見逃さないでください。クリックすると「生産量7倍（777倍）」などの莫大なボーナスが得られます。
+
+**2. 中盤（転生と名声）:**
+*   **いつ転生（Ascend）すべきか:** 最初の転生は、**プラス200〜440の名声レベル（Prestige Level）**が貯まった時が推奨されています。早すぎると効率が悪いです。「遺産（Legacy）」メニューの「統計（Stats）」で確認できます。
+*   **ヘブンリーチップス（Heavenly Chips）:** 転生後に手に入るチップを使って、永続的なアップグレードを購入できます。「Persistent memory（執拗な記憶）」「How to bake your dragon（ドラゴンの焼き方）」などを優先しましょう。
+
+**3. 終盤（効率化とミニゲーム）:**
+*   **ループ:** 転生して強くなり、高速で施設を建て直し、ゴールデンクッキーのコンボ（「Frenzy」と「Click Frenzy」の重ね掛けなど）を狙って限界まで稼ぎ、また転生する…このサイクルを繰り返します。
+
+**3. Late Game (Efficient Runs & Minigames):**
+*   **グランマポカリプス:** 特定の研究を進めると、おばあちゃんが激怒し、ゲームの見た目とシステムが変貌します。リスクはありますが、強大なリターンも得られます。
+*   **角砂糖（Sugar Lumps）:** 約24時間に1個手に入ります。施設をレベルアップさせ、CpSを永続的に1%上げる貴重なアイテムです。
+*   **ミニゲーム:** 施設をレベルアップさせると、畑（Garden）、神殿（Pantheon）、魔法（Grimoire）などの複雑なミニゲームが解放され、さらなるブーストが可能になります。
 
 
-### **Game Introduction**
+- **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
+### 操作ガイド
 
-    - **SHIFT + Click**: Buys 1000 of a building/upgrade.（日本語訳が必要）
-    - **CTRL + Click**: Buys 100 of a building/upgrade.（日本語訳が必要）
-**1. When is the best time to ascend?**（日本語訳が必要）
-    - **SHIFT + Click**: Buys 1000 of a building/upgrade.（日本語訳が必要）
-### **Frequently Asked Questions (よくある質問)**
-[JA TRANSLATION NEEDED] Cookie Clicker is the archetypal incremental (or "idle") game that revolves around a simple objective: generate as many cookies as possible. The game begins with the player clicking a large cookie on the screen, earning one cookie per click. These cookies are then used as currency to purchase assets, or "buildings," such as Cursors, Grandmas, and Farms, which automatically produce cookies over time, increasing your Cookies per Second (CpS).
+基本的にマウスのみですが、効率化のためのショートカットがあります。
 
-[JA TRANSLATION NEEDED] As you progress, you unlock a vast array of upgrades that boost the efficiency of your clicks and buildings. The core of the game is managing this exponential growth. The numbers quickly escalate from hundreds to thousands, then millions, billions, and into astronomical figures. Key mechanics like the "Ascension" (a prestige system), randomly appearing Golden Cookies, and various minigames add layers of strategy, transforming a simple clicking exercise into a deep and surprisingly complex optimization puzzle.
+*   **クリック:** 大クッキー、施設、アップグレード、ゴールデンクッキーをクリックします。
+*   **まとめ買い:** ストア上部の切り替えボタンで、施設を**1個、10個、100個**単位で購入できます。終盤は100個単位が必須です。
+*   **キーボードショートカット:**
+    *   **Ctrl + Shift + クリック:** 10個購入
+    *   **Ctrl + クリック:** 100個購入
+    *   **Shift + クリック:** 1000個購入
 
-### **Gameplay Strategy & Tips**
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] Strategy in Cookie Clicker is about efficiency and knowing when to make key decisions.
-
-[JA TRANSLATION NEEDED] **1. Early Game (Your First Run):**
-*   **Initial Clicks**: Start by manually clicking the cookie until you can afford your first Cursor.
-    - **CTRL + SHIFT + Click**: Buys 10 of a building/upgrade.（日本語訳が必要）
-*   **Buy Buildings**: Continuously buy the cheapest, most effective building available. A good strategy is to buy one of each building type as you unlock them to see what upgrades become available.
-*   **CLICK THE GOLDEN COOKIES**: This is the most important tip. A golden cookie will randomly appear on screen every few minutes. Clicking it grants a powerful, temporary bonus (like "Frenzy," which multiplies your CpS by 7, or "Click Frenzy," which multiplies your click power by 777). These are essential for rapid progress.
-*   **Buy Upgrades**: As soon as an upgrade appears in the store, try to buy it. They provide significant percentage-based boosts to your CpS.
-
-[JA TRANSLATION NEEDED] **2. Mid Game (Preparing for Ascension):**
-*   **What is Ascension?**: Ascension is the game's prestige mechanic. You can choose to reset your game (losing your cookies, buildings, and upgrades) in exchange for Heavenly Chips and Prestige Levels. Each Prestige Level gives a permanent +1% boost to your CpS for all future playthroughs.
-*   **When to Ascend First**: The most common advice is to ascend for the first time when you have accumulated **200-440** Prestige Levels. Ascending too early is inefficient. You can see your potential prestige level in the "Stats" menu under "Legacy."
-*   **Spending Heavenly Chips**: After ascending, you enter a new screen where you can spend your Heavenly Chips on powerful, permanent celestial upgrades. For your first ascension, focus on upgrades like "Persistent memory," "How to bake your dragon," and the "Cookie box" upgrades.
-
-[JA TRANSLATION NEEDED] **3. Late Game (Efficient Runs & Minigames):**
-*   **The Loop**: The late game consists of repeating the cycle: start a new run, buy buildings and upgrades quickly, leverage Golden Cookie combos (e.g., getting a "Frenzy" and a "Click Frenzy" at the same time for a massive boost), push as far as you can, and ascend again for more Prestige.
-*   **The Grandmapocalypse**: Researching specific "Bingo center" upgrades will trigger the Grandmapocalypse. This changes the game's appearance and replaces Golden Cookies with "Wrath Cookies," which have a chance of giving negative effects. It's a strategic choice: you can either embrace it for its unique rewards or pay to appease the grandmas and end it.
-*   **Minigames**: As you level up certain buildings with Sugar Lumps, you unlock complex minigames (the Garden, the Pantheon, the Grimoire). Mastering these provides huge long-term bonuses but requires active management.
-*   **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
-
-### **Controls Guide**
-
-[JA TRANSLATION NEEDED] The game is controlled almost entirely with the mouse, but a few key interface elements are important.
-
-*   **Mouse Click**: Click the big cookie, Golden Cookies, upgrades, and buildings.
-*   **Buy/Sell Toggles**: At the top of the store, you can toggle between buying **1, 10, or 100** of a building at a time. Using the "Buy 100" toggle is essential for efficiency in the late game.
-*   **Keyboard Shortcuts**:
-[JA TRANSLATION NEEDED]     *   **CTRL + SHIFT + Click**: Buys 10 of a building/upgrade.
-[JA TRANSLATION NEEDED]     *   **CTRL + Click**: Buys 100 of a building/upgrade.
-[JA TRANSLATION NEEDED]     *   **SHIFT + Click**: Buys 1000 of a building/upgrade.
-
-### **Frequently Asked Questions (FAQ)**
-
-[JA TRANSLATION NEEDED] **1. When is the best time to ascend?**
-[JA TRANSLATION NEEDED] For your first ascension, wait until you have at least 200-440 Prestige Levels. After that, ascend whenever your progress slows down significantly. An efficient run in the mid-to-late game might last a few hours or a day.
-
-[JA TRANSLATION NEEDED] **2. What is the point of the Grandmapocalypse? Should I activate it?**
-[JA TRANSLATION NEEDED] The Grandmapocalypse unlocks powerful upgrades and achievements. However, Wrath Cookies can be detrimental. Many players choose to stay in the first stage of it, which gives a mix of Golden and Wrath cookies, or they avoid it entirely until they are powerful enough to not care about the negative effects. It's a valid strategic choice either way.
-
-[JA TRANSLATION NEEDED] **3. What should I spend my Sugar Lumps on first?**
-[JA TRANSLATION NEEDED] A good strategy is to use your first Sugar Lump to upgrade your Farms to level 1 to unlock the Garden minigame. After that, upgrading Wizard Towers to unlock the Grimoire and Temples to unlock the Pantheon are high priorities.
-
-[JA TRANSLATION NEEDED] **4. How do I get Golden Cookie combos?**
-[JA TRANSLATION NEEDED] It's mostly based on luck. The spell "Force the Hand of Fate" from the Grimoire (Wizard Tower minigame) allows you to spawn an extra Golden Cookie, which is the primary method for intentionally creating powerful combos.
-
-[JA TRANSLATION NEEDED] **5. Is there an end to Cookie Clicker?**
-[JA TRANSLATION NEEDED] No. The game is designed to be effectively endless. The goal is to see the numbers go up and to unlock all achievements and upgrades, which is a monumental task.
-
-
-    - **CTRL + Click**: Buys 100 of a building/upgrade.（日本語訳が必要）
-
-
-
-### **Frequently Asked Questions (よくある質問)**
-    - **SHIFT + Click**: Buys 1000 of a building/upgrade.
-    - **CTRL + Click**: Buys 100 of a building/upgrade.
-
-### **Frequently Asked Questions (よくある質問)**
-For your first ascension, wait until you have at least 200-440 Prestige レベルs. After that, ascend whenever your progress slows down significantly. An efficient run in the mid-to-late game might last a few hours or a day.
-**2. What is the point of the Grandmapocalypse? Should I activate it?**（日本語訳が必要）
-The Grandmapocalypse unlocks powerful upgrades and achievements. However, Wrath Cookies can be detrimental. Many players choose to stay in the first stage of it, which gives a mix of Golden and Wrath cookies, or they avoid it entirely until they are powerful enough to not care about the negative effects. It's a valid strategic choice either way.（日本語訳が必要）
-**3. What should I spend my Sugar Lumps on first?**（日本語訳が必要）
-A good strategy is to use your first Sugar Lump to upgrade your Farms to level 1 to unlock the Garden minigame. After that, upgrading Wizard Towers to unlock the Grimoire and Temples to unlock the Pantheon are high priorities.（日本語訳が必要）
-**4. How do I get Golden Cookie combos?**（日本語訳が必要）
-It's mostly based on luck. The spell "Force the Hand of Fate" from the Grimoire (Wizard Tower minigame) allows you to spawn an extra Golden Cookie, which is the primary method for intentionally creating powerful combos.（日本語訳が必要）
-**5. Is there an end to Cookie Clicker?**（日本語訳が必要）
-No. The game is designed to be effectively endless. The goal is to see the numbers go up and to unlock all achievements and upgrades, which is a monumental task.（日本語訳が必要）
 
 No. The game is designed to be effectively endless. The goal is to see the numbers go up and to unlock all achievements and upgrades, which is a monumental task.
+
+**5. Is there an end to Cookie Clicker?**
+
+It's mostly based on luck. The spell "Force the Hand of Fate" from the Grimoire (Wizard Tower minigame) allows you to spawn an extra Golden Cookie, which is the primary method for intentionally creating powerful combos.
+
+**4. How do I get Golden Cookie combos?**
+
+A good strategy is to use your first Sugar Lump to upgrade your Farms to level 1 to unlock the Garden minigame. After that, upgrading Wizard Towers to unlock the Grimoire and Temples to unlock the Pantheon are high priorities.
+
+**3. What should I spend my Sugar Lumps on first?**
+
+The Grandmapocalypse unlocks powerful upgrades and achievements. However, Wrath Cookies can be detrimental. Many players choose to stay in the first stage of it, which gives a mix of Golden and Wrath cookies, or they avoid it entirely until they are powerful enough to not care about the negative effects. It's a valid strategic choice either way.
+
+**2. What is the point of the Grandmapocalypse? Should I activate it?**
+
+For your first ascension, wait until you have at least 200-440 Prestige Levels. After that, ascend whenever your progress slows down significantly. An efficient run in the mid-to-late game might last a few hours or a day.
+
+**1. When is the best time to ascend?**
+*   **Q: 最初の転生はいつが良いですか？**
+    *   **A:** 名声レベル（Prestige Levels）が最低でも200、できれば440貯まってからがベストです。それまでは我慢してクッキーを焼き続けましょう。
+
+*   **Q: グランマポカリプスは発動すべきですか？**
+    *   **A:** はい、強力なアップグレードと実績のために一度は通るべき道です。しかし、デメリットのある「ラス・クッキー（Wrath Cookie）」が出るようになるので、制御できる自信がつくまで止めておくのも戦略です。
+
+*   **Q: 角砂糖は何に使うべきですか？**
+    *   **A:** 最初は「農場（Farms）」をレベル1にしてミニゲーム「畑」を解放し、次に「魔法の塔（Wizard Towers）」で「魔法書」を、「神殿（Temples）」で「パンテオン」を解放するのが鉄板ルートです。
+
+*   **Q: ゲームに終わりはありますか？**
+    *   **A:** 実質的にありません。すべての実績とアップグレードをコンプリートするのは果てしない道のりです。

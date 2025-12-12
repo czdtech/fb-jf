@@ -1,59 +1,71 @@
 ---
 locale: fr
 urlstr: climb-man
-title: '[FR] Climb Man'
-description: >-
-  [FR] Master the fast-paced arcade game, Climb Man: Walk to the Sky. This guide
-  provides expert strategies for timing your climbs, avoiding obstacles, and
-  unlocking new characters to reach the highest score.
-iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
+title: Climb Man
+description: "Dans Climb Man, grimpe toujours plus haut en évitant les pièges\_: attrape les prises au bon moment, anticipe les obstacles et vise le meilleur score."
+iframeSrc: 'https://6kudfq9ur9or0.h5games.usercontent.goog/v/1bncs48eev9h8/'
 thumbnail: /new-images/climb-man.png
 tags:
   - action
   - casual
-score: 3.9/5  (1658 votes)
+score: 4.0/5  (1322 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
+Climb Man est un jeu d’arcade vertical dans lequel ton personnage escalade un
+mur ou une tour sans fin. Des plateformes, piques, pièges mobiles et autres
+obstacles se présentent au fur et à mesure de la montée.
 
-### **Game Introduction**
+Le but est de grimper le plus haut possible sans tomber ni te faire toucher par
+les dangers. Le rythme s’accélère petit à petit, ce qui demande de meilleurs
+réflexes et un timing précis.
 
-*Climb Man: Walk to the Sky* is a fast-paced and addictive arcade climber that tests your timing and reflexes. The objective is to **climb an endless, zig-zagging staircase as high as possible without falling or being hit by obstacles.**
+### Guide de jeu
 
-Players control a character who stands at the bottom of a staircase. By tapping the "Left Climb!" or "Right Climb!" buttons, the character will jump to the next step in that direction. You must tap the correct button corresponding to the next step's location.
+1.  **Observe avant de sauter**  
+    Prends une fraction de seconde pour repérer la prochaine plateforme sûre
+    plutôt que de sauter aussitôt. Beaucoup de pièges sont placés juste après
+    les points de repos évidents.
+2.  **Anticipe le mouvement des obstacles**  
+    Si des pics ou plateformes bougent, regarde leur cycle complet avant de te
+    lancer. Cherche la fenêtre de passage la plus large.
+3.  **Reste au milieu quand tu hésites**  
+    Quand tu n’es pas sûr de la suite, rester approximativement au centre de
+    l’écran t’offre plus de marge pour réagir à gauche ou à droite.
+4.  **Apprends le rythme**  
+    Beaucoup de sections se jouent sur un tempo régulier. Caler tes actions sur
+    ce rythme aide à réduire les erreurs de timing.
+5.  **Ne sacrifie pas ta sécurité pour une pièce**  
 
-The challenge comes from the increasing speed and the appearance of various obstacles, such as ropes or other hazards, that you must avoid. A single mistimed tap or a wrong directional choice will cause your character to fall, ending the run. The goal is to climb as many steps as possible to achieve a high score, complete missions, and unlock new characters.
+- **Use Two Thumbs**: For maximum speed and control, play with both thumbs, hovering over the left and right buttons, respectively. This is much faster and more accurate than using a single finger.
+    Si le jeu propose des pièces ou bonus à ramasser, ne prends les plus
+    risqués que lorsque tu maîtrises bien le passage.
 
-### **Gameplay Strategy & Tips**
+### Commandes
 
-1.  **[FR]** **Find Your Rhythm**: This is a rhythm-based game at its core. Don't just react to each step as it comes. Try to get into a steady "tap-tap-tap" rhythm that matches the flow of the stairs.
-2.  **[FR]** **Look Ahead, Not at Your Character**: Your focus should be two or three steps ahead of your character. This allows you to anticipate the pattern of the stairs (e.g., left-right-left vs. left-left-right) and mentally prepare your next sequence of taps.
-3.  **[FR]** **Don't Panic at Obstacles**: Obstacles are designed to break your rhythm and cause a mistake. When you see an obstacle, stay calm, identify the safe path, and continue your climb. A brief pause to assess is better than a panicked wrong move.
-4.  **[FR]** **Master the "Double Tap"**: You will frequently encounter two consecutive steps on the same side. Be ready to quickly tap the same button twice in a row. This is a common point where players lose their rhythm.
-5.  **[FR]** **Complete Missions and Daily Rewards**: As the screenshots show, the game has a meta-progression system with missions, daily check-ins ("Attendance Check"), and currency (gold and diamonds). Log in daily and focus on completing missions to earn currency, which can be used to unlock new characters (like the "Swordsman") and potentially power-ups.
-6.  **[FR]** **Use Two Thumbs**: For maximum speed and control, play with both thumbs, hovering over the left and right buttons, respectively. This is much faster and more accurate than using a single finger.
+- **Déplacements / Sauts** : selon la version, tapote à gauche ou à droite de
+  l’écran, ou utilise les touches directionnelles / la souris pour diriger ton
+  personnage vers la prochaine prise ou plateforme.  
+- **Pause / Recommencer** : utilise les boutons de l’interface pour mettre le
 
-### **Controls Guide**
+- **Climb Right**: Tap the **"Right Climb!"** button on the bottom right of the screen.
+  jeu en pause ou relancer une partie.
 
-The controls are extremely simple, designed for fast-paced mobile gameplay.
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Climb Left**: Tap the **"Left Climb!"** button on the bottom left of the screen.
-*   **[FR]** **Climb Right**: Tap the **"Right Climb!"** button on the bottom right of the screen.
+**Q : Le jeu a‑t‑il une fin ?**  
+R : La plupart des versions de Climb Man sont infinies. L’objectif est de
+battre ton record de hauteur et de score.
 
-### **Frequently Asked questions (FAQ)**
+**Q : Pourquoi je meurs toujours au même endroit ?**  
+R : C’est souvent un problème de timing. Observe bien le cycle des obstacles et
+change légèrement le moment où tu sautes ou la position d’où tu pars.
 
-**1. What happens if I press the wrong button?**
-If you press "Left Climb!" when the next step is on the right (or vice versa), your character will jump into the empty space and fall, ending the game.
-
-**2. How do I get new characters?**
-As shown in the "Attendance Check" screen, you can unlock characters like the "Swordsman" by logging in for consecutive days. You can also likely purchase new characters from the "Shop" or unlock them through the "Character" menu using the gold and diamonds you earn from playing and completing missions.
-
-**3. What is the goal of the game?**
-The primary goal is to achieve the highest score possible by climbing the most steps in a single run. A secondary goal is to complete missions and collect all the available characters.
-
-**4. Is this game endless?**
-Yes, the main gameplay mode is an endless climber where the stairs are procedurally generated, and you climb until you make a mistake.
-
+**Q : Y a‑t‑il des power‑ups ?**  
+R : Certaines variantes proposent des bonus (bouclier, double saut, etc.).
+Apprends à les utiliser dans les sections difficiles pour progresser plus
+loin.

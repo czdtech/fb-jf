@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: foosball-cup-world
-title: '[ZH TRANSLATION NEEDED] Foosball Cup World'
+title: "Foosball Cup World 桌上足球世界盃"
 description: >-
-  [ZH TRANSLATION NEEDED] Foosball Cup World brings fast table‑soccer — angle
-  shots, time spins, and defend smartly across tight matches.
+  Foosball Cup World 帶來節奏快速的桌上足球體驗——利用角度射門、掌握旋桿時機，
+  聰明防守，在短兵相接的比賽中取勝。
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/foosball-cup-world.png
 tags:
@@ -19,30 +19,36 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Foosball Cup World is a quick table‑football simulation with responsive rods and crisp ball physics. Attack relies on angled passes, snap shots, and well‑timed spins; defense is about lane coverage and cutting cross‑shots. Matches are short, demanding precise control over frantic flailing.
+《Foosball Cup World》是一款節奏明快的桌上足球模擬遊戲，操作桿反應靈敏、球體物理手感清晰。
+進攻端依靠斜線傳球、快速抽射與適時的旋桿；防守端則考驗你如何封鎖傳球路線、斷掉橫傳與小角度抽射。
+每場比賽時間短、對抗激烈，需要在看似混亂的旋桿中保持精準控制。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Short passes: Tap to nudge the ball between adjacent rows, then snap‑shoot.
-2.  [ZH TRANSLATION NEEDED] Cover lanes: Park defenders to block central lanes; move only when needed.
-3.  [ZH TRANSLATION NEEDED] Angle finishes: Hit the ball on the outside of the foot for far‑post angles.
-4.  [ZH TRANSLATION NEEDED] Anti‑spin: For stability, avoid full‑rod spins that lose control.
-5.  [ZH TRANSLATION NEEDED] Kickoffs: Shoot diagonally off kickoff before the opponent settles.
+
+1.  **短傳滾動：** 透過輕推桿子做小幅度觸球，讓球在相鄰排的球員之間滾動，
+    找到空檔後再施展快速抽射。
+2.  **守住中路：** 防守時先把後防與中場擺在中線附近，封鎖最常見的直線射門路徑，
+    不要整條線一起亂追球。
+3.  **角度射門：** 嘗試用球員腳內外側撞球，製造貼遠柱的斜線射門，
+    難度更高也更不容易被守門員直接擋下。
+4.  **避免盲目大旋轉：** 雖然把桿子旋轉 360° 看起來很華麗，但實際上容易失去位置控制，
+    不如穩定的小幅度抽射來得實用。
+5.  **開球戰術：** 開球時可以直接來一腳斜線射門，趁對手尚未站穩防守位時先搶下一分。
 
 ### Controls Guide
 
-- Move rods: WASD/Arrows/mouse drag (varies).  Shoot: Tap/flick; some builds separate tilt vs spin.
+- 移動桿子：依版本不同，可使用方向鍵、WASD 或滑鼠拖曳；
+- 射門：透過快速推／拉桿子、或特定按鍵來完成抽射，部分版本會區分傾斜與旋轉操作。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: Are full 360° spins allowed?
-  
-[ZH TRANSLATION NEEDED]   A: Many foosball rules forbid them; the game often discourages them with poor control.
+- 問：可以 360° 瘋狂旋轉射門嗎？  
+  答：現實桌上足球賽規通常禁止全旋桿，本遊戲裡即使能轉一圈，控球效果也不佳，
+  通常不建議依賴這種打法。
 
-- Q: Best basic defense?
-  
-[ZH TRANSLATION NEEDED]   A: Keep one defender centered and the goalie tracking the ball’s angle; avoid chasing.
+- 問：基本防守該怎麼站位？  
+  答：讓其中一排防守球員固定守中路，守門員則跟著球的角度微調位置，
+  避免所有桿子同時出擊導致門前完全空檔。
 
-- Q: Two‑player support?
-  
-[ZH TRANSLATION NEEDED]   A: Commonly yes via shared keyboard or local hot‑seat.
-
+- 問：支援兩人對戰嗎？  
+  答：大多數版本都支援本地雙人，透過同鍵盤或輪流操作進行對戰，非常適合朋友間小比拼。

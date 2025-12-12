@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: jurassic-run
-title: '[DE] Jurassic Run'
+title: "Jurassic Run"
 description: >-
-  [DE] Jurassic Run is a dino‑dash runner — evade hazards, swap lanes, and
-  sprint for high scores.
+  Jurassic Run ist ein Dino-Runner: Weiche Hindernissen aus, wechsle die Spur
+  im richtigen Moment und sprinte für neue Highscores.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/jurassic-run.png
 tags:
@@ -15,28 +15,64 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jurassic Run ist ein schneller Endless-Runner vor der Kulisse von Dinosauriern
+und dichtem Dschungel. Du rennst automatisch nach vorne, liest die Strecke
+voraus und wechselst rechtzeitig die Spur oder springst/rutschst, um
+Hindernissen auszuweichen. Unterwegs sammelst du Münzen und Power-ups, während
+sich das Tempo immer weiter erhöht.
 
-### Detailed Game Introduction
+Je länger du überlebst, desto dichter werden die Fallen und desto wichtiger
+werden sauberes Timing und schnelle Reaktionen. Das Ziel ist es, deinen
+persönlichen Rekord immer weiter nach oben zu schrauben.
 
-Jurassic Run is a fast endless runner set among dinosaurs and jungle obstacles. Read the track ahead, switch lanes or jump/slide to avoid hazards, and chain coin pickups as speed increases.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  **Weit voraus schauen**  
+    Richte deinen Blick nicht nur auf die Figur, sondern auf die kommende
+    Strecke. Wer Hindernisse früh erkennt, kann Spurwechsel und Sprünge deutlich
+    entspannter planen.
 
-1.  **[DE]** Look far ahead to plan early lane changes.
-2.  **[DE]** Skip risky coins when gaps are tight; safety keeps runs alive.
-3.  **[DE]** Memorize repeating obstacle sets to pre‑position.
-4.  **[DE]** Make small, crisp inputs at higher speeds.
-5.  **[DE]** Save shields/magnets for dense stretches if available.
+2.  **Riskante Münzen auslassen**  
+    Nicht jede Münze lohnt sich. Wenn eine Münzreihe direkt vor einer Lücke
+    oder einem Hindernis liegt, ist es oft sicherer, sie zu ignorieren und
+    deinen Lauf fortzusetzen.
 
-### Controls Guide
+3.  **Muster merken**  
+    Viele Hindernisabfolgen wiederholen sich. Achte auf typische Kombinationen
+    und merke dir, welche Spur in welcher Situation sicher ist – so kannst du
+    dich schon im Voraus richtig positionieren.
 
-- Move: A/D or Left/Right; jump/slide with Space/Up and Down.
-- Pause/Retry via on‑screen UI.
+4.  **Kleine, präzise Eingaben**  
+    Wenn das Tempo steigt, sind hektische Richtungswechsel gefährlich.
+    Bevorzuge kurze, klare Eingaben statt wildem Hin-und-Her-Steuern.
 
-### Frequently Asked Questions (FAQ)
+5.  **Power-ups sinnvoll einsetzen**  
+    Falls es Schilde, Magneten oder ähnliche Hilfen gibt, nutze sie in Abschnitten
+    mit vielen Hindernissen oder dichter Münzverteilung, um das Maximum
+    herauszuholen.
 
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
-- Is there an end? Usually endless—chase personal bests.
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
+### Steuerung
 
+- **Bewegen:** A/D oder Pfeil links/rechts, um die Spur zu wechseln.
+- **Springen/Rutschen:** Leertaste bzw. Pfeil nach oben zum Springen,
+  Pfeil nach unten zum Rutschen.
+- **Pause/Neustart:** Über die Bildschirm-Buttons kannst du pausieren oder den
+  Lauf neu starten.
+
+### FAQ
+
+- **F: Ich stoße ständig an Hindernisse – woran liegt das?**  
+  **A:** Oft springst du zu früh oder lenkst zu stark. Versuche, Sprünge einen
+  Moment später auszulösen und steuere nur so viel wie nötig, um auf der
+  sicheren Spur zu bleiben.
+
+- **F: Gibt es ein festes Ende?**  
+  **A:** In der Regel handelt es sich um einen Endlosmodus. Du spielst auf
+  Highscore und versuchst, deine Bestleistung immer wieder zu übertreffen.
+
+- **F: Welche Power-ups gibt es?**  
+  **A:** Viele Versionen bieten Schilde, Magnete oder Zeitlupen-Effekte, die dir
+  das Einsammeln von Münzen erleichtern oder dich kurzzeitig vor Fehlern
+  schützen.

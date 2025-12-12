@@ -1,13 +1,14 @@
 ---
 locale: es
 urlstr: slope
-title: '[ES] Slope'
+title: "Slope"
 description: >-
-  [ES] Slope is the original endless running game where players control a green
-  ball rolling down a steep slope, avoiding red obstacles and trying to survive
-  as long as possible in this addictive and challenging experience.
-iframeSrc: 'https://webglmath.github.io/slope/'
-thumbnail: /new-images/slope.jpg
+  Slope es el endless runner original en el que controlas una bola verde que
+  baja por una pendiente muy inclinada, esquivando obstáculos rojos e intentando
+  sobrevivir el máximo tiempo posible en una experiencia tan adictiva como
+  desafiante.
+iframeSrc: "https://webglmath.github.io/slope/"
+thumbnail: "/new-images/slope.jpg"
 tags:
   - endless runner
   - original
@@ -17,34 +18,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Slope" es el juego de pendiente infinita que inició la serie. Controlas una
+bola verde que rueda por una cuesta cada vez más rápida mientras esquivas
+plataformas y bloques rojos. Su jugabilidad simple, física muy suave y ritmo
+acelerado lo convierten en un clásico instantáneo.
 
+### Estrategias de juego
 
-### Game Introduction
+1.  **Control básico:** Domina primero el movimiento lateral, evitando
+    sobrecorregir cada vez que te desvíes.
+2.  **Sigue el ritmo:** Acostúmbrate a que la velocidad irá aumentando. Ajusta
+    tus movimientos a ese ritmo creciente.
+3.  **Predice los obstáculos:** Aprende a leer la posición y patrón de los
+    bloques rojos para anticipar por dónde pasar.
+4.  **Elige bien el camino:** Entre combinaciones complejas de obstáculos, busca
+    siempre la ruta más segura aunque no sea la más vistosa.
+5.  **Mantén la calma:** A altas velocidades, los nervios son tu peor enemigo.
+    Controla tus reflejos y evita movimientos bruscos.
 
-"Slope" is the original endless running game where players control a green ball rolling down a steep slope, avoiding red obstacles and trying to survive as long as possible in this addictive and challenging experience. The game is famous for its simple yet addictive gameplay, smooth physics engine, and gradually accelerating pace.
+### Cómo jugar
 
-### Gameplay Strategy
+*   **Mover a la izquierda:** Tecla A o flecha izquierda.
+*   **Mover a la derecha:** Tecla D o flecha derecha.
+*   **Control suave:** Prioriza movimientos fluidos en lugar de cambios
+    bruscos de dirección.
 
-1.  **[ES]** **Basic Control**: Master the basic left and right movement controls, avoiding overreaction.
-2.  **[ES]** **Rhythm Awareness**: Adapt to the game's constantly accelerating pace and speed changes.
-3.  **[ES]** **Obstacle Prediction**: Learn to predict the position and movement patterns of red obstacles.
-4.  **[ES]** **Path Selection**: Choose the safest routes through complex obstacle combinations.
-5.  **[ES]** **Stay Calm**: Maintain composure at high speeds, avoiding panic-induced mistakes.
+### Preguntas frecuentes
 
-### How to Play
-
-*   **[ES]** **Move Left**: Press A key or left arrow key to move the ball left.
-*   **[ES]** **Move Right**: Press D key or right arrow key to move the ball right.
-*   **[ES]** **Smooth Control**: Use smooth movements rather than abrupt direction changes.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How can I improve my high score?**
-**A**: Practice more to improve reaction speed, learn to maintain control at high speeds, and familiarize yourself with obstacle appearance patterns.
-2.  **[ES]** **Q: Why does the ball accelerate?**
-**A**: This is the core game mechanism; the ball gets faster over time to increase challenge difficulty.
-3.  **[ES]** **Q: Are all red obstacles dangerous?**
-**A**: Yes, touching any red object will cause game over.
-4.  **[ES]** **Q: Does the game have an ending?**
-**A**: "Slope" is an endless game that can theoretically continue indefinitely; the challenge is seeing how long you can survive.
+1.  **P: ¿Cómo mejoro mi récord?**
+    **R:** Practica para ganar reflejos, aprende a controlar la bola a alta
+    velocidad y familiarízate con los patrones de aparición de obstáculos.
+2.  **P: ¿Por qué la bola acelera tanto?**
+    **R:** Es el núcleo del diseño: la velocidad aumenta con el tiempo para
+    que la partida se vuelva cada vez más difícil.
+3.  **P: ¿Todos los objetos rojos son letales?**
+    **R:** Sí, basta con tocar cualquier elemento rojo para perder la partida.
+4.  **P: ¿Tiene final el juego?**
+    **R:** No, Slope es teóricamente infinito; el reto es ver cuánto aguantas
+    antes de caer.

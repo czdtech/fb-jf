@@ -1,72 +1,63 @@
 ---
+title: "Bloxorz"
+description: "Fais rouler un bloc 1×2×1 sur des plateformes en suspension et fais-le tomber bien droit dans le trou final. Bloxorz mettra ta logique spatiale à rude épreuve."
+iframeSrc: "https://www.coolmathgames.com/sites/default/files/public_games/22633/"
+thumbnail: "/new-images/bloxorz.jpg"
+urlstr: "bloxorz"
+score: "4.7/5  (784 votes)"
+tags: ["puzzle", "logique", "classique"]
+developer: ""
+releaseDate: 2025-08-16
 locale: fr
-urlstr: bloxorz
-title: '[FR] Bloxorz Magic'
-description: >-
-  [FR] Guide your rectangular block through challenging 3D puzzles in Bloxorz.
-  Navigate fragile tiles, operate switches, split your block in two, and
-  carefully roll to the exit hole in this classic brain-teasing game.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
-thumbnail: /new-images/bloxorz.jpg
-tags:
-  - casual
-  - rhythm
-score: 3.9/5  (922 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Bloxorz* est un casse-tête 3D exigeant où tu contrôles un bloc 1×2×1 et dois le faire rouler sur des plateformes flottantes pour le faire tomber **debout** dans un trou de 1×1 case.
 
+Le jeu comprend 33 niveaux dont la difficulté augmente progressivement.
 
+Les énigmes sont construites autour de tuiles et d’interrupteurs spéciaux :
 
+-   **Tuiles fragiles (oranges)** : elles cèdent si le bloc est debout dessus, mais supportent un bloc couché.
+-   **Interrupteurs** : ils contrôlent des ponts ou plateformes et existent en trois variantes.  
+    -   **`()` souples** : une simple pression (même avec une seule case du bloc) les active.  
+    -   **`X` lourds** : ils ne réagissent que si le bloc est debout et concentre tout son poids.  
+    -   **`<>` de scission** : si le bloc est couché dessus, il se sépare en deux cubes 1×1.
 
-### Game Introduction
+### Conseils de jeu
 
-Bloxorz is a challenging 3D puzzle game where the objective is to maneuver a 1x2x1 rectangular block through a series of floating platforms and into a square hole at the end of the stage. The challenge lies in navigating the block by rolling it, ensuring it doesn't fall off the edges of the platforms.
+-   **Anticipe plusieurs coups à l’avance** : avant chaque roulade, imagine le bloc après 1, 2, 3 mouvements pour éviter les chutes surprises.
+-   **Maîtrise les tuiles fragiles** : règle d’or – ne te tiens jamais debout sur l’orange. Planifie pour arriver dessus en position couchée.
+-   **Comprends bien les interrupteurs** :  
+    -   `()` : traverse-les simplement pour les activer.  
+    -   `X` : prépare ton approche pour tomber exactement debout dessus.  
+-   **Stratégie en mode “split”** : lorsque ton bloc est divisé en deux cubes, ils répondent tous les deux aux flèches mais tu peux changer de cube avec *Espace*.  
+    -   Utilise un cube comme poids ou déclencheur pendant que l’autre progresse.  
+    -   Pour refusionner, place-les sur deux cases adjacentes puis déplace un cube vers l’autre.  
+-   **Exploite les arêtes** : certains niveaux exigent d’utiliser un bord de plateforme comme pivot pour remettre le bloc debout.  
+-   **Note les codes de niveau** : chaque niveau terminé fournit un code à 6 chiffres, pratique pour reprendre la partie plus tard.
 
-The game consists of 33 stages, each progressively more difficult and introducing new mechanics and obstacles. To complete a level, the block must be standing upright (occupying a single 1x1 square) to fall perfectly into the 1x1 destination hole.
+### Commandes
 
-The puzzle elements evolve through the introduction of special tiles and switches:
--   **Fragile Tiles (Orange):** These tiles will collapse if the block stands upright on them, as its entire weight is concentrated on a single square. The block must lie flat (distributing its weight over two squares) to safely cross them.
--   **Switches:** There are three types of switches that control bridges and platforms.
-    -   **Soft Switches (`()`):** Activated when any part of the block touches them.
-    -   **Hard Switches (`X`):** Can only be activated when the block is standing upright on them, applying its full weight.
-    -   **Splitting Switches (`<>`):** When the block lies flat across this switch, it splits into two smaller, independent 1x1 cubes.
+Le jeu se contrôle uniquement au clavier :
 
-### Gameplay Strategy
+-   **Flèche ↑** : rouler vers l’avant.  
+-   **Flèche ↓** : rouler vers l’arrière.  
+-   **Flèche ←** : rouler vers la gauche.  
+-   **Flèche →** : rouler vers la droite.  
+-   **Barre d’espace** : lorsqu’il y a deux cubes, bascule le contrôle de l’un à l’autre.
 
--   **Think and Plan Ahead:** Bloxorz is a game of foresight. Before making a move, visualize the next few rolls. Count the squares to see where your block will land and in what orientation (standing or lying flat). Rushing will almost always lead to falling off.
--   **Master the Fragile Tiles:** The rule is simple but crucial: **Never stand on an orange tile.** Always ensure your block is lying flat when any part of it is resting on a fragile tile.
--   **Understand the Switches:**
-    -   For `()` switches, you can simply roll over them.
-    -   For `X` switches, you need to plan your moves to land your block in a standing position precisely on the switch.
--   **Splitting Strategy:** When your block is split into two cubes, they move in parallel. You can press the Spacebar to toggle control between them.
-    -   Use one cube as an anchor or a block to manipulate the position of the other.
-    -   To merge the two cubes back into a single block, they must be positioned right next to each other (adjacent squares). Move one into the other to reform the block.
--   **Use Edges to Your Advantage:** Sometimes, you'll need to use the edge of a platform as a pivot point to get your block into a standing position where you otherwise couldn't. This is an advanced technique required for later levels.
--   **Write Down Level Codes:** The game provides a unique code for each level. Write these down so you don't have to start from the beginning every time you play.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+**1. Pourquoi tombe‑je à travers les dalles oranges ?**  
+> Parce que ton bloc est debout dessus. Ces dalles ne supportent que la position couchée ; aborde-les toujours en répartissant le poids.
 
-The controls are simple and based on the keyboard's arrow keys.
+**2. L’interrupteur `X` ne s’active pas, que faire ?**  
+> C’est un interrupteur “lourd”. Tu dois poser le bloc en position debout pour lui transmettre le poids intégral ; couché, il ne réagit pas.
 
--   **Up Arrow Key:** Roll the block forward.
--   **Down Arrow Key:** Roll the block backward.
--   **Left Arrow Key:** Roll the block to the left.
--   **Right Arrow Key:** Roll the block to the right.
--   **Spacebar:** Switch control between the two smaller cubes after splitting.
+**3. Comment réunir les deux petits cubes ?**  
+> Place-les sur deux cases voisines (horizontalement ou verticalement) puis fais rouler l’un vers l’autre : ils fusionneront en un bloc 1×2×1.
 
-### Frequently Asked Questions (FAQ)
-
-**1. Why did I fall through the orange floor?**
-> You fell because your block was standing upright on the orange tile. These tiles are fragile and can only support the block when it's lying flat, distributing its weight across two squares.
-
-**2. The 'X' switch is not working. What am I doing wrong?**
-> The 'X' switch is a "hard" or "heavy" switch. It requires the full, concentrated weight of the block to activate. You must position the block so it is standing vertically on top of the 'X' tile. Lying flat on it will not work.
-
-**3. How do I get my two small blocks back together?**
-> To merge the two cubes back into the original block, you must move them so they are on adjacent squares (side-by-side). Then, select one cube and move it into the other. They will automatically combine.
-
-**4. How can I return to a level I've already reached?**
-> After completing each level, the game provides a 6-digit passcode. You can enter this code on the main menu screen to start directly from that level.
-
+**4. Comment revenir à un niveau déjà atteint ?**  
+> Après chaque niveau, un code à 6 chiffres est affiché. Entre ce code dans le menu principal pour recommencer directement à ce niveau.

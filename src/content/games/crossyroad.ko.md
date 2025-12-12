@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: crossyroad
-title: '[KO] Crossy Road - Play Crossy Road Online'
+title: "Crossy Road 크로시 로드 온라인 플레이"
 description: >-
-  [KO] Crossy Road is an 8-bit endless arcade hopper game in which your mission
-  is to control the chicken and cross the roads, rivers, and railroads safely.
+  8비트 스타일의 끝less 점프 아케이드 게임 Crossy Road입니다. 닭을 비롯한
+  다양한 캐릭터를 조종해 도로와 강, 철길을 안전하게 건너 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /crossy-road.jpg
 tags:
@@ -13,35 +13,71 @@ score: 4.8/5  (1104 votes)
 ---
 
 
+Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝less 아케이드 점프 게임으로,  
+모바일과 여러 플랫폼에서 큰 인기를 끌고 있는 작품입니다. 목표는 단순합니다.
+차량으로 붐비는 도로, 강, 철길을 가능한 한 멀리까지 **죽지 않고** 건너는 것입니다.  
+3D 픽셀처럼 보이는 복셀(voxel) 아트 스타일과 수십 종이 넘는 수집형 캐릭터 덕분에
+전 세계적으로 사랑받고 있으며, 제목과 콘셉트는 “왜 닭이 길을 건넜을까?”라는
+클래식 농담에서 따 왔습니다.
 
-Crossy Road is an incredibly popular and addictive endless arcade-style video game developed and published by Hipster Whale. The objective of the game is simple: to cross a series of busy roads, rivers, and train tracks for as long as possible without dying. Its charming voxel art style (similar to 3D pixels) and a vast collection of unlockable characters have made it a global hit on mobile devices and other platforms. The name and concept of the game are a playful reference to the classic joke, "Why did the chicken cross the road?". 
+### Crossy Road 플레이 방법
 
-### How to Play Crossy Road
-
--  **Movement:** Players control their character by tapping the screen to hop forward one lane at a time, or swiping left, right, and down to move in those directions. The goal is to keep moving forward.
--  **Obstacles:** The world is filled with hazards. You must avoid being hit by cars, trucks, and trains. You also need to cross rivers by hopping on moving logs and lily pads. If you fall into the water, you lose.
--  **The Eagle:** You cannot stay still for too long! If you wait in one spot or move backward too much, a large eagle will swoop in and carry your character away, ending the game. This forces you to constantly assess risks and move forward.
--  **Scoring:** Your score is based on the number of forward hops you make. Each forward move adds one point to your score. Moving sideways or backward does not increase your score.
--  **Coins and Characters:** While playing, you can collect coins scattered on the ground. These coins are used in a prize machine (gacha) to unlock a wide variety of new characters, each with its own unique appearance and environment theme (e.g., the Penguin character makes the world snowy).
-
+- **이동**:  
+  화면을 탭하면 캐릭터가 한 칸씩 앞으로 점프하고, 좌·우·뒤로 스와이프하면 해당
+  방향으로 이동합니다. 기본 목표는 가능한 한 계속 앞으로 나아가는 것입니다.  
+- **장애물**:  
+  도로에는 차와 트럭, 철길에는 빠르게 지나가는 기차가 있으며, 여기에 부딪히면
+  즉시 게임이 끝납니다. 강을 건널 때는 움직이는 통나무와 연꽃잎 위를 점프해
+  반대편으로 건너야 하며, 물에 빠지면 역시 패배입니다.  
+- **독수리(Eagle)**:  
+  같은 자리에서 너무 오래 머무르거나 뒤로만 계속 움직이면 하늘에서 거대한
+  독수리가 내려와 캐릭터를 잡아가 버립니다. 게임이 플레이어에게 계속 앞으로
+  나아가도록 압박을 주는 장치입니다.  
+- **점수 시스템**:  
+  캐릭터가 앞으로 이동한 칸 수가 곧 점수가 됩니다. 앞으로 한 칸 전진할 때마다
+  1점이 오르며, 옆으로 또는 뒤로 움직이는 것은 점수에 영향을 주지 않습니다.  
+- **코인과 캐릭터**:  
+  맵 곳곳에 떨어진 코인을 수집할 수 있습니다. 모은 코인은 뽑기 형식의 프라이즈
+  머신에 사용해 새로운 캐릭터를 랜덤으로 해금하는 데 쓰입니다. 캐릭터마다
+  외형뿐 아니라 배경 테마도 달라지며, 예를 들어 펭귄을 선택하면 주변이 눈 덮인
+  세계로 바뀝니다.  
 
 ---
 
-### Strategy and Tips
+### 전략과 팁
 
--  **Patience and Rhythm:** Don't rush blindly. Observe the traffic patterns to find a safe path. The game has a rhythm; try to sync your taps with the flow of traffic and logs.
--  **Look Ahead:** Always scan a few lanes ahead of your character. This helps you anticipate upcoming dangers, like a fast-approaching train or a gap in the logs on a river.
--  **Use Sideways Movement:** Don't just hop forward. Swiping left and right is crucial for positioning yourself to wait for an opening or to line up a jump onto a log.
--  **Be Wary of Trains:** Trains are the deadliest obstacle because they are fast and give little warning. When you see flashing red lights and hear the bell, stop immediately and wait for the train to pass.
--  **Mastering Rivers:** When crossing rivers, try to stay in the middle of the logs. If you get too close to the edge of the screen, you might get pushed off by a log moving in the opposite direction.
-
+- **리듬과 인내심 유지**  
+  무작정 달려들기보다는, 차량과 통나무의 움직임을 관찰해 “리듬”을 파악하세요.
+  일정한 패턴에 맞춰 탭 타이밍을 조절하면 훨씬 안정적으로 멀리 갈 수 있습니다.  
+- **항상 앞을 내다보기**  
+  캐릭터 주변만 보지 말고, 몇 줄 앞까지 함께 살펴보며 빠르게 접근 중인 기차나
+  강 위 통나무 사이의 빈틈을 미리 파악하세요.  
+- **좌우 이동 적극 활용**  
+  앞으로만 점프하면 위험해질 때가 많습니다. 좌·우 이동을 사용해 여유 공간으로
+  빠져나오거나, 다음 점프를 준비할 위치로 미리 이동하는 것이 중요합니다.  
+- **기차는 특히 조심**  
+  기차는 속도가 매우 빠르고, 경고 시간도 짧습니다. 철길 옆의 빨간 불이 깜빡이고
+  경고음이 들리면 즉시 멈춰 기차가 지나가기를 기다리세요.  
+- **강 건너기 요령**  
+  강을 건널 때는 통나무 중앙 부근에 서 있는 것이 안전합니다. 화면 가장자리 쪽으로
+  붙어 있으면 반대 방향으로 움직이는 통나무에 밀려 물에 떨어지기 쉽습니다.  
 
 ---
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**Q: How do I get new characters?**  **A:** There are three main ways: 1) Use 100 coins in the prize machine for a random character. 2) Collect free gifts that appear every few hours. 3) Some secret characters are unlocked by performing specific actions in the game with certain characters. 
+**Q: 새로운 캐릭터는 어떻게 언락하나요?**  
+**A:** 기본적으로 세 가지 방법이 있습니다.  
+1) 코인 100개를 모아 프라이즈 머신을 돌려 랜덤 캐릭터를 얻기  
+2) 일정 시간마다 제공되는 무료 선물(Free Gift)을 수령하기  
+3) 특정 캐릭터로 특정 행동을 수행해 숨겨진 시크릿 캐릭터를 해금하기  
 
-**Q: What's the point of the coins?**  **A:** Their only purpose is to be used in the prize machine to unlock new characters. They do not affect your score or gameplay abilities. 
+**Q: 코인은 어떤 용도로 쓰이나요?**  
+**A:** 코인은 오직 프라이즈 머신에서 새 캐릭터를 뽑는 데만 사용됩니다. 점수나
+게임 플레이 능력에는 직접적인 영향을 주지 않습니다.  
 
-**Q: Why did an eagle take me away?**  **A:** This happens when you stay in one place for too long or move too many steps backward. The game is designed to keep you moving forward.
+**Q: 왜 갑자기 독수리가 날아와서 캐릭터를 잡아가나요?**  
+**A:** 한 자리에 너무 오래 머물거나, 뒤로만 계속 움직이면 독수리가 등장해
+게임을 강제 종료시킵니다. 게임 설계상 플레이어가 계속 앞으로 전진하도록 만드는
+장치라고 보면 됩니다.  
+

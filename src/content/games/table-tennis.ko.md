@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: table-tennis
-title: '[KO] Table Tennis'
+title: Table Tennis 탁구 게임
 description: >-
-  [KO] Master the paddle in this classic game of Table Tennis. Challenge the AI,
-  score points, and become a virtual ping-pong champion with precise timing and
-  swift reflexes.
+  Table Tennis는 빠른 랠리와 반사신경이 중요한 탁구 게임으로, AI와 겨루며 정확한 타이밍과 패들 조작으로 점수를 따는 스포츠
+  시뮬레이션입니다.
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/table-tennis.png
 tags:
@@ -19,29 +18,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Table Tennis is a fast-paced and engaging sports simulation game that brings the classic experience of ping-pong to your screen. Players compete against a computer-controlled opponent in a match where reflexes, timing, and strategy are key. The goal is to outscore your opponent by hitting the ball past them, adhering to the basic rules of table tennis. With intuitive controls and realistic physics, the game offers an accessible yet challenging experience for players of all skill levels.
+*Table Tennis*는 클래식 탁구 경기를 화면 속으로 옮겨 온 스포츠 게임입니다. 플레이어는
+컴퓨터 상대와 겨루며, 빠른 반사신경과 타이밍, 간단한 전술을 활용해 상대보다 더 많은
+점수를 따내야 합니다. 기본 규칙은 실제 탁구와 비슷하게, 공을 한 번 바운드시킨 뒤
+넘겨서 상대가 두 번 바운드시키거나 아웃을 내면 득점하는 방식입니다. 직관적인 조작과
+비교적 현실적인 물리 덕분에, 누구나 쉽게 입문할 수 있으면서도 고수끼리도 긴장감 있는
+랠리를 즐길 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** **Serve and Return:** Every point begins with a serve. The key is to hit the ball after it has bounced once on your side. When returning a shot, focus on the ball's trajectory and position your paddle accordingly.
-2.  **[KO]** **Positioning is Key:** Try to keep your paddle centered after each shot. This "reset" position allows you to react more effectively to your opponent's returns, whether they are to your left or right.
-3.  **[KO]** **Vary Your Shots:** Don't hit the ball to the same spot every time. Aim for the corners of the table to force your opponent to move, increasing the chances of them making a mistake. Mix up fast shots with slower, more strategic placements.
-4.  **[KO]** **Observe the Opponent:** Pay attention to the AI's positioning and shot patterns. Sometimes you can anticipate where they will hit the ball next, giving you a crucial advantage in positioning your paddle for the return.
+1. **서브와 리턴:** 모든 랠리는 서브에서 시작합니다. 공이 내 코트에 한 번 튄 뒤
+   적절한 타이밍에 패들로 맞춰야 하며, 리턴 시에는 공의 궤적과 높이를 보고 미리
+   패들을 위치시키는 것이 중요합니다.
+2. **기본 위치 잡기:** 한 번 샷을 친 뒤에는 패들을 다시 중앙 근처로 돌려놓는 습관을
+   들이세요. 이렇게 "리셋" 위치를 유지하면, 다음 공이 좌우 어느 쪽으로 와도 빠르게
+   대응할 수 있습니다.
+3. **코스 다양화:** 항상 같은 방향으로만 치지 말고, 테이블 양 코너를 번갈아 노려
+   상대를 움직이게 만드세요. 빠른 직선 공과 속도를 줄인 컨트롤 샷을 섞으면 상대의
+   타이밍을 무너뜨리기 좋습니다.
+4. **상대 패턴 관찰:** AI가 자주 보내는 코스와 실수하는 지점을 유심히 보면, 어느
+   쪽으로 공을 보냈을 때 실수가 많이 나는지 파악할 수 있습니다. 이를 반복적으로
+   공략하면 훨씬 쉽게 점수를 딸 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-*   **[KO]** **Mouse Movement:** The paddle's movement is directly tied to your mouse cursor.
-*   **[KO]** **Move Paddle:** Simply move your mouse left and right across your side of the table to position the paddle.
-*   **[KO]** **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
+- **마우스 이동:** 패들은 마우스 커서의 좌우 움직임에 따라 이동합니다.
+- **패들 조작:** 별도의 버튼을 누를 필요 없이, 공이 패들에 닿으면 자동으로
 
-### Frequently Asked Questions (FAQ)
+- **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
+  되받아칩니다. 이때 패들을 얼마나 빠르게, 어느 방향으로 움직이고 있었는지에 따라
+  공의 속도와 각도가 달라집니다.
 
-*   **[KO]** **Q: How do I score a point?**
-    *   **[KO]** **A:** You score a point when your opponent fails to return your shot, meaning the ball bounces twice on their side, they hit it into the net, or they hit it off the table.
-*   **[KO]** **Q: Can I put a spin on the ball?**
-    *   **[KO]** **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
-*   **[KO]** **Q: What is the winning score?**
-    *   **[KO]** **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 어떻게 점수를 얻나요?**  
+  **A:** 상대가 공을 되받지 못하고 두 번 바운드시키거나, 네트에 걸리거나,
+  테이블 밖으로 날려 버렸을 때 점수를 얻습니다.
+
+    - **Q: 공에 회전을 줄 수 있나요?**  
+  **A:** 별도의 회전 버튼은 없지만, 공을 칠 순간 패들을 빠르게 한쪽으로 움직이면
+  공의 궤도와 속도가 변해 실제 회전 샷과 비슷한 효과를 낼 수 있습니다.
+
+- **Q: 몇 점까지 하면 승리인가요?**  
+
+    - **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
+
+- **Q: What is the winning score?**
+
+    - **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
+  **A:** 일반적으로 11점 또는 21점을 먼저 달성한 쪽이 이기며, 최소 2점 차이로
+  앞서야 승리하는 방식이 많이 사용됩니다. 실제 규칙은 게임 모드에 따라 달라질 수
+  있습니다.

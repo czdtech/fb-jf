@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: light-line
-title: '[ES] Light Line'
+title: 'Light Line'
 description: >-
-  [ES] Light Line is a luminous path‑drawing puzzler — connect nodes without
-  crossings, manage energy, and solve with elegant routes.
+  Light Line es un rompecabezas de trazado de rutas luminosas: conecta nodos
+  sin cruces, gestiona la energía y resuelve niveles con rutas elegantes.
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/light-line.png
 tags:
@@ -15,35 +15,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+En Light Line debes dibujar caminos que no se crucen y conecten nodos
+brillantes respetando distintas restricciones: número máximo de giros, longitud
+limitada, pasos obligatorios o interruptores que abren y cierran compuertas. En
+los niveles avanzados aparecen tableros por capas donde varias líneas comparten
+energía.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Light Line tasks you with drawing non‑overlapping paths that connect glowing nodes while obeying constraints: maximum turns, limited line length, mandatory pass‑throughs, or switches that toggle gates. Later puzzles add layered boards with energy sharing between lines.
+1.  Empieza por los cuellos de botella: rellena primero los pasillos estrechos,
+    ya que fuerzan rutas casi únicas.
+2.  Usa la lógica de grados: prioriza los nodos con pocas salidas; resolverlos
+    reduce la ramificación del resto del tablero.
+3.  Ahorra giros: traza tramos largos y rectos y guarda los giros para las
+    esquinas que realmente los necesitan.
+4.  Temporiza las compuertas: planifica las rutas de los interruptores para que
+    las puertas estén abiertas cuando llegue la línea.
+5.  Deshaz pronto: si ves que los caminos se van a cruzar sí o sí, deshaz y
+    replantea la ruta cuanto antes.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Start with bottlenecks: Fill narrow corridors first; they force unique routes.
-2.  **[ES]** Degree logic: Prioritize nodes with few exits; resolve them to reduce branching.
-3.  **[ES]** Turn economy: Use long straight runs and save turns for corners that require them.
-4.  **[ES]** Gate timing: Plan switch routes so gates open before line arrival.
-5.  **[ES]** Backtrack early: Undo as soon as crossings become inevitable.
+- Arrastra para dibujar o borrar líneas, toca los interruptores y acerca/aleja o
+  desplaza la vista en tableros muy densos.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to draw/erase lines; tap switches; zoom/pan on dense boards.
+- Q: Mis líneas siempre chocan entre sí, ¿cómo lo evito?  
+  A: Traza primero los pasillos estrechos y usa esas rutas como estructura
+  principal; evita los patrones en espiral que encierran espacio.
 
-### Frequently Asked Questions (FAQ)
+- Q: ¿Se permiten movimientos en diagonal?  
+  A: Normalmente los movimientos son ortogonales en cuadrícula; revisa las
+  reglas de cada nivel.
 
-- Q: Lines always collide — how to avoid?
-
-A: Lay corridors first and route remaining lines around them; avoid spirals that trap space.
-
-- Q: Are diagonal moves allowed?
-
-A: Usually grid‑orthogonal; check the level rules.
-
-- Q: Is there a hint system?
-
-A: Many versions provide step or full‑path hints.
+- Q: ¿Hay sistema de pistas?  
+  A: Muchas versiones incluyen pistas paso a paso o soluciones completas que
+  puedes consultar si te bloqueas.
 

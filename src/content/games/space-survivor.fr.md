@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: space-survivor
-title: '[FR] Space Survivor'
-description: >-
-  [FR] Pilot your ship through endless waves of alien enemies in this thrilling
-  roguelike survival game. Collect XP, choose powerful upgrades, and see how
-  long you can survive the onslaught!
+title: Space Survivor
+description: "Pilote ton vaisseau face à des vagues infinies d’ennemis aliens dans ce roguelike de survie nerveux\_: récolte de l’XP, choisis des améliorations puissantes et vois combien de temps tu peux tenir face à l’assaut."
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/space-survivor.png
 tags:
@@ -19,33 +16,60 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
-Space Survivor is an action-packed, roguelike survival game in the style of "Vampire Survivors." You pilot a spaceship that attacks automatically, and your only job is to skillfully navigate through ever-growing hordes of alien enemies. By defeating foes and collecting the experience gems they drop, you will level up and be able to choose from a variety of powerful new weapons and upgrades. Each run is different, challenging you to create a unique and overpowered build to survive for as long as possible.
+Space Survivor est un roguelike de survie façon « Vampire Survivors ». Tu
+pilotes un vaisseau qui tire automatiquement ; ton seul vrai boulot est de
+te faufiler au milieu de hordes d’aliens qui ne cessent de grossir. En
+abattant les ennemis et en récupérant les gemmes d’XP qu’ils lâchent, tu
+montes de niveau et peux choisir de nouvelles armes ou améliorations
+puissantes. Chaque run est différente et t’invite à créer un build unique
+et complètement pété pour survivre le plus longtemps possible.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** **Focus on Survival:** In the early game, your top priority is not getting hit. Weave through the enemy swarms and focus on collecting the blue experience gems they drop. Your initial weapon is weak, so dodging is more important than trying to kill everything.
-2.  **[FR]** **Choose Your Upgrades Wisely:** Every time you level up, you get a choice of new weapons or upgrades. This is the core strategy of the game.
-    *   **[FR]** **Synergy:** Try to pick weapons that work well together. For example, a weapon that slows enemies combined with a short-range, high-damage aura can be very effective.
-    *   **[FR]** **Evolution:** Many weapons can be "evolved" into a much more powerful form if you have the correct corresponding passive item and have maxed out the weapon's level.
-3.  **[FR]** **Keep Moving:** Never stand still. The enemies will swarm your last known position. Constant movement is key to staying alive, especially in the later stages when the screen is full of enemies.
-4.  **[FR]** **Know When to Grab XP:** Sometimes it's dangerous to grab the XP gems immediately. It can be a good strategy to clear a large area first, then sweep back through to collect all the gems in safety.
+1.  **Priorité à la survie :** au début, l’important est de ne pas te
+    faire toucher. Faufile‑toi dans les groupes d’ennemis et concentre‑toi
+    sur la collecte des gemmes bleues d’expérience ; ton arme de base est
+    faible, donc l’esquive compte plus que le kill.
+2.  **Bien choisir tes upgrades :** à chaque niveau gagné, tu choisis entre
+    plusieurs armes ou passifs ; c’est le cœur du jeu.  
+    *   **Synergies :** choisis des armes qui se complètent (ex. un slow +
+        une aura courte portée mais très puissante).  
+    *   **Évolutions :** certaines armes peuvent évoluer en version
+        améliorée si tu possèdes le passif associé et les as montées au
+        niveau max.
+3.  **Toujours en mouvement :** ne reste jamais immobile, les ennemis
+    convergent vers ta dernière position. Le mouvement constant est vital,
+    surtout quand l’écran se remplit.
+4.  **Savoir quand ramasser l’XP :** parfois c’est trop dangereux de se
+    jeter sur les gemmes immédiatement. Nettoie une zone d’abord, puis
+    repasse dessus pour ramasser l’XP en sécurité.
 
-### Controls Guide
+### Commandes
 
-The game uses simple movement controls.
+Le jeu n’utilise que des contrôles de déplacement simples.  
+*   **Déplacer le vaisseau :** touches **WASD**, flèches ou clic‑glisser à
+    la souris.  
+*   **Attaques :** toutes les armes tirent automatiquement.
 
-*   **[FR]** **Move Ship:** Use the **WASD keys**, **Arrow Keys**, or click and drag your **mouse** to move your spaceship around the screen.
-*   **[FR]** **Attacking:** All of your weapons fire automatically.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q : Comment tirer ?**  
+    R : Tu ne tires pas manuellement ! Dans ce type de jeu, les armes
+    fonctionnent seules ; toi, tu te concentres sur les déplacements et
+    l’esquive.
 
-*   **[FR]** **Q: How do I shoot?**
-    *   **[FR]** **A:** You don't! The fun of a "survivor" style game is that all your weapons fire on their own. Your only job is to focus on expert movement and dodging.
+    - **Q : Comment obtenir de nouvelles armes et capacités ?**  
+    R : En ramassant les gemmes bleues. Quand ta barre d’XP est pleine, tu
+    montes de niveau et choisis parmi plusieurs armes / passifs aléatoires.
 
-*   **[FR]** **Q: How do I get new weapons and abilities?**
-    *   **[FR]** **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
+*   **Q : Quel est l’objectif ?**  
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
+    - **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
+
+- **Q: What is the goal of the game?**
+
+    - **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
+    R : Survivre un certain temps (par ex. 15 ou 30 minutes) ou, en mode
+    infini, tenir le plus longtemps possible face aux vagues d’ennemis.

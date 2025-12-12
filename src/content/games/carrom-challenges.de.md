@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: carrom-challenges
-title: '[DE] Carrom Challenges'
+title: "Carrom Challenges"
 description: >-
-  [DE] Carrom Challenges brings cue‑sport finesse to carrom — aim strikes,
-  control rebounds, and pocket with precision.
+  Carrom Challenges bringt Queue-Sport-Feeling auf das Carrom-Brett – ziele
+  präzise, kontrolliere Abpraller und loch deine Steine mit Feingefühl.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
 thumbnail: /new-images/carrom-challenges.png
 tags:
@@ -16,36 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Carrom Challenges* simuliert das klassische Tischspiel mit Striker und
+Carrom-Steinen. Mit dem Striker versuchst du, deine eigenen Steine (und
+möglichst auch die Dame mit anschließender Deckung) in die vier Ecktaschen zu
+spielen, während du Winkel, Tempo und Abpraller im Griff behältst. Fouls,
+Deckungsregeln und begrenzte Stöße sorgen für zusätzliche taktische Tiefe.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Carrom Challenges simulates the tabletop striker‑and‑carrommen game. Use the striker to pocket your pieces (and possibly the queen under cover) while controlling angles and rebound speed. Fouls, cover rules, and limited strokes add tactical depth.
+1.  Eröffnungsstoß: Verteile die Steine breit, ohne die Kontrolle über die
+    Mitte zu verlieren – und vermeide es, den Striker zu versenken.
+2.  Loch-Reihenfolge: Sichere dir früh einfache Deckungen für die Dame, damit
+    sie nach dem Versenken nicht ungeschützt liegen bleibt.
+3.  Tempokontrolle: Sanfte Stöße sind meist präziser und erzeugen weniger
+    unkontrollierte Abpraller.
+4.  Banden lernen: Präge dir typische Bandenwinkel ein, um schwierige Bälle
+    über die Bande zu lochen.
+5.  Safety-Shots: Gibt es keinen guten Offensivschuss, spiele bewusst defensiv
+    und lasse deinem Gegner eine unbequeme Lage zurück.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Opening break: Spread pieces while keeping center control; avoid scratching.
-2.  **[DE]** Pocket order: Secure easy covers for the queen; don’t leave it exposed.
-3.  **[DE]** Speed control: Gentle hits improve precision and reduce rebounds.
-4.  **[DE]** Bank lines: Learn common angles off the boards for tough pockets.
-5.  **[DE]** Safety: When no high‑percentage shot exists, leave opponents snookered.
+- Zielen, indem du den Zielbogen mit der Maus oder per Touch ziehst.
+- Stärke über einen Kraft-Regler einstellen und loslassen, um zu stoßen.
+- Im Regelmenü findest du Details zu Fouls und Damen-Deckung des aktuellen
+  Modus.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Aim by dragging the cursor arc; set power with the slider; release to strike.
-- Rules panel explains fouls/queen cover for the current mode.
+- Was bedeutet "die Dame decken"?
+  
+  Nachdem du die Dame versenkt hast, musst du im unmittelbar folgenden Stoß
+  einen eigenen Stein lochen. Gelingt das nicht, wird die Dame wieder in der
+  Brettmitte platziert.
 
-### Frequently Asked Questions (FAQ)
+- Wie vermeide ich Fouls durch Striker-Versenkung?
+  
+  Achte auf Abprallwinkel und reduziere die Schlagkraft bei dünnen Treffern,
+  damit der Striker nicht in einer Tasche landet.
 
-- Q: What is “covering the queen”?
-
-A: After pocketing the queen, you must pocket one of your own pieces in the next stroke; failing to do so returns the queen to the board.
-
-- Q: How to avoid scratches?
-
-A: Control rebound angles and reduce power on thin contacts.
-
-- Q: Are board speeds adjustable?
-
-A: Some versions provide friction settings; otherwise adapt with lighter strokes.
-
+- Kann ich die Geschwindigkeit des Brettes anpassen?
+  
+  Manche Versionen bieten Reibungs- oder Geschwindigkeitsoptionen. Wenn nicht,
+  passe dich mit feineren, kürzeren Stößen an das Brett an.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: snowboard-king-2024
-title: '[DE] Snowboard King 2024'
+title: Snowboard King 2024
 description: >-
-  [DE] Race down the mountain and outrun a deadly avalanche! Weave through trees
-  and rocks, collect coins, and upgrade your skills to become the Snowboard
-  King.
+  Rase den Berg hinab und entkomme einer tödlichen Lawine! Schlängle dich an
+  Bäumen und Felsen vorbei, sammle Münzen und verbessere deine Fähigkeiten, um
+  zum Snowboard King zu werden.
 iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
 thumbnail: /new-images/snowboard-king-2024.png
 tags:
@@ -17,32 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
+ mit deinem Board eine endlose Piste entlang, weichst Bäumen, Felsen und
+ anderen Hindernissen aus – während dir eine Lawine im Nacken sitzt. Je weiter
+ du kommst, desto schneller und fordernder wird die Abfahrt. Unterwegs sammelst
+ du Münzen, mit denen du deine Fähigkeiten verbessern und dir den Titel des
+ Snowboard King verdienen kannst.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Snowboard King 2024 is a thrilling, fast-paced arcade game where you snowboard down a treacherous, endless mountain slope. Your primary goal is to survive for as long as possible, skillfully navigating around obstacles like trees and rocks. Adding to the challenge, a deadly avalanche is constantly chasing you from behind, forcing you to maintain your speed and think fast. Collect coins along the way to upgrade your abilities and solidify your title as the Snowboard King.
+1.  **Weit voraus schauen:** Richte den Blick möglichst weit nach unten, um
+    kommende Hindernisse früh zu sehen und deine Linie rechtzeitig anzupassen.
+2.  **Sanfte Steuerung:** Vermeide abrupte, harte Richtungswechsel. Kleine,
+    kontrollierte Bewegungen helfen, zwischen Bäumen und Felsen hindurch zu
+    sliden.
+3.  **Boost klug einsetzen:** Der Boost verschafft dir einen Geschwindigkeitsschub,
+    der wichtig ist, um der Lawine zu entkommen – macht das Steuern aber
+    schwieriger. Nutze ihn nur auf relativ freien Abschnitten.
+4.  **Fähigkeiten upgraden:** Investiere gesammelte Münzen nach Läufen in
+    Werte wie Carve (Lenkgeschwindigkeit) und Boost-Dauer, damit spätere Runs
+    leichter fallen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Look Ahead:** The key to a long run is anticipation. Keep your eyes focused far down the slope to see upcoming obstacles and plan your path well in advance.
-2.  **[DE]** **Smooth Movements:** Avoid sharp, sudden turns. Make small, controlled movements to weave between trees and rocks. Over-steering can easily lead to a crash.
-3.  **[DE]** **Strategic Boosting:** Your boost gives you a burst of speed, which is essential for outrunning the avalanche. However, it also makes it harder to steer. Use your boost on long, clear stretches, not when you are navigating a dense forest of obstacles.
-4.  **[DE]** **Upgrade Your Skills:** Use the coins you collect to upgrade your snowboarder's abilities between runs. Improving your "Carve" (turning speed) and "Boost" will make subsequent runs much easier.
+*   **Lenken:** Mit **A/D** oder den Pfeiltasten links/rechts steuerst du dein
+    Board.
+*   **Boost:** Mit der **Leertaste** aktivierst du einen temporären
+    Geschwindigkeitsschub.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Steer:** Use the **A/D keys** or the **Left/Right Arrow keys** to steer your snowboarder.
-*   **[DE]** **Boost:** Press the **Spacebar** to activate a temporary speed boost.
+*   **F: Was ist das Hauptziel?**
+    **A:** So weit wie möglich den Berg hinabzufahren, ohne zu stürzen oder von
+    der Lawine eingeholt zu werden.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Was passiert bei einem Crash?**
+    **A:** Du prallst gegen das Hindernis und dein Lauf ist beendet.
 
-*   **[DE]** **Q: What is the main objective?**
-    *   **[DE]** **A:** To survive as long as possible by snowboarding down the mountain without crashing or being caught by the avalanche behind you.
+*   **F: Wie steigere ich meinen Score?**
 
-*   **[DE]** **Q: What happens if I hit a tree?**
-    *   **[DE]** **A:** You will crash, and your run will be over.
+    - **A:** Your score is based on the distance you travel. The farther you go, the higher your score. Upgrading your skills is the best way to improve your potential distance.
 
-*   **[DE]** **Q: How do I get a higher score?**
-    *   **[DE]** **A:** Your score is based on the distance you travel. The farther you go, the higher your score. Upgrading your skills is the best way to improve your potential distance.
+- **Q: How do I get a higher score?**
 
+    - **A:** You will crash, and your run will be over.
+    **A:** Dein Punktestand richtet sich nach der Distanz. Upgrades, gutes
+    Ausweichen und klug eingesetzter Boost helfen, weiter zu kommen.

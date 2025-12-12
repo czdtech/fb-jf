@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: crossword-puzzle
-title: '[ZH TRANSLATION NEEDED] Crossword Puzzle'
+title: "Crossword Puzzle 经典纵横填字"
 description: >-
-  [ZH TRANSLATION NEEDED] Crossword Puzzle is a classic word game: fill the grid
-  using across and down clues to complete the puzzle.
+  《Crossword Puzzle 经典纵横填字》是一款传统英文填字游戏。根据横向与纵向编号提示，将
+  单词填入方格，使所有交叉字母都相互匹配，最终完成整张网格。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/crossword-puzzle.jpg
 tags:
@@ -16,31 +16,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] A crossword puzzle is a word grid solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is checked by an intersecting word and grids typically have rotational symmetry; daily puzzles are often 15×15 and Sunday‑size 21×21. British/cryptic styles feature different clue conventions and grid patterns. 
+
+纵横填字（Crossword Puzzle）是一种通过横排（Across）与竖排（Down）提示来解网格的字谜
+游戏。玩家需要根据编号提示填入对应的英文单词，使得所有交叉的字母在横向、纵向都能成
+立。在美式风格的填字游戏中，几乎每一个字母都会被另一条单词交叉验证，网格通常具备 180
+° 旋转对称；日常谜题常见尺寸为 15×15，周末或周日特刊则可能达到 21×21。英式/隐语
+（cryptic）填字则在提示方式与网格结构上有不同传统。
 
 ### How to Play
-- Select a clue or cell, then type letters to fill the entry.  
-- Use arrow keys to move between cells; Backspace deletes; Enter or Tab often switches direction or advances to the next clue (varies by host).  
-- Cross‑checking: use intersecting letters to confirm uncertain answers.  
-- Many online versions provide Check/Reveal/Undo tools and timers.  
+
+- 选择某个提示或格子，然后直接输入字母以填入对应单词。  
+- 使用方向键在格子间移动；Backspace 用于删除，Enter 或 Tab 常用于切换方向或跳至下一条
+  提示（具体视托管站点而定）。  
+- 利用交叉字母验证自己不确定的答案，若交叉处出现矛盾，说明某处填错需要回查。  
+- 很多在线版本提供“检查/揭示/撤销”等功能以及计时器，可根据喜好选择是否开启。  
 
 ### Controls
-- Type A–Z to enter letters; arrow keys navigate.  
-- Backspace: delete previous letter.  
-- Enter/Tab: toggle direction or jump to next clue (site‑dependent).  
-- Mouse/touch: tap a clue list item to focus its entry.  
+
+- 直接输入 A–Z 键可在当前格子中填入字母，方向键用于在格子间移动。  
+- Backspace：删除前一个字母。  
+- Enter/Tab：切换横/竖方向或跳转到下一条提示（具体行为依网站实现而定）。  
+- 鼠标/触控：点击提示列表中的某条线索，可快速定位到相应起始格。  
 
 ### Tips and Strategies
-- Start with fill‑in‑the‑blank clues and plural/tense indicators (-S, -ED, -ING).  
-- Use cross letters to break tough entries; revisit long themers after filling nearby downs.  
-- Learn common abbreviations and crosswordese (abbr., init., alt. spellings).  
-- For cryptic/British styles, parse definition + wordplay components and indicator words.  
+
+- 先从最简单的提示入手，例如“填空题（fill‑in‑the‑blank）”、明显复数 (-S) 或时态标志
+  (-ED、-ING) 等，这些往往能快速提供大量交叉字母。  
+- 利用交叉字母破解难题：当你卡在某个长单词时，可以先转去填与之交叉的短词，等交叉字
+  母齐了再回头推理。  
+- 熟悉常见缩写、缩略词与“Crosswordese”（填字常客词），包括常用职称缩写、方位缩写、变
+  体拼写等。  
+- 在英式/隐语填字中，要学会拆分“定义 + 字谜结构”两部分，注意提示中的“指示词”（例如指
+  出变位、嵌套、同音等）的作用。  
 
 ### FAQ
-- Q: What’s the difference between American and British crosswords?  
-[ZH TRANSLATION NEEDED]   A: American grids usually have all letters cross‑checked and rotational symmetry; British cryptics use wordplay‑based clues and often allow unchecked letters.  
-- Q: What size is a typical daily puzzle?  
-[ZH TRANSLATION NEEDED]   A: Common sizes are 15×15 daily and 21×21 on Sundays (varies by publisher).  
-- Q: Are diacritics or punctuation required?  
-[ZH TRANSLATION NEEDED]   A: Most crosswords ignore punctuation and accents; fill letters only unless specified.  
 
+- **Q: 美式与英式填字有什么主要区别？**  
+  **A：** 美式网格通常要求所有字母都被交叉验证，并具备较严格的对称规则；英式尤其是
+  cryptic 类型，则更强调提示本身的字谜结构，网格中允许存在部分未被交叉验证的字母。  
+
+- **Q: 日常谜题通常有多大？**  
+  **A：** 常见是平日 15×15，周日或专题大谜题约为 21×21，不同出版方会略有差异。  
+
+- **Q: 需要输入音标、重音符号或标点吗？**  
+  **A：** 绝大多数填字游戏都忽略标点与重音，只需要按字母填入即可，除非题目特别说明需
+  要特殊符号。  

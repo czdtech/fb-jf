@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: night-watchman
-title: '[ES] Night Watchman'
+title: "Night Watchman - Guardia nocturno en un edificio maldito"
 description: >-
-  [ES] Night Watchman is a horror-survival game where players work as a night
-  guard, monitoring security cameras and managing limited resources to survive
-  against mysterious threats in a dark, abandoned building.
+  Night Watchman es un juego de terror y supervivencia en el que trabajas como
+  vigilante nocturno, controlando cámaras de seguridad y gestionando recursos
+  limitados para sobrevivir a amenazas misteriosas en un edificio abandonado.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
 thumbnail: /new-images/night-watchman.jpg
 tags:
@@ -18,33 +18,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+"Night Watchman" es un juego de terror y supervivencia en el que te pones en la
+piel de un guardia nocturno en un edificio oscuro y abandonado. Debes vigilar
+las cámaras de seguridad y administrar recursos limitados para sobrevivir a
+múltiples amenazas misteriosas hasta el amanecer. El juego se centra en la
+ambientación y la gestión de recursos, creando una experiencia tensa y
+sobrecogedora.
 
-### Game Introduction
+### Estrategia de juego
 
-"Night Watchman" is a horror-survival game where players work as a night guard in a dark, abandoned building. They must monitor security cameras and manage limited resources to survive against various mysterious threats until dawn. The game emphasizes atmosphere building and resource management, providing players with a tense and thrilling experience.
+1.  **Vigilar las cámaras:** controla con frecuencia los monitores para detectar
+    a tiempo anomalías y movimientos extraños.
+2.  **Gestionar la energía:** la energía es limitada; apaga luces innecesarias y
+    evita abusar de puertas o sistemas que consuman mucho.
+3.  **Bloquear accesos:** cuando una amenaza se acerque, cierra las puertas a
+    tiempo o usa los mecanismos defensivos disponibles para impedir que llegue a
+    tu oficina.
+4.  **Escuchar el sonido:** muchas pistas llegan por el audio; utiliza ruidos y
+    pasos para ubicar a las criaturas y anticipar sus movimientos.
+5.  **Adaptar la estrategia:** cada tipo de amenaza puede tener patrones y
+    puntos débiles distintos; observa, aprende y adapta tu rutina noche tras
+    noche.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Monitor Cameras**: Closely watch the security camera feeds to promptly detect anomalies and threats.
-2.  **[ES]** **Manage Resources**: Power is limited; rationally allocate power usage, such as turning off unnecessary lights or avoiding excessive use of certain equipment.
-3.  **[ES]** **Block Entrances**: When threats approach, quickly close doors or use other defensive measures to prevent them from entering your office.
-4.  **[ES]** **Listen to Sounds**: Sound cues are very important in the game; use sounds to determine the location and type of threats.
-5.  **[ES]** **Devise Strategies**: Develop corresponding strategies based on the characteristics and movement patterns of different threats.
+*   **Cambiar de cámara:** haz clic en los números de cámara en la interfaz o
+    usa atajos de teclado para alternar entre vistas de vigilancia.
+*   **Abrir/cerrar puertas y luces:** utiliza los botones de puertas y luces
+    para controlar su estado, siempre vigilando el consumo de energía.
+*   **Ver el mapa:** algunas versiones incluyen un mapa del edificio que te
+    ayuda a entender la distribución de salas y pasillos.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Switch Cameras**: Click on the camera numbers on the screen or use keyboard keys to switch between different surveillance views.
-*   **[ES]** **Open/Close Doors/Lights**: Click on door or light buttons to control their on/off state.
-*   **[ES]** **View Map**: Some game versions might offer a map feature to help players understand the building layout.
+1.  **P: Cuál es el objetivo principal?**  
+    **R:** Sobrevivir a varias noches de guardia resistiendo a las amenazas
+    hasta que llegue el amanecer.
 
-### Frequently Asked Questions
+2.  **P: Cómo enfrento a las distintas criaturas?**  
+    **R:** Cada amenaza suele reaccionar a estrategias específicas (cerrar
+    puertas, apagar luces, vigilar zonas concretas). Tendrás que observar y
+    experimentar para encontrar el mejor método contra cada una.
 
-1.  **[ES]** **Q: What is the objective of the game?**
-**A**: The objective is to survive several nights against horror threats until dawn.
-2.  **[ES]** **Q: How do I deal with different threats?**
-**A**: Different threats may have different weaknesses or ways to be dealt with; players need to observe and experiment to find the best strategy.
-3.  **[ES]** **Q: What happens if the power runs out?**
-**A**: Power depletion usually leads to the failure of monitoring systems and defensive facilities, putting players in greater danger.
-4.  **[ES]** **Q: Does the game have an ending?**
-**A**: The game usually has multiple endings, depending on the player's performance and decisions in the game.
+3.  **P: Qué pasa si se agota la energía?**  
+    **R:** Normalmente, perderás cámaras y sistemas defensivos, quedando casi
+    indefenso, lo que incrementa mucho el riesgo de ser atrapado.
+
+4.  **P: El juego tiene varios finales?**  
+    **R:** Muchas versiones incluyen finales diferentes según tu desempeño y las
+    decisiones que tomes durante las noches.

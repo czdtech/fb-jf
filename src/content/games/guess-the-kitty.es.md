@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: guess-the-kitty
-title: '[ES] Guess the Kitty'
+title: "Guess the Kitty"
 description: >-
-  [ES] Picture quiz with cats: deduce the correct breed/feature from images and
-  hints; progress through themed rounds.
+  Concurso visual con gatos: deduce la raza o rasgos correctos a partir de
+  imágenes y pistas, y avanza por rondas temáticas.
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/guess-the-kitty.jpg
 tags:
@@ -15,30 +15,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Guess the Kitty es un quiz ligero en el que tienes que identificar razas de
+gatos o rasgos distintivos a partir de fotos y pequeños enunciados. Las rondas
+pueden ser de opción múltiple, respuesta escrita o contrarreloj. La precisión y
+las rachas de aciertos hacen subir tu puntuación; las pistas consumen puntos.
 
+### Cómo jugar
 
-### Overview
-Guess the Kitty is a light quiz where you identify cat breeds or features from photos and prompts. Rounds may include multiple‑choice, fill‑in, or timed modes. Accuracy and streaks raise your score; hints cost points.
+- Observa bien los rasgos visibles (forma de las orejas, patrón del pelaje,
+  puntos de color, longitud de la cola, etc.).
+- Descarta primero las opciones claramente improbables antes de decidirte.
+- Usa las pistas con moderación; resérvalas para cuando dudes entre dos
+  respuestas.
 
-### How to Play
-- Study visible traits (ear shape, coat pattern, color points, tail length).
-- Eliminate unlikely options before committing.
-- Use hints sparingly; save them for near‑misses.
+### Guía de controles
 
-### Controls
-- Mouse/touch to select answers; keyboard for text entries when applicable.
+- Ratón o pantalla táctil para seleccionar respuestas; teclado para escribir
+  cuando el modo lo requiera.
 
-### Tips
-- Learn hallmark patterns (tabby M‑mark, tortoiseshell mottling, color‑point masks).
-- Compare head/ear silhouette to narrow families.
-- Don’t rush timed modes—streak bonuses outweigh one fast guess.
+### Consejos
 
-### FAQ
-- Q: How can I improve accuracy on similar breeds?
-A: Focus on ear set, muzzle shape, and coat pattern rather than color alone.
-- Q: Are hints worth using in the game?
-A: Only when you’ve narrowed to two choices; otherwise they waste points.
-- Q: Does the game include a practice mode?
-A: Some hosts include casual/practice rounds without timers.
+- Aprende patrones característicos: la “M” típica de los tabby, el moteado de
+  las tortoiseshell, las máscaras de los color‑point, etc.
+- Compara silueta de cabeza y orejas para acotar familias antes de fijarte en
+  detalles menores.
+- No te precipites en los modos contrarreloj; una buena racha vale más que un
+  solo acierto rápido.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo mejoro la precisión con razas muy parecidas?**  
+  **R:** Fíjate en la implantación de las orejas, la forma del hocico y el
+  patrón del pelaje más que en el color general.
+
+- **P: ¿Merece la pena gastar pistas?**  
+  **R:** Solo cuando ya hayas reducido las opciones a dos; si no, suelen ser un
+  desperdicio de puntos.
+
+- **P: ¿El juego tiene modo práctica?**  
+  **R:** Algunos portales incluyen rondas casuales sin límite de tiempo para
+  practicar.

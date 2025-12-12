@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: google-doodle-baseball
-title: '[FR] Google Doodle Baseball'
+title: Google Doodle Baseball
 description: >-
-  [FR] Pick‑up batting game from Google’s 4th of July doodle: time swings, aim
-  for gaps, and rack up runs before outs.
+  Petit jeu de batting issu du doodle du 4 juillet de Google : cale ton swing,
+  vise les espaces libres et enchaîne les points avant les retraits.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/google-doodle-baseball.jpg
 tags:
@@ -15,30 +15,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Google Doodle Baseball est un mini‑jeu de baseball où tu joues uniquement le batteur face à différents types de lancers. Le timing et le placement de tes frappes déterminent simples, doubles et home runs, tandis que des défenseurs cartoon essaient de rattraper tes balles. Pas de défense à gérer : concentre‑toi uniquement sur la régularité de ton batting et le choix de tes frappes.
 
+### Comment jouer
 
-### Overview
-Google’s playful baseball doodle casts you as a batter facing varied pitches. Timing and placement determine singles, doubles, and home runs, while comedic fielders try to catch fly balls. There’s no fielding—focus purely on batting consistency and shot selection.
+- Observe l’animation du lanceur et la vitesse de la balle ; déclenche ton swing lorsqu’elle arrive au marbre.
+- En avance ou en retard : un swing un peu en retard enverra la balle dans l’autre champ, alors qu’un swing légèrement en avance la « tire » de ton côté.
+- Évite les balles trop hautes (pop‑ups) : privilégie les frappes tendues (line drives) qui trouvent plus facilement les espaces.
 
-### How to Play
-- Watch the pitcher’s wind‑up and ball speed; swing when it crosses the plate.
-- Aim to pull or push based on timing; late swings send to opposite field.
-- Avoid pop‑ups; line drives find gaps more reliably.
+### Commandes
 
-### Controls
-- Tap/Click/Space to swing.
+- Clic / tap / barre d’espace pour frapper.
 
-### Tips
-- Don’t pre‑swing—react to release and location.
-- Slightly late contact often yields opposite‑field hits past infielders.
-- Reset rhythm after a miss; rushing compounds errors.
+### Foire aux questions (FAQ)
 
-### FAQ
+- Q : Pourquoi mes frappes finissent‑elles souvent en fly attrapé ?
+  
+  R : Tu swings probablement trop tôt ou trop fort. Essaie de viser des frappes plus rasantes et d’ajuster ton timing.
+
+- Q : Puis‑je contrôler la direction de la balle ?
+  
+  R : Principalement via le timing : un peu en retard pour l’opposite field, un peu en avance pour tirer la balle.
+
+- Q : Y a‑t‑il différents types de lancers ?
+  
+
 - Q: How do I hit consistent home runs?
-A: Meet the ball slightly out front at belt height; too high becomes an easy catch.
-- Q: Does pitch speed change during play?
-A: Yes, speeds vary; adjust your trigger point.
-- Q: Is progress saved?
+
+### Foire aux questions (FAQ)
+  R : Oui, la vitesse et la trajectoire peuvent varier. Regarde bien la préparation du lanceur pour anticiper.
+
+
+
 A: Scores are typically local to the session.
 
+- Q: Is progress saved?
+
+A: Yes, speeds vary; adjust your trigger point.
+
+- Q: Does pitch speed change during play?
+
+
+A: Scores are typically local to the session.
+
+- Q: Is progress saved?
+
+A: Yes, speeds vary; adjust your trigger point.

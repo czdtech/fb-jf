@@ -1,51 +1,86 @@
 ---
 locale: fr
 urlstr: crazy-cars
-title: '[FR] Crazy Cars'
-description: >-
-  [FR] Crazy Cars is a casual 3D driving and stunt racing game: explore a city
-  map, complete events, collect stars and wrenches, and perform jumps with nitro
-  in your browser.
-iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
-thumbnail: /new-images/crazy-cars.jpg
+title: Crazy Cars
+description: "Crazy Cars est un jeu de course arcade déjanté\_: évite le trafic, ramasse les bonus et slalome à toute vitesse pour aller le plus loin possible."
+iframeSrc: 'https://s3.eu-west-1.amazonaws.com/1001spiele/files/html5-games/134700.html'
+thumbnail: /new-images/crazy-cars.png
 tags:
   - racing
-  - driving
-  - stunts
-score: 3.6/5  (197 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - casual
+score: 3.9/5  (1475 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
+Crazy Cars te met au volant d’une voiture lancée sur une route sans fin, pleine
+de véhicules lents, de obstacles et parfois de pièces ou de boosts à ramasser.
 
-### Overview
-Crazy Cars is a casual browser driving game on a free‑roam city map with ramps, jump spots, and event markers. Explore to find races and time trials, collect stars and wrenches across rooftops and hidden corners, and unlock additional cars. Some hosts also include local split‑screen.
+Le but est de parcourir la plus grande distance possible sans emboutir les
+autres voitures ni sortir de la route, tout en profitant des bonus pour booster
+ta vitesse ou ton score.
 
-### How to Play
-- Explore the map to find activities: races, time trials, obstacle runs, and stunt areas.
-- Collectibles (stars/wrenches) are scattered around rooftops, ramps, and hidden spots.
-- Earn currency by completing events to unlock faster cars.
-- Use nitro on straights; line up carefully before large jumps.
+### Guide de jeu
 
-### Controls
-- WASD or Arrow Keys: Drive / steer
-- Space: Brake/handbrake (host‑dependent); Nitro where available
-- R: Reset vehicle
-- Esc/P: Pause/menu
+1.  **Reste concentré sur le trafic**  
+    Garde les yeux loin devant pour anticiper les voitures lentes ou les
+    changements de voie nécessaires.
+2.  **Ne zigzague pas inutilement**  
+    Des changements de voie trop fréquents augmentent le risque de collision.
+    Garde une trajectoire fluide et change seulement quand c’est nécessaire.
+3.  **Profite des boosts avec prudence**  
+    Les bonus de vitesse sont fun, mais rendent aussi le trafic plus difficile
+    à gérer. Utilise‑les lorsque la route est relativement dégagée.
+4.  **Ramasse pièces et bonus quand c’est sûr**  
+    Ne mets pas ta course en péril pour une seule pièce mal placée.
+5.  **Apprends la sensibilité des commandes**  
+    Chaque version a une réactivité légèrement différente. Fais quelques essais
+    pour t’habituer avant de chercher le record.
+
+### Commandes
+
+- **Diriger la voiture** : utilise les touches fléchées, A/D ou le gyroscope
+  (mobile) pour changer de voie.  
+- **Freiner / Booster** : selon la version, une touche ou icône permet de
+
 - Split‑screen: second player uses the other key set
 
-### Tips and Strategies
-- Feather the throttle during sharp turns to reduce understeer.
-- Approach big ramps straight and at speed; avoid mid‑air steering corrections.
-- Use the handbrake to initiate controlled drifts for tight corners.
+- Esc/P: Pause/menu
+
+- R: Reset vehicle
+  ralentir ou d’activer un turbo.
+
+### Foire aux questions (FAQ)
+
+
+- Q: How do I unlock more cars?
+
+
 - Grab nearby wrenches early to repair after heavy landings.
 
-### FAQ
-- Q: How do I unlock more cars?
-A: Complete races and collect items to earn currency; spend it in the garage.  
+- Use the handbrake to initiate controlled drifts for tight corners.
+
+- Approach big ramps straight and at speed; avoid mid‑air steering corrections.
+### Foire aux questions (FAQ)
+
+- Grab nearby wrenches early to repair after heavy landings.
+
+- Use the handbrake to initiate controlled drifts for tight corners.
+
+- Approach big ramps straight and at speed; avoid mid‑air steering corrections.
+
+- Feather the throttle during sharp turns to reduce understeer.
+**Q : Le jeu propose‑t‑il des niveaux ou seulement un mode infini ?**  
+
 - Q: Is there multiplayer?
-A: Some browser versions offer local split‑screen; online multiplayer is typically not included.  
+R : La plupart des versions misent sur un mode infini, mais certaines ajoutent
+
 - Q: My car flipped over—what now?
-A: Press R to reset near your last position.  
+  des défis ou missions spécifiques.
+
+**Q : Puis‑je améliorer ma voiture ?**  
+R : Selon le port, tu peux débloquer de nouveaux véhicules ou upgrades
+  esthétiques/performances en accumulant des pièces.

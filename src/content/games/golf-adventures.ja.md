@@ -1,82 +1,41 @@
 ---
+title: "Golf Adventures"
+description: "ゴルフの冒険に出かけよう！ボールを狙ってカップに入れる物理パズルゲーム。トリッキーな障害物や想像力豊かなコースを、できるだけ少ない打数で攻略しましょう。"
+iframeSrc: "https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/"
+thumbnail: "/new-images/golf-adventures.png"
+urlstr: "golf-adventures"
+score: "4.2/5  (1950 votes)"
+tags: ["sports", "puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: golf-adventures
-title: '[JA TRANSLATION NEEDED] Golf Adventures'
-description: >-
-  [JA TRANSLATION NEEDED] Go on a Golf Adventure! A physics-based puzzle game
-  where you aim your ball to get it in the hole, navigating tricky obstacles and
-  imaginative courses in as few strokes as possible.
-iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
-thumbnail: /new-images/golf-adventures.png
-tags:
-  - sports
-  - puzzle
-  - casual
-score: 4.2/5  (1950 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Golf Adventuresは、ゴルフのメカニクスを使った楽しく想像力豊かなパズルゲームです。リアルなゴルフコースの代わりに、ユニークな障害物でいっぱいの、創造的でやりがいのあるレベルが待ち受けています。目的はシンプル。できるだけ少ない打数でボールをカップに入れることです。角度、パワー、そして賢い問題解決能力が試されるゲームです。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Golf Adventures is a fun and imaginative puzzle game that uses the mechanics of golf. Instead of a realistic golf course, you'll find yourself in a series of creative and challenging levels filled with unique obstacles. The goal is simple: get the ball into the hole in as few strokes as possible. It's a game of angles, power, and clever problem-solving.
+1.  **ショットを計画する:** 打つ前に、レベル全体を見渡しましょう。障害物、傾斜、カップの位置を観察します。最短ルートが常に最良とは限りません。
+2.  **パワーをマスターする:** 引っ張る距離によってショットの強さが決まります。距離に応じた適切なパワーの感覚を掴むことが鍵です。物理挙動に慣れるまでは、優しいショットから始めましょう。
+3.  **環境を利用する:** 多くのレベルは、壁や障害物を利用するように設計されています。壁にボールを反射させる（バンクショット）ことが、障害物を避けてカップに近づく唯一の方法かもしれません。
+4.  **パー以上を目指す:** 各ホールには、熟練したプレイヤーが完了するのにかかると想定される打数「パー」が設定されています。パーまたはそれより良いスコア（1打少ない「バーディ」、2打少ない「イーグル」）を目指しましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Plan Your Shot:** Before you shoot, take a look at the entire level. Observe the obstacles, the slopes, and the position of the hole. The shortest path is not always the best one.
-[JA TRANSLATION NEEDED] 2.  **Master the Power:** The distance you pull back determines the power of your shot. Getting a feel for how much power is needed for different distances is key. Start with gentle shots until you get a feel for the physics.
-[JA TRANSLATION NEEDED] 3.  **Use the Environment:** Many levels are designed for you to use the walls and obstacles to your advantage. Bouncing the ball off a wall (a "bank shot") might be the only way to get around an obstacle and close to the hole.
-[JA TRANSLATION NEEDED] 4.  **Aim for Par or Better:** Each hole has a "Par," which is the target number of strokes for a skilled player. Your goal is to meet or beat par (a "Birdie" is one under par, an "Eagle" is two under).
+ゲームはシンプルなドラッグ＆リリース（引っ張って離す）操作を使用します。
 
-### Controls Guide
+*   **狙いとパワー設定:** ゴルフボールをクリックしてマウスボタンを押したままにします。カーソルをボールから離れる方向にドラッグします。狙いを示す線が表示され、ドラッグする距離によってパワーが決まります。
+*   **シュート:** マウスボタンを離してボールを打ちます。
 
-[JA TRANSLATION NEEDED] The game uses a simple drag-and-release mechanic.
+### よくある質問 (FAQ)
 
-*   **Aim and Set Power:** Click on the golf ball and hold the mouse button. Drag your cursor away from the ball. A line will appear showing your aim, and the distance you drag determines the power.
-    - **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.（日本語訳が必要）
-    - **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.（日本語訳が必要）
-    - **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.（日本語訳が必要）
-    - **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.（日本語訳が必要）
-    - **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.（日本語訳が必要）
-    - **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.（日本語訳が必要）
-*   **Shoot:** Release the mouse button to hit the ball.
+*   **Q: 「パー」とはどういう意味ですか？**
+    *   **A:** パーは、そのホールを完了するのにかかると予想される基準の打数です。もしホールがパー3なら、3打以内に入れることが目標です。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ボールがウォーターハザード（水）に落ちたらどうなりますか？**
+    *   **A:** ボールは前の位置に戻され、ペナルティとして1打加えられます。
 
-*   **Q: What does "Par" mean?**
-[JA TRANSLATION NEEDED]     *   **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.
-
-*   **Q: What happens if my ball goes into a water hazard?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
-
-*   **Q: How do I get past a large wall?**
-
-
-
-
-
-
-
-
-    - **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
-- **Q: How do I get past a large wall?**
-    - **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
-- **Q: What happens if my ball goes into a water hazard?**
-    - **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.
-- **Q: What does "Par" mean?**
-### よくある質問（FAQ）
-- **Shoot:** Release the mouse button to hit the ball.
-
-
-
-
-
-    - **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
-- **Q: How do I get past a large wall?**
-    - **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
-- **Q: What happens if my ball goes into a water hazard?**
-    - **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.
-[JA TRANSLATION NEEDED]     *   **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
+*   **Q: 大きな壁を越えるには？**
+    *   **A:** 坂道や他のオブジェクトを探しましょう。一部のレベルでは、坂を登って障害物を飛び越える必要があります。また、別の壁に反射させて回り込む必要がある場合もあります。

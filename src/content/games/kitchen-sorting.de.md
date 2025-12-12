@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: kitchen-sorting
-title: '[DE] Kitchen Sorting'
+title: "Kitchen Sorting"
 description: >-
-  [DE] Kitchen Sorting is a tidy categorization puzzler — sort foods, tools, and
-  waste correctly under time pressure while avoiding cross‑contamination.
+  Kitchen Sorting ist ein aufgeräumtes Sortier-Puzzle: Ordne Lebensmittel,
+  Küchenutensilien und Abfall unter Zeitdruck den richtigen Behältern zu und
+  vermeide Kreuzkontamination.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/kitchen-sorting.png
 tags:
@@ -16,36 +17,62 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Kitchen Sorting ist ein schnelles, visuelles Logikspiel, in dem du Gegenstände
+in die richtigen Behälter sortierst: Obst und Gemüse vs. Fleisch, Recycling vs.
+Restmüll, saubere vs. schmutzige Werkzeuge, heiße vs. kalte Lagerung und mehr.
 
+Mit steigender Schwierigkeit kommen irreführende Sonderfälle hinzu
+(z. B. gekocht vs. roh), Komboziele wie „drei sichere Gegenstände in Folge
+korrekt sortieren“ und empfindliche Strafsysteme für falsche Zuordnungen oder
+langes Zögern. Später laufen mehrere Förderbänder gleichzeitig und strengere
+Hygieneregeln bestrafen jede Form von Kreuzkontamination.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Kitchen Sorting is a fast, visual logic game about placing items into correct bins: produce vs meats, recyclables vs trash, clean tools vs dirty ones, hot vs cold storage, etc. Levels add misleaders (e.g., cooked vs raw), combo objectives (sort three safe items in a row), and penalties for wrong placement or delays. Difficulty rises with simultaneous conveyors and stricter hygiene rules that punish cross‑contamination.
+1.  **Die wichtigsten Regeln zuerst**  
+    Priorisiere Trennungen, die für Hygiene entscheidend sind – etwa rohes
+    Fleisch von verzehrfertigen Lebensmitteln fernhalten – bevor du dich um
+    feinere Kategorien kümmerst.
 
-### Gameplay Strategy & Walkthrough
+2.  **Auf Symbole achten**  
+    Lerne die Bildsprache des Spiels: Recycling-Symbole, Thermometer-Icons oder
+    Farbmarkierungen helfen dir, Entscheidungen blitzschnell zu treffen.
 
-1.  **[DE]** Big rules first: Prioritize health‑critical splits (raw meats vs ready‑to‑eat) before fine categories.
-2.  **[DE]** Visual cues: Learn iconography (recycle marks, thermometer symbols) to speed decisions.
-3.  **[DE]** Buffering: If allowed, park unclear items briefly to avoid mistakes under rush.
-4.  **[DE]** Combo routing: Chain easy items to maintain streak multipliers; insert tricky items during lulls.
-5.  **[DE]** Error control: One mistake costs more than a slight delay — skip uncertain picks.
+3.  **Pufferzone nutzen**  
+    Wenn das Spiel es erlaubt, parke unklare Gegenstände kurz an einem sicheren
+    Ort, statt unter Zeitdruck falsch zu sortieren.
 
-### Controls Guide
+4.  **Kombos planen**  
+    Nutze einfache, eindeutige Gegenstände, um Serien für
+    Punkte- oder Zeit-Boni aufzubauen. Schwierige Fälle sortierst du in ruhigen
+    Momenten ein.
 
-- Drag or tap items into labeled bins; pause/retry via UI; hints may highlight correct zones.
+5.  **Fehler minimieren**  
+    Ein grober Hygiene-Fehler wiegt oft schwerer als ein kleiner Zeitverlust.
+    Wenn du unsicher bist, lass einen Gegenstand lieber kurz liegen, statt
+    ihn in den falschen Behälter zu werfen.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I confuse recyclables and trash — any advice?
+- **Sortieren:** Ziehe oder tippe Gegenstände in die beschrifteten Behälter.
+- **Bedienoberfläche:** Über die UI kannst du pausieren, neu starten oder
+  Hinweise aktivieren, die dir die korrekte Kategorie zeigen.
 
-A: Memorize a few anchors (glass, cans, cardboard) as “always recycle”; uncertain plastics go to trash unless labeled.
+### FAQ
 
-- Q: Combo streaks keep breaking.
+- **F: Ich verwechsle ständig Recycling und Restmüll – was kann ich tun?**  
+  **A:** Präge dir ein paar „sichere“ Beispiele ein: Glas, Dosen und Karton
+  gehören fast immer in den Recyclingbehälter. Unsichere Kunststoffe kannst du
+  im Zweifel eher zum Restmüll geben, sofern sie nicht eindeutig markiert sind.
 
-A: Feed easy items first to stabilize streaks, then slip harder ones during slowdowns.
+- **F: Meine Komboserien brechen ständig ab.**  
+  **A:** Sortiere zuerst leichte, eindeutige Gegenstände, um deine Serie zu
+  stabilisieren. Schwierige Objekte verschiebst du auf Momente mit weniger
+  Andrang.
 
-- Q: Are penalties harsh?
-
-A: Later levels penalize hygiene mistakes heavily; skip if unsure rather than risking a red mark.
-
+- **F: Sind die Strafen wirklich so hart?**  
+  **A:** In späteren Levels werden Hygieneverstöße stark geahndet. Es ist oft
+  besser, einen Gegenstand kurz zu überspringen, als durch eine Fehlzuordnung
+  eine hohe Strafe zu kassieren.

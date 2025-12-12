@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: element-blocks
-title: '[ES] Element Blocks'
+title: Element Blocks
 description: >-
-  [ES] A strategic block puzzle game with a twist. Place elemental blocks to
-  clear lines, and collect stars to unleash powerful boosters. Plan your moves
-  carefully to master the grid!
+  Element Blocks es un puzle de bloques estratégico con un giro especial. Coloca
+  bloques elementales para limpiar líneas y reúne estrellas para activar
+  potentes potenciadores. Piensa cada movimiento para dominar la cuadrícula.
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/element-blocks.png
 tags:
@@ -17,33 +17,55 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Element Blocks es un puzle calmado pero muy estratégico que parte de la fórmula
+clásica del tablero 10x10. Colocas piezas de distintas formas (al estilo
+Tetris), aquí representadas como bloques elementales, en una cuadrícula de
+10x10. El objetivo es completar líneas horizontales o verticales para
+eliminarlas. La novedad está en el sistema de estrellas y potenciadores, que te
+ofrece herramientas tácticas para salir de situaciones complicadas y alargar la
+partida.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Element Blocks is a calm yet strategic puzzle game that builds on the popular 10x10 block puzzle formula. Players place various Tetris-like shapes, themed as elemental blocks, onto a 10x10 grid. The goal is to fill and clear complete lines either horizontally or vertically. What sets this game apart is the addition of a star collection and power-up system, providing a strategic tool to get you out of difficult situations and extend your game.
+1.  **Reglas estándar 10x10:** Siempre tendrás tres piezas disponibles a la vez.
+    Debes colocar las tres en el tablero antes de que aparezca un nuevo trío.
+    No se pueden rotar, así que debes aprovecharlas tal cual llegan.
+2.  **Recolección de estrellas:** Algunas piezas aparecen con estrellas
+    incrustadas. Cuando limpias una línea que contiene uno de estos bloques,
+    recoges esa estrella. Son la "moneda" para activar potenciadores.
+3.  **Uso inteligente de potenciadores:** Las estrellas se gastan en
+    potenciadores muy útiles: bombas que limpian áreas pequeñas, rayos que destruyen una línea
+    entera, etc. Guárdalos para cuando estés realmente bloqueado y no puedas
+    colocar bien las piezas.
+4.  **Piensa en las formas futuras:** No coloques un bloque solo porque "cabe".
+    Mira las otras dos piezas del turno y el espacio restante. Intenta que el
+    hueco que dejas no haga imposible colocar el resto. La partida acaba cuando
+    no puedes situar ninguna de las tres piezas.
+5.  **Busca combos:** Eliminar varias líneas con una sola jugada genera combos y
+    una gran bonificación de puntuación. Siempre que puedas, prepara el tablero para
+    limpiar más de una fila o columna a la vez.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Standard 10x10 Rules:** You are given three block shapes at a time. You must place all three on the board before a new set appears. The blocks cannot be rotated.
-2.  **[ES]** **Collect Stars:** Occasionally, blocks will appear with stars embedded in them. When you clear a line that includes one of these special blocks, you collect the star. These stars are the currency for using power-ups.
-3.  **[ES]** **Use Power-ups Wisely:** Collected stars can be spent on powerful boosters. These might include a bomb to clear a small area, a lightning bolt to destroy a single line, or other helpful tools. Save these for when you are truly stuck and have no other good moves.
-4.  **[ES]** **Think About Future Shapes:** Don't just place a block where it fits now. Look at the other two shapes you have and try to place the current one in a way that leaves room for the others. The game ends when you can't place any of the three given shapes.
-5.  **[ES]** **Maximize Combos:** Clearing multiple lines with a single block placement is called a combo and will grant you a significant score bonus. Always be on the lookout for combo opportunities.
+*   **Colocar bloques:** Arrastra con el ratón o el dedo una pieza desde la
+    bandeja inferior hasta la posición elegida en la cuadrícula y suéltala.
+*   **Usar potenciadores:** Haz clic en el icono del potenciador cuando tengas
+    suficientes estrellas y después en la casilla o línea donde quieras aplicarlo.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
-*   **[ES]** **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
+*   **P: ¿Cómo consigo estrellas exactamente?**  
+    - **R:** Cada vez que limpias una línea que contiene uno o más bloques con
+      estrella, las añades a tu reserva.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Se pueden rotar las piezas?**  
+    - **R:** No. La imposibilidad de rotarlas es parte del reto: debes planear tus
+      colocaciones según las formas tal y como aparecen.
 
-*   **[ES]** **Q: How do I get stars?**
-    *   **[ES]** **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
+- **P: ¿Cuál es la mejor forma de gastar las estrellas?**
 
-*   **[ES]** **Q: Can I rotate the blocks?**
-    *   **[ES]** **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
-
-*   **[ES]** **Q: What is the best way to use my stars?**
-    *   **[ES]** **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-
+    - **R:** Lo mejor es guardarlas para emergencias. Cuando el tablero esté casi lleno
+      y veas que una de las próximas piezas no encaja, usa un potenciador para limpiar
+      un área o una línea clave y ganar margen para seguir sumando puntos.

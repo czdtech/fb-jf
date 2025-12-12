@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: carrom-clash
-title: '[DE] Carrom Clash'
+title: "Carrom Clash"
 description: >-
-  [DE] Experience the classic tabletop game of Carrom on your device! Aim your
-  striker, pocket your pieces, and cover the queen to defeat your opponent in
-  this game of skill and precision.
+  Erlebe das klassische Carrom-Brettspiel auf deinem Gerät. Ziele mit dem
+  Striker, loch deine Steine und decke die Dame, um deinen Gegner in diesem
+  Präzisions- und Taktikspiel zu schlagen.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/carrom-clash.png
 tags:
@@ -17,33 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Carrom Clash* ist eine realistische digitale Umsetzung des beliebten
+"Strike-and-Pocket"-Spiels Carrom. Oft als Finger-Billard beschrieben,
+versuchst du mit einem größeren Spielstein, dem Striker, deine eigenen Steine
+(schwarz oder weiß) in die vier Ecktaschen zu schnippen. Präzision, ein gutes
+Gefühl für Winkel und kluge Taktik entscheiden darüber, wer seine Steine zuerst
+vollständig abräumt.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Carrom Clash is a realistic digital version of the beloved tabletop "strike and pocket" game, Carrom. Often described as finger billiards, the game challenges you to use a larger disc, the "striker," to flick your set of assigned pieces (either black or white) into the four corner pockets. The game requires precision, strategy, and a good understanding of angles to outmaneuver your opponent and clear your pieces first.
+1.  Ziel des Spiels: Sei der erste Spieler, der alle eigenen Steine versenkt –
+    und zusätzlich die rote Dame korrekt deckt.
+2.  Eigene Steine lochen: Du spielst den Striker von deiner Grundlinie aus. Wenn
+    du dabei einen eigenen Stein versenkst, darfst du direkt einen weiteren
+    Stoß ausführen.
+3.  Die Dame: Die rote Dame ist eine Sonderfigur. Du darfst sie nach deinem
+    ersten versenkten Stein jederzeit lochen, musst aber im unmittelbar
+    folgenden Stoß einen eigenen Stein hinterher versenken. Nur dann bleibt die
+    Dame aus dem Spiel – sonst wird sie in der Brettmitte neu aufgelegt.
+4.  Fouls vermeiden: Versenkst du den Striker, begehst du ein Foul. In der
+    Regel musst du dafür einen bereits versenkten eigenen Stein wieder in die
+    Mitte zurücklegen, und dein Zug ist beendet.
+5.  Banden nutzen: Nutze die Brettkanten wie beim Billard. Über Bandenstöße
+    erreichst du auch ungünstig liegende Steine oder legst taktische Safeties.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **The Objective:** Be the first player to pocket all of your pieces (black or white). To win, you must also pocket and "cover" the red Queen.
-2.  **[DE]** **Pocketing Your Pieces:** On your turn, you shoot the striker from your baseline. If you successfully pocket one of your own pieces, you get to shoot again.
-3.  **[DE]** **The Queen:** The red Queen is a special piece. You can pocket it any time after you've sunk your first piece. However, to secure the points for the Queen, you *must* sink one of your own pieces immediately on the very next shot. This is called "covering the Queen."
-4.  **[DE]** **Fouls:** Be careful not to pocket your striker! This is a foul and results in a penalty, where one of your already pocketed pieces is returned to the center of the board.
-5.  **[DE]** **Bank Shots:** Use the sides of the board to your advantage. Bouncing the striker off the edges can help you hit pieces that are in difficult positions.
+*   Striker positionieren: Ziehe den Striker mit der Maus oder per Touch an die
+    gewünschte Position auf deiner Grundlinie.
+*   Zielen & Stoßen: Klicke auf den Striker und ziehe ihn zurück – eine
+    Ziellinie zeigt Richtung und Stärke an. Je weiter du ziehst, desto stärker
+    der Stoß. Lass los, um zu schießen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Position Striker:** Click and drag the striker left and right along your baseline to position it for your shot.
-*   **[DE]** **Aim and Shoot:** Click on the striker and pull back. An aiming line will appear. The further you pull back, the more powerful your shot will be. Release to shoot.
+*   F: Was bedeutet es, die Dame zu "decken"?
+    *   A: Hast du die rote Dame regelkonform versenkt, musst du im nächsten
+        Stoß derselben Runde einen eigenen Stein lochen. Gelingt das nicht,
+        wird die Dame zurück in die Mitte gelegt.
 
-### Frequently Asked Questions (FAQ)
+*   F: Was passiert, wenn ich den Striker versenke?
+    *   A: Das gilt als Foul. Du verlierst deinen Zug und musst meist einen
+        bereits versenkten eigenen Stein zurück ins Spiel bringen.
 
-*   **[DE]** **Q: What does it mean to "cover the Queen"?**
-    *   **[DE]** **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.
-
-*   **[DE]** **Q: What happens if I pocket the striker?**
-    *   **[DE]** **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
-
-*   **[DE]** **Q: What if I pocket my opponent's piece?**
-    *   **[DE]** **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
-
+*   F: Was, wenn ich einen gegnerischen Stein loche?
+    *   A: In der Regel endet dein Zug sofort. Du erhältst keinen Bonusstoß –
+        weiter geht es erst wieder, wenn du eigene Steine versenkst.

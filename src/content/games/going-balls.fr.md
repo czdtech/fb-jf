@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: going-balls
-title: '[FR] Going Balls'
+title: Going Balls
 description: >-
-  [FR] 3D ball‑rolling obstacle runner: balance across beams and traps, collect
-  coins, and reach the goal without falling.
+  Runner 3D de bille sur obstacles : garde l’équilibre sur poutres et pièges,
+  collecte des pièces et atteins l’arrivée sans tomber dans le vide.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/going-balls.jpg
@@ -16,30 +16,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Going Balls est un runner de type « tilt‑and‑roll » sur des pistes étroites remplies de poutres, bumpers, marteaux et plateformes mobiles. La précision est essentielle : de petites corrections de direction gardent ta bille en équilibre, tandis qu’une vitesse incontrôlée t’enverra immédiatement dans le vide. Les niveaux introduisent des mécaniques comme des aimants, des rampes ou des rails ; les pièces permettent de débloquer de nouvelles billes cosmétiques et parfois des continues.
 
+### Comment jouer
 
-### Overview
-Going Balls is a tilt‑and‑roll style runner on narrow tracks filled with beams, bumpers, hammers, and moving platforms. Precision matters: small steering inputs maintain balance, while reckless speed sends you off the edge. Stages introduce gimmicks like magnets, ramps, and zip tracks; coins unlock cosmetic balls and continues.
+- Dose ta direction pour rester centré sur les poutres ; freine avant les virages serrés.
+- Observe le timing des obstacles mobiles (marteaux, pousseurs) et passe pendant leur temps de récupération.
+- Ramasse les pièces et clés en suivant les trajectoires les plus sûres, sans tenter des détours trop risqués.
 
-### How to Play
-- Feather steering to stay centered on beams; brake before sharp turns.
-- Time moving obstacles (hammers, pushers) and cross in their recovery windows.
-- Collect coins and keys along safer lines—don’t overreach.
+### Commandes
 
-### Controls
-- WASD/Arrows or drag to steer; Space/brake where available; R to retry (host dependent).
+- `WASD` / flèches ou glisser pour diriger la bille.  
+- `Espace` : freiner (selon la version).  
+- `R` : recommencer le niveau (si disponible).
 
-### Tips
-- Look ahead; line up early for narrow entries.
-- On steep ramps, build speed first, then steer minimally.
-- If you start wobbling, slow down to re‑center.
+### Foire aux questions (FAQ)
 
-### FAQ
+- Q : Comment arrêter de tomber sur les poutres étroites ?
+  
+  R : Réduis l’amplitude de tes mouvements et approche bien dans l’axe. Ne corrige qu’avec de très petits ajustements.
+
+- Q : À quoi servent les pièces ?
+  
+  R : Principalement à débloquer des skins de billes. Sur certains hôtes, elles servent aussi à acheter des continues ou à ouvrir des niveaux bonus.
+
+- Q : Y a‑t‑il des checkpoints dans les niveaux longs ?
+  
+
 - Q: How can I stop falling off narrow beams?
-A: Reduce steering amplitude and approach straight on; micro‑correct only.
-- Q: What do coins unlock in the game?
-A: Cosmetics and, on some hosts, continues or bonus levels.
-- Q: Are there checkpoints in longer stages?
+
+### Foire aux questions (FAQ)
+  R : Beaucoup de stages proposent des checkpoints intermédiaires ; les modes infinis, eux, t’obligent souvent à repartir de zéro.
+
+
+
 A: Many levels include mid‑checkpoints; endless modes typically do not.
 
+- Q: Are there checkpoints in longer stages?
+
+A: Cosmetics and, on some hosts, continues or bonus levels.
+
+- Q: What do coins unlock in the game?
+
+
+A: Many levels include mid‑checkpoints; endless modes typically do not.
+
+- Q: Are there checkpoints in longer stages?
+
+A: Cosmetics and, on some hosts, continues or bonus levels.

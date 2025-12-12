@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: freekick-football
-title: '[ES] Freekick Football'
+title: Freekick Football
 description: >-
-  [ES] Test your free-kick skills in Freekick Football. Aim, shoot, and score to
-  become a free-kick master.
+  Pon a prueba tu talento a balón parado en Freekick Football: apunta, chuta y
+  marca para convertirte en un maestro de los tiros libres.
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/freekick-football.png
 tags:
@@ -16,27 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Freekick Football se centra en el arte del tiro libre en el fútbol. El reto es
+marcar goles desde distintas posiciones a balón parado, superando la barrera y
+al portero. El juego pone a prueba tu precisión, tu sincronización y tu comprensión de
+la física del balón.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Freekick Football is a game that focuses on the art of the free kick in soccer. Players are challenged to score goals from various set-piece situations, navigating past defensive walls and the goalkeeper. The game tests your precision, timing, and understanding of ball physics.
+1. **Apuntar:** Ajusta con cuidado la dirección del disparo para encontrar un
+   camino hacia la portería. Ten en cuenta la posición de la barrera y del
+   guardameta.
+2. **Potencia:** Aplica la fuerza adecuada. Si te quedas corto, el balón no
+   superará la barrera; si te pasas, se irá fuera.
+3. **Efecto:** Usa el efecto para curvar el balón alrededor de la barrera y
+   alejarlo del portero. Es clave para marcar en las situaciones más difíciles.
+4. **Analiza cada situación:** Antes de cada lanzamiento, valora la distancia,
+   la colocación de la barrera y la postura del portero para elegir la mejor
+   estrategia.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Aiming:** Carefully aim your shot to find a path to the goal. Consider the position of the wall and the goalkeeper.
-2.  **[ES]** **Power:** Apply the right amount of power. Too little, and you won't clear the wall; too much, and you'll miss the goal.
-3.  **[ES]** **Curve/Spin:** Use spin to bend the ball around the wall and away from the goalkeeper. This is key to scoring in difficult situations.
-4.  **[ES]** **Analyze the Situation:** Before each kick, assess the distance, the wall's position, and the keeper's stance to choose the best strategy.
+- **Ratón/Pantalla táctil:** Usa el ratón o la pantalla táctil para apuntar,
+  ajustar la potencia y aplicar efecto. Normalmente se hace con una secuencia
+  de clics o deslizamientos.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Mouse/Touch:** Use the mouse or touch screen to aim, set power, and apply spin to the ball. The exact controls may vary slightly, but generally involve a sequence of clicks or swipes.
+*   **P: ¿Cómo puedo marcar con más regularidad?**
+    *   **R:** La práctica es fundamental. Prueba distintas combinaciones de potencia
+        y efecto para entender cómo responde el balón. Apunta a las esquinas de la
+        portería, que suelen ser los puntos más difíciles para el guardameta.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: How do I score more consistently?**
-    *   **[ES]** **A:** Practice is key. Experiment with different levels of power and spin to understand how the ball behaves. Aim for the corners of the goal, as these are the hardest spots for the keeper to reach.
-*   **[ES]** **Q: What's the best way to beat the wall?**
-    *   **[ES]** **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
-
+*   **P: ¿Cuál es la mejor forma de superar la barrera?**
+    *   **R:** Lo más habitual es curvar el balón por encima o alrededor de la
+        barrera. Busca huecos entre jugadores o atrévete con un disparo potente si
+        ves un camino claro.

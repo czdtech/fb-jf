@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: moving-co
-title: '[KO] Moving Co'
+title: "Moving Co 이사 회사지"
 description: >-
-  [KO] Moving Co. turns moving day into a puzzle — plan routes, carry items
-  safely, and beat the clock with tidy logistics.
+  Moving Co.는 이삿날을 퍼즐로 만든 캐주얼 게임으로, 동선을 설계해 짐을 안전하게
+  옮기고, 제한 시간 안에 효율적으로 트럭에 싣는 것이 목표입니다.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/moving-co.png
 tags:
@@ -16,29 +16,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Moving Co.*는 가벼운 물류·포장 퍼즐 게임입니다. 집 안을 돌아다니며 가구와 상자를 들고,
+트럭이나 지정 위치로 옮기되, 부딪힘을 최소화하고 이동 횟수를 줄이는 것이 중요합니다.
+좁은 문틀과 부서지기 쉬운 물건, 모양이 어색한 짐들이 시간 압박 속에서 공간 퍼즐을
+만들어 냅니다.
 
-### Detailed Game Introduction
+### 공략 & 진행 팁
 
-Moving Co. is a light logistics and packing challenge. Navigate rooms, pick up furniture or boxes, and move them to the truck or target spots while avoiding collisions and minimizing trips. Tight doorways, fragile items, and awkward shapes create spatial puzzles under time pressure.
+1. **사전 조사:** 먼저 큰 가구와 좁은 통로 위치를 파악한 뒤, 작은 짐이 통로를 막기
+   전에 덩치 큰 물건부터 옮기는 것이 좋습니다.
+2. **스마트 적재:** 무거운 짐을 먼저 바닥에 깔아 안정적인 구조를 만들고, 깨지기 쉬운
+   물건은 아래에 깔리지 않도록 위쪽에 쌓으세요.
+3. **짧은 루프 설계:** 가능한 한 한 번의 루트에서 여러 짐을 처리할 수 있도록, 짧은
+   동선을 반복하는 루프를 설계해 시간을 절약하세요.
+4. **회전 반경 의식:** 문을 통과하기 전에 미리 짐의 방향을 돌려 두면, 좁은 곳에서
+   벽에 계속 부딪히는 일을 줄일 수 있습니다.
+5. **취급 주의 물건:** 깨지기 쉬운 짐 주변에서는 속도를 줄이고, 무리하게 코너를
+   돌기보다 한 번 더 왕복하는 편이 전체적으로는 더 빠를 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Survey first: Identify large items and narrow passages; move big pieces before clutter blocks routes.
-2.  **[KO]** Stack smart: Place heavy items first to stabilize loads; avoid stacking fragile pieces underneath.
-3.  **[KO]** Shortest loops: Plan compact loops that grab multiple items per trip when possible.
-4.  **[KO]** Turn radius: Rotate early through doors; wide turns reduce bumps and time losses.
-5.  **[KO]** Handle fragile: Slow down near obstacles; a clean run beats a risky crash‑and‑restart.
+- 이동: 방향키 또는 WASD, 일부 버전에서는 드래그 조이스틱 지원
+- 집기/내려놓기: 물건에 가까이 가면 뜨는 상호작용 키 또는 전용 버튼 사용
+- 회전(지원 시): 화면상의 화살표 버튼이나 Q/E 키로 짐의 방향을 바꿀 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Move: Arrow keys / WASD; some versions support drag joystick.
-- Pick/Drop: Context action on contact or a dedicated button.
-- Rotate (if available): Use on‑screen arrows or Q/E.
+- Q: 짐이 문에 자꾸 걸려서 움직이질 않아요.
 
-### Frequently Asked Questions (FAQ)
+  A: 작은 상자를 먼저 치워 통로를 확보하거나, 문에 들어가기 전에 짐을 미리 돌려 놓으면
+  훨씬 수월해집니다.
 
-- Items keep getting stuck—what to do? Clear small clutter first or rotate earlier before doorways.
-- Do I lose score for bumps? Many modes penalize collisions or breaking fragile items; smooth movement pays off.
-- How to 3‑star? Fewer trips, early big‑item moves, and tidy stacking.
+- Q: 부딪히면 점수가 깎이나요?
 
+  A: 많은 모드에서 충돌이나 파손에 패널티가 있어, 부드럽게 움직이는 편이 최종 점수에
+  도움이 됩니다.
+
+- Q: 3성을 받으려면 어떻게 해야 하나요?
+
+  A: 큰 짐을 먼저 옮겨 통로를 비우고, 최대한 적은 왕복으로 여러 짐을 함께 처리하는
+  동선을 설계하면 높은 등급을 받기 쉽습니다.

@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: brain-trainer
-title: '[KO] Brain Trainer'
+title: 'Brain Trainer 브레인 트레이너'
 description: >-
-  [KO] Challenge your mind with a variety of fun and engaging mini-games! Test
-  your memory, logic, calculation speed, and spatial awareness in this ultimate
-  brain workout.
+  Brain Trainer는 다양한 미니 게임으로 기억력, 논리력, 계산 속도, 공간 지각
+  능력을 두루 시험해 보는 두뇌 트레이닝 게임입니다. 짧고 집중도 높은 퍼즐들로
+  즐겁게 머리를 깨워 보세요.
 iframeSrc: >-
   https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/brain-trainer.jpg
@@ -17,36 +17,38 @@ score: 4.6/5  (3100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Brain Trainer는 여러 종류의 짧고 자극적인 미니 게임으로 인지 능력을 전반적으로
+단련하는 두뇌 트레이닝 컬렉션입니다. 게임은 기억력, 논리력, 계산 능력, 공간
+지각 등 다양한 영역을 골고루 자극하도록 설계되어 있으며, 빠르게 풀어야 하는
+퍼즐을 반복하면서 집중력과 순발력을 함께 기를 수 있습니다.
 
+짧은 시간에 한두 판씩 즐기기 좋고, 누적 기록을 보며 자신의 "두뇌 컨디션"이
+어떻게 변하는지 확인하는 재미도 있습니다.
 
-### Detailed Game Introduction
+### 플레이 구성 & 간단 공략
 
-Brain Trainer is a collection of fun and stimulating mini-games designed to give your cognitive skills a workout. The game targets different areas of your brain, including memory, logic, calculation, and spatial awareness. By playing through these quick and challenging puzzles, you can test your mental agility, improve your focus, and track your performance over time. It's a perfect way to keep your mind sharp while having fun.
+Brain Trainer에는 여러 유형의 미니 게임이 섞여 있습니다. 대표적인 예시는 다음과 같습니다.
 
-### Gameplay Strategy & Walkthrough
+1.  **기억력 게임:** 잠깐 동안 번쩍이는 불빛이나 카드 짝의 위치를 보여 준 뒤, 동일한 순서로 입력합니다.  
+2.  **논리 퍼즐:** 저울 퍼즐이나 패턴 찾기처럼 규칙을 추론해 정답을 고르는 문제입니다.  
+3.  **계산 챌린지:** 시간 제한 안에 연속으로 주어지는 간단한 사칙연산을 최대한 빠르고 정확하게 풉니다.  
+4.  **공간 지각 퍼즐:** 블록을 회전시켜 모양에 맞추거나, 작은 미로를 탈출하며 공간 감각을 테스트합니다.  
 
-Brain Trainer consists of several different mini-games. Here are a few examples:
+### 조작 방법
 
-1.  **[KO]** **Memory Games:** You might be shown a sequence of flashing lights or a set of cards that are briefly revealed. Your task is to remember the pattern or the location of matching pairs and replicate it correctly.
-2.  **[KO]** **Logic Puzzles:** These games challenge your problem-solving skills. You might have to identify the heaviest object from a set of scales or solve a visual pattern puzzle.
-3.  **[KO]** **Calculation Challenges:** Test your mental math. You will be presented with a series of simple arithmetic problems that you must solve as quickly as possible against the clock.
-4.  **[KO]** **Spatial Awareness:** These puzzles might involve rotating blocks to fit into a specific shape or navigating a maze.
+각 미니 게임마다 세부 조작은 조금씩 다르지만, 공통적으로 매우 단순한 마우스 또는 터치 기반 조작만 사용합니다.
 
-### Controls Guide
+- **선택 / 정답 입력:** 퍼즐에서 요구하는 대로 정답이라고 생각되는 객체, 숫자, 순서를 클릭 또는 탭으로 선택합니다. 대부분 즉시 판정되며, 드래그나 입력이 필요한 게임은 화면에 안내가 표시됩니다.  
 
-The controls are simple and vary by mini-game, but they are all based on mouse clicks or taps.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Select/Answer:** Click on the correct object, number, or sequence as required by the current puzzle.
+- **Q. 게임의 최종 목표가 무엇인가요?**  
+    - **A.** 각 미니 게임에서 가능한 한 높은 점수를 기록하고, 전체 카테고리를 종합한 “브레인 점수”를 끌어올리는 것입니다.  
 
-### Frequently Asked Questions (FAQ)
+- **Q. 모든 게임이 시간 제한이 있나요?**  
+    - **A.** 대부분 시간 제한이 있으며 점수는 **정확도+속도**로 계산됩니다. 너무 서두르면 오답이 늘어나니 자신에게 맞는 템포를 찾으세요.  
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** The goal is to achieve the highest score possible in each mini-game. The game often provides an overall "brain score" or "brain age" based on your performance across all categories.
-
-*   **[KO]** **Q: Are the games timed?**
-    *   **[KO]** **A:** Yes, most of the mini-games are timed. Your score is often based on a combination of speed and accuracy.
-
-*   **[KO]** **Q: How can I improve my score?**
-    *   **[KO]** **A:** Practice! The more you play, the more familiar you will become with the types of challenges, and the faster and more accurate you will get.
-
+- **Q. 점수를 올리려면 어떻게 해야 하나요?**  
+    - **A.** 꾸준한 반복 플레이가 정답입니다. 문제 유형에 익숙해질수록 자연스럽게 더 빠르고 정확하게 풀 수 있습니다.  

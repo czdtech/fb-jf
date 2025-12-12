@@ -1,13 +1,9 @@
 ---
 locale: fr
 urlstr: atari-breakout
-title: '[FR] Atari Breakout'
-description: >-
-  [FR] Learn how to master the classic arcade game Atari Breakout. Discover
-  winning strategies, controls, and tips for smashing every brick and achieving
-  a high score.
-iframeSrc: >-
-  https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
+title: "Atari Breakout"
+description: "Atari Breakout est un classique de l’arcade : contrôle ta raquette, fais rebondir la balle pour casser toutes les briques et vise le meilleur score possible."
+iframeSrc: "https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html"
 thumbnail: /new-images/atari-breakout.jpg
 tags:
   - casual
@@ -16,54 +12,56 @@ score: 3.7/5  (602 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Atari Breakout* est l’un des jeux de casse‑briques les plus célèbres. Tu contrôles une raquette au bas de l’écran, qui ne se déplace qu’horizontalement. Une balle rebondit en continu sur les murs et les briques situées en haut de l’écran. À chaque impact, la brique touchée disparaît et la balle change de direction. Tu dois empêcher la balle de tomber en dessous de ta raquette tout en détruisant toutes les briques pour passer au niveau suivant.
 
+Au fil de la partie, la vitesse de la balle augmente, rendant les réactions plus difficiles. Tu disposes d’un nombre limité de vies : chaque fois que la balle passe derrière ta raquette, tu en perds une. La partie se termine lorsque tu n’as plus de vie.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Atari Breakout is a classic arcade game that has become a cornerstone of video game history. The gameplay is straightforward and instantly understandable. The player controls a single paddle at the bottom of the screen, which can only move horizontally. At the top of the screen are several rows of bricks. A ball bounces around the screen, and the player must move the paddle to intercept the ball, preventing it from falling off the bottom edge.
+Même si *Breakout* paraît minimaliste, exploiter quelques tactiques bien rodées te permettra d'obtenir de meilleurs scores et de nettoyer les niveaux beaucoup plus vite.
 
-When the ball hits a brick, the brick is destroyed, and the ball ricochets off it. The objective is to destroy all the bricks on the screen to advance to the next level. As the game progresses, the speed of the ball often increases, demanding faster reflexes. If the player fails to hit the ball with the paddle and it goes past them, they lose a life. The game ends when all lives are lost.
+#### 1. La stratégie du tunnel
 
-### Gameplay Strategy & Walkthrough
+La technique la plus efficace consiste à percer un **tunnel vertical** sur un côté de l’écran (gauche ou droit). Une fois la brèche ouverte, ton but est d’envoyer la balle dans cette ouverture pour qu’elle se retrouve **au‑dessus** des briques. Là‑haut, elle rebondira entre le plafond et la couche supérieure, détruisant de nombreuses briques sans que tu aies à la rattraper à chaque fois.
 
-While Breakout seems simple, there are key strategies to maximize your score and clear levels efficiently.
+#### 2. Contrôler l’angle avec la raquette
 
-#### 1. The "Tunneling" Strategy
-This is the most famous and effective strategy. The goal is to break a vertical tunnel through the bricks on one side of the screen (either far left or far right). Once you've created a path for the ball to get *above* the brick layer, you can send it up into the gap. The ball will then bounce back and forth between the top wall and the top layer of bricks, destroying many bricks automatically without any risk of you missing the paddle. This is the fastest way to clear a screen.
+La trajectoire de la balle dépend de l’endroit où elle touche la raquette :
 
-#### 2. Master the Paddle for Angle Control
-The ball's rebound angle is not random; it depends on *where* it strikes your paddle.
-*   **[FR]** **Hitting with the Center:** If the ball hits the center of your paddle, it will bounce back at a relatively straight, shallow angle.
-*   **[FR]** **Hitting with the Edges:** If the ball hits the outer edges of your paddle, it will bounce back at a much sharper, more extreme angle.
-Mastering this allows you to aim the ball precisely, which is essential for creating the tunnel mentioned above.
+- **Centre de la raquette :** la balle repart avec un angle relativement faible, presque vertical.  
+- **Bords de la raquette :** la balle repart avec un angle plus prononcé vers la gauche ou la droite.
 
-#### 3. Prioritize Higher Bricks
-In the classic version, the bricks in the higher rows are worth more points. While clearing the screen is the primary objective, if you are playing for a high score, try to create your tunnel early to let the ball destroy the high-value bricks at the top.
+En t’entraînant à viser avec la raquette, tu peux diriger la balle exactement vers la colonne que tu veux attaquer et préparer ton tunnel.
 
-#### 4. Anticipate, Don't React
-As the ball speeds up, you won't have time to react to its current position. You must anticipate its trajectory. Watch the angle it's coming from and move your paddle to where the ball *is going to be*.
+#### 3. Prioriser les briques du haut
 
-### Controls Guide
+Dans la version classique, les briques situées dans les rangées supérieures valent plus de points. En créant un tunnel tôt, tu permets à la balle d’atteindre rapidement ces briques hautes et d’optimiser ton score.
 
-The controls for Breakout are famously simple.
+#### 4. Anticiper la trajectoire
 
-*   **[FR]** **Movement:**
-    *   **[FR]** **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.
-    *   **[FR]** **PC / Web Versions:** Typically, you move the paddle by moving your **mouse left and right**. Alternatively, the **Left and Right Arrow Keys** (`←` and `→`) are often supported.
-*   **[FR]** **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the **Spacebar** or a **left mouse click**) will launch it.
+Plus la balle est rapide, moins tu peux te contenter de réagir. Essaie d’anticiper sa trajectoire : une fois que tu as vu l’angle de rebond, déplace ta raquette à l’endroit où la balle va arriver, et non là où elle se trouve actuellement.
 
-### Frequently Asked Questions (FAQ)
+### Commandes
 
-*   **[FR]** **Q: How can I control the ball's direction?**
-    *   **[FR]** **A:** By controlling where the ball hits your paddle. Hit it with the center for a straight shot and with the edges for a sharp-angled shot towards the sides.
+Les commandes sont très simples et accessibles à tous les joueurs.
 
-*   **[FR]** **Q: What is the fastest way to clear a level?**
-    *   **[FR]** **A:** The "tunneling" strategy. Break a path through one of the sides so the ball gets trapped above the bricks, clearing them out for you automatically.
+- **Déplacement :**
+    - En arcade, la raquette se contrôlait avec une molette dédiée.
+    - Sur PC/navigateur, tu la déplaces généralement avec la **souris** (gauche/droite) ou les **flèches gauche et droite**.
+- **Lancer la balle :** au début d’une vie, la balle est collée à la raquette. Appuie sur **Espace** ou clique pour la lancer.
 
-*   **[FR]** **Q: Do the different colored bricks mean anything?**
-    *   **[FR]** **A:** Yes. In the original game, the color indicates the point value. From bottom to top, the points per brick typically increase (e.g., yellow bricks at the bottom are worth fewer points than the red bricks at the top).
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: Where can I play Atari Breakout today?**
-    *   **[FR]** **A:** You can easily find and play web-based versions of Breakout on numerous classic game websites and archives. Additionally, typing "Atari Breakout" into Google Image Search used to activate a playable Easter egg version of the game, though this feature may vary.
+- **Q : Comment contrôler précisément la direction de la balle ?**
+    - **R :** Choisis le point d’impact sur ta raquette. Vise le centre pour un rebond plus droit, les bords pour envoyer la balle vers les extrémités et creuser ton tunnel.
 
+- **Q : Quelle est la façon la plus rapide de nettoyer un niveau ?**
+    - **R :** Réussis le tunnel sur un côté. Une fois la balle coincée au‑dessus des briques, elle en détruira un grand nombre sans risque de chute immédiate.
+
+- **Q : Les couleurs de briques changent‑elles quelque chose ?**
+    - **R :** Dans la version originale, chaque couleur correspond à une valeur de points différente : plus la rangée est haute, plus elle rapporte de points.
+
+- **Q : Où peut-on encore jouer à Atari Breakout aujourd’hui ?**
+    - **R :** Sur de nombreux sites de jeux rétro ou d’arcade en ligne. Pendant longtemps, une version jouable existait même dans Google Images en tapant « Atari Breakout », mais cette astuce peut varier selon les régions.

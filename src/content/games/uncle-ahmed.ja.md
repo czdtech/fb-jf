@@ -1,82 +1,57 @@
 ---
-locale: ja
-urlstr: uncle-ahmed
-title: '[JA TRANSLATION NEEDED] Uncle Ahmed'
-description: >-
-  [JA TRANSLATION NEEDED] Embark on a classic 2D platforming adventure with
-  Uncle Ahmed! Jump on enemies, collect coins, and use power-ups to rescue your
-  nephew from a dark sorcerer.
-iframeSrc: >-
-  https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
+title: Uncle Ahmed
+description: Uncle Ahmedは、アドベンチャーパズルゲームです。アンクルアーメッドを助けて謎を解きましょう。
+iframeSrc: 'https://ubg98.github.io/UncleAhmed/'
 thumbnail: /new-images/uncle-ahmed.jpg
+urlstr: uncle-ahmed
+score: 4.2/5  (1876 votes)
 tags:
-  - action
   - adventure
-  - casual
-score: 4.2/5  (1950 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - puzzle
+  - story
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Uncle Ahmedは、ストーリー駆動のアドベンチャーパズルゲームです。アンクルアーメッドを助けて、パズルを解き、物語を進めましょう。
 
-[JA TRANSLATION NEEDED] Uncle Ahmed is a classic 2D side-scrolling platformer that will evoke nostalgia for games like Super Mario Bros. Players take on the role of the heroic Uncle Ahmed on a quest to rescue his nephew, who has been kidnapped by an evil sorcerer. You will journey through dozens of levels filled with various enemies, tricky obstacles, and helpful power-ups. The goal is to reach the end of each stage, defeat the sorcerer, and save the day.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
+ - **ストーリーを進める：** 物語を読んで理解します
+ - **パズルを解く：** 様々なパズルに挑戦します
+ - **アイテム収集：** 重要なアイテムを見つけます
+ - **決定を下す：** ストーリーに影響する選択をします
 
-[JA TRANSLATION NEEDED] 1.  **Master the Jump:** Your most important skill is jumping. Use it to stomp on enemies to defeat them, break blocks to find coins and power-ups, and navigate over dangerous pits and spikes.
-[JA TRANSLATION NEEDED] 2.  **Collect Everything:** Grab all the coins you see. These can often be used to purchase extra lives, allowing you to continue if you make a mistake. Also, be sure to grab any power-ups you find.
-[JA TRANSLATION NEEDED] 3.  **Know Your Power-ups:** Power-ups are essential for survival. A watermelon might allow you to throw projectiles, while a hot pepper could grant you a temporary speed boost. Use them wisely to clear out difficult sections.
-[JA TRANSLATION NEEDED] 4.  **Explore for Secrets:** Don't just run straight to the finish line. Some levels contain hidden areas or secret blocks that hold extra lives or valuable power-ups. Exploration is often rewarded.
+### 操作ガイド
 
-### Controls Guide
-
-*   **Move:** Use the **Left and Right Arrow Keys** or on-screen buttons to move Uncle Ahmed.
-    - **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.（日本語訳が必要）
-    - **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).（日本語訳が必要）
-    - **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.（日本語訳が必要）
-    - **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.（日本語訳が必要）
-    - **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).（日本語訳が必要）
-    - **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.（日本語訳が必要）
-*   **Jump:** Press the **Up Arrow Key** or the dedicated jump button.
-*   **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I defeat the enemies?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
-
-*   **Q: What happens if I lose all my lives?**
-[JA TRANSLATION NEEDED]     *   **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
-
-*   **Q: How do I beat the final boss?**
+ - **マウス：** クリックして選択と相互作用
+ - **キーボード：** メニューとアクション
 
 
-
-
-
-
-
-
-    - **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
-- **Q: How do I beat the final boss?**
-    - **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
-- **Q: What happens if I lose all my lives?**
-    - **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
-- **Q: How do I defeat the enemies?**
-### よくある質問（FAQ）
 - **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
+### よくある質問（FAQ）
 
 
+- **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
 
+    - **Q: How do I beat the final boss?**
 
+- **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
 
-    - **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
-- **Q: How do I beat the final boss?**
-    - **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
-- **Q: What happens if I lose all my lives?**
-    - **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
-[JA TRANSLATION NEEDED]     *   **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
+    - **Q: What happens if I lose all my lives?**
 
+- **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
+
+    - **Q: How do I defeat the enemies?**
+**ゲームの目標は何ですか？**
+
+アンクルアーメッドを助けて、ストーリーを完了することです。
+
+**パズルは難しいですか？**
+
+様々な難易度のパズルがあります。
+
+**ストーリーは長いですか？**
+
+数時間のゲームプレイが楽しめるストーリーがあります。

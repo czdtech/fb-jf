@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: endless-siege
-title: '[KO] Endless Siege'
+title: Endless Siege 엔들리스 시즈
 description: >-
-  [KO] Defend against relentless waves of orcs in Endless Siege, a captivating
-  tower defense game. Place and upgrade cannons, ballistas, and other powerful
-  towers to survive as long as you can on a new, challenging map every day.
+  끝없이 밀려오는 오크와 몬스터의 웨이브를 막아내는 타워 디펜스 게임입니다. 포탑을 배치·강화하고, 매일 달라지는 맵에서 최장 생존에 도전해
+  보세요.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/endless-siege.jpg
 tags:
@@ -17,38 +16,62 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Endless Siege는 오크, 고블린 등 여러 몬스터의 물결을 막아내는 타워 디펜스 게임으로,
+매일 새로운 절차 생성 맵이 제공되어 반복 플레이성이 매우 높습니다. 적이 지나가는
+길가의 지정된 위치에 다양한 공격/보조 포탑을 배치·강화해, 가능한 한 많은 웨이브를
+버티고 일일 최고 점수에 도전하는 방식입니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Endless Siege is a highly engaging tower defense game that challenges you to defend your kingdom against relentless waves of orcs, goblins, and other monstrous foes. The standout feature of the game is that you are presented with a brand new, procedurally generated map every single day, ensuring endless replayability. You must strategically place and upgrade a variety of defensive towers to survive as many waves as possible and compete for the daily high score.
+1. **포탑 특성 이해하기**  
+    - **발리스타(Ballista)**: 발사 속도가 빠르고 단일 고체력 적 처리에 강함  
+    - **토치(Torch)**: 범위 피해(AoE)를 주는 화염 포탑으로, 약한 적 무리를
+     태워 없애기에 좋음  
+    - **캐논(Cannon)**: 공격 속도는 느리지만, 한 번에 큰 범위에 막대한 피해를
+     주어 적이 몰린 구간에서 위력적  
+    - **타임워프(Timewarp)**: 피해는 주지 않지만 범위 내 적의 이동 속도를 크게
+     늦춰, 다른 포탑들의 공격 시간을 벌어 주는 보조 포탑  
+2. **킬존 만들기**  
+   포탑을 길 전체에 얇게 흩어놓기보다는, 커브나 교차로 등 적이 오래 머무르는
+   지점에 몰아서 “킬존”을 만드는 것이 효율적입니다. 여러 포탑이 동시에 한
+   적을 노릴 수 있도록 배치하세요.  
+3. **슬로우의 힘 활용하기**  
+   타임워프는 직접 피해를 주지 않아도, 긴 직선 구간 초입에 설치하면 나머지
+   포탑들이 훨씬 많은 공격을 가할 수 있게 해 줍니다. 특히 후반 고체력 몬스터에
+   매우 중요합니다.  
+4. **업그레이드 집중 투자**  
+   곳곳에 약한 포탑을 많이 두는 것보다, 위치가 좋은 몇몇 포탑을 집중적으로
+   업그레이드해 화력을 극대화하는 편이 더 효율적입니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Know Your Towers:** Understanding your defenses is key.
-    *   **[KO]** **Ballista:** A fast-firing tower, excellent for taking down single, high-health enemies.
-    *   **[KO]** **Torch:** A flame tower that deals area-of-effect (AoE) damage, perfect for roasting groups of weaker enemies.
-    *   **[KO]** **Cannon:** A slow but powerful AoE tower that deals massive damage to clusters of foes.
-    *   **[KO]** **Timewarp:** A support tower that doesn't deal damage but significantly slows down all enemies that pass through its radius, making them easier targets for your other towers.
+- **포탑 건설**: 길 옆의 원형 건설 지점을 클릭해 포탑 메뉴를 열고, 원하는
+  포탑을 선택해 설치합니다.  
+- **포탑 업그레이드**: 이미 설치된 포탑을 클릭하면 능력치와 업그레이드 옵션이
+  표시되며, 골드를 사용해 레벨을 올릴 수 있습니다.  
+- **다음 웨이브 호출**: 준비가 되면 “Next Wave” 버튼을 눌러 다음 적 웨이브를
+  불러옵니다.  
 
-2.  **[KO]** **Create Kill Zones:** Don't spread your towers out too much. Try to place them in clusters, especially around bends in the path, where multiple towers can attack the same enemies simultaneously.
-3.  **[KO]** **The Power of Slowing:** The Timewarp tower is one of the most important in the game. Placing a Timewarp tower at the beginning of a long stretch of road allows your damage-dealing towers to get many more shots in, dramatically increasing their effectiveness.
-4.  **[KO]** **Upgrade Strategically:** It's often better to have a few fully upgraded, powerful towers than many weak, basic ones. Focus your gold on upgrading your best-placed towers to maximize their damage output.
+### 자주 묻는 질문(FAQ)
 
-### Controls Guide
+- **Q: 가장 좋은 포탑은 무엇인가요?**  
+  **A:** 단일 “최강 포탑”은 없으며, 네 종류를 적절히 섞어 쓰는 것이 중요합니다.
+  캐논/토치는 무리 처리, 발리스타는 튼튼한 적, 타임워프는 전체 화력을
+  받쳐 주는 역할을 합니다.  
 
-*   **[KO]** **Build a Tower:** Click on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
-*   **[KO]** **Upgrade a Tower:** Click on an existing tower to see its stats and available upgrades. Click the upgrade button to level it up.
-*   **[KO]** **Call the Next Wave:** When you are ready, click the "Next Wave" button to start the next onslaught of enemies.
+    - **Q: 왜 특정 위치에는 포탑을 못 짓나요?**  
+  **A:** 적이 지나가는 길가에 마련된 원형 지점에만 포탑을 지을 수 있습니다.
+  배치 가능한 위치가 제한되어 있으므로, 그만큼 전략적 선택이 중요합니다.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 어제랑 맵이 다른데 버그인가요?**  
 
-*   **[KO]** **Q: What is the best tower in the game?**
-    *   **[KO]** **A:** There is no single "best" tower. A successful defense relies on a smart combination of all four types. Use Cannons and Torches for groups, Ballistas for tough single targets, and Timewarp towers to slow everything down.
+    - **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
 
-*   **[KO]** **Q: Why can't I build a tower somewhere?**
-    *   **[KO]** **A:** You can only build on the designated circular plots found along the enemy path.
+- **Q: Why is the map different from yesterday?**
 
-*   **[KO]** **Q: Why is the map different from yesterday?**
-    *   **[KO]** **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
+    - **A:** You can only build on the designated circular plots found along the enemy path.
+  **A:** 이 게임의 특징으로, 매일 새로운 맵이 생성되도록 설계되어 있습니다.
+  모든 플레이어가 같은 데일리 맵에서 전략을 겨루게 됩니다.  
 

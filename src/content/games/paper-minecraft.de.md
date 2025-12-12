@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: paper-minecraft
-title: '[DE] Paper Minecraft'
+title: "Paper Minecraft"
 description: >-
-  [DE] Paper Minecraft is a 2D re-imagining of the popular sandbox game,
-  offering players a side-scrolling world to explore, mine resources, craft
-  items, build structures, and survive against monsters.
+  Paper Minecraft ist eine 2D-Neuinterpretation des bekannten Sandbox-Hits und
+  bietet dir eine seitlich scrollende Welt zum Erkunden, Rohstoffe abbauen,
+  Craften, Bauen und Überleben gegen Monster.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/paper-minecraft.jpg
 tags:
@@ -17,36 +17,58 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Paper Minecraft" ist eine 2D-Version des beliebten Sandbox-Spiels
+ "Minecraft". In einer seitlich scrollenden Welt erkundest du Biome, baust
+ Rohstoffe ab, stellst Werkzeuge und Gegenstände her, errichtest Gebäude und
+ verteidigst dich gegen verschiedene Monster. Viele bekannte Elemente des
+ Originals bleiben erhalten, werden hier aber aus der 2D-Perspektive präsentiert
+ und sorgen so für ein anderes Spielgefühl.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Rohstoffe sammeln:** Fälle Bäume für Holz, grabe dich in den Boden vor,
+    um Erze zu finden – sie sind die Grundlage für Werkzeuge, Waffen und
+    Gebäude.
+2.  **Gegenstände craften:** Nutze Werkbank und Ofen, um Rohstoffe in nützliche
+    Items zu verwandeln – von Werkzeugen und Waffen bis hin zu Blöcken und
+    Ausrüstung.
+3.  **Unterschlupf bauen:** Ein sicherer Unterschlupf ist überlebenswichtig,
+    besonders in der Nacht, wenn Zombies, Skelette und andere Monster
+    auftauchen.
+4.  **Welt erkunden:** Ziehe durch unterschiedliche Biome, finde Höhlen,
+    Schatztruhen und neue Ressourcenpunkte.
+5.  **Feldbau & Tiere züchten:** Pflanze Nahrung an und halte Tiere, um an
+    Fleisch, Leder und andere Materialien zu kommen.
 
-"Paper Minecraft" is a 2D re-imagining of the popular sandbox game "Minecraft," offering players a side-scrolling world to explore, mine resources, craft items, build structures, and survive against various monsters. This game retains the core gameplay of the original while providing a unique experience from a 2D perspective.
+### Steuerung
 
-### Gameplay Strategy
+*   **Bewegung:** Mit A/D oder den Pfeiltasten bewegst du dich nach links bzw.
+    rechts.
+*   **Springen:** Mit W oder Pfeil nach oben springst du.
+*   **Abbauen/Sammeln:** Richte den Mauszeiger auf einen Block und klicke mit
+    der linken Maustaste, um ihn abzubauen und einzusammeln.
+*   **Blöcke platzieren:** Wähle einen Block im Inventar und platziere ihn mit
+    der rechten Maustaste.
+*   **Inventar/Crafting öffnen:** Mit E öffnest du dein Inventar, verwaltest
+    Items und nutzt Crafting-Rezepte.
 
-1.  **[DE]** **Gather Resources**: Chop trees for wood, mine underground for ores, which are fundamental materials for building and crafting.
-2.  **[DE]** **Craft Items**: Use a crafting table and furnace to process collected resources into tools, weapons, blocks, and other useful items.
-3.  **[DE]** **Build Shelter**: Building a safe base is a priority for survival, especially at night to fend off attacks from zombies, skeletons, and other monsters.
-4.  **[DE]** **Explore and Discover**: Explore different biomes, discover hidden caves, treasures, and resource points.
-5.  **[DE]** **Farming and Animal Husbandry**: Grow crops for food, and raise animals to provide meat, leather, and other resources.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Movement**: Use A/D keys or left/right arrow keys to control horizontal character movement.
-*   **[DE]** **Jump**: Use the W key or up arrow key to jump.
-*   **[DE]** **Break/Collect**: Place the mouse pointer over a block, then click the left mouse button to break and collect it.
-*   **[DE]** **Place Blocks**: Select a block from your inventory, then click the right mouse button to place it.
-*   **[DE]** **Open Inventory/Crafting**: Use the E key to open your inventory, manage items, and craft.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: What are the main differences between "Paper Minecraft" and the original "Minecraft"?**
-**A**: The main differences are in perspective and dimension. Paper Minecraft is a 2D side-scrolling game, while the original Minecraft is a 3D open-world game, but the core sandbox, building, and survival gameplay are similar.
-2.  **[DE]** **Q: What are the common monsters in the game?**
-**A**: Common monsters include zombies, skeletons, Creepers, etc., which spawn and attack players at night or in dimly lit areas.
-3.  **[DE]** **Q: How do I craft more powerful tools and weapons?**
-**A**: By collecting higher-tier ores (e.g., iron, diamond) and processing them in a crafting table and furnace, you can create more durable and powerful tools and weapons.
-4.  **[DE]** **Q: Does the game have dimensions like "The Nether" or "The End"?**
-**A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.
+1.  **F: Worin unterscheidet sich "Paper Minecraft" vom originalen
+    "Minecraft"?**
+    **A:** Der größte Unterschied liegt in Perspektive und Dimension. Paper
+    Minecraft ist ein 2D-Sidescroller, während das Original eine 3D-
+    Open-World bietet. Das Sandbox-, Bau- und Survival-Prinzip bleibt aber sehr
+    ähnlich.
+2.  **F: Welche Monster gibt es?**
+    **A:** Du triffst auf vertraute Gegner wie Zombies, Skelette und Creeper,
+    die vor allem nachts oder in dunklen Höhlen auftauchen.
+3.  **F: Wie bekomme ich stärkere Werkzeuge und Waffen?**
+    **A:** Sammle bessere Erze (z. B. Eisen, Diamant), schmelze sie im Ofen und
+    nutze die Werkbank, um daraus haltbarere und stärkere Ausrüstung zu bauen.
+4.  **F: Gibt es Dimensionen wie den Nether oder das End?**
+    **A:** Als 2D-Neuinterpretation bildet Paper Minecraft meist nicht alle
+    Dimensionen des Originals eins zu eins ab, bietet aber oft eigene, angepasste
+    Inhalte.

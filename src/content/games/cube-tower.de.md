@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: cube-tower
-title: '[DE] Cube Tower'
+title: "Cube Tower"
 description: >-
-  [DE] Protect your Cube Tower from waves of enemies in this exciting tower
-  defense game. Place and upgrade your towers strategically to survive.
+  Schütze deinen Cube Tower vor Wellen von Gegnern in diesem Tower-Defense-Spiel.
+  Platziere und verbessere deine Türme strategisch, um zu überleben.
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/cube-tower.png
 tags:
@@ -16,27 +16,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Cube Tower* ist ein Tower-Defense-Spiel, in dem du einen zentralen
+"Cube Tower" gegen Wellen anrückender Feinde verteidigen musst. Dazu platzierst
+ du an strategischen Punkten verschiedene Turmtypen und verbesserst sie im
+Verlauf der Level.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Cube Tower is a tower defense game where your main objective is to protect a central "Cube Tower" from waves of enemy attacks. To achieve this, you strategically place and upgrade various types of defensive towers.
+1.  Platzierung planen: Überlege dir genau, wo du Türme baust, damit ihre
+    Reichweite möglichst viele Wegabschnitte abdeckt – Kreuzungen und Kurven
+    sind besonders wertvoll.
+2.  An Gegnertypen anpassen: Verschiedene Gegner erfordern unterschiedliche
+    Türme – etwa Splash-Damage gegen große Gruppen oder schnelle Türme gegen
+    flinke Einheiten.
+3.  Sinnvoll upgraden: Verbessere bevorzugt Türme an zentralen Stellen, die
+    lange Schusszeiten auf vorbeiziehende Gegner haben, statt überall nur
+    Basis-Türme zu verteilen.
+4.  Ressourcen haushalten: Dein Ingame-Geld brauchst du für neue Türme und
+    Upgrades. Wenn nötig, wiederhole Level, um zusätzliche Ressourcen für
+    schwierige Stages zu sammeln.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Strategic Placement:** Carefully consider where to place your towers to maximize their coverage and impact on incoming enemies.
-2.  **[DE]** **Adapt to Enemy Types:** The game features different alien types, and figuring out which combination of towers and attack tactics works best for each is key.
-3.  **[DE]** **Upgrade Wisely:** Prioritize upgrading towers that are most effective against the current wave of enemies.
-4.  **[DE]** **Resource Management:** You'll need to manage your in-game currency to buy and upgrade towers. Replaying levels can help accumulate resources for upgrades.
+*   Maus/Touch: Nutze Mausklick oder Touch, um Turm-Slots auszuwählen,
+    Türme zu platzieren und Upgrades im Menü zu kaufen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Mouse/Touch:** Use the mouse or touch screen to select, place, and upgrade your towers.
+*   F: Welcher Turm ist der beste?
+    *   A: Es gibt keinen Alleskönner. Nutze eine Mischung: Kanonentürme sind
+        stark gegen Gruppen, Lasertürme gut gegen schnelle Einzelziele usw.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What's the best tower to use?**
-    *   **[DE]** **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
-*   **[DE]** **Q: How do I get a 3-star rating?**
-    *   **[DE]** **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
-
+*   F: Wie bekomme ich 3 Sterne?
+    *   A: Sterne richten sich meist nach verbleibenden Leben am Levelende.
+        Lasse möglichst wenige Gegner bis zum Cube Tower durch.

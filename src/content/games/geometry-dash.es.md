@@ -1,8 +1,11 @@
 ---
 locale: es
 urlstr: geometry-dash
-title: '[ES] Geometry Dash Wave Spam - Play Geometry Dash Online'
-description: '[ES] Forget the fluff. This isn'
+title: "Geometry Dash Wave Spam - Juega Geometry Dash Online"
+description: >-
+  Aquí no hay adornos. Geometry Dash Wave Spam es un modo solo Wave, puro y
+  sin filtros, pensado para romperte y volver a forjar tus reflejos: nada de
+  portales, pads de salto ni monedas, solo tu nave y un corredor de pinchos al píxel.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /geometry-dash.png
 tags:
@@ -11,17 +14,30 @@ score: 4.5/5  (604 votes)
 ---
 
 
+Olvídate de los adornos. Esto no es un paseíto cualquiera por Geometry Dash.
+Es un desafío puro, solo en modo Wave, diseñado para destrozarte y volverte a
+forjar más fino que nunca. Hemos eliminado portales, pads de salto y monedas:
+solo quedáis tú, tu nave y un corredor de muerte ajustado al píxel.
 
-Forget the fluff. This isn't your standard Geometry Dash stroll. This is a pure, uncut, wave-only gauntlet designed to break you and build you back stronger. We've stripped out the portals, the pads, and the coins—it's just you, your ship, and a pixel-perfect corridor of death.
+### DOMINA LA WAVE O MUERE EN EL INTENTO
 
-### MASTER THE WAVE OR DIE TRYING
+Este es el campo de entrenamiento definitivo. Una prueba brutalista en la que
+solo cuentan tu memoria muscular y tu precisión rítmica. Los corredores son
+estrechos, los pinchos no perdonan y un solo toque fuera de tiempo significa
+fallo instantáneo. No hay suerte ni atajos: solo habilidad pura y sin
+maquillaje.
 
-This is the ultimate training ground. A brutalist trial by fire where your muscle memory and rhythmic precision are the only things that matter. The corridors are tight, the spikes are unforgiving, and a single mistimed tap means instant failure. No luck, no shortcuts—just raw, unfiltered skill.
+Si no soportas la presión, no durarás ni un segundo. Pero si has venido a
+dominar de verdad la Wave, a afilar tus reflejos hasta que corten, este es tu
+terreno de juego. Cada intento es una lección de alta intensidad en control y
+concentración.
 
-If you can't handle the pressure, you won't last a second. But if you're here to truly master the wave, to sharpen your reflexes until they're razor-edged, then this is your arena. Every run is a high-octane lesson in control.
+#### Características
 
-#### Features:
-
-- Pure Wave Gameplay: Nothing but the wave form. This is the ultimate test of your core mechanics.
-- Pixel-Perfect Corridors: Navigate spike tunnels so tight they demand flawless control. One pixel can be the difference between glory and another reset.
-- Brutal, High-Intensity Runs: This level is designed for quick, explosive attempts. Learn, adapt, and go again—faster and sharper each time.
+- **Jugabilidad solo Wave:** Nada más que la forma wave. El test máximo de tus
+  mecánicas básicas.
+- **Corredores al píxel:** Recorre túneles de pinchos tan estrechos que exigen
+  un control perfecto. Un solo píxel puede separar la gloria de otro reinicio.
+- **Intentos cortos e intensos:** El nivel está pensado para intentos rápidos y
+  explosivos. Aprende, adáptate y vuelve a intentarlo una y otra vez, cada vez
+  más rápido y preciso.

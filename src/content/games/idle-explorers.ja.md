@@ -1,83 +1,42 @@
 ---
+title: "Idle Explorers"
+description: "探検家チームを管理し、採掘帝国を自動化しましょう！労働者をアップグレードし、新しい発掘サイトをアンロックし、希少な遺物を発見する、中毒性のある放置アドベンチャーです。"
+iframeSrc: "https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/"
+thumbnail: "/new-images/idle-explorers.png"
+urlstr: "idle-explorers"
+score: "4.4/5  (2400 votes)"
+tags: ["casual", "clicker", "strategy"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: idle-explorers
-title: '[JA TRANSLATION NEEDED] Idle Explorers'
-description: >-
-  [JA TRANSLATION NEEDED] Manage a team of explorers and automate your digging
-  empire in Idle Explorers! Upgrade your workers, unlock new dig sites, and
-  discover rare artifacts in this addictive idle adventure.
-iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
-thumbnail: /new-images/idle-explorers.png
-tags:
-  - casual
-  - clicker
-  - strategy
-score: 4.4/5  (2400 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Idle Explorersは、中毒性のある放置型管理＆クリッカーゲームで、あなたは鉱業大物（タイクーン）の役割を担います。目標は、貴重な資源を掘る労働者のチームを管理することで、巨大な探検帝国を築くことです。基本的な鉱山シャフトに1人の探検家から始め、彼らが生み出す収入を使って事業をアップグレードし、より多くの労働者を雇い、マネージャーを雇ってプロセスを自動化し、最終的に異なる世界にまたがる新しい、より収益性の高い鉱山をアンロックします。
 
-[JA TRANSLATION NEEDED] Idle Explorers is an addictive idle management and clicker game where you take on the role of a mining tycoon. Your goal is to build a vast exploration empire by managing a team of workers who dig for valuable resources. You start with a single explorer in a basic mine shaft and must use the income they generate to upgrade your operation, hire more workers, automate processes by hiring managers, and eventually unlock new, more profitable mines across different worlds.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **コアループ（核となるサイクル）:** ゲームプレイのループはシンプルですが魅力的です。労働者が自動的に掘り、現金を生み出します。その現金を使ってアップグレードを購入します。それらのアップグレードでより速く現金を稼げるようになり、さらに大きなアップグレードを購入できます。この循環は、帝国を拡張していくにつれて続きます。
+2.  **アップグレードを優先する:** ゲーム序盤は、労働者とシャフトの速度と容量のアップグレードに集中しましょう。良い戦略は、ボトルネック（停滞）がない、スムーズでバランスの取れたワークフローを確保するために、鉱山シャフト、エレベーター、倉庫を大体同じレベルに保つことです。
+3.  **マネージャーで自動化する:** 放置ゲームの鍵は自動化です。購入できるようになったらすぐに、運営の各部分（鉱山シャフト、エレベーター、倉庫）にマネージャーを雇いましょう。マネージャーが配置されると、その部分は自動的に稼働し、クリックしていないときやゲームを開いていないときでも、お金を稼いでくれます。
+4.  **拡張とプレステージ:** 長期的な主な目標は、次の鉱山またはワールド（世界）をアンロックするのに十分なお金を稼ぐことです。それぞれの新しい場所は、はるかに高い収入ポテンシャルを提供します。多くの放置ゲームには「プレステージ」システムもあり、進行をリセットする代わりに、将来のすべての収益に対する永続的なブーストを得ることができます。
 
-[JA TRANSLATION NEEDED] 1.  **The Core Loop:** The gameplay loop is simple but compelling: Your workers dig automatically, generating cash. You use that cash to buy upgrades. Those upgrades make you earn cash faster, allowing you to afford even bigger upgrades. This cycle continues as you expand your empire.
-[JA TRANSLATION NEEDED] 2.  **Prioritize Upgrades:** In the early game, focus on upgrading the speed and capacity of your workers and shafts. A good strategy is to keep your mine shafts, elevator, and warehouse at roughly the same level to ensure a smooth and balanced workflow without bottlenecks.
-[JA TRANSLATION NEEDED] 3.  **Automate with Managers:** The key to any idle game is automation. As soon as you can afford them, hire managers for each part of your operation (the mine shafts, the elevator, and the warehouse). Once a manager is in place, that part of the operation will run automatically, earning you money even when you are not clicking or have the game open.
-[JA TRANSLATION NEEDED] 4.  **Expand and Prestige:** Your main long-term goal is to earn enough money to unlock the next mine or world. Each new location offers significantly higher income potential. Many idle games also feature a "Prestige" system, where you can reset your progress in exchange for a permanent boost to all future earnings.
+### 操作ガイド
 
-### Controls Guide
+ゲームは完全にマウスクリックまたはタップでプレイします。
 
-[JA TRANSLATION NEEDED] The game is played entirely with mouse clicks or taps.
+*   **アップグレード:** 鉱山シャフト、エレベーター、倉庫のアップグレードボタンをクリックしてレベルを上げます。
+*   **マネージャーを雇う:** 十分な資金があるときにマネージャーアイコンをクリックして、プロセスを自動化します。
+*   **ナビゲート:** マップまたはワールドボタンを使って、異なる鉱山を切り替えます。
 
-*   **Upgrade:** Click on the upgrade buttons for your mine shafts, elevator, and warehouse to level them up.
-    - **A:** A balanced approach is best. There's no point in having super-fast miners if your elevator can't keep up. Try to upgrade your shafts, elevator, and warehouse in tandem to keep the resources flowing smoothly.（日本語訳が必要）
-    - **A:** Managers are essential for idle income. They automate the work of their respective departments, so you continue to earn money even when you are offline.（日本語訳が必要）
-    - **A:** In idle games, it's almost always best to reinvest your money into upgrades as soon as you can afford them. Each upgrade increases your earning rate, which means you'll be able to afford the next upgrade even faster. This exponential growth is the core of the game.（日本語訳が必要）
-    - **A:** A balanced approach is best. There's no point in having super-fast miners if your elevator can't keep up. Try to upgrade your shafts, elevator, and warehouse in tandem to keep the resources flowing smoothly.（日本語訳が必要）
-    - **A:** Managers are essential for idle income. They automate the work of their respective departments, so you continue to earn money even when you are offline.（日本語訳が必要）
-    - **A:** In idle games, it's almost always best to reinvest your money into upgrades as soon as you can afford them. Each upgrade increases your earning rate, which means you'll be able to afford the next upgrade even faster. This exponential growth is the core of the game.（日本語訳が必要）
-*   **Hire Managers:** Click on the manager icons when you have enough funds to automate a process.
-*   **Navigate:** Use the map or world buttons to switch between your different mines.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 最初に何をアップグレードすべきですか？**
+    *   **A:** バランスの取れたアプローチが最善です。鉱夫が超高速でもエレベーターが追いつけなければ意味がありません。リソースがスムーズに流れるように、シャフト、エレベーター、倉庫を並行してアップグレードしてみてください。
 
-*   **Q: What should I upgrade first?**
+*   **Q: マネージャーは何をしますか？**
+    *   **A:** マネージャーは放置収入に不可欠です。それぞれの部門の作業を自動化し、オフラインの間も継続してお金を稼げるようにします。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** A balanced approach is best. There's no point in having super-fast miners if your elevator can't keep up. Try to upgrade your shafts, elevator, and warehouse in tandem to keep the resources flowing smoothly.
-
-*   **Q: What do managers do?**
-[JA TRANSLATION NEEDED]     *   **A:** Managers are essential for idle income. They automate the work of their respective departments, so you continue to earn money even when you are offline.
-
-*   **Q: Should I spend my money right away or save it?**
-
-
-
-
-
-
-
-
-    - **A:** In idle games, it's almost always best to reinvest your money into upgrades as soon as you can afford them. Each upgrade increases your earning rate, which means you'll be able to afford the next upgrade even faster. This exponential growth is the core of the game.
-- **Q: Should I spend my money right away or save it?**
-    - **A:** Managers are essential for idle income. They automate the work of their respective departments, so you continue to earn money even when you are offline.
-- **Q: What do managers do?**
-    - **A:** A balanced approach is best. There's no point in having super-fast miners if your elevator can't keep up. Try to upgrade your shafts, elevator, and warehouse in tandem to keep the resources flowing smoothly.
-- **Q: What should I upgrade first?**
-### よくある質問（FAQ）
-- **Navigate:** Use the map or world buttons to switch between your different mines.
-
-
-
-
-
-    - **A:** In idle games, it's almost always best to reinvest your money into upgrades as soon as you can afford them. Each upgrade increases your earning rate, which means you'll be able to afford the next upgrade even faster. This exponential growth is the core of the game.
-- **Q: Should I spend my money right away or save it?**
-    - **A:** Managers are essential for idle income. They automate the work of their respective departments, so you continue to earn money even when you are offline.
-- **Q: What do managers do?**
-    - **A:** A balanced approach is best. There's no point in having super-fast miners if your elevator can't keep up. Try to upgrade your shafts, elevator, and warehouse in tandem to keep the resources flowing smoothly.
-[JA TRANSLATION NEEDED]     *   **A:** In idle games, it's almost always best to reinvest your money into upgrades as soon as you can afford them. Each upgrade increases your earning rate, which means you'll be able to afford the next upgrade even faster. This exponential growth is the core of the game.
-
+*   **Q: すぐにお金を使うべきですか、それとも貯めるべきですか？**
+    *   **A:** 放置ゲームでは、購入できるようになったらすぐにアップグレードにお金を再投資するのがほぼ常に最善です。各アップグレードは収益率を上げるため、次のアップグレードをさらに速く購入できるようになります。この指数関数的な成長がゲームの核心です。

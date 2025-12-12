@@ -1,105 +1,54 @@
 ---
+title: "Hangman (ハングマン)"
+description: "クラシックな単語当てゲーム：文字を提案して秘密の単語を推理しましょう。絵が完成してしまう前に、間違えすぎないように気をつけながら正解を目指します。"
+iframeSrc: "https://hangman-frontend.coolmathgames.com/home"
+thumbnail: "/new-images/hangman.jpg"
+urlstr: "hangman"
+score: "3.7/5  (708 votes)"
+tags: ["word", "puzzle"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: hangman
-title: '[JA TRANSLATION NEEDED] Hangman'
-description: >-
-  [JA TRANSLATION NEEDED] Classic word‑guessing: deduce the secret word by
-  proposing letters, avoiding too many wrong guesses before the figure is
-  completed.
-iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
-thumbnail: /new-images/hangman.jpg
-tags:
-  - word
-  - puzzle
-score: 3.7/5  (708 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### **ゲーム紹介**
 
+ハングマンは、秘密の単語やフレーズを文字ごとに当てていく、クラシックな単語当てゲームです。ゲームは、隠された単語の各文字を表す一連の空白スペースから始まります。
 
-### **Game Introduction**
+プレイヤーは交代で、単語に含まれていると思われる文字を推測します。推測した文字が正しい場合、その文字が含まれるすべての場所で公開されます。もし文字が間違っていた場合、「ハングマン（吊るされた男）」の棒人間の絵の一部が描かれます。ハングマンの絵が完成する前に、単語のすべての文字を正しく当てることができれば勝利です。単語が解読される前に絵が完成してしまうと、プレイヤーの負けとなります。
 
-[JA TRANSLATION NEEDED] Hangman is a classic word-guessing game where the objective is to uncover a secret word or phrase by guessing its letters one by one. The game begins with a series of blank spaces, representing each letter of the hidden word.
+多くのデジタル版にはスコアシステムがあり、正しい文字、パズルを解く速さ、残りの不正解の許容回数（「ライフ」）に応じてポイントが与えられます。
 
-[JA TRANSLATION NEEDED] Players take turns guessing letters they believe are in the word. If a guessed letter is correct, it is revealed in all its positions. If the letter is incorrect, a part of a "hangman" stick figure is drawn. The game is won by successfully guessing all the letters in the word before the hangman drawing is completed. If the drawing is finished before the word is solved, the player loses.
+### **ゲームプレイ戦略とヒント**
 
-[JA TRANSLATION NEEDED] Many digital versions include scoring systems, rewarding points for correct letters, the speed of solving the puzzle, and the number of incorrect guesses (or "lives") remaining.
+1.  **母音から始める**: 母音（A, E, I, O, U）は、ほぼすべての英単語に含まれています。これらを最初に推測することは、単語の構造を素早く明らかにするための優れた戦略です。例えば、「A」を推測して `_ A _ A _ A` と表示されれば、その単語は「BANANA」であると強く推測できます。
+2.  **よくある子音を推測する**: 母音の後は、英語で最も頻繁に使われる子音に注目しましょう。有名なニーモニック（記憶術）は「Etaoin Shrdlu」ですが、より実用的なリストには **R, S, T, L, N** が含まれます。これらの文字を推測すると、良い結果が得られることが多いです。
+3.  **文字だけでなく単語で考える（フレーズの場合）**: パズルが複数の単語からなるフレーズの場合、個々の単語を解くようにしましょう。「THE」や「AND」のような短くて一般的な単語を推測することで、フレーズ全体を解くための大きなヒントが得られます。
+4.  **珍しい文字は後回しにする**: **J, Q, X, Z** などの文字は、英語で最も頻度が低いものです。これらは文脈が増える後半まで取っておきましょう。最初にこれらを推測するのは、ハイリスク・ローリターンな動きです。
+5.  **文脈と単語のパターンを使う**: いくつかの文字が明らかになったら、一般的なパターンを探しましょう。例えば、`_ I N G` で終わる単語は、最後の文字が「G」である可能性が高いです。「Q」の後にはほぼ間違いなく「U」が続きます。論理的な推論を行うために、スペリングの知識を活用しましょう。
 
-### **Gameplay Strategy & Tips**
+### **操作ガイド**
 
-[JA TRANSLATION NEEDED] 1.  **Start with Vowels**: The vowels (A, E, I, O, U) are present in almost every English word. Guessing them first is an excellent strategy to quickly reveal the word's structure. For example, if you guess 'A' and the word appears as `_ A _ A _ A`, you can make a strong educated guess that the word is "BANANA".
-[JA TRANSLATION NEEDED] 2.  **Guess Common Consonants**: After the vowels, focus on the most frequently used consonants in the English language. A classic mnemonic for this is "Etaoin Shrdlu," but a more practical list includes **R, S, T, L, N**. Guessing these letters often yields good results.
-[JA TRANSLATION NEEDED] 3.  **Think in Words, Not Just Letters (for Phrases)**: When the puzzle is a multi-word phrase, try to solve individual words. Guessing a small, common word like "THE" or "AND" can provide a huge clue to solving the entire phrase.
-[JA TRANSLATION NEEDED] 4.  **Avoid Rare Letters Early**: Letters like **J, Q, X, and Z** are the least common in English. Save these for later when you have more context. Guessing them at the beginning is a high-risk, low-reward move.
-[JA TRANSLATION NEEDED] 5.  **Use Context and Word Patterns**: Once you have a few letters revealed, look for common patterns. For example, a word ending in `_ I N G` is likely to have 'G' as its final letter. A `Q` is almost always followed by a `U`. Use your knowledge of spelling to make logical deductions.
+デジタル版ハングマンの操作は非常にシンプルです：
 
-### **Controls Guide**
+*   **文字の推測**: マウスで画面上のアルファベットを**クリック**するか、キーボードで対応する文字を**タイプ**します。
 
-[JA TRANSLATION NEEDED] The controls for digital versions of Hangman are extremely simple:
+### **よくある質問 (FAQ)**
 
-*   **Letter Guessing**: You can either **click** the on-screen alphabet letters with your mouse or **type** the corresponding letter on your keyboard.
+**1. 最初に推測すべき最良の文字は何ですか？**
+統計的に、**「E」** は英語で最も一般的な文字であり、最強の初手となります。「E」の後は、他の母音（A, O, I, U）や上位の子音（T, R, N, S）が優れた選択肢です。
 
-### **Frequently Asked Questions (FAQ)**
+**2. ハングマンで最も難しい単語は何ですか？**
+最も難しい単語は、短いもの、珍しい文字を使うもの、一般的な母音がないものが一般的です。
+*   **Jazz**: 短いため最初の空白が少なく、最も珍しい文字の2つである「J」と「Z」を使っています。
+*   **Rhythm, Synth, Psych**: これらの単語は、標準的な A, E, I, O, U の母音を一切含んでいないため難しく、プレイヤーに「Y」を推測させます。
+*   **Fjord, Gnat, Wry**: これらの単語は、推測しにくい珍しい文字の組み合わせを使っています。
 
-[JA TRANSLATION NEEDED] **1. What is the best letter to guess first?**
-[JA TRANSLATION NEEDED] Statistically, **'E'** is the most common letter in the English language, making it the strongest opening guess. After 'E', the other vowels (A, O, I, U) and top consonants (T, R, N, S) are excellent choices.
+**3. ハングマンをプレイすることでどんなスキルが学べますか？**
+ハングマンは以下を向上させる優れた教育ツールです：
+*   **語彙力**: 新しい単語に触れることができます。
+*   **スペリング**: 正しいスペルパターンを学び、強化します。
+*   **演繹的推論**: 得られた情報に基づいて、次の最良の推測を導き出すために論理を使います。
 
-[JA TRANSLATION NEEDED] **2. What are some of the hardest Hangman words?**
-[JA TRANSLATION NEEDED] The hardest words are often short, use rare letters, or lack common vowels.
-*   **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
-*   **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
-*   **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
-
-[JA TRANSLATION NEEDED] **3. What skills can you learn from playing Hangman?**
-[JA TRANSLATION NEEDED] Hangman is an excellent educational tool that helps improve:
-*   **Vocabulary**: You are exposed to new words.
-
-### **コントロール Guide**
-*   **Spelling**: You learn and reinforce correct spelling patterns.
-*   **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
-
-[JA TRANSLATION NEEDED] **4. What happens when I guess a wrong letter?**
-
-
-### **Frequently Asked Questions (よくある質問)**
-- **Letter Guessing**: You can either **click** the on-screen alphabet letters with your mouse or **type** the corresponding letter on your keyboard.
-
-### **Frequently Asked Questions (よくある質問)**
-[JA TRANSLATION NEEDED] Each incorrect guess adds another part to the hangman drawing (e.g., the head, then the body, then an arm, etc.). You lose the game if you make too many incorrect guesses and the entire figure is drawn.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Each incorrect guess adds another part to the hangman drawing (e.g., the head, then the body, then an arm, etc.). You lose the game if you make too many incorrect guesses and the entire figure is drawn.
-**4. What happens when I guess a wrong letter?**
-- **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
-- **Spelling**: You learn and reinforce correct spelling patterns.
-- **Vocabulary**: You are exposed to new words.
-Hangman is an excellent educational tool that helps improve:
-**3. What skills can you learn from playing Hangman?**
-- **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
-- **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
-- **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
-The hardest words are often short, use rare letters, or lack common vowels.
-**2. What are some of the hardest Hangman words?**
-
-
-
-- **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
-- **Spelling**: You learn and reinforce correct spelling patterns.
-- **Vocabulary**: You are exposed to new words.
-Statistically, **'E'** is the most common letter in the English language, making it the strongest opening guess. After 'E', the other vowels (A, O, I, U) and top consonants (T, R, N, S) are excellent choices.
-
-
-Each incorrect guess adds another part to the hangman drawing (e.g., the head, then the body, then an arm, etc.). You lose the game if you make too many incorrect guesses and the entire figure is drawn.
+**4. 間違った文字を推測するとどうなりますか？**
+不正解ごとにハングマンの絵の一部（頭、体、腕など）が追加されます。不正解が多すぎて絵が完全に描かれてしまうと、ゲームオーバーになります。

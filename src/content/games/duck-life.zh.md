@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: duck-life
-title: '[ZH TRANSLATION NEEDED] Duck Life'
+title: "Duck Life 小鴨養成與賽跑"
 description: >-
-  [ZH TRANSLATION NEEDED] Duck Life is a training and racing sim: level up your
-  duck through mini‑games and win races.
+  Duck Life 是系列的初代作品，你要透過迷你遊戲訓練小鴨的跑步、游泳與飛行能力，
+  提升數值後參加比賽，一路解鎖新地區。
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/duck-life.jpg
 tags:
@@ -17,26 +17,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] The original training‑and‑racing sim: raise a duck’s running, swimming, and flying stats via mini‑games, then win races to progress through areas.
+
+這是經典的小鴨培訓+賽跑模擬遊戲。你要在各種訓練迷你遊戲中，不斷提升小鴨的跑步、
+游泳與飛行能力，讓牠在正式比賽中一路領先，解鎖更多賽道與新地區。
 
 ### How to Play
-- Train each skill to meet race demands; feed seeds to boost energy.
-- Replay training stages to raise caps; races require balanced stats.
-- Earn coins to buy seeds and cosmetics.
+
+- 針對每場比賽的需求訓練相應能力，並透過餵種子來提升能量值。
+- 反覆挑戰訓練關卡可以提升等級上限；真正的比賽需要各項能力比較平均。
+- 透過比賽賺取金幣，用來購買更多種子與外觀裝飾。
 
 ### Controls
-- Arrows/Space or mouse depending on mini‑game.
+
+- 具體操作視迷你遊戲而定，多數情況下使用方向鍵、空白鍵或滑鼠控制。
 
 ### Tips
-- Balance stats rather than grinding only one.
-- Watch race previews to see which skills matter most.
-- Keep energy high; it’s effectively endurance.
+
+- 不要只刷單一能力，平衡訓練才是不被對手甩開的關鍵。
+- 比賽前可以先看路線預覽，判斷哪些能力會被大量檢測，對症下藥加強。
+- 能量值就等於耐力，長距離賽程前一定要先餵飽小鴨。
 
 ### FAQ
-- Q: Can I skip races?  
-[ZH TRANSLATION NEEDED]   A: Progression typically requires winning set races per area.
-- Q: Do cosmetics help?  
-[ZH TRANSLATION NEEDED]   A: Purely visual; training and energy drive results.
-- Q: Are there level caps?  
-[ZH TRANSLATION NEEDED]   A: Early areas cap stats until later unlocks.
 
+- 問：可以跳過比賽只練級嗎？  
+  答：主要進度通常需要在各個地區贏下指定場次的比賽，才能繼續往後推進。
+
+- 問：服裝外觀有屬性加成嗎？  
+  答：沒有，裝飾全部都只是視覺效果，真正影響表現的是訓練出的能力與能量。
+
+- 問：能力有等級上限嗎？  
+  答：前期地區會限制能力上限，需要解鎖後面的區域，才能繼續往更高等級突破。

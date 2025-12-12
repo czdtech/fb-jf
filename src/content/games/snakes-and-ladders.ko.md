@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: snakes-and-ladders
-title: '[KO] Snakes And Ladders'
+title: "Snakes And Ladders 뱀과 사다리"
 description: >-
-  [KO] Play Snakes and Ladders, the classic board game of chance. Roll the die,
-  climb ladders to get ahead, and watch out for snakes that will slide you back
-  down. Be the first to reach the final square to win this timeless family game.
+  주사위를 굴려 말을 움직이며 뱀과 사다리를 오르내리는 클래식 보드
+  게임입니다. 사다리를 타고 앞서 나가고, 뱀을 밟으면 아래로 떨어지는
+  운빨 파티 게임을 즐겨 보세요.
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/snakes-and-ladders.jpg
 tags:
@@ -18,33 +18,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Snakes and Ladders is a timeless classic board game, also known as Chutes and Ladders in some regions. Originating from ancient India, it's a game of pure luck where players race to be the first to reach the final square on the board. The journey is unpredictable, with ladders helping you climb closer to victory and snakes sliding you back down.
+*Snakes and Ladders*는 일부 지역에서 *Chutes and Ladders*라는 이름으로도
+알려진 전통 보드 게임입니다. 고대 인도에서 유래한 게임으로, 플레이어는
+주사위를 굴려 말을 움직이며, **사다리 칸에 도착하면 위로 점프**하고
+**뱀 머리 칸에 도착하면 아래 꼬리까지 떨어지는** 순수 운빨 레이스를
+즐기게 됩니다.
 
-### Gameplay Guide
+전략적 선택보다는 주사위 운이 승패를 좌우하기 때문에, 어린이부터
+어른까지 가볍게 즐기기 좋은 가족 게임입니다.
 
-The objective is to be the first player to land on the final square (usually 100). Players take turns rolling a single die and moving their piece that number of spaces. If you land on a square at the base of a ladder, you immediately move up to the square at the top. Conversely, if you land on a square with a snake's head, you must slide down to the square at the snake's tail.
+### 플레이 가이드
 
-### Controls Guide
+목표는 마지막 칸(보통 100번 칸)에 **가장 먼저 도달하는 것**입니다.
+플레이어는 차례대로 주사위를 한 번씩 굴리고, 나온 눈만큼 말을
+앞으로 이동시킵니다.
 
-- **Mouse/Touch:** Click or tap on the designated area to roll the die. The game will automatically move your piece.
+- 사다리 아래 칸에 정확히 도착하면, 사다리 꼭대기 칸으로 즉시
+  올라갑니다.  
+- 뱀 머리 칸에 도착하면, 뱀 꼬리 칸까지 내려가야 합니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-**What is the main objective of Snakes and Ladders?**
+- **마우스/터치**: 화면의 버튼을 클릭하거나 탭해 주사위를 굴리면,
+  말은 자동으로 이동합니다.
 
-The goal is to be the first person to get their game piece from the starting square (1) to the final square (100).
+### 자주 묻는 질문(FAQ)
 
-**Is there any strategy involved?**
+**Q: 이 게임의 최종 목표는 무엇인가요?**  
+**A:** 시작 칸(1번)에서 출발해 마지막 칸(100번)에 가장 먼저 도달한
+플레이어가 승리합니다.
 
-Snakes and Ladders is almost entirely a game of luck based on die rolls. There are no decisions to make that can influence the outcome, making it a simple and accessible game for all ages.
+**Q: 전략 요소가 있나요?**  
+**A:** 기본 룰에서는 주사위를 굴리는 것 외에 선택지가 거의 없어,
+사실상 운에 의해 결정되는 게임입니다. 그렇기 때문에 규칙이 단순하고
+누구나 쉽게 즐길 수 있습니다.
 
-**What happens if I roll a six?**
+**Q: 6이 나오면 어떻게 되나요?**  
+**A:** 많은 변형 룰에서 6이 나오면 한 번 더 굴릴 수 있는 추가 턴을
+제공합니다. 사용하는 버전에 따라 적용 여부가 달라질 수 있습니다.
 
-In many common variations of the rules, rolling a six grants the player an extra turn.
-
-**Do I need an exact roll to win?**
-
-This depends on the specific version of the game. In traditional rules, you must roll the exact number to land on the final square. If your roll is too high, you might have to "bounce back" the excess spaces.
-
+**Q: 마지막 칸에 정확히 멈춰야 하나요?**  
+**A:** 전통적인 규칙에서는 정확한 눈이 나와야 마지막 칸에 멈출 수
+있습니다. 너무 큰 수가 나오면 남는 눈만큼 뒤로 "튀어 나가는" 방식의
+집 규칙을 사용하는 경우도 있습니다.

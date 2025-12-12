@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: pocket-battle-royale
-title: '[ZH TRANSLATION NEEDED] Pocket Battle Royale'
+title: "《Pocket Battle Royale》迷你吃鸡竞技"
 description: >-
-  [ZH TRANSLATION NEEDED] A fast-paced, top-down 2D battle royale. Scavenge for
-  weapons and health, stay inside the shrinking safe zone, and be the last one
-  standing to claim victory!
+  《Pocket Battle Royale》是一款俯视角 2D 吃鸡射击小游戏，你将被丢进迷宫式战场，在缩圈压力下搜集武器与血包，击败其他玩家，成为最后的生存者。
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/pocket-battle-royale.png
 tags:
@@ -17,30 +15,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Pocket Battle Royale is a fast-paced, top-down 2D shooter that distills the excitement of the battle royale genre into quick, action-packed rounds. You are dropped into a maze-like arena with other players and must fight to be the last one standing. Scavenge for weapons, ammo, and health packs while staying ahead of the ever-shrinking safe zone that forces players closer together. It’s a pure test of survival, reflexes, and strategy.
+《Pocket Battle Royale》以自上而下俯视视角呈现紧凑的吃鸡战斗体验。你与其他玩家一同被投放在类似迷宫的 2D 战场中，没有繁琐的建造或复杂系统，核心就是：抢先捡到武器和补给、利用掩体与地形走位、时刻注意地图上不断收缩的安全圈，在所有对手倒下之前活到最后。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Loot Quickly:** Your first priority when the game starts is to find a weapon. Run through the buildings and open areas to find guns, ammo, and health kits. You are defenseless without a weapon.
-2.  [ZH TRANSLATION NEEDED] **Stay Aware of Your Surroundings:** The top-down perspective allows you to see enemies coming from all directions. Keep moving and use corners and obstacles as cover. Don't stand out in the open for too long.
-3.  [ZH TRANSLATION NEEDED] **Watch the Safe Zone:** Always be aware of where the safe zone is and where it will shrink next. A timer will indicate when the zone will start closing in. Getting caught outside the zone will drain your health rapidly.
-4.  [ZH TRANSLATION NEEDED] **Pick Your Fights:** You don't have to engage every enemy you see. Sometimes it's smarter to let other players fight each other while you loot and get into a better position for the final showdown.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **开局第一件事：捡枪：** 开局阶段最重要的是尽快找到任意一把武器，没有武器意味着毫无还手之力。优先在建筑、箱子等热点区域搜索枪械、弹药与急救道具。
+2.  **保持环境警觉：** 俯视视角能让你同时看到多个方向的动向。时刻移动并利用墙角、障碍物作为掩体，避免长时间暴露在空旷地带。
+3.  **随时关注安全圈：** 界面上会提示安全区位置与缩圈倒计时，一旦圈开始收缩，优先确保自己在安全区内，避免在毒圈外持续掉血被动出局。
+4.  **选择性交战：** 并不需要见人就打。很多时候让其他玩家先互相消耗，你则趁机绕到更有利的位置，在人数减少后再出手，更有利于进入决赛圈。
 
-*   **Movement:** Use the **WASD keys** to move your character up, left, down, and right.
-*   **Aim:** Your character will automatically aim in the direction of your **mouse cursor**.
-*   **Shoot:** Click the **left mouse button** to fire your weapon.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **移动：** 使用 WASD 键控制角色向上、左、下、右移动。
+*   **瞄准：** 角色会自动朝鼠标光标方向瞄准。
+*   **射击：** 点击鼠标左键开火。
 
-*   **Q: What is the shrinking circle on the map?**
-     *   **A:** That is the safe zone. You must stay inside this circle. If you are outside of it, you will continuously take damage until you get back inside.
+### 常见问题（FAQ）
 
-*   **Q: How do I get better weapons or more health?**
-     *   **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
+*   **问：地图上不断缩小的圆圈是什么？**
+    *   **答：** 那是安全区边界。身在圈外会持续掉血，需要尽快回到圈内，否则会在与人交火前就被淘汰。
 
-*   **Q: What is the objective of the game?**
-     *   **A:** To be the last player alive. Eliminate all other opponents to win the match.
+*   **问：更强的武器和补给怎么获得？**
+    *   **答：** 所有装备都需要在地图中拾取。多探索不同区域，寻找枪械、弹药和医疗包等道具，抢占资源点往往能在前期建立优势。
 
+*   **问：游戏最终目标是什么？**
+    *   **答：** 和大多数吃鸡游戏一样，最终目标是在一局战斗中成为最后一名存活的玩家，淘汰所有对手即可取得胜利。

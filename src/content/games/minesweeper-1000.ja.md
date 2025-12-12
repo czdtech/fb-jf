@@ -1,69 +1,39 @@
 ---
+title: "Minesweeper 1000"
+description: "Minesweeper 1000はクラシックな地雷ゲームです。数字の手がかりを使用して地雷をマークし、すべての安全なタイルを明らかにし、論理パズルをマスターします。"
+iframeSrc: "https://minesweeper1000.h5games.usercontent.goog/v/56s2qk7a8rk7g/"
+thumbnail: "/new-images/minesweeper-1000.png"
+urlstr: "minesweeper-1000"
+score: "4.4/5  (2345 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: minesweeper-1000
-title: '[JA TRANSLATION NEEDED] Minesweeper 1000'
-description: >-
-  [JA TRANSLATION NEEDED] Minesweeper 1000 refreshes classic minesweeper — read
-  number logic, flag bombs, and clear huge boards with efficient techniques.
-iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
-thumbnail: /new-images/minesweeper-1000.png
-tags:
-  - puzzle
-  - thinky
-score: 4.3/5  (2107 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Minesweeper 1000は、クラシックな地雷ゲームの大規模バージョンです。数字の手がかりを使用してすべての地雷をマークし、地雷を踏むことなくすべての安全なタイルを明らかにします。1000タイルのチャレンジ！
 
-[JA TRANSLATION NEEDED] Minesweeper 1000 is a modern take on the classic logic puzzle. Uncover all safe tiles without detonating mines: each revealed number shows how many bombs touch that tile (including diagonals). Larger boards emphasize pattern recognition, fast chording, and safe guessing minimization.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **数字を読む:** 隣接する地雷の数を示します。
+2.  **フラグ地雷:** 地雷があると思う場所をマークします。
+3.  **角から始める:** 通常、より安全で、より多くの情報。
+4.  **パターンを学ぶ:** 一般的な地雷パターンを認識します。
+5.  **推測しない:** 可能な限り論理を使用します。
 
-[JA TRANSLATION NEEDED] 1.  Core patterns: Master 1-2, 1-1, and 1-2-1 edge patterns to place flags deterministically.
-[JA TRANSLATION NEEDED] 2.  Chording: On many builds, clicking a number with all its mines flagged opens surrounding safe tiles; abuse this for speed.
-[JA TRANSLATION NEEDED] 3.  Probability: When forced to guess, choose corners with more unknown neighbors to maximize information.
-[JA TRANSLATION NEEDED] 4.  Frontier focus: Solve along the boundary between known and unknown; avoid random digs deep in fog.
-[JA TRANSLATION NEEDED] 5.  Flag hygiene: Only flag when certain; otherwise keep candidate notes (if the build supports marks).
+### 操作ガイド
 
-### Controls Guide
+- タイルをクリック/タップして明らかにします。
+- 右クリック/長押しでフラグを配置します。
+- 数字は隣接する地雷を示します。
 
-- Left‑click: reveal. Right‑click: flag. Middle/Chord: open around a satisfied number (implementation‑dependent). Quick restart from the menu.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m stuck with a 50/50 — what now?
-  
-[JA TRANSLATION NEEDED]   A: Scan for overlooked patterns elsewhere or pick the tile that reveals the largest new frontier if you must guess.
-
-- Q: What does chording do?
-  
-[JA TRANSLATION NEEDED]   A: If a number’s adjacent flags equal its count, chording reveals all its other neighbors at once.
-
-- Q: Any tip for early game?
-  
-
-
-
-
-
-- Q: I’m stuck with a 50/50 — what now?
-### よくある質問（FAQ）
-- Left‑click: reveal. Right‑click: flag. Middle/Chord: open around a satisfied number (implementation‑dependent). Quick restart from the menu.
-### コントロールガイド
-- Flag hygiene: Only flag when certain; otherwise keep candidate notes (if the build supports marks).
-[JA TRANSLATION NEEDED]   A: Start in the center to maximize opening cascades; corners give less information.
-
-
-
-
-
-
-A: Start in the center to maximize opening cascades; corners give less information.
-- Q: Any tip for early game?
-A: If a number’s adjacent flags equal its count, chording reveals all its other neighbors at once.
-- Q: What does chording do?
-
-
-A: Start in the center to maximize opening cascades; corners give less information.
+- **Q: 推測が必要ですか？**  
+  A: 最小限に。ほとんどは論理で解決できます。
+- **Q: 1000タイルとは？**  
+  A: はい、標準的なものよりも大きなグリッドです。
+- **Q: 勝つための最良の戦略は？**  
+  A: 体系的に作業し、パターンを学び、忍耐強くいてください。

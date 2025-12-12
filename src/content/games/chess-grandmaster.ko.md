@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: chess-grandmaster
-title: '[KO] Chess Grandmaster'
+title: 'Chess Grandmaster 체스 그랜드마스터'
 description: >-
-  [KO] Chess Grandmaster offers classic chess — learn openings, calculate
-  tactics, and convert advantages with endgame fundamentals.
+  Chess Grandmaster는 AI 또는 로컬 대전으로 즐기는 본격 체스 게임입니다.
+  오프닝, 미들게임 전술, 엔드게임 기본기를 단계별로 익히며 그랜드마스터를
+  향해 실력을 쌓아 보세요.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/chess-grandmaster.jpg
 tags:
@@ -14,37 +15,66 @@ score: 4.5/5  (2431 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Chess Grandmaster는 브라우저에서 체스를 본격적으로 연습할 수 있는 플랫폼입니다.
+AI 난이도를 조절해 혼자 연습하거나, 한 기기에서 번갈아 두는 로컬 대전으로 친구와
+승부를 겨룰 수 있습니다.
 
+게임은 체스의 세 단계인 오프닝(전개와 킹 안전), 미들게임(포크, 핀, 스큐어 등
+전술), 엔드게임(킹의 활동성, 옵포지션, 기본 메이트)을 모두 다룰 수 있도록 설계되어
+있으며, 난이도 조절 기능을 통해 계산력과 패턴 인식 능력을 체계적으로 키울 수
+있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Chess Grandmaster is a feature‑complete browser chess experience against AI or local opponents. Master the three phases: openings (development and king safety), middlegame (tactics like forks, pins, skewers), and endgames (king activity, opposition, basic mates). Adjustable difficulty helps you train calculation and pattern recognition.
+1.  **오프닝: 전개와 중앙, 킹 안전**  
+    -   나이트와 비숍 같은 소기물을 빠르게 전개하고, 가능한 한 일찍 캐슬링을
+        통해 킹을 안전하게 보호하세요.  
+    -   e4, d4 같은 중앙 칸에 폰을 두어 중앙을 장악하면 기물 활동성이 크게
+        올라갑니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **미들게임: 전술(CCT) 항상 확인하기**  
+    매 수마다 체크(Check), 캡처(Capture), 위협(Threat)을 순서대로 살피는 습관을
+    들이세요. 포크, 핀, 스큐어, 디스커버드 어택 같은 전술 패턴을 익히면 상대의
+    실수를 놓치지 않고, 자신의 공격 기회도 더 많이 발견할 수 있습니다.
 
-1.  **[KO]** Openings: Develop minor pieces, castle early, and fight for the center (e4/d4).
-2.  **[KO]** Tactics: Always scan checks, captures, threats on every move (“CCT”).
-3.  **[KO]** Structure: Avoid doubled/isolation if possible; create pawn majorities you can push.
-4.  **[KO]** Endgames: Activate your king; know basic mates (KQ vs K, KR vs K) and pawn endings (opposition/zugzwang).
-5.  **[KO]** Time control: Play simple, safe moves when low on time.
+3.  **폰 구조 관리**  
+    가능한 한 더블 폰, 고립 폰 같은 약점을 만들지 않도록 주의하고, 반대로
+    자신에게 유리한 폰 다수(폰 메이저리티)를 만들어 전진시킬 수 있는 구조를
+    목표로 하세요. 좋은 폰 구조는 엔드게임에서 결정적인 힘이 됩니다.
 
-### Controls Guide
+4.  **엔드게임: 킹을 적극적으로 사용하기**  
+    말이 많이 교환된 후에는 킹이 강력한 공격·수비 기물이 됩니다. 엔드게임에서는
+    킹을 중앙 쪽으로 전진시켜 폰을 지원하고, 상대 킹의 진입을 막는 것이 중요합니다.
+    KQ vs K, KR vs K 같은 기본 메이트와, 킹+폰 엔드게임에서의 옵포지션 개념을
+    익혀 두면 큰 도움이 됩니다.
 
-- Click a piece to see legal moves; click a destination to move.
-- Offer draw/resign and set AI level in the UI.
+5.  **시간 관리**  
+    짧은 시간 제어(블리츠, 래피드)에서는 복잡한 최선 수보다 "충분히 좋은" 안전한
+    수를 빠르게 두는 것이 더 나을 때가 많습니다. 시간이 부족해질수록, 큰 실수를
+    줄이는 것을 최우선 목표로 두세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Q: How do I improve quickly?
+-   **기물 선택:** 기물을 클릭하면 가능한 합법 수가 보드 위에 표시됩니다.
+-   **이동:** 이동하고 싶은 칸을 클릭해 기물을 옮깁니다.
+-   **기타 옵션:** UI에서 AI 난이도 조정, 무승부 제의, 기권, 새 게임 시작 등을
+    선택할 수 있습니다.
 
-A: Solve tactics daily, review your blunders, and learn a simple opening repertoire to reach familiar middlegames.
+### 자주 묻는 질문 (FAQ)
 
-- Q: Any beginner opening tips?
+-   **Q. 체스를 빨리 잘하려면 어떻게 해야 하나요?**  
+    A. 매일 전술 문제를 풀어 패턴을 익히고, 자신의 대국에서 나온 큰 실수들을
+    복기해 보는 것이 가장 효과적입니다. 여기에 간단한 오프닝 레퍼토리를 정해
+    익숙한 미들게임 구조로 들어가는 연습을 더해 보세요.
 
-A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
+-   **Q. 초보자는 어떤 오프닝을 하면 좋을까요?**  
+    A. 백일 때 1.e4나 1.d4처럼 중앙을 여는 수가 무난합니다. 나이트를 비숍보다
+    먼저 전개하고, 빠르게 캐슬링한 뒤 룩을 연결하는 기본 원칙을 지키는 것만으로도
+    좋은 출발이 됩니다.
 
-- Q: What endgames should I learn first?
-
-A: Checkmates with KQ vs K, KR vs K, basic king‑pawn opposition, and rook endings like the Lucena/Philidor positions.
-
+-   **Q. 엔드게임에서는 무엇부터 공부하는 게 좋나요?**  
+    A. 먼저 KQ vs K, KR vs K 같은 기본 메이트를 완벽히 익히고, 그다음에는
+    킹+폰 대 킹 엔드게임에서의 옵포지션과, 루크 엔드게임의 대표적인 Lucena/Philidor
+    포지션을 공부해 두면 대부분의 실전 엔드게임에 큰 도움이 됩니다.

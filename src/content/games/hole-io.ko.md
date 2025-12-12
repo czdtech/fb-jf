@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: hole-io
-title: '[KO] Hole io'
+title: "Hole io 홀.io 블랙홀 배틀"
 description: >-
-  [KO] City‑swallowing .io brawler: move a black hole to eat objects, grow
-  larger, and outscore or eliminate rivals on the map.
+  도시 곳곳의 물체를 빨아들이며 커지는 블랙홀.io 게임입니다. 작은 물체부터
+  차·건물까지 삼키며 몸집을 키우고, 다른 플레이어보다 더 많은 점수를
+  얻거나 직접 집어삼켜 탈락시키세요.
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/hole-io.jpg
 tags:
@@ -18,27 +19,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Hole io drops you into a destructible city as a roaming black hole. Start by eating small items—cones, benches, people—then graduate to cars, buildings, and entire blocks as your size increases. Modes include free‑for‑all score chases and battle variants where you knock out opponents by swallowing them.
+### 게임 개요
 
-### How to Play
-- Target clusters of small objects first for rapid growth.
-- Path through parks/markets early, then move to car‑dense streets.
-- When large, circle buildings to break them into swallowable pieces.
+`Hole io`에서는 플레이어가 블랙홀이 되어 파괴 가능한 도시를 돌아다니며
+물체를 삼킵니다. 처음에는 콘, 벤치, 사람 같은 작은 오브젝트부터 먹기 시작해,
+크기가 커질수록 자동차, 건물, 심지어 도시 블록 전체까지 빨아들일 수 있게
+됩니다. 모드에 따라 점수를 겨루는 프리 포 올, 다른 플레이어를 통째로 삼켜
+탈락시키는 배틀 모드 등이 제공됩니다.
 
-### Controls
-- Mouse/drag or WASD to steer; modes and timers vary by host.
+### 플레이 방법
 
-### Tips
-- Avoid larger rivals until you’ve grown; escape down wide streets.
-- Plan a growth route; detours waste precious timer seconds.
-- Use corners to trap opponents once you outsize them.
+- 초반에는 작은 물체들이 밀집된 구역(콘, 가로등, 사람 등)을 노려 빠르게
+  성장하세요.
+- 공원이나 시장처럼 작은 오브젝트가 많은 곳을 지나 성장한 뒤, 차가 많은
+  도로로 이동하면 효율적입니다.
+- 충분히 커진 후에는 건물 주변을 빙빙 돌며 일부를 부숴 조각을 만든 뒤,
+  그 조각들을 한꺼번에 삼켜 추가 성장을 노릴 수 있습니다.
 
-### FAQ
-- Q: How can I grow quickly at the start of the match?
-A: Prioritize dense clusters of tiny items before chasing cars or buildings.
-- Q: Can bigger holes eat me in this game?
-A: Yes—avoid direct paths and stay in open lanes until you grow.
-- Q: What mode should I pick for learning?
-A: FFA score mode is forgiving; practice routes without constant PvP.
+### 조작 방법
 
+- 마우스 드래그나 터치, 혹은 `WASD` 키로 블랙홀을 조종합니다.
+- 세부 모드와 타이머 규칙은 호스트에 따라 달라질 수 있습니다.
+
+### 플레이 팁
+
+- 자신보다 훨씬 큰 블랙홀은 피하고, 넓은 도로를 이용해 도망치면서 성장을
+  우선하세요.
+- 게임 시작 전 머릿속으로 성장 경로를 그려 두면, 제한 시간 안에 더 많은
+  오브젝트를 먹을 수 있습니다.
+- 충분히 커진 뒤에는 골목과 코너에 상대를 몰아 넣고, 도망갈 길을 막아
+  통째로 삼키는 전략도 유효합니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 초반에 빨리 커지려면 어떻게 해야 하나요?  
+  A: 자동차나 건물보다, 작은 물체가 빽빽하게 모여 있는 곳을 우선적으로
+  공략하는 것이 좋습니다.
+
+- Q: 이 게임에서 더 큰 블랙홀이 저를 삼킬 수 있나요?  
+  A: 네. 자신보다 훨씬 큰 상대는 언제든지 위협이 되므로, 정면으로 달려드는
+  동선을 피하고 열린 도로를 활용해 회피해야 합니다.
+
+- Q: 연습용으로 어떤 모드가 좋나요?  
+  A: 프리 포 올 점수 모드는 PvP 압박이 덜하고, 성장 루트 연습에 적합합니다.

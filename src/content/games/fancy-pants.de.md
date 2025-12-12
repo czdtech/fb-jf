@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: fancy-pants
-title: '[DE] Fancy Pants'
+title: "Fancy Pants"
 description: >-
-  [DE] Stylish stick‑figure platformer: fast momentum, wall‑jumps, and flowy
-  parkour across hand‑drawn levels and secret rooms.
+  Fancy Pants ist ein stylischer Strichmännchen-Platformer mit hohem Tempo:
+  Nutze Schwung, Walljumps und flüssige Parkour-Bewegungen durch
+  handgezeichnete Levels und geheime Räume.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/fancy-pants.jpg
@@ -15,31 +16,41 @@ score: 4.7/5  (778 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Fancy Pants setzt ganz auf handgezeichnetes Platforming mit Schwerpunkt auf
+Momentum und Flow. Du baust auf Schrägen Geschwindigkeit auf, springst an
+Wänden hoch und entdeckst geheime Bereiche sowie Sammelitems.
 
+### So spielst du
 
+- Halte deinen Schwung, indem du Sprünge genau am Ende von Schrägen timst.
+- Nutze Wallruns und Slides, um Bewegungen über große Lücken zu verketten.
+- Erkunde Seitenwege, um Trophäen und versteckte Räume zu finden.
 
-### Overview
-Hand‑drawn platforming focused on momentum and flow: build speed on slopes, wall‑jump, and discover secret areas and collectibles.
+### Steuerung
 
-### How to Play
-- Keep momentum by timing jumps at slope exits.
-- Use wall‑runs and slides to chain movement.
-- Explore side paths for trophies and hidden rooms.
+- Pfeiltasten/WASD zum Bewegen und Springen.  
+- S/Nach unten zum Rutschen.  
+- Nach oben, um Türen oder Eingänge zu öffnen (je nach Host).
 
-### Controls
-- Arrows/WASD: move/jump; S/Down to slide; Up to open doors (host dependent).
+### Tipps
 
-### Tips
-- Don’t mash jump—press at lip/edge for max carry.
-- Slides into jumps preserve speed better than flat starts.
-- Revisit earlier levels with better mastery to reach secrets.
+- Hämmere nicht einfach auf die Sprungtaste – ein präziser Sprung direkt an der
+  Kante bringt die größte Weite.
+- Aus einem Slide in den Sprung gehst du deutlich schneller hervor als aus
+  einem Stand.
+- Spiele frühere Levels noch einmal, wenn du die Steuerung besser beherrschst –
+  so erreichst du zusätzliche Geheimnisse.
 
 ### FAQ
-- Q: Is there combat?
-A: Light—mainly stomps or simple swipes in some versions.
-- Q: Are there time trials?
-A: Many releases feature speed‑run or challenge rooms.
-- Q: Can I change pants colors?
-A: Some versions unlock cosmetics.
 
+- **F: Gibt es Kämpfe?**  
+  **A:** Nur leicht – meist simples Draufspringen oder kurze Nahkampfswipes,
+  sofern die Version das unterstützt.
+
+- **F: Gibt es Time-Trials?**  
+  **A:** Viele Versionen bieten Speedrun- oder Challenge-Räume.
+
+- **F: Kann ich die Hosenfarbe ändern?**  
+  **A:** In einigen Varianten lassen sich kosmetische Anpassungen freischalten.

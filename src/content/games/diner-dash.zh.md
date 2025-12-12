@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: diner-dash
-title: '[ZH TRANSLATION NEEDED] Diner Dash'
+title: "Diner Dash 餐厅快打时间管理"
 description: >-
-  [ZH TRANSLATION NEEDED] Diner Dash is a time‑management game: seat guests,
-  take orders, serve meals, and keep everyone happy to clear levels.
+  《Diner Dash 餐厅快打》是一款经典时间管理游戏。安排客人入座、点单、上菜与收桌，在紧
+  凑节奏中保持顾客满意度，完成关卡目标。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/diner-dash.jpg
 tags:
@@ -16,24 +16,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Diner Dash is a time‑management game about seating guests, taking orders, delivering food, bussing tables, and keeping customer hearts high to clear objectives. You earn combos by chaining actions (e.g., seating groups of the same color, serving quickly) and buy upgrades between levels. 
+
+《Diner Dash 餐厅快打》是一款以餐厅服务为主题的时间管理游戏。你需要不断接待进店的客人，
+安排他们入座、记录点单、端上菜品并在用餐结束后及时清理桌面，在有限时间内维持较高的顾客
+“爱心值”，以达成关卡目标。通过连贯地安排动作（例如连续为同色客人安排座位、连续上菜）可
+以获得连击与额外得分，关卡间则可以购买升级，提升鞋子速度、增加餐桌数量或新增设备。
 
 ### How to Play
-- Seat arriving customers promptly; match table sizes and colors when possible for bonuses.  
-- Take orders, deliver dishes, and clear tables in an efficient loop to avoid queues.  
-- Use upgrades (faster shoes, more tables, equipment) to meet higher quotas. 
+
+- 及时为进门客人安排座位，优先匹配桌子大小及颜色（有颜色加成时），争取额外奖励。  
+- 在客人落座后，按顺序完成“点单 → 取餐 → 上菜 → 收盘 → 清桌”这一循环，避免前厅排队过长或
+  出现大量脾气不好的客人离席。  
+- 合理利用关卡间的升级，例如更快的移动速度、更多桌子或更高效的设备，以满足更高营业目标
+  。 
 
 ### Controls
-- Mouse/touch: click destinations in order to queue actions; some versions allow drag‑and‑drop for seating or serving. 
+
+- 鼠标/触控：按顺序点击目的地即可为主角排队执行相关动作；部分版本支持拖拽客人到餐桌或拖
+  拽菜品到对应座位。  
 
 ### Tips and Strategies
-- Chain related actions back‑to‑back to maintain high combos.  
-- Prioritize impatient customers first; watch the hearts meter.  
-- Pre‑stage actions (collect orders in a sweep, then serve in a sweep) to minimize travel.  
+
+- 尽量将相同类型的动作连续执行（如一次性收集所有桌子的点单，然后再一次性上菜），提高路
+  线效率，形成高连击。  
+- 优先照顾心情容易下降或等待时间过长的客人，随时关注顾客头上的“爱心”变化，以免突然大批
+  离席影响评分。  
+- 在移动路径规划上，提前想好“从门口到厨房再到各桌”的合理路线，避免反复在场景两端来回奔
+  波浪费时间。  
 
 ### FAQ
-- Q: What do color matches do?  
-[ZH TRANSLATION NEEDED]   A: Seating same‑color groups at like‑colored tables yields extra points/combos.   
-- Q: Can I retry for a higher score?  
-[ZH TRANSLATION NEEDED]   A: Yes—replaying levels to optimize routes and chains is a core loop. 
 
+- **Q: 座位与客人颜色匹配有什么用？**  
+  **A：** 在支持颜色匹配系统的版本中，将同色客人安排在同色餐桌可以获得额外分数与连击加
+  成，有助于更快达成高分目标。   
+
+- **Q: 可以重复游玩关卡刷高分吗？**  
+  **A：** 可以。反复重玩关卡、优化走位与连击顺序是这类时间管理游戏的重要乐趣之一，也能借
+  此赚取更多金币用于解锁或升级道具。  

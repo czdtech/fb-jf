@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-shatter-sprunk
-title: '[ES] Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online'
+title: "Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online"
 description: >-
-  [ES] Incredibox Shatter Sprunk is a fan-created Incredibox mod music game. In
-  this version, all characters are presented in a striking yellow color, and
-  each character has a unique and unrepeatable sound effect.
+  Incredibox Shatter Sprunk es un mod musical fan-made de Incredibox. En esta
+  versión, todos los personajes aparecen en un llamativo color amarillo y cada
+  uno tiene un efecto sonoro único e irrepetible.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
 thumbnail: /incredibox-shatter-sprunk.png
 tags:
@@ -16,37 +16,62 @@ score: 4.5/5  (614 votes)
 
 
 
-### What's So Fun About Incredibox Shatter Sprunk?
+### ¿Qué tiene de divertido Incredibox Shatter Sprunk?
 
-Incredibox Shatter Sprunk, a fan Mod, will take you into a musical world that combines the classic gameplay of Incredibox with the quirky style of Sprunki! Here, you will create your own music works with a group of unique animated characters.
+Incredibox Shatter Sprunk, un mod creado por fans, te lleva a un mundo musical
+que combina la jugabilidad clásica de Incredibox con el estilo excéntrico de
+Sprunki. Aquí crearás tus propias piezas musicales acompañado por un grupo de
+personajes animados muy peculiares.
 
-### How to Play Incredibox Shatter Sprunk?
+### ¿Cómo se juega a Incredibox Shatter Sprunk?
 
-The gameplay is very simple, you can get started in a few steps:
+La mecánica es muy sencilla; en pocos pasos estarás componiendo:
 
-- **Select Characters:** You’ll see a lineup of unique, animated characters inspired by the Sprunki theme. Each character represents a specific sound category.
-- **Drag and Drop Sounds:** Using your mouse, drag sound icons from the bottom or side of the screen and drop them onto the characters. Each icon activates a sound loop that the character will perform.
-- **Layer Your Mix:** Add multiple characters to the stage, combining their sounds to build a layered musical track. You can have up to several characters active at once, depending on the mod’s design.
-- **Experiment and Adjust:** Remove or swap sounds by dragging icons off characters or replacing them with new ones. Listen to how the layers interact and tweak them to create a cohesive mix.
-- **Unlock Bonuses (Optional):** Certain sound combinations may trigger special animations or bonus tracks—experiment to discover these hidden features.
-- **Save and Share:** Once satisfied with your mix, use the game’s save or share feature to record your creation or share it with others.
+- **Elige personajes:** verás una alineación de personajes animados inspirados
+  en el tema Sprunki. Cada uno representa una categoría de sonido distinta.
+- **Arrastra y suelta sonidos:** usando el ratón, arrastra los iconos de sonido
+  desde la parte inferior o lateral de la pantalla y suéltalos sobre los
+  personajes. Cada icono activa un loop que ese personaje interpretará.
+- **Capa tu mezcla:** añade varios personajes al escenario y combina sus sonidos
+  para construir una pista llena de capas. Según la versión del mod, puedes
+  tener varios personajes activos a la vez.
+- **Prueba y ajusta:** retira o cambia sonidos arrastrando los iconos fuera de
+  los personajes o sustituyéndolos por otros. Escucha cómo interactúan las
+  capas y ajústalas hasta lograr una mezcla coherente.
+- **Desbloquea bonus (opcional):** ciertas combinaciones de sonidos pueden
+  activar animaciones especiales o pistas extra; experimenta para encontrar
+  estas sorpresas ocultas.
+- **Guarda y comparte:** cuando estés satisfecho con tu mezcla, usa la función
+  de grabar o compartir para guardarla o enseñársela a otros.
 
+**En Incredibox Shatter Sprunk no se trata de "ganar", sino de crear la música
+que a ti te guste.**
 
-**In Incredibox Shatter Sprunk, your goal is not to "win", but to create music works that you like.**
+### Controles con ratón
 
-### Mouse Controls:
+El manejo es muy simple y se hace casi todo con el ratón:
 
-The operation of Incredibox Shatter Sprunk is very simple, you can easily complete it with the mouse:
+- **Clic izquierdo y arrastrar:** haz clic en un icono de sonido, mantén pulsado
+  y arrástralo hasta un personaje. Al soltarlo, el personaje empezará a
+  interpretar ese loop.
+- **Quitar sonidos:** para detener un sonido, arrastra el icono fuera del
+  personaje o, en algunas versiones, haz clic derecho sobre el personaje para
+  silenciarlo o retirarlo (la función exacta puede variar según el mod).
+- **Previsualización al pasar el cursor:** al pasar el ratón por encima de
+  iconos o personajes puedes ver información o escuchar una vista previa, lo que
+  te ayuda a elegir sin comprometerte.
+- **Ajustar el tempo:** algunos mods incluyen un control de tempo; mueve el
+  deslizador o usa los botones para cambiar la velocidad de la mezcla.
+- **Pausa/Reproducción:** si la versión incluye pausa, usa el botón
+  correspondiente para detener la música, reorganizar sonidos y reanudar sin
+  perder el progreso.
 
-- **Left-Click and Drag:** Click on a sound icon, hold the mouse button, and drag it to a character. Release to assign the sound. The character will immediately start performing the loop.
-- **Remove Sounds:** To stop a sound, click and drag the icon off the character, or in some versions, right-click the character to mute or remove it (functionality may vary by Mod version).
-- **Hover Feedback:** Hovering over icons or characters may reveal tooltips or previews of the sound, helping you choose without committing.
-- **Adjust Tempo:** Some Mods include a tempo slider or buttons - click and drag or click to adjust the speed of your mix.
-- **Pause/Play:** If the Mod includes a pause feature, click a designated button (often a play/pause icon) to stop and rearrange sounds without losing your progress.
+### Puntos destacados de Incredibox Shatter Sprunk
 
-
-### Highlights of Incredibox Shatter Sprunk:
-
-- **Simple and Easy-to-Use Operation:** The mouse operation is simple and intuitive, allowing players of all ages and skill levels to easily get started.
-- **Unique Sprunki Style:** Combines the weird and innovative style of Sprunki, allowing you to experience a different Incredibox.
-- **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+- **Manejo sencillo:** el control por ratón es intuitivo, ideal para jugadores
+  de todas las edades y niveles.
+- **Estilo Sprunki único:** combina el estilo raro e innovador de Sprunki con la
+  base de Incredibox para ofrecer una experiencia diferente.
+- **Exploración divertida:** descubre animaciones y efectos ocultos mientras
+  pruebas combinaciones, haciendo que el proceso creativo esté lleno de
+  sorpresas.

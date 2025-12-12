@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: garden-bloom
-title: '[DE] Garden Bloom'
+title: Garden Bloom
 description: >-
-  [DE] Restore a beautiful garden in Garden Bloom! Solve challenging match-3
-  puzzles, earn stars, and choose from lovely decorations to design the garden
-  of your dreams.
+  In Garden Bloom restaurierst du einen verwilderten Garten: Löse
+  Match-3-Puzzles, sammle Sterne und wähle Deko-Elemente, um deinen Traumgarten
+  zu gestalten.
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/garden-bloom.png
 tags:
@@ -15,41 +15,64 @@ score: 4.6/5  (2780 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Garden Bloom kombiniert entspannende Match-3-Level mit Gartendesign und
+Renovierung. Du übernimmst einen vernachlässigten Garten und bringst ihn nach
+und nach wieder zum Blühen. Im Kern stehen Puzzles, in denen du bunte Blumen
+und andere Gartenelemente durch Tauschen kombinierst, um Levelziele zu
+erfüllen. Für jedes gewonnene Level erhältst du Sterne, mit denen du Aufgaben
+auf deiner To-do-Liste im Garten ausführst – etwa Aufräumen, Bepflanzen oder
+Dekorationen platzieren.
 
+### Gameplay & Strategie
 
+1. **Zwei Spiele in einem:**  
+    - **Match-3-Puzzles:** Hier verdienst du deine Sterne. Jedes Level hat eigene
+     Ziele (z.B. 30 rote Blumen sammeln, alle Erdefelder entfernen) und eine
+     begrenzte Anzahl an Zügen.  
+    - **Garten-Restaurierung:** Mit Sternen schaltest du Aufgaben frei, räumst
+     Bereiche auf und triffst Deko-Entscheidungen. So eröffnest du nach und nach
+     neue Gartenabschnitte.
 
-### Detailed Game Introduction
+2. **Match-3-Tipps:**  
+    - **Ziel im Blick behalten:** Mach nicht nur zufällige Matches, sondern
+     konzentriere dich auf Kombos, die dich direkt deinem Levelziel näher
+     bringen.  
+    - **Power-ups bauen:** Kombinationen aus 4 oder mehr Steinen erzeugen
+     Booster – etwa Linienräumer oder Bomben. Ihre Kombination räumt große
+     Teile des Spielfelds.  
+    - **Züge planen:** Denke ein bis zwei Züge voraus, um Kettenreaktionen oder
+     Spezialsteine vorzubereiten. Da die Züge limitiert sind, zählt jeder Swap.
 
-Garden Bloom is a relaxing and creative game that beautifully blends classic match-3 puzzles with garden design and restoration. Players are tasked with transforming a neglected garden back to its former glory. The core of the game involves completing match-3 levels, where you swap colorful flowers and other garden elements to achieve specific goals. Successfully beating a level rewards you with stars, which act as the currency to perform tasks in the garden, such as cleaning up, planting flowers, and placing beautiful decorations.
+3. **Gartengestaltung:**  
+    - Viele Aufgaben geben dir die Wahl zwischen mehreren Deko-Stilen (z.B.
+     verschiedene Bänke). Wähle, was optisch zu deinem Traumgarten passt.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **The Two-Part Gameplay:**
-    *   **[DE]** **Match-3 Puzzles:** This is where you earn your stars. Each level has a unique objective (e.g., collect 30 red flowers, clear all the dirt patches) that must be completed in a limited number of moves.
-    *   **[DE]** **Garden Restoration:** Use the stars you've earned to complete tasks from your to-do list. This involves making design choices and progressively unlocking new areas of the garden.
+- **Im Puzzle:** Ziehe mit Maus oder Finger zwei benachbarte Symbole zum
+  Tauschen, um Dreier- oder größere Matches zu bilden.
+- **Im Garten:** Öffne die Aufgabenliste (oft unten links) und klicke auf eine
+  Aufgabe, um einen Stern auszugeben und sie abzuschließen.
 
-2.  **[DE]** **Match-3 Strategy:**
-    *   **[DE]** **Focus on the Objective:** Don't just make random matches. Always prioritize matches that directly help you achieve the level's goal.
-    *   **[DE]** **Create Power-ups:** Matching more than three items creates powerful boosters. A 4-in-a-row match might create a bee that clears a line, while an L-shape match could create a bomb. Combining these boosters leads to even bigger board-clearing effects.
-    *   **[DE]** **Plan Your Moves:** Think a step or two ahead. Look for opportunities to set up cascades or special gem combinations. Since moves are limited, every swap counts.
+### Häufige Fragen (FAQ)
 
-3.  **[DE]** **Garden Design:**
-    *   **[DE]** As you complete tasks, you will often be given a choice between three different styles for a decoration (e.g., three different types of benches). Choose the one that best fits your vision for the garden!
+- **F: Wie bekomme ich Sterne?**  
+  **A:** Sterne erhältst du ausschließlich durch das erfolgreiche Abschließen
+  von Match-3-Leveln; pro gewonnenem Level gibt es in der Regel einen Stern.
 
-### Controls Guide
+    - **F: Was passiert, wenn mir im Level die Züge ausgehen?**  
+  **A:** Schaffst du das Ziel nicht in der vorgegebenen Zugzahl, verlierst du
+  ein Leben. Du kannst warten, bis Leben regeneriert sind, oder mit Ingame-
+  Währung auffüllen.
 
-*   **[DE]** **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.
-*   **[DE]** **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.
+- **F: Kann ich Deko-Entscheidungen rückgängig machen?**  
 
-### Frequently Asked Questions (FAQ)
+    - **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
 
-*   **[DE]** **Q: How do I earn stars?**
-    *   **[DE]** **A:** You can only earn stars by successfully completing the match-3 puzzle levels. Each level you beat will typically award you one star.
+- **Q: Can I change the decorations I've chosen for the garden?**
 
-*   **[DE]** **Q: What happens if I run out of moves in a puzzle?**
-    *   **[DE]** **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
-
-*   **[DE]** **Q: Can I change the decorations I've chosen for the garden?**
-    *   **[DE]** **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
-
+    - **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
+  **A:** In vielen Spielen dieser Art sind Designwahlen dauerhaft; ein
+  nachträglicher Wechsel kostet meist zusätzliche Coins oder spezielle Tickets.

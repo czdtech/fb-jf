@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: coloring-match
-title: '[ES] Coloring Match'
+title: "Coloring Match"
 description: >-
-  [ES] Coloring Match teaches color mixing — blend paints to match targets,
-  manage hue/saturation, and refine with small tweaks.
+  Coloring Match te enseña a mezclar colores: combina pinturas para igualar el
+  objetivo, ajusta tono/saturación y remata con pequeños retoques hasta clavar
+  cada mezcla.
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/coloring-match.jpg
 tags:
@@ -16,36 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Coloring Match te reta a reproducir un color objetivo mezclando tonos básicos y
+ajustando brillo y saturación. Los detalles sutiles importan: si te pasas con la
+saturación o con el valor (luminosidad), puedes fallar aunque el tono sea casi
+idéntico.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Coloring Match asks you to reproduce a target color by mixing primaries and adjusting brightness/saturation. Subtle differences matter: overshooting saturation or value can miss the goal even if the hue matches.
+1.  Empieza siempre por clavar el tono en el círculo cromático y, después,
+    ajusta la saturación y el valor.
+2.  Cerca del objetivo, haz cambios muy pequeños; los movimientos bruscos
+    suelen hacer que te pases de largo.
+3.  Si la interfaz lo permite, compara el color bajo la misma luz y fondo para
+    apreciar mejor las diferencias.
+4.  Usa deshacer o reinicio cuando la mezcla se vuelva demasiado "barrosa".
+5.  Aprende parejas complementarias para neutralizar matices y llevar el color
+    hacia marrones o grises controlados.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Match hue first (color wheel), then adjust saturation and value.
-2.  **[ES]** Make small changes near the target; big swings overshoot.
-3.  **[ES]** Compare under the same lighting/background if the UI offers it.
-4.  **[ES]** Use undo/reset when the mix gets muddy.
-5.  **[ES]** Learn complementary pairs to neutralize tints.
+- Arrastra deslizadores o ajusta cantidades de pintura; la vista previa se
+  actualiza en tiempo real.
+- Confirma cuando tu mezcla se acerque lo suficiente al color objetivo según el
+  margen de tolerancia del juego.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag sliders or mix paint amounts; preview updates live.
-- Confirm when your color matches the target within tolerance.
+- P: El tono parece correcto pero el juego dice que está mal, ¿por qué?
+  
+  R: Seguramente la saturación o el valor no coinciden. Prueba a bajar la
+  saturación para acercarte al gris o a subir el valor para ganar brillo.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Hay atajos para conseguir marrones o grises?
+  
+  R: Mezcla colores complementarios para neutralizar la tonalidad y acercarla a
+  marrón o gris, y luego ajusta el valor para afinar.
 
-- Q: Hue matches but still fails — why?
-
-A: Saturation or value is off. Lower saturation to gray it out or raise value for brightness.
-
-- Q: Any shortcut for brown/gray?
-
-A: Mix complementary colors to neutralize toward brown/gray, then adjust value.
-
-- Q: Do tiny tweaks matter?
-
-A: Yes — near the goal, use small slider nudges for precision.
-
+- P: ¿Los ajustes pequeños marcan tanta diferencia?
+  
+  R: Sí. Cuando estás muy cerca del objetivo, los últimos pasos dependen de
+  microajustes en los deslizadores para conseguir una coincidencia perfecta.

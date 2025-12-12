@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: kitty-match
-title: '[KO] Kitty Match'
+title: Kitty Match 고양이 매치3
 description: >-
-  [KO] Welcome to Kitty Match, a purr-fectly delightful match-3 puzzle game!
-  Swap colorful cat-themed items to make matches and complete challenging
-  levels.
+  귀여운 고양이 아이템으로 퍼즐을 푸는 3매치 게임 'Kitty Match' 가이드입니다. 고양이 테마 타일을 맞바꿔 목표를 달성하고 파워업
+  조합으로 보드를 시원하게 지워 보세요.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/kitty-match.png
 tags:
@@ -18,30 +17,59 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Kitty Match*는 고양이와 관련된 귀여운 아이콘들로 가득한
+3매치 퍼즐 게임입니다. 인접한 타일을 교환해 같은 모양 세 개
+이상을 맞추면 지워지고, 각 레벨마다 다른 목표(특정 아이템 수집,
+특수 블록 제거 등)를 달성해야 합니다.
 
-Kitty Match is a charming and addictive match-3 puzzle game filled with cute cats and colorful challenges. The goal is to swap adjacent tiles to create lines of three or more identical items. Each level has a unique objective, such as collecting a certain number of specific items or clearing special blocks. By completing levels, you can earn rewards and progress through a delightful, cat-filled world. It's a relaxing game for all ages, perfect for puzzle and cat lovers alike.
+레벨을 클리어하면 보상을 얻고, 고양이 세계를 조금씩
+진행해 나갈 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Look for Big Matches:** While matching three items is good, matching four or five items is even better! These larger matches create special power-up tiles that can clear entire rows, columns, or explode to clear a whole area.
-2.  **[KO]** **Plan Your Moves:** You only have a limited number of moves in each level. Before making a swap, look at the whole board and try to plan a few moves ahead. Prioritize matches that will help you achieve the level's goal.
-3.  **[KO]** **Combine Power-ups:** The real magic happens when you combine two special power-up tiles. Swapping a bomb with a rocket, for example, can create a massive board-clearing effect. Experiment with different combinations.
-4.  **[KO]** **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade of new tiles to fall, often creating new matches automatically. This is a great way to clear the board efficiently.
+1. **대형 매치 우선**  
+   3개 매치도 좋지만, 4개·5개 매치는 라인 삭제나 폭탄 등
+   강력한 파워업을 만들어 줍니다. 가능한 한 큰 매치를
+   우선적으로 노려 보세요.
 
-### Controls Guide
+2. **이동 수 고려한 계획**  
+   각 레벨에는 이동 수 제한이 있으므로, 목표 달성에 직접
+   도움이 되는 매치를 먼저 선택해야 합니다.
 
-*   **[KO]** **Swap Tiles:** Use your mouse to click and drag an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
+3. **파워업 조합 실험**  
+   폭탄과 로켓, 라인 클리어 등 특수 타일 두 개를 교환하면
+   화면 상당 부분을 지우는 강력한 효과가 발동합니다.
 
-### Frequently Asked Questions (FAQ)
+4. **하단에서 시작하기**  
+   아래쪽에서 매치를 만들면 위에서 새로운 타일이 떨어지며
+   자동 연쇄가 일어나기 쉬워, 적은 이동으로 많은 타일을
+   제거할 수 있습니다.
 
-*   **[KO]** **Q: What is the goal of each level?**
-    *   **[KO]** **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.
+### 조작 가이드
 
-*   **[KO]** **Q: What happens if I run out of moves?**
-    *   **[KO]** **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
+- **타일 교환**: 마우스로 타일을 클릭 후 인접한 타일로
+  드래그해 위치를 바꾸면, 3개 이상 매치가 되는 경우에만
+  교환이 성립합니다.
 
-*   **[KO]** **Q: How do I create a bomb?**
-    *   **[KO]** **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
+### 자주 묻는 질문(FAQ)
+
+- **Q: 각 레벨의 목표는 어디에서 확인하나요?**  
+  **A:** 레벨 시작 화면과 상단 UI에 목표 아이템·블록 수가
+  표시됩니다.
+
+    - **Q: 이동 수를 다 쓰면 어떻게 되나요?**  
+  **A:** 목표를 달성하지 못한 상태에서 이동 수가 0이 되면
+  목숨을 잃고, 해당 레벨을 다시 도전해야 합니다.
+
+- **Q: 폭탄은 어떻게 만들 수 있나요?**  
+
+    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
+
+- **Q: How do I create a bomb?**
+
+    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
+  **A:** L자 또는 T자 형태로 같은 아이템 5개를 매치하면
+  주변을 폭발시키는 폭탄 파워업이 생성됩니다.
 

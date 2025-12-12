@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: aloha-mahjong
-title: '[ZH TRANSLATION NEEDED] Aloha Mahjong'
-description: >-
-  [ZH TRANSLATION NEEDED] Aloha Mahjong is a relaxing tile‑match — find pairs,
-  clear layers, and enjoy island vibes.
+title: Aloha Mahjong 阿罗哈麻将
+description: 《Aloha Mahjong（阿罗哈麻将）》是一款带有海岛风情的连连看式麻将消除游戏，在叠放牌阵中找出可配对的牌面，一层层清空牌堆放松大脑。
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/aloha-mahjong.jpg
 tags:
@@ -15,25 +13,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Aloha Mahjong offers classic mahjong solitaire. Match open tiles to clear stacked layouts, manage limited shuffles/hints, and solve sets without trapping key pairs.
+*Aloha Mahjong（阿罗哈麻将）* 提供的是经典麻将接龙玩法：桌面上摆放着多层叠加的麻将牌，你需要在其中找到图案相同、且“处于打开状态”的两张牌，将它们配对消除，直到整个牌阵被完全清空。
 
-### Gameplay Strategy & Walkthrough
+和传统麻将不同，这里没有胡牌规则，纯粹是“找对子 + 解叠层”的轻度益智体验。叠层结构和可用洗牌/提示次数有限，因此既要放松地慢慢找牌，也要避免随便点掉导致后面无牌可配。
 
-1.  打开结构：释放最多其他牌的牌。
-2.  配对优先级：尽早清除稀有符号以防止死锁。
-3.  向前看：避免移除封住更深配对的牌。
-4.  谨慎使用洗牌功能。
-5.  时间与准确性：在计时模式下，平衡速度与安全选择。
+### 游戏策略与攻略
 
-### 控制指南
+1.  **优先打散“锁结构”的牌：** 观察哪些牌一旦消除，就能解锁大量被压住或被夹住的牌块，优先从这些位置下手，可以让后续选择更多。
+2.  **先清稀有图案：** 如果发现某种牌在全局中出现次数很少，尽量尽早将它们配对清除，避免后期只剩一张“单身牌”导致死局。
+3.  **提前预判下一层：** 每消掉一对牌都会露出下层的新牌，在点击前可以想一想：这对牌走了之后，下面会不会出现新的可配对组合，还是反而把某些牌封死。
+4.  **洗牌/提示要慎用：** 洗牌可以重排整个牌面，但次数有限，最好留到真的无路可走时再用；提示功能同样如此，优先依靠自己的观察，只在长时间找不到配对时作为补充。
+5.  **计时模式中兼顾速度与稳健：** 如果当前模式有时间限制，可以先快速消除显而易见的配对，再在结构复杂的位置停下来仔细观察，避免为了赶时间把局面玩死。
 
-- Select matching open tiles to clear them.
-- Hints/Shuffles via UI if available.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+- 使用鼠标或手指点击两张图案相同、且左右至少有一侧没有被挡住、上方不被覆盖的“开放牌”，即可将它们配对消除。
+- 如游戏提供提示或洗牌按钮，可在局面接近无解时通过 UI 触发相应功能。
 
-- No pairs? Use a shuffle if allowed or restart.
-- What is an "open" tile? One free on at least one side and not covered.
-- Multiple layouts? Usually several, with varying difficulty.
+### 常见问题解答（FAQ）
+*   **问：提示没有了、也找不到可配对牌，怎么办？****
+    *   答：** 如果还有洗牌次数，可以尝试洗牌刷新牌面；若洗牌也用尽，则本局通常只能选择重新开始。
+*   **问：什么样的牌算是“开放”的？****
+    *   答：** 至少有一侧（左或右）没有紧邻其他牌，并且不会被上层牌块压住的牌，才算是可以点击配对的“开放牌”。
+*   **问：是否有不同的牌阵和难度？****
+    *   答：** 一般会提供多个牌阵布局，从简单的平面到叠层更复杂的图形，难度逐步提升，可按喜好选择挑战。

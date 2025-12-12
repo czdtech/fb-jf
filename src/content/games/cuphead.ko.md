@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: cuphead
-title: '[KO] Cuphead'
-description: >-
-  [KO] Cuphead is a fast‑paced run‑and‑gun: master precise jumps, dashes, and
-  boss patterns to survive intense fights.
+title: Cuphead 컵헤드
+description: '빠른 템포의 런앤건 액션 게임 Cuphead입니다. 정밀한 점프와 대시, 보스 패턴을 익혀 숨 막히는 전투를 돌파해 보세요.'
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/cuphead.jpg
 tags:
@@ -15,59 +13,108 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **게임 소개**
 
+Cuphead는 보스전 중심의 클래식 런앤건 액션 게임입니다. 1930년대 애니메이션에서
+영감을 받은 손그림 셀 애니메이션, 수채화 배경, 라이브 재즈 사운드트랙까지
+비주얼과 음악 모두 옛 카툰 스타일을 정성스럽게 재현한 것이 특징입니다.
 
+이야기는 악마와의 내기를 잃은 컵헤드와 그의 동생 머그맨이, 악마에게 빚을 진
+도망자들의 “영혼 계약서(soul contracts)”를 회수하라는 임무를 맡으면서 시작됩니다.
+플레이어가 상대하는 각종 괴상하고 창의적인 보스들이 바로 이 채무자들입니다.
 
-### **Game Introduction**
+게임 플레이는 크게 두 종류의 스테이지로 나뉩니다.
 
-Cuphead is a classic run-and-gun action game heavily focused on boss battles. Visually and audibly, it is meticulously designed in the style of 1930s cartoons, featuring hand-drawn cel animation, watercolor backgrounds, and a live jazz soundtrack.
+1. **보스 배틀**  
+   게임의 핵심 콘텐츠입니다. 각 보스전은 여러 단계(페이즈)로 구성되어 있고,
+   단계마다 다른 패턴과 공격 방식이 이어집니다. 패턴을 외우고, 회피 타이밍을
+   익히며 조금씩 돌파해 나가는 식으로 진행됩니다.  
+2. **런앤건(Run & Gun) 스테이지**  
+   보다 전통적인 횡스크롤 액션 스테이지로, 수많은 자잘한 적과 장애물을
+   돌파해 끝까지 도달해야 합니다. 이 스테이지는 주로 코인을 얻는 용도로,
+   상점에서 새 무기와 참(Charm)을 구매하는 데 필요한 자금을 제공합니다.  
 
-The game's narrative follows Cuphead and his brother Mugman, who, after losing a bet with the Devil, are tasked with collecting the "soul contracts" from the Devil's other runaway debtors. These debtors manifest as the game's diverse and challenging bosses.
+Cuphead는 높은 난이도로 유명하며, 정밀한 조작과 빠른 반사 신경, 그리고
+“죽으면서 배우는” 패턴 학습이 필수인 게임입니다.
 
-Gameplay is split into two main types of levels:
-1.  **[KO]** **Boss Battles**: The core of the game. These are multi-phase encounters against large, creative enemies, each with a unique set of attack patterns that must be memorized and overcome.
-2.  **[KO]** **Run & Gun Levels**: More traditional side-scrolling platforming stages where players must navigate through hordes of smaller enemies to reach the end. These levels are the primary source of coins, which are used to purchase new weapons and charms.
+### **플레이 전략 & 팁**
 
-The game is renowned for its high difficulty, demanding precise timing, quick reflexes, and a trial-and-error approach to learning enemy patterns.
+1. **패턴 인식이 전부다**  
+   힘으로 밀어붙이는 게임이 아닙니다. 모든 보스는 각 페이즈마다 정해진 패턴을
+   가지고 있습니다. 여러 번 죽어 가며 패턴을 익히고, 다음 도전에서 조금씩 더
+   멀리 가는 식으로 접근하세요. 먼저 회피에 집중하고, 그다음이 공격입니다.  
 
-### **Gameplay Strategy & Tips**
+2. **패리 슬랩(Parry Slap)을 반드시 익힐 것**  
+   게임의 가장 중요한 핵심 시스템입니다. 화면에서 **핑크색**으로 표시되는
+   오브젝트는 모두 패리할 수 있습니다. 점프 중에 핑크 오브젝트와 겹칠 때 다시
+   점프 버튼을 눌러 패리를 성공시키면, 슈퍼 게이지가 차오르고, 특정 패턴을
+   피하거나 발판 역할을 하는 등 진행에 필수적인 경우도 많습니다.  
 
-1.  **[KO]** **Pattern Recognition is Everything**: This is not a game about brute force. Every boss has a set of predictable attack patterns for each of its phases. Your goal is to die, learn the pattern, and try again. Focus on dodging first and attacking second.
-2.  **[KO]** **Master the Parry Slap**: This is the single most important mechanic. Any object that is **pink** can be parried. To parry, jump and then press the jump button again while in contact with the pink object. A successful parry will fill your Super Meter, and it is sometimes necessary for platforming or avoiding certain attacks.
-3.  **[KO]** **Use Your Arsenal Wisely**:
-    *   **[KO]** **EX Moves**: Each weapon has a powerful "EX" version that costs one Super Meter card. These deal significant damage and are great for finishing a difficult boss phase quickly.
-    *   **[KO]** **Super Arts**: Your ultimate moves, unlocked at Mausoleum levels. They can grant temporary invincibility or unleash a massive attack. Save them for the most chaotic final phases of a boss fight.
-    *   **[KO]** **Weapons and Charms**: Don't stick with the default weapon. Use the coins from Run & Gun levels to buy new ones. The **Spread** shot is excellent for close-range damage, while the **Chaser** is great for when you need to focus entirely on dodging. For charms, the **Smoke Bomb** (which makes your dash invincible) is widely considered the best for beginners.
-4.  **[KO]** **Don't Get Greedy**: A common mistake is trying to squeeze in one extra shot when you should be dodging. It is always better to avoid taking damage than to deal a little bit more. Stay patient and wait for safe openings to attack.
-5.  **[KO]** **Use the Lock Button**: The "Lock" button allows you to stand in place and aim in 8 directions. This is crucial for hitting bosses or weak points that are not directly in front of you, all while you focus on dodging projectiles.
-6.  **[KO]** **Co-op Can Be a Blessing and a Curse**: In two-player mode, you can revive your partner with a parry slap on their ghost. However, bosses have increased health, and the screen becomes much more chaotic. Communication is essential for success.
+3. **무기와 슈퍼를 상황에 맞게 활용하기**  
+    - **EX 공격**: 각 무기에는 슈퍼 카드 1장을 소모해 사용하는 강화 샷(EX)이
+     있습니다. 큰 피해를 입힐 수 있어 까다로운 페이즈를 빠르게 넘길 때 유용합니다.  
+    - **슈퍼 아트(Super Arts)**: 무덤(Mausoleum) 스테이지를 클리어하면 해금되는
+     궁극기입니다. 잠시 무적 상태가 되거나, 화면 전체를 덮는 강력한 공격을
+     사용하게 해 줍니다. 보스의 마지막 페이즈처럼 가장 혼란스러운 순간에
+     사용하는 것이 좋습니다.  
+    - **무기 & 참(Charm)**: 기본 무기만 고집하지 말고, 런앤건 스테이지에서 모은
+     코인으로 다양한 무기를 사 보세요. **Spread**는 근접 고딜에, **Chaser**는
+     회피에 집중해야 할 때 자동 유도 공격용으로 좋습니다. 참 중에서는 대시를
+     무적으로 만들어 주는 **Smoke Bomb**이 입문자들에게 특히 사랑받습니다.  
 
-### **Controls Guide**
+4. **욕심내지 말기**  
+   한 번 더 쏘려고 하다가 맞는 경우가 가장 흔한 실수입니다. 조금 더 딜을
+   넣는 것보다 피해를 받지 않는 것이 훨씬 중요합니다. 안전한 타이밍이 올 때까지
+   침착하게 기다렸다 공격하세요.  
 
-The controls are responsive and precise. Below are the default keyboard controls.
+5. **락 버튼 적극 활용**  
+   락(Lock) 버튼을 누르고 있으면 제자리에서 8방향으로 조준할 수 있습니다.
+   이동에 신경 쓰지 않고 탄막 회피에 집중하면서, 정면이 아닌 위치에 있는
+   보스 약점을 정확히 노릴 수 있기 때문에 필수 테크닉입니다.  
 
-*   **[KO]** **Move**: `Arrow Keys` or `W, A, S, D`
-*   **[KO]** **Jump**: `Z` or `Space Bar`
-*   **[KO]** **Shoot**: `X` or `Left Ctrl`
-*   **[KO]** **Dash / Dodge**: `Left Shift`
-*   **[KO]** **Lock (Hold to stay in place)**: `V` or `Right Ctrl`
-*   **[KO]** **Switch Weapon**: `C` or `Tab`
-*   **[KO]** **EX Move / Super Art (when meter is full)**: `E` or `Q`
+6. **협동 플레이는 양날의 검**  
+   2인 협동 모드에서는 쓰러진 동료의 유령에 패리를 넣어 부활시킬 수 있다는 큰
+   장점이 있지만, 대신 보스 체력이 늘어나고 화면이 훨씬 혼란스러워집니다.
+   둘이 충분히 소통하고 역할을 나눌 수 있다면 더 수월해질 수 있지만, 그렇지
+   않다면 오히려 더 어렵게 느껴질 수도 있습니다.  
 
-### **Frequently Asked Questions (FAQ)**
+### **조작 방법**
 
-**1. Is this game really as hard as people say?**
-Yes. Cuphead is a deliberately challenging game that harks back to the difficulty of classic arcade games. It requires patience and a willingness to learn from your mistakes. It is tough but fair.
+아래는 기본 키보드 조작 기준입니다(플랫폼/버전에 따라 다를 수 있음).
 
-**2. What is the best weapon and charm setup?**
-There is no single "best" setup, as it often depends on the boss. However, a highly effective and popular combination for beginners is the **Spread** shot (for high damage up close) and the **Chaser** shot (for when dodging is the priority), combined with the **Smoke Bomb** charm.
+* **이동**: 방향키 또는 `W, A, S, D`  
+* **점프**: `Z` 또는 스페이스 바  
+* **공격(슈팅)**: `X` 또는 `Left Ctrl`  
+* **대시/회피**: `Left Shift`  
+* **락(조준 고정)**: `V` 또는 `Right Ctrl`  
+* **무기 전환**: `C` 또는 `Tab`  
+* **EX / 슈퍼 아트(게이지가 찼을 때)**: `E` 또는 `Q`  
 
-**3. How do I get Super Arts?**
-You unlock Super Arts by completing the Mausoleum levels. In these levels, you must parry a series of pink ghosts to save an urn. There are three Mausoleums in total, each rewarding one Super Art.
+### **자주 묻는 질문(FAQ)**
 
-**4. What is the point of the Run & Gun levels?**
-Their primary purpose is to provide you with **coins**. You need these coins to buy essential weapons and charms from the shop (Porkrind's Emporium), which are critical for defeating the bosses.
+**1. 정말 그렇게 어렵나요?**  
+네. Cuphead는 고전 아케이드 게임 난이도를 떠올리게 할 정도로 의도적으로 어렵게
+설계된 게임입니다. 많은 실패를 전제로 하고, 그 과정에서 패턴을 배우도록 만드는
+타입이라 인내심과 반복 플레이를 즐길 준비가 필요합니다. 다만 패턴이 명확하고
+조작이 정밀해 “억지”보다는 “공정한 어려움”에 가깝다는 평가를 받습니다.  
 
-**5. Is two-player co-op easier?**
-It depends on the players. The ability to revive a fallen partner is a huge advantage. However, bosses have more health, and with two characters and double the projectiles on screen, it can become visually overwhelming. It can be easier if you have good coordination with your partner.
+**2. 최고의 무기·참 조합은 뭔가요?**  
+보스마다 잘 맞는 조합이 다르기 때문에 절대적인 정답은 없습니다. 다만 입문자에게
+인기 있는 구성은 근접 고딜용 **Spread**와 회피 집중용 **Chaser**, 그리고 대시를
+무적으로 만들어 주는 **Smoke Bomb** 참 조합입니다.  
+
+**3. 슈퍼 아트는 어떻게 해금하나요?**  
+맵 곳곳의 Mausoleum 스테이지를 클리어하면 됩니다. 이 스테이지에서는 핑크색
+유령들을 패리로 막아내면 되고, 세 개의 무덤을 모두 클리어하면 총 세 가지
+슈퍼 아트를 얻을 수 있습니다.  
+
+**4. 런앤건 스테이지의 목적은 무엇인가요?**  
+런앤건 스테이지의 가장 큰 목적은 **코인 수급**입니다. 이 코인으로 상점
+(Porkrind's Emporium)에서 무기와 참을 구매해야 보스전을 수월하게 진행할 수
+있습니다.  
+
+**5. 2인 협동이 더 쉬운가요?**  
+플레이어 실력과 호흡에 따라 다릅니다. 서로를 부활시킬 수 있다는 점은 큰 장점이지만,
+보스 체력이 늘어나고 화면이 더 복잡해져 오히려 난이도가 올라가기도 합니다.
+서로 역할을 정하고 소통이 잘 맞는다면 훨씬 수월해질 수 있습니다.  
 

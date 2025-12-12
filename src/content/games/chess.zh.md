@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: chess
-title: '[ZH TRANSLATION NEEDED] Chess'
+title: "Chess 国际象棋基础指南"
 description: >-
-  [ZH TRANSLATION NEEDED] Learn the rules, pieces, and strategies of Chess, the
-  ultimate game of skill. Plan your moves, control the board, and checkmate your
-  opponent's king to win this timeless classic.
+  通过这份《Chess 国际象棋基础指南》系统学习国际象棋的规则、棋子走法与常见策略。规
+  划每一步落子、掌控整盘局面，在攻守转换中将死对手的国王，赢下这款经久不衰的经典
+  桌游。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/chess.jpg
 tags:
@@ -20,62 +20,93 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Game Introduction
 
-[ZH TRANSLATION NEEDED] Chess is a two-player strategy board game played on an 8x8 grid called a chessboard. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The objective of the game is to **checkmate** the opponent's king. A checkmate happens when the king is in a position to be captured (in "check") and there is no legal move to escape the capture.
+国际象棋是一款由两名玩家在 8×8 方格棋盘上进行的策略类棋盘游戏。每位玩家开局时都拥
+有 16 枚棋子：1 枚国王（King）、1 枚皇后（Queen）、2 枚车（Rook）、2 枚马（Knight）、
+2 枚象（Bishop）以及 8 枚兵（Pawn）。游戏的最终目标是**将死（Checkmate）**对方的国王——
+也就是让对方的王处于被吃掉（“被将军”）的状态，并且无论怎么走都无法摆脱这种威胁。
 
-[ZH TRANSLATION NEEDED] The game is one of the world's most popular, known for its deep strategy and tactical complexity. Each of the six different types of pieces moves differently, and understanding these movements is fundamental to playing the game.
+国际象棋是世界上最受欢迎的桌游之一，以其深邃的战略性和极高的战术复杂度而著称。六
+种不同的棋子各自拥有完全不同的走法，理解并熟悉这些走法，是入门国际象棋的基础。
 
-[ZH TRANSLATION NEEDED] **Piece Movements:**
--   **The King:** Moves one square in any direction (horizontally, vertically, or diagonally). The king is the most important piece but also one of the weakest.
--   **The Queen:** The most powerful piece. It can move any number of vacant squares in any direction (horizontally, vertically, or diagonally).
--   **The Rook:** Moves any number of vacant squares horizontally or vertically.
--   **The Bishop:** Moves any number of vacant squares diagonally. Each bishop starts on a single color (light or dark) and remains on that color for the entire game.
--   **The Knight:** Moves in an 'L' shape: two squares in a horizontal or vertical direction, then one square perpendicular to that. The knight is the only piece that can jump over other pieces.
--   **The Pawn:** Moves forward one square, but captures diagonally one square forward. On its first move, a pawn has the option to move two squares forward. Pawns cannot move or capture backward. Pawns also have special moves: *En Passant* and *Promotion*.
+**棋子走法概要：**
+-   **国王（King）：** 每回合可以向任意方向（横向、纵向或斜向）移动一格。国王是最重
+    要的棋子，但本身战斗力并不强。
+-   **皇后（Queen）：** 棋盘上最强大的棋子，可以沿横、竖或斜任意方向移动任意格，只要
+    中间没有其他棋子阻挡。
+-   **车（Rook）：** 沿横向或纵向移动任意格，同样不能越子。
+-   **象（Bishop）：** 沿对角线方向移动任意格，每只象都从一种颜色的格子起步（浅格或
+    深格），并会在整盘棋中一直停留在该颜色格子上。
+-   **马（Knight）：** 走“日”字：先沿横向或纵向走两格，再垂直走一格。马是唯一可以跳
+    过其他棋子的棋子。
+-   **兵（Pawn）：** 向前移动一格，但吃子时则是向前方对角线一格。兵在起始位置时可以
+    选择向前走两格。兵不能向后走，也不能向后吃子。兵还拥有两个特殊规则：*“吃过路兵
+    （En Passant）”*以及*“升变（Promotion）”*。
 
 ### Gameplay Strategy
 
 #### Opening Principles
-1.  [ZH TRANSLATION NEEDED] **Control the Center:** The central squares (d4, e4, d5, e5) are the most important. Pieces in the center control more of the board and have greater mobility.
-2.  [ZH TRANSLATION NEEDED] **Develop Your Pieces:** Move your knights and bishops out from their starting squares to active positions. A good rule of thumb is to move knights before bishops.
-3.  [ZH TRANSLATION NEEDED] **Castle Early:** Castling is a special move that gets your king to safety and develops one of your rooks. It's a crucial part of the opening.
+
+1.  **控制中心：** 棋盘中央的 d4、e4、d5、e5 几个格子尤为重要。站在中心的棋子往往控
+    制更多区域，机动性更强。
+2.  **发展子力：** 尽快把马和象从原位调出到底线之外的活跃格子。一个常见经验是：开局
+    时通常应先发展马，再发展象。
+3.  **尽早王车易位：** 王车易位是一种特殊走法，可以同时让国王躲到相对安全的位置，并
+    把一只车发展到中心附近，是开局阶段非常关键的一步。
 
 #### Mid-Game Strategy
-1.  [ZH TRANSLATION NEEDED] **Piece Value:** Understand the relative value of your pieces as a general guide (Pawn=1, Knight=3, Bishop=3, Rook=5, Queen=9). Avoid losing a more valuable piece for a less valuable one unless it leads to a clear advantage.
-2.  [ZH TRANSLATION NEEDED] **Look for Tactics:** Chess is full of tactical patterns. Learn to spot common ones:
-     -   **Fork:** A single piece attacking two or more enemy pieces at once.
-     -   **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.
-     -   **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.
-3.  [ZH TRANSLATION NEEDED] **Always Think About Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
+
+1.  **子力价值：** 作为参考，一般认为兵=1 分，马=3 分，象=3 分，车=5 分，后=9 分。交
+    换时尽量避免用价值更高的子去换取价值更低的子，除非这样可以带来明显的局面优势
+    或战术收益。
+2.  **寻找战术机会：** 国际象棋中充满了各种战术模式，尤其要熟悉以下几种：
+    -   **叉（Fork）：** 一枚棋子同时攻击对方两枚或以上的棋子。
+    -   **钉（Pin）：** 你攻击了一枚棋子，而这枚棋子一旦移动，就会暴露其身后更高价值
+        的棋子被吃。
+    -   **串击（Skewer）：** 你先攻击一枚高价值棋子，当它被迫移动后，身后的低价值棋子
+        会暴露在你的攻击之下。
+3.  **先想对手再想自己：** 对手每走一步之后，都问问自己：“他想干什么？正在威胁什
+    么？”先搞清楚对方的意图，再决定自己的落子方案。
 
 #### End-Game Principles
-1.  [ZH TRANSLATION NEEDED] **Activate Your King:** In the endgame, with fewer pieces on the board, the king becomes a powerful attacking and defending piece. Move it towards the center.
-2.  [ZH TRANSLATION NEEDED] **Pawn Promotion:** The goal of the endgame is often to advance one of your pawns to the other end of the board to promote it to a queen. A "passed pawn" (a pawn with no enemy pawns in front of it) is a major advantage.
+
+1.  **激活你的国王：** 在残局阶段，棋盘上的子力减少，国王反而会成为非常强力的攻防棋
+    子。把王向中心靠拢，让它参与争夺关键格。
+2.  **兵的升变：** 很多残局的核心目标，就是把一个兵推进到棋盘另一端并升变为后。此时
+    没有对方兵阻挡的“通路兵（Passed Pawn）”往往是一大优势，应尽量围绕它展开布局。
 
 ### Controls Guide (Digital Versions)
 
-[ZH TRANSLATION NEEDED] In digital chess (on a computer or mobile device), the controls are simple and intuitive.
--   **Move a Piece:**
-     -   **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
-     -   **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
--   **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
+在电脑或移动设备上的数字版国际象棋，操作通常都非常直观。
+
+-   **移动棋子：**  
+    -   **点击拖动：** 按住一枚棋子，拖动到目标格后松开即可完成落子。
+    -   **点选再点：** 先点击棋子进行选中（大多数版本会高亮所有合法走法），再点击目
+        标格完成移动。
+-   **王车易位：** 在大多数数字版本中，只需要把国王向目标车方向移动两格，系统就会自
+    动完成整步王车易位，并将车放到正确位置。
 
 ### Frequently Asked Questions (FAQ)
 
-[ZH TRANSLATION NEEDED] **1. What is the difference between Checkmate and Stalemate?**
-[ZH TRANSLATION NEEDED] > This is a crucial distinction.
-[ZH TRANSLATION NEEDED] > - **Checkmate** is a win. It occurs when a king is in check (under attack) and there is no legal move to get out of check.
-[ZH TRANSLATION NEEDED] > - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.
+**1. 将死（Checkmate）和逼和（Stalemate）有什么区别？**
+> 这是国际象棋中非常关键的概念：  
+> - **将死（Checkmate）** 代表胜利：一方的国王正处于被攻击状态（被将军），并且再也
+>   没有任何合法着法可以解除将军。  
+> - **逼和（Stalemate）** 则是和棋：轮到一方走棋时，他的王没有被将军，但自己却没有
+>   任何合法走法，此时对局以平局结束。
 
-[ZH TRANSLATION NEEDED] **2. What are the rules for Castling?**
-[ZH TRANSLATION NEEDED] > You can only castle if all of the following conditions are met:
-[ZH TRANSLATION NEEDED] > 1.  It is that king's very first move.
-[ZH TRANSLATION NEEDED] > 2.  It is that rook's very first move.
-[ZH TRANSLATION NEEDED] > 3.  There are no pieces between the king and the rook.
-[ZH TRANSLATION NEEDED] > 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.
+**2. 王车易位有哪些规则？**
+> 只有同时满足以下条件时才能王车易位：  
+> 1.  这是该方国王的第一次移动；  
+> 2.  这是参与易位的那只车的第一次移动；  
+> 3.  国王和那只车之间没有任何棋子阻挡；  
+> 4.  国王当前不在被将军的状态，且在易位过程中不会经过或停在被对方攻击的格子上。
 
-[ZH TRANSLATION NEEDED] **3. What is "En Passant"?**
-[ZH TRANSLATION NEEDED] > *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.
+**3. 什么是“吃过路兵（En Passant）”？**
+> *En Passant* 在法语中意为“路过时”。当对手的一枚兵从起始位置一次走两格，恰好落在
+> 你的一枚兵的旁边时，你可以在紧接着的一回合中，像它只走了一格那样“路过吃掉它”。
+> 这种特殊吃法只能在对手刚刚走出那步两格兵以后立刻执行，错过当回合就无法再使用。
 
-[ZH TRANSLATION NEEDED] **4. Can the King capture pieces?**
-[ZH TRANSLATION NEEDED] > Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
-
+**4. 国王可以吃子吗？**
+> 可以。国王可以像其他棋子一样，走到对方棋子所在的格子并将其吃掉。但有一个绝对规
+> 则：国王永远不能走到会被对方棋子攻击的格子，也就是说不能主动走进“被将军”的位置
+> 。

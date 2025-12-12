@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: sugar-heroes
-title: '[ES] Sugar Heroes'
+title: 'Sugar Heroes'
 description: >-
-  [ES] Sugar Heroes is a vibrant match‑3 — free blockers, merge power‑ups, and
-  hit scene goals under smart move planning.
+  Sugar Heroes es un match-3 colorido: libera bloqueadores, combina
+  potenciadores y cumple objetivos de nivel planificando bien tus movimientos.
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/sugar-heroes.png
 tags:
@@ -16,31 +16,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Sugar Heroes se centra en combos y cadenas en un entorno match-3 lleno de
+caramelos, bloqueadores y héroes animados. Los objetivos de cada fase van desde
+limpiar gelatina hasta entregar ingredientes o romper ciertos tipos de piezas.
+Las fusiones de potenciadores (bomba + línea, caramelos de color, etc.) son
+imprescindibles en tableros muy densos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Sugar Heroes leans into combo‑heavy match‑3 with candy‑themed blockers and animated heroes. Goals range from clearing jelly to delivering ingredients; power‑up merges (bomb+line/color clears) are crucial for dense layouts.
+1.  **Prioriza el objetivo:** limpia primero los bloqueadores o recoge los
+    objetos de misión antes de pensar en la puntuación pura.
+2.  **Juega desde abajo:** trabajar en la parte inferior del tablero genera
+    cascadas gratuitas.
+3.  **Guarda las fusiones fuertes:** detona las combinaciones más potentes en
+    cuellos de botella y zonas bloqueadas.
+4.  **Controla los laterales:** evita dejar colores atrapados en los bordes, ya
+    que son más difíciles de aprovechar.
+5.  **Planifica 2 jugadas vista:** piensa tu movimiento actual y el siguiente
+    para conservar setups interesantes.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Focus goals: Clear blockers or collect items before pure scoring.
-2.  **[ES]** Bottom cascades: Work low for free chain clears.
-3.  **[ES]** Save merges: Detonate strong combos at choke points.
-4.  **[ES]** Side control: Don’t strand colors on edges.
-5.  **[ES]** Two‑ahead planning: Map the next move to preserve setups.
+- Arrastra para intercambiar piezas.  
+- Toca o haz clic en los potenciadores para activarlos.  
+- Pausa y reinicio desde la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to swap; tap power‑ups; pause/retry in UI.
+- **P: Siempre me quedo sin movimientos.**  
+  **R:** encadena potenciadores y centra tus primeros movimientos en abrir
+  espacio y eliminar bloqueadores.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I hit move limits.
-
-A: Chain power‑ups and prioritize clears that unlock space.
-
-- Q: Strong opener?
-
-A: Bottom clears; they spawn cascades.
-
+- **P: ¿Cuál es una buena apertura?**  
+  **R:** empezar despejando desde la parte inferior del tablero para provocar
+  cascadas suele ser la opción más eficiente.

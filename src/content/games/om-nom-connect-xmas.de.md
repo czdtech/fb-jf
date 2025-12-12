@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: om-nom-connect-xmas
-title: '[DE] Om Nom Connect Xmas'
+title: Om Nom Connect Xmas
 description: >-
-  [DE] Join Om Nom in a festive puzzle adventure! Om Nom Connect Xmas is a fun
-  tile-matching game where you connect pairs of Christmas-themed treats.
+  Begleite Om Nom in ein festliches Puzzle-Abenteuer! Om Nom Connect Xmas ist
+  ein weihnachtliches Verbindespiel, in dem du Paare von Kacheln mit
+  Weihnachtsleckereien kombinierst.
 iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
 thumbnail: /new-images/om-nom-connect-xmas.jpg
@@ -17,33 +18,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+In Om Nom Connect Xmas begleitest du den knuffigen Om Nom durch ein
+ weihnachtliches Kachel-Puzzle. Das Spielfeld ist gefüllt mit
+ Weihnachtsmotiven: Om Nom und seine Freunde, Geschenke, Plätzchen und andere
+ Leckereien. Dein Ziel ist es, das Feld zu räumen, indem du Paare identischer
+ Kacheln findest und verbindest. Fröhliche Weihnachtsmusik und niedliche
+ Grafiken sorgen für entspannte, aber dennoch herausfordernde Rätselmomente in
+ der Adventszeit.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Passende Paare finden:** Scanne das Feld nach zwei identischen Kacheln.
+    Sie lassen sich nur entfernen, wenn eine Verbindungslinie mit höchstens zwei
+    Ecken zwischen ihnen möglich ist.
+2.  **Ränder zuerst leeren:** Am Rand des Spielfelds findest du oft die
+    einfachsten Verbindungen. Wenn du diese zuerst abbaust, entstehen mehr
+    Freiräume für später.
+3.  **Vorausplanen:** Manchmal musst du ein bestimmtes Paar zuerst entfernen,
+    um einen Weg für ein anderes freizuschalten. Versuche, ein paar Züge
+    vorauszudenken.
+4.  **Power-ups klug einsetzen:** Die Lupe zeigt dir ein verfügbares Paar, wenn
+    du feststeckst, und der Shuffle-Button mischt alle verbliebenen Kacheln neu
+    durch, damit neue Kombinationen entstehen.
 
-Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecting puzzle game. The board is filled with Christmas-themed tiles featuring Om Nom, his friends, and delicious holiday treats. Your goal is to clear the board by finding and connecting pairs of identical tiles. With cheerful holiday music and cute graphics, it’s a relaxing yet challenging puzzle game perfect for the Christmas season.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+*   **Kachel wählen:** Klicke mit der Maus auf eine Kachel, um sie auszuwählen.
+*   **Verbinden:** Klicke anschließend auf eine zweite, identische Kachel.
+    Ist der Weg frei, verschwinden beide vom Brett.
 
-1.  **[DE]** **Find Matching Pairs:** Scan the board for two identical tiles. The tiles must be connectable with a line that has no more than two turns (or corners).
-2.  **[DE]** **Clear the Edges First:** Start by looking for matching tiles on the outer edges of the puzzle, as these are generally the easiest to connect and will open up more possibilities.
-3.  **[DE]** **Think Ahead:** Sometimes you need to clear a specific pair of tiles to unblock a path for another match. Try to look a few moves ahead.
-4.  **[DE]** **Use Power-ups Wisely:** The game offers helpful tools if you get stuck. The magnifying glass will show you a possible match, and the shuffle button will rearrange all the tiles on the board, creating new opportunities.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   **F: Welche Regeln gelten für die Verbindung der Kacheln?**
+    **A:** Du kannst zwei identische Kacheln verbinden, wenn die Linie
+    dazwischen höchstens zwei rechtwinklige Knicke hat und nicht durch andere
+    Kacheln verläuft.
 
-*   **[DE]** **Select Tiles:** Use your mouse to click on a tile to select it.
-*   **[DE]** **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
+    - **F: Was kann ich tun, wenn ich keine Kombination mehr sehe?**
+    **A:** Schaue dir zuerst das gesamte Feld in Ruhe an. Wenn du trotzdem
+    nichts findest, nutze die Lupe für einen Hinweis oder den Shuffle-Button,
+    um alle Kacheln neu zu mischen.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Gibt es ein Zeitlimit?**
 
-*   **[DE]** **Q: What are the rules for connecting tiles?**
-    *   **[DE]** **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.
+    - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
 
-*   **[DE]** **Q: What should I do if I'm stuck and can't find a match?**
-    *   **[DE]** **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
+- **Q: Is there a time limit?**
 
-*   **[DE]** **Q: Is there a time limit?**
-    *   **[DE]** **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
-
+    - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
+    **A:** Ja, jedes Level hat einen Timer. Du musst das Spielfeld räumen,
+    bevor die Zeit abläuft, um zu gewinnen.

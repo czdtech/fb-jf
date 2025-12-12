@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: jigsaw-puzzles-hexa
-title: '[ES] Jigsaw Puzzles Hexa'
+title: Jigsaw Puzzles Hexa
 description: >-
-  [ES] A new twist on the classic jigsaw puzzle! Drag and drop hexagonal pieces
-  to complete beautiful high-definition images. A relaxing and challenging
-  puzzle for all ages.
+  Un giro moderno al rompecabezas clásico. Arrastra piezas hexagonales para
+  completar imágenes en alta definición. Un puzle relajante pero estimulante
+  para todas las edades.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
 thumbnail: /new-images/jigsaw-puzzles-hexa.jpg
 tags:
@@ -18,33 +18,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Jigsaw Puzzles Hexa ofrece una versión fresca y moderna del rompecabezas de
+siempre. En lugar de piezas clásicas con encajes únicos, aquí trabajas con
+bloques formados por hexágonos. Tu misión es arrastrar estas formas desde el
+inventario y colocarlas en el tablero principal para completar una imagen en
+alta definición. Sin límite de tiempo, es una experiencia relajante pero que
+exige buena visión espacial.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Jigsaw Puzzles Hexa offers a refreshing and modern take on the timeless jigsaw puzzle. Instead of traditional, uniquely shaped interlocking pieces, this game uses clusters of hexagonal blocks. Your goal is to drag these hexa shapes from your inventory and place them correctly onto the main board to complete a beautiful, high-definition picture. With no time limits, it provides a relaxing yet mentally stimulating experience that challenges your spatial reasoning.
+1.  **Analiza las formas:** antes de colocar nada, observa las piezas
+    disponibles. Son agrupaciones geométricas de hexágonos; intenta imaginar
+    dónde podrían encajar en el tablero.
+2.  **Empieza por contornos únicos:** localiza zonas del contorno del puzle con
+    formas muy características (bordes largos, esquinas marcadas) y busca en tu
+    inventario la pieza que podría encajar ahí. Eso te dará anclajes sólidos.
+3.  **Trabaja por secciones:** en vez de llenar el tablero a ciegas, céntrate en
+    completar un área concreta (una esquina o un objeto de la imagen). Una vez
+    montada, el resto encaja con más facilidad.
+4.  **Prueba y error:** como las piezas no tienen detalles de imagen tan
+    obvios, a menudo necesitarás probar posiciones. Si algo no encaja, devuelve
+    la pieza al inventario y prueba otra combinación.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Analyze the Shapes:** Before you start placing pieces, take a look at the shapes you are given. Unlike a normal jigsaw, you are working with geometric block clusters. Mentally picture how they might fit together on the board.
-2.  **[ES]** **Start with Unique Outlines:** Look for distinctive parts of the puzzle outline. If there is a long, straight edge or a unique corner, find the piece in your inventory that would fit that specific shape. This helps to anchor your puzzle.
-3.  **[ES]** **Work by Section:** Don't try to place pieces all over the board at once. Focus on completing one area, like a corner or a specific object in the picture. Completing one section often makes it much easier to see where the remaining pieces go.
-4.  **[ES]** **Trial and Error:** Since the pieces don't have unique picture snippets like a normal jigsaw, you will often need to use trial and error. If a piece doesn't fit, simply drag it back to your inventory and try a different one.
+El juego se basa en arrastrar y soltar.
 
-### Controls Guide
+*   **Seleccionar y colocar:** usa el ratón o el dedo para arrastrar un bloque
+    de hexágonos desde el inventario hasta el tablero del puzle.
 
-The game is played with a simple drag-and-drop mechanic.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Select and Place:** Use your mouse or finger to click and drag a hexagonal piece cluster from your inventory area and drop it onto the main puzzle board.
+*   **P: ¿Se pueden rotar las piezas?**
+    *   **R:** No. En este tipo de puzle las piezas tienen una orientación fija.
+        El reto está en descubrir cómo encajan tal cual.
 
-### Frequently Asked Questions (FAQ)
+*   **P: Estoy atascado y una pieza no encaja en ningún sitio, ¿qué hago?**
+    *   **R:** Suele significar que alguna pieza anterior está mal colocada.
+        Prueba a retirar una o varias, replantea la zona y vuelve a intentarlo.
+        Si el juego ofrece pistas, es buen momento para usarlas.
 
-*   **[ES]** **Q: Can I rotate the pieces?**
-    *   **[ES]** **A:** No. In this style of puzzle, the pieces have a fixed orientation. The challenge comes from figuring out how they fit together as they are.
-
-*   **[ES]** **Q: I'm stuck and a piece won't fit anywhere! What should I do?**
-    *   **[ES]** **A:** This usually means one of the pieces you have already placed is in the wrong spot. You may need to remove one or more pieces from the board and rethink your arrangement. If the game offers a hint system, now would be a good time to use it.
-
-*   **[ES]** **Q: Is there a time limit?**
-    *   **[ES]** **A:** No, the game is designed to be a relaxing, stress-free experience. You can take as much time as you need to solve each puzzle.
-
+*   **P: ¿Hay límite de tiempo?**
+    *   **R:** No. Está diseñado para ser una experiencia relajada, así que
+        puedes tomarte todo el tiempo que necesites para completar cada puzle.

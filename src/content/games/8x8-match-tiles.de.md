@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: 8x8-match-tiles
-title: '[DE] 8x8 Match Tiles'
+title: "8x8 Match Tiles"
 description: >-
-  [DE] 8x8 Match Tiles is a clean tile matcher — pair identical tiles, clear
-  boards, and plan around limited space.
+  8x8 Match Tiles ist ein übersichtliches Kachel‑Match‑Puzzle auf einem 8×8‑Brett.
+  Finde identische Paare, räume das Feld und plane deine Züge so, dass dir der
+  Platz nicht ausgeht.
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
 thumbnail: /new-images/8x8-match-tiles.jpg
 tags:
@@ -15,28 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+8x8 Match Tiles ist ein ruhiges Paar‑Puzzle auf einem 8×8‑Raster. Du musst
+identische Kacheln finden und nach den jeweiligen Spielregeln paarweise
+entfernen. Gleichzeitig musst du darauf achten, das Spielfeld nicht so zu
+blockieren, dass einzelne Kacheln nicht mehr erreichbar sind.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-8x8 Match Tiles is a tidy pairing puzzle on an 8×8 grid. Match identical tiles under move or time constraints, manage board space, and avoid trapping unmatchable singles.
+1.  **Freie Wege offen halten:** Versuche, Wege zu tiefer liegenden Kacheln
+    nicht zu früh zuzubauen. Offene Bahnen erleichtern dir spätere Matches.
+2.  **Seltene Motive zuerst räumen:** Wenn du weißt, dass nur wenige Kacheln
+    eines Typs vorhanden sind, kümmere dich früh um diese, bevor sie das Brett
+    verstopfen.
+3.  **Von unten nach oben arbeiten:** Räumst du zunächst Kacheln in unteren
+    Reihen, werden darüber liegende Motive nach und nach freigelegt, was neue
+    Kombinationen eröffnet.
+4.  **Einzelkacheln in Ecken vermeiden:** Lasse möglichst keine einzelne,
+    unpaarige Kachel in einer Ecke zurück – sie ist später schwer zu erreichen
+    und kann das Spiel blockieren.
+5.  **Hinweise sparsam nutzen:** Falls das Spiel Hinweise oder Mischfunktionen
+    bietet, setze sie dir für echte Notfälle auf, wenn du keine legalen Züge
+    mehr siehst.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Open lanes: Keep paths clear to expose deeper tiles.
-2.  **[DE]** Prioritize scarce tiles before they clog the board.
-3.  **[DE]** Chain clears from the bottom to trigger reveals.
-4.  **[DE]** Avoid isolating singles near corners.
-5.  **[DE]** Use hints sparingly if available.
+- **Paare auswählen:** Klicke oder tippe auf zwei passende Kacheln gemäß den
+  Verbindungs‑/Regelvorgaben des jeweiligen Modus.
+- **Rückgängig/Neustart:** Manche Versionen erlauben das Rückgängig‑Machen eines
+  Zuges oder einen kompletten Neustart, falls du dich verbaut hast.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Select pairs via click/tap following mode rules.
-- Undo/Reset if included.
+- **F: Es gibt keinen Zug mehr – was jetzt?**  
+  **A:** In vielen Varianten musst du das Level neu starten und deine ersten
+  Züge anders planen, damit später mehr Optionen offen bleiben.
 
-### Frequently Asked Questions (FAQ)
+- **F: Ist das Spiel zeit- oder zugbasiert?**  
+  **A:** Das hängt vom Modus ab. Manche Level haben eine Zugbegrenzung, andere
+  ein Zeitlimit – passe deine Spielweise entsprechend an.
 
-- No moves left—restart? Often yes; plan openings differently.
-- Timed or moves? Modes vary; play accordingly.
-- Shuffle? Some versions offer shuffles; save for emergencies.
-
+- **F: Gibt es eine Mischfunktion?**  
+  **A:** Einige Versionen bieten ein Mischen der Kacheln an. Heb dir diese
+  Funktion für Situationen auf, in denen keine offensichtlichen Züge mehr
+  vorhanden sind.

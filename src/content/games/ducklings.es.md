@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: ducklings
-title: '[ES] Ducklings'
+title: "Ducklings"
 description: >-
-  [ES] Ducklings is a relaxing collect‑’em‑up: rescue ducklings on the water and
-  bring them safely back to your nest.
+  Ducklings es un relajante juego de recoger patitos: rescata crías en el lago
+  y llévalas sanas y salvas de vuelta a tu nido.
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/ducklings.jpg
 tags:
@@ -15,30 +15,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Juego de recogida tranquilo sobre el agua: patrulla el estanque, rescata
+patitos que nadan solos y escolta la comitiva de vuelta al nido mientras evitas
+barcos y otros peligros.
 
+### Cómo jugar
 
-### Overview
-Relaxed collect‑’em‑up on the water: rescue ducklings scattered around a pond and escort them safely back to your nest while avoiding boats and hazards.
+- Nada cerca de los patitos para que se unan a tu fila y síguete; regresa al
+  nido para entregarlos a salvo.
+- Cuanto más larga es la fila, más arriesgado es el viaje: los barcos pueden
+  desbaratar tu columna, así que busca rutas seguras.
+- Cuando se ofrezca, mejora tu nido entre viajes para aumentar capacidad y
+  aspecto.
 
-### How to Play
-- Swim near ducklings to have them follow; return to the nest to bank them.
-- Larger trains are riskier—boats can scatter your line; take safe routes.
-- Upgrade your nest between trips when offered.
+### Controles
 
-### Controls
-- Mouse/Touch or Arrows to steer.
+- Ratón/táctil o flechas para dirigir el pato.
 
-### Tips
-- Don’t over‑extend; bank small batches when traffic is heavy.
-- Cut diagonals behind slow boats; never cross a bow head‑on.
-- Keep your chain compact to avoid stragglers getting clipped.
+### Consejos
 
-### FAQ
-- Q: Is there a time limit?
-A: Typically no—play at your pace.
-- Q: What ends a run?
-A: Losing followers to collisions reduces haul; the nest is safe.
-- Q: Are there power‑ups?
-A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
+- No te pases de ambicioso: cuando haya mucho tráfico de barcos, entrega
+  pequeños grupos en lugar de intentar un combo enorme.
+- Aprovecha diagonales por detrás de los barcos lentos; nunca cruces la proa de
+  frente.
+- Mantén la fila compacta para que los patitos que van al final no se queden
+  rezagados y acaben golpeados.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Hay límite de tiempo?**  
+  **R:** Normalmente no; puedes jugar a tu ritmo.
+
+- **P: ¿Cómo se pierde la partida?**  
+  **R:** Los choques solo te hacen perder parte del grupo de patitos; el nido en
+  sí es un lugar seguro.
+
+- **P: ¿Hay potenciadores?**  
+  **R:** En algunas versiones aparecen potenciadores o cosméticos, pero el núcleo del
+  juego es siempre rescatar y entregar patitos.

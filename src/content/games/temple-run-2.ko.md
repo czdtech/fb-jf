@@ -1,13 +1,11 @@
 ---
 locale: ko
 urlstr: temple-run-2
-title: '[KO] Temple Run 2'
+title: 'Temple Run 2 템플 런 2'
 description: >-
-  [KO] Temple Run 2 is an endless running adventure game where players navigate
-  treacherous temple paths, collecting coins and power-ups while avoiding
-  obstacles and the pursuing demon monkeys in stunning environments.
-iframeSrc: >-
-  https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
+  Temple Run 2는 끝없이 이어지는 사원 길을 달리며 코인과 파워업을 모으고,
+  장애물과 뒤쫓아오는 원숭이를 피해 나가는 러닝 어드벤처 게임입니다.
+iframeSrc: 'https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html'
 thumbnail: /new-images/temple-run-2.jpg
 tags:
   - endless runner
@@ -19,34 +17,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+"Temple Run 2"는 끊임없이 이어지는 사원 길을 달리며, 코인과 파워업을
+수집하고 각종 함정과 뒤를 쫓는 악마 원숭이를 피해 가는 끝less 러너 게임입니다.
+전작보다 풍부해진 지형과 그래픽, 다양한 파워업 덕분에 더 볼거리 많은 러닝
+경험을 제공합니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Temple Run 2" is an endless running adventure game where players navigate treacherous temple paths, collecting coins and power-ups while avoiding obstacles and the pursuing demon monkeys. The game unfolds in stunning environments, offering richer gameplay experience and visual effects than its predecessor.
+1.  **코인 수집:**
+    캐릭터와 파워업을 업그레이드하기 위해 코인을 적극적으로 모으세요.
+    단, 위험한 위치의 코인은 과감히 포기하는 것이 생존에 도움이 됩니다.
+2.  **파워업 활용:**
+    실드, 자석, 스피드 부스트 등 파워업은 어렵거나 장애물이 많은 구간에서
+    사용할 때 가장 효율적입니다.
+3.  **장애물 예측:**
+    앞쪽 길을 미리 보며 점프/슬라이드/턴을 준비하면 돌발 상황에서 당황하지
+    않을 수 있습니다.
+4.  **보석 모으기:**
+    특수 보석은 캐릭터 해금이나 능력 업그레이드에 사용되니, 보이면 가능하면
+    챙겨 두세요.
+5.  **미션 달성:**
+    일일 미션이나 도전 과제를 클리어하면 추가 보상과 경험치를 얻을 수 있습니다.
 
-### Gameplay Strategy
+### 조작 방법 안내
 
-1.  **[KO]** **Collect Coins**: Prioritize collecting coins on the path to upgrade characters and purchase power-ups.
-2.  **[KO]** **Power-up Usage**: Use shields, magnets, speed boosts, and other power-ups wisely to improve survival.
-3.  **[KO]** **Obstacle Prediction**: Observe obstacles ahead and react timely with jumps, slides, or turns.
-4.  **[KO]** **Gem Collection**: Collect special gems to unlock new characters and upgrade abilities.
-5.  **[KO]** **Mission Completion**: Complete daily missions to earn extra rewards and experience.
+*   **좌/우 스와이프:** 화면을 좌우로 스와이프해 갈림길에서 방향을 바꿉니다.
+*   **위로 스와이프(점프):** 장애물이나 틈을 점프해 넘습니다.
+*   **아래로 스와이프(슬라이드):** 낮은 장애물 아래를 미끄러져 지나갑니다.
+*   **기울이기:** 일부 버전에서는 기기를 기울여 레인 사이를 이동하며 코인을
+    더 많이 먹을 수 있습니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Left/Right Swipe**: Swipe left or right on screen to turn.
-*   **[KO]** **Swipe Up to Jump**: Swipe up to jump over obstacles.
-*   **[KO]** **Swipe Down to Slide**: Swipe down to slide under low obstacles.
-*   **[KO]** **Tilt Control**: Tilt device to collect more coins (in some versions).
+1.  **Q: 코인은 어떻게 더 빨리 모을 수 있나요?**
+    **A:** 자석 파워업을 적극 활용하고, 미션을 완료해 추가 코인을 받으며,
+    가능한 한 오래 달리는 것이 좋습니다.
 
-### Frequently Asked Questions
+2.  **Q: 캐릭터마다 차이가 있나요?**
+    **A:** 보통 외형과 시작 능력, 업그레이드 가능한 특성이 조금씩 다릅니다.
+    마음에 드는 캐릭터를 해금해 사용해 보세요.
 
-1.  **[KO]** **Q: How can I get more coins?**
-**A**: By completing missions, using magnet power-ups, unlocking achievements, and watching ads (if available).
-2.  **[KO]** **Q: What are the differences between characters?**
-**A**: Each character typically has unique appearance and starting abilities, unlockable through game progression.
-3.  **[KO]** **Q: How do I get power-ups?**
-**A**: By collecting them in-game, purchasing with coins, or completing specific missions.
-4.  **[KO]** **Q: Does the game have an ending?**
-**A**: This is an endless runner game that can theoretically continue indefinitely; the challenge is to run as far as possible.
+3.  **Q: 파워업은 어떻게 얻나요?**
+    **A:** 달리는 중에 코스 위에 등장하는 아이템을 먹거나, 코인/보석으로
+    해금·업그레이드할 수 있습니다.
+
+4.  **Q: 이 게임은 끝이 있나요?**
+    **A:** Temple Run 2는 이론상 끝이 없는 러너 게임입니다. 목표는 최대한
+    멀리 달려 높은 점수를 기록하는 것입니다.

@@ -1,5 +1,5 @@
 ---
-title: "60 Seconds Burger Run - 60秒汉堡跑酷"
+title: "60 Second Burger Run 60秒汉堡跑酷"
 description: "《60 Second Burger Run》是一款刺激多彩的速跑平台游戏，你的主要目标是在严格的60秒时间限制内到达即将关门的汉堡店！"
 iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
 thumbnail: "/60s-burger-run.jpg"
@@ -9,7 +9,7 @@ score: "4.6/5  (1344 votes)"
 tags: ["60 seconds burger run"]
 ---
 
-《60 Second Burger Run》是一款刺激多彩的速跑平台游戏，你的主要目标是在严格的60秒时间限制内到达即将关门的汉堡店！你控制一个热爱美味快餐的开朗胖胖英雄，必须引导他尽快通过一系列具有挑战性的关卡。游戏考验你的反应速度、精准跳跃能力以及快速记忆路线的能力，在计时器归零前通过尽可能多的关卡。
+*60 Second Burger Run（60秒汉堡跑酷）* 是一款刺激多彩的速跑平台游戏，你的主要目标是在严格的60秒时间限制内到达即将关门的汉堡店！你控制一个热爱美味快餐的开朗胖胖英雄，必须引导他尽快通过一系列具有挑战性的关卡。游戏考验你的反应速度、精准跳跃能力以及快速记忆路线的能力，在计时器归零前通过尽可能多的关卡。
 
 ### 如何游玩 60 Second Burger Run
 

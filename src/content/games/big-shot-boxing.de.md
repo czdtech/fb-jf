@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: big-shot-boxing
-title: '[DE] Big Shot Boxing'
+title: "Big Shot Boxing"
 description: >-
-  [DE] Become a boxing legend in Big Shot Boxing! Train your fighter, climb the
-  ranks from street fights to world championships, and master simple-but-deep
-  controls in this retro-style arcade boxing game.
+  Werde in Big Shot Boxing zur Box‑Legende. Trainiere deinen Kämpfer, arbeite
+  dich von Hinterhof‑Fights bis zu Weltmeisterschaften hoch und meistere die
+  einfachen, aber tiefgehenden Retro‑Arcade‑Kontrollen.
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/big-shot-boxing.jpg
 tags:
@@ -16,50 +16,71 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Big Shot Boxing ist ein Retro‑Arcade‑Boxspiel mit Karrierefokus. Du schlüpfst
+in die Rolle eines aufstrebenden Boxers, der sich von den unteren Rängen bis
+an die Spitze kämpfen will. Im typischen Pixel‑Look im Stil alter 8‑/16‑Bit
+Sportspiele bestreitest du Kämpfe, verdienst Geld und verbesserst nach und nach
+ die Werte deines Fighters.
 
+Mit jedem Sieg triffst du auf stärkere Gegner mit unterschiedlichen
+Kampfstilen und Statistiken. Ziel ist es, alle Rivalen zu schlagen und dir den
+Gürtel zu sichern. Die Steuerung ist leicht zu lernen, aber schwer zu
+perfektionieren – perfekte Voraussetzungen für eine lange, motivierende
+Karriere.
 
+### Strategie
 
+- **Geduld & Deckung zuerst:** Dauerndes Schlag‑Spammen leert nur deine
+  Ausdauer und macht dich anfällig für Konter. Lerne, sauber zu blocken,
+  gegnerische Kombos auszusitzen und erst danach gezielt zurückzuschlagen.
 
-### Game Introduction
+- **Gegner studieren:** Schau dir die Werte deines Gegners an.  
+  - Langsam, aber stark → mit schnellen Jabs ein‑ und wieder austauchen.  
+  - Schnell, aber gläsernes Kinn → auf harte Konter und Uppercuts setzen.
 
-Big Shot Boxing is a retro-style arcade boxing game with a career-focused progression system. Players take on the role of an aspiring boxer, starting from the very bottom and fighting their way through the ranks to become the world champion. The game features a charming pixel-art aesthetic reminiscent of classic 8-bit and 16-bit sports titles.
+- **Sinnvolles Training:**  
+    - **Frühes Spiel:** Stärke, Geschwindigkeit und Chin (Robustheit) relativ
+      ausgewogen steigern.  
+    - **Später:** Auf deinen Stil spezialisieren – Knockout‑Fans investieren
+      stärker in Stärke, Punkteboxer in Speed, Defensive in Chin.
 
-The core of the game revolves around managing your boxer's career. This includes participating in fights, earning money, and using that money to train and improve your fighter's attributes. As you win matches, you'll face increasingly difficult opponents, each with their own unique fighting styles and stats. The ultimate goal is to conquer every opponent and claim the championship belt. It's a game that is easy to pick up but offers a satisfying level of challenge to master.
+- **Ausdauer im Blick behalten:** Jeder Schlag und jeder Block kostet Stamina.
+  Bei leerem Balken sind deine Schläge schwach und du wirst leichter
+  niedergeschlagen. Baue kurze Pausen zum Erholen ein.
 
-### Gameplay Strategy
+- **"Big Shot" gezielt nutzen:** Deine Spezialattacke kann den Kampf drehen.
+  Heb sie dir für Momente auf, in denen dein Gegner angeschlagen oder benommen
+  ist, um einen Knockdown oder KO zu sichern.
 
--   **Patience and Defense are Key:** Do not mindlessly spam punches. This will drain your stamina quickly, leaving you vulnerable to counter-attacks. Learn to block effectively and wait for your opponent to finish their combo. This creates an opening for you to strike back.
--   **Study Your Opponent:** Before a match, you can often see your opponent's key stats. If they are slow but powerful, use your speed to land quick jabs and move away. If they are fast but have a weak chin, focus on landing powerful counter-punches. Adapt your strategy for each fight.
--   **Smart Training:**
-    -   **Early Game:** Focus on a balanced approach. Upgrade your Strength, Speed, and Chin stats evenly to build a solid foundation.
-    -   **Mid-Game:** Start specializing. If you prefer a knockout victory, invest heavily in Strength. If you like to win by points with fast combos, focus on Speed. Don't neglect your Chin, as it determines how much damage you can take.
--   **Stamina Management:** Every punch and block consumes stamina. When your stamina is low, your punches are weaker and you are more susceptible to being knocked down. Take short breaks during the fight to recover stamina.
--   **Use the "Big Shot" Wisely:** The "Big Shot" is a powerful special move that can turn the tide of a fight. Don't waste it. The best time to use it is when your opponent is dazed (seeing stars) or low on health to secure a knockdown or knockout.
--   **Grind When Necessary:** If you hit a wall and can't beat a particular opponent, don't be afraid to go back and fight some weaker opponents you've already beaten. This allows you to earn extra cash for training, which can make all the difference.
+- **Notfalls grinden:** Wenn du an einem Gegner hängenbleibst, kämpfe noch
+  einmal gegen schwächere Boxer, um Geld für zusätzliches Training zu
+  verdienen.
 
-### Controls Guide
+### Steuerung
 
-The game uses a simple and intuitive tap-and-swipe control system.
+Die Steuerung ist auf einfaches Tippen und Wischen ausgelegt (Touch oder Maus).
 
--   **Tap Left Side of Screen:** Throw a jab with your left hand.
--   **Tap Right Side of Screen:** Throw a cross/straight punch with your right hand.
+- **Linke Bildschirmseite tippen:** Jab mit der linken Hand.
+- **Rechte Bildschirmseite tippen:** Gerade/Rechte mit der rechten Hand.
 -
--   **Swipe Up:** Perform a powerful uppercut. This is effective for countering or breaking through an opponent's guard but is slower to execute.
--   **Hold/Swipe Down:** Block. Hold your finger on the screen to raise your guard and block incoming punches. This is essential for defense.
--   **"Big Shot" Button:** When your special meter is full, a button will appear on the screen. Tap it to unleash your "Big Shot" signature punch.
+- **Nach oben wischen:** Uppercut – langsam, aber sehr kraftvoll.
+- **Gedrückt halten / nach unten wischen:** Deckung hochnehmen und Schläge
+  blocken.
+- **"Big Shot"‑Button:** Wird sichtbar, wenn die Spezialleiste voll ist; ein
+  Tipp löst den Big‑Shot‑Schlag aus.
 
-### Frequently Asked Questions (FAQ)
+### Häufige Fragen (FAQ)
 
-**1. What are the best stats to upgrade first?**
-> In the beginning, a balanced approach is best. Distribute your training points evenly across Strength, Speed, and Chin. Once you have a feel for your playstyle, you can start specializing. Strength for KOs, Speed for combos, and Chin for durability.
+**F: Welche Werte sollte ich zuerst trainieren?**  
+> Starte ausgewogen mit Stärke, Speed und Chin. Später kannst du dich auf Knockouts (Stärke) oder Punkteboxen (Speed) spezialisieren – Chin bleibt deine Lebensversicherung.
 
-**2. How do I beat an opponent who is much faster than me?**
-> Focus on defense and counter-punching. Let them waste their stamina trying to hit your block. When they pause, unleash a quick combo of your own. An uppercut can sometimes interrupt their flurry of punches.
+**F: Wie schlage ich schnellere Gegner?**  
+> Bleib in der Deckung, lass sie ihre Kondition verheizen und kontere am Ende ihrer Kombination. Ein Uppercut im richtigen Moment stoppt viele Flurries.
 
-**3. My punches don't seem to do any damage. Why?**
-> This could be due to two reasons: 1) Your Strength stat is too low compared to your opponent's Chin stat. You need to train more. 2) Your stamina is low. Tired fighters throw weak punches. Step back and let your stamina recover.
+**F: Warum richten meine Schläge kaum Schaden an?**  
+> Entweder ist deine Stärke zu niedrig oder deine Ausdauer leer. Trainiere mehr und nimm dir im Kampf kurze Pausen zum Durchatmen.
 
-**4. How does the "Big Shot" meter fill up?**
-> The meter fills as you successfully land punches and block incoming attacks. It fills faster with well-timed counters and powerful hits.
-
+**F: Wie füllt sich die "Big Shot"‑Leiste?**  
+> Durch Treffer und Blocks. Präzise Konter und harte Schläge lassen den Balken besonders schnell anwachsen.

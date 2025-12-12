@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: lucky-vegas-blackjack
-title: '[ES] Lucky Vegas Blackjack'
+title: "Lucky Vegas Blackjack - 21 rápido y estratégico"
 description: >-
-  [ES] Lucky Vegas Blackjack streamlines 21 — apply basic strategy, manage
-  bankroll, and enjoy quick hands without chasing losses.
+  Lucky Vegas Blackjack simplifica el clásico 21: aplica estrategia básica,
+  gestiona tu banca y disfruta manos rápidas sin perseguir pérdidas.
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
 thumbnail: /new-images/lucky-vegas-blackjack.png
 tags:
@@ -17,34 +17,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Lucky Vegas Blackjack ofrece partidas de blackjack rápidas con reglas
+estándar: intenta llegar a 21 o acercarte más que la banca sin pasarte.
+Las figuras valen 10 puntos y los ases pueden contar como 1 u 11. Aplica la
+estrategia básica según la carta descubierta de la banca y evita las apuestas
+secundarias demasiado arriesgadas, que suelen tener una ventaja de la casa más
+alta.
 
-Lucky Vegas Blackjack offers fast blackjack rounds with standard rules: reach 21 or best the dealer without busting. Face cards count as 10; aces as 1 or 11. Use basic strategy vs the dealer upcard and avoid risky side bets with higher house edges.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  Tabla básica: planta con mano dura de 17 o más, pide carta con 11 o menos y
+    dobla con 10–11 contra cartas débiles de la banca cuando las reglas lo
+    permitan.
+2.  Manos blandas: con manos blandas (con as contando como 11), pide con 17
+    blando y dobla con 18 blando frente a cartas débiles cuando sea posible.
+3.  Divisiones: divide ases y ochos; no dividas dieces ni cincos y sigue las
+    reglas de la mesa para el resto de parejas.
+4.  Gestión de banca: usa apuestas planas de tamaño moderado y marca un
+    objetivo de ganancia y un límite de pérdida antes de empezar.
+5.  Apuestas secundarias: considérelas solo como entretenimiento; no son buenas
+    desde el punto de vista de valor esperado.
 
-1.  **[ES]** Basic chart: Stand hard 17+, hit ≤11, double 10–11 vs weak upcards.
-2.  **[ES]** Soft hands: Hit soft 17; double soft 18 vs weak upcards when allowed.
-3.  **[ES]** Splits: Split A/8; don’t split 10/5; follow table rules for others.
-4.  **[ES]** Bankroll: Flat bet sizing; stop after win target or loss limit.
-5.  **[ES]** Side bets: Treat as entertainment, not EV.
+### Guía de controles
 
-### Controls Guide
+- Botones de Hit/Stand/Double/Split en la interfaz; ajusta la apuesta entre
+  manos según prefieras.
 
-- Hit/Stand/Double/Split via UI; adjust bet between hands.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Puedo contar cartas en este juego?  
+  R: En la mayoría de versiones el mazo se baraja con frecuencia o se reinicia,
+  así que el conteo pierde efectividad; juega por diversión.
 
-- Q: Can I count cards here?
+- P: ¿Merece la pena el seguro?  
+  R: Por lo general no; el seguro tiene una ventaja de la casa elevada.
 
-A: Single‑shoe resets/auto shuffles often negate counting; play for fun.
-
-- Q: Insurance worth it?
-
-A: Generally no; it has high house edge.
-
-- Q: How to reduce variance?
-
-A: Use smaller flat bets and avoid side bets.
-
+- P: ¿Cómo reduzco la varianza?  
+  R: Apuesta cantidades pequeñas y constantes y evita las apuestas
+  secundarias si quieres sesiones más estables.

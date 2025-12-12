@@ -1,41 +1,35 @@
 ---
+title: "Geometry Dash Meltdown"
+description: "リズムプラットフォーマーパック：テーマ別のハザードや船のセクションを備えた、新しい音楽同期レベルをジャンプして飛び回りましょう。"
+iframeSrc: "https://geometrylite.io/game/geometry-dash-meltdown/"
+thumbnail: "/new-images/geometry-dash-meltdown.jpg"
+urlstr: "geometry-dash-meltdown"
+score: "4.4/5  (994 votes)"
+tags: ["rhythm", "platformer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: geometry-dash-meltdown
-title: '[JA TRANSLATION NEEDED] Geometry Dash Meltdown'
-description: >-
-  [JA TRANSLATION NEEDED] Rhythm platformer pack: jump and fly through new
-  music‑synced levels with themed hazards and ship segments.
-iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
-thumbnail: /new-images/geometry-dash-meltdown.jpg
-tags:
-  - rhythm
-  - platformer
-score: 4.4/5  (994 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+独特のビジュアルテーマと曲を持つ、Geometry Dashレベルのスタンドアロンセットです。トゲ、パッド、ポータル、そして船やボールのセクションが待ち受けています。
 
+### 遊び方
+- 練習モードでパターンを学び、その後フルラン（通しプレイ）を実行しましょう。
+- ビートに合わせてタップします。船やボールのセクションは優しい入力でホールドしましょう。
+- ジャンプパッドとリングを正確に使いましょう。過剰なタップはミスにつながります。
 
-### Overview
-[JA TRANSLATION NEEDED] Standalone set of Geometry Dash levels with distinct visual themes and songs; expect spikes, pads, portals, and ship/ball sections.
+### 操作方法
+- タップ/スペース/マウスでジャンプ。長押しで飛行（ホストによります）。
 
-### How to Play
-- Learn patterns in practice, then execute full runs.
-- Tap on the beat; hold ship/ball sections with gentle inputs.
-- Use jump pads and rings precisely; over‑tapping causes misses.
+### ヒント
+- タイミングが遅れると感じる場合は、重いエフェクトをオフにしましょう。
+- 初期の学習段階では、声に出してビートを数えましょう。
 
-### Controls
-- Tap/Space/Mouse to jump; hold to fly (host dependent).
-
-### Tips
-- Turn off heavy effects if timing feels late.
-- Count beats aloud for early learning.
-
-### FAQ
-- Q: Are the levels different from the base game?  
-[JA TRANSLATION NEEDED]   A: Yes, Meltdown features its own curated tracks and layouts.
-- Q: Can I use practice mode here?  
-[JA TRANSLATION NEEDED]   A: Most hosts include a practice option with checkpoints.
-- Q: Is there user‑generated content?  
-[JA TRANSLATION NEEDED]   A: Meltdown focuses on built‑in levels; UGC depends on host.
-
+### よくある質問 (FAQ)
+- **Q: レベルはベースゲームと異なりますか？**  
+  A: はい、Meltdownは独自に厳選されたトラックとレイアウトを特徴としています。
+- **Q: ここで練習モードは使えますか？**  
+  A: ほとんどのホスト版にはチェックポイント付きの練習オプションが含まれています。
+- **Q: ユーザー生成コンテンツ（UGC）はありますか？**  
+  A: Meltdownは組み込みレベルに焦点を当てています。UGCはホストによります。

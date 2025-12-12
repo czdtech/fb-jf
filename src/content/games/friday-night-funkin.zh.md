@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: friday-night-funkin
-title: '[ZH TRANSLATION NEEDED] Friday Night Funkin'
+title: "Friday Night Funkin 節奏對決"
 description: >-
-  [ZH TRANSLATION NEEDED] Rhythm battle: hit notes on beat against opponents
-  across weeks; higher difficulties add faster patterns and tricky holds.
+  《Friday Night Funkin》是一款節奏對戰遊戲，跟著音樂節拍準確敲擊箭頭音符，
+  在一週又一週的對決中打敗對手；高難度下會出現更快、更複雜的譜面與長押。
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/friday-night-funkin.jpg
 tags:
@@ -17,26 +17,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Week‑based rhythm battles: match the arrow prompts in time with music to outscore your opponent.
+
+遊戲以「Week」為單位展開節奏對戰，你要在每首歌中依照畫面上出現的箭頭提示，
+在正確的拍點按下對應方向鍵，用高命中率與連擊分數壓過對手，才能順利通關該週劇情。
 
 ### How to Play
-- Focus on accuracy and combo; misses and off‑beat hits drop health.
-- Long notes require holding; jacks and doubles appear on higher levels.
-- Freeplay allows practicing specific songs.
+
+- 專注在準確度與連擊數（Combo），連續命中越多音符，分數加成越高；
+  失誤或偏拍過多會讓生命槽下降，太低就會被判定失敗。
+- 遇到長條音符時，需要按住對應鍵直到尾端才算完整命中；
+  高難度譜面會有大量雙押、連押與「連續同鍵敲擊」(jacks)。
+- Freeplay 模式允許你單獨練習某一首歌曲或特定譜面，
+  對於熟悉困難曲目非常實用。
 
 ### Controls
-- Arrow keys (or WASD) to hit notes; Enter for menus.
+
+- 使用方向鍵或 WASD 在音符到達判定線時敲擊對應方向。
+- Enter 或確認鍵用於選單操作與開始歌曲。
 
 ### Tips
-- Learn patterns by sound, not just visuals.
-- Relax your hands; rolling chords reduce finger jams on jacks.
-- Lower visual effects if lag affects timing.
+
+- 盡量「用耳朵」記節奏，而不是只盯著畫面，跟著鼓點與旋律敲擊會比純看圖更穩定。
+- 手部保持放鬆，可以用「滾動式」的手指動作處理連續多鍵，而不是用力猛敲，
+  這樣在遇到 jacks 或和弦時較不容易手指打結。
+- 若覺得判定總是偏早或偏晚，可以在設定裡調整音符判定延遲（offset），
+  修正裝置或瀏覽器造成的延遲。
 
 ### FAQ
-- Q: How do I unlock new weeks?  
-[ZH TRANSLATION NEEDED]   A: Clear prior weeks or use Freeplay depending on the host.
-- Q: Why are my hits late?  
-[ZH TRANSLATION NEEDED]   A: Adjust input offset in options to match your device latency.
-- Q: Can I play custom songs?  
-[ZH TRANSLATION NEEDED]   A: Some hosts include mods or a custom chart loader.
 
+- 問：要怎麼解鎖新的 Week？  
+  答：通常需要先通關前一個 Week 的歌曲，或在部份版本中透過 Freeplay 直接選歌遊玩，
+  具體解鎖條件依託管版本而定。
+
+- 問：為什麼我明明按在拍點上，遊戲卻顯示偏晚？  
+  答：可能是裝置或音訊延遲導致，建議到設定中調整輸入 Offset，
+  多試幾次直到判定與你實際聽到的節奏對齊。
+
+- 問：能不能玩自製歌或模組？  
+  答：有些線上版本會預裝 Mod 或支援載入自訂譜面，但也有版本只提供原版歌曲，
+  需視具體主機支援情況而定。

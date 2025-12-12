@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: rooftop-snipers
-title: '[KO] Rooftop Snipers'
+title: "Rooftop Snipers 루프탑 스나이퍼"
 description: >-
-  [KO] Rooftop Snipers is the original physics-based shooting game where two
-  pixel characters fight on rooftops, using simple controls to shoot and knock
-  opponents off buildings with hilarious ragdoll physics.
+  픽셀 캐릭터 둘이 옥상 위에서 서로를 떨어뜨리려 싸우는 원조 물리
+  기반 슈팅 게임입니다. 단순한 조작 속에서 래그돌 물리와 반동을
+  이용해 상대를 건물 아래로 날려 보내세요.
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/rooftop-snipers.jpg
 tags:
@@ -18,34 +18,68 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Rooftop Snipers*는 두 명의 픽셀 캐릭터가 빌딩 옥상에서 총싸움을
+벌이는 물리 기반 슈팅 게임의 원조격 작품입니다. 간단한 조작만으로
+점프하고 쏘는 게임이지만, 과장된 래그돌 물리와 반동 때문에 매 판
+예상치 못한 상황이 벌어져 웃음을 줍니다.
 
-### Game Introduction
+이 작품은 이후 시리즈의 기반이 되었으며, 짧은 라운드 구조 덕분에
+친구와 번갈아 즐기기에도 좋습니다.
 
-"Rooftop Snipers" is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings. The game is famous for its hilarious ragdoll physics effects and simple yet challenging gameplay, laying the foundation for subsequent series games.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **기본 조작 패턴부터 익히기**  
+   좌우 이동, 점프, 발사 세 가지 조작을 어떻게 섞느냐가 승부를
+   가릅니다. 처음에는 조준보다 "언제 점프하고 언제 쏠지" 리듬을
+   맞추는 데 집중해 보세요.
 
-1.  **[KO]** **Master Basic Controls**: Become proficient with the basic combination of movement, jumping, and shooting operations.
-2.  **[KO]** **Shooting Prediction**: Learn to predict opponent movement direction and aim ahead when shooting.
-3.  **[KO]** **Balance Control**: Maintain balance on roof edges, avoiding accidental falls due to weapon recoil.
-4.  **[KO]** **Rhythm Mastery**: Find the optimal combination rhythm for shooting, moving, and jumping.
-5.  **[KO]** **Positional Strategy**: Use rooftop terrain advantages to find the best shooting positions.
+2. **상대 움직임 예측해 쏘기**  
+   상대가 점프할 타이밍이나, 앞으로 나올 타이밍을 예측해 미리
+   그 지점을 향해 쏘면 명중률이 크게 올라갑니다. 특히 점프 중인
+   상대는 방향 전환이 어렵기 때문에 좋은 타깃입니다.
 
-### How to Play
+3. **옥상 가장자리에서의 균형 관리**  
+   너무 앞쪽으로 나가 있으면 작은 반동에도 바로 떨어지기 쉽습니다.
+   스스로를 가장자리까지 몰지 말고, 반동까지 감안해 뒤쪽 여유
+   공간을 남겨 두세요.
 
-*   **[KO]** **Movement**: Use A/D keys or left/right arrow keys to control character left and right movement.
-*   **[KO]** **Jump**: Use W key or up arrow key to make character jump.
-*   **[KO]** **Shoot**: Use S key or down arrow key to shoot.
-*   **[KO]** **Combination Actions**: Can simultaneously perform combinations of movement, jumping, and shooting.
+4. **점프·이동·발사 리듬 찾기**  
+   마구잡이로 키를 누르기보다, "점프 → 공중에서 발사 → 착지 후
+   위치 조정" 같은 자신만의 루틴을 만들면 훨씬 안정적으로 싸울 수
+   있습니다.
 
-### Frequently Asked Questions
+5. **지형을 이용한 유리한 포지션 잡기**  
+   일부 맵에서는 높낮이나 장애물을 이용해 상대보다 유리한 위치를
+   선점할 수 있습니다. 높은 곳이나 장애물 뒤에서 공격 각도를
+   유리하게 가져가 보세요.
 
-1.  **[KO]** **Q: Why do I always fall off first?**
-**A**: You might be moving too aggressively or not mastering weapon recoil effects; need to control position more carefully.
-2.  **[KO]** **Q: How can I improve hit rate?**
-**A**: Practice aiming more, learn to predict opponent movement trajectories, and shoot when opponents are jumping.
-3.  **[KO]** **Q: How many players does the game support?**
-**A**: The original "Rooftop Snipers" is mainly a two-player battle game where two players can fight on the same device.
-4.  **[KO]** **Q: Is there a single-player mode?**
-**A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.
+### 조작 가이드
+
+- **이동**: `A/D` 또는 좌/우 방향키로 좌우로 움직입니다.  
+- **점프**: `W` 키 또는 위쪽 방향키로 점프합니다.  
+- **발사**: `S` 키 또는 아래쪽 방향키로 총을 발사합니다.  
+- **복합 동작**: 이동·점프·발사를 동시에 입력해 공중에서 쏘거나,
+  점프 후 즉시 발사하는 등 다양한 콤보를 구사할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 왜 항상 제가 먼저 떨어지나요?**  
+   **A:** 가장자리에서 과하게 앞으로 나가거나, 발사 반동을 고려하지
+   않고 쏘기 때문일 가능성이 큽니다. 가장자리 근처에서는 움직임을
+   줄이고, 반동 방향을 항상 염두에 두세요.
+
+2. **Q: 명중률을 올리려면 어떻게 해야 하나요?**  
+   **A:** 상대가 점프할 타이밍을 노리거나, 이동 방향을 미리 예측해
+   약간 앞을 겨냥해 쏘는 연습을 해 보세요. 충분히 연습하면
+   조작이 단순한 만큼 명중률도 빠르게 올라갑니다.
+
+3. **Q: 몇 명까지 함께 플레이할 수 있나요?**  
+   **A:** 기본적으로 한 기기에서 2인 대전을 즐기는 게임입니다.
+   두 플레이어가 각각 다른 키 세트를 사용해 같은 화면에서
+   대결하게 됩니다.
+
+4. **Q: 1인용 모드도 있나요?**  
+   **A:** 대부분 2인 대전 중심이지만, 일부 버전에서는 AI와 싸우는
+   싱글 플레이 모드가 따로 제공되기도 합니다.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: alien-hominid
-title: '[DE] Alien Hominid'
+title: "Alien Hominid"
 description: >-
-  [DE] The ultimate guide for the classic run-and-gun shooter, Alien Hominid.
-  Find detailed strategies, controls, and FAQs to help you master this
-  challenging side-scroller from The Behemoth.
+  Der ultimative Guide zum klassischen Run‑and‑Gun‑Shooter Alien Hominid. Hier
+  findest du detaillierte Strategien, Steuerungstipps und Antworten auf häufige
+  Fragen, um diesen anspruchsvollen Side‑Scroller von The Behemoth zu meistern.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/alien-hominid.jpg
 tags:
@@ -16,58 +16,100 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Alien Hominid ist ein rasantes 2D‑Run‑and‑Gun‑Spiel im Side‑Scroller‑Stil, das
+von The Behemoth entwickelt wurde. Ursprünglich erschien es 2002 als Flash‑Spiel
+auf dem Portal Newgrounds und wurde später zu einem vollwertigen Konsolentitel
+für PlayStation 2, Nintendo GameCube und Xbox ausgebaut. Bekannt ist es vor
+allem für seinen handgezeichneten Grafikstil von Dan Paladin, sein chaotisches,
+forderndes Gameplay und seinen schrägen Humor.
 
-### Detailed Game Introduction
+Die Ausgangslage ist simpel: Du steuerst einen kleinen gelben Alien, dessen UFO
+von der FBI‑Organisation abgeschossen wurde. Gestrandet auf der Erde kämpfst du
+dich durch Wellen von Geheimagenten, KGB‑Soldaten und diversen Bossgegnern, um
+raus aus der Gefangenschaft zu kommen und dein Raumschiff zurückzuerobern. Beim
+Gameplay merkt man deutlich die Vorbilder *Contra* und *Metal Slug*: ein
+Treffer bedeutet meist den Tod, Gegnerwellen reißen kaum ab und Bosskämpfe
+verlangen präzise Eingaben und gutes Pattern‑Reading.
 
-Alien Hominid is a fast-paced 2D side-scrolling run-and-gun shooter developed by The Behemoth. It originated as a popular Flash game on the Newgrounds portal in 2002 before being expanded into a full console release for PlayStation 2, Nintendo GameCube, and Xbox. The game is renowned for its charming, hand-drawn art style by Dan Paladin, its chaotic and challenging gameplay, and its quirky sense of humor.
+### Strategie & Walkthrough
 
-The premise is simple: players control a small, yellow alien whose UFO has been shot down by the FBI. Now stranded on Earth, the alien must fight its way through waves of secret agents, KGB soldiers, and various bosses to recover its spaceship and escape the planet. The gameplay is heavily inspired by classic arcade shooters like *Contra* and *Metal Slug*, featuring one-hit kills, relentless waves of enemies, and intense boss battles that demand precision and pattern recognition.
+Alien Hominid ist berüchtigt für seinen hohen Schwierigkeitsgrad. Erfolg hängt
+von schnellen Reaktionen, dem Einprägen von Angriffsmustern und dem voll
+ausgenutzten Moveset des Aliens ab.
 
-### Gameplay Strategy & Walkthrough
+#### 1. Bewegung ist Überleben
 
-Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memorization, and mastering the alien's full moveset.
+*   **Nie stehen bleiben:** Stillstehen ist der schnellste Weg zum Game Over.
+    Springe, renne oder rolle ständig, damit du ein schwerer Treffer bist.
+*   **Rollen und Ducken meistern:** Du kannst unter vielen Standardgeschossen
+    hindurchducken. Wenn du im Laufen die Duck‑Taste antippst, führt der Alien
+    eine Rolle aus – perfekt, um Beschuss auszuweichen oder schnell die Position
+    zu wechseln.
 
-#### 1. Movement is Survival
-*   **[DE]** **Never Stop Moving:** Standing still is the quickest way to die. Always be jumping, running, or rolling to make yourself a harder target.
-*   **[DE]** **Master the Roll/Duck:** You can duck under most standard bullets. Tapping the duck button while moving will initiate a roll, which is a fantastic evasive maneuver to dodge incoming fire or quickly reposition.
+#### 2. Nutze dein volles Arsenal
 
-#### 2. Use Your Full Arsenal
-*   **[DE]** **The Power of Digging:** One of the most critical survival skills is the ability to dig underground. While underground, you are completely invulnerable. You can use this to dodge massive bullet storms or to pull enemies underground for an instant kill.
-*   **[DE]** **Ride 'Em, Alien!:** You can jump on top of most enemies' heads. From there, you can choose to "ride" them, using them as a human shield, or perform a "chomp" to bite their head off for a stylish kill. This is both a defensive and offensive tactic.
-*   **[DE]** **Melee When Necessary:** Your knife is surprisingly effective for close-quarters combat, especially when you are overwhelmed and need to clear space immediately.
-*   **[DE]** **Grenades are Your Best Friend:** Grenades deal significant area-of-effect damage. Save them for large groups of enemies or for dealing heavy damage to bosses.
+*   **Die Kraft des Eingrabens:** Eine der wichtigsten Überlebensfähigkeiten ist
+    das Eingraben in den Boden. Unter der Erde bist du komplett unverwundbar.
+    Nutze dies, um massiven Kugelhagel zu vermeiden oder Gegner von unten zu
+    packen und sofort auszuschalten.
+*   **Ritt auf den Gegnern:** Auf viele Gegner kannst du aufspringen und auf
+    ihrem Kopf reiten. So dienen sie dir kurzzeitig als lebendiger Schild – oder
+    du beißt ihnen mit einem "Chomp" kurzerhand den Kopf ab. Das ist zugleich
+    defensiv und offensiv nützlich.
+*   **Nahkampf, wenn es eng wird:** Dein Messer ist im Nahkampf erstaunlich
+    effektiv, besonders wenn dich Gegner einkesseln und du schnell Platz
+    schaffen musst.
+*   **Granaten sind deine besten Freunde:** Granaten verursachen starken
+    Flächenschaden. Heb sie dir für große Gegnergruppen oder zähe Bosse auf.
 
-#### 3. General Combat Tips
-*   **[DE]** **Charged Shots:** Holding down the fire button charges your blaster for a more powerful shot that can pierce through multiple enemies. However, you cannot move while charging, making you vulnerable. Use it strategically when you have a clear opening.
-*   **[DE]** **Prioritize Threats:** Always identify and eliminate the most dangerous enemies first—usually those with rapid-fire weapons or who launch projectiles.
-*   **[DE]** **Learn Boss Patterns:** Every boss follows a strict attack pattern. The key to victory is observation. Spend your first few attempts learning their moves and identifying safe spots and attack windows. Don't get greedy; land a few shots and then prepare to dodge again.
+#### 3. Allgemeine Kampftipps
 
-### Controls Guide
+*   **Geladene Schüsse:** Hältst du die Feuertaste gedrückt, lädt sich dein
+    Blaster zu einem stärkeren Schuss auf, der mehrere Gegner durchschlagen
+    kann. Während des Aufladens kannst du dich jedoch nicht bewegen, was dich
+    verwundbar macht. Nutze geladene Schüsse nur in klaren Sicherheitspausen.
+*   **Gefahren priorisieren:** Schalte zuerst die gefährlichsten Gegner aus –
+    etwa solche mit Schnellfeuerwaffen oder explosive Projektile.
+*   **Bossmuster lernen:** Jeder Boss folgt festen Mustern. Beobachte in den
+    ersten Versuchen genau, wann sichere Phasen sind und wo du stehen darfst.
+    Werde nicht gierig: Ein paar saubere Treffer pro Zyklus reichen, solange du
+    zuverlässig ausweichst.
 
-Controls can vary slightly between the Flash version and console/HD versions, but the core functions remain the same.
+### Steuerung
 
-*   **[DE]** **Movement:** Arrow Keys / D-Pad / Analog Stick to move left and right.
-*   **[DE]** **Jump:** 'A' Key (Keyboard) / A or X Button (Controller).
-*   **[DE]** **Shoot:** 'S' Key (Keyboard) / X or Square Button (Controller). Hold to charge the shot.
-*   **[DE]** **Grenade:** 'D' Key (Keyboard) / B or Circle Button (Controller).
-*   **[DE]** **Duck/Roll:** Down Arrow Key / Down on D-Pad.
-*   **[DE]** **Special Moves:**
-    *   **[DE]** **Dig:** Press Down + Jump when on soft ground (dirt, sand).
-    *   **[DE]** **Melee Attack:** Get close to an enemy and press the Shoot button.
-    *   **[DE]** **Ride/Chomp:** Jump directly on top of an enemy's head.
+Die Steuerung unterscheidet sich leicht zwischen Flash‑, Konsolen‑ und HD‑
+Versionen, der Kern bleibt aber gleich.
 
-### Frequently Asked Questions (FAQ)
+*   **Bewegung:** Pfeiltasten / Steuerkreuz / Analogstick, um nach links und
+    rechts zu laufen.
+*   **Springen:** Taste "A" auf der Tastatur bzw. A‑ oder X‑Button auf dem
+    Controller.
+*   **Schießen:** Taste "S" auf der Tastatur bzw. X‑ oder Quadrat‑Button auf
+    dem Controller. Gedrückt halten, um einen Schuss aufzuladen.
+*   **Granate:** Taste "D" auf der Tastatur bzw. B‑ oder Kreis‑Button auf dem
+    Controller.
+*   **Ducken/Rollen:** Nach unten drücken (Pfeil nach unten oder Steuerkreuz
+    nach unten), um dich zu ducken; im Laufen wird daraus eine Rolle.
+*   **Spezialmanöver:**  
+    *   **Eingraben:** Unten + Sprungtaste auf weichem Untergrund (z. B. Erde,
+        Sand).
+    *   **Nahkampfangriff:** Ganz nah an einen Gegner herangehen und die
+        Schusstaste drücken.
+    *   **Reiten/Beißen:** Direkt auf den Kopf eines Gegners springen, um ihn zu
+        reiten oder mit einem Biss auszuschalten.
 
-*   **[DE]** **Q: Why is Alien Hominid so difficult?**
-    *   **[DE]** **A:** The game's high difficulty is intentional, designed to emulate the challenge of classic 8-bit and 16-bit arcade games. The one-hit-kill system requires players to play with near-perfect execution.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Q: What is the difference between the original Flash game and the HD/console versions?**
-    *   **[DE]** **A:** The console and HD versions are greatly expanded. They feature more levels, additional enemies and bosses, improved graphics and sound, a 2-player co-op mode, and numerous mini-games and unlockable hats for your alien.
+*   **F: Warum ist Alien Hominid so schwierig?**  
+    *   **A:** Der hohe Schwierigkeitsgrad ist gewollt und orientiert sich an klassischen 8‑/16‑Bit‑Shootern. Das Ein‑Treffer‑System zwingt dich zu sehr präzisem Spielen.
 
-*   **[DE]** **Q: How do I beat the final boss?**
-    *   **[DE]** **A:** The final boss is a multi-stage endurance fight. The key, like with all bosses, is to patiently learn the patterns of each phase. Focus on dodging first and only attack when you have a clear, safe opening.
+*   **F: Worin unterscheiden sich Flash‑Version und HD‑/Konsolenversionen?**  
+    *   **A:** Die späteren Versionen sind stark erweitert: mehr Level, zusätzliche Gegner/Bosse, bessere Grafik und Sound, 2‑Spieler‑Koop, Minispiele und viele freischaltbare Hüte.
 
-*   **[DE]** **Q: Is *Alien Hominid Invasion* the same game?**
-    *   **[DE]** **A:** No. *Alien Hominid Invasion* is a modern follow-up and a "reimagining" of the original. It features co-op-focused, non-linear gameplay with rogue-lite elements, character progression, and different mechanics. It's a new game set in the same universe, not a remake.
+*   **F: Wie besiege ich den Endboss?**  
+    *   **A:** Der Endboss verläuft in mehreren Phasen. Lerne zuerst jede Pattern, konzentriere dich aufs Ausweichen und nutze nur sichere Fenster für Schaden.
 
+*   **F: Ist *Alien Hominid Invasion* dasselbe Spiel?**  
+    *   **A:** Nein. *Alien Hominid Invasion* ist eine moderne Neuinterpretation mit Koop‑Fokus und Roguelite‑Elementen – gleiches Universum, aber neue Level und Systeme.

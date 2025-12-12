@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bloxorz
-title: '[DE] Bloxorz Magic'
+title: "Bloxorz Magic"
 description: >-
-  [DE] Guide your rectangular block through challenging 3D puzzles in Bloxorz.
-  Navigate fragile tiles, operate switches, split your block in two, and
-  carefully roll to the exit hole in this classic brain-teasing game.
+  Führe deinen rechteckigen Block durch knifflige 3D‑Level in Bloxorz. Navigiere
+  über schmale Plattformen, nutze Schalter, teile den Block in zwei Teile und
+  rolle ihn vorsichtig in das Zielloch.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/bloxorz.jpg
 tags:
@@ -16,57 +16,89 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+Bloxorz ist ein anspruchsvolles 3D‑Knobelspiel. Du steuerst einen 1×2×1
+Block über schwebende Plattformen und musst ihn am Ende eines Levels so
+positionieren, dass er **hochkant** in ein 1×1‑Loch fällt. Die Schwierigkeit
+besteht darin, den Block durch Kippen und Rollen zu bewegen, ohne dass er von
+der Plattform stürzt.
 
+Das Spiel umfasst 33 Level, die nach und nach neue Mechaniken einführen. Um ein
+Level abzuschließen, muss der Block aufrecht auf einem einzigen Feld stehen,
+bevor er in das Zielloch kippt.
 
+Wichtige Elemente sind Spezialfelder und Schalter:
 
-### Game Introduction
+- **Fragile Tiles (Orange):** Zerbrechliche Felder, die einstürzen, wenn der
+  Block hochkant darauf steht. Du darfst sie nur im liegenden Zustand (auf zwei
+  Feldern) überqueren.
+- **Schalter:** Steuern Brücken oder Plattformen und treten in drei Varianten
+  auf:  
+    - **Soft‑Schalter `()`**: werden ausgelöst, sobald ein Teil des Blocks sie
+      berührt.  
+    - **Hard‑Schalter `X`**: reagieren nur, wenn der Block aufrecht mit seinem
+      vollen Gewicht darauf steht.  
+    - **Split‑Schalter `<>`**: Liegt der Block flach auf ihnen, teilt er sich in
+      zwei kleinere 1×1‑Würfel.
 
-Bloxorz is a challenging 3D puzzle game where the objective is to maneuver a 1x2x1 rectangular block through a series of floating platforms and into a square hole at the end of the stage. The challenge lies in navigating the block by rolling it, ensuring it doesn't fall off the edges of the platforms.
+### Strategie
 
-The game consists of 33 stages, each progressively more difficult and introducing new mechanics and obstacles. To complete a level, the block must be standing upright (occupying a single 1x1 square) to fall perfectly into the 1x1 destination hole.
+- **Züge vorausdenken:** Bloxorz erfordert vorausschauendes Planen. Überlege
+  vor jedem Kipppunkt, wo der Block danach landet und ob er liegend oder
+  hochkant steht. Unüberlegte Moves führen fast immer zum Absturz.
 
-The puzzle elements evolve through the introduction of special tiles and switches:
--   **Fragile Tiles (Orange):** These tiles will collapse if the block stands upright on them, as its entire weight is concentrated on a single square. The block must lie flat (distributing its weight over two squares) to safely cross them.
--   **Switches:** There are three types of switches that control bridges and platforms.
-    -   **Soft Switches (`()`):** Activated when any part of the block touches them.
-    -   **Hard Switches (`X`):** Can only be activated when the block is standing upright on them, applying its full weight.
-    -   **Splitting Switches (`<>`):** When the block lies flat across this switch, it splits into two smaller, independent 1x1 cubes.
+- **Orange Felder respektieren:** Merke dir die Grundregel:
+  **Niemals hochkant auf Orange stehen.** Überquere sie nur, wenn der Block auf
+  zwei Feldern liegt.
 
-### Gameplay Strategy
+- **Schalter verstehen:**  
+    - `()` kannst du einfach überrollen.  
+    - `X` verlangt eine exakt geplante Bewegung, um den Block aufrecht genau
+      darauf zu stellen.
 
--   **Think and Plan Ahead:** Bloxorz is a game of foresight. Before making a move, visualize the next few rolls. Count the squares to see where your block will land and in what orientation (standing or lying flat). Rushing will almost always lead to falling off.
--   **Master the Fragile Tiles:** The rule is simple but crucial: **Never stand on an orange tile.** Always ensure your block is lying flat when any part of it is resting on a fragile tile.
--   **Understand the Switches:**
-    -   For `()` switches, you can simply roll over them.
-    -   For `X` switches, you need to plan your moves to land your block in a standing position precisely on the switch.
--   **Splitting Strategy:** When your block is split into two cubes, they move in parallel. You can press the Spacebar to toggle control between them.
-    -   Use one cube as an anchor or a block to manipulate the position of the other.
-    -   To merge the two cubes back into a single block, they must be positioned right next to each other (adjacent squares). Move one into the other to reform the block.
--   **Use Edges to Your Advantage:** Sometimes, you'll need to use the edge of a platform as a pivot point to get your block into a standing position where you otherwise couldn't. This is an advanced technique required for later levels.
--   **Write Down Level Codes:** The game provides a unique code for each level. Write these down so you don't have to start from the beginning every time you play.
+- **Split‑Taktik:** Nach dem Split bewegst du zwei einzelne Würfel, die
+  gleichzeitig auf Eingaben reagieren. Mit `Leertaste` wechselst du den aktiv
+  gesteuerten Würfel.
+    - Nutze einen Würfel als Anker oder Blockade, um den anderen an bestimmte
+      Positionen zu bringen.  
+    - Zum Zusammenführen müssen beide Würfel auf benachbarten Feldern stehen;
+      bewegst du einen in den anderen, bilden sie wieder den langen Block.
 
-### Controls Guide
+- **Kanten sinnvoll nutzen:** In späteren Leveln musst du Plattformkanten als
+  Drehpunkt einsetzen, um den Block hochkant in Positionen zu bringen, die
+  anders nicht erreichbar wären.
 
-The controls are simple and based on the keyboard's arrow keys.
+- **Level‑Codes notieren:** Nach jedem Level erhältst du einen Code. Notiere
+  ihn dir, um später direkt in dieses Level springen zu können, ohne von vorn
+  zu beginnen.
 
--   **Up Arrow Key:** Roll the block forward.
--   **Down Arrow Key:** Roll the block backward.
--   **Left Arrow Key:** Roll the block to the left.
--   **Right Arrow Key:** Roll the block to the right.
--   **Spacebar:** Switch control between the two smaller cubes after splitting.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- Die Bedienung ist unkompliziert und basiert vollständig auf den Pfeiltasten
+  sowie der Leertaste.
 
-**1. Why did I fall through the orange floor?**
-> You fell because your block was standing upright on the orange tile. These tiles are fragile and can only support the block when it's lying flat, distributing its weight across two squares.
+- **Pfeiltaste nach oben:** Block nach vorne kippen.  
+- **Pfeiltaste nach unten:** Block nach hinten kippen.  
+- **Pfeiltaste nach links:** Block nach links kippen.  
+- **Pfeiltaste nach rechts:** Block nach rechts kippen.  
+- **Leertaste:** Zwischen den beiden Würfeln wechseln, nachdem der Block
+  geteilt wurde.
 
-**2. The 'X' switch is not working. What am I doing wrong?**
-> The 'X' switch is a "hard" or "heavy" switch. It requires the full, concentrated weight of the block to activate. You must position the block so it is standing vertically on top of the 'X' tile. Lying flat on it will not work.
+### Häufige Fragen (FAQ)
 
-**3. How do I get my two small blocks back together?**
-> To merge the two cubes back into the original block, you must move them so they are on adjacent squares (side-by-side). Then, select one cube and move it into the other. They will automatically combine.
+- **F: Warum bin ich durch einen orangefarbenen Boden gefallen?**  
+  **A:** Du standest hochkant auf einem fragilen Feld. Diese halten nur, wenn
+  der Block flach liegt und sein Gewicht auf zwei Felder verteilt.
 
-**4. How can I return to a level I've already reached?**
-> After completing each level, the game provides a 6-digit passcode. You can enter this code on the main menu screen to start directly from that level.
+- **F: Der `X`‑Schalter reagiert nicht – wieso?**  
+  **A:** `X` ist ein Hard‑Schalter und braucht das volle Gewicht des Blocks.
+  Du musst ihn hochkant genau darauf abstellen.
 
+- **F: Wie setze ich die beiden kleinen Blöcke wieder zusammen?**  
+  **A:** Stelle sie auf zwei benachbarte Felder und bewege einen Würfel in den
+  anderen – sie fusionieren automatisch.
+
+- **F: Wie komme ich zu einem bereits geschafften Level zurück?**  
+  **A:** Gib den Level‑Code, den du nach Abschluss erhalten hast, im Hauptmenü
+  ein, um direkt zu diesem Level zu springen.

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: lollipop-world-match-3
-title: '[ZH TRANSLATION NEEDED] Lollipop World : match 3'
-description: >-
-  [ZH TRANSLATION NEEDED] Lollipop World: Match 3 is a candy puzzler — combine
-  power‑ups, break blockers, and meet scene goals within tight move limits.
+title: '《Lollipop World : match 3》棒棒糖消消乐'
+description: '《Lollipop World : match 3》是一款糖果主题三消游戏，你要组合道具、打碎障碍物，在紧张的步数限制下完成场景目标。'
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/lollipop-world-match-3.jpg
 tags:
@@ -16,32 +14,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Lollipop World is a colorful match‑3 with frosting, wrappers, and chocolate as blockers. Objectives range from score thresholds to collecting candies and clearing jelly. Power‑up merges (bomb+line, color clears) are essential on dense boards.
+《Lollipop World : match 3》是一款色彩鲜艳的糖果三消游戏。棋盘中布满糖霜、糖纸和巧克力等障碍格，你需要通过三消来清除障碍、收集糖果或完成果冻清除等场景目标。各类炸弹、直线消除和彩色道具在高密度棋盘中尤为关键，合理组合可以快速打开局面。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Objective focus: Clear blockers/collectibles before chasing points.
-2.  [ZH TRANSLATION NEEDED] Bottom play: Work low to create cascading clears.
-3.  [ZH TRANSLATION NEEDED] Combo timing: Save strong merges for choke points.
-4.  [ZH TRANSLATION NEEDED] Wall isolation: Avoid sealing colors along edges.
-5.  [ZH TRANSLATION NEEDED] Move planning: Map 2–3 moves to preserve options.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **目标优先**：在步数紧张的关卡中，不要一味堆分数，而是优先处理障碍物和任务糖果，确保每一步都贴近关卡目标。  
+2.  **从底部开始制造连锁**：优先在棋盘底部进行消除，能制造更多连锁反应，有利于自动清除上方障碍。  
+3.  **把强力组合留给瓶颈位置**：当某一片区域被糖霜或巧克力完全堵住时，尽量等待合适时机在附近组合炸弹 + 直线、双直线等强力道具，一次性打穿。  
+4.  **避免把关键颜色封在边缘**：在棋盘边缘反复同色消除容易形成“死角”，尽量保持颜色在中央区域有足够流动空间。  
+5.  **提前规划 2～3 步**：在步数有限的关卡中，落子前多想一两步，避免刚刚打通的新空间又立刻被无效消除浪费。  
 
-- Drag to swap; tap power‑ups; pause/retry via UI.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 拖动相邻糖果完成交换，若能形成三消或以上则生效；点击或参与消除即可触发特殊道具效果。  
 
-- Q: I hit move limits — what changes?
-  
-[ZH TRANSLATION NEEDED]   A: Chain power‑ups and prioritize blockers that unlock space.
+### 常见问题（FAQ）
 
-- Q: Best opener?
-  
-[ZH TRANSLATION NEEDED]   A: Bottom clears to trigger cascades.
+*   **Q: 总是卡在步数限制上，怎么办？**  
 
-- Q: Are diagonals allowed?
-  
-[ZH TRANSLATION NEEDED]   A: Typically no; check mode rules.
+A: Chain power‑ups and prioritize blockers that unlock space.
+- **A:** 多使用特殊道具的组合来清理大片障碍，并优先打通被封死的关键区域，而不是在开阔区域做小范围三消。  
 
+
+A: Bottom clears to trigger cascades.
+*   **Q: 开局第一步建议怎么走？**  
+
+A: Typically no; check mode rules.
+    *   **A:** 以底部消除为主，一开始尽可能制造连锁，有助于在上方自动清障并找出更多组合机会。  
+
+*   **Q: 能斜着三消吗？**  
+    *   **A:** 通常不允许对角线消除，只支持横向和纵向三消，具体可以查看关卡规则说明。

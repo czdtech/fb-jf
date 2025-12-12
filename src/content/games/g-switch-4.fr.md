@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: g-switch-4
-title: '[FR] G-Switch 4'
-description: >-
-  [FR] Latest gravity‑flip runner entry: refined controls, tricky obstacle
-  chains, and competitive local races for many players.
+title: "G-Switch 4"
+description: "Dernier opus du runner gravitationnel : commandes affinées, chaînes de pièges retorses et courses locales compétitives pour de nombreux joueurs."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/g-switch-4.jpg
@@ -16,28 +14,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+G‑Switch 4 pousse le concept à son maximum : un timing à un bouton ultra serré, des niveaux truffés de pièges en chaîne et un multijoueur local solide qui accueille de nombreux joueurs. Les erreurs de flip se payent très cher, mais la maniabilité est plus fluide que jamais.
 
+### Comment jouer
 
-### Overview
-Tight one‑button timing with dense trap layouts and robust local multiplayer support.
+- Inverse la gravité avant les bords de plateforme et prévois parfois un second flip pour passer deux pièges consécutifs.
+- En mode course, préfère un rythme de flip sûr plutôt que des inversions à la dernière milliseconde qui risquent de te faire chuter.
 
-### How to Play
-- Flip before edges; buffer a second flip for back‑to‑back traps.
-- In races, keep a safe cadence instead of risky late flips.
+### Commandes
 
-### Controls
-- Single key/tap to flip; one key per player in vs.
+- Une touche / un tap pour flipper la gravité.  
+- En versus, chaque joueur dispose de sa touche de flip.
 
-### Tips
-- Practice on slower sections to lock in your rhythm.
-- Use long ceilings/floors to reset timing after mistakes.
+### Astuces
 
-### FAQ
-- Q: What is new in this installment?
-A: Smoother control feel and denser obstacle patterns; strong local multiplayer modes.
-- Q: Does it support many local players?
-A: Yes, many hosts allow multiple participants with unique keys.
-- Q: Are there checkpoints?
-A: Level modes may include them; endless races typically do not.
+- Entraîne‑toi sur les sections plus lentes pour verrouiller ton rythme avant d’affronter les séquences rapides.
+- Utilise les longs plafonds et planchers pour te « recaler » après un mauvais flip.
+
+### Foire aux questions (FAQ)
+
+- Q : Qu’apporte ce nouvel épisode ?
+  
+  R : Une sensation de contrôle plus souple, des patterns de pièges plus denses et des modes multijoueur local encore plus aboutis.
+
+- Q : Peut‑on jouer à beaucoup sur le même clavier ?
+  
+  R : Oui, beaucoup de versions permettent à de nombreux joueurs de rejoindre avec chacun une touche attribuée.
+
+- Q : Y a‑t‑il des checkpoints ?
+  
+  R : Les modes « niveaux » peuvent en proposer ; les courses infinies ou endless, elles, n’en ont généralement pas.
 

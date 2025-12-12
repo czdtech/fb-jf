@@ -1,74 +1,39 @@
 ---
+title: "Candy Riddles"
+description: "Candy Riddlesは陽気なマッチ3ゲームです。お菓子を交換し、コンボをトリガーし、賢いカスケードでステージ目標を解決しましょう。"
+iframeSrc: "https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/"
+thumbnail: "/new-images/candy-riddles.png"
+urlstr: "candy-riddles"
+score: "4.2/5  (2018 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: candy-riddles
-title: '[JA TRANSLATION NEEDED] Candy Riddles'
-description: >-
-  [JA TRANSLATION NEEDED] Candy Riddles is a cheerful match‑3 — swap sweets,
-  trigger combos, and solve stage objectives with smart cascades.
-iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
-thumbnail: /new-images/candy-riddles.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.2/5  (2018 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Candy Riddlesは、隣接するキャンディを交換して3つ以上のラインを形成する、カラフルなマッチ3パズルゲームです。マッチはタイルをクリアし、パワーアップをチャージし、閉じ込められたセルを解放したり、ミッションアイテムを収集したりできます。ステージが進むにつれて、ブロッカー（例：フロスティング、クレート）、限られた手数、特別な目標は、計画と効率的なカスケード（連鎖）を必要とします。
 
-[JA TRANSLATION NEEDED] Candy Riddles is a colorful match‑3 puzzler where you swap adjacent candies to form lines of three or more. Matches clear tiles, charge power‑ups, and can free trapped cells or collect mission items. As stages progress, blockers (e.g., frosting, crates), limited moves, and special goals require planning and efficient cascades.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  下から作業して、無料でより多くのタイルをクリアする自然なカスケードを生成しましょう。
+2.  スコアを追いかける前に、まず目標（例：ブロッカーを削除、アイテムを収集）をターゲットにしましょう。
+3.  パワーアップを組み合わせる：ラインクリアと爆弾またはカラークリアを組み合わせると、多くの場合、広いエリアを一掃できます。
+4.  壁の近くで色を孤立させないようにしましょう。将来のマッチのためにボードを開いたままにしておきます。
+5.  限られた手数のステージでは、ステップを節約するために2〜3手先を計画しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Work from the bottom to generate natural cascades that clear more tiles for free.
-[JA TRANSLATION NEEDED] 2.  Target objectives first (e.g., remove blockers, collect items) before chasing score.
-[JA TRANSLATION NEEDED] 3.  Combine power‑ups: merging a line‑clear with a bomb or color clear often wipes large areas.
-[JA TRANSLATION NEEDED] 4.  Avoid isolating colors near walls; keep the board open for future matches.
-[JA TRANSLATION NEEDED] 5.  On limited‑move stages, map two to three moves ahead to conserve steps.
+### 操作ガイド
 
-### Controls Guide
+- ドラッグして隣接する2つのキャンディを交換します。有効なマッチのみが実行されます。
+- ルールに従ってマッチまたはタップしてパワーアップを発動します。
+- UIを介して一時停止/再起動します。
 
-- Swap two neighboring candies by dragging; only valid matches are executed.
-- Activate power‑ups by matching or tapping them per rules.
-- Pause/Restart via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I always fail move‑limit levels — what am I doing wrong?
-  
-[JA TRANSLATION NEEDED]   A: You may be scoring without advancing the objective. Prioritize blockers/targets and combine power‑ups to maximize value per move.
-
-- Q: Do diagonals count?
-  
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Typically no — most match‑3s only count orthogonal lines unless a special rule says otherwise.
-
-- Q: Any tip for stubborn blockers?
-  
-
-
-
-
-- Q: I always fail move‑limit levels — what am I doing wrong?
-### よくある質問（FAQ）
-- Pause/Restart via UI.
-
-### よくある質問（FAQ）
-- Activate power‑ups by matching or tapping them per rules.
-[JA TRANSLATION NEEDED]   A: Detonate bombs next to them or chain line clears through the row/column to chip them down quickly.
-
-
-
-
-
-
-A: Detonate bombs next to them or chain line clears through the row/column to chip them down quickly.
-- Q: Any tip for stubborn blockers?
-A: Typically no — most match‑3s only count orthogonal lines unless a special rule says otherwise.
-- Q: Do diagonals count?
-
-
-A: Detonate bombs next to them or chain line clears through the row/column to chip them down quickly.
+- **Q: 私はいつも手数制限レベルで失敗します。何が間違っていますか？**
+  A: 目標を進めずにスコアを稼いでいる可能性があります。ブロッカー/ターゲットを優先し、1手あたりの価値を最大化するためにパワーアップを組み合わせましょう。
+- **Q: 対角線はカウントされますか？**
+  A: 通常はいいえ。ほとんどのマッチ3は、特別なルールで指定されていない限り、直交ライン（縦横）のみをカウントします。
+- **Q: 頑固なブロッカーへのヒントはありますか？**
+  A: 隣で爆弾を爆発させるか、列/行を通してラインクリアをチェインして、素早く削り取ります。

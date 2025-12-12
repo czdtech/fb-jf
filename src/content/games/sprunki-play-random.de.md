@@ -1,11 +1,8 @@
 ---
 locale: de
 urlstr: sprunki-play-random
-title: '[DE] Sprunki Play Random - Play Sprunki Play Random Online'
-description: >-
-  [DE] Sprunki Play Random is a music creation game full of surprises and fun.
-  If you like challenges and exploration, then Sprunki Play Random is definitely
-  for you!
+title: "Sprunki Play Random - Sprunki Play Random online spielen"
+description: "Sprunki Play Random ist ein Musikbaukasten voller Überraschungen: Zufällige Sounds, unerwartete Kombinationen und jede Menge Raum zum Ausprobieren."
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /sprunki-play-random.png
 tags:
@@ -14,50 +11,47 @@ tags:
 score: 4.5/5  (614 votes)
 ---
 
+### Einführung in Sprunki Play Random
 
+Sprunki Play Random ist ein Musikspiel, das konsequent auf Zufall setzt. Wenn du Spaß an Experimenten hast und gern entdeckst, was „passiert, wenn…“, bist du hier genau richtig. Jeder Run klingt anders – und genau das ist der Reiz.
 
-### Introducing to Sprunki Play Random
+### Was macht Sprunki Play Random so besonders?
 
-Sprunki Play Random is a music creation game full of surprises and fun. If you like challenges and exploration, then Sprunki Play Random is definitely for you! Come and join Sprunki Play Random, let the random sounds ignite your musical inspiration and create unique musical works!
-
-### What's So Magical About Sprunki Play Random?
-
-Simply put, Sprunki Play Random turns music creation into an adventure full of unknowns. You never know what sound the next character will make, and all you need to do is use these random sounds to create unique musical works!
+Im Kern verwandelt der Mod Musikmachen in ein kleines Abenteuer: Du weißt nie, welchen Sound die nächste Figur bekommt, musst also mit dem arbeiten, was dir das Spiel gerade hinwirft – und daraus etwas Eigenes formen.
 
 ---
 
-### How to Play Sprunki Play Random?
+### So spielst du Sprunki Play Random
 
-The operation is very simple, you can easily do it with a mouse or finger:
+Die Bedienung ist simpel, egal ob mit Maus oder Touch:
 
-- **Mouse/Touch:** Click/Touch and drag the character onto the stage.
-- **Move Characters:** Drag characters to switch different sounds.
-- **Remove Characters:** Double click/double tap to remove characters from the stage.
-- **Menu:** Click the menu icon to save, restart, or share your work.
+- **Figuren ziehen:** Tippe/Klicke auf eine Figur im Panel und zieh sie auf die Bühne.
+- **Sounds wechseln:** Verschiebe Figuren, um neue zufällige Sounds zu erhalten.
+- **Figuren entfernen:** Doppelklick/Doppeltipp, um sie wieder von der Bühne zu nehmen.
+- **Menü nutzen:** Über das Menü kannst du speichern, neu starten oder deinen Mix teilen (abhängig von der Version).
 
+### Starte deine zufällige Musikreise
 
-### Start Your Random Music Journey:
-
-- **Click Play:** Click the play button to enter the random music creation stage.
-- **Drag & Drop:** Choose a character from the panel at the bottom of the screen and drag them onto the stage to start their looped sound.
-- **Embrace Randomness:** The game will randomly assign different sound effects to each character, and you can't predict what they will sound like.
-- **Mix & Match:** Arrange the characters in different combinations to create unique beats.
-- **Unlock Bonuses:** Explore hidden sound combinations that trigger special animations and bonus tracks!
-
+- **Play drücken:** Mit einem Klick gelangst du in die Random-Stage.
+- **Drag & Drop:** Zieh Figuren aus der unteren Leiste nach oben, um ihre Loops zu starten.
+- **Zufall annehmen:** Der Mod teilt Sounds zufällig zu – du erfährst erst beim Platzieren, wie sie klingen.
+- **Kombinieren:** Ordne die Figuren so an, dass sich Rhythmus, Melodie und Effekte gut ergänzen.
+- **Bonusse suchen:** Bestimmte Konstellationen können Spezialanimationen oder Bonusloops auslösen.
 
 ---
 
-### Tips for Playing Sprunki Play Random:
+### Tipps für Sprunki Play Random
 
-- **Try Different Arrangements:** The position of the characters affects the final sound effect, be bold and try to find the most suitable arrangement!
-- **Focus on Balance:** Combine beats, melodies, and vocals to create a richer musical work.
-- **Listen Carefully:** Pay attention to the subtle differences between different sounds, some sound combinations can unlock hidden rewards!
-- **Start with Fewer Characters:** Build your music with fewer characters first, so you can better control the overall effect.
-- **Replay to Discover Secrets:** Random sounds make each game full of surprises, keep replaying to discover hidden Easter eggs!
+- **Verschiedene Layouts testen:** Position und Auswahl der Figuren beeinflussen das Gesamtbild – ruhig viel ausprobieren.
+- **Balance im Blick:** Achte auf ein gutes Verhältnis von Beats, Melodien und Vocals.
+- **Genau hinhören:** Kleine Unterschiede zwischen Sounds können wichtig sein – manche Kombos schalten Extras frei.
+- **Mit wenig anfangen:** Starte mit wenigen Figuren, damit du die Kontrolle über den Mix behältst, und bau dann langsam auf.
+- **Mehrfach spielen:** Durch den Zufall entdeckt man immer wieder neue Kombinationen und versteckte Gimmicks.
 
+---
 
-### Highlights of Sprunki Play Random:
+### Highlights von Sprunki Play Random
 
-- **Unique Randomness:** Each creation is a brand new experience, making you always full of expectations.
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started.
-- **Full of Exploration Fun:** Discover hidden sound combinations, unlock special animations and bonus tracks, making your creation process full of surprises.
+- **Starker Zufallsfaktor:** Kein Track klingt wie der andere.
+- **Einfacher Einstieg:** Vertraute Sprunki-Steuerung, schnell gelernt.
+- **Entdecker-Feeling:** Versteckte Kombinationen, Bonusanimationen und Spezial-Sounds machen jeden Durchlauf spannend.

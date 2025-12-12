@@ -1,65 +1,49 @@
 ---
-locale: ja
+title: Tiny Football Cup
+description: Tiny Football Cupは、ミニサッカーゲームです。小さなフィールドで激しい試合を楽しみましょう。
+iframeSrc: 'https://ubg98.github.io/TinyFootballCup/'
+thumbnail: /new-images/tiny-football-cup.jpg
 urlstr: tiny-football-cup
-title: '[JA TRANSLATION NEEDED] Tiny Football Cup'
-description: >-
-  [JA TRANSLATION NEEDED] Tiny Football Cup is bite‑size soccer — pass early,
-  time shots, and win quick fixtures with clean positioning.
-iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
-thumbnail: /new-images/tiny-football-cup.png
+score: 4.3/5  (2345 votes)
 tags:
   - sports
-  - soccer
-score: 3.9/5  (1761 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - football
+  - arcade
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Tiny Football Cupは、シンプルで楽しいミニサッカーゲームです。小さなフィールドで速いペースの試合を楽しみ、トーナメントで優勝を目指しましょう。
 
-[JA TRANSLATION NEEDED] Tiny Football Cup condenses football into quick matches with snappy dribbling and simple set pieces. Offense favors through‑balls and across‑goal finishes; defense rewards shape and timely presses.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Two‑touch play: Pass‑shoot beats dribbling into traffic.
-[JA TRANSLATION NEEDED] 2.  Far‑post shots: Across‑goal strikes are forgiving.
-[JA TRANSLATION NEEDED] 3.  Press triggers: Pounce after bad touches; don’t over‑commit.
-[JA TRANSLATION NEEDED] 4.  Corners: Mix short corners with box shots.
-[JA TRANSLATION NEEDED] 5.  GK: Move late; attackers telegraph last‑second angles.
-
-### Controls Guide
-
-- Move/Pass/Shoot per UI; some builds separate lob/ground.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I can’t get shots off.
-  
-[JA TRANSLATION NEEDED]   A: Pass earlier and shoot first time.
-
-- Q: Defense leaks.
-  
+ - **プレイヤーを操作：** チームを動かします
+ - **ボールを蹴る：** シュートやパスをします
+ - **ゴールを決める：** 相手ゴールにボールを入れます
+ - **試合に勝つ：** より多くのゴールを決めて勝利します
 
 
-
-
-
-
-- Q: I can’t get shots off.
-### よくある質問（FAQ）
-- Move/Pass/Shoot per UI; some builds separate lob/ground.
-### コントロールガイド
 - GK: Move late; attackers telegraph last‑second angles.
+### 操作ガイド
+
+ - **矢印キー/WASD：** プレイヤー移動
+ - **スペースバー：** シュート/パス
 
 ### よくある質問（FAQ）
-- Corners: Mix short corners with box shots.
-[JA TRANSLATION NEEDED]   A: Hold shape; switch defenders; avoid chasing.
 
 
+- Q: I can’t get shots off.
+**ゲームの目標は何ですか？**
 
 
-A: Hold shape; switch defenders; avoid chasing.
 - Q: Defense leaks.
+試合に勝ち、トーナメントで優勝することです。
 
+**何人でプレイできますか？**
 
-A: Hold shape; switch defenders; avoid chasing.
+シングルプレイヤーまたは2人対戦モードがあります。
+
+**試合時間はどれくらいですか？**
+
+各試合は短く、数分で完了します。

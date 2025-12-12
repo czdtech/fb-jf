@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tiny-football-cup
-title: '[KO] Tiny Football Cup'
+title: "Tiny Football Cup 타이니 풋볼 컵"
 description: >-
-  [KO] Tiny Football Cup is bite‑size soccer — pass early, time shots, and win
-  quick fixtures with clean positioning.
+  짧은 경기로 빠르게 즐기는 미니 축구 게임 Tiny Football Cup입니다. 패스를 일찍 돌리고 슛
+  타이밍을 정확히 맞춰, 간단한 조작으로도 시원한 골 장면을 만들어 보세요.
 iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
 thumbnail: /new-images/tiny-football-cup.png
 tags:
@@ -15,31 +15,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tiny Football Cup은 짧은 시간 안에 한 경기씩 치르며 토너먼트나 컵 대회를 완주하는 미니 축구
+게임입니다. 조작은 단순하지만, 패스를 얼마만큼 빨리 돌리고 어떤 각도에서 마무리 슛을 가져가느냐에
+따라 득점력이 크게 달라집니다.
 
-### Detailed Game Introduction
+공격 상황에서는 침투하는 선수에게 스루 패스를 넣고, 골키퍼 반대쪽 먼 포스트를 향해 슛을 시도하는
+플레이가 유리합니다. 수비 상황에서는 라인을 유지하며 무리하게 달려들지 않고, 실수가 나온 순간에만
+집중적으로 압박하는 것이 중요합니다.
 
-Tiny Football Cup condenses football into quick matches with snappy dribbling and simple set pieces. Offense favors through‑balls and across‑goal finishes; defense rewards shape and timely presses.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **투 터치 플레이 활용하기**: 혼자 오래 드리블하기보다는, 첫 터치로 볼을 컨트롤하고 두 번째
+    터치에서 바로 패스나 슛을 선택하는 것이 좋습니다. 수비수 사이를 빠르게 공이 오가면 상대가
+    태클 타이밍을 잡기 어렵습니다.
+2.  **먼 포스트를 향한 슛 노리기**: 골대 정면을 향해 차는 것보다, 골키퍼가 있는 방향의 반대편
+    포스트를 향해 대각선 슛을 시도하면 골이 들어갈 확률이 높습니다. 측면에서 안쪽으로 파고들어
+    먼 포스트를 겨냥해 보세요.
+3.  **압박 타이밍 고르기**: 항상 달려들어 볼을 뺏으려고 하기보다는, 상대의 터치가 길어지거나
+    등지고 받을 때 등 실수가 나올 만한 순간에만 적극적으로 압박하는 편이 좋습니다. 라인을 무너뜨리며
+    쫓아다니면 오히려 뒷공간을 내주게 됩니다.
+4.  **코너킥 패턴 다양화하기**: 코너킥 상황에서는 직접 문전으로 올리는 것뿐 아니라, 짧게 내준 뒤
+    각도를 바꿔 크로스를 올리는 등 여러 패턴을 섞어 주면 수비가 대응하기 어려워집니다.
+5.  **골키퍼 조작은 너무 이르게 하지 않기**: 골키퍼를 수동으로 움직일 수 있는 버전이라면, 슛이
+    날아오기 훨씬 전에 미리 움직이면 오히려 빈 공간을 내주기 쉽습니다. 공격수가 마지막에 어디로
+    차는지 방향을 드러낼 때까지 기다렸다가, 짧은 거리에서 타이밍을 맞추는 것이 좋습니다.
 
-1.  **[KO]** Two‑touch play: Pass‑shoot beats dribbling into traffic.
-2.  **[KO]** Far‑post shots: Across‑goal strikes are forgiving.
-3.  **[KO]** Press triggers: Pounce after bad touches; don’t over‑commit.
-4.  **[KO]** Corners: Mix short corners with box shots.
-5.  **[KO]** GK: Move late; attackers telegraph last‑second angles.
+### 조작 방법 안내
 
-### Controls Guide
+- **이동/패스/슛**: 화면 UI 또는 키보드를 이용해 선수 이동, 패스, 슛을 조작합니다. 일부 버전에서는
+  땅볼 패스와 로빙 패스가 별도의 버튼으로 나뉘어 있을 수 있습니다.
 
-- Move/Pass/Shoot per UI; some builds separate lob/ground.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 슛을 시도하기 전에 자꾸 공을 빼앗깁니다.**  
+  **A:** 너무 오래 드리블을 유지하기보다, 빈 공간에 있는 동료에게 미리 패스를 주고 첫 터치 후
+  바로 슛을 가져가는 투 터치 플레이를 연습해 보세요.
 
-- Q: I can’t get shots off.
-
-A: Pass earlier and shoot first time.
-
-- Q: Defense leaks.
-
-A: Hold shape; switch defenders; avoid chasing.
-
+- **Q: 수비가 자꾸 뚫려요.**  
+  **A:** 한 명으로만 공을 쫓아다니면 공간이 크게 열리기 쉽습니다. 라인을 유지한 채로 선수 전환을
+  자주 해 주고, 상대가 실수하는 순간에만 강하게 달려드는 것이 좋습니다.

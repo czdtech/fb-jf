@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: nature-strikes-back
-title: '[FR] Nature Strikes Back'
+title: Nature Strikes Back
 description: >-
-  [FR] Merge and command the Guardian Spirits of nature in this exciting tower
-  defense game. Combine your units to make them stronger and defend the Heart of
-  Nature from waves of Mucklings!
+  Fusionne et commande les Esprits gardiens de la nature dans ce tower defense :
+  combine tes unités pour les renforcer et protège le Cœur de la Nature des
+  Mucklings pollueurs.
 iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
 thumbnail: /new-images/nature-strikes-back.png
 tags:
@@ -13,37 +13,41 @@ tags:
   - tower Defense
   - action
 score: 4.4/5  (2300 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Nature Strikes Back est un mélange original entre jeu de fusion et tower defense. Tu dois protéger le Cœur de la Nature contre des monstres pollueurs appelés Mucklings. Pour y parvenir, tu invoques des Esprits gardiens, les fusionnes pour les faire évoluer et les déploies le long du chemin afin qu’ils repoussent automatiquement les vagues d’ennemis.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Invoquer et fusionner :** dépense ton énergie pour invoquer des Esprits de base sur le plateau de fusion. Fais glisser un Esprit sur un autre identique pour les fusionner en une version de niveau supérieur plus puissante.  
+2.  **Déployer les gardiens :** les emplacements de combat sont limités. Place tes Esprits les plus forts sur la carte ; ils attaquent automatiquement les Mucklings à portée.  
+3.  **Privilégier les hauts niveaux :** mieux vaut quelques gardiens de haut niveau qu’une armée d’unités faibles. Concentre‑toi sur les fusions pour renforcer ta première ligne.  
+4.  **Positionnement stratégique :** place les Esprits clés près des virages ou sur les longues lignes de vue afin qu’ils puissent tirer plus longtemps sur chaque vague. Les Esprits de zone ou de ralentissement sont particulièrement efficaces dans les goulots d’étranglement.
 
-Nature Strikes Back is a unique and engaging game that combines the addictive puzzle mechanics of a merge game with the strategic depth of tower defense. In this game, you are tasked with protecting the Heart of Nature from an invasion of polluting monsters known as Mucklings. To do this, you will summon and merge various Guardian Spirits, evolving them into more powerful forms and deploying them on the battlefield to automatically fend off the relentless waves of enemies.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- **Invoquer :** clique sur « Summon » pour faire apparaître un nouvel Esprit de base.  
+- **Fusionner :** fais glisser un Esprit sur un autre identique pour les combiner.  
+- **Déployer / déplacer :** fais glisser un Esprit du plateau de fusion vers un emplacement libre sur le champ de bataille, ou déplace un gardien déjà posé vers une autre case.
 
-1.  **[FR]** **Summon and Merge:** The core gameplay revolves around creating powerful defenders. Use your energy to summon basic Guardian Spirits onto your merge board. Drag and drop one Spirit onto an identical one to merge them into a single, higher-level Spirit with improved attack power.
-2.  **[FR]** **Deploy Your Guardians:** You have a limited number of slots on the battlefield. Drag your most powerful Spirits from the merge board into these slots. Once deployed, they will automatically attack any Mucklings that come into their range.
-3.  **[FR]** **Focus on High-Level Merges:** It is much more effective to have a few high-level Guardians than a large number of weak ones. Continuously summon and merge to create the strongest possible defenders for your front line.
-4.  **[FR]** **Strategic Placement:** Place your strongest Guardians in positions where they can cover the longest stretch of the enemy path, such as near corners and curves. Place area-of-effect or slowing Guardians where they can affect the most enemies at once.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+1.  **Q : Comment obtenir des gardiens plus puissants ?**  
+   **R :** En fusionnant deux Esprits identiques pour créer un Esprit du niveau supérieur (par exemple deux niveaux 2 donnent un niveau 3).
 
-*   **[FR]** **Summon Spirit:** Click the "Summon" button to get a new base-level Guardian Spirit.
-*   **[FR]** **Merge Spirits:** Click and drag a Spirit onto another identical Spirit to combine them.
-*   **[FR]** **Deploy/Move:** Drag a Spirit from your merge board to an empty slot on the battlefield. You can also move already placed Spirits between different slots.
+    - **Q : Que se passe‑t‑il si un ennemi atteint la fin du chemin ?**  
+   **R :** Le Cœur de la Nature perd un point de vie. Si sa vie tombe à zéro, tu perds la partie.
 
-### Frequently Asked Questions (FAQ)
+3.  **Q : Dois‑je remplir tous les emplacements dès le début ?**  
 
-*   **[FR]** **Q: How do I get stronger Guardians?**
-    *   **[FR]** **A:** By merging. Combine two identical Guardians to create one Guardian of the next tier (e.g., two Level 2 Guardians merge into one Level 3 Guardian).
+    - **A:** Not necessarily. It's often better to focus on merging to create one or two very powerful Guardians first, rather than deploying many weak ones. A single high-level Guardian can often do more damage than several low-level ones combined.
 
-*   **[FR]** **Q: What happens if a monster reaches the end of the path?**
-    *   **[FR]** **A:** If an enemy reaches the Heart of Nature at the end of the path, you will lose one life or health point. If your health reaches zero, you lose the level.
+- **Q: Should I fill all my deployment slots quickly?**
 
-*   **[FR]** **Q: Should I fill all my deployment slots quickly?**
-    *   **[FR]** **A:** Not necessarily. It's often better to focus on merging to create one or two very powerful Guardians first, rather than deploying many weak ones. A single high-level Guardian can often do more damage than several low-level ones combined.
+    - **A:** If an enemy reaches the Heart of Nature at the end of the path, you will lose one life or health point. If your health reaches zero, you lose the level.
+   **R :** Pas forcément. Il est souvent plus rentable de fusionner d’abord pour obtenir quelques gardiens très puissants avant de remplir toute la carte.
 

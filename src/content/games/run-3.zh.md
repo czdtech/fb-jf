@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: run-3
-title: '[ZH TRANSLATION NEEDED] Run 3'
+title: "《Run 3》太空隧道狂奔"
 description: >-
-  [ZH TRANSLATION NEEDED] Run 3 is an endless running game set in space where
-  players control an alien character running through a 3D tunnel, jumping over
-  gaps and avoiding obstacles while defying gravity in this addictive
-  platformer.
+  《Run 3》是一款发生在太空中的无尽跑酷游戏。你操控外星小角色在三维隧道里一路狂奔，跨越断层、躲避障碍，并利用重力变化在墙壁和天花板上奔跑。
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/run-3.jpg
 tags:
@@ -18,31 +15,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Run 3》是一款节奏明快的太空跑酷平台游戏。你将扮演一名外星跑者，在悬浮于宇宙中的 3D 隧道内部不断向前奔跑。前方布满断层、坑洞和浮空障碍物，你需要精准跳跃、切换跑道，甚至沿着墙壁与天花板奔跑，在违背直觉的重力规则下挑战自己的反应极限。游戏以独特的三维视角和逐步升级的难度著称，既上手简单，又极具挑战性。
 
-[ZH TRANSLATION NEEDED] "Run 3" is an endless running game set in space where players control an alien character running through a 3D tunnel, jumping over gaps and avoiding obstacles while defying gravity. The game is famous for its unique 3D perspective and gradually increasing difficulty, providing players with both simple and challenging gameplay experience.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **把握跳跃时机：** 学会在恰当的时间点起跳，提前半步跃过断层和障碍，避免被边缘“绊倒”。
+2.  **善用墙壁与顶面：** 角色可以沿着隧道内壁和顶面奔跑，合理利用这些表面绕开前方大洞或障碍，是高水平玩法的关键。
+3.  **选择合适角色：** 不同角色在跳跃高度、体型大小或移动方式上各有特点，根据关卡需要选择最适合的那个。
+4.  **提前规划路线：** 视线尽量看向前方，预判哪一侧的墙体、哪个缺口更安全，提前决定要转向的方向。
+5.  **保持节奏感：** 尽量维持一个稳定的操作节奏，不要因为一两次失误就开始乱按，否则容易连续掉坑。
 
-1.  **Master Jumping Timing**: Learn to jump at the right moments to avoid gaps and obstacles.
-2.  **Utilize Walls**: You can run on tunnel walls and ceilings, making full use of 3D space.
-3.  **Choose Appropriate Characters**: Different characters have different abilities; choose the one suitable for the current level.
-4.  **Plan Your Path**: Observe obstacles ahead and plan the optimal running route.
-5.  **Maintain Rhythm**: Keep a steady running rhythm, avoiding hasty operations that lead to mistakes.
+### 操作说明
 
-### How to Play
+*   **左右移动：** 使用左右方向键控制角色左右偏移。
+*   **跳跃：** 使用空格键或上方向键进行跳跃。
+*   **切换重力方向：** 在靠近墙壁或顶面时，角色会自动“贴”上去，相当于改变重力方向，在新的表面继续奔跑。
 
-*   **Movement**: Use left and right arrow keys to control character's left and right movement.
-*   **Jump**: Use spacebar or up arrow key to make the character jump.
-*   **Direction Change**: In the tunnel, you can change gravity direction to run on walls and ceilings.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How do I run on walls?**
-     **A**: When approaching walls, the character automatically switches gravity direction, allowing you to continue running on walls or ceilings.
-2.  [ZH TRANSLATION NEEDED] **Q: What are the differences between characters?**
-     **A**: Each character has unique abilities, such as better jumping ability, smaller size, or special movement methods.
-3.  [ZH TRANSLATION NEEDED] **Q: Does the game have an endpoint?**
-     **A**: "Run 3" is an endless runner game, but there are multiple different levels and modes to explore.
-4.  [ZH TRANSLATION NEEDED] **Q: How do I unlock new characters?**
-     **A**: New playable characters can be unlocked by completing specific levels or achieving certain accomplishments.
+1.  **问：怎么才能跑到墙上？**  
+    **答：** 当你朝隧道侧面移动并接近墙面时，角色会自动贴附并切换重力，让你可以在墙上或顶面继续奔跑。
+
+2.  **问：不同角色有什么区别？**  
+    **答：** 某些角色跳得更高、体型更小或拥有特殊移动能力，可以更轻松通过特定类型的关卡。
+
+3.  **问：这游戏有终点吗？**  
+    **答：** 《Run 3》本质是无尽跑酷体验，但同时提供多个关卡路线和模式可供探索，喜欢挑战的玩家可以尝试全线解锁。
+
+4.  **问：如何解锁新角色？**  
+    **答：** 通常需要通关指定关卡或达成特定成就，才能解锁可操控的全新角色。

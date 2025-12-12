@@ -1,43 +1,55 @@
 ---
-locale: ja
-urlstr: fancy-pants-3
-title: '[JA TRANSLATION NEEDED] Fancy Pants 3'
-description: >-
-  [JA TRANSLATION NEEDED] Momentum platforming returns with bigger stages, more
-  secrets, and refined wall‑runs and slides in hand‑drawn worlds.
+title: Fancy Pants 3 ファンシーパンツ3
+description: 「Fancy Pants 3」は勢いプラットフォーマーの第3弾。より大きなステージ、より多くの秘密、洗練された壁走りとスライドで手描き世界を駆け抜けろ。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/fancy-pants-3.jpg
+urlstr: fancy-pants-3
+score: 4.3/5  (1419 votes)
 tags:
   - platformer
   - action
-score: 4.3/5  (1419 votes)
+developer: Brad Borne
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Fancy Pants 3（ファンシーパンツ3）*は、シリーズ第3作目で、より速いフロー、拡張された探索、そしてクリーンな動きに報いるチャレンジルームに焦点を当てています。
+手描きのスタイリッシュな世界で、スライド、ジャンプ、壁走りを繋げて勢いを維持し、隠された秘密を見つけましょう。
+
+### 遊び方
+
+*   **連鎖:** スライド→ジャンプ→壁走りを繋げてスピードを維持します。
+*   **収集:** アイテムを集めてオプションルームやコスメティックをアンロックします。
+*   **敵:** 敵のタイミングを読み、踏みつけるか回避して勢いを保ちます。
+
+### 操作ガイド
+
+*   **移動/ジャンプ:** 矢印キー または WASD
+*   **スライド:** 下キー
+*   **ドア:** 上キーで入る
+
+### 攻略のヒント
+
+*   **リズムを保つ:** 躊躇はスピードを殺します。
+*   **坂道活用:** 坂道を使って垂直落下を前方速度に変換しましょう。
+*   **レベルループ:** レベルのループを学んで、収集品を効率的にルート化しましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: 1/2との大きな違いは？**
+
+A: Larger maps, more secrets, and tighter movement feel.
+- **A:** より大きなマップ、より多くの秘密、そしてよりタイトな動きの感触です。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Third entry focuses on faster flow, expanded exploration, and challenge rooms rewarding clean movement.
+A: Minimal; platforming mastery is the focus.
+*   **Q: 戦闘は必要ですか？**
 
-### How to Play
-- Chain slides→jumps→wall‑runs to maintain speed.
-- Collect items to unlock optional rooms and cosmetics.
-- Read enemy timing; stomp or evade to keep momentum.
+A: Yes—watch for breakable walls and side paths.
+    *   **A:** 最小限です。プラットフォーミングの習得が焦点です。
 
-### Controls
-- Arrows/WASD to move/jump; Down to slide; Up to enter.
-
-### Tips
-- Keep a rhythm—hesitation kills speed.
-- Use slopes to convert vertical drops into forward velocity.
-- Learn level loops to route collectibles efficiently.
-
-### FAQ
-- Q: Big differences from 1/2?  
-[JA TRANSLATION NEEDED]   A: Larger maps, more secrets, and tighter movement feel.
-- Q: Is combat necessary?  
-[JA TRANSLATION NEEDED]   A: Minimal; platforming mastery is the focus.
-- Q: Are there hidden rooms?  
-[JA TRANSLATION NEEDED]   A: Yes—watch for breakable walls and side paths.
-
+*   **Q: 隠し部屋はありますか？**
+    *   **A:** はい。壊せる壁や脇道に注目しましょう。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: head-soccer
-title: '[ZH TRANSLATION NEEDED] Head Soccer'
-description: >-
-  [ZH TRANSLATION NEEDED] 1v1 arcade football with giant heads: jump, shoot, and
-  use power shots to outscore your opponent in short matches.
+title: "《Head Soccer》大头足球对战"
+description: "《Head Soccer》是一款节奏明快的 1v1 街机足球游戏，大头角色在小场地上对拼，你要通过跳跃、射门和必杀技，在短时间内比对手进更多球。"
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/head-soccer.jpg
 tags:
@@ -16,27 +14,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Head Soccer condenses football to punchy 1v1 duels with oversized heads and simple physics. Matches last seconds to minutes; power‑ups and special shots create swing moments. Win by outscoring within the timer or golden‑goal rules.
+### 游戏概述
 
-### How to Play
-- Position under lobs for headers; volley low balls for speed.
-- Trigger specials when the goal is open; block with timely jumps.
-- In two‑player, divide roles—pressure vs. coverage.
+《Head Soccer》把足球精简成夸张的大头 1v1 对决，配合简单的物理和操作，在几十秒到几分钟的短局内决出胜负。比赛时间很短，但场上会刷新各种强化道具与必杀射门，一脚超级射门就能瞬间改写比分。只要在倒计时结束前比对手进球多，或在某些模式下率先打进“金球”，就能拿下比赛。
 
-### Controls
-- Arrows/WASD to move/jump; shoot/special keys vary by host.
+### 游戏玩法
+- 争抢高球，用起跳头球处理高吊传，遇到地滚球则用凌空抽射打出快速平射。
+- 在对方门前空档时再释放必杀或特殊射门，防守时则通过起跳和站位来封堵来球。
+- 双人模式下可以一人主攻、一人偏防守，分工明确更容易掌控节奏。
 
-### Tips
-- Early jump + tap shot produces fast low drives.
-- Save specials for counterattacks or rebounds.
-- Defensively, stand slightly off‑line to angle clearances.
+### 操作说明
 
-### FAQ
-- Q: How do I score more consistently in this game?  
-[ZH TRANSLATION NEEDED]   A: Use jump‑timed headers/volleys and shoot low into corners.
-- Q: Does the game support two players on one device?  
-[ZH TRANSLATION NEEDED]   A: Many hosts include local 2P with separate key binds.
-- Q: Are there team or character differences?  
-[ZH TRANSLATION NEEDED]   A: Often cosmetic; physics are generally uniform across skins.
+- 使用方向键或 WASD 控制移动与跳跃；射门和必杀技按键会随平台不同略有差异，一般在界面上会有清晰图标提示。
 
+### 实用技巧
+
+- 提前起跳配合轻点射门，往往能打出又快又贴地的低平球，比高吊球更难防守。
+- 必杀技不要随便乱放，等对手刚失误、门前空虚或者反击机会出现时再用，价值最大。
+- 防守时不要死站在门线上，稍微站在球门侧前方一点，更容易把对手射门解围到边路。 
+
+### 常见问题（FAQ）
+
+- Q: 怎么才能更稳定地进球？  
+  A: 多利用起跳头球和凌空抽射，瞄准球门两角打低平球或贴横梁的高球，比正中间平推的成功率高很多。
+
+- Q: 支持在同一台设备上本地双人玩吗？  
+  A: 很多版本都提供本地 2P 模式，会为第二位玩家设置另一套键位，你可以在开始游戏前查看或自定义按键。
+
+- Q: 不同角色和队伍之间有数值差异吗？  
+  A: 大多数皮肤差异主要是外观和特效上的区别，核心物理和判定基本一致，选择自己喜欢的角色即可。

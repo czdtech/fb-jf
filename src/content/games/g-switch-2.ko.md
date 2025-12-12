@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: g-switch-2
-title: '[KO] G-Switch 2'
+title: "G-Switch 2 중력 전환 러너"
 description: >-
-  [KO] Gravity‑flip runner sequel: race solo or in local multiplayer, flipping
-  gravity to survive traps at rising speed.
+  중력을 뒤집으며 질주하는 러닝 게임 G-Switch 2입니다. 한 명이 기록에
+  도전하거나, 한 키보드에서 여러 명이 동시에 플레이하며, 중력 전환 타이밍만으로
+  함정과 낭떠러지를 피해 끝까지 살아남아야 합니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/g-switch-2.jpg
@@ -19,26 +20,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Refined gravity‑flip running with new obstacles and multiplayer races.
+### 게임 개요
 
-### How to Play
-- Time flips before edges and hazards.
-- Learn trap timings; some require double‑flips in quick succession.
-- Challenge friends in local races if supported.
+`G-Switch 2`는 한 개의 버튼으로 중력을 전환하며 달리는 러너 게임의 후속작입니다.
+새로운 장애물과 세련된 코스, 로컬 멀티플레이 레이스가 추가되어, 점점 빨라지는
+속도 속에서 정확한 타이밍을 요구합니다.
 
-### Controls
-- Single key/tap to flip; unique keys per player in versus.
+### 플레이 방법
 
-### Tips
-- Keep rhythm steady; two quick flips can correct overshoots.
-- Stay low on long straights; ceilings often hide traps.
+- 발판의 끝과 톱날, 구멍 등이 나오기 직전에 버튼을 눌러 중력을 뒤집고,
+  캐릭터가 천장과 바닥 사이를 오가며 계속 달릴 수 있게 하세요.
+- 함정의 패턴을 외우면 도움이 됩니다. 일부 구간은 아주 짧은 간격으로 두 번
+  연속 중력 전환을 해야 안전하게 통과할 수 있습니다.
+- 지원되는 버전에서는 한 화면에서 여러 플레이어가 각자 정해진 키를 사용해
+  동시에 달리며, 누가 더 오래 버티는지 겨룰 수 있습니다.
 
-### FAQ
-- Q: How does multiplayer work in this game?
-A: Each player uses a separate key to flip in shared‑screen races.
-- Q: Are there checkpoints in levels?
-A: Level mode may add checkpoints; endless mode does not.
-- Q: Can I remap keys?
-A: Many hosts allow key selection before starting.
+### 조작 방법
 
+- 기본적으로 하나의 키나 터치 입력만 사용해 중력을 전환합니다.
+- 대전/멀티플레이 모드에서는 각 플레이어에게 서로 다른 전환 키가 할당됩니다.
+
+### 플레이 팁
+
+- 일정한 리듬으로 눌러 주면 난이도가 크게 낮아집니다. 당황해서 연속으로
+  누르기보다는 미리 패턴을 생각하면서 타이밍을 맞추세요.
+- 직선 구간이 길게 이어질 때는 천장보다 바닥 쪽이 시야 확보와 장애물 대응에
+  유리한 경우가 많습니다.
+- 두 번 빠르게 눌러 연속으로 중력을 바꾸면, 잘못된 타이밍을 어느 정도
+  바로잡을 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 이 게임의 멀티플레이는 어떻게 진행되나요?  
+  A: 한 키보드에서 여러 명이 각자 다른 키를 사용해 동시에 달리며, 화면 밖으로
+  먼저 떨어지는 사람이 탈락하는 방식으로 진행됩니다.
+- Q: 스테이지에 체크포인트가 있나요?  
+  A: 일부 스테이지/레벨 모드에는 체크포인트가 있을 수 있지만, 끝less 모드에서는
+  대부분 한 번의 실수로 바로 끝납니다.
+- Q: 키 설정을 바꿀 수 있나요?  
+  A: 많은 호스트에서 게임을 시작하기 전에 각 플레이어의 입력 키를 선택하거나
+  재설정할 수 있습니다.

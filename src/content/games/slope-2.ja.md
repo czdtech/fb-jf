@@ -1,70 +1,49 @@
 ---
-locale: ja
+title: Slope 2
+description: Slope 2はエンドレスランニングゲームです。ボールを転がし、障害物を避け、スピードをマスターし、反射神経を��ストします。
+iframeSrc: 'https://slope2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+thumbnail: /new-images/slope-2.png
 urlstr: slope-2
-title: '[JA TRANSLATION NEEDED] Slope 2'
-description: >-
-  [JA TRANSLATION NEEDED] Slope 2 is the sequel to the popular endless running
-  game where players control a ball rolling down a steep slope, avoiding
-  obstacles and red blocks while trying to survive as long as possible in this
-  fast-paced challenge.
-iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
-thumbnail: /new-images/slope-2.jpg
+score: 4.4/5  (3234 votes)
 tags:
-  - endless runner
-  - ball
-  - slope
-score: 3.8/5  (790 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Game Introduction
+Slope 2は、オリジナルの高速エンドレスランナーの続編です。3Dスロープを通してボールを転がし、障害物を避け、落下しないようにし、できるだけ遠くに行きます。改良されたグラフィックと新しいチャレンジ。
 
-[JA TRANSLATION NEEDED] "Slope 2" is the sequel to the popular endless running game where players control a ball rolling down a steep slope, avoiding obstacles and red blocks while trying to survive as long as possible in this fast-paced challenge. The game continues the core gameplay of the original while adding new features and more challenging level designs.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy
+1.  **先を見る:" 次の障害物を予測します。
+2.  **小さな調整:" 過度に修正するとクラッシュします。
+3.  **リズムを見つける:" 安定した移動パターン。
+4.  **レッドブロックを避ける:" 即座のゲームオーバー。
+5.  **冷静を保つ:" パニックは間違いにつながります。
 
-[JA TRANSLATION NEEDED] 1.  **Reaction Speed**: Practice quick reactions to handle suddenly appearing obstacles and direction changes.
-[JA TRANSLATION NEEDED] 2.  **Path Planning**: Observe obstacle layouts ahead and choose the safest paths.
-[JA TRANSLATION NEEDED] 3.  **Speed Control**: While you can't directly control speed, you can influence the ball's movement through path selection.
-[JA TRANSLATION NEEDED] 4.  **Obstacle Recognition**: Quickly identify different types of obstacles, understanding which can be touched and which must be avoided.
-[JA TRANSLATION NEEDED] 5.  **Focus Training**: Maintain high concentration to avoid mistakes due to distraction.
+### 操作ガイド
 
-### How to Play
+- 矢印キー/A-D/スワイプ：ボールをステアします。
+- 障害物を避けます。
+- エッジから落ちないでください。
 
-*   **Left/Right Control**: Use A/D keys or left/right arrow keys to control the ball's left and right movement.
-*   **Maintain Balance**: Avoid excessive steering that causes the ball to lose control.
-*   **Jump**: Some versions may support jumping functionality (if available).
+### よくある質問 (FAQ)
 
-
-
-- **Focus Training**: Maintain high concentration to avoid mistakes due to distraction.
-- **Obstacle Recognition**: Quickly identify different types of obstacles, understanding which can be touched and which must be avoided.
-### Frequently Asked Questions
-
-
-
-
+- **Q: オリジナルのSlopeと何が違いますか？**  
+  A: 改良されたグラフィック、新しい障害物、よりスムーズなゲームプレイ。
+- **Q: エンドレスですか？**  
+  A: はい、クラッシュするまで。
+- **Q: スピードを制御できますか？**  
+  A: いいえ、自動的に加速します。
 
 
-- **Q: How can I improve survival time?**
-### よくある質問
-- **Jump**: Some versions may support jumping functionality (if available).
-- **Maintain Balance**: Avoid excessive steering that causes the ball to lose control.
-
-### よくある質問
-- **Left/Right Control**: Use A/D keys or left/right arrow keys to control the ball's left and right movement.
-[JA TRANSLATION NEEDED] 1.  **Q: How can I improve survival time?**
-
-- **Q: What if the ball is too fast to control?**
-[JA TRANSLATION NEEDED]     **A**: Practice more to improve reaction speed and learn to predict obstacle appearance patterns.
-
-- **Q: What's different from the original Slope?**
-[JA TRANSLATION NEEDED] 2.  **Q: What if the ball is too fast to control?**
+**A**: Yes, the game records your highest score, and you can challenge yourself to continuously break records.
 
 - **Q: Does the game keep high score records?**
-[JA TRANSLATION NEEDED]     **A**: Stay calm, use small directional adjustments, and avoid over-correction.
-[JA TRANSLATION NEEDED] 3.  **Q: What's different from the original Slope?**
-[JA TRANSLATION NEEDED]     **A**: "Slope 2" typically includes improved graphics, new obstacle types, and more challenging level designs.
-[JA TRANSLATION NEEDED] 4.  **Q: Does the game keep high score records?**
-[JA TRANSLATION NEEDED]     **A**: Yes, the game records your highest score, and you can challenge yourself to continuously break records.
+
+
+**A**: Yes, the game records your highest score, and you can challenge yourself to continuously break records.

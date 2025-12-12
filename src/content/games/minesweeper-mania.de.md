@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: minesweeper-mania
-title: '[DE] Minesweeper Mania'
+title: Minesweeper Mania
 description: >-
-  [DE] The classic logic puzzle, reimagined! Use number clues to locate all the
-  hidden mines on the board. With multiple difficulty levels, it's the ultimate
-  test of deduction.
+  Das klassische Logikpuzzle neu aufgelegt! Nutze Zahlhinweise, um alle
+  versteckten Minen zu finden, und räume riesige Felder in mehreren
+  Schwierigkeitsstufen nur mit Logik.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/minesweeper-mania.png
 tags:
@@ -17,33 +17,61 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Minesweeper Mania ist eine polierte Version des zeitlosen Einzelspieler-
+Logikpuzzles Minesweeper. Dein Ziel ist es, ein rechteckiges Feld zu räumen,
+auf dem unsichtbar Minen liegen – ohne eine davon zu sprengen. Die Zahlen auf
+aufgedeckten Feldern verraten dir, wie viele Minen in den acht angrenzenden
+Feldern liegen. Mehrere Schwierigkeitsgrade bieten sowohl Einsteiger:innen als
+auch Profis immer neue Herausforderungen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Minesweeper Mania is a polished version of the timeless single-player logic puzzle, Minesweeper. The objective is to clear a rectangular grid containing hidden mines without detonating any of them. You must use the number clues revealed on the board to deduce where the mines are. Each number tells you how many mines are in the eight adjacent squares. This version offers multiple difficulty levels, providing a fresh challenge for both new players and seasoned veterans.
+1.  **Erster Klick ist sicher**  
+    Der erste Klick ist nie eine Mine. Gute Startpunkte sind Mitte und Ecken,
+    um größere Bereiche zu öffnen.
 
-### Gameplay Strategy & Walkthrough
+2.  **Muster lernen**  
+    Der Kern von Minesweeper ist Mustererkennung. Steht z. B. eine „1“ und es
+    gibt nur ein einziges verdecktes Nachbarfeld, ist dieses garantiert eine
+    Mine – markiere es.
 
-1.  **[DE]** **The First Click is Free:** Your first click in any game is always safe and will never be a mine. A good start is to click a few times in the corners and center to open up the board.
-2.  **[DE]** **Learn the Patterns:** The core of Minesweeper is recognizing patterns. If a square says "1" and there is only one unopened square next to it, that square must be a mine. Flag it!
-3.  **[DE]** **Use Flags:** When you are certain a square contains a mine, right-click to flag it. This is crucial for keeping track of information and preventing accidental clicks on known mines.
-4.  **[DE]** **Chord-Clicking for Speed:** Once a numbered square is touching the correct number of flagged mines, you can click on the number itself (often a middle-click or left+right click) to automatically clear all other remaining adjacent squares. This is the fastest way to clear large safe areas.
-5.  **[DE]** **Process of Elimination:** If you can't find a definite safe square, use logic to eliminate possibilities. Ask yourself, "If this square were a mine, would it make sense with the numbers around it?" This can help you deduce safe squares to click.
+3.  **Flaggen nutzen**  
+    Wenn du dir sicher bist, dass ein Feld eine Mine enthält, setze eine
+    Flagge. Das schützt dich vor Fehlklicks und hilft beim Überblick.
 
-### Controls Guide
+4.  **Chord-Klicks für Tempo**  
+    Hat eine Zahl bereits die passende Anzahl markierter Minen um sich, kannst
+    du sie (je nach Version mit Mittel- oder Links+Rechtsklick) anklicken, um
+    alle übrigen Nachbarfelder automatisch aufzudecken.
 
-*   **[DE]** **Reveal a Square:** Left-click on a covered square.
-*   **[DE]** **Flag a Square:** Right-click on a covered square to place or remove a flag.
+5.  **Ausschlussprinzip anwenden**  
+    Wenn kein Zug eindeutig ist, nutze logische Ausschlüsse: Frage dich, ob eine
+    Annahme im Widerspruch zu den Zahlen stünde. So findest du oft sichere
+    Felder, ohne raten zu müssen.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-*   **[DE]** **Q: What do the numbers mean?**
-    *   **[DE]** **A:** A number on a square indicates the exact number of mines in the eight squares immediately surrounding it (horizontally, vertically, and diagonally).
+- **Feld aufdecken:** Linksklick auf ein verdecktes Feld.  
+- **Mine markieren:** Rechtsklick, um eine Flagge zu setzen bzw. zu entfernen.
 
-*   **[DE]** **Q: What happens if I click on a mine?**
-    *   **[DE]** **A:** The game ends immediately in a loss.
+### FAQ
 
-*   **[DE]** **Q: Do I have to use flags?**
-    *   **[DE]** **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
+*   **F: Was bedeuten die Zahlen genau?**  
+    **A:** Die Zahl gibt an, wie viele Minen in den acht angrenzenden Feldern
+    liegen.
 
+    - **F: Was passiert, wenn ich auf eine Mine klicke?**  
+    **A:** Das Spiel ist sofort verloren und alle Minen werden angezeigt.
+
+*   **F: Muss ich Flaggen setzen, um zu gewinnen?**  
+
+    - **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
+
+- **Q: Do I have to use flags?**
+
+    - **A:** The game ends immediately in a loss.
+    **A:** Nein, Flaggen sind nur ein Hilfsmittel. Gewonnen hast du, sobald
+    alle sicheren Felder aufgedeckt sind – unabhängig davon, ob du alle Minen
+    markiert hast.

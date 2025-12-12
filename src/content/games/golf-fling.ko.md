@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: golf-fling
-title: '[KO] Golf Fling'
+title: Golf Fling 골프 플링 퍼즐
 description: >-
-  [KO] Fling your way to a hole-in-one in Golf Fling! A physics-based puzzle
-  game where you aim, pull, and release to send the ball flying.
+  골프채 대신 드래그 앤 릴리즈로 공을 튕겨 보내는 물리 퍼즐 골프 게임입니다. 공을 당겨 쏘는 힘과 각도를 조절해 장애물을 넘고, 가능한
+  적은 번수로 홀인을 노려 보세요.
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/golf-fling.jpg
@@ -19,31 +19,64 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Golf Fling is a fun and challenging physics-based puzzle game that reinvents the way you play golf. Instead of clubs, you use a simple pull-and-release mechanic to fling the golf ball across a variety of creative and tricky courses. Your goal is to get the ball into the hole in as few flings as possible. Navigate around obstacles, use the terrain to your advantage, and master the art of the fling to become a champion!
+`Golf Fling`은 클럽 대신 손가락으로 공을 튕겨 보내는 방식으로 골프를 재해석한
+물리 퍼즐 게임입니다. 다양한 지형과 장애물이 있는 코스를 돌며, 드래그해서
+당긴 힘과 방향만으로 공을 던져 홀을 노립니다. 목표는 가능한 적은 플링(샷)으로
+홀에 공을 집어넣는 것. 벽과 경사를 활용해 공을 튀기고, 한 번의 샷으로 최대
+효율을 끌어내는 것이 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** **Aim Carefully:** Before you fling, an indicator line will show you the projected path of your ball. Use this to aim precisely, taking into account any obstacles or slopes.
-2.  **[KO]** **Control Your Power:** The further you pull back before releasing, the more power your shot will have. You'll need to learn how to judge the right amount of power for both long drives and short, delicate chips.
-3.  **[KO]** **Use the Environment:** The courses are filled with slopes, walls, and other features. Use them to your advantage! Bounce the ball off walls to get around corners or use a ramp to launch your ball over a gap.
-4.  **[KO]** **Plan Your Shots:** Some holes can't be completed in a single shot. Look at the entire level and plan a route for your ball. Sometimes you need to land in a specific spot to set up your final shot on the hole.
-5.  **[KO]** **Strive for Pars:** Each level has a par, which is the expected number of flings to get the ball in the hole. Try to meet or beat the par for the highest score.
+1. **정확한 조준**  
+   플링하기 전에 화면에 표시되는 궤적 가이드를 잘 확인하세요. 공이 지나갈
+   길을 미리 그려 보고, 장애물이나 경사까지 감안해 미세하게 각도를 조정하는
+   것이 중요합니다.
 
-### Controls Guide
+2. **파워 컨트롤 익히기**  
+   마우스를 얼마나 멀리 끌어당기느냐에 따라 힘이 달라집니다. 롱샷과 짧은
+   칩샷에 필요한 힘이 크게 다르므로, 여러 번 시도해 보며 감을 익히는 것이
+   좋습니다.
 
-*   **[KO]** **Aim and Power:** Click and hold the mouse button on the golf ball. Drag your mouse back to set the power and direction of your shot.
-*   **[KO]** **Fling:** Release the mouse button to fling the ball.
+3. **환경 활용하기**  
+   코스에는 벽, 경사, 발판 등 다양한 요소가 배치되어 있습니다. 벽을 맞고
+   튕겨 코너를 돌거나, 램프를 타고 공을 점프시켜 구멍을 넘는 등, 지형을
+   적극적으로 이용해야만 공략 가능한 홀도 많습니다.
 
-### Frequently Asked Questions (FAQ)
+4. **2~3샷 루트 설계**  
+   한 번의 플링으로 해결할 수 없는 홀도 많습니다. 전체 지도를 먼저 보고,
+   마지막 샷을 위한 “발판 위치”를 미리 정한 뒤, 그 지점에 공을 멈추게 하는
+   중간 샷을 계획해 보세요.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** The goal is to get the golf ball into the hole on each level using the fewest number of flings possible.
+5. **파(Par) 의식하기**  
+   각 레벨에는 기준 플링 수인 파(Par)가 설정되어 있습니다. 파를 맞추거나
+   그보다 적은 플링으로 클리어하면 더 좋은 점수를 받으니, 불필요한 샷을
+   줄이는 루트를 고민하는 것이 중요합니다.
 
-*   **[KO]** **Q: How do I get a better score?**
-    *   **[KO]** **A:** Your score is based on how many shots you take compared to the par for the hole. Getting a hole-in-one or coming in under par will give you the best score.
+### 조작 방법
 
-*   **[KO]** **Q: Can I make the ball curve?**
-    *   **[KO]** **A:** In this type of game, you typically cannot add curve or spin after the ball has been flung. All the control comes from your initial aim and power selection.
+- **조준 및 파워 설정**: 골프공을 클릭한 채로 유지하고, 뒤로 드래그해 힘과
+  방향을 설정합니다.
+- **플링**: 마우스 버튼을 놓으면 공이 설정한 궤적으로 날아갑니다.
 
+### 자주 묻는 질문(FAQ)
+
+- **Q: 이 게임의 목표는 무엇인가요?**  
+  **A:** 각 레벨에서 가능한 적은 플링 수로 공을 홀에 넣는 것입니다. 파 이하의
+  타수로 클리어할수록 높은 평가를 받습니다.
+
+    - **Q: 점수를 더 잘 받으려면 어떻게 해야 하나요?**  
+  **A:** 파보다 적은 샷으로 클리어하거나, 홀인원에 가까운 플레이를 할수록
+  점수가 좋아집니다. 불필요한 안전 샷을 줄이고, 효율적인 루트를 찾는 연습을
+  하세요.
+
+- **Q: 공에 커브나 스핀을 줄 수 있나요?**  
+
+    - **A:** In this type of game, you typically cannot add curve or spin after the ball has been flung. All the control comes from your initial aim and power selection.
+
+- **Q: Can I make the ball curve?**
+
+    - **A:** Your score is based on how many shots you take compared to the par for the hole. Getting a hole-in-one or coming in under par will give you the best score.
+  **A:** 이 타입의 게임에서는 보통 공이 날아간 뒤에 회전을 추가할 수 없습니다.
+  비거리는 오직 초기 조준 각도와 파워 선택에 의해 결정됩니다.

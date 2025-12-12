@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: find-the-difference
-title: '[ES] Find the Difference'
+title: Find the Difference
 description: >-
-  [ES] Sharpen your eyes and test your attention to detail! Compare two nearly
-  identical images and find all the differences before the time runs out.
+  Afina la vista y pon a prueba tu atención al detalle. Compara dos imágenes que
+  parecen casi idénticas y encuentra todas las diferencias antes de que se agote
+  el tiempo.
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/find-the-difference.jpg
 tags:
@@ -16,35 +17,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Find the Difference es un clásico juego de puzles que pone a prueba tus
+habilidades de observación y tu atención al detalle. En cada nivel verás dos
+imágenes que, a primera vista, parecen idénticas. Sin embargo, esconden un
+número concreto de diferencias sutiles. Tu misión es comparar las dos escenas
+con calma e identificar todas las diferencias antes de que se acabe el tiempo.
+Es un juego relajante pero desafiante que supone un gran entrenamiento mental.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Find the Difference is a classic puzzle game that tests your observation skills and attention to detail. In each level, you are presented with two images that appear identical at first glance. However, they contain a set number of subtle differences. Your task is to carefully compare the two pictures and identify all the differences before the time runs out. It's a relaxing yet challenging game that provides a great workout for your brain.
+1. **Explora de forma sistemática:** No te limites a mirar el centro de las
+   imágenes. Empieza por una esquina (por ejemplo, la superior izquierda) y
+   recorre ambas imágenes por secciones. Mueve la vista de un mismo punto en
+   una imagen a ese mismo lugar en la otra para detectar discrepancias.
+2. **Busca los tipos de diferencias más frecuentes:** Mantén los ojos atentos a
+   cambios típicos:
+    - **Cambios de color:** Un objeto puede aparecer en un color diferente.
+    - **Objetos que faltan o se han añadido:** Un elemento puede estar presente
+     en una imagen y faltar en la otra.
+    - **Cambios de tamaño o forma:** Un objeto puede ser ligeramente más grande,
+     más pequeño o tener otra silueta.
+    - **Cambios de posición:** Un elemento puede haberse desplazado un poco.
+3. **Usa las pistas con cabeza:** La mayoría de versiones del juego ofrecen un
+   número limitado de pistas. Intenta encontrar la mayoría de diferencias por
+   tu cuenta y guarda las pistas para cuando estés atascado con la última o las
+   dos últimas.
+4. **Evita hacer clic al azar:** No pulses por probar. Muchos juegos penalizan
+   los clics incorrectos reduciendo el tiempo restante o aplicando otras
+   sanciones.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Scan Systematically:** Don't just stare at the middle of the images. Start in one corner (e.g., top left) and systematically scan both pictures section by section. Move your eyes back and forth between the same area on both images to spot discrepancies.
-2.  **[ES]** **Look for Common Types of Differences:** Be on the lookout for typical changes:
-    *   **[ES]** **Color Changes:** An object might be a different color.
-    *   **[ES]** **Missing/Added Objects:** An item might be present in one picture but absent in the other.
-    *   **[ES]** **Size or Shape Changes:** An object might be slightly larger, smaller, or a different shape.
-    *   **[ES]** **Positional Changes:** An item might be moved slightly.
-3.  **[ES]** **Use Hints Wisely:** Most versions of the game provide a limited number of hints. Try to find as many differences as you can on your own, and save the hints for when you are truly stuck on the last one or two.
-4.  **[ES]** **Avoid Random Clicking:** Be careful about clicking randomly. Many games will penalize you for incorrect clicks, often by reducing your remaining time.
+- **Marcar una diferencia:** Cuando veas una diferencia, usa el ratón para
+  hacer clic sobre esa zona en cualquiera de las dos imágenes. Si aciertas, el
+  juego marcará la diferencia automáticamente.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Identify a Difference:** When you spot a difference, simply use your mouse to click on that area in either of the two images. If you are correct, the difference will be marked.
+*   **P: ¿En qué tipo de diferencias debería fijarme?**
+    *   **R:** ¡Casi cualquier cosa puede cambiar! Busca objetos añadidos o
+        desaparecidos, colores distintos, variaciones de tamaño o pequeños cambios de
+        posición.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué ocurre si hago clic en un lugar equivocado?**
+    *   **R:** La mayoría de juegos aplican una penalización por fallo: normalmente
+        restan tiempo del contador o bloquean temporalmente la posibilidad de volver a
+        hacer clic.
 
-*   **[ES]** **Q: What kind of differences should I be looking for?**
-    *   **[ES]** **A:** Anything can be different! Look for objects that are added, missing, have a different color, are a different size, or are in a slightly different position.
-
-*   **[ES]** **Q: What happens if I click in the wrong place?**
-    *   **[ES]** **A:** Most games will have a penalty for incorrect guesses. This is often a reduction in your time limit or a temporary freeze on your ability to click again.
-
-*   **[ES]** **Q: I can't find the last difference! What should I do?**
-    *   **[ES]** **A:** This is the perfect time to use a hint if you have one. If not, try looking away from the screen for a moment to reset your eyes, and then come back and scan the images again, perhaps in a different pattern than you did before.
-
+*   **P: ¡No encuentro la última diferencia! ¿Qué puedo hacer?**
+    *   **R:** Es el momento perfecto para usar una pista, si aún te queda alguna. Si
+        no, aparta la vista de la pantalla unos segundos para descansar la mirada y
+        vuelve a revisar las imágenes, quizá siguiendo un patrón diferente al que
+        usaste la primera vez.

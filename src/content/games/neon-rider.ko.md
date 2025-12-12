@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: neon-rider
-title: '[KO] Neon Rider'
+title: "Neon Rider 네온 라이더"
 description: >-
-  [KO] Neon Rider delivers sleek bike‑physics runs — balance, throttle, and flip
-  cleanly to conquer neon tracks.
+  Neon Rider는 네온 트랙 위를 질주하며 점프와 착지, 가속을 정교하게 조절해 흐름을
+  유지하는 바이크 물리 플랫포머입니다.
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
 thumbnail: /new-images/neon-rider.png
 tags:
@@ -17,28 +17,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Neon Rider*는 측면 시점에서 진행되는 바이크 물리 기반 플랫포머로, 부드러운 착지와
+관성 유지에 초점을 둔 게임입니다. 공중에서 바이크의 기울기를 조정하고, 울퉁불퉁한
+지형에서 스로틀을 섬세하게 다루며, 과한 회전 없이 점프를 연달아 성공시키는 것이 핵심입니다.
 
-Neon Rider is a side‑view bike‑physics platformer focused on smooth landings and momentum. Control pitch mid‑air, manage throttle over bumps, and chain jumps without over‑rotating to keep speed.
+### 공략 & 플레이 팁
 
-### Gameplay Strategy & Walkthrough
+1. **수평 착지:** 속도를 유지하려면 앞·뒷바퀴가 동시에 닿도록 최대한 평평하게 착지하는
+   것이 중요합니다.
+2. **스로틀 톡톡 사용:** 범프가 많은 구간에서는 가속을 길게 당기지 말고, 짧게 끊어 주어
+   앞부분이 땅에 박히는 "노즈다이브"를 피하세요.
+3. **공중에서 미리 조정:** 착지 직전에 자세를 바꾸려 하기보다, 공중에 떠 있는 동안부터
+   조금씩 기울기를 맞춰 두는 편이 안전합니다.
+4. **필요한 만큼만 플립:** 멋을 부리려고 과하게 돌면 속도가 크게 줄어듭니다. 점프
+   궤적과 착지 지점을 보고, 안전할 때만 짧게 플립을 시도하세요.
+5. **라인 암기:** 점프 거리와 착지 위치를 반복해서 익히면, 끊기지 않는 흐름으로
+   스테이지를 클리어할 수 있습니다.
 
-1.  **[KO]** Land flat: Aim to touch down with wheels level to retain speed.
-2.  **[KO]** Tap throttle: Feather power on bumpy terrain to avoid nose dives.
-3.  **[KO]** Early corrections: Start pitch corrections in the air, not on landing.
-4.  **[KO]** Small flips only: Flip when safe and with enough arc; unnecessary flips bleed speed.
-5.  **[KO]** Learn lines: Memorize jump lengths and landing spots for perfect flow.
+### 조작 방법
 
-### Controls Guide
+- 가속/브레이크: 위/아래 방향키 또는 W/S
+- 몸 기울이기: 좌/우 방향키 또는 A/D
+- 재시작: 메뉴 또는 단축키로 빠른 재도전
 
-- Accelerate/Brake: Up/Down or W/S.
-- Lean: Left/Right or A/D.
-- Restart: Quick restart to drill hard segments.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 자꾸 앞바퀴부터 박히는데 왜 그런가요?**  
+  **A:** 경사 끝에서 가속을 너무 오래 유지했기 때문입니다. 점프 직전에는 가속을 살짝
+  떼어 바이크가 자연스럽게 떠오르도록 해 보세요.
 
-- I keep nosing in—why? Too much throttle off lips; ease off before takeoff.
-- How to keep momentum? Land level and avoid over‑rotations; pump small dips.
-- Any trick for big gaps? Commit to full send only when your landing is visible and aligned.
+- **Q: 관성을 유지하려면 어떻게 해야 하나요?**  
+  **A:** 가능한 한 수평에 가깝게 착지하고, 과한 회전은 피하세요. 작은 골짜기에서는 살짝
+  몸을 눌러주는 느낌으로 "펌핑"하면 속도를 더 받을 수 있습니다.
 
+- **Q: 큰 갭은 어떻게 넘나요?**  
+  **A:** 착지 지점을 충분히 볼 수 있을 때만 전력으로 뛰는 것이 좋습니다. 시야가 확보되지
+  않은 상황에서는 무리한 점프보다 한 번 더 속도를 모을 수 있는 지형을 활용하세요.

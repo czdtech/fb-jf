@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: pics-word-game
-title: '[DE] Pics Word Game'
+title: Pics Word Game
 description: >-
-  [DE] Guess the word that connects the pictures in Pics Word Game, a fun and
-  addictive word puzzle game.
+  Errate im Pics Word Game das Wort, das alle Bilder miteinander verbindet – ein
+  unterhaltsames Wort- und Bilderrätsel für zwischendurch.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
 thumbnail: /new-images/pics-word-game.jpg
 tags:
@@ -16,27 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Pics Word Game ist ein Worträtsel, bei dem dir mehrere Bilder gezeigt werden
+ und du ein einziges Wort finden musst, das sie alle miteinander verbindet. Es
+ ist eine entspannte, aber knifflige Art, dein Vokabular und dein
+ Kombinationsvermögen zu trainieren.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Pics Word Game is a word puzzle game where you are presented with images and must deduce a single word that connects them. It's a fun way to test your vocabulary and critical thinking skills.
+1.  **Bilder genau betrachten:** Schau dir jedes Bild aufmerksam an. Achte auf
+    wiederkehrende Themen, Gegenstände, Handlungen oder abstrakte Begriffe.
+2.  **Wortlänge nutzen:** Unter den Bildern siehst du meist leere Kästchen, die
+    dir verraten, wie viele Buchstaben das gesuchte Wort hat.
+3.  **Buchstaben wählen:** Unten steht eine Auswahl an Buchstaben zur Verfügung.
+    Aus ihnen setzt du Schritt für Schritt das Lösungswort zusammen.
+4.  **Hinweise einsetzen:** Wenn du feststeckst, nutze Hilfen wie das Aufdecken
+    einzelner Buchstaben oder das Entfernen irrelevanter Buchstaben.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Review the Pictures:** Carefully examine all the images provided for the puzzle. Look for common themes, objects, actions, or concepts.
-2.  **[DE]** **Determine Word Length:** Below the pictures, you'll typically see a series of blank squares, indicating the number of letters in the answer.
-3.  **[DE]** **Select Letters:** A selection of letters will be provided, from which you must choose to spell out the correct word.
-4.  **[DE]** **Use Hints:** If you get stuck, most games of this type offer hints, such as revealing a letter or removing unused letters.
+*   **Maus/Touch:** Wähle Buchstaben mit Maus oder Touchscreen aus und füge sie
+    in die Lösung ein; navigiere damit auch durch Menüs.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Mouse/Touch:** Use the mouse or touch screen to select letters and interact with the game's menus.
+*   **F: Ich komme einfach nicht auf das Wort – was tun?**
+    **A:** Nutze Hinweise oder mach eine kurze Pause und schau später noch
+    einmal auf die Bilder. Ein frischer Blick hilft oft.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Wie bekomme ich mehr Münzen für Hinweise?**
 
-*   **[DE]** **Q: What if I can't guess the word?**
-    *   **[DE]** **A:** Use the in-game hints to help you. Sometimes it also helps to take a break and come back to the puzzle with a fresh perspective.
-*   **[DE]** **Q: How can I get more coins for hints?**
-    *   **[DE]** **A:** You can usually earn coins by successfully completing levels. Some games also offer coins for watching ads.
+- **A:** You can usually earn coins by successfully completing levels. Some games also offer coins for watching ads.
 
+    - **Q: How can I get more coins for hints?**
+    **A:** In der Regel erhältst du Münzen, indem du Level erfolgreich
+    abschließt; manchmal kannst du sie auch durch das Ansehen von Werbeclips
+    verdienen.

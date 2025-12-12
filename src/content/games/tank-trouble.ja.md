@@ -1,70 +1,54 @@
 ---
-locale: ja
-urlstr: tank-trouble
-title: '[JA TRANSLATION NEEDED] Tank Trouble'
-description: >-
-  [JA TRANSLATION NEEDED] Tank Trouble is a multiplayer tank battle game where
-  players control tanks in a maze-like arena, shooting at opponents while
-  navigating walls and obstacles to be the last tank standing.
-iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
+title: Tank Trouble
+description: Tank Troubleは、マルチプレイヤー戦車戦闘ゲームです。迷路で戦車を操作して相手を倒しましょう。
+iframeSrc: 'https://ubg98.github.io/TankTrouble/'
 thumbnail: /new-images/tank-trouble.jpg
+urlstr: tank-trouble
+score: 4.5/5  (3892 votes)
 tags:
-  - multiplayer
   - action
-  - tank battle
-score: 4.5/5  (525 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - multiplayer
+  - tanks
+locale: ja
 ---
 
+### ゲーム紹介
 
+Tank Troubleは、迷路内で戦車を操作し、跳ね返る弾丸で相手を倒すエキサイティングなマルチプレイヤー戦車ゲームです。友達と対戦するか、AIと戦いましょう。
 
-### Game Introduction
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] "Tank Trouble" is a multiplayer tank battle game where players control tanks in a maze-like arena, shooting at opponents while navigating walls and obstacles to be the last tank standing. The game is popular for its fast-paced combat and strategic positioning gameplay.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Use Walls**: Bullets ricochet off walls; learn to use bounces for indirect attacks on opponents.
-[JA TRANSLATION NEEDED] 2.  **Movement Strategy**: Keep moving to avoid becoming a stationary target, but also control shooting angles.
-[JA TRANSLATION NEEDED] 3.  **Terrain Advantage**: Use maze terrain to block enemy shooting paths.
-[JA TRANSLATION NEEDED] 4.  **Predictive Shooting**: Predict opponents' movement directions and aim ahead.
-[JA TRANSLATION NEEDED] 5.  **Collect Power-ups**: Gather special power-ups in the arena to gain advantages.
-
-### How to Play
-
-*   **Movement Control**: Use arrow keys or WASD to control tank movement and rotation.
-*   **Shooting**: Use designated keys (usually spacebar or specific keys) to shoot.
-*   **Multiplayer Mode**: Supports local multiplayer gaming with different key combinations for each player.
-
+ - **戦車を操作：** 迷路内で戦車を移動させます
+ - **射撃：** 弾丸を発射して相手を狙います
+ - **跳ね返り：** 弾丸は壁で跳ね返ります
+ - **勝利：** 相手を倒してラウンドに勝ちます
 
 
 - **Collect Power-ups**: Gather special power-ups in the arena to gain advantages.
-- **Predictive Shooting**: Predict opponents' movement directions and aim ahead.
-### Frequently Asked Questions
+### 操作ガイド
 
+ - **矢印キー：** プレイヤー1の移動と射撃
+ - **WASD + E：** プレイヤー2の移動と射撃
+ - **マウス：** メニュー操作
 
-
-
+### よくある質問（FAQ）
 
 
 - **Q: How do bullets ricochet?**
-### よくある質問
-- **Multiplayer Mode**: Supports local multiplayer gaming with different key combinations for each player.
-- **Shooting**: Use designated keys (usually spacebar or specific keys) to shoot.
+**ゲームの目標は何ですか？**
 
-### よくある質問
-- **Movement Control**: Use arrow keys or WASD to control tank movement and rotation.
-[JA TRANSLATION NEEDED] 1.  **Q: How do bullets ricochet?**
 
 - **Q: How can I avoid getting hit?**
-[JA TRANSLATION NEEDED]     **A**: Bullets bounce off walls according to physics rules; you can use this mechanism for indirect attacks.
+迷路内で相手の戦車を倒すことです。
+
 
 - **Q: How many players can play simultaneously?**
-[JA TRANSLATION NEEDED] 2.  **Q: How can I avoid getting hit?**
+**何人でプレイできますか？**
+
 
 - **Q: Is there a time limit?**
-[JA TRANSLATION NEEDED]     **A**: Keep moving, use walls as cover, and try to predict opponents' shooting paths.
-[JA TRANSLATION NEEDED] 3.  **Q: How many players can play simultaneously?**
-[JA TRANSLATION NEEDED]     **A**: Usually supports 2-3 players in local multiplayer battles.
-[JA TRANSLATION NEEDED] 4.  **Q: Is there a time limit?**
-[JA TRANSLATION NEEDED]     **A**: Some modes may have time limits, but the main goal is to defeat all opponents.
+2人または3人のプレイヤー、もしくはAIと対戦できます。
+
+**弾丸はどう動きますか？**
+
+弾丸は壁で跳ね返り続け、誰かに当たるまで消えません。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: onet-connect-classic
-title: '[KO] Onet Connect Classic'
+title: Onet Connect Classic 오넷 연결 퍼즐
 description: >-
-  [KO] Test your speed and perception in Onet Connect Classic. Find pairs of
-  identical tiles and clear the board by connecting them with a path of no more
-  than two turns before time runs out!
+  같은 그림 타일을 선으로 이어 지우는 연결 퍼즐 'Onet Connect Classic' 가이드입니다. 두 번 이하로 꺾이는 경로로만 연결할
+  수 있다는 규칙 아래, 제한 시간 안에 모든 타일을 지워 보세요.
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/onet-connect-classic.png
 tags:
@@ -18,41 +17,73 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Onet Connect Classic*은 동물, 과일 등 귀여운 아이콘이
+그려진 타일을 짝지어 지우는 속도형 퍼즐 게임입니다.  
+같은 그림의 타일 두 개를 선택해 연결하면 사라지지만,
+**서로를 잇는 선이 두 번 이하로만 꺾일 수 있다**는
+특별한 규칙이 있어 빠른 판단과 시야가 요구됩니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Onet Connect Classic is a fast-paced and addictive tile-matching puzzle game, often referred to as a "link-up" game. The objective is to clear a board filled with colorful tiles (often featuring animals, fruits, or other cute icons) by finding and connecting pairs of identical tiles. Unlike Mahjong Solitaire, the challenge comes from the connection rules and a ticking clock, requiring both sharp eyes and quick thinking to clear the board before time expires.
+1. **연결 규칙 이해하기**  
+   두 타일 사이를 잇는 선은  
+    - 직선(0회 꺾임),  
+    - L자(1회),  
+    - Z/U자(2회)까지만 허용됩니다.  
+   그 이상 꺾여야 하는 경로는 무효입니다.
 
-### Gameplay Strategy & Walkthrough
+2. **가장자리부터 보기**  
+   보드 주변부는 빈칸이 많아 직선·간단한 L자 연결이
+   잘 보이므로, 먼저 테두리부터 스캔해 보세요.
 
-1.  **[KO]** **The Connection Rule:** This is the most important concept. You can only remove a pair of identical tiles if the path between them is clear and can be drawn with a line that has **no more than two 90-degree turns**. This means the path can be:
-    *   **[KO]** A straight line (zero turns).
-    *   **[KO]** An "L" shape (one turn).
-    *   **[KO]** A "Z" or "U" shape (two turns).
+3. **다음 수를 위해 비우기**  
+   한 쌍을 지우면 다른 타일들이 연결될 수 있는
+   경로가 열립니다. 막힌 중앙부를 열어 줄 수 있는
+   쌍을 우선적으로 제거하면 이후 풀이가 쉬워집니다.
 
-2.  **[KO]** **Scan the Edges First:** The easiest matches to spot are usually around the perimeter of the board, as they have more open space around them. Start by scanning the edges for adjacent pairs or pairs that can be connected with a simple straight line.
-3.  **[KO]** **Think Ahead:** When you clear a pair, it opens up new paths for other tiles. Try to make matches that will free up the most critical areas of the board, rather than just the first pair you see.
-4.  **[KO]** **Use Your Tools:** Don't be afraid to use hints and shuffles when you get stuck.
-    *   **[KO]** **Hints:** The hint button will show you one possible valid match.
-    *   **[KO]** **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
-5.  **[KO]** **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
+4. **힌트·셔플 활용**  
+   막혔을 때는 힌트로 가능한 한 쌍을 보여 주거나,
+   셔플로 남은 타일 배치를 섞어 새로운 기회를
+   만드는 것도 좋은 선택입니다(사용 횟수 제한 주의).
 
-### Controls Guide
+    - **시간 관리**  
 
-The game is played entirely with the mouse or by tapping.
+    - **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
 
-*   **[KO]** **Select Tiles:** Click on a tile to select it.
-*   **[KO]** **Connect Pair:** Click on a second, identical tile. If the path between them is valid, both tiles will be removed from the board.
+- **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
+   각 레벨에는 제한 시간이 있으니, 일정한 속도로
+   매칭을 유지하면서 여유가 있을 때만 난해한 쌍을
+   찾는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: Why can't I connect two identical tiles?**
-    *   **[KO]** **A:** There are two possible reasons: 1) The path between them is blocked by another tile, or 2) The path required to connect them would need more than two 90-degree turns.
+- **타일 선택**: 첫 번째 타일을 클릭한 뒤, 같은 그림의
+  두 번째 타일을 클릭합니다. 유효한 경로가 있으면 두 타일이
 
-*   **[KO]** **Q: What happens when I run out of time?**
-    *   **[KO]** **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
+- **Connect Pair:** Click on a second, identical tile. If the path between them is valid, both tiles will be removed from the board.
 
-*   **[KO]** **Q: Is there a penalty for using hints?**
-    *   **[KO]** **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
+- **Select Tiles:** Click on a tile to select it.
+  함께 사라집니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 같은 그림인데 연결이 안 됩니다.**  
+  **A:** 사이 경로가 다른 타일에 막혀 있거나, 선이 세 번
+  이상 꺾여야만 연결되는 경우일 수 있습니다.
+
+    - **Q: 시간이 다 되면 어떻게 되나요?**  
+  **A:** 타이머가 0이 되기 전에 보드를 모두 지우지 못하면
+  해당 레벨에서 패배하며, 다시 도전해야 합니다.
+
+- **Q: 힌트를 쓰면 패널티가 있나요?**  
+
+    - **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
+
+- **Q: Is there a penalty for using hints?**
+
+    - **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
+  **A:** 보통 점수 패널티는 없지만, 사용 횟수가 제한적입니다.
+  정말 막혔을 때만 활용하는 것이 좋습니다.
 

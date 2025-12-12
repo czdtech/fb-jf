@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: happy-wheels
-title: '[ES] Happy Wheels'
+title: Happy Wheels
 description: >-
-  [ES] A detailed guide to the notoriously graphic and humorous physics-based
-  game, Happy Wheels. Learn gameplay strategies, controls, and answers to common
-  questions for surviving its deadly user-created levels.
+  Guía completa del famoso juego de físicas tan sangriento como humorístico,
+  Happy Wheels. Aprende estrategias, controles y trucos para sobrevivir a sus
+  mortales niveles creados por la comunidad.
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
 thumbnail: /new-images/happy-wheels.jpg
 tags:
@@ -16,59 +16,108 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **Introducción al juego**
+
+Happy Wheels es un juego de plataformas lateral basado en físicas, conocido por
+su violencia gráfica y su humor negro. Más que "ganar", el eje del juego es
+**sobrevivir**. Controlas a personajes de lo más peculiares, cada uno con un
+vehículo tan original como peligroso: un padre en bici con su hijo, un hombre
+en silla de ruedas propulsada a reacción, un tipo en Segway, etc.
+
+En la mayoría de niveles, el objetivo es atravesar un recorrido lleno de
+trampas y llegar a la meta. El reto está en el motor de físicas brutalmente
+realista: los personajes pueden ser despedazados, aplastados o empalados de
+mil formas, pero a menudo pueden seguir avanzando mientras el torso siga
+intacto.
+
+Una de las señas de identidad de Happy Wheels es la enorme cantidad de
+**contenido creado por usuarios**. El juego incluye un potente editor de
+niveles que permite construir y compartir circuitos complejos, creativos y, a
+menudo, sádicos. Gracias a esto hay prácticamente niveles infinitos: carreras
+simples, puzles elaborados, rope swings, retos imposibles, deathruns, etc.
+
+### **Estrategia y consejos de juego**
+
+1. **Controla la velocidad:** Correr más no siempre es mejor. Ir demasiado
+   rápido suele acabar en pérdida de control y choques. Aprende a acelerar y
+   frenar con suavidad para pasar zonas estrechas o con terreno impredecible.
+2. **Domina a cada personaje:** Cada personaje se maneja distinto y tiene
+   habilidades propias:  
+    - **Wheelchair Guy:** Su cohete da un impulso enorme, perfecto para saltos
+     largos, pero es difícil de controlar; úsalo en ráfagas cortas.  
+    - **Segway Guy:** Puede saltar, lo que lo hace muy ágil para plataformas,
+     pero su postura erguida lo vuelve inestable.  
+    - **Irresponsible Dad:** Puede frenar fuerte; el hijo añade peso y puede
+     desprenderse, a veces sirviendo (de forma muy macabra) como contrapeso o
+     escudo.
+3. **Inclínate para mantener el equilibrio:** Inclinar el cuerpo hacia delante y
+   hacia atrás (Flechas Izquierda/Derecha) es clave para no volcar. Inclínate
+   hacia atrás al subir cuestas pronunciadas y hacia delante al bajar para
+   mantener control.
+4. **Sobrevivir > llegar intacto:** No hace falta terminar el nivel en estado
+   perfecto. Puedes ganar incluso sin piernas o sin brazos; mientras el torso
+   cruce la meta, cuenta. A veces sacrificar una extremidad es una estrategia
+   válida.
+5. **Aprende a eyectarte:** La tecla `Z` permite que muchos personajes salgan
+   despedidos del vehículo. Es un recurso de último momento para lanzar el
+   cuerpo por encima de un hueco cuando el vehículo está destruido o atascado.
+6. **Explora distintos tipos de niveles:** No te limites a los niveles
+   destacados. Usa el navegador de niveles: busca términos como "puzzle",
+   "rope swing" o "BMX" para descubrir mapas muy distintos creados por la
+   comunidad.
+
+### **Guía de controles**
+
+**Controles principales**
+
+- **Acelerar:** Flecha `Arriba`
+- **Frenar / Marcha atrás:** Flecha `Abajo`
+- **Inclinarse hacia atrás:** Flecha `Izquierda`
+- **Inclinarse hacia delante:** Flecha `Derecha`
+
+**Teclas de acción**
+
+- **Habilidad especial principal:** `Espacio` (por ejemplo, el cohete de
+  Wheelchair Guy o el salto de Segway Guy).
+- **Habilidades secundarias:** `Shift` y `Ctrl` (mover piernas, brazos, etc.,
+  especialmente tras eyectarse).
+- **Eyectar del vehículo:** `Z` (abandonar el vehículo).
 
 
+- **Eject**: `Z` key (abandons the vehicle)
 
+- **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
 
-### **Game Introduction**
-
-Happy Wheels is a physics-based, side-scrolling platformer game known for its graphic violence and dark humor. The gameplay does not focus on simply winning, but on survival. Players control a variety of unconventional characters, each with a unique and often comically unsafe vehicle, such as a dad on a bicycle with his son, a man in a jet-powered wheelchair, or a person on a Segway.
-
-The primary objective in most levels is to navigate a treacherous obstacle course and reach a finish line. The challenge lies in the game's brutal and realistic physics engine. Characters can be dismembered, crushed, and impaled in countless gruesome ways, yet can often continue towards the goal as long as their core body is intact.
-
-A defining feature of Happy Wheels is its extensive user-generated content. The game includes a powerful level editor, allowing players to create and share their own complex, creative, and often sadistic courses. This results in a virtually endless supply of levels, ranging from simple races to elaborate puzzle-solving adventures and impossible-to-survive death traps.
-
-### **Gameplay Strategy & Tips**
-
-1.  **[ES]** **Control Your Speed**: Speed is not always your friend. Going too fast often leads to losing control and crashing into an obstacle. Learn to gently accelerate and decelerate to navigate tight spaces and unpredictable terrain.
-2.  **[ES]** **Master Your Character**: Each character controls differently and has unique special abilities.
-    *   **[ES]** **Wheelchair Guy**: His jet booster provides a powerful burst of speed, useful for clearing large gaps, but it's hard to control. Use it in short bursts.
-    *   **[ES]** **Segway Guy**: Can jump, making him more agile for platforming challenges. His upright stance, however, makes him very unstable.
-    *   **[ES]** **Irresponsible Dad**: Can brake hard. His son adds extra weight and can be detached, sometimes serving as a morbid counterweight or shield.
-3.  **[ES]** **Lean for Balance**: Leaning your character forward and backward (using the up and down arrow keys) is crucial for maintaining balance. Lean back when going up steep hills to prevent flipping over, and lean forward when going down to maintain speed and control.
-4.  **[ES]** **Survival Over Perfection**: You don't need to finish a level in pristine condition. You can win a level even if your character has lost both legs and an arm. The goal is to get the character's torso to the finish line. Sometimes, sacrificing a limb to an obstacle is a viable strategy.
-5.  **[ES]** **Learn to Eject**: The 'Z' key allows most characters to eject from their vehicle. This is a last-ditch move that can be used to fling your character's body across a gap to the finish line when the vehicle is destroyed or stuck.
-6.  **[ES]** **Explore Different Level Types**: Don't just play the featured levels. Use the level browser to find different kinds of challenges. Search for terms like "puzzle," "rope swing," or "BMX" to find unique and creative maps made by the community.
-
-### **Controls Guide**
-
-The controls are relatively standard but have specific functions for each character.
-
-**Primary Controls:**
-*   **[ES]** **Accelerate**: `Up Arrow` key
-*   **[ES]** **Decelerate / Reverse**: `Down Arrow` key
-*   **[ES]** **Lean Left / Backward**: `Left Arrow` key
-*   **[ES]** **Lean Right / Forward**: `Right Arrow` key
+- **Primary Special Ability**: `Space Bar` (e.g., Wheelchair Guy's jet, Segway Guy's jump)
 
 **Action Keys:**
-*   **[ES]** **Primary Special Ability**: `Space Bar` (e.g., Wheelchair Guy's jet, Segway Guy's jump)
-*   **[ES]** **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
-*   **[ES]** **Eject**: `Z` key (abandons the vehicle)
 
-### **Frequently Asked Questions (FAQ)**
+- **Lean Right / Forward**: `Right Arrow` key
 
-**1. Why is this game so graphic and violent?**
-The over-the-top, graphic violence is a core part of the game's identity and its black humor. It's a defining feature of its physics-based ragdoll system, designed to be shocking and absurdly funny.
+- **Eject**: `Z` key (abandons the vehicle)
 
-**2. Can I still win if my character is badly injured?**
-Yes. The win condition for most levels is for the main character's torso to cross the finish line. You can win even after losing all limbs.
+- **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
+### **Preguntas frecuentes (FAQ)**
 
-**3. How do I find good or fun levels to play?**
-Use the in-game level browser. You can play the "Featured Levels," which are curated by the community, or browse the most played levels. You can also use the search function to look for specific types of levels or creators.
+**1. ¿Por qué el juego es tan violento?**  
+La violencia exagerada forma parte del ADN del juego y de su humor negro. Es
+un elemento central del sistema de físicas ragdoll, diseñado para resultar tan
+impactante como absurdamente cómico.
 
-**4. Some characters or levels are not available. How do I unlock them?**
-In the free web version of the game, many characters and the level editor are often locked or limited. The full version of the game typically provides access to all characters and features.
+**2. ¿Puedo ganar aunque mi personaje esté hecho trizas?**  
+Sí. En la mayoría de niveles solo importa que el **torso** cruce la meta. Puedes
+terminar incluso tras perder todas las extremidades.
 
-**5. The game is running very slowly or lagging. What can I do?**
-Happy Wheels can be demanding on your computer, especially on very large or complex user-created levels with many objects. Try closing other browser tabs and applications to free up resources. Playing on a more powerful computer or using a different web browser can also help.
+**3. ¿Cómo encuentro niveles divertidos?**  
+Usa el navegador integrado: prueba los "Featured Levels", los más jugados o
+busca por nombre de creador o tipo de reto.
 
+**4. Hay personajes o niveles bloqueados, ¿cómo los desbloqueo?**  
+En muchas versiones web gratuitas algunos personajes y el editor están
+limitados. La versión completa del juego suele ofrecer acceso a todo el
+contenido.
+
+**5. El juego va lento o con lag, ¿qué puedo hacer?**  
+Los niveles muy grandes o cargados de objetos pueden ser pesados para el
+navegador. Cierra otras pestañas y aplicaciones, prueba con otro navegador o
+un equipo más potente para mejorar el rendimiento.

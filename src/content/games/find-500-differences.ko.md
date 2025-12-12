@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: find-500-differences
-title: '[KO] Find 500 Differences'
-description: >-
-  [KO] Challenge your observation skills with Find 500 Differences. Compare two
-  seemingly identical images and find all the subtle differences.
+title: Find 500 Differences 500개의 차이 찾기
+description: 두 장의 비슷한 그림을 비교해 다른 점을 찾는 클래식 퍼즐 게임입니다. 세심한 관찰력을 발휘해 숨은 차이들을 모두 찾아보세요.
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
 thumbnail: /new-images/find-500-differences.png
 tags:
@@ -16,33 +14,54 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Find 500 Differences는 세밀한 관찰력을 시험하는 틀린 그림 찾기 퍼즐입니다.
+각 레벨에서 거의 똑같아 보이는 두 장의 아름다운 이미지를 보여 주며, 그 사이에
+숨겨진 여러 개의 차이를 찾아야 합니다. 그림은 풍경, 일상, 복잡한 장면 등
+다양하게 준비되어 있어, 모든 연령대가 편안하게 즐기면서 집중력을 키울 수
+있습니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Find 500 Differences is a classic puzzle game that puts your attention to detail to the test. Across numerous levels, you will be presented with two beautiful, almost identical images. Your task is to carefully examine them and identify the five subtle differences that set them apart. With a wide variety of pictures, from charming landscapes to complex scenes, the game provides hours of relaxing and engaging fun for all ages.
+1. **체계적으로 훑기**  
+   화면 아무 곳이나 보는 것보다, 왼쪽 위에서 시작해 책 읽듯 가로 방향으로
+   차례차례 영역을 스캔하면 놓치는 곳이 줄어듭니다.  
+2. **배경과 가장자리 집중 관찰**  
+   차이는 눈에 잘 안 가는 배경이나 화면 테두리 쪽에 숨겨져 있는 경우가 많습니다.
+   가운데만 보지 말고 끝부분까지 꼼꼼히 확인하세요.  
+3. **사라지거나 추가된 물체 찾기**  
+   가장 흔한 차이는 한쪽 그림에는 있고 다른 쪽에는 없는 물체입니다. 먼저
+   물체의 유무부터 살펴보는 것이 좋습니다.  
+4. **색·크기·모양 변화 체크**  
+   어떤 경우에는 물체의 색, 크기, 모양이 살짝 다른 것이 차이의 전부이기도
+   합니다. 비슷한 물체끼리 짝을 지어 비교해 보세요.  
+5. **힌트는 아껴 쓰기**  
+   막혔을 때를 대비해 힌트는 최대한 아껴 두었다가, 정말 마지막 한두 개가
+   보이지 않을 때 사용하는 것이 좋습니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Scan Systematically:** Don't just randomly look around. Start from the top-left corner and scan both images horizontally, like you're reading a book. This methodical approach ensures you don't miss any sections.
-2.  **[KO]** **Focus on Backgrounds and Edges:** Differences are often hidden in plain sight in the background or along the edges of the picture, where players might not look as closely.
-3.  **[KO]** **Look for Missing or Added Objects:** The most common type of difference is an object that is present in one image but missing from the other. Scan for these first.
-4.  **[KO]** **Check for Color and Shape Changes:** Sometimes the difference is a subtle change in color, size, or shape of an object. Compare similar items in both pictures closely.
-5.  **[KO]** **Use Hints Sparingly:** If you get stuck, the game provides a hint system. Try to save your hints for when you are truly stumped to maximize your score and challenge yourself.
+* 차이를 찾았다고 생각되는 위치를 마우스로 클릭하거나 화면을 탭하면, 정답인
+  경우 표시가 됩니다.  
+* 일부 버전은 확대 기능을 제공해 작은 부분을 더 자세히 볼 수 있게 해 줍니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Click/Tap:** Use your mouse to click, or your finger to tap, on the area in either picture where you have spotted a difference.
-*   **[KO]** **Zoom (If available):** Some versions may allow you to zoom in for a closer look at the details.
+- **Q: 틀린 곳을 잘못 클릭하면 어떻게 되나요?**  
+  **A:** 많은 틀린 그림 찾기 게임과 마찬가지로, 오답 클릭 시 시간 제한이 줄거나
+  점수가 깎일 수 있습니다. 가능한 한 확신이 있을 때만 클릭하세요.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 시간 제한이 있나요?**  
+  **A:** 대부분의 레벨은 일정 시간 제한을 두어 긴장감을 더합니다. 제한 시간
+  안에 모든 차이를 찾는 것이 목표입니다.  
 
-*   **[KO]** **Q: What happens if I click on the wrong spot?**
-    *   **[KO]** **A:** In many "spot the difference" games, clicking on an incorrect spot may result in a time penalty or a reduction in your score. Be sure of your choice before you click!
+- **Q: 한 레벨에 보통 몇 개의 차이가 있나요?**  
 
-*   **[KO]** **Q: Is there a time limit?**
-    *   **[KO]** **A:** Yes, most levels are timed to add an extra layer of challenge. Try to find all the differences before the time runs out.
+    - **A:** Typically, there are 5 differences to find in each pair of images.
 
-*   **[KO]** **Q: How many differences are in each level?**
-    *   **[KO]** **A:** Typically, there are 5 differences to find in each pair of images.
+- **Q: How many differences are in each level?**
+
+    - **A:** Yes, most levels are timed to add an extra layer of challenge. Try to find all the differences before the time runs out.
+  **A:** 일반적으로 한 쌍의 그림마다 5개의 차이를 찾게 됩니다.  
 

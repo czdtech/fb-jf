@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tiger-run
-title: '[KO] Tiger Run'
+title: "Tiger Run 타이거 런"
 description: >-
-  [KO] Tiger Run is a jungle runner — dash, jump, and slide to dodge obstacles
-  and collect coins.
+  정글을 배경으로 끝없이 달리는 러너 게임 Tiger Run입니다. 좌우로 레인을 이동하고 점프와
+  슬라이딩으로 장애물을 피하며 코인을 모아 최고 기록에 도전해 보세요.
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/tiger-run.jpeg
 tags:
@@ -15,29 +15,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tiger Run은 정글 속을 질주하는 직관적인 엔드리스 러너 게임입니다. 화면 앞쪽에서 다가오는 장애물을
+미리 읽고, 좌우 레인을 바꾸거나 점프·슬라이딩으로 피하면서 코인을 연속해서 수집하는 것이 목표입니다.
+달릴수록 속도가 점점 빨라지기 때문에, 당황하지 않고 일정한 리듬을 유지하는 것이 높은 점수를 얻는
+핵심입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Tiger Run is a straightforward endless runner set in the jungle. Read upcoming hazards, swap lanes or jump/slide to avoid obstacles, and chain coin pickups while maintaining a stable rhythm as speed ramps up.
+1.  **시야는 항상 앞쪽에 두기**: 캐릭터 발밑이 아니라 멀리 앞을 보면서 달리세요. 앞으로 나타날
+    장애물을 미리 보고 레인 변경이나 점프 타이밍을 준비하면, 갑작스러운 충돌을 크게 줄일 수
+    있습니다.
+2.  **코인보다 생존 우선**: 좁은 틈에 있는 코인을 모두 먹으려다 보면 장애물에 부딪히기 쉽습니다.
+    특히 속도가 빨라졌을 때는 코인을 일부 포기하더라도 안전한 라인을 유지하는 것이 좋습니다.
+3.  **패턴 외우기**: 장애물 배치는 완전히 랜덤이라기보다 일정한 패턴이 반복되는 경우가 많습니다.
+    같은 구간을 몇 번 플레이하다 보면 자주 나오는 조합을 외울 수 있고, 미리 레인을 바꿔 두는
+    식으로 안정적인 주행이 가능해집니다.
+4.  **입력은 부드럽고 짧게**: 과하게 좌우를 흔들거나 여러 번 연속으로 키를 누르면 오히려
+    과조작(오버슈팅)이 생겨 장애물에 부딪히기 쉽습니다. 필요한 순간에만 짧고 정확하게 입력하는
+    습관을 들이세요.
+5.  **파워업은 난이도 구간에 아껴 두기**: 방패, 자석 같은 파워업은 장애물이 빽빽하게 등장하는
+    구간이나 속도가 크게 오른 뒤에 사용하는 편이 효율적입니다. 초반에 모두 소비하지 말고,
+    어려운 구간을 통과하기 위한 보험처럼 활용해 보세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Eyes up: Look ahead to prepare lane swaps early.
-2.  **[KO]** Priority safety: Skip side coins when gaps are tight.
-3.  **[KO]** Memorize sets: Common obstacle patterns repeat—use them to pre‑position.
-4.  **[KO]** Smooth inputs: Quick, small moves reduce overcorrection at high speed.
-5.  **[KO]** Power‑ups: Save shields/magnets for dense sections.
+- **이동**: A/D 키 또는 방향키 좌/우를 눌러 레인을 변경합니다.
+- **점프/슬라이딩**: Space 키나 방향키 위로 점프, 방향키 아래로 슬라이딩합니다. 모바일에서는
+  화면을 위/아래로 스와이프하는 방식일 수 있습니다.
+- **일시 정지/다시 시작**: 화면의 UI 버튼을 눌러 게임을 일시 정지하거나 재시작할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Move: A/D or Left/Right to change lanes.
-- Jump/Slide: Space/Up to jump; Down to slide (or swipe on mobile).
-- Pause/Retry: On‑screen UI.
+- **Q: 장애물에 자꾸 걸리는 이유가 뭔가요?**  
+  **A:** 점프 타이밍이 너무 이르거나 늦은 경우가 많습니다. 캐릭터가 장애물 가까이에 왔을 때
+  살짝 늦게 점프하는 느낌으로 타이밍을 조절해 보세요. 속도가 빨라질수록 리듬을 일정하게 유지하는
+  것이 중요합니다.
 
-### Frequently Asked Questions (FAQ)
+- **Q: 속도를 줄이거나 천천히 달릴 수 있나요?**  
+  **A:** 일부 버전에서는 슬로 모션이나 임시 속도 감소 효과를 주는 파워업이 등장하지만, 기본적으로
+  게임은 계속 빨라지는 구조입니다. 가능한 한 파워업을 효과적인 구간에 사용하고, 코스를 외워
+  자연스럽게 적응하는 것이 좋습니다.
 
-- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
-- Is there a finish? Usually endless—aim for new personal bests.
-
+- **Q: 결승점이 따로 있나요, 아니면 끝없이 달리는 게임인가요?**  
+  **A:** 대부분의 모드에서는 정해진 결승점 없이 끝없이 달리는 방식입니다. 라운드마다 기록을 갱신하며
+  자신의 최고 점수와 거리를 계속 경신하는 것을 목표로 플레이하게 됩니다.

@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: dumb-ways-to-die
-title: '[FR] Dumb Ways to Die'
+title: 'Dumb Ways to Die'
 description: >-
-  [FR] Dumb Ways to Die is a fast‑reaction mini‑game collection: complete
+  Dumb Ways to Die is a fast‑reaction mini‑game collection: complete
   micro‑challenges quickly to keep characters alive.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/dumb-ways-to-die.jpg

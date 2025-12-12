@@ -1,49 +1,51 @@
 ---
 locale: fr
 urlstr: one-line-only-dot-to-dot
-title: '[FR] One line only: dot to dot'
+title: 'One Line Only: Dot to Dot'
 description: >-
-  [FR] One line only: dot to dot is a neat one‑stroke puzzler — draw a single
-  line to cover all dots and segments without retracing.
-iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
+  One Line Only: Dot to Dot est un puzzle de tracé où tu dois relier tous les
+  points avec un seul trait continu sans repasser deux fois au même endroit.
+iframeSrc: >-
+  https://1linonlydotdot.h5games.usercontent.goog/v/138d1f82-9675-4ad2-88b4-db39e30d8c7a/
 thumbnail: /new-images/one-line-only-dot-to-dot.jpg
 tags:
   - puzzle
   - thinky
-score: 4.2/5  (2050 votes)
+score: 4.1/5  (1790 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+One Line Only: Dot to Dot est un jeu de réflexion minimaliste basé sur le tracé d’un seul trait. Sur chaque grille, des points sont reliés par des segments possibles ; ton objectif est de dessiner un chemin qui passe une fois et une seule sur chaque segment sans lever le doigt ou la souris. Plus les niveaux avancent, plus les formes deviennent complexes.
+
+### Stratégies de jeu et progression
+
+1.  **Observer avant de tracer :** prends quelques secondes pour repérer les nœuds clés (points avec beaucoup de segments) avant de dessiner.  
+2.  **Commencer par les extrémités :** les points avec un nombre de connexions impair sont souvent de bons candidats de départ ou d’arrivée.  
+3.  **Éviter les impasses :** ne ferme pas trop tôt des boucles qui te laisseraient des segments isolés.  
+4.  **Utiliser l’essai‑erreur :** n’hésite pas à réinitialiser un tracé ; chaque tentative t’apprend un peu plus sur la structure du niveau.
 
 
+- Symmetry: Use symmetrical halves to mirror partial routes.
+### Commandes
 
-### Detailed Game Introduction
+- Clique ou touche un point pour commencer le trait, puis fais glisser pour suivre les segments jusqu’à relier tous les points. Relâche pour terminer ; un bouton permet de recommencer si nécessaire.
 
-One line only: dot to dot follows the Euler path tradition: connect all points/edges with a single, unbroken stroke. Boards introduce bridges, forced turns, and parity tricks that require careful route planning and backtracking discipline.
+### Foire aux questions (FAQ)
 
-### Gameplay Strategy & Walkthrough
+- **Q : Dois‑je passer sur tous les points ou tous les segments ?**  
+  **R :** Selon la version, l’objectif peut être de couvrir tous les segments ou seulement de visiter tous les points ; vérifie l’indication au début du niveau.
 
-1.  **[FR]** Degree count: Start at odd‑degree nodes (0 or 2 exist for Euler trails); they suggest endpoints.
-2.  **[FR]** Bridge first: Draw mandatory bridges early so you don’t lock them out later.
-3.  **[FR]** Avoid isolating: Don’t complete loops that strand unvisited edges.
-4.  **[FR]** Look‑ahead: Test two moves mentally; backtrack early when isolation appears.
-5.  **[FR]** Symmetry: Use symmetrical halves to mirror partial routes.
+- **Q : Y a‑t‑il un système d’indices ?**  
+  **R :** Oui, certains modes proposent des indices limités pour révéler une partie du chemin.
 
-### Controls Guide
 
-- Drag to draw along segments; undo/clear via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I end one step short — why?
-
-A: You likely started at a wrong endpoint; try an odd‑degree node instead.
-
-- Q: Are crossings allowed?
-
-A: Only along provided segments; no freehand crossings.
-
-- Q: Any hint system?
 
 A: Many builds provide hints or highlight bridges.
 
+- Q: Any hint system?
+
+
+A: Many builds provide hints or highlight bridges.

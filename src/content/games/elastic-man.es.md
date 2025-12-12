@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: elastic-man
-title: '[ES] Elastic Man'
+title: "Elastic Man"
 description: >-
-  [ES] Elastic Man is an interactive toy: stretch, poke, and squish a rubbery
-  face with playful physics.
+  Elastic Man es un juguete interactivo: estira, pellizca y aplasta una cara
+  elástica con físicas divertidas.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/elastic-man.jpg
 tags:
@@ -15,21 +15,29 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Elastic Man es un pequeño juguete interactivo en el que puedes retorcer una
+cara de goma. Agarra y estira distintas zonas del rostro y suéltalas para ver
+cómo la "piel" vuelve a su sitio con un efecto de gelatina.
 
+### Cómo jugar
 
-### Overview
-Interactive face‑stretching toy: grab and drag a rubbery face, then watch it wobble back with springy skin‑simulation.
+- Arrastra, toca y pellizca distintas partes de la cara para provocar todo tipo
+  de deformaciones.
+- En algunas versiones puedes ajustar la fuerza del aplastamiento o la resolución de
+  la simulación.
 
-### How to Play
-- Drag, poke, pinch, and release different spots to see varied deformations.
-- Some hosts include “squish” strength or resolution toggles.
+### Controles
 
-### Controls
-- Mouse/Touch drag and release; settings panel where available.
+- Ratón/táctil: arrastra y suelta para deformar; usa el panel de opciones cuando
+  esté disponible.
 
-### Tips
-- Pull from cheeks/forehead for broad wobbles; small pinches create fast ripples.
-- Lower resolution on slower devices for smoother motion.
-- Shorter, repeated pulls keep the jello‑like jiggle going.
+### Consejos
 
+- Tira de mejillas o frente para conseguir oscilaciones amplias; los pinchazos
+  pequeños generan vibraciones rápidas.
+- En dispositivos lentos, baja la resolución o la calidad gráfica para mantener
+  la animación fluida.
+- Varios tirones cortos seguidos mantienen el efecto de temblor activo más
+  tiempo.

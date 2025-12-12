@@ -1,40 +1,54 @@
 ---
 locale: zh
 urlstr: bowling-stars
-title: '[ZH TRANSLATION NEEDED] Bowling Stars'
-description: >-
-  [ZH TRANSLATION NEEDED] Bowling Stars brings smooth ten‑pin bowling to the
-  browser — read oil, pick angles, and strike consistently.
-iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
-thumbnail: /new-images/bowling-stars.png
+title: Bowling Stars 保龄球之星
+description: 《Bowling Stars 保龄球之星》是一款休闲保龄球游戏，通过瞄准、旋转与力度控制打出 Strike 与 Spare，挑战不同 球道布局与高分记录。
+iframeSrc: 'https://bowlingstars.h5games.usercontent.goog/v/4nmneilfa2g5g/'
+thumbnail: /new-images/bowling-stars.jpg
 tags:
   - sports
   - casual
-score: 4.0/5  (1743 votes)
+score: 3.9/5  (1573 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Bowling Stars is a casual ten‑pin bowling sim featuring aim, power, and hook control. Consistency and spare conversion define high scores—dial in your release and adapt to lane behavior to string together strikes.
+*Bowling Stars* 把保龄球馆搬到了屏幕上。你需要调整站位、瞄准方向并控制出手旋转与力度，在十轮比赛中尽可能多地打出全中（Strike）和补中（Spare），刷新自己的最高分。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Pocket hits: For right‑handers, aim between the 1–3 pins; left‑handers, 1–2 pocket.
-2.  [ZH TRANSLATION NEEDED] Control the hook: Add gentle curve so the ball enters the pocket at an angle for better pin action.
-3.  [ZH TRANSLATION NEEDED] Spare system: Memorize spare angles (e.g., 7‑pin and 10‑pin) and use cross‑lane shots.
-4.  [ZH TRANSLATION NEEDED] Tempo matters: A smooth, repeatable release beats random power spikes.
-5.  [ZH TRANSLATION NEEDED] Adjust quickly: If you leave frequent splits, shift your starting line or reduce hook.
+游戏通常会提供多条球道与视觉主题，不同球道的油路分布、球瓶摆位细节与障碍设计，会对你的球路控制提出挑战。简单易上手，但要稳定打出高分，则需要一定的“走线意识”和节奏感。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Aim: Drag left/right to set line.
-- Power: Hold/release to set speed.
-- Hook: Drag/tilt while rolling or set a spin parameter before release.
+1.  **找到自己的“招牌起手点”**  
+    真实保龄球里常见的打法是站在中线略偏一侧，瞄准 1 号瓶与 3 号（或 2 号）瓶之间的“口袋位”。在游戏中也可以尝试固定一个站位和瞄准方向，让出手动作尽量一致，再通过微调旋转与力度来修正偏差。
 
-### Frequently Asked Questions (FAQ)
+2.  **学会利用旋转而不是只打直球**  
+    适度的右旋或左旋可以让球在接近瓶阵时产生弧线，更容易从侧面切入瓶群，制造连锁倒瓶效果。整个过程可以理解为：前半程走直线，后半程借助旋转产生“钩球”。
 
-- How to reduce splits? Enter the pocket at a controllable angle; too steep or too flat increases split chances.
-- Any tip for 7/10? Use cross‑lane shots with enough angle; prioritize spare consistency over hero plays.
-- Why do I miss light/heavy? Adjust starting position or hook strength by small increments.
+3.  **第一球争取全中，第二球精准补中**  
+    每一轮有两次机会：第一球尽量瞄准 Strike；若残瓶，则观察剩余瓶子的位置，利用第二球“点名补刀”。相比硬碰运气，更推荐根据残瓶布局选择合适的入射角。
 
+4.  **根据球道特性调整力度**  
+    有的球道更“滑”、球容易跑偏；有的则较“黏”，球转弯更早。可以在比赛前几轮通过不同的力度测试，找到当前球道下最合适的出手速度，使球既不会早早冲出边界，也能在接近瓶阵时产生足够的撞击力。
+
+5.  **不要被一次失误打乱节奏**  
+    即使某一轮完全打飞，也不必立刻“矫枉过正”。更好的做法是：回到自己习惯的站位和节奏，只针对刚刚那一球的具体问题做小幅调整，例如略微改变瞄准线或旋转强度。
+
+### 操作指南
+
+- **瞄准线：** 用鼠标/触控左右拖动，设置球的起始站位与出手方向。  
+- **力度：** 长按并松开（或拖动滑杆）来决定出手速度；保持节奏越一致越容易控球。  
+- **旋转/钩球：** 在出手前设置旋转，或在球滚动时轻微倾斜/拖动以加入弧线，让球以更佳角度进入瓶阵。
+
+### 常见问题解答（FAQ）
+
+- **问：为什么球总是撞在中间却打不出全中？**  
+  **答：** 正面击中 1 号瓶会让力量沿中线分散。把瞄准线微调到 1/3（或 1/2）之间，并加入轻柔的钩球，从“口袋”切入能大幅提高 Strike 率。
+
+- **问：残瓶怎么补最稳？**  
+  **答：** 先判断是单瓶还是成组残留。单瓶用大斜线直接“点名”，两边同时残留则先选择一侧清掉，不要贪心去搏双飞而两边都没打中。
+
+- **问：不同球道的手感会改变吗？**  
+  **答：** 会。油路与摩擦力不同会让球更早或更晚转弯。每换球道先用一两次测试投球重新找到合适的力度与旋转，再追求高分。

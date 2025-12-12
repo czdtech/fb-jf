@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: zoo-boom
-title: '[ZH TRANSLATION NEEDED] Zoo Boom'
+title: 'Zoo Boom：动物方块连消乐园'
 description: >-
-  [ZH TRANSLATION NEEDED] Welcome to Zoo Boom! A colorful and exciting match-2
-  puzzle game where you tap to blast blocks of adorable zoo animals and complete
-  challenging levels.
+  欢迎来到《Zoo Boom》！这是一款色彩缤纷的消除游戏，
+  点击相邻的同色动物方块即可爆破，完成关卡目标、触发华丽连锁反应，
+  在轻松的动物园冒险中一路闯关。
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/zoo-boom.png
 tags:
@@ -17,29 +17,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Zoo Boom is a vibrant and engaging match-2 puzzle game that takes you on an exciting adventure through a colorful zoo. Your mission is to tap and blast groups of two or more identical animal blocks to clear them from the board. Each level presents unique challenges and objectives, such as collecting a certain number of specific animals, clearing obstacles, or reaching a target score within a limited number of moves. Unleash powerful boosters by matching larger groups of animals to create spectacular chain reactions and achieve high scores.
+《Zoo Boom》是一款节奏轻快的“点消”类三消游戏，
+场景背景是充满活力的卡通动物园，你要通过点击两个或以上相连的同色动物方块，
+将它们一次性消除。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Look for Large Groups:** While you can match just two identical blocks, aim for larger groups of three or more. Matching more blocks at once will give you more points and help you create powerful boosters.
-2.  [ZH TRANSLATION NEEDED] **Create Boosters:** Matching five or more blocks will typically create special boosters like rockets, bombs, or color-clearing items. These are crucial for clearing difficult sections and achieving high scores.
-3.  [ZH TRANSLATION NEEDED] **Combine Boosters:** The real power comes from combining two adjacent boosters. For example, combining two rockets can clear a huge area, while combining a bomb with a color-clearing item can be devastatingly effective.
-4.  [ZH TRANSLATION NEEDED] **Prioritize Objectives:** Always keep an eye on the level's specific objectives. Sometimes it's better to make a smaller match that helps you achieve an objective rather than a large match that doesn't.
-5.  [ZH TRANSLATION NEEDED] **Plan Your Moves:** Don't just tap randomly. Think a few moves ahead to see how your current tap will affect the board and set up future matches or booster creations.
+每个关卡都有自己的目标：
+有时需要收集指定种类的动物，有时要清理障碍物，
+也可能是在有限步数内达到特定分数。
 
-### Controls Guide
+当你一次点掉的大团动物越多，就越容易制造火箭、炸弹、清色块等强力道具，
+再配合连锁爆破，轻松清出大片空间、收获高分。
 
-*   **Tap to Blast:** Simply click or tap on a group of two or more identical, adjacent animal blocks to clear them.
+### 游玩策略与通关思路
 
-### Frequently Asked Questions (FAQ)
+1.  **优先寻找大团动物（Look for Large Groups）：**  
+    虽然两格就可以消除，但建议尽量寻找三格甚至更多的连片动物，
+    这样不仅得分更高，还更容易生成强力道具。
+2.  **创造并利用增益道具（Create Boosters）：**  
+    一次消除 5 格以上通常可以获得火箭、炸弹或清色块等特殊道具，
+    这些道具是突破后期难关的关键。
+3.  **组合道具制造大范围爆破（Combine Boosters）：**  
+    将两个相邻的道具一起触发，往往会产生远超单个道具的效果，
+    比如双火箭可以划出超大范围的十字消除，炸弹加清色块则能几乎清空整屏某种颜色。
+4.  **紧盯关卡目标（Prioritize Objectives）：**  
+    不要只顾着追求一次消除越多越好，
+    时刻查看当前关卡是否需要优先清某种动物、打碎冰块或搬走箱子，
+    优先完成目标比盲目刷分更重要。
+5.  **提前规划每一步（Plan Your Moves）：**  
+    步数有限时，随意乱点很容易陷入无解局面。
+    多想一两步，预估当前点击之后会产生怎样的新布局，
+    尝试为后续的大团连消或道具组合创造条件。
 
-*   **Q: What is the goal of Zoo Boom?**
-     *   **A:** The goal is to complete the specific objectives of each level, which usually involve clearing certain types or numbers of animal blocks, or reaching a target score.
+### 操作说明
 
-*   **Q: How do I get special boosters?**
-     *   **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
+*   **点击爆破（Tap to Blast）：** 直接点击（或轻触）两个或以上相邻、同色的动物方块即可将其移除。
 
-*   **Q: What happens if I run out of moves?**
-     *   **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
+### 常见问题（FAQ）
 
+*   **问：Zoo Boom 的通关目标是什么？**  
+    *   **答：** 每一关都有独立的目标，
+        例如收集指定数量的某种动物、清除固定障碍、或在限制步数内达到目标分数。
+
+*   **问：怎样获得特殊道具？**  
+    *   **答：** 一次性消除较大规模的动物方块（例如 5 格以上）时，
+        系统会奖励火箭、炸弹或清色块等道具，规模越大，道具通常越强。
+
+*   **问：步数用完但目标没完成会怎样？**  
+    *   **答：** 如果步数耗尽仍未完成关卡目标，就会判定关卡失败并扣除一条生命，
+        你可以选择重新挑战该关卡，争取下一次走出更高效的路线。

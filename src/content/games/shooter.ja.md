@@ -1,73 +1,53 @@
 ---
-locale: ja
+title: Shooter
+description: Shooterはクラシックなアクションシューターです。敵を撃ち、武器をアップグレードし、波を生き残り、射撃をマスターします。
+iframeSrc: 'https://shooter.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+thumbnail: /new-images/shooter.png
 urlstr: shooter
-title: '[JA TRANSLATION NEEDED] Five Nights at Freddy''s Shooter (FNAF Shooter)'
-description: >-
-  [JA TRANSLATION NEEDED] Five Nights at Freddy's Shooter is a horror action
-  game where players fight against animatronic characters from the FNAF
-  universe, using various weapons to survive waves of attacking robots in a
-  shooting gameplay style.
-iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
-thumbnail: /new-images/shooter.jpg
+score: 4.1/5  (1934 votes)
 tags:
-  - horror
-  - shooting
   - action
-score: 4.1/5  (805 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - shooter
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Shooterは、敵の波と戦う直接的なアクションシューターです。武器をアップグレードし、弾薬を管理し、正確に撃ち、できるだけ長く生き残ります。シンプルなゲームプレイ、激しいアクション。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **移動し続ける:" 簡単なターゲットにならないでください。
+2.  **ヘッドショットを狙う:" より多くのダメージ。
+3.  **武器をアップグレード:" ダメージと発射速度に投資します。
+4.  **弾薬を管理:" リロードタイミングを見てください。
+5.  **カバーを使用:" 利用可能な場合。
+
+### 操作ガイド
+
+- WASD/矢印：移動します。
+- マウス/タッチ：狙い、射撃します。
+- R：リロード（該当する場合）。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Five Nights at Freddy's Shooter" is a horror action game where players fight against animatronic characters from the FNAF universe. Use various weapons to survive in shooting gameplay style, defending against waves of attacking robots. The game combines classic FNAF horror elements with fast-paced shooting action.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Weapon Selection**: Familiarize yourself with different weapon characteristics and choose the most effective weapon based on enemy types.
-[JA TRANSLATION NEEDED] 2.  **Aiming Skills**: Practice precise aiming, prioritizing closer or more threatening enemies.
-[JA TRANSLATION NEEDED] 3.  **Ammo Management**: Manage ammunition wisely, avoiding running out of bullets at critical moments.
-[JA TRANSLATION NEEDED] 4.  **Movement Strategy**: Keep moving to avoid enemy attacks and look for cover positions.
-[JA TRANSLATION NEEDED] 5.  **Wave Preparation**: Use intervals between waves to reload and adjust position.
-
-### How to Play
-
-*   **Movement**: Use WASD keys or arrow keys to control character movement.
-*   **Aim**: Use mouse to control aiming direction.
-*   **Shoot**: Click left mouse button to shoot.
-*   **Reload**: Use R key to reload.
-*   **Weapon Switch**: Use number keys or scroll wheel to switch between different weapons.
-
-### Frequently Asked Questions
-
-
-
-
-
-
-
-
-- **Q: How can I improve survival time?**
-### よくある質問
 - **Weapon Switch**: Use number keys or scroll wheel to switch between different weapons.
+
 - **Reload**: Use R key to reload.
-- **Shoot**: Click left mouse button to shoot.
-- **Aim**: Use mouse to control aiming direction.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Movement**: Use WASD keys or arrow keys to control character movement.
-[JA TRANSLATION NEEDED] 1.  **Q: How can I improve survival time?**
+- **Q: エンドレスですか？**  
+  A: 多くのバージョンにはエンドレス生存モードがあります。
+- **Q: 最高の武器は何ですか？**  
+  A: プレイスタイルによって異なります。異なる武器を試してください。
+- **Q: マルチプレイヤーですか？**  
+  A: ほとんどのバージョンはシングルプレイヤーです。
 
-- **Q: What are the pros and cons of different weapons?**
-[JA TRANSLATION NEEDED]     **A**: Keep moving, prioritize defeating dangerous enemies, use cover wisely, and manage ammunition properly.
 
-- **Q: How many waves of enemies are there?**
-[JA TRANSLATION NEEDED] 2.  **Q: What are the pros and cons of different weapons?**
+**A**: Stay calm, prioritize defeating the closest threats, and use terrain advantages to separate enemies.
 
 - **Q: How do I handle multiple enemies attacking simultaneously?**
-[JA TRANSLATION NEEDED]     **A**: Each weapon differs in damage, fire rate, range, and ammo capacity; choose according to the situation.
-[JA TRANSLATION NEEDED] 3.  **Q: How many waves of enemies are there?**
-[JA TRANSLATION NEEDED]     **A**: The game typically contains multiple waves of enemies, with difficulty and enemy count gradually increasing each wave.
-[JA TRANSLATION NEEDED] 4.  **Q: How do I handle multiple enemies attacking simultaneously?**
-[JA TRANSLATION NEEDED]     **A**: Stay calm, prioritize defeating the closest threats, and use terrain advantages to separate enemies.
+
+
+**A**: Stay calm, prioritize defeating the closest threats, and use terrain advantages to separate enemies.

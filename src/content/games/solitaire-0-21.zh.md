@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: solitaire-0-21
-title: '[ZH TRANSLATION NEEDED] Solitaire 0-21'
+title: 《Solitaire 0-21》算术纸牌接龙
 description: >-
-  [ZH TRANSLATION NEEDED] Solitaire 0-21 twists solitaire with math — place
-  cards so row sums stay between 0 and 21, balancing risk and reward.
+  《Solitaire 0-21》是一款把纸牌接龙与数字运算结合在一起的益智游戏。你需要在多行牌列中摆放数字牌，让每一行的累计和始终保持在 0 到 21
+  之间，在风险与收益之间取得平衡。
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/solitaire-0-21.png
 tags:
@@ -16,32 +16,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place number cards to keep running totals within [0, 21]; modifiers (+/‑/×) and special effects complicate planning. Optimal play sequences safe placements while reserving room for spikes.
+《Solitaire 0-21》在纸牌接龙的基础布局上加入了算术约束。你要将数字牌依次放入不同的行中，每一行的“运行总和”都必须保持在 [0, 21] 区间内。一些特殊牌会携带加号、减号或乘号等修饰效果，使得总和变化更加剧烈，规划难度随之提升。想要稳定通关，就需要一边找安全落点，一边为后续可能出现的高数值波动预留空间。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Buffer space: Leave headroom near 21; don’t push totals to edges early.
-2.  [ZH TRANSLATION NEEDED] Modifier timing: Spend multipliers only when totals allow safe absorption.
-3.  [ZH TRANSLATION NEEDED] Row planning: Spread risk across rows; don’t stack volatility in one line.
-4.  [ZH TRANSLATION NEEDED] Hold highs: Park high cards until you can offset with negatives.
-5.  [ZH TRANSLATION NEEDED] Undo discipline: Undo immediately after noticing a boxed‑in row.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **为 21 留足缓冲：** 尽量不要在前期就把某一行堆到接近 21，留出一定“头寸”，以便后面还能承受大牌或倍数牌的冲击。
+2.  **把握修饰牌时机：** 加成、减法或乘法等修饰牌不要乱用，尽量在当前行总和足够安全、或需要压低/抬高时再打出，避免一张牌直接把整行打爆。
+3.  **多行分散风险：** 不要把所有风险都堆在同一行。合理将高波动牌分散到不同的行，让每行都保留一定可调空间。
+4.  **高点数牌先“停一停”：** 在没想好如何处理之前，可以先暂时跳过高数字或高风险牌，等手里出现足够多的负数或修饰牌后，再考虑把它们安置到合适的行。
+5.  **善用撤销：** 一旦发现某一行已经被你操作到几乎无路可走，尽早使用撤销功能回滚，而不是硬着头皮继续往下摆。
 
-- Click/drag to place cards; use undo/hints per UI.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过点击或拖拽来选择摆放数字牌的行；
+- 根据界面提供的撤销、提示等按钮进行相应操作，具体以 UI 提示为准。
 
-- Q: Totals keep busting.
-  
-[ZH TRANSLATION NEEDED]   A: You’re playing too close to 0/21 edges; leave cushion and pace modifiers.
+### 常见问题解答（FAQ）
+*   **问：为什么总是把行数打爆？****
 
-- Q: Best way to use negatives?
-  
-[ZH TRANSLATION NEEDED]   A: Pair with highs to reset headroom on the same row.
+A: You’re playing too close to 0/21 edges; leave cushion and pace modifiers.
+- 答：** 多半是总和太早逼近 0 或 21 的边界。建议在每一行都保留一定缓冲区，同时控制修饰牌节奏，不要一味贪图短期大收益。
 
-- Q: Is luck dominant?
-  
-[ZH TRANSLATION NEEDED]   A: Draws matter, but placement strategy heavily impacts outcomes.
+A: Pair with highs to reset headroom on the same row.
+*   **问：负数牌最好怎么用？****
 
+A: Draws matter, but placement strategy heavily impacts outcomes.
+    *   答：** 负数牌非常适合和高点数牌配合使用，用来在同一行中重置空间，让该行恢复可操作余地。
+*   **问：运气是不是很重要？****
+    *   答：** 抽牌顺序确实会影响难度，但整体成败更多取决于你如何规划每一行的布局和修饰牌使用顺序，策略性的影响非常大。

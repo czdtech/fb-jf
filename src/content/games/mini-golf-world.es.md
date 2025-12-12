@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: mini-golf-world
-title: '[ES] Mini Golf World'
+title: "Mini Golf World - Mundos temáticos de minigolf"
 description: >-
-  [ES] Mini Golf World polishes putt‑putt — read slopes, bank rails, and master
-  pace for playful holes across themed worlds.
+  Mini Golf World pule la experiencia del minigolf: lee pendientes, usa las
+  bandas y domina la fuerza del golpe para superar hoyos creativos en mundos
+  temáticos.
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/mini-golf-world.png
 tags:
@@ -17,35 +18,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Mini Golf World es una colección de circuitos de minigolf muy pulidos, llenos de
+rampas, molinos de viento y raíles con truco. Las buenas puntuaciones dependen
+de controlar con precisión la fuerza del putt, trazar líneas de rebote
+inteligentes y tener paciencia con los obstáculos móviles.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Mini Golf World is a crisp mini‑golf collection with ramps, windmills, and trick rails. Good scores come from precise pace control, smart bank lines, and patient timing on moving hazards.
+1.  Ritmo en el hoyo: cerca del agujero, golpea suave para evitar que la bola
+    haga "lip‑out" y se salga.
+2.  Tiros a banda: utiliza las paredes en ángulos cercanos a 45° para redirigir
+    la bola hacia esquinas y curvas de forma consistente.
+3.  Ciclos de obstáculos: observa al menos un ciclo completo de molinos, puertas
+    o plataformas móviles antes de golpear a través de ellos.
+4.  Mentalidad de dos golpes: muchas veces es mejor preparar un putt corto casi
+    asegurado que forzar un hoyo en uno arriesgado.
+5.  Explorar con la cámara: mueve y acerca la vista para leer pendientes y
+    raíles ocultos antes de ejecutar el golpe.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Cup‑rim pace: Under‑hit near the hole to avoid lip‑outs.
-2.  **[ES]** Bank lines: Use ~45° rails to redirect into corners consistently.
-3.  **[ES]** Hazard cycles: Watch one full cycle before hitting through moving parts.
-4.  **[ES]** Two‑putt logic: Set up a tap‑in instead of risking a wild hole‑in‑one.
-5.  **[ES]** Camera scouting: Pan/zoom to pre‑read slopes and hidden rails.
+- Apunta moviendo el cursor; arrastra hacia atrás para ajustar la potencia y
+  suelta para golpear; reinicia el hoyo si la bola se queda atascada (según
+  versión).
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim with cursor; pull back to set power; release to putt; reset if stuck.
+- P: ¿Por qué la bola se me sale del hoyo?  
+  R: Sueles entrar con demasiada fuerza o con mal ángulo; reduce potencia y
+  ajusta la línea de entrada.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Algún truco general para tiros a banda?  
+  R: Apunta un poco por dentro de los 45° perfectos para compensar la pérdida
+  de velocidad en la pared.
 
-- Q: Why do I rim out?
-
-A: Too much pace or a bad entry angle — slow down and adjust approach.
-
-- Q: Any universal bank tip?
-
-A: Aim slightly inside 45° to compensate for speed loss on rails.
-
-- Q: Is there a stroke limit?
-
-A: Many holes cap strokes; plan two‑putts to stay under par.
-
+- P: ¿Hay límite de golpes?  
+  R: Muchos hoyos tienen un máximo de golpes para mantener el par; planifica
+  pensando en dos putts consistentes en lugar de intentos heroicos.

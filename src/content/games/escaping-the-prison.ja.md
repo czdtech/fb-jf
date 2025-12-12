@@ -1,35 +1,45 @@
 ---
+title: "Escaping the Prison 脱獄大作戦"
+description: "「Escaping the Prison」はヘンリー・スティックミンのポイント＆クリック・アドベンチャー。アイテムとルート（こっそり/強引/合法）を選んで脱獄せよ。複数のエンディングとギャグが待つ。"
+iframeSrc: "https://classroomjq.github.io/escaping-the-prison/"
+thumbnail: "/new-images/escaping-the-prison.jpg"
+urlstr: "escaping-the-prison"
+score: "5.0/5  (1344 votes)"
+tags: ["adventure", "point-and-click"]
+developer: "PuffballsUnited"
+releaseDate: 2025-08-16
 locale: ja
-urlstr: escaping-the-prison
-title: '[JA TRANSLATION NEEDED] Escaping the Prison'
-description: >-
-  [JA TRANSLATION NEEDED] A Henry Stickmin point‑and‑click adventure: choose
-  items and routes (Sneaky/Badass/Legal) to break out, with multiple endings and
-  gags.
-iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
-thumbnail: /new-images/escaping-the-prison.jpg
-tags:
-  - adventure
-  - point-and-click
-score: 5.0/5  (1344 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Escaping the Prison（脱獄大作戦）*は、人気のヘンリー・スティックミン・シリーズの1作です。ヘンリーは刑務所に閉じ込められています。分岐する選択肢とスラップスティック（どたばた喜劇）なアイテムを使って脱獄しましょう。
+ほとんどの選択肢は面白おかしく失敗しますが、いくつかは成功のエンディングへと繋がります。何度も試行錯誤して、すべての失敗パターンとエンディングを見つけるのが楽しみの一つです。
 
-### Overview
-[JA TRANSLATION NEEDED] Henry Stickmin is locked up—use branching choices and slapstick tools to escape. Most options fail hilariously; a few lead to successful endings.
+### 遊び方
 
-### How to Play
-- Pick an item/route when prompted; quick‑time moments require timely clicks.
-- Unlock three main endings (e.g., Sneaky, Badass, Legal) by finding the correct sequences.
-- Revisit scenes to collect all fails and bios if offered.
+*   **選択:** プロンプトが表示されたらアイテムやルートを選びます。クイックタイムイベント（QTE）では、タイミングよくクリックする必要があります。
+*   **エンディング:** 3つの主要エンディング（例：こっそり脱出、強引に脱出、合法的に脱出）を、正しい選択の連続で解放しましょう。
+*   **コレクション:** シーンを再訪して、すべての失敗パターンやキャラクターのバイオ（プロフィール）を集めることができます。
 
-### Controls
-- Mouse: click choices and quick‑time prompts; Space for some interrupts (host dependent).
+### 操作ガイド
 
-### Tips
-- If stuck, explore the other major route branches; many scenes have alternative solutions.
-- Bios (when present) trigger by clicking characters during scenes.
-- Use scene select (if available) to mop up missing fails.
+*   **マウス:** 選択肢やクイックタイムプロンプトをクリック
+*   **スペースキー:** 一部の中断操作（ホストにより異なります）
 
+### 攻略のヒント
+
+*   **行き詰まったら:** 他の主要ルート分岐を探索しましょう。多くのシーンには代替解決策があります。
+*   **バイオ:** シーン中にキャラクターをクリックすると、バイオ（プロフィール情報）がトリガーされます（機能がある場合）。
+*   **シーン選択:** 利用可能な場合、シーン選択機能を使って見逃した失敗パターンを回収しましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: どうやって脱獄するのですか？**
+    *   **A:** 様々なアイテムとルートを試して、正しい選択の組み合わせを見つけましょう。失敗も楽しみの一部です。
+
+*   **Q: エンディングはいくつありますか？**
+    *   **A:** 主要なエンディングは3つ（こっそり、強引、合法）ですが、多数の失敗パターンがあります。
+
+*   **Q: 全部の失敗を見る必要がありますか？**
+    *   **A:** 必須ではありませんが、コレクター要素として楽しめます。各失敗には独自のアニメーションとギャグがあります。

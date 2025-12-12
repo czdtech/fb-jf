@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: drifting-mania
-title: '[ZH TRANSLATION NEEDED] Drifting mania'
+title: "Drifting Mania 顶视漂移狂热"
 description: >-
-  [ZH TRANSLATION NEEDED] Drifting mania tests top‑down drift control — feather
-  throttle, link slides, and master corner rhythm.
+  《Drifting Mania 顶视漂移狂热》是一款俯视视角小体量漂移赛车游戏。通过精细控制油门与
+  车尾甩动，连贯完成弯道漂移并刷出最快单圈成绩。
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/drifting-mania.png
 tags:
@@ -17,23 +17,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle pulses, and tidy exits to chain corners and set clean lap times.
+《Drifting Mania 顶视漂移狂热》是一款轻量级的俯视角漂移游戏，你需要在紧凑的赛道上掌控车
+身侧滑角度、油门点踩频率和弯道出口的收车节奏，以连贯漂移通过连续弯道并刷新单圈成绩。相
+比全 3D 赛车，它更强调“俯视下的路线与节奏感”，适合快速上手又想体验漂移手感的玩家。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Enter slow, exit fast to keep momentum.
-2.  [ZH TRANSLATION NEEDED] Feather throttle for controlled slides.
-3.  [ZH TRANSLATION NEEDED] Link corners by planning exit lines.
-4.  [ZH TRANSLATION NEEDED] Recover early if over‑rotated.
-5.  [ZH TRANSLATION NEEDED] Drill layouts for consistent braking points.
+
+1.  **慢进快出，保留出弯速度：** 入弯时适当降低车速，确保能够稳定进入漂移姿态；出弯时则尽
+    量早一点回正并补油，让直道加速效率最大化。  
+2.  **轻点油门控制侧滑：** 在漂移过程中持续温和“点油”，而不是一脚油门踩死，这样可以更细
+    腻地控制车尾摆动弧度，避免突然失控打转。  
+3.  **提前规划弯与弯之间的衔接：** 对于连续弯道，先想好第一弯出口位置与第二弯切入点的连
+    接路线，避免出一个弯就被送到下一个弯的外侧，导致不得不大幅减速或补救。  
+4.  **一旦过度甩尾要尽早补救：** 感觉车尾已经甩得太大时，立刻收油并反向打方向进行修正，
+    比拖到接近失控再抢救要安全得多。  
+5.  **熟悉赛道布局与刹车点：** 多跑几圈后记住关键刹车点和入弯标记（例如路边物体或线条），
+    让每一次入弯都能在类似节奏下进行，提升整体稳定性。  
 
 ### Controls Guide
 
-- Steer: A/D or Left/Right; Throttle/Brake: W/S or Up/Down.
-- Handbrake (if any): Space for rotation.
+- 转向：A/D 或左右方向键；  
+- 油门/刹车：W/S 或上下方向键；  
+- 手刹（若支持）：空格键用于在低速时拉起甩尾和调整车头方向。  
 
 ### Frequently Asked Questions (FAQ)
 
-- Spinning out? Reduce throttle and counter‑steer sooner.
-- Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
-- Best times? Clean lines beat reckless speed.
+- **Q: 总是打转怎么办？**  
+  **A：** 多半是油门过大或反打方向太慢。尝试在漂移中减少油门输出，并在感觉车尾开始“过头
+  ”时更早反打方向进行修正。  
 
+- **Q: 可以升级或解锁更多车辆吗？**  
+  **A：** 部分版本支持车辆解锁或性能提升，但不管车子多快，最重要的仍然是熟悉路线并保持节
+  奏稳定。  
+
+- **Q: 如何跑出更好的圈速？**  
+  **A：** 相比盲目提高车速，干净的线路和稳定的漂移节奏更重要。尽量减少不必要的滑移和刹车
+  ，让每次出弯都带着良好速度进入下一段直道。  

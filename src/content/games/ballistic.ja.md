@@ -1,94 +1,62 @@
 ---
+title: "Ballistic バリスティック"
+description: "「Ballistic」を完全攻略！ボールを発射してブロックを壊し、画面が埋まる前にハイスコアを目指す、中毒性抜群の物理パズルゲームの戦略とコツを紹介。"
+iframeSrc: "https://ballistic.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+thumbnail: "/new-images/ballistic.jpg"
+urlstr: "ballistic"
+score: "4.3/5  (950 votes)"
+tags: ["puzzle", "arcade", "physics"]
+developer: "Voodoo"
+releaseDate: 2025-08-16
 locale: ja
-urlstr: ballistic
-title: '[JA TRANSLATION NEEDED] Ballistic game'
-description: >-
-  [JA TRANSLATION NEEDED] A guide to the physics-based arcade game Ballistic.
-  Learn how to aim, collect extra balls, use power-ups, and achieve high scores
-  by clearing numbered blocks before they reach the bottom.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
-thumbnail: /new-images/ballistic.jpg
-tags:
-  - puzzle
-  - casual
-score: 4.5/5  (764 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Ballistic（バリスティック）*は、Voodooが開発した、シンプルながら中毒性の高いアーケードパズルゲームです。プレイヤーの目的は、画面の上から降ってくる数字のついたブロックを、ボールを発射して破壊することです。
 
+ゲームプレイはブロック崩しとバブルシューターを組み合わせたようなものです。一度に複数のボールを発射し、それらがブロックに当たって跳ね返ることで、ブロックに書かれた数字（耐久値）を減らしていきます。各ターンの後、ブロックは一段下に降りてきます。ブロックが画面最下部の赤いラインに到達してしまうとゲームオーバーです。また、新しいボールを獲得できるアイテムも登場し、ボールの数を増やして攻撃力を上げることができます。
 
+### ゲーム攻略と戦略
 
-### Detailed Introduction
+ハイスコアを目指すには、常に数手先まで読んでショットを組み立てることが大切です。
 
-[JA TRANSLATION NEEDED] *Ballistic* is a modern, physics-based arcade game that blends strategy, skill, and satisfying action. The player is tasked with a simple yet challenging objective: clear a grid of numbered blocks by shooting a barrage of balls at them before the blocks descend to the bottom of the screen. Each block is marked with a number, indicating how many hits it must sustain before it is destroyed.
+1.  **角度をつけて狙う:** ブロックを一直線に撃つのではなく、壁で反射させて横方向にボールを走らせましょう。浅い角度で撃てば、左右に何度も往復して1ターンで膨大なヒットを稼げます。
+2.  **危険なブロックを優先:** 画面下に近いブロックほど脅威です。数字の大きいブロックが最下段に迫っているなら最優先で削り、画面全体の高さを均す意識を持ちましょう。
+3.  **追加ボールを最優先で回収:** 「+1」アイテムは撃てるボール数を増やす最重要リソースです。多少無理をしてでも軌道を調整し、毎ターン少なくとも1つは拾うよう意識してください。
+4.  **トンネルを作る:** ブロックを縦にくり抜いて狭い通路を作ると、ボールがその内部で跳ね返り続けて大ダメージを与えられます。序盤から縦の穴を意識して削ると後半が楽になります。
+5.  **パワーアップはタイミングよく:** 列をまとめて消すアイテムや、特殊ショットを得られるブロックは温存せず、詰みそうな状況を立て直す切り札として狙い撃ちしましょう。
+6.  **連鎖を設計する:** 1発で終わりではなく、次の反射先まで想像して撃つことが重要です。壁や縦穴を利用したチェーンリアクションが決まれば、一気に盤面を整理できます。
 
-[JA TRANSLATION NEEDED] The core of the game lies in its dynamic physics engine. Players don't just aim directly at blocks; they must strategically plan their shots to create ricochets off walls and other blocks, setting off massive chain reactions. After each shot, the entire grid of blocks moves down one row, increasing the pressure. The game becomes a tense battle of clearing the board efficiently while collecting special items like extra balls and power-ups to enhance your firepower. With its vibrant visuals, smooth controls, and endless replayability, *Ballistic* is designed to be an addictive experience for both casual players and high-score chasers.
+### 操作ガイド
 
-### Gameplay Strategy
+*Ballistic* の操作は非常にシンプルで直感的です。
 
-[JA TRANSLATION NEEDED] Mastering *Ballistic* is about thinking several steps ahead and making every shot count.
+*   **PC / ブラウザ版:**
+    *   **マウスのドラッグ:** 発射方向（角度）を調整します。
+    *   **ドロップ（指を離す）:** ボールを発射します。
+*   **モバイル / タッチスクリーン:**
+    *   **画面スワイプ:** 発射方向を調整します。
+    *   **指を離す:** 発射します。
 
-[JA TRANSLATION NEEDED] 1.  **Aim for Angles, Not Just Blocks:** The key to success is using the walls. Instead of shooting straight at a block, aim your shot so the balls bounce off a side wall and travel horizontally across the top of the grid. This allows your stream of balls to hit multiple blocks multiple times in a single turn.
-[JA TRANSLATION NEEDED] 2.  **Prioritize High-Threat Blocks:** The blocks closest to the bottom are your biggest threat. Always make it a priority to clear the lowest rows first. A high-numbered block near the bottom is a "game over" waiting to happen.
-[JA TRANSLATION NEEDED] 3.  **Collecting Extra Balls is Critical:** The most important item to collect is the "extra ball" (often marked with a "+"). The more balls you can shoot in a single turn, the more damage you can do. Always try to angle your shots to hit these collectibles, as increasing your ball count is the fastest way to gain an advantage.
-[JA TRANSLATION NEEDED] 4.  **Create Tunnels and Gaps:** Focus on clearing a vertical path through the blocks. This creates a "tunnel" where your balls can bounce back and forth repeatedly, hitting blocks multiple times and clearing them much faster.
-[JA TRANSLATION NEEDED] 5.  **Utilize Power-ups Strategically:** Keep an eye out for special power-up blocks. These can provide game-changing boosts, like clearing an entire row or providing a super-powerful shot. Hitting them at the right moment can save you from a losing situation.
-[JA TRANSLATION NEEDED] 6.  **Maximize Chain Reactions:** Plan your shots to not only clear blocks but also to open up paths for subsequent bounces. A well-placed shot can trigger a satisfying cascade of destruction that clears a significant portion of the board.
+### よくある質問 (FAQ)
 
-### Controls Guide
+**1. ブロックの数字は何を意味していますか？**
 
-[JA TRANSLATION NEEDED] The game features intuitive controls that are easy to learn.
+数字はそのブロックを破壊するのに必要な「ヒット数（耐久値）」です。例えば「10」と書かれたブロックは、ボールを10回当てることで壊れます。ゲームが進むほど数字が大きくなり、処理に時間がかかります。
 
-*   **For PC / Web Browser:**
-    - **タッチscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
-    - **マウス:** Click and hold the left mouse button to bring up the aiming guide. Drag the mouse to adjust the angle of your shot. Release the mouse button to fire the balls.
-    - **タッチscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
-[JA TRANSLATION NEEDED]     *   **Mouse:** Click and hold the left mouse button to bring up the aiming guide. Drag the mouse to adjust the angle of your shot. Release the mouse button to fire the balls.
-*   **For Mobile / Touchscreen Devices:**
+**2. どうやってボールを増やせますか？**
 
+ステージ上にある「+1」アイコンを撃ち抜くと、そのターン終了後に発射できるボールが1つ増えます。毎ターン少なくとも1個は確保する意識で軌道を調整すると、終盤の火力が段違いになります。
 
+**3. ブロックが最下段まで来たらどうなりますか？**
 
+どれか1つでもブロックが画面下部の赤いデッドラインに触れた瞬間、ゲームオーバーになります。危険な列を早めに削り、盤面の高さを均一に保つことが重要です。
 
-- **Maximize Chain Reactions:** Plan your shots to not only clear blocks but also to open up paths for subsequent bounces. A well-placed shot can trigger a satisfying cascade of destruction that clears a significant portion of the board.
-- **Utilize Power-ups Strategically:** Keep an eye out for special power-up blocks. These can provide game-changing boosts, like clearing an entire row or providing a super-powerful shot. Hitting them at the right moment can save you from a losing situation.
-- **Create Tunnels and Gaps:** Focus on clearing a vertical path through the blocks. This creates a "tunnel" where your balls can bounce back and forth repeatedly, hitting blocks multiple times and clearing them much faster.
-- **Collecting Extra Balls is Critical:** The most important item to collect is the "extra ball" (often marked with a "+"). The more balls you can shoot in a single turn, the more damage you can do. Always try to angle your shots to hit these collectibles, as increasing your ball count is the fastest way to gain an advantage.
-[JA TRANSLATION NEEDED]     *   **Touchscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
+**4. 各ラウンドは毎回同じ配置ですか？**
 
-### Frequently Asked Questions (FAQ)
+いいえ。ブロックやパワーアップの配置はプレイごとにランダムで変化します。運要素はあるものの、壁を使った角度ショットやトンネル作りなどのテクニックで安定感を高められます。
 
-[JA TRANSLATION NEEDED] **1. What do the numbers on the blocks mean?**
+**5. ハイスコアを出すコツは？**
 
-
-
-
-
-### よくある質問（FAQ）
-    - **Touchscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
-- **For Mobile / Touchscreen Devices:**
-    - **Mouse:** Click and hold the left mouse button to bring up the aiming guide. Drag the mouse to adjust the angle of your shot. Release the mouse button to fire the balls.
-- **For PC / Web Browser:**
-
-
-### よくある質問（FAQ）
-    - **Touchscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
-
-### よくある質問（FAQ）
-[JA TRANSLATION NEEDED] The number on each block represents its "health." It indicates the number of times a ball must hit that block before it is destroyed.
-
-[JA TRANSLATION NEEDED] **2. How do I get more balls to shoot?**
-[JA TRANSLATION NEEDED] You can increase the number of balls in your arsenal by hitting the special "extra ball" collectibles (usually a circle with a "+" inside) that appear on the grid.
-
-[JA TRANSLATION NEEDED] **3. What happens if the blocks reach the bottom of the screen?**
-[JA TRANSLATION NEEDED] If any block touches the bottom line of the play area, the game is over.
-
-[JA TRANSLATION NEEDED] **4. Is every round of the game the same?**
-[JA TRANSLATION NEEDED] No. The placement of blocks and power-ups changes with each new game, ensuring that every round is a fresh and unique challenge.
-
-[JA TRANSLATION NEEDED] **5. What is the best strategy for a high score?**
-[JA TRANSLATION NEEDED] The key to a high score is survival and efficiency. Last as long as possible by strategically clearing blocks, continuously increase your ball count, and use angled shots to create massive chain reactions that clear many blocks at once.
-
-
-
-The key to a high score is survival and efficiency. Last as long as possible by strategically clearing blocks, continuously increase your ball count, and use angled shots to create massive chain reactions that clear many blocks at once.
+最優先は「生存時間の確保」と「追加ボールの確保」です。縦穴を使ってチェーンリアクションを狙い、危険列を抑え込みながらボールの弾幕を増やしていけば、自然とスコアも伸び続けます。

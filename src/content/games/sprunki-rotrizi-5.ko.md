@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: sprunki-rotrizi-5
-title: '[KO] Sprunki Rotrizi 5.0 - Play Sprunki Rotrizi 5.0 Online'
+title: Sprunki Rotrizi 5.0 스프룽키 로트리지 5.0
 description: >-
-  [KO] Sprunki Rotrizi 5.0 is an exhilarating free-to-play music-mixing
-  experience that lets you unleash your creativity and craft electrifying beats.
-  It stands out among Sprunki mods thanks to its advanced distortion algorithms
-  and immersive visuals.
+  Sprunki Rotrizi 5.0은 글리치 효과와 딥 베이스 왜곡을 전면에 내세운 고급형 스프룽키 음악 믹싱 모드입니다. 다층 레이어와
+  강한 왜곡 사운드로 실험적인 전자음악을 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1126764795/embed'
 thumbnail: /sprunki-rotrizi-5.png
 tags:
@@ -16,41 +14,61 @@ score: 4.0/5  (232 votes)
 
 
 
-Are you ready to step into a musical realm filled with cutting-edge sounds and endless possibilities? Sprunki Rotrizi 5.0 is here to blow your mind about music creation! This state-of-the-art music-mixing mod takes the original Rotrizi concept and kicks it up several notches, immersing you in intricate sound layering, trippy glitch effects, and earth-shattering deep bass distortions.
+첨단 사운드와 무한한 가능성으로 가득한 음악 실험실에 들어갈 준비가 되었나요?
+Sprunki Rotrizi 5.0은 기존 Rotrizi 콘셉트를 한 단계 끌어올린 모드로, 복잡한
+레이어링과 글리치, 강렬한 딥 베이스를 마음껏 다뤄 볼 수 있는 스프룽키 버전입니다.
 
-### What's the Deal with Sprunki Rotrizi 5.0?
+### Sprunki Rotrizi 5.0은 어떤 모드인가요?
 
-Imagine yourself as a sound alchemist, and Sprunki Rotrizi 5.0 is your high-tech lab. You get to freely mix and match all sorts of sound elements, from sharp beats to dynamic synth sounds, crafting truly unique musical pieces. The magic of this mod lies in the extreme freedom and experimentation it offers, especially with those mesmerizing glitch effects and deep bass enhancements that give your creations a futuristic and powerful vibe.
+Sprunki Rotrizi 5.0에서 플레이어는 일종의 "사운드 연금술사"입니다.
+날카로운 비트, 다이내믹한 신스, 깊이 왜곡된 베이스까지 다양한 요소를 섞어
+미래적인 전자음악을 만들어 볼 수 있습니다. 특히 글리치 효과와 베이스 강화
+기능이 이 모드의 핵심 특징입니다.
 
-### What Makes Sprunki Rotrizi 5.0 So Addictive?
+### Sprunki Rotrizi 5.0의 중독 포인트
 
-- **Advanced Sound Layering:** Want complexity? No problem! Sprunki Rotrizi 5.0 lets you seamlessly blend multiple audio tracks, building compositions rich in layers and detail.
-- **Play with Glitches & Distortion:** Spice up your mix! Unique digital glitch effects and distortions can instantly inject a futuristic, sci-fi feel into your music – it's seriously cool!
-- **Soul-Shaking Deep Bass:** Ready to feel bass that can shake the ground? The bass enhancement feature in Sprunki Rotrizi 5.0 packs every track with power and punch.
+- **고급 레이어링:**
+  여러 트랙을 자연스럽게 겹쳐 복잡하고 풍부한 구조의 곡을 만들 수 있습니다.
+- **글리치 & 디스토션:**
+  디지털 글리치와 왜곡 효과를 섞어, 단번에 SF풍·실험적인 사운드로 분위기를
+  전환할 수 있습니다.
+- **몸을 울리는 딥 베이스:**
+  저역이 강하게 강조된 사운드로, 헤드폰이나 스피커에서 진짜로 울림을
+  느끼게 해 줍니다.
 
+### Sprunki Rotrizi 5.0 플레이 가이드
 
-### How to Rock This Cool Sprunki Rotrizi 5.0 Thing?
+- **로딩 기다리기:**
+  처음 실행 시 30~45초 정도 로딩이 필요합니다. 많은 사운드 리소스를 불러오는
+  과정이니, 잠시만 기다리면 됩니다.
+- **캐릭터 드래그:**
+  로딩이 끝나면 메뉴에서 캐릭터를 선택해 믹싱 영역으로 드래그해 놓습니다.
+- **조합 바꾸기:**
+  마음에 들지 않는 사운드는 클릭해 제거하고, 다른 캐릭터로 교체해 보세요.
+- **글리치 발동:**
+  오른쪽 클릭과 같은 조작으로 글리치 효과를 활성화하면, 예상치 못한 변형과
+  왜곡이 믹스에 더해집니다.
+- **전체 리셋:**
 
-Starting your sonic experimentation journey is super easy:
-
-- **Patience During Loading:** Firing up the game requires a bit of patience – about 30-45 seconds of loading time is needed to prep all the awesome music elements. Trust me, the wait is totally worth it!
-- **Drag Characters:** Once loaded, use your left mouse button to pick characters from the menu and drop them onto the mixing area.
-- **Try Different Combos:** Not feeling a sound? Just click a character on the stage to remove it and try swapping in something new!
-- **Unleash Glitch Magic:** Want to get wild? Try right-clicking to activate those crazy glitch effects, adding unexpected twists and delightful distortions to your mix!
 - **Reset Everything:** Went a bit too crazy and want a fresh start? Hit the spacebar to clear the stage and begin anew.
+  공간키 등으로 스테이지를 초기화해, 완전히 새로운 조합으로 다시 시도할 수
+  있습니다.
 
+### Sprunki Rotrizi 5.0 플레이 팁
 
-### Some Tips for Playing Sprunki Rotrizi 5.0:
-
-- **Experiment Boldly:** Don't hesitate to try out all sorts of character combinations. You never know what unique sonic sparks might fly!
-- **Make Good Use of Glitches:** Remember to use that right-click for the awesome glitch effects! They can instantly elevate your mix and add an extra layer of excitement.
-- **Embrace the Chaos:** In the world of Sprunki Rotrizi 5.0, the more unpredictable the beats, the more fun it often is! Let loose and enjoy the delightful chaos!
-
+- **과감한 실험:**
+  최대한 다양한 캐릭터 조합을 시도해 보세요. 뜻밖의 조합에서 최고의 사운드가
+  나올 때가 많습니다.
+- **글리치 적극 활용:**
+  글리치 효과를 잘 활용하면 단순한 루프도 한층 살아 있는 느낌으로 바뀝니다.
+- **혼돈을 즐기기:**
 
 ### Where Can You Play Sprunki Rotrizi 5.0?
-
-The great news is that Sprunki Rotrizi 5.0 is completely free and requires no downloads! All you need is a modern web browser to start your remix revolution anytime, anywhere. While it's accessible on mobile browsers too, performance might vary depending on your device.
+  예측하기 어려운 비트와 변형이야말로 이 모드의 묘미입니다. 완벽함보다
 
 ### Wrapping Up:
+  실험 정신에 초점을 맞춰 플레이해 보세요.
 
-Sprunki Rotrizi 5.0 is an exhilarating free-to-play music-mixing experience that lets you unleash your creativity and craft electrifying beats. It stands out among Sprunki mods thanks to its advanced distortion algorithms and immersive visuals. Whether you're a seasoned remix wizard or a budding music enthusiast just starting out, Sprunki Rotrizi 5.0 offers a challenging and fun platform for creation. Join the remix revolution today and push the limits of your musical imagination! If you're eager for more music creation fun, don't forget to check out other Sprunki games like Sprunki Specimen!
+Sprunki Rotrizi 5.0은 설치 없이 브라우저에서 무료로 즐길 수 있는 고 에너지
+음악 믹싱 모드입니다. 전자음악이나 글리치 사운드를 좋아한다면, 이 모드에서
+자신만의 실험적인 트랙을 마음껏 만들어 보세요.

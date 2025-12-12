@@ -1,39 +1,33 @@
 ---
+title: "Crossword Puzzles"
+description: "Crossword Puzzlesはテーマ別のクロスワードを提供します。縦と横のヒントを解いて各グリッドを完成させましょう。"
+iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/"
+thumbnail: "/new-images/crossword-puzzles.jpg"
+urlstr: "crossword-puzzles"
+score: "4.1/5  (697 votes)"
+tags: ["word", "puzzle"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: crossword-puzzles
-title: '[JA TRANSLATION NEEDED] Crossword Puzzles'
-description: >-
-  [JA TRANSLATION NEEDED] Crossword Puzzles offers themed crosswords: solve
-  across and down clues to complete each grid.
-iframeSrc: >-
-  https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
-thumbnail: /new-images/crossword-puzzles.jpg
-tags:
-  - word
-  - puzzle
-score: 4.1/5  (697 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Crossword Puzzlesは、一般的なアメリカンスタイルのルールに従ったテーマ別クロスワードグリッドを特徴としています。縦（Down）と横（Across）の答えを埋めて、すべての文字がクロスチェック（交差確認）されるようにします。テーマは、各パズルのいくつかの長い答えを結びつけます。多くのホストは、デイリーのローテーションとアーカイブを提供しています。
 
+### 遊び方
+- ヒントを選択し、エントリー（マス）を埋めるために入力します。不確かな文字を解決するために、交差（crossing）を使用します。
+- テーマエントリーは通常より長く、統一されたコンセプトを共有します。交差でこれらを解決して、大きなセクションをアンロックします。
 
-### Overview
-[JA TRANSLATION NEEDED] Crossword Puzzles features themed crossword grids that follow common American‑style rules: fill Across and Down answers so every letter cross‑checks. Themes tie together several long answers in each puzzle. Many hosts provide daily rotations and archives. 
+### 操作方法
+- A～Zを入力。矢印キーでナビゲート。バックスペースで削除。エンター/タブで方向を切り替えるか、次のヒントに移動（サイト依存）。
 
-### How to Play
-- Select a clue and type to fill its entry; use crossings to resolve uncertain letters.  
-- Theme entries are usually longer and share a unifying concept—solve these with crossings to unlock large sections. 
+### ヒントと戦略
+- 簡単な穴埋め（fill-in-the-blank）のヒント、複数形、一般的な略語をスキャンしましょう。
+- テーマを活用：パターンを見つけたら、他のテーマ語はより早く解けます。
+- サイトが時間を追跡している場合、確認/表示は控えめに使用しましょう。
 
-### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab toggles direction or moves to next clue (site‑dependent). 
-
-### Tips and Strategies
-- Scan for easy fill‑in‑the‑blank clues, plurals, and common abbreviations.  
-- Leverage the theme: once you see the pattern, other themers fall faster.  
-- Use Check/Reveal sparingly if the site tracks time. 
-
-### FAQ
-- Q: Are the puzzles timed?  
-[JA TRANSLATION NEEDED]   A: Many sites include optional timers and completion stats; check the settings.   
-- Q: Can I play past themes?  
-[JA TRANSLATION NEEDED]   A: Hosts often keep an archive so you can play previous puzzles. 
+### よくある質問 (FAQ)
+- **Q: パズルは時間制限がありますか？**  
+  A: 多くのサイトにはオプションのタイマーと完了統計が含まれています。設定を確認してください。
+- **Q: 過去のテーマをプレイできますか？**  
+  A: ホストは多くの場合アーカイブを保持しているため、以前のパズルをプレイできます。

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: maze-puzzle
-title: '[ES] Maze Puzzle'
+title: "Maze Puzzle - Laberintos compactos con llaves y guardianes"
 description: >-
-  [ES] Maze Puzzle is a clean labyrinth runner — plot shortest paths, bait
-  patrolling guards, and exit with keys under light timers.
+  Maze Puzzle es un runner de laberintos limpio: traza la ruta más corta,
+  tienta a los guardias patrullando y llega a la salida con todas las llaves
+  antes de que se acabe el tiempo.
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/maze-puzzle.png
 tags:
@@ -17,35 +18,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Maze Puzzle ofrece laberintos compactos con llaves, puertas y peligros en
+patrulla ocasionales. Jugar de forma óptima significa encontrar rutas seguras y
+mínimas que recojan las llaves en un orden eficiente mientras evitas callejones
+sin salida y conos de visión enemigos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Maze Puzzle offers compact labyrinths with keys, doors, and occasional patrolling hazards. Optimal play finds safe, minimal routes that collect keys in efficient sequences while avoiding dead ends and patrol cones.
+1.  Orden de llaves: planifica un orden que reduzca al máximo los
+    retrocesos.
+2.  Puntos de referencia: usa baldosas o elementos únicos como referencia para
+    no caer en bucles.
+3.  Provocar patrullas: acércate al límite de su visión para atraer a los
+    guardias y luego cuélate por detrás o por un lateral.
+4.  Poda de callejones: explora ramas solo de forma superficial y abandónalas
+    si ves que no te acercan a nuevas llaves.
+5.  Control del tiempo: no corras a ciegas; la precisión suele ahorrar más
+    tiempo que los movimientos impulsivos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Key ordering: Plan an order that minimizes backtracking.
-2.  **[ES]** Landmarks: Use unique tiles to avoid loops.
-3.  **[ES]** Patrol baiting: Step into edge of vision to lure guards, then slip past.
-4.  **[ES]** Dead‑end pruning: Explore branches shallowly; abandon when they don’t progress keys.
-5.  **[ES]** Timer awareness: Don’t rush — precision saves more time than speed blunders.
+- Movimiento con flechas o WASD; toca para interactuar; reinicia rápidamente
+  desde el menú si necesitas un nuevo intento.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Arrow/WASD movement; tap to interact; restart quickly from menu.
+- P: Me pierdo con facilidad, ¿algún truco?  
+  R: Intenta hacer un mapa mental de los cruces o sigue siempre la pared
+  derecha (o izquierda) cuando el diseño lo permita.
 
-### Frequently Asked Questions (FAQ)
+- P: Los guardias siempre me alcanzan cerca de las puertas.  
+  R: Provócalos mucho antes de acercarte a las puertas; recuerda que abrirlas
+  lleva algo de tiempo.
 
-- Q: I get lost easily — tips?
-
-A: Mentally map junctions, or trace the right‑hand wall when safe.
-
-- Q: Guards catch me near doors.
-
-A: Lure them long before door zones; doors take time to open.
-
-- Q: Are keys reusable?
-
-A: Usually single‑use; check icons.
-
+- P: ¿Las llaves se pueden reutilizar?  
+  R: Normalmente son de un solo uso; fíjate en los iconos del HUD para estar
+  seguro.

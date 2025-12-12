@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: snakes-and-ladders
-title: '[DE] Snakes And Ladders'
+title: "Snakes And Ladders"
 description: >-
-  [DE] Play Snakes and Ladders, the classic board game of chance. Roll the die,
-  climb ladders to get ahead, and watch out for snakes that will slide you back
-  down. Be the first to reach the final square to win this timeless family game.
+  Spiele Snakes and Ladders, das klassische Würfel-Brettspiel: Würfle, klettere
+  Leitern hinauf, rutsche auf Schlangen hinunter und sei als Erster auf dem
+  Zielfeld, um diese zeitlose Familienpartie zu gewinnen.
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/snakes-and-ladders.jpg
 tags:
@@ -17,34 +17,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
-### Game Introduction
+Snakes and Ladders ist ein zeitloser Brettspiel-Klassiker (in manchen Regionen
+ als Chutes and Ladders bekannt) und stammt ursprünglich aus Indien. Mehrere
+ Spieler würfeln reihum und versuchen, als Erste das letzte Feld des Brettes zu
+ erreichen. Leitern bringen dich in einem Zug weit nach vorne, während Schlangen
+ dich schmerzhaft nach unten rutschen lassen – der Ausgang hängt ganz vom Glück
+ deiner Würfe ab.
 
-Snakes and Ladders is a timeless classic board game, also known as Chutes and Ladders in some regions. Originating from ancient India, it's a game of pure luck where players race to be the first to reach the final square on the board. The journey is unpredictable, with ladders helping you climb closer to victory and snakes sliding you back down.
+### Gameplay-Guide
 
-### Gameplay Guide
+Ziel ist es, als Erster das Zielfeld – meist Feld 100 – zu erreichen.
+ Reihum wird mit einem Würfel geworfen und die Spielfigur um die gewürfelte
+ Augenzahl vorgezogen. Landest du auf einem Feld mit Leiterfuß, steigst du
+ sofort zum oberen Ende der Leiter auf. Landest du auf einem Feld mit
+ Schlangenkopf, rutschst du hinunter zum Feld am Schwanzende.
 
-The objective is to be the first player to land on the final square (usually 100). Players take turns rolling a single die and moving their piece that number of spaces. If you land on a square at the base of a ladder, you immediately move up to the square at the top. Conversely, if you land on a square with a snake's head, you must slide down to the square at the snake's tail.
+### Steuerung
 
-### Controls Guide
+- **Maus/Touch:** Tippe oder klicke auf das Würfelfeld, um zu würfeln. Die
+  Spielfiguren bewegen sich automatisch.
 
-- **Mouse/Touch:** Click or tap on the designated area to roll the die. The game will automatically move your piece.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Was ist das Ziel von Snakes and Ladders?**
 
-**What is the main objective of Snakes and Ladders?**
+Als Erster von Feld 1 auf das letzte Feld des Spielplans zu gelangen.
 
-The goal is to be the first person to get their game piece from the starting square (1) to the final square (100).
+**Gibt es Strategie in diesem Spiel?**
 
-**Is there any strategy involved?**
+Im Kern ist es ein reines Glücksspiel – deine Züge sind komplett vom Würfel
+ abhängig. Dadurch eignet es sich besonders für jüngere Spieler und lockere
+ Runden.
 
-Snakes and Ladders is almost entirely a game of luck based on die rolls. There are no decisions to make that can influence the outcome, making it a simple and accessible game for all ages.
+**Was passiert bei einer Sechs?**
 
-**What happens if I roll a six?**
+In vielen Varianten bekommst du bei einer gewürfelten Sechs einen Bonuszug und
+ darfst erneut würfeln.
 
-In many common variations of the rules, rolling a six grants the player an extra turn.
+**Brauche ich einen exakten Wurf, um zu gewinnen?**
 
-**Do I need an exact roll to win?**
-
-This depends on the specific version of the game. In traditional rules, you must roll the exact number to land on the final square. If your roll is too high, you might have to "bounce back" the excess spaces.
-
+Das hängt von der Hausregel ab. Klassisch musst du genau auf das Zielfeld
+ kommen; überzählige Augen lassen dich zurück „prallen“ oder du bleibst stehen,
+ bis ein passender Wurf kommt – das könnt ihr vor der Partie festlegen.

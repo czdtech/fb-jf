@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: tanuki-sunset
-title: '[DE] Tanuki Sunset'
+title: Tanuki Sunset
 description: >-
-  [DE] Grab your longboard and cruise into the sunset in Tanuki Sunset! Play as
-  a cool raccoon and master the art of drifting down scenic, synthwave-themed
-  mountainsides. Perform tricks, avoid cars, and collect Tanuki Bits to become a
-  longboarding legend in this stylish arcade game.
+  Schnapp dir dein Longboard und cruist in Tanuki Sunset dem Sonnenuntergang
+  entgegen: Als Waschbär Tanuki driftest du synthwave-getauchte Serpentinen
+  hinab, machst Tricks, weichst Autos aus und sammelst Tanuki Bits für
+  Highscores.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/tanuki-sunset.jpg
 tags:
@@ -17,39 +17,34 @@ score: 4.5/5  (300 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Tanuki Sunset ist ein Third‑Person‑Longboard‑Spiel mit starkem Synthwave‑Look. Du steuerst den Waschbären Tanuki eine Küstenstraße entlang, driftest Kurven, springst über Rampen und fährst möglichst stylisch, ohne zu crashen.
 
-### Game Introduction
+### Spielanleitung
 
-Tanuki Sunset is a third-person longboarding game where you play as a raccoon named Tanuki, skating down a beautiful, synthwave-inspired coastal mountain range. The game focuses on stylish, flow-based gameplay, rewarding players for performing smooth drifts, big jumps, and near-misses with traffic.
-
-### Gameplay Guide
 
 The main goal is to score as many points as possible before you reach the end of the track or crash.
-- **Drifting:** This is the core mechanic. Drift around every corner and even on straightaways to rack up points.
-- **Tricks:** Go off ramps to perform flips and spins for extra points.
-- **Collecting:** Grab the yellow "Tanuki Bits" to fill your Bonus Roulette meter, which gives you a spin for a massive point bonus.
-- **Near Misses:** Skate dangerously close to cars and other obstacles to get "near miss" points.
+- **Driften:** Herzstück des Spiels – driftet Tanuki sauber durch Kurven oder sogar auf Geraden, steigen deine Punkte.
+- **Tricks:** Über Rampen kannst du Flips und Spins ausführen, um Zusatzpunkte zu kassieren.
+- **Sammeln:** Die gelben „Tanuki Bits“ füllen eine Bonus‑Roulette‑Leiste; ein voller Balken gibt dir einen Spin mit Punktbonus.
+- **Near Misses:** Dicht an Autos und Hindernissen vorbeizuschrammen bringt Extra‑Punkte, ist aber riskant.
 
-### Controls Guide
+### Steuerung
 
-- **Move/Steer:** `A` / `D` or `Left` / `Right Arrow Keys`
-- **Drift:** `Spacebar`
-- **180 Slide / Slow Down:** `S` or `Down Arrow Key`
-- **Speed Stance:** `W` or `Up Arrow Key` (Hold to break through certain obstacles)
+- **Lenken:** `A` / `D` oder `Links` / `Rechts`
+- **Drift:** `Leertaste`
+- **180‑Slide / Bremsen:** `S` oder `Pfeil nach unten`
+- **Speed‑Stance:** `W` oder `Pfeil nach oben` (halten, um bestimmte Hindernisse zu durchbrechen)
 - **Pause:** `Esc`
 
-### Frequently Asked Questions (FAQ)
+### FAQ
 
-**How do I get a high score?**
+**Wie bekomme ich hohe Scores?**  
+Kette möglichst lange Drifts aneinander, nutze jede Rampe für Tricks und sammle alle Tanuki Bits für Bonus‑Spins.
 
-The key to a high score is to link long, continuous drifts together. Try to drift around every corner and perform tricks off every ramp. Collecting all the Tanuki Bits to get a bonus spin is also crucial.
+**Was macht die Bonus‑Roulette?**  
+Ist die Leiste voll, startet ein Roulette – mit etwas Glück bekommst du eine große Punktebelohnung.
 
-**What is the Bonus Roulette?**
-
-When you collect enough Tanuki Bits, a roulette wheel spins at the top of the screen. If it lands on a jackpot, you'll receive a huge number of bonus points.
-
-**Can I customize my raccoon?**
-
-Yes, by earning points and completing objectives, you can unlock new clothing items and longboard parts to customize Tanuki's look.
-
+**Kann ich Tanuki anpassen?**  
+Ja, durch Punkte und erfüllte Aufgaben schaltest du neue Outfits und Board‑Teile frei.

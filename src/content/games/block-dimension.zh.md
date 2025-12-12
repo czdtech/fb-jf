@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: block-dimension
-title: '[ZH TRANSLATION NEEDED] Block Dimension'
+title: Block Dimension 方块维度
 description: >-
-  [ZH TRANSLATION NEEDED] Enter the Block Dimension, a 3D puzzle game that will
-  challenge your spatial awareness. Rotate the structure and fit the blocks
-  perfectly.
+  《Block Dimension 方块维度》是一款视觉现代的 10×10 方块拼图游戏，在棋盘上摆放各种形状的方块，通过横向
+  或纵向消行与连消拿高分，考验的是你的空间想象与前瞻规划能力。
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/block-dimension.png
 tags:
@@ -17,30 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Block Dimension is a captivating puzzle game that takes the classic block-fitting formula into a new dimension. Played on a 10x10 grid, the game challenges you to strategically place blocks of various shapes to clear lines both horizontally and vertically. Unlike traditional block puzzlers, Block Dimension often introduces unique twists and a sleek, modern aesthetic. The goal is to score as many points as possible by clearing lines and creating combos before you run out of space on the board.
+*Block Dimension* 将传统“方块填格”玩法搬到一块 10×10 的棋盘上，并配上简洁、现代的视觉风格。你需要将底部给出的不同形状方块摆放到棋盘中，当任意一整行或一整列被完全填满时，就会被清除，从而获得分数并释放空间。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Think Ahead:** You are typically shown three block shapes at a time. Before placing the first one, visualize how all three could potentially fit on the board. Good planning is key to long-term survival.
-2.  [ZH TRANSLATION NEEDED] **Keep the Board Open:** Avoid creating single, isolated holes in your structure, as they can be very difficult to fill later. Try to keep your stacks relatively flat and open.
-3.  [ZH TRANSLATION NEEDED] **Aim for Combos:** The most effective way to get a high score is by clearing multiple lines (rows or columns) with a single piece. Look for opportunities to set up these chain reactions.
-4.  [ZH TRANSLATION NEEDED] **Don't Rush:** There is no time limit, so take your time to find the optimal placement for each piece. A single bad move can quickly lead to a game over.
-5.  [ZH TRANSLATION NEEDED] **Manage Large Pieces:** Be mindful of the large, awkward pieces like the 3x3 square. If you don't have a good spot for them, they can quickly clog up your board.
+与常见的下落式方块不同，本作没有重力和时间压力，更像是桌面拼图：  
+每一步怎么放完全取决于你自己，而真正的难度在于——如何在有限空间内，**一边为后续形状预留空间，一边通过连消不断刷新棋盘**。
 
-### Controls Guide
+游戏会在任意时刻给出三块待放方块，当这三块中任意一块都再也找不到可用位置时，本局就宣告结束。
 
-*   **Drag and Drop:** Use your mouse to select a block from the holding area and drag it onto the 10x10 grid.
-*   **Place Block:** Release the mouse button to place the block in the highlighted position.
+### 游戏策略与通关思路
 
-### Frequently Asked Questions (FAQ)
+1.  **三块一起看，再决定第一步怎么放**  
+    在落下第一块之前，先在脑中快速模拟：这三块是否都能找到合适落点？是否有一种摆法能同时兼顾三块？优秀的起手往往来自“整体规划”，而不是随缘先放最顺眼的那块。
 
-*   **Q: Can I rotate the blocks?**
-     *   **A:** In most 10x10 style block games, including this one, you cannot rotate the blocks. You must use them in the orientation provided, which is a core part of the challenge.
+2.  **保持棋盘尽量平坦、避免孤立空洞**  
+    尽量不要制造单格小洞或者奇形怪状的凹槽，这些地方往往很难再被任何形状完美填充。让棋盘表面相对平滑，是延长寿命的关键。
 
-*   **Q: How do I clear lines?**
-     *   **A:** A line is cleared when all 10 cells in a horizontal row or a vertical column are filled with blocks. All blocks in that line then disappear, freeing up space.
+3.  **有意识地追求多行连消**  
+    单次消一行固然有用，但真正高效的打法是提前铺好“半成品”，让一块关键拼图能同时完成两行甚至更多行的清除。一次连消不仅得分更多，还能瞬间腾出大面积空间。
 
-*   **Q: What is the best strategy for a high score?**
-     *   **A:** Focus on creating and clearing multiple lines at once. This combo-play gives you significantly more points than clearing single lines. Also, try to play for as long as possible without running out of moves.
+4.  **不要急，有时间就多想一想**  
+    本作没有回合计时，你完全可以停下来好好观察棋盘、琢磨几种不同摆法的后果。很多“突然死局”，往往是因为之前某一步图方便、没多想几秒导致的。
 
+5.  **提早预留给大块的停车位**  
+    像 3×3 方块这类“大块头”是最容易造成崩盘的元凶。如果你把棋盘切得支离破碎，就很难有地方容纳它们。始终在棋盘上保留至少一块足够大的空区，是中后期稳住局面的关键。
+
+5.  **提早预留给大块的停车位**  
+    像 3×3 方块这类“大块头”是最容易造成崩盘的元凶。如果你把棋盘切得支离破碎，就很难有地方容纳它们。始终在棋盘上保留至少一块足够大的空区，是中后期稳住局面的关键。
+
+### 操作指南
+
+*   **拖拽摆放：** 用鼠标选中底部待放区域中的某块方块，拖动到 10×10 棋盘，并在高亮提示出现时松开即可放置。  
+*   **确认落点：** 只有当整块都完全落在空格中时，才算合法位置；无法放置的位置不会出现高亮。
+
+### 常见问题解答（FAQ）
+*   **问：可以旋转方块吗？****
+    *   答：** 和多数 10×10 方块游戏一样，本作通常不允许旋转方块，你只能按给定朝向使用，这也是游戏难度的重要组成部分。
+*   **问：消行的规则是什么？****
+    *   答：** 当横向一整行或纵向一整列的 10 个格子全部被方块占据时，该行 / 列就会被一次性清除，所有该行 / 列上的方块消失，空出位置。
+*   **问：如何更稳定地拿高分？****
+    *   答：** 优先考虑多行连消，同时尽量不要让棋盘出现难以利用的碎片空格。在不急于放块的前提下，多观察、多预判，维持“棋盘干净 + 空间连贯”，你的局就能自然拖得更长，分数也会随之水涨船高。

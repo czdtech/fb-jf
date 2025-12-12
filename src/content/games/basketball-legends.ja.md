@@ -1,131 +1,76 @@
 ---
+title: "Basketball Legends バスケットボール・レジェンド"
+description: "「Basketball Legends」でコートの伝説となれ！レジェンド選手たちを操り、1対1や2対2の対戦、トーナメントを勝ち抜くための完全攻略ガイド。スーパーショットの使い方が勝負を決める。"
+iframeSrc: "https://basketball-legends.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+thumbnail: "/new-images/basketball-legends.png"
+urlstr: "basketball-legends"
+score: "4.8/5  (12543 votes)"
+tags: ["sports", "basketball", "multiplayer"]
+developer: "MadPuffers"
+releaseDate: 2025-08-16
 locale: ja
-urlstr: basketball-legends
-title: '[JA TRANSLATION NEEDED] Basketball Legends'
-description: >-
-  [JA TRANSLATION NEEDED] A complete guide to the arcade sports game Basketball
-  Legends. Learn the controls, strategies for offense and defense, how to use
-  the supershot, and answers to common questions for 1-player and 2-player
-  modes.
-iframeSrc: 'https://webglmath.github.io/basketball-legends/'
-thumbnail: /new-images/basketball-legends.jpg
-tags:
-  - 2-Player
-  - sports
-score: 4.5/5  (832 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Basketball Legends（バスケットボール・レジェンド）*は、MadPuffersが開発した大人気の2Dバスケットボールアーケードゲームです。歴代の有名なプロバスケットボール選手をコミカルにデフォルメしたキャラクターたちを操作し、白熱した試合を繰り広げます。
 
+このゲームの魅力は、スピーディーでアクロバティックなバスケットボール体験です。1対1のデュエル、またはCPUとチームを組んだ2対2の試合を楽しむことができます。「トーナメント」モードでは、勝ち抜き戦で優勝を目指し、「クイックマッチ」では手軽に試合を楽しめます。さらに、1つのキーボードを使って友達と対戦する2人プレイモードも搭載されており、友情（とライバル心）を育むのに最適です。豪快なダンクシュートや、必殺の「スーパーショット」を決めて、観客を沸かせましょう！
 
-### Detailed Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] *Basketball Legends* is a fast-paced, 2D arcade basketball game featuring exaggerated, caricature-style versions of famous basketball players. The game strips away the complexities of a simulation and focuses on pure, action-packed fun. Players can compete in 1-on-1 or 2-on-2 matches where the objective is simple: score more points than your opponent before the timer runs out.
+*Basketball Legends* で勝つためには、「移動」「タイミング」、そして「スーパーショット」を使いこなす戦略性が必要です。
 
-[JA TRANSLATION NEEDED] The gameplay is characterized by high-flying dunks, powerful blocks, and frantic movement. A key feature is the "Super Shot" mechanic: a special, unblockable shot that players can unleash after filling a power meter. With different modes available, including a quick match, a tournament, and a two-player mode, the game is designed for both solo players looking for a challenge and friends wanting to compete against each other on the same keyboard.
+#### オフェンス（攻撃）：
 
-### Gameplay Strategy
+1.  **ダッシュを使え：** 移動キーをダブルタップすると「ダッシュ」します。これがスペースを作る最強の武器です。一瞬でディフェンダーを置き去りにしてダンクを決めるか、ジャンプショットのためにフリーになりましょう。
+2.  **ダンクとシュートの使い分け：**
+    *   **ダンク：** 成功率が高くブロックされにくいですが、ゴールに近づく必要があります。
+    *   **ジャンプシュート：** 遠くから打てますが、ブロックされやすいです。
+    これらを織り交ぜて、相手に的を絞らせないようにしましょう。
+3.  **スーパーショットを極めろ：** 画面下の青いメーターがいっぱいになったらチャンスです！これはブロック不可能な必殺シュートで、確実な得点源となります。既にフリーで簡単にダンクできる時には使わず、相手に徹底マークされている苦しい場面や、逆転の一手として温存しましょう。
+4.  **相棒を使え（2on2）：** 2対2の試合では、一人で戦う必要はありません。ダブルチーム（2人で囲まれる）されたら、フリーの味方にパスを出して楽に得点しましょう。
 
-[JA TRANSLATION NEEDED] Success in *Basketball Legends* is about mastering movement, timing, and the strategic use of your special abilities.
+#### ディフェンス（守り）：
 
-#### On Offense:
+1.  **無駄に跳ぶな：** 適当にジャンプすると隙だらけになり、簡単に抜かれます。相手がシュートを打つ体勢に入った時だけ跳びましょう。
+2.  **ブロックのタイミング：** シュートブロックをするには、相手がジャンプの頂点に達した瞬間に合わせて跳ぶ必要があります。シューターとリングの間に立ち、ボールを叩き落とすタイミングを見極めてください。
+3.  **スティール（ボール奪取）：** 相手がドリブルしている時に「スティール」キーを使うと、ボールを弾き飛ばせます。速攻のチャンスを作るのに有効です。
+4.  **守備でもダッシュ：** 戻りが遅れた時や、相手シューターに距離を詰めたい時は迷わずダッシュを使いましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Use Your Dash:** Dashing (double-tapping a movement key) is the most important tool for creating space. Use it to blow past your defender for an easy dunk or to get open for a jump shot.
-[JA TRANSLATION NEEDED] 2.  **Know When to Dunk vs. Shoot:** A dunk is a high-percentage shot that is difficult to block, but it requires you to be very close to the basket. A jump shot can be taken from further away but is easier for a defender to block. Mix up your attacks to keep your opponent guessing.
-[JA TRANSLATION NEEDED] 3.  **Master the Super Shot:** The Super Shot meter fills as you perform actions like shooting and defending. Once full, unleash it! It's a guaranteed point and can change the momentum of a close game. Don't use it when you're already wide open for an easy dunk; save it for when you're heavily defended.
-[JA TRANSLATION NEEDED] 4.  **Use Your Teammate (2v2):** In a 2-on-2 match, don't forget you have a partner. If you're being double-teamed, pass the ball to your open teammate for an easy score.
+### 操作ガイド
 
-#### On Defense:
+1つのキーボードで2人対戦ができるように配置されています。
 
-[JA TRANSLATION NEEDED] 1.  **Stay Grounded (Mostly):** Don't jump randomly. A poorly timed jump will leave you vulnerable and give your opponent an open lane to the basket. Only jump when you are in a position to block a shot.
-[JA TRANSLATION NEEDED] 2.  **Timing Your Blocks:** To block a shot, you need to jump just as the opponent is at the peak of their jump. Stay between the shooter and the basket and time your leap perfectly to swat the ball away.
-[JA TRANSLATION NEEDED] 3.  **Pump for the Steal:** The "pump" or "steal" action is effective when the opponent is dribbling near you. Use it to knock the ball loose and create a fast-break opportunity.
-[JA TRANSLATION NEEDED] 4.  **Dash on Defense:** Dashing is just as crucial on defense. Use it to quickly get back into position or to close out on a shooter before they can get a shot off.
+#### プレイヤー1（左側）の操作:
+*   **移動:** A / D キー
+*   **ダッシュ:** ADキーをダブルタップ
+*   **シュート / ダンク:** B キー
+*   **スティール / ポンプ:** S キー
+*   **ジャンプ:** W キー
+*   **スーパーショット:** V キー
 
-### Controls Guide
+#### プレイヤー2（右側）の操作:
+*   **移動:** ← / → (左右矢印) キー
+*   **ダッシュ:** 左/右矢印キーをダブルタップ
+*   **シュート / ダンク:** L キー
+*   **スティール / ポンプ:** ↓ (下矢印) キー
+*   **ジャンプ:** ↑ (上矢印) キー
+*   **スーパーショット:** K キー
 
-[JA TRANSLATION NEEDED] The game is well-known for its two-player setup on a single keyboard.
+### よくある質問 (FAQ)
 
-#### Player 1 Controls:
-*   **Movement:** `A` and `D` keys
-*   **Dash:** Double-tap `A` or `D`
-*   **Shoot / Dunk:** `B` key
-*   **Pump / Steal:** `S` key
-*   **Jump:** `W` key
-*   **Super Shot:** `V` key
+**1. どうやってスーパーショットを撃ちますか？**  
+シュートやブロック、スティールなどで画面下の青いゲージを溜め、点滅したら専用キー（P1=`V`、P2=`K`）を押します。ブロック不能の必殺技なので勝負所で使いましょう。
 
-#### Player 2 Controls:
-*   **Movement:** `Left` and `Right Arrow` keys
-*   **Dash:** Double-tap `Left` or `Right Arrow`
-*   **Shoot / Dunk:** `L` key
-*   **Pump / Steal:** `Down Arrow` key
-*   **Jump:** `Up Arrow` key
-*   **Super Shot:** `K` key
+**2. トーナメントで勝つコツは？**  
+勝ち進むほど相手が強くなるため、堅実な守備で失点を抑え、スーパーショットを確実に決めて流れを引き寄せるのがコツです。
 
-### Frequently Asked Questions (FAQ)
+**3. 相手のスーパーショットは止められますか？**  
+いいえ。仕様上ブロックできません。撃たれたら割り切って次の攻撃を準備しましょう。
 
-[JA TRANSLATION NEEDED] **1. How do I perform a Super Shot?**
+**4. キャラクターによって性能差はありますか？**  
+外見やモーションは違いますが、能力差はほぼありません。好きなレジェンドを選んでプレイしてください。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### よくある質問（FAQ）
-- **Super Shot:** `K` key
-- **Jump:** `Up Arrow` key
-- **Pump / Steal:** `Down Arrow` key
-- **Shoot / Dunk:** `L` key
-- **Dash:** Double-tap `Left` or `Right Arrow`
-- **Movement:** `Left` and `Right Arrow` keys
-#### Player 2 コントロール:
-- **Super Shot:** `V` key
-- **Jump:** `W` key
-- **Pump / Steal:** `S` key
-- **Shoot / Dunk:** `B` key
-- **Dash:** Double-tap `A` or `D`
-- **Movement:** `A` and `D` keys
-#### Player 1 コントロール:
-
-
-
-
-
-
-
-### よくある質問（FAQ）
-- **Super Shot:** `K` key
-- **Jump:** `Up Arrow` key
-- **Pump / Steal:** `Down Arrow` key
-- **Shoot / Dunk:** `L` key
-- **Dash:** Double-tap `Left` or `Right Arrow`
-- **Movement:** `Left` and `Right Arrow` keys
-
-### よくある質問（FAQ）
-[JA TRANSLATION NEEDED] You must first fill the blue power bar at the bottom of the screen by playing the game (shooting, stealing, blocking). Once the bar is full and flashing, press the designated Super Shot key (`V` for Player 1, `K` for Player 2) to perform an unblockable special shot.
-
-[JA TRANSLATION NEEDED] **2. What is the best way to win a tournament?**
-[JA TRANSLATION NEEDED] Tournaments require you to win several games in a row against increasingly difficult opponents. The key is consistent defense. Focus on preventing your opponent from scoring, as your own points will come. Save your Super Shot for tie-breaking moments or to secure a lead near the end of the game.
-
-[JA TRANSLATION NEEDED] **3. Why can't I block the Super Shot?**
-[JA TRANSLATION NEEDED] The Super Shot is intentionally designed to be unblockable. It's a reward for skilled play and serves as a powerful comeback mechanic.
-
-[JA TRANSLATION NEEDED] **4. What's the difference between the characters?**
-[JA TRANSLATION NEEDED] While the game features many different characters, their core abilities are generally the same. The differences are mostly cosmetic, allowing you to play as your favorite legend.
-
-[JA TRANSLATION NEEDED] **5. Can I pass the ball in a 2-on-2 match?**
-[JA TRANSLATION NEEDED] In most versions of the game, the "shoot" button (`B` or `L`) acts as a "pass" button when your teammate does not have the ball.
-
-
-
-In most versions of the game, the "shoot" button (`B` or `L`) acts as a "pass" button when your teammate does not have the ball.
+**5. 2対2の試合でパスはどうするのですか？**  
+味方がボールを持っていない時にシュートボタン（`B` または `L`）を押すとパスになります。ダブルチームされたら素早く預けましょう。

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: block-blaster-puzzle
-title: '[ZH TRANSLATION NEEDED] Block Blaster Puzzle'
+title: Block Blaster Puzzle 方块爆破拼图
 description: >-
-  [ZH TRANSLATION NEEDED] Block Blaster Puzzle blends block‑fitting with clears
-  — slot shapes, set up multi‑line blasts, and keep the board breathable.
+  《Block Blaster Puzzle 方块爆破拼图》是一款轻量但很“上头”的格子拼块游戏，拖放各种形状的方块填满行或区域
+  进行消除，提前预留空间、做出多行连消，才能在棋盘不被堵死前活得更久。
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/block-blaster-puzzle.png
 tags:
@@ -15,42 +15,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You’re given sets of pieces to fit onto a grid; completing rows or regions clears space. Success relies on shaping the board to accept awkward pieces later, staging multi‑line clears, and avoiding sealed cavities that cannot be filled.
+*Block Blaster Puzzle* 是一款节奏友好的方块摆放游戏。每一轮你会拿到若干块不同形状的拼图，需要把它们放到棋盘网格上；当某一整行、整列或特定区域被方块完全填满时，这一行 / 区域就会被清空，为接下来的拼放腾出空间。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Edge hygiene: Keep borders smooth to reduce isolated single cells.
-2.  [ZH TRANSLATION NEEDED] Reserve sockets: Leave a few 2×2 or 3‑cell pockets for common awkward pieces.
-3.  [ZH TRANSLATION NEEDED] Multi‑line setups: Build toward double/triple clears to refresh space quickly.
-4.  [ZH TRANSLATION NEEDED] Avoid tall wells: Don’t dig narrow vertical shafts you can’t fill later.
-5.  [ZH TRANSLATION NEEDED] Piece triage: Place the hardest piece first when the board gets crowded.
-6.  [ZH TRANSLATION NEEDED] Use previews: If next pieces are visible, plan sequences instead of single moves.
+想要在棋盘被塞满之前坚持更久，关键不只在于“能放下当前块”，而是要**把棋盘塑造成便于接纳未来棘手形状的版面**，同时设计多行连消，在一瞬间刷新出大量空格。避免制造那些永远塞不进任何方块的“死角空洞”，是通关和刷高分的基础。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Drag shapes onto the grid; rotate if supported by tapping or a rotate button.
-- Undo/Reset are helpful for greedy placements gone wrong.
+1.  **保持棋盘边缘尽量平滑**  
+    凹凸不平的边缘会产生大量孤立单格，很难与常见块型匹配。适当优先填平边缘，可以减少这种“碎格”，让棋盘更利于后续布局。
 
-### Frequently Asked Questions (FAQ)
+2.  **预留 2×2 或 3 格的小口袋**  
+    很多尴尬形状（例如拐弯块或三连块）需要特定空位才能安放。刻意在棋盘上留下几块 2×2 或 L 形空隙，能让你在后期抽到难摆的块时有地方安置。
 
-- Q: I always run out of space—how can I last longer?
-  
-[ZH TRANSLATION NEEDED]   A: Focus on multi‑line clears and keep a couple of flexible pockets open. Place your hardest piece first when the grid is tight.
+3.  **尽量为多行 / 多区域连消做准备**  
+    与其一次只清一行，不如通过布局让两行甚至三行同时完成，从而在一回合中释放大量空间。可以先在多行上逐渐补齐“缺口”，等某块刚好能同时填满几行时再放下。
 
-- Q: Should I keep the board center open or fill edges first?
-  
-[ZH TRANSLATION NEEDED]   A: Keep the center breathable and tidy edges gradually; the center gives the most flexibility for odd shapes.
+4.  **避免挖太深的“竖井”**  
+    棋盘中不宜出现过深又过窄的竖直空道（例如一列剩下很高的空隙），因为很少有块型能完美填满这种“井”，它们往往会成为后期无法利用的废区。
 
-- Q: Rotations feel limited—any workaround?
-  
-[ZH TRANSLATION NEEDED]   A: Not all variants allow rotation. Prioritize symmetric placements and leave pockets to accommodate rigid pieces.
+5.  **先处理最难摆的块**  
+    当棋盘开始变拥挤时，优先考虑那些形状怪异、占格多或只适配少数位置的块。把这些“问题块”先放下，剩下的常规块反而更好安排。
 
-- Q: Are there levels or endless score chase?
-  
-[ZH TRANSLATION NEEDED]   A: Many builds are endless; some offer level goals. Either way, board management is the key skill.
+6.  **如果有下一手预览，一定提前规划**  
+    若界面上能看到接下来几块是什么，不要只考虑当前这块的落点。把几块拼在一起看整体效果，找到既能保证当前不死，又能为之后连消铺路的位置。
 
-- Q: When should I use undo?
-  
-[ZH TRANSLATION NEEDED]   A: Undo early when you notice a placement creates sealed cavities or removes your last flexible pocket.
+### 操作指南
 
+- 用鼠标或手指拖动形状，将其放到棋盘格子中。  
+- 某些版本支持点击或专门的旋转按钮来旋转方块；  
+- 如提供“撤销 / 重置”功能，在你发现某一步明显制造了死角或破坏了关键口袋时，可以尽早撤回。
+
+### 常见问题解答（FAQ）
+*   **问：为什么总是很快就没地方放了？****
+    **答：** 一般是因为你缺乏预留空间的意识，只顾眼前能放下就好。尝试在棋盘上固定保留一到两个可容纳大块或奇形块的空区，同时优先布置能制造多行连消的形状。
+*   **问：该优先保持棋盘中央空还是从边缘开始填？****
+    **答：** 通常建议让中部保持相对开放、边缘逐步变整齐——中心区域提供最高的灵活性，方便你在最后时刻安放难以匹配的块。
+*   **问：有些版本不能旋转块，这怎么破？****
+    **答：** 如果不支持旋转，就更要依赖对称摆放和预留“通用口袋”。尽量避免只适合某一种朝向的奇怪空隙。
+*   **问：这是有关卡目标还是纯粹无尽得分模式？****
+    **答：** 许多版本是无尽模式，也有一些会设置阶段目标。不管是哪一种，核心技能都是“版面管理”和“预判拼块”，这一点是共通的。
+*   **问：撤销功能什么时候用最合适？****
+    **答：** 一旦发现某一步让棋盘出现无法填补的孤立空格，或者占掉了最后一个灵活口袋，就应该立即撤销，改用更保守、留有余地的落点方案。

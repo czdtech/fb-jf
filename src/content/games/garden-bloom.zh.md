@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: garden-bloom
-title: '[ZH TRANSLATION NEEDED] Garden Bloom'
+title: "Garden Bloom 花園綻放"
 description: >-
-  [ZH TRANSLATION NEEDED] Restore a beautiful garden in Garden Bloom! Solve
-  challenging match-3 puzzles, earn stars, and choose from lovely decorations to
-  design the garden of your dreams.
+  在 Garden Bloom 中修復一座被荒廢的花園！完成具有挑戰性的三消關卡來獲得星星，
+  再用它們解鎖任務與裝飾，打造你心目中的夢想花園。
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/garden-bloom.png
 tags:
@@ -19,32 +18,46 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Garden Bloom is a relaxing and creative game that beautifully blends classic match-3 puzzles with garden design and restoration. Players are tasked with transforming a neglected garden back to its former glory. The core of the game involves completing match-3 levels, where you swap colorful flowers and other garden elements to achieve specific goals. Successfully beating a level rewards you with stars, which act as the currency to perform tasks in the garden, such as cleaning up, planting flowers, and placing beautiful decorations.
+《Garden Bloom》是一款結合傳統三消與花園設計／修復要素的療癒系遊戲。
+你要扮演花園的主人，將一座久未打理的庭院一步步整理回昔日風采。
+核心玩法是完成三消關卡：透過交換彩色花朵與其他園藝元素，達成各種關卡目標；
+每通過一關就能獲得星星，用於在花園中清理雜物、種植花卉、擺放裝飾等。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Two-Part Gameplay:**
-    * [ZH TRANSLATION NEEDED] **Match-3 Puzzles:** This is where you earn your stars. Each level has a unique objective (e.g., collect 30 red flowers, clear all the dirt patches) that must be completed in a limited number of moves.
-    * [ZH TRANSLATION NEEDED] **Garden Restoration:** Use the stars you've earned to complete tasks from your to-do list. This involves making design choices and progressively unlocking new areas of the garden.
-2.  [ZH TRANSLATION NEEDED] **Match-3 Strategy:**
-    * [ZH TRANSLATION NEEDED] **Focus on the Objective:** Don't just make random matches. Always prioritize matches that directly help you achieve the level's goal.
-    * [ZH TRANSLATION NEEDED] **Create Power-ups:** Matching more than three items creates powerful boosters. A 4-in-a-row match might create a bee that clears a line, while an L-shape match could create a bomb. Combining these boosters leads to even bigger board-clearing effects.
-    * [ZH TRANSLATION NEEDED] **Plan Your Moves:** Think a step or two ahead. Look for opportunities to set up cascades or special gem combinations. Since moves are limited, every swap counts.
-3.  [ZH TRANSLATION NEEDED] **Garden Design:**
-    * [ZH TRANSLATION NEEDED] As you complete tasks, you will often be given a choice between three different styles for a decoration (e.g., three different types of benches). Choose the one that best fits your vision for the garden!
+
+1.  **雙線核心玩法：**
+    *   **三消解謎：** 這是獲得星星的主要途徑。每關都有具體目標，例如收集指定顏色的花朵、
+        清除泥土格或打碎石塊等，而且都有步數限制。
+    *   **花園修復：** 用通關所得的星星完成待辦任務列表，如整理雜草、修復噴泉、
+        佈置桌椅與燈飾，並一步步解鎖新的花園區域。
+
+2.  **三消策略：**
+    *   **目標優先：** 不要只顧隨意消除，盡量選擇能直接推進任務目標的消除動作。
+    *   **製造強力道具：** 四連消、L 形或 T 形消除通常能生成特殊道具，
+        例如清整行的蜜蜂、範圍炸彈等；兩個道具相鄰一起觸發時，能產生更大範圍的清盤效果。
+    *   **預想後續：** 每一步之前多看一兩步，盡可能設計連鎖反應，
+        在有限步數內完成更多消除。
+
+3.  **花園設計：**
+    *   完成任務後常會給你三種風格的裝飾選項（如三款長椅或三種花壇樣式），
+        你可以自由挑選最符合自己審美的一款，慢慢打造專屬風格的庭院。
 
 ### Controls Guide
 
-*   **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.
-*   **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.
+*   **拼圖模式：** 使用滑鼠或手指交換兩個相鄰的元素（花朵、葉片等），
+    透過點擊拖曳或連續點選完成交換。
+*   **花園模式：** 點擊畫面左下或指定區域的任務清單查看可完成的項目，
+    點擊任務消耗星星，即可自動執行清理或裝飾動作。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I earn stars?**
-     *   **A:** You can only earn stars by successfully completing the match-3 puzzle levels. Each level you beat will typically award you one star.
+*   **問：星星要怎麼取得？**
+    *   **答：** 只有通過三消關卡才能獲得星星，一般每通關一次會給 1 顆星。
 
-*   **Q: What happens if I run out of moves in a puzzle?**
-     *   **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
+*   **問：關卡步數用完又沒完成目標會怎樣？**
+    *   **答：** 視版本而定，多半會失去一點體力／生命值，你可以等待體力恢復，
+        或使用遊戲內貨幣購買額外步數或立即回滿體力。
 
-*   **Q: Can I change the decorations I've chosen for the garden?**
-     *   **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
-
+*   **問：已經選好的裝飾可以更換嗎？**
+    *   **答：** 多數同類遊戲中，裝飾一旦選定就會固定，若想更換通常需要長按或點擊該物件，
+        再花費額外金幣重新選樣，具體規則以實際版本為準。

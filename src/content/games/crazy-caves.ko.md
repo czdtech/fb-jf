@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: crazy-caves
-title: '[KO] Crazy Caves'
+title: Crazy Caves 크레이지 케이브
 description: >-
-  [KO] Enter the Crazy Caves and test your reflexes! Dodge an endless barrage of
-  falling rocks while throwing pickaxes to smash them for valuable gems and
-  gold. Upgrade your gear to survive longer and score higher.
+  끝없이 떨어지는 바위를 피하며 곡괭이를 던져 보석과 금을 캐내는 아케이드 액션 게임 Crazy Caves입니다. 장비를 업그레이드해 더 오래
+  살아남고 최고 점수에 도전해 보세요.
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/crazy-caves.jpg
@@ -18,32 +17,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Crazy Caves는 빠른 속도감과 긴장감을 강조한 아케이드 게임으로, 플레이어의 반사신경과
+생존 능력을 시험합니다. 화면 아래쪽의 광부와 광차를 조종해, 위에서 계속 떨어지는
+각종 크기의 바위를 피해야 합니다. 동시에 곡괭이를 위로 던져 바위를 부수면, 그 안에서
+보석과 금이 떨어져 나오고 이를 모아 장비를 강화할 수 있습니다. 얼마나 오래 버티고
+얼마나 많은 재화를 모으는지가 목표입니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Crazy Caves is a fast-paced, action-packed arcade game that tests your reflexes and survival skills. You control a miner in a cart at the bottom of a dangerous cave where rocks of all sizes are constantly falling. Your mission is twofold: dodge the falling debris to survive, and simultaneously throw pickaxes to smash the rocks, collecting the valuable gems and gold that fall out. Use your earnings to upgrade your equipment and see how long you can last in the chaotic caverns.
+1. **무조건 생존이 우선**  
+   가장 중요한 목표는 절대 맞지 않는 것입니다. 항상 움직이면서 떨어지는 바위의 궤적을
+   주의 깊게 관찰하세요. 단 한 번만 맞아도 즉시 게임이 끝나므로, 몇 개의 보석을 놓치는
+   한이 있어도 피하는 것이 먼저입니다.  
+2. **위협도가 높은 바위부터 처리**  
+   크기가 크거나 속도가 빠른 바위일수록 위협이 큽니다. 곡괭이는 가장 위험한 목표부터
+   집중해 던지고, 상대적으로 작은 바위는 피해서 지나가기도 합니다.  
+3. **안전한 위치에서 채굴 유지하기**  
+   큰 바위 하나만 부수려다 구석에 몰리면 다른 바위를 피하기 어려워집니다. 바위를
+   파괴할 때에도 다음에 이동할 공간을 남겨 두고, 항상 탈출 경로를 확보한 상태에서
+   공격하세요.  
+4. **업그레이드는 공격력과 수익 위주로**  
+   한 판이 끝난 뒤 모은 금과 보석은 업그레이드에 사용합니다. 곡괭이 데미지를 먼저
+   올리면 바위를 더 빨리 부술 수 있어 생존에 직결됩니다. 그 다음에는 수익 관련
+   업그레이드를 올려, 이후 판에서 더 많은 보상을 얻는 “선순환” 구조를 만드는 것이
+   좋습니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Survival First:** Your absolute top priority is to not get hit. Always be moving and keep an eye on the trajectory of all falling rocks. It only takes one hit to end your run.
-2.  **[KO]** **Prioritize Threats:** Some rocks are larger and fall faster, posing a greater threat. Focus your pickaxe throws on the most immediate dangers first.
-3.  **[KO]** **Efficient Mining:** Try to position yourself so that when you destroy a rock, you are in a safe place to continue attacking others. Don't get cornered while trying to break a single large boulder.
-4.  **[KO]** **Upgrade Smartly:** After each run, invest your collected gold and gems wisely. Upgrading your pickaxe damage allows you to destroy rocks faster, which is crucial for survival. Upgrading your income helps you earn more for future upgrades, creating a powerful feedback loop.
+* **이동**: 마우스나 손가락으로 화면 아래 광차를 좌우로 드래그해 움직입니다.  
+* **곡괭이 던지기**: 마우스 왼쪽 버튼을 클릭하거나 화면을 탭하면 위로 곡괭이를 던집니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Move:** Use your mouse or finger to drag your mining cart left and right along the bottom of the screen.
-*   **[KO]** **Throw Pickaxe:** Click the left mouse button or tap anywhere on the screen to throw a pickaxe upwards.
+* **Q: 바위에 맞으면 어떻게 되나요?**  
+  **A:** 한 번이라도 맞으면 그 즉시 게임 오버입니다. 처음부터 새 판을 시작해야 합니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 처음에는 어떤 업그레이드를 우선해야 하나요?**  
+  **A:** 초반에는 곡괭이 공격력을 올려 위협적인 바위를 빠르게 처리할 수 있게 만드는 것이
+  좋습니다. 생존 시간이 길어질수록 자연스럽게 더 많은 보석과 금을 모을 수 있고, 이후에는
+  수익 증가 업그레이드에 투자하면 다음 판에서 업그레이드 속도가 더 빨라집니다.  
 
-*   **[KO]** **Q: What happens if a rock hits me?**
-    *   **[KO]** **A:** The game is over instantly. You will need to start a new run from the beginning.
+* **Q: 아주 큰 바위는 어떻게 상대해야 하나요?**  
 
-*   **[KO]** **Q: What should I focus on upgrading first?**
-    *   **[KO]** **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
+    - **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
 
-*   **[KO]** **Q: How do I deal with the really big boulders?**
-    *   **[KO]** **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
+- **Q: How do I deal with the really big boulders?**
+
+    - **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
+  **A:** 거대한 바위는 여러 번의 타격이 필요합니다. 너무 가까이 다가오기 전에 곡괭이를
+  연속으로 던져 미리 체력을 깎아 두고, 동시에 다른 바위의 낙하도 계속 피해야 합니다.
+  화면 상단에서 내려오기 시작했을 때부터 일찍 타격을 시작하는 것이 중요합니다.  
 

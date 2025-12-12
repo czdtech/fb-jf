@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: breakout
-title: '[DE] Breakout'
+title: "Breakout"
 description: >-
-  [DE] Control the paddle, bounce the ball, and destroy all the bricks in the
-  classic arcade game, Breakout. Learn tips and tricks to master this timeless
-  block-breaker.
+  Steuere das Paddle, pralle den Ball zurück und zerstöre alle Steine im
+  Arcade‑Klassiker Breakout. Lerne Tipps und Tricks, um diesen zeitlosen
+  Block‑Breaker zu meistern.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/breakout.jpg
 tags:
@@ -16,52 +16,70 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+Breakout ist ein einflussreicher Arcade‑Klassiker mit schlichtem, aber
+süchtig machendem Konzept: Du kontrollierst ein horizontales Paddle am unteren
+Bildschirmrand, mit dem du einen Ball nach oben prallen lässt. Oben befindet
+sich eine Wand aus Steinen, die du mit dem Ball nach und nach abräumen musst.
 
+Trifft der Ball einen Stein, verschwindet dieser und du erhältst Punkte. Der
+Ball fliegt anschließend zurück in Richtung Paddle. Lässt du ihn am Paddle
+vorbei fallen, verlierst du ein Leben. Meist verfügst du nur über wenige Leben
+– sind sie aufgebraucht, ist die Partie vorbei.
 
+Je mehr Steine du abräumst, desto schneller wird der Ball und desto
+anspruchsvoller wird das Timing.
 
-### Game Introduction
+### Strategie
 
-Breakout is a classic and highly influential arcade game. The concept is simple yet addictive: the player controls a horizontal paddle at the bottom of the screen, which is used to deflect a bouncing ball upwards. At the top of the screen is a wall of bricks. The objective is to destroy all the bricks by hitting them with the ball.
+- **Winkelkontrolle meistern:** Entscheidend ist, *wo* der Ball dein Paddle
+  trifft.
+    - Mitte des Paddles → relativ gerader, flacher Rückflug.
+    - Außenkanten → scharfe Winkel nach links oder rechts.
+  Wer diese Winkel gezielt nutzt, kann bestimmte Steine anvisieren.
 
-Each time the ball hits a brick, the brick disappears, and the player earns points. The ball then ricochets back down towards the paddle. The player must continuously move the paddle left and right to prevent the ball from falling past it and off the screen. The player is given a limited number of lives (usually three). The game is lost if all lives are gone.
+- **"Tunneling"‑Strategie:** Die effektivste Taktik ist, an einer Seite (ganz
+  links oder rechts) einen Tunnel durch die Steinwand zu schlagen. Gelingt es
+  dir, den Ball hinter die Hauptwand zu bringen, prallt er zwischen Decke und
+  oberen Steinen hin und her und räumt große Bereiche fast von allein.
 
-As more bricks are cleared, the ball often speeds up, increasing the difficulty. The challenge lies in controlling the ball's trajectory and clearing the screen without losing all your lives.
+- **Zentriert bleiben:** Statt panisch den Ecken hinterherzulaufen, halte dein
+  Paddle möglichst nahe der Mitte und bewege dich in kontrollierten,
+  kleinen Schritten. So erreichst du die meisten Flugbahnen rechtzeitig.
 
-### Gameplay Strategy
+- **Geduld beim letzten Stein:** Der letzte verbleibende Block kann frustrierend
+  sein. Konzentriere dich auf dein Paddle und bereite gezielt einen Winkel vor,
+  statt hektische Zufallsschläge zu machen.
 
--   **Master Angle Control:** This is the most crucial skill in Breakout. The direction the ball bounces depends on *where* it hits your paddle.
-    -   Hitting the ball in the **center** of the paddle will send it straight up.
-    -   Hitting the ball on the **edges** of the paddle will send it off at a sharp angle toward the sides. Mastering this allows you to aim for specific bricks.
--   **The "Breakthrough" or "Tunneling" Strategy:** The single most effective strategy is to create a tunnel on one side of the brick wall. Use angled shots to carve a path through the bricks on the far left or right. Once the ball gets *above* the main wall of bricks, it will bounce between the ceiling and the top layer of bricks, clearing large sections automatically and very quickly. This is the key to high scores and efficient level clearing.
--   **Stay Near the Center:** Avoid frantically chasing the ball to the corners of the screen. It's better to make small, controlled movements and try to stay relatively centered. This gives you a better chance to react, no matter which direction the ball comes from.
--   **Patience with the Last Brick:** Often, the most frustrating part of a level is trying to hit the very last brick. Don't panic. Take your time, focus on your paddle position, and try to set up the perfect angled shot to hit it.
+### Steuerung
 
-### Controls Guide
+Breakout wird fast ausschließlich über horizontale Paddle‑Bewegungen gesteuert; die Eingabegeräte unterscheiden sich je nach Plattform nur leicht.
 
-The controls for Breakout are famously simple and vary slightly depending on the platform.
+- **PC/Browser:**  
+    - Pfeiltasten `←`/`→` bewegen das Paddle links/rechts.  
+    - Viele moderne Ports erlauben auch reine Maussteuerung.  
 
--   **PC / Web Browser:**
-    -   **Left/Right Arrow Keys:** Move the paddle left and right.
-    -   **Mouse:** In many modern versions, you can simply move your mouse left and right to control the paddle.
+- **Original‑Arcade:**  
+    - Gespielt wurde mit einem Drehknopf/Spinner, der exakte Paddle‑Bewegungen erlaubt.  
 
--   **Original Arcade:**
-    -   A **rotary dial** or **paddle controller** was used to move the paddle with precision.
+- **Mobile:**  
+    - Am unteren Displayrand tippen und horizontal wischen, um das Paddle zu versetzen.  
 
--   **Mobile Devices:**
-    -   **Touch and Drag:** Tap and drag your finger across the bottom of the screen to move the paddle.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**1. Wie kontrolliere ich genau, wohin der Ball fliegt?**
 
-**1. How can I control where the ball goes?**
-> You control the ball's direction by changing where it makes contact with your paddle. Hitting it with the center of the paddle sends it up vertically. Hitting it with the left side of the paddle sends it to the left, and hitting it with the right side sends it to the right. The further to the edge you hit it, the sharper the angle will be.
+> Indem du steuerst, an welcher Stelle des Paddles er ankommt: Mitte für einen geraden Flug, Außenbereiche für steile Winkel nach links oder rechts.
 
-**2. Why does the ball speed up?**
-> The ball speeding up is a core difficulty mechanic. It happens automatically after a certain number of hits or when you reach a certain color of brick. This keeps the game challenging as you progress through a level.
+**2. Warum wird der Ball im Laufe des Levels schneller?**
 
-**3. What is the best way to clear a level quickly?**
-> Use the "tunneling" strategy. Focus on breaking a hole through one of the side columns of bricks. Once the ball is behind the wall, it will do most of the work for you by bouncing around at the top of the screen.
+> Die zunehmende Geschwindigkeit ist ein Kernbestandteil des Schwierigkeitsgrads – je weniger Steine übrig sind, desto stärker soll dein Reaktionsvermögen gefordert werden.
 
-**4. Are there power-ups in Breakout?**
-> The original classic Breakout did not feature power-ups. However, the game inspired an entire genre of "block-breaker" games, and many of its successors and modern versions (most famously *Arkanoid*) introduced power-ups like multi-ball, a longer paddle, laser cannons, a slower ball, a sticky paddle, etc.
+**3. Wie räume ich ein Level am schnellsten?**
 
+> Baue an einer Seite einen Tunnel nach oben und lass den Ball hinter der Steinwand arbeiten; oben räumt er ganze Reihen quasi automatisch ab.
+
+**4. Gibt es Power‑ups?**
+
+> Das Original‑Breakout hatte keine. Spätere Block‑Breaker wie Arkanoid ergänzten aber Extras wie Multi‑Ball, größere Paddles oder Laser – je nach Version, die du spielst.

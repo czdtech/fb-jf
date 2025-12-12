@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: crocword
-title: '[FR] Crocword'
-description: >-
-  [FR] Crocword is a relaxing word puzzle — connect letters, build words, and
-  clear grids with clever vocabulary.
+title: Crocword
+description: "Crocword est un jeu de mots relaxant\_: relie les lettres pour former des mots et remplir une grille façon mots croisés."
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/crocword.png
 tags:
@@ -16,35 +14,58 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Crocword mélange les mécaniques de mots croisés et de jeux de lettres à
+relier. Un ensemble de lettres est affiché en bas de l’écran et tu dois tracer
+un chemin entre elles pour former des mots valides qui iront se placer dans la
+ grille façon mots croisés.
 
-Crocword blends crossword patterns with letter‑link mechanics. Connect letters to form valid words that fill crossword slots. Bonus words grant coins or hints; difficulty rises with longer, trickier grids.
+Des mots bonus hors grille peuvent te rapporter des pièces ou des indices
+supplémentaires. Les grilles deviennent progressivement plus longues et plus
+complexes.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Fill singular‑fit slots first (rare letter positions).
-2.  **[FR]** Try anagrams of uncovered prefixes/suffixes.
-3.  **[FR]** Use bonus words to stock hints for late game.
-4.  **[FR]** Don’t tunnel — change angles (prefix/middle/suffix) when stuck.
-5.  **[FR]** Build vocabulary lists (common digrams/trigrams) to speed solves.
+1.  **Remplis d’abord les emplacements évidents**  
+    Les cases uniques ou les lettres rares sont souvent de bons points de
+    départ pour deviner le mot complet.
+2.  **Teste des anagrammes**  
+    Quand tu connais quelques lettres, essaie d’en permuter l’ordre mentalement
+    pour trouver d’autres mots possibles.
+3.  **Profite des mots bonus**  
+    Même s’ils ne vont pas dans la grille, les mots bonus te donnent des
+    récompenses utiles pour les niveaux difficiles.
+4.  **Change d’angle quand tu bloques**  
+    Si tu te focalises sur la fin d’un mot, essaie plutôt de deviner son début,
+    ou l’inverse.
+5.  **Enrichis ton vocabulaire**  
+    Crocword est aussi un bon moyen d’apprendre ou réviser des mots : n’hésite
+    pas à noter ceux que tu découvres.
 
-### Controls Guide
+### Commandes
 
-- Drag across letters to form words; release to submit.
-- Use hints to reveal letters/words sparingly.
+- **Former un mot** : fais glisser ton doigt ou ta souris sur les lettres dans
+  l’ordre voulu, puis relâche pour valider.  
+- **Indices** : utilise les boutons d’aide pour révéler une lettre ou un mot
+  complet en échange de pièces.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
+
 
 - Q: A slot seems impossible — help?
-
-A: Check crossing letters again; one mistake early can block several words.
+**Q : Un mot semble impossible à trouver, que faire ?**  
 
 - Q: Are proper nouns allowed?
-
-A: Most dictionaries disallow proper nouns; follow the game’s word list.
+R : Vérifie les lettres déjà placées dans la grille : une erreur précédente peut
 
 - Q: Can I replay for bonus words?
+bloquer plusieurs mots à la fois.
 
-A: Yes — revisit earlier grids to farm coins if the mode supports it.
+**Q : Les noms propres sont‑ils acceptés ?**  
+R : La plupart des dictionnaires intégrés n’acceptent pas les noms propres ;
+concentre‑toi sur les mots communs.
 
+**Q : Puis‑je rejouer les anciennes grilles ?**  
+R : Oui, certains modes te laissent revisiter les niveaux pour compléter des
+mots bonus et gagner davantage de pièces.

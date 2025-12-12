@@ -1,12 +1,13 @@
 ---
 locale: fr
 urlstr: splatoon-3
-title: '[FR] Splatoon 3'
+title: 'Splatoon 3'
 description: >-
-  [FR] Dive into the colorful world of Splatoon 3! In this action-packed
-  shooter, cover the territory with your team's ink to claim victory. Transform
-  into a squid to swim through your ink, ambush opponents, and refill your
-  weapon. Master movement and teamwork to dominate the turf.
+  Plonge dans le monde haut en couleur de Splatoon 3 ! Dans ce shooter
+  nerveux, recouvre le terrain avec l’encre de ton équipe pour remporter la
+  victoire. Transforme‑toi en calamar pour nager dans ton encre, tendre des
+  embuscades et recharger ton arme. Maîtrise les déplacements et le jeu
+  d’équipe pour dominer le turf.
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/splatoon-3.jpg
 tags:
@@ -19,37 +20,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-Splatoon 3 is a vibrant and stylish third-person shooter where the goal isn't just to defeat opponents, but to cover the map with your team's colored ink. Players control unique characters called Inklings and Octolings who can instantly switch between a humanoid "kid" form to shoot ink and a "squid" form to swim through it.
+Splatoon 3 est un TPS (third‑person shooter) ultra stylé où l’objectif n’est
+pas seulement de battre les adversaires, mais surtout de recouvrir le sol
+de la carte avec l’encre de ton équipe. Tu incarnes des Inklings et
+Octolings capables de passer instantanément d’une forme humanoïde pour
+tirer de l’encre à une forme de calamar pour nager dedans.
 
-### Gameplay Guide
+### Guide de jeu
 
-The most common game mode is Turf War, a 4v4 battle where the team that covers the highest percentage of the map with their ink in three minutes wins.
-- **Kid Form:** Use this form to run, jump, and fire your ink weapon to cover turf and "splat" opponents.
-- **Squid Form:** Dive into your own ink to become a squid. In this form, you move much faster, can swim up inked walls, and are hidden from enemies. Swimming in ink also reloads your ink tank.
-- **Teamwork:** Coordinate with your team to control key areas of the map and push back the enemy.
+Le mode phare est le **Guerre de territoire** (4v4) : l’équipe qui a
+recouvert le plus de surface de la carte avec sa couleur d’encre au bout de
+3 minutes gagne.  
+- **Forme « kid » :** cours, saute et tire avec ton arme à encre pour
+  couvrir le terrain et « splatter » les adversaires.  
+- **Forme calamar :** plonge dans ton encre pour te transformer en calamar.
+  Tu vas alors beaucoup plus vite, peux grimper des murs recouverts
+  d’encre, deviens difficile à voir et recharges ton réservoir.  
+- **Teamplay :** coordonne‑toi avec ton équipe pour contrôler les zones
+  clés et repousser l’ennemi.
 
-### Controls Guide
+### Commandes
 
-While specific controls can vary, they are generally based on standard shooter layouts:
-- **Movement:** `WASD` or `Arrow Keys`
-- **Shoot Ink:** `Left Mouse Button`
-- **Sub Weapon:** `Right Mouse Button` or `G`
-- **Transform to Squid:** `Shift` or `Spacebar` (Hold to swim)
-- **Jump:** `Spacebar` (when in kid form)
+(Les contrôles exacts dépendent de la version, mais restent proches des
+shooters classiques.)  
+- **Déplacement :** `WASD` ou flèches.  
+- **Tir principal :** clic gauche.  
+- **Sous‑arme :** clic droit ou `G`.  
+- **Transformation en calamar :** `Shift` ou barre d’espace (maintenir pour
+  nager).  
+- **Saut :** barre d’espace en forme humanoïde.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-**What is the main objective?**
+**Quel est l’objectif principal ?**  
+En Guerre de territoire, recouvrir plus de surface avec ton encre que
+l’équipe adverse.
 
-In the primary Turf War mode, the main objective is to cover more of the map's surface with your team's ink color than the opposing team.
+**Que se passe‑t‑il quand je n’ai plus d’encre ?**  
+Tu ne peux plus tirer. Pour recharger, passe en forme calamar et nage
+quelques secondes dans l’encre de ton équipe.
 
-**What happens when I run out of ink?**
-
-You cannot fire your main weapon when your ink tank is empty. To refill it, simply transform into your squid form and swim in your team's ink for a few seconds.
-
-**Is it better to cover turf or splat opponents?**
-
-Both are important! Splatting opponents temporarily removes them from the field, giving your team an opportunity to cover more turf uncontested. However, the ultimate winner is decided by ink coverage, so don't neglect painting the ground.
-
+**Mieux vaut peindre le sol ou éliminer les ennemis ?**  
+Les deux comptent : splatter un adversaire le retire temporairement du
+terrain et te donne une fenêtre pour peindre, mais au final, seule la
+surface recouverte d’encre décide du vainqueur.***

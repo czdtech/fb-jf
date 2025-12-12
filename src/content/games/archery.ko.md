@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: archery
-title: '[KO] Archery World Tour'
+title: 'Archery World Tour 아처리 월드 투어'
 description: >-
-  [KO] Grab your bow and arrow and travel the world in this realistic archery
-  game. Account for wind and distance to hit the bullseye and become a champion.
+  활과 화살을 들고 전 세계의 사격장을 돌며 점수를 겨루는 사실적인 양궁 게임
+  Archery World Tour입니다. 바람과 거리까지 고려해 한가운데를 맞혀 보세요.
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/archery.jpg
@@ -16,32 +16,44 @@ score: 4.4/5  (2700 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Archery World Tour는 현실감을 강조한 양궁 시뮬레이션 게임입니다. 플레이어는
+다양한 배경의 사격장을 여행하며, 과녁 한가운데를 정확히 맞혀 최대한 많은
+점을 얻는 것을 목표로 합니다. 단순히 손이 안정적인 것만으로는 부족하고,
+바람의 방향과 세기, 과녁까지의 거리까지 함께 계산해야 하므로 실제 양궁처럼
+섬세한 조준이 필요합니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **바람 보정하기:** 매 사격 전에 화면의 바람 표시를 확인하세요. 바람의
+    방향과 세기에 따라, 화살이 날아가면서 얼마나 옆으로 밀릴지 달라집니다.
+    보통 바람이 부는 방향의 반대쪽으로 조금 빗겨 조준해야 합니다.
+2.  **중력으로 인한 낙차 고려:** 먼 거리의 과녁을 노릴 때는 화살이 날아가는
+    동안 중력 때문에 조금 아래로 떨어집니다. 이때는 중심보다 살짝 위를 노려
+    조준해야 정확히 가운데에 꽂힙니다.
+3.  **발사 타이밍 잡기:** 일부 버전에서는 조준점이 약간 흔들리기도 합니다.
+    조준선이 가장 안정되고, 자신이 의도한 지점과 겹치는 순간에 활시위를 놓는
+    연습을 해 두면 명중률이 크게 올라갑니다.
+4.  **항상 과녁 중앙(불스아이)을 노리기:** 과녁의 노란색 중앙은 보통 10점으로
+    가장 높은 점수를 줍니다. 조금 빗나가더라도 불스아이 근처에 계속 맞힐 수
+    있도록 감각을 길러 두는 것이 고득점의 핵심입니다.
 
-Archery World Tour is a realistic and challenging archery simulation game. You travel to various scenic locations to compete in archery tournaments. The goal is to score as many points as possible by shooting arrows at a target. Success requires more than just a steady hand; you must also account for environmental factors like wind speed, wind direction, and the distance to the target, making it a true test of skill.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+*   **조준:** 마우스를 움직여 활의 방향을 조절합니다. 커서가 가리키는 위치가
+    화살이 향하는 방향입니다.
+*   **시위 당기기 & 발사:** 마우스 왼쪽 버튼을 누른 채로 활시위를 당기고,
+    충분히 조준이 되었다고 느껴지면 버튼을 놓아 화살을 발사합니다. 버전에
+    따라 파워 게이지나 조준점의 변화로 힘 조절이 표현되기도 합니다.
 
-1.  **[KO]** **Compensate for Wind:** Before each shot, look at the wind indicator. It will show you the direction and strength of the wind. You must aim slightly *against* the wind to counteract its effect on your arrow.
-2.  **[KO]** **Account for Gravity:** For targets at a long distance, your arrow will drop slightly due to gravity. You will need to aim a little bit higher than the bullseye to ensure your arrow hits the center.
-3.  **[KO]** **Timing Your Release:** In some versions, your aim may sway slightly. Wait for the moment your crosshair is perfectly still and aligned with your intended target before releasing the arrow.
-4.  **[KO]** **Aim for the Bullseye:** The center of the target (the yellow circle) is worth the most points (usually 10). Consistent bullseyes are the key to a high score.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+*   **Q: 바람이 불 때는 어떻게 조준해야 하나요?**
+    *   **A:** 바람이 미는 방향의 반대쪽으로 살짝 빗겨 조준하세요. 바람이 강할수록 더 크게 보정해야 합니다.
 
-*   **[KO]** **Aim:** Move your mouse to aim the bow. The cursor will show where the arrow is pointed.
-*   **[KO]** **Draw and Shoot:** Click and hold the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
+*   **Q: 화살이 자꾸 아래를 맞아요. 왜 그런가요?**
+    *   **A:** 중력으로 인한 낙차 때문입니다. 과녁 중앙보다 조금 위를 겨냥하면 떨어지는 만큼이 보정됩니다.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[KO]** **Q: How do I aim with the wind?**
-    *   **[KO]** **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.
-
-*   **[KO]** **Q: Why did my arrow hit low?**
-    *   **[KO]** **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.
-
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.
+*   **Q: 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 제한된 화살 수로 가능한 한 많은 점수를 얻는 것이며, 불스아이에 가까울수록 높은 점수를 확보할 수 있습니다.

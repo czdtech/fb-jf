@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: word-search-2
-title: '[KO] Word Search'
+title: Word Search 워드 서치
 description: >-
-  [KO] The classic word-finding puzzle. Find all the hidden words in the letter
-  grid. Words can be hidden horizontally, vertically, or diagonally—and even
-  backwards!
+  알파벳 격자 속에 숨겨진 단어를 찾는 클래식 워드 서치 퍼즐입니다. 가로, 세로, 대각선, 심지어 거꾸로 숨은 단어까지 모두 찾아 리스트를
+  완성해 보세요.
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/word-search-2.jpg
 tags:
@@ -17,33 +16,49 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Word Search는 문자 격자 속에 숨겨진 단어들을 찾아 표시하는 정통 워드 서치 퍼즐 게임입니다. 화면
+옆이나 아래에 제시된 단어 목록을 보며, 격자에서 해당 단어들을 하나씩 찾아나가는 방식으로 플레이
+합니다. 단어는 가로, 세로, 대각선 방향으로 놓여 있을 수 있고, 앞에서 뒤로뿐 아니라 뒤에서 앞으로도
+배치될 수 있어 세심한 관찰력이 필요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Word Search is a classic and beloved word puzzle game. The objective is to find and mark all the words hidden inside a grid of letters. A list of words is provided, and players must scan the grid to locate them. The words can be placed horizontally, vertically, or diagonally, and can be spelled forwards or backwards, making it a fun challenge for your observation skills.
+1.  **체계적으로 훑기**: 무작정 눈에 들어오는 부분만 보지 말고, 한 줄씩 차례로 스캔하는 습관을
+    들이세요. 가로줄을 왼쪽→오른쪽, 다시 오른쪽→왼쪽으로 살펴본 뒤, 세로줄도 위→아래, 아래→위로
+    같은 방식으로 살펴보면 놓치는 단어가 줄어듭니다.
+2.  **희귀 알파벳 먼저 찾기**: J, Q, X, Z처럼 드문 알파벳이 포함된 단어는 해당 글자를 먼저 격자에서
+    찾은 뒤, 주변을 중심으로 단어를 완성해 보는 것이 효율적입니다.
+3.  **모든 방향을 고려하기**: 단어는 8방향 어디에나 숨을 수 있습니다. 첫 글자를 발견했다면,
+    주변 8칸을 모두 살펴보며 단어가 이어지는지 확인해 보세요.
+4.  **힌트 기능 활용하기**: 아무리 찾아도 보이지 않는 단어가 있다면 힌트를 한 번 사용하는 것도
+    좋습니다. 힌트로 위치를 확인한 뒤, 그 단어가 어떤 방향과 패턴으로 숨어 있었는지 눈에 익혀
+    두면 다음 퍼즐을 푸는 데 도움이 됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Scan Systematically:** Don't just look randomly. Scan the grid row by row, both forwards and backwards, for the first letter of a word on your list. Then do the same for each column.
-2.  **[KO]** **Look for Uncommon Letters:** If a word has an uncommon letter like J, Q, X, or Z, scan the entire grid for that letter first. Since it appears less frequently, it will significantly narrow down the possible locations for that word.
-3.  **[KO]** **Check All Directions:** Remember that words can be hidden in any of the eight directions. Once you find the first letter of a word, check all adjacent letters to see if they continue the word in any direction.
-4.  **[KO]** **Use Hints When Needed:** If you're truly stuck on a word, don't be afraid to use a hint if the game provides one. It will usually reveal the location of the word you're looking for.
+게임은 간단한 드래그 방식으로 진행됩니다.
 
-### Controls Guide
+*   **단어 강조하기**: 찾은 단어의 첫 글자를 클릭한 뒤, 마지막 글자까지 마우스를 드래그해 선택하면
+    해당 단어가 하이라이트되고 리스트에서 체크됩니다.
 
-The game is played with a simple click-and-drag motion.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Highlight a Word:** When you find a word, click on the first letter, hold the mouse button down, and drag your cursor to the last letter of the word. Release the button to confirm the word.
+*   **Q. 단어가 거꾸로도 나오나요?**  
+    **A:** 네, 많은 워드 서치 퍼즐에서 단어는 정방향뿐 아니라 역방향, 위/아래, 대각선까지 다양한
+        방향으로 숨겨질 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+    - **Q. 어떻게 하면 더 빨리 찾을 수 있나요?**  
+    **A:** 단어 목록에서 글자 수가 길거나 독특한 철자를 가진 단어를 먼저 공략해 보세요. 또한,
+        위에서 말한 것처럼 희귀 알파벳을 기준으로 스캔하는 방법도 도움이 됩니다.
 
-*   **[KO]** **Q: Can words be spelled backwards?**
-    *   **[KO]** **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
+*   **Q. 틀린 글자 조합을 선택하면 패널티가 있나요?**  
 
-*   **[KO]** **Q: How do I win the game?**
-    *   **[KO]** **A:** You win by finding and highlighting every single word from the provided list.
+    - **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
 
-*   **[KO]** **Q: Is there a penalty for guessing wrong?**
-    *   **[KO]** **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
+- **Q: Is there a penalty for guessing wrong?**
 
+    - **A:** You win by finding and highlighting every single word from the provided list.
+    **A:** 일반적으로는 없습니다. 단어 리스트에 없는 조합을 선택하면 선택 표시만 사라지고, 다른
+        조합을 다시 시도할 수 있습니다.

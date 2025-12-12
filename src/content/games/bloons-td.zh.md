@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: bloons-td
-title: '[ZH TRANSLATION NEEDED] Bloons TD'
+title: "Bloons TD 气球塔防系列总览"
 description: >-
-  [ZH TRANSLATION NEEDED] Master the art of tower defense in Bloons TD!
-  Strategically place and upgrade powerful monkey towers to pop waves of
-  invading balloons (Bloons) before they overwhelm your defenses.
+  《Bloons TD 气球塔防》系列是一条人气极高的塔防分支，你需要在路径旁布置并升级猴子防御塔，阻止不同能力的
+  气球与飞艇突破防线，通过多塔协同与经济运营完成高难度地图与模式。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
 thumbnail: /new-images/bloons-td.jpg
 tags:
@@ -16,58 +15,80 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+## 游戏介绍
 
-## Game Introduction
+*Bloons TD（Bloons Tower Defense）* 是一条极具代表性的塔防系列。核心玩法十分直观却高度上瘾：**在预设路径旁放置各种“猴子防御塔”，通过升级与搭配阻止一波波 Bloon（气球）冲向终点。**
 
-[ZH TRANSLATION NEEDED] Bloons TD (Tower Defense) is a highly popular series of tower defense games. The core premise is straightforward yet engaging: players must prevent waves of balloons, known as "Bloons," from traversing a set path and reaching the exit. To do this, players strategically place a variety of "monkey towers" along the path.
+每种猴子塔都有不同的攻击方式、射程和升级路径。戳破气球可以获得金钱，用来购买更多塔或升级现有塔。随着回合数上升，会不断出现血量更厚、速度更快或具备特殊能力的气球，让防线压力节节攀升。
 
-[ZH TRANSLATION NEEDED] Each monkey tower has unique abilities, attack styles, and upgrade paths. Popping Bloons earns the player in-game money, which can be used to buy more towers or purchase powerful upgrades for existing ones. The game's challenge escalates as the rounds progress, introducing tougher and more complex Bloon types.
+系列的一些共通特色包括：
 
-[ZH TRANSLATION NEEDED] Key features of the series include:
--   **Diverse Bloons:** Starting from simple red Bloons, players will face multi-layered Bloons (blue, green, yellow, etc.), fast-moving ones, and Bloons with special properties like **Camo** (invisible to most towers), **Lead** (immune to sharp projectiles), **Regrow** (regenerate layers if not popped quickly), and **Fortified** (extra tough).
--   **Massive Blimps:** The ultimate threats are the MOAB-class Bloons (Massive Ornary Air Blimp), which are enormous blimps that absorb huge amounts of damage and release smaller Bloons upon being popped.
--   **Deep Upgrade System:** Most towers have three distinct upgrade paths. Players can only upgrade two of these paths on a single tower, leading to a vast number of strategic combinations and specialized tower roles.
--   **Heroes:** Special, powerful units that level up automatically during a game, providing unique abilities that can turn the tide of a difficult round.
+- **多样化气球：** 从最基础的红气球开始，你会遇到多层颜色气球（蓝、绿、黄等）、高速气球，以及带特殊属性的气球，例如：  
+  - **Camo：** 伪装气球，对没有侦测能力的塔完全隐形。  
+  - **Lead：** 铅气球，对锐器攻击免疫，需要爆炸或特定魔法。  
+  - **Regrow：** 再生气球，如果伤害不够快，会迅速恢复外层。  
+  - **Fortified：** 强化版本，血量显著提升。  
+- **MOAB 级飞艇：** 后期最大的威胁是 MOAB 系飞艇（Massive Ornary Air Blimp），它们血量极厚，被击破后会爆出多层小气球：  
+  - **MOAB（蓝飞艇）：** 破裂后放出多颗 Ceramic 气球。  
+  - **BFB（红飞艇）：** 内含 4 架 MOAB。  
+  - **ZOMG（黑飞艇）：** 内含 4 架 BFB。  
+  - **DDT：** 极快的黑色飞艇，同时具备 Camo / Lead / Black 属性，非常危险。  
+  - **BAD（紫飞艇）：** 最强飞艇，破裂后释放 ZOMG 和 DDT。  
+- **深度升级系统：** 大多数塔拥有三条升级路线，每座塔只能在其中两条上进行升级，形成大量不同的构筑与定位。  
+- **Heroes：** 从中后期作品开始引入的英雄单位，会随回合自动升级并解锁主动技能，是中枢核心之一。  
 
-[ZH TRANSLATION NEEDED] The goal is to survive all the rounds on a given map and difficulty without losing all your lives.
+目标是在指定地图和难度下，在不损失所有生命的情况下坚持到最后一波。
 
-## Gameplay Strategy
+## 游戏策略
 
--   **Early Game is Key:** Start with cost-effective towers. A few upgraded Dart Monkeys or a Tack Shooter placed on a sharp corner can handle the initial waves cheaply, allowing you to save money for more powerful defenses later.
--   **Create a Balanced Defense:** Do not rely on just one type of tower. Your defense must be able to handle all Bloon types. By mid-game, ensure you have:
-     -   **Camo Detection:** A Ninja Monkey, a Sniper Monkey with the right upgrade, or a Monkey Village with Radar Scanner is essential.
-     -   **Lead Popping Power:** Bomb Shooters, Mortar Monkeys, or towers with specific upgrades (e.g., a Boomerang Monkey's Red Hot Rangs) are needed for Lead Bloons.
-     -   **Crowd Control:** Towers that excel at popping large groups of Bloons, like the Tack Shooter, Bomb Shooter, or Wizard Monkey, are crucial for dense waves.
-     -   **MOAB Damage:** As you approach later rounds, you need high-damage towers specifically for MOAB-class Bloons. Super Monkeys, Spike Factories, and certain high-tier upgrades are designed for this.
--   **Tower Synergy is Powerful:** Some towers are designed to boost others. The Monkey Village can provide buffs like increased attack speed and range to all towers within its radius. An Alchemist can throw potions that dramatically increase the damage and attack speed of a nearby tower. Combining these is a core part of high-level strategy.
--   **Map Placement Matters:** Place towers where they can cover the most track. Bends and intersections are ideal spots. Place long-range towers like Sniper Monkeys where they have a clear line of sight across the map.
--   **Invest in Economy:** On harder maps and modes, generating extra income is vital. Banana Farms are towers dedicated solely to producing more money each round, allowing you to afford the most expensive and powerful upgrades.
+- **重视前期：性价比塔先站住脚**  
+  开局优先放置造价低、覆盖面好的塔，比如在转角处放一两只升级后的 Dart Monkey 或 Tack Shooter，既便宜又能稳定撑过前几波，为后期强力塔积攒资金。
 
-## Controls Guide
+- **构建“全面型”防线，而不是只堆一种塔**  
+  单一类型的塔很难应对所有气球：  
+    - 要有能看见 Camo 的塔（如 Ninja、带侦测的 Sniper 或配 Radar Scanner 的 Monkey Village）；  
+    - 要有能打 Lead 的爆炸 / 魔法塔（Bomb Shooter、Mortar、或带火属性的升级）；  
+    - 要有负责清理大量小气球的群伤塔（Tack Shooter、Bomb Shooter、Wizard Monkey 等）；  
+    - 后期还需要专门针对 MOAB 级飞艇的高单体伤害塔（例如 Super Monkey、高级 Spike Factory 等）。  
 
-[ZH TRANSLATION NEEDED] The game is primarily controlled via mouse or touch screen, making it very intuitive.
+- **善用支援塔与增益效果**  
+  某些塔专门用于增强其他塔：  
+    - **Monkey Village：** 可为范围内所有塔提供攻速、射程与侦测等增益，是高端布阵的核心支点之一。  
+    - **Alchemist：** 通过药剂大幅提高周边塔的攻击力与攻速，与单体输出塔构成经典搭配。  
+  高阶玩法几乎离不开这些“加成塔”的配合。  
 
--   **Placing a Tower:** Select a tower from the UI panel (usually on the right or bottom of the screen). Drag it to a valid position on the map and release to place it.
--   **Upgrading a Tower:** Click on a tower you have already placed on the map. This will bring up its upgrade menu. If you have enough money, you can click on an available upgrade to purchase it.
--   **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. Click them to activate their effect.
--   **Hotkeys (PC):** Most towers and upgrades are bound to hotkeys (e.g., Q for Dart Monkey, comma and period for upgrades), allowing for very fast placement and upgrading for experienced players.
+- **地图摆位很关键**  
+  优先把塔放在能覆盖最长路径的位置，如 S 形弯道、交叉点等。射程长的塔（如 Sniper）则要放在视野最佳的位置，保证几乎全图射程。
 
-## Frequently Asked Questions (FAQ)
+- **经营经济：Banana Farm 等收益塔不能忽视**  
+  在困难地图或高回合模式中，只靠戳破气球的金钱往往不够。适当建造 Banana Farm 等经济塔，可以在中后期滚出足够的资金支撑昂贵的终极塔组合。  
 
-[ZH TRANSLATION NEEDED] **1. Why are my towers not attacking certain Bloons?**
-[ZH TRANSLATION NEEDED] > This is usually due to special Bloon properties. If a Bloon is green with a camo pattern, it's a **Camo Bloon**, and only specific towers or towers with a "camo detection" upgrade can see it. If it's a grey, metallic Bloon, it's a **Lead Bloon**, and it's immune to sharp projectiles like darts and tacks. You need explosive or magical attacks to pop it.
+## 操作指南
 
-[ZH TRANSLATION NEEDED] **2. What is a MOAB, BFB, ZOMG, DDT, or BAD?**
-[ZH TRANSLATION NEEDED] > These are all "MOAB-class" blimps that appear in later rounds. They are extremely durable and move slowly. From weakest to strongest:
-[ZH TRANSLATION NEEDED] > - **MOAB** (blue blimp): Contains 4 Ceramic Bloons.
-[ZH TRANSLATION NEEDED] > - **BFB** (red blimp): Contains 4 MOABs.
-[ZH TRANSLATION NEEDED] > - **ZOMG** (black blimp): Contains 4 BFBs.
-- **DDT** (fast, black blimp): Has Camo, Lead, and Black Bloon properties, making it very dangerous.
-- **BAD** (purple blimp): The toughest blimp in the game, contains ZOMGs and DDTs.
+系列大多采用鼠标或触屏操作，逻辑一致：
 
-[ZH TRANSLATION NEEDED] **3. What is the "best" tower in the game?**
-[ZH TRANSLATION NEEDED] > There is no single "best" tower. The strength of Bloons TD lies in its balance and synergy. A tower that is amazing in one situation might be useless in another. The best strategy is to build a diverse team of towers that support each other and cover all weaknesses.
+-   **放置防御塔：** 在界面侧栏选择塔，拖动到地图上合适位置并松开。  
+-   **升级防御塔：** 点击已放置的塔，打开升级菜单，若金钱足够即可购买相应升级。  
+-   **使用主动技能：** 部分高阶塔和英雄拥有主动车能，在界面底部或塔面板上会显示技能按钮，点击即可释放。  
+-   **PC 热键：** 大部分作品支持快捷键放塔与升级（如 Q 选 Dart Monkey，< / > 切换升级路径），熟练使用能显著提高操作速度。  
 
-[ZH TRANSLATION NEEDED] **4. How do I make more money?**
-[ZH TRANSLATION NEEDED] > The primary way is by popping Bloons. For a significant income boost, build and upgrade Banana Farms. Some other towers, like the Alchemist or Monkey Buccaneer, also have upgrade paths that generate money.
+## 常见问题解答（FAQ）
 
+**1. 为什么我的塔对某些气球完全不生效？**  
+一般是因为气球带有特殊属性：  
+> - Camo 气球需要具备侦测能力的塔才能攻击；  
+> - Lead 气球对飞镖、钉子等锐器免疫，只能用爆炸或特定魔法；  
+> - Black 气球对爆炸免疫；  
+> - White 气球对冰冻免疫。  
+需要根据气球类型补充对应的塔或升级。
+
+**2. MOAB / BFB / ZOMG / DDT / BAD 分别是什么？**  
+它们都是后期的 MOAB 级飞艇，从弱到强依次为：MOAB、BFB、ZOMG、DDT、BAD。血量和威胁逐级提升，通常需要专门的对飞艇防线才能应对。
+- **DDT（极速黑色飞艇）：** 同时具备 Camo / Lead / Black 属性，速度极快，若缺少侦测与破铅能力会瞬间漏防。  
+- **BAD（紫色终极飞艇）：** 游戏中最坚固的飞艇，破裂后会一次性释放 ZOMG 与 DDT，需要整套高火力组合才压得住。  
+
+**3. 有没有“最强塔”？**  
+系列的设计更多鼓励组合与协同，没有在任何情况下都完美无敌的单塔。不同地图与模式下，“最优解”通常是若干塔之间的配合，而不是单独堆某一类塔。
+
+**4. 怎么让钱变多？**  
+基础收入来自戳破气球，若想获得显著经济优势，需要建造并升级 Banana Farm 等经济塔，也可以利用部分塔的“生钱”路线（例如 Alchemist、Monkey Buccaneer 等的特定升级）。  

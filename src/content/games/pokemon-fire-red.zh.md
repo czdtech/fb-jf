@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: pokemon-fire-red
-title: '[ZH TRANSLATION NEEDED] Pokemon Fire Red'
+title: "《Pokemon Fire Red》宝可梦 火红版"
 description: >-
-  [ZH TRANSLATION NEEDED] Pokemon Fire Red is a faithful remake of the original
-  Pokémon Red game, where players journey through the Kanto region to catch and
-  train Pokémon, battle Gym Leaders, and thwart the plans of Team Rocket to
-  become the Pokémon League Champion.
+  《Pokemon Fire Red》是初代《宝可梦 红》的忠实重制版，你将在关都地区展开冒险，捕捉与培养宝可梦、挑战八大道馆并挫败火箭队的阴谋，最终成为宝可梦联盟冠军。
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/pokemon-fire-red.jpg
 tags:
@@ -19,32 +16,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Pokemon Fire Red" is a faithful remake of the original "Pokémon Red" game. Players embark on an adventure through the Kanto region, catching and training Pokémon, battling Gym Leaders, and thwarting the plans of Team Rocket with the ultimate goal of becoming the Pokémon League Champion. The game retains the classic storyline and gameplay of the original, with visual and functional enhancements from the GBA era.
+《Pokemon Fire Red》（宝可梦 火红版）是对初代《宝可梦 红》的 GBA 世代重制作品。你将从真新镇出发，以新晋训练家的身份游历关都地区，与劲敌一同成长，一边在各地捕捉宝可梦、强化队伍，一边挑战八大道馆并不断打击邪恶组织火箭队的阴谋，最终向四天王与冠军发起挑战。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Choose Your Starter Pokémon**: At the beginning of the game, select one of three Pokémon—Bulbasaur, Charmander, or Squirtle—as your partner.
-2.  **Catch New Pokémon**: Encounter wild Pokémon in tall grass and other areas, weaken them, and use Poké Balls to catch them, expanding your team.
-3.  **Train and Evolve**: Gain experience through battles to level up your Pokémon, and use Evolution Stones or specific conditions to evolve them, enhancing their strength.
-4.  **Challenge Gyms**: Defeat the eight Gym Leaders and collect all badges, which are necessary to enter the Pokémon League.
-5.  **Confront Team Rocket**: Throughout your adventure, you will repeatedly encounter Team Rocket; thwart their evil schemes.
+1.  **选择你的初始伙伴：** 游戏开局可在妙蛙种子（草）、小火龙（火）和杰尼龟（水）三只御三家中选择一只作为初始伙伴。不同御三家在前中期的体验略有差异，可根据对道馆属性和个人喜好来决定。
+2.  **不断捕捉补强队伍：** 在长草、洞穴和水面上遇到野生宝可梦时，通过削弱其体力并投掷精灵球进行捕捉。建议组建拥有多种属性（如电、超能、地面等）的队伍，以应对不同道馆的克制关系。
+3.  **升级与进化：** 通过战斗获取经验提升等级，让宝可梦学习更强力的技能。部分宝可梦需要使用进化石或通信交换才能进化，合理规划进化时机（例如先学完关键技能再进化）。
+4.  **收集徽章、挑战联盟：** 击败分布在关都地区的八大道馆馆主即可获得徽章，这是获得联盟挑战资格的必要条件；徽章也会提升你的宝可梦等级上限与某些技能的使用权限。
+5.  **与火箭队对抗：** 冒险途中会多次遇到火箭队，包含基地潜入、道馆事件等支线，你需要破坏他们的犯罪计划以推进主线剧情。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Use the arrow keys to control character movement.
-*   **A Button (Confirm/Talk)**: Talk to NPCs, select menu options, confirm battle commands.
-*   **B Button (Cancel/Run)**: Cancel menu selections, hold the B button in some areas to run (requires running shoes).
-*   **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save the game, etc.
-*   **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
+*   **移动：** 使用方向键控制主角在地图上移动。  
+*   **确认 / 对话（A 键）：** 与 NPC 对话、确认菜单与战斗指令。  
+*   **取消 / 奔跑（B 键）：** 取消当前选择；获得跑鞋后长按 B 可以在部分区域快速奔跑。  
+*   **打开菜单（Start 键）：** 查看宝可梦状态、整理背包道具、保存游戏等。  
+*   **注册道具（Select 键）：** 将常用道具（如钓竿、自行车）注册为快捷键，方便一键使用。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What are the starter Pokémon in "Pokemon Fire Red"?**
-     **A**: The starter Pokémon are Bulbasaur (Grass type), Charmander (Fire type), and Squirtle (Water type).
-2.  [ZH TRANSLATION NEEDED] **Q: How do I trade Pokémon in the game?**
-     **A**: Trading requires connecting with another player through the in-game communication feature, usually done at a Pokémon Center.
-3.  [ZH TRANSLATION NEEDED] **Q: Which Legendary Pokémon can be caught in the game?**
-     **A**: In the Kanto region, players can catch Legendary Pokémon such as Moltres, Zapdos, Articuno, and Mewtwo.
-4.  [ZH TRANSLATION NEEDED] **Q: What are the differences between "Fire Red" and "Leaf Green"?**
-     **A**: "Fire Red" and "Leaf Green" are two versions of the same generation of games, with the main differences being the types and encounter rates of some wild Pokémon, as well as dialogue for some NPCs.
+### 常见问题（FAQ）
+
+1.  **问：火红版的御三家分别是什么？**
+    **答：** 分别是妙蛙种子（草系）、小火龙（火系）与杰尼龟（水系），三者的最终进化都拥有相当不错的实力，更多是玩法与手感不同。
+2.  **问：如何在游戏中进行宝可梦交换？**
+    **答：** 正常情况下需要通过游戏内通信功能与另一名玩家在宝可梦中心进行交换，部分宝可梦只有通过通信交换才能进化。
+3.  **问：本作中可以捕捉哪些传说宝可梦？**
+    **答：** 关都地区的三圣鸟——火焰鸟、闪电鸟与急冻鸟，以及最终隐藏在地宫中的超梦，都是本作中可挑战与捕捉的经典传说宝可梦。
+4.  **问：Fire Red 和 Leaf Green 有什么差别？**
+    **答：** 两个版本的主线内容基本一致，主要区别在部分野生宝可梦的出现种类与概率、部分 NPC 对话、以及一些限定宝可梦需要通过版本互换才能集齐全国图鉴。

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: jewel-magic
-title: '[DE] Jewel Magic'
+title: Jewel Magic
 description: >-
-  [DE] Unleash the magic of gems in Jewel Magic, a classic match-3 puzzle game.
-  Match sparkling jewels, create powerful combos, and clear challenging levels
-  in this enchanting adventure.
+  Entfessle die Magie der Edelsteine in Jewel Magic, einem klassischen
+  Match-3-Puzzlespiel. Kombiniere funkelnde Juwelen, erschaffe starke Kombos und
+  meistere herausfordernde Level.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/jewel-magic.png
 tags:
@@ -17,40 +17,75 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jewel Magic ist ein klassisches Match-3-Puzzlespiel, das dich in eine Welt aus
+funkelnden Edelsteinen und magischen Herausforderungen entführt. Du vertauschst
+benachbarte Juwelen, um Reihen aus drei oder mehr gleichen Steinen zu bilden.
+Diese verschwinden, bringen Punkte und öffnen den Weg zu neuen Steinen, die von
+oben nachfallen.
 
+Mit hunderten Leveln und unterschiedlichen Zielen musst du vorausschauend
+spielen, Spezialjuwelen erzeugen und mächtige Kettenreaktionen auslösen, um auch
+schwierige Puzzles zu knacken.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Jewel Magic is a classic and captivating match-3 puzzle game that invites you into a world of sparkling gems and enchanting challenges. The core objective is to swap adjacent jewels to create a line of three or more identical gems, causing them to vanish and score points. With hundreds of levels, each presenting a unique goal, players must think strategically to create powerful special jewels, trigger dazzling chain reactions, and solve every puzzle presented to them.
+1.  **Spezialjuwelen meistern**  
+    Um die härtesten Level zu schaffen, musst du Spezialsteine effektiv nutzen.
+    Sie entstehen, wenn du mehr als drei Juwelen auf einmal verbindest:
 
-### Gameplay Strategy & Walkthrough
+    *   **Blitzjuwel:** Vier Steine in einer Reihe erzeugen ein Juwel, das eine
+        komplette Reihe oder Spalte löscht.
+    *   **Bombenjuwel:** Fünf Steine in L- oder T-Form ergeben eine Bombe, die
+        einen Block von umliegenden Juwelen sprengt.
+    *   **Regenbogenjuwel:** Fünf Steine in einer Linie erzeugen ein
+        Regenbogenjuwel. Tausch es mit einem beliebigen Stein, um alle Juwelen
+        dieser Farbe vom Brett zu entfernen.
 
-1.  **[DE]** **Master the Special Gems:** To pass the toughest levels, you must create and utilize special gems. These are formed by matching more than three jewels at once:
-    *   **[DE]** **Lightning Jewel:** Match 4 jewels in a line to create a jewel that can clear an entire row or column.
-    *   **[DE]** **Bomb Jewel:** Match 5 jewels in an L or T shape to create a bomb that explodes and destroys a block of surrounding jewels.
-    *   **[DE]** **Rainbow Jewel:** Match 5 jewels in a straight line to create a powerful rainbow jewel. Swap it with any adjacent jewel to remove all jewels of that color from the board.
+2.  **Kombinationen ausnutzen**  
+    Die stärksten Züge entstehen, wenn du zwei Spezialsteine miteinander
+    vertauschst – zum Beispiel Bombe + Blitzjuwel für ein großes Kreuzmuster.
+    Probiere verschiedene Kombos aus, um ihre Effekte kennenzulernen.
 
-2.  **[DE]** **Combine for Power:** The ultimate strategy is to combine two special jewels. Swapping a bomb and a lightning jewel, for instance, creates a massive cross-shaped blast. Experiment with different combinations to see their powerful effects.
+3.  **Auf das Levelziel spielen**  
+    Jedes Level hat ein eigenes Ziel: eine Punktzahl erreichen, Gelee hinter
+    den Steinen entfernen oder spezielle Items nach unten fallen lassen.
+    Verschiebe deine Züge dorthin, wo sie direkt am Ziel arbeiten, statt nur
+    zufällig Reihen zu bilden.
 
-3.  **[DE]** **Focus on the Goal:** Each level has a specific objective, such as reaching a target score, clearing all the jelly from behind the jewels, or dropping special items to the bottom. Always focus your efforts on achieving that goal within the limited number of moves.
+4.  **Von unten beginnen**  
+    Matches am unteren Rand des Spielfelds führen häufiger zu Cascades, bei
+    denen neue Juwelen nachfallen und automatisch weitere Reihen bilden. So
+    räumst du das Feld effizienter und erreichst deine Ziele schneller.
 
-4.  **[DE]** **Start from the Bottom:** Making matches at the bottom of the grid increases the chance of causing a cascade, where new jewels fall into place and create automatic matches. This can help you clear the board and reach your goal much faster.
+### Steuerung
 
-### Controls Guide
+Das Spiel wird mit einfachen Maus- oder Touchgesten gesteuert.
 
-The game is controlled using simple mouse or touch gestures.
+*   **Juwelen vertauschen:** Klicke auf einen Stein und ziehe ihn auf einen
+    benachbarten, um die Position zu tauschen. Der Zug wird nur ausgeführt,
+    wenn eine gültige Dreier- (oder größere) Kombi entsteht.
 
-*   **[DE]** **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
+### FAQ
 
-### Frequently Asked Questions (FAQ)
+*   **F: Wie komme ich an Level mit gefrorenen oder gefesselten Juwelen
+    vorbei?**  
+    **A:** Du musst ein Match bilden, an dem der gefrorene oder angekettete
+    Stein beteiligt ist. Dadurch brichst du nach und nach Eis oder Ketten und
+    kannst den Stein später normal nutzen.
 
-*   **[DE]** **Q: How do I get past levels with frozen or chained jewels?**
-    *   **[DE]** **A:** You must make a match that includes the frozen or chained jewel. This will break the ice or the chain, freeing the jewel to be used in future matches.
+    - **F: Wie erziele ich eine besonders hohe Punktzahl?**  
+    **A:** Versuche, möglichst viele Spezialjuwelen zu erzeugen und zu
+    kombinieren. Lange Kettenreaktionen und große Bereiche, die in einem Zug
+    verschwinden, bringen besonders viele Punkte.
 
-*   **[DE]** **Q: What is the best way to get a high score?**
-    *   **[DE]** **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
+*   **F: Was passiert, wenn ich keine Züge mehr habe?**  
 
-*   **[DE]** **Q: What happens when I run out of moves?**
-    *   **[DE]** **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
+    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
 
+- **Q: What happens when I run out of moves?**
+
+    - **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
+    **A:** Wenn du das Levelziel nicht vor Ablauf der verfügbaren Züge
+    erreichst, verlierst du ein Leben und musst das Level von vorn beginnen.

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 248-deluxe-wooden-edition
-title: '[KO] 248 Deluxe Wooden edition'
+title: '248 Deluxe Wooden edition 248 디럭스 우든 에디션'
 description: >-
-  [KO] 248 Deluxe Wooden edition is a calm number‑link puzzler — connect equal
-  tiles, merge values, and manage space.
+  나무 보드 위에서 같은 숫자를 이어 합치고, 공간을 관리하며 목표 숫자를 노리는
+  차분한 숫자 연결 퍼즐입니다.
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
 thumbnail: /new-images/248-deluxe-wooden-edition.jpg
 tags:
@@ -14,29 +14,42 @@ score: 4.0/5  (1764 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+248 Deluxe Wooden edition은 나무 질감의 보드 위에서 즐기는 숫자 합치기 퍼즐입니다.
+서로 인접한 같은 숫자를 선으로 이어 한 칸 위의 숫자로 합치며, 막히지 않도록
+보드의 공간을 관리해야 합니다. 여유로운 분위기 속에서 목표 값에 도전하는
+타입의 게임입니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **큰 숫자는 중앙에, 작은 숫자는 가장자리에:** 높은 숫자 타일은 여러 방향에서
+    이어 붙이기 쉽도록 중앙 쪽에 두고, 낮은 숫자 타일은 가장자리에 두어
+    공급원처럼 활용하세요.
+2.  **연쇄 합치기 설계:** 합치고 싶은 타일 옆에 같은 숫자 타일을 미리 모아 두면
+    한 번의 선 긋기로 연속해서 숫자를 올릴 수 있습니다.
+3.  **모서리에 큰 숫자 가두지 않기:** 모서리에 큰 숫자가 박히면 주변과 연결하기
+    어려워집니다. 코너는 가급적 비워 두거나 작은 숫자만 두세요.
+4.  **막히기 전에 공간 정리:** 큰 합치기를 노리기 전에, 먼저 붐비는 구역을
+    정리해 이동할 수 있는 공간을 확보하는 것이 좋습니다.
+5.  **두 수 앞까지 생각하기:** 바로 눈앞의 합치기뿐 아니라, 그 다음에 어디를
+    정리할지까지 미리 생각해 두면 막판에 보드가 잠기는 일을 줄일 수 있습니다.
 
-248 Deluxe Wooden edition offers tactile number‑merge play on a wooden‑style board. Link adjacent equal numbers to merge upward, creating room and chasing target values without clogging the grid.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 같은 숫자 타일을 규칙에 맞게 드래그해 연결하면 하나의 더 큰 숫자로 합쳐집니다.
+- 게임에 따라 되돌리기나 초기화 기능이 제공될 수 있습니다.
 
-1.  **[KO]** Keep highs central and feeders at edges.
-2.  **[KO]** Chain merges by staging pairs next to target tiles.
-3.  **[KO]** Avoid trapping big numbers in corners.
-4.  **[KO]** Clear space when crowded before chasing large merges.
-5.  **[KO]** Plan two turns ahead to preserve flexibility.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **보드가 너무 빨리 막혀요. 왜 그런가요?**  
+  숫자들을 여기저기 따로 떨어뜨려 두면 서로 연결되기 어려워 금방 막힙니다.
+  큰 숫자로 가는 길을 남겨 두면서 한쪽에 숫자를 모아 두세요.
 
-- Drag across equal numbers to merge per rules.
-- Undo/Reset if provided.
+- **끝이 있는 게임인가요?**  
+  보통은 목표 점수를 향해 계속 도전하는 무한 모드에 가깝습니다. 자신만의 최고
+  기록을 갱신하는 재미로 즐겨 보세요.
 
-### Frequently Asked Questions (FAQ)
-
-- Board locks quickly—why? You’re isolating numbers; maintain lanes.
-- Infinite? Typically endless score‑chasing.
-- Hints? Often available; use sparingly.
-
+- **힌트가 있나요?**  
+  일부 버전에서는 힌트나 추천 연결 기능이 제공되기도 합니다. 다만 난이도를
+  유지하고 싶다면 정말 막혔을 때만 사용하는 편이 좋습니다.

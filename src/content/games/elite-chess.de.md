@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: elite-chess
-title: '[DE] Elite Chess'
+title: "Elite Chess"
 description: >-
-  [DE] Elite Chess focuses your fundamentals — sound openings, clean tactics,
-  and endgame technique to convert advantages.
+  Elite Chess hilft dir, deine Schachgrundlagen zu schärfen – solide Eröffnungen,
+  saubere Taktik und Endspieltechnik, mit denen du Vorteile sicher verwertest.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/elite-chess.png
 tags:
@@ -14,41 +14,57 @@ score: 4.4/5  (2326 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Elite Chess bietet eine schlanke Schacherfahrung gegen anpassbare KI oder einen
+lokalen Gegner. Dein Fortschritt basiert auf drei Säulen: (1)
+Eröffnungsprinzipien – schnelle Entwicklung, Königssicherheit und aktive
+Figurenaufstellung; (2) Mittelspiel-Taktik – Gabeln, Fesselungen, Spieße,
+Entfesselungen und Ablenkungen; (3) Endspiele – aktive Könige, Opposition,
+Grundmattbilder und praxisnahe Turmendspiele. Taktikaufgaben und einstellbare
+Schwierigkeitsgrade helfen dir, Rechentiefe und Mustererkennung aufzubauen.
 
+### Strategie & Leitfaden
 
-### Detailed Game Introduction
+1. **Eröffnungen:** Besetze das Zentrum (Bauern nach e4/d4/c4), entwickle
+   Springer vor Läufern, rochiere früh und verbinde deine Türme.
+2. **Taktik-Check (CCT):** Prüfe vor jedem Zug die drei Kategorien "Checks,
+   Captures, Threats" – also Schachs, Schläge und Drohungen – und suche nach
+   forcierten Zügen.
+3. **Bauernstruktur:** Vermeide unnötige Schwächen wie isolierte, doppelte oder
+   rückständige Bauern. Fixiere gegnerische Schwachpunkte und besetze offene
+   Linien mit Türmen.
+4. **Endspiele:** Aktiviere deinen König, lerne die Grundmattbilder K+Q vs K und
+   K+R vs K, übe einfache König-Bauer-Endspiele mit Opposition und studiere
+   Lucena- und Philidor-Stellungen im Turmendspiel.
+5. **Zeitmanagement:** Bei knapper Bedenkzeit wählst du lieber einfache,
+   gesunde Züge als komplizierte Varianten, die viel Rechenzeit fressen.
 
-Elite Chess provides a streamlined chess experience against scalable AI or a local opponent. Improvement hinges on three pillars: (1) Opening principles — rapid development, king safety, and active piece placement; (2) Middlegame tactics — forks, pins, skewers, discovered attacks, deflections; (3) Endgames — king activity, opposition, basic checkmates, and practical rook endings. Puzzles and adjustable levels help build calculation depth and pattern recall.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Klicke eine Figur an, um ihre legalen Züge hervorzuheben, und dann auf das
+  Zielfeld, um sie zu ziehen.
+- Biete Remis an oder gib auf; passe die KI-Stärke in den Optionen an.
 
-1.  **[DE]** Openings: Occupy the center (pawns e4/d4/c4), develop knights before bishops, castle early, connect rooks.
-2.  **[DE]** Tactics scan: On every move, run “CCT” — Checks, Captures, Threats; look for forcing moves.
-3.  **[DE]** Pawn structure: Avoid unnecessary weaknesses (isolated/doubled/backward pawns); fix targets, seize open files.
-4.  **[DE]** Endgames: Activate your king, study K+Q vs K, K+R vs K, basic king‑pawn opposition, and Lucena/Philidor rook techniques.
-5.  **[DE]** Time management: When low on time, choose simple, healthy moves over deep complications.
+### Kurzlerplan
 
-### Controls Guide
+- 15 Minuten Taktikaufgaben (Gabeln, Fesselungen, Spieße, Entfesselungen).  
+- 10 Minuten Partienachbereitung, in der du grobe Patzer analysierst.  
+- 10 Minuten eine konzentrierte Partie mit einer gezielten Eröffnung spielen.
 
-- Click a piece to highlight legal moves; click a destination to move.
-- Offer draw/resign; set AI strength in the options.
+### Häufige Fragen (FAQ)
 
-### Study Plan (Quick)
+- **F: Wie höre ich auf, ständig Figuren einzustellen?**  
+  **A:** Mach vor jedem Zug einen Blunder-Check: Sind König und ungedeckte
+  Figuren sicher? Danach CCT sowohl für deine als auch für gegnerische Züge
+  durchgehen, um Taktiken zu erkennen.
 
-- 15 min puzzles (forks/pins/skewers/discovered). 10 min review game blunders. 10 min play a focused game with one opening.
+- **F: Mit welchen Eröffnungen soll ich anfangen?**  
+  **A:** Mit Weiß sind z.B. Italienisch (1.e4 e5 2.Nf3 Nc6 3.Bc4) oder Damengambit
+  (1.d4 d5 2.c4) gute Startpunkte. Mit Schwarz funktionieren Caro-Kann oder
+  Sizilianisch gegen 1.e4 und Slawisch/Damengambit-Abtausch gegen 1.d4 sehr
+  solide.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: How do I stop blundering pieces?
-
-A: Before every move, blunder‑check your king and loose pieces; run CCT for both sides to catch tactics.
-
-- Q: Which openings should I start with?
-
-A: For White try Italian (1.e4 e5 2.Nf3 Nc6 3.Bc4) or Queen’s Gambit (1.d4 d5 2.c4). For Black use Caro‑Kann/Sicilian vs 1.e4 and Slav/Queen’s Gambit Declined vs 1.d4.
-
-- Q: What endgames give fastest rating gain?
-
-A: King‑pawn fundamentals and rook endings; they occur most frequently and convert advantages reliably.
-
+- **F: Welche Endspiele bringen mir am schnellsten Elo?**  
+  **A:** König-Bauer-Grundlagen und Turmendspiele – sie kommen in der Praxis am
+  häufigsten vor und helfen dir, Vorteile zuverlässig zu verwerten.

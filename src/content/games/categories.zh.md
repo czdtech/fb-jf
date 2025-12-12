@@ -1,39 +1,58 @@
 ---
 locale: zh
 urlstr: categories
-title: '[ZH TRANSLATION NEEDED] Categories'
-description: >-
-  [ZH TRANSLATION NEEDED] Categories is a quick word‑sorting brainteaser — group
-  items by theme, deduce outliers, and beat the clock.
-iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
+title: Categories 分类猜词
+description: 《Categories 分类猜词》是一款文字与分类结合的益智小游戏，在限定时间或次数内，为给定开头字母想出属于不同分类 的词语。
+iframeSrc: 'https://categories.h5games.usercontent.goog/v/67ofcg5to9hj0/'
 thumbnail: /new-images/categories.png
 tags:
-  - thinky
   - puzzle
-score: 4.0/5  (1855 votes)
+  - word
+score: 3.8/5  (1120 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Categories is a light logic game about sorting items into thematic groups. Identify common links, separate decoys, and solve sets under light timers or move limits.
+*Categories* 的核心玩法类似经典桌游“分类填字”：每一局会给出一个或多个首字母，同时提供若干个类别（例如：动物、水果、国家、职业等），你需要在限定时间或轮数内填入满足条件的单词。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Easy sets first: Lock obvious groups to shrink the search space.
-2.  [ZH TRANSLATION NEEDED] Test swaps: Move borderline items between plausible groups.
-3.  [ZH TRANSLATION NEEDED] Spot decoys: Items that seem to fit many groups are often misleads.
-4.  [ZH TRANSLATION NEEDED] Manage time: Don’t tunnel—cycle candidates quickly.
-5.  [ZH TRANSLATION NEEDED] Confirm with opposites: If two categories are close, define them by what they exclude.
+部分版本会自动根据你输入的单词判断是否合法，并给出分数；也有采取回合制或多人对战的变种，比较谁能在相同条件下想出更多、更新奇的词汇。
 
-### Controls Guide
+> 注：由于本游戏以英文词汇为主，在中文环境中游玩会更适合把它当作英语词汇练习工具使用。  
 
-- Drag items into groups or tap to assign per UI.
-- Undo/Reset where available.
+### 游戏策略与小技巧
 
-### Frequently Asked Questions (FAQ)
+1.  **先解决自己最熟悉的类别**  
+    比如你对动物词汇比较熟，就先在 “Animals” 一栏写满，避免时间耗在不熟悉的类别上导致空白过多。
+
+2.  **善用“词族联想”**  
+    对于某个首字母，可以通过联想相近或同一语场的单词来扩展：例如字母 “C” 下的动物可以从 Cat 开始，联想到 Cow、Camel、Cheetah 等。
+
+3.  **不要在单一空格上纠结太久**  
+    如果在某一分类上卡住，不妨先跳到其他分类，等整体都填写了一遍后再回头补充，有时看到其他词会激发新的联想。
+
+4.  **把它当作词汇积累工具使用**  
+
+- Confirm with opposites: If two categories are close, define them by what they exclude.
+    即使某一局表现不佳，也可以根据系统给出的参考答案或自己的检索来记忆新单词，下局中尝试主动使用这些新学词汇。
+
+### 操作指南
+
+-   **输入单词：** 用键盘在对应分类的输入框中直接键入单词，按回车或确认键提交。  
+-   **提交整局：** 在时间结束前或填写完毕后，点击“Submit”按钮由系统进行判分。  
+
+### 常见问题解答（FAQ）
+
+
+- Timed? Often light timers to keep pace brisk.
+
+- Hints? Many versions provide hints—use sparingly.
 
 - Are there multiple solutions? Usually one; follow intended themes.
-- Hints? Many versions provide hints—use sparingly.
-- Timed? Often light timers to keep pace brisk.
+**问：必须输入英文单词吗？****
+答：** 是。由于游戏内置的是英文字典和英文分类，只有满足拼写与分类的英文单词才会被认可。
+
+**问：适合什么水平的玩家？****
+答：** 对有一定基础的英文学习者很适合作为词汇拓展练习；英语基础较弱的玩家也可以把它当作查词记词的小挑战。
 

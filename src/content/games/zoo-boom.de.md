@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: zoo-boom
-title: '[DE] Zoo Boom'
+title: Zoo Boom
 description: >-
-  [DE] Welcome to Zoo Boom! A colorful and exciting match-2 puzzle game where
-  you tap to blast blocks of adorable zoo animals and complete challenging
-  levels.
+  Willkommen in Zoo Boom – einem kunterbunten Match‑2‑Puzzle: Tippe Gruppen
+  süßer Zootiere weg, zünde Booster und erfülle Levelziele mit spektakulären
+  Kettenreaktionen.
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/zoo-boom.png
 tags:
@@ -16,33 +16,41 @@ score: 4.5/5  (2050 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
+
+Zoo Boom ist ein farbenfrohes Match‑2‑Spiel, das dich durch einen Zoo voller bunter Tierblöcke führt. Mit jedem Tipp entfernst du Gruppen aus mindestens zwei identischen Tiersymbolen vom Spielfeld. Jedes Level stellt eigene Aufgaben – etwa bestimmte Tiere zu sammeln, Hindernisse zu beseitigen oder eine Zielpunktzahl in begrenzten Zügen zu erreichen. Größere Gruppen erzeugen mächtige Booster, die ganze Reihen oder Bereiche sprengen.
+
+### Spielstrategie & Walkthrough
+
+1. **Große Gruppen bevorzugen:** Auch wenn Zweiergruppen erlaubt sind, solltest du auf Dreier, Vierer oder mehr hinarbeiten – das gibt mehr Punkte und lädt Booster.
+2. **Booster erzeugen:** Ab fünf gleichen Blöcken entstehen Spezialsteine wie Raketen, Bomben oder Farbclears, die dir schwierige Ecken freiräumen.
+3. **Booster kombinieren:** Nebeneinander liegende Booster zu zünden ist besonders stark – zwei Raketen oder Rakete+Bomben räumen riesige Bereiche ab.
+4. **Auf Ziele achten:** Richte deine Züge immer an den Levelaufgaben aus. Ein großer Move ohne Fortschritt beim Ziel ist weniger wert als ein kleiner, der dir fehlende Tiere bringt.
+5. **Züge vorausplanen:** Schau dir an, wie sich das Feld nach deinem nächsten Tipp verändern könnte, und bereite dir künftige Großgruppen oder Booster‑Kombos vor.
+
+### Steuerung
+
+- **Tippen zum Sprengen:** Klicke oder tippe auf eine Gruppe aus mindestens zwei benachbarten, identischen Tierblöcken, um sie zu entfernen.
+
+### Häufige Fragen (FAQ)
 
 
+- **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
 
-### Detailed Game Introduction
+    - **Q: What happens if I run out of moves?**
 
-Zoo Boom is a vibrant and engaging match-2 puzzle game that takes you on an exciting adventure through a colorful zoo. Your mission is to tap and blast groups of two or more identical animal blocks to clear them from the board. Each level presents unique challenges and objectives, such as collecting a certain number of specific animals, clearing obstacles, or reaching a target score within a limited number of moves. Unleash powerful boosters by matching larger groups of animals to create spectacular chain reactions and achieve high scores.
+- **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
 
-### Gameplay Strategy & Walkthrough
+    - **Q: How do I get special boosters?**
 
-1.  **[DE]** **Look for Large Groups:** While you can match just two identical blocks, aim for larger groups of three or more. Matching more blocks at once will give you more points and help you create powerful boosters.
-2.  **[DE]** **Create Boosters:** Matching five or more blocks will typically create special boosters like rockets, bombs, or color-clearing items. These are crucial for clearing difficult sections and achieving high scores.
-3.  **[DE]** **Combine Boosters:** The real power comes from combining two adjacent boosters. For example, combining two rockets can clear a huge area, while combining a bomb with a color-clearing item can be devastatingly effective.
-4.  **[DE]** **Prioritize Objectives:** Always keep an eye on the level's specific objectives. Sometimes it's better to make a smaller match that helps you achieve an objective rather than a large match that doesn't.
-5.  **[DE]** **Plan Your Moves:** Don't just tap randomly. Think a few moves ahead to see how your current tap will affect the board and set up future matches or booster creations.
+- **A:** The goal is to complete the specific objectives of each level, which usually involve clearing certain types or numbers of animal blocks, or reaching a target score.
 
-### Controls Guide
+    - **Q: What is the goal of Zoo Boom?**
+**Was ist das Ziel in Zoo Boom?**  
+Die jeweiligen Levelziele zu erfüllen – meistens eine bestimmte Anzahl bestimmter Tiere abzuräumen oder eine Score‑Vorgabe in einer begrenzten Zugzahl zu erreichen.
 
-*   **[DE]** **Tap to Blast:** Simply click or tap on a group of two or more identical, adjacent animal blocks to clear them.
+**Wie bekomme ich Spezial‑Booster?**  
+Indem du größere Gruppen in einem Zug wegklickst (meist ab fünf gleichen Blöcken). Je mehr, desto stärker der Booster.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What is the goal of Zoo Boom?**
-    *   **[DE]** **A:** The goal is to complete the specific objectives of each level, which usually involve clearing certain types or numbers of animal blocks, or reaching a target score.
-
-*   **[DE]** **Q: How do I get special boosters?**
-    *   **[DE]** **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
-
-*   **[DE]** **Q: What happens if I run out of moves?**
-    *   **[DE]** **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
-
+**Was passiert, wenn mir die Züge ausgehen?**  
+Hast du deine Ziele nicht erreicht, bevor deine Züge aufgebraucht sind, gilt das Level als verloren – du kannst es aber jederzeit erneut versuchen.

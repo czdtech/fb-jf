@@ -1,12 +1,12 @@
 ---
 locale: fr
 urlstr: sprunkgerny
-title: '[FR] Sprunkgerny - Play Sprunkgerny Online'
+title: 'Sprunkgerny - Play Sprunkgerny Online'
 description: >-
-  [FR] If you are looking for a unique musical experience, then Sprunkgerny is
-  definitely not to be missed! It breaks the shackles of traditional rhythm
-  games, encourages you to embrace imperfection and randomness, and allows you
-  to unleash your musical inspiration in exploration and fun.
+  Si tu cherches une expérience musicale vraiment unique, Sprunkgerny est
+  immanquable ! Le jeu brise les codes des jeux de rythme classiques, t’invite
+  à accepter l’imperfection et le chaos, et te permet de libérer ton
+  inspiration musicale en explorant et en t’amusant.
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
 thumbnail: /Sprunkgerny.png
 tags:
@@ -16,29 +16,50 @@ score: 4.9/5  (724 votes)
 ---
 
 
+### Découvrir Sprunkgerny
 
-### Introducing to Sprunkgerny
-
-Tired of the same old regular rhythm games? Want something to subvert your worldview? Sprunkgerny can definitely satisfy you! This creatively explosive game allows you to create your own brainwashing songs in a quirky and surreal world using all sorts of bizarre characters!
-
----
-
-### What Exactly is Sprunkgerny?
-
-Simply put, Sprunkgerny is a crazy cousin of Sprunki. It abandoned Incredibox's refinement and professionalism, embracing experimentation, creativity, and nonsensicalness. Here, harmony is no longer king, chaos and humor are the truth!
-
-### What Makes Sprunkgerny Different?
-
-- **Surreal Themes and Characters:** Get ready to enter a dreamlike other dimension? There are all kinds of bizarre characters here, who will use exaggerated and comical movements to turn your music into a surreal visual feast!
-- **Mind-Blowing Sound Library:** Putting aside traditional instruments, Sprunkgerny offers a variety of unusual sounds, such as quirky instruments, experimental beats, and humorous vocal effects that make you laugh.
-- **Interactive Visual Effects:** As your music progresses, the background will also change dynamically, with distorted landscapes and abstract elements, everything is perfectly synchronized with your rhythm!
-- **Hidden Easter Eggs and Stories:** Try different sound combinations to unlock hidden scenes and mini-stories. Every note can be a secret, waiting for you to discover!
-
+Marre des jeux de rythme trop classiques et réglés au millimètre ? Envie de
+quelque chose qui casse complètement les codes ? Sprunkgerny est là pour
+ça ! Ce jeu explosif de créativité te permet de composer tes propres
+mélodies ultra accrocheuses dans un univers barré et surréaliste, peuplé de
+personnages complètement absurdes.
 
 ---
 
-### Why Play Sprunkgerny?
+### Sprunkgerny, c’est quoi exactement ?
 
-If you are looking for a unique musical experience, then Sprunkgerny is definitely not to be missed! It breaks the shackles of traditional rhythm games, encourages you to embrace imperfection and randomness, and allows you to unleash your musical inspiration in exploration and fun.Whether you are a rhythm game veteran or a newbie to music creation, you can find your own happiness in the world of Sprunkgerny!
+En gros, Sprunkgerny est le cousin déjanté de Sprunki. Il laisse tomber le
+polissage et le sérieux d’Incredibox pour embrasser l’expérimentation, la
+créativité pure et le nonsense assumé. Ici, l’harmonie n’est plus reine :
+ce sont le chaos et l’humour qui dominent.
 
-Sprunkgerny is like a quirky music laboratory, it encourages you to break the rules, try everything, embrace chaos, and create unique musical works. Ready for this mind-blowing audio-visual feast? Come to the world of Sprunkgerny and let your rhythm go completely crazy!
+### Qu’est‑ce qui rend Sprunkgerny différent ?
+
+- **Thèmes et personnages surréalistes :** prépare‑toi à entrer dans une
+  autre dimension. Tu y trouveras toutes sortes de personnages bizarres aux
+  animations exagérées et comiques, qui transforment ta musique en véritable
+  festin visuel.  
+- **Banque de sons délirante :** oublie les instruments classiques : ici
+  tu joues avec des sons étranges, des beats expérimentaux et des effets
+  vocaux hilarants.  
+- **Effets visuels interactifs :** au fil de ta composition, les décors se
+  déforment, les paysages deviennent abstraits et tout se cale sur ton
+  rythme.  
+- **Easter eggs et mini‑histoires :** teste différentes combinaisons de
+  sons pour débloquer des scènes cachées et petites histoires. Chaque note
+  peut cacher un secret.
+
+---
+
+### Pourquoi jouer à Sprunkgerny ?
+
+Si tu veux une expérience musicale différente, Sprunkgerny est un passage
+obligé. Le jeu brise les chaînes des jeux de rythme traditionnels, t’incite
+à accepter l’imperfection et le hasard, et te laisse expérimenter librement.
+Que tu sois vétéran des jeux musicaux ou total débutant, tu peux y trouver
+ta propre façon de t’amuser.
+
+Sprunkgerny, c’est comme un laboratoire musical décalé : on t’encourage à
+briser les règles, tout essayer, embrasser le chaos et créer des morceaux
+vraiment uniques. Prêt pour ce grand huit audio‑visuel ? Plonge dans le
+monde de Sprunkgerny et laisse ton rythme partir en vrille !

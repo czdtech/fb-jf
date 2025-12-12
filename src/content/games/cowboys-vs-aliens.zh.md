@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: cowboys-vs-aliens
-title: '[ZH TRANSLATION NEEDED] Cowboys vs Aliens'
+title: "Cowboys vs Aliens 牛仔大战外星人"
 description: >-
-  [ZH TRANSLATION NEEDED] A comprehensive guide to the 'Cowboys vs Aliens' game
-  theme. Learn the common gameplay types (tower defense, action shooter),
-  strategies, controls, and tips for defending the Wild West from alien
-  invaders.
+  《Cowboys vs Aliens 牛仔大战外星人》这版让你直接操控一名牛仔英雄，在横版或俯视视
+  角关卡中对抗一波又一波外星入侵者。本文聚焦动作射击玩法，讲解基础操作、武器取舍与
+  生存策略。
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/cowboys-vs-aliens.jpg
@@ -23,27 +22,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] This version puts you in direct control of a single cowboy hero. The gameplay is typically a side-scrolling or top-down shooter where you must run, jump, and shoot your way through levels filled with alien enemies. You collect new weapons (from revolvers to alien laser guns), power-ups, and health packs while dodging enemy projectiles and attacks. The goal is to survive each stage and defeat a boss at the end.
+在本版本《Cowboys vs Aliens 牛仔大战外星人》中，你将扮演一名孤胆牛仔，在荒野小镇、峡
+谷和矿洞等场景里，与源源不断的外星怪物展开近距离枪战。玩法通常为横版卷轴或俯视角射
+击：你需要奔跑、跳跃、翻滚并开火，一边躲避外星人的能量弹和冲撞，一边收集新武器、补
+给与强化道具。
+
+从最初的左轮手枪到后期捡到的霰弹枪、步枪乃至外星激光武器，你可以体验到“旧西部 x 科
+幻武器”的混搭爽感。每个关卡的目标通常是活着抵达终点，并在终点决战中击败 BOSS。
 
 ### **Gameplay Strategy & Tips**
 
-#### **For Action/Shooter Games:**
+#### **动作射击向玩法建议：**
 
-1.  **Movement is Life**: Never stand still. Constantly be on the move to dodge incoming alien lasers and attacks. Learn enemy attack patterns to know when to jump, duck, or run.
-2.  **Prioritize Threats**: Some aliens are more dangerous than others. Learn to quickly identify and eliminate high-priority targets first, such as long-range snipers or enemies that spawn smaller minions.
-3.  **Conserve Ammunition/Power-ups**: If your game has limited ammo or timed power-ups, save them for large groups of enemies or difficult boss encounters. Don't waste your strongest attacks on weak, single aliens.
-4.  **Know Your Arsenal**: Understand the strengths and weaknesses of each weapon. A shotgun is great for close-quarters crowd control, while a rifle is better for picking off distant foes. Switch weapons according to the situation.
+1.  **移动就是生命：** 在这种弹幕与近战攻击齐飞的关卡里，“站着不动”几乎等同于自杀。
+    尽量保持持续移动，熟悉敌人攻击前的动作与子弹飞行轨迹，学会在恰当时机跳跃、闪避
+    或后撤。
+2.  **优先处理高威胁目标：** 并非所有外星人都同等危险。要学会快速分辨：远处狙击型敌
+    人、会召唤小怪的单位、或近身冲刺伤害特别高的怪，往往应该优先解决，避免被集火。
+3.  **节省弹药与强力道具：** 如果本作存在有限弹药或时效性强化（如临时高伤武器），尽量
+    把它们留给成群敌人或 BOSS 战，不要在零散小怪上过度浪费火力。
+4.  **熟悉武器特点：** 不同武器擅长的距离与用途不同：霰弹枪非常适合近距离群体输出；步
+    枪更适合中远距离点杀；某些外星武器可能带有贯穿或范围伤害效果。根据战场情况及时切
+    换武器，比死守一把枪更安全。
 
 ### **Controls Guide**
 
-*   **PC/Web:**
-     *   **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
-     *   **Aim**: Mouse.
-     *   **Shoot**: `Left Mouse Button`.
-     *   **Jump**: `Space Bar`.
-     *   **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
-*   **Mobile:**
-     *   **Movement**: Virtual joystick on the left side of the screen.
-     *   **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
+*   **PC/Web 版本：**
+    *   **移动：** 使用 `W`、`A`、`S`、`D` 或方向键进行前后左右移动；
+    *   **瞄准：** 移动鼠标来调整准星方向；
+    *   **射击：** 左键点击进行射击；
+    *   **跳跃：** `Space`（空格键）；
+    *   **切换武器：** 数字键 `1`、`2`、`3`…… 或滚动鼠标滚轮。
 
+*   **移动端版本：**
+    *   **移动：** 屏幕左侧虚拟摇杆控制角色移动方向；
+    *   **瞄准/开火：** 屏幕右侧一般会有射击、跳跃和技能按键，有些版本采用“边拖边射击
+        ”的方式自动瞄准。
 
+> 具体按键可能会因网站或移植版本略有不同，建议进入设置/帮助菜单确认当前映射。

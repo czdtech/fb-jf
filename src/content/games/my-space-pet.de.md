@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: my-space-pet
-title: '[DE] My Space Pet'
+title: My Space Pet
 description: >-
-  [DE] Embark on an interstellar adventure with My Space Pet! Adopt and care for
-  your very own alien creature, explore the galaxy, and customize your pet's
-  home.
+  Brich mit My Space Pet zu einem interstellaren Abenteuer auf! Adoptiere ein
+  eigenes Alien-Haustier, kümmere dich um es, erkunde das All und gestalte sein
+  Zuhause ganz nach deinem Geschmack.
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/my-space-pet.png
 tags:
@@ -17,31 +17,57 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+My Space Pet lädt dich ein, das putzige Alien-Wesen Zuub zu adoptieren und dich
+um es zu kümmern. Das Spiel verbindet virtuelle Haustierpflege mit Minispielen
+und einer Menge Anpassungsmöglichkeiten. Du hältst Zuub zufrieden, indem du es
+ fütterst, wäschst und schlafen lässt, wenn es müde ist. In Minispielen
+verdienst du Münzen, mit denen du Outfits, Accessoires und Deko für Zuubs
+Weltraumzuhause freischaltest.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-My Space Pet invites you to adopt and care for an adorable alien creature named Zuub. This charming virtual pet game combines elements of nurturing, mini-games, and customization. Your mission is to keep Zuub happy and healthy by fulfilling its basic needs: feeding it when hungry, washing it when dirty, and ensuring it gets enough rest. Beyond basic care, you can play engaging mini-games to earn coins, which can then be used to unlock a variety of stylish outfits and accessories to personalize your space pet.
+1.  **Zuubs Bedürfnisse im Blick behalten**  
+    Achte auf Anzeigen für Hunger, Hygiene und Müdigkeit. Reagiere früh, damit
+    Zuub fröhlich und aktiv bleibt.
 
-### Gameplay Strategy & Walkthrough
+2.  **Minispiele regelmäßig spielen**  
+    Die Minigames sind deine Hauptquelle für Münzen. Spiele sie immer wieder,
+    um genug Geld für neue Kleidung und Einrichtung zu haben.
 
-1.  **[DE]** **Monitor Zuub's Needs:** Keep a close eye on Zuub's indicators for hunger, hygiene, and sleep. Addressing these needs promptly will keep Zuub happy and energetic.
-2.  **[DE]** **Play Mini-Games:** Engage in the mini-games regularly to earn coins. These coins are essential for purchasing customization items and keeping Zuub entertained.
-3.  **[DE]** **Customize Zuub:** Use your earned coins to buy new outfits and accessories. Personalizing Zuub adds to the fun and can sometimes unlock special interactions.
-4.  **[DE]** **Explore and Interact:** Tap on different parts of the screen or interface elements to discover new interactions and activities with Zuub. A happy Zuub might even give you bonus rewards.
+3.  **Zuub personalisieren**  
+    Nutze deine Münzen, um Outfits und Accessoires zu kaufen. Das macht nicht
+    nur Spaß, sondern schaltet teilweise auch neue Reaktionen oder kleine
+    Extras frei.
 
-### Controls Guide
+4.  **Umgebung erkunden**  
+    Tippe auf verschiedene Bildschirmelemente, um versteckte Interaktionen zu
+    entdecken. Ein zufriedenes Zuub bedankt sich manchmal mit Bonusbelohnungen.
 
-*   **[DE]** **Click/Tap:** Use your mouse (on desktop) or finger (on mobile) to interact with Zuub, select menu options, and play mini-games.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+*   **Klicken/Tippen:** Mit Maus oder Finger interagierst du mit Zuub, wählst
+    Menüs und spielst Minispiele.
 
-*   **[DE]** **Q: What happens if I don't care for Zuub?**
-    *   **[DE]** **A:** If Zuub's needs are neglected, its happiness and energy levels will decrease, and it might become sad or sick. Regular care is important to keep your pet thriving.
+### FAQ
 
-*   **[DE]** **Q: How do I earn coins in the game?**
-    *   **[DE]** **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
+*   **F: Was passiert, wenn ich mich nicht um Zuub kümmere?**  
+    **A:** Vernachlässigst du Zuubs Bedürfnisse, sinken Zufriedenheit und
+    Energie – es wird traurig oder krank. Regelmäßige Pflege hält dein Pet
+    fit und glücklich.
 
-*   **[DE]** **Q: Can I have more than one space pet?**
-    *   **[DE]** **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
+    - **F: Wie bekomme ich Münzen?**  
+    **A:** Vor allem durch abgeschlossene Minispiele. Je besser du abschneidest,
+    desto mehr Belohnung erhältst du.
 
+*   **F: Kann ich mehr als ein Weltraumtier besitzen?**  
+
+    - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
+
+- **Q: Can I have more than one space pet?**
+
+    - **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
+    **A:** Meist konzentriert sich das Spiel auf ein Haupt-Haustier. Schau in
+    die Spielinfos – oft geht es darum, mit einem Tier eine enge Bindung
+    aufzubauen.

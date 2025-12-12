@@ -1,66 +1,35 @@
 ---
+title: "Cake Smash ケーキ・スマッシュ"
+description: "「Cake Smash」でおいしいケーキをマッチ＆スマッシュ！楽しくて中毒性のあるマッチ3パズルゲーム。"
+iframeSrc: "https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/"
+thumbnail: "/new-images/cake-smash.png"
+urlstr: "cake-smash"
+score: "4.3/5 (1543 votes)"
+tags: ["puzzle", "casual", "clicker"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: cake-smash
-title: '[JA TRANSLATION NEEDED] Cake Smash'
-description: >-
-  [JA TRANSLATION NEEDED] Match and smash delicious cakes in Cake Smash, a fun
-  and addictive match-3 puzzle game.
-iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
-thumbnail: /new-images/cake-smash.png
-tags:
-  - puzzle
-  - casual
-  - clicker
-score: 4.3/5 (1543 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cake Smash（ケーキ・スマッシュ）*は、色鮮やかで魅力的なマッチ3パズルゲームです。隣り合ったケーキを入れ替えて、同じ種類のケーキを3つ以上並べましょう。揃ったケーキは「スマッシュ（粉砕）」されて消え、上から新しいケーキが落ちてきます。各レベルには「特定のスコアに到達する」「特定の種類のケーキを何個消す」といった目標が設定されています。
 
-[JA TRANSLATION NEEDED] Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to swap adjacent cakes to create lines of three or more identical cakes, which then get "smashed" and removed from the board, with new cakes falling into place. Each level has a specific goal, such as reaching a certain score or clearing a certain number of a specific type of cake.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **3つ以上揃える:** 基本は、隣り合う2つのケーキを入れ替えて、同じケーキを3つ並べることです。
+2.  **スペシャルケーキを作る:** 4つ、または5つのケーキを一度に揃えると、強力な効果を持つ「スペシャルケーキ」が生まれます。例えば、ストライプ柄のケーキは縦または横一列を一気に消してくれます。
+3.  **スペシャル同士を組み合わせる:** これが最強の技です。スペシャルケーキ同士を入れ替えると、通常よりも遥かに広範囲を爆破する大連鎖が発生します。
+4.  **目標を確認:** 闇雲に消すのではなく、画面に表示されているレベルのクリア条件（残り手数や、消すべきケーキの種類）を常に意識しましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Identify Matches:** Look for opportunities to match three or more identical cakes by swapping two adjacent cakes.
-[JA TRANSLATION NEEDED] 2.  **Create Special Cakes:** Matching four or five cakes at once will often create a special cake with powerful clearing abilities. For example, a striped cake might clear a whole row or column.
-[JA TRANSLATION NEEDED] 3.  **Combine Special Cakes:** For even bigger effects, try to swap two special cakes with each other.
-[JA TRANSLATION NEEDED] 4.  **Focus on the Objective:** Pay attention to the level's goal. Sometimes you need to focus on clearing specific tiles or reaching a score target within a limited number of moves.
+### 操作ガイド
 
-### Controls Guide
+*   **入れ替え:** マウスでドラッグするか、隣り合う2つのケーキを順番にクリック（タップ）して入れ替えます。
 
-*   **Mouse/Touch:** Use the mouse or touch screen to click and drag or tap on adjacent cakes to swap them.
-    - **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.（日本語訳が必要）
-    - **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.（日本語訳が必要）
-    - **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.（日本語訳が必要）
-    - **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What do the special cakes do?**
-[JA TRANSLATION NEEDED]     *   **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-*   **Q: How do I beat difficult levels?**
-
-
-
-
-
-
-
-
-    - **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
-- **Q: How do I beat difficult levels?**
-    - **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-- **Q: What do the special cakes do?**
-### よくある質問（FAQ）
-- **Mouse/Touch:** Use the mouse or touch screen to click and drag or tap on adjacent cakes to swap them.
-### コントロールガイド
-- **Focus on the Objective:** Pay attention to the level's goal. Sometimes you need to focus on clearing specific tiles or reaching a score target within a limited number of moves.
-
-
-
-    - **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
-- **Q: How do I beat difficult levels?**
-    - **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-[JA TRANSLATION NEEDED]     *   **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
+*   **Q: スペシャルケーキは何をしてくれますか？**
+    *   **A:** 4つ以上揃えて作れる特別なケーキは、消すと列ごと消滅させたり、同色のケーキを全て消したりする強力な効果を発揮します。
+*   **Q: 難しいレベルをクリアするには？**
+    *   **A:** できるだけ多くのスペシャルケーキを作り、さらにそれらを組み合わせて（ミックスして）使うのがコツです。
 

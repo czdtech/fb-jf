@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: zombie-hunter-survival
-title: '[ES] Zombie Hunter: Survival'
+title: "Zombie Hunter: Survival - Supervivencia top‑down"
 description: >-
-  [ES] Zombie Hunter: Survival is a tense top‑down shooter — kite hordes,
-  conserve ammo, and survive waves.
-iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
-thumbnail: /new-images/zombie-hunter-survival.png
+  Zombie Hunter: Survival es un shooter cenital de supervivencia: combea hordas,
+  ahorra munición y resiste oleadas cada vez más intensas.
+iframeSrc: "https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/"
+thumbnail: "/new-images/zombie-hunter-survival.png"
 tags:
   - shooting
   - horror
@@ -15,28 +15,31 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
-
 ### Detailed Game Introduction
 
-Zombie Hunter: Survival is a survival‑style shooter. Move through cramped arenas, manage ammo and reload windows, and cut safe kiting paths while escalating waves pressure positioning and crowd control.
+Zombie Hunter: Survival es un shooter de supervivencia visto desde arriba. Te mueves por arenas estrechas, gestionas munición y ventanas de recarga y trazas rutas seguras para “kitear” mientras las oleadas crecientes de zombis ponen al límite tu posicionamiento y control de masas.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** Circle kite: Run wide circles to group zombies and fire into clumps.
-2.  **[ES]** Reload discipline: Reload between waves or during long kites—not face‑to‑face.
-3.  **[ES]** Funnel use: Fight in chokepoints for cleaner head‑on shots.
-4.  **[ES]** Target priority: Eliminate fast/ranged threats first.
-5.  **[ES]** Resource grabs: Take ammo/health only when routes are clear.
+1.  **Kite en círculos:** corre en círculos amplios para agrupar zombis y dispararles cuando estén bien apilados.
+2.  **Disciplina de recarga:** recarga entre oleadas o mientras haces kites largos, nunca cara a cara con la horda.
+3.  **Usa embudos:** pelea en pasillos o estrechamientos para concentrar a los zombis y facilitar los tiros.
+4.  **Prioriza objetivos:** elimina primero a los enemigos rápidos o a distancia antes de centrarte en los lentos.
+5.  **Recoge recursos con cabeza:** ve a por munición y botiquines solo cuando el camino esté despejado.
 
 ### Controls Guide
 
-- Move with WASD/Arrows; aim with mouse or keys; fire/Reload per UI.
-- Swap weapons if available.
+- Muévete con `WASD` o flechas; apunta con el ratón o teclas; dispara y recarga según los botones indicados en la interfaz.
+- Cambia de arma si el juego ofrece un arsenal múltiple.
 
 ### Frequently Asked Questions (FAQ)
 
-- I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
-- Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
-- Bosses? Some waves add elites—kite wider and clear minions first.
+- **Q: Siempre termino acorralado.**  
+  **A:** Evita los callejones sin salida y deja siempre una ruta de escape antes de empezar a disparar.
+
+- **Q: Me falta munición, ¿algún truco?**  
+  **A:** Apunta a grupos, usa disparos individuales en lugar de ráfagas y recoge munición únicamente cuando sea seguro hacerlo.
+
+- **Q: Hay jefes?**  
+  **A:** Algunas oleadas introducen enemigos élite; en esos casos, abre más el círculo de kite y elimina antes a los esbirros normales.
 

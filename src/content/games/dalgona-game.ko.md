@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: dalgona-game
-title: '[KO] Dalgona Game'
+title: "Dalgona Game 달고나 게임"
 description: >-
-  [KO] Dalgona Game recreates honeycomb carving — trace shapes carefully, manage
-  cracks, and finish before time runs out.
+  한국 전통 달고나 뽑기를 게임으로 옮긴 Dalgona Game입니다. 모양선을 따라
+  조심스럽게 선을 긋고, 균열을 관리하며 제한 시간 안에 달고나를 깨지 않고
+  도려내 보세요.
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/dalgona-game.png
 tags:
@@ -15,36 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Dalgona Game은 꿀과 설탕으로 만든 달고나 과자를 깨지지 않게 조각해 내는
+도전 과정을 게임으로 구현한 작품입니다. 달고나에 찍힌 별, 우산 같은 모양을
+따라 선을 긋되, 너무 세게 긋거나 선에서 벗어나면 과자가 금이 가고 결국
+부서지면서 실패하게 됩니다. 긴장감 있는 손놀림과 섬세한 컨트롤이 요구됩니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve out the stamped shape by following edges; too much pressure or off‑path cuts crack the candy and fail the round.
+1. **모서리에서는 속도를 줄이기**  
+   직선 구간에서는 비교적 빠르게 움직여도 되지만, 모서리나 작은 곡선에서는
+   충분히 속도를 줄여 안전하게 돌려야 합니다.  
+2. **모양선(홈)을 따라가기**  
+   홈을 가로지르듯 억지로 꺾지 말고, 선을 따라 자연스럽게 움직이세요.
+   결 방향을 무시하고 강제로 꺾으면 균열이 쉽게 생깁니다.  
+3. **미세 균열 관찰하기**  
+   표면에 작은 금이 보이기 시작하면 즉시 손을 떼고, 다른 방향에서 다시
+   접근하는 것이 좋습니다. 금이 퍼지기 시작하면 깨지기 직전이라는 신호입니다.  
+4. **좁은 각은 마지막에 처리하기**  
+   긴 직선이나 넓은 곡선을 먼저 정리해 달고나를 안정시키고, 가장 날카로운
+   안쪽 각이나 복잡한 부분은 마지막에 천천히 공략하세요.  
+5. **시간 관리하기**  
+   제한 시간이 있기 때문에, 쉬운 구간에서는 속도를 조금 올리고, 난이도가 높은
+   구간에 더 많은 시간을 남겨 두는 식으로 구간별 속도를 조절하는 것이 좋습니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Slow and steady near corners; speed only on straight segments.
-2.  **[KO]** Follow grooves; don’t force turns across the grain.
-3.  **[KO]** Watch micro‑cracks; if they spread, lift and re‑approach.
-4.  **[KO]** Save tight angles for last after stabilizing long edges.
-5.  **[KO]** Manage the timer by alternating quick/slow sections.
+- 화면을 드래그해 모양의 외곽선을 따라 그립니다. 일부 버전에서는 드래그 속도나
+  각도에 따라 균열이 더 잘 생기기도 합니다.  
+- 달고나가 부서졌다면 빠르게 재시작 버튼을 눌러 다시 도전할 수 있습니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag to trace the outline; pressure/angle sensitivity varies by build.
-- Restart quickly on breaks.
+- **Q: 모서리에서 자꾸 달고나가 깨집니다. 어떻게 해야 하나요?**  
+  **A:** 모서리에 다가갈수록 드래그 속도를 줄이고, 가능한 한 완만한 곡선으로
+  돌아 나가세요. 급격한 꺾임은 균열을 크게 만듭니다.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 압력(힘 조절)이 실제로 반영되나요?**  
+  **A:** 일부 버전은 마우스/터치 입력을 기반으로 압력이나 속도를 어느 정도
+  시뮬레이션해, 빠르고 거친 드래그일수록 깨지기 쉽게 설정하기도 합니다.  
 
-- Q: I keep cracking near corners — how to fix?
-
-A: Reduce speed, take wider arcs if allowed, and pause before turning sharply.
-
-- Q: Is pressure modeled?
-
-A: Some builds simulate pressure; gentle drags are safer near delicate edges.
-
-- Q: Any tips for stars/umbrellas?
-
-A: Do long straights first, then carve the tight inner curves last.
+- **Q: 별, 우산 같은 어려운 모양은 어떻게 공략하나요?**  
+  **A:** 긴 직선이나 바깥쪽 곡선을 먼저 안전하게 따고, 가장 복잡한 안쪽 곡선은
+  마지막에 천천히 공략하는 것이 좋습니다. 특히 우산 모양의 뾰족한 부분은 각도를
+  크게 돌려 넓은 호로 나누어 깎는 느낌으로 접근해 보세요.  
 

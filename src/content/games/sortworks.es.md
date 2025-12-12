@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: sortworks
-title: '[ES] SortWorks'
+title: "SortWorks"
 description: >-
-  [ES] SortWorks is a clean sort‑and‑stack puzzler — organize items by rules,
-  plan buffers, and avoid deadlocks under rising pressure.
-iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
-thumbnail: /new-images/sortworks.png
+  SortWorks es un limpio puzle de clasificar y apilar: organiza objetos según
+  reglas, planifica los espacios de buffer y evita bloqueos bajo una presión que
+  va en aumento.
+iframeSrc: "https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/"
+thumbnail: "/new-images/sortworks.png"
 tags:
   - puzzle
   - thinky
@@ -16,35 +17,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+SortWorks mezcla clasificación visual con restricciones de contenedores
+(color/forma/tipo). Los objetos llegan por cintas transportadoras y debes
+redirigirlos al contenedor correcto usando casillas de buffer para evitar
+atascos. En niveles avanzados la cinta acelera y aparecen categorías más
+complicadas.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-SortWorks blends visual sorting with bin constraints (color/shape/type). Items arrive on belts; you must route them to correct bins, using buffer slots to prevent jams. Late boards raise speed and add tricky categories.
+1.  **Jerarquía de reglas:** Aplica primero las reglas críticas (por ejemplo,
+    peligroso vs no peligroso) y después las categorías más finas.
+2.  **Disciplina de buffer:** Intenta mantener al menos una casilla de buffer
+    libre en todo momento.
+3.  **Lotes fáciles:** Encadena rachas con objetos fáciles de identificar para
+    mantener los multiplicadores de puntuación.
+4.  **Coste del error:** Si no estás seguro, es mejor dejar pasar un objeto que
+    clasificarlo mal y bloquear el sistema.
+5.  **Flujo de mirada:** Mira siempre un poco por delante de la cinta; no te
+    obsesiones solo con el elemento más cercano.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Rule hierarchy: Apply critical rules first (e.g., hazard vs non‑hazard) then fine categories.
-2.  **[ES]** Buffer discipline: Keep at least one buffer slot free at all times.
-3.  **[ES]** Batch easy items: Chain streaks on simple categories to maintain multipliers.
-4.  **[ES]** Error cost: Skip uncertain items rather than mis‑sort.
-5.  **[ES]** Eye flow: Scan ahead of the belt; don’t tunnel on the nearest item.
+- Arrastra o toca los objetos para enviarlos a los contenedores; pausa y reinicia
+  desde la interfaz; algunas versiones ofrecen pistas resaltando el destino
+  correcto.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag/tap items to bins; pause/retry via UI; hints may highlight targets.
+- **P: Se me atascan las cintas todo el rato.**
+  
+  **R:** Probablemente estás llenando demasiado los buffers. Limpia primero un
+  lote de objetos fáciles para liberar espacio antes de enfrentarte a los más
+  difíciles.
 
-### Frequently Asked Questions (FAQ)
+- **P: Los iconos parecidos me confunden.**
+  
+  **R:** Aprende 2–3 rasgos clave por categoría (forma, bordes, color) y clasifica
+  basándote primero en esos anclajes visuales.
 
-- Q: I jam belts.
-
-A: You’re consuming buffers; clear an easy batch to reopen space before tackling hard items.
-
-- Q: Similar icons confuse me.
-
-A: Learn 2–3 anchor features per category (shape/edge/color) and sort by those first.
-
-- Q: Do streaks matter?
-
-A: Yes — streaks boost scores; feed them with easy items.
-
+- **P: ¿Importan las rachas?**
+  
+  **R:** Sí, las rachas aumentan la puntuación. Aliméntalas priorizando objetos
+  sencillos cuando necesites subir el multiplicador.

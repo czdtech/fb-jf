@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: blockbuster-puzzle
-title: '[ES] Blockbuster Puzzle'
+title: "Blockbuster Puzzle"
 description: >-
-  [ES] Blockbuster Puzzle is a satisfying block clear — plan placements, chain
-  blasts, and avoid sealing off critical space.
+  Blockbuster Puzzle es un puzle de limpiar bloques muy satisfactorio: planifica
+  tus colocaciones, encadena explosiones y evita cerrar los espacios clave del
+  tablero.
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/blockbuster-puzzle.png
 tags:
@@ -15,36 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+En Blockbuster Puzzle debes encajar las piezas que van llegando para activar
+limpiezas de líneas o de grupos de bloques. El arte está en el ritmo de juego:
+mantener varias "vías" de construcción abiertas, preparar turnos tipo "bomba"
+que limpien grandes zonas y no gastar tu último bolsillo de emergencia salvo que
+asegure una buena cadena de limpiezas.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or cluster clears. The art is in pacing: keep multiple lanes viable, prepare “bomb” turns that clear large areas, and never burn your last escape pocket unless it secures a chain.
+1.  **Mantén dos vías libres:** Procura conservar al menos dos columnas o filas
+    flexibles para poder colocar piezas incómodas.
+2.  **Guarda un hueco de rescate:** Reserva siempre un bolsillo de espacio para
+    recuperarte cuando te salgan combinaciones de piezas desfavorables.
+3.  **Piensa en clústeres:** Agrupa formas relacionadas para que una sola
+    colocación prepare varias limpiezas encadenadas.
+4.  **Evita cavidades de una sola casilla:** Esos huecos de 1×1 son casi
+    imposibles de rellenar de forma consistente.
+5.  **Convierte la ventaja:** Cuando el tablero esté abierto, aprovecha para
+    buscar limpiezas de varias líneas a la vez y generar un efecto bola de nieve
+    de espacio libre.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Keep two lanes free: Always preserve at least two flexible build lanes for awkward shapes.
-2.  **[ES]** Bank a bailout slot: Reserve one pocket to recover from bad piece sets.
-3.  **[ES]** Cluster thinking: Group related shapes so one placement sets up several clears.
-4.  **[ES]** Avoid single‑cell cavities: These are nearly impossible to fill consistently.
-5.  **[ES]** Convert advantage: When the board is open, push for multi‑line clears to snowball space.
+- Arrastra y suelta las piezas sobre el tablero; rota si el juego lo permite.
+- Las opciones de Deshacer/Reiniciar te ayudan a corregir colocaciones demasiado
+  ambiciosas.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag‑and‑drop pieces; rotate if supported.
-- Undo/Reset can recover from greedy mistakes.
+- Q: ¿Por qué sigo perdiendo aunque al principio limpio líneas con facilidad?
 
-### Frequently Asked Questions (FAQ)
+  A: Probablemente te estás comprometiendo demasiado con un solo lado del
+  tablero y pierdes flexibilidad. Reequilibra la construcción y mantén siempre
+  un bolsillo de emergencia.
 
-- Q: Why do I keep losing despite early good clears?
+- Q: ¿Es obligatorio rotar las piezas para ganar?
 
-A: You’re over‑committing to one side and losing flexibility. Rebalance and keep a bailout pocket.
+  A: No, pero ayuda. Cuando la rotación es limitada, confía en las formas
+  simétricas y en mantener carriles amplios y abiertos.
 
-- Q: Is rotation required to win?
+- Q: ¿Debo colocar las piezas grandes primero o al final?
 
-A: No, but it helps. When rotation is limited, rely on symmetry and larger open lanes.
-
-- Q: Should I place big shapes first or last?
-
-A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
-
+  A: Cuando la cuadrícula está apretada, coloca primero la pieza más difícil.
+  Cuando está abierta, usa las grandes para preparar limpiezas de varias líneas
+  en un solo turno.

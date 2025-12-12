@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: football-kickoff
-title: '[DE] Football Kickoff'
+title: "Football Kickoff"
 description: >-
-  [DE] Football Kickoff spotlights special teams — aim kicks, read wind, and
-  nail field position with smart power control.
+  Football Kickoff stellt das Special Team in den Mittelpunkt: Ziele deine
+  Kicks, lies den Wind und sichere Feldposition mit gut dosierter Schusskraft.
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/football-kickoff.jpg
 tags:
@@ -14,37 +14,42 @@ score: 3.8/5  (1709 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Football Kickoff konzentriert sich auf Kicks im American Football: Field Goals,
+Kickoffs und gelegentliche Punts. Wind, Snap-Timing und Ausrichtung des Balls
+spielen eine Rolle; dein Timing auf der Powermeter-Anzeige und die gewählte
+Richtung entscheiden über Weite und Präzision.
 
+### Strategie & Tipps
 
+1. **Wind lesen:** Ziele leicht gegen den Wind; je stärker er weht, desto
+   größer muss die Korrektur ausfallen.
+2. **Powertiming:** Triff möglichst nahe am Sweetspot – zu viel Kraft erhöht
+   das Risiko, dass der Ball verzieht.
+3. **Flugkurve anpassen:** Für weite Kicks hilft mehr Bogen; für kurze, präzise
+   Schüsse ist eine flachere Flugbahn stabiler.
+4. **Kickoff-Platzierung:** Ziele auf die Ecken, um Returns zu begrenzen, und
+   variiere die Tiefe, um schlechte Feldposition zu erzwingen.
+5. **Punts:** Versuche "Coffin Corner"-Punts mit viel Hangtime, damit dein Team
+   den Return rechtzeitig stellen kann.
 
-### Detailed Game Introduction
+### Steuerung
 
-Football Kickoff focuses on American‑football kicking scenarios: placekick field goals, directional kickoffs, and occasional punts. Wind, snap timing, and laces matter; clean timing on the power meter and correct aim decide distance and accuracy.
+- Mit Maus/Tasten zielen; Stärke über eine Anzeige wählen und im grünen Bereich
+  loslassen.
 
-### Gameplay Strategy & Walkthrough
+### Häufige Fragen (FAQ)
 
-1.  **[DE]** Wind read: Offset aim into the wind; stronger winds require larger compensation.
-2.  **[DE]** Power timing: Stop near the sweet spot; over‑powering increases hook/slice risk.
-3.  **[DE]** Trajectory: For long kicks, add arc; for short accuracy, lower arc reduces drift.
-4.  **[DE]** Kickoff placement: Target corners to limit returns; vary depth to force poor field position.
-5.  **[DE]** Punts: Aim for coffin corner and hang time to allow coverage.
+- **F: Warum ziehen meine Kicks so stark zur Seite?**  
+  **A:** Meist überziehst du die Powermeter-Anzeige oder verpasst den
+  Genauigkeitspunkt. Schieße etwas unter Vollpower und konzentriere dich auf
+  sauberes Timing.
 
-### Controls Guide
+- **F: Wie schieße ich weiter?**  
+  **A:** Nähe dich der Maximalpower an und gib dem Ball einen höheren Bogen,
+  ohne die Genauigkeit zu vernachlässigen.
 
-- Aim with mouse/keys; set power with a meter; release on the accuracy zone.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Why do my kicks hook hard?
-
-A: You’re slamming max power or mis‑timing accuracy. Reduce power slightly and hit the accuracy zone cleanly.
-
-- Q: How to kick farther?
-
-A: Hit near‑max power with a high arc, but ensure accuracy timing to avoid drift.
-
-- Q: Best kickoff strategy?
-
-A: Corner deep kicks with hang time to force returns toward the sideline.
-
+- **F: Was ist eine gute Kickoff-Strategie?**  
+  **A:** Tiefe Kicks in die Ecke mit viel Hangtime zwingen den Gegner oft zu
+  schwachen Returns an der Seitenlinie.

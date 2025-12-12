@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: 2020-connect
-title: '[ES] 2020 Connect'
+title: "2020 Connect juego de combinar números"
 description: >-
-  [ES] 2020 Connect is a number‑merge puzzler — connect equal tiles, create
-  higher values, and manage space for big chains.
+  2020 Connect es un puzle relajado de combinar números: une casillas con el
+  mismo valor, crea fichas más altas y administra el espacio para encadenar
+  grandes combos y batir tus récords.
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
 thumbnail: /new-images/2020-connect.png
 tags:
@@ -15,29 +16,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+2020 Connect es un juego de combinar números tranquilo pero muy estratégico.
+Trazas líneas entre fichas con el mismo valor para fusionarlas en el número
+siguiente, abrir huecos en el tablero y preparar reacciones en cadena. Una buena
+planificación del espacio y "pensar a futuro" son la clave para mantener la
+partida viva y alcanzar puntuaciones muy altas.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-2020 Connect is a calm, strategic number‑merge game. Draw connections between tiles of the same value to merge them into the next value, open space, and set up cascades. Smart spacing and future‑proofing keep the board alive for high scores.
+1.  **Construye un centro fuerte:** Mantén los valores altos cerca del centro
+    para que puedan conectarse en varias direcciones.
+2.  **Evita las esquinas:** Las esquinas tienden a atrapar fichas y bloquear
+    combinaciones; usa los bordes con moderación.
+3.  **Planifica las cascadas:** Coloca parejas de números de forma que una sola
+    fusión desencadene otras fusiones a su alrededor.
+4.  **Gestiona el espacio:** Procura dejar siempre al menos una fila o columna
+    flexible que te permita escapar de malas apariciones.
+5.  **Fusiona paso a paso:** No te obsesiones con llegar al valor máximo de
+    golpe; las fusiones intermedias conservan más opciones de movimiento.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Build centers: Keep higher values central so they can connect in multiple directions.
-2.  **[ES]** Avoid corners: Corners trap values and stall merges; use edges sparingly.
-3.  **[ES]** Plan cascades: Position pairs so a single merge triggers additional merges.
-4.  **[ES]** Space management: Always leave at least one flexible lane to escape bad spawns.
-5.  **[ES]** Incremental merges: Don’t rush to max a value—step merges maintain options.
+- **Dibujar:** Haz clic o toca y arrastra para conectar números iguales siguiendo
+  las reglas del juego.
+- **Deshacer (si está disponible):** Algunos modos ofrecen deshacer limitado
+  para corregir un trazo mal hecho.
+- **Reiniciar:** Puedes empezar una nueva partida en cualquier momento.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Draw: Click/tap and drag to connect equal numbers per rules.
-- Undo (if available): Limited undos can salvage mis‑draws.
-- Restart: Start a fresh board at any time.
+- **Me quedo sin espacio, ¿qué hago?**  
+  En lugar de perseguir siempre una sola gran fusión, céntrate en limpiar una
+  fila o columna para recuperar movilidad.
 
-### Frequently Asked Questions (FAQ)
+- **¿Tiene condición de victoria?**  
+  Normalmente el modo es infinito; el objetivo es alcanzar ciertos valores
+  objetivo o superar tus mejores puntuaciones.
 
-- I run out of space—what now? Focus on clearing a lane rather than chasing a single big merge.
-- Is there a win condition? Typically endless; aim for target values or high score milestones.
-- Any pattern tips? Centralize big tiles; keep small tiles near edges as feeders.
-
+- **¿Algún consejo de patrones?**  
+  Mantén las fichas grandes en el centro y usa los números pequeños en los
+  bordes como "alimentadores" para preparar nuevas fusiones.

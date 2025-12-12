@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-magic-xmas
-title: '[ZH TRANSLATION NEEDED] Jewel Magic Xmas'
-description: >-
-  [ZH TRANSLATION NEEDED] Get into the holiday spirit with Jewel Magic Xmas! A
-  festive match-3 puzzle game where you swap Christmas ornaments to solve
-  puzzles and complete cheerful levels.
+title: 《Jewel Magic Xmas》圣诞魔法宝石
+description: 《Jewel Magic Xmas》是一款圣诞主题的三消游戏，在飘雪的冬日场景中交换圣诞球、拐杖糖和铃铛，利用魔法道具和连锁消除完成一个个温馨关卡。
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
 thumbnail: /new-images/jewel-magic-xmas.png
 tags:
@@ -18,33 +15,33 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jewel Magic Xmas is a festive and cheerful match-3 puzzle game that wraps the classic jewel-matching experience in a delightful Christmas theme. Players will find themselves in a winter wonderland, swapping colorful ornaments, candy canes, and bells. The goal is to match three or more identical festive items to complete level objectives, create powerful combos, and spread the holiday cheer.
+《Jewel Magic Xmas》是一款包裹在圣诞氛围里的经典三消游戏。棋盘被打造成雪景与圣诞小镇，你需要交换相邻的圣诞饰品（如彩球、拐杖糖、铃铛等），让三颗及以上同类图案排成一线来完成消除。通过合理下子创造强力特殊道具，再配合连锁反应，就能在限定步数内清除冰块、运送礼物或达成目标分数。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Festive Power-ups:** The key to clearing the board is creating special items by matching more than three ornaments.
-    * [ZH TRANSLATION NEEDED] **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
-    * [ZH TRANSLATION NEEDED] **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
-    * [ZH TRANSLATION NEEDED] **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
-2.  [ZH TRANSLATION NEEDED] **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
-3.  [ZH TRANSLATION NEEDED] **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
-4.  [ZH TRANSLATION NEEDED] **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **善用节日特效道具**：通过匹配 4 个或更多装饰物可生成不同的节日特效宝石：  
+    *   **4 连**：生成直线消除饰品，可横向或纵向清除一整行/一整列。  
+    *   **“L / T 形”5 连**：生成圣诞炸弹，爆炸时清除周围一大片区域。  
+    *   **“直线”5 连**：生成多彩魔法饰品，与任意颜色交换即可清除全盘该颜色物件。  
+2.  **组合特效制造“大扫除”**：将两颗特殊宝石交换往往能制造跨半屏甚至全屏的清除效果，是应对棘手关卡的重要手段，例如炸弹 + 直线宝石、双彩色宝石等。  
+3.  **紧盯关卡目标**：有些关卡需要打碎冰块或雪堆，有些要求把礼物箱送到底部。每一步行动前先看清任务描述，把移动集中在对目标有贡献的区域，减少无意义三消。  
+4.  **利用底部连锁提高效率**：优先在棋盘底部制造消除会让更多饰品从上方落下，更容易触发连续三消和大范围连锁，用有限步数完成更多清除。  
 
-[ZH TRANSLATION NEEDED] The game is played with simple mouse or touch controls.
+### 操作说明
 
-*   **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple mouse or touch controls.
+- **交换饰品**：点击并拖动任意饰品，与相邻饰品互换位置。只有在能形成三消（或更多）时，交换才会被执行。  
 
-*   **Q: How do I break the frozen ice blocks?**
-     *   **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
+### 常见问题（FAQ）
 
-*   **Q: What is the best combo?**
-     *   **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
+*   **Q: 冰块怎么打碎？**  
+    *   **A:** 只要在冰块相邻位置完成一次三消，就能对冰块造成破坏，有些加厚冰块需要多次邻接消除才能完全清除。  
 
-*   **Q: What happens if I run out of moves?**
-     *   **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+*   **Q: 最强的组合是哪种？**  
+    *   **A:** 通常是两颗“直线 5 连”生成的多彩饰品互换，可以直接清除整个棋盘，非常适合用来解决高难关卡或最后一搏。  
 
+*   **Q: 走完步数但目标没达成会怎样？**  
+    *   **A:** 如果在限定步数内未达成关卡目标，本局就会失败，需要重新挑战。部分版本可能提供额外步数的付费/道具选项，具体以实际规则为准。

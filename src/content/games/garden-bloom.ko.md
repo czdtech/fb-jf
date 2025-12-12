@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: garden-bloom
-title: '[KO] Garden Bloom'
+title: Garden Bloom 가든 블룸
 description: >-
-  [KO] Restore a beautiful garden in Garden Bloom! Solve challenging match-3
-  puzzles, earn stars, and choose from lovely decorations to design the garden
-  of your dreams.
+  매치‑3 퍼즐을 풀어 별을 모으고, 폐허가 된 정원을 다시 꾸며 가는 힐링 퍼즐 게임입니다. 꽃과 장식을 직접 골라 자신만의 정원을 디자인해
+  보세요.
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/garden-bloom.png
 tags:
@@ -19,37 +18,74 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Garden Bloom is a relaxing and creative game that beautifully blends classic match-3 puzzles with garden design and restoration. Players are tasked with transforming a neglected garden back to its former glory. The core of the game involves completing match-3 levels, where you swap colorful flowers and other garden elements to achieve specific goals. Successfully beating a level rewards you with stars, which act as the currency to perform tasks in the garden, such as cleaning up, planting flowers, and placing beautiful decorations.
+`Garden Bloom`은 클래식한 매치‑3 퍼즐과 정원 꾸미기, 리모델링 요소를 자연스럽게
+섞어 놓은 편안한 힐링 게임입니다. 플레이어는 방치된 정원을 다시 아름답게
+되살리는 일을 맡게 되며, 핵심 진행은 다양한 매치‑3 스테이지를 클리어해 별을
+모으는 것입니다. 퍼즐에서 얻은 별은 쓰레기를 치우고, 꽃을 심고, 벤치나 분수 같은
+장식을 배치하는 데 사용됩니다.  
+레벨을 진행할수록 새로운 구역이 열리고, 점점 더 넓은 정원을 자신만의 스타일로
+꾸밀 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** **The Two-Part Gameplay:**
-    *   **[KO]** **Match-3 Puzzles:** This is where you earn your stars. Each level has a unique objective (e.g., collect 30 red flowers, clear all the dirt patches) that must be completed in a limited number of moves.
-    *   **[KO]** **Garden Restoration:** Use the stars you've earned to complete tasks from your to-do list. This involves making design choices and progressively unlocking new areas of the garden.
+1. **두 부분으로 나뉜 게임 구조**  
+    - **매치‑3 퍼즐**: 별을 획득하는 핵심 모드입니다. 각 레벨에는 “빨간 꽃 30개
+     모으기”, “흙이 덮인 칸 모두 없애기”처럼 제한된 이동 수 안에 달성해야 하는
+     목표가 정해져 있습니다.  
+    - **정원 복원**: 퍼즐에서 모은 별을 사용해 할 일 목록의 작업들을 하나씩
+     완료합니다. 쓰레기를 치우거나 구조물을 수리하는 것은 물론, 장식물의
+     디자인을 직접 선택하는 과정도 포함됩니다.
 
-2.  **[KO]** **Match-3 Strategy:**
-    *   **[KO]** **Focus on the Objective:** Don't just make random matches. Always prioritize matches that directly help you achieve the level's goal.
-    *   **[KO]** **Create Power-ups:** Matching more than three items creates powerful boosters. A 4-in-a-row match might create a bee that clears a line, while an L-shape match could create a bomb. Combining these boosters leads to even bigger board-clearing effects.
-    *   **[KO]** **Plan Your Moves:** Think a step or two ahead. Look for opportunities to set up cascades or special gem combinations. Since moves are limited, every swap counts.
+2. **매치‑3 플레이 전략**  
+    - **목표 우선 플레이**: 아무 곳이나 맞추기보다는, 현재 레벨 목표에 직접
+     기여하는 매치부터 찾아서 진행해야 합니다. 필요 없는 색만 정리하다 보면
+     이동 수가 부족해지기 쉽습니다.  
+    - **파워업 만들기**: 4개 이상을 한 번에 맞추면 줄을 지우는 특수 타일이나
+     폭탄 같은 강력한 파워업이 생성됩니다. 서로 다른 모양(일자, L자, T자 등)에
+     따라 효과가 달라지며, 두 파워업을 붙여 터뜨리면 화면 대부분을 지워 버리는
+     큰 연쇄를 만들 수 있습니다.  
+    - **수 몇 수 앞까지 계산하기**: 이동 수가 제한되어 있기 때문에, 한 번의
+     교환으로 어떤 낙하와 연쇄가 일어날지 미리 생각해 두면 효율이 크게
+     올라갑니다. 특히 목표 타일 근처에서는 불필요한 매치를 줄이고, 큰 연쇄를
+     노려 보세요.
 
-3.  **[KO]** **Garden Design:**
-    *   **[KO]** As you complete tasks, you will often be given a choice between three different styles for a decoration (e.g., three different types of benches). Choose the one that best fits your vision for the garden!
+3. **정원 디자인**  
+    - 작업을 완료할 때마다 벤치, 화분, 길바닥 타일 등 여러 장식 중에서 하나를
+     선택하라는 선택지가 자주 등장합니다. 같은 기능의 장식이라도 색과 스타일이
+     다르므로, 자신의 취향에 맞는 조합을 골라 정원 전체의 분위기를 만들어
+     보세요.
 
-### Controls Guide
+### 조작 방법
 
-*   **[KO]** **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.
-*   **[KO]** **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.
+- **퍼즐 화면**: 마우스나 손가락으로 인접한 두 타일(꽃, 잎 등)을 드래그해 서로
+  위치를 바꿉니다. 바꾼 결과로 최소 3개 이상이 일직선으로 이어져야만 교환이
+  성공하며, 그렇지 않으면 제자리로 돌아갑니다.  
+- **정원 화면**: 화면 하단이나 옆에 있는 할 일 목록을 클릭/탭하면 필요한 별 수와
+  작업 내용을 볼 수 있습니다. 별이 충분하다면 해당 작업을 눌러 바로 수행하고,
+  장식 선택 창이 뜨면 마음에 드는 스타일을 골라 배치합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: How do I earn stars?**
-    *   **[KO]** **A:** You can only earn stars by successfully completing the match-3 puzzle levels. Each level you beat will typically award you one star.
+- **Q: 별은 어떻게 얻나요?**  
+  **A:** 별은 매치‑3 퍼즐 레벨을 클리어해야만 획득할 수 있습니다. 대부분의
+  레벨은 한 번 클리어할 때 별 1개를 주며, 특정 구간에서는 연속 클리어나 추가
+  목표를 통해 더 많은 보상을 받을 수 있습니다.
 
-*   **[KO]** **Q: What happens if I run out of moves in a puzzle?**
-    *   **[KO]** **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
+    - **Q: 퍼즐에서 이동 수를 다 쓰면 어떻게 되나요?**  
+  **A:** 지정된 이동 수 안에 목표를 달성하지 못하면 해당 시도는 실패로
+  처리되고, 생명(하트)을 1개 잃게 됩니다. 시간이 지나면서 생명이 자동으로
+  회복되거나, 일부 버전에서는 게임 내 재화를 사용해 이동 수를 추가하거나
+  생명을 즉시 회복할 수 있습니다.
 
-*   **[KO]** **Q: Can I change the decorations I've chosen for the garden?**
-    *   **[KO]** **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
+- **Q: 이미 선택한 정원 장식을 나중에 바꿀 수 있나요?**  
 
+    - **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
+
+- **Q: Can I change the decorations I've chosen for the garden?**
+
+    - **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
+  **A:** 많은 게임에서 한 번 고른 장식은 기본적으로 고정되지만, 마음이
+  바뀌었을 때 장식을 길게 눌러 교체 메뉴를 열고, 일정량의 코인이나 재화를
+  지불해 다른 스타일로 바꿀 수 있는 경우가 많습니다.

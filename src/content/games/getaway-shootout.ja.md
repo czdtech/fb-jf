@@ -1,42 +1,36 @@
 ---
+title: "Getaway Shootout"
+description: "カオスな物理レース＆シューティング：逃走地点までホップして進み、変な武器を手に取り、2人プレイやソロでライバルを出し抜きましょう。"
+iframeSrc: "https://ubg44.github.io/GetawayShootout/"
+thumbnail: "/new-images/getaway-shootout.jpg"
+urlstr: "getaway-shootout"
+score: "4.4/5  (670 votes)"
+tags: ["action", "multiplayer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: getaway-shootout
-title: '[JA TRANSLATION NEEDED] Getaway Shootout'
-description: >-
-  [JA TRANSLATION NEEDED] Chaotic physics race‑and‑shoot: hop your way to the
-  getaway point, grab goofy weapons, and outsmart rivals in 2‑player or solo.
-iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
-thumbnail: /new-images/getaway-shootout.jpg
-tags:
-  - action
-  - multiplayer
-score: 4.4/5  (670 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Getaway Shootoutは、キャラクターが交互にホップ（跳ねて）して前進する、対戦型の物理プラットフォーマーです。各ラウンドでは、はしご、動くプラットフォーム、武器箱でいっぱいの横スクロールマップに放り込まれます。目的は、ドタバタな銃やガジェットを使って対戦相手を妨害しながら、最初に脱出地点に到達することです。このぎこちない動きこそがポイントです。ホップのタイミング、坂道での勢い、空中での方向転換をマスターした者がレースを制します。
 
+### 遊び方
+- 左右に交互にホップしてスピードを上げましょう。短いタップで微調整、長押しで大ジャンプです。
+- 箱を拾ってピストル、ロケットランチャー、ガジェットなどの武器を手に入れましょう。使い所は慎重に。
+- マップの近道や動くプラットフォームの周期を覚えて、リードを保ちましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Getaway Shootout is a competitive physics platformer where characters lurch forward with alternating hops. Each round drops you into a side‑scrolling map full of ladders, moving platforms, and weapon crates. The goal is to reach the extraction point first while using slapstick guns and gadgets to disrupt opponents. The awkward locomotion is the point: mastering hop timing, momentum on slopes, and mid‑air direction changes wins races.
+### 操作方法
+- 2つのキーで左/右にホップ。アイテム使用用の別キーがあります（キーバインドはホストによって異なります）。ローカル2人プレイに対応しています。
 
-### How to Play
-- Alternate hops to build speed; use short taps for micro‑steps and long holds for vaults.
-- Grab crates for weapons like pistols, rocket launchers, or gadgets; use them sparingly.
-- Learn map shortcuts and moving platform cycles to stay ahead.
+### ヒント
+- 坂道では、長押しのタイミングを計って、垂直方向の上昇を前方へのスピードに変換しましょう。
+- チョークポイント（狭い場所）や相手がジャンプしている間に武器を撃ちましょう。空中ではノックバック（吹き飛び）が最も強くなります。
+- スタートを練習しましょう。序盤の加速が接戦を制することがよくあります。
 
-### Controls
-- Two keys to hop left/right; separate keys to use items (keybinds vary by host); supports local 2‑player.
-
-### Tips
-- On slopes, time longer holds to convert vertical gain into forward speed.
-- Fire weapons at chokepoints or while an opponent jumps—knockback is strongest mid‑air.
-- Practice starts: early acceleration often decides close races.
-
-### FAQ
-- Q: How do I move faster with such clumsy controls?  
-[JA TRANSLATION NEEDED]   A: Use alternating long/short hops and leverage slopes for momentum.
-- Q: Can I play with a friend on one keyboard?  
-[JA TRANSLATION NEEDED]   A: Yes, most hosts map a second control set for local multiplayer.
-- Q: Do weapons respawn during a round?  
-[JA TRANSLATION NEEDED]   A: Crates respawn on timers; memorize placements to plan routes.
-
+### よくある質問 (FAQ)
+- **Q: こんなに不器用な操作でどうやって速く動くのですか？**  
+  A: 長短のホップを交互に使い分け、坂道を利用して勢いをつけましょう。
+- **Q: 1つのキーボードで友達と遊べますか？**  
+  A: はい、ほとんどのホスト版ではローカルマルチプレイヤー用に2つ目の操作セットが割り当てられています。
+- **Q: ラウンド中に武器はリスポーンしますか？**  
+  A: 箱はタイマーでリスポーンします。配置を覚えてルートを計画しましょう。

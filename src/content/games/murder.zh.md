@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: murder
-title: '[ZH TRANSLATION NEEDED] Murder'
+title: "《Murder》暗杀派对推理"
 description: >-
-  [ZH TRANSLATION NEEDED] Murder is a suspenseful social deduction game where
-  one player secretly acts as the murderer, aiming to eliminate others without
-  being discovered, while other players try to identify and stop them.
+  《Murder》是一款紧张刺激的社交推理小游戏，在一群玩家之中有人暗中扮演“凶手”，试图悄悄干掉其他人而不被识破，其余玩家则要通过观察与推理揪出真凶。
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/murder.jpg
 tags:
@@ -18,37 +16,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Murder" is a tense and exciting social deduction game. Among a group of players, one is secretly designated as the "murderer," whose goal is to secretly eliminate other players without being discovered. Other players, on the other hand, need to observe, deduce, and discuss to identify the murderer and stop them. The game is full of strategy and psychological warfare, with each game session full of uncertainty.
+《Murder》是一款节奏紧凑的社交推理游戏。在一群看似普通的玩家中，有一位被秘密指定为“凶手”，他的目标是在不被发现的前提下逐个暗杀其他玩家。而剩下的玩家则需要通过观察对方行为、收集线索和相互讨论来锁定嫌疑人并阻止凶手继续犯案。游戏充满心理博弈与策略，每一局都充满不确定性与反转可能。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **For the Murderer**: 
-     *   **Act in Secret**: Choose the right time and place to secretly eliminate targets.
-     *   **Create Alibis**: Interact with others or move around to create confusion.
-     *   **Avoid Exposure**: Stay calm and do not exhibit unusual behavior.
-2.  **For the Civilians**: 
-     *   **Observe Behavior**: Pay attention to unusual actions from other players, such as acting alone or frequently approaching targets.
-     *   **Gather Clues**: Look for in-game hints or events that might point to the murderer.
-     *   **Reason Logically**: Through discussion and analysis, gradually narrow down the list of suspects.
-3.  **General Strategies**: 
-     *   **Maintain Communication**: Civilians need to communicate effectively and share information.
-     *   **Utilize Environment**: Familiarity with the game map and mechanics can help the murderer hide better or civilians find clues faster.
+1.  **凶手视角：**  
+    *   **隐蔽出手：** 选择视野死角、人少的地方或混乱时机下手，尽量避免在公共视线中动手。  
+    *   **营造不在场证明：** 通过跟队、假装做任务或刻意与众人同框，制造“我也在现场”的印象，分散他人怀疑。  
+    *   **保持冷静：** 被质疑时不要过度紧张或抢话，适度解释与反问，往往比激烈否认更不易露馅。
+2.  **平民视角：**  
+    *   **观察行为：** 留意谁总是单独行动、频繁接近被害者附近或刻意远离人群。  
+    *   **收集线索：** 关注系统提示、现场位置、时间线等信息，谁在案发时“来得太巧”可能就是关键线索。  
+    *   **逻辑推理：** 通过讨论还原每个人的行动路径，排除明显不可能的对象，逐步缩小嫌疑范围。
+3.  **泛用策略：**  
+    *   **保持沟通：** 平民之间要积极交流自己看到的信息，避免凶手利用信息不对称逐个击破。  
+    *   **利用地图与机制：** 熟悉场景和机关位置能帮助凶手更好埋伏，也能帮助平民提前发现异样与逃生路线。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Typically use keyboard arrow keys or WASD keys to control character movement.
-*   **Interaction**: When near objects or other players, there might be interaction prompts (e.g., pick up weapons, talk).
-*   **Murderer Abilities**: The murderer will have specific abilities to eliminate targets; the exact operation depends on the game version (e.g., clicking on a target or using a skill key).
-*   **Civilian Self-defense**: In some game versions, civilians can defend themselves or fight back under certain conditions.
+*   **移动：** 一般使用方向键或 WASD 控制角色在场景中移动。
+*   **互动：** 接近物品或其他玩家时，会弹出对应的交互提示，如拾取、对话或执行行动等。
+*   **凶手技能：** 凶手通常拥有专门的击杀按键或技能键（具体以游戏版本为准），用于在合适时机秒杀目标。
+*   **平民自保：** 某些版本中，平民在特定条件下可以进行自卫或触发警报，以提高生存机会。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How do I determine who the murderer is?**
-     **A**: Players need to judge by observing unusual behavior, analyzing clues, listening to discussions, and combining their own deductions. There are no direct hints; it all relies on the players' intelligence.
-2.  [ZH TRANSLATION NEEDED] **Q: How should the murderer hide their identity?**
-     **A**: The murderer needs to avoid exposure in public, choose discreet times and locations to eliminate targets, and try to mimic the movement patterns of civilians.
-3.  [ZH TRANSLATION NEEDED] **Q: How can civilians protect themselves in the game?**
-     **A**: Civilians can improve their survival rate by sticking together, being aware of their surroundings, and sharing information promptly. Avoid acting alone, especially with suspects.
-4.  [ZH TRANSLATION NEEDED] **Q: How many players are typically needed to start a game?**
-     **A**: Such games usually require at least 4-6 players for a good experience, depending on the game version and rule settings.
+### 常见问题
+
+1.  **问：作为平民如何判断谁是凶手？**
+    **答：** 需要综合观察他人的行动轨迹、现场出现的时机、是否频繁出现在尸体附近，以及在讨论中逻辑是否自洽等，没有绝对证据，全靠信息与推理积累。
+2.  **问：凶手如何隐藏身份？**
+    **答：** 尽量避免在大庭广众下击杀，选择人少的角落下手；事后要主动参与讨论、制造“正常玩家”的形象，并适当提出其他嫌疑目标分散注意力。
+3.  **问：平民如何提高存活率？**
+    **答：** 尽量结伴而行，避免长时间独自一人；在不影响任务的前提下，多待在视野开阔、人多的区域，一旦发现异动可及时呼救或汇报。
+4.  **问：一局游戏建议多少人参与？**
+    **答：** 一般建议 4–6 人以上参与体验最佳，人少推理难度较低，人多则博弈和迷惑性更强，具体以游戏版本与房间设置为准。

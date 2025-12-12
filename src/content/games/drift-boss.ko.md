@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: drift-boss
-title: '[KO] Drift Boss'
+title: "Drift Boss 드리프트 보스"
 description: >-
-  [KO] Drift Boss is a one‑button drifting game: time your turns to stay on the
-  track and earn coins for upgrades.
+  Drift Boss는 공중에 떠 있는 좁은 트랙 위에서 한 버튼으로만 드리프트를 조절하며
+  최대한 오래 버티는 레이싱 게임입니다. 타이밍 좋게 눌렀다 떼며 코너를 돌아 나가고,
+  코인을 모아 더 좋은 차량을 해금해 보세요.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/drift-boss.jpg
 tags:
@@ -17,27 +18,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-One‑button drifting on a floating track: tap/hold to drift at corners, release to straighten, and stay on the platform to bank coins for vehicle upgrades.
+### 개요
 
-### How to Play
-- Anticipate corner entry; press to start a drift, release to exit.
-- Narrow platforms and bumps require shorter, snappier holds.
-- Coins unlock cars with better traction or stability.
+*Drift Boss*는 공중에 떠 있는 좁은 트랙 위를 한 버튼만으로 드리프트하며 주행하는
+게임입니다. 코너에서 버튼을 누르면 차가 미끄러지며 방향을 틀고, 버튼을 떼면 다시
+직선 주행으로 돌아옵니다. 트랙 밖으로 떨어지지 않고 멀리 갈수록 더 많은 코인을
+얻어, 이를 사용해 새 차량을 해금하거나 능력을 업그레이드할 수 있습니다.
 
-### Controls
-- Mouse/Space/Touch: hold to drift; release to go straight.
+### 플레이 방법
+- 코너 진입 타이밍을 미리 예측해, 돌기 직전에 버튼을 눌러 드리프트를 시작합니다.
+- 트랙이 좁거나 울퉁불퉁한 구간에서는 버튼을 짧게 눌렀다 떼는 "짧은 홀드"로
+  각도를 세밀하게 조절하세요.
+- 코인으로는 접지력이나 안정성이 더 좋은 차량을 해금할 수 있어, 장거리 주행에
+  도움이 됩니다.
 
-### Tips
-- Look ahead for S‑bends; use micro‑taps instead of long holds.
-- Don’t over‑correct—falling usually comes from late releases.
-- Spend early on stability to survive longer tracks.
+### 조작
+- 마우스 클릭, 스페이스바, 터치 등 하나의 입력으로 드리프트를 시작/유지하고,
+  버튼을 떼면 차가 다시 직선으로 향합니다.
 
-### FAQ
-- Q: Is there braking?
-A: No manual brake—timed holds manage angle and speed through corners.
-- Q: Do cars handle differently?
-A: Yes—higher tiers offer grippier or more forgiving drift windows.
-- Q: How to farm coins faster?
-A: Chain long runs and complete daily/track challenges when present.
+### 팁
+- 멀리 있는 S자 구간을 미리 보고, 긴 홀드 대신 짧은 탭을 여러 번 사용해
+  방향을 단계적으로 조정하세요.
+- 대부분의 실수는 너무 늦게 버튼을 떼어 트랙 밖으로 미끄러지는 상황에서 발생합니다.
+  항상 한 박자 일찍 떼는 느낌으로 연습해 보세요.
+- 초반에는 속도보다 안정성을 중시하는 차량에 투자해, 트랙에 오래 머무르는 것이
+  코인을 빠르게 모으는 길입니다.
 
+### 자주 묻는 질문(FAQ)
+- **Q: 브레이크 버튼은 없나요?**  
+  **A:** 별도의 브레이크는 없고, 버튼을 누르는 시간과 각도로 코너에서의 속도와
+  궤적을 조절하게 됩니다.
+- **Q: 차량마다 조작감이 다른가요?**  
+  **A:** 네, 상위 차량일수록 접지력이나 드리프트 허용 범위가 좋아져 실수에 더
+  관대해집니다.
+- **Q: 코인을 빨리 모으는 방법이 있을까요?**  
+  **A:** 가능한 한 긴 주행을 이어 가는 것이 기본이며, 데일리 미션이나 특정 거리
+  달성 도전 과제가 있는 버전에서는 해당 목표를 달성해 추가 코인을 얻을 수
+  있습니다.

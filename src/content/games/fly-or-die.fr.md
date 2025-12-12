@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: fly-or-die
-title: '[FR] Fly or Die'
-description: >-
-  [FR] Evolution survival (.io): eat correct food to evolve through the chain
-  while avoiding predators and hazards across sky and ground biomes.
+title: "Fly or Die"
+description: "Survie évolutive (.io) : mange les bonnes proies pour grimper dans la chaîne alimentaire tout en évitant prédateurs et dangers à travers ciels et sous‑sols."
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/fly-or-die.jpg
@@ -16,30 +14,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Fly or Die est un jeu de survie multijoueur basé sur l’évolution. Tu commences comme une petite créature et dois manger uniquement certains types de nourriture pour gagner de l’XP et évoluer vers des formes de plus en plus puissantes. En parallèle, tu dois éviter les prédateurs de rang supérieur et les dangers de l’environnement, que ce soit dans le ciel ou près du sol.
 
+### Comment jouer
 
-### Overview
-Multiplayer survival with evolution: start as a small creature, consume specific items to level up into new forms, and avoid predators and environmental threats.
+- Vérifie en permanence les icônes de ton régime alimentaire : seules les proies indiquées te donnent de l’XP.
+- Surveille les icônes de prédateurs : les créatures de rang plus élevé peuvent te tuer ; cache‑toi ou fuis dès que tu les vois approcher.
+- Gère ta jauge d’eau ou d’oxygène (selon la créature) et utilise les courants d’air chaud ou ascendances pour optimiser tes déplacements.
 
-### How to Play
-- Check your current diet icons; only those items grant XP.
-- Watch predator icons—higher tiers can kill you; hide or flee.
-- Manage water/oxygen (when applicable) and use thermals/updrafts.
+### Commandes
 
-### Controls
-- Mouse/Keyboard to move/fly; boost keys vary by host.
+- Souris / clavier pour te déplacer et voler ; les touches de boost varient selon l’hébergeur.
 
-### Tips
-- Eat safely at the edge of busy zones; don’t contest predators.
-- Memorize the food chain so you can route upgrades quickly.
-- Use verticality to escape—climb high or dive underground depending on form.
+### Astuces
 
-### FAQ
-- Q: How do I evolve to the next creature?
-A: Eat the items shown in your diet bar to earn XP and level up.
-- Q: What happens when a predator catches me?
-A: You lose progress or a life depending on the server rules.
-- Q: Is there team play?
-A: Most servers are FFA; some hosts rotate special modes.
+- Nourris‑toi en bordure des zones les plus fréquentées : évite de te battre pour la nourriture là où les prédateurs rôdent.
+- Mémorise la chaîne alimentaire pour savoir rapidement quelles proies viser et dans quelles zones te placer à chaque évolution.
+- Exploite la verticalité : monte très haut ou plonge sous terre selon ta forme pour échapper aux ennemis.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment évoluer vers la créature suivante ?
+  
+  R : Mange les éléments affichés dans ta barre de régime pour gagner de l’XP ; une fois la barre pleine, tu évolues au stade suivant.
+
+- Q : Que se passe‑t‑il si un prédateur m’attrape ?
+  
+  R : Selon le serveur, tu peux perdre un niveau d’évolution ou une vie entière. Vérifie les règles de la room.
+
+- Q : Y a‑t‑il un mode équipe ?
+  
+  R : La plupart des serveurs sont en FFA, mais certains hébergeurs proposent ponctuellement des modes spéciaux.
 

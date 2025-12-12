@@ -1,72 +1,58 @@
 ---
-locale: ja
-urlstr: sudoku
-title: '[JA TRANSLATION NEEDED] Sudoku'
-description: >-
-  [JA TRANSLATION NEEDED] Sudoku is a classic number puzzle game where players
-  fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box
-  contains all numbers exactly once in this challenging logic-based brain
-  teaser.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
+title: Sudoku
+description: クラシックな数独パズルゲームです。論理的思考を使って9×9のグリッドを数字で埋めましょう。
+iframeSrc: 'https://ubg98.github.io/Sudoku/'
 thumbnail: /new-images/sudoku.jpg
+urlstr: sudoku
+score: 4.5/5  (2876 votes)
 tags:
   - puzzle
   - logic
-  - numbers
-score: 5.0/5  (1136 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - classic
+locale: ja
 ---
 
+### ゲーム紹介
 
+Sudokuは、世界中で愛されているクラシックな論理パズルゲームです。9×9のグリッドを1から9の数字で埋め、各行、列、3×3ブロックに同じ数字が重複しないようにします。
 
-### Game Introduction
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] "Sudoku" is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once. This logic-based brain teaser challenges players' reasoning abilities and patience.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Start Simple**: Look for cells with only one possible answer first; these are usually breakthrough points.
-[JA TRANSLATION NEEDED] 2.  **Elimination Method**: Observe existing numbers in rows, columns, and boxes to eliminate impossible options.
-[JA TRANSLATION NEEDED] 3.  **Candidate Number Method**: Mark possible numbers in empty cells to help with analysis and reasoning.
-[JA TRANSLATION NEEDED] 4.  **Find Hidden Singles**: Look for numbers that can only be placed in one position within a row, column, or box.
-[JA TRANSLATION NEEDED] 5.  **Progressive Advancement**: After filling in each number, re-analyze the entire board to find new breakthrough points.
-
-### How to Play
-
-*   **Select Cell**: Click on empty cells to select them.
-*   **Input Numbers**: Use keyboard number keys 1-9 or click on-screen number buttons to input.
-*   **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
-*   **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
+ - **空のマスを埋める：** グリッドの空のマスに数字を入れます
+ - **ルールに従う：** 各行、列、3×3ブロックに1-9の数字が1回ずつ
+ - **論理的推理：** 可能性を消去して正しい数字を見つけます
+ - **パズルを完成：** すべてのマスを正しく埋めます
 
 
 - **Progressive Advancement**: After filling in each number, re-analyze the entire board to find new breakthrough points.
-### Frequently Asked Questions
+### 操作ガイド
+
+ - **マウス：** マスをクリックして数字を入力
 
 
+- **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
 
+- **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
 
-
+- **Input Numbers**: Use keyboard number keys 1-9 or click on-screen number buttons to input.
+### よくある質問（FAQ）
 
 
 - **Q: How do I know if a Sudoku has a solution?**
-### よくある質問
-- **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
-- **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
-- **Input Numbers**: Use keyboard number keys 1-9 or click on-screen number buttons to input.
+**数独のルールは何ですか？**
 
-### よくある質問
-- **Select Cell**: Click on empty cells to select them.
-[JA TRANSLATION NEEDED] 1.  **Q: How do I know if a Sudoku has a solution?**
 
 - **Q: What if I get stuck?**
-[JA TRANSLATION NEEDED]     **A**: Legal Sudoku puzzles should have a unique solution. If contradictions or multiple solutions appear, there might be issues with the puzzle design.
+各行、列、3×3ブロックに1から9までの数字が1回ずつ入るようにグリッドを埋めます。
+
 
 - **Q: Are there different difficulty levels?**
-[JA TRANSLATION NEEDED] 2.  **Q: What if I get stuck?**
+**どうやって始めればよいですか？**
+
 
 - **Q: Do I need to guess?**
-[JA TRANSLATION NEEDED]     **A**: Carefully check if filled numbers have errors, and use more advanced solving techniques like "naked pairs" or "hidden pairs."
-[JA TRANSLATION NEEDED] 3.  **Q: Are there different difficulty levels?**
-[JA TRANSLATION NEEDED]     **A**: Usually divided into different difficulty levels like easy, medium, hard, and expert.
-[JA TRANSLATION NEEDED] 4.  **Q: Do I need to guess?**
-[JA TRANSLATION NEEDED]     **A**: Standard Sudoku should be solvable through pure logical reasoning without guessing.
+すでに埋められている数字から始めて、論理的に推理して空のマスを埋めます。
+
+**難しい場合はどうすればよいですか？**
+
+確実な数字から始めて、可能性を消去していく方法を使います。

@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: powerwall
-title: '[ZH TRANSLATION NEEDED] Powerwall'
+title: 'Powerwall'
 description: >-
-  [ZH TRANSLATION NEEDED] Defend your goal in Powerwall, a fast-paced arcade
-  game. Use your paddle to block incoming balls and unleash powerful abilities.
+  在快节奏街机游戏 Powerwall 中守护你的球门。使用能量屏障拦截来球，展现你的反应速度和时机把握能力。
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/powerwall.png
 tags:
@@ -17,28 +16,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Powerwall is a minimalist, high-energy arcade game that tests your reflexes and timing. The objective is to defend your goal line by activating a temporary energy barrier—the Powerwall—to block a fast-moving ball. As the ball ricochets around the arena, its speed increases, demanding quicker reactions. The longer you can survive without letting the ball pass, the higher your score will be.
+Powerwall 是一款极简风格、高能量的街机游戏，考验你的反应速度和时机把握。游戏目标是通过激活临时能量屏障——Powerwall——来守护你的球门线，阻挡高速移动的球。随着球在场地中不断弹跳，速度会越来越快，要求你做出更快的反应。你坚持的时间越长，不让球通过，得分就越高。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Timing is Everything:** The core mechanic is activating your Powerwall at the precise moment the ball is about to hit your goal line. Activate it too early, and the wall will disappear. Activate it too late, and the ball will get through. Practice your timing to get a feel for the rhythm.
-2.  [ZH TRANSLATION NEEDED] **Focus on the Ball:** Keep your eyes locked on the ball's trajectory. Don't get distracted by anything else on the screen. Anticipate its path after it bounces off other walls.
-3.  [ZH TRANSLATION NEEDED] **Stay Calm Under Pressure:** As the ball speeds up, it's easy to panic and click too early. Try to remain calm and focused, reacting only when necessary.
-4.  [ZH TRANSLATION NEEDED] **Learn the Angles:** Pay attention to the angles at which the ball bounces. This will help you predict where it will go next and prepare for your next block.
+### 玩法策略与攻略
+1.  **时机就是一切：** 核心机制是在球即将击中球门线的精确时刻激活 Powerwall。激活太早，屏障会消失；激活太晚，球就会穿过。多加练习，找到节奏感。
+2.  **专注于球：** 眼睛紧盯球的运动轨迹，不要被屏幕上的其他东西分散注意力。预判球从其他墙壁反弹后的路径。
+3.  **压力下保持冷静：** 随着球速加快，很容易慌张而过早点击。尽量保持冷静专注，只在必要时做出反应。
+4.  **学习角度：** 注意球反弹的角度，这能帮你预测它的下一步去向，为下次拦截做好准备。
 
-### Controls Guide
+### 操作指南
 
-*   **Activate Powerwall:** Click the left mouse button or tap the screen to activate your energy barrier. The wall only stays active for a very short period, so timing is critical.
+*   **激活 Powerwall：** 点击鼠标左键或点击屏幕来激活能量屏障。屏障只会持续很短的时间，所以时机把握至关重要。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题 (FAQ)
 
-*   **Q: How do I score points?**
-     *   **A:** You score points for each successful block you make with your Powerwall. The score increases with every successful defense.
+*   **问：如何得分？**
+     *   **答：** 每次用 Powerwall 成功拦截球都会得分。每次成功防守后分数都会增加。
 
-*   **Q: Is there any way to slow the ball down?**
-     *   **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.
+*   **问：有办法让球减速吗？**
+     *   **答：** 在标准游戏模式中，球的速度只会增加。没有道具可以让它减速，挑战就在于适应不断提升的速度。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.
+*   **问：游戏的目标是什么？**
+     *   **答：** 目标是尽可能长时间地生存下去，通过成功拦截球来获得尽可能高的分数。
 

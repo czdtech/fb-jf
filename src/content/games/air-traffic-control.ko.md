@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: air-traffic-control
-title: '[KO] Air Traffic Control'
+title: 'Air Traffic Control 에어 트래픽 컨트롤'
 description: >-
-  [KO] Guide aircraft safely in Air Traffic Control — vector planes, avoid
-  conflicts, and coordinate landings in a clean, accessible browser challenge.
+  공중에서 항공기들을 안전하게 분리하고 착륙 순서를 관리하는 관제 퍼즐
+  게임입니다. 항로를 지정해 충돌을 피하고 부드러운 착륙 흐름을 만들어 보세요.
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/air-traffic-control.png
 tags:
@@ -15,35 +15,61 @@ score: 4.2/5  (1846 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Air Traffic Control은 도착·출발 항공기의 이동 경로를 조정해 안전한 간격을
+유지하는 실시간 관제 퍼즐 게임입니다. 각 항공기를 선택해 방향 지시(벡터)를
+내리고, 다운윈드–베이스–파이널로 이어지는 기본 패턴을 그려 주면서, 동시에 두
+비행기가 같은 공간을 점유하지 않도록 시퀀스를 짜는 것이 핵심입니다. 화면을
+보며 충돌 가능성이 있는 경로를 미리 발견하고, 헤딩과 간격을 조정해 활주로로
+안전하게 유도하는 것이 게임의 기본 루프입니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **즉시 충돌 위험부터 해결:** 곧 교차할 것 같은 경로를 가진 항공기부터
+    우선적으로 조정하고, 당장 문제가 없는 트래픽은 상황이 안정될 때까지 잠시
+    두는 것이 좋습니다.
+2.  **초기 간격 미리 만들기:** 합류 지점(파이널 접근) 이전에 헤딩을 약간씩
+    다르게 주거나, 경로 길이를 조정해 일정한 간격을 만들어 두면 마지막 순간의
+    급격한 회전을 줄일 수 있습니다.
+3.  **표준 패턴 유지:** 가능한 한 일정한 다운윈드 → 베이스 → 파이널 흐름을
+    유지하세요. 패턴이 일정하면 시야가 훨씬 편해지고, 새로운 충돌을 찾기도
+    쉬워집니다.
+4.  **속도·고도(지원 시) 적절히 활용:** 일부 버전에서는 속도나 고도 조절이
+    가능합니다. 큰 선회보다는 살짝 속도를 줄이거나 높이를 달리해 간격을
+    벌리는 것이 더 효율적일 때가 많습니다.
+5.  **활주로 정리 상태 확인:** 활주로에 아직 항공기가 있거나, 빠져나가는 데
+    시간이 걸리는 상황에서는 새로운 항공기를 짧은 파이널로 붙이지 않는 것이
+    안전합니다.
+6.  **과도한 회전 지시 피하기:** 불필요한 회전을 많이 시키면 오히려 새로운
+    충돌 가능성이 생깁니다. 최소한의, 명확한 벡터로 문제만 정확히 해결하는
+    것이 좋습니다.
 
-Air Traffic Control is a real‑time, puzzle‑like management game about sequencing arrivals and departures while maintaining safe separation. You select aircraft, issue vectors to build orderly downwind–base–final patterns, and sequence traffic so no two aircraft occupy the same space at the same time. The core loop is conflict detection and resolution: spot converging paths early, adjust headings and spacing, and feed aircraft to the runway at a steady, safe cadence.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+버전마다 세부 UI는 다를 수 있지만 보통은 다음과 같습니다.
 
-1.  **[KO]** Prioritize imminent conflicts: Resolve the closest crossing paths first; defer non‑conflicting traffic until the picture is stable.
-2.  **[KO]** Plan early spacing: Create staggered finals by giving small heading or path differences well before the merge; early decisions prevent last‑second turns.
-3.  **[KO]** Build a standard pattern: Use a consistent downwind → base → final flow; it simplifies visual scanning and reduces surprises.
-4.  **[KO]** Use altitude/speed if available: If the UI supports it, small speed reductions or altitude offsets add separation without large turns.
-5.  **[KO]** Keep the runway clear: Don’t feed another arrival to short final if the runway is still occupied or an aircraft is slow to vacate.
-6.  **[KO]** Avoid over‑vectoring: Each extra turn adds pilot workload and increases the chance of new conflicts—prefer minimal, decisive vectors.
+- 항공기 선택: 기체 아이콘이나 레이더 상의 라벨을 클릭/탭해 선택합니다.
+- 경로/헤딩 설정: 지도 위에 웨이포인트를 클릭해 경로를 찍거나, 드래그해서
+  간단한 진입 경로를 그립니다. 일부 버전은 화면 버튼으로 헤딩을 조정합니다.
+- 속도/고도 조절(지원 시): UI의 화살표나 버튼을 눌러 조금씩 조정합니다.
+- 활주로·접근 지정(지원 시): 착륙시킬 활주로나 접근 지점을 선택해 배정합니다.
 
-### Controls Guide
+### 자주 묻는 질문 (FAQ)
 
-Controls vary by version but commonly include:
+- **충돌을 어떻게 피해야 하나요?**  
+  가능한 한 일찍 경로를 나누고, 서로 반대 방향으로 헤딩을 주어 수평 간격을
+  유지하세요. 속도 조절 기능이 있다면 빠른 기체의 속도를 조금 줄여 간격을
+  벌리는 것도 좋습니다.
 
-- Select aircraft: Click or tap an aircraft label/target.
-- Set path/heading: Click waypoints on the map or drag to draw a short path; some versions provide on‑screen heading buttons.
-- Manage speed/altitude (if available): Use the UI arrows or buttons to make small adjustments; keep changes incremental.
-- Assign runway/approach (if available): Choose a runway or approach fix when sequencing to final.
+- **경보가 뜨는 건 무슨 뜻인가요?**  
+  보통 분리 기준 이하로 접근할 것으로 예상될 때 뜨는 경고입니다. 한쪽 또는
+  양쪽 항공기의 헤딩을 즉시 수정해 서로 멀어지는 경로를 만들어야 합니다.
 
-### Frequently Asked Questions (FAQ)
+- **일시정지나 속도 조절이 가능한가요?**  
+  많은 브라우저 버전에서 일시정지나 게임 속도 조절을 지원합니다. 트래픽이
+  복잡해졌을 때 잠시 멈추고 전체 그림을 정리하는 데 활용해 보세요.
 
-- How do I avoid collisions? Maintain horizontal separation by issuing early vectors; if available, combine gentle speed differences to open gaps.
-- What does a conflict alert mean? It indicates predicted loss of separation; immediately adjust one or both aircraft to diverging headings.
-- Can I pause or change speed? Many browser versions support pause or time controls; use them to plan sequences when the board is busy.
-- Any tip for heavy traffic? Standardize the pattern and meter entries; resolve conflicts far from the runway so the final stays stable.
-
+- **트래픽이 많을 때 팁이 있나요?**  
+  한 방향으로 도는 표준 패턴을 유지하고, 활주로 접근 전 충분히 멀리서부터
+  간격을 만들어 두면 파이널 구간을 훨씬 안정적으로 운영할 수 있습니다.

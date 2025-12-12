@@ -1,59 +1,52 @@
 ---
-locale: ja
+title: Tiger Run
+description: Tiger Runは、タイガーが主人公のエンドレスランナーゲームです。障害物を避けて走り続けましょう。
+iframeSrc: 'https://ubg98.github.io/TigerRun/'
+thumbnail: /new-images/tiger-run.jpg
 urlstr: tiger-run
-title: '[JA TRANSLATION NEEDED] Tiger Run'
-description: >-
-  [JA TRANSLATION NEEDED] Tiger Run is a jungle runner — dash, jump, and slide
-  to dodge obstacles and collect coins.
-iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
-thumbnail: /new-images/tiger-run.jpeg
+score: 4.3/5  (2234 votes)
 tags:
-  - action
-  - casual
-score: 3.8/5  (1627 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - runner
+  - endless
+  - animal
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Tiger Runは、タイガーを操作して森を駆け抜けるエンドレスランナーゲームです。障害物をジャンプやスライドで避け、できるだけ遠くまで走りましょう。
 
-[JA TRANSLATION NEEDED] Tiger Run is a straightforward endless runner set in the jungle. Read upcoming hazards, swap lanes or jump/slide to avoid obstacles, and chain coin pickups while maintaining a stable rhythm as speed ramps up.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Eyes up: Look ahead to prepare lane swaps early.
-[JA TRANSLATION NEEDED] 2.  Priority safety: Skip side coins when gaps are tight.
-[JA TRANSLATION NEEDED] 3.  Memorize sets: Common obstacle patterns repeat—use them to pre‑position.
-[JA TRANSLATION NEEDED] 4.  Smooth inputs: Quick, small moves reduce overcorrection at high speed.
-[JA TRANSLATION NEEDED] 5.  Power‑ups: Save shields/magnets for dense sections.
-
-### Controls Guide
-
-- Move: A/D or Left/Right to change lanes.
-- Jump/Slide: Space/Up to jump; Down to slide (or swipe on mobile).
-- Pause/Retry: On‑screen UI.
-
-### Frequently Asked Questions (FAQ)
-
-- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
-
-### コントロールガイド
-- Is there a finish? Usually endless—aim for new personal bests.
+ - **走る：** タイガーが自動的に前進します
+ - **ジャンプ：** 障害物を飛び越えます
+ - **スライド：** 低い障害物の下をスライドします
+ - **コインを集める：** 走りながらコインを集めます
 
 
+- Power‑ups: Save shields/magnets for dense sections.
+### 操作ガイド
 
+ - **上矢印/W：** ジャンプ
+ - **下矢印/S：** スライド
+ - **スペースバー：** ジャンプ
 
-
-
-
-
-- Is there a finish? Usually endless—aim for new personal bests.
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
-- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
 ### よくある質問（FAQ）
-- Pause/Retry: On‑screen UI.
-- Jump/Slide: Space/Up to jump; Down to slide (or swipe on mobile).
 
 
 - Is there a finish? Usually endless—aim for new personal bests.
+
+- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
+
+- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
+**ゲームの目標は何ですか？**
+
+できるだけ長く走り続け、障害物を避けて高得点を獲得することです。
+
+**コインは何に使えますか？**
+
+コインを使ってパワーアップやスキンをアンロックできます。
+
+**難易度は上がりますか？**
+
+はい、時間が経つにつれてスピードが上がり、より難しくなります。

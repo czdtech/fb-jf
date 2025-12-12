@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: cricket-world-cup
-title: '[ZH TRANSLATION NEEDED] Cricket World Cup'
+title: "Cricket World Cup 板球世界杯击球挑战"
 description: >-
-  [ZH TRANSLATION NEEDED] Cricket World Cup condenses batting drills — pick
-  shots, read line/length, and chase targets with smart risk control.
+  《Cricket World Cup 板球世界杯击球挑战》将板球世界杯中的击球场景浓缩成一回合回合的
+  挑战：你需要根据投球线路与场上布阵选择击球方式，在有限回合内完成追分目标。
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/cricket-world-cup.png
 tags:
@@ -17,30 +17,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Cricket World Cup focuses on batting scenarios: judge line and length, choose ground shots or lofts, and place the ball through gaps to beat set targets over limited overs.
+《Cricket World Cup 板球世界杯击球挑战》更专注于比赛中真实出现的击球局面。你会在不同
+目标分数与剩余回合的压力之下上场击球，需要判断球的线路与长度（line & length），在贴
+地球与高吊球之间做出取舍，并尽量把球打进防守阵型的空档区域，在有限 over 内完成追分
+任务。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Shot selection by line: Leg‑side late glances vs pads; off‑side drives for wide lines.
-2.  [ZH TRANSLATION NEEDED] Risk management: Favor ground shots when deep fielders are set.
-3.  [ZH TRANSLATION NEEDED] Rotate strike: Take singles to keep the board moving when boundaries dry up.
-4.  [ZH TRANSLATION NEEDED] Power plays: Attack gaps when field is up.
-5.  [ZH TRANSLATION NEEDED] Watch bowler rhythm: Time swings from release, not only ball flight.
+
+1.  **根据线路选择击球：** 球偏腿侧（leg‑side）时，可略微延后挥棒，打出腿侧轻拨、拉球
+    等，让球顺势飞向腿侧空档；球落在 off‑side 宽线时，则更适合提前挥棒打出 cover drive
+    或 straight drive。
+2.  **风控优先，合理控制风险：** 当外场深远位置布满守备时，减少高吊球，优先以贴地球
+    穿越防线；只有在必须追分且防守阵型压前时，才适当增加空中击球比例。
+3.  **学会轮换击球手（Rotate Strike）：** 当边界球难以打出时，通过拿稳 1 分或 2 分来保持
+    记分板滚动，让压力留在投球队一侧，而不是一味强行寻找四分、六分球。
+4.  **把握 Power Play：** 在 field 站位被迫压上的阶段（Power Play），场地空档增多，此时
+    应更积极地攻击外场缝隙，尽可能在这些回合中积累大量分数，为后续保守打法留出空间
+    。
+5.  **抓投手节奏而不是只看球：** 观察投手出手节奏、助跑速度等因素，可以更好地预判球
+    的到达时间，让你在恰当时机起棒，而不是被球飞行中瞬间的速度假象误导。
 
 ### Controls Guide
 
-- Aim with directional input; tap to swing; loft/ground toggles vary by build.
+- 使用方向输入来选择击球方向，并在判断到合适落点时点击/轻触进行挥棒；部分版本会提供
+  高吊/贴地模式切换键。 
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: Keep getting caught?
-  
-[ZH TRANSLATION NEEDED]   A: Reduce lofts into deep field; thread ground shots through gaps.
+- **Q: 老是被外场接杀怎么办？**  
+  **A：** 减少高吊球，尤其是朝深远外场守备员方向的击球。多尝试用贴地球穿越防线，从两
+  侧空档滚出边界线或稳定拿分。  
 
-- Q: Timing misses?
-  
-[ZH TRANSLATION NEEDED]   A: Watch the release point and start the swing a hair earlier/later accordingly.
+- **Q: 总是掌握不好节奏？**  
+  **A：** 建议盯住投手的出手点与每次助跑节奏，在出手瞬间预判球到达击球区的大致时间，
+  然后再微调自己的挥棒提前量或延后量。  
 
-- Q: Bowling available?
-  
-[ZH TRANSLATION NEEDED]   A: Most versions focus on batting only.
-
+- **Q: 这里可以体验投球吗？**  
+  **A：** 大部分网页版本仅聚焦击球场景，不提供投球玩法，适合作为世界杯场景下的“专注击
+  球练习”模式。  

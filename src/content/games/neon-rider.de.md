@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: neon-rider
-title: '[DE] Neon Rider'
+title: "Neon Rider"
 description: >-
-  [DE] Neon Rider delivers sleek bike‑physics runs — balance, throttle, and flip
-  cleanly to conquer neon tracks.
+  Neon Rider bietet elegante Bike-Physik-Runs: Halte Balance, dosiere Gas und
+  führe saubere Flips aus, um neonleuchtende Strecken zu meistern.
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
 thumbnail: /new-images/neon-rider.png
 tags:
@@ -16,29 +16,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Neon Rider ist ein seitlich dargestellter Bike-Physik-Plattformer, bei dem
+alles auf saubere Landungen und Schwung ankommt. Du kontrollierst die Neigung
+deines Bikes in der Luft, dosierst Gas auf unebenem Terrain und verkettst
+Sprünge, ohne zu stark zu rotieren, um dein Tempo zu halten.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Neon Rider is a side‑view bike‑physics platformer focused on smooth landings and momentum. Control pitch mid‑air, manage throttle over bumps, and chain jumps without over‑rotating to keep speed.
+1.  **Flach landen**  
+    Versuche, mit waagerecht ausgerichteten Rädern aufzusetzen – so verlierst du
+    am wenigsten Geschwindigkeit.
 
-### Gameplay Strategy & Walkthrough
+2.  **Gas antippen**  
+    Setze Gas auf holprigen Passagen in kurzen Stößen ein, um Stürze über den
+    Lenker zu vermeiden.
 
-1.  **[DE]** Land flat: Aim to touch down with wheels level to retain speed.
-2.  **[DE]** Tap throttle: Feather power on bumpy terrain to avoid nose dives.
-3.  **[DE]** Early corrections: Start pitch corrections in the air, not on landing.
-4.  **[DE]** Small flips only: Flip when safe and with enough arc; unnecessary flips bleed speed.
-5.  **[DE]** Learn lines: Memorize jump lengths and landing spots for perfect flow.
+3.  **Früh korrigieren**  
+    Beginne mit Korrekturen der Neigung bereits in der Luft, nicht erst bei der
+    Landung.
 
-### Controls Guide
+4.  **Flips dosiert einsetzen**  
+    Drehe nur dort, wo genügend Höhe und Distanz vorhanden sind. Überflüssige
+    Flips kosten Speed.
 
-- Accelerate/Brake: Up/Down or W/S.
-- Lean: Left/Right or A/D.
-- Restart: Quick restart to drill hard segments.
+5.  **Linien merken**  
+    Präge dir Sprungweiten und Landezonen ein, um später mit perfektem Flow
+    durchs Level zu kommen.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- I keep nosing in—why? Too much throttle off lips; ease off before takeoff.
-- How to keep momentum? Land level and avoid over‑rotations; pump small dips.
-- Any trick for big gaps? Commit to full send only when your landing is visible and aligned.
+- **Gas/Bremse:** Pfeil hoch/runter oder W/S.  
+- **Neigen:** Pfeil links/rechts oder A/D.  
+- **Neustart:** Schneller Restart, um schwierige Stellen gezielt zu üben.
 
+### FAQ
+
+- **F: Ich lande ständig auf der Vorderachse – warum?**  
+  **A:** Meist gibst du zu viel Gas direkt an der Rampenkante. Nimm vor dem
+  Absprung minimal Gas weg.
+
+- **F: Wie halte ich meinen Schwung?**  
+  **A:** Landungen möglichst waagerecht, Überrotationen vermeiden und kleine
+  Senken aktiv „anpumpen“.
+
+- **F: Tipps für große Sprünge?**  
+  **A:** Volle Geschwindigkeit nur dann, wenn du Landepunkt und Winkel klar
+  siehst – sonst lieber etwas kontrollierter springen.

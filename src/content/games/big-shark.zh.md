@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: big-shark
-title: '[ZH TRANSLATION NEEDED] Big Shark'
+title: "Big Shark 深海大鲨鱼"
 description: >-
-  [ZH TRANSLATION NEEDED] A guide to the action-survival game Big Shark. Learn
-  how to eat, grow, avoid dangers like bigger sharks and mines, and achieve the
-  highest score in the ocean.
+  《Big Shark 深海大鲨鱼》是一款“吃或被吃”的水下生存游戏，控制鲨鱼在危机四伏的海域中捕食、成长，躲开比
+  自己更大的鲨鱼和水雷，挑战生存时间与最高分。
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/big-shark.jpg
 tags:
@@ -15,47 +14,56 @@ score: 4.0/5  (372 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Detailed Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] *Big Shark* is a fast-paced, 2D underwater survival game with a simple yet addictive premise: eat or be eaten. Players take control of a shark and navigate a vast ocean teeming with life and danger. The primary objective is to survive for as long as possible and grow to be the biggest shark in the sea by consuming other marine life.
+*Big Shark* 是一款节奏很快的 2D 水下生存游戏，规则简单却非常上瘾：**不是吃掉对方，就是被对方吃掉**。你将操控一条鲨鱼，在充满鱼群与危险物体的海域中游弋，目标是尽可能长时间地活下去，并成长为这片海里最大的掠食者。
 
-[ZH TRANSLATION NEEDED] You start as a relatively small shark, only able to eat the smallest of fish. As you consume prey, you gain points and gradually increase in size. This growth is key, as it allows you to hunt and eat progressively larger creatures, from medium-sized fish to other sharks and even unsuspecting swimmers. However, the ocean is a dangerous place. You must constantly be on the lookout for threats, such as sharks larger than you, deadly sea mines, and other hazards that can end your run instantly. The game is an endless arcade experience focused on achieving the highest possible score.
+你起初只是体型很小的小鲨鱼，只能吃掉更小的鱼类。随着不断吞食猎物，你会获得分数并逐渐变大。体型成长后，你可以反过来猎杀更大的鱼，甚至其他鲨鱼与在海中游泳的人类。但海洋同样危机重重：比你更大的鲨鱼、致命水雷、带有特殊效果的水母等都会让你瞬间结束这局游戏。整体是典型的无尽积分制玩法，核心在于“活得越久、吃得越多，得分越高”。
 
-### Gameplay Strategy
+### 游戏策略
 
-[ZH TRANSLATION NEEDED] Success in *Big Shark* depends on a mix of aggression and caution.
-1.  [ZH TRANSLATION NEEDED] **Be Cautious at the Start:** When you are small, you are extremely vulnerable. Focus exclusively on eating the smallest fish and actively avoid everything else. Don't get greedy; survival is your top priority in the early stages.
-2.  [ZH TRANSLATION NEEDED] **Know Your Prey:** You can only eat creatures that are smaller than you. The game usually provides a clear visual cue. If something is your size or larger, it's either a competitor or a threat.
-3.  [ZH TRANSLATION NEEDED] **Use Your Boost Wisely:** Most versions of the game give you a speed boost ability. This is your most important tool for both offense and defense.
-    * [ZH TRANSLATION NEEDED] **For Offense:** Use the boost to quickly close the distance and catch faster-moving prey.
-    * [ZH TRANSLATION NEEDED] **For Defense:** The boost is your lifeline for escaping larger sharks that are chasing you. Don't waste it, and try to have it ready for emergencies.
-4.  [ZH TRANSLATION NEEDED] **Memorize the Threats:**
-    * [ZH TRANSLATION NEEDED] **Bigger Sharks:** The most common threat. Touching one means an instant game over. Always give them a wide berth.
-    * [ZH TRANSLATION NEEDED] **Sea Mines:** These explosive devices are often stationary. Colliding with one is fatal. Be especially careful when boosting through crowded areas.
-    * [ZH TRANSLATION NEEDED] **Jellyfish:** In some versions, these can sting you, causing you to lose points or get temporarily stunned.
-5.  [ZH TRANSLATION NEEDED] **Chain Your Kills for More Points:** To get a high score, try to eat multiple fish in quick succession. This often creates a combo bonus, multiplying your points and helping you grow faster.
+在 *Big Shark* 里，想要拿到高分，需要在“贪吃”和“谨慎”之间找到平衡。
 
-### Controls Guide
+1.  **开局阶段务必保守**  
+    你还很小的时候几乎什么都吃不了，这个阶段只专注于小鱼，哪怕它们给的分不高。主动靠近大鱼或不明物体几乎都是送命行为，先稳稳把体型吃上去才是首要任务。
 
-[ZH TRANSLATION NEEDED] The controls for *Big Shark* are designed to be simple and intuitive, primarily using the mouse.
+2.  **搞清楚谁是猎物、谁是威胁**  
+    一般来说，你只能吃体型明显比你小的生物。游戏通常会用大小或外观给出很直观的提示——和你差不多大或更大的，很可能就是“对手”甚至“天敌”，不要硬碰硬。
 
-*   **Movement:** Your shark automatically follows the position of your mouse cursor on the screen.
-*   **Boost / Dash:** Press the **Left Mouse Button** to activate a short burst of speed. This usually consumes some of your score or has a cooldown period.
+3.  **合理使用冲刺（Boost）**  
+    大部分版本都会提供一次性速度爆发技能，这是你最重要的攻防工具：  
+    - **进攻时：** 用冲刺快速接近高速游动的小鱼，抢在它们游走之前一口吃掉。  
+    - **防守时：** 当被更大的鲨鱼追击或被水雷包夹时，留着冲刺救命尤为关键。不要为了一条普通小鱼浪费掉这次机会。
 
-### Frequently Asked Questions (FAQ)
+4.  **记住几类致命威胁**  
+    - **更大的鲨鱼：** 最常见的死亡来源，一旦被它们碰到就是直接 Game Over，务必保持安全距离。  
+    - **水雷：** 通常是固定或缓慢漂浮在水中的爆炸物，被撞到必死无疑。加速穿越密集区域时尤其要注意轨迹。  
+    - **水母：** 某些版本中，水母会让你被电击减分或短暂眩晕，给其它威胁制造可乘之机。
 
-[ZH TRANSLATION NEEDED] **1. How do I grow bigger in the game?**
-[ZH TRANSLATION NEEDED] You grow by eating. The more fish and other creatures you consume, the larger your shark will become, allowing you to eat even bigger prey.
+5.  **连吃多条鱼，拉高得分效率**  
+    想冲高分，不仅要“吃得多”，还要“吃得密”。尽量在一小段时间内连续吞食多条鱼，往往会触发连击或得分倍率，让每一口价值翻倍，同时体型成长也会更快。
 
-[ZH TRANSLATION NEEDED] **2. Why did my game end suddenly?**
-[ZH TRANSLATION NEEDED] You most likely ran into a threat you couldn't eat. The most common reasons for a game over are colliding with a shark larger than you or hitting a sea mine.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **3. Is there an end to the game?**
-[ZH TRANSLATION NEEDED] No, *Big Shark* is an endless game. The goal is not to "win" but to survive as long as possible and achieve the highest score you can.
+*Big Shark* 的操作非常直观，大多只需要鼠标即可完成。
 
-[ZH TRANSLATION NEEDED] **4. What is the best way to get a high score?**
-[ZH TRANSLATION NEEDED] The key to a high score is staying alive long enough to grow very large. Once you are big, you can eat almost anything, which allows you to rack up points quickly. Focus on survival first, and the high score will follow.
+*   **移动：** 鲨鱼会自动朝着你的鼠标光标方向游动，你只需要移动鼠标来控制它的行进路线。  
+*   **冲刺 / 加速：** 按下**鼠标左键**即可触发短暂冲刺。很多版本中，冲刺会消耗一部分分数或需要冷却时间，因此不要频繁乱用。
 
-[ZH TRANSLATION NEEDED] **5. Can I eat the swimmers?**
-[ZH TRANSLATION NEEDED] Yes, but only once you have grown large enough. They are usually one of the higher-tier prey and award a significant number of points.
+### 常见问题解答（FAQ）
+
+**1. 游戏里怎么快速变大？**  
+通过不断吞食猎物来成长。你吃掉的鱼类越多、体型越大，你的鲨鱼就会越快长大，进而解锁对更大型猎物的“食用资格”。
+
+**2. 为什么我会突然死亡？**  
+最常见的原因是撞上了比你更大的鲨鱼，或者直接顶到了一颗水雷。有时你可能在追击小鱼时忽略了视野边缘的威胁，一头撞上去就直接结束本局。
+
+**3. 游戏有结局吗？**  
+没有，*Big Shark* 属于无尽模式游戏。没有所谓“通关”，只有“活得更久、分数更高”。每一局的目标，都是打破自己或好友榜单的最高成绩。
+
+**4. 冲高分的关键是什么？**  
+最核心的仍然是“先苟住再发育”：先想办法活得足够久，把体型吃到很大，再利用体型优势肆无忌惮地收割高价值猎物。只要不急躁送死，高分自然就会跟着来。
+
+**5. 我能吃掉海里的游泳者吗？**  
+可以，但前提是你已经长到足够大。当你体型足够夸张时，这些人类通常会成为高分值猎物，一口一个，收益非常可观。
 

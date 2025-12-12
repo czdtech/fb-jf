@@ -1,67 +1,35 @@
 ---
+title: "Cube Tower キューブ・タワー"
+description: "「Cube Tower」は迫りくる敵から中央のタワーを守る防衛ゲーム。戦略的に砲台を配置し、アップグレードしてウェーブを生き残れ。"
+iframeSrc: "https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/"
+thumbnail: "/new-images/cube-tower.png"
+urlstr: "cube-tower"
+score: "4.4/5 (1987 votes)"
+tags: ["tower Defense", "action", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: cube-tower
-title: '[JA TRANSLATION NEEDED] Cube Tower'
-description: >-
-  [JA TRANSLATION NEEDED] Protect your Cube Tower from waves of enemies in this
-  exciting tower defense game. Place and upgrade your towers strategically to
-  survive.
-iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
-thumbnail: /new-images/cube-tower.png
-tags:
-  - tower Defense
-  - action
-  - thinky
-score: 4.4/5 (1987 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cube Tower（キューブ・タワー）*は、マップ中央にある「キューブタワー」を敵の攻撃から守り抜く、タワーディフェンス（防衛）ゲームです。次々と押し寄せる敵のウェーブ（波）に対し、様々な種類の防衛タワーを戦略的に配置・強化して迎撃します。
 
-[JA TRANSLATION NEEDED] Cube Tower is a tower defense game where your main objective is to protect a central "Cube Tower" from waves of enemy attacks. To achieve this, you strategically place and upgrade various types of defensive towers.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **戦略的配置:** タワーの射程範囲や攻撃タイプを考慮し、敵が最も通る場所や、長く攻撃を浴びせられる場所に配置しましょう。角（コーナー）の内側などが効果的です。
+2.  **敵の弱点:** 敵には様々なタイプ（足が速い、耐久力が高いなど）があります。集団に強いキャノンや、単体に強いレーザーなどをバランス良く組み合わせるのが鍵です。
+3.  **賢くアップグレード:** 数を増やすだけでなく、既存のタワーをアップグレードすることも重要です。今のウェーブで最も脅威となる敵に対抗できるタワーを優先して強化しましょう。
+4.  **リソース管理:** お金（リソース）は有限です。無駄遣いせず、必要なタワーに投資しましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Strategic Placement:** Carefully consider where to place your towers to maximize their coverage and impact on incoming enemies.
-[JA TRANSLATION NEEDED] 2.  **Adapt to Enemy Types:** The game features different alien types, and figuring out which combination of towers and attack tactics works best for each is key.
-[JA TRANSLATION NEEDED] 3.  **Upgrade Wisely:** Prioritize upgrading towers that are most effective against the current wave of enemies.
-[JA TRANSLATION NEEDED] 4.  **Resource Management:** You'll need to manage your in-game currency to buy and upgrade towers. Replaying levels can help accumulate resources for upgrades.
+### 操作ガイド
 
-### Controls Guide
+*   **操作:** マウス（またはタッチ）でタワーを選択し、空いている建設スペースに配置します。建設済みのタワーをクリックするとアップグレードメニューが表示されます。
 
-*   **Mouse/Touch:** Use the mouse or touch screen to select, place, and upgrade your towers.
-    - **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.（日本語訳が必要）
-    - **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.（日本語訳が必要）
-    - **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.（日本語訳が必要）
-    - **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 最強のタワーはどれですか？**
+    *   **A:** 一概にどれが最強とは言えません。キャノンは範囲攻撃が得意で集団に強く、レーザーは単体への攻撃力が高いなど、それぞれに役割があります。
 
-*   **Q: What's the best tower to use?**
-[JA TRANSLATION NEEDED]     *   **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
-*   **Q: How do I get a 3-star rating?**
-
-
-
-
-
-
-
-
-    - **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
-- **Q: How do I get a 3-star rating?**
-    - **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
-- **Q: What's the best tower to use?**
-### よくある質問（FAQ）
-- **Mouse/Touch:** Use the mouse or touch screen to select, place, and upgrade your towers.
-### コントロールガイド
-- **Resource Management:** You'll need to manage your in-game currency to buy and upgrade towers. Replaying levels can help accumulate resources for upgrades.
-
-
-
-    - **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
-- **Q: How do I get a 3-star rating?**
-    - **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
-[JA TRANSLATION NEEDED]     *   **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
-
+*   **Q: どうすれば3つ星が取れますか？**
+    *   **A:** クリア時の残りライフ数によって星の数が決まります。できるだけ敵をタワーに到達させない（ライフを減らさない）ことが3つ星獲得の条件です。

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: google-minesweeper
-title: '[ES] Google Minesweeper'
+title: "Google Minesweeper"
 description: >-
-  [ES] Classic logic puzzle: clear the grid without triggering mines by deducing
-  safe cells from numbered clues and flags.
+  Clásico puzle de lógica: limpia el tablero sin detonar minas deduciendo las
+  casillas seguras a partir de los números y las banderas.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/google-minesweeper.jpg
 tags:
@@ -15,30 +15,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+En Buscaminas, cada casilla descubierta muestra un número que indica cuántas
+minas tocan a esa casilla. Usa esas pistas para marcar las minas con banderas y
+abrir únicamente casillas seguras, intentando despejar todo el tablero sin que
+explote ninguna bomba. La dificultad ajusta tanto el tamaño de la cuadrícula
+como la cantidad de minas.
 
+### Cómo jugar
 
-### Overview
-Minesweeper reveals numbers showing how many mines touch a cell. Use these clues to mark mines with flags and open safe cells, aiming to clear the board without detonating. Difficulty scales grid size and mine count.
+- Clic izquierdo para abrir una casilla; clic derecho para poner o quitar una
+  bandera. En algunas versiones puedes abrir alrededor de un número cuando el
+  número de banderas coincide con el número mostrado.
+- Usa inferencias básicas (patrones 1‑1, 1‑2, etc.) para expandirte con seguridad.
+- En tableros grandes, intenta resolver primero esquinas y bordes para reducir
+  la ramificación de opciones.
 
-### How to Play
-- Left‑click opens a cell; right‑click toggles a flag; chord/open around a number when flags match counts (host dependent).
-- Use basic inferences (1‑1 pairs, 1‑2 patterns) to expand safely.
-- On large boards, isolate corners/edges to reduce branching.
+### Guía de controles
 
-### Controls
-- Mouse/touch; optional chording and quick‑open shortcuts vary by host.
+- Ratón o pantalla táctil; los atajos de "chord" o apertura rápida dependen del
+  portal.
 
-### Tips
-- Keep a consistent marking convention to avoid misflags.
-- When forced to guess, choose tiles that reveal the most info if wrong.
-- Edges often constrain layouts—scan along borders for sure moves.
+### Consejos
 
-### FAQ
-- Q: How do I avoid guessing in Minesweeper?
-A: Use pattern sets and parity checks; some positions remain 50/50.
-- Q: What does the number on a cell indicate?
-A: It equals the count of adjacent mines among the eight neighbors.
-- Q: Does difficulty only change board size?
-A: It changes both size and mine density.
+- Mantén una convención clara al marcar para evitar banderas equivocadas.
+- Si te ves obligado a adivinar, elige casillas que, en caso de ser minas,
+  revelen la mayor cantidad de información útil.
+- Los bordes suelen imponer más restricciones a la disposición de minas; revisa
+  las líneas de borde en busca de jugadas seguras.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo evito tener que adivinar en Buscaminas?**  
+  **R:** Usa patrones conocidos y comprobaciones de paridad; aun así, habrá
+  posiciones que sean 50/50 por diseño.
+
+- **P: ¿Qué indica exactamente el número de una casilla?**  
+  **R:** Es la cantidad de minas que hay en las ocho casillas que la rodean.
+
+- **P: ¿La dificultad solo cambia el tamaño del tablero?**  
+  **R:** No, también modifica la densidad de minas.

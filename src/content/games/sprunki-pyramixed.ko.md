@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-pyramixed
-title: '[KO] Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online'
+title: "Sprunki Pyramixed 0.9 스프룽키 피라믹스 0.9 온라인"
 description: >-
-  [KO] Sprunkgerny Pyramixed 0.9 is an innovative music creation game that
-  breaks the shackles of traditional music games and perfectly combines rhythm
-  with personalized character design.
+  Sprunkgerny Pyramixed 0.9는 리듬 플레이와 캐릭터 커스터마이징을 결합한 음악 제작 게임으로,
+  다양한 캐릭터와 사운드를 조합해 자신만의 곡과 아바타를 만들 수 있는 Sprunki 세계의
+  초기 버전입니다.
 iframeSrc: 'https://turbowarp.org/1144118565/embed'
 thumbnail: /sprunki-pyramixed-0.9.png
 tags:
@@ -16,34 +16,50 @@ score: 4.7/5  (455 votes)
 
 
 
-Are you craving a music game that lets you experience the thrill of rhythm while showcasing your personality? Welcome to the world of Sprunkgerny Pyramixed 0.9! This game cleverly combines rhythm gameplay with character customization, allowing you to unleash your musical creativity while creating your own personalized avatar.
+리듬의 짜릿함과 나만의 개성을 동시에 표현할 수 있는 음악 게임을 찾고 있다면,
+*Sprunkgerny Pyramixed 0.9*의 세계에 오신 것을 환영합니다. 이 게임은 리듬 게임 특유의
+박진감과 캐릭터 커스터마이징 요소를巧妙하게 결합해, 나만의 음악을 만들면서 동시에
+개성 있는 아바타를 꾸밀 수 있게 해 줍니다.
 
-### What is Sprunkgerny Pyramixed 0.9?
+### Sprunkgerny Pyramixed 0.9란?
 
-Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks the shackles of traditional music games and perfectly combines rhythm with personalized character design. On this vibrant platform, you can not only create beautiful music, but also create unique musical incarnations.
+Sprunkgerny Pyramixed 0.9는 기존 음악 게임의 틀을 벗어나, **리듬 플레이와 캐릭터 디자인**을
+완전히 하나로 엮은 혁신적인 음악 제작 게임입니다. 이 화려한 플랫폼에서 플레이어는
+아름다운 곡을 만드는 동시에, 그 곡을 대표하는 독특한 음악 아바타를 만들어 낼 수
+있습니다.
 
-### Explore the Core Features of Sprunkgerny Pyramixed 0.9:
+### Sprunkgerny Pyramixed 0.9의 핵심 특징
 
-- **Diverse Character Roster:** In Sprunkgerny Pyramixed 0.9, you'll encounter a variety of characters, each with unique shapes, sounds, and skills to inspire your music creation.
-- **Character Customization at Your Will:** Want to create a character that perfectly matches your personality? Sprunkgerny Pyramixed 0.9 provides rich customization options for you to create an exclusive musical avatar from head to toe.
-- **Layered Sound Design:** In Sprunkgerny Pyramixed 0.9, you can build intricate musical works by layering different beats and sound effects, allowing you to fully showcase your musical talents.
-- **Fun and Interesting Animation Effects:** When your musical work leaps onto the screen in Sprunkgerny Pyramixed 0.9, you will appreciate amazing animation effects that make your creation more vivid.
+- **다양한 캐릭터 라인업:** 스프룽키 피라믹스 0.9에는 각기 다른 외형과 사운드,
+  스킬을 가진 캐릭터들이 등장합니다. 이들이 조합되어 하나의 밴드가 되고,
+  당신의 음악 스타일에 맞는 조합을 찾는 것이 중요한 재미 요소입니다.
+- **자유로운 캐릭터 커스터마이징:** 자신의 개성에 딱 맞는 캐릭터를 만들고 싶다면,
+  머리부터 발끝까지 커스터마이징 옵션을 활용해 보세요. 색상, 액세서리, 의상 등으로
+  나만의 음악 아바타를 완성할 수 있습니다.
+- **레이어드 사운드 디자인:** 서로 다른 비트와 효과음을 층층이 쌓아 복잡한 편곡을
+  만들 수 있습니다. 이를 통해 플레이어의 음악적 상상력을 마음껏 펼칠 수 있습니다.
+- **재미있는 애니메이션 효과:** 음악이 진행될수록 캐릭터와 배경이 생동감 있게
+  변화하며, 완성된 곡에 맞춰 등장하는 시각 효과가 몰입감을 더욱 높여 줍니다.
 
+### Sprunkgerny Pyramixed 0.9 플레이 방법
 
-### How to Play Sprunkgerny Pyramixed 0.9:
+- **Sprunkly Play 접속:** 먼저 Sprunkly Play 사이트에 접속해 Sprunkgerny Pyramixed 0.9를
+  선택하면 음악 제작 여행이 시작됩니다.
+- **캐릭터 선택:** 각기 다른 사운드와 스킬을 가진 캐릭터들 중에서 마음에 드는
+  멤버를 골라 무대로 끌어다 놓으세요.
+- **사운드 레이어 쌓기:** 여러 캐릭터를 조합해 비트, 멜로디, 효과음을 층층이 쌓아
+  하나의 곡을 완성합니다. 실험적인 조합을 두려워하지 말고, 다양한 사운드를
+  시도해 보세요.
+- **작품 공유:** 완성한 곡은 커뮤니티와 공유해 다른 플레이어에게 들려주고, 그들의
+  작품도 감상하며 영감을 얻을 수 있습니다.
 
-- **Visit the Sprunkly Play Website:** First, you need to visit the Sprunkly Play website and then select Sprunkgerny Pyramixed 0.9 to start your musical creation journey.
-- **Choose Characters:** In Sprunkgerny Pyramixed 0.9, choose your favorite characters, each with unique sounds and skills, which will become your powerful assistants for creation.
-- **Layer Sound Effects:** In Sprunkgerny Pyramixed 0.9, create a unique musical arrangement by layering different sounds and showcasing your musical skills.
-- **Share Your Masterpiece:** Don't forget to share your musical works created in Sprunkgerny Pyramixed 0.9 with the community so that more people can appreciate your musical talents!
+### Sprunkgerny Pyramixed 0.9의 탄생 배경
 
+Sprunkgerny Pyramixed 0.9는 누구나 쉽게 접근할 수 있으면서도 깊이 있는 음악 제작 경험을
+제공하고자 하는 목표에서 출발했습니다. 개발 과정에서는 시각적 요소와 사운드 디자인의
+균형에 특히 공을 들여, 창의적인 실험을 보상하는 몰입형 경험을 만드는 데 집중했습니다.
 
-### The Origin of Sprunkgerny Pyramixed 0.9:
-
-Sprunkgerny Pyramixed 0.9 emerged from a desire to create an engaging and accessible music creation game. This innovative platform introduces character customization while maintaining the excitement of rhythm-based gameplay.
-
-The development of Sprunkgerny Pyramixed 0.9 focused on creating a perfect blend of visual and audio elements, resulting in an immersive experience that rewards creativity and experimentation.
-
-Today, Sprunkgerny Pyramixed 0.9 stands as a unique musical creation platform where character customization and rhythm-based gameplay combine to create an unforgettable interactive music experience.
-
-Join the vibrant Sprunkgerny Pyramixed 0.9 community and share your musical masterpieces. Whether you're a rhythm game enthusiast or a budding musician, this innovative platform offers endless possibilities for creative expression!
+오늘날 Sprunkgerny Pyramixed 0.9는 캐릭터 커스터마이징과 리듬 기반 게임플레이가 결합된
+독특한 음악 플랫폼으로 자리 잡았습니다. 리듬 게임 팬이든, 막 음악에 입문한
+초보자든, 누구나 이곳에서 자신만의 음악을 만들고 공유하며 창의력을 마음껏 펼칠 수
+있습니다.

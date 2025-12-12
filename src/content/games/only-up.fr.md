@@ -1,51 +1,57 @@
 ---
 locale: fr
 urlstr: only-up
-title: '[FR] Only Up'
-description: >-
-  [FR] Only Up is a challenging 3D platformer where players must meticulously
-  climb a precarious and often chaotic world, overcoming obstacles and mastering
-  precise jumps to reach higher altitudes without falling.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
+title: Only Up
+description: "Only Up est un jeu de parkour vertical exigeant\_: grimpe toujours plus haut en enchaînant sauts précis et plateforme instables, en sachant qu’une erreur peut te renvoyer très bas."
+iframeSrc: 'https://1vl2u3h6ryctp.h5games.usercontent.goog/v/5qv76mlq1noto/'
 thumbnail: /new-images/only-up.jpg
 tags:
+  - parkour
   - platformer
-  - adventure
-  - difficulty
-score: 3.5/5  (1311 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - challenge
+score: 4.1/5  (2108 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Only Up te met au défi de grimper aussi haut que possible dans une structure tridimensionnelle pleine d’objets flottants, de plateformes étroites et de passages risqués. Le principe est simple : il n’y a pas de checkpoints classiques, et une chute peut te faire perdre plusieurs minutes de progression. Le jeu met l’accent sur la précision des sauts, le contrôle de la caméra et la gestion du stress.
+
+### Stratégies de jeu et progression
+
+1.  **Ne pas se précipiter :** privilégie des sauts sûrs et contrôlés à des tentatives trop ambitieuses qui finissent en chute.  
+2.  **Maîtriser la caméra :** ajuste l’angle de vue avant chaque section difficile afin de bien voir la plateforme d’arrivée.  
+3.  **Mémoriser les routes :** après une chute, rappelle‑toi des trajectoires qui fonctionnaient et répète‑les calmement pour remonter plus vite.  
+4.  **Garder son sang‑froid :** plus tu montes, plus la peur de tomber devient forte ; respire et continue à appliquer les mêmes gestes précis qu’au début.
+
+
+- **Learn from Experience**: Every fall is an opportunity to learn; remember where you failed to avoid repeating mistakes.
+### Commandes
+
+- Déplacement : ZQSD ou flèches.  
+- Saut et actions : touches dédiées selon la version (indiquées à l’écran).  
+- Caméra : souris ou joystick droit.
+
+
+- **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
+### Foire aux questions (FAQ)
+
+- **Q : Y a‑t‑il des sauvegardes de progression ?**  
+  **R :** Dans la plupart des versions, non ; le défi vient justement du fait que chaque chute a un vrai coût.
+
+- **Q : Le jeu est‑il purement skill‑based ?**  
+  **R :** Oui, il s’agit surtout de maîtrise des déplacements, même si connaître le chemin optimal aide beaucoup.
 
 
 
-### Game Introduction
+**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
 
-"Only Up" is an extremely challenging 3D platformer. Players' objective is to continuously climb a massive world composed of various floating objects, abandoned buildings, and peculiar structures. The game has no save points; every mistake can lead to falling from great heights, requiring a restart from the beginning, thus posing a significant test to players' precision and mental fortitude.
+- **Q: Is the game beginner-friendly?**
 
-### Gameplay Strategy
-
-1.  **[FR]** **Meticulous Observation**: Before each jump, carefully observe the position, distance, and material of the next landing spot, and plan the optimal route.
-2.  **[FR]** **Master Jump Rhythm**: Different objects may require different jump strengths and timings; familiarize yourself with the character's jumping feel.
-3.  **[FR]** **Utilize Environment**: Some seemingly impossible jumps might require using small objects in the environment for assistance, or finding hidden paths.
-4.  **[FR]** **Stay Calm**: Don't get discouraged by multiple failures; staying calm helps improve operational stability and precision.
-5.  **[FR]** **Learn from Experience**: Every fall is an opportunity to learn; remember where you failed to avoid repeating mistakes.
-
-### How to Play
-
-*   **[FR]** **Movement**: Use WASD or arrow keys to control character movement.
-*   **[FR]** **Jump**: Spacebar for jumping.
-*   **[FR]** **Sprint**: Some game versions may offer a sprint function, often combined with jumping for longer leaps (e.g., Shift + Spacebar).
-*   **[FR]** **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: Does the game have save points?**
-**A**: One of the core challenges of "Only Up" is the absence of save points. Players may fall back to the starting point after each fall, requiring them to restart the challenge.
-2.  **[FR]** **Q: What is the objective of the game?**
-**A**: The objective is to overcome all obstacles and continuously climb upwards to reach the highest point of the world.
-3.  **[FR]** **Q: How can I avoid frequent falls?**
 **A**: The key lies in precise execution, careful observation, and patience. Don't rush; take each step steadily.
-4.  **[FR]** **Q: Is the game beginner-friendly?**
+
+- **Q: How can I avoid frequent falls?**
+
+
 **A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.

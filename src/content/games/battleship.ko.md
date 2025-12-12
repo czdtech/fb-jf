@@ -1,12 +1,9 @@
 ---
 locale: ko
 urlstr: battleship
-title: '[KO] Battleship game'
-description: >-
-  [KO] A comprehensive guide to the classic Battleship game. Learn the rules,
-  ship placement strategies, effective search patterns, and tips to sink the
-  enemy fleet before they find yours.
-iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
+title: "Battleship 배틀십"
+description: "배틀십 완전 공략: 함대를 비밀리에 배치하고 논리적인 포격 패턴으로 상대 함선을 모두 침몰시키세요."
+iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
 thumbnail: /new-images/battleship.jpg
 tags:
   - strategy
@@ -15,65 +12,60 @@ score: 4.4/5  (986 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 소개
 
+*Battleship*은 두 명이 번갈아가며 좌표를 추리하는 클래식 전략 게임입니다. 목표는 상대 함선을 전부 침몰시키는 것뿐입니다.
 
+게임은 두 개의 격자를 사용합니다. 하나는 자신의 함대를 비밀리에 배치하는 "내 보드", 다른 하나는 공격 결과를 기록하는 "적 보드"입니다. 표준 함대는 다음 다섯 척으로 구성됩니다.
 
+*   **항공모함** (5칸)
+*   **전함** (4칸)
+*   **순양함** (3칸)
+*   **잠수함** (3칸)
+*   **구축함** (2칸)
 
+양쪽 모두 배치를 마치면 좌표(예: D5)를 번갈아 외치며 포격합니다. 상대는 해당 칸에 함선이 있으면 "히트", 비어 있으면 "미스"라고 응답하고, 플레이어는 이 결과를 적 보드에 표시해 논리적으로 위치를 좁혀 갑니다. 함선의 모든 칸이 맞으면 해당 함선은 침몰 처리됩니다.
 
-### Detailed Introduction
+### 플레이 전략
 
-*Battleship* is a classic two-player strategy guessing game. The objective is to be the first to sink all of your opponent's warships. The game is played on two grids for each player: one grid represents your own ocean, where you secretly place your fleet of ships, and the other represents your opponent's ocean, which you use to track your guesses.
+배치의 영리함과 체계적인 추리가 모두 필요합니다.
 
-Before the battle begins, each player secretly arranges their ships on their own grid. A standard fleet consists of five ships of varying lengths, which must be placed either horizontally or vertically, and cannot overlap:
-*   **[KO]** **Aircraft Carrier** (5 squares)
-*   **[KO]** **Battleship** (4 squares)
-*   **[KO]** **Cruiser** (3 squares)
-*   **[KO]** **Submarine** (3 squares)
-*   **[KO]** **Destroyer** (2 squares)
+#### 함선 배치 전략(수비)
 
-Once both players have placed their fleets, they take turns firing "shots" at the opponent's grid by calling out a coordinate (e.g., "D5"). The opponent must respond with either "Hit!" if a ship occupies that square, or "Miss!" if it's empty water. Players mark their opponent's grid with pegs or icons to record hits and misses, using this information to deduce the location of the enemy ships. A ship is considered "sunk" when all of its squares have been hit.
+1.  **뻔한 자리 피하기:** 모서리와 가장자리는 초반에 집중 포격을 받습니다. 함선을 보드 전역에 분산하세요.
+2.  **한 곳에 몰아두지 않기:** 함선이 겹치면 한 척이 들킨 직후 나머지도 연쇄로 들킬 수 있습니다.
+3.  **붙이지 않기:** 최소 한 칸 이상 간격을 두면 우연한 히트가 인접 함선을 드러낼 확률이 줄어듭니다.
+4.  **중앙 활용:** 많은 플레이어가 외곽부터 수색하므로, 작은 함선을 중앙에 숨기면 생존 확률이 높아집니다.
 
-### Gameplay Strategy
+#### 포격 전략(공격)
 
-Winning at *Battleship* involves a combination of clever placement and logical deduction.
+1.  **수색 패턴 사용:** 체커보드(한 칸씩 건너뛰기) 패턴을 쓰면 가장 적은 수의 포탄으로 모든 함선을 발견할 수 있습니다.
+2.  **히트 후 사냥 모드:** 명중이 나오면 즉시 주변 상하좌우를 공격해 함선의 방향과 길이를 파악합니다.
+3.  **끝까지 침몰시키기:** 같은 방향으로 두 번 연속 맞추면 그 라인을 따라가 끝까지 명중시킨 뒤 반대쪽도 정리합니다.
+4.  **정보로 추리하기:** 이미 침몰한 함선의 길이를 파악하고 있으면, 새로운 히트가 어느 함선인지 빠르게 좁혀 갈 수 있습니다.
 
-#### Ship Placement Strategy (Defense):
+### 조작 방법
 
-1.  **[KO]** **Avoid the Obvious:** Many players tend to place ships along the edges or in the corners of the grid. Avoid these common spots to make your ships harder to find.
-2.  **[KO]** **Don't Cluster:** Placing all your ships close together is risky. Once your opponent finds one ship, they will easily find the others nearby. Spread your fleet across the entire grid.
-3.  **[KO]** **Don't Let Ships Touch:** If possible, place ships so that they are not adjacent to each other. This prevents an opponent from getting a hit on one ship and immediately finding another right next to it.
-4.  **[KO]** **Embrace the Center:** Placing some ships, especially smaller ones, in the middle of the board can be effective, as many opponents focus their initial search patterns on the outer areas.
+디지털 버전은 대부분 마우스나 터치만으로 플레이할 수 있습니다.
 
-#### Firing Strategy (Offense):
+*   **배치 단계:**
+    *   **함선 선택:** 배치할 함선을 클릭하거나 터치합니다.
+    *   **함선 배치:** 격자 위 원하는 칸에 마우스를 올리고 클릭해 배치합니다.
+    *   **회전:** 오른쪽 클릭 또는 회전 버튼으로 세로/가로를 바꿉니다.
+*   **전투 단계:**
+    *   **포격:** 적 보드에서 좌표를 클릭해 포탄을 발사합니다.
+    *   **피드백:** 게임이 자동으로 히트(빨간 표시)와 미스(흰 표시)를 기록해 줍니다.
 
-1.  **[KO]** **Use a Search Pattern:** Do not fire randomly. The most effective strategy is to use a pattern that covers the board efficiently. A "checkerboard" or "parity" pattern is highly recommended. This means firing on every other square (e.g., A1, A3, A5, B2, B4, C1, C3, etc.). This guarantees you will find any ship on the board in fewer moves, as no ship can hide between the squares of your grid pattern.
-2.  **[KO]** **Switch to "Hunt" Mode:** As soon as you get a "Hit," stop your search pattern. Now your goal is to determine the ship's orientation. Fire at the adjacent squares (above, below, left, and right) of the initial hit.
-3.  **[KO]** **Sink the Ship:** Once you get a second consecutive hit, you know the ship's orientation (horizontal or vertical). Continue firing along that line until you get a "miss." This means you have found the end of the ship. Then, work your way down the other end until the ship is sunk.
-4.  **[KO]** **Use Logic:** Keep track of which ships have been sunk. If you've already sunk the 2-square Destroyer, you know that any single hit in an open area must be part of a larger ship. This helps you eliminate possibilities and make smarter guesses.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+**1. 기본 함대는 어떻게 구성되나요?**  
+항공모함(5칸), 전함(4칸), 순양함(3칸), 잠수함(3칸), 구축함(2칸)으로 이뤄집니다.
 
-For digital versions of *Battleship*, the controls are typically mouse-driven and very intuitive.
+**2. 함선을 대각선으로 놓을 수 있나요?**  
+아니요. 표준 규칙에서는 가로 혹은 세로로만 배치할 수 있습니다.
 
-*   **[KO]** **Placement Phase:**
-    *   **[KO]** **Select a Ship:** Click on a ship from your fleet.
-    *   **[KO]** **Place a Ship:** Move your mouse over your grid to the desired location and click to place it.
-    *   **[KO]** **Rotate a Ship:** Often there is a dedicated button to rotate the ship from horizontal to vertical, or you can use the right mouse button.
-*   **[KO]** **Battle Phase:**
-    *   **[KO]** **Fire a Shot:** Click on a square on the opponent's grid to fire at that coordinate.
-    *   **[KO]** **Game Feedback:** The game will automatically mark the square as a hit (usually with a red marker or explosion) or a miss (with a white marker or splash icon).
+**3. 함선을 붙여서 배치해도 되나요?**  
+대부분의 경우 떨어뜨리는 편이 유리합니다. 분산해 두면 상대는 매번 탐색 패턴을 다시 시작해야 합니다.
 
-### Frequently Asked questions (FAQ)
-
-**1. What are the standard ships in a game of Battleship?**
-The standard fleet includes an Aircraft Carrier (5 squares), a Battleship (4 squares), a Cruiser (3 squares), a Submarine (3 squares), and a Destroyer (2 squares).
-
-**2. Can I place ships diagonally?**
-No. In the standard rules of *Battleship*, ships can only be placed horizontally or vertically.
-
-**3. Is it better to place my ships touching each other or separated?**
-It is almost always better to place your ships so they are not touching. Spreading them out forces your opponent to start a new search pattern after sinking each ship, wasting their turns.
-
-**4. Is the game just pure luck?**
-No. While there is an element of luck in the initial search, the game heavily relies on strategy, logic, and deduction. A player with a good search pattern and logical thinking will consistently beat a player who guesses randomly.
-
+**4. 결국 운이 전부 아닌가요?**  
+초반 탐색에는 운이 섞이지만, 체계적인 패턴과 정보 기반 추리를 쓰는 플레이어가 무작위 추측보다 훨씬 안정적으로 승리합니다.

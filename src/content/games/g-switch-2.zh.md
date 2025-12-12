@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: g-switch-2
-title: '[ZH TRANSLATION NEEDED] G-Switch 2'
+title: "G-Switch 2 重力切換酷跑 2"
 description: >-
-  [ZH TRANSLATION NEEDED] Gravity‑flip runner sequel: race solo or in local
-  multiplayer, flipping gravity to survive traps at rising speed.
+  《G-Switch 2》是重力翻轉跑酷續作，你可以單人挑戰或本地多人同屏競速，
+  透過切換重力方向來躲避愈來愈密集的陷阱。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/g-switch-2.jpg
@@ -18,25 +18,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Refined gravity‑flip running with new obstacles and multiplayer races.
+
+本作是在前作基礎上進一步打磨的重力切換跑酷遊戲，新增了更多關卡機關與多人競速玩法。
+你只需用一個按鍵就能將角色的重力方向上下翻轉，在地板與天花板之間來回奔跑，
+試著在高速移動中穿過各種缺口、尖刺與移動障礙。
 
 ### How to Play
-- Time flips before edges and hazards.
-- Learn trap timings; some require double‑flips in quick succession.
-- Challenge friends in local races if supported.
+
+- 在接近平台邊緣或陷阱前，預先按鍵翻轉重力，讓角色落到相反的一側繼續奔跑。
+- 記住關卡中陷阱的節奏，有些機關需要在極短時間內連按兩次翻轉鍵，
+  先躲過第一個障礙再迅速回到原來一側。
+- 若支援多人模式，可以和朋友在同一台裝置上一人用一個按鍵，
+  在同屏賽道上拼反應與節奏。
 
 ### Controls
-- Single key/tap to flip; unique keys per player in versus.
+
+- 單一按鍵或輕觸即可切換重力方向；
+- 在多人對戰中，每位玩家會被分配到不同的翻轉鍵，具體配置依託管版本而定。
 
 ### Tips
-- Keep rhythm steady; two quick flips can correct overshoots.
-- Stay low on long straights; ceilings often hide traps.
+
+- 維持穩定節奏非常重要，一旦慌亂亂按，很容易在下一個障礙前失去節奏。
+- 連續兩次快翻（double‑flip）可以在誤判落點時「補救」，先翻上再翻回來，
+  有時能救回即將掉落的失誤。
+- 在長直線段時，盡量待在下方路面，因為上方天花板附近常隱藏額外陷阱或低視野障礙。
 
 ### FAQ
-- Q: How does multiplayer work in this game?  
-[ZH TRANSLATION NEEDED]   A: Each player uses a separate key to flip in shared‑screen races.
-- Q: Are there checkpoints in levels?  
-[ZH TRANSLATION NEEDED]   A: Level mode may add checkpoints; endless mode does not.
-- Q: Can I remap keys?  
-[ZH TRANSLATION NEEDED]   A: Many hosts allow key selection before starting.
 
+- 問：多人模式是怎麼運作的？  
+  答：在多人同屏模式中，每位玩家只有一個專屬按鍵，用來控制自己角色的重力翻轉，
+  所有人會在同一畫面中同步競速，看誰能跑得更遠或最先抵達終點。
+
+- 問：關卡模式有檢查點嗎？  
+  答：部分關卡模式會設置檢查點，失誤後可以在中段復活；無盡跑酷模式則通常不會提供檢查點。
+
+- 問：可以自訂按鍵嗎？  
+  答：許多版本在開局前允許選擇或重設各玩家使用的按鍵，方便在同鍵盤多人時分配到順手的位置。

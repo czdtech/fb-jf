@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: comfy-farm
-title: '[ES] Comfy Farm'
+title: "Comfy Farm"
 description: >-
-  [ES] Welcome to Comfy Farm! Plant seeds, water your crops, and harvest them
-  for profit. Protect your plants from pests and use your earnings to upgrade
-  and expand your very own cozy farm.
+  ¡Bienvenido a Comfy Farm! Planta semillas, riega tus cultivos y cóséchalos
+  para ganar monedas. Protege tus plantas de las plagas y usa tus beneficios
+  para mejorar y ampliar tu propia granja acogedora.
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/comfy-farm.png
 tags:
@@ -17,35 +17,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Comfy Farm es un encantador y relajante simulador de granja en el que construyes
+y gestionas tu propia explotación virtual. Tu objetivo es transformar un pequeño
+terreno en una granja próspera. Plantarás semillas, regarás tus cultivos,
+recogerás las cosechas para obtener beneficios y los defenderás de las plagas.
+Con las ganancias podrás comprar nuevas semillas y mejoras que te ayuden a
+automatizar y ampliar tu cómoda granja.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Comfy Farm is a charming and relaxing farming simulation game where you get to build and manage your own virtual farm. The goal is to transform a small plot of land into a thriving agricultural enterprise. You'll plant seeds, water your crops, harvest them for profit, and protect them from pests. Use your earnings to buy new seeds and valuable upgrades to automate and expand your comfy farm.
+1.  **El ciclo de cultivo:** El núcleo del juego es el ciclo de plantar y
+    cosechar. Haz clic en una parcela vacía para prepararla, planta una semilla
+    y riégala. Tras un tiempo, el cultivo estará listo para cosechar y te dará
+    dinero.
+2.  **Control de plagas:** Estate atento. Cuervos, moscas y otras plagas
+    aparecerán de vez en cuando para intentar comerse tus plantas. Debes hacer
+    clic sobre ellas rápidamente para espantarlas antes de que arruinen la
+    cosecha.
+3.  **Invierte en mejoras:** Reinvierte tus beneficios con cabeza. Las mejoras
+    son clave para hacer crecer la granja. Un aspersor automatiza el riego y un
+    espantapájaros ayuda a ahuyentar plagas, liberándote para gestionar más
+    terreno.
+4.  **Amplía tus tierras:** A medida que ganes dinero, podrás comprar nuevas
+    parcelas. Cuanto más terreno tengas, más cultivos podrás llevar en paralelo
+    y más rápido crecerán tus ingresos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **The Farming Cycle:** The core of the game is the planting and harvesting cycle. Click on an empty plot to prepare it, plant a seed, and then water it. After a set amount of time, the crop will be ready to harvest, earning you money.
-2.  **[ES]** **Pest Patrol:** Be vigilant! Pests like crows and flies will periodically appear and try to eat your crops. You must quickly click on them to scare them away before they damage your harvest.
-3.  **[ES]** **Invest in Upgrades:** Reinvest your profits wisely. Upgrades are key to growing your farm. Buying a sprinkler will automate watering, and a scarecrow will help deter pests, freeing you up to manage a larger farm.
-4.  **[ES]** **Expand Your Land:** As you earn more money, you can purchase new plots of land. Expanding your farm allows you to plant more crops simultaneously, dramatically increasing your income potential.
+El juego se maneja por completo con clics de ratón o toques en pantalla.
 
-### Controls Guide
+*   **Plantar/Regar/Cosechar:** Haz clic en una parcela para ejecutar la acción
+    siguiente (arar, plantar, regar o cosechar).
+*   **Espantar plagas:** Haz clic directamente sobre cualquier plaga que
+    aparezca en la granja para eliminarla.
+*   **Comprar mejoras:** Haz clic en los iconos de mejora (como el aspersor o el
+    espantapájaros) para adquirirlos cuando tengas suficiente dinero.
 
-The game is played entirely with mouse clicks or taps.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Plant/Water/Harvest:** Click on a plot of land to perform the next logical action (till, plant, water, or harvest).
-*   **[ES]** **Scare Pests:** Click directly on any pest that appears on your farm to get rid of it.
-*   **[ES]** **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
+*   **P: ¿Cómo gano dinero más rápido?**
+    *   **R:** Planta tantos cultivos como puedas y cósechalos en cuanto estén
+        listos. Cuando desbloquees semillas más caras, priorízalas: suelen dar
+        más beneficio, aunque tarden algo más en crecer.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la mejor mejora para comprar primero?**
+    *   **R:** El aspersor es una excelente primera inversión. Automatiza el
+        riego, te ahorra muchos clics y te permite gestionar más parcelas a la
+        vez.
 
-*   **[ES]** **Q: How do I make money faster?**
-    *   **[ES]** **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
-
-*   **[ES]** **Q: What is the best upgrade to get first?**
-    *   **[ES]** **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
-
-*   **[ES]** **Q: Why did one of my plants disappear?**
-    *   **[ES]** **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
-
+*   **P: ¿Por qué ha desaparecido una de mis plantas?**
+    *   **R:** Lo más probable es que una plaga se la haya comido. Tienes que
+        reaccionar rápido y hacer clic sobre cuervos o insectos en cuanto los veas
+        sobre tus cultivos para evitar que se los lleven.

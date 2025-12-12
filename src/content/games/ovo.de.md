@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: ovo
-title: '[DE] OvO Game'
+title: "OvO Game"
 description: >-
-  [DE] OvO Game is a fast-paced and challenging platformer where players control
-  a stickman character, using precise jumps, slides, and wall jumps to navigate
-  complex levels and reach the finish line as quickly as possible.
+  OvO Game ist ein schnelles und forderndes Plattformspiel, in dem du eine
+  Strichmännchen-Figur mit präzisen Sprüngen, Slides und Wandsprüngen durch
+  knifflige Level steuerst, um die Ziellinie so schnell wie möglich zu erreichen.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
 thumbnail: /new-images/ovo.jpg
@@ -18,35 +18,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"OvO Game" ist ein extrem schnelles und herausforderndes Plattformspiel. Du
+ steuerst ein flinkes Strichmännchen, das mit präzisen Sprüngen, Slides und
+ Wandsprüngen durch komplexe Level hetzt. Ziel ist es, die Ziellinie so schnell
+ wie möglich zu erreichen. Der hohe Schwierigkeitsgrad und die flüssige
+ Steuerung machen das Spiel zu einem echten Test für Reaktionsfähigkeit und
+ Timing.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Grundbewegungen meistern:** Lerne Sprung, Slide, Doppelsprung und
+    Wandsprung sicher zu beherrschen – sie sind die Basis für jede
+    Level-Strategie.
+2.  **Levelaufbau überblicken:** Verschaffe dir zu Beginn einen schnellen
+    Überblick über das Layout, um zu wissen, wo Fallen, Abgründe und
+    potenzielle Abkürzungen liegen.
+3.  **Schwung richtig einsetzen:** Nutze die Geschwindigkeit deines
+    Charakters, um weiter zu springen oder nach einem Slide direkt in den
+    nächsten Abschnitt zu gleiten.
+4.  **Viel üben:** Wegen des hohen Schwierigkeitsgrades brauchst du oft mehrere
+    Versuche, um den optimalen Weg zu finden. Wiederholungen gehören dazu.
+5.  **Abkürzungen suchen:** Manche Level bieten versteckte oder schnellere
+    Routen. Wer genau hinschaut und experimentiert, findet oft Wege, um
+    wertvolle Sekunden zu sparen.
 
-"OvO Game" is a fast-paced and extremely challenging platformer. Players control a stickman character, using precise jumps, slides, and wall jumps to navigate complex levels, aiming to reach the finish line as quickly as possible. The game is known for its high difficulty and fluid controls, testing players' reaction speed and operational precision.
+### Steuerung
 
-### Gameplay Strategy
+*   **Bewegen:** Nutze die Pfeiltasten links/rechts oder A/D, um dich
+    horizontal zu bewegen.
+*   **Springen:** Mit Pfeil nach oben oder W springst du. Ein erneuter Druck in
+    der Luft löst den Doppelsprung aus.
+*   **Slide:** Mit Pfeil nach unten oder S führst du einen Slide aus und
+    schlüpfst durch enge Passagen.
+*   **Wandsprung:** Befindest du dich an einer Wand, kannst du mit der
+    Sprungtaste einen Wandsprung ausführen und dich Stück für Stück nach oben
+    arbeiten.
 
-1.  **[DE]** **Master Basic Moves**: Proficiently mastering basic moves like jumping, sliding, double-jumping, and wall-jumping is key to beating the levels.
-2.  **[DE]** **Observe Level Layout**: Before attempting, quickly scan the level to plan the general route and techniques to be used.
-3.  **[DE]** **Utilize Momentum**: When performing jumps and slides, leveraging the character's momentum can help you jump further or slide more smoothly.
-4.  **[DE]** **Practice Repeatedly**: Due to the high difficulty, many levels require repeated attempts to find the optimal way to pass.
-5.  **[DE]** **Find Shortcuts**: Some levels might have hidden shortcuts or more efficient ways to complete them; exploration can reveal these.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Move**: Use left/right arrow keys or A/D keys to control character movement.
-*   **[DE]** **Jump**: Use the up arrow key or W key to jump. Pressing again in mid-air allows for a double jump.
-*   **[DE]** **Slide**: Use the down arrow key or S key to slide, which can be used to pass through narrow passages.
-*   **[DE]** **Wall Jump**: When the character is near a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: What is the difficulty level of "OvO Game"?**
-**A**: This game is known for its high difficulty, requiring high precision and reaction speed from players, which also makes it more challenging.
-2.  **[DE]** **Q: Is there a time limit in the game?**
-**A**: The objective of the game is to complete levels as quickly as possible, so a timer is a core element, allowing players to challenge their fastest records.
-3.  **[DE]** **Q: How do I unlock new characters or skins?**
-**A**: New characters or skins are usually unlocked by completing specific levels, achieving certain scores, or collecting hidden items.
-4.  **[DE]** **Q: On which platforms can the game be played?**
-**A**: "OvO Game" can typically be played directly in web browsers, and some versions may also support mobile devices.
+1.  **F: Wie schwer ist "OvO Game"?**
+    **A:** Das Spiel ist bekannt für seinen hohen Schwierigkeitsgrad und
+    verlangt dir Präzision und schnelle Reaktionen ab – genau das macht aber
+    auch den Reiz aus.
+2.  **F: Gibt es ein Zeitlimit?**
+    **A:** Im Zentrum steht die Zielzeit. Ein Timer zeigt dir, wie schnell du
+    warst, und motiviert dazu, Level immer wieder zu spielen, um Bestzeiten zu
+    schlagen.
+3.  **F: Wie schalte ich neue Figuren oder Skins frei?**
+    **A:** In vielen Versionen erhältst du neue Skins, indem du bestimmte Level
+    abschließt, hohe Wertungen erzielst oder versteckte Sammelobjekte findest.
+4.  **F: Auf welchen Plattformen kann ich spielen?**
+    **A:** "OvO Game" läuft meist direkt im Browser; einige Varianten
+    unterstützen zusätzlich Mobilgeräte.

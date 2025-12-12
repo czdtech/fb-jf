@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: odd-one-out
-title: '[FR] Odd One Out'
+title: Odd One Out
 description: >-
-  [FR] Find the item that doesn't belong in the group in Odd One Out, a game
-  that tests your observation and critical thinking skills.
+  Odd One Out est un jeu d’observation où tu dois repérer l’intrus dans un
+  groupe d’objets, en testant ton sens du détail et ta logique de
+  catégorisation.
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/odd-one-out.jpg
 tags:
@@ -12,31 +13,36 @@ tags:
   - thinky
   - casual
 score: 4.0/5 (987 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Odd One Out est un jeu de réflexion basé sur l’observation. À chaque niveau, une série d’objets ou de personnages est affichée, et un seul ne correspond pas au groupe : couleur, forme, orientation, thème… À toi de trouver l’élément qui ne colle pas avant la fin du temps imparti. Plus tu progresses, plus les différences deviennent subtiles.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Balayer l’écran rapidement :** commence par un coup d’œil global pour repérer immédiatement les différences évidentes (taille, couleur, direction).  
+2.  **Comparer par paires :** si rien ne saute aux yeux, compare deux objets à la fois pour isoler ce qui change (accessoires, motifs, expressions).  
+3.  **Chercher les motifs répétitifs :** identifie la règle commune (par exemple « tout le monde porte un chapeau sauf un ») pour cibler l’intrus.  
+4.  **Gérer le chrono :** dans les niveaux chronométrés, ne reste pas bloqué trop longtemps sur un seul détail ; passe à un autre groupe de caractéristiques.  
+5.  **Utiliser les indices avec parcimonie :** si le jeu en propose, garde les indices pour les derniers niveaux, plus complexes.
 
-Odd One Out is a puzzle game that challenges your observation and categorization skills. In each level, you are presented with a group of items, and your task is to identify the one that doesn't fit with the others based on a certain rule or category.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Clique ou touche simplement l’objet que tu penses être l’intrus.  
+- Certains modes te laissent zoomer ou faire défiler si la scène est plus grande que l’écran.
 
-1.  **[FR]** **Examine the Items:** Carefully look at all the items presented in the group.
-2.  **[FR]** **Find the Connection:** Determine the common characteristic that most of the items share. This could be color, shape, size, category (like fruits or animals), or another attribute.
-3.  **[FR]** **Identify the Odd One:** The item that does not share this common characteristic is the "odd one out."
-4.  **[FR]** **Select the Item:** Click or tap on the item you believe is the odd one out to proceed to the next level.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- **Q : Que se passe‑t‑il si je clique sur le mauvais objet ?**  
+  **R :** Tu perds du temps ou des points, selon le mode, mais tu peux généralement retenter ta chance.
 
-*   **[FR]** **Mouse/Touch:** Use the mouse or touch screen to select the item that you think is the odd one out.
+    - **Q : Le jeu devient‑il plus difficile ?**  
 
-### Frequently Asked Questions (FAQ)
+- **A:** This can vary, but often these games are more about thinking and observation than speed.
 
-*   **[FR]** **Q: What if I'm stuck?**
-    *   **[FR]** **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.
-*   **[FR]** **Q: Is there a time limit?**
-    *   **[FR]** **A:** This can vary, but often these games are more about thinking and observation than speed.
+    - **Q: Is there a time limit?**
+  **R :** Oui, les différences deviennent de plus en plus fines, ce qui met vraiment à l’épreuve ton sens du détail.
 

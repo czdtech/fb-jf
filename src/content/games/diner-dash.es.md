@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: diner-dash
-title: '[ES] Diner Dash'
+title: "Diner Dash"
 description: >-
-  [ES] Diner Dash is a time‑management game: seat guests, take orders, serve
-  meals, and keep everyone happy to clear levels.
+  Diner Dash es un juego de gestión de tiempo: sienta a los clientes, toma sus
+  pedidos, sirve la comida y mantenlos contentos para superar cada nivel.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/diner-dash.jpg
 tags:
@@ -15,27 +15,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Diner Dash es un juego de gestión de tiempo centrado en la rutina de un
+restaurante: asignar mesas, tomar pedidos, entregar platos, recoger mesas y
+mantener al máximo los corazones de satisfacción para cumplir los objetivos. Si
+encadenas acciones (por ejemplo, sentar a varios grupos del mismo color o servir
+muy rápido), consigues combos y más puntos, que luego se traducen en mejoras
+entre niveles.
 
-### Overview
-Diner Dash is a time‑management game about seating guests, taking orders, delivering food, bussing tables, and keeping customer hearts high to clear objectives. You earn combos by chaining actions (e.g., seating groups of the same color, serving quickly) and buy upgrades between levels. 
+### Cómo jugar
 
-### How to Play
-- Seat arriving customers promptly; match table sizes and colors when possible for bonuses.
-- Take orders, deliver dishes, and clear tables in an efficient loop to avoid queues.
-- Use upgrades (faster shoes, more tables, equipment) to meet higher quotas.
+- Sienta a los clientes en cuanto lleguen; si puedes, combina tamaños y colores
+  de mesa y grupo para conseguir bonificaciones.
+- Toma los pedidos, sirve la comida y recoge los platos sucios en un bucle
+  eficiente para evitar colas en la puerta.
+- Invierte en mejoras (más velocidad, más mesas, equipo extra) para alcanzar las
+  metas de niveles avanzados.
 
-### Controls
-- Mouse/touch: click destinations in order to queue actions; some versions allow drag‑and‑drop for seating or serving.
+### Controles
 
-### Tips and Strategies
-- Chain related actions back‑to‑back to maintain high combos.
-- Prioritize impatient customers first; watch the hearts meter.
-- Pre‑stage actions (collect orders in a sweep, then serve in a sweep) to minimize travel.
+- Ratón/táctil: haz clic en los distintos destinos en orden para crear una
+  cola de acciones; algunas versiones permiten arrastrar y soltar para sentar o
+  servir.
 
-### FAQ
-- Q: What do color matches do?
-A: Seating same‑color groups at like‑colored tables yields extra points/combos.   
-- Q: Can I retry for a higher score?
-A: Yes—replaying levels to optimize routes and chains is a core loop. 
+### Consejos y estrategias
 
+- Encadena acciones relacionadas (por ejemplo, recoger varios pedidos seguidos y
+  luego servirlos en una misma ruta) para mantener combos y reducir viajes.
+- Da prioridad a los clientes más impacientes; vigila el medidor de corazones y
+  atiende primero a quien esté a punto de irse.
+- Agrupa tareas: haz una ronda para tomar pedidos, otra para servir y otra para
+  limpiar, en lugar de hacer acciones aisladas.
+
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Qué efecto tienen los colores de las mesas y los clientes?**  
+  **R:** Si sientas grupos del mismo color en mesas a juego, obtienes puntos y
+  combos extra, lo que ayuda a alcanzar objetivos de puntuación.
+
+- **P: ¿Puedo repetir un nivel para mejorar mi puntuación?**  
+  **R:** Sí, repetir niveles y optimizar rutas y cadenas de acciones es parte
+  del bucle principal del juego.

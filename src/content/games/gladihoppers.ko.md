@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: gladihoppers
-title: '[KO] Gladihoppers'
+title: "Gladihoppers 물리 검투사 배틀"
 description: >-
-  [KO] 2D gladiator brawler with physics hops: customize gear, time lunges and
-  parries, and climb arenas in duels or modes.
+  튀어 오르는 물리 움직임과 무기 전투가 결합된 2D 검투사 액션 게임입니다.
+  장비를 커스터마이즈하고, 돌진과 패링 타이밍을 맞춰 1대1 결투와 여러 모드의
+  아레나를 정복해 보세요.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/gladihoppers.jpg
 tags:
@@ -18,27 +19,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Gladihoppers blends ragdoll‑style hopping movement with weapon combat. Your gladiator’s stance, reach, and momentum determine damage: lunges and head hits deal more, while shields and timing‑based parries mitigate blows. Between fights, equip new helms, armor, and weapons to shape reach and swing speed, then progress through arenas and modes.
+### 게임 개요
 
-### How to Play
-- Control distance with hops; strike when your weapon arc will land first.
-- Raise shield or back‑hop to bait swings, then counter during recovery.
-- Spend coins on gear that complements your preferred range and speed.
+`Gladihoppers`는 래그돌처럼 튕기는 이동과 무기 전투가 결합된 독특한 검투사
+배틀 게임입니다. 캐릭터의 자세와 사거리, 움직임에서 생기는 관성이 데미지를
+결정하며, 정확한 돌진과 머리 타격은 큰 피해를 주고, 방패와 타이밍 맞춘 패링은
+상대 공격을 흘려 보냅니다. 전투 사이에는 새로운 투구, 갑옷, 무기를 장비해
+사거리와 스윙 속도를 바꾸며, 여러 아레나와 모드를 차례로 공략하게 됩니다.
 
-### Controls
-- Directional hops, attack and block keys (bindings vary by host); local versus often available.
+### 플레이 방법
 
-### Tips
-- Spear/pike favor spacing; swords excel at close pressure.
-- Aim for the head when safe; high hits often crit.
-- Don’t spam—most weapons have end‑lag; learn tempos.
+- 점프하듯이 튀는 이동을 이용해 거리 조절을 하다가, 내 무기 궤적이 먼저
+  닿을 타이밍에 공격을 넣으세요.
+- 방패를 들어 올리거나 뒤로 뛰어 상대의 공격을 유도한 뒤, 회복 모션 중일 때
+  역으로 반격하면 안전하게 큰 피해를 넣을 수 있습니다.
+- 전투에서 얻은 코인으로 자신이 선호하는 사거리와 속도에 맞는 장비를
+  구입해 스타일을 정교하게 맞춰 보세요.
 
-### FAQ
-- Q: Why do my attacks whiff at close range?
-A: Your weapon arc may be past its sweet spot; adjust spacing or switch to faster arms.
-- Q: Is blocking or back‑hopping better on defense?
-A: Use both—block against single swings, back‑hop to escape combos.
-- Q: How important is gear quality?
-A: Very—reach/weight drastically change matchups.
+### 조작 방법
 
+- 방향 키로 좌우 점프/이동을 조절하고, 별도의 키로 공격과 방어를 수행합니다
+  (구체적인 키 배치는 호스트에 따라 다를 수 있습니다).
+- 일부 버전에서는 한 기기에서 즐기는 로컬 대전 모드도 지원됩니다.
+
+### 플레이 팁
+
+- 창이나 파이크 같은 긴 무기는 거리 유지에 강하고, 검 계열 무기는 근거리
+  압박에 유리합니다. 자신의 스타일에 맞는 무기를 골라 사용하세요.
+- 여유가 있을 때 머리 높이를 노려 공격하면, 치명타급 피해를 줄 수 있는
+  경우가 많습니다.
+- 대부분의 무기에는 후딜이 있기 때문에, 무작정 연타하기보다는 무기별
+  리듬과 템포를 익히는 것이 중요합니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 가까이 붙었는데도 공격이 자꾸 헛나가요.  
+  A: 무기 궤적의 “맛있는 구간”이 지나간 뒤에 공격이 들어가고 있을 수
+  있습니다. 거리와 타이밍을 조금 더 조정하거나, 더 짧고 빠른 무기로
+  바꾸는 것도 방법입니다.
+- Q: 방어와 뒤로 점프 중 어느 쪽이 더 좋은 수비인가요?  
+  A: 상황에 따라 다릅니다. 단발 공격에는 방패로 막는 것이 효과적이고, 연속
+  콤보나 위험한 돌진은 뒤로 점프해 거리를 벌려 피하는 것이 좋습니다.
+- Q: 장비 품질이 정말 큰 차이를 만들까요?  
+  A: 그렇습니다. 무기의 길이와 무게, 방어력 차이가 매치업을 크게 바꾸기
+  때문에, 진행이 어려워졌다면 장비 업그레이드를 먼저 고려해 보세요.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: unblock-that
-title: '[KO] Unblock That'
+title: "Unblock That 언블록 댓"
 description: >-
-  [KO] A classic sliding block puzzle. Move the wooden blocks around to clear a
-  path and slide the red block out of the board. A great brain-teaser for puzzle
-  lovers!
+  나무 블록을 밀어 붉은 블록이 탈출할 길을 만드는 고전 슬라이딩 퍼즐입니다. 가로·세로로만
+  움직이는 블록들을 최소한의 이동으로 정리해 길을 여는 두뇌 게임입니다.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/unblock-that.png
 tags:
@@ -17,33 +16,46 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Unblock That은 다양한 길이의 나무 블록이 빽빽하게 배치된 보드에서, 붉은 블록이 출구까지 나갈 수
+있도록 길을 만들어 주는 클래식 슬라이딩 퍼즐입니다. 각 블록은 세로형이면 위아래로, 가로형이면
+좌우로만 움직일 수 있기 때문에, 단순히 한두 개만 옮겨서는 해결되지 않고 여러 블록을 순서대로
+움직여 공간을 만들어야 합니다.
 
-### Detailed Game Introduction
+난이도는 쉬운 단계부터 고난도 퍼즐까지 폭넓게 준비되어 있어, 간단한 워밍업부터 깊이 있는 두뇌
+훈련까지 모두 즐길 수 있습니다.
 
-Unblock That is a classic and challenging sliding block puzzle. The game presents you with a grid filled with wooden blocks of various sizes. Your goal is to strategically slide these blocks to clear a path for the special red block to escape through the exit. With hundreds of levels ranging from easy to expert, it’s a perfect game to train your logical thinking and problem-solving skills.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **주요 방해 요소 먼저 찾기**: 먼저 붉은 블록과 출구 사이를 가로막는 블록이 무엇인지 확인하세요.
+    이 "핵심 방해 블록"을 치우는 것이 1차 목표입니다.
+2.  **공간 확보를 위한 선행 이동**: 방해 블록을 움직이려면 그 주변의 작은 블록들을 먼저 치워
+    공간을 만들어야 합니다. 쉽게 움직일 수 있는 작은 블록부터 옮겨, 큰 블록이 지나갈 통로를
+    계획적으로 확보하세요.
+3.  **여러 수 앞을 내다보기**: 한 번의 이동으로 해결되는 퍼즐은 거의 없습니다. 최소 이동으로
+    클리어하고 싶다면, 실제로 움직이기 전에 머릿속으로 몇 수 앞까지 그려 보고 실행해 보세요.
+4.  **막혔을 때는 과감히 리셋**: 너무 많은 블록을 이리저리 옮기다 보면 원래보다 더 꼬인 상태가
+    되기도 합니다. 해결이 보이지 않는다면, 과감하게 리셋하고 처음부터 다른 루트로 시도하는 것이
+    오히려 빠른 경우가 많습니다.
 
-1.  **[KO]** **Identify the Main Blockers:** Look at the red block and identify the blocks that are directly in its path to the exit. Your first goal is to move these primary blockers.
-2.  **[KO]** **Create Space:** To move a blocking piece, you often need to move other pieces first to create empty space. Look for smaller blocks that can be shuffled around easily to open up pathways.
-3.  **[KO]** **Think Several Moves Ahead:** Don't just make random moves. Try to visualize the sequence of moves required to clear the path. The best players think several steps ahead to solve the puzzle in the fewest moves possible.
-4.  **[KO]** **Don't Be Afraid to Reset:** If you get into a situation where the blocks are completely jammed and you can't see a solution, sometimes the best option is to reset the level and start again with a fresh approach.
+### 조작 방법 안내
 
-### Controls Guide
+게임은 간단한 드래그 조작만으로 진행됩니다.
 
-The game is played with simple drag-and-drop controls.
+*   **블록 이동**: 움직이고 싶은 나무 블록을 클릭(또는 터치)해 누른 채로, 해당 블록의 방향에 따라
+    가로나 세로로만 끌어 움직일 수 있습니다. 다른 블록이나 보드 끝에 닿을 때까지만 이동합니다.
 
-*   **[KO]** **Move a Block:** Click and hold on any wooden block. You can only slide it along its orientation (horizontally or vertically) into an empty space.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 게임의 목표는 정확히 무엇인가요?**  
+    *   **A:** 붉은 블록을 오른쪽 끝의 출구 위치까지 밀어 내보내는 것입니다. 출구에 완전히 도달하면
+        스테이지를 클리어하게 됩니다.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To slide the red block all the way to the right so it can exit the board.
+*   **Q: 어떤 블록은 왜 전혀 움직이지 않나요?**  
+    *   **A:** 블록은 자신의 긴 쪽 방향으로만 움직일 수 있고, 그 앞뒤에 다른 블록이 있으면 더 이상
+        이동할 수 없습니다. 주변 블록을 먼저 치워 빈칸을 만들어 줘야 이동이 가능합니다.
 
-*   **[KO]** **Q: Why can't I move a block?**
-    *   **[KO]** **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
-
-*   **[KO]** **Q: How is the score determined?**
-    *   **[KO]** **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
-
+*   **Q: 점수나 별 등급은 어떻게 결정되나요?**  
+    *   **A:** 보통 퍼즐을 해결하는 데 사용한 이동 횟수에 따라 평가가 매겨집니다. 정답 자체는
+        동일하지만, 더 적은 이동으로 해결할수록 높은 등급을 받을 수 있습니다.

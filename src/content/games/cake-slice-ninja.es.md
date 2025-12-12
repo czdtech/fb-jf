@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: cake-slice-ninja
-title: '[ES] Cake Slice Ninja'
+title: "Cake Slice Ninja"
 description: >-
-  [ES] Cake Slice Ninja is a sweet slicing rush — swipe clean cuts, chain
-  combos, and avoid hazards for high scores.
+  Cake Slice Ninja es una carrera dulce a base de cortes perfectos: desliza el
+  dedo para rebanar, encadena combos y esquiva peligros para lograr las mejores
+  puntuaciones.
 iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
 thumbnail: /new-images/cake-slice-ninja.jpeg
 tags:
@@ -15,28 +16,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Cake Slice Ninja recoge la esencia de los clásicos juegos de cortar al vuelo:
+lanza cortes rápidos para partir tartas mientras vuelan, construye cadenas de
+combos con tajos sucesivos y esquiva bombas o penalizaciones que podrían romper
+la racha.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Cake Slice Ninja channels classic slice‑’em‑up action: flick to slice cakes as they fly, build combo chains with fast successive cuts, and dodge bombs or penalties that break your streak.
+1.  **Trazos largos y rectos:** Intenta cortar varias porciones en un solo gesto
+    para acumular combos.
+2.  **No persigas piezas muy bajas:** Deja que las porciones que suben desde
+    abajo alcancen un arco más seguro antes de cortar.
+3.  **Disciplina con las bombas:** Cuando aparezcan bombas, prioriza esquivarlas
+    por completo antes que buscar un corte arriesgado.
+4.  **Lee los patrones de aparición:** Memoriza el ritmo con el que salen las
+    tartas para precolocar el cursor o el dedo.
+5.  **Recupérate rápido:** Si pierdes el combo, recolócate y vuelve a construir
+    la racha con cortes sencillos de dos en dos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Long straight swipes: Slice multiple pieces in a single motion to bank combos.
-2.  **[ES]** Don’t chase low cuts: Let low pieces rise into a safer arc before slicing.
-3.  **[ES]** Bomb discipline: When bombs appear, prioritize clean misses over risky slices.
-4.  **[ES]** Read spawns: Memorize spawn rhythms to pre‑position your cursor.
-5.  **[ES]** Recover quickly: If a combo drops, reset posture and rebuild with safe doubles.
+- **Cortar:** Arrastra con el ratón o desliza el dedo para rebanar los objetivos.
+- **Pausa/Reintentar:** Usa los botones en pantalla.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Slice: Click‑drag or swipe to cut through targets.
-- Pause/Retry: Use on‑screen buttons.
+- **¿Pierdo mucho por dejar pasar una porción?**
+  Depende del modo; en muchos casos perderás combo o tiempo, no toda la
+  puntuación.
 
-### Frequently Asked Questions (FAQ)
+- **¿Hay trucos con varios dedos?**
+  En dispositivos táctiles, algunos juegos permiten usar varios dedos para cubrir
+  más área con un solo movimiento.
 
-- Missed a piece—big penalty? Modes vary; many dock combo or time, not full score.
-- Any two‑finger tricks? On touch devices, multi‑finger swipes can cover more area if supported.
-- How to avoid bombs? Track their fuses and paths; never complete a swipe that crosses a bomb.
-
+- **¿Cómo evito las bombas?**
+  Observa su trayectoria y la mecha; nunca completes un trazo que cruce una
+  bomba, aunque parezca que puedes rascar alguna porción extra.

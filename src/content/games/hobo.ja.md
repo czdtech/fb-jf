@@ -1,42 +1,36 @@
 ---
+title: "Hobo"
+description: "過激なベルトアクション：街のステージを進み、アンロック可能なコンボ、即席の武器、ぶっ飛んだ必殺技で暴れまくりましょう。"
+iframeSrc: "https://ad-freegames.github.io/flash/game/hobo.html"
+thumbnail: "/new-images/hobo.jpg"
+urlstr: "hobo"
+score: "4.9/5  (1360 votes)"
+tags: ["fighting", "beat-em-up"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: hobo
-title: '[JA TRANSLATION NEEDED] Hobo'
-description: >-
-  [JA TRANSLATION NEEDED] Over‑the‑top beat ’em up: brawl through city stages
-  with unlockable combos, improvised weapons, and outrageous special moves.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
-thumbnail: /new-images/hobo.jpg
-tags:
-  - fighting
-  - beat-em-up
-score: 4.9/5  (1360 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Hoboは、スラップスティック的な暴力と意図的に下品なユーモアで知られる横スクロール型のベルトアクション（ベルトスクロールアクション）です。都市のステージを進み、パンチ、キック、グラップル（つかみ）、そしてアンロック可能なコンボストリングを使って敵を粉砕します。環境にある武器、投げられるオブジェクト、ステージのギミックが多様性を加え、ボスとの戦いでは群衆コントロールとタイミングが試されます。体力とスタミナの管理、敵の予兆を読むことが、ウェーブ（波状攻撃）に圧倒されずにクリアする鍵です。
 
+### 遊び方
+- 軽攻撃/強攻撃を発見したコンボに繋げて、ダメージを増加させ、スタンロック（ハメ）しましょう。
+- ピックアップや投擲オブジェクトを使って、遠くから集団を減らしましょう。
+- ボスのパターンを覚えましょう。開幕の攻撃を回避し、隙の時間に反撃します。
 
-### Overview
-[JA TRANSLATION NEEDED] Hobo is a side‑scrolling beat ’em up known for slapstick violence and deliberately crude humor. You traverse urban stages, smashing enemies with punches, kicks, grapples, and unlockable combo strings. Environmental weapons, throwable objects, and stage hazards add variety, while boss encounters test crowd control and timing. Health and stamina management, plus learning enemy tells, are key to clearing waves without being overwhelmed.
+### 操作方法
+- 矢印キーで移動。攻撃/ジャンプ/つかみキーはホストによって異なります。コンボの入力はゲーム内で表示されます。
 
-### How to Play
-- Chain light/heavy attacks into discovered combos to increase damage and stunlock.
-- Use pickups and thrown objects to thin groups from a distance.
-- Learn boss patterns—dodge opening attacks, punish recovery windows.
+### ヒント
+- 敵を片側に固めましょう。囲まれないようにします。
+- 群衆が減ったら、単一のターゲットをグラップルで素早く排除しましょう。
+- 体力回復アイテムは、群衆の最中ではなく、ウェーブ後のピックアップのために温存しましょう。
 
-### Controls
-- Arrows to move; attack/jump/grab keys vary by host; combo inputs shown in‑game.
-
-### Tips
-- Keep enemies on one side; avoid getting surrounded.
-- Grapple single targets to remove them quickly when mobs thin out.
-- Save health items for post‑wave pickups, not mid‑crowd.
-
-### FAQ
-- Q: How do I unlock new combo moves in the game?  
-[JA TRANSLATION NEEDED]   A: Progressing through stages reveals new inputs on splash screens; practice them immediately.
-- Q: What is the best way to handle large enemy groups?  
-[JA TRANSLATION NEEDED]   A: Kite to one edge, use throws or weapons, and pick off stragglers.
-- Q: Are there checkpoints between levels?  
-[JA TRANSLATION NEEDED]   A: Most hosts checkpoint at stage transitions; mid‑stage restarts depend on the version.
-
+### よくある質問 (FAQ)
+- **Q: ゲームで新しいコンボ技をアンロックするには？**  
+  A: ステージを進むと、スプラッシュスクリーン（演出画面）で新しい入力が明らかになります。すぐに練習しましょう。
+- **Q: 大きな敵グループに対処する最良の方法は？**  
+  A: 端に誘導（カイト）し、投げや武器を使い、はぐれた敵から倒していきましょう。
+- **Q: レベル間にチェックポイントはありますか？**  
+  A: ほとんどのホスト版では、ステージの切り替わりにチェックポイントがあります。ステージ途中のリスタートはバージョンによります。

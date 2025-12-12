@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: butterfly-shimai
-title: '[FR] Butterfly Shimai'
-description: >-
-  [FR] Soar into a beautiful puzzle adventure with Butterfly Shimai! Connect
-  matching butterfly wings to make them fly away and clear the board.
+title: Butterfly Shimai
+description: "Butterfly Shimai est un puzzle relaxant façon mahjong «\_connect\_»\_: relie des paires d’ailes de papillon identiques pour les faire s’envoler, avant la fin du temps."
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/butterfly-shimai.png
 tags:
@@ -15,33 +13,57 @@ score: 4.6/5  (2100 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+Dans *Butterfly Shimai*, le plateau est recouvert d’ailes de papillon. Tu dois retrouver les paires identiques et les relier pour reconstituer les papillons, qui s’envolent et libèrent de la place.
+
+La règle clé : tu ne peux relier deux tuiles que si on peut tracer entre elles un chemin comportant au plus **deux angles droits**, sans passer à travers d’autres ailes.
+
+### Guide de jeu
+
+1. **Commence par les paires évidentes**  
+   Relie d’abord les ailes adjacentes ou alignées sans obstacle pour ouvrir le plateau.
+
+2. **Traite les bords et coins**  
+   Les tuiles sur les contours sont souvent plus faciles à libérer et te donnent de nouveaux chemins.
+
+3. **Pense en « chemins à deux virages »**  
+   Visualise les L et U possibles ; une paire n’est pas forcément connectable en ligne droite.
+
+4. **Gestion du temps**  
+
+- **Time Management:** Keep an eye on the timer. Making matches adds a small amount of time back, so quick and continuous matching is key to completing levels.
+   Les matches réussis rajoutent parfois un peu de temps : enchaîne rapidement les coup sûrs pour ne pas être pris par le chrono.
+
+### Commandes
+
+- Clique/tape sur une aile, puis sur sa jumelle ; si un chemin valide existe, les deux disparaissent.
 
 
 
-### Detailed Game Introduction
+    - **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
 
-Butterfly Shimai is a captivating and relaxing puzzle game that combines elements of Mahjong and connect-2 mechanics. The game presents you with a board filled with beautiful butterfly wings. Your objective is to find and connect pairs of identical wings to make them form a complete butterfly and fly away, clearing the board. The challenge lies in the connection rule: wings can only be paired if a path can be drawn between them with no more than two turns, and without passing through any other wings. With a time limit for each level, you need to be quick and strategic to clear all the butterflies.
+- **Q: What happens if I run out of time?**
 
-### Gameplay Strategy & Walkthrough
+    - **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
 
-1.  **[FR]** **Scan for Obvious Matches:** Start by looking for pairs of wings that are directly adjacent or have a clear, straight path between them. These are the easiest to clear and will open up the board.
-2.  **[FR]** **Prioritize Edges and Corners:** Wings located on the edges and corners of the board are often easier to connect as they have fewer blocking tiles around them. Clearing these first can create more opportunities.
-3.  **[FR]** **Look for Two-Turn Paths:** Remember the connection rule: a path can have up to two turns. Visualize these paths to find less obvious matches.
-4.  **[FR]** **Use Hints Wisely:** If you get stuck, the game usually provides a hint button. Use it when you're truly stumped, but try to solve puzzles on your own to improve your observation skills.
-5.  **[FR]** **Time Management:** Keep an eye on the timer. Making matches adds a small amount of time back, so quick and continuous matching is key to completing levels.
+- **Q: What are the rules for connecting wings?**
 
-### Controls Guide
+    - **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
 
-*   **[FR]** **Select and Connect:** Use your mouse to click on the first butterfly wing, then click on its identical matching wing. If a valid path exists, the butterflies will fly away.
+- **Q: What is the goal of Butterfly Shimai?**
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: What is the goal of Butterfly Shimai?**
-    *   **[FR]** **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
 
-*   **[FR]** **Q: What are the rules for connecting wings?**
-    *   **[FR]** **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
+- **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
 
-*   **[FR]** **Q: What happens if I run out of time?**
-    *   **[FR]** **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
+    - **Q: What happens if I run out of time?**
 
+- **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
+
+    - **Q: What are the rules for connecting wings?**
+
+- **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
+
+    - **Q: What is the goal of Butterfly Shimai?**

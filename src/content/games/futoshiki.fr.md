@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: futoshiki
-title: '[FR] Futoshiki'
-description: >-
-  [FR] Futoshiki sharpens logic — place digits with row/column uniqueness while
-  honoring inequality signs for elegant deductions.
+title: "Futoshiki"
+description: "Futoshiki affûte ta logique : place des chiffres uniques par ligne et colonne tout en respectant les signes d’inégalité pour des déductions élégantes."
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/futoshiki.jpg
 tags:
@@ -15,36 +13,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Futoshiki (« pas égal ») est un puzzle logique de type carré latin, proche du Sudoku, mais avec des signes d’inégalité (>, <) entre certaines cases voisines. Tu dois placer les chiffres de sorte que chaque ligne et chaque colonne contienne tous les nombres exactement une fois, tout en respectant toutes les inégalités indiquées. Ces signes créent des chaînes très fortes qui permettent des déductions propres et puissantes.
 
+### Guide de jeu et stratégies
 
-### Detailed Game Introduction
+1.  Chaînes d’inégalités : si A > B > C, alors A ≥ C + 2. Utilise cette information pour limiter les candidats dans chaque case de la chaîne.
+2.  Extrêmes : une chaîne A > … > B borne A vers le haut et B vers le bas. Sur les extrémités de chaîne, élimine les valeurs impossibles (1 pour le plus grand, valeur max pour le plus petit, etc.).
+3.  Balayage lignes/colonnes : applique les contraintes de carré latin (chaque chiffre une fois par ligne/colonne) pour éliminer agressivement les candidats qui se répètent.
+4.  Boucles de contradiction : sur les cases critiques, essaie une valeur et vois si cela casse une inégalité ou crée un doublon sur une ligne/colonne ; si oui, remonte et élimine cette possibilité.
+5.  Symétrie : beaucoup de grilles bien construites ont des motifs d’inégalités symétriques. Repère ces structures pour appliquer les mêmes idées de chaque côté.
 
-Futoshiki ("not equal") is a Latin‑square logic puzzle like Sudoku but with inequality signs (>, <) between neighboring cells. You must place digits so each row/column contains all numbers exactly once and every inequality is satisfied. The signs create strong chains that power elegant deductions.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Tape sur une case pour saisir un chiffre ou des candidats, bascule en mode brouillon/pencil, utilise annuler/rétablir pour corriger.
 
-1.  **[FR]** Inequality chains: A>B>C means A≥C+2; pencil candidates accordingly.
-2.  **[FR]** Extremes: A>…>B bounds A high and B low; use 1/Max eliminations on chain ends.
-3.  **[FR]** Row/column scans: Apply Latin constraints to prune candidates aggressively.
-4.  **[FR]** Contradiction loops: Assume a value on tight cells; backtrack if an inequality breaks or row/col duplicates.
-5.  **[FR]** Symmetry: Balanced puzzles often have mirrored inequality structures — exploit them.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- Q : Je suis bloqué, une idée pour repartir ?
+  
+  R : Développe les chaînes d’inégalités en bornes explicites. Par exemple, si 5 > □ > 3, alors la case centrale ne peut être que 4. Combine ces bornes avec les contraintes de lignes/colonnes.
 
-- Tap a cell to enter candidates/values; toggle pencil mode; undo/redo.
+- Q : Est‑ce que je dois forcément deviner ?
+  
+  R : Les bonnes grilles sont solvables uniquement par logique. Au pire, utilise des hypothèses contrôlées sur une case et reviens en arrière rapidement si tu obtiens une contradiction.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I can’t progress — any tip?
-
-A: Expand inequality chains into explicit bounds (e.g., if 5>□>3 then middle ∈ {4}); combine with row/col hits.
-
-- Q: Are guesses required?
-
-A: Good sets are solvable logically; at worst use controlled assumptions with quick backtrack.
-
-- Q: Difference vs Sudoku?
-
-A: Inequalities add directed constraints, enabling stronger forced moves.
+- Q : Qu’est‑ce qui différencie Futoshiki d’un Sudoku ?
+  
+  R : Les inégalités ajoutent des contraintes dirigées supplémentaires, qui permettent des coups forcés très forts et des chaînes déductives qu’on ne trouve pas dans les Sudoku classiques.
 

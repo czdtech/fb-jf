@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: bullet-force
-title: '[ES] Bullet Force'
+title: "Bullet Force"
 description: >-
-  [ES] Jump into fast-paced multiplayer combat in Bullet Force, a modern
-  first-person shooter. Customize a vast arsenal of weapons, master multiple
-  game modes, and battle players worldwide or practice offline against bots.
+  Lánzate a combates multijugador frenéticos en Bullet Force, un juego de disparos moderno
+  en primera persona. Personaliza un enorme arsenal, domina varios modos de
+  juego y enfréntate a jugadores de todo el mundo o entrena sin conexión contra
+  bots.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
 thumbnail: /new-images/bullet-force.jpg
 tags:
@@ -16,66 +17,97 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Bullet Force es un FPS multijugador moderno y de ritmo alto que recuerda a
+muchos títulos AAA, pero en un formato accesible para navegador y móvil. Te
+enfrentas a combates intensos en distintos mapas, usando un amplio abanico de
+armas totalmente personalizables.
 
+El corazón del juego es su modo multijugador: puedes unirte a partidas públicas
+o crear salas personalizadas para jugar con amigos. Incluye varios modos
+clásicos que se adaptan a diferentes estilos, y un sistema profundo de
+personalización de armas donde desbloqueas miras, láseres, modificadores de
+cañón y camuflajes para ajustar cada arma a tu gusto. Si quieres practicar o
+jugar sin conexión, también dispone de un modo offline sólido con bots
+configurables.
 
+**Modos de juego principales:**
+-   **Team Deathmatch (TDM):** Dos equipos compiten por alcanzar primero un
+    número de bajas antes de que se agote el tiempo.
+-   **Free For All (FFA):** Todos contra todos; gana quien consiga más bajas al
+    final de la partida.
+-   **Conquest:** Dos equipos luchan por capturar y mantener puntos clave del
+    mapa para acumular puntuación.
+-   **Gun Game:** Empiezas con una pistola básica y recibes un arma nueva por
+    cada baja, avanzando por una lista predefinida.
 
-### Game Introduction
+### Estrategia de juego
 
-Bullet Force is a fast-paced, modern multiplayer first-person shooter (FPS) that offers an action-packed combat experience reminiscent of popular AAA titles, but in a more accessible format for web browsers and mobile devices. Players engage in intense battles across a variety of maps, utilizing a wide range of customizable weapons.
+-   **Domina el movimiento:** Bullet Force es un juego de disparos tipo arcade. Quedarte
+    quieto es la forma más rápida de caer. Muévete constantemente y aprende a
+    usar sprint, agachado y deslizamientos para ser un objetivo difícil.
+-   **Aprende los mapas:** El conocimiento del mapa es vital. Familiarízate con
+    su diseño, cuellos de botella, nidos de francotirador habituales y rutas de
+    flanqueo. Entender el flujo de cada escenario te da una gran ventaja.
+-   **Apuntar con mira vs. disparo desde la cadera:**
+    -   **ADS:** Usa la mira (clic derecho en PC) para enfrentamientos de media y
+        larga distancia; aumenta mucho la precisión.
+    -   **Hip‑fire:** En distancias cortas, disparar desde la cadera suele ser
+        más rápido y efectivo, especialmente con subfusiles.
+-   **Elige bien tus clases:** No te cases con un solo arma. Crea varias
+    configuraciones según el mapa y el modo.
+    -   **Fusiles de asalto (AK, M4A1):** Muy versátiles; buenos a casi todas
+        las distancias.
+    -   **SMGs (Vector, MP5):** Letales a corta distancia gracias a su alta
+        cadencia.
+    -   **Francotiradores:** Riesgo/recompensa; ideales para controlar largas
+        líneas de visión si tienes buena puntería.
+-   **Usa el minimapa:** Es tu mejor fuente de información. Muestra la posición
+    de tus compañeros y revela enemigos que disparan sin silenciador o que han
+    sido marcados por rachas como el UAV.
+-   **Practica sin conexión:** El modo con bots es perfecto para practicar puntería,
+    aprender mapas y probar configuraciones sin la presión del multijugador.
 
-The core of the game is its multiplayer mode, where players can join public matches or create their own custom rooms to play with friends. It features several classic game modes that cater to different playstyles. A key aspect of Bullet Force is its extensive weapon customization system, allowing players to unlock and equip numerous attachments such as sights, lasers, barrel modifications, and camouflages to tailor their firearms to their preferences. For those looking to practice or play without an internet connection, the game also offers a robust offline mode with adjustable AI bots.
+### Guía de controles
 
-**Key Game Modes:**
--   **Team Deathmatch (TDM):** Two teams compete to achieve the highest number of kills before the time limit expires.
--   **Free For All (FFA):** Every player for themselves. The player with the most kills at the end of the match wins.
--   **Conquest:** Teams fight to capture and hold specific points on the map to accumulate score.
--   **Gun Game:** Players start with a basic pistol and are given a new weapon for every kill they get, progressing through a set list of firearms.
+#### PC (teclado y ratón)
+-   **Movimiento:** `W`, `A`, `S`, `D`
+-   **Saltar:** `Espacio`
+-   **Correr:** `Shift`
+-   **Agacharse/Deslizarse:** `C`
+-   **Apuntar con mira (ADS):** Botón derecho del ratón
+-   **Disparar:** Botón izquierdo del ratón
+-   **Recargar:** `R`
+-   **Cambiar de arma:** `1`, `2`, `3` o rueda del ratón
+-   **Interactuar:** `E`
+-   **Marcador:** `Tab`
 
-### Gameplay Strategy
+#### Móvil (pantalla táctil)
+-   **Movimiento:** Joystick virtual en la parte izquierda.
+-   **Mirar/Apuntar:** Desliza en la parte derecha.
+-   **Disparo, mira, recarga, salto, agacharse:** Botones en pantalla, a menudo
+    reconfigurables desde ajustes.
 
--   **Master the Movement:** Bullet Force is an arcade-style shooter. Standing still is a quick way to get eliminated. Constantly be on the move, and learn to use mechanics like sprinting, crouching, and sliding to your advantage to be a harder target to hit.
--   **Learn the Maps:** Map knowledge is crucial. Spend time learning the layouts, common choke points, popular sniper nests, and flanking routes. Understanding the flow of each map will give you a significant tactical advantage.
--   **Aim Down Sights (ADS) vs. Hip-Fire:**
-    -   **ADS:** Use ADS (right-click on PC) for medium to long-range encounters. It significantly increases your accuracy.
-    -   **Hip-Fire:** In close-quarters combat, firing from the hip is often faster and more effective, especially with Submachine Guns (SMGs).
--   **Choose Your Loadout Wisely:** Don't stick to one weapon. Create different loadouts for different situations.
-    -   **Assault Rifles (e.g., AK, M4A1):** Versatile and effective at most ranges. A great all-around choice.
-    -   **SMGs (e.g., Vector, MP5):** Dominate in close-quarters due to their high rate of fire.
-    -   **Sniper Rifles:** High-risk, high-reward. Best for players who can hold down long sightlines and land precise shots.
--   **Use the Minimap:** The minimap is your best source of information. It shows the location of your teammates and reveals enemies who are firing without a suppressor or are spotted by a UAV killstreak.
--   **Practice Offline:** The offline mode with bots is an excellent training ground. Use it to practice your aim, learn new maps, and test out different weapon builds without the pressure of a live multiplayer match.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+**1. ¿Cómo desbloqueo nuevas armas y accesorios?**
+> Ganas créditos al jugar partidas (según bajas, objetivos y rendimiento). Con
+> ellos puedes comprar armas principales, secundarias y toda clase de accesorios
+> desde el menú de "Loadout" o "Armory".
 
-#### PC (Keyboard & Mouse)
--   **Movement:** `W`, `A`, `S`, `D`
--   **Jump:** `Spacebar`
--   **Sprint:** `Shift`
--   **Crouch/Slide:** `C`
--   **Aim Down Sights (ADS):** `Right Mouse Button`
--   **Shoot:** `Left Mouse Button`
--   **Reload:** `R`
--   **Switch Weapon:** `1`, `2`, `3` or Mouse Wheel
--   **Interact:** `E`
--   **Show Scoreboard:** `Tab`
+**2. ¿Qué son las killstreaks y cómo se usan?**
+> Son habilidades especiales que obtienes al lograr varias bajas seguidas sin
+> morir. Cuando consigues una, verás un botón en pantalla para activarla; por
+> ejemplo, un **UAV** (muestra enemigos en el minimapa), **Haste** (más
+> velocidad) o **Advanced UAV**.
 
-#### Mobile (Touchscreen)
--   **Movement:** Virtual joystick on the left side of the screen.
--   **Aim/Look:** Swipe on the right side of the screen.
--   **Shoot, ADS, Reload, Jump, Crouch:** Dedicated on-screen buttons, which can often be customized in the settings.
+**3. ¿Cuál es el "mejor" arma?**
+> No hay un arma objetivamente mejor; depende del mapa y tu estilo. Algunas muy
+> populares son el FAMAS por su precisión en ráfagas, el M4A1 por su
+> versatilidad y la Vector por su cadencia brutal en distancias cortas.
 
-### Frequently Asked Questions (FAQ)
-
-**1. How do I unlock new weapons and attachments?**
-> You earn credits by playing matches (based on your performance, kills, and objectives). These credits can then be spent in the "Loadout" or "Armory" section of the game to purchase new primary weapons, secondary weapons, and a wide variety of attachments for them.
-
-**2. What are killstreaks and how do I use them?**
-> Killstreaks are special abilities you earn by getting a certain number of kills in a row without dying. Once earned, an on-screen button will appear, allowing you to activate abilities like a **UAV** (reveals enemies on the minimap), **Haste** (increased movement speed), or an **Advanced UAV**.
-
-**3. What is the "best" weapon in the game?**
-> There is no definitive "best" weapon as it largely depends on your playstyle and the map. However, some popular and highly effective choices include the FAMAS for its burst-fire accuracy, the M4A1 for its versatility, and the Vector for its incredibly high rate of fire in close combat.
-
-**4. Can I play with my friends?**
-> Yes. You can create a custom match by going to the multiplayer menu and selecting "Create Room." You can set a password for the room and share the room name and password with your friends so they can join.
-
+**4. ¿Puedo jugar con mis amigos?**
+> Sí. Puedes crear una sala personalizada desde el menú multijugador
+> seleccionando "Create Room". Ponle contraseña y comparte nombre y clave con
+> tus amigos para que se unan.

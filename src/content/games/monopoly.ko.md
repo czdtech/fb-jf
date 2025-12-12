@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: monopoly
-title: '[KO] MONOPOLY'
+title: "MONOPOLY 모노폴리"
 description: >-
-  [KO] Monopoly is a classic real estate board game where players buy, rent, or
-  sell properties with the goal of bankrupting their opponents and becoming the
-  wealthiest player.
+  Monopoly는 주사위를 굴려 말판을 돌며 부동산을 사고팔고, 상대를 파산시켜 최후의
+  승자가 되는 것을 목표로 하는 클래식 부동산 보드게임입니다.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/monopoly.jpg
 tags:
@@ -18,34 +17,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Monopoly*는 전 세계적으로 사랑받는 대표적인 부동산 보드게임입니다. 플레이어는 주사위를
+굴려 말판을 이동하며, 도착한 칸의 부동산을 구입하거나, 다른 플레이어의 땅에 세금을
+지불하고, 카드 이벤트를 소화하게 됩니다. 목표는 다른 모든 플레이어를 파산시키고 혼자만
+남는 가장 부유한 플레이어가 되는 것입니다. 전략, 협상, 운이 모두 어우러져 긴장감 있는
+게임이 펼쳐집니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Monopoly" is a classic real estate board game where players roll dice to move around the game board, buying, renting, and selling properties. The goal is to bankrupt other players and ultimately become the wealthiest tycoon. The game combines elements of strategy, negotiation, and luck, and is loved by players worldwide.
+1. **부동산 매입:** 소유자가 없는 땅에 도착하면 가능하면 사 두는 편이 좋습니다.
+   일정 색깔 세트를 모두 모아야 건물을 지을 수 있기 때문에, 초반에는 폭넓게 포트폴리오를
+   구축하는 것이 중요합니다.
+2. **집과 호텔 건설:** 같은 색 세트의 땅을 모두 확보했다면 집과 호텔을 지어 통행료를
+   크게 올릴 수 있습니다. 수익성이 좋은 구역(예: 주황색·빨간색 라인 등)에 우선 투자해
+   상대를 빠르게 압박하세요.
+3. **통행료 수금:** 다른 플레이어가 자신의 땅에 도착하면 통행료를 받습니다. 집과 호텔이
+   많을수록 통행료가 급격히 상승하므로, 적은 땅을 깊게 개발하는 전략도 고려해 볼 만
+   합니다.
+4. **거래와 협상:** 필요한 색을 채우기 위해 다른 플레이어와 땅이나 카드(예: 역, 공공기관)를
+   교환하는 협상이 중요합니다. 서로 이득이 되는 조건을 제시해 원하는 세트를 완성해
+   보세요.
+5. **자금 관리:** 무작정 부동산을 사들이기보다는, 통행료·세금·이벤트 카드로 인한 지출을
+   감당할 수 있을 만큼의 현금을 항상 남겨 두는 것이 좋습니다.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Buy Properties**: When you land on an unowned property, you can choose to buy it, making it your asset.
-2.  **[KO]** **Build Houses and Hotels**: After acquiring all properties of the same color group, you can build houses and hotels on them to increase rental income.
-3.  **[KO]** **Collect Rent**: When other players land on your property, they must pay you rent. Properties with houses and hotels yield higher rents.
-4.  **[KO]** **Trade and Negotiate**: Engage in property or card trades with other players, negotiating to acquire a more advantageous asset portfolio.
-5.  **[KO]** **Manage Finances**: Plan your finances wisely to ensure you have enough cash flow to cover rents, taxes, and unforeseen events.
+* **주사위 굴리기:** 자신의 턴이 되면 화면의 주사위를 클릭해 이동 칸 수를 결정합니다.
+* **구입/건설:** 매입 가능한 땅에 도착하면 구매 여부를 묻는 창이 뜨며, 같은 색 세트를
+  모두 소유하게 되면 해당 칸에서 집/호텔 건설 메뉴가 활성화됩니다.
+* **거래:** 다른 플레이어와의 거래 메뉴를 열어, 서로의 땅이나 카드를 제안·요청해
+  협상을 진행할 수 있습니다.
+* **지불:** 다른 플레이어의 땅, 세금 칸 등에 도착하면 자동으로 통행료나 세금을 지불하게
+  되며, 지불할 돈이 부족할 경우 부동산을 담보로 잡히거나 매각해야 할 수 있습니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Roll Dice**: Click the dice during your turn to roll them, determining how many spaces your token moves.
-*   **[KO]** **Buy/Build**: When your token lands on a purchasable property, a buying option will appear. Once you own a complete color group, you can click on properties to build.
-*   **[KO]** **Trade**: Initiate trades with other players, selecting properties or cards you wish to exchange.
-*   **[KO]** **Pay**: When landing on a space that requires rent or tax payment, you will be prompted to pay automatically.
+1. **Q: Monopoly는 몇 명이서 하는 게 가장 재밌나요?**  
+   **A:** 규칙상 2~8명이 플레이할 수 있지만, 보통 3~6명일 때 가장 균형 잡힌 재미를
+   느낄 수 있습니다.
 
-### Frequently Asked Questions
+2. **Q: 게임의 최종 목표는 무엇인가요?**  
+   **A:** 다른 모든 플레이어를 파산시키고, 부동산과 현금을 독점한 채 마지막까지 남는
+   것이 목표입니다.
 
-1.  **[KO]** **Q: What is the ideal number of players for Monopoly?**
-**A**: Traditional Monopoly usually suits 2 to 8 players, but the best experience is often with 3 to 6 players.
-2.  **[KO]** **Q: What is the objective of the game?**
-**A**: The main objective is to bankrupt all other players by buying, developing, and managing properties, thereby becoming the sole winner.
-3.  **[KO]** **Q: What happens if I go bankrupt?**
-**A**: Once you are unable to pay your debts (including rent, taxes, or bank loans), you go bankrupt and are out of the game.
-4.  **[KO]** **Q: What are the special squares on the board?**
-**A**: Special squares include "Chance," "Community Chest," "Go to Jail," and "Free Parking," which trigger various events and rules.
+3. **Q: 파산하면 어떻게 되나요?**  
+   **A:** 통행료·세금·은행 대출 등 어떤 비용도 지불할 수 없게 되면 파산 처리되며,
+   게임에서 탈락합니다. 자산은 규칙에 따라 은행이나 채권자에게 넘어갑니다.
+
+4. **Q: 말판 위의 특수 칸은 어떤 역할을 하나요?**  
+   **A:** "찬스(Chance)", "커뮤니티 체스트(Community Chest)", "감옥행(Go to Jail)",
+   "무료 주차장(Free Parking)" 등 특수 칸은 다양한 이벤트와 규칙을 일으켜 게임의
+   흐름에 큰 변화를 줍니다.

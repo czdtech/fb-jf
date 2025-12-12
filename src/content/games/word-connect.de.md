@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: word-connect
-title: '[DE] Word Connect'
-description: >-
-  [DE] Connect letters and expand your vocabulary in Word Connect, an addictive
-  word puzzle game! Swipe to form words from a circular set of letters and fill
-  in the crossword-style blanks. Discover bonus words, use hints, and challenge
-  yourself across thousands of levels in this relaxing brain-teaser.
+title: "Word Connect"
+description: "Verbinde Buchstaben und erweitere deinen Wortschatz in Word Connect: Ziehe eine Linie über die Buchstaben im Kreis, bilde Wörter und fülle das Kreuzwort‑Gitter in diesem entspannten Wortpuzzle." 
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/word-connect.jpg
 tags:
@@ -17,36 +13,30 @@ score: 3.9/5  (144 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Word Connect ist ein gemütliches Wortpuzzle, bei dem du aus einem kleinen Buchstabenvorrat möglichst viele Wörter bildest. Die Buchstaben sind meist im Kreis angeordnet, und du ziehst mit dem Finger oder der Maus eine Linie darüber, um Wörter zu „verbinden“. Ziel ist es, alle Wörter zu finden, die in das Kreuzwort‑Gitter über dem Kreis passen.
 
-### Game Introduction
+### Spielanleitung
 
-Word Connect is a popular and relaxing word puzzle game that challenges players to form words by connecting letters. Typically, a set of letters is arranged in a circular pattern, and players swipe their finger (or mouse) across them to spell out words. The goal is to find all the hidden words that fit into a crossword-style grid above.
+- **Wörter bilden:** Ziehe von Buchstabe zu Buchstabe, um ein Wort zu formen, und lass los, um es einzureichen.
+- **Ziel:** Fülle sämtliche leeren Felder im Kreuzwort‑Raster, indem du die geforderten Wörter findest.
+- **Bonuswörter:** Wörter, die nicht ins Raster gehören, zählen oft als Bonus und bringen Extra‑Münzen.
+- **Mischen:** Nutze die Misch‑Funktion, um die Buchstaben neu anzuordnen – das hilft, neue Wortideen zu sehen.
+- **Hinweise:** Steckenbleibst du, kannst du mit Münzen Hinweise kaufen, die einzelne Buchstaben im Raster aufdecken.
 
-### Gameplay Guide
+### Steuerung
 
-- **Forming Words:** Swipe your finger from one letter to the next in the circular arrangement to spell a word. Release to submit.
-- **Objective:** Fill in all the blank spaces in the crossword grid by finding the correct words.
-- **Bonus Words:** Find words that are not part of the main puzzle to earn extra coins.
-- **Shuffling:** Use the shuffle button to rearrange the letters, which can help you see new word combinations.
-- **Hints:** Use coins to get hints that reveal a letter in a word if you get stuck.
+- **Ziehen/Wischen:** Ziehe mit dem Finger oder der Maus über die Buchstaben im Kreis, um Wörter zu bilden.
+- **Klick:** Tippe auf die Buttons für Mischen oder Hinweise.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- **Swipe/Drag:** Use your finger (on mobile) or mouse (on PC) to drag across the letters to form words.
-- **Click:** Click on the shuffle or hint buttons.
+**Wie bekomme ich Münzen?**  
+Durch das Lösen von Puzzles, das Finden von Bonuswörtern und häufig auch durch Tagesaufgaben oder optionale Werbung.
 
-### Frequently Asked Questions (FAQ)
+**Gibt es ein Zeitlimit?**  
+In den meisten Word‑Connect‑Varianten kannst du dir beliebig viel Zeit lassen – das Spiel ist eher als entspannter Worttrainer gedacht.
 
-**How do I earn coins?**
-
-You earn coins by solving puzzles, finding bonus words, and often through daily challenges or watching ads. Coins can be used to purchase hints.
-
-**Is there a time limit?**
-
-Most versions of Word Connect do not have a time limit, allowing players to solve puzzles at their own pace.
-
-**What makes a word valid?**
-
-Words must be at least three letters long and must be valid English words found in the game's dictionary.
-
+**Welche Wörter sind gültig?**  
+In der Regel alle Wörter mit mindestens drei Buchstaben, die im Wörterbuch des Spiels existieren. Manche kurzen oder umgangssprachlichen Wörter werden dabei bewusst weggelassen.

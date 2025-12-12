@@ -1,71 +1,55 @@
 ---
-locale: ja
-urlstr: superhot
-title: '[JA TRANSLATION NEEDED] Superhot'
-description: >-
-  [JA TRANSLATION NEEDED] Superhot is an innovative first-person shooter where
-  time moves only when you move, creating a unique tactical puzzle experience
-  that combines action with strategic planning.
-iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
+title: SUPERHOT
+description: SUPERHOTは、時間があなたの動きと共に動く革新的なFPSゲームです。戦略的に動いて敵を倒しましょう。
+iframeSrc: 'https://ubg98.github.io/SUPERHOT/'
 thumbnail: /new-images/superhot.jpg
+urlstr: superhot
+score: 4.7/5  (5678 votes)
 tags:
-  - shooting
+  - fps
   - strategy
-  - manipulation
-score: 3.9/5  (1186 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - innovative
+locale: ja
 ---
 
+### ゲーム紹介
 
+SUPERHOTは、「時間があなたが動くときだけ動く」という革新的なメカニクスを持つユニークなFPSゲームです。戦略的に動いて計画を立て、敵を倒しましょう。
 
-### Game Introduction
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] "Superhot" is an innovative first-person shooter where time moves only when you move, creating a unique tactical puzzle experience that combines action with strategic planning. Players need to precisely plan every move in a slow-motion world.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Time Control**: Time almost stops when standing still, returns to normal speed when moving.
-[JA TRANSLATION NEEDED] 2.  **Weapon Acquisition**: Take weapons from enemies' hands or pick up items from the ground.
-[JA TRANSLATION NEEDED] 3.  **Bullet Dodging**: Use slow-motion effects to observe and dodge incoming bullets.
-[JA TRANSLATION NEEDED] 4.  **Precise Shooting**: Aim for enemies' heads or vital body parts for one-hit kills.
-[JA TRANSLATION NEEDED] 5.  **Environmental Usage**: Use cover and environmental objects for protection.
-
-### How to Play
-
-*   **Movement**: WASD keys control character movement.
-*   **View**: Mouse controls view rotation.
-*   **Shooting**: Left click to shoot.
-*   **Pickup**: Automatically pick up weapons or items when close.
+ - **時間メカニクス：** 静止すると時間がほぼ停止します
+ - **戦略的移動：** 慎重に動いて敵の弾丸を避けます
+ - **武器を使用：** 武器を拾って敵を倒します
+ - **計画と実行：** 各動きを戦略的に計画します
 
 
 - **Environmental Usage**: Use cover and environmental objects for protection.
-### Frequently Asked Questions
+### 操作ガイド
 
+ - **WASD：** 移動
+ - **マウス：** 視点と狙い
+ - **左クリック：** 射撃/投げる
+ - **右クリック：** 武器を拾う
 
-
-
-
+### よくある質問（FAQ）
 
 
 - **Q: How does the time mechanism work?**
-### よくある質問
-- **Pickup**: Automatically pick up weapons or items when close.
-- **Shooting**: Left click to shoot.
-- **View**: Mouse controls view rotation.
+**ゲームの基本メカニクスは何ですか？**
 
-### よくある質問
-- **Movement**: WASD keys control character movement.
-[JA TRANSLATION NEEDED] 1.  **Q: How does the time mechanism work?**
 
 - **Q: How do I get weapons?**
-[JA TRANSLATION NEEDED]     **A**: When you stop moving and rotating view, time almost completely stops, giving you time to think strategically.
+あなたが動くときだけ時間が動きます。静止すると時間がスローモーションになります。
+
 
 - **Q: How can I effectively avoid attacks?**
-[JA TRANSLATION NEEDED] 2.  **Q: How do I get weapons?**
+**どうやって敵を倒しますか？**
+
 
 - **Q: How many levels are in the game?**
-[JA TRANSLATION NEEDED]     **A**: Take them from defeated enemies or find available weapons in the scene.
-[JA TRANSLATION NEEDED] 3.  **Q: How can I effectively avoid attacks?**
-[JA TRANSLATION NEEDED]     **A**: Use the slow-motion time effect to observe bullet trajectories and move to dodge in time.
-[JA TRANSLATION NEEDED] 4.  **Q: How many levels are in the game?**
-[JA TRANSLATION NEEDED]     **A**: The prototype version usually contains several levels, each with different challenges and enemy configurations.
+戦略的に動いて位置取りし、武器を使って敵を倒します。
+
+**難易度は高いですか？**
+
+ユニークなメカニクスには慣れが必要ですが、マスターすると非常に満足感があります。

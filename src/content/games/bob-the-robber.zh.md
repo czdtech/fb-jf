@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: bob-the-robber
-title: '[ZH TRANSLATION NEEDED] Bob the Robber'
+title: "Bob the Robber 怪盗鲍勃"
 description: >-
-  [ZH TRANSLATION NEEDED] Become a master thief in Bob the Robber! Sneak past
-  guards, disable cameras, crack safes, and steal valuable loot in this
-  challenging stealth puzzle-platformer series.
+  在《Bob the Robber 怪盗鲍勃》系列中，你扮演一位“侠盗”，潜入戒备森严的房屋、银行和博物馆，在不被发现的情
+  况下关闭机关、破解保险箱并带着目标战利品全身而退。
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/bob-the-robber.jpg
@@ -17,51 +16,63 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
+*Bob the Robber* 是一系列 2D 潜行解谜平台游戏。你将扮演怪盗鲍勃，一名有正义感的盗贼（经常被描绘成现代版罗宾汉），潜入房屋、银行、博物馆等严密防守的地点。
 
-### Game Introduction
+每一关的目标通常是：在复杂的建筑中穿梭、找到指定的目标物或文件、尽可能顺路搜刮额外现金，最后在不被抓住的前提下抵达出口。
 
-[ZH TRANSLATION NEEDED] Bob the Robber is a series of 2D stealth puzzle-platformer games. The player takes on the role of Bob, a skilled thief with a sense of justice (often portrayed as a modern-day Robin Hood), who infiltrates various secure locations like houses, banks, and museums. The objective of each level is to navigate the environment, collect a specific target loot item, and reach the exit without getting caught.
+核心玩法围绕“**避免被发现**”展开。关卡中遍布各种安保设施：巡逻守卫、监控摄像头、激光安保网、密码门和上锁房间等。你需要通过观察、等待与精确的行动时机来绕过这些威胁。阴影与暗处往往可以让鲍勃隐身于视线之外；同时，一些机关则需要你通过解谜、找密码或撬锁才能解除。
 
-[ZH TRANSLATION NEEDED] The core gameplay revolves around avoiding detection. Levels are filled with a variety of security measures, including patrolling guards, security cameras, laser grids, and locked doors. The player must use observation, timing, and stealth to overcome these obstacles. Hiding in the shadows is a key mechanic, making Bob invisible to most threats. Successfully completing a level often requires solving small puzzles, such as finding keycodes or lockpicking doors, all while remaining unseen.
+### 游戏策略
 
-### Gameplay Strategy
+-   **耐心是最好的武器**  
+    不要急着往前冲。大部分失败都源于在没看清巡逻路线前贸然前进。进入新画面时，先停下来观察几秒，记住守卫的移动节奏和摄像头的扫描角度，再规划行动路线。
 
--   **Patience is Your Best Tool:** Do not rush. The most common mistake is running into a guard's patrol route. Take time at the start of each screen to observe the patterns of guards and cameras.
--   **Use the Shadows:** Shadows are your safe zones. Whenever possible, move from one shadow to another. A guard or camera will not spot you while you are hidden in a shadow, unless a guard physically walks into you.
--   **Dealing with Guards:**
-     -   **Avoidance:** The best method is to simply wait for a guard to pass and then sneak by behind them.
-     -   **Knockout:** You can sneak up behind a guard and knock them out with your club (usually with the Spacebar). Be aware that this takes a few seconds and makes a noise that can alert nearby guards. A knocked-out guard will eventually wake up in some games, or can be discovered by other guards.
--   **Timing Cameras:** Security cameras sweep back and forth in a predictable pattern. Wait for the camera's light cone to move away from your path before you cross. Running under a camera is faster and reduces your exposure time.
--   **Read the Environment:** Look for clues. Security codes for keypads are often written on pieces of paper or walls within the level. Pay attention to everything.
--   **Locks and Safes:** Lockpicking is a common mini-game. It usually requires you to press a button at the exact moment a pin is in the correct position. This requires good timing.
--   **Collect All the Loot:** Besides the main objective, there are often extra cash stashes hidden in drawers, shelves, or behind paintings. Finding these will improve your final score.
+-   **善用阴影与死角**  
+    暗处是你的安全区。只要鲍勃站在阴影里，大多数守卫和摄像头就无法通过视线发现你（但若守卫直接走到你身上仍然会被抓）。在移动时尽量从一个阴影“跳”到下一个阴影，减少暴露时间。
 
-### Controls Guide
+-   **处理守卫的方式：优先潜行，其次击倒**  
+    - **绕开为主：** 最稳妥的打法是等待守卫经过，再从其背后悄悄溜过。  
+    - **必要时击倒：** 某些情况下你可以从背后靠近，使用警棍（通常是空格键）击倒守卫。但这一动作需要数秒时间，并会产生声音，有可能惊动附近的其他守卫。此外，在部分作品中，被打晕的守卫会在一段时间后苏醒，或被其他守卫发现尸体后触发警报。  
 
-[ZH TRANSLATION NEEDED] The controls are generally consistent across the series and are very simple.
+-   **把握摄像头的扫描节奏**  
+    摄像机一般以固定角度来回扫描，视野区域常以光锥显示。耐心观察其移动范围与节奏，在光锥偏离通道时迅速通过。按下方向键跑步可以缩短暴露时间，但要小心脚步声。
 
--   **W/A/S/D or Arrow Keys:** Move Bob left, right, up, and down (for stairs/ladders).
--   **Up Arrow Key or W:** Interact with objects. This is used for:
-     -   Opening doors.
-     -   Picking locks.
-     -   Searching for loot.
-     -   Entering codes.
-     -   Climbing stairs or ladders.
--   **Spacebar:** Swing your club to knock out a guard from behind.
--   **Z, X, C (in later games):** Use special gadgets if available.
+-   **仔细阅读场景细节**  
+    很多电子锁的密码、提示信息会写在关卡中的纸条、墙面或屏幕上。养成看到文字就停下来看一眼的习惯，往往能少走许多弯路。
 
-### Frequently Asked Questions (FAQ)
+-   **撬锁与开保险箱**  
+    多数关卡都包含锁门或保险箱，需要你通过小型小游戏来完成，例如在指针经过指定位置时按键、或在限定时间内输入密码等。节奏往往不会太紧张，但失败次数过多可能会触发警报或拖慢通关时间。
 
-[ZH TRANSLATION NEEDED] **1. A guard saw me even though I was in the shadows. Why?**
-[ZH TRANSLATION NEEDED] > If a guard walks directly into you, they will detect you even if you are in a shadow. Shadows make you invisible to line-of-sight detection, but not to physical contact.
+-   **顺手搜刮额外战利品**  
+    主目标以外的抽屉、柜子、画框后经常藏有现金或贵重物品。多搜集这些额外战利品可以提高本关评分，也为后续购买装备 / 解锁内容提供资源。
 
-[ZH TRANSLATION NEEDED] **2. How do I get past the laser grids?**
-[ZH TRANSLATION NEEDED] > You usually need to find a switch or a control panel somewhere in the level to disable the lasers. Sometimes this involves a small mini-game or just a single interaction.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **3. I knocked out a guard, but then I got caught. What happened?**
-[ZH TRANSLATION NEEDED] > Another guard likely saw the body of the knocked-out guard and raised the alarm. When you knock out a guard, make sure their body is not on another guard's patrol route.
+不同代作品的键位略有差异，但整体非常接近：
 
-[ZH TRANSLATION NEEDED] **4. Is it better to knock out guards or sneak past them?**
-[ZH TRANSLATION NEEDED] > Sneaking is almost always the better and safer option. Knocking out guards should be a last resort or used only when you are certain no other guards will discover the body. It's a tool to create an opening, not a primary strategy.
+-   **方向键或 W/A/S/D：** 控制鲍勃左右移动、上下楼梯或梯子。  
+-   **↑ 或 W：** 与物品交互，包括：  
+    - 打开门；  
+    - 撬锁 / 破解电子锁；  
+    - 搜索抽屉、柜子、画框；  
+    - 输入密码；  
+    - 上下楼梯或进入通风管道。  
+-   **空格键：** 在从背后靠近守卫时使用警棍将其击晕。  
+-   **Z / X / C（部分续作）：** 使用特殊道具和小工具，例如烟雾弹、黑客设备等。  
+
+### 常见问题解答（FAQ）
+
+**1. 明明站在阴影里，为什么还是被守卫发现了？**  
+阴影只会让你从“视线”层面隐蔽，但如果守卫的巡逻路线刚好走到你脚边，即便在阴影中也会被撞见并触发警报。因此在阴影里也要注意不要站在守卫必经之路上。
+
+**2. 激光网要怎么通过？**  
+通常需要在关卡某处找到开关或控制面板，关闭或暂时停用激光。有时需要完成一个简单的小游戏或输入密码才能操作。
+
+**3. 我已经击倒了守卫，为什么过一会儿还是被抓？**  
+可能是其他守卫路过时看到了地上的昏迷守卫，从而拉响警报。击倒守卫前最好确认附近没有其他守卫会经过，或者尽量在隐蔽位置解决他们。
+
+**4. 究竟是多击倒守卫更好，还是尽量不动手？**  
+在大多数关卡中，“悄无声息地溜过去”往往比清场更安全。击倒守卫应该被视作制造突破口的手段，而不是默认策略。只在确实需要、且确认不会有其他守卫发现的情况下再动手。  
 

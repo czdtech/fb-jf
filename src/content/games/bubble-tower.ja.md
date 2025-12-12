@@ -1,92 +1,42 @@
 ---
+title: "Bubble Tower 3D バブルタワー3D"
+description: "「Bubble Tower 3D」は回転するタワーが舞台のバブルシューティングゲーム！タワーを回して狙いを定め、連鎖でバブルを消し去ろう。"
+iframeSrc: "https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/"
+thumbnail: "/new-images/bubble-tower.png"
+urlstr: "bubble-tower"
+score: "4.3/5  (1950 votes)"
+tags: ["puzzle", "shooting", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: bubble-tower
-title: '[JA TRANSLATION NEEDED] Bubble Tower 3D'
-description: >-
-  [JA TRANSLATION NEEDED] Take on a new dimension of bubble shooting in Bubble
-  Tower 3D! Rotate the tower, aim your shot, and match three or more colored
-  bubbles to clear the board before the bubbles reach the bottom.
-iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
-thumbnail: /new-images/bubble-tower.png
-tags:
-  - puzzle
-  - shooting
-  - casual
-score: 4.3/5  (1950 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Bubble Tower 3D（バブルタワー3D）*は、古典的なバブルシューターの公式にエキサイティングな3次元要素を加えたゲームです。色とりどりのバブルが、回転する円筒形のタワー（塔）の外側にくっついています。プレイヤーの目的は、画面下の大砲からバブルを発射し、同じ色のバブルを3つ以上くっつけて消していくことです。タワーを左右に回転させて死角をなくし、最適な射撃角度を見つけて大連鎖を狙いましょう。
 
-### Detailed Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Bubble Tower 3D adds an exciting third dimension to the classic bubble shooter formula. In this game, colorful bubbles are stuck to the outside of a rotating cylindrical tower. Your objective is to clear all the bubbles by shooting a new bubble from your cannon at the bottom and matching it with at least two other bubbles of the same color. The ability to rotate the tower adds a layer of strategy, requiring you to find the best angle for every shot to create massive chain reactions and clear the tower.
+1.  **回転して確認する:** 撃つ前に必ずタワーを左右に回して、全体の配置を確認しましょう。隠れた場所に同じ色の大きな塊があるかもしれません。そこを狙えば一気に崩せる可能性があります。
+2.  **壁反射はないが…:** 通常のバブルシューターと違い壁反射は使いにくいですが、タワーの曲面を意識することで、正面からは見えない隙間にバブルを滑り込ませることができます。
+3.  **基礎を崩す:** ぶら下がっているバブルの根元（基礎）となっている部分を優先的に狙いましょう。その色を消せば、下にぶら下がっている違う色のバブルも道連れにして落とすことができます。
+4.  **特殊バブルの活用:** 「ファイアボール（火の玉）」などの特殊なバブルが登場することがあります。これらは色に関係なく着弾点の周囲を破壊できる強力なアイテムです。手詰まりになりそうな時や、急所を破壊するために温存しておきましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Rotate and Inspect:** Before every shot, take a moment to rotate the tower left and right. This allows you to see the entire layout of bubbles and plan your moves more effectively. Look for large clusters of the same color or strategic shots that could cause a large section to fall.
-[JA TRANSLATION NEEDED] 2.  **Bank Shots:** Use the walls of the play area to your advantage. Bouncing your bubble off the side walls can help you reach tricky spots or get behind bubbles that are blocking a direct shot.
-[JA TRANSLATION NEEDED] 3.  **Prioritize Foundational Bubbles:** Look for matches that will detach a large group of differently colored bubbles underneath them. When you pop a cluster, any bubbles that are only connected to that cluster will also fall, clearing the board much faster.
-[JA TRANSLATION NEEDED] 4.  **Use Special Bubbles:** Pay attention to special bubbles like Fireballs or Bombs. These powerful tools can destroy any bubble, regardless of color, and are best saved for situations where you are stuck or need to clear a critical section to prevent losing.
+*   **タワーの回転:**
+    *   **マウス:** 背景をドラッグするとタワーが回転します。
+    *   **キーボード:** 左右の矢印キー（← →）でも回転できます。
+*   **狙いと発射:**
+    *   **マウス:** 大砲はカーソルの位置に自動で照準を合わせます。左クリックで発射します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Rotate the Tower:**
-    - **マウス:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
-    - **A:** You win by clearing all the bubbles from the tower.（日本語訳が必要）
-    - **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.（日本語訳が必要）
-    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.（日本語訳が必要）
-    - **キーボード:** Use the Left and Right arrow keys.
-    - **マウス:** Click and drag the background to rotate the tower.
-    - **マウス:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
-    - **A:** You win by clearing all the bubbles from the tower.（日本語訳が必要）
-    - **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.（日本語訳が必要）
-    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.（日本語訳が必要）
-[JA TRANSLATION NEEDED]     *   **Mouse:** Click and drag the background to rotate the tower.
-[JA TRANSLATION NEEDED]     *   **Keyboard:** Use the Left and Right arrow keys.
-*   **Aim and Shoot:**
-[JA TRANSLATION NEEDED]     *   **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
+*   **Q: どうすれば勝ちですか？**
+    *   **A:** タワーにくっついているすべてのバブルを消し去れば勝利です。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 時間切れになるとどうなりますか？**
+    *   **A:** 一定回数ミスショットをしたり時間が経つと、タワー全体がゆっくりと一段下がってきます。バブルが底のライン（デッドライン）に達してしまうとゲームオーバーです。
 
-*   **Q: How do I win the game?**
-[JA TRANSLATION NEEDED]     *   **A:** You win by clearing all the bubbles from the tower.
-
-*   **Q: What happens if I don't clear the bubbles in time?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
-
-*   **Q: I can't find a match for the bubble in my cannon. What should I do?**
-
-
-
-
-
-
-
-
-
-
-
-    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
-- **Q: I can't find a match for the bubble in my cannon. What should I do?**
-    - **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
-- **Q: What happens if I don't clear the bubbles in time?**
-    - **A:** You win by clearing all the bubbles from the tower.
-- **Q: How do I win the game?**
-### よくある質問（FAQ）
-    - **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
-- **Aim and Shoot:**
-    - **Keyboard:** Use the Left and Right arrow keys.
-
-- **Q: What happens if I don't clear the bubbles in time?**
-    - **Mouse:** Click and drag the background to rotate the tower.
-
-
-    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
-- **Q: I can't find a match for the bubble in my cannon. What should I do?**
-
-    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
-[JA TRANSLATION NEEDED]     *   **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
-
+*   **Q: 撃てる色のバブルが見当たりません。**
+    *   **A:** まずはタワーを一周回してよく探してください。それでも無ければ、後で邪魔になりにくい場所、もしくは次のショットで消しやすい場所に「捨て弾」として配置するしかありません。

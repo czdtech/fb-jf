@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: basketball-legends
-title: '[FR] Basketball Legends'
-description: >-
-  [FR] A complete guide to the arcade sports game Basketball Legends. Learn the
-  controls, strategies for offense and defense, how to use the supershot, and
-  answers to common questions for 1-player and 2-player modes.
-iframeSrc: 'https://webglmath.github.io/basketball-legends/'
+title: "Basketball Legends"
+description: "Basketball Legends est un jeu de basket arcade 1v1 ou 2v2 plein de dunks exagérés et de tirs spéciaux : maîtrise les déplacements, le dash et le Super Shoot pour dominer tes adversaires en solo ou à deux."
+iframeSrc: "https://webglmath.github.io/basketball-legends/"
 thumbnail: /new-images/basketball-legends.jpg
 tags:
   - 2-Player
@@ -15,69 +12,81 @@ score: 4.5/5  (832 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Basketball Legends* est un jeu de basket 2D rapide mettant en scène des versions caricaturales de stars de la NBA. Tout est orienté arcade : sauts immenses, contres spectaculaires, dunks en chaîne et tirs spéciaux impossibles à bloquer.
 
+Tu peux jouer en **1 contre 1** ou **2 contre 2**, contre l’IA ou un ami sur le même clavier. L’objectif reste classique : marquer plus de points que l’adversaire avant la fin du chrono.
 
+### Guide de jeu
 
+Pour gagner, il faut maitriser vos déplacements, le timing des tirs et exploiter le Super Shoot.
 
-### Detailed Introduction
+#### En attaque
 
-*Basketball Legends* is a fast-paced, 2D arcade basketball game featuring exaggerated, caricature-style versions of famous basketball players. The game strips away the complexities of a simulation and focuses on pure, action-packed fun. Players can compete in 1-on-1 or 2-on-2 matches where the objective is simple: score more points than your opponent before the timer runs out.
+1. **Utilise le dash**  
+   Un double appui sur la touche de déplacement te fait sprinter. Sers‑toi en pour dépasser ton défenseur, aller dunker ou créer de l’espace pour un tir extérieur.
 
-The gameplay is characterized by high-flying dunks, powerful blocks, and frantic movement. A key feature is the "Super Shot" mechanic: a special, unblockable shot that players can unleash after filling a power meter. With different modes available, including a quick match, a tournament, and a two-player mode, the game is designed for both solo players looking for a challenge and friends wanting to compete against each other on the same keyboard.
+2. **Alterner dunk et tir**  
+   - Le **dunk** est très sûr mais nécessite de se rapprocher du panier.  
+   - Le **tir à distance** est plus risqué, mais difficile à anticiper si tu as préparé un peu d’espace.  
+   Varie pour que l’adversaire ne sache pas ce que tu prépares.
 
-### Gameplay Strategy
+3. **Gérer le Super Shoot**  
+   En jouant, tu remplis une jauge spéciale. Une fois pleine, tu peux lancer un **Super Shoot**, un tir spectaculaire et généralement imparable. Garde‑le pour un moment clé (égalité, fin de match) ou lorsqu’il est difficile de trouver un tir normal.
 
-Success in *Basketball Legends* is about mastering movement, timing, and the strategic use of your special abilities.
+4. **Jouer en duo (2v2)**  
+   Si tu joues à deux contre deux, pense à **passer** le ballon à ton coéquipier quand tu es pris à deux ou que ton angle de tir est mauvais.
 
-#### On Offense:
+#### En défense
 
-1.  **[FR]** **Use Your Dash:** Dashing (double-tapping a movement key) is the most important tool for creating space. Use it to blow past your defender for an easy dunk or to get open for a jump shot.
-2.  **[FR]** **Know When to Dunk vs. Shoot:** A dunk is a high-percentage shot that is difficult to block, but it requires you to be very close to the basket. A jump shot can be taken from further away but is easier for a defender to block. Mix up your attacks to keep your opponent guessing.
-3.  **[FR]** **Master the Super Shot:** The Super Shot meter fills as you perform actions like shooting and defending. Once full, unleash it! It's a guaranteed point and can change the momentum of a close game. Don't use it when you're already wide open for an easy dunk; save it for when you're heavily defended.
-4.  **[FR]** **Use Your Teammate (2v2):** In a 2-on-2 match, don't forget you have a partner. If you're being double-teamed, pass the ball to your open teammate for an easy score.
+1. **Évite de sauter pour rien**  
+   Sauter trop tôt laisse un couloir libre vers le panier. Saute uniquement quand l’adversaire s’élève vraiment pour tirer ou dunker.
 
-#### On Defense:
+2. **Temporiser les contres**  
+   Place‑toi entre le joueur et le panier, attends qu’il soit à son point le plus haut, puis saute pour contrer.
 
-1.  **[FR]** **Stay Grounded (Mostly):** Don't jump randomly. A poorly timed jump will leave you vulnerable and give your opponent an open lane to the basket. Only jump when you are in a position to block a shot.
-2.  **[FR]** **Timing Your Blocks:** To block a shot, you need to jump just as the opponent is at the peak of their jump. Stay between the shooter and the basket and time your leap perfectly to swat the ball away.
-3.  **[FR]** **Pump for the Steal:** The "pump" or "steal" action is effective when the opponent is dribbling near you. Use it to knock the ball loose and create a fast-break opportunity.
-4.  **[FR]** **Dash on Defense:** Dashing is just as crucial on defense. Use it to quickly get back into position or to close out on a shooter before they can get a shot off.
+3. **Vols de balle**  
+   L’action de « steal » est efficace si tu es très proche d’un adversaire qui dribble. Ne spamme pas : mal placée, elle t’expose à un drive facile.
 
-### Controls Guide
+4. **Utiliser le dash en défense**  
+   Le dash sert aussi à revenir vite en défense ou à fermer un shooteur ouvert.
 
-The game is well-known for its two-player setup on a single keyboard.
+### Commandes
 
-#### Player 1 Controls:
-*   **[FR]** **Movement:** `A` and `D` keys
-*   **[FR]** **Dash:** Double-tap `A` or `D`
-*   **[FR]** **Shoot / Dunk:** `B` key
-*   **[FR]** **Pump / Steal:** `S` key
-*   **[FR]** **Jump:** `W` key
-*   **[FR]** **Super Shot:** `V` key
+Le jeu permet à deux joueurs de partager le même clavier en utilisant chacun un ensemble de touches unique.
 
-#### Player 2 Controls:
-*   **[FR]** **Movement:** `Left` and `Right Arrow` keys
-*   **[FR]** **Dash:** Double-tap `Left` or `Right Arrow`
-*   **[FR]** **Shoot / Dunk:** `L` key
-*   **[FR]** **Pump / Steal:** `Down Arrow` key
-*   **[FR]** **Jump:** `Up Arrow` key
-*   **[FR]** **Super Shot:** `K` key
+#### Joueur 1 :
 
-### Frequently Asked Questions (FAQ)
+- Déplacement : `A` / `D`  
+- Dash : double‑tape `A` ou `D`  
+- Saut : `W`  
+- Tir / dunk : `B`  
+- Feinte / voler la balle : `S`  
+- Super Shoot : `V`
 
-**1. How do I perform a Super Shot?**
-You must first fill the blue power bar at the bottom of the screen by playing the game (shooting, stealing, blocking). Once the bar is full and flashing, press the designated Super Shot key (`V` for Player 1, `K` for Player 2) to perform an unblockable special shot.
+#### Joueur 2 :
 
-**2. What is the best way to win a tournament?**
-Tournaments require you to win several games in a row against increasingly difficult opponents. The key is consistent defense. Focus on preventing your opponent from scoring, as your own points will come. Save your Super Shot for tie-breaking moments or to secure a lead near the end of the game.
+- Déplacement : flèches gauche/droite  
+- Dash : double‑tape flèche gauche ou droite  
+- Saut : flèche haut  
+- Tir / dunk : `L`  
+- Feinte / voler la balle : flèche bas  
+- Super Shoot : `K`
 
-**3. Why can't I block the Super Shot?**
-The Super Shot is intentionally designed to be unblockable. It's a reward for skilled play and serves as a powerful comeback mechanic.
+### Foire aux questions (FAQ)
 
-**4. What's the difference between the characters?**
-While the game features many different characters, their core abilities are generally the same. The differences are mostly cosmetic, allowing you to play as your favorite legend.
+**1. Comment lancer un Super Shoot ?**  
+Remplis la jauge bleue en attaque/défense. Quand elle clignote, appuie sur `V` (J1) ou `K` (J2) pour déclencher un tir imparable.
 
-**5. Can I pass the ball in a 2-on-2 match?**
-In most versions of the game, the "shoot" button (`B` or `L`) acts as a "pass" button when your teammate does not have the ball.
+**2. Comment gagner un tournoi ?**  
+Priorise la défense, utilise le dash pour couper les contre‑attaques et garde le Super Shoot pour changer le momentum.
 
+**3. Pourquoi je ne peux pas contrer le Super Shoot adverse ?**  
+Il est volontairement imbloquable. Prépare plutôt ta contre‑attaque juste après.
+
+**4. Les personnages ont‑ils des stats différentes ?**  
+Presque pas : les écarts sont surtout esthétiques, donc choisis ton basketteur favori sans crainte.
+
+**5. Comment faire une passe en 2v2 ?**  
+Quand ton coéquipier n’a pas le ballon, appuie sur le bouton de tir (`B` ou `L`) et l’action sera convertie en passe.

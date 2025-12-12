@@ -1,88 +1,47 @@
 ---
-locale: ja
+title: Minesweeper 2
+description: Minesweeper 2は改良された地雷ゲームです。地雷をマークし、論理を使用し、新しい機能でクラシックパズルをマスターします。
+iframeSrc: 'https://minesweeper2.h5games.usercontent.goog/v/33afuji6r8te0/'
+thumbnail: /new-images/minesweeper-2.png
 urlstr: minesweeper-2
-title: '[JA TRANSLATION NEEDED] Minesweeper'
-description: >-
-  [JA TRANSLATION NEEDED] The timeless classic logic puzzle. Use the number
-  clues to deduce the location of all the hidden mines and clear the board
-  without setting one off!
-iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
-thumbnail: /new-images/minesweeper-2.jpg
+score: 4.3/5  (2123 votes)
 tags:
   - puzzle
   - thinky
-  - casual
-score: 4.7/5  (3500 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+Minesweeper 2は、クラシックな地雷ゲームプレイに改善と新機能を追加します。数字の手がかりを使用してすべての地雷を見つけてマークし、地雷を踏むことなくボードをクリアします。改良されたUI、ヒント、複数の難易度。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Minesweeper is a classic single-player logic puzzle that has been a staple of personal computing for decades. The objective is to clear a rectangular grid containing hidden "mines" or bombs without detonating any of them. To do this, you use clues from revealed squares that tell you how many mines are in the adjacent eight squares. It's a game of pure deduction and careful risk assessment.
+1.  **基本を学ぶ:** 数字は隣接する地雷をカウントします。
+2.  **確実な動きから始める:** 100%安全なタイルから始めます。
+3.  **フラグを使用:** 地雷をマークして途中で説明責任を保ちます。
+4.  **パターン認識:** 一般的な地雷配置を学びます。
+5.  **ヒントを賢く使用:** 行き詰まった場合にのみ。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **The First Click:** Your first click is always safe. If you click a square that has no adjacent mines, it will open a large area, which is a great start.
-[JA TRANSLATION NEEDED] 2.  **Understanding the Numbers:** The number on a revealed square tells you exactly how many mines are in the eight squares touching it (horizontally, vertically, and diagonally). This is the only information you have to work with.
-[JA TRANSLATION NEEDED] 3.  **The 1-2-1 Pattern:** A common and easy pattern to spot. If you see a "1-2-1" in a line, you know for certain that the squares next to the '1's are mines, and the square next to the '2' (on the other side) is safe.
-[JA TRANSLATION NEEDED] 4.  **Flag Your Mines:** When you are 100% certain a square contains a mine, right-click to "flag" it. This prevents you from accidentally clicking on it later and helps you keep track of where the dangers are.
-[JA TRANSLATION NEEDED] 5.  **Chord-Clicking:** If a numbered square already has the correct number of flags touching it, you can click on the number itself (or often middle-click/left+right click) to automatically reveal all its other adjacent, un-flagged squares. This is a fast way to clear the board but be careful—if your flags are wrong, you will detonate a mine!
+- タイルをクリック/タップして明らかにします。
+- 右クリック/長押しでフラグを配置/削除します。
+- 難易度設定を調整します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Reveal a Square:** Left-click on a covered square.
-    - **A:** A number indicates the exact count of mines in the eight squares immediately surrounding it.（日本語訳が必要）
-    - **A:** The game ends instantly, and all the mine locations are revealed.（日本語訳が必要）
-    - **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.（日本語訳が必要）
-    - **A:** A number indicates the exact count of mines in the eight squares immediately surrounding it.（日本語訳が必要）
-    - **A:** The game ends instantly, and all the mine locations are revealed.（日本語訳が必要）
-    - **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.（日本語訳が必要）
-*   **Flag a Square:** Right-click on a covered square to place a flag. Right-click again to remove it.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What do the numbers on the squares mean?**
-[JA TRANSLATION NEEDED]     *   **A:** A number indicates the exact count of mines in the eight squares immediately surrounding it.
-
-*   **Q: What happens if I click on a mine?**
-[JA TRANSLATION NEEDED]     *   **A:** The game ends instantly, and all the mine locations are revealed.
-
-*   **Q: Do I have to place flags to win?**
-
-
-
-
-
-
-
-
-
+- **Q: これは元のものと何が違いますか？**  
+  A: 改良されたUI、ヒント、より多くのカスタマイズオプション。
+    - **Q: 初心者モードはありますか？**  
+  A: はい、学ぶためのより小さなグリッドから始めます。
+- **Q: フラグは必須ですか？**  
 
     - **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
+
 - **Q: Do I have to place flags to win?**
+
     - **A:** The game ends instantly, and all the mine locations are revealed.
-- **Q: What happens if I click on a mine?**
-    - **A:** A number indicates the exact count of mines in the eight squares immediately surrounding it.
-- **Q: What do the numbers on the squares mean?**
-### よくある質問（FAQ）
-- **Flag a Square:** Right-click on a covered square to place a flag. Right-click again to remove it.
-- **Reveal a Square:** Left-click on a covered square.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
-- **Q: Do I have to place flags to win?**
-    - **A:** The game ends instantly, and all the mine locations are revealed.
-- **Q: What happens if I click on a mine?**
-    - **A:** A number indicates the exact count of mines in the eight squares immediately surrounding it.
-- **Q: What do the numbers on the squares mean?**
-
-    - **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
-[JA TRANSLATION NEEDED]     *   **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
-
+  A: いいえ、しかし地雷を追跡するのに大いに役立ちます。

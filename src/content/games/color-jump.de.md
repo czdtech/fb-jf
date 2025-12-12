@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: color-jump
-title: '[DE] Color Jump'
+title: "Color Jump"
 description: >-
-  [DE] Color Jump is a one‑tap runner — match colors, time jumps, and thread
-  through shifting patterns.
+  Color Jump ist ein One-Tap-Runner – gleiche Farben ab, timinge deine Sprünge
+  und bahne dir einen Weg durch ständig wechselnde Muster.
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/color-jump.png
 tags:
@@ -15,36 +15,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Color Jump* ist ein minimalistisches Reaktionsspiel, in dem deine Figur nur
+ durch farblich passende Tore oder Plattformen springen darf. Du musst im
+richtigen Moment springen, Farben ausrichten, unpassende Barrieren meiden und
+mit zunehmender Geschwindigkeit im Rhythmus bleiben.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Color Jump is a minimalist reflex game where your character can pass only through matching‑color gates or platforms. Time jumps to align colors, avoid mismatched barriers, and maintain rhythm as speed increases.
+1.  Zwei Hindernisse voraus lesen: Fixiere dich nicht nur auf das direkt
+    nächste Gate. Behalte auch das übernächste im Blick, um Sprungfolgen zu
+    planen.
+2.  Gleichmäßigen Takt finden: Versuche, in einen konstanten Tap-Rhythmus zu
+    kommen. Spät ausgelöste Sprünge helfen oft, niedrige Hindernisse sicher zu
+    überspringen.
+3.  Riskante Münzen auslassen: Sammle Bonusobjekte nur, wenn sie deine
+    Ausrichtung nicht gefährden. Ein sicherer Durchgang ist wichtiger als eine
+    Münze.
+4.  Farbfolgen merken: Wiederholen sich Farb- oder Musterabfolgen, präge dir
+    diese ein – so kannst du kommende Sequenzen vorwegnehmen.
+5.  Sound nutzen: Spiele mit Ton – viele Varianten geben dir akustische
+    Hinweise, die helfen, deinen Sprungrhythmus zu stabilisieren.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Read two obstacles ahead; don’t fixate on the nearest gate.
-2.  **[DE]** Keep a steady tap cadence; late jumps often dodge low obstacles better.
-3.  **[DE]** Skip risky coins when alignment is off.
-4.  **[DE]** Practice color order patterns if they loop.
-5.  **[DE]** Use sound cues to stabilize timing on dense sets.
+- Tippen/Klicken, um zu springen; einige Versionen unterstützen einen
+  Doppelsprung (entsprechend im Tutorial angegeben).
+- Pause/Neustart über die UI-Schaltflächen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Tap/Click to jump; some variants allow double jumps.
-- Pause/Restart via UI.
+- Ich erwische ständig die falsche Farbe – was tun?
+  
+  Konzentriere dich auf die nächsten zwei Tore und löse Sprünge tendenziell
+  etwas später aus, damit du besser mit höheren Plattformen ausgerichtet bist.
 
-### Frequently Asked Questions (FAQ)
+- Gibt es ein Levelende?
+  
+  Meist handelt es sich um einen Endlosmodus – du spielst auf persönliche
+  Bestleistungen.
 
-- Q: I always hit the wrong color — any fix?
-
-A: Focus on the next two gates and time jumps slightly later to line up with high platforms.
-
-- Q: Is there an end?
-
-A: Often endless; set personal bests.
-
-- Q: Double jump?
-
-A: Some builds include it; watch the tutorial prompt.
-
+- Hat jede Version einen Doppelsprung?
+  
+  Nein, das ist variantenabhängig. Achte auf Hinweise im Tutorial oder in den
+  Einstellungen.

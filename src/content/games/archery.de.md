@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: archery
-title: '[DE] Archery World Tour'
+title: "Archery World Tour"
 description: >-
-  [DE] Grab your bow and arrow and travel the world in this realistic archery
-  game. Account for wind and distance to hit the bullseye and become a champion.
+  Schnapp dir Bogen und Pfeile und geh in Archery World Tour auf Weltreise.
+  Berücksichtige Wind und Entfernung, triff ins Schwarze und werde
+  Bogenschützen‑Champion.
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/archery.jpg
@@ -17,31 +18,46 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Archery World Tour ist eine realistische und zugleich zugängliche
+Bogenschießen‑Simulation. Du reist an verschiedene, stimmungsvoll gestaltete
+Schauplätze und trittst dort in Turnieren an. Dein Ziel ist es, möglichst viele
+Punkte zu erzielen, indem du deine Pfeile präzise ins Ziel bringst. Neben einem
+ruhigen Händchen musst du auch äußere Faktoren wie Windstärke,
+Windrichtung und die Entfernung zum Ziel einberechnen – genau wie beim
+Bogenschießen in der Realität.
 
-### Detailed Game Introduction
+### Strategie & Walkthrough
 
-Archery World Tour is a realistic and challenging archery simulation game. You travel to various scenic locations to compete in archery tournaments. The goal is to score as many points as possible by shooting arrows at a target. Success requires more than just a steady hand; you must also account for environmental factors like wind speed, wind direction, and the distance to the target, making it a true test of skill.
+1.  **Wind kompensieren:** Schaue dir vor jedem Schuss den Windanzeiger an. Er
+    zeigt Richtung und Stärke des Windes. Ziele leicht *gegen* den Wind, damit
+    der Pfeil trotz seitlichem Druck im Zentrum landet.
+2.  **Gravitation berücksichtigen:** Bei weit entfernten Zielen fällt der Pfeil
+    auf dem Flug etwas ab. Ziele daher ein Stück über die Mitte der Scheibe,
+    damit die Flugbahn im Verlauf nach unten ins Gelbe sinkt.
+3.  **Abzug richtig timen:** In manchen Versionen schwankt dein Fadenkreuz
+    leicht. Warte auf den Moment, in dem es kurz zur Ruhe kommt und mit deinem
+    gewünschten Zielpunkt übereinstimmt, bevor du loslässt.
+4.  **Konsequent auf die Zehn spielen:** Die Mitte der Zielscheibe (der gelbe
+    Kreis) bringt die meisten Punkte. Viele solide 9er‑ und 10er‑Treffer sind
+    besser als riskante Schüsse, die völlig daneben gehen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Compensate for Wind:** Before each shot, look at the wind indicator. It will show you the direction and strength of the wind. You must aim slightly *against* the wind to counteract its effect on your arrow.
-2.  **[DE]** **Account for Gravity:** For targets at a long distance, your arrow will drop slightly due to gravity. You will need to aim a little bit higher than the bullseye to ensure your arrow hits the center.
-3.  **[DE]** **Timing Your Release:** In some versions, your aim may sway slightly. Wait for the moment your crosshair is perfectly still and aligned with your intended target before releasing the arrow.
-4.  **[DE]** **Aim for the Bullseye:** The center of the target (the yellow circle) is worth the most points (usually 10). Consistent bullseyes are the key to a high score.
+*   **Zielen:** Bewege die Maus, um den Bogen auszurichten. Der Cursor zeigt
+    dir an, wohin dein Pfeil ungefähr fliegen wird.
+*   **Spannen und Schießen:** Klicke und halte die linke Maustaste, um die
+    Sehne zu spannen. Je nach Version verändert sich dabei ein Kraftbalken oder
+    das Fadenkreuz. Lasse die Maustaste los, um den Pfeil abzuschießen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Aim:** Move your mouse to aim the bow. The cursor will show where the arrow is pointed.
-*   **[DE]** **Draw and Shoot:** Click and hold the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
+*   **F: Wie ziele ich korrekt bei starkem Wind?**
+    *   **A:** Halte in die entgegengesetzte Richtung. Bläst der Wind nach rechts, ziele etwas links vom Zentrum – je stärker der Wind, desto größer die Korrektur.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Warum landen meine Pfeile zu tief?**
+    *   **A:** Aufgrund der Schwerkraft, vor allem auf lange Distanz. Visiere etwas höher an, damit der Pfeil auf seinem Abstieg im Ziel landet.
 
-*   **[DE]** **Q: How do I aim with the wind?**
-    *   **[DE]** **A:** You must aim in the opposite direction of the wind. If the wind is blowing strongly to the right, you need to aim to the left of the target center. The stronger the wind, the further you need to compensate.
-
-*   **[DE]** **Q: Why did my arrow hit low?**
-    *   **[DE]** **A:** This is due to gravity, especially on long-distance shots. You need to aim slightly above where you want the arrow to hit to account for the drop.
-
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To score the highest number of points by shooting a set number of arrows at the target. The closer you are to the bullseye, the more points you get.
+*   **F: Was ist das eigentliche Ziel des Spiels?**
+    *   **A:** Mit einer begrenzten Anzahl Pfeile möglichst viele Punkte sammeln, also so oft wie möglich ins Zentrum treffen.

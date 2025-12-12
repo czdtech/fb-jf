@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: dogeminer
-title: '[ES] DogeMiner'
+title: "DogeMiner"
 description: >-
-  [ES] DogeMiner is an idle clicker: mine coins, buy upgrades and helpers, and
-  automate production to earn faster.
+  DogeMiner es un idle clicker: mina monedas, compra mejoras y ayudantes y
+  automatiza la producción para ganar cada vez más rápido.
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/dogeminer.jpg
 tags:
@@ -15,28 +15,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+DogeMiner es un juego incremental de tipo idle/clicker con temática de minería
+de monedas. Empiezas haciendo clic para minar manualmente, pero pronto podrás
+comprar mejoras para el pico y distintos ayudantes (Shibes, herramientas que
+mejoran estadísticas, fábricas, etc.) que automatizan la producción y
+multiplican tus ingresos. En fases posteriores también podrás viajar a la Luna y
+más allá mediante cohetes.
 
+### Cómo jugar
 
-### Overview
-DogeMiner is an incremental idle/clicker game themed around mining coins. Click to mine manually, buy pickaxe upgrades and helpers (such as Shibes, statistics‑boosting tools, and factories), and automate production to earn faster. Later goals include traveling to the Moon and beyond with rocket upgrades. 
+- Haz clic para conseguir las primeras monedas y reinviértelas en mejoras que
+  aumenten las monedas por clic y por segundo.
+- Compra ayudantes/edificios para generar ingresos automáticos; el crecimiento
+  compuesto irá desbloqueando nuevas capas de contenido.
+- Cuando esté disponible, usa el sistema de prestigio o reinicios tardíos para
+  obtener multiplicadores permanentes de cara a futuras partidas.
 
-### How to Play
-- Click to earn initial coins; invest in upgrades that increase coins per click and per second.
-- Purchase helpers/buildings to automate income; compounding production unlocks new tiers.
-- Use prestige or late‑game resets (where available) to gain multipliers for future runs.
+### Controles
 
-### Controls
-- Mouse/touch: click for manual mining; use UI buttons to buy upgrades, helpers, and rockets.
+- Ratón/táctil: haz clic para minar manualmente y usa los botones de la
+  interfaz para comprar mejoras, ayudantes y piezas de cohete.
 
-### Tips and Strategies
-- Reinvest early into passive income before chasing expensive prestige or rocket parts.
-- Maintain a balance between click upgrades and idle buildings based on playtime.
-- Save for milestone buildings that unlock new content (e.g., space travel).
+### Consejos y estrategias
 
-### FAQ
-- Q: Is it playable offline?
-A: Some hosts save progress locally and generate coins while the tab is open; full offline progress varies by host.   
-- Q: What’s the long‑term goal?
-A: Build enough production to launch rockets to the Moon and progress to later areas. 
+- En las primeras fases, prioriza la inversión en ingresos pasivos antes de
+  gastar demasiado en prestigio o piezas de cohete caras.
+- Ajusta el equilibrio entre mejoras de clic y edificios idle según el tiempo
+  que vayas a estar realmente jugando frente a dejar el juego en segundo plano.
+- Ahorra para edificios clave que desbloquean contenido nuevo (por ejemplo, los
+  relacionados con los viajes espaciales).
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Se puede jugar sin conexión?**  
+  **R:** Algunas versiones guardan el progreso de forma local y siguen generando
+  monedas mientras la pestaña está abierta en segundo plano; el soporte de
+  progreso totalmente offline depende del portal.
+
+- **P: ¿Cuál es el objetivo a largo plazo?**  
+  **R:** Escalar tu producción lo suficiente como para lanzar cohetes, llegar a
+  la Luna y seguir desbloqueando nuevas zonas y mejoras.

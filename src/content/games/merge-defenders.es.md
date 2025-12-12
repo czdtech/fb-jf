@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: merge-defenders
-title: '[ES] Merge Defenders'
+title: "Merge Defenders - Fusión y defensa de torres"
 description: >-
-  [ES] Defend your territory by merging and upgrading your units in Merge
-  Defenders! Combine identical defenders to create more powerful versions and
-  strategically place them to fend off waves of enemies.
+  Defiende tu territorio fusionando y mejorando unidades en Merge Defenders.
+  Combina defensores idénticos para crear versiones más poderosas y colócalos
+  con cabeza para resistir oleadas de enemigos.
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
 thumbnail: /new-images/merge-defenders.png
 tags:
@@ -18,34 +18,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Merge Defenders es un juego estratégico y dinámico que mezcla la adicción de
+los puzles de fusión con la acción del tower defense. Debes proteger tu base de
+oleadas constantes de enemigos. No solo colocarás torres: comprarás unidades
+básicas, fusionarás dos iguales para crear defensores de nivel superior y los
+posicionarás en los puntos clave del campo de batalla.
 
-Merge Defenders is an exciting and strategic game that blends the addictive nature of merge puzzles with the action-packed gameplay of tower defense. In this game, you must protect your base from relentless waves of enemies. You do this not just by placing towers, but by purchasing basic units, merging two identical units to create a more powerful, higher-level defender, and then strategically deploying them onto the battlefield.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Ciclo de fusión:** el corazón del juego es la mecánica de merge. Empiezas
+    comprando unidades de nivel 1. Arrastra una unidad de nivel 1 sobre otra
+    igual para crear una unidad de nivel 2, y así sucesivamente. Las unidades de
+    nivel superior infligen mucho más daño y disparan más rápido.
+2.  **Despliegue:** dispones de un número limitado de casillas en la línea
+    defensiva. Arrastra tus defensores más fuertes desde la rejilla de reserva
+    a estas casillas; atacarán automáticamente a los enemigos que entren en su
+    alcance.
+3.  **Gestión de economía:** ganas monedas por cada enemigo derrotado. Tendrás
+    que decidir constantemente si gastar en más unidades básicas (para fusionar)
+    o ahorrar para mejoras especiales cuando estén disponibles.
+4.  **Colocación estratégica:** no coloques tu mejor unidad en cualquier parte.
+    Observa la ruta de los enemigos: hay casillas, como las esquinas, donde una
+    unidad puede cubrir el camino durante más tiempo. Reserva esos puntos para
+    tus defensores más potentes.
 
-1.  **[ES]** **The Merge Cycle:** The core of the game is the merge mechanic. You start by purchasing level 1 units. Drag a level 1 unit onto another level 1 unit to create a level 2 unit, and so on. Higher-level units have significantly better damage and firing rates.
-2.  **[ES]** **Deployment:** You have a limited number of slots on your defensive line. Drag your strongest defenders from your reserve grid onto these slots. They will automatically attack any enemies that come into range.
-3.  **[ES]** **Economy Management:** You earn coins for every enemy you defeat. You must constantly decide whether to spend your coins on more low-level units (to merge up) or to save them for special upgrades that might become available.
-4.  **[ES]** **Strategic Placement:** Don't just place your strongest unit anywhere. Observe the enemy path. Some slots might be more critical than others, such as at corners where units can cover the path for a longer duration. Place your most powerful defenders in these key positions.
+### Guía de controles
 
-### Controls Guide
+El juego se controla por completo con ratón o táctil.
 
-The game is controlled entirely with your mouse or finger.
+*   **Comprar unidad:** haz clic en el botón "Buy" para adquirir una unidad
+    básica que aparecerá en la rejilla de reserva.
+*   **Fusionar unidades:** arrastra una unidad y suéltala sobre otra idéntica
+    para fusionarlas en una unidad de nivel superior.
+*   **Desplegar unidad:** arrastra una unidad desde la reserva hasta una casilla
+    libre de la línea defensiva.
 
-*   **[ES]** **Buy Unit:** Click the "Buy" button to purchase a new basic unit, which will appear on your reserve grid.
-*   **[ES]** **Merge Units:** Click and drag one unit and drop it onto an identical unit to merge them into a higher-level unit.
-*   **[ES]** **Deploy Unit:** Click and drag a unit from your reserve grid to an empty defensive slot on the battlefield.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo consigo defensores realmente fuertes?**
+    *   **R:** Mediante fusiones continuas. Dos unidades de nivel 1 forman una
+        de nivel 2, dos de nivel 2 una de nivel 3, y así sucesivamente. La
+        clave es comprar y fusionar de forma constante.
 
-*   **[ES]** **Q: How do I get stronger defenders?**
-    *   **[ES]** **A:** By merging. Combine two identical defenders to create one defender of the next level. For example, two Level 2 units merge into one Level 3 unit.
+*   **P: ¿Es mejor llenar el tablero con muchas unidades débiles o pocas
+    fuertes?**
+    *   **R:** Normalmente unas pocas unidades de nivel alto rinden mejor que
+        muchas de nivel bajo. Prioriza subir de nivel a tus mejores defensores.
 
-*   **[ES]** **Q: Why can't I place my defender on the enemy path?**
-    *   **[ES]** **A:** You can only place your defensive units in the designated square slots along the path, not on the path itself where the enemies walk.
-
-*   **[ES]** **Q: I'm being overwhelmed by enemies. What should I do?**
-    *   **[ES]** **A:** Focus on merging your units to the highest possible level. A single high-level unit is often much more powerful than several low-level ones. Make sure all your available defensive slots are filled, and continuously buy and merge new units as you earn coins.
-
+*   **P: Me desbordan las oleadas, ¿qué hago?**
+    *   **R:** Asegúrate de que todas las casillas defensivas estén ocupadas,
+        fusiona siempre que puedas y coloca tus unidades de nivel más alto en
+        las posiciones de mayor impacto.

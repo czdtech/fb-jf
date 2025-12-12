@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-studio
-title: '[ES] Incredibox Studio'
+title: Incredibox Studio
 description: >-
-  [ES] Incredibox Studio is a fan-made game inspired by the original Incredibox.
-  It's created using Scratch and optimized with TurboWarp, allowing players to
-  create their own musical mixes in a sandbox environment.
+  Incredibox Studio es un juego fan-made inspirado en el Incredibox original.
+  Creado en Scratch y optimizado con TurboWarp, ofrece un entorno tipo sandbox
+  donde los jugadores pueden crear sus propias mezclas musicales.
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
 thumbnail: /new-images/incredibox-studio.png
 tags:
@@ -17,33 +17,50 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
-### Incredibox Studio Introduction
+### Introducción a Incredibox Studio
 
-Incredibox Studio is a fan-made project. Unlike the official Incredibox versions, which are based on pre-defined sets of sounds, this "Studio" version offers a sandbox-like experience. Players are given a wide array of sounds and effects to drag, drop, and mix, empowering them to create their own unique beats and musical compositions from scratch. It's a creative playground for fans of the original game who want to explore their own musical ideas.
+Incredibox Studio es un proyecto creado por fans. A diferencia de las versiones
+oficiales de Incredibox, basadas en sets de sonidos predefinidos, esta versión
+de "Studio" ofrece una experiencia tipo sandbox. Se te da acceso a una amplia
+variedad de sonidos y efectos para arrastrar, soltar y mezclar, de forma que
+puedas construir tus propios beats y composiciones desde cero. Es un parque de
+juegos creativo para quienes aman el original pero quieren explorar sus propias
+ideas musicales.
 
+### Estrategia de juego / Consejos creativos
 
-### Gameplay Strategy / Creative Tips
+*   Como esto es un sandbox, aquí la "estrategia" va de creatividad.
+    1.  **Crea una base**: Empieza con un beat sólido y una línea de bajo. Eso
+        le da estructura a tu mezcla.
+    2.  **Apila capas**: Añade poco a poco melodías, armonías y efectos vocales.
+        Evita meter demasiados sonidos de golpe, porque la mezcla puede volverse
+        caótica.
+    3.  **Experimenta**: La clave es probar. Arrastra y suelta sonidos distintos
+        para ver cuáles encajan. Algunas combinaciones pueden desbloquear
+        animaciones o efectos de coro.
+    4.  **Usa silenciar/solo**: Aísla pistas concretas con los botones de
+        silenciar o solo para afinar cada parte de tu composición.
 
-*   **[ES]** Since this is a sandbox, the "strategy" is about creativity.
-    1.   **[ES]** **Build a Foundation**: Start with a solid beat and a bass line. This provides the backbone for your track.
-    2.   **[ES]** **Layer Sounds**: Gradually add melodies, harmonies, and vocal effects. Don't add too many sounds at once, as it can become chaotic.
-    3.   **[ES]** **Experiment**: The key is to experiment. Drag and drop different sounds to see what works well together. Some combinations might unlock special animations or chorus effects.
-    4.   **[ES]** **Use Mute/Solo**: Isolate specific tracks using the mute or solo buttons to fine-tune each part of your composition.
+### Guía de controles
 
+*   El juego se controla por completo con el ratón.
+    *   **Añadir sonido**: Arrastra un icono desde el panel inferior y suéltalo
+        sobre uno de los personajes.
+    *   **Quitar sonido**: Arrastra el icono del personaje hacia fuera para
+        eliminarlo.
+    *   **Silenciar/solo**: Haz clic en el icono de auriculares o altavoz junto
+        a un personaje para dejarlo en solo o silenciarlo.
+    *   **Grabar**: Haz clic en el botón de grabación (normalmente un círculo
+        rojo) en la parte superior para empezar y detener la grabación de tu
+        mezcla.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** The game is controlled entirely with the mouse.
-    *   **[ES]** **Add Sound**: Drag an icon from the bottom panel and drop it onto one of the characters.
-    *   **[ES]** **Remove Sound**: Drag a character's icon off of them.
-    *   **[ES]** **Mute/Solo**: Click the headphones or speaker icon next to a character to solo or mute their sound.
-    *   **[ES]** **Record**: Click the record button (usually a red circle) at the top to start and stop recording your mix.
-
-
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: Can I save the music I create?**
-    *   **[ES]** **A**: Yes, most versions have a recording feature that allows you to save your mix and often provides a shareable link. However, the music is for personal, non-commercial use only.
-*   **[ES]** **Q: Where can I play it?**
-    *   **[ES]** **A**: It is playable directly in a web browser via the provided playfiddlebops.com link.
-
+*   **P: ¿Puedo guardar la música que creo?**
+    *   **R**: Sí. La mayoría de versiones incluyen una función de grabación que
+        te permite guardar tu mezcla y, a menudo, te da un enlace para
+        compartirla. Aun así, la música está pensada solo para uso personal y
+        no comercial.
+*   **P: ¿Dónde puedo jugarlo?**
+    *   **R**: Se puede jugar directamente en el navegador a través del enlace
+        de playfiddlebops.com.

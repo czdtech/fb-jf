@@ -1,141 +1,58 @@
 ---
+title: "Block Breaker King ブロック崩しキング"
+description: "「Block Breaker King」で究極のブロック崩し体験を！無数のボールを発射し、スワイプで狙いを定め、迫りくるブロックを粉砕してハイスコアを目指す爽快アーケードゲーム。"
+iframeSrc: "https://blockbreakerking.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+thumbnail: "/new-images/block-breaker-king.jpg"
+urlstr: "block-breaker-king"
+score: "4.3/5  (784 votes)"
+tags: ["arcade", "casual"]
+developer: "Mobirix"
+releaseDate: 2025-08-16
 locale: ja
-urlstr: block-breaker-king
-title: '[JA TRANSLATION NEEDED] Block Breaker King'
-description: >-
-  [JA TRANSLATION NEEDED] Block Breaker King modernizes brick‑breaker — aim
-  caroms, manage power‑ups, and control ball speed for efficient clears.
-iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
-thumbnail: /new-images/block-breaker-king.png
-tags:
-  - puzzle
-  - casual
-score: 3.8/5  (1631 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### **Game Introduction**
+*Block Breaker King* は、テトリス風のブロックを自由に配置してラインを消すシンプルなパズルです。画面下部に表示される複数のピースから1つを選び、グリッドにドラッグ＆ドロップして配置します。横一列、または縦一列を隙間なく埋めると、その列が消えてスペースが空きます。
 
-[JA TRANSLATION NEEDED] *Block Breaker King: Mission* is a strategic block puzzle game, where the gameplay is similar to the placement mechanics of *Tetris* but without the falling blocks. The objective is to **strategically place various Tetris-like shapes onto a grid to create and clear full horizontal or vertical lines.**
+手持ちのどのピースも置けなくなった瞬間にゲームオーバー。終盤は奇妙な形のピースを受け入れるスペースを確保し続けることが重要で、慎重な計画性と盤面管理がスコアを伸ばす鍵です。
 
-[JA TRANSLATION NEEDED] At the bottom of the screen, players are presented with a selection of different block shapes. You must drag and drop these shapes onto the main game board. When a complete horizontal row or a vertical column is filled with blocks, that line will be cleared, freeing up space on the board.
+一部モードでは「ミッション」と呼ばれるステージ制があり、「〇ライン消す」「Xポイント到達」などの条件をクリアしながら進行します。終わりのないエンドレスと、目標付きのモードを行き来しながら遊べます。
 
-[JA TRANSLATION NEEDED] The game ends when you are unable to place any of the given shapes onto the board because there is no available space that fits them. The challenge lies in careful planning and efficient placement to keep the board as clear as possible for as long as possible, aiming to achieve the highest score. The "Mission" aspect, as shown in the screenshots, suggests a level-based progression system with specific objectives for each stage.
+### ゲーム攻略と戦略
 
-### **Gameplay Strategy & Tips**
+1.  **ライン消しを最優先にする：** 置き場所を決める際は、すぐに列を完成させるか、次のピースで完成させられる形を意識します。
+2.  **単独マスを作らない：** 真ん中に1マスだけ残る穴はほぼ埋められません。段差ができたら早めに平らへ戻しましょう。
+3.  **次のピースも見ておく：** 予告ピースが表示されている場合は、現在の一手だけでなく次の2手先まで想定して配置します。
+4.  **角と端から組み立てる：** 端を整えつつ中央を広く開けておくと、大きなピースを受け入れやすくなります。
+5.  **コンボに固執しない：** 多重ライン消しは気持ち良いですが、穴を作るなら単発消しで盤面を整える方が安全です。
+6.  **大型ピース用スペースを確保：** 3×3 や 1×5 のような大きな形を置けるスペースを常に少なくとも1つは残しておきましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Prioritize Clearing Lines**: Your primary goal should always be to clear lines. When deciding where to place a block, look for the spot that will either complete a line immediately or set up an easy completion with the next one or two pieces.
-[JA TRANSLATION NEEDED] 2.  **Avoid Creating Single Gaps**: Be very careful not to leave single, isolated empty squares in the middle of your structure. These "holes" are extremely difficult to fill later on and can quickly lead to a game over as they waste valuable space.
-[JA TRANSLATION NEEDED] 3.  **Think About the Next Pieces**: The game shows you the upcoming pieces. Plan your placements not just for the current piece, but also considering how the next pieces will fit onto the board.
-[JA TRANSLATION NEEDED] 4.  **Use Corners and Edges**: Try to build your structure from the corners and edges inward. This generally keeps the central area of the board more open and flexible for placing larger or awkwardly shaped pieces.
-[JA TRANSLATION NEEDED] 5.  **Don't Be Afraid to Sacrifice a Combo**: While clearing multiple lines at once (a combo) gives a high score, it's not always the best move. Sometimes, making a simple, single-line clear is a better strategic choice if it prevents you from creating a problematic gap or blocking off a large area.
-[JA TRANSLATION NEEDED] 6.  **Manage Your Large Pieces**: The large square (3x3) and long line pieces (1x5 or 5x1) require the most space. Try to always keep enough open area on your board to accommodate them. If you can't place a large piece, the game can end very quickly.
+### 操作ガイド
 
-### **Controls Guide**
+モバイルやタッチ操作を想定したワンタッチ操作です。
 
-[JA TRANSLATION NEEDED] The game is designed for simple one-touch mobile gameplay.
+*   **選択と配置：** 画面下部のピースを長押ししてドラッグし、配置したいマスに離します。
+*   **回転：** 一部バージョンでは配置前にタップして回転させられます（回転不可のモードもあります）。
 
-*   **Select and Place**: **Touch and hold** a block shape from the bottom of the screen, **drag** it to the desired position on the grid, and **release** to place it.
-*   **Rotate**: In many games of this type, you can tap the shape before dragging it to rotate it. This may or may not be a feature depending on the specific version.
+### よくある質問 (FAQ)
 
-### **Frequently Asked questions (FAQ)**
+**Q1. 制限時間はありますか？**
 
-[JA TRANSLATION NEEDED] **1. Is there a time limit?**
-[JA TRANSLATION NEEDED] Typically, games in this genre do not have a time limit per move. The pressure comes from the limited space on the board, not from a clock. This makes it a game of pure strategy rather than speed.
+通常はありません。盤面のスペース管理だけがプレッシャーです。
 
-[JA TRANSLATION NEEDED] **2. Can I rotate the blocks?**
-[JA TRANSLATION NEEDED] This depends on the specific game mode or version. In the classic mode of this puzzle type, blocks cannot be rotated, which adds to the challenge. Some versions may include a mode where rotation is possible.
+**Q2. ピースは回転できますか？**
 
-[JA TRANSLATION NEEDED] **3. What is the goal of the "Mission" mode?**
-[JA TRANSLATION NEEDED] As shown in the first screenshot, the "Mission" mode is a series of pre-designed levels (Stage 1, 2, 3, etc.). Each level likely has a specific objective, such as "clear 10 lines," "score X points," or surviving a certain number of pieces, which you must complete to unlock the next stage.
+モードによります。クラシックルールでは回転不可のことが多く、対称配置と余裕あるポケットが重要になります。
 
-[JA TRANSLATION NEEDED] **4. How do I get a high score?**
-[JA TRANSLATION NEEDED] High scores are achieved by:
-*   **Clearing multiple lines at once**: Combos give significantly more points than single-line clears.
-*   **Surviving for a long time**: The more pieces you successfully place, the higher your score will be.
-*   **Using special blocks**: Some levels may contain special blocks (like the bomb in one of the screenshots) that clear a larger area when their line is completed.
+**Q3. 「ミッション」モードの目的は？**
 
+ステージごとに「10ライン消す」「X点達成」などの条件が設定されており、達成すると次のステージが解放されます。
 
+**Q4. ハイスコアのコツは？**
 
+ハイスコアを狙うには以下を意識しましょう。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- **Using special blocks**: Some levels may contain special blocks (like the bomb in one of the screenshots) that clear a larger area when their line is completed.
-- **Surviving for a long time**: The more pieces you successfully place, the higher your score will be.
-- **Clearing multiple lines at once**: Combos give significantly more points than single-line clears.
-High scores are achieved by:
-**4. How do I get a high score?**
-As shown in the first screenshot, the "Mission" mode is a series of pre-designed levels (Stage 1, 2, 3, etc.). Each level likely has a specific objective, such as "clear 10 lines," "score X points," or surviving a certain number of pieces, which you must complete to unlock the next stage.
-**3. What is the goal of the "Mission" mode?**
-This depends on the specific game mode or version. In the classic mode of this puzzle type, blocks cannot be rotated, which adds to the challenge. Some versions may include a mode where rotation is possible.
-**2. Can I rotate the blocks?**
-Typically, games in this genre do not have a time limit per move. The pressure comes from the limited space on the board, not from a clock. This makes it a game of pure strategy rather than speed.
-**1. Is there a time limit?**
-### **Frequently Asked questions (よくある質問)**
-- **Rotate**: In many games of this type, you can tap the shape before dragging it to rotate it. This may or may not be a feature depending on the specific version.
-- **Select and Place**: **Touch and hold** a block shape from the bottom of the screen, **drag** it to the desired position on the grid, and **release** to place it.
-The game is designed for simple one-touch mobile gameplay.
-### **コントロール Guide**
-- **Manage Your Large Pieces**: The large square (3x3) and long line pieces (1x5 or 5x1) require the most space. Try to always keep enough open area on your board to accommodate them. If you can't place a large piece, the game can end very quickly.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- **Using special blocks**: Some levels may contain special blocks (like the bomb in one of the screenshots) that clear a larger area when their line is completed.
-- **Surviving for a long time**: The more pieces you successfully place, the higher your score will be.
-- **Clearing multiple lines at once**: Combos give significantly more points than single-line clears.
-High scores are achieved by:
-**4. How do I get a high score?**
-As shown in the first screenshot, the "Mission" mode is a series of pre-designed levels (Stage 1, 2, 3, etc.). Each level likely has a specific objective, such as "clear 10 lines," "score X points," or surviving a certain number of pieces, which you must complete to unlock the next stage.
-**3. What is the goal of the "Mission" mode?**
-This depends on the specific game mode or version. In the classic mode of this puzzle type, blocks cannot be rotated, which adds to the challenge. Some versions may include a mode where rotation is possible.
-**2. Can I rotate the blocks?**
-Typically, games in this genre do not have a time limit per move. The pressure comes from the limited space on the board, not from a clock. This makes it a game of pure strategy rather than speed.
-**1. Is there a time limit?**
-### **Frequently Asked questions (よくある質問)**
-
-
-
-
-
-
-
-
-High scores are achieved by:
-**4. How do I get a high score?**
-As shown in the first screenshot, the "Mission" mode is a series of pre-designed levels (Stage 1, 2, 3, etc.). Each level likely has a specific objective, such as "clear 10 lines," "score X points," or surviving a certain number of pieces, which you must complete to unlock the next stage.
-**3. What is the goal of the "Mission" mode?**
-This depends on the specific game mode or version. In the classic mode of this puzzle type, blocks cannot be rotated, which adds to the challenge. Some versions may include a mode where rotation is possible.
-**2. Can I rotate the blocks?**
-Typically, games in this genre do not have a time limit per move. The pressure comes from the limited space on the board, not from a clock. This makes it a game of pure strategy rather than speed.
-**1. Is there a time limit?**
-- **Rotate**: In many games of this type, you can tap the shape before dragging it to rotate it. This may or may not be a feature depending on the specific version.
-
-
-
-- **Using special blocks**: Some levels may contain special blocks (like the bomb in one of the screenshots) that clear a larger area when their line is completed.
-- **Surviving for a long time**: The more pieces you successfully place, the higher your score will be.
+*   複数ラインの同時消しでボーナスを得る
+*   長時間生存して配置数を増やす
+*   特殊ブロック（爆弾など）があるステージでは積極的に活用する

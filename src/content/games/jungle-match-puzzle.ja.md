@@ -1,71 +1,39 @@
 ---
+title: "Jungle Match Puzzle"
+description: "Jungle Match Puzzleは活気のあるマッチ3です。ブロッカーをクリアし、パワーアップを連鎖させ、厳しい移動制限内でジャングルテーマの目標を満たします。"
+iframeSrc: "https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/"
+thumbnail: "/new-images/jungle-match-puzzle.png"
+urlstr: "jungle-match-puzzle"
+score: "4.1/5  (1987 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: jungle-match-puzzle
-title: '[JA TRANSLATION NEEDED] Jungle Match Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Jungle Match Puzzle is a lively match‑3 — clear
-  blockers, chain power‑ups, and meet jungle‑themed goals within tight move
-  limits.
-iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
-thumbnail: /new-images/jungle-match-puzzle.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.1/5  (1987 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Jungle Match Puzzleは、つる、木箱、粘着タイルをブロッカーとしたカラフルなマッチ3です。移動制限内でシーン目標（スコア、アイドルの収集、動物の解放）を完了する必要があります。パワーアップ（爆弾+ライン、ダブルライン）を組み合わせることで、密集した葉を拭き取り、カスケードクリアのためにボードを開きます。
 
-[JA TRANSLATION NEEDED] Jungle Match Puzzle is a colorful match‑3 with vines, crates, and sticky tiles as blockers. You must complete scene goals (score, collect idols, free animals) within move limits. Combining power‑ups (bomb + line, double line) wipes dense foliage and opens the board for cascading clears.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  目標優先：純粋なスコアリングの前に、ブロッカークリアと収集目標を優先します。
+2.  下部クリア：上にあるブロッカーを削除するカスケードを生成するために、下部から作業します。
+3.  パワーアップコンボ：ボード全体の効果のためにマージします。集中したブロッカーのために強力なコンボを保存します。
+4.  移動経済：2〜3移動先をマップします。壁の近くの色の分離を避けます。
+5.  ハザード認識：粘着タイルは隣接するマッチが必要です。迂回を計画します。
 
-[JA TRANSLATION NEEDED] 1.  Objective‑first: Prioritize blocker clears and collect goals before pure scoring.
-[JA TRANSLATION NEEDED] 2.  Bottom clears: Work from the bottom to spawn cascades that remove blockers above.
-[JA TRANSLATION NEEDED] 3.  Power‑up combos: Merge for board‑wide effects; save strong combos for clustered blockers.
-[JA TRANSLATION NEEDED] 4.  Move economy: Map 2–3 moves ahead; avoid isolating colors near walls.
-[JA TRANSLATION NEEDED] 5.  Hazard awareness: Sticky tiles require adjacent matches; plan detours.
+### 操作ガイド
 
-### Controls Guide
+- スワップするためにドラッグ。マッチ/タップしてパワーアップを有効化。UI経由で一時停止/再試行。
 
-- Drag to swap; activate power‑ups by matching/tapping; pause/retry via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 移動制限で失敗します。何を変更すべきですか？**  
+  A: ポイントを追いかけるのをやめます。移動ごとに目標を進めるためにブロッカーをクリアし、コンボを連鎖させます。
 
-- Q: I fail on move limits — what should I change?
-  
-[JA TRANSLATION NEEDED]   A: Stop chasing points; clear blockers and chain combos to progress objectives per move.
+- **Q: 最高のパワーアップコンボは？**  
+  A: 最大カバレッジのための爆弾+ライン。行/列をスイープするためのダブルライン。
 
-- Q: Best power‑up combo?
-  
-[JA TRANSLATION NEEDED]   A: Bomb + line for maximum coverage; double line for sweeping rows/cols.
-
-- Q: Are diagonals allowed?
-  
-
-
-
-
-
-- Q: I fail on move limits — what should I change?
-### よくある質問（FAQ）
-- Drag to swap; activate power‑ups by matching/tapping; pause/retry via UI.
-### コントロールガイド
-- Hazard awareness: Sticky tiles require adjacent matches; plan detours.
-[JA TRANSLATION NEEDED]   A: Usually no; read the mode rules.
-
-
-
-
-
-
-A: Usually no; read the mode rules.
-- Q: Are diagonals allowed?
-A: Bomb + line for maximum coverage; double line for sweeping rows/cols.
-- Q: Best power‑up combo?
-
-
-A: Usually no; read the mode rules.
+- **Q: 斜めは許可されていますか？**  
+  A: 通常いいえ。モードのルールを読んでください。

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: drive-mad
-title: '[DE] Drive Mad'
+title: "Drive Mad"
 description: >-
-  [DE] Drive Mad is a physics driving challenge: balance your vehicle, clear
-  obstacles, and reach the finish without flipping.
+  Drive Mad ist eine physikbasierte Fahrherausforderung: Halte dein Fahrzeug im
+  Gleichgewicht, überwinde Hindernisse und erreiche das Ziel, ohne dich zu
+  überschlagen.
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/drive-mad.jpg
 tags:
@@ -14,31 +15,49 @@ score: 3.7/5  (1285 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Drive Mad ist ein Physik-Fahrspiel mit verrückten Hindernissen. Du steuerst
+verschiedene Fahrzeuge über Wippen, Brücken und Fallen und versuchst dabei
+ständig, dein Gefährt auf den Rädern zu halten. Mit jeder Stage kommen neue
+Elemente wie bewegliche Plattformen oder brüchige Brücken dazu, die gutes
+Timing und Feingefühl beim Gasgeben erfordern.
 
+### So spielst du
 
+- Kontrolliere Geschwindigkeit und Gewichtsverlagerung, damit du sicher über
+  Lücken, Rampen und wackelige Elemente kommst.
+- Nutze den Rückwärtsgang, um das Chassis vor großen Sprüngen oder steilen
+  Auffahrten zu stabilisieren.
+- Manche Level verlangen gezielte Flips: Ein kontrollierter Überschlag kann
+  nötig sein, solange du am Ende wieder auf den Rädern landest.
 
-### Overview
-Physics obstacle driving: keep your truck upright across seesaws, bridges, and traps. Levels escalate with moving parts and brittle platforms.
+### Steuerung
 
-### How to Play
-- Control speed and weight shift to keep traction over gaps and ramps.
-- Reverse to steady the chassis before big drops or steep climbs.
-- Some stages require controlled flips to land wheels‑down.
+- Pfeiltasten/WASD: Vorwärts, rückwärts und Neigen des Fahrzeugs.  
+- R: Level neu starten.  
+- Esc/P: Pause (abhängig vom Host).
 
-### Controls
-- Arrow/WASD: drive/reverse/tilt; R: restart; Esc/P: pause (host dependent).
+### Tipps
 
-### Tips
-- Feather throttle; full‑gas often flips the truck.
-- Use reverse mid‑air to tip the nose up or down.
-- Memorize trap timing; patience beats brute speed.
+- Drücke das Gas nur dosiert – Vollgas führt oft dazu, dass sich der Wagen
+  überschlägt.
+- Nutze Rückwärtsfahrten auch in der Luft, um die Fahrzeugnase nach oben oder
+  unten zu kippen und die Landung zu kontrollieren.
+- Lerne das Timing von Fallen und beweglichen Plattformen – Geduld und
+  präzises Steuern sind wichtiger als reine Geschwindigkeit.
 
 ### FAQ
-- Q: Are cars different?
-A: Some packs change vehicle weight/length, altering balance.
-- Q: Can I skip hard levels?
-A: Certain hosts allow level select; otherwise master timing and tilt control.
-- Q: Why break on bridges?
-A: Excess speed compresses suspension and bounces you off.
 
+- **F: Fahren sich die Fahrzeuge unterschiedlich?**  
+  **A:** Ja, einige Fahrzeugpakete verändern Gewicht und Länge, was das
+  Gleichgewicht spürbar beeinflusst.
+
+- **F: Kann ich besonders schwere Level überspringen?**  
+  **A:** Manche Hosts bieten eine Levelauswahl. Ansonsten hilft nur Übung – vor
+  allem Timing und Neigekontrolle.
+
+- **F: Warum breche ich auf Brücken so oft ein?**  
+  **A:** Zu hohe Geschwindigkeit belastet die Federung zu stark und lässt dich
+  abprallen oder durchbrechen. Fahre langsamer und gleichmäßiger, um sicher
+  rüberzukommen.

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: slime-io
-title: '[FR] Slime.io'
-description: >-
-  [FR] A fun and chaotic .io game of consumption! Control your slime, absorb
-  everything in the city from cars to buildings, and devour smaller players to
-  become the biggest slime of them all!
+title: Slime.io
+description: "Un .io de gloutonnerie fun et chaotique\_! Contrôle ton slime, avale tout dans la ville – des voitures aux immeubles – et dévore les joueurs plus petits pour devenir la plus grosse gélatine de la partie."
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
 thumbnail: /new-images/slime-io.png
 tags:
@@ -18,31 +15,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Slime.io is a chaotic and satisfying 3D arcade game that belongs to the popular ".io" genre of multiplayer games. You control a small slime in a bustling city with one simple goal: become the biggest. You do this by sliding around the map and absorbing everything in your path that is smaller than you—from streetlights and cars to entire buildings. Compete against other players, absorb the smaller ones, and avoid being eaten by the giants to dominate the leaderboard before the timer runs out!
+Slime.io est un jeu d’arcade 3D chaotique et très satisfaisant du genre « .io ».
+Tu contrôles un petit slime dans une ville animée avec un seul objectif :
+devenir le plus gros. Pour ça, glisse sur la carte et absorbe tout ce qui
+est plus petit que toi, des lampadaires et voitures jusqu’aux immeubles
+entiers. Affronte les autres joueurs, avale les plus petits et fuis les
+géants pour dominer le classement avant la fin du temps imparti.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** **Start Small:** When the round begins, you are small and vulnerable. Focus on absorbing small objects first, like people, fences, and benches. This will quickly increase your size.
-2.  **[FR]** **Grow to Consume:** As you get bigger, you can absorb larger objects. Move from cars to trucks and eventually to entire skyscrapers. The bigger the object, the more points you get and the faster you grow.
-3.  **[FR]** **Player vs. Player:** Pay close attention to the other slimes on the map. You can absorb any player who is smaller than you for a massive score boost. Conversely, you must run away from any player who is bigger than you, or they will absorb you!
-4.  **[FR]** **Watch the Clock:** Each round is timed. Your goal is to have the highest score when the timer hits zero. Be as efficient as possible in your consumption to stay at the top.
+1.  **Commencer petit :** au début, tu es minuscule et vulnérable. Concentre‑toi
+    sur les petits objets (piétons, clôtures, bancs…) pour grossir vite.
+2.  **Monter en gamme :** plus tu grandis, plus tu peux absorber d’objets
+    imposants. Passe des voitures aux camions, puis aux gratte‑ciel : plus
+    c’est gros, plus tu gagnes de points et plus tu grossis rapidement.
+3.  **Joueur contre joueur :** surveille bien les autres slimes sur la
+    carte. Tu peux avaler tous ceux qui sont plus petits que toi pour un
+    énorme bonus de score, mais les plus gros peuvent faire la même chose
+    avec toi.
+4.  **Regarder le chrono :** chaque manche est limitée dans le temps.
+    L’objectif est d’avoir le meilleur score quand le compteur tombe à
+    zéro, donc absorbe de façon aussi efficace que possible.
 
-### Controls Guide
+### Commandes
 
-The game is controlled with a simple drag mechanic.
+Le jeu se joue avec un simple système de glisser.
 
-*   **[FR]** **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
+*   **Déplacer le slime :** clique et maintiens le bouton gauche (ou pose
+    ton doigt sur écran tactile) puis fais glisser dans la direction où tu
+    veux aller.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: How do I grow bigger?**
-    *   **[FR]** **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.
+*   **Q : Comment grandir plus vite ?**  
+    R : En absorbant tout ce qui est plus petit que toi ! Commence par les
+    petits objets puis enchaîne sur les bâtiments dès que tu es assez gros.
 
-*   **[FR]** **Q: Can I eat other players?**
-    *   **[FR]** **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
+    - **Q : Puis‑je manger les autres joueurs ?**  
+    R : Oui, tout slime plus petit que toi peut être absorbé. C’est un très
+    bon moyen de grimper rapidement au score, mais n’oublie pas que les
+    gros peuvent aussi te manger.
 
-*   **[FR]** **Q: How do I win?**
-    *   **[FR]** **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
+*   **Q : Comment gagner une partie ?**  
 
+    - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
+
+- **Q: How do I win?**
+
+    - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
+    R : Le joueur qui a le plus de points à la fin du temps imparti remporte
+    la manche. Ton score dépend du nombre et de la taille des objets (et
+    joueurs) que tu as avalés.

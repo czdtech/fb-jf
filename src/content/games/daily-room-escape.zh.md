@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: daily-room-escape
-title: '[ZH TRANSLATION NEEDED] Daily Room Escape'
+title: "Daily Room Escape 每日密室逃脱"
 description: >-
-  [ZH TRANSLATION NEEDED] Daily Room Escape delivers bite‑size escapes — scour
-  rooms, solve logic locks, and piece clues together.
+  《Daily Room Escape 每日密室逃脱》提供一日一关的小型逃脱谜题。你需要在房间里寻找道
+  具、破解密码锁，并逐步拼凑线索，找到离开的出口。
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/daily-room-escape.png
 tags:
@@ -19,31 +19,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Daily Room Escape offers short escape‑the‑room puzzles. Search for hidden objects, decode numeric/shape ciphers, and use items in the correct spots to unlock the exit.
+《Daily Room Escape 每日密室逃脱》是一组节奏短小的房间逃脱谜题合集。每一关都是一个完整
+的密室：你需要在有限的空间内搜寻隐藏物品、解读数字/图形密码，并在正确位置使用道具，逐
+步解开机关、打开门锁，最终逃离房间。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Sweep the room: Tap hotspots, move cushions, open drawers.
-2.  [ZH TRANSLATION NEEDED] Note patterns: Photograph or note symbol orders and color codes.
-3.  [ZH TRANSLATION NEEDED] Combine items logically (e.g., key + handle, battery + device).
-4.  [ZH TRANSLATION NEEDED] Try code permutations consistent with clues — avoid brute force.
-5.  [ZH TRANSLATION NEEDED] If stuck, re‑scan earlier rooms for missed hotspots.
+
+1.  **先做全面“地毯式”搜索：** 刚进入房间时，尽量点击所有可疑热点——移动沙发垫、打开抽
+    屉、查看柜子背后或画框下方，避免漏掉关键道具。 
+2.  **记下所有图案与颜色线索：** 遇到顺序符号、颜色排列或形状组合时，可以截图或在纸上
+    简单记下，它们往往对应某个密码锁的输入顺序。 
+3.  **合理组合道具：** 尝试把看似相关的物品组合在一起，例如“钥匙 + 柄”“电池 + 设备”等
+    ，组合后可能变成新的可用道具。 
+4.  **按线索推理密码，避免纯暴力尝试：** 玩家可以根据线索推演合理的数字或图形组合，而
+    不是直接穷举。过度暴力尝试不仅浪费时间，也容易错过设计者埋下的有趣逻辑。 
+5.  **卡住时回头再检查一遍：** 如果完全没有新线索可用，回到之前的房间或场景细致检查一
+    遍，很可能会发现之前遗漏的可点热点。 
 
 ### Controls Guide
 
-- Tap to inspect, collect, and use items; some puzzles drag‑and‑drop.
-- A hint button may highlight missed areas.
+- 点击或轻触屏幕即可检查物体、拾取道具或在场景中使用物品；部分谜题需要拖动道具到特定
+  位置。 
+- 若游戏提供提示按钮，可在长时间卡关后使用，它通常会高亮潜在可互动区域。 
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: A code won’t work — bug?
-  
-[ZH TRANSLATION NEEDED]   A: Recheck clue order/direction; many sequences are reversible or wrap.
+- **Q: 密码明明对了却打不开，是 BUG 吗？**  
+  **A：** 很多密码都与“读取顺序”或方向有关，请再次确认线索提示的顺序是否被你反向或错
+  位理解。一些序列可能是环状或可逆的，需要按设计给出的方向输入。 
 
-- Q: Items don’t combine?
-  
-[ZH TRANSLATION NEEDED]   A: Ensure correct order or examine items closely for hidden parts.
+- **Q: 道具为何无法组合？**  
+  **A：** 某些组合需要特定顺序，或必须先在物品详情界面中检查道具，发现隐藏部件后才能完
+  成组合。建议多点开道具详情，看看是否还有细节可交互。 
 
-- Q: Too dark to see?
-  
-[ZH TRANSLATION NEEDED]   A: Use brightness or in‑game lamps/flashlight when provided.
-
+- **Q: 房间太暗，看不清细节怎么办？**  
+  **A：** 可以先调高屏幕亮度，另外很多关卡会提供灯具、手电或火柴等照明道具，记得检查暗
+  角、床底或柜子里是否藏有可点亮的物品。 

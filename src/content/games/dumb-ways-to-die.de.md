@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: dumb-ways-to-die
-title: '[DE] Dumb Ways to Die'
+title: "Dumb Ways to Die"
 description: >-
-  [DE] Dumb Ways to Die is a fast‑reaction mini‑game collection: complete
-  micro‑challenges quickly to keep characters alive.
+  Dumb Ways to Die ist eine schnelle Sammlung von Reaktions-Minispielen: Löse
+  Mikro-Challenges im Zeitdruck, damit deine Figuren nicht auf dumme Weise
+  sterben.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/dumb-ways-to-die.jpg
 tags:
@@ -14,31 +15,43 @@ score: 3.9/5  (534 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Dumb Ways to Die besteht aus vielen kurzen, sicherheitsbezogenen
+Reaktionsspielen. In jeder Runde bekommst du eine andere Mikroaufgabe, während
+ das Tempo stetig anzieht. Wenn du drei Mal scheiterst, ist der Run vorbei.
 
+### So spielst du
 
+- In jeder Runde erscheint ein neues Minispiel mit einer kurzen Anweisung.
+- Schließt du die Aufgabe schnell und richtig ab, behältst du deine Leben und
+  das Spiel beschleunigt; Fehler kosten Herzen.
+- In späteren Runden wechseln die Spiele schneller durch, und die Prompts
+  werden gemeiner.
 
-### Overview
-Fast‑reaction micro‑games: complete short safety‑themed challenges under a rising speed curve. Fail three times and the run ends.
+### Steuerung
 
-### How to Play
-- Each round presents a different micro‑game with a brief prompt.
-- Succeed quickly to keep lives and push the speed higher; mistakes cost hearts.
-- Later rounds shuffle faster and add trick prompts.
+- Maus/Touch: Wischen, Tippen oder Halten, je nach Minispiel; einige Hosts
+  setzen bei bestimmten Games auch Pfeiltasten oder Leertaste ein.
 
-### Controls
-- Mouse/Touch swipes, taps, and holds; some hosts use arrow keys/space for specific games.
+### Tipps
 
-### Tips
-- Read the prompt first—many losses come from instinctive wrong inputs.
-- Expect repetition; memorize tricky games to react faster.
-- Don’t over‑drag/over‑swipe; precision beats speed.
+- Lies zuerst die Anweisung – viele Fehlversuche passieren, weil man aus
+  Reflex die falsche Aktion ausführt.
+- Wiederholung gehört dazu: Präge dir schwierige Minispiele ein, um beim
+  nächsten Mal schneller zu reagieren.
+- Übertreibe es nicht mit langen Wischgesten – Präzision ist wichtiger als
+  rohe Geschwindigkeit.
 
 ### FAQ
-- Q: How many lives do I have?
-A: Usually three strikes per run.
-- Q: Can I practice a single game?
-A: Some hosts offer practice lists; otherwise learn during runs.
-- Q: Is there progression?
-A: High‑score chase; some versions unlock characters or cosmetics.
 
+- **F: Wie viele Leben habe ich?**  
+  **A:** Meistens drei Versuche pro Run.
+
+- **F: Kann ich ein einzelnes Minispiel üben?**  
+  **A:** Manche Hosts bieten Übungslisten, ansonsten lernst du sie on the fly
+  während regulärer Runs.
+
+- **F: Gibt es Fortschritt über Highscores hinaus?**  
+  **A:** Der Fokus liegt auf Highscore-Jagd; einige Versionen schalten zusätzliche
+  Figuren oder Kosmetiksachen frei.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tennis
-title: '[KO] Tennis'
+title: Tennis 테니스
 description: >-
-  [KO] Step onto the court in this classic arcade Tennis game! Grab your racket
-  and compete against a challenging opponent. Serve, rally, and score points to
-  win the match. It's a simple, fun, and addictive sports game for everyone.
+  이 고전 아케이드 테니스 게임에서 코트 위에 올라 상대와 랠리를 펼쳐 보세요. 간단한 조작으로 서브·리턴을 주고받으며, 점수를 먼저 따내는
+  쪽이 승리합니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/tennis.jpg
 tags:
@@ -18,34 +17,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-This is a classic arcade-style tennis game that captures the simple, addictive fun of the sport. Players control a tennis player on the court, competing against a computer-controlled opponent in a fast-paced match. The goal is to hit the ball back and forth, scoring points when your opponent fails to return it.
+이 게임은 테니스의 단순하면서도 중독성 강한 재미를 잘 살린 고전 아케이드
+스타일 테니스 게임입니다. 플레이어는 코트 위의 선수 한 명을 조종해
+컴퓨터 상대와 빠른 템포의 랠리를 주고받게 됩니다. 공을 계속 받아 넘기면서
+상대가 실수하도록 유도해, 점수를 따내는 것이 목표입니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-- **Objective:** Be the first player to win the required number of points or sets to win the match.
-- **Serving:** Start each point by serving the ball over the net into the opponent's service box.
-- **Rallying:** After the serve, hit the ball back and forth with your opponent. You must return the ball before it bounces twice on your side of the court.
-- **Scoring:** You score a point if your opponent hits the ball out of bounds, into the net, or fails to return it before it bounces twice.
+- **목표:**
+  정해진 점수 또는 세트 수를 먼저 확보해 경기를 승리하는 것입니다.
+- **서브:**
+  매 포인트는 서브로 시작합니다. 네트를 넘어 상대 서비스 박스 안으로 공을
+  넣어야 랠리가 시작됩니다.
+- **랠리:**
+  서브 이후에는 상대와 번갈아 공을 주고받습니다. 내 코트에서 공이 두 번
+  바운드되기 전에 되받아쳐야 합니다.
+- **득점:**
+  상대가 공을 네트에 걸거나, 아웃으로 보내거나, 두 번 바운드되도록 만들면
+  포인트를 획득합니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-Controls are designed to be simple and intuitive:
-- **Movement:** `Arrow Keys` or `WASD` to move your player around your side of the court.
+- **이동:** 방향키 또는 `WASD` 키로 코트 내에서 선수 위치를 조정합니다.
+- **스윙/타격:** `Spacebar` 또는 `X` 키로 라켓을 휘둘러 공을 칩니다.
+  스윙 타이밍과 위치에 따라 공의 방향과 파워가 달라집니다.
+
+
 - **Swing / Hit:** `Spacebar` or `X` key to swing your racket and hit the ball. The timing of your swing can affect the power and direction of the shot.
 
-### Frequently Asked Questions (FAQ)
+- **Movement:** `Arrow Keys` or `WASD` to move your player around your side of the court.
+### 자주 묻는 질문(FAQ)
 
-**How do I score points in tennis?**
+**Q: 포인트는 어떻게 계산되나요?**
 
-In a standard game, points are scored as 15, 30, 40, and then game point. You need to win by at least two points. Many arcade versions simplify this to just winning a set number of points (e.g., first to 7).
+일반 테니스 규칙에서는 15, 30, 40, 게임 포인트 순으로 올라가며, 최소 2점
+차로 이겨야 합니다. 아케이드 버전에서는 보통 더 단순화하여, 먼저 정해진
+포인트 수를 채우면 이기는 방식인 경우가 많습니다.
 
-**How can I aim my shots?**
+**Q: 샷 방향은 어떻게 조절하나요?**
 
-In most classic tennis games, your shot direction is determined by when you hit the ball relative to your player's body. Hitting it early sends it cross-court, while hitting it late sends it down the line.
+대부분의 고전 테니스 게임에서는, 공을 치는 타이밍과 캐릭터의 위치가 샷
+방향을 결정합니다. 공을 조금 일찍 치면 크로스 코트, 조금 늦게 치면 다운더
+라인으로 나가는 경우가 많습니다.
 
-**Can I play against another person?**
+**Q: 2인용으로도 플레이할 수 있나요?**
 
-Many classic tennis games feature a 2-player mode where you can compete against a friend on the same keyboard.
-
+많은 아케이드 테니스 게임이 한 키보드에서 2인용 모드를 지원합니다.
+버전에 따라 서로 다른 키 세트를 사용해 친구와 대전할 수 있습니다.

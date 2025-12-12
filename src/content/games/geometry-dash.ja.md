@@ -1,29 +1,24 @@
 ---
+title: "Geometry Dash Wave Spam - Geometry Dash Wave Spamをオンラインでプレイ"
+description: "飾り気は一切なし。これは普通のGeometry Dashではありません。あなたの心を折り、そしてより強く鍛え直すために設計された、純粋で容赦のないウェーブのみのガントレットです。"
+iframeSrc: "https://turbowarp.org/1185431027/embed"
+thumbnail: "/geometry-dash.png"
+urlstr: "geometry-dash"
+score: "4.5/5  (604 votes)"
+tags: ["geometry dash"]
 locale: ja
-urlstr: geometry-dash
-title: '[JA TRANSLATION NEEDED] Geometry Dash Wave Spam - Play Geometry Dash Online'
-description: '[JA TRANSLATION NEEDED] Forget the fluff. This isn'
-iframeSrc: 'https://turbowarp.org/1185431027/embed'
-thumbnail: /geometry-dash.png
-tags:
-  - geometry dash
-score: 4.5/5  (604 votes)
 ---
 
-[JA TRANSLATION NEEDED] Forget the fluff. This isn't your standard Geometry Dash stroll. This is a pure, uncut, wave-only gauntlet designed to break you and build you back stronger. We've stripped out the portals, the pads, and the coins—it's just you, your ship, and a pixel-perfect corridor of death.
- 
-### MASTER THE WAVE OR DIE TRYING
- 
-[JA TRANSLATION NEEDED] This is the ultimate training ground. A brutalist trial by fire where your muscle memory and rhythmic precision are the only things that matter. The corridors are tight, the spikes are unforgiving, and a single mistimed tap means instant failure. No luck, no shortcuts—just raw, unfiltered skill.
- 
-[JA TRANSLATION NEEDED] If you can't handle the pressure, you won't last a second. But if you're here to truly master the wave, to sharpen your reflexes until they're razor-edged, then this is your arena. Every run is a high-octane lesson in control.
- 
-#### Features:
-- Pure Wave ゲームプレイ: Nothing but the wave form. This is the ultimate test of your core mechanics.
- 
-[JA TRANSLATION NEEDED]  - Pure Wave Gameplay: Nothing but the wave form. This is the ultimate test of your core mechanics.
-[JA TRANSLATION NEEDED]  - Pixel-Perfect Corridors: Navigate spike tunnels so tight they demand flawless control. One pixel can be the difference between glory and another reset.
-[JA TRANSLATION NEEDED]  - Brutal, High-Intensity Runs: This level is designed for quick, explosive attempts. Learn, adapt, and go again—faster and sharper each time.
+飾り気は一切なし。これは普通のGeometry Dashの散歩道ではありません。あなたの心を折り、そしてより強く鍛え直すために設計された、純粋で容赦のないウェーブのみのガントレット（試練）です。ポータルもパッドもコインも取り除きました。あるのはあなたと、あなたの船（シップ）、そしてピクセルパーフェクトな死の回廊だけです。
 
-- Pixel-Perfect Corridors: Navigate spike tunnels so tight they demand flawless control. One pixel can be the difference between glory and another reset.（日本語訳が必要）
-- Brutal, High-Intensity 走るs: This level is designed for quick, explosive attempts. Learn, adapt, and go again—faster and sharper each time.
+### ウェーブを極めるか、挑んで散るか
+
+ここは究極の訓練場です。あなたのマッスルメモリー（筋肉の記憶）とリズミカルな正確さだけが物を言う、残酷なまでの試練です。回廊は狭く、トゲは容赦なく、一度のタップミスが即座に失敗を意味します。運も近道もありません。あるのは、純粋で混じりけのないスキルだけです。
+
+プレッシャーに耐えられないなら、一秒たりとも持たないでしょう。しかし、もしあなたがウェーブを本当にマスターし、反射神経を極限まで研ぎ澄ませたいと願うなら、ここがあなたの闘技場です。すべてのラン（挑戦）が、コントロールにおけるハイオクタンな教訓となります。
+
+#### 特徴：
+
+ - **純粋なウェーブゲームプレイ:** ウェーブフォーム以外何もありません。これはあなたの核となるメカニクス（操作技術）の究極のテストです。
+ - **ピクセルパーフェクトな回廊:** 完璧なコントロールが要求されるほど狭いトゲのトンネルを進みます。1ピクセルが、栄光とリセット（やり直し）の分かれ目となります。
+ - **残酷で高強度のラン:** このレベルは、素早く爆発的な試行のために設計されています。学び、適応し、再び挑みましょう――そのたびにより速く、より鋭く。

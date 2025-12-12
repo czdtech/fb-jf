@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: wheely
-title: '[ZH TRANSLATION NEEDED] Wheely'
+title: 'Wheely：小红车的解谜大冒险'
 description: >-
-  [ZH TRANSLATION NEEDED] Join Wheely, the adorable red car, on a charming
-  point-and-click puzzle adventure! Solve clever environmental puzzles, interact
-  with various mechanisms, and guide Wheely through challenging levels to reach
-  his destination. A delightful brain-teaser for all ages.
+  跟着可爱的小红车 Wheely 一起踏上点击解谜之旅！
+  通过操作场景中的机关与物体，帮助 Wheely 躲避障碍、通过关卡，
+  在充满童话感的世界里完成一段段温馨的小冒险。
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/wheely.jpg
 tags:
@@ -17,36 +16,53 @@ score: 4.8/5  (695 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Wheely is a beloved series of point-and-click puzzle adventure games starring an endearing red car named Wheely. Each game in the series presents a new journey for Wheely, filled with environmental puzzles that players must solve by interacting with various objects and mechanisms in the scene. The games are known for their charming visuals, intuitive controls, and clever challenges.
+《Wheely》是一系列备受喜爱的点击解谜冒险游戏，主角是一辆表情丰富、个性十足的红色小汽车 Wheely。
+系列的每一作都会为 Wheely 安排一段全新的旅程：有时是去参加赛车比赛，有时是追逐心爱的粉红小车，
+也可能是不小心卷入一场充满机关与陷阱的大冒险。
 
-### Gameplay Guide
+每一关都是一个“小场景谜题”，你需要观察画面中的各种机关、道路和隐藏细节，
+合理安排 Wheely 的出发时机，帮助它安全通过危桥、升降台、铁门和机关重重的道路。
+游戏画风清新可爱，动画细节丰富，操作又十分直观，非常适合亲子和解压休闲玩家。
 
-[ZH TRANSLATION NEEDED] The core gameplay involves observing the scene and figuring out the correct sequence of interactions to help Wheely progress.
-- **Interact:** Click on objects like levers, buttons, switches, and ramps to activate them.
-- **Guide Wheely:** Click on Wheely to make him start or stop moving. Time his movements with the activated mechanisms to navigate obstacles.
-- **Solve Puzzles:** Each level is a self-contained puzzle. You might need to open gates, build bridges, or clear paths by manipulating the environment.
-- **Collect Stars:** Many levels include optional stars to collect, adding an extra layer of challenge.
+### 游玩指南
 
-### Controls Guide
+《Wheely》的核心玩法是“观察场景 → 触发机关 → 引导 Wheely 前进”：
 
-- **Mouse:** All interactions are done with the mouse.
-     - **Click:** Click on objects to activate them.
-     - **Click on Wheely:** Click Wheely to start or stop his movement.
-     - **Drag/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
+- **互动机关（Interact）：**  
+  点击拉杆、按钮、开关、斜坡等物体，让它们升起、下降或转向，改变场景结构。
 
-### Frequently Asked Questions (FAQ)
+- **引导 Wheely（Guide Wheely）：**  
+  点击 Wheely 本车可以让它开始或停止移动。
+  需要把握好时机，在机关运转到安全位置时再让它前进，
+  否则可能会被压住、卡住，或者掉落到危险区域。
 
-[ZH TRANSLATION NEEDED] **What is the main objective of Wheely games?**
+- **解开谜题（Solve Puzzles）：**  
+  每一个关卡都像一个小机关盒，你可能需要先打开大门、搭起桥梁、
+  排干水池或者清理路障，才能为 Wheely 打通一条安全道路。
 
-[ZH TRANSLATION NEEDED] The main objective is to guide Wheely through each level, overcoming obstacles and solving puzzles, to reach the red flag at the end.
+- **收集星星（Collect Stars）：**  
+  很多关卡会隐藏星星或特殊目标，只有细心观察并触发额外机关，
+  才能拿到满评分，增加游戏的可玩性和挑战度。
 
-[ZH TRANSLATION NEEDED] **Are the games suitable for children?**
+### 操作指南
 
-[ZH TRANSLATION NEEDED] Yes, the Wheely series is generally considered family-friendly and suitable for children due to its gentle nature, charming characters, and focus on logical problem-solving.
+- **鼠标操作：** 所有互动都通过鼠标完成。
+     - **点击（Click）：** 点击机关或场景物体以激活或改变它们的状态。
+     - **点击 Wheely：** 点击 Wheely 自身，以控制它开始或停止移动。
+     - **拖拽/旋转（Drag/Rotate）：** 部分机关需要按住并拖动，或以旋转方式调整角度。
 
-[ZH TRANSLATION NEEDED] **How many Wheely games are there?**
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] The Wheely series has many installments, each offering new adventures and puzzles for players to enjoy.
+**问：Wheely 系列的主要目标是什么？**  
+**答：** 每一关的目标都是让 Wheely 安全到达终点，通常以旗帜或明显标记表示。
+你需要通过解谜和操作机关，清除途中所有障碍。
 
+**问：这款游戏适合儿童玩吗？**  
+**答：** 非常适合。Wheely 系列整体气氛温和、角色可爱，
+主要考验的是观察力与逻辑思维，几乎没有压迫性的内容，非常适合亲子共同游玩。
+
+**问：Wheely 系列一共有几部？**  
+**答：** Wheely 系列已经推出了多部作品，每一作都有全新的故事背景和关卡设计。
+无论从哪一部开始体验，你都能感受到这辆小红车带来的轻松与乐趣。

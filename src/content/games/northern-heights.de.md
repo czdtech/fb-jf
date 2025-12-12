@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: northern-heights
-title: '[DE] Northern Heights'
+title: Northern Heights
 description: >-
-  [DE] Embark on an exciting skiing journey in Northern Heights. Navigate steep
-  descents, perform stunts, and collect coins to become a skiing legend.
+  Begib dich in Northern Heights auf eine rasante Ski-Tour. Fahre steile Hänge
+  hinunter, führe Tricks aus und sammle Münzen, um zur Ski-Legende zu werden.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/northern-heights.png
 tags:
@@ -16,29 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Northern Heights ist ein Ski-Spiel, das dich über verschneite Hänge und
+ spektakuläre Abfahrten schickt. Du steuerst deinen Fahrer über steile Pisten,
+ führst stylische Sprünge und Stunts aus und sammelst unterwegs Münzen. Das
+ Spiel legt großen Wert auf das Gleichgewicht zwischen Geschwindigkeit und
+ Kontrolle und bietet dir zudem Möglichkeiten, deinen Charakter, das Board und
+ die Ausrüstung optisch anzupassen.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Steuerung beherrschen:** Lerne zuerst die grundlegende Steuerung, damit du
+    präzise lenken und Stunts sicher landen kannst.
+2.  **Route planen:** Achte bei jeder Abfahrt auf Kurven, Hindernisse und
+    alternative Wege. Eine clevere Linienwahl bringt oft mehr Punkte.
+3.  **Tempo und Kontrolle ausbalancieren:** Fahre nicht ständig Vollgas. Halte
+    dein Tempo so, dass du Hindernissen noch rechtzeitig ausweichen und sauber
+    landen kannst.
+4.  **Stunts gezielt einsetzen:** Nutze Sprünge und Stunts, um Bonuspunkte zu
+    verdienen, aber übertreibe es nicht, wenn die Landung zu riskant wird.
+5.  **Münzen sammeln:** Sammle unterwegs Münzen, um neue Boards, Outfits und
+    andere kosmetische Upgrades freizuschalten.
 
-Northern Heights is a skiing game that takes you on an exciting journey over snow. Players navigate steep descents, perform gorgeous stunts for bonus points, and collect coins. The game emphasizes balancing speed and control, and offers customization options for characters, boards, and clothing.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+*   **Pfeiltasten/Maus:** Steuere deinen Charakter mit den Pfeiltasten oder der
+    Maus den Hang hinunter. Je nach Version gibt es zusätzliche Tasten für
+    Sprünge oder besondere Tricks.
 
-1.  **[DE]** **Master the Controls:** Learn the controls for steering and stunt accuracy to navigate the slopes effectively.
-2.  **[DE]** **Plan Your Route:** Plan your routes to account for curves and obstructions.
-3.  **[DE]** **Balance Speed and Control:** Find a balance between speed and control to avoid falls and maximize your score.
-4.  **[DE]** **Perform Stunts:** Use leaps and stunts strategically to earn bonus points.
-5.  **[DE]** **Collect Coins:** Collect coins to purchase accessories, boards, and clothing to customize your experience.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   **F: Wie bekomme ich mehr Punkte?**
+    **A:** Stunts, eingesammelte Münzen und eine schnelle, möglichst fehlerfreie
+    Abfahrt erhöhen deine Punktzahl.
+    - **F: Wofür kann ich die Münzen verwenden?**
 
-*   **[DE]** **Arrow Keys/Mouse:** Use the arrow keys or mouse to steer your character down the slopes. Specific controls for stunts may vary.
+- **A:** Coins can be used to purchase customization options for your character, including new boards and clothing.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: How do I score more points?**
-    *   **[DE]** **A:** Performing stunts, collecting coins, and finishing the course quickly will all contribute to a higher score.
-*   **[DE]** **Q: What can I do with the coins I collect?**
-    *   **[DE]** **A:** Coins can be used to purchase customization options for your character, including new boards and clothing.
-
+    - **Q: What can I do with the coins I collect?**
+    **A:** Mit Münzen schaltest du neue Boards, Outfits und andere
+    Anpassungsoptionen für deinen Fahrer frei.

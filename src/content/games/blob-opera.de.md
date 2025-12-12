@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: blob-opera
-title: '[DE] Blob Opera'
+title: "Blob Opera"
 description: >-
-  [DE] Control four adorable, singing blobs to create your own unique opera
-  music. A fun and accessible machine learning experiment that turns anyone into
-  a composer, no musical skills required!
+  Steuere vier singende Blobs und komponiere deine eigene Mini‑Oper. Ein
+  spielerisches Machine‑Learning‑Experiment, das jede Person ohne musikalische
+  Vorkenntnisse zum Komponisten macht.
 iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
 thumbnail: /new-images/blob-opera.jpg
 tags:
@@ -16,50 +16,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+Blob Opera ist weniger klassisches Spiel als interaktives Musik‑Experiment.
+Du erschaffst Opernmusik, indem du ein Quartett farbiger, gummiartiger Blobs
+mit der Maus oder per Touch formst. Jeder Blob steht für eine andere Stimmlage:
+Bass (grün), Tenor (blau), Mezzosopran (lila) und Sopran (rot).
 
+Im Hintergrund arbeitet ein Machine‑Learning‑Modell, das auf echten
+Opernstimmen trainiert wurde. Statt fertige Aufnahmen abzuspielen, generiert es
+in Echtzeit Gesang, basierend auf deinen Bewegungen. Steuerst du einen Blob,
+passen sich die anderen drei automatisch an und harmonisieren dazu. Ziel ist
+nicht ein Highscore, sondern das Entdecken und Ausprobieren – vom ernsthaften
+Mini‑Chor bis zur komplett albernen Blob‑Kakofonie.
 
+### Kreativ‑Tipps & Strategien
 
-### Game Introduction
+Ohne Score dreht sich alles darum, interessante Klangfarben zu basteln. Diese Hinweise bieten eine gute Ausgangsbasis :
 
-Blob Opera is not a game in the traditional sense, but rather an interactive musical experiment. It allows users to create their own operatic music by manipulating a quartet of colorful, gelatinous "blobs." Each of the four blobs represents a different vocal range: bass (green), tenor (blue), mezzo-soprano (purple), and soprano (red).
+-   **Mit einer Melodie beginnen:** Nimm dir einen Blob als „Leader“ und ziehe ihn langsam auf und ab, um eine einfache Melodie zu skizzieren.
+-   **Harmonie hinzufügen:** Sobald du loslässt, stimmen die anderen mit ein und passen sich automatisch an – du kannst jederzeit den führenden Blob wechseln.
+-   **Vokale formen:** Vor‑/Zurückziehen wechselt zwischen Vokalen („ah“, „eh“, „ii“, „oh“, „uu“) und verleiht deiner Phrase mehr Charakter.
+-   **Vibrato erzeugen:** Kleine, schnelle Auf‑/Ab‑Bewegungen auf einer gehaltenen Höhe sorgen für ein glaubwürdiges Vibrato.
+-   **Mit Dissonanzen spielen:** Extrem hohe oder tiefe Lagen erzeugen Spannungen, die nach der Rückkehr in die Harmonie besonders wirken.
+-   **Aufnahmefunktion nutzen:** Mit dem Record‑Button nimmst du deine Performance auf und kannst sie per Link teilen.
+-   **Holiday‑Modus aktivieren:** Über das kleine Weihnachtsbaum‑Icon wechselst du in ein Festtags‑Theme mit Mützen und Weihnachtsliedern.
 
-The experience is powered by a machine learning model trained on the voices of real opera singers. The model doesn't simply play back audio clips; it generates synthesized singing voices in real-time based on the user's input. When you manipulate one blob, the other three automatically harmonize and create a surprisingly beautiful and cohesive musical piece. The goal is not to win or score points, but to explore, experiment, and create your own unique musical compositions, from the sublime to the hilarious.
+### Steuerung
 
-### Gameplay Tips & Creative Strategies
+Die Bedienung ist komplett auf Maus oder Touch ausgelegt.
 
-Since there is no "winning," the strategy revolves around creating interesting music.
+-   **Blob hoch/runter ziehen:** Regelt die Tonhöhe.
+-   **Blob vor/zurück ziehen:** Wechselt den Vokal/Klang.
+-   **Blob anklicken:** Schaltet vorübergehend auf Solo.
+-   **Record‑Button:** Startet bzw. stoppt eine Aufnahme.
+-   **Play‑Button:** Spielt die letzte Aufnahme ab.
+-   **Share‑Button:** Erstellt nach einer Aufnahme einen teilbaren Link.
 
--   **Start with a Melody:** Begin by controlling just one blob (the "leader"). Drag it around to create a simple melody line. Listen to how the pitch and vowel sounds change.
--   **Introduce Harmony:** Once you have a melody you like, let go. The other three blobs will join in with beautiful, automatically generated harmonies. You can then select a different blob to take the lead, and the others will adjust their harmonies accordingly.
--   **Master the Vowels:** Dragging the blobs forward and backward changes the vowel sound they sing (e.g., from "ah" to "ee" to "oo"). This is key to adding expression and emotion to your music. A slow forward drag can create a dramatic crescendo effect.
--   **Create Vibrato:** Make small, rapid up-and-down movements with your mouse while holding a note. This will cause the blob to sing with a vibrato, adding a professional and emotional touch.
--   **Experiment with Dissonance:** Don't be afraid to make sounds that clash. Drag blobs to extreme pitches to see what happens. Sometimes, a moment of dissonance can make the resolution back to harmony sound even more beautiful.
--   **Use the Record Feature:** If you create a piece you're proud of, use the record button to capture your performance. You can then easily share a link to your creation with friends.
--   **Holiday Mode:** Look for a toggle (often a Christmas tree icon) to switch to a holiday theme. The blobs will wear festive hats and sing classic holiday carols, which you can then manipulate yourself.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+**F: Gibt es ein Ziel oder ein Ende?**
 
-The controls are incredibly simple and intuitive, designed for mouse or touch input.
+> Nein. Blob Opera ist ein Sandbox‑Erlebnis ohne Punkte, Level oder Siegbedingung.
 
--   **Click and Drag a Blob Up/Down:** This controls the **pitch** of the note. Dragging higher makes the blob sing a higher note, and dragging lower makes it sing a lower note.
--   **Click and Drag a Blob Forward/Backward:** This controls the **vowel sound**. Dragging forward or backward cycles through different vowel shapes (like ah, eh, ee, oh, oo).
--   **Clicking a Blob:** Clicking on a single blob temporarily mutes the others, allowing you to focus on its individual sound.
--   **Record Button (Red Circle):** Click this to start recording your performance. Click it again to stop.
--   **Play Button (Triangle):** Plays back your last recording.
--   **Share Button:** After recording, this button allows you to generate a link to share your opera.
+**F: Können die Blobs echte Worte singen?**
 
-### Frequently Asked Questions (FAQ)
+> Nein, sie beherrschen nur Vokallaute – Ausdruck entsteht durch Tonhöhe, Vokalformung und Timing.
 
-**1. Is there a goal or an ending?**
-> No, Blob Opera is a sandbox experience. There are no levels, scores, or objectives. The purpose is simply to have fun creating music.
+**F: Sind das echte Stimmen?**
 
-**2. Can I make the blobs sing specific words?**
-> No, the blobs can only sing vowel sounds. You cannot input lyrics. The art is in using the different vowel sounds to create expression.
+> Das ML‑Modell wurde auf vier realen Opernsängern trainiert, erzeugt aber jeden Ton live und nicht aus Samples.
 
-**3. Are those real human voices?**
-> Yes and no. The sound is generated by a machine learning model that was trained on the real voices of four opera singers: Christian Joel (tenor), Frederick Tong (bass), Joanna Gamble (mezzo-soprano), and Olivia Doutney (soprano). The blobs are not playing pre-recorded samples; they are synthesizing the singing in real-time.
+**F: Wie speichere ich meine Komposition?**
 
-**4. How do I save my composition?**
-> You can't save it as an audio file (like an MP3) directly from the website. However, you can use the built-in record and share feature to create a unique link that replays your performance for anyone who clicks it. You could also use external screen recording software to capture it as a video.
-
+> Ein direkter MP3‑Export ist nicht vorgesehen. Nutze den Record/Share‑Workflow oder eine Bildschirmaufnahme als Alternative.

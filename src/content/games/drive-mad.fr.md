@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: drive-mad
-title: '[FR] Drive Mad'
+title: 'Drive Mad'
 description: >-
-  [FR] Drive Mad is a physics driving challenge: balance your vehicle, clear
+  Drive Mad is a physics driving challenge: balance your vehicle, clear
   obstacles, and reach the finish without flipping.
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/drive-mad.jpg

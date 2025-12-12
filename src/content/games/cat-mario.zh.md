@@ -1,66 +1,83 @@
 ---
 locale: zh
 urlstr: cat-mario
-title: '[ZH TRANSLATION NEEDED] Cat Mario'
-description: >-
-  [ZH TRANSLATION NEEDED] Face the ultimate unfair platformer in Cat Mario
-  (Syobon Action)! Navigate a world full of hidden traps, unexpected enemies,
-  and deceptive level design in this notoriously difficult and hilarious parody
-  game.
-iframeSrc: 'https://tiwb.github.io/catmario/'
-thumbnail: /new-images/cat-mario.jpg
+title: Cat Mario 折磨版猫里奥
+description: 《Cat Mario 折磨版猫里奥》是一款以极高难度和恶意机关著称的横版平台游戏，玩家操控白色小猫在处处是陷阱的关 卡中不断尝试前进。
+iframeSrc: 'https://adx-gib.s3.eu-north-1.amazonaws.com/catmario/index.html'
+thumbnail: /new-images/cat-mario.png
 tags:
   - platformer
-  - casual
-score: 4.6/5  (1147 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+score: 4.1/5  (2210 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Game Introduction
+*Cat Mario*（俗称“猫里奥”“折磨马里奥”）是一款恶搞向横版过关游戏，整体风格致敬经典马里奥，但在关卡设计上刻意充满坑与阴谋。看似安全的地砖会突然塌陷，看似友好的问号砖会弹出敌人，各种完全反常识的机关会在你最意想不到的时刻出现。
 
-[ZH TRANSLATION NEEDED] Cat Mario, more formally known as Syobon Action (しょぼんのアクション), is a Japanese freeware game that is a parody of the classic *Super Mario Bros*. At first glance, it appears to be a simple, crudely drawn clone of Mario, featuring a white cat-like character in a familiar-looking world. However, the game is infamous for being an "unfair platformer" or "troll game."
+玩家操控一只白色小猫在关卡中前进、跳跃、踩敌人，同时需要不断记住每一个死亡地点，靠不断试错与记忆来逐步推进。游戏节奏偏硬核，适合喜欢自虐挑战和整活视频的玩家。
 
-[ZH TRANSLATION NEEDED] The entire game is designed to subvert player expectations and troll them in every way imaginable. The levels are filled with countless hidden traps, invisible blocks, ground that suddenly collapses, enemies that behave unpredictably, and background elements that are actually lethal. The core gameplay is based on trial and error, requiring players to die repeatedly to memorize the location and nature of each trap. The game's humor comes from the sheer absurdity and unfairness of the deaths, and the life counter, which often goes into negative numbers, serves as a running gag. The goal is simply to reach the flagpole at the end of each stage without rage-quitting.
+### 游戏策略与通关思路
 
-### Gameplay Strategy & Walkthrough Principles
+1.  **把每一次死亡都当作“情报收集”**  
+    本作几乎不可能无伤盲通，每次被坑死都是在收集关卡信息。记住哪里有隐藏陷阱、哪里会突然刷怪，下一次就能提前防范。
 
-[ZH TRANSLATION NEEDED] There is no "strategy" in the traditional sense, only memorization. The game is a test of patience and memory, not skill.
+2.  **凡事多怀疑：看到“太正常”的东西就警惕**  
+    常规游戏中看似安全的平台、问号砖或金币，往往在猫里奥中就是陷阱源头。面对过于“诱人”的布局时，先试着远距离触发或准备好退路。
 
--   **Rule #1: TRUST NOTHING.** This is the golden rule of Cat Mario. Do not trust the ground you walk on, the blocks above you, the clouds in the sky, or even the flagpole at the end. Everything is a potential trap.
--   **Trial and Error is the Only Way:** You are meant to die. Every death is a lesson. When you die, pay close attention to what killed you and remember that spot for your next attempt. The game is only beatable through rote memorization.
--   **Expect the Unexpected:**
-     -   Question blocks can be solid, invisible, or spawn enemies on top of you.
-     -   The very first patch of ground in Level 1 will collapse if you walk on it normally.
-     -   Enemies may suddenly accelerate, jump, or fall from the sky.
-     -   Power-ups can kill you.
--   **Key Traps to Remember (Level 1 Spoilers):**
-     -   The first `?` block you see is a trap. Hitting it from below will cause it to fly upwards, killing you. Jump over it.
-     -   The ground right after the first pipe will collapse. You must jump over the gap.
-     -   Some clouds in the sky are actually enemies and will kill you if you touch them.
-     -   When you reach the final staircase, an enemy will spawn at the top. Be prepared.
-     -   **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
+3.  **多利用小碎步与试探跳**  
+    不要总是大步流星往前冲，很多陷阱都是针对“正常移动速度”设计的。通过停停走走、小范围跳跃试探，可以提前触发机关，避免一次直接送命。
 
-### Controls Guide
+4.  **学会利用被触发的机关为自己服务**  
+    某些机关虽然初看是坑，但在掌握触发时机后，可以成为帮助你过关的“道具”，例如借用被弹出的砖块、弹簧或隐藏平台。
 
-[ZH TRANSLATION NEEDED] The controls are very simple and mimic classic 2D platformers.
--   **Left/Right Arrow Keys:** Move the character left and right.
--   **Up Arrow Key:** Jump.
+    - **保持心态轻松，把它当喜剧看**  
 
-[ZH TRANSLATION NEEDED] There is no run button or fire button.
+    - **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
 
-### Frequently Asked Questions (FAQ)
+    - When you reach the final staircase, an enemy will spawn at the top. Be prepared.
 
-[ZH TRANSLATION NEEDED] **1. Why do I keep dying for no reason? This game is impossible!**
-[ZH TRANSLATION NEEDED] > That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.
+    - Some clouds in the sky are actually enemies and will kill you if you touch them.
 
-[ZH TRANSLATION NEEDED] **2. How many lives do I have? My life counter is negative.**
-[ZH TRANSLATION NEEDED] > You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."
+- The ground right after the first pipe will collapse. You must jump over the gap.
 
-[ZH TRANSLATION NEEDED] **3. Is there a way to know where the traps are?**
-[ZH TRANSLATION NEEDED] > No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
+    - The first `?` block you see is a trap. Hitting it from below will cause it to fly upwards, killing you. Jump over it.
 
-[ZH TRANSLATION NEEDED] **4. What's the real name of this game?**
-[ZH TRANSLATION NEEDED] > The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
+    - **Key Traps to Remember (Level 1 Spoilers):**
 
+    - Power-ups can kill you.
+
+    - Enemies may suddenly accelerate, jump, or fall from the sky.
+
+    - The very first patch of ground in Level 1 will collapse if you walk on it normally.
+    由于死亡频率极高，不必过分执着于“完美操作”。把每一次离谱的死亡当作笑料，保持心态，反而更容易撑到通关。
+
+### 操作指南
+
+
+The controls are very simple and mimic classic 2D platformers.
+-   **移动：** 使用方向键或 A / D 键左右移动小猫。  
+-   **跳跃：** 使用空格或上方向键进行跳跃，按键时间长短决定跳跃高度。  
+
+There is no run button or fire button.
+-   **重开关卡：** 死亡后通常会从最近的检查点或起点重来。部分版本提供关卡选择菜单。  
+
+### 常见问题解答（FAQ）
+
+**问：这游戏真的有“正常通关”的可能吗？****
+答：** 有，但需要大量试错与记忆。网络上也有不少全关卡通关的视频可供参考，但亲自踩坑会更有趣。
+
+**问：为什么感觉所有东西都是坑？****
+答：** 这是本作的设计初衷——颠覆玩家对传统平台游戏的所有“经验主义”。保持怀疑、慢慢试探，才是正确的游玩方式。
+
+
+
+> The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
+
+**4. What's the real name of this game?**
+
+> No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
+
+**3. Is there a way to know where the traps are?**

@@ -1,50 +1,46 @@
 ---
 locale: fr
-urlstr: mini-crossword
-title: '[FR] Mini Crossword'
-description: >-
-  [FR] Mini Crossword is a compact daily crossword puzzle game that provides a
-  quick and engaging word challenge for players of all skill levels.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
-thumbnail: /new-images/mini-crossword.jpg
-tags:
-  - puzzle
-  - word
-  - casual
-score: 4.9/5  (363 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+urlstr: "mini-crossword"
+title: "Mini Crossword"
+description: "Mini Crossword est une mini‑grille de mots croisés quotidienne qui propose un défi rapide et agréable, adapté à tous les niveaux."
+iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/"
+thumbnail: "/new-images/mini-crossword.jpg"
+tags: ["puzzle", "word", "casual"]
+score: "4.9/5  (363 votes)"
+developer: ""
+releaseDate: 2025-08-16
 ---
 
+### Présentation du jeu
 
+Mini Crossword est un jeu de mots croisés quotidien au format compact. Tu y retrouves une petite grille mais des définitions parfois corsées : il faut remplir chaque mot à partir des indices horizontaux et verticaux. Idéal pour une courte pause, le jeu permet d’enrichir ton vocabulaire tout en profitant d’un casse‑tête rapide.
 
+### Stratégies de jeu
 
+1.  **Bien lire les indices :** prends le temps de lire attentivement les définitions horizontales et verticales, les jeux de mots sont fréquents.
+2.  **Commencer par le connu :** remplis d’abord les réponses dont tu es sûr ; leurs lettres t’aideront à deviner les mots plus difficiles.
+3.  **Exploiter les croisements :** dès qu’un mot partage des lettres avec un autre, utilise ces lettres pour confirmer ou ajuster ta proposition.
+4.  **Raffiner progressivement :** pour un mot incertain, commence par placer les lettres probables, puis ajuste au fur et à mesure que tu complètes les autres mots.
 
-### Game Introduction
+### Comment jouer
 
-"Mini Crossword" is a compact daily crossword puzzle game. It offers a small yet challenging grid where players need to fill in the correct words based on the provided clues to complete the entire crossword. This game is suitable for quick sessions, both expanding vocabulary and providing puzzle-solving enjoyment.
+- **Sélectionner une case :** clique sur une case vide pour la mettre en surbrillance ; un second clic alterne entre saisie horizontale et verticale.  
+- **Entrer des lettres :** tape simplement au clavier.  
+- **Effacer :** utilise Retour arrière pour supprimer une lettre.  
+- **Voir l’indice :** l’interface affiche généralement l’indice correspondant au mot actuellement sélectionné.  
+- **Vérifier :** certaines versions proposent un bouton pour vérifier si tes réponses sont correctes.
 
-### Gameplay Strategy
+### Foire aux questions
 
-1.  **[FR]** **Understand Clues**: Carefully read both the across and down clues; they are key to solving the puzzle.
-2.  **[FR]** **Start with Known Information**: Fill in words you are confident about first; their letters will help you deduce other words.
-3.  **[FR]** **Utilize Intersecting Clues**: When some letters of a word are determined by other words, use these letters to guess and confirm the word.
-4.  **[FR]** **Gradually Narrow Down**: For uncertain words, you can first fill in the letters you know, then deduce based on the remaining blanks and clues.
+1.  **Q : À quel public s’adresse Mini Crossword ?**  
+   **R :** À tous ceux qui aiment les jeux de lettres et les défis de vocabulaire, en particulier si tu cherches un puzzle rapide plutôt qu’une grande grille classique.
 
-### How to Play
+2.  **Q : Quand les nouvelles grilles sont‑elles disponibles ?**  
+   **R :** En général, une nouvelle mini‑grille est publiée chaque jour à heure fixe (souvent dans la nuit ou le matin).
 
-*   **[FR]** **Select a Square**: Click an empty square to select it. You can switch between horizontal or vertical word entry modes by clicking again.
-*   **[FR]** **Enter Letters**: Use the keyboard to input letters.
-*   **[FR]** **Clear Letters**: Use the backspace key to delete entered letters.
-*   **[FR]** **View Clues**: The game interface usually displays clue information for the currently selected word.
-*   **[FR]** **Check Answer**: Some games provide a "Check" function to verify if the entered words are correct.
+3.  **Q : Y a‑t‑il de l’aide si je bloque ?**  
+   **R :** Certaines versions proposent des indices supplémentaires ou la possibilité de révéler une lettre ou un mot pour débloquer la situation.
 
-### Frequently Asked Questions
+4.  **Q : Faut‑il une connexion internet ?**  
+   **R :** La récupération des nouvelles grilles nécessite souvent une connexion, mais une fois téléchargées, certaines versions peuvent se jouer hors‑ligne.
 
-1.  **[FR]** **Q: Who is "Mini Crossword" suitable for?**
-**A**: This game is suitable for all players who enjoy crossword puzzles and vocabulary challenges, especially those looking for a quick puzzle-solving experience.
-2.  **[FR]** **Q: When are daily puzzles updated?**
-**A**: Typically, mini crossword puzzles are updated with new puzzles at a specific time each day (e.g., midnight or in the morning).
-3.  **[FR]** **Q: Is there any help if I get stuck?**
-**A**: Some mini crossword games offer hint features that can reveal a letter or word to help players continue.
-4.  **[FR]** **Q: Does the game require an internet connection?**
-**A**: Daily puzzles usually require an internet connection to download and update, but once downloaded, some games may support offline play.

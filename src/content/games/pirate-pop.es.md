@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: pirate-pop
-title: '[ES] Pirate Pop'
+title: Pirate Pop
 description: >-
-  [ES] Ahoy! Take aim and pop the pirate bubbles. A classic bubble shooter game
-  where you match three or more to clear the board and claim the pirate
-  treasure.
+  ¡Al abordaje! Apunta y revienta las burbujas piratas. Un clásico bubble
+  shooter en el que combinas tres o más burbujas para limpiar el tablero y
+  quedarte con el tesoro.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/pirate-pop.png
 tags:
@@ -17,32 +17,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Pirate Pop es un divertido y adictivo bubble shooter con temática pirata. Tu
+objetivo es vaciar la pantalla de burbujas de colores disparando tu cañón y
+formando grupos de tres o más burbujas del mismo color. Apunta con cuidado, usa
+las paredes para hacer tiros con rebote y crea grandes reacciones en cadena
+para soltar enormes racimos de burbujas y hacerte con el tesoro.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Pirate Pop is a fun and addictive bubble shooter game with a swashbuckling pirate theme. Your goal is to clear the screen of colorful bubbles by firing your cannon and matching three or more bubbles of the same color. Aim carefully, use the walls to make tricky bank shots, and create large chain reactions to drop big clusters of bubbles and claim the pirate treasure!
+1.  **Apunta alto para grandes caídas:** La forma más eficaz de conseguir
+    puntuaciones altas es reventar un grupo de burbujas que sostiene otras por
+    debajo. Así provocarás una gran avalancha, limpiando buena parte del
+    tablero de una vez y obteniendo un enorme combo.
+2.  **Usa las paredes:** Domina el tiro de rebote. Hacer que la burbuja choque
+    contra la pared lateral es clave para llegar a huecos difíciles y alcanzar
+    burbujas que están bloqueadas.
+3.  **Planifica con antelación:** El juego suele mostrarte la próxima burbuja
+    que saldrá del cañón. Sácale partido: si la burbuja actual no encaja bien,
+    úsala para preparar un mejor tiro para la siguiente.
+4.  **No dejes que te alcancen:** Las filas de burbujas descienden poco a poco.
+    Si alguna cruza la línea inferior de la pantalla, tu viaje se hunde.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Aim High for Big Drops:** The most effective way to score big is to pop a cluster of bubbles that is supporting other bubbles below it. This will cause a huge avalanche, clearing a large portion of the board at once and earning you massive combo points.
-2.  **[ES]** **Use the Walls:** Master the bank shot. Bouncing your bubble off the side walls is a crucial skill for reaching tight spots and hitting bubbles that are otherwise blocked.
-3.  **[ES]** **Plan Ahead:** The game usually shows you the next bubble in your cannon. Use this to your advantage. If your current bubble isn't a good match, see if you can use it to set up a better shot for the next one.
-4.  **[ES]** **Don't Let Them Reach You:** A line of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, your voyage is over!
+*   **Apuntar:** Mueve el ratón para orientar el cañón; una guía te muestra la
+    trayectoria del disparo.
+*   **Disparar:** Haz clic con el botón izquierdo del ratón para lanzar la
+    burbuja.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Aim:** Move your mouse to aim the cannon. A helpful guideline will show you where your bubble will go.
-*   **[ES]** **Shoot:** Click the left mouse button to fire the bubble.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Limpiar todas las burbujas del tablero y conseguir la mayor
+        puntuación posible.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo obtengo la máxima puntuación?**
+    *   **R:** Haciendo que caigan grandes racimos de burbujas de una sola vez.
+        Cuantas más burbujas derribes con un disparo, mayor será el bonus de
+        combo.
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** To clear all the bubbles from the board and achieve the highest score possible.
-
-*   **[ES]** **Q: How do I get the highest score?**
-    *   **[ES]** **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
-
-*   **[ES]** **Q: What if I can't make a match?**
-    *   **[ES]** **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
-
+*   **P: ¿Qué pasa si no puedo hacer una combinación?**
+    *   **R:** Te tocará hacer un disparo táctico. Intenta colocar la burbuja en
+        un sitio donde no estorbe o donde puedas eliminarla fácilmente más tarde
+        con otra combinación.

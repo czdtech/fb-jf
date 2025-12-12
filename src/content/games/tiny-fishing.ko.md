@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tiny-fishing
-title: '[KO] Tiny Fishing'
+title: "Tiny Fishing 타이니 피싱"
 description: >-
-  [KO] Tiny Fishing is a relaxing fishing game where players cast their line
-  into the depths, catch various fish species, and upgrade their equipment to
-  reach deeper waters and discover rare creatures.
+  낚싯줄을 깊은 바다로 던져 다양한 물고기를 낚고 장비를 업그레이드하는 캐주얼 낚시 게임입니다.
+  간단한 조작으로 힐링하면서도, 더 깊은 곳으로 내려가 희귀 어종을 모으는 수집의 재미를 느껴 보세요.
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/tiny-fishing.jpg
 tags:
@@ -17,35 +16,61 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
+"Tiny Fishing"은 낚싯줄을 던져 다양한 물고기를 낚고, 벌어들인 코인으로 장비를 업그레이드해 더 깊은
+수심을 공략하는 편안한 분위기의 낚시 게임입니다. 한 번에 여러 마리의 물고기를 끌어올리며, 새로운
+어종을 발견하고 기록을 갱신하는 과정이 게임의 핵심 재미입니다.
 
+조작은 매우 간단하지만, 라인 길이와 훅(바늘) 업그레이드를 어떻게 분배하느냐에 따라 수입과 진행
+속도가 크게 달라집니다. 틈틈이 즐기기 좋은 힐링 게임이면서도, 최적의 업그레이드 루트를 고민하는
+전략 요소가 함께 들어 있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Tiny Fishing" is a relaxing casual fishing game where players cast their line into the depths, catch various fish species, and upgrade their equipment to reach deeper waters and discover rare creatures. The game is beloved by players for its simple controls and relaxing gaming experience.
+1.  **낚싯줄 길이 우선 업그레이드**: 초반에는 특히 라인 길이를 먼저 올려 더 깊은 곳까지 내려가는
+    것이 중요합니다. 깊은 수심일수록 가치가 높은 물고기가 많이 나오므로, 같은 시간에 더 많은
+    코인을 벌 수 있습니다.
+2.  **훅 가치(한 번에 잡는 양) 강화**: 어느 정도 깊이를 확보했다면, 이제 한 번에 더 많은 물고기를
+    끌어올릴 수 있도록 훅 관련 업그레이드를 투자해 보세요. 한 번 캐스팅할 때마다 얻는 수익이 크게
+    늘어나 코인을 빠르게 모을 수 있습니다.
+3.  **오프라인 수익 활용하기**: Tiny Fishing은 게임을 끄고 있을 때도 일정 시간 동안 코인을
+    벌어들이는 오프라인 수익 시스템을 제공하는 경우가 많습니다. 장비를 적절히 강화해 두면, 잠시
+    자리를 비운 동안에도 코인이 쌓여 다음 플레이를 더 수월하게 만들어 줍니다.
+4.  **희귀 어종이 많은 깊은 구역 노리기**: 아래로 내려갈수록 더 비싸고 희귀한 물고기가 등장합니다.
+    라인 길이와 훅 업그레이드를 병행해, 가능한 한 깊은 곳에서 최대한 많은 물고기를 잡는 것이
+    장기적으로 가장 효율적입니다.
+5.  **낚시는 인내심 게임**: 모든 캐스팅이 대박이 되는 것은 아닙니다. 물고기가 잘 걸리지 않는
+    판이 있어도 조급해하지 말고, 천천히 패턴을 보면서 꾸준히 플레이하는 것이 좋습니다.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Upgrade Fishing Line**: Prioritize upgrading line length to reach deeper waters and catch rare fish.
-2.  **[KO]** **Increase Hook Value**: Upgrade hooks to increase earnings per catch, helping accumulate coins faster.
-3.  **[KO]** **Offline Earnings**: The game provides offline earning features, generating some coin income even when not playing.
-4.  **[KO]** **Rare Fish**: Deep water areas contain more rare and valuable fish, making equipment upgrades worthwhile.
-5.  **[KO]** **Be Patient**: Fishing requires patience; wait for fish to bite, then reel in at the right time.
+*   **캐스팅(낚싯줄 던지기)**: 화면을 클릭(또는 탭)해 낚싯줄을 던집니다. 타이밍에 따라 조금 더
+    멀리 또는 깊게 내려갈 수 있는 버전도 있습니다.
+*   **기다리기**: 낚싯줄이 내려가는 동안에는 물고기 밀집 구역을 파악하고, 어느 구간에서 많이
+    건질지 미리 머릿속으로 그려 보세요.
+*   **끌어올리기**: 낚싯줄이 다시 올라올 때, 라인에 닿는 물고기들이 자동으로 걸려 올라옵니다.
+    일부 버전에서는 올라오는 구간에서 좌우 이동으로 더 많은 물고기를 스치게 할 수 있습니다.
+*   **업그레이드하기**: 획득한 코인은 상점에서 라인 길이, 훅 수, 오프라인 수익 등 다양한 항목을
+    업그레이드하는 데 사용할 수 있습니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Cast Line**: Click to start casting the fishing line into water.
-*   **[KO]** **Wait**: Patiently wait for fish to bite, observing the fishing line dynamics.
-*   **[KO]** **Reel In**: When fish are hooked, click to reel them in.
-*   **[KO]** **Upgrade**: Use earned coins to upgrade equipment in the shop.
+1.  **Q: 코인을 더 빨리 모으려면 어떻게 해야 하나요?**  
+    **A:** 가치가 높은 물고기가 많은 깊은 구역을 공략하는 것이 핵심입니다. 초반에는 라인 길이를,
+    그다음에는 훅 관련 업그레이드를 우선적으로 투자해 한 번의 캐스팅으로 더 많은 수익을 얻도록
+    만드는 것이 좋습니다.
 
-### Frequently Asked Questions
+2.  **Q: 가끔 아무것도 못 잡거나, 물고기가 거의 안 걸리는 경우가 있어요.**  
+    **A:** 낚시 게임 특성상 운 요소가 존재합니다. 그런 판이 나오더라도 자연스러운 현상이니,
+    몇 번 더 시도하면서 물고기가 많은 구간을 찾아 보세요. 장비가 좋아질수록 실패 빈도도 줄어듭니다.
 
-1.  **[KO]** **Q: How can I get more coins?**
-**A**: Catch more fish, especially rare ones, and upgrade hook value to increase earnings.
-2.  **[KO]** **Q: Why don't I catch fish sometimes?**
-**A**: This is normal; fishing requires patience and luck, not every cast will yield results.
-3.  **[KO]** **Q: How are offline earnings calculated?**
-**A**: Based on your current equipment level and fishing efficiency; longer offline time means more earnings (with limits).
-4.  **[KO]** **Q: Does the game have an ending?**
-**A**: This is an endless casual game where you can continuously upgrade equipment to explore deeper waters.
+3.  **Q: 오프라인 수익은 어떻게 계산되나요?**  
+    **A:** 일반적으로 현재 장비 레벨과 낚시 효율에 따라 시간당 수익이 정해지고, 게임을 끈 시간에
+    비례해 일정량의 코인이 쌓이는 방식입니다. 다만 최대 적립 시간에는 상한이 있는 경우가 많으니,
+    너무 오래 방치하기보다는 적당한 주기로 접속해 보상을 수령하는 것이 좋습니다.
+
+4.  **Q: 이 게임에 엔딩이 있나요?**  
+    **A:** Tiny Fishing은 정해진 엔딩 없이, 장비를 계속 업그레이드하며 더 깊은 곳을 탐험하는
+    형태의 무한 캐주얼 게임에 가깝습니다. 희귀 어종을 모두 수집하거나, 스스로 목표를 정해 기록을
+    갱신하는 재미로 즐기면 좋습니다.

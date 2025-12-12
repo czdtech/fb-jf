@@ -1,60 +1,42 @@
 ---
+title: "Emoji With Friends 絵文字ウィズフレンズ"
+description: "「Emoji With Friends」は軽快なパーティーパズル。絵文字をマッチさせ、推理し、友達と競争しよう。表現豊かな絵文字ロジックで盛り上がれ。"
+iframeSrc: "https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/"
+thumbnail: "/new-images/emoji-with-friends.png"
+urlstr: "emoji-with-friends"
+score: "3.9/5  (1517 votes)"
+tags: ["puzzle", "casual", "2 player"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: emoji-with-friends
-title: '[JA TRANSLATION NEEDED] Emoji With Friends'
-description: >-
-  [JA TRANSLATION NEEDED] Emoji With Friends is a light party‑puzzle — match,
-  deduce, and race your friends with expressive emoji logic.
-iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
-thumbnail: /new-images/emoji-with-friends.png
-tags:
-  - puzzle
-  - casual
-  - 2 player
-score: 3.9/5  (1517 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Emoji With Friends（絵文字ウィズフレンズ）*は、素早いマッチングと軽い推理を組み合わせた、表現豊かな絵文字タイルを使ったゲームです。
+モードによって、セットを繋げたり、ミニゴールを達成したり、対戦相手より早くボードを解いたりします。短いラウンド、分かりやすいビジュアル、低い参加障壁により、パーティーゲームとして最適です。
 
-[JA TRANSLATION NEEDED] Emoji With Friends blends quick matching and light deduction using expressive emoji tiles. Depending on mode, you’ll connect sets, complete mini‑goals, or race an opponent to solve boards first. Short rounds, readable visuals, and low barrier to entry make it a friendly party pick.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **パターンをスキャン:** 頻繁に出現する絵文字セットを見つけて、素早くチェーンを作りましょう。
+2.  **目標を優先:** ラウンドに特定の目標がある場合、装飾的なマッチを追う前にそれを達成しましょう。
+3.  **相手を妨害（対戦時）:** 争奪戦になっているタイルを早めに取得して、相手のチェーンを遅らせましょう。
+4.  **ボードを開けておく:** 中央を散らかさないように。将来のマッチのためのスペースを残しておきましょう。
+5.  **ブーストのタイミング:** パワーアップは接戦の時や、ボードが詰まった時のために取っておきましょう。
 
-[JA TRANSLATION NEEDED] 1.  Scan patterns: Identify frequent emoji sets to build quick chains.
-[JA TRANSLATION NEEDED] 2.  Prioritize objectives: If a round has specific goals, complete them before chasing decorative matches.
-[JA TRANSLATION NEEDED] 3.  Deny opponents (vs): Claim contested tiles early to slow their chains.
-[JA TRANSLATION NEEDED] 4.  Keep the board open: Avoid cluttering the center; leave space for future matches.
-[JA TRANSLATION NEEDED] 5.  Time your boosts: Save power‑ups for tight races or to break board stalls.
+### 操作ガイド
 
-### Controls Guide
+*   **選択/マッチ:** 絵文字をクリック/タップして、モードのルールに従って有効な接続を作ります。
+*   **パワーアップ:** 画面上のボタンで発動します。
+*   **オンライン/ローカル:** モードによって異なりますが、多くはローカルでの短時間セッションです。
 
-- Select/Match: Click/tap emoji to make valid connections per mode rules.
-- Power‑ups (if any): Activate via on‑screen buttons.
-- Online/local: Modes vary; many are quick local sessions.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 対戦型ですか、それとも一人用ですか？**
+    *   **A:** モードによって異なります。ローカルでの1対1対戦が一般的です。
 
-- Is it competitive or solo? Modes vary; local head‑to‑head is common.
-- Are there complex rules? Generally simple—read each mode’s objective before starting.
+*   **Q: 複雑なルールはありますか？**
+    *   **A:** 一般的にシンプルです。各モードの目標を開始前に読んでおきましょう。
 
-### コントロールガイド
-- How long is a round? Usually under a couple of minutes, suitable for quick sessions.
-
-
-
-
-
-
-
-
-- How long is a round? Usually under a couple of minutes, suitable for quick sessions.
-- Are there complex rules? Generally simple—read each mode’s objective before starting.
-- Is it competitive or solo? Modes vary; local head‑to‑head is common.
-### よくある質問（FAQ）
-- Online/local: Modes vary; many are quick local sessions.
-- Power‑ups (if any): Activate via on‑screen buttons.
-
-
-- How long is a round? Usually under a couple of minutes, suitable for quick sessions.
+*   **Q: 1ラウンドはどのくらいですか？**
+    *   **A:** 通常2分以内で、サクッと遊べます。

@@ -1,71 +1,52 @@
 ---
-locale: ja
+title: Rooftop Snipers 2
+description: Rooftop Snipers 2は物理ベースのスナイパー対決です。狙い、射撃し、屋上から対戦相手をノックし、スナイパーチャンピオンになります。
+iframeSrc: 'https://rooftopsnipers2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+thumbnail: /new-images/rooftop-snipers-2.png
 urlstr: rooftop-snipers-2
-title: '[JA TRANSLATION NEEDED] Rooftop Snipers 2'
-description: >-
-  [JA TRANSLATION NEEDED] Rooftop Snipers 2 is a hilarious physics-based
-  shooting game where two stick figures battle on rooftops, trying to knock each
-  other off using various weapons with unpredictable ragdoll physics.
-iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
-thumbnail: /new-images/rooftop-snipers-2.jpg
+score: 4.3/5  (2567 votes)
 tags:
-  - shooting
-  - physics
-  - multiplayer
-score: 4.1/5  (546 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+  - 2 player
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Rooftop Snipers 2は、屋上での陽気な物理ベースのスナイパー対決を続けます。狙い、射撃し、ジャンプし、バランスを維持しながら対戦相手を屋根からノックします。シンプルなコントロール、混沌とした楽しみ。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **狙いを練習:" 物理が予測不可能です。
+2.  **ジャンプ��使用:" ショットを避け、バランスを調整します。
+3.  **タイミング:" 対戦相手の移動を予測します。
+4.  **カバーを使用:" 屋根の後ろに隠れます。
+5.  **冷静を保つ:" パニックは間違いにつながります。
+
+### 操作ガイド
+
+- W/I：ジャンプします。
+- E/O：射撃します。
+- バランスを維持し、対戦相手をノックします。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Rooftop Snipers 2" is a hilarious physics-based shooting game where two stick figures battle on rooftops, with the goal of using various weapons to knock opponents off the roof. The game features unpredictable ragdoll physics effects, making every battle full of surprises and fun.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Master Shooting Timing**: Learn to fire at the right moments, predicting opponent movement patterns.
-[JA TRANSLATION NEEDED] 2.  **Utilize Recoil**: Weapon recoil can affect character balance; learn to use or counteract these effects.
-[JA TRANSLATION NEEDED] 3.  **Maintain Balance**: Be careful to maintain balance near roof edges, avoiding accidental falls.
-[JA TRANSLATION NEEDED] 4.  **Weapon Selection**: Different weapons have different shooting characteristics; familiarize yourself with each weapon's pros and cons.
-[JA TRANSLATION NEEDED] 5.  **Psychological Tactics**: Use feints and fake movements to confuse opponents and create shooting opportunities.
-
-### How to Play
-
-*   **Movement**: Use left and right keys to control character movement.
-*   **Jump**: Use jump key to make character jump, useful for dodging or position adjustment.
-*   **Shoot**: Use shoot key to fire, paying attention to recoil effects after shooting.
-*   **Weapon Switch**: In some modes, you can switch between different weapons.
-
-
-- **Psychological Tactics**: Use feints and fake movements to confuse opponents and create shooting opportunities.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: How do I avoid falling off the roof myself?**
-### よくある質問
 - **Weapon Switch**: In some modes, you can switch between different weapons.
-- **Shoot**: Use shoot key to fire, paying attention to recoil effects after shooting.
-- **Jump**: Use jump key to make character jump, useful for dodging or position adjustment.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Movement**: Use left and right keys to control character movement.
-[JA TRANSLATION NEEDED] 1.  **Q: How do I avoid falling off the roof myself?**
+- **Q: これはオリジナルとどう違いますか？**  
+  A: より多くのキャラクター、マップ、武器。
+- **Q: マルチプレイヤーですか？**  
+  A: はい、ローカル2プレイヤーとAIモード。
+- **Q: 勝つための最良の戦略は何ですか？**  
+  A: 狙いを練習し、忍耐強く、カバーを使用します。
 
-- **Q: What are the differences between weapons?**
-[JA TRANSLATION NEEDED]     **A**: Control movement rhythm well, don't be too aggressive near edges, and pay attention to weapon recoil effects.
 
-- **Q: Can I play multiplayer?**
-[JA TRANSLATION NEEDED] 2.  **Q: What are the differences between weapons?**
+**A**: The game typically provides multiple different rooftop scenarios, each with unique layouts and challenges.
 
 - **Q: Are there different maps in the game?**
-[JA TRANSLATION NEEDED]     **A**: Various weapons differ in fire rate, power, accuracy, and recoil; choose according to the situation.
-[JA TRANSLATION NEEDED] 3.  **Q: Can I play multiplayer?**
-[JA TRANSLATION NEEDED]     **A**: Yes, the game supports local multiplayer mode where two players can battle on the same device.
-[JA TRANSLATION NEEDED] 4.  **Q: Are there different maps in the game?**
-[JA TRANSLATION NEEDED]     **A**: The game typically provides multiple different rooftop scenarios, each with unique layouts and challenges.
+
+
+**A**: The game typically provides multiple different rooftop scenarios, each with unique layouts and challenges.

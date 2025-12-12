@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: pick-a-lock
-title: '[DE] Pick a Lock'
+title: "Pick a Lock"
 description: >-
-  [DE] Pick a Lock tests timing and focus — stop the dial on markers, chain
-  perfect hits, and unlock increasingly tricky locks.
+  Pick a Lock testet Timing und Konzentration: Stoppe den Zeiger exakt auf den
+  Markierungen, reihe perfekte Treffer aneinander und öffne immer kniffligere
+  Schlösser.
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/pick-a-lock.jpg
 tags:
@@ -16,36 +17,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Pick a Lock ist ein minimalistisches Rhythmus- und Timing-Spiel. Ein Zeiger
+ wandert im Kreis um ein Schloss, und du musst genau in dem Moment tippen, in
+ dem er die markierten Punkte überquert. Spätere Schlösser bringen mehrere
+ Markierungen, engere Zeitfenster und manchmal sogar Richtungswechsel ins Spiel
+ – ruhige Nerven und ein gutes Gefühl für Takt sind hier Gold wert.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Rhythmus zählen:** Versuche, dich auf den Takt des Zeigers einzustellen
+    und eher „nach Gehör“ zu tippen als nur nach Sicht.
+2.  **Blick voraus:** Nutze dein peripheres Sehen – während du eine Markierung
+    triffst, solltest du die nächste bereits im Auge behalten.
+3.  **Störquellen minimieren:** Schalte ablenkende Geräusche aus und halte das
+    Gerät ruhig, damit du dich besser konzentrieren kannst.
+4.  **Nach Fehlschlag neu einpendeln:** Wenn du eine Markierung verpasst,
+    gönn dir einen kurzen Moment, um deinen inneren Rhythmus neu zu finden,
+    bevor du weiter tippst.
+5.  **Lieber minimal zu spät als zu früh:** In vielen Versionen verzeiht das
+    Spiel leicht verspätete Taps eher als zu frühe.
 
-Pick a Lock is a minimalist rhythm‑timing game: a dial sweeps around a lock, and you must tap exactly when it passes highlighted markers. Later locks add multiple markers, tighter windows, and reversed sweeps, rewarding calm focus.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Tippe oder klicke genau dann, wenn der Zeiger die Markierungen überdeckt;
+  manche Varianten unterstützen auch Tastatureingaben.
 
-1.  **[DE]** Count rhythm: Lock into the dial’s beat; tap on the beat rather than by eye alone.
-2.  **[DE]** Peripheral vision: Watch the next marker while tapping the current.
-3.  **[DE]** Noise control: Mute distractions and keep a steady posture for precision.
-4.  **[DE]** Recovery: If you miss, reset your cadence before the next marker.
-5.  **[DE]** Late‑tap bias: Slightly late taps are safer than early in many builds.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Ich tippe ständig zu früh – was hilft?**
+  
+  Bau dir innerlich eine kleine Verzögerung ein, z. B. zähle „eins-und-tap“
+  statt „eins-tap“.
 
-- Tap/click when the dial overlaps markers; some variants support key presses.
+- **F: Die Markierungen kommen zu schnell hintereinander.**
+  
+  Konzentriere dich immer nur auf die nächste Markierung und versuche nicht,
+  mehrere im Voraus im Kopf zu behalten.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m always early — fix?
-
-A: Add a tiny delay to your internal count; try “one‑and‑tap” instead of “one‑tap.”
-
-- Q: Markers stack fast.
-
-A: Focus on the next one only; don’t mentally hold more than one future target.
-
-- Q: Does FPS matter?
-
-A: Stable framerate helps; close other apps if timing feels inconsistent.
-
+- **F: Spielt die Framerate eine Rolle?**
+  
+  Eine stabile Bildrate hilft beim Timing. Schließe andere Anwendungen, wenn
+  das Spiel ruckelt oder sich ungenau anfühlt.

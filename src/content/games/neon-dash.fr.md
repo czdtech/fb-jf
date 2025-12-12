@@ -1,43 +1,41 @@
 ---
 locale: fr
-urlstr: neon-dash
-title: '[FR] Neon Dash'
-description: >-
-  [FR] Neon Dash is a fast precision runner — jump, dodge hazards, and time your
-  inputs to survive neon gauntlets.
-iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
-thumbnail: /new-images/neon-dash.png
-tags:
-  - action
-  - thinky
-score: 4.2/5  (1589 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "neon-dash"
+title: "Neon Dash"
+description: "Neon Dash est un runner de précision ultra dynamique : saute, évite les pièges et cale ton timing pour survivre à des parcours néon truffés d’obstacles."
+iframeSrc: "https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/"
+thumbnail: "/new-images/neon-dash.png"
+tags: ["action", "thinky"]
+score: "4.2/5  (1589 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Neon Dash est un runner basé sur les réflexes, rempli de pics, de plateformes et de pièges synchronisés avec la musique. Les niveaux misent sur la propreté du timing : petits sauts, impulsions tardives et rythme régulier sont indispensables pour traverser les séquences d’obstacles serrées. Selon le mode, tu joues avec checkpoints ou en « one‑shot » sans erreur possible.
 
+### Stratégies de jeu et progression
 
+1.  **Apprendre les arcs de saut :** entraîne‑toi à distinguer les petits et grands sauts (tap court / long) afin de gérer précisément la distance ; un saut déclenché légèrement plus tard évite souvent mieux les pics.  
+2.  **Lire les patterns :** observe quelques tentatives pour mémoriser les cycles de pièges, puis cale tes inputs sur un rythme constant.  
+3.  **Rester calme sur les chaînes :** pendant les séquences avec plusieurs obstacles consécutifs, concentre‑toi sur le tempo plutôt que sur chaque piège isolé.  
+4.  **Utiliser le son :** laisse‑toi guider par la musique ; souvent les temps forts coïncident avec les moments où il faut sauter.  
+5.  **Isoler les passages difficiles :** recommence un niveau en te focalisant sur la section la plus dure pour y construire ta mémoire musculaire.
 
-### Detailed Game Introduction
+### Commandes
 
-Neon Dash is a reflex‑driven runner filled with spikes, platforms, and pulsing traps. Levels emphasize clean timing—short hops, late jumps, and consistent rhythm help you pass tight obstacle sequences. Expect checkpointed stages or one‑shot clears depending on the mode.
+- Sauter : barre d’espace, clic ou tap (dans certaines versions, la durée d’appui influence la hauteur).  
+- Pause / recommencer : boutons à l’écran ou raccourcis clavier.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** Learn jump arcs: Practice short/long taps to fine‑tune distance; late jumps often clear spikes more safely.
-2.  **[FR]** Read patterns: Memorize trap cycles and attack them on consistent beats.
-3.  **[FR]** Stay calm on chains: For multi‑obstacle chains, commit to the rhythm instead of second‑guessing mid‑air.
-4.  **[FR]** Use sound cues: Music often maps to obstacles—let it guide your jump cadence.
-5.  **[FR]** Drill tough sections: Restart and isolate the hardest segment to build muscle memory.
+- **Q : Pourquoi je touche souvent les pics du bout du sprite ?**  
+  **R :** Tu sautes généralement trop tôt. Décale légèrement ton timing et garde une vitesse de déplacement fluide.
 
-### Controls Guide
+- **Q : Y a‑t‑il un double saut ?**  
+  **R :** Certains niveaux introduisent des plateformes spéciales ou des power‑ups ; suis les indications affichées à l’écran.
 
-- Jump: Space/Click/Tap (press length may vary height in some versions).
-- Pause/Retry: On‑screen controls or keyboard shortcuts.
-
-### Frequently Asked Questions (FAQ)
-
-- Why do I clip spikes? You’re jumping too early—delay slightly and keep momentum smooth.
-- Is there double jump? Some levels introduce special pads or toggles; follow on‑screen hints.
-- Any tip for late‑game? Slow down mentally, count beats, and commit to practiced timing windows.
+- **Q : Un conseil pour les derniers niveaux ?**  
+  **R :** Ralentis mentalement, compte les temps et reste fidèle au rythme que tu as appris lors de tes tentatives précédentes.
 

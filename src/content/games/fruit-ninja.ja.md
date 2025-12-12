@@ -1,42 +1,36 @@
 ---
+title: "Fruit Ninja"
+description: "アーケードスライシング：爆弾を避けながら飛んでくるフルーツをスワイプし、コンボとフレンジーブーストをチェインして高得点を目指しましょう。"
+iframeSrc: "https://emulatoros.github.io/gfile/fruitninja/"
+thumbnail: "/new-images/fruit-ninja.jpg"
+urlstr: "fruit-ninja"
+score: "4.3/5  (1027 votes)"
+tags: ["arcade", "action"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: fruit-ninja
-title: '[JA TRANSLATION NEEDED] Fruit Ninja'
-description: >-
-  [JA TRANSLATION NEEDED] Arcade slicing: swipe through flying fruit while
-  avoiding bombs; chain combos and frenzy boosts for higher scores.
-iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
-thumbnail: /new-images/fruit-ninja.jpg
-tags:
-  - arcade
-  - action
-score: 4.3/5  (1027 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+スワイプして空中のフルーツをスライスします。爆弾を避け、コンボとクリティカルを狙いましょう。モードはホストによって異なります（クラシック、アーケード、ゼン）。
 
+### 遊び方
+- 複数のフルーツを通る素早くクリーンなラインを描いてコンボポイントを獲得します。
+- 爆弾を通過させます。1つでも当てるとランが終了するか、大きく減点されます。
+- フレンジーバナナ（存在する場合）のタイミングを計って、大規模なチェーンを狙います。
 
-### Overview
-[JA TRANSLATION NEEDED] Swipe to slice fruit mid‑air. Avoid bombs and aim for combos and criticals. Modes vary by host (classic, arcade, zen).
+### 操作方法
+- マウス/タッチでスワイプしてスライスします。UIを介して一時停止/再試行します。
 
-### How to Play
-- Draw swift, clean lines through multiple fruit for combo points.
-- Let bombs pass; hitting one ends runs or deducts heavily.
-- Time frenzy bananas (when present) for massive chains.
+### ヒント
+- 1ストロークあたりできるだけ多くのフルーツの軌跡を交差させることを目指します。
+- 対角線のスワイプを使用します。より多くのスポーン弧を横切ります。
+- ゼンスタイルモードでは、爆弾が不在なので経路を最適化します。
 
-### Controls
-- Mouse/Touch swipes to slice; pause/retry via UI.
-
-### Tips
-- Aim to intersect as many fruit trajectories as possible per stroke.
-- Use diagonal swipes; they cross more spawn arcs.
-- In Zen‑style modes, optimize pathing since bombs are absent.
-
-### FAQ
-- Q: How do I score combos consistently?  
-[JA TRANSLATION NEEDED]   A: Wait half a beat to line up two or more fruit before swiping.
-- Q: What happens if I hit a bomb?  
-[JA TRANSLATION NEEDED]   A: Depending on mode, the run ends or you lose points/time.
-- Q: Are there different modes available?  
-[JA TRANSLATION NEEDED]   A: Many hosts include Classic, Arcade (with power‑ups), and Zen.
-
+### よくある質問 (FAQ)
+- **Q: 一貫してコンボを取るには？**  
+  A: スワイプする前に、2つ以上のフルーツを並べるために半拍待ちます。
+- **Q: 爆弾に当たるとどうなりますか？**  
+  A: モードによって、ランが終了するか、ポイント/時間を失います。
+- **Q: 異なるモードが利用可能ですか？**  
+  A: 多くのホストは、クラシック、アーケード（パワーアップ付き）、ゼンを含みます。

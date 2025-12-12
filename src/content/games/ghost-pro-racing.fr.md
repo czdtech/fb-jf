@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: ghost-pro-racing
-title: '[FR] Ghost Pro Racing'
-description: >-
-  [FR] Ghost Pro Racing is a time‑trial racer — chase ghost replays, perfect
-  lines, and shave tenths with consistent inputs.
+title: "Ghost Pro Racing"
+description: "Ghost Pro Racing est un jeu de course contre-la-montre : traque les ghosts, perfectionne tes trajectoires et grappille des dixièmes grâce à des entrées ultra régulières."
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
 thumbnail: /new-images/ghost-pro-racing.jpg
 tags:
@@ -16,35 +14,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Ghost Pro Racing met l’accent sur la régularité des tours rapides face à des replays fantômes. À chaque tour, tu apprends tes points de freinage, tes vitesses de corde et tes remises de gaz, tandis que le ghost te montre une trajectoire plus rapide. Des entrées propres, reproductibles et des repères stables valent mieux que des dive‑bombs risqués si tu veux battre ton meilleur temps.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Ghost Pro Racing emphasizes hot‑lap consistency against ghost replays. You’ll learn braking points, apex speeds, and throttle pickups while ghost cars show faster lines. Clean inputs and repeatable references beat risky dive‑bombs for stable PBs.
+1.  Repères visuels : choisis des points fixes sur le circuit (pancartes, marquages, ombres) pour freiner et tourner, plutôt que de ne regarder que le compteur de vitesse.
+2.  Corde tardive : tourne un poil plus tard pour redresser plus vite la voiture en sortie et pouvoir accélérer plus tôt.
+3.  Trail braking : garde une légère pression sur le frein au début du virage pour conserver du grip à l’avant.
+4.  Priorité à la sortie : une bonne sortie sur une longue ligne droite rapporte beaucoup plus que quelques km/h gagnés à l’entrée du virage.
+5.  Étudie le ghost : suis l’arc du ghost et repère où toi tu lèves le pied ou tournes trop tôt.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Landmarks: Pick fixed track markers for braking/turn‑in; avoid relying on speedometer alone.
-2.  **[FR]** Late apex: Turn a beat later to straighten exits and allow earlier throttle.
-3.  **[FR]** Trail braking: Bleed brake into early corner to keep front grip (light pressure).
-4.  **[FR]** Exit priority: A good exit onto long straights dwarfs small entry gains.
-5.  **[FR]** Ghost study: Follow the ghost’s arc; find where you’re lifting or turning too early.
+- Direction : `A` / `D` ou flèches gauche/droite.  
+- Accélérateur / frein : `W` / `S` ou flèches haut/bas.  
+- Redémarrer : `R`.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Steer: A/D or Left/Right.  Throttle/Brake: W/S or Up/Down.  Restart: R.
+- Q : Je pars souvent en glisse, comment corriger ça ?
+  
+  R : Tu tournes trop fort ou trop vite. Freine légèrement en entrée (trail braking) et relâche plus tôt l’angle de volant en sortie.
 
-### Frequently Asked Questions (FAQ)
+- Q : Est‑ce que je peux battre le ghost ?
+  
+  R : Oui. Concentre‑toi sur un secteur à la fois. Une fois devant, sécurise tes sorties au lieu de sur‑attaquer.
 
-- Q: I keep sliding — fix?
-
-A: You’re turning too much/too fast. Trail brake lightly and unwind steering sooner on exit.
-
-- Q: Can I beat the ghost?
-
-A: Yes — focus one sector at a time; once you’re ahead, maintain safe exits.
-
-- Q: Best training drill?
-
-A: Ten laps at 90% pace without spins to lock references, then push.
+- Q : Quel est le meilleur exercice d’entraînement ?
+  
+  R : Fais une dizaine de tours à 90 % de ta vitesse sans tête‑à‑queue pour ancrer tes repères, puis commence seulement à pousser plus fort.
 

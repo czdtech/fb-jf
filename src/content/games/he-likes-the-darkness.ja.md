@@ -1,69 +1,37 @@
 ---
+title: "He Likes The Darkness"
+description: "He Likes The Darknessは、雰囲気のあるプラットフォーマーです。影のあるステージを進み、オーブを集め、危険な場所を正確なジャンプで切り抜けましょう。"
+iframeSrc: "https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/"
+thumbnail: "/new-images/he-likes-the-darkness.png"
+urlstr: "he-likes-the-darkness"
+score: "4.1/5  (1972 votes)"
+tags: ["action", "puzzle"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: he-likes-the-darkness
-title: '[JA TRANSLATION NEEDED] He Likes The Darkness'
-description: >-
-  [JA TRANSLATION NEEDED] He Likes The Darkness is a moody platformer — navigate
-  shadowy stages, collect orbs, and time precise jumps through hazards.
-iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
-thumbnail: /new-images/he-likes-the-darkness.png
-tags:
-  - action
-  - puzzle
-score: 4.1/5  (1972 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+He Likes The Darknessは、ミニマリストでコントラストの強いプラットフォーマーです。低い視認性、動く罠、収集可能なオーブが、コンパクトなステージを特徴づけています。ジャンプの長さ、短い滞空（ストール）、勢いの維持をマスターすることで、気持ちの良いフローで鮮やかにクリアできます。
 
-[JA TRANSLATION NEEDED] He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibility, moving traps, and collectible orbs define compact stages. Mastering hop length, short stalls, and momentum preservation produces clean clears with satisfying flow.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **軽い偵察:** 行き過ぎないように、小さなジャンプを使って足場の端を確認しましょう。
+2.  **サイクルのタイミング:** 動くハザード（ノコギリ/トゲ）の完全なサイクル（周期）を一巡観察してから、行動に移りましょう。
+3.  **勢い（モメンタム）:** 完全に止まるのではなく、トントンとタップすることで微細な勢いを維持しましょう。
+4.  **オーブルート:** 安全に通過できる時にオーブを取りましょう。危険な後戻りを無理にしないでください。
+5.  **リトライのリズム:** 素早いリスタートは、難しい区間のマッスルメモリー（反復練習による記憶）を構築します。
 
-[JA TRANSLATION NEEDED] 1.  Light scouting: Use small hops to reveal platform edges without overcommitting.
-[JA TRANSLATION NEEDED] 2.  Cycle timing: Observe moving hazards (saws/spikes) for a full cycle, then commit.
-[JA TRANSLATION NEEDED] 3.  Momentum: Keep micro‑momentum through tap‑taps rather than full stops.
-[JA TRANSLATION NEEDED] 4.  Orb routing: Grab orbs on safe passes; don’t force risky backtracks.
-[JA TRANSLATION NEEDED] 5.  Retry rhythm: Fast restarts build muscle memory for tricky segments.
+### 操作ガイド
 
-### Controls Guide
+- **移動/ジャンプ:** 矢印キー/WASD + スペースキー。レベルのルールによってはダブルジャンプが可能です。
 
-- Move/Jump: Arrows/WASD + Space; occasional double‑jump per level rules.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I can’t see edges clearly — any tip?
-  
-[JA TRANSLATION NEEDED]   A: Feather short hops to probe boundaries; adjust brightness if available.
-
-- Q: Do I need all orbs?
-  
-[JA TRANSLATION NEEDED]   A: Some levels require them; otherwise they’re optional mastery goals.
-
-- Q: Any trick for moving saws?
-  
-
-
-
-
-
-- Q: I can’t see edges clearly — any tip?
-### よくある質問（FAQ）
-- Move/Jump: Arrows/WASD + Space; occasional double‑jump per level rules.
-### コントロールガイド
-- Retry rhythm: Fast restarts build muscle memory for tricky segments.
-[JA TRANSLATION NEEDED]   A: Count beats and move on the same phase each attempt to lock timing.
-
-
-
-
-
-
-A: Count beats and move on the same phase each attempt to lock timing.
-- Q: Any trick for moving saws?
-A: Some levels require them; otherwise they’re optional mastery goals.
-- Q: Do I need all orbs?
-
-
-A: Count beats and move on the same phase each attempt to lock timing.
+- **Q: 足場の端がはっきり見えません。コツは？**
+  A: 短いジャンプを小刻みに行って境界を探りましょう。可能であれば明るさを調整してください。
+- **Q: すべてのオーブが必要ですか？**
+  A: 一部のレベルでは必要ですが、それ以外では任意のやり込み要素（マスタリーゴール）です。
+- **Q: 動くノコギリのコツは？**
+  A: 拍子を数え、毎回同じフェーズ（局面）で動くことでタイミングを固定しましょう。

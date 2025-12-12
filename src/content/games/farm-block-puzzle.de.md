@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: farm-block-puzzle
-title: '[DE] Farm Block Puzzle'
+title: Farm Block Puzzle
 description: >-
-  [DE] A relaxing and fun block puzzle with a charming farm theme. Drag and drop
-  the block shapes onto the 10x10 grid to create full lines and clear them from
-  the board.
+  Ein entspanntes Blockpuzzle im gemütlichen Bauernhof-Look: Ziehe verschiedene
+  Formen auf das 10x10-Gitter, bilde vollständige Reihen und räume sie vom
+  Spielfeld.
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/farm-block-puzzle.png
 tags:
@@ -16,34 +16,55 @@ score: 4.4/5  (2400 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
+
+Farm Block Puzzle ist ein entspannendes, aber schnell süchtig machendes
+Puzzlespiel nach dem klassischen 10x10-Prinzip – eingebettet in eine
+liebenswerte Bauernhofkulisse. Dein Ziel ist es, verschiedene Blockformen
+strategisch auf einem 10x10-Gitter zu platzieren. Schaffst du es, eine Reihe
+oder Spalte vollständig zu füllen, wird sie gelöscht. Die Herausforderung: So
+lange wie möglich Platz für neue Formen zu behalten und dabei einen hohen Score
+zu erzielen.
+
+### Strategie & Tipps
+
+1. **Mit allen drei Formen planen:** Du bekommst immer drei Blöcke auf einmal.
+   Bevor du einen setzt, überlege, ob du für die beiden anderen noch sinnvolle
+   Plätze frei hast – sonst blockierst du dich schnell selbst.
+2. **Auf Kombos spielen:** Eine Linie zu löschen ist gut, mehrere auf einmal
+   sind besser. Versuche, deine Züge so zu planen, dass ein Block zwei oder
+   mehr Reihen/Spalten gleichzeitig komplettiert.
+3. **Board sauber halten:** Vermeide vereinzelte, schwer zu erreichende
+   Einzel-Lücken. Ein offenes, aufgeräumtes Spielfeld gibt dir mehr
+   Flexibilität für große, sperrige Formen.
+4. **Keine Rotationen:** Die Blöcke lassen sich nicht drehen – du musst sie in
+   der vorgegebenen Ausrichtung unterbringen. Genau darin liegt der Reiz des
+   Puzzles.
+
+### Steuerung
+
+- **Blöcke platzieren:** Ziehe mit Maus oder Finger eine Form aus der unteren
+  Leiste auf das 10x10-Gitter und lasse sie auf einem freien Bereich los.
 
 
+- **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
+### Häufige Fragen (FAQ)
 
-### Detailed Game Introduction
+- **F: Was ist das Ziel des Spiels?**  
+  **A:** Möglichst viele Punkte zu erzielen, indem du Blöcke so platzierst,
+  dass Linien gelöscht werden. Das Spiel endet, wenn keiner der drei aktuellen
+  Blöcke mehr auf das Feld passt.
 
-Farm Block Puzzle is a relaxing and addictive puzzle game based on the classic 10x10 formula, all set in a charming farm environment. The goal is to strategically place different block shapes onto a 10x10 grid. When you successfully form a complete line of blocks, either horizontally or vertically, the line will be cleared. The game challenges you to keep placing blocks and clearing lines for as long as possible to achieve a high score.
+    - **F: Kann ich Blöcke drehen?**  
+  **A:** Nein. Die Herausforderung besteht gerade darin, die Teile in ihrer
+  festen Ausrichtung clever einzubauen.
 
-### Gameplay Strategy & Walkthrough
+- **F: Wie komme ich zu hohen Punktzahlen?**  
 
-1.  **[DE]** **Plan for the Pieces You Have:** The game gives you three block shapes at a time. Before placing one, always consider if you have a viable spot for the other two. This prevents you from getting stuck with a piece that won't fit.
-2.  **[DE]** **Aim for Combos:** Clearing one line is good, but clearing multiple lines at once with a single piece is a "combo" and will give you a much higher score. Always look for opportunities to complete two or more lines simultaneously.
-3.  **[DE]** **Keep the Board Clean:** Try to avoid leaving single, isolated empty holes in your grid. A clean and open board gives you more flexibility to place larger and more awkward pieces later on.
-4.  **[DE]** **No Rotations:** Remember, the blocks cannot be rotated. You must use them in the orientation they are given, which is the core challenge of the puzzle.
+    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
 
-### Controls Guide
+- **Q: How do I get the highest score?**
 
-The game is played with a simple drag-and-drop mechanic.
-
-*   **[DE]** **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What is the objective of the game?**
-    *   **[DE]** **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.
-
-*   **[DE]** **Q: Can I rotate the blocks?**
-    *   **[DE]** **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
-
-*   **[DE]** **Q: How do I get the highest score?**
-    *   **[DE]** **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
-
+    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
+  **A:** Überlebe möglichst lange und spiele gezielt auf Kombos. Mehrere Linien
+  auf einmal zu löschen bringt deutlich mehr Punkte als viele einzelne Clears.

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: unpark-me
-title: '[ZH TRANSLATION NEEDED] Unpark Me'
+title: 'Unpark Me：停车场华容道'
 description: >-
-  [ZH TRANSLATION NEEDED] A classic sliding block puzzle with a parking lot
-  theme. Move the other cars and trucks out of the way to clear a path for the
-  red car to exit the crowded parking lot.
+  《Unpark Me》是一款经典“停车场华容道”益智游戏。你需要在拥挤的停车场中移动
+  其它车辆，为目标红色小车开辟一条通往出口的道路，用尽可能少的步数完成解谜。
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/unpark-me.png
 tags:
@@ -18,30 +17,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Unpark Me is a classic sliding block puzzle game, also known as a "parking jam" puzzle. You are presented with a crowded parking lot grid filled with cars and trucks. Your goal is to strategically slide the other vehicles out of the way to clear a path for the target car (usually the red one) to drive out of the exit. The game is a true test of logic and sequential thinking, challenging you to solve the puzzle in the fewest moves possible.
+《Unpark Me》是一款经典滑块解谜游戏，也常被称为“停车堵塞”或“停车场华容道”。
+屏幕上是一块被各种汽车、卡车塞满的停车场网格，你的任务是通过有序地滑动这些车辆，
+为目标车（通常是红色小车）开出一条通向出口的通路。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Identify the Blocker:** First, identify the cars that are directly blocking the red car's path to the exit.
-2.  [ZH TRANSLATION NEEDED] **Work Backwards:** To move the primary blocking car, you often need to move another car that is blocking *it*. Work backwards from the exit, clearing a path piece by piece.
-3.  [ZH TRANSLATION NEEDED] **Use Empty Space:** Efficiently using the empty spaces on the board is crucial. You will need to shuffle cars into temporary empty spots to make room to move the ones you really need to clear.
-4.  [ZH TRANSLATION NEEDED] **Aim for Fewest Moves:** While just solving the puzzle is the main goal, a secondary challenge is to do it in the minimum number of moves. This requires thinking several steps ahead and not making any unnecessary shifts.
+每一关都是一个严谨设计的逻辑谜题：
+你必须思考车辆之间的相互阻挡关系，安排移动顺序，
+在有限的空位中不断调度、临时挪车、再回位，最终让红色小车成功驶出停车场。
+想要真正精通这款游戏，不仅要能“解出来”，还要追求用尽可能少的步数完成挑战。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-[ZH TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
+1.  **先找出关键阻挡车辆：**
+    首先观察红车与出口之间有哪些车辆直接挡路，
+    它们就是你必须优先处理的“关键阻挡车”，后续的所有移动都围绕着让它们挪开展开。
+2.  **从出口反推解法：**
+    设想红车已经停在出口前，再倒推它需要经过的路径。
+    在这条路线上的每一辆车都需要提前挪动，
+    你可以按“出口 → 红车 → 阻挡车 → 阻挡阻挡车”的顺序反向思考。
+3.  **善用空位作中转站：**
+    停车场中的空格非常宝贵，它们就像临时仓库。
+    不要随便占满所有空位，可以先把不重要的车移到角落，
+    保留一两个关键空格，用来周转必须移动的车辆。
+4.  **追求更少步数：**
+    第一次通关可以先不在意步数，先熟悉结构。
+    之后再回头挑战“最少移动解”，尽量避免多余的前后移动，
+    多做几次你会发现自己的观察力和规划能力都有明显提升。
 
-*   **Move a Vehicle:** Click and hold on any car or truck. You can only slide it forwards and backwards along its current orientation (either horizontally or vertically). Drag it into an empty space to move it.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+《Unpark Me》采用非常直观的拖拽操作：
 
-*   **Q: What is the objective?**
-     *   **A:** To slide the red car out through the exit on the side of the grid.
+*   **移动车辆：** 点击并按住任意一辆车或卡车，
+    根据其朝向只能沿水平或垂直方向前后滑动，将它拖动到空位中即可完成一次移动。
 
-*   **Q: Why can't I move a car sideways?**
-     *   **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
+### 常见问题（FAQ）
 
-*   **Q: I'm completely stuck. What can I do?**
-     *   **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
+*   **问：游戏的最终目标是什么？**
+    *   **答：** 目标是让红色小车从被堵死的停车场中成功开出，
+        也就是把它移动到网格边缘标记出口的位置。
 
+*   **问：为什么有的车只能直进直退，不能横向移动？**
+    *   **答：** 这是这类滑块谜题的核心规则：车辆只能沿着车身方向前后移动，
+        不能转向或横移，这也是关卡难度和解法深度的来源。
+
+*   **问：实在解不出来怎么办？**
+    *   **答：** 很多版本都会提供“提示”或“自动求解”功能，
+        可以用来学习关键步数的思路。或者你也可以点击重置按钮，
+        从头再来一次，换个角度重新规划车辆顺序。

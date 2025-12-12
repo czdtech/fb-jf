@@ -1,83 +1,41 @@
 ---
+title: "Mahjong Classic"
+description: "麻雀クラシックの時代を超越したパズルをお楽しみください。同一で、ブロックされていないタイルのペアをマッチして、この戦略と観察のリラックスしたゲームでボードをクリアします。"
+iframeSrc: "https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/"
+thumbnail: "/new-images/mahjong-classic.png"
+urlstr: "mahjong-classic"
+score: "4.6/5  (2900 votes)"
+tags: ["puzzle", "thinky", "casual", "card"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: mahjong-classic
-title: '[JA TRANSLATION NEEDED] Mahjong Classic'
-description: >-
-  [JA TRANSLATION NEEDED] Enjoy the timeless puzzle of Mahjong Classic. Match
-  pairs of identical, unblocked tiles to clear the board in this relaxing game
-  of strategy and observation.
-iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
-thumbnail: /new-images/mahjong-classic.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-  - card
-score: 4.6/5  (2900 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+麻雀クラシックは、麻雀タイルのセットを使用する時代を超越したシングルプレイヤーパズルゲームです。目標は、伝統的な麻雀のように勝利ハンドを形成することではなく、同一のペアを見つけてマッチすることで、タイルの積み重ねられたレイアウトを体系的にクリアすることです。これは、観察スキルと戦略的思考をテストするゲームで、リラックスしながらも魅力的な精神的なワークアウトを提供します。
 
-[JA TRANSLATION NEEDED] Mahjong Classic is the timeless single-player puzzle game that uses a set of Mahjong tiles. The goal is not to form winning hands as in traditional Mahjong, but to systematically clear a stacked layout of tiles by finding and matching identical pairs. It’s a game that tests your observation skills and strategic thinking, providing a relaxing yet engaging mental workout.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **フリータイルのルール:** 「フリー」なタイルのみを選択してマッチできます。タイルは、別のタイルによってブロックされることなく左または右に移動でき、その上に他のタイルがない場合、フリーと見なされます。
+2.  **戦略的マッチング:** 最初に見たペアをマッチするだけではありません。どのマッチが最も多くの新しいタイルを開くかを考えてください。ボードの重く積み重ねられた領域をアンブロックするペアを優先することは、成功の鍵です。
+3.  **複数を慎重に扱う:** 3つまたは4つの同一のフリータイルが見える場合、一時停止してどのペアをマッチするかを考えます。間違った選択は、他のペアを永久にブロックする可能性があります。将来の移動に最も有益なペアを選択します。
+4.  **フラワーとシーズンタイル:** 任意のフラワータイルは他の任意のフラワータイルとマッチでき、シーズンタイルも同様です。同一である必要はありません。特に行き詰まった場合、これらの柔軟なマッチをあなたの利点に使用します。
 
-[JA TRANSLATION NEEDED] 1.  **The Rule of Free Tiles:** You can only select and match tiles that are "free." A tile is considered free if it can be moved left or right without being blocked by another tile, and it has no other tiles sitting on top of it.
-[JA TRANSLATION NEEDED] 2.  **Strategic Matching:** Don't just match the first pair you see. Think about which matches will open up the most new tiles. Prioritizing pairs that unblock heavily stacked areas of the board is key to success.
-[JA TRANSLATION NEEDED] 3.  **Handle Multiples with Care:** If you see three or four identical free tiles, pause and consider which pair to match. The wrong choice could leave the other pair blocked permanently. Choose the pair that will be most beneficial for future moves.
-[JA TRANSLATION NEEDED] 4.  **Flower and Season Tiles:** Remember that any Flower tile can be matched with any other Flower tile, and the same goes for Season tiles. They don't need to be identical. Use these flexible matches to your advantage, especially when you're stuck.
+### 操作ガイド
 
-### Controls Guide
+ゲームは、シンプルなマウスクリックまたはタップでプレイされます。
 
-[JA TRANSLATION NEEDED] The game is played with simple mouse clicks or taps.
+*   **選択とマッチ:** フリータイルをクリックして強調表示します。次に、別の同一のフリータイルをクリックして、両方をボードから削除します。
+*   **ヒント/シャッフル:** ほとんどのバージョンには、可能なマッチを表示する「ヒント」ボタンと、移動が利用できない場合にタイルを再配置する「シャッフル」ボタンが含まれます。
 
-*   **Select & Match:** Click on a free tile to highlight it. Then, click on another identical, free tile to remove both from the board.
-    - **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.（日本語訳が必要）
-    - **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.（日本語訳が必要）
-    - **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.（日本語訳が必要）
-    - **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.（日本語訳が必要）
-    - **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.（日本語訳が必要）
-    - **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.（日本語訳が必要）
-*   **Hints/Shuffle:** Most versions include a "Hint" button to show you a possible match and a "Shuffle" button to rearrange the tiles if no moves are available.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: なぜタイルをクリックできないのですか？**
+    *   **A:** タイルは「フリー」ではありません。左右の両側で他のタイルによってブロックされているか、その上に別のタイルが横たわっています。
 
-*   **Q: Why can't I click on a tile?**
-[JA TRANSLATION NEEDED]     *   **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.
+*   **Q: ゲームの目標は何ですか？**
+    *   **A:** 目標は、ペアでマッチすることで、ボードからタイルの100%をクリアすることです。
 
-*   **Q: What is the goal of the game?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
-
-*   **Q: I have no more moves. Is the game over?**
-
-
-
-
-
-
-
-
-    - **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
-- **Q: I have no more moves. Is the game over?**
-    - **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
-- **Q: What is the goal of the game?**
-    - **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.
-- **Q: Why can't I click on a tile?**
-### よくある質問（FAQ）
-- **Hints/Shuffle:** Most versions include a "Hint" button to show you a possible match and a "Shuffle" button to rearrange the tiles if no moves are available.
-
-
-
-
-
-    - **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
-- **Q: I have no more moves. Is the game over?**
-    - **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
-- **Q: What is the goal of the game?**
-    - **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.
-[JA TRANSLATION NEEDED]     *   **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
-
+*   **Q: もう移動がありません。ゲームは終わりですか？**
+    *   **A:** 必ずしもそうではありません。これ以上ペアをマッチできない場合、ゲームは通常、残りのタイルを再配置して新しい可能性を作成する「シャッフル」オプションを提供します。

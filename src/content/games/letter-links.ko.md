@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: letter-links
-title: '[KO] Letter Links'
+title: Letter Links 레터 링크 퍼즐
 description: >-
-  [KO] A daily word-building challenge. Place your letter tiles on the board to
-  form high-scoring words, utilize bonus squares, and connect all your letters
-  in a single group.
+  주어진 알파벳 타일로 보드를 채우는 단어 퍼즐 'Letter Links' 가이드입니다. 보너스 칸을 활용해 고득점 단어를 만들고, 모든
+  글자를 하나의 연결된 그룹으로 배치해 보세요.
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/letter-links.png
 tags:
@@ -18,37 +17,65 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Letter Links*는 스크래블류 보드 게임과 비슷한 **전략형
+단어 만들기 퍼즐**입니다. 매일 새로운 알파벳 타일 세트를
+받게 되며, 각 타일에는 점수가 부여되어 있습니다.
 
-Letter Links is a strategic word-building game that shares similarities with Scrabble. Each day, you are given a new set of letter tiles, each with a point value. Your goal is to place these tiles on a game board to form valid, interconnected words, much like a crossword puzzle. By strategically utilizing high-value letters and special bonus squares on the board, you aim to achieve the highest possible score.
+플레이어는 이 타일들을 보드 위에 배치해 가로·세로로 유효한
+단어를 만들고, 모든 타일이 하나의 연결된 그룹을 이루도록
+배치해야 합니다. 점수는 글자 값과 보너스 칸 활용에 따라
+달라집니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Know Your Bonuses:** The key to a high score is using the bonus squares effectively.
-    *   **[KO]** **DL (Double Letter):** Doubles the point value of the letter placed on it.
-    *   **[KO]** **TL (Triple Letter):** Triples the point value of the letter placed on it.
-    *   **[KO]** **DW (Double Word):** Doubles the score of the entire word that uses this square.
-    *   **[KO]** **TW (Triple Word):** Triples the score of the entire word that uses this square.
+1. **보너스 칸 이해하기**  
+    - **DL**: 해당 칸에 놓인 글자의 점수를 2배로 만듭니다.  
+    - **TL**: 해당 글자의 점수를 3배로 만듭니다.  
+    - **DW**: 이 칸을 사용하는 단어 전체 점수를 2배로 만듭니다.  
+    - **TW**: 단어 전체 점수를 3배로 만듭니다.
 
-2.  **[KO]** **Build Around the Center:** The game requires that the center star square must be occupied. Start your first word there.
-3.  **[KO]** **Create Overlaps:** Don't just build one long word. The best way to score is to make a move that forms multiple words at once. For example, placing a tile that simultaneously completes a horizontal word and forms a new vertical word.
-4.  **[KO]** **Use High-Value Letters Wisely:** Save your high-value letters (like Z, Q, J, X) to be placed on bonus squares like DL, TL, DW, or TW to maximize their impact.
+2. **중앙에서 시작하기**  
+   첫 단어는 반드시 중앙의 별 칸을 지나야 합니다. 이 칸을
+   활용해 초반부터 높은 점수를 노려 보세요.
 
-### Controls Guide
+3. **교차 단어 만들기**  
+   한 번에 하나의 긴 단어만 만드는 것보다, 한 타일로
+   가로·세로 두 단어를 동시에 완성하면 훨씬 많은 점수를
+   얻을 수 있습니다.
 
-*   **[KO]** **Place Tiles:** Click and drag a letter tile from your rack at the bottom to a square on the game board.
-*   **[KO]** **Recall Tiles:** You can drag a placed tile back to your rack before submitting if you change your mind.
-*   **[KO]** **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
+4. **고득점 글자 아껴 쓰기**  
+   Z, Q, J, X 등 점수가 높은 글자는 DL/TL/DW/TW처럼
+   보너스 칸과 함께 사용할 수 있을 때까지 아껴 두는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: Why was my word rejected?**
-    *   **[KO]** **A:** There are a few possibilities: 1) It's not a valid word in the game's dictionary. 2) Not all of your placed tiles are connected in a single group. 3) The center star square was not used.
+- **타일 배치**: 하단 랙에서 타일을 드래그해 보드 칸에
+  놓습니다. 마음이 바뀌면 다시 랙으로 끌어오면 됩니다.  
+- **제출**: 단어 배치를 마쳤다면 `Submit Words` 버튼을 눌러
 
-*   **[KO]** **Q: How are points calculated?**
-    *   **[KO]** **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
+- **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
+  점수를 확정합니다.
 
-*   **[KO]** **Q: Can I play diagonally?**
-    *   **[KO]** **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
+### 자주 묻는 질문(FAQ)
+
+- **Q: 단어가 거부된 이유가 뭔가요?**  
+  **A:** 사전에 없는 단어이거나, 새로 놓은 타일들이 하나의
+  연결 그룹을 이루지 않았거나, 중앙 별 칸을 사용하지 않았을
+  수 있습니다.
+
+    - **Q: 점수는 어떻게 계산되나요?**  
+  **A:** 각 글자 점수를 더한 뒤, DL/TL 등의 글자 보너스를
+  먼저 적용하고, 이후 DW/TW 같은 단어 보너스를 곱합니다.
+
+- **Q: 대각선 단어도 되나요?**  
+
+    - **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
+
+- **Q: Can I play diagonally?**
+
+    - **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
+  **A:** 아니요. 모든 단어는 가로(왼→오) 또는 세로(위→아래)로만
+  형성되어야 합니다.
 

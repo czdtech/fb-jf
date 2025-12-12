@@ -1,70 +1,50 @@
 ---
-locale: ja
+title: One Line
+description: One Lineは一筆書きパズルゲームです。形状を一筆で描き、論理的に考え、挑戦的なレベルをマスターします。
+iframeSrc: 'https://oneline.h5games.usercontent.goog/v/6m9k2j8h7p3n8/'
+thumbnail: /new-images/one-line.png
 urlstr: one-line
-title: '[JA TRANSLATION NEEDED] One Line'
-description: >-
-  [JA TRANSLATION NEEDED] One Line is a minimalistic puzzle game where players
-  draw a single continuous line to connect all given points on the board without
-  lifting their finger or retracing any path.
-iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
-thumbnail: /new-images/one-line.jpg
+score: 4.3/5  (2234 votes)
 tags:
   - puzzle
-  - logic
-  - minimalist
-score: 3.9/5  (549 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+One Lineは、単一の連続した線で形状を描くことに挑戦するクラシックな一筆書きパズルです。すべてのエッジをトレースしますが、線を引き直したり交差したりすることはできません。シンプルなコンセプト、深い挑戦。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **奇数ノードを数える:** 0または2つの奇数ノード = 解決可能。
+2.  **終点を見つける:** 奇数数のエッジを持つノードから始めます。
+3.  **パスを計画:** 線を引く前に全体のルートを精神的にトレースします。
+4.  **行き止まりを避ける:** 戻れない場所に早期に終わらないでください。
+5.  **グラフ理論:** これはオイラーパスパズルです！
+
+### 操作ガイド
+
+- ノードをクリック/タップしてドラッグして線を描きます。
+- すべてのエッジを一筆でトレースします。
+- 線を引き直さないでください。
+
+### よくある質問 (FAQ)
+
+- **Q: すべてのパズルは解決可能ですか？**  
+  A: はい、与えられたものはすべて。
+- **Q: どこから始めるべきですか？**  
+  A: 奇数数の接続を持つノードから。
+- **Q: 解決不可能なパズルを識別するにはどうすればよいですか？**  
+  A: 2つ以上の奇数ノードは解決不可能です（このゲームでは与えられません）。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "One Line" is a minimalist puzzle game. Players' task is to draw a single continuous line to connect all given points on the board without lifting their finger or retracing any path. The game aims to train players' logical thinking and spatial perception, with difficulty gradually increasing as levels progress.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Observe Paths**: Before starting to draw, carefully observe all points and their potential connections to plan the optimal path.
-[JA TRANSLATION NEEDED] 2.  **Find Starting Point**: Try starting from different points; sometimes a specific starting point can make solving the puzzle easier.
-[JA TRANSLATION NEEDED] 3.  **Avoid Dead Ends**: In some cases, if a point has only one exit, it often means that path must be taken.
-[JA TRANSLATION NEEDED] 4.  **Utilize Symmetry**: If the board has a symmetrical structure, try to use this symmetry to aid in solving.
-[JA TRANSLATION NEEDED] 5.  **Practice More**: Practice makes perfect; through extensive practice, you will gradually grasp the tricks and patterns for solving.
-
-### How to Play
-
-*   **Start Drawing**: Click any point as the starting point, then drag the mouse or finger (on touch devices) to connect to the next point.
-*   **Connect Points**: Ensure each move connects to a new, unvisited point.
-*   **Reset Level**: If you make a mistake or get stuck, you can click the reset button to restart the current level.
-
-
-
-- **Practice More**: Practice makes perfect; through extensive practice, you will gradually grasp the tricks and patterns for solving.
-- **Utilize Symmetry**: If the board has a symmetrical structure, try to use this symmetry to aid in solving.
-### Frequently Asked Questions
-
-
-
-
-
-
-- **Q: What is the objective of the game?**
-### よくある質問
-- **Reset Level**: If you make a mistake or get stuck, you can click the reset button to restart the current level.
-- **Connect Points**: Ensure each move connects to a new, unvisited point.
-
-### よくある質問
-- **Start Drawing**: Click any point as the starting point, then drag the mouse or finger (on touch devices) to connect to the next point.
-[JA TRANSLATION NEEDED] 1.  **Q: What is the objective of the game?**
-
-- **Q: Are there any hints if I get stuck?**
-[JA TRANSLATION NEEDED]     **A**: The objective is to connect all points on the board with a single continuous line, without retracing any path.
-
-- **Q: How many levels does the game have?**
-[JA TRANSLATION NEEDED] 2.  **Q: Are there any hints if I get stuck?**
+**A**: Yes, this game helps develop children's logical thinking and problem-solving skills, suitable for players of all ages.
 
 - **Q: Is this game suitable for children?**
-[JA TRANSLATION NEEDED]     **A**: Some game versions may offer a hint feature to help players find the next correct move.
-[JA TRANSLATION NEEDED] 3.  **Q: How many levels does the game have?**
-[JA TRANSLATION NEEDED]     **A**: It usually contains hundreds or even thousands of levels, gradually increasing in challenge from simple to complex.
-[JA TRANSLATION NEEDED] 4.  **Q: Is this game suitable for children?**
-[JA TRANSLATION NEEDED]     **A**: Yes, this game helps develop children's logical thinking and problem-solving skills, suitable for players of all ages.
+
+
+**A**: Yes, this game helps develop children's logical thinking and problem-solving skills, suitable for players of all ages.

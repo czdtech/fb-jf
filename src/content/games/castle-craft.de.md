@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: castle-craft
-title: '[DE] Castle Craft'
+title: "Castle Craft"
 description: >-
-  [DE] Embark on a merge-and-build adventure in Castle Craft. Combine items to
-  gather resources, complete quests, and expand your kingdom from a humble
-  garden into a grand medieval empire.
+  Brich in Castle Craft zu einem Merge-und-Bau-Abenteuer auf. Kombiniere Items,
+  sammle Ressourcen, erfülle Quests und verwandle deinen kleinen Garten nach und
+  nach in ein großes mittelalterliches Königreich.
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/'
 thumbnail: /new-images/castle-craft.png
 tags:
@@ -17,37 +17,65 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Castle Craft* ist ein fesselndes Merge-und-Aufbau-Puzzlespiel, in dem du ein
+kleines Stück Land Schritt für Schritt in ein prächtiges mittelalterliches
+Königreich verwandelst. Im Kern steht der klassische "Merge-3"-Mechanismus:
+Du kombinierst drei oder mehr gleiche Objekte, um daraus eine höherstufige
+Variante zu erschaffen.
 
-### Detailed Game Introduction
+Indem du Ressourcen wie Weizen, Holz oder Stein geschickt zusammenführst,
+erfüllst du Quests, verdienst Währung und lichtest den Nebel, der neue
+Gebiete verbirgt. So wächst dein Reich mit jeder Fusion weiter.
 
-Castle Craft is a captivating merge-and-build puzzle game where players embark on a journey to transform a modest plot of land into a magnificent medieval kingdom. The core gameplay revolves around the classic "merge-3" mechanic: combining three or more identical items to create a single, more advanced item. By strategically merging resources like wheat, wood, and stone, players can fulfill quests, earn valuable currency, and lift the fog to unlock new territories, gradually revealing a sprawling and prosperous empire.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  Merge-5 meistern: Auch wenn das Kombinieren von drei Objekten die
+    Grundregel ist, solltest du möglichst auf Fünfer-Merges hinarbeiten. Fünf
+    gleiche Items gleichzeitig zu verschmelzen bringt dir oft einen zusätzlichen
+    Bonus-Gegenstand und beschleunigt deinen Fortschritt spürbar.
+2.  Spielfeld ordnen: Lass dein Land nicht im Chaos versinken. Halte gleiche
+    Objekte beisammen, damit du große Merges leichter erkennst und planen
+    kannst. Nutze freie Felder bewusst als Rangierfläche.
+3.  Quests im Blick: Deine Questliste ist der rote Faden. Wenn du Aufträge und
+    Bestellungen der Dorfbewohner erfüllst, erhältst du Schlüssel und Münzen –
+    unverzichtbar, um neues Land freizuschalten und die Geschichte voran-
+    zutreiben.
+4.  Ressourcen fokussieren: Oft musst du entscheiden, welche Ressource gerade
+    Vorrang hat. Brauchst du für eine Quest hochstufigen Stein, reserviere einen
+    Bereich speziell für Stein-Merges, statt alles gleichzeitig halbherzig zu
+    entwickeln.
+5.  Land klug freischalten: Hast du genug Schlüssel, kannst du neue
+    Nebelfelder öffnen. Bevorzuge Bereiche, die dir viel Baufläche geben oder
+    klar erkennbare Questobjekte freilegen.
 
-1.  **[DE]** **Master the Merge-5:** While merging three items is the basic rule, always try to merge five identical items at once. A "merge-5" rewards you with a bonus, often an extra higher-level item, which significantly speeds up your progress.
-2.  **[DE]** **Organize Your Board:** Don't let your land get cluttered. Keep similar items grouped together to make it easier to spot and execute large merges. Use open space strategically to maneuver items.
-3.  **[DE]** **Focus on Quests:** Pay close attention to the quest log. Fulfilling quests and villager orders is the primary way to earn keys and coins, which are essential for unlocking new land and advancing the story.
-4.  **[DE]** **Resource Management:** At times, you will need to decide which resource to focus on. If a quest requires high-level stone, dedicate a portion of your board to merging stone from basic rocks up to the required level. Don't spread your efforts too thin.
-5.  **[DE]** **Unlock Land Wisely:** When you have enough keys, you can unlock a new patch of fog-covered land. Prioritize unlocking areas that give you the most building space or seem to lead towards critical quest items.
+### Steuerung
 
-### Controls Guide
+Das Spiel wird komplett mit Maus oder Touch gesteuert.
 
-The game is controlled entirely with a mouse or touch screen.
+*   Objekte mergen: Ziehe ein Item auf mindestens zwei identische Items, um sie
+    zu kombinieren.
+*   Objekte verschieben: Ziehe ein Objekt auf ein leeres Feld, um es dort zu
+    parken.
+*   Infos anzeigen: Klicke ein Item an, um Namen und Stufe zu sehen.
+*   Ressourcen einsammeln: Klicke auf automatisch erscheinende Ressourcen (z.
+    B. Weizen vom Feld), um sie deinem Vorrat hinzuzufügen.
 
-*   **[DE]** **Merge Items:** Click and drag an item onto at least two other identical items to perform a merge.
-*   **[DE]** **Move Items:** Drag an item to an empty tile to move it.
-*   **[DE]** **View Item Info:** Click on an item to see its name and level.
-*   **[DE]** **Collect Resources:** Click on resources that spawn automatically (like wheat from a field) to collect them.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   F: Was ist das Hauptziel in Castle Craft?
+    *   A: Du sollst dein Königreich wiederaufbauen, indem du Items mergst,
+        Quests für deine Bewohner erfüllst und den Nebel vertreibst, um neue
+        Gebiete freizuschalten.
 
-*   **[DE]** **Q: What is the main goal of Castle Craft?**
-    *   **[DE]** **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.
+*   F: Wie bekomme ich mehr Schlüssel zum Freischalten von Land?
+    *   A: Schlüssel erhältst du hauptsächlich durch abgeschlossene Quests und
+        Handelsaufträge. Konzentriere dich auf diese Aufgaben, wenn du neue
+        Sektoren öffnen möchtest.
 
-*   **[DE]** **Q: How do I get more keys to unlock land?**
-    *   **[DE]** **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
-
-*   **[DE]** **Q: What's the difference between merging 3 and merging 5?**
-    *   **[DE]** **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
-
+*   F: Worin liegt der Unterschied zwischen Merge-3 und Merge-5?
+    *   A: Merge-3 gibt dir ein einziges höherstufiges Item. Bei Merge-5
+        erhältst du zwei davon und damit effektiv eines gratis. Wann immer es
+        möglich ist, lohnt es sich zu warten, bis du fünf gleiche Objekte
+        zusammenführen kannst.

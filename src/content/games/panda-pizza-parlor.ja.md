@@ -1,83 +1,49 @@
 ---
-locale: ja
-urlstr: panda-pizza-parlor
-title: '[JA TRANSLATION NEEDED] Panda Pizza Parlor'
-description: >-
-  [JA TRANSLATION NEEDED] Step into the Panda Pizza Parlor and serve up
-  delicious pizzas to hungry customers! Manage your time, get the orders right,
-  and build a pizza empire.
-iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
+title: Panda Pizza Parlor
+description: Panda Pizza Parlorは楽しいレストラン管理ゲームです。ピザを作り、顧客にサービスを提供し、ストアを拡大し、パンダビジネスを運営します。
+iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/panda-pizza-parlor.png
+urlstr: panda-pizza-parlor
+score: 4.1/5  (1823 votes)
 tags:
   - casual
-  - action
-  - clicker
-score: 4.7/5  (2150 votes)
+  - thinky
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Panda Pizza Parlorは、あなたがパンダとしてピザレストランを運営するチャーミングな管理ゲームです。注文を受け、ピザを作り、顧客にサービスを提供し、お金を集め、ビジネスを拡大します。
 
-[JA TRANSLATION NEEDED] Welcome to Panda Pizza Parlor, a charming and fast-paced cooking game where you run your very own pizza shop! As the head panda chef, your job is to take orders, prepare delicious pizzas with the correct toppings, bake them to perfection, and serve them to a variety of hungry animal customers. Manage your time effectively to keep your customers happy, earn money, and grow your pizza business from a humble parlor into a world-famous pizzeria.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **注文を記憶:** 顧客の要求を追跡します。
+2.  **効率的に作業:** 複数のピザを準備するために移動を最小限に抑えます。
+3.  **賢くアップグレード:** 速度と容量のアップグレードに焦点を当てます。
+4.  **顧客を幸せに:** より速いサービスはより良いチップを意味します。
+5.  **時間を管理:** 営業時間内にできるだけ多くサービスを提供します。
 
-[JA TRANSLATION NEEDED] 1.  **Check the Order:** As soon as a customer arrives, look at the bubble above their head to see what kind of pizza they want. Pay close attention to the toppings.
-[JA TRANSLATION NEEDED] 2.  **Prepare the Pizza:** Start by grabbing a dough ball. Add the tomato sauce, and then apply the specific toppings the customer requested.
-[JA TRANSLATION NEEDED] 3.  **Bake to Perfection:** Place the pizza in the oven. Keep an eye on the timer! An undercooked or burnt pizza will make your customers unhappy.
-[JA TRANSLATION NEEDED] 4.  **Serve Quickly:** Once the pizza is perfectly baked, take it out and serve it to the waiting customer. The faster you serve, the better your tip and the happier the customer.
-[JA TRANSLATION NEEDED] 5.  **Manage Multiple Orders:** As you progress, you will have to juggle multiple orders at once. Create a workflow that allows you to prepare several pizzas simultaneously to keep up with the demand.
+### 操作ガイド
 
-### Controls Guide
-
-*   **Point and Click:** The game is played entirely with the mouse.
-    - **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.（日本語訳が必要）
-    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.（日本語訳が必要）
-    - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.（日本語訳が必要）
-    - **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.（日本語訳が必要）
-    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.（日本語訳が必要）
-    - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.（日本語訳が必要）
-*   **Select Ingredients:** Click on the dough, sauce, and toppings to add them to the pizza.
-*   **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
-*   **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What happens if I get an order wrong?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.
-
-*   **Q: How can I serve customers faster?**
-[JA TRANSLATION NEEDED]     *   **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
-
-*   **Q: Are there upgrades in the game?**
+- クリック/タップして材料を選択し、ピザを組み立てます。
+- 顧客にピザを提供します。
+- お金を集めてアップグレードします。
 
 
-
-
-
-
-
-
-
-    - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
-- **Q: Are there upgrades in the game?**
-    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
-- **Q: How can I serve customers faster?**
-    - **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.
-- **Q: What happens if I get an order wrong?**
-### よくある質問（FAQ）
 - **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
+### よくある質問 (FAQ)
 
-    - **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.
-- **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
-
-
+- **Q: 最初に何をアップグレードすべきですか？**  
+  A: オーブン速度と移動速度。
+    - **Q: 顧客を失った場合はどうなりますか？**  
+  A: 彼らは去ります。速いサービスが重要です。
+- **Q: レベルに制限はありますか？**  
 
     - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
-- **Q: Are there upgrades in the game?**
-    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
-[JA TRANSLATION NEEDED]     *   **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
 
+- **Q: Are there upgrades in the game?**
+
+    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
+  A: バージョンによって異なります。一部は何十ものレベルを持っています。

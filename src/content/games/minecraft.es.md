@@ -1,12 +1,11 @@
 ---
 locale: es
 urlstr: minecraft
-title: '[ES] Minecraft'
+title: "Minecraft"
 description: >-
-  [ES] Minecraft is a sandbox video game where players explore a blocky,
-  procedurally generated 3D world, and can discover and extract raw materials,
-  craft tools, build structures or earthworks, and create a variety of
-  mini-games or adventures.
+  Minecraft es un videojuego sandbox en el que exploras un mundo 3D de bloques
+  generado de forma procedimental, recoges recursos, fabricas herramientas,
+  construyes estructuras o circuitos y creas tus propias aventuras o minijuegos.
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/minecraft.jpg
@@ -20,36 +19,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+Minecraft es un videojuego sandbox desarrollado por Mojang Studios. Los
+jugadores exploran un mundo tridimensional hecho de bloques, recolectan
+recursos, construyen estructuras, fabrican objetos e interactúan con
+criaturas de todo tipo. No hay un objetivo fijo; el juego está pensado para que
+puedas crear y explorar libremente, con un grado de libertad muy alto. Entre
+sus modos principales se encuentran Supervivencia, Creativo, Aventura y
+Espectador.
 
-### Game Introduction
+### Estrategia de juego
 
-Minecraft is a sandbox video game developed by Mojang Studios. Players explore a 3D world made of blocks, collecting resources, building structures, crafting items, and interacting with various creatures. The game has no specific goals, allowing players to freely create and explore, thus offering a high degree of freedom. Game modes include Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
+1.  **Recolección de recursos:** tala árboles, mina minerales, planta cultivos y
+    recolecta materiales básicos para poder construir y fabricar.
+2.  **Fabricación de objetos:** usa la mesa de trabajo y el horno para convertir
+    materias primas en herramientas, armas, bloques decorativos y mucho más.
+3.  **Construir refugio:** levantar una base segura es clave para sobrevivir,
+    sobre todo por la noche, cuando aparecen monstruos.
+4.  **Explorar el mundo:** busca aldeas, cuevas, ruinas y otras estructuras
+    para conseguir recursos raros y experiencia.
+5.  **Desarrollar agricultura y ganadería:** crea granjas, cría animales y pesca
+    para asegurar una fuente estable de comida.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Gather Resources**: Chop trees, mine ores, plant crops, etc., to obtain basic materials needed for building and crafting.
-2.  **[ES]** **Craft Items**: Use a crafting table and furnace to process raw resources into tools, weapons, blocks, and more.
-3.  **[ES]** **Build Shelter**: Building a safe base is crucial for survival, especially at night to fend off monster attacks.
-4.  **[ES]** **Explore the World**: Discover villages, caves, ruins, and other structures to find rare resources and experience.
-5.  **[ES]** **Develop Agriculture and Animal Husbandry**: Establish farms, raise animals, and fish to secure food sources.
+*   **Movimiento:** teclas W, A, S y D para avanzar, ir a la izquierda, atrás y
+    a la derecha.
+*   **Saltar:** barra espaciadora.
+*   **Atacar/romper bloques:** botón izquierdo del ratón para atacar criaturas o
+    picar bloques.
+*   **Usar/colocar:** botón derecho del ratón para usar objetos o colocar
+    bloques.
+*   **Abrir inventario:** tecla E para gestionar objetos y acceder a la mesa de
+    crafteo rápida.
+*   **Agacharse:** tecla Shift para ir sigiloso y evitar caídas desde los bordes.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Movement**: W, A, S, D keys for moving forward, left, backward, and right.
-*   **[ES]** **Jump**: Spacebar for jumping.
-*   **[ES]** **Attack/Break**: Left mouse button for attacking creatures or breaking blocks.
-*   **[ES]** **Use/Place**: Right mouse button for using items or placing blocks.
-*   **[ES]** **Open Inventory**: E key to open the player's inventory for item management and crafting.
-*   **[ES]** **Sneak**: Shift key to sneak, preventing falls from high places.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: What are the main game modes in Minecraft?**
-**A**: The main modes are Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
-2.  **[ES]** **Q: How can I play multiplayer?**
-**A**: You can play with friends via local area network (LAN), Minecraft Realms, or third-party servers.
-3.  **[ES]** **Q: How do I get rare resources (like diamonds)?**
-**A**: Diamonds typically generate deep underground at specific layers and require an iron pickaxe or higher to mine.
-4.  **[ES]** **Q: How do I build an automated farm?**
-**A**: Automated farms usually involve Redstone circuits, pistons, water flows, and other mechanisms to achieve automatic planting and harvesting of crops.
+1.  **P: ¿Cuáles son los modos de juego principales de Minecraft?**  
+    **R:** Los modos más habituales son Supervivencia, Creativo, Aventura y
+    Espectador.
+2.  **P: ¿Cómo juego en multijugador?**  
+    **R:** Puedes jugar con amigos a través de LAN, de servidores de Realms o de
+    servidores externos de la comunidad.
+3.  **P: ¿Cómo consigo recursos raros como diamantes?**  
+    **R:** Los diamantes aparecen en capas profundas del mundo y requieren un
+    pico de hierro (o mejor) para extraerse.
+4.  **P: ¿Cómo construyo una granja automática?**  
+    **R:** Las granjas automáticas suelen usar redstone, pistones, corrientes de
+    agua y otros mecanismos para plantar y cosechar de forma automática.

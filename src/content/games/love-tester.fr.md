@@ -1,43 +1,44 @@
 ---
 locale: fr
-urlstr: love-tester
-title: '[FR] Love Tester'
-description: >-
-  [FR] Playful novelty: enter names to get a fun compatibility score;
-  non‑scientific and meant purely for entertainment.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
-thumbnail: /new-images/love-tester.jpg
-tags:
-  - casual
-  - novelty
-score: 4.0/5  (913 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+urlstr: "love-tester"
+title: "Love Tester"
+description: "Love Tester est un petit test d’amour amusant : saisis deux prénoms et découvre un score de compatibilité fantaisiste, purement pour le fun."
+iframeSrc: "https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref="
+thumbnail: "/new-images/love-tester.jpg"
+tags: ["casual", "novelty"]
+score: "4.0/5  (913 votes)"
+developer: ""
+releaseDate: 2025-08-16
 ---
 
+### Présentation du jeu
 
+Love Tester est un petit jeu de compatibilité léger et humoristique. Tu entres deux prénoms et le jeu affiche un pourcentage de « compatibilité », parfois accompagné de messages ou de petites animations. Tout est pensé pour le fun : les résultats sont aléatoires ou reposent sur de simples calculs et ne reflètent en rien une vraie analyse de couple.
 
+### Comment jouer
 
+- Saisis deux prénoms (ou n’importe quels mots) dans les champs prévus.
+- Appuie sur le bouton de test pour obtenir un score de compatibilité.
+- Relance autant de fois que tu veux avec d’autres noms pour comparer les résultats ou faire rire tes amis.
 
-### Overview
-Love Tester is a lighthearted name‑matching toy. You input two names and receive a whimsical “compatibility” percentage with occasional messages or animations. It’s purely for fun—results are random or based on simple hashing and do not represent real compatibility.
+### Commandes
 
-### How to Play
-- Enter two names (or any words) and press test.
-- Share results or rerun with different inputs for laughs.
+- Saisie au clavier pour entrer les prénoms.
+- Un unique bouton de test pour lancer le calcul.
 
-### Controls
-- Keyboard input and a single test button.
+### Astuces
 
-### Tips
-- Use creative prompts (nicknames, team names) to vary outputs.
-- Treat results as a joke, not advice.
+- Amuse‑toi à essayer des surnoms, des noms de groupes d’amis ou même des équipes de sport.
+- Traite toujours les résultats comme une plaisanterie, pas comme un vrai conseil sentimental.
 
-### FAQ
-- Q: Is the compatibility score scientifically accurate?
-A: No, it is for entertainment only.
-- Q: Can I save or share the results?
-A: Some hosts include share buttons or screenshots.
-- Q: Do spaces or punctuation matter in names?
-A: Behavior varies; stick to letters for consistent outputs.
+### Foire aux questions (FAQ)
+
+- Q : Le score de compatibilité est‑il scientifique ?  
+  R : Non, absolument pas. C’est un jouet amusant, pas un outil sérieux ; les pourcentages sont là pour divertir.
+
+- Q : Puis‑je enregistrer ou partager les résultats ?  
+  R : Certaines versions proposent des boutons de partage ou tu peux simplement faire une capture d’écran pour garder un souvenir.
+
+- Q : Les espaces ou la ponctuation changent‑ils le résultat ?  
+  R : Le comportement dépend de la version, mais pour des résultats cohérents, mieux vaut te limiter aux lettres simples.
 

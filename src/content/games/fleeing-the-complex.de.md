@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: fleeing-the-complex
-title: '[DE] Fleeing the Complex'
+title: "Fleeing the Complex"
 description: >-
-  [DE] Branching stick‑figure escape: choose items and routes to break out of
-  the complex, discover multiple endings, and collect all fails/bios.
+  Fleeing the Complex ist Henry Stickmins größter Ausbruch: Triff Entscheidungen,
+  nutze schräge Gadgets und finde mehrere Enden – inklusive zahlreicher
+  herrlich gescheiterter Fluchtversuche.
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/fleeing-the-complex.jpg
 tags:
@@ -14,31 +15,45 @@ score: 4.7/5  (1158 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+In Fleeing the Complex versucht Henry Stickmin, aus einem Hochsicherheits-Gefängniskomplex
+ zu entkommen. Du triffst verzweigende Entscheidungen, setzt verrückte
+ Gadgets ein und arbeitest dich durch mehrere Routen mit unterschiedlichen
+ Erfolgs- und Fail-Enden.
 
+### So spielst du
 
+- Wähle während der Szenen zwischen verschiedenen Optionen; manche Momente
+  verlangen schnelle Klicks (Quick-Time-Events).
+- Erkunde die Hauptäste der Story, um alle möglichen Enden zu entdecken.
+- Nutze – sofern vorhanden – eine Szenenauswahl, um verpasste Fails oder Bios
+  gezielt nachzuholen.
 
-### Overview
-Henry Stickmin’s biggest breakout: make choices, use gadgets, and navigate route branches to escape, with many joke failures and several successful endings.
+### Steuerung
 
-### How to Play
-- Pick options during scenes; quick‑time prompts require timely clicks.
-- Explore the main route splits to find all endings.
-- Use scene select (where available) to complete fails/bios.
+- Maus zum Wählen von Optionen und Interagieren.  
+- Zusätzliche Tasten für QTEs können je nach Host variieren.
 
-### Controls
-- Mouse to choose options and interact; keys for occasional prompts vary by host.
+### Tipps
 
-### Tips
-- When an option fails, try the alternate route—many scenes have a “correct” path.
-- Click characters during scenes to record bios if the version supports it.
-- Keep a checklist of endings to avoid repeats.
+- Wenn eine Option scheitert, probiere den alternativen Weg – viele Szenen
+  haben einen klaren "richtigen" Pfad.
+- Klicke Figuren während der Zwischensequenzen an, um – falls die Version es
+  unterstützt – Bios freizuschalten.
+- Notiere dir, welche Enden du bereits gesehen hast, um Dopplungen zu
+  vermeiden.
 
 ### FAQ
-- Q: How many endings does the game include?
-A: There are multiple successful endings across the major route branches.
-- Q: Do I need to react quickly in every scene?
-A: Only some scenes require quick clicks; most are menu choices.
-- Q: Can I rewatch scenes to collect everything?
-A: Yes, many hosts provide scene selection for cleanup.
 
+- **F: Wie viele Enden gibt es?**  
+  **A:** Es gibt mehrere erfolgreiche Enden, verteilt über die großen
+  Routenäste.
+
+- **F: Muss ich überall schnell reagieren?**  
+  **A:** Nur einige Szenen verlangen schnelle Klicks, die meisten bestehen aus
+  normalen Auswahlentscheidungen.
+
+- **F: Kann ich Szenen erneut ansehen, um alles zu sammeln?**  
+  **A:** Ja, viele Hosts bieten eine Szenen- oder Routenwahl, um gezielt Fails
+  und Bios zu komplettieren.

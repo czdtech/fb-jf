@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: worlds-hardest-game
-title: '[KO] World''s Hardest Game'
+title: "World's Hardest Game 월즈 하더스트 게임"
 description: >-
-  [KO] World's Hardest Game is an extremely challenging arcade game where
-  players control a red square to navigate through levels filled with moving
-  blue circles, requiring precise timing and patience to avoid obstacles and
-  reach the goal.
+  붉은 사각형을 조종해 움직이는 파란 공 사이를 뚫고 골 지점에 도달해야 하는 초고난도 아케이드
+  게임입니다. 한 칸 한 칸 정확한 타이밍과 인내심이 요구되는, 이름 그대로 "세상에서 가장 어렵다"는
+  평을 듣는 작품입니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/worlds-hardest-game.jpg
 tags:
@@ -18,34 +17,50 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
+"World's Hardest Game"은 플레이어가 붉은 사각형을 조종해, 화면 곳곳을 움직이는 파란 공(장애물)을
+피하며 목표 지점에 도달해야 하는 초고난도 아케이드 게임입니다. 규칙은 매우 단순하지만, 조금만
+타이밍이 어긋나도 순식간에 실패하기 때문에 극도로 정밀한 조작과 엄청난 인내심이 필요합니다.
 
+### 플레이 전략
 
-### Game Introduction
+1.  **패턴을 먼저 관찰하기**: 움직이는 파란 공의 궤적과 주기를 충분히 관찰한 뒤 움직이세요.
+    서두르지 말고, 몇 번이고 궤도를 눈으로 따라가 보다 보면 가장 안전한 타이밍이 보입니다.
+2.  **조급함을 버리고 기다리기**: "이번에 그냥 지나가 보자"는 마음으로 무리하게 돌파를 시도하면
+    대부분 실패합니다. 완벽에 가까운 타이밍이 올 때까지 충분히 기다리는 것이 오히려 빠른 클리어로
+    이어집니다.
+3.  **짧고 정확한 이동**: 불필요하게 크게 움직이기보다는, 안전 지점에서 안전 지점으로 짧고
+    정확하게 이동하세요. 한 번에 코스를 모두 돌파하려 하기보다, 중간 중간 세이프 존에 멈춰 서서
+    다음 움직임을 준비하는 것이 좋습니다.
+4.  **경로를 여러 구간으로 나누기**: 복잡한 길은 머릿속에서 여러 작은 구간으로 나눠 생각해 보세요.
+    "여기까지 간 뒤 잠시 대기 → 다음 공무리가 지나간 뒤 다음 구간으로"처럼 단계별로 계획하면
+    부담이 줄어듭니다.
+5.  **실패를 당연하게 받아들이기**: 이 게임은 수십, 수백 번 죽어 가며 패턴을 익히는 것이 전제입니다.
+    실패를 스트레스로 받아들이기보다, 다음에는 어디를 고치면 될지 체크하는 연습 과정으로 보는 것이
+    좋습니다.
 
-"World's Hardest Game" is an extremely challenging arcade game where players control a red square to navigate through levels filled with moving blue circles. It requires precise timing and immense patience to avoid obstacles and reach the goal. This game is famous for its extremely high difficulty and simple yet frustrating gameplay.
+### 플레이 방법
 
-### Gameplay Strategy
+*   **이동**: WASD 키 또는 방향키로 붉은 사각형을 상하좌우로 이동시킵니다.
+*   **정밀 조작**: 키를 짧게 톡톡 눌러 미세하게 위치를 조정할 수 있습니다.
+*   **일시 정지**: 안전 구역에서 일시적으로 멈추고 다음 경로를 머릿속으로 계획해 보세요.
 
-1.  **[KO]** **Observe Patterns**: Carefully observe the movement patterns and timing of blue circles before moving.
-2.  **[KO]** **Wait Patiently**: Don't rush into action; wait for the right moment to move.
-3.  **[KO]** **Precise Movement**: Use exact movements, avoiding unnecessary large displacements.
-4.  **[KO]** **Segment Approach**: Break complex paths into multiple small segments and complete them step by step.
-5.  **[KO]** **Stay Calm**: Failure is normal; stay calm and learn from mistakes.
+### 자주 묻는 질문(FAQ)
 
-### How to Play
+1.  **Q. 왜 "세상에서 가장 어려운 게임"이라는 이름인가요?**  
+    **A:** 아주 작은 타이밍·위치 실수에도 바로 실패로 이어지고, 후반 레벨로 갈수록 패턴이 매우
+    복잡해집니다. 단순한 룰과 대비되는 극악한 난이도 때문에 이런 이름이 붙었습니다.
 
-*   **[KO]** **Movement Control**: Use WASD keys or arrow keys to control the red square's movement.
-*   **[KO]** **Precise Positioning**: Can make pixel-perfect precise movements to avoid obstacles.
-*   **[KO]** **Pause and Think**: Stop in safe areas to plan the next move.
+2.  **Q. 레벨은 총 몇 개 정도인가요?**  
+    **A:** 대표적인 버전 기준으로 약 30개의 스테이지가 준비되어 있으며, 뒷레벨로 갈수록 이전 레벨을
+    통해 익힌 기술을 모두 요구하는 구조입니다.
 
-### Frequently Asked Questions
+3.  **Q. 진행 상황을 저장할 수 있나요?**  
+    **A:** 대부분의 버전에서 클리어한 레벨까지의 진행 상황을 자동으로 저장해, 나중에 이어서 플레이할
+    수 있습니다.
 
-1.  **[KO]** **Q: Why is it called the World's Hardest Game?**
-**A**: Because the game requires extremely precise timing and movement, where even small errors lead to failure.
-2.  **[KO]** **Q: How many levels are there?**
-**A**: The game typically contains 30 levels, each more difficult than the previous one.
-3.  **[KO]** **Q: Can I save progress?**
-**A**: Most versions automatically save progress, allowing you to continue from the last completed level.
-4.  **[KO]** **Q: Are there any tips for completion?**
-**A**: Practice, patience, and observation are key. Learn to predict movement patterns and don't rush.
+4.  **Q. 클리어를 위한 팁이 더 있을까요?**  
+    **A:** 특정 스테이지에서 막힌다면, 같은 구간을 계속 반복하기보다 잠시 쉬었다가 다시 도전해 보세요.
+    피로가 쌓이면 집중력이 떨어져 오히려 실수가 늘어납니다. 또한, 다른 사람의 플레이 영상을 참고해
+    이동 루트와 타이밍을 공부하는 것도 도움이 됩니다.

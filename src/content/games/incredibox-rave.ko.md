@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-rave
-title: '[KO] Incredibox Rave'
+title: Incredibox Rave 레이브 클럽 모드
 description: >-
-  [KO] Incredibox Rave this guide details its electronic dance music palette,
-  gameplay for creating high-energy tracks, and how to unlock its neon-themed
-  bonuses.
+  네온 조명과 클럽 분위기를 담은 팬메이드 모드 'Incredibox Rave' 가이드입니다. 테크노·하우스·디스코 계열 전자음으로 레이브
+  트랙을 만드는 방법과 보너스 해금 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/980794126/embed'
 thumbnail: /new-images/incredibox-rave.png
 tags:
@@ -18,56 +17,85 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox Rave Game Introduction**
+*Incredibox Rave*는 음악 제작 게임 Incredibox를 **레이브·나이트클럽**
+분위기로 재해석한 팬메이드 모드입니다. 거대한 스피커, 디스코 볼,
+움직이는 스포트라이트가 무대를 채우고, 캐릭터들은 DJ나 클럽 손님처럼
+네온 윤곽선 실루엣으로 표현됩니다.
 
-*Incredibox Rave* is a visually striking fan-made mod for the music creation game Incredibox. This version transports players directly into the energetic atmosphere of a **rave or nightclub**, complete with large speakers, a disco ball, and dynamic spotlights. The characters are stylized as silhouetted or neon-outlined figures, resembling DJs and club-goers.
+플레이 방식은 기본 Incredibox와 같습니다. 플레이어는 20개의
+사운드 아이콘(추상적인 도형과 입술 모양 아이콘)을 7명의
+캐릭터에게 입혀, **테크노·하우스·디스코 계열 EDM 트랙**을
+직접 만들어 볼 수 있습니다.
 
-The game uses the classic Incredibox drag-and-drop gameplay. Players are given a palette of 20 sound icons, which are represented by abstract geometric shapes and stylized lips. By assigning these icons to the seven performers, players can compose their own high-energy tracks inspired by various genres of **electronic dance music (EDM), such as techno, house, and disco**.
+### **플레이 전략 & 팁**
 
-### **Gameplay Strategy & Tips**
+이 모드의 전략은 실제 클럽에서 틀어도 어색하지 않을 법한
+전자음 트랙을 레이어링해 만드는 데 있습니다.
 
-Strategy in *Incredibox Rave* is about layering the different electronic elements to build a track that could be played in a real club.
+1. **전자음 사운드 팔레트 이해하기**  
+   아이콘은 모양에 따라 대략 다음 네 카테고리로 나뉩니다.  
+    - **Beats (네모 아이콘)**: 드럼 머신 패턴, 킥, 스네어, 하이햇 등
+     리듬의 뼈대를 담당합니다.  
+    - **Effects (동그라미 아이콘)**: 딥 신스 베이스, 패드, 공간감을
+     만드는 텍스처 등 곡을 채워 주는 요소입니다.  
+    - **Melodies (삼각형 아이콘)**: 리드 신스, 아르페지오, 후렴 훅 등
+     곡의 멜로디를 담당합니다.  
+    - **Voices (입술 아이콘)**: 가공된 보컬 샘플, 애드립, 멜로딕 보컬
+     챱이 포함됩니다.
 
-1.  **[KO]** **Understand the Electronic Sound Palette**: The abstract icons can be grouped into the four standard categories based on their function.
-    *   **[KO]** **Beats (Squares)**: The icons shaped like squares are your rhythmic foundation. Expect to find driving **drum machine patterns**, electronic kicks, snares, and hi-hats.
-    *   **[KO]** **Effects (Circles)**: The circular icons provide the atmospheric and bass elements. This includes deep **synth basslines**, ambient pads, and other textures that fill out the soundscape.
-    *   **[KO]** **Melodies (Triangles)**: The triangular icons are your main hooks and riffs. These represent **lead synth melodies**, catchy arpeggios, and other melodic patterns that define the track's tune.
-    *   **[KO]** **Voices (Lips)**: The icons shaped like lips are the vocal elements. Look for **processed vocal samples**, ad-libs, and melodic vocal chops that are common in electronic music.
+2. **포온더플로어 킥으로 시작하기**  
+   클럽 트랙의 기본은 네 박자마다 꾸준히 울리는 킥입니다.
+   `Beats` 카테고리에서 안정적인 4/4 킥 패턴을 찾아 먼저 깔아 두면,
+   그 위에 어떤 요소를 얹어도 춤추기 좋은 느낌이 살아납니다.
 
-2.  **[KO]** **Four-on-the-Floor Foundation**: A great way to start a club track is to find a solid "four-on-the-floor" kick drum pattern from the "Beats" (squares) category. This provides the classic, danceable pulse.
+3. **그루브 만들기**  
+   킥이 준비되면 `Effects`에서 베이스 라인을 추가해 킥과
+   “밀고 당기는” 관계를 만들어 보세요. 킥과 베이스의 궁합이
+   좋아야 곡이 강력하게 느껴집니다.
 
-3.  **[KO]** **Build the Groove**: Once the beat is established, add a bassline from the "Effects" (circles) category. A good synergy between the kick drum and the bass is key to making the track feel powerful and groovy.
+4. **에너지 레이어 쌓기**  
+   이후에는 신스 패드로 공간을 채운 뒤, `Melodies`에서 귀에 꽂히는
+   리드 훅을 골라 얹고, 마지막으로 `Voices`의 보컬 챱으로
+   마무리하면 완성도 높은 레이브 트랙이 됩니다.
 
-4.  **[KO]** **Layer for Energy**: Build energy by adding melodic elements. Start with a simple synth pad ("Effects") to create space, then add a catchy lead melody ("Melodies"). Finally, drop in a vocal chop ("Voices") to complete the mix.
+5. **보너스는 체계적으로 탐색**  
+   기본 비트와 베이스를 고정해 둔 뒤, 멜로디·보컬 아이콘을 하나씩
+   바꿔 가며 조합을 시험하면 레이브 테마의 비밀 애니메이션을
+   효율적으로 찾을 수 있습니다.
 
-5.  **[KO]** **Systematic Bonus Hunting**: To find the secret bonuses, be methodical. Establish a solid beat and bassline, then systematically swap out the melody and voice icons one by one until you trigger one of the rave-themed animations.
+### **조작 가이드**
 
-### **Controls Guide**
+조작은 공식 Incredibox와 동일한 드래그 앤 드롭 방식입니다.
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+- **사운드 추가**: 하단의 아이콘을 드래그해 캐릭터 위에 올려놓습니다.
+- **사운드 제거**: 하단 활성 아이콘의 `X`를 누르거나, 다른 아이콘을
+  덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나
+  다시 켤 수 있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼으로 그 캐릭터만 남기고 나머지를
+  모두 뮤트할 수 있습니다.
+- **녹음**: 상단의 녹음 버튼을 눌러 자신만의 레이브 앤섬을
+  녹음·저장할 수 있습니다.
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your rave anthem.
+### **자주 묻는 질문(FAQ)**
 
-### **Frequently Asked Questions (FAQ)**
+**1. 공식 Incredibox 버전인가요?**  
+아니요. 독특한 스타일과 배포 방식으로 볼 때, *Rave*는
+커뮤니티가 제작한 **팬메이드 모드**이며, 공식 개발사 So Far So Good과는
+관련이 없습니다.
 
-**1. Is this an official Incredibox version?**
+**2. 어디에서 이 모드를 플레이할 수 있나요?**  
+공식 플랫폼에는 없고, 일반적으로 **playfiddlebops.com** 같은
+모딩 사이트나 유튜브 소개 영상의 링크를 통해 브라우저에서
+플레이할 수 있습니다.
 
-No. Based on its unique style and distribution, it is a **fan-made mod**. It is not affiliated with the official Incredibox team, So Far So Good.
+**3. Rave 모드만의 매력은 무엇인가요?**  
+네온 비주얼, DJ 같은 캐릭터, 잘 만들어진 전자음 사운드 팔레트가
+어우러져 실제 클럽에 들어온 듯한 몰입감을 주는 것이 가장 큰 특징입니다.
 
-**2. Where can I play this mod?**
-
-You will not find it on official platforms. Mods like *Rave* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**3. What makes the "Rave" mod special?**
-
-Its main appeal is its high-energy, immersive nightclub theme. The combination of the neon visuals, DJ-like characters, and a well-produced electronic music palette creates a modern and exciting experience for fans of dance music.
-
-**4. Are the bonus solutions for "Rave" available online?**
-
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Rave combos*" on YouTube will likely provide you with the solutions.
+**4. 보너스 조합 공략은 어디서 볼 수 있나요?**  
+`Incredibox Rave combos` 같은 키워드로 유튜브를 검색하면,
+각 보너스를 여는 조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
 

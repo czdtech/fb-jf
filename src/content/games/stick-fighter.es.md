@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: stick-fighter
-title: '[ES] Stick Fighter'
+title: 'Stick Fighter'
 description: >-
-  [ES] Become a master of stickman combat in Stick Fighter! This action-packed
-  brawler pits you against other stick figures in a physics-based arena. Use
-  your fists, feet, and a variety of weapons to be the last one standing.
+  Conviértete en un maestro del combate stickman en Stick Fighter. Este brawler
+  lleno de acción te enfrenta a otros muñecos de palo en arenas con físicas
+  locas. Usa tus puños, tus patadas y un arsenal de armas para ser el último en
+  pie.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
 thumbnail: /new-images/stick-fighter.jpg
@@ -18,38 +19,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
-### Game Introduction
+Stick Fighter bebe del mismo espíritu que Stick Fight: es un juego de lucha
+rápido y basado en físicas en el que controlas a un stickman y te enfrentas a
+otros en arenas repletas de peligros. El objetivo es ser el último en pie. Su
+combate caótico, los peligros del entorno y la variedad de armas dan lugar a
+rondas tan intensas como desternillantes.
 
-Stick Fight is a fast-paced, physics-based fighting game where you control a simple stick figure and battle against others in a variety of hazardous arenas. The goal is to be the last stickman standing. The game is known for its chaotic, unpredictable combat, where environmental dangers and a wide array of weapons lead to hilarious and action-packed rounds.
+### Guía de juego
 
-### Gameplay Guide
+En cada ronda debes eliminar a tus oponentes arrojándolos fuera del escenario o
+acabando con su barra de vida.
+- **Combate:** lánzate a por tus rivales con puñetazos, patadas y armas que van
+  apareciendo en el escenario.
+- **Físicas:** el motor de físicas afecta al movimiento, al retroceso y a la
+  forma en que los personajes salen despedidos. Puedes usarlo para hacer
+  maniobras espectaculares o tiros imposibles.
+- **Arenas:** cada nivel presenta un diseño distinto, con peligros como pinchos,
+  bloques que caen o superficies resbaladizas. Adapta tu estilo de juego a cada
+  mapa.
 
-The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
-- **Combat:** Use punches, kicks, and a variety of weapons that are dropped into the arena.
-- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
-- **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
+### Guía de controles
 
-### Controls Guide
+Controles típicos de plataformas 2D:
+- **Mover:** `A` y `D` o flechas izquierda/derecha.
+- **Saltar:** `W` o flecha arriba.
+- **Agacharse:** `S` o flecha abajo.
+- **Atacar:** clic izquierdo del ratón o tecla `F`.
+- **Bloquear:** clic derecho del ratón o tecla `G`.
 
-Controls are typically based on a standard 2D platformer layout:
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
-- **Jump:** `W` or `Up Arrow` Key
-- **Crouch:** `S` or `Down Arrow` Key
-- **Attack:** `Left Mouse Button` or `F`
-- **Block:** `Right Mouse Button` or `G`
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**¿Cuál es el objetivo principal?**  
+Quedarte como el único superviviente, ya sea tirando a tus enemigos del mapa o
+venciéndolos con armas y combos.
 
-**What is the main goal of Stick Fight?**
+**¿Tiene multijugador?**  
+Sí. Igual que otros juegos de la familia, suele ofrecer modos locales y/u online
+para 2–4 jugadores.
 
-To be the last player standing by knocking your opponents off the stage or defeating them with weapons.
-
-**Can I play this game with friends?**
-
-Yes, Stick Fight is primarily a multiplayer game, often supporting both local and online matches with 2-4 players.
-
-**What kind of weapons are in the game?**
-
-The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
-
+**¿Qué tipo de armas incluye?**  
+Desde armas cuerpo a cuerpo como espadas y lanzas hasta armas de fuego y gadgets
+más locos; el arsenal es amplio y cambia por completo el ritmo de cada ronda.

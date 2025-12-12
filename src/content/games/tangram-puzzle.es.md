@@ -1,12 +1,10 @@
 ---
 locale: es
 urlstr: tangram-puzzle
-title: '[ES] Tangram Puzzle'
-description: >-
-  [ES] Tangram Puzzle is a classic dissection challenge — fit seven tans to fill
-  silhouettes with rotation‑only logic and spatial insight.
-iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
-thumbnail: /new-images/tangram-puzzle.jpg
+title: "Tangram Puzzle - Rompecabezas clásico de siluetas"
+description: "Tangram Puzzle es un rompecabezas clásico de disección: coloca siete piezas (tans) para rellenar siluetas sin huecos ni solapamientos, usando solo rotaciones y mucha visión espacial."
+iframeSrc: "https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/"
+thumbnail: "/new-images/tangram-puzzle.jpg"
 tags:
   - puzzle
   - thinky
@@ -14,32 +12,29 @@ score: 4.3/5  (2091 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Tangram Puzzle te reta a ordenar siete piezas geométricas (tans) para rellenar exactamente la silueta que aparece en pantalla. No puede haber huecos ni solapamientos: cada borde debe encajar a la perfección. Puedes rotar las piezas libremente y, según el modo, a veces no se permiten reflejos. La clave está en reconocer bolsillos cóncavos y convexos y en casar bien los ángulos de las esquinas.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  Alinea las esquinas: coloca primero los triángulos grandes en los vértices principales de la silueta.
+2.  Lee la simetría: si la figura es simétrica, resuelve primero una mitad y luego refleja mentalmente la solución.
+3.  Rellena cavidades: reserva el cuadrado y el paralelogramo para los huecos más estrechos y difíciles.
+4.  Orden de colocación: empieza esbozando la forma con las piezas grandes y utiliza los triángulos pequeños para cerrar los espacios restantes.
+5.  Reglas de reflejo: si el modo no permite reflejos, busca rotaciones alternativas que reproduzcan la misma forma sin necesidad de voltear la pieza.
 
-Tangram Puzzle asks you to arrange seven geometric pieces (tans) to exactly fill a silhouette. No overlaps or gaps; rotations allowed, reflections sometimes banned depending on mode. Recognizing convex/concave pockets and matching corner angles is the key skill.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Arrastra y rota las piezas con el ratón o los controles táctiles; refléjalas solo si el modo lo permite. La ayuda de autoajuste te indicará cuándo una pieza encaja en la posición correcta.
 
-1.  **[ES]** Corner matching: Seat large triangle corners into silhouette vertices first.
-2.  **[ES]** Symmetry read: Split symmetric silhouettes and mirror your half‑solution.
-3.  **[ES]** Pocket fills: Use square/parallelogram for tight cavities.
-4.  **[ES]** Order of play: Rough‑in with big pieces, then lock gaps with small triangles.
-5.  **[ES]** Reflection rules: If reflections are banned, rotate alternatives to simulate flips.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- Q: Siempre me queda un pequeño hueco que no consigo cerrar.
+  
+  A: Suele deberse a que una de las primeras piezas está ligeramente mal colocada. Prueba a recolocar uno de los triángulos grandes y vuelve a encajar las demás piezas.
 
-- Drag/rotate pieces; flip if allowed; snap assists on correct placement.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: One gap remains no matter what.
-
-A: Your early placements are off by a corner; reseat a big triangle and re‑fit.
-
-- Q: Are flips legal?
-
-A: Some modes disallow flips; rely on rotations.
+- Q: ¿Se permiten los reflejos?
+  
+  A: Depende del modo de juego. En algunos niveles, los reflejos están desactivados y solo podrás usar rotaciones, así que tendrás que pensar más en los ángulos y en cómo aprovechar cada pieza.
 

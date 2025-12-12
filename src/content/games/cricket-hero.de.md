@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: cricket-hero
-title: '[DE] Cricket Hero'
+title: "Cricket Hero"
 description: >-
-  [DE] Step up to the crease and become a Cricket Hero! Time your shots to
-  perfection and score as many runs as you can in this exciting cricket batting
-  game.
+  Tritt an den Schlag und werde zum Cricket Hero. Triff den Ball im perfekten
+  Timing und sammle so viele Runs wie möglich in diesem spannenden
+  Schlagspiel.
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/cricket-hero.jpg
 tags:
@@ -17,30 +17,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Cricket Hero* ist ein einfaches, aber äußerst süchtig machendes
+Arcade-Schlagspiel, in dem du so viele Runs wie möglich erzielen sollst. Als
+Batsman stellst du dich unterschiedlichen Bowlern, die versuchen, dich out zu
+bekommen. Deine Aufgabe ist es, den Ball genau zu beobachten und den Schlag so
+zu timen, dass du ihn sauber triffst und Runs sammelst. Verfehlst du den Ball
+oder wirst "bowled", ist dein Innings vorbei. Wie viele Runs schaffst du, um
+wirklich zum Cricket Hero zu werden?
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Cricket Hero is a simple yet addictive arcade-style cricket game where your goal is to score as many runs as possible. As the batsman, you will face a variety of bowlers who will try to get you out. Your job is to watch the ball closely and time your swing to hit the ball and score runs. The game is all about timing and reflexes. Miss the ball or get bowled out, and your turn is over. How many runs can you score to become a true Cricket Hero?
+1.  Auf den Ball schauen: Das wichtigste Cricket-Grundgesetz gilt auch hier –
+    behalte den Ball vom Moment des Abwurfs bis zum Schläger im Blick.
+2.  Timing ist alles: Der Schlüssel zu hohen Scores ist perfektes Timing.
+    Schlag zu früh oder zu spät und du verfehlst den Ball. Ein gut getimter
+    Schwung kann ihn als Sechser aus dem Feld schicken.
+3.  Absprungpunkt lesen: Achte darauf, wo der Ball auftippt. So kannst du
+    Geschwindigkeit und Höhe besser einschätzen und deinen Schlag daran
+    anpassen.
+4.  Fokus halten: Mit steigender Punktzahl wird das Spiel schneller und
+    anspruchsvoller. Bleib konzentriert, um mit dem Tempo und den Variationen
+    der Bowler mitzuhalten.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Watch the Ball:** This is the most fundamental rule of cricket and this game. Keep your eyes glued to the ball from the moment it leaves the bowler's hand.
-2.  **[DE]** **Timing is Everything:** The key to scoring big is timing your shot perfectly. Swing too early or too late, and you'll miss the ball. A perfectly timed shot will send the ball flying for a six!
-3.  **[DE]** **Anticipate the Bounce:** Pay attention to where the ball is going to pitch. This will help you judge the speed and height of the ball, allowing you to time your swing more effectively.
-4.  **[DE]** **Stay Focused:** The game will get progressively faster and more challenging. Maintain your concentration to keep up with the increasing speed and variations in bowling.
+*   Schlag ausführen: Klicke mit der linken Maustaste oder tippe auf den
+    Bildschirm, um den Schläger zu schwingen. Das Timing deines Klicks ist
+    deine einzige Kontrolle – nutze sie gut.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Swing Bat:** Click the left mouse button or tap the screen to swing your bat. The timing of your click is the only control you have, so make it count!
+*   F: Wie erziele ich Runs?
+    *   A: Triff den Ball mit deinem Schläger. Je besser das Timing, desto
+        mehr Runs erhältst du mit einem Schlag (bis hin zu 4ern und 6ern).
 
-### Frequently Asked Questions (FAQ)
+*   F: Wann ist das Spiel vorbei?
+    *   A: Wenn du "bowled" wirst, also der Ball deine Stumps trifft. Du hast
+        pro Partie nur eine begrenzte Anzahl an Wickets/Leben.
 
-*   **[DE]** **Q: How do I score runs?**
-    *   **[DE]** **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).
-
-*   **[DE]** **Q: How does the game end?**
-    *   **[DE]** **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
-
-*   **[DE]** **Q: Are there different types of bowlers?**
-    *   **[DE]** **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
+*   F: Gibt es verschiedene Bowler-Typen?
+    *   A: Ja, mit steigender Run-Zahl triffst du auf unterschiedliche Bowler
+        mit variierenden Geschwindigkeiten und Stilen, was den Schwierigkeits-
+        grad erhöht.

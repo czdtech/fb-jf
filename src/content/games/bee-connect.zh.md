@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: bee-connect
-title: '[ZH TRANSLATION NEEDED] Bee Connect'
+title: "Bee Connect 蜂巢连数"
 description: >-
-  [ZH TRANSLATION NEEDED] In Bee Connect, you need to organize the numbers in
-  the beehive into adjacent groups of four to match each other.
+  在《Bee Connect 蜂巢连数》中，你要在六边形蜂巢棋盘上移动数字方块，把四个及以上相同数字连成一团合并升级，
+  一边控场一边冲击高分。
 iframeSrc: >-
   https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
 thumbnail: /new-images/bee-connect.jpg
@@ -17,40 +17,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] *Bee Connect* is a challenging and strategic number-merging puzzle game set on a hexagonal beehive grid. The objective is to achieve the highest score possible by strategically combining numbered tiles to create tiles with higher values.
+*Bee Connect* 是一款围绕“数字合并”的策略向益智游戏，棋盘是一个由六边形格子组成的蜂巢。你的目标是在有限空间里，通过精心移动数字方块，合成更大的数字并获得尽可能高的分数。
 
-[ZH TRANSLATION NEEDED] Unlike classic 2048-style games, the core mechanic of *Bee Connect* requires players to connect a group of **four or more adjacent, identical numbers** to merge them into a single tile of a higher value. For example, grouping four '2' tiles together will merge them into one '8' tile.
+和传统的 2048 类游戏不同，*Bee Connect* 的核心规则是：必须把 **四个及以上相同数字、并且互相相邻** 的方块连在一起，才能触发合并，并生成一个更高数值的新方块。比如，四个相邻的“2”会合并成一个“8”。
 
-[ZH TRANSLATION NEEDED] Players move tiles one by one into adjacent empty cells. However, there's a catch: **if a move does not result in a merge, new numbers from the queue at the top of the screen will be added to the board**, filling up valuable space. Tiles that are completely surrounded by other tiles cannot be moved. The game ends when the board is full and no more moves can be made.
+你一次只能把一个数字移动到相邻的空蜂巢格子里。但有一个关键惩罚机制：**只要这一步没有立刻触发合并，棋盘顶端的候选队列就会往场上补充新的数字**，迅速挤占空间。被其他数字完全包围的格子则无法再移动。当整张棋盘被填满且没有可走的步数时，本局游戏结束。
 
-### **Gameplay Strategy & Tips**
+### 游戏策略与技巧
 
-1.  **Always Plan for a Merge**: This is the golden rule. Every move you make should ideally result in a merge. Moving a tile just to reposition it is costly, as it will add more random numbers to the board and reduce your available space.
-2.  **Group, Don't Scatter**: Actively try to keep identical numbers close to each other. Your goal is to create clusters of three, setting them up for a fourth tile to complete the merge. Avoid leaving a single '8' tile isolated on the far side of the board from your other '8's.
-3.  **Think Several Moves Ahead**: Look at the queue of upcoming numbers at the top. This information is crucial. If you see two '1's are coming, you can prepare a space for them next to your existing '1's to set up an easy merge.
-4.  **Utilize the Hexagonal Grid**: The hexagonal grid offers more adjacent spaces (up to six) than a square grid. Use this to your advantage to create more complex and flexible groupings. You can often connect four tiles in non-linear shapes.
-5.  **Keep the Center Clear**: Try to push merges towards the edges of the board. Keeping the central area open provides more flexibility for moving and arranging tiles, preventing your key pieces from getting trapped early.
-6.  **Save Your Power-ups**: The lightning bolt icon is a powerful tool, likely for clearing a single tile or another helpful action. Don't use it on a whim. Save it for critical moments when you need to clear a specific tile to prevent the board from locking up or to enable a game-saving merge.
+1.  **每一步都尽量制造合并机会**  
+    这是本作的“黄金法则”。理想情况下，你的每一步移动都应该直接完成一次合并。仅仅为了“调整位置”而移动某个数字，会立刻让系统补充新的随机数字，占掉宝贵空间。
 
-### **Controls Guide**
+2.  **集中同数值，不要到处乱撒**  
+    有意识地把相同数字堆在一起，为之后凑够“四连”做准备。比如先把三个“4”堆成一团，再想办法把第四个“4”挪过来，而不是让单个“高数字”孤零零躺在角落里。
 
-[ZH TRANSLATION NEEDED] The game is designed for simple drag-and-drop or click-based gameplay.
+3.  **提前根据队列规划数步之后**  
+    注意观察顶部即将登场的数字队列。这些信息非常关键：如果你看到接下来会出现两个“1”，就可以提前在现有“1”旁边留出位置，让它们一落地就能凑够四个并立刻合并。
 
-*   **Move a Tile**: **Click and drag** a numbered tile to an adjacent empty honeycomb cell. Alternatively, some versions may use a **click-to-select, click-to-place** system.
+4.  **善用六边形格子的相邻优势**  
+    六边形格子比正方形有更多相邻方向（最多 6 个），这意味着你可以用“弯曲”“拐角”等不规则形状来连出四个相同数字，不一定要排成直线。学会利用这些独特形状，会大幅提升可操作空间。
 
-### **Frequently Asked Questions (FAQ)**
+5.  **尽量保持中心区域畅通**  
+    优先把合并行为往棋盘边缘引导，把中间区域留得更空，这样更方便你移动数字、拆解或重组集群，避免关键数字过早被堵死。
 
-[ZH TRANSLATION NEEDED] **1. Why did new numbers suddenly appear on the board?**
-[ZH TRANSLATION NEEDED] This is the game's core penalty mechanic. It happens whenever you move a tile, and that move does not immediately create a group of four or more matching tiles.
+6.  **谨慎使用闪电等道具**  
+    闪电等特殊道具通常用来清除单个“卡局”的数字或制造关键合并机会。不要随便乱放，尽量留在“马上要锁死棋盘”或者“只差一格就能拼出高数值方块”的关键回合再用。
 
-[ZH TRANSLATION NEEDED] **2. Why can't I move a specific tile?**
-[ZH TRANSLATION NEEDED] The tile is "trapped." A tile can only be moved if there is at least one empty, adjacent honeycomb cell to move it into. If it is completely surrounded by other tiles, it is stuck.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **3. How many tiles do I need to make a match?**
-[ZH TRANSLATION NEEDED] You need to create an adjacent group of **at least four** identical tiles. Three tiles next to each other will not merge.
+本作的操作设计非常简单直观，主要通过点击和拖拽完成。
 
-[ZH TRANSLATION NEEDED] **4. What is the goal of the game?**
-[ZH TRANSLATION NEEDED] The primary goal is to survive for as long as possible and achieve the highest score. A secondary goal for experts is to create the highest possible number tile (e.g., 1024, 2048, etc.) by repeatedly merging.
+*   **移动数字方块：** 用鼠标或手指按住并拖动某个数字，将它拉到相邻的空蜂巢格子里。部分版本也可能支持“点选数字再点选目标格子”的点击式操作。
+
+### 常见问题解答（FAQ）
+
+**1. 为什么棋盘上突然多出了很多新数字？**  
+这是游戏的核心惩罚机制。只要你这一步移动没有马上形成四个及以上相同数字的连片，系统就会从顶部队列中往棋盘里补充新数字，惩罚“无效移动”。
+
+**2. 为什么有些数字我完全动不了？**  
+这些数字已经被其他方块从六个方向全部包围，相当于被“困住”了。只有在它旁边出现空格、或使用道具清空周围格子后，它才可能再次被移动。
+
+**3. 几个相同数字才能合并？**  
+必须凑出 **至少四个** 相同数字并且互相相邻（以边相接），才能触发合并。三连虽然看起来像一组，但在本作中不会自动合并。
+
+**4. 本作的最终目标是什么？**  
+首要目标是尽可能延长存活时间、刷出更高分数。对于高手来说，额外的追求是一步步合成更大的数字方块，例如不断合成出 1024、2048 甚至更夸张的顶级数字。
 

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: puppet-master
-title: '[DE] Puppet Master'
+title: Puppet Master
 description: >-
-  [DE] Puppet Master is a quirky physics-based puzzle game where players control
-  a puppet character through challenging obstacles and levels by manipulating
-  its movement and limbs to reach the goal.
+  Puppet Master ist ein skurriles, physikbasiertes Puzzlespiel, in dem du eine
+  Marionette durch Hindernis-Parcours steuerst, indem du ihre Gliedmaßen
+  kontrollierst und sie so bis zum Ziel turnen lässt.
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/puppet-master.jpg
 tags:
@@ -17,35 +17,58 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Puppet Master" ist ein eigenwilliges Physik-Puzzlespiel, in dem du eine
+ Marionettenfigur über Plattformen, Abgründe und andere Hindernisse manövrierst.
+ Du steuerst Arme und Beine der Puppe direkt und musst sie mit viel Fingerspitzengefühl
+ und Timing so bewegen, dass sie nicht stürzt und das Levelziel erreicht.
+ Die ungewöhnliche Steuerung und die slapstickartigen Animationen machen den
+ Reiz des Spiels aus – chaotisch, aber sehr unterhaltsam.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Steuerung kennenlernen:** Nimm dir Zeit, die Zuordnung von Tasten oder
+    Mausaktionen zu Armen und Beinen zu verinnerlichen. Erst wenn du verstehst,
+    welches Glied sich wie bewegt, kannst du kontrolliert klettern und laufen.
+2.  **Physik ausnutzen:** Schwingen, ziehen, drücken und festhalten – all das
+    nutzt die Physik-Engine. Hake dich an Kanten ein, ziehe dich hoch oder
+    stoße dich von Wänden ab.
+3.  **Umgebung beobachten:** Achte auf Plattformen, Seile, Knöpfe und andere
+    Objekte im Level. Oft gibt es mehrere Wege; der sicherste ist nicht immer
+    der offensichtlichste.
+4.  **Geduldig bleiben:** Durch die eigenwillige Steuerung wirst du oft stürzen
+    oder hängen bleiben. Wiederhole Versuche und konzentriere dich auf
+    gleichmäßige Bewegungsabläufe statt auf Hektik.
+5.  **Kreativ denken:** Ungewohnte Lösungen – etwa Rückwärtsklettern oder
+    „krabbeln“ – funktionieren manchmal besser als der vermeintlich normale
+    Weg.
 
-"Puppet Master" is a quirky physics-based puzzle game where players control a puppet character through challenging obstacles and levels by manipulating its movement and limbs to reach the goal. The game is famous for its unique control scheme and humorous animation effects, providing players with an entertaining yet challenging gaming experience.
+### Steuerung
 
-### Gameplay Strategy
+*   **Körperteile bewegen:** Je nach Version steuerst du Arme und Beine mit
+    Maus oder Tastatur. Halte und ziehe, um die Puppe an Objekten zu greifen.
+*   **Greifen:** Klicke und ziehe auf bestimmte Punkte, damit die Marionette
+    Oberflächen oder Gegenstände packt.
+*   **Fortbewegung:** Durch abwechselndes Ziehen und Drücken der Gliedmaßen
 
-1.  **[DE]** **Master the Controls**: Familiarize yourself with controlling each body part of the puppet, learning to coordinate the movement of arms, legs, and other limbs.
-2.  **[DE]** **Utilize Physics**: Make good use of the game's physics engine through swinging, pushing, pulling, and grasping actions to overcome obstacles.
-3.  **[DE]** **Observe Environment**: Carefully observe environmental elements in levels such as platforms, ropes, and buttons to find the best path to completion.
-4.  **[DE]** **Be Patient**: Due to the complex controls, it takes multiple attempts to master the techniques. Don't get discouraged by failures.
-5.  **[DE]** **Think Creatively**: Sometimes unconventional solutions may be more effective than standard methods; try different approaches.
+- **Jumping**: Use coordination between legs and arms to achieve jumping actions.
+    „läufst“ oder kletterst du durch das Level.
 
-### How to Play
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Body Control**: Typically use mouse or keyboard to control different body parts of the puppet.
-*   **[DE]** **Grab**: Click and drag to make the puppet grab objects or surfaces.
-*   **[DE]** **Movement**: Achieve puppet movement by coordinating arm and leg movements.
-*   **[DE]** **Jumping**: Use coordination between legs and arms to achieve jumping actions.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: Controlling the puppet is very difficult. Are there any tips?**
-**A**: Control indeed requires practice. It's recommended to start with simple levels to familiarize yourself with operating each body part, gradually improving coordination.
-2.  **[DE]** **Q: How can I make the puppet walk steadily?**
-**A**: Maintaining rhythm is important; don't rush. Alternate between using arms and legs, simulating real walking motions.
-3.  **[DE]** **Q: What if I'm stuck on a level and can't pass it?**
-**A**: Try different paths and methods; sometimes seemingly impossible routes are actually feasible. Watching other players' walkthrough videos might also help.
-4.  **[DE]** **Q: Are there different difficulty levels in the game?**
-**A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.
+1.  **F: Die Steuerung fühlt sich extrem schwierig an – Tipps?**
+    **A:** Fang mit einfachen Leveln an und übe einzelne Bewegungen (z. B.
+    nur Hochziehen oder nur Gehen), bevor du versuchst, alles zu kombinieren.
+2.  **F: Wie laufe ich halbwegs stabil?**
+    **A:** Versuche, Arme und Beine rhythmisch abzuwechseln, ähnlich wie beim
+    echten Gehen. Kleine, kontrollierte Schritte sind sicherer als große
+    Sprünge.
+3.  **F: Ich stecke in einem Level fest.**
+    **A:** Probiere alternative Wege oder andere Greifpunkte aus. Viele Level
+    erlauben mehrere Lösungsansätze – manchmal hilft es, einfach einen ganz
+    anderen Ansatz zu testen.
+4.  **F: Gibt es verschiedene Schwierigkeitsgrade?**
+    **A:** In der Regel steigt die Komplexität von Level zu Level an – die
+    ersten Abschnitte dienen als Tutorial, später werden die Parcours deutlich
+    anspruchsvoller.

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: crazy-balls
-title: '[DE] Crazy Balls'
+title: "Crazy Balls"
 description: >-
-  [DE] Crazy Balls is a physics arcade — bounce, bank, and blast through
-  obstacle mazes with controlled shots.
+  Crazy Balls ist ein Physik-Arcade-Spiel – lasse Bälle prallen, nutze Banden
+  und schieße dich mit kontrollierten Schüssen durch Hindernis-Labyrinthe.
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/crazy-balls.png
 tags:
@@ -15,36 +15,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Crazy Balls* fordert dich heraus, Bälle durch stages voller Hindernisse zu
+schicken und dabei Abpraller, Bumper und bewegliche Elemente geschickt zu
+nutzen. Präzise Winkel und kontrollierte Schusskraft entscheiden darüber, ob du
+bahnen sauber triffst oder im Chaos landest.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Crazy Balls challenges you to send balls through obstacle‑filled stages, leveraging ricochets, bumpers, and moving elements. Precision angles and controlled power separate clean clears from chaotic misses.
+1.  Seitenwände als Banden: Nutze die Seitenwände, um Flugbahnen in enge
+    Korridore umzulenken, anstatt direkt auf das Ziel zu schießen.
+2.  Mittlere Schusskraft bevorzugen: Vollgas sorgt oft für unkontrollierbare
+    Abpraller. Mit mittlerer Stärke sind Ergebnisse reproduzierbarer.
+3.  Auf Bewegungsmuster warten: Beobachte bewegliche Hindernisse einen Moment
+    lang und schieße in den Moment, in dem eine Lücke entsteht.
+4.  Rebound-Distanzen lernen: Merke dir typische Abprallwege, um mehrstufige
+    Bank-Shots gezielt zu planen.
+5.  Schlechte Linien früh abbrechen: Starte Level bei missratenen Schüssen
+    lieber schnell neu, um Zeit zu sparen und Frust zu vermeiden.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Use side walls to bend trajectories into tight corridors.
-2.  **[DE]** Favor medium power for consistency; max power increases chaos.
-3.  **[DE]** Wait a beat for moving obstacles to create openings.
-4.  **[DE]** Learn rebound distances to plan multi‑bank routes.
-5.  **[DE]** Reset quickly after bad lines to preserve time.
+- Ziehe mit gedrückter Maustaste oder per Touch, um Richtung und Stärke des
+  Schusses festzulegen; lasse los, um den Ball abzufeuern.
+- Über die UI kannst du Level bei Bedarf neu starten.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drag to aim and set power; release to shoot.
-- Restart via UI when needed.
+- Meine Schüsse wirken zufällig – wie bekomme ich Kontrolle?
+  
+  Reduziere die Schusskraft, nutze einfache Winkel und gewöhne dir feste
+  Anhaltspunkte an den Wänden an, von denen du regelmäßig Banden spielst.
 
-### Frequently Asked Questions (FAQ)
+- Gibt es Power-ups?
+  
+  In einigen Modi findest du Multiplikatoren oder Zeitlupen – spare sie für
+  besonders enge oder komplexe Passagen.
 
-- Q: Shots feel random — how to control?
-
-A: Lower power, use simpler angles, and learn consistent bank points on walls.
-
-- Q: Are there power‑ups?
-
-A: Some modes include multiplies or slow‑mo; save for tricky sections.
-
-- Q: Timed levels?
-
-A: If timed, prioritize safe progress over risky trick shots.
-
+- Sind Level zeitlich begrenzt?
+  
+  Falls es Timer gibt, priorisiere sichere Schüsse, die dich weiterbringen,
+  statt riskanter Trick-Shots.

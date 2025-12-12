@@ -1,12 +1,8 @@
 ---
 locale: zh
 urlstr: snake-io
-title: '[ZH TRANSLATION NEEDED] Snake.io'
-description: >-
-  [ZH TRANSLATION NEEDED] Play Snake.io, a popular multiplayer action game that
-  modernizes the classic snake experience. Compete against others to become the
-  longest snake by consuming pellets and defeating opponents. Use speed boosts
-  strategically to dominate the arena in this addictive casual game.
+title: 《Snake.io》多人贪吃蛇竞技
+description: 《Snake.io》是一款现代化的在线多人贪吃蛇动作游戏。吞食能量点、巧妙围杀对手，利用加速策略性地掌控战局，争夺场上最长、最大的一条蛇。
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/snake-io.jpg
 tags:
@@ -17,35 +13,37 @@ score: 3.5/5  (677 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Snake.io is a popular online multiplayer game that puts a modern spin on the classic snake concept. Players control a snake-like avatar and compete against other players in real-time to become the largest and longest snake on the server. The primary objective is to grow your snake by consuming glowing pellets scattered throughout the game area while strategically defeating opponents by forcing them to collide with your body.
+《Snake.io》是在经典单机贪吃蛇基础上做出的多人竞技改版。你将控制一条蛇形角色，在充满光点的竞技场中与其他玩家实时对抗。通过不断吞食地图上的能量点与其他玩家死亡后留下的大量光点，你的蛇会变得越来越长、越来越粗。你的目标是在一局游戏结束时成为场上体型最大、得分最高的那条蛇。
 
-### Gameplay Guide
+### 游玩指南
 
-[ZH TRANSLATION NEEDED] Your main goal is to grow by eating pellets. The pellets left behind by a defeated snake will make you grow much faster than the standard scattered ones. To defeat an opponent, you must trick them into running their head into your snake's body. When a snake is defeated, it transforms into a large trail of valuable pellets. Be careful, as your game ends if you run into another snake's body or the arena walls.
+你的核心任务是通过吃光点成长，同时巧妙击败其他玩家。
 
-### Controls Guide
+1.  **成长方式：** 不断吃散落的能量点即可缓慢变长，击败其他玩家后留下的光点则能让你在短时间内暴涨体型。
+2.  **击败对手：** 想要让对方“爆蛇”，只需通过走位把自己的身体摆在对方前进路线之上，让对方的蛇头撞到你的身体即可。注意反过来你也会以同样方式阵亡。
+3.  **保持安全：** 避免让自己的蛇头靠近体型明显更大的玩家，尤其是在他们加速或试图包夹时，及时退让比逞强更重要。
+4.  **加速使用策略：** 加速可以帮助你抢吃光点或迅速卡位围杀，但每一次加速都会消耗自身长度，需要在追击与保命之间做好权衡。
 
-[ZH TRANSLATION NEEDED] **PC/Web Browser:**
-- **Mouse:** Your snake follows the direction of your mouse cursor.
-- **Keyboard:** Use the `WASD` or arrow keys for movement.
-- **Speed Boost:** Hold the left mouse button or the spacebar to get a burst of speed. Using the boost consumes your mass, so use it wisely.
+### 操作说明
 
-[ZH TRANSLATION NEEDED] **Mobile:**
-- Use the on-screen virtual joystick or touch and drag your finger to guide the snake.
+**PC / 浏览器：**
+- **鼠标：** 蛇会自动朝鼠标光标的方向移动。
+- **键盘：** 也可以使用方向键或 WASD 来控制移动方向。
+- **加速：** 按住鼠标左键或空格键可触发短时间加速，但会缓慢消耗身体长度。
 
-### Frequently Asked Questions (FAQ)
+**移动端：**
+- 使用屏幕虚拟摇杆或在屏幕上拖动手指，控制蛇头行进方向。
 
-[ZH TRANSLATION NEEDED] **Is Snake.io a real multiplayer game?**
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] Yes, Snake.io is a real-time multiplayer game where you compete against other live players.
+**问：Snake.io 是真·多人在线吗？****
+答：** 是的，你会与其他实时在线玩家（或匹配到的对手）在同一张地图内竞争。
 
-[ZH TRANSLATION NEEDED] **What is the main difference between Snake.io and Slither.io?**
+**问：它和 Slither.io 有什么不同？****
+答：** 两者玩法类似，都是多人贪吃蛇竞技，但在皮肤数量、画面风格、手感细节以及地图演出上有所区别，可以根据偏好选择。
 
-[ZH TRANSLATION NEEDED] While the core gameplay is similar, Snake.io offers a wider variety of character skins and themed worlds.
-
-[ZH TRANSLATION NEEDED] **Can I play Snake.io with friends?**
-
-[ZH TRANSLATION NEEDED] Yes, you can compete with friends to see who can achieve the highest score and become the biggest snake.
+**问：能和朋友一起玩吗？****
+答：** 可以与朋友同时进入同一服务器或房间，比拼谁的得分更高、谁能先上排行榜，也可以玩“谁存活更久”的自定义小挑战。
 

@@ -1,65 +1,62 @@
 ---
 locale: zh
 urlstr: breakout
-title: '[ZH TRANSLATION NEEDED] Breakout'
-description: >-
-  [ZH TRANSLATION NEEDED] Control the paddle, bounce the ball, and destroy all
-  the bricks in the classic arcade game, Breakout. Learn tips and tricks to
-  master this timeless block-breaker.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
+title: Breakout 经典打砖块
+description: 《Breakout 经典打砖块》复刻街机时代名作，通过移动挡板反弹小球打碎屏幕上的砖块，配合各种强化道具闯过一 关又一关。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/breakout.html'
 thumbnail: /new-images/breakout.jpg
 tags:
-  - arcade
+  - action
   - casual
-score: 3.8/5  (494 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - flash
+score: 4.3/5  (1744 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
+*Breakout* 是最具代表性的街机打砖块游戏之一。你的任务只有一个：控制屏幕底部的挡板，把小球不断打回去，让它撞击顶部的砖块，直到整面砖墙被完全清空。
 
-### Game Introduction
+每当小球击中砖块，该砖块就会消失并为你计分；小球随后反弹回下方，你必须及时移动挡板接住它，避免球从屏幕底部落出。通常玩家只有三条命，球漏掉一次就失去一条命，所有命用尽则游戏结束。
 
-[ZH TRANSLATION NEEDED] Breakout is a classic and highly influential arcade game. The concept is simple yet addictive: the player controls a horizontal paddle at the bottom of the screen, which is used to deflect a bouncing ball upwards. At the top of the screen is a wall of bricks. The objective is to destroy all the bricks by hitting them with the ball.
+随着砖块越来越少，小球也会逐渐加速，容错率越来越低。真正的难点在于掌控击球角度、控制节奏，并在不漏球的情况下把屏幕彻底清空。
 
-[ZH TRANSLATION NEEDED] Each time the ball hits a brick, the brick disappears, and the player earns points. The ball then ricochets back down towards the paddle. The player must continuously move the paddle left and right to prevent the ball from falling past it and off the screen. The player is given a limited number of lives (usually three). The game is lost if all lives are gone.
+### 游戏策略与通关思路
 
-[ZH TRANSLATION NEEDED] As more bricks are cleared, the ball often speeds up, increasing the difficulty. The challenge lies in controlling the ball's trajectory and clearing the screen without losing all your lives.
+-   **掌握反弹角度是核心技能**  
+    小球反弹的方向完全取决于它击中挡板的部位。  
+    -   击中挡板中央 → 小球几乎垂直向上。  
+    -   击中挡板边缘 → 小球会斜着飞向侧面，角度越靠近边缘越刁钻。  
+-   **优先挖出“突破口”**  
+    尝试在砖墙最左或最右打出一条狭窄通道，让小球钻到砖块上方后在顶部来回反弹。这时它会自动清掉大片砖块，是最快速的得分手段。  
+-   **尽量守在屏幕中线附近**  
+    不要每次都把挡板追到角落，保持在中间区域做小幅移动，可以更从容地应对小球突然变向。  
+-   **最后一块砖时保持耐心**  
+    清场最难的往往是最后一块砖。别急着猛追，反而要慢慢摆好挡板，制造理想角度再把它补掉。  
 
-### Gameplay Strategy
+### 操作指南
 
--   **Master Angle Control:** This is the most crucial skill in Breakout. The direction the ball bounces depends on *where* it hits your paddle.
-     -   Hitting the ball in the **center** of the paddle will send it straight up.
-     -   Hitting the ball on the **edges** of the paddle will send it off at a sharp angle toward the sides. Mastering this allows you to aim for specific bricks.
--   **The "Breakthrough" or "Tunneling" Strategy:** The single most effective strategy is to create a tunnel on one side of the brick wall. Use angled shots to carve a path through the bricks on the far left or right. Once the ball gets *above* the main wall of bricks, it will bounce between the ceiling and the top layer of bricks, clearing large sections automatically and very quickly. This is the key to high scores and efficient level clearing.
--   **Stay Near the Center:** Avoid frantically chasing the ball to the corners of the screen. It's better to make small, controlled movements and try to stay relatively centered. This gives you a better chance to react, no matter which direction the ball comes from.
--   **Patience with the Last Brick:** Often, the most frustrating part of a level is trying to hit the very last brick. Don't panic. Take your time, focus on your paddle position, and try to set up the perfect angled shot to hit it.
+Breakout 的操作非常简单，不过不同平台的控制方式略有差异。
 
-### Controls Guide
+-   **PC / 网页版：**  
+    - **左右方向键：** 控制挡板左右移动。  
+    - **鼠标移动：** 许多现代版本支持直接左右移动鼠标即可驱动挡板。  
+-   **街机原版：**  
+    - 使用 **旋钮（paddle controller）**，可实现更精细的位移控制。  
+-   **移动设备：**  
+    - **触控拖拽：** 在屏幕底部长按并左右拖动即可移动挡板。  
 
-[ZH TRANSLATION NEEDED] The controls for Breakout are famously simple and vary slightly depending on the platform.
+### 常见问题解答（FAQ）
 
--   **PC / Web Browser:**
-     -   **Left/Right Arrow Keys:** Move the paddle left and right.
-     -   **Mouse:** In many modern versions, you can simply move your mouse left and right to control the paddle.
+**1. 如何控制小球的方向？**  
+> 关键在于让小球击中挡板的不同部位。挡板中央会让球垂直向上，左/右边缘会把球送往对应方向，越靠近边缘角度越陡。  
 
--   **Original Arcade:**
-     -   A **rotary dial** or **paddle controller** was used to move the paddle with precision.
+**2. 为什么球会越来越快？**  
+> 速度提升是核心难度机制。通常在击中一定数量的砖或击破某种颜色后，小球会自动加速，让后半段关卡更具挑战。  
 
--   **Mobile Devices:**
-     -   **Touch and Drag:** Tap and drag your finger across the bottom of the screen to move the paddle.
+**3. 想快速通关有什么技巧？**  
+> 使用“打通侧边隧道”的策略。一旦小球进入砖墙上方，它会自动在顶部反弹并瞬间清掉大半层砖。  
 
-### Frequently Asked Questions (FAQ)
-
-[ZH TRANSLATION NEEDED] **1. How can I control where the ball goes?**
-[ZH TRANSLATION NEEDED] > You control the ball's direction by changing where it makes contact with your paddle. Hitting it with the center of the paddle sends it up vertically. Hitting it with the left side of the paddle sends it to the left, and hitting it with the right side sends it to the right. The further to the edge you hit it, the sharper the angle will be.
-
-[ZH TRANSLATION NEEDED] **2. Why does the ball speed up?**
-[ZH TRANSLATION NEEDED] > The ball speeding up is a core difficulty mechanic. It happens automatically after a certain number of hits or when you reach a certain color of brick. This keeps the game challenging as you progress through a level.
-
-[ZH TRANSLATION NEEDED] **3. What is the best way to clear a level quickly?**
-[ZH TRANSLATION NEEDED] > Use the "tunneling" strategy. Focus on breaking a hole through one of the side columns of bricks. Once the ball is behind the wall, it will do most of the work for you by bouncing around at the top of the screen.
-
-[ZH TRANSLATION NEEDED] **4. Are there power-ups in Breakout?**
-[ZH TRANSLATION NEEDED] > The original classic Breakout did not feature power-ups. However, the game inspired an entire genre of "block-breaker" games, and many of its successors and modern versions (most famously *Arkanoid*) introduced power-ups like multi-ball, a longer paddle, laser cannons, a slower ball, a sticky paddle, etc.
-
+**4. 原版 Breakout 有道具吗？**  
+> 没有。最初的 Breakout 只有挡板和小球。后来衍生的 Arkanoid 等作品才加入多球、加长挡板、激光等强化效果。  

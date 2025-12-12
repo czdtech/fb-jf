@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: match-puzzle-house
-title: '[ZH TRANSLATION NEEDED] Match Puzzle House'
+title: "《Match Puzzle House》三消装修小屋"
 description: >-
-  [ZH TRANSLATION NEEDED] Match Puzzle House is a home‑makeover match‑3 —
-  complete goals, earn stars, and renovate rooms with smart booster usage.
+  《Match Puzzle House》是一款将三消解谜与家居装修结合的休闲游戏，通过完成关卡目标获取星星，再为各个房间进行翻新与布置。
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/match-puzzle-house.png
 tags:
@@ -16,32 +15,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear blockers, collect items within move caps, and spend stars on decor. Boosters and power‑up merges are key on dense layouts.
+《Match Puzzle House》把经典三消玩法和家装模拟融合在一起。你需要在棋盘上通过交换相邻方块来完成关卡目标，清除障碍、收集指定物品，并在有限步数内达成任务。通关后获得的星星可以用来解锁和装修房间，从墙纸、地板到家具、装饰，一点点把破旧小屋打造成理想空间。合理利用各种增益道具和特殊消除，是闯过高难度关卡的关键。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Central control: Open the middle first for combo space.
-2.  [ZH TRANSLATION NEEDED] Merge smart: Save bomb/line/color clears for tight goals.
-3.  [ZH TRANSLATION NEEDED] Star economy: Spend stars to unlock booster slots when stuck.
-4.  [ZH TRANSLATION NEEDED] Edge awareness: Don’t strand colors on walls.
-5.  [ZH TRANSLATION NEEDED] Two‑turn plans: Map your next move to avoid breaking setups.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **中央控场：** 优先打开棋盘中间区域，为自己创造更多连锁与特殊方块的生成空间，中部通常是连接四面八方的“交通枢纽”。
+2.  **聪明合成：** 不要立刻使用刚生成的炸弹、直线消除或彩色球等道具，在目标紧张或局面拥挤时再一并引爆，可以最大化覆盖面积和收益。
+3.  **星星经济：** 星星不仅用来装修，还经常解锁新区域或功能。当卡关时，可以优先把星星投入到能提供道具、体力或功能加成的任务上。
+4.  **边缘意识：** 注意不要把关键颜色或特殊方块“孤立”在棋盘边缘，边缘可用的交换方向更少，容易造成资源浪费。
+5.  **两步规划：** 每次操作前尽量想好接下来的 1–2 步，避免因为一次仓促交换打断潜在的大消除或连锁。
 
-- Drag to swap; use boosters via UI; decorate rooms between levels.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 拖动交换相邻方块以形成三连及以上的消除；通过界面上的按钮使用增益道具；在关卡之间进入房间场景，选择不同家具与装饰完成装修。
 
-- Q: I’m stuck on a chain level.
+### 常见问题（FAQ）
+
+- **问：被“锁链关卡”卡住了怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Prioritize detonations adjacent to chains; lines through chains speed clears.
+  **答：** 优先在锁链附近制造和引爆炸弹或直线消除，让一次爆炸同时清掉多条锁链；能穿过锁链的直线消除非常高效。
 
-- Q: Do renovations help in‑game?
+- **问：装修对关卡有没有实际加成？**
   
-[ZH TRANSLATION NEEDED]   A: Mostly cosmetic; some unlock progression rewards.
+  **答：** 大多数装修主要是视觉和收集向，但部分任务完成后可以解锁额外奖励，如一次性道具、体力或新的区域，让整体推进更顺畅。
 
-- Q: Best generic booster?
+- **问：哪种通用道具最值得保留？**
   
-[ZH TRANSLATION NEEDED]   A: Color clear to reshape stubborn boards.
-
+  **答：** 全屏或全色清除类道具通常最强，可以彻底改写局面。在关键卡关时再用，比在简单关卡随手放掉更划算。

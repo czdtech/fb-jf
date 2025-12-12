@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: pets-rush
-title: '[FR] Pets Rush'
-description: >-
-  [FR] A fast-paced and colorful match-3 puzzle! Swap cute pets to make matches
-  of three or more, create powerful combos, and clear the board before the pets
-  reach the top.
+title: Pets Rush
+description: "Pets Rush est un match‑3 nerveux\_: échange des animaux trop mignons pour former des lignes, déclencher des combos et empêcher le mur de blocs d’atteindre le haut de l’écran."
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/pets-rush.jpg
@@ -14,37 +11,40 @@ tags:
   - casual
   - action
 score: 4.3/5  (2150 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Pets Rush est un jeu de match‑3 survie sur le thème des animaux. Au lieu de niveaux fixes, un mur de blocs « pet » colorés monte en continu depuis le bas de l’écran. Tu dois enchaîner les échanges pour créer des lignes d’au moins trois animaux identiques, déclencher des réactions en chaîne et maintenir la pile sous contrôle le plus longtemps possible.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Garder la hauteur sous contrôle :** ta priorité est d’empêcher une colonne de toucher le haut ; cible en priorité les colonnes les plus hautes.  
+2.  **Chercher les combos :** prépare des alignements qui provoqueront des matches supplémentaires lorsqu’un groupe disparaît. Les combos libèrent plus d’espace et rapportent plus de points.  
+3.  **Réagir vite :** la vitesse de montée augmente avec le temps ; entraîne‑toi à repérer les matches possibles d’un simple coup d’œil.  
+4.  **Profiter des blocs spéciaux :** dès que des blocs bonus apparaissent (lignes, bombes, couleurs spéciales), utilise‑les pour nettoyer de larges zones en urgence.
 
-Pets Rush is a fast-paced and exciting match-3 puzzle game with an adorable animal theme. Unlike traditional level-based match-3 games, this is a game of survival. A wall of colorful pet blocks continuously rises from the bottom of the screen, and you must frantically make matches to keep it from reaching the top. Swap adjacent pets to create lines of three or more, trigger combos, and clear the board for as long as you can to achieve a high score.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** **Stay Ahead of the Rise:** Your primary goal is to prevent any column from reaching the top of the screen. Always prioritize making matches in your tallest columns to push them back down.
-2.  **[FR]** **Look for Combos:** The most effective way to clear the board is to set up chain reactions. When you make a match, new pets will fall into place. Look for opportunities where clearing one line will cause another match to form automatically. These combos clear more space and award more points.
-3.  **[FR]** **Think Fast, Act Fast:** The wall of pets will rise faster as the game progresses. You need to quickly identify and execute matches to keep up with the increasing speed.
-4.  **[FR]** **Special Blocks:** Keep an eye out for any special blocks or power-ups that might appear. These can help you clear large sections of the board in a pinch.
-
-### Controls Guide
 
 The game is played with simple swap controls.
+- Clique sur un animal puis sur un voisin pour les échanger, ou glisse directement un bloc vers une case adjacente. L’échange ne se fait que s’il crée un match valide.
 
-*   **[FR]** **Swap Pets:** Click on a pet and then click on an adjacent pet to swap their positions. You can also click and drag one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q : Comment se termine la partie ?**  
+  **R :** Lorsque l’une des colonnes atteint le haut de l’écran.
 
-*   **[FR]** **Q: How do I lose the game?**
-    *   **[FR]** **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.
+    - **Q : Comment maximiser mon score ?**  
 
-*   **[FR]** **Q: What is the best way to get a high score?**
-    *   **[FR]** **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
+- **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
 
-*   **[FR]** **Q: Is there a way to stop the blocks from rising?**
-    *   **[FR]** **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
+    - **Q: Is there a way to stop the blocks from rising?**
+
+- **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
+
+    - **Q: What is the best way to get a high score?**
+  **R :** Survis le plus longtemps possible et privilégie les chaînes de matches multiples plutôt que les simples lignes.
 

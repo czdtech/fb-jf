@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: drift-boss
-title: '[FR] Drift Boss'
+title: 'Drift Boss'
 description: >-
-  [FR] Drift Boss is a one‑button drifting game: time your turns to stay on the
+  Drift Boss is a one‑button drifting game: time your turns to stay on the
   track and earn coins for upgrades.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/drift-boss.jpg

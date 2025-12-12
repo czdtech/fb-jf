@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: ragdoll-archers
-title: '[ES] Ragdoll Archers'
+title: "Ragdoll Archers"
 description: >-
-  [ES] Ragdoll Archers is a physics-based archery game where players control
-  wobbly ragdoll archers to shoot arrows at opponents, with realistic physics
-  making each shot challenging and entertaining.
-iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
-thumbnail: /new-images/ragdoll-archers.jpg
+  Ragdoll Archers es un juego de tiro con arco basado en físicas en el que
+  controlas arqueros tipo ragdoll y disparas flechas a tus oponentes, con una
+  física realista que hace que cada tiro sea tan desafiante como divertido.
+iframeSrc: "https://bitlifeonline.github.io/ragdoll-archers/"
+thumbnail: "/new-images/ragdoll-archers.jpg"
 tags:
   - physics
   - archery
@@ -17,34 +17,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Ragdoll Archers" es un juego de tiro con arco con físicas en el que controlas
+arqueros tambaleantes tipo ragdoll para disparar flechas a tus rivales. La
+física realista hace que cada disparo sea un reto, mientras que la inestabilidad
+de los personajes añade mucho humor y situaciones impredecibles a cada duelo.
 
-### Game Introduction
+### Estrategias de juego
 
-"Ragdoll Archers" is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents. The realistic physics effects make each shot challenging and entertaining, while the character instability adds humor and unpredictability to the game.
+1.  **Domina la puntería:** Aprende a ajustar el ángulo del arco y la potencia
+    del disparo, teniendo en cuenta el efecto de la gravedad e incluso de la
+    resistencia del aire sobre la trayectoria de las flechas.
+2.  **Anticipa el movimiento del objetivo:** Muchos enemigos se mueven, así que
+    tendrás que disparar ligeramente por delante de ellos para acertar.
+3.  **Aprovecha el entorno:** Usa el terreno, plataformas y obstáculos como
+    cobertura o para crear ángulos de disparo ventajosos.
+4.  **Cuida el equilibrio:** Al ser personajes ragdoll, mantener la postura es
+    clave para tirar con precisión. Los golpes o caídas pueden arruinar tu
+    siguiente disparo.
+5.  **Reacciona rápido:** El ritmo de la partida puede ser muy alto. Decide
+    rápido cuándo disparar y cuándo reposicionarte.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Master Shooting Skills**: Learn to adjust bow angle and power, considering the effects of gravity and air resistance on arrow trajectory.
-2.  **[ES]** **Predict Target Movement**: Opponents may move, so you need to anticipate their position for accurate hits.
-3.  **[ES]** **Utilize Environment**: Make good use of terrain and obstacles to protect yourself or create tactical advantages.
-4.  **[ES]** **Maintain Balance**: Due to the ragdoll nature of characters, maintaining balance is crucial for accurate shooting.
-5.  **[ES]** **Quick Reactions**: The game has a fast pace, requiring quick shooting decisions.
+*   **Apuntar:** Normalmente se apunta arrastrando con el ratón para ajustar el
+    ángulo y la fuerza.
+*   **Disparar:** Suelta el ratón o haz clic para lanzar la flecha cuando tengas
+    la trayectoria deseada.
+*   **Moverse:** Usa el teclado o la pantalla táctil (según la versión) para
+    desplazar a tu arquero.
+*   **Recargar:** En algunas ediciones tendrás que recargar flechas de forma
+    manual entre disparos.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Aim**: Typically use mouse dragging to adjust shooting angle and power.
-*   **[ES]** **Shoot**: Release mouse or click to fire arrows.
-*   **[ES]** **Move**: Use keyboard or touch screen to control character movement (if supported by the game).
-*   **[ES]** **Reload**: Some versions may require manual arrow reloading.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: Why is my character always swaying?**
-**A**: This is a design feature of the game; the ragdoll physics effects make characters unstable, which is part of the game's charm.
-2.  **[ES]** **Q: How can I improve shooting accuracy?**
-**A**: Practice aiming more, familiarize yourself with the physics engine characteristics, and learn to predict target movement.
-3.  **[ES]** **Q: Are there different game modes?**
-**A**: Many versions offer different game modes such as single-player vs AI, multiplayer battles, survival mode, etc.
-4.  **[ES]** **Q: Is there a limit to the number of arrows?**
-**A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
+1.  **P: ¿Por qué mi personaje está siempre tambaleándose?**
+    **R:** Es una decisión de diseño. La física ragdoll hace que los arqueros
+    sean algo inestables, y precisamente ahí está parte del encanto y la
+    dificultad del juego.
+2.  **P: ¿Cómo puedo mejorar mi precisión?**
+    **R:** Practica mucho la puntería, familiarízate con cómo responde la
+    trayectoria de las flechas y aprende a anticipar el movimiento de los
+    enemigos.
+3.  **P: ¿Hay diferentes modos de juego?**
+    **R:** Muchas versiones incluyen modos como un jugador contra la IA,
+    enfrentamientos multijugador, modo supervivencia y más.
+4.  **P: ¿Hay límite de flechas?**
+    **R:** Depende del modo. Algunos tienen munición limitada y otros te dejan
+    disparar sin restricciones.

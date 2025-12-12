@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: google-snake
-title: '[KO] Google Snake'
+title: "Google Snake 구글 스네이크"
 description: >-
-  [KO] Modern take on Snake: guide a growing snake to eat fruit, avoid
-  collisions, and chase high scores with optional rulesets.
+  클래식 뱀 게임을 현대적으로 재해석한 버전입니다. 과일을 먹어 몸을 키우되
+  벽과 자신의 몸통에 부딪히지 않도록 조심하며, 다양한 규칙과 모드로 최고
+  점수를 노려 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/google-snake.jpg
@@ -19,27 +20,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Google Snake updates the classic formula with clean visuals and optional modes. Eat fruit to grow while avoiding walls and your own tail. Speed rises as you survive longer; variant rules change board size, obstacles, and item effects.
+### 게임 개요
 
-### How to Play
-- Plan routes that leave escape lanes; never box yourself in.
-- Use the outer ring for long straight runs; dive inward for pickups.
-- Adapt to special items/modes as enabled by the host.
+`Google Snake`는 깔끔한 그래픽과 여러 선택형 모드를 갖춘 뱀 키우기 아케이드
+게임입니다. 맵 위에 등장하는 과일을 먹을 때마다 몸이 한 칸씩 길어지며, 벽이나
+자신의 꼬리에 부딪히면 게임이 끝납니다. 오래 살아남을수록 속도가 빨라지고,
+보드 크기나 장애물, 아이템 효과를 바꾸는 다양한 룰셋이 제공될 수 있습니다.
 
-### Controls
-- Arrow keys or WASD to steer; pause/restart via UI.
+### 플레이 방법
 
-### Tips
-- Don’t turn 180° into your neck—make wide turns.
-- Keep the tail straight when possible to maximize options.
-- When fast, pre‑input turns one tile early.
+- 항상 탈출 경로를 남겨 두는 동선을 계획하고, 자신을 둘러싸는 형태로 움직이지
+  않도록 주의하세요.
+- 맵의 바깥쪽 링에서는 긴 직선 주행으로 몸을 정리하고, 과일을 먹을 때만 안쪽으로
+  잠깐 파고들었다가 다시 바깥으로 돌아오는 패턴이 안정적입니다.
+- 호스트에서 지원하는 특수 아이템이나 모드(속도 변화, 장애물 추가 등)가 있다면,
+  해당 효과에 맞춰 움직임 패턴을 유연하게 바꾸어야 합니다.
 
-### FAQ
-- Q: How can I avoid running into my own tail?
-A: Keep the tail compact by using straight segments and avoid tight spirals.
-- Q: Does the game get faster over time?
-A: Yes, most versions increase speed with score.
-- Q: Are there different board setups?
-A: Many hosts offer sizes, obstacles, and item variants.
+### 조작 방법
 
+- 방향키 또는 `WASD` 키로 뱀의 진행 방향을 조종합니다.
+- 일시정지/재시작 등은 화면 UI 버튼을 통해 사용할 수 있습니다.
+
+### 플레이 팁
+
+- 180도로 바로 꺾어 자기 목 부분과 정면충돌하지 않도록, 가능한 한 넓은 곡선으로
+  회전하세요.
+- 몸통을 지나치게 꼬불꼬불하게 만들기보다는, 직선 구간을 많이 만들면 다음
+  이동 선택지가 더 많아집니다.
+- 속도가 빨라지면, 원하는 지점보다 한 타일 먼저 방향키를 입력해 선행 조작을
+  해 두는 것이 좋습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 자기 꼬리에 자꾸 부딪힙니다. 어떻게 줄일 수 있을까요?  
+  A: 직선 구간 위주로 움직여 꼬리를 컴팩트하게 유지하고, 빽빽한 나선형
+  패턴은 피하는 것이 좋습니다.
+- Q: 시간이 지날수록 게임이 빨라지나요?  
+  A: 대부분의 버전에서 점수가 오를수록 이동 속도가 점점 빨라져 난이도가
+  올라갑니다.
+- Q: 보드 설정을 바꿀 수 있나요?  
+  A: 많은 호스트에서 크기, 장애물 배치, 아이템 종류 등을 설정할 수 있는
+  옵션을 제공합니다.

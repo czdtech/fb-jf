@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: cuphead
-title: '[ES] Cuphead'
+title: "Cuphead"
 description: >-
-  [ES] Cuphead is a fast‑paced run‑and‑gun: master precise jumps, dashes, and
-  boss patterns to survive intense fights.
+  Cuphead es un frenético run‑and‑gun: domina saltos y dashes precisos, aprende
+  los patrones de los jefes y sobrevive a combates tan duros como espectaculares.
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/cuphead.jpg
 tags:
@@ -15,59 +15,96 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **Introducción al juego**
 
+Cuphead es un clásico juego de acción run‑and‑gun centrado casi por completo en
+batallas contra jefes. Visual y sonoramente está mimado al detalle con el
+estilo de los dibujos animados de los años 30: animación tradicional dibujada a
+mano, fondos acuarelados y una banda sonora de jazz en directo.
 
+La historia sigue a Cuphead y a su hermano Mugman, que tras perder una apuesta
+con el Diablo deben reunir los "contratos de alma" de otros deudores fugados.
+Estos deudores se convierten en los variadísimos y desafiantes jefes del juego.
 
-### **Game Introduction**
+La experiencia se divide en dos tipos principales de niveles:
 
-Cuphead is a classic run-and-gun action game heavily focused on boss battles. Visually and audibly, it is meticulously designed in the style of 1930s cartoons, featuring hand-drawn cel animation, watercolor backgrounds, and a live jazz soundtrack.
+1.  **Batallas contra jefes:** El corazón del juego. Son combates de varias
+    fases contra enemigos enormes y muy creativos, cada uno con patrones de
+    ataque únicos que tendrás que memorizar y superar.
+2.  **Niveles Run & Gun:** Fases de plataformas laterales más clásicas en las
+    que avanzas entre oleadas de enemigos pequeños hasta llegar al final. Estos
+    niveles son la fuente principal de monedas, que sirven para comprar armas y
+    amuletos.
 
-The game's narrative follows Cuphead and his brother Mugman, who, after losing a bet with the Devil, are tasked with collecting the "soul contracts" from the Devil's other runaway debtors. These debtors manifest as the game's diverse and challenging bosses.
+El juego es famoso por su alta dificultad: exige precisión, reflejos rápidos y
+una mentalidad de prueba‑y‑error para aprender cada patrón enemigo.
 
-Gameplay is split into two main types of levels:
-1.  **[ES]** **Boss Battles**: The core of the game. These are multi-phase encounters against large, creative enemies, each with a unique set of attack patterns that must be memorized and overcome.
-2.  **[ES]** **Run & Gun Levels**: More traditional side-scrolling platforming stages where players must navigate through hordes of smaller enemies to reach the end. These levels are the primary source of coins, which are used to purchase new weapons and charms.
+### **Estrategia y consejos de juego**
 
-The game is renowned for its high difficulty, demanding precise timing, quick reflexes, and a trial-and-error approach to learning enemy patterns.
+1.  **Reconocer patrones lo es todo:** Aquí no gana quien más dispara, sino quien
+    mejor aprende. Cada jefe tiene patrones de ataques bien definidos en cada
+    fase. Asume que morirás muchas veces: observa, aprende el patrón y vuelve a
+    intentarlo. Prioriza esquivar; disparar viene después.
+2.  **Domina el Parry Slap:** Es la mecánica más importante del juego. Cualquier
+    objeto **rosa** se puede repeler. Para hacer parry, salta y pulsa de nuevo el
+    botón de salto al tocar el objeto rosa. Un buen parry llena tu medidor de
+    súper y, en ocasiones, es obligatorio para avanzar o evitar ataques.
+3.  **Aprovecha bien tu arsenal:**
+    *   **EX Moves:** Cada arma tiene un ataque "EX" que consume una carta del
+        medidor. Hacen mucho daño y son perfectos para rematar fases difíciles.
+    *   **Super Arts:** Son tus súper ataques, que se desbloquean en los niveles
+        del Mausoleo. Pueden darte invencibilidad temporal o lanzar un enorme
+        ataque. Guárdalos para las fases finales más caóticas.
+    *   **Armas y amuletos:** No te quedes con el arma básica. Usa las monedas de
+        los Run & Gun para comprar otras. El **Spread** es excelente para daño a
+        corta distancia, mientras que el **Chaser** va genial cuando necesitas
+        centrarte en esquivar. Como amuleto, el **Smoke Bomb** (dash con
+        invencibilidad) es el favorito para principiantes.
+4.  **No seas avaricioso:** Un error común es intentar meter "un disparo más"
+    cuando deberías estar esquivando. Siempre es mejor evitar daño que hacer un
+    poco más. Ten paciencia y ataca solo en aperturas seguras.
+5.  **Usa el botón de fijar posición (Lock):** Te permite quedarte quieto y
+    apuntar en ocho direcciones. Es crucial para golpear puntos débiles que no
+    están justo delante mientras te concentras en esquivar proyectiles.
+6.  **Cooperativo: bendición y caos a la vez:** En modo de dos jugadores puedes
+    revivir a tu compañero haciendo parry sobre su fantasma. Pero los jefes
+    tienen más vida y la pantalla se llena de proyectiles y personajes, así que
+    la coordinación es imprescindible.
 
-### **Gameplay Strategy & Tips**
+### **Guía de controles**
 
-1.  **[ES]** **Pattern Recognition is Everything**: This is not a game about brute force. Every boss has a set of predictable attack patterns for each of its phases. Your goal is to die, learn the pattern, and try again. Focus on dodging first and attacking second.
-2.  **[ES]** **Master the Parry Slap**: This is the single most important mechanic. Any object that is **pink** can be parried. To parry, jump and then press the jump button again while in contact with the pink object. A successful parry will fill your Super Meter, and it is sometimes necessary for platforming or avoiding certain attacks.
-3.  **[ES]** **Use Your Arsenal Wisely**:
-    *   **[ES]** **EX Moves**: Each weapon has a powerful "EX" version that costs one Super Meter card. These deal significant damage and are great for finishing a difficult boss phase quickly.
-    *   **[ES]** **Super Arts**: Your ultimate moves, unlocked at Mausoleum levels. They can grant temporary invincibility or unleash a massive attack. Save them for the most chaotic final phases of a boss fight.
-    *   **[ES]** **Weapons and Charms**: Don't stick with the default weapon. Use the coins from Run & Gun levels to buy new ones. The **Spread** shot is excellent for close-range damage, while the **Chaser** is great for when you need to focus entirely on dodging. For charms, the **Smoke Bomb** (which makes your dash invincible) is widely considered the best for beginners.
-4.  **[ES]** **Don't Get Greedy**: A common mistake is trying to squeeze in one extra shot when you should be dodging. It is always better to avoid taking damage than to deal a little bit more. Stay patient and wait for safe openings to attack.
-5.  **[ES]** **Use the Lock Button**: The "Lock" button allows you to stand in place and aim in 8 directions. This is crucial for hitting bosses or weak points that are not directly in front of you, all while you focus on dodging projectiles.
-6.  **[ES]** **Co-op Can Be a Blessing and a Curse**: In two-player mode, you can revive your partner with a parry slap on their ghost. However, bosses have increased health, and the screen becomes much more chaotic. Communication is essential for success.
+Los controles son muy precisos. Estos son los mapeos de teclado más habituales:
 
-### **Controls Guide**
+*   **Moverse:** `Flechas` o `W, A, S, D`
+*   **Saltar:** `Z` o `Barra espaciadora`
+*   **Disparar:** `X` o `Ctrl` izquierdo
+*   **Dash / Esquiva:** `Shift` izquierdo
+*   **Fijar posición (Lock):** `V` o `Ctrl` derecho
+*   **Cambiar de arma:** `C` o `Tab`
+*   **Ataque EX / Súper (con medidor lleno):** `E` o `Q`
 
-The controls are responsive and precise. Below are the default keyboard controls.
+### **Preguntas frecuentes (FAQ)**
 
-*   **[ES]** **Move**: `Arrow Keys` or `W, A, S, D`
-*   **[ES]** **Jump**: `Z` or `Space Bar`
-*   **[ES]** **Shoot**: `X` or `Left Ctrl`
-*   **[ES]** **Dash / Dodge**: `Left Shift`
-*   **[ES]** **Lock (Hold to stay in place)**: `V` or `Right Ctrl`
-*   **[ES]** **Switch Weapon**: `C` or `Tab`
-*   **[ES]** **EX Move / Super Art (when meter is full)**: `E` or `Q`
+**1. ¿Es tan difícil como dicen?**  
+Sí. Cuphead está diseñado a propósito para ser exigente, como los arcades
+clásicos. Requiere paciencia y aceptar que vas a fallar muchas veces. Es duro,
+pero justo.
 
-### **Frequently Asked Questions (FAQ)**
+**2. ¿Cuál es la mejor combinación de arma y amuleto?**  
+No hay un set único perfecto, depende del jefe. Aun así, una combinación muy
+popular para empezar es **Spread** + **Chaser** junto al amuleto **Smoke Bomb**.
 
-**1. Is this game really as hard as people say?**
-Yes. Cuphead is a deliberately challenging game that harks back to the difficulty of classic arcade games. It requires patience and a willingness to learn from your mistakes. It is tough but fair.
+**3. ¿Cómo desbloqueo las Super Arts?**  
+Completando los niveles del Mausoleo. En ellos tienes que hacer parry a una
+serie de fantasmas rosas para proteger una urna. Hay tres Mausoleos en total y
+cada uno te da una Super Art distinta.
 
-**2. What is the best weapon and charm setup?**
-There is no single "best" setup, as it often depends on the boss. However, a highly effective and popular combination for beginners is the **Spread** shot (for high damage up close) and the **Chaser** shot (for when dodging is the priority), combined with the **Smoke Bomb** charm.
+**4. ¿Para qué sirven exactamente los niveles Run & Gun?**  
+Su función principal es darte **monedas**. Las necesitas para comprar armas y
+amuletos en la tienda (Porkrind's Emporium), que son fundamentales para derrotar
+jefes.
 
-**3. How do I get Super Arts?**
-You unlock Super Arts by completing the Mausoleum levels. In these levels, you must parry a series of pink ghosts to save an urn. There are three Mausoleums in total, each rewarding one Super Art.
-
-**4. What is the point of the Run & Gun levels?**
-Their primary purpose is to provide you with **coins**. You need these coins to buy essential weapons and charms from the shop (Porkrind's Emporium), which are critical for defeating the bosses.
-
-**5. Is two-player co-op easier?**
-It depends on the players. The ability to revive a fallen partner is a huge advantage. However, bosses have more health, and with two characters and double the projectiles on screen, it can become visually overwhelming. It can be easier if you have good coordination with your partner.
-
+**5. ¿Es más fácil jugar en cooperativo?**  
+Depende. Poder revivir al compañero es una gran ventaja, pero los jefes tienen
+más vida y la pantalla se llena de todavía más proyectiles. Si os coordináis
+bien, puede ser más llevadero; si no, puede ser incluso más caótico.

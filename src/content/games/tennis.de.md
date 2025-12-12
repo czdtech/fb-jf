@@ -1,11 +1,8 @@
 ---
 locale: de
 urlstr: tennis
-title: '[DE] Tennis'
-description: >-
-  [DE] Step onto the court in this classic arcade Tennis game! Grab your racket
-  and compete against a challenging opponent. Serve, rally, and score points to
-  win the match. It's a simple, fun, and addictive sports game for everyone.
+title: "Tennis"
+description: "Klassisches Arcade‑Tennis im Browser: Schnapp dir deinen Schläger, serviere, spiele lange Ballwechsel und sichere dir Punkt um Punkt den Matchgewinn – leicht zu lernen, aber erstaunlich süchtig machend."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/tennis.jpg
 tags:
@@ -16,36 +13,34 @@ score: 4.7/5  (793 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Dieses klassische Arcade‑Tennisspiel fängt den einfachen, aber süchtig machenden Spaß des Sports ein. Du steuerst eine/n Tennisspieler/in auf dem Court und trittst in schnellen Ballwechseln gegen einen Computergegner an. Dein Ziel ist es, den Ball immer wieder über das Netz zu spielen und Punkte zu machen, wenn dein Gegner ihn nicht mehr zurückbringt.
 
-### Game Introduction
+### Spielanleitung
 
-This is a classic arcade-style tennis game that captures the simple, addictive fun of the sport. Players control a tennis player on the court, competing against a computer-controlled opponent in a fast-paced match. The goal is to hit the ball back and forth, scoring points when your opponent fails to return it.
+- **Ziel:** Sei als Erste/r bei der benötigten Punkt‑ oder Satzanzahl und gewinne das Match.
+- **Aufschlag:** Jeder Ballwechsel beginnt mit einem Aufschlag, den du ins gegnerische Aufschlagfeld platzierst.
+- **Rallyes:** Nach dem Aufschlag spielst du den Ball hin und her. Du musst den Ball zurückschlagen, bevor er zweimal auf deiner Spielfeldhälfte aufkommt.
+- **Punkte:** Du bekommst Punkte, wenn dein Gegner den Ball ins Aus schlägt, ins Netz haut oder ihn nicht rechtzeitig zurückbringt.
 
-### Gameplay Guide
+### Steuerung
 
-- **Objective:** Be the first player to win the required number of points or sets to win the match.
-- **Serving:** Start each point by serving the ball over the net into the opponent's service box.
-- **Rallying:** After the serve, hit the ball back and forth with your opponent. You must return the ball before it bounces twice on your side of the court.
-- **Scoring:** You score a point if your opponent hits the ball out of bounds, into the net, or fails to return it before it bounces twice.
+Die Steuerung ist bewusst simpel gehalten:
 
-### Controls Guide
+- **Bewegung:** `Pfeiltasten` oder `WASD`, um dich auf deiner Platzhälfte zu bewegen.
+- **Schlag/Aufschlag:** `Leertaste` oder Taste `X`, um den Schläger zu schwingen und den Ball zu schlagen. Das Timing deines Schlages beeinflusst Kraft und Richtung.
 
-Controls are designed to be simple and intuitive:
-- **Movement:** `Arrow Keys` or `WASD` to move your player around your side of the court.
-- **Swing / Hit:** `Spacebar` or `X` key to swing your racket and hit the ball. The timing of your swing can affect the power and direction of the shot.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Wie wird in diesem Tennis‑Spiel gepunktet?**
 
-**How do I score points in tennis?**
+Viele Arcade‑Versionen vereinfachen das klassische 15‑30‑40‑System und lassen dich einfach eine feste Anzahl an Punkten gewinnen (z. B. „wer zuerst 7 hat, gewinnt“). Trotzdem gilt: Jeder gewonnene Ballwechsel bringt dir einen Punkt.
 
-In a standard game, points are scored as 15, 30, 40, and then game point. You need to win by at least two points. Many arcade versions simplify this to just winning a set number of points (e.g., first to 7).
+**Wie kann ich meine Schläge gezielt platzieren?**
 
-**How can I aim my shots?**
+In vielen klassischen Tennisspielen hängt die Richtung davon ab, wann du den Ball triffst. Triffst du ihn eher „früh“, fliegt er eher cross, triffst du später, geht er eher die Linie entlang.
 
-In most classic tennis games, your shot direction is determined by when you hit the ball relative to your player's body. Hitting it early sends it cross-court, while hitting it late sends it down the line.
+**Kann ich gegen eine zweite Person spielen?**
 
-**Can I play against another person?**
-
-Many classic tennis games feature a 2-player mode where you can compete against a friend on the same keyboard.
-
+Einige Versionen bieten einen lokalen Zwei‑Spieler‑Modus, in dem ihr euch eine Tastatur teilt und gegeneinander antretet. Schau im Menü, ob ein 2‑Player‑Eintrag vorhanden ist.

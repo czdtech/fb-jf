@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: word-detector
-title: '[ZH TRANSLATION NEEDED] Word Detector'
+title: 'Word Detector：单词侦探'
 description: >-
-  [ZH TRANSLATION NEEDED] Put your vocabulary to the test! Find and trace hidden
-  words in a grid of letters. Connect letters in any direction to form words and
-  clear the board before time runs out.
+  《Word Detector》是一款节奏明快的找词游戏。
+  在字母方阵中连线拼出单词，在时间耗尽前尽可能多地得分，
+  一边检验词汇量，一边提升观察与反应速度。
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/word-detector.png
 tags:
@@ -17,30 +17,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Word Detector is a fast-paced word-finding puzzle game that challenges your vocabulary and speed. You are presented with a grid of letters and must find as many words as possible by connecting adjacent letters. Words can be formed by linking letters horizontally, vertically, or diagonally. The goal is typically to reach a target score or find a certain number of words within a time limit to progress to the next level.
+《Word Detector》是一款节奏偏快的英文找词拼写游戏，
+会不断用新的字母方阵来挑战你的词汇量与阅读速度。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Scan for Common Prefixes and Suffixes:** Look for common letter combinations like "S", "ED", "ER", or "ING". These can often be the start or end of multiple words, helping you find several words quickly.
-2.  [ZH TRANSLATION NEEDED] **Longer Words, More Points:** While finding short three-letter words is easy, longer words are worth significantly more points. Always be on the lookout for words that are five, six, or even seven letters long.
-3.  [ZH TRANSLATION NEEDED] **Don't Forget Diagonals:** It's easy to spot horizontal and vertical words, but many players forget to look for diagonal connections. Make sure to scan the grid in all eight directions from each letter.
-4.  [ZH TRANSLATION NEEDED] **Use Hints When Stuck:** If the clock is ticking and you can't find any more words, use a hint. It can help you spot a word you overlooked and keep your momentum going.
+屏幕上会出现一个字母网格，你需要通过连接相邻字母来拼出尽可能多的单词。
+字母可以水平、垂直甚至对角连接，只要路径连续就算有效。
+通常每一关都会设置目标分数或目标单词数量，
+你需要在倒计时结束前达成目标才能解锁下一关。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-[ZH TRANSLATION NEEDED] The game is played with a simple click-and-drag motion.
+1.  **优先留意常见前后缀：**  
+    像 S、ED、ER、ING 等常见前后缀，往往可以在同一片区域衍生出多个单词，
+    先找到这些组合，常常能一口气凑出一串高分词。
+2.  **长词更值钱：**  
+    虽然 3 个字母的小词最好找，但分值有限。
+    尝试在网格中追踪 5～7 个字母的长词，它们往往能快速拉高总分。
+3.  **别忘了对角线：**  
+    很多人只会横竖找词，容易忽视斜线方向。
+    在每个字母出发时，都习惯性地检查 8 个方向，能明显提高找词效率。
+4.  **合理使用提示：**  
+    当时间所剩不多、屏幕上又迟迟找不到新单词时，
+    可以果断使用提示功能，让游戏帮你指出一个容易忽略的词，保证通关节奏。
 
-*   **Form a Word:** Click on the first letter of the word you've found, hold the mouse button, and drag your cursor through all the adjacent letters of the word in order. Release the mouse button on the last letter to submit the word.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+本作采用简单直观的“点按 + 拖拽”操作。
 
-*   **Q: What is the minimum word length?**
-     *   **A:** In most word search games of this type, words must be at least three letters long to be considered valid.
+*   **拼出单词：** 用鼠标点击单词的首字母，按住不放，
+    然后沿着相邻字母一路拖拽，直到选中整个单词，最后在末尾松开提交。
 
-*   **Q: Can I reuse a letter tile in the same word?**
-     *   **A:** No. Once you use a letter tile for a word, you cannot loop back and use it again in the same word.
+### 常见问题（FAQ）
 
-*   **Q: What happens if time runs out?**
-     *   **A:** If you don't reach the level's objective (like a target score) before the timer runs out, you will have to restart the level.
+*   **问：单词最少需要几个字母？**  
+    *   **答：** 大多数同类找词游戏要求至少 3 个字母，
+        更短的组合通常不会被认定为有效单词。
 
+*   **问：同一个字母格在同一单词里能重复用吗？**  
+    *   **答：** 不能。同一个单词路径中，每个字母格只能使用一次，
+        不能回环或折返到已经选中的格子。
+
+*   **问：如果时间耗尽会怎样？**  
+    *   **答：** 如果在时间结束前没有达到关卡要求的目标分数或目标单词数，
+        就需要重新挑战本关。

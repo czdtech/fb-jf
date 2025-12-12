@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: sky-tower
-title: '[DE] Sky Tower'
+title: "Sky Tower"
 description: >-
-  [DE] Sky Tower is a stack‑builder — time drops to align floors, minimize
-  overhangs, and build the tallest, cleanest tower.
+  Sky Tower ist ein Stapelspiel: Lasse die schwebenden Stockwerke im richtigen
+  Moment fallen, minimiere Überstände und baue so den höchsten, saubersten
+  Turm.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/sky-tower.png
 tags:
@@ -16,35 +17,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Sky Tower fordert dich heraus, Stockwerke präzise aufeinander zu stapeln. Ein
+ Bewegter Block schwebt über dem Turm hin und her; wenn du ihn fallen lässt und
+ er nicht exakt ausgerichtet ist, werden die überstehenden Teile abgeschnitten
+ und die Grundfläche wird kleiner. Nur wer den Rhythmus findet und sauber
+ zentriert, baut einen hohen, stabilen Turm – wer ungenau ist, schrumpft das
+ Fundament und endet schnell im Game Over.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Sky Tower challenges you to drop moving floors onto a growing tower. Misalignments shear off overhangs, shrinking the platform. Clean timing produces tall, stable towers; sloppiness shrinks floors and ends runs early.
+1.  **Fixpunkte nutzen:** Orientiere dich an Details im Hintergrund (z. B.
+    Markierungen oder Kanten), um den richtigen Drop-Punkt besser abschätzen zu
+    können.
+2.  **Minimal zu spät auslösen:** Viele Spieler sind zu früh. Warte einen
+    Wimpernschlag länger, wenn der Block die Mitte passiert, um
+    Reaktionsverzögerung auszugleichen.
+3.  **Erholungsstockwerke:** Nach einem schlechten Schnitt konzentriere dich
+    darauf, ein bis zwei perfekt zentrierte Stockwerke zu platzieren, bevor du
+    wieder auf Höhe spielst.
+4.  **Rhythmus halten:** Spiele in einem gleichmäßigen Takt, statt hektisch zu
+    klicken. Konstanz bringt am Ende mehr Höhe als unkontrollierte
+    „Glückstreffer“.
+5.  **Geduldig mit Boni:** Jag nicht bei wackeligem Turm nebenbei Münzen oder
+    Extras – stabilisiere zuerst, dann sammle.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Center cue: Align to a background landmark to release consistently.
-2.  **[DE]** Late‑release bias: Drop just after alignment passes the center to compensate for human reaction.
-3.  **[DE]** Recovery floors: After a bad chop, slow down and re‑center before chasing height.
-4.  **[DE]** Rhythm: Maintain a steady cadence rather than reacting frantically.
-5.  **[DE]** Patience: Ignore coins during wobble; stabilize first.
+- **Stockwerk abwerfen:** Tippe oder klicke, um das aktuelle Stockwerk fallen
+  zu lassen.
+- **Menü/Neustart:** Über die UI kannst du pausieren oder einen neuen Versuch
+  starten.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Tap/Click to drop floors; pause/replay via UI.
+- **F: Mein Turm wird schnell immer kleiner – warum?**
+  
+  Deine Drops sind zu früh oder zu spät. Such dir einen festen visuellen
+  Anhaltspunkt und versuche, immer im gleichen Moment zu klicken.
 
-### Frequently Asked Questions (FAQ)
+- **F: Kann ich mich nach einem misslungenen Drop erholen?**
+  
+  Ja – konzentriere dich ein paar Stockwerke lang auf perfekte Zentrierung,
+  damit die Plattform wieder etwas breiter wird.
 
-- Q: My tower shrinks fast.
-
-A: You’re releasing early/late inconsistently; use a fixed visual cue.
-
-- Q: Any way to recover?
-
-A: Yes — refocus on perfect centers for a few floors to rebuild width.
-
-- Q: Is speed important?
-
-A: Consistency beats speed; height follows from clean centers.
-
+- **F: Muss ich schnell spielen?**
+  
+  Nein, wichtig ist Präzision. Wer konstant gut zentriert, baut automatisch
+  einen hohen Turm.

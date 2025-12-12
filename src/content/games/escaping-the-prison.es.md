@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: escaping-the-prison
-title: '[ES] Escaping the Prison'
+title: "Escaping the Prison"
 description: >-
-  [ES] A Henry Stickmin point‑and‑click adventure: choose items and routes
-  (Sneaky/Badass/Legal) to break out, with multiple endings and gags.
+  Aventura point‑and‑click de Henry Stickmin: elige objetos y rutas (Sneaky,
+  Badass, Legal) para fugarte de la prisión, con múltiples finales y gags.
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/escaping-the-prison.jpg
 tags:
@@ -15,22 +15,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Henry Stickmin está encerrado en la cárcel y tú decides cómo intenta escapar.
+La gracia del juego está en las rutas ramificadas y en los objetos absurdos que
+puedes usar: la mayoría de elecciones acaban en fracasos hilarantes, pero unas
+pocas combinaciones te llevan a finales exitosos.
 
+### Cómo jugar
 
-### Overview
-Henry Stickmin is locked up—use branching choices and slapstick tools to escape. Most options fail hilariously; a few lead to successful endings.
+- Cuando se te presente una situación, elige un objeto o ruta entre varias
+  opciones; en algunas escenas hay momentos de reacción rápida que exigen clics a tiempo.
+- Desbloquea los tres finales principales (Sneaky, Badass, Legal) encontrando
+  las secuencias correctas de decisiones.
+- Repite escenas para descubrir todos los fallos y, cuando exista, completar la
+  colección de biografías de personajes.
 
-### How to Play
-- Pick an item/route when prompted; quick‑time moments require timely clicks.
-- Unlock three main endings (e.g., Sneaky, Badass, Legal) by finding the correct sequences.
-- Revisit scenes to collect all fails and bios if offered.
+### Controles
 
-### Controls
-- Mouse: click choices and quick‑time prompts; Space for some interrupts (host dependent).
+- Ratón: haz clic en las opciones de objetos/ruta y en las indicaciones de
+  reacción rápida.
+- Espacio u otras teclas especiales pueden servir para saltar ciertas escenas
+  (según el portal).
 
-### Tips
-- If stuck, explore the other major route branches; many scenes have alternative solutions.
-- Bios (when present) trigger by clicking characters during scenes.
-- Use scene select (if available) to mop up missing fails.
+### Consejos
 
+- Si te atascas en un final, prueba a retroceder a un punto clave y elegir una
+  ruta completamente distinta; muchas situaciones tienen soluciones alternativas.
+- Las biografías (cuando están presentes) se desbloquean al hacer clic sobre personajes
+  durante las escenas.
+- Usa el selector de escenas, si está disponible, para revisar solo los
+  fragmentos donde te faltan fallos o biografías en lugar de repetir toda la partida.

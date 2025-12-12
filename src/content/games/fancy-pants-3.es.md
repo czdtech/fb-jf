@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: fancy-pants-3
-title: '[ES] Fancy Pants 3'
+title: "Fancy Pants 3"
 description: >-
-  [ES] Momentum platforming returns with bigger stages, more secrets, and
-  refined wall‑runs and slides in hand‑drawn worlds.
+  El tercer Fancy Pants lleva el plataformeo basado en el impulso más lejos: escenarios
+  más grandes, más secretos y carreras por pared y deslizamientos aún más pulidos en
+  mundos dibujados a mano.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/fancy-pants-3.jpg
@@ -16,30 +17,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Tercera entrega de la serie, centrada en un flujo de movimiento aún más rápido,
+mayor exploración y salas de desafío que premian el control limpio del
+personaje. Los niveles son más amplios, con más rutas alternativas y secretos
+por descubrir.
 
+### Cómo jugar
 
-### Overview
-Third entry focuses on faster flow, expanded exploration, and challenge rooms rewarding clean movement.
+- Encadena deslizamientos → saltos → carreras por pared para
+  mantener la velocidad.
+- Recoge objetos coleccionables para desbloquear salas opcionales y cosméticos.
+- Observa la sincronización de los enemigos; pisa o esquiva para no perder el impulso.
 
-### How to Play
-- Chain slides→jumps→wall‑runs to maintain speed.
-- Collect items to unlock optional rooms and cosmetics.
-- Read enemy timing; stomp or evade to keep momentum.
+### Controles
 
-### Controls
-- Arrows/WASD to move/jump; Down to slide; Up to enter.
+- Flechas o WASD para desplazarte y saltar.
+- Abajo para deslizarte.
+- Arriba para entrar en puertas y zonas especiales.
 
-### Tips
-- Keep a rhythm—hesitation kills speed.
-- Use slopes to convert vertical drops into forward velocity.
-- Learn level loops to route collectibles efficiently.
+### Consejos
 
-### FAQ
-- Q: Big differences from 1/2?
-A: Larger maps, more secrets, and tighter movement feel.
-- Q: Is combat necessary?
-A: Minimal; platforming mastery is the focus.
-- Q: Are there hidden rooms?
-A: Yes—watch for breakable walls and side paths.
+- Mantén un ritmo constante: las dudas y paradas bruscas rompen el flujo y
+  dificultan los saltos largos.
+- Usa las pendientes para transformar caídas verticales en velocidad hacia
+  delante.
+- Aprende los recorridos en bucle del nivel para trazar rutas eficientes que pasen por todos
+  los coleccionables en una misma vuelta.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿En qué se diferencia de los dos primeros?**  
+  **R:** Los mapas son más grandes, hay más secretos y el control se siente más
+  ajustado y fluido.
+
+- **P: ¿Es obligatorio combatir?**  
+  **R:** El combate es mínimo; el foco está casi por completo en el plataformeo.
+
+- **P: ¿Hay habitaciones ocultas?**  
+  **R:** Sí, fíjate en muros rompibles, caminos secundarios y zonas que parecen
+  decorativas: muchas esconden áreas secretas.

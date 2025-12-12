@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: football-penalty
-title: '[ZH TRANSLATION NEEDED] Football Penalty'
+title: "Football Penalty 點球大戰"
 description: >-
-  [ZH TRANSLATION NEEDED] Football Penalty captures shootouts — place shots,
-  vary height and corners, and outguess the keeper under pressure.
+  Football Penalty 專注重現足球點球大戰——你要選擇射門落點、高度與力度，
+  在壓力下騙過門將；有些模式中你也可以反過來扮演門將讀秒撲救。
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/football-penalty.png
 tags:
@@ -17,30 +17,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Football Penalty focuses on spot‑kicks. As the taker, you must select placement, height, and power while disguising intent. As the keeper (in some modes), you read the run‑up and dive accordingly. Clean corners, low drives, and late disguise beat average AI.
+《Football Penalty》聚焦在十二碼點球情境。作為主罰球員，你必須同時決定射門的方向、
+高度與力度，並用細微的跑步節奏與身體假動作掩飾真實意圖；
+在部分模式中，你也能扮演守門員，透過觀察射手的起腳動作選擇正確撲救方向。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Corners: Aim low corners for harder saves; high corners are strong but risk the bar.
-2.  [ZH TRANSLATION NEEDED] Disguise: Vary run‑up angles and shoot late to avoid telegraphing.
-3.  [ZH TRANSLATION NEEDED] Power: Medium‑high power keeps shots quick without ballooning.
-4.  [ZH TRANSLATION NEEDED] Keeper mode: Move late and dive toward foot/open‑body side.
-5.  [ZH TRANSLATION NEEDED] Mind wind (if modeled): Offset slightly and reduce height.
+
+1.  **選擇角落：** 低位角落是最難撲到的區域，射向球門兩側貼地角落通常比打高角更安全；
+    高角雖然很難被碰到，但也有打在橫樑或飛出底線的風險。
+2.  **隱藏意圖：** 跑步助跑時可以略微變換角度，並在最後一刻才完成瞄準與射門，
+    避免讓門將太早看出你要射向哪邊。
+3.  **控制力度：** 中偏高的力度既能確保球速夠快，又不會因為過力導致明顯的內旋或外旋；
+    不必每腳都追求「滿條」。
+4.  **門將模式：** 扮演門將時，儘量在對手起腳前一瞬間才做出撲救選擇，
+    觀察射手支撐腳位置與髖部開合方向，很多球員會在最後兩步不自覺透露真實射門方向。
+5.  **注意風力（若有）：** 若遊戲模擬風向與風力，瞄準時要略微抵消風向，並適度降低射門高度，
+    以免球在空中被吹偏太多。
 
 ### Controls Guide
 
-- Aim with mouse; set power with a press/hold; add swerve by dragging (if supported).
+- 以滑鼠瞄準射門方向；
+- 按住並釋放來控制力度條，在理想區域放開完成射門；
+- 部分版本支援拖曳軌跡為足球增加弧線旋轉效果。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: My shots always get saved — what now?
-  
-[ZH TRANSLATION NEEDED]   A: Change level/height and delay the final aim; avoid predictable mid‑goal shots.
+- 問：為什麼我射門老是被撲出？  
+  答：試著改變射門高度與角度，不要總是射中路或同一側，並延後最後一刻的瞄準動作，
+  降低被門將看穿的機率。
 
-- Q: Best safe shot?
-  
-[ZH TRANSLATION NEEDED]   A: Firm low corner drives; they’re fast and tough to reach.
+- 問：最穩妥的射門選擇是什麼？  
+  答：力度適中的貼地角落射門通常最穩健，球速快、距離門將較遠，也不容易飛出界外。
 
-- Q: How do I read the AI as keeper?
-  
-[ZH TRANSLATION NEEDED]   A: Watch the last two steps of the run‑up; many strikers open their hips toward the shot.
-
+- 問：當門將要怎麼看 AI 要射哪裡？  
+  答：多觀察射手最後兩步的支撐腳與身體方向，許多射手會在起腳前把髖部與上半身
+  朝射門方向打開，抓住這個細節能提高撲救成功率。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bubble-tower
-title: '[KO] Bubble Tower 3D'
+title: Bubble Tower 3D 버블 타워 3D
 description: >-
-  [KO] Take on a new dimension of bubble shooting in Bubble Tower 3D! Rotate the
-  tower, aim your shot, and match three or more colored bubbles to clear the
-  board before the bubbles reach the bottom.
+  Bubble Tower 3D는 원통 형태의 타워를 둘러싼 버블을 3차원으로 쏘아 맞추는 퍼즐 슈팅 게임입니다. 타워를 회전해 최적 각도를
+  찾고, 같은 색 버블을 세 개 이상 이어 보드를 모두 비워 보세요.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/bubble-tower.png
 tags:
@@ -16,37 +15,68 @@ score: 4.3/5  (1950 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bubble Tower 3D는 고전 버블 슈터에 3D 타워 구조를 더한 변형 버전입니다.
+다양한 색의 버블이 회전하는 원통형 타워의 겉면을 둘러싸고 있고, 화면 아래의
+캐넌에서 버블을 쏘아 올려 같은 색 버블 세 개 이상을 맞춰 제거해야 합니다.
 
+타워를 자유롭게 회전할 수 있어, 단순한 정면 샷만이 아니라 여러 방향에서 각도를
+찾아 대량 제거를 노릴 수 있습니다. 어디까지나 타워 전체를 비우는 것이 목표지만,
+버블 기둥이 천천히 내려오기 때문에, 바닥선에 닿기 전에 최대한 효율적으로 정리하는
+전략이 필요합니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **먼저 타워를 돌려 전체 상황 파악하기**  
+    샷을 쏘기 전마다 타워를 좌우로 회전시켜 현재 어떤 색이 어디에 얼마나
+    모여 있는지 확인하세요. 큰 색 그룹이나, 아래쪽 버블을 많이 매달고 있는
+    연결 지점을 찾는 것이 중요합니다.
 
-Bubble Tower 3D adds an exciting third dimension to the classic bubble shooter formula. In this game, colorful bubbles are stuck to the outside of a rotating cylindrical tower. Your objective is to clear all the bubbles by shooting a new bubble from your cannon at the bottom and matching it with at least two other bubbles of the same color. The ability to rotate the tower adds a layer of strategy, requiring you to find the best angle for every shot to create massive chain reactions and clear the tower.
+2.  **벽 반사 샷 활용하기**  
+    타워 주변의 벽을 이용해 버블을 튕겨 보내면, 정면에서 막혀 있는 위치 뒤편으로
+    우회해 들어갈 수 있습니다. 뱅크 샷을 연습해 두면 난해한 배치도 훨씬 수월하게
+    처리할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+3.  **기둥을 지탱하는 버블 우선 공략**  
+    많은 색이 뒤섞여 있는 구간이라도, 위쪽을 받치고 있는 몇 개의 버블만
+    제거하면 아래의 거대한 덩어리가 한 번에 떨어지는 경우가 많습니다. 단순히
+    눈앞의 3매치보다, 대량 낙하를 만들 수 있는 "기둥" 역할의 버블을 우선해서
+    노려 보세요.
 
-1.  **[KO]** **Rotate and Inspect:** Before every shot, take a moment to rotate the tower left and right. This allows you to see the entire layout of bubbles and plan your moves more effectively. Look for large clusters of the same color or strategic shots that could cause a large section to fall.
-2.  **[KO]** **Bank Shots:** Use the walls of the play area to your advantage. Bouncing your bubble off the side walls can help you reach tricky spots or get behind bubbles that are blocking a direct shot.
-3.  **[KO]** **Prioritize Foundational Bubbles:** Look for matches that will detach a large group of differently colored bubbles underneath them. When you pop a cluster, any bubbles that are only connected to that cluster will also fall, clearing the board much faster.
-4.  **[KO]** **Use Special Bubbles:** Pay attention to special bubbles like Fireballs or Bombs. These powerful tools can destroy any bubble, regardless of color, and are best saved for situations where you are stuck or need to clear a critical section to prevent losing.
+4.  **특수 버블은 위기 상황에 아껴 두기**  
+    Fireball, Bomb 같은 특수 버블은 색에 상관없이 한 구역을 통째로 없앨 수 있는
+    강력한 수단입니다. 막막한 상황이나, 당장 바닥선에 닿을 것 같은 구역을 정리할
+    때를 위해 아껴 두었다가 사용하는 편이 좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-*   **[KO]** **Rotate the Tower:**
-    *   **[KO]** **Mouse:** Click and drag the background to rotate the tower.
-    *   **[KO]** **Keyboard:** Use the Left and Right arrow keys.
-*   **[KO]** **Aim and Shoot:**
-    *   **[KO]** **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
+-   **타워 회전**  
+    -   **마우스:** 배경을 클릭한 뒤 좌우로 드래그하면 타워를 회전시킬 수 있습니다.
+    -   **키보드:** 방향키 ←/→로 타워를 좌우로 돌릴 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+-   **조준 및 발사**  
+    -   **마우스:** 커서 위치에 따라 캐넌의 조준 방향이 자동으로 맞춰지며,
+        마우스 왼쪽 버튼을 클릭하면 버블을 발사합니다.
 
-*   **[KO]** **Q: How do I win the game?**
-    *   **[KO]** **A:** You win by clearing all the bubbles from the tower.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What happens if I don't clear the bubbles in time?**
-    *   **[KO]** **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
+-   **Q. 어떻게 해야 게임에서 승리하나요?**  
+    A. 타워에 붙어 있는 모든 버블을 제거하면 해당 스테이지를 클리어하게 됩니다.
 
-*   **[KO]** **Q: I can't find a match for the bubble in my cannon. What should I do?**
-    *   **[KO]** **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
+    - **Q. 제때 정리하지 못하면 어떻게 되나요?**  
+    A. 턴이 지나면서 버블 타워가 조금씩 아래로 내려옵니다. 어떤 버블이든 화면
+    하단의 기준선을 넘으면 게임 오버가 되니, 바닥 근처의 위험 구역은 우선적으로
+    정리해야 합니다.
 
+-   **Q. 캐넌에 든 버블로 만들 수 있는 매치가 없을 때는 어떻게 하나요?**  
+
+    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
+
+- **Q: I can't find a match for the bubble in my cannon. What should I do?**
+
+    - **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
+    A. 먼저 타워를 끝까지 회전시켜 혹시 놓친 매치가 없는지 확인하세요. 정말
+    연결할 곳이 없다면, 앞으로의 샷에 방해가 덜 되는 위치를 골라 버블을
+    "임시 보관"하듯 배치해 두고, 이후 나올 버블과의 매치를 노리는 수밖에
+    없습니다.

@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: words-of-magic
-title: '[DE] Words of Magic'
+title: Words of Magic
 description: >-
-  [DE] Unleash your vocabulary in Words of Magic! Connect letters to form words
-  and fill out the crossword puzzle. A magical and relaxing brain-teaser for
-  word game lovers.
+  Entfessle deinen Wortschatz in Words of Magic: Verbinde Buchstaben zu Wörtern,
+  fülle das Kreuzwort‑Gitter und genieße ein entspannt‑magisches Wortpuzzle.
 iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
 thumbnail: /new-images/words-of-magic.png
 tags:
@@ -16,32 +15,40 @@ score: 4.4/5  (2200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
+
+Words of Magic ist ein entspanntes Wortpuzzle mit leichtem Fantasy‑Touch. In jedem Level erhältst du einen Kreis aus Buchstaben und darüber ein Kreuzwort‑ähnliches Gitter. Aus den gegebenen Buchstaben formst du alle gesuchten Wörter, bis das Gitter vollständig gefüllt ist – perfekt, um nebenbei dein Vokabular und dein Anagramm‑Gefühl zu trainieren.
+
+### Spielstrategie & Walkthrough
+
+1. **Mit kurzen Wörtern starten:** Fange mit offensichtlichen Drei‑Buchstaben‑Wörtern an, um erste Felder im Gitter aufzudecken. Dadurch ergeben sich Hinweise auf längere Begriffe.
+2. **Mischen nutzen:** Wenn du feststeckst, mische die Buchstaben im Kreis. Eine neue Anordnung lässt dich oft Kombinationen erkennen, die dir vorher entgangen sind.
+3. **Hinweise sparen:** Nutze Hinweise nur, wenn du wirklich nicht weiterkommst – sie decken meist einen Buchstaben im Gitter auf und sind begrenzt.
+4. **Bonuswörter mitnehmen:** Viele Levels akzeptieren zusätzliche Wörter, die nicht im Gitter vorkommen – sie zählen als Bonus und bringen Extra‑Münzen oder Punkte.
+
+### Steuerung
+
+- **Wort bilden:** Ziehe mit Maus oder Finger über die Buchstaben im Kreis in der richtigen Reihenfolge und lass los, um das Wort einzureichen.
+
+### Häufige Fragen (FAQ)
 
 
+- **A:** You can typically earn more hints by completing levels, finding bonus words, or through daily login rewards.
 
-### Detailed Game Introduction
+    - **Q: How do I get more hints?**
 
-Words of Magic is a relaxing and enchanting word puzzle game designed to test your vocabulary and anagram skills. In each level, you are given a circle of letters and a crossword-style puzzle board. Your goal is to find all of the hidden words that can be formed from the given letters and completely fill out the crossword grid. It's a perfect game to unwind with while giving your brain a gentle workout.
+- **A:** That was likely a "Bonus Word." You still get credit and points for finding it, but it's not part of the main puzzle for that level.
 
-### Gameplay Strategy & Walkthrough
+    - **Q: I found a real word, but it didn't appear on the board. Why?**
 
-1.  **[DE]** **Start with the Obvious:** Look for the shortest and most obvious words first (usually three-letter words). Filling these in can give you clues and letters for the longer, more complex words.
-2.  **[DE]** **Shuffle the Letters:** If you get stuck and can't see any more words, use the "Shuffle" button. Rearranging the letters in the circle can often spark new ideas and help you see combinations you missed before.
-3.  **[DE]** **Use Hints Sparingly:** The "Hint" button will reveal a random letter in the puzzle for you, which can be a great help. However, you usually have a limited number of hints, so save them for when you are truly stuck.
-4.  **[DE]** **Find Bonus Words:** Don't stop once the crossword is full! Most levels have extra "Bonus Words." These are valid words made from the letters that don't fit into the main puzzle. Finding them will award you extra coins or points.
+- **A:** To find all the hidden words using the given letters and use them to completely fill the crossword puzzle grid.
 
-### Controls Guide
+    - **Q: What is the goal of the game?**
+**Was ist das Hauptziel des Spiels?**  
+Alle mit den vorgegebenen Buchstaben bildbaren, im Level geforderten Wörter zu finden und das Kreuzwort‑Gitter komplett zu füllen.
 
-*   **[DE]** **Form a Word:** Click and drag your mouse (or swipe your finger) across the letters in the circle in the correct order to spell a word. Release the mouse button or your finger to submit the word.
+**Warum wird ein gültiges Wort nicht ins Raster eingetragen?**  
+In diesem Fall handelt es sich wahrscheinlich um ein Bonuswort – du bekommst trotzdem Belohnungen, aber es gehört nicht zur Hauptlösung des Levels.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To find all the hidden words using the given letters and use them to completely fill the crossword puzzle grid.
-
-*   **[DE]** **Q: I found a real word, but it didn't appear on the board. Why?**
-    *   **[DE]** **A:** That was likely a "Bonus Word." You still get credit and points for finding it, but it's not part of the main puzzle for that level.
-
-*   **[DE]** **Q: How do I get more hints?**
-    *   **[DE]** **A:** You can typically earn more hints by completing levels, finding bonus words, or through daily login rewards.
-
+**Wie bekomme ich mehr Hinweise?**  
+Meist durch das Abschließen von Levels, das Finden von Bonuswörtern oder tägliche Belohnungen.

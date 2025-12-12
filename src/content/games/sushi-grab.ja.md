@@ -1,62 +1,52 @@
 ---
-locale: ja
+title: Sushi Grab
+description: Sushi Grabは、寿司を集める楽しいアーケードゲームです。タイミングよくクリックして寿司を掴みましょう。
+iframeSrc: 'https://ubg98.github.io/SushiGrab/'
+thumbnail: /new-images/sushi-grab.jpg
 urlstr: sushi-grab
-title: '[JA TRANSLATION NEEDED] Sushi Grab'
-description: >-
-  [JA TRANSLATION NEEDED] Sushi Grab is a speedy arcade picker — snag the right
-  sushi, avoid traps, and hit score targets.
-iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
-thumbnail: /new-images/sushi-grab.png
+score: 4.2/5  (1876 votes)
 tags:
+  - arcade
   - casual
-  - thinky
-score: 3.9/5  (1602 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - timing
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Sushi Grabは、回転寿司ベルトから寿司を掴むシンプルだが中毒性のあるゲームです。完璧なタイミングでクリックして寿司を集め、高得点を目指しましょう。
 
-[JA TRANSLATION NEEDED] Sushi Grab is a fast‑paced selection game themed around conveyor‑belt sushi. Pick requested pieces, avoid wrong items or hazards, and chain streaks to reach score goals under a timer.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
+ - **タイミング：** 寿司が通過するタイミングを見計らいます
+ - **クリック：** 完璧なタイミングでクリックして寿司を掴みます
+ - **スコア獲得：** より多くの寿司を集めて高得点を獲得します
+ - **コンボ：** 連続して成功すると高得点になります
 
-[JA TRANSLATION NEEDED] 1.  Read orders: Focus on the current request—don’t grab extras.
-[JA TRANSLATION NEEDED] 2.  Peripheral vision: Track upcoming plates along the belt to prepare.
-[JA TRANSLATION NEEDED] 3.  Chain safely: Streaks boost score; prioritize accuracy to keep them alive.
-[JA TRANSLATION NEEDED] 4.  Filter traps: Ignore decoys or penalty plates; they often appear near good ones.
-[JA TRANSLATION NEEDED] 5.  Time boxes: When the timer dips, take only guaranteed picks.
 
-### Controls Guide
+- Time boxes: When the timer dips, take only guaranteed picks.
+### 操作ガイド
 
-- Pick: Click/tap the correct sushi on the belt.
+ - **マウス/タッチ：** クリックまたはタップして寿司を掴む
+
+
 - Pause/Retry: Use UI buttons.
-
-### Frequently Asked Questions (FAQ)
-
-- Do wrong picks penalize? Usually yes—score loss or streak breaks.
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
-- Fixed patterns? Belts often loop patterns—learn and exploit them.
-
-
-
-
-
-
-
-
-
-- Fixed patterns? Belts often loop patterns—learn and exploit them.
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
-- Do wrong picks penalize? Usually yes—score loss or streak breaks.
 ### よくある質問（FAQ）
-- Pause/Retry: Use UI buttons.
-- Pick: Click/tap the correct sushi on the belt.
-### コントロールガイド
-
-
 
 
 - Fixed patterns? Belts often loop patterns—learn and exploit them.
+
 - Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
+
 - Do wrong picks penalize? Usually yes—score loss or streak breaks.
+**ゲームの目標は何ですか？**
+
+できるだけ多くの寿司を完璧なタイミングで掴むことです。
+
+**スコアはどうやって上げますか？**
+
+正確なタイミングと連続成功でスコアが上がります。
+
+**ゲームは難しいですか？**
+
+シンプルですが、完璧なタイミングをマスターするには練習が必要です。

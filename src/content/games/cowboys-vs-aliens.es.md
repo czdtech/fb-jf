@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: cowboys-vs-aliens
-title: '[ES] Cowboys vs Aliens'
+title: "Cowboys vs Aliens"
 description: >-
-  [ES] A comprehensive guide to the 'Cowboys vs Aliens' game theme. Learn the
-  common gameplay types (tower defense, action shooter), strategies, controls,
-  and tips for defending the Wild West from alien invaders.
+  Guía completa del tema "Cowboys vs Aliens". Descubre los tipos de juego más
+  habituales (defensa de torres, juego de disparos de acción), estrategias, controles y
+  consejos para defender el Salvaje Oeste de una invasión alienígena.
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/cowboys-vs-aliens.jpg
@@ -17,34 +17,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **Introducción al juego**
 
+En esta versión tomas el control directo de un único vaquero héroe. La
+jugabilidad suele presentarse como un juego de disparos de desplazamiento lateral o vista
+cenital en el que debes correr, saltar y disparar mientras avanzas por niveles
+repletos de enemigos alienígenas. Recogerás nuevas armas (desde revólveres
+clásicos hasta pistolas láser alienígenas), potenciadores y botiquines, todo
+mientras esquivas proyectiles y ataques enemigos. El objetivo es sobrevivir a
+cada fase y derrotar al jefe final.
 
+### **Estrategia y consejos de juego**
 
+#### **Para juegos de acción/de disparos**
 
+1.  **Moverse es vivir:** Nunca te quedes quieto. Muévete constantemente para
+    esquivar rayos láser y proyectiles. Aprende los patrones de ataque de los
+    enemigos para saber cuándo saltar, agacharte o huir.
+2.  **Prioriza amenazas:** Algunos alienígenas son mucho más peligrosos que otros.
+    Aprende a identificar y eliminar primero a los objetivos de alta prioridad,
+    como francotiradores, enemigos con explosivos o aquellos que generan
+    esbirros.
+3.  **Administra munición y potenciadores:** Si tu versión limita la munición o
+    usa potenciadores temporales, reserva los más potentes para grupos grandes o
+    jefes difíciles. No desperdicies tus ataques más fuertes en enemigos débiles
+    aislados.
+4.  **Conoce tu arsenal:** Entiende los puntos fuertes y débiles de cada arma.
+    Una escopeta es perfecta para limpiar grupos a corta distancia, mientras que
+    un rifle es mejor para abatir enemigos lejanos. Cambia de arma según la
+    situación.
 
-### **Game Introduction**
+### **Guía de controles**
 
-This version puts you in direct control of a single cowboy hero. The gameplay is typically a side-scrolling or top-down shooter where you must run, jump, and shoot your way through levels filled with alien enemies. You collect new weapons (from revolvers to alien laser guns), power-ups, and health packs while dodging enemy projectiles and attacks. The goal is to survive each stage and defeat a boss at the end.
-
-### **Gameplay Strategy & Tips**
-
-#### **For Action/Shooter Games:**
-
-1.  **[ES]** **Movement is Life**: Never stand still. Constantly be on the move to dodge incoming alien lasers and attacks. Learn enemy attack patterns to know when to jump, duck, or run.
-2.  **[ES]** **Prioritize Threats**: Some aliens are more dangerous than others. Learn to quickly identify and eliminate high-priority targets first, such as long-range snipers or enemies that spawn smaller minions.
-3.  **[ES]** **Conserve Ammunition/Power-ups**: If your game has limited ammo or timed power-ups, save them for large groups of enemies or difficult boss encounters. Don't waste your strongest attacks on weak, single aliens.
-4.  **[ES]** **Know Your Arsenal**: Understand the strengths and weaknesses of each weapon. A shotgun is great for close-quarters crowd control, while a rifle is better for picking off distant foes. Switch weapons according to the situation.
-
-### **Controls Guide**
-
-*   **[ES]** **PC/Web:**
-    *   **[ES]** **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
-    *   **[ES]** **Aim**: Mouse.
-    *   **[ES]** **Shoot**: `Left Mouse Button`.
-    *   **[ES]** **Jump**: `Space Bar`.
-    *   **[ES]** **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
-*   **[ES]** **Mobile:**
-    *   **[ES]** **Movement**: Virtual joystick on the left side of the screen.
-    *   **[ES]** **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
-
-
+*   **PC/Web:**
+    *   **Movimiento:** teclas `W`, `A`, `S`, `D` o flechas de dirección.
+    *   **Apuntar:** ratón.
+    *   **Disparar:** botón izquierdo del ratón.
+    *   **Saltar:** barra espaciadora.
+    *   **Cambiar de arma:** números (`1`, `2`, `3...`) o rueda del ratón.
+*   **Móvil:**
+    *   **Movimiento:** joystick virtual en la parte izquierda de la pantalla.
+    *   **Apuntar/Disparar:** botones en la parte derecha; normalmente hay un
+        botón para disparar, otro para saltar y, a veces, para habilidades
+        especiales.

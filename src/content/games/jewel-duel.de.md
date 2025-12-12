@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: jewel-duel
-title: '[DE] Jewel Duel'
+title: "Jewel Duel"
 description: >-
-  [DE] Jewel Duel mixes match‑3 with RPG — swap to attack/defend, trigger
-  skills, and break shields with tactical matches.
+  Jewel Duel verbindet Match-3-Puzzles mit RPG-Elementen: Tausche Juwelen, um
+  anzugreifen oder dich zu verteidigen, löse Fähigkeiten aus und durchbrich
+  gegnerische Schilde mit taktischen Kombinationen.
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
 thumbnail: /new-images/jewel-duel.jpg
 tags:
@@ -15,35 +16,74 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jewel Duel kombiniert klassisches Match-3-Gameplay mit rundenbasierten
+Rollenspielelementen. Bestimmte Juwelenfarben stehen für Angriff, Verteidigung
+oder Spezialfähigkeiten. Wenn du Reihen bildest, füllst du deine Balken, löst
+Skills aus oder durchdringst die Schilde deiner Gegner. Nach deinem Zug sind
+sie an der Reihe – daher ist die Zugreihenfolge genauso wichtig wie reine
+Schadenszahlen.
 
-### Detailed Game Introduction
+Viele Feinde besitzen Schilde, Barrieren oder besondere Effekte, die nur durch
+bestimmte Match-Arten gebrochen werden können. Dadurch fühlt sich jeder Kampf
+wie ein kleines Rätsel an: Du musst nicht nur möglichst viel Schaden machen,
+sondern auch zur richtigen Zeit die passenden Farben verbinden.
 
-Jewel Duel layers RPG elements onto match‑3 combat. Matching certain colors fuels attacks/defense/skills; enemy turns follow yours, so turn order matters. Some foes carry shields/absorbs that require specific match types, adding puzzle depth beyond raw damage.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  **Farben gezielt wählen**  
+    Überlege vor jedem Zug, was du aktuell am dringendsten brauchst: mehr
+    Angriff, Heilung, Verteidigung oder Skill-Ladung. Matche bevorzugt die
+    Juwelenfarben, die deinen Plan unterstützen, statt wahllos Dreierkombos zu
+    bilden.
 
-1.  **[DE]** Match intent: Prioritize color that fuels your needed action (attack vs heal vs shield).
-2.  **[DE]** Turn tempo: Deny enemy ult turns by breaking shields or stuns before their phase.
-3.  **[DE]** Setup cascades: Clear low‑impact gems now to prepare high‑value cascades next turn.
-4.  **[DE]** Targeting: Focus one enemy at a time to remove damage sources.
-5.  **[DE]** Boss mechanics: Read tooltips; some require special matches or row clears.
+2.  **Rundentempo kontrollieren**  
+    Achte darauf, wann Gegner ihre starken Angriffe oder Ultimates vorbereiten.
+    Brich Schilde rechtzeitig, betäube Gegner (falls möglich) oder baue deine
+    Verteidigung auf, bevor sie zuschlagen.
 
-### Controls Guide
+3.  **Kaskaden vorbereiten**  
+    Manchmal lohnt es sich, zunächst "schwache" Matches zu machen, um das Board
+    in eine bessere Ausgangsposition zu bringen. Wenn danach viele Steine
+    nachrutschen, entstehen automatisch Combos, die deine Balken massiv
+    auffüllen.
 
-- Swap adjacent gems; trigger skills when charged; read enemy intents.
+4.  **Ein Ziel nach dem anderen**  
+    In Kämpfen mit mehreren Gegnern ist es meist besser, einen Feind konsequent
+    auszuschalten, statt alle nur leicht anzukratzen. So reduzierst du schnell
+    die eingehende Gesamtschadensmenge.
 
-### Frequently Asked Questions (FAQ)
+5.  **Boss-Mechaniken lesen**  
+    Lies die Beschreibungen von Bossen genau. Manche können nur durch bestimmte
+    Match-Arten verwundbar werden oder reagieren empfindlich auf Reihen- bzw.
+    Flächenangriffe. Wer die Mechanik versteht, spart Züge und Lebenspunkte.
 
-- Q: I do low damage — why?
+### Steuerung
 
-A: You’re matching the wrong colors for your build; fuel attack gems or break shields first.
+- **Juwelen tauschen:** Zwei benachbarte Steine mit Maus oder Touch
+  vertauschen. Der Zug ist nur gültig, wenn dabei mindestens drei gleiche
+  Juwelen in einer Reihe oder Spalte entstehen.
+- **Fähigkeiten auslösen:** Sobald Skills aufgeladen sind, kannst du sie per
+  Klick/Tap aktivieren. Viele Fähigkeiten skalieren mit der Anzahl der
+  passenden Matches.
+- **Gegner-Absichten lesen:** Achte auf Symbole oder Hinweise über den Köpfen
+  der Gegner, um ihren nächsten Zug besser einschätzen zu können.
 
-- Q: Any tip for multi‑target fights?
+### FAQ
 
-A: Eliminate high‑threat targets first; use row/column clears for board control.
+- **F: Ich mache kaum Schaden – woran liegt das?**  
+  **A:** Häufig matchst du die falschen Farben für deinen Build oder ignorierst
+  gegnerische Schilde. Konzentriere dich auf Juwelen, die deinen Angriff
+  verstärken, und brich zuerst Barrieren, bevor du reinen Schaden stapelst.
 
-- Q: Can I save skills?
+- **F: Hast du Tipps für Kämpfe mit mehreren Zielen?**  
+  **A:** Schalte gefährliche Gegner zuerst aus – etwa jene mit starken
+  Einzelangriffen oder nervigen Debuffs. Flächenangriffe und Reihen-Clears
+  eignen sich gut, um das Feld aufzuräumen, aber ein fokussierter Kill nimmt
+  dir am meisten Druck.
 
-A: Yes — hold until you can chain with a big cascade or to interrupt enemy ultimates.
-
+- **F: Kann ich aufgeladene Fähigkeiten aufsparen?**  
+  **A:** Ja. Oft lohnt es sich, Skills nicht sofort zu zünden, sondern sie für
+  einen großen Kombozug oder zum Unterbrechen eines gegnerischen Ultimates
+  aufzuheben.

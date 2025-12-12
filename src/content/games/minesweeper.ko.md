@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: minesweeper
-title: '[KO] Minesweeper'
+title: "Minesweeper 마인스위퍼"
 description: >-
-  [KO] Minesweeper is a single-player puzzle video game where the objective is
-  to clear a rectangular board containing hidden "mines" or bombs without
-  detonating any of them, with the help of clues about the number of neighboring
-  mines in each field.
+  Minesweeper는 각 칸의 숫자 단서를 바탕으로 숨겨진 지뢰의 위치를 추리해, 한 번도
+  밟지 않고 보드를 모두 여는 고전 싱글 플레이 퍼즐 게임입니다.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/minesweeper.jpg
 tags:
@@ -19,33 +17,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*"Minesweeper"*는 클래식 싱글 플레이 퍼즐 게임으로, 격자 모양 보드에 숨겨진 지뢰를
+밟지 않고 모든 안전한 칸을 여는 것이 목표입니다. 공개된 숫자는 해당 칸 주변 8칸에
+지뢰가 몇 개 있는지를 알려 주며, 이 정보를 이용해 지뢰 칸과 안전 칸을 구분해야 합니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Minesweeper" is a classic single-player puzzle game. The objective is to uncover a grid of squares, find all hidden "mines" without detonating them. Through numerical clues, players can infer the number of mines hidden around each square, gradually clearing safe areas and marking minefields.
+1. **숫자 의미 이해하기:** 각 숫자 칸은 주변 8칸 안에 존재하는 지뢰의 개수를 정확히
+   나타냅니다.
+2. **안전 지대 표시:** 숫자를 바탕으로 지뢰가 있을 수 없는 칸을 찾아 먼저 열어 두세요.
+3. **지뢰 칸 표시:** 지뢰임이 확실한 칸은 오른쪽 클릭(또는 길게 누르기)으로 깃발을
+   꽂아, 실수로 클릭하는 일을 방지합니다.
+4. **확실한 구역 우선:** 논리적으로 지뢰 여부를 확정할 수 있는 구역부터 차근차근
+   풀어 나가는 것이 좋습니다.
+5. **불확실 구역 처리:** 단서가 부족한 구역에서는 감으로 찍어야 할 때도 있습니다.
+   이 경우, 실수했을 때 피해가 덜한 위치부터 선택해 위험을 최소화하세요.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Understand Number Meanings**: Each numbered square indicates the count of mines in its eight surrounding adjacent squares.
-2.  **[KO]** **Mark Safe Areas**: Based on numerical clues, identify squares that are safe to click and uncover.
-3.  **[KO]** **Mark Minefields**: When a square is determined to be a mine, use a right-click (or long-press) to flag it, avoiding accidental detonation.
-4.  **[KO]** **Prioritize Certainty**: Focus on areas where mines or safe squares can be definitively determined.
-5.  **[KO]** **Handle Uncertainty**: In situations without clear clues, make reasonable guesses but try to minimize risk.
+* **왼쪽 클릭:** 가려진 칸 열기
+* **오른쪽 클릭(또는 길게 누르기):** 지뢰 깃발 표시/해제
+* **숫자 칸 더블 클릭:** 주변 지뢰 칸에 모두 깃발이 꽂혀 있을 때, 숫자 칸을 더블 클릭하면
+  남은 주변 칸이 한 번에 열립니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Left-click**: Uncover a square.
-*   **[KO]** **Right-click (or long-press)**: Flag or unflag a mine.
-*   **[KO]** **Double-click Numbered Square**: When all mines around a numbered square have been correctly flagged, double-clicking that numbered square will instantly uncover all surrounding unrevealed safe squares.
+1. **Q: 마인스위퍼는 항상 이길 수 있는 전략이 있나요?**  
+   **A:** 대부분은 논리 추리로 해결할 수 있지만, 완전히 랜덤 생성된 보드에서는 반드시
+   찍어야 하는 상황이 생길 수 있어 100% 승리 전략은 존재하지 않습니다.
 
-### Frequently Asked Questions
+2. **Q: 난이도는 어떻게 조절할 수 있나요?**  
+   **A:** 많은 마인스위퍼 버전에서 사용자 지정 난이도를 제공하며, 보드 크기와 지뢰 개수를
+   직접 설정할 수 있습니다.
 
-1.  **[KO]** **Q: Is there a guaranteed winning strategy for Minesweeper?**
-**A**: Minesweeper primarily relies on logical deduction, but for some purely randomly generated boards, there might be situations requiring guesswork, so there isn't a 100% guaranteed winning strategy.
-2.  **[KO]** **Q: How can I customize the difficulty of Minesweeper?**
-**A**: Most Minesweeper games offer custom difficulty options, allowing you to adjust the board size and number of mines.
-3.  **[KO]** **Q: Why do I sometimes encounter unwinnable situations?**
-**A**: In some randomly generated scenarios, it may be impossible to logically determine the next square, requiring a guess.
-4.  **[KO]** **Q: What is the purpose of the timer in the game?**
-**A**: The timer records the time taken by the player to complete the game, allowing you to challenge your fastest record at different difficulty levels.
+3. **Q: 논리적으로 풀 수 없는 상황이 나오는 이유는 무엇인가요?**  
+   **A:** 일부 랜덤 배치에서는 숫자 정보만으로 다음 수를 확정할 수 없어, 어쩔 수 없이
+   추측에 의존해야 하는 경우가 생길 수 있습니다.
+
+4. **Q: 게임 화면의 타이머는 어떤 역할을 하나요?**  
+   **A:** 클리어까지 걸린 시간을 기록해, 같은 난이도에서 자신의 최고 기록에 도전하거나
+   다른 사람과 기록을 비교할 수 있게 해 줍니다.

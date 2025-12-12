@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: escaping-the-prison
-title: '[DE] Escaping the Prison'
+title: "Escaping the Prison"
 description: >-
-  [DE] A Henry Stickmin point‑and‑click adventure: choose items and routes
-  (Sneaky/Badass/Legal) to break out, with multiple endings and gags.
+  Escaping the Prison ist ein Henry-Stickmin-Point-and-Click-Abenteuer: Wähle
+  Items und Routen (Sneaky/Badass/Legal), scheitere spektakulär und finde die
+  verschiedenen Ausbruchs-Enden.
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/escaping-the-prison.jpg
 tags:
@@ -14,23 +15,30 @@ score: 5.0/5  (1344 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Henry Stickmin sitzt im Gefängnis – mit verzweigten Entscheidungen und
+überzeichneten Gadgets versuchst du, auszubrechen. Die meisten Optionen enden
+in herrlich absurden Fails, nur wenige führen zu einem erfolgreichen Ausbruch.
 
+### So spielst du
 
+- Triff an Entscheidungspunkten eine Wahl für Item oder Route; in Quick-Time-
+  Szenen musst du schnell klicken, um zu reagieren.
+- Schalte die drei Haupt-Enden frei (z.B. Sneaky, Badass, Legal), indem du die
+  passenden Entscheidungsabfolgen findest.
+- Besuche Szenen erneut, um alle Fails und ggf. Bios zu sammeln.
 
-### Overview
-Henry Stickmin is locked up—use branching choices and slapstick tools to escape. Most options fail hilariously; a few lead to successful endings.
+### Steuerung
 
-### How to Play
-- Pick an item/route when prompted; quick‑time moments require timely clicks.
-- Unlock three main endings (e.g., Sneaky, Badass, Legal) by finding the correct sequences.
-- Revisit scenes to collect all fails and bios if offered.
+- Maus: Klicke auf Optionen und Quick-Time-Einblendungen.  
+- Leertaste für bestimmte Unterbrechungen oder Spezialaktionen (je nach Host).
 
-### Controls
-- Mouse: click choices and quick‑time prompts; Space for some interrupts (host dependent).
+### Tipps
 
-### Tips
-- If stuck, explore the other major route branches; many scenes have alternative solutions.
-- Bios (when present) trigger by clicking characters during scenes.
-- Use scene select (if available) to mop up missing fails.
-
+- Wenn du nicht weiterkommst, probiere die anderen großen Routenäste – viele
+  Szenen haben alternative Lösungen.
+- Bios (falls vorhanden) erhältst du, indem du während einer Szene auf Figuren
+  klickst.
+- Nutze eine Szenenauswahl (falls angeboten), um verpasste Fails gezielt
+  nachzuholen.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: aqua-blocks
-title: '[DE] Aqua Blocks'
+title: "Aqua Blocks"
 description: >-
-  [DE] Aqua Blocks is a watery block‑placer — fit shapes, clear lines, and keep
-  the board breathing.
+  Aqua Blocks ist ein entspanntes Block‑Legespiel mit Wasser‑Thema. Platziere
+  Formen, räume Linien oder Bereiche ab und halte das Spielfeld möglichst
+  offen.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/aqua-blocks.png
 tags:
@@ -15,27 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Aqua Blocks ist ein ruhiges Block‑Puzzlespiel. Du erhältst Sets aus
+verschiedenen Formen und platzierst sie auf einem Raster. Vollständige Linien
+oder gefüllte Bereiche verschwinden und verschaffen dir neuen Platz. Ziel ist
+es, möglichst lange zu überleben, ohne das Feld mit ungünstigen Strukturen
+zuzubauen.
 
-### Detailed Game Introduction
+### Strategie & Walkthrough
 
-Aqua Blocks is a relaxing block‑placement game. Place given shapes to fill lines or regions, make space with multi‑line clears, and avoid creating sealed cavities.
+1.  **Ränder sauber halten:** Vermeide einzelne, isolierte Felder an den
+    Außenkanten. Klare Linien an den Rändern erleichtern spätere Platzierungen.
+2.  **Mehrere Reihen gleichzeitig räumen:** Plane so, dass du mit einer Form
+    gleich mehrere Reihen oder Blöcke abräumst – ähnlich wie Tetris‑Clears.
+3.  **Nicht in einer Ecke festfahren:** Konzentriere dich nicht nur auf einen
+    Bereich des Feldes. Eine gleichmäßige Verteilung der Steine hält das
+    Spielfeld flexibler.
+4.  **Notplätze für sperrige Formen freilassen:** Behalte ein paar größere
+    freie Flächen, um besonders ungünstige oder große Steine im Notfall unter-
+    bringen zu können.
+5.  **Vorschau nutzen (falls vorhanden):** Wenn kommende Formen angezeigt
+    werden, plane mehrere Züge im Voraus, statt nur auf den aktuellen Zug zu
+    schauen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Keep edges tidy to prevent stray single cells.
-2.  **[DE]** Build for Tetris‑like clears across multiple lines.
-3.  **[DE]** Don’t over‑commit to one corner.
-4.  **[DE]** Save emergency slots for awkward shapes.
-5.  **[DE]** Use previews (if any) to plan sequences.
+- **Formen platzieren:** Ziehe die vorgegebenen Blöcke mit der Maus oder per
+  Touch auf das Raster; je nach Version kannst du sie vorher drehen.
+- **Rückgängig/Neustart:** Über die Oberfläche kannst du Züge rückgängig machen
+  oder die Partie neu starten, falls du dich verrannt hast.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drag shapes onto the grid; rotate if supported.
-- Undo/Reset via UI.
+- **Kein Platz mehr – was tun?**  
+  Wenn eine Undo‑Funktion vorhanden ist, gehe ein paar Züge zurück und plane
+  neu. Ansonsten startet eine neue Runde mit frischem Layout.
 
-### Frequently Asked Questions (FAQ)
+- **Kann ich Drehungen nutzen?**  
+  Das hängt von der jeweiligen Variante ab. In einigen Versionen sind Drehungen
+  erlaubt, in anderen musst du ohne Rotationen auskommen.
 
-- No space left—what now? Undo and re‑plan; otherwise restart.
-- Rotations? Depends on the variant.
-- Endless? Typically yes.
+- **Ist Aqua Blocks endlos?**  
+  Meist ja. Viele Versionen laufen so lange, bis du keinen weiteren Block mehr
+  sinnvoll setzen kannst und dein Highscore feststeht.

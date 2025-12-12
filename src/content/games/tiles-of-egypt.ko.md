@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tiles-of-egypt
-title: '[KO] Tiles of Egypt'
+title: "Tiles of Egypt 타일즈 오브 이집트"
 description: >-
-  [KO] Journey to ancient Egypt in this triple-tile matching puzzle. Select
-  three identical, unblocked tiles to clear them from the board. Plan your moves
-  to solve the puzzle before you run out of space!
+  고대 이집트를 배경으로 한 트리플 타일 매칭 퍼즐 게임입니다. 같은 무늬의 타일 세 장을 골라
+  제한된 수집 트레이가 가득 차기 전에 보드를 모두 비워야 합니다.
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/tiles-of-egypt.jpg
@@ -18,33 +17,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tiles of Egypt는 고대 이집트 유적을 연상시키는 독특한 타일 디자인이 특징인 전략형 트리플 매칭
+퍼즐 게임입니다. 여러 층으로 쌓인 타일 더미를 보면서, 같은 모양의 타일 세 장을 선택해 화면 아래
+**수집 트레이**로 옮기고, 세 장이 모이면 타일이 사라집니다. 목표는 보드 전체를 깨끗하게 비우는
+것이지만, 트레이의 칸 수가 제한되어 있어 조금만 방심해도 금세 막혀 버립니다.
 
-### Detailed Game Introduction
+이 게임의 재미는 이집트 풍의 그래픽과 함께, "지금 당장 맞출 수 있는 세트"와 "나중을 위해 남겨
+두어야 할 타일" 사이에서 균형을 잡는 데 있습니다. 한 번 실수하면 연쇄적으로 막히기 쉬우므로,
+몇 수 앞을 내다보는 퍼즐 감각이 요구됩니다.
 
-Tiles of Egypt is a strategic, triple-tile matching puzzle game with a captivating ancient Egyptian theme. The game challenges you to clear a board stacked with intricately designed tiles. To do this, you must select three identical tiles and place them in a collection tray at the bottom. Once three matching tiles are in the tray, they disappear. The goal is to clear the entire board, but you must plan carefully, as the collection tray has limited space.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **세 장 매칭의 기본 규칙 이해하기**: Tiles of Egypt의 모든 움직임은 같은 타일 세 장을 모아
+    없애는 것에 맞춰져 있습니다. 어떤 타일이 몇 장 남았는지, 지금 세트를 완성할 수 있는지 늘
+    계산해 두세요.
+2.  **제한된 트레이 공간 의식하기**: 화면 아래의 수집 트레이는 보통 7칸 정도만 제공합니다. 매치를
+    만들지 못한 채 칸을 가득 채우면 바로 패배이므로, 남은 칸 수를 항상 신경 쓰며 새로운 종류의
+    타일을 시작할지 말지를 결정해야 합니다.
+3.  **먼저 아래를 생각하는 선견지명**: 눈앞의 쉬운 세트만 보고 클릭하기보다, 그 아래에 어떤 타일이
+    숨어 있는지를 먼저 살펴보는 것이 중요합니다. 가능한 한 새로운 타일을 많이 드러내는 매치를
+    선택하면, 후반에 막힐 가능성을 크게 줄일 수 있습니다.
+4.  **트레이를 임시 버퍼로 활용하기**: 아직 세 장을 다 모으지 못해도, 나중에 꼭 필요할 타일을
+    트레이에 임시로 담아 둘 수 있습니다. 다만 너무 많은 종류를 한꺼번에 쌓으면 공간이 부족해지므로
+    2~3종류 이내로 관리하는 것이 안전합니다.
 
-1.  **[KO]** **The Rule of Three:** The entire game is about matching tiles in sets of three. You must select three identical tiles to remove them.
-2.  **[KO]** **Limited Tray Space:** Your collection tray at the bottom can only hold a certain number of tiles (usually seven). If you fill it up without making a match, you lose the game. This is the central challenge.
-3.  **[KO]** **Think Ahead:** Don't just click on the first available match. Look at the tiles underneath and try to prioritize matches that will uncover the most new tiles. This will give you more options and prevent you from getting stuck.
-4.  **[KO]** **Use the Tray as a Buffer:** You can place tiles in the tray that don't immediately form a match. Use this to your advantage to temporarily store a tile while you dig for the other two you need. But be careful not to fill the tray with too many different types of tiles.
+### 조작 방법 안내
 
-### Controls Guide
+이 게임 역시 클릭 또는 터치만으로 손쉽게 즐길 수 있습니다.
 
-The game is played with simple clicks or taps.
+*   **타일 선택**: 다른 타일에 가려져 있지 않은 타일을 클릭(또는 탭)하면, 해당 타일이 화면 아래의
+    수집 트레이로 이동합니다.
 
-*   **[KO]** **Select a Tile:** Click on any uncovered tile on the board to move it to the collection tray below.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 이 게임의 최종 목표는 무엇인가요?**  
+    *   **A:** 보드 위에 있는 모든 타일을 세 장씩 맞춰 제거하는 것입니다. 수집 트레이에 같은 타일
+        세 장을 모아 없애는 과정을 반복해 보드를 완전히 비우면 스테이지를 클리어하게 됩니다.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To clear all the tiles from the board by collecting them in sets of three in your tray.
+*   **Q: 어떤 타일은 클릭이 안 돼요. 이유가 뭔가요?**  
+    *   **A:** 항상 가장 위층에 완전히 드러난 타일만 선택할 수 있습니다. 위에 다른 타일이 겹쳐 있는
+        경우, 먼저 그 타일들을 제거해 아래에 있는 타일까지 노출시켜야 합니다.
 
-*   **[KO]** **Q: Why can't I click on a tile?**
-    *   **[KO]** **A:** You can only select tiles that are on the top-most layer and are not covered by any other tile. You must clear the tiles above to access the ones below.
-
-*   **[KO]** **Q: What happens if my collection tray is full?**
-    *   **[KO]** **A:** If all the slots in your tray are filled and you cannot make a match of three, you are blocked and will lose the game. You must then restart the level.
-
+*   **Q: 수집 트레이가 가득 차면 어떻게 되나요?**  
+    *   **A:** 트레이의 모든 칸이 찼는데도 세트를 완성하지 못하면, 더 이상 움직일 수 없게 되어 해당
+        판은 실패 처리되고 처음부터 다시 시작해야 합니다. 막히기 직전에는 새로운 종류의 타일을
+        시작하기보다, 이미 두 장 모인 세트를 먼저 완성하는 데 집중해 보세요.

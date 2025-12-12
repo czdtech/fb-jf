@@ -1,10 +1,11 @@
 ---
 locale: zh
 urlstr: wood-block-match
-title: '[ZH TRANSLATION NEEDED] Wood Block Match'
+title: 'Wood Block Match：木质方块消除'
 description: >-
-  [ZH TRANSLATION NEEDED] Wood Block Match is a calming block‑fit — place wooden
-  shapes, clear rows/columns, and preserve space with smart pocketing.
+  《Wood Block Match》是一款节奏舒缓的木质方块拼图游戏。
+  拖动不同形状的木块填满行或列来清除棋盘，用聪明的布局预留空间、制造多行连消，
+  在宁静木纹中挑战高分。
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/wood-block-match.png
 tags:
@@ -16,32 +17,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Wood Block Match is a 10×10‑style block placement game with wooden aesthetics. Each turn you receive a batch of shapes; place them to complete rows/columns and clear space. The session ends when none of the remaining pieces fit — so success is about preserving flexible lanes while engineering multi‑line clears.
+《Wood Block Match》是一款 10×10 网格的木块放置类益智游戏，整体视觉充满温暖的木质质感。
+每一回合你都会拿到一批形状各异的木块，需要把它们安放在棋盘上，
+通过填满整行或整列来清除方块并腾出新的空间。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Center breathing room: Keep the board center open; tidy edges to prevent single‑cell traps.
-2.  [ZH TRANSLATION NEEDED] Pocket planning: Reserve a 2×2 or L‑shaped pocket for awkward triominoes.
-3.  [ZH TRANSLATION NEEDED] Hard piece first: When crowded, place the largest/most awkward piece first.
-4.  [ZH TRANSLATION NEEDED] Double clears: Build two‑line setups so one piece clears both.
-5.  [ZH TRANSLATION NEEDED] Undo discipline: If available, undo immediately after a placement that seals pockets.
+当剩余的任意一块都无法放入棋盘时，本局游戏就会结束。
+因此想要获得好成绩，关键在于始终保留足够灵活的空位，
+一边避免被“卡死”，一边精心设计一次清掉多行的连消。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-- Drag pieces into the grid; rotate if the mode supports it; clear rows/cols score points.
+1.  **保护中心空域：**
+    尽量让棋盘中央保持一定“呼吸空间”，优先整理边缘与角落，
+    避免出现零散的单格空位，把自己逼入绝境。
+2.  **提前规划“口袋”：**
+    有意识地在棋盘某处留下 2×2 或 L 形的小空洞，
+    专门用来容纳那些形状别扭、难以摆放的三格块等特殊方块。
+3.  **先解决最难放的块：**
+    当棋盘逐渐拥挤时，优先摆放体积最大、形状最奇怪的那块，
+    否则它很可能在后期完全塞不进任何位置。
+4.  **构建双行连消：**
+    在布局时多思考“这一块能否同时补满两行或两列”，
+    预先堆出可以一举消去多行的形状，得分效率会大幅提高。
+5.  **谨慎使用撤销（如有）：**
+    如果游戏提供撤销功能，一旦发现某一步落子把关键口袋封死，
+    应立即撤回，而不是继续在错误布局上硬撑。
 
-### Frequently Asked Questions (FAQ)
+### 操作指南
 
-- Q: I run out of space very quickly — what should I change?
-  
-[ZH TRANSLATION NEEDED]   A: Protect the center, pre‑plan one pocket for awkward pieces, and prefer double‑clear setups over single clears.
+- 拖动木块到棋盘上的空位即可放置；
+- 部分模式可能支持旋转方块，如有提示可善加利用；
+- 每次成功填满一整行或一整列都会被清除并获得积分。
 
-- Q: Can I rotate pieces?
-  
-[ZH TRANSLATION NEEDED]   A: Some variants disallow rotation — compensate with better pocketing.
+### 常见问题（FAQ）
 
-- Q: Any tip for high scores?
-  
-[ZH TRANSLATION NEEDED]   A: Chain consecutive double clears and avoid emergency singles that break structure.
+- **问：我总是很快就没有空间可以放了，怎么办？**  
+  **答：** 重点是保护棋盘中心区域的空位，并预留一块专门的“口袋”给难放的形状。
+  与其频繁做零散小消除，不如多规划可以一次清掉两行或更多的布局。
 
+- **问：能旋转方块吗？**  
+  **答：** 具体取决于当前模式。有些版本不允许旋转，
+  这时就更需要通过预留口袋和合理布局来弥补形状限制。
+
+- **问：有什么冲击高分的技巧？**  
+  **答：** 尽量连续制造双行甚至多行连消，避免为了眼前的小分数做“救火式”单行消除，
+  保持棋盘结构整洁、有计划，分数自然会越堆越高。

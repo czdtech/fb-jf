@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: ping-pong
-title: '[ZH TRANSLATION NEEDED] Ping Pong'
+title: "《Ping Pong》经典乒乓街机"
 description: >-
-  [ZH TRANSLATION NEEDED] Ping Pong is a classic arcade sports game where two
-  players control paddles to hit a ball back and forth across a screen, aiming
-  to score points by making the opponent miss the ball.
+  《Ping Pong》是一款经典的乒乓街机游戏，双方各操控一块拍子在屏幕两侧来回击球，试图让对手接不到球从而得分。
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/ping-pong.jpg
 tags:
@@ -18,27 +16,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Ping Pong" is a classic arcade sports game. Two players (or one player against AI) each control a paddle to hit a ball back and forth across the screen, aiming to score points by making the opponent miss the ball. The game is known for its simple and intuitive gameplay and fast pace, making it an excellent choice for casual entertainment and competitive matchups.
+《Ping Pong》是最早期街机游戏之一的现代复刻版，以最简洁的方式还原桌上乒乓对打的核心乐趣。你和对手（或电脑 AI）分别控制屏幕左右两侧的挡板，使小球在场地中间来回反弹。只要让对手没能及时接到球、让球从对方身后飞出边界，你就能获得一分，先达到目标分数的一方获胜。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Control the Paddle**: Move your paddle flexibly to ensure you can hit the incoming ball.
-2.  **Adjust Angle**: By changing the paddle's position and movement direction when hitting the ball, you can alter the ball's flight angle and speed.
-3.  **Anticipate Opponent**: Observe your opponent's hitting habits and movement patterns to predict where the ball will land.
-4.  **Balance Offense and Defense**: While defending, look for opportunities to hit tricky shots that are difficult for your opponent to return.
+1.  **精准控制挡板位置：** 保证挡板始终能追上来球路线，是立足之本。宁可先稳接球，再考虑如何打出更刁钻的回球。
+2.  **改变击球角度：** 通过在挡板的不同位置接球（如偏上、偏下），可以改变球的反弹角度和高度，让对手更难预判。
+3.  **观察对手习惯：** 留心对手是否总是站在某个固定区域防守，或对某种斜线回球反应较慢，针对性调整自己的击球线路。
+4.  **攻守平衡：** 一味追求角度刁钻可能会让自己来不及回防，合理在稳定防守和突然变向进攻之间切换，才是持续得分的关键。
 
-### How to Play
+### 操作说明
 
-*   **Move Paddle**: Typically use keyboard arrow keys (up/down) or the mouse to control the paddle's vertical movement on the screen.
+*   **移动挡板：** 通常使用键盘上下方向键控制挡板垂直移动，部分版本也支持用鼠标上下移动进行控制。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What is the objective of the "Ping Pong" game?**
-     **A**: The objective is to score points by getting the ball past your opponent's paddle area. The first player to reach a predetermined score usually wins.
-2.  [ZH TRANSLATION NEEDED] **Q: Are there different difficulty levels in the game?**
-     **A**: Many versions of Ping Pong games offer different difficulty levels, mainly reflected in the AI opponent's reaction speed and hitting skills.
-3.  [ZH TRANSLATION NEEDED] **Q: How can I hit the ball more powerfully with the paddle?**
-     **A**: The hitting power of the paddle is usually fixed, but you can influence the ball's speed and angle by changing the point of contact.
-4.  [ZH TRANSLATION NEEDED] **Q: Can this game be played in two-player mode?**
-     **A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
+### 常见问题
+
+1.  **问：这款游戏的胜利条件是什么？**
+    **答：** 一般为先获得预设分数（例如 5 分或 10 分）的一方获胜，你需要比对手更多次让球从对方一侧出界。
+2.  **问：游戏有没有难度选择？**
+    **答：** 许多 Ping Pong 版本会提供不同难度的 AI，对应更快的反应和更刁钻的回球，你可以从简单模式开始练手，再逐步提高难度。
+3.  **问：如何打出更有威胁的球？**
+    **答：** 尽量在挡板边缘位置接球以制造更大的折射角度，或者在对手移动尚未站稳时突然改变击球方向，让对方措手不及。
+4.  **问：支持双人对战吗？**
+    **答：** 是的，多数 Ping Pong 游戏支持本地双人模式，双方分别使用不同按键或输入设备进行对战，非常适合作为轻量对抗小游戏。

@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bank-robbery
-title: '[KO] Bank Robbery'
+title: 'Bank Robbery 뱅크 로버리'
 description: >-
-  [KO] A detailed guide for the team-based FPS game Bank Robbery 2. Learn
-  strategies for both Robbers and Cops, controls, and answers to common
-  questions to master the heist.
+  팀 기반 FPS Bank Robbery 2에서 경찰팀과 강도팀으로 나뉘어 은행 습격전을
+  벌이는 게임입니다. 드릴을 지키고, 진입로를 커버하며 완벽한 턴을 노려
+  보세요.
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/bank-robbery.jpg
@@ -16,69 +16,94 @@ score: 4.2/5  (1331 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+*Bank Robbery 2*는 경찰(Cops)과 강도(Robbers) 두 진영으로 나뉘어 은행을 두고
+전투를 벌이는 팀 기반 1인칭 슈팅 게임입니다. 경기의 중심은 늘 하나, 바로
+**은행 털이(heist)**입니다.
 
+강도팀은 보안이 삼엄한 은행에 침투해 드릴을 설치해 금고와 금고방을 열고,
+현금을 가능한 한 많이 훔쳐 지정된 탈출 지점까지 운반해야 합니다. 이를 위해선
+진입 루트를 나누어 압박하고, 드릴이 돌아가는 동안 경찰의 역습을 버틸 수 있는
+화력과 팀워크가 필요합니다.
 
+경찰팀은 은행을 지키고 법을 집행하는 역할입니다. 강도들이 금고에 침투하지
+못하도록 진입로를 방어하고, 이미 설치된 드릴을 해체하며, 도주를 시도하는
+강도들을 저지해야 합니다. 서로 위치를 공유하고, 적의 움직임에 빠르게 반응하는
+전략적 플레이가 중요합니다.
 
-### Detailed Introduction
+맵은 도시 한복판의 은행을 중심으로 구성되어 있으며, 각 팀은 다양한 무기와
+장비, 차량을 활용해 라운드를 유리하게 풀어나갈 수 있습니다. 라운드에서 얻는
+보상으로 더 좋은 장비를 구매해 다음 판에서 우위를 점할 수 있습니다.
 
-*Bank Robbery 2* is a team-based, first-person shooter game where players are divided into two opposing factions: Cops and Robbers. The game revolves around a central, high-stakes objective: a bank heist.
+### 플레이 전략
 
-As a **Robber**, the goal is to infiltrate a heavily secured bank, use a drill to break into vaults and safes, steal as much cash as possible, and successfully transport it to a designated getaway point. This requires coordination, firepower, and a solid plan to bypass security and fight off the police force.
+팀에 따라 접근 방식이 크게 달라집니다.
 
-As a **Cop**, the objective is to defend the bank and uphold the law. This involves preventing the Robbers from breaching the vault, defusing any drills they manage to place, and eliminating the criminal team before they can escape with the money. Success as a cop relies on strategic positioning, teamwork, and quick response to the Robbers' actions.
+#### 강도팀 팁
 
-The game takes place in an urban environment with the bank as the focal point. Players can use a variety of weapons, tools, and vehicles to achieve their team's goals, earning in-game currency to purchase better equipment for future rounds.
+1.  **침투 루트 계획하기:** 정문 돌격만이 답은 아닙니다. 뒷골목, 옆문, 옥상
+    등 여러 루트를 미리 점검하고, 동시에 진입해 경찰을 혼란스럽게 만드는
+    것이 좋습니다.
+2.  **역할 분담:** 모두가 드릴만 보러 가면 다른 쪽이 비게 됩니다. 드릴 설치 및
+    수비 담당, 출입구 감시 담당, 측면 커버 담당 등 역할을 나누어 움직이세요.
+3.  **드릴 사수:** 드릴이 돈을 여는 열쇠이지만, 소음 때문에 경찰을 끌어들이는
+    표적이기도 합니다. 드릴 주변에 방어선을 구축하고, 적이 해체를 시도하기
+    전에 막아야 합니다.
+4.  **탈출은 별개의 임무:** 돈 가방을 손에 넣었다면, 그 순간부터 최우선 목표는
+    **살아서 나가는 것**입니다. 미리 탈출 루트를 정해 두고, 차량을 준비해 두면
+    훨씬 수월합니다.
+5.  **장비 업그레이드:** 성공한 습격으로 얻은 돈으로 더 나은 무기와 방탄복,
+    C4 같은 보조 장비를 구매해 다음 라운드를 준비하세요.
 
-### Gameplay Strategy
+#### 경찰팀 팁
 
-Success is highly dependent on which team you are on.
+1.  **모든 입구 커버:** 라운드 시작 직후에는 로비에만 모여 있지 말고, 뒷문과
+    옆길, 옥상 접근로 등 가능성 있는 진입 루트를 나눠서 지키는 것이 중요합니다.
+2.  **정보 공유:** 팀 채팅/핑으로 적 위치와 드릴 설치 지점을 바로 알리세요.
+    "메인 볼트에 드릴!"처럼 짧게라도 공유하면 전체가 빠르게 대응할 수 있습니다.
+3.  **재탈환은 같이:** 강도에게 점령당한 구역을 되찾을 땐, 한 명씩 돌입하지 말고
+    여러 명이 각기 다른 방향에서 동시에 진입해 화망을 형성하세요.
+4.  **드릴 해체 우선:** 드릴이 돌아가고 있다면, 그걸 멈추는 것이 최우선입니다.
+    해체 중인 팀원은 무방비 상태이므로, 다른 팀원이 주변을 엄호해야 합니다.
+5.  **도주 차단:** 강도들이 가방을 들고 탈출을 시도하면, 그때부터는 추격전입니다.
+    경찰차로 추격하거나 예상 경로에 미리 매복해 가로막는 것이 효과적입니다.
 
-#### For Robbers:
+### 조작 방법
 
-1.  **[KO]** **Plan Your Entry:** Don't just rush the front door. Scout for alternative entry points like back alleys, side doors, or even rooftop access. A coordinated, multi-pronged attack can confuse the police.
-2.  **[KO]** **Assign Roles:** Don't have everyone do the same thing. Designate specific roles: one or two players to place and guard the drill, one to watch the main entrance, and another to cover flanking routes.
-3.  **[KO]** **Protect the Drill:** The drill is your key to the money, but it's noisy and takes time, making it a magnet for Cops. Set up defensive positions around the drilling area and hold your ground.
-4.  **[KO]** **The Escape is a Separate Mission:** Getting the money is only half the battle. Once you have the cash bags, you become a high-priority target. Plan your escape route in advance and consider having a designated getaway driver ready with a vehicle.
-5.  **[KO]** **Upgrade Your Gear:** Use the money you earn from successful heists to buy better weapons, stronger armor, and useful tools like C4 for faster breaching.
+플랫폼(예: Roblox PC 기준)에 따라 다르지만 일반적인 FPS 조작은 다음과
+비슷합니다.
 
-#### For Cops:
+*   이동: `W`, `A`, `S`, `D` 키
+*   시점/조준: 마우스 이동
+*   발사: 마우스 왼쪽 버튼
+*   조준(ADS): 마우스 오른쪽 버튼
+*   재장전: `R` 키
+*   달리기: `Left Shift` 키
+*   점프: `Space` 키
+*   상호작용(드릴 설치/해체, 돈 줍기, 차량 탑승 등): `E` 또는 `F` 키
+*   무기 교체: 숫자 키 `1`, `2`, `3` ...
+*   앉기(지원 시): `C` 키
 
-1.  **[KO]** **Secure All Entrances:** At the start of the round, don't just camp the main lobby. Spread out to cover all potential points of entry. A single robber slipping through can start a drill and put your team at a disadvantage.
-2.  **[KO]** **Communicate and Call Out:** Use the team chat to report enemy locations. Announce where the robbers are drilling ("Drill on the main vault!") so your team can converge on the threat.
-3.  **[KO]** **Coordinated Retakes:** If robbers have taken control of an area, don't rush in one by one. Group up and breach the room together from multiple angles to overwhelm them.
-4.  **[KO]** **Prioritize Defusing the Drill:** If a drill is active, stopping it is your top priority. Provide cover for a teammate who is attempting to defuse it, as they will be completely vulnerable during the process.
-5.  **[KO]** **Cut Off the Escape:** If the robbers manage to grab the money, your objective shifts to interception. Use police cars to chase them down or set up roadblocks on the path to their getaway point.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+**1. 더 좋은 무기와 장비는 어떻게 얻나요?**  
+라운드에서 목표를 수행하고 적을 제압하면 게임 내 화폐를 얻습니다. 이 돈으로
+상점에서 더 강한 무기, 방탄복, 폭발물 등을 구매할 수 있습니다.
 
-The game uses standard first-person shooter controls common on its platform (Roblox for PC).
+**2. 강도팀인데 드릴이 자꾸 해체당해요. 어떻게 해야 하나요?**  
+드릴은 절대 혼자 두면 안 됩니다. 최소 1~2명은 드릴 방어 전담으로 두고,
+나머지가 주변 진입로를 커버하는 식의 팀플레이가 필수입니다.
 
-*   **[KO]** **`W`, `A`, `S`, `D` Keys**: Move your character.
-*   **[KO]** **Mouse**: Aim and control the camera.
-*   **[KO]** **`Left Mouse Button`**: Fire your weapon.
-*   **[KO]** **`Right Mouse Button`**: Aim down sights (ADS).
-*   **[KO]** **`R` Key**: Reload your weapon.
-*   **[KO]** **`Left-Shift` Key**: Sprint.
-*   **[KO]** **`Spacebar`**: Jump.
-*   **[KO]** **`E` or `F` Key**: Interact with objects (e.g., place/defuse a drill, pick up cash, enter a vehicle).
-*   **[KO]** **Number Keys (`1`, `2`, `3`...)**: Switch between your equipped weapons and items.
-*   **[KO]** **`C` Key**: Crouch (if available in the specific version).
+**3. 경찰팀이 항상 밀립니다. 방어를 어떻게 개선할 수 있나요?**  
+한 곳에 뭉쳐 있지 말고, 입구마다 최소 한 명씩 배치해 초기에 적의 방향을
+파악하는 것이 중요합니다. 강도가 특정 구역에 드릴을 설치했다면, 주변에서
+돌아 들어가 측후방을 치는 동시 돌입을 노리세요.
 
-### Frequently Asked Questions (FAQ)
+**4. 강도팀으로 은행에 들어가는 최선의 루트는 무엇인가요?**  
+상황마다 다르지만, 대부분 정문 돌격보다는 옆문·뒷문·벽 파괴(C4)를 이용한
+기습 루트가 효과적입니다. 경찰의 배치가 허술한 곳을 찾는 것이 중요합니다.
 
-**1. How do I get better weapons and equipment?**
-You earn in-game cash by completing objectives (stealing money as a robber, stopping robbers as a cop) and eliminating opponents. You can then use this cash in the game's shop to purchase a wide variety of new guns, armor, and tools.
-
-**2. As a Robber, the drill keeps getting defused. What should I do?**
-Teamwork is the only solution. You cannot leave the drill unattended. You need at least one or two teammates dedicated to defending the area while the drill is running.
-
-**3. As a Cop, we are always overwhelmed. How can we defend better?**
-Avoid grouping up in one predictable spot. Use the entire bank as your defense area. By spreading out, you can get early warnings of where the robbers are attacking from and flank them when they commit to drilling a specific vault.
-
-**4. What is the best way to enter the bank as a Robber?**
-There is no single "best" way, as it depends on how the Cops set up their defense. The most effective strategy is often a surprise attack. Using C4 on a side wall or finding an unguarded back entrance is usually more successful than a direct assault on the front doors.
-
-**5. Can I switch teams during a game?**
-Typically, team selection happens before the round begins, and you are locked into that team until the next game to maintain balance.
-
+**5. 라운드 중간에 팀을 바꿀 수 있나요?**  
+보통은 라운드 시작 전에 팀이 정해지며, 한 판이 끝날 때까지 중간에 팀을
+바꿀 수 없습니다. 이는 게임 밸런스를 유지하기 위한 제한입니다.

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: going-balls
-title: '[ZH TRANSLATION NEEDED] Going Balls'
+title: "Going Balls 3D 滾球跑酷"
 description: >-
-  [ZH TRANSLATION NEEDED] 3D ball‑rolling obstacle runner: balance across beams
-  and traps, collect coins, and reach the goal without falling.
+  3D 滾球障礙跑酷：在狹窄賽道上保持平衡，穿過橫樑與陷阱，
+  收集金幣並在不掉落的前提下抵達終點。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/going-balls.jpg
@@ -18,26 +18,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Going Balls is a tilt‑and‑roll style runner on narrow tracks filled with beams, bumpers, hammers, and moving platforms. Precision matters: small steering inputs maintain balance, while reckless speed sends you off the edge. Stages introduce gimmicks like magnets, ramps, and zip tracks; coins unlock cosmetic balls and continues.
+
+《Going Balls》是一款 3D 斜坡滾球跑酷遊戲，你要操控一顆小球在狹窄的高空軌道上前進，
+途中充滿橫樑、彈簧板、鐵錘、移動平台等障礙。遊戲重點在精準操控：
+小幅度轉向有助維持平衡，魯莽加速則很容易從邊緣衝出去。後續關卡還會加入磁鐵、加速坡道、滑索等機關，
+金幣可用來解鎖造型球與續關機會。
 
 ### How to Play
-- Feather steering to stay centered on beams; brake before sharp turns.
-- Time moving obstacles (hammers, pushers) and cross in their recovery windows.
-- Collect coins and keys along safer lines—don’t overreach.
+
+- 用柔和的小幅度轉向保持自己在橫樑中央，在急轉彎前適時減速再過彎。
+- 觀察會擺動或敲擊的障礙（如大錘、推杆）的節奏，在它們收回或剛擊完的空檔穿過。
+- 儘量沿著相對安全的路線收集金幣與鑰匙，不要為了難拿的一兩枚硬冒險。
 
 ### Controls
-- WASD/Arrows or drag to steer; Space/brake where available; R to retry (host dependent).
+
+- 使用 WASD 或方向鍵控制滾球方向，亦可拖曳滑鼠／觸控來轉向；
+- 部分版本提供空白鍵或指定按鍵作為剎車／減速；
+- R 可在失誤後快速重試（依託管版本而定）。
 
 ### Tips
-- Look ahead; line up early for narrow entries.
-- On steep ramps, build speed first, then steer minimally.
-- If you start wobbling, slow down to re‑center.
+
+- 視線盡量看向前方，提早調整角度以對準細窄入口，而不是到入口前才猛打方向。
+- 在陡坡上先累積速度，再以最小轉向通過，過程中過多左右晃動反而容易失控。
+- 一旦感覺小球開始左右晃得很凶，先鬆開油門或輕踩剎車，讓球慢下來重新回到軌道中央。
 
 ### FAQ
-- Q: How can I stop falling off narrow beams?  
-[ZH TRANSLATION NEEDED]   A: Reduce steering amplitude and approach straight on; micro‑correct only.
-- Q: What do coins unlock in the game?  
-[ZH TRANSLATION NEEDED]   A: Cosmetics and, on some hosts, continues or bonus levels.
-- Q: Are there checkpoints in longer stages?  
-[ZH TRANSLATION NEEDED]   A: Many levels include mid‑checkpoints; endless modes typically do not.
 
+- 問：我總是從細長橫樑上掉下去，怎麼辦？  
+  答：轉向幅度要再小一些，並儘量正面對齊橫樑前進，只用微調，而不是大幅左右擺。
+
+- 問：金幣有什麼用？  
+  答：多數版本可用金幣解鎖不同造型的小球，部分平台還能用來購買續關或開啟額外關卡。
+
+- 問：長關卡中有中途存檔點嗎？  
+  答：不少關卡會在中段設置檢查點，失誤後從最近的檢查點重來；
+  無盡模式通常不會提供檢查點，一旦掉落就得從頭再滾。

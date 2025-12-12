@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: pin-the-ufo
-title: '[DE] Pin the UFO'
+title: "Pin the UFO"
 description: >-
-  [DE] Master the 'pull the pin' puzzle game, Pin the UFO. This guide provides
-  expert strategies for solving levels by pulling pins in the correct order to
-  guide the colorful aliens safely into their spaceship.
+  Meistere das „Pull-the-Pin“-Puzzlespiel Pin the UFO. Ziehe die Pins in der
+  richtigen Reihenfolge, damit alle bunten Aliens sicher in ihrem Raumschiff
+  landen.
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
 thumbnail: /new-images/pin-the-ufo.jpeg
 tags:
@@ -17,47 +17,70 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+*Pin the UFO* ist ein charmantes, strategisches „Pull-the-Pin“-Puzzlespiel im
+ Weltraum. Dein Ziel ist es, eine Gruppe bunter Alien-Kugeln sicher in das UFO
+ am unteren Bildschirmrand zu leiten.
 
+Jedes Level besteht aus Behältern mit Aliens, die durch bewegliche Pins
+ voneinander getrennt sind. Du musst das Rätsel analysieren und die Pins in der
+ richtigen Reihenfolge ziehen, damit die Aliens fallen, sich vermischen und am
+ Ende im Raumschiff landen.
 
-### **Game Introduction**
+Wichtige Mechaniken sind:
+*   **Farbverteilung:** Manche Aliens sind farblos (weiß oder grau). Sie müssen
+    zuerst mit farbigen Aliens in Kontakt kommen, um selbst Farbe anzunehmen,
+    bevor sie gezählt werden.
+*   **Hindernisse:** Viele Level enthalten Bomben oder andere Gefahren. Die
+    Aliens dürfen diese auf keinen Fall berühren.
+*   **Physik:** Das Spiel nutzt einfache Physik – du musst dir vorstellen, wie
+    Kugeln fallen, rollen und sich vermischen, sobald ein Pin entfernt wird.
 
-*Pin the UFO* is a charming and strategic "pull the pin" puzzle game set in outer space. The primary objective is to **safely guide a group of colorful alien "cubs" into their UFO spaceship at the bottom of the screen.**
+Die Herausforderung besteht darin, eine Pin-Reihenfolge zu finden, in der alle
+ grauen Aliens eingefärbt werden, Bomben unschädlich bleiben und am Ende alle
+ Kugeln sicher im UFO landen.
 
-Each level consists of a container holding the aliens, sectioned off by a series of movable pins. The player must analyze the puzzle and pull the pins out in the correct order to release the aliens and let gravity do the rest.
+### Strategien & Spieltipps
 
-The game introduces several key mechanics:
-*   **[DE]** **Color Spreading**: Some aliens start off colorless (white or grey). They must come into contact with the colored aliens to gain color before they can be collected.
-*   **[DE]** **Obstacles**: Levels often contain hazards like bombs or explosives. The aliens must be kept away from these dangers.
-*   **[DE]** **Physics**: The game is based on simple physics. You must understand how the balls will fall, mix, and flow once a pin is removed.
+1.  **Erst denken, dann ziehen:** Ziehe Pins nie zufällig. Verschaffe dir zuerst
+    einen Überblick und spiele gedanklich durch, wohin die Aliens jeweils
+    rollen werden.
+2.  **Graue Aliens früh einfärben:** In vielen Leveln musst du zunächst dafür
+    sorgen, dass farbige Aliens auf die grauen fallen, bevor du den Weg zum
+    Ausgang öffnest.
+3.  **Bomben isolieren:** Versuche, Bomben in eigene Kammern fallen zu lassen
+    oder so zu platzieren, dass die Aliens sie umgehen. Lass sie niemals direkt
+    auf Bomben fallen.
+4.  **Reihenfolge ist alles:** Ob du Pin A vor Pin B ziehst, kann über Erfolg
+    oder Explosion entscheiden. Denk an eine Zahlenschloss-Kombination – jede
+    Reihenfolge ergibt ein anderes Ergebnis.
+5.  **Trenner erkennen:** Manche Pins dienen nur dazu, Bereiche zu trennen
+    (z. B. Bomben von Aliens oder farbige von grauen Kugeln). Erkenne ihre
+    Funktion, bevor du sie entfernst.
 
-The challenge lies in figuring out the precise sequence of pin-pulls to ensure all colorless aliens are colored, all hazards are avoided, and all aliens successfully reach the UFO.
+### Steuerung
 
-### **Gameplay Strategy & Tips**
+Die Steuerung ist simpel und für One-Touch-Eingaben ausgelegt.
 
-1.  **[DE]** **Plan Before You Pull**: This is the most important rule. Do not pull pins randomly. Take a moment to look at the entire setup and mentally trace the path the aliens will take for each possible pin-pull.
-2.  **[DE]** **Color the Grey Aliens First**: Your top priority in most levels is to ensure the colorless aliens mix with the colored ones. Often, you will need to pull a pin that allows the colored aliens to drop down onto the colorless ones *before* you release them all towards the exit.
-3.  **[DE]** **Isolate and Neutralize Bombs**: If there are bombs, the puzzle is usually about finding a way to either drop the bombs into a separate, harmless area, or to release the aliens in a way that they flow around the bombs. Never drop the aliens directly onto bombs.
-4.  **[DE]** **The Order Matters**: The sequence in which you pull the pins is everything. Pulling pin A before pin B might lead to success, while pulling B before A leads to failure. Think of it like a combination lock.
-5.  **[DE]** **Look for Separators**: Some pins are there just to keep things separate (e.g., bombs from aliens, colored aliens from colorless ones). Understand the function of each pin before you remove it.
+*   **Pin ziehen:** Klicke oder tippe auf einen Pin und ziehe ihn aus seiner
+    Halterung. In vielen Versionen reicht auch ein einzelner Tap.
 
-### **Controls Guide**
+### Häufige Fragen (FAQ)
 
-The controls are extremely simple and designed for one-touch mobile gameplay.
-
-*   **[DE]** **Pull a Pin**: **Click and drag** the pin you want to remove out of its slot. Alternatively, a simple **tap** on the end of the pin often works as well.
-
-### **Frequently Asked questions (FAQ)**
-
-**1. Why did I lose the level? All the aliens got to the UFO!**
-You likely failed to color all the colorless (grey/white) aliens. Only colored aliens count as being successfully "saved." Make sure every alien has been colored before they enter the spaceship.
-
-**2. I pulled a pin, and everything exploded. What did I do wrong?**
-You allowed the aliens to come into contact with a bomb. The solution to these levels involves finding a way to get rid of the bombs first, or guiding the aliens along a path that safely avoids them.
-
-**3. The level seems impossible. What should I do?**
-Every level has a specific solution. If you are stuck, try to rethink the order of your pin-pulls. The solution is often counter-intuitive. Consider pulling a pin that doesn't seem to lead directly to the exit, but instead sets up a better flow for the aliens.
-
-**4. What is the goal of the game?**
-The goal is to successfully solve each puzzle level by getting all the colored aliens into the UFO, progressing through as many levels as possible.
-
+1.  **F: Warum habe ich verloren, obwohl alle Aliens im UFO sind?**
+    **A:** Vermutlich sind einige Aliens grau geblieben. Nur eingefärbte
+    Kugeln zählen als gerettet. Stelle sicher, dass alle grauen Aliens vorher
+    Kontakt mit farbigen hatten.
+2.  **F: Nach einem Pin-Zug explodiert alles – was mache ich falsch?**
+    **A:** Wahrscheinlich hast du Aliens direkt auf eine Bombe fallen lassen.
+    Finde zuerst eine Möglichkeit, Bomben loszuwerden oder sie in einen
+    separaten Bereich zu lenken.
+3.  **F: Ein Level wirkt unmöglich – Tipps?**
+    **A:** Es gibt immer eine konkrete Lösung. Überlege dir eine andere
+    Reihenfolge für die Pins, selbst wenn sie zunächst „unnütz“ erscheint.
+    Oft musst du erst einen Zwischenschritt schaffen, bevor du den Weg zum UFO
+    freigibst.
+4.  **F: Was ist das eigentliche Ziel?**
+    **A:** Du musst alle eingefärbten Aliens sicher im UFO sammeln und damit
+    jedes Level lösen, um in der Kampagne weiterzukommen.

@@ -1,17 +1,40 @@
 ---
+title: "Woodcraft"
+description: "Woodcraftは、木工クラフトゲームです。木を集めて様々なアイテムを作りましょう。"
+iframeSrc: "https://ubg98.github.io/Woodcraft/"
+thumbnail: "/new-images/woodcraft.jpg"
+urlstr: "woodcraft"
+score: "4.3/5  (2234 votes)"
+tags: ["crafting", "simulation", "casual"]
 locale: ja
-urlstr: woodcraft
-title: '[JA TRANSLATION NEEDED] Woodcraft'
-description: >-
-  [JA TRANSLATION NEEDED] Master the art of woodworking in this relaxing casual
-  game. Craft wooden items with rhythmic precision, complete orders, and unlock
-  new tools and patterns. A satisfying crafting experience!
-iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
-thumbnail: /new-images/woodcraft.jpg
-tags:
-  - casual
-  - rhythm
-score: 3.7/5  (568 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
+
+Woodcraftは、木材を集めて加工し、様々なアイテムを作成するクラフトシミュレーションゲームです。木を切り、加工し、アイテムを作りましょう。
+
+### ゲームプレイガイド
+
+ - **木を集める：** 木を切って木材を集めます
+ - **加工する：** 木材を加工して材料を作ります
+ - **アイテム作成：** 様々なアイテムをクラフトします
+ - **発展：** ワークショップを拡大します
+
+### 操作ガイド
+
+ - **マウス：** クリックしてアクション
+ - **キーボード：** メニューとショートカット
+
+### よくある質問（FAQ）
+
+**ゲームの目標は何ですか？**
+
+木材を集めてアイテムを作成し、ワークショップを発展させることです。
+
+**どんなアイテムが作れますか？**
+
+家具、道具、装飾品など、様々なアイテムが作れます。
+
+**リソース管理は重要ですか？**
+
+はい、効率的に木材を集めて使うことが重要です。

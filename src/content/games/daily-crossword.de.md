@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: daily-crossword
-title: '[DE] Daily Crossword'
+title: "Daily Crossword"
 description: >-
-  [DE] Daily Crossword delivers a fresh crossword each day: solve across and
-  down clues to fill the grid.
+  Daily Crossword liefert dir jeden Tag ein neues Kreuzworträtsel – löse
+  horizontale und vertikale Hinweise und fülle das Gitter.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/daily-crossword.jpg
 tags:
@@ -15,21 +15,29 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+*Daily Crossword* bietet dir täglich ein neues Crossword nach gängigen
+US-Regeln: Du füllst waagerechte (Across) und senkrechte (Down) Einträge so,
+ dass jeder Buchstabe durch ein kreuzendes Wort überprüft wird. Viele Hosts
+zeigen Timer, Hinweisliste und Tools zum Prüfen oder Aufdecken von Einträgen.
 
+### So spielst du
 
-### Overview
-Daily Crossword provides a new crossword each day with familiar American‑style rules: fill Across and Down answers so all letters cross‑check. Many hosts include timers, clue lists, and tools to check or reveal entries. 
+- Wähle einen Hinweis oder ein Feld aus und tippe die Antwort-Buchstaben ein;
+  mit den Pfeiltasten bewegst du den Cursor.
+- Nutze Kreuzungslinien, um unsichere Antworten zu bestätigen, und kehre
+  später zu langen Einträgen zurück.
+- Je nach Plattform gibt es Tagesserien, Statistiken und Bestenlisten.
 
-### How to Play
-- Select a clue or cell and type letters to fill the entry; arrow keys move the cursor.
-- Use crossings to confirm uncertain answers; return to long entries later.
-- Daily streaks and leaderboards may be supported depending on the host.
+### Steuerung
 
-### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab switches direction or advances (site‑dependent).
+- A–Z tippen; Pfeiltasten zum Navigieren; Backspace zum Löschen; Enter/Tab
+  wechselt Richtung oder springt zum nächsten Hinweis (host-abhängig).
 
-### Tips and Strategies
-- Start with short/easy clues, then expand using crossings.
-- Use Check tools sparingly to avoid time penalties if a host tracks time.
+### Tipps & Strategien
 
+- Beginne mit kurzen/einfachen Hinweisen und erweitere deinen Fortschritt über
+  Kreuzungen.
+- Nutze Prüf-Tools sparsam, besonders wenn Zeiten oder Serien getrackt
+  werden.

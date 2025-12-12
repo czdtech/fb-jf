@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: incredibox
-title: '[ES] Incredibox - Play Incredibox Online'
+title: "Incredibox - Play Incredibox Online"
 description: >-
-  [ES] Want to create your own exclusive hit song with a group of quirky
-  beatboxers? Incredibox can make your dream come true! This game is part game,
-  part music creation tool, and offers musical fun for people of all ages.
+  ¿Quieres crear tu propio hit con un grupo de beatboxers muy peculiares?
+  Incredibox puede hacer realidad ese sueño. Este juego es mitad juego, mitad
+  herramienta de creación musical y ofrece diversión sonora para todas las
+  edades.
 iframeSrc: 'https://nom74100.github.io/in-box/'
 thumbnail: /Incredibox.png
 tags:
@@ -16,48 +17,74 @@ score: 4.9/5  (724 votes)
 
 
 
-### Introducing to Incredibox
+### Introducción a Incredibox
 
-Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages. Today, let's step into the world of Incredibox and explore its various versions, gameplay mechanics, so you can easily get started and play a musical carnival at your fingertips!
+¿Te gustaría crear tu propia canción pegadiza con un grupo de beatboxers
+carismáticos? Incredibox lo hace posible. Es a la vez **juego** y **herramienta
+ de creación musical**, y está pensado para que cualquiera pueda divertirse con la
+música. Vamos a entrar en el mundo de Incredibox, repasar sus versiones,
+ mecánicas básicas y algunos trucos para que puedas empezar a montar tu propio
+festival musical con unos pocos clics.
 
-### How to Play Incredibox?
+### ¿Cómo se juega a Incredibox?
 
-Incredibox's core gameplay is delightfully simple:
+La jugabilidad básica de Incredibox es muy sencilla:
 
-- **Choose Characters:** You'll see a group of cute beatboxers, each representing a different sound or musical element.
-- **Drag and Drop:** Drag and drop various icons onto these characters, assigning them different sounds to create rhythmic melodies.
-- **Create:** Feel free to try different combinations, discover unique beats, and create your own musical masterpiece!
-
-
----
-
-### What Are the Different Versions of Incredibox?
-
-While the core gameplay remains the same, each Incredibox version has its own unique characters, sounds, and themes. Here's a rundown of the most popular versions:
-
-- **V1 Alpha:** The beginning of it all! Classic beatboxing style with jazz and funk influences. You can hear scratches, human beatboxing, and deep basslines.
-- **V2 Little Miss:** The style is cuter and the style is more relaxed! The characters are cute, and the sounds are mainly a cappella and beatboxing, focusing on vocal elements such as whistles, tongue trills, and scat singing.
-- **V3 Sunrise:** Ready for a tropical trip? V3 has a bright and cheerful atmosphere, with steel drums, marimbas, and xylophones, making your works full of summer island style.
-- **V4 The Love:** As you can see, V4 focuses on romantic themes. Soulful vocals, acoustic guitars, and smooth saxophones are the perfect choices for creating love songs and moving ballads.
-- **V5 Brazil:** V5 ignites your passion with vibrant Brazilian music! Explosive rhythms and rich percussion instruments (such as cuicas, pandeiros, and berimbaus) allow you to be instantly immersed in the sea of samba.
-- **V6 Alive:** V6 takes you into nature! Flutes, didgeridoos, handpans and other instruments blend perfectly with natural sound effects such as bird chirping and flowing water, creating a peaceful and natural soundscape.
-- **V7 Jeevan:** Take a musical journey to India! V7 incorporates traditional Indian instruments such as the sitar and tabla, making your music full of exotic charm.
-- **V8 Dystopia:** Ready to welcome dark and industrial sounds? V8 has heavy bass, distorted guitars, and electronic synthesizers, which are most suitable for creating dark and avant-garde beats.
-- **V9 Wekiddy:** Let yourself go and have fun! V9 uses a cartoon theme and various quirky sound effects (such as laser beams, robots, and funny vocals) to let you create interesting and nonsensical beats.
-- **Orin Ayo:** This special version is launched by Incredibox in cooperation with the MIT Scratch programming platform. You can learn programming knowledge while enjoying the fun of music creation!
-
+- **Elige personajes:** verás un grupo de beatboxers, cada uno vinculado a un
+  tipo de sonido o elemento musical distinto.
+- **Arrastra y suelta iconos:** arrastra iconos sobre los personajes para
+  asignarles sonidos y construir ritmos y melodías.
+- **Crea:** prueba distintas combinaciones, descubre beats únicos y da forma a
+  tu propia pieza musical.
 
 ---
 
-### Incredibox Tips:
+### ¿Qué versiones de Incredibox existen?
 
-- **Experiment boldly:** Don't be afraid to try different combinations, you may find unexpected surprises!
-- **Listen carefully:** Pay attention to how different sounds blend together to create a sense of rhythm.
-- **Start gradually:** If you are a novice, start with simple loops and then gradually increase the complexity.
-- **Use repetition:** Repeating certain sounds can create catchy melodies.
-- **Share:** After creating a satisfactory work, don't forget to share it with your friends!
+La mecánica base es la misma en todas, pero cada versión tiene personajes,
+sonidos y temas propios. Estas son algunas de las más conocidas:
 
+- **V1 Alpha:** El origen de todo. Estilo clásico de beatbox con toques de jazz
+  y funk, con scratches, beatbox humano y líneas de bajo profundas.
+- **V2 Little Miss:** Más desenfadada y adorable. Personajes simpáticos y un
+  enfoque en voces a capela, silbidos, trinos de lengua y scat.
+- **V3 Sunrise:** Un viaje a climas tropicales. Ambiente luminoso con steel
+  drums, marimbas y xilófonos que dan un aire de verano isleño.
+- **V4 The Love:** Centrada en lo romántico. Voces soul, guitarras acústicas y
+  saxos suaves, perfecta para baladas y temas sentimentales.
+- **V5 Brazil:** Explosión de ritmo brasileño. Percusión rica (cuicas, pandeiros,
+  berimbaus) y energía de samba por todos lados.
+- **V6 Alive:** Te lleva a la naturaleza. Flautas, didyeridús, handpans y otros
+  instrumentos se mezclan con sonidos de pájaros y agua para crear paisajes
+  sonoros tranquilos.
+- **V7 Jeevan:** Un viaje musical a la India. Usa instrumentos tradicionales
+  como sitar y tabla para un sonido lleno de exotismo.
+- **V8 Dystopia:** El lado oscuro e industrial. Graves pesados, guitarras
+  distorsionadas y sintes agresivos para beats vanguardistas.
+- **V9 Wekiddy:** Puro desenfado. Tema cartoon con efectos raros (rayos láser,
+  robots, voces cómicas) para crear mezclas divertidas y absurdas.
+- **Orin Ayo:** Versión especial en colaboración con la plataforma de
+  programación MIT Scratch. Ideal para aprender conceptos de código mientras
+  compones.
 
-### Conclusion:
+---
 
-With its intuitive gameplay, vibrant graphics, and endless creative possibilities, Incredibox brings endless fun to music lovers and aspiring beatboxers. What are you waiting for? Come and unleash your inner musical genius!
+### Consejos para jugar a Incredibox
+
+- **Experimenta sin miedo:** prueba combinaciones raras; a menudo aparecen
+  sorpresas y bonus.
+- **Escucha cómo encajan los sonidos:** fíjate en cómo se mezclan ritmos,
+  melodías y voces para crear groove.
+- **Empieza sencillo:** si eres nuevo, arranca con loops básicos y ve subiendo la
+  complejidad poco a poco.
+- **Usa la repetición:** repetir ciertos patrones ayuda a crear melodías y
+  ritmos que se quedan en la cabeza.
+- **Comparte tu trabajo:** cuando tengas una mezcla que te guste, compártela con
+  amigos o en redes.
+
+### Conclusión
+
+Con su jugabilidad intuitiva, gráficos vistosos y posibilidades creativas casi
+infinitas, Incredibox es una fuente de diversión para amantes de la música y
+beatboxers en potencia. ¿A qué esperas? Libera a tu genio musical interior y
+empieza a mezclar.

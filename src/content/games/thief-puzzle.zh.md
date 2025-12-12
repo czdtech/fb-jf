@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: thief-puzzle
-title: '[ZH TRANSLATION NEEDED] Thief Puzzle'
-description: >-
-  [ZH TRANSLATION NEEDED] Thief Puzzle is a mischievous rope‑arm puzzler —
-  stretch, avoid traps, and grab targets with clever angles and timing.
+title: 《Thief Puzzle》长臂小偷解谜
+description: 《Thief Puzzle》是一款恶作剧风格的“伸手”解谜游戏。控制可伸缩的长臂，在不触发机关和警报的前提下，绕过陷阱偷走目标物品。
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thief-puzzle.png
 tags:
@@ -15,28 +13,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Extend a stretchy arm to steal objects while dodging lasers, guards, and buzzsaws. Levels reward path planning: route around triggers, exploit timing windows, and retract fast when hazards reset.
+《Thief Puzzle》中，你扮演一名手臂像橡皮筋一样能无限延伸的小偷。每一关都有一个要偷的目标（比如钱袋、宝石或道具），同时布置了激光、守卫、锯片等各类机关。你需要通过画出一条合适的“伸手路径”，在不触发陷阱的情况下拿到目标，并安全把手收回。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Probe path: Move slowly to test trigger ranges.
-2.  [ZH TRANSLATION NEEDED] Time windows: Pass lasers/guards right after cycle flips.
-3.  [ZH TRANSLATION NEEDED] Angle tricks: Wrap around corners to stay outside detection cones.
-4.  [ZH TRANSLATION NEEDED] Risk control: Abandon greedy arcs when cycles desync.
-5.  [ZH TRANSLATION NEEDED] Multi‑grab: Chain safe pickups before retracting.
+### 游玩策略与解谜指引
 
-### Controls Guide
+1.  **先试探再深入：** 缓慢拖动手臂靠近机关边缘，观察哪些位置会触发激光或感应器，摸清安全范围后再大胆伸长。
+2.  **抓准时机：** 很多机关有周期性动作，例如来回移动的激光或巡逻守卫。最好在它们刚完成一轮动作后再通过，留足安全窗口。
+3.  **利用角度与转折：** 绕着墙角、物体边缘画线，可以让手臂始终保持在摄像头视野或探测锥形范围之外，是通关关键技巧之一。
+4.  **及时放弃危险路线：** 当你发现当前线路会在后半段必然撞上机关时，果断撤回重新规划，不要硬凹一个“勉强可行”的路径。
+5.  **一次多拿（若关卡允许）：** 某些关卡可以在一条安全路径下顺便拿多个物品，规划好顺序后一次完成可以节省时间。
 
-- Drag to stretch arm; release to retract; restart via UI.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **伸手：** 按住并拖动屏幕，从小偷手的位置画出一条“手臂路径”；
+- **收手：** 松开手指或鼠标后，手臂会沿着你画出的路径伸出并再按原路缩回；
+- **重开：** 若触发警报或被机关击中，可通过界面按钮重置关卡重新尝试。
 
-- Q: I trip alarms.
-  
-[ZH TRANSLATION NEEDED]   A: Slow down near sensors and route around corners to cut line‑of‑sight.
+### 常见问题解答（FAQ）
+*   **问：为什么总会莫名触发警报？****
 
-- Q: Timing feels tight.
-  
-[ZH TRANSLATION NEEDED]   A: Wait one full cycle; most rooms have relaxed windows.
+A: Slow down near sensors and route around corners to cut line‑of‑sight.
+- 答：** 很可能是路径太贴近感应器或摄像头，即便没有直接碰到，判定范围也被触及。可以适当拉开一点距离，或改从另一侧绕行。
 
+A: Wait one full cycle; most rooms have relaxed windows.
+*   **问：机关节奏感觉很紧怎么办？****
+    *   答：** 先观察完整的一个周期，再在最宽松的时间窗口进行伸手，大部分关卡都预留了足够安全时间。

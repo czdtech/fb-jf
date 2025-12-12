@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: 99-balls-3d
-title: '[DE] 99 Balls 3D'
+title: "99 Balls 3D"
 description: >-
-  [DE] A modern twist on classic arcade action! Aim and shoot your stream of
-  balls to destroy the numbered targets. Collect rings to increase your ammo and
-  stars to unlock new weapons.
+  99 Balls 3D ist ein moderner Mix aus Arcade‑Action und Physik‑Puzzle. Ziele
+  geschickt, feuere eine Kugelsalve ab und zerbrich nummerierte Bälle, sammle
+  Ringe für mehr Munition und Sterne für neue Skins.
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/99-balls-3d.jpeg
 tags:
@@ -17,32 +17,45 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+99 Balls 3D ist ein extrem süchtig machender, physikbasierter Puzzle‑Shooter,
+der Elemente von Breakout und Bubble Shooter kombiniert. Von unten aus schießt
+du einen Strom kleiner Kugeln nach oben, um nummerierte Bälle zu zerstören, die
+langsam von oben Richtung Boden fallen. Die Zahl auf jedem Ball zeigt an, wie
+viele Treffer nötig sind, bis er verschwindet. Clevere Bank‑Schüsse und lange
+Abprallketten sind der Schlüssel, um das Feld rechtzeitig zu räumen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-99 Balls 3D is a highly addictive, physics-based puzzle shooter that combines elements of Breakout and Bubble Shooter. Your goal is to destroy a series of numbered balls that slowly descend from the top of the screen. You shoot a stream of smaller balls from the bottom, and the number on each target ball indicates how many hits it needs to be destroyed. The key to the game is to aim your shots perfectly to create long chain reactions of bounces, clearing the board before the numbered balls reach the bottom.
+1.  **Bank‑Schuss meistern:** Schieße selten direkt auf einen einzelnen Ball.
+    Ziele lieber leicht schräg auf Wände oder Ballgruppen, damit deine Kugeln
+    möglichst oft abprallen und viele Treffer in einem Zug landen.
+2.  **Ringe priorisieren:** Weiße Ringe, die im Spielfeld auftauchen, sind
+    oberste Priorität. Jeder getroffene Ring erhöht dauerhaft die Anzahl der
+    Kugeln, die du pro Schuss abfeuerst – ein enormer Vorteil für den Rest der
+    Partie.
+3.  **Hoch nummerierte Bälle zuerst:** Bälle mit hohen Zahlen sind am
+    gefährlichsten. Versuche deine Schüsse so zu setzen, dass dein Kugelstrom
+    diese mehrmals trifft, bevor sie den Boden erreichen.
+4.  **Keinen Ball nach unten durchlassen:** Nach jedem Schuss rücken alle Bälle
+    eine Reihe nach unten. Sobald ein nummerierter Ball die untere Linie
+    berührt, ist das Spiel vorbei.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Master the Bank Shot:** Never shoot directly at a single target. The goal is to aim your stream of balls at an angle so that they bounce off the walls and other balls as many times as possible. A single, well-aimed shot can result in hundreds of hits.
-2.  **[DE]** **Collect the Rings:** As you play, white rings will appear. Hitting these is your top priority. Each ring you collect adds one more ball to your shooting stream, dramatically increasing your firepower for all future shots.
-3.  **[DE]** **Prioritize High-Number Balls:** The balls with the highest numbers are the biggest threat. Try to position your shots so that your stream of balls will hit them multiple times.
-4.  **[DE]** **Don't Let Them Reach the Bottom:** After each shot, the balls will move one step closer to the bottom. If any numbered ball reaches the bottom line, the game is over.
+*   **Zielen:** Bewege die Maus, um die Hilfslinie deiner Schussrichtung zu
+    steuern.
+*   **Schießen:** Klicke mit der linken Maustaste, um deine Kugelsalve
+    abzufeuern.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Aim:** Move your mouse to control the aiming guideline. This shows the initial trajectory of your shot.
-*   **[DE]** **Shoot:** Click the left mouse button to fire your stream of balls.
+*   **F: Was bedeuten die Zahlen auf den Bällen?**
+    *   **A:** Die Zahl zeigt die „Lebenspunkte“ an – so oft muss der Ball getroffen werden, bis er zerstört wird.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Wie bekomme ich mehr Kugeln pro Schuss?**
+    *   **A:** Triff die weißen Ringe im Spielfeld. Jeder Ring erhöht dauerhaft die Anzahl der Kugeln in deiner Salve.
 
-*   **[DE]** **Q: What do the numbers on the balls mean?**
-    *   **[DE]** **A:** This is the ball's "health." It indicates how many times the ball must be hit before it is destroyed.
-
-*   **[DE]** **Q: How do I get more balls to shoot?**
-    *   **[DE]** **A:** By hitting the white rings that appear on the screen. Each ring you collect permanently adds one ball to your stream for the rest of the game.
-
-*   **[DE]** **Q: What are the stars for?**
-    *   **[DE]** **A:** Collecting stars allows you to unlock new skins and weapon types from the main menu, adding a fun cosmetic element to the game.
-
+*   **F: Wofür sind die Sterne gedacht?**
+    *   **A:** Mit Sternen schaltest du im Hauptmenü neue Skins und Waffen‑Designs frei – ein kosmetischer Bonus für mehr Motivation.

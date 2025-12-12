@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: word-search-2
-title: '[ZH TRANSLATION NEEDED] Word Search'
+title: 'Word Search：经典找单词（版本 2）'
 description: >-
-  [ZH TRANSLATION NEEDED] The classic word-finding puzzle. Find all the hidden
-  words in the letter grid. Words can be hidden horizontally, vertically, or
-  diagonally—and even backwards!
+  《Word Search》是一款经典的英文找词游戏。
+  在字母方阵中寻找并标记给定的单词，单词可能横向、纵向、斜向，甚至倒着隐藏，
+  非常适合用来锻炼观察力与英语拼写。
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/word-search-2.jpg
 tags:
@@ -17,30 +17,49 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Word Search is a classic and beloved word puzzle game. The objective is to find and mark all the words hidden inside a grid of letters. A list of words is provided, and players must scan the grid to locate them. The words can be placed horizontally, vertically, or diagonally, and can be spelled forwards or backwards, making it a fun challenge for your observation skills.
+《Word Search》是一款经久不衰的单词搜寻类益智游戏。
+你的目标是在一大片字母网格中，找到并标记给定列表里的所有单词。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Scan Systematically:** Don't just look randomly. Scan the grid row by row, both forwards and backwards, for the first letter of a word on your list. Then do the same for each column.
-2.  [ZH TRANSLATION NEEDED] **Look for Uncommon Letters:** If a word has an uncommon letter like J, Q, X, or Z, scan the entire grid for that letter first. Since it appears less frequently, it will significantly narrow down the possible locations for that word.
-3.  [ZH TRANSLATION NEEDED] **Check All Directions:** Remember that words can be hidden in any of the eight directions. Once you find the first letter of a word, check all adjacent letters to see if they continue the word in any direction.
-4.  [ZH TRANSLATION NEEDED] **Use Hints When Needed:** If you're truly stuck on a word, don't be afraid to use a hint if the game provides one. It will usually reveal the location of the word you're looking for.
+游戏会在界面一侧列出需要寻找的单词清单，你需要在字母表格中逐个定位它们。
+单词可能横着、竖着、斜着出现，而且既可以正向拼写，也可能倒序隐藏，
+既考验观察细节的能力，也能顺便复习单词拼写。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-[ZH TRANSLATION NEEDED] The game is played with a simple click-and-drag motion.
+1.  **系统化扫描（Scan Systematically）：**  
+    不要完全随机到处乱看，可以按行或按列有规律地扫描网格，
+    先从左到右、再从右到左，或按从上到下、再从下到上依次查看，
+    比较不容易漏掉目标字母。
+2.  **利用稀有字母（Look for Uncommon Letters）：**  
+    如果目标单词中有 J、Q、X、Z 等少见字母，
+    可以先在整张网格中寻找这些“显眼字母”，再以它为锚点向周围扩展，
+    很快就能锁定单词的大致位置。
+3.  **记得检查所有方向（Check All Directions）：**  
+    找到单词首字母后，记得从它出发检查 8 个方向（横、竖、两条对角线），
+    很多错过的单词，问题就出在没有检查反向或斜向。
+4.  **需要时使用提示（Use Hints When Needed）：**  
+    如果在某个单词上卡了很久，不妨使用提示功能，
+    让游戏高亮其首字母或位置，避免在同一处耗费过多时间。
 
-*   **Highlight a Word:** When you find a word, click on the first letter, hold the mouse button down, and drag your cursor to the last letter of the word. Release the button to confirm the word.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+本作操作方式非常简单直观：
 
-*   **Q: Can words be spelled backwards?**
-     *   **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
+*   **高亮一个单词：** 找到单词后，从第一个字母开始按下鼠标，
+    按着不放拖动到单词的最后一个字母，然后松开按键即可完成标记。
 
-*   **Q: How do I win the game?**
-     *   **A:** You win by finding and highlighting every single word from the provided list.
+### 常见问题（FAQ）
 
-*   **Q: Is there a penalty for guessing wrong?**
-     *   **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
+*   **问：单词可以倒着拼吗？**  
+    *   **答：** 可以。单词可以正向或反向出现，还可以向上、向下以及斜向隐藏，
+        因此检查每个方向都很重要。
 
+*   **问：怎样才算赢得一局？**  
+    *   **答：** 当你把列表中所有的目标单词都在字母网格里找出并成功标记后，
+        本局就算通关。
+
+*   **问：选错了一串字母会不会扣分？**  
+    *   **答：** 一般不会。如果你框选的字母组合不是列表上的单词，
+        高亮会自动取消，你只需要重新尝试即可，不会受到额外惩罚。

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: hoop-stars
-title: '[DE] Hoop Stars'
+title: "Hoop Stars"
 description: >-
-  [DE] Hoop Stars is a ring‑flip skill game — spin, time flips, and drop rings
-  cleanly over pegs before your rival does.
+  Hoop Stars ist ein Ring-Flip-Skillspiel: Drehe den Ring, timinge deine Flips
+  und lasse ihn sauber über den Pfosten gleiten, bevor dein Gegner punktet.
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/hoop-stars.png
 tags:
@@ -16,35 +16,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Hoop Stars ist ein schnelles Duell um den besseren Ringwurf. Du drehst einen
+Ring um einen zentralen Pfosten und versuchst, ihn mit einem Flip über
+Hindernisse hinweg so zu landen, dass er sauber über dem Pfosten liegen bleibt.
+Nur saubere Landungen zählen als Punkt, Fehlwürfe kosten Zeit. Wer seine
+Würfe konstant timet und gute Ausgangswinkel vorbereitet, gewinnt mehr Spiele
+als reines Button-Mashing.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Hoop Stars is a rapid ring‑flip contest. You rotate a ring around a central peg and flip it to land past obstacles. Clean flips that settle over the peg score; misses costs time. Duels reward consistent timing and smart angle setups more than raw speed.
+1.  **Vorrotation einstellen**  
+    Bringe den Ring zuerst in einen Winkel, mit dem du dich wohlfühlst, bevor
+    du überhaupt an den Flip denkst.
 
-### Gameplay Strategy & Walkthrough
+2.  **Frühe vs. späte Flips verstehen**  
+    Je nachdem, ob du früher oder später loslässt, verändert sich die Höhe und
+    Flugbahn des Rings. Spiele bewusst mit diesen Fenstern, statt blind zu
+    drücken.
 
-1.  **[DE]** Pre‑spin: Rotate to a comfortable angle before flipping.
-2.  **[DE]** Early/late windows: Learn how early vs late flips change arc height.
-3.  **[DE]** Obstacle reads: Wait half a cycle for gaps; don’t force throws.
-4.  **[DE]** Mind rebounds: If a ring bounces, don’t re‑flip into chaos — reset.
-5.  **[DE]** PvP: Bait opponents by faking flips, then land a clean one.
+3.  **Hindernisse lesen**  
+    Warte eine halbe Rotation ab, wenn Hindernisse im Weg sind, und wirf erst,
+    wenn sich eine klare Lücke auftut – erzwungene Würfe gehen oft daneben.
 
-### Controls Guide
+4.  **Abpraller kontrollieren**  
+    Wenn der Ring abprallt, versuche nicht, ihn mit einem hektischen zweiten
+    Flip aus dem Chaos zu retten. Bring ihn erst wieder unter Kontrolle und
+    richte ihn neu aus.
 
-- Hold to spin; release to flip; some builds use two buttons for spin vs flip.
+5.  **PvP-Mindgames**  
+    In Duellen kannst du Flips antäuschen, um den Gegner nervös zu machen, und
+    dann in einem ruhigen Moment einen präzisen Treffer landen.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: My flips always rim out — fix?
+- Halte die Taste (oder den Bildschirm) gedrückt, um den Ring zu drehen, und
+  lasse los, um den Flip auszuführen.  
+- Manche Versionen trennen Rotations- und Flip-Befehl auf zwei Buttons.
 
-A: Adjust release timing earlier/later and reduce pre‑spin speed for steadier arcs.
+### Häufige Fragen (FAQ)
 
-- Q: Is button mashing viable?
+- **F: Meine Würfe springen ständig vom Pfosten ab – was tun?**  
+  **A:** Reduziere die Drehgeschwindigkeit, bevor du loslässt, und experimentiere
+  mit einem etwas früheren oder späteren Release, um eine stabilere Flugkurve
+  zu bekommen.
 
-A: Not really — consistent setups beat spam.
+- **F: Bringt schnelles Dauerdrücken einen Vorteil?**  
+  **A:** Nein. Konstante, gut vorbereitete Würfe sind deutlich erfolgreicher als
+  hektisches Spammen.
 
-- Q: Local multiplayer?
-
-A: Often available with mirrored controls.
-
+- **F: Gibt es lokalen Multiplayer?**  
+  **A:** Viele Versionen bieten 1‑gegen‑1 an einem Gerät, bei dem beide Spieler
+  spiegelverkehrte Steuerungen nutzen.

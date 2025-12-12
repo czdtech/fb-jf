@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: worlds-hardest-game
-title: '[ZH TRANSLATION NEEDED] World''s Hardest Game'
+title: 'World''s Hardest Game：世界上最难的小游戏？'
 description: >-
-  [ZH TRANSLATION NEEDED] World's Hardest Game is an extremely challenging
-  arcade game where players control a red square to navigate through levels
-  filled with moving blue circles, requiring precise timing and patience to
-  avoid obstacles and reach the goal.
+  《World's Hardest Game》是一款以高难度著称的街机闯关游戏。
+  你要操控一个红色方块，在布满移动蓝色圆点的关卡中穿梭，
+  用极其精准的走位与惊人的耐心，躲避一切障碍抵达终点。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/worlds-hardest-game.jpg
 tags:
@@ -18,31 +17,62 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《World's Hardest Game》是一款难度极高的街机挑战游戏，
+玩家需要操控一个小小的红色方块，在关卡中躲避不断移动的蓝色圆点，
+从起点一路坚持到终点区域。
 
-[ZH TRANSLATION NEEDED] "World's Hardest Game" is an extremely challenging arcade game where players control a red square to navigate through levels filled with moving blue circles. It requires precise timing and immense patience to avoid obstacles and reach the goal. This game is famous for its extremely high difficulty and simple yet frustrating gameplay.
+游戏的操作看似简单，只有移动与停顿，
+但真正上手你会发现它需要极其精细的时机判断和移动控制，
+稍有犹豫或多走一步，就可能与蓝色圆点相撞，从头再来。
+也正因为如此，它才获得了“世界上最难的小游戏之一”的名号。
 
-### Gameplay Strategy
+### 通关策略
 
-1.  **Observe Patterns**: Carefully observe the movement patterns and timing of blue circles before moving.
-2.  **Wait Patiently**: Don't rush into action; wait for the right moment to move.
-3.  **Precise Movement**: Use exact movements, avoiding unnecessary large displacements.
-4.  **Segment Approach**: Break complex paths into multiple small segments and complete them step by step.
-5.  **Stay Calm**: Failure is normal; stay calm and learn from mistakes.
+1.  **先观察，再行动（Observe Patterns）：**  
+    在每一关开始时，不要急着移动，先在安全区静观蓝色圆点的运动轨迹和周期，
+    找出其中的“节奏空档”，再规划自己的移动路线。
+2.  **耐心等待最佳时机（Wait Patiently）：**  
+    贸然冲出去几乎必死无疑。
+    宁可多等几轮循环，也要在完全确认安全窗口后再迈出关键一步。
+3.  **精细微调走位（Precise Movement）：**  
+    尽量减少无意义的大幅移动，
+    在需要时用轻触按键或短促敲击来做“像素级”微调，
+    让红色方块尽可能贴着安全边界运动。
+4.  **拆分路线，分段完成（Segment Approach）：**  
+    把复杂关卡的路径拆解成若干“小目标”，
+    每次只专注于从当前安全点移动到下一个安全点，
+    不要一口气试图完成整段长距离穿越。
+5.  **保持冷静，接受失败（Stay Calm）：**  
+    在这款游戏里死亡是常态，
+    与其焦躁地重复犯同样的错误，不如把每次失败都当作“多看了一轮弹道”，
+    用观察到的新信息优化下一次的行动计划。
 
-### How to Play
+### 操作说明
 
-*   **Movement Control**: Use WASD keys or arrow keys to control the red square's movement.
-*   **Precise Positioning**: Can make pixel-perfect precise movements to avoid obstacles.
-*   **Pause and Think**: Stop in safe areas to plan the next move.
+*   **移动控制（Movement Control）：** 使用 WASD 键或方向键控制红色方块移动方向。
+*   **精确停位（Precise Positioning）：** 可以通过轻点按键来实现极短距离位移，
+    以避开拥挤弹道。
+*   **暂停思考（Pause and Think）：** 在中途到达安全区域时，
+    可以停下来仔细规划接下来的路线与节奏。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Why is it called the World's Hardest Game?**
-     **A**: Because the game requires extremely precise timing and movement, where even small errors lead to failure.
-2.  [ZH TRANSLATION NEEDED] **Q: How many levels are there?**
-     **A**: The game typically contains 30 levels, each more difficult than the previous one.
-3.  [ZH TRANSLATION NEEDED] **Q: Can I save progress?**
-     **A**: Most versions automatically save progress, allowing you to continue from the last completed level.
-4.  [ZH TRANSLATION NEEDED] **Q: Are there any tips for completion?**
-     **A**: Practice, patience, and observation are key. Learn to predict movement patterns and don't rush.
+### 常见问题
+
+1.  **问：为什么叫“World's Hardest Game”？**  
+   **答：** 因为游戏对时机和操作精度要求极高，
+   任何细小失误都可能导致失败，需要大量尝试与练习才能通关，
+   对多数玩家来说难度体验远高于普通街机游戏。
+
+2.  **问：一共有多少关？**  
+   **答：** 常见版本大约包含 30 个关卡，
+   随着关卡推进，障碍数量、速度和路径复杂度都会明显上升。
+
+3.  **问：进度会自动保存吗？**  
+   **答：** 多数版本会在你完成关卡后自动记录进度，
+   下次继续游玩时可以从最近通关的关卡开始。
+
+4.  **问：有没有什么通关秘诀？**  
+   **答：** 归根结底还是“观察 + 耐心 + 练习”。
+   熟悉每一关的弹道模式后，你的操作压力会小很多，
+   不要急躁，只要节奏把握得当，总能慢慢突破。

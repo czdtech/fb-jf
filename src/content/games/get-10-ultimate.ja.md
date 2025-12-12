@@ -1,83 +1,40 @@
 ---
+title: "Get 10 Ultimate"
+description: "やりがいのある数字パズル！隣り合う同じ数字をタップして、より大きな数字に合体させましょう。あなたは10、そしてその先に到達できますか？"
+iframeSrc: "https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/"
+thumbnail: "/new-images/get-10-ultimate.png"
+urlstr: "get-10-ultimate"
+score: "4.4/5  (2400 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: get-10-ultimate
-title: '[JA TRANSLATION NEEDED] Get 10 Ultimate'
-description: >-
-  [JA TRANSLATION NEEDED] A challenging number puzzle! Tap on adjacent,
-  identical numbers to merge them into a higher number. Can you make it to 10
-  and beyond?
-iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
-thumbnail: /new-images/get-10-ultimate.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.4/5  (2400 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Get 10 Ultimateは、シンプルでありながら深く戦略的な数字パズルゲームです。盤面は数字のタイルで埋め尽くされており、あなたの目的はそれらを組み合わせてより高い数字を作ることです。隣り合った2つ以上の同じ数字のグループをタップすることでこれを行います。グループ全体が合体し、値が1つ高い新しいタイルが1つだけ残ります。最初の挑戦は数字の「10」に到達することですが、究極の目標は、可能な限り合体を続けて最高記録とハイスコアを達成することです。
 
-[JA TRANSLATION NEEDED] Get 10 Ultimate is a simple yet deeply strategic number puzzle game. The board is filled with numbered tiles, and your goal is to combine them to create higher numbers. You do this by tapping on a group of two or more adjacent, identical numbers. This merges the entire group into a single new tile with a value that is one higher. The initial challenge is to reach the number 10, but the ultimate goal is to continue merging for as long as possible to achieve the highest number and score.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **タップする前によく考える:** タップするたびに盤面のレイアウトが変わります。グループを合体させる前に、上のタイルがどのように落ちてくるか、どんな新しいグループができるかを考えましょう。良い一手は、さらなる良手を生み出します。
+2.  **大きなグループを作る:** 2つのタイルだけのグループも合体できますが、より大きなグループを作って合体させる方がはるかに効率的です。タップする前に、同じ数字の大きな塊が隣り合うようにタイルを操作してみましょう。
+3.  **高い数字を孤立させない:** 多くの異なる低い数字に囲まれた、単一の高い数字を作らないように注意してください。これでは合体させるための別の高い数字を作ることが非常に難しくなり、事実上盤面の大部分を塞いでしまいます。
+4.  **下から崩す:** 盤面の下の方でマッチを作ると、より多くのタイルが動くことになり、タイルが落ちてくることで新しい予期せぬマッチが生まれる可能性が高まります。
 
-[JA TRANSLATION NEEDED] 1.  **Think Before You Tap:** Every tap changes the layout of the board. Before you merge a group, consider how the tiles above will fall and what new groups might form. A good move can set up an even better move.
-[JA TRANSLATION NEEDED] 2.  **Create Large Groups:** While you can merge a group of just two tiles, it's much more efficient to create and merge larger groups. Try to maneuver tiles so that you have big clusters of the same number next to each other before you tap.
-[JA TRANSLATION NEEDED] 3.  **Don't Isolate High Numbers:** Be careful not to create a single high number that is surrounded by many different, lower numbers. This can make it very difficult to create another high number to merge it with, effectively blocking a large part of your board.
-[JA TRANSLATION NEEDED] 4.  **Work from the Bottom:** Making matches near the bottom of the board will cause the most tiles to shift, increasing the chances of creating new, unplanned matches as tiles fall into place.
+### 操作ガイド
 
-### Controls Guide
+このゲームはシングルクリックまたはタップでプレイします。
 
-[JA TRANSLATION NEEDED] The game is played with a single click or tap.
+*   **数字を合体:** 同じ数字を持つ2つ以上の隣接するタイルのグループをクリックします。グループはクリックした場所に合体します。
 
-*   **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
-    - **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.（日本語訳が必要）
-    - **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.（日本語訳が必要）
-    - **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.（日本語訳が必要）
-    - **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.（日本語訳が必要）
-    - **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.（日本語訳が必要）
-    - **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ゲームの目的は何ですか？**
+    *   **A:** 最初の目標は「10」のタイルを作り出すことです。その後は、盤面が手詰まりになる前に、合体を続けてできるだけ高い数字とスコアを出すことが目標になります。
 
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.
+*   **Q: ゲームはいつ終わりますか？**
+    *   **A:** 盤面のどこにも同じ数字が隣り合っているタイルがなくなり、手詰まりになった時点でゲーム終了です。
 
-*   **Q: How does the game end?**
-[JA TRANSLATION NEEDED]     *   **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
-
-*   **Q: Does the new tile appear in a random spot?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
-
-
-
-
-
-
-
-
-
-
-    - **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
-- **Q: Does the new tile appear in a random spot?**
-    - **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
-- **Q: How does the game end?**
-    - **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.
-- **Q: What is the goal of the game?**
-### よくある質問（FAQ）
-- **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
-
-
-
-
-
-
-    - **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
-- **Q: Does the new tile appear in a random spot?**
-    - **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
-- **Q: How does the game end?**
-    - **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.
+*   **Q: 新しいタイルはランダムな場所に現れますか？**
+    *   **A:** いいえ、新しい高数字のタイルは、グループの中であなたがクリックした特定の場所に現れます。

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: funny-shooter
-title: '[ES] Funny Shooter'
+title: "Funny Shooter"
 description: >-
-  [ES] Wave shooter prototype: fight quirky enemies, collect cash, and upgrade
-  weapons to survive increasingly tough rounds.
+  Prototipo de juego de disparos por oleadas en primera persona: enfréntate a
+  enemigos disparatados, recoge dinero y mejora tus armas para sobrevivir a
+  rondas cada vez más duras.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/funny-shooter.jpg
 tags:
@@ -15,30 +16,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Funny Shooter propone oleadas en primera persona con enemigos que van
+volviéndose más peligrosos y un pequeño sistema de mejoras.
 
+### Cómo jugar
 
-### Overview
-First‑person waves with evolving enemy types and basic upgrades.
+- Muévete constantemente y atrae a los grupos; elimina primero a los enemigos
+  a distancia.
+- Entre oleadas, invierte tu dinero en armas más potentes y utilidades.
+- Vigila la munición y recarga en momentos seguros.
 
-### How to Play
-- Keep moving and kiting; eliminate ranged threats first.
-- Spend between waves on stronger guns and utilities.
-- Watch ammo; reload in safe windows.
+### Controles
 
-### Controls
-- WASD to move, Mouse to aim/shoot; R reload; number keys swap.
+- WASD para moverse, ratón para apuntar y disparar; R para recargar; números
+  para cambiar de arma.
 
-### Tips
-- Headshots conserve ammo and time.
-- Use cover and corners to funnel enemies.
-- Save explosives for elite waves.
+### Consejos
 
-### FAQ
-- Q: How can I unlock better weapons?
-A: Purchase them with money earned from clearing waves.
-- Q: Does the game include boss encounters?
-A: Some hosts feature periodic bosses that require burst damage.
-- Q: Can I change mouse sensitivity?
-A: Most hosts include settings for sensitivity.
+- Los disparos a la cabeza ahorran balas y tiempo.
+- Usa coberturas y esquinas para canalizar a los enemigos hacia embudos.
+- Guarda tus explosivos para las oleadas más difíciles o con enemigos de élite.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo desbloqueo armas mejores?**  
+  **R:** Comprándolas con el dinero que obtienes al superar oleadas.
+
+- **P: ¿Hay jefes en el juego?**  
+  **R:** Algunos portales incluyen jefes periódicos que exigen ráfagas de daño
+  concentrado.
+
+- **P: ¿Puedo cambiar la sensibilidad del ratón?**  
+  **R:** La mayoría de versiones ofrecen ajustes de sensibilidad en el menú de
+  opciones.

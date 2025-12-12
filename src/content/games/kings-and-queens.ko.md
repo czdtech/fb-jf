@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: kings-and-queens
-title: '[KO] Kings and Queens'
+title: "Kings and Queens 왕과 여왕 매치3"
 description: >-
-  [KO] Kings and Queens is a regal match‑3 adventure — clear obstacles, unlock
-  boosters, and restore royal halls with clever planning.
+  성을 복원하는 스토리가 더해진 3매치 퍼즐 'Kings and Queens'
+  가이드입니다. 장애물을 지우고 부스터를 활용해 별을 모으고,
+  왕실 홀을 꾸미는 방법을 소개합니다.
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/kings-and-queens.png
 tags:
@@ -17,35 +18,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Kings and Queens*는 클래식 3매치 퍼즐에 **성 리노베이션 스토리**를
+입힌 게임입니다. 각 챕터마다 사슬, 대리석, 안개 같은 새로운 장애물과
+왕관 수집, 봉인 해제 등 다양한 목표가 등장하며, 클리어 시 얻는 별로
+방을 꾸미고 장식을 교체할 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Kings and Queens wraps a castle‑restoration story around classic match‑3. Each chapter introduces new blockers (chains, marble slabs, fog) and scene goals (collect crowns, break seals). You spend earned stars to renovate rooms, unlocking boosters for harder boards.
+1. **보드 중심부부터 열기**  
+   좁은 구석보다 중앙의 블로커를 먼저 제거하면 콤보를
+   만들 수 있는 공간이 크게 늘어납니다.
 
-### Gameplay Strategy & Walkthrough
+2. **부스터 사용 타이밍**  
+   망치·로켓 등 소모성 부스터는 막판에 남은 블로커가
+   한두 개뿐일 때 사용하는 것이 가장 효율적입니다.
 
-1.  **[KO]** Board control: Clear central blockers first to open space for combos.
-2.  **[KO]** Booster timing: Save hammers/rockets for late‑board choke points.
-3.  **[KO]** Combo planning: Merge power‑ups (bomb+line/color clears) right before tight goals.
-4.  **[KO]** Star economy: Spend on boosters that directly help your current hurdle.
-5.  **[KO]** Move math: Count remaining blockers vs moves and play for the objective, not points.
+3. **파워업 콤보 준비**  
+   폭탄 + 줄 삭제, 컬러 클리어 조합 등 강력한 콤보는
+   목표 카운트가 빠듯한 스테이지 직전에 준비해 두면 좋습니다.
 
-### Controls Guide
+4. **별 사용 우선순위**  
+   외형 장식도 좋지만, 현재 막힌 구간을 도와줄 부스터나
+   추가 보상을 우선적으로 여는 것이 진행에 유리합니다.
 
-- Drag to swap; tap boosters to use; scene menu to renovate with stars.
+5. **이동 수 계산**  
+   남은 블로커 수와 이동 수를 대략 계산해, 점수보다는
+   목표 달성에 직접 기여하는 매치를 선택하세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-- Q: I’m stuck on a marble slab level — any tip?
+- **보석 교환**: 보석을 드래그해 인접한 칸과 바꾸어
+  3개 이상 매치를 만들면 제거됩니다.  
+- **부스터 사용**: 인벤토리의 부스터 아이콘을 탭해
+  원하는 위치에 사용합니다.  
+- **장식 교체**: 별을 사용해 방을 꾸미고, 여러 선택지 중
+  마음에 드는 인테리어를 고를 수 있습니다.
 
-A: Use bombs near slabs and chain line clears through them to crack multiple layers.
+### 자주 묻는 질문(FAQ)
 
-- Q: Should I hoard boosters?
+- **Q: 대리석 블록이 많은 레벨이 너무 어렵습니다.**  
+  **A:** 대리석 근처에 폭탄을 만들고, 줄 삭제와 연쇄되도록
+  배치해 한 번에 여러 겹을 깨는 것이 좋습니다.
 
-A: Keep a few, but spend to break brick‑wall stages; progression matters.
+- **Q: 부스터는 아껴야 할까요?**  
+  **A:** 막히는 레벨을 뚫는 것이 더 중요하니, 일부는 아끼되
+  벽처럼 느껴지는 스테이지에는 과감히 사용하는 편이 좋습니다.
 
-- Q: Renovations affect gameplay?
-
-A: Mostly cosmetic; some unlock booster slots or daily rewards.
+- **Q: 리노베이션이 게임 플레이에 영향을 주나요?**  
+  **A:** 대부분은 꾸미기용이지만, 일부는 부스터 슬롯이나
+  일일 보상을 열어 주기도 합니다.
 

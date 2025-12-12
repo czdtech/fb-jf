@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: rocket-league
-title: '[ZH TRANSLATION NEEDED] Rocket League'
+title: "《Rocket League》火箭联盟式赛车足球"
 description: >-
-  [ZH TRANSLATION NEEDED] Rocket League is a high-octane sports game that
-  combines soccer with rocket-powered cars, where players drive, jump, and boost
-  to hit a giant ball into the opponent's goal in fast-paced aerial matches.
+  《Rocket League》是一款把足球与火箭喷射赛车结合在一起的高能体育游戏。你驾驶装有喷射推进器的战车在场上飞驰、跳跃、腾空撞球，把巨大足球撞进对方球门，完成一连串精彩空中配合。
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/rocket-league.jpg
 tags:
@@ -17,32 +15,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Rocket League》是一款节奏极快的车辆足球游戏。球员不再是人，而是装载火箭助推器的赛车。你需要通过驾驶、起跳和喷射加速等操作去撞击巨大的足球，将球送入对方球门。游戏依靠物理引擎模拟真实碰撞与飞行轨迹，以炫酷的空中对抗和高观赏度对局而闻名。
 
-[ZH TRANSLATION NEEDED] "Rocket League" is a high-octane sports game that combines soccer with rocket-powered cars. Players drive vehicles equipped with rocket boosters, using driving, jumping, and boosting to hit a giant ball with the goal of scoring in the opponent's goal. The game is famous for its fast-paced aerial combat and exciting physics engine.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **先熟悉基础操作：** 扎实掌握加速、刹车、转向、跳跃以及喷射加速的基本手感，这是进阶玩法的前提。
+2.  **练习空中控车：** 学会在空中使用方向与喷射微调车身姿态，才能稳定完成空中射门、解围和拦截等高阶动作。
+3.  **重视团队配合：** 多与队友沟通站位和跑位。合理分工承担抢点、补位、防守等角色，比所有人一窝蜂抢球更容易赢。
+4.  **保持场上站位意识：** 进攻时不要全队压上，至少留一人负责门将或后场防守；失去球权时要及时回防，避免被对手轻松反击。
+5.  **管理好喷射能量：** Boost 资源十分关键。不要在无意义的直线乱喷，把能量留给关键起跳、空中调整和追防，对胜负影响更大。
 
-1.  **Master Basic Controls**: Become proficient with acceleration, steering, jumping, and rocket boost basic operations.
-2.  **Aerial Skills**: Learn to control vehicles in the air for aerial hits and interceptions.
-3.  **Team Cooperation**: Coordinate with teammates for passing, assists, and defensive plays.
-4.  **Positional Awareness**: Maintain good field position, balancing offense with timely defensive returns.
-5.  **Boost Management**: Use rocket boost energy wisely, conserving energy for crucial moments and key plays.
+### 操作说明
 
-### How to Play
+*   **移动：** 使用方向键或 WASD 控制车辆加速、倒车与转向。
+*   **跳跃：** 按下跳跃键让赛车腾空，可配合方向键实现翻滚或二段跳。
+*   **火箭喷射：** 长按喷射键获得额外速度或在空中保持滞空与调整姿态。
+*   **空中转向：** 在空中使用方向键进行车身翻转，精确对准足球或调整落地点。
 
-*   **Movement**: Use arrow keys or WASD to control vehicle acceleration, reverse, and steering.
-*   **Jump**: Press jump key to make the vehicle jump; can perform double jumps.
-*   **Rocket Boost**: Hold boost key for extra speed and aerial maneuverability.
-*   **Steering**: Use steering controls in the air to adjust vehicle attitude and direction.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How do I perform aerial hits?**
-     **A**: Use jump and rocket boost to get airborne, then adjust vehicle angle to hit the ball; requires extensive practice to master.
-2.  [ZH TRANSLATION NEEDED] **Q: How is rocket boost energy replenished?**
-     **A**: Collect boost pads scattered around the field to restore boost energy; there are small and large boost pads available.
-3.  [ZH TRANSLATION NEEDED] **Q: What game modes are available?**
-     **A**: Typically includes 1v1, 2v2, 3v3, and other match modes, plus various special game modes.
-4.  [ZH TRANSLATION NEEDED] **Q: How can I improve my skill level?**
-     **A**: Practice basic operations more, watch high-level player match recordings, and gradually learn advanced techniques.
+1.  **问：空中击球应该怎么练？**  
+    **答：** 先在训练模式中反复练习起跳 + 喷射的节奏，再慢慢加入空中转向与小幅度调整。熟悉球的抛物线和反弹角度后，就能更稳定打中球。
+
+2.  **问：喷射能量如何补充？**  
+    **答：** 场地上分布有大小不一的加速垫，驶过即可补充 Boost。记住关键位置的加速垫刷新点，关键时刻能帮你抢先一步。
+
+3.  **问：有哪些常见模式？**  
+    **答：** 通常包含 1v1、2v2、3v3 等不同人数的对战模式，以及一些特殊娱乐玩法，适合单排或和朋友开黑。
+
+4.  **问：如何快速提升水平？**  
+    **答：** 建议多练基础功并观看高水平玩家录像，学习他们的站位与配合思路。分解练习空中球、墙面球、开球处理等技巧，逐步融入实战。

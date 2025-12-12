@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: egg-maker
-title: '[ZH TRANSLATION NEEDED] Egg Maker'
+title: "Egg Maker 金牌煎蛋小廚房"
 description: >-
-  [ZH TRANSLATION NEEDED] Egg Maker is a quick kitchen puzzler — sequence prep
-  steps, time pans, and serve perfect eggs under rush pressure.
+  Egg Maker 是一款節奏明快的廚房解謎遊戲，你要在高壓出餐時間裡安排備料順序、
+  控制平底鍋火候，端出一盤盤完美熟度的蛋料理。
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/egg-maker.png
 tags:
@@ -17,36 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Egg Maker distills time‑management cooking into rapid stations: crack, whisk, season, heat, plate, and serve. Each order specifies a style (scrambled, sunny‑side, omelet) and doneness windows. Items on heat continue cooking, so sequencing and pickup timing decide whether you hit “perfect” or burn.
+《Egg Maker》把時間管理類烹飪遊戲濃縮成一個個緊湊的操作站：打蛋、攪拌、調味、
+下鍋加熱、裝盤，到最後送餐。每張訂單都會指定不同的蛋料理風格（炒蛋、太陽蛋、
+蛋包等），並對熟度有明確要求。任何還在鍋上的食材都會持續加熱，所以你如何安排
+每一步的順序、什麼時候起鍋，就決定了這盤蛋是「完美熟度」還是被你烤焦。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Station rhythm: Always start with the longest step (heat), then backfill short prep while the pan runs.
-2.  [ZH TRANSLATION NEEDED] Two‑pan flow: Stagger pans by a few seconds so you can flip/plate one while prepping the next.
-3.  [ZH TRANSLATION NEEDED] Doneness windows: Grab at the edge of “perfect” for score bonuses; learn visual/audio tells.
-4.  [ZH TRANSLATION NEEDED] Multi‑orders: Group similar styles to reuse pan state and reduce clean cycles.
-5.  [ZH TRANSLATION NEEDED] Upgrades: Prioritize extra pan and faster prep over décor.
+
+1.  操作節奏：永遠先處理最花時間的步驟——先開火、下鍋，利用加熱的空檔去完成其他備料。
+2.  雙鍋節奏：兩個平底鍋稍微錯開幾秒下鍋，這樣你可以在翻面/起鍋一盤的同時，
+    幫下一盤備料或調味。
+3.  熟度判斷：盡量在「完美熟度」區間的邊緣起鍋，拿到更高分與額外獎勵；
+    熟練後可以透過顏色變化與滋滋聲來判斷時間。
+4.  多張訂單：把相同或相近做法的訂單排在一起處理，重複利用鍋內狀態，減少清鍋與重開火的次數。
+5.  升級優先：優先投資多一個鍋子與加快備料速度，外觀裝飾可以放到後面再說。
 
 ### Controls Guide
 
-- Tap to crack/whisk/season; drag to pan/plate; tap customer to serve.
-- Pause/Retry in the UI between shifts.
+- 點擊操作打蛋、攪拌、調味等步驟；拖曳把食材放上鍋或移到盤子上；
+- 點擊顧客即可上菜；
+- 每個班次之間可以在介面中暫停或重來。
 
 ### Advanced Tips
 
-- Buffer trays: Stage plates near the pass so you spend less movement when orders spike.
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+- 緩衝托盤：事先把盤子擺在出餐口附近，訂單暴增時就不用花時間來回移動。
+- 早丟早解決：一旦某盤明顯過熟，果斷丟掉，維持整體節奏，比硬著頭皮端出扣分餐好。
+- 連續上菜：把 2～3 份料理連續送出，通常可以觸發小費加成，讓收入成長更快。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep burning items — how to fix?
+- 問：我老是把東西燒焦，怎麼辦？
   
-[ZH TRANSLATION NEEDED]   A: Stagger pans by 3–4 seconds, do short prep during the gap, and focus on auditory sizzle cues.
+  答：讓兩個鍋的下鍋時間錯開 3～4 秒，利用空檔完成短動作，並多注意滋滋聲與顏色變深的節奏，
+  找到屬於自己的起鍋時間點。
 
-- Q: Which upgrade first?
+- 問：一開始應該先升級什麼？
   
-[ZH TRANSLATION NEEDED]   A: Extra pan > faster prep > queue size. Décor is endgame.
+  答：建議先解鎖額外的平底鍋，再提升備料速度，最後才考慮增加排隊數量或裝潢裝飾，後者偏向後期目標。
 
-- Q: Any trick for omelets with fillings?
+- 問：有什麼處理餡料蛋包的訣竅嗎？
   
-[ZH TRANSLATION NEEDED]   A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
+  答：在空檔時候預先把餡料切好備齊，下鍋後盡早加入餡料，等到蛋第一次凝固時就立刻折疊，
+  可以避免餡料漏得到處都是。

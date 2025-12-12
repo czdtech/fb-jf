@@ -1,14 +1,13 @@
 ---
 locale: es
 urlstr: war-of-sticks
-title: '[ES] War of Sticks'
+title: "War of Sticks - Guerra de stickmans"
 description: >-
-  [ES] Command your stickman army in War of Sticks, a strategic battle game!
-  Mine for resources, train diverse units like shielders, archers, and
-  barbarians, and deploy them to conquer the Red Empire. Build defenses, plan
-  your attacks, and lead your forces to victory in this engaging RTS.
-iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
-thumbnail: /new-images/war-of-sticks.jpg
+  Comanda tu ejército de monigotes en War of Sticks, un juego de estrategia en
+  tiempo real. Mina recursos, entrena unidades como escuderos, arqueros y
+  bárbaros y derrota al Imperio Rojo con un ejército bien planificado.
+iframeSrc: "https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/"
+thumbnail: "/new-images/war-of-sticks.jpg"
 tags:
   - strategy
   - rTS
@@ -17,37 +16,35 @@ score: 4.4/5  (816 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-
-
 ### Game Introduction
 
-War of Sticks is a real-time strategy game where you lead a stickman army to liberate your kingdom from the oppressive "Red Empire." Developed by Shoom Games, this title combines resource management, unit training, and tactical combat. Your objective is to build a powerful force, manage your economy, and strategically defeat enemy armies to reclaim your land.
+War of Sticks es un juego de estrategia en tiempo real en el que lideras a un ejército de stickmans para liberar tu reino del opresivo Imperio Rojo. Desarrollado por Shoom Games, combina gestión de recursos, entrenamiento de tropas y combate táctico. Tu objetivo es construir una fuerza poderosa, manejar bien la economía y derrotar a los ejércitos enemigos para recuperar tus tierras.
 
 ### Gameplay Guide
 
-- **Resource Management:** Train miners to gather gold, your primary resource for building units and defenses. You can also convert stone into gold.
-- **Army Building:** Recruit various stickman units, each with unique roles:
-    -   **Shielders:** Front-line defenders.
-    -   **Archers:** Ranged damage dealers.
-    -   **Barbarians:** Close-combat attackers.
-    -   **Wizards:** Support units with special abilities.
-- **Strategic Combat:** Deploy your units, build defensive towers, and observe enemy positions to plan your attacks. A balanced army composition is key to success.
+- **Gestión de recursos:** entrena mineros para recolectar oro, tu recurso principal para crear unidades y defensas. También puedes convertir piedra en oro para reforzar la economía.
+- **Creación del ejército:** recluta distintos tipos de unidades, cada una con su rol:
+    - **Escuderos:** defensores de primera línea.
+    - **Arqueros:** daño a distancia.
+    - **Bárbaros:** atacantes de combate cercano.
+    - **Magos:** apoyo con habilidades especiales.
+- **Combate estratégico:** despliega tus tropas, construye torres defensivas y observa la formación enemiga para planear tus ataques. Una composición equilibrada suele ser la clave del éxito.
 
 ### Controls Guide
 
-- **Mouse:** Primarily used for all interactions: clicking buttons to train units, selecting units, and directing your army on the battlefield.
+- **Ratón:** úsalo para todas las acciones: entrenar unidades, seleccionar tropas y dirigirlas en el campo de batalla.
 
 ### Frequently Asked Questions (FAQ)
 
-**What is the main goal of War of Sticks?**
+**¿Cuál es el objetivo principal de War of Sticks?**
 
-The main goal is to build your army, manage your resources, and strategically defeat the enemy forces to liberate your kingdom from the Red Empire.
+Formar un ejército sólido, gestionar tus recursos y derrotar a las fuerzas enemigas para liberar el reino del Imperio Rojo.
 
-**How do I get more gold?**
+**¿Cómo consigo más oro?**
 
-Train more miners to gather gold. You can also convert collected stone into gold to boost your economy.
+Entrenando más mineros para aumentar la recolección y convirtiendo piedra en oro cuando sea posible.
 
-**What are the best units to use?**
+**Qué unidades son las mejores?**
 
-A diverse army is generally most effective. Shielders provide a strong front line, archers offer ranged support, and barbarians are good for close combat. Wizards can provide valuable crowd control.
+Lo más efectivo suele ser un ejército variado: escuderos para aguantar en primera línea, arqueros para apoyo a distancia, bárbaros para destrozar la primera fila enemiga y magos para controlar grupos grandes.
 

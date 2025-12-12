@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: hangman
-title: '[ZH TRANSLATION NEEDED] Hangman'
-description: >-
-  [ZH TRANSLATION NEEDED] Classic word‑guessing: deduce the secret word by
-  proposing letters, avoiding too many wrong guesses before the figure is
-  completed.
+title: "《Hangman》经典吊死鬼猜单词"
+description: "《Hangman》是一款经典的英语猜词游戏，通过逐个猜字母来推理出隐藏单词，在小人被画完整之前尽量避免犯太多错误。"
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/hangman.jpg
 tags:
@@ -17,45 +14,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **游戏简介**
 
-[ZH TRANSLATION NEEDED] Hangman is a classic word-guessing game where the objective is to uncover a secret word or phrase by guessing its letters one by one. The game begins with a series of blank spaces, representing each letter of the hidden word.
+《Hangman》是最经典的英文单词猜测游戏之一，你的目标是通过逐个猜字母，把隐藏的单词或短语完整拼出来。游戏开始时，屏幕上只会显示若干个下划线，每一个下划线代表这个秘密单词中的一个字母。
 
-[ZH TRANSLATION NEEDED] Players take turns guessing letters they believe are in the word. If a guessed letter is correct, it is revealed in all its positions. If the letter is incorrect, a part of a "hangman" stick figure is drawn. The game is won by successfully guessing all the letters in the word before the hangman drawing is completed. If the drawing is finished before the word is solved, the player loses.
+玩家需要依次猜测自己认为可能出现在单词中的字母。如果猜对，所有位置上对应的字母都会被揭示出来；如果猜错，则会在一旁的“吊死鬼”火柴人上多画出一个身体部位。只要在火柴人被画完整之前成功猜出所有字母，你就获胜；如果火柴人已经全部画完，而单词仍未破解，则本局失败。
 
-[ZH TRANSLATION NEEDED] Many digital versions include scoring systems, rewarding points for correct letters, the speed of solving the puzzle, and the number of incorrect guesses (or "lives") remaining.
+很多数字版《Hangman》还会加入得分系统，例如根据你正确猜出的字母数量、完成谜题的速度、以及剩余“生命”（错误次数）来计算最终分数，让这款传统小游戏更具挑战性和重玩价值。
 
-### **Gameplay Strategy & Tips**
+### **玩法策略与技巧**
 
-1.  **Start with Vowels**: The vowels (A, E, I, O, U) are present in almost every English word. Guessing them first is an excellent strategy to quickly reveal the word's structure. For example, if you guess 'A' and the word appears as `_ A _ A _ A`, you can make a strong educated guess that the word is "BANANA".
-2.  **Guess Common Consonants**: After the vowels, focus on the most frequently used consonants in the English language. A classic mnemonic for this is "Etaoin Shrdlu," but a more practical list includes **R, S, T, L, N**. Guessing these letters often yields good results.
-3.  **Think in Words, Not Just Letters (for Phrases)**: When the puzzle is a multi-word phrase, try to solve individual words. Guessing a small, common word like "THE" or "AND" can provide a huge clue to solving the entire phrase.
-4.  **Avoid Rare Letters Early**: Letters like **J, Q, X, and Z** are the least common in English. Save these for later when you have more context. Guessing them at the beginning is a high-risk, low-reward move.
-5.  **Use Context and Word Patterns**: Once you have a few letters revealed, look for common patterns. For example, a word ending in `_ I N G` is likely to have 'G' as its final letter. A `Q` is almost always followed by a `U`. Use your knowledge of spelling to make logical deductions.
+1.  **从元音字母开始**：A、E、I、O、U 这几个元音几乎存在于大多数英文单词中。优先猜它们可以快速看出单词的大致结构。比如你猜出字母 A 后，单词显示为 `_ A _ A _ A`，此时就很有可能是 “BANANA”。
+2.  **接着尝试高频辅音**：在元音之后，可以把重心放在英语中最常用的一批辅音字母上。除了经典记忆串 “Etaoin Shrdlu” 外，更实用的高频字母包括 **R、S、T、L、N** 等，往往能给你带来不错的命中率。
+3.  **短词/短语优先推常见词**：当谜题是多词短语时，可以先尝试破解其中最常见的小词，比如 “THE”“AND” 等，一旦这些词出现，其它长单词往往也会变得更好猜。
+4.  **前期别急着用生僻字母**：像 **J、Q、X、Z** 这类字母在英语中出现频率很低，在缺乏上下文时贸然尝试，通常风险大、收益小，适合在信息比较充分时再出手。
+5.  **善用拼写规律与词形模式**：当已经揭示出部分字母时，可以结合一些常见的拼写模式来推理，例如结尾为 `_ I N G` 的词十有八九是动名词形式；而 `Q` 后面几乎一定会跟着 `U`。利用这些规律可以大大缩小候选范围。
 
-### **Controls Guide**
+### **操作说明**
 
-[ZH TRANSLATION NEEDED] The controls for digital versions of Hangman are extremely simple:
+数字版《Hangman》的操作非常简单：
 
-*   **Letter Guessing**: You can either **click** the on-screen alphabet letters with your mouse or **type** the corresponding letter on your keyboard.
+*   **输入字母**：你可以直接点击屏幕上的字母按钮，或者通过键盘输入对应的字母来进行猜测。
 
-### **Frequently Asked Questions (FAQ)**
+### **常见问题（FAQ）**
 
-[ZH TRANSLATION NEEDED] **1. What is the best letter to guess first?**
-[ZH TRANSLATION NEEDED] Statistically, **'E'** is the most common letter in the English language, making it the strongest opening guess. After 'E', the other vowels (A, O, I, U) and top consonants (T, R, N, S) are excellent choices.
+**1. 开局最适合先猜哪个字母？**  
+从统计上看，**E** 是英语中出现频率最高的字母，因此常被视为最佳开局选择。之后可以依次尝试其它元音（A、O、I、U）以及高频辅音（T、R、N、S 等），通常能比较快地勾勒出单词轮廓。
 
-[ZH TRANSLATION NEEDED] **2. What are some of the hardest Hangman words?**
-[ZH TRANSLATION NEEDED] The hardest words are often short, use rare letters, or lack common vowels.
-*   **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
-*   **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
-*   **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
+**2. 哪些是比较难的《Hangman》单词？**  
+最难猜的单词往往具有以下特点：字母数量少、包含大量生僻字母，或者几乎没有常见元音。
+*   **Jazz**：字母很少，又包含 J 和 Z 两个极少见的字母。  
+*   **Rhythm、Synth、Psych**：这些单词几乎不含 A/E/I/O/U，需要玩家意识到 Y 也能充当元音。  
+*   **Fjord、Gnat、Wry**：字母组合比较怪异，不容易通过常规模式推理出来。
 
-[ZH TRANSLATION NEEDED] **3. What skills can you learn from playing Hangman?**
-[ZH TRANSLATION NEEDED] Hangman is an excellent educational tool that helps improve:
-*   **Vocabulary**: You are exposed to new words.
-*   **Spelling**: You learn and reinforce correct spelling patterns.
-*   **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
+**3. 玩《Hangman》能锻炼什么能力？**  
+《Hangman》不仅是小游戏，也是一种不错的学习工具：
+*   **词汇量**：不断接触并记住新的单词。  
+*   **拼写能力**：在反复尝试中熟悉和巩固正确的拼写模式。  
+*   **逻辑推理**：根据已知字母、单词长度和词形来推断下一步最优猜测。
 
-[ZH TRANSLATION NEEDED] **4. What happens when I guess a wrong letter?**
-[ZH TRANSLATION NEEDED] Each incorrect guess adds another part to the hangman drawing (e.g., the head, then the body, then an arm, etc.). You lose the game if you make too many incorrect guesses and the entire figure is drawn.
-
+**4. 如果猜错一个字母会发生什么？**  
+每次猜错，都会在“吊死鬼”火柴人图上增加一个身体部位（比如先画头，再画身体、手臂、腿等）。当所有部位都被画出时，就代表你已经用完所有容错机会，本局宣告失败。

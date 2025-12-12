@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: moto-x3m
-title: '[KO] Moto X3M'
+title: "Moto X3M 모토 X3M"
 description: >-
-  [KO] Moto X3M is an exciting and challenging online motorcycle racing game
-  where players perform daring stunts and navigate through treacherous tracks
-  filled with obstacles, ramps, and explosions.
+  Moto X3M은 점프와 공중 묘기를 섞어 험난한 코스를 돌파하는 오토바이 런앤런 레이싱
+  게임으로, 장애물과 폭발 트랩을 피해 최대한 빠르게 골인을 노려야 합니다.
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
 thumbnail: /new-images/moto-x3m.jpg
 tags:
@@ -18,33 +17,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*"Moto X3M"*은 난이도 높은 코스와 아슬아슬한 점프가 특징인 온라인 오토바이 스턴트
+레이싱 게임입니다. 플레이어는 각종 장애물, 램프, 폭발 트랩이 가득한 트랙을 질주하며,
+과감한 공중 회전을 성공시키는 동시에 최대한 빠른 기록으로 결승선을 통과해야 합니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Moto X3M" is an exciting and challenging online motorcycle stunt racing game. Players ride motorcycles through treacherous tracks filled with obstacles, ramps, and explosions, performing various daring stunts. The goal is to cross the finish line as quickly as possible and complete as many flips and stunts as possible to earn higher scores.
+1. **균형 잡기:** 점프 후 착지할 때 바이크의 앞뒤 균형을 잘 잡지 못하면 쉽게 전복되어
+   시간을 크게 잃습니다. 공중에서 몸을 기울여 착지 각도를 미리 맞춰 두세요.
+2. **스턴트 활용:** 공중에서 프론트 플립·백 플립을 성공시키면 추가 시간 보너스나 점수를
+   얻을 수 있어, 무리하지 않는 선에서 묘기를 섞어 쓰는 것이 좋습니다.
+3. **장애물 주의:** 트랙 곳곳에 톱날, 폭발 배럴, 회전 발판 등 다양한 함정이 있으니,
+   처음 도전할 때는 속도를 조금 줄이고 패턴을 익힌 뒤, 다음 시도에서 기록을 노리세요.
+4. **가속·브레이크 조절:** 직선 구간에서는 과감히 가속하고, 급경사나 트랩 구간에서는
+   미리 브레이크를 살짝 밟아 속도를 줄여야 안전하게 통과할 수 있습니다.
+5. **반복 도전:** 일부 레벨은 최적 루트와 스턴트 타이밍을 찾기 위해 여러 번 재도전해야
+   합니다. 실패를 통해 어디서 속도를 줄이고, 어디서 점프해야 할지 패턴을 익히세요.
 
-### Gameplay Strategy
+### 조작 방법
 
-1.  **[KO]** **Control Balance**: Maintaining the motorcycle's balance during jumps and landings is crucial to avoid crashing.
-2.  **[KO]** **Utilize Stunts**: Performing front flips or backflips in the air can reduce completion time and earn extra points.
-3.  **[KO]** **Beware of Obstacles**: The tracks are filled with various traps and obstacles, requiring anticipation and flexible responses.
-4.  **[KO]** **Master Acceleration and Braking**: Use acceleration and braking judiciously to adapt to different terrains and stunt requirements.
-5.  **[KO]** **Repeated Attempts**: Some levels may require multiple attempts to find the optimal route and stunt timing.
+* **가속:** W 키 또는 위쪽 방향키, 일부 버전에서는 마우스 클릭
+* **브레이크:** S 키 또는 아래 방향키
+* **앞/뒤로 기울이기:** A/D 키 또는 좌·우 방향키로 공중이나 경사면에서 바이크의 자세를
+  조정합니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Accelerate**: Typically using the W key, up arrow key, or mouse click.
-*   **[KO]** **Brake**: Typically using the S key, down arrow key, or mouse click.
-*   **[KO]** **Lean Forward/Backward**: Typically using the A/D keys, left/right arrow keys, or tilting the device to control the motorcycle's posture in the air or on slopes.
+1. **Q: 어떻게 하면 더 높은 점수를 얻을 수 있나요?**  
+   **A:** 공중에서 더 많은 플립과 묘기를 성공시키고, 스테이지를 빠른 기록으로 클리어할수록
+   높은 점수를 얻을 수 있습니다.
 
-### Frequently Asked Questions
+2. **Q: 레벨은 얼마나 많이 있나요?**  
+   **A:** 일반적으로 여러 챕터에 걸쳐 수십 개의 코스가 포함되어 있으며, 진행하면서 점점
+   더 어려운 트랙이 등장합니다.
 
-1.  **[KO]** **Q: How can I achieve higher scores in the game?**
-**A**: You can achieve higher scores by performing more flips and stunts in the air and completing levels faster.
-2.  **[KO]** **Q: How many levels are there in the game?**
-**A**: "Moto X3M" typically includes multiple chapters, each with dozens of challenging levels.
-3.  **[KO]** **Q: How do I unlock new motorcycles?**
-**A**: More powerful motorcycles can be unlocked by completing specific levels or reaching certain scores.
-4.  **[KO]** **Q: What if I get stuck on a level?**
-**A**: Try different stunt combinations and routes, or watch playthrough videos from other players, which might reveal new strategies.
+3. **Q: 새로운 오토바이는 어떻게 해금하나요?**  
+   **A:** 특정 레벨을 클리어하거나 일정 점수·업적을 달성하면 더 좋은 성능의 바이크가
+   해금되는 경우가 많습니다.
+
+4. **Q: 특정 스테이지에서 계속 막힐 때는 어떻게 해야 하나요?**  
+   **A:** 스턴트 타이밍과 루트를 조금씩 바꿔 보거나, 다른 플레이어의 공략 영상에서
+   힌트를 얻어 새로운 동선을 시도해 보세요.

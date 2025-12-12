@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: crocword
-title: '[KO] Crocword'
+title: "Crocword 크로크워드"
 description: >-
-  [KO] Crocword is a relaxing word puzzle — connect letters, build words, and
-  clear grids with clever vocabulary.
+  Crocword는 크로스워드와 글자 연결 퍼즐을 결합한 단어 게임으로, 흩어진 글자를 이어
+  단어를 만들고, 교차하는 퍼즐 칸을 채우며 어휘력을 시험해 볼 수 있습니다.
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/crocword.png
 tags:
@@ -17,34 +17,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Crocword blends crossword patterns with letter‑link mechanics. Connect letters to form valid words that fill crossword slots. Bonus words grant coins or hints; difficulty rises with longer, trickier grids.
+*Crocword*는 가로세로 낱말 퍼즐 구조와 글자 연결 메커닉을 섞어 놓은 단어 퍼즐 게임입니다.
+화면 아래 글자들을 이어 실제 영어 단어를 만들면, 위쪽 크로스워드 보드에 해당 단어가
+채워집니다. 퍼즐에 직접 쓰이지 않는 단어를 찾으면 보너스 단어로 인정되어, 힌트나
+코인을 얻는 데 도움이 됩니다. 스테이지가 진행될수록 퍼즐 길이가 길어지고, 구조도
+더 복잡해집니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** Fill singular‑fit slots first (rare letter positions).
-2.  **[KO]** Try anagrams of uncovered prefixes/suffixes.
-3.  **[KO]** Use bonus words to stock hints for late game.
-4.  **[KO]** Don’t tunnel — change angles (prefix/middle/suffix) when stuck.
-5.  **[KO]** Build vocabulary lists (common digrams/trigrams) to speed solves.
+1. **단 하나만 들어갈 수 있는 칸부터:** 특정 글자가 들어갈 수밖에 없는 자리(희귀한
+   철자 위치 등)를 우선 채우면 나머지 단어 추리가 쉬워집니다.
+2. **접두사/접미사 활용:** 이미 드러난 앞부분이나 뒷부분을 기준으로 애너그램을
+   떠올려 보세요. -ing, -ed, re-, un- 같은 패턴을 먼저 확인하는 것도 좋습니다.
+3. **보너스 단어로 힌트 확보:** 퍼즐과 직접 무관한 단어도 인식해 주는 경우가 많으니,
+   떠오르는 대로 입력해 코인을 모아 두면 후반 난이도에서 힌트를 아끼지 않고
+   쓸 수 있습니다.
+4. **막히면 관점 바꾸기:** 계속 같은 자리만 보고 있다가 막히면, 단어의 앞/중간/끝을
+   바꿔 가며 새로운 조합을 시도해 보세요.
+5. **자주 쓰이는 철자 조합 익히기:** 영어에서 자주 등장하는 두 글자/세 글자 조합
+   (th, ch, sh, ing, tion 등)을 익혀 두면, 패턴 인식 속도가 빨라집니다.
 
-### Controls Guide
+### 조작 방법
 
-- Drag across letters to form words; release to submit.
-- Use hints to reveal letters/words sparingly.
+- 글자들을 드래그하거나 순서대로 탭해 단어를 만든 뒤 손을 떼면 제출됩니다.
+- 힌트 버튼을 눌러 특정 칸이나 글자를 열 수 있지만, 코인 소모에 주의하세요.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: A slot seems impossible — help?
+- **Q: 도저히 안 맞는 칸이 있는데요.**  
+  **A:** 교차하는 다른 단어에서 철자를 잘못 넣었을 가능성이 큽니다. 해당 줄/열을
+  처음부터 다시 확인해 보세요.
 
-A: Check crossing letters again; one mistake early can block several words.
+- **Q: 고유명사도 인정되나요?**  
+  **A:** 대부분의 사전에서는 일반 명사 중심으로 구성되어 고유명사는 허용하지 않는
+  경우가 많습니다. 게임 내 단어 리스트 규칙을 따르세요.
 
-- Q: Are proper nouns allowed?
-
-A: Most dictionaries disallow proper nouns; follow the game’s word list.
-
-- Q: Can I replay for bonus words?
-
-A: Yes — revisit earlier grids to farm coins if the mode supports it.
-
+- **Q: 이전 퍼즐로 돌아가 코인 농사를 할 수 있나요?**  
+  **A:** 많은 버전에서 이전 스테이지를 다시 플레이해 보너스 단어와 코인을 더 모을
+  수 있습니다. 어려운 퍼즐이 막힐 때 한 번씩 되돌아가 자원을 보충해 보세요.

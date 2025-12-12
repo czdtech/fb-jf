@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: arctic-pong
-title: '[ES] Arctic Pong'
+title: "Arctic Pong duelo de palas helado"
 description: >-
-  [ES] Arctic Pong is a frosty paddle duel — angle returns, control pace, and
-  outscore your opponent.
+  Arctic Pong es una versión invernal del clásico Pong. Mueve tu pala, devuelve
+  el disco con distintos ángulos y controla el ritmo del intercambio para
+  superar a tu rival.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/arctic-pong.png
 tags:
@@ -15,29 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Arctic Pong es una variante sencilla y helada del clásico Pong. Controlas una
+pala en la orilla del hielo y debes devolver el disco, ajustar el ángulo de los
+golpes y presionar al oponente con colocación y velocidad.
 
+### Estrategia de juego y recorrido
 
-### Detailed Game Introduction
+1.  **Apunta a las esquinas:** Golpea el disco cerca de los extremos de tu pala
+    para cambiar el ángulo de salida y sorprender al rival.
+2.  **Mezcla velocidades:** Alterna golpes suaves con devoluciones rápidas.
+    Cambiar el ritmo ayuda a provocar errores.
+3.  **Vuelve al centro tras cada golpe:** Después de devolver el disco, intenta
+    recolocarte en el centro para poder cubrir ambos lados del campo.
+4.  **Lee los rebotes en las paredes:** Observa el ángulo con el que el disco
+    golpea los bordes para anticipar dónde tendrás que estar en la siguiente
+    devolución.
+5.  **Aprovecha el saque:** Usa tus saques para poner presión desde el primer
+    toque, enviando el disco hacia esquinas o ángulos incómodos.
 
-Arctic Pong is a simple, chilly spin on classic Pong. Move your paddle to return the puck, angle shots off edges, and pressure your opponent with pace and placement.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- **Mover la pala:** Usa las teclas de dirección, WASD o arrastra con el ratón
+  (según la versión) para mover la pala.
+- **Modos de juego:** Suele ofrecer modo local para 2 jugadores y modo en
+  solitario contra la IA.
 
-1.  **[ES]** Aim corners: Strike near paddle edges to change return angles.
-2.  **[ES]** Mix speeds: Soft touches then fast drives can bait whiffs.
-3.  **[ES]** Center recover: Return to center after each hit to cover both sides.
-4.  **[ES]** Read bounces: Predict wall angles to pre‑position earlier.
-5.  **[ES]** Serve control: Use serves to set early pressure.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **¿Hay efecto/spin real en el disco?**  
+  En muchas versiones el "efecto" se simula con el punto de contacto en la
+  pala; no suele haber un modelo físico complejo.
 
-- Move paddle: Arrow keys / WASD or drag.
-- Modes: Local 2‑player and solo vs. AI are common.
+- **¿Cuál es la mejor defensa?**  
+  Mantente cerca del centro y reacciona a los rebotes en los bordes en lugar de
+  perseguir el disco demasiado.
 
-### Frequently Asked Questions (FAQ)
-
-- Is there spin? Some versions approximate angle via contact point; no complex spin.
-- Best defense? Stay centered and react to edge bounces.
-- Quick wins? Vary angles and tempo to force mistakes.
-
+- **¿Cómo consigo puntos rápidos?**  
+  Varía los ángulos y el tempo de tus devoluciones. Cambios bruscos de dirección
+  y velocidad fuerzan al rival a cometer fallos.

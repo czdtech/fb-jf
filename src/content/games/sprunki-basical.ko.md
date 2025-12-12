@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-basical
-title: '[KO] Sprunki Basical - Play Sprunki Basical Online'
+title: 'Sprunki Basical 스프룽키 베이시컬'
 description: >-
-  [KO] Sprunki Basical is a back-to-basics music creation game that allows you
-  to experience the purest musical fun in simple operations. If you like
-  Incredibox and want to try something new, then Sprunki Basical is definitely a
-  good choice!
+  Sprunki Basical은 단순한 조작만으로 순수한 음악 만들기의 재미를 느낄 수 있는
+  스프룽키 스타일 음악 제작 게임입니다. Incredibox를 좋아하고, 조금 더 가벼운
+  느낌의 새 모드를 찾는 플레이어에게 잘 어울립니다.
 iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /sprunki-basical.png
 tags:
@@ -17,36 +16,50 @@ score: 4.4/5  (420 votes)
 
 
 
-### Introducing to Sprunki Basical
+### Sprunki Basical 소개
 
-Sprunki Basical is a back-to-basics music creation game that allows you to experience the purest musical fun in simple operations. If you like Incredibox and want to try something new, then Sprunki Basical is definitely a good choice! Come and join Sprunki Basical, and use your music to light up your life!
-
----
-
-### How to Play Sprunki Basical?
-
-The gameplay is very simple, it can be done in a few steps:
-
-- **Drag and Drop Sound Effects:** Drag different sound effect icons onto the characters to assign them different sounds.
-- **Overlay Sounds:** Build a complete music track by strategically placing beats, vocals, and sound effects.
-- **Unlock Bonuses:** Try specific sound combinations to discover hidden animations and special effects!
-- **Real-Time Mixing:** Adjust your work at any time, mute, remove, or rearrange sounds to make your music more perfect.
-
+Sprunki Basical은 "기본으로 돌아가기"를 콘셉트로 한 음악 제작 게임으로,
+복잡한 기능 대신 직관적인 조작과 즉각적인 효과에 집중했습니다. 간단한
+조작만으로도 음악 만드는 순수한 즐거움을 느낄 수 있어, Incredibox를 좋아하는
+유저들이 새로운 느낌으로 즐기기에 좋은 선택입니다.
 
 ---
 
-### Tips for Playing Sprunki Basical:
+### Sprunki Basical 플레이 방법
 
-- **Start with the Beat:** First lay the foundation for your music, drag a rhythmic sound to the character.
-- **Add Melodies and Sound Effects:** Use vocal and instrumental loops to enrich your mixing work.
-- **Explore Bonus Combinations:** Certain sound combinations will trigger special animations and exclusive musical sequences.
-- **Strive for Perfection:** Adjust, remove, or mute certain sounds at any time to achieve the best results.
-- **Save and Share:** In some versions, you can record and share your music works, allowing more people to hear your voice.
+게임 방식은 매우 단순하며, 몇 가지 단계만 익히면 됩니다.
 
+- **사운드 이펙트 드래그:** 화면 아래에 있는 각종 사운드 아이콘을 캐릭터에게
+  드래그해 올려, 각 캐릭터가 다른 소리를 담당하도록 설정합니다.
+- **사운드 레이어 겹치기:** 비트, 보컬, 효과음을 적절히 섞어 하나의 트랙을
+  완성해 보세요.
+- **보너스 연출 해금:** 특정 조합을 맞추면 숨겨진 애니메이션이나 특수 효과가
+  재생되기도 합니다.
+- **실시간 믹싱:** 마음에 들지 않으면 언제든지 음소거, 제거, 재배치 등을 통해
+  곡을 다듬을 수 있습니다.
 
-### Highlights of Sprunki Basical:
+---
 
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started and create quickly.
-- **New Sprunki Style:** Brings a series of new Sprunki-themed beats, melodies, and sound effects, giving you a sense of freshness.
-- **Real-Time Mixing:** Adjust your work at any time to make your music more perfect.
-- **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+### Sprunki Basical 플레이 팁
+
+- **비트부터 깔기:** 우선 리듬 역할을 하는 사운드를 배치해 기본 틀을 만들어
+  두면 이후 작업이 훨씬 쉽습니다.
+- **멜로디와 효과 추가:** 보컬/멜로디 루프와 환경음을 더해 트랙에 깊이를
+  더해 보세요.
+- **보너스 조합 탐색:** 특정 캐릭터와 사운드 조합은 특별한 애니메이션이나
+  숨겨진 시퀀스를 재생합니다. 여러 조합을 시도해 보는 재미가 쏠쏠합니다.
+- **완성도 높이기:** 마음에 들지 않는 소리는 언제든지 끄거나 제거하고,
+  배치를 바꿔 최적의 밸런스를 찾아 보세요.
+- **저장과 공유:** 일부 버전에서는 만든 음악을 녹음해 공유할 수도 있어,
+  친구들과 결과물을 나누며 더 오래 즐길 수 있습니다.
+
+### Sprunki Basical의 장점
+
+- **쉽고 직관적인 조작:** Incredibox 특유의 드래그 앤 드롭 방식으로,
+  튜토리얼 없이도 바로 곡을 만들 수 있습니다.
+- **새로운 Sprunki 스타일:** Sprunki 테마에 맞춘 새로운 비트, 멜로디, 효과음이
+  다수 추가되어 있어 기존 팬들에게도 신선하게 다가옵니다.
+- **실시간 편집:** 재생 중에도 언제든지 사운드를 추가·제거하며 곡을 조정할 수
+  있어, 곧바로 결과를 확인하면서 수정할 수 있습니다.
+- **발견하는 재미:** 숨겨진 연출과 이스터에그를 찾는 즐거움이 있어,
+  단순 반복이 아닌 탐험하는 느낌으로 플레이할 수 있습니다.

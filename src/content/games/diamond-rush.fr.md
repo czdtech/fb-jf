@@ -1,48 +1,73 @@
 ---
 locale: fr
 urlstr: diamond-rush
-title: '[FR] Diamond Rush'
-description: >-
-  [FR] Experience the sparkle of Diamond Rush! A fast-paced match-3 puzzle game
-  where you swap and match dazzling diamonds to clear the board and achieve high
-  scores.
-iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
+title: Diamond Rush
+description: "Diamond Rush est un match‑3 dynamique\_: aligne des gemmes, déclenche des combos et termine les objectifs avant la fin du temps ou des coups."
+iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/7dafab8ct86ag/'
 thumbnail: /new-images/diamond-rush.png
 tags:
   - puzzle
   - casual
-  - action
-score: 4.3/5  (2010 votes)
+  - thinky
+score: 4.2/5  (1900 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Diamond Rush est un jeu de match‑3 où tu échanges des gemmes adjacentes pour
+former des lignes de trois symboles identiques ou plus. Les gemmes alignées
+explosent et de nouvelles tombent, créant parfois des cascades.
 
-Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges your quick thinking and matching skills. The objective is to swap adjacent diamonds to create lines of three or more identical gems, clearing them from the board and earning points. With vibrant graphics, sparkling animations, and engaging sound effects, Diamond Rush offers a classic match-3 experience with a focus on fast-paced gameplay and high scores. Race against the clock or complete specific objectives to progress through exciting levels.
+Chaque niveau propose des objectifs : atteindre un certain score, casser des
+blocs, faire descendre des objets, etc.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** **Look for Special Gem Combinations:** Matching four or five diamonds, or creating L/T shapes, will generate powerful special gems (like line clearers or bombs). These are crucial for clearing large sections of the board and achieving high scores.
-2.  **[FR]** **Prioritize Objectives:** Each level often has specific objectives, such as reaching a certain score, clearing specific types of diamonds, or breaking through obstacles. Focus your moves on achieving these goals efficiently.
-3.  **[FR]** **Combine Special Gems:** The most effective way to clear the board and overcome tough challenges is by combining two special gems. Experiment with different combinations to see their powerful effects.
-4.  **[FR]** **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade effect, where new diamonds fall into place and potentially create new matches automatically. This can be a great way to rack up points and clear the board.
-5.  **[FR]** **Time Management (if applicable):** If the level has a time limit, try to make quick, efficient matches. Don't spend too much time deliberating over a single move.
+1.  **Commence par le bas**  
+    Les matches près du bas génèrent plus facilement des cascades qui nettoient
+    la grille gratuitement.
+2.  **Priorise les objectifs de niveau**  
+    Si tu dois casser des blocs ou faire descendre des objets, concentre‑toi
+    sur ces tâches avant de chercher le score maximal.
+3.  **Crée et combine des bonus**  
+    Les lignes de 4 ou 5 gemmes créent des pièces spéciales (bombes, lignes,
+    hyper‑gemmes). Les combiner entre elles nettoie d’énormes zones.
+4.  **Garde le centre dégagé**  
+    Évite d’empiler trop de gemmes inutiles sur les bords ; un centre ouvert
+    offre plus de possibilités de matches.
+5.  **Gère tes coups ou le chrono**  
+    Sur les niveaux à coups limités, évite les mouvements qui n’aident pas ton
+    objectif. Sur les niveaux chronométrés, joue de façon fluide et cadence tes
+    décisions.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Swap Diamonds:** Use your mouse to click and drag a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
+- **Échanger des gemmes** : fais glisser une gemme vers une voisine pour tenter
+  de former un trio (ou plus) de même couleur.  
+- **Activer un bonus** : réalise un match avec la gemme spéciale ou touche‑la
+  selon les règles de la version.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: What is the goal of Diamond Rush?**
-    *   **[FR]** **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
 
-*   **[FR]** **Q: How do I get power-ups or special diamonds?**
-    *   **[FR]** **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
+- **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
 
-*   **[FR]** **Q: Is there a time limit in the game?**
-    *   **[FR]** **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
+    - **Q: Is there a time limit in the game?**
 
+- **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
+
+    - **Q: How do I get power-ups or special diamonds?**
+
+- **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
+
+    - **Q: What is the goal of Diamond Rush?**
+**Q : Les diagonales comptent‑elles ?**  
+R : En général, seules les lignes horizontales et verticales sont valides, sauf
+indication contraire.
+
+**Q : Comment passer un niveau bloqué ?**  
+R : Concentre‑toi sur les objectifs (blocs, objets à descendre) et économise les
+bombes ou gros bonus pour les zones difficiles.

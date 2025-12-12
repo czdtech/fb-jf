@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: descent
-title: '[DE] Descent'
+title: "Descent"
 description: >-
-  [DE] Descent is an arcade skill game: navigate downward, avoid hazards, and
-  time movements to reach the goal.
+  Descent ist ein minimalistisches Arcade-Geschicklichkeitsspiel, in dem du
+  einen Schacht hinabstürzt, von Wand zu Wand springst und gefährlichen
+  Hindernissen wie Stacheln und beweglichen Fallen ausweichst.
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/descent.jpg
 tags:
@@ -14,29 +15,44 @@ score: 5.0/5  (1486 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Descent ist ein vertikales Geschicklichkeitsspiel: Du fällst einen Schacht
+hinab, springst von Wand zu Wand und versuchst dabei, gefährlichen Hindernissen
+wie Stacheln und beweglichen Fallen auszuweichen. Viele Browserversionen nutzen
+eine Ein- oder Zwei-Tasten-Steuerung, mit der du im richtigen Moment die Wand
+wechselst, während die Schwerkraft dich nach unten zieht.
 
+### So spielst du
 
+- Tippe/klicke, um von der aktuellen Wand zur gegenüberliegenden Seite zu
+  springen, und verbinde mehrere Sprünge, um Lücken zu überwinden.
+- Lies das Timing der Hindernisse (bewegliche Stacheln/Plattformen) und warte
+  auf sichere Zeitfenster.
+- Sammelobjekte bringen je nach Version Punkte oder schalten kosmetische Inhalte
+  frei.
 
-### Overview
-Descent is a minimalist vertical skill game where you drop down a shaft, time jumps off walls, and avoid hazards like spikes and moving traps. Many web versions use one‑button or two‑button controls to leap from wall to wall while gravity pulls you downward. 
+### Steuerung
 
-### How to Play
-- Tap/click to jump from the current wall to the opposite side; chain jumps to pass gaps.
-- Read obstacle timing (moving spikes/platforms) and wait for safe windows.
-- Collectibles may award points or unlock cosmetics depending on the host.
+- Maus/Touch: Tippen oder Klicken, um zu springen; manche Versionen verwenden
+  Links/Rechts oder A/D, um dich von der entsprechenden Wand abzustoßen.
+  Details können je nach Host leicht variieren.
 
-### Controls
-- Mouse/touch: tap to jump; some versions use Left/Right or A/D to leap off the respective wall. Controls vary slightly by host.
+### Tipps und Strategien
 
-### Tips and Strategies
-- Don’t rush: small delays often desync hazards and create openings.
-- Jump earlier for longer lateral travel; later for short, steep hops.
-- Use wall‑cling moments to scout the next two screens ahead.
+- Hetze nicht: Kleine Verzögerungen bringen das Timing der Fallen durcheinander
+  und öffnen neue Lücken.
+- Frühe Sprünge sorgen für weite, flache Sprünge; späte Sprünge für kurze,
+  steile Hüpfer – nutze das gezielt.
+- Nutze kurze "Anhalte"-Momente an der Wand, um die nächsten ein bis zwei
+  Bildschirme vorauszuplanen.
 
 ### FAQ
-- Q: Is progress endless or level‑based?
-A: Hosts vary; some are endless score chases, others have stage checkpoints.   
-- Q: Are there power‑ups?
-A: Some versions add shields or slow‑mo; availability depends on the host. 
 
+- **F: Ist der Fortschritt endlos oder levelbasiert?**  
+  **A:** Das hängt vom jeweiligen Host ab; einige Versionen sind endlose
+  Highscore-Jagden, andere arbeiten mit klaren Leveln und Checkpoints.
+
+- **F: Gibt es Power-ups?**  
+  **A:** In manchen Varianten gibt es Extras wie Schilde oder Zeitlupe; welche
+  Power-ups verfügbar sind, entscheidet der jeweilige Anbieter des Spiels.

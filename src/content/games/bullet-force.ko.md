@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bullet-force
-title: '[KO] Bullet Force'
+title: 'Bullet Force 불릿 포스'
 description: >-
-  [KO] Jump into fast-paced multiplayer combat in Bullet Force, a modern
-  first-person shooter. Customize a vast arsenal of weapons, master multiple
-  game modes, and battle players worldwide or practice offline against bots.
+  Bullet Force는 빠른 전투 템포와 다양한 무기 커스터마이징을 갖춘 현대식
+  멀티플레이 1인칭 슈팅(FPS) 게임입니다. 여러 게임 모드에서 전 세계 플레이어와
+  싸우거나, 오프라인 봇전으로 실력을 연마해 보세요.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
 thumbnail: /new-images/bullet-force.jpg
 tags:
@@ -15,67 +15,104 @@ score: 3.9/5  (951 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bullet Force는 브라우저와 모바일에서 즐길 수 있는 현대식 멀티플레이 FPS로,
+대형 콘솔·PC 슈팅 게임을 연상시키는 경쾌한 전투를 간단한 환경에서 구현한 작품입니다.
+여러 종류의 맵에서 치열한 교전을 벌이며, 다양한 무기를 해금하고 커스터마이징할 수
+있습니다.
 
+게임의 중심은 멀티플레이 모드로, 공개 매치에 참여하거나 직접 방을 만들어 친구들과
+맞대결을 펼칠 수 있습니다. 팀 데스매치, 프리 포 올, 거점 점령, 건 게임 등 익숙한
+모드가 준비되어 있으며, 각 모드는 서로 다른 플레이 스타일을 요구합니다.
 
+폭넓은 무기 커스터마이징도 특징입니다. 조준경, 레이저, 총열 파트, 위장 스킨 등
+여러 부속을 해금해 자신만의 최적 세팅을 만들 수 있습니다. 또한 인터넷이 없을 때도
+연습할 수 있도록, 난이도를 조절할 수 있는 AI 봇전 오프라인 모드도 제공됩니다.
 
+**대표 게임 모드**
 
-### Game Introduction
+-   **Team Deathmatch (TDM):** 두 팀이 제한 시간 안에 더 많은 처치를 기록하기 위해
+    싸우는 기본 모드입니다.
+-   **Free For All (FFA):** 모든 플레이어가 서로 적이 되는 솔로 모드로, 가장 많은
+    킬을 올린 플레이어가 승리합니다.
+-   **Conquest:** 맵 곳곳의 거점을 점령하고 지키며 점수를 쌓는 모드입니다.
+-   **Gun Game:** 기본 권총으로 시작해 처치를 할 때마다 무기가 바뀌며, 정해진
+    무기 리스트를 끝까지 돌파하는 것을 목표로 합니다.
 
-Bullet Force is a fast-paced, modern multiplayer first-person shooter (FPS) that offers an action-packed combat experience reminiscent of popular AAA titles, but in a more accessible format for web browsers and mobile devices. Players engage in intense battles across a variety of maps, utilizing a wide range of customizable weapons.
+### 플레이 전략
 
-The core of the game is its multiplayer mode, where players can join public matches or create their own custom rooms to play with friends. It features several classic game modes that cater to different playstyles. A key aspect of Bullet Force is its extensive weapon customization system, allowing players to unlock and equip numerous attachments such as sights, lasers, barrel modifications, and camouflages to tailor their firearms to their preferences. For those looking to practice or play without an internet connection, the game also offers a robust offline mode with adjustable AI bots.
+-   **이동을 몸에 익히기**  
+    Bullet Force는 정지해 있는 순간이 가장 위험한 아케이드형 슈터입니다.
+    항상 움직이면서 스프린트, 웅크리기, 슬라이딩 등을 적절히 섞어 적의 조준을
+    어려워지게 만드는 것이 중요합니다.
 
-**Key Game Modes:**
--   **Team Deathmatch (TDM):** Two teams compete to achieve the highest number of kills before the time limit expires.
--   **Free For All (FFA):** Every player for themselves. The player with the most kills at the end of the match wins.
--   **Conquest:** Teams fight to capture and hold specific points on the map to accumulate score.
--   **Gun Game:** Players start with a basic pistol and are given a new weapon for every kill they get, progressing through a set list of firearms.
+-   **맵 구조 숙지하기**  
+    자주 플레이하는 맵일수록, 지형과 시야 각, 스나이퍼 포지션, 우회 루트를
+    세세하게 익혀 두면 큰 이점을 얻습니다. 어디에서 교전이 자주 일어나는지,
+    어디가 위험한 오픈 필드인지 파악해 두세요.
 
-### Gameplay Strategy
+-   **조준 사격(ADS)과 허리쏴(Hip‑fire) 구분**  
+    -   **ADS:** 중·장거리 교전에서는 우클릭으로 조준경을 들여다보며 사격해
+        정확도를 높이는 것이 좋습니다.
+    -   **Hip‑fire:** 좁은 실내나 근접 교전에서는 허리쏴가 반응 속도 면에서
+        유리합니다. 특히 SMG 계열과 궁합이 좋습니다.
 
--   **Master the Movement:** Bullet Force is an arcade-style shooter. Standing still is a quick way to get eliminated. Constantly be on the move, and learn to use mechanics like sprinting, crouching, and sliding to your advantage to be a harder target to hit.
--   **Learn the Maps:** Map knowledge is crucial. Spend time learning the layouts, common choke points, popular sniper nests, and flanking routes. Understanding the flow of each map will give you a significant tactical advantage.
--   **Aim Down Sights (ADS) vs. Hip-Fire:**
-    -   **ADS:** Use ADS (right-click on PC) for medium to long-range encounters. It significantly increases your accuracy.
-    -   **Hip-Fire:** In close-quarters combat, firing from the hip is often faster and more effective, especially with Submachine Guns (SMGs).
--   **Choose Your Loadout Wisely:** Don't stick to one weapon. Create different loadouts for different situations.
-    -   **Assault Rifles (e.g., AK, M4A1):** Versatile and effective at most ranges. A great all-around choice.
-    -   **SMGs (e.g., Vector, MP5):** Dominate in close-quarters due to their high rate of fire.
-    -   **Sniper Rifles:** High-risk, high-reward. Best for players who can hold down long sightlines and land precise shots.
--   **Use the Minimap:** The minimap is your best source of information. It shows the location of your teammates and reveals enemies who are firing without a suppressor or are spotted by a UAV killstreak.
--   **Practice Offline:** The offline mode with bots is an excellent training ground. Use it to practice your aim, learn new maps, and test out different weapon builds without the pressure of a live multiplayer match.
+-   **상황에 맞는 장비 세팅**  
+    한 가지 무기에만 고집하지 말고, 맵과 모드에 맞춰 여러 세팅을 준비하는 것이
+    좋습니다.
+    -   **돌격소총(예: AK, M4A1):** 대부분의 거리에서 안정적인 만능형 무기입니다.
+    -   **SMG(예: Vector, MP5):** 근접 교전에서 높은 연사력으로 강력합니다.
+    -   **저격소총:** 긴 시야를 확보하고 정확한 헤드샷을 노리는 플레이에 적합합니다.
 
-### Controls Guide
+-   **미니맵 적극 활용**  
+    미니맵은 팀원 위치와, 소음기 없이 사격하는 적이나 UAV에 포착된 적의 위치를
+    알려 줍니다. 화면만 보는 것보다 미니맵까지 함께 확인하면, 적의 이동 경로를
+    미리 예측할 수 있습니다.
 
-#### PC (Keyboard & Mouse)
--   **Movement:** `W`, `A`, `S`, `D`
--   **Jump:** `Spacebar`
--   **Sprint:** `Shift`
--   **Crouch/Slide:** `C`
--   **Aim Down Sights (ADS):** `Right Mouse Button`
--   **Shoot:** `Left Mouse Button`
--   **Reload:** `R`
--   **Switch Weapon:** `1`, `2`, `3` or Mouse Wheel
--   **Interact:** `E`
--   **Show Scoreboard:** `Tab`
+-   **오프라인 봇전으로 연습**  
+    에임 연습이나 새로운 맵·무기 조합 실험은 봇전에서 부담 없이 시도해 보세요.
+    실전 전에 감을 익히기에 좋은 환경입니다.
 
-#### Mobile (Touchscreen)
--   **Movement:** Virtual joystick on the left side of the screen.
--   **Aim/Look:** Swipe on the right side of the screen.
--   **Shoot, ADS, Reload, Jump, Crouch:** Dedicated on-screen buttons, which can often be customized in the settings.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+#### PC (키보드 & 마우스)
 
-**1. How do I unlock new weapons and attachments?**
-> You earn credits by playing matches (based on your performance, kills, and objectives). These credits can then be spent in the "Loadout" or "Armory" section of the game to purchase new primary weapons, secondary weapons, and a wide variety of attachments for them.
+-   **이동:** `W`, `A`, `S`, `D`  
+-   **점프:** `Spacebar`  
+-   **대시/스프린트:** `Shift`  
+-   **웅크리기/슬라이딩:** `C`  
+-   **조준(ADS):** 마우스 오른쪽 버튼  
+-   **사격:** 마우스 왼쪽 버튼  
+-   **재장전:** `R`  
+-   **무기 변경:** `1`, `2`, `3` 또는 마우스 휠  
+-   **상호작용:** `E`  
+-   **스코어보드:** `Tab`
 
-**2. What are killstreaks and how do I use them?**
-> Killstreaks are special abilities you earn by getting a certain number of kills in a row without dying. Once earned, an on-screen button will appear, allowing you to activate abilities like a **UAV** (reveals enemies on the minimap), **Haste** (increased movement speed), or an **Advanced UAV**.
+#### 모바일 (터치)
 
-**3. What is the "best" weapon in the game?**
-> There is no definitive "best" weapon as it largely depends on your playstyle and the map. However, some popular and highly effective choices include the FAMAS for its burst-fire accuracy, the M4A1 for its versatility, and the Vector for its incredibly high rate of fire in close combat.
+-   **이동:** 화면 왼쪽의 가상 조이스틱  
+-   **시점/조준:** 화면 오른쪽을 드래그  
+-   **사격, 조준, 재장전, 점프, 웅크리기:** 화면 우측에 배치된 전용 버튼 사용
+    (일부는 설정에서 위치를 커스터마이즈 가능)
 
-**4. Can I play with my friends?**
-> Yes. You can create a custom match by going to the multiplayer menu and selecting "Create Room." You can set a password for the room and share the room name and password with your friends so they can join.
+### 자주 묻는 질문 (FAQ)
 
+**1. 새로운 무기와 부착물을 어떻게 해금하나요?**  
+> 매치를 플레이하면서 킬, 보조, 목표 점수 등을 통해 크레딧을 획득합니다.
+> 이 크레딧을 로드아웃/무기고 메뉴에서 무기와 부착물 구매에 사용할 수 있습니다.
+
+**2. 킬스트릭은 무엇이며 어떻게 사용하나요?**  
+> 죽지 않고 일정 수 이상의 킬을 달성하면 UAV, 이동 속도 증가(Haste), 고급 UAV
+> 같은 킬스트릭 보너스를 얻습니다. 조건을 만족하면 화면에 아이콘이 나타나며,
+> 이를 눌러 효과를 발동시킬 수 있습니다.
+
+**3. 가장 강한 무기는 무엇인가요?**  
+> 플레이 스타일과 맵에 따라 다르기 때문에 절대적인 정답은 없습니다. 다만
+> 3점사 정확도가 뛰어난 FAMAS, 범용성이 좋은 M4A1, 근접에서 강력한 Vector 등은
+> 많은 유저에게 인기 있는 선택입니다.
+
+**4. 친구와 함께 플레이할 수 있나요?**  
+> 가능합니다. 멀티플레이 메뉴에서 "Create Room"을 선택해 비공개 방을 만들고
+> 비밀번호를 설정한 뒤, 방 이름과 비밀번호를 친구에게 알려주면 함께 접속해
+> 플레이할 수 있습니다.

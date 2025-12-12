@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: retro-bowl
-title: '[KO] Retro Bowl'
+title: "Retro Bowl 레트로 볼"
 description: >-
-  [KO] Retro Bowl is a nostalgic American football game with retro 8-bit
-  graphics where players manage and play as a football team, calling plays,
-  throwing passes, and leading their team to championship glory.
+  Retro Bowl은 레트로 8비트 스타일 그래픽으로 즐기는 미식축구 게임으로, 감독이자
+  쿼터백이 되어 팀을 운영하고 플레이를 직접 호출하며 챔피언십 우승을 노리는
+  작품입니다.
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/retro-bowl.jpg
 tags:
@@ -20,32 +20,50 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-"Retro Bowl" is a nostalgic American football game with retro 8-bit graphics where players act as both coach and quarterback, managing the team and controlling gameplay through play-calling, passing, and leading the team to championship glory. The game combines team management with real-time game control, providing players with a complete football experience.
+*Retro Bowl*은 레트로 8비트 그래픽과 함께 즐기는 미식축구 게임으로, 플레이어가 팀의
+감독이자 쿼터백 역할을 동시에 수행합니다. 경기 중에는 플레이콜과 패스를 통해 공격을
+직접 지휘하고, 시즌 사이에는 선수 영입과 트레이드, 연봉 관리 등 팀 운영까지
+책임지게 됩니다. 팀 매니지먼트와 실시간 경기 조작이 결합된 완성도 높은 미식축구
+경험을 제공하는 게임입니다.
 
-### Gameplay Strategy
+### 플레이 전략
 
-1.  **[KO]** **Master Passing Skills**: Learn to accurately pass to receivers, observe defensive positions to choose the best passing moments.
-2.  **[KO]** **Team Management**: Allocate salary budget wisely, sign and trade players to build a strong roster.
-3.  **[KO]** **Tactical Choices**: Choose appropriate offensive tactics based on field situations, including passing and rushing plays.
-4.  **[KO]** **Timing Mastery**: In quarterback mode, master the optimal timing for passing and running.
-5.  **[KO]** **Season Planning**: Develop long-term team development strategies, nurture young players, and compete for playoff spots.
+1. **패스 숙달:** 리시버가 빈 공간으로 침투하는 타이밍을 보고 정확하게 패스를
+   보내는 것이 중요합니다. 수비진의 위치를 살피며 인터셉트 위험이 적은 타이밍을
+   선택하세요.
+2. **팀 운영:** 연봉 한도를 고려해 스타 플레이어와 역할 선수들의 밸런스를 맞추고,
+   필요할 때 과감히 트레이드를 진행해 전력을 강화해야 합니다.
+3. **전술 선택:** 필드 위치와 다운 상황에 따라 패싱 플레이와 러닝 플레이를 적절히
+   섞어 사용하는 것이 좋습니다. 같은 패턴만 반복하면 AI 수비가 쉽게 읽어 냅니다.
+4. **타이밍 감각 익히기:** 쿼터백 모드에서는 패스를 던질 타이밍과 직접 달려 나갈
+   타이밍을 구분해야 합니다. 지나치게 욕심을 내면 쉽게 태클을 당하게 됩니다.
+5. **시즌 운영 계획:** 단기 승리뿐 아니라, 루키를 성장시키고 전력 구조를 조정해
+   플레이오프 진출과 우승까지 바라보는 장기 전략을 세워 보세요.
 
-### How to Play
+### 조작 방법
 
-*   **[KO]** **Passing**: Drag to aim at receivers, release finger to pass.
-*   **[KO]** **Rushing**: Control the quarterback to run forward, looking for gaps to break through.
-*   **[KO]** **Team Management**: Manage player contracts, trades, and roster settings in the menu.
-*   **[KO]** **Tactical Selection**: Choose different offensive and defensive tactics during games.
+- **패스:** 화면을 드래그해 리시버 방향으로 조준 후 손가락을 떼어 공을 던집니다.
+- **러닝:** 쿼터백을 직접 조종해 빈 공간을 찾아 전진할 수 있습니다.
+- **팀 관리:** 메뉴에서 선수 계약, 트레이드, 로스터 편성 등을 조정합니다.
+- **전술 선택:** 경기 중 공격/수비 상황에 따라 다양한 플레이를 선택할 수 있습니다.
 
-### Frequently Asked Questions
+### 자주 묻는 질문(FAQ)
 
-1.  **[KO]** **Q: How can I improve passing accuracy?**
-**A**: Practice aiming more, pay attention to receivers' running routes, and avoid being intercepted by defenders.
-2.  **[KO]** **Q: How do I manage team salary?**
-**A**: Balance salaries between star players and role players, ensuring a competitive roster within the salary cap.
-3.  **[KO]** **Q: Are there playoffs in the game?**
-**A**: Yes, well-performing teams can enter the playoffs, with the ultimate goal of winning the Retro Bowl championship.
-4.  **[KO]** **Q: Can players get injured?**
-**A**: Players may get injured during games, affecting their performance, requiring proper rotation and player management.
+1. **Q: 패스 정확도를 높이려면 어떻게 해야 하나요?**  
+   **A:** 리시버의 러닝 루트를 미리 파악하고, 수비수가 너무 근접하기 전에 여유를
+   두고 던지는 것이 좋습니다. 많은 연습을 통해 손에 익히는 것이 가장 중요합니다.
+
+2. **Q: 팀 연봉 관리는 어떻게 하는 게 좋나요?**  
+   **A:** 몇 명의 스타 플레이어에게만 연봉을 몰아주지 말고, 필수 포지션에 고르게
+   투자해 전체 전력을 일정 수준 이상으로 유지하는 것이 좋습니다.
+
+3. **Q: 게임에 플레이오프가 있나요?**  
+   **A:** 네. 정규 시즌 성적이 좋으면 플레이오프에 진출할 수 있으며, 최종 목표는
+   Retro Bowl 챔피언십 우승입니다.
+
+4. **Q: 선수 부상도 발생하나요?**  
+   **A:** 경기 중 선수들이 부상을 입을 수 있으며, 이는 능력치와 출전 가능 여부에
+   영향을 줍니다. 로스터를 넉넉히 유지하고, 로테이션을 적절히 돌려 리스크를
+   관리하세요.

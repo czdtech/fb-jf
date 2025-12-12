@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: baseball
-title: '[KO] Doodle Baseball'
+title: 'Doodle Baseball 두들 베이스볼'
 description: >-
-  [KO] A guide to Doodle Baseball, the charming and simple timing-based sports
-  game. Learn how to play, get tips for hitting home runs, understand the
-  controls, and find answers to common questions.
+  손그림 스타일로 즐기는 아케이드 야구 게임 Doodle Baseball입니다. 투수의
+  공을 보고 타이밍에 맞춰 한 번의 클릭으로 홈런을 노려 보세요.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/baseball.jpg
 tags:
@@ -15,56 +14,72 @@ score: 4.4/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+*Doodle Baseball*은 손그림 낙서 같은 그래픽이 특징인 간단한 아케이드 야구
+게임입니다. 플레이어는 각종 음식 캐릭터로 구성된 타자 팀의 일원으로,
+땅콩 팀 투수가 던지는 공을 맞혀 최대한 많은 점수를 내야 합니다.
 
+게임의 목표는 단순합니다. 투수가 던지는 공을 타이밍에 맞춰 쳐서 가능한 한
+멀리 보내는 것뿐입니다. 수비와 주루는 자동으로 처리되며, 플레이어는 오직
+"언제 스윙할 것인가"만 신경 쓰면 됩니다. 경기 시간이 따로 있는 대신, 세 번
+삼진을 당하면 게임이 종료되며, 그때까지 얻은 점수가 최종 기록이 됩니다.
 
+### 플레이 전략
 
-### Detailed Introduction
+한 번의 버튼 입력만 사용하는 게임이지만, 좋은 기록을 내기 위해서는 집중력과
+타이밍 감각이 중요합니다.
 
-*Doodle Baseball* is a charming and deceptively simple arcade-style baseball game. Presented with a unique hand-drawn "doodle" aesthetic, the player takes on the role of a batter from a team of various food items, facing off against an opposing team of anthropomorphic peanuts.
+1.  **투수 모션 관찰:** 투수가 공을 던지기 전의 와인드업 동작을 잘 보면, 어느
+    정도 구종과 속도를 예상할 수 있습니다.
+2.  **배트보다 공을 보기:** 공이 손에서 떠나는 순간부터 홈플레이트에 도달할
+    때까지 시선을 공에 고정하세요. 속도와 궤적을 읽는 가장 좋은 방법입니다.
+3.  **구속 차이 익히기:**
+    *   **직구:** 빠르게 곧게 들어오는 공으로, 반응 속도가 중요합니다.
+        직구라고 판단되면 약간 이른 타이밍에 빠르게 스윙해야 합니다.
+    *   **느린 공/변화구:** 일부러 헛스윙을 유도하는 공입니다. 직구보다 훨씬
+        늦게 들어오기 때문에, 평소보다 한 박자 더 기다린 뒤 스윙해야 합니다.
+4.  **타이밍이 모든 것:**
+    *   **홈런:** 공이 홈플레이트를 지나는 순간, 정확한 타이밍에 스윙이 맞으면
+        멀리 넘어가는 홈런이 나옵니다.
+    *   **안타:** 조금 빠르거나 늦게 맞으면 단타·2루타 정도의 평범한 타구가
+        됩니다.
+    *   **헛스윙/파울:** 타이밍이 지나치게 빠르거나 늦으면 파울 또는 삼진으로
+        처리됩니다.
+5.  **일부러 한 번 보는 것도 전략:** 이 게임에서는 대부분의 공이 스트라이크
+    존으로 들어오지만, 느린 공 타이밍을 잡기 위해 일부러 한두 번은 지켜보며
+    손을 익히는 것도 도움이 됩니다.
 
-The objective of the game is straightforward: hit the ball thrown by the pitcher and score as many runs as possible. The gameplay loop is focused entirely on the act of batting. The player does not control fielding or base running; these actions are automated based on the quality of the hit. The challenge comes from the variety of pitches thrown by the opposing team. As the game progresses, pitchers will throw balls at different speeds and trajectories, including fastballs, curveballs, and slow pitches, requiring the player to adapt their timing with each swing. The game ends after the player gets three strikes, and the goal is to achieve the highest possible score.
+### 조작 방법
 
-### Gameplay Strategy
+조작은 매우 단순해 누구나 쉽게 즐길 수 있습니다.
 
-While the game uses only one button, mastering it requires focus and timing.
+*   **PC/웹 브라우저:**
+    *   마우스 왼쪽 버튼 클릭으로 스윙
+*   **모바일/터치 디바이스:**
+    *   화면을 탭하면 스윙
 
-1.  **[KO]** **Watch the Pitcher's Wind-up:** The pitcher's animation is your first clue. Pay attention to their wind-up motion, as it can sometimes signal the type of pitch that is coming.
-2.  **[KO]** **Focus on the Ball, Not the Bat:** Your eyes should track the baseball from the moment it leaves the pitcher's hand until it reaches the plate. This is the most effective way to judge its speed and trajectory.
-3.  **[KO]** **Learn to Differentiate Pitch Speeds:**
-    *   **[KO]** **Fastball:** This is a straight, fast pitch. It requires a quick reaction. Be ready to swing almost as soon as you identify it.
-    *   **[KO]** **Slow Pitch/Curveball:** These are designed to fool you into swinging too early. The ball will float towards the plate much slower than a fastball. You must be patient and wait an extra moment before swinging. This is the most common reason for getting a strike.
-4.  **[KO]** **Timing is Everything:** The quality of your hit is determined by *when* you swing.
-    *   **[KO]** **Home Run:** Hitting the ball perfectly in the "sweet spot" as it crosses the plate will usually result in a home run.
-    *   **[KO]** **Single/Double:** Hitting the ball slightly early or late will result in a base hit.
-    *   **[KO]** **Foul Ball/Strike:** Swinging too early or too late will result in a miss.
-5.  **[KO]** **Don't Be Afraid to Take a Strike:** While every pitch in the game is typically a strike, the mental exercise of waiting helps you calibrate your timing for the slower pitches. Rushing your swing is the fastest way to get three outs.
+별도의 이동, 주루, 수비 조작은 없습니다.
 
-### Controls Guide
+### 자주 묻는 질문 (FAQ)
 
-The controls are as simple as possible, making the game accessible to everyone.
+**1. 홈런은 어떻게 치나요?**  
+공이 홈플레이트를 통과하는 바로 그 순간에 정확히 스윙해야 합니다. 구속에 따라
+조금씩 타이밍을 조절해, "가장 잘 맞는" 점을 찾아야 합니다.
 
-*   **[KO]** **For PC / Web Browser:**
-    *   **[KO]** **Left Mouse Button**: Click to swing the bat.
-*   **[KO]** **For Mobile / Touchscreen Devices:**
-    *   **[KO]** **Tap the Screen**: Tap anywhere on the screen to swing the bat.
+**2. 이 게임은 엔딩이 있나요?**  
+없습니다. 세 번 아웃될 때까지 계속 타석에 서는 방식의 끝less 아케이드 게임입니다.
+목표는 가능한 한 많은 점수를 내 개인 최고 기록을 갱신하는 것입니다.
 
-There are no other controls for moving, running, or fielding.
+**3. 느린 공에 자꾸 헛스윙합니다.**  
+빠른 직구 타이밍에 익숙해지면 느린 공에서 손이 먼저 나가 버리기 쉽습니다.
+의식적으로 "한 박자 더 늦게" 스윙한다고 생각하고, 실제로는 늦다고 느낄 때
+배트를 휘둘러 보세요.
 
-### Frequently Asked Questions (FAQ)
+**4. 타자를 직접 고를 수 있나요?**  
+플레이어 캐릭터는 자동으로 교체되며, 팀 내 캐릭터들은 외형만 다르고 능력
+차이는 없습니다.
 
-**1. How do I hit a home run?**
-A home run is achieved through perfect timing. You need to swing and make contact with the ball at the ideal moment, just as it crosses the home plate.
-
-**2. Is it possible to win the game?**
-*Doodle Baseball* is an endless arcade game. There is no final inning or opponent to "beat." The goal is not to win, but to score as many runs as you can before getting three outs and setting a new personal high score.
-
-**3. Why do I keep striking out on slow pitches?**
-This is the game's primary challenge. Your brain gets used to the timing of fastballs, so when a slow pitch comes, your instinct is to swing at the same speed. You must consciously force yourself to wait longer than you think you need to before swinging at a slow ball.
-
-**4. Can I choose my character or team?**
-No, the player characters (batters) cycle automatically as you play. They are all part of the same team and have no gameplay differences.
-
-**5. Does the game get harder?**
-Yes. As you score more runs, the opposing pitchers will begin to use a wider variety of pitches, including faster fastballs and trickier curveballs, making it more challenging to time your swings correctly.
-
+**5. 진행할수록 난이도가 올라가나요?**  
+네. 점수를 많이 낼수록 투수가 던지는 공의 속도와 구종이 더 다양해지고, 타이밍
+잡기가 점점 어려워집니다.

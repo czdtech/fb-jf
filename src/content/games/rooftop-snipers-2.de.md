@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: rooftop-snipers-2
-title: '[DE] Rooftop Snipers 2'
+title: "Rooftop Snipers 2"
 description: >-
-  [DE] Rooftop Snipers 2 is a hilarious physics-based shooting game where two
-  stick figures battle on rooftops, trying to knock each other off using various
-  weapons with unpredictable ragdoll physics.
+  Rooftop Snipers 2 ist ein physikbasiertes Duellspiel, in dem zwei Strichmännchen
+  auf Dächern kämpfen und mit abgedrehten Waffen versuchen, den Gegner von der
+  Plattform zu schießen.
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/rooftop-snipers-2.jpg
 tags:
@@ -17,35 +17,50 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Rooftop Snipers 2" ist ein herrlich chaotischer, physikbasierter Shooter.
+ Zwei Strichmännchen stehen sich auf Dächern gegenüber und versuchen, sich mit
+ verschiedensten Waffen gegenseitig vom Dach zu befördern. Durch die
+ Ragdoll-Physik verlaufen Schüsse und Rückstoß selten wie geplant – und genau
+ das sorgt für viele lustige Momente.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Schuss-Timing üben:** Warte auf den richtigen Moment, um zu feuern, und
+    versuche, Sprünge oder Bewegungsmuster deines Gegners vorauszuahnen.
+2.  **Rückstoß beachten:** Viele Waffen haben starken Rückstoß und können dich
+    selbst ins Wanken bringen. Nutze das zu deinem Vorteil oder kompensiere ihn
+    durch Gegenbewegung.
+3.  **Kanten meiden:** Bleibe nicht zu nah am Rand stehen – schon ein leichter
+    Treffer kann dich sonst in die Tiefe schicken.
+4.  **Waffen kennenlernen:** Jede Waffe schießt anders – mit anderer Feuerrate,
+    Streuung und Power. Übe mit allen, damit du in zufälligen Loadouts
+    vorbereitet bist.
+5.  **Mindgames:** Täusche Sprünge oder Rückzüge an, um Schüsse des Gegners zu
+    provozieren, und nutze dann seine Nachlade- oder Erholungsphase.
 
-"Rooftop Snipers 2" is a hilarious physics-based shooting game where two stick figures battle on rooftops, with the goal of using various weapons to knock opponents off the roof. The game features unpredictable ragdoll physics effects, making every battle full of surprises and fun.
+### Steuerung
 
-### Gameplay Strategy
+*   **Bewegen:** Mit Links/Rechts-Tasten bewegst du deine Figur.
+*   **Springen:** Eine Sprungtaste lässt dich hochspringen – ideal zum
+    Ausweichen oder um Schüsse aus ungewohnten Winkeln abzugeben.
+*   **Schießen:** Mit der Feuertaste gibst du einen Schuss ab – achte dabei auf
+    Zielrichtung und Rückstoß.
+*   **Waffenwechsel (je nach Modus):** In manchen Varianten rotieren Waffen
+    automatisch oder lassen sich aktiv wechseln.
 
-1.  **[DE]** **Master Shooting Timing**: Learn to fire at the right moments, predicting opponent movement patterns.
-2.  **[DE]** **Utilize Recoil**: Weapon recoil can affect character balance; learn to use or counteract these effects.
-3.  **[DE]** **Maintain Balance**: Be careful to maintain balance near roof edges, avoiding accidental falls.
-4.  **[DE]** **Weapon Selection**: Different weapons have different shooting characteristics; familiarize yourself with each weapon's pros and cons.
-5.  **[DE]** **Psychological Tactics**: Use feints and fake movements to confuse opponents and create shooting opportunities.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Movement**: Use left and right keys to control character movement.
-*   **[DE]** **Jump**: Use jump key to make character jump, useful for dodging or position adjustment.
-*   **[DE]** **Shoot**: Use shoot key to fire, paying attention to recoil effects after shooting.
-*   **[DE]** **Weapon Switch**: In some modes, you can switch between different weapons.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How do I avoid falling off the roof myself?**
-**A**: Control movement rhythm well, don't be too aggressive near edges, and pay attention to weapon recoil effects.
-2.  **[DE]** **Q: What are the differences between weapons?**
-**A**: Various weapons differ in fire rate, power, accuracy, and recoil; choose according to the situation.
-3.  **[DE]** **Q: Can I play multiplayer?**
-**A**: Yes, the game supports local multiplayer mode where two players can battle on the same device.
-4.  **[DE]** **Q: Are there different maps in the game?**
-**A**: The game typically provides multiple different rooftop scenarios, each with unique layouts and challenges.
+1.  **F: Wie verhindere ich, dass ich selbst vom Dach falle?**
+    **A:** Übertreibe Bewegungen und Schussserien nicht an der Kante. Achte
+    auf Rückstoß und halte dich möglichst in der Mitte der Plattform.
+2.  **F: Was unterscheidet die Waffen?**
+    **A:** Reichweite, Genauigkeit, Rückstoß und Feuerrate variieren stark.
+    Probiere alle aus, um zu wissen, welche Taktik jeweils am besten passt.
+3.  **F: Gibt es einen lokalen Mehrspielermodus?**
+    **A:** Ja, Rooftop Snipers 2 lässt sich meist zu zweit an einem Gerät
+    spielen – perfekt für schnelle Duelle.
+4.  **F: Gibt es unterschiedliche Karten?**
+    **A:** In der Regel ja – verschiedene Dachlandschaften bieten unterschiedliche
+    Plattformgrößen, Höhen und Hindernisse.

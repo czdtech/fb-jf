@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: make-it-meme
-title: '[KO] Make It Meme'
+title: "Make It Meme 메이크 잇 밈"
 description: >-
-  [KO] Make It Meme is a multiplayer online party game where players compete by
-  creating and rating memes.
+  Make It Meme는 플레이어들이 밈 이미지를 보고 제한 시간 안에 자막을 붙인 뒤 서로
+  평가해 승자를 가리는 온라인 멀티플레이 파티 게임입니다.
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/make-it-meme.jpg
 tags:
@@ -17,31 +17,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Make It Meme*는 Prealpha가 개발한 멀티플레이 온라인 파티 게임으로, 각자 밈 이미지를
+보고 재치 있는 자막을 붙인 뒤 서로의 작품을 평가하며 경쟁하는 방식으로 진행됩니다.
+라운드마다 다양한 밈 템플릿이 주어지며, 제한 시간 안에 가장 웃기고 인상적인 한 줄을
+만드는 것이 핵심입니다. 이후 모든 플레이어가 서로의 밈을 평가하고, 가장 높은 점수를
+획득한 사람이 해당 라운드의 승자가 됩니다.
 
-### Game Introduction
+### 플레이 전략
 
-Make It Meme is a multiplayer online party game developed by Prealpha, where players compete by creating and rating memes. The game offers a variety of meme templates, and players need to add humorous captions within a limited time to create unique memes. Afterward, all players rate each other's creations, and the player with the highest score wins. The game supports real-time multiplayer online mode, making it suitable for gatherings with friends.
+1. **모드 선택:** 게임에 접속한 뒤 공개 방에 참여하거나, 친구들과만 즐기고 싶다면
+   비공개 방을 생성해 초대 코드를 공유하세요.
+2. **밈 제작:** 각 라운드 시작 시 시스템이 밈 템플릿을 한 장 보여 줍니다. 제한 시간
+   안에 상황에 어울리는 자막을 입력해 자신만의 밈을 완성해야 합니다.
+3. **평가 단계:** 모든 플레이어가 밈 제작을 마치면 평가 단계로 넘어갑니다. 다른
+   플레이어들의 작품을 하나씩 살펴보며, 보통 1점에서 5점 사이에서 점수를 매기게
+   됩니다.
+4. **결과 발표:** 모든 평가가 끝나면 시스템이 각 플레이어의 총점을 계산해 순위를
+   발표합니다. 가장 높은 점수를 받은 플레이어가 승리합니다.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Choose Mode:** After entering the game, players can choose to join a public room or create a private room to play with friends.
-2.  **[KO]** **Create Memes:** At the beginning of each round, the system provides a meme template. Players need to add captions within the specified time to create humorous memes.
-3.  **[KO]** **Rating Phase:** After all players have completed their memes, the game enters the rating phase. Players rate each other's creations, usually on a scale from 1 to 5.
-4.  **[KO]** **Results Announcement:** After all ratings are completed, the system calculates the total score for each player and announces the rankings. The player with the highest score wins.
+* **방 만들기:** "Create Room" 버튼을 눌러 방 이름과 최대 인원을 설정한 뒤, 생성된
+  초대 코드를 친구들과 공유하세요.
+* **방 참가하기:** 친구에게 받은 방 코드를 입력하고 "Join Room" 버튼을 눌러 게임에
+  참여합니다.
+* **밈 만들기:** 편집 화면에서 텍스트 입력 칸을 클릭해 자막을 입력한 뒤, 완료되면
+  "Submit" 버튼을 눌러 제출합니다.
+* **작품 평가:** 평가 화면에서 다른 플레이어들의 밈을 차례로 보며 점수를 선택하고,
+  "Submit" 버튼으로 평가를 확정합니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Create Room:** Click the "Create Room" button, set the room name and maximum number of players, then share the room code with friends.
-*   **[KO]** **Join Room:** Enter the room code provided by a friend, then click the "Join Room" button to participate in the game.
-*   **[KO]** **Create Memes:** In the editing interface, click the text box to enter captions, then click the "Submit" button when finished.
-*   **[KO]** **Rate Creations:** In the rating interface, browse other players' creations, select the appropriate rating, and click the "Submit" button.
+1. **Q: 친구를 어떻게 초대하나요?**  
+   **A:** 비공개 방을 만든 뒤, 생성된 방 코드를 친구에게 공유하면 됩니다. 친구는 해당
+   코드를 입력해 같은 방에 들어올 수 있습니다.
 
-### Frequently Asked Questions
+2. **Q: 동시에 몇 명까지 플레이할 수 있나요?**  
+   **A:** 방 설정에 따라 다르지만, 일반적으로 3~12명 정도까지 한 방에서 함께 플레이할
+   수 있습니다.
 
-1.  **[KO]** **Q: How to invite friends to play together?**
-**A**: After creating a private room, share the room code with friends, and they can join by entering the code.
-2.  **[KO]** **Q: How many players can play simultaneously?**
-**A**: The game supports multiple players online simultaneously, with the specific number depending on room settings, usually ranging from 3 to 12 players.
-3.  **[KO]** **Q: Is there a reporting feature in the game?**
-**A**: If you encounter inappropriate content in the game, you can use the report function or leave the current room and join another one.
+3. **Q: 게임 안에 신고 기능이 있나요?**  
+   **A:** 부적절한 밈이나 닉네임을 발견했다면 제공되는 신고 기능을 이용하거나, 현재 방을
+   나간 뒤 다른 방에 참여하는 방법도 있습니다.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: uncle-ahmed
-title: '[ES] Uncle Ahmed'
+title: Uncle Ahmed - Aventura de plataformas clásica
 description: >-
-  [ES] Embark on a classic 2D platforming adventure with Uncle Ahmed! Jump on
-  enemies, collect coins, and use power-ups to rescue your nephew from a dark
-  sorcerer.
+  Vive una aventura de plataformas 2D al estilo clásico con Uncle Ahmed. Salta
+  sobre enemigos, recoge monedas y usa potenciadores para rescatar a tu sobrino
+  de las garras de un oscuro hechicero.
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/uncle-ahmed.jpg
@@ -17,34 +17,37 @@ score: 4.2/5  (1950 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-
-
-
 ### Detailed Game Introduction
 
-Uncle Ahmed is a classic 2D side-scrolling platformer that will evoke nostalgia for games like Super Mario Bros. Players take on the role of the heroic Uncle Ahmed on a quest to rescue his nephew, who has been kidnapped by an evil sorcerer. You will journey through dozens of levels filled with various enemies, tricky obstacles, and helpful power-ups. The goal is to reach the end of each stage, defeat the sorcerer, and save the day.
+Uncle Ahmed es un plataformas 2D de desplazamiento lateral que despierta la nostalgia de clásicos como Super Mario Bros. Controlas al heroico tío Ahmed en su misión para rescatar a su sobrino, secuestrado por un hechicero malvado. Viajarás por decenas de niveles repletos de enemigos, trampas y potenciadores útiles. El objetivo es llegar al final de cada fase, derrotar al hechicero y salvar el día.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** **Master the Jump:** Your most important skill is jumping. Use it to stomp on enemies to defeat them, break blocks to find coins and power-ups, and navigate over dangerous pits and spikes.
-2.  **[ES]** **Collect Everything:** Grab all the coins you see. These can often be used to purchase extra lives, allowing you to continue if you make a mistake. Also, be sure to grab any power-ups you find.
-3.  **[ES]** **Know Your Power-ups:** Power-ups are essential for survival. A watermelon might allow you to throw projectiles, while a hot pepper could grant you a temporary speed boost. Use them wisely to clear out difficult sections.
-4.  **[ES]** **Explore for Secrets:** Don't just run straight to the finish line. Some levels contain hidden areas or secret blocks that hold extra lives or valuable power-ups. Exploration is often rewarded.
+1.  Domina el salto: tu habilidad principal es saltar. Úsalo para pisar a los enemigos y derrotarlos, romper bloques para encontrar monedas y power‑ups, y superar fosos y pinchos.
+2.  Recoge todo lo que veas: las monedas suelen servir para conseguir vidas extra, y los potenciadores te facilitan el avance. No dejes pasar sandías, pimientos u otros ítems especiales.
+3.  Conoce tus power‑ups: algunos te permiten lanzar proyectiles, otros aumentan tu velocidad o resistencia. Guarda los más potentes para las secciones más complicadas y para los jefes.
+4.  Explora en busca de secretos: muchos niveles esconden zonas ocultas o bloques invisibles con vidas y power‑ups. No tengas prisa por llegar a la meta, explora cada rincón.
 
 ### Controls Guide
 
-*   **[ES]** **Move:** Use the **Left and Right Arrow Keys** or on-screen buttons to move Uncle Ahmed.
-*   **[ES]** **Jump:** Press the **Up Arrow Key** or the dedicated jump button.
-*   **[ES]** **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
+*   **Moverse:** usa las flechas `Izquierda` y `Derecha` o los botones en pantalla para desplazar a Ahmed.
+*   **Saltar:** pulsa la flecha `Arriba` o el botón de salto.
+*   **Disparar:** si tienes un power‑up de proyectiles, normalmente aparecerá un botón extra para lanzar ataques a distancia.
 
 ### Frequently Asked Questions (FAQ)
 
-*   **[ES]** **Q: How do I defeat the enemies?**
-    *   **[ES]** **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
+*   **Q: ¿Cómo derroto a los enemigos?**  
+    **A:** La forma más habitual es saltar sobre sus cabezas. Si cuentas con un power‑up ofensivo, también puedes atacar desde lejos con proyectiles.
 
-*   **[ES]** **Q: What happens if I lose all my lives?**
-    *   **[ES]** **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
+    - **Q: Qué pasa si pierdo todas mis vidas?**  
+    **A:** Tendrás que empezar la fase de nuevo (o desde el último punto de control, si el nivel lo tiene).
 
-*   **[ES]** **Q: How do I beat the final boss?**
-    *   **[ES]** **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
+*   **Q: Cómo venzo al jefe final?**  
+
+    - **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
+
+- **Q: How do I beat the final boss?**
+
+    - **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
+    **A:** Cada jefe tiene patrones de ataque concretos. Observa sus movimientos, esquiva sus golpes y aprovecha las ventanas de vulnerabilidad para saltar sobre él o golpearlo con proyectiles.
 

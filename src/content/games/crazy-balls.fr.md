@@ -1,50 +1,66 @@
 ---
 locale: fr
 urlstr: crazy-balls
-title: '[FR] Crazy Balls'
-description: >-
-  [FR] Crazy Balls is a physics arcade — bounce, bank, and blast through
-  obstacle mazes with controlled shots.
-iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
+title: Crazy Balls
+description: "Crazy Balls est un jeu d’arcade chaotique avec des balles rebondissantes\_: vise, tire et provoque des réactions en chaîne pour nettoyer l’écran."
+iframeSrc: 'https://g2.forcegame.ru/game/15/FG2232_2/crazy_balls.html'
 thumbnail: /new-images/crazy-balls.png
 tags:
   - action
   - casual
-score: 3.8/5  (1617 votes)
+score: 3.9/5  (1500 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Crazy Balls te place face à un champ rempli de balles et de blocs à détruire.
+En fonction de la version, tu dois soit lancer des projectiles qui ricochent
+partout, soit contrôler directement une balle qui rebondit sur les murs et
+obstacles.
 
-Crazy Balls challenges you to send balls through obstacle‑filled stages, leveraging ricochets, bumpers, and moving elements. Precision angles and controlled power separate clean clears from chaotic misses.
+Le but est de provoquer un maximum de collisions pour faire disparaître toutes
+les cibles avant d’être submergé ou à court de tirs.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Use side walls to bend trajectories into tight corridors.
-2.  **[FR]** Favor medium power for consistency; max power increases chaos.
-3.  **[FR]** Wait a beat for moving obstacles to create openings.
-4.  **[FR]** Learn rebound distances to plan multi‑bank routes.
-5.  **[FR]** Reset quickly after bad lines to preserve time.
+1.  **Anticipe les rebonds**  
+    Les trajectoires sont souvent prévisibles : vise les murs pour atteindre
+    des zones difficiles ou pour multiplier les impacts.
+2.  **Privilégie les tirs qui touchent plusieurs cibles**  
+    Évite les tirs qui ne détruisent qu’un seul bloc. Cherche les angles qui
+    permettent de balayer une ligne ou un groupe.
+3.  **Gère les balles supplémentaires**  
+    Si tu peux débloquer de nouvelles balles ou projectiles, essaie de les
+    récupérer en priorité pour augmenter ton potentiel de dégâts par tour.
+4.  **Reste calme quand l’écran est chargé**  
+    Quand il y a beaucoup de balles en mouvement, concentre‑toi sur l’objectif
+    principal : les blocs critiques qui approchent du bas de l’écran.
+5.  **Répète les niveaux difficiles**  
+    Certains patterns demandent plusieurs essais pour trouver l’angle parfait.
 
-### Controls Guide
+### Commandes
 
-- Drag to aim and set power; release to shoot.
-- Restart via UI when needed.
+- **Viser / Tirer** : clique et fais glisser pour choisir l’angle, puis relâche
+  pour lancer les balles (ou utilise les touches indiquées si tu contrôles
+  directement la balle).  
+- **Pause / Rejouer** : utilise l’interface pour mettre en pause ou relancer un
+  niveau.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
+
 
 - Q: Shots feel random — how to control?
-
-A: Lower power, use simpler angles, and learn consistent bank points on walls.
+**Q : Le jeu est‑il infini ?**  
 
 - Q: Are there power‑ups?
-
-A: Some modes include multiplies or slow‑mo; save for tricky sections.
+R : Certaines versions enchaînent les niveaux sans fin, d’autres ont un nombre
 
 - Q: Timed levels?
+fixe d’étapes.
 
-A: If timed, prioritize safe progress over risky trick shots.
-
+**Q : Comment gérer les niveaux avec très peu d’espace ?**  
+R : Vise des angles très serrés le long des murs pour faire remonter les balles
+et dégager les blocs du bas avant qu’ils n’atteignent la ligne fatidique.

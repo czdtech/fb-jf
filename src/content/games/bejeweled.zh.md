@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: bejeweled
-title: '[ZH TRANSLATION NEEDED] Bejeweled - Play Bejeweled Online'
+title: Bejeweled 宝石迷阵
 description: >-
-  [ZH TRANSLATION NEEDED] Bejeweled simple yet highly addictive gameplay loop
-  made it a pioneer of the
+  《Bejeweled 宝石迷阵》是三消类休闲游戏的开山之作，交换相邻宝石，连成三颗或以上即可消除，触发连锁反应
+  和特殊宝石，体验极易上手却高度上瘾的消除节奏。
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /bejeweled.png
 tags:
@@ -12,35 +12,41 @@ tags:
 score: 4.8/5  (654 votes)
 ---
 
-[ZH TRANSLATION NEEDED] *Bejeweled* is a legendary tile-matching puzzle video game. The objective is to swap two adjacent gems to form a horizontal or vertical line of three or more gems of the same color. When a match is made, the gems disappear, and new gems fall from the top to fill the empty spaces, potentially creating chain reactions called cascades. Its simple yet highly addictive gameplay loop made it a pioneer of the "match-three" genre and one of the most successful casual games of all time. 
- 
-### How to Play Bejeweled Game
- 
-- **The Core Action:** The only action you can take is swapping two adjacent gems, either horizontally or vertically. A swap is only valid if it results in at least one match of three or more gems. 
-- **Basic Matching:** The primary goal is to create lines of three identical gems. These gems are then cleared from the board, and you earn points. 
-  **Special Gems:** Creating matches of more than three gems creates powerful special gems. These are key to getting high scores: 
-- **Flame Gem:** Created by matching four gems in a row. When this gem is matched, it explodes, destroying the eight gems surrounding it.
-- **Hyper Cube:** Created by matching five gems in a row. Swap this gem with any adjacent gem, and it will destroy all gems of that color on the board.
-- **Star Gem / Lightning Gem:** Created by matching gems in an "L" or "T" shape (in later versions). When matched, it destroys its entire row and column.
- 
-   **Game Modes:** Bejeweled games typically feature several modes. The most common are: 
-- **Classic Mode:** An untimed mode where you play until there are no more possible moves left on the board.
-- **Action/Blitz Mode:** A fast-paced, timed mode (often 60 seconds) where the goal is to score as many points as possible before time runs out.
- 
-  
- 
-### Strategy and Tips
- 
-- **Look for Bigger Matches:** Don't just settle for matches of three. Actively scan the board for opportunities to create matches of four or five to generate powerful special gems. 
-- **Work from the Bottom:** Making matches near the bottom of the board is generally a good strategy. This causes more gems to shift from the top, increasing the chances of creating automatic chain reactions (cascades). 
-- **Use Special Gems Wisely:** Don't use a special gem on the first opportunity. Save Hyper Cubes for a moment when the board is filled with a specific color, or use Flame Gems to clear out difficult-to-reach areas. 
-- **Don't Rush (in Classic Mode):** In untimed modes, take your time to analyze the entire board before making a move. Most versions have a "Hint" button if you get stuck. 
- 
- 
-### Frequently Asked Questions (FAQ)
- 
-  **Q: Is Bejeweled free to play?**  **A:** It varies. The original classic versions (like *Bejeweled 2* or *3*) are typically paid games. However, modern versions like *Bejeweled Blitz* or *Bejeweled Stars* on mobile are free-to-play but include in-app purchases and advertisements. 
- 
-  **Q: What happens when there are "No More Moves"?**  **A:** In Classic Mode, if the board reaches a state where no possible swaps can create a match, the game ends. In some versions, the game might automatically reshuffle the board for you. 
- 
-  **Q: What is the difference between Bejeweled Classic and Bejeweled Blitz?**  **A:** Bejeweled Classic is a slower, more strategic, and untimed puzzle experience. Bejeweled Blitz is a fast-paced, 60-second competition where the goal is to get the highest score possible, often competing with friends on social media.
+*Bejeweled* 是一款经典的宝石三消益智游戏。你的目标是交换两个相邻的宝石，让它们在横向或纵向形成一条至少由三颗同色宝石组成的直线。一旦连成线，这些宝石就会被消除，上方新的宝石会掉落填补空位，并有机会继续形成新的连锁消除（cascade）。  
+正是这种“规则简单、节奏上瘾”的循环，让 *Bejeweled* 成为三消类型的开拓者与最成功的休闲游戏之一。
+
+### 如何游玩 Bejeweled
+
+- **核心操作：**  
+  你唯一能做的事情，就是交换两颗水平或垂直相邻的宝石。只有当这次交换能立刻形成至少一条三消组合时，这个操作才是合法的。
+
+- **基础消除：**  
+  首要目标是制造三连。同色宝石排成一条横线或竖线时，会被清除并获得积分。
+
+**特殊宝石：** 超过三连时，会生成强力的特殊宝石，这是冲击高分的关键：
+
+- **Flame Gem（火焰宝石）：** 由四连产生，被消除时会爆炸，摧毁周围 8 个格子的宝石。
+- **Hyper Cube（超级立方）：** 由五连产生。把它与任意一种颜色的宝石交换，会清除全盘所有该颜色宝石。
+- **Star / Lightning Gem（十字 / 闪电宝石）：** 由“L 形”或“T 形”等特殊形状组合产生（在部分版本中）。被激活时会清除整行与整列的宝石。
+
+**游戏模式：** 不同版本的 *Bejeweled* 会提供多种模式，常见的包括：
+- **Classic 经典模式：** 没有时间限制，一直玩到棋盘上再也没有可移动的三消为止。
+- **Action / Blitz 模式：** 节奏极快的计时模式（经常是 60 秒），在有限时间内尽可能刷出最高分。
+
+### 策略与进阶技巧
+
+-  **优先寻找更大的消除：** 不要只满足于三连。时刻留意是否有机会做四连或五连，创造特殊宝石，才是高分的关键。
+-  **多在底部动手：** 在棋盘下方做消除，往往会带动上方更多宝石下落，更容易自然触发连锁。与其在顶部“小修小补”，不如在底部制造一次大规模的棋盘重排。
+-  **聪明使用特殊宝石：** 不要一生成就立刻使用。比如 Hyper Cube 更适合在场上某种颜色很多时再触发；火焰宝石可以留到局部难以清除、或有箱子/障碍物的地方再引爆。
+-  **经典模式中不要着急：** Classic 没有时间压力，可以慢慢观察全盘局势，再行动。大多数版本还提供“Hint 提示”，在实在找不到可动位置时可以求助，但频繁依赖会影响你训练观察能力。
+
+### 常见问题解答（FAQ）
+
+**Q: Bejeweled 是免费游戏吗？**  
+**A:** 视版本而定。早期的经典 PC 版（例如 *Bejeweled 2*、*Bejeweled 3*）多为买断制；后来的移动版（如 *Bejeweled Blitz*、*Bejeweled Stars*）通常可免费下载，结合广告或内购盈利。
+
+**Q: 棋盘出现 “No More Moves”（无可用移动） 时会怎样？**  
+**A:** 在经典模式中，如果棋盘再也没有任何合法交换可以形成三消，游戏会直接结束。部分版本会自动洗牌，让你继续游戏。
+
+**Q: Bejeweled Classic 与 Bejeweled Blitz 有何区别？**  
+**A:** *Bejeweled Classic* 节奏较慢、注重布局，没有严苛时间限制；而 *Bejeweled Blitz* 是 60 秒极限冲分模式，强调连锁爆发、排名竞争，节奏更紧张。

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: ludo-legend
-title: '[ES] Ludo Legend'
+title: "Ludo Legend - Clásico juego de mesa"
 description: >-
-  [ES] Become a Ludo Legend in this classic board game. Roll the dice, move your
-  tokens, and race to the center of the board before your opponents.
+  Conviértete en una leyenda del Ludo en este clásico juego de mesa digital.
+  Lanza el dado, mueve tus fichas y corre hacia el centro del tablero antes que
+  tus oponentes.
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/ludo-legend.png
 tags:
@@ -17,33 +18,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Ludo Legend es una fantástica versión digital del querido juego de mesa clásico
+Ludo. La partida es una carrera hasta la meta. Cada jugador tiene cuatro fichas
+y el objetivo es sacarlas de la base, dar toda la vuelta al tablero y llevarlas
+hasta la columna y el triángulo final de casa. Juega contra oponentes
+controlados por la máquina, lanza el dado y usa la estrategia para capturar las
+fichas de tus rivales y devolverlas a su base. ¡Conviértete en una leyenda del
+Ludo siendo el primero en llevar a casa las cuatro fichas!
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Ludo Legend is a fantastic digital version of the beloved classic board game, Ludo. The game is a race to the finish! Each player has four tokens and the goal is to get all of them from the starting yard, around the entire board, and into the home column. Play against computer opponents, roll the dice, and use strategy to capture your opponents' tokens and send them back to the start. Become a Ludo Legend by being the first to get all your tokens home!
+1.  **Salir de la base:** necesitas sacar un seis para mover una ficha desde tu
+    base hasta el tablero. Prioriza conseguir al menos una ficha en juego lo
+    antes posible.
+2.  **Movimiento estratégico:** cuando tengas varias fichas en el tablero,
+    elige cuál mover según el resultado del dado. Suele ser buena idea tener
+    varias fichas activas para disponer de más opciones.
+3.  **Capturar oponentes:** si caes en una casilla ocupada por una sola ficha
+    rival, la capturas y la devuelves a su base. Es una forma clave de retrasar
+    a la competencia.
+4.  **Seguridad en grupo:** si colocas dos fichas propias en la misma casilla
+    creas un bloqueo. Los oponentes no pueden pasar, lo que lo convierte en una
+    poderosa herramienta defensiva.
+5.  **Recta final:** para ganar, tienes que mover tus cuatro fichas hasta tu
+    columna de llegada del color correspondiente y luego al triángulo final de
+    casa. Necesitas una tirada exacta para entrar en la casilla final.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Getting Out of the Yard:** You must roll a six to move a token from your starting yard onto the game board. Prioritize getting at least one token into play as soon as possible.
-2.  **[ES]** **Strategic Movement:** Once you have tokens on the board, you can choose which one to move based on your dice roll. It's often wise to have multiple tokens in play to give you more options.
-3.  **[ES]** **Capturing Opponents:** If you land on a square occupied by a single opponent's token, you capture it and send it back to their yard. This is a key way to set back your competition.
-4.  **[ES]** **Safety in Numbers:** Landing two of your own tokens on the same space creates a block. Opponents cannot pass a block, making it a powerful defensive strategy.
-5.  **[ES]** **The Home Stretch:** To win, you must move all four of your tokens into your colored home column and then into the final home triangle. You need an exact dice roll to move a token into the home triangle.
+*   **Lanzar dado:** haz clic en el dado para tirarlo.
+*   **Mover ficha:** después de tirar, el juego resaltará tus movimientos
+    posibles. Haz clic en la ficha que quieras mover.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Roll Dice:** Click on the dice to roll it.
-*   **[ES]** **Move Token:** After rolling, the game will highlight your possible moves. Click on the token you wish to move.
+*   **P: ¿Cuál es el objetivo de Ludo?**
+    *   **R:** Ser el primer jugador en llevar las cuatro fichas desde la base
+        de salida hasta el triángulo final de casa.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué pasa cuando saco un seis?**
+    *   **R:** Tirar un seis te da dos ventajas: puedes sacar una ficha de la
+        base al tablero y además obtienes una tirada extra.
 
-*   **[ES]** **Q: What is the objective of Ludo?**
-    *   **[ES]** **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.
-
-*   **[ES]** **Q: What happens when I roll a six?**
-    *   **[ES]** **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
-
-*   **[ES]** **Q: Can I pass my own tokens?**
-    *   **[ES]** **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
-
+*   **P: ¿Puedo pasar por encima de mis propias fichas?**
+    *   **R:** Sí, puedes pasar por tus propias fichas. Sin embargo, si tienes
+        dos fichas en la misma casilla formando un bloqueo, ni siquiera tú
+        mismo podrás colocar una tercera ficha en ese punto.

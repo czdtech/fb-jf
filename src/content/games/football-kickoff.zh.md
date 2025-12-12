@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: football-kickoff
-title: '[ZH TRANSLATION NEEDED] Football Kickoff'
+title: "Football Kickoff 美式足球開球練習"
 description: >-
-  [ZH TRANSLATION NEEDED] Football Kickoff spotlights special teams — aim kicks,
-  read wind, and nail field position with smart power control.
+  Football Kickoff 聚焦於美式足球中的特勤組踢球場景——瞄準目標、判讀風向、
+  控制力量與落點，爭取最佳場地位置。
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/football-kickoff.jpg
 tags:
@@ -18,30 +18,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Football Kickoff focuses on American‑football kicking scenarios: placekick field goals, directional kickoffs, and occasional punts. Wind, snap timing, and laces matter; clean timing on the power meter and correct aim decide distance and accuracy.
+《Football Kickoff》專注呈現美式足球比賽中與踢球相關的環節：
+包括射門得分（Field Goal）、定位開球（Kickoff），以及偶爾出現的棄踢（Punt）。
+你需要考慮風向風力、開球節奏與球鞋方向等細節，透過準確掌握力量條與瞄準角度，
+決定每一次踢球的距離與精準度。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Wind read: Offset aim into the wind; stronger winds require larger compensation.
-2.  [ZH TRANSLATION NEEDED] Power timing: Stop near the sweet spot; over‑powering increases hook/slice risk.
-3.  [ZH TRANSLATION NEEDED] Trajectory: For long kicks, add arc; for short accuracy, lower arc reduces drift.
-4.  [ZH TRANSLATION NEEDED] Kickoff placement: Target corners to limit returns; vary depth to force poor field position.
-5.  [ZH TRANSLATION NEEDED] Punts: Aim for coffin corner and hang time to allow coverage.
+
+1.  **讀風向：** 開球前先觀察風向與風力，瞄準時要適度「頂風」或「順風」微調，
+    風越大需要的補償角度越明顯。
+2.  **掌握力度節奏：** 力量條不一定要打滿，略低於滿格的「甜蜜點」通常更穩定，
+    過度用力容易造成球明顯內旋或外旋。
+3.  **調整軌跡：** 遠距離射門需要較高拋物線以增加飛行距離；
+    近距離則可選擇較低軌跡減少受風影響，提升命中率。
+4.  **開球落點：** 目標是把球踢向場地角落，限制回攻球員的路線；
+    偶爾改變球落點深度，逼迫對手在不利位置開啟進攻。
+5.  **棄踢策略：** 棄踢時可瞄準邊線附近的「棺材角」（coffin corner），
+    或踢出高吊球爭取隊友下場包夾的時間。
 
 ### Controls Guide
 
-- Aim with mouse/keys; set power with a meter; release on the accuracy zone.
+- 使用滑鼠或方向鍵調整瞄準方向；
+- 透過力量條設定踢球力度，在光標回到準心區域時按下鍵放球，
+  命中準心越精準，球路越穩定。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: Why do my kicks hook hard?
-  
-[ZH TRANSLATION NEEDED]   A: You’re slamming max power or mis‑timing accuracy. Reduce power slightly and hit the accuracy zone cleanly.
+- 問：為什麼球老是大幅內旋或外旋？  
+  答：通常是你長期全力打滿力量，或在準心區域按鍵過早／過晚。
+  試著略微降一點力量，並專注於在準心中段按下。
 
-- Q: How to kick farther?
-  
-[ZH TRANSLATION NEEDED]   A: Hit near‑max power with a high arc, but ensure accuracy timing to avoid drift.
+- 問：要怎麼踢得更遠？  
+  答：在接近滿格的位置停下力量條，同時選擇較高的球路，
+  但仍須至少命中準心附近，避免因偏差過大導致飛行軌跡嚴重偏移。
 
-- Q: Best kickoff strategy?
-  
-[ZH TRANSLATION NEEDED]   A: Corner deep kicks with hang time to force returns toward the sideline.
-
+- 問：開球時有推薦戰術嗎？  
+  答：一般會選擇帶有 hang time 的深遠角落球，讓回攻球員被迫向邊線移動，
+  並給隊友足夠時間形成防守包夾。

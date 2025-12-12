@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: panda-pizza-parlor
-title: '[DE] Panda Pizza Parlor'
+title: Panda Pizza Parlor
 description: >-
-  [DE] Step into the Panda Pizza Parlor and serve up delicious pizzas to hungry
-  customers! Manage your time, get the orders right, and build a pizza empire.
+  Willkommen im Panda Pizza Parlor! Bereite leckere Pizzen für hungrige Gäste
+  zu, triff die Bestellungen exakt und manage deine Zeit, um aus deiner kleinen
+  Pizzeria ein Pizza-Imperium zu machen.
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
 thumbnail: /new-images/panda-pizza-parlor.png
 tags:
@@ -16,35 +17,60 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
+ Kochspiel, in dem du deine eigene Pizzeria leitest. Als Panda-Chef nimmst du
+ Bestellungen auf, belegst Pizzen mit den richtigen Zutaten, backst sie
+ goldbraun und servierst sie an eine bunte Kundschaft aus hungrigen Tieren.
+ Wer gut plant und die Zeit im Auge behält, macht seine Gäste glücklich,
+ verdient ordentlich Geld und lässt den kleinen Laden Schritt für Schritt zu
+ einer weltberühmten Pizzeria wachsen.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Welcome to Panda Pizza Parlor, a charming and fast-paced cooking game where you run your very own pizza shop! As the head panda chef, your job is to take orders, prepare delicious pizzas with the correct toppings, bake them to perfection, and serve them to a variety of hungry animal customers. Manage your time effectively to keep your customers happy, earn money, and grow your pizza business from a humble parlor into a world-famous pizzeria.
+1.  **Bestellung prüfen:** Sobald ein Gast erscheint, schau in die Sprechblase
+    über seinem Kopf, um zu sehen, welche Pizza er möchte. Achte genau auf
+    Sauce und Belag.
+2.  **Pizza zubereiten:** Nimm einen Teig, verteile Tomatensoße und füge dann
+    genau die Zutaten hinzu, die der Kunde bestellt hat.
+3.  **Richtig backen:** Schiebe die Pizza in den Ofen und behalte den Timer im
+    Blick. Ist sie zu roh oder verbrannt, sinkt die Laune deiner Kunden.
+4.  **Schnell servieren:** Hole die fertige Pizza rechtzeitig aus dem Ofen und
+    bringe sie rasch zum wartenden Gast. Je schneller du servierst, desto höher
+    fallen Trinkgeld und Zufriedenheit aus.
+5.  **Mehrere Bestellungen managen:** Mit steigender Stufe wirst du immer mehr
+    Gäste gleichzeitig bedienen. Entwickle einen Ablauf, mit dem du mehrere
+    Pizzen parallel vorbereiten kannst.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Check the Order:** As soon as a customer arrives, look at the bubble above their head to see what kind of pizza they want. Pay close attention to the toppings.
-2.  **[DE]** **Prepare the Pizza:** Start by grabbing a dough ball. Add the tomato sauce, and then apply the specific toppings the customer requested.
-3.  **[DE]** **Bake to Perfection:** Place the pizza in the oven. Keep an eye on the timer! An undercooked or burnt pizza will make your customers unhappy.
-4.  **[DE]** **Serve Quickly:** Once the pizza is perfectly baked, take it out and serve it to the waiting customer. The faster you serve, the better your tip and the happier the customer.
-5.  **[DE]** **Manage Multiple Orders:** As you progress, you will have to juggle multiple orders at once. Create a workflow that allows you to prepare several pizzas simultaneously to keep up with the demand.
+*   **Point & Click:** Du spielst ausschließlich mit der Maus.
+*   **Zutaten auswählen:** Klicke auf Teig, Soße und Beläge, um sie auf die
+    Pizza zu legen.
+*   **Ofen bedienen:** Klicke auf den Ofen, um die Pizza hinein- oder
+    herauszunehmen.
+*   **Servieren:** Klicke auf die fertige Pizza und dann auf den jeweiligen
+    Kunden, um ihm das Gericht zu bringen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Point and Click:** The game is played entirely with the mouse.
-*   **[DE]** **Select Ingredients:** Click on the dough, sauce, and toppings to add them to the pizza.
-*   **[DE]** **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
-*   **[DE]** **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
+*   **F: Was passiert, wenn ich eine Bestellung falsch mache?**
+    **A:** Benutzt du den falschen Belag oder verbrennst die Pizza, wird der
+    Gast verärgert und verlässt den Laden. Du bekommst dann kein Geld für diese
+    Bestellung.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Wie kann ich Gäste schneller bedienen?**
+    **A:** Versuche, häufig bestellte Basis-Pizzen in ruhigeren Phasen
+    vorzubereiten. Mit etwas Übung kannst du mehrere Pizzen parallel im Blick
+    behalten.
 
-*   **[DE]** **Q: What happens if I get an order wrong?**
-    *   **[DE]** **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.
+*   **F: Gibt es Upgrades im Spiel?**
 
-*   **[DE]** **Q: How can I serve customers faster?**
-    *   **[DE]** **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
+    - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
 
-*   **[DE]** **Q: Are there upgrades in the game?**
-    *   **[DE]** **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
+- **Q: Are there upgrades in the game?**
 
+    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
+    **A:** Mit fortschreitenden Leveln schaltest du neue Beläge und
+    Menüvarianten frei, was das Spiel komplexer und abwechslungsreicher macht.

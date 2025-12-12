@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: zoo-boom
-title: '[KO] Zoo Boom'
+title: Zoo Boom 주 붐
 description: >-
-  [KO] Welcome to Zoo Boom! A colorful and exciting match-2 puzzle game where
-  you tap to blast blocks of adorable zoo animals and complete challenging
-  levels.
+  귀여운 동물 블록을 터뜨리며 목표를 달성하는 매치2 퍼즐 게임입니다. 같은 동물이 두 개 이상 붙어 있는 그룹을 탭해 없애고, 강력한
+  부스터로 연쇄 폭발을 일으켜 높은 점수와 별을 모아 보세요.
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/zoo-boom.png
 tags:
@@ -17,32 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Zoo Boom은 알록달록한 동물 블록을 두 개 이상 모여 있는 그룹 단위로 터뜨리며, 각 스테이지의 목표를
+달성하는 매치2 퍼즐 게임입니다. 때로는 특정 동물 블록을 지정 수만큼 모아야 하고, 때로는 장애물을
+치워야 하거나 제한된 횟수 안에 목표 점수를 달성해야 할 수도 있습니다.
 
-### Detailed Game Introduction
+큰 그룹을 한 번에 터뜨리면 점수가 크게 오르고, 로켓·폭탄 같은 부스터가 생성되어 연쇄 반응을
+일으킬 수 있습니다.
 
-Zoo Boom is a vibrant and engaging match-2 puzzle game that takes you on an exciting adventure through a colorful zoo. Your mission is to tap and blast groups of two or more identical animal blocks to clear them from the board. Each level presents unique challenges and objectives, such as collecting a certain number of specific animals, clearing obstacles, or reaching a target score within a limited number of moves. Unleash powerful boosters by matching larger groups of animals to create spectacular chain reactions and achieve high scores.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **큰 그룹 위주로 터뜨리기**: 동물 블록이 두 개만 붙어 있어도 지울 수 있지만, 세 개 이상 큰
+    그룹을 터뜨릴 때 점수와 부스터 효율이 훨씬 좋습니다. 가능한 한 큰 덩어리가 될 때까지 기다렸다가
+    한 번에 없애 보세요.
+2.  **부스터 생성과 활용**: 5개 이상을 한 번에 터뜨리면 로켓, 폭탄, 색깔 제거 블록 등 강력한 부스터가
+    만들어집니다. 여러 부스터를 인접하게 배치해 두면 서로 결합해 더 큰 폭발을 일으킬 수 있습니다.
+3.  **부스터 조합 노리기**: 로켓+로켓, 로켓+폭탄, 폭탄+색 제거 블록 등 서로 다른 부스터를 맞붙여
+    터뜨리면 혼자 쓸 때보다 훨씬 넓은 범위를 정리할 수 있습니다. 어려운 구간에서 사용해 보세요.
+4.  **스테이지 목표 우선하기**: 단순히 큰 폭발만 노리기보다, 현재 스테이지의 목표(특정 동물 수집,
+    장애물 제거 등)를 항상 염두에 두고 필요 없는 블록은 과감히 무시하는 것이 좋습니다.
+5.  **남은 이동 수 고려하기**: 남은 이동 횟수를 보며, 마지막 몇 번의 터치로 최대한 큰 연쇄 반응을
+    만들 수 있는지 계획해 보세요.
 
-1.  **[KO]** **Look for Large Groups:** While you can match just two identical blocks, aim for larger groups of three or more. Matching more blocks at once will give you more points and help you create powerful boosters.
-2.  **[KO]** **Create Boosters:** Matching five or more blocks will typically create special boosters like rockets, bombs, or color-clearing items. These are crucial for clearing difficult sections and achieving high scores.
-3.  **[KO]** **Combine Boosters:** The real power comes from combining two adjacent boosters. For example, combining two rockets can clear a huge area, while combining a bomb with a color-clearing item can be devastatingly effective.
-4.  **[KO]** **Prioritize Objectives:** Always keep an eye on the level's specific objectives. Sometimes it's better to make a smaller match that helps you achieve an objective rather than a large match that doesn't.
-5.  **[KO]** **Plan Your Moves:** Don't just tap randomly. Think a few moves ahead to see how your current tap will affect the board and set up future matches or booster creations.
+### 조작 방법 안내
 
-### Controls Guide
+*   **탭해서 터뜨리기**: 가로나 세로로 인접한 같은 동물 블록이 두 개 이상 모여 있는 그룹을 클릭하거나
+    탭하면 해당 그룹이 한 번에 사라집니다.
 
-*   **[KO]** **Tap to Blast:** Simply click or tap on a group of two or more identical, adjacent animal blocks to clear them.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q. Zoo Boom의 기본 목표는 무엇인가요?**  
+    **A:** 각 레벨마다 제시되는 미션(특정 동물 개수 모으기, 장애물 제거, 목표 점수 달성 등)을
+        제한된 이동 수 안에 달성하는 것입니다.
 
-*   **[KO]** **Q: What is the goal of Zoo Boom?**
-    *   **[KO]** **A:** The goal is to complete the specific objectives of each level, which usually involve clearing certain types or numbers of animal blocks, or reaching a target score.
+    - **Q. 특수 부스터는 어떻게 얻을 수 있나요?**  
+    **A:** 한 번에 많은 수의 동물 블록을 터뜨리면 자동으로 부스터가 생성됩니다. 일반적으로 숫자가
+        많을수록 더 강력한 부스터가 만들어집니다.
 
-*   **[KO]** **Q: How do I get special boosters?**
-    *   **[KO]** **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
+*   **Q. 이동 수가 떨어져 실패하면 어떻게 되나요?**  
 
-*   **[KO]** **Q: What happens if I run out of moves?**
-    *   **[KO]** **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
+    - **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
 
+- **Q: What happens if I run out of moves?**
+
+    - **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
+    **A:** 이동 수가 0이 되었는데도 목표를 달성하지 못하면 스테이지를 실패하게 되며, 다시 도전해야
+        합니다. 일부 버전에서는 추가 이동 수를 구매할 수 있는 옵션이 제공되기도 합니다.

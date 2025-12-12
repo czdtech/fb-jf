@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: chess-classic
-title: '[KO] Chess Classic'
+title: Chess Classic 체스 클래식
 description: >-
-  [KO] Enjoy the classic game of chess with Chess Classic. Play against the
-  computer at different difficulty levels and improve your skills.
+  Chess Classic은 브라우저에서 즐기는 정통 체스 게임입니다. 난이도를 조절해 컴퓨터와 대국하며, 기물 운용과 전술을 연습하고
+  체크메이트 실력을 기를 수 있습니다.
 iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
 thumbnail: /new-images/chess-classic.png
 tags:
@@ -15,35 +15,65 @@ score: 4.8/5  (2345 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Chess Classic은 전통적인 국제 체스 규칙을 그대로 따르는 디지털 체스입니다.
+초보자부터 숙련자까지 누구나 난이도를 선택해 컴퓨터와 대국할 수 있으며,
+기본 수법부터 깊은 전략까지 연습하기에 좋은 환경을 제공합니다.
 
+각 기물의 이동 규칙과 체크/체크메이트 규칙은 표준 체스와 동일하며, 이를 통해
+오프라인 실전 감각을 기르거나 새로운 전술을 시험해 볼 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Chess Classic offers the timeless strategy board game experience directly in your browser. Whether you are a beginner or a seasoned player, you can test your skills against a computer opponent with adjustable difficulty levels. The game follows the standard international rules of chess, providing a perfect platform to learn, practice, and master the art of the checkmate.
+1.  **센터 장악**  
+    오프닝에서는 폰과 기물로 e4, d4, e5, d5 같은 중앙 칸을 장악하는 것이 중요합니다.
+    중앙을 잡은 기물은 이동 반경과 영향력이 커집니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **기물 전개**  
+    초반에는 나이트와 비숍을 빠르게 백랭크에서 꺼내 전개하세요. 같은 기물을
+    여러 번 움직이기보다는, 매 수마다 새로운 기물을 좋은 칸으로 전개하는 것이
+    일반적인 원칙입니다.
 
-1.  **[KO]** **Control the Center:** In the opening, use your pawns and pieces to exert control over the central squares (e4, d4, e5, d5). Pieces in the center have more mobility and influence over the game.
-2.  **[KO]** **Develop Your Pieces:** Move your knights and bishops off the back rank early in the game. A good rule of thumb is to move a piece to a better square in each of the first few moves. Try not to move the same piece twice in the opening.
-3.  **[KO]** **King Safety:** One of the most important principles. Castle your king to safety early on. This move tucks your king away behind a wall of pawns and develops one of your rooks.
-4.  **[KO]** **Think Before You Move:** Always check for your opponent's threats before making a move. Ask yourself what your opponent's last move accomplished and what they might do next.
-5.  **[KO]** **Know Piece Values:** Understand the relative value of the pieces (Pawn=1, Knight=3, Bishop=3, Rook=5, Queen=9). This will help you make good trades and avoid blunders.
+3.  **킹 안전 확보**  
+    가능한 한 초반에 캐슬링을 통해 킹을 안전한 측면으로 옮기고, 룩의 연결을
+    만들어 두세요. 킹이 중앙에 오래 남아 있으면 각종 전술에 노출되기 쉽습니다.
 
-### Controls Guide
+4.  **한 수 두 수 앞을 생각하기**  
+    수를 두기 전에 항상 상대의 위협을 먼저 확인하세요. "상대의 마지막 한 수가
+    무엇을 노리는지"를 생각한 뒤, 그 위협을 해결하면서 자신의 계획도 함께
+    진행할 수 있는 수를 찾는 것이 중요합니다.
 
-*   **[KO]** **Piece Selection:** Click on a piece to select it. Possible moves will be highlighted on the board.
-*   **[KO]** **Move Piece:** Click on one of the highlighted squares to move your selected piece to that location.
-*   **[KO]** **Game Options:** Use the in-game menu to select the difficulty level, undo a move, or start a new game.
+5.  **기물 가치 이해하기**  
+    체스에서는 대략 폰=1, 나이트·비숍=3, 룩=5, 퀸=9 정도로 기물 가치를 평가합니다.
+    이 기준을 바탕으로 유리한 교환을 하고, 불리한 단순 교환은 피하는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-*   **[KO]** **Q: What is the goal of chess?**
-    *   **[KO]** **A:** The ultimate goal is to checkmate your opponent's king. This means the king is in a position to be captured (in "check") and cannot escape capture.
+-   **기물 선택:** 움직이고 싶은 기물을 클릭하면, 이동 가능한 칸이 하이라이트됩니다.
+-   **이동:** 하이라이트된 칸을 다시 클릭해 해당 위치로 기물을 이동합니다.
+-   **게임 옵션:** 메뉴에서 난이도 변경, 한 수 되돌리기, 새 게임 시작 등을 선택할
+    수 있습니다.
 
-*   **[KO]** **Q: What is castling?**
-    *   **[KO]** **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What happens if no one can win?**
-    *   **[KO]** **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.
+-   **Q. 체스의 최종 목표는 무엇인가요?**  
+    A. 상대 킹을 체크메이트하는 것입니다. 즉, 킹이 공격(체크)을 받고 있고, 어떤
+    합법적인 수로도 그 공격을 피할 수 없는 상태를 만드는 것이 승리 조건입니다.
 
+    - **Q. 캐슬링이란 무엇인가요?**  
+    A. 캐슬링은 킹을 룩 쪽으로 두 칸 이동시키고, 그 룩을 킹의 반대편 바로 옆
+    칸으로 옮기는 특수 수입니다. 킹과 해당 룩이 한 번도 움직인 적이 없고, 두
+    기물 사이에 다른 기물이 없으며, 킹이 공격을 통과하거나 공격받는 칸으로
+    지나가지 않을 때에만 가능합니다.
+
+-   **Q. 양쪽 모두 이기기 힘든 상황에서는 어떻게 되나요?**  
+
+    - **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.
+
+- **Q: What happens if no one can win?**
+
+    - **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.
+    A. 스테일메이트(킹이 체크는 아니지만 합법 수가 없는 경우), 같은 위치가 세 번
+    반복되는 경우, 양측 합의 무승부 등 여러 방식으로 무승부가 성립할 수
+    있습니다.

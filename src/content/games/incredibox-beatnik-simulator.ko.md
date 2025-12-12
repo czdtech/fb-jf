@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: incredibox-beatnik-simulator
-title: '[KO] Incredibox Beatnik Simulator'
+title: "Incredibox Beatnik Simulator 비트닉 재즈 모드"
 description: >-
-  [KO] It transports players to the smoky jazz clubs of the 1950s and 60s, with
-  a theme centered around the Beatnik subculture a movement known for its
-  celebration of jazz, poetry, and nonconformity
+  1950~60년대 비트닉 서브컬처와 재즈 클럽 분위기를 담은 Incredibox 팬메이드
+  모드입니다. 재즈·시·비순응 문화를 기리는 테마와 사운드를 활용해, 감성적인
+  비트닉 믹스를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/948885978/embed'
 thumbnail: /new-images/incredibox-beatnik-simulator.png
 tags:
@@ -21,31 +21,52 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
-### **Incredibox "Beatnik" Game Introduction**
+### **게임 소개**
 
-*Incredibox Beatnik* is a highly polished and artistically cohesive fan-made mod for the music creation game, Incredibox. It transports players to the smoky jazz clubs of the 1950s and 60s, with a theme centered around the **"Beatnik" subculture**—a movement known for its celebration of jazz, poetry, and nonconformity.
+`Incredibox Beatnik`은 음악 제작 게임 Incredibox를 기반으로 한 고퀄리티
+팬메이드 모드로, 1950~60년대의 스모키 재즈 클럽과 **비트닉(Beatnik) 문화**를
+테마로 합니다. 재즈와 시, 비순응을 상징하는 미니멀한 아트 스타일과 사운드
+디자인이 잘 어우러져, 카페 한 구석에서 재즈를 듣는 듯한 분위기를 만듭니다.
 
-The objective is to engage in creative expression and puzzle-solving. Players can drag and drop icons onto the characters to layer different sounds and create their own laid-back jazz track. The challenge lies in discovering the three specific combinations of sounds that unlock the secret animated bonuses, each one a stylish nod to the Beatnik era.
+플레이어는 다른 Incredibox 모드와 마찬가지로 캐릭터 위에 아이콘을 드래그해
+사운드를 입히고, 부드러운 재즈 그루브를 만들어 갑니다. 동시에 특정 사운드
+조합을 찾아 숨겨진 애니메이션 보너스를 해금하는 퍼즐 요소도 함께 즐길 수
+있습니다.
 
-### **Gameplay Strategy & Tips**
+### **플레이 전략 & 팁**
 
-The strategy in *Incredibox Beatnik* is all about creating a "vibe"—a smooth, cohesive groove—and unlocking the hidden bonuses.
+이 모드의 전략은 무엇보다도 “바이브”를 만드는 데 있습니다. 지나치게 화려한
+믹스보다는, 느긋하고 일관된 그루브를 유지하는 것이 핵심입니다.
 
-1.  **[KO]** **Start with the Rhythm Section**: To create an authentic jazz feel, begin by establishing a solid groove. Drag one or two icons from the "Beats" category (especially the upright bass and finger snaps) to set the foundation before adding other instruments.
+1. **리듬 섹션부터 잡기**  
+   재즈 감성을 제대로 살리려면, 먼저 업라이트 베이스나 핑거 스냅 같은
+   `Beats` 카테고리 아이콘으로 기본 그루브를 만들어야 합니다. 든든한 리듬
+   위에 다른 악기를 얹는 것이 좋습니다.
 
-2.  **[KO]** **Less is More**: Unlike some high-energy mods, *Beatnik* thrives on a relaxed, minimalist feel. Sometimes the best compositions use fewer elements. Don't feel obligated to use all seven character slots if a simpler arrangement sounds better.
+2. **Less is More, 적을수록 좋다**  
+   다른 하이 에너지 모드와 달리, Beatnik은 여백이 있는 구성에서 빛납니다.
+   7슬롯을 모두 채우지 않아도 되며, 오히려 4~5슬롯 정도에서 간결한 조합이
+   더 멋지게 들릴 때가 많습니다.
 
-3.  **[KO]** **Systematic Bonus Hunting**: The bonus combos can be elusive. To find them, try locking in a solid bassline and rhythm, then methodically cycle through the melody and voice icons one by one. This increases your chances of finding a winning combination.
+3. **보너스 조합은 체계적으로 탐색**  
+   숨겨진 보너스는 특정 사운드 조합으로만 열립니다. 베이스와 리듬을 먼저
+   고정해 둔 뒤, 멜로디·보컬 아이콘을 하나씩 교체해 가며 조합을 시험해
+   보세요.
 
-4.  **[KO]** **Feel the Vibe**: The best tip is to immerse yourself in the theme. Create a track that you would want to hear while sipping coffee in a dimly lit café. The more you connect with the "cool" aesthetic, the more intuitive your combinations will become.
+4. **분위기에 몰입하기**  
+   “어두운 카페에서 커피를 마시며 듣고 싶은 곡”을 떠올리며 믹스를 만들어
+   보세요. 테마에 몰입할수록, 자연스럽게 잘 어울리는 조합이 손에 잡히게
+   됩니다.
 
-### **Controls Guide**
+### **조작 가이드**
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+조작법은 공식 Incredibox와 동일한 드래그 앤 드롭 방식입니다.
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto a character.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your musical creation.
-
+- **사운드 추가**: 하단의 사운드 아이콘을 드래그해 캐릭터 위에 올려놓습니다.
+- **사운드 제거**: 하단 활성 아이콘의 `X`를 누르거나, 새 아이콘을 기존
+  캐릭터에 덮어써 바꿀 수 있습니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트만 끄거나 다시 켤 수
+  있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼으로 해당 캐릭터만 남기고 나머지를 모두
+  뮤트할 수 있습니다.
+- **녹음**: 녹음 버튼을 눌러 자신만의 비트닉 재즈 트랙을 녹음할 수 있습니다.

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: ant-and-block-puzzle
-title: '[KO] Ant and block puzzle'
+title: 'Ant and block puzzle 앤트 앤 블록 퍼즐'
 description: >-
-  [KO] Ant and block puzzle is a neat block‑fitter — place shapes, fill rows,
-  and avoid dead zones.
+  주어진 블록들을 보드에 빈틈없이 채워 넣는 캐주얼 퍼즐 게임입니다. 모양을
+  잘 배치해 줄을 지우고 막히지 않도록 공간을 관리해 보세요.
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
 thumbnail: /new-images/ant-and-block-puzzle.png
 tags:
@@ -14,28 +14,44 @@ score: 3.8/5  (1524 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Ant and block puzzle은 다양한 모양의 블록을 제한된 보드에 끼워 넣는 형태의
+캐주얼 퍼즐 게임입니다. 주어진 블록을 효율적으로 배치해 줄이나 영역을 가득
+채워 지우고, 보드가 꽉 차 더 이상 둘 곳이 없지 않도록 막아야 합니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **코너는 특수 모양을 위해 남겨 두기:** L자, T자처럼 배치가 까다로운 블록을
+    두기 좋은 자리를 코너에 남겨 두면, 나중에 처리하기 수월해집니다.
+2.  **자주 나오는 작은 블록 공간 확보:** 1×2, 2×2 같은 작은 블록들이 들어갈
+    여유 공간을 일부러 남겨 두면, 막판에 애매한 빈칸이 생겼을 때 유용하게
+    사용할 수 있습니다.
+3.  **가늘고 높은 구멍 만들지 않기:** 특정 길이의 직선 블록이 없으면 채울 수
+    없는 세로 구멍을 만드는 것은 피하세요. 나중에 남겨 두면 사실상 죽은
+    공간이 됩니다.
+4.  **보드 중앙 먼저 정리:** 가능한 한 중앙 쪽을 넓게 유지하면, 새 블록을 놓을
+    수 있는 선택지가 많아져 막히는 상황을 늦출 수 있습니다.
+5.  **애초에 불편한 배치는 일찍 되돌리기:** 되돌리기 기능이 있다면, 블록을
+    놓았을 때 느낌이 좋지 않다면 초기에 바로 취소하고 다른 배치를 시도하는
+    것이 훨씬 유리합니다.
 
-Ant and block puzzle is a casual shape‑placement challenge. Fit given blocks into a board, complete rows/areas to clear space, and stave off top‑outs with efficient packing.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 블록을 드래그해 보드 위 원하는 위치에 놓습니다. 일부 모드에서는 회전 기능을
+  지원해 블록 방향을 바꿀 수 있습니다.
+- 실행 취소나 재시작은 화면의 전용 버튼을 통해 사용할 수 있습니다.
 
-1.  **[KO]** Reserve corners for L/T shapes.
-2.  **[KO]** Leave flexible gaps sized for common small pieces.
-3.  **[KO]** Don’t build tall narrow wells without a matching piece.
-4.  **[KO]** Prioritize clears that open board center.
-5.  **[KO]** Undo early when placements feel forced.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **놓을 수 있는 칸이 더는 없는데요?**  
+  되돌리기 기능이 있다면 직전 몇 수를 되돌려 새 배치를 시도해 보고, 그렇지
+  않다면 이번 판을 종료하고 새로운 시작 패턴을 노리는 것이 좋습니다.
 
-- Drag to place; rotate if the mode supports it.
-- Undo/Reset via UI.
+- **블록을 회전할 수 있나요?**  
+  버전에 따라 다릅니다. 화면에 회전 버튼이나 제스처 안내가 보인다면 그 방법을
+  사용해 방향을 바꿀 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
-
-- No fits left—what now? Use undo or restart with a different opening.
-- Rotations? Depends on variant; check the UI.
-- Endless? Many versions are score‑chasing.
+- **엔드가 있는 게임인가요, 점수형인가요?**  
+  많은 버전이 끝없이 점수를 쌓는 방식으로, 보드가 막힐 때까지 얼마나 오래
+  버티는지가 기록이 됩니다.

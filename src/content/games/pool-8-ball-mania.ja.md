@@ -1,69 +1,39 @@
 ---
+title: "Pool 8 Ball Mania"
+description: "Pool 8 Ball Maniaはクラシックな8球ビリヤードです。ボールをポケットに入れ、対戦相手と競い、プールチャンピオンになります。"
+iframeSrc: "https://pool8ballmania.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
+thumbnail: "/new-images/pool-8-ball-mania.png"
+urlstr: "pool-8-ball-mania"
+score: "4.3/5  (2567 votes)"
+tags: ["sports", "casual", "2 player"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: pool-8-ball-mania
-title: '[JA TRANSLATION NEEDED] Pool 8 Ball Mania'
-description: >-
-  [JA TRANSLATION NEEDED] Pool 8 Ball Mania refines bar‑pool — aim clean,
-  control cue‑ball with spin, and clear patterns with smart position play.
-iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
-thumbnail: /new-images/pool-8-ball-mania.png
-tags:
-  - sports
-  - pool
-score: 4.2/5  (2059 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Pool 8 Ball Maniaは、クラシックな8球ビリヤードをデジタル形式で再現します。ソリッド（1-7）またはストライプ（9-15）をポケットに入れ、次に8ボールをポケットに入れて勝ちます。正確なショットと戦略的位置決めが必要です。
 
-[JA TRANSLATION NEEDED] Pool 8 Ball Mania simulates casual 8‑ball with responsive aiming and spin. The core is cue‑ball control: land shape for the next shot, use topspin to follow, backspin to draw, and sidespin off rails to manage lines.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **ブレイクを計画:** 良いブレイクはゲームを設定します。
+2.  **位置を考える:** 次のショットのためにキューボールを配置します。
+3.  **簡単なショットを最初に:** ボールを順番にポケットに入れます。
+4.  **8ボールを保存:** 最後のボールをポケットに入れた後にのみ。
+5.  **練習を狙う:** 正確さがこのゲームの鍵です。
 
-[JA TRANSLATION NEEDED] 1.  Pre‑plan shape: Decide landing spots before every pot.
-[JA TRANSLATION NEEDED] 2.  Speed first: Smooth medium strokes trump power slams.
-[JA TRANSLATION NEEDED] 3.  Spin sparing: Small top/back/side spin corrections are safer.
-[JA TRANSLATION NEEDED] 4.  Pattern clears: Resolve clusters and problem balls early.
-[JA TRANSLATION NEEDED] 5.  Safety: If the pot is thin and risky, play safe to leave the opponent tough.
+### 操作ガイド
 
-### Controls Guide
+- マウス/タッチ：狙い、パワーを設定します。
+- クリック/リリース：ショットします。
+- ルールに従ってボールをポケットに入れます。
 
-- Aim: drag; Power: pull meter; Spin: adjust cue‑ball diagram; Camera: pan/zoom if available.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Pots rattle out — why?
-  
-[JA TRANSLATION NEEDED]   A: Too much speed or impure line; reduce power and aim through pocket center.
-
-- Q: How to hold position?
-  
-[JA TRANSLATION NEEDED]   A: Short follow/draw and use rails to bleed speed.
-
-- Q: Break tips?
-  
-
-
-
-
-
-- Q: Pots rattle out — why?
-### よくある質問（FAQ）
-- Aim: drag; Power: pull meter; Spin: adjust cue‑ball diagram; Camera: pan/zoom if available.
-### コントロールガイド
-- Safety: If the pot is thin and risky, play safe to leave the opponent tough.
-[JA TRANSLATION NEEDED]   A: Square on head ball, moderate power, control cue‑ball center.
-
-
-
-
-
-
-A: Square on head ball, moderate power, control cue‑ball center.
-- Q: Break tips?
-A: Short follow/draw and use rails to bleed speed.
-- Q: How to hold position?
-
-
-A: Square on head ball, moderate power, control cue‑ball center.
+- **Q: ソリッドとストライプの違いは何ですか？**  
+  A: ソリッドは1-7（無地）、ストライプは9-15（縞模様）。
+- **Q: 8ボールをいつポケットに入れますか？**  
+  A: すべての自分のボールをポケットに入れた後のみ。
+- **Q: マルチプレイヤーですか？**  
+  A: 多くのバージョンはローカルまたはオンライン対戦を提供します。

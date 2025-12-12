@@ -1,46 +1,39 @@
 ---
+title: "99 Balls 3D ナインティナイン・ボールズ 3D"
+description: "「99 Balls 3D」は、病みつきになるアーケードシューティングゲームです。ボールを発射して、番号付きのブロックが底に到達する前に破壊しましょう！戦略と物理演算が融合した爽快パズル。"
+iframeSrc: "https://72ss6r8k142go.h5games.usercontent.goog/v/1hld05o7aip3g/"
+thumbnail: "/new-images/99-balls-3d.png"
+urlstr: "99-balls-3d"
+score: "4.3/5  (1500 votes)"
+tags: ["arcade", "ball", "shooter"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: 99-balls-3d
-title: '[JA TRANSLATION NEEDED] 99 Balls 3D'
-description: >-
-  [JA TRANSLATION NEEDED] A modern twist on classic arcade action! Aim and shoot
-  your stream of balls to destroy the numbered targets. Collect rings to
-  increase your ammo and stars to unlock new weapons.
-iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
-thumbnail: /new-images/99-balls-3d.jpeg
-tags:
-  - shooting
-  - puzzle
-  - action
-score: 4.3/5  (2300 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*99 Balls 3D（ナインティナイン・ボールズ 3D）*は、クラシックなバブルシューターやブロック崩しゲームを現代風に3Dアレンジした、活気あふれるアーケードゲームです。プレイヤーの目標はシンプルで、ナンバリングされた3Dの球体（ブロック）に向かってボールを発射し、それらが画面の一番下に到達する前にすべて破壊することです。各ボールに書かれた数字は、破壊するために必要なヒット数を示しています。ボールを撃つたびにブロックは一段ずつ下がってくるので、効率よく消していく戦略性が求められます。
 
-[JA TRANSLATION NEEDED] 99 Balls 3D is a highly addictive, physics-based puzzle shooter that combines elements of Breakout and Bubble Shooter. Your goal is to destroy a series of numbered balls that slowly descend from the top of the screen. You shoot a stream of smaller balls from the bottom, and the number on each target ball indicates how many hits it needs to be destroyed. The key to the game is to aim your shots perfectly to create long chain reactions of bounces, clearing the board before the numbered balls reach the bottom.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
-
-1.  [JA TRANSLATION NEEDED] **Master the Bank Shot:** Never shoot directly at a single target. The goal is to aim your stream of balls at an angle so that they bounce off the walls and other balls as many times as possible. A single, well-aimed shot can result in hundreds of hits.
-2.  [JA TRANSLATION NEEDED] **Collect the Rings:** As you play, white rings will appear. Hitting these is your top priority. Each ring you collect adds one more ball to your shooting stream, dramatically increasing your firepower for all future shots.
-3.  [JA TRANSLATION NEEDED] **Prioritize High-Number Balls:** The balls with the highest numbers are the biggest threat. Try to position your shots so that your stream of balls will hit them multiple times.
-4.  [JA TRANSLATION NEEDED] **Don't Let Them Reach the Bottom:** After each shot, the balls will move one step closer to the bottom. If any numbered ball reaches the bottom line, the game is over.
+1.  **角度が命：** このゲームで最も重要なのは、ボールの入射角です。完璧な角度を見つけて撃つことで、ボールが複数のブロック間で跳ね返り（リバウンド）、一度のショットで大量のダメージを与えることができます。
+2.  **リングを優先して狙う：** 画面上に現れる「白いリング」を集めることを最優先にしましょう。リングを取ると、一度に発射できるボールの数が増えます。弾幕が厚くなるほど、硬いブロックも壊しやすくなります。
+3.  **上部を狙う：** 可能な限り、下のブロックの隙間を通して上の壁やブロックを狙いましょう。ボールが上部の狭いスペースに入り込むと、何度も跳ね返って驚異的なコンボを生み出します。
+4.  **底に着く前に阻止せよ：** ショットを打つたびに、ブロック群は一段ずつ下に迫ってきます。どれか一つでも番号付きボールが底のラインに触れるとゲームオーバーです。
 
 ### 操作ガイド
 
-*   **狙い：** マウスを動かして照準ガイドラインを制御します。これはショットの初期軌道を示します。
-*   **シュート：** 左マウスボタンをクリックしてボールのストリームを発射します。
+*   **狙う（エイム）：** マウスを動かして、照準ガイドラインを操作します。これが発射されるボールの軌道を示します。
+*   **撃つ（シュート）：** マウスの左ボタンをクリックして、ボールの列を発射します。
 
-### よくある質問（FAQ）
+### よくある質問 (FAQ)
 
-*   **Q: What do the numbers on the balls mean?**
-    *   **A:** [JA TRANSLATION NEEDED] This is the ball's "health." It indicates how many times the ball must be hit before it is destroyed.
+*   **Q: ボール（ブロック）に書かれている数字は何ですか？**
+    *   **A:** それはブロックの「耐久力（HP）」です。その数字の回数だけボールを当てると破壊できます。
 
-*   **Q: How do I get more balls to shoot?**
-    *   **A:** [JA TRANSLATION NEEDED] By hitting the white rings that appear on the screen. Each ring you collect permanently adds one ball to your stream for the rest of the game.
+*   **Q: 発射するボールはどうやって増やせますか？**
+    *   **A:** 画面上の「白いリング」にボールを当てて回収することで増やせます。1つ回収するごとに、そのゲーム中ずっと発射数が1つ増えます。
 
-*   **Q: What are the stars for?**
-    *   **A:** [JA TRANSLATION NEEDED] Collecting stars allows you to unlock new skins and weapon types from the main menu, adding a fun cosmetic element to the game.
-
+*   **Q: 星（スター）は何に使うのですか？**
+    *   **A:** 星を集めると、メインメニューで新しいスキン（見た目）や武器タイプをアンロックできます。ゲームの見た目を変えて楽しむための要素です。

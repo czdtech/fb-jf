@@ -1,13 +1,11 @@
 ---
 locale: ko
 urlstr: stealing-the-diamond
-title: '[KO] Stealing The Diamond'
+title: 'Stealing The Diamond 스틸링 더 다이아몬드'
 description: >-
-  [KO] Join Henry Stickmin in Stealing the Diamond, a hilarious
-  choose-your-own-adventure game. Your mission: infiltrate the museum and make
-  off with the giant diamond. Choose from a variety of tools and paths, from
-  busting in loudly to sneaking in unseen. Discover all the funny fails and
-  multiple endings!
+  Stealing the Diamond는 Henry Stickmin 시리즈의 인터랙티브 어드벤처 게임으로,
+  주인공 헨리가 경비가 삼엄한 박물관에 침입해 거대한 다이아몬드를 훔치는
+  이야기를 다룹니다. 각 선택에 따라 서로 다른 웃픈 결말이 펼쳐집니다.
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/stealing-the-diamond.jpg
 tags:
@@ -20,32 +18,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Stealing the Diamond is a classic interactive adventure game from the Henry Stickmin series. As the titular character, Henry, your goal is to successfully steal a massive diamond from a heavily guarded museum. The game is famous for its humorous, choice-driven gameplay where every decision leads to a different, often comical, outcome.
+Stealing the Diamond는 Henry Stickmin 시리즈의 고전 인터랙티브 어드벤처 게임입니다.
+플레이어는 주인공 헨리가 되어, 철통같이 지켜지는 박물관에 침입해 거대한
+다이아몬드를 훔쳐야 합니다. 게임의 묘미는 선택에 따라 완전히 다른, 그리고
+대부분은 매우 웃긴 결과가 나온다는 점에 있습니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-The gameplay is simple: at various points in the story, you will be presented with a choice of two or more options (tools or actions) to proceed. Your selection determines what happens next. Most choices lead to a unique "Fail" screen with a funny description, while specific combinations of choices will lead you to one of the three successful endings. The fun lies in exploring the different paths and discovering all the possible outcomes.
+플레이 방식은 단순합니다. 이야기의 갈림길마다 두 개 이상의 선택지(도구 또는
+행동)가 표시되며, 어떤 선택을 하느냐에 따라 다음 전개가 달라집니다.
+대부분의 선택은 개성 넘치는 "실패(Fail)" 연출로 이어지고, 특정 조합만이
+성공적인 엔딩으로 안내합니다. 여러 경로를 탐색하며, 준비된 모든 엔딩과
+실패 장면을 찾아보는 것이 게임의 큰 재미입니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- **Mouse:** Use your mouse to click on the option you want to choose.
+- **마우스:** 선택하고 싶은 옵션을 클릭하면 됩니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**How many ways are there to win?**
+**Q. 클리어 엔딩은 몇 가지인가요?**
 
-There are three successful endings in Stealing the Diamond:
-- The "Aggressive" ending.
-- The "Undetected" ending.
-- The "Epic" ending.
+Stealing the Diamond에는 세 가지 성공 엔딩이 있습니다.
+- "공격적인(Aggressive)" 엔딩
+- "눈에 띄지 않는(Undetected)" 엔딩
+- "에픽(Epic)" 엔딩
 
-**What is the point of all the "Fails"?**
+**Q. 이렇게 많은 "실패" 연출은 왜 있는 건가요?**
 
-The numerous and humorous fail screens are a core part of the game's charm and comedy. Finding all 40+ fails is a key objective for many players and is necessary for 100% completion.
+수십 가지에 달하는 실패 장면은 이 게임 특유의 유머를 만들어 내는 핵심
+요소입니다. 40개가 넘는 모든 실패를 찾아보는 것은 많은 플레이어에게
+필수 목표이자, 100% 달성을 위한 조건이기도 합니다.
 
-**Is this part of a series?**
+**Q. 이 게임은 시리즈물인가요?**
 
-Yes, Stealing the Diamond is the third game in the popular Henry Stickmin series, following *Breaking the Bank* and *Escaping the Prison*.
-
+네. Stealing the Diamond는 Henry Stickmin 시리즈의 세 번째 작품으로,
+앞에는 *Breaking the Bank*, *Escaping the Prison*이 있습니다.

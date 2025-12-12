@@ -1,69 +1,47 @@
 ---
-locale: ja
-urlstr: hexamind
-title: '[JA TRANSLATION NEEDED] HexaMind'
-description: >-
-  [JA TRANSLATION NEEDED] HexaMind is a hex‑grid logic puzzler — place tiles,
-  satisfy adjacency rules, and manage parity across honeycomb layouts.
+title: HexaMind
+description: HexaMindは六角形グリッドの論理パズルです。タイルを配置し、隣接ルールを満たし、ハニカムレイアウト全体で偶奇性（パリティ）を管理しましょう。
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/hexamind.png
+urlstr: hexamind
+score: 4.2/5  (2066 votes)
 tags:
   - puzzle
   - thinky
-score: 4.2/5  (2066 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+HexaMindは、隣り合うものに関するルール（色、数字、記号などが隣接制約を満たす必要がある。例：同じ隣人はダメ、列の合計など）を持つ六角形グリッド上でプレイします。6方向の幾何学は、扇形のラインやリング（環状）を通して豊かな推論を可能にします。
 
-[JA TRANSLATION NEEDED] HexaMind plays on a hexagonal grid with rules about what may touch: colors, numbers, or symbols must satisfy adjacency constraints (e.g., no equal neighbors, or sums along rays). The six‑direction geometry enables rich deductions through fan‑shaped lines and rings.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **制約のホットスポット:** 最も多くの隣接マスを持つセルや、最も厳しいルールがあるセルから始めましょう。
+2.  **リングロジック:** 中心の周りのリングの合計や色の数を使って、候補を絞り込みましょう。
+3.  **レイスキャン（放射線スキャン）:** 軸方向に沿ってスキャンし、偶奇性や順序の制約を確認しましょう。
+4.  **矛盾の種:** 選択肢の狭いセルで仮置きを試し、矛盾が生じたら戻りましょう（バックトラック）。
+5.  **メモの厳密さ:** 循環的なミスを避けるために、候補のメモをきれいに維持しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Constraint hotspots: Start at cells with the most neighbors or strictest rules.
-[JA TRANSLATION NEEDED] 2.  Ring logic: Use ring sums or color counts around a center to bound candidates.
-[JA TRANSLATION NEEDED] 3.  Ray scans: Scan along axial directions for parity/sequence constraints.
-[JA TRANSLATION NEEDED] 4.  Contradiction seeds: Try a candidate on a tight cell and backtrack on conflict.
-[JA TRANSLATION NEEDED] 5.  Pencil rigor: Maintain clean candidate notes to avoid circular mistakes.
+### 操作ガイド
 
-### Controls Guide
+- **タップ:** 値/色を配置します。鉛筆マーク（仮置き）の切り替え。元に戻す/やり直し。
 
-- Tap to place values/colors; toggle pencil marks; undo/redo.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 行き詰まりました。どこを見ればいいですか？**
 
-- Q: I’m stuck — where to look?
-  
-[JA TRANSLATION NEEDED]   A: Revisit high‑degree nodes and ring totals; combine ring and ray constraints.
-
-- Q: Is guessing required?
-  
-[JA TRANSLATION NEEDED]   A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
-
-- Q: How is it different from square‑grid puzzles?
-  
+A: Revisit high‑degree nodes and ring totals; combine ring and ray constraints.
+- **A:** 次数の高い（接続の多い）ノードやリングの合計を再確認してください。リングとレイ（放射線）の制約を組み合わせましょう。
 
 
-
-
-
-- Q: I’m stuck — where to look?
-### よくある質問（FAQ）
-- Tap to place values/colors; toggle pencil marks; undo/redo.
-### コントロールガイド
-- Pencil rigor: Maintain clean candidate notes to avoid circular mistakes.
-[JA TRANSLATION NEEDED]   A: Six neighbors create stronger ring/ray reasoning that square grids lack.
-
-
-
-
-
-
-A: Six neighbors create stronger ring/ray reasoning that square grids lack.
-- Q: How is it different from square‑grid puzzles?
 A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
-- Q: Is guessing required?
-
+*   **Q: 当てずっぽう（推測）は必要ですか？**
 
 A: Six neighbors create stronger ring/ray reasoning that square grids lack.
+    *   **A:** 良い問題セットなら論理的に解けます。必要な場合でも、浅く、すぐに戻れる仮定に留めましょう。
+
+*   **Q: 正方形グリッドのパズルとどう違いますか？**
+    *   **A:** 6つの隣接マスがあるため、正方形グリッドにはない、より強力なリングや放射状の推論が生まれます。

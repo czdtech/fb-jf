@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: fireboy-and-watergirl-4
-title: '[DE] Fireboy And Watergirl 4'
+title: "Fireboy And Watergirl 4"
 description: >-
-  [DE] The definitive guide to Fireboy and Watergirl 4: The Crystal Temple.
-  Learn to master the crystal portals with co-op strategies, puzzle tips,
-  controls, and FAQs for this 2-player platformer.
+  Der vierte Teil der Reihe "Fireboy and Watergirl: The Crystal Temple" bringt
+  Portalrätsel ins Koop-Platforming: Meistere die Kristallportale mit
+  Teamwork, Timing und cleveren Routen.
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
 thumbnail: /new-images/fireboy-and-watergirl-4.jpg
 tags:
@@ -15,59 +15,85 @@ score: 4.6/5  (117 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+*Fireboy and Watergirl 4: The Crystal Temple* ist der vierte Teil der beliebten
+Koop-Puzzle-Platformer-Reihe. Wie gewohnt steuert ihr zu zweit die beiden
+Elementarfiguren durch verzweigte Levels: Fireboy ist immun gegen Feuer, darf
+aber kein Wasser berühren; Watergirl ist umgekehrt immun gegen Wasser, aber
+empfindlich gegen Feuer. Grüne Säure ist für beide tödlich.
 
+Das zentrale neue Element sind die **Kristallportale**. Sie sind über die
+Levels verteilt und teleportieren die Figuren sofort an andere Stellen.
+Dadurch werden die Rätsel deutlich komplexer.
 
+- **Weiße Portale:** Zweirichtungsportale. Betrittst du eines mit weißem Rand,
+  landest du beim passenden weißen Portal und kannst auch wieder
+  zurückwechseln.
+- **Farbige Portale (z.B. Schwarz):** Einbahnportale – nur in eine Richtung
+  passierbar.
 
+Um den Crystal Temple zu meistern, müsst ihr verstehen, wie ihr die Portale
+nutzt, um Hindernisse zu umgehen, höher gelegene Bereiche zu erreichen und
+Bewegungen über die ganze Karte hinweg zu koordinieren.
 
-### **Game Introduction**
+### Strategie & Tipps
 
-*Fireboy and Watergirl 4: The Crystal Temple* is the fourth installment in the popular cooperative puzzle-platformer series. The game continues the core mechanics of its predecessors, requiring two players to guide the elemental duo through a series of intricate levels. Fireboy is immune to fire but must avoid water, while Watergirl is immune to water but must avoid fire. Both characters perish if they touch the green acid.
+1. **Portale zuerst lesen:** Schau dir vor dem Loslaufen an, wohin jedes Portal
+   führt. Achte vor allem auf Einbahnportale – ein unüberlegter Sprung kann eine
+   Figur vorübergehend einsperren, bis die andere den Weg freimacht.
+2. **Schwung bleibt erhalten:** Betrittst du ein Portal mit Geschwindigkeit,
+   kommst du mit derselben Geschwindigkeit und Richtung wieder heraus. Nutze
+   das, um nach dem Teleport direkt große Lücken zu überspringen oder hohe
+   Kanten zu erreichen.
+3. **Routen durchplanen:** Oft muss eine Figur eine ganze Portal-Kette
+   durchlaufen, um Schalter zu aktivieren, die der anderen den Weg öffnen.
+   Verfolge den geplanten Pfad mit den Augen, bevor du dich hineinwagst.
+4. **Koop-Regeln gelten weiterhin:** Kommunikation ist alles. Sprecht ab, wer
+   Kisten schiebt, auf Knöpfen stehen bleibt oder Hebel umlegt – viele Rätsel
+   verlangen perfekt abgestimmte Aktionen.
+5. **Symmetrien erkennen:** Viele Level sind symmetrisch aufgebaut. Was eine
+   Figur auf der linken Seite tut, muss die andere oft gespiegelt rechts
+   erledigen – Portale helfen euch, euch gegenseitig zu unterstützen.
+6. **Einbahnportale mit Bedacht nutzen:** Überlege gut, bevor du eine Figur in
+   ein Einbahnportal schickst. Stelle sicher, dass es für sie danach einen
+   sinnvollen Weiterweg oder eine spätere Rückroute gibt.
 
-The unique and central mechanic of this installment is the **Crystal Portals**. These portals are scattered throughout each level and allow the characters to teleport from one location to another instantly. The portals add a significant layer of complexity to the puzzles.
+### Steuerung
 
-*   **[DE]** **White Portals**: These are two-way portals. Entering a white-edged portal will transport you to the other corresponding white portal, and you can travel back and forth.
-*   **[DE]** **Colored Portals (e.g., Black)**: These are one-way portals. You can only travel through them in one direction.
+Standardmäßig spielen zwei Personen an einer Tastatur:
 
-Successfully navigating the Crystal Temple requires players to understand how to use these portals to bypass obstacles, reach otherwise inaccessible areas, and coordinate their movements across different parts of the map.
+**Fireboy**  
+- Links: `A`  
+- Rechts: `D`  
+- Springen: `W`
 
-### **Gameplay Strategy & Tips**
+**Watergirl**  
+- Links: Pfeil links  
+- Rechts: Pfeil rechts  
+- Springen: Pfeil hoch
 
-1.  **[DE]** **Master the Portals**: This is the most crucial skill for this game. Before moving, identify where each portal leads. Pay close attention to which ones are one-way, as entering one might trap a character until the other player can open a new path.
-2.  **[DE]** **Momentum is Conserved**: When you enter a portal with speed, you will exit the corresponding portal with the same speed and in the same direction. Use this to your advantage to cross large gaps or reach high ledges immediately after teleporting.
-3.  **[DE]** **Plan Your Route Through Portals**: Often, one character must go through a series of portals to activate a switch that allows the other character to proceed. Trace the path with your eyes before committing to a sequence of teleports.
-4.  **[DE]** **Standard Co-op Rules Apply**: Communication remains vital. Coordinate who pushes boxes, who holds down buttons, and who flips levers. Many puzzles are impossible without precise, synchronized actions.
-5.  **[DE]** **Look for Symmetrical Puzzles**: Many levels have a symmetrical design. What one character does on one side of the screen often needs to be mirrored by the other character on the opposite side, frequently using portals to assist each other.
-6.  **[DE]** **Don't Rush One-Way Portals**: Think carefully before sending a character through a one-way portal. Ensure there is a way for them to either continue forward or for the other player to eventually open a path for them to return.
+### Häufige Fragen (FAQ)
 
-### **Controls Guide**
+- **F: Wie funktionieren die Kristallportale genau?**  
+  **A:** Sie teleportieren dich sofort zum passenden Portal. Weiße Rahmen
+  bedeuten Hin- und Rückweg, farbige (z.B. schwarz) sind nur in eine Richtung
+  passierbar.
 
-The game uses the standard control scheme for the series, designed for two players on one keyboard.
+- **F: Kann ich alleine spielen?**  
+  **A:** Ja, aber es ist deutlich schwerer. Du steuerst beide Figuren parallel
+  mit beiden Händen. Am meisten Spaß macht es mit einem Partner.
 
-**For Fireboy:**
-*   **[DE]** **Move Left**: `A` key
-*   **[DE]** **Move Right**: `D` key
-*   **[DE]** **Jump**: `W` key
+- **F: Wieso endet das Level nicht, obwohl ich am Ausgang stehe?**  
+  **A:** Fireboy und Watergirl müssen gleichzeitig an ihren farblich markierten
+  Türen stehen, damit das Level abgeschlossen wird.
 
-**For Watergirl:**
-*   **[DE]** **Move Left**: `Left Arrow` key
-*   **[DE]** **Move Right**: `Right Arrow` key
-*   **[DE]** **Jump**: `Up Arrow` key
+- **F: Was unterscheidet Teil 4 von den anderen Spielen?**  
+  **A:** Teil 1 (*Forest Temple*) ist relativ geradlinig, Teil 2 (*Light
+  Temple*) bringt Lichtstrahlen und Sensoren, Teil 3 (*Ice Temple*) Eis- und
+  Schneephysik. *The Crystal Temple* ergänzt das Ganze um das komplexe
+  Portalsystem.
 
-### **Frequently Asked Questions (FAQ)**
-
-**1. How do the crystal portals work?**
-They teleport your character instantly. Pay attention to the color of the portal's edge. White-edged portals are two-way (you can go back and forth). Other colored portals (like black) are one-way only. You will exit the portal that looks identical to the one you entered.
-
-**2. Can I play this game alone?**
-Yes, but it is very difficult. You will need to control both characters at the same time, using both hands on different parts of the keyboard. The game is designed and best enjoyed with a partner.
-
-**3. Why can't I finish the level even though I'm at the exit?**
-Both Fireboy and Watergirl must be standing at their respective, element-coded doors *simultaneously* for the level to end.
-
-**4. What is the difference between this game and the other Fireboy and Watergirl games?**
-The main difference is the core puzzle mechanic. *The Forest Temple* (Part 1) is straightforward. *The Light Temple* (Part 2) introduced light beams and sensors. *The Ice Temple* (Part 3) added ice and snow physics. *The Crystal Temple* (Part 4) introduces the complex crystal portal system for teleportation.
-
-**5. Are the gems necessary to complete a level?**
-No, you do not need to collect any gems to finish a level. The gems are for achieving a higher score and rank. Collecting all gems and finishing quickly earns you the best grade.
-
+- **F: Muss ich alle Edelsteine einsammeln?**  
+  **A:** Nein, sie sind optional und dienen der Wertung. Wenn du alle Gems
+  sammelst und schnell im Ziel bist, bekommst du die beste Bewertung.

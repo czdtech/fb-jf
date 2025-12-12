@@ -1,44 +1,75 @@
 ---
 locale: fr
 urlstr: kingdom-rush
-title: '[FR] Kingdom Rush'
+title: Kingdom Rush
 description: >-
-  [FR] Flagship tower defense: place and upgrade four tower types, call
-  reinforcements, and micro a hero to hold choke points.
-iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
-thumbnail: /new-images/kingdom-rush.jpg
+  Kingdom Rush est un tower defense emblématique : place et améliore quatre
+  types de tours, invoque des renforts et lance des sorts pour stopper les
+  hordes.
+iframeSrc: 'https://kingdomrush.h5games.usercontent.goog/v/3ud93sm56g710/'
+thumbnail: /new-images/kingdom-rush.png
 tags:
-  - tower-defense
   - strategy
-score: 3.8/5  (405 votes)
+  - tower defense
+score: 4.9/5  (placeholder votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation
+
+Kingdom Rush est un des grands classiques du tower defense. Tu disposes de quatre types de tours de base (casernes, archers, mages, artillerie) que tu peux améliorer et spécialiser, ainsi que de renforts temporaires et de sorts pour gérer les situations critiques.
+
+### Stratégies de jeu
+
+1.  **Composition de tours** : combine troupes de mêlée (casernes) pour ralentir, archers/mages pour les dégâts constants et artillerie pour les groupes compacts.  
+2.  **Priorité aux améliorations** : améliore quelques tours clés plutôt que d’en construire partout trop tôt.  
+3.  **Utilise renforts et sorts** comme panic button sur les passages les plus durs.
 
 
 
-### Overview
-Kingdom Rush established the series’ mix of lane control and hero micro. Build archer, barracks, mage, and artillery towers along path bends. Upgrade into specialized branches, call reinforcements to stall, and use hero actives and nukes to stabilize spikes. Enemy waves combine armor, magic resist, flyers, and spawn mechanics, demanding flexible builds.
-
-### How to Play
-- Anchor at choke points; support with splash and single‑target towers.
-- Match towers to resistances; rotate hero to threatened lanes.
-- Time global skills for boss phases and bursty waves.
-
-### Controls
-- Mouse/touch for all tower and hero actions; hotkeys vary.
-
-### Tips
-- Fewer, stronger towers outperform many weak ones early.
-- Keep anti‑air coverage; flyers punish ground‑only setups.
-- Use barracks to clump enemies under splash.
-
-### FAQ
-- Q: What is a good early game build order?
-A: One barracks + one splash + one mage, then upgrade near the main choke.
-- Q: How do I handle mixed waves effectively?
-A: Combine mage (armor), archer/artillery (swarm), and position hero as finisher.
-- Q: Are heroes required for completing levels?
 A: Not mandatory, but they smooth spikes and save lives at choke points.
 
+- Q: Are heroes required for completing levels?
+
+A: Combine mage (armor), archer/artillery (swarm), and position hero as finisher.
+
+- Q: How do I handle mixed waves effectively?
+
+A: One barracks + one splash + one mage, then upgrade near the main choke.
+
+- Q: What is a good early game build order?
+
+### Foire aux questions (FAQ)
+
+- Use barracks to clump enemies under splash.
+
+- Keep anti‑air coverage; flyers punish ground‑only setups.
+
+- Fewer, stronger towers outperform many weak ones early.
+
+### Tips
+
+- Mouse/touch for all tower and hero actions; hotkeys vary.
+
+
+- Use barracks to clump enemies under splash.
+
+- Keep anti‑air coverage; flyers punish ground‑only setups.
+### Commandes
+
+
+A: Not mandatory, but they smooth spikes and save lives at choke points.
+
+- Q: Are heroes required for completing levels?
+
+A: Combine mage (armor), archer/artillery (swarm), and position hero as finisher.
+
+- Q: How do I handle mixed waves effectively?
+
+A: One barracks + one splash + one mage, then upgrade near the main choke.
+
+- Q: What is a good early game build order?
+
+
+A: Not mandatory, but they smooth spikes and save lives at choke points.

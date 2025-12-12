@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: elastic-man
-title: '[DE] Elastic Man'
+title: "Elastic Man"
 description: >-
-  [DE] Elastic Man is an interactive toy: stretch, poke, and squish a rubbery
-  face with playful physics.
+  Elastic Man ist ein interaktives Spielzeug: Zieh, stupse und quetsche ein
+  gummiges Gesicht und sieh zu, wie es mit weicher Physik zurückschnappt.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/elastic-man.jpg
 tags:
@@ -14,22 +14,29 @@ score: 3.7/5  (959 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Elastic Man ist ein simples, aber sehr befriedigendes Gesichts-Stretch-Spiel.
+Du greifst ein gummiges Gesicht, ziehst es in alle Richtungen und beobachtest,
+wie die Haut mit federnder Physik wieder in ihre Ausgangsposition zurückwobbelt.
 
+### So spielst du
 
+- Zieh, stupse, kneife und lass wieder los – je nachdem, wo du zugreifst,
+  verformt sich das Gesicht anders.
+- Manche Hosts bieten Regler für "Squish"-Stärke oder Auflösung, mit denen du
+  das Verhalten anpassen kannst.
 
-### Overview
-Interactive face‑stretching toy: grab and drag a rubbery face, then watch it wobble back with springy skin‑simulation.
+### Steuerung
 
-### How to Play
-- Drag, poke, pinch, and release different spots to see varied deformations.
-- Some hosts include “squish” strength or resolution toggles.
+- Maus/Touch: Ziehen und Loslassen per Drag & Drop; zusätzliche Einstellungen
+  je nach Host im Optionsmenü.
 
-### Controls
-- Mouse/Touch drag and release; settings panel where available.
+### Tipps
 
-### Tips
-- Pull from cheeks/forehead for broad wobbles; small pinches create fast ripples.
-- Lower resolution on slower devices for smoother motion.
-- Shorter, repeated pulls keep the jello‑like jiggle going.
-
+- Ziehe an Wangen oder Stirn, um große, langsame Wellenbewegungen zu erzeugen.
+- Kleine, kurze Kneifbewegungen sorgen für schnelle, vibrierende Ripples.
+- Auf schwächeren Geräten hilft eine niedrigere Auflösung für flüssigere
+  Animationen.
+- Mehrere kurze Züge hintereinander halten das wackelige "Gelee"-Gefühl länger
+  aufrecht.

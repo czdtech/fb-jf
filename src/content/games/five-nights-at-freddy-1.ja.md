@@ -1,43 +1,36 @@
 ---
+title: "Five Nights at Freddy's 1 (FNAF 1)"
+description: "ピザ屋でのホラーサバイバル：カメラを監視し、電力を節約し、ドアやライトを操作して、5日間の夜（そしてそれ以降）をアニマトロニクスから守り抜きましょう。"
+iframeSrc: "https://ubg77.github.io/fix/fnaf1/"
+thumbnail: "/new-images/five-nights-at-freddy-1.jpg"
+urlstr: "five-nights-at-freddy-1"
+score: "4.3/5  (370 votes)"
+tags: ["horror", "strategy"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: five-nights-at-freddy-1
-title: '[JA TRANSLATION NEEDED] Five Nights at Freddy''s 1 (FNAF 1)'
-description: >-
-  [JA TRANSLATION NEEDED] Horror survival at a pizzeria: monitor cameras,
-  conserve power, and shut doors/lights to keep animatronics out across five
-  nights and beyond.
-iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
-thumbnail: /new-images/five-nights-at-freddy-1.jpg
-tags:
-  - horror
-  - strategy
-score: 4.3/5  (370 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+あなたはFreddy Fazbear's Pizzaの夜間警備員です。カメラを監視し、限られた電力を管理し、ボニー、チカ、フレディ、フォクシーがオフィスに侵入するのを防ぎましょう。
 
+### 遊び方
+- カメラをチェックしてアニマトロニクスを追跡し、音声の合図にも耳を傾けましょう。
+- ドアを閉めたりライトをつけたりするのは最小限にしましょう。すべてが電力を消費します。
+- 午前0時から午前6時までのシフトを生き延びましょう。夜が進むにつれてAIの動きが速くなります。
 
-### Overview
-[JA TRANSLATION NEEDED] You’re the night guard at Freddy Fazbear’s Pizza. Watch cameras, manage limited power, and keep Bonnie, Chica, Freddy, and Foxy from entering your office.
+### 操作方法
+- マウス/UIでカメラ、ライト、ドアを操作します。Escキーで一時停止（ホストによります）。
 
-### How to Play
-- Check cameras to track animatronics; listen for audio cues.
-- Close doors and toggle lights sparingly—everything drains power.
-- Survive each shift from 12 a.m. to 6 a.m.; later nights speed up AI.
+### ヒント
+- フォクシーがいるパイレーツ・コーブ（Pirate Cove）の習性を学びましょう。覗き込む頻度がリスクの合図です。
+- カメラを見続けないようにしましょう。短く、目的を持ってチェックすることで電力を節約できます。
+- 音声の合図を利用して、いつドアライトのチェックが必要かを知りましょう。
 
-### Controls
-- Mouse/UI for cameras, lights, and doors; Esc for pause (host dependent).
-
-### Tips
-- Learn Foxy’s Pirate Cove behavior; peeking cadence signals risk.
-- Don’t camp cameras; short, purposeful checks save power.
-- Use audio cues to know when a door light check is needed.
-
-### FAQ
-- Q: Is 6th/Custom Night included?  
-[JA TRANSLATION NEEDED]   A: Many hosts include Night 6 and a custom AI night.
-- Q: Why did I run out of power?  
-[JA TRANSLATION NEEDED]   A: Over‑checking cameras/doors; streamline your loop.
-- Q: Can I mute calls?  
-[JA TRANSLATION NEEDED]   A: Some versions allow muting the Phone Guy’s intro.
-
+### よくある質問 (FAQ)
+- **Q: 第6夜やカスタムナイトはありますか？**  
+  A: 多くのホスト版には、第6夜とカスタムAIナイトが含まれています。
+- **Q: なぜ電力切れになったのですか？**  
+  A: カメラやドアを確認しすぎています。ルーチンを効率化しましょう。
+- **Q: 電話をミュートできますか？**  
+  A: Phone Guyのイントロをミュートできるバージョンもあります。

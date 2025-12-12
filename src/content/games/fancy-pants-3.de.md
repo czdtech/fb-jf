@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: fancy-pants-3
-title: '[DE] Fancy Pants 3'
+title: "Fancy Pants 3"
 description: >-
-  [DE] Momentum platforming returns with bigger stages, more secrets, and
-  refined wall‑runs and slides in hand‑drawn worlds.
+  Fancy Pants 3 bringt das Momentum-Platforming zurück – mit größeren Levels,
+  mehr Geheimnissen und geschliffenen Wallruns und Slides in handgezeichneten
+  Welten.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/fancy-pants-3.jpg
@@ -15,31 +16,46 @@ score: 4.3/5  (1419 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Im dritten Teil liegt der Fokus noch stärker auf flüssigen Bewegungsabläufen,
+erweiterter Erkundung und Herausforderungsräumen, die sauberes Movement
+belohnen.
 
+### So spielst du
 
+- Kette Slides → Sprünge → Wallruns aneinander, um dein Tempo durch ganze
+  Levels hindurch zu halten.
+- Sammle Items, um optionale Räume und Kosmetiksachen freizuschalten.
+- Lies das Timing von Gegnern und Fallen, dann entscheidest du, ob du
+  drüberspringst, sie stompst oder sie komplett umgehst, um kein Momentum zu
+  verlieren.
 
-### Overview
-Third entry focuses on faster flow, expanded exploration, and challenge rooms rewarding clean movement.
+### Steuerung
 
-### How to Play
-- Chain slides→jumps→wall‑runs to maintain speed.
-- Collect items to unlock optional rooms and cosmetics.
-- Read enemy timing; stomp or evade to keep momentum.
+- Pfeiltasten oder WASD zum Bewegen und Springen.  
+- Nach unten, um zu sliden.  
+- Nach oben, um Türen oder Portale zu betreten.
 
-### Controls
-- Arrows/WASD to move/jump; Down to slide; Up to enter.
+### Tipps
 
-### Tips
-- Keep a rhythm—hesitation kills speed.
-- Use slopes to convert vertical drops into forward velocity.
-- Learn level loops to route collectibles efficiently.
+- Halte einen gleichmäßigen Rhythmus – Zögern kostet Geschwindigkeit und macht
+  Sprünge schwieriger.
+- Nutze Abwärtsschrägen, um Fallenergie in Vorwärtsgeschwindigkeit zu
+  verwandeln.
+- Lerne Level-Schleifen und Abkürzungen, damit du Sammelobjekte in einer
+  effizienten Route mitnehmen kannst.
 
-### FAQ
-- Q: Big differences from 1/2?
-A: Larger maps, more secrets, and tighter movement feel.
-- Q: Is combat necessary?
-A: Minimal; platforming mastery is the focus.
-- Q: Are there hidden rooms?
-A: Yes—watch for breakable walls and side paths.
+### Häufige Fragen (FAQ)
 
+- **F: Worin unterscheidet es sich von Teil 1/2?**  
+  **A:** Größere Karten, mehr Geheimnisse und ein insgesamt straffer
+  Bewegungsfluss.
+
+- **F: Muss ich kämpfen?**  
+  **A:** Kämpfe sind eher minimal – im Mittelpunkt steht das Platforming und die
+  Bewegung.
+
+- **F: Gibt es versteckte Räume?**  
+  **A:** Ja, halte Ausschau nach brüchigen Wänden, geheimen Seitengängen und
+  verdächtigen Nischen.

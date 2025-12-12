@@ -1,70 +1,39 @@
 ---
+title: "Secret Agent"
+description: "Secret Agentはステルスアクションゲームです。侵入し、敵を避け、ミッションを完了し、スパイマスターになります。"
+iframeSrc: "https://secretagent.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
+thumbnail: "/new-images/secret-agent.png"
+urlstr: "secret-agent"
+score: "4.2/5  (2089 votes)"
+tags: ["action", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: secret-agent
-title: '[JA TRANSLATION NEEDED] Secret Agent'
-description: >-
-  [JA TRANSLATION NEEDED] Secret Agent is a stealth‑action caper — sneak past
-  guards, disable traps, and complete objectives with gadgets and precise
-  timing.
-iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
-thumbnail: /new-images/secret-agent.png
-tags:
-  - action
-  - puzzle
-score: 4.0/5  (1874 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Secret Agentは、敵の基地に侵入し、検出を避け、ミッションを完了するステルスベースのアクションゲームです。カバーの後ろに隠れ、ガードをテイクダウンし、目標を安全に達成します。
 
-[JA TRANSLATION NEEDED] Secret Agent blends stealth with light puzzle routing. You’ll disable cameras, avoid cones of vision, hack doors, and collect intel before extraction. Clean routes and gadget timing trump brute force.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **ステルスを使用:" 検出を避けます。
+2.  **パトロールを観察:" ガードのパターンを学びます。
+3.  **カバーの後ろに隠れる:" 見えないままです。
+4.  **静かにテイクダウン:" 警報を引き起こさないでください。
+5.  **目標を優先:" ミッションの目標に焦点を当てます。
 
-[JA TRANSLATION NEEDED] 1.  Vision cones: Move only when guard cones sweep away.
-[JA TRANSLATION NEEDED] 2.  Gadget economy: Save EMPs/decoys for multi‑guard rooms.
-[JA TRANSLATION NEEDED] 3.  Route layering: Clear side intel when it’s along the optimal path; skip deep detours.
-[JA TRANSLATION NEEDED] 4.  Sound bait: Throw a decoy to pivot patrol routes, then slip through.
-[JA TRANSLATION NEEDED] 5.  Fail forward: After detection, break line of sight and hide; don’t panic sprint.
+### 操作ガイド
 
-### Controls Guide
+- WASD/矢印：移動します。
+- スペース/特定のキー：アクション（隠れる、テイクダウン）。
+- ステルスで目標を完了します。
 
-- WASD/Arrows to move; number keys for gadgets; interact with terminals; restart via menu.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m always spotted.
-  
-[JA TRANSLATION NEEDED]   A: Study patrol cycles and move on fixed beats; use cover transitions.
-
-- Q: Gadgets feel scarce.
-  
-[JA TRANSLATION NEEDED]   A: Use them only to break impossible rooms; rely on timing elsewhere.
-
-- Q: Can I ghost levels?
-  
-
-
-
-
-
-- Q: I’m always spotted.
-### よくある質問（FAQ）
-- WASD/Arrows to move; number keys for gadgets; interact with terminals; restart via menu.
-### コントロールガイド
-- Fail forward: After detection, break line of sight and hide; don’t panic sprint.
-[JA TRANSLATION NEEDED]   A: Many builds award bonuses for zero detections.
-
-
-
-
-
-
-A: Many builds award bonuses for zero detections.
-- Q: Can I ghost levels?
-A: Use them only to break impossible rooms; rely on timing elsewhere.
-- Q: Gadgets feel scarce.
-
-
-A: Many builds award bonuses for zero detections.
+- **Q: 検出された場合はどうなりますか？**  
+  A: 警報が鳴り、敵が追いかけます。
+- **Q: すべてのガードをテイクダウンできますか？**  
+  A: 可能ですが、ステルスがより良い戦略です。
+- **Q: どれくらいのミッションがありますか？**  
+  A: バージョンによって異なります。多くは数十。

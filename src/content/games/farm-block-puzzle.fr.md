@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: farm-block-puzzle
-title: '[FR] Farm Block Puzzle'
+title: Farm Block Puzzle
 description: >-
-  [FR] A relaxing and fun block puzzle with a charming farm theme. Drag and drop
-  the block shapes onto the 10x10 grid to create full lines and clear them from
-  the board.
+  Un jeu de puzzle de blocs relaxant et amusant avec un thème de ferme charmant.
+  Fais glisser les formes sur la grille 10x10 pour compléter des lignes et les
+  effacer du plateau.
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/farm-block-puzzle.png
 tags:
@@ -17,33 +17,39 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Farm Block Puzzle est un jeu de réflexion relaxant et addictif basé sur la formule classique du 10x10, le tout dans une ambiance de petite ferme. Le but est de placer stratégiquement différentes formes de blocs sur une grille de 10 cases sur 10. Dès que tu complètes une ligne entière, horizontale ou verticale, elle est effacée. Le défi consiste à continuer à placer des blocs et à nettoyer des lignes le plus longtemps possible pour atteindre un score élevé.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Farm Block Puzzle is a relaxing and addictive puzzle game based on the classic 10x10 formula, all set in a charming farm environment. The goal is to strategically place different block shapes onto a 10x10 grid. When you successfully form a complete line of blocks, either horizontally or vertically, the line will be cleared. The game challenges you to keep placing blocks and clearing lines for as long as possible to achieve a high score.
+1.  Planifie avec les pièces disponibles : le jeu te propose trois formes de blocs à la fois. Avant d’en poser une, vérifie toujours si tu as une place viable pour les deux autres, afin d’éviter de te retrouver bloqué avec une pièce impossible à caser.
+2.  Vise les combos : effacer une ligne, c’est bien ; en effacer plusieurs à la fois avec une seule pièce, c’est encore mieux. Ces « combos » rapportent beaucoup plus de points. Cherche toujours les situations où tu peux compléter deux lignes ou plus en même temps.
+3.  Garde le plateau propre : évite de laisser des trous isolés d’une seule case. Un plateau ouvert et dégagé te donne plus de flexibilité pour placer plus tard de grandes pièces ou des formes compliquées.
+4.  Pas de rotation : souviens‑toi que les blocs ne peuvent pas être tournés. Tu dois les utiliser dans l’orientation donnée, et c’est là que se trouve la vraie difficulté du puzzle.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Plan for the Pieces You Have:** The game gives you three block shapes at a time. Before placing one, always consider if you have a viable spot for the other two. This prevents you from getting stuck with a piece that won't fit.
-2.  **[FR]** **Aim for Combos:** Clearing one line is good, but clearing multiple lines at once with a single piece is a "combo" and will give you a much higher score. Always look for opportunities to complete two or more lines simultaneously.
-3.  **[FR]** **Keep the Board Clean:** Try to avoid leaving single, isolated empty holes in your grid. A clean and open board gives you more flexibility to place larger and more awkward pieces later on.
-4.  **[FR]** **No Rotations:** Remember, the blocks cannot be rotated. You must use them in the orientation they are given, which is the core challenge of the puzzle.
+Le jeu se joue entièrement au glisser‑déposer.
 
-### Controls Guide
+- Placer des blocs : utilise ta souris ou ton doigt pour faire glisser une forme depuis la zone du bas, puis dépose‑la sur un emplacement libre de la grille 10x10.
 
-The game is played with a simple drag-and-drop mechanic.
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
+- Q : Quel est l’objectif du jeu ?
+  
+  R : Marquer un maximum de points en plaçant des blocs pour compléter et effacer des lignes. La partie se termine lorsque tu ne peux plus placer aucune des trois formes proposées sur le plateau.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Puis‑je faire pivoter les blocs ?
+  
+  R : Non. Le défi vient justement du fait de devoir faire rentrer les pièces exactement dans l’orientation où elles apparaissent.
 
-*   **[FR]** **Q: What is the objective of the game?**
-    *   **[FR]** **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.
+- Q : Comment obtenir le meilleur score ?
+  
 
-*   **[FR]** **Q: Can I rotate the blocks?**
-    *   **[FR]** **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
+    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
 
-*   **[FR]** **Q: How do I get the highest score?**
-    *   **[FR]** **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
+- **Q: How do I get the highest score?**
 
+    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
+  R : En survivant le plus longtemps possible et en enchaînant les combos. Effacer plusieurs lignes avec une seule pièce donne un gros bonus de points.

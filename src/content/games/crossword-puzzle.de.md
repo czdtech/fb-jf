@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: crossword-puzzle
-title: '[DE] Crossword Puzzle'
+title: "Crossword Puzzle"
 description: >-
-  [DE] Crossword Puzzle is a classic word game: fill the grid using across and
-  down clues to complete the puzzle.
+  Crossword Puzzle ist ein klassisches Worträtsel: Fülle das Gitter, indem du
+  horizontale und vertikale Hinweise löst, bis alle Kreuzungen passen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/crossword-puzzle.jpg
 tags:
@@ -15,34 +15,59 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+Ein Kreuzworträtsel besteht aus einem Buchstabengitter, das du mit Antworten
+auf nummerierte Hinweise füllst – waagerecht (Across) und senkrecht (Down). In
+US‑amerikanischen Crosswords wird in der Regel jeder Buchstabe von einem
+kreuzenden Wort überprüft, und die Gitter besitzen meist Rotationssymmetrie.
+Typische Tagesrätsel sind 15×15, Sonntagsrätsel oft 21×21 groß. Britische bzw.
+cryptic-Varianten verwenden andere Hinweis-Konventionen und Gridmuster.
 
-### Overview
-A crossword puzzle is a word grid solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is checked by an intersecting word and grids typically have rotational symmetry; daily puzzles are often 15×15 and Sunday‑size 21×21. British/cryptic styles feature different clue conventions and grid patterns. 
+### So spielst du
 
-### How to Play
-- Select a clue or cell, then type letters to fill the entry.
-- Use arrow keys to move between cells; Backspace deletes; Enter or Tab often switches direction or advances to the next clue (varies by host).
-- Cross‑checking: use intersecting letters to confirm uncertain answers.
-- Many online versions provide Check/Reveal/Undo tools and timers.
+- Klicke einen Hinweis oder ein Feld an und tippe die Buchstaben für den
+  entsprechenden Eintrag.
+- Navigiere mit den Pfeiltasten durch das Gitter; Backspace löscht, Enter oder
+  Tab wechselt (je nach Host) die Richtung oder springt zum nächsten Hinweis.
+- Nutze Kreuzbuchstaben, um unsichere Antworten zu verifizieren oder
+  Mehrdeutigkeiten aufzulösen.
+- Viele Online-Versionen bieten Check/Reveal/Undo-Tools und Timer.
 
-### Controls
-- Type A–Z to enter letters; arrow keys navigate.
-- Backspace: delete previous letter.
-- Enter/Tab: toggle direction or jump to next clue (site‑dependent).
-- Mouse/touch: tap a clue list item to focus its entry.
+### Steuerung
 
-### Tips and Strategies
-- Start with fill‑in‑the‑blank clues and plural/tense indicators (-S, -ED, -ING).
-- Use cross letters to break tough entries; revisit long themers after filling nearby downs.
-- Learn common abbreviations and crosswordese (abbr., init., alt. spellings).
-- For cryptic/British styles, parse definition + wordplay components and indicator words.
+- A–Z tippen, um Buchstaben einzutragen; Pfeiltasten bewegen den Cursor.
+- Backspace löscht den vorherigen Buchstaben.
+- Enter/Tab: Richtung umschalten oder zum nächsten Hinweis springen (host-
+  abhängig).
+- Mit Maus/Touch auf einen Hinweis in der Liste tippen, um den entsprechenden
+  Eintrag zu fokussieren.
+
+### Tipps & Strategien
+
+- Beginne mit leichten Hinweisen wie Lückentexten und solchen mit Plural- oder
+  Zeitendungen (-S, -ED, -ING).
+- Nutze Kreuzungen, um schwierige Einträge zu knacken; lange Themenantworten
+  gelingen leichter, wenn du schon einige Buchstaben durch Down-Einträge hast.
+- Lerne gängige Abkürzungen und typische "Crosswordese"-Wörter, die häufig
+  auftauchen.
+- Bei cryptic/British-Stilen: Trenne Hinweise in Definitions- und Wordplay-
+  Teil und achte auf Indikatorwörter.
 
 ### FAQ
-- Q: What’s the difference between American and British crosswords?
-A: American grids usually have all letters cross‑checked and rotational symmetry; British cryptics use wordplay‑based clues and often allow unchecked letters.  
-- Q: What size is a typical daily puzzle?
-A: Common sizes are 15×15 daily and 21×21 on Sundays (varies by publisher).  
-- Q: Are diacritics or punctuation required?
-A: Most crosswords ignore punctuation and accents; fill letters only unless specified.  
 
+- F: Worin unterscheiden sich amerikanische und britische Kreuzworträtsel?
+  
+  A: Amerikanische Gitter prüfen meist alle Buchstaben per Kreuzung und sind
+  oft rotationssymmetrisch; britische cryptics nutzen wortspielbasierte Hinweise
+  und lassen eher mal Buchstaben unüberprüft.
+
+- F: Wie groß sind typische Tagesrätsel?
+  
+  A: Üblich sind 15×15 unter der Woche und etwa 21×21 an Sonntagen (je nach
+  Verlag unterschiedlich).
+
+- F: Muss ich Satzzeichen oder Umlaute eingeben?
+  
+  A: Meist werden nur Buchstaben ohne Akzente und Satzzeichen verwendet, sofern
+  nichts anderes angegeben ist.

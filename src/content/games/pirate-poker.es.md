@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: pirate-poker
-title: '[ES] Pirate Poker'
+title: Pirate Poker - Póker de cinco cartas en alta mar
 description: >-
-  [ES] Ahoy! Bet, bluff, and build the best five-card hand in Pirate Poker.
-  Challenge salty sea dogs, manage your doubloons, and prove you're the sharpest
-  card shark on the seven seas.
+  ¡Ar, grumete! Apuesta, farolea y construye la mejor mano de cinco cartas en
+  Pirate Poker. Reta a viejos lobos de mar, administra tus doblones y demuestra
+  que eres el tiburón de las cartas más temido de los siete mares.
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/pirate-poker.png
 tags:
@@ -18,36 +18,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Pirate Poker es un póker clásico de cinco cartas (five‑card draw) con temática
+pirata. Te sientas a la mesa con curtidos bucaneros, apostando tus doblones de
+oro y tratando de formar la mejor mano posible de cinco cartas. Cada ronda
+incluye apuestas, una fase de descarte y robo para mejorar la mano y un showdown
+final para ver quién se lleva el bote. Es un juego de estrategia, psicología y
+un toque de suerte.
 
-Pirate Poker is a classic five-card draw poker game with a swashbuckling pirate theme. You'll sit at a table with salty pirate opponents, betting your gold doubloons and trying to build the best possible five-card hand. The game involves rounds of betting, a chance to exchange your cards to improve your hand, and a final showdown to see who wins the pot. It's a game of strategy, psychology, and a little bit of luck.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Conocer la jerarquía de manos:** el objetivo es formar la mejor mano de
+    cinco cartas. De mayor a menor: Escalera real, Escalera de color, Póker,
+    Full, Color, Escalera, Trío, Doble pareja, Pareja y Carta alta.
+2.  **Fase de descarte:** tras la primera ronda de apuestas puedes descartar
+    cartas y robar nuevas. Si tienes una pareja, descarta las otras tres cartas;
+    si estás cerca de una Escalera o un Color, descarta solo la que no encaja.
+3.  **Estrategia de apuesta:** no temas retirarte (Fold) con manos muy débiles
+    cuando las apuestas suben. Ocasionalmente puedes farolear (Bluff) apostando
+    fuerte con una mano floja para asustar a los rivales y que se retiren.
+4.  **Leer a los oponentes:** observa cómo apuestan. Una subida muy grande suele
+    indicar una mano fuerte (o un farol), mientras que limitarse a pasar (Check)
+    puede delatar debilidad.
 
-1.  **[ES]** **Know the Hand Rankings:** The goal is to make the best five-card hand. From highest to lowest, the standard rankings are: Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, Straight, Three of a Kind, Two Pair, One Pair, and High Card.
-2.  **[ES]** **The Draw Phase:** After the first round of betting, you'll have a chance to discard some of your cards and draw new ones. This is your chance to improve your hand. If you have a pair, discard the other three cards. If you are close to a Straight or a Flush, discard the one card that doesn't fit.
-3.  **[ES]** **Betting Strategy:** Don't be afraid to "Fold" if you have a very weak hand and the bets are getting high. Sometimes, you can "Bluff" by betting aggressively with a weak hand to try and scare your opponents into folding.
-4.  **[ES]** **Reading Your Opponents:** Pay attention to how your opponents are betting. If an opponent makes a very large bet, they likely have a strong hand (or are bluffing!). If they just "Check" (bet nothing), their hand might be weak.
+### Guía de controles
 
-### Controls Guide
+El juego se maneja con botones en pantalla.
 
-The game is played with on-screen buttons.
+*   **Bet/Raise:** subir la apuesta actual.  
+*   **Check:** pasar sin apostar, si nadie antes ha apostado en esa ronda.  
+*   **Call:** igualar la apuesta para seguir en la mano.  
+*   **Fold:** retirarse y renunciar al bote.  
+*   **Discard:** en la fase de descarte, haz clic en las cartas que quieras
+    tirar y luego en "Draw" para robar nuevas.
 
-*   **[ES]** **Bet/Raise:** Increase the current bet.
-*   **[ES]** **Check:** Bet nothing, passing the action to the next player (only possible if no one has bet before you in the round).
-*   **[ES]** **Call:** Match the current bet to stay in the hand.
-*   **[ES]** **Fold:** Give up the hand, forfeiting any money already in the pot.
-*   **[ES]** **Discard:** During the draw phase, click on the cards you want to get rid of, then click the "Draw" button.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la mejor mano en póker?**
+    *   **R:** La Escalera real (A, K, Q, J y 10 del mismo palo) es la mejor mano
+        posible.
 
-*   **[ES]** **Q: What is the best hand in poker?**
-    *   **[ES]** **A:** A Royal Flush (A, K, Q, J, 10, all of the same suit) is the highest possible hand.
+*   **P: ¿Qué significa farolear?**
+    *   **R:** Farolear es apostar con agresividad como si tuvieras una mano
+        fuerte cuando en realidad no lo es, con la esperanza de que los rivales
+        te crean y se retiren (aunque puedan tener mejores cartas).
 
-*   **[ES]** **Q: What does it mean to "bluff"?**
-    *   **[ES]** **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
-
-*   **[ES]** **Q: When should I fold?**
-    *   **[ES]** **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
-
+*   **P: ¿Cuándo debería retirarme (Fold)?**
+    *   **R:** Cuando llevas una mano muy débil (por ejemplo, sin parejas y sin
+        opciones claras de Escalera o Color) y otro jugador hace una apuesta
+        grande. Suele ser mejor perder lo ya apostado que arriesgar mucho más en
+        una mano mala.

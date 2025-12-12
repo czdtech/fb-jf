@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: fleeing-the-complex
-title: '[FR] Fleeing the Complex'
-description: >-
-  [FR] Branching stick‑figure escape: choose items and routes to break out of
-  the complex, discover multiple endings, and collect all fails/bios.
+title: "Fleeing the Complex"
+description: "Évasion à embranchements façon stickman : choisis objets et routes pour t’évader du complexe, découvre plusieurs fins et collectionne tous les fails/bios."
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/fleeing-the-complex.jpg
 tags:
@@ -15,30 +13,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Dans Fleeing the Complex, Henry Stickmin prépare sa plus grande évasion. Tu dois faire des choix, utiliser des gadgets et suivre différentes branches de routes pour tenter de fuir un complexe ultra‑sécurisé. La plupart des options se terminent par des échecs hilarants, mais plusieurs chemins mènent à de vraies fins de réussite.
 
+### Comment jouer
 
-### Overview
-Henry Stickmin’s biggest breakout: make choices, use gadgets, and navigate route branches to escape, with many joke failures and several successful endings.
+- Choisis parmi plusieurs options lors des scènes ; certains passages proposent aussi des quick‑time events où il faut cliquer au bon moment.
+- Explore les grandes branches de routes (alliances, trahisons, chemins solo, etc.) pour débloquer toutes les fins.
+- Utilise la sélection de scènes (si disponible) pour revenir directement à un moment précis et compléter les fails ou les bios manquants.
 
-### How to Play
-- Pick options during scenes; quick‑time prompts require timely clicks.
-- Explore the main route splits to find all endings.
-- Use scene select (where available) to complete fails/bios.
+### Commandes
 
-### Controls
-- Mouse to choose options and interact; keys for occasional prompts vary by host.
+- Souris : sélectionner les choix, cliquer sur les éléments interactifs et valider les quick‑time events.  
+- Certaines versions utilisent aussi des touches pour des prompts spécifiques (indiqué à l’écran).
 
-### Tips
-- When an option fails, try the alternate route—many scenes have a “correct” path.
-- Click characters during scenes to record bios if the version supports it.
-- Keep a checklist of endings to avoid repeats.
+### Astuces
 
-### FAQ
-- Q: How many endings does the game include?
-A: There are multiple successful endings across the major route branches.
-- Q: Do I need to react quickly in every scene?
-A: Only some scenes require quick clicks; most are menu choices.
-- Q: Can I rewatch scenes to collect everything?
-A: Yes, many hosts provide scene selection for cleanup.
+- Quand une option échoue, essaie le choix alternatif : beaucoup de scènes ont un « bon » chemin caché derrière plusieurs tentatives.
+- Clique sur les personnages pendant les scènes pour enregistrer leurs bios, si ta version du jeu le permet.
+- Garde une liste des fins déjà obtenues pour éviter de repasser trop souvent par les mêmes branches.
+
+### Foire aux questions (FAQ)
+
+- Q : Combien de fins différentes le jeu propose‑t‑il ?
+  
+  R : Il y a plusieurs fins de réussite réparties entre les grandes branches d’histoire. Le plaisir vient justement de toutes les découvrir.
+
+- Q : Dois‑je réagir vite dans toutes les scènes ?
+  
+  R : Non. Seules certaines scènes exigent un clic rapide ; la majorité se joue par choix de menu.
+
+- Q : Puis‑je revoir des scènes pour tout compléter ?
+  
+  R : Oui. Beaucoup d’hébergeurs fournissent une sélection de scènes ou de routes pour revenir facilement là où il te manque des fails ou des bios.
 

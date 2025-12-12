@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: drift-boss
-title: '[ES] Drift Boss'
+title: "Drift Boss"
 description: >-
-  [ES] Drift Boss is a one‑button drifting game: time your turns to stay on the
-  track and earn coins for upgrades.
+  Drift Boss es un juego de derrapes de un solo botón: calcula el giro para
+  mantenerte en la pista y acumula monedas para desbloquear mejoras.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/drift-boss.jpg
 tags:
@@ -15,29 +15,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Drift Boss te pone a derrapar sobre una pista flotante con un único control.
+Mantén pulsado para iniciar el derrape en las curvas, suelta para enderezar el
+coche y procura no caer de la plataforma. Cada metro recorrido te da monedas
+para mejorar y desbloquear vehículos.
 
-### Overview
-One‑button drifting on a floating track: tap/hold to drift at corners, release to straighten, and stay on the platform to bank coins for vehicle upgrades.
+### Cómo jugar
 
-### How to Play
-- Anticipate corner entry; press to start a drift, release to exit.
-- Narrow platforms and bumps require shorter, snappier holds.
-- Coins unlock cars with better traction or stability.
+- Anticipa la entrada a cada curva: pulsa para empezar el derrape y suelta para
+  recuperar la trazada recta.
+- Las plataformas estrechas y los baches exigen pulsaciones cortas y precisas.
+- Usa las monedas para desbloquear coches con mejor tracción o estabilidad.
 
-### Controls
-- Mouse/Space/Touch: hold to drift; release to go straight.
+### Controles
 
-### Tips
-- Look ahead for S‑bends; use micro‑taps instead of long holds.
-- Don’t over‑correct—falling usually comes from late releases.
-- Spend early on stability to survive longer tracks.
+- Ratón/Espacio/Táctil: mantén pulsado para derrapar; suelta para ir recto.
 
-### FAQ
-- Q: Is there braking?
-A: No manual brake—timed holds manage angle and speed through corners.
-- Q: Do cars handle differently?
-A: Yes—higher tiers offer grippier or more forgiving drift windows.
-- Q: How to farm coins faster?
-A: Chain long runs and complete daily/track challenges when present.
+### Consejos
 
+- Mira siempre unos tramos por delante para anticipar curvas en S; en esas
+  zonas funcionan mejor los micro‑toques que las pulsaciones largas.
+- No sobrecorrijas: la mayoría de caídas se deben a soltar tarde o mantener el
+  derrape demasiado tiempo.
+- Invierte cuanto antes en vehículos más estables para sobrevivir en tramos
+  largos.
+
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Existe freno como tal?**  
+  **R:** No hay freno manual: el control del ángulo y de la velocidad en curva
+  se hace solo con la duración de la pulsación.
+
+- **P: ¿Los coches se comportan distinto?**  
+  **R:** Sí, los modelos más caros suelen ofrecer ventanas de derrape más
+  permisivas y mejor agarre.
+
+- **P: ¿Cómo consigo monedas más rápido?**  
+  **R:** Encadena recorridos largos sin caer y completa desafíos diarios o de
+  circuito cuando estén disponibles.

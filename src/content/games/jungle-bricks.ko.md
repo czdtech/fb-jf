@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: jungle-bricks
-title: '[KO] Jungle Bricks'
+title: Jungle Bricks 정글 브릭 브레이커
 description: >-
-  [KO] Aim and shoot to clear the board in Jungle Bricks! A vibrant
-  brick-breaker game where you must strategically destroy numbered blocks before
-  they reach the bottom.
+  숫자가 적힌 블록을 맞춰 없애는 브릭 브레이커 게임 'Jungle Bricks' 가이드입니다. 각도와 튕김을 활용해 블록이 바닥에 닿기 전에
+  효율적으로 보드를 정리해 보세요.
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
 thumbnail: /new-images/jungle-bricks.png
 tags:
@@ -18,33 +17,62 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Jungle Bricks*는 정글을 배경으로 하는 현대식 브릭 브레이커 게임입니다.
+전통적인 패들 조작 대신, 화면 하단 고정 위치에서 여러 개의 공을
+한 번에 발사해 벽처럼 내려오는 블록들을 제거해야 합니다.
 
-Jungle Bricks is a captivating and modern take on the classic brick-breaker genre. Set in a vibrant jungle, the game challenges players to clear an ever-advancing wall of numbered bricks. Unlike traditional brick-breakers where you control a paddle, here you aim and shoot a volley of balls from a fixed point. Each brick has a durability number that you must reduce to zero to destroy it. The goal is to survive for as long as possible by strategically clearing the bricks before they reach the bottom of the screen.
+각 블록에는 숫자가 적혀 있는데, 이 숫자가 바로 **내려가기 전에
+맞아야 하는 횟수(체력)**입니다. 블록이 한 칸씩 아래로 내려올 때마다
+압박이 커지며, 한 블록이라도 바닥에 닿으면 게임이 종료됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Aim for Angles:** The key to a high score is maximizing the number of hits per shot. Avoid shooting straight up. Instead, aim for the sides of the screen or gaps between bricks to create complex ricochets. A well-aimed shot can have your balls bouncing around the screen for a long time, clearing multiple bricks at once.
-2.  **[KO]** **Prioritize High-Threat Bricks:** Always focus on the bricks that are closest to the bottom of the screen. A single brick touching the bottom line will end your game, so clearing these should be your top priority.
-3.  **[KO]** **Look for Power-ups:** Some bricks may contain power-ups, such as extra balls. Targeting these can dramatically increase your clearing power for subsequent turns.
-4.  **[KO]** **Plan for the Descent:** After every shot, all bricks on the screen will move one step down. Keep this in mind when planning your shots. A safe-looking board can become dangerous in just a few turns if you don't clear bricks efficiently.
+1. **직선보다 각도 노리기**  
+   점수를 많이 얻으려면 한 번 발사한 공으로 최대한 많은 블록을
+   맞혀야 합니다. 정면을 향해 쏘기보다, 벽이나 블록 사이 빈 공간을
+   향해 각도를 잡으면 공이 오래 튕기며 여러 블록을 연속으로
+   타격할 수 있습니다.
 
-### Controls Guide
+2. **위험 블록 우선 제거**  
+   항상 **바닥에 가장 가까운 줄**부터 우선 제거해야 합니다.
+   한 칸이라도 닿으면 바로 게임 오버이므로, 체력이 적더라도
+   아래줄 블록부터 먼저 없애는 것이 중요합니다.
 
-The game uses simple, one-touch controls.
+3. **파워업 블록 노리기**  
+   `+` 아이콘 등 특수 블록을 맞추면 다음 턴부터 발사되는
+   공의 개수가 늘어나, 이후 진행이 훨씬 수월해집니다.
+   가능한 한 초반에 이런 블록을 노려 공 개수를 확보해 두세요.
 
-*   **[KO]** **Aim:** Click and hold the left mouse button (or your finger on a touch screen) and drag to aim. A guideline will appear showing the initial trajectory of your shot.
-*   **[KO]** **Shoot:** Release the mouse button (or your finger) to fire the balls.
+4. **하강 타이밍 계산하기**  
+   매 발사 후 모든 블록이 한 줄씩 아래로 내려온다는 점을
+   항상 염두에 두고, 두세 턴 뒤에 어떤 줄이 위험해질지
+   미리 생각하면서 쏘면 훨씬 안정적으로 버틸 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: What do the numbers on the bricks mean?**
-    *   **[KO]** **A:** The number represents the brick's "health" or the number of times it must be hit by a ball before it is destroyed.
+- **조준**: 마우스 왼쪽 버튼(또는 터치)을 누른 상태로 드래그해
+  발사 각도를 조절하면, 궤적 가이드가 나타납니다.  
+- **발사**: 버튼/손가락을 떼면 그 방향으로 공이 일제히 발사됩니다.
 
-*   **[KO]** **Q: How do you lose the game?**
-    *   **[KO]** **A:** The game ends if any brick successfully reaches the bottom line of the play area.
 
-*   **[KO]** **Q: How can I get more balls?**
-    *   **[KO]** **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
+- **Shoot:** Release the mouse button (or your finger) to fire the balls.
+### 자주 묻는 질문(FAQ)
+
+- **Q: 블록에 적힌 숫자는 무엇인가요?**  
+  **A:** 그 블록이 제거되기까지 맞아야 하는 타격 횟수를 의미합니다.
+
+    - **Q: 언제 게임이 끝나나요?**  
+  **A:** 어떤 블록이든 하단 라인에 닿는 순간 게임이 종료됩니다.
+
+- **Q: 공을 더 늘릴 수 있나요?**  
+
+    - **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
+
+- **Q: How can I get more balls?**
+
+    - **A:** The game ends if any brick successfully reaches the bottom line of the play area.
+  **A:** `+` 등 특수 아이콘이 있는 블록을 맞혀 부수면,
+  다음 턴부터 발사되는 공의 개수가 증가합니다.
 

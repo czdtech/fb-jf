@@ -1,51 +1,45 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Spider Solitaire"
+description: "Spider Solitaireをプレイしよう。チャレンジングでやりがいのあるカードゲーム。目標は、キングからエースまでスートごとに8つの降順シーケンスを構築すること。計画と先見の明をテストするこの戦略的パズルでタブローをクリアして勝利しよう。"
+iframeSrc: "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/"
+thumbnail: "/new-images/spider-solitaire.jpg"
+urlstr: "spider-solitaire"
+score: "4.8/5  (331 votes)"
+tags: ["card-game", "puzzle", "strategy"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: spider-solitaire
-title: '[JA TRANSLATION NEEDED] Spider Solitaire'
-description: >-
-  [JA TRANSLATION NEEDED] Play Spider Solitaire, a challenging and rewarding
-  card game. Your goal is to build eight descending sequences of cards by suit,
-  from King to Ace. Clear the tableau to win in this strategic puzzle that tests
-  your planning and foresight.
-iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
-thumbnail: /new-images/spider-solitaire.jpg
-tags:
-  - card-game
-  - puzzle
-  - strategy
-score: 4.8/5  (331 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Spider Solitaire is a challenging and popular variant of the classic solitaire card game, played with two standard decks of cards (104 cards total). The main goal is to clear the entire playing area by assembling eight complete same-suit sequences of cards, ordered from King down to Ace. Once a full sequence is built, it is removed from the game.
+Spider Solitaireは、2つの標準カードデッキ（合計104枚）でプレイされる、クラシックソリティアカードゲームのチャレンジングで人気のあるバリアントです。主な目標は、キングからエースまで順番に並んだ同じスートの8つの完全なシーケンスを組み立てることで、プレイエリア全体をクリアすることです。完全なシーケンスが構築されると、ゲームから削除されます。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-- **Objective:** Build eight descending sequences of the same suit (King, Queen, Jack, ..., Ace).
-- **Building on the Tableau:** You can place a card on top of another card if it is one rank lower (e.g., a 7 on an 8). While you can stack cards of different suits, you can only move a group of cards together if they are all of the same suit.
-- **Empty Columns:** An empty column can be filled with any available card or a sequence of cards.
-- **Stock Pile:** When you have no more available moves on the tableau, you can deal a new row of 10 cards from the stock pile. You can only do this when there are no empty columns.
+- **目標：** 同じスートの8つの降順シーケンス（キング、クイーン、ジャック、...、エース）を構築します。
+- **タブローで構築：** 1ランク低いカードの上にカードを置くことができます（例：8の上に7）。異なるスートのカードを積み重ねることはできますが、すべて同じスートである場合にのみ、カードのグループを一緒に移動できます。
+- **空の列：** 空の列は、利用可能な任意のカードまたはカードのシーケンスで埋めることができます。
+- **ストックパイル：** タブローで利用可能な移動がなくなったら、ストックパイルから10枚のカードの新しい行を配ることができます。これは空の列がない場合にのみ実行できます。
 
-### Controls Guide
+### 操作ガイド
 
-- **Mouse/Touch:** Click and drag cards to move them between columns. Most versions also support a single click to automatically move a card to a valid position if one exists.
+- **マウス/タッチ：** カードをクリックしてドラッグし、列間で移動します。ほとんどのバージョンでは、シングルクリックで、有効な位置がある場合にカードを自動的にそこに移動することもサポートしています。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What do the different difficulty levels mean?**
+**異なる難易度レベルはどういう意味ですか？**
 
-[JA TRANSLATION NEEDED] The difficulty is determined by the number of suits used:
-- **1-Suit (Beginner):** All 104 cards are of a single suit, making it much easier to form sequences.
-- **2-Suit (Intermediate):** Uses two suits, requiring you to manage building separate sequences.
-- **4-Suit (Advanced):** The most challenging version, using all four suits.
+難易度は使用されるスートの数によって決まります：
+- **1スート（初心者）：** 104枚すべてのカードが1つのスートで、シーケンスを形成するのがはるかに簡単です。
+- **2スート（中級）：** 2つのスートを使用し、別々のシーケンスを構築することを管理する必要があります。
+- **4スート（上級）：** すべての4つのスートを使用する最も挑戦的なバージョン。
 
-[JA TRANSLATION NEEDED] **Why is it called Spider Solitaire?**
+**なぜSpider Solitaireと呼ばれるのですか？**
 
-[JA TRANSLATION NEEDED] The name comes from the eight sequences you need to build, corresponding to a spider's eight legs.
+名前は、構築する必要がある8つのシーケンスから来ており、クモの8本の足に対応しています。
 
-[JA TRANSLATION NEEDED] **What is the main strategy?**
+**主な戦略は何ですか？**
 
-[JA TRANSLATION NEEDED] Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
-
+カードを再配置するための空きスペースを作成するために、できるだけ早く列を空にしようとします。また、より多くの選択肢をプレイに持ち込むために、裏向きのカードを明らかにすることも重要です。可能な限り、同じスートのシーケンスを構築しようとします。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: merge-melons
-title: '[KO] Merge Melons'
+title: Merge Melons 머지 멜론
 description: >-
-  [KO] Drop and merge fruits in this addictive puzzle game inspired by Suika
-  Game. Combine identical fruits to create bigger ones, aiming for the giant
-  watermelon, but don't let your container overflow!
+  Merge Melons는 수이카 게임에서 영감을 받은 과일 머지 퍼즐로, 떨어지는 과일을 합쳐 점점 더 큰 과일을 만들고, 거대한 수박까지
+  노려 보는 게임입니다. 다만, 통이 넘치지 않도록 높이를 잘 관리해야 합니다.
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/merge-melons.png
 tags:
@@ -18,35 +17,44 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Merge Melons*는 "수이카 게임", "수박 게임"으로도 알려진 물리 기반 머지 퍼즐입니다.
+플레이 방식은 단순하지만 꽤 중독성이 있습니다. 다양한 과일이 순서대로 등장하고,
+플레이어는 이 과일들을 통 안으로 떨어뜨립니다. 동일한 과일 둘이 맞닿으면 진화
+사이클의 다음 단계 과일로 합쳐지며, 궁극적으로 가장 큰 과일인 수박을 만들어 높은
+점수를 노리는 것이 목표입니다. 단, 통 윗선을 넘지 않도록 높이를 조절해야 합니다.
 
-### Detailed Game Introduction
+### 공략 & 진행 팁
 
-Merge Melons is a delightful and addictive physics-based puzzle game, famously known as a "Suika Game" or "Watermelon Game." The premise is simple yet captivating: you drop various types of fruits into a container. When two identical fruits touch, they merge into a single, larger fruit of the next type in the evolution cycle. Your goal is to create the largest fruit possible—the watermelon—and achieve the highest score without letting the container overflow.
+1. **과일 진화 순서 기억하기:** 포도 두 개가 어떤 과일로 합쳐지는지처럼, 과일이
+   어떤 순서로 진화하는지 미리 외워 두면 다음 수를 계획하기 쉬워집니다.
+2. **전략적인 위치 선정:** 아무 데나 떨어뜨리기보다는 작은 과일이 같은 종류의 과일
+   옆으로 굴러가 합쳐질 수 있는 지점을 노려 두세요. 아주 큰 과일을 너무 작은 과일
+   위에 떨구면 작은 과일이 갇혀 공간만 낭비됩니다.
+3. **연쇄 반응 설계:** 이 게임의 하이라이트는 연쇄 머지입니다. 한 번의 합성이 새로운
+   과일을 굴리거나 떨어뜨려, 추가 합성을 연달아 일으키도록 배치하는 것이 중요합니다.
+4. **공간 관리:** 과일이 위쪽 기준선을 넘으면 게임이 끝납니다. 남은 공간을 항상 의식하고,
+   최적의 합성이 아니더라도 공간 확보를 위해 과감하게 합치는 선택이 필요한 순간도
+   있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Understand the Fruit Cycle:** Memorize the order of fruit evolution. Knowing what two fruits will create next (e.g., two grapes make an orange) is crucial for planning your drops.
-2.  **[KO]** **Strategic Placement:** Don't just drop fruits randomly. Try to place smaller fruits in positions where they are likely to meet their identical counterparts. Avoid dropping a large fruit on top of a much smaller one, as this can trap the small fruit and waste valuable space.
-3.  **[KO]** **Set Up Chain Reactions:** The most satisfying part of the game is a chain reaction. Try to arrange fruits so that one merge will cause the newly formed fruit to roll or drop and create another merge, and so on. This is key to clearing space and racking up a high score.
-4.  **[KO]** **Manage Your Space:** The game ends when the fruits pile up and cross the line at the top. Always be mindful of how much space you have left. Sometimes it's better to make a less optimal merge just to clear some room.
+조작은 매우 직관적입니다.
 
-### Controls Guide
+* **과일 위치 조절(PC):** 마우스를 좌우로 움직여 과일이 떨어질 위치를 조준합니다.
+* **과일 떨어뜨리기(PC):** 왼쪽 마우스 버튼을 클릭해 과일을 떨어뜨립니다.
+* **모바일 조작:** 손가락을 좌우로 움직여 조준한 뒤, 손을 떼면 과일이 떨어집니다.
 
-The controls are very straightforward.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Position the Fruit (Desktop):** Move your mouse left and right to determine where the fruit will be dropped from.
-*   **[KO]** **Drop the Fruit (Desktop):** Click the left mouse button to release the fruit.
-*   **[KO]** **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
+* **Q: 이 게임의 최종 목표는 무엇인가요?**
+    - **A:** 가능한 한 높은 점수를 얻는 것이 목표입니다. 게임 내에서는 두 번째로 큰
+    과일 두 개를 합쳐 수박을 만드는 것이 하나의 상징적인 달성 지점입니다.
 
-### Frequently Asked Questions (FAQ)
+* **Q: 어떻게 하면 게임에서 지게 되나요?**
+    - **A:** 통 안에 쌓인 과일이 위쪽 경계선을 터치하거나 넘어서는 순간 게임이 종료됩니다.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** The main goal is to get the highest score possible by continuously merging fruits. The ultimate achievement within a game is to successfully create a watermelon by merging two of the second-largest fruits.
-
-*   **[KO]** **Q: How do I lose the game?**
-    *   **[KO]** **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
-
-*   **[KO]** **Q: Is there a way to control where the fruits go after they merge?**
-    *   **[KO]** **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
-
+* **Q: 합성 후 과일이 어디로 굴러갈지 조종할 수 있나요?**
+    - **A:** 직접적으로 조종할 수는 없지만, 과일을 떨어뜨리는 위치와 각도를 신중히
+    선택하면 굴러가는 방향과 최종 위치를 어느 정도 예측하고 유도할 수 있습니다.

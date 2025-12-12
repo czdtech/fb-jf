@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: collect-same-thing
-title: '[ZH TRANSLATION NEEDED] Collect Same Thing'
+title: "Collect Same Thing 同物配对消除"
 description: >-
-  [ZH TRANSLATION NEEDED] Collect Same Thing is a tidy pairing game — find
-  identical items, clear the board, and plan around limited space.
+  《Collect Same Thing 同物配对消除》是一款画面整洁的配对消除游戏。你需要在有限空
+  间里找出相同物品，将它们成对消除，合理规划出牌顺序和空间，才能顺利清空棋盘。
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/collect-same-thing.png
 tags:
@@ -18,30 +18,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Collect Same Thing challenges you to match identical tiles or items under space/time limits. Removing pairs reveals deeper layers; success requires opening lanes, prioritizing scarce tiles, and avoiding isolated singles.
+《Collect Same Thing 同物配对消除》是一款考验观察力与空间规划的配对消除类益智游戏。
+你需要在时间或步数限制下，找出棋盘上成对的相同方块或物品，将它们配对移除。每一次
+成功消除都会露出更深一层被遮挡的图块，帮助你逐步看清整个布局。
+
+要想获胜，仅仅“能找到一对”远远不够，你还需要提前规划通路，优先处理稀有图案，避免
+最后只剩下几块“单身狗”被卡在角落，既没有配对对象又阻塞了空间。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Open lanes first to expose hidden tiles.
-2.  [ZH TRANSLATION NEEDED] Match scarce items early before they clog the board.
-3.  [ZH TRANSLATION NEEDED] Work bottom‑up to create cascades (when layers exist).
-4.  [ZH TRANSLATION NEEDED] Avoid cornering singletons that have few partners.
-5.  [ZH TRANSLATION NEEDED] Save shuffles/hints for emergencies.
+
+1.  **优先打开通路：** 开局时先处理那些能“打通道路”的配对，尽量让更多被遮挡的方块暴
+    露出来。视野越开阔，你的可选方案就越多。
+2.  **稀有图案先消：** 如果发现某种图案在整个棋盘上出现次数较少，建议优先配对并消除
+    。否则一旦布局变得拥挤，很可能会剩下找不到对象的“孤立方块”。
+3.  **自下而上制造连锁：** 当存在多层堆叠时，尝试从底部开始清理，让上层方块自然下落
+    ，形成连锁式的空间释放，这样更容易创造连续可解局面。
+4.  **避免把方块“堵死”在角落：** 尽量不要留下被多层包围、可移动路径极少的单个方块。
+    一旦被彻底包住，就很容易走向无解，只能重来。
+5.  **提示/洗牌留到关键时刻：** 如果游戏提供提示或洗牌功能，不要一上来就用。建议留
+    在你真正“全盘看不到任何合理操作”时再使用，以防中途浪费资源。
 
 ### Controls Guide
 
-- Click/tap to select pairs per mode rules.
-- Use hint/shuffle (if available) sparingly.
+- 根据具体模式规则，点击或轻触成对方块即可完成配对消除。
+- 如有提示或洗牌按钮，请谨慎使用，只在需要时点击。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I get stuck with no pairs — what now?
-  
-[ZH TRANSLATION NEEDED]   A: Shuffle if allowed or restart with a different opening that preserves lanes.
+- **Q: 走着走着就完全没有可配对的了怎么办？**  
+  **A：** 如果游戏允许洗牌，可以使用洗牌让布局重新分布；若没有洗牌功能，则只能重新
+  开局。下次开局时尽量保留更多通路、避免过早堵死角落。
 
-- Q: Timed or move limits?
-  
-[ZH TRANSLATION NEEDED]   A: Modes vary; play faster for timers and plan deeper for move limits.
+- **Q: 这游戏是计时还是算步数？**  
+  **A：** 具体模式因版本而异。有的关卡有时间限制，需要加快手速；有的则是步数限制，
+  需要更专注于整体规划，每一步都要尽量“顺带解锁更多可能性”。
 
-- Q: Any scoring tips?
-  
-[ZH TRANSLATION NEEDED]   A: Chain quick pairs to maintain combo bonuses where supported.
+- **Q: 有什么提高得分的小技巧？**  
+  **A：** 在支持连击加成的模式下，尝试连续快速完成多次配对，保持高连击可以显著提高
+  得分。不过前提仍然是不能牺牲整体局面稳定性。

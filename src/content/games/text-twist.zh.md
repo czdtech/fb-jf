@@ -1,12 +1,8 @@
 ---
 locale: zh
 urlstr: text-twist
-title: '[ZH TRANSLATION NEEDED] Text Twist'
-description: >-
-  [ZH TRANSLATION NEEDED] Challenge your vocabulary and quick thinking in Text
-  Twist, an addictive word puzzle game! Unscramble jumbled letters to form as
-  many words as possible within a time limit. Find the 'Bingo word' to advance
-  and aim for the highest score in this classic brain-teaser.
+title: 《Text Twist》英文拼词挑战
+description: 《Text Twist》是一款经典的英文单词拼写游戏。根据给出的一组字母，在限定时间内尽量拼出更多合法单词，并找出使用全部字母的关键单词以进入下一轮。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/text-twist.jpg
@@ -18,36 +14,35 @@ score: 4.0/5  (100 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Text Twist is a popular and engaging word puzzle game that challenges your vocabulary and speed. Players are presented with a set of jumbled letters and must form as many valid words as possible within a time limit. The game rewards longer words with more points and requires players to find a "Bingo word" (a word using all letters) to advance to the next round.
+《Text Twist》是一款兼具挑战性和趣味性的英文拼词游戏，非常适合想练习词汇量或热爱字谜的玩家。每一局游戏会给出一组打乱顺序的英文字母，你需要在计时结束前，用这些字母拼出尽可能多的有效英文单词。要想进入下一轮，你必须至少找到一个由全部字母组成的“Bingo 单词”。
 
-### Gameplay Guide
+> 提示：本游戏完全基于英文词汇，对英文基础薄弱的玩家可能比较有挑战，可以当作英语练习工具来玩。
 
-- **Objective:** Form words from the given letters. The goal is to find all possible words and especially the "Bingo word" to progress.
-- **Letters:** You'll typically receive 6 or 7 jumbled letters.
-- **Time Limit:** Each round has a timer (usually 2 minutes).
-- **Scoring:** Points are awarded based on word length; longer words give more points. Finding all words in a round often grants a bonus.
-- **"Twist" Button:** Use the "Twist" button (or spacebar) to shuffle the letters, which can help you spot new words.
+### 游玩指南
 
-### Controls Guide
+- **目标：** 在给定的一组字母中拼出尽可能多的单词，尤其是找出至少一个包含所有字母的 Bingo 单词以通关。
+- **字母数量：** 通常会提供 6 或 7 个字母，你可以重复使用它们组合出不同单词。
+- **时间限制：** 每轮有固定计时（常见为约 2 分钟），时间耗尽前未找到 Bingo 单词则本局失败。
+- **得分机制：** 单词越长得分越高，完成当前轮所有可拼单词通常还会额外给奖励分。
+- **“Twist” 按钮：** 点击 “Twist” 或按空格键可以打乱字母排列，帮助你从新的视觉顺序中发现更多单词。
 
-- **Typing:** Use your keyboard to type out the words you find.
-- **Enter Word:** Press `Enter` to submit a word.
-- **Twist Letters:** Click the "Twist" button or press `Spacebar`.
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **输入单词：** 使用键盘直接输入你想到的英文单词；
+- **提交单词：** 输入完毕后按 `Enter` 提交；
+- **重排字母：** 点击 “Twist” 按钮或按 `Spacebar` 打乱字母顺序；
+- **清空当前输入：** 点击 “Clear” 或按 `Backspace` 清除当前输入。
 
-[ZH TRANSLATION NEEDED] **What is a "Bingo word"?**
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] A "Bingo word" is a word that uses all the letters provided in the current round. You must find at least one Bingo word to advance to the next round.
+**问：什么是 Bingo word？****
+答：** Bingo word 指的是使用当前局提供的所有字母拼出的完整单词。只有找到至少一个这样的单词，才能进入下一关。
 
-[ZH TRANSLATION NEEDED] **How can I improve my score?**
+**问：如何提升分数与通关率？****
+答：** 优先寻找较长的单词，多利用 “Twist” 重排字母帮助自己发现新组合。遇到生词时，可以记录下来作为词汇积累，下次再遇到类似字母组合会更容易想到。
 
-[ZH TRANSLATION NEEDED] Focus on finding longer words, as they yield more points. Also, try to find all possible words in a round to get the bonus points. Using the "Twist" button frequently can help you see new combinations.
-
-[ZH TRANSLATION NEEDED] **Are there different difficulty levels?**
-
-[ZH TRANSLATION NEEDED] As you progress through the levels, the puzzles generally become more challenging, requiring you to find more complex words or deal with a larger set of letters.
+**问：游戏难度会逐渐上升吗？****
+答：** 会。随着关卡推进，需要找到的单词数量会增多，包含的词汇也更复杂，对反应速度和词汇广度的要求随之提高。
 

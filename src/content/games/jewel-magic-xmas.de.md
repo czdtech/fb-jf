@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: jewel-magic-xmas
-title: '[DE] Jewel Magic Xmas'
+title: Jewel Magic Xmas
 description: >-
-  [DE] Get into the holiday spirit with Jewel Magic Xmas! A festive match-3
-  puzzle game where you swap Christmas ornaments to solve puzzles and complete
-  cheerful levels.
+  Stimme dich mit Jewel Magic Xmas auf Weihnachten ein! In diesem festlichen
+  Match-3-Puzzlespiel tauschst du bunte Weihnachtskugeln und Deko, löst Kombos
+  aus und meisterst fröhliche Levelziele.
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
 thumbnail: /new-images/jewel-magic-xmas.png
 tags:
@@ -17,38 +17,70 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jewel Magic Xmas ist ein stimmungsvolles Match-3-Puzzlespiel im
+Weihnachts-Design. Du befindest dich in einer winterlichen Welt voller bunter
+Kugeln, Zuckerstangen und Glocken. Durch das Vertauschen benachbarter
+Weihnachtsobjekte bildest du Reihen aus drei oder mehr gleichen Symbolen,
+räumst das Spielfeld und erfüllst unterschiedliche Ziele – vom Befreien
+vereister Felder bis hin zum Einsammeln von Geschenken.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Weihnachtliche Power-ups erstellen**  
+    Der Schlüssel zum Erfolg ist das Bilden von Matches mit mehr als drei
+    Steinen:
 
-Jewel Magic Xmas is a festive and cheerful match-3 puzzle game that wraps the classic jewel-matching experience in a delightful Christmas theme. Players will find themselves in a winter wonderland, swapping colorful ornaments, candy canes, and bells. The goal is to match three or more identical festive items to complete level objectives, create powerful combos, and spread the holiday cheer.
+    *   **Vierer-Match:** Erzeugt ein Linien-Power-up, das eine ganze Reihe
+        oder Spalte wegräumt.
+    *   **Fünfer-Match in L- oder T-Form:** Erzeugt eine Bombe, die in einem
+        Bereich um sich herum alles wegsprengt.
+    *   **Fünfer-Match in einer Linie:** Schafft ein mehrfarbiges Spezialobjekt,
+        das alle Symbole einer gewählten Farbe vom Spielfeld entfernt.
 
-### Gameplay Strategy & Walkthrough
+2.  **Power-ups kombinieren**  
+    Die stärksten Effekte erhältst du, wenn du zwei Spezialsteine miteinander
+    vertauschst. So entstehen riesige Explosionen oder großflächige Clears, mit
+    denen du auch schwierige Levelziele in wenigen Zügen schaffst.
 
-1.  **[DE]** **Festive Power-ups:** The key to clearing the board is creating special items by matching more than three ornaments.
-    *   **[DE]** **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
-    *   **[DE]** **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
-    *   **[DE]** **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
+3.  **Levelziele im Fokus behalten**  
+    Jedes Level hat eigene Aufgaben – etwa alle vereisten Felder aufzutauen
+    oder Geschenke nach unten fallen zu lassen. Verschwende deine Züge nicht an
+    Matches, die nur Punkte bringen, sondern arbeite gezielt an den
+    Aufgabenfeldern.
 
-2.  **[DE]** **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
-3.  **[DE]** **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
-4.  **[DE]** **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+4.  **Von unten spielen**  
+    Matches nahe des unteren Bildschirmrands lösen oft Kettenreaktionen aus, bei
+    denen neue Symbole nachrutschen und automatisch weitere Reihen bilden. Das
+    spart Züge und räumt das Feld effizient.
 
-### Controls Guide
+### Steuerung
 
-The game is played with simple mouse or touch controls.
+Das Spiel wird bequem mit Maus oder Touch bedient.
 
-*   **[DE]** **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
+*   **Symbole tauschen:** Tippe auf ein Ornament und ziehe es auf ein
+    benachbartes Feld, um es zu vertauschen. Der Tausch klappt nur, wenn dabei
+    eine gültige Kombination entsteht.
 
-### Frequently Asked Questions (FAQ)
+### FAQ
 
-*   **[DE]** **Q: How do I break the frozen ice blocks?**
-    *   **[DE]** **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
+*   **F: Wie entferne ich gefrorene Eisblöcke?**  
+    **A:** Du musst ein Match direkt neben einem Eisblock bilden oder ihn in
+    eine Kombination einbeziehen. Manche Blöcke benötigen mehrere Treffer, bis
+    sie vollständig verschwinden.
 
-*   **[DE]** **Q: What is the best combo?**
-    *   **[DE]** **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
+    - **F: Was ist die stärkste Kombination?**  
+    **A:** Zwei Spezialobjekte aus Fünfer-Matches in einer Linie sind
+    besonders mächtig. Vertauschst du sie miteinander, wird praktisch das ganze
+    Spielfeld auf einmal geräumt.
 
-*   **[DE]** **Q: What happens if I run out of moves?**
-    *   **[DE]** **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+*   **F: Was passiert, wenn mir die Züge ausgehen?**  
 
+    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+
+- **Q: What happens if I run out of moves?**
+
+    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
+    **A:** Schaffst du das Levelziel nicht innerhalb des Zuglimits, musst du das
+    Level neu starten und es erneut versuchen.

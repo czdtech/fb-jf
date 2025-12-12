@@ -1,70 +1,50 @@
 ---
-locale: ja
+title: Wood Block Match
+description: Wood Block Matchは、木製ブロックパズルゲームです。ブロックを配置して列をクリアしましょう。
+iframeSrc: 'https://ubg98.github.io/WoodBlockMatch/'
+thumbnail: /new-images/wood-block-match.jpg
 urlstr: wood-block-match
-title: '[JA TRANSLATION NEEDED] Wood Block Match'
-description: >-
-  [JA TRANSLATION NEEDED] Wood Block Match is a calming block‑fit — place wooden
-  shapes, clear rows/columns, and preserve space with smart pocketing.
-iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
-thumbnail: /new-images/wood-block-match.png
+score: 4.4/5  (2876 votes)
 tags:
   - puzzle
-  - thinky
-  - casual
-score: 4.1/5  (1969 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - block
+  - strategy
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Wood Block Matchは、木製ブロックを配置して列や行をクリアするパズルゲームです。戦略的にブロックを置いて高得点を目指しましょう。
 
-[JA TRANSLATION NEEDED] Wood Block Match is a 10×10‑style block placement game with wooden aesthetics. Each turn you receive a batch of shapes; place them to complete rows/columns and clear space. The session ends when none of the remaining pieces fit — so success is about preserving flexible lanes while engineering multi‑line clears.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Center breathing room: Keep the board center open; tidy edges to prevent single‑cell traps.
-[JA TRANSLATION NEEDED] 2.  Pocket planning: Reserve a 2×2 or L‑shaped pocket for awkward triominoes.
-[JA TRANSLATION NEEDED] 3.  Hard piece first: When crowded, place the largest/most awkward piece first.
-[JA TRANSLATION NEEDED] 4.  Double clears: Build two‑line setups so one piece clears both.
-[JA TRANSLATION NEEDED] 5.  Undo discipline: If available, undo immediately after a placement that seals pockets.
-
-### Controls Guide
-
-- Drag pieces into the grid; rotate if the mode supports it; clear rows/cols score points.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I run out of space very quickly — what should I change?
-  
-[JA TRANSLATION NEEDED]   A: Protect the center, pre‑plan one pocket for awkward pieces, and prefer double‑clear setups over single clears.
-
-- Q: Can I rotate pieces?
-  
-[JA TRANSLATION NEEDED]   A: Some variants disallow rotation — compensate with better pocketing.
-
-- Q: Any tip for high scores?
-  
+ - **ブロックを配置：** グリッドにブロックを置きます
+ - **列をクリア：** 完全な列や行を作って消します
+ - **スペース管理：** グリッドがいっぱいにならないようにします
+ - **高得点：** できるだけ多くの列をクリアします
 
 
-
-
-
-- Q: I run out of space very quickly — what should I change?
-### よくある質問（FAQ）
-- Drag pieces into the grid; rotate if the mode supports it; clear rows/cols score points.
-### コントロールガイド
 - Undo discipline: If available, undo immediately after a placement that seals pockets.
-[JA TRANSLATION NEEDED]   A: Chain consecutive double clears and avoid emergency singles that break structure.
+### 操作ガイド
+
+ - **マウス：** ブロックをドラッグして配置
+
+### よくある質問（FAQ）
 
 
+- Q: I run out of space very quickly — what should I change?
+**ゲームの目標は何ですか？**
 
 
-
-
-A: Chain consecutive double clears and avoid emergency singles that break structure.
-- Q: Any tip for high scores?
-A: Some variants disallow rotation — compensate with better pocketing.
 - Q: Can I rotate pieces?
+ブロックを配置して列や行をクリアし、高得点を獲得することです。
 
 
-A: Chain consecutive double clears and avoid emergency singles that break structure.
+- Q: Any tip for high scores?
+**ブロックを回転できますか？**
+
+いいえ、ブロックは固定された形です。
+
+**ゲームオーバーはいつですか？**
+
+グリッドがいっぱいで新しいブロックが置けなくなったときです。

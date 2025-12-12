@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: baldis-basics
-title: '[ZH TRANSLATION NEEDED] Baldi''s Basics'
+title: "Baldi's Basics バルディ先生の教育＆ホラー"
 description: >-
-  [ZH TRANSLATION NEEDED] A detailed guide to Baldi's Basics, the parody
-  survival horror game. Learn how to collect notebooks, use items strategically,
-  avoid Baldi and other characters, and escape the schoolhouse.
+  《Baldi's Basics（バルディ先生の教育＆ホラー）》是一款看起来像 90 年代低成本教育游戏、实际却是恶搞向生存ホラー的作品。下面是关于收集笔记本、道具使用、角色机制和逃出校园的完整攻略。
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/baldis-basics.jpg
 tags:
@@ -18,62 +16,81 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 详细介绍
 
-[ZH TRANSLATION NEEDED] *Baldi's Basics in Education and Learning* is a surreal survival horror game that masquerades as a low-budget 90s educational game. The player takes on the role of a student at Baldi's schoolhouse, with the initial objective of finding seven notebooks scattered throughout the classrooms to help a friend.
+*Baldi's Basics in Education and Learning* 表面上是一款 90 年代风格的低成本教育游戏，实际上却是一款超现实的生存ホラー。你扮演一名学生，被困在 Baldi 老师的校舍里，一开始的目标只是帮朋友收集散落在教室中的 7 本笔记本。
 
-[ZH TRANSLATION NEEDED] The game starts innocently enough. The first notebook contains simple arithmetic problems. However, the game's true nature is revealed upon finding the second notebook, where the third question is a jumbled, unsolvable mess of numbers. Answering this question incorrectly—which is unavoidable—enrages the titular character, Baldi. Armed with a ruler, Baldi begins to hunt the player through the halls of the school. From this point on, the game becomes a tense cat-and-mouse chase. The primary goal shifts from education to survival: collect the remaining five notebooks while evading Baldi and a cast of other bizarre characters, each with their own unique way of impeding your progress, and ultimately find a way to escape the school.
+游戏开局看起来人畜无害：第一册笔记本里只是一些简单的算术题，你可以悠闲地在走廊里探索教室、查看黑板。
 
-### Gameplay Strategy
+但当你拿到第二本笔记本时，真正的恐怖开始显露——第三道题目会变成一团乱七八糟的数字噪音，根本不可能解答。无论你输入什么，都是错的，而这正是游戏设计的一部分：回答错误会激怒 Baldi，他会拿着尺子开始在走廊里追杀你。从那一刻起，游戏从“教育”正式转变为“逃生”。
 
-[ZH TRANSLATION NEEDED] Success in *Baldi's Basics* relies on sound awareness, resource management, and understanding the behavior of each character.
+此后，你需要在逐渐紧张的气氛中，一边躲避 Baldi 和一群各有怪癖的角色，一边想办法拿到剩下的 5 本笔记本，最终找到离开校舍的出口。
 
-1.  **Sound is Your Most Important Tool:** Baldi's primary method of locating you is sound. He is drawn to the sound of opening and closing doors. More importantly, you can track his proximity by listening to the sound of his ruler slapping against his hand. The louder and more frequent the slap, the closer he is. Use this to your advantage to know when to hide or run.
-2.  **Stamina Management is Key:** You have a limited stamina bar for running (activated with the Shift key). Do not waste it. Only run when Baldi is very close or when you need to quickly cross an open area. The Principal will also put you in detention for running in the halls, so be mindful of his location.
-3.  **Learn the Characters and How to Counter Them:**
-    *   **Baldi:** He gets faster with every notebook you collect. Keep your distance and use sound to misdirect him if possible.
-    *   **Playtime:** A little girl with a jump rope who will force you to play with her, stopping you in your tracks. The only way to escape quickly is by using the **Safety Scissors** to cut her rope. Always try to have scissors on hand.
-    *   **Principal of the Thing:** He roams the halls and will send you to detention (a 15-30 second timeout) for breaking school rules (running, entering faculty rooms, using BSoda in the halls). Avoid him when you need to run.
-    *   **It's a Bully:** Blocks hallways and demands an item. You must give him something from your inventory to pass. It's often best to find an alternate route.
-    *   **Gotta Sweep:** A giant broom that periodically sweeps through the halls, pushing all characters (including you and Baldi) in its path. It can be a lifesaver or a death sentence depending on the situation.
-    *   **1st Prize:** A slow-moving robot that will hug you and push you down a hallway. He can be annoying, but sometimes he can push you away from Baldi. You can use the scissors on his wiring to disable him temporarily.
-4.  **Item Strategy:**
-    *   **BSoda:** A can of soda that can be used to push characters away. Excellent for creating distance from Baldi or getting past the Bully without losing a more valuable item.
-    *   **Energy Flavored Zesty Bar:** Fully restores your stamina. Invaluable for making a long run.
-    *   **Safety Scissors:** Your counter to Playtime and 1st Prize. A top-priority item.
-    *   **Quarter:** Can be used in vending machines to get a BSoda or on the payphone in the Principal's office to briefly distract Baldi.
-5.  **The Final Escape:** After collecting all seven notebooks, the school will turn red, an alarm will blare, and Baldi will move at his maximum speed. You must find three exits, which will initially be blocked. After touching all three fake exits, the fourth and final exit will open, allowing you to escape. This final phase is a pure test of speed, item usage, and luck.
+### 游戏策略
 
-### Controls Guide
+想要通关 *Baldi's Basics*，必须掌握听声辨位、道具管理，以及每个角色的行为逻辑。
 
-[ZH TRANSLATION NEEDED] Controls are standard for first-person PC games.
+1.  **声音是你最重要的情报来源：**  
+    Baldi 主要是靠声音来定位你的：  
+    - 他会被开门、关门的声音吸引；  
+    - 你则可以通过听他用尺子“啪、啪、啪”敲手掌的声音判断距离——声音越响、节奏越密集，就说明离你越近。利用好这一点，提前判断是该躲还是该跑。
 
-*   **`W`, `A`, `S`, `D` Keys**: Move forward, left, backward, and right.
-*   **Mouse**: Look around.
-*   **`Left-Shift` Key**: Hold to run (consumes stamina).
-*   **`Left Mouse Button`**: Open doors and pick up items.
-*   **`Right Mouse Button`**: Use the currently selected item.
-*   **Mouse Scroll Wheel**: Cycle through your inventory items.
-*   **`Spacebar`**: Look behind you (in newer versions/updates).
+2.  **体力（Stamina）管理非常关键：**  
+    - 跑步会消耗体力条（通常按住 Shift）；  
+    - 体力用光后会短时间无法再跑，在关键时刻很致命；  
+    - 只有在 Baldi 非常接近，或者需要穿过大块开阔区域时才值得全力奔跑；  
+    - 同时要注意校长（Principal of the Thing），他会因为你在走廊跑步而给你关禁闭。
 
-### Frequently Asked Questions (FAQ)
+3.  **了解每个角色，并准备好对应对策：** 下面这些角色都会严重影响你的逃生节奏，需要提前熟悉：
+    - **Baldi：** 每拿到一本笔记本，他的移动速度就会变快。永远保持距离，尽量利用拐角和声音误导他。  
+    - **Playtime：** 拿跳绳的小女孩，会强行拉你玩跳绳小游戏，过程无法移动，被耽搁数秒。唯一快速脱身的办法是使用 **Safety Scissors（安全剪刀）** 剪断她的绳子，所以身上尽量常备一把剪刀。  
+    - **Principal of the Thing：** 巡逻的校长，会因为你“违反校规”（跑步、进教师办公室、在走廊喷 BSoda 等）把你关进 detention（禁闭室）。在需要跑步的路段尽量避开他。  
+    - **It's a Bully：** 挡在走廊中间不让路的恶霸，会索要你背包里的道具。你必须给他一件东西才能通过，通常能绕路就绕路。  
+    - **Gotta Sweep：** 巨大的扫帚，会定期在走廊里横扫，把途中的人物全部推着走，包括你和 Baldi。这可能救你一命，也可能直接把你推到 Baldi 面前。  
+    - **1st Prize：** 慢吞吞的机器人，会热情地抱住你，把你推着在走廊滑行。有时候很烦人，有时候能帮你拉开和 Baldi 的距离。你也可以用剪刀剪他的电线暂时让他停机。
 
-[ZH TRANSLATION NEEDED] **1. How do I solve the impossible math problem?**
-[ZH TRANSLATION NEEDED] You can't. The garbled, impossible problem in the second (and subsequent) notebooks is a core game mechanic designed to be unsolvable. Answering it incorrectly is what triggers Baldi's chase.
+4.  **道具使用策略：** 合理使用道具往往比单纯跑路更重要：
+    - **BSoda：** 罐装汽水，可以把正面的人/怪推开一大段距离，是拉开与 Baldi 距离的王牌道具，也可以用来把 Bully 推走。  
+    - **Energy Flavored Zesty Bar：** 恢复体力的能量棒，可以瞬间回满 Stamina，适合在后期紧急逃跑前使用。  
+    - **Safety Scissors：** 剪刀是应对 Playtime 和 1st Prize 的关键道具，优先级非常高。  
+    - **Quarter：** 零钱可以用来在自动贩卖机买 BSoda，或者在校长办公室的电话上使用，短暂吸引 Baldi 的注意力。
 
-[ZH TRANSLATION NEEDED] **2. Why does Baldi get faster?**
-[ZH TRANSLATION NEEDED] Baldi's speed increases with every notebook you successfully collect. This is the game's primary difficulty curve, forcing you to be more strategic as you progress.
+5.  **最终逃脱阶段：**  
+    当你收集齐 7 本笔记本后，整个学校会变红、警报拉响，Baldi 的速度会提升到最高。这时你需要：  
+    - 找到三个标记为出口的门并依次触碰，它们一开始都只是“假出口”；  
+    - 触发三个假出口之后，真正的第四个出口才会出现；  
+    - 在 Baldi 疯狂追击下找到并冲出那个最终出口，才算真正通关。  
+    这一阶段完全考验速度、道具使用时机，以及一点运气。
 
-[ZH TRANSLATION NEEDED] **3. What are the school rules that the Principal enforces?**
-[ZH TRANSLATION NEEDED] The main rules are:
-*   No Running (he will catch you if he sees you).
-*   No Entering Faculty Rooms.
-*   No Drinking (using BSoda in front of him).
-*   No Bullying (this applies to the Bully character).
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **4. How do I get out of detention?**
-[ZH TRANSLATION NEEDED] You have to wait for the timer to count down. The duration can vary. If you have the "Principal's Keys," you can use them on the door to escape instantly.
+操作基本是标准的 PC 第一人称控制：
 
-[ZH TRANSLATION NEEDED] **5. I collected all 7 notebooks. How do I win?**
-[ZH TRANSLATION NEEDED] After getting all seven notebooks, you must find and touch three "fake" exits throughout the school. Once you've done that, a fourth, real exit will open up. You must reach that final exit to win the game.
+*   **`W` `A` `S` `D`：** 前、左、后、右移动；
+*   **鼠标：** 视角转动；
+*   **`Left Shift`：** 按住奔跑（消耗体力）；
+*   **鼠标左键：** 开门、拾取道具；
+*   **鼠标右键：** 使用当前选中道具；
+*   **滚轮：** 切换背包中的道具；
+*   **`Space`：** 在某些版本中用于快速回头查看身后情况。
 
+### 常见问题解答（FAQ）
+
+**1. 那道完全做不出的数学题要怎么解？**
+你解不出来，这正是设计。第二本（以及之后）笔记本中的乱码题目就是故意不可解的，你无论输入什么都会错，而正是这道必错的题触发了 Baldi 的追杀。
+
+**2. 为什么 Baldi 会越来越快？**
+每拿到一本笔记本，Baldi 的移动速度都会提升，这是游戏最主要的难度曲线，逼迫你在后期必须更精细地规划路线和道具使用。
+
+**3. 校长（Principal）到底在管哪些“校规”？**
+大致包括：
+*   不许在走廊奔跑；
+*   不许擅自进入教师办公室；
+*   不许在他面前喝 BSoda 等道具；
+*   不许欺负别人（主要指 Bully 的行为设定）。
+
+**4. 被关禁闭后怎么出去？**
+默认只能老老实实等计时结束，时间长短不一。如果你持有 Principal's Keys（校长的钥匙），可以直接开门逃出。违反校规被他抓到，就会被关进禁闭室一段时间。
+
+**5. 收集完 7 本笔记本之后到底要怎么赢？**
+拿到七本笔记本后，按照游戏提示找到三个“Exit” 并一一触碰，它们会轮流变成“假出口”。在三个假出口都被触发后，会出现第四个真正的出口，只要成功抵达并离开，即算通关。

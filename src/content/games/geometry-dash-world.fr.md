@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: geometry-dash-world
-title: '[FR] Geometry Dash World'
-description: >-
-  [FR] Compact rhythm‑platformer worlds: run, jump, and fly through short
-  music‑synced levels, unlock gates with collected orbs, and visit daily levels.
+title: "Geometry Dash World"
+description: "Mondes compacts de platformer rythmique : cours, saute et vole dans de courts niveaux synchronisés à la musique, débloque des portails avec des orbes et visite des niveaux quotidiens."
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/geometry-dash-world.jpg
 tags:
@@ -15,30 +13,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Geometry Dash World condense le cœur du platformer rythmique en deux mondes thématiques composés de niveaux très courts mais serrés. Chaque stage cale ses obstacles sur la bande‑son : des jump pads et anneaux te propulsent au‑dessus des piques, des portails de gravité/taille changent ta manière de te déplacer, et des sections en vaisseau ou en ball testent ton contrôle fin. En récoltant des orbes et des clés, tu ouvres des portails et accèdes à de nouveaux nœuds. Des niveaux quotidiens ajoutent des défis réguliers, et le mode pratique te permet de découper les parties difficiles en segments avec checkpoints pour t’entraîner.
 
+### Comment jouer
 
-### Overview
-Geometry Dash World distills the core rhythm‑platforming into two themed worlds of brief, tightly designed stages. Each level syncs obstacles to the soundtrack: jump pads and rings propel you over spikes, gravity/size portals transform movement, and ship/ball segments test fine control. Collect orbs and keys to unlock gates, visit daily levels for fresh challenges, and practice sections with checkpoints before committing to a full clear. While shorter than the main series, World emphasizes fast iteration, readable patterns, and score‑chasing with coins and time.
+- Tape/sauter exactement sur le beat pour passer piques et scies ; maintiens pour piloter les sections en vaisseau ou ball en douceur.
+- Récupère orbes et clés pour ouvrir les portails et débloquer des niveaux supplémentaires ; les pièces optionnelles offrent un défi et du score en plus.
+- Utilise le mode pratique pour découper les segments délicats en portions répétables avant de tenter un clear complet.
 
-### How to Play
-- Tap/jump exactly on beat to clear spikes and saws; hold to pilot ship/ball smoothly.
-- Gather orbs/keys to open gates and extra nodes; optional coins add challenge.
-- Use practice mode to break difficult sections into repeatable chunks.
+### Commandes
 
-### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice/checkpoint controls vary by host.
+- `Espace` / souris / écran tactile : sauter ; maintenir pour voler.  
+- Les commandes de pratique/checkpoints varient selon l’hébergeur.
 
-### Tips
-- Learn the song’s phrasing—hazards often align with downbeats and fills.
-- Keep ship inputs light; release to settle before tight gaps.
-- Turn on practice to map tricky ring timings, then execute a clean run.
+### Astuces
 
-### FAQ
-- Q: Does Geometry Dash World include user‑created levels?
-A: It focuses on curated stages; some hosts surface daily levels and community picks.
-- Q: How do I unlock gated nodes?
-A: Spend orbs/keys earned from clears and dailies.
-- Q: Can I place checkpoints?
-A: Practice mode supports checkpoints; normal clears do not.
+- Apprends la structure de la musique : les dangers tombent souvent sur les temps forts et les fills.
+- En vaisseau, garde des entrées légères, puis relâche pour stabiliser avant les passages serrés.
+- Active le mode pratique pour repérer les timings d’anneaux les plus traîtres, puis repasse en normal pour une run propre.
+
+### Foire aux questions (FAQ)
+
+- Q : Geometry Dash World contient‑il des niveaux créés par les joueurs ?
+  
+  R : Le jeu met surtout en avant des niveaux sélectionnés. Certains hôtes affichent des niveaux quotidiens et des choix de la communauté.
+
+- Q : Comment débloquer les nœuds verrouillés ?
+  
+  R : En dépensant les orbes et clés gagnés en terminant les niveaux et les dailies.
+
+- Q : Puis‑je placer des checkpoints ?
+  
+  R : Le mode pratique permet de placer des checkpoints ; les runs en mode normal doivent, elles, être complétées d’une traite.
 

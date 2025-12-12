@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: 4-pics-1-word
-title: '[DE] 4 Pics 1 Word'
-description: '[DE] Here''s your chance to play 4 Pics 1 Word Game. Have fun with this one!'
+title: "4 Pics 1 Word"
+description: >-
+  In 4 Pics 1 Word musst du aus vier Bildern das eine gesuchte Wort ableiten.
+  Analysiere die Motive, kombiniere die Hinweise und nutze die Buchstaben, um
+  das richtige Lösungswort zu finden.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/4-pics-1-word.jpg
 tags:
@@ -14,66 +17,98 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
-
-
-*4 Pics 1 Word* (German: *4 Bilder 1 Wort*) is a highly popular and straightforward word puzzle game developed by LOTUM GmbH. The core concept is to guess a single word that is common to four different pictures shown on the screen. The game tests your lateral thinking, vocabulary, and ability to find connections between visual cues. Its simple premise and engaging puzzles have made it a lasting hit on mobile devices.
-
----
-
-### How to Play 4 Pics 1 Word
-
-The gameplay is incredibly simple and intuitive, making it accessible to players of all ages.
-
-*   **[DE]** **The Goal:** Look at the four pictures presented and figure out the one word that they all represent or are associated with. This word can be a noun, verb, or adjective.
-
-*   **[DE]** **Guessing the Word:**
-    1.   **[DE]** Below the pictures, you will see a set of blank spaces representing the letters of the target word.
-    2.   **[DE]** Further below is a jumbled selection of letters.
-    3.   **[DE]** Tap the letters in the correct order to spell out your answer in the blank spaces.
-    4.   **[DE]** If you make a mistake, you can tap the letter in the answer space to return it to the selection area.
-
-*   **[DE]** **Earning Coins:** For each puzzle you solve correctly, you earn a small number of coins. These coins are the in-game currency used for getting hints.
-
-*   **[DE]** **Using Hints:** If you get stuck on a puzzle, there are several hints you can "purchase" with your earned coins:
-    *   **[DE]** **Reveal a Letter:** This will place one correct letter into its proper position in the answer. This is the most common and cheapest hint.
-    *   **[DE]** **Remove Letters:** This will remove several letters from the jumbled selection that are *not* part of the answer, making it much easier to guess the word.
-    *   **[DE]** **Ask a Friend:** The game provides a built-in feature to take a screenshot of the puzzle and easily share it on social media or messaging apps to ask for help.
+*4 Pics 1 Word* (deutsch oft als *4 Bilder 1 Wort* bekannt) ist ein sehr
+beliebtes, leicht verständliches Worträtsel. Ziel ist es, das eine Wort zu
+finden, das alle vier angezeigten Bilder gemeinsam haben. Das Spiel testet dein
+Querdenken, deinen Wortschatz und deine Fähigkeit, aus visuellen Hinweisen
+Verbindungen abzuleiten.
 
 ---
 
-### Strategy and Tips
+### So spielst du 4 Pics 1 Word
 
-While the game is simple, a few strategies can help you solve puzzles more efficiently.
+Die Regeln sind simpel und schnell zu verstehen – ideal für Spieler*innen aller
+Altersgruppen.
 
-1.  **[DE]** **Analyze Each Picture Individually:** First, describe each of the four pictures to yourself using simple words. Look for actions, objects, colors, or concepts.
-    *   **[DE]** *Example:* If you see a person sleeping, a light switch turned off, a dark sky, and an owl, individual words might be "sleep," "off," "dark," "night," "bird."
+*   **Ziel:** Sieh dir die vier Bilder an und finde das eine Wort, das sie
+    alle gemeinsam beschreiben oder mit dem sie assoziiert sind. Es kann sich um
+    ein Nomen, Verb oder Adjektiv handeln.
 
-2.  **[DE]** **Find the Common Theme:** After analyzing each picture, look for the overlapping concept or word. In the example above, the common theme is **"DARK"** (a dark room, a dark sky, a creature of the night).
+*   **Das Wort eingeben:**
+    1.  Unter den Bildern siehst du leere Kästchen, die die Anzahl der Buchstaben
+        des Lösungsworts darstellen.
+    2.  Direkt darunter liegt eine durcheinandergewürfelte Auswahl an Buchstaben.
+    3.  Tippe die Buchstaben in der richtigen Reihenfolge an, damit sie in die
+        freien Felder übernommen werden.
+    4.  Vertippt? Tippe den Buchstaben im Lösungsfeld an, um ihn wieder zurück in
+        die Buchstabenauswahl zu schicken.
 
-3.  **[DE]** **Think Abstractly:** Don't always think literally. Sometimes the connection is a concept or an idea.
-    *   **[DE]** *Example:* Pictures of a scale, a judge's gavel, and a blindfolded statue might all point to the word **"JUSTICE"**.
+*   **Münzen verdienen:** Für jedes korrekt gelöste Rätsel erhältst du Münzen.
+    Diese In‑Game‑Währung brauchst du, um Hinweise zu kaufen.
 
-4.  **[DE]** **Consider Wordplay and Multiple Meanings:** The game often uses words with double meanings (homonyms).
-    *   **[DE]** *Example:* A picture of a tree's outer layer and a dog's sound might both relate to the word **"BARK"**.
-
-5.  **[DE]** **Look at the Letter Count and Available Letters:** The number of blank spaces tells you exactly how long the word is. Use the provided letters as a major clue. If you have an idea, check if the necessary letters are available before you get too attached to it.
-
-6.  **[DE]** **Use Coins Wisely:** The "Remove Letters" hint is often more valuable than "Reveal a Letter," as it can make the answer immediately obvious. Save your coins for truly difficult puzzles.
+*   **Hinweise nutzen:** Wenn du einmal gar nicht weiterweißt, kannst du Münzen
+    für verschiedene Arten von Hinweisen ausgeben:
+    *   **Buchstabe aufdecken:** Fügt an einer zufälligen, korrekten Position
+        einen Buchstaben ein.
+    *   **Buchstaben entfernen:** Entfernt mehrere falsche Buchstaben aus der
+        Auswahl und macht die Lösung übersichtlicher.
+    *   **Freunde fragen:** Über integrierte Sharing‑Funktionen kannst du das
+        Rätsel per Screenshot an Freund*innen schicken und um Hilfe bitten.
 
 ---
 
-### Frequently Asked Questions (FAQ)
+### Tipps & Strategien
 
-**Q: Is *4 Pics 1 Word* free to play?**
-**A:** Yes, the game is free to download and play. It is supported by in-app purchases (where you can buy more coins for hints) and sometimes advertisements.
+Auch wenn die Spielidee einfach ist, helfen dir ein paar Tricks beim
+Lösen schwieriger Rätsel.
 
-**Q: What happens if I run out of coins and am stuck?**
-**A:** Your best free option is to use the "Ask a Friend" feature to share the puzzle. You also earn free coins for solving puzzles, so you can always go back to easier levels (if the version allows) or wait for a daily bonus, if available.
+1.  **Jedes Bild einzeln beschreiben:** Überlege zunächst zu jedem Bild für sich,
+    welche einfachen Begriffe dir dazu einfallen – Gegenstände, Farben,
+    Situationen, Gefühle usw.
+    *   *Beispiel:* Eine schlafende Person, ein ausgeschalteter Lichtschalter,
+        ein dunkler Himmel und eine Eule führen dich zu Begriffen wie "Schlaf",
+        "Nacht" oder "dunkel".
 
-**Q: Do the four pictures always relate in the same way?**
-**A:** No, and that's the core challenge. Sometimes all four pictures show different examples of the same object (e.g., four types of balls). Other times, they represent a shared concept (e.g., pictures related to "cold": an ice cube, a person shivering, a thermometer showing a low temperature, and a snowy landscape).
+2.  **Das gemeinsame Thema finden:** Suche dann nach dem gemeinsamen Nenner.
+    Mehrere Bilder können denselben Begriff oder dieselbe Eigenschaft darstellen
+    (z. B. "kalt", "schnell", "rund").
 
-**Q: Is the game available in other languages?**
-**A:** Yes, *4 Pics 1 Word* is available in many different languages. The puzzles and answers are localized for each language.
+3.  **Abstrakt denken:** Die Lösung muss nicht immer ein konkreter Gegenstand
+    sein. Häufig geht es um Konzepte wie "Gerechtigkeit", "Zeit" oder "Stärke".
+    *   *Beispiel:* Eine Waage, ein Richterhammer und die Statue mit Augenbinde
+        deuten gemeinsam auf **"Gerechtigkeit"**.
 
+4.  **Wortspiele und Doppeldeutigkeiten beachten:** Das Spiel nutzt gerne
+    Begriffe mit mehreren Bedeutungen.
+    *   *Beispiel:* Ein Foto von Baumrinde und ein bellender Hund können beide
+        auf das englische Wort **"bark"** (Rinde/Bellen) hindeuten.
+
+5.  **Buchstabenanzahl und Auswahl nutzen:** Die Anzahl der Felder gibt die
+    Wortlänge vor. Prüfe bei einer Idee sofort, ob die benötigten Buchstaben in
+    der Auswahl vorhanden sind.
+
+6.  **Münzen sinnvoll einsetzen:** Oft ist das Entfernen falscher Buchstaben
+    hilfreicher als das Aufdecken nur eines richtigen. Heb dir Hinweise für
+    wirklich knifflige Rätsel auf.
+
+---
+
+### Häufige Fragen (FAQ)
+
+**F: Ist 4 Pics 1 Word kostenlos spielbar?**  
+**A:** Ja, das Spiel ist grundsätzlich gratis. Es finanziert sich über Werbung
+und optionale In‑App‑Käufe, mit denen du zusätzliche Münzen erwerben kannst.
+
+**F: Was, wenn mir die Münzen ausgehen und ich feststecke?**  
+**A:** Nutze die Funktion zum Teilen des Rätsels und bitte Freund*innen um
+Hilfe. Außerdem erhältst du durch das Lösen weiterer Rätsel wieder neue Münzen;
+manche Versionen bieten auch tägliche Boni an.
+
+**F: Sind die Verbindungen zwischen den vier Bildern immer gleich gestrickt?**  
+**A:** Nein. Mal zeigen alle vier Bilder Varianten desselben Objekts, mal teilen
+sie nur ein abstraktes Konzept. Gerade diese Vielfalt macht den Reiz des
+Spiels aus.
+
+**F: Gibt es das Spiel in mehreren Sprachen?**  
+**A:** Ja, 4 Pics 1 Word existiert in vielen Sprachversionen, wobei Rätsel und
+Lösungen jeweils an die Sprache angepasst sind.

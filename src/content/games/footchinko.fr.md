@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: footchinko
-title: '[FR] Footchinko'
+title: Footchinko
 description: >-
-  [FR] Experience the unique blend of football and pachinko in Footchinko! Drop
-  the ball, hit the pegs, and aim for high scores and exciting bonuses.
+  Découvre le mélange unique de football et de pachinko dans Footchinko : lâche
+  le ballon, percute les obstacles et vise les buts, bonus et gros scores.
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/footchinko.jpg
 tags:
@@ -16,32 +16,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Footchinko est un jeu d’arcade original et très accrocheur qui mélange l’intensité du football (soccer) avec les mécaniques classiques du pachinko et du flipper. Ton but est de guider un ballon de foot à travers un terrain rempli de picots, bumpers et autres obstacles, pour marquer. Chaque niveau propose une disposition et des défis différents, ce qui t’oblige à viser avec précision et à réfléchir à la meilleure trajectoire pour contourner les défenseurs et trouver le filet. Des bonus et power‑ups viennent pimenter la partie et t’aident à atteindre des scores élevés.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Footchinko is an innovative and highly engaging arcade game that creatively merges the excitement of football (soccer) with the classic mechanics of pachinko and pinball. Your objective is to guide a football through a field filled with pegs, bumpers, and other obstacles, aiming to score goals. Each level presents unique challenges and layouts, requiring precise aiming and strategic thinking to navigate the ball past defenders and into the net. Collect power-ups and bonuses to enhance your gameplay and achieve high scores.
+1.  **La visée est essentielle :** avant chaque tir, réfléchis à la trajectoire du ballon. Cherche les chemins qui lui permettront de toucher plusieurs picots ou power‑ups avant de filer vers le but.
+2.  **Utilise les obstacles :** les picots et bumpers ne sont pas que des gênes, tu peux t’en servir. Fais rebondir le ballon dessus pour changer sa direction et atteindre des zones qui semblaient inaccessibles.
+3.  **Dégage la voie :** certains obstacles se détruisent après plusieurs impacts. Priorise ceux qui bloquent une trajectoire directe vers le but ou un bonus important.
+4.  **Récupère les power‑ups :** garde un œil sur les bonus qui offrent des avantages (ballons supplémentaires, tirs plus puissants, invulnérabilité temporaire, etc.). Utilise‑les au bon moment pour maximiser tes points.
+5.  **Anticipe les rebonds :** comme dans un flipper, comprendre comment le ballon réagit aux différents angles de rebond est crucial. À force de jouer, tu développeras un bon feeling pour la physique du jeu.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Aiming is Key:** Before each shot, carefully consider the trajectory of the ball. Look for paths that will allow the ball to hit multiple pegs or power-ups, and ultimately lead to the goal.
-2.  **[FR]** **Utilize Obstacles:** The pegs and bumpers aren't just hindrances; they can be used to your advantage. Bounce the ball off them to change its direction and reach otherwise inaccessible areas.
-3.  **[FR]** **Clear the Path:** Some obstacles can be destroyed after being hit multiple times. Prioritize clearing these if they are blocking a direct path to the goal or a valuable power-up.
-4.  **[FR]** **Collect Power-ups:** Keep an eye out for power-ups that can give you an edge, such as extra balls, stronger shots, or temporary invincibility. Use them strategically to maximize your scoring potential.
-5.  **[FR]** **Anticipate Rebounds:** Just like in pinball, understanding how the ball will rebound off different surfaces is crucial. Practice will help you develop an intuition for the physics of the game.
+- Lancer le ballon : clique ou tape sur l’écran pour lancer. Selon la version, la position ou le timing de ton clic détermine la direction et parfois la puissance du tir.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Launch Ball:** Click or tap on the screen to launch the ball. The position of your click often determines the initial direction and power of your shot.
+- Q : Quel est l’objectif principal dans Footchinko ?
+  
+  R : Marquer des buts en envoyant le ballon dans la cage adverse, tout en naviguant dans un terrain rempli d’obstacles façon pachinko.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Y a‑t‑il plusieurs niveaux ou championnats ?
+  
+  R : Oui, la plupart des versions proposent de nombreux niveaux et tournois, avec une difficulté croissante et des terrains de plus en plus variés.
 
-*   **[FR]** **Q: What is the main objective of Footchinko?**
-    *   **[FR]** **A:** The main objective is to score goals by getting the football into the opponent's net, navigating through a field filled with pachinko-style obstacles.
+- Q : Comment obtenir de meilleurs scores ?
+  
 
-*   **[FR]** **Q: Are there different levels or championships?**
-    *   **[FR]** **A:** Yes, Footchinko typically features multiple levels and championships, each with increasing difficulty and unique field layouts.
+    - **A:** Score more goals, collect power-ups, and try to clear obstacles efficiently. Some games might also reward you for hitting specific targets or making combo shots.
 
-*   **[FR]** **Q: How do I get a higher score?**
-    *   **[FR]** **A:** Score more goals, collect power-ups, and try to clear obstacles efficiently. Some games might also reward you for hitting specific targets or making combo shots.
+- **Q: How do I get a higher score?**
+
+    - **A:** Yes, Footchinko typically features multiple levels and championships, each with increasing difficulty and unique field layouts.
+  R : En marquant souvent, en ramassant les power‑ups et en détruisant les obstacles efficacement. Certains niveaux récompensent aussi les tirs combo et les trajectoires spectaculaires.
 

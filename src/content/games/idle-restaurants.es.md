@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: idle-restaurants
-title: '[ES] Idle Restaurants'
+title: Idle Restaurants
 description: >-
-  [ES] Build your own restaurant empire in this addictive idle game! Hire chefs,
-  upgrade your kitchen and tables, and automate your business to become a
-  culinary tycoon.
+  Construye tu propio imperio de restaurantes en este adictivo juego idle.
+  Contrata chefs, mejora cocina y mesas y automatiza el negocio hasta
+  convertirte en un magnate gastronómico.
 iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
 thumbnail: /new-images/idle-restaurants.png
 tags:
@@ -18,34 +18,61 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Idle Restaurants es un clásico juego idle de gestión que te pone al mando de un
+imperio culinario construido desde cero. Empiezas con un pequeño y modesto
+restaurante de barrio y debes invertir tus ganancias de forma estratégica para
+hacer crecer el negocio. Al mejorar tus mesas, tus chefs y tus camareros,
+aumentas la eficiencia y los beneficios. El objetivo final es automatizar todo
+el flujo de trabajo contratando gerentes y expandir tu cadena abriendo nuevos y
+más rentables locales.
 
-Idle Restaurants is a classic idle management game that puts you in charge of building a culinary empire from the ground up. You start with a small, humble diner and must strategically invest your earnings to grow your business. By upgrading your tables, chefs, and waiters, you can increase your efficiency and profits. The ultimate goal is to automate your workflow by hiring managers and expand your enterprise by opening new, more profitable restaurants.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Flujo de un restaurante:** Entiende cómo se mueve el dinero. Los
+    clientes llegan y se sientan -> el chef prepara su pedido -> el camarero
+    sirve la comida -> el cliente paga. Cada eslabón de esta cadena puede ser
+    mejorado.
+2.  **Mejoras equilibradas:** Para maximizar los ingresos, necesitas una
+    operación equilibrada. No sirve de nada tener chefs ultrarrápidos si no hay
+    suficientes mesas o si los camareros tardan demasiado en servir. Intenta
+    subir de nivel mesas, cocina y servicio en paralelo.
+3.  **Automatiza todo:** La clave de un buen idle es ganar dinero mientras no
+    estás delante de la pantalla. En cuanto te sea posible, contrata gerentes
+    para cada puesto. Ellos se encargarán de cobrar y hacer que todo funcione
+    solo, manteniendo un flujo constante de ingresos.
+4.  **Saber cuándo expandirse:** Tu meta a largo plazo es ahorrar lo suficiente
+    para abrir un nuevo restaurante. Cada local nuevo tiene un potencial de
+    ganancias mucho mayor que el anterior. Cuando las mejoras del restaurante
+    actual empiecen a ser demasiado caras, es momento de centrarte en ahorrar
+    para el siguiente.
 
-1.  **[ES]** **The Restaurant Workflow:** Understand the flow of money. Customers arrive and are seated -> The chef prepares their order -> The waiter delivers the food -> The customer pays. Each step in this chain can be upgraded.
-2.  **[ES]** **Balanced Upgrades:** To maximize your income, you need a balanced operation. It's no use having super-fast chefs if you don't have enough tables for customers, or if your waiters are too slow to deliver the food. Try to upgrade your tables, kitchen, and waiters in tandem.
-3.  **[ES]** **Automate Everything:** The key to an idle game is making money while you're away. As soon as you can, hire managers for each station. The manager will automatically collect earnings for you, ensuring a constant stream of income.
-4.  **[ES]** **Know When to Expand:** Your long-term goal is to save up enough money to open a new restaurant. Each new restaurant you unlock will have a much higher earning potential than the last. Once upgrades in your current restaurant become very expensive, it's time to focus on saving for the next one.
+### Guía de controles
 
-### Controls Guide
+Todo el juego se maneja haciendo clic o tocando botones.
 
-The entire game is played by clicking or tapping on various buttons.
+*   **Mejorar:** pulsa los botones de mejora asociados a las mesas, la estación
+    del chef o los camareros para aumentar su nivel y eficiencia.
+*   **Contratar gerente:** pulsa el icono de gerente de cada puesto para
+    automatizar ese tramo del proceso.
+*   **Navegar:** usa el mapa o la lista de restaurantes para cambiar entre tus
+    distintos locales.
 
-*   **[ES]** **Upgrade:** Click the upgrade buttons associated with the tables, the chef's station, or the waiters to improve their level and efficiency.
-*   **[ES]** **Hire Manager:** Click the manager icon for a station to hire them and automate that station's process.
-*   **[ES]** **Navigate:** Use the world map or restaurant list to switch between your different restaurant locations.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la forma más rápida de ganar dinero?**
+    *   **R:** Reinvierte tus ganancias en mejoras en cuanto puedas. Cuanto
+        antes subas niveles, antes crecerán tus ingresos. Ese crecimiento
+        exponencial es la esencia del juego.
 
-*   **[ES]** **Q: What is the fastest way to make money?**
-    *   **[ES]** **A:** Reinvesting your earnings into upgrades as quickly as possible. The faster you upgrade, the faster your income grows. This exponential growth is the core of the game.
+*   **P: ¿Qué debería mejorar primero?**
+    *   **R:** Al principio, abre unas cuantas mesas y mejora al chef una o dos
+        veces para asegurar un flujo estable de clientes. Después, mantén
+        cocina, servicio y mesas avanzando a un ritmo parecido para no crear
+        cuellos de botella.
 
-*   **[ES]** **Q: What should I upgrade first?**
-    *   **[ES]** **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.
-
-*   **[ES]** **Q: Why should I buy a new restaurant?**
-    *   **[ES]** **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.
-
+*   **P: ¿Por qué debería comprar un nuevo restaurante?**
+    *   **R:** Cada nuevo local dispara tu potencial de ingresos y, a menudo,
+        añade multiplicadores permanentes que también benefician a tus otros
+        restaurantes. Es la vía principal para avanzar.

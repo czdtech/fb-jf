@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: choco-factory
-title: '[KO] Choco Factory'
+title: "Choco Factory 초코 팩토리"
 description: >-
-  [KO] Manage your own chocolate factory in this delightful casual game. Create
-  delicious chocolates, fulfill orders, and grow your sweet business empire.
-  Perfect for relaxing gameplay!
+  Choco Factory는 나만의 초콜릿 공장을 운영하는 캐주얼 게임으로, 다양한 초콜릿을
+  생산해 주문을 맞추고 공장을 성장시키는 재미를 담고 있습니다. 레시피를 관리하고
+  기계를 업그레이드하며 달콤한 비즈니스를 키워 보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/
 thumbnail: /new-images/choco-factory.jpg
@@ -16,5 +16,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-<!-- [KO] Translation needed -->
+### 게임 소개
+
+*Choco Factory*에서는 플레이어가 초콜릿 공장의 운영자가 되어, 여러 종류의 초콜릿을
+만들고 주문을 처리하며 공장을 확장해 나가게 됩니다. 생산 라인을 효율적으로
+배치하고, 원재료를 적절히 관리하며, 고객의 주문을 제때 맞추는 것이 핵심입니다.
+
+### 플레이 가이드
+
+- **초콜릿 생산:** 레시피에 맞게 재료를 투입해 다양한 종류의 초콜릿을 생산합니다.
+  어떤 초콜릿이 인기가 많은지 파악해 생산 비율을 조정하는 것이 좋습니다.
+- **주문 처리:** 손님이 요청하는 수량과 종류를 확인하고, 정해진 시간 안에 맞춰
+  납품해야 합니다. 늦거나 잘못된 주문은 평점에 악영향을 줄 수 있습니다.
+- **업그레이드:** 기계를 업그레이드하면 생산 속도나 품질이 향상되고, 더 복잡한
+  레시피도 처리할 수 있게 됩니다.
+
+### 조작 방법
+
+- 마우스 클릭과 드래그로 재료를 선택하고, 기계를 작동시키며, 완성된 제품을 포장해
+  주문으로 내보냅니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 주문이 너무 빨리 쌓여서 따라가기 힘들어요.**  
+  **A:** 인기 상품과 그렇지 않은 상품을 구분해, 많이 팔리는 메뉴를 우선 생산하고
+  나머지는 여유가 있을 때 만드는 식으로 우선순위를 정해 보세요.
+
+- **Q: 업그레이드는 무엇부터 하는 게 좋나요?**  
+  **A:** 보통 생산 속도와 자동화 수준을 올려 주는 업그레이드부터 투자하면, 이후
+  주문이 늘어도 여유 있게 대응하기 좋습니다.
+
 

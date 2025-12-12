@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: endless-siege
-title: '[ES] Endless Siege'
+title: Endless Siege
 description: >-
-  [ES] Defend against relentless waves of orcs in Endless Siege, a captivating
-  tower defense game. Place and upgrade cannons, ballistas, and other powerful
-  towers to survive as long as you can on a new, challenging map every day.
+  Endless Siege es un tower defense infinito contra oleadas de orcos: coloca y
+  mejora cañones, ballestas y torres de apoyo para aguantar lo máximo posible en
+  un mapa nuevo y desafiante cada día.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/endless-siege.jpg
 tags:
@@ -17,38 +17,58 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Endless Siege es un tower defense muy adictivo que te reta a defender tu reino
+frente a oleadas incansables de orcos, goblins y otras criaturas. Su rasgo más
+llamativo es que cada día se genera un mapa nuevo de forma procedimental, así que
+siempre tendrás un reto fresco. Tu misión es colocar y mejorar distintos tipos
+de torres defensivas para sobrevivir al mayor número posible de oleadas y optar
+al récord diario.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Endless Siege is a highly engaging tower defense game that challenges you to defend your kingdom against relentless waves of orcs, goblins, and other monstrous foes. The standout feature of the game is that you are presented with a brand new, procedurally generated map every single day, ensuring endless replayability. You must strategically place and upgrade a variety of defensive towers to survive as many waves as possible and compete for the daily high score.
+1.  **Conoce tus torres:** Entender qué hace cada una es básico.
+    *   **Ballesta (Ballista):** Torre de disparo rápido, ideal para rematar
+        enemigos individuales con mucha vida.
+    *   **Antorcha (Torch):** Torre de fuego con daño de área (AoE), perfecta
+        para quemar grupos de enemigos débiles.
+    *   **Cañón (Cannon):** Torre lenta pero con AoE muy potente, capaz de
+        borrar grupos enteros si están juntos.
+    *   **Timewarp:** Torre de apoyo que no hace daño, pero ralentiza mucho a
+        todos los enemigos en su radio, permitiendo que el resto de torres les
+        disparen más tiempo.
 
-### Gameplay Strategy & Walkthrough
+2.  **Crea zonas de muerte (kill zones):** No disperses las torres por todo el
+    mapa. Intenta agruparlas, sobre todo en las curvas del camino, para que
+    varias puedan disparar al mismo objetivo a la vez.
+3.  **El poder de ralentizar:** Timewarp es una de las torres más fuertes del
+    juego. Colocarla al inicio de un tramo largo hace que los enemigos pasen más
+    tiempo bajo fuego, multiplicando el daño efectivo de tus torres.
+4.  **Mejora con cabeza:** Suele ser mejor tener pocas torres bien mejoradas que
+    muchas sin subir. Invierte el oro en las torres mejor colocadas para
+    exprimir su potencial.
 
-1.  **[ES]** **Know Your Towers:** Understanding your defenses is key.
-    *   **[ES]** **Ballista:** A fast-firing tower, excellent for taking down single, high-health enemies.
-    *   **[ES]** **Torch:** A flame tower that deals area-of-effect (AoE) damage, perfect for roasting groups of weaker enemies.
-    *   **[ES]** **Cannon:** A slow but powerful AoE tower that deals massive damage to clusters of foes.
-    *   **[ES]** **Timewarp:** A support tower that doesn't deal damage but significantly slows down all enemies that pass through its radius, making them easier targets for your other towers.
+### Guía de controles
 
-2.  **[ES]** **Create Kill Zones:** Don't spread your towers out too much. Try to place them in clusters, especially around bends in the path, where multiple towers can attack the same enemies simultaneously.
-3.  **[ES]** **The Power of Slowing:** The Timewarp tower is one of the most important in the game. Placing a Timewarp tower at the beginning of a long stretch of road allows your damage-dealing towers to get many more shots in, dramatically increasing their effectiveness.
-4.  **[ES]** **Upgrade Strategically:** It's often better to have a few fully upgraded, powerful towers than many weak, basic ones. Focus your gold on upgrading your best-placed towers to maximize their damage output.
+*   **Construir torre:** Haz clic sobre una base circular libre para abrir el
+    menú y elige la torre que quieras construir.
+*   **Mejorar torre:** Haz clic en una torre ya colocada para ver estadísticas y
+    mejoras disponibles, luego pulsa el botón de mejora (Upgrade) para subirla de nivel.
+*   **Llamar a la siguiente oleada:** Cuando estés preparado, haz clic en el
+    botón de "Next Wave" para iniciar la siguiente tanda de enemigos.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Build a Tower:** Click on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
-*   **[ES]** **Upgrade a Tower:** Click on an existing tower to see its stats and available upgrades. Click the upgrade button to level it up.
-*   **[ES]** **Call the Next Wave:** When you are ready, click the "Next Wave" button to start the next onslaught of enemies.
+*   **P: ¿Cuál es la mejor torre del juego?**
+    *   **R:** No hay una torre única "mejor". Una defensa sólida mezcla las cuatro
+        clases: Cañones y Antorchas para grupos, Ballestas para objetivos duros y
+        Timewarp para ralentizar a todos.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Por qué no puedo construir una torre en cualquier sitio?**
+    *   **R:** Solo puedes colocar torres sobre las bases circulares del mapa,
+        normalmente junto al camino de los enemigos.
 
-*   **[ES]** **Q: What is the best tower in the game?**
-    *   **[ES]** **A:** There is no single "best" tower. A successful defense relies on a smart combination of all four types. Use Cannons and Torches for groups, Ballistas for tough single targets, and Timewarp towers to slow everything down.
-
-*   **[ES]** **Q: Why can't I build a tower somewhere?**
-    *   **[ES]** **A:** You can only build on the designated circular plots found along the enemy path.
-
-*   **[ES]** **Q: Why is the map different from yesterday?**
-    *   **[ES]** **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-
+*   **P: ¿Por qué el mapa cambia cada día?**
+    *   **R:** Es parte del diseño de Endless Siege: cada jornada se genera un mapa
+        nuevo para que todos los jugadores se enfrenten al mismo reto diario.

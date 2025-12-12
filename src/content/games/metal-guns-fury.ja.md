@@ -1,70 +1,39 @@
 ---
+title: "Metal Guns Fury"
+description: "Metal Guns Furyは激しいアクションシューターです。敵を撃ち、武器をアップグレードし、波を生き残り、射撃の狂乱をマスターします。"
+iframeSrc: "https://3qnp5t87vp1lg.h5games.usercontent.goog/v/6a39pnbcj5cv8/"
+thumbnail: "/new-images/metal-guns-fury.png"
+urlstr: "metal-guns-fury"
+score: "4.0/5  (1723 votes)"
+tags: ["action", "shooter"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: metal-guns-fury
-title: '[JA TRANSLATION NEEDED] Metal Guns Fury'
-description: >-
-  [JA TRANSLATION NEEDED] Metal Guns Fury is a run‑and‑gun arcade — dodge
-  bullets, manage weapons, and blast through waves with crisp movement.
-iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
-thumbnail: /new-images/metal-guns-fury.jpg
-tags:
-  - action
-  - shooting
-score: 4.1/5  (2012 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Metal Guns Furyは、敵の波と戦う高速シューターです。武器をアップグレードし、カバーを使用し、正確に撃ち、すべてのレベルを通して生き残ります。反射神経と精度が成功の鍵です。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade classics. Swap between rifles/shotguns/rockets, rescue hostages for power‑ups, and clear arenas packed with soldiers, turrets, and light vehicles. Clean jumps, slide‑dodges, and ammo discipline separate stable clears from messy deaths.
+1.  **ヘッドショットを狙う:** より多くのダメージとボーナス。
+2.  **カバーを使用:** 敵の火から身を守ります。
+3.  **武器をアップグレード:** より良いダメージと精度に投資します。
+4.  **弾薬を管理:** リロードタイミングを見てください。
+5.  **移動し続ける:** 簡単なターゲットにならないでください。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Target priority: Turrets and rockets first; basic grunts later.
-[JA TRANSLATION NEEDED] 2.  Movement layering: Jump over low fire, slide under high arcs, then counter.
-[JA TRANSLATION NEEDED] 3.  Ammo economy: Burst fire, conserve rockets for multi‑targets/boss armor.
-[JA TRANSLATION NEEDED] 4.  Power‑ups: Route rescues to refresh HP/ammo before boss gates.
-[JA TRANSLATION NEEDED] 5.  Boss patterns: Read phases; punish windows rather than face‑tank.
+- マウス/タッチは狙いと射撃を制御します。
+- WASD/矢印で移動します（該当する場合）。
+- Rでリロードします（該当する場合）。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I get shredded in crossfire.
-  
-[JA TRANSLATION NEEDED]   A: Clear one lane at a time, abuse cover edges, and avoid standing mid‑screen.
-
-- Q: Ammo runs dry on bosses.
-  
-[JA TRANSLATION NEEDED]   A: Save heavy ammo for armor breaks; use burst fire on adds to conserve.
-
-- Q: Which weapon is best?
-  
-
-
-
-
-
-- Q: I get shredded in crossfire.
-### よくある質問（FAQ）
-- Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
-### コントロールガイド
-- Boss patterns: Read phases; punish windows rather than face‑tank.
-[JA TRANSLATION NEEDED]   A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
-
-
-
-
-
-
-A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
-- Q: Which weapon is best?
-A: Save heavy ammo for armor breaks; use burst fire on adds to conserve.
-- Q: Ammo runs dry on bosses.
-
-
-A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
+- **Q: 継続的に殺される — ヒントは？**  
+  A: カバーを使用し、移動し続け、ヘッドショットを優先します。
+- **Q: 最高の武器は何ですか？**  
+  A: プレイスタイルによって異なります。さまざまな武器を試してください。
+- **Q: 弾薬がなくなった場合はどうすればよいですか？**  
+  A: 敵を倒すか、補給ポイントを探します。

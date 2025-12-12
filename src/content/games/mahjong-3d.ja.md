@@ -1,82 +1,41 @@
 ---
+title: "Mahjong 3D"
+description: "新しい次元で麻雀ソリティアを体験しましょう！3Dパズルを回転させ、フリータイルの一致するペアを見つけ、この没入感のある戦略的なゲームでボードをクリアします。"
+iframeSrc: "https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/"
+thumbnail: "/new-images/mahjong-3d.jpg"
+urlstr: "mahjong-3d"
+score: "4.5/5  (2400 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: mahjong-3d
-title: '[JA TRANSLATION NEEDED] Mahjong 3D'
-description: >-
-  [JA TRANSLATION NEEDED] Experience Mahjong Solitaire in a new dimension!
-  Rotate the 3D puzzle, find matching pairs of free tiles, and clear the board
-  in this immersive and strategic game.
-iframeSrc: >-
-  https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
-thumbnail: /new-images/mahjong-3d.jpg
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.5/5  (2400 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-## English Guide
+## 日本語ガイド
 
-### Detailed Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Mahjong 3D takes the classic tile-matching gameplay of Mahjong Solitaire and elevates it into a three-dimensional space. Instead of a flat layout, the tiles are stacked in intricate 3D structures that you can rotate. The objective remains the same: find and match pairs of identical, unblocked tiles to clear the board. This 3D twist adds a new layer of challenge and requires players to use spatial awareness to look at the puzzle from all angles.
+Mahjong 3Dは、麻雀ソリティアのクラシックなタイルマッチングゲームプレイを3次元空間に高めます。フラットなレイアウトの代わりに、タイルは回転できる複雑な3D構造に積み重ねられています。目的は同じです：ボードをクリアするために、同一で、ブロックされていないタイルの一致するペアを見つけてマッチします。この3Dひねりは、新しいチャレンジのレイヤーを追加し、すべての角度からパズルを見るために空間認識を使用することをプレイヤーに要求します。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] 1.  **Rotate, Rotate, Rotate:** The most crucial skill in this version is constantly rotating the puzzle. A pair of matching tiles might be hidden on opposite sides of the structure. Make it a habit to do a full 360-degree rotation before making a move to get a complete picture of the board.
-[JA TRANSLATION NEEDED] 2.  **The "Free" Tile Rule:** Just like classic Mahjong Solitaire, you can only match tiles that are "free." A tile is free if it can be moved to the left or right without being blocked by another tile. In this 3D version, this means its left and right sides must be open space.
-[JA TRANSLATION NEEDED] 3.  **Prioritize High and Wide Tiles:** Focus on matching tiles that are on the top layers or on the widest parts of the structure first. Clearing these tiles is key to unlocking the greatest number of new tiles underneath and inside the structure.
-[JA TRANSLATION NEEDED] 4.  **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a possible match. If no matches are available at all, the shuffle option will rearrange the remaining tiles to give you a fresh chance to find pairs.
+1.  **回転、回転、回転:** このバージョンで最も重要なスキルは、常にパズルを回転させることです。一致するタイルのペアは、構造の反対側に隠れているかもしれません。移動を行う前に、ボードの完全な画像を取得するために、フル360度回転を行う習慣にしてください。
+2.  **「フリー」タイルルール:** クラシックな麻雀ソリティアと同様に、「フリー」なタイルのみをマッチできます。タイルは、別のタイルによってブロックされることなく左または右に移動できる場合、フリーです。この3Dバージョンでは、これはその左右側が開いたスペースである必要があることを意味します。
+3.  **高く広いタイルを優先する:** 最初にトップレイヤーまたは構造の最も広い部分にあるタイルのマッチングに焦点を当てます。これらのタイルをクリアすることは、下と構造内の最大数の新しいタイルをアンロックする鍵です。
+4.  **ヒントとシャッフルを使用する:** 行き詰まった場合は、ヒントを使用して可能なマッチを明らかにします。マッチが全く利用できない場合、シャッフルオプションは残りのタイルを再配置して、ペアを見つける新しいチャンスを与えます。
 
-### Controls Guide
+### 操作ガイド
 
-*   **Select Tiles:** Click on a free tile to select it, then click on its identical, free partner to make a match.
-    - **A:** The main difference is the 3D presentation. The ability to rotate the puzzle to find matches on all sides adds a significant new challenge compared to the traditional 2D layout.（日本語訳が必要）
-    - **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.（日本語訳が必要）
-    - **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.（日本語訳が必要）
-    - **A:** The main difference is the 3D presentation. The ability to rotate the puzzle to find matches on all sides adds a significant new challenge compared to the traditional 2D layout.（日本語訳が必要）
-    - **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.（日本語訳が必要）
-    - **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.（日本語訳が必要）
-*   **Rotate the Puzzle:** Use the on-screen arrows or click and drag the background to rotate the entire 3D structure left or right.
+*   **タイルを選択:** フリータイルをクリックして選択し、次にその同一のフリーパートナーをクリックしてマッチを作成します。
+*   **パズルを回転:** 画面上の矢印を使用するか、背景をクリックしてドラッグして、3D構造全体を左または右に回転させます。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-*   **Q: What makes this different from regular Mahjong Solitaire?**
-[JA TRANSLATION NEEDED]     *   **A:** The main difference is the 3D presentation. The ability to rotate the puzzle to find matches on all sides adds a significant new challenge compared to the traditional 2D layout.
+*   **Q: これは通常の麻雀ソリティアと何が違いますか？**
+    *   **A:** 主な違いは3Dプレゼンテーションです。すべての側でマッチを見つけるためにパズルを回転させる能力は、従来の2Dレイアウトと比較して重要な新しいチャレンジを追加します。
 
-*   **Q: I see two identical tiles, but I can't match them. Why?**
+*   **Q: 2つの同一のタイルが見えますが、マッチできません。なぜですか？**
+    *   **A:** タイルの1つまたは両方が「フリー」ではありません。それらは両方の左右側で他のタイルによってブロックされている可能性があります。それらにアクセスする前に、ブロックタイルをクリアする必要があります。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.
-
-*   **Q: What do the Flower and Season tiles do?**
-
-
-
-
-
-
-
-
-    - **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.
-- **Q: What do the Flower and Season tiles do?**
-    - **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.
-- **Q: I see two identical tiles, but I can't match them. Why?**
-    - **A:** The main difference is the 3D presentation. The ability to rotate the puzzle to find matches on all sides adds a significant new challenge compared to the traditional 2D layout.
-- **Q: What makes this different from regular Mahjong Solitaire?**
-### よくある質問（FAQ）
-- **Rotate the Puzzle:** Use the on-screen arrows or click and drag the background to rotate the entire 3D structure left or right.
-
-
-
-
-
-    - **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.
-- **Q: What do the Flower and Season tiles do?**
-    - **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.
-- **Q: I see two identical tiles, but I can't match them. Why?**
-    - **A:** The main difference is the 3D presentation. The ability to rotate the puzzle to find matches on all sides adds a significant new challenge compared to the traditional 2D layout.
-[JA TRANSLATION NEEDED]     *   **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.
-
+*   **Q: フラワーとシーズンタイルは何をしますか？**
+    *   **A:** これらは特別なタイルです。任意のフラワータイルは他の任意のフラワータイルとマッチでき、任意のシーズンタイルは他の任意のシーズンタイルとマッチできます。同一の画像である必要はありません。

@@ -1,50 +1,47 @@
 ---
 locale: zh
 urlstr: tennis
-title: '[ZH TRANSLATION NEEDED] Tennis'
-description: >-
-  [ZH TRANSLATION NEEDED] Step onto the court in this classic arcade Tennis
-  game! Grab your racket and compete against a challenging opponent. Serve,
-  rally, and score points to win the match. It's a simple, fun, and addictive
-  sports game for everyone.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
-thumbnail: /new-images/tennis.jpg
+title: 《Tennis》网球对决
+description: 《Tennis》是一款简化操作的网球游戏。通过移动站位与挥拍时机，在虚拟球场上和对手展开来回对攻，力争破发并赢下比赛。
+iframeSrc: 'https://tennis.h5games.usercontent.goog/v/5l9n2c3b1k7p0/'
+thumbnail: /new-images/tennis.png
 tags:
   - sports
-  - arcade
-  - classic
-score: 4.7/5  (793 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - 2 player
+  - action
+score: 4.0/5  (1700 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] This is a classic arcade-style tennis game that captures the simple, addictive fun of the sport. Players control a tennis player on the court, competing against a computer-controlled opponent in a fast-paced match. The goal is to hit the ball back and forth, scoring points when your opponent fails to return it.
+### 详细游戏介绍
 
-### Gameplay Guide
+《Tennis》以轻度街机方式呈现网球对决。你将与 AI 或本地玩家在网球场上交锋，通过移动到合适位置并在正确时机挥拍，将网球回击到对手场地并寻找得分机会。游戏弱化了复杂操作，重点放在跑位与击球节奏上，让更多玩家能轻松体验网球的攻防乐趣。
 
-- **Objective:** Be the first player to win the required number of points or sets to win the match.
-- **Serving:** Start each point by serving the ball over the net into the opponent's service box.
-- **Rallying:** After the serve, hit the ball back and forth with your opponent. You must return the ball before it bounces twice on your side of the court.
-- **Scoring:** You score a point if your opponent hits the ball out of bounds, into the net, or fails to return it before it bounces twice.
+### 游玩策略与对战指引
 
-### Controls Guide
+1.  **重视站位回中：** 每次击球后尽量向场地中央靠拢，这样无论对手打向哪一边都能更快做出反应。
+2.  **改变落点与角度：** 通过控制击球时机和方向，让球落在底线角落或对手反应较慢的一侧，迫使其移动失误。
+3.  **观察对手习惯：** 有的对手偏爱直线、有的喜欢对角，掌握其出球习惯后可以更有针对性地预判。
+4.  **发球抢攻：** 在自己的发球局中，可以尝试发出更刁钻的角度或速度，在对手接发不稳时抢攻得分。
 
-[ZH TRANSLATION NEEDED] Controls are designed to be simple and intuitive:
-- **Movement:** `Arrow Keys` or `WASD` to move your player around your side of the court.
-- **Swing / Hit:** `Spacebar` or `X` key to swing your racket and hit the ball. The timing of your swing can affect the power and direction of the shot.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
 
-[ZH TRANSLATION NEEDED] **How do I score points in tennis?**
+Controls are designed to be simple and intuitive:
+*   **移动：** 使用方向键或虚拟摇杆控制角色左右移动、前后站位；
+*   **击球：** 在球接近时按下击球键完成回球，不同按键或按压时机可能对应不同类型的击球（平击、高吊等）。
 
-[ZH TRANSLATION NEEDED] In a standard game, points are scored as 15, 30, 40, and then game point. You need to win by at least two points. Many arcade versions simplify this to just winning a set number of points (e.g., first to 7).
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **How can I aim my shots?**
+**问：这款网球更偏真实还是更偏街机？****
+答：** 规则和节奏参考真实网球，但操作相对简化，更适合作为入门或休闲娱乐。
 
-[ZH TRANSLATION NEEDED] In most classic tennis games, your shot direction is determined by when you hit the ball relative to your player's body. Hitting it early sends it cross-court, while hitting it late sends it down the line.
+**问：是否支持双人对战？****
+答：** 视版本而定，大部分实现支持在同一设备上进行本地双人对战或轮流比拼。
 
-[ZH TRANSLATION NEEDED] **Can I play against another person?**
 
-[ZH TRANSLATION NEEDED] Many classic tennis games feature a 2-player mode where you can compete against a friend on the same keyboard.
 
+Many classic tennis games feature a 2-player mode where you can compete against a friend on the same keyboard.
+
+**Can I play against another person?**

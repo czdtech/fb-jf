@@ -1,12 +1,12 @@
 ---
 locale: ko
 urlstr: spider-solitaire-card-games
-title: '[KO] Spider Solitaire: Card Games'
+title: 'Spider Solitaire: Card Games 스파이더 솔리테어 카드 게임'
 description: >-
-  [KO] Challenge yourself with Spider Solitaire, a popular variant of the
-  classic card game. The objective is to clear the tableau by building eight
-  full sequences of cards from King down to Ace. With adjustable difficulty
-  levels (1, 2, or 4 suits), it's a strategic puzzle for all players.
+  Spider Solitaire: Card Games는 두 벌의 카드를 사용하는 인기 있는 스파이더
+  솔리테어 변형입니다. 같은 무늬로 K에서 A까지 여덟 개의 완전한 열을 만들어
+  테이블로를 비우는 것이 목표이며, 1·2·4무늬 난이도로 누구나 전략적인 재미를
+  느낄 수 있습니다.
 iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
 thumbnail: /new-images/spider-solitaire-card-games.jpg
 tags:
@@ -19,35 +19,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Spider Solitaire is a challenging and popular variant of the classic solitaire card game, played with two standard decks of cards (104 cards total). The main goal is to clear the entire playing area by assembling eight complete same-suit sequences of cards, ordered from King down to Ace. Once a full sequence is built, it is removed from the game.
+Spider Solitaire는 두 벌의 일반 카드(총 104장)를 사용하는 도전적인 솔리테어
+변형 게임입니다. 같은 무늬의 카드를 K, Q, J, …, A 순서의 내림차순으로 배열해
+완전한 열을 만들고, 이렇게 만든 열을 모두 치워 테이블로를 비우는 것이 목표입니다.
+하나의 완전한 시퀀스를 완성하면 그 묶음은 게임판에서 제거됩니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-- **Objective:** Build eight descending sequences of the same suit (King, Queen, Jack, ..., Ace).
-- **Building on the Tableau:** You can place a card on top of another card if it is one rank lower (e.g., a 7 on an 8). While you can stack cards of different suits, you can only move a group of cards together if they are all of the same suit.
-- **Empty Columns:** An empty column can be filled with any available card or a sequence of cards.
-- **Stock Pile:** When you have no more available moves on the tableau, you can deal a new row of 10 cards from the stock pile. You can only do this when there are no empty columns.
+- **목표:** 같은 무늬의 카드로 K에서 A까지 이어지는 내림차순 시퀀스를 총
+  여덟 개 만드는 것입니다.
+- **테이블로에서 쌓기:** 카드 위에 한 단계 낮은 숫자의 카드를 올릴 수 있습니다
+  (예: 8 위에 7). 서로 다른 무늬를 섞어서 쌓는 것은 가능하지만, 여러 장의
+  카드를 한 번에 묶어서 옮기려면 모두 같은 무늬이면서 완벽한 내림차순을
+  이루고 있어야 합니다.
+- **빈 열 사용:** 완전히 비어 있는 열에는 어떤 카드든, 혹은 유효한 카드
+  시퀀스든 자유롭게 옮길 수 있습니다. 이 빈 열을 활용해 꼬여 있는 줄을 풀고
+  같은 무늬끼리 정렬해 보세요.
+- **덱에서 새 줄 뽑기:** 테이블로에서 더 이상 유의미한 수를 만들기 어렵다면
+  덱을 클릭해 열마다 카드 한 장씩을 새로 뿌릴 수 있습니다. 단, 빈 열이
+  하나라도 남아 있으면 새 줄을 뽑을 수 없습니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- **Mouse/Touch:** Click and drag cards to move them between columns. Most versions also support a single click to automatically move a card to a valid position if one exists.
+- **마우스/터치:** 카드를 클릭하고 드래그해 다른 열로 옮깁니다. 일부 버전에서는
+  한 번 클릭만으로도 이동 가능한 위치가 있을 경우 자동으로 옮겨 주기도 합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**What do the different difficulty levels mean?**
+**Q. 난이도(1무늬, 2무늬, 4무늬)는 무엇이 다른가요?**
 
-The difficulty is determined by the number of suits used:
-- **1-Suit (Beginner):** All 104 cards are of a single suit, making it much easier to form sequences.
-- **2-Suit (Intermediate):** Uses two suits, requiring you to manage building separate sequences.
-- **4-Suit (Advanced):** The most challenging version, using all four suits.
+난이도는 사용되는 무늬의 수로 결정됩니다.
+- **1무늬(초보):** 104장이 모두 같은 무늬라, 내림차순 시퀀스를 만들기가
+  가장 쉽습니다.
+- **2무늬(중급):** 두 가지 무늬가 섞여 있어, 서로 다른 시퀀스를 관리해야 합니다.
+- **4무늬(고급):** 네 가지 모든 무늬를 사용하며, 가장 높은 난이도를 자랑합니다.
 
-**Why is it called Spider Solitaire?**
+**Q. 왜 이름이 "Spider" Solitaire인가요?**
 
-The name comes from the eight sequences you need to build, corresponding to a spider's eight legs.
+완성해야 할 시퀀스가 여덟 개라는 점에서, 다리가 여덟 개인 거미(Spider)에
+비유해 붙여진 이름입니다.
 
-**What is the main strategy?**
+**Q. 기본 전략은 무엇인가요?**
 
-Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
-
+가능한 한 빨리 열을 비워 재정렬할 수 있는 공간을 만드는 것이 핵심입니다.
+또한 뒷면 카드가 많이 쌓여 있는 열의 카드를 우선적으로 정리해, 숨겨진 카드를
+앞면으로 드러내야 선택지가 늘어납니다. 언제나 같은 무늬로 시퀀스를 만드는
+것을 최우선 목표로 두세요.

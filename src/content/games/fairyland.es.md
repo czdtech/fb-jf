@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: fairyland
-title: '[ES] Fairyland'
+title: "Fairyland"
 description: >-
-  [ES] Fairyland is a gentle puzzle adventure — explore cozy scenes, solve light
-  puzzles, and complete objectives at a restful pace.
+  Fairyland es una aventura de puzles suave: explora escenarios acogedores,
+  resuelve acertijos sencillos y completa objetivos a un ritmo relajado.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/fairyland.png
 tags:
@@ -16,36 +16,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Fairyland es una aventura sin estrés llena de tareas de colección, puzles
+ambientales sencillos y escenas llenas de encanto. Buscarás objetos ocultos,
+activarás interruptores en el orden correcto, escoltarás pequeñas criaturas y de
+vez en cuando completarás minijuegos. Avanzas por capítulos compactos en los que
+lo importante es la exploración, no el combate.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Fairyland is a low‑stress adventure filled with collectible tasks, simple environmental puzzles, and whimsical scenes. You’ll search for hidden objects, activate switches in the right order, escort little critters, and occasionally complete mini‑games. Progress across compact chapters while enjoying exploration rather than combat.
+1.  **Explora de forma metódica:** Limpia una escena cada vez; usa zoom o
+    desplazamiento para encontrar elementos interactivos pequeños.
+2.  **Toma notas de pistas:** Apunta secuencias de símbolos, códigos de color y
+    otros patrones que puedan servir para puertas o mecanismos más adelante.
+3.  **Completa tareas opcionales:** Las misiones secundarias suelen desbloquear
+    recompensas cosméticas o pistas adicionales.
+4.  **Planifica rutas:** Si una zona implica volver sobre tus pasos, intenta
+    recoger todos los objetos necesarios en un mismo recorrido para minimizar el
+    ir y venir.
+5.  **Lee bien las reglas de minijuegos:** Muchos puzles permiten reintentos
+    rápidos sin castigo, así que tómate un momento para entender la mecánica.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Sweep methodically: Clear one scene at a time; zoom or pan for small interactables.
-2.  **[ES]** Clue notebooks: Note symbol sequences and color orders for later doors.
-3.  **[ES]** Optional tasks: Complete side objectives to unlock cosmetic rewards/hints.
-4.  **[ES]** Route planning: If a scene has backtracking, collect items along a loop to minimize travel.
-5.  **[ES]** Mini‑game focus: Read rules carefully — many allow quick retries without penalty.
+- Haz clic o toca para interactuar, arrastra para mover objetos o controles
+  deslizantes y mantén pulsado cuando se indique una pulsación larga.
+- Si existe, el menú suele incluir un sistema de pistas o un cuaderno de notas.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Click/tap to interact, drag for items or sliders, hold for long presses when needed.
-- Menu provides hints/logbook if available.
+- **P: Estoy atascado, ¿qué hago?**  
+  **R:** Vuelve a recorrer escenas anteriores en busca de elementos interactivos
+  que pasaras por alto, revisa tus notas y prueba a hacer clic en detalles del
+  entorno que parezcan solo decorativos: a menudo esconden pistas.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Hay estados de fallo permanentes?**  
+  **R:** Casi nunca; la mayoría de puzles permiten intentos ilimitados y
+  ofrecen pistas suaves si repites demasiadas veces.
 
-- Q: I’m stuck — what should I do?
-
-A: Revisit prior scenes for missed interactables, review notebooks, and try interacting with environmental decorations.
-
-- Q: Are there fail states?
-
-A: Rarely; most puzzles allow infinite retries and gentle hints.
-
-- Q: How long is a chapter?
-
-A: Short — built for quick sessions; multiple chapters add up to a relaxing journey.
-
+- **P: ¿Cuánto dura cada capítulo?**  
+  **R:** Son secciones cortas pensadas para sesiones rápidas; varios capítulos
+  encadenados forman una experiencia relajada más larga.

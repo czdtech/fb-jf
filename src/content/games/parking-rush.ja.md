@@ -1,84 +1,49 @@
 ---
-locale: ja
-urlstr: parking-rush
-title: '[JA TRANSLATION NEEDED] Parking Rush'
-description: >-
-  [JA TRANSLATION NEEDED] A fun and challenging puzzle game of traffic control!
-  Draw a path for each car to its matching parking spot, but be careful not to
-  let them crash into each other.
-iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
+title: Parking Rush
+description: Parking Rushは素早い駐車ゲームです。車を駐車し、障害物を避け、時間と競争し、駐車スキルをマスターします。
+iframeSrc: 'https://parkingrush.h5games.usercontent.goog/v/2j8k5m9h7p3n8/'
 thumbnail: /new-images/parking-rush.png
+urlstr: parking-rush
+score: 3.9/5  (1623 votes)
 tags:
-  - puzzle
-  - driving
   - casual
-  - thinky
-score: 4.2/5  (1900 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - action
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Parking Rushは、タイムプレッシャー下で車を駐車することに挑戦します。狭いスペースをナビゲートし、障害物を避け、クラッシュせずに駐車スポットに到達します。速度と精度が必要です。
 
-[JA TRANSLATION NEEDED] Parking Rush is a clever and addictive line-drawing puzzle game that puts you in control of a chaotic parking lot. Your job is to play the role of a parking attendant and guide each car to its designated, color-matched parking space. The challenge is to draw paths for all the cars without them crashing into each other. As the levels progress, the number of cars and obstacles increases, requiring careful planning and timing to succeed.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **ゆっくり始める:** 急ぐ前にコントロールを学びます。
+2.  **角度を計画:** 駐車前に車を配置します。
+3.  **バックミラーを使用:** 後方を確認します。
+4.  **時間を管理:** 速いですが、正確です。
+5.  **練習:** 繰り返しが駐車を改善します。
 
-[JA TRANSLATION NEEDED] 1.  **Plan Your Routes:** Before you draw a single line, take a look at the entire layout. Identify which cars have the shortest or most direct paths and which ones might need to take a longer route to avoid a collision.
-[JA TRANSLATION NEEDED] 2.  **Control the Timing:** The key to this game is timing. You don't have to send all cars at once. You can draw a long, winding path for one car to deliberately delay it, giving another car time to pass through a busy intersection first.
-[JA TRANSLATION NEEDED] 3.  **One Car at a Time:** For complex levels, it's often best to draw a path for one car, let it park, and then move on to the next one. This reduces the number of moving vehicles you have to worry about at any given moment.
-[JA TRANSLATION NEEDED] 4.  **Use Open Space:** Don't be afraid to draw paths that loop around the edges or through empty parts of the parking lot. A longer path is better than a crash!
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with a simple line-drawing mechanic.
-
-*   **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
-    - **A:** You will fail the level and have to restart it from the beginning.（日本語訳が必要）
-    - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.（日本語訳が必要）
-    - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.（日本語訳が必要）
-    - **A:** You will fail the level and have to restart it from the beginning.（日本語訳が必要）
-    - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.（日本語訳が必要）
-    - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What happens if two cars crash?**
-[JA TRANSLATION NEEDED]     *   **A:** You will fail the level and have to restart it from the beginning.
-
-*   **Q: How do I stop cars from crashing when their paths cross?**
-[JA TRANSLATION NEEDED]     *   **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
-
-*   **Q: Do I have to park all the cars?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+### 操作ガイド
 
 
+The game is played with a simple line-drawing mechanic.
+- 矢印キー/WASD：ドライブ、リバース、ステア。
+- 駐車スポットに到達します。
+- 時間制限内にクラッシュを避けます。
 
+### よくある質問 (FAQ)
 
-
-
-
-
-
+- **Q: 継続的にクラッシュします。ヒントは？**  
+  A: ゆっくり運転し、角度を計画し、ミラーを使用します。
+    - **Q: タイムリミットは厳しいですか？**  
+  A: はい、速度と精度のバランスが必要です。
+- **Q: レベルはいくつありますか？**  
 
     - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+
 - **Q: Do I have to park all the cars?**
+
     - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
-- **Q: How do I stop cars from crashing when their paths cross?**
-    - **A:** You will fail the level and have to restart it from the beginning.
-- **Q: What happens if two cars crash?**
-### よくある質問（FAQ）
-- **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
-
-
-
-
-
-
-    - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
-- **Q: Do I have to park all the cars?**
-    - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
-- **Q: How do I stop cars from crashing when their paths cross?**
-    - **A:** You will fail the level and have to restart it from the beginning.
+  A: バージョンによって異なります。多くは数十。

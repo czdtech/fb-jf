@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: finger-slayer
-title: '[ZH TRANSLATION NEEDED] Finger Slayer'
+title: "Finger Slayer 手指極限反應"
 description: >-
-  [ZH TRANSLATION NEEDED] Finger Slayer tests raw reaction — pull back at the
-  last millisecond to dodge a closing blade without flinching early.
+  《Finger Slayer》是一款純粹測試反應速度的遊戲，你要在刀刃落下前最後一瞬間把「手指」收回，
+  既不能太早，也不能太晚。
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/finger-slayer.jpg
 tags:
@@ -17,30 +17,37 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Finger Slayer is a single‑button reflex test: place your “finger” within a danger zone and yank it away right before a trap snaps shut. Rounds escalate with faster closures, fake telegraphs, and rhythm changes that punish anticipation. The goal is to commit to a single crisp pull at the last safe frame without flinching early (which scores lower) or waiting too long.
+《Finger Slayer》本質上是一個單鍵反射神經測試：你把虛擬「手指」放進危險區域，
+等機關準備啟動時，再在最安全的最後一瞬間猛然收回。隨著回合推進，陷阱收合速度會愈來愈快，
+還會加入假動作與節奏變化，專門懲罰「靠猜」而不是靠反應的玩家。目標是在最後安全幀精準出手，
+一次利落收回，不要提前抖手降低分數，也不要猶豫到被夾到。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Read the tell: Most traps give a micro‑windup (sound/visual); key off that signal, not a mental count.
-2.  [ZH TRANSLATION NEEDED] Don’t pre‑move: Early flinches reduce score and rhythm; stay still until the tell.
-3.  [ZH TRANSLATION NEEDED] One clean pull: Make the exit decisive — partial drags get clipped.
-4.  [ZH TRANSLATION NEEDED] Rhythm adaptation: After a few rounds, patterns shift; reset mentally between attempts.
-5.  [ZH TRANSLATION NEEDED] Safe thresholds: Learn your personal reaction boundary and aim a hair earlier.
+
+1.  **讀機關前搖：** 多數陷阱在真正落下前會有極短的預備動作或音效，你應該根據這個「前搖訊號」行動，
+    而不是在心裡默數節奏。
+2.  **不要預先抖動：** 太早縮手雖然安全，但會讓分數與節奏變差。真正的關鍵是保持完全不動，
+    直到前搖出現再瞬間收回。
+3.  **一次乾脆的後撤：** 收回手指的動作要果斷俐落，拖泥帶水的半截拖曳很容易剛好被夾到邊緣。
+4.  **適應節奏變化：** 玩幾回合後，遊戲節奏會刻意打亂，記得在每次新回合前重置心態，
+    不要完全照前一局的節奏去猜。
+5.  **找出自己的安全邊界：** 多玩幾次後，你會大致知道自己極限反應時間，之後只要略微提前一點出手即可。
 
 ### Controls Guide
 
-- Hold to “place” and release to pull back; some builds use tap vs hold.
+- 按住（或點住）代表把手指放進危險區域，放開即為抽回；
+- 部分版本可能區分「點按」與「按住」，以實際提示為準。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I always move too early — how do I stop?
-  
-[ZH TRANSLATION NEEDED]   A: Focus on the trap’s pre‑animation or audio cue; suppress guessing and react to the real tell.
+- 問：我總是提早縮手，怎麼改善？  
+  答：把注意力放在陷阱的預備動畫或聲音上，刻意壓抑「猜時間」的衝動，
+  告訴自己只對真正的前搖訊號做出反應。
 
-- Q: Closures feel random — any tip?
-  
-[ZH TRANSLATION NEEDED]   A: They’re pseudo‑random with patterned “tells.” Train a calm wait‑then‑snap reaction.
+- 問：陷阱收合好像很隨機，有訣竅嗎？  
+  答：多數情況屬於「偽隨機」，仍然有前搖模式可循。養成「先等、再一瞬間出手」的節奏，
+  而不是事先預定在第幾秒動。
 
-- Q: Is there input lag?
-  
-[ZH TRANSLATION NEEDED]   A: Minor delays exist on some devices; compensate by reacting on the cue’s first frame.
-
+- 問：有延遲的話怎麼辦？  
+  答：部分裝置確實會有些微輸入延遲，可以嘗試在前搖剛出現的瞬間就立刻放開，
+  用提早一點點的出手來抵消延遲。

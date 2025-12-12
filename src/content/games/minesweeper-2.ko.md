@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: minesweeper-2
-title: '[KO] Minesweeper'
+title: Minesweeper 고전 마인스위퍼
 description: >-
-  [KO] The timeless classic logic puzzle. Use the number clues to deduce the
-  location of all the hidden mines and clear the board without setting one off!
+  Minesweeper는 숫자 힌트를 바탕으로 숨겨진 지뢰의 위치를 논리적으로 추리해, 한 번도 밟지 않고 보드를 전부 여는 고전 퍼즐
+  게임입니다.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/minesweeper-2.jpg
 tags:
@@ -17,33 +17,41 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Minesweeper*는 수십 년 동안 개인용 컴퓨터의 기본 게임으로 사랑받아 온 싱글 플레이
+논리 퍼즐입니다. 직사각형 격자에 보이지 않는 지뢰가 숨겨져 있고, 플레이어는 지뢰를
+밟지 않으면서 모든 안전한 칸을 여는 것이 목표입니다. 각 칸에 표시된 숫자는 주변 8칸
+(가로·세로·대각선)에 지뢰가 몇 개 있는지를 알려 주며, 이 정보만을 사용해 지뢰 위치를
+추리해야 합니다.
 
-### Detailed Game Introduction
+### 공략 & 진행 팁
 
-Minesweeper is a classic single-player logic puzzle that has been a staple of personal computing for decades. The objective is to clear a rectangular grid containing hidden "mines" or bombs without detonating any of them. To do this, you use clues from revealed squares that tell you how many mines are in the adjacent eight squares. It's a game of pure deduction and careful risk assessment.
+1. **첫 클릭:** 첫 클릭은 항상 안전한 칸으로 처리되는 경우가 많습니다. 인접 지뢰가 없는
+   칸을 열면 주변이 한꺼번에 크게 열리므로, 초반에 유리한 출발을 할 수 있습니다.
+2. **숫자 이해:** 숫자는 해당 칸을 둘러싼 8칸에 존재하는 지뢰의 정확한 개수를 의미합니다.
+   이 숫자들을 조합해 안전한 칸과 지뢰 칸을 논리적으로 구분해야 합니다.
+3. **1-2-1 패턴:** 줄 형태로 나타나는 "1-2-1" 패턴은 대표적인 정석입니다. 양쪽 '1' 옆의
+   칸이 지뢰가 되고, 가운데 '2' 옆 반대쪽 칸은 안전하다는 것을 확신할 수 있습니다.
+4. **깃발 활용:** 지뢰가 확실한 칸에는 오른쪽 클릭으로 깃발을 꽂아 두면, 실수로 클릭하는
+   일을 막고 전체 상황을 파악하기 쉬워집니다.
+5. **차핑(Chord) 사용:** 어떤 숫자를 둘러싼 칸에 그 숫자만큼의 깃발이 꽂혀 있다면,
+   그 숫자를 다시 클릭(또는 좌·우 동시 클릭/가운데 클릭)해 주변 나머지 칸을 한 번에
+   열 수 있습니다. 다만 깃발이 잘못 꽂혀 있으면 그대로 폭발하니 주의해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **The First Click:** Your first click is always safe. If you click a square that has no adjacent mines, it will open a large area, which is a great start.
-2.  **[KO]** **Understanding the Numbers:** The number on a revealed square tells you exactly how many mines are in the eight squares touching it (horizontally, vertically, and diagonally). This is the only information you have to work with.
-3.  **[KO]** **The 1-2-1 Pattern:** A common and easy pattern to spot. If you see a "1-2-1" in a line, you know for certain that the squares next to the '1's are mines, and the square next to the '2' (on the other side) is safe.
-4.  **[KO]** **Flag Your Mines:** When you are 100% certain a square contains a mine, right-click to "flag" it. This prevents you from accidentally clicking on it later and helps you keep track of where the dangers are.
-5.  **[KO]** **Chord-Clicking:** If a numbered square already has the correct number of flags touching it, you can click on the number itself (or often middle-click/left+right click) to automatically reveal all its other adjacent, un-flagged squares. This is a fast way to clear the board but be careful—if your flags are wrong, you will detonate a mine!
+* **칸 열기:** 마우스 왼쪽 버튼으로 가려진 칸을 클릭
+* **깃발 표시:** 마우스 오른쪽 버튼으로 깃발을 꽂거나 제거
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Reveal a Square:** Left-click on a covered square.
-*   **[KO]** **Flag a Square:** Right-click on a covered square to place a flag. Right-click again to remove it.
+* **Q: 칸 위 숫자는 정확히 무엇을 의미하나요?**
+    - **A:** 해당 칸을 둘러싼 8칸 안에 있는 지뢰의 개수를 정확히 나타냅니다.
 
-### Frequently Asked Questions (FAQ)
+* **Q: 지뢰가 있는 칸을 클릭하면 어떻게 되나요?**
+    - **A:** 즉시 게임 오버가 되며, 숨겨져 있던 지뢰 위치가 한꺼번에 공개됩니다.
 
-*   **[KO]** **Q: What do the numbers on the squares mean?**
-    *   **[KO]** **A:** A number indicates the exact count of mines in the eight squares immediately surrounding it.
-
-*   **[KO]** **Q: What happens if I click on a mine?**
-    *   **[KO]** **A:** The game ends instantly, and all the mine locations are revealed.
-
-*   **[KO]** **Q: Do I have to place flags to win?**
-    *   **[KO]** **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
-
+* **Q: 깃발을 꼭 다 꽂아야 클리어할 수 있나요?**
+    - **A:** 아닙니다. 깃발은 어디에 지뢰가 있는지 기억하기 위한 보조 도구일 뿐이며,
+    실제 승리 조건은 지뢰가 없는 모든 칸을 여는 것입니다.

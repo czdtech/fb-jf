@@ -1,45 +1,39 @@
 ---
 locale: zh
 urlstr: smarty-bubbles-2
-title: '[ZH TRANSLATION NEEDED] Smarty Bubbles 2'
-description: >-
-  [ZH TRANSLATION NEEDED] The addictive bubble shooter is back! Aim, shoot, and
-  match colorful bubbles to clear the board. Plan your shots carefully to avoid
-  adding new rows!
-iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
+title: 《Smarty Bubbles 2》聪明泡泡 2
+description: 《Smarty Bubbles 2》是一款经典泡泡龙续作。发射彩色泡泡，将三个及以上同色泡泡连成一片并消除，清空屏幕赢得关卡胜利。
+iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/4h72msq50h860/'
 thumbnail: /new-images/smarty-bubbles-2.png
 tags:
-  - shooting
+  - bubble shooter
   - puzzle
   - casual
-score: 4.4/5  (2600 votes)
+score: 4.3/5  (2150 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Smarty Bubbles 2 continues the fun of the classic bubble shooter with a polished look and hundreds of new levels. The objective remains the same: clear the entire board of colorful bubbles by shooting and matching three or more of the same color. This sequel challenges you to think strategically to create massive chain reactions and clear each stage, all while managing your shots to prevent the ceiling from dropping.
+《Smarty Bubbles 2》承接了前作“瞄准发射 + 三消消除”的经典泡泡龙玩法，并在关卡节奏和画面表现上做了升级。屏幕上方堆满了不同颜色的泡泡，你需要从下方发射手中的泡泡，使其与相同颜色的泡泡连成三个及以上的组合即可消除。当成片泡泡被打断连接时，它们也会整串掉落，为你腾出更多空间。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Avoid Misses:** Just like the original, the key is to make every shot count. After a certain number of shots that don't pop any bubbles, a new row will be added from the top, making the game harder. An indicator on the side will show you how many misses you have left.
-2.  [ZH TRANSLATION NEEDED] **Aim for Avalanches:** The most efficient way to win is to pop bubble clusters that are supporting other bubbles. This will cause all the unsupported bubbles to fall, clearing the screen much faster.
-3.  [ZH TRANSLATION NEEDED] **Use the Walls:** Master bouncing your shots off the side walls. This is an essential skill for reaching difficult spots and setting up clever matches.
-4.  [ZH TRANSLATION NEEDED] **Plan Ahead:** The game shows you the next bubble in your cannon. Use this information to plan your next move. Sometimes it's best to make a less optimal shot now to set up a perfect shot with the next bubble.
+### 游玩策略与通关指引
 
-### Controls Guide
+1. **优先处理危急区域：** 关注最接近下边界的泡泡层，优先清理这些即将压下来的区域，避免被压到发射线以下导致失败。
+2. **利用“挂链”消除：** 有些泡泡只是挂在一小片连接上，击碎关键连接点即可让整串泡泡坠落，比逐个消除更高效。
+3. **学会空隙穿插：** 熟练之后可以通过小角度和边缘弹射，把泡泡打进狭窄缝隙中，完成更巧妙的连锁消除。
+4. **控制颜色池：** 当某种颜色所剩泡泡很少时，可以优先清理它们，让该颜色从池子中消失，之后出现的颜色种类就会减少，整体局面会更易于控制。
 
-*   **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-*   **Shoot:** Click the left mouse button to fire the bubble.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **瞄准发射：** 拖动或移动鼠标调整发射方向，点击或轻触屏幕即可射出当前泡泡。
+*   **切换泡泡（如有）：** 某些版本允许暂存一个备用泡泡，可通过点击交换来应对不合适的颜色。
 
-*   **Q: Why did a new row of bubbles appear?**
-     *   **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.
-
-*   **Q: What is the goal of the game?**
-     *   **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
-
-*   **Q: How do I get a high score?**
-     *   **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
-
+### 常见问题解答（FAQ）
+*   **问：总被上方泡泡压到线怎么办？****
+    *   答：** 尽量优先清掉最低、最靠近你的一排，同时注意利用“挂链”结构一次性打掉大块泡泡。
+*   **问：有没有时间或步数限制？****
+    *   答：** 视模式而定，有的走“无限步但逐渐下压”的经典模式，有的会限定步数或时间，需要根据关卡要求调整节奏。
+*   **问：和初代《Smarty Bubbles》相比有什么不同？****
+    *   答：** 《Smarty Bubbles 2》通常在美术、动画和关卡节奏上更精致，部分版本还会增加特殊泡泡或新的挑战规则。

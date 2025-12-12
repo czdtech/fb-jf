@@ -1,52 +1,66 @@
 ---
 locale: es
 urlstr: sprunki-basical
-title: '[ES] Sprunki Basical - Play Sprunki Basical Online'
+title: "Sprunki Basical - Juega a Sprunki Basical Online"
 description: >-
-  [ES] Sprunki Basical is a back-to-basics music creation game that allows you
-  to experience the purest musical fun in simple operations. If you like
-  Incredibox and want to try something new, then Sprunki Basical is definitely a
-  good choice!
-iframeSrc: 'https://sprunki-basical.pages.dev/'
-thumbnail: /sprunki-basical.png
+  Sprunki Basical es un juego de creación musical "vuelta a lo básico" que te
+  permite disfrutar de la parte más pura y divertida de la música con controles
+  muy sencillos. Si te gusta Incredibox y quieres probar algo nuevo, Sprunki
+  Basical es una gran opción.
+iframeSrc: "https://sprunki-basical.pages.dev/"
+thumbnail: "/sprunki-basical.png"
 tags:
   - sprunki basical
   - sprunki basical online
 score: 4.4/5  (420 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción a Sprunki Basical
 
-### Introducing to Sprunki Basical
-
-Sprunki Basical is a back-to-basics music creation game that allows you to experience the purest musical fun in simple operations. If you like Incredibox and want to try something new, then Sprunki Basical is definitely a good choice! Come and join Sprunki Basical, and use your music to light up your life!
-
----
-
-### How to Play Sprunki Basical?
-
-The gameplay is very simple, it can be done in a few steps:
-
-- **Drag and Drop Sound Effects:** Drag different sound effect icons onto the characters to assign them different sounds.
-- **Overlay Sounds:** Build a complete music track by strategically placing beats, vocals, and sound effects.
-- **Unlock Bonuses:** Try specific sound combinations to discover hidden animations and special effects!
-- **Real-Time Mixing:** Adjust your work at any time, mute, remove, or rearrange sounds to make your music more perfect.
-
+Sprunki Basical vuelve a lo esencial: un juego de creación musical que apuesta
+por controles simples y resultados inmediatos. Recupera la esencia de jugar con
+sonidos sin complicaciones técnicas. Si disfrutas con Incredibox y buscas un
+nuevo entorno donde experimentar, aquí tienes un candidato perfecto.
 
 ---
 
-### Tips for Playing Sprunki Basical:
+### ¿Cómo se juega a Sprunki Basical?
 
-- **Start with the Beat:** First lay the foundation for your music, drag a rhythmic sound to the character.
-- **Add Melodies and Sound Effects:** Use vocal and instrumental loops to enrich your mixing work.
-- **Explore Bonus Combinations:** Certain sound combinations will trigger special animations and exclusive musical sequences.
-- **Strive for Perfection:** Adjust, remove, or mute certain sounds at any time to achieve the best results.
-- **Save and Share:** In some versions, you can record and share your music works, allowing more people to hear your voice.
+La mecánica es muy sencilla, en unos pocos pasos ya estarás componiendo:
 
+- **Arrastrar efectos de sonido:** Arrastra distintos iconos de sonido sobre los
+  personajes para asignarles voces, ritmos o efectos.
+- **Superponer sonidos:** Construye una pista musical completa colocando con
+  cabeza baterías, voces y efectos.
+- **Desbloquear extras:** Prueba combinaciones concretas de sonidos para
+  descubrir animaciones ocultas y efectos especiales.
+- **Mezcla en tiempo real:** Ajusta tu creación en cualquier momento: silencia,
+  elimina o reordena sonidos hasta que la mezcla te convenza.
 
-### Highlights of Sprunki Basical:
+---
 
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started and create quickly.
-- **New Sprunki Style:** Brings a series of new Sprunki-themed beats, melodies, and sound effects, giving you a sense of freshness.
-- **Real-Time Mixing:** Adjust your work at any time to make your music more perfect.
-- **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+### Consejos para jugar a Sprunki Basical
+
+- **Empieza por el ritmo:** Pon primero la base rítmica arrastrando un sonido de
+  percusión a un personaje.
+- **Añade melodías y efectos:** Usa bucles vocales e instrumentales para dar
+  cuerpo y color a la mezcla.
+- **Explora combinaciones especiales:** Ciertas combinaciones activan
+  animaciones y secuencias musicales exclusivas.
+- **Persigue el mejor resultado:** Ajusta, silencia o quita sonidos siempre que
+  lo necesites para pulir el resultado final.
+- **Guardar y compartir:** En algunas versiones puedes grabar y compartir tus
+  temas para que más gente escuche tu música.
+
+### Puntos fuertes de Sprunki Basical
+
+- **Manejo simple e intuitivo:** Mantiene el espíritu de Incredibox, permitiendo
+  empezar a crear sin curva de aprendizaje complicada.
+- **Nuevo estilo Sprunki:** Aporta beats, melodías y efectos con identidad
+  propia, dando una sensación de frescura.
+- **Mezcla en tiempo real:** Puedes retocar tu trabajo al instante para que la
+  canción evolucione contigo.
+- **Exploración divertida:** Las animaciones y efectos ocultos convierten la
+  sesión de creación en una experiencia llena de sorpresas.

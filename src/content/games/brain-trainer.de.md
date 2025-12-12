@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: brain-trainer
-title: '[DE] Brain Trainer'
+title: "Brain Trainer"
 description: >-
-  [DE] Challenge your mind with a variety of fun and engaging mini-games! Test
-  your memory, logic, calculation speed, and spatial awareness in this ultimate
-  brain workout.
+  Fordere deinen Kopf mit einer Sammlung kurzweiliger Mini‑Spiele heraus.
+  Teste Gedächtnis, Logik, Rechengeschwindigkeit und räumliches Denken in
+  diesem kompakten Gehirntraining.
 iframeSrc: >-
   https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/brain-trainer.jpg
@@ -18,35 +18,41 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Detaillierte Spielbeschreibung
 
+Brain Trainer ist eine Sammlung kurzer, aber fordernder Mini‑Spiele, die
+verschiedene kognitive Fähigkeiten ansprechen: Merkfähigkeit, logisches
+Denken, Kopfrechnen und räumliches Vorstellungsvermögen. In schnellen Runden
+trainierst du deine geistige Beweglichkeit, verbesserst Fokus und Reaktion und
+kannst deine Entwicklung über mehrere Sessions im Blick behalten.
 
-### Detailed Game Introduction
+### Spielmodi & Beispiele
 
-Brain Trainer is a collection of fun and stimulating mini-games designed to give your cognitive skills a workout. The game targets different areas of your brain, including memory, logic, calculation, and spatial awareness. By playing through these quick and challenging puzzles, you can test your mental agility, improve your focus, and track your performance over time. It's a perfect way to keep your mind sharp while having fun.
+Brain Trainer bietet mehrere Kategorien von Mini-Spielen; typische Beispiele:
 
-### Gameplay Strategy & Walkthrough
+1.  **Gedächtnis:** Du siehst z. B. leuchtende Felder oder kurz aufgedeckte
+    Kartenpaare und musst dir deren Position oder Reihenfolge merken und
+    korrekt nachbilden.
+2.  **Logik‑Puzzles:** Hier geht es um Schlussfolgern – etwa das Erkennen des
+    schwersten Objekts anhand von Waagen oder das Fortsetzen visueller Muster.
+3.  **Rechen‑Challenges:** Schnelles Kopfrechnen gegen die Zeit mit einfachen
+    Additions‑, Subtraktions‑ oder Multiplikationsaufgaben.
+4.  **Räumliches Denken:** Aufgaben wie das Drehen von Formen, um sie in eine
+    Zielkontur zu setzen, oder das Navigieren durch kleine Labyrinthe.
 
-Brain Trainer consists of several different mini-games. Here are a few examples:
+### Steuerung
 
-1.  **[DE]** **Memory Games:** You might be shown a sequence of flashing lights or a set of cards that are briefly revealed. Your task is to remember the pattern or the location of matching pairs and replicate it correctly.
-2.  **[DE]** **Logic Puzzles:** These games challenge your problem-solving skills. You might have to identify the heaviest object from a set of scales or solve a visual pattern puzzle.
-3.  **[DE]** **Calculation Challenges:** Test your mental math. You will be presented with a series of simple arithmetic problems that you must solve as quickly as possible against the clock.
-4.  **[DE]** **Spatial Awareness:** These puzzles might involve rotating blocks to fit into a specific shape or navigating a maze.
+Die Bedienung bleibt in allen Mini‑Games simpel und erfolgt per Maus oder Touch.
 
-### Controls Guide
+- **Auswahl / Antwort:** Klicke oder tippe auf Zahl, Feld, Karte oder Objekt, das der gefragten Lösung entspricht；die meisten Aufgaben werten sofort aus, andernfalls erscheint ein „OK“-Knopf und das Resultat zeigt Score, Genauigkeit sowie Bestwerte.  
 
-The controls are simple and vary by mini-game, but they are all based on mouse clicks or taps.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Select/Answer:** Click on the correct object, number, or sequence as required by the current puzzle.
+- **F: Was ist das eigentliche Ziel?**  
+    - **A:** Möglichst hohe Punktzahlen in den einzelnen Mini‑Spielen. Oft erhältst du daraus einen Gesamt‑„Brain Score“ oder eine Einordnung deiner Leistungsbereiche.
 
-### Frequently Asked Questions (FAQ)
+- **F: Sind die Spiele zeitlich begrenzt?**  
+    - **A:** Ja, meistens laufen sie gegen einen Timer; gewertet werden sowohl Geschwindigkeit als auch Genauigkeit.
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** The goal is to achieve the highest score possible in each mini-game. The game often provides an overall "brain score" or "brain age" based on your performance across all categories.
-
-*   **[DE]** **Q: Are the games timed?**
-    *   **[DE]** **A:** Yes, most of the mini-games are timed. Your score is often based on a combination of speed and accuracy.
-
-*   **[DE]** **Q: How can I improve my score?**
-    *   **[DE]** **A:** Practice! The more you play, the more familiar you will become with the types of challenges, and the faster and more accurate you will get.
-
+- **F: Wie verbessere ich mich am besten?**  
+    - **A:** Regelmäßiges Spielen ist der Schlüssel. Je besser du die Aufgabentypen kennst, desto schneller und sicherer reagierst du.  

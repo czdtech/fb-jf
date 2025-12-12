@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: incredibox-banana
-title: '[FR] Incredibox Banana'
-description: >-
-  [FR] Explore the fan-made 'Incredibox Banana' mod. This guide details its
-  jungle and meme theme inspired by the popular VR game, its unique sound
-  palette, and tips for creating your own monkey mix.
-iframeSrc: 'https://turbowarp.org/1108699828/embed'
+title: "Incredibox Banana"
+description: "Découvre le mod fan‑made « Incredibox Banana » : un thème jungle bourré de mèmes inspiré du jeu VR populaire, avec une palette sonore unique pour créer ton propre mix de singes."
+iframeSrc: "https://turbowarp.org/1108699828/embed"
 thumbnail: /new-images/incredibox-banana.png
 tags:
   - music
@@ -16,40 +13,40 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Ce mod fan‑made très populaire pour Incredibox rend hommage au jeu VR à succès **Incredibox Banana**. Les beatboxers habituels sont remplacés par une bande de gorilles assis sur un tronc au milieu de la jungle, ce qui reprend parfaitement l’esthétique de l’œuvre originale.
 
+Le gameplay suit la formule classique d’Incredibox : tu disposes d’une vingtaine d’icônes, chacune représentant un son ou un mème issu de la communauté Incredibox Banana. En faisant glisser ces icônes sur les sept gorilles, tu crées ton propre mix. La palette sonore mélange ambiance de jungle, bruitages mèmes tirés du jeu, beatbox et touches électroniques.
 
-### **Game Introduction**
+L’objectif est de permettre aux fans d’Incredibox et d’Incredibox Banana d’exprimer leur créativité tout en s’amusant à débloquer les bonus animés secrets, eux aussi inspirés de la culture et des légendes du mod Banana.
 
-This popular fan-made mod for Incredibox is a direct tribute to the massively popular VR game, **Incredibox Banana**. It swaps the usual beatboxers for a crew of gorillas sitting on a log in a forest environment, perfectly capturing the aesthetic of its inspiration.
+### Stratégies de jeu et conseils
 
-The gameplay follows the classic Incredibox drag-and-drop formula. Players are given 20 sound icons, each representing a different sound or meme from the Incredibox Banana community. By dragging these icons onto the seven gorillas, players can create their own unique musical compositions. The sound palette is a creative mix of **jungle ambiance, meme sound effects from the game, beatboxing, and electronic beats**.
+La clé est de superposer intelligemment les sons emblématiques et les références mème pour créer un morceau fun et énergique.
 
-The objective is to allow fans of both Incredibox and Incredibox Banana to express their creativity while also enjoying the puzzle of finding the secret animated bonuses, which are undoubtedly themed around the unique culture of the Incredibox Banana universe.
+1.  **Comprendre la palette sonore de Banana**  
+    - **Beats (percussions)** : la section rythmique s’appuie souvent sur des percussions à thème jungle. Cherche des icônes comme la **noix de coco** ou d’autres sons qui donnent une pulsation régulière.  
+    - **Effets (ambiance)** : ces sons construisent le décor sonore. On y trouve des bruits de forêt, des effets de personnages et des mèmes audio comme la **ventouse (plunger)** ou le son inquiétant associé à l’icône **PBBV**, une figure mythique du mod.  
+    - **Mélodies (basse/synthé)** : ce sont les lignes principales. Des icônes comme les **écouteurs** peuvent représenter une basse profonde ou une mélodie synthé qui porte le morceau.  
+    - **Voix (vocal)** : chants de gorilles, beatbox et autres vocalises donnent toute leur personnalité à ton mix.
 
-### **Gameplay Strategy & Tips**
+2.  **Joue avec la culture mème**  
+    Une grande partie du plaisir vient de la reconnaissance des références. Les icônes pour le nœud papillon de **PBBV**, les différents chapeaux et autres objets sont autant de clins d’œil au lore d’Incredibox Banana. Amuse‑toi à les combiner et écoute comment ils s’intègrent dans la musique.
 
-The strategy here is about layering the game's iconic sounds and meme references to create a fun, energetic track.
+3.  **Construis ton morceau par couches**  
+    Commence par poser une rythmique solide (par exemple l’icône noix de coco), ajoute ensuite une ligne de basse ou un effet d’ambiance pour donner de la profondeur, puis termine en superposant les mélodies et les voix les plus marquantes.
 
-1.  **[FR]** **Understand the Incredibox Banana Sound Palette**:
-    *   **[FR]** **Beats (Percussion)**: The rhythm section is likely composed of jungle-themed percussion. Look for icons like the **coconut** to provide a beat, or other sounds that create a rhythmic pulse.
-    *   **[FR]** **Effects (Atmosphere)**: This category builds the world. It likely includes ambient forest sounds, character sound effects, and iconic meme sounds like the **plunger** or the spooky sound associated with the **PBBV** icon (a famous Incredibox Banana myth).
-    *   **[FR]** **Melodies (Bass/Synth)**: These are the core tunes. Icons like the **headphones** might represent a deep bassline or a synth melody that drives the track.
-    *   **[FR]** **Voices (Vocal)**: The vocals would be a mix of gorilla-like chants, beatboxing, and other character vocalizations that give the mix its unique personality.
+4.  **Chasse méthodiquement les bonus**  
+    Pour trouver les trois bonus animés, adopte une approche systématique : verrouille d’abord quelques sons de base que tu aimes, puis remplace progressivement les autres icônes un par un jusqu’à déclencher une animation. Note les combinaisons qui fonctionnent pour les retrouver facilement.
 
-2.  **[FR]** **Embrace the Meme Culture**: A huge part of the fun is recognizing the references. The icons for the **PBBV bowtie**, the various hats, and other in-game items are all nods to Incredibox Banana lore. Experiment with these to see how they translate into music.
+### Commandes
 
-3.  **[FR]** **Build from the Ground Up**: Start your mix with a solid beat (perhaps the coconut icon). Then add a bassline or an atmospheric effect to create a foundation. Finally, layer the more distinct melodies and vocals on top.
+Les commandes reprennent l’interface drag‑and‑drop intuitive des jeux Incredibox officiels.
 
-4.  **[FR]** **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Lock in a few core sounds that you think work well together, then systematically swap out the remaining icons one by one until you trigger an animation.
-
-### **Controls Guide**
-
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
-
-*   **[FR]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the gorillas.
-*   **[FR]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing gorilla to replace it.
-*   **[FR]** **Mute / Unmute**: **Click** on a performing gorilla to mute them; click again to unmute.
-*   **[FR]** **Solo**: Click the **small button** next to an active gorilla to mute all other performers.
-*   **[FR]** **Record**: Click the **record button** (top right) to start and stop recording your mix.
+- **Ajouter un son** : fais glisser une icône sonore depuis la barre du bas et dépose‑la sur l’un des gorilles.  
+- **Retirer un son** : clique sur le « X » de l’icône active en bas ou fais glisser une nouvelle icône sur un gorille pour remplacer le son.  
+- **Mute / Unmute** : clique sur un gorille pour le couper, clique à nouveau pour le réactiver.  
+- **Solo** : utilise le petit bouton à côté d’un gorille pour ne faire entendre que lui.  
+- **Enregistrer** : clique sur le bouton d’enregistrement (en haut à droite) pour démarrer et arrêter la capture de ton mix.
 

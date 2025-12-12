@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: go-escape
-title: '[DE] Go Escape'
+title: "Go Escape"
 description: >-
-  [DE] Go Escape is a precise escape‑platformer — time jumps, read traps, and
-  thread safe routes through compact rooms.
+  Go Escape ist ein minimalistisches Escape-Plattformspiel. Weiche Stacheln und
+  Sägen aus, lies die Fallen-Zyklen richtig und finde den sicheren Weg durch
+  kompakte Räume.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/go-escape.png
 tags:
@@ -16,34 +17,57 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Go Escape ist ein reduziertes Plattform- und Fluchtspiel, in dem du dich durch
+kleine, aber gemeine Räume bewegst. Stacheln, bewegliche Sägen und zeitgesteuerte
+Tore verlangen präzise Eingaben und viel Geduld. Die einzelnen Level sind kurz,
+aber gnadenlos: Der Reiz liegt darin, den Rhythmus jeder Falle zu verstehen und
+dann einen perfekten Lauf hinzulegen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and timed gates demand crisp inputs and patient reads. Levels are short but punishing; the fun lies in mastering each room’s rhythm, then executing a clean run.
+1.  **Zyklen beobachten**  
+    Schau dir zunächst einen kompletten Zyklus der Fallen an, bevor du dich
+    bewegst. Springe nur, wenn du die Bewegungsmuster wirklich verstanden hast.
 
-### Gameplay Strategy & Walkthrough
+2.  **Kurze Sprünge nutzen**  
+    Leichte Tastendrücke geben dir kurze, kontrollierte Sprünge. Volle
+    Tastendrücke führen oft dazu, dass du über das Ziel hinausschießt.
 
-1.  **[DE]** Read cycles: Watch a full trap cycle before committing; move on predictable beats.
-2.  **[DE]** Short hops: Prefer small taps for precision over full presses that overshoot.
-3.  **[DE]** Buffer inputs: If supported, press slightly early to catch platform windows.
-4.  **[DE]** Route safety: Take slower, safer lanes first for consistent clears.
-5.  **[DE]** Checkpoint mindset: Mentally segment rooms; reset focus after each success.
+3.  **Eingaben vorpuffern**  
+    Wenn das Spiel es zulässt, kannst du Sprünge ganz leicht im Voraus
+    drücken, damit dein Charakter sofort loslegt, sobald sich ein Fenster öffnet.
 
-### Controls Guide
+4.  **Sichere Routen wählen**  
+    Suche dir zunächst den sichersten Weg durch den Raum, auch wenn er etwas
+    länger dauert. Konstante, fehlerfreie Durchläufe sind wichtiger als ein
+    riskanter Abkürzungsversuch.
 
-- Move/Jump: Arrows/WASD + Space; some levels add wall‑jump/double‑jump.
+5.  **Mentale Checkpoints setzen**  
+    Teile das Level gedanklich in Abschnitte. Immer wenn du einen Abschnitt
+    zuverlässig schaffst, hake ihn innerlich ab und konzentriere dich auf den
+    nächsten.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I keep clipping traps — how to stop?
+- **Bewegen/Springen:** Pfeiltasten oder WASD plus Sprungtaste (häufig
+  Leertaste).  
+- Manche Level fügen zusätzliche Aktionen wie **Wandsprünge** oder
+  **Doppelsprünge** hinzu – achte auf die Hinweise im Spiel.
 
-A: You’re moving on guesses. Watch cycles, count beats, and move only on consistent windows.
+### Häufige Fragen (FAQ)
 
-- Q: Any tip for narrow gaps?
+- **F: Ich streife Fallen ständig ganz knapp – was mache ich falsch?**  
+  **A:** Meist bewegst du dich auf gut Glück. Beobachte die Fallen genauer,
+  zähle innerlich ihre Zyklen und springe nur in wiederkehrenden, sicheren
+  Zeitfenstern.
 
-A: Use lightweight taps and approach from flatter angles.
+- **F: Wie komme ich durch besonders enge Passagen?**  
+  **A:** Nutze minimale Tastendrücke für sehr kurze Sprünge und nähere dich der
+  Lücke aus einem flachen Winkel, statt steil von oben.
 
-- Q: Is there a timer?
-
-A: Many rooms are untimed; consistency beats speedruns until you learn layouts.
+- **F: Gibt es einen Zeitdruck oder ein Level-Timer?**  
+  **A:** Viele Räume sind nicht streng zeitlich begrenzt. Konzentriere dich
+  zuerst darauf, konsistente Runs zu schaffen – Speedruns kommen später, wenn du
+  die Level gut kennst.

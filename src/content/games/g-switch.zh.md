@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: g-switch
-title: '[ZH TRANSLATION NEEDED] G-Switch'
+title: "G-Switch 重力切換酷跑"
 description: >-
-  [ZH TRANSLATION NEEDED] One‑button gravity runner: flip gravity to keep
-  running across platforms, avoid gaps and saws, and survive increasing speed.
+  一鍵式重力跑酷遊戲：透過翻轉重力在平台間持續奔跑，
+  躲開缺口與圓鋸，在不斷加速的節奏中盡量活得更久。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/g-switch.jpg
@@ -18,26 +18,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Auto‑runner with gravity flips. Tap to invert gravity and land on the next surface while the pace accelerates.
+
+《G-Switch》是一款自動前進的重力翻轉跑酷遊戲。角色會在平台上自動加速奔跑，
+你唯一能做的，就是在關鍵時機按鍵切換重力，讓他從地板翻到天花板，或反之，
+以此跨越缺口、躲避圓鋸與牆面障礙。
 
 ### How to Play
-- Flip just before edges to clear gaps cleanly.
-- Anticipate saws and walls; flip early rather than late.
-- Endless and level modes may both be available.
+
+- 在接近平台邊緣前稍早按鍵翻轉重力，讓角色穩穩落在下一塊平台上，避免翻得太晚直接掉下去。
+- 注意前方圓鋸、牆壁等障礙的距離，寧可早一點翻，也不要賭最後一瞬間，
+  特別是在速度提高後，容錯空間會大幅縮小。
+- 不同版本中可能同時提供無盡模式與關卡模式，無盡模式考驗極限距離，
+  關卡模式則偏重解法與節奏記憶。
 
 ### Controls
-- One key/tap to flip gravity; multiplayer maps separate keys per player.
+
+- 使用單一按鍵或點擊即可翻轉重力方向；
+- 在多人地圖中，每位玩家對應不同的翻轉鍵，用於本地同屏競速。
 
 ### Tips
-- Keep a steady flip rhythm; panic flips cause chain mistakes.
-- Use long ceilings to reset timing safely.
-- In multiplayer, watch opponents’ flips to pre‑empt traps.
+
+- 保持穩定的翻轉節奏，比亂按更重要，一旦慌張連錯兩三次，很容易整串摔下去。
+- 利用長天花板或長地板路段來重新調整自己的節奏，在安全區「校準」一下翻轉間隔。
+- 在多人模式中，可以觀察其他玩家的翻轉時機，提前預判陷阱節奏，
+  同時也不要被別人的節奏帶亂自己的步調。
 
 ### FAQ
-- Q: Why do I miss short platforms?  
-[ZH TRANSLATION NEEDED]   A: You are flipping too late; flip slightly before the edge.
-- Q: Does the game support multiplayer?  
-[ZH TRANSLATION NEEDED]   A: Many versions include local multiplayer with multiple keys.
-- Q: Are level layouts fixed?  
-[ZH TRANSLATION NEEDED]   A: Some modes are authored levels; endless modes are often procedural.
 
+- 問：為什麼我總是踩不到短平台？  
+  答：多半是翻轉時機太晚，建議在平台邊緣前一點點就按鍵，讓角色有時間完成翻轉並落地。
+
+- 問：遊戲支援多人遊玩嗎？  
+  答：許多版本都提供本地多人模式，透過多組按鍵讓數名玩家同時在同一畫面競速。
+
+- 問：關卡布局是固定的嗎？  
+  答：部分模式為預先設計好的關卡，學會之後可以追求更漂亮的通關節奏；
+  無盡模式則多半使用隨機或程序生成的路段，讓每次跑起來都有新變化。

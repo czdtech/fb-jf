@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: gold-miner-tom
-title: '[DE] Gold Miner Tom'
+title: "Gold Miner Tom"
 description: >-
-  [DE] Help Tom get rich! A classic gold miner game where you cast your claw to
-  grab gold nuggets, gems, and other treasures. Reach the level goal before time
-  runs out!
+  Hilf Tom dabei, reich zu werden! Wirf seine Greifklaue im richtigen Moment,
+  sammle Goldklumpen, Diamanten und andere Schätze ein und erreiche das
+  Geldziel, bevor die Zeit abläuft.
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/gold-miner-tom.png
 tags:
@@ -17,36 +17,61 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Gold Miner Tom ist ein klassisches Arcade-Spiel, bei dem Timing und Präzision
+alles sind. Du steuerst den ehrgeizigen Minenarbeiter Tom und seine schwingende
+Greifklaue. Im richtigen Moment lässt du die Klaue nach unten schnellen, um
+unterirdische Schätze zu erwischen. Jedes Level hat ein vorgegebenes
+Geldziel, das du innerhalb des Zeitlimits erreichen musst. Goldklumpen,
+Diamanten und geheimnisvolle Überraschungssäcke bringen Geld – schwere, wertlose
+Steine kosten dagegen nur Zeit.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Gold Miner Tom is a classic arcade-style game that tests your timing and precision. As the ambitious miner Tom, you control a swinging claw and must cast it at the right moment to grab valuable treasures buried underground. Each level has a specific monetary goal you must reach within a time limit. Grab gold nuggets, sparkling diamonds, and mysterious goodie bags, but be careful to avoid worthless rocks that will waste your precious time!
+1.  **Timing ist alles**  
+    Die Klaue schwingt permanent von links nach rechts. Dein Erfolg hängt davon
+    ab, den **perfekten Moment** zum Klicken zu finden, damit die Klaue genau
+    auf einen wertvollen Gegenstand zeigt.
 
-### Gameplay Strategy & Walkthrough
+2.  **Schätze kennen**  
+    Unterschiedliche Objekte haben verschiedene Werte und Gewichte:
+    
+    *   **Große Goldklumpen & Diamanten:** Deine wichtigsten Ziele – sie bringen
+        am meisten Geld.
+    *   **Kleine Goldklumpen:** Schneller einholbar und leichter zu treffen,
+        aber weniger wert.
+    *   **Steine:** Möglichst meiden! Sie sind schwer, wenig wert und halten die
+        Klaue lange fest.
+    *   **Mystery Bags:** Enthalten zufälliges Geld oder nützliche Power-ups.
 
-1.  **[DE]** **Timing is Everything:** The claw swings back and forth continuously. Your success depends entirely on clicking at the perfect moment to send the claw in the direction of a valuable item.
-2.  **[DE]** **Know Your Treasure:** Different items have different values and weights.
-    *   **[DE]** **Large Gold Nuggets & Diamonds:** These are your primary targets. They are worth the most money.
-    *   **[DE]** **Small Gold Nuggets:** Easier to grab and faster to reel in, but less valuable.
-    *   **[DE]** **Rocks:** Avoid these! They are worth very little money and are very heavy, meaning they take a long time to reel in, wasting valuable time.
-    *   **[DE]** **Mystery Bags:** These contain a random amount of money or a power-up.
-3.  **[DE]** **Shop Between Levels:** Use the money you've earned to buy helpful items in the shop between levels. Dynamite is essential for blowing up worthless rocks you accidentally grab. Strength potions help you reel in heavy objects faster.
+3.  **Shop zwischen den Leveln nutzen**  
+    Mit dem verdienten Geld kannst du im Laden Items kaufen. **Dynamit** ist
+    ideal, um versehentlich gegriffene Steine in die Luft zu jagen. **Stärke-
+    Tränke** helfen dir, schwere Objekte deutlich schneller hochzuziehen.
 
-### Controls Guide
+### Steuerung
 
-The game uses a simple, one-touch control scheme.
+Das Spiel nutzt ein sehr simples Ein-Klick-Steuerungsschema.
 
-*   **[DE]** **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
-*   **[DE]** **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
+*   **Klaue auswerfen:** Klicke mit der Maus oder tippe auf den Bildschirm, um
+    die Klaue in ihrer aktuellen Richtung nach unten zu schicken.
+*   **Dynamit benutzen:** Wenn du Dynamit gekauft hast und ein Objekt an der
+    Klaue hängt, erscheint ein Dynamit-Button. Klicke darauf, um das Objekt zu
+    sprengen und dich wieder frei zu machen.
 
-### Frequently Asked Questions (FAQ)
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Q: What is the goal of each level?**
-    *   **[DE]** **A:** To earn enough money to meet the level's target amount before the timer runs out.
+*   **F: Was ist das Ziel eines Levels?**
+    *   **A:** Du musst innerhalb des Zeitlimits genügend Geld sammeln, um das
+        vorgegebene Geldziel zu erreichen. Schaffst du das, geht es ins
+        nächste Level.
 
-*   **[DE]** **Q: Why is my claw reeling in so slowly?**
-    *   **[DE]** **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
+*   **F: Warum zieht meine Klaue manchmal so langsam?**
+    *   **A:** Du hast wahrscheinlich einen großen, schweren Stein erwischt.
+        Diese bringen kaum Geld und kosten viel Zeit. Hast du Dynamit, ist das
+        ein guter Moment, es zu benutzen.
 
-*   **[DE]** **Q: What happens if I don't reach the money goal in time?**
-    *   **[DE]** **A:** If the timer runs out and you haven't met the goal, the game is over.
+*   **F: Was passiert, wenn ich das Geldziel nicht rechtzeitig erreiche?**
+    *   **A:** Läuft der Timer ab, bevor du das Ziel erfüllst, ist die Runde
+        verloren und das Spiel endet.

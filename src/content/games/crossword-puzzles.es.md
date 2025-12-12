@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: crossword-puzzles
-title: '[ES] Crossword Puzzles'
+title: "Crossword Puzzles"
 description: >-
-  [ES] Crossword Puzzles offers themed crosswords: solve across and down clues
-  to complete each grid.
+  Crossword Puzzles ofrece crucigramas temáticos: resuelve definiciones en
+  horizontal y vertical para completar cada cuadrícula.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/crossword-puzzles.jpg
@@ -16,26 +16,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Crossword Puzzles incluye crucigramas con temas específicos que siguen las
+reglas habituales de los crucigramas estadounidenses: rellena las respuestas en
+Horizontal y Vertical de modo que todas las letras queden cruzadas. El tema
+conecta varias respuestas largas dentro de cada puzle. Muchos portales ofrecen
+rotación diaria de crucigramas y un archivo histórico.
 
+### Cómo jugar
 
-### Overview
-Crossword Puzzles features themed crossword grids that follow common American‑style rules: fill Across and Down answers so every letter cross‑checks. Themes tie together several long answers in each puzzle. Many hosts provide daily rotations and archives. 
+- Selecciona una pista y escribe la respuesta en su casilla; usa las letras que
+  se cruzan para resolver dudas.
+- Las entradas temáticas suelen ser más largas y comparten un concepto común;
+  una vez descubras el patrón, podrás completar más rápido el resto.
 
-### How to Play
-- Select a clue and type to fill its entry; use crossings to resolve uncertain letters.
-- Theme entries are usually longer and share a unifying concept—solve these with crossings to unlock large sections.
+### Controles
 
-### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab toggles direction or moves to next clue (site‑dependent).
+- Teclea A–Z; usa las flechas para moverte; Backspace borra; Enter/Tab cambia de
+  dirección o salta a la siguiente pista (según la web).
 
-### Tips and Strategies
-- Scan for easy fill‑in‑the‑blank clues, plurals, and common abbreviations.
-- Leverage the theme: once you see the pattern, other themers fall faster.
-- Use Check/Reveal sparingly if the site tracks time.
+### Consejos y estrategias
 
-### FAQ
-- Q: Are the puzzles timed?
-A: Many sites include optional timers and completion stats; check the settings.   
-- Q: Can I play past themes?
-A: Hosts often keep an archive so you can play previous puzzles. 
+- Empieza por pistas fáciles, plurales y abreviaturas frecuentes.
+- Aprovecha el tema: cuando descubras la lógica de una respuesta temática, las
+  demás suelen caer en cadena.
+- Si el sitio lleva cuenta del tiempo, usa las funciones de Comprobar/Revelar
+  con moderación.
+
+### Preguntas frecuentes (FAQ)
+
+- P: ¿Los crucigramas son cronometrados?
+  
+  R: Muchos sitios incluyen un temporizador opcional y estadísticas de
+  finalización; revísalo en la configuración.
+
+- P: ¿Puedo rejugar crucigramas anteriores?
+  
+  R: Lo normal es que el portal mantenga un archivo para que puedas resolver
+  temas de días pasados.

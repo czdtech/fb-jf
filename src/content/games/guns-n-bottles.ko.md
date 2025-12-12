@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: guns-n-bottles
-title: '[KO] Guns n'' Bottles'
+title: Guns n' Bottles 회전 사격 게임
 description: >-
-  [KO] Test your timing and precision in this addictive shooting gallery game.
-  Tap at the perfect moment to shoot the bottles as your gun rotates, but avoid
-  the red ones!
+  중앙에서 계속 회전하는 권총으로 병을 쏘아 맞히는 원터치 아케이드 슈팅 게임입니다. 조준이 병을 스치기 직전에 발사해 초록 병은 깨뜨리고,
+  빨간 병은 절대 맞추지 마세요.
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/guns-n-bottles.png
 tags:
@@ -20,31 +19,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Guns n' Bottles is a simple yet highly addictive one-touch arcade game that tests your timing and precision. A gun continuously rotates in the center of the screen, and your goal is to tap at the perfect moment to fire a bullet and shatter the bottles that appear. The challenge lies in timing your shot perfectly with the gun's rotation. Hit the green bottles to score points, but be careful to avoid the red ones!
+`Guns n' Bottles`는 타이밍과 정확도를 시험하는 중독성 강한 원터치 슈팅
+아케이드 게임입니다. 화면 중앙의 권총은 계속 회전하고, 플레이어는 적절한
+순간에 화면을 탭해 탄환을 발사해 주변에 등장하는 병들을 깨뜨려야 합니다.
+핵심은 회전하는 총의 각도와 탄환 도달 시간을 계산해, 정확한 타이밍에
+발사하는 것. 초록색 병을 맞히면 점수를 얻지만, 빨간 병을 맞히는 순간
+게임이 바로 종료됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** **Anticipate the Rotation:** Don't tap when your gun is aimed directly at the bottle. You need to lead your shot slightly. Fire just *before* the gun aligns with the target to account for the bullet's travel time and the gun's continuous rotation.
-2.  **[KO]** **Go for Streaks:** The key to a high score is to hit multiple bottles in a row without missing. This will often build up a combo multiplier or award bonus coins.
-3.  **[KO]** **Avoid the Red Bottles:** Hitting a red bottle will end your game instantly. They are there to trick you and break your rhythm. Always prioritize avoiding them.
-4.  **[KO]** **Unlock New Guns:** Use the coins you earn from successful hits to unlock new and cooler-looking guns in the shop. While often cosmetic, they add a fun sense of progression.
+1. **회전 예측하기**  
+   총구가 병을 정확히 가리킬 때가 아니라, 약간 전에 발사해야 합니다.
+   총이 계속 회전하는 동안 탄환이 날아가는 시간까지 고려해, 병을 스치기
+   직전 각도에서 쏘는 연습을 해 보세요.
 
-### Controls Guide
+2. **콤보를 노리기**  
+   높은 점수를 얻으려면 한 번도 놓치지 않고 여러 병을 연속으로 맞히는 것이
+   중요합니다. 콤보가 이어질수록 점수 배수나 보너스 코인이 붙는 경우가 많습니다.
 
-The game is played with a single action.
+3. **빨간 병은 최우선 회피**  
+   빨간 병을 맞히면 즉시 게임이 끝나므로, 리듬을 유지하고 싶더라도 빨간 병
+   근처에서는 과감히 쏘지 않는 선택이 필요합니다.
 
-*   **[KO]** **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
+4. **새 총기 해금**  
+   플레이 도중 얻은 코인으로 상점에서 다양한 총기를 해금할 수 있습니다.
+   대부분 외형 위주지만, 수집 요소로 진행 동기를 높여 줍니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-*   **[KO]** **Q: What is the objective of the game?**
-    *   **[KO]** **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.
+- **발사**: 마우스 왼쪽 버튼 클릭 또는 화면 아무 곳이나 탭하면 현재 각도로
+  총알이 발사됩니다.
 
-*   **[KO]** **Q: What happens if I miss a bottle or hit a red one?**
-    *   **[KO]** **A:** In either case, the game will end, and your score will be recorded. You must then start over.
 
-*   **[KO]** **Q: How do I aim?**
-    *   **[KO]** **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
+- **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 게임의 주 목표는 무엇인가요?**  
+  **A:** 가능한 한 많은 초록 병을 연속으로 맞혀 최고 점수를 경신하는 것입니다.
+
+    - **Q: 병을 놓치거나 빨간 병을 맞히면 어떻게 되나요?**  
+  **A:** 둘 중 어느 경우든 라운드는 즉시 종료되고 점수가 기록됩니다.
+  이후에는 처음부터 다시 시작해야 합니다.
+
+- **Q: 조준은 어떻게 하나요?**  
+
+    - **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
+
+- **Q: How do I aim?**
+
+    - **A:** In either case, the game will end, and your score will be recorded. You must then start over.
+  **A:** 조준 방향은 직접 움직일 수 없고, 총이 자동으로 회전합니다.
+  플레이어는 회전 각도를 읽고 “언제 쏠지”를 선택하는 타이밍 실력으로 승부합니다.

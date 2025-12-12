@@ -1,70 +1,39 @@
 ---
+title: "Liquid puzzle sort colors"
+description: "Liquid puzzle sort colorsはリラックスした注ぎ分けソートです。色で液体を注ぎ、バッファーを計画し、デッドロックなしでボトルを完成させます。"
+iframeSrc: "https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/"
+thumbnail: "/new-images/liquid-puzzle-sort-colors.jpg"
+urlstr: "liquid-puzzle-sort-colors"
+score: "4.1/5  (1979 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: liquid-puzzle-sort-colors
-title: '[JA TRANSLATION NEEDED] Liquid puzzle sort colors'
-description: >-
-  [JA TRANSLATION NEEDED] Liquid puzzle sort colors is a relaxing pour‑sort —
-  decant liquids by color, plan buffers, and finish bottles without deadlocks.
-iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
-thumbnail: /new-images/liquid-puzzle-sort-colors.jpg
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.1/5  (1979 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Liquid puzzle sort colorsは、バイラルなボトルソーティングフォーミュラを適応します：各ボトルが均一になるようにボトル間で液体を注ぎます。同じ色または空のボトルにのみ注ぐことができます。成功は、バッファーを計画し、残りの動きがないソフトロックを避けるために注ぎを順序付けることを要求します。
 
-[JA TRANSLATION NEEDED] Liquid puzzle sort colors adapts the viral bottle‑sorting formula: pour liquids between bottles so each ends up uniform. You can pour only onto the same color or an empty bottle. Success demands planning buffers and ordering pours to avoid softlocks where no move remains.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  可能であれば2つのバッファーを空に保ちます。それらはあなたの脱出弁です。
+2.  完成したボトルから外側に構築します。完成した色を早期にロックします。
+3.  トップダウン注ぎ：深いレイヤーに対処する前に、スタックを統合するためにトップカラーを移動します。
+4.  シングルトンを埋めるのを避けます。トラップを防ぐために早期に奇数色を表面化します。
+5.  デッドロックチェック：すべての移動が進行を逆転する場合、元に戻して注ぎ順序を変更します。
 
-[JA TRANSLATION NEEDED] 1.  Keep two buffers empty if possible; they’re your escape valves.
-[JA TRANSLATION NEEDED] 2.  Build from completed bottles outward; lock finished colors early.
-[JA TRANSLATION NEEDED] 3.  Top‑down pours: Move top colors to consolidate stacks before addressing deep layers.
-[JA TRANSLATION NEEDED] 4.  Avoid burying singletons; surface odd colors early to prevent traps.
-[JA TRANSLATION NEEDED] 5.  Deadlock check: If all moves reverse progress, undo and change the pour order.
+### 操作ガイド
 
-### Controls Guide
+- ソースボトルをタップし、次に宛先をタップします。利用可能な場合は元に戻す/リセット。ヒントは注ぎを提案する可能性があります。
 
-- Tap a source bottle, then a destination; undo/reset if available; hints may suggest a pour.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 勝てない状態に到達します。防ぐにはどうすればよいですか？**  
+  A: バッファーを保持し、シングルを埋めるのを避け、均一になったらすぐにボトルをコミットします。
 
-- Q: I reach unwinnable states — how to prevent?
-  
-[JA TRANSLATION NEEDED]   A: Preserve buffers, avoid burying singles, and commit a bottle as soon as it’s uniform.
+- **Q: 普遍的なオープナーはありますか？**  
+  A: 最も頻繁な色を最初に統合します。最速でバッファーを解放します。
 
-- Q: Any universal opener?
-  
-[JA TRANSLATION NEEDED]   A: Consolidate the most frequent color first; it frees buffers fastest.
-
-- Q: Are hints reliable?
-  
-
-
-
-
-
-- Q: I reach unwinnable states — how to prevent?
-### よくある質問（FAQ）
-- Tap a source bottle, then a destination; undo/reset if available; hints may suggest a pour.
-### コントロールガイド
-- Deadlock check: If all moves reverse progress, undo and change the pour order.
-[JA TRANSLATION NEEDED]   A: Decent for early steps; deep puzzles still need planning.
-
-
-
-
-
-
-A: Decent for early steps; deep puzzles still need planning.
-- Q: Are hints reliable?
-A: Consolidate the most frequent color first; it frees buffers fastest.
-- Q: Any universal opener?
-
-
-A: Decent for early steps; deep puzzles still need planning.
+- **Q: ヒントは信頼できますか？**  
+  A: 早期のステップにはまあまあですが、深いパズルにはまだ計画が必要です。

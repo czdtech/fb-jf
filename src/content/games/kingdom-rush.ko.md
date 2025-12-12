@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: kingdom-rush
-title: '[KO] Kingdom Rush'
+title: "Kingdom Rush 킹덤 러시"
 description: >-
-  [KO] Flagship tower defense: place and upgrade four tower types, call
-  reinforcements, and micro a hero to hold choke points.
+  타워 디펜스 대표작 'Kingdom Rush' 가이드입니다. 네 가지 기본 타워와
+  히어로·지원 스킬을 활용해 길목을 지키는 핵심 전략을 정리했습니다.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/kingdom-rush.jpg
 tags:
@@ -16,29 +16,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
 
+*Kingdom Rush*는 시리즈의 기본을 만든 대표 타워 디펜스 게임입니다.
+길을 따라 **궁수, 병영, 마법, 포병 타워**를 배치하고 업그레이드해
+적을 막아야 하며, 히어로를 직접 조작해 위급한 라인에 투입할 수도
+있습니다.
 
-### Overview
-Kingdom Rush established the series’ mix of lane control and hero micro. Build archer, barracks, mage, and artillery towers along path bends. Upgrade into specialized branches, call reinforcements to stall, and use hero actives and nukes to stabilize spikes. Enemy waves combine armor, magic resist, flyers, and spawn mechanics, demanding flexible builds.
+적은 방어력·마법 저항, 비행, 소환 등 다양한 특성을 지니고 있어,
+한 가지 빌드만으로는 대응하기 어렵습니다. 상황에 따라 유연하게
+타워 구성을 바꾸는 것이 중요합니다.
 
-### How to Play
-- Anchor at choke points; support with splash and single‑target towers.
-- Match towers to resistances; rotate hero to threatened lanes.
-- Time global skills for boss phases and bursty waves.
+### 플레이 방법
 
-### Controls
-- Mouse/touch for all tower and hero actions; hotkeys vary.
+- **좁은 길목에 방어선 구축**: 길이 굽어지는 지점에 병영과
+  광역 타워를 함께 배치하면, 적을 한곳에 몰아 두고
+  효율적으로 피해를 줄 수 있습니다.  
+- **저항에 맞는 타워 사용**:  
+  - 방어력이 높은 적 → 마법 타워  
+  - 체력은 낮지만 많이 몰려오는 적 → 궁수/포병  
+- **히어로 운용**: 히어로를 위험한 라인으로 보내 막판
+  정리용으로 쓰거나, 보스의 체력을 깎는 데 활용하세요.  
+- **전역 스킬 타이밍**: 메테오, 지원병 호출 같은 스킬은
+  보스 웨이브나 위험한 러시에 맞춰 사용하면 가장 효과적입니다.
 
-### Tips
-- Fewer, stronger towers outperform many weak ones early.
-- Keep anti‑air coverage; flyers punish ground‑only setups.
-- Use barracks to clump enemies under splash.
+### 조작 가이드
 
-### FAQ
-- Q: What is a good early game build order?
-A: One barracks + one splash + one mage, then upgrade near the main choke.
-- Q: How do I handle mixed waves effectively?
-A: Combine mage (armor), archer/artillery (swarm), and position hero as finisher.
-- Q: Are heroes required for completing levels?
-A: Not mandatory, but they smooth spikes and save lives at choke points.
+- **타워·히어로 조작**: 마우스/터치로 타워를 설치·업그레이드하고,
+  히어로를 다른 위치로 이동시킬 수 있습니다.  
+- **스킬 사용**: 전역 스킬 아이콘을 눌러 원하는 위치에
+  사용합니다.
+
+### 팁
+
+- 초반에는 다수의 약한 타워보다, 핵심 위치에 세운
+  소수의 타워를 집중적으로 강화하는 것이 좋습니다.  
+- 비행 적을 상대할 수 있는 타워를 항상 일부 포함해 두세요.  
+- 병영 타워로 적을 묶어 두고, 그 위에 포병·마법 타워를
+  겹쳐 두면 딜 효율이 상당히 올라갑니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 초반 빌드 순서는 어떻게 가져가면 좋나요?**  
+  **A:** 병영 1개 + 광역 타워 1개 + 마법 타워 1개 정도를
+  주요 길목에 배치한 뒤, 이들을 우선적으로 업그레이드하는
+  구성이 무난합니다.
+
+- **Q: 여러 속성이 섞인 웨이브는 어떻게 상대하나요?**  
+  **A:** 마법(방어 관통), 궁수·포병(다수 처리), 히어로(마무리)를
+  조합해 균형 있게 배치하세요.
+
+- **Q: 히어로 없이도 클리어 가능한가요?**  
+  **A:** 가능하지만, 히어로가 있으면 난이도 스파이크를
+  완화하는 데 큰 도움이 됩니다.
 

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: g-switch-3
-title: '[DE] G-Switch 3'
+title: "G-Switch 3"
 description: >-
-  [DE] High‑speed gravity runner with new traps and robust local multiplayer
-  modes that test timing and consistency.
+  G-Switch 3 erhöht Tempo und Schwierigkeitsgrad: schnellere Gravity-Flips,
+  komplexere Fallenketten und erweiterter lokaler Multiplayer für große
+  Rennrunden.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/g-switch-3.jpg
@@ -15,30 +16,41 @@ score: 4.7/5  (801 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Im dritten Teil werden Sequenzen schneller und Fallenketten komplexer.
+G-Switch 3 fordert perfekt getimte Doppel-Flips und bietet lokale Rennen für
+viele Spieler.
 
+### So spielst du
 
+- Präge dir Kettenfallen ein: Vor Sägen lieber früh flippen, bei niedrigen
+  Decken eher spät.
+- Übe Rettungsmanöver, indem du zwei Flips in unter einer Sekunde ausführst,
+  um dich aus misslichen Lagen zu befreien.
+- Nutze den lokalen Rennmodus, wenn dein Host ihn anbietet.
 
-### Overview
-Faster sequences and complex trap chains that demand double‑flips and perfect timing; supports large local races.
+### Steuerung
 
-### How to Play
-- Memorize chain traps; flip early before saws and late for low ceilings.
-- Practice recovery by chaining two flips in under a second.
-- Race friends locally if available.
+- Eine Taste/Ein Tap pro Spieler zum Gravitätswechsel; im Mehrspieler-Modus
+  erhält jeder eine eigene Taste.
 
-### Controls
-- One key/tap to flip; per‑player keys in versus.
+### Tipps
 
-### Tips
-- Keep eyes mid‑screen to read ahead.
-- Use music rhythm to stabilize your flip cadence.
+- Halte deinen Blick auf die Bildschirmmitte, um kommende Hindernisse früh zu
+  erkennen.
+- Nutze den Beat der Musik, um einen stabilen Flip-Rhythmus beizubehalten.
 
 ### FAQ
-- Q: What is the main difference from previous entries?
-A: Higher speed, trickier obstacles, and expanded local multiplayer.
-- Q: Can many players join on one keyboard?
-A: Some hosts allow large local lobbies with unique keys.
-- Q: Are there difficulty options?
-A: Difficulty scales with speed and obstacle density rather than a menu.
 
+- **F: Was unterscheidet G-Switch 3 von den Vorgängern?**  
+  **A:** Höheres Grundtempo, schwierigere Fallenketten und größere
+  Multiplayer-Lobbys.
+
+- **F: Können viele Spieler an einer Tastatur spielen?**  
+  **A:** Einige Hosts erlauben große lokale Lobbys, bei denen jede Person eine
+  eigene Taste zugewiesen bekommt.
+
+- **F: Gibt es Schwierigkeitsstufen?**  
+  **A:** Der Schwierigkeitsgrad ergibt sich vor allem aus Tempo und
+  Hindernisdichte, nicht aus einer separaten Auswahl im Menü.

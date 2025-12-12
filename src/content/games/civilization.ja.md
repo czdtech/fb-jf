@@ -1,19 +1,38 @@
 ---
+title: "Civilization: Collect And Build 文明：収集と建設"
+description: "「Civilization: Collect And Build」でゼロから文明を築こう！資源を集め、建物を建て、時代を進化させる。リズム要素のあるカジュアル戦略ゲーム。"
+iframeSrc: "https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/"
+thumbnail: "/new-images/civilization.jpg"
+urlstr: "civilization"
+score: "4.9/5  (1122 votes)"
+tags: ["casual", "rhythm"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: civilization
-title: '[JA TRANSLATION NEEDED] Civilization: Collect And Build'
-description: >-
-  [JA TRANSLATION NEEDED] Build your civilization from the ground up! Collect
-  resources, construct buildings, and advance through the ages. A casual
-  strategy game with rhythmic gameplay elements.
-iframeSrc: >-
-  https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/
-thumbnail: /new-images/civilization.jpg
-tags:
-  - casual
-  - rhythm
-score: 4.9/5  (1122 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Civilization: Collect And Build*は、何もない荒野から壮大な文明を築き上げる、カジュアルな戦略シミュレーションゲームです。重厚な歴史シミュレーションではなく、手軽に楽しめる内容になっています。
+
+プレイヤーはリズミカルにキャラクターを操作し、木材や石材などの資源を集めます。集めた資源を使って家や生産施設を建設し、村を拡大していきましょう。技術を発展させ、石器時代から現代文明へと時代を進化させていく達成感が味わえます。シンプルながら中毒性のある資源管理と建築のループが楽しめます。
+
+### ゲーム攻略と戦略
+
+*   **資源収集の効率化:** 近場の資源から確実に集めましょう。移動時間を短縮することが効率化の第一歩です。
+*   **建築の優先順位:** 新しいツールやバックパック容量を増やす施設を優先的に建設・アップグレードすると、その後の作業効率が飛躍的に上がります。
+*   **リズムに乗る:** 作業には一定のリズムがあります。タイミングよく操作することで、スムーズに収集できる場合があります。
+*   **時代の進化:** 目標となる建物を完成させると次の時代へ進めます。必要な資源の種類も増えるので、計画的に集めましょう。
+
+### 操作ガイド
+
+*   **移動と収集:** マウス（またはタップ）でキャラクターを移動させ、資源に近づくと自動、もしくはクリックで収集します。
+*   **建設:** 必要な資源を持って建設予定地に立つと、建設が進みます。
+
+### よくある質問 (FAQ)
+
+*   **Q: オフライン収益はありますか？**
+    *   **A:** ゲームのバージョンによりますが、一部の施設は自動で資源を生み出すことがあります。
+
+*   **Q: 敵に攻められますか？**
+    *   **A:** 基本的には平和な建設ゲームであり、戦闘要素よりも収集と発展に重きが置かれています。

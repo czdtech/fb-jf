@@ -1,47 +1,50 @@
 ---
 locale: zh
 urlstr: sky-tower
-title: '[ZH TRANSLATION NEEDED] Sky Tower'
-description: >-
-  [ZH TRANSLATION NEEDED] Sky Tower is a stack‑builder — time drops to align
-  floors, minimize overhangs, and build the tallest, cleanest tower.
-iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
+title: 《Sky Tower》高空叠塔挑战
+description: 《Sky Tower》是一款操作简单但极考反应与节奏感的叠塔游戏。通过在恰当时机放下楼层方块，把摩天大楼一层层堆上天空。
+iframeSrc: 'https://skytower.h5games.usercontent.goog/v/3z9qf1d4n8kpg/'
 thumbnail: /new-images/sky-tower.png
 tags:
-  - puzzle
-  - thinky
+  - arcade
+  - one button
   - casual
-score: 3.9/5  (1731 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.0/5  (1850 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Sky Tower challenges you to drop moving floors onto a growing tower. Misalignments shear off overhangs, shrinking the platform. Clean timing produces tall, stable towers; sloppiness shrinks floors and ends runs early.
+《Sky Tower》是一款极具节奏感的竖向叠塔小游戏。屏幕上方的楼层方块会左右来回移动，你需要在最佳位置按下按钮，让方块刚好落在已有楼层之上。放偏的部分会被削掉，使下一块变得更小，叠得越高容错就越低。最终目标是在有限的宽度下，把摩天大楼尽可能堆得又高又稳，挑战自己的极限手速与精准度。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Center cue: Align to a background landmark to release consistently.
-2.  [ZH TRANSLATION NEEDED] Late‑release bias: Drop just after alignment passes the center to compensate for human reaction.
-3.  [ZH TRANSLATION NEEDED] Recovery floors: After a bad chop, slow down and re‑center before chasing height.
-4.  [ZH TRANSLATION NEEDED] Rhythm: Maintain a steady cadence rather than reacting frantically.
-5.  [ZH TRANSLATION NEEDED] Patience: Ignore coins during wobble; stabilize first.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **追求“完美叠放”：** 尽量让每一层都与下方完全对齐，这样楼层不会被削薄，可以为后续高层保留更宽的安全边界。
+2.  **抓住节奏：** 注意观察方块移动速度的变化，找到自己的“出手节奏”，不要被偶尔一次失误打乱心态。
+3.  **失误后及时调整：** 一旦某层明显偏移，下一层就要相应微调落点，尽量把偏差拉回到中间位置，避免越叠越歪。
+4.  **接受上层高风险：** 塔越高，可用面积越小，这时宁可冷静多等一轮移动，也不要急于按下导致整塔坍塌。
 
-- Tap/Click to drop floors; pause/replay via UI.
 
-### Frequently Asked Questions (FAQ)
+- Patience: Ignore coins during wobble; stabilize first.
+### 操作说明
+
+*   **放置楼层：** 当方块在目标位置上方时，点击屏幕或按下指定按键即可让楼层下落并叠加到塔上。
+
+### 常见问题解答（FAQ）
+
 
 - Q: My tower shrinks fast.
-  
-[ZH TRANSLATION NEEDED]   A: You’re releasing early/late inconsistently; use a fixed visual cue.
+**问：方块为什么会越来越小？****
 
 - Q: Any way to recover?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — refocus on perfect centers for a few floors to rebuild width.
+答：** 每次放置偏移，下方悬空的部分都会被削掉，剩下的可用面积就会缩小，所以前期的精准叠放非常重要。
+
 
 - Q: Is speed important?
-  
-[ZH TRANSLATION NEEDED]   A: Consistency beats speed; height follows from clean centers.
+**问：塔倒了怎么办？****
+答：** 塔体严重倾斜或楼层几乎叠不到一起时，就有可能直接坍塌，此时本局结束，只能从头再来，尝试刷新自己的最高层数记录。
+
+**问：游戏有没有终点？****
+答：** 通常没有固定终点，更像是一个“无限挑战高度”的街机得分游戏，以叠到多高、得分多高作为主要目标。
 

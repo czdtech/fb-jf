@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: bad-ice-cream-3
-title: '[ZH TRANSLATION NEEDED] Bad Ice Cream 3'
+title: Bad Ice-Cream 3 坏坏冰淇淋 3
 description: >-
-  [ZH TRANSLATION NEEDED] Master the icy puzzles of Bad Ice-Cream 3. Find expert
-  strategies, controls, and tips to collect all fruit and outsmart new enemies
-  in this chilly arcade adventure.
+  《Bad Ice-Cream 3（坏坏冰淇淋
+  3）》是系列第三作，在保留核心玩法的基础上加入了更多关卡、更复杂的冰雪迷宫以及全新敌人类型，需要你用更成熟的冰墙策略来收集所有水果。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/bad-ice-cream-3.jpg
@@ -21,61 +20,72 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] *Bad Ice-Cream 3* is the third installment in the popular 2D pixel-art arcade puzzle series. It builds upon the successful formula of its predecessors, placing players in control of a sentient ice cream cone on a mission to collect all the fruit in each maze-like level.
+*Bad Ice-Cream 3（坏坏冰淇淋 3）* 是这一系列像素风街机解谜游戏的第三部作品，在前两作基础上继续强化“在冰雪迷宫里吃光水果”的核心玩法，同时加入了更多新关卡、更刁钻的地图结构，以及拥有特殊能力的新敌人。
 
-[ZH TRANSLATION NEEDED] The core gameplay remains centered around the unique ability to create and destroy rows of ice blocks with a single command. This mechanic is essential for navigating the levels, defending against enemies, and solving environmental puzzles. *Bad Ice-Cream 3* introduces a host of new levels, more challenging layouts, and, most importantly, new types of enemies with unique behaviors. Some enemies are faster, some are larger, and some can even destroy the ice walls the player creates, forcing new strategies. The game retains its beloved single-player and two-player cooperative modes, making it an excellent game to play solo or with a friend on the same keyboard.
+本作沿用了标志性的冰块机制：
 
-### Gameplay Strategy & Walkthrough
+- 一键生成整排冰墙，用来封路、挡怪、造桥；
+- 一键打碎已有冰块，开出新通道或为自己制造逃生路线。
 
-[ZH TRANSLATION NEEDED] Mastering *Bad Ice-Cream 3* requires adapting to the new threats while perfecting the core mechanics.
+与前作相比，*Bad Ice-Cream 3* 中的敌人类型更加多样：
 
-#### 1. Ice is Your Everything
-[ZH TRANSLATION NEEDED] The ice block mechanic is more crucial than ever.
-*   **Defensive Walls:** Continue to use ice walls to block predictable enemy paths. This remains your primary survival tool.
-*   **Offensive Trapping:** Lure enemies into dead ends and seal them in. This is especially useful for clearing a quadrant of the map so you can collect fruit in peace.
-*   **Countering New Enemies:** Be aware of enemies that can destroy your ice. Against these foes, walls are only a temporary solution. Use them to buy a few seconds to escape, not as a permanent barrier.
+- 有的移动速度更快；
+- 有的体型更大，占据更多格子；
+- 有的甚至会直接打碎玩家造出的冰墙。
 
-#### 2. Prioritize Difficult Fruit
-[ZH TRANSLATION NEEDED] Survey the map at the start of each level. Identify which fruits are heavily guarded or in hard-to-reach places. It's often best to devise a plan to get these difficult fruits first, while the enemy layout is still predictable.
+因此，你不仅要会“搭墙、拆墙”，还要学会根据敌人特性灵活调整战术。游戏同样支持单人和双人同屏合作，是一个既适合一个人钻研也适合和朋友一起“互坑互救”的作品。
 
-#### 3. Learn the New Enemy Behaviors
-[ZH TRANSLATION NEEDED] This is the key to beating the third game.
-*   **Destroyers:** Some horned or large enemies will smash through your ice blocks. Do not try to trap them for long.
-*   **Spawners:** Some enemies might emerge from certain points in the level. Be aware of their spawn locations.
-*   **Aggressive Chasers:** Unlike the simple patrollers of earlier games, some new enemies will actively change their path to pursue you. You must be more agile and use ice walls reactively to misdirect them.
+### 游戏策略与通关思路
 
-#### 4. Efficient Movement
-[ZH TRANSLATION NEEDED] Don't wander aimlessly. Collect fruit in logical groups. Clear one area of the map, then move to the next. Breaking and creating ice takes time, so minimize unnecessary actions. A well-planned path is much faster than a frantic one.
+想要玩好 *Bad Ice-Cream 3*，关键是在熟悉前作机制的基础上，针对新敌人做出调整。
 
-#### 5. 2-Player Cooperative Tactics
-*   **Assign Roles:** One player can be the "decoy" or "trapper," whose main job is to manage and contain enemies. The other player can be the "collector," focusing on grabbing the fruit.
-*   **Cover Each Other:** Use your ice abilities to protect your partner if they get cornered. A well-timed wall can save a life.
-*   **Stay Apart:** To avoid getting trapped together and to cover more ground, it's generally best to work on opposite sides of the map.
+#### 1. 冰块仍然是最核心的工具
+冰块机制在本作中比以往任何一作都更重要，是你生存和解谜的核心工具：
+*   **防守墙：** 和前作一样，遇到敌人靠近时，优先考虑用冰墙把它们隔在走廊另一头，给自己留出操作空间。
+*   **封印陷阱：** 把敌人诱导进死胡同或狭窄走廊后，用冰块把两头封死，就能暂时把这一片区域“清空”，安心收集附近的水果。
+*   **应对会拆墙的敌人：** 对能打碎冰块的大型/带角敌人，不要妄想长期封印。冰墙只能用来拖延一两秒，帮助你绕道或抢下关键水果。
 
-### Controls Guide
+#### 2. 优先拿“最难的那几颗水果”
+开局先观察整个地图：哪些水果被怪物严密包围？哪些位置路径曲折？优先为这些难点设计路线，在局面尚且可控时先解决它们，避免后期怪物速度和数量提升之后变得几乎不可能接近。
 
-[ZH TRANSLATION NEEDED] The controls remain consistent with the previous games, designed for easy sharing on one keyboard.
+#### 3. 熟悉新敌人的行为模式
+这是第三作的通关关键。
+*   **破坏者（Destroyers）：** 某些长角或巨大敌人会直接撞碎冰墙。对付它们时，把冰块当成“临时门板”，拖延一会儿立刻跑路。
+*   **刷怪点（Spawners）：** 部分敌人会从关卡中的特定位置不断出现。记住这些点，避免长时间停留在附近。
+*   **主动追击型：** 相比前两作只按路线巡逻的怪物，本作中有些敌人会根据你的位置来改变移动方向，需要你随时准备用临时冰墙改变它们的行进路线。
 
-*   **Player 1:**
-    *   **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
-    *   **Action (Create/Destroy Ice):** `Spacebar`
+#### 4. 路线要“干净利落”
+不要无目的地在地图上乱跑。尽量按区域划分路线：
 
-*   **Player 2:**
-    *   **Move:** `W`, `A`, `S`, `D` Keys
-    *   **Action (Create/Destroy Ice):** `F` Key
+- 一次清理一块区域的水果；
+- 造墙和拆墙尽量只做必要操作，避免把地图变得过于复杂；
+- 先打通几条安全走廊，再围绕这些主干道扩展活动范围。
 
-### Frequently Asked Questions (FAQ)
+#### 5. 双人合作的进阶战术
+*   **角色分工：** 一人更侧重“引怪 + 封怪”，充当诱饵/控制位；另一人负责主力收集水果。
+*   **相互掩护：** 当队友被怪物逼到角落时，通过快速造墙封住怪物的路线，可以在关键时刻救他一命。
+*   **尽量拉开活动范围：** 两人分开行动可以覆盖更多区域，也能减少彼此被对方误封在墙里的风险。
 
-*   **Q: What is the main difference between Bad Ice-Cream 2 and 3?**
-    *   **A:** The biggest difference is the introduction of new enemy types with more complex behaviors. Some enemies can now destroy your ice walls, requiring you to adapt your strategies. The game also features 40 brand-new, more challenging levels.
+### 操作指南
 
-*   **Q: Can I finally kill the enemies in this game?**
-    *   **A:** No, the core design remains the same. You cannot directly attack or kill enemies. You must rely on evasion and trapping them with your ice blocks.
+本作的操作与前几作保持一致，方便在一台键盘上双人游玩：
 
-*   **Q: How do I beat the big monsters that break my ice walls?**
-    *   **A:** You can't trap them permanently. The best strategy is to use ice walls as a momentary distraction. Place a wall to block them, then immediately use that brief window of time to escape or grab a nearby piece of fruit.
+*   **玩家 1：**  
+    *   **移动：** 方向键 `↑` `↓` `←` `→`
+    *   **动作（生成/打碎冰块）：** `Space` 空格键
 
-*   **Q: Is there a way to get more lives?**
-    *   **A:** In the classic Flash game versions, there are no in-game items or ways to earn extra lives. You start with a set number of lives, and if you lose them all, you must start the level over.
+*   **玩家 2：**  
+    *   **移动：** `W` `A` `S` `D`
+    *   **动作（生成/打碎冰块）：** `F` 键
+
+### 常见问题解答（FAQ）
+*   **问：Bad Ice-Cream 2 和 3 有什么本质区别？****
+    *   答：** 第三作在保留基础规则的同时，引入了更多会拆墙、会刷怪、会追击玩家的新敌人，并增加了约 40 个更复杂的新关卡，对路线规划和临场应变的要求更高。
+*   **问：这代终于能打死敌人了吗？****
+    *   答：** 依然不行。系列的核心设计没有改变，你依旧只能通过躲避和封印来对付怪物，不能直接攻击它们。
+*   **问：该怎么对付会拆墙的大怪？****
+    *   答：** 不要想着长期困住它们。用冰墙挡住它们一瞬间，抢时间绕路或吃掉附近的水果，比硬封要实际得多。
+*   **问：可以增加生命数吗？****
+    *   答：** 经典版本中通常没有可以增加生命的道具，你只能依靠熟练度和尽量少的失误来坚持到通关。

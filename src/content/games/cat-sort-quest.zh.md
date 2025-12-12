@@ -1,48 +1,54 @@
 ---
 locale: zh
 urlstr: cat-sort-quest
-title: '[ZH TRANSLATION NEEDED] Cat Sort Quest'
-description: >-
-  [ZH TRANSLATION NEEDED] Cat Sort Quest is a cozy color‑sorting puzzler — move
-  cats between perches, unify colors, and manage scarce buffers.
-iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
+title: Cat Sort Quest 小猫排序挑战
+description: 《Cat Sort Quest 小猫排序挑战》是一款类似试管排序的脑洞小游戏，把不同颜色的小猫按顺序移到对应的栖木或容器 中，直到每根栖木只剩一种颜色。
+iframeSrc: 'https://catsortquest.h5games.usercontent.goog/v/2scgb2rlulhdg/'
 thumbnail: /new-images/cat-sort-quest.png
 tags:
   - puzzle
   - thinky
-  - casual
-score: 4.2/5  (2088 votes)
+score: 4.2/5  (1870 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Cat Sort Quest adapts the popular sort‑puzzle format: each perch holds a stack of cats in different colors. You may move only the top cat from a perch, and you can place it on an empty perch or one whose top cat matches the same color. The goal is to end with each perch holding a single color. Limited free perches make buffering and foresight essential.
+*Cat Sort Quest* 是一款以颜色分类为核心的休闲解谜游戏，玩法与常见的“水排序 / 试管排序”类似，只不过这里装在试管里的不是液体，而是一只只颜色各异的小猫。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Keep one buffer empty as long as possible to enable reshuffles.
-2.  [ZH TRANSLATION NEEDED] Finish colors early when it frees another perch (snowball effect).
-3.  [ZH TRANSLATION NEEDED] Surface singles: Don’t bury unique colors under mixed stacks.
-4.  [ZH TRANSLATION NEEDED] Two‑step preview: Simulate next moves to avoid creating softlocks.
-5.  [ZH TRANSLATION NEEDED] Merge partial stacks of the same color promptly to release space.
+每根栖木或容器可以容纳有限数量的小猫，你一次只能把最上面那只小猫移动到另一根栖木的顶部，前提是目标栖木要么为空，要么顶部小猫的颜色与要移动的小猫相同。最终目标是：**让每根栖木上只剩单一颜色的小猫**。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Tap a perch to pick up its top cat; tap a destination perch to place it if legal.
-- Undo/Reset if available; hints help on late puzzles.
+1.  **优先寻找“快成型”的颜色组**  
+    先观察哪些颜色的小猫数量较少或分布集中，优先考虑先把这些颜色整理到同一根栖木上，可以快速“锁定”一根完成的栖木，减轻后续难度。
 
-### Frequently Asked Questions (FAQ)
+2.  **保留至少一根“缓冲栖木”**  
+    在可能范围内，尽量保证场上始终有一根基本空着或只暂时存放杂色的小猫，让你在整理其他栖木时有腾挪空间。完全填满所有栖木会大幅提高卡死概率。
 
-- Q: I’m out of moves — what now?
-  
-[ZH TRANSLATION NEEDED]   A: Undo a few steps to reopen a buffer. Focus on surfacing buried singles and merging partial stacks.
+3.  **避免把单只颜色埋在深处**  
+    对于某种颜色只剩 1–2 只的小猫，要尽快把它们移到相对靠上的位置，避免被厚厚的杂色堆压在底层，让后续整理变得异常困难。
 
-- Q: Is there an optimal order to complete colors?
-  
-[ZH TRANSLATION NEEDED]   A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
+4.  **规划两三步之后的效果再移动**  
+    在移动前先在脑中模拟后续两三步的变化：这只小猫移动过去后，会不会导致某根栖木完全被堵死？会不会让已经快整理好的栖木变得更乱？多做一点预判，可以显著减少“搬了又搬”的无效操作。
 
-- Q: Do I need every move perfect?
-  
-[ZH TRANSLATION NEEDED]   A: No — quick backtracks and flexible buffers are more important than perfection.
+5.  **卡住时尝试“解散”过早完成的栈**  
+    如果你发现自己过早把某一颜色的栖木填满，反而导致整体腾挪空间不足，不妨考虑暂时拆开该栈的一两只小猫，换取更灵活的局面，再在最后重新整理。
 
+### 操作指南
+
+-   **移动小猫：** 点击一根栖木顶部的小猫，再点击目标栖木，即可将其移动过去（前提是目标满足规则）。  
+-   **撤销 / 重开：** 部分版本支持撤销上一步操作或重新开始当前关卡，可以在明显走错路时善用这些功能。  
+
+### 常见问题解答（FAQ）
+*   **问：总是移动几步就无路可走怎么办？****
+
+A: Undo a few steps to reopen a buffer. Focus on surfacing buried singles and merging partial stacks.
+- 答：** 通常说明你太早填满了太多栖木，或者把多色混在一起导致缺乏缓冲空间。下次尝试把一两根栖木保留为“垃圾桶”，专门堆杂色，其他栖木尽量保持颜色单一。
+
+A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
+*   **问：游戏有时间限制吗？****
+
+A: No — quick backtracks and flexible buffers are more important than perfection.
+    *   答：** 多数关卡只对步数和解法效率有影响，并不强制限定时间，因此可以慢慢思考、规划最佳移动顺序。

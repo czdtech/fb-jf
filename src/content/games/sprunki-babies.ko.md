@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-babies
-title: '[KO] Sprunki Babies - Play Sprunki Babies Online'
+title: 'Sprunki Babies 스프룽키 베이비즈'
 description: >-
-  [KO] This charming music sandbox puts you in charge of a crew of adorable baby
-  Sprunki characters, each ready to lend their unique musical voice to your
-  compositions.
+  Sprunki Babies는 아기 Sprunki 캐릭터들을 활용해 귀엽고 창의적인 음악을
+  만들어 보는 음악 샌드박스 게임입니다. 누구나 직관적인 조작으로 나만의
+  합창단을 꾸미고 힐링되는 사운드를 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1110888906/embed'
 thumbnail: /sprunki-babies.png
 tags:
@@ -15,32 +15,54 @@ score: 4.0/5  (212 votes)
 
 
 
-Ready for some seriously cute music-making that also sparks endless creativity? Say hello to Sprunki Babies! This charming music sandbox puts you in charge of a crew of adorable baby Sprunki characters, each ready to lend their unique musical voice to your compositions. Best part? No music theory degree required – just pure creativity and a love for fun!
+엄청난 귀여움과 끝없는 창의력을 동시에 느끼고 싶나요? 그렇다면 Sprunki Babies를
+한번 플레이해 보세요! 이 사랑스러운 음악 샌드박스 게임에서는 아기 Sprunki
+캐릭터들을 무대에 올려, 각기 다른 목소리와 소리를 섞어 나만의 곡을 만들 수
+있습니다. 음악 이론은 몰라도 괜찮고, 그냥 즐길 마음만 있으면 충분합니다.
 
-### So, What's the Deal with Sprunki Babies?
+### Sprunki Babies는 어떤 게임인가요?
 
-Think of Sprunki Babies as your personal music playground starring the baby versions of the Sprunki characters we know and love. It keeps the core fun of the Sprunki series but wraps it in an irresistibly cute package. And guess what? It's totally free, with zero in-app purchases. You get all the awesome features right from the start – how cool is that?
+Sprunki Babies는 우리가 잘 아는 Sprunki 캐릭터들의 "아기 버전"이 주인공인
+음악 놀이터입니다. 기존 Sprunki 시리즈의 재미는 그대로 유지하면서, 전체를
+더 귀엽고 부드러운 분위기로 재구성했죠. 게다가 인앱 결제 없이 무료로 즐길 수
+있으며, 처음부터 대부분의 요소를 바로 사용할 수 있습니다.
 
-### How Do You Get Groovin' with Sprunki Babies?
+### Sprunki Babies 플레이 방법
 
-It’s ridiculously easy!
+방법은 놀라울 정도로 간단합니다.
 
-- **Pick Your Babies:** Choose your favorites from a lineup of super-cute Sprunki baby characters.
-- **Drag 'Em Onstage:** Simply drag your chosen baby onto one of the designated spots on the screen.
-- **Let the Music Play:** The babies will automatically start singing or making their unique sounds.
-- **Layer Up the Sounds:** Keep adding more babies, experimenting with different combinations to build rich musical layers.
-- **Watch 'Em Dance:** See the little ones bob and weave to the beats you create – it's seriously therapeutic!
+- **아기들 선택하기:** 여러 귀여운 Sprunki 아기 캐릭터 중 마음에 드는 아이들을
+  골라 보세요.
+- **무대에 올리기:** 선택한 아기를 화면의 지정된 자리로 드래그해 놓습니다.
+- **연주 시작:** 무대에 올라간 아기들은 자동으로 노래하거나 고유한 소리를
+  내기 시작합니다.
+- **사운드 레이어 쌓기:** 여러 아기를 함께 올려 서로 다른 소리를 겹치면,
+  풍성한 합창과 리듬을 만들 수 있습니다.
+- **댄스 감상:** 당신이 만든 비트에 맞춰 아기들이 리듬을 타는 모습을 보는 것만으로도
+  힐링이 됩니다.
 
+### Sprunki Babies가 특별한 이유
 
-### What Makes Sprunki Babies So Awesome?
+- **최고 수준의 귀여움:** 각 아기 Sprunki는 개성 넘치는 표정과 애니메이션,
+  그리고 고유한 사운드를 지니고 있습니다. 저음 비트를 담당하는 Boom Box Billy,
+  고음을 책임지는 Melody Mae, 리듬을 지탱하는 Rhythm Ralph 같은 캐릭터들이
+  대표적입니다.
+- **매우 간단한 조작:** 드래그 앤 드롭 방식이라 어린 아이도 금방 적응할 수 있고,
+  바쁜 어른들에게도 짧게 즐기기 좋은 구성이 되어 있습니다.
+- **입문자 친화적:** 복잡한 음악 이론을 몰라도, 느낌대로 캐릭터를 올리고
+  빼기만 해도 그럴듯한 곡이 완성됩니다. 음악 만들기의 순수한 즐거움을
+  다시 느끼게 해 줍니다.
+- **뛰어난 힐링 효과:** 내가 만든 음악에 맞춰 아기들이 춤추는 모습을 보고 있으면
+  자연스럽게 스트레스가 풀립니다.
+- **의외로 깊은 창의성:** 100개가 넘는 다양한 아기 사운드와 최대 8개의
+  동시 레이어를 지원해, 생각보다 복잡한 곡도 제작할 수 있습니다. 즐겨 찾는
+  믹스를 여러 개 저장할 수 있는 기능도 제공됩니다.
 
-- **Maximum Cuteness:** Seriously, every single Sprunki Baby is designed to melt your heart! They don't just sound unique; they have adorable animations too. Meet characters like Boom Box Billy dropping sweet bass beats, Melody Mae hitting those perfect high notes, and Rhythm Ralph keeping everything perfectly timed!
-- **Crazy Simple:** The drag-and-drop controls are so intuitive, anyone can jump right in, from toddlers learning about rhythm to adults needing a chill break.
-- **Perfect for Beginners:** Forget complex music theory. Sprunki Babies lets you create great-sounding music just by playing around and trusting your instincts. It brings the pure joy back to music making.
-- **Stress Buster Supreme:** Watching these cute babies sing and dance while listening to music *you* created? It’s the perfect way to relax and de-stress.
-- **Surprisingly Deep Creativity:** Don't let the simplicity fool you. Sprunki Babies offers over 100 unique baby sounds and lets you layer up to 8 sounds at once. That’s plenty of room to get creative and craft some surprisingly complex tunes! You can even save up to 10 of your favorite mixes.
+### 정리하자면
 
-
-### Bottom Line:
-
-Sprunki Babies is a delightful and incredibly creative musical playground. It throws traditional music-making barriers out the window, replacing complexity with intuitive fun and playful interaction. Watching the screen turn into a living canvas where sounds and cute characters dance together is just pure joy. Whether you're a kid discovering rhythm or an adult seeking a fun creative escape, Sprunki Babies has something special to offer. Ready to compose your next masterpiece with the help of these adorable Sprunki Babies?
+Sprunki Babies는 직관적인 인터페이스와 사랑스러운 연출로, 남녀노소 누구나
+즐길 수 있는 음악 놀이터입니다. 복잡한 툴 대신 캐릭터와 소리만으로 화면을
+가득 채우며, 귀여운 아기들이 춤추고 노래하는 장면을 감상하는 것만으로도 큰
+즐거움을 줍니다. 리듬을 처음 접하는 아이에게도, 가볍게 머리를 식히고 싶은
+어른에게도 잘 어울리는 게임입니다. 지금 스프룽키 베이비즈와 함께, 당신만의
+귀여운 합창단을 만들어 보세요!

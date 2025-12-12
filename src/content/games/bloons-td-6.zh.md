@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: bloons-td-6
-title: '[ZH TRANSLATION NEEDED] Bloons TD 6'
+title: "Bloons TD 6 气球塔防 6"
 description: >-
-  [ZH TRANSLATION NEEDED] Master Bloons TD 6, the ultimate tower defense game
-  with 3D graphics, heroes, 3 unique upgrade paths per tower, and powerful
-  Paragon monkeys. Devise the perfect strategy to pop every invading Bloon!
+  《Bloons TD 6 气球塔防 6》是系列目前内容最丰富的一作，引入全 3D 画面、英雄单位、三路线升级与 Paragon
+  级猴子等系统，需要你精细搭配防御塔与猴子知识，才能顶住最强气球与飞艇浪潮。
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/bloons-td-6.jpg
 tags:
@@ -16,59 +15,65 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+*Bloons TD 6* 是目前为止体量与深度都极高的一代，将经典气球塔防玩法带入全 3D 画面，同时加入了大量全新机制。核心目标依旧是：通过布置并升级猴子防御塔，阻止一波波 Bloon 走到终点。
 
-[ZH TRANSLATION NEEDED] Bloons TD 6 is the latest and most expansive installment in the acclaimed tower defense series. The game elevates the classic formula with full 3D graphics, a host of new mechanics, and an unprecedented level of strategic depth. The objective remains to strategically place and upgrade monkey towers to prevent waves of "Bloons" from reaching the exit.
+本作对升级系统做了根本性改变：每座塔拥有 **三条独立升级路线**，你可以让其中一条升到 5 级，再在另一条上最多补到 2 级（例如 5/2/0 或 5/0/2），第三条则保持锁定。这一设计使每座塔的定位与组合更加多样。
 
-[ZH TRANSLATION NEEDED] The game fundamentally changes the upgrade system by giving each tower **three distinct upgrade paths**. A single tower can be upgraded to Tier 5 on one path, and up to Tier 2 on another path (e.g., a 5/2/0 or 5/0/2 build), but the third path remains locked. This system creates an immense variety of specialized roles for every tower.
+**BTD6 的主要新增机制：**
 
-[ZH TRANSLATION NEEDED] **Major New Features of Bloons TD 6:**
--   **Heroes:** Players choose a powerful Hero to place on the field. Heroes level up automatically throughout the game, unlocking devastating new abilities without costing any in-game money. Each Hero has a unique playstyle.
--   **Three Upgrade Paths & Tier 5s:** The addition of a third path and powerful Tier 5 upgrades for every monkey provides a massive increase in strategic options.
--   **Monkey Knowledge:** A persistent meta-progression tree where players spend points earned from leveling up to grant small but significant permanent buffs to their towers.
--   **New Bloon Types:** Introduces the **Purple Bloon** (immune to energy, fire, and plasma attacks) and the ultimate blimp, the **B.A.D.** (Big Airship of Doom), which is incredibly durable and releases ZOMGs and DDTs when popped.
--   **Line of Sight:** For the first time, 3D objects on the map can block the line of sight of certain towers, adding a new layer to placement strategy.
--   **Paragons:** The ultimate late-game towers. By having all three Tier 5 towers of a single monkey type on the field, you can sacrifice them to create an immensely powerful Paragon version of that monkey.
+- **Heroes（英雄）：** 每局选择一名英雄放到场上，英雄会随回合自动升级，不消耗游戏金钱，并解锁越来越强的主动技能与被动效果，不同英雄打法差异巨大。  
+- **三路线与 Tier 5 升级：** 每种猴子都有三条升级路线和强力的 Tier 5 终极升级，组合数量极其可观。  
+- **Monkey Knowledge（猴子知识）：** 通过升级账号等级获得点数，点在全局天赋树上，为各种猴子提供小幅但永久的强化。  
+- **新 Bloon 类型：** 引入对能量 / 火焰 / 等离子攻击免疫的 **Purple Bloon（紫气球）**，以及释放 ZOMG 与 DDT 的终极飞艇 **B.A.D.（Big Airship of Doom）** 等。  
+- **视线阻挡：** 3D 地形会阻挡部分塔的视线，摆位不再只是“覆盖路径”，还要考虑是否被树木、建筑等遮挡。  
+- **Paragon（至尊猴）：** 某一猴子系的三条路线都升到 Tier 5 后，可以献祭合成为一个极其强大的 Paragon 形态，用于超高回合或 Boss 玩法。  
 
-### Gameplay Strategy
+### 游戏策略
 
--   **Synergy is King:** BTD6 is all about tower combinations. The most famous synergy is pairing a strong damage tower (like a 2/0/3 Super Monkey) with a 4/2/0 **Alchemist** (Stronger Stimulant), which provides a massive boost to damage and attack speed.
--   **Choose the Right Hero:** Your Hero can define your strategy.
-     -   **Sauda:** Excellent for maps with single choke points or sharp corners, dominating the early game.
-     -   **Benjamin:** A non-attacking hero who generates large amounts of money and strengthens your economy.
-     -   **Geraldo:** A "shop" hero who provides a versatile toolkit of items for any situation.
--   **Mastering the Threats:**
-     -   **Camo:** The best all-around solution is a x/2/x **Monkey Village** (Radar Scanner) to grant camo detection to all nearby towers.
-     -   **Lead:** Many towers can handle lead, but an Alchemist is a great support option as its acid can allow sharp-damage towers to pop them.
-     -   **Purple:** These require physical projectiles. Avoid relying solely on magic-users like the Wizard Monkey or Super Monkey's plasma path.
-     -   **DDTs:** These are the ultimate test. They are fast and have Camo, Lead, AND Black Bloon properties. Key counters include a 2/5/0 **Wizard Monkey** (Prince of Darkness), a 0/2/5 **Ice Monkey** (Icicle Impale), or granting lead-popping power to camo specialists via a x/3/x **Monkey Village** (Monkey Intelligence Bureau).
--   **Build a Strong Economy:** Banana Farms are still the best way to generate money. The 2/3/0 `Marketplace` path provides hands-free income, while the 4/2/0 `Central Market` path is highly efficient for large-scale farming.
--   **Plan for Paragons:** In extreme late-game or Boss Events, Paragons are your win condition. To get a high-degree Paragon, you need to sacrifice as many towers of that type as possible, have a high pop count on them, and invest a lot of money into the final upgrade.
+- **塔之间的“协同”是核心**  
+  BTD6 的强度更多来自组合而非单塔。经典搭配之一是：高伤害塔（如 2/0/3 Super Monkey）配一只 4/2/0 **Alchemist（炼金猴，Stronger Stimulant）**，通过药瓶极大提升攻速与攻击力。
 
-### Controls Guide
+- **选好适合地图与玩法的英雄：**
+    - **Sauda：** 近战英雄，非常适合单一瓶颈点或多转弯的近战地图，前期清怪能力极强。  
+    - **Benjamin：** 不直接攻击，但能持续生成金钱，大幅强化经济，非常适合长线经营。  
+    - **Geraldo：** “杂货铺”式英雄，可以根据局势购买各种小道具，适应性极强。  
 
-[ZH TRANSLATION NEEDED] The controls are intuitive for PC (mouse) and mobile (touch).
+- **针对不同威胁建立对应防线：**
+    - **Camo 气球：** 最万能的解法是 x/2/x 的 **Monkey Village**（Radar Scanner），为范围内所有塔提供 Camo 侦测。  
+    - **Lead 气球：** 很多塔都可处理铅气球，但一只合适位置的 Alchemist 往往可以让周围锐器塔也获得破铅能力。  
+    - **Purple 气球：** 对能量、火焰、等离子和多种魔法伤害免疫，不能只依赖 Wizard Monkey 或等离子路线 Super Monkey，需要配合实弹型输出（如 Crossbow Master 等）。  
+    - **DDT 飞艇：** 集 Camo / Lead / Black 特性于一身，且移动飞快，是对防线的终极考验。推荐使用 2/5/0 Wizard Monkey（Prince of Darkness）、0/2/5 Ice Monkey（Icicle Impale），或搭配 x/3/x Monkey Village（Monkey Intelligence Bureau）让特定高伤害塔同时具备全类型破防能力。  
 
--   **Placing/Upgrading:** Select a tower from the panel, place it on the map. Tap/click the tower to open its three-path upgrade menu.
--   **Hero Abilities:** Your Hero's abilities appear above their level indicator. Click them to activate.
--   **Tower Abilities:** Activated abilities for regular towers appear in the bottom-left corner of the screen.
--   **Hotkeys (PC):** Each monkey tower and its upgrades are assigned a hotkey (e.g., Q for Dart Monkey, 1/2/3 for upgrade paths). This allows for extremely fast gameplay for experienced players.
+- **经济仍然非常重要：Banana Farm 不可忽视**  
+  Banana Farm 仍然是最核心的收入来源之一。2/3/0 路线的 `Marketplace` 适合“免拾取”懒人玩法，而 4/2/0 的 `Central Market` 则在中后期收益效率很高，可配合更多农场组成资金引擎。
 
-### Frequently Asked Questions (FAQ)
+- **规划好 Paragon 的成型时机**  
+  在超高回合或 Boss 模式中，Paragon 是最终战力。想获得高等级 Paragon，需要：在合成前投入大量资金造同系猴子、尽可能让它们打出高击破数，并在升级时一次性献祭。  
 
-[ZH TRANSLATION NEEDED] **1. What is the best Hero to start with?**
-[ZH TRANSLATION NEEDED] > **Sauda** is widely considered the most beginner-friendly Hero. She is relatively cheap and can single-handedly beat the first 20-30 rounds on most beginner maps, allowing you to focus on building your economy.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **2. How do I beat DDTs? They are destroying my defense.**
-[ZH TRANSLATION NEEDED] > DDTs require a multi-faceted defense. You need towers that can see camo, pop lead/black, and have high damage. A Monkey Village with **Monkey Intelligence Bureau (x/3/x)** is invaluable, as it lets all nearby towers damage any Bloon type. Pair this with high-damage towers like a 2/0/5 Tack Shooter or a 0/2/5 Perma-Spike factory.
+游戏在 PC（鼠标）与移动端（触控）上的操作都非常直观。
 
-[ZH TRANSLATION NEEDED] **3. Why can't I damage the Purple Bloons?**
-[ZH TRANSLATION NEEDED] > Purple Bloons are immune to energy, plasma, fire, and magic-based attacks. This includes many upgrades from the Wizard Monkey and Super Monkey. You must use towers that fire physical projectiles, like a Crossbow Master (Dart Monkey 0/2/5) or a Juggernaut (Dart Monkey 5/x/x).
+-   **布置 / 升级：** 从侧边面板选择塔放在地图上，点击塔即可打开三路线升级菜单。  
+-   **英雄技能：** 英雄头像附近会显示可用技能按钮，冷却结束后点击即可释放。  
+-   **普通塔主动技能：** 塔的主动技能会集中显示在屏幕左下角，方便统一释放。  
+-   **PC 热键：** 各塔与升级路径都可绑定快捷键（如 Q 选 Dart Monkey，数字 1/2/3 对应不同路径），熟练运用可以极大提高操作效率。  
 
-[ZH TRANSLATION NEEDED] **4. How do I make a Paragon?**
-[ZH TRANSLATION NEEDED] > To create a Paragon, you must first have all three Tier 5 towers of a single monkey type (e.g., all three Tier 5 Dart Monkeys) placed on the map. Once you do, the upgrade button on any of them will change to a Paragon upgrade. The power of the Paragon depends on factors like the number of towers sacrificed, their total pop count, and money invested.
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **5. What is CHIMPS mode?**
-[ZH TRANSLATION NEEDED] > CHIMPS is the hardest game mode in BTD6. It's an acronym for the rules: **N**o **C**ontinues, **N**o **H**earts Lost, **N**o **I**ncome (other than popping Bloons), **N**o **M**onkey Knowledge, **N**o **P**owers, and **N**o **S**elling. It is the ultimate test of a player's strategy.
+**1. 新手推荐用哪个英雄？**  
+普遍认为 **Sauda** 对新手最友好：价格适中，前 20–30 回合可以几乎凭一己之力守住，让你有更多精力专注经济与布局。
 
+**2. 为什么 DDT 总是轻松冲破我的防线？**  
+DDT 兼具 Camo、Lead 与 Black 特性，需要多重能力叠加才能稳定应对。一座带 Monkey Intelligence Bureau 的 Monkey Village 搭配高伤害塔（例如 2/0/5 Tack Shooter 或 0/2/5 Perma-Spike）通常是比较稳妥的方案。
+
+**3. Purple 气球为什么完全不掉血？**  
+Purple 气球对能量、等离子、火焰和绝大部分魔法攻击免疫，包括 Wizard Monkey 的多数路线和部分 Super Monkey 升级。使用 Dart Monkey 的 Crossbow Master（0/2/5）、Juggernaut（5/x/x）等实弹路线，是更可靠的处理方式。
+
+**4. Paragon 要怎么合成？**  
+例如要合成 Dart Monkey 的 Paragon，需要场上同时存在该系的三条路线的 Tier 5 塔（三个不同的 5/x/x、x/5/x、x/x/5），此时其中一座塔的升级按钮会变为 Paragon 升级。Paragon 等级取决于献祭塔的数量、总击破数与投入金额等因素。
+
+**5. 什么是 CHIMPS 模式？**  
+CHIMPS 是 BTD6 中难度最高的模式，其名称是规则首字母缩写：No Continues、No Hearts Lost、No Income（除戳气球外）、No Monkey Knowledge、No Powers、No Selling——没有续关、不能掉血、没有额外收入、禁止知识树、禁止道具、禁止卖塔，是对整体策略功底的终极考验。  

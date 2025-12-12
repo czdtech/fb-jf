@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: quest-21
-title: '[KO] Quest 21'
+title: Quest 21 퀘스트 21
 description: >-
-  [KO] A Blackjack adventure! Play hands of 21 to defeat opponents and progress
-  on your quest. Get as close to 21 as possible without going over to win.
+  블랙잭 규칙을 바탕으로 라운드를 승리하며 모험을 진행하는 카드 게임입니다. 21을 넘기지 않는 선에서 최대한 가까운 합을 만들고, 상대보다
+  높은 패를 완성해 퀘스트를 완료해 보세요.
 iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
 thumbnail: /new-images/quest-21.png
 tags:
@@ -17,40 +17,76 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Quest 21*은 클래식 블랙잭 규칙을 바탕으로 진행되는 카드 게임
+어드벤처입니다. 단순히 카지노 테이블에서 한 판만 치는 것이 아니라,
+여러 상대를 순서대로 상대하며 스테이지를 돌파해 나가는 구조입니다.
 
-### Detailed Game Introduction
+각 라운드의 목표는 **상대보다 21에 더 가까운 합**을 만들되,
+합계가 21을 넘지 않도록 조절하는 것입니다. 카드 운과 더불어
+언제 카드를 더 받을지, 언제 멈출지를 선택하는 간단하지만
+전략적인 판단이 중요합니다.
 
-Quest 21 is a fun and strategic card game adventure based on the rules of classic Blackjack. Instead of just playing at a casino table, you embark on a quest, facing off against a series of opponents. To defeat them and advance, you must win hands of 21. The goal in each hand is to get a card total closer to 21 than your opponent without going over. It combines the luck of the draw with simple, strategic decisions.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **목표 이해하기 – 21에 최대한 가깝게**  
+   손패 합이 21을 넘는 순간 **버스트(bust)**로 판을 즉시 잃습니다.
+   항상 현재 합을 의식하면서, 한 장을 더 받을 여유가 있는지
+   계산해 보세요.
 
-1.  **[KO]** **The Goal:** Get your hand total as close to 21 as possible, without exceeding it. A hand over 21 is a "bust" and an automatic loss.
-2.  **[KO]** **Card Values:**
-    *   **[KO]** Cards 2-10 are worth their face value.
-    *   **[KO]** Face cards (Jack, Queen, King) are each worth 10.
-    *   **[KO]** Aces are special: they can be worth either 1 or 11, whichever is more beneficial to your hand.
-3.  **[KO]** **Hit or Stand?** On your turn, you have two main choices:
-    *   **[KO]** **Hit:** Take another card to try and get closer to 21.
-    *   **[KO]** **Stand:** Keep your current hand and end your turn.
-4.  **[KO]** **Basic Strategy:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
-5.  **[KO]** **Blackjack:** If your first two cards are an Ace and a 10-value card, you have a "Blackjack" and typically win the hand instantly.
+2. **카드 값 숙지하기**  
+    - 숫자 카드(2~10): 카드 숫자 그대로의 값을 가집니다.  
+    - 그림 카드(J, Q, K): 모두 10으로 취급합니다.  
+    - 에이스(A): 상황에 따라 1 또는 11로 계산됩니다. 손패에 따라
+     유리한 값으로 자동 또는 수동 조정되는 경우가 많습니다.
 
-### Controls Guide
+3. **Hit vs Stand 판단하기**  
+   자신의 차례에는 보통 두 가지 선택이 있습니다.  
+    - **Hit(히트)**: 카드를 한 장 더 받아 21에 가깝게 만듭니다.  
+    - **Stand(스탠드)**: 현재 패를 유지한 채 차례를 종료합니다.  
+   합이 11 이하라면 버스트 걱정이 거의 없으므로 대부분 히트가
+   안전하고, 17 이상이라면 무리하게 히트하기보다 스탠드를
+   고려하는 것이 일반적인 기준입니다.
 
-The game is played with on-screen buttons.
+4. **간단한 기본 전략 익히기**  
+- 합이 11 이하면 거의 항상 히트  
+   - 12~16 구간에서는 상대 상황을 보고 판단  
+   - 17 이상에서는 버스트 위험이 크므로 대부분 스탠드  
+   이런 간단한 원칙만 알고 있어도 무작정 카드를 받는 것보다
+   훨씬 좋은 결과를 얻을 수 있습니다.
 
-*   **[KO]** **Hit:** Click the "Hit" button to be dealt another card.
-*   **[KO]** **Stand:** Click the "Stand" button to end your turn and see what the opponent has.
+5. **블랙잭 패 노리기**  
+   처음 받은 두 장이 에이스 + 10(또는 그림 카드)라면 **블랙잭**으로
+   처리되어 대부분의 경우 즉시 승리하는 강력한 패입니다.
+   이런 패가 나왔을 때의 보너스 규칙은 버전별로 달 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: What does it mean to "bust"?**
-    *   **[KO]** **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.
+게임은 화면의 버튼을 클릭하는 방식으로 진행됩니다.
 
-*   **[KO]** **Q: When should I stand?**
-    *   **[KO]** **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
+- **Hit(히트)**: "Hit" 버튼을 눌러 카드를 한 장 더 받습니다.  
+- **Stand(스탠드)**: "Stand" 버튼을 눌러 현재 패로 승부를
+  보며, 이후에는 상대의 패가 공개됩니다.
 
-*   **[KO]** **Q: What happens if there is a tie?**
-    *   **[KO]** **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 버스트(bust)는 무엇인가요?**  
+  **A:** 카드를 더 받은 결과 손패 합이 21을 초과하는 상황을 말합니다.
+  이때는 그 즉시 라운드를 패배하게 됩니다.
+
+    - **Q: 언제 스탠드하는 것이 좋나요?**  
+  **A:** 일반적으로 17 이상의 "하드 핸드"에서는 스탠드가 무난합니다.
+  에이스를 11로 쓸 수 있는 "소프트 핸드"(예: A+6)의 경우에는
+  한 장 더 받아 보는 전략도 자주 사용됩니다.
+
+- **Q: 비겼을 때는 어떻게 되나요?**  
+
+    - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
+
+- **Q: What happens if there is a tie?**
+
+    - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
+  **A:** 플레이어와 상대의 합이 같다면 **푸시(push)**라고 부르며,
+  대부분의 캐주얼 버전에서는 서로 승패 없이 다음 라운드로
+  넘어갑니다.

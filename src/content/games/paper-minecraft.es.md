@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: paper-minecraft
-title: '[ES] Paper Minecraft'
+title: "Paper Minecraft - Versión 2D del sandbox clásico"
 description: >-
-  [ES] Paper Minecraft is a 2D re-imagining of the popular sandbox game,
-  offering players a side-scrolling world to explore, mine resources, craft
-  items, build structures, and survive against monsters.
+  Paper Minecraft es una reinterpretación 2D del popular sandbox en la que
+  exploras un mundo de desplazamiento lateral, minas recursos, fabricas objetos,
+  construyes estructuras y sobrevives frente a monstruos.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/paper-minecraft.jpg
 tags:
@@ -18,35 +18,55 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+"Paper Minecraft" es una versión 2D del popular sandbox "Minecraft" que te
+ofrece un mundo de desplazamiento lateral para explorar, minar recursos,
+fabricar objetos, construir bases y sobrevivir a distintos monstruos. Mantiene
+la esencia del juego original, pero con un enfoque lateral que le da una
+sensación distinta.
 
-### Game Introduction
+### Estrategia de juego
 
-"Paper Minecraft" is a 2D re-imagining of the popular sandbox game "Minecraft," offering players a side-scrolling world to explore, mine resources, craft items, build structures, and survive against various monsters. This game retains the core gameplay of the original while providing a unique experience from a 2D perspective.
+1.  **Recolección de recursos:** tala árboles para conseguir madera, excava bajo
+    tierra para obtener minerales; son la base para construir y fabricar.
+2.  **Fabricación de objetos:** utiliza la mesa de crafteo y el horno para
+    transformar recursos en herramientas, armas, bloques decorativos y otros
+    objetos útiles.
+3.  **Construir refugio:** levantar una base segura es prioritario para
+    sobrevivir, sobre todo por la noche, cuando aparecen zombis, esqueletos y
+    otras criaturas hostiles.
+4.  **Explorar y descubrir:** recorre biomas distintos, explora cuevas ocultas y
+    localiza cofres o zonas ricas en recursos.
+5.  **Agricultura y ganadería:** cultiva alimentos y cría animales para
+    garantizar una fuente estable de comida y materiales como cuero o lana.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Gather Resources**: Chop trees for wood, mine underground for ores, which are fundamental materials for building and crafting.
-2.  **[ES]** **Craft Items**: Use a crafting table and furnace to process collected resources into tools, weapons, blocks, and other useful items.
-3.  **[ES]** **Build Shelter**: Building a safe base is a priority for survival, especially at night to fend off attacks from zombies, skeletons, and other monsters.
-4.  **[ES]** **Explore and Discover**: Explore different biomes, discover hidden caves, treasures, and resource points.
-5.  **[ES]** **Farming and Animal Husbandry**: Grow crops for food, and raise animals to provide meat, leather, and other resources.
+*   **Movimiento:** teclas A/D o flechas izquierda/derecha para desplazarte.  
+*   **Saltar:** tecla W o flecha arriba.  
+*   **Picar/recoger:** apunta con el ratón a un bloque y haz clic izquierdo
+    para romperlo y recogerlo.  
+*   **Colocar bloques:** selecciona un bloque del inventario y haz clic derecho
+    para colocarlo.  
+*   **Inventario/crafteo:** tecla E para abrir el inventario, gestionar objetos
+    y fabricar.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Movement**: Use A/D keys or left/right arrow keys to control horizontal character movement.
-*   **[ES]** **Jump**: Use the W key or up arrow key to jump.
-*   **[ES]** **Break/Collect**: Place the mouse pointer over a block, then click the left mouse button to break and collect it.
-*   **[ES]** **Place Blocks**: Select a block from your inventory, then click the right mouse button to place it.
-*   **[ES]** **Open Inventory/Crafting**: Use the E key to open your inventory, manage items, and craft.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: What are the main differences between "Paper Minecraft" and the original "Minecraft"?**
-**A**: The main differences are in perspective and dimension. Paper Minecraft is a 2D side-scrolling game, while the original Minecraft is a 3D open-world game, but the core sandbox, building, and survival gameplay are similar.
-2.  **[ES]** **Q: What are the common monsters in the game?**
-**A**: Common monsters include zombies, skeletons, Creepers, etc., which spawn and attack players at night or in dimly lit areas.
-3.  **[ES]** **Q: How do I craft more powerful tools and weapons?**
-**A**: By collecting higher-tier ores (e.g., iron, diamond) and processing them in a crafting table and furnace, you can create more durable and powerful tools and weapons.
-4.  **[ES]** **Q: Does the game have dimensions like "The Nether" or "The End"?**
-**A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.
+1.  **P: En qué se diferencia Paper Minecraft del Minecraft original?**  
+    **R:** Principalmente en la perspectiva y las dimensiones; Paper Minecraft
+    es 2D y de desplazamiento lateral, mientras que Minecraft es un mundo 3D,
+    aunque comparten la jugabilidad básica de sandbox, construcción y
+    supervivencia.
+2.  **P: Qué monstruos puedo encontrar?**  
+    **R:** Zombis, esqueletos, Creepers y otras criaturas que aparecen por la
+    noche o en zonas poco iluminadas.
+3.  **P: Cómo fabrico mejores herramientas y armas?**  
+    **R:** Recolecta minerales de mayor calidad (hierro, diamante, etc.) y
+    fabrícalos en la mesa y el horno para obtener equipamiento más resistente y
+    potente.
+4.  **P: Tiene dimensiones como el Nether o el End?**  
+    **R:** Al ser una reinterpretación 2D, normalmente no incluye todas las
+    dimensiones del juego original, aunque algunas versiones pueden ofrecer
+    variantes simplificadas.

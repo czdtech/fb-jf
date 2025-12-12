@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: scooter-xtreme
-title: '[KO] Scooter Xtreme 3D'
+title: Scooter Xtreme 3D 스쿠터 익스트림
 description: >-
-  [KO] Hit the skate park in Scooter Xtreme 3D! Race through challenging
-  courses, perform awesome stunts and grinds, and collect coins to unlock new
-  scooters and characters.
+  3D 스케이트 파크를 질주하며 점프와 그라인드를 펼치는 스턴트 레이싱 게임입니다. 코스를 완주하고 코인을 모아 새로운 스쿠터와 라이더를
+  해금해 보세요.
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/scooter-xtreme.jpg
@@ -19,34 +18,66 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Scooter Xtreme 3D*는 다채로운 3D 스케이트 파크를 무대로 펼쳐지는
+스쿠터 스턴트 & 레이싱 게임입니다. 램프와 레일, 장애물이 가득한
+코스를 질주하며 점프, 플립, 그라인드 같은 트릭을 성공시키고,
+코인을 모아 더 멋진 스쿠터와 캐릭터를 해금해야 합니다.
 
-Scooter Xtreme 3D is an action-packed stunt and racing game that puts you on a scooter in a vibrant 3D world. Your goal is to navigate through challenging courses filled with ramps, rails, and obstacles. Perform incredible stunts like flips and grinds to rack up points, collect coins, and race to the finish line. Use your earnings to unlock new scooters and characters to become the ultimate scooter champion.
+점수와 기록, 그리고 코스 완주 시간까지 신경 써야 하므로, 속도와
+트릭 사이의 균형을 어떻게 잡느냐가 관건입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Master the Basics:** Before trying complex tricks, get comfortable with the controls. Practice accelerating, turning, and jumping to get a feel for the physics of the scooter.
-2.  **[KO]** **Link Your Tricks:** The key to a high score is combos. Don't just do one trick; try to link them together. For example, jump off a ramp, do a flip in the air, and land perfectly in a grind on a rail.
-3.  **[KO]** **Explore the Park:** The levels are filled with different paths and hidden areas. Explore the environment to find the best lines for scoring points and collecting all the coins.
-4.  **[KO]** **Choose the Right Scooter:** As you unlock new scooters, pay attention to their stats. Some might be faster, while others might be better for performing tricks. Choose the one that best fits your playstyle and the level's objective.
+1. **기본 조작부터 충분히 익히기**  
+   복잡한 트릭을 시도하기 전에, 가속·회전·점프만으로 코스를 안정적으로
+   돌 수 있을 정도로 물리 감각을 익혀 두는 것이 좋습니다.
 
-### Controls Guide
+2. **트릭을 연속으로 이어 콤보 만들기**  
+   높은 점수를 얻으려면 점프 후 공중 트릭, 착지 후 레일 그라인드처럼
+   여러 동작을 끊기지 않게 이어 가야 합니다. 한 번에 많은 동작을
+   넣기보다는, 실수 없이 이어 갈 수 있는 루틴부터 만들어 보세요.
 
-*   **[KO]** **Accelerate:** Press the **W** or **Up Arrow** key.
-*   **[KO]** **Steer:** Use the **A/D** or **Left/Right Arrow** keys to steer.
-*   **[KO]** **Brake/Reverse:** Press the **S** or **Down Arrow** key.
-*   **[KO]** **Jump:** Press the **Spacebar** to jump.
-*   **[KO]** **Perform Tricks:** Use other designated keys (often shown on-screen) while in the air or on a rail to perform various stunts.
+3. **맵 구석구석 탐험하기**  
+   코스에는 숨겨진 라인과 지름길, 코인 밀집 구역이 존재합니다.
+   단순히 표시된 길만 따르지 말고, 여러 경로를 시도해 보며 자신만의
+   고득점 루트를 찾아 보세요.
 
-### Frequently Asked Questions (FAQ)
+4. **스쿠터 능력치에 맞춰 스타일 바꾸기**  
+   어떤 스쿠터는 속도는 빠르지만 조향이 어려울 수 있고, 어떤 것은
+   점프력과 트릭 안정성이 더 좋을 수 있습니다. 맵 특성과 자신의
+   플레이 스타일에 맞춰 스쿠터를 선택하세요.
 
-*   **[KO]** **Q: How do I get a higher score?**
-    *   **[KO]** **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.
+### 조작 가이드
 
-*   **[KO]** **Q: What happens if I fall or crash?**
-    *   **[KO]** **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
+- **가속**: `W` 키 또는 위쪽 방향키로 속도를 올립니다.  
+- **조향**: `A/D` 또는 좌/우 방향키로 방향을 조절합니다.  
+- **브레이크/후진**: `S` 키 또는 아래쪽 방향키로 속도를 줄이거나
+  후진합니다.  
+- **점프**: 스페이스바로 점프해 램프를 날아오르고 레일에 오릅니다.  
+- **트릭 수행**: 공중이나 레일 위에서 화면에 표시된 전용 키를
+  눌러 다양한 트릭을 사용할 수 있습니다(버전마다 다를 수 있음).
 
-*   **[KO]** **Q: How do I unlock new characters and scooters?**
-    *   **[KO]** **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 고득점을 얻으려면 어떻게 해야 하나요?**  
+  **A:** 다양한 트릭을 끊기지 않게 콤보로 연결하는 것이 핵심입니다.
+  같은 동작만 반복하기보다, 플립·그라인드·방향 전환 등을 섞어
+  콤보 배수를 높여 보세요.
+
+    - **Q: 넘어지거나 충돌하면 어떻게 되나요?**  
+  **A:** 보통 마지막 체크포인트에서 다시 시작하게 되며, 지금까지
+  쌓인 콤보와 시간 일부를 잃게 됩니다. 안전하게 완주하는 것이
+  때로는 과한 트릭보다 더 좋은 기록을 줍니다.
+
+- **Q: 새로운 스쿠터와 캐릭터는 어떻게 해금하나요?**  
+
+    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
+
+- **Q: How do I unlock new characters and scooters?**
+
+    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
+  **A:** 코스를 돌며 모은 코인을 사용해 상점에서 새로운 스쿠터와
+  라이더를 구매할 수 있습니다. 성능과 외형을 모두 고려해 원하는
+  조합을 만들어 보세요.

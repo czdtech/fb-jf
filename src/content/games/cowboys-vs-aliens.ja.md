@@ -1,75 +1,56 @@
 ---
-locale: ja
-urlstr: cowboys-vs-aliens
-title: '[JA TRANSLATION NEEDED] Cowboys vs Aliens'
-description: >-
-  [JA TRANSLATION NEEDED] A comprehensive guide to the 'Cowboys vs Aliens' game
-  theme. Learn the common gameplay types (tower defense, action shooter),
-  strategies, controls, and tips for defending the Wild West from alien
-  invaders.
+title: Cowboys vs Aliens カウボーイ vs エイリアン
+description: 「Cowboys vs Aliens」で西部劇とSFが激突！勇敢なカウボーイとなり、侵略者であるエイリアンを撃退せよ。アクション、防衛、そしてサバイバル。
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/cowboys-vs-aliens.jpg
+urlstr: cowboys-vs-aliens
+score: 3.7/5  (1185 votes)
 tags:
   - action
   - shooting
-score: 3.7/5  (1185 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+*Cowboys vs Aliens（カウボーイ vs エイリアン）*は、荒野のガンマンとなって宇宙からの侵略者に立ち向かうアクションシューティングゲームです。プレイヤーは一人のカウボーイを操作し、サイドスクロールやトップダウン（見下ろし型）のステージで、次々と襲いかかってくるエイリアン軍団をなぎ倒していきます。
 
+リボルバーからレーザー銃まで、多彩な武器を駆使し、敵の弾幕を避けながら、アイテムや回復キットを回収して生き残りましょう。各ステージの最後には強力なボスが待ち受けています。
 
+### ゲーム攻略と戦略
 
-### **Game Introduction**
+1.  **動き続けろ:** 立ち止まることは死を意味します。常に動き回り、エイリアンのレーザーや攻撃を回避し続けましょう。敵の攻撃パターンを覚え、ジャンプやしゃがみを使い分けることが重要です。
+2.  **脅威を見極める:** エイリアンには種類があります。遠距離から狙撃してくる敵や、雑魚を召喚する敵など、厄介な相手を優先的に倒すようにしましょう。
+3.  **弾薬とパワーアップの節約:** 弾数制限がある場合や、強力なパワーアップアイテムは、強敵や集団戦のために温存しておくのが賢明です。弱い敵に無駄撃ちしないように。
+4.  **武器の特性を知る:** ショットガンは近距離の集団に強く、ライフルは遠距離の単体に強いです。状況に応じて適切な武器に切り替えましょう。
 
-[JA TRANSLATION NEEDED] This version puts you in direct control of a single cowboy hero. The gameplay is typically a side-scrolling or top-down shooter where you must run, jump, and shoot your way through levels filled with alien enemies. You collect new weapons (from revolvers to alien laser guns), power-ups, and health packs while dodging enemy projectiles and attacks. The goal is to survive each stage and defeat a boss at the end.
+#### 操作ガイド
 
-### **Gameplay Strategy & Tips**
+**PC / ウェブブラウザ版:**
+*   **移動:** `W`, `A`, `S`, `D` または 矢印キー
+*   **照準:** マウス
+*   **射撃:** クリック（左ボタン）
+*   **ジャンプ:** `Space`キー
 
-#### **For Action/Shooter Games:**
+### **操作ガイド**
+*   **武器切替:** 数字キー（`1`, `2`...）またはホイール
 
-[JA TRANSLATION NEEDED] 1.  **Movement is Life**: Never stand still. Constantly be on the move to dodge incoming alien lasers and attacks. Learn enemy attack patterns to know when to jump, duck, or run.
-[JA TRANSLATION NEEDED] 2.  **Prioritize Threats**: Some aliens are more dangerous than others. Learn to quickly identify and eliminate high-priority targets first, such as long-range snipers or enemies that spawn smaller minions.
-[JA TRANSLATION NEEDED] 3.  **Conserve Ammunition/Power-ups**: If your game has limited ammo or timed power-ups, save them for large groups of enemies or difficult boss encounters. Don't waste your strongest attacks on weak, single aliens.
-[JA TRANSLATION NEEDED] 4.  **Know Your Arsenal**: Understand the strengths and weaknesses of each weapon. A shotgun is great for close-quarters crowd control, while a rifle is better for picking off distant foes. Switch weapons according to the situation.
-
-### **Controls Guide**
-
-*   **PC/Web:**
-    - **移動するment**: `W`, `A`, `S`, `D` or Arrow Keys.
-- **モバイル:**
-[JA TRANSLATION NEEDED]     *   **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
-[JA TRANSLATION NEEDED]     *   **Aim**: Mouse.
-    - **Switch Weapon**: Number keys (`1`, `2`, `3...`) or マウス Wheel.
-[JA TRANSLATION NEEDED]     *   **Shoot**: `Left Mouse Button`.
-    - **移動するment**: Virtual joystick on the left side of the screen.
-[JA TRANSLATION NEEDED]     *   **Jump**: `Space Bar`.
-[JA TRANSLATION NEEDED]     *   **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
-*   **Mobile:**
-
-
-
-- **PC/Web:**
-### **コントロール Guide**
-- **Know Your Arsenal**: Understand the strengths and weaknesses of each weapon. A shotgun is great for close-quarters crowd control, while a rifle is better for picking off distant foes. Switch weapons according to the situation.
-[JA TRANSLATION NEEDED]     *   **Movement**: Virtual joystick on the left side of the screen.
-[JA TRANSLATION NEEDED]     *   **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
-
-
-
-    - **Aim**: マウス.
-    - **Shoot**: `Left マウス Button`.
-    - **ジャンプ**: `Space Bar`.
-    - **Aim/撃つ**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
-
-
+**モバイル版:**
+    - **移動:** 画面左側のバーチャルスティック
+    - **照準/射撃:** 画面右側のボタン（ジャンプやスキルボタンも配置されています）
 
 
     - **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
+
     - **Movement**: Virtual joystick on the left side of the screen.
-- **Mobile:**
-    - **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
 
+    - **Mobile:**
 
-    - **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
+- **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
+
+    - **Jump**: `Space Bar`.
+
+    - **Shoot**: `Left Mouse Button`.

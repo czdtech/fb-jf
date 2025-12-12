@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bubble-woods-ultimate
-title: '[ES] Bubble Woods Ultimate'
+title: "Bubble Woods Ultimate"
 description: >-
-  [ES] Race against the clock in this fast-paced bubble shooter! You have 60
-  seconds to pop as many bubbles as you can, create massive combos, and use
-  powerful boosters to get the highest score.
+  Corre contra el reloj en este frenético bubble shooter. Tienes 60 segundos
+  para reventar tantas burbujas como puedas, encadenar combos enormes y usar
+  potentes potenciadores para lograr la máxima puntuación.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/bubble-woods-ultimate.png
 tags:
@@ -17,36 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bubble Woods Ultimate es un bubble shooter de ritmo altísimo que te reta a sumar
+el máximo de puntos posible en solo 60 segundos. Ambientado en un bosque
+vibrante, debes disparar burbujas para formar grupos de tres o más del mismo
+color, provocando cascadas y acumulando puntos. El juego incluye potentes
+potenciadores y un sistema de progresión que premia la precisión y la velocidad,
+convirtiendo cada partida en una carrera contrarreloj.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Bubble Woods Ultimate is a high-energy, fast-paced bubble shooter that challenges you to score as many points as possible within a tight 60-second time limit. Set in a vibrant forest, you must shoot bubbles to create matches of three or more, triggering cascades and earning massive points. The game features a variety of powerful boosters and a level-up system that rewards skillful play, making every round an exciting race against the clock.
+1.  **La velocidad lo es todo:** Con solo 60 segundos en el reloj, tienes que
+    jugar rápido. Apunta y dispara sin entretenerte demasiado en un único tiro.
+2.  **Carga el combo para la bola de fuego:** La clave de las puntuaciones enormes es
+    la bola de fuego. La obtienes al encadenar 10 aciertos consecutivos. Puedes dispararla a cualquier parte del tablero y arrasa un
+    área amplia, así que úsala con cabeza.
+3.  **Busca avalanchas:** Como en otros bubble shooters, los mayores puntos
+    provienen de soltar grandes grupos de burbujas colgantes. Apunta alto para
+    reventar pequeños grupos que sostienen racimos más grandes.
+4.  **Aprovecha los potenciadores:** Fíjate en las burbujas especiales del tablero:
+    *   **Rainbow Bubble:** Actúa como comodín y puede completar un grupo de
+        cualquier color.
+    *   **Bomb Bubble:** Explota al impactar y limpia un pequeño conjunto.
+    *   **Hourglass:** La más valiosa; al romperla añade unos preciados segundos
+        al cronómetro.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Speed is Everything:** With only 60 seconds on the clock, you need to be fast. Aim and shoot quickly. Don't spend too long deliberating on a single shot.
-2.  **[ES]** **Build Your Combo for a Fireball:** The key to a huge score is the Fireball. You earn it by making 10 consecutive successful matches (10 "hits"). The Fireball can be shot anywhere and will destroy a large area of bubbles, so use it strategically.
-3.  **[ES]** **Aim for Avalanches:** Just like in classic bubble shooters, the biggest points come from detaching large clusters of bubbles. Aim high to pop a small group that is supporting a much larger group below.
-4.  **[ES]** **Utilize Power-ups:** Keep an eye out for special bubbles on the board:
-    *   **[ES]** **Rainbow Bubble:** Will act as any color it touches, helping you complete a match.
-    *   **[ES]** **Bomb Bubble:** Explodes on impact, clearing a small cluster.
-    *   **[ES]** **Hourglass:** The most valuable one—hitting it adds a few precious seconds to your timer.
+*   **Apuntar:** Mueve el ratón para orientar el cañón de burbujas.
+*   **Disparar:** Haz clic con el botón izquierdo para lanzar la burbuja.
+*   **Cambiar burbuja:** En muchas versiones puedes hacer clic sobre el cañón o
+    la siguiente burbuja en la cola para alternar entre el proyectil actual y el
+    siguiente.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Aim:** Move your mouse to aim the bubble cannon.
-*   **[ES]** **Shoot:** Click the left mouse button to fire the bubble.
-*   **[ES]** **Swap:** You can often click on the cannon or the next bubble in the queue to swap between your current and next projectile.
+*   **P: ¿Cuál es el objetivo principal?**
+    *   **R:** Conseguir la máxima puntuación posible dentro del límite de 60
+        segundos.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo consigo más tiempo?**
+    *   **R:** La única forma es impactando en las burbujas especiales de
+        reloj de arena (Hourglass) que aparecen en el tablero.
 
-*   **[ES]** **Q: What is the main objective?**
-    *   **[ES]** **A:** To score as many points as you can within the 60-second time limit.
-
-*   **[ES]** **Q: How do I get more time?**
-    *   **[ES]** **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
-
-*   **[ES]** **Q: What is the bar at the bottom next to the cannon?**
-    *   **[ES]** **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
-
+*   **P: ¿Qué es la barra junto al cañón?**
+    *   **R:** Es tu medidor de bola de fuego. Se llena con cada disparo acertado.
+        Cuando encadenas 10 aciertos seguidos se llena por completo y tu siguiente
+        tiro será una poderosa bola de fuego.

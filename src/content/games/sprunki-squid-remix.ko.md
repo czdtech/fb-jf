@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: sprunki-squid-remix
-title: '[KO] Sprunki Squid Remix - Play Sprunki Squid Remix Online'
+title: Sprunki Squid Remix 스프룽키 스퀴드 리믹스
 description: >-
-  [KO] prunki Squid offers a truly unique and thrilling experience. It combines
-  the iconic themes and visuals of Squid Game with the creative freedom of
-  Sprunki, resulting in unprecedented crossover gameplay.
+  Sprunki Squid Remix는 넷플릭스 시리즈 "오징어 게임"의 긴장감과 스프룽키의 음악 제작을 결합한 크로스오버 모드입니다.
+  서바이벌 게임의 분위기를 리듬과 사운드로 표현해 보는 독특한 경험을 제공합니다.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
 thumbnail: /sprunki-squid-remix.png
 tags:
@@ -15,28 +14,46 @@ score: 4.1/5  (92 votes)
 
 
 
-Hey, rhythm masters! Ready for a music challenge that gets your heart pounding and palms sweating? Sprunki Squid is here! This isn't your average music creation game; it's an electrifying crossover mod that perfectly blends Sprunki's musical magic with the intense suspense of the phenomenal series, Squid Game!
+리듬 장인 여러분, 심장이 쿵쾅거리는 음악 도전을 해 보고 싶나요?
+Sprunki Squid Remix는 스프룽키식 음악 제작에 "오징어 게임" 특유의 서바이벌
+긴장감을 더한 모드입니다.
 
-### What the Heck is Sprunki Squid?
+### Sprunki Squid란 무엇인가요?
 
-Imagine your familiar Sprunki characters, now decked out in iconic Squid Game outfits, wearing mysterious masks, and appearing on the glass bridge, in the dorms, or even on the "Red Light, Green Light" playground... Sprunki Squid is exactly that mind-blowing creation! It keeps Sprunki's classic drag-and-drop music creation gameplay but completely flips the atmosphere. You'll need to use suspenseful beats, dramatic build-ups, and chilling melodies to compose your "song of survival."
+Sprunki Squid는 스프룽키 캐릭터들을 오징어 게임의 참가자/관리자 스타일로
+재해석한 모드입니다. 유리 다리, 기숙사, "무궁화 꽃이 피었습니다" 놀이터 등
+대표적인 무대에서, 긴장감 넘치는 비트와 멜로디로 "생존의 노래"를 만들어야
+합니다.
 
-### In Sprunki Squid, Survival is Victory!
+### Sprunki Squid에서 생존이 곧 승리
 
-- **Squid Game-Themed Characters:** Get ready for a revamped Sprunki lineup! They've got Squid Game-style outfits, masks, and even slightly eerie animations. Choosing your characters wisely is crucial in Sprunki Squid!
-- **Breath-Taking Soundscapes:** Forget the chill B-Box vibes! The music in Sprunki Squid is packed with tense beats, dramatic tension, and melodies that send shivers down your spine, perfectly capturing the high-stakes, high-pressure atmosphere of Squid Game. It'll keep you on the edge of your seat the whole time.
-- **Iconic Game Environments:** Create music within those nerve-wracking Squid Game settings, like the transparent glass bridge, the oppressive dorms, and that classic "Red Light, Green Light" playground. The visuals in Sprunki Squid massively enhance the immersion.
-- **Survival-Based Rhythm Challenge:** Just like in Squid Game, timing is everything! In Sprunki Squid, you need to ensure your beats align perfectly with the rhythm to "survive" each round and keep going. It tests not only your sense of rhythm but also your nerve!
+- **오징어 게임 테마 캐릭터:**
+  가면과 트레이닝복을 입은 캐릭터들이 등장하며, 약간 섬뜩한 애니메이션과 함께
+  각기 다른 사운드를 들려줍니다.
+- **숨 막히는 사운드스케이프:**
+  편안한 비트 대신, 긴장감을 유발하는 리듬과 서늘한 멜로디가 중심이 됩니다.
+  덕분에 곡을 듣는 것만으로도 게임 속 압박감이 느껴집니다.
+- **아이코닉 스테이지:**
+  유리 다리, 기숙사, 운동장 등 오징어 게임의 상징적인 공간을 배경으로
+  음악을 만들며, 시청각 몰입감을 극대화합니다.
+- **생존형 리듬 도전:**
+  리듬을 놓치지 않고 정확히 맞춰야 "생존"에 성공하는 설정으로, 리듬감과
+  집중력을 동시에 시험합니다.
 
+### Sprunki Squid가 강렬한 이유
 
-### Why is Sprunki Squid So Intense?
+Sprunki Squid Remix는 오징어 게임의 상징적인 연출과 스프룽키의 자유로운
+음악 제작을 결합해, 익숙하면서도 전혀 새로운 경험을 제공합니다. 원작을 보지
+않았더라도, 긴장감 있는 리듬 도전을 즐기기에 충분합니다.
 
-Sprunki Squid offers a truly unique and thrilling experience. It combines the iconic themes and visuals of Squid Game with the creative freedom of Sprunki, resulting in unprecedented crossover gameplay. Even if you haven't watched Squid Game, you can easily jump in and enjoy this tense yet fun rhythm challenge. Best of all, Sprunki Squid is completely free to play!
+### 생존 트랙을 공유해 보세요
 
-### Ready to Share Your Survival Anthem?
-
-Once you've crafted music that makes even *you* feel the tension, don't forget to share it with the Sprunki Squid community! Show everyone how strong your rhythm survival skills are!
+스스로 들어도 긴장될 만큼 압박감 있는 트랙을 완성했다면, Sprunki Squid
 
 ### Wrapping Up:
+커뮤니티에 공유해 다른 플레이어들에게도 당신의 리듬 생존 실력을
+선보여 보세요.
 
-Sprunki Squid is a brutal game of music and survival. It uniquely merges two vastly different cultural phenomena, bringing an experience that feels both familiar and refreshingly new. If you crave excitement and love a challenge, Sprunki Squid is an absolute must-try. Take a deep breath, step into the world of Sprunki Squid, and use your sense of rhythm to survive this musical life-or-death match! Good luck!
+Sprunki Squid Remix는 음악과 생존 게임을 과감하게 섞어 놓은 특이한 모드입니다.
+도전적인 리듬 게임을 좋아한다면, 이 모드에서 리듬 감각으로 "생존"에 성공해
+보세요.

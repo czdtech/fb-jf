@@ -1,47 +1,71 @@
 ---
 locale: zh
 urlstr: cards-of-the-undead
-title: '[ZH TRANSLATION NEEDED] Cards of the Undead'
+title: Cards of the Undead 不死牌局
 description: >-
-  [ZH TRANSLATION NEEDED] A turn-based strategy card game of survival. Move your
-  hero across the board, battle zombies, and collect coins and power-ups. Manage
-  your health and armor to survive as long as you can!
-iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
-thumbnail: /new-images/cards-of-the-undead.png
+  《Cards of the Undead 不死牌局》是一款带 Roguelike 元素的卡牌策略游戏，在末日世界中合理打出攻击、防御与技能
+  卡，抵御一波波亡灵敌人。
+iframeSrc: 'https://cardsoftheundead.h5games.usercontent.goog/v/1utkallp647b0/'
+thumbnail: /new-images/cards-of-the-undead.jpg
 tags:
   - card
   - strategy
-  - puzzle
-  - thinky
-score: 4.3/5  (2250 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (1520 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Cards of the Undead is a turn-based roguelike puzzle game set in a zombie apocalypse. The world is represented by a grid of face-down cards, and you control a hero who can move one space at a time. Each move uncovers a new card, which could be a zombie to fight, valuable coins, or helpful items like health potions and armor. The goal is to strategically navigate the board, manage your health, defeat all the zombies, and survive for as long as possible.
+*Cards of the Undead* 将末日题材与卡牌构筑结合。你扮演在丧尸横行世界中求生的幸存者，每一回合会抽到一定数量的手牌，包括攻击卡、防御卡、回复卡以及带特殊效果的技能卡。你需要在有限点数或出牌次数限制下，合理选择本回合打出哪些牌，来削减敌人生命值、格挡伤害或触发强力连锁效果。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Check Before You Move:** Before moving to a zombie card, always compare your hero's stats (Health and Armor) with the zombie's. Make sure you can survive the encounter. It's often better to find a potion or armor first before taking on a strong enemy.
-2.  [ZH TRANSLATION NEEDED] **Plan Your Path:** Don't just move randomly. Try to plan a path that allows you to pick up helpful items before you are forced to fight a powerful zombie. Clearing a path to a health potion can be a lifesaver.
-3.  [ZH TRANSLATION NEEDED] **Know Your Hero:** Different heroes have different skills. Use your hero's unique abilities to your advantage. Some might be better at fighting, while others might be better at finding treasure.
-4.  [ZH TRANSLATION NEEDED] **Level Up:** Defeating zombies grants you Experience Points (XP). Leveling up will restore your health and improve your stats, making you stronger for the challenges ahead.
+战斗通常采用回合制：  
+- 你的回合中使用卡牌进行攻击、防御和辅助；  
+- 敌人回合将根据预警图标发动攻击或技能。  
+随着战斗推进，你可以获得新卡、升级卡牌或移除负面牌，从而逐步优化卡组。
 
-### Controls Guide
+### 游戏策略与构筑思路
 
-[ZH TRANSLATION NEEDED] The game is played with simple mouse clicks or taps.
+1.  **建立清晰的卡组核心思路**  
+    不要什么卡都往卡组里塞。是要走高伤害爆发流、持续毒/流血叠层流，还是偏坦度的格挡反击流？确定一个主思路，有助于在选牌时做出更一致的选择。
 
-*   **Move:** Click on any adjacent (horizontal, vertical, or diagonal) card to move your hero to that space. This will reveal the card.
+2.  **控制卡组规模，避免过厚**  
+    卡组过厚会稀释关键卡的出现频率，导致“想要的牌摸不到”。在有机会移除弱卡或过时卡牌时，应果断精简，保证每一抽都有价值。
 
-### Frequently Asked Questions (FAQ)
+3.  **兼顾防御与回复，不要只堆攻击**  
+    很多新手容易只追求高伤害卡，而无视格挡与回复。一旦遇到高伤害敌人，很容易在一两回合内被秒。确保每一轮至少能构建出基本格挡，是持久战的关键。
 
-*   **Q: How does combat work?**
-     *   **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
+4.  **善用状态与 Debuff 叠加**  
+    像中毒、燃烧、虚弱、易伤等状态往往可以多回合持续发挥作用。适当牺牲一回合的部分伤害，用来给敌人叠加强力 Debuff，可能在后续回合获得数倍收益。
 
-*   **Q: What is the goal of a level?**
-     *   **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
+5.  **根据敌人意图调整出牌顺序**  
+    很多 Roguelike 卡牌游戏会在敌人头上显示下一回合意图：进攻、防御或施加状态。根据这些信息调整这回合是优先叠伤害还是优先叠格挡，可以显著提高生存率。
 
-*   **Q: What happens if I run out of health?**
-     *   **A:** If your hero's HP drops to zero, your run is over, and you must start again.
+### 操作指南
+
+
+The game is played with simple mouse clicks or taps.
+-   **抽牌与回合：** 回合开始自动抽牌到上限。  
+-   **出牌：** 使用鼠标拖拽或点击卡牌，再点选目标敌人或自身即可施放（具体规则视卡牌说明而定）。  
+-   **结束回合：** 使用 End Turn 按钮结束自己的回合，进入敌人行动阶段。  
+
+### 常见问题解答（FAQ）
+
+
+- **A:** If your hero's HP drops to zero, your run is over, and you must start again.
+
+    - **Q: What happens if I run out of health?**
+
+- **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
+
+    - **Q: What is the goal of a level?**
+
+- **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
+
+    - **Q: How does combat work?**
+**问：卡组越多是不是越强？****
+答：** 不一定。通常精简而高质的卡组更强，能更稳定地摸到关键组合。
+
+**问：发现某张卡很鸡肋，可以删掉吗？****
+答：** 多数版本会提供移除卡牌的机会（如营地、商店或事件），建议优先删去无用起始卡或不再适合当前构筑的卡。
 

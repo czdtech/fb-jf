@@ -1,61 +1,38 @@
 ---
+title: "Aqua Blocks アクア・ブロック"
+description: "「Aqua Blocks」は、水中のようなリラックス感のあるブロック配置ゲームです。形をフィットさせ、ラインを消し、盤面が溢れないようスペースを確保しましょう。"
+iframeSrc: "https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/"
+thumbnail: "/new-images/aqua-blocks.png"
+urlstr: "aqua-blocks"
+score: "3.9/5  (1701 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: aqua-blocks
-title: '[JA TRANSLATION NEEDED] Aqua Blocks'
-description: >-
-  [JA TRANSLATION NEEDED] Aqua Blocks is a watery block‑placer — fit shapes,
-  clear lines, and keep the board breathing.
-iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/aqua-blocks.png
-tags:
-  - puzzle
-  - thinky
-score: 3.9/5  (1701 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Aqua Blocks（アクア・ブロック）*は、リラックスできるブロック配置パズルゲームです。与えられた様々な形状のブロックをグリッド（盤面）に配置し、縦または横のラインを埋めて消していきます。複数のラインを同時に消して広大なスペースを確保し、孤立した埋められない隙間（キャビティ）を作らないように注意しましょう。
 
-[JA TRANSLATION NEEDED] Aqua Blocks is a relaxing block‑placement game. Place given shapes to fill lines or regions, make space with multi‑line clears, and avoid creating sealed cavities.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **端をきれいに保つ：** 盤面の端の方に変な隙間を作ってしまうと、後で埋めるのが大変になります。できるだけ平らに整地しましょう。
+2.  **まとめ消しを狙う：** テトリスのように、複数のラインを一度に消せるようにブロックを積み上げ、大きなスペースを一気に確保する戦略が有効です。
+3.  **偏りを避ける：** 盤面の片方の隅だけに集中して積みすぎないようにしましょう。全体を均等に使うのがコツです。
+4.  **緊急用スペースの確保：** 扱いにくい大きなブロック（巨大な正方形など）がいつ来てもいいように、常に広いスペースを1箇所は確保しておきましょう。
+5.  **プレビューを見る：** 次に来るブロックが見えている場合は、それを置く場所をあらかじめ計算して現在のブロックを配置しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Keep edges tidy to prevent stray single cells.
-[JA TRANSLATION NEEDED] 2.  Build for Tetris‑like clears across multiple lines.
-[JA TRANSLATION NEEDED] 3.  Don’t over‑commit to one corner.
-[JA TRANSLATION NEEDED] 4.  Save emergency slots for awkward shapes.
-[JA TRANSLATION NEEDED] 5.  Use previews (if any) to plan sequences.
+### 操作ガイド
 
-### Controls Guide
+*   **配置：** ブロックをグリッド上にドラッグします。回転がサポートされている場合は回転させることができます。
+*   **アンドゥ/リセット：** UIボタンから操作します。
 
-- Drag shapes onto the grid; rotate if supported.
-- Undo/Reset via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- No space left—what now? Undo and re‑plan; otherwise restart.
-- Rotations? Depends on the variant.
-- Endless? Typically yes.
-
-
-
-
-
-
-
-
-- Endless? Typically yes.
-- Rotations? Depends on the variant.
-- No space left—what now? Undo and re‑plan; otherwise restart.
-### よくある質問（FAQ）
-- Undo/Reset via UI.
-- Drag shapes onto the grid; rotate if supported.
-### コントロールガイド
-
-
-
-
-- Endless? Typically yes.
-- Rotations? Depends on the variant.
-- No space left—what now? Undo and re‑plan; otherwise restart.
+*   **スペースがなくなったらどうなりますか？**
+    *   ゲームオーバーです。アンドゥして計画を練り直すか、リスタートしてください。
+*   **回転はできますか？**
+    *   ゲームのバリエーションによります。
+*   **エンドレスですか？**
+    *   はい、基本的には置けなくなるまで続くエンドレス形式です。

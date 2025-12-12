@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: penalty-showdown
-title: '[ES] Penalty Showdown'
+title: "Penalty Showdown - Duelo de penaltis"
 description: >-
-  [ES] Penalty Showdown is a tense shootout — pick corners, vary height, and
-  outguess keepers in alternating kicker/keeper rounds.
+  Penalty Showdown es una tanda de penaltis cargada de tensión: elige esquinas,
+  varía la altura del disparo y trata de adivinar al portero alternando rondas
+  como lanzador y guardameta.
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/penalty-showdown.jpg
 tags:
@@ -16,34 +17,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Penalty Showdown alterna fases de lanzador y de portero. Como tirador, debes
+ocultar tu intención y combinar colocación y altura; como guardameta, toca leer
+la carrera del rival y lanzarte en el momento justo. Ganar no consiste solo en
+pegarle fuerte, sino en cambiar el ritmo y mezclar perfiles de disparo.
 
-Penalty Showdown alternates between shooting and goalkeeping phases. As the taker, disguise placement and height; as the keeper, read run‑ups and dive late. Winning relies on rhythm changes and mixed shot profiles rather than power alone.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Variar el perfil de tiro:** alterna disparos rasos a las esquinas, tiros
+    altos y lanzamientos centrados para no ser predecible.
+2.  **Paradas con salto tardío:** como portero, muévete un instante y lánzate
+    tarde hacia el lado que delata el cuerpo del lanzador.
+3.  **Potencia controlada:** una potencia media‑alta da velocidad sin provocar
+    demasiada desviación fuera de la portería.
+4.  **Viento:** si el juego simula viento, corrige ligeramente la dirección del
+    disparo y reduce la altura en ráfagas fuertes.
+5.  **Juego psicológico:** haz una breve pausa en la carrera o cambia el tempo
+    antes de chutar para forzar al portero a lanzarse antes de tiempo.
 
-1.  **[ES]** Mix profiles: Alternate low corners, high corners, and center chips to avoid patterns.
-2.  **[ES]** Keeper late dive: Move briefly then commit late to the striker’s open‑body side.
-3.  **[ES]** Power windows: Mid‑high power gives speed without wild slices.
-4.  **[ES]** Wind: Offset aim and reduce height under strong wind (if modeled).
-5.  **[ES]** Mind games: Pause a beat before shots to bait early dives.
+### Guía de controles
 
-### Controls Guide
+- Como tirador: apunta, elige potencia y, en algunas versiones, aplica efecto al
+  balón.  
+- Como portero: selecciona lado y timing del salto; ciertos modos permiten
+  controlar manualmente la estirada.
 
-- Shoot: aim + power + (optional) swerve. Keep: choose side/timing; some builds allow manual dives.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **P: Me paran demasiados penaltis, qué estoy haciendo mal?**  
+  **R:** Evita repetir siempre la misma zona y altura; retrasa la decisión de
+  tiro y no chutes siempre al centro.
 
-- Q: Shots keep getting saved.
+- **P: El portero adivina todos mis disparos.**  
+  **R:** Cambia el ángulo de carrera y añade pequeñas pausas antes del golpeo
+  para romper sus lecturas.
 
-A: Vary height and delay aim; avoid predictable mid‑goal strikes.
-
-- Q: Keeper guesses me every time.
-
-A: Change run‑up angles and add a brief pause before contact.
-
-- Q: Best keeper tip?
-
-A: Watch the last two steps — hips often telegraph shot side.
-
+- **P: Algún consejo clave para parar más balones?**  
+  **R:** Observa los dos últimos pasos del lanzador: la posición de las caderas
+  suele delatar el lado del disparo.

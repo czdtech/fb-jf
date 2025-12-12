@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: word-wipe
-title: '[DE] Word Wipe'
-description: >-
-  [DE] Clear the board with your vocabulary in Word Wipe, a fast-paced and
-  addictive word puzzle game! Connect letters horizontally, vertically, or
-  diagonally to form words. Watch them disappear and new letters fall as you
-  race against the clock to clear rows and achieve a high score.
+title: "Word Wipe"
+description: "Räume in Word Wipe das Spielfeld mit deinem Wortschatz: Verbinde Buchstaben in alle Richtungen zu Wörtern, lass sie verschwinden und cleare Zeilen, bevor die Zeit abläuft." 
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/word-wipe.jpg
 tags:
@@ -17,36 +13,30 @@ score: 4.8/5  (1384 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Word Wipe ist ein dynamisches Wortpuzzle, das Wortsuche mit einem „fallende Blöcke“-Gefühl kombiniert. Du bekommst ein Raster aus Buchstaben und musst daraus schnell möglichst viele Wörter bilden. Gefundene Buchstaben verschwinden, neue fallen von oben nach – so bleibt das Spielfeld ständig in Bewegung.
 
-### Game Introduction
+### Spielanleitung
 
-Word Wipe is a dynamic and engaging word puzzle game that combines elements of word-finding with a falling-block mechanic. Players are presented with a grid of letters and must quickly find and connect letters to form words. Once a word is formed, the letters disappear, and new letters fall from above, creating a continuous and fast-paced challenge.
+- **Ziel:** Bilden von Wörtern, um Zeilen zu leeren und Levelziele zu erreichen. Meist musst du innerhalb eines Zeitlimits eine bestimmte Anzahl Reihen entfernen.
+- **Wörter bilden:** Verbinde benachbarte Buchstaben waagerecht, senkrecht oder diagonal zu Wörtern mit mindestens drei Buchstaben.
+- **Reihen räumen:** Verschwinden Buchstaben, rutschen die darüberliegenden nach unten. Komplette Reihen zu leeren ist oft die Kernaufgabe.
+- **Zeitdruck:** Eine Uhr läuft mit – schnelles Finden von Wörtern ist entscheidend.
+- **Punkte:** Längere und seltene Wörter bringen mehr Punkte, Tempo wird zusätzlich belohnt.
+- **Bomben & Power‑ups:** Durch gutes Spiel verdienst du Bomben, die mehrere Felder auf einmal sprengen und dir in engen Situationen helfen.
 
-### Gameplay Guide
+### Steuerung
 
-- **Objective:** Form words to clear lines and progress through levels. The goal is to clear a certain number of rows within a time limit.
-- **Word Formation:** Connect letters horizontally, vertically, or diagonally to spell words of three letters or more.
-- **Clearing Lines:** When a word is formed, the letters are removed, and the tiles above them drop down. Clearing entire rows is often a key objective.
-- **Time Limit:** The game is played against a clock, adding an element of urgency.
-- **Scoring:** Longer and more complex words yield higher scores. Speed also contributes to your score.
-- **Bonus Bombs:** Earn special "bombs" that can clear multiple tiles at once, helping you out of tight spots.
+- **Maus/Touch:** Klicke und ziehe (oder wische) über zusammenhängende Buchstaben, um ein Wort zu markieren und einzureichen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- **Mouse/Touch:** Click and drag (or swipe) across adjacent letters to form words.
+**Wie gewinne ich ein Level?**  
+In der Regel, indem du innerhalb der vorgegebenen Zeit genug Reihen durch gebildete Wörter abräumst.
 
-### Frequently Asked Questions (FAQ)
+**Was passiert, wenn die Zeit abläuft?**  
+Schaffst du die geforderte Anzahl an Reihen nicht rechtzeitig, ist das Level verloren.
 
-**How do I win in Word Wipe?**
-
-To win a level, you typically need to clear a specific number of rows by forming words within the given time limit. The overall goal is to achieve the highest score.
-
-**What happens if I run out of time?**
-
-If you fail to clear the required number of rows before the timer runs out, the game ends.
-
-**Are there any strategies for high scores?**
-
-Focus on finding longer words and clearing full rows. Try to create chain reactions where clearing one word leads to new opportunities. Use bonus bombs strategically when you're stuck or need to clear a large area.
-
+**Tipps für hohe Punktzahlen?**  
+Suche nach längeren Wörtern, versuche ganze Reihen gezielt zu leeren und nutze Bomben, um große Bereiche auf einmal frei zu machen – so entstehen neue Wortchancen in Kettenreaktionen.

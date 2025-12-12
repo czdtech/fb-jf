@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: mega-prize-scratch
-title: '[ZH TRANSLATION NEEDED] Mega Prize Scratch'
+title: "《Mega Prize Scratch》大奖刮刮卡"
 description: >-
-  [ZH TRANSLATION NEEDED] Mega Prize Scratch is a casual scratch‑card — reveal
-  panels, match symbols, and set session limits to keep it fun.
+  《Mega Prize Scratch》是一款轻松休闲的刮刮卡模拟游戏，通过刮开涂层揭示符号、匹配中奖图案，并在自定预算范围内享受揭晓瞬间的乐趣。
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/mega-prize-scratch.png
 tags:
@@ -14,32 +13,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Mega Prize Scratch simulates a scratch ticket: recover hidden symbols, match patterns, and trigger bonus rounds. Each card is independent; treat the game as light entertainment rather than a strategy challenge.
+《Mega Prize Scratch》将现实生活中的刮刮乐彩票体验搬到了屏幕上。每一张虚拟刮刮卡都隐藏着符号或数字，你需要通过“刮开”涂层来查看结果：如果出现指定数量的相同符号，或者凑齐特定图案，就能触发奖励或小游戏。每张卡的结果都是独立的，没有所谓的“必胜策略”，更适合当作轻量级的解压互动，而非硬核策略挑战。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Budget: Set a small session budget and stick to it.
-2.  [ZH TRANSLATION NEEDED] Pace: Scratch slowly to enjoy reveals; rushing doesn’t change outcomes.
-3.  [ZH TRANSLATION NEEDED] Bonus awareness: Read rules so you know which symbols unlock features.
-4.  [ZH TRANSLATION NEEDED] Stop rules: Quit on win targets or when the budget ends.
-5.  [ZH TRANSLATION NEEDED] Breaks: Step away periodically to avoid impulse spending.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **设置预算：** 在开始游戏前，给自己定一个小的娱乐预算或回合数，并严格遵守，把它当成一段短暂的休闲时间，而不是无限循环的投注。
+2.  **慢慢刮开享受过程：** 刮开速度快慢并不会影响中奖结果，不妨放慢节奏，一块一块慢慢揭晓隐藏的符号，享受期待与惊喜的过程。
+3.  **熟悉奖励规则：** 先阅读游戏内的说明，弄清楚哪些符号组合可以触发奖金或特殊轮次，例如连续三个相同图标、Bonus 图案等，以免错过关键信息。
+4.  **制定“止盈止损”规则：** 提前约定好：赢到多少就收手、输到多少就暂停。达成条件后果断退出当前游玩轮次，避免情绪驱动的追玩。
+5.  **适当休息：** 长时间连续刮卡容易让人失去判断，建议玩一段时间就暂时离开屏幕，休息一下再决定是否继续。
 
-- Drag to scratch; press buttons to reveal all, buy new cards, or enter bonuses.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 使用鼠标或手指在刮刮卡表面拖动，即可逐渐刮开覆盖层；也可以点击“全部揭晓”等按钮一次性显示所有结果。完成一张卡后，通过按钮购买新卡或进入触发的额外小游戏与奖励轮次。
 
-- Q: Can I influence results?
+### 常见问题（FAQ）
+
+- **问：我能影响刮卡的结果吗？**
   
-[ZH TRANSLATION NEEDED]   A: No — outcomes are random; focus on pacing and budgeting.
+  **答：** 不能。每张卡的中奖与否由游戏的随机机制决定，你能做的就是控制自己的节奏与预算，把它当作纯娱乐体验。
 
-- Q: What bet size is best?
+- **问：应该选择多大的投注额度或卡价？**
   
-[ZH TRANSLATION NEEDED]   A: Small, consistent bets extend playtime.
+  **答：** 建议选择较小、固定的金额或卡价，延长总体游玩时间，同时避免一次性投入过大，保持轻松心态。
 
-- Q: Do bonuses improve odds?
+- **问：奖励局会改变长期胜率吗？**
   
-[ZH TRANSLATION NEEDED]   A: They change volatility more than long‑term expectation.
-
+  **答：** 奖励局通常会提高短期波动性，比如一次性给出更大的单次奖励或更多“免费刮卡”，但并不会从根本上改变长期期望值。更好的做法是，把这些奖励视作额外小惊喜，而不是稳赚筹码。

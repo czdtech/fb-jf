@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: getting-over-it
-title: '[ZH TRANSLATION NEEDED] Getting over it'
+title: "Getting Over It 鍋裡老哥攀登記"
 description: >-
-  [ZH TRANSLATION NEEDED] Climb‑with‑a‑hammer challenge: swing, pogo, and drag a
-  cauldron man up surreal obstacles; precision physics punish impatience.
+  錘子攀爬地獄：只靠一把錘子揮動、撐跳與勾掛，把鍋裡大叔一路拽上
+  各種超現實地形；高精度物理會無情懲罰任何一點急躁。
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/getting-over-it.jpg
 tags:
@@ -17,26 +17,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Getting Over It is a precision physics climb where you control only a hammer. By swinging, pogoing, and hooking the hammer, you haul a man in a cauldron up cliffs, towers, and precarious ledges. The design embraces loss: a small mistake can drop you back minutes—or hours—forcing you to rebuild progress. Mastery comes from learning anchor spots, momentum arcs, and gentle mouse angles rather than brute force.
+
+《Getting Over It》是一款極度講究手感與物理的攀爬遊戲，你只能操控一把大錘。
+透過揮動、撐跳（pogo）與勾住邊緣，你得把坐在鐵鍋裡的大叔一步步「敲」上陡峭懸崖、塔樓與
+各種離奇結構。遊戲的設計核心是「失去進度」：一點點操作失誤，都可能讓你從高處一路掉回起點，
+損失數分鐘甚至數小時的努力。真正的進步，來自於熟悉每個錘子落點、掌握慣性弧線，
+以及控制滑鼠角度的細膩度，而不是盲目亂甩。
 
 ### How to Play
-- Plant the hammer on stable edges before pushing; quick flicks create pogo launches.
-- Chain swings to convert horizontal motion into vertical lift.
-- After falls, reset your rhythm—rushing causes repeat mistakes.
+
+- 先把錘子穩穩「插」在可靠的邊緣上，再發力推動角色；短促快速的甩動可以做出撐跳（pogo）效果，
+  讓角色像彈簧一樣向上彈。
+- 利用連續擺盪，把水平位移轉成向上的高度，形成一連串優雅的「弧線攀爬」。
+- 每次摔落之後，先讓自己冷靜下來，重建節奏與手感；越急著追回進度，越容易重複犯同樣的錯。
 
 ### Controls
-- Mouse controls hammer angle and force; minimal keyboard use (host dependent).
+
+- 滑鼠控制錘子的角度與施力方向，移動速度越快，施加的力量越大；
+- 鍵盤通常只在少數功能上使用（視託管版本而定）。
 
 ### Tips
-- Use gentle circular motions for controlled swings; avoid jerky inputs.
-- Identify safe anchor “pockets” before committing to big moves.
-- Practice notorious sections (Devil’s Chimney, Orange, Towers) until muscle memory forms.
+
+- 以柔和的圓弧滑動滑鼠來完成可控的擺盪，避免僵硬、急躁的猛拉，這會讓錘子失去穩定落點。
+- 在每一個「難點」之前，先找到可用來暫時立足的安全錨點，確認可以站穩再嘗試大動作。
+- 對於惡名昭彰的區段（例如 Devil’s Chimney、橘子、塔樓等），
+  最好反覆練習到形成肌肉記憶，之後失誤時會更快回到節奏。
 
 ### FAQ
-- Q: How do I stop sliding off edges?  
-[ZH TRANSLATION NEEDED]   A: Keep the hammer slightly below the lip to maintain friction and stability.
-- Q: What is the fastest way past the early chimney?  
-[ZH TRANSLATION NEEDED]   A: Small pogo hops with controlled angles are safer than risky full launches.
-- Q: Can I lose all progress with one mistake?  
-[ZH TRANSLATION NEEDED]   A: Yes, large falls are part of the design; patience is the core skill.
 
+- 問：怎麼避免老是從邊緣滑下去？  
+  答：讓錘頭略微「掛」在邊緣下方，而不是剛好在最頂端，這樣摩擦力與穩定性會更高，不容易打滑。
+
+- 問：早期煙囪那段有沒有比較穩的方法？  
+  答：以小幅度的撐跳配合精準角度，一步步往上，比一次性大跳賭運氣安全得多。
+
+- 問：真的有可能一失誤就掉回超前面嗎？  
+  答：是的，巨幅退步正是這款遊戲設計的一部分。如何在崩潰邊緣保持耐心與專注，
+  本身就是遊戲想磨練你的核心技能。

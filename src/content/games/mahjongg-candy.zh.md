@@ -1,13 +1,9 @@
 ---
 locale: zh
 urlstr: mahjongg-candy
-title: '[ZH TRANSLATION NEEDED] Mahjongg Candy'
+title: "《Mahjongg Candy》糖果主题麻将连连看"
 description: >-
-  [ZH TRANSLATION NEEDED] Indulge your sweet tooth and sharpen your mind with
-  Mahjongg Candy! This delightful tile-matching puzzle game challenges you to
-  clear the board by finding identical pairs of candy tiles. Strategize your
-  moves, clear unblocked tiles, and race against the clock to achieve a high
-  score in this colorful brain-teaser.
+  《Mahjongg Candy》是一款糖果主题的麻将连连看益智游戏，你需要在限定时间内找出并消除一对对相同的糖果牌，通过规划每一步落子来清空牌面、冲击高分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/mahjongg-candy.jpg
 tags:
@@ -18,33 +14,32 @@ score: 4.8/5  (1096 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Mahjongg Candy is a sweet and engaging tile-matching puzzle game that puts a colorful, candy-themed spin on the classic Mahjongg Solitaire. The objective is to clear the entire board by finding and matching identical pairs of candy tiles. It's a game that tests your observation skills, pattern recognition, and strategic thinking.
+《Mahjongg Candy》是在经典麻将连连看的基础上加入糖果元素的一款休闲消除游戏。棋盘上的每一张牌都变成了色彩鲜艳的糖果图案，你需要在复杂的堆叠布局中，找出可消除的两两相同糖果牌对，将它们成对移除。简单易懂的规则背后，是对观察力、图案识别能力和策略规划能力的全面考验。
 
-### Gameplay Guide
+### 玩法指南
 
-- **Matching Pairs:** Click or tap on two identical candy tiles to remove them from the board.
-- **Unblocked Tiles:** Only tiles that are "unblocked" can be matched. An unblocked tile must have at least one free side (left or right) and no other tile on top of it.
-- **Time Limit:** Most versions of the game have a time limit, so you need to think and act quickly.
-- **Strategy:** Look for matches that will free up more tiles, especially those that are blocking other tiles. Don't just match the first pair you see.
-- **Scoring:** Longer chains of matches or faster completion often lead to higher scores. Some tiles might offer score multipliers.
+- **配对消除：** 点击或轻触两张完全相同的糖果牌，它们会从棋盘上被一起消除。
+- **“可操作”牌：** 只有处于“未被堵住”状态的牌才能被选中配对。具体来说，牌的左侧或右侧至少有一边是空出来的，且上方没有其他牌压在它上面。
+- **时间限制：** 多数版本都会设置关卡时间或倒计时，你需要在时间耗尽之前完成尽可能多的配对，甚至清空牌面。
+- **策略思考：** 优先消除那些能释放更多牌面的组合，例如压在高层或横向延伸较长的一排牌，不要只看到眼前第一对就随手消掉。
+- **得分机制：** 连续快速消除、连锁式解放大块区域通常可以获得更高分数，有些版本还会为特定牌型或连击提供额外加成。
 
-### Controls Guide
+### 操作说明
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+- **鼠标 / 触屏：** 使用鼠标点击，或在移动设备上用手指轻触两张想要配对的糖果牌，即可完成选择和消除。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] **What is the goal of Mahjongg Candy?**
+**问：玩《Mahjongg Candy》的目标是什么？**
 
-[ZH TRANSLATION NEEDED] The main goal is to clear all the candy tiles from the board by matching identical, unblocked pairs.
+答：核心目标是通过配对并消除所有“未被堵住”的糖果牌，将棋盘完全清空；在有时间限制的模式下，还要尽可能在计时结束前完成关卡并拿到高分。
 
-[ZH TRANSLATION NEEDED] **What happens if I get stuck?**
+**问：如果实在找不到可以消除的牌对怎么办？**
 
-[ZH TRANSLATION NEEDED] Many Mahjongg games offer hints that can reveal a possible match, or a shuffle option to rearrange the remaining tiles if no moves are available. Using these might incur a score penalty.
+答：很多麻将类游戏都会提供“提示”（Hint）或“洗牌”（Shuffle）功能：提示可以高亮一组可配对的牌，而洗牌会重新打乱剩余牌的排列，让你获得新的解题机会。不过使用这些功能可能会影响最终得分。
 
-[ZH TRANSLATION NEEDED] **How can I improve my game?**
+**问：怎样提高自己的游戏水平？**
 
-[ZH TRANSLATION NEEDED] Practice recognizing patterns and planning your moves several steps ahead. Prioritize clearing tiles that are blocking many other tiles. Try to create cascades of matches.
-
+答：多练习识别常见图案组合，培养“先看整体再动手”的习惯，优先消除阻挡大量牌的关键卡点，并尽量提前规划几步连贯的操作。熟悉关卡布局后，你也可以尝试在保证通关的前提下追求更快更高效的路线。

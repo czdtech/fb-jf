@@ -1,48 +1,42 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Snake"
+description: "不朽のクラシック、Snakeをプレイしよう。常に動き続けるラインを操作し、食べ物を食べて長く成長し、壁や自分の尾との衝突を避けよう。シンプルでありながらチャレンジングなこのアーケードゲームで反射神経と計画力を試そう。"
+iframeSrc: "https://www.googlesnake.com/snakem.php"
+thumbnail: "/new-images/snake.jpg"
+urlstr: "snake"
+score: "4.1/5  (242 votes)"
+tags: ["classic", "arcade", "skill"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: snake
-title: '[JA TRANSLATION NEEDED] Snake'
-description: >-
-  [JA TRANSLATION NEEDED] Play the timeless classic, Snake. Control a
-  continuously moving line, consume food to grow longer, and avoid colliding
-  with walls or your own tail. Test your reflexes and planning in this simple
-  yet challenging arcade game.
-iframeSrc: 'https://www.googlesnake.com/snakem.php'
-thumbnail: /new-images/snake.jpg
-tags:
-  - classic
-  - arcade
-  - skill
-score: 4.1/5  (242 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Snake is a classic arcade game where the player controls a single line that grows in length. The objective is to eat food items that appear on the screen, making the snake longer with each item consumed. It's a game of skill and foresight, as the primary challenge is to avoid colliding with the outer walls or the snake's own ever-growing body.
+Snakeは、プレイヤーが長さが増していく1本のラインを操作するクラシックアーケードゲームです。目標は画面上に現れる食べ物を食べることで、消費するたびにスネークが長くなります。これはスキルと先見性のゲームであり、主な課題は外壁やスネーク自身の成長し続ける体との衝突を避けることです。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The core mechanic is simple: guide the snake to eat the food. As the snake eats, it gets longer, and often, its speed increases, making navigation progressively harder. The game ends when the snake hits an obstacle. Your goal is to achieve the highest score possible by eating as much food as you can before a collision occurs.
+コアメカニクスはシンプルです：スネークを誘導して食べ物を食べましょう。スネークが食べるにつれて長くなり、多くの場合スピードも上がるため、ナビゲーションは次第に難しくなります。スネークが障害物に当たるとゲームオーバーです。衝突が起こる前にできるだけ多くの食べ物を食べて、可能な限り高いスコアを達成することが目標です。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] The controls are typically straightforward:
-- **Arrow Keys:** Use the Up, Down,Left, and Right arrow keys to direct the snake.
-- **WASD Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
-- **Pause:** The `Spacebar` can often be used to pause and resume the game.
+操作は通常簡単です：
+- **矢印キー：** 上、下、左、右の矢印キーを使ってスネークを誘導します。
+- **WASDキー：** 多くのバージョンでは、移動の代替として`W`、`A`、`S`、`D`もサポートしています。
+- **一時停止：** `スペースバー`でゲームを一時停止および再開できることが多いです。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What is the main objective of Snake?**
+**Snakeの主な目標は何ですか？**
 
-[JA TRANSLATION NEEDED] The goal is to get the highest score by eating food and growing your snake as long as possible without crashing.
+目標は、食べ物を食べてスネークをできるだけ長く成長させ、クラッシュせずに最高スコアを獲得することです。
 
-[JA TRANSLATION NEEDED] **What's a good strategy for a high score?**
+**高スコアのための良い戦略は何ですか？**
 
-[JA TRANSLATION NEEDED] A common strategy is to keep the snake moving along the edges of the screen, creating a predictable path. Another is to use a tight zig-zag pattern to keep the snake's body compact and manageable. Always try to plan your moves ahead of time.
+一般的な戦略は、スネークを画面の端に沿って動かし、予測可能な経路を作ることです。もう1つは、タイトなジグザグパターンを使用してスネークの体をコンパクトで管理しやすく保つことです。常に先を見越して動きを計画しましょう。
 
-[JA TRANSLATION NEEDED] **Where did the Snake game come from?**
+**Snakeゲームはどこから来たのですか？**
 
-[JA TRANSLATION NEEDED] The concept originated with the 1976 arcade game "Blockade," but it became immensely popular after being included on Nokia mobile phones in 1998.
-
+このコンセプトは1976年のアーケードゲーム「Blockade」に由来しますが、1998年にNokia携帯電話に搭載されてから爆発的に人気になりました。

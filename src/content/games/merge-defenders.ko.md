@@ -1,11 +1,8 @@
 ---
 locale: ko
 urlstr: merge-defenders
-title: '[KO] Merge Defenders'
-description: >-
-  [KO] Defend your territory by merging and upgrading your units in Merge
-  Defenders! Combine identical defenders to create more powerful versions and
-  strategically place them to fend off waves of enemies.
+title: Merge Defenders 머지 디펜더스
+description: 'Merge Defenders는 동일한 유닛을 합쳐 업그레이드하고, 전략적으로 배치해 적의 물결을 막아 내는 머지 타워 디펜스 게임입니다.'
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
 thumbnail: /new-images/merge-defenders.png
 tags:
@@ -18,34 +15,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Merge Defenders*는 머지 퍼즐의 중독성과 타워 디펜스 액션을 결합한 게임입니다. 기본
+유닛을 구매해 그리드에 배치하고, 같은 레벨의 유닛 두 개를 합쳐 더 강력한 상위 레벨
+디펜더를 만든 뒤, 이들을 방어선 슬롯에 배치해 쉴 새 없이 밀려오는 적의 물결을 막아야
+합니다.
 
-Merge Defenders is an exciting and strategic game that blends the addictive nature of merge puzzles with the action-packed gameplay of tower defense. In this game, you must protect your base from relentless waves of enemies. You do this not just by placing towers, but by purchasing basic units, merging two identical units to create a more powerful, higher-level defender, and then strategically deploying them onto the battlefield.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **머지 사이클 이해하기:** 처음에는 레벨 1 유닛을 구매해 시작합니다. 레벨 1 유닛을
+   같은 레벨 1 유닛 위로 드래그하면 레벨 2 유닛이 되고, 같은 방식으로 계속 합쳐
+   상위 레벨 유닛을 만들 수 있습니다. 레벨이 올라갈수록 공격력과 공격 속도가 크게
+   상승합니다.
+2. **배치 전략:** 방어선에는 제한된 수의 슬롯만 있어, 가장 강력한 유닛을 우선적으로
+   배치해야 합니다. 적의 동선을 잘 관찰해, 코너처럼 공격 범위가 오래 유지되는 위치에
+   핵심 유닛을 두세요.
+3. **경제 관리:** 적을 처치할 때마다 코인을 얻습니다. 이 코인을 즉시 저레벨 유닛을
+   더 사는 데 쓸지, 나중에 등장할 특별 업그레이드를 위해 모아 둘지 계속 판단해야
+   합니다.
+4. **우선순위 머지:** 단순히 보드를 비우기 위해 아무 유닛이나 합치기보다, 실제로
+   배치할 핵심 유닛을 몇 기까지 끌어올릴지 목표를 정하고 그 방향으로 머지를 집중하세요.
 
-1.  **[KO]** **The Merge Cycle:** The core of the game is the merge mechanic. You start by purchasing level 1 units. Drag a level 1 unit onto another level 1 unit to create a level 2 unit, and so on. Higher-level units have significantly better damage and firing rates.
-2.  **[KO]** **Deployment:** You have a limited number of slots on your defensive line. Drag your strongest defenders from your reserve grid onto these slots. They will automatically attack any enemies that come into range.
-3.  **[KO]** **Economy Management:** You earn coins for every enemy you defeat. You must constantly decide whether to spend your coins on more low-level units (to merge up) or to save them for special upgrades that might become available.
-4.  **[KO]** **Strategic Placement:** Don't just place your strongest unit anywhere. Observe the enemy path. Some slots might be more critical than others, such as at corners where units can cover the path for a longer duration. Place your most powerful defenders in these key positions.
+### 조작 방법
 
-### Controls Guide
+게임은 마우스 또는 터치로만 조작합니다.
 
-The game is controlled entirely with your mouse or finger.
+* **유닛 구매:** "Buy" 버튼을 눌러 기본 유닛을 구매하면, 예비 그리드에 새 유닛이
+  생성됩니다.
+* **유닛 머지:** 같은 레벨의 유닛을 드래그해 서로 겹치면 상위 레벨 유닛으로 합쳐집니다.
+* **유닛 배치:** 예비 그리드에서 방어선 슬롯으로 유닛을 드래그해 배치하면 자동으로
+  사거리 안의 적을 공격합니다.
 
-*   **[KO]** **Buy Unit:** Click the "Buy" button to purchase a new basic unit, which will appear on your reserve grid.
-*   **[KO]** **Merge Units:** Click and drag one unit and drop it onto an identical unit to merge them into a higher-level unit.
-*   **[KO]** **Deploy Unit:** Click and drag a unit from your reserve grid to an empty defensive slot on the battlefield.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 더 강한 디펜더는 어떻게 얻나요?**
+    - **A:** 같은 레벨 유닛 두 개를 합치면 다음 레벨 유닛 한 개가 됩니다. 예를 들어,
+    레벨 2 유닛 두 개를 합치면 레벨 3 유닛이 만들어집니다.
 
-*   **[KO]** **Q: How do I get stronger defenders?**
-    *   **[KO]** **A:** By merging. Combine two identical defenders to create one defender of the next level. For example, two Level 2 units merge into one Level 3 unit.
+* **Q: 왜 적 경로 위에는 유닛을 둘 수 없나요?**
+    - **A:** 유닛은 적이 지나가는 길이 아니라, 길 주변의 지정된 슬롯에만 배치할 수
+    있습니다. 그래야 경로를 따라 이동하는 적을 지속적으로 공격할 수 있습니다.
 
-*   **[KO]** **Q: Why can't I place my defender on the enemy path?**
-    *   **[KO]** **A:** You can only place your defensive units in the designated square slots along the path, not on the path itself where the enemies walk.
-
-*   **[KO]** **Q: I'm being overwhelmed by enemies. What should I do?**
-    *   **[KO]** **A:** Focus on merging your units to the highest possible level. A single high-level unit is often much more powerful than several low-level ones. Make sure all your available defensive slots are filled, and continuously buy and merge new units as you earn coins.
-
+* **Q: 적에게 밀려서 기지가 자꾸 파괴돼요. 어떻게 해야 하나요?**
+    - **A:** 다수의 저레벨 유닛보다는 소수의 고레벨 유닛이 훨씬 강력한 경우가 많습니다.
+    방어선 슬롯을 모두 채우고, 코인을 얻는 대로 유닛을 구매·머지해 레벨을 끌어올리세요.

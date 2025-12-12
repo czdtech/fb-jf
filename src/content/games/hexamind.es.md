@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: hexamind
-title: '[ES] HexaMind'
+title: "HexaMind"
 description: >-
-  [ES] HexaMind is a hex‑grid logic puzzler — place tiles, satisfy adjacency
-  rules, and manage parity across honeycomb layouts.
+  HexaMind es un puzle de lógica sobre una rejilla hexagonal: coloca fichas
+  cumpliendo reglas de adyacencia y gestiona paridades y sumas en diseños de
+  panal.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/hexamind.png
 tags:
@@ -15,35 +16,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+HexaMind se juega sobre una rejilla de hexágonos con reglas estrictas sobre qué
+puede tocarse: colores, números o símbolos deben respetar restricciones de
+adyacencia (por ejemplo, que no haya vecinos iguales o que las sumas a lo largo
+de ciertos ejes den un valor concreto). La geometría en seis direcciones
+permite deducciones muy ricas utilizando líneas en abanico y anillos alrededor
+de celdas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-HexaMind plays on a hexagonal grid with rules about what may touch: colors, numbers, or symbols must satisfy adjacency constraints (e.g., no equal neighbors, or sums along rays). The six‑direction geometry enables rich deductions through fan‑shaped lines and rings.
+1. **Zonas con más restricciones:** Empieza por las celdas con más vecinos o
+   reglas más estrictas; concentran más información.
+2. **Lógica de anillos:** Usa sumas o conteos de colores/símbolos alrededor de
+   una celda central para acotar candidatos.
+3. **Barridos por rayos:** Recorre las direcciones axiales en busca de
+   restricciones de paridad o de secuencias obligadas.
+4. **Semillas de contradicción:** Prueba un candidato en celdas muy
+   condicionadas y retrocede si provoca conflicto; es una forma controlada de
+   "adivinar".
+5. **Disciplina con el lápiz:** Mantén las anotaciones de candidatos limpias y
+   actualizadas para evitar caer en errores circulares.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Constraint hotspots: Start at cells with the most neighbors or strictest rules.
-2.  **[ES]** Ring logic: Use ring sums or color counts around a center to bound candidates.
-3.  **[ES]** Ray scans: Scan along axial directions for parity/sequence constraints.
-4.  **[ES]** Contradiction seeds: Try a candidate on a tight cell and backtrack on conflict.
-5.  **[ES]** Pencil rigor: Maintain clean candidate notes to avoid circular mistakes.
+- Toca o haz clic para colocar valores/colores, alternar modo lápiz y usar
+  deshacer/rehacer.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap to place values/colors; toggle pencil marks; undo/redo.
+- **P: Estoy atascado, ¿dónde debería mirar?**  
+  **R:** Revisa de nuevo las celdas con más vecinos y los totales de los
+  anillos; combina las restricciones de anillo y rayo para sacar nuevas
+  deducciones.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Es obligatorio adivinar?**  
+  **R:** Los buenos conjuntos suelen ser resolubles solo con lógica. Si tienes
+  que suponer, hazlo en profundidad mínima y de forma fácilmente reversible.
 
-- Q: I’m stuck — where to look?
-
-A: Revisit high‑degree nodes and ring totals; combine ring and ray constraints.
-
-- Q: Is guessing required?
-
-A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
-
-- Q: How is it different from square‑grid puzzles?
-
-A: Six neighbors create stronger ring/ray reasoning that square grids lack.
-
+- **P: ¿En qué se diferencia de los puzles en cuadrícula cuadrada?**  
+  **R:** Al tener seis vecinos por celda, los anillos y rayos ofrecen
+  restricciones más fuertes de las que permiten las rejillas cuadradas.

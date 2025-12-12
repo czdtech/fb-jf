@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: lollipop-world-match-3
-title: '[DE] Lollipop World : match 3'
+title: "Lollipop World : match 3"
 description: >-
-  [DE] Lollipop World: Match 3 is a candy puzzler — combine power‑ups, break
-  blockers, and meet scene goals within tight move limits.
+  Lollipop World: Match 3 ist ein süßes Bonbon-Puzzle: Kombiniere Power-ups,
+  räume Blocker aus dem Weg und erfülle die Dschungelziele innerhalb des
+  engen Zuglimits.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/lollipop-world-match-3.jpg
 tags:
@@ -16,35 +17,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Lollipop World ist ein farbenfrohes Match-3-Spiel voller Zuckerguss,
+Bonbonpapier und Schokolade als Blocker. Deine Levelziele reichen von
+Punktvorgaben über das Sammeln bestimmter Bonbons bis zum Beseitigen von
+Gelee-Feldern. Auf dicht befüllten Brettern sind Kombinationen aus
+Power-ups – etwa Bombe + Linie oder große Farb-Clears – entscheidend, um
+Platz zu schaffen und die Ziele rechtzeitig zu erreichen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Lollipop World is a colorful match‑3 with frosting, wrappers, and chocolate as blockers. Objectives range from score thresholds to collecting candies and clearing jelly. Power‑up merges (bomb+line, color clears) are essential on dense boards.
+1.  **Ziel vor Punkte stellen**  
+    Konzentriere dich zuerst auf Blocker und Sammelobjekte, statt nur auf hohe
+    Punktzahlen. Ein gewonnener Level bringt dir mehr als ein knapp verfehltes
+    Highscore.
 
-### Gameplay Strategy & Walkthrough
+2.  **Unten spielen**  
+    Matches in den unteren Reihen erzeugen Kettenreaktionen und räumen oft
+    Blocker in den oberen Bereichen automatisch mit weg.
 
-1.  **[DE]** Objective focus: Clear blockers/collectibles before chasing points.
-2.  **[DE]** Bottom play: Work low to create cascading clears.
-3.  **[DE]** Combo timing: Save strong merges for choke points.
-4.  **[DE]** Wall isolation: Avoid sealing colors along edges.
-5.  **[DE]** Move planning: Map 2–3 moves to preserve options.
+3.  **Kombos aufsparen**  
+    Heb dir starke Power-up-Kombinationen für Engpässe auf – etwa wenn nur noch
+    wenige Züge übrig sind oder viele Blocker eng beisammen liegen.
 
-### Controls Guide
+4.  **Farben nicht an der Wand einsperren**  
+    Vermeide Züge, die bestimmte Farben an den Bretträndern „festnageln“ und
+    sie später schwer erreichbar machen.
 
-- Drag to swap; tap power‑ups; pause/retry via UI.
+5.  **Züge vorausplanen**  
+    Plane ein bis zwei Züge im Voraus, damit du dir Optionen offen hältst und
+    nicht in ein Brett ohne sinnvolle Matches gerätst.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I hit move limits — what changes?
+- Ziehe zwei benachbarte Bonbons, um sie zu vertauschen.
+- Tippe auf Power-ups, um sie auszulösen (oder kombiniere sie direkt
+  miteinander).
+- Über die UI kannst du pausieren oder ein Level neu starten.
 
-A: Chain power‑ups and prioritize blockers that unlock space.
+### FAQ
 
-- Q: Best opener?
+- **F: Ich scheitere ständig am Zuglimit – was sollte ich ändern?**  
+  **A:** Nutze Power-ups häufiger in Kombination und räume Blocker, die große
+  Teile des Bretts freigeben. Reine Dreier-Kombos ohne Effekt auf das Levelziel
+  verbrauchen viele Züge.
 
-A: Bottom clears to trigger cascades.
+- **F: Was ist ein guter Startzug?**  
+  **A:** In vielen Leveln sind Züge am unteren Rand sinnvoll, weil sie
+  Kettenreaktionen auslösen und dir so zusätzliche Matches schenken.
 
-- Q: Are diagonals allowed?
-
-A: Typically no; check mode rules.
-
+- **F: Sind diagonale Matches erlaubt?**  
+  **A:** Normalerweise nicht – es zählen nur horizontale und vertikale Reihen.
+  Schau dir zur Sicherheit die Modusregeln im Spiel an.

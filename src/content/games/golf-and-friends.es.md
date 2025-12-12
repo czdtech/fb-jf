@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: golf-and-friends
-title: '[ES] Golf and Friends'
+title: Golf and Friends
 description: >-
-  [ES] Golf and Friends is a breezy mini‑golf — read slopes, bank shots, and
-  sync putts with friends for cozy sessions.
+  Golf and Friends es un relajado minigolf: lee las pendientes, aprovecha los
+  rebotes en paredes y encaja los putts con tus amigos para partidas muy
+  acogedoras.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/golf-and-friends.jpg
 tags:
@@ -16,36 +17,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+## Guía en español
 
-## English Guide
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Golf and Friends es una experiencia de minigolf casual con obstáculos
+divertidos, rampas y paredes pensadas para hacer tiros de rebote. La maestría está
+en controlar el ritmo del golpe y elegir bien los ángulos: los toques suaves
+cerca del hoyo evitan que la bola "bese" el borde y se salga, y los rebotes a
+45° hacen que las curvas cerradas sean mucho más consistentes. El multijugador
+convierte el recorrido en un pequeño juego de fiesta entre amigos.
 
-Golf and Friends is a casual mini‑golf experience with playful obstacles, ramps, and bank walls. Mastery revolves around pace control and angle selection — soft touches near cups prevent lip‑outs, and 45° bank lines make tight corners consistent. Multiplayer turns the course into a light party game.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1. **Ritmo cerca del hoyo:** Golpea ligeramente por debajo de la fuerza que
+   crees necesaria al llegar al borde para evitar que la bola se salga al rozar
+   el labio.
+2. **Geometría de rebotes:** Usa ángulos cercanos a 45° sobre las paredes para
+   redirigir la bola a carriles estrechos.
+3. **Timing de peligros:** Molinos de viento, puertas y otros obstáculos
+   móviles exigen observar un ciclo completo antes de tirar.
+4. **Plan de dos putts:** No fuerces golpes "heroicos" si el ángulo es malo;
+   deja una bola fácil para rematar a la siguiente.
+5. **Cámara:** Gira y haz zoom para previsualizar pendientes ocultas y zonas
+   ciegas.
 
-1.  **[ES]** Pace near cup: Under‑hit slightly at the rim to avoid lip‑outs.
-2.  **[ES]** Bank geometry: Use 45° lines off walls to redirect into narrow lanes.
-3.  **[ES]** Hazard timing: Windmills/gates need a full cycle watch.
-4.  **[ES]** Two‑putt planning: Don’t force hero shots; set up a gimme second.
-5.  **[ES]** Camera work: Pan/zoom to preview hidden slopes.
+### Guía de controles
 
-### Controls Guide
+- Apunta con el ratón, arrastra para fijar la potencia y suelta para ejecutar
+  el putt. Si te quedas atascado, suele haber opciones para reiniciar o
+  rendirse en el hoyo.
 
-- Aim with mouse; pull to set power; release to putt. Reset/forfeit if stuck.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Por qué mis putts se salen besando el borde?**  
+  **R:** Llevan demasiada fuerza o entran con un ángulo malo. Reduce la
+  velocidad cerca del hoyo y busca una entrada más frontal.
 
-- Q: Why do my putts rim out?
+- **P: ¿Algún consejo para los golpes con rebote en pared?**  
+  **R:** Apunta un poco por dentro de los 45° para compensar la pérdida de
+  velocidad al chocar.
 
-A: Too much pace or a poor entry angle; slow down near the cup.
-
-- Q: Best bank‑shot tip?
-
-A: Aim slightly inside 45° to account for speed loss.
-
-- Q: Multiplayer local?
-
-A: Often hot‑seat style; pass the device between turns.
-
+- **P: ¿Se puede jugar en multijugador local?**  
+  **R:** Sí, normalmente en formato hot‑seat: cada jugador tira por turnos en el
+  mismo dispositivo.

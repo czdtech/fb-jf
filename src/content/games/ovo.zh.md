@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: ovo
-title: '[ZH TRANSLATION NEEDED] OvO Game'
+title: "《OvO Game》极限火柴人跑酷"
 description: >-
-  [ZH TRANSLATION NEEDED] OvO Game is a fast-paced and challenging platformer
-  where players control a stickman character, using precise jumps, slides, and
-  wall jumps to navigate complex levels and reach the finish line as quickly as
-  possible.
+  《OvO Game》是一款节奏飞快的高难度平台跑酷游戏，你操控火柴人角色，通过精准的跳跃、滑铲与墙跳，在布满尖刺与机关的关卡中，以最快速度抵达终点。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
 thumbnail: /new-images/ovo.jpg
@@ -20,31 +17,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "OvO Game" is a fast-paced and extremely challenging platformer. Players control a stickman character, using precise jumps, slides, and wall jumps to navigate complex levels, aiming to reach the finish line as quickly as possible. The game is known for its high difficulty and fluid controls, testing players' reaction speed and operational precision.
+《OvO Game》是一款节奏极快、手感极爽的高难度平台跳跃游戏。你将操控一个动作干净利落的火柴人，通过各种跳跃、滑铲、二段跳与墙跳，在充满尖刺、陷阱与移动平台的关卡中一路冲刺。游戏以丝滑的操作手感和紧凑的关卡设计著称，对反应速度、节奏感和操作精度都是不小的考验。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Master Basic Moves**: Proficiently mastering basic moves like jumping, sliding, double-jumping, and wall-jumping is key to beating the levels.
-2.  **Observe Level Layout**: Before attempting, quickly scan the level to plan the general route and techniques to be used.
-3.  **Utilize Momentum**: When performing jumps and slides, leveraging the character's momentum can help you jump further or slide more smoothly.
-4.  **Practice Repeatedly**: Due to the high difficulty, many levels require repeated attempts to find the optimal way to pass.
-5.  **Find Shortcuts**: Some levels might have hidden shortcuts or more efficient ways to complete them; exploration can reveal these.
+1.  **先熟练基础动作：** 起跳、落地、滑铲、二段跳与墙跳是整套动作体系的核心，建议在前几个关卡刻意练习这些基础动作，让它们变成肌肉记忆。
+2.  **开局先观察路线：** 进入新关卡时，可以先用几次尝试观察整体结构，确认尖刺、弹板、滑坡与终点的位置，再决定最顺手的行进路线。
+3.  **利用动量加成：** 连续跑动与下坡滑行可以叠加速度，配合起跳和墙跳可以跳得更远或更高；善用惯性往往能解锁更刁钻的捷径。
+4.  **多练几次找节奏：** 由于难度较高，很多关卡需要多次尝试才能找到最合适的“节奏点”，一旦你找到了适合自己的节奏，整关会变得顺畅很多。
+5.  **探索隐藏捷径：** 某些关卡存在隐蔽的跳法或墙跳路线，可以大幅缩短用时；对于追求速通的玩家来说，探索这些捷径是游戏的另一层乐趣。
 
-### How to Play
+### 操作说明
 
-*   **Move**: Use left/right arrow keys or A/D keys to control character movement.
-*   **Jump**: Use the up arrow key or W key to jump. Pressing again in mid-air allows for a double jump.
-*   **Slide**: Use the down arrow key or S key to slide, which can be used to pass through narrow passages.
-*   **Wall Jump**: When the character is near a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
+*   **左右移动：** 通过左右方向键或 A/D 控制角色水平移动。
+*   **跳跃 / 二段跳：** 上方向键或 W 键进行跳跃，在空中再次按下可触发二段跳（视关卡设计而定）。
+*   **滑铲 / 下蹲：** 下方向键或 S 键进行滑铲，可用来通过低矮空间或调整落点节奏。
+*   **墙跳：** 当角色紧贴墙面时按下跳跃键可以进行墙跳，连续左右墙跳能够快速向上攀升。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What is the difficulty level of "OvO Game"?**
-     **A**: This game is known for its high difficulty, requiring high precision and reaction speed from players, which also makes it more challenging.
-2.  [ZH TRANSLATION NEEDED] **Q: Is there a time limit in the game?**
-     **A**: The objective of the game is to complete levels as quickly as possible, so a timer is a core element, allowing players to challenge their fastest records.
-3.  [ZH TRANSLATION NEEDED] **Q: How do I unlock new characters or skins?**
-     **A**: New characters or skins are usually unlocked by completing specific levels, achieving certain scores, or collecting hidden items.
-4.  [ZH TRANSLATION NEEDED] **Q: On which platforms can the game be played?**
-     **A**: "OvO Game" can typically be played directly in web browsers, and some versions may also support mobile devices.
+### 常见问题
+
+1.  **问：《OvO Game》的整体难度如何？**
+    **答：** 本作以高难度著称，许多关卡对操作容错极低，需要玩家具备较好的反应与空间判断能力，也正因如此，通关后会有很强的成就感。
+2.  **问：游戏是否有时间限制？**
+    **答：** 每关通常都会记录通关时间，玩家可以反复挑战同一关卡，尝试刷新自己的最佳成绩，甚至与其他玩家比拼速通纪录。
+3.  **问：如何解锁新的角色或皮肤？**
+    **答：** 通常需要完成特定关卡、达成一定成绩或收集隐藏要素，才能解锁额外的外观或角色，具体条件以游戏版本为准。
+4.  **问：支持哪些平台游玩？**
+    **答：** 《OvO Game》一般可以直接在浏览器中游玩，部分版本也对移动端做了适配，方便你随时随地用碎片时间挑战几关。

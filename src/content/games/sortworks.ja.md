@@ -1,70 +1,43 @@
 ---
+title: "SortWorks"
+description: "SortWorksは、クリーンなソート＆スタックパズラー — ルールに従ってアイテムを整理し、バッファを計画し、高まるプレッシャーの下でデッドロックを避けよう。"
+iframeSrc: "https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/"
+thumbnail: "/new-images/sortworks.png"
+urlstr: "sortworks"
+score: "4.0/5  (1889 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: sortworks
-title: '[JA TRANSLATION NEEDED] SortWorks'
-description: >-
-  [JA TRANSLATION NEEDED] SortWorks is a clean sort‑and‑stack puzzler — organize
-  items by rules, plan buffers, and avoid deadlocks under rising pressure.
-iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
-thumbnail: /new-images/sortworks.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.0/5  (1889 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 詳細なゲーム紹介
 
-[JA TRANSLATION NEEDED] SortWorks blends visual sorting with bin constraints (color/shape/type). Items arrive on belts; you must route them to correct bins, using buffer slots to prevent jams. Late boards raise speed and add tricky categories.
+SortWorksは、ビジュアルソートとビン制約（色/形状/タイプ）を融合させたゲームです。アイテムがベルト上に到着し、バッファスロットを使用して詰まりを防ぎながら、正しいビンに誘導する必要があります。後半のボードはスピードを上げ、トリッキーなカテゴリーを追加します。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイ戦略とウォークスルー
 
-[JA TRANSLATION NEEDED] 1.  Rule hierarchy: Apply critical rules first (e.g., hazard vs non‑hazard) then fine categories.
-[JA TRANSLATION NEEDED] 2.  Buffer discipline: Keep at least one buffer slot free at all times.
-[JA TRANSLATION NEEDED] 3.  Batch easy items: Chain streaks on simple categories to maintain multipliers.
-[JA TRANSLATION NEEDED] 4.  Error cost: Skip uncertain items rather than mis‑sort.
-[JA TRANSLATION NEEDED] 5.  Eye flow: Scan ahead of the belt; don’t tunnel on the nearest item.
+1.  ルールの階層：最初に重要なルール（例：危険物対非危険物）を適用し、次に細かいカテゴリーを適用。
+2.  バッファ規律：常に少なくとも1つのバッファスロットを空けておく。
+3.  簡単なアイテムをバッチ処理：シンプルなカテゴリーで連鎖を作り、マルチプライヤーを維持。
+4.  エラーコスト：不確実なアイテムは誤ってソートするよりもスキップする。
+5.  視線の流れ：ベルトの先を見る；最も近いアイテムにトンネルビジョンしない。
 
-### Controls Guide
+### 操作ガイド
 
-- Drag/tap items to bins; pause/retry via UI; hints may highlight targets.
+- アイテムをドラッグ/タップしてビンに；UIで一時停止/再試行；ヒントがターゲットをハイライトする場合があります。
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I jam belts.
-  
-[JA TRANSLATION NEEDED]   A: You’re consuming buffers; clear an easy batch to reopen space before tackling hard items.
-
-- Q: Similar icons confuse me.
-  
-[JA TRANSLATION NEEDED]   A: Learn 2–3 anchor features per category (shape/edge/color) and sort by those first.
-
-- Q: Do streaks matter?
-  
-
-
-
-
-
-- Q: I jam belts.
 ### よくある質問（FAQ）
-- Drag/tap items to bins; pause/retry via UI; hints may highlight targets.
-### コントロールガイド
-- Eye flow: Scan ahead of the belt; don’t tunnel on the nearest item.
-[JA TRANSLATION NEEDED]   A: Yes — streaks boost scores; feed them with easy items.
 
+- Q: ベルトが詰まる。
+  
+  A: バッファを消費している；ハードアイテムに取り組む前に、簡単なバッチをクリアしてスペースを再開放する。
 
+- Q: 似たようなアイコンが混乱する。
+  
+  A: カテゴリーごとに2〜3のアンカー特徴（形状/エッジ/色）を学び、まずそれらでソートする。
 
-
-
-
-A: Yes — streaks boost scores; feed them with easy items.
-- Q: Do streaks matter?
-A: Learn 2–3 anchor features per category (shape/edge/color) and sort by those first.
-- Q: Similar icons confuse me.
-
-
-A: Yes — streaks boost scores; feed them with easy items.
+- Q: 連鎖は重要ですか？
+  
+  A: はい — 連鎖はスコアをブーストする；簡単なアイテムで維持する。

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: sudoku-plus
-title: '[ZH TRANSLATION NEEDED] Sudoku Plus'
+title: 《Sudoku Plus》进阶数独
 description: >-
-  [ZH TRANSLATION NEEDED] A feature-rich Sudoku experience. Enjoy the classic
-  logic puzzle with helpful tools like hints, notes, and error checking to
-  challenge your brain.
+  《Sudoku Plus》是一款功能完善的数独游戏。在经典 9×9
+  逻辑填数玩法基础上，提供提示、草稿标记和错误检查等辅助工具，既适合入门新手，也适合进阶玩家打磨思路。
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/sudoku-plus.jpg
 tags:
@@ -17,32 +16,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Sudoku Plus offers a premium experience for the timeless logic-based, number-placement puzzle. The goal is to fill a 9x9 grid so that each column, each row, and each of the nine 3x3 subgrids contain all of the digits from 1 to 9. This version is packed with helpful features like hints, a notes mode, and error checking, making it perfect for both beginners learning the ropes and advanced players looking for a smooth and polished interface.
+《Sudoku Plus》提供了舒适的数独解题体验。基本规则沿用经典 9×9 数独：将数字填入网格，使每一行、每一列以及每个 3×3 宫格都恰好包含 1–9 这九个数字且不重复。本作加入了便捷的记笔记模式、提示功能和错误检查选项，让刚接触数独的玩家更容易上手，也方便老玩家在较难题型中快速定位问题。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Golden Rule:** The core of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box. No repetition is allowed in any of these areas.
-2.  [ZH TRANSLATION NEEDED] **Cross-hatching:** The fundamental solving technique. For an empty cell, scan its corresponding row, column, and 3x3 box to see which numbers are already present. By eliminating these, you can deduce which numbers are possible candidates for the cell.
-3.  [ZH TRANSLATION NEEDED] **Use the Notes Feature:** For more complex puzzles, the "Notes" or "Pencil" mode is essential. Use it to mark down all possible candidates for an empty cell. As you solve other cells, you can update your notes, eventually narrowing down the possibilities to a single correct number.
-4.  [ZH TRANSLATION NEEDED] **Find Singles:** Look for cells where only one number is possible (a "Naked Single"). Also, look for instances where a specific number can only go in one possible cell within a row, column, or box (a "Hidden Single").
+### 解题策略与技巧
 
-### Controls Guide
+1.  **黄金法则：** 每一行、每一列和每个 3×3 宫格里，数字 1–9 只能各出现一次。这是整个数独的逻辑基础。
+2.  **交叉排除（cross‑hatching）：** 对于一个空格，先看它所在的行、列和 3×3 宫格中已经出现了哪些数字，将这些数字排除后，剩下的就是该格可能的候选数。
+3.  **善用“笔记”模式：** 在难度较高的题目中，使用草稿/笔记功能把所有可能的候选数写在格子里。随着其它格子被确定，你可以逐步删减候选，只保留唯一合法数字。
+4.  **寻找“单一解”：** 注意两种“单”的情况：一是某个格子只剩一个候选数（裸单 Naked Single），二是某个数字在某行/某列/某宫格中只可能出现在一个格子里（隐单 Hidden Single）。这两类都是强力突破口。
 
-*   **Select a Cell:** Click on any empty cell in the grid.
-*   **Enter a Number:** After selecting a cell, click a number on the on-screen keypad to place it.
-*   **Toggle Notes Mode:** Use the dedicated "Notes" or "Pencil" button to switch between entering final answers and entering small candidate numbers.
-*   **Erase:** Use the eraser tool to clear a cell.
-*   **Hint:** Click the hint button to reveal the correct number for a single cell.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **选格：** 点击任意空格选中该格；
+*   **输入数字：** 选中格子后，通过屏幕上的数字键盘或键盘数字键输入候选答案；
+*   **切换笔记模式：** 点击“Notes/笔记”按钮，在正式填数与填写小号候选之间切换；
+*   **擦除：** 使用橡皮工具清除当前格内容；
+*   **提示：** 点击提示按钮可为当前局面填入一个正确数字（通常会影响评分或统计）。
 
-*   **Q: Do I need to be good at math?**
-     *   **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
-
-*   **Q: What does the "Notes" feature do?**
-     *   **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
-
-*   **Q: Will the game tell me if I make a mistake?**
-     *   **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
-
+### 常见问题解答（FAQ）
+*   **问：玩数独需要很强的数学基础吗？****
+    *   答：** 不需要。数独本质是逻辑推理与模式识别游戏，与复杂运算无关。
+*   **问：“笔记模式”有什么用？****
+    *   答：** 它允许你在格子里先以小字体记录多个候选数，方便系统性推理，是解决中高难度题目的关键工具之一。
+*   **问：如果填错了，游戏会提示吗？****
+    *   答：** 大多数现代数独游戏（包括《Sudoku Plus》）都提供错误检查功能，一旦某行、列或宫格出现重复数字，界面会高亮提示，帮助你及时修正。

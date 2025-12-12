@@ -1,69 +1,39 @@
 ---
+title: "Ladybug Jump"
+description: "Ladybug Jumpは陽気なホッププラットフォーマーです。ジャンプのタイミングを合わせ、移動する葉に乗り、障害物を避けながら蜜を収集します。"
+iframeSrc: "https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/"
+thumbnail: "/new-images/ladybug-jump.png"
+urlstr: "ladybug-jump"
+score: "3.8/5  (1629 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: ladybug-jump
-title: '[JA TRANSLATION NEEDED] Ladybug Jump'
-description: >-
-  [JA TRANSLATION NEEDED] Ladybug Jump is a cheerful hop‑platformer — time
-  jumps, ride moving leaves, and collect nectar while avoiding hazards.
-iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
-thumbnail: /new-images/ladybug-jump.png
-tags:
-  - action
-  - casual
-score: 3.8/5  (1629 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Ladybug Jumpは軽い、家族向けのプラットフォーマーです。葉とキノコを飛び越し、水たまりとクモを避け、ボーナスのために蜜をつかみます。レベルが進むにつれて、移動プラットフォームと風の突風がタイミングテストを追加します。
 
-[JA TRANSLATION NEEDED] Ladybug Jump is a light, family‑friendly platformer. Hop across leaves and mushrooms, avoid puddles and spiders, and grab nectar for bonuses. Moving platforms and wind gusts add timing tests as levels progress.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  ショートタップ：精度のために最小限のジャンプを使用します。
+2.  風の読み：向かい風にわずかに早くジャンプします。追い風では遅めにします。
+3.  安全なアーク：リスクの高いショートカットより長く、より安全なパスを取ります。
+4.  収集品：配置されている場合にのみ蜜をつかみます。安全第一。
+5.  リスタートリズム：素早い再起動は、トリッキーなシーケンスを釘付けにするのに役立ちます。
 
-[JA TRANSLATION NEEDED] 1.  Short taps: Use minimal jumps for precision.
-[JA TRANSLATION NEEDED] 2.  Wind reads: Jump slightly earlier into headwinds; later with tailwinds.
-[JA TRANSLATION NEEDED] 3.  Safe arcs: Take longer, safer paths over risky shortcuts.
-[JA TRANSLATION NEEDED] 4.  Collectibles: Grab nectar only when aligned; safety first.
-[JA TRANSLATION NEEDED] 5.  Restart rhythm: Quick restarts help nail tricky sequences.
+### 操作ガイド
 
-### Controls Guide
+- ジャンプするためにタップ/クリック。サポートされている場合、より高くジャンプするために保持します。UI経由で一時停止/再試行。
 
-- Tap/Click to jump; hold to jump higher if supported; pause/retry via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 小さな葉から落ち続けます。**  
+  A: ジャンプの高さを減らして中央に着地します。勢いのスイングを避けます。
 
-- Q: I keep falling off small leaves.
-  
-[JA TRANSLATION NEEDED]   A: Reduce jump height and land center; avoid momentum swings.
+- **Q: ボスステージはありますか？**  
+  A: 稀です。焦点は短い障害物コースにあります。
 
-- Q: Are there boss stages?
-  
-[JA TRANSLATION NEEDED]   A: Rare; focus is on short obstacle courses.
-
-- Q: Controller supported?
-  
-
-
-
-
-
-- Q: I keep falling off small leaves.
-### よくある質問（FAQ）
-- Tap/Click to jump; hold to jump higher if supported; pause/retry via UI.
-### コントロールガイド
-- Restart rhythm: Quick restarts help nail tricky sequences.
-[JA TRANSLATION NEEDED]   A: Some versions support gamepads for analog jump control.
-
-
-
-
-
-
-A: Some versions support gamepads for analog jump control.
-- Q: Controller supported?
-A: Rare; focus is on short obstacle courses.
-- Q: Are there boss stages?
-
-
-A: Some versions support gamepads for analog jump control.
+- **Q: コントローラーはサポートされていますか？**  
+  A: 一部のバージョンは、アナログジャンプコントロールのためにゲームパッドをサポートします。

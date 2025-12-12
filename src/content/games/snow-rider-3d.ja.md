@@ -1,49 +1,42 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Snow Rider 3D"
+description: "Snow Rider 3Dでそりに飛び乗ろう。スピード感あふれる冬をテーマにしたアクションゲーム。雪の丘を滑り降り、木や雪だるまなどの障害物を避け、ジャンプ台を使って空中技を披露しよう。ギフトを集めて新しいそりをアンロックし、反射神経に挑戦して最高スコアを目指そう。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html"
+thumbnail: "/new-images/snow-rider-3d.jpg"
+urlstr: "snow-rider-3d"
+score: "4.3/5  (1041 votes)"
+tags: ["action", "3d", "winter"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: snow-rider-3d
-title: '[JA TRANSLATION NEEDED] Snow Rider 3D'
-description: >-
-  [JA TRANSLATION NEEDED] Jump on your sled in Snow Rider 3D, a fast-paced
-  winter-themed action game. Steer down the snowy hills, dodge obstacles like
-  trees and snowmen, and use ramps to perform jumps. Collect gifts to unlock new
-  sleds and challenge your reflexes to get the highest score.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
-thumbnail: /new-images/snow-rider-3d.jpg
-tags:
-  - action
-  - 3d
-  - winter
-score: 4.3/5  (1041 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Snow Rider 3D is a fast-paced, winter-themed action game where you ride a sled down a vast, snowy mountain. The goal is to travel as far as possible while skillfully dodging a variety of obstacles, including trees, rocks, snowmen, and boulders. It's a test of reflexes and anticipation as the speed increases and the challenges become more intense.
+Snow Rider 3Dは、広大な雪の山をそりで滑り降りる、スピード感あふれる冬をテーマにしたアクションゲームです。目標は、木、岩、雪だるま、岩石など、さまざまな障害物を巧みに避けながら、できるだけ遠くまで進むことです。スピードが上がり、チャレンジがより激しくなるにつれて、反射神経と予測力が試されます。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] Your main objective is to get the highest score by surviving for as long as you can. Look ahead to anticipate upcoming obstacles and plan your path accordingly. Use the ramps scattered on the hill to your advantage by jumping over large obstacles or clusters of trees. Along the way, you can collect gifts which can be used to unlock new and cooler sleds in the shop.
+主な目標は、できるだけ長く生き延びることで最高スコアを獲得することです。先を見越して次に来る障害物を予測し、それに応じて経路を計画しましょう。丘に散らばったジャンプ台を利用して、大きな障害物や木の群れを飛び越えることができます。途中でギフトを集めることができ、これらを使ってショップで新しくてよりクールなそりをアンロックできます。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] The controls are simple and responsive:
-- **Steer Left:** `A` or `Left Arrow` key
-- **Steer Right:** `D` or `Right Arrow` key
-- **Jump:** `W` or `Up Arrow` key
+操作はシンプルでレスポンシブです：
+- **左に操舵：** `A`または`左矢印`キー
+- **右に操舵：** `D`または`右矢印`キー
+- **ジャンプ：** `W`または`上矢印`キー
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What is the main goal of Snow Rider 3D?**
+**Snow Rider 3Dの主な目標は何ですか？**
 
-[JA TRANSLATION NEEDED] The goal is to achieve the highest possible score by sledding as far as you can without crashing into an obstacle.
+目標は、障害物に衝突せずにできるだけ遠くまでそりで滑ることで、可能な限り高いスコアを達成することです。
 
-[JA TRANSLATION NEEDED] **How can I unlock new sleds?**
+**新しいそりをアンロックするにはどうすればいいですか？**
 
-[JA TRANSLATION NEEDED] You can unlock new sleds by collecting the gift boxes that appear on the slope as you play. Once you have enough, you can purchase new sleds from the in-game shop.
+プレイ中に斜面に現れるギフトボックスを集めることで、新しいそりをアンロックできます。十分な数を集めると、ゲーム内ショップから新しいそりを購入できます。
 
-[JA TRANSLATION NEEDED] **What's the best strategy for a high score?**
+**高スコアを得るための最良の戦略は何ですか？**
 
-[JA TRANSLATION NEEDED] Focus on survival above all else. Make small, controlled movements instead of sharp turns. Look far ahead to anticipate obstacles and don't take unnecessary risks just to grab a gift. Mastering the timing of your jumps is also crucial for clearing difficult sections.
-
+何よりも生き延びることに集中しましょう。急な方向転換ではなく、小さく制御された動きをしましょう。先を見越して障害物を予測し、ギフトを掴むためだけに不必要なリスクを取らないでください。ジャンプのタイミングをマスターすることも、困難なセクションをクリアする上で非常に重要です。

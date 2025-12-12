@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: santas-quest
-title: '[ES] Santa''s Quest'
+title: "Santa's Quest"
 description: >-
-  [ES] Santa's Quest is a festive puzzle adventure — solve simple objectives,
-  clear routes, and deliver gifts on time.
-iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
-thumbnail: /new-images/santas-quest.png
+  Santa's Quest es una aventura de puzles navideña: resuelve pequeños objetivos,
+  despeja caminos y ayuda a Papá Noel a entregar los regalos a tiempo.
+iframeSrc: "https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/"
+thumbnail: "/new-images/santas-quest.png"
 tags:
   - puzzle
   - casual
@@ -15,29 +15,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Santa's Quest es un puzle casual con temática navideña. Guiarás a Papá Noel a
+través de pequeños desafíos sobre casillas, recogiendo objetos necesarios y
+llegando a la salida mientras evitas peligros ligeros o callejones sin salida.
+Los niveles cortos son perfectos para partidas rápidas durante la temporada de
+fiestas.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Santa's Quest is a holiday‑themed casual puzzler. Guide Santa through simple tile‑based challenges, collect required items, and reach exits while avoiding light hazards or dead‑ends. Short levels suit quick seasonal sessions.
+1.  **Planifica la ruta primero:** Localiza llaves, interruptores y objetos
+    importantes antes de empezar a moverte.
+2.  **Evita bloquearte:** No cierres pasillos estrechos con movimientos de ida y
+    vuelta que no se puedan deshacer; podrías dejar a Santa atrapado.
+3.  **Orden de acciones:** Coge los objetos en un orden que minimice el
+    retroceso y los rodeos.
+4.  **Controla los temporizadores (si los hay):** Cuando el tiempo sea limitado,
+    prioriza los objetivos obligatorios frente a estrellas u objetivos
+    opcionales.
+5.  **Reintenta sin miedo:** Los niveles son breves, así que reiniciar rápido
+    después de un error forma parte del flujo normal de la partida.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Route first: Identify keys, switches, or collectibles before moving.
-2.  **[ES]** Avoid softlocks: Don’t block narrow corridors with one‑way moves.
-3.  **[ES]** Order of operations: Grab items in an order that minimizes backtracking.
-4.  **[ES]** Watch timers (if any): Prioritize mandatory goals over optional stars when time is tight.
-5.  **[ES]** Retry quickly: Short stages reward fast restarts when mistakes happen.
+- **Moverse:** Flechas de dirección, WASD o deslizamiento en pantalla táctil.
+- **Interactuar:** Normalmente se activa automáticamente al pisar una casilla o
+  mediante un pequeño aviso en pantalla.
+- **Pausa/Reiniciar:** Usando la interfaz en pantalla.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move: Arrow keys / WASD or swipe on mobile.
-- Interact: Automatic on contact or via a prompt.
-- Pause/Restart: On‑screen UI.
+- **P: Me he quedado atrapado detrás de un bloque, ¿qué hago?**
+  
+  **R:** Reinicia el nivel y replantea la ruta para no cerrar pasillos
+  importantes.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Hay enemigos?**
+  
+  **R:** En algunos niveles aparecen peligros ligeros o patrullas. En la mayor
+  parte de los casos, la sincronización y la observación son suficientes para
+  superarlos.
 
-- Stuck behind a block—what now? Restart and re‑order your route to keep corridors open.
-- Are there enemies? Light hazards/patrols in some levels; timing solves most.
-- Do I need all stars? Optional—collect them for full completion.
-
+- **P: ¿Es obligatorio conseguir todas las estrellas?**
+  
+  **R:** No, suelen ser opcionales y sirven para completar el juego al 100 %.

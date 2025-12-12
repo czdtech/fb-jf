@@ -1,33 +1,33 @@
 ---
+title: "Elastic Man エラスティック・マン"
+description: "「Elastic Man」は奇妙でリアルなインタラクティブ・トイ。ゴムのような顔を引っ張り、つまみ、変形させて、その物理挙動と触感を楽しもう。"
+iframeSrc: "https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html"
+thumbnail: "/new-images/elastic-man.jpg"
+urlstr: "elastic-man"
+score: "3.7/5  (959 votes)"
+tags: ["simulation", "toy"]
+developer: "David Li"
+releaseDate: 2025-08-16
 locale: ja
-urlstr: elastic-man
-title: '[JA TRANSLATION NEEDED] Elastic Man'
-description: >-
-  [JA TRANSLATION NEEDED] Elastic Man is an interactive toy: stretch, poke, and
-  squish a rubbery face with playful physics.
-iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
-thumbnail: /new-images/elastic-man.jpg
-tags:
-  - simulation
-  - toy
-score: 3.7/5  (959 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Elastic Man（エラスティック・マン）*は、ゲームというよりは触って楽しむ「インタラクティブなおもちゃ」です。画面に表示されるリアルな顔の皮膚をマウスで掴んで引っ張ると、ゴムのように伸び、離すとプルンプルンと波打ちながら元の形に戻ります。
+その不気味さと気持ちよさが同居する不思議な物理シミュレーションを体験してください。
 
-### Overview
-[JA TRANSLATION NEEDED] Interactive face‑stretching toy: grab and drag a rubbery face, then watch it wobble back with springy skin‑simulation.
+### 遊び方
 
-### How to Play
-- Drag, poke, pinch, and release different spots to see varied deformations.
-- Some hosts include “squish” strength or resolution toggles.
+*   **触る:** 頬、おでこ、目、口など、好きな場所をドラッグして引っ張り、離します。
+*   **観察:** 引っ張る場所や強さによって変わる、顔の歪み方や皮膚の波打ち方を楽しみます。
+*   **設定:** バージョンによっては、画質（解像度）の切り替えが可能です。
 
-### Controls
-- Mouse/Touch drag and release; settings panel where available.
+### 操作ガイド
 
-### Tips
-- Pull from cheeks/forehead for broad wobbles; small pinches create fast ripples.
-- Lower resolution on slower devices for smoother motion.
-- Shorter, repeated pulls keep the jello‑like jiggle going.
+*   **操作:** マウス（またはタッチ）でドラッグ＆ドロップ。
 
+### 楽しみ方のコツ
+
+*   **変化をつける:** 頬を大きく引っ張って離すと全体が揺れますが、小さくつまむように素早く動かすと細かい波紋が広がります。
+*   **パフォーマンス:** 動作が重い場合は、設定で画質（Resolution）を下げると動きが滑らかになります。
+*   **連打:** 短く連続して引っ張ると、ゼリーのような独特の揺れを持続させることができます。

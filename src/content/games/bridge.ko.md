@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bridge
-title: '[KO] Bridge'
+title: Bridge 브리지
 description: >-
-  [KO] Play the classic partnership card game, Bridge. Work with your partner
-  through bidding and trick-taking to outsmart your opponents and fulfill your
-  contract.
+  네 명이 둘씩 짝을 이뤄 즐기는 정통 카드 게임 Bridge입니다. 입찰과 패 운영을 통해 파트너와 호흡을 맞추고, 계약을 완수해 상대 팀을
+  제치는 두뇌 승부를 경험해 보세요.
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
 thumbnail: /new-images/bridge.png
 tags:
@@ -16,33 +15,68 @@ score: 4.7/5  (3000 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bridge는 네 명이 둘씩 팀을 이루어 플레이하는 고전적인 트릭 테이킹(획득형)
+카드 게임입니다. 마주 보는 두 플레이어가 한 팀을 이루고, 나머지 한 팀과 점수를
+겨루게 됩니다. 게임은 크게 **입찰(비딩)** 단계와 **플레이** 단계로 나뉘며,
+입찰에서 어느 팀이 어떤 슈트(또는 노트럼프)로 몇 트릭을 따겠다고 선언하느냐가
+이후 전개를 좌우합니다.
 
+입찰에서 이긴 팀의 한 명은 **딜러(Declarer)**가 되고, 파트너는 **더미(Dummy)**가
+되어 손패를 모두 공개합니다. 이후 딜러가 자신의 패와 더미의 패를 모두 대신
+플레이하며, 선언한 계약을 지키기 위해 필요한 트릭 수를 따내야 합니다. 상대 팀은
+계약을 방해하는 것이 목표입니다. 깊은 전략과 파트너십이 요구되기 때문에, 브리지는
+세계적으로도 대표적인 마인드 스포츠로 인정받고 있습니다.
 
-### Detailed Game Introduction
+### 기본 진행 & 전략
 
-Bridge is a classic and highly strategic trick-taking card game played by four players in two competing partnerships. Players sit opposite their partners. The game consists of two main phases: the Bidding (or Auction) and the Play. During bidding, the partnerships compete to determine the "contract," which specifies the trump suit and the number of tricks that partnership must win. During the play, the side that won the bid (the declarer) tries to fulfill their contract, while the defenders try to stop them. It is widely considered one of the world's greatest mind sports.
+1.  **입찰(Bidding)**  
+    게임의 첫 번째 단계로, 네 플레이어가 차례로 입찰을 진행합니다. 입찰은
+    숫자(1~7)와 슈트(클럽, 다이아몬드, 하트, 스페이드) 또는 노트럼프(No Trump)를
+    합친 형태입니다. 숫자는 **6트릭을 기준으로 그 이상 몇 트릭을 따겠다는지**를
+    의미합니다. 예를 들어 `3 Hearts`라고 말하면, 하트를 트럼프로 삼고 최소
+    9트릭(6+3)을 따겠다는 뜻입니다. 지속적인 오픈·응찰·재입찰 끝에 가장 높은
+    입찰이 최종 계약으로 확정됩니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **플레이(Playing the Hand)**  
+    최종 계약에서 슈트를 처음 제시한 사람이 딜러(Declarer)가 됩니다. 딜러의
+    파트너는 더미(Dummy)가 되어, 첫 카드가 리드된 뒤 자신의 패를 모두
+    탁자에 펼쳐 공개합니다. 이후 딜러는 자신의 손과 더미의 손을 모두 대신
+    선택해 플레이합니다.
 
-1.  **[KO]** **The Bidding:** This is the first phase. Players take turns making bids. A bid consists of a number (1-7) and a suit (Clubs, Diamonds, Hearts, Spades) or "No-Trump" (NT). The number corresponds to the number of tricks over 6 that the partnership commits to winning (e.g., a bid of 3 Hearts means they must win at least 9 tricks with Hearts as the trump suit). The highest bid becomes the final contract.
-2.  **[KO]** **The Play:** The player from the winning partnership who first named the suit of the contract becomes the "declarer." Their partner becomes the "dummy," and places their hand face-up on the table for everyone to see. The declarer plays both their own hand and the dummy's hand.
-3.  **[KO]** **Trick-Taking:** The player to the declarer's left leads the first card. Other players must follow suit if they can. The player who plays the highest card of the suit led wins the trick, unless a trump card is played. If a trump card is played, the highest trump card wins. The winner of a trick leads the next one.
-4.  **[KO]** **Scoring:** If the declarer's side makes their contract (wins the required number of tricks or more), they score points. If they fail, the defending side scores points.
+3.  **트릭 테이킹(Trick‑Taking)**  
+    첫 카드는 딜러의 왼쪽에 앉은 플레이어가 냅니다. 나머지 플레이어는 가능하다면
+    반드시 같은 슈트의 카드를 따라 내야 하며(팔로우 슈트), 같은 슈트를 낸 카드
+    중 가장 높은 카드가 그 트릭을 가져갑니다. 다만 계약에서 정한 **트럼프 슈트**의
+    카드가 한 장이라도 나오면, 그중 가장 높은 트럼프 카드가 트릭을 가져갑니다.
+    트릭을 딴 플레이어가 다음 트릭의 선을 잡습니다.
 
-### Controls Guide
+4.  **점수 계산(Scoring)**  
+    딜러 팀이 계약에서 선언한 트릭 수 이상을 따면 점수를 얻고, 실패할 경우에는
+    수비 측이 점수를 얻게 됩니다. 장기전에서는 파셜/게임/슬램 등 다양한 보너스
+    조건이 적용될 수 있습니다.
 
-*   **[KO]** **Bidding:** Click on the number and suit you wish to bid, or click "Pass."
-*   **[KO]** **Playing a Card:** Click on the card from your hand (or the dummy's hand, if you are the declarer) that you wish to play.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+-   **입찰하기:** 화면의 버튼에서 숫자와 슈트를 클릭해 입찰하거나, 더 이상
+    올릴 생각이 없다면 `Pass`를 선택합니다.
+-   **카드 내기:** 자신의 차례가 되면 손에 들고 있는 카드(딜러라면 더미의 카드
+    포함) 중에서 내고 싶은 카드를 클릭해 플레이합니다.
 
-*   **[KO]** **Q: What is a "trick"?**
-    *   **[KO]** **A:** A trick consists of four cards, one played by each of the four players in turn. The highest card wins the trick.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What is a "trump suit"?**
-    *   **[KO]** **A:** A trump suit is a suit chosen during the bidding phase that outranks all other suits. For example, if Hearts are trump, even the 2 of Hearts will beat the Ace of any other suit.
+- **Q. "트릭(Trick)"이란 무엇인가요?**  
+  A: 네 플레이어가 차례대로 카드 한 장씩을 내어 총 네 장이 쌓이면 하나의 트릭이 되며, 규칙에 따라 가장 높은 카드를 낸 쪽이 그 트릭을 획득합니다.
 
-*   **[KO]** **Q: What does it mean to "follow suit"?**
-    *   **[KO]** **A:** If the first card played in a trick is a Spade, all other players must play a Spade if they have one in their hand. If they do not have a Spade, they can play any other card, including a trump card.
+    - **Q. "트럼프 슈트(Trump Suit)"는 뭐죠?**  
+  A: 입찰 단계에서 정해지는 최우선 슈트입니다. 예를 들어 하트가 트럼프면 다른 슈트의 에이스보다 하트 2가 더 강력합니다.
 
+- **Q. "팔로우 슈트"는 어떤 의미인가요?**  
+
+    - **A:** If the first card played in a trick is a Spade, all other players must play a Spade if they have one in their hand. If they do not have a Spade, they can play any other card, including a trump card.
+
+- **Q: What does it mean to "follow suit"?**
+
+    - **A:** A trump suit is a suit chosen during the bidding phase that outranks all other suits. For example, if Hearts are trump, even the 2 of Hearts will beat the Ace of any other suit.
+  A: 한 트릭의 첫 카드가 어떤 슈트였다면, 그 슈트를 손에 들고 있는 모든 플레이어는 반드시 같은 슈트를 내야 한다는 규칙입니다. 해당 슈트가 없을 때만 다른 슈트나 트럼프를 낼 수 있습니다.

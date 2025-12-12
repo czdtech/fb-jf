@@ -1,69 +1,39 @@
 ---
+title: "Penalty Showdown"
+description: "Penalty Showdownはペナルティキック対決です。ショットを撮り、ゴールをセーブし、対戦相手と競い、PKチャンピオンになります。"
+iframeSrc: "https://penaltyshowdown.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
+thumbnail: "/new-images/penalty-showdown.png"
+urlstr: "penalty-showdown"
+score: "4.2/5  (2234 votes)"
+tags: ["sports", "2 player", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: penalty-showdown
-title: '[JA TRANSLATION NEEDED] Penalty Showdown'
-description: >-
-  [JA TRANSLATION NEEDED] Penalty Showdown is a tense shootout — pick corners,
-  vary height, and outguess keepers in alternating kicker/keeper rounds.
-iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
-thumbnail: /new-images/penalty-showdown.jpg
-tags:
-  - sports
-  - soccer
-score: 4.0/5  (1879 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Penalty Showdownは、ペナルティキック対決で対戦相手と対戦します。シューターとゴールキーパーの両方をプレイします。ゴールを決め、セーブし、より高いスコアで対戦相手を打ち負かします。
 
-[JA TRANSLATION NEEDED] Penalty Showdown alternates between shooting and goalkeeping phases. As the taker, disguise placement and height; as the keeper, read run‑ups and dive late. Winning relies on rhythm changes and mixed shot profiles rather than power alone.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **ショットをミックス:** 予測可能にならないでください。
+2.  **パワーと精度:** 両方のバランスを取ります。
+3.  **キーパーとして:** 対戦相手の傾向を読みます。
+4.  **コーナーを狙う:** より高いゴールチャンス。
+5.  **冷静を保つ:** プレッシャー下で焦点を保ちます。
 
-[JA TRANSLATION NEEDED] 1.  Mix profiles: Alternate low corners, high corners, and center chips to avoid patterns.
-[JA TRANSLATION NEEDED] 2.  Keeper late dive: Move briefly then commit late to the striker’s open‑body side.
-[JA TRANSLATION NEEDED] 3.  Power windows: Mid‑high power gives speed without wild slices.
-[JA TRANSLATION NEEDED] 4.  Wind: Offset aim and reduce height under strong wind (if modeled).
-[JA TRANSLATION NEEDED] 5.  Mind games: Pause a beat before shots to bait early dives.
+### 操作ガイド
 
-### Controls Guide
+- マウス/タッチで方向とパワーを選択します。
+- シューターとして：狙い、ショットします。
+- キーパーとして：ダイブ方向を選択します。
 
-- Shoot: aim + power + (optional) swerve. Keep: choose side/timing; some builds allow manual dives.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Shots keep getting saved.
-  
-[JA TRANSLATION NEEDED]   A: Vary height and delay aim; avoid predictable mid‑goal strikes.
-
-- Q: Keeper guesses me every time.
-  
-[JA TRANSLATION NEEDED]   A: Change run‑up angles and add a brief pause before contact.
-
-- Q: Best keeper tip?
-  
-
-
-
-
-
-- Q: Shots keep getting saved.
-### よくある質問（FAQ）
-- Shoot: aim + power + (optional) swerve. Keep: choose side/timing; some builds allow manual dives.
-### コントロールガイド
-- Mind games: Pause a beat before shots to bait early dives.
-[JA TRANSLATION NEEDED]   A: Watch the last two steps — hips often telegraph shot side.
-
-
-
-
-
-
-A: Watch the last two steps — hips often telegraph shot side.
-- Q: Best keeper tip?
-A: Change run‑up angles and add a brief pause before contact.
-- Q: Keeper guesses me every time.
-
-
-A: Watch the last two steps — hips often telegraph shot side.
+- **Q: マルチプレイヤーですか？**  
+  A: 一部のバージョンはローカルまたはオンライン対戦を提供します。
+- **Q: 最高のショット戦略は何ですか？**  
+  A: ショットをミックスし、コーナーを狙います。
+- **Q: キーパーとしてどのように改善しますか？**  
+  A: 対戦相手のパターンを読み、早めにダイブします。

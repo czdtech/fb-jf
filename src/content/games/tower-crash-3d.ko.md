@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tower-crash-3d
-title: '[KO] Tower Crash 3D'
+title: "Tower Crash 3D 타워 크래시 3D"
 description: >-
-  [KO] Demolish colorful towers in this satisfying 3D physics game. Shoot balls
-  that match the blocks' color to cause epic collapses, but be strategic—you
-  have limited shots!
+  형형색색 블록으로 쌓인 탑을 부수는 3D 물리 퍼즐 게임입니다. 포탄 색과 같은 블록만 파괴되므로,
+  제한된 발사 횟수 안에 지지대를 노려 한 번에 탑을 무너뜨려 보세요.
 iframeSrc: >-
   https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/tower-crash-3d.jpg
@@ -18,34 +17,42 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tower Crash 3D는 다양한 색의 블록으로 쌓인 탑을 포탄으로 격파하는 물리 퍼즐 게임입니다. 화면 아래의
+대포에서 발사되는 공(볼)은 특정 색을 가지고 있으며, 같은 색의 블록에만 영향을 줍니다. 각 스테이지마다
+발사할 수 있는 공의 개수는 제한되어 있으므로, 최소한의 샷으로 탑을 목표선 이하로 무너지게 만드는
+전략적인 조준이 필요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Tower Crash 3D is a satisfying and addictive physics-based puzzle game where your goal is to demolish towers made of colorful blocks. The catch is that you must shoot balls of a specific color, and they will only destroy blocks of the same color. With limited ammunition for each level, you must aim strategically to hit critical support blocks and cause the entire structure to come crashing down below the goal line.
+1.  **색 일치가 최우선**: 현재 대포에 장전된 공의 색을 먼저 확인하고, 그 색과 같은 블록만 노리세요.
+    다른 색 블록을 맞추면 아무 일도 일어나지 않고 발사 기회만 낭비됩니다.
+2.  **항상 바닥을 노리기**: 대부분의 파괴 게임과 마찬가지로, 기초를 무너뜨리는 것이 가장 효율적입니다.
+    가능한 한 아래층의 지지 블록을 맞춰 탑 전체가 스스로 무너져 내리도록 유도해 보세요.
+3.  **연쇄 붕괴 지점 찾기**: 한 블록이 여러 개의 위쪽 블록을 떠받치고 있는 구조를 유심히 관찰하면,
+    단 한 번의 타격으로 큰 부분을 무너뜨릴 수 있습니다. 이런 "핵심 블록"을 찾는 눈을 기르는 것이
+    고득점의 지름길입니다.
+4.  **발사 수 아끼기**: 남은 공의 개수는 곧 스테이지를 공략할 수 있는 기회 수입니다. 대충 쏘지 말고
+    한 발 한 발, 어디를 맞췄을 때 가장 큰 붕괴가 일어날지를 생각한 뒤 발사하세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Match the Colors:** This is the most important rule. Look at the color of the ball loaded in your cannon and aim only for blocks of that same color. Hitting a different colored block will do nothing and waste a precious shot.
-2.  **[KO]** **Aim for the Base:** Like in any demolition game, the foundation is key. Prioritize shooting the lowest blocks of the correct color. Removing the base supports will destabilize the tower and cause a much larger collapse than shooting at the top.
-3.  **[KO]** **Look for Chain Reactions:** Sometimes, a single block might be supporting several others. Identify these critical blocks and target them to get the most destruction out of a single shot.
-4.  **[KO]** **Conserve Your Shots:** You have a limited number of balls for each level. Don't fire randomly. Take a moment to aim each shot for maximum impact.
+게임 조작은 매우 직관적입니다.
 
-### Controls Guide
+*   **조준**: 마우스(또는 손가락)를 좌우로 움직여 대포의 방향을 조절합니다.
+*   **발사**: 마우스 왼쪽 버튼을 클릭하거나 화면을 탭해 공을 발사합니다.
 
-The controls are simple and intuitive.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Aim:** Move your mouse or swipe your finger left and right to aim your cannon.
-*   **[KO]** **Fire:** Click the left mouse button or tap the screen to shoot a ball.
+*   **Q: 분명 맞췄는데 블록이 안 부서졌어요. 왜 그런가요?**  
+    *   **A:** 공과 블록의 색이 일치해야만 블록이 파괴됩니다. 예를 들어 파란색 공으로는 파란색
+        블록만 없앨 수 있고, 다른 색 블록에는 아무 영향도 주지 않습니다.
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 스테이지는 어떻게 클리어하나요?**  
+    *   **A:** 화면에 표시된 목표선보다 남은 구조물의 가장 높은 지점이 아래로 내려가면 성공입니다.
+        제한된 공이 모두 떨어지기 전에 탑을 충분히 무너뜨려야 합니다.
 
-*   **[KO]** **Q: Why didn't the block break when I shot it?**
-    *   **[KO]** **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
-
-*   **[KO]** **Q: How do I complete a level?**
-    *   **[KO]** **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
-
-*   **[KO]** **Q: What is the best strategy if the tower is multi-colored?**
-    *   **[KO]** **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
-
+*   **Q: 여러 색 블록이 섞여 있을 때는 어떻게 하는 것이 좋나요?**  
+    *   **A:** 대포의 공 색은 일정 주기로 바뀌는 경우가 많으므로, 당장 필요하지 않은 색일 때는
+        잠시 기다렸다가 필요한 색이 나왔을 때 핵심 지점을 노리는 것이 좋습니다.

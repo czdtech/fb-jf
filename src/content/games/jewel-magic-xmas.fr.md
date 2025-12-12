@@ -1,54 +1,85 @@
 ---
 locale: fr
 urlstr: jewel-magic-xmas
-title: '[FR] Jewel Magic Xmas'
+title: Jewel Magic Xmas
 description: >-
-  [FR] Get into the holiday spirit with Jewel Magic Xmas! A festive match-3
-  puzzle game where you swap Christmas ornaments to solve puzzles and complete
-  cheerful levels.
-iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
+  Jewel Magic Xmas est un match‑3 de Noël : gemmes enneigées, cadeaux et
+  décorations à aligner pour compléter des niveaux festifs.
+iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/0ml2b01ue9nb0/'
 thumbnail: /new-images/jewel-magic-xmas.png
 tags:
   - puzzle
   - casual
-  - action
-score: 4.4/5  (2200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.4/5  (placeholder votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation
+
+Sur le même principe que Jewel Magic, cette version spécial Noël mise sur une ambiance hivernale : flocons, guirlandes et cadeaux à combiner pour remplir des objectifs.
 
 
 
-### Detailed Game Introduction
+    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
 
-Jewel Magic Xmas is a festive and cheerful match-3 puzzle game that wraps the classic jewel-matching experience in a delightful Christmas theme. Players will find themselves in a winter wonderland, swapping colorful ornaments, candy canes, and bells. The goal is to match three or more identical festive items to complete level objectives, create powerful combos, and spread the holiday cheer.
+- **Q: What happens if I run out of moves?**
 
-### Gameplay Strategy & Walkthrough
+    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
 
-1.  **[FR]** **Festive Power-ups:** The key to clearing the board is creating special items by matching more than three ornaments.
-    *   **[FR]** **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
-    *   **[FR]** **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
-    *   **[FR]** **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
+- **Q: What is the best combo?**
 
-2.  **[FR]** **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
-3.  **[FR]** **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
-4.  **[FR]** **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+    - **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
 
-### Controls Guide
+- **Q: How do I break the frozen ice blocks?**
 
+### Foire aux questions (FAQ)
+
+- **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
+
+
+    - **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+
+    - **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
+
+    - **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
+
+- **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
+
+- **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
+
+- **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
 The game is played with simple mouse or touch controls.
 
-*   **[FR]** **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
+### Commandes
 
-### Frequently Asked Questions (FAQ)
 
-*   **[FR]** **Q: How do I break the frozen ice blocks?**
-    *   **[FR]** **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
+The game is played with simple mouse or touch controls.
+- **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
 
-*   **[FR]** **Q: What is the best combo?**
-    *   **[FR]** **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
+- **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
 
-*   **[FR]** **Q: What happens if I run out of moves?**
-    *   **[FR]** **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+- **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
 
+    - **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
+
+    - **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
+
+    - **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
+
+- **Festive Power-ups:** The key to clearing the board is creating special items by matching more than three ornaments.
+
+### Guide de jeu
+
+
+- **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+
+    - **Q: What happens if I run out of moves?**
+
+- **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
+
+    - **Q: What is the best combo?**
+
+- **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
+
+    - **Q: How do I break the frozen ice blocks?**

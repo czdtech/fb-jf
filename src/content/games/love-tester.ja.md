@@ -1,41 +1,34 @@
 ---
+title: "Love Tester"
+description: "遊び心のある新奇性：名前を入力して楽しい互換性スコアを取得します。非科学的で純粋にエンターテインメントのためのものです。"
+iframeSrc: "https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref="
+thumbnail: "/new-images/love-tester.jpg"
+urlstr: "love-tester"
+score: "4.0/5  (913 votes)"
+tags: ["casual", "novelty"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: love-tester
-title: '[JA TRANSLATION NEEDED] Love Tester'
-description: >-
-  [JA TRANSLATION NEEDED] Playful novelty: enter names to get a fun
-  compatibility score; non‑scientific and meant purely for entertainment.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
-thumbnail: /new-images/love-tester.jpg
-tags:
-  - casual
-  - novelty
-score: 4.0/5  (913 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Love Testerは軽快な名前マッチングおもちゃです。2つの名前を入力し、時折メッセージまたはアニメーションを伴う気まぐれな「互換性」パーセンテージを受け取ります。これは純粋に楽しみのためです。結果はランダムまたはシンプルなハッシュに基づいており、実際の互換性を表すものではありません。
 
+### 遊び方
+- 2つの名前（または任意の単語）を入力し、テストを押します。
+- 結果を共有するか、笑いのために異なる入力で再実行します。
 
-### Overview
-[JA TRANSLATION NEEDED] Love Tester is a lighthearted name‑matching toy. You input two names and receive a whimsical “compatibility” percentage with occasional messages or animations. It’s purely for fun—results are random or based on simple hashing and do not represent real compatibility.
+### 操作方法
+- キーボード入力と単一のテストボタン。
 
-### How to Play
-- Enter two names (or any words) and press test.
-- Share results or rerun with different inputs for laughs.
+### ヒント
+- 出力を変化させるために創造的なプロンプト（ニックネーム、チーム名）を使用します。
+- 結果をジョークとして扱い、アドバイスとしては扱いません。
 
-### Controls
-- Keyboard input and a single test button.
-
-### Tips
-- Use creative prompts (nicknames, team names) to vary outputs.
-- Treat results as a joke, not advice.
-
-### FAQ
-- Q: Is the compatibility score scientifically accurate?  
-[JA TRANSLATION NEEDED]   A: No, it is for entertainment only.
-- Q: Can I save or share the results?  
-[JA TRANSLATION NEEDED]   A: Some hosts include share buttons or screenshots.
-- Q: Do spaces or punctuation matter in names?  
-[JA TRANSLATION NEEDED]   A: Behavior varies; stick to letters for consistent outputs.
-
+### よくある質問 (FAQ)
+- **Q: 互換性スコアは科学的に正確ですか？**  
+  A: いいえ、エンターテインメントのみです。
+- **Q: 結果を保存または共有できますか？**  
+  A: 一部のホストには共有ボタンまたはスクリーンショットが含まれます。
+- **Q: 名前のスペースまたは句読点は重要ですか？**  
+  A: 動作は様々です。一貫した出力のために文字に固執します。

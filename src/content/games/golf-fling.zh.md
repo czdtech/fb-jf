@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: golf-fling
-title: '[ZH TRANSLATION NEEDED] Golf Fling'
+title: "Golf Fling 拋拋高爾夫"
 description: >-
-  [ZH TRANSLATION NEEDED] Fling your way to a hole-in-one in Golf Fling! A
-  physics-based puzzle game where you aim, pull, and release to send the ball
-  flying.
+  在 Golf Fling 中用「彈射」的方式打高爾夫！透過瞄準、拉動與放開，
+  讓球在物理場景中飛越障礙，以最少的拋射次數打進球洞。
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/golf-fling.jpg
@@ -20,28 +19,37 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Golf Fling is a fun and challenging physics-based puzzle game that reinvents the way you play golf. Instead of clubs, you use a simple pull-and-release mechanic to fling the golf ball across a variety of creative and tricky courses. Your goal is to get the ball into the hole in as few flings as possible. Navigate around obstacles, use the terrain to your advantage, and master the art of the fling to become a champion!
+《Golf Fling》是一款有趣又具挑戰性的物理高爾夫解謎遊戲，
+它用「拉彈弓」的方式重新詮釋打高爾夫的過程。這裡沒有球桿，
+你只需透過拉動與放開來彈射球，讓它穿梭於各種創意關卡與機關之中，
+目標是在盡可能少的拋射次數下，把球送進洞裡。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Aim Carefully:** Before you fling, an indicator line will show you the projected path of your ball. Use this to aim precisely, taking into account any obstacles or slopes.
-2.  [ZH TRANSLATION NEEDED] **Control Your Power:** The further you pull back before releasing, the more power your shot will have. You'll need to learn how to judge the right amount of power for both long drives and short, delicate chips.
-3.  [ZH TRANSLATION NEEDED] **Use the Environment:** The courses are filled with slopes, walls, and other features. Use them to your advantage! Bounce the ball off walls to get around corners or use a ramp to launch your ball over a gap.
-4.  [ZH TRANSLATION NEEDED] **Plan Your Shots:** Some holes can't be completed in a single shot. Look at the entire level and plan a route for your ball. Sometimes you need to land in a specific spot to set up your final shot on the hole.
-5.  [ZH TRANSLATION NEEDED] **Strive for Pars:** Each level has a par, which is the expected number of flings to get the ball in the hole. Try to meet or beat the par for the highest score.
+
+1.  **先瞄準再出手：** 拋射前會出現軌跡預覽線，
+    利用這條線精準調整方向，並考慮路徑上的障礙與坡度。
+2.  **控制力道：** 拉得越長，力道越大。你需要習慣不同距離所需的力度；
+    遠距離用大力拉，短切則要柔和控制，避免飛過頭。
+3.  **善用地形：** 關卡中會出現斜坡、牆面與各種機關，可以用牆反彈來轉彎，
+    或利用坡道把球彈上高台、跨越空隙。
+4.  **規劃路徑：** 很多洞無法一桿入洞，需要事先規劃「第一落點」與「第二落點」，
+    先把球送到有利位置，再打最後一桿進洞。
+5.  **挑戰 Par：** 每關都會標示標準拋射次數（Par），盡量在 Par 以內完成，
+    甚至追求一桿進洞，能獲得更好成績。
 
 ### Controls Guide
 
-*   **Aim and Power:** Click and hold the mouse button on the golf ball. Drag your mouse back to set the power and direction of your shot.
-*   **Fling:** Release the mouse button to fling the ball.
+- **瞄準與蓄力：** 在球上按住滑鼠或手指，往後拖曳決定方向與力度。
+- **拋射：** 放開按鍵即可將球彈出。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The goal is to get the golf ball into the hole on each level using the fewest number of flings possible.
+*   **問：遊戲的目標是什麼？**
+    *   **答：** 在每一關中，用最少的拋射次數將球送入球洞，越少桿分數越高。
 
-*   **Q: How do I get a better score?**
-     *   **A:** Your score is based on how many shots you take compared to the par for the hole. Getting a hole-in-one or coming in under par will give you the best score.
+*   **問：要怎麼拿到更好的成績？**
+    *   **答：** 盡量接近或低於關卡的 Par，若能一桿進洞或少於 Par 完成，評價會大幅提升。
 
-*   **Q: Can I make the ball curve?**
-     *   **A:** In this type of game, you typically cannot add curve or spin after the ball has been flung. All the control comes from your initial aim and power selection.
-
+*   **問：可以讓球在空中轉彎或加旋嗎？**
+    *   **答：** 通常不行，球的軌跡完全取決於你一開始設定的方向與力度，
+        之後就只能靠地形與彈跳來改變路線。

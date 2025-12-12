@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: ping-pong
-title: '[ES] Ping Pong'
+title: "Ping Pong - Clásico de pala y pelota"
 description: >-
-  [ES] Ping Pong is a classic arcade sports game where two players control
-  paddles to hit a ball back and forth across a screen, aiming to score points
-  by making the opponent miss the ball.
+  Ping Pong es el clásico juego deportivo de arcade en el que dos jugadores
+  controlan palas para devolver una pelota de un lado a otro de la pantalla,
+  intentando anotar puntos cuando el rival falla.
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/ping-pong.jpg
 tags:
@@ -18,30 +18,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+"Ping Pong" es un clásico juego deportivo de arcade. Dos jugadores (o un jugador
+contra la IA) controlan cada uno una pala para devolver la pelota de un lado a
+otro de la pantalla, intentando marcar cuando el oponente no consigue alcanzarla.
+Su jugabilidad sencilla e intuitiva y su ritmo rápido lo convierten en una gran
+opción tanto para partidas casuales como para duelos competitivos.
 
-### Game Introduction
+### Estrategia de juego
 
-"Ping Pong" is a classic arcade sports game. Two players (or one player against AI) each control a paddle to hit a ball back and forth across the screen, aiming to score points by making the opponent miss the ball. The game is known for its simple and intuitive gameplay and fast pace, making it an excellent choice for casual entertainment and competitive matchups.
+1.  **Controlar la pala:** mueve la pala con precisión para llegar a todas las
+    trayectorias posibles de la pelota.
+2.  **Ajustar el ángulo:** cambia la posición y el movimiento de la pala en el
+    momento del impacto para variar el ángulo y la velocidad del disparo.
+3.  **Leer al rival:** observa los hábitos de golpeo y movimiento del
+    contrincante para anticipar tanto sus tiros como sus debilidades.
+4.  **Equilibrar ataque y defensa:** mientras te proteges, busca ocasiones para
+    devolver la pelota con ángulos difíciles que el oponente no pueda alcanzar.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Control the Paddle**: Move your paddle flexibly to ensure you can hit the incoming ball.
-2.  **[ES]** **Adjust Angle**: By changing the paddle's position and movement direction when hitting the ball, you can alter the ball's flight angle and speed.
-3.  **[ES]** **Anticipate Opponent**: Observe your opponent's hitting habits and movement patterns to predict where the ball will land.
-4.  **[ES]** **Balance Offense and Defense**: While defending, look for opportunities to hit tricky shots that are difficult for your opponent to return.
+*   **Mover la pala:** normalmente se usan las flechas arriba/abajo o el ratón
+    para mover la pala en vertical.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Move Paddle**: Typically use keyboard arrow keys (up/down) or the mouse to control the paddle's vertical movement on the screen.
+1.  **P: Cuál es el objetivo del juego?**  
+    **R:** Marcar puntos haciendo que la pelota pase la zona del rival. El
+    primer jugador en alcanzar la puntuación objetivo suele ser el ganador.
 
-### Frequently Asked Questions
+2.  **P: Hay distintos niveles de dificultad?**  
+    **R:** Muchas versiones permiten elegir dificultad, que se nota sobre todo
+    en la velocidad de reacción y precisión de la IA.
 
-1.  **[ES]** **Q: What is the objective of the "Ping Pong" game?**
-**A**: The objective is to score points by getting the ball past your opponent's paddle area. The first player to reach a predetermined score usually wins.
-2.  **[ES]** **Q: Are there different difficulty levels in the game?**
-**A**: Many versions of Ping Pong games offer different difficulty levels, mainly reflected in the AI opponent's reaction speed and hitting skills.
-3.  **[ES]** **Q: How can I hit the ball more powerfully with the paddle?**
-**A**: The hitting power of the paddle is usually fixed, but you can influence the ball's speed and angle by changing the point of contact.
-4.  **[ES]** **Q: Can this game be played in two-player mode?**
-**A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
+3.  **P: Puedo golpear más fuerte la pelota?**  
+    **R:** La fuerza suele ser fija, pero puedes influir en la velocidad y el
+    ángulo golpeando la pelota en distintos puntos de la pala o moviéndote en el
+    momento del impacto.
+
+4.  **P: Se puede jugar a dos jugadores?**  
+    **R:** Sí, la mayoría de versiones clásicas incluyen modo local para dos
+    jugadores en el mismo dispositivo.

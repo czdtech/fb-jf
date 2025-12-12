@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: dogeminer
-title: '[KO] DogeMiner'
+title: "DogeMiner 도지마이너"
 description: >-
-  [KO] DogeMiner is an idle clicker: mine coins, buy upgrades and helpers, and
-  automate production to earn faster.
+  DogeMiner는 코인을 채굴해 업그레이드와 도우미를 구매하고, 생산을 자동화해 점점 더 빠르게
+  수익을 올리는 방치형 클릭커 게임입니다.
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/dogeminer.jpg
 tags:
@@ -18,25 +18,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-DogeMiner is an incremental idle/clicker game themed around mining coins. Click to mine manually, buy pickaxe upgrades and helpers (such as Shibes, statistics‑boosting tools, and factories), and automate production to earn faster. Later goals include traveling to the Moon and beyond with rocket upgrades. 
+### 개요
 
-### How to Play
-- Click to earn initial coins; invest in upgrades that increase coins per click and per second.
-- Purchase helpers/buildings to automate income; compounding production unlocks new tiers.
-- Use prestige or late‑game resets (where available) to gain multipliers for future runs.
+*DogeMiner*는 귀여운 도지 밈을 테마로 한 증분형 방치/클릭커 게임입니다. 처음에는 직접 클릭해
+코인을 캐지만, 곧 곡괭이 업그레이드와 도우미(샤입, 채굴 도구, 공장 등)를 구매해 자동
+수익을 만들 수 있게 됩니다. 후반에는 로켓을 띄워 달과 그 너머로 향하는 등, 채굴 규모를
+계속 확장해 나가는 것이 목표입니다.
 
-### Controls
-- Mouse/touch: click for manual mining; use UI buttons to buy upgrades, helpers, and rockets.
+### 플레이 방법
 
-### Tips and Strategies
-- Reinvest early into passive income before chasing expensive prestige or rocket parts.
-- Maintain a balance between click upgrades and idle buildings based on playtime.
-- Save for milestone buildings that unlock new content (e.g., space travel).
+- 초반에는 직접 클릭해 초기 자본을 모으고, 클릭당 코인 증가와 초당 생산량을 올려 주는
+  업그레이드에 투자하세요.
+- 일정 금액이 모이면 자동으로 코인을 캐는 도우미/건물을 구매해, 손을 떼고 있어도 코인이
+  쌓이도록 만드세요.
+- 일부 버전에서는 프레스티지(초기화) 시스템을 통해 진행을 리셋하는 대신, 이후 회차에
+  영구 보너스를 주는 시스템이 포함되어 있습니다.
 
-### FAQ
-- Q: Is it playable offline?
-A: Some hosts save progress locally and generate coins while the tab is open; full offline progress varies by host.   
-- Q: What’s the long‑term goal?
-A: Build enough production to launch rockets to the Moon and progress to later areas. 
+### 조작 방법
 
+- 마우스/터치로 화면을 클릭해 수동 채굴을 하고, UI 버튼으로 업그레이드와 도우미, 로켓 등을
+  구매합니다.
+
+### 팁 & 전략
+
+- 초반에는 프레스티지나 로켓 부품보다, 수동 클릭/자동 생산량을 올려 주는 업그레이드에
+  우선 투자하는 것이 효율적입니다.
+- 자주 접속해 클릭할 수 있다면 클릭 관련 업그레이드를, 오랫동안 켜두고 방치할 생각이라면
+  건물/도우미 쪽 투자를 늘려 균형을 맞추세요.
+- 달, 그 이후 행성으로 가는 로켓 관련 건물은 새로운 콘텐츠를 열어 주므로, 어느 정도
+  기반이 갖춰지면 목표로 삼는 것이 좋습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 오프라인에서도 진행되나요?**  
+  **A:** 일부 호스트는 로컬 저장과 탭이 열린 동안의 자동 생산을 지원하지만, 완전한
+  오프라인 진행 여부는 사이트마다 다를 수 있습니다.
+
+- **Q: 장기적인 목표는 무엇인가요?**  
+  **A:** 충분한 생산력을 확보해 로켓을 발사하고 달/우주로 진출한 뒤, 더 높은 단계의
+  채굴 콘텐츠와 업그레이드를 해금하는 것이 최종 목표입니다.

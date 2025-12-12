@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: golf-fling
-title: '[ES] Golf Fling'
+title: Golf Fling
 description: >-
-  [ES] Fling your way to a hole-in-one in Golf Fling! A physics-based puzzle
-  game where you aim, pull, and release to send the ball flying.
+  Lanza la bola directo al hoyo en Golf Fling. Un puzle de golf basado en
+  físicas donde apuntas, tiras hacia atrás y sueltas para enviar la bola
+  volando.
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/golf-fling.jpg
@@ -17,33 +18,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Golf Fling es un divertido y exigente puzle de física que reinventa la forma de
+jugar al golf. En lugar de palos, usas una sencilla mecánica de tirar y soltar
+para lanzar la bola a través de recorridos creativos y llenos de trampas. Tu
+objetivo es meter la bola en el hoyo con el menor número de lanzamientos
+posible. Esquiva obstáculos, aprovecha el terreno y domina el arte del fling
+para convertirte en un auténtico campeón.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Golf Fling is a fun and challenging physics-based puzzle game that reinvents the way you play golf. Instead of clubs, you use a simple pull-and-release mechanic to fling the golf ball across a variety of creative and tricky courses. Your goal is to get the ball into the hole in as few flings as possible. Navigate around obstacles, use the terrain to your advantage, and master the art of the fling to become a champion!
+1. **Apunta con cuidado:** Antes de lanzar, una línea indicadora muestra la
+   trayectoria aproximada de la bola. Úsala para apuntar con precisión,
+   teniendo en cuenta pendientes y obstáculos.
+2. **Controla la potencia:** Cuanto más atrás tires antes de soltar, más fuerza
+   tendrá el disparo. Tendrás que aprender a calcular la potencia adecuada tanto
+   para golpes largos como para toques cortos y delicados.
+3. **Usa el entorno:** Los recorridos están llenos de pendientes, paredes y
+   otros elementos. Sácales partido: rebota la bola en muros para tomar
+   esquinas o utiliza rampas para saltar huecos.
+4. **Planifica tus golpes:** Muchos hoyos no se pueden completar de un solo
+   tiro. Observa el nivel completo y diseña una ruta. A veces es clave aterrizar
+   en un punto concreto para preparar el golpe final.
+5. **Busca el Par:** Cada nivel tiene un par, el número de lanzamientos
+   previstos. Intenta igualarlo o mejorarlo para conseguir la mejor puntuación.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Aim Carefully:** Before you fling, an indicator line will show you the projected path of your ball. Use this to aim precisely, taking into account any obstacles or slopes.
-2.  **[ES]** **Control Your Power:** The further you pull back before releasing, the more power your shot will have. You'll need to learn how to judge the right amount of power for both long drives and short, delicate chips.
-3.  **[ES]** **Use the Environment:** The courses are filled with slopes, walls, and other features. Use them to your advantage! Bounce the ball off walls to get around corners or use a ramp to launch your ball over a gap.
-4.  **[ES]** **Plan Your Shots:** Some holes can't be completed in a single shot. Look at the entire level and plan a route for your ball. Sometimes you need to land in a specific spot to set up your final shot on the hole.
-5.  **[ES]** **Strive for Pars:** Each level has a par, which is the expected number of flings to get the ball in the hole. Try to meet or beat the par for the highest score.
+- **Apuntar y fijar potencia:** Haz clic y mantén pulsado sobre la bola. Arrastra
+  hacia atrás para definir potencia y dirección.
+- **Lanzar:** Suelta el botón del ratón para ejecutar el disparo.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Aim and Power:** Click and hold the mouse button on the golf ball. Drag your mouse back to set the power and direction of your shot.
-*   **[ES]** **Fling:** Release the mouse button to fling the ball.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Meter la bola en el hoyo de cada nivel usando el menor número de
+        lanzamientos posible.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo mejoro la puntuación?**
+    *   **R:** Tu puntuación se basa en los golpes que usas frente al par del hoyo.
+        Hacer hoyo en uno o quedar por debajo del par te da los mejores resultados.
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** The goal is to get the golf ball into the hole on each level using the fewest number of flings possible.
-
-*   **[ES]** **Q: How do I get a better score?**
-    *   **[ES]** **A:** Your score is based on how many shots you take compared to the par for the hole. Getting a hole-in-one or coming in under par will give you the best score.
-
-*   **[ES]** **Q: Can I make the ball curve?**
-    *   **[ES]** **A:** In this type of game, you typically cannot add curve or spin after the ball has been flung. All the control comes from your initial aim and power selection.
-
+*   **P: ¿Puedo hacer que la bola curve?**
+    *   **R:** En este tipo de juego normalmente no puedes añadir efecto después del
+        lanzamiento; todo el control viene del ángulo y la potencia iniciales.

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: categories
-title: '[DE] Categories'
+title: "Categories"
 description: >-
-  [DE] Categories is a quick word‑sorting brainteaser — group items by theme,
-  deduce outliers, and beat the clock.
+  Categories ist ein leichtes Wort- und Logikrätsel – ordne Begriffe nach
+  Themen, entlarve Ausreißer und schlage die Uhr.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/categories.png
 tags:
@@ -15,28 +15,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Categories* ist ein leichtes Logikspiel, bei dem du Begriffe in thematische
+Gruppen sortierst. Du suchst nach gemeinsamen Merkmalen, trennst
+Täuschungsmanöver heraus und löst die Sets unter sanftem Zeit- oder
+Zugdruck.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Categories is a light logic game about sorting items into thematic groups. Identify common links, separate decoys, and solve sets under light timers or move limits.
+1.  Einfache Gruppen zuerst: Sichere dir offensichtliche Sets früh, um die
+    verbleibige Suche einzugrenzen.
+2.  Testweise tauschen: Verschiebe Grenzfälle probeweise zwischen naheliegenden
+    Kategorien, um zu sehen, wo sie besser passen.
+3.  Köder erkennen: Begriffe, die scheinbar in viele Gruppen passen, sind oft
+    bewusst irreführend.
+4.  Zeit managen: Verbeiße dich nicht in einem einzigen Wort – rotiere
+    Kandidaten zügig durch verschiedene Gruppen.
+5.  Über Ausschluss arbeiten: Wenn sich zwei Kategorien ähneln, hilft es, sie
+    darüber zu definieren, was ausdrücklich *nicht* hineingehört.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Easy sets first: Lock obvious groups to shrink the search space.
-2.  **[DE]** Test swaps: Move borderline items between plausible groups.
-3.  **[DE]** Spot decoys: Items that seem to fit many groups are often misleads.
-4.  **[DE]** Manage time: Don’t tunnel—cycle candidates quickly.
-5.  **[DE]** Confirm with opposites: If two categories are close, define them by what they exclude.
+- Ziehe Begriffe per Drag & Drop in Kategorien oder tippe/klicke sie an, um sie
+  per UI einer Gruppe zuzuweisen.
+- Rückgängig/Reset nutzen, falls vorhanden.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drag items into groups or tap to assign per UI.
-- Undo/Reset where available.
+- Gibt es mehrere Lösungen?
+  
+  Meist ist nur eine Aufteilung vorgesehen – orientiere dich an den
+  beabsichtigten Themen.
 
-### Frequently Asked Questions (FAQ)
+- Gibt es Hinweise?
+  
+  Viele Versionen bieten Hinweise an. Nutze sie sparsam, damit der Knobelspaß
+  erhalten bleibt.
 
-- Are there multiple solutions? Usually one; follow intended themes.
-- Hints? Many versions provide hints—use sparingly.
-- Timed? Often light timers to keep pace brisk.
-
+- Ist das Spiel immer auf Zeit?
+  
+  Oft gibt es milde Zeitlimits, die das Tempo hochhalten, ohne allzu viel
+  Druck aufzubauen.

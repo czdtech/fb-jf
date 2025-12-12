@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: red-ball-4
-title: '[ZH TRANSLATION NEEDED] Red Ball 4'
+title: "《Red Ball 4》红球大冒险 4"
 description: >-
-  [ZH TRANSLATION NEEDED] Red Ball 4 is a physics-based platformer game where
-  players control a red ball on a mission to save the world from evil squares
-  that want to turn everything into squares, navigating through challenging
-  levels filled with obstacles and puzzles.
+  《Red Ball 4》是一款基于真实物理的横版闯关游戏。你将操控一颗可爱的红色小球，对抗企图把世界全部变成方块的邪恶方块军团，在充满机关与谜题的关卡中一路滚动、弹跳与解谜。
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/red-ball-4.jpg
 tags:
@@ -18,31 +15,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Red Ball 4》是一款物理感强烈的横版平台动作游戏。你扮演一颗勇敢的红球，为了阻止邪恶方块把整个世界都“压扁成方块”，踏上充满陷阱与机关的冒险旅程。每一关都有各种坡道、机关、敌人和解谜要素，需要你善用红球的弹跳、滚动和惯性来通过障碍并击败敌人。
 
-[ZH TRANSLATION NEEDED] "Red Ball 4" is a physics-based platformer game where players control a cute red ball on a mission to save the world from evil squares that want to turn everything into squares. The game features challenging levels where players must navigate through various obstacles and puzzles, using physics properties to solve problems and defeat enemies.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **熟悉红球的物理特性：** 利用红球的弹跳高度和滚动惯性跨越坑洞、推动车体或压下机关，很多路线都需要借助坡道加速或反弹来实现。
+2.  **掌握时机：** 许多陷阱和移动机关都需要精准的时间控制。先观察运作节奏，再在合适的时机起跳或通过，是通关的关键。
+3.  **收集星星：** 每个关卡中都隐藏着星星或其它可收集物。尽量把这些星星收集齐，不仅能提升完成度，还可能解锁额外内容或成就。
+4.  **正确对付敌人：** 大多数方块敌人可以通过从上方跳压来击败，但要避免从侧面或下方碰撞，否则很容易受伤或掉血。
+5.  **善用机关：** 关卡中会出现按钮、拉杆、移动平台等机关。学会借助它们开启新道路、触发桥梁或改变地形布局。
 
-1.  **Master Physics Properties**: Utilize the red ball's bouncing and rolling characteristics to traverse obstacles and reach targets.
-2.  **Timing Mastery**: Many obstacles require precise timing to pass through; observe patterns and act at the right moment.
-3.  **Collect Stars**: Each level has hidden stars; collecting them can unlock additional content.
-4.  **Defeat Enemies**: Jump on square enemies to defeat them, but be careful of their attack patterns.
-5.  **Use Mechanisms**: Learn to use buttons, switches, and other mechanisms to open new paths.
+### 操作说明
 
-### How to Play
+*   **移动：** 使用左右方向键控制红球左右移动。
+*   **跳跃：** 使用上方向键或空格键让红球起跳。
+*   **滚动：** 借助坡道和重力自然滚动；在平地上持续按方向键可以获得更高的移动速度。
 
-*   **Move**: Use left and right arrow keys to control the red ball's left and right movement.
-*   **Jump**: Use the up arrow key or spacebar to make the red ball jump.
-*   **Roll**: Utilize gravity to naturally roll on slopes, or accelerate by continuously pressing arrow keys.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How do I defeat square enemies?**
-     **A**: Jump on them from above to defeat them, but avoid touching them from the side or below.
-2.  [ZH TRANSLATION NEEDED] **Q: What are stars used for?**
-     **A**: Collecting stars can unlock new levels and game content, making them an important element for completing the game.
-3.  [ZH TRANSLATION NEEDED] **Q: What if I get stuck on a level?**
-     **A**: Carefully observe all elements in the level, try different paths and methods; sometimes you need to use hidden mechanisms.
-4.  [ZH TRANSLATION NEEDED] **Q: How many levels are there in the game?**
-     **A**: "Red Ball 4" typically contains multiple chapters, each with several levels, totaling dozens of challenging levels.
+1.  **问：如何有效击败方块敌人？**  
+    **答：** 尽量从敌人头顶跳压过去即可将其消灭，避免从侧面或下方碰撞。注意有些敌人具备特殊行动模式，要先观察再上前攻击。
+2.  **问：星星有什么用？**  
+    **答：** 星星通常用于提升关卡完成度或解锁额外内容、隐藏关卡等，是想要“全收集”的玩家必须拿下的目标。
+3.  **问：卡关过不去怎么办？**  
+    **答：** 放慢节奏，多观察关卡里每一种机关和地形的作用。有时需要先触发某个开关或利用箱子、滚轮等道具，才能找到正确路线。
+4.  **问：游戏一共有多少关？**  
+    **答：** 《Red Ball 4》通常分为多个章节，每章包含若干关卡，总体有数十个不同难度的挑战，足够你慢慢探索。

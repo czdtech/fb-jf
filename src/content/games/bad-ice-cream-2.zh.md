@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: bad-ice-cream-2
-title: '[ZH TRANSLATION NEEDED] Bad Ice Cream 2'
-description: >-
-  [ZH TRANSLATION NEEDED] Master the frosty mazes of Bad Ice-Cream 2. Learn
-  winning strategies, controls, and tips to collect all the fruit while freezing
-  and smashing your enemies.
+title: Bad Ice-Cream 2 坏坏冰淇淋 2
+description: 在《Bad Ice-Cream 2（坏坏冰淇淋 2）》里，你要在冰雪迷宫中一边建造/打碎冰墙，一边躲避怪物、收集所有水果，考验操作与解谜路线规划。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/bad-ice-cream-2.jpg
@@ -18,58 +15,59 @@ releaseDate: 2025-08-16T00:00:00.000Z
  
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] *Bad Ice-Cream 2* is a charming 2D pixel-art arcade puzzle game. Players control a sentient cone of ice cream whose objective is to navigate through a series of icy, maze-like levels to collect all the scattered pieces of fruit.
+*Bad Ice-Cream 2（坏坏冰淇淋 2）* 是一款像素风街机解谜动作游戏。你扮演一桶有生命的冰淇淋，在一关关冰雪迷宫里穿梭，目标是在计时结束前把场景中的所有水果都吃掉。
 
-[ZH TRANSLATION NEEDED] The game's signature mechanic is the character's ability to create or destroy rows of ice blocks. This serves as the primary tool for both offense and defense. Players must strategically use these ice walls to block off patrolling enemies, create safe pathways to the fruit, or trap monsters. Various types of enemies populate the levels, each with different movement patterns. If an enemy touches the player's ice cream character, a life is lost. The game can be played solo or with a second player in a cooperative mode on the same keyboard, adding a layer of teamwork and potential chaos. The goal of each level is simple: collect all the fruit before the timer runs out, without getting caught.
+本作的核心机制，是主角可以**生成或打碎成行的冰块**：
 
-### Gameplay Strategy & Walkthrough
+- 生成冰块可以挡住巡逻怪物、封锁通道，给自己创造安全区；
+- 打碎冰块则能开辟新道路或释放被阻挡的水果；
+- 不同敌人有不同的移动与追踪模式，被碰到就会掉命。
 
-[ZH TRANSLATION NEEDED] Success in *Bad Ice-Cream 2* is a mix of quick reflexes and clever puzzle-solving.
+游戏支持单人游玩，也支持双人同屏合作模式，两名玩家各自控制一个冰淇淋，在同一关卡里分工收集水果，既有配合的乐趣，也充满“互坑”风险。
 
-#### 1. The Ice Wall is Your Best Tool
-*   **Defense:** Your most common use of the ice wall is to create barriers between you and enemies. If an enemy is approaching, quickly build a wall to block its path.
-*   **Offense (Trapping):** You can't directly kill enemies, but you can trap them. Lure an enemy into a corridor and then seal both ends with ice walls. This temporarily removes them as a threat, allowing you to collect fruit freely in that area.
-*   **Pathfinding:** Sometimes, you need to destroy ice blocks to open up a path to the fruit. Plan your destruction so you don't accidentally free a trapped enemy.
+### 游戏策略与通关思路
 
-#### 2. Plan Your Route
-[ZH TRANSLATION NEEDED] Before you start moving, take a second to look at the layout of the fruit and the starting positions of the enemies. Try to collect fruit in clusters. It's more efficient to clear one section of the map before moving to the next, rather than dashing all over the place.
+在 *Bad Ice-Cream 2* 中，顺利通关需要在反应速度和路线规划之间找到平衡。
 
-#### 3. Understand Enemy Patterns
-[ZH TRANSLATION NEEDED] Enemies in this game are not random. They follow predictable paths. Watch them for a few moments to understand their behavior. Some just move back and forth, while others might actively chase you. Use this knowledge to predict where they will be and plan your moves accordingly.
+#### 1. 冰墙是你最重要的工具
+*   **防守用途：** 敌人逼近时，第一反应往往不是硬刚，而是迅速在你和敌人之间立起一堵冰墙，切断路线。
+*   **进攻（封怪）用途：** 虽然不能真正击杀敌人，但你可以把它们封在封闭通道里。先引怪进入一条走廊，再在两端立墙，就能暂时把这块区域“清空”，安心收集附近水果。
+*   **开路用途：** 有些水果被现有冰块阻挡，需要你打碎部分冰墙才能绕过去。打碎前先想好：这堵墙是不是刚好在帮你挡怪？别一不小心把自己保护层拆掉。
 
-#### 4. Speed vs. Safety
-[ZH TRANSLATION NEEDED] There's a timer, so you can't be too slow. However, rushing recklessly will get you caught. Find a balance. Create small, safe "forts" with your ice walls, collect the nearby fruit, then break out and move to the next section.
+#### 2. 提前规划路线
+在动身之前，先快速扫一眼整张地图：水果分布在哪些区域？敌人起始点在哪里？尽量按“区域”来收集水果——先清完一块，再去下一块，而不是在地图上东一块西一块地乱跑。
 
-#### 5. Cooperative Strategy (2-Player Mode)
-*   **Divide and Conquer:** The most effective strategy is to split the map. One player can work on one side while the other works on the opposite.
-*   **Communicate:** Talk to your partner! Tell them if you're about to trap an enemy or break a wall. The biggest risk in 2-player mode is accidentally trapping your teammate.
-*   **Bait and Switch:** One player can act as a decoy to lure enemies away, while the other player safely collects the fruit.
+#### 3. 熟悉敌人移动规律
+敌人的行动并非完全随机，有些只是按固定路径往返，有些则会主动追逐你。观察几秒钟，搞清楚它们的节奏和转向点，才能判断哪些路口是危险区，哪些时间点适合穿越。
 
-### Controls Guide
+#### 4. 在速度与安全之间取舍
+每一关都有计时，如果太谨慎，可能来不及收完所有水果；但胡乱乱冲又很容易被怪物堵死。可以用“冰墙小据点”的思路：先在某一区域造一个相对安全的小空间，吃完周围水果再拆墙转移。
 
-[ZH TRANSLATION NEEDED] The game uses a shared keyboard for both single-player and two-player modes.
+#### 5. 双人合作模式的小技巧
+*   **分区清理：** 最稳定的打法是两人各包一侧，互不干扰、同时推进。
+*   **保持沟通：** 准备封怪或打碎关键墙体前，提前和队友打个招呼，以免把队友封在怪物旁边。
+*   **引怪协作：** 一人负责“当诱饵”把怪物引走，另一人趁机快速收集剩余水果，是很有效的配合思路。
 
-*   **Player 1:**
-    *   **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
-    *   **Create/Destroy Ice:** `Spacebar`
+### 操作指南
 
-*   **Player 2:**
-    *   **Move:** `W`, `A`, `S`, `D` Keys
-    *   **Create/Destroy Ice:** `F` Key
+游戏使用同一键盘即可支持单人或双人：
 
-### Frequently Asked Questions (FAQ)
+*   **玩家 1：**  
+    *   **移动：** 方向键 `↑` `↓` `←` `→`
+    *   **生成/打碎冰块：** `Space` 空格键
 
-*   **Q: Can I kill the enemies in the game?**
-    *   **A:** No, you cannot permanently kill or destroy the enemies. The only way to deal with them is to avoid them or temporarily trap them using your ice block ability.
+*   **玩家 2：**  
+    *   **移动：** `W` `A` `S` `D`
+    *   **生成/打碎冰块：** `F` 键
 
-*   **Q: What happens if the timer runs out?**
-    *   **A:** If the timer at the top of the screen reaches zero before you have collected all the fruit, you will lose a life and have to restart the level.
-
-*   **Q: Is there a difference between the fruit types?**
-    *   **A:** No, in terms of gameplay, all fruits are the same. Your goal is simply to collect all of them, regardless of their appearance (bananas, cherries, grapes, etc.). The variety is purely cosmetic for each level's theme.
-
-*   **Q: How does the 2-player mode work? Do we have separate lives?**
-    *   **A:** You play cooperatively on the same screen. Typically, players share a pool of lives, meaning if either player gets caught by an enemy, one life is deducted from the total. Your goal is to work together to clear the level.
-
+### 常见问题解答（FAQ）
+*   **问：可以真正消灭敌人吗？****
+    *   答：** 不行，敌人不会被永久消灭，只能通过冰墙暂时封锁或绕路躲避。
+*   **问：计时结束会怎样？****
+    *   答：** 如果时间归零前没吃完所有水果，你会损失一条命，并需要重开本关。
+*   **问：不同水果有区别吗？****
+    *   答：** 在玩法上没有差别，所有水果都只是“收集目标”，外观差异只是为了配合关卡主题。目标是吃完全部，无论是香蕉、樱桃还是葡萄。
+*   **问：双人模式的命是分开的还是共享的？****
+    *   答：** 通常是共享生命池——只要任意一名玩家被怪物抓到，就会扣除一条总生命值，所以更需要互相提醒与配合。

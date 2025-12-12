@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: aqua-blocks
-title: '[KO] Aqua Blocks'
+title: "Aqua Blocks 아쿠아 블록스"
 description: >-
-  [KO] Aqua Blocks is a watery block‑placer — fit shapes, clear lines, and keep
-  the board breathing.
+  Aqua Blocks는 물 속을 연상시키는 보드 위에 블록 조각을 배치해 줄과 영역을 채우는
+  퍼즐 게임입니다. 다양한 모양의 블록을 맞춰 넣어 라인을 지우고, 막힌 공간 없이
+  보드를 깨끗하게 유지하는 것이 핵심입니다.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/aqua-blocks.png
 tags:
@@ -17,25 +18,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Aqua Blocks is a relaxing block‑placement game. Place given shapes to fill lines or regions, make space with multi‑line clears, and avoid creating sealed cavities.
+Aqua Blocks는 차분한 분위기의 블록 배치 퍼즐 게임입니다. 매 턴 제공되는 블록 조각을
+보드에 올려 줄이나 특정 영역을 가득 채우면 해당 줄/영역이 사라지며 공간이
+확보됩니다. 여러 줄을 한 번에 지우면 큰 점수를 얻을 수 있지만, 공간이 막혀 더 이상
+조각을 둘 곳이 없으면 게임이 끝나기 때문에, 빈칸을 어떻게 남길지 고민하면서
+배치하는 것이 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 플레이 팁
 
-1.  **[KO]** Keep edges tidy to prevent stray single cells.
-2.  **[KO]** Build for Tetris‑like clears across multiple lines.
-3.  **[KO]** Don’t over‑commit to one corner.
-4.  **[KO]** Save emergency slots for awkward shapes.
-5.  **[KO]** Use previews (if any) to plan sequences.
+1. 가장자리 정리하기: 가장자리에 애매하게 한 칸만 남기면 이후 조각을 배치하기
+   어려워집니다. 가능하면 줄을 깔끔하게 맞춰, "떠 있는 한 칸"이 남지 않게 신경
+   쓰세요.
+2. 여러 줄 동시 제거 노리기: 한 줄씩만 지우기보다, 두 줄 이상을 동시에 지울 수
+   있는 패턴을 만들면 점수와 공간 확보 면에서 크게 유리합니다.
+3. 한쪽 구석에만 몰지 않기: 한 코너에만 블록을 쌓다 보면 반대쪽에 긴 조각을 둘
+   공간이 사라질 수 있습니다. 전체 보드를 고르게 사용하세요.
+4. 애매한 조각용 비상 공간 확보: 모양이 기묘한 조각이 나올 것을 대비해, 한쪽
+   구역에는 일부러 여유 공간을 남겨 두는 것도 좋은 전략입니다.
+5. 미리보기 활용: 다음에 나올 블록이 보이는 버전이라면, 현재 조각뿐 아니라 이후
+   조각까지 고려해 연속 배치 계획을 세우는 것이 좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Drag shapes onto the grid; rotate if supported.
-- Undo/Reset via UI.
+- 블록을 드래그해 보드 위 원하는 위치에 놓습니다. 회전 기능이 있는 버전이라면,
+  회전 버튼이나 오른쪽 클릭 등으로 방향을 바꿀 수 있습니다.
+- 일부 버전에서는 실행 취소/재시작 버튼을 통해 여러 번 배치를 다시 시도할 수
+  있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- No space left—what now? Undo and re‑plan; otherwise restart.
-- Rotations? Depends on the variant.
-- Endless? Typically yes.
+- **Q: 더 이상 둘 공간이 없으면 어떻게 되나요?**  
+  **A:** 둘 수 있는 칸이 하나도 없다면 그 즉시 게임 오버입니다. 일부 버전에서는
+  한두 번 정도 실행 취소로 되돌릴 수 있지만, 기본적으로는 처음부터 다시 시작해야
+  합니다.
+
+- **Q: 블록을 회전할 수 있나요?**  
+  **A:** 회전 가능 여부는 버전에 따라 다릅니다. 화면의 회전 아이콘이나 도움말을
+  확인해 보세요.
+
+- **Q: 끝이 있는 게임인가요, 아니면 무한 모드인가요?**  
+  **A:** 대부분 끝이 정해져 있지 않은 엔드리스 모드에 가깝고, 공간 관리에 성공하는
+  만큼 오래 플레이하며 점수를 갱신할 수 있습니다.

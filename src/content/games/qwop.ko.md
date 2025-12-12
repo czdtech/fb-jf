@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: qwop
-title: '[KO] QWOP Game'
+title: "QWOP Game QWOP 달리기 게임"
 description: >-
-  [KO] QWOP is a notoriously difficult physics-based running game where players
-  control a runner's leg muscles using only four keys (Q, W, O, P) to try to run
-  100 meters without falling.
+  네 개의 키(Q, W, O, P)만으로 선수의 다리 근육을 조작해 100m를
+  완주해야 하는 악명 높은 물리 기반 달리기 게임입니다. 엉뚱한
+  조작감과 쓰러지는 모션으로 유명합니다.
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/qwop.jpg
 tags:
@@ -18,34 +18,69 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*QWOP Game*은 물리 엔진 기반의 달리기 게임으로, 조작 난이도가
+악명 높기로 유명한 작품입니다. 플레이어는 키보드의 네 개 키
+**Q, W, O, P**만으로 선수의 허벅지와 종아리 근육을 각각 조작해
+넘어지지 않고 100m를 완주해야 합니다.
 
-### Game Introduction
+조작 방식이 매우 부자연스럽고 어렵기 때문에, 앞으로 한두 걸음만
+나아가는 것조차 큰 도전입니다. 이 과장된 난이도와 웃긴
+넘어짐 모션 덕분에 인터넷 밈과 도전 과제로 널리 회자되었습니다.
 
-"QWOP Game" is a notoriously difficult physics-based running game. Players need to use four keyboard keys (Q, W, O, P) to control a runner's leg muscles with the goal of running 100 meters without falling. The game's control scheme is extremely difficult and counterintuitive, making even the simplest forward movement challenging, which has made it a popular internet topic and challenge.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **키 역할부터 정확히 이해하기**  
+   보통 Q와 W는 왼쪽 다리의 허벅지/종아리를, O와 P는 오른쪽 다리의
+   허벅지/종아리를 담당합니다. 어떤 키 조합이 어떤 움직임을 만드는지
+   튜토리얼 느낌으로 천천히 실험해 보세요.
 
-1.  **[KO]** **Understand Key Functions**: Q and W control the left leg's thigh and calf, while O and P control the right leg's thigh and calf.
-2.  **[KO]** **Start with Small Steps**: Don't try to run immediately; first learn how to maintain balance and take small steps.
-3.  **[KO]** **Maintain Rhythm**: Find a steady key-pressing rhythm, usually alternating presses to simulate walking motion.
-4.  **[KO]** **Avoid Excessive Force**: Pressing keys too quickly or forcefully will cause the character to lose balance and fall.
-5.  **[KO]** **Practice Patiently**: This game requires extensive practice to master; don't give up due to frequent failures.
+2. **처음에는 뛰기보다 서 있는 법부터**  
+   곧바로 전속력으로 달리려 하기보다, 우선 균형을 유지하며 한두
+   발짝 앞으로 나아가는 연습을 하는 것이 좋습니다. "천천히 앞으로
+   쓰러지지 않기"가 1차 목표입니다.
 
-### How to Play
+3. **규칙적인 리듬 찾기**  
+   걷거나 달리는 것은 결국 일정한 키 리듬을 반복하는 일입니다.
+   왼발, 오른발 순서로 번갈아 누르면서 캐릭터가 가장 안정적으로
+   전진하는 패턴을 찾아 보세요.
 
-*   **[KO]** **Q Key**: Controls left leg thigh muscle
-*   **[KO]** **W Key**: Controls left leg calf muscle
-*   **[KO]** **O Key**: Controls right leg thigh muscle
-*   **[KO]** **P Key**: Controls right leg calf muscle
+4. **힘주어 연타하지 않기**  
+   키를 너무 빨리, 마구잡이로 누르면 중심이 무너져 뒤로 넘어지기
+   쉽습니다. 부드럽고 일정한 템포로 입력하는 것이 훨씬 좋습니다.
 
-### Frequently Asked Questions
+5. **여러 번 시도하는 것을 전제로 하기**  
+   이 게임은 실패를 반복하며 감을 익히는 구조입니다. 자주 넘어지는
+   것이 정상이라고 생각하고, 조금씩 거리를 갱신해 나가는 재미로
+   즐겨 보세요.
 
-1.  **[KO]** **Q: Why does the character always fall backwards?**
-**A**: This is likely because you're pressing keys too aggressively or not maintaining proper balance. Try a gentler, more rhythmic key-pressing approach.
-2.  **[KO]** **Q: Are there any successful key combinations?**
-**A**: There's no fixed formula for success, but many players find that alternating, rhythmic key presses are more effective than random pressing.
-3.  **[KO]** **Q: What's the furthest distance possible?**
-**A**: The game's goal is to run 100 meters, but most players struggle to get past 10 meters. Running over 50 meters is considered quite impressive.
-4.  **[KO]** **Q: Is this game intentionally designed to be this difficult?**
-**A**: Yes, QWOP was designed to demonstrate the complexity of human movement and how seemingly simple running actually requires incredibly precise coordination.
+### 조작 가이드
+
+- **Q 키**: 왼쪽 다리의 허벅지 근육을 조작  
+- **W 키**: 왼쪽 다리의 종아리 근육을 조작  
+- **O 키**: 오른쪽 다리의 허벅지 근육을 조작  
+- **P 키**: 오른쪽 다리의 종아리 근육을 조작
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 캐릭터가 자꾸 뒤로 넘어져요. 왜 그런가요?**  
+   **A:** 키를 너무 세게, 혹은 불규칙하게 입력하면 상체가 뒤로
+   젖혀지면서 넘어지기 쉽습니다. 입력 강도를 줄이고, 다리 움직임을
+   서로 균형 있게 맞추는 리듬을 찾는 것이 중요합니다.
+
+2. **Q: 잘 달리게 해 주는 "정답" 키 조합이 있나요?**  
+   **A:** 완전한 정답 패턴은 없지만, 많은 플레이어가 좌·우 다리를
+   규칙적인 순서로 번갈아 움직이는 패턴이 랜덤 연타보다 훨씬
+   안정적이라고 보고합니다. 자신에게 맞는 타이밍을 직접 찾아야
+   합니다.
+
+3. **Q: 최종 목표 거리는 어느 정도인가요?**  
+   **A:** 공식 목표는 100m 완주입니다. 대부분의 신규 플레이어는
+   10m도 가기 전에 넘어진다고 할 정도로 어렵고, 50m 이상 달리면
+   상당히 잘하는 편에 속합니다.
+
+4. **Q: 애초에 이렇게 어렵게 만든 이유가 있나요?**  
+   **A:** QWOP는 사람이 걷고 뛰는 동작이 얼마나 복잡한 조합인지,
+   그리고 단순해 보이는 움직임도 정교한 근육 조절을 필요로 한다는
+   점을 보여 주기 위해 의도적으로 난이도를 높게 설계된 게임입니다.

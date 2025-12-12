@@ -1,12 +1,8 @@
 ---
 locale: zh
 urlstr: supernova
-title: '[ZH TRANSLATION NEEDED] Supernova'
-description: >-
-  [ZH TRANSLATION NEEDED] Navigate the dangers of deep space in Supernova! Pilot
-  your starship through a hazardous asteroid field, blasting space rocks and
-  other threats. Survive as long as you can to achieve a high score in this
-  classic arcade-style space shooter.
+title: 《Supernova》超新星空间射击
+description: 《Supernova》是一款复古风格的太空射击游戏。驾驶你的星舰穿越危险的小行星带，摧毁太空岩石和敌对目标，在弹幕与碎片中尽可能生存更久刷出高分。
 iframeSrc: 'https://rebemanae.github.io/supernova/'
 thumbnail: /new-images/supernova.jpg
 tags:
@@ -18,5 +14,30 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] supernova game is an extremely cool parkour game. In the game, you need to avoid various obstacles and pass all kinds of levels.
+《Supernova》向经典街机太空射击玩法致敬。你将驾驶一艘小型星际飞船，置身于布满小行星与太空碎片的危险区。通过灵活的机动与精准的射击摧毁迎面而来的陨石和敌方单位，同时避免自己被撞碎或被敌人火力击中。随着时间推移，敌人密度和速度都会不断提升，对你的反应与走位提出更高要求。
+
+> 注：部分简介中提到“跑酷”式玩法的文案只是早期占位描述，本版本以官方设定的“射击穿越小行星带”为准。
+
+### 游玩策略
+
+1.  **保持机动性：** 不要停在原地扫射，适度移动可以让你轻松避开大型陨石与子弹交汇区。
+2.  **优先清理近距离威胁：** 先打掉即将撞上你的近处岩石或高速敌人，再处理远处目标，避免被“贴脸”秒杀。
+3.  **预判飞行方向：** 在射击移动目标时，稍微瞄在它前进方向的前方一点，更容易命中。
+4.  **利用边缘空间：** 当屏幕中央过于混乱时，可以向边缘区域撤离，重整节奏再从侧面切回战场。
+
+### 操作说明
+
+*   **移动：** 使用方向键或 WASD 控制飞船在屏幕上的移动；
+*   **射击：** 使用指定键或鼠标进行持续开火；
+*   **特殊能力（如有）：** 部分版本提供炸弹或必杀技，可在危急时刻清理大面积敌人和障碍。
+
+### 常见问题解答（FAQ）
+
+**问：被陨石撞到会怎样？****
+答：** 通常会直接损失一条生命或结束游戏，具体规则视当前版本而定。
+
+**问：游戏有终点吗？****
+答：** 大多为无尽模式，以你能坚持的时间和击毁数量来计分，是一款典型的“刷分型”街机射击。
+

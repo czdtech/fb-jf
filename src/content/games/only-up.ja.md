@@ -1,72 +1,51 @@
 ---
-locale: ja
+title: Only Up
+description: Only Upは垂直登りチャレンジです。ジャンプし、登り、落下を避け、できるだけ高く到達します。
+iframeSrc: 'https://onlyup.h5games.usercontent.goog/v/2k7j9m5h8p3n8/'
+thumbnail: /new-images/only-up.png
 urlstr: only-up
-title: '[JA TRANSLATION NEEDED] Only Up'
-description: >-
-  [JA TRANSLATION NEEDED] Only Up is a challenging 3D platformer where players
-  must meticulously climb a precarious and often chaotic world, overcoming
-  obstacles and mastering precise jumps to reach higher altitudes without
-  falling.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
-thumbnail: /new-images/only-up.jpg
+score: 4.1/5  (1934 votes)
 tags:
-  - platformer
-  - adventure
-  - difficulty
-score: 3.5/5  (1311 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Game Introduction
+Only Upは、プラットフォームとオブジェクトを登ることに挑戦します。一つのルール：上にのみ移動します。落下すると、すべての進行を失います。正確なジャンプ、慎重な計画、鉄の意志が必要です。
 
-[JA TRANSLATION NEEDED] "Only Up" is an extremely challenging 3D platformer. Players' objective is to continuously climb a massive world composed of various floating objects, abandoned buildings, and peculiar structures. The game has no save points; every mistake can lead to falling from great heights, requiring a restart from the beginning, thus posing a significant test to players' precision and mental fortitude.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy
+1.  **忍��強く:** 急がないでください。各ジャンプを計画します。
+2.  **安全なルートを探す:** リスクを最小限に抑えるパスを選択します。
+3.  **カメラを制御:** 良い視野を維持します。
+4.  **休息ポイント:** 安全なプラットフォームで一息つきます。
+5.  **失敗から学ぶ:** 各落下が教訓です。
 
-[JA TRANSLATION NEEDED] 1.  **Meticulous Observation**: Before each jump, carefully observe the position, distance, and material of the next landing spot, and plan the optimal route.
-[JA TRANSLATION NEEDED] 2.  **Master Jump Rhythm**: Different objects may require different jump strengths and timings; familiarize yourself with the character's jumping feel.
-[JA TRANSLATION NEEDED] 3.  **Utilize Environment**: Some seemingly impossible jumps might require using small objects in the environment for assistance, or finding hidden paths.
-[JA TRANSLATION NEEDED] 4.  **Stay Calm**: Don't get discouraged by multiple failures; staying calm helps improve operational stability and precision.
-[JA TRANSLATION NEEDED] 5.  **Learn from Experience**: Every fall is an opportunity to learn; remember where you failed to avoid repeating mistakes.
+### 操作ガイド
 
-### How to Play
-
-*   **Movement**: Use WASD or arrow keys to control character movement.
-*   **Jump**: Spacebar for jumping.
-*   **Sprint**: Some game versions may offer a sprint function, often combined with jumping for longer leaps (e.g., Shift + Spacebar).
-*   **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
+- WASD/矢印：移動します。
+- スペース：ジャンプします。
+- マウス：カメラを見回します。
 
 
-- **Learn from Experience**: Every fall is an opportunity to learn; remember where you failed to avoid repeating mistakes.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: Does the game have save points?**
-### よくある質問
 - **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
-- **Sprint**: Some game versions may offer a sprint function, often combined with jumping for longer leaps (e.g., Shift + Spacebar).
-- **Jump**: Spacebar for jumping.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Movement**: Use WASD or arrow keys to control character movement.
-[JA TRANSLATION NEEDED] 1.  **Q: Does the game have save points?**
+- **Q: 落下した場合はどうなりますか？**  
+  A: 下部またはチェックポイントで再起動します（バージョンによる）。
+- **Q: チェックポイントはありますか？**  
+  A: 一部のバージョンに、他のものはありません。
+- **Q: どれくらい高くありますか？**  
+  A: バージョンによって異なりますが、多くは非常に長いです。
 
-- **Q: What is the objective of the game?**
-[JA TRANSLATION NEEDED]     **A**: One of the core challenges of "Only Up" is the absence of save points. Players may fall back to the starting point after each fall, requiring them to restart the challenge.
 
-- **Q: How can I avoid frequent falls?**
-[JA TRANSLATION NEEDED] 2.  **Q: What is the objective of the game?**
+**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
 
 - **Q: Is the game beginner-friendly?**
-[JA TRANSLATION NEEDED]     **A**: The objective is to overcome all obstacles and continuously climb upwards to reach the highest point of the world.
-[JA TRANSLATION NEEDED] 3.  **Q: How can I avoid frequent falls?**
-[JA TRANSLATION NEEDED]     **A**: The key lies in precise execution, careful observation, and patience. Don't rush; take each step steadily.
-[JA TRANSLATION NEEDED] 4.  **Q: Is the game beginner-friendly?**
-[JA TRANSLATION NEEDED]     **A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
+
+
+**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.

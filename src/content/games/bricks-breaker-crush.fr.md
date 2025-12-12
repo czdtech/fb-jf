@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: bricks-breaker-crush
-title: '[FR] Bricks Breaker Crush'
-description: >-
-  [FR] Bricks Breaker Crush showers bricks to shatter — aim volleys, stack
-  multipliers, and carve optimal angles through dense fields.
-iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
+title: "Bricks Breaker Crush"
+description: "Bricks Breaker Crush est un jeu de tirs de balles contre des briques numérotées : vise des angles longs, récupère des balles bonus et empêche le mur de toucher le bas."
+iframeSrc: "https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/"
 thumbnail: /new-images/bricks-breaker-crush.png
 tags:
   - puzzle
@@ -15,38 +13,45 @@ score: 4.0/5  (1906 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Bricks Breaker Crush* te fait lancer des salves de balles qui ricochent sur des briques numérotées. Chaque impact fait descendre le compteur d’une brique ; à chaque tour, le mur descend d’un cran. Si une brique atteint la ligne du bas, c’est perdu.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1. **Angles peu inclinés**  
+   Commence avec des angles modérés pour que les balles parcourent la largeur de l’écran et touchent plusieurs colonnes.
 
-Bricks Breaker Crush fires barrages of balls that ricochet through numbered bricks. Your aim sets the initial trajectory; bricks count down as they’re hit. Mastery is about shaping long ricochet paths, multiplying contacts per volley, and preventing walls from reaching the bottom.
+2. **Priorise les +ball**  
+   Les bonus qui ajoutent des balles à ta salve sont essentiels en début de partie : plus tu as de balles, plus chaque tir sera puissant.
 
-### Gameplay Strategy & Walkthrough
+3. **Coupe les colonnes dangereuses**  
+   Cible en priorité les briques à gros chiffres proches du bas, surtout lorsqu’elles sont regroupées dans une même colonne.
 
-1.  **[FR]** Shallow angles: Start at modest angles to maximize side‑to‑side hits.
-2.  **[FR]** Target multipliers: Hit +ball pickups early to scale your volleys.
-3.  **[FR]** Cut columns: Remove high‑value columns that threaten the bottom.
-4.  **[FR]** Set traps: Build V‑shaped lanes so balls loop near the top for extended time on target.
-5.  **[FR]** Emergency clears: When a row is critical, aim direct shots to neutralize it before it drops.
-6.  **[FR]** Power‑ups: Save line clears for emergencies; chain with big volleys when possible.
+4. **Créer des couloirs en V**  
+   Façonne des couloirs qui gardent les balles piégées près du haut de l’écran pour maximiser les impacts.
 
-### Controls Guide
+5. **Tirs d’urgence**  
+   Quand une rangée est sur le point de toucher la ligne critique, abandonne les setups et vise directement les briques les plus menaçantes.
 
-- Drag to aim; release to fire the volley.
-- Power‑ups trigger on catch or tap depending on the build.
+6. **Power‑ups en réserve**  
+   Conserve les nettoyages de ligne ou autres bonus offensifs pour les situations critiques, puis combine-les avec une grosse salve pour vider une zone entière.
 
-### Frequently Asked Questions (FAQ)
+### Commandes
 
-- Q: My shots feel too random—how do I get control?
+- Glisse pour viser, relâche pour lancer la salve.  
+- Les power‑ups se déclenchent en les touchant ou via clic, selon la version.
 
-A: Use modest angles and shape lanes that keep balls looping near the ceiling; avoid steep, chaotic caroms.
+### Foire aux questions (FAQ)
 
-- Q: What should I prioritize: +ball or clears?
+- **Q : Mes tirs semblent trop aléatoires, comment les contrôler ?**
+  
+  R : Évite les angles trop raides et privilégie des trajectoires qui gardent les balles en haut de l’écran le plus longtemps possible, en sculptant des couloirs latéraux.
 
-A: Early +ball pickups snowball; in danger, clear critical columns first.
+- **Q : Je dois prioriser les bonus +ball ou les tirs de nettoyage ?**
+  
+  R : En début de run, les +ball sont vitaux pour amplifier chaque salve. Si une rangée est déjà critique, sacrifie le bonus et nettoie d’abord la colonne menaçante.
 
-- Q: The wall keeps dropping—any fix?
-
-A: Stop building traps and fire surgical shots at the highest numbers near the bottom edge.
-
+- **Q : Le mur descend trop vite, comment m’en sortir ?**
+  
+  R : Abandonne les setups complexes et vise directement les briques aux chiffres les plus élevés proches de la ligne de défaite pour regagner de l’espace.

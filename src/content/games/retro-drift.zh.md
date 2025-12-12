@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: retro-drift
-title: '[ZH TRANSLATION NEEDED] Retro Drift'
-description: >-
-  [ZH TRANSLATION NEEDED] Retro Drift is an old‑school top‑down drifter —
-  feather throttle, manage angles, and slide clean through corners.
+title: 《Retro Drift》复古俯视漂移
+description: 《Retro Drift》是一款老派俯视角漂移赛车游戏。你需要用细腻的油门控制、精准的车身角度和流畅的连弯线路，在赛道上干净利落地侧滑过弯，刷出更快圈速。
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
 thumbnail: /new-images/retro-drift.jpg
 tags:
@@ -16,26 +14,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Retro Drift is a minimalist top‑down driving game focused on controlled slides. Courses favor flowing lines and corner linking—light throttle, counter‑steer timing, and exit speed determine lap times and score multipliers.
+《Retro Drift》是一款极简风格的俯视角驾驶游戏，核心在于“可控漂移”。赛道设计偏向连贯的弯道与节奏感强的线路，考验你如何通过轻点油门、恰到好处的反打方向以及出弯速度，来决定最终圈速和得分倍率。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Enter slow, exit fast: Sacrifice a bit of entry speed to maximize exit traction and next corner setup.
-2.  [ZH TRANSLATION NEEDED] Feather throttle: Short pulses keep traction while preserving the slide.
-3.  [ZH TRANSLATION NEEDED] One drift, many corners: Link consecutive corners by planning line and throttle in advance.
-4.  [ZH TRANSLATION NEEDED] Recover early: If the rear steps out too far, reduce throttle and steer into the slide before it spins.
-5.  [ZH TRANSLATION NEEDED] Learn layouts: Repetition builds muscle memory for braking points and apex timing.
+### 通关思路与操作策略
 
-### Controls Guide
+1.  **慢进快出：** 进弯时可以稍微牺牲一些速度，换来更稳的车头指向和更高的出弯抓地力，这样更利于下一弯的布局。
+2.  **轻点油门：** 连续轻点或短促油门脉冲能在保持侧滑姿态的同时不至于完全失去抓地，比一直踩死油门更稳定。
+3.  **一漂带多弯：** 提前规划路线和油门节奏，让一次连续漂移顺畅地串联起多个弯道，而不是在每个弯之间完全稳车再重启。
+4.  **尽早修正：** 一旦感觉车尾甩得过大，要立刻收一点油门，并向滑动方向反打方向盘，防止车辆原地打转。
+5.  **熟记赛道：** 多刷几圈，记住每个弯的制动点、转向点和理想 apex（弯心），肌肉记忆形成后圈速自然会降下来。
 
-- Steer: A/D or Left/Right.
-- Throttle/Brake: W/S or Up/Down.
-- Handbrake (if available): Space for sharper rotation.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **转向：** 使用 A/D 或左右方向键控制车辆左右转向。
+- **油门 / 刹车：** 使用 W/S 或上下方向键控制加速与减速。
+- **手刹（若有）：** 空格键触发更猛烈的车尾摆动，适合急弯或桥段起漂。
 
-- I keep spinning—why? Too much throttle or late counter‑steer; soften inputs and react earlier.
-- Best way to link corners? Focus on exit of corner A to set a line into corner B; avoid full traction resets between them.
-- Are upgrades available? Some modes offer car unlocks; otherwise, skill and consistency drive improvement.
-
+### 常见问题解答（FAQ）
+*   **问：为什么我总是原地打转？****
+    *   答：** 通常是油门给得太猛或反打方向太晚。建议减小油门幅度，并在车尾刚开始甩出时就提前修正。
+*   **问：怎么才能顺畅连弯？****
+    *   答：** 把重点放在前一个弯的“出弯角度”上，让车身在出弯时就指向下一个弯的入口，避免在弯与弯之间完全拉直车身重新起漂。
+*   **问：车辆能升级吗？****
+    *   答：** 部分模式会提供不同车辆解锁或轻度升级系统，但整体上驾驶技术和稳定性才是成绩好坏的关键。

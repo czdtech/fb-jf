@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: cake-smash
-title: '[KO] Cake Smash'
+title: Cake Smash 케이크 스매시
 description: >-
-  [KO] Match and smash delicious cakes in Cake Smash, a fun and addictive
-  match-3 puzzle game.
+  Cake Smash는 맛있는 케이크를 맞춰 터뜨리는 3매치 퍼즐 게임입니다. 인접한 케이크를 바꿔 같은 모양을 3개 이상 줄 세우고, 특수
+  케이크와 연계를 활용해 통쾌하게 보드를 정리해 보세요.
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/cake-smash.png
 tags:
@@ -15,28 +15,56 @@ score: 4.3/5 (1543 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Cake Smash는 알록달록한 케이크 타일을 맞춰 터뜨리는 3매치 퍼즐 게임입니다.
+서로 인접한 케이크 두 개를 맞바꿔, 같은 케이크를 가로나 세로로 세 개 이상
+연결하면 해당 줄이 터지면서 새로운 케이크가 위에서 떨어져 빈 칸을 채웁니다.
 
+각 스테이지는 "특정 케이크를 몇 개 이상 제거하기", "정해진 점수 이상 기록하기" 등
+나름의 목표를 가지고 있으며, 제한된 이동 횟수 안에 목표를 달성해야 클리어할 수
+있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to swap adjacent cakes to create lines of three or more identical cakes, which then get "smashed" and removed from the board, with new cakes falling into place. Each level has a specific goal, such as reaching a certain score or clearing a certain number of a specific type of cake.
+1.  **기본 매치부터 빠르게 찾기**  
+    먼저 보드를 훑어보며 3개 매치를 쉽게 만들 수 있는 자리부터 처리하세요.
+    간단한 매치를 빠르게 처리하면 보드가 섞이며, 우연한 콤보가 이어질 가능성도
+    커집니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **특수 케이크를 적극적으로 만들기**  
+    네 개 또는 다섯 개 이상의 케이크를 한 번에 맞추면, 가로줄/세로줄 전체를
+    지우거나, 한 색 전체를 제거하는 등 강력한 효과를 가진 특수 케이크가
+    생성됩니다. 가능한 한 이런 매치를 우선으로 노려 보세요.
 
-1.  **[KO]** **Identify Matches:** Look for opportunities to match three or more identical cakes by swapping two adjacent cakes.
-2.  **[KO]** **Create Special Cakes:** Matching four or five cakes at once will often create a special cake with powerful clearing abilities. For example, a striped cake might clear a whole row or column.
-3.  **[KO]** **Combine Special Cakes:** For even bigger effects, try to swap two special cakes with each other.
-4.  **[KO]** **Focus on the Objective:** Pay attention to the level's goal. Sometimes you need to focus on clearing specific tiles or reaching a score target within a limited number of moves.
+3.  **특수 케이크끼리의 조합 활용**  
+    특수 케이크 두 개를 서로 교환하면, 단독 사용보다 훨씬 큰 효과가 발생합니다.
+    예를 들어 줄 지우기 케이크 둘을 맞바꾸면 가로·세로 줄을 동시에 지우는 등
+    한 번에 보드를 크게 비울 수 있습니다.
 
-### Controls Guide
+4.  **스테이지 목표에 맞춰 움직이기**  
+    단순히 눈에 보이는 매치만 만들다 보면, 정작 목표 케이크는 거의 손대지
+    못하는 경우가 생깁니다. 특정 색이나 특정 위치의 블록을 깨야 하는 스테이지라면
+    항상 그 목표에 가까워지는 매치를 우선하세요.
 
-*   **[KO]** **Mouse/Touch:** Use the mouse or touch screen to click and drag or tap on adjacent cakes to swap them.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+-   **마우스/터치:** 마우스나 손가락으로 인접한 케이크를 클릭 후 드래그(또는
+    탭 두 번)해 위치를 서로 바꿀 수 있습니다. 바꾼 후 3매치가 성립하지 않으면
+    원래 자리로 돌아갑니다.
 
-*   **[KO]** **Q: What do the special cakes do?**
-    *   **[KO]** **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-*   **[KO]** **Q: How do I beat difficult levels?**
-    *   **[KO]** **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
+### 자주 묻는 질문 (FAQ)
 
+-   **Q. 특수 케이크는 어떤 효과가 있나요?**  
+    A. 4개, 5개 이상의 매치로 생성되는 특수 케이크는 가로줄 전체, 세로줄 전체,
+    혹은 특정 색을 한 번에 지우는 등 강력한 효과를 갖습니다. 게임 내 튜토리얼을
+    통해 각 아이콘이 어떤 능력을 지니는지 확인해 보세요.
+
+    - **Q. 어려운 스테이지를 어떻게 넘길 수 있을까요?**  
+
+- **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
+
+    - **Q: How do I beat difficult levels?**
+    A. 이동 횟수가 제한적인 스테이지일수록, 초반부터 특수 케이크 생성과 조합을
+    노리는 것이 중요합니다. 무작정 작은 매치만 만들기보다는, 두세 수 앞까지
+    생각하며 큰 폭발을 만들 수 있는 배치를 준비해 보세요.

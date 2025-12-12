@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: color-jump
-title: '[ES] Color Jump'
+title: "Color Jump"
 description: >-
-  [ES] Color Jump is a one‑tap runner — match colors, time jumps, and thread
-  through shifting patterns.
+  Color Jump es un runner minimalista de un solo toque: combina colores, calcula
+  los saltos y atraviesa patrones que cambian constantemente.
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/color-jump.png
 tags:
@@ -15,36 +15,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Color Jump es un juego minimalista de reflejos en el que tu personaje solo puede
+atravesar puertas o plataformas cuyo color coincida con el suyo. Debes calcular
+el momento exacto del salto para alinear el color, evitar barreras que no
+coinciden y mantener el ritmo mientras la velocidad aumenta.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Color Jump is a minimalist reflex game where your character can pass only through matching‑color gates or platforms. Time jumps to align colors, avoid mismatched barriers, and maintain rhythm as speed increases.
+1.  Lee siempre dos obstáculos por delante en lugar de fijarte solo en la puerta
+    más cercana.
+2.  Mantén un ritmo de pulsaciones estable; los saltos ligeramente tardíos
+    suelen ayudar a esquivar mejor las plataformas bajas.
+3.  No arriesgues por monedas difíciles cuando la alineación de color no es
+    perfecta.
+4.  Memoriza los patrones de colores si ves que se repiten en bucle.
+5.  Usa el sonido como referencia para estabilizar el ritmo en secciones muy
+    densas.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Read two obstacles ahead; don’t fixate on the nearest gate.
-2.  **[ES]** Keep a steady tap cadence; late jumps often dodge low obstacles better.
-3.  **[ES]** Skip risky coins when alignment is off.
-4.  **[ES]** Practice color order patterns if they loop.
-5.  **[ES]** Use sound cues to stabilize timing on dense sets.
+- Toca o haz clic para saltar; algunas variantes permiten un doble salto.
+- Usa los botones de Pausa/Reiniciar de la interfaz para tomar un respiro o
+  reiniciar una carrera.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap/Click to jump; some variants allow double jumps.
-- Pause/Restart via UI.
+- P: Siempre choco con el color equivocado, ¿qué puedo hacer?
+  
+  R: Intenta mirar al menos dos puertas por delante y retrasa un poco el salto
+  para alinearte mejor con las plataformas altas.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿El juego tiene final?
+  
+  R: Normalmente es un runner infinito; tu objetivo es batir tu mejor marca.
 
-- Q: I always hit the wrong color — any fix?
-
-A: Focus on the next two gates and time jumps slightly later to line up with high platforms.
-
-- Q: Is there an end?
-
-A: Often endless; set personal bests.
-
-- Q: Double jump?
-
-A: Some builds include it; watch the tutorial prompt.
-
+- P: ¿Siempre hay doble salto?
+  
+  R: Algunas versiones lo incluyen y otras no; fíjate en las indicaciones del
+  tutorial al empezar la partida.

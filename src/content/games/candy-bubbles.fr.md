@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: candy-bubbles
-title: '[FR] Candy Bubbles'
+title: Candy Bubbles
 description: >-
-  [FR] Step into a sweet world and pop colorful candy bubbles! Aim your cannon,
-  match three or more, and clear the board in this delightful bubble shooter
-  puzzle game.
+  Plonge dans un monde de bonbons colorés et fais éclater des bulles sucrées !
+  Vise avec ton canon, aligne au moins trois bulles de la même couleur et
+  nettoie le tableau dans ce jeu de tir de bulles aussi relaxant que malin.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/candy-bubbles.png
 tags:
@@ -18,33 +18,73 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Présentation du jeu
+
+Candy Bubbles reprend le principe classique du bubble shooter, mais dans un
+monde fait de bonbons et de sucreries. Ton objectif est simple : vider l’écran
+en faisant éclater toutes les bulles. Pour y arriver, tu tires des bulles de
+couleurs depuis un canon situé en bas de l’écran et tu dois former des groupes
+d’au moins trois bulles de la même couleur pour les faire disparaître.
+
+Au fil des niveaux, la grille descend petit à petit, de nouveaux motifs de
+bulles apparaissent et les couleurs se multiplient. Plus tu prépares de grosses
+réactions en chaîne, plus tu marques de points. C’est un jeu parfait pour faire
+une petite pause, tout en gardant un minimum de stratégie en tête.
+
+### Guide de jeu
+
+1.  **Vise le haut du tableau**  
+    Essaie autant que possible de casser les groupes situés en hauteur. Quand tu
+    détruis un amas de bulles, toutes celles qui ne sont plus reliées au
+    plafond tombent d’un coup. C’est le meilleur moyen de nettoyer une grande
+    zone et de faire exploser ton score.
+2.  **Utilise les murs pour contourner**  
+    Tu peux faire ricocher tes tirs sur les bords de l’écran. Serre bien tes
+    angles pour atteindre des zones cachées derrière d’autres bulles ou pour
+    viser une couleur précise sans gaspiller un tir.
+3.  **Anticipe la prochaine bulle**  
+    Le jeu affiche généralement la bulle suivante dans la file. Sers‑toi de
+    cette information pour planifier deux coups à l’avance : si la bulle
+    actuelle ne permet pas un bon tir, place‑la de façon à préparer un gros
+    combo avec la suivante.
+4.  **Ne laisse pas les bulles toucher le bas**  
+    Une ligne de bulles descend régulièrement. Si une bulle passe la ligne en
+    bas de l’écran, la partie est perdue. Quand la grille est basse, privilégie
+    les tirs de survie plutôt que les combos risqués.
+
+### Commandes
+
+- **Viser** : déplace la souris pour orienter le canon ; un trait t’aide à voir
+  la trajectoire.  
+- **Tirer** : clique avec le bouton gauche pour lancer la bulle.  
+- **Échanger la bulle (si disponible)** : dans certaines versions, tu peux
+  permuter la bulle actuelle avec la suivante via un bouton dédié.
+
+### Foire aux questions (FAQ)
 
 
-### Detailed Game Introduction
+- **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
 
-Candy Bubbles is a sweet and colorful twist on the classic bubble shooter genre. Set in a delightful candy-themed world, your goal is to clear the screen of vibrant candy bubbles. Aim your cannon, shoot, and match three or more bubbles of the same color to make them pop. With hundreds of levels, strategic challenges, and satisfying chain reactions, it’s a relaxing puzzle game perfect for all ages.
+    - **Q: I have a bubble color I can't use. What should I do?**
 
-### Gameplay Strategy & Walkthrough
+- **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
 
-1.  **[FR]** **Aim High:** The most effective strategy in any bubble shooter is to aim for matches high up on the board. When you pop a cluster of bubbles, any bubbles that are only attached to that cluster (and nothing else) will also fall down, clearing large sections of the board at once and earning you massive bonus points.
-2.  **[FR]** **Use the Walls:** Don't forget that you can bounce your shots off the side walls. Use this to your advantage to reach tricky spots or to get around bubbles of the wrong color that are blocking a direct shot.
-3.  **[FR]** **Plan Your Shots:** Most versions of the game show you both your current bubble and the next one in the queue. Use this information to plan your moves. If you can't make a good match with your current bubble, perhaps you can set up a great match for the next one.
-4.  **[FR]** **Don't Let Them Reach the Bottom:** A line at the top of the screen will periodically drop, pushing the bubbles closer to your cannon. If any bubble crosses the line at the bottom, the game is over.
+    - **Q: How do I get the highest score?**
 
-### Controls Guide
+- **A:** The primary goal is usually to clear all the bubbles from the screen. Some levels may have special objectives, like freeing items trapped inside bubbles.
 
-*   **[FR]** **Aim:** Move your mouse to aim the cannon. A guideline will show you the trajectory of your shot.
-*   **[FR]** **Fire:** Click the left mouse button to shoot the bubble.
-*   **[FR]** **Swap (if available):** Some versions may have a button to swap your current bubble with the next one in the queue.
+    - **Q: What is the goal of each level?**
+**Q : Quel est l’objectif principal d’un niveau ?**  
+R : La plupart du temps, tu dois simplement éliminer toutes les bulles de
+l’écran. Certains niveaux ajoutent des objectifs spéciaux, comme libérer des
+objets coincés dans les bulles ou atteindre un certain score.
 
-### Frequently Asked Questions (FAQ)
+**Q : Comment obtenir un score élevé ?**  
+R : Concentre‑toi sur les gros amas de bulles suspendus. En faisant tomber une
+vingtaine de bulles d’un seul coup, tu gagnes beaucoup plus de points qu’en
+faisant plusieurs petites éliminations de trois bulles.
 
-*   **[FR]** **Q: What is the goal of each level?**
-    *   **[FR]** **A:** The primary goal is usually to clear all the bubbles from the screen. Some levels may have special objectives, like freeing items trapped inside bubbles.
-
-*   **[FR]** **Q: How do I get the highest score?**
-    *   **[FR]** **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
-
-*   **[FR]** **Q: I have a bubble color I can't use. What should I do?**
-    *   **[FR]** **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
-
+**Q : Que faire d’une couleur dont je n’ai pas besoin ?**  
+R : Tire‑la dans un coin ou sur un endroit peu gênant pour ne pas bloquer de
+futures combinaisons. Si l’option d’échange existe, regarde si la bulle
+suivante n’offre pas une meilleure opportunité.

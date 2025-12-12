@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: jewel-academy
-title: '[ES] Jewel Academy'
+title: Jewel Academy
 description: >-
-  [ES] Enroll in the Jewel Academy and become a master of match-3 puzzles. Swap
-  colorful gems, create powerful special jewels, and solve hundreds of
-  challenging levels with unique objectives.
+  Matricúlate en Jewel Academy y conviértete en maestro del match‑3. Intercambia
+  gemas de colores, crea joyas especiales y resuelve cientos de niveles con
+  objetivos únicos.
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/jewel-academy.png
 tags:
@@ -18,33 +18,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Jewel Academy es un juego de puzles match‑3 muy pulido que te invita a un mundo
+lleno de gemas de colores y desafíos mágicos. Como alumno de la academia
+recorres un gran mapa de niveles, cada uno con un objetivo diferente. La
+mecánica principal consiste en intercambiar gemas adyacentes para formar líneas
+ de tres o más del mismo color. Con decisiones estratégicas puedes crear joyas
+especiales, superar obstáculos complicados y resolver cientos de rompecabezas.
 
-Jewel Academy is a rich and polished match-3 puzzle game that invites players to a world of colorful gems and magical challenges. As a student of the academy, you will progress through a vast map of levels, each with a unique objective. The core gameplay involves swapping adjacent jewels to create lines of three or more of the same color. By making strategic matches, you can create powerful special gems, overcome tricky obstacles, and solve hundreds of engaging puzzles.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Busca combinaciones especiales:** no te conformes con alinear solo tres.
+    Procura formar líneas de cuatro o cinco gemas; así generarás power‑ups
+    capaces de limpiar zonas grandes del tablero.
+2.  **Combina potenciadores:** la forma más eficaz de superar niveles difíciles
+    es combinar joyas especiales. Por ejemplo, al intercambiar una joya‑flecha
+    con una bomba despejarás tres filas y tres columnas a la vez. Dos bombas de
+    color juntas pueden limpiar prácticamente todo el tablero.
+3.  **Céntrate en el objetivo:** ten siempre presente la misión del nivel. Si
+    debes limpiar casillas bloqueadas, concéntrate en esas zonas. Si tienes que
+    bajar objetos especiales al fondo, limpia las gemas que hay debajo. No malgastes
+    movimientos en jugadas que no aporten al objetivo.
+4.  **Trabaja desde abajo:** siempre que puedas, haz combinaciones en la parte
+    inferior del tablero. Así caen más gemas desde arriba y aumentan las
+    probabilidades de crear cascadas automáticas que te ayuden sin gastar
+    movimientos extra.
 
-1.  **[ES]** **Look for Special Combos:** Don't just settle for matching three. Actively look for opportunities to match four or five jewels, as this is the key to creating powerful power-ups that can clear large sections of the board.
-2.  **[ES]** **Combine Power-ups:** The most effective way to clear difficult levels is by combining special jewels. For example, swapping an Arrow jewel with a Bomb jewel will clear three rows and three columns simultaneously. Swapping two Color Bombs together will clear the entire board!
-3.  **[ES]** **Focus on the Objective:** Always keep the level's goal in mind. If you need to clear certain blocked tiles, focus your matches in those areas. If you need to drop special items to the bottom, clear the jewels underneath them. Don't waste moves on matches that don't contribute to your goal.
-4.  **[ES]** **Work from the Bottom:** When possible, make matches near the bottom of the board. This causes more jewels to fall from the top, increasing the chances of creating automatic chain reactions or cascades, which can help you complete objectives without using extra moves.
+### Guía de controles
 
-### Controls Guide
+El juego se maneja con ratón o pantalla táctil.
 
-The game is played using a mouse or touch screen.
+*   **Intercambiar gemas:** haz clic sobre una gema y luego sobre una adyacente
+    para intercambiarlas; también puedes arrastrar. El cambio solo es válido si
+    forma al menos una línea de tres.
+*   **Activar power‑ups:** intercambia una joya especial igual que cualquier
+    otra para activar su efecto. Para combinar potenciadores, intercambia dos
+    joyas especiales adyacentes.
 
-*   **[ES]** **Swap Jewels:** Click on a jewel, then click on an adjacent jewel to swap their positions. Alternatively, you can click and drag a jewel to an adjacent spot. A swap is only valid if it results in a match of three or more.
-*   **[ES]** **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo creo una bomba?**
+    *   **R:** Se crea al combinar cinco gemas formando una "L" o una "T". Las
+        bombas explotan y limpian un área de 3x3 a su alrededor.
 
-*   **[ES]** **Q: How do I create a Bomb?**
-    *   **[ES]** **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.
+*   **P: ¿Qué hace la gema arcoíris?**
+    *   **R:** Es una bomba de color, creada al combinar cinco gemas en línea
+        recta (horizontal o vertical). Al intercambiarla con cualquier gema,
+        eliminará todas las gemas de ese color del tablero.
 
-*   **[ES]** **Q: What does the rainbow-colored jewel do?**
-    *   **[ES]** **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
-
-*   **[ES]** **Q: Why did I run out of moves?**
-    *   **[ES]** **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
-
+*   **P: ¿Por qué me quedo sin movimientos?**
+    *   **R:** Muchos niveles tienen un límite de movimientos. Debes cumplir el
+        objetivo antes de agotarlos; si no, perderás una vida y tendrás que
+        intentarlo de nuevo.

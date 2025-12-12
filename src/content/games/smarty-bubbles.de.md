@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: smarty-bubbles
-title: '[DE] Smarty Bubbles'
+title: Smarty Bubbles
 description: >-
-  [DE] A classic and colorful bubble shooter experience. Aim your cannon, match
-  three or more bubbles of the same color to pop them, and clear the board
-  before the bubbles reach the bottom!
+  Ein klassischer, farbenfroher Bubble-Shooter: Ziele mit der Kanone, kombiniere
+  drei oder mehr Blasen derselben Farbe, um sie platzen zu lassen, und leere das
+  Feld, bevor die Blasen den unteren Rand erreichen.
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
 thumbnail: /new-images/smarty-bubbles.png
 tags:
@@ -17,32 +17,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Smarty Bubbles ist ein sauber gestalteter, sehr süchtig machender
+ Bubble-Shooter. Dein Ziel ist es, alle farbigen Blasen vom Spielfeld zu
+ entfernen. Du zielst mit der Kanone, schießt eine Blase nach oben und lässt
+ sie an einer passenden Stelle andocken. Trifft sie auf eine Gruppe von drei
+ oder mehr Blasen derselben Farbe, platzen diese und verschwinden. Fehlschüsse
+ lassen die Decke nach unten wandern und erhöhen den Druck.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Smarty Bubbles is a polished and highly addictive bubble shooter game that offers a pure, classic experience. The objective is to clear the entire board of colorful bubbles by shooting and matching them. Aim your cannon, fire a bubble, and if you connect three or more of the same color, they will pop! The game challenges you to clear the board efficiently, as missed shots will cause the ceiling to drop, adding a layer of pressure to this relaxing puzzle.
+1.  **Fehlschüsse im Blick:** Nach einer bestimmten Anzahl von Schüssen ohne
+    Treffer wird oben eine neue Reihe Blasen angefügt. Beobachte die Anzeige der
+    verbleibenden Misses und versuche, jeden Schuss sinnvoll zu platzieren.
+2.  **Tragende Gruppen anvisieren:** Am effizientesten räumst du, wenn du hohe
+    Cluster triffst, die viele Blasen darunter halten. Löst du den oberen Block,
+    fallen alle darunterliegenden mit.
+3.  **Banden-Schüsse meistern:** Nutze die Seitenwände, um um Ecken zu spielen
+    und schwer erreichbare Blasen zu treffen, die du frontal nicht anvisieren
+    kannst.
+4.  **Vorausdenken:** Achte darauf, welche Farbe als Nächstes kommt, und plane
+    deine Schüsse so, dass du mit der zukünftigen Blase gute Anschlusszüge
+    hast.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Avoid Misses:** This is the most critical rule in Smarty Bubbles. After a certain number of shots that don't result in a pop (a "miss"), a new row of bubbles will be added from the top. Keep an eye on the indicator (usually a row of grey bubbles) that shows how many misses you have left before a new row appears.
-2.  **[DE]** **Aim for Clusters:** The most efficient way to clear the board is to aim for matches that are holding up other bubbles. Popping a high cluster can cause a large number of bubbles below it to fall, clearing the screen much faster and earning you more points.
-3.  **[DE]** **Use the Walls:** Master the art of the bank shot. Bouncing bubbles off the side walls is essential for reaching difficult spots and setting up strategic matches that aren't possible with a direct shot.
-4.  **[DE]** **Plan Ahead:** The game shows you which color bubble is coming up next. Use this information to plan your next one or two moves for maximum efficiency.
+*   **Zielen:** Bewege die Maus, um die Kanone auszurichten; eine Linie
+    markiert die Flugbahn.
+*   **Schießen:** Klicke mit der linken Maustaste, um eine Blase zu feuern.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-*   **[DE]** **Shoot:** Click the left mouse button to fire the bubble.
+*   **F: Warum erscheint plötzlich eine neue Blasenreihe?**
+    **A:** Du hast zu viele Schüsse ohne Treffer abgegeben. Nach einer gewissen
+    Anzahl an Misses schiebt das Spiel eine neue Reihe von oben nach.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Was ist das Ziel des Spiels?**
+    **A:** Alle Blasen vom Spielfeld zu entfernen. Das Spiel ist endlos – dein
+    eigentliches Ziel ist es, so lange wie möglich durchzuhalten und dabei
+    einen hohen Score zu erreichen.
 
-*   **[DE]** **Q: Why did a new row of bubbles suddenly appear at the top?**
-    *   **[DE]** **A:** You made too many non-popping shots (misses). After a set number of misses, the game adds a new row to increase the challenge. Try to make every shot count!
+*   **F: Wie bekomme ich viele Punkte?**
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
+    - **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
 
-*   **[DE]** **Q: How do I get a high score?**
-    *   **[DE]** **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
+- **Q: How do I get a high score?**
 
+    - **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
+    **A:** Versuche, mit einem Schuss große Bereiche zum Einsturz zu bringen.
+    Je mehr Blasen in einer Kettenreaktion fallen, desto höher dein Bonus.

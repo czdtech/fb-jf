@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: infiltrating-the-airship
-title: '[ZH TRANSLATION NEEDED] Infiltrating the Airship'
-description: >-
-  [ZH TRANSLATION NEEDED] Henry Stickmin heist: choose gadgets and routes to
-  board an airship, trigger gags, and unlock multiple endings with scene
-  replays.
+title: "《Infiltrating the Airship》潜入飞船"
+description: "《Infiltrating the Airship》是《Henry Stickmin》系列的一部劫案篇，你要为火柴人亨利选择各式道具与路线潜入飞船，用各种离谱选择解锁不同结局与彩蛋场景。"
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/infiltrating-the-airship.jpg
 tags:
@@ -17,27 +14,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] This Henry Stickmin episode revolves around a branching airship break‑in. You pick gadgets (disguises, grapples, tech toys) and follow route splits that lead to success or hilarious failure. Quick‑time prompts appear in action scenes, while a scene map lets you revisit to collect all fails and endings.
+### 概览
 
-### How to Play
-- Select tools at decision points; timing matters in chase sequences.
-- Explore the major branches to see unique endings.
-- Use scene select (if available) to finish collections.
+在《Infiltrating the Airship》中，故事围绕一次对空中飞艇的潜入行动展开。这一章延续了《Henry Stickmin》系列标志性的多分支结构和恶搞风格。你将通过点击选择不同的潜入方式和道具——例如伪装、抓钩、高科技小玩意等——每一个选择都可能带来全然不同的进展：要么成功推进剧情，要么触发一段极具喜剧效果的“失败”动画。部分紧张桥段中还会出现即时反应（QTE）提示，而内置的场景地图则方便你事后回看分支，收集所有失败演出与结局。 
 
-### Controls
-- Mouse to choose; occasional keys for QTEs depending on host.
+### 游戏玩法
 
-### Tips
-- Don’t fear failure—each wrong pick teaches the right path.
-- Click characters mid‑scene to log bios when supported.
-- Keep a list of endings to avoid repeats.
+- 在关键分支点选择使用的工具或行动路线，不同选项会通往不同剧情和结局。  
+- 在追逐或战斗等情节中，需要在短时间内按下指定按键完成 QTE，错过则会触发新的失败场景。  
+- 利用场景选择（若托管版本支持）回到已解锁的节点，补齐未见过的失败动画或结局收集。
 
-### FAQ
-- Q: How many endings are available in this game?  
-[ZH TRANSLATION NEEDED]   A: Multiple branch‑specific endings; exact count depends on the host version.
-- Q: Do I need fast reactions for every scene?  
-[ZH TRANSLATION NEEDED]   A: Only certain QTE segments; most progress comes from choices.
-- Q: Can I replay scenes to complete my collection?  
-[ZH TRANSLATION NEEDED]   A: Yes—scene select assists with 100% runs on many hosts.
+### 操作说明
 
+- 主要通过鼠标点击界面上的选项进行选择；部分 QTE 段落需要使用键盘按键，根据当前托管版本的提示为准。
+
+### 实用技巧
+
+- 不要害怕失败——每次错误选择都会解锁一段新的搞笑演出，也能帮助你摸清正确路线。  
+- 在支持角色档案系统的版本中，尝试在对话或过场时点击角色，可以解锁人物简介（Bio），为系列粉丝补充更多彩蛋信息。  
+- 可以自己记一个“结局清单”，避免重复走到同一个结局而错过其它支线。  
+
+### 常见问题（FAQ）
+
+- Q: 这一作总共有多少个结局？  
+  A: 具体结局数量取决于你游玩的版本与平台，但整体设计为多条分支路线、多个不同风格的结局，适合反复探索。  
+
+- Q: 所有场景都需要很快的反应力吗？  
+  A: 只有少数 QTE 段落对反应速度有要求，大部分推进还是依赖你在分支处做出的选择。  
+
+- Q: 可以重复游玩某个场景来补完收集吗？  
+  A: 可以。多数托管版本提供场景选择或时间线跳转功能，方便你回到特定节点完成 100% 失败/结局收集。

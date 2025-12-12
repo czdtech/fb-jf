@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-play-random
-title: '[KO] Sprunki Play Random - Play Sprunki Play Random Online'
+title: 'Sprunki Play Random 스프룽키 플레이 랜덤'
 description: >-
-  [KO] Sprunki Play Random is a music creation game full of surprises and fun.
-  If you like challenges and exploration, then Sprunki Play Random is definitely
-  for you!
+  Sprunki Play Random은 매번 다른 사운드가 나오는 랜덤 요소가 핵심인 음악 제작
+  모드입니다. 어떤 캐릭터에서 어떤 소리가 나올지 모르는 채, 우연을 활용해
+  나만의 트랙을 완성해 보세요.
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /sprunki-play-random.png
 tags:
@@ -16,48 +16,76 @@ score: 4.5/5  (614 votes)
 
 
 
-### Introducing to Sprunki Play Random
+### Sprunki Play Random 소개
 
-Sprunki Play Random is a music creation game full of surprises and fun. If you like challenges and exploration, then Sprunki Play Random is definitely for you! Come and join Sprunki Play Random, let the random sounds ignite your musical inspiration and create unique musical works!
+Sprunki Play Random은 "예측할 수 없음"을 중심에 둔 음악 제작 모드입니다.
+다음 캐릭터가 어떤 사운드를 낼지 전혀 모르는 상태에서 곡을 만들어 나가야 하기
+때문에, 매 플레이가 새로운 도전이 됩니다. 탐험과 실험을 좋아한다면 특히
+재미있게 즐길 수 있습니다.
 
-### What's So Magical About Sprunki Play Random?
+### Sprunki Play Random의 매력 포인트
 
-Simply put, Sprunki Play Random turns music creation into an adventure full of unknowns. You never know what sound the next character will make, and all you need to do is use these random sounds to create unique musical works!
-
----
-
-### How to Play Sprunki Play Random?
-
-The operation is very simple, you can easily do it with a mouse or finger:
-
-- **Mouse/Touch:** Click/Touch and drag the character onto the stage.
-- **Move Characters:** Drag characters to switch different sounds.
-- **Remove Characters:** Double click/double tap to remove characters from the stage.
-- **Menu:** Click the menu icon to save, restart, or share your work.
-
-
-### Start Your Random Music Journey:
-
-- **Click Play:** Click the play button to enter the random music creation stage.
-- **Drag & Drop:** Choose a character from the panel at the bottom of the screen and drag them onto the stage to start their looped sound.
-- **Embrace Randomness:** The game will randomly assign different sound effects to each character, and you can't predict what they will sound like.
-- **Mix & Match:** Arrange the characters in different combinations to create unique beats.
-- **Unlock Bonuses:** Explore hidden sound combinations that trigger special animations and bonus tracks!
-
+간단히 말해, Sprunki Play Random은 음악 제작을 모험으로 바꿔 주는 모드입니다.
+다음 캐릭터가 어떤 소리를 들려줄지 모르는 상황에서, 그 우연을 활용해 새로운
+트랙을 만들어 나가야 하기 때문입니다.
 
 ---
 
-### Tips for Playing Sprunki Play Random:
+### Sprunki Play Random 플레이 방법
 
-- **Try Different Arrangements:** The position of the characters affects the final sound effect, be bold and try to find the most suitable arrangement!
-- **Focus on Balance:** Combine beats, melodies, and vocals to create a richer musical work.
-- **Listen Carefully:** Pay attention to the subtle differences between different sounds, some sound combinations can unlock hidden rewards!
-- **Start with Fewer Characters:** Build your music with fewer characters first, so you can better control the overall effect.
-- **Replay to Discover Secrets:** Random sounds make each game full of surprises, keep replaying to discover hidden Easter eggs!
+마우스나 터치만으로 쉽게 조작할 수 있습니다.
 
+- **마우스/터치:**
+  캐릭터를 클릭/터치한 뒤 무대 위로 드래그하면, 해당 캐릭터가 랜덤으로
+  지정된 사운드를 재생합니다.
+- **캐릭터 이동:**
+  캐릭터를 드래그해 다른 위치로 옮기면, 사운드를 바꾸거나 밸런스를 조정할 수
+  있습니다.
+- **캐릭터 제거:**
+  캐릭터를 더블클릭(또는 더블 탭)하면 무대에서 제거됩니다.
+- **메뉴:**
+  메뉴 아이콘을 눌러 작품 저장, 재시작, 공유 등을 할 수 있습니다.
 
-### Highlights of Sprunki Play Random:
+### 랜덤 음악 여정 시작하기
 
-- **Unique Randomness:** Each creation is a brand new experience, making you always full of expectations.
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started.
-- **Full of Exploration Fun:** Discover hidden sound combinations, unlock special animations and bonus tracks, making your creation process full of surprises.
+- **플레이 버튼 클릭:**
+  시작 버튼을 눌러 랜덤 음악 제작 스테이지로 진입합니다.
+- **드래그 & 드롭:**
+  화면 하단 패널에서 캐릭터를 골라 무대 위로 끌어다 놓으면, 해당 캐릭터의
+  루프 사운드가 재생됩니다.
+- **랜덤성 받아들이기:**
+  각 캐릭터는 게임이 알아서 사운드를 배정하기 때문에, 어떤 소리가 나올지
+  미리 알 수 없습니다.
+- **믹스 & 매치:**
+  여러 캐릭터를 조합해 독특한 비트와 멜로디를 만들어 보세요.
+- **보너스 해금:**
+  특정 조합에서는 특별한 애니메이션이나 보너스 트랙이 등장할 수 있습니다.
+
+---
+
+### Sprunki Play Random 공략 팁
+
+- **배치를 다양하게 바꾸기:**
+  캐릭터의 위치와 조합이 최종 사운드에 큰 영향을 미치므로, 여러 패턴을 시도해
+  보며 최적의 구성을 찾아보세요.
+- **밸런스 신경 쓰기:**
+  비트, 멜로디, 보컬을 균형 있게 섞어야 곡이 풍성하게 들립니다.
+- **세밀하게 듣기:**
+  비슷해 보이는 사운드라도 미묘한 차이가 있을 수 있으니, 귀 기울여 듣고
+  마음에 드는 조합을 기억해 두세요.
+- **소수 캐릭터로 시작:**
+  처음에는 캐릭터 수를 적게 두고 전체 분위기를 잡은 뒤, 점차 추가하면서
+  곡을 확장하면 컨트롤하기가 더 쉽습니다.
+- **여러 번 리플레이:**
+  완전히 랜덤한 요소 덕분에, 같은 방식으로 시작해도 매번 다른 결과가 나옵니다.
+  반복 플레이를 통해 숨겨진 조합과 이스터에그를 찾아보세요.
+
+### Sprunki Play Random 하이라이트
+
+- **강력한 랜덤성:**
+  매번 전혀 다른 트랙이 만들어져, 질릴 틈이 없습니다.
+- **쉬운 조작:**
+  Incredibox 스타일의 드래그 앤 드롭 방식으로 누구나 쉽게 곡을 만들 수 있습니다.
+- **탐험의 재미:**
+  숨겨진 사운드 조합과 보너스를 찾는 과정이, 단순한 음악 만들기를 넘는
+  탐험 같은 경험을 제공합니다.

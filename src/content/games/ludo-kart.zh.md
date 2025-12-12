@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: ludo-kart
-title: '[ZH TRANSLATION NEEDED] Ludo Kart'
-description: >-
-  [ZH TRANSLATION NEEDED] Ludo Kart is a breezy dice‑and‑race board game — roll,
-  move tokens, and be the first to reach home.
+title: 《Ludo Kart》赛车飞行棋
+description: 《Ludo Kart》是一款轻松的骰子竞速棋盘游戏，掷骰子前进棋子，率先把自己的所有棋子送回终点基地即获胜。
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/ludo-kart.png
 tags:
@@ -16,27 +14,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 游戏详细介绍
 
-### Detailed Game Introduction
+《Ludo Kart》把经典飞行棋规则做成了节奏更快的赛车风棋盘游戏。每名玩家拥有多枚棋子，通过轮流掷骰并按点数移动棋子绕场一周，最终把棋子送入终点跑道和基地。途中会出现安全格、撞回起点以及幸运连掷等事件，让局势充满变数，非常适合家庭或朋友聚会。 
 
-[ZH TRANSLATION NEEDED] Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to move tokens around the board, enter the final lane, and bring all tokens home before opponents do. Safe squares, captures, and lucky rolls create swings.
+### 游戏玩法与攻略
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Token spread: Advance multiple tokens to reduce risk of a single capture wiping progress.
-2.  [ZH TRANSLATION NEEDED] Safe spots: Park on safe squares when opponents are near.
-3.  [ZH TRANSLATION NEEDED] Entry timing: Time your entry to the home lane so opponents can’t immediately capture you.
-4.  [ZH TRANSLATION NEEDED] Counting ahead: Always check opponent threats within a dice range.
-5.  [ZH TRANSLATION NEEDED] Don’t tunnel: If a lead token is blocked, switch to another to keep pressure.
+1.  **棋子分散推进**：不要只压宝在一枚棋子上，多枚棋子同时推进可以降低一次被吃掉就损失巨大进度的风险。  
+2.  **利用安全格**：当对手棋子距离自己较近时，优先走向安全格或形成“安全阵型”，避免被对手一脚送回基地。  
+3.  **把握入终点时机**：即将进入终点跑道时，尽量选择在对手骰子无法一步踩到的位置停留，避免刚进终点通道就被吃回。  
+4.  **提前数步预判**：移动前先看看对手在骰子点数范围内是否有机会吃到你的棋子，据此决定本回合推进哪一枚。  
+5.  **别在堵路上纠结太久**：如果前方被堵，不妨先推进其它棋子保持整体压力，而不是一味等待一个棋子解围。  
 
-### Controls Guide
+### 操作说明
 
-- Roll: Click/tap to roll the die.
-- Move: Select a legal token to advance.
+- 点击掷骰按钮投掷骰子，然后从可行动的棋子中选择一枚进行移动；多数版本支持本地多人模式，也可能提供对战 AI 的单人模式。  
+
+
 - Modes: Local multiplayer is common; solo vs. AI may be available.
 
-### Frequently Asked Questions (FAQ)
+- Move: Select a legal token to advance.
+### 常见问题（FAQ）
 
-- Is it pure luck? Dice matter, but token spread, safe‑square usage, and counting threats add strategy.
-- Can I block? Occupying certain squares can block lanes; observe mode rules.
-- How many players? Often 2–4; check mode options.
+*   **Q: 这游戏是不是纯看运气？**  
+- **A:** 骰子结果固然重要，但通过棋子分散、善用安全格以及计算对手可能的骰点，可以在运气之外加入不少策略成分。  
 
+*   **Q: 可以堵住对手的路线吗？**  
+    *   **A:** 某些格子上多枚棋子会形成“路障”，对手无法通过，具体堵路规则以当前模式说明为准。  
+
+*   **Q: 支持几人游玩？**  
+    *   **A:** 一般支持 2～4 名玩家，具体可在模式选择中查看支持人数。

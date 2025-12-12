@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: snowboard-king-2024
-title: '[ZH TRANSLATION NEEDED] Snowboard King 2024'
+title: 《Snowboard King 2024》单板滑雪之王
 description: >-
-  [ZH TRANSLATION NEEDED] Race down the mountain and outrun a deadly avalanche!
-  Weave through trees and rocks, collect coins, and upgrade your skills to
-  become the Snowboard King.
+  《Snowboard King
+  2024》是一款紧张刺激的街机滑雪游戏。驾驭你的单板从山顶飞驰而下，一边躲避树木和岩石，一边拼命甩开身后步步逼近的雪崩，收集金币升级能力，冲击“滑雪之王”称号。
 iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
 thumbnail: /new-images/snowboard-king-2024.png
 tags:
@@ -17,29 +16,26 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Snowboard King 2024 is a thrilling, fast-paced arcade game where you snowboard down a treacherous, endless mountain slope. Your primary goal is to survive for as long as possible, skillfully navigating around obstacles like trees and rocks. Adding to the challenge, a deadly avalanche is constantly chasing you from behind, forcing you to maintain your speed and think fast. Collect coins along the way to upgrade your abilities and solidify your title as the Snowboard King.
+《Snowboard King 2024》是一款节奏极快的单板滑雪街机游戏，你将沿着危险重重、几乎无尽的山坡一路下冲。你的首要目标是在尽可能长时间不摔倒的前提下，灵巧地从树木、岩石等障碍物间穿梭。更具压迫感的是，一场致命的雪崩会从身后持续追赶，你必须保持足够速度、快速做出反应，才能活着滑得更远。途中散落的金币可以用来升级能力，让你在下一次挑战中更从容。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Look Ahead:** The key to a long run is anticipation. Keep your eyes focused far down the slope to see upcoming obstacles and plan your path well in advance.
-2.  [ZH TRANSLATION NEEDED] **Smooth Movements:** Avoid sharp, sudden turns. Make small, controlled movements to weave between trees and rocks. Over-steering can easily lead to a crash.
-3.  [ZH TRANSLATION NEEDED] **Strategic Boosting:** Your boost gives you a burst of speed, which is essential for outrunning the avalanche. However, it also makes it harder to steer. Use your boost on long, clear stretches, not when you are navigating a dense forest of obstacles.
-4.  [ZH TRANSLATION NEEDED] **Upgrade Your Skills:** Use the coins you collect to upgrade your snowboarder's abilities between runs. Improving your "Carve" (turning speed) and "Boost" will make subsequent runs much easier.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **视线放远：** 想要长距离下滑，预判非常关键。尽量把目光放在坡道更远处，提前看到树木、岩石和地形变化，提前规划路线。
+2.  **动作要顺滑：** 避免剧烈、突然的急转弯。使用小幅且连贯的左右移动来绕过障碍，过度转向很容易导致失控撞上树。
+3.  **加速要有策略：** Boost 可以在关键时刻帮你甩开雪崩，但也会大幅提高速度、降低容错率。尽量在前方地形相对平直、障碍较少的路段使用，而不是在森林密集区乱开。
+4.  **合理投资升级：** 每次结束后，用收集到的金币升级角色属性，如转向能力（Carve）和加速性能（Boost）。这些升级会显著提升后续挑战的上限。
 
-*   **Steer:** Use the **A/D keys** or the **Left/Right Arrow keys** to steer your snowboarder.
-*   **Boost:** Press the **Spacebar** to activate a temporary speed boost.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **转向：** 使用 **A/D 键** 或左右方向键控制滑雪者向左、向右转向。
+*   **加速：** 按下 **空格键** 触发短时间的速度提升，用于快速拉开与雪崩的距离或通过长直道。
 
-*   **Q: What is the main objective?**
-     *   **A:** To survive as long as possible by snowboarding down the mountain without crashing or being caught by the avalanche behind you.
-
-*   **Q: What happens if I hit a tree?**
-     *   **A:** You will crash, and your run will be over.
-
-*   **Q: How do I get a higher score?**
-     *   **A:** Your score is based on the distance you travel. The farther you go, the higher your score. Upgrading your skills is the best way to improve your potential distance.
-
+### 常见问题解答（FAQ）
+*   **问：游戏的主要目标是什么？****
+    *   答：** 在不撞到障碍物且不被身后的雪崩追上的前提下，尽可能滑得更远，获得更高的总距离和得分。
+*   **问：撞到树会怎样？****
+    *   答：** 一旦撞上树木或岩石，就会直接摔倒，本次滑行立刻结束，需要重新开始。
+*   **问：如何提高分数和生存时间？****
+    *   答：** 分数主要取决于滑行距离。想要走得更远，就要提升操作稳定性，并利用金币升级转向与加速能力，在高速度下仍然保持可控。

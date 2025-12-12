@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: snow-rider-3d
-title: '[ZH TRANSLATION NEEDED] Snow Rider 3D'
+title: 《Snow Rider 3D》雪地飞驰 3D
 description: >-
-  [ZH TRANSLATION NEEDED] Jump on your sled in Snow Rider 3D, a fast-paced
-  winter-themed action game. Steer down the snowy hills, dodge obstacles like
-  trees and snowmen, and use ramps to perform jumps. Collect gifts to unlock new
-  sleds and challenge your reflexes to get the highest score.
+  《Snow Rider
+  3D》是一款节奏飞快的冬季雪橇动作游戏。跳上雪橇，从高山雪坡一路俯冲，躲开树木和雪人，利用跳台飞跃障碍，收集礼物解锁新雪橇，挑战自己的极限反应。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/snow-rider-3d.jpg
@@ -18,32 +16,34 @@ score: 4.3/5  (1041 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Snow Rider 3D is a fast-paced, winter-themed action game where you ride a sled down a vast, snowy mountain. The goal is to travel as far as possible while skillfully dodging a variety of obstacles, including trees, rocks, snowmen, and boulders. It's a test of reflexes and anticipation as the speed increases and the challenges become more intense.
+《Snow Rider 3D》是一款节奏紧凑的冬日雪山速降游戏。你将驾驶雪橇从广阔的山坡上高速滑下，途中需要灵活躲避树木、岩石、雪人、大石块等各种障碍。随着行驶距离增加，你的速度会越来越快，留给你反应和转向的时间也会越来越短，是一场对手眼协调和预判能力的全面考验。
 
-### Gameplay Guide
+### 游玩指南
 
-[ZH TRANSLATION NEEDED] Your main objective is to get the highest score by surviving for as long as you can. Look ahead to anticipate upcoming obstacles and plan your path accordingly. Use the ramps scattered on the hill to your advantage by jumping over large obstacles or clusters of trees. Along the way, you can collect gifts which can be used to unlock new and cooler sleds in the shop.
+你的主要目标是：在不撞到障碍的前提下滑行尽可能远，获得更高分数。
 
-### Controls Guide
+- 提前观察坡道上即将出现的障碍物，合理规划左右移动路线；
+- 利用赛道上的跳台起跳，可以飞跃整片树阵或高大的障碍群；
+- 滑行途中会出现礼物箱，收集它们可以在商店中解锁造型更酷、属性更佳的雪橇；
+- 随着速度飙升，要学会在“追求礼物”与“保证生存”之间做取舍。
 
-[ZH TRANSLATION NEEDED] The controls are simple and responsive:
-- **Steer Left:** `A` or `Left Arrow` key
-- **Steer Right:** `D` or `Right Arrow` key
-- **Jump:** `W` or `Up Arrow` key
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+操作简单、响应灵敏：
+- **向左转向：** `A` 键或左方向键；
+- **向右转向：** `D` 键或右方向键；
+- **跳跃：** `W` 键或上方向键，在跳台前起跳可以越过大块障碍。
 
-[ZH TRANSLATION NEEDED] **What is the main goal of Snow Rider 3D?**
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] The goal is to achieve the highest possible score by sledding as far as you can without crashing into an obstacle.
+**问：Snow Rider 3D 的核心目标是什么？****
+答：** 尽可能在不撞毁的情况下滑得更远，通过生存时间和收集礼物来获得更高的总分。
 
-[ZH TRANSLATION NEEDED] **How can I unlock new sleds?**
+**问：怎样解锁新的雪橇？****
+答：** 在滑行过程中收集礼物盒，累积到一定数量后可以在游戏内商店购买并解锁新的雪橇皮肤或款式。
 
-[ZH TRANSLATION NEEDED] You can unlock new sleds by collecting the gift boxes that appear on the slope as you play. Once you have enough, you can purchase new sleds from the in-game shop.
-
-[ZH TRANSLATION NEEDED] **What's the best strategy for a high score?**
-
-[ZH TRANSLATION NEEDED] Focus on survival above all else. Make small, controlled movements instead of sharp turns. Look far ahead to anticipate obstacles and don't take unnecessary risks just to grab a gift. Mastering the timing of your jumps is also crucial for clearing difficult sections.
+**问：想刷高分，有什么通用策略？****
+答：** 优先保证不撞车。用小幅、连续的转向来调整路线，不要频繁急转；视线尽量看远一点提前预判障碍，不要为了一两个礼物冒太大风险。熟练掌握跳跃时机，可以帮助你轻松跨过难处理的地形组合。
 

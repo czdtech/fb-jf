@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: lows-adventures-2
-title: '[ZH TRANSLATION NEEDED] Low''s Adventures 2'
-description: >-
-  [ZH TRANSLATION NEEDED] Retro platformer sequel: run‑and‑jump through compact
-  stages, find keys and secrets, and beat timed challenges.
+title: 《Low's Adventures 2》洛的冒险 2
+description: 《Low's Adventures 2》是一款复古平台动作续作，在紧凑关卡中奔跑跳跃，寻找钥匙与隐藏房间，并挑战计时通关。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/lows-adventures-2.jpg
 tags:
@@ -16,27 +14,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Low’s Adventures 2 delivers short, old‑school platforming levels with hidden keys, breakable blocks, and lightweight puzzles. Precision jumps and enemy patterns define the route; optional time medals reward efficient clears and secret paths.
+### 概览
 
-### How to Play
-- Scout for keys/switches to open exits.
-- Learn enemy cycles, then speed‑route stages for medals.
-- Search for cracked tiles and alternate paths for secrets.
+《Low's Adventures 2》延续了第一部的老派平台跳跃风格，提供一系列短小紧凑的关卡。关卡中分布着钥匙、可破坏的砖块和轻量谜题，你需要通过精准跳跃和熟悉敌人移动模式来找到出口；对于想要进一步挑战的玩家，还可以争取时间勋章和收集隐藏路径。 
 
-### Controls
-- Arrows/WASD to move/jump; attack/interact varies by host.
+### 游戏玩法
 
-### Tips
-- Buffer jumps at platform edges to extend distance.
-- Use enemy heads as springboards when possible.
-- Replay for faster routes once you know layouts.
+- 仔细寻找关卡中的钥匙和开关，只有找到全部关键道具才能打开终点大门。  
+- 记住敌人的巡逻路线和攻击节奏，在熟悉后再尝试速通路线去拿时间奖牌。  
+- 在墙壁裂缝、可疑地砖和看似死路的上方，尝试跳跃或攻击，往往能发现隐藏砖块或秘密房间。  
 
-### FAQ
-- Q: How do I reach hidden rooms in this game?  
-[ZH TRANSLATION NEEDED]   A: Look for cracked blocks and off‑screen ledges; try ceiling seams.
-- Q: Does the game time my clears?  
-[ZH TRANSLATION NEEDED]   A: Many hosts display timers and medal thresholds.
-- Q: Are there checkpoints in longer stages?  
-[ZH TRANSLATION NEEDED]   A: Select levels include mid‑stage checkpoints.
+### 操作说明
 
+- 使用方向键或 WASD 控制移动与跳跃；攻击或互动键依托管平台而定。  
+
+### 实用技巧
+
+- 在平台边缘提前按下跳跃键，可以“缓冲”起跳，让你跳得更远更稳。  
+- 尝试踩在敌人头顶把它们当作“弹簧”，能借此到达原本够不到的平台。  
+- 熟悉关卡布局后可以多次重玩，优化路线，争取在时间限制内打出更好的成绩和评级。  
+
+### 常见问题（FAQ）
+
+*   **Q: 隐藏房间怎么看都找不到？**  
+
+A: Look for cracked blocks and off‑screen ledges; try ceiling seams.
+- **A:** 多关注有裂痕的砖块、与周围贴图略有不同的墙面，以及屏幕边缘之外的上方区域，有时需要信心一跳才能找到新路。  
+
+
+A: Many hosts display timers and medal thresholds.
+*   **Q: 游戏会记录通关时间吗？**  
+
+A: Select levels include mid‑stage checkpoints.
+    *   **A:** 大部分托管版本都会显示关卡计时，并根据用时给出勋章或评分。  
+
+*   **Q: 较长关卡中有检查点吗？**  
+    *   **A:** 部分关卡会在中途设置复活点，死亡后可以从最近的检查点重新开始，而不必从关卡起点重打。

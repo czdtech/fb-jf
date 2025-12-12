@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: uno
-title: '[ES] UNO Game'
+title: "UNO Game - El clásico de cartas"
 description: >-
-  [ES] UNO is the classic card game where players race to empty their hands by
-  matching colors and numbers, using special action cards to block opponents and
-  be the first to shout 'UNO!'
-iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
-thumbnail: /new-images/uno.jpg
+  UNO es el clásico juego de cartas en el que los jugadores compiten por vaciar
+  su mano combinando colores y números, usando cartas de acción especiales para
+  frenar a los rivales y ser el primero en gritar “¡UNO!”.
+iframeSrc: "https://www.xpgameplus.com/games/uno/default.html"
+thumbnail: "/new-images/uno.jpg"
 tags:
   - card game
   - strategy
@@ -16,36 +16,36 @@ score: 4.4/5  (1083 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-
-
-
-
 ### Game Introduction
 
-"UNO Game" is the classic card game where players race to empty their hands by matching colors and numbers, using special action cards to block opponents and be the first to shout "UNO!" This game is famous worldwide for its simple-to-learn but strategically rich gameplay.
+"UNO Game" es la versión digital del clásico juego de cartas en el que los jugadores compiten por quedarse sin cartas antes que los demás. Para ello, deben combinar colores y números y aprovechar cartas de acción especiales para bloquear, saltar turno o cambiar el sentido de la ronda.
 
 ### Gameplay Strategy
 
-1.  **[ES]** **Color Priority**: Prioritize playing cards that match the current color, keeping wild cards and action cards as backup.
-2.  **[ES]** **Action Card Timing**: Use Skip, Reverse, and other action cards at crucial moments to disrupt opponents' rhythm.
-3.  **[ES]** **Hand Management**: Distribute different colored cards wisely to avoid being stuck with one color.
-4.  **[ES]** **Observe Opponents**: Pay attention to opponents' playing patterns and hand counts to predict their strategies.
-5.  **[ES]** **UNO Declaration**: Remember to shout "UNO" when you have one card left, or face penalty cards.
+1.  **Prioriza el color:** intenta jugar siempre cartas del color actual y guarda los comodines y cartas de acción como plan de reserva.
+2.  **Momento de las cartas de acción:** usa Saltar, Reversa y otras cartas especiales en momentos clave para cortar el ritmo de los rivales.
+3.  **Gestiona tu mano:** procura mantener una buena distribución de colores para no quedarte bloqueado con un solo color en la mano.
+4.  **Observa a tus oponentes:** fíjate en cuántas cartas les quedan y en cómo juegan para anticipar sus movimientos.
+5.  **Declaración de UNO:** recuerda avisar con “UNO” cuando te quede una sola carta, o te arriesgas a recibir cartas de penalización.
 
 ### How to Play
 
-*   **[ES]** **Play Cards**: Click on playable cards in your hand to play them.
-*   **[ES]** **Draw Cards**: Click the deck to draw when you can't play any cards.
-*   **[ES]** **Choose Color**: Select the next color after playing a wild card.
-*   **[ES]** **UNO Button**: Click the UNO button to declare when you have one card remaining.
+*   **Jugar cartas:** haz clic en una carta jugable de tu mano para lanzarla a la pila.
+*   **Robar cartas:** pulsa el mazo para robar cuando no puedas jugar ninguna.
+*   **Elegir color:** al usar un comodín, selecciona el color que más te convenga para el siguiente turno.
+*   **Botón UNO:** pulsa el botón de UNO para declarar cuando te quede una carta.
 
 ### Frequently Asked Questions
 
-1.  **[ES]** **Q: When do I need to shout UNO?**
-**A**: When you have only one card left, you must shout "UNO" immediately after playing your second-to-last card.
-2.  **[ES]** **Q: When is the best time to use wild cards?**
-**A**: When you have no other options, or at crucial moments to change the game color and block opponents.
-3.  **[ES]** **Q: What happens if I forget to shout UNO?**
-**A**: If caught by other players, you'll typically be penalized with 2-4 additional cards.
-4.  **[ES]** **Q: Can I play multiple identical cards in succession?**
-**A**: This depends on specific rule settings; standard UNO rules allow only one card per turn.
+1.  **Q: ¿Cuándo tengo que decir UNO?**  
+    **A:** Justo después de jugar tu penúltima carta, en el momento en que solo te quede una en la mano.
+
+2.  **Q: Cuándo es mejor usar los comodines?**  
+    **A:** Cuando no tengas otra jugada viable o cuando quieras cambiar el color en un momento crítico para perjudicar a los demás.
+
+3.  **Q: Qué pasa si olvido decir UNO?**  
+    **A:** Si otro jugador se da cuenta antes de que empiece el siguiente turno, normalmente recibirás 2–4 cartas de penalización.
+
+4.  **Q: Puedo jugar varias cartas iguales seguidas?**  
+    **A:** Depende de las reglas de la variante. En las reglas estándar solo se permite jugar una carta por turno.
+

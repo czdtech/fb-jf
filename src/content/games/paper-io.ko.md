@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: paper-io
-title: '[KO] Paper io'
+title: "Paper io 페이퍼 아이오"
 description: >-
-  [KO] Paper.io is a popular multiplayer online game where players control a
-  colored block and aim to conquer as much territory as possible by drawing
-  lines and enclosing areas, while avoiding other players.
+  온라인에서 다른 플레이어와 영토를 두고 겨루는 영역 점령 게임입니다.
+  색깔 블록을 움직여 선을 그려 영역을 넓히고, 상대의 선을 끊어
+  제거해 최후까지 살아남으세요.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/paper-io.jpg
 tags:
@@ -18,30 +18,68 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
-### Game Introduction
+*Paper.io*는 색깔 블록을 조종해 맵 위의 땅을 차지하는 실시간 멀티플레이
+영역 점령 게임입니다. 자신의 기본 영역에서 나와 선을 그리며 이동한 뒤,
+다시 기존 영역으로 돌아오면 그 선으로 둘러싸인 공간이 모두
+자신의 영토가 됩니다.
 
-"Paper.io" is a popular multiplayer online territory-conquering game. Players control a colored block with the objective of claiming as much territory as possible by drawing lines and enclosing areas. In the game, you need to cleverly expand your territory while being wary of attacks from other players, as your line is your weakness; once touched, you fail. The game is fast-paced, highly strategic, and full of competitive fun.
+하지만 선을 그리고 있는 동안에는 매우 취약한 상태입니다. 다른 플레이어가
+그 선을 스쳐 지나가면 바로 탈락하게 되므로, 공격적으로 땅을 넓히는
+동시에 방어에도 신경 써야 합니다. 짧은 시간 안에 빠르게 상황이
+바뀌기 때문에 전략과 순발력을 모두 요구하는 게임입니다.
 
-### Gameplay Strategy
+### 플레이 전략
 
-1.  **[KO]** **Safe Expansion**: In the early stages, try to expand within small areas near your territory to ensure safety.
-2.  **[KO]** **Quick Action**: When enemy players are far away or distracted, seize the opportunity to quickly claim large areas.
-3.  **[KO]** **Protect Your Line**: Your line is your lifeline; be especially careful of other players chasing you while drawing your line.
-4.  **[KO]** **Cut Off Enemies**: If an enemy player is expanding their territory by drawing a line, you can eliminate them by cutting off their line.
-5.  **[KO]** **Utilize Map Edges**: The edges of the map can also be used as boundaries to enclose areas, which can save time and avoid risks.
+1. **초반에는 안전하게 확장하기**  
+   시작 직후에는 기본 영역 근처의 작은 구역부터 차근차근 넓혀 가는 것이
+   좋습니다. 너무 멀리 나갔다가 선을 잘리면 바로 탈락하기 때문에,
+   초반에는 위험 부담을 줄이는 것이 중요합니다.
 
-### How to Play
+2. **빈 맵일 때 과감하게 대형 루트 그리기**  
+   주변에 다른 플레이어가 많지 않거나 모두 멀리 있을 때는, 큰 원이나
+   사각형을 그리듯 넓게 돌아 나가 한 번에 많은 땅을 차지해 보세요.
+   단, 돌아오는 길이 길수록 선이 잘릴 위험도 커지므로 주변 상황을
+   항상 확인해야 합니다.
 
-*   **[KO]** **Movement**: Typically use the keyboard arrow keys or WASD keys to control your colored block's movement. Your block will automatically draw a line.
+3. **자신의 선을 최우선으로 보호하기**  
+   선을 그리고 있는 동안 그 선이 곧 생명줄입니다. 누군가 가까이
+   다가오는 것이 보이면 공격보다는 자신의 선 안으로 빨리 복귀해
+   안전을 확보하세요.
 
-### Frequently Asked Questions
+4. **상대 선을 끊어 제거하기**  
+   다른 플레이어가 영역을 넓히기 위해 선을 그리고 있을 때, 그 선을
+   가로질러 지나가면 상대를 즉시 제거할 수 있습니다. 상대가 욕심을
+   부려 멀리 나갈수록 역으로 반격할 기회가 커집니다.
 
-1.  **[KO]** **Q: What is the objective of "Paper.io"?**
-**A**: The objective is to claim as much of the map territory as possible and become the largest player.
-2.  **[KO]** **Q: How is my score calculated?**
-**A**: Your score is primarily based on the percentage of the map you control. Eliminating other players also grants bonus points.
-3.  **[KO]** **Q: Is there an upgrade system in the game?**
-**A**: "Paper.io" typically does not have a complex upgrade system; the core of the game lies in players' immediate strategy and execution.
-4.  **[KO]** **Q: How do I avoid being eliminated by other players?**
-**A**: Avoid staying outside your territory for too long, especially while drawing lines, and always be aware of nearby enemies. When enemies approach, quickly return to your own territory.
+5. **맵 가장자리 활용하기**  
+   맵의 외곽은 한쪽 면이 벽으로 막혀 있어 공격받을 방향이 줄어듭니다.
+   가장자리를 따라 영역을 넓히면 상대에게 포위당할 위험을 일정 부분
+   줄일 수 있습니다.
+
+### 조작 방법
+
+- **이동**: 방향키 또는 WASD 키로 색깔 블록을 이동시키면, 블록이 지나간
+  경로에 선이 그려집니다. 기존 영역으로 돌아오면 그 선으로 둘러싸인
+  구역이 자신의 땅이 됩니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: Paper.io의 목표는 무엇인가요?**  
+   **A:** 가능한 한 많은 맵 영역을 차지해 가장 큰 플레이어가 되는 것이
+   목표입니다. 점유율이 높을수록 순위도 올라갑니다.
+
+2. **Q: 점수는 어떻게 계산되나요?**  
+   **A:** 기본적으로 현재 차지하고 있는 맵의 퍼센티지가 점수에 해당합니다.
+   때때로 다른 플레이어를 제거하면 추가 보너스 점수를 얻을 수 있습니다.
+
+3. **Q: 업그레이드나 성장 요소가 있나요?**  
+   **A:** 대부분의 버전에서는 복잡한 성장 시스템 없이, 즉각적인
+   컨트롤과 전략이 전부입니다. 자신의 실력과 판단이 곧 승률을 결정합니다.
+
+4. **Q: 다른 플레이어에게 당하지 않으려면 어떻게 해야 하나요?**  
+   **A:** 자신의 영역 밖에서 너무 오래 머무르지 말고, 선을 길게
+   노출시키지 않는 것이 중요합니다. 주변에 다른 색 블록이 보이면
+   빠르게 자신 영토로 복귀하고, 위험한 방향으로는 지나치게 멀리
+   나가지 않도록 주의하세요.

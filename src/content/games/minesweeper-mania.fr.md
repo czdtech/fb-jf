@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: minesweeper-mania
-title: '[FR] Minesweeper Mania'
+title: Minesweeper Mania
 description: >-
-  [FR] The classic logic puzzle, reimagined! Use number clues to locate all the
-  hidden mines on the board. With multiple difficulty levels, it's the ultimate
-  test of deduction.
+  Minesweeper Mania revisite le démineur : utilise les indices numériques pour
+  localiser les mines cachées sur des grilles de difficulté variée et mets ta
+  logique à l’épreuve.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/minesweeper-mania.png
 tags:
@@ -13,37 +13,41 @@ tags:
   - thinky
   - casual
 score: 4.7/5  (3400 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Minesweeper Mania est une version soignée du démineur classique, proposant plusieurs niveaux de difficulté. Le principe ne change pas : vider une grille contenant des mines sans en déclencher une seule. Chaque nombre indique combien de mines se trouvent dans les huit cases adjacentes, et tu dois t’en servir pour déduire où se cachent les bombes. Les petites grilles sont idéales pour débuter, tandis que les grandes offrent un vrai défi aux vétérans.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Premier clic garanti :** le premier clic est toujours sûr et ne sera jamais une mine. Commencer au centre ou dans un coin de grande zone ouvre rapidement la grille.
+2.  **Reconnaître les motifs :** apprends les schémas de base (par exemple un « 1 » collé à une seule case couverte implique presque toujours une mine sur cette case) et combine‑les pour résoudre la frontière.
+3.  **Utiliser les drapeaux :** dès qu’une case doit obligatoirement être une mine, pose un drapeau. Ça clarifie les motifs et t’évite un misclick fatal.
+4.  **Chording pour aller plus vite :** si une case numérotée est entourée du bon nombre de drapeaux, clique sur le chiffre (souvent clic du milieu) pour révéler d’un coup toutes les autres cases adjacentes.
+5.  **Élimination logique :** dans les situations ambiguës, raisonne par hypothèse : « si cette case était une mine, les nombres autour resteraient‑ils cohérents ? ». Ce type de raisonnement permet souvent d’éviter de deviner.
 
-Minesweeper Mania is a polished version of the timeless single-player logic puzzle, Minesweeper. The objective is to clear a rectangular grid containing hidden mines without detonating any of them. You must use the number clues revealed on the board to deduce where the mines are. Each number tells you how many mines are in the eight adjacent squares. This version offers multiple difficulty levels, providing a fresh challenge for both new players and seasoned veterans.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- **Révéler une case :** clic gauche sur une case couverte.  
+- **Drapeau :** clic droit pour placer ou retirer un drapeau.
 
-1.  **[FR]** **The First Click is Free:** Your first click in any game is always safe and will never be a mine. A good start is to click a few times in the corners and center to open up the board.
-2.  **[FR]** **Learn the Patterns:** The core of Minesweeper is recognizing patterns. If a square says "1" and there is only one unopened square next to it, that square must be a mine. Flag it!
-3.  **[FR]** **Use Flags:** When you are certain a square contains a mine, right-click to flag it. This is crucial for keeping track of information and preventing accidental clicks on known mines.
-4.  **[FR]** **Chord-Clicking for Speed:** Once a numbered square is touching the correct number of flagged mines, you can click on the number itself (often a middle-click or left+right click) to automatically clear all other remaining adjacent squares. This is the fastest way to clear large safe areas.
-5.  **[FR]** **Process of Elimination:** If you can't find a definite safe square, use logic to eliminate possibilities. Ask yourself, "If this square were a mine, would it make sense with the numbers around it?" This can help you deduce safe squares to click.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- **Q : Que signifient les nombres sur la grille ?**  
+  **R :** Ils indiquent le nombre exact de mines dans les huit cases autour.
 
-*   **[FR]** **Reveal a Square:** Left-click on a covered square.
-*   **[FR]** **Flag a Square:** Right-click on a covered square to place or remove a flag.
+    - **Q : Que se passe‑t‑il si je clique sur une mine ?**  
+  **R :** La partie est perdue immédiatement.
 
-### Frequently Asked Questions (FAQ)
+- **Q : Dois‑je obligatoirement poser des drapeaux ?**  
 
-*   **[FR]** **Q: What do the numbers mean?**
-    *   **[FR]** **A:** A number on a square indicates the exact number of mines in the eight squares immediately surrounding it (horizontally, vertically, and diagonally).
+    - **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
 
-*   **[FR]** **Q: What happens if I click on a mine?**
-    *   **[FR]** **A:** The game ends immediately in a loss.
+- **Q: Do I have to use flags?**
 
-*   **[FR]** **Q: Do I have to use flags?**
-    *   **[FR]** **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
+    - **A:** The game ends immediately in a loss.
+  **R :** Non, mais Minesweeper Mania est beaucoup plus agréable à jouer en marquant les mines avec des drapeaux pour garder la grille lisible.
 

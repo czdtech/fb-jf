@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: elite-chess
-title: '[ZH TRANSLATION NEEDED] Elite Chess'
+title: "Elite Chess 精英國際象棋訓練"
 description: >-
-  [ZH TRANSLATION NEEDED] Elite Chess focuses your fundamentals — sound
-  openings, clean tactics, and endgame technique to convert advantages.
+  Elite Chess 聚焦你的象棋基本功——穩健開局、乾淨利落的戰術計算，
+  和紮實的殘局技術，幫你把優勢確實轉化為勝勢。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/elite-chess.png
 tags:
@@ -17,35 +17,54 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Elite Chess provides a streamlined chess experience against scalable AI or a local opponent. Improvement hinges on three pillars: (1) Opening principles — rapid development, king safety, and active piece placement; (2) Middlegame tactics — forks, pins, skewers, discovered attacks, deflections; (3) Endgames — king activity, opposition, basic checkmates, and practical rook endings. Puzzles and adjustable levels help build calculation depth and pattern recall.
+《Elite Chess》提供一個精簡乾淨的國際象棋體驗，你可以對戰可調強度的電腦 AI，
+也可以本地雙人對弈。進步主要圍繞三大支柱：
+
+1.  **開局原則：** 快速發展子力、確保王的安全、讓棋子站到主動、有威脅的位置。
+2.  **中局戰術：** 熟練運用雙攻（fork）、牽制（pin）、串打（skewer）、閃擊攻擊
+    （discovered attack）、誘導與偏置（deflection）等典型戰術。
+3.  **殘局技巧：** 讓王主動出擊、掌握對峙（opposition）、基本將殺型，
+    以及實戰中最常見的車兵殘局技巧（如 Lucena、Philidor 位置）。
+
+內建的習題與可調等級能幫助你訓練計算深度、記憶典型格局與戰術模式。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Openings: Occupy the center (pawns e4/d4/c4), develop knights before bishops, castle early, connect rooks.
-2.  [ZH TRANSLATION NEEDED] Tactics scan: On every move, run “CCT” — Checks, Captures, Threats; look for forcing moves.
-3.  [ZH TRANSLATION NEEDED] Pawn structure: Avoid unnecessary weaknesses (isolated/doubled/backward pawns); fix targets, seize open files.
-4.  [ZH TRANSLATION NEEDED] Endgames: Activate your king, study K+Q vs K, K+R vs K, basic king‑pawn opposition, and Lucena/Philidor rook techniques.
-5.  [ZH TRANSLATION NEEDED] Time management: When low on time, choose simple, healthy moves over deep complications.
+
+1.  **開局：** 優先用兵佔據中心（例如 e4 / d4 / c4），先出馬再出象，及早王車易位，
+    把兩個車連通，讓重子彼此支援。
+2.  **戰術掃描：** 每一步都在心中跑一次「CCT 檢查」——是否有將軍（Check）、吃子（Capture）、
+    直接威脅（Threat）。先找出具強制性的招法，再從中選擇最佳一步。
+3.  **兵型管理：** 盡量避免不必要的弱兵（孤兵、重複兵、落後兵），
+    把對手的弱點固定住，並用車與后搶佔打開的線路（open files）。
+4.  **殘局：** 殘局時要讓自己的王主動向前，並刻意練習 K+Q vs K、K+R vs K、
+    基本王兵對峙，以及常見的 Lucena / Philidor 車兵結構，這些都是實戰中極常出現的型態。
+5.  **時間管理：** 時間緊張時，盡量選擇穩健、簡單、無明顯缺點的招法，
+    避免進入複雜計算卻容易失誤的變化。
 
 ### Controls Guide
 
-- Click a piece to highlight legal moves; click a destination to move.
-- Offer draw/resign; set AI strength in the options.
+- 點擊棋子可以高亮所有合法走法，再點擊目的格完成落子。
+- 可以從選單中提出和棋、認輸，或調整電腦 AI 的強度。
 
 ### Study Plan (Quick)
 
-- 15 min puzzles (forks/pins/skewers/discovered). 10 min review game blunders. 10 min play a focused game with one opening.
+- 每天約 15 分鐘做戰術題（雙攻、牽制、串打、閃擊攻等），
+- 10 分鐘回顧自己對局中的重大失誤，
+- 10 分鐘用固定開局下完整一盤專注練習局，三者循環即可穩定進步。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: How do I stop blundering pieces?
+- 問：怎麼才能減少「送子」的低級失誤？
   
-[ZH TRANSLATION NEEDED]   A: Before every move, blunder‑check your king and loose pieces; run CCT for both sides to catch tactics.
+  答：在每一步落子前，用幾秒檢查自己王的安全與「無保護的子力」，
+  同時替雙方都跑一遍 CCT（將軍、吃子、威脅），把所有戰術招法看過一輪再決定。
 
-- Q: Which openings should I start with?
+- 問：新手該從哪些開局開始學？
   
-[ZH TRANSLATION NEEDED]   A: For White try Italian (1.e4 e5 2.Nf3 Nc6 3.Bc4) or Queen’s Gambit (1.d4 d5 2.c4). For Black use Caro‑Kann/Sicilian vs 1.e4 and Slav/Queen’s Gambit Declined vs 1.d4.
+  答：拿白棋時可以嘗試義大利開局（1.e4 e5 2.Nf3 Nc6 3.Bc4）或后翼棄兵（1.d4 d5 2.c4）；
+  拿黑棋對 1.e4 可以學 Caro-Kann 或西西里防禦，對 1.d4 則可使用斯拉夫或拒守后翼棄兵。
 
-- Q: What endgames give fastest rating gain?
+- 問：哪類殘局最值得優先研究？
   
-[ZH TRANSLATION NEEDED]   A: King‑pawn fundamentals and rook endings; they occur most frequently and convert advantages reliably.
-
+  答：王兵基本殘局與車兵殘局，這些在實戰中出現頻率最高，
+  能讓你把優勢穩穩轉化成勝勢，對積分提升最有幫助。

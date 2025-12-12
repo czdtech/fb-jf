@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: only-up
-title: '[KO] Only Up'
+title: "Only Up 온리 업"
 description: >-
-  [KO] Only Up is a challenging 3D platformer where players must meticulously
-  climb a precarious and often chaotic world, overcoming obstacles and mastering
-  precise jumps to reach higher altitudes without falling.
+  Only Up는 각종 떠다니는 오브젝트와 기묘한 구조물로 이루어진 혼란스러운 3D 세계를
+  끊임없이 올라가야 하는 하드코어 플랫폼 게임으로, 한 번 떨어지면 큰 구간을 다시
+  올라가야 하는 긴장감을 제공합니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/only-up.jpg
@@ -19,33 +19,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
-### Game Introduction
+*Only Up*는 극도로 난도가 높은 3D 플랫폼 게임입니다. 플레이어는 각종 떠다니는 발판,
+버려진 건물, 이상한 구조물로 가득한 거대한 월드를 계속해서 위로 올라가야 합니다.
+세이브 포인트가 없기 때문에 한 번 실수로 떨어지면 큰 높이에서 한순간에 추락해, 사실상
+처음부터 다시 올라가야 할 수도 있습니다. 정밀한 조작과 멘탈 관리가 무엇보다 중요합니다.
 
-"Only Up" is an extremely challenging 3D platformer. Players' objective is to continuously climb a massive world composed of various floating objects, abandoned buildings, and peculiar structures. The game has no save points; every mistake can lead to falling from great heights, requiring a restart from the beginning, thus posing a significant test to players' precision and mental fortitude.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **세밀한 관찰:** 점프하기 전에 다음 착지 지점의 위치·거리·표면 형태를 충분히
+   살펴보고, 어느 루트가 가장 안전한지 미리 계획하세요.
+2. **점프 리듬 익히기:** 오브젝트마다 점프 높이와 타이밍이 조금씩 다르게 느껴질 수
+   있으니, 캐릭터의 점프 감각을 몸에 익힐 때까지 여러 번 시도해 보세요.
+3. **환경 활용:** 도저히 닿지 않을 것 같은 점프는 주변의 작은 구조물을 중간 발판으로
+   활용하거나, 숨겨진 우회 루트를 찾는 식으로 해결해야 합니다.
+4. **침착함 유지:** 여러 번 떨어지더라도 조급해지지 않는 것이 중요합니다. 마음이 급해질수록
+   조작 실수가 빈번해지므로, 필요하다면 잠시 쉬었다가 다시 도전하는 편이 낫습니다.
+5. **실패에서 배우기:** 떨어진 지점을 기억해 두었다가, 다음에 같은 구간을 만났을 때
+   다른 접근을 시도하세요. 실수의 패턴을 알수록 재도전이 수월해집니다.
 
-1.  **[KO]** **Meticulous Observation**: Before each jump, carefully observe the position, distance, and material of the next landing spot, and plan the optimal route.
-2.  **[KO]** **Master Jump Rhythm**: Different objects may require different jump strengths and timings; familiarize yourself with the character's jumping feel.
-3.  **[KO]** **Utilize Environment**: Some seemingly impossible jumps might require using small objects in the environment for assistance, or finding hidden paths.
-4.  **[KO]** **Stay Calm**: Don't get discouraged by multiple failures; staying calm helps improve operational stability and precision.
-5.  **[KO]** **Learn from Experience**: Every fall is an opportunity to learn; remember where you failed to avoid repeating mistakes.
+### 조작 방법
 
-### How to Play
+* **이동:** WASD 키 또는 방향키로 캐릭터를 이동합니다.
+* **점프:** Spacebar로 점프합니다.
+* **달리기:** 일부 버전에서는 Shift와 점프를 함께 사용해 더 멀리 도약할 수 있는 스프린트
+  기능을 제공합니다.
+* **카메라:** 마우스를 움직여 시점을 조절하고, 주변 환경과 루트를 더 잘 살펴볼 수 있습니다.
 
-*   **[KO]** **Movement**: Use WASD or arrow keys to control character movement.
-*   **[KO]** **Jump**: Spacebar for jumping.
-*   **[KO]** **Sprint**: Some game versions may offer a sprint function, often combined with jumping for longer leaps (e.g., Shift + Spacebar).
-*   **[KO]** **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions
+1. **Q: 세이브 포인트가 있나요?**  
+   **A:** 이 게임의 핵심 난이도 요소 중 하나가 세이브 포인트의 부재입니다. 떨어지면
+   상당 부분을 다시 올라가야 할 수 있습니다.
 
-1.  **[KO]** **Q: Does the game have save points?**
-**A**: One of the core challenges of "Only Up" is the absence of save points. Players may fall back to the starting point after each fall, requiring them to restart the challenge.
-2.  **[KO]** **Q: What is the objective of the game?**
-**A**: The objective is to overcome all obstacles and continuously climb upwards to reach the highest point of the world.
-3.  **[KO]** **Q: How can I avoid frequent falls?**
-**A**: The key lies in precise execution, careful observation, and patience. Don't rush; take each step steadily.
-4.  **[KO]** **Q: Is the game beginner-friendly?**
-**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
+2. **Q: 게임의 최종 목표는 무엇인가요?**  
+   **A:** 모든 장애물을 극복하며 가능한 한 높은 곳까지 올라가는 것이 목표입니다.
+
+3. **Q: 자꾸 떨어지는데 어떻게 줄일 수 있을까요?**  
+   **A:** 서두르지 말고, 각 점프를 하기 전에 멈춰서 경로와 착지 위치를 다시 한 번
+   확인해 보세요. 작은 발판을 건너뛸 때는 점프 버튼을 오래 누르지 말고, 필요한 만큼만
+   가볍게 누르는 연습이 중요합니다.
+
+4. **Q: 입문자에게도 추천할 만한가요?**  
+   **A:** 난도가 높아 처음에는 좌절감을 느끼기 쉽지만, 도전 욕구를 자극하는 타입의
+   게임을 좋아한다면 천천히 연습하며 충분히 적응할 수 있습니다.

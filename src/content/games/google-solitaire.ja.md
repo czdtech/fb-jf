@@ -1,43 +1,36 @@
 ---
+title: "Google Solitaire"
+description: "クラシックなクロンダイクソリティア：交互の色の場札を使って、エースからキングまでスートごとにカードを組札に移動させましょう。"
+iframeSrc: "https://www.google.com/logos/fnbx/solitaire/standalone.html"
+thumbnail: "/new-images/google-solitaire.jpg"
+urlstr: "google-solitaire"
+score: "4.0/5  (1294 votes)"
+tags: ["solitaire", "card"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: google-solitaire
-title: '[JA TRANSLATION NEEDED] Google Solitaire'
-description: >-
-  [JA TRANSLATION NEEDED] Classic Klondike solitaire: move cards to build
-  foundations by suit from Ace to King, using tableau stacks that alternate
-  colors.
-iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
-thumbnail: /new-images/google-solitaire.jpg
-tags:
-  - solitaire
-  - card
-score: 4.0/5  (1294 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Googleのクロンダイクソリティアは、1枚めくりまたは3枚めくりモードを提供しています。場札（タブロー）の列を色が交互になるように降順で並べ、エースからキングまで、スートごとに4つの組札（ファンデーション）を作りましょう。空いた場札のスペースには、キング（またはキングを先頭とする列）のみを置くことができます。
 
+### 遊び方
+- 列の間でカードを移動させて、裏向きのカードを表にします。
+- エースや低い数字のカードは、できるだけ早く組札に移動させましょう。
+- 山札（ストック）を循環させます。3枚めくりモードでは、3枚ごとの順序と捨て札の偶奇性を計算しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Google’s Klondike solitaire offers draw‑1 or draw‑3 modes. Build four foundations per suit from Ace to King, using tableau columns that build down in alternating colors. Empty tableau spaces accept only Kings (or King‑led stacks).
+### 操作方法
+- マウス/タッチでドラッグ＆ドロップ。ダブルクリックで可能な場合は自動的に移動します。
 
-### How to Play
-- Expose facedown cards by staging moves across columns.
-- Move Aces and low cards to foundations as soon as practical.
-- Cycle the stock; in draw‑3, plan three‑card order and waste pile parity.
+### ヒント
+- 裏向きのカードをめくることができる移動を優先しましょう。
+- 操作のために、少なくとも1つの列を空けておくようにしましょう。
+- 3枚めくりでは、手詰まり（ソフトロック）を避けるためにサイクルを追跡しましょう。
 
-### Controls
-- Mouse/touch drag‑and‑drop; double‑click auto‑moves when legal.
-
-### Tips
-- Prefer moves that reveal a face‑down card.
-- Keep at least one empty column ready for maneuvering.
-- In draw‑3, track the cycle to avoid softlocks.
-
-### FAQ
-- Q: What starts a new foundation?  
-[JA TRANSLATION NEEDED]   A: Aces begin each suit’s foundation, then build up in‑suit to King.
-- Q: Can any card be moved to an empty space?  
-[JA TRANSLATION NEEDED]   A: Only Kings (or King‑headed stacks) can occupy empty tableau columns.
-- Q: How do draw‑1 and draw‑3 differ?  
-[JA TRANSLATION NEEDED]   A: Draw‑1 reveals each card in order; draw‑3 cycles the stock in groups of three and is harder.
-
+### よくある質問 (FAQ)
+- **Q: 組札はどのカードから始まりますか？**  
+  A: 各スートの組札はエースから始まり、キングまで同じスートで積み上げます。
+- **Q: 空いたスペースにはどのカードでも移動できますか？**  
+  A: キング（またはキングを先頭とするスタック）のみが、空いた場札の列を占有できます。
+- **Q: 1枚めくりと3枚めくりの違いは何ですか？**  
+  A: 1枚めくりはカードを1枚ずつ順番にめくります。3枚めくりは山札を3枚ごとのグループで循環させるため、より難易度が高いです。

@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: cooking-mama
-title: '[ZH TRANSLATION NEEDED] Cooking Mama: Mama Kills Animals'
+title: "Cooking Mama: Mama Kills Animals 厨娘妈妈：动物大屠杀"
 description: >-
-  [ZH TRANSLATION NEEDED] Learn about 'Cooking Mama: Mama Kills Animals,' the
-  shocking parody game created by PETA. This guide explains its origin,
-  satirical gameplay, and the activist message behind it, distinguishing it from
-  the official series.
+  《Cooking Mama: Mama Kills Animals 厨娘妈妈：动物大屠杀》并不是官方 Cooking Mama
+  系列作品，而是由 PETA 制作的讽刺向网页游戏。本文将介绍它的出处、玩法结构以及背后
+  的动物保护议题，帮助你区分这款作品与正统系列。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/cooking-mama.jpg
 tags:
@@ -19,37 +18,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] **This is NOT an official Cooking Mama game.** *Cooking Mama: Mama Kills Animals* is a free, browser-based parody game created by the animal rights organization PETA. It was designed to be a satirical critique of the official *Cooking Mama* series, which features recipes containing meat.
+**先强调：这并不是官方的 Cooking Mama 游戏。**  
+*Cooking Mama: Mama Kills Animals*（《厨娘妈妈：动物大屠杀》）是一款由动物保护组织
+PETA 制作的免费网页恶搞游戏。它借用了官方《Cooking Mama》系列可爱、轻松的美术与关
+卡形式，却刻意将流程改造成极度血腥、直面屠宰过程的体验，用来讽刺官方作品中频繁出现
+肉类料理的设定。
 
-[ZH TRANSLATION NEEDED] The game co-opts the cheerful art style and mini-game structure of the official series but twists it into a gruesome and graphic experience. Instead of lovingly preparing ingredients, the player is forced to perform brutal acts of animal slaughter. For example, a turkey recipe involves violently plucking feathers, dismembering the bird, and removing its internal organs in a bloody fashion.
+在游戏中，你不会像正统 Cooking Mama 那样温柔处理食材、制作可口料理，而是被引导去完
+成一系列残忍的“宰杀步骤”：例如在感恩节火鸡关卡里，你需要暴力拔毛、肢解整只火鸡、血
+淋淋地处理内脏等。画面刻意夸张血腥，与一脸微笑的“妈妈”形象形成强烈反差。
 
-[ZH TRANSLATION NEEDED] The core of the game is the stark contrast between the cute, smiling "Mama" character and the horrific actions she is performing. The goal is not entertainment, but to shock the player and deliver a strong pro-vegetarian message. After completing the gory preparation of a turkey, Mama's eyes well up with tears, and she declares she will never cook meat again, proceeding to make a Tofurkey (a tofu-based turkey substitute) instead.
+整个游戏的核心在于这种反差感：画面依旧是熟悉的卡通厨娘风格，但操作内容却是标准
+Cooking Mama 中永远不会出现的屠宰过程。PETA 的目的不是“好玩”，而是通过不适感与冲击
+，传达其素食主义与反肉食的倡导信息。在完成血腥的火鸡料理后，Mama 会流下眼泪并表示
+再也不做肉食，转而制作豆腐火鸡（Tofurkey）等素食替代品。
 
 ### **Gameplay Strategy & Tips**
 
-[ZH TRANSLATION NEEDED] There is no real "strategy" to win this game in a traditional sense, as it is a linear, message-driven experience. The goal is to complete the sequence of events as intended by its creators.
+这款作品本质上是一段线性的“互动宣传片”，几乎不存在传统意义上的“攻略”，设计目标是
+确保玩家完整观看完全部流程。
 
-1.  **Understand the Purpose**: The primary "tip" is to understand that you are not playing a game for fun. You are interacting with a piece of digital activism. The gameplay is intentionally unpleasant.
-2.  **Follow On-Screen Instructions**: The game is very simple. It will explicitly show you what to do, such as clicking and dragging with the mouse to pluck feathers or cut parts of the animal. There are no complex mechanics to learn.
-3.  **Complete the Narrative**: The only objective is to get through all the gruesome steps to see the final message. There is no scoring system or way to "fail" a step that would stop your progress. The game ensures you see its complete narrative arc.
+1.  **先理解它的目的：** 进入游戏前要意识到，你并不是在玩一款以“乐趣”为主的厨艺游戏，
+    而是在参与一场数字化的行动宣传。流程被刻意做得血腥、压迫，目的是让玩家产生强烈
+    的不适与反思。
+2.  **按照界面提示操作即可：** 游戏会明确告诉你要做什么，例如用鼠标拖动来拔毛、切割
+    或移动器官。操作非常直观，不需要学习任何复杂机制，只要跟随箭头和图示完成步骤。
+3.  **完整看完叙事：** 这款游戏没有真正的失败条件，不会因为“操作不好”而卡关。只要按
+    照提示依次完成所有步骤，就一定能看到最后 Mama 转向素食的结局和 PETA 希望你看到的
+    宣传信息。
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The game was originally a Flash-based browser game and uses very simple mouse controls.
+本游戏最初以 Flash 网页游戏形式存在，操作非常简单。
 
-*   **Mouse Click and Drag**: Most actions, such as plucking, cutting, and moving items, are performed by clicking on an object and dragging the mouse in the direction indicated by on-screen arrows or guides.
+*   **鼠标点击与拖拽：** 绝大部分操作（拔毛、切割、移动食材等）都是通过点击目标对象，
+    然后按照屏幕箭头提示方向拖动鼠标完成的。无需额外按键。
 
 ### **Frequently Asked Questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. Is this a real, official Cooking Mama game?**
-[ZH TRANSLATION NEEDED] No, absolutely not. It is a parody created by the animal rights organization PETA to protest the use of meat in the official games. It is not affiliated in any way with the official franchise or its developers.
+**1. 这真的是官方 Cooking Mama 新作吗？**  
+不是。它完全是 PETA 自行制作的恶搞/抗议作品，与官方 Cooking Mama 系列及其开发商没有
+任何官方合作或授权关系。官方系列依旧是主打轻松做菜的家庭向游戏。
 
-[ZH TRANSLATION NEEDED] **2. Why is this game so violent and graphic?**
-[ZH TRANSLATION NEEDED] The graphic nature is intentional. PETA used shock value to contrast the sanitized, happy portrayal of cooking in the official games with what they present as the violent reality of meat preparation. The goal is to make the player feel uncomfortable and question the source of their food.
+**2. 为什么这款游戏要做得这么血腥？**  
+这是刻意的设计。PETA 想用极端的视觉冲击，对比官方 Cooking Mama 中“干净、快乐”的做菜
+画面，强调现实肉类加工的残酷一面，借此让玩家思考自己食物的来源与动物福利问题。
 
-[ZH TRANSLATION NEEDED] **3. Is there an official vegetarian Cooking Mama game?**
-[ZH TRANSLATION NEEDED] Yes. Partly in response to this parody and general feedback, the official developers later released titles like *Gardening Mama* and *Cooking Mama: World Kitchen*, which included more vegetarian recipes or modes.
+**3. 官方有没有做过更偏素食或不杀生的 Cooking Mama？**  
+有。部分官方作品（例如 *Gardening Mama*、以及带有更多素食菜谱模式的后续作品）在一定
+程度上回应了相关讨论，提供了更偏向蔬食或园艺主题的玩法选项。
 
-[ZH TRANSLATION NEEDED] **4. Where can I play this game?**
-[ZH TRANSLATION NEEDED] It was originally a free game on PETA's website. As it was built on Adobe Flash, which is now discontinued, it may be difficult to play on modern browsers. It might be accessible through Flash preservation projects or archives like the Internet Archive's Software Library.
-
+**4. 现在还能在哪玩到这款恶搞游戏？**  
+它最早可以在 PETA 官网免费游玩，但由于基于 Adobe Flash 技术，而 Flash 现已停止支持，
+在现代浏览器中直接运行会比较困难。你可能需要依赖 Flash 保存项目或互联网档案馆等平
+台中提供的兼容方案。

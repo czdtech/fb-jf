@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-good-night
-title: '[KO] Sprunki Good Night - Play Sprunki Good Night Online'
+title: 'Sprunki Good Night 스프룽키 굿 나이트'
 description: >-
-  [KO] Sprunki Good Night is a Mod that allows you to completely relax your body
-  and mind after a tired day. Come to Sprunki Good Night and use gentle and
-  peaceful beats to create a perfect lullaby and welcome sweet dreams!
+  Sprunki Good Night는 하루를 마무리하며 몸과 마음을 편안하게 풀어 줄 수 있는
+  스프룽키 모드입니다. 잔잔한 피아노와 자연음, 느린 비트로 나만의 자장가를
+  만들어 편안한 밤을 준비해 보세요.
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
 thumbnail: /sprunki-good-night.png
 tags:
@@ -15,22 +15,30 @@ score: 4.2/5  (227 votes)
 
 
 
-### How to Create in Sprunki Good Night?
+### Sprunki Good Night에서 음악 만들기
 
-The operation is very simple, just master the following points:
+조작은 매우 간단하지만, 사운드 조합에 따라 분위기가 크게 달라집니다.
 
-- **Drag:** Drag the characters in Sprunki Good Night onto the stage, each character contributing a gentle, calming, or dreamlike sound.
-- **Mix:** Try mixing soft piano tones, ambient sounds, and slow, rhythmic beats to produce a relaxing, soothing blend.
-- **Explore:** Discover hidden night effects such as remote crickets, mild rain, or lullaby reverberations by smoothly melding sounds.
-- **Tune:** Tune your mix to wholly embrace the calm and soothing essence of Good Night.
+- **드래그:** Sprunki Good Night에 등장하는 캐릭터를 무대 위로 드래그하면,
+  각 캐릭터가 부드러운 피아노, 잔잔한 노이즈, 꿈결 같은 화음 등을 연주합니다.
+- **믹스:** 느린 비트, 은은한 피아노 선율, 잔잔한 배경음을 섞어 편안한
+  사운드 레이어를 만들어 보세요.
+- **탐색:** 귀뚜라미 소리, 빗소리, 머나먼 종소리 같은 야간 효과음을 섞으면
+  더욱 현실감 있는 밤 분위기를 만들 수 있습니다.
+- **튜닝:** 과한 소리를 줄이고, 필요한 부분만 남겨 전체적으로 차분한
+  자장가 느낌이 나도록 조정하는 것이 중요합니다.
 
+### Sprunki Good Night 하이라이트
 
-### Highlights of Sprunki Good Night:
+- **완벽한 자장가 모드:** 명상, 수면 준비, 조용한 휴식을 위한 배경음으로
+  사용하기 좋은 구성을 갖추고 있습니다.
+- **편안한 사운드 이펙트:** 전체적으로 공격적인 소리는 최소화되어 있고,
+  부드럽고 따뜻한 톤이 중심을 이룹니다.
+- **밤 분위기 연출:** 귀뚜라미, 빗소리, 밤공기처럼 느껴지는 잔향 효과가
+  곡에 깊이를 더해 줍니다.
+- **차분한 비주얼:** 달빛, 반짝이는 반딧불, 따뜻한 밤 풍경 같은 연출이
+  사운드와 어우러져, 마치 별빛 아래 누워 있는 듯한 느낌을 줍니다.
 
-- **Gentle Lullaby:** This Mod is perfect for relaxing, meditating, or entering a peaceful musical landscape.
-- **Soothing Sound Effects:** The mix has a peaceful atmosphere, allowing you to feel relaxed during the game.
-- **Nighttime Effects:** The game has nighttime effects such as crickets and rain to make the songs more ethereal.
-- **Peaceful and Serene Visual Effects:** Peaceful and serene visual effects (such as moonlight, twinkling fireflies, and a warm night atmosphere) make you feel like you are under the starry sky.
-
-
-Sprunki Good Night is a Mod that allows you to completely relax your body and mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful beats to create a perfect lullaby and welcome sweet dreams! Venture into the Sprunki Good Night Mod and produce relaxing, peaceful beats for the perfect musical evening!
+Sprunki Good Night는 지친 하루를 마친 뒤, 부드러운 비트와 멜로디로 스스로에게
+휴식을 선물할 수 있는 모드입니다. 가볍게 몇 가지 사운드를 섞어 나만의
+자장가를 만든 다음, 눈을 감고 편안한 밤을 맞이해 보세요.

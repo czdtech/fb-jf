@@ -1,70 +1,37 @@
 ---
+title: "Futoshiki"
+description: "Futoshikiは論理を鋭くします。行/列の一意性で数字を配置し、不等号を尊重して優雅な推論を行いましょう。"
+iframeSrc: "https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/"
+thumbnail: "/new-images/futoshiki.jpg"
+urlstr: "futoshiki"
+score: "4.3/5  (2098 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: futoshiki
-title: '[JA TRANSLATION NEEDED] Futoshiki'
-description: >-
-  [JA TRANSLATION NEEDED] Futoshiki sharpens logic — place digits with
-  row/column uniqueness while honoring inequality signs for elegant deductions.
-iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
-thumbnail: /new-images/futoshiki.jpg
-tags:
-  - puzzle
-  - thinky
-score: 4.3/5  (2098 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Futoshiki（「等しくない」）は、数独のようなラテン方陣論理パズルですが、隣接するセル間に不等号（>、<）があります。各行/列にすべての数字が正確に1回ずつ含まれ、すべての不等式が満たされるように数字を配置する必要があります。記号は、優雅な推論を強化する強力なチェーンを作成します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Futoshiki ("not equal") is a Latin‑square logic puzzle like Sudoku but with inequality signs (>, <) between neighboring cells. You must place digits so each row/column contains all numbers exactly once and every inequality is satisfied. The signs create strong chains that power elegant deductions.
+1.  **不等式チェーン:** A>B>CはA≥C+2を意味します。それに応じて候補を鉛筆で書きます。
+2.  **極値:** A>…>BはAを高く、Bを低く制限します。チェーンの端で1/最大値の除外を使用します。
+3.  **行/列スキャン:** ラテン制約を適用して候補を積極的に刈り込みます。
+4.  **矛盾ループ:** タイトなセルで値を仮定します。不等式が壊れるか、行/列が重複する場合はバックトラックします。
+5.  **対称性:** バランスの取れたパズルには、多くの場合、ミラー化された不等式構造があります。それらを活用します。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Inequality chains: A>B>C means A≥C+2; pencil candidates accordingly.
-[JA TRANSLATION NEEDED] 2.  Extremes: A>…>B bounds A high and B low; use 1/Max eliminations on chain ends.
-[JA TRANSLATION NEEDED] 3.  Row/column scans: Apply Latin constraints to prune candidates aggressively.
-[JA TRANSLATION NEEDED] 4.  Contradiction loops: Assume a value on tight cells; backtrack if an inequality breaks or row/col duplicates.
-[JA TRANSLATION NEEDED] 5.  Symmetry: Balanced puzzles often have mirrored inequality structures — exploit them.
+- セルをタップして候補/値を入力します。鉛筆モードを切り替えます。元に戻す/やり直します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Tap a cell to enter candidates/values; toggle pencil mode; undo/redo.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I can’t progress — any tip?
-  
-[JA TRANSLATION NEEDED]   A: Expand inequality chains into explicit bounds (e.g., if 5>□>3 then middle ∈ {4}); combine with row/col hits.
-
-- Q: Are guesses required?
-  
-[JA TRANSLATION NEEDED]   A: Good sets are solvable logically; at worst use controlled assumptions with quick backtrack.
-
-- Q: Difference vs Sudoku?
-  
-
-
-
-
-
-- Q: I can’t progress — any tip?
-### よくある質問（FAQ）
-- Tap a cell to enter candidates/values; toggle pencil mode; undo/redo.
-### コントロールガイド
-- Symmetry: Balanced puzzles often have mirrored inequality structures — exploit them.
-[JA TRANSLATION NEEDED]   A: Inequalities add directed constraints, enabling stronger forced moves.
-
-
-
-
-
-
-A: Inequalities add directed constraints, enabling stronger forced moves.
-- Q: Difference vs Sudoku?
-A: Good sets are solvable logically; at worst use controlled assumptions with quick backtrack.
-- Q: Are guesses required?
-
-
-A: Inequalities add directed constraints, enabling stronger forced moves.
+- **Q: 進めません。ヒントはありますか？**
+  A: 不等式チェーンを明示的な範囲に展開します（例：5>□>3なら中間∈{4}）。行/列ヒットと組み合わせます。
+- **Q: 推測は必要ですか？**
+  A: 良いセットは論理的に解決可能です。最悪の場合、クイックバックトラックで制御された仮定を使用します。
+- **Q: 数独との違いは？**
+  A: 不等式は方向性のある制約を追加し、より強い強制移動を可能にします。

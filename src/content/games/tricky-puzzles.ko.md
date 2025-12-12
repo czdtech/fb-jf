@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: tricky-puzzles
-title: '[KO] Brain Test: Tricky Puzzles'
+title: "Brain Test: Tricky Puzzles 브레인 테스트: 트리키 퍼즐"
 description: >-
-  [KO] Challenge your brain with Brain Test: Tricky Puzzles, a mind-bending game
-  that defies conventional logic! Solve unique riddles and puzzles by tapping,
-  dragging, and even rotating your device. Think outside the box and explore
-  every possibility to find the surprising solutions.
+  평범한 논리로는 풀 수 없는 기발한 문제들로 가득한 퍼즐 게임입니다. 화면을 탭하고 드래그하고
+  때로는 기기를 돌려 가며, 상식의 틀을 깨는 정답을 찾아 뇌를 끝까지 굴려 보세요.
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/tricky-puzzles.jpg
 tags:
@@ -17,37 +15,43 @@ score: 4.1/5  (713 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Brain Test: Tricky Puzzles는 전통적인 퍼즐 방식에서 벗어나, 플레이어가 "틀 밖에서 생각"하도록
+요구하는 두뇌 게임입니다. 단순히 숫자를 계산하거나 블록을 맞추는 것이 아니라, 화면 속 요소들을
+의외의 방식으로 이용해야만 정답에 도달할 수 있는 문제가 많습니다. 탭, 드래그, 확대/축소는 물론,
+기기를 실제로 기울이거나 회전해야 풀리는 스테이지도 있어 창의력과 발상의 전환을 강하게 요구합니다.
 
-### Game Introduction
+### 게임 플레이 가이드
 
-Brain Test: Tricky Puzzles is a popular and innovative puzzle game that challenges players to think outside the box. Unlike traditional puzzles, this game often requires unconventional solutions, encouraging players to interact with elements on the screen in unexpected ways, including tapping, dragging, and even rotating their device. It's designed to test your creativity and lateral thinking.
+각 단계마다 하나의 독특한 수수께끼가 제시되며, 대부분의 정답은 직관과는 다른 방향에 숨어 있습니다.
 
-### Gameplay Guide
+- **상호작용 방식 이해하기**: 화면에 보이는 거의 모든 요소는 터치하거나 드래그해 볼 만한 대상입니다.
+  단순히 버튼만 누르는 것이 아니라, 그림을 옮기거나 여러 개를 동시에 눌러야 하는 경우도 있습니다.
+- **세밀한 관찰**: 정답과 직접적인 관련이 없어 보이는 작은 오브젝트나 텍스트, UI도 퍼즐의 일부일 수
+  있습니다. 스펠링, 위치, 색상 등 사소해 보이는 요소도 힌트가 됩니다.
+- **실험 정신 갖기**: "설마 이게 되겠어?" 싶은 행동이 정답인 경우가 많습니다. 논리적인 수순만
+  고집하지 말고, 기기를 흔들거나 화면 밖으로 밀어보는 등 다양한 시도를 해 보세요.
+- **힌트 활용**: 막혔을 때는 제공되는 힌트를 참고하면 해결 방향을 잡는 데 도움이 됩니다. 다만
+  스스로 정답을 찾아냈을 때의 성취감이 크므로, 최후의 수단으로 사용하는 것을 추천합니다.
 
-Each level presents a unique riddle or puzzle. The solution is rarely straightforward and often involves misdirection or humor.
-- **Interaction:** Tap on objects, drag them around, or use multi-touch gestures.
-- **Observation:** Pay close attention to every detail on the screen, as even seemingly irrelevant elements might be part of the solution.
-- **Experimentation:** Don't be afraid to try anything. If a solution seems too obvious, it's probably a trick!
-- **Hints:** If you get stuck, hints are usually available, but try to solve it yourself first for the most satisfaction.
+### 조작 방법 안내
 
-### Controls Guide
+- **탭**: 모바일에서는 손가락, PC에서는 마우스로 원하는 오브젝트를 탭/클릭합니다.
+- **드래그**: 길게 누른 뒤 손가락이나 마우스를 움직여 물체를 끌어다 놓습니다.
+- **멀티 터치/기기 회전**: 일부 퍼즐은 두 손가락 이상을 동시에 사용하거나, 실제로 기기를 기울이고
+  돌려야만 해결됩니다.
 
-- **Tap:** Use your finger (on mobile) or mouse (on PC) to tap on objects.
-- **Drag:** Tap and hold, then move your finger/mouse to drag objects.
-- **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Q. 왜 이렇게 퍼즐이 다 "꼬여" 있나요?**  
+A. 이 게임의 컨셉 자체가 상식을 뒤집는 트릭 퍼즐이기 때문입니다. 우리가 보통 당연하게 생각하는
+전제를 깨는 방식으로 출제되며, 말장난이나 시각 트릭을 활용한 문제도 많습니다.
 
-**Why are the puzzles so "tricky"?**
+**Q. 시간 제한이 있나요?**  
+A. 일반적으로 각 퍼즐에 엄격한 시간 제한은 없습니다. 마음껏 시도하고 실패해 보면서 천천히 정답을
+찾아가면 됩니다.
 
-The puzzles are tricky because they often play on common assumptions or use wordplay and visual gags to mislead you. The solutions are usually simple once you figure out the "trick."
-
-**Is there a time limit for puzzles?**
-
-Generally, there is no time limit for solving puzzles, allowing you to take your time and experiment.
-
-**How do I get hints?**
-
-Hints are typically available after watching an ad or using in-game currency. They provide clues to help you solve the puzzle without giving away the full answer immediately.
-
+**Q. 힌트는 어떻게 얻을 수 있나요?**  
+A. 보통 광고를 시청하거나 게임 내 재화를 사용해 힌트를 열 수 있습니다. 힌트는 정답 전체를 바로
+보여주기보다는, 방향성을 제시하는 짤막한 단서인 경우가 많습니다.

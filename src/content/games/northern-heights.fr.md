@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: northern-heights
-title: '[FR] Northern Heights'
+title: Northern Heights
 description: >-
-  [FR] Embark on an exciting skiing journey in Northern Heights. Navigate steep
-  descents, perform stunts, and collect coins to become a skiing legend.
+  Northern Heights est un jeu de ski arcade : dévale les pentes, enchaîne les
+  figures et collecte des pièces pour devenir une légende de la glisse.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/northern-heights.png
 tags:
@@ -12,33 +12,36 @@ tags:
   - action
   - driving
 score: 4.6/5 (2876 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Northern Heights t’embarque sur des pistes enneigées à grande vitesse. Tu y contrôles un skieur qui enchaîne descentes vertigineuses, sauts spectaculaires et figures pour gagner des points bonus. En cours de route, tu peux récupérer des pièces pour débloquer de nouveaux équipements et personnalisations. Le jeu repose sur un équilibre subtil entre vitesse, contrôle et prise de risque.
 
+### Stratégies de jeu et progression
 
+1.  **Maîtriser les commandes :** apprends d’abord à tourner proprement et à gérer la réception des sauts avant de chercher les gros scores.  
+2.  **Planifier tes trajectoires :** anticipe les virages, bosses et obstacles ; une ligne propre te permet d’être à la fois rapide et stable.  
+3.  **Équilibrer vitesse et contrôle :** ne reste pas tout le temps à fond ; ralentir légèrement avant une section technique évite les chutes coûteuses.  
+4.  **Enchaîner les figures :** utilise les tremplins pour réaliser des flips ou rotations, mais seulement si tu vois clairement ta zone de réception.  
+5.  **Ramasser les pièces :** vise les pièces situées sur des trajectoires sûres ; n’expose pas toute ta descente pour une seule pièce.
 
-### Detailed Game Introduction
+### Commandes
 
-Northern Heights is a skiing game that takes you on an exciting journey over snow. Players navigate steep descents, perform gorgeous stunts for bonus points, and collect coins. The game emphasizes balancing speed and control, and offers customization options for characters, boards, and clothing.
+- Déplacement / carving : touches fléchées ou souris suivant la version.  
+- Figures : certaines versions permettent des combinaisons supplémentaires en l’air ; consulte l’écran d’aide.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** **Master the Controls:** Learn the controls for steering and stunt accuracy to navigate the slopes effectively.
-2.  **[FR]** **Plan Your Route:** Plan your routes to account for curves and obstructions.
-3.  **[FR]** **Balance Speed and Control:** Find a balance between speed and control to avoid falls and maximize your score.
-4.  **[FR]** **Perform Stunts:** Use leaps and stunts strategically to earn bonus points.
-5.  **[FR]** **Collect Coins:** Collect coins to purchase accessories, boards, and clothing to customize your experience.
+- **Q : Comment marquer davantage de points ?**  
+  **R :** En combinant vitesse, figures réussies et collecte de pièces, tout en minimisant les chutes.
 
-### Controls Guide
+    - **Q : À quoi servent les pièces ?**  
 
-*   **[FR]** **Arrow Keys/Mouse:** Use the arrow keys or mouse to steer your character down the slopes. Specific controls for stunts may vary.
+- **A:** Coins can be used to purchase customization options for your character, including new boards and clothing.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[FR]** **Q: How do I score more points?**
-    *   **[FR]** **A:** Performing stunts, collecting coins, and finishing the course quickly will all contribute to a higher score.
-*   **[FR]** **Q: What can I do with the coins I collect?**
-    *   **[FR]** **A:** Coins can be used to purchase customization options for your character, including new boards and clothing.
+    - **Q: What can I do with the coins I collect?**
+  **R :** Elles permettent généralement de débloquer de nouveaux skis, planches, tenues ou effets cosmétiques.
 

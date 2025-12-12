@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: candy-bubbles
-title: '[ES] Candy Bubbles'
+title: "Candy Bubbles"
 description: >-
-  [ES] Step into a sweet world and pop colorful candy bubbles! Aim your cannon,
-  match three or more, and clear the board in this delightful bubble shooter
-  puzzle game.
+  Entra en un mundo dulce y revienta burbujas de caramelo de colores. Apunta el
+  cañón, combina tres o más y limpia el tablero en este encantador bubble
+  shooter de puzles.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/candy-bubbles.png
 tags:
@@ -17,34 +17,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Candy Bubbles es una versión dulce y colorida del clásico género bubble shooter.
+En un escenario lleno de caramelos, tu objetivo es limpiar la pantalla de
+burbujas de caramelo. Apunta el cañón, dispara y forma grupos de tres o más del
+mismo color para hacerlas estallar. Con cientos de niveles, retos estratégicos y
+reacciones en cadena muy satisfactorias, es un puzle relajante perfecto para
+todas las edades.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **Apunta alto:** Como en todo buen bubble shooter, lo más efectivo es buscar
+    coincidencias en la parte superior. Al romper un grupo que sostiene otros
+    por debajo, todas las burbujas colgantes caerán, limpiando grandes zonas y
+    sumando muchos puntos.
+2.  **Usa las paredes:** Recuerda que puedes rebotar los disparos en los laterales.
+    Aprovecha esto para alcanzar zonas complicadas o rodear burbujas de colores
+    que te bloquean un tiro directo.
+3.  **Planifica tus disparos:** Normalmente verás la burbuja actual y la
+    siguiente en la cola. Usa esa información para pensar varios tiros por
+    adelantado; si el color actual no sirve para un buen grupo, quizá puedas
+    preparar una jugada fuerte con el siguiente.
+4.  **No dejes que lleguen al fondo:** Periódicamente la línea superior desciende,
+    acercando las burbujas a tu cañón. Si alguna cruza la línea inferior, la
+    partida termina.
 
-Candy Bubbles is a sweet and colorful twist on the classic bubble shooter genre. Set in a delightful candy-themed world, your goal is to clear the screen of vibrant candy bubbles. Aim your cannon, shoot, and match three or more bubbles of the same color to make them pop. With hundreds of levels, strategic challenges, and satisfying chain reactions, it’s a relaxing puzzle game perfect for all ages.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+*   **Apuntar:** Mueve el ratón para orientar el cañón; una guía mostrará la
+    trayectoria.
+*   **Disparar:** Haz clic con el botón izquierdo para lanzar la burbuja.
+*   **Cambiar (si está disponible):** Algunas versiones incluyen un botón para
+    intercambiar la burbuja actual con la siguiente de la cola.
 
-1.  **[ES]** **Aim High:** The most effective strategy in any bubble shooter is to aim for matches high up on the board. When you pop a cluster of bubbles, any bubbles that are only attached to that cluster (and nothing else) will also fall down, clearing large sections of the board at once and earning you massive bonus points.
-2.  **[ES]** **Use the Walls:** Don't forget that you can bounce your shots off the side walls. Use this to your advantage to reach tricky spots or to get around bubbles of the wrong color that are blocking a direct shot.
-3.  **[ES]** **Plan Your Shots:** Most versions of the game show you both your current bubble and the next one in the queue. Use this information to plan your moves. If you can't make a good match with your current bubble, perhaps you can set up a great match for the next one.
-4.  **[ES]** **Don't Let Them Reach the Bottom:** A line at the top of the screen will periodically drop, pushing the bubbles closer to your cannon. If any bubble crosses the line at the bottom, the game is over.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **P: ¿Cuál es el objetivo de cada nivel?**
+    *   **R:** Normalmente, limpiar todas las burbujas de la pantalla. Algunos
+        niveles pueden añadir objetivos especiales, como liberar objetos
+        atrapados.
 
-*   **[ES]** **Aim:** Move your mouse to aim the cannon. A guideline will show you the trajectory of your shot.
-*   **[ES]** **Fire:** Click the left mouse button to shoot the bubble.
-*   **[ES]** **Swap (if available):** Some versions may have a button to swap your current bubble with the next one in the queue.
+*   **P: ¿Cómo consigo la máxima puntuación?**
+    *   **R:** Haciendo caer grandes grupos de burbujas colgantes. Romper solo
+        tres burbujas da una puntuación básica, pero hacer que caiga una docena
+        en un solo tiro genera enormes combos.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What is the goal of each level?**
-    *   **[ES]** **A:** The primary goal is usually to clear all the bubbles from the screen. Some levels may have special objectives, like freeing items trapped inside bubbles.
-
-*   **[ES]** **Q: How do I get the highest score?**
-    *   **[ES]** **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
-
-*   **[ES]** **Q: I have a bubble color I can't use. What should I do?**
-    *   **[ES]** **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
-
+*   **P: Me toca un color que no puedo usar, ¿qué hago?**
+    *   **R:** Intenta dispararlo a una zona donde moleste lo menos posible o
+        donde pueda servirte más adelante. Si el modo permite intercambio,
+        comprueba si la siguiente burbuja ofrece una mejor opción.

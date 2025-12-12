@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: g-switch-4
-title: '[ZH TRANSLATION NEEDED] G-Switch 4'
+title: "G-Switch 4 重力切換酷跑 4"
 description: >-
-  [ZH TRANSLATION NEEDED] Latest gravity‑flip runner entry: refined controls,
-  tricky obstacle chains, and competitive local races for many players.
+  重力翻轉跑酷系列最新作：操作手感更順、陷阱鏈更刁鑽，
+  並強化了支援多人的本地競速模式。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/g-switch-4.jpg
@@ -18,24 +18,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Tight one‑button timing with dense trap layouts and robust local multiplayer support.
+
+《G-Switch 4》延續系列一鍵翻轉重力的核心玩法，在更緊湊的關卡中塞滿各種機關與陷阱，
+需要極佳的按鍵節奏與反應時間才能順利通過。同時，多人本地競速模式也進一步擴充，
+支援更多玩家在同一畫面上較量。
 
 ### How to Play
-- Flip before edges; buffer a second flip for back‑to‑back traps.
-- In races, keep a safe cadence instead of risky late flips.
+
+- 在平台邊緣前稍早按鍵翻轉重力，避免臨門一腳才翻而直接衝出邊界。
+- 面對連續陷阱時，提前準備好連翻兩次以上的節奏，
+  例如先翻到天花板躲過第一組，再立刻翻回地面避開第二組。
+- 在競速模式中，比起一味追求極限晚翻，穩健的翻轉節奏更重要，
+  保持不失誤通常比偶爾神操作卻頻繁跌落更容易取勝。
 
 ### Controls
-- Single key/tap to flip; one key per player in vs.
+
+- 使用單一按鍵或點擊即可翻轉重力方向；
+- 在對戰模式中，每位玩家分配一個專屬按鍵以控制自己的角色。
 
 ### Tips
-- Practice on slower sections to lock in your rhythm.
-- Use long ceilings/floors to reset timing after mistakes.
+
+- 利用節奏較慢的路段反覆練習翻轉節奏，把肌肉記憶固定下來，
+  在高速路段才不會慌張亂按。
+- 遇到長直線天花板或地板時，可以用來重新調整節奏與呼吸，
+  把節奏修正回自己熟悉的間隔，再面對下一組陷阱。
 
 ### FAQ
-- Q: What is new in this installment?  
-[ZH TRANSLATION NEEDED]   A: Smoother control feel and denser obstacle patterns; strong local multiplayer modes.
-- Q: Does it support many local players?  
-[ZH TRANSLATION NEEDED]   A: Yes, many hosts allow multiple participants with unique keys.
-- Q: Are there checkpoints?  
-[ZH TRANSLATION NEEDED]   A: Level modes may include them; endless races typically do not.
 
+- 問：這一代相較前作有什麼新特色？  
+  答：主要是操作手感更細膩、陷阱密度與組合更高，
+  同時本地多人競速模式更完整，適合大量玩家一起同樂。
+
+- 問：是否支援多人同鍵盤？  
+  答：許多託管版本支援多位玩家各使用一個按鍵，在同一畫面同時遊玩，
+  適合派對或朋友聚會。
+
+- 問：關卡裡有檢查點嗎？  
+  答：關卡模式中可能設置部分檢查點讓你在中途復活，
+  但無盡競速模式一般不會提供檢查點，一失誤就得重新來過。

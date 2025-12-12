@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: puppet-master
-title: '[ZH TRANSLATION NEEDED] Puppet Master'
-description: >-
-  [ZH TRANSLATION NEEDED] Puppet Master is a quirky physics-based puzzle game
-  where players control a puppet character through challenging obstacles and
-  levels by manipulating its movement and limbs to reach the goal.
+title: 《Puppet Master》物理木偶大师
+description: 《Puppet Master》是一款物理解谜向的搞怪木偶游戏，你需要通过操控木偶的四肢与身体动作，在各种障碍与关卡中艰难前进，想办法摇摇晃晃地抵达终点。
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/puppet-master.jpg
 tags:
@@ -18,31 +15,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Puppet Master" is a quirky physics-based puzzle game where players control a puppet character through challenging obstacles and levels by manipulating its movement and limbs to reach the goal. The game is famous for its unique control scheme and humorous animation effects, providing players with an entertaining yet challenging gaming experience.
+《Puppet Master》是一款操作手感“反人类”但笑点十足的物理木偶解谜游戏。你要控制一具软趴趴的木偶角色，通过拉扯、摆动它的手脚，让它在关卡中翻越台阶、跨越陷阱、按下按钮乃至抓住绳索荡过去。由于采用了基于物理的动作系统，木偶的一举一动都显得笨拙又滑稽，也让简单的前进变成一项充满挑战的任务。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Master the Controls**: Familiarize yourself with controlling each body part of the puppet, learning to coordinate the movement of arms, legs, and other limbs.
-2.  **Utilize Physics**: Make good use of the game's physics engine through swinging, pushing, pulling, and grasping actions to overcome obstacles.
-3.  **Observe Environment**: Carefully observe environmental elements in levels such as platforms, ropes, and buttons to find the best path to completion.
-4.  **Be Patient**: Due to the complex controls, it takes multiple attempts to master the techniques. Don't get discouraged by failures.
-5.  **Think Creatively**: Sometimes unconventional solutions may be more effective than standard methods; try different approaches.
+1.  **先熟悉各个部位操作：** 建议先在简单关卡中熟悉每个按键或鼠标操作分别控制哪个肢体，逐渐学会如何协调手臂支撑和腿部蹬地，而不是一上来就追求通关速度。
+2.  **善用物理摆动：** 利用木偶的重心变化和摆动惯性，先将身体向一侧晃动，再借力拉起另一侧手脚，往往比单纯僵硬地“举手抬腿”更容易跨过高台或空隙。
+3.  **仔细观察关卡环境：** 留意关卡里的平台、绳索、按钮和可互动物体，很多时候你需要先拉动某个机关或利用绳索荡过，而不是硬推硬爬。
+4.  **保持耐心，多次尝试：** 这款游戏本身就鼓励“摔倒—爬起来—继续摔”的循环，不要因为频繁失败就心态炸裂，把每一次翻车都当作一段搞笑表演即可。
+5.  **灵活思考解法：** 某些关卡并不要求你用“正统走路”方式通过，反而是匍匐、翻滚甚至“倒立蠕动”更好用，尝试各种看似离谱的行动路线往往会有惊喜。
 
-### How to Play
+### 操作说明
 
-*   **Body Control**: Typically use mouse or keyboard to control different body parts of the puppet.
-*   **Grab**: Click and drag to make the puppet grab objects or surfaces.
-*   **Movement**: Achieve puppet movement by coordinating arm and leg movements.
-*   **Jumping**: Use coordination between legs and arms to achieve jumping actions.
+*   **肢体控制：** 一般会使用键盘或鼠标分别控制木偶的不同肢体（具体按键以游戏内提示为准）。
+*   **抓取物体：** 通过点击并拖动，或按住特定键，让木偶的手抓住绳子、台阶边缘或道具表面。
+*   **移动与跳跃：** 通过协调手脚的摆动和支撑，让木偶挪动身体或“撑起”完成跳跃，游戏中并不一定有传统意义上的“跳跃键”。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Controlling the puppet is very difficult. Are there any tips?**
-     **A**: Control indeed requires practice. It's recommended to start with simple levels to familiarize yourself with operating each body part, gradually improving coordination.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I make the puppet walk steadily?**
-     **A**: Maintaining rhythm is important; don't rush. Alternate between using arms and legs, simulating real walking motions.
-3.  [ZH TRANSLATION NEEDED] **Q: What if I'm stuck on a level and can't pass it?**
-     **A**: Try different paths and methods; sometimes seemingly impossible routes are actually feasible. Watching other players' walkthrough videos might also help.
-4.  [ZH TRANSLATION NEEDED] **Q: Are there different difficulty levels in the game?**
-     **A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.
+
+- **Jumping**: Use coordination between legs and arms to achieve jumping actions.
+### 常见问题（FAQ）
+
+1.  **问：操作木偶太难了，有什么技巧吗？**
+    **答：** 一开始先不要急着闯关，尝试在起点附近练习单手抓取、单脚蹬地等动作，熟悉不同肢体对应按键后再逐步尝试复杂动作，整体上手会轻松很多。
+2.  **问：怎么让木偶走得更稳？**
+    **答：** 尽量保持节奏均匀的左右摆动，模拟现实中“迈步”的节奏，而不是乱按键。先用一侧手臂撑地稳定，再让另一条腿跨出，会比四肢一起乱动稳定得多。
+3.  **问：卡关过不去怎么办？**
+    **答：** 可以换一种思路走不同路线，或尝试用身体翻滚、爬行等方式通过障碍；也可以参考其他玩家的视频，看他们是如何利用物理特性完成看似不可能的动作的。
+4.  **问：游戏是否有难度曲线？**
+    **答：** 有。前期是简单关卡帮助你熟悉操作，后续会逐渐加入更复杂的机关与地形，让你一步步从“摔倒大师”进化为真正的“木偶大师”。

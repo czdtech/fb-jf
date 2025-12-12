@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: pokemon-fire-red
-title: '[DE] Pokemon Fire Red'
+title: "Pokemon Fire Red"
 description: >-
-  [DE] Pokemon Fire Red is a faithful remake of the original Pokémon Red game,
-  where players journey through the Kanto region to catch and train Pokémon,
-  battle Gym Leaders, and thwart the plans of Team Rocket to become the Pokémon
-  League Champion.
+  Pokemon Fire Red ist ein Remake von Pokémon Rot für den GBA: Du reist durch
+  Kanto, fängst und trainierst Pokémon, kämpfst gegen Arenaleiter, legst Team
+  Rocket das Handwerk und trittst schließlich als Herausforderer der
+  Pokémon-Liga an.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/pokemon-fire-red.jpg
 tags:
@@ -18,36 +18,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Pokemon Fire Red" ist ein neu aufgelegtes Remake des ursprünglichen
+ „Pokémon Rot“. Du beginnst dein Abenteuer in Alabastia und durchstreifst die
+ Kanto-Region, fängst Pokémon, trainierst dein Team, besiegst Arenaleiter und
+ durchkreuzt die Pläne von Team Rocket – mit dem Ziel, Champ der
+ Pokémon-Liga zu werden. Die Story und das Grundgameplay des Originals bleiben
+ erhalten, ergänzt um Grafik- und Komfortverbesserungen der GBA-Generation.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Starter wählen:** Zu Beginn suchst du dir eines von drei Pokémon als
+    Partner aus: Bisasam (Pflanze), Glumanda (Feuer) oder Schiggy (Wasser).
+    Welches du wählst, beeinflusst die ersten Arenakämpfe, langfristig sind alle
+    drei gut spielbar.
+2.  **Team erweitern:** Triff wilde Pokémon im hohen Gras oder in Höhlen,
+    schwäche sie im Kampf und fange sie mit Pokébällen, um ein vielseitiges
+    Team aufzubauen.
+3.  **Trainieren & Entwickeln:** Durch Kämpfe sammeln deine Pokémon Erfahrung,
+    steigen im Level auf und können sich entwickeln – manche zusätzlich durch
+    Entwicklungssteine oder Tausch.
+4.  **Arenaleiter herausfordern:** Besiege die acht Arenaleiter von Kanto, um
+    alle Orden zu erhalten. Erst dann darfst du die Pokémon-Liga betreten.
+5.  **Team Rocket stoppen:** Auf deiner Reise triffst du mehrfach auf Team
+    Rocket. Besiege ihre Bosse und verhinder ihre Pläne, um im Spiel
+    voranzukommen.
 
-"Pokemon Fire Red" is a faithful remake of the original "Pokémon Red" game. Players embark on an adventure through the Kanto region, catching and training Pokémon, battling Gym Leaders, and thwarting the plans of Team Rocket with the ultimate goal of becoming the Pokémon League Champion. The game retains the classic storyline and gameplay of the original, with visual and functional enhancements from the GBA era.
+### Steuerung
 
-### Gameplay Strategy
+*   **Bewegung:** Mit den Pfeiltasten steuerst du deinen Trainer.
+*   **A-Taste (Bestätigen/Sprechen):** Sprich mit NPCs, wähle Menüpunkte und
+    bestätige Befehle im Kampf.
+*   **B-Taste (Abbrechen/Rennen):** Brich Menüs ab; mit Laufschuhen kannst du
+    gehaltene B-Taste zum Rennen verwenden.
+*   **Start (Menü):** Öffnet das Hauptmenü (Pokémon, Items, Speichern usw.).
+*   **Select (Item registrieren):** Registriert ein häufig genutztes Item für
+    Schnellzugriff.
 
-1.  **[DE]** **Choose Your Starter Pokémon**: At the beginning of the game, select one of three Pokémon—Bulbasaur, Charmander, or Squirtle—as your partner.
-2.  **[DE]** **Catch New Pokémon**: Encounter wild Pokémon in tall grass and other areas, weaken them, and use Poké Balls to catch them, expanding your team.
-3.  **[DE]** **Train and Evolve**: Gain experience through battles to level up your Pokémon, and use Evolution Stones or specific conditions to evolve them, enhancing their strength.
-4.  **[DE]** **Challenge Gyms**: Defeat the eight Gym Leaders and collect all badges, which are necessary to enter the Pokémon League.
-5.  **[DE]** **Confront Team Rocket**: Throughout your adventure, you will repeatedly encounter Team Rocket; thwart their evil schemes.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Movement**: Use the arrow keys to control character movement.
-*   **[DE]** **A Button (Confirm/Talk)**: Talk to NPCs, select menu options, confirm battle commands.
-*   **[DE]** **B Button (Cancel/Run)**: Cancel menu selections, hold the B button in some areas to run (requires running shoes).
-*   **[DE]** **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save the game, etc.
-*   **[DE]** **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: What are the starter Pokémon in "Pokemon Fire Red"?**
-**A**: The starter Pokémon are Bulbasaur (Grass type), Charmander (Fire type), and Squirtle (Water type).
-2.  **[DE]** **Q: How do I trade Pokémon in the game?**
-**A**: Trading requires connecting with another player through the in-game communication feature, usually done at a Pokémon Center.
-3.  **[DE]** **Q: Which Legendary Pokémon can be caught in the game?**
-**A**: In the Kanto region, players can catch Legendary Pokémon such as Moltres, Zapdos, Articuno, and Mewtwo.
-4.  **[DE]** **Q: What are the differences between "Fire Red" and "Leaf Green"?**
-**A**: "Fire Red" and "Leaf Green" are two versions of the same generation of games, with the main differences being the types and encounter rates of some wild Pokémon, as well as dialogue for some NPCs.
+1.  **F: Welche Starter-Pokémon gibt es in "Pokemon Fire Red"?**
+    **A:** Bisasam (Pflanze), Glumanda (Feuer) und Schiggy (Wasser).
+2.  **F: Wie kann ich Pokémon tauschen?**
+    **A:** Über die Ingame-Kommunikation in Pokémon-Centern, indem du dich mit
+    einem anderen Spieler verbindest (je nach Emulator/Plattform simuliert).
+3.  **F: Welche legendären Pokémon kann ich fangen?**
+    **A:** In Kanto unter anderem Arktos, Zapdos, Lavados und Mewtu – plus
+    weitere, je nach Version/Events.
+4.  **F: Worin unterscheiden sich "Fire Red" und "Leaf Green"?**
+    **A:** Beide gehören zur gleichen Spielegeneration. Der Hauptunterschied
+    liegt in einigen exklusiven Pokémon-Arten und leicht variierenden Texten;
+    zum Komplettieren des Pokédex sind Tausche zwischen den Versionen
+    vorgesehen.

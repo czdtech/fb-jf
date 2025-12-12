@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: jungle-match-puzzle
-title: '[ES] Jungle Match Puzzle'
+title: "Jungle Match Puzzle"
 description: >-
-  [ES] Jungle Match Puzzle is a lively match‑3 — clear blockers, chain
-  power‑ups, and meet jungle‑themed goals within tight move limits.
+  Jungle Match Puzzle es un match‑3 lleno de vida: limpia bloqueadores, encadena
+  power‑ups y cumple objetivos selváticos con pocos movimientos.
 iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
 thumbnail: /new-images/jungle-match-puzzle.png
 tags:
@@ -17,34 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Jungle Match Puzzle es un match‑3 colorido con lianas, cajas y casillas pegajosas
+que actúan como bloqueadores. En cada nivel debes cumplir objetivos específicos
+(puntuación, recoger ídolos, liberar animales, etc.) dentro de un número
+limitado de movimientos. Combinar power‑ups (bomba + línea, doble línea) es
+clave para despejar la vegetación densa y abrir el tablero a grandes cascadas.
 
-Jungle Match Puzzle is a colorful match‑3 with vines, crates, and sticky tiles as blockers. You must complete scene goals (score, collect idols, free animals) within move limits. Combining power‑ups (bomb + line, double line) wipes dense foliage and opens the board for cascading clears.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Objetivo primero:** prioriza romper bloqueadores y avanzar en la meta del
+    nivel antes que buscar puntos fáciles.
+2.  **Limpia desde abajo:** trabajar en la parte inferior genera cascadas que
+    arrastran bloqueadores de arriba.
+3.  **Combos de power‑ups:** fusiona potenciadores para efectos casi globales y
+    guarda los combos más fuertes para grupos de bloqueadores muy concentrados.
+4.  **Economía de movimientos:** piensa 2‑3 jugadas por delante y evita aislar
+    colores pegados a paredes o esquinas.
+5.  **Atención a casillas pegajosas:** requieren matches adyacentes, así que
+    planifica desvíos para limpiarlas sin desperdiciar demasiados movimientos.
 
-1.  **[ES]** Objective‑first: Prioritize blocker clears and collect goals before pure scoring.
-2.  **[ES]** Bottom clears: Work from the bottom to spawn cascades that remove blockers above.
-3.  **[ES]** Power‑up combos: Merge for board‑wide effects; save strong combos for clustered blockers.
-4.  **[ES]** Move economy: Map 2–3 moves ahead; avoid isolating colors near walls.
-5.  **[ES]** Hazard awareness: Sticky tiles require adjacent matches; plan detours.
+### Guía de controles
 
-### Controls Guide
+- **Intercambiar:** arrastra para intercambiar gemas adyacentes.
+- **Power‑ups:** actívalos combinándolos en un match o tocándolos, según indiquen
+  las reglas.
 
-- Drag to swap; activate power‑ups by matching/tapping; pause/retry via UI.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Fallo siempre por falta de movimientos, ¿qué cambio?**  
+  R: Deja de perseguir solo puntos y céntrate en limpiar bloqueadores, generar
+  cascadas y encadenar combos que avancen el objetivo por jugada.
 
-- Q: I fail on move limits — what should I change?
+- **¿Cuál es la mejor combinación de power‑ups?**  
+  R: Bomba + línea suele dar la mejor cobertura; doble línea es excelente para
+  barrer filas y columnas.
 
-A: Stop chasing points; clear blockers and chain combos to progress objectives per move.
-
-- Q: Best power‑up combo?
-
-A: Bomb + line for maximum coverage; double line for sweeping rows/cols.
-
-- Q: Are diagonals allowed?
-
-A: Usually no; read the mode rules.
-
+- **¿Se permiten diagonales?**  
+  R: Normalmente no; revisa las reglas del modo para confirmarlo.

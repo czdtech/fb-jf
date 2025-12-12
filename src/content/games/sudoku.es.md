@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: sudoku
-title: '[ES] Sudoku'
+title: 'Sudoku'
 description: >-
-  [ES] Sudoku is a classic number puzzle game where players fill a 9x9 grid with
-  digits 1-9, ensuring each row, column, and 3x3 box contains all numbers
-  exactly once in this challenging logic-based brain teaser.
+  Sudoku es el rompecabezas numérico clásico en el que debes rellenar una
+  cuadrícula de 9x9 con los dígitos del 1 al 9, asegurándote de que cada fila,
+  columna y subcuadro 3x3 contenga todos los números exactamente una vez.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/sudoku.jpg
 tags:
@@ -17,35 +17,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+«Sudoku» es un rompecabezas numérico de lógica pura. El objetivo es rellenar una
+cuadrícula de 9x9 casillas con dígitos del 1 al 9, de manera que cada fila,
+columna y región 3x3 contenga todos los números exactamente una vez. Es una
+prueba de razonamiento, paciencia y atención al detalle.
 
+### Estrategia de juego
 
-### Game Introduction
+1.  **Empieza por lo fácil:** busca casillas donde solo encaja un número
+    posible; suelen ser los primeros puntos de ruptura.
+2.  **Método de eliminación:** observa qué números ya hay en la fila, columna y
+    caja de una casilla vacía para descartar opciones imposibles.
+3.  **Candidatos:** utiliza marcas pequeñas para anotar qué números podrían ir en
+    cada casilla; te ayudarán a visualizar patrones.
+4.  **Singles ocultos:** busca números que solo puedan colocarse en una casilla
+    concreta dentro de una fila, columna o caja.
+5.  **Avance progresivo:** cada vez que coloques un número, vuelve a revisar el
+    tablero; esa nueva información suele desbloquear otras casillas.
 
-"Sudoku" is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once. This logic-based brain teaser challenges players' reasoning abilities and patience.
+### Cómo se juega
 
-### Gameplay Strategy
+- **Seleccionar casilla:** haz clic en una casilla vacía.  
+- **Introducir número:** usa las teclas numéricas 1–9 o el teclado en pantalla
+  para escribir la cifra elegida.  
+- **Borrar:** utiliza la tecla de borrar o el botón de borrado para limpiar una
+  casilla.  
+- **Notas:** en algunas versiones puedes activar un modo de «notas» para anotar
+  varios candidatos en pequeño.
 
-1.  **[ES]** **Start Simple**: Look for cells with only one possible answer first; these are usually breakthrough points.
-2.  **[ES]** **Elimination Method**: Observe existing numbers in rows, columns, and boxes to eliminate impossible options.
-3.  **[ES]** **Candidate Number Method**: Mark possible numbers in empty cells to help with analysis and reasoning.
-4.  **[ES]** **Find Hidden Singles**: Look for numbers that can only be placed in one position within a row, column, or box.
-5.  **[ES]** **Progressive Advancement**: After filling in each number, re-analyze the entire board to find new breakthrough points.
+### Preguntas frecuentes
 
-### How to Play
+1.  **P: ¿Cómo sé si un Sudoku tiene solución?**  
+  **R:** Un Sudoku bien diseñado tiene una única solución lógica. Si aparecen
+  contradicciones o varias soluciones, es posible que el puzzle no esté bien
+  construido.
 
-*   **[ES]** **Select Cell**: Click on empty cells to select them.
-*   **[ES]** **Input Numbers**: Use keyboard number keys 1-9 or click on-screen number buttons to input.
-*   **[ES]** **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
-*   **[ES]** **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
+2.  **P: ¿Qué hago si me quedo bloqueado?**  
+  **R:** Revisa si has cometido algún error previo y, si todo está correcto,
+  recurre a técnicas más avanzadas como parejas desnudas/ocultas, etc.
 
-### Frequently Asked Questions
+3.  **P: ¿Hay distintos niveles de dificultad?**  
+  **R:** Sí. Lo habitual es ofrecer niveles fácil, medio, difícil y experto, que
+  se diferencian por la cantidad de pistas iniciales y la complejidad de las
+  técnicas necesarias.
 
-1.  **[ES]** **Q: How do I know if a Sudoku has a solution?**
-**A**: Legal Sudoku puzzles should have a unique solution. If contradictions or multiple solutions appear, there might be issues with the puzzle design.
-2.  **[ES]** **Q: What if I get stuck?**
-**A**: Carefully check if filled numbers have errors, and use more advanced solving techniques like "naked pairs" or "hidden pairs."
-3.  **[ES]** **Q: Are there different difficulty levels?**
-**A**: Usually divided into different difficulty levels like easy, medium, hard, and expert.
-4.  **[ES]** **Q: Do I need to guess?**
-**A**: Standard Sudoku should be solvable through pure logical reasoning without guessing.
+4.  **P: ¿Hay que adivinar en algún momento?**  
+  **R:** En un Sudoku estándar bien hecho no deberías necesitar suposiciones;
+  todo se puede resolver con lógica.

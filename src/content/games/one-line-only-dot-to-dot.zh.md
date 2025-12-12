@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: one-line-only-dot-to-dot
-title: '[ZH TRANSLATION NEEDED] One line only: dot to dot'
+title: "《One line only: dot to dot》一笔连点"
 description: >-
-  [ZH TRANSLATION NEEDED] One line only: dot to dot is a neat one‑stroke puzzler
-  — draw a single line to cover all dots and segments without retracing.
+  《One line only: dot to dot》是一款简洁的一笔画解谜游戏，你需要用一条连续不断的线连接所有点和线段，既不能抬笔，也不能重复走已有路径。
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/one-line-only-dot-to-dot.jpg
 tags:
@@ -15,32 +14,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] One line only: dot to dot follows the Euler path tradition: connect all points/edges with a single, unbroken stroke. Boards introduce bridges, forced turns, and parity tricks that require careful route planning and backtracking discipline.
+《One line only: dot to dot》延续了经典欧拉路径（一笔画）谜题的设计思路：在给定的点与线段构成的图形上，只用一条连续、不断开的线，将所有边全部走一遍且不重走。关卡中会加入“桥”“强制转向”以及奇偶数节点等巧妙设计，需要你在动笔前做好路线规划，在解题过程中也要随时警惕是否把某些边“孤立”在外。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Degree count: Start at odd‑degree nodes (0 or 2 exist for Euler trails); they suggest endpoints.
-2.  [ZH TRANSLATION NEEDED] Bridge first: Draw mandatory bridges early so you don’t lock them out later.
-3.  [ZH TRANSLATION NEEDED] Avoid isolating: Don’t complete loops that strand unvisited edges.
-4.  [ZH TRANSLATION NEEDED] Look‑ahead: Test two moves mentally; backtrack early when isolation appears.
-5.  [ZH TRANSLATION NEEDED] Symmetry: Use symmetrical halves to mirror partial routes.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **观察节点度数：** 先统计各个节点连接的线段数量（度数），一般来说，0 或 2 个奇数度节点的图才可能存在欧拉路径或回路；若存在两个奇数度节点，它们往往是最合适的起点和终点。
+2.  **优先经过“桥”边：** 某些线段一旦被错误地提前走掉，会导致剩余结构被分割成孤立部分。尽量在不会封死路线时，较早通过这些桥接边。
+3.  **避免孤立未走边：** 解题时注意不要轻易闭合一个小回路，否则可能会把外侧仍未走过的线段完全封锁，导致无法一笔连通。
+4.  **预判两步之后的局面：** 每画一步前，脑中至少预演接下来的两三步，一旦发现继续走下去必然产生孤立边或多余奇点，就要及早撤销换路。
+5.  **利用图形对称性：** 对于明显左右或上下对称的关卡，可以先在一侧找到可行路径，再在另一侧镜像操作，常常能快速拼出完整解法。
 
-- Drag to draw along segments; undo/clear via UI.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 使用鼠标或手指按住起始点，沿着给出的线段拖动绘制路径；如走错，可以通过界面上的撤销或重置按钮清除路径重新尝试。
 
-- Q: I end one step short — why?
+### 常见问题（FAQ）
+
+- **问：总是差一步，最后剩一条线走不到？**
   
-[ZH TRANSLATION NEEDED]   A: You likely started at a wrong endpoint; try an odd‑degree node instead.
+  **答：** 通常是起点选错或中途闭合回路太早。尝试改从奇数度节点出发，或换一种走法避免一开始就封死关键桥接路线。
 
-- Q: Are crossings allowed?
+- **问：可以随意“穿线”吗？**
   
-[ZH TRANSLATION NEEDED]   A: Only along provided segments; no freehand crossings.
+  **答：** 只能沿着关卡预设的线段移动，不能在空白处随意连线或跨越图形，否则就不算有效路径。
 
-- Q: Any hint system?
+- **问：游戏有没有提示系统？**
   
-[ZH TRANSLATION NEEDED]   A: Many builds provide hints or highlight bridges.
-
+  **答：** 许多版本会提供提示或高亮“必经边”等功能，卡关时可以适度使用，但频繁依赖提示会削弱一笔画本身的思考乐趣。

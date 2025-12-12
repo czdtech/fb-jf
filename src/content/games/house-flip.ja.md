@@ -1,69 +1,37 @@
 ---
+title: "House Flip"
+description: "House Flipはリノベーションをゲーム化します。物件を調査し、アップグレードの予算を組み、レイアウト、スタイル、外観の魅力を修正して不動産を転売しましょう。"
+iframeSrc: "https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/"
+thumbnail: "/new-images/house-flip.png"
+urlstr: "house-flip"
+score: "4.0/5  (1861 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: house-flip
-title: '[JA TRANSLATION NEEDED] House Flip'
-description: >-
-  [JA TRANSLATION NEEDED] House Flip gamifies renovation — inspect, budget
-  upgrades, and flip properties by fixing layout, style, and curb appeal.
-iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
-thumbnail: /new-images/house-flip.png
-tags:
-  - puzzle
-  - casual
-score: 4.0/5  (1861 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+House Flipは、軽快なリノベーション（改装）シミュレーションです。物件の問題点（レイアウトの流れ、破損した設備、古いスタイル）を評価し、予算内でアップグレードを選択し、利益を得るために転売します。効率的な転売は、コスト対価値のバランスを取ります。キッチン/バスルーム、ペンキ、外観の魅力は、かけたコスト以上の価値を生み出します。
 
-[JA TRANSLATION NEEDED] House Flip is a light renovation sim. Evaluate a property’s issues (layout flow, damaged fixtures, dated style), choose upgrades within a budget, and resell for profit. Efficient flips balance cost vs. value — kitchens/baths, paint, and curb appeal punch above their weight.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **ROI（投資対効果）のトリアージ（優先順位付け）:** キッチン/バスルーム、床、ペンキを優先し、影響の少ない部屋は後回しにしましょう。
+2.  **レイアウトの修正:** ボトルネック（狭い通路）を除去し、収納を追加し、良い動線を確保しましょう。
+3.  **テーマ統一:** 統一感のあるカラーパレットを保ちましょう。ちぐはぐな部屋は魅力を下げます。
+4.  **ステージング（演出）:** いくつかの装飾アイテムを追加して、知覚価値を上げましょう。
+5.  **予算管理:** 予備費を残しましょう。地域の相場上限を超えて過剰投資しないようにします。
 
-[JA TRANSLATION NEEDED] 1.  ROI triage: Prioritize kitchens/baths, flooring, and paint; defer low‑impact rooms.
-[JA TRANSLATION NEEDED] 2.  Layout fixes: Remove bottlenecks, add storage, and ensure good flow.
-[JA TRANSLATION NEEDED] 3.  Theming: Keep a cohesive palette; mismatched rooms reduce appeal.
-[JA TRANSLATION NEEDED] 4.  Staging: Add a few decor items to lift perceived value.
-[JA TRANSLATION NEEDED] 5.  Budget control: Leave a contingency; don’t over‑invest beyond neighborhood caps.
+### 操作ガイド
 
-### Controls Guide
+- 部屋を調査し、アップグレードを選び、アイテムを配置し、決定します。一部のビルド版ではタスクに時間制限があります。
 
-- Inspect rooms, pick upgrades, place items, and confirm; some builds time‑gate tasks.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My profit is low — what to change?
-  
-[JA TRANSLATION NEEDED]   A: Focus on high‑ROI upgrades and avoid over‑customization; keep budgets lean.
-
-- Q: Which upgrade first?
-  
-[JA TRANSLATION NEEDED]   A: Kitchen (surfaces/appliances) or bathrooms (fixtures/tiles) depending on condition.
-
-- Q: Does exterior matter?
-  
-
-
-
-
-
-- Q: My profit is low — what to change?
-### よくある質問（FAQ）
-- Inspect rooms, pick upgrades, place items, and confirm; some builds time‑gate tasks.
-### コントロールガイド
-- Budget control: Leave a contingency; don’t over‑invest beyond neighborhood caps.
-[JA TRANSLATION NEEDED]   A: Yes — paint, landscaping, and entry lighting add inexpensive curb appeal.
-
-
-
-
-
-
-A: Yes — paint, landscaping, and entry lighting add inexpensive curb appeal.
-- Q: Does exterior matter?
-A: Kitchen (surfaces/appliances) or bathrooms (fixtures/tiles) depending on condition.
-- Q: Which upgrade first?
-
-
-A: Yes — paint, landscaping, and entry lighting add inexpensive curb appeal.
+- **Q: 利益が低いです。何を変えればいいですか？**
+  A: ROIの高いアップグレードに集中し、過剰なカスタマイズは避けましょう。予算を抑えめに保ちます。
+- **Q: 最初にどのアップグレードをすべきですか？**
+  A: 状態に応じて、キッチン（表面/家電）またはバスルーム（備品/タイル）です。
+- **Q: 外観（エクステリア）は重要ですか？**
+  A: はい。ペンキ、造園、玄関の照明は、安価に外観の魅力（カーブアピール）を追加します。

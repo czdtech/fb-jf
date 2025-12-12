@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: daily-sudoku-3
-title: '[KO] Daily Sudoku'
+title: Daily Sudoku 데일리 스도쿠
 description: >-
-  [KO] A new Sudoku puzzle every day to challenge your logic. Fill the 9x9 grid
-  so each row, column, and 3x3 box contains the digits 1 to 9 without
-  repetition.
+  매일 다른 9x9 스도쿠 퍼즐이 제공되는 Daily Sudoku입니다. 각 행, 열, 3x3 박스에 1부터 9까지 숫자가 한 번씩만
+  들어가도록 격자를 채우세요.
 iframeSrc: >-
   https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
 thumbnail: /new-images/daily-sudoku-3.jpg
@@ -18,35 +17,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+이 Daily Sudoku 버전 역시 매일 새로운 스도쿠 판을 제공하는 클래식 숫자 퍼즐입니다.
+목표와 규칙은 동일하게, 9x9 격자의 모든 행·열·3x3 박스에 1~9가 한 번씩만 들어가도록
+채우는 것입니다. 단순한 계산이 아닌 논리와 추론으로만 풀어야 하는 퍼즐이라, 차분히
+집중력을 유지할 때 가장 빛을 발합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every single day. Sudoku is a world-renowned logic-based, number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9. It's a pure logic puzzle that requires no calculation or mathematical skills, only patience and concentration.
+1. **기본 규칙 상기하기**  
+   각 행, 각 열, 각 3x3 박스에서 1~9 숫자가 정확히 한 번씩만 등장해야 합니다.  
+2. **가로·세로 스캐닝**  
+   비어 있는 칸을 기준으로, 해당 행/열/박스에 이미 있는 숫자를 체크해 후보를
+   줄여 나갑니다. 단순한 배제만으로도 많은 칸을 채울 수 있습니다.  
+3. **노트(후보)로 경우의 수 관리**  
+   난이도가 올라갈수록 한 칸에 여러 후보가 남는 일이 잦습니다. 노트 모드를 활용해
+   후보를 적어 두고, 다른 칸을 채워 가며 하나씩 지워 나가면 결국 단 하나의 숫자만
+   남게 됩니다.  
+4. **나켓/히든 싱글 찾기**  
+- **나켓 싱글**: 한 칸에 후보 숫자가 하나만 남았을 때, 그 숫자는 확정입니다.  
+   - **히든 싱글**: 특정 행/열/박스 안에서 어떤 숫자가 후보로 등장하는 칸이
+     단 한 군데뿐이라면, 그 칸에는 반드시 그 숫자가 들어가야 합니다.  
+5. **실수는 빨리 수정하기**  
+   잘못된 가정으로 인해 모순이 생기면, 최근에 채운 부분부터 차근차근 되돌아가
+   어디서부터 틀렸는지 확인하고 다시 시도해 보세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **The Basic Rule:** The golden rule of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box.
-2.  **[KO]** **Scanning (Cross-hatching):** The most basic solving technique. Pick an empty cell. Look at its row, column, and 3x3 box to see which numbers are already used. By process of elimination, you can often find the only possible number for that cell.
-3.  **[KO]** **Penciling In (Notes):** For more difficult puzzles, use the "notes" or "pencil" feature. In an empty cell, enter all the possible numbers that could legally go there. As you fill in other cells, you can eliminate candidates from your notes, eventually leaving only one possibility.
-4.  **[KO]** **Look for "Naked Singles":** This is when a cell has only one possible candidate number left in its notes. Fill that number in immediately.
-5.  **[KO]** **Look for "Hidden Singles":** This is when a candidate number appears only once within the notes of a specific row, column, or 3x3 box. Even if the cell itself has other candidates, that number must go in that cell for that specific row/column/box.
+* **칸 선택**: 빈 칸을 클릭/탭해 활성화합니다.  
+* **숫자 입력**: 화면의 숫자 키패드를 이용해 해당 칸에 숫자를 넣습니다.  
+* **노트 모드 전환**: 연필 아이콘 등으로 정답 모드와 노트 모드를 전환해, 후보
+  숫자를 작게 표시할 수 있습니다.  
+* **지우개**: 잘못 입력한 숫자나 필요 없는 노트를 지울 때 사용합니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Select a Cell:** Click on any empty cell in the 9x9 grid.
-*   **[KO]** **Enter a Number:** After selecting a cell, click on a number from the on-screen number pad to place it in the cell.
-*   **[KO]** **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
-*   **[KO]** **Eraser:** Use the eraser tool to clear a number or notes from a cell.
+* **Q: 스도쿠를 풀려면 수학을 잘해야 하나요?**  
+  **A:** 숫자를 사용하지만 계산은 필요 없습니다. 스도쿠는 전적으로 논리와
+  패턴 인식에 기반한 퍼즐입니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 틀린 숫자를 넣으면 바로 알 수 있나요?**  
+  **A:** 이 버전을 포함한 많은 디지털 스도쿠는 잘못된 입력이 있을 경우 붉게
+  표시하거나 충돌하는 칸을 보여 줘, 빠르게 수정할 수 있도록 도와줍니다.  
 
-*   **[KO]** **Q: Do I need to be good at math to play Sudoku?**
-    *   **[KO]** **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
+* **Q: 노트를 꼭 써야 하나요?**  
 
-*   **[KO]** **Q: What happens if I enter a wrong number?**
-    *   **[KO]** **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
+    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
 
-*   **[KO]** **Q: Why should I use the "Notes" feature?**
-    *   **[KO]** **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
+- **Q: Why should I use the "Notes" feature?**
+
+    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
+  **A:** 쉬운 난이도라면 필요 없을 수 있지만, 중·고급 퍼즐에서는 노트 없이는
+  모든 경우의 수를 기억하기 어렵습니다. 노트는 체계적인 풀이를 위한 필수 도구입니다.  
 

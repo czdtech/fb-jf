@@ -1,74 +1,46 @@
 ---
+title: "Bricks Breaker Crush ブリックス・ブレイカー・クラッシュ"
+description: "「Bricks Breaker Crush」は大量のボールを降らせてブロックを削る爽快パズル。角度を計算し、ボールを増やし、壁が底につく前に粉砕しよう。"
+iframeSrc: "https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/"
+thumbnail: "/new-images/bricks-breaker-crush.png"
+urlstr: "bricks-breaker-crush"
+score: "4.0/5  (1906 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bricks-breaker-crush
-title: '[JA TRANSLATION NEEDED] Bricks Breaker Crush'
-description: >-
-  [JA TRANSLATION NEEDED] Bricks Breaker Crush showers bricks to shatter — aim
-  volleys, stack multipliers, and carve optimal angles through dense fields.
-iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
-thumbnail: /new-images/bricks-breaker-crush.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.0/5  (1906 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Bricks Breaker Crush（ブリックス・ブレイカー・クラッシュ）*は、パドルで打ち返すのではなく、「ボールの弾幕」を発射して数字付きのレンガを削り取るタイプのブロック崩しゲームです。
 
-[JA TRANSLATION NEEDED] Bricks Breaker Crush fires barrages of balls that ricochet through numbered bricks. Your aim sets the initial trajectory; bricks count down as they’re hit. Mastery is about shaping long ricochet paths, multiplying contacts per volley, and preventing walls from reaching the bottom.
+プレイヤーは発射角度を決め、ボールを一斉に放ちます。レンガに書かれた数字は耐久値で、ボールが当たるたびにカウントダウンし、0になると消滅します。ターンが終わるごとにレンガの壁が迫ってきます。いかにボールを隙間に「流し込み」、壁とレンガの間で何度も反射（リコシェ）させてダメージを稼ぐかが攻略の鍵です。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  Shallow angles: Start at modest angles to maximize side‑to‑side hits.
-[JA TRANSLATION NEEDED] 2.  Target multipliers: Hit +ball pickups early to scale your volleys.
-[JA TRANSLATION NEEDED] 3.  Cut columns: Remove high‑value columns that threaten the bottom.
-[JA TRANSLATION NEEDED] 4.  Set traps: Build V‑shaped lanes so balls loop near the top for extended time on target.
-[JA TRANSLATION NEEDED] 5.  Emergency clears: When a row is critical, aim direct shots to neutralize it before it drops.
-[JA TRANSLATION NEEDED] 6.  Power‑ups: Save line clears for emergencies; chain with big volleys when possible.
+1.  **浅い角度を狙う：** 真正面から当てるよりも、水平に近い浅い角度で壁や天井に反射させることで、ボールが画面内を長く飛び回り、より多くのヒット数を稼げます。
+2.  **ボールを増やす：** ステージ上にある「+」マークのアイテムを最優先で取りましょう。発射できるボールの数が増えれば、攻撃力が飛躍的に上がります。
+3.  **危険な列を削る：** 一番下のラインに到達しそうな列（カラム）を優先的に消して、安全地帯を確保しましょう。
+4.  **トラップを作る：** V字型の通路を作ってボールを上部に送り込めば、天井付近でボールが閉じ込められ、勝手に往復して大量得点してくれます。
+5.  **緊急回避：** どうしてもピンチの時は、反射を狙わず、一番危険なブロックに直接全弾浴びせて消しましょう。
+6.  **パワーアップ：** 手に入れたお助けアイテム（ライン消去など）は、本当に危険な時まで温存しておきましょう。
 
-### Controls Guide
+### 操作ガイド
 
-- Drag to aim; release to fire the volley.
-- Power‑ups trigger on catch or tap depending on the build.
+*   **操作：** 画面をドラッグして狙いを定め（ガイドラインが出ます）、指を離すと発射します。
+*   **パワーアップ：** 取得した瞬間に発動するタイプと、タップで任意発動するタイプがあるので、チュートリアル表示を確認して使い分けましょう。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-- Q: My shots feel too random—how do I get control?
+- **Q: ボールの動きが運任せに感じます。コントロールできますか？**
   
-[JA TRANSLATION NEEDED]   A: Use modest angles and shape lanes that keep balls looping near the ceiling; avoid steep, chaotic caroms.
+  A: 完全に予測するのは難しいですが、「浅い角度」で「上部へ送る」ことを意識すれば、安定して高ダメージが出せます。急角度で反射させすぎるとすぐ戻ってきてしまいます。
 
-- Q: What should I prioritize: +ball or clears?
+- **Q: 「ボール追加アイテム」と「ブロック破壊」どっちが優先？**
   
-[JA TRANSLATION NEEDED]   A: Early +ball pickups snowball; in danger, clear critical columns first.
+  A: 基本的には「ボール追加」が最優先です。ボールの数は後半になるほど重要になります。ただし、ゲームオーバー直前の場合はブロック破壊を優先してください。
 
-- Q: The wall keeps dropping—any fix?
+- **Q: 壁が迫ってきて助かりません。**
   
-
-
-
-
-
-
-- Q: My shots feel too random—how do I get control?
-### よくある質問（FAQ）
-- Power‑ups trigger on catch or tap depending on the build.
-- Drag to aim; release to fire the volley.
-### コントロールガイド
-- Power‑ups: Save line clears for emergencies; chain with big volleys when possible.
-[JA TRANSLATION NEEDED]   A: Stop building traps and fire surgical shots at the highest numbers near the bottom edge.
-
-
-
-
-
-
-A: Stop building traps and fire surgical shots at the highest numbers near the bottom edge.
-- Q: The wall keeps dropping—any fix?
-A: Early +ball pickups snowball; in danger, clear critical columns first.
-- Q: What should I prioritize: +ball or clears?
-
-
-A: Stop building traps and fire surgical shots at the highest numbers near the bottom edge.
+  A: 派手な反射を狙うのをやめて、一番下にある数字の大きいブロックを一点集中で狙い、確実に数を減らしてください。

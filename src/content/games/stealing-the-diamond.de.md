@@ -1,13 +1,8 @@
 ---
 locale: de
 urlstr: stealing-the-diamond
-title: '[DE] Stealing The Diamond'
-description: >-
-  [DE] Join Henry Stickmin in Stealing the Diamond, a hilarious
-  choose-your-own-adventure game. Your mission: infiltrate the museum and make
-  off with the giant diamond. Choose from a variety of tools and paths, from
-  busting in loudly to sneaking in unseen. Discover all the funny fails and
-  multiple endings!
+title: "Stealing The Diamond"
+description: "Begleite Henry Stickmin in „Stealing the Diamond“, einem witzigen Entscheidungs-Abenteuer: Schleich dich ins Museum, klaue den Riesendiamanten und entdecke alle Fails und mehrere Enden." 
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/stealing-the-diamond.jpg
 tags:
@@ -18,34 +13,33 @@ score: 3.5/5  (951 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+„Stealing the Diamond“ ist ein Klassiker aus der Henry‑Stickmin‑Reihe. Du spielst Henry, der versucht, einen gigantischen Diamanten aus einem streng bewachten Museum zu stehlen. Das Besondere: Du triffst ständig Entscheidungen – und fast jede führt zu einem eigenen, oft herrlich absurden Ausgang.
 
-### Game Introduction
+### Spielablauf
 
-Stealing the Diamond is a classic interactive adventure game from the Henry Stickmin series. As the titular character, Henry, your goal is to successfully steal a massive diamond from a heavily guarded museum. The game is famous for its humorous, choice-driven gameplay where every decision leads to a different, often comical, outcome.
+Das Spiel besteht aus kurzen Sequenzen, nach denen du zwischen mehreren Aktionen oder Tools wählen kannst. Deine Wahl entscheidet, wie es weitergeht:
 
-### Gameplay Guide
+- Viele Optionen enden in einem individuellen **Fail** mit Gag‑Text oder Anspielungen.
+- Einige Entscheidungswege führen zu einem von insgesamt **drei erfolgreichen Enden**.
 
-The gameplay is simple: at various points in the story, you will be presented with a choice of two or more options (tools or actions) to proceed. Your selection determines what happens next. Most choices lead to a unique "Fail" screen with a funny description, while specific combinations of choices will lead you to one of the three successful endings. The fun lies in exploring the different paths and discovering all the possible outcomes.
+Der eigentliche Reiz liegt darin, alle Pfade auszuprobieren, jede absurde Szene zu sehen und nach und nach alle Fails und Good Endings freizuschalten.
 
-### Controls Guide
+### Steuerung
 
-- **Mouse:** Use your mouse to click on the option you want to choose.
+- **Maus:** Per Klick wählst du jeweils die gewünschte Option.
 
-### Frequently Asked Questions (FAQ)
+### FAQ
 
-**How many ways are there to win?**
+**Wie viele „Gewinn“-Enden gibt es?**  
+Insgesamt **drei**:
+- ein „Aggressive“-Ende,
+- ein „Undetected“-Ende,
+- und ein besonders übertriebenes „Epic“-Ende.
 
-There are three successful endings in Stealing the Diamond:
-- The "Aggressive" ending.
-- The "Undetected" ending.
-- The "Epic" ending.
+**Wozu sind die ganzen Fails gut?**  
+Die Fails sind ein Kern des Humors – viele Spieler versuchen bewusst, **alle** Fails zu finden, um das Spiel zu 100 % zu komplettieren.
 
-**What is the point of all the "Fails"?**
-
-The numerous and humorous fail screens are a core part of the game's charm and comedy. Finding all 40+ fails is a key objective for many players and is necessary for 100% completion.
-
-**Is this part of a series?**
-
-Yes, Stealing the Diamond is the third game in the popular Henry Stickmin series, following *Breaking the Bank* and *Escaping the Prison*.
-
+**Gehört das zu einer Serie?**  
+Ja. „Stealing the Diamond“ ist der dritte Teil der Henry‑Stickmin‑Serie, nach **Breaking the Bank** und **Escaping the Prison**.

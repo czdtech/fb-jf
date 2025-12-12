@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: sushi-grab
-title: '[ZH TRANSLATION NEEDED] Sushi Grab'
-description: >-
-  [ZH TRANSLATION NEEDED] Sushi Grab is a speedy arcade picker — snag the right
-  sushi, avoid traps, and hit score targets.
+title: 《Sushi Grab》寿司速选
+description: 《Sushi Grab》是一款节奏快速的传送带寿司选取游戏。正确抓取目标寿司、避开陷阱，在限时内打出高分连击。
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/sushi-grab.png
 tags:
@@ -15,25 +13,25 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Sushi Grab is a fast‑paced selection game themed around conveyor‑belt sushi. Pick requested pieces, avoid wrong items or hazards, and chain streaks to reach score goals under a timer.
+《Sushi Grab》以回转寿司为主题，是一款快节奏的“选择反应”类街机游戏。你要根据屏幕提示，在传送带上飞快掠过的寿司盘中，精准抓取指定款式，同时避开错误寿司和带有惩罚效果的陷阱盘。连续正确选择可以形成连击，大幅提高得分。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Read orders: Focus on the current request—don’t grab extras.
-2.  [ZH TRANSLATION NEEDED] Peripheral vision: Track upcoming plates along the belt to prepare.
-3.  [ZH TRANSLATION NEEDED] Chain safely: Streaks boost score; prioritize accuracy to keep them alive.
-4.  [ZH TRANSLATION NEEDED] Filter traps: Ignore decoys or penalty plates; they often appear near good ones.
-5.  [ZH TRANSLATION NEEDED] Time boxes: When the timer dips, take only guaranteed picks.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **先看清订单：** 视线优先关注当前要求的寿司样式，不要为了“顺手”多拿而分心。
+2.  **利用余光预判：** 用余光留意传送带上即将靠近的盘子，提前准备出手时机，减少临时慌乱。
+3.  **稳中求连击：** 连续正确抓取会提高连击倍率，但前提是准确率，宁可少点也不要因为一次失误断掉高连击。
+4.  **过滤陷阱盘：** 有惩罚或干扰效果的盘子往往与目标寿司混在一起，认清它们的外观后坚决无视。
+5.  **时间紧时只拿“稳的”：** 当计时条见底时，只出手抓那些你百分百确定正确的寿司，不要在边缘盘子上赌运气。
 
-- Pick: Click/tap the correct sushi on the belt.
-- Pause/Retry: Use UI buttons.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **选取寿司：** 点击或轻触传送带上对应的正确寿司盘即可完成一次抓取；
+- **暂停 / 重试：** 通过界面按钮进行暂停或重新开始。
 
-- Do wrong picks penalize? Usually yes—score loss or streak breaks.
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
-- Fixed patterns? Belts often loop patterns—learn and exploit them.
-
+### 常见问题解答（FAQ）
+*   **问：选错寿司会有什么惩罚？****
+- 答：** 一般会扣分或打断当前连击，甚至可能带来时间惩罚，具体效果视版本而定。
+*   **问：能否一次连点多个盘子？****
+    *   答：** 多数版本需要逐个点击，快速而准确的单点节奏会比随意乱点更有效。

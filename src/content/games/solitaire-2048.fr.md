@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: solitaire-2048
-title: '[FR] Solitaire 2048'
+title: 'Solitaire 2048'
 description: >-
-  [FR] Solitaire 2048 merges 2048 with card flow — place numbered cards to
-  combine values and manage lanes for big chains.
+  Solitaire 2048 mélange 2048 et un flux de cartes : pose des cartes
+  numérotées pour fusionner les valeurs et gère tes colonnes pour déclencher
+  de gros enchaînements.
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/solitaire-2048.png
 tags:
@@ -16,35 +17,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation détaillée du jeu
 
+Solitaire 2048 transforme la logique de fusion de 2048 en flux de cartes.
+Tu poses des cartes (2, 4, 8…) dans des colonnes ; deux cartes adjacentes
+de même valeur fusionnent pour donner la valeur suivante. Toute la
+difficulté consiste à ordonner les poses pour déclencher des cascades de
+fusions qui libèrent de la place au lieu de bloquer les colonnes.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Solitaire 2048 converts merge logic into a card stream. You place cards (2, 4, 8…) into columns; adjacent equals merge to the next value. The trick is sequencing so merges cascade and free space rather than clog lanes.
+1.  **Colonne d’ancrage :** garde ta plus haute valeur vers le centre pour
+    pouvoir fusionner facilement depuis les côtés.
+2.  **Gestion des colonnes « feeder » :** utilise les colonnes latérales
+    pour préparer des paires avant de les amener vers la colonne centrale.
+3.  **Contrôle des « pics » :** aplanis les colonnes trop hautes en
+    priorité pour éviter qu’elles ne deviennent injouables.
+4.  **Timing du déclencheur :** pose la carte qui déclenche la fusion
+    seulement quand les deux cartes adjacentes sont déjà en place.
+5.  **Colonne poubelle :** réserve un bord pour les cartes « hors cycle »
+    qui ne s’intègrent pas à tes plans immédiats.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Anchor column: Keep the highest value centralized for lateral access.
-2.  **[FR]** Feeder management: Use side lanes to stage pairs before feeding center.
-3.  **[FR]** Spike control: Flatten tall spikes first to avoid dead columns.
-4.  **[FR]** Trigger timing: Drop the triggering card only after both neighbors are set.
-5.  **[FR]** Trash lane: Dedicate one edge to off‑cycle cards.
+- Clique sur une colonne pour y poser la carte en cours ; utilise les
+  fonctions d’annulation / indices si l’interface le permet.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Click a column to place current card; undo/hints if available.
+- **Mes colonnes se bloquent sans arrêt, que faire ?**  
+  Répartis la préparation des paires sur les deux côtés et évite de
+  déclencher les fusions trop tôt.
 
-### Frequently Asked Questions (FAQ)
+- **Vaut‑il mieux ancrer dans un coin ou au centre ?**  
+  Le centre offre plus de routes de fusion et donc plus de flexibilité.
 
-- Q: Columns keep locking.
-
-A: Spread staging across two side lanes and avoid premature triggers.
-
-- Q: Anchor corner or center?
-
-A: Center yields more merge routes.
-
-- Q: Can I recover from bad stacks?
-
-A: Yes — flatten spikes and rebuild pairs before triggering.
-
+- **Puis‑je me remettre d’une mauvaise pile ?**  
+  Oui : commence par aplatir les colonnes les plus hautes puis reconstruis
+  des paires avant de relancer des fusions.

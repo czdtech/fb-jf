@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: dogeminer
-title: '[ZH TRANSLATION NEEDED] DogeMiner'
+title: "DogeMiner 狗狗币挖矿放置版"
 description: >-
-  [ZH TRANSLATION NEEDED] DogeMiner is an idle clicker: mine coins, buy upgrades
-  and helpers, and automate production to earn faster.
+  《DogeMiner 狗狗币挖矿放置版》是一款主题搞怪的放置点击游戏。通过点击挖矿、购买升级和
+  助手，让挖矿过程自动化并不断加速产出，最终朝月球甚至更远处进发。
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/dogeminer.jpg
 tags:
@@ -17,24 +17,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] DogeMiner is an incremental idle/clicker game themed around mining coins. Click to mine manually, buy pickaxe upgrades and helpers (such as Shibes, statistics‑boosting tools, and factories), and automate production to earn faster. Later goals include traveling to the Moon and beyond with rocket upgrades. 
+
+《DogeMiner 狗狗币挖矿放置版》是一款围绕“挖矿赚币”展开的增量/放置类点击游戏。起初你只能
+靠手动点击来挖出少量金币，随后可以购买更好的镐子、招募 Shibes（狗狗同伴）、建造工厂等各类
+“自动挖矿”单位，让系统在你不操作时也源源不断地产出货币。随着产能提高，你还可以投资火箭
+和太空设施，把挖矿事业从地球一路扩展到月球甚至更遥远的星域。 
 
 ### How to Play
-- Click to earn initial coins; invest in upgrades that increase coins per click and per second.  
-- Purchase helpers/buildings to automate income; compounding production unlocks new tiers.  
-- Use prestige or late‑game resets (where available) to gain multipliers for future runs. 
+
+- 通过点击主要挖矿按钮获取最初的金币，并优先投资提升“每次点击收益”和“每秒自动收益”的升
+  级项目。  
+- 购买各类辅助单位和建筑（如 Shibes、提升统计的工具、工厂等），逐步实现从“手点为主”到“自
+  动挖矿为主”的转变。  
+- 当解锁声望或后期重置系统时，可以通过一次“清档重来”获得永久倍率加成，为未来周目提供高
+  额效率提升。  
 
 ### Controls
-- Mouse/touch: click for manual mining; use UI buttons to buy upgrades, helpers, and rockets. 
+
+- 鼠标/触屏：点击主挖矿区域进行手动挖矿；通过界面按钮购买升级、雇佣助手和解锁火箭等设施
+  。  
 
 ### Tips and Strategies
-- Reinvest early into passive income before chasing expensive prestige or rocket parts.  
-- Maintain a balance between click upgrades and idle buildings based on playtime.  
-- Save for milestone buildings that unlock new content (e.g., space travel). 
+
+- 游戏初期应优先把金币投入到能提升被动收入的建筑上，在此基础上再考虑更昂贵的火箭部件或
+  高级升级。  
+- 根据自己的在线时长在“点击收益升级”和“离线/被动建筑”之间找到平衡：如果你会长时间挂着
+  游戏，优先提升被动产能会更划算；如果只短时间上来点几下，可以适当倾向点击收益升级。  
+- 关注那些解锁新阶段内容（例如太空旅行）的里程碑建筑，提前为它们存钱往往比平均升级所有
+  单位更有效率。  
 
 ### FAQ
-- Q: Is it playable offline?  
-[ZH TRANSLATION NEEDED]   A: Some hosts save progress locally and generate coins while the tab is open; full offline progress varies by host.   
-- Q: What’s the long‑term goal?  
-[ZH TRANSLATION NEEDED]   A: Build enough production to launch rockets to the Moon and progress to later areas. 
 
+- **Q: 游戏是否支持离线挖矿？**  
+  **A：** 这取决于托管站点的实现。有的版本会在本地保存进度，并在浏览器标签页保持打开状态
+  时持续计数；真正完全离线累积收益的支持则视具体实现而定。   
+
+- **Q: 长期目标是什么？**  
+  **A：** 不断提升整体产能，最终建造火箭并飞向月球，之后再解锁更多区域与内容。可以把它看
+  作一条从“地面挖矿”一路扩展到“太空挖矿”的逐步进化路径。  

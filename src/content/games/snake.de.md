@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: snake
-title: '[DE] Snake'
+title: Snake
 description: >-
-  [DE] Play the timeless classic, Snake. Control a continuously moving line,
-  consume food to grow longer, and avoid colliding with walls or your own tail.
-  Test your reflexes and planning in this simple yet challenging arcade game.
+  Spiele den zeitlosen Klassiker Snake: Steuere eine ständig weiterwachsende
+  Schlange, friss Futter, um länger zu werden, und vermeide Kollisionen mit
+  Wänden oder deinem eigenen Schwanz, um den Highscore zu knacken.
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/snake.jpg
 tags:
@@ -17,33 +17,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
-### Game Introduction
+Snake ist einer der bekanntesten Arcade-Klassiker überhaupt. Du steuerst eine
+ Linie, die mit jedem gefressenen Futterstück länger wird. Das einfache Prinzip
+ bleibt immer gleich: Futter einsammeln, wachsen, nicht crashen – weder in die
+ Wand noch in den eigenen Körper.
 
-Snake is a classic arcade game where the player controls a single line that grows in length. The objective is to eat food items that appear on the screen, making the snake longer with each item consumed. It's a game of skill and foresight, as the primary challenge is to avoid colliding with the outer walls or the snake's own ever-growing body.
+### Gameplay-Guide
 
-### Gameplay Guide
+Die Mechanik ist simpel: Lenke die Schlange zum Futter, ohne dich selbst
+ einzukreisen. Mit jedem Bissen verlängert sich dein Körper, und oft erhöht sich
+ auch die Geschwindigkeit. Das Spiel endet, sobald du in ein Hindernis oder in
+ dich selbst läufst. Ziel ist es, so viele Punkte wie möglich zu sammeln, bevor
+ das passiert.
 
-The core mechanic is simple: guide the snake to eat the food. As the snake eats, it gets longer, and often, its speed increases, making navigation progressively harder. The game ends when the snake hits an obstacle. Your goal is to achieve the highest score possible by eating as much food as you can before a collision occurs.
+### Steuerung
 
-### Controls Guide
+- **Pfeiltasten:** Steuere die Schlange mit Oben, Unten, Links, Rechts.
+- **WASD:** In vielen Versionen kannst du alternativ `W`, `A`, `S`, `D` nutzen.
+- **Pause:** Häufig pausierst du das Spiel mit der Leertaste (abhängig von der
+  konkreten Variante).
 
-The controls are typically straightforward:
-- **Arrow Keys:** Use the Up, Down,Left, and Right arrow keys to direct the snake.
-- **WASD Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
+
 - **Pause:** The `Spacebar` can often be used to pause and resume the game.
 
-### Frequently Asked Questions (FAQ)
+- **WASD Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
 
-**What is the main objective of Snake?**
+- **Arrow Keys:** Use the Up, Down,Left, and Right arrow keys to direct the snake.
+### Häufige Fragen (FAQ)
 
-The goal is to get the highest score by eating food and growing your snake as long as possible without crashing.
+**Was ist das Hauptziel von Snake?**
 
-**What's a good strategy for a high score?**
+So viel Futter wie möglich zu fressen und dabei nicht zu kollidieren – je
+ länger die Schlange, desto höher der Score.
 
-A common strategy is to keep the snake moving along the edges of the screen, creating a predictable path. Another is to use a tight zig-zag pattern to keep the snake's body compact and manageable. Always try to plan your moves ahead of time.
+**Gibt es Strategien für hohe Punktzahlen?**
 
-**Where did the Snake game come from?**
+Viele Spieler fahren lange Schleifen entlang des Randes oder nutzen ein
+ „Zickzack“-Muster, um den Körper kompakt zu halten und Platz zu sparen. Wichtig
+ ist, Bewegungen vorauszuplanen.
 
-The concept originated with the 1976 arcade game "Blockade," but it became immensely popular after being included on Nokia mobile phones in 1998.
+**Woher stammt Snake ursprünglich?**
 
+Die Idee geht bis auf das Arcade-Spiel „Blockade“ von 1976 zurück, weltberühmt
+ wurde Snake aber vor allem durch die Nokia-Handys ab 1998.

@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: mini-crossword
-title: '[ZH TRANSLATION NEEDED] Mini Crossword'
+title: "《Mini Crossword》每日迷你填字"
 description: >-
-  [ZH TRANSLATION NEEDED] Mini Crossword is a compact daily crossword puzzle
-  game that provides a quick and engaging word challenge for players of all
-  skill levels.
+  《Mini Crossword》是一款体量精巧的每日填字游戏，用一小块方格就能带来紧凑、有趣的文字挑战，适合各个水平的玩家随时来一局动动脑。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/mini-crossword.jpg
 tags:
@@ -18,31 +16,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Mini Crossword" is a compact daily crossword puzzle game. It offers a small yet challenging grid where players need to fill in the correct words based on the provided clues to complete the entire crossword. This game is suitable for quick sessions, both expanding vocabulary and providing puzzle-solving enjoyment.
+《Mini Crossword》是一款格子不大但颇具挑战性的每日填字游戏。它提供的是一张小巧却结构紧凑的字谜网格，你需要根据横向与纵向的提示，将所有单词完整填入方格中。一次游戏只需几分钟，很适合通勤、午休或睡前来一局，既能扩充词汇量，又能享受逻辑与语言解谜的乐趣。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Understand Clues**: Carefully read both the across and down clues; they are key to solving the puzzle.
-2.  **Start with Known Information**: Fill in words you are confident about first; their letters will help you deduce other words.
-3.  **Utilize Intersecting Clues**: When some letters of a word are determined by other words, use these letters to guess and confirm the word.
-4.  **Gradually Narrow Down**: For uncertain words, you can first fill in the letters you know, then deduce based on the remaining blanks and clues.
+1.  **认真阅读提示：** 横向与纵向的提示往往带有双关或缩略信息，仔细揣摩提示中的关键词，是破解题目的第一步。
+2.  **从有把握的词下手：** 先填写那些你一眼就能想到答案的词条，它们的交叉字母会反过来帮助你推理困难的提示。
+3.  **善用交叉信息：** 当一个单词的部分字母已经被其他词填出时，可以利用这些已知字母来缩小可能答案的范围，尤其是在英文字数有限的情况下非常有效。
+4.  **逐步缩小不确定性：** 对于暂时拿不准的词，可以先填写你确认无误的部分，再结合剩余空格数量与提示含义，反推完整答案。
 
-### How to Play
+### 操作说明
 
-*   **Select a Square**: Click an empty square to select it. You can switch between horizontal or vertical word entry modes by clicking again.
-*   **Enter Letters**: Use the keyboard to input letters.
-*   **Clear Letters**: Use the backspace key to delete entered letters.
-*   **View Clues**: The game interface usually displays clue information for the currently selected word.
-*   **Check Answer**: Some games provide a "Check" function to verify if the entered words are correct.
+*   **选择格子：** 点击任意空格以选中该位置，再次点击可在横向和纵向填词模式之间切换。
+*   **输入字母：** 直接使用键盘输入字母即可填写格子内容。
+*   **删除字母：** 使用退格键删除当前格子的字母。
+*   **查看提示：** 界面通常会在你选中某个单词时，高亮整行或整列，并在侧边或下方显示对应的文字提示。
+*   **检查答案：** 某些版本提供“检查”功能，可检测当前已填内容是否正确，帮助你及时纠错。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Who is "Mini Crossword" suitable for?**
-     **A**: This game is suitable for all players who enjoy crossword puzzles and vocabulary challenges, especially those looking for a quick puzzle-solving experience.
-2.  [ZH TRANSLATION NEEDED] **Q: When are daily puzzles updated?**
-     **A**: Typically, mini crossword puzzles are updated with new puzzles at a specific time each day (e.g., midnight or in the morning).
-3.  [ZH TRANSLATION NEEDED] **Q: Is there any help if I get stuck?**
-     **A**: Some mini crossword games offer hint features that can reveal a letter or word to help players continue.
-4.  [ZH TRANSLATION NEEDED] **Q: Does the game require an internet connection?**
-     **A**: Daily puzzles usually require an internet connection to download and update, but once downloaded, some games may support offline play.
+### 常见问题
+
+1.  **问：这款游戏适合什么人玩？**
+    **答：** 只要你喜欢文字游戏、填字谜题或想顺便巩固/扩展词汇量，不论是轻度玩家还是字谜爱好者，都可以在《Mini Crossword》中找到合适的乐趣，尤其适合想要“几分钟小挑战”的玩家。
+2.  **问：每日谜题何时更新？**
+    **答：** 通常每日填字会在固定时间刷新新谜题（例如本地时间凌晨或清晨），具体以游戏内显示为准，你每天都能获得一份最新小网格。
+3.  **问：卡关时有提示功能吗？**
+    **答：** 许多迷你填字版本提供提示选项，比如揭示一个字母或直接给出某个词的答案，但往往会降低最终评分或记录，建议在确实卡住时再使用。
+4.  **问：是否必须联网才能游戏？**
+    **答：** 新的每日谜题通常需要联网下载更新，但部分游戏在加载完成后可以在短时间内离线游玩，具体取决于实现方式。

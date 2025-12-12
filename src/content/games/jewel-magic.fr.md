@@ -1,56 +1,85 @@
 ---
 locale: fr
 urlstr: jewel-magic
-title: '[FR] Jewel Magic'
+title: Jewel Magic
 description: >-
-  [FR] Unleash the magic of gems in Jewel Magic, a classic match-3 puzzle game.
-  Match sparkling jewels, create powerful combos, and clear challenging levels
-  in this enchanting adventure.
-iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
+  Jewel Magic est un match‑3 classique rempli de gemmes colorées, de niveaux
+  variés et de bonus explosifs pour nettoyer le plateau.
+iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/7evbkdu9e500g/'
 thumbnail: /new-images/jewel-magic.png
 tags:
   - puzzle
   - casual
-  - action
-score: 4.4/5  (2150 votes)
+score: 4.3/5  (placeholder votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation
+
+Un match‑3 plus générique, avec de nombreux niveaux, des obstacles progressifs (glace, chaînes, etc.) et une panoplie de boosters à déclencher via des alignements avancés.
 
 
 
-### Detailed Game Introduction
+    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
 
-Jewel Magic is a classic and captivating match-3 puzzle game that invites you into a world of sparkling gems and enchanting challenges. The core objective is to swap adjacent jewels to create a line of three or more identical gems, causing them to vanish and score points. With hundreds of levels, each presenting a unique goal, players must think strategically to create powerful special jewels, trigger dazzling chain reactions, and solve every puzzle presented to them.
+- **Q: What happens when I run out of moves?**
 
-### Gameplay Strategy & Walkthrough
+    - **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
 
-1.  **[FR]** **Master the Special Gems:** To pass the toughest levels, you must create and utilize special gems. These are formed by matching more than three jewels at once:
-    *   **[FR]** **Lightning Jewel:** Match 4 jewels in a line to create a jewel that can clear an entire row or column.
-    *   **[FR]** **Bomb Jewel:** Match 5 jewels in an L or T shape to create a bomb that explodes and destroys a block of surrounding jewels.
-    *   **[FR]** **Rainbow Jewel:** Match 5 jewels in a straight line to create a powerful rainbow jewel. Swap it with any adjacent jewel to remove all jewels of that color from the board.
+- **Q: What is the best way to get a high score?**
 
-2.  **[FR]** **Combine for Power:** The ultimate strategy is to combine two special jewels. Swapping a bomb and a lightning jewel, for instance, creates a massive cross-shaped blast. Experiment with different combinations to see their powerful effects.
+    - **A:** You must make a match that includes the frozen or chained jewel. This will break the ice or the chain, freeing the jewel to be used in future matches.
 
-3.  **[FR]** **Focus on the Goal:** Each level has a specific objective, such as reaching a target score, clearing all the jelly from behind the jewels, or dropping special items to the bottom. Always focus your efforts on achieving that goal within the limited number of moves.
+- **Q: How do I get past levels with frozen or chained jewels?**
 
-4.  **[FR]** **Start from the Bottom:** Making matches at the bottom of the grid increases the chance of causing a cascade, where new jewels fall into place and create automatic matches. This can help you clear the board and reach your goal much faster.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
 
+
+    - **Start from the Bottom:** Making matches at the bottom of the grid increases the chance of causing a cascade, where new jewels fall into place and create automatic matches. This can help you clear the board and reach your goal much faster.
+
+    - **Focus on the Goal:** Each level has a specific objective, such as reaching a target score, clearing all the jelly from behind the jewels, or dropping special items to the bottom. Always focus your efforts on achieving that goal within the limited number of moves.
+
+    - **Combine for Power:** The ultimate strategy is to combine two special jewels. Swapping a bomb and a lightning jewel, for instance, creates a massive cross-shaped blast. Experiment with different combinations to see their powerful effects.
+
+- **Rainbow Jewel:** Match 5 jewels in a straight line to create a powerful rainbow jewel. Swap it with any adjacent jewel to remove all jewels of that color from the board.
+
+- **Bomb Jewel:** Match 5 jewels in an L or T shape to create a bomb that explodes and destroys a block of surrounding jewels.
+
+- **Lightning Jewel:** Match 4 jewels in a line to create a jewel that can clear an entire row or column.
 The game is controlled using simple mouse or touch gestures.
 
-*   **[FR]** **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
+### Commandes
 
-### Frequently Asked Questions (FAQ)
 
-*   **[FR]** **Q: How do I get past levels with frozen or chained jewels?**
-    *   **[FR]** **A:** You must make a match that includes the frozen or chained jewel. This will break the ice or the chain, freeing the jewel to be used in future matches.
+The game is controlled using simple mouse or touch gestures.
+- **Start from the Bottom:** Making matches at the bottom of the grid increases the chance of causing a cascade, where new jewels fall into place and create automatic matches. This can help you clear the board and reach your goal much faster.
 
-*   **[FR]** **Q: What is the best way to get a high score?**
-    *   **[FR]** **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
+- **Focus on the Goal:** Each level has a specific objective, such as reaching a target score, clearing all the jelly from behind the jewels, or dropping special items to the bottom. Always focus your efforts on achieving that goal within the limited number of moves.
 
-*   **[FR]** **Q: What happens when I run out of moves?**
-    *   **[FR]** **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
+- **Combine for Power:** The ultimate strategy is to combine two special jewels. Swapping a bomb and a lightning jewel, for instance, creates a massive cross-shaped blast. Experiment with different combinations to see their powerful effects.
 
+    - **Rainbow Jewel:** Match 5 jewels in a straight line to create a powerful rainbow jewel. Swap it with any adjacent jewel to remove all jewels of that color from the board.
+
+    - **Bomb Jewel:** Match 5 jewels in an L or T shape to create a bomb that explodes and destroys a block of surrounding jewels.
+
+    - **Lightning Jewel:** Match 4 jewels in a line to create a jewel that can clear an entire row or column.
+
+- **Master the Special Gems:** To pass the toughest levels, you must create and utilize special gems. These are formed by matching more than three jewels at once:
+
+### Guide de jeu
+
+
+- **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
+
+    - **Q: What happens when I run out of moves?**
+
+- **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
+
+    - **Q: What is the best way to get a high score?**
+
+- **A:** You must make a match that includes the frozen or chained jewel. This will break the ice or the chain, freeing the jewel to be used in future matches.
+
+    - **Q: How do I get past levels with frozen or chained jewels?**

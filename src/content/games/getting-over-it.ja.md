@@ -1,42 +1,36 @@
 ---
+title: "Getting over it"
+description: "ハンマーで登る挑戦：大釜に入った男が、ハンマーを振って、弾んで、引っ掛けて、シュールな障害物を登っていきます。精密な物理挙動が短気を罰します。"
+iframeSrc: "https://ubg77.github.io/fix/getting-over-it/"
+thumbnail: "/new-images/getting-over-it.jpg"
+urlstr: "getting-over-it"
+score: "5.0/5  (226 votes)"
+tags: ["platformer", "physics"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: getting-over-it
-title: '[JA TRANSLATION NEEDED] Getting over it'
-description: >-
-  [JA TRANSLATION NEEDED] Climb‑with‑a‑hammer challenge: swing, pogo, and drag a
-  cauldron man up surreal obstacles; precision physics punish impatience.
-iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
-thumbnail: /new-images/getting-over-it.jpg
-tags:
-  - platformer
-  - physics
-score: 5.0/5  (226 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Getting Over Itは、ハンマーだけを操作する高精度の物理クライミングゲームです。ハンマーを振ったり、地面を突いて跳ねたり（ポゴ）、引っ掛けたりすることで、大釜に入った男を崖、塔、危険な足場へと引き上げます。このデザインは「喪失」を受け入れるものです。小さなミスで数分、あるいは数時間分の進歩を失い、やり直しを余儀なくされることもあります。力任せではなく、アンカーポイント（支点）、勢いの孤、そして優しいマウスの角度を学ぶことで習得できます。
 
+### 遊び方
+- 押す前にハンマーを安定した端に置きましょう。素早く弾くとポゴジャンプができます。
+- スイングを連鎖させて、水平方向の動きを垂直方向の上昇力に変えましょう。
+- 落ちた後は、リズムをリセットしてください。焦るとミスを繰り返します。
 
-### Overview
-[JA TRANSLATION NEEDED] Getting Over It is a precision physics climb where you control only a hammer. By swinging, pogoing, and hooking the hammer, you haul a man in a cauldron up cliffs, towers, and precarious ledges. The design embraces loss: a small mistake can drop you back minutes—or hours—forcing you to rebuild progress. Mastery comes from learning anchor spots, momentum arcs, and gentle mouse angles rather than brute force.
+### 操作方法
+- マウスでハンマーの角度と力を制御します。キーボードの使用は最小限です（ホストによります）。
 
-### How to Play
-- Plant the hammer on stable edges before pushing; quick flicks create pogo launches.
-- Chain swings to convert horizontal motion into vertical lift.
-- After falls, reset your rhythm—rushing causes repeat mistakes.
+### ヒント
+- 制御されたスイングには、優しく円を描くような動きを使いましょう。急激な入力は避けてください。
+- 大きな動きをする前に、安全なアンカーの「ポケット（くぼみ）」を見つけましょう。
+- 有名な難所（悪魔の煙突、オレンジ、塔など）は、マッスルメモリー（身体の記憶）ができるまで練習しましょう。
 
-### Controls
-- Mouse controls hammer angle and force; minimal keyboard use (host dependent).
-
-### Tips
-- Use gentle circular motions for controlled swings; avoid jerky inputs.
-- Identify safe anchor “pockets” before committing to big moves.
-- Practice notorious sections (Devil’s Chimney, Orange, Towers) until muscle memory forms.
-
-### FAQ
-- Q: How do I stop sliding off edges?  
-[JA TRANSLATION NEEDED]   A: Keep the hammer slightly below the lip to maintain friction and stability.
-- Q: What is the fastest way past the early chimney?  
-[JA TRANSLATION NEEDED]   A: Small pogo hops with controlled angles are safer than risky full launches.
-- Q: Can I lose all progress with one mistake?  
-[JA TRANSLATION NEEDED]   A: Yes, large falls are part of the design; patience is the core skill.
-
+### よくある質問 (FAQ)
+- **Q: 端から滑り落ちるのを防ぐには？**  
+  A: 摩擦と安定性を保つために、ハンマーを縁（ふち）より少し下に保ちましょう。
+- **Q: 序盤の煙突を抜ける最速の方法は？**  
+  A: リスクの高いフルパワーのジャンプよりも、角度を制御した小さなポゴホップの方が安全です。
+- **Q: 一度のミスですべての進歩を失うことはありますか？**  
+  A: はい、大きく落下することはデザインの一部です。忍耐こそが核心となるスキルです。

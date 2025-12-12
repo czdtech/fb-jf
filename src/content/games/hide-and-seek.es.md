@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: hide-and-seek
-title: '[ES] Hide And Seek!'
+title: "Hide And Seek!"
 description: >-
-  [ES] Casual stealth‑tag: as a hider, blend and collect; as a seeker, use
-  vision cones and sprints to catch everyone before time runs out.
+  Juego de escondite sigiloso en vista cenital: como fugitivo, mézclate entre los
+  NPC, recoge objetos y completa objetivos; como buscador, usa cono de visión y
+  sprints para atrapar a todos antes de que se acabe el tiempo.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/hide-and-seek.jpg
@@ -17,29 +18,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Información general
+Hide and Seek! lleva el clásico juego de pilla‑pilla al terreno del sigilo en
+vista cenital. Los jugadores que se esconden se confunden entre los NPC,
+recolectan objetos y completan objetivos mientras evitan la patrulla del
+buscador. Como buscador, observas los patrones de movimiento, usas sprints o
+accesorios y sacas a la luz a los jugadores sospechosos antes de que termine el
+cronómetro.
 
+### Cómo jugar
+- Como fugitivo: muévete con la multitud, completa tareas y rompe la línea de
+  visión cuando te persigan.
+- Como buscador: aprende los embudos del mapa, revisa los objetivos y reacciona
+  ante rutas extrañas.
+- Los potenciadores otorgan invisibilidad corta, velocidad extra o revelan
+  posiciones según el modo.
 
-### Overview
-Hide and Seek! adapts playground tag into top‑down stealth. Hiders blend among NPCs, gather items, and finish objectives while avoiding the seeker’s patrol. As the seeker, you watch movement patterns, use sprints or gadgets, and flush out suspicious players before the timer ends.
+### Controles
+- WASD/Flechas para moverte; una tecla de acción activa los potenciadores (según
+  el host).
 
-### How to Play
-- As a hider: move with the crowd, complete tasks, and break line‑of‑sight when chased.
-- As a seeker: learn map chokepoints, check objectives, and react to odd pathing.
-- Power‑ups provide short invisibility, speed, or reveals depending on mode.
+### Consejos
+- Fugitivos: imita las pausas y giros de los NPC; corre solo cuando sea
+  imprescindible.
+- Buscadores: rodea los objetivos; los jugadores reales dudan más en esquinas y
+  puertas.
+- Fíjate en las pistas de audio y visuales, como cambios bruscos de dirección.
 
-### Controls
-- WASD/Arrows to move; action key for power‑ups (host dependent).
-
-### Tips
-- Hiders: mimic NPC pauses and turns; sprint only when necessary.
-- Seekers: circle objectives; real players hesitate at corners and doors.
-- Use audio/visual tells like sudden direction changes.
-
-### FAQ
-- Q: How do I avoid being caught as a hider?
-A: Blend in—match NPC cadence, avoid straight sprints, and use obstacles to break vision.
-- Q: What is the best seeker strategy on new maps?
-A: Patrol objectives and chokepoints first, then sweep open spaces.
-- Q: Do power‑ups respawn during a match?
-A: Many modes respawn items on timers; learn locations.
-
+### Preguntas frecuentes
+- Q: ¿Cómo evito que me atrapen cuando me escondo?  
+  A: Mezclándote: iguala el ritmo de los NPC, evita los sprints largos en línea
+  recta y usa obstáculos para romper la visión.
+- Q: ¿Cuál es la mejor estrategia de buscador en mapas nuevos?  
+  A: Patrullar primero objetivos y puntos de estrangulamiento y después barrer
+  las zonas abiertas.
+- Q: ¿Los potenciadores reaparecen durante la partida?  
+  A: En muchos modos, los objetos reaparecen con temporizadores fijos; aprende
+  sus ubicaciones.

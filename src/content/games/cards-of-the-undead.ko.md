@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cards-of-the-undead
-title: '[KO] Cards of the Undead'
+title: Cards of the Undead 카드 오브 더 언데드
 description: >-
-  [KO] A turn-based strategy card game of survival. Move your hero across the
-  board, battle zombies, and collect coins and power-ups. Manage your health and
-  armor to survive as long as you can!
+  Cards of the Undead는 좀비 아포칼립스를 배경으로 한 턴제 로그라이트 카드 퍼즐 게임입니다. 카드로 이루어진 보드를 한 칸씩
+  이동하며 좀비와 싸우고, 코인과 회복·방어 아이템을 모아 최대한 오래 살아남으세요.
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/cards-of-the-undead.png
 tags:
@@ -17,34 +16,66 @@ score: 4.3/5  (2250 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Cards of the Undead는 뒤집힌 카드로 표현된 세계를 탐험하는 좀비 생존 퍼즐 게임입니다.
+보드는 격자 형태의 카드들로 구성되어 있고, 플레이어는 영웅을 조종해 매 턴 인접한
+카드 한 칸으로 이동합니다. 이동한 칸의 카드는 공개되며, 그 안에는 좀비, 코인,
+체력 포션, 방어구 등 다양한 요소가 숨겨져 있습니다.
 
+목표는 보드를 전략적으로 돌아다니며 체력과 방어력을 관리하고, 모든 좀비를 처치하거나
+가능한 한 오래 살아남는 것입니다. 좀비를 쓰러뜨리면 경험치를 얻어 레벨업할 수 있고,
+레벨업 시 체력이 회복되고 능력치가 상승해 점점 더 강해집니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Cards of the Undead is a turn-based roguelike puzzle game set in a zombie apocalypse. The world is represented by a grid of face-down cards, and you control a hero who can move one space at a time. Each move uncovers a new card, which could be a zombie to fight, valuable coins, or helpful items like health potions and armor. The goal is to strategically navigate the board, manage your health, defeat all the zombies, and survive for as long as possible.
+1.  **이동 전 항상 상대와 스탯 비교하기**  
+    좀비 카드로 이동하기 전에, 현재 영웅의 체력·방어력과 좀비의 공격력을 비교해
+    전투에서 살아남을 수 있을지 계산해 보세요. 강한 좀비를 무작정 치기보다는,
+    먼저 포션이나 방어구를 확보한 뒤에 상대하는 편이 안전합니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **경로를 계획적으로 설계하기**  
+    아무 생각 없이 랜덤으로 움직이면 강한 좀비에 의해 코너에 몰리기 쉽습니다.
+    체력 회복 아이템이나 코인이 보이면, 그쪽으로 가는 길에 있는 좀비들을
+    감당할 수 있는지 미리 계산해 경로를 잡는 것이 좋습니다.
 
-1.  **[KO]** **Check Before You Move:** Before moving to a zombie card, always compare your hero's stats (Health and Armor) with the zombie's. Make sure you can survive the encounter. It's often better to find a potion or armor first before taking on a strong enemy.
-2.  **[KO]** **Plan Your Path:** Don't just move randomly. Try to plan a path that allows you to pick up helpful items before you are forced to fight a powerful zombie. Clearing a path to a health potion can be a lifesaver.
-3.  **[KO]** **Know Your Hero:** Different heroes have different skills. Use your hero's unique abilities to your advantage. Some might be better at fighting, while others might be better at finding treasure.
-4.  **[KO]** **Level Up:** Defeating zombies grants you Experience Points (XP). Leveling up will restore your health and improve your stats, making you stronger for the challenges ahead.
+3.  **영웅의 특성을 이해하고 활용하기**  
+    일부 버전에서는 영웅마다 다른 능력치를 가지거나 특수 능력이 붙어 있습니다.
+    공격력이 높은 영웅은 좀비 처리에 유리하고, 탐색형 영웅은 아이템 수집에
+    강점이 있는 식입니다. 자신의 영웅이 어떤 상황에서 빛나는지 파악해 플레이
+    스타일을 맞춰 보세요.
 
-### Controls Guide
+4.  **레벨업 타이밍 살피기**  
+    좀비를倒으면 경험치(XP)를 얻어 레벨업할 수 있으며, 레벨업 시 체력이 회복되고
+    능력치도 상승합니다. 체력이 애매하게 남았을 때는, 레벨업이 눈앞이라면 적당한
+    난이도의 좀비를 일부러 상대해 레벨업으로 체력을 회복하는 운영도 가능합니다.
 
-The game is played with simple mouse clicks or taps.
+### 조작 방법
 
-*   **[KO]** **Move:** Click on any adjacent (horizontal, vertical, or diagonal) card to move your hero to that space. This will reveal the card.
+게임은 마우스 클릭 또는 터치만으로 진행됩니다.
 
-### Frequently Asked Questions (FAQ)
+-   **이동:** 영웅과 인접한(가로·세로·대각선) 카드 위를 클릭하면 해당 칸으로
+    이동하며, 카드 내용이 공개됩니다.
 
-*   **[KO]** **Q: How does combat work?**
-    *   **[KO]** **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What is the goal of a level?**
-    *   **[KO]** **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
+-   **Q. 전투는 어떻게 진행되나요?**  
+    A. 별도의 조작 없이 자동으로 이루어집니다. 좀비 카드 위로 이동하면 곧바로
+    전투가 발생하고, 영웅의 체력·방어력과 좀비의 공격력에 따라 피해를 주고받은
+    뒤, 살아남으면 좀비 카드는 사라집니다.
 
-*   **[KO]** **Q: What happens if I run out of health?**
-    *   **[KO]** **A:** If your hero's HP drops to zero, your run is over, and you must start again.
+    - **Q. 각 스테이지의 목표는 무엇인가요?**  
+    A. 기본적으로는 보드 위의 모든 좀비 카드를 처치하는 것이 1차 목표입니다.
+    코인을 모두 모으는 것은 다음 영웅 해금 등을 위한 2차 목표로, 다음 플레이에서
+    더 유리한 시작을 가능하게 해 줍니다.
 
+-   **Q. 체력이 0이 되면 어떻게 되나요?**  
+
+    - **A:** If your hero's HP drops to zero, your run is over, and you must start again.
+
+- **Q: What happens if I run out of health?**
+
+    - **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
+    A. 영웅의 체력이 0이 되는 순간 이번 런은 종료되며, 처음부터 다시 도전해야
+    합니다. 로그라이트 특성상, 한 번의 런으로 모든 것을 끝낸다는 생각보다 여러
+    번의 시도로 점점 더 멀리 나아가는 구조에 가깝습니다.

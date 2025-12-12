@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: love-tester
-title: '[KO] Love Tester'
+title: "Love Tester 러브 테스터"
 description: >-
-  [KO] Playful novelty: enter names to get a fun compatibility score;
-  non‑scientific and meant purely for entertainment.
+  Love Tester는 이름을 입력하면 재미로 궁합 점수를 보여 주는 가벼운 놀이용 테스트로,
+  과학적 근거는 전혀 없으며 오로지 엔터테인먼트 목적의 장난감입니다.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
 thumbnail: /new-images/love-tester.jpg
@@ -17,27 +17,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Love Tester*는 두 사람의 이름을 입력하면 장난스럽게 \"궁합\" 퍼센트와 메시지, 가벼운
+애니메이션을 보여 주는 이름 매칭 장난감입니다. 결과는 실제 호환성과는 관계없이 무작위에
+가깝거나 단순한 계산 방식으로 만들어지며, 어디까지나 웃고 넘기기 위한 놀이용 기능입니다.
 
-### Overview
-Love Tester is a lighthearted name‑matching toy. You input two names and receive a whimsical “compatibility” percentage with occasional messages or animations. It’s purely for fun—results are random or based on simple hashing and do not represent real compatibility.
+### 플레이 방법
 
-### How to Play
-- Enter two names (or any words) and press test.
-- Share results or rerun with different inputs for laughs.
+- 두 사람의 이름(또는 아무 단어나 문구)을 입력한 뒤 테스트 버튼을 누르세요.
+- 나온 결과를 친구와 공유하거나, 다른 이름 조합으로 여러 번 다시 테스트해 보며 웃고
+  즐기면 됩니다.
 
-### Controls
-- Keyboard input and a single test button.
+### 조작 방법
 
-### Tips
-- Use creative prompts (nicknames, team names) to vary outputs.
-- Treat results as a joke, not advice.
+- 키보드로 이름을 입력하고, 화면의 테스트 버튼을 한 번 누르는 것만으로 플레이할 수 있습니다.
 
-### FAQ
-- Q: Is the compatibility score scientifically accurate?
-A: No, it is for entertainment only.
-- Q: Can I save or share the results?
-A: Some hosts include share buttons or screenshots.
-- Q: Do spaces or punctuation matter in names?
-A: Behavior varies; stick to letters for consistent outputs.
+### 플레이 팁
 
+- 실명 대신 별명이나 팀 이름, 가상의 캐릭터 이름 등을 넣어 보며 다양한 결과를 비교해 보세요.
+- 표시되는 퍼센트나 메시지는 어디까지나 농담이므로, 진지한 조언으로 받아들이지 않는 것이 좋습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 궁합 퍼센트는 과학적으로 믿을 만한 수치인가요?
+
+  A: 아닙니다. Love Tester의 결과는 전적으로 엔터테인먼트용으로, 실제 관계나 감정을
+  반영하지 않습니다.
+
+- Q: 결과를 저장하거나 공유할 수 있나요?
+
+  A: 일부 사이트나 앱 버전에서는 SNS 공유 버튼이나 스크린샷 기능이 제공되기도 합니다.
+  그렇지 않을 경우에는 직접 화면을 캡처해 사용하는 방법이 있습니다.
+
+- Q: 이름에 공백이나 특수문자를 넣으면 결과에 영향을 주나요?
+
+  A: 구현 방식에 따라 다르지만, 예측 가능한 결과를 원한다면 알파벳이나 한글처럼 일반적인
+  문자만 사용하는 편이 좋습니다.

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: lows-adventures-2
-title: '[DE] Low''s Adventures 2'
+title: "Low's Adventures 2"
 description: >-
-  [DE] Retro platformer sequel: run‑and‑jump through compact stages, find keys
-  and secrets, and beat timed challenges.
+  Retro-Plattformer-Fortsetzung: Laufe und springe durch kompakte Level,
+  finde Schlüssel und Geheimnisse und stelle dich Zeit-Herausforderungen.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/lows-adventures-2.jpg
 tags:
@@ -15,30 +15,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+Low's Adventures 2 bietet kurze, klassische Plattform-Levels mit versteckten
+Schlüsseln, zerstörbaren Blöcken und leichten Rätseln. Präzise Sprünge und das
+Lesen von Gegnerbewegungen bestimmen deinen Weg. Optionale Zeitmedaillen
+belohnen dich für schnelle Durchläufe und clevere Abkürzungen.
 
+### So spielst du
 
-### Overview
-Low’s Adventures 2 delivers short, old‑school platforming levels with hidden keys, breakable blocks, and lightweight puzzles. Precision jumps and enemy patterns define the route; optional time medals reward efficient clears and secret paths.
+- Suche nach Schlüsseln und Schaltern, um Ausgänge freizuschalten.
+- Lerne die Bewegungszyklen von Gegnern und optimiere danach deine Route, um
+  Zeitmedaillen zu holen.
+- Halte nach rissigen Blöcken und versteckten Wegen Ausschau, um Geheimräume zu
+  finden.
 
-### How to Play
-- Scout for keys/switches to open exits.
-- Learn enemy cycles, then speed‑route stages for medals.
-- Search for cracked tiles and alternate paths for secrets.
+### Steuerung
 
-### Controls
-- Arrows/WASD to move/jump; attack/interact varies by host.
+- Bewegen und Springen mit Pfeiltasten oder WASD.
+- Angreifen/Interagieren je nach Host über eigene Tasten.
 
-### Tips
-- Buffer jumps at platform edges to extend distance.
-- Use enemy heads as springboards when possible.
-- Replay for faster routes once you know layouts.
+### Tipps
+
+- **Sprünge puffern**  
+  Springe ganz am Rand einer Plattform ab, um mehr Distanz herauszuholen.
+
+- **Gegner als Sprungbrett nutzen**  
+  Wenn möglich, nutze Köpfe von Gegnern, um höhere Bereiche zu erreichen.
+
+- **Level erneut spielen**  
+  Wenn du den Aufbau kennst, kannst du Level erneut starten und deine Route auf
+  maximale Geschwindigkeit trimmen.
 
 ### FAQ
-- Q: How do I reach hidden rooms in this game?
-A: Look for cracked blocks and off‑screen ledges; try ceiling seams.
-- Q: Does the game time my clears?
-A: Many hosts display timers and medal thresholds.
-- Q: Are there checkpoints in longer stages?
-A: Select levels include mid‑stage checkpoints.
 
+- **F: Wie erreiche ich versteckte Räume?**  
+  **A:** Suche nach rissigen Blöcken, scheinbar toten Enden oder Stellen, an
+  denen du knapp außerhalb des sichtbaren Bereichs lande kannst – häufig
+  verbergen sich dort Geheimwege.
+
+- **F: Werden meine Zeiten erfasst?**  
+  **A:** Viele Versionen zeigen Timer und Medaillenstufen an, anhand derer du
+  deine Runs vergleichen kannst.
+
+- **F: Gibt es Checkpoints in längeren Leveln?**  
+  **A:** In ausgewählten Stages findest du Zwischen-Checkpoints, die Wiederholungen
+  deutlich angenehmer machen.

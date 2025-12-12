@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: whack-your-boss
-title: '[ZH TRANSLATION NEEDED] Whack Your Boss'
+title: 'Whack Your Boss：发泄办公室怒火的黑色幽默小游戏'
 description: >-
-  [ZH TRANSLATION NEEDED] Unleash your office frustrations in Whack Your Boss, a
-  darkly humorous interactive game! Discover over a dozen creative and comical
-  ways to 'whack' your annoying boss using everyday office items. Click on
-  objects to trigger hilarious animations and find all the secret methods.
+  在《Whack Your Boss》中，用极端夸张、卡通化的方式发泄对烦人上司的郁闷。
+  点击办公室里的各种物品，解锁十几种离谱又好笑的“收拾老板”的动画场景，
+  纯属黑色幽默与减压娱乐。
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/whack-your-boss.jpg
 tags:
@@ -17,33 +16,55 @@ score: 4.7/5  (899 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Whack Your Boss is a popular and darkly humorous interactive animation game designed to let players vent their office frustrations in a comical way. The game presents a static office scene filled with various objects. Your goal is to click on these objects to discover different, often over-the-top and hilarious, animations of "whacking" your boss.
+《Whack Your Boss》是一款广为流传的黑色幽默互动动画游戏，
+用极度夸张、卡通的方式，模拟“上班族在脑内如何吐槽烦人老板”。
 
-### Gameplay Guide
+游戏场景是一个看似普通的办公室，但桌上、墙上、地面和各种角落里，
+都藏着可以互动的物品。你要做的，就是在场景中到处移动鼠标，
+寻找可以点击的道具，一旦找到“可用物品”，就会触发一段独立的动画，
+演绎一种离谱而又好笑的“对付老板”的方式。
 
-[ZH TRANSLATION NEEDED] The gameplay is simple:
-- **Explore:** Look around the office environment for interactive objects.
-- **Click:** Click on an object. If it's a valid "whack" item, an animation will play showing a unique way to deal with the boss.
-- **Discover:** The main challenge and fun come from finding all the hidden ways to "whack" the boss. There are usually many methods to uncover.
-- **Reset:** After each animation, a "Cleaner" option typically appears, allowing you to reset the scene and try another object.
+### 游玩指南
 
-### Controls Guide
+玩法非常简单，核心就是“找物品 + 看动画”：
 
-- **Mouse:** Use your mouse to hover over and click on interactive objects in the scene.
+- **探索（Explore）：**  
+  细致观察办公室场景，注意桌面、柜子、墙面甚至天花板等位置，
+  很多看似普通的物体其实都可以被点击。
 
-### Frequently Asked Questions (FAQ)
+- **点击（Click）：**  
+  当鼠标光标在某个物品上出现变化或高亮时，点击即可触发互动。
+  如果该物品是有效道具，就会播放一段完整的动画片段。
 
-[ZH TRANSLATION NEEDED] **What is the objective of the game?**
+- **收集（Discover）：**  
+  游戏的乐趣在于“集齐所有方式”。每个物品对应一种独特的黑色幽默演出，
+  你的目标就是把所有隐藏的“whack 方式”都找出来。
 
-[ZH TRANSLATION NEEDED] The primary objective is to discover all the different ways to "whack" your boss. It's a game of exploration and discovery of humorous animations.
+- **重置（Reset）：**  
+  每段动画播放结束后，一般会出现“清理/重置”选项，
+  点击后场景会恢复原状，你就可以继续寻找新的互动点。
 
-[ZH TRANSLATION NEEDED] **Are there different versions of the game?**
+### 操作指南
 
-[ZH TRANSLATION NEEDED] Yes, there are several versions of "Whack Your Boss" and similar games, each offering a different number of "ways to whack" and sometimes different settings (e.g., Whack Your Computer, Whack Your Ex).
+- **鼠标：**  使用鼠标在场景中移动、悬停与点击物品即可完成全部操作，
+  无需复杂键位，上手几乎没有门槛。
 
-[ZH TRANSLATION NEEDED] **Is the game violent?**
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] While the theme involves "whacking" a boss, the animations are highly stylized, cartoonish, and often absurd, making them more humorous than genuinely violent.
+**问：这款游戏的目标是什么？**  
+**答：** 游戏没有传统意义上的过关或积分系统，
+主要目标就是发现所有不同的“whack 方式”，
+把每一种隐藏动画都解锁出来，享受探索与收集的过程。
 
+**问：游戏有不同版本吗？**  
+**答：** 是的，围绕同一创意有多个衍生作品，
+例如《Whack Your Boss》的不同版本，以及类似的
+《Whack Your Computer》《Whack Your Ex》等，
+会在场景、互动物品和可触发方式数量上有所变化。
+
+**问：这款游戏会不会太暴力？**  
+**答：** 虽然主题围绕“教训老板”，但整体画风和演出方式非常夸张与卡通化，
+更偏向荒诞喜剧和压力释放，而不是写实暴力。
+如果你把它视作一部可互动的黑色幽默动画，而不是现实行为示范，就能更好地享受其中的讽刺与搞笑。

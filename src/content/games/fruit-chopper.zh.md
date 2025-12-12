@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: fruit-chopper
-title: '[ZH TRANSLATION NEEDED] Fruit Chopper'
+title: "Fruit Chopper 狂斬水果"
 description: >-
-  [ZH TRANSLATION NEEDED] Sharpen your blades for Fruit Chopper! Slice through a
-  barrage of flying fruits while avoiding dangerous bombs. How high can you
-  score?
+  在 Fruit Chopper 中磨利你的刀鋒！在滿屏飛舞的水果中瘋狂斬擊，
+  同時小心避開致命炸彈，看看你能拿到多高的分數。
 iframeSrc: 'https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/'
 thumbnail: /new-images/fruit-chopper.png
 tags:
@@ -19,27 +18,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and precision. Your screen will be filled with a variety of delicious fruits flying through the air. Your mission is to slice as many of them as you can with a swipe of your finger or mouse. But be careful! Dangerous bombs are mixed in with the fruit, and hitting one will end your game. Challenge yourself to get the highest score by creating impressive combos and surviving as long as possible.
+《Fruit Chopper》是一款節奏飛快、畫面多汁的街機遊戲，專門考驗你的反應速度與準度。
+畫面上會不斷有各種水果被拋向空中，你要用滑鼠或手指的劃線動作將它們一一斬開。
+但要小心——其中混有致命炸彈，一旦誤砍炸彈，這一局就會立刻結束。
+你的目標是在不觸發炸彈的前提下，創造瘋狂的連斬與高分，並盡可能撐久。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Slice in Combos:** The key to a high score is slicing multiple fruits in a single, continuous swipe. A 3-fruit combo is good, but a 4 or 5-fruit combo will give you a massive score bonus.
-2.  [ZH TRANSLATION NEEDED] **Avoid the Bombs:** This is the most important rule. Your eyes should always be scanning for bombs. It's better to miss a fruit than to accidentally hit a bomb.
-3.  [ZH TRANSLATION NEEDED] **Wait for the Arc:** Don't slice fruits the moment they appear. Wait for them to reach the peak of their arc. This gives you more time to see other fruits that might line up for a combo and helps you avoid surprise bombs.
-4.  [ZH TRANSLATION NEEDED] **Use Both Hands (on Mobile):** If you're playing on a touchscreen, using two hands can sometimes help you react faster to fruits appearing on both sides of the screen.
-5.  [ZH TRANSLATION NEEDED] **Stay Focused:** The game gets faster and more frantic. Stay calm and focus on smooth, deliberate swipes rather than wild slashing.
+
+1.  **追求連斬 Combo：** 高分的關鍵在於「一刀多果」。一刀切中 3 顆已經不錯，
+    若能同時切到 4、5 顆水果，分數加成會非常可觀。
+2.  **炸彈優先原則：** 這是最重要的生存法則。視線要時刻留意炸彈所在的位置，
+    寧願放棄一兩顆水果，也不要冒險在炸彈附近亂劃。
+3.  **等待拋物線頂點：** 不要水果一出現就急著切，稍微等它飛到弧線頂端，
+    此時往往會與其他水果排成更好的連斬角度，也比較容易看清是否有炸彈混在其中。
+4.  **行動裝置使用雙手：** 若在手機或平板上遊玩，可以考慮雙手輪流或同時滑動，
+    對於左右兩側同時出現水果時會更好應對。
+5.  **保持冷靜：** 隨著時間推進，水果與炸彈出現頻率會越來越高，越是在後期越要保持平穩的長線斬擊，
+    避免情緒緊張導致亂揮一通。
 
 ### Controls Guide
 
-*   **Slice:** Click and drag your mouse across the fruit to slice it. On a mobile device, simply swipe your finger across the screen.
+*   **斬擊：** 在電腦端用滑鼠按住並拖曳劃線即可切開水果；
+    在行動裝置上則用手指滑動螢幕完成斬擊。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The goal is to get the highest score possible by slicing fruit. The game ends if you hit a bomb or miss too many fruits.
+*   **問：遊戲的目標是什麼？**
+    *   **答：** 盡可能在不中炸彈、不中斷的情況下切掉更多水果拿高分；
+        若炸彈被切中或漏掉過多水果，遊戲就會結束。
 
-*   **Q: How do I get a combo bonus?**
-     *   **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
+*   **問：如何觸發連斬加分？**
+    *   **答：** 在同一次滑動軌跡中同時切中 3 顆或以上的水果就會觸發 Combo，
+        水果數越多，額外加分越高。
 
-*   **Q: Are there different game modes?**
-     *   **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
-
+*   **問：有其他模式可以玩嗎？**
+    *   **答：** 很多切水果類遊戲都會提供多種模式，例如經典模式（避免炸彈與漏果）、
+        衝刺模式（限時 60 秒搭配道具）、或禪模式（無炸彈、純享受切水果），
+        具體可在主選單中查看當前版本支援的模式。

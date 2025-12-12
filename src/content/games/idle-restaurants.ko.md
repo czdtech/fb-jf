@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: idle-restaurants
-title: '[KO] Idle Restaurants'
+title: Idle Restaurants 아이들 레스토랑
 description: >-
-  [KO] Build your own restaurant empire in this addictive idle game! Hire chefs,
-  upgrade your kitchen and tables, and automate your business to become a
-  culinary tycoon.
+  작은 식당에서 시작해 거대한 외식 제국을 만드는 방치형 경영 게임입니다. 셰프와 웨이터를 고용·업그레이드하고, 주방과 테이블을 확장하며,
+  관리자를 통해 영업을 자동화해 요식업 타이쿤이 되어 보세요.
 iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
 thumbnail: /new-images/idle-restaurants.png
 tags:
@@ -19,33 +18,68 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Idle Restaurants is a classic idle management game that puts you in charge of building a culinary empire from the ground up. You start with a small, humble diner and must strategically invest your earnings to grow your business. By upgrading your tables, chefs, and waiters, you can increase your efficiency and profits. The ultimate goal is to automate your workflow by hiring managers and expand your enterprise by opening new, more profitable restaurants.
+`Idle Restaurants`는 작은 다이너에서 시작해 여러 레스토랑을 운영하는 외식
+타이쿤으로 성장하는 방치형 경영 게임입니다. 손님이 도착해 자리에 앉고 →
+셰프가 음식을 만들고 → 웨이터가 서빙하고 → 손님이 계산하는 일련의 흐름을
+관리하며, 각 단계의 효율을 높여 매출을 극대화해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+테이블 수, 셰프와 웨이터의 속도·역량, 주방과 홀의 시설을 업그레이드하면서
+점차 더 많은 손님을 빠르게 처리할 수 있게 됩니다. 최종적으로는 각 구역에
+관리자를 배치해 영업을 완전 자동화하고, 모은 자본으로 새로운 고급 레스토랑을
+열어 더 큰 수익을 노리게 됩니다.
 
-1.  **[KO]** **The Restaurant Workflow:** Understand the flow of money. Customers arrive and are seated -> The chef prepares their order -> The waiter delivers the food -> The customer pays. Each step in this chain can be upgraded.
-2.  **[KO]** **Balanced Upgrades:** To maximize your income, you need a balanced operation. It's no use having super-fast chefs if you don't have enough tables for customers, or if your waiters are too slow to deliver the food. Try to upgrade your tables, kitchen, and waiters in tandem.
-3.  **[KO]** **Automate Everything:** The key to an idle game is making money while you're away. As soon as you can, hire managers for each station. The manager will automatically collect earnings for you, ensuring a constant stream of income.
-4.  **[KO]** **Know When to Expand:** Your long-term goal is to save up enough money to open a new restaurant. Each new restaurant you unlock will have a much higher earning potential than the last. Once upgrades in your current restaurant become very expensive, it's time to focus on saving for the next one.
+### 게임 플레이 전략 & 공략
 
-### Controls Guide
+1. **레스토랑 흐름 이해하기**  
+   손님 도착 → 착석 → 조리 → 서빙 → 결제 흐름 중 어느 한 단계라도 병목이
+   생기면 전체 효율이 떨어집니다. 어느 구간이 가장 느린지 확인해 집중
+   업그레이드를 진행하세요.
 
-The entire game is played by clicking or tapping on various buttons.
+2. **균형 잡힌 업그레이드**  
+   셰프만 너무 빠르거나 테이블만 많고 웨이터가 느리면, 대기열이 생기고
+   손님 회전율이 떨어집니다. 가능한 한 테이블, 주방, 웨이터의 레벨을
+   비슷한 수준으로 유지하는 것이 좋습니다.
 
-*   **[KO]** **Upgrade:** Click the upgrade buttons associated with the tables, the chef's station, or the waiters to improve their level and efficiency.
-*   **[KO]** **Hire Manager:** Click the manager icon for a station to hire them and automate that station's process.
-*   **[KO]** **Navigate:** Use the world map or restaurant list to switch between your different restaurant locations.
+3. **완전 자동화 추구**  
+   가능해지는 즉시 각 스테이션에 관리자를 고용해 작업을 자동화하세요.
+   관리자가 있는 구역은 플레이어가 클릭하지 않아도 스스로 수익을 만들어
+   주므로, 진정한 “방치” 수익이 발생합니다.
 
-### Frequently Asked Questions (FAQ)
+4. **확장 타이밍 파악하기**  
+   기존 레스토랑의 업그레이드 비용이 지나치게 비싸지고, 투자 대비 이익
+   증가가 미미해졌다면 다음 레스토랑을 여는 자금을 모을 때가 된 것입니다.
+   새 지점은 보통 훨씬 큰 수익 잠재력을 갖습니다.
 
-*   **[KO]** **Q: What is the fastest way to make money?**
-    *   **[KO]** **A:** Reinvesting your earnings into upgrades as quickly as possible. The faster you upgrade, the faster your income grows. This exponential growth is the core of the game.
+### 조작 방법
 
-*   **[KO]** **Q: What should I upgrade first?**
-    *   **[KO]** **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.
+모든 조작은 버튼 클릭/탭으로 이루어집니다.
 
-*   **[KO]** **Q: Why should I buy a new restaurant?**
-    *   **[KO]** **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.
+- **업그레이드**: 테이블, 주방, 웨이터 섹션의 업그레이드 버튼을 눌러
+  레벨과 효율을 올립니다.
+- **관리자 고용**: 각 스테이션의 관리자 아이콘을 눌러 자동화를 시작합니다.
+- **이동**: 월드 맵이나 레스토랑 리스트를 통해 다른 지점으로 이동합니다.
 
+### 자주 묻는 질문(FAQ)
+
+- **Q: 가장 빨리 돈을 버는 방법은 무엇인가요?**  
+  **A:** 벌자마자 업그레이드에 재투자해 수익 속도를 올리는 것이 핵심입니다.
+  수익이 빨라질수록 다음 업그레이드를 더 빨리 살 수 있는, 지수 성장 구조를
+  최대한 활용해야 합니다.
+
+    - **Q: 무엇을 먼저 업그레이드해야 하나요?**  
+  **A:** 시작 단계에서는 테이블 몇 개를 열고 셰프 레벨을 1~2번 올려 손님
+  흐름을 안정시키는 것이 좋습니다. 이후에는 주방·서빙·좌석을 골고루
+  올려 병목을 줄이세요.
+
+- **Q: 왜 새 레스토랑을 사야 하나요?**  
+
+    - **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.
+
+- **Q: Why should I buy a new restaurant?**
+
+    - **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.
+  **A:** 새 레스토랑은 전체 수입을 크게 올려 줄 뿐 아니라, 기존 레스토랑에도
+  영향을 주는 영구 배수를 제공하는 경우가 많습니다. 장기적인 진행을 위해
+  필수적인 성장 수단입니다.

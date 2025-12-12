@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: bricks-breaker
-title: '[DE] Bricks Breaker'
+title: "Bricks Breaker"
 description: >-
-  [DE] Get ready for classic arcade action in Bricks Breaker! Control the
-  paddle, bounce the ball, and destroy all the bricks to clear levels.
+  Mach dich bereit für klassische Arcade-Action in Bricks Breaker: Steuere den
+  Schläger, halte den Ball im Spiel und zerstöre alle Blöcke, um Level für
+  Level zu räumen.
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
 thumbnail: /new-images/bricks-breaker.jpg
 tags:
@@ -16,33 +17,58 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Bricks Breaker* ist eine moderne Variante des zeitlosen Arcade-Klassikers.
+Dein Ziel ist es, alle Blöcke auf dem Bildschirm zu zerstören, indem du sie mit
+ einem springenden Ball triffst. Du steuerst einen Schläger am unteren
+Bildschirmrand und sorgst dafür, dass der Ball nicht ins Leere fällt.
 
-### Detailed Game Introduction
+Während du Blöcke entfernst, fallen Power-ups herab, die dir helfen, Level
+schneller zu schaffen – zum Beispiel durch einen breiteren Schläger,
+zusätzliche Bälle oder besondere Effekte des Balls. Durch viele Level,
+abwechslungsreiche Block-Formationen und spannende Power-ups bietet Bricks
+Breaker langanhaltenden Spielspaß.
 
-Bricks Breaker is a modern take on the timeless arcade classic. The objective is to destroy all the bricks on the screen by hitting them with a bouncing ball. You control a paddle at the bottom of the screen to keep the ball in play. As you break bricks, you can collect various power-ups to help you clear levels faster. With numerous levels, challenging brick formations, and exciting power-ups, Bricks Breaker offers endless fun.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  Schläger gezielt einsetzen: Deine Hauptaufgabe ist es, den Schläger so zu
+    positionieren, dass er den Ball sicher abfängt. Triff den Ball an den
+    Kanten, um den Winkel zu verändern und ihn gezielt in bestimmte
+    Bildschirmbereiche zu schicken.
+2.  Oben festsetzen: Versuche, den Ball in den Bereich über den Blöcken zu
+    bringen. Dort prallt er eine Weile hin und her und räumt viele Blöcke ab,
+    ohne dass du riskierst, ihn zu verpassen.
+3.  Power-ups einsammeln: Herabfallende Power-ups verschaffen dir große
+    Vorteile – etwa einen breiteren Schläger, mehrere Bälle gleichzeitig
+    (Multi-Ball) oder einen Laser, mit dem du Blöcke direkt abschießen kannst.
+    Fange sie, wann immer es sicher möglich ist.
+4.  Harte Blöcke priorisieren: Manche Blöcke brauchen mehrere Treffer. Konzentriere
+    dich auf diese, um das Feld zu öffnen und gefährliche Stellen zu
+    entschärfen.
+5.  Wände ausnutzen: Nutze die Seitenwände zu deinem Vorteil. Scharfe Winkel an
+    den Rändern helfen dabei, schwer erreichbare Stellen zu treffen.
 
-1.  **[DE]** **Control the Paddle:** Your primary job is to position the paddle to intercept the ball. Try to hit the ball with the edges of the paddle to change its angle and send it to different parts of the screen.
-2.  **[DE]** **Aim for the Top:** Try to get the ball into the space above the bricks. It will bounce around for a while, destroying many bricks without any risk of you missing the ball.
-3.  **[DE]** **Grab Power-Ups:** Falling power-ups can give you significant advantages, such as a wider paddle, multiple balls (multi-ball), or a laser to shoot bricks directly. Prioritize catching these.
-4.  **[DE]** **Focus on Tough Bricks:** Some bricks may require multiple hits to be destroyed. Focus your efforts on these to open up the level.
-5.  **[DE]** **Use the Walls:** Use the side walls to your advantage. Bouncing the ball off the walls at sharp angles can help you reach tricky spots.
+### Steuerung
 
-### Controls Guide
+*   Schläger bewegen: Bewege die Maus nach links oder rechts, um die Position
+    des Schlägers zu steuern.
+*   Ball starten: Klicke mit der linken Maustaste, um den Ball am Anfang eines
+    Lebens vom Schläger aus zu starten.
 
-*   **[DE]** **Move Paddle:** Move your mouse left and right to control the paddle's position.
-*   **[DE]** **Launch Ball:** Click the left mouse button to launch the ball from the paddle at the start of each life.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   F: Was ist das Ziel des Spiels?
+    *   A: Du musst alle zerstörbaren Blöcke in einem Level abräumen, um in das
+        nächste Level vorzurücken.
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** The goal is to clear all the breakable bricks in each level to advance to the next one.
+*   F: Was passiert, wenn ich den Ball verpasse?
+    *   A: Fällt der Ball am Schläger vorbei nach unten, verlierst du ein
+        Leben. Sind alle Leben aufgebraucht, ist das Spiel vorbei.
 
-*   **[DE]** **Q: What happens if I miss the ball?**
-    *   **[DE]** **A:** If the ball falls past your paddle, you will lose a life. The game ends when you run out of lives.
-
-*   **[DE]** **Q: What do the different power-ups do?**
-    *   **[DE]** **A:** Power-ups vary, but common ones include extending the paddle, splitting the ball into three (multi-ball), making the ball fiery to break through multiple bricks, or equipping your paddle with lasers.
-
+*   F: Was machen die verschiedenen Power-ups?
+    *   A: Die Effekte sind unterschiedlich, aber typische Power-ups sind zum
+        Beispiel ein verlängerter Schläger, Multi-Ball (der Ball teilt sich in
+        drei), ein feuriger Ball, der mehrere Blöcke hintereinander
+        durchschlägt, oder Laser, mit denen du direkt auf Blöcke schießen
+        kannst.

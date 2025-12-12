@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: freekick-football
-title: '[FR] Freekick Football'
+title: Freekick Football
 description: >-
-  [FR] Test your free-kick skills in Freekick Football. Aim, shoot, and score to
-  become a free-kick master.
+  Mets tes coups francs à l’épreuve dans Freekick Football : vise, frappe et
+  marque pour devenir un maître des coups de pied arrêtés.
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/freekick-football.png
 tags:
@@ -16,27 +16,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Freekick Football est un jeu entièrement dédié à l’art du coup franc. Tu dois marquer depuis différentes positions, en contournant le mur et le gardien. Chaque tentative met à l’épreuve ta précision, ton timing et ta compréhension de la trajectoire du ballon.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Freekick Football is a game that focuses on the art of the free kick in soccer. Players are challenged to score goals from various set-piece situations, navigating past defensive walls and the goalkeeper. The game tests your precision, timing, and understanding of ball physics.
+1.  Vise avec soin : trouve la meilleure trajectoire vers le but en tenant compte de la position du mur et du gardien.
+2.  Dose la puissance : trop peu et tu ne passes pas le mur, trop et tu envoies le ballon au‑dessus ou à côté.
+3.  Utilise l’effet : applique une courbe pour contourner le mur et éloigner la balle du gardien. C’est souvent la clé pour marquer sur les situations difficiles.
+4.  Analyse la situation : avant chaque tir, estime la distance, la hauteur du mur et la position du gardien pour choisir ta stratégie (frappe en force, enroulée, ras de terre, etc.).
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Aiming:** Carefully aim your shot to find a path to the goal. Consider the position of the wall and the goalkeeper.
-2.  **[FR]** **Power:** Apply the right amount of power. Too little, and you won't clear the wall; too much, and you'll miss the goal.
-3.  **[FR]** **Curve/Spin:** Use spin to bend the ball around the wall and away from the goalkeeper. This is key to scoring in difficult situations.
-4.  **[FR]** **Analyze the Situation:** Before each kick, assess the distance, the wall's position, and the keeper's stance to choose the best strategy.
+- Souris / écran tactile : vise, règle la puissance et applique l’effet au ballon. Selon la version, cela se fait via une succession de clics, glissements ou pressions maintenues.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Mouse/Touch:** Use the mouse or touch screen to aim, set power, and apply spin to the ball. The exact controls may vary slightly, but generally involve a sequence of clicks or swipes.
+- Q : Comment marquer plus régulièrement ?
+  
+  R : En t’entraînant. Teste différents niveaux de puissance et d’effet pour comprendre comment la balle se comporte. Vise les coins du but, ce sont les zones les plus difficiles à atteindre pour le gardien.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Quelle est la meilleure façon de battre le mur ?
+  
 
-*   **[FR]** **Q: How do I score more consistently?**
-    *   **[FR]** **A:** Practice is key. Experiment with different levels of power and spin to understand how the ball behaves. Aim for the corners of the goal, as these are the hardest spots for the keeper to reach.
-*   **[FR]** **Q: What's the best way to beat the wall?**
-    *   **[FR]** **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
+- **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
+
+    - **Q: What's the best way to beat the wall?**
+  R : Les frappes enroulées au‑dessus ou autour du mur sont les plus efficaces. Cherche les espaces entre les joueurs ou utilise une frappe puissante si la trajectoire est dégagée.
 

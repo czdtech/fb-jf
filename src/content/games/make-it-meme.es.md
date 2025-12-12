@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: make-it-meme
-title: '[ES] Make It Meme'
+title: "Make It Meme - Fiesta online de creación de memes"
 description: >-
-  [ES] Make It Meme is a multiplayer online party game where players compete by
-  creating and rating memes.
+  Make It Meme es un party game multijugador en línea donde los jugadores
+  compiten creando y votando memes en tiempo real.
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/make-it-meme.jpg
 tags:
@@ -17,31 +17,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+Make It Meme es un party game multijugador en línea desarrollado por Prealpha
+en el que los jugadores compiten creando y puntuando memes. El juego ofrece una
+amplia variedad de plantillas, y cada jugador tiene un tiempo limitado para
+escribir un texto ingenioso y transformar la imagen en un meme único. Después,
+todos votan las creaciones de los demás y quien acumula más puntos se lleva la
+victoria. El modo online en tiempo real lo convierte en una opción perfecta
+para quedadas con amigos.
 
-### Game Introduction
+### Estrategia de juego
 
-Make It Meme is a multiplayer online party game developed by Prealpha, where players compete by creating and rating memes. The game offers a variety of meme templates, and players need to add humorous captions within a limited time to create unique memes. Afterward, all players rate each other's creations, and the player with the highest score wins. The game supports real-time multiplayer online mode, making it suitable for gatherings with friends.
+1.  **Elegir modo:** al entrar puedes unirte a una sala pública o crear una sala
+    privada para jugar solo con amigos.
+2.  **Crear memes:** al comienzo de cada ronda, el sistema te muestra una
+    plantilla. Tienes un tiempo concreto para escribir el texto y construir un
+    meme divertido.
+3.  **Fase de votación:** cuando todos han enviado sus memes, empieza la fase
+    de votación. Los jugadores puntúan las creaciones de los demás, normalmente
+    en una escala del 1 al 5.
+4.  **Resultados:** al finalizar las votaciones, el sistema suma las
+    puntuaciones y muestra la clasificación. Quien tenga la puntuación total
+    más alta gana la ronda.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Choose Mode:** After entering the game, players can choose to join a public room or create a private room to play with friends.
-2.  **[ES]** **Create Memes:** At the beginning of each round, the system provides a meme template. Players need to add captions within the specified time to create humorous memes.
-3.  **[ES]** **Rating Phase:** After all players have completed their memes, the game enters the rating phase. Players rate each other's creations, usually on a scale from 1 to 5.
-4.  **[ES]** **Results Announcement:** After all ratings are completed, the system calculates the total score for each player and announces the rankings. The player with the highest score wins.
+*   **Crear sala:** haz clic en "Create Room", define el nombre de la sala y el
+    máximo de jugadores y comparte el código con tus amigos.
+*   **Unirse a sala:** introduce el código de sala que te pase un amigo y pulsa
+    "Join Room" para entrar en la partida.
+*   **Crear memes:** en la pantalla de edición, toca el cuadro de texto para
+    escribir tu frase y pulsa "Submit" cuando termines.
+*   **Valorar memes:** en la fase de votación, revisa las creaciones de los
+    demás jugadores, elige la puntuación que consideres y pulsa "Submit".
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Create Room:** Click the "Create Room" button, set the room name and maximum number of players, then share the room code with friends.
-*   **[ES]** **Join Room:** Enter the room code provided by a friend, then click the "Join Room" button to participate in the game.
-*   **[ES]** **Create Memes:** In the editing interface, click the text box to enter captions, then click the "Submit" button when finished.
-*   **[ES]** **Rate Creations:** In the rating interface, browse other players' creations, select the appropriate rating, and click the "Submit" button.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How to invite friends to play together?**
-**A**: After creating a private room, share the room code with friends, and they can join by entering the code.
-2.  **[ES]** **Q: How many players can play simultaneously?**
-**A**: The game supports multiple players online simultaneously, with the specific number depending on room settings, usually ranging from 3 to 12 players.
-3.  **[ES]** **Q: Is there a reporting feature in the game?**
-**A**: If you encounter inappropriate content in the game, you can use the report function or leave the current room and join another one.
+1.  **P: ¿Cómo invito a mis amigos a jugar conmigo?**  
+    **R:** Crea una sala privada y comparte el código; tus amigos solo tienen
+    que introducirlo para unirse.
+2.  **P: ¿Cuántos jugadores pueden participar a la vez?**  
+    **R:** El juego admite varios jugadores simultáneos; el máximo depende de la
+    configuración de la sala, normalmente entre 3 y 12 personas.
+3.  **P: ¿Hay sistema de reporte dentro del juego?**  
+    **R:** Si ves contenido inapropiado, utiliza la función de reporte (si está
+    disponible) o abandona la sala y únete a otra distinta.

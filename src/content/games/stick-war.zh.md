@@ -1,50 +1,48 @@
 ---
 locale: zh
 urlstr: stick-war
-title: '[ZH TRANSLATION NEEDED] Stick War'
-description: >-
-  [ZH TRANSLATION NEEDED] Lead your stickman army to victory in Stick War, a
-  classic real-time strategy game. Mine for gold, train a variety of units like
-  swordsmen, archers, and giants, and command them in battle. Destroy the enemy
-  statue while defending your own to conquer the land of Inamorta.
-iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
+title: 《Stick War》火柴人战争
+description: 《Stick War》是一款战略向的火柴人战争游戏。指挥你的火柴人士兵采集资源、训练部队、占领阵地，与敌对部落展开大规模对战。
+iframeSrc: 'https://stickwar.h5games.usercontent.goog/v/0p4k3s2b5m9n8/'
 thumbnail: /new-images/stick-war.jpg
 tags:
   - strategy
-  - rTS
   - war
-score: 3.6/5  (1080 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - stickman
+score: 4.2/5  (2200 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] Stick War is one of the most popular and highly-rated web games of all time. It is a real-time strategy game where you take command of the "Order" nation. In a world called Inamorta, where nations are devoted to their individual technologies, you must build a powerful army, destroy the enemy's statue, and conquer all territories.
+### 详细游戏介绍
 
-### Gameplay Guide
+《Stick War》把经典即时策略玩法与火柴人风格结合在一起。你扮演一方部落的统帅，需要安排工人开采资源，用资源训练不同类型的战斗单位（如剑士、弓手、长枪兵、法师等），再合理编组进攻或防守，以打破敌人的防线并摧毁其雕像/基地。
 
-[ZH TRANSLATION NEEDED] The core of the game revolves around managing resources and commanding your army.
-- **Economy:** You must train Miners to gather gold, which is the resource used to create units and purchase upgrades.
-- **Army Building:** Train a variety of units, including basic Swordwrath, ranged Archidons, tank-like Speartons, powerful Giants, and spell-casting Magikill.
-- **Combat:** You can command your army to attack or defend. A key feature is the ability to take direct control of any unit, significantly boosting its power and allowing for precise maneuvers. The ultimate goal is to destroy the enemy statue on the far side of the map.
+### 游玩策略与战术指引
 
-### Controls Guide
 
-- **Mouse:** Used to select units, click buttons to train soldiers, and direct your army.
-- **Movement (when controlling a unit):** `A` and `D` keys.
-- **Attack (when controlling a unit):** `Spacebar`.
+The core of the game revolves around managing resources and commanding your army.
+1.  **经济优先：** 开局先确保有足够工人稳定采集资源，经济基础打好后，才能持续产兵，而不会打一波就“断粮”。
+2.  **兵种搭配：** 单一兵种往往难以应付多样化敌军，尝试用肉盾 + 远程输出 + 特殊单位的组合来提高整体战斗力。
+3.  **掌握进攻节奏：** 不要在兵力太少时就盲目冲锋，也不要在优势时过长时间拖延。根据双方兵力对比，在对你有利的时间点发起总攻。
+4.  **适时转守为攻：** 遇到敌人来犯时，可以先利用防守地形和塔防优势拖垮对方，待其兵力消耗殆尽，再立刻组织反击。
 
-### Frequently Asked Questions (FAQ)
+### 操作说明
 
-[ZH TRANSLATION NEEDED] **What is the best starting strategy?**
+*   **单位控制：** 通过鼠标或快捷键选中工人或士兵，执行移动、攻击或驻守等指令；
+*   **训练与升级：** 在营地界面消耗资源训练新单位或升级现有单位属性；
+*   **技能释放：** 部分高级单位或英雄拥有主动技能，可在关键战斗中释放扭转局势。
 
-[ZH TRANSLATION NEEDED] A common and effective strategy is to immediately build a few Miners to establish a strong gold income. Then, train a single Swordwrath, take control of it, and use it to defend against the first wave of enemies while your economy grows.
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **Which units should I use?**
+**问：总是前期被敌人快速 rush 掉怎么办？****
+答：** 可以调整开局策略，多训练少量防御单位保护工人，同时加快经济发展，避免全员裸采导致被一波团灭。
 
-[ZH TRANSLATION NEEDED] A balanced army is key. Speartons are excellent for defense and absorbing arrow fire, while Archidons deal high damage from a distance. Swordwrath are cheap and good against archers. Magikill and Giants are powerful late-game units that can turn the tide of a major battle.
+**问：游戏更看重操作还是策略？****
+答：** 两者兼有，但整体更偏向宏观资源管理与编队搭配。只要思路正确，即便操作不是很极限，也有机会慢慢滚起雪球获胜。
 
-[ZH TRANSLATION NEEDED] **What should I upgrade first?**
 
-[ZH TRANSLATION NEEDED] It is highly recommended to spend your first upgrade points on your Miners' bags and your statue's income to accelerate your economy. After that, focus on upgrading the units you use most often.
 
+It is highly recommended to spend your first upgrade points on your Miners' bags and your statue's income to accelerate your economy. After that, focus on upgrading the units you use most often.
+
+**What should I upgrade first?**

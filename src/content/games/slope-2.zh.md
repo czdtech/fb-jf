@@ -1,47 +1,54 @@
 ---
 locale: zh
 urlstr: slope-2
-title: '[ZH TRANSLATION NEEDED] Slope 2'
-description: >-
-  [ZH TRANSLATION NEEDED] Slope 2 is the sequel to the popular endless running
-  game where players control a ball rolling down a steep slope, avoiding
-  obstacles and red blocks while trying to survive as long as possible in this
-  fast-paced challenge.
-iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
+title: 《Slope 2》极限斜坡 2
+description: 《Slope 2》是经典斜坡跑酷的进化续作。你将操控一颗高速滚动的球，在充满斜坡、缺口和陷阱的平台上一路下滑，挑战更快节奏和更高难度的生存极限。
+iframeSrc: 'https://slope2.h5games.usercontent.goog/v/49i8bhhk3hlt0/'
 thumbnail: /new-images/slope-2.jpg
 tags:
-  - endless runner
-  - ball
-  - slope
-score: 3.8/5  (790 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - 3d
+  - running
+  - reflex
+score: 4.4/5  (2100 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Slope 2" is the sequel to the popular endless running game where players control a ball rolling down a steep slope, avoiding obstacles and red blocks while trying to survive as long as possible in this fast-paced challenge. The game continues the core gameplay of the original while adding new features and more challenging level designs.
+《Slope 2》延续了前作的核心玩法——在无尽的绿黑科幻赛道上控制滚动小球高速下滑。赛道由各种斜坡、狭窄平台、突然出现的缺口和移动障碍组成，球的速度会随着下滑不断上升，你必须通过极其细腻的左右控制来避免坠落或撞毁。相较初代，本作在关卡结构和障碍设计上更具变化，节奏更紧张。
 
-### Gameplay Strategy
+### 游玩策略
 
-1.  **Reaction Speed**: Practice quick reactions to handle suddenly appearing obstacles and direction changes.
-2.  **Path Planning**: Observe obstacle layouts ahead and choose the safest paths.
-3.  **Speed Control**: While you can't directly control speed, you can influence the ball's movement through path selection.
-4.  **Obstacle Recognition**: Quickly identify different types of obstacles, understanding which can be touched and which must be avoided.
-5.  **Focus Training**: Maintain high concentration to avoid mistakes due to distraction.
+1.  **提前看远处赛道：** 把视线放在球前方较远的区域，提前看到即将出现的缺口、斜面和障碍块，提前做好转向准备。
+2.  **习惯小幅度微调：** 用轻微、连续的左右调整来走理想路线，而不是大角度猛转，这样更不容易在高速度下失控。
+3.  **利用斜坡改变速度：** 在较缓的斜坡上稍微“摆动”路线，可以略微控制速度节奏；陡坡则要提前预警，因为球会明显加速。
+4.  **避开“陷阱块”：** 记住哪些平台看起来宽但边缘断裂、或带有移动方块的区域，必要时宁可走窄一点的安全线。
+5.  **节奏优先于贪心：** 游戏本质上是生存挑战，不必刻意追求某条“最帅路线”。活得久自然分数就会上去。
 
-### How to Play
+### 操作说明
 
-*   **Left/Right Control**: Use A/D keys or left/right arrow keys to control the ball's left and right movement.
-*   **Maintain Balance**: Avoid excessive steering that causes the ball to lose control.
-*   **Jump**: Some versions may support jumping functionality (if available).
+*   **左右移动：** 使用键盘左右方向键或 A/D 控制球在赛道上左右偏移。
+*   **持续下滑：** 小球会自动前进并逐渐加速，你只需专注于左右控制和保持不坠落。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How can I improve survival time?**
-     **A**: Practice more to improve reaction speed and learn to predict obstacle appearance patterns.
-2.  [ZH TRANSLATION NEEDED] **Q: What if the ball is too fast to control?**
-     **A**: Stay calm, use small directional adjustments, and avoid over-correction.
-3.  [ZH TRANSLATION NEEDED] **Q: What's different from the original Slope?**
-     **A**: "Slope 2" typically includes improved graphics, new obstacle types, and more challenging level designs.
-4.  [ZH TRANSLATION NEEDED] **Q: Does the game keep high score records?**
-     **A**: Yes, the game records your highest score, and you can challenge yourself to continuously break records.
+
+- **Jump**: Some versions may support jumping functionality (if available).
+### 常见问题解答（FAQ）
+
+
+- **Q: How can I improve survival time?**
+**问：为什么到后面总是突然掉下去？****
+
+- **Q: What if the ball is too fast to control?**
+答：** 通常是视线只盯着球附近，没有提前看到前方大缺口。多练习“远视角”，并在看见危险地形时尽早移动到更安全的赛道部分。
+
+
+- **Q: What's different from the original Slope?**
+**问：本作和初代《Slope》有什么区别？****
+
+- **Q: Does the game keep high score records?**
+答：** 《Slope 2》在障碍结构、速度曲线和场景变化上更丰富，整体难度略有提升，更适合已经熟悉初代的老玩家继续挑战。
+
+**问：有没有终点或关卡？****
+答：** 大多模式仍然是无尽斜坡，目标是尽可能下滑更远、拿到更高分数，也可能解锁部分成就或外观。
+

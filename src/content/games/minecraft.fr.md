@@ -1,55 +1,45 @@
 ---
 locale: fr
-urlstr: minecraft
-title: '[FR] Minecraft'
-description: >-
-  [FR] Minecraft is a sandbox video game where players explore a blocky,
-  procedurally generated 3D world, and can discover and extract raw materials,
-  craft tools, build structures or earthworks, and create a variety of
-  mini-games or adventures.
-iframeSrc: >-
-  https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
-thumbnail: /new-images/minecraft.jpg
-tags:
-  - sandbox
-  - survival
-  - creative
-score: 4.5/5  (671 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+urlstr: "minecraft"
+title: "Minecraft"
+description: "Minecraft est un jeu vidéo sandbox où tu explores un monde 3D cubique, extrais des ressources, fabriques des outils, construis des structures et crées toutes sortes de mini‑jeux ou d’aventures."
+iframeSrc: "https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html"
+thumbnail: "/new-images/minecraft.jpg"
+tags: ["sandbox", "survival", "creative"]
+score: "4.5/5  (671 votes)"
+developer: ""
+releaseDate: 2025-08-16
 ---
 
+### Présentation du jeu
 
+Minecraft est un jeu vidéo sandbox développé par Mojang Studios. Tu explores un monde 3D constitué de blocs, récupères des ressources, construis des structures, fabriques des objets et interagis avec de nombreuses créatures. Le jeu ne te fixe pas d’objectif précis : tu es libre de créer, d’explorer et de te fixer tes propres défis. Les principaux modes incluent Survie, Créatif, Aventure et Spectateur, chacun offrant une façon différente de jouer.
 
+### Stratégies de jeu
 
+1.  **Rassembler des ressources :** coupe du bois, mine des minerais, plante des cultures, etc., afin d’obtenir les matériaux de base nécessaires à la construction et à l’artisanat.
+2.  **Fabriquer des objets :** utilise une table de craft et un four pour transformer les ressources brutes en outils, armes, blocs de construction et autres objets utiles.
+3.  **Construire un abri :** un refuge sûr est essentiel en mode Survie, surtout pour te protéger des monstres qui apparaissent la nuit.
+4.  **Explorer le monde :** pars à la découverte des villages, grottes, ruines et autres structures pour trouver des ressources rares et de l’expérience.
+5.  **Développer agriculture et élevage :** mets en place des fermes, élève des animaux et pêche pour assurer une source de nourriture stable.
 
-### Game Introduction
+### Comment jouer
 
-Minecraft is a sandbox video game developed by Mojang Studios. Players explore a 3D world made of blocks, collecting resources, building structures, crafting items, and interacting with various creatures. The game has no specific goals, allowing players to freely create and explore, thus offering a high degree of freedom. Game modes include Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
+- **Déplacement :** touches W, A, S, D pour avancer, aller à gauche, reculer et aller à droite.
+- **Saut :** barre d’espace.
+- **Attaquer / casser :** clic gauche pour frapper les créatures ou miner les blocs.
+- **Utiliser / poser :** clic droit pour utiliser un objet ou placer un bloc.
+- **Inventaire :** touche E pour ouvrir ton inventaire, gérer tes objets et crafter.
+- **S’accroupir / se faufiler :** touche Shift pour te déplacer prudemment et éviter de tomber des rebords.
 
-### Gameplay Strategy
+### Foire aux questions (FAQ)
 
-1.  **[FR]** **Gather Resources**: Chop trees, mine ores, plant crops, etc., to obtain basic materials needed for building and crafting.
-2.  **[FR]** **Craft Items**: Use a crafting table and furnace to process raw resources into tools, weapons, blocks, and more.
-3.  **[FR]** **Build Shelter**: Building a safe base is crucial for survival, especially at night to fend off monster attacks.
-4.  **[FR]** **Explore the World**: Discover villages, caves, ruins, and other structures to find rare resources and experience.
-5.  **[FR]** **Develop Agriculture and Animal Husbandry**: Establish farms, raise animals, and fish to secure food sources.
+1.  **Q : Quels sont les principaux modes de jeu de Minecraft ?**  
+    **R :** Les modes les plus utilisés sont Survie, Créatif, Aventure et Spectateur, chacun avec ses propres règles et contraintes.
+2.  **Q : Comment jouer en multijoueur ?**  
+    **R :** Tu peux jouer avec des amis via un réseau local (LAN), les serveurs Realms de Minecraft ou des serveurs tiers.
+3.  **Q : Comment obtenir des ressources rares comme les diamants ?**  
+    **R :** Les diamants apparaissent en général profondément sous terre à certaines couches ; il te faut au minimum une pioche en fer pour les miner.
+4.  **Q : Comment construire une ferme automatique ?**  
+    **R :** La plupart des fermes automatisées reposent sur la Redstone, les pistons, les courants d’eau et d’autres mécanismes qui permettent de planter, récolter et transporter les cultures sans intervention manuelle.
 
-### How to Play
-
-*   **[FR]** **Movement**: W, A, S, D keys for moving forward, left, backward, and right.
-*   **[FR]** **Jump**: Spacebar for jumping.
-*   **[FR]** **Attack/Break**: Left mouse button for attacking creatures or breaking blocks.
-*   **[FR]** **Use/Place**: Right mouse button for using items or placing blocks.
-*   **[FR]** **Open Inventory**: E key to open the player's inventory for item management and crafting.
-*   **[FR]** **Sneak**: Shift key to sneak, preventing falls from high places.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: What are the main game modes in Minecraft?**
-**A**: The main modes are Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
-2.  **[FR]** **Q: How can I play multiplayer?**
-**A**: You can play with friends via local area network (LAN), Minecraft Realms, or third-party servers.
-3.  **[FR]** **Q: How do I get rare resources (like diamonds)?**
-**A**: Diamonds typically generate deep underground at specific layers and require an iron pickaxe or higher to mine.
-4.  **[FR]** **Q: How do I build an automated farm?**
-**A**: Automated farms usually involve Redstone circuits, pistons, water flows, and other mechanisms to achieve automatic planting and harvesting of crops.

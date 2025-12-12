@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: letter-links
-title: '[ZH TRANSLATION NEEDED] Letter Links'
-description: >-
-  [ZH TRANSLATION NEEDED] A daily word-building challenge. Place your letter
-  tiles on the board to form high-scoring words, utilize bonus squares, and
-  connect all your letters in a single group.
+title: "《Letter Links》每日连词挑战"
+description: "《Letter Links》是一款策略性英文造词游戏，你需要把字母牌放在棋盘上，拼出高得分单词、吃满加成格，并让所有字母牌连成一个整体。"
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/letter-links.png
 tags:
@@ -17,34 +14,34 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Letter Links is a strategic word-building game that shares similarities with Scrabble. Each day, you are given a new set of letter tiles, each with a point value. Your goal is to place these tiles on a game board to form valid, interconnected words, much like a crossword puzzle. By strategically utilizing high-value letters and special bonus squares on the board, you aim to achieve the highest possible score.
+《Letter Links》是一款玩法接近 Scrabble（拼字游戏）的策略造词游戏。每天系统会给你一组带有分值的字母牌，你要把它们摆放在棋盘上，像填字游戏一样拼出有效的英文单词，并且所有自己放下的牌最后必须连成一个整体。通过巧妙利用高分字母和棋盘上的奖励格，你可以刷新更高总分。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Know Your Bonuses:** The key to a high score is using the bonus squares effectively.
-    * [ZH TRANSLATION NEEDED] **DL (Double Letter):** Doubles the point value of the letter placed on it.
-    * [ZH TRANSLATION NEEDED] **TL (Triple Letter):** Triples the point value of the letter placed on it.
-    * [ZH TRANSLATION NEEDED] **DW (Double Word):** Doubles the score of the entire word that uses this square.
-    * [ZH TRANSLATION NEEDED] **TW (Triple Word):** Triples the score of the entire word that uses this square.
-2.  [ZH TRANSLATION NEEDED] **Build Around the Center:** The game requires that the center star square must be occupied. Start your first word there.
-3.  [ZH TRANSLATION NEEDED] **Create Overlaps:** Don't just build one long word. The best way to score is to make a move that forms multiple words at once. For example, placing a tile that simultaneously completes a horizontal word and forms a new vertical word.
-4.  [ZH TRANSLATION NEEDED] **Use High-Value Letters Wisely:** Save your high-value letters (like Z, Q, J, X) to be placed on bonus squares like DL, TL, DW, or TW to maximize their impact.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **熟悉奖励格规则**：高分的关键在于利用好奖励格：  
+    *   **DL（双字母分）**：放在上面的字母分值翻倍。  
+    *   **TL（三字母分）**：对应字母分值变为 3 倍。  
+    *   **DW（双词分）**：使用该格的整条单词分数翻倍。  
+    *   **TW（三词分）**：整条单词分数变为 3 倍。  
+2.  **围绕中心开局**：规则通常要求第一步必须覆盖棋盘中央的星形格，因此首个单词应从中间起步，向四周扩展。  
+3.  **通过“交叉造词”刷高分**：不要只放一条长单词，尽量让每一次落字同时完成横向和纵向多个单词，这样一次行动就能获得多条单词分数。  
+4.  **谨慎使用高分字母**：将 Z、Q、J、X 等高分字母尽量放在 DL/TL 之类的奖励格上，并配合 DW/TW 来最大化单字得分。  
 
-*   **Place Tiles:** Click and drag a letter tile from your rack at the bottom to a square on the game board.
-*   **Recall Tiles:** You can drag a placed tile back to your rack before submitting if you change your mind.
-*   **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 从下方字母架中用鼠标拖动字母牌到棋盘相应格子上进行摆放。  
+- 提交前可以将不满意的位置拖回字母架重新调整。  
+- 完成布局后点击“提交/结算”按钮，系统会判断单词是否合法并计算得分。  
 
-*   **Q: Why was my word rejected?**
-     *   **A:** There are a few possibilities: 1) It's not a valid word in the game's dictionary. 2) Not all of your placed tiles are connected in a single group. 3) The center star square was not used.
+### 常见问题（FAQ）
 
-*   **Q: How are points calculated?**
-     *   **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
+*   **Q: 为什么我拼出的单词会被判无效？**  
+    *   **A:** 可能原因包括：1）单词不在游戏词典中；2）你放下的牌没有全部连成一个整体；3）第一回合没有使用到中心星形格。  
 
-*   **Q: Can I play diagonally?**
-     *   **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
+*   **Q: 分数是怎么算的？**  
+    *   **A:** 先按字母分值求和，并对在 DL/TL 上的字母先行加倍/三倍，再对整条单词套用 DW/TW 等词倍数，落字若形成多条单词则分别计算后相加。  
 
+*   **Q: 可以斜着拼单词吗？**  
+    *   **A:** 不可以。所有单词必须沿横向（从左到右）或纵向（从上到下）连续排列，斜线拼写不被认可。

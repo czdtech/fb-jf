@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: basket-random
-title: '[ZH TRANSLATION NEEDED] Basket Random'
+title: Basket Random 随机篮球
 description: >-
-  [ZH TRANSLATION NEEDED] A guide to Basket Random, the wacky and unpredictable
-  physics-based basketball game. Learn the one-button controls, strategies for
-  embracing chaos, and how to win in this hilarious 2-player game.
+  《Basket Random（随机篮球）》是一款物理引擎驱动的奇葩篮球游戏，场地、球、角色形态都会在每球得分后随机变化，主打“一键操作 + 完全拥抱混沌”的
+  2 人对战体验。
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/basket-random.jpg
@@ -19,51 +18,75 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 详细介绍
 
-[ZH TRANSLATION NEEDED] *Basket Random* is a chaotic and hilarious physics-based basketball game defined by its extreme randomness. The game pits two teams of two ragdoll-like players against each other on a 2D court. The objective is simple: be the first team to score 5 points.
+*Basket Random（随机篮球）* 是一款充满混乱与笑点的 2D 物理篮球游戏。每一方控制两名软绵绵的布偶球员，在同一块球场上对战，目标很简单：谁先拿到 5 分谁就获胜。
 
-[ZH TRANSLATION NEEDED] What makes the game unique is that almost everything changes with every point scored. The court might become long, short, or icy. The players might get long arms, big heads, or become bouncy. Even the ball itself can change, transforming from a standard basketball into a football, a bowling ball, or even a smaller, faster ball.
+真正让游戏“随机”的，是几乎一切都会在进球后发生变化：
 
-[ZH TRANSLATION NEEDED] Players have extremely limited control over their characters, who move and jump in an unwieldy, floppy manner. The gameplay is less about precise skill and more about mastering the timing of a single button press to jump, flail, and hopefully guide the ball into the opponent's hoop. This unpredictable nature makes every match a frantic and comical experience.
+- 球场可能变长、变短，甚至被冰雪覆盖；
+- 球员可能突然长出超长手臂、变成大头、或者变得弹力十足；
+- 篮球也可能随机变成橄榄球、保龄球或更小更快的特殊球体。
 
-### Gameplay Strategy
+由于物理系统非常夸张，角色动作笨拙、跳跃摇晃，一次按键往往会带来完全不可预期的翻滚和碰撞。你能做的，只是把握好“跳起/挥手”的时机，尽量在 chaos 中把球弄进对方篮筐。
 
-[ZH TRANSLATION NEEDED] Winning in *Basket Random* is about taming the chaos, not controlling it.
+### 游戏策略
 
-1.  **Embrace the Chaos:** The first and most important rule is to accept that you cannot fully control your players. They will stumble, fall, and spin unpredictably. The goal is to influence their actions at the right moment, not dictate their every move.
-2.  **Master Your Timing:** Since you only have one button, *when* you press it is the only skill that matters.
-    *   **On Offense:** Press the button to jump towards the ball or to perform a "shooting" motion when you have it. Sometimes a well-timed jump can launch the ball from your hands directly into the basket.
-    *   **On Defense:** Timing your jump correctly can block an opponent's shot or even steal the ball mid-air. Get your player between the ball and your basket.
-3.  **Use Your Opponent (and Teammate):** The physics engine applies to everyone. Bumping into other players can knock the ball loose or change their trajectory. You can even inadvertently use another player's head as a platform to jump higher.
-4.  **Adapt Instantly to New Conditions:** After every point, take a split second to assess the new random elements. Is the court now covered in ice? Is the ball heavy? Are your arms comically long? Your strategy must change immediately. For example, on an icy court, you'll slide more, so you need to press the button earlier to account for the drift.
-5.  **Positional Awareness:** Despite the randomness, try to keep your players in a useful position. On defense, stay closer to your own basket. On offense, try to get under the ball to propel it toward the opponent's hoop.
+想要在 *Basket Random* 取胜，关键不是完全控制，而是在混乱中“借力打力”。
 
-### Controls Guide
+1.  **先接受“不可控”，再谈操作：**  
+    角色会摔倒、翻滚、撞来撞去，这是设计的一部分。你的目标不是精确微操，而是在合适的时机按键，让角色在恰到好处的瞬间起跳或挥手触球。
 
-[ZH TRANSLATION NEEDED] The game is famous for its extremely simple, single-button control scheme, designed for two players on one keyboard.
+2.  **把握“一键”的节奏：**  
+    只有一个按键可以用，所以：  
+    - 进攻时在球落到身前的一瞬间按键，让角色向球和篮筐方向跳起，有机会顺势把球顶进篮筐；  
+    - 防守时，站在自家篮筐前，抓准对手出手的节奏起跳，有机会封盖或在空中把球撞走。
 
-*   **Player 1:**
-    *   **`W` Key** or **`Up Arrow` Key**: Jump / Fling arms.
-*   **Player 2:**
-    *   **`Up Arrow` Key** or **`W` Key**: Jump / Fling arms. (The controls depend on the specific version, but it's always one key per player).
-*   **For Mobile / Touchscreen Devices:**
-    *   Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
+3.  **善用“身体碰撞”：**  
+    物理引擎对所有人都生效：  
+    - 撞到对手可以把他们撞倒，让他们无法起跳；  
+    - 有时甚至可以踩在彼此头上获得更高的起跳高度；  
+    - 队友之间也能互相推搡，把队友顶到更有利的位置。
 
-### Frequently Asked Questions (FAQ)
+4.  **每得一分都要立刻观察新规则：**  
+    进球后先停半秒，看看：  
+    - 地面是不是变滑了（冰场会让滑动距离变长）；  
+    - 球是不是变重或变轻了；  
+    - 角色的手臂、身体长度是否发生变化。  
+    然后立刻调整你的按键时机和站位，比如在冰场上要提前更早起跳预判滑动。
 
-[ZH TRANSLATION NEEDED] **1. How do I properly control my character?**
-[ZH TRANSLATION NEEDED] You don't—and that's the point of the game! You can only influence your character by timing your jumps. The ragdoll physics are designed to be clumsy and unpredictable for comedic effect.
+5.  **保持基本位置感：**  
+    尽管一切都很随机，但：  
+    - 防守时尽量靠近自家篮筐附近站位；  
+    - 进攻时尽量抢到球下落位置的“内线”位置，这样更容易把球顶向对手篮筐。
 
-[ZH TRANSLATION NEEDED] **2. Why does the court/ball/player change after every point?**
-[ZH TRANSLATION NEEDED] This is the core "Random" mechanic of the game. It ensures that no two rounds are the same and keeps the gameplay fresh and unpredictable.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **3. How do I win a match?**
-[ZH TRANSLATION NEEDED] The first player (or team) to score 5 points wins the entire match.
+本作的一大特色是“一键双人”：
 
-[ZH TRANSLATION NEEDED] **4. Can I play this game by myself?**
-[ZH TRANSLATION NEEDED] Yes, *Basket Random* includes a single-player mode where you can compete against a computer-controlled AI opponent.
+*   **玩家 1：**
+    *   通常使用 `W` 或 `↑` 键来跳跃/挥手；
+*   **玩家 2：**
+    *   通常使用另一侧对应的单个按键（例如 `↑` 或 `W`，具体视版本而定）；
+*   **手机 / 触屏：**
+    *   左侧区域点击对应玩家 1，右侧区域点击对应玩家 2。
 
-[ZH TRANSLATION NEEDED] **5. What is the best "random" variation?**
-[ZH TRANSLATION NEEDED] There is no "best" variation, as they are all designed to be chaotic. However, some players find the long-armed players useful for blocking and shooting, while others enjoy the challenge of a heavy bowling ball or an icy court. The fun comes from adapting to whatever the game throws at you.
+无论平台如何，本质都是“一个按键控制跳跃/挥臂”。
+
+### 常见问题解答（FAQ）
+
+**问：要怎么才能“好好控制”角色？****
+答：** 说白了就是：不能。游戏就是要你在乱七八糟的布偶物理里找乐子。你唯一能掌控的是按键时机，而不是每一帧的位置。
+
+**问：为什么每得一分场地/球/人物都会变？****
+答：** 这是游戏名中“Random”的核心机制，用来保证每局都不一样，让你随时面对新状况，不会打久了无聊。
+
+**问：一局比赛要做到几分？****
+答：** 默认规则是先到 5 分的玩家（或队伍）获胜，也有部分版本会提供自定义分数上限。
+
+**问：可以单人玩吗？****
+答：** 可以。大多数版本都有单人模式，你可以一个人对抗 AI；也可以两人同屏各控制一键，在同一设备上对战。
+
+**问：有没有“最好用的随机形态”？****
+答：** 没有绝对最佳，全部都是为了制造混乱。有的玩家喜欢长手臂形态，便于封盖和乱挥；有的觉得沉重的保龄球更有挑战；也有人偏爱冰场带来的滑行感。乐趣就在于适应当下随机到的那一套。
 

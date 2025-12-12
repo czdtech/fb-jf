@@ -1,82 +1,40 @@
 ---
+title: "Diamond Rush ダイヤモンド・ラッシュ"
+description: "「Diamond Rush」で煌めくパズル体験を。ダイヤモンドを入れ替えてマッチさせ、ハイスコアを目指す爽快マッチ3パズル。"
+iframeSrc: "https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/"
+thumbnail: "/new-images/diamond-rush.png"
+urlstr: "diamond-rush"
+score: "4.3/5  (2010 votes)"
+tags: ["puzzle", "casual", "action"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: diamond-rush
-title: '[JA TRANSLATION NEEDED] Diamond Rush'
-description: >-
-  [JA TRANSLATION NEEDED] Experience the sparkle of Diamond Rush! A fast-paced
-  match-3 puzzle game where you swap and match dazzling diamonds to clear the
-  board and achieve high scores.
-iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
-thumbnail: /new-images/diamond-rush.png
-tags:
-  - puzzle
-  - casual
-  - action
-score: 4.3/5  (2010 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Diamond Rush（ダイヤモンド・ラッシュ）*は、瞬時の判断力が試される、眩いばかりの中毒性あるマッチ3パズルゲームです。
+隣り合うダイヤモンドを入れ替えて、同じ宝石を3つ以上並べて消していきましょう。鮮やかなグラフィックとキラキラしたアニメーション、そしてスピード感のあるゲームプレイが特徴です。時間との戦いや、特定の目標を達成して、エキサイティングなレベルを次々とクリアしていきましょう。
 
-[JA TRANSLATION NEEDED] Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges your quick thinking and matching skills. The objective is to swap adjacent diamonds to create lines of three or more identical gems, clearing them from the board and earning points. With vibrant graphics, sparkling animations, and engaging sound effects, Diamond Rush offers a classic match-3 experience with a focus on fast-paced gameplay and high scores. Race against the clock or complete specific objectives to progress through exciting levels.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **スペシャルジェム:** 4つ以上のダイヤモンドを一直線に並べたり、L字やT字に並べたりすると、強力な「スペシャルジェム」が生成されます。これらは一列消しや爆発などの効果を持ち、大量得点に不可欠です。
+2.  **目標優先:** 各レベルには「スコア達成」「特定の宝石を消す」「障害物を壊す」などの目標があります。これらを効率よく達成することに集中しましょう。
+3.  **ジェムの合成:** 最も強力な手は、2つのスペシャルジェムを隣り合わせにして入れ替えることです（ミックス）。画面全体を巻き込むような大爆発を起こせます。
+4.  **下から攻める:** 盤面の下の方でマッチを作ると、上の宝石が崩れ落ちて連鎖（カスケード）が起きやすくなります。
+5.  **時間管理:** 時間制限がある場合は長考せず、目についたマッチを素早く消していくスピードが重要です。
 
-[JA TRANSLATION NEEDED] 1.  **Look for Special Gem Combinations:** Matching four or five diamonds, or creating L/T shapes, will generate powerful special gems (like line clearers or bombs). These are crucial for clearing large sections of the board and achieving high scores.
-[JA TRANSLATION NEEDED] 2.  **Prioritize Objectives:** Each level often has specific objectives, such as reaching a certain score, clearing specific types of diamonds, or breaking through obstacles. Focus your moves on achieving these goals efficiently.
-[JA TRANSLATION NEEDED] 3.  **Combine Special Gems:** The most effective way to clear the board and overcome tough challenges is by combining two special gems. Experiment with different combinations to see their powerful effects.
-[JA TRANSLATION NEEDED] 4.  **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade effect, where new diamonds fall into place and potentially create new matches automatically. This can be a great way to rack up points and clear the board.
-[JA TRANSLATION NEEDED] 5.  **Time Management (if applicable):** If the level has a time limit, try to make quick, efficient matches. Don't spend too much time deliberating over a single move.
+### 操作ガイド
 
-### Controls Guide
+*   **入れ替え:** マウスでダイヤモンドをドラッグして、隣のダイヤモンドと入れ替えます。3つ以上並ぶ場合のみ入れ替えが成立します。
 
-*   **Swap Diamonds:** Use your mouse to click and drag a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
-    - **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.（日本語訳が必要）
-    - **A:** パワー-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
-    - **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.（日本語訳が必要）
-    - **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.（日本語訳が必要）
-    - **A:** パワー-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
-    - **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ゲームの目的は何ですか？**
+    *   **A:** レベルごとに設定された目標（ターゲットスコアや指定宝石の消去など）を達成してクリアすることです。
 
-*   **Q: What is the goal of Diamond Rush?**
-[JA TRANSLATION NEEDED]     *   **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
+*   **Q: パワーアップはどうやって作りますか？**
+    *   **A:** 4つ消しでライン消去ジェム、5つ消しでボムやカラー消去ジェムなどが作れます。
 
-*   **Q: How do I get power-ups or special diamonds?**
-[JA TRANSLATION NEEDED]     *   **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
-
-*   **Q: Is there a time limit in the game?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
-- **Q: Is there a time limit in the game?**
-    - **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
-- **Q: How do I get power-ups or special diamonds?**
-    - **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
-- **Q: What is the goal of Diamond Rush?**
-### よくある質問（FAQ）
-- **Swap Diamonds:** Use your mouse to click and drag a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
-### コントロールガイド
-- **Time Management (if applicable):** If the level has a time limit, try to make quick, efficient matches. Don't spend too much time deliberating over a single move.
-
-
-
-
-
-    - **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
-- **Q: Is there a time limit in the game?**
-    - **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
-- **Q: How do I get power-ups or special diamonds?**
-    - **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
-[JA TRANSLATION NEEDED]     *   **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
-
+*   **Q: 時間制限はありますか？**
+    *   **A:** 多くのレベルで制限時間（タイムリミット）があります。一部のレベルでは手数制限（ムーブ）の場合もあります。

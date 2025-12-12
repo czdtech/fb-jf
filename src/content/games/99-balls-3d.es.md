@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: 99-balls-3d
-title: '[ES] 99 Balls 3D'
+title: "99 Balls 3D disparos y física"
 description: >-
-  [ES] A modern twist on classic arcade action! Aim and shoot your stream of
-  balls to destroy the numbered targets. Collect rings to increase your ammo and
-  stars to unlock new weapons.
+  99 Balls 3D es un adictivo juego de disparos con física que mezcla Breakout y
+  Bubble Shooter. Apunta, lanza una lluvia de bolas y destruye los objetivos
+  numerados mientras recoges anillas y estrellas.
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/99-balls-3d.jpeg
 tags:
@@ -17,32 +17,45 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+99 Balls 3D es un puzle de disparos con física muy adictivo que combina
+mecánicas de *Breakout* y *Bubble Shooter*. Tu objetivo es destruir una serie de
+bolas numeradas que descienden poco a poco desde la parte superior de la
+pantalla. Lanzas una corriente de bolas pequeñas desde abajo y el número de cada
+bola objetivo indica cuántos impactos necesita para romperse. La clave está en
+apuntar bien para generar largas cadenas de rebotes y limpiar el tablero antes
+de que las bolas numeradas lleguen al fondo.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-99 Balls 3D is a highly addictive, physics-based puzzle shooter that combines elements of Breakout and Bubble Shooter. Your goal is to destroy a series of numbered balls that slowly descend from the top of the screen. You shoot a stream of smaller balls from the bottom, and the number on each target ball indicates how many hits it needs to be destroyed. The key to the game is to aim your shots perfectly to create long chain reactions of bounces, clearing the board before the numbered balls reach the bottom.
+1.  **Domina los tiros a banda:** Evita disparar directo a una sola bola. Lo
+    ideal es apuntar en ángulo para que tus bolas reboten en paredes y otras
+    bolas tantas veces como sea posible. Un solo disparo bien calculado puede
+    generar cientos de impactos.
+2.  **Prioriza las anillas:** Mientras juegas aparecerán anillas blancas. Son tu
+    máxima prioridad: cada una que golpees añade una bola más a tu ráfaga y
+    aumenta enormemente tu potencia de fuego para todos los tiros siguientes.
+3.  **Ataca primero a las bolas con números altos:** Son la mayor amenaza.
+    Intenta que tus disparos pasen varias veces por su zona para restarles
+    muchos puntos de vida en cada turno.
+4.  **No dejes que toquen el fondo:** Tras cada disparo, las bolas descienden un
+    paso. Si alguna bola numerada llega a la línea inferior, la partida termina.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Master the Bank Shot:** Never shoot directly at a single target. The goal is to aim your stream of balls at an angle so that they bounce off the walls and other balls as many times as possible. A single, well-aimed shot can result in hundreds of hits.
-2.  **[ES]** **Collect the Rings:** As you play, white rings will appear. Hitting these is your top priority. Each ring you collect adds one more ball to your shooting stream, dramatically increasing your firepower for all future shots.
-3.  **[ES]** **Prioritize High-Number Balls:** The balls with the highest numbers are the biggest threat. Try to position your shots so that your stream of balls will hit them multiple times.
-4.  **[ES]** **Don't Let Them Reach the Bottom:** After each shot, the balls will move one step closer to the bottom. If any numbered ball reaches the bottom line, the game is over.
+*   **Apuntar:** Mueve el ratón para controlar la guía de disparo y ver la
+    trayectoria inicial.
+*   **Disparar:** Haz clic con el botón izquierdo para lanzar la ráfaga de
+    bolas.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **Aim:** Move your mouse to control the aiming guideline. This shows the initial trajectory of your shot.
-*   **Shoot:** Click the left mouse button to fire your stream of balls.
+*   **P: ¿Qué significan los números de las bolas?**
+    *   **R:** Indican la vida de cada bola; es el número de impactos necesarios para destruirla.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo consigo más bolas para disparar?**
+    *   **R:** Golpeando las anillas blancas que aparecen en pantalla. Cada anilla suma una bola extra permanente a tu ráfaga durante esa partida.
 
-*   **Q: What do the numbers on the balls mean?**
-    *   **A:** This is the ball's "health." It indicates how many times the ball must be hit before it is destroyed.
-
-*   **Q: How do I get more balls to shoot?**
-    *   **A:** By hitting the white rings that appear on the screen. Each ring you collect permanently adds one ball to your stream for the rest of the game.
-
-*   **Q: What are the stars for?**
-    *   **A:** Collecting stars allows you to unlock new skins and weapon types from the main menu, adding a fun cosmetic element to the game.
-
+*   **P: ¿Para qué sirven las estrellas?**
+    *   **R:** Las estrellas se usan para desbloquear nuevos aspectos y tipos de armas desde el menú principal, aportando variedad visual al juego.

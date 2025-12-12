@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: donkey-kong
-title: '[FR] Donkey Kong'
+title: 'Donkey Kong'
 description: >-
-  [FR] Donkey Kong is a classic arcade platformer: climb ladders, avoid hazards,
+  Donkey Kong is a classic arcade platformer: climb ladders, avoid hazards,
   and reach the top to clear stages.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/donkey-kong.jpg

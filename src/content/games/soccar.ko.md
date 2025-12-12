@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: soccar
-title: '[KO] SocCar'
+title: "SocCar 삭카"
 description: >-
-  [KO] Get behind the wheel in SocCar, an action-packed game that combines the
-  thrill of soccer with the power of cars. Drive on the field, boost into the
-  giant soccer ball, and score goals against your opponent. Master your driving
-  and aiming skills to win the match.
+  자동차로 즐기는 축구 게임입니다. 필드를 질주하며 거대한 공을
+  밀어 넣고, 부스트와 점프로 공중 볼까지 노려 골을 기록해 보세요.
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/soccar.jpg
 tags:
@@ -19,31 +17,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-SocCar is an exciting hybrid sports game that blends the high-speed action of driving with the classic objective of soccer. Players control a car on a large field and compete to hit a giant ball into the opponent's goal. It's a game of fast reflexes, strategic positioning, and powerful boosts.
+*SocCar*는 자동차를 조종해 축구를 즐기는 하이브리드 스포츠 게임입니다.
+플레이어는 넓은 필드에서 차량을 몰며 거대한 공을 상대 골대 쪽으로
+밀어 넣어야 합니다. 빠른 반응 속도와 부스트, 점프를 활용한 공중
+볼 싸움이 핵심입니다.
 
-### Gameplay Guide
+2대2 모드에서는 팀워크와 포지셔닝이 더욱 중요해지며, 언제 공격에
+가담하고 언제 골문을 지킬지 판단해야 합니다.
 
-The main goal is to score more goals than your opponent before time runs out. Work with your teammate (if in 2v2 mode) to outmaneuver the other team. Use your car to "dribble" the ball down the field or hit it with force for a powerful shot. Control of the ball is key, as is knowing when to attack and when to fall back and defend your goal.
+### 플레이 가이드
 
-### Controls Guide
+목표는 제한 시간 안에 상대 팀보다 더 많은 골을 넣는 것입니다.
 
-- **Movement:** Use `WASD` or `Arrow Keys` to drive your car around the field.
-- **Boost/Dash:** Press `Shift` or `Spacebar` to get a burst of speed. This is crucial for reaching the ball first or making a quick save.
-- **Jump:** Use the `Right Mouse Button` or a dedicated key to make your car jump, which is useful for aerial hits.
+- 팀원과 함께 패스를 주고받으며 전진하거나, 강한 슛으로 한 번에
+  골을 노릴 수 있습니다.  
+- 모든 플레이어가 공을 쫓기보다는, 한 명은 공격, 다른 한 명은
+  수비와 리바운드/패스 포지션을 맡는 것이 효율적입니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-**What is the objective of SocCar?**
+- **이동**: `WASD` 또는 방향키로 차량을 움직입니다.  
+- **부스트/대시**: `Shift` 또는 스페이스바로 순간 가속을 사용해
+  공을 먼저 차지하거나 급히 수비 위치로 복귀할 수 있습니다.  
+- **점프**: 마우스 오른쪽 버튼 또는 전용 키로 점프해 공중 볼을
+  따내거나, 공을 위쪽으로 튕길 수 있습니다.
 
-The objective is to use your car to hit the ball into the opposing team's goal, scoring more points than them within the time limit.
+### 자주 묻는 질문(FAQ)
 
-**Is there a good strategy for winning?**
+**Q: SocCar의 목표는 무엇인가요?**  
+**A:** 자동차를 이용해 공을 상대 골대에 넣어, 시간 종료 시 더 많은
+골을 기록한 팀이 승리하는 것입니다.
 
-Teamwork and positioning are critical. Don't have all players chase the ball at once. Instead, have one player attack the ball while others position themselves for a pass, a rebound, or to defend the goal. Managing your boost effectively is also essential for success.
+**Q: 이기기 위한 좋은 전략이 있을까요?**  
+**A:** 모든 플레이어가 공만 쫓지 말고, 한 명은 공격·한 명은 수비처럼
+역할을 나누는 것이 중요합니다. 패스와 리바운드, 골문 앞 수비를
+적절히 분배하면 훨씬 안정적으로 승리할 수 있습니다.
 
-**How is this different from regular soccer?**
-
-In SocCar, you are a car! This means you can use high speeds, boosts, and jumps to interact with the ball in ways that are impossible in traditional soccer, leading to explosive and dynamic gameplay.
-
+**Q: 일반 축구와 무엇이 다른가요?**  
+**A:** 사람 대신 자동차를 조종하기 때문에, 부스트로 순간 가속을
+하거나 점프로 공중 볼을 노리는 등 현실 축구에서는 불가능한
+다이내믹한 장면을 연출할 수 있습니다.

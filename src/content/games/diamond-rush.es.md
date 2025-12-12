@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: diamond-rush
-title: '[ES] Diamond Rush'
+title: "Diamond Rush"
 description: >-
-  [ES] Experience the sparkle of Diamond Rush! A fast-paced match-3 puzzle game
-  where you swap and match dazzling diamonds to clear the board and achieve high
-  scores.
+  Vive el brillo de Diamond Rush. Un trepidante juego de puzles match‑3 en el
+  que intercambias y combinas deslumbrantes diamantes para limpiar el tablero y
+  lograr puntuaciones de récord.
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/diamond-rush.png
 tags:
@@ -17,32 +17,57 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Diamond Rush es un puzle match‑3 brillante y adictivo que pone a prueba tu
+rapidez de reflejos y tu capacidad de encontrar combinaciones. Tu objetivo es
+intercambiar diamantes adyacentes para crear líneas de tres o más gemas
+idénticas, eliminarlas del tablero y sumar puntos. Con gráficos vivos,
+animaciones chispeantes y efectos de sonido envolventes, Diamond Rush ofrece
+una experiencia clásica de match‑3 centrada en el ritmo rápido y las puntuaciones
+altas. Según el modo, competirás contra el reloj o tendrás que cumplir
+objetivos específicos para avanzar por los niveles.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges your quick thinking and matching skills. The objective is to swap adjacent diamonds to create lines of three or more identical gems, clearing them from the board and earning points. With vibrant graphics, sparkling animations, and engaging sound effects, Diamond Rush offers a classic match-3 experience with a focus on fast-paced gameplay and high scores. Race against the clock or complete specific objectives to progress through exciting levels.
+1.  **Busca combinaciones especiales:** Alinear cuatro o cinco diamantes, o
+    formar formas en L o T, genera gemas especiales (limpialíneas, bombas, etc.).
+    Son clave para despejar grandes zonas del tablero y disparar tu marcador.
+2.  **Prioriza los objetivos:** Muchos niveles tienen metas concretas, como
+    alcanzar cierta puntuación, eliminar tipos de diamante específicos o romper
+    bloques y obstáculos. Centra tus movimientos en cumplir estos objetivos de
+    la forma más eficiente posible.
+3.  **Combina gemas especiales:** La forma más potente de limpiar el tablero es
+    fusionar dos especiales. Prueba distintas combinaciones para descubrir sus
+    efectos (por ejemplo, doble limpialíneas o bomba + comodín de color).
+4.  **Trabaja desde la parte inferior:** Hacer combinaciones cerca de la base
+    puede desencadenar cascadas en las que caen nuevas piezas y se crean
+    matches automáticos. Es una excelente forma de limpiar el tablero y sumar
+    muchos puntos de golpe.
+5.  **Gestiona el tiempo (si aplica):** En niveles con límite de tiempo, intenta
+    buscar jugadas evidentes y rápidas en lugar de pensar demasiado cada
+    movimiento. La eficiencia pesa más que la perfección.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Look for Special Gem Combinations:** Matching four or five diamonds, or creating L/T shapes, will generate powerful special gems (like line clearers or bombs). These are crucial for clearing large sections of the board and achieving high scores.
-2.  **[ES]** **Prioritize Objectives:** Each level often has specific objectives, such as reaching a certain score, clearing specific types of diamonds, or breaking through obstacles. Focus your moves on achieving these goals efficiently.
-3.  **[ES]** **Combine Special Gems:** The most effective way to clear the board and overcome tough challenges is by combining two special gems. Experiment with different combinations to see their powerful effects.
-4.  **[ES]** **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade effect, where new diamonds fall into place and potentially create new matches automatically. This can be a great way to rack up points and clear the board.
-5.  **[ES]** **Time Management (if applicable):** If the level has a time limit, try to make quick, efficient matches. Don't spend too much time deliberating over a single move.
+*   **Intercambiar diamantes:** Usa el ratón o el dedo para hacer clic y arrastrar
+    un diamante hacia una casilla adyacente e intercambiarlo. El movimiento solo
+    es válido si genera al menos una combinación de tres gemas iguales.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Swap Diamonds:** Use your mouse to click and drag a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
+*   **P: ¿Cuál es el objetivo principal de Diamond Rush?**
+    *   **R:** Completar los objetivos de cada nivel, que suelen consistir en
+        eliminar diamantes para limpiar el tablero, alcanzar una puntuación
+        mínima o romper determinados obstáculos.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo consigo potenciadores o gemas especiales?**
+    *   **R:** Al unir más de tres diamantes en una sola jugada. Por ejemplo,
+        cuatro en línea pueden crear una gema que limpia filas o columnas, y
+        cinco pueden convertirse en una pieza que elimina todos los diamantes de
+        un color.
 
-*   **[ES]** **Q: What is the goal of Diamond Rush?**
-    *   **[ES]** **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
-
-*   **[ES]** **Q: How do I get power-ups or special diamonds?**
-    *   **[ES]** **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
-
-*   **[ES]** **Q: Is there a time limit in the game?**
-    *   **[ES]** **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
-
+*   **P: ¿Siempre hay límite de tiempo?**
+    *   **R:** Muchos niveles son cronometrados y te obligan a completar los
+        objetivos antes de que se agote el tiempo, pero otros están limitados
+        por número de movimientos.

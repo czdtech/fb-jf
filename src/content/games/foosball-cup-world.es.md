@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: foosball-cup-world
-title: '[ES] Foosball Cup World'
+title: "Foosball Cup World"
 description: >-
-  [ES] Foosball Cup World brings fast table‑soccer — angle shots, time spins,
-  and defend smartly across tight matches.
+  Foosball Cup World trae la emoción del futbolín rápido: coloca disparos con
+  ángulo, controla los giros en el momento justo y defiende con cabeza en
+  partidos muy ajustados.
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/foosball-cup-world.png
 tags:
@@ -16,36 +17,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Foosball Cup World es una ágil simulación de futbolín con barras muy
+responsivas y una física de balón precisa. El ataque se basa en pases en
+ángulo, disparos rápidos y giros bien sincronizados; la defensa, en cubrir los
+carriles y cortar tiros cruzados. Los partidos son cortos y exigen un control
+fino por encima del "agitar barras" sin sentido.
 
+### Estrategia de juego y recorrido
 
-### Detailed Game Introduction
+1. **Pases cortos:** Da toques suaves para empujar la pelota entre filas
+   adyacentes y remata en cuanto tengas hueco.
+2. **Cubre los carriles:** Coloca a tus defensas para bloquear el centro y solo
+   muévelos cuando sea realmente necesario.
+3. **Definición en ángulo:** Golpea el balón con la parte exterior del "pie"
+   para buscar el segundo palo.
+4. **Anti‑spin:** Para tener estabilidad, evita giros completos de 360° con la
+   barra, que suelen hacerte perder el control.
+5. **Saque inicial:** Prueba un disparo diagonal justo al sacar, antes de que
+   el rival se organice.
 
-Foosball Cup World is a quick table‑football simulation with responsive rods and crisp ball physics. Attack relies on angled passes, snap shots, and well‑timed spins; defense is about lane coverage and cutting cross‑shots. Matches are short, demanding precise control over frantic flailing.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- **Mover las barras:** WASD, flechas o arrastre con el ratón (según la
+  versión).  
+- **Disparo:** Toca o haz clic para golpear; algunas versiones separan
+  inclinación y giro.
 
-1.  **[ES]** Short passes: Tap to nudge the ball between adjacent rows, then snap‑shoot.
-2.  **[ES]** Cover lanes: Park defenders to block central lanes; move only when needed.
-3.  **[ES]** Angle finishes: Hit the ball on the outside of the foot for far‑post angles.
-4.  **[ES]** Anti‑spin: For stability, avoid full‑rod spins that lose control.
-5.  **[ES]** Kickoffs: Shoot diagonally off kickoff before the opponent settles.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **P: ¿Están permitidos los giros completos de 360°?**  
+  **R:** En muchas reglas de futbolín real están prohibidos, y el juego lo
+  refleja penalizándolos con peor control.
 
-- Move rods: WASD/Arrows/mouse drag (varies).  Shoot: Tap/flick; some builds separate tilt vs spin.
+- **P: ¿Cuál es una defensa básica eficaz?**  
+  **R:** Mantén a un defensa centrado y al portero siguiendo el ángulo del
+  balón, sin perseguirlo a lo loco.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Are full 360° spins allowed?
-
-A: Many foosball rules forbid them; the game often discourages them with poor control.
-
-- Q: Best basic defense?
-
-A: Keep one defender centered and the goalie tracking the ball’s angle; avoid chasing.
-
-- Q: Two‑player support?
-
-A: Commonly yes via shared keyboard or local hot‑seat.
-
+- **P: ¿Tiene modo para dos jugadores?**  
+  **R:** Sí, suele ofrecerse juego local a dos con teclado compartido o
+  por turnos en el mismo dispositivo.

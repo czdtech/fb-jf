@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: butterfly-shimai
-title: '[KO] Butterfly Shimai'
+title: Butterfly Shimai 버터플라이 시마이
 description: >-
-  [KO] Soar into a beautiful puzzle adventure with Butterfly Shimai! Connect
-  matching butterfly wings to make them fly away and clear the board.
+  Butterfly Shimai는 마작·연결 퍼즐 느낌이 섞인 나비 날개 매칭 게임입니다. 같은 날개 무늬를 가진 타일을 연결해 나비를
+  완성시키고, 날아가게 만들어 보드를 모두 비워 보세요.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/butterfly-shimai.png
 tags:
@@ -15,33 +15,69 @@ score: 4.6/5  (2100 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Butterfly Shimai는 마작식 패 맞추기와 "연결하기" 규칙이 결합된 편안한 퍼즐 게임입니다.
+화면 가득 펼쳐진 나비 날개 타일들 중, 같은 무늬의 날개 두 개를 찾아 연결해 완전한
+나비를 만들어 날려 보내면 해당 타일이 사라집니다. 이렇게 모든 나비를 날려 보내
+보드를 비우면 스테이지를 클리어하게 됩니다.
 
+난이도의 핵심은 **연결 규칙**에 있습니다. 두 타일은 서로를 잇는 선을 그렸을 때,
+그 선이 **최대 두 번까지만 꺾이는 경로**로 이어져야 하며, 그 경로 위에 다른 타일이
+가로막고 있어서는 안 됩니다. 각 스테이지에는 제한 시간이 있기 때문에, 여유 있게
+살피면서도 일정 속도를 유지하는 것이 중요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Butterfly Shimai is a captivating and relaxing puzzle game that combines elements of Mahjong and connect-2 mechanics. The game presents you with a board filled with beautiful butterfly wings. Your objective is to find and connect pairs of identical wings to make them form a complete butterfly and fly away, clearing the board. The challenge lies in the connection rule: wings can only be paired if a path can be drawn between them with no more than two turns, and without passing through any other wings. With a time limit for each level, you need to be quick and strategic to clear all the butterflies.
+1.  **눈에 잘 보이는 직선 매치부터 정리하기**  
+    시작할 때는 서로 인접해 있거나, 중간에 아무 타일도 가로막지 않은 직선 경로의
+    짝을 먼저 찾아 제거하세요. 이렇게 쉽게 보이는 쌍을 정리하면 보드가 넓어져
+    이후 복잡한 연결도 눈에 잘 들어옵니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **가장자리·모서리 타일 우선 공략**  
+    보드의 가장자리나 모서리에 위치한 타일은 주변에 방해물이 적어 연결 경로를
+    만들기 쉬운 편입니다. 이런 타일들을 우선적으로 치워 두면, 중앙 쪽 타일들의
+    연결 가능성이 더 많이 열립니다.
 
-1.  **[KO]** **Scan for Obvious Matches:** Start by looking for pairs of wings that are directly adjacent or have a clear, straight path between them. These are the easiest to clear and will open up the board.
-2.  **[KO]** **Prioritize Edges and Corners:** Wings located on the edges and corners of the board are often easier to connect as they have fewer blocking tiles around them. Clearing these first can create more opportunities.
-3.  **[KO]** **Look for Two-Turn Paths:** Remember the connection rule: a path can have up to two turns. Visualize these paths to find less obvious matches.
-4.  **[KO]** **Use Hints Wisely:** If you get stuck, the game usually provides a hint button. Use it when you're truly stumped, but try to solve puzzles on your own to improve your observation skills.
-5.  **[KO]** **Time Management:** Keep an eye on the timer. Making matches adds a small amount of time back, so quick and continuous matching is key to completing levels.
+3.  **두 번까지 꺾이는 경로를 머릿속으로 그려 보기**  
+    연결 선은 최대 두 번(즉, 세 구간)까지만 꺾일 수 있다는 점을 기억하세요.
+    직선으로는 막혀 보여도, 한 번 또는 두 번 꺾어 돌아가면 연결할 수 있는
+    경우가 많습니다. 상·하·좌·우로 뻗어나가는 가상의 선을 그려 가며 경로를
+    상상해 보세요.
 
-### Controls Guide
+4.  **힌트는 막힐 때 최소한으로 사용하기**  
+    막혔을 때 사용할 수 있는 힌트 버튼이 제공되는 경우가 많습니다. 하지만
+    힌트에 지나치게 의존하면 관찰력과 패턴 인식 능력을 기르기 어려우니, 정말로
+    더 이상 찾을 수 없다고 느껴질 때에만 사용하는 것을 추천합니다.
 
-*   **[KO]** **Select and Connect:** Use your mouse to click on the first butterfly wing, then click on its identical matching wing. If a valid path exists, the butterflies will fly away.
+5.  **시간 관리 신경 쓰기**  
+    대부분의 스테이지는 제한 시간이 있으며, 연속 매치를 성공하면 약간의 시간이
+    추가로 주어지는 경우도 있습니다. 멈춰 있는 시간보다, 끊임없이 매치를 이어
+    가는 것이 전체 클리어에 훨씬 유리합니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-*   **[KO]** **Q: What is the goal of Butterfly Shimai?**
-    *   **[KO]** **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
+-   **선택 및 연결:** 마우스로 첫 번째 나비 날개 타일을 클릭한 뒤, 동일한 무늬의
+    짝 타일을 클릭합니다. 규칙에 맞는 경로가 존재한다면 두 타일이 하나의 나비로
+    합쳐져 날아가며, 보드에서 사라집니다.
 
-*   **[KO]** **Q: What are the rules for connecting wings?**
-    *   **[KO]** **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: What happens if I run out of time?**
-    *   **[KO]** **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
+-   **Q. Butterfly Shimai의 최종 목표는 무엇인가요?**  
+    A. 제한 시간 내에 같은 날개를 모두 짝지어 연결해, 보드 위의 나비 날개 타일을
+    전부 제거하는 것입니다.
 
+    - **Q. 날개를 연결할 수 있는 구체적인 규칙이 궁금해요.**  
+    A. 두 타일 사이에 직선 또는 최대 두 번까지 꺾이는 경로를 그릴 수 있어야
+    하며, 그 경로가 다른 타일을 관통해서는 안 됩니다. 이 조건을 만족할 때만
+    연결이 허용됩니다.
+
+-   **Q. 시간이 다 되면 어떻게 되나요?**  
+
+    - **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
+
+- **Q: What happens if I run out of time?**
+
+    - **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
+    A. 타이머가 0이 되기 전에 모든 타일을 제거하지 못하면 스테이지 실패로
+    처리되며, 해당 레벨을 다시 시작해야 합니다.

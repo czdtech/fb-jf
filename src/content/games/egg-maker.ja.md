@@ -1,77 +1,55 @@
 ---
-locale: ja
-urlstr: egg-maker
-title: '[JA TRANSLATION NEEDED] Egg Maker'
-description: >-
-  [JA TRANSLATION NEEDED] Egg Maker is a quick kitchen puzzler — sequence prep
-  steps, time pans, and serve perfect eggs under rush pressure.
+title: Egg Maker エッグ・メーカー
+description: 「Egg Maker」はスピード勝負のキッチンパズル。手順通りに卵を割り、味付けし、完璧なタイミングで焼き上げて、お客様に最高の朝食を提供しよう。
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/egg-maker.png
+urlstr: egg-maker
+score: 3.9/5  (1641 votes)
 tags:
   - casual
   - thinky
-score: 3.9/5  (1641 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Egg Maker（エッグ・メーカー）*は、料理の工程を「割る」「混ぜる」「味付け」「焼く」「盛り付ける」「提供する」という迅速なステーション作業に凝縮した、タイムマネジメント・クッキングパズルです。
+注文ごとに調理スタイル（スクランブルエッグ、目玉焼き、オムレツ）や焼き加減が指定されます。火にかけている間も調理は進むため、作業順序と取り出すタイミングが「完璧」か「黒焦げ」かの分かれ道となります。注文ラッシュのプレッシャーの中で、手際の良さが試されます。
 
-[JA TRANSLATION NEEDED] Egg Maker distills time‑management cooking into rapid stations: crack, whisk, season, heat, plate, and serve. Each order specifies a style (scrambled, sunny‑side, omelet) and doneness windows. Items on heat continue cooking, so sequencing and pickup timing decide whether you hit “perfect” or burn.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **リズム:** 常に一番時間のかかる工程（加熱）から始め、焼いている間に短い下準備（割る、混ぜる）を行うのが鉄則です。
+2.  **2つのフライパン:** 2つのフライパンへの投入時間を数秒ずらしましょう。そうすれば、片方を盛り付けている間に、もう片方の焼き上がりを待つ余裕が生まれます。
+3.  **焼き加減:** 「Perfect（完璧）」のタイミングギリギリを狙うとスコアボーナスが入ります。見た目の変化やジュージューという音を覚えましょう。
+4.  **まとめ処理:** 似たような注文（目玉焼き2つなど）はまとめて調理し、フライパンの効率を上げましょう。
+5.  **アップグレード:** デコレーションよりも、まずは「フライパンの追加」や「下準備のスピードアップ」を優先しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Station rhythm: Always start with the longest step (heat), then backfill short prep while the pan runs.
-[JA TRANSLATION NEEDED] 2.  Two‑pan flow: Stagger pans by a few seconds so you can flip/plate one while prepping the next.
-[JA TRANSLATION NEEDED] 3.  Doneness windows: Grab at the edge of “perfect” for score bonuses; learn visual/audio tells.
-[JA TRANSLATION NEEDED] 4.  Multi‑orders: Group similar styles to reuse pan state and reduce clean cycles.
-[JA TRANSLATION NEEDED] 5.  Upgrades: Prioritize extra pan and faster prep over décor.
+### 操作ガイド
 
-### Controls Guide
+*   **操作:** タップで割る/混ぜる/味付け。ドラッグでフライパンや皿へ移動。客をタップして提供。
+*   **その他:** シフト（レベル）間のUIで一時停止やリトライが可能。
 
-- Tap to crack/whisk/season; drag to pan/plate; tap customer to serve.
-- Pause/Retry in the UI between shifts.
+### 上級者向けヒント
 
-### Advanced Tips
+*   **置き皿:** 注文が殺到する前に、提供カウンターの近くに予備の皿を用意しておくと、移動距離を短縮できます。
+*   **早めの廃棄:** 焦げてしまったら、そのまま提供してペナルティを受けるより、すぐにゴミ箱へ捨てて作り直したほうが流れを維持できます。
+*   **コンボ:** 2〜3皿を連続して提供するとチップの倍率が上がります。
 
-- Buffer trays: Stage plates near the pass so you spend less movement when orders spike.
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: すぐに焦がしてしまいます。コツは？**
 
-- Q: I keep burning items — how to fix?
-  
-[JA TRANSLATION NEEDED]   A: Stagger pans by 3–4 seconds, do short prep during the gap, and focus on auditory sizzle cues.
-
-- Q: Which upgrade first?
-  
-
-### Advanced Tips
-[JA TRANSLATION NEEDED]   A: Extra pan > faster prep > queue size. Décor is endgame.
-
-- Q: Any trick for omelets with fillings?
-  
+A: Stagger pans by 3–4 seconds, do short prep during the gap, and focus on auditory sizzle cues.
+- **A:** フライパンへの投入を3〜4秒ずらし、その隙間で短い作業を行いましょう。また、焼ける音の変化にも耳を傾けてください。
 
 
-
-
-- Q: I keep burning items — how to fix?
-### よくある質問（FAQ）
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
-
-### よくある質問（FAQ）
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
-[JA TRANSLATION NEEDED]   A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
-
-
-
-
-
-A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
-- Q: Any trick for omelets with fillings?
 A: Extra pan > faster prep > queue size. Décor is endgame.
-- Q: Which upgrade first?
-
+*   **Q: どのアップグレードがおすすめ？**
 
 A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
+    *   **A:** フライパン追加 ＞ 準備速度 ＞ 待機列の拡張 の順がおすすめです。装飾品は最後で構いません。
+
+*   **Q: 具入りのオムレツが難しいです。**
+    *   **A:** 暇な時に具材を刻んでおき、早めに投入しましょう。そして卵が固まり始めた瞬間に包むと漏れ出しません。

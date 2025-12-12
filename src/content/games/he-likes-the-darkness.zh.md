@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: he-likes-the-darkness
-title: '[ZH TRANSLATION NEEDED] He Likes The Darkness'
-description: >-
-  [ZH TRANSLATION NEEDED] He Likes The Darkness is a moody platformer — navigate
-  shadowy stages, collect orbs, and time precise jumps through hazards.
+title: "《He Likes The Darkness》他喜欢黑暗"
+description: "《He Likes The Darkness》是一款氛围感十足的极简平台动作游戏，你要在昏暗关卡中收集光球，踩准跳跃节奏、躲开陷阱，在有限视野里摸索出安全路线。"
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/he-likes-the-darkness.png
 tags:
@@ -15,32 +13,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibility, moving traps, and collectible orbs define compact stages. Mastering hop length, short stalls, and momentum preservation produces clean clears with satisfying flow.
+《He Likes The Darkness》是一款极简、高对比度的横版平台游戏。场景大多处在低可见度的暗色环境中，配合移动锯刃、尖刺等机关，再加上散落在关卡各处的光球，构成了紧凑而精炼的关卡设计。想要顺利通关，你需要精确掌握小跳与大跳的距离、短暂停顿的节奏，并在保持动能的前提下连续通过一段段高压平台段，才能体验到那种一气呵成的流畅感。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Light scouting: Use small hops to reveal platform edges without overcommitting.
-2.  [ZH TRANSLATION NEEDED] Cycle timing: Observe moving hazards (saws/spikes) for a full cycle, then commit.
-3.  [ZH TRANSLATION NEEDED] Momentum: Keep micro‑momentum through tap‑taps rather than full stops.
-4.  [ZH TRANSLATION NEEDED] Orb routing: Grab orbs on safe passes; don’t force risky backtracks.
-5.  [ZH TRANSLATION NEEDED] Retry rhythm: Fast restarts build muscle memory for tricky segments.
+### 游戏玩法与攻略
+1.  探路小跳：先用短跳在平台边缘“试水”，探出边界位置，再决定是否全力起跳，避免盲目大跳冲进陷阱。
+2.  观察机关节奏：对移动锯片、升降尖刺等机关，最好先完整观察它们一个运行周期，再选择出手时机，而不是一上来就硬闯。
+3.  保持微小动能：尽量通过点按移动和短暂停顿，而不是频繁完全停下，这样更容易维持手感与节奏，不会越走越僵硬。
+4.  合理规划光球路线：在安全路径上顺手收集光球即可，不要为了硬拿一个光球反复回跳，高风险回溯往往得不偿失。
+5.  快速重来建立肌肉记忆：失败后立刻重开同一关卡，连续练习同一段难点平台，可以很快建立节奏和手感。
 
-### Controls Guide
+### 操作说明
 
-- Move/Jump: Arrows/WASD + Space; occasional double‑jump per level rules.
+- 移动/跳跃：使用方向键或 WASD 配合空格键进行移动和跳跃；部分关卡/模式可能允许二段跳，具体以关卡提示为准。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-- Q: I can’t see edges clearly — any tip?
-  
-[ZH TRANSLATION NEEDED]   A: Feather short hops to probe boundaries; adjust brightness if available.
+- Q: 平台边缘总是看不清，很容易踩空，有什么办法？  
+  A: 可以先用短跳探一探边缘位置，再决定是否继续跳跃；如果支持的话，还可以适当调高屏幕亮度或对比度，让轮廓更清晰。
 
-- Q: Do I need all orbs?
-  
-[ZH TRANSLATION NEEDED]   A: Some levels require them; otherwise they’re optional mastery goals.
+- Q: 所有关卡都需要把光球收满吗？  
+  A: 部分关卡会要求收集全部光球才能开门，更多时候光球只是挑战与成就目标，不一定是通关硬性条件，可以根据自己习惯选择是否全收集。
 
-- Q: Any trick for moving saws?
-  
-[ZH TRANSLATION NEEDED]   A: Count beats and move on the same phase each attempt to lock timing.
-
+- Q: 遇到来回移动的锯片，有什么通用技巧？  
+  A: 先在安全区数几个节奏拍，找到它往返的节奏点，然后每次都在同一拍起跳或通过，锁定一个“固定节奏”会比临时乱冲稳定得多。

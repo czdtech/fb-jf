@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: moving-co
-title: '[ZH TRANSLATION NEEDED] Moving Co'
+title: "《Moving Co》搬家公司小管家"
 description: >-
-  [ZH TRANSLATION NEEDED] Moving Co. turns moving day into a puzzle — plan
-  routes, carry items safely, and beat the clock with tidy logistics.
+  《Moving Co.》是一款轻量级的搬家物流解谜游戏，你要规划路线、搬运家具和箱子，在尽量少的往返次数内，把物品安全送上货车并按时完成任务。
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/moving-co.png
 tags:
@@ -16,26 +15,34 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Moving Co. is a light logistics and packing challenge. Navigate rooms, pick up furniture or boxes, and move them to the truck or target spots while avoiding collisions and minimizing trips. Tight doorways, fragile items, and awkward shapes create spatial puzzles under time pressure.
+《Moving Co.》把“搬家”这件麻烦事变成了一道道有趣的物流与摆放难题。你需要在房间中来回穿梭，搬起椅子、沙发、箱子等各种大小不一的物品，将它们运送到货车或指定位置，还要避免在狭窄门框、转角处卡住或撞坏易碎品。在有限时间或步数压力下，如何规划最省事的搬运路线、如何堆放才能既稳固又省空间，都是这款游戏的乐趣所在。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Survey first: Identify large items and narrow passages; move big pieces before clutter blocks routes.
-2.  [ZH TRANSLATION NEEDED] Stack smart: Place heavy items first to stabilize loads; avoid stacking fragile pieces underneath.
-3.  [ZH TRANSLATION NEEDED] Shortest loops: Plan compact loops that grab multiple items per trip when possible.
-4.  [ZH TRANSLATION NEEDED] Turn radius: Rotate early through doors; wide turns reduce bumps and time losses.
-5.  [ZH TRANSLATION NEEDED] Handle fragile: Slow down near obstacles; a clean run beats a risky crash‑and‑restart.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **先观察再动手：** 开局先环顾一圈，找出体积最大、形状最笨重的物件，以及最窄的门、通道和转角，优先为大件预留“通道”和摆放位置。
+2.  **聪明堆叠：** 搬运时尽量把沉重、结实的家具放在底层，再把轻的、脆弱的物品放在上层或夹缝里，避免在行驶过程中晃动滚落。
+3.  **规划短回路：** 尽量让每一趟都顺路捎带多件物品，而不是“一趟只搬一件”；多设计一些“绕一圈顺手全带走”的小回路，能大幅减少总往返次数。
+4.  **提前转弯预留空间：** 在门口或狭窄转角处要提前调整搬运方向，采用宽弯切入，减少物件卡在门框上的概率，避免花时间来回调头。
+5.  **对待易碎品更温柔：** 面对带有“易碎”标识的物件，宁可多走几步也不要图快乱撞；一次顺利无碰撞的搬运，往往比冒险赶时间却反复失败更省时。
 
-- Move: Arrow keys / WASD; some versions support drag joystick.
-- Pick/Drop: Context action on contact or a dedicated button.
-- Rotate (if available): Use on‑screen arrows or Q/E.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **移动角色：** 使用方向键或 WASD 控制角色在房间中走动；部分版本支持虚拟摇杆拖拽。
+- **拾取与放下：** 靠近物品时按下互动键或点击按钮将其抱起，再移动到目标位置后再次操作放下。
+- **旋转物品（如有）：** 某些版本提供 Q/E 或屏幕箭头进行物品旋转，以便通过门框或更紧凑地堆叠。
 
-- Items keep getting stuck—what to do? Clear small clutter first or rotate earlier before doorways.
-- Do I lose score for bumps? Many modes penalize collisions or breaking fragile items; smooth movement pays off.
-- How to 3‑star? Fewer trips, early big‑item moves, and tidy stacking.
+### 常见问题（FAQ）
 
+- **问：家具总是在门口卡住怎么办？**
+  
+  **答：** 尝试提前在门前调整角度，先把家具斜着对准门，再进门内侧缓慢纠正方向；如果房间里有小件杂物挡路，也可以先清理掉再搬大件。
+
+- **问：碰撞会影响评分吗？**
+  
+  **答：** 很多关卡会对撞坏物品或严重碰撞进行扣分，甚至判定任务失败。保持平稳移动、尽量减少无谓的碰撞，有助于拿到更高星级评价。
+
+- **问：如何拿到三星评价？**
+  
+  **答：** 核心思路是：提前规划路线、优先搬运大件、减少空跑与重复回头，并保证尽量少撞击；达到指定时间/步数要求后自然能拿到更高评价。

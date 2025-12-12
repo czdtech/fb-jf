@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: aloha-mahjong
-title: '[DE] Aloha Mahjong'
+title: "Aloha Mahjong"
 description: >-
-  [DE] Aloha Mahjong is a relaxing tile‑match — find pairs, clear layers, and
-  enjoy island vibes.
+  Aloha Mahjong ist ein entspannendes Mahjong‑Solitaire. Finde offene Paare,
+  räume gestapelte Steine ab und genieße dabei die gemütliche Inselatmosphäre.
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/aloha-mahjong.jpg
 tags:
@@ -15,27 +15,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Aloha Mahjong bietet klassisches Mahjong‑Solitaire im Insel‑Look. Du suchst
+jeweils zwei identische, offene Steine, um sie vom Spielfeld zu entfernen.
+Nach und nach baust du so Schichten ab, nutzt begrenzte Mischen‑ oder
+Hinweisfunktionen und versuchst, dich nicht in eine Sackgasse zu spielen, in
+der wichtige Paare blockiert sind.
 
-### Detailed Game Introduction
+### Strategie & Walkthrough
 
-Aloha Mahjong offers classic mahjong solitaire. Match open tiles to clear stacked layouts, manage limited shuffles/hints, and solve sets without trapping key pairs.
+1.  **Offene Strukturen zuerst auflösen:** Räum Steine ab, die möglichst viele
+    neue Steine freilegen. So erhöhst du deine Zugmöglichkeiten und reduzierst
+    die Chance auf Sackgassen.
+2.  **Seltene Symbole priorisieren:** Wenn es von einem Motiv nur wenige
+    Exemplare gibt, kümmere dich früh um diese Paare. Blockierte seltene
+    Steine führen schnell zu unlösbaren Situationen.
+3.  **Vorausschauend spielen:** Überlege vor jedem Zug, welche Paare du dadurch
+    blockierst oder freilegst. Entferne möglichst keine Steine, die darunter
+    liegende wichtige Paare komplett einschließen würden.
+4.  **Mischen sparsam einsetzen:** Nutze Shuffle‑Funktionen nur, wenn wirklich
+    keine Paare mehr vorhanden sind oder du klar erkennst, dass du dich
+    anderweitig festgefahren hast.
+5.  **Zeit und Präzision abwägen:** In zeitbasierten Modi zählt jedes
+    Sekündchen, aber hektische Fehlklicks können das Layout ruinieren. Finde
+    eine Balance aus Tempo und durchdachten Zügen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Open structures: Free tiles that unlock the most others.
-2.  **[DE]** Pair priorities: Clear rare symbols early to prevent deadlocks.
-3.  **[DE]** Look ahead: Avoid removing tiles that seal deeper pairs.
-4.  **[DE]** Use shuffles sparingly when blocked.
-5.  **[DE]** Time vs. accuracy: In timed modes, balance speed with safe picks.
+- **Steine auswählen:** Klicke oder tippe auf zwei identische, offene Steine,
+  um sie zu entfernen.
+- **Hinweise/Mischen:** Nutze die entsprechenden Buttons in der Oberfläche, wenn
+  Hinweise oder Shuffle im jeweiligen Modus verfügbar sind.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Select matching open tiles to clear them.
-- Hints/Shuffles via UI if available.
+- **Keine Paare mehr – was nun?**  
+  Wenn das Spiel noch Mischen erlaubt, nutze die Shuffle‑Funktion. Andernfalls
+  bleibt nur ein Neustart mit einer anderen Zugreihenfolge.
 
-### Frequently Asked Questions (FAQ)
+- **Was gilt als "offener" Stein?**  
+  Ein Stein ist offen, wenn auf ihm kein anderer Stein liegt und mindestens eine
+  seiner langen Seiten frei ist.
 
-- No pairs? Use a shuffle if allowed or restart.
-- What is an “open” tile? One free on at least one side and not covered.
-- Multiple layouts? Usually several, with varying difficulty.
+- **Gibt es mehrere Layouts?**  
+  In vielen Versionen kannst du aus mehreren Spielbrettern mit unterschiedlicher
+  Schwierigkeit wählen – von einfachen flachen Mustern bis zu hohen,
+  mehrlagigen Türmen.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bloons-td-6
-title: '[ES] Bloons TD 6'
+title: "Bloons TD 6"
 description: >-
-  [ES] Master Bloons TD 6, the ultimate tower defense game with 3D graphics,
-  heroes, 3 unique upgrade paths per tower, and powerful Paragon monkeys. Devise
-  the perfect strategy to pop every invading Bloon!
+  Domina Bloons TD 6, la entrega definitiva de defensa de torres con gráficos en
+  3D, héroes, 3 rutas de mejora por torre y poderosos monos Parágon. Diseña la
+  estrategia perfecta para reventar hasta el último Bloon invasor.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/bloons-td-6.jpg
 tags:
@@ -16,61 +16,121 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Bloons TD 6 es la entrega más reciente y ambiciosa de la aclamada saga de
+defensa de torres. Eleva la fórmula clásica con gráficos completamente en 3D,
+nuevas mecánicas y un nivel de profundidad estratégica sin precedentes. El
+objetivo sigue siendo colocar y mejorar torres de monos para impedir que las
+oleadas de Bloons lleguen a la salida.
 
+El juego cambia por completo el sistema de mejoras al otorgar a cada torre **tres
+rutas de mejora diferenciadas**. Una misma unidad puede subir a nivel 5 en una
+ruta y hasta nivel 2 en otra (por ejemplo, builds 5/2/0 o 5/0/2), mientras que
+la tercera queda bloqueada. Esto genera una variedad enorme de roles
+especializados para cada torre.
 
-### Game Introduction
+**Principales novedades de Bloons TD 6:**
+-   **Héroes:** Eliges un Héroe poderoso para colocar en el campo. Los héroes
+    suben de nivel automáticamente durante la partida, desbloqueando nuevas
+    habilidades devastadoras sin gastar dinero de juego. Cada héroe tiene un
+    estilo de juego propio.
+-   **Tres rutas de mejora y Tier 5:** La tercera ruta y las mejoras de nivel 5
+    para cada mono amplían muchísimo las opciones estratégicas.
+-   **Monkey Knowledge:** Un árbol de progresión permanente donde gastas puntos
+    obtenidos al subir de nivel para desbloquear pequeñas pero importantes
+    mejoras globales.
+-   **Nuevos tipos de Bloons:** Aparecen el **Purple Bloon** (inmune a ataques
+    de energía, fuego y plasma) y el dirigible definitivo, el **B.A.D.** (Big
+    Airship of Doom), extremadamente resistente y que, al explotar, libera
+    ZOMGs y DDTs.
+-   **Línea de visión:** Por primera vez, los elementos 3D del mapa pueden
+    bloquear la línea de visión de ciertas torres, añadiendo una capa extra a la
+    estrategia de colocación.
+-   **Parágones:** Las torres definitivas de la fase final de la partida. Si tienes en el campo
+    las tres torres de nivel 5 de un mismo tipo de mono, puedes sacrificarlas
+    para crear una versión Paragon increíblemente poderosa.
 
-Bloons TD 6 is the latest and most expansive installment in the acclaimed tower defense series. The game elevates the classic formula with full 3D graphics, a host of new mechanics, and an unprecedented level of strategic depth. The objective remains to strategically place and upgrade monkey towers to prevent waves of "Bloons" from reaching the exit.
+### Estrategia de juego
 
-The game fundamentally changes the upgrade system by giving each tower **three distinct upgrade paths**. A single tower can be upgraded to Tier 5 on one path, and up to Tier 2 on another path (e.g., a 5/2/0 or 5/0/2 build), but the third path remains locked. This system creates an immense variety of specialized roles for every tower.
+-   **La sinergia manda:** BTD6 va de combinaciones entre torres. Una de las más
+    famosas es emparejar una torre de alto daño (por ejemplo, un Super Monkey
+    2/0/3) con un **Alchemist** 4/2/0 (`Stronger Stimulant`), que le otorga un
+    gran aumento de daño y velocidad de ataque.
+-   **Elige bien tu héroe:** Tu héroe puede definir tu planteamiento.
+    -   **Sauda:** Excelente en mapas con un único embudo o muchas esquinas
+        cerradas; domina el inicio de la partida.
+    -   **Benjamin:** Héroe de soporte que no ataca, pero genera grandes
+        cantidades de dinero y refuerza tu economía.
+    -   **Geraldo:** Un héroe "tienda" con un arsenal muy versátil de objetos
+        para cualquier situación.
+-   **Dominar las amenazas:**
+    -   **Camo:** La solución más flexible es un **Monkey Village** x/2/x
+        (`Radar Scanner`) para dar detección de camuflaje a todas las torres de
+        su radio.
+    -   **Lead:** Muchas torres pueden lidiar con ellos, pero un Alchemist es un
+        gran apoyo, ya que su ácido permite que torres de daño cortante puedan
+        reventarlos.
+    -   **Purple:** Exigen proyectiles físicos. Evita depender solo de magos
+        como Wizard Monkey o de la ruta de plasma del Super Monkey.
+    -   **DDTs:** Son la prueba definitiva: rápidos y con propiedades de Camo,
+        Lead y Black al mismo tiempo. Buenos counters son un **Wizard Monkey**
+        2/5/0 (`Prince of Darkness`), un **Ice Monkey** 0/2/5 (`Icicle Impale`) o
+        dar capacidad de dañar Lead a especialistas en Camo mediante un Monkey
+        Village x/3/x (`Monkey Intelligence Bureau`).
+-   **Construye una economía fuerte:** Las Banana Farms siguen siendo la mejor
+    fuente de dinero. La ruta 2/3/0 (`Marketplace`) ofrece ingresos automáticos
+    sin recoger bananas, mientras que la 4/2/0 (`Central Market`) es muy
+    eficiente para granjas a gran escala.
+-   **Planifica tus Parágones:** En la fase final de la partida más exigente o en Boss Events, los
+    Parágones son tu condición de victoria. Para conseguir un Paragon de alto
+    grado necesitas sacrificar tantas torres de ese tipo como puedas, acumular
+    muchos pops con ellas e invertir una gran cantidad de dinero en la mejora
+    final.
 
-**Major New Features of Bloons TD 6:**
--   **Heroes:** Players choose a powerful Hero to place on the field. Heroes level up automatically throughout the game, unlocking devastating new abilities without costing any in-game money. Each Hero has a unique playstyle.
--   **Three Upgrade Paths & Tier 5s:** The addition of a third path and powerful Tier 5 upgrades for every monkey provides a massive increase in strategic options.
--   **Monkey Knowledge:** A persistent meta-progression tree where players spend points earned from leveling up to grant small but significant permanent buffs to their towers.
--   **New Bloon Types:** Introduces the **Purple Bloon** (immune to energy, fire, and plasma attacks) and the ultimate blimp, the **B.A.D.** (Big Airship of Doom), which is incredibly durable and releases ZOMGs and DDTs when popped.
--   **Line of Sight:** For the first time, 3D objects on the map can block the line of sight of certain towers, adding a new layer to placement strategy.
--   **Paragons:** The ultimate late-game towers. By having all three Tier 5 towers of a single monkey type on the field, you can sacrifice them to create an immensely powerful Paragon version of that monkey.
+### Guía de controles
 
-### Gameplay Strategy
+Los controles son intuitivos tanto en PC (ratón) como en móvil (táctil).
 
--   **Synergy is King:** BTD6 is all about tower combinations. The most famous synergy is pairing a strong damage tower (like a 2/0/3 Super Monkey) with a 4/2/0 **Alchemist** (Stronger Stimulant), which provides a massive boost to damage and attack speed.
--   **Choose the Right Hero:** Your Hero can define your strategy.
-    -   **Sauda:** Excellent for maps with single choke points or sharp corners, dominating the early game.
-    -   **Benjamin:** A non-attacking hero who generates large amounts of money and strengthens your economy.
-    -   **Geraldo:** A "shop" hero who provides a versatile toolkit of items for any situation.
--   **Mastering the Threats:**
-    -   **Camo:** The best all-around solution is a x/2/x **Monkey Village** (Radar Scanner) to grant camo detection to all nearby towers.
-    -   **Lead:** Many towers can handle lead, but an Alchemist is a great support option as its acid can allow sharp-damage towers to pop them.
-    -   **Purple:** These require physical projectiles. Avoid relying solely on magic-users like the Wizard Monkey or Super Monkey's plasma path.
-    -   **DDTs:** These are the ultimate test. They are fast and have Camo, Lead, AND Black Bloon properties. Key counters include a 2/5/0 **Wizard Monkey** (Prince of Darkness), a 0/2/5 **Ice Monkey** (Icicle Impale), or granting lead-popping power to camo specialists via a x/3/x **Monkey Village** (Monkey Intelligence Bureau).
--   **Build a Strong Economy:** Banana Farms are still the best way to generate money. The 2/3/0 `Marketplace` path provides hands-free income, while the 4/2/0 `Central Market` path is highly efficient for large-scale farming.
--   **Plan for Paragons:** In extreme late-game or Boss Events, Paragons are your win condition. To get a high-degree Paragon, you need to sacrifice as many towers of that type as possible, have a high pop count on them, and invest a lot of money into the final upgrade.
+-   **Colocar y mejorar:** Selecciona una torre en el panel y colócala en el
+    mapa. Pulsa sobre ella para abrir el menú de mejoras con las tres rutas.
+-   **Habilidades del héroe:** Aparecen sobre el indicador de nivel del héroe.
+    Haz clic para activarlas.
+-   **Habilidades de torres:** Las habilidades activas de torres normales se
+    muestran en la esquina inferior izquierda.
+-   **Atajos (PC):** Cada tipo de mono y sus rutas de mejora tienen teclas de
+    acceso rápido (por ejemplo, Q para Dart Monkey, 1/2/3 para las rutas). Esto
+    permite un juego muy rápido a los jugadores expertos.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The controls are intuitive for PC (mouse) and mobile (touch).
+**1. ¿Cuál es el mejor héroe para empezar?**
+> **Sauda** suele considerarse el héroe más amigable para principiantes: es
+> relativamente barata y puede encargarse casi sola de las primeras 20–30
+> rondas en mapas sencillos, dejándote libre para construir tu economía.
 
--   **Placing/Upgrading:** Select a tower from the panel, place it on the map. Tap/click the tower to open its three-path upgrade menu.
--   **Hero Abilities:** Your Hero's abilities appear above their level indicator. Click them to activate.
--   **Tower Abilities:** Activated abilities for regular towers appear in the bottom-left corner of the screen.
--   **Hotkeys (PC):** Each monkey tower and its upgrades are assigned a hotkey (e.g., Q for Dart Monkey, 1/2/3 for upgrade paths). This allows for extremely fast gameplay for experienced players.
+**2. ¿Cómo paro a los DDTs? Siempre rompen mi defensa.**
+> Los DDTs requieren una defensa multifacética: torres con detección de Camo,
+> capacidad de dañar Lead/Black y mucho daño. Un Monkey Village con **Monkey
+> Intelligence Bureau (x/3/x)** es casi imprescindible, porque permite que todas
+> las torres cercanas dañen cualquier tipo de Bloon. Acompáñalo con torres de
+> alto daño como un Tack Shooter 2/0/5 o una Perma‑Spike factory 0/2/5.
 
-### Frequently Asked Questions (FAQ)
+**3. ¿Por qué no puedo dañar a los Purple Bloons?**
+> Los Purple Bloons son inmunes a ataques de energía, plasma, fuego y magia. Eso
+> incluye muchas mejoras del Wizard Monkey y de ciertas rutas del Super Monkey.
+> Debes usar torres que disparen proyectiles físicos, como un Crossbow Master
+> (Dart Monkey 0/2/5) o un Juggernaut (Dart Monkey 5/x/x).
 
-**1. What is the best Hero to start with?**
-> **Sauda** is widely considered the most beginner-friendly Hero. She is relatively cheap and can single-handedly beat the first 20-30 rounds on most beginner maps, allowing you to focus on building your economy.
+**4. ¿Cómo creo un Paragon?**
+> Primero necesitas tener en el mapa las tres torres de nivel 5 de un mismo
+> tipo de mono (por ejemplo, los tres Tier 5 de Dart Monkey). Cuando lo
+> consigas, el botón de mejora de una de ellas cambiará a mejora Paragon. La
+> fuerza del Paragon depende del número de torres sacrificadas, sus pops totales
+> y el dinero invertido.
 
-**2. How do I beat DDTs? They are destroying my defense.**
-> DDTs require a multi-faceted defense. You need towers that can see camo, pop lead/black, and have high damage. A Monkey Village with **Monkey Intelligence Bureau (x/3/x)** is invaluable, as it lets all nearby towers damage any Bloon type. Pair this with high-damage towers like a 2/0/5 Tack Shooter or a 0/2/5 Perma-Spike factory.
-
-**3. Why can't I damage the Purple Bloons?**
-> Purple Bloons are immune to energy, plasma, fire, and magic-based attacks. This includes many upgrades from the Wizard Monkey and Super Monkey. You must use towers that fire physical projectiles, like a Crossbow Master (Dart Monkey 0/2/5) or a Juggernaut (Dart Monkey 5/x/x).
-
-**4. How do I make a Paragon?**
-> To create a Paragon, you must first have all three Tier 5 towers of a single monkey type (e.g., all three Tier 5 Dart Monkeys) placed on the map. Once you do, the upgrade button on any of them will change to a Paragon upgrade. The power of the Paragon depends on factors like the number of towers sacrificed, their total pop count, and money invested.
-
-**5. What is CHIMPS mode?**
-> CHIMPS is the hardest game mode in BTD6. It's an acronym for the rules: **N**o **C**ontinues, **N**o **H**earts Lost, **N**o **I**ncome (other than popping Bloons), **N**o **M**onkey Knowledge, **N**o **P**owers, and **N**o **S**elling. It is the ultimate test of a player's strategy.
-
+**5. ¿Qué es el modo CHIMPS?**
+> CHIMPS es el modo más difícil de BTD6. El nombre recoge sus reglas en inglés:
+> **N**o **C**ontinues, **N**o **H**earts Lost, **N**o **I**ncome extra, **N**o
+> **M**onkey Knowledge, **N**o **P**owers y **N**o **S**elling. Es la prueba
+> definitiva de la estrategia de cualquier jugador.

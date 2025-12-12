@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: happy-wheels
-title: '[KO] Happy Wheels'
+title: Happy Wheels 해피 휠즈 공략
 description: >-
-  [KO] A detailed guide to the notoriously graphic and humorous physics-based
-  game, Happy Wheels. Learn gameplay strategies, controls, and answers to common
-  questions for surviving its deadly user-created levels.
+  잔혹하면서도 블랙 코미디 감성으로 유명한 물리 기반 플랫포머 Happy Wheels에 대한 상세 가이드입니다. 각 캐릭터별 특징과 생존
+  전략, 조작법, 자주 묻는 질문을 정리해 유저 제작 데드트랩 스테이지를 버텨내는 법을 소개합니다.
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
 thumbnail: /new-images/happy-wheels.jpg
 tags:
@@ -20,55 +19,97 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **게임 소개**
 
-Happy Wheels is a physics-based, side-scrolling platformer game known for its graphic violence and dark humor. The gameplay does not focus on simply winning, but on survival. Players control a variety of unconventional characters, each with a unique and often comically unsafe vehicle, such as a dad on a bicycle with his son, a man in a jet-powered wheelchair, or a person on a Segway.
+`Happy Wheels`는 물리 엔진을 활용한 횡스크롤 플랫포머로, 과장된 폭력성과
+블랙 코미디로 유명한 작품입니다. 목표는 “깔끔하게 승리”가 아니라 **어떻게든
+살아서 결승선에 도달하는 것**에 가깝습니다. 플레이어는 자전거를 탄 아빠와 아들,
+제트 휠체어를 탄 남자, 세그웨이를 탄 직장인 등 다소 위험해 보이는 탈것을 탄
+기묘한 캐릭터들을 조종하게 됩니다.
 
-The primary objective in most levels is to navigate a treacherous obstacle course and reach a finish line. The challenge lies in the game's brutal and realistic physics engine. Characters can be dismembered, crushed, and impaled in countless gruesome ways, yet can often continue towards the goal as long as their core body is intact.
+대부분의 스테이지 목표는 각종 함정과 장애물로 가득한 코스를 통과해 골인
+지점에 도착하는 것입니다. 현실감 있는 래그돌 물리 덕분에 캐릭터는 사지가
+잘리거나 압사·관통되는 등 온갖 참사를 겪을 수 있지만, 몸통만 완전히 사라지지
+않았다면 기어서라도 목표 지점에 도달할 수 있습니다.
 
-A defining feature of Happy Wheels is its extensive user-generated content. The game includes a powerful level editor, allowing players to create and share their own complex, creative, and often sadistic courses. This results in a virtually endless supply of levels, ranging from simple races to elaborate puzzle-solving adventures and impossible-to-survive death traps.
+Happy Wheels의 핵심은 방대한 **유저 제작 레벨**입니다. 강력한 레벨 에디터가
+제공되어, 플레이어가 직접 말도 안 되는 코스를 만들고 공유할 수 있습니다.
+덕분에 단순 레이스부터 퍼즐, 로프 스윙, “절대 깰 수 없는” 데드트랩까지
+사실상 무한에 가까운 콘텐츠를 즐길 수 있습니다.
 
-### **Gameplay Strategy & Tips**
+### **플레이 전략 & 팁**
 
-1.  **[KO]** **Control Your Speed**: Speed is not always your friend. Going too fast often leads to losing control and crashing into an obstacle. Learn to gently accelerate and decelerate to navigate tight spaces and unpredictable terrain.
-2.  **[KO]** **Master Your Character**: Each character controls differently and has unique special abilities.
-    *   **[KO]** **Wheelchair Guy**: His jet booster provides a powerful burst of speed, useful for clearing large gaps, but it's hard to control. Use it in short bursts.
-    *   **[KO]** **Segway Guy**: Can jump, making him more agile for platforming challenges. His upright stance, however, makes him very unstable.
-    *   **[KO]** **Irresponsible Dad**: Can brake hard. His son adds extra weight and can be detached, sometimes serving as a morbid counterweight or shield.
-3.  **[KO]** **Lean for Balance**: Leaning your character forward and backward (using the up and down arrow keys) is crucial for maintaining balance. Lean back when going up steep hills to prevent flipping over, and lean forward when going down to maintain speed and control.
-4.  **[KO]** **Survival Over Perfection**: You don't need to finish a level in pristine condition. You can win a level even if your character has lost both legs and an arm. The goal is to get the character's torso to the finish line. Sometimes, sacrificing a limb to an obstacle is a viable strategy.
-5.  **[KO]** **Learn to Eject**: The 'Z' key allows most characters to eject from their vehicle. This is a last-ditch move that can be used to fling your character's body across a gap to the finish line when the vehicle is destroyed or stuck.
-6.  **[KO]** **Explore Different Level Types**: Don't just play the featured levels. Use the level browser to find different kinds of challenges. Search for terms like "puzzle," "rope swing," or "BMX" to find unique and creative maps made by the community.
+1. **속도 조절이 생존의 핵심**  
+   무조건 빠르게 가는 것이 답은 아닙니다. 과속하면 제어를 잃고 함정에 그대로
+   날아들기 쉽습니다. 좁은 구간이나 낙하 트랩이 의심될 때는 가속과 브레이크를
+   번갈아 쓰며 속도를 세밀하게 조절하세요.
 
-### **Controls Guide**
+2. **캐릭터 특성을 익히기**  
+   각 캐릭터는 조작감과 특수 능력이 크게 다릅니다.  
+    - **Wheelchair Guy**: 스페이스바로 강력한 제트 부스터를 사용해 큰 구멍을
+     건너뛸 수 있지만, 제어가 매우 어려우므로 짧게 끊어 쓰는 것이 좋습니다.  
+    - **Segway Guy**: 점프가 가능해 정밀한 플랫폼 구간에 유리하지만, 직립
+     자세라 균형이 쉽게 무너집니다.  
+    - **Irresponsible Dad**: 강한 브레이크를 사용할 수 있고, 아들 몸을 “방패”나
+     무게추처럼 활용하는, 다소 블랙 코미디스러운 플레이가 가능합니다.
 
-The controls are relatively standard but have specific functions for each character.
+3. **기울이기로 균형 잡기**  
+   오르막에서는 뒤로(위/왼쪽 방향 키 조합), 내리막에서는 앞으로 기울여
+   속도와 균형을 동시에 조절해야 합니다. 기울이기를 잘 활용하면 착지 시
+   충격을 줄이고, 머리부터 떨어지는 참사를 피할 수 있습니다.
 
-**Primary Controls:**
-*   **[KO]** **Accelerate**: `Up Arrow` key
-*   **[KO]** **Decelerate / Reverse**: `Down Arrow` key
-*   **[KO]** **Lean Left / Backward**: `Left Arrow` key
-*   **[KO]** **Lean Right / Forward**: `Right Arrow` key
+4. **완벽 대신 생존을 선택하기**  
+   이 게임에서 팔, 다리 하나쯤은 사라져도 문제 없습니다. 대부분의 스테이지는
+   **몸통(토르소)**만 결승선에 도달해도 클리어로 인정됩니다. 무리하게 완벽한
+   자세를 고집하기보다, 최소한의 피해로라도 앞으로 나아가는 편이 나을 때가
+   많습니다.
 
-**Action Keys:**
-*   **[KO]** **Primary Special Ability**: `Space Bar` (e.g., Wheelchair Guy's jet, Segway Guy's jump)
-*   **[KO]** **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
-*   **[KO]** **Eject**: `Z` key (abandons the vehicle)
+5. **탈출(Eject) 기능 활용**  
+   `Z` 키로 대부분의 캐릭터는 탈것에서 몸을 던질 수 있습니다. 차량이 망가져
+   더 이상 진행이 불가능할 때, 몸만 날려 골인 지점에 떨어뜨리는 마지막
+   수단으로 활용할 수 있습니다.
 
-### **Frequently Asked Questions (FAQ)**
+6. **다양한 레벨 타입 탐색**  
+   기본 제공 레벨만 돌지 말고, 레벨 브라우저에서 “puzzle”, “rope swing”,
+   “BMX” 등 키워드로 검색해 커뮤니티가 만든 특색 있는 맵들을 찾아보세요.
 
-**1. Why is this game so graphic and violent?**
-The over-the-top, graphic violence is a core part of the game's identity and its black humor. It's a defining feature of its physics-based ragdoll system, designed to be shocking and absurdly funny.
+### **조작 방법**
 
-**2. Can I still win if my character is badly injured?**
-Yes. The win condition for most levels is for the main character's torso to cross the finish line. You can win even after losing all limbs.
+캐릭터별로 일부 기능이 다르지만, 기본 조작 체계는 다음과 같습니다.
 
-**3. How do I find good or fun levels to play?**
-Use the in-game level browser. You can play the "Featured Levels," which are curated by the community, or browse the most played levels. You can also use the search function to look for specific types of levels or creators.
+**기본 이동 조작**  
+* **전진(가속)**: `↑` 화살표  
+* **감속/후진**: `↓` 화살표  
+* **왼쪽으로 기울이기/뒤로 젖히기**: `←` 화살표  
+* **오른쪽으로 기울이기/앞으로 숙이기**: `→` 화살표  
 
-**4. Some characters or levels are not available. How do I unlock them?**
-In the free web version of the game, many characters and the level editor are often locked or limited. The full version of the game typically provides access to all characters and features.
+**액션 키**  
+* **주요 특수 능력**: `Space` (예: Wheelchair Guy 제트, Segway Guy 점프)  
+* **보조 특수 능력**: `Shift`, `Ctrl` (탈출 후 팔·다리 움직임 등)  
+* **탈출(Eject)**: `Z` (탈것에서 몸만 분리)  
 
-**5. The game is running very slowly or lagging. What can I do?**
-Happy Wheels can be demanding on your computer, especially on very large or complex user-created levels with many objects. Try closing other browser tabs and applications to free up resources. Playing on a more powerful computer or using a different web browser can also help.
+### **자주 묻는 질문(FAQ)**
 
+**1. 왜 이렇게 폭력적이고 과격한 표현이 많은가요?**  
+과장된 폭력과 끔찍할 정도의 래그돌 모션은 이 게임 특유의 블랙 코미디와
+물리 엔진을 강조하기 위한 의도적인 연출입니다. 충격과 웃음을 동시에 주는
+것이 Happy Wheels의 정체성에 가깝습니다.
+
+**2. 캐릭터가 심하게 다쳐도 클리어가 가능한가요?**  
+가능합니다. 대부분의 스테이지는 캐릭터의 몸통만 골인 지점에 닿으면
+클리어로 처리되므로, 팔·다리가 전부 날아가도 토르소만 살아 있으면 희망이
+있습니다.
+
+**3. 재미있는 레벨은 어디서 찾을 수 있나요?**  
+게임 내 레벨 브라우저에서 `Featured Levels`나 `Most Played`를 먼저
+살펴보세요. 마음에 드는 제작자를 발견하면 해당 유저 이름으로 검색해
+같은 사람이 만든 다른 레벨도 즐길 수 있습니다.
+
+**4. 어떤 캐릭터나 레벨이 잠겨 있는데, 어떻게 해금하나요?**  
+웹 무료 버전에서는 일부 캐릭터와 에디터 기능이 제한되어 있을 수 있습니다.
+정식 버전에서는 대부분의 캐릭터와 기능을 사용할 수 있습니다.
+
+**5. 게임이 너무 느리거나 렉이 걸립니다. 해결 방법이 있나요?**  
+오브젝트가 많은 거대한 유저 맵에서는 PC 성능을 많이 요구합니다. 다른
+브라우저 탭이나 프로그램을 종료해 자원을 확보하거나, 사양이 더 좋은
+컴퓨터나 다른 브라우저에서 실행해 보세요.

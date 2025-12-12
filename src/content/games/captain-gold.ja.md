@@ -1,74 +1,50 @@
 ---
-locale: ja
-urlstr: captain-gold
-title: '[JA TRANSLATION NEEDED] Captain Gold'
-description: >-
-  [JA TRANSLATION NEEDED] Captain Gold is a classic gold‑miner challenge — time
-  throws, hook valuables, and avoid rocks to hit quotas.
+title: Captain Gold キャプテン・ゴールド
+description: 「Captain Gold」は王道のゴールドマイナーゲーム。スイングするフックをタイミングよく放ち、岩を避けて金塊や宝物を釣り上げよう。ノルマ達成を目指せ！
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/captain-gold.png
+urlstr: captain-gold
+score: 3.9/5  (1683 votes)
 tags:
   - casual
   - thinky
-score: 3.9/5  (1683 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Captain Gold（キャプテン・ゴールド）*は、時代を超えて愛される「ゴールドマイナー（金採掘）」ゲームの王道スタイルを踏襲しています。画面上部で左右に揺れ続けるフック（鉤爪）をタイミングよく発射し、地中に埋まった金塊や宝石などの宝物を釣り上げましょう。
 
-[JA TRANSLATION NEEDED] Captain Gold follows the timeless gold‑miner formula: swing a hook across the screen and release at the right moment to snag gold nuggets and treasures. Heavy objects pull slowly, light ones reel in faster. Stages set cash targets and time limits, with shop upgrades between rounds.
+重い物は引き上げるのに時間がかかり、軽い物は素早く引き上げることができます。各ステージには制限時間と「目標金額（ノルマ）」が設定されており、それをクリアすることで次のステージへ進めます。ラウンド間にはショップで買い物をして、装備をアップグレードできます。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  Prioritize big nuggets and bags early for faster quota.
-[JA TRANSLATION NEEDED] 2.  Avoid rocks — they’re heavy and low value unless you must clear space.
-[JA TRANSLATION NEEDED] 3.  Use dynamite (if available) to drop unwanted items mid‑reel.
-[JA TRANSLATION NEEDED] 4.  Shop smart: buy power‑reel or extra dynamite first; evaluate per stage layout.
-[JA TRANSLATION NEEDED] 5.  Timing cues: Release slightly before the hook lines up due to swing momentum.
+1.  **大物を狙う：** 大きな金塊やドル袋（中身はランダムですが高額なことが多い）を序盤から優先的に狙いましょう。素早くノルマに近づくことができます。
+2.  **岩（Rock）は避ける：** 岩は重くて引き上げるのに時間がかかる上に、価値が非常に低いです。進路を塞いでいる時以外は無視しましょう。
+3.  **ダイナマイトを使う：** もし間違って重い岩を掴んでしまったら、ショップで購入したダイナマイトを使って爆破しましょう。時間を無駄にせずに済みます。
+4.  **ショップでの買い物：** 巻き上げ速度を上げる「パワーリール」や「ダイナマイト」は最優先で購入しましょう。ステージ構成を見て必要なアイテムを見極めることが重要です。
+5.  **タイミングのコツ：** フックは常に揺れ続けています。狙ったラインに来るほんの少し手前でボタンを押すと、慣性でちょうど良い場所に飛びます。
 
-### Controls Guide
+### 操作ガイド
 
-- Tap/Click to release the hook; tap again to use dynamite if supported.
-- Navigate shop menus between levels.
+*   **フック発射：** 画面をタップ（またはクリック）するとフックが伸びます。
+*   **ダイナマイト使用：** 物を巻き上げている最中にもう一度タップ（クリック）すると、ダイナマイトを投げて掴んでいるものを破壊します（※持っている場合のみ）。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-- Q: I keep coming up short on cash — any tips?
-  
-[JA TRANSLATION NEEDED]   A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
+*   **Q: ノルマに届かずゲームオーバーになります。コツは？**
 
-- Q: Is dynamite worth it?
-  
-[JA TRANSLATION NEEDED]   A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
-
-- Q: Can I control hook angle precisely?
-  
+A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
+- **A:** とにかく「価値のあるもの」だけを狙うことです。岩や小さなゴミを掴んでいる時間は命取りです。また、巻き上げ速度強化も必須です。
 
 
-
-
-
-- Q: I keep coming up short on cash — any tips?
-### よくある質問（FAQ）
-- Navigate shop menus between levels.
-- Tap/Click to release the hook; tap again to use dynamite if supported.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Learn the swing rhythm; release a fraction early to account for motion.
-
-
-
-
-
+A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
+*   **Q: ダイナマイトは買うべきですか？**
 
 A: Learn the swing rhythm; release a fraction early to account for motion.
-- Q: Can I control hook angle precisely?
-A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
-- Q: Is dynamite worth it?
+    *   **A:** 岩が多いステージでは必須です。安い岩を引いてしまった時のタイムロスを防げるので、結果的に元が取れます。
 
-
-
-
-A: Learn the swing rhythm; release a fraction early to account for motion.
-- Q: Can I control hook angle precisely?
-A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
+*   **Q: フックの角度を微調整できませんか？**
+    *   **A:** できません。揺れるリズムを体で覚え、予測して発射する技術が求められます。

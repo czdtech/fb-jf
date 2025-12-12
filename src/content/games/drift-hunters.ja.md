@@ -1,42 +1,57 @@
 ---
-locale: ja
-urlstr: drift-hunters
-title: '[JA TRANSLATION NEEDED] Drift Hunters'
-description: >-
-  [JA TRANSLATION NEEDED] Drift Hunters is a 3D drifting racer: tune cars, chain
-  drifts, and rack up points across tracks.
+title: Drift Hunters ドリフト・ハンターズ
+description: 「Drift Hunters」は本格3Dドリフト・レーシング。マシンをチューニングし、美しいドリフトを繋げてポイントを稼ぎ、最強のドリフターを目指せ。
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/drift-hunters.jpg
+urlstr: drift-hunters
+score: 5.0/5  (563 votes)
 tags:
   - racing
   - simulation
-score: 5.0/5  (563 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Drift Hunters（ドリフト・ハンターズ）*は、車の挙動やチューニングにこだわった、本格的な3Dドリフトシミュレーターです。
+プレイヤーはドリフト走行を維持することでポイントを獲得し、そのポイント（賞金）で新しい車の購入や、エンジンのアップグレード、サスペンションの調整などを行います。サーキットから峠道まで、様々なコースでタイヤを鳴らし、白煙を上げましょう。
+
+### 遊び方
+
+*   **ポイント獲得:** コンボを途切れさせないように、スムーズで長いドリフトを続けるとポイント倍率が上がります。障害物に衝突するとコンボがリセットされます。
+*   **チューニング:** ギア比、キャンバー角、ブレーキバランスなどをコースや自分のスタイルに合わせて調整できます。
+*   **アップグレード:** 稼いだクレジットで、ターボ、エンジン、軽量化、そして高品質なタイヤを購入し、車の性能を底上げしましょう。
+
+### 操作ガイド
+
+*   **W / 上矢印:** アクセル
+*   **S / 下矢印:** ブレーキ
+*   **A / D または 左右矢印:** ステアリング（ハンドル）
+*   **Space:** ハンドブレーキ（サイドブレーキ）
+*   **C:** カメラ視点切り替え
+*   **R:** リセット（車がスタックした時など）
+
+### 攻略のヒント
+
+*   **アクセルワーク:** 常に全開にするのではなく、ドリフト中はアクセルを小刻みに調整（フェザリング）して、スピンを防ぎましょう。
+*   **きっかけ作り:** 低速コーナーへの進入では、スペースキー（ハンドブレーキ）を軽く叩いてドリフトのきっかけを作るとスムーズです。
+*   **定常円旋回:** まずは広い場所でドーナツターン（定常円旋回）を練習し、アクセルとハンドルのバランス感覚を養いましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: 車は壊れますか？**
+
+A: Visual only on many hosts; collisions break combos.
+- **A:** 多くのバージョンでは見た目のダメージのみで、走行不能にはなりませんが、衝突すると大事なコンボポイントが消えてしまいます。
 
 
-### Overview
-[JA TRANSLATION NEEDED] 3D drift racer: earn points by maintaining controlled slides, invest earnings into car upgrades and tuning (suspension, camber, turbo), and unlock new tracks and cars.
+A: Tires first, then power and weight.
+*   **Q: 最初に強化すべきパーツは？**
 
-### How to Play
-- Chain drifts without hitting obstacles; multipliers build with clean, long slides.
-- Tune gear ratios and suspension to match track layout and style.
-- Spend credits on better tires, turbo, and weight reduction.
+A: Yes; save presets for technical vs. high‑speed maps when supported.
+    *   **A:** まずは「タイヤ」が良いでしょう。グリップ力が上がりコントロールしやすくなります。次にパワーと軽量化です。
 
-### Controls
-- WASD/Arrows steer/throttle; Space: handbrake; C: camera; R: reset (host may vary).
-
-### Tips
-- Feather throttle mid‑drift to avoid spinning out.
-- Use handbrake taps to initiate on low‑speed corners.
-- Practice donut control to learn throttle/steering balance.
-
-### FAQ
-- Q: Is there damage?  
-[JA TRANSLATION NEEDED]   A: Visual only on many hosts; collisions break combos.
-- Q: Best starter upgrades?  
-[JA TRANSLATION NEEDED]   A: Tires first, then power and weight.
-- Q: Can I tune per track?  
-[JA TRANSLATION NEEDED]   A: Yes; save presets for technical vs. high‑speed maps when supported.
-
+*   **Q: コースごとにセッティングを変えられますか？**
+    *   **A:** はい、テクニカルなコースと高速コースでセッティングを変えて保存しておくと有利に走れます。

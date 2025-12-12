@@ -1,68 +1,81 @@
 ---
-locale: ja
-urlstr: checkers
-title: '[JA TRANSLATION NEEDED] Checkers'
+title: Checkers チェッカー
 description: >-
-  [JA TRANSLATION NEEDED] Learn the rules and strategies of Checkers, the
-  classic board game. Master diagonal moves, force captures, and crown your
-  pieces to become a King in this timeless test of wits.
+  直感的な操作とシンプルなルールで楽しめる「Checkers」で遊ぼう。斜めに進み、相手の駒を飛び越えて取り、キングを目指そう。時代を超えて愛される知略ゲーム。
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/checkers.jpg
+urlstr: checkers
+score: 4.5/5  (596 votes)
 tags:
   - strategy
   - puzzle
-score: 4.5/5  (596 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Checkers（チェッカー）*、別名ドラフツ（Draughts）は、何世紀にもわたり世界中で愛されてきた二人対戦型の戦略ボードゲームです。8x8のチェック柄のボード上で、二人のプレイヤーがそれぞれの色の駒（赤と黒、もしくは白と黒など）を使って戦います。
+
+勝利条件は単純明快で、以下のいずれかを満たしたプレイヤーが勝者となります。
+*   相手の駒をすべて盤上から取り除く（全滅させる）。
+*   相手の残りの駒がすべて塞がれ、動ける場所をなくす（ステイルメイトにする）。
+
+**主なルール:**
+*   通常の駒（マン）は、斜め前方の空いているマスに1歩ずつしか進めません。
+*   自分の駒の斜め前方に相手の駒があり、そのすぐ後ろのマスが空いている場合、ジャンプして**飛び越えることで捕獲（除去）できます**。
+*   通常の駒が相手側の最奥の列まで到達すると、**キング**に成ります（成駒）。
+*   **キング**は、前後どちらの斜め方向にも移動でき、どちらの方向にも相手を捕獲できるようになります。
 
 
+- A **King** can move diagonally both forwards and backwards, and can capture in both directions.
+
+- When a standard piece reaches the farthest row from its starting position (the opponent's back row), it is "crowned" and becomes a **King**.
+### ゲーム攻略と戦略
+
+*   **中央を制圧せよ:** ボードの中央を支配しているプレイヤーは、駒の動きやすさが段違いに良くなり、攻守の機会が増えます。駒を中央に集めるように配置しましょう。
+*   **バックロウを死守せよ:** 自分の陣地の最下段（手前の列）は防御の要です。この列が崩れない限り、相手は絶対にキングを作れません。できるだけ長く維持しましょう。
+*   **有利な交換（トレード）を狙え:** 自分の駒が取られることを恐れてはいけません。1つの駒を捨てて、相手の駒を2つ取るような、あるいはより有利なポジションを奪うような「肉を切らせて骨を断つ」交換（トレード）は、常に有効な戦略です。
+*   **先を読む:** チェスと同様、チェッカーも先の読み合いです。2〜3手先を常に考えましょう。「自分がこう動いたら相手はどう動くか？」を予測し、罠を仕掛けましょう。
+*   **相手をブロックせよ:** 相手の駒の動きを制限するように自分の駒を配置しましょう。動ける場所をなくせば、たとえ駒が多く残っていても相手は負けになります。
+*   **キングの力を活かせ:** 最初にキングを作ったプレイヤーは圧倒的に有利になります。キングは盤上の最強ユニットです。これを使って残りの敵を狩り尽くし、盤面を支配しましょう。
+
+### 操作ガイド
+
+デジタル版での操作は、直感的なポイント＆クリックが基本です。
+
+*   **駒の選択:** 動かしたい自分の駒をクリック（またはタップ）します。移動可能なマスがハイライト表示されます。
+*   **移動:** ハイライトされた行先をクリックすると、そこに駒が移動します。
+*   **ジャンプ/捕獲:** 相手の駒を取れる状態にある場合、ルール上その駒を選択してジャンプしなければなりません。連続ジャンプが可能な場合は、順番に行先をクリックして連続で捕獲します。
+
+### よくある質問 (FAQ)
 
 
+> A piece becomes a King when it reaches the last row on the opponent's side of the board (the row where their pieces started). In a physical game, this is usually marked by placing a second checker of the same color on top of it.
 
-### Game Introduction
+**4. How does a piece become a King?**
 
-[JA TRANSLATION NEEDED] Checkers, also known as Draughts in many parts of the world, is a classic two-player strategy board game played on an 8x8 checkered board. One player has dark pieces, and the other has light pieces. The game begins with 12 pieces per player, placed on the dark squares of the first three rows on their respective sides of the board.
+> No, standard pieces can only move diagonally *forward* towards the opponent's side of the board. Only a King can move both forwards and backwards.
 
-[JA TRANSLATION NEEDED] The objective of the game is to capture all of the opponent's pieces or to block them so that they have no legal moves left. The game is known for its relatively simple rules but deep strategic possibilities, making it accessible to beginners while still offering a challenge to experienced players.
+**3. Can a regular piece (a "man") move backwards?**
 
-[JA TRANSLATION NEEDED] **Basic Rules:**
--   Pieces are always placed and moved on the dark squares only.
--   Standard pieces (men) can only move one square diagonally forward.
--   A piece captures an opponent's piece by jumping over it diagonally to an empty square immediately beyond it.
--   If a capture is available, it is **mandatory** to make that capture. If multiple captures are possible in a single turn (a chain jump), the player must complete the entire chain.
--   When a standard piece reaches the farthest row from its starting position (the opponent's back row), it is "crowned" and becomes a **King**.
--   A **King** can move diagonally both forwards and backwards, and can capture in both directions.
+> If you have a choice between different captures (e.g., two different pieces can each make a single jump), you can choose which one to make. If one piece has the option of a multi-jump sequence, you must take that sequence.
 
-### Gameplay Strategy
+**2. What happens if I have multiple capture options?**
 
--   **Control the Center:** The player who controls the center of the board has more mobility and more opportunities for both attack and defense. Try to position your pieces towards the middle.
--   **Keep Your Back Row Intact:** Your rearmost row of squares is your "home row." Protect it as long as possible. A solid back row prevents your opponent from easily getting a King.
--   **Force Trades to Your Advantage:** Don't be afraid to sacrifice one of your pieces if it allows you to capture one of your opponent's pieces in a more strategic position. A "2-for-1" trade, where you lose one piece to capture two of theirs, is always a good move.
--   **Think Ahead:** Like chess, Checkers is a game of foresight. Try to think at least two or three moves ahead. Anticipate your opponent's moves and plan your responses.
--   **Block Your Opponent:** Look for opportunities to trap your opponent's pieces. By strategically placing your checkers, you can limit their movement and eventually render them useless.
--   **The Power of Kings:** Getting the first King can be a game-changing advantage. A King is the most powerful piece on the board. Use it to hunt down your opponent's remaining pieces and control large areas of the board.
+> No. In standard American Checkers rules, if a capture is available, you **must** make that move. This is known as a "forced capture" and is a fundamental part of the game's strategy.
 
-### Controls Guide
+**1. Is capturing an opponent's piece optional?**
+*   **Q: 相手の駒を取るかどうかは選べますか？**
+    *   **A:** いいえ。標準的なアメリカン・チェッカー（および多くのドラフツ）のルールでは、捕獲（ジャンプ）が可能な場合、プレイヤーは**必ず**その手を実行しなければなりません。これを「強制取り（Forced Capture）」と呼び、戦略の要となります。
 
-[JA TRANSLATION NEEDED] In a digital version of Checkers, the controls are typically very simple point-and-click or tap-and-drag.
+*   **Q: 取れるパターンが複数ある場合はどうなりますか？**
+    *   **A:** 複数の異なる駒で取れる場合（例：Aの駒でもBの駒でもジャンプできる）は、どちらの駒を動かすか選ぶことができます。ただし、1つの駒で「連続ジャンプ」が可能なルートを選んだ場合は、その一連のジャンプを最後までやりきらなければなりません。
 
--   **Select a Piece:** Click or tap on one of your pieces that is able to move. Valid moves will often be highlighted.
--   **Move a Piece:** Click or tap on the highlighted destination square to move your piece there.
--   **Jumping/Capturing:** If a capture is possible, the game will usually force you to select that piece. Click the piece and then the destination square to complete the jump. For multiple jumps, you simply continue clicking the next destination squares in the chain.
+*   **Q: 普通の駒は後ろに下がれますか？**
+    *   **A:** いいえ、普通の駒（マン）は前方の斜めにしか進めません。後ろにも動けるようになるのは、相手の陣地奥深くまで進んで「キング」に成ってからです。
 
-### Frequently Asked Questions (FAQ)
-
-[JA TRANSLATION NEEDED] **1. Is capturing an opponent's piece optional?**
-[JA TRANSLATION NEEDED] > No. In standard American Checkers rules, if a capture is available, you **must** make that move. This is known as a "forced capture" and is a fundamental part of the game's strategy.
-
-[JA TRANSLATION NEEDED] **2. What happens if I have multiple capture options?**
-[JA TRANSLATION NEEDED] > If you have a choice between different captures (e.g., two different pieces can each make a single jump), you can choose which one to make. If one piece has the option of a multi-jump sequence, you must take that sequence.
-
-[JA TRANSLATION NEEDED] **3. Can a regular piece (a "man") move backwards?**
-[JA TRANSLATION NEEDED] > No, standard pieces can only move diagonally *forward* towards the opponent's side of the board. Only a King can move both forwards and backwards.
-
-[JA TRANSLATION NEEDED] **4. How does a piece become a King?**
-[JA TRANSLATION NEEDED] > A piece becomes a King when it reaches the last row on the opponent's side of the board (the row where their pieces started). In a physical game, this is usually marked by placing a second checker of the same color on top of it.
-
+*   **Q: どうやったらキングになれますか？**
+    *   **A:** 自分の駒が、相手側の最奥の列（相手の駒が初期配置されていた列）に到達するとキングになります。実際のボードゲームでは、同じ色の駒をもう一つ上に乗せて区別します。

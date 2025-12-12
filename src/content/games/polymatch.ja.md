@@ -1,83 +1,48 @@
 ---
-locale: ja
-urlstr: polymatch
-title: '[JA TRANSLATION NEEDED] PolyMatch'
-description: >-
-  [JA TRANSLATION NEEDED] Dive into the colorful world of PolyMatch! A unique
-  puzzle game where you rotate and place polyomino pieces to complete intricate
-  patterns.
-iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
+title: Polymatch
+description: Polymatchはポリゴンマッチングゲームです。形をマッチし、パターンを接続し、視覚的なパズルをマスターします。
+iframeSrc: 'https://polymatch.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/polymatch.png
+urlstr: polymatch
+score: 4.1/5  (1867 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.2/5  (1999 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+Polymatchは、同じポリゴン形状をマッチすることに挑戦します。3つ以上の同一形状を接続してクリアし、ボードをクリアし、レベル目標を完了します。視覚的認識と戦略的思考をテストします。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] PolyMatch is an engaging tile-matching puzzle game that challenges your observation and strategic thinking. The game presents you with a board filled with various tiles, each featuring a unique image or pattern. Your objective is to clear the board by finding and matching pairs of identical tiles. The twist lies in the limited holding area at the bottom of the screen, which can only hold a few tiles. You must carefully select tiles to ensure you can make matches and prevent the holding area from filling up, which would lead to a game over.
+1.  **大きなマッチ:** より多い形状 = より多いポイント。
+2.  **目標に焦点を当てる:** 各レベルには特定の目標があります。
+3.  **先を計画:** 移動が他をブロックしないことを確認します。
+4.  **形を認識:** パターンをすばやく識別することを学びます。
+5.  **移動を節約:** 限られた移動を賢く使用します。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Prioritize Visible Matches:** Always look for and make matches that are immediately visible and accessible. This helps to clear space and reveal more tiles.
-[JA TRANSLATION NEEDED] 2.  **Manage the Holding Area:** The holding area is your most critical resource. Never tap a tile unless you have a clear plan for how it will be matched. Avoid filling it with unmatched tiles.
-[JA TRANSLATION NEEDED] 3.  **Look for Hidden Tiles:** As you clear tiles, new ones will be revealed. Try to anticipate which tiles will become available and how they might contribute to future matches.
-[JA TRANSLATION NEEDED] 4.  **Strategic Tapping:** If you have multiple options for a match, consider which one will open up the most possibilities or clear the most difficult sections of the board.
-[JA TRANSLATION NEEDED] 5.  **Don't Rush:** There's no time limit in many versions of PolyMatch, so take your time to analyze the board and plan your moves carefully. A single wrong tap can lead to a game over.
+- 形をクリック/タップして選択します。
+- 3つ以上の同じ形をマッチします。
+- レベル目標を完了します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Select Tile:** Click or tap on a tile on the main game board to move it to the holding area at the bottom.
-    - **A:** You win a level by successfully clearing all the tiles from the main game board.（日本語訳が必要）
-    - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.（日本語訳が必要）
-    - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.（日本語訳が必要）
-    - **A:** You win a level by successfully clearing all the tiles from the main game board.（日本語訳が必要）
-    - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.（日本語訳が必要）
-    - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I win a level?**
-[JA TRANSLATION NEEDED]     *   **A:** You win a level by successfully clearing all the tiles from the main game board.
-
-*   **Q: What happens if the holding area fills up?**
-[JA TRANSLATION NEEDED]     *   **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
-
-*   **Q: Are there power-ups or hints?**
-
-
-
-
-
-
-
-
-
+- **Q: 移動がなくなった場合はどうなりますか？**  
+  A: 目標を完了しない場合、レベルを再試行します。
+    - **Q: パワーアップはありますか？**  
+  A: 一部のバージョンには特別なアイテムがあります。
+- **Q: どれくらいのレベルがありますか？**  
 
     - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
+
 - **Q: Are there power-ups or hints?**
+
     - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
-- **Q: What happens if the holding area fills up?**
-    - **A:** You win a level by successfully clearing all the tiles from the main game board.
-- **Q: How do I win a level?**
-### よくある質問（FAQ）
-- **Select Tile:** Click or tap on a tile on the main game board to move it to the holding area at the bottom.
-### コントロールガイド
-- **Don't Rush:** There's no time limit in many versions of PolyMatch, so take your time to analyze the board and plan your moves carefully. A single wrong tap can lead to a game over.
-
-
-
-
-
-    - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
-- **Q: Are there power-ups or hints?**
-    - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
-- **Q: What happens if the holding area fills up?**
-    - **A:** You win a level by successfully clearing all the tiles from the main game board.
-[JA TRANSLATION NEEDED]     *   **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
-
+  A: バージョンによって異なります。多くは数十。

@@ -1,59 +1,74 @@
 ---
-title: "Steal a Brainrot - ブレインロットを盗め"
-description: "カオスなRoblox体験『Steal a Brainrot』を発見しよう。Skibidi Toiletなどのブレインロットキャラクターを奪い、警備員から逃げるこのミーム満載ゲームのプレイ方法を学びましょう。攻略、戦略などをご紹介。"
-iframeSrc: "https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/"
-thumbnail: "/new-images/steal-a-brainrot.webp"
-urlstr: "steal-a-brainrot"
-locale: "ja"
-score: "4.7/5  (3719 votes)"
-tags: ["casual", "action"]
-developer: ""
-releaseDate: 2025-08-16
+title: Steal a Brainrot
+description: Steal a Brainrotは、戦略とステルスのユニークなブレンドのゲームです。計画を立て、実行し、捕まらないようにしましょう。
+iframeSrc: 'https://ubg98.github.io/StealABrainrot/'
+thumbnail: /new-images/steal-a-brainrot.jpg
+urlstr: steal-a-brainrot
+score: 4.2/5  (1874 votes)
+tags:
+  - strategy
+  - stealth
+  - puzzle
+locale: ja
 ---
 
-### **Steal a Brainrot ゲーム紹介**
+### ゲーム紹介
 
-『Steal a Brainrot』は、Robloxプラットフォームで人気のマルチプレイヤーアクションステルスゲームで、ユーモラスで不条理な目標を中心としたコアゲームプレイが特徴です：**厳重に警備されたエリアに潜入し、擬人化されたインターネット「ブレインロット」キャラクターを盗み、自分の拠点に持ち帰ることに成功する。**
+Steal a Brainrotは、戦略的思考とステルスメカニクスを組み合わせたエキサイティングなゲームです。さまざまなレベルを通じて目標を達成し、検出されないようにする必要があります。
 
-このゲームは、クラシックな「旗取り」や「強盗」ジャンルと、最新のインターネットミーム文化を融合させています。宝物や書類を盗む代わりに、プレイヤーは**Skibidi Toilet、Sigma Face、The Rizzler**などの象徴的な「ブレインロット」キャラクターを奪う任務を負います。
 
-ゲームマップは通常、障害物、トラップ、巡回する警備員で満たされた複雑なエリアとして設計されています。プレイヤーは地形、様々なガジェット、チームワークを活用して警備員の視線を避け、セキュリティシステムを無効化し、最終的にターゲットの「ブレインロット」に到達しなければなりません。「捕獲」したら、しばしばより危険な脱出ルートを通って持ち帰り、ポイントを獲得するか勝利を確保します。
+The fun of the game largely derives from its chaotic, unpredictable multiplayer interactions and the comedic effect of combining serious stealth gameplay with ridiculous internet memes.
 
-ゲームの楽しさは、そのカオスで予測不可能なマルチプレイヤーインタラクションと、シリアスなステルスゲームプレイと馬鹿げたインターネットミームを組み合わせたコメディ効果から大きく生まれています。
+The game map is typically designed as a complex area filled with obstacles, traps, and patrolling guards. Players must utilize the terrain, various gadgets, and teamwork to evade the guards' line of sight, disable security systems, and finally reach the target "Brainrot." Once they "capture" it, they must carry it back along what is often a more perilous escape route to score points or secure a win.
 
-### **ゲーム攻略とヒント**
+The game blends the classic "capture the flag" or "heist" genre with the most current internet meme culture. Instead of stealing treasure or documents, players are tasked with snatching iconic "Brainrot" characters like **Skibidi Toilet, Sigma Face, The Rizzler**, and others.
+### ゲームプレイガイド
 
-1.  **偵察は戦いの半分**：開始時に盲目的に突っ込まないでください。マップのレイアウトと警備員の巡回ルートを観察する時間を取りましょう。カメラの死角、隠れ場所、目標への最短で最も安全なルートを特定してください。
-2.  **チームワークが重要**：これは主にチームベースのゲームです。役割を分担することで成功率を大幅に上げることができます。
-    *   **おとり**：一人のプレイヤーが意図的に警備員の注意を引き、他のプレイヤーが忍び込む隙を作ります。
-    *   **サポート**：他のプレイヤーはトラップの無効化やロックされたドアの開放に集中できます。
-    *   **ランナー**：チームで最も速いか敏捷なプレイヤーで、ルートがクリアになったら最終的な「盗み」を実行する責任があります。
-3.  **ガジェットを賢く使う**：ゲームは通常、ステルスを助ける様々なアイテムを提供します。例えば、警備員を一時的に盲目にするフラッシュバンや、短時間透明になるポーションなど。これらのアイテムを適切なタイミングで使用することで、ゲームの流れを変えることができます。
-4.  **目立たないようにする**：ほとんどのステルスゲームでは、しゃがんだりゆっくり動いたりすると発する音が減り、警備員に発見されにくくなります。警備員が近くにいるときはダッシュを避けてください。
-5.  **別の脱出ルートを計画する**：目標を盗んだ後、動きが遅くなったり、アラームが鳴って全ての警備員にあなたの位置が知られたりするかもしれません。侵入ルートとは異なる脱出ルートを計画してください—おそらくより直接的か、より多くのカバーがあるルートを。
-6.  **「ブレインロット」を知る**：ゲームの一部のバージョンでは、異なる「ブレインロット」がユニークな特性を持っている場合があります。例えば、大きな「ブレインロット」を盗むと動きが遅くなったり、音を出す「ブレインロット」を盗むと常に位置がバレたりします。
+ - **計画を立てる：** 各レベルで慎重に戦略を立てます
+ - **ステルスで移動：** 検出されないように注意深く移動します
+    - **目標を達成：** 捕まらずにレベルの目標を完了します
+    - **障害物を避ける：** ガードやトラップを避けます
 
-### **操作ガイド**
 
-Robloxゲームとして、操作はプラットフォームの標準フォーマットに従います。
+    - **Know Your "Brainrot"**: In some versions of the game, different "Brainrots" might have unique properties. For example, stealing a larger "Brainrot" might make you move slower, while stealing one that makes noise will constantly give away your position.
 
-*   **移動**：`W`、`A`、`S`、`D` キー
-*   **ジャンプ**：`スペースバー`
-*   **ダッシュ**：`Shift` キーを押し続ける
-*   **しゃがむ/忍び歩き**：`Ctrl` または `C` キー
-*   **インタラクト/盗む**：`E` または `F` キー
-*   **アイテムを使う**：数字キー `1`、`2`、`3`... または `Q` キー
+- **Plan a Different Escape Route**: After you steal the objective, you might move slower, or an alarm might trigger, alerting all guards to your position. Plan an escape route that is different from your entry path—perhaps one that is more direct or offers more cover.
 
-### **よくある質問 (FAQ)**
+- **Maintain a Low Profile**: In most stealth games, crouching or moving slowly reduces the noise you make, making you harder for guards to detect. Avoid sprinting when guards are nearby.
 
-**1. このゲームはどこでプレイできますか？**
-このゲームは**Roblox**プラットフォームで無料でプレイできます。Robloxアプリまたはウェブサイトで**「Steal a Brainrot」**を検索し、最も人気のあるバージョンを選んでください。
+- **Use Your Gadgets Wisely**: The game usually provides various items to aid your stealth, such as a flashbang to temporarily blind guards or a potion for brief invisibility. Using these items at the right moment can be a game-changer.
 
-**2. これはシングルプレイヤーですか、マルチプレイヤーですか？**
-主に**マルチプレイヤー**の協力または対戦プレイ用に設計されています。一人でサーバーに入ることはできるかもしれませんが、コアの楽しさとゲームプレイは他のプレイヤーとのインタラクションを中心としています。
+- **Runner**: The fastest or most agile player on the team, responsible for executing the final "steal" once the path is clear.
+### 操作ガイド
 
-**3. 「ブレインロット」とは正確には何ですか？**
-低品質でバイラルなオンラインコンテンツを指すインターネットスラングです。このゲームはその抽象的な概念を、実際に「盗む」ことができる物理的なオブジェクトに変えており、それがユーモアの源となっています。
 
-**4. ゲームに勝つ目標は何ですか？**
-通常、目標はチームが制限時間内に「ブレインロット」を盗んで自分の拠点に持ち帰ることに最も多く成功することです。他のゲームモードも存在する可能性があり、例えば全く発見されずに強盗を完了するなどがあります。
+As a Roblox game, the controls follow the platform's standard format.
+ - **矢印キー/WASD：** 移動
+ - **マウス：** 相互作用とアクション
+
+
+- **Use Item**: Number keys `1`, `2`, `3`... or `Q` key
+
+- **Interact / Steal**: `E` or `F` key
+
+- **Crouch / Sneak**: `Ctrl` or `C` key
+
+- **Sprint**: Hold `Shift` key
+### よくある質問（FAQ）
+
+**ゲームの目標は何ですか？**
+
+検出されずに各レベルの目標を達成することです。
+
+**捕まったらどうなりますか？**
+
+捕まった場合、レベルを再スタートする必要があります。
+
+**どうやって成功しますか？**
+
+慎重な計画、タイミング、ステルスの組み合わせが成功の鍵です。
+
+
+Typically, the goal is for a team to successfully steal and return the "Brainrot" to their base the most times within a time limit. Other game modes might exist, such as completing the heist without being detected at all.
+
+**4. What is the objective to win the game?**

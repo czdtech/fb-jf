@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tower-mania
-title: '[KO] Tower Mania'
+title: "Tower Mania 타워 매니아"
 description: >-
-  [KO] Build the tallest tower in Tower Mania! Carefully stack blocks to reach
-  for the sky, but watch out for wobbles and toppling structures.
+  흔들리는 블록을 하나씩 쌓아 올려 가장 높은 탑을 만드는 아케이드 게임입니다. 타이밍을 맞춰
+  정확히 중앙에 떨어뜨려 안정적인 탑을 만들고, 점점 작아지는 발판 위에서 기록에 도전해 보세요.
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/tower-mania.png
 tags:
@@ -16,33 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tower Mania는 간단한 규칙으로 긴장감과 몰입감을 동시에 주는 블록 쌓기 아케이드 게임입니다.
+화면 상단에서 좌우로 흔들리는 블록을 적절한 타이밍에 떨어뜨려, 아래에 있는 블록과 최대한 정확히
+겹치도록 쌓는 것이 목표입니다.
 
+블록이 삐뚤게 떨어져 아래 블록에서 삐져나온 부분은 잘려 나가며, 그만큼 다음 층의 발판이 좁아집니다.
+층이 높아질수록 실수의 여지가 줄어들기 때문에, 초반에 얼마나 안정적인 기초를 다지느냐가 높은
+점수로 이어집니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Tower Mania is an engaging and addictive arcade game that challenges your precision and timing. The objective is simple: build the tallest possible tower by carefully stacking blocks one on top of another. Blocks swing back and forth, and you must tap or click at the precise moment to drop them perfectly aligned. Any part of a block that hangs off will be cut away, making the next level smaller and increasing the difficulty. Test your steady hand and keen eye to reach new heights and achieve the ultimate high score!
+1.  **타이밍이 전부**: 게임의 핵심은 떨어뜨리는 순간을 정확히 맞추는 것입니다. 블록이 중앙에 올 때
+    화면의 반복되는 리듬을 눈으로 익히고, 그에 맞춰 눌러 보세요. 눈으로만 따라가기보다 손이 리듬에
+    익숙해지면 훨씬 안정적으로 쌓을 수 있습니다.
+2.  **초반은 천천히, 기초를 넓게**: 시작 부분에서 너무 서두르지 말고, 넓고 평평한 기초를 만드는 데
+    집중하세요. 아래층이 단단해야 위로 올라갈수록 난이도가 덜 급격하게 올라갑니다.
+3.  **항상 중앙을 기준으로 생각하기**: 조금 치우쳐도 괜찮지만, 탑의 중심은 최대한 가운데에 있도록
+    신경 써야 합니다. 한쪽으로 치우친 상태가 이어지면 작은 실수에도 쉽게 넘어집니다.
+4.  **발판이 작아졌을 때의 감각 익히기**: 몇 층 이상 올라가면 남은 발판이 매우 좁아집니다. 이 구간에서는
+    화면 전체가 아니라 발판 부분만 집중해서 보면서, "조금 늦게" 혹은 "조금 일찍" 떨어뜨려야 하는
+    타이밍을 몸으로 익히는 것이 좋습니다.
+5.  **파워업이 있다면 위태로운 구간에서 사용하기**: 일부 버전에서는 한 번의 완벽한 정렬을 보장해
+    주거나, 탑을 잠시 안정화시키는 파워업이 제공되기도 합니다. 높이가 많이 올라간 뒤, 한 번의 실수가
+    치명적인 상황에서 사용하는 것이 가장 효율적입니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Timing is Crucial:** The core of the game is timing your tap perfectly. Watch the swinging block and try to release it when it's directly over the center of the block below. Precision is rewarded.
-2.  **[KO]** **Start Slow and Steady:** Don't rush in the beginning. Take your time to get a feel for the block's swing speed and the rhythm of the game. A solid foundation is key to a tall tower.
-3.  **[KO]** **Focus on the Center:** Always aim for the center. Even if you miss slightly, try to keep the main mass of the tower as central as possible to maintain stability.
-4.  **[KO]** **Adapt to Smaller Blocks:** As you make imperfect drops, the base of your tower will shrink. You'll need to adapt your timing and precision to these smaller targets.
-5.  **[KO]** **Use Power-ups (if available):** Some versions of Tower Mania might offer power-ups that can help stabilize your tower or give you a perfect drop. Use them strategically when the tower gets very high and unstable.
+*   **블록 떨어뜨리기**: 마우스 왼쪽 버튼을 클릭하거나 화면을 탭해 현재 흔들리고 있는 블록을
+    즉시 떨어뜨립니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Drop Block:** Click the left mouse button or tap the screen to release the swinging block.
+*   **Q: Tower Mania의 목표는 무엇인가요?**  
+    *   **A:** 가능한 한 많은 블록을 정확히 쌓아 가장 높은 탑을 만드는 것입니다. 블록이 크게
+        빗나가 탑에서 떨어지면 그 판은 종료됩니다.
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 점수를 더 많이 얻으려면 어떻게 해야 하나요?**  
+    *   **A:** 블록을 성공적으로 쌓는 층 수가 곧 점수와 직결됩니다. 초반부터 최대한 중심에 가깝게
+        쌓아 발판을 넓게 유지할수록, 이후 층을 더 쉽게 쌓을 수 있어 결국 더 높은 점수를 얻을 수
+        있습니다.
 
-*   **[KO]** **Q: What is the goal of Tower Mania?**
-    *   **[KO]** **A:** The main goal is to build the tallest possible tower by stacking blocks accurately. The game ends when a block falls off the tower.
-
-*   **[KO]** **Q: How do I get a higher score?**
-    *   **[KO]** **A:** Your score is determined by the height of your tower. The more blocks you stack successfully, the higher your score will be.
-
-*   **[KO]** **Q: What happens if a block isn't perfectly aligned?**
-    *   **[KO]** **A:** If a block is not perfectly aligned, any part of it that extends beyond the block below will be cut off. This makes the next block you drop have a smaller surface area to land on, increasing the difficulty.
-
+*   **Q: 블록이 완벽하게 맞지 않으면 어떻게 되나요?**  
+    *   **A:** 아래 블록에서 튀어나온 부분은 잘려 나가고, 남은 부분만 다음 층의 발판이 됩니다.
+        결과적으로 발판이 점점 좁아져 난이도가 크게 상승합니다.

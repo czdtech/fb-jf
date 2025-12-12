@@ -1,83 +1,41 @@
 ---
+title: "Jigsaw Puzzle Deluxe"
+description: "クラシックなジグソーパズル体験です。美しい画像の巨大なライブラリから選択し、それらをまとめます。複数の難易度レベルがあり、初心者と専門家の両方に最適です。"
+iframeSrc: "https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/"
+thumbnail: "/new-images/jigsaw-puzzle-deluxe.png"
+urlstr: "jigsaw-puzzle-deluxe"
+score: "4.6/5  (3200 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: jigsaw-puzzle-deluxe
-title: '[JA TRANSLATION NEEDED] Jigsaw Puzzle Deluxe'
-description: >-
-  [JA TRANSLATION NEEDED] The classic jigsaw puzzle experience. Choose from a
-  huge library of beautiful images and piece them together. With multiple
-  difficulty levels, it's perfect for both beginners and experts.
-iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
-thumbnail: /new-images/jigsaw-puzzle-deluxe.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.6/5  (3200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Jigsaw Puzzle Deluxeは、ジグソーパズルを解くという時代を超越したリラックスした活動を画面にもたらします。ゲームは、さまざまなカテゴリにわたる美しい高品質の画像の膨大なコレクションを提供します。プレイヤーは好みの画像を選択し、難易度レベルを選択できます。これにより、パズルが分割されるピースの数が決まります。目標は、散らばったすべてのピースを正しく組み立てて、元の画像を再作成することです。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Jigsaw Puzzle Deluxe brings the timeless and relaxing activity of solving jigsaw puzzles to your screen. The game offers a vast collection of beautiful, high-quality images across various categories. Players can choose their preferred picture and select a difficulty level, which determines how many pieces the puzzle is divided into. The goal is to correctly assemble all the scattered pieces to recreate the original image.
+1.  **最初にフレームを構築する:** クラシックで非常に効果的なジグソー戦略は、すべてのエッジとコーナーピースを見つけることから始めることです。最初にパズルの境界線を組み立てることで、作業できる明確なフレームが提供されます。
+2.  **色とパターンで並べ替える:** フレームが構築されたら、残りのピースを見てください。それらを支配的な色または明確なパターンに基づいてグループに並べ替えます。画像に青い空がある場合は、すべての青いピースを一緒に集めます。
+3.  **セクションに焦点を当てる:** ランダムにピースを配置しようとする代わりに、一度に画像の特定の領域を完成させることに焦点を当てます。たとえば、画像内の単一のオブジェクトまたは建物を組み立ててみてください。
+4.  **プレビューを使用する:** 行き詰まったり、最終画像がどのように見えるかを忘れた場合は、「プレビュー」または「ヒント」ボタンを使用して、参照用に完成した画像をすばやく見てください。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Build the Frame First:** A classic and highly effective jigsaw strategy is to start by finding all the edge and corner pieces. Assembling the border of the puzzle first provides a clear frame within which you can work.
-[JA TRANSLATION NEEDED] 2.  **Sort by Color and Pattern:** Once the frame is built, look at the remaining pieces. Sort them into groups based on their dominant colors or distinct patterns. If the picture has a blue sky, gather all the blue pieces together.
-[JA TRANSLATION NEEDED] 3.  **Focus on a Section:** Instead of trying to place pieces randomly, focus on completing one specific area of the picture at a time. For example, try to assemble a single object or building within the image.
-[JA TRANSLATION NEEDED] 4.  **Use the Preview:** If you get stuck or forget what the final image looks like, use the "Preview" or "Hint" button to get a quick look at the completed picture for reference.
+ゲームは、シンプルなドラッグ＆ドロップコントロールでプレイされます。
 
-### Controls Guide
+*   **ピースを移動:** パズルピースをクリックして押し続け、ボード上の目的の位置にドラッグします。リリースして所定の位置にドロップします。
+*   **ピースを回転（該当する場合）:** 一部の難易度モードには、回転したピースが含まれる場合があります。通常、選択したピースを回転するボタンまたはキーボードキーがあります。
 
-[JA TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
+### よくある質問 (FAQ)
 
-*   **Move a Piece:** Click and hold on a puzzle piece and drag it to the desired position on the board. Release to drop it into place.
-    - **A:** You can browse the in-game gallery and click on any image you find interesting. After selecting an image, you will usually be prompted to choose a difficulty level (number of pieces).（日本語訳が必要）
-    - **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.（日本語訳が必要）
-    - **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.（日本語訳が必要）
-    - **A:** You can browse the in-game gallery and click on any image you find interesting. After selecting an image, you will usually be prompted to choose a difficulty level (number of pieces).（日本語訳が必要）
-    - **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.（日本語訳が必要）
-    - **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.（日本語訳が必要）
-*   **Rotate a Piece (if applicable):** Some difficulty modes may include rotated pieces. There will typically be a button or keyboard key to rotate a selected piece.
+*   **Q: パズルを選択するにはどうすればよいですか？**
+    *   **A:** ゲーム内ギャラリーを閲覧し、興味深いと思う画像をクリックできます。画像を選択した後、通常、難易度レベル（ピースの数）を選択するようプロンプトが表示されます。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: パズルを開始する最良の方法は何ですか？**
+    *   **A:** 最も一般的な戦略は、平らなエッジを持つすべてのピースを見つけて、最初に境界線を組み立てることです。これにより、定義されたワークスペースが作成されます。
 
-*   **Q: How do I choose a puzzle?**
-[JA TRANSLATION NEEDED]     *   **A:** You can browse the in-game gallery and click on any image you find interesting. After selecting an image, you will usually be prompted to choose a difficulty level (number of pieces).
-
-*   **Q: What is the best way to start a puzzle?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.
-
-*   **Q: The pieces are all jumbled up. How can I organize them?**
-
-
-
-
-
-
-
-
-    - **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.
-- **Q: The pieces are all jumbled up. How can I organize them?**
-    - **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.
-- **Q: What is the best way to start a puzzle?**
-    - **A:** You can browse the in-game gallery and click on any image you find interesting. After selecting an image, you will usually be prompted to choose a difficulty level (number of pieces).
-- **Q: How do I choose a puzzle?**
-### よくある質問（FAQ）
-- **Rotate a Piece (if applicable):** Some difficulty modes may include rotated pieces. There will typically be a button or keyboard key to rotate a selected piece.
-
-
-
-
-
-    - **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.
-- **Q: The pieces are all jumbled up. How can I organize them?**
-    - **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.
-- **Q: What is the best way to start a puzzle?**
-    - **A:** You can browse the in-game gallery and click on any image you find interesting. After selecting an image, you will usually be prompted to choose a difficulty level (number of pieces).
-[JA TRANSLATION NEEDED]     *   **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.
-
+*   **Q: ピースがすべて混乱しています。どうやって整理できますか？**
+    *   **A:** ピースを画面の周りにドラッグしてスペースを作成します。似た色またはテクスチャーのピースを一緒にグループ化します。これにより、探しているものを見つけやすくなります。

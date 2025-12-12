@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: fuzzies
-title: '[KO] Fuzzies'
+title: "Fuzzies 퍼지즈 버블 슈터"
 description: >-
-  [KO] Color‑matching bubble shooter: aim and pop fuzzies by matching colors,
-  use boosters, and prevent the wall from reaching the bottom.
+  귀여운 털뭉치 버블을 쏴서 같은 색을 3개 이상 맞춰 없애는 컬러 매칭 버블
+  슈터입니다. 천장이 서서히 내려오기 전에 연쇄를 터뜨리고 부스터를 활용해
+  화면을 정리하세요.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/fuzzies.jpg
@@ -19,27 +20,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Match‑3 bubble shooter with cute fuzzballs. Clear clusters to score and trigger cascades while the ceiling slowly descends.
+### 게임 개요
 
-### How to Play
-- Aim and shoot to connect three of the same color.
-- Bank shots off walls to reach tucked corners.
-- Use special bubbles/boosters when available to clear large areas.
+`Fuzzies`는 귀여운 털뭉치 버블을 쏴서 같은 색을 3개 이상 이어 붙여 터뜨리는
+매치‑3 버블 슈터입니다. 위에서 천장이 천천히 내려오기 때문에, 연쇄 폭발을
+일으켜 화면을 비우지 못하면 곧바로 압박을 받게 됩니다.
 
-### Controls
-- Mouse/Touch to aim and shoot; swap next color when available.
+### 플레이 방법
 
-### Tips
-- Target high anchors to drop large sections.
-- Keep the board balanced—don’t overfill one side.
-- Save bombs/rainbows for rescue shots.
+- 화면 아래에서 버블을 발사해 같은 색을 최소 3개 이상 연결하면 그 뭉치가
+  터지며 점수와 공간을 확보합니다.
+- 벽에 튕기는 각도를 이용해 정면에서 맞추기 힘든 구석이나 뒤쪽에 숨은
+  버블을 노려 보세요.
+- 특정 상황에서 등장하는 특수 버블과 부스터는 한 번에 넓은 구역을 제거하거나
+  색을 바꿔 주어 위기 탈출에 도움이 됩니다.
 
-### FAQ
-- Q: How do I clear unreachable clusters?
-A: Bank shots or drop their anchors by clearing supporting bubbles.
-- Q: Can I change the next color?
-A: Many versions let you swap the queued bubble.
-- Q: What ends the level?
-A: The wall reaching the bottom or running out of shots, depending on mode.
+### 조작 방법
 
+- 마우스/터치로 조준선을 움직인 뒤, 클릭 또는 탭해서 버블을 발사합니다.
+- 지원되는 버전에서는 대기 중인 다음 버블을 탭해 현재 버블과 색을 교체할 수
+  있습니다.
+
+### 플레이 팁
+
+- 높은 위치의 연결점(앵커)에 붙은 버블을 노리면, 그 아래에 매달린 버블을
+  통째로 떨어뜨려 큰 점수를 얻을 수 있습니다.
+- 한쪽만 계속 쏘기보다는 좌우 균형을 맞춰 쏴서 특정 구역이 과밀해지지
+  않도록 관리하세요.
+- 폭탄, 레인보우 버블 같은 강력한 부스터는 막판 구출 샷이나 대형 연쇄를
+  노릴 때까지 아껴 두는 것이 좋습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 손이 닿지 않는 곳의 버블은 어떻게 없애나요?  
+  A: 벽을 이용해 공을 튕겨 보내거나, 그 버블들이 매달린 상단 앵커를 터뜨려
+  위에서부터 한꺼번에 떨어뜨릴 수 있습니다.
+- Q: 다음에 나올 색을 바꿀 수 있나요?  
+  A: 많은 버전에서 대기 중인 버블을 클릭/탭해 현재 버블과 서로 교체할 수
+  있습니다.
+- Q: 게임은 언제 끝나나요?  
+  A: 모드에 따라 다르지만, 천장이 화면 아래에 닿거나 발사할 수 있는 버블이
+  모두 떨어지면 게임이 종료됩니다.

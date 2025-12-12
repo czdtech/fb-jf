@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cricket-hero
-title: '[KO] Cricket Hero'
+title: Cricket Hero 크리켓 히어로
 description: >-
-  [KO] Step up to the crease and become a Cricket Hero! Time your shots to
-  perfection and score as many runs as you can in this exciting cricket batting
-  game.
+  크리켓 타자로 나서 타이밍을 정확히 맞춰 최대한 많은 런을 기록해 보세요. 간단하지만 중독성 강한 크리켓 타격 게임 Cricket
+  Hero입니다.
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/cricket-hero.jpg
 tags:
@@ -17,30 +16,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Cricket Hero는 가능한 한 많은 런을 뽑아 내는 것이 목표인 아케이드 스타일 크리켓 게임입니다.
+플레이어는 타자(batsman)가 되어 다양한 볼러들의 공을 상대하게 됩니다. 공이 손에서 떠나는 순간부터
+끝까지 궤적을 따라가며, 딱 맞는 타이밍에 방망이를 휘둘러 공을 때려내야 합니다.  
+게임의 핵심은 **타이밍과 반사 신경**입니다. 타이밍을 놓쳐 공을 맞히지 못하거나, 볼에 맞아 아웃되면
+그 자리에서 이닝이 종료됩니다. 과연 당신은 몇 런이나 기록해 진짜 “크리켓 히어로”가 될 수 있을까요?
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Cricket Hero is a simple yet addictive arcade-style cricket game where your goal is to score as many runs as possible. As the batsman, you will face a variety of bowlers who will try to get you out. Your job is to watch the ball closely and time your swing to hit the ball and score runs. The game is all about timing and reflexes. Miss the ball or get bowled out, and your turn is over. How many runs can you score to become a true Cricket Hero?
+1. **공에서 눈을 떼지 말 것**  
+   실제 크리켓과 마찬가지로, 이 게임에서 가장 중요한 기본기는 공을 끝까지 보는 것입니다.
+   볼러 손을 떠난 순간부터 공이 접근할 때까지 시선을 고정해 궤적을 읽으세요.  
+2. **모든 것은 타이밍**  
+   고득점을 위해서는 스윙 타이밍이 절대적으로 중요합니다. 너무 일찍 휘두르거나 늦게 휘두르면
+   헛스윙이 나고, 완벽한 타이밍을 맞추면 공이 시원하게 날아가 4점, 6점 같은 장타를 기대할 수
+   있습니다.  
+3. **바운스 지점 예측하기**  
+   공이 어디에 떨어질지(피칭 지점)를 눈여겨보면 속도와 높이를 미리 가늠할 수 있습니다.  
+   이렇게 예측한 정보를 바탕으로 스윙 시점을 조금 더 정확하게 잡을 수 있습니다.  
+4. **집중력 유지**  
+   진행할수록 공의 속도와 패턴이 다양해지면서 난이도가 올라갑니다. 긴 플레이에서 꾸준히 점수를
+   올리려면, 매 공마다 처음 치는 것처럼 집중력을 유지하는 것이 중요합니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Watch the Ball:** This is the most fundamental rule of cricket and this game. Keep your eyes glued to the ball from the moment it leaves the bowler's hand.
-2.  **[KO]** **Timing is Everything:** The key to scoring big is timing your shot perfectly. Swing too early or too late, and you'll miss the ball. A perfectly timed shot will send the ball flying for a six!
-3.  **[KO]** **Anticipate the Bounce:** Pay attention to where the ball is going to pitch. This will help you judge the speed and height of the ball, allowing you to time your swing more effectively.
-4.  **[KO]** **Stay Focused:** The game will get progressively faster and more challenging. Maintain your concentration to keep up with the increasing speed and variations in bowling.
+* **배트 휘두르기**: 마우스 왼쪽 버튼을 클릭하거나 화면을 탭하면 배트를 휘두릅니다.  
+  조작은 오직 “언제 클릭하느냐”뿐이므로, 타이밍 하나에 모든 것이 달려 있다고 생각하면 됩니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Swing Bat:** Click the left mouse button or tap the screen to swing your bat. The timing of your click is the only control you have, so make it count!
+* **Q: 어떻게 점수를 얻나요?**  
+  **A:** 공을 방망이로 맞히면 런을 획득합니다. 타이밍이 좋을수록 한 번의 타격으로 더 많은
+  점수(4점, 6점 등)를 얻을 수 있습니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 게임은 언제 끝나나요?**  
+  **A:** 공이 스텀프를 맞혀 볼링 아웃이 되거나, 설정된 위켓(목숨) 수를 모두 소진하면
+  게임이 종료됩니다.  
 
-*   **[KO]** **Q: How do I score runs?**
-    *   **[KO]** **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).
+* **Q: 볼러 종류가 여러 가지인가요?**  
 
-*   **[KO]** **Q: How does the game end?**
-    *   **[KO]** **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
+    - **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
 
-*   **[KO]** **Q: Are there different types of bowlers?**
-    *   **[KO]** **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
+- **Q: Are there different types of bowlers?**
+
+    - **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
+  **A:** 네. 점수가 높아질수록 다양한 속도와 스타일을 가진 볼러가 등장해, 공의 궤적과
+  타이밍이 조금씩 달라지며 난이도가 올라갑니다.  
+

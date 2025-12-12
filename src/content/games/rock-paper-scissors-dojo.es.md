@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: rock-paper-scissors-dojo
-title: '[ES] Rock Paper Scissors Dojo'
+title: "Rock Paper Scissors Dojo"
 description: >-
-  [ES] Rock Paper Scissors Dojo is a quirky duel — read patterns, mix
-  strategies, and outwit opponents in best‑of series.
-iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
-thumbnail: /new-images/rock-paper-scissors-dojo.png
+  Rock Paper Scissors Dojo convierte el piedra‑papel‑tijera en un duelo mental:
+  detecta patrones, mezcla estrategias y sorprende a tus rivales en series al
+  mejor de varias rondas.
+iframeSrc: "https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/"
+thumbnail: "/new-images/rock-paper-scissors-dojo.png"
 tags:
   - casual
   - 2 player
@@ -15,35 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Rock Paper Scissors Dojo lleva el clásico piedra‑papel‑tijera a un terreno más
+estratégico. A lo largo de series al mejor de varias rondas, intentarás leer las
+tendencias de tu rival (por ejemplo, repetir jugada tras ganar o cambiar tras
+perder) y responder con mezclas de elecciones que eviten que te vuelvan
+predecible.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Rock Paper Scissors Dojo turns RPS into a light mind‑game. Across best‑of matches, you’ll try to detect tendencies (e.g., opponents repeat after wins, switch after losses) and counter with mixed strategies that avoid being predictable.
+1.  **Mezcla base:** Empieza con una distribución equilibrada y casi aleatoria
+    entre piedra, papel y tijera para que el rival no pueda explotarte fácilmente.
+2.  **Detecta patrones:** Observa si tu oponente tiende a repetir cuando gana o
+    a cambiar cuando pierde. Clasifícalo mentalmente como "repetidor" o
+    "cambiador".
+3.  **Contra‑adaptación:** Si suele repetir jugada después de ganar, adelántate y
+    juega la respuesta que lo vence en la siguiente ronda. Si cambia después de
+    perder, intenta anticipar hacia dónde cambiará.
+4.  **Rompe el meta de vez en cuando:** Lanza alguna jugada totalmente fuera de
+    patrón para "resetear" las lecturas del rival y que no pueda confiarse.
+5.  **Gestiona la serie:** En series al mejor de N, juega de forma más sólida en
+    las rondas decisivas, evitando riesgos innecesarios cuando el marcador está
+    ajustado.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Baseline mix: Use a balanced random mix to avoid exploitation early.
-2.  **[ES]** Pattern spotting: Track opponent streaks — repeaters vs switchers.
-3.  **[ES]** Counter‑adapt: If they repeat after wins, pre‑counter next round; if they switch after losses, anticipate the switch.
-4.  **[ES]** Meta resets: Throw an occasional off‑pattern choice to reset reads.
-5.  **[ES]** Series math: In best‑of N, tighten play near deciding rounds.
+- **Elegir jugada:** En cada ronda selecciona piedra, papel o tijera. Muchas
+  versiones permiten también modo 2 jugadores en el mismo dispositivo.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Pick rock/paper/scissors each round; local two‑player often available.
+- **P: ¿No es todo cuestión de azar en piedra‑papel‑tijera?**
+  
+  **R:** Los humanos solemos tener sesgos y patrones. Detectarlos y explotarlos
+  aumenta tu tasa de victorias a lo largo de muchas rondas.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Existe una estrategia imbatible?**
+  
+  **R:** No hay estrategia perfecta, pero una mezcla equilibrada y una rápida
+  adaptación a los patrones del rival son enfoques muy sólidos.
 
-- Q: Isn’t RPS random?
-
-A: Humans show biases; exploiting them raises win rate over many rounds.
-
-- Q: Any unbeatable strategy?
-
-A: No — but balanced mixes and quick adaptation are robust.
-
-- Q: Two‑player?
-
-A: Many builds include local 2P on one device.
-
+- **P: ¿Se puede jugar a dos jugadores?**
+  
+  **R:** Muchas versiones incluyen modo 2P local para jugar en el mismo
+  dispositivo.

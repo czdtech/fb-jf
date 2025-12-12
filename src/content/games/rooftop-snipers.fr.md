@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: rooftop-snipers
-title: '[FR] Rooftop Snipers'
+title: 'Rooftop Snipers'
 description: >-
-  [FR] Rooftop Snipers is the original physics-based shooting game where two
-  pixel characters fight on rooftops, using simple controls to shoot and knock
-  opponents off buildings with hilarious ragdoll physics.
+  Rooftop Snipers est le jeu de tir original basé sur la physique où deux
+  personnages pixelisés s’affrontent sur des toits, en se tirant dessus pour se
+  faire tomber des immeubles avec des effets ragdoll hilarants.
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/rooftop-snipers.jpg
 tags:
@@ -20,32 +20,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-"Rooftop Snipers" is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings. The game is famous for its hilarious ragdoll physics effects and simple yet challenging gameplay, laying the foundation for subsequent series games.
+Rooftop Snipers est le tout premier épisode de cette série de shooters
+physiques. Deux petits personnages pixelisés se tirent dessus sur des toits
+étroits, avec des commandes ultra simples, dans le but de faire tomber
+l’adversaire dans le vide. Le jeu est célèbre pour ses effets ragdoll très
+drôles et son gameplay aussi simple que punitif.
 
-### Gameplay Strategy
+### Stratégies de jeu
 
-1.  **[FR]** **Master Basic Controls**: Become proficient with the basic combination of movement, jumping, and shooting operations.
-2.  **[FR]** **Shooting Prediction**: Learn to predict opponent movement direction and aim ahead when shooting.
-3.  **[FR]** **Balance Control**: Maintain balance on roof edges, avoiding accidental falls due to weapon recoil.
-4.  **[FR]** **Rhythm Mastery**: Find the optimal combination rhythm for shooting, moving, and jumping.
-5.  **[FR]** **Positional Strategy**: Use rooftop terrain advantages to find the best shooting positions.
+1.  **Maîtriser les commandes de base :** deviens fluide dans la
+    combinaison déplacement + saut + tir.
+2.  **Anticiper les tirs :** apprends à prédire la direction où ton
+    adversaire se déplacera et vise légèrement devant lui.
+3.  **Contrôler l’équilibre :** fais attention au bord du toit ; le recul
+    de ton arme peut t’envoyer dans le vide si tu n’es pas prudent.
+4.  **Trouver le bon rythme :** enchaîne sauts, déplacements et tirs à un
+    tempo qui gêne la visée de l’adversaire.
+5.  **Exploiter le terrain :** certains toits offrent des petits reliefs ou
+    abris ; utilise‑les pour obtenir de meilleurs angles de tir.
 
-### How to Play
+### Comment jouer
 
-*   **[FR]** **Movement**: Use A/D keys or left/right arrow keys to control character left and right movement.
-*   **[FR]** **Jump**: Use W key or up arrow key to make character jump.
-*   **[FR]** **Shoot**: Use S key or down arrow key to shoot.
-*   **[FR]** **Combination Actions**: Can simultaneously perform combinations of movement, jumping, and shooting.
+*   **Déplacement :** utilise A/D ou les flèches gauche/droite pour te
+    déplacer.  
+*   **Saut :** appuie sur W ou la flèche haut pour sauter.  
+*   **Tir :** appuie sur S ou la flèche bas pour tirer.  
+*   **Combos :** combine saut, déplacement et tir pour mettre ton adversaire
+    sous pression.
 
-### Frequently Asked Questions
+### Foire aux questions
 
-1.  **[FR]** **Q: Why do I always fall off first?**
-**A**: You might be moving too aggressively or not mastering weapon recoil effects; need to control position more carefully.
-2.  **[FR]** **Q: How can I improve hit rate?**
-**A**: Practice aiming more, learn to predict opponent movement trajectories, and shoot when opponents are jumping.
-3.  **[FR]** **Q: How many players does the game support?**
-**A**: The original "Rooftop Snipers" is mainly a two-player battle game where two players can fight on the same device.
-4.  **[FR]** **Q: Is there a single-player mode?**
-**A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.
+1.  **Q : Pourquoi est‑ce toujours moi qui tombe en premier ?**  
+   R : Tu joues peut‑être trop agressif près du bord ou tu ne maîtrises pas
+   bien le recul. Essaie de rester un peu plus au centre du toit et de
+   gérer ton rythme de tir.
+
+2.  **Q : Comment améliorer mon taux de touches ?**  
+   R : Entraîne‑toi à viser où l’adversaire va être, pas où il est, et
+   profite des moments où il saute ou retombe.
+
+3.  **Q : Combien de joueurs le jeu supporte‑t‑il ?**  
+   R : Le jeu est principalement pensé pour des duels à deux joueurs sur le
+   même appareil.
+
+4.  **Q : Existe‑t‑il un mode solo ?**  
+   R : Le cœur du jeu reste le 1v1 local, mais certaines versions
+   proposent un mode contre l’IA.

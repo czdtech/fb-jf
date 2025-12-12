@@ -1,48 +1,44 @@
 ---
-locale: ja
-urlstr: we-become-what-we-behold
-title: '[JA TRANSLATION NEEDED] We Become What We Behold'
-description: >-
-  [JA TRANSLATION NEEDED] Explore the impact of media and sensationalism in We
-  Become What We Behold, a thought-provoking satirical game. Capture news events
-  with your camera, observe how your choices shape society, and witness the
-  consequences of focusing on negativity in this unique interactive experience.
-iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
+title: We Become What We Behold
+description: We Become What We Beholdは、社会実験ゲームです。メディアと人間行動の関係を探索しましょう。
+iframeSrc: 'https://ubg98.github.io/WeBecomeWhatWeBehold/'
 thumbnail: /new-images/we-become-what-we-behold.jpg
+urlstr: we-become-what-we-behold
+score: 4.6/5  (3892 votes)
 tags:
-  - satire
-  - social-commentary
-  - interactive-story
-score: 4.0/5  (987 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - experimental
+  - story
+  - social
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] "We Become What We Behold" is a short, satirical point-and-click game by Nicky Case that offers a sharp commentary on media, sensationalism, and how our focus on negativity can amplify societal divisions. The game challenges players to observe a small world of characters and decide what "news" to capture with their camera, directly influencing the narrative and the characters' behavior.
+We Become What We Beholdは、メディアと社会行動の関係を探るユニークな実験的ゲームです。カメラで写真を撮り、メディアが人々の行動にどう影響するかを観察します。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The core gameplay involves observing the screen and using your camera to photograph events.
-- **Observe:** Watch the characters (squares and circles) interact.
-- **Capture:** Click to take a photo of a "news" event. Your choice of what to photograph directly impacts what appears on the in-game TV screen, which in turn influences the characters' reactions.
-- **Consequences:** The game subtly demonstrates how focusing on controversial or shocking content can lead to a cycle of anger, fear, and division. There's no explicit win condition; the game typically ends with a dramatic climax reflecting the consequences of media sensationalism.
 
-### Controls Guide
+The core gameplay involves observing the screen and using your camera to photograph events.
+ - **写真を撮る：** カメラで興味深い瞬間を撮影します
+ - **影響を観察：** あなたの写真が人々に与える影響を見ます
+ - **連鎖反応：** メディアがどう社会を変えるかを体験します
+ - **メッセージを理解：** ゲームの深いメッセージを考えます
 
-- **Mouse:** Use your mouse to aim the camera and click to take a photograph.
+### 操作ガイド
 
-### Frequently Asked Questions (FAQ)
+ - **マウス：** カメラを動かして撮影
 
-[JA TRANSLATION NEEDED] **What is the meaning behind the game?**
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] The game is a critique of media sensationalism and how it shapes our perceptions and society. It highlights how focusing on negativity and conflict can lead to a cycle of division, echoing Marshall McLuhan's quote, "We become what we behold."
+**このゲームは何ですか？**
 
-[JA TRANSLATION NEEDED] **How long is the game?**
+メディアと社会行動についての社会実験的なゲームです。
 
-[JA TRANSLATION NEEDED] It's a very short experience, typically lasting around five minutes, designed to deliver its message concisely and powerfully.
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] **Is there a "right" way to play or win?**
+メディアの影響を観察し、ストーリーを体験することです。
 
-[JA TRANSLATION NEEDED] The game doesn't have a traditional win condition. Its purpose is to make you reflect on media consumption and its societal impact, rather than to achieve a high score or specific ending.
+**どれくらいの長さですか？**
 
+短いですが、非常に印象的な体験です（約5-10分）。

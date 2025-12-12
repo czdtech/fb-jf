@@ -1,49 +1,68 @@
 ---
 locale: zh
 urlstr: cards-21
-title: '[ZH TRANSLATION NEEDED] Cards-21'
-description: >-
-  [ZH TRANSLATION NEEDED] Cards-21 streamlines blackjack — hit or stand, manage
-  risk, and chase 21 without busting.
-iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
-thumbnail: /new-images/cards-21.png
+title: Cards 21 纸牌 21 点
+description: 《Cards 21 纸牌 21 点》是基于 Blackjack 规则的纸牌小游戏，通过抽牌和停牌让手牌尽量接近 21 且不爆牌，以超过 庄家点数为目标。
+iframeSrc: 'https://cards21.h5games.usercontent.goog/v/4va8gd1tci8p0/'
+thumbnail: /new-images/cards-21.jpg
 tags:
-  - card
   - casual
-  - thinky
-score: 3.8/5  (1547 votes)
+  - card
+score: 4.0/5  (1398 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+*Cards 21* 以经典 Blackjack（21 点）为基础，节奏更简洁、界面更轻量。你的目标是：在不超过 21 点的前提下，让自己的手牌点数尽可能接近 21，并且高于庄家的点数。
 
-[ZH TRANSLATION NEEDED] Cards-21 is a quick blackjack variant: draw cards to get as close to 21 as possible without going over. Face cards count as 10; aces can be 1 or 11. Some modes include multi‑hand play, insurance, or side bets.
+牌面点数规则与传统 21 点相同：  
+- 数字 2–10 按牌面点数计算；  
+- J / Q / K 记为 10 点；  
+- A 可记为 1 或 11，取对你更有利的点数。  
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Basic odds: Stand on hard 17+; hit 11 or lower; consider doubling on 10–11 versus weak dealer cards.
-2.  [ZH TRANSLATION NEEDED] Soft hands: With an ace counted as 11, hit more liberally; convert to hard when needed.
-3.  [ZH TRANSLATION NEEDED] Dealer upcard: Adjust risk based on dealer’s visible card (2–6 weak, 7–A strong).
-4.  [ZH TRANSLATION NEEDED] Bankroll: Use flat bets; avoid chasing losses.
-5.  [ZH TRANSLATION NEEDED] Side bets: Fun but higher house edge — play sparingly.
+游戏通常仅保留 Hit（要牌）与 Stand（停牌）等核心操作，非常适合想要快速体验一局轻松 21 点的玩家。
 
-### Controls Guide
+### 游戏流程与基础策略
 
-- Hit/Stand/Double/Split via on‑screen buttons.
-- Toggle side bets if available.
+1.  **起手发牌**  
+- 玩家与庄家各发两张牌，通常玩家的牌全部明示，庄家一明一暗。  
 
-### Frequently Asked Questions (FAQ)
+2.  **玩家回合：要牌或停牌**  
+- **Hit（要牌）：** 请求再抽一张牌；可多次要牌，只要总点数不超过 21。  
+- **Stand（停牌）：** 停止抽牌，以当前点数与庄家对比。  
+   - 如果在要牌过程中点数超过 21，则判定为爆牌（Bust），本局直接失败。  
 
-- Q: When should I split pairs?
-  
-[ZH TRANSLATION NEEDED]   A: Commonly split Aces and 8s; avoid splitting 10s and 5s. Follow the table’s basic strategy if shown.
+3.  **庄家回合：按固定规则要牌**  
+   - 庄家翻开暗牌，根据规则自动抽牌：一般在 16 点及以下继续要牌，17 点及以上必须停牌。  
+   - 最终比较双方点数，未爆牌并且点数更高的一方获胜。  
 
-- Q: Do aces count as 1 or 11?
-  
-[ZH TRANSLATION NEEDED]   A: They flex — automatically adjusted to avoid busting when possible.
+### 实用策略提示
 
-- Q: Is this beatable long‑term?
-  
-[ZH TRANSLATION NEEDED]   A: With perfect play you reduce house edge, but it remains positive over time.
+-   **避免在“高风险区”过度要牌**  
+    当你点数已经达到 12–16 时，每多要一张牌爆牌风险非常高。此时要结合庄家明牌判断：若庄家明牌偏弱，可选择保守停牌，让庄家自己爆牌；若庄家明牌很强，则可以考虑冒险再抽一张。
 
+-   **起手 A + 10 是最理想状态**  
+    起手拿到 A 和 10 点牌（或人头牌）即为 Blackjack，通常比普通 21 点更优，视规则可能享有更高赔率或优先胜利。
+
+-   **观察多局结果，合理调整风险偏好**  
+    虽然单局结果带有运气成分，但长期来看，保持合理的风险控制（不在明显“死局”里盲目要牌）会让你的总体表现更稳定。
+
+### 操作指南
+
+-   **要牌（Hit）：** 点击 Hit 按钮获得一张新牌。  
+
+A: Commonly split Aces and 8s; avoid splitting 10s and 5s. Follow the table’s basic strategy if shown.
+-   **停牌（Stand）：** 点击 Stand 结束自己的回合。  
+
+A: They flex — automatically adjusted to avoid busting when possible.
+-   **下注 / 再来一局：** 视具体版本，可以在每局开始前调整筹码，或在结算后点击“Play Again”开始新一局。  
+
+
+A: With perfect play you reduce house edge, but it remains positive over time.
+### 常见问题解答（FAQ）
+*   **问：爆牌后还能继续当前局吗？****
+    *   答：** 不行。一旦总点数超过 21，本局立即判负，需要开始新一局。
+*   **问：和庄家点数相同会怎样？****
+    *   答：** 视规则而定，多数情况下被视为“平局”（Push），你的赌注原数退回，不输不赢。

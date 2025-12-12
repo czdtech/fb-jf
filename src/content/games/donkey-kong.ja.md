@@ -1,44 +1,52 @@
 ---
-locale: ja
-urlstr: donkey-kong
-title: '[JA TRANSLATION NEEDED] Donkey Kong'
-description: >-
-  [JA TRANSLATION NEEDED] Donkey Kong is a classic arcade platformer: climb
-  ladders, avoid hazards, and reach the top to clear stages.
+title: Donkey Kong ドンキーコング
+description: 「ドンキーコング」は1981年の伝説的アーケードゲーム。マリオとなり、樽を飛び越え、ハシゴを登り、ドンキーコングからポリーンを救出せよ。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/donkey-kong.jpg
+urlstr: donkey-kong
+score: 4.0/5  (537 votes)
 tags:
   - platformer
   - arcade
-score: 4.0/5  (537 votes)
+developer: Nintendo
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Donkey Kong（ドンキーコング）*は、1981年に任天堂から発売された、アーケードゲームの金字塔です。このゲームでマリオ（当時はジャンプマンとも呼ばれました）とドンキーコングがデビューしました。
+プレイヤーはマリオを操作し、転がってくる樽や火の玉を避けながら鉄骨やハシゴを登り、最上段で待ち構えるドンキーコングにさらわれたレディ（ポリーン）を助け出します。25m、50m、75m、100mの4つの異なるステージを攻略しましょう。
+
+### 遊び方
+
+*   **目的:** 障害物を避けて最上段のポリーンの元へ辿り着くか（25m, 50m, 75m）、すべての留め具（リベット）を外してドンキーコングを落下させる（100m）ことでステージクリアとなります。
+*   **スコア:** 樽を飛び越える、ハンマーで敵を倒す、ポリーンの落とし物を拾うなどで加点されます。
+*   **ループ:** 全4ステージをクリアすると、難易度が上がって最初から始まります（周回プレイ）。
+
+### 操作ガイド
+
+*   **矢印キー:** 移動、ハシゴの昇り降り
+*   **上キー:** ハシゴを登る
+*   **スペースキー（またはZ/X）:** ジャンプ（ホストサイトにより異なります）
+*   **ハンマー:** 一度取ると自動で使用状態になり、一定時間前方の敵を叩き潰せますが、ハシゴを登れなくなります。
+
+### 攻略のヒント
+
+*   **ハシゴ待ち:** 樽が真上にある時にハシゴを登らないように。樽が通り過ぎるのを待ってから登りましょう。
+*   **樽の誘導:** 1面（25m）では、マリオがハシゴの上にいるか下にいるかで、ある程度樽が落ちてくるルートを誘導できるテクニックがあります。
+*   **ハンマーの使い所:** 敵が多い時には有効ですが、効果切れの瞬間に隙ができるので注意。また、ハンマーを持っている間はジャンプも登りもできないため、移動が制限されることを忘れずに。
+
+### よくある質問 (FAQ)
+
+*   **Q: ステージはいくつありますか？**
+
+A: Four: Girders (25m), Conveyors (50m), Elevators (75m), and Rivets (100m).
+- **A:** 25m（鉄骨）、50m（ベルトコンベア）、75m（エレベーター）、100m（リベット）の4種類です。家庭用移植版では容量の都合で一部カットされていることがありますが、オリジナル版はこの構成です。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Arcade classic (1981): climb girders and ladders as Mario, dodge barrels and fireballs, and use the hammer to smash hazards while you work through the four stage types (25m–100m) to rescue Pauline. Stages repeat with faster patterns after each level. 
+A: Yes, stages repeat at higher difficulty after each level.
+*   **Q: ゲームオーバーの条件は？**
 
-### How to Play
-- Clear the stage by reaching the top or removing rivets in the 100m stage.
-- Score by jumping barrels, smashing with the hammer, and collecting items.
-- Learn barrel patterns (straight vs. diagonal), conveyor timing, and elevator springs.
-
-### Controls
-- Arrow keys: Move/Climb.  
-- Up: Climb ladders; Jump: usually with a mapped key (host dependent).  
-- Action: Hammer is automatic once picked up, lasts for a short time.
-
-### Tips
-- Wait for safe ladder windows; don’t climb when a barrel is directly above.
-- On 25m, steer barrels by briefly facing a ladder to influence spawns.
-- Grab the hammer when traffic is dense, but don’t get trapped near ladders.
-
-### FAQ
-- Q: How many distinct stages are there?  
-[JA TRANSLATION NEEDED]   A: Four: Girders (25m), Conveyors (50m), Elevators (75m), and Rivets (100m).
-- Q: Does the game loop?  
-[JA TRANSLATION NEEDED]   A: Yes, stages repeat at higher difficulty after each level.
-- Q: What ends a run?  
-[JA TRANSLATION NEEDED]   A: Collisions, falling too far, or the bonus timer reaching zero.
-
+A: Collisions, falling too far, or the bonus timer reaching zero.
+    *   **A:** 敵や樽に触れる、高い所から落ちる、または制限時間（BONUSタイマー）がゼロになるとミスになります。

@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: soccar
-title: '[DE] SocCar'
-description: >-
-  [DE] Get behind the wheel in SocCar, an action-packed game that combines the
-  thrill of soccer with the power of cars. Drive on the field, boost into the
-  giant soccer ball, and score goals against your opponent. Master your driving
-  and aiming skills to win the match.
+title: "SocCar"
+description: "Setz dich ans Steuer in SocCar, einem actiongeladenen Spiel, das den Nervenkitzel von Fußball mit der Power schneller Autos verbindet. Rase über das Spielfeld, booste in den riesigen Fußball und schieße Tore gegen deine Gegner. Meistere Lenkung und Zielgefühl, um jedes Match zu gewinnen."
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/soccar.jpg
 tags:
@@ -17,33 +13,30 @@ score: 4.7/5  (870 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+SocCar ist ein rasantes Hybrid-Sportspiel, das die Geschwindigkeit eines Rennspiels mit dem klassischen Ziel eines Fußballmatches verbindet. Du steuerst ein Auto über ein großes Spielfeld und versuchst, einen riesigen Ball ins Tor deines Gegners zu schießen. Schnelle Reaktionen, clevere Positionierung und gezielte Boosts entscheiden darüber, wer gewinnt.
 
-### Game Introduction
+### Spielanleitung
 
-SocCar is an exciting hybrid sports game that blends the high-speed action of driving with the classic objective of soccer. Players control a car on a large field and compete to hit a giant ball into the opponent's goal. It's a game of fast reflexes, strategic positioning, and powerful boosts.
+Dein Ziel ist es, innerhalb des Zeitlimits mehr Tore zu erzielen als dein Gegner. In 1-gegen-1- oder 2-gegen-2-Duellen arbeitest du mit deinem Team zusammen, um die andere Seite auszuspielen. Nutze dein Auto, um den Ball zu "dribbeln" oder ihn mit voller Wucht für einen kraftvollen Schuss zu treffen. Entscheidend ist, wann du angreifst und wann du rechtzeitig zurückfährst, um dein eigenes Tor zu verteidigen.
 
-### Gameplay Guide
+### Steuerung
 
-The main goal is to score more goals than your opponent before time runs out. Work with your teammate (if in 2v2 mode) to outmaneuver the other team. Use your car to "dribble" the ball down the field or hit it with force for a powerful shot. Control of the ball is key, as is knowing when to attack and when to fall back and defend your goal.
+- **Bewegung:** Steuere dein Auto mit `WASD` oder den `Pfeiltasten` über das Feld.
+- **Boost/Dash:** Drücke `Shift` oder die `Leertaste`, um einen Geschwindigkeitsschub zu bekommen – ideal, um zuerst am Ball zu sein oder eine Rettungsaktion vor dem Tor zu machen.
+- **Sprung:** Nutze die `rechte Maustaste` oder die dafür vorgesehene Taste, um dein Auto springen zu lassen und hohe oder fliegende Bälle zu treffen.
 
-### Controls Guide
+### Häufig gestellte Fragen (FAQ)
 
-- **Movement:** Use `WASD` or `Arrow Keys` to drive your car around the field.
-- **Boost/Dash:** Press `Shift` or `Spacebar` to get a burst of speed. This is crucial for reaching the ball first or making a quick save.
-- **Jump:** Use the `Right Mouse Button` or a dedicated key to make your car jump, which is useful for aerial hits.
+**Was ist das Ziel in SocCar?**
 
-### Frequently Asked Questions (FAQ)
+Du musst mit deinem Auto den Ball ins Tor des gegnerischen Teams befördern und innerhalb des Zeitlimits mehr Treffer erzielen als dein Gegner.
 
-**What is the objective of SocCar?**
+**Gibt es eine gute Strategie, um zu gewinnen?**
 
-The objective is to use your car to hit the ball into the opposing team's goal, scoring more points than them within the time limit.
+Teamwork und Positionierung sind entscheidend. Lass nicht alle Spieler gleichzeitig dem Ball hinterherfahren. Besser ist es, wenn ein Spieler angreift, während andere sich für Pässe, Abpraller oder zur Verteidigung des Tores positionieren. Außerdem solltest du deinen Boost gezielt einsetzen, statt ihn zu verschwenden.
 
-**Is there a good strategy for winning?**
+**Worin unterscheidet sich SocCar von normalem Fußball?**
 
-Teamwork and positioning are critical. Don't have all players chase the ball at once. Instead, have one player attack the ball while others position themselves for a pass, a rebound, or to defend the goal. Managing your boost effectively is also essential for success.
-
-**How is this different from regular soccer?**
-
-In SocCar, you are a car! This means you can use high speeds, boosts, and jumps to interact with the ball in ways that are impossible in traditional soccer, leading to explosive and dynamic gameplay.
-
+In SocCar steuerst du ein Auto statt eines Spielers. Dadurch kannst du mit hoher Geschwindigkeit, Boosts und Sprüngen mit dem Ball interagieren – das sorgt für spektakuläre Aktionen, die im echten Fußball unmöglich wären.

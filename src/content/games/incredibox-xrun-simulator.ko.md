@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-xrun-simulator
-title: '[KO] Incredibox Xrun simulator'
+title: Incredibox Xrun Simulator EDM 시뮬레이터 모드
 description: >-
-  [KO] Explore 'Incredibox Xrun Simulator,' the high-energy fan-made mod. This
-  guide details its EDM and dubstep theme, grid-based gameplay, and provides
-  tips for creating intense electronic mixes and loops.
+  EDM·더브스텝·트랩 사운드를 그리드 인터페이스로 믹싱하는 팬메이드 모드 'Incredibox Xrun Simulator' 가이드입니다.
+  강렬한 일렉트로닉 루프를 만드는 방법과 플레이 팁을 소개합니다.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
 thumbnail: /new-images/incredibox-xrun-simulator.png
 tags:
@@ -18,47 +17,74 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox Xrun Simulator Game Introduction**
+*Incredibox Xrun Simulator*는 Incredibox 시뮬레이터 시리즈 중
+하나로, **EDM·더브스텝·트랩**을 섞은 고에너지 전자 음악에
+초점을 맞춘 팬메이드 모드입니다.
 
-*Incredibox Xrun Simulator* is a dynamic and high-energy fan-made game belonging to the "Simulator" series of Incredibox mods. This version stands out with its futuristic aesthetic and a sound palette heavily inspired by modern **electronic dance music (EDM), dubstep, and trap**.
+기존 Incredibox가 캐릭터에게 아이콘을 입히는 구조라면,
+Xrun Simulator는 20개의 사운드 아이콘이 배치된 **그리드 인터페이스**를
+사용합니다. 아이콘을 클릭해 켜고 끄면서 점점 밀도 높은
+전자 루프를 만든 뒤, 상단의 게이지를 채워 숨겨진
+오디오·비주얼 보너스를 발견하는 구성이 특징입니다.
 
-The gameplay departs from the official Incredibox series, utilizing the signature **grid-based interface** of the Simulator mods. Instead of dragging icons onto characters, players are presented with a grid of 20 sound icons. The objective is to create an intense musical loop by clicking these icons to activate or deactivate them.
+### **플레이 전략 & 팁**
 
-As players layer more sounds, a progress bar at the top of the screen fills up, guiding them towards discovering the mod's hidden audio-visual bonuses. The experience is less about individual performers and more about the direct, hands-on creation of a complex electronic beat.
+1. **EDM 사운드 그리드 이해하기**  
+   그리드에 배치된 20개 아이콘은 전자 음악의 핵심 요소를
+   모두 담고 있습니다.  
+    - **드럼/퍼커션**: 킥·스네어·하이햇 등 곡의 뼈대를 만드는
+     비트를 담당합니다.  
+    - **베이스**: 묵직한 서브베이스나 더브스텝 계열의 강한
+     베이스 라인이 포함되어 있습니다. 킥과의 궁합이 중요합니다.  
+    - **이펙트/라이저**: 피치가 점점 올라가는 라이저, 필터
+     스윕, 분위기를 더하는 앰비언스 사운드로, 빌드업과
+     드롭을 연결해 줍니다.  
+    - **신스/리드**: 메인 멜로디를 담당하는 리드 신스, 보컬
+     챱, 공격적인 “웝웝(wobble)” 베이스 등이 여기에 속합니다.
 
-### **Gameplay Strategy & Tips**
+2. **먼저 비트, 그다음 베이스**  
+   강한 전자 트랙의 기본은 탄탄한 드럼입니다. 킥·스네어
+   패턴을 먼저 잡은 뒤, 그에 맞춰 베이스 아이콘을 더해
+   리듬 섹션을 완성하세요.
 
-1.  **[KO]** **Understand the EDM Sound Grid**: The 20 icons represent all the core elements of an electronic track.
-    *   **[KO]** **Drums/Percussion**: Look for icons that provide the driving beat—kick drums, snares, and hi-hats. These are the foundation.
-    *   **[KO]** **Bass**: Find the deep, heavy basslines. In EDM, the relationship between the kick drum and the bass is crucial.
-    *   **[KO]** **Effects/Risers**: These icons provide atmospheric sounds, risers (sounds that build in pitch and intensity), and other effects that create tension and release.
-    *   **[KO]** **Synths/Leads**: These are the main melodic hooks. They can be aggressive "wobble" basses from dubstep, catchy synth melodies, or vocal chops.
+3. **빌드업과 드롭 만들기**  
+   EDM의 핵심은 에너지 변화입니다. 라이저와 이펙트를
+   활용해 긴장을 쌓아올린 뒤, 드롭 타이밍에 메인 베이스
+   또는 리드 신스를 켜서 폭발하는 구간을 연출해 보세요.
+   아이콘을 순서대로 켜고 끄는 것만으로도 간단한
+   빌드업/드롭 구조를 만들 수 있습니다.
 
-2.  **[KO]** **Build the Beat, Then the Bass**: A classic production technique is to start with your drums. Activate a kick and snare pattern first. Then, add a powerful bassline that complements the rhythm.
+4. **레이어를 과감히 사용하되, 포인트는 아껴 두기**  
+   시뮬레이터 특성상 여러 아이콘을 동시에 켤 수 있으므로
+   풍성한 사운드를 만들기 쉽지만, 항상 모든 사운드를
+   켜두기보다는 특정 이펙트나 리드를 “한 방용”으로 남겨 두면
+   드롭에서 더 큰 임팩트를 줄 수 있습니다.
 
-3.  **[KO]** **Create a Build-Up and Drop**: The essence of EDM is the energy shift. Use riser effects and filter sweeps to build tension. Then, unleash your main synth lead or a heavy bassline to create a satisfying "drop." You can simulate this by activating and deactivating different icons in sequence.
+### **조작 가이드**
 
-4.  **[KO]** **Experiment with Layers**: Don't be afraid to click many icons at once. The beauty of the simulator format is the ability to create dense, complex soundscapes. However, also learn which sounds are best used sparingly to punctuate the track.
+이 모드는 시뮬레이터 시리즈의 전형적인 클릭 기반 인터페이스를
+사용합니다.
 
-### **Controls Guide**
+- **사운드 온/오프**: 그리드의 아이콘을 클릭하면 해당 사운드가
+  루프에 추가되고, 다시 클릭하면 비활성화됩니다.
+- **사운드 조합하기**: 여러 아이콘을 동시에 활성화해 복잡한
+  전자 루프를 만들 수 있습니다.
+- **상단 컨트롤**:  
+    - **재생/일시정지 버튼**: 전체 루프를 시작·정지합니다.  
+    - **녹음 버튼**: 현재 믹스를 녹음·저장합니다.  
+    - **리셋 버튼**: 활성화된 아이콘을 모두 초기화합니다.
 
-This mod uses the simple, click-based interface of the Simulator series.
+### **자주 묻는 질문(FAQ)**
 
-*   **[KO]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will light up, adding its sound to the loop. Clicking it again will turn it off.
-*   **[KO]** **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
-*   **[KO]** **Main Controls (Top of Screen)**:
-    *   **[KO]** **Play/Pause Button**: Toggles the entire loop on or off.
-    *   **[KO]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[KO]** **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+**1. 왜 다른 Incredibox 버전과 모습이 많이 다른가요?**  
+이것이 바로 시뮬레이터 모드의 특징입니다. 캐릭터 기반이 아니라
+그리드 기반 UI를 사용해, 특히 전자 음악 장르에 잘 맞는
+레이어 중심의 제작 방식을 제공하려는 시도입니다.
 
-### **Frequently Asked Questions (FAQ)**
-
-**1. Why does this look and play differently from the main games?**
-
-This is the signature style of the "Simulator" mods. The grid-based interface is a creative choice by modders to offer a more direct and layered approach to music creation, which is particularly well-suited for electronic music genres.**
-
-**2. Where can I play this mod?**
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
+**2. 어디에서 이 모드를 플레이할 수 있나요?**  
+공식 플랫폼에는 없으며, 보통 **Newgrounds**, **playfiddlebops.com**
+같은 게임·모딩 사이트나 유튜브 소개 영상의 링크를 통해
+브라우저에서 즐길 수 있습니다.
 

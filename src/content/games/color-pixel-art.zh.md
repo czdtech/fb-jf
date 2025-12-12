@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: color-pixel-art
-title: '[ZH TRANSLATION NEEDED] Color Pixel Art Classic'
+title: Color Pixel Art Classic 像素填色经典版
 description: >-
-  [ZH TRANSLATION NEEDED] Relax and unwind with this classic color-by-number
-  pixel art game. Select a color, find the corresponding number, and fill in the
-  pixels to reveal a beautiful piece of art.
+  在《Color Pixel Art Classic 像素填色经典版》中，通过数字填色的方式完成一幅幅精致的
+  像素画。选择颜色、找到对应编号方格并填充，逐步还原隐藏在像素里的完整图像，是非常 解压的休闲体验。
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/color-pixel-art.png
 tags:
@@ -20,29 +19,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Color Pixel Art Classic is a relaxing and satisfying color-by-number puzzle game. It allows you to choose from a wide variety of pixelated images and bring them to life with color. Each pixel in an image is numbered, corresponding to a specific color in your palette. By carefully filling in all the pixels, you will gradually reveal a beautiful and complete piece of pixel art. It's a perfect game for unwinding and expressing creativity without needing any artistic skill.
+《Color Pixel Art Classic 像素填色经典版》是一款轻松治愈的数字填色拼图游戏。你可以从
+大量像素风图片中自由选择一张，通过按编号填色的方式，让原本灰白的像素格子逐渐“苏醒
+”并被色彩点亮。每一个像素格都有对应的数字，而调色盘上的每一种颜色也有相应的编号。
+
+你不需要任何绘画基础，只要耐心地把所有编号格填满，就能完整还原出一幅漂亮的像素作
+品——非常适合作为睡前、午休或碎片时间的放松小游戏，同时又能满足一点点“创作欲”。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Choose an Image:** Start by browsing the gallery and selecting an image you'd like to color.
-2.  [ZH TRANSLATION NEEDED] **Select a Color:** Tap on a color from the palette at the bottom of the screen. The game will highlight all the pixels on the grid that correspond to that color's number.
-3.  [ZH TRANSLATION NEEDED] **Fill the Pixels:** Zoom in on the highlighted areas and tap each numbered pixel to fill it with the selected color. Many games allow you to click and drag to quickly fill in adjacent pixels of the same number.
-4.  [ZH TRANSLATION NEEDED] **Complete the Picture:** Continue this process for every color in the palette. Once a color is fully filled in, it will often be grayed out or marked with a check, indicating you are done with that number. The puzzle is complete when every pixel has been colored.
+
+1.  **选择一张喜欢的图：** 先在图库中浏览，挑选一幅你想完成的像素图。图案越复杂，完
+    成所需时间通常也越长。
+2.  **选定颜色：** 点击屏幕下方调色盘中的某个颜色，该颜色对应的所有编号像素会在画布
+    上被高亮标出，方便你集中处理。
+3.  **填充像素：** 放大到高亮区域，依次点击对应编号的像素格进行上色。很多版本支持按
+    住并拖动来批量涂色，可以大幅提升填色效率。
+4.  **逐色完成整幅图：** 对调色盘中的每一种颜色重复以上步骤。某种颜色全部填完后，通
+    常会在调色盘中被灰显或打勾，表示该色已完成。当所有像素格都被正确上色时，整个像
+    素画就宣告完成。
 
 ### Controls Guide
 
-*   **Select Color:** Click or tap on a color in the palette at the bottom.
-*   **Fill Pixel:** Click or tap on the corresponding numbered pixel on the grid.
-*   **Zoom:** Use your mouse scroll wheel or pinch-to-zoom on a touch screen to zoom in and out, making it easier to find small pixels.
-*   **Pan:** Click and drag the image (when zoomed in) to move around the canvas.
+*   **选择颜色：** 点击/轻触底部调色盘中的颜色块。
+*   **填充像素：** 在画布上点击/轻触对应编号的像素格即可上色。
+*   **缩放画面：** 使用鼠标滚轮或在触屏上双指捏合缩放，以便更轻松地找到小像素。
+*   **拖动画布：** 在放大状态下按住画面拖动，即可在画布上平移视角。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I find all the pixels for a specific color?**
-     *   **A:** When you select a color from the palette, the game will automatically highlight all the pixels you need to fill with that color. This makes them much easier to spot.
+*   **Q: 怎么快速找到某种颜色的所有像素？**  
+    **A：** 选中调色盘中的某个颜色后，游戏通常会自动高亮该颜色对应的所有像素格。你可
+    以先缩小查看总体位置，再放大到重点区域逐一填色。
 
-*   **Q: I can't find the last few pixels of a color. What should I do?**
-     *   **A:** Zoom in! The remaining pixels are often very small or located in tricky spots. Zooming in as much as possible is the best way to find them.
+    - **Q: 总有一两格像素找不到，怎么办？**  
+    **A：** 尽量把画面放到最大。有些像素格非常小，可能藏在边角或细节处。充分缩放并慢
+    慢拖动画布，通常都能找到最后的遗漏点。
 
-*   **Q: Is there a time limit or a way to lose?**
-     *   **A:** No. This is a purely relaxing game. There are no timers, scores, or penalties. You can take as much time as you need and even leave a puzzle and come back to it later.
+*   **Q: 这游戏有时间限制或失败条件吗？**  
 
+    - **A:** No. This is a purely relaxing game. There are no timers, scores, or penalties. You can take as much time as you need and even leave a puzzle and come back to it later.
+
+- **Q: Is there a time limit or a way to lose?**
+
+    - **A:** Zoom in! The remaining pixels are often very small or located in tricky spots. Zooming in as much as possible is the best way to find them.
+    **A：** 没有。《Color Pixel Art Classic》完全是放松向体验，没有计时、也没有失败惩罚
+    。你可以分多次慢慢填色，随时中断再回来继续。

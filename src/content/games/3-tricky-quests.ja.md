@@ -1,86 +1,81 @@
 ---
+title: "Brain Test 3: Tricky Quests 脳トレテスト3：トリッキークエスト"
+description: "「Brain Test 3: Tricky Quests」をプレイする絶好のチャンスです。冒険とパズルが融合したこのゲームを存分にお楽しみください！"
+iframeSrc: "https://bitlifeonline.github.io/brain-test-3-tricky-quests/"
+thumbnail: "/new-images/3-tricky-quests.jpg"
+urlstr: "3-tricky-quests"
+score: "3.6/5  (787 votes)"
+tags: ["casual", "rhythm"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: 3-tricky-quests
-title: '[JA TRANSLATION NEEDED] Brain Test 3: Tricky Quests'
-description: >-
-  [JA TRANSLATION NEEDED] Here's your chance to play Brain Test 3: Tricky Quests
-  Game. Have fun with this one!
-iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
-thumbnail: /new-images/3-tricky-quests.jpg
-tags:
-  - casual
-  - rhythm
-score: 3.6/5  (787 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+*Brain Test 3: Tricky Quests（脳トレテスト3：トリッキークエスト）*は、Unico Studioが贈る人気シリーズの第3弾です。「常識にとらわれない思考」や「ルールを破る」といったパズル解決の核心はそのままに、本作では冒険と物語の要素を大幅に強化し、「パズルアドベンチャーゲーム」として大きな進化を遂げています。
 
+プレイヤーは主人公の**アリックス（Alyx）**となり、魔法によって囚われた父親を救うため、6つのパワージェム（Power Gems）を探す旅に出ます。前作までの独立したレベル構成とは異なり、*Brain Test 3*ではつながりのあるゲーム世界と、壮大なメインストーリーが展開されます。
 
-[JA TRANSLATION NEEDED] *Brain Test 3: Tricky Quests* is the third installment in the series from Unico Studio. While preserving the core "think outside the box" and "break the rules" puzzle-solving gameplay, this title introduces a significant evolution by incorporating stronger adventure and narrative elements, making it feel more like a puzzle-adventure game.
+**主な特徴：**
 
-[JA TRANSLATION NEEDED] In the game, players take on the role of **Alyx**, who embarks on a journey to find six Power Gems to save her magically trapped father. Unlike the level-based structure of its predecessors, *Brain Test 3* features an interconnected game world and a complete, overarching storyline.
+*   **冒険とパズルの融合：** 単にレベルを順にクリアしていくだけではありません。プレイヤーは様々なシーンを探索し、アイテムを見つけ、それらを使って道をふさぐパズルを解かなければなりません。
+*   **インベントリ（持ち物）システム：** 本作最大の新機能です。環境にある様々なアイテムを集めてアリックスのバックパックに収納できます。これらのアイテムをどう組み合わせるか、あるいはいつどこで使うかを考える必要があります。
+*   **ワークショップシステム：** アリックスには専用の作業場（ワークショップ）があり、冒険に必要な重要なアイテムを組み合わせたり、ツールをアップグレードしたりできます。
+*   **対話システム：** NPC（ノンプレイヤーキャラクター）との会話システムが導入されています。彼らと話すことで手がかりを得たり、物語を進めたりできます。選んだ選択肢によって、異なる（そしてしばしばユーモラスな）結果が待っています。
+*   **伝統のひっかけパズル：** 新しいシステムが増えても、ゲームの心臓部は変わりません。想像力を駆使し、常識を疑う必要がある「ひっかけパズル」は健在です。ドラッグ、シェイク（振る）、ズームといった定番の操作も解決の鍵となります。
 
-[JA TRANSLATION NEEDED] **Key Features:**
+---
 
-*   **Fusion of Adventure and Puzzles:** The game is no longer a linear sequence of levels. Players must explore different scenes, find items, and use them to solve puzzles that block their path.
-*   **Inventory System:** This is the biggest new feature. Players can collect various items found in the environment and store them in Alyx's backpack. You need to figure out how to combine these items or apply them to specific scenarios at the right moment.
-*   **Workshop System:** Alyx has a workshop where you can combine key quest items or upgrade your tools, preparing you for the adventures ahead.
-*   **Interactive Dialogue:** The game introduces a dialogue choice system. By talking to NPCs (Non-Player Characters), you can obtain clues and advance the plot. Different choices can lead to different (and often humorous) outcomes.
-*   **Classic Tricky Puzzles:** Despite the new systems, the heart of the game remains the same: tricky puzzles that require you to use your imagination and challenge conventional thinking. Classic interactions like dragging, shaking, and zooming are still key to finding solutions.
+### **2. 冒険の歩き方（攻略ガイド）**
 
-[JA TRANSLATION NEEDED] ---
+*Brain Test 3* の攻略には、前作までの柔軟な思考に加え、リソース管理と探索への集中力が求められます。
 
-### **2. Game Walkthrough**
+*   **基本は「探索と収集」：**
+    *   新しいエリアに入ったら、すぐにパズルを解こうとしないでください。まずは怪しいオブジェクトを片っ端からタップして、インベントリに回収できるものがないか慎重に探しましょう。
+*   **インベントリを使いこなす：**
+    *   **ドラッグして使用：** 困難に直面したら、バックパックを開き、中のアイテムを画面上のキャラクターやオブジェクトにドラッグしてみましょう。
+    *   **アイテムの合成：** 時には、インベントリ内で2つのアイテムを重ね合わせることで、より役に立つ新しい道具を作れることがあります。
+    *   **持ち物を忘れない：** 自分が何を持っているか思い出してください。今のパズルの正解は、ずいぶん前に拾った目立たないアイテムかもしれません。
+*   **会話のヒントを見逃さない：**
+    *   すべての会話をよく読みましょう。NPCの言葉には、次に何をすべきか、何を探すべきかの直接的・間接的なヒントが含まれています。
+*   **詰まった時のチェックリスト：**
+    1.  画面内のすべての要素に触れましたか？（タップ、ドラッグ、こするなど）
+    2.  バックパックの中に、ここで使えそうなアイテムはありませんか？
+    3.  バックパックの中でアイテムを合成できませんか？
+    4.  取り逃がしたアイテムを探すために、前のシーンに戻る必要はありませんか？
+    5.  会話の中で重要な情報を聞き逃していませんか？
+*   **ヒントシステムはあなたの味方：**
+    *   どうしても万策尽きた場合は、内蔵の「電球」ヒントシステムを使いましょう。決定的な手順や必要なアイテムを指し示し、壁を乗り越える手助けをしてくれます。
 
-[JA TRANSLATION NEEDED] The strategy for *Brain Test 3* not only inherits the mindset of the previous games but also requires a greater focus on resource management and exploration.
+---
 
-*   **Core Principle: Explore and Collect**
-    *   新しいエリアに入るときは、すぐにパズルを解こうとしないでください。まず、すべての怪しいオブジェクトを注意深く観察してタップし、インベントリに収集できるものを確認してください。
-*   **Master Your Inventory:**
-    *   **[JA TRANSLATION NEEDED] Drag and Use:** When facing a challenge, open your backpack and try dragging items from it onto characters or objects in the scene.
-    *   **[JA TRANSLATION NEEDED] Combine Items:** Sometimes, you need to drag two items onto each other within the inventory to craft a new, more useful tool.
-    *   **[JA TRANSLATION NEEDED] Check All Items:** Don't forget what you're carrying. The key to the current puzzle might be an inconspicuous item you collected a long time ago.
-*   **Pay Attention to Clues in Dialogue:**
-    *   [JA TRANSLATION NEEDED] Read all conversations carefully. NPCs' words often directly or indirectly hint at what you need to do next or what item you should be looking for.
-*   **Checklist for When You're Stuck:**
-    1.  [JA TRANSLATION NEEDED] Have I interacted with every element in the scene? (Tapping, dragging, rubbing, etc.)
-    2.  [JA TRANSLATION NEEDED] Is there an item in my backpack that I can use here?
-    3.  [JA TRANSLATION NEEDED] Can I combine items in my backpack to create a new tool?
-    4.  [JA TRANSLATION NEEDED] Do I need to return to a previous scene to find a missed item?
-    5.  [JA TRANSLATION NEEDED] Did I miss any key information in the dialogue?
-*   **The Hint System is Still Your Friend:**
-    *   [JA TRANSLATION NEEDED] If all else fails, the built-in "light bulb" hint system is still available. It will point you toward the critical step or the required item, helping you overcome the obstacle.
+### **3. 操作ガイド**
 
-[JA TRANSLATION NEEDED] ---
+*Brain Test 3* の操作は、前作までの基本に加え、インベントリ操作が追加されています。
 
-### **3. Operation Guide**
+| アクション | 説明 | 例 |
+| :--- | :--- | :--- |
+| **タップ／クリック** | オブジェクトやキャラ、選択肢へのインタラクト、アイテム収集。 | 落ちている鍵をタップして拾う、会話の選択肢を選ぶ。 |
+| **ドラッグ＆ドロップ** | シーン内の物を動かす、インベントリのアイテムを使用する。 | 梯子を木にかける、バックパックから食べ物を犬に与える。 |
+| **アイテム合成** | 開いたインベントリ内で、アイテムを別のアイテムに重ねる。 | ロープとフックを組み合わせて、グラップリングフック（鉤縄）を作る。 |
+| **スワイプ** | 汚れを拭く、障害物を退ける。 | 砂の山をスワイプして、下に埋まっているアイテムを見つける。 |
+| **ピンチ（拡大・縮小）** | 特定のオブジェクトを拡大・縮小する。 | 写真をズームして細部を確認する。 |
+| **デバイスを振る／傾ける** | スマホの物理センサーを使ってアクションを起こす。 | スマホを振って木からココナッツを落とす。 |
 
-[JA TRANSLATION NEEDED] The controls in *Brain Test 3* build upon the foundation of its predecessors, with the addition of inventory interactions.
+---
 
-[JA TRANSLATION NEEDED] | Action | Description | Example |
-[JA TRANSLATION NEEDED] | :--- | :--- | :--- |
-[JA TRANSLATION NEEDED] | **Tap/Click** | To interact with objects, characters, or dialogue options; to collect items. | Tapping a key on the ground to pick it up; selecting a dialogue choice. |
-[JA TRANSLATION NEEDED] | **Drag & Drop** | To move objects within the scene or to use an item from the inventory. | Dragging a ladder to a tree; dragging food from the backpack to a dog. |
-[JA TRANSLATION NEEDED] | **Item Combination** | Within the open inventory, drag one item on top of another. | Combining a rope and a hook to create a grappling hook. |
-[JA TRANSLATION NEEDED] | **Swipe** | To wipe away dirt or move obstacles. | Swiping away a pile of sand to uncover an item beneath it. |
-[JA TRANSLATION NEEDED] | **Pinch to Zoom** | To enlarge or shrink specific objects. | Zooming in on a photo to see a detail. |
-[JA TRANSLATION NEEDED] | **Shake/Tilt Device** | To interact using the phone's physical sensors. | Shaking the phone to make a coconut fall from a tree. |
+### **4. よくある質問 (FAQ)**
 
-[JA TRANSLATION NEEDED] ---
+**Q: バックパック（インベントリ）のアイテムはどうやって使うのですか？**
+**A:** 画面下部のバックパックアイコンをタップして開きます。使いたいアイテムを長押しし、ゲーム画面内の対象となる場所へドラッグします。アイテム同士を合成したい場合は、インベントリ画面の中でアイテムを別のアイテムにドラッグして重ねてください。
 
-### **4. Frequently Asked Questions (FAQ)**
+**Q: Brain Test 3 は、前の2作と何が根本的に違うのですか？**
+**A:** 最大の違いはゲームの構造です。*Brain Test 1* は単発パズルの詰め合わせ、*Brain Test 2* は章ごとのストーリー形式でした。対して *Brain Test 3* は、完全なメインストーリー、インベントリシステム、相互につながったマップを持つ、本格的な「パズルアドベンチャーゲーム」へと進化しており、自由度と連続性が高まっています。
 
-[JA TRANSLATION NEEDED] **Q: How do I use the items in my backpack (inventory)?**
-[JA TRANSLATION NEEDED] **A:** Tap the backpack icon at the bottom of the screen to open it. Then, press and hold the item you want to use and drag it to the target location in the game scene. To combine items, drag one item onto another within the inventory screen.
+**Q: どうしても通れない場所があります。なぜですか？**
+**A:** 重要なアイテムが欠けている可能性が高いです。以前訪れたシーンに戻り、取り逃がした収集アイテムがないか慎重に探してみてください。また、ワークショップで新しいクエストアイテムを作成できるかどうかも確認しましょう。
 
-[JA TRANSLATION NEEDED] **Q: What is the fundamental difference between Brain Test 3 and the first two games?**
-[JA TRANSLATION NEEDED] **A:** The main difference lies in the game structure. *Brain Test 1* is a collection of standalone puzzles. *Brain Test 2* introduced story-based chapters. *Brain Test 3* evolves into a full-fledged puzzle-adventure game with a complete main story, an inventory system, and an interconnected map, offering more freedom and continuity.
+**Q: このゲームは無料ですか？**
+**A:** はい、*Brain Test 3* は無料でダウンロードして遊べますが、広告が含まれています。ヒントを得るために広告を視聴することができます。また、広告を削除するためのアプリ内課金も用意されています。
 
-[JA TRANSLATION NEEDED] **Q: Why can't I get past a certain area?**
-[JA TRANSLATION NEEDED] **A:** It's highly likely you are missing a key item. Try returning to previously visited scenes and search carefully for any collectible items you may have missed. Also, check if you can craft a new quest item in your workshop.
-
-[JA TRANSLATION NEEDED] **Q: Is this game free?**
-[JA TRANSLATION NEEDED] **A:** Yes, *Brain Test 3* is free to download and play, but it contains ads. You can watch ads to receive hints. The game also offers an in-app purchase to remove ads.
-
-[JA TRANSLATION NEEDED] **Q: What is the Workshop for?**
-[JA TRANSLATION NEEDED] **A:** The workshop is a crucial location for advancing the main plot. When you collect specific quest items (like fragments of a Power Gem), you need to return to the workshop to assemble them or to craft/upgrade special tools necessary for your progress.
+**Q: ワークショップは何のためにあるのですか？**
+**A:** ワークショップはメインストーリーを進めるための重要な拠点です。特定のクエストアイテム（パワージェムの欠片など）を集めたら、ワークショップに戻ってそれらを組み立てたり、進行に必要な特別な道具を作ったりアップグレードしたりする必要があります。

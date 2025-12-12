@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: jewel-halloween
-title: '[ES] Jewel Halloween'
+title: "Jewel Halloween"
 description: >-
-  [ES] Jewel Halloween is a spooky match‑3 — swap gems, trigger cascades, and
-  clear stage goals.
+  Jewel Halloween es un match‑3 con ambiente tenebroso: intercambia gemas,
+  provoca cascadas y cumple los objetivos de cada nivel.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/jewel-halloween.png
 tags:
@@ -16,28 +16,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Jewel Halloween es un match‑3 de temporada. Intercambia gemas adyacentes para
+formar líneas de tres o más, crear gemas especiales y cumplir objetivos como
+alcanzar cierta puntuación, superar niveles con movimientos limitados o limpiar
+bloqueadores.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Jewel Halloween is a seasonal match‑3. Swap adjacent gems to make lines of three or more, spawn power gems, and complete targets like score thresholds, limited moves, or clearing obstacles.
+1.  **Trabaja desde abajo:** haz combinaciones cerca de la parte inferior del
+    tablero para generar cascadas que limpien líneas superiores.
+2.  **Da prioridad a los objetivos:** céntrate en romper bloqueadores o cumplir
+    metas de nivel antes que en puntuar por puntuar.
+3.  **Combina power‑ups:** fusionar gemas especiales es la mejor forma de limpiar
+    grandes zonas del tablero.
+4.  **Piensa dos jugadas por delante:** evita dejar colores aislados en esquinas
+    o paredes difíciles.
+5.  **Guarda los combos fuertes:** reserva las mejores combinaciones para
+    objetivos ajustados o zonas muy cargadas.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Work from bottom to trigger cascades.
-2.  **[ES]** Prioritize objectives (e.g., blockers) over raw scoring.
-3.  **[ES]** Combine power gems for board‑wide clears.
-4.  **[ES]** Plan two moves ahead to avoid isolating colors.
-5.  **[ES]** Save strong combos for tight goals.
+- **Intercambiar:** arrastra dos gemas adyacentes para intercambiarlas.
+- **Power‑ups:** actívalos haciéndolos coincidir en una combinación o, según las
+  reglas del nivel, tocándolos directamente.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Swap: Drag adjacent gems to swap.
-- Power‑ups: Activate by matching or tapping per rules.
+- **Me quedo sin movimientos muy rápido. ¿Qué hago mal?**  
+  R: Deja de buscar solo tríos pequeños y céntrate en bloquear menos, generar
+  cascadas y usar power‑ups para romper obstáculos.
 
-### Frequently Asked Questions (FAQ)
+- **¿Se permiten combinaciones en diagonal?**  
+  R: Normalmente no; revisa las reglas del modo de juego.
 
-- Stuck on move limits? Focus on blockers and cascades rather than small matches.
-- Are diagonals allowed? Usually no—follow mode rules.
-- Hints available? Often yes; use sparingly.
-
+- **¿Hay sistema de pistas?**  
+  R: Suele haber pistas automáticas; úsalas con moderación para no depender de
+  ellas.

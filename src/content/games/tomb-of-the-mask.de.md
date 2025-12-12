@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: tomb-of-the-mask
-title: '[DE] Tomb of the Mask'
-description: >-
-  [DE] Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game!
-  Swipe to move your character from wall to wall, collecting coins and power-ups
-  while outrunning a rising flood. Master precise movements and quick decisions
-  to survive and uncover the tomb's secrets.
+title: "Tomb of the Mask"
+description: "Rase durch gefährliche Labyrinthe in Tomb of the Mask: Wische dich von Wand zu Wand, sammle Münzen und Power‑ups und entkomme der aufsteigenden Flut, bevor sie dich erwischt."
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/tomb-of-the-mask.jpg
 tags:
@@ -17,35 +13,29 @@ score: 3.7/5  (843 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Tomb of the Mask ist ein rasantes Arcade‑Spiel, das Labyrinth‑Navigation mit Endless‑Runner‑Gefühl kombiniert. Du steuerst eine Figur im Pixel‑Look, die sich per Wischgeste von Wand zu Wand katapultiert. Auf dem Weg sammelst du Münzen und Power‑ups – während von unten eine gefährliche Flut aus Tinte oder Lava stetig nach oben steigt.
 
-### Game Introduction
+### Spielanleitung
 
-Tomb of the Mask is a highly addictive, fast-paced arcade game that combines elements of maze navigation and endless runner. Players control a character who moves by swiping, sliding from wall to wall in a pixel-art maze. The primary goal is to collect coins and power-ups while outrunning a constantly rising flood of ink or lava from below.
+- **Bewegung:** Wische in eine der vier Richtungen (oben, unten, links, rechts). Deine Figur schießt in diese Richtung, bis sie auf ein Hindernis prallt.
+- **Sammeln:** Nimm Münzen und Punkte‑Dots mit, die im Labyrinth verteilt sind.
+- **Power‑ups:** Schilde, Speed‑Boosts oder Freeze‑Effekte helfen dir, länger zu überleben und Fehler zu verzeihen.
+- **Hindernissen ausweichen:** Umgehe Stacheln, Fallen und Gegner, die dich bei Kontakt sofort ausschalten.
+- **Flut abhängen:** Die farbige Flut steigt kontinuierlich von unten – bleib in Bewegung und arbeite dich nach oben.
 
-### Gameplay Guide
+### Steuerung
 
-- **Movement:** Swipe in any of the four cardinal directions (up, down, left, right). Your character will slide in that direction until they hit an obstacle.
-- **Collect:** Gather coins and dots scattered throughout the maze.
-- **Power-ups:** Pick up various power-ups like shields, speed boosts, or freeze abilities to help you survive.
-- **Avoid Obstacles:** Dodge spikes, traps, and enemies.
-- **Outrun the Flood:** A colored flood rises from the bottom of the screen, forcing you to move quickly upwards.
+- **Wischen:** Auf dem Handy wischst du in die gewünschte Richtung. Am PC steuerst du je nach Version mit `Pfeiltasten` oder `WASD`.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- **Swipe:** Swipe your finger across the screen (on mobile) or use `Arrow Keys` / `WASD` (on PC) to control your character's movement.
+**Wie bekomme ich eine hohe Punktzahl?**  
+Bleib so lange wie möglich am Leben, sammle viele Münzen und nutze Power‑ups gezielt. Effiziente Routen durch das Labyrinth und schnelle Entscheidungen bringen die besten Scores.
 
-### Frequently Asked Questions (FAQ)
+**Was passiert, wenn ich ein Hindernis berühre?**  
+In der Regel bedeutet eine Berührung mit Stacheln, Fallen oder Gegnern den sofortigen Tod und das Ende deines Runs. Nur bestimmte Power‑ups können dich kurzzeitig schützen.
 
-**How do I get a high score?**
-
-A high score is achieved by surviving longer, collecting more coins, and utilizing power-ups effectively. Focus on efficient pathfinding and quick reflexes.
-
-**What happens if I hit an obstacle?**
-
-Hitting an obstacle will usually result in instant death, ending your run. Some power-ups might offer temporary protection.
-
-**Are there different masks?**
-
-Yes, as you progress and collect coins, you can unlock various masks. Each mask might offer a unique ability or bonus, adding a strategic layer to your runs.
-
+**Gibt es verschiedene Masken?**  
+Ja, mit gesammelten Münzen kannst du neue Masken freischalten. Viele davon bringen besondere Effekte oder kleine Boni und verändern deinen Spielstil leicht.

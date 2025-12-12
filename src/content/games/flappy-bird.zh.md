@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: flappy-bird
-title: '[ZH TRANSLATION NEEDED] Flappy Bird'
+title: "Flappy Bird 像素小鳥"
 description: >-
-  [ZH TRANSLATION NEEDED] Tap‑to‑flap endless runner: guide the bird through
-  pipe gaps to increase your score without touching obstacles.
+  單點操作的無盡跑酷：點擊讓小鳥拍翅膀穿過水管縫隙，不碰到任何障礙就能持續累積分數。
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/flappy-bird.jpg
 tags:
@@ -17,26 +16,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Single‑tap arcade challenge: each flap lifts the bird; release to descend. Passing a pipe pair earns one point.
+
+經典的單鍵街機挑戰，每一次點擊都會讓小鳥向上拍翅，放開後牠就會自然下降。
+每穿過一組上下水管就能拿到 1 分，操作看似簡單，實際上非常吃節奏與手感。
 
 ### How to Play
-- Keep a steady rhythm of short taps; adjust quickly after each gap.
-- Avoid tapping near the top lip; give space for recovery.
-- Focus on the next gap, not the current one.
+
+- 以穩定節奏做出短促的輕點，保持高度在水管中線附近，
+  每穿過一次縫隙後立刻調整節奏，準備下一個 gap。
+- 避免在畫面頂部附近頻繁點擊，留出一點「緩衝高度」，
+  這樣失誤時還有微調空間，不會一頭撞上邊界。
+- 視線盯在「下一組水管」的位置，而不是只看當前位置，提前預判高度起伏。
 
 ### Controls
-- Mouse/Touch/Space: tap to flap.
+
+- 滑鼠點擊、螢幕觸控或空白鍵皆可讓小鳥拍翅膀上升。
 
 ### Tips
-- Use tiny taps for micro‑corrections; big taps only for emergencies.
-- Don’t chase lost runs—reset if your rhythm breaks.
-- Disable distractions; latency affects timing.
+
+- 儘量用極短、輕盈的點擊做細微調整，只有在高度明顯過低時才用稍重一點的點擊救場。
+- 一旦節奏完全亂掉，不必硬撐，可以乾脆重來一局，重新找回手感。
+- 建議關閉多餘通知或延遲較高的背景程式，網路或裝置延遲都會影響判斷時機。
 
 ### FAQ
-- Q: Why does the bird hit the top after a flap?  
-[ZH TRANSLATION NEEDED]   A: Taps are too strong or too frequent; use lighter, spaced taps.
-- Q: Is there an end to the game?  
-[ZH TRANSLATION NEEDED]   A: No, it is an endless score chase.
-- Q: Does the speed change over time?  
-[ZH TRANSLATION NEEDED]   A: Most versions keep constant speed and difficulty.
 
+- 問：為什麼一拍翅膀小鳥就直接撞到上方？  
+  答：多半是點擊頻率太高、力度太大，試著改成輕點、拉長每次點擊間隔，讓高度變化更可控。
+
+- 問：遊戲有終點嗎？  
+  答：沒有，這是一款標準的無盡得分型遊戲，目標是挑戰自己與朋友的最高分。
+
+- 問：速度會越來越快嗎？  
+  答：多數版本的水平速度與難度保持大致固定，真正增加難度的是玩家在高分段時的心理壓力與失誤成本。

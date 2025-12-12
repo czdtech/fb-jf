@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: chess-grandmaster
-title: '[DE] Chess Grandmaster'
+title: "Chess Grandmaster"
 description: >-
-  [DE] Chess Grandmaster offers classic chess — learn openings, calculate
-  tactics, and convert advantages with endgame fundamentals.
+  Chess Grandmaster bietet klassisches Schach – lerne Eröffnungen, berechne
+  Taktiken und verwandle Vorteile mit soliden Endspielgrundlagen.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/chess-grandmaster.jpg
 tags:
@@ -15,36 +15,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Chess Grandmaster* ist ein voll ausgestattetes Schacherlebnis im Browser –
+gegen KI oder lokale Gegner. Beherrsche die drei Phasen der Partie:
+Eröffnung (Entwicklung und Königssicherheit), Mittelspiel (Taktiken wie
+Gabeln, Fesselungen, Spieße) und Endspiel (Königsaktivität, Opposition,
+Grundmattbilder). Über anpassbare Schwierigkeitsstufen trainierst du sowohl
+Berechnung als auch Mustererkennung.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Chess Grandmaster is a feature‑complete browser chess experience against AI or local opponents. Master the three phases: openings (development and king safety), middlegame (tactics like forks, pins, skewers), and endgames (king activity, opposition, basic mates). Adjustable difficulty helps you train calculation and pattern recognition.
+1.  Eröffnung: Entwickle deine Leichtfiguren, rochiere früh und kämpfe um das
+    Zentrum (z. B. mit e4/d4).
+2.  Taktik: Gehe bei jedem Zug die Reihenfolge **Schachs, Schläge,
+    Drohungen** (CCT) durch, sowohl für dich als auch für den Gegner.
+3.  Struktur: Vermeide, wenn möglich, doppelte oder isolierte Bauern und
+    versuche Bauernmehrheiten zu schaffen, die du später vorschieben kannst.
+4.  Endspiel: Aktiviere deinen König, lerne Grundmattbilder (K+D gegen K,
+    K+T gegen K) und grundlegende Bauernendspiele mit Opposition und
+    Zugzwang.
+5.  Zeitmanagement: Wenn du wenig Zeit hast, bevorzuge solide, einfache Züge
+    statt komplizierter Berechnungen mit hohem Fehlerrisiko.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Openings: Develop minor pieces, castle early, and fight for the center (e4/d4).
-2.  **[DE]** Tactics: Always scan checks, captures, threats on every move (“CCT”).
-3.  **[DE]** Structure: Avoid doubled/isolation if possible; create pawn majorities you can push.
-4.  **[DE]** Endgames: Activate your king; know basic mates (KQ vs K, KR vs K) and pawn endings (opposition/zugzwang).
-5.  **[DE]** Time control: Play simple, safe moves when low on time.
+- Klicke eine Figur an, um ihre legalen Züge anzuzeigen, und anschließend das
+  Zielfeld, um den Zug auszuführen.
+- Remis anbieten, aufgeben und die KI-Stufe stellst du über die
+  Bildschirmmenüs ein.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Click a piece to see legal moves; click a destination to move.
-- Offer draw/resign and set AI level in the UI.
+- F: Wie werde ich schneller besser?
+  
+  A: Löse täglich Taktikaufgaben, analysiere deine groben Patzer und lerne ein
+  kleines, solides Eröffnungsrepertoire, um immer wieder vertraute
+  Mittelspielstellungen zu erreichen.
 
-### Frequently Asked Questions (FAQ)
+- F: Tipps für Eröffnungen für Einsteiger?
+  
+  A: Spiele mit Weiß oft 1.e4 oder 1.d4, entwickle Springer vor Läufern,
+  rochiere früh und verbinde deine Türme im Mittelspiel.
 
-- Q: How do I improve quickly?
-
-A: Solve tactics daily, review your blunders, and learn a simple opening repertoire to reach familiar middlegames.
-
-- Q: Any beginner opening tips?
-
-A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
-
-- Q: What endgames should I learn first?
-
-A: Checkmates with KQ vs K, KR vs K, basic king‑pawn opposition, and rook endings like the Lucena/Philidor positions.
-
+- F: Welche Endspiele sollte ich zuerst lernen?
+  
+  A: Zunächst Mattbilder mit K+D gegen K, K+T gegen K, dann einfache
+  König–Bauer-Endspiele mit Opposition sowie Grundideen in Turmendspielen
+  (z. B. Lucena- und Philidor-Stellung).

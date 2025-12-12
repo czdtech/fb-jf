@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: crossword-puzzle
-title: '[KO] Crossword Puzzle'
+title: "Crossword Puzzle 십자말 퍼즐"
 description: >-
-  [KO] Crossword Puzzle is a classic word game: fill the grid using across and
-  down clues to complete the puzzle.
+  가로·세로 힌트를 이용해 격자 안의 단어를 채워 넣는 고전 단어 게임
+  Crossword Puzzle입니다. 다양한 스타일의 십자말 퍼즐을 온라인에서 가볍게
+  즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/crossword-puzzle.jpg
 tags:
@@ -15,34 +16,59 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+십자말 퍼즐은 번호가 매겨진 가로(Across)·세로(Down) 힌트에 맞는 단어를 격자에
+채워 넣어 완성하는 단어 퍼즐입니다. 미국식 크로스워드에서는 모든 글자가 다른 단어와
+교차하도록 설계되어 있어, 가로·세로가 서로의 답을 확인해 주는 구조를 갖습니다.
+또한 격자가 대칭(회전 대칭)인 경우가 많고, 데일리 퍼즐은 보통 15×15, 일요일 대형
+퍼즐은 21×21 크기가 자주 쓰입니다.  
+영국식/크립틱 스타일은 힌트 방식과 격자 패턴이 다르며, 말장난(wordplay)을 적극적으로
+활용하는 것이 특징입니다.
 
-### Overview
-A crossword puzzle is a word grid solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is checked by an intersecting word and grids typically have rotational symmetry; daily puzzles are often 15×15 and Sunday‑size 21×21. British/cryptic styles feature different clue conventions and grid patterns. 
+### 플레이 방법
 
-### How to Play
-- Select a clue or cell, then type letters to fill the entry.
-- Use arrow keys to move between cells; Backspace deletes; Enter or Tab often switches direction or advances to the next clue (varies by host).
-- Cross‑checking: use intersecting letters to confirm uncertain answers.
-- Many online versions provide Check/Reveal/Undo tools and timers.
+- 힌트 목록에서 하나를 선택하거나 격자의 칸을 클릭/탭한 뒤, 해당 단어에 들어갈
+  알파벳을 입력합니다.  
+- 방향키로 칸을 이동하고, `Backspace`로 이전 글자를 지울 수 있습니다.  
+- `Enter`나 `Tab`은 방향 전환 또는 다음 힌트로 넘어가는 용도로 쓰이는 경우가 많지만,
+  정확한 동작은 사이트마다 다를 수 있습니다.  
+- 확신이 없는 답은 교차하는 다른 단어들의 글자를 통해 검증하는 것이 좋습니다.  
+- 많은 온라인 버전에서 `Check`(체크), `Reveal`(정답 보기), `Undo`(되돌리기),
+  타이머 등 보조 기능을 제공합니다.  
 
-### Controls
-- Type A–Z to enter letters; arrow keys navigate.
-- Backspace: delete previous letter.
-- Enter/Tab: toggle direction or jump to next clue (site‑dependent).
-- Mouse/touch: tap a clue list item to focus its entry.
+### 조작법
 
-### Tips and Strategies
-- Start with fill‑in‑the‑blank clues and plural/tense indicators (-S, -ED, -ING).
-- Use cross letters to break tough entries; revisit long themers after filling nearby downs.
-- Learn common abbreviations and crosswordese (abbr., init., alt. spellings).
-- For cryptic/British styles, parse definition + wordplay components and indicator words.
+- 키보드 A–Z: 현재 선택된 칸에 알파벳 입력  
+- 방향키: 상하좌우로 칸 이동  
+- `Backspace`: 직전 글자 삭제  
+- `Enter` / `Tab`: 방향 토글 또는 다음 힌트로 이동(사이트 설정에 따라 다름)  
+- 마우스/터치: 힌트 목록의 항목을 탭해 해당 단어 위치로 바로 이동  
 
-### FAQ
-- Q: What’s the difference between American and British crosswords?
-A: American grids usually have all letters cross‑checked and rotational symmetry; British cryptics use wordplay‑based clues and often allow unchecked letters.  
-- Q: What size is a typical daily puzzle?
-A: Common sizes are 15×15 daily and 21×21 on Sundays (varies by publisher).  
-- Q: Are diacritics or punctuation required?
-A: Most crosswords ignore punctuation and accents; fill letters only unless specified.  
+### 팁 & 전략
+
+- 빈칸 채우기형 힌트나 복수형/시제 표시(-S, -ED, -ING 등)가 붙은 힌트부터
+  시작하면 퍼즐을 빠르게 풀어 나갈 수 있습니다.  
+- 어려운 단어는 주변 가로·세로 단어를 먼저 채워 교차 글자를 확보한 뒤 다시
+  돌아오면 훨씬 수월해집니다.  
+- 자주 나오는 약어, 이니셜, 변형 표기(alt. spellings) 같은 “크로스워드 용어”를
+  익혀 두면 다양한 퍼블리셔의 퍼즐을 훨씬 쉽게 풀 수 있습니다.  
+- 영국식/크립틱 스타일에서는 힌트가 “정의 + 말장난” 두 부분으로 구성되는 경우가
+  많으니, 정의와 말장난을 분리해서 해석하고, 뒤섞기(anagram)나 숨은 단어 등을
+  암시하는 인디케이터 단어를 눈여겨보세요.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 미국식과 영국식 크로스워드의 차이는 무엇인가요?**  
+  **A:** 미국식 격자는 거의 모든 글자가 교차되고 회전 대칭인 경우가 많습니다. 반면
+  영국식/크립틱 퍼즐은 말장난 기반 힌트를 사용하고, 일부 글자가 교차하지 않아도
+  허용되는 등 규칙이 다릅니다.  
+
+- **Q: 일반적인 데일리 퍼즐 크기는 어느 정도인가요?**  
+  **A:** 퍼블리셔에 따라 다르지만, 15×15 크기의 일일 퍼즐과 21×21 크기의
+  일요일 퍼즐이 매우 흔한 편입니다.  
+
+- **Q: 발음기호나 악센트, 문장부호도 입력해야 하나요?**  
+  **A:** 대부분의 크로스워드는 문장부호와 악센트를 무시하고 알파벳만 채우면 됩니다.
+  특별히 요구되는 경우가 아니라면 글자만 입력하면 됩니다.  
 

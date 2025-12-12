@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: level-devil
-title: '[DE] Level Devil'
+title: "Level Devil"
 description: >-
-  [DE] Troll platformer: levels change unexpectedly with pop‑up spikes, falling
-  floors, and fake exits; learn traps and keep calm.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
+  Level Devil ist ein Troll-Plattformer: Level verändern sich plötzlich mit
+  aufpoppenden Stacheln, einstürzenden Böden und falschen Ausgängen – lerne die
+  Fallen kennen und bewahre die Ruhe.
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html'
 thumbnail: /new-images/level-devil.jpg
 tags:
   - platformer
@@ -16,30 +16,50 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+Level Devil ist ein hinterhältiger Plattformer, in dem dir die Bühne selbst in
+den Rücken fällt – Bodenplatten brechen weg, Stacheln schießen mitten im Sprung
+aus dem Boden und Ausgänge verschwinden oder wandern. Erfolg bekommst du nur
+mit vorsichtigem Vortasten, dem Lesen kleiner visueller Hinweise und dem
+Einprägen von Fallenstandorten – nicht durch blindes Durchrennen.
 
+### So spielst du
 
-### Overview
-Level Devil is a trick platformer where the stage betrays you—tiles crumble, spikes pop up mid‑jump, and exits move. Success demands cautious probing, reading visual tells, and memorizing trap locations rather than rushing.
+- Taste dich mit kleinen Schritten vor, löse Fallen kontrolliert aus und gehe
+  erst weiter, wenn du den sicheren Weg kennst.
+- Achte auf minimale Pixel-Unterschiede, die auf brüchige Böden oder versteckte
+  Stacheln hindeuten können.
+- Nutze Checkpoints (falls vorhanden) und spiele in kurzen, konzentrierten
+  Abschnitten.
 
-### How to Play
-- Nudge forward to trigger traps safely, then proceed.
-- Watch for slight pixel differences that hint at fake floors or spikes.
-- Checkpoints (when provided) reward measured progress.
+### Steuerung
 
-### Controls
-- Arrows/WASD to move/jump; restart keys vary by host.
+- Pfeiltasten oder WASD zum Laufen und Springen; Neustart-Tasten können je nach
+  Host unterschiedlich sein.
 
-### Tips
-- Don’t sprint blind; test ledges with short hops first.
-- Expect traps near obvious “safe” tiles and exits.
-- Count beats between moving hazards to time jumps.
+### Tipps
+
+- Renne nie blind los – teste Kanten zuerst mit kurzen Hüpfern, bevor du dich
+  zu weiten Sprüngen entschließt.
+- Erwarte Fallen besonders an scheinbar „ganz sicheren“ Stellen und kurz vor
+  Ausgängen – genau dort wird das Spiel dich gerne überraschen.
+- Zähle innerlich die Takte zwischen beweglichen Gefahren, um den richtigen
+  Moment für deinen Sprung zu finden.
 
 ### FAQ
-- Q: How can I avoid sudden pop‑up spikes?
-A: Trigger them with micro‑steps, retreat, then jump the safe path.
-- Q: Why did the exit disappear in this level?
-A: Many stages use fake exits; scan walls/floors for hidden doors.
-- Q: Are there checkpoints to reduce repetition?
-A: Some hosts include them; otherwise patience and routing are key.
 
+- **F: Wie kann ich plötzliche Stachel-Fallen vermeiden?**  
+  **A:** Gehe in Minischritten an verdächtige Stellen heran, löse Stacheln aus
+  und ziehe dich kurz zurück. Erst wenn du die sichere Route kennst, nimmst du
+  Anlauf zum Sprung.
+
+- **F: Warum ist der Ausgang plötzlich verschwunden?**  
+  **A:** Viele Level haben Fake-Ausgänge. Untersuche Wände und Böden auf
+  versteckte Türen oder alternative Wege – oft führt ein geheimer Pfad zur
+  echten Zielflagge.
+
+- **F: Gibt es Checkpoints, damit ich nicht alles wiederholen muss?**  
+  **A:** Einige Versionen bieten Checkpoints, andere nicht. Achte auf Symbole im
+  HUD oder kurze Speicher-Icons. Wenn keine vorhanden sind, sind Geduld und
+  saubere Routenplanung besonders wichtig.

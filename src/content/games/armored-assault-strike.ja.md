@@ -1,59 +1,37 @@
 ---
+title: "Armored Assault Strike アーマード・アサルト・ストライク"
+description: "「Armored Assault Strike」で戦場を支配せよ。戦車や戦闘車両を操り、激しい銃撃戦と戦略的な位置取りで敵を殲滅するアクション・シューティング。"
+iframeSrc: "https://armored-assault-strike.h5games.usercontent.goog/v/1quekndr8ig0o/" 
+thumbnail: "/new-images/armored-assault-strike.png"
+urlstr: "armored-assault-strike"
+score: "4.0/5  (1500 votes)"
+tags: ["action", "shooter", "tank"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: armored-assault-strike
-title: '[JA TRANSLATION NEEDED] Armored Assault Strike'
-description: >-
-  [JA TRANSLATION NEEDED] Armored Assault Strike is a top‑down vehicle shooter —
-  maneuver armor, manage cooldowns, and crush hostiles.
-iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
-thumbnail: /new-images/armored-assault-strike.png
-tags:
-  - shooting
-  - action
-score: 4.0/5  (1930 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Armored Assault Strike（アーマード・アサルト・ストライク）*は、重装甲車両を操って戦場を駆け抜ける、トップダウン（見下ろし型）のアクションシューティングゲームです。プレイヤーは戦車や装甲車を指揮し、絶え間なく押し寄せる敵軍団に立ち向かいます。単純な撃ち合いだけでなく、遮蔽物を利用した立ち回りや、アビリティ（特殊能力）の使い所が勝敗を分ける、戦術的な戦闘が楽しめます。
 
-[JA TRANSLATION NEEDED] Armored Assault Strike blends arcade shooting with light positioning. Circle tough foes, use terrain for cover, and chain abilities to break waves efficiently without overexposing your hull.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **動き続けろ（カイト戦法）：** 敵の攻撃を避けながら射撃するために、常に動き続けましょう（引き撃ち）。立ち止まると格好の標的になります。
+2.  **遮蔽物を使え：** 障害物や壁の裏に隠れて、敵の集中砲火を防ぎましょう。飛び出し撃ち（ピーク）で安全にダメージを与えます。
+3.  **弾薬管理：** ザコ敵には通常弾を使い、エリート敵やボスには強力な弾薬やスキルを温存して、一気に火力を叩き込みましょう（バースト）。
+4.  **ボス戦のコツ：** ボスは強力ですが、必ず攻撃パターンがあります。まずは周りの取り巻き（Add）を先に片付けてから、ボスの攻撃の隙を突いて攻撃しましょう。
+5.  **緊急アビリティは温存：** ダッシュや防御シールドなどの逃げスキルは、包囲されたときなど本当に危ない瞬間のために残しておきましょう。
 
-[JA TRANSLATION NEEDED] 1.  Kite elites and break line‑of‑sight when pressured.
-[JA TRANSLATION NEEDED] 2.  Burst and cool: Fire in bursts to control heat/cooldowns.
-[JA TRANSLATION NEEDED] 3.  Focus fire on priority targets (rockets/aoe casters).
-[JA TRANSLATION NEEDED] 4.  Route safe pickups and avoid mid‑fight crossovers.
-[JA TRANSLATION NEEDED] 5.  Save escapes (dash/shield) for emergencies.
+### 操作ガイド
 
-### Controls Guide
+*   **基本操作：** WASDキー / 矢印キーで移動し、マウスで狙って左クリックで射撃。アビリティは画面UIのホットキー（数字キーなど）で発動します。
 
-- Move with WASD/Arrows; aim/fire per UI; trigger abilities on hotkeys.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- I melt fast—why? Overexposed in the open; use cover and kiting.
-- Ammo limited? Conserve on trash; burst elites.
-- Bosses? Learn patterns and break adds first.
-
-
-
-
-
-
-
-
-
-- Bosses? Learn patterns and break adds first.
-- Ammo limited? Conserve on trash; burst elites.
-- I melt fast—why? Overexposed in the open; use cover and kiting.
-### よくある質問（FAQ）
-- Move with WASD/Arrows; aim/fire per UI; trigger abilities on hotkeys.
-### コントロールガイド
-- Save escapes (dash/shield) for emergencies.
-
-
-
-- Bosses? Learn patterns and break adds first.
-- Ammo limited? Conserve on trash; burst elites.
+*   **すぐにやられてしまいます。なぜ？**
+    *   開けた場所に長時間いませんか？ 遮蔽物を使い、敵との距離を保ちながら戦う「引き撃ち（カイト）」を徹底してください。
+*   **弾が足りなくなります。**
+    *   弱い敵に無駄弾を使わないようにしましょう。正確に狙い、強力な敵のためにリソースを節約してください。
+*   **ボスが倒せません。**
+    *   ボスの動きをよく見てパターンを覚えましょう。また、ボスと同時に出てくるザコ敵を放置するとジリ貧になるので、先に倒すのが定石です。

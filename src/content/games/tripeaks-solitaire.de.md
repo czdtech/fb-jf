@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: tripeaks-solitaire
-title: '[DE] Tripeaks Solitaire'
+title: Tripeaks Solitaire
 description: >-
-  [DE] Clear the three peaks in Tripeaks Solitaire! A fast-paced card game where
-  you match cards that are one rank higher or lower to clear the board.
+  Räume in Tripeaks Solitaire die drei Karten‑Gipfel ab: Lege Karten, die genau
+  einen Rang höher oder niedriger sind, an und baue lange Serien, bevor dein
+  Nachziehstapel leer ist.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/tripeaks-solitaire.png
 tags:
@@ -15,37 +16,45 @@ score: 4.5/5  (2600 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
+
+Tripeaks Solitaire ist eine schnelle Patience‑Variante, die Elemente aus Golf und Pyramid Solitaire kombiniert. Die Karten liegen anfangs in drei überlappenden Pyramiden – den „Peaks“. Dein Ziel ist es, das gesamte Tableau abzuräumen, indem du nacheinander Karten spielst, die genau einen Rang höher oder niedriger sind als die offene Karte auf dem Ablagestapel. Je längere Serien du schaffst, desto schneller räumst du das Feld.
+
+### Spielstrategie & Walkthrough
+
+1. **Ziel:** Befreie alle Karten der drei Gipfel auf dem Tableau.
+2. **Zug machen:** Sieh dir die offene Karte auf dem Ablagestapel an. Du darfst jede aufgedeckte Karte aus dem Tableau anlegen, die genau einen Rang darüber oder darunter liegt (Farbe spielt keine Rolle). Liegt z. B. eine 7, kannst du 6 oder 8 spielen.
+3. **Ass & König:** Die Reihenfolge „wrappt“ – auf ein Ass darfst du einen König legen und umgekehrt. Das hilft, Serien zu verlängern.
+4. **Karten freilegen:** Entfernst du eine Karte aus dem Tableau, werden verdeckte Karten darunter aufgedeckt und stehen dir anschließend zur Verfügung.
+5. **Nachziehstapel nutzen:** Wenn kein passender Zug mehr möglich ist, ziehst du eine neue Karte vom Nachziehstapel auf den Ablagestapel und erhältst damit eine neue Basis für weitere Züge.
+6. **Lange Serien bauen:** Für hohe Punktzahlen ist entscheidend, möglichst viele Karten in einem Rutsch zu spielen, ohne nachzuziehen – jede Karte in einer Serie erhöht deinen Kombobonus.
+
+### Steuerung
+
+Das Spiel wird komplett mit Maus oder Touch gesteuert.
+
+- **Karte spielen:** Klicke auf eine gültige offene Karte im Tableau, um sie auf den Ablagestapel zu legen.
+- **Karte ziehen:** Klicke auf den verdeckten Nachziehstapel, wenn du keine weitere Karte auslegen kannst.
+
+### Häufige Fragen (FAQ)
 
 
+- **A:** If your stock pile is empty and you have no more legal moves to make from the tableau, the game is over and you have lost that round.
 
-### Detailed Game Introduction
+    - **Q: What happens if I run out of cards in the stock pile but there are still cards on the tableau?**
 
-Tripeaks Solitaire is a popular and fast-paced solitaire variant that combines elements of Golf Solitaire and Pyramid Solitaire. The game gets its name from the initial layout of the cards, which are dealt into three overlapping pyramids, or "peaks." The objective is to clear the entire tableau by selecting cards that are one rank higher or lower than the card on the waste pile, creating long runs and clearing the board before you run out of cards in your stock.
+- **A:** No. You can only place a card that is one rank away. On a King, you can only place a Queen or an Ace (because the ranks wrap).
 
-### Gameplay Strategy & Walkthrough
+    - **Q: Can I place a 2 on a King?**
 
-1.  **[DE]** **The Goal:** Clear all cards from the three peaks on the tableau.
-2.  **[DE]** **Making a Move:** Look at the face-up card on the waste pile. You can click on any face-up card from the tableau that is one rank directly above or below it. For example, if the waste card is a 7, you can play either a 6 or an 8 from the tableau onto it. Suit does not matter.
-3.  **[DE]** **Aces and Kings:** The ranks are wrapping. This means you can place a King on an Ace, and an Ace on a King, which is crucial for extending your runs.
-4.  **[DE]** **Uncovering Cards:** When you remove a card from the tableau, any face-down cards beneath it are turned over, making them available for play.
-5.  **[DE]** **Drawing from Stock:** If you can no longer make any matches from the tableau, click on the stock pile to deal a new card onto the waste pile, giving you a new base card to play on.
-6.  **[DE]** **Creating Long Runs:** The key to a high score is to create the longest possible sequence of moves without drawing from the stock pile. Each card cleared in a single run increases the combo bonus.
+- **A:** To clear all three peaks of cards from the tableau before you exhaust your stock pile.
 
-### Controls Guide
+    - **Q: What is the main objective?**
+**Was ist das Hauptziel?**  
+Alle Karten der drei Peaks zu entfernen, bevor dein Nachziehstapel aufgebraucht ist.
 
-The game is played entirely with the mouse or by tapping.
+**Kann ich eine 2 auf einen König legen?**  
+Nein. Der Rang muss immer genau um 1 abweichen. Auf einen König darfst du nur Dame oder Ass legen (wegen der Wrap‑Regel).
 
-*   **[DE]** **Play a Card:** Click on a valid face-up card on the tableau to move it to the waste pile.
-*   **[DE]** **Draw a Card:** Click on the face-down stock pile when you have no other moves.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What is the main objective?**
-    *   **[DE]** **A:** To clear all three peaks of cards from the tableau before you exhaust your stock pile.
-
-*   **[DE]** **Q: Can I place a 2 on a King?**
-    *   **[DE]** **A:** No. You can only place a card that is one rank away. On a King, you can only place a Queen or an Ace (because the ranks wrap).
-
-*   **[DE]** **Q: What happens if I run out of cards in the stock pile but there are still cards on the tableau?**
-    *   **[DE]** **A:** If your stock pile is empty and you have no more legal moves to make from the tableau, the game is over and you have lost that round.
-
+**Was passiert, wenn der Nachziehstapel leer ist und noch Karten liegen?**  
+Sind keine Spielzüge mehr möglich und der Stapel ist leer, ist die Runde verloren und du musst neu beginnen.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: atari-breakout
-title: '[ES] Atari Breakout'
+title: "Atari Breakout guía del clásico de arcade"
 description: >-
-  [ES] Learn how to master the classic arcade game Atari Breakout. Discover
-  winning strategies, controls, and tips for smashing every brick and achieving
-  a high score.
+  Atari Breakout es uno de los clásicos fundamentales de los videojuegos. Descubre
+  estrategias, controles y trucos para romper todos los ladrillos y lograr
+  puntuaciones altas.
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/atari-breakout.jpg
@@ -17,53 +17,77 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Atari Breakout es un juego arcade clásico que se ha convertido en piedra
+angular de la historia del medio. La jugabilidad es muy directa y fácil de
+entender: controlas una pala en la parte inferior de la pantalla que solo puede
+moverse horizontalmente. En la parte superior se disponen varias filas de
+ladrillos. Una bola rebota por la pantalla y tu tarea es mover la pala para
+interceptarla y evitar que caiga por el borde inferior.
 
-### Detailed Game Introduction
+Cuando la bola golpea un ladrillo, este se destruye y la bola rebota. El
+objetivo es eliminar todos los ladrillos del nivel para pasar al siguiente. A
+medida que avanzas, la velocidad de la bola suele incrementarse, exigiendo
+reflejos más rápidos. Si fallas y la bola pasa de largo, pierdes una vida. La
+partida termina cuando te quedas sin vidas.
 
-Atari Breakout is a classic arcade game that has become a cornerstone of video game history. The gameplay is straightforward and instantly understandable. The player controls a single paddle at the bottom of the screen, which can only move horizontally. At the top of the screen are several rows of bricks. A ball bounces around the screen, and the player must move the paddle to intercept the ball, preventing it from falling off the bottom edge.
+### Estrategia de juego y recorrido
 
-When the ball hits a brick, the brick is destroyed, and the ball ricochets off it. The objective is to destroy all the bricks on the screen to advance to the next level. As the game progresses, the speed of the ball often increases, demanding faster reflexes. If the player fails to hit the ball with the paddle and it goes past them, they lose a life. The game ends when all lives are lost.
+Aunque Breakout parece sencillo, hay varias estrategias clave para maximizar la
+puntuación y limpiar niveles de forma eficiente.
 
-### Gameplay Strategy & Walkthrough
+#### 1. Estrategia del "túnel"
 
-While Breakout seems simple, there are key strategies to maximize your score and clear levels efficiently.
+Es la táctica más famosa y efectiva. Consiste en abrir un pasillo vertical por
+un lateral del muro de ladrillos (extremo izquierdo o derecho). Una vez que
+consigas que la bola se cuele **por encima** de la capa de ladrillos, podrás
+lanzarla a ese hueco. La bola rebotará entre la pared superior y la parte alta
+de los ladrillos, destruyendo muchos de forma automática y sin riesgo de que
+pierdas la pala. Es la manera más rápida de limpiar la pantalla.
 
-#### 1. The "Tunneling" Strategy
-This is the most famous and effective strategy. The goal is to break a vertical tunnel through the bricks on one side of the screen (either far left or far right). Once you've created a path for the ball to get *above* the brick layer, you can send it up into the gap. The ball will then bounce back and forth between the top wall and the top layer of bricks, destroying many bricks automatically without any risk of you missing the paddle. This is the fastest way to clear a screen.
+#### 2. Domina la pala para controlar el ángulo
 
-#### 2. Master the Paddle for Angle Control
-The ball's rebound angle is not random; it depends on *where* it strikes your paddle.
-*   **Hitting with the Center:** If the ball hits the center of your paddle, it will bounce back at a relatively straight, shallow angle.
-*   **Hitting with the Edges:** If the ball hits the outer edges of your paddle, it will bounce back at a much sharper, more extreme angle.
-Mastering this allows you to aim the ball precisely, which is essential for creating the tunnel mentioned above.
+El ángulo de rebote de la bola no es aleatorio; depende de **dónde** impacta en
+la pala.
 
-#### 3. Prioritize Higher Bricks
-In the classic version, the bricks in the higher rows are worth more points. While clearing the screen is the primary objective, if you are playing for a high score, try to create your tunnel early to let the ball destroy the high-value bricks at the top.
+*   **Golpe en el centro:** Si la bola choca con la zona central, volverá con un ángulo más recto y poco pronunciado.
+*   **Golpe en los extremos:** Si impacta en los bordes de la pala, saldrá desviada con un ángulo mucho más agudo.
 
-#### 4. Anticipate, Don't React
-As the ball speeds up, you won't have time to react to its current position. You must anticipate its trajectory. Watch the angle it's coming from and move your paddle to where the ball *is going to be*.
+Aprender a controlar esto te permite "apuntar" la bola, algo esencial para crear
+el túnel lateral.
 
-### Controls Guide
+#### 3. Prioriza los ladrillos superiores
 
-The controls for Breakout are famously simple.
+En la versión clásica, los ladrillos de las filas superiores valen más puntos.
+Si juegas por puntuación, intenta abrir pronto tu túnel para que la bola se
+encargue de los ladrillos de mayor valor.
 
-*   **Movement:**
-    *   **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.
-    *   **PC / Web Versions:** Typically, you move the paddle by moving your **mouse left and right**. Alternatively, the **Left and Right Arrow Keys** (`←` and `→`) are often supported.
-*   **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the **Spacebar** or a **left mouse click**) will launch it.
+#### 4. Anticípate, no solo reacciones
 
-### Frequently Asked Questions (FAQ)
+Cuando la bola se acelera, no tendrás tiempo de seguirla visualmente y reaccionar
+al instante. Debes anticipar su trayectoria. Observa el ángulo con el que llega
+y mueve la pala hacia **donde va a estar** la bola, no donde está ahora.
 
-*   **Q: How can I control the ball's direction?**
-    *   **A:** By controlling where the ball hits your paddle. Hit it with the center for a straight shot and with the edges for a sharp-angled shot towards the sides.
+### Guía de controles
 
-*   **Q: What is the fastest way to clear a level?**
-    *   **A:** The "tunneling" strategy. Break a path through one of the sides so the ball gets trapped above the bricks, clearing them out for you automatically.
+Los controles de Breakout son tan sencillos como icónicos.
 
-*   **Q: Do the different colored bricks mean anything?**
-    *   **A:** Yes. In the original game, the color indicates the point value. From bottom to top, the points per brick typically increase (e.g., yellow bricks at the bottom are worth fewer points than the red bricks at the top).
+*   **Movimiento:**
+    *   **Arcade original:** Se usaba un dial giratorio (spinner) para mover la pala a izquierda y derecha.
+    *   **PC / Navegador:** Normalmente controlas la pala moviendo el **ratón** a izquierda y derecha, y en muchas versiones también sirven las teclas **Flecha Izquierda/Derecha** (`←` y `→`).
+*   **Lanzar la bola:** Al inicio de cada vida, la bola descansa sobre la pala. Pulsa el botón de "disparo" (suele ser la **barra espaciadora** o un **clic izquierdo**) para liberarla.
 
-*   **Q: Where can I play Atari Breakout today?**
-    *   **A:** You can easily find and play web-based versions of Breakout on numerous classic game websites and archives. Additionally, typing "Atari Breakout" into Google Image Search used to activate a playable Easter egg version of the game, though this feature may vary.
+### Preguntas frecuentes (FAQ)
 
+*   **P: ¿Cómo controlo la dirección de la bola?**
+    *   **R:** Ajusta el punto de impacto en la pala. Golpes centrados devuelven la bola casi recta; golpes en los bordes la envían hacia los laterales con ángulos más cerrados.
+
+*   **P: ¿Cuál es la forma más rápida de limpiar un nivel?**
+    *   **R:** Usa la estrategia del "túnel": abre un hueco lateral para que la bola quede rebotando por encima de los ladrillos y los destruya sola.
+
+*   **P: ¿Los colores de los ladrillos significan algo?**
+    *   **R:** Sí. En el original, el color indica el valor en puntos. De abajo a arriba, los ladrillos suelen valer cada vez más.
+
+*   **P: ¿Dónde puedo jugar hoy a Atari Breakout?**
+    *   **R:** Hay muchas versiones web disponibles en sitios de juegos clásicos y archivos retro. Durante un tiempo incluso existió un "huevo de pascua" en Google Imágenes al buscar "Atari Breakout", aunque la función puede variar.

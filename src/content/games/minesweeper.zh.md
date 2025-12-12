@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: minesweeper
-title: '[ZH TRANSLATION NEEDED] Minesweeper'
+title: "《Minesweeper》扫雷益智游戏"
 description: >-
-  [ZH TRANSLATION NEEDED] Minesweeper is a single-player puzzle video game where
-  the objective is to clear a rectangular board containing hidden "mines" or
-  bombs without detonating any of them, with the help of clues about the number
-  of neighboring mines in each field.
+  《Minesweeper》是一款经典单人益智游戏，你需要在提示数字的帮助下推理出所有隐藏地雷的位置，在不引爆地雷的前提下，安全翻开整块棋盘。
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/minesweeper.jpg
 tags:
@@ -19,30 +16,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Minesweeper" is a classic single-player puzzle game. The objective is to uncover a grid of squares, find all hidden "mines" without detonating them. Through numerical clues, players can infer the number of mines hidden around each square, gradually clearing safe areas and marking minefields.
+《Minesweeper》（扫雷）是一款历史悠久的单人益智游戏。棋盘由一格一格的方块组成，其中随机埋藏了若干地雷。你的目标，是在不点中任何一颗地雷的情况下，将所有安全格子全部翻开。每当你翻开一个安全格子，上面的数字会告诉你：它周围八个相邻格子中一共有多少颗雷。理解并利用这些数字，是玩好扫雷的全部关键。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Understand Number Meanings**: Each numbered square indicates the count of mines in its eight surrounding adjacent squares.
-2.  **Mark Safe Areas**: Based on numerical clues, identify squares that are safe to click and uncover.
-3.  **Mark Minefields**: When a square is determined to be a mine, use a right-click (or long-press) to flag it, avoiding accidental detonation.
-4.  **Prioritize Certainty**: Focus on areas where mines or safe squares can be definitively determined.
-5.  **Handle Uncertainty**: In situations without clear clues, make reasonable guesses but try to minimize risk.
+1.  **读懂数字含义：** 每一个数字格都精确表示它周围八个格子里的地雷数量。通过组合不同数字之间的关系，你可以推理出哪些格子必定是雷，哪些必定安全。
+2.  **标记安全/危险区域：** 对于能确定安全的格子，可以果断翻开；对于可以确定是雷的格子，则用右键插旗标记，避免误点。
+3.  **插旗标记地雷：** 当某格被判断为地雷时，使用右键（或长按）插上旗子，既能防止自己误点，也能帮助你更清晰地做后续逻辑推理。
+4.  **优先处理确定信息：** 先从那些可以完全确定的数字关系入手（例如“1”旁只有一个未翻格），逐步扩大安全区域；对于必须猜测的局面，尽量留到最后。
+5.  **面对不确定时的选择：** 若确实没有任何确定的逻辑线索，只能在几格之间猜测时，优先选择能揭示更多未知区域的格子，以最大化信息收益。
 
-### How to Play
+### 操作说明
 
-*   **Left-click**: Uncover a square.
-*   **Right-click (or long-press)**: Flag or unflag a mine.
-*   **Double-click Numbered Square**: When all mines around a numbered square have been correctly flagged, double-clicking that numbered square will instantly uncover all surrounding unrevealed safe squares.
+*   **左键点击：** 翻开一个格子；如果该格为 0（周围无地雷），通常会自动连锁展开大片空白区域。
+*   **右键点击（或长按）：** 插上/移除一面旗子，用来标记怀疑是地雷的格子。
+*   **双击数字格：** 当某个数字格周围已插旗数量等于该数字时，双击该数字格可以一次性翻开其余相邻未翻格（具体行为依版本而定）。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Is there a guaranteed winning strategy for Minesweeper?**
-     **A**: Minesweeper primarily relies on logical deduction, but for some purely randomly generated boards, there might be situations requiring guesswork, so there isn't a 100% guaranteed winning strategy.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I customize the difficulty of Minesweeper?**
-     **A**: Most Minesweeper games offer custom difficulty options, allowing you to adjust the board size and number of mines.
-3.  [ZH TRANSLATION NEEDED] **Q: Why do I sometimes encounter unwinnable situations?**
-     **A**: In some randomly generated scenarios, it may be impossible to logically determine the next square, requiring a guess.
-4.  [ZH TRANSLATION NEEDED] **Q: What is the purpose of the timer in the game?**
-     **A**: The timer records the time taken by the player to complete the game, allowing you to challenge your fastest record at different difficulty levels.
+### 常见问题
+
+1.  **问：扫雷有没有必胜策略？**
+    **答：** 大部分局面都可以通过严谨的逻辑推理解决，但对于随机生成的棋盘，确实可能出现“无解只能猜”的情况，因此不存在 100% 必胜的算法，只能尽量降低猜测发生的频率。
+2.  **问：如何调整扫雷的难度？**
+    **答：** 多数扫雷版本支持自定义棋盘大小和地雷数量，你可以选择初级、中级、高级，或手动设置更大棋盘与更多雷，打造属于自己的难度。
+3.  **问：为什么有时会遇到“必死局面”？**
+    **答：** 某些随机布局下，所有逻辑线索都不足以推断下一步，只能依靠运气选择其一；这类情况本身就是随机局的一部分，并不代表你之前推理出了错。
+4.  **问：计时器的作用是什么？**
+    **答：** 计时器会记录你完成这一局所消耗的时间，方便你在同一难度下不断刷新自己的最佳成绩，也可以和朋友互相比拼解题速度。

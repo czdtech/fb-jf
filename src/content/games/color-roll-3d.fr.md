@@ -1,50 +1,72 @@
 ---
 locale: fr
 urlstr: color-roll-3d
-title: '[FR] Color Roll 3D'
-description: >-
-  [FR] Color Roll 3D is a satisfying unfold‑and‑fill puzzle — unroll strips in
-  the right order to paint target patterns.
-iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
+title: Color Roll 3D
+description: "Color Roll 3D est un puzzle de rouleaux colorés\_: déroule les bandes dans le bon ordre pour reconstituer le motif cible sans chevauchements inutiles."
+iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/4qm1c7u2jlvg0/'
 thumbnail: /new-images/color-roll-3d.png
 tags:
   - puzzle
   - thinky
-score: 4.0/5  (1812 votes)
+  - casual
+score: 4.2/5  (2100 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Color Roll 3D te propose de reconstituer une image en déroulant des bandes
+colorées. Chaque rouleau s’enroule sur lui‑même et recouvre les précédents :
+si tu les poses dans le mauvais ordre, le motif final ne correspondra pas au
+modèle.
 
-Color Roll 3D presents layered strips you unroll to cover a board exactly. The trick is sequencing: later strips may cover earlier ones, so you must choose an order that matches the target image without overlap errors.
+Ton objectif est de trouver la bonne séquence de déroulage pour superposer les
+bandes exactement comme dans l’exemple affiché en haut ou en arrière‑plan.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Start with the deepest/base color that covers the largest area.
-2.  **[FR]** Place boundary strips to frame shapes, then fill interiors.
-3.  **[FR]** Watch overlaps — avoid burying needed edges under later strips.
-4.  **[FR]** Undo early when the final gaps look impossible.
-5.  **[FR]** Compare with the target preview after each placement.
+1.  **Observe d’abord le motif cible**  
+    Avant de toucher au moindre rouleau, regarde bien l’ordre et la position
+des couleurs dans l’image finale.
+2.  **Pose les couches du fond en premier**  
+    Les bandes qui doivent apparaître au fond de l’image (les plus "cachées")
+    doivent être déroulées en premier, puis recouvertes par les couches
+    supérieures.
+3.  **Garde les petits détails pour la fin**  
+    Les bandes qui ne couvrent qu’une petite zone ou qui servent de décor
+    final doivent en général être posées après les grandes zones de couleur.
+4.  **Ne crains pas d’essayer / revenir en arrière**  
+    Le jeu est pensé pour l’essai‑erreur. Si un ordre ne fonctionne pas,
+    rembobine ou recommence le niveau pour tester une autre séquence.
+5.  **Cherche les zones qui ne peuvent être couvertes que par une couleur**  
+    Certains emplacements n’acceptent logiquement qu’une seule bande. Utilise
+    ces indices pour déduire l’ordre global.
 
-### Controls Guide
+### Commandes
 
-- Drag to unroll a strip along its path; tap to undo where allowed.
-- Zoom/pan if supported for precision.
+- **Dérouler un rouleau** : touche ou clique sur un rouleau pour le dérouler
+  dans la zone de jeu.  
+- **Annuler / Recommencer** : emploie les boutons fournis pour revenir en
+  arrière ou réinitialiser complètement le puzzle.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
+
 
 - Q: I always end with one tile uncovered — what’s wrong?
-
-A: Your order is off. Lay base colors first, then smaller detail strips to avoid blocking.
+**Q : Je suis bloqué, comment trouver l’ordre ?**  
 
 - Q: Are multiple orders valid?
-
-A: Some puzzles allow several, but most intend a small set of correct sequences.
+R : Analyse quelles couleurs doivent se retrouver visibles en surface et où.
 
 - Q: Is there a hint system?
+Les couches inférieures doivent être posées en premier, les détails par‑dessus.
 
-A: Many versions include hints — use sparingly to preserve the challenge.
+**Q : Le temps est‑il limité ?**  
+R : En général non. Color Roll 3D se joue sans chrono, l’accent étant mis sur
+la détente et la réflexion.
 
+**Q : Y a‑t‑il plusieurs solutions possibles ?**  
+R : La plupart des niveaux n’ont qu’un ordre optimal, même si quelques variantes
+peuvent tolérer plusieurs chemins proches.

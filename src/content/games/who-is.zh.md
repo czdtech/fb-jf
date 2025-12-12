@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: who-is
-title: '[ZH TRANSLATION NEEDED] Who Is? Game'
+title: 'Who Is?：谁才是真相？'
 description: >-
-  [ZH TRANSLATION NEEDED] Test your detective skills and challenge your brain in
-  Who Is? Game! Solve tricky riddles, identify imposters, and find hidden clues
-  in over a hundred unique scenarios. This mind-bending puzzle game requires
-  out-of-the-box thinking and keen observation to uncover the truth.
+  在《Who Is?》中测试你的推理与观察力！
+  通过阅读提示、寻找线索、揭穿冒名顶替者或解开古怪谜题，
+  在上百个场景中一步步接近真相，是一款充满脑洞的益智解谜游戏。
 iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/who-is.jpg
 tags:
@@ -17,35 +16,56 @@ score: 4.1/5  (907 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Who Is? Game" is a popular and engaging puzzle game that challenges players with a series of brain-teasing riddles and scenarios. Developed by Unico Studio, it requires players to think critically, observe details, and often employ unconventional logic to solve each level. The game is known for its diverse puzzles, ranging from identifying imposters to finding hidden objects.
+《Who Is?》是一款节奏轻快却非常烧脑的解谜游戏，
+由 Unico Studio 打造，通过一系列离奇又有趣的关卡来考验你的观察力与逻辑推理。
 
-### Gameplay Guide
+每一关都会给出一个问题或场景，例如“谁是冒名顶替者？”、“谁在说谎？”、
+“谁是外星人？”等，你需要在画面中寻找蛛丝马迹，结合提示与直觉，
+从多个选项中选出唯一正确答案。
 
-[ZH TRANSLATION NEEDED] Each level presents a unique situation or question, and your goal is to figure out the correct answer or solution.
-- **Observe:** Carefully examine the scene for clues, hidden objects, or subtle details.
-- **Interact:** Tap or click on objects to interact with them. You might need to drag items, combine them, or even use multi-touch gestures.
-- **Think Outside the Box:** Many puzzles are designed to trick you. The most obvious answer is often not the correct one. Be prepared to experiment and try unconventional solutions.
-- **Solve Riddles:** Some levels are straightforward riddles, while others involve more complex scenarios where you need to deduce information.
+游戏的谜题类型多样，有的需要仔细阅读画面里的文字提示，
+有的则要注意角色表情、动作和环境布置，还有的需要结合常识甚至反向思考，
+非常适合喜欢脑洞题与益智谜题的玩家。
 
-### Controls Guide
+### 游玩指南
 
-- **Tap/Click:** Use your finger (on mobile) or mouse (on PC) to tap or click on elements on the screen.
-- **Drag:** Tap and hold, then drag to move objects or reveal hidden areas.
-- **Multi-touch:** Some puzzles may require using two fingers simultaneously.
+每个关卡都是一个独立的谜题场景，你可以按照以下步骤来思考：
 
-### Frequently Asked Questions (FAQ)
+- **观察（Observe）：**  
+  仔细检查画面中的人物、道具、背景细节，
+  很多线索会以小图标、纸条、手机画面等形式隐藏在角落。
 
-[ZH TRANSLATION NEEDED] **What kind of puzzles are in the game?**
+- **互动（Interact）：**  
+  点击或拖动物体来触发更多信息，例如打开抽屉、翻看包包、
+  拖开遮挡物或把两个道具组合在一起。
 
-[ZH TRANSLATION NEEDED] The game features a wide variety of puzzles, including logic puzzles, visual riddles, hidden object challenges, and scenarios where you need to make deductions based on character interactions.
+- **跳脱思维（Think Outside the Box）：**  
+  很多关卡会用错位逻辑或反套路来误导你，最显而易见的答案往往是错的。
+  尝试从另一个角度解读问题，多问自己一句“如果题目在骗我呢？”。
 
-[ZH TRANSLATION NEEDED] **Is there a hint system?**
+- **解答谜题（Solve Riddles）：**  
+  有些关卡更像传统的文字谜语，需要理解题干双关或隐藏含义，
+  再点击画面中对应的人或物体给出答案。
 
-[ZH TRANSLATION NEEDED] Yes, if you get stuck on a level, hints are usually available. These often come in the form of short clues that guide you towards the solution without giving it away entirely.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **Is the game suitable for all ages?**
+- **点击 / 轻触：** 在手机上用手指点按，在电脑上用鼠标左键点击屏幕上的人物或物体进行互动。
+- **拖拽：** 按住并拖动物品，可以移动它们的位置、打开隐藏区域，或将两个物体组合使用。
+- **多点触控：** 部分谜题可能需要同时按住两个位置或做特殊手势，留意关卡提示。
 
-[ZH TRANSLATION NEEDED] While the puzzles can be challenging, the content is generally family-friendly, making it suitable for a wide range of players who enjoy brain teasers.
+### 常见问题（FAQ）
 
+**问：游戏里有哪些类型的谜题？**  
+**答：** 游戏涵盖了逻辑推理题、视觉找茬、隐藏物品、人物关系推断、脑筋急转弯等多种形式，
+有的需要认真分析，有的则考验你的观察细节与幽默感。
+
+**问：卡关了怎么办？**  
+**答：** 大多数版本都提供提示系统，
+你可以花费游戏内资源或观看广告来获取线索。提示通常不会直接给出答案，
+而是点出一个关键细节，帮助你顺利继续游戏。
+
+**问：这款游戏适合所有年龄段吗？**  
+**答：** 总体内容偏向轻松幽默，大部分关卡适合青少年及以上玩家。
+部分关卡可能包含略微诙谐或暗示性的情节，建议家长陪同年纪较小的玩家一起体验。

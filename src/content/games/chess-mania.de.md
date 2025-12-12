@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: chess-mania
-title: '[DE] Chess Mania'
+title: "Chess Mania"
 description: >-
-  [DE] Experience Chess Mania, a feature-packed chess game for all levels. Play
-  against AI, solve challenging puzzles, and become a chess master.
+  Erlebe Chess Mania, ein funktionsreiches Schachspiel für alle Spielstärken.
+  Tritt gegen die KI an, löse knifflige Aufgaben und arbeite dich zum
+  Schachmeister hoch.
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
 thumbnail: /new-images/chess-mania.png
 tags:
@@ -16,33 +17,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Chess Mania* bietet ein komfortables Schacherlebnis für alle, die das Spiel
+lernen oder vertiefen wollen. Eine übersichtliche Oberfläche und eine flexible
+KI mit mehreren Schwierigkeitsgraden machen es sowohl für Einsteiger als auch
+für starke Spieler geeignet. Du kannst neue Eröffnungen ausprobieren, Taktiken
+trainieren und deine Partien Schritt für Schritt verbessern – mit dem ewigen
+Ziel, den gegnerischen König mattzusetzen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Chess Mania offers a superb chess experience for enthusiasts of all levels. This game provides a clean interface and a powerful AI opponent with multiple difficulty settings. Whether you are learning the rules or a seasoned grandmaster, Chess Mania is the perfect place to practice your strategy, test new openings, and sharpen your tactical skills. The goal remains the same: outwit your opponent and place their king in checkmate.
+1.  Eröffnung meistern: Entwickle deine Figuren in Richtung Zentrum und bringe
+    deinen König früh in Sicherheit. Eine solide Eröffnung legt das Fundament
+    für das restliche Spiel.
+2.  Figurenabstimmung: Sorge dafür, dass deine Figuren zusammenarbeiten. Ein
+    koordiniertes Angriffsspiel ist wesentlich stärker als planlose Einzelzüge.
+3.  Bauernstruktur beachten: Bauern kontrollieren wichtige Felder, stützen
+    Figuren und können bei Umwandlung zur Dame werden. Vermeide geschwächte
+    Strukturen wie isolierte oder doppelte Bauern, wenn möglich.
+4.  Endspiele üben: Viele Partien werden im Endspiel entschieden. Übe typische
+    Endspielmotive, damit du Material- oder Stellungsvorteile sicher in Siege
+    umwandelst.
+5.  Wachsam bleiben: Frage dich bei jedem Zug, was dein Gegner droht und welche
+    Taktiken (Gabeln, Fesselungen, Spieße) im Raum stehen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Master the Opening:** Start the game by developing your pieces toward the center of the board. A strong opening sets the stage for the entire game.
-2.  **[DE]** **Piece Coordination:** Ensure your pieces work together. A well-coordinated attack or defense is much more effective than moving individual pieces without a plan.
-3.  **[DE]** **Pawn Structure:** Pay attention to your pawn structure. Pawns can control key squares, defend your other pieces, and become powerful queens if they reach the other side of the board.
-4.  **[DE]** **Endgame Practice:** The endgame is where games are often won or lost. Practice common endgame scenarios to convert your advantage into a win.
-5.  **[DE]** **Always Be Alert:** Constantly ask yourself what your opponent is planning. Look for threats and tactical opportunities on every move.
+*   Auswählen & Ziehen: Klicke eine Figur an, um ihre legalen Züge anzeigen zu
+    lassen, und anschließend das Zielfeld, um sie dorthin zu bewegen.
+*   Spielmenü: Über das Menü stellst du die KI-Stärke ein, startest eine neue
+    Partie oder holst dir – falls vorhanden – einen Hinweis.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Select and Move:** Click on a piece to see its legal moves highlighted, then click on the destination square to move it.
-*   **[DE]** **Game Menu:** Use the menu to choose your opponent's difficulty, start a new game, or get a hint if you're stuck.
+*   F: Wie gewinne ich im Schach?
+    *   A: Indem du den gegnerischen König schachmatt setzt – er steht im
+        Schach und hat keinen legalen Zug mehr, um zu entkommen.
 
-### Frequently Asked Questions (FAQ)
+*   F: Was ist Patt?
+    *   A: Patt ist ein Unentschieden: Der Spieler, der am Zug ist, steht
+        zwar nicht im Schach, hat aber keinen legalen Zug mehr. Die Partie endet
+        sofort remis.
 
-*   **[DE]** **Q: How do I win at Chess?**
-    *   **[DE]** **A:** You win by checkmating the opponent's king. This means the king is under attack and has no legal moves to escape.
-
-*   **[DE]** **Q: What is a stalemate?**
-    *   **[DE]** **A:** A stalemate is a type of draw where a player is not in check but has no legal moves to make. The game ends immediately in a tie.
-
-*   **[DE]** **Q: How can I improve my chess skills?**
-    *   **[DE]** **A:** The best way to improve is to play regularly, analyze your games to learn from your mistakes, and study basic chess principles and tactics.
-
+*   F: Wie verbessere ich mich am besten?
+    *   A: Spiele regelmäßig, analysiere deine Partien (vor allem Niederlagen),
+        studiere Grundprinzipien und Taktikmotive und versuche, typische
+        Fehler bewusst zu vermeiden.

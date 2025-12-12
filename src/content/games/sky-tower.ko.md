@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: sky-tower
-title: '[KO] Sky Tower'
+title: "Sky Tower 스카이 타워"
 description: >-
-  [KO] Sky Tower is a stack‑builder — time drops to align floors, minimize
-  overhangs, and build the tallest, cleanest tower.
+  움직이는 발판을 타이밍에 맞춰 떨어뜨려 하늘까지 쌓아 올리는 탑쌓기
+  퍼즐 게임입니다. 오차를 줄여 오버행을 최소화하고 가장 높은 타워를
+  만들어 보세요.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/sky-tower.png
 tags:
@@ -17,34 +18,59 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Sky Tower*에서는 좌우로 이동하는 층 블록을 타이밍에 맞춰 떨어뜨려,
+점점 높아지는 타워를 쌓아 올려야 합니다. 조금이라도 어긋나면 튀어나온
+부분이 잘려 나가 다음 층이 더 좁아지므로, 떨어뜨릴수록 정밀한
+타이밍이 요구됩니다.
 
-Sky Tower challenges you to drop moving floors onto a growing tower. Misalignments shear off overhangs, shrinking the platform. Clean timing produces tall, stable towers; sloppiness shrinks floors and ends runs early.
+깔끔하게 중앙에 맞춰 놓을수록 안정적인 높은 타워를 만들 수 있고,
+실수가 반복되면 바닥 면적이 줄어들어 금방 게임이 끝나게 됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Center cue: Align to a background landmark to release consistently.
-2.  **[KO]** Late‑release bias: Drop just after alignment passes the center to compensate for human reaction.
-3.  **[KO]** Recovery floors: After a bad chop, slow down and re‑center before chasing height.
-4.  **[KO]** Rhythm: Maintain a steady cadence rather than reacting frantically.
-5.  **[KO]** Patience: Ignore coins during wobble; stabilize first.
+1. **항상 같은 기준점을 바라보기**  
+   배경에 있는 건물이나 선, UI 요소를 기준점으로 삼아 블록이 해당
+   위치를 지날 때 떨어뜨리면, 매번 비슷한 타이밍을 유지할 수
+   있습니다.
 
-### Controls Guide
+2. **살짝 늦게 떨어뜨리는 감각 익히기**  
+   사람의 반응 속도를 고려해, 정확히 중앙에 왔다고 느끼는 순간보다
+   아주 조금 뒤에 떨어뜨리는 것이 실제로는 더 맞을 때가 많습니다.
 
-- Tap/Click to drop floors; pause/replay via UI.
+3. **크게 흔들린 뒤에는 복구에 집중하기**  
+   한 번 크게 잘려 나간 뒤에는 욕심내어 높이를 올리려 하기보다,
+   몇 층 동안은 중앙 정렬에만 집중해 바닥 면적을 회복하는 것이
+   좋습니다.
 
-### Frequently Asked Questions (FAQ)
+4. **리듬 유지하기**  
+   불안할수록 급하게 눌러 실수하기 쉽습니다. 일정한 호흡과
+   타이밍을 유지하면서 떨어뜨리는 리듬을 만들어 보세요.
 
-- Q: My tower shrinks fast.
+5. **코인보다 안정성이 우선**  
+   흔들리는 상황에서 굳이 코인이나 보너스 아이템을 노리려다
+   더 큰 오차를 내기 쉽습니다. 먼저 타워를 안정시키고 여유가
+   생겼을 때 수집하는 편이 좋습니다.
 
-A: You’re releasing early/late inconsistently; use a fixed visual cue.
+### 조작 가이드
 
-- Q: Any way to recover?
+- **층 떨어뜨리기**: 마우스를 클릭하거나 화면을 탭해 현재 이동 중인
+  층을 바로 아래에 떨어뜨립니다.  
+- **일시정지/재시작**: 화면 UI를 통해 게임을 일시정지하거나 다시
+  시작할 수 있습니다.
 
-A: Yes — refocus on perfect centers for a few floors to rebuild width.
+### 자주 묻는 질문(FAQ)
 
-- Q: Is speed important?
+- **Q: 타워가 너무 빨리 잘려서 금방 끝나요.**  
+  **A:** 매번 다른 위치를 보며 반응하기보다, 항상 같은 배경 물체를
+  기준으로 삼아 그 위치를 지날 때 떨어뜨리는 식으로 타이밍을
+  고정해 보세요.
 
-A: Consistency beats speed; height follows from clean centers.
+- **Q: 잘못 맞춘 뒤에도 복구가 가능한가요?**  
+  **A:** 네. 몇 층 동안 완벽에 가까운 중앙 정렬만 반복하면 바닥
+  면적을 어느 정도 다시 넓힐 수 있습니다.
 
+- **Q: 속도를 빨리 올리는 것이 좋나요?**  
+  **A:** 속도보다는 정확도가 더 중요합니다. 안정적으로 중앙에 맞추는
+  플레이가 결국 더 높은 타워와 기록으로 이어집니다.

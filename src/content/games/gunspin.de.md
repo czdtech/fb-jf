@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: gunspin
-title: '[DE] Gunspin'
+title: "Gunspin"
 description: >-
-  [DE] Recoil‑propulsion arcade: fire your gun to spin and fly, collect ammo,
-  and travel as far as possible through hazards.
+  Gunspin ist ein Arcade-Spiel, in dem der Rückstoß deine Bewegung antreibt:
+  Schieße, um dich zu drehen und voranzufliegen, sammle Munition ein und versuche,
+  möglichst weit durch die Level zu kommen.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/gunspin.jpg
 tags:
@@ -15,30 +16,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Überblick
 
+In Gunspin verwandelt sich Rückstoß in Fortbewegung: Jeder Schuss lässt deine
+Waffe – und damit deinen Charakter – rotieren und treibt dich ein Stück weiter
+nach vorn. Auf dem Weg liegen Munition, Münzen und Gefahren. Wer Winkel und
+Schuss-Timing beherrscht, gleitet lange durch die Luft, sammelt Ketten-Pickups
+und schaltet nach und nach stärkere Waffen frei.
 
+### So spielst du
 
-### Overview
-Gunspin turns recoil into movement: each shot spins and propels your weapon/body forward. Stages scatter ammo, coins, and hazards. Managing angle and shot timing yields long glides and chain pickups; upgrades add firepower and control.
+- **Flache Winkel wählen:** Schüsse in einem flachen Winkel nach hinten sorgen
+  für stabile Vorwärtsgeschwindigkeit, ohne dich zu stark nach oben zu kippen.
+- **Salven aufsparen:** Heb dir Munition für Korrekturschüsse auf – etwa um
+  dich wieder nach oben zu drücken oder Hindernissen auszuweichen.
+- **Upgrades an Stil anpassen:** Nutze Münzen, um Waffen zu kaufen, die zu dir
+  passen – breit streuende Schüsse für chaotische Action oder präzise Waffen
+  für kontrollierte Flüge.
 
-### How to Play
-- Fire at shallow angles to maintain forward velocity.
-- Save bursts for upward corrections or hazard avoidance.
-- Spend coins on guns that match your style (spread vs. precise).
+### Steuerung
 
-### Controls
-- Mouse/Space to shoot; timing and aim set trajectory.
+- Schießen mit **Mausklick** oder **Leertaste**; Richtung und Zeitpunkt des
+  Schusses bestimmen deine Flugbahn.
 
-### Tips
-- Small taps > full bursts for efficiency.
-- Aim slightly behind your path to push forward without stalling.
-- Use bounce surfaces to refresh trajectory.
+### Tipps
 
-### FAQ
-- Q: How do I keep momentum without stalling?
-A: Shoot with shallow backward angles and short taps.
-- Q: What upgrades help most early?
-A: Ammo capacity and controllable recoil.
-- Q: Is there an end to the levels?
-A: It’s distance‑based; aim for personal bests.
+- Kurze, kontrollierte **Taps** sind meistens effizienter als lange
+  Dauerfeuer-Salven.
+- Ziele leicht **hinter** deine Flugrichtung, um dich nach vorn zu schieben,
+  ohne komplett abzubremsen.
+- Nutze elastische Oberflächen oder Wände als **Abpraller**, um deinen
+  Flugwinkel zu verändern und erneut Schwung aufzunehmen.
 
+### Häufige Fragen (FAQ)
+
+- **F: Wie behalte ich Geschwindigkeit, ohne abzustürzen?**  
+  **A:** Schieße in flachen Winkeln nach hinten und nutze kurze Impulse, statt
+  lange zu feuern. So baust du Vortrieb auf, ohne die Kontrolle zu verlieren.
+
+- **F: Welche Upgrades lohnen sich am Anfang am meisten?**  
+  **A:** Mehr Munition und Waffen mit gut kontrollierbarem Rückstoß helfen dir,
+  weiter zu kommen und Fehler zu verzeihen.
+
+- **F: Gibt es ein festes Levelende?**  
+  **A:** In der Regel zählt die zurückgelegte Distanz – du spielst auf
+  Bestweiten und persönliche Highscores.

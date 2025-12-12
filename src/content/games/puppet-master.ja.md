@@ -1,71 +1,52 @@
 ---
-locale: ja
+title: Puppet Master
+description: Puppet Masterは物理パズルゲームです。パペットをコントロールし、レベルをナビゲートし、物理学をマスターし、挑戦的な障害物を克服します。
+iframeSrc: 'https://puppetmaster.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+thumbnail: /new-images/puppet-master.png
 urlstr: puppet-master
-title: '[JA TRANSLATION NEEDED] Puppet Master'
-description: >-
-  [JA TRANSLATION NEEDED] Puppet Master is a quirky physics-based puzzle game
-  where players control a puppet character through challenging obstacles and
-  levels by manipulating its movement and limbs to reach the goal.
-iframeSrc: 'https://classroomjq.github.io/puppet-master/'
-thumbnail: /new-images/puppet-master.jpg
+score: 4.1/5  (1823 votes)
 tags:
   - puzzle
-  - physics
-  - comedy
-score: 4.3/5  (1234 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Puppet Masterは、ぎこちないラグドール物理を持つパペットを制御することに挑戦します。バランスを維持し、障害物をナビゲートし、ゴールに到達します。各レベルは、より複雑な物理ベースの挑戦を提示します。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **小さな動き:** 過度に修正しないでください。
+2.  **バランスを維持:** パペットを直立に保ちます。
+3.  **勢いを使用:** 物理を働かせます。
+4.  **忍耐強く:** これは挑戦的な物理ゲームです。
+5.  **失敗から学ぶ:** 各試行がより良くなります。
+
+### 操作ガイド
+
+- 特定のキー/ボタン：四肢を制御します（バージョンによる）。
+- パペットをバランスさせ、ナビゲートします。
+- ゴールに到達してレベルをクリアします。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Puppet Master" is a quirky physics-based puzzle game where players control a puppet character through challenging obstacles and levels by manipulating its movement and limbs to reach the goal. The game is famous for its unique control scheme and humorous animation effects, providing players with an entertaining yet challenging gaming experience.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Master the Controls**: Familiarize yourself with controlling each body part of the puppet, learning to coordinate the movement of arms, legs, and other limbs.
-[JA TRANSLATION NEEDED] 2.  **Utilize Physics**: Make good use of the game's physics engine through swinging, pushing, pulling, and grasping actions to overcome obstacles.
-[JA TRANSLATION NEEDED] 3.  **Observe Environment**: Carefully observe environmental elements in levels such as platforms, ropes, and buttons to find the best path to completion.
-[JA TRANSLATION NEEDED] 4.  **Be Patient**: Due to the complex controls, it takes multiple attempts to master the techniques. Don't get discouraged by failures.
-[JA TRANSLATION NEEDED] 5.  **Think Creatively**: Sometimes unconventional solutions may be more effective than standard methods; try different approaches.
-
-### How to Play
-
-*   **Body Control**: Typically use mouse or keyboard to control different body parts of the puppet.
-*   **Grab**: Click and drag to make the puppet grab objects or surfaces.
-*   **Movement**: Achieve puppet movement by coordinating arm and leg movements.
-*   **Jumping**: Use coordination between legs and arms to achieve jumping actions.
-
-
-- **Think Creatively**: Sometimes unconventional solutions may be more effective than standard methods; try different approaches.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: Controlling the puppet is very difficult. Are there any tips?**
-### よくある質問
 - **Jumping**: Use coordination between legs and arms to achieve jumping actions.
-- **Movement**: Achieve puppet movement by coordinating arm and leg movements.
-- **Grab**: Click and drag to make the puppet grab objects or surfaces.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Body Control**: Typically use mouse or keyboard to control different body parts of the puppet.
-[JA TRANSLATION NEEDED] 1.  **Q: Controlling the puppet is very difficult. Are there any tips?**
+- **Q: 継続的に転倒します。ヒントは？**  
+  A: 小さな動き、バランスを保ち、忍耐強くいてください。
+- **Q: コントロールはタッチフレンドリーですか？**  
+  A: 一部のバージョンはモバイルコントロールを適応させます。
+- **Q: どれくらいのレベルがありますか？**  
+  A: バージョンによって異なります。多くは数十。
 
-- **Q: How can I make the puppet walk steadily?**
-[JA TRANSLATION NEEDED]     **A**: Control indeed requires practice. It's recommended to start with simple levels to familiarize yourself with operating each body part, gradually improving coordination.
 
-- **Q: What if I'm stuck on a level and can't pass it?**
-[JA TRANSLATION NEEDED] 2.  **Q: How can I make the puppet walk steadily?**
+**A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.
 
 - **Q: Are there different difficulty levels in the game?**
-[JA TRANSLATION NEEDED]     **A**: Maintaining rhythm is important; don't rush. Alternate between using arms and legs, simulating real walking motions.
-[JA TRANSLATION NEEDED] 3.  **Q: What if I'm stuck on a level and can't pass it?**
-[JA TRANSLATION NEEDED]     **A**: Try different paths and methods; sometimes seemingly impossible routes are actually feasible. Watching other players' walkthrough videos might also help.
-[JA TRANSLATION NEEDED] 4.  **Q: Are there different difficulty levels in the game?**
-[JA TRANSLATION NEEDED]     **A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.
+
+
+**A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.

@@ -1,84 +1,49 @@
 ---
-locale: ja
-urlstr: neon-tower
-title: '[JA TRANSLATION NEEDED] Neon Tower'
-description: >-
-  [JA TRANSLATION NEEDED] Guide the bouncing ball down the Neon Tower! Rotate
-  the helix platform to find gaps and let the ball fall through, but watch out
-  for the red obstacles. Smash through multiple levels to get a power boost!
-iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
+title: Neon Tower
+description: Neon Towerは反射神経を試すタワーゲームです。回転する障害物を避け、タワーを登り、完璧なタイミングをマスターします。
+iframeSrc: 'https://neontower.h5games.usercontent.goog/v/6ba2s7p6jk9f8/'
 thumbnail: /new-images/neon-tower.png
+urlstr: neon-tower
+score: 4.1/5  (1876 votes)
 tags:
   - action
   - casual
-  - clicker
-score: 4.2/5  (2000 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Neon Towerは、ネオンタワーをできるだけ高く登ることに挑戦します。回転する障害物を避け、完璧なタイミングでジャンプし、できるだけ長く生き残ります。シンプルなコントロール、挑戦的なゲームプレイ。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **タイミングを待つ:** ギャップが現れるのを待ちます。
+2.  **リズムを見つける:** タワーの回転パターンを学びます。
+3.  **冷静を保つ:** 急ぐとミスにつながります。
+4.  **集中を保つ:** 一定の集中が必要です。
+5.  **練習:** 繰り返しがタイミングを改善します。
+
+### 操作ガイド
 
 
-### Detailed Game Introduction
+The game is controlled with a simple drag mechanic.
+- クリック/タップ/スペースでジャンプします。
+- 障害物を避けて上に移動します。
+- できるだけ長く生き残ります。
 
-[JA TRANSLATION NEEDED] Neon Tower is a fast-paced and addictive 3D arcade game where you guide a bouncing ball down a massive, twisting helix tower. The gameplay is simple to learn but hard to master. You must rotate the tower to find gaps in the platforms, allowing the ball to fall through. The goal is to reach the bottom of the tower while avoiding the deadly red platforms that will end your run instantly.
+### よくある質問 (FAQ)
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  **Find the Gaps:** The core mechanic is rotating the tower to line up the gaps with your bouncing ball. Let gravity do the work and guide the ball downwards.
-[JA TRANSLATION NEEDED] 2.  **Build a Combo for Fireball Mode:** The key to high scores and clearing difficult sections is to build momentum. If you let the ball fall through multiple platforms without touching any of them, it will turn into a fiery projectile. In this "fireball" mode, you can smash through *any* platform, including the red ones, for a short time.
-[JA TRANSLATION NEEDED] 3.  **Risk vs. Reward:** Decide when to play it safe and when to go for a long drop. A long drop can activate fireball mode, but if you misjudge the landing, you might hit a red platform. Sometimes, it's better to make a few smaller, safer drops.
-[JA TRANSLATION NEEDED] 4.  **Look Ahead:** Don't just focus on the platform you are on. Look several levels below to plan your descent and anticipate where the gaps and red platforms will be.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is controlled with a simple drag mechanic.
-
-*   **Rotate Tower:** Click and hold the left mouse button (or your finger) and drag left or right to rotate the helix tower.
-    - **A:** To guide the bouncing ball safely to the bottom of the tower by falling through the gaps in the platforms.（日本語訳が必要）
-    - **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.（日本語訳が必要）
-    - **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.（日本語訳が必要）
-    - **A:** To guide the bouncing ball safely to the bottom of the tower by falling through the gaps in the platforms.（日本語訳が必要）
-    - **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.（日本語訳が必要）
-    - **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the objective of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** To guide the bouncing ball safely to the bottom of the tower by falling through the gaps in the platforms.
-
-*   **Q: What happens if I land on a red platform?**
-[JA TRANSLATION NEEDED]     *   **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
-
-*   **Q: How do I activate the fireball mode?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
-
-
-
-
-
-
-
-
-
+- **Q: 継続的にヒットします。ヒントは？**  
+  A: 忍耐。完璧なギャップを待ちます。
+    - **Q: パワーアップはありますか？**  
+  A: 一部のバージョンにはパワーアップまたはシールドがあります。
+- **Q: どれくらい高く登れますか？**  
 
     - **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
+
 - **Q: How do I activate the fireball mode?**
+
     - **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
-- **Q: What happens if I land on a red platform?**
-    - **A:** To guide the bouncing ball safely to the bottom of the tower by falling through the gaps in the platforms.
-- **Q: What is the objective of the game?**
-### よくある質問（FAQ）
-- **Rotate Tower:** Click and hold the left mouse button (or your finger) and drag left or right to rotate the helix tower.
-
-
-
-
-
-
-    - **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
-- **Q: How do I activate the fireball mode?**
-    - **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
-- **Q: What happens if I land on a red platform?**
-    - **A:** To guide the bouncing ball safely to the bottom of the tower by falling through the gaps in the platforms.
+  A: エンドレス！スコアを競います。

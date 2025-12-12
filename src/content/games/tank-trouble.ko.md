@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: tank-trouble
-title: '[KO] Tank Trouble'
+title: 'Tank Trouble 탱크 트러블'
 description: >-
-  [KO] Tank Trouble is a multiplayer tank battle game where players control
-  tanks in a maze-like arena, shooting at opponents while navigating walls and
-  obstacles to be the last tank standing.
+  Tank Trouble는 미로 같은 아레나에서 탱크를 조종해 서로에게 포탄을 쏘는
+  멀티플레이 탱크 배틀 게임입니다. 벽에 튕기는 탄을 이용해 간접 사격으로
+  마지막까지 살아남으세요.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/tank-trouble.jpg
 tags:
@@ -18,33 +18,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+"Tank Trouble"는 미로처럼 좁은 통로가 이어진 아레나에서 탱크를 조종해,
+상대 탱크를 먼저 격파하는 것을 목표로 하는 멀티플레이 탱크 배틀 게임입니다.
+벽과 장애물이 많아 정면승부보다는, 튕기는 포탄과 지형을 활용한 심리전이
+중요한 게임입니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Tank Trouble" is a multiplayer tank battle game where players control tanks in a maze-like arena, shooting at opponents while navigating walls and obstacles to be the last tank standing. The game is popular for its fast-paced combat and strategic positioning gameplay.
+1.  **벽을 이용한 반사 사격:**
+    포탄은 벽에 맞으면 각도에 따라 튕겨 나갑니다. 이 특성을 이용해
+    적이 보이지 않는 위치에서도 간접 공격을 노릴 수 있습니다.
+2.  **멈춰 있지 않기:**
+    같은 자리에 오래 머무르면 상대에게 좋은 표적이 됩니다. 이동하면서
+    사격 각도를 조절하는 연습이 필요합니다.
+3.  **지형 이점 활용:**
+    미로 구조를 잘 활용해, 벽 뒤에서 적의 탄을 막거나, 코너에서 기습을
+    노리는 등 지형을 방패와 함정처럼 활용해 보세요.
+4.  **예측 사격:**
+    적이 이동할 방향을 미리 예상해 앞을 향해 쏘면, 움직이는 상대를 맞추기
+    더 쉬워집니다.
+5.  **파워업 확보:**
+    일부 모드에서는 강력한 특수 포탄이나 아이템이 등장합니다. 먼저 획득하면
+    큰 우위를 점할 수 있습니다.
 
-### Gameplay Strategy
+### 조작 방법 안내
 
-1.  **[KO]** **Use Walls**: Bullets ricochet off walls; learn to use bounces for indirect attacks on opponents.
-2.  **[KO]** **Movement Strategy**: Keep moving to avoid becoming a stationary target, but also control shooting angles.
-3.  **[KO]** **Terrain Advantage**: Use maze terrain to block enemy shooting paths.
-4.  **[KO]** **Predictive Shooting**: Predict opponents' movement directions and aim ahead.
-5.  **[KO]** **Collect Power-ups**: Gather special power-ups in the arena to gain advantages.
+*   **이동:** 방향키 또는 `WASD` 등 설정된 키로 탱크를 이동·회전
+*   **사격:** 스페이스바 또는 지정 키로 포탄 발사
+*   **멀티플레이:** 로컬 멀티플레이를 지원하며, 각 플레이어는 서로 다른
+    키 조합으로 조작하게 됩니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Movement Control**: Use arrow keys or WASD to control tank movement and rotation.
-*   **[KO]** **Shooting**: Use designated keys (usually spacebar or specific keys) to shoot.
-*   **[KO]** **Multiplayer Mode**: Supports local multiplayer gaming with different key combinations for each player.
+1.  **Q: 포탄은 어떻게 튕기나요?**
+    **A:** 포탄은 벽에 부딪힐 때 입사각과 비슷한 각도로 튕겨 나갑니다.
+    이를 이용해 코너 뒤에 숨은 적을 맞출 수 있습니다.
 
-### Frequently Asked Questions
+2.  **Q: 맞지 않으려면 어떻게 움직여야 하나요?**
+    **A:** 직선으로만 움직이지 말고, 지그재그로 이동하거나 벽 뒤를 활용해
+    사선으로 빠지는 식으로 탄 경로를 피하는 것이 좋습니다.
 
-1.  **[KO]** **Q: How do bullets ricochet?**
-**A**: Bullets bounce off walls according to physics rules; you can use this mechanism for indirect attacks.
-2.  **[KO]** **Q: How can I avoid getting hit?**
-**A**: Keep moving, use walls as cover, and try to predict opponents' shooting paths.
-3.  **[KO]** **Q: How many players can play simultaneously?**
-**A**: Usually supports 2-3 players in local multiplayer battles.
-4.  **[KO]** **Q: Is there a time limit?**
-**A**: Some modes may have time limits, but the main goal is to defeat all opponents.
+3.  **Q: 동시에 몇 명까지 플레이할 수 있나요?**
+    **A:** 버전에 따라 다르지만, 보통 2~3인까지 한 화면에서 로컬 배틀을
+    즐길 수 있습니다.
+
+4.  **Q: 시간 제한이 있나요?**
+    **A:** 일부 모드에는 제한 시간이 있을 수 있으나, 기본 목표는 모든 상대를
+    격파해 마지막 탱크로 남는 것입니다.

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: cricket-mania
-title: '[DE] Cricket Mania'
+title: "Cricket Mania"
 description: >-
-  [DE] Cricket Mania is a quick cricket hitter — pick shots, time swings, and
-  chase targets over by over.
+  Cricket Mania ist ein schnelles Cricket-Schlagspiel – wähle deine Schläge,
+  timinge den Schwung und jage Zielvorgaben Over für Over.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/cricket-mania.png
 tags:
@@ -15,28 +15,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Cricket Mania* konzentriert sich auf schnelle Batting-Sessions. Du liest
+Line und Length des Balls, wählst den passenden Schlag und timst deinen Schwung
+so, dass du die Platzierung der Fielders ausnutzt und unter
+Zielvorgaben Runs sammelst.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Cricket Mania captures fast batting sessions. Read line and length, pick appropriate shots, and time swings to beat field placements and rack up runs under target pressures.
+1.  Schlagwahl nach Linie: Spiele Bälle auf den Pads mit einem Leg Glance, für
+    breite Off-Side-Linien bieten sich Cover-Drives an.
+2.  Timingfenster nutzen: Für Leg-Side-Schläge leicht später, für Off-Side-
+    Drives etwas früher schwingen.
+3.  Ziel im Blick behalten: Achte auf die erforderliche Run-Rate. Wenn Boundaries
+    ausbleiben, halte das Scoreboard mit Singles in Bewegung.
+4.  Risiko steuern: Vermeide hohe, gelupfte Schläge, wenn Deep Fielders
+    bereitstehen – setze dann eher auf sichere Ground Shots.
+5.  Powerplays ausnutzen: Wenn das Feld vorne eng und hinten offen ist,
+    attackiere Lücken aggressiv.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Shot selection: Play with the line—leg glance for pads, cover for off‑side.
-2.  **[DE]** Timing window: Swing slightly late for leg‑side, earlier for off‑side drives.
-3.  **[DE]** Target focus: Track required run rate; rotate strike when boundaries dry up.
-4.  **[DE]** Risk control: Avoid aerials when fielders camp deep.
-5.  **[DE]** Power plays: Use gaps aggressively when the field is in.
+- Richte den Schlag mit der jeweiligen Richtungssteuerung aus und tippe/klicke
+  im richtigen Moment, um zu schlagen.
+- Runs werden automatisch gezählt; achte auf Hinweise im UI für Spezialschläge.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Aim shot with directional input; tap to swing on time.
-- Runs tally automatically; watch prompts for special shots.
+- Ich werde ständig aus dem Feld gefangen – warum?
+  
+  Du lupfst den Ball wahrscheinlich zu hoch in Richtung Deep Field. Spiele
+  häufiger flache Schläge durch die Lücken.
 
-### Frequently Asked Questions (FAQ)
+- Mein Timing ist oft daneben – Tipps?
+  
+  Beobachte den Release des Bowlers genauer und beginne den Schwung etwas
+  früher oder später, je nach Ballgeschwindigkeit.
 
-- Keep getting caught? You’re lofting into deep field—favor ground shots.
-- Miss timing? Watch bowler’s release, not just ball flight.
-- Can I bowl? Most versions focus on batting only.
-
+- Kann ich auch bowlen?
+  
+  Die meisten Versionen legen den Fokus ausschließlich auf das Batting.

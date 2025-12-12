@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: ladybug-jump
-title: '[FR] Ladybug Jump'
-description: >-
-  [FR] Ladybug Jump is a cheerful hop‑platformer — time jumps, ride moving
-  leaves, and collect nectar while avoiding hazards.
-iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
+title: "Ladybug Jump"
+description: "Ladybug Jump est un petit jeu de saut joyeux : enchaîne les bonds sur les feuilles, évite flaques et araignées, et récolte le nectar."
+iframeSrc: "https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/"
 thumbnail: /new-images/ladybug-jump.png
 tags:
   - action
@@ -15,35 +13,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation détaillée
 
+Ladybug Jump est un platformer léger et familial. Tu sautes de feuille en champignon, évites les flaques d’eau et les araignées, et récupères du nectar pour gagner des bonus. Au fil des niveaux, des plateformes mobiles et des rafales de vent viennent compliquer le timing des sauts.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Ladybug Jump is a light, family‑friendly platformer. Hop across leaves and mushrooms, avoid puddles and spiders, and grab nectar for bonuses. Moving platforms and wind gusts add timing tests as levels progress.
+1.  **Sauts courts** : privilégie de petits sauts pour plus de précision.  
+2.  **Lecture du vent** : saute un peu plus tôt contre le vent, un peu plus tard avec le vent dans le dos.  
+3.  **Trajectoires sûres** : préfère les chemins un peu plus longs mais stables aux raccourcis risqués.  
+4.  **Collectibles raisonnables** : ne vise le nectar que lorsque ton alignement est bon ; la survie passe avant tout.  
+5.  **Répétition rapide** : utilise les redémarrages rapides pour maîtriser les séquences difficiles.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Short taps: Use minimal jumps for precision.
-2.  **[FR]** Wind reads: Jump slightly earlier into headwinds; later with tailwinds.
-3.  **[FR]** Safe arcs: Take longer, safer paths over risky shortcuts.
-4.  **[FR]** Collectibles: Grab nectar only when aligned; safety first.
-5.  **[FR]** Restart rhythm: Quick restarts help nail tricky sequences.
+- Tap/clic pour sauter, maintien pour sauter plus haut si la version le supporte ; pause et retry via les boutons à l’écran.
 
-### Controls Guide
+### FAQ
 
-- Tap/Click to jump; hold to jump higher if supported; pause/retry via UI.
+- **Q : Je tombe tout le temps des petites feuilles, que faire ?**  
+  R : Réduis la hauteur de tes sauts et vise le centre des plateformes ; évite les grands balancements de momentum.
 
-### Frequently Asked Questions (FAQ)
+- **Q : Y a‑t‑il des boss ?**  
+  R : Rarement ; le jeu est surtout centré sur de courts parcours d’obstacles.
 
-- Q: I keep falling off small leaves.
-
-A: Reduce jump height and land center; avoid momentum swings.
-
-- Q: Are there boss stages?
-
-A: Rare; focus is on short obstacle courses.
-
-- Q: Controller supported?
-
-A: Some versions support gamepads for analog jump control.
+- **Q : Peut‑on jouer à la manette ?**  
+  R : Certaines déclinaisons supportent les gamepads pour un contrôle analogique du saut.
 

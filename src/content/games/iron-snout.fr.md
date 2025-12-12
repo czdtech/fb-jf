@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: iron-snout
-title: '[FR] Iron Snout'
-description: >-
-  [FR] Kung‑fu pig brawler: parry wolves, juggle with kicks, and throw back
-  weapons to survive waves and set high scores.
-iframeSrc: 'https://webglmath.github.io/iron-snout/'
+title: "Iron Snout"
+description: "Brawler 2D nerveux avec cochon kung‑fu : pare les loups, jongle avec des coups de pied et renvoie leurs armes pour survivre aux vagues et battre des records."
+iframeSrc: "https://webglmath.github.io/iron-snout/"
 thumbnail: /new-images/iron-snout.jpg
 tags:
   - fighting
@@ -15,30 +13,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation
 
+Iron Snout est un beat’em up 2D rapide dans lequel tu incarnes un cochon expert en arts martiaux face à des loups armés. Avec de simples directions, tu enchaînes coups de poing, coups de pied, esquives et sauts pour parer les attaques, attraper les haches en plein vol et renvoyer les roquettes. La survie dépend de ta capacité à lire les animations d’attaque et à garder un rythme régulier de contres.
 
+### Comment jouer
 
-### Overview
-Iron Snout is a fast 2D brawler starring a martial‑arts pig fighting wolves. With simple directional inputs you punch, kick, duck, and jump to parry attacks, catch thrown axes, and reflect rockets. Survival hinges on reading telegraphed moves and maintaining a steady rhythm of counters.
+- Observe les signaux des ennemis : un saut‑coup de pied projette les loups en l’air pour des multi‑coups, se baisser évite les attaques au‑dessus de la tête.  
+- Attrape les armes qui volent et renvoie‑les pour infliger de gros dégâts.  
+- Reste près du centre de l’écran pour pouvoir réagir aux attaques venant des deux côtés.
 
-### How to Play
-- Watch enemy tells; jump‑kicks pop foes for multi‑hits, duck avoids overheads.
-- Catch airborne weapons and toss them back for bonus damage.
-- Keep the fight centered to react to both sides.
+### Commandes
 
-### Controls
-- Arrow/WASD directions trigger attacks, jumps, and ducks; no attack buttons needed.
+- Les flèches ou `WASD` déclenchent les attaques dans la direction pressée, ainsi que les sauts et esquives ; il n’y a pas de bouton d’attaque séparé.
 
-### Tips
-- Prioritize ranged enemies; projectiles disrupt combo flow.
-- Juggle light foes for score; finish heavies with weapon returns.
-- Don’t corner yourself—reset to mid‑screen often.
+### Astuces
+
+- Priorise les ennemis à distance : leurs projectiles cassent facilement ton rythme de combo.  
+- Jongle avec les ennemis légers pour maximiser le score, et termine les plus lourds en leur renvoyant leurs propres armes.  
+- Évite de te coincer dans un coin : dès que possible, recentre‑toi au milieu de l’aire de combat.
 
 ### FAQ
-- Q: How do I deal with multiple directions of attack at once?
-A: Stay near center stage and respond to the closest telegraph first.
-- Q: Can I catch weapons in this game?
-A: Yes—press toward flying weapons to grab and throw them back.
-- Q: Is there an end to the waves?
-A: Most modes are endless until you run out of health.
+
+- **Q : Comment gérer les attaques venant de plusieurs côtés ?**  
+  R : Reste proche du centre et réponds d’abord à l’ennemi le plus proche ou le plus dangereux.
+
+- **Q : Puis‑je attraper les armes dans ce jeu ?**  
+  R : Oui, dirige‑toi vers les armes en vol pour les saisir, puis relance‑les sur les loups.
+
+- **Q : Les vagues ont‑elles une fin ?**  
+  R : La plupart des modes sont infinis : tu joues jusqu’à épuisement de ta barre de vie et essaies de battre ton meilleur score.
 

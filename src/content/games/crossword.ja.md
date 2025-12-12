@@ -1,39 +1,50 @@
 ---
-locale: ja
-urlstr: crossword
-title: '[JA TRANSLATION NEEDED] Crossword'
-description: >-
-  [JA TRANSLATION NEEDED] Crossword is a classic fill‑in puzzle: solve across
-  and down clues so all crossing letters match.
+title: Crossword クロスワード
+description: 「Crossword」で脳のトレーニング。タテとヨコの手がかりを元に、グリッドを単語で満たそう。すべての文字がピタリと合う快感を。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/crossword.jpg
+urlstr: crossword
+score: 4.8/5  (195 votes)
 tags:
   - word
   - puzzle
-score: 4.8/5  (195 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Overview
-[JA TRANSLATION NEEDED] Crosswords are letter grids solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is cross‑checked by an intersecting word and grids typically have 180° rotational symmetry; common sizes are 15×15 on weekdays and 21×21 on Sundays. 
+*Crossword（クロスワード）*は、世界中で愛されている定番パズルです。番号順に並んだ「タテ（Down）」と「ヨコ（Across）」の手がかりを頼りに、空白のマス目を正しい英単語で埋めていきます。
+このゲームは典型的なアメリカンスタイルを採用しており、すべての文字が縦と横の単語で共有（クロス）されています。知識と推理力を駆使して、すべてのマスを埋め尽くしましょう。
 
-### How to Play
-- Click a clue or cell, then type letters to fill the entry.  
-- Use cross letters to confirm uncertain answers and resolve ambiguities.  
-- Many web versions include tools such as Check/Reveal, timers, and navigation shortcuts. 
+### 遊び方
 
-### Controls
-- Type A–Z; arrow keys move between cells; Backspace deletes; Enter/Tab often switches direction or jumps to the next clue (site‑dependent). 
+*   **入力:** ヒントまたはマスをクリックし、キーボードでタイピングして文字を入力します。
+*   **確認:** 交差する文字が合っているか確認しながら進めることで、正解を導き出しやすくなります。
+*   **ツール:** 多くのウェブ版には、答え合わせ（Check）や正解表示（Reveal）、タイマーなどの便利機能がついています。
 
-### Tips and Strategies
-- Start with easy clues (fill‑in‑the‑blank, plural/tense markers) to get crossings.  
-- Fill long theme entries after gaining letters from nearby answers.  
-- Learn common abbreviations and clue conventions used by American‑style grids. 
+### 操作ガイド
 
-### FAQ
-- Q: What sizes are typical?  
-[JA TRANSLATION NEEDED]   A: Daily American crosswords are often 15×15; Sunday editions around 21×21.   
-- Q: Do all letters cross?  
-[JA TRANSLATION NEEDED]   A: American‑style grids generally check every letter with an intersecting entry.   
+*   **文字:** キーボード入力（A-Z）
+*   **移動:** 矢印キー
+*   **削除:** BackSpace
+*   **切替:** EnterキーやTabキーで縦横の入力方向を切り替えたり、次のヒントへジャンプしたりします。
 
+### 攻略のヒント
+
+*   **簡単なものから:** 確実にわかる単語から埋めて、手がかりとなる文字（ヒント）を盤面に増やしていきましょう。
+*   **テーマ:** パズルによっては全体に共通するテーマ（Themer）が設定されており、それが長い単語のヒントになることがあります。
+*   **慣用表現:** クロスワード特有の略語や言い回し（Crosswordese）を覚えると、解くスピードが格段に上がります。
+
+### よくある質問 (FAQ)
+
+*   **Q: サイズはどれくらいですか？**
+
+A: Daily American crosswords are often 15×15; Sunday editions around 21×21.
+- **A:** 一般的な日刊紙サイズは15x15マス、日曜版などの大型パズルは21x21マスが主流です。
+
+
+A: American‑style grids generally check every letter with an intersecting entry.
+*   **Q: 全部のマスが交差していますか？**
+    *   **A:** アメリカンスタイルの場合、原則としてすべての文字が縦と横の2つの単語の一部として機能します。孤立した文字はありません。

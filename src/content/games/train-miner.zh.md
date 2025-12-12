@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: train-miner
-title: '[ZH TRANSLATION NEEDED] Train Miner'
-description: >-
-  [ZH TRANSLATION NEEDED] Train Miner is a rail‑laying puzzler — lay tracks,
-  collect ore, and reach exits while optimizing turns and fuel.
+title: 《Train Miner》矿车铺轨解谜
+description: 《Train Miner》是一款铺设铁轨的路线解谜游戏。通过合理放置轨道，让矿车一路采集矿石并安全抵达出口，同时控制转弯次数和燃料消耗。
 iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
 thumbnail: /new-images/train-miner.png
 tags:
@@ -15,28 +13,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Train Miner asks you to place track pieces so a mine‑train collects resources and exits safely. Turns cost momentum/fuel; mis‑routes cause dead‑ends. Smart layouts collect extras without trapping the train.
+在《Train Miner》中，你需要提前铺设轨道，让矿车按照你的设计路线行驶。关卡中散落着矿石、障碍和出口，矿车的转弯会消耗动量/燃料，如果轨道规划不当，就可能在中途失速或陷入死路。通过精心布局，你既要确保矿车安全抵达出口，又要尽量多收集沿途的矿石以获得更高评分。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Exit first: Ensure a viable exit path before optional ore.
-2.  [ZH TRANSLATION NEEDED] Turn economy: Prefer straights; reserve turns for mandatory bends.
-3.  [ZH TRANSLATION NEEDED] Branch spurs: Add short spurs to grab side ore and rejoin main line.
-4.  [ZH TRANSLATION NEEDED] Test rides: Simulate routes mentally before launching.
-5.  [ZH TRANSLATION NEEDED] Undo quickly after dead‑end sightings.
+### 游玩策略与铺轨指引
 
-### Controls Guide
+1.  **先保证出口路线：** 在考虑额外矿石之前，优先设计一条从起点通向出口的可行主干线路，确保矿车至少不会半路卡死。
+2.  **节约转弯：** 转弯过多会消耗更多动量和燃料，尽量用直线连接远处区域，把必须的弯道留给绕过障碍或接入矿石支线。
+3.  **支线采集：** 可以从主线路分出短小的支线去采集旁边的矿石，再在合适位置回到主线，既安全又高效。
+4.  **脑中先模拟一遍：** 铺完一段轨道后，在启动列车前先在脑中“跑一遍路线”，检查是否存在明显死角或不必要弯路。
+5.  **发现死路及时撤销：** 一旦意识到某处设计会导致后续无法接入出口或矿石，尽快撤销相关轨道，避免越修越乱。
 
-- Place/rotate track pieces; launch train; pause/retry via UI.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **放置/旋转轨道：** 点击棋盘格子放置轨道块，必要时使用旋转按钮调整轨道朝向；
+- **发车：** 完成设计后，通过界面按钮启动矿车，观察其沿轨道运行；
+- **暂停/重试：** 如发现问题，可暂停并调整或直接重试关卡。
 
-- Q: I dead‑end near the exit.
-  
-[ZH TRANSLATION NEEDED]   A: You spent turns earlier; reroute straighter segments.
+### 常见问题解答（FAQ）
+*   **问：为什么总是在出口附近陷入死路？****
 
-- Q: Can I collect everything?
-  
-[ZH TRANSLATION NEEDED]   A: Often yes with smart spurs; prioritize safety first.
+A: You spent turns earlier; reroute straighter segments.
+- 答：** 通常是前面路段转弯消耗过多，导致剩余动量不足。可以尝试将中途部分整理得更直一些，为终点路段保留足够“转弯预算”。
 
+A: Often yes with smart spurs; prioritize safety first.
+*   **问：能把所有矿石都收集完吗？****
+    *   答：** 很多关卡在合理利用支线与转弯的前提下可以实现全收集，但如果路线过于复杂反而会适得其反，安全通关仍应放在第一位。

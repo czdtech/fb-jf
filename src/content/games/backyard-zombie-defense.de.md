@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: backyard-zombie-defense
-title: '[DE] Backyard Zombie Defense'
+title: "Backyard Zombie Defense"
 description: >-
-  [DE] Backyard Zombie Defense is a casual tower defense — place turrets,
-  upgrade wisely, and hold off the horde.
+  Backyard Zombie Defense ist ein unkompliziertes Tower‑Defense‑Spiel. Platziere
+  Geschütze, rüste sie clever auf und halte die Zombiehorden von deinem Garten
+  fern.
 iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
 thumbnail: /new-images/backyard-zombie-defense.png
 tags:
@@ -15,27 +16,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Backyard Zombie Defense ist ein leichtgewichtiger Tower‑Defense‑Titel: Du
+baust und verbesserst verschiedene Türme, um Wellen von Zombies aufzuhalten,
+bevor sie das Ende der Route erreichen. Ein Mix aus Einzelziel‑ und
+Flächenschaden‑Türmen, Verlangsamungseffekten und einem sauberen
+Wirtschaftsmanagement entscheidet darüber, ob dein Garten überlebt.
 
-### Detailed Game Introduction
+### Strategie & Walkthrough
 
-Backyard Zombie Defense is a lightweight TD: build and upgrade a mix of single‑target and aoe turrets, slow enemies near exits, and pace economy to keep up with scaling waves.
+1.  **Lange Wege abdecken:** Platziere Türme so, dass sie möglichst lange
+    Strecken und mehrere gemeinsam genutzte Wege gleichzeitig beschießen können.
+    Jeder Turm soll so oft wie möglich pro Welle zum Einsatz kommen.
+2.  **Slow + Splash an den Ausgängen:** Direkt vor dem Ausgang sind
+    Verlangsamungs‑Türme in Kombination mit Flächenschaden ideal, um
+    durchgerutschte Gegnerwellen doch noch aufzuhalten.
+3.  **Früh auf starke Türme setzen:** Rüste wenige, aber gut positionierte
+    Kern‑Türme früh auf. Upgrades auf diesen Schlüsselpositionen bringen mehr
+    Wert als viele schwache Basistürme.
+4.  **Schadensarten ausbalancieren:** Schnelle Zombie‑Typen brauchen andere
+    Lösungen als langsame, zähe Gegner. Kombiniere schnellen Einzelschaden mit
+    Flächenangriffen, um beide Gruppen im Griff zu behalten.
+5.  **Notreserve einplanen:** Heb dir einen kleinen Geldpuffer für
+    Zwischenwellen auf. So kannst du im Notfall spontan einen zusätzlichen Turm
+    bauen oder einen wichtigen Kern‑Turm sofort upgraden.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Cover long paths and shared lanes for efficiency.
-2.  **[DE]** Slow + splash near exits to catch leaks.
-3.  **[DE]** Early upgrades on high‑impact towers compound value.
-4.  **[DE]** Balance damage types for fast vs. tanky zombies.
-5.  **[DE]** Save cash for mid‑wave emergencies when needed.
+- **Türme setzen/verbessern/verkaufen:** Über die Benutzeroberfläche wählst du
+  Turmtypen, platzierst sie auf den verfügbaren Feldern, führst Upgrades durch
+  oder verkaufst sie wieder.
+- **Wellen starten:** Starte die nächste Zombie‑Welle, sobald deine Verteidigung
+  steht und du bereit bist.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Place/Upgrade/Sell via UI; start waves when ready.
+- **Ich lasse ständig Zombies durch – was kann ich tun?**  
+  Setze mehr Verlangsamungs‑Effekte und Flächenschaden an Engstellen und vor
+  dem Ausgang ein. Oft hilft es auch, wenige Schlüssel‑Türme stark
+  aufzurüsten, statt überall kleine Geschütze zu verteilen.
 
-### Frequently Asked Questions (FAQ)
+- **Wie sieht ein guter Startaufbau aus?**  
+  Ein einzelner, gut platzierter Turm, der lange Wege abdeckt, ist meist besser
+  als mehrere schlecht positionierte Türme. Baue darauf auf und upgrade früh.
 
-- Keep leaking—what to do? Add slows and aoe at choke/exits; upgrade key towers.
-- Best openers? One strong early tower covering long lanes.
-- Speed toggle? Many versions include fast‑forward.
-
+- **Gibt es eine Vorspulfunktion?**  
+  Viele Versionen bieten einen Schnellvorlauf, mit dem du langsame Wellen
+  beschleunigen kannst. Achte aber darauf, ihn in kritischen Phasen wieder
+  auszuschalten, damit du rechtzeitig reagieren kannst.

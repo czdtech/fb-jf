@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: granny-hero
-title: '[FR] Granny Hero'
-description: >-
-  [FR] Granny Hero is a comedic action‑runner — dodge hazards, use quirky
-  power‑ups, and rescue neighbors with surprising agility.
+title: "Granny Hero"
+description: "Granny Hero est un runner d’action comique : évite les dangers, utilise des power‑ups délirants et sauve tes voisins avec une agilité surprenante."
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/granny-hero.png
 tags:
@@ -15,35 +13,36 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Granny Hero est un runner léger et humoristique où une grand‑mère ultra dynamique traverse les rues, esquive les obstacles slapstick et collecte des objets pour aider ses voisins. Tu devras changer de voie au bon moment, synchroniser sauts et glissades, et profiter de gadgets (trottinettes, parapluies, poêles, etc.) qui offrent une brève invincibilité ou permettent de nettoyer la route.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Granny Hero is a lighthearted runner where a spry granny dashes through streets, avoids slapstick hazards, and collects items to aid neighbors. Expect lane swaps, jump/slide timing, and occasional gadgets (scooters, umbrellas, pans) that grant brief invulnerability or crowd‑control.
+1.  Vision des voies : garde les yeux deux obstacles en avance pour anticiper les changements de ligne.
+2.  Rythme saut/glissade : des sauts un peu tardifs passent mieux les barrières ; les glissades sont la réponse aux barres basses et obstacles au sol.
+3.  Gestion des power‑ups : garde boucliers et boosts de vitesse pour les sections où les obstacles s’enchaînent.
+4.  Priorité aux missions : si la route des pièces et celle d’un voisin à sauver divergent, choisis d’abord l’objectif de mission.
+5.  Reprise après erreur : après un choc, retrouve ton tempo avant de te reconcentrer sur le score.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Lane vision: Keep eyes two obstacles ahead to prepare swaps.
-2.  **[FR]** Jump/slide rhythm: Late jumps clear hurdles; slides beat low bars.
-3.  **[FR]** Power‑up economy: Save shields/speed boosts for dense stretches.
-4.  **[FR]** Mission focus: Prioritize rescue targets over side coins when routes conflict.
-5.  **[FR]** Recovery: After a mistake, re‑establish cadence before chasing score.
+- Changer de voie : `A` / `D` ou flèches gauche/droite.  
+- Sauter : `Espace` ou flèche haut.  
+- Glisser : flèche bas.  
+- Gadgets : touches spécifiques selon la version.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Swap lanes: A/D or Left/Right; Jump: Space/Up; Slide: Down; gadgets via keys.
+- Q : Je touche tout le temps les plots, un conseil ?
+  
+  R : Décale légèrement ton saut (un temps plus tard) et recentre‑toi après chaque obstacle pour garder un maximum d’options.
 
-### Frequently Asked Questions (FAQ)
+- Q : Les gadgets sont‑ils indispensables ?
+  
+  R : Ils servent surtout de filet de sécurité ; garde‑les pour les zones où la densité d’obstacles explose.
 
-- Q: I keep clipping cones — any tip?
-
-A: Jump a beat later and center after passes to maximize options.
-
-- Q: Are gadgets necessary?
-
-A: They provide safety nets; use them where obstacle density spikes.
-
-- Q: Endless?
-
-A: Most modes are endless with missions layered in.
+- Q : Le jeu est‑il infini ?
+  
+  R : La plupart des modes sont des runners infinis, avec des missions ou objectifs qui se superposent par dessus.
 

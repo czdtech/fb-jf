@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: backyard-zombie-defense
-title: '[FR] Backyard Zombie Defense'
-description: >-
-  [FR] Backyard Zombie Defense is a casual tower defense — place turrets,
-  upgrade wisely, and hold off the horde.
-iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
+title: "Backyard Zombie Defense"
+description: "Backyard Zombie Defense est un tower defense léger : place des tourelles, améliore‑les intelligemment et empêche les zombies de traverser ton jardin."
+iframeSrc: "https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/"
 thumbnail: /new-images/backyard-zombie-defense.png
 tags:
   - tower Defense
@@ -14,28 +12,31 @@ score: 4.1/5  (1994 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+Dans *Backyard Zombie Defense*, tu dois défendre un jardin contre des vagues de zombies. Tu poses des tourelles sur un chemin prédéfini, tu les améliores entre les vagues et tu t’assures que les morts‑vivants n’atteignent jamais la sortie.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1. **Couvre les longues portions de chemin :** place tes tourelles aux endroits où le trajet des zombies est le plus long ou se croise plusieurs fois pour maximiser les dégâts.  
+2. **Ralentir près de la sortie :** combine ralentissements et dégâts de zone près de la fin du parcours pour rattraper les fuites.  
+3. **Améliore tôt tes meilleures tours :** investir rapidement dans quelques tourelles bien placées rapporte plus que de multiplier les petites tours faibles.  
+4. **Diversifie les dégâts :** certaines tours sont meilleures contre les zombies rapides, d’autres contre les gros sacs à PV. Garde un mélange des deux.  
+5. **Garde une réserve :** conserve un peu d’argent pour réagir à une vague plus difficile que prévu en posant une tourelle d’urgence.
 
-Backyard Zombie Defense is a lightweight TD: build and upgrade a mix of single‑target and aoe turrets, slow enemies near exits, and pace economy to keep up with scaling waves.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Utilise la souris pour placer, améliorer ou vendre des tourelles via l’interface.  
+- Lance la vague suivante quand tu es prêt.
 
-1.  **[FR]** Cover long paths and shared lanes for efficiency.
-2.  **[FR]** Slow + splash near exits to catch leaks.
-3.  **[FR]** Early upgrades on high‑impact towers compound value.
-4.  **[FR]** Balance damage types for fast vs. tanky zombies.
-5.  **[FR]** Save cash for mid‑wave emergencies when needed.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- **Q : Je laisse toujours passer des zombies, que faire ?**  
+  **R :** Ajoute des ralentissements et des tours à dégâts de zone sur les goulots d’étranglement proches de la sortie, et améliore tes tours clés.  
 
-- Place/Upgrade/Sell via UI; start waves when ready.
+- **Q : Quelle ouverture est la plus efficace ?**  
+  **R :** Une bonne tour qui couvre une grande portion de chemin est souvent meilleure que plusieurs petites tours mal placées.  
 
-### Frequently Asked Questions (FAQ)
-
-- Keep leaking—what to do? Add slows and aoe at choke/exits; upgrade key towers.
-- Best openers? One strong early tower covering long lanes.
-- Speed toggle? Many versions include fast‑forward.
+- **Q : Peut‑on accélérer le jeu ?**  
+  **R :** De nombreuses versions proposent un bouton de vitesse pour faire passer les vagues plus vite.
 

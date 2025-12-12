@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: house-flip
-title: '[FR] House Flip'
-description: >-
-  [FR] House Flip gamifies renovation — inspect, budget upgrades, and flip
-  properties by fixing layout, style, and curb appeal.
-iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
+title: "House Flip"
+description: "House Flip gamifie la rénovation : inspecte, planifie ton budget et revends les maisons en améliorant le plan, le style et l’attrait extérieur."
+iframeSrc: "https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/"
 thumbnail: /new-images/house-flip.png
 tags:
   - puzzle
@@ -15,35 +13,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+House Flip est un petit simulateur de rénovation. Tu évalues les problèmes d’une maison (circulation des pièces, équipements abîmés, déco dépassée), tu choisis des travaux dans la limite de ton budget, puis tu revends avec profit. Les flips efficaces trouvent le bon équilibre entre coût et valeur ajoutée : cuisine/salle de bain, peinture et façade offrent souvent le meilleur retour sur investissement.
 
-### Detailed Game Introduction
+### Comment jouer
 
-House Flip is a light renovation sim. Evaluate a property’s issues (layout flow, damaged fixtures, dated style), choose upgrades within a budget, and resell for profit. Efficient flips balance cost vs. value — kitchens/baths, paint, and curb appeal punch above their weight.
+1.  **Tri par retour sur investissement** : privilégie la cuisine, les salles de bain, les sols et la peinture ; repousse les pièces secondaires qui ont peu d’impact sur le prix de revente.  
+2.  **Corrige le plan** : supprime les goulots d’étranglement, ajoute des rangements et assure une circulation fluide entre les espaces clés.  
+3.  **Soigne le thème** : garde une palette de couleurs cohérente ; des pièces qui jurent entre elles font baisser l’attrait global.  
+4.  **Mise en scène** : ajoute quelques éléments de déco pour donner de la chaleur et augmenter la valeur perçue sans exploser le budget.  
+5.  **Contrôle du budget** : garde une marge de sécurité pour les imprévus et évite d’investir plus que ce que le quartier peut raisonnablement absorber.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** ROI triage: Prioritize kitchens/baths, flooring, and paint; defer low‑impact rooms.
-2.  **[FR]** Layout fixes: Remove bottlenecks, add storage, and ensure good flow.
-3.  **[FR]** Theming: Keep a cohesive palette; mismatched rooms reduce appeal.
-4.  **[FR]** Staging: Add a few decor items to lift perceived value.
-5.  **[FR]** Budget control: Leave a contingency; don’t over‑invest beyond neighborhood caps.
+- Inspecte les pièces, choisis les travaux, place les objets puis valide. Certaines versions imposent un temps d’attente pour la réalisation de gros chantiers.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Inspect rooms, pick upgrades, place items, and confirm; some builds time‑gate tasks.
+- Q : Mes bénéfices sont faibles, que dois‑je changer ?  
+  R : Concentre‑toi sur les travaux à fort retour (cuisine, salles de bain, peinture, façade) et évite les personnalisations trop spécifiques qui n’intéresseront pas tous les acheteurs.
 
-### Frequently Asked Questions (FAQ)
+- Q : Par quelle amélioration commencer ?  
+  R : En général par la cuisine (plans de travail, électroménager) ou les salles de bain (sanitaires, carrelage), selon leur état de base.
 
-- Q: My profit is low — what to change?
-
-A: Focus on high‑ROI upgrades and avoid over‑customization; keep budgets lean.
-
-- Q: Which upgrade first?
-
-A: Kitchen (surfaces/appliances) or bathrooms (fixtures/tiles) depending on condition.
-
-- Q: Does exterior matter?
-
-A: Yes — paint, landscaping, and entry lighting add inexpensive curb appeal.
+- Q : L’extérieur a‑t‑il vraiment beaucoup d’importance ?  
+  R : Oui. Une couche de peinture, quelques plantes et un bon éclairage d’entrée offrent un gros gain d’attrait pour un coût limité.
 

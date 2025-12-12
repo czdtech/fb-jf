@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: dalgona-game
-title: '[ES] Dalgona Game'
+title: "Dalgona Game"
 description: >-
-  [ES] Dalgona Game recreates honeycomb carving — trace shapes carefully, manage
-  cracks, and finish before time runs out.
+  Dalgona Game recrea el reto de recortar dalgona: perfila con cuidado la forma,
+  controla las grietas y termina antes de que se agote el tiempo.
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/dalgona-game.png
 tags:
@@ -15,36 +15,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Dalgona Game es un desafío de trazar líneas con pulso firme inspirado en el
+caramelo dalgona. Tienes que recortar la silueta marcada siguiendo sus bordes;
+si aplicas demasiada presión o te sales del contorno, el caramelo se resquebraja
+y pierdes la ronda.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve out the stamped shape by following edges; too much pressure or off‑path cuts crack the candy and fail the round.
+1.  Ve despacio en las esquinas y reserva la velocidad para los tramos rectos.
+2.  Sigue los surcos de la figura; evita forzar giros bruscos "a contrafibra".
+3.  Vigila las microgrietas: si empiezan a expandirse, levanta el trazo y vuelve
+    a entrar desde un ángulo más seguro.
+4.  Deja los ángulos más cerrados para el final, cuando ya hayas estabilizado
+    los bordes largos.
+5.  Gestiona el temporizador alternando zonas rápidas con tramos en los que
+    reduzcas la velocidad para no cometer errores.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Slow and steady near corners; speed only on straight segments.
-2.  **[ES]** Follow grooves; don’t force turns across the grain.
-3.  **[ES]** Watch micro‑cracks; if they spread, lift and re‑approach.
-4.  **[ES]** Save tight angles for last after stabilizing long edges.
-5.  **[ES]** Manage the timer by alternating quick/slow sections.
+- Arrastra el dedo o el ratón para seguir el contorno; según la versión, puede
+  haber sensibilidad a la presión o al ángulo.
+- Reinicia rápidamente la ronda si el caramelo se rompe.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to trace the outline; pressure/angle sensitivity varies by build.
-- Restart quickly on breaks.
+- P: Siempre rompo la galleta en las esquinas, ¿cómo lo evito?
+  
+  R: Reduce la velocidad, abre un poco más el giro si el juego lo permite y
+  haz una breve pausa antes de cada cambio de dirección brusco.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿El juego tiene en cuenta la presión del trazo?
+  
+  R: Algunas versiones simulan la presión; en ellas es mejor arrastrar con
+  suavidad cerca de los bordes más delicados.
 
-- Q: I keep cracking near corners — how to fix?
-
-A: Reduce speed, take wider arcs if allowed, and pause before turning sharply.
-
-- Q: Is pressure modeled?
-
-A: Some builds simulate pressure; gentle drags are safer near delicate edges.
-
-- Q: Any tips for stars/umbrellas?
-
-A: Do long straights first, then carve the tight inner curves last.
-
+- P: ¿Algún consejo para figuras difíciles, como estrellas o paraguas?
+  
+  R: Empieza por los tramos largos y rectos y deja las curvas cerradas y picos
+  para el final, cuando estés más cómodo con el margen de error.

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: rampage-road
-title: '[ZH TRANSLATION NEEDED] Rampage Road'
-description: >-
-  [ZH TRANSLATION NEEDED] Rampage Road is a chaotic car shooter — weave traffic,
-  blast foes, and survive explosive pursuits.
+title: 《Rampage Road》暴走公路枪战
+description: 《Rampage Road》是一款俯视角的暴走汽车射击游戏。你要在车流中左右穿梭，一边躲避碰撞，一边用车载武器击毁敌车，在连环爆炸和追击战中尽可能活得更久。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/rampage-road.png
 tags:
@@ -16,25 +14,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Rampage Road mixes top‑down driving with arcade shooting. Navigate traffic, manage ammo or cooldowns, and eliminate targets while keeping your vehicle intact through waves of enemies.
+《Rampage Road》将俯视角驾驶与街机式射击结合在一起。你驾驶武装车辆在公路上狂飙，既要在车流中寻找安全路线，又要管理子弹或技能冷却，在一波波敌车的围追堵截下坚持生存。如何在“躲避伤害”和“输出火力”之间找到平衡，是这款游戏的核心乐趣。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Clean lines: Hug lanes with predictable gaps to avoid traffic hits.
-2.  [ZH TRANSLATION NEEDED] Burst fire: Short controlled bursts conserve ammo and heat.
-3.  [ZH TRANSLATION NEEDED] Focus targets: Remove dangerous foes (rockets/rammers) first.
-4.  [ZH TRANSLATION NEEDED] Collect wisely: Grab pickups when safe; don’t cut across heavy traffic.
-5.  [ZH TRANSLATION NEEDED] Escape tools: Save boosts or shields for emergencies.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **保持干净的行车路线：** 尽量沿着空隙较多、路线可预判的车道行驶，减少被普通车辆无谓撞击的机会。
+2.  **点射而非乱扫：** 采用短点射或短时间连发可以节省弹药、降低武器过热的风险，比长时间按住不放更有效率。
+3.  **优先击杀高威胁目标：** 带火箭、冲撞型或高伤害武器的敌车优先清除，先解决最危险的威胁再考虑清杂兵。
+4.  **谨慎拿补给：** 补给品很诱人，但为了捡一个道具横穿多条车道往往得不偿失。确认周围车流安全时再切过去捡取。
+5.  **保留逃生资源：** 加速、护盾等保命技能尽量留给真正的危机状况，例如被多辆敌车夹击或前方连环爆炸时再使用。
 
-- Drive: A/D or Left/Right; accelerate/brake with W/S or Up/Down.
-- Fire: Click/Space per mode; secondary with another key if present.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **驾驶：** 使用 A/D 或左右方向键控制横向移动；W/S 或上下方向键控制加速与减速（具体以游戏版本为准）。
+- **攻击：** 鼠标点击或空格键发射武器；如有副武器，则通常绑定在另一个按键上。
 
-- I explode fast—why? You’re trading hits in traffic; prioritize avoidance over kills.
-- Ammo limited? Many modes—use bursts and time reloads.
-- Boss fights? Some waves escalate; prepare boosts and space.
-
+### 常见问题解答（FAQ）
+*   **问：为什么我总是很快就被炸掉？****
+    *   答：** 很可能是你在车流中硬拼火力，换血太多。优先避让普通车辆和爆炸范围，再寻找安全窗口输出。
+*   **问：弹药是不是有限的？****
+    *   答：** 视模式不同而定，但即便有补给，也建议用短点射和节奏性攻击来控制消耗，并在空档期完成换弹或冷却。
+*   **问：有 Boss 战或更难的波次吗？****
+    *   答：** 部分波次会出现精英敌车或 Boss 级对手，攻击方式和血量都会明显提升。建议在这些关卡前保留好加速、护盾等关键技能，并尽量保持车辆完好状态。

@@ -1,50 +1,38 @@
 ---
 locale: fr
-urlstr: merge-fruit
-title: '[FR] Merge Fruit'
-description: >-
-  [FR] Merge Fruit is a juicy merge‑and‑drop — combine identical fruits, manage
-  stack heights, and engineer cascades for big scores.
-iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
-thumbnail: /new-images/merge-fruit.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.1/5  (1957 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "merge-fruit"
+title: "Merge Fruit"
+description: "Merge Fruit est un puzzle juteux de chute et de fusion : combine des fruits identiques, gère la hauteur des piles et prépare des cascades pour décrocher de gros scores."
+iframeSrc: "https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/"
+thumbnail: "/new-images/merge-fruit.png"
+tags: ["puzzle", "thinky", "casual"]
+score: "4.1/5  (1957 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Merge Fruit combine des chutes de fruits avec des règles de fusion. Tu laisses tomber des fruits dans un bac ; lorsqu’ils se touchent et qu’ils sont identiques, ils fusionnent pour donner un fruit plus gros. Ton défi est d’empiler intelligemment pour préparer de futures fusions tout en évitant que la pile n’atteigne le haut de l’écran.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Ancre centrale :** garde ton plus gros fruit près du centre du bac pour pouvoir le fusionner facilement depuis plusieurs côtés.
+2.  **Contrôle de la hauteur :** réduis immédiatement les colonnes qui dépassent, avant qu’elles ne provoquent un débordement.
+3.  **Préparer les chaînes :** place des fruits jumeaux côte à côte, puis laisse tomber un troisième fruit au bon endroit pour déclencher des réactions en cascade.
+4.  **Couloir de sacrifice :** réserve un bord du bac comme « poubelle » pour les fruits qui ne rentrent pas dans ton cycle de fusion actuel.
+5.  **Patience :** ne laisse pas tomber un fruit au hasard quand tout rebondit ; attends une demi‑seconde que la pile se stabilise avant de viser.
 
-Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; touching identical fruits merge into a larger one. The challenge is stacking for future merges while preventing overflows at the top.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Déplace le fruit à gauche ou à droite pour viser, puis appuie pour le lâcher ; certaines versions permettent aussi de maintenir ou d’annuler un coup.
 
-1.  **[FR]** Center anchor: Keep the largest fruit near the center for multi‑side merges.
-2.  **[FR]** Height control: Flatten spikes before they cause overflow.
-3.  **[FR]** Chain planning: Stage twins adjacent before dropping a third to trigger cascades.
-4.  **[FR]** Sacrifice lane: Use one edge as a trash lane for off‑cycle fruits.
-5.  **[FR]** Patience: Don’t force drops during bounce chaos — wait a beat.
+### Foire aux questions (FAQ)
 
-### Controls Guide
-
-- Move left/right to aim; tap to drop; some builds allow holds/undos.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Board keeps overflowing.
-
-A: Stop chasing big merges; first flatten columns and stage pairs.
-
-- Q: Best place to drop?
-
-A: Center for flexibility; edges only for trash lane management.
-
-- Q: Are undos fair game?
-
-A: Use sparingly to fix genuine misdrops.
+- **Q : Le bac déborde sans arrêt.**  
+  **R :** Arrête de viser uniquement les grosses fusions et concentre‑toi d’abord sur l’aplanissement des colonnes et la préparation de petites paires sûres.
+- **Q : Où est‑il préférable de lâcher les fruits ?**  
+  **R :** En général, le centre offre le plus de flexibilité. Utilise les bords surtout comme couloir de sacrifice pour les fruits mal synchronisés.
+- **Q : Les annulations ne sont‑elles pas de la triche ?**  
+  **R :** Utilise‑les avec parcimonie pour corriger un vrai mis‑clic, pas pour refaire chaque tentative ; ton score n’en sera que plus gratifiant.
 

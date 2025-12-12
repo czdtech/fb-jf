@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: ludo-kart
-title: '[ES] Ludo Kart'
+title: "Ludo Kart - Carrera de dados en tablero"
 description: >-
-  [ES] Ludo Kart is a breezy dice‑and‑race board game — roll, move tokens, and
-  be the first to reach home.
+  Ludo Kart es un juego de mesa ligero de tirar dados y correr: lanza, mueve
+  tus fichas y sé el primero en llevarlas a casa.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/ludo-kart.png
 tags:
@@ -17,29 +17,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Ludo Kart adapta el clásico Ludo a una carrera rápida y familiar. Lanza el dado
+para mover tus fichas alrededor del tablero, entra en la recta final y lleva
+todas tus fichas a casa antes que tus rivales. Las casillas seguras, las
+capturas y las tiradas afortunadas generan grandes giros en la partida.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to move tokens around the board, enter the final lane, and bring all tokens home before opponents do. Safe squares, captures, and lucky rolls create swings.
+1.  Reparto de fichas: avanza varias fichas en paralelo para reducir el riesgo
+    de que una sola captura arruine todo tu progreso.
+2.  Casillas seguras: detente en casillas seguras cuando tus oponentes estén
+    cerca y puedan alcanzarte en una tirada.
+3.  Momento de entrar en casa: calcula cuándo entrar en la calle de llegada
+    para que los rivales no puedan capturarte inmediatamente.
+4.  Contar hacia delante: antes de mover, mira siempre qué amenazas tienen tus
+    rivales dentro del rango del dado.
+5.  No te obceques: si tu ficha líder está bloqueada, cambia a otra para seguir
+    presionando el tablero.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Token spread: Advance multiple tokens to reduce risk of a single capture wiping progress.
-2.  **[ES]** Safe spots: Park on safe squares when opponents are near.
-3.  **[ES]** Entry timing: Time your entry to the home lane so opponents can’t immediately capture you.
-4.  **[ES]** Counting ahead: Always check opponent threats within a dice range.
-5.  **[ES]** Don’t tunnel: If a lead token is blocked, switch to another to keep pressure.
+- Tirar: haz clic o toca para lanzar el dado.
+- Mover: elige una de tus fichas con movimiento legal para avanzar.
+- Modos: suele haber multijugador local y, en algunas versiones, modo en solitario contra la IA.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Roll: Click/tap to roll the die.
-- Move: Select a legal token to advance.
-- Modes: Local multiplayer is common; solo vs. AI may be available.
-
-### Frequently Asked Questions (FAQ)
-
-- Is it pure luck? Dice matter, but token spread, safe‑square usage, and counting threats add strategy.
-- Can I block? Occupying certain squares can block lanes; observe mode rules.
-- How many players? Often 2–4; check mode options.
-
+- ¿Es todo cuestión de suerte?  
+  No solo; los dados importan, pero repartir fichas, usar casillas seguras y
+  contar amenazas añade bastante estrategia.
+- ¿Puedo bloquear el paso?  
+  Ocupar ciertas casillas puede bloquear una fila; consulta las reglas del
+  modo para ver cómo funcionan los bloqueos.
+- ¿Cuántos jugadores admite?  
+  Lo habitual es entre 2 y 4 jugadores; revisa las opciones de modo de juego.

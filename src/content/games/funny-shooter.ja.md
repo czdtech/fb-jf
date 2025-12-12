@@ -1,42 +1,36 @@
 ---
+title: "Funny Shooter"
+description: "ウェーブシューターのプロトタイプ：奇抜な敵と戦い、現金を回収し、武器をアップグレードして、ますます厳しくなるラウンドを生き残りましょう。"
+iframeSrc: "https://bitlifeonline.github.io/class2623/funny-shooter/"
+thumbnail: "/new-images/funny-shooter.jpg"
+urlstr: "funny-shooter"
+score: "5.0/5  (797 votes)"
+tags: ["shooting", "fps"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: funny-shooter
-title: '[JA TRANSLATION NEEDED] Funny Shooter'
-description: >-
-  [JA TRANSLATION NEEDED] Wave shooter prototype: fight quirky enemies, collect
-  cash, and upgrade weapons to survive increasingly tough rounds.
-iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
-thumbnail: /new-images/funny-shooter.jpg
-tags:
-  - shooting
-  - fps
-score: 5.0/5  (797 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+敵のタイプが進化していく一人称視点のウェーブシューター。基本的なアップグレードシステムを備えています。
 
+### 遊び方
+- 動き続け、引き撃ち（カイト）をしましょう。遠距離の脅威を最初に排除してください。
+- ウェーブの合間に、より強力な銃やユーティリティにお金を使ってください。
+- 弾薬に注意し、安全な隙にリロードしましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] First‑person waves with evolving enemy types and basic upgrades.
+### 操作方法
+- WASDで移動、マウスで照準/射撃。Rでリロード、数字キーで武器切り替え。
 
-### How to Play
-- Keep moving and kiting; eliminate ranged threats first.
-- Spend between waves on stronger guns and utilities.
-- Watch ammo; reload in safe windows.
+### ヒント
+- ヘッドショットは弾薬と時間を節約します。
+- 遮蔽物と角を利用して敵を一箇所に集めましょう。
+- エリートウェーブのために爆発物を取っておきましょう。
 
-### Controls
-- WASD to move, Mouse to aim/shoot; R reload; number keys swap.
-
-### Tips
-- Headshots conserve ammo and time.
-- Use cover and corners to funnel enemies.
-- Save explosives for elite waves.
-
-### FAQ
-- Q: How can I unlock better weapons?  
-[JA TRANSLATION NEEDED]   A: Purchase them with money earned from clearing waves.
-- Q: Does the game include boss encounters?  
-[JA TRANSLATION NEEDED]   A: Some hosts feature periodic bosses that require burst damage.
-- Q: Can I change mouse sensitivity?  
-[JA TRANSLATION NEEDED]   A: Most hosts include settings for sensitivity.
-
+### よくある質問 (FAQ)
+- **Q: どうすればより良い武器をアンロックできますか？**  
+  A: ウェーブをクリアして得たお金で購入します。
+- **Q: ゲームにボス戦は含まれていますか？**  
+  A: 一部のホスト版では、バーストダメージ（瞬間火力）を必要とする定期的なボスが登場します。
+- **Q: マウス感度を変更できますか？**  
+  A: ほとんどのホスト版には感度の設定が含まれています。

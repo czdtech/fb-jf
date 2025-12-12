@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: iron-snout
-title: '[ZH TRANSLATION NEEDED] Iron Snout'
-description: >-
-  [ZH TRANSLATION NEEDED] Kung‑fu pig brawler: parry wolves, juggle with kicks,
-  and throw back weapons to survive waves and set high scores.
+title: "《Iron Snout》铁鼻小猪大乱斗"
+description: "《Iron Snout》是一款节奏极快的 2D 清版游戏，你操控一只会功夫的小猪，对抗从左右两侧涌来的狼群，通过格挡、连踢和反弹武器在一波波攻势中生存下去刷高分。"
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/iron-snout.jpg
 tags:
@@ -16,27 +14,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Iron Snout is a fast 2D brawler starring a martial‑arts pig fighting wolves. With simple directional inputs you punch, kick, duck, and jump to parry attacks, catch thrown axes, and reflect rockets. Survival hinges on reading telegraphed moves and maintaining a steady rhythm of counters.
+### 游戏概述
 
-### How to Play
-- Watch enemy tells; jump‑kicks pop foes for multi‑hits, duck avoids overheads.
-- Catch airborne weapons and toss them back for bonus damage.
-- Keep the fight centered to react to both sides.
+《Iron Snout》的主角是一只身手了得的功夫小猪，它要在横版舞台上迎战一波又一波的狼族敌人。游戏采用纯方向键操作，你通过上下左右的方向输入来完成出拳、踢腿、跳跃和闪避，一边格挡敌人的攻击，一边接住空中飞来的斧头、长矛等武器再反扔回去。想要在高强度敌潮中活得更久，就必须读懂敌人的出招预兆，并保持流畅的节奏反击。
 
-### Controls
-- Arrow/WASD directions trigger attacks, jumps, and ducks; no attack buttons needed.
+### 游戏玩法
 
-### Tips
-- Prioritize ranged enemies; projectiles disrupt combo flow.
-- Juggle light foes for score; finish heavies with weapon returns.
-- Don’t corner yourself—reset to mid‑screen often.
+- 观察敌人动作前摇，利用跳踢把轻型敌人踢飞至空中，实现多段连击；面对高举武器的劈砍，则用下蹲闪避从下方反击。  
+- 当斧头、长矛等武器在空中飞过时，朝武器飞来的方向按键可以把它接在手中，再反向掷回去造成额外伤害。  
+- 时刻让自己站在场景中间偏区域，这样无论敌人从哪一侧靠近，你都有足够时间反应，不会被卡在角落。  
 
-### FAQ
-- Q: How do I deal with multiple directions of attack at once?  
-[ZH TRANSLATION NEEDED]   A: Stay near center stage and respond to the closest telegraph first.
-- Q: Can I catch weapons in this game?  
-[ZH TRANSLATION NEEDED]   A: Yes—press toward flying weapons to grab and throw them back.
-- Q: Is there an end to the waves?  
-[ZH TRANSLATION NEEDED]   A: Most modes are endless until you run out of health.
+### 操作说明
 
+- 使用方向键或 WASD 即可完成所有动作：不同方向的输入对应不同攻击与闪避，无需额外攻击键，入门简单但需要练习节奏感。 
+
+### 实用技巧
+
+- 优先解决远程与投掷型敌人，它们的飞行道具最容易打断你的连击节奏。  
+- 对付轻型敌人时可以尝试“空中 juggling（连抛连打）”，让其在空中多次被击中，不仅得分高，也能减轻地面压力。  
+- 避免被逼到屏幕边缘，一旦发现自己逐渐被推向角落，主动朝空档方向突围，重新回到中场。  
+
+### 常见问题（FAQ）
+
+- Q: 同时有多名敌人从两边夹击时怎么处理？  
+  A: 尽量保持站位在中心位置，优先对最近准备出手的一侧进行反击，快速解决威胁距离最近的敌人。  
+
+- Q: 可以接住并使用敌人的武器吗？  
+  A: 可以。当看到武器在空中飞行时，朝它的飞行方向按键就能接住，随后你可以将其反扔回去，对狼群造成高额伤害。  
+
+- Q: 敌人是一波波无限刷吗？  
+  A: 大多数模式都是无尽生存模式，直到你的生命值耗尽为止，目标是挑战自己能撑过多少波、刷出多高分数。

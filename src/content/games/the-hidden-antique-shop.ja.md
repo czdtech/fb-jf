@@ -1,66 +1,48 @@
 ---
-locale: ja
+title: The Hidden Antique Shop
+description: The Hidden Antique Shopは、隠されたオブジェクトを見つけるパズルゲームです。アンティークショップで隠されたアイテムを探しましょう。
+iframeSrc: 'https://ubg98.github.io/TheHiddenAntiqueShop/'
+thumbnail: /new-images/the-hidden-antique-shop.jpg
 urlstr: the-hidden-antique-shop
-title: '[JA TRANSLATION NEEDED] The Hidden Antique Shop'
-description: >-
-  [JA TRANSLATION NEEDED] The Hidden Antique Shop is a cozy hidden‑object — scan
-  scenes, spot subtle differences, and solve light puzzles in a vintage store.
-iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
-thumbnail: /new-images/the-hidden-antique-shop.png
+score: 4.2/5  (1654 votes)
 tags:
   - puzzle
-  - thinky
+  - hidden objects
   - casual
-score: 4.1/5  (1988 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+The Hidden Antique Shopは、美しく詳細なアンティークショップを舞台にした隠しオブジェクトパズルゲームです。リストされたアイテムを見つけて謎を解き明かしましょう。
 
-[JA TRANSLATION NEEDED] Explore a vintage shop full of curios: find hidden objects, match silhouettes, and solve simple locks to open new shelves. Gentle timers and hints make it accessible while still rewarding careful observation.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Grid sweep: Divide scenes and scan zone by zone.
-[JA TRANSLATION NEEDED] 2.  Edge focus: Borders and shadow lines hide items frequently.
-[JA TRANSLATION NEEDED] 3.  Silhouette match: Align outlines with candidate objects before clicking.
-[JA TRANSLATION NEEDED] 4.  Hint rationing: Save hints for the last 1–2 stubborn items.
-[JA TRANSLATION NEEDED] 5.  Contrast tricks: Squint/zoom to spot small contrast differences.
-
-### Controls Guide
-
-- Click to collect; pinch/zoom if supported; hints via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m missing one last item.
-  
-[JA TRANSLATION NEEDED]   A: Re‑scan edges and repeated patterns; only then use a hint.
-
-- Q: Do mistakes penalize?
-  
+ - **オブジェクトを探す：** リストのアイテムを見つけます
+ - **詳細に注目：** 小さく隠されたオブジェクトに注意します
+ - **時間管理：** 制限時間内に完了します
+ - **レベル進行：** より難しいレベルに進みます
 
 
-
-
-
-
-- Q: I’m missing one last item.
-### よくある質問（FAQ）
-- Click to collect; pinch/zoom if supported; hints via UI.
-### コントロールガイド
 - Contrast tricks: Squint/zoom to spot small contrast differences.
+### 操作ガイド
+
+ - **マウス：** クリックして隠されたオブジェクトを選択
 
 ### よくある質問（FAQ）
-- Hint rationing: Save hints for the last 1–2 stubborn items.
-[JA TRANSLATION NEEDED]   A: Many builds dock time for mis‑clicks; click deliberately.
 
 
+- Q: I’m missing one last item.
+**ゲームの目標は何ですか？**
 
 
-A: Many builds dock time for mis‑clicks; click deliberately.
 - Q: Do mistakes penalize?
+各レベルでリストされたすべての隠しオブジェクトを見つけることです。
 
+**ヒントはありますか？**
 
-A: Many builds dock time for mis‑clicks; click deliberately.
+はい、困ったときに使えるヒント機能があります。
+
+**レベルは何個ありますか？**
+
+複数のレベルがあり、それぞれ異なるシーンと難易度があります。

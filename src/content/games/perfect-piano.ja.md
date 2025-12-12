@@ -1,83 +1,48 @@
 ---
-locale: ja
-urlstr: perfect-piano
-title: '[JA TRANSLATION NEEDED] Perfect Piano'
-description: >-
-  [JA TRANSLATION NEEDED] Test your rhythm and reflexes in Perfect Piano! Tap
-  the falling notes as they reach the keyboard to play beautiful songs. Don't
-  miss a single tile!
-iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
+title: Perfect Piano
+description: Perfect Pianoは音楽リズムゲームです。ノートをタップし、メロディを演奏し、曲をマスターし、バーチャルピアノスキルを楽しみます。
+iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/perfect-piano.png
+urlstr: perfect-piano
+score: 4.3/5  (2456 votes)
 tags:
-  - action
   - casual
-score: 4.5/5  (2950 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Perfect Pianoは、画面を降りてくるノートをタップして曲を演奏します。正しいタイミングでキーをタップして、正確にメロディを演奏します。簡単な曲から難しいクラシックまで。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **リズムを聞く:** 音楽が指を導きます。
+2.  **先を見る:** 次のノートを予測します。
+3.  **正確なタイミング:** 完璧なタップのために練習します。
+4.  **簡単から始める:** より簡単な曲で構築します。
+5.  **両手を使用:** より複雑な曲のために。
+
+### 操作ガイド
 
 
-### Detailed Game Introduction
+The game is played with simple taps or clicks.
+- 降りてくるノートをタップ/クリックします。
+- 正しいタイミングでキーをタップします。
+- より高いスコアのために精度を目指します。
 
-[JA TRANSLATION NEEDED] Perfect Piano is a fast-paced and engaging rhythm game that simulates playing the piano, similar to the popular "Piano Tiles" genre. Notes in the form of tiles fall from the top of the screen, and you must tap them at the precise moment they reach the bottom keyboard line. The game tests your reflexes, timing, and rhythm as you play along to a variety of beautiful and challenging songs.
+### よくある質問 (FAQ)
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  **Focus on the Bottom Line:** Don't watch the tiles as they fall from the top. Keep your eyes focused on the target line at the bottom of the screen. This is where you need to react.
-[JA TRANSLATION NEEDED] 2.  **Anticipate the Rhythm:** Listen to the music! The falling tiles are perfectly synced with the song's melody and rhythm. Anticipating the beat will help you time your taps much more accurately.
-[JA TRANSLATION NEEDED] 3.  **Use Multiple Fingers:** For faster sections, don't rely on just one finger. Position your hands as if you were playing a real piano and use multiple fingers to cover the different columns.
-[JA TRANSLATION NEEDED] 4.  **Handle Long Notes:** When you see a long tile, you must press and hold it for its entire duration. Lifting your finger too early counts as a miss.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple taps or clicks.
-
-*   **Tap the Notes:** Use your mouse or fingers to click on the columns as the falling tiles cross the target line at the bottom.
-    - **A:** In most cases, the game will end immediately, and you will have to restart the song from the beginning.（日本語訳が必要）
-    - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.（日本語訳が必要）
-    - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.（日本語訳が必要）
-    - **A:** In most cases, the game will end immediately, and you will have to restart the song from the beginning.（日本語訳が必要）
-    - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.（日本語訳が必要）
-    - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What happens if I miss a tile or tap the wrong spot?**
-[JA TRANSLATION NEEDED]     *   **A:** In most cases, the game will end immediately, and you will have to restart the song from the beginning.
-
-*   **Q: How do I get a high score?**
-[JA TRANSLATION NEEDED]     *   **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
-
-*   **Q: Can I play different songs?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
-
-
-
-
-
-
-
-
-
+- **Q: 音楽知識が必要ですか？**  
+  A: いいえ！タイミングに従うだけです。
+    - **Q: どれくらいの曲がありますか？**  
+  A: バージョンによって異なります。多くは数十。
+- **Q: より良くなるにはどうすればよいですか？**  
 
     - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
+
 - **Q: Can I play different songs?**
+
     - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
-- **Q: How do I get a high score?**
-    - **A:** In most cases, the game will end immediately, and you will have to restart the song from the beginning.
-- **Q: What happens if I miss a tile or tap the wrong spot?**
-### よくある質問（FAQ）
-- **Tap the Notes:** Use your mouse or fingers to click on the columns as the falling tiles cross the target line at the bottom.
-
-
-
-
-
-
-    - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
-- **Q: Can I play different songs?**
-    - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
-- **Q: How do I get a high score?**
-    - **A:** In most cases, the game will end immediately, and you will have to restart the song from the beginning.
+  A: より簡単な曲を練習し、徐々に難易度を上げます。

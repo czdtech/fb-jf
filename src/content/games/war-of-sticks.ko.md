@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: war-of-sticks
-title: '[KO] War of Sticks'
+title: "War of Sticks 워 오브 스틱스"
 description: >-
-  [KO] Command your stickman army in War of Sticks, a strategic battle game!
-  Mine for resources, train diverse units like shielders, archers, and
-  barbarians, and deploy them to conquer the Red Empire. Build defenses, plan
-  your attacks, and lead your forces to victory in this engaging RTS.
+  막대 인간 군대를 이끌고 붉은 제국에 맞서는 실시간 전략 게임입니다. 광산 노동자로 자원을 캐고,
+  방패병·궁수·바바리안·마법사 등 다양한 유닛을 양성해 기지를 구축하고 적 진영을 무너뜨리세요.
 iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
 thumbnail: /new-images/war-of-sticks.jpg
 tags:
@@ -18,36 +16,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+War of Sticks는 스틱맨(막대 인간) 병사들을 지휘해 폭정으로 나라를 지배하는 붉은 제국에 맞서는
+실시간 전략(RTS) 게임입니다. 플레이어는 자원을 채굴해 경제를 키우고, 다양한 병종을 양성해
+공격군과 방어선을 구성해야 합니다. 자원 관리, 유닛 조합, 타이밍이 승패를 가르는 핵심 요소입니다.
 
-War of Sticks is a real-time strategy game where you lead a stickman army to liberate your kingdom from the oppressive "Red Empire." Developed by Shoom Games, this title combines resource management, unit training, and tactical combat. Your objective is to build a powerful force, manage your economy, and strategically defeat enemy armies to reclaim your land.
+### 게임 플레이 가이드
 
-### Gameplay Guide
+- **자원 관리**: 광부 유닛을 훈련시켜 금을 채굴하는 것이 기본입니다. 일부 모드에서는 돌을 금으로
+  전환해 추가 수입을 얻을 수도 있습니다.
+- **군대 편성**: 각 유닛은 역할이 뚜렷하게 나뉩니다.
+    - **방패병(Shielders)**: 전면에서 공격을 받아 내는 탱커 역할.
+    - **궁수(Archers)**: 후열에서 지속적인 원거리 딜을 넣는 딜러.
+    - **바바리안(Barbarians)**: 근접에서 강력한 공격을 담당하는 돌격 유닛.
+    - **마법사(Wizards)**: 광역 공격이나 군중 제어 등 특수 능력을 가진 지원 유닛.
+- **전투 전략**: 적의 구성과 포지션을 확인한 뒤, 방어 타워와 병력을 어떻게 배치할지 결정해야
+  합니다. 한쪽 유닛만 잔뜩 뽑기보다는 균형 잡힌 조합이 중요합니다.
 
-- **Resource Management:** Train miners to gather gold, your primary resource for building units and defenses. You can also convert stone into gold.
-- **Army Building:** Recruit various stickman units, each with unique roles:
-    -   **Shielders:** Front-line defenders.
-    -   **Archers:** Ranged damage dealers.
-    -   **Barbarians:** Close-combat attackers.
-    -   **Wizards:** Support units with special abilities.
-- **Strategic Combat:** Deploy your units, build defensive towers, and observe enemy positions to plan your attacks. A balanced army composition is key to success.
+### 조작 방법 안내
 
-### Controls Guide
+- **마우스**: 대부분의 조작은 마우스로 이루어집니다. 유닛 훈련 버튼 클릭, 방어 타워 건설,
+  병력 이동 및 공격 지시 등을 모두 클릭으로 수행합니다.
 
-- **Mouse:** Primarily used for all interactions: clicking buttons to train units, selecting units, and directing your army on the battlefield.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Q. War of Sticks의 최종 목표는 무엇인가요?**  
+A. 금을 효율적으로 모아 군대를 키우고, 적의 공격을 막아 내면서 역으로 적 진영을 격파해
+붉은 제국의 지배에서 왕국을 해방시키는 것이 최종 목표입니다.
 
-**What is the main goal of War of Sticks?**
+**Q. 골드를 빨리 모으는 방법이 있나요?**  
+A. 초반에는 광부 수를 우선적으로 늘려 경제 기반을 다지는 것이 좋습니다. 이후에는 필요 이상으로
+광부를 뽑기보다, 돌을 금으로 전환하는 업그레이드나 전투 유닛에 투자를 돌려 균형을 맞추세요.
 
-The main goal is to build your army, manage your resources, and strategically defeat the enemy forces to liberate your kingdom from the Red Empire.
-
-**How do I get more gold?**
-
-Train more miners to gather gold. You can also convert collected stone into gold to boost your economy.
-
-**What are the best units to use?**
-
-A diverse army is generally most effective. Shielders provide a strong front line, archers offer ranged support, and barbarians are good for close combat. Wizards can provide valuable crowd control.
-
+**Q. 어떤 유닛 조합이 가장 좋나요?**  
+A. 상황에 따라 다르지만, 일반적으로 방패병으로 전열을 버티게 하고 그 뒤에서 궁수가 공격을
+지원하는 형태가 안정적입니다. 바바리안과 마법사는 적의 밀집 지점이나 보스급 적을 처리하는 데
+효과적이므로, 핵심 타이밍에 맞춰 추가하는 식으로 운용해 보세요.

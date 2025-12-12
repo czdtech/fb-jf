@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: 4-pics-1-word
-title: '[ZH TRANSLATION NEEDED] 4 Pics 1 Word'
-description: >-
-  [ZH TRANSLATION NEEDED] Here's your chance to play 4 Pics 1 Word Game. Have
-  fun with this one!
+title: 4 Pics 1 Word 四图一词
+description: 在《4 Pics 1 Word（四图一词）》中，你需要通过四张看似无关的图片，联想到它们共同指向的那个英文单词，用直觉与联想能力解出一个又一个谜题。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/4-pics-1-word.jpg
 tags:
@@ -16,64 +14,63 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+*4 Pics 1 Word（四图一词）* 是 LOTUM GmbH 开发的一款极受欢迎的图片联想文字谜题游戏。每一关都会给出四张图片，它们在某个概念、物体或者英文单词上存在共通点，你的任务就是根据这些线索，拼出那个唯一正确的单词。看似简单的规则背后，考验的是你的英文词汇量、联想能力以及从画面中抽象概念的能力。
 
-[ZH TRANSLATION NEEDED] *4 Pics 1 Word* (German: *4 Bilder 1 Wort*) is a highly popular and straightforward word puzzle game developed by LOTUM GmbH. The core concept is to guess a single word that is common to four different pictures shown on the screen. The game tests your lateral thinking, vocabulary, and ability to find connections between visual cues. Its simple premise and engaging puzzles have made it a lasting hit on mobile devices.
+---
 
-[ZH TRANSLATION NEEDED] ---
+### 如何游玩 4 Pics 1 Word
 
-### How to Play 4 Pics 1 Word
+本作的上手门槛几乎为零，但却很容易越玩越停不下来。
 
-[ZH TRANSLATION NEEDED] The gameplay is incredibly simple and intuitive, making it accessible to players of all ages.
+*   **核心目标：** 观察屏幕上给出的四张图片，找出它们共同指向的一个英文单词。这个词可能是名词，也可能是动词或形容词，关键在于“共同点”。
 
-*   **The Goal:** Look at the four pictures presented and figure out the one word that they all represent or are associated with. This word can be a noun, verb, or adjective.
+*   **拼写答案的方式：**
+    1.  在图片下方，你会看到一排空格，对应目标单词的字母数量。
+    2.  再下面是一组被打乱的字母备选。
+    3.  按正确顺序点击这些字母，让它们依次填入空格中，拼出你的答案。
+    4.  如果拼错了，可以点击答案里的字母将其退回到备选区，重新尝试。
 
-*   **Guessing the Word:**
-    1.  在图片下方，你会看到一组空白格，代表目标单词的字母。
-    2.  再往下是一组打乱的字母选择。
-    3.  按正确的顺序点击字母，在空白格中拼出你的答案。
-    4.  如果你犯了错误，可以点击答案空格中的字母将其返回到选择区域。
+*   **获取金币：** 每解出一个谜题，你都会获得一定数量的金币。金币是游戏中的通用货币，用于购买各种提示。
 
-*   **Earning Coins:** For each puzzle you solve correctly, you earn a small number of coins. These coins are the in-game currency used for getting hints.
+*   **使用提示：** 当你卡在某一关时，可以用金币购买不同类型的提示：
+    *   **显示一个字母：** 自动在正确位置填入一个字母，是最基础也最便宜的提示方式。
+    *   **移除干扰字母：** 从备选字母中删除一批不属于答案的字母，缩小排除范围，让正确答案呼之欲出。
+    *   **求助好友：** 游戏通常提供快速分享功能，你可以把关卡截图发到社交媒体或聊天软件，让朋友一起帮你猜。
 
-*   **Using Hints:** If you get stuck on a puzzle, there are several hints you can "purchase" with your earned coins:
-    *   **显示一个字母：** 这将把一个正确的字母放入答案中的正确位置。这是最常见和最便宜的提示。
-    *   **移除字母：** 这将从打乱的选择中移除几个不属于答案的字母，使猜测单词变得更容易。
-    *   **询问朋友：** 游戏提供了一个内置功能，可以截取谜题的屏幕截图，并轻松地在社交媒体或消息应用程序上分享，以寻求帮助。
+---
 
-[ZH TRANSLATION NEEDED] ---
+### 策略与解题思路
 
-### Strategy and Tips
+虽然玩法简单，但掌握一些小技巧能让你推理单词的效率更高。
 
-[ZH TRANSLATION NEEDED] While the game is simple, a few strategies can help you solve puzzles more efficiently.
+1.  **先逐张图片“用语言描述”：** 给自己一点时间，分别用几个简单词汇去描述四张图在表现什么——动作、物体、颜色、情绪、场景都可以。
+    *   *示例：* 如果你看到有人在睡觉、一只关闭的台灯、夜空和一只猫头鹰，可以先记下“睡觉 / 关灯 / 夜晚 / 黑暗 / 夜行性动物”等关键词。
 
-1.  **单独分析每张图片：** 首先，用简单的词语向自己描述四张图片中的每一张。寻找动作、物体、颜色或概念。
-    *   *示例：* 如果你看到一个人在睡觉、一个关闭的电灯开关、一个黑暗的天空和一只猫头鹰，单个词语可能是"睡眠"、"关闭"、"黑暗"、"夜晚"、"鸟"。
+2.  **从关键词中提炼共通概念：** 把这些关键词放在一起，找它们的交集。例如上面的例子，很容易联想到 **“DARK（黑暗）”** 或 “NIGHT（夜晚）” 这样的词。
 
-2.  **找到共同主题：** 分析每张图片后，寻找重叠的概念或单词。在上面的例子中，共同主题是**"黑暗"**（一个黑暗的房间、一个黑暗的天空、一个夜晚的生物）。
+3.  **学会抽象，不只盯着字面：** 有些关卡给出的画面并不是要你直译画面元素，而是要你抓住“概念”。
+    *   *示例：* 天平、法槌、蒙眼女神雕像，看起来都不同，但它们共同指向的概念是 **“JUSTICE（正义）”**。
 
-3.  **抽象思考：** 不要总是字面思考。有时连接是一个概念或想法。
-    *   *示例：* 天平、法官的木槌和蒙眼雕像的图片可能都指向单词**"正义"**。
+4.  **利用多重含义和双关：** 游戏非常喜欢使用一词多义的英文单词。
+    *   *示例：* 一张树皮的特写和一只狗在叫，都可能指向同一个单词 **“BARK”**（既是“树皮”，也是“狗叫”）。
 
-4.  **考虑文字游戏和多重含义：** 游戏经常使用具有双重含义的单词（同音异义词）。
-    *   *示例：* 树的外层和狗的声音的图片可能都与单词**"树皮/吠叫"**有关。
+5.  **结合字母数量与备选字母：** 空格数量会告诉你单词长度，而下方的字母池则限制了可能的答案。当你有一个模糊的猜测时，先看一眼是否具备所需字母，再决定要不要继续往那个方向联想。
 
-5.  **查看字母计数和可用字母：** 空白格的数量准确地告诉你单词有多长。使用提供的字母作为主要线索。如果你有想法，在过于执着之前检查是否有必要的字母可用。
+6.  **金币要花在刀刃上：** 在多数情况下，“移除多余字母”这种提示比“直接显示一个字母”更具性价比，因为它会明显缩小可能空间。把金币留给那些你反复尝试仍毫无线索的关卡。
 
-6.  **明智地使用硬币：** "移除字母"提示通常比"显示一个字母"更有价值，因为它可以使答案立即显而易见。为真正困难的谜题保存你的硬币。
+---
 
-[ZH TRANSLATION NEEDED] ---
+### 常见问题解答（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**问：4 Pics 1 Word 是免费游戏吗？****
+答：** 是的，游戏本体可以免费游玩，一般通过内购（购买金币用于提示）和广告来进行变现。
 
-[ZH TRANSLATION NEEDED] **Q: Is *4 Pics 1 Word* free to play?**
-[ZH TRANSLATION NEEDED] **A:** Yes, the game is free to download and play. It is supported by in-app purchases (where you can buy more coins for hints) and sometimes advertisements.
+**问：如果金币用完，又卡在某一关怎么办？****
+答：** 你可以优先用“求助好友”的方式把图片发给朋友一起猜。有的版本还会提供每日奖励或通过解锁简单关卡获得额外金币，可以通过这些途径慢慢攒资源。
 
-[ZH TRANSLATION NEEDED] **Q: What happens if I run out of coins and am stuck?**
-[ZH TRANSLATION NEEDED] **A:** Your best free option is to use the "Ask a Friend" feature to share the puzzle. You also earn free coins for solving puzzles, so you can always go back to easier levels (if the version allows) or wait for a daily bonus, if available.
+**问：四张图片之间的关联方式都一样吗？****
+答：** 并不一定，这正是游戏有趣的地方。有时四张图会是同一事物的不同例子（例如各种类型的“球”），有时则是共同构成某个抽象概念（例如“寒冷”：冰块、打哆嗦的人、低温的温度计、下雪的景象）。
 
-[ZH TRANSLATION NEEDED] **Q: Do the four pictures always relate in the same way?**
-[ZH TRANSLATION NEEDED] **A:** No, and that's the core challenge. Sometimes all four pictures show different examples of the same object (e.g., four types of balls). Other times, they represent a shared concept (e.g., pictures related to "cold": an ice cube, a person shivering, a thermometer showing a low temperature, and a snowy landscape).
-
-[ZH TRANSLATION NEEDED] **Q: Is the game available in other languages?**
-[ZH TRANSLATION NEEDED] **A:** Yes, *4 Pics 1 Word* is available in many different languages. The puzzles and answers are localized for each language.
+**问：游戏支持多语言吗？****
+答：** 是的，*4 Pics 1 Word* 在许多语言里都有本地化版本，不同语言下的谜题和答案也会做相应调整。你在这里游玩的是以英文单词为核心的版本。
 

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tunnel-rush
-title: '[KO] Tunnel Rush'
+title: "Tunnel Rush 터널 러시"
 description: >-
-  [KO] Tunnel Rush is a fast-paced endless running game where players navigate
-  through a colorful 3D tunnel, avoiding obstacles and barriers while traveling
-  at high speeds in this thrilling reflex-testing experience.
+  고속으로 질주하는 3D 터널 속에서 장애물을 피하는 엔드리스 러너 게임입니다. 현란한 색상의
+  통로를 좌우로 이동하며 바리어를 피하고, 점점 빨라지는 속도 속에서 반사 신경을 시험해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
 thumbnail: /new-images/tunnel-rush.jpg
@@ -18,34 +17,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
+"Tunnel Rush"는 다채로운 색상의 3D 터널을 배경으로, 계속해서 다가오는 장애물을 피해 나가는
+고속 엔드리스 러너 게임입니다. 플레이어는 원형 터널 안을 좌우로 회전하며, 벽에서 튀어나온 블록
+및 각종 패턴을 피해 최대한 오래 살아남는 것이 목표입니다. 진행 시간이 길어질수록 속도가 점점
+빨라져, 시야와 반응 속도를 한계까지 끌어올리게 됩니다.
 
+### 플레이 전략
 
-### Game Introduction
+1.  **반응 속도 훈련**: 장애물이 갑자기 튀어나오더라도 당황하지 않고 반사적으로 방향키를 입력할 수
+    있도록 연습이 필요합니다. 처음에는 속도가 느린 구간에서 패턴을 익히며 감각을 잡아 보세요.
+2.  **앞쪽을 넓게 보기**: 캐릭터 주변만 보지 말고, 터널 앞쪽 전체를 시야에 담는 것이 중요합니다.
+    멀리서부터 장애물 배치가 어떻게 이어지는지 파악하면, 어느 쪽으로 이동해야 안전한지 미리
+    예측할 수 있습니다.
+3.  **집중력 유지**: 속도가 빨라질수록 터널의 색상과 효과가 눈을 현혹시킬 수 있습니다. 화면 중앙의
+    진로만큼은 끝까지 놓치지 않도록, 주변 이펙트보다 장애물 패턴에 집중하는 습관을 들이세요.
+4.  **속도 리듬에 적응하기**: 게임이 진행될수록 속도가 서서히 가속되며, 일정 구간마다 체감 난이도가
+    크게 뛰는 타이밍이 있습니다. 이 시점만 넘기면 다시 리듬을 찾기 쉬우니, 구간 전환 때 특히 더
+    집중해 주세요.
+5.  **근육 기억 만들기**: 같은 패턴이 반복해서 등장하는 경우가 많으므로, 여러 번 부딪혀 본 패턴은
+    손이 먼저 반응할 수 있을 때까지 연습하는 것이 좋습니다.
 
-"Tunnel Rush" is a fast-paced endless running game where players navigate through a colorful 3D tunnel, avoiding obstacles and barriers while traveling at high speeds. This thrilling reflex-testing experience challenges players' reaction speed and focus, with speeds increasing as the game progresses.
+### 플레이 방법
 
-### Gameplay Strategy
+*   **좌우 이동**: A/D 키 또는 방향키 좌/우로 터널 안에서 왼쪽, 오른쪽으로 이동합니다.
+*   **장애물 피하기**: 장애물이 있는 구간을 미리 보고, 틈새로 지나갈 수 있도록 적절한 타이밍에
+    방향을 전환하세요.
+*   **중앙 유지**: 장애물이 없을 때는 가능하면 터널 중앙 부근을 유지해, 어느 쪽으로든 빠르게
+    피할 수 있는 여유를 확보하는 것이 좋습니다.
 
-1.  **[KO]** **Reaction Training**: Practice quick reactions to handle suddenly appearing obstacles.
-2.  **[KO]** **Path Prediction**: Observe obstacle layouts in the tunnel ahead and plan passage routes.
-3.  **[KO]** **Stay Focused**: Maintain high concentration at high speeds, avoiding distraction from dazzling colors.
-4.  **[KO]** **Rhythm Awareness**: Adapt to the game's gradually accelerating pace and speed changes.
-5.  **[KO]** **Muscle Memory**: Build muscle memory through repeated practice to improve reaction accuracy.
+### 자주 묻는 질문(FAQ)
 
-### How to Play
+1.  **Q: 속도가 계속 빨라지나요?**  
+    **A:** 네, 시간이 지날수록 게임 속도가 조금씩 올라가며, 그에 따라 난이도도 함께 상승합니다.
 
-*   **[KO]** **Left/Right Movement**: Use A/D keys or left/right arrow keys to control left and right movement.
-*   **[KO]** **Avoid Obstacles**: Move left or right in time to avoid obstacles in the tunnel.
-*   **[KO]** **Stay Centered**: Try to stay in the center of the tunnel when there are no obstacles.
+2.  **Q: 생존 시간을 늘리려면 어떻게 해야 하나요?**  
+    **A:** 반복 플레이를 통해 일반적으로 자주 등장하는 패턴을 익히고, 멀리 있는 장애물까지 함께
+    보는 시야를 기르는 것이 중요합니다. 또한 긴장으로 키를 과도하게 입력하지 않도록 손의 힘을
+    빼는 것도 도움이 됩니다.
 
-### Frequently Asked Questions
+3.  **Q: 장애물에 부딪히면 어떻게 되나요?**  
+    **A:** 어떤 장애물에 닿더라도 즉시 게임 오버가 되며, 현재 라운드를 다시 시작해야 합니다.
 
-1.  **[KO]** **Q: Will the speed keep increasing?**
-**A**: Yes, the game gradually increases speed over time to add challenge difficulty.
-2.  **[KO]** **Q: How can I improve survival time?**
-**A**: Practice more to improve reaction speed and learn to predict obstacle appearance patterns.
-3.  **[KO]** **Q: What happens if I hit an obstacle?**
-**A**: Hitting any obstacle will cause game over and require restarting.
-4.  **[KO]** **Q: Does the game have an ending?**
-**A**: This is an endless game that can theoretically continue indefinitely; the challenge is seeing how long you can survive.
+4.  **Q: 이 게임에 엔딩이 있나요?**  
+    **A:** Tunnel Rush는 끝이 정해져 있지 않은 엔드리스 러너 형식의 게임입니다. 목표는 얼마나 오래
+    생존하며, 자신이 세운 최고 기록을 얼마나 자주 경신하느냐에 있습니다.

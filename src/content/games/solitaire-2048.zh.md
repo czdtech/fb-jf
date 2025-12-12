@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: solitaire-2048
-title: '[ZH TRANSLATION NEEDED] Solitaire 2048'
+title: 《Solitaire 2048》合成纸牌 2048
 description: >-
-  [ZH TRANSLATION NEEDED] Solitaire 2048 merges 2048 with card flow — place
-  numbered cards to combine values and manage lanes for big chains.
+  《Solitaire 2048》是一款把 2048
+  合成机制与纸牌流结合起来的益智游戏。通过将数字牌放入不同列中，让相邻相同数字合并升级，合理管理各列空间打出大连锁。
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/solitaire-2048.png
 tags:
@@ -16,32 +16,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Solitaire 2048 converts merge logic into a card stream. You place cards (2, 4, 8…) into columns; adjacent equals merge to the next value. The trick is sequencing so merges cascade and free space rather than clog lanes.
+《Solitaire 2048》把“同数合成升级”的 2048 规则转化成了纸牌列管理游戏。系统会依次发出数字牌（如 2、4、8……），你需要选择某一列将它们落下。当同一列中相邻的两张牌数值相同，它们就会合并为下一档数字。游戏的难点在于：如何安排牌的落点与顺序，让合成形成连锁反应、释放更多空间，而不是把列堆成难以挪动的“砖墙”。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Anchor column: Keep the highest value centralized for lateral access.
-2.  [ZH TRANSLATION NEEDED] Feeder management: Use side lanes to stage pairs before feeding center.
-3.  [ZH TRANSLATION NEEDED] Spike control: Flatten tall spikes first to avoid dead columns.
-4.  [ZH TRANSLATION NEEDED] Trigger timing: Drop the triggering card only after both neighbors are set.
-5.  [ZH TRANSLATION NEEDED] Trash lane: Dedicate one edge to off‑cycle cards.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **确定“锚列”：** 尝试把当前场上最高数字集中在中间列，方便左右两侧为它输送配对牌，合成路径更丰富。
+2.  **管理“供牌列”：** 利用两边的列暂存成对的数字，等左右两侧都准备好对应数字，再推向中间完成合成。
+3.  **控制“高柱”：** 避免在某一列形成特别高的“尖刺塔”，优先通过合成或调整把这些过高的列压平，以免出现整列封死的局面。
+4.  **把握触发时机：** 只有在左右两侧或上下相邻牌都已经摆好时，才投下“触发合成”的那张牌，这样更容易连锁合成并腾出空间。
+5.  **预留“垃圾列”：** 可以把边缘的一列当作“废牌回收站”，专门用来堆放暂时无法进入主循环的数字，避免它们堵塞核心合成线路。
 
-- Click a column to place current card; undo/hints if available.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 点击某一列，即可将当前显示的数字牌落到该列顶端；
+- 若游戏提供撤销或提示按钮，可按界面说明使用。
 
-- Q: Columns keep locking.
-  
-[ZH TRANSLATION NEEDED]   A: Spread staging across two side lanes and avoid premature triggers.
+### 常见问题解答（FAQ）
+*   **问：为什么列总是很快被堵死？****
 
-- Q: Anchor corner or center?
-  
-[ZH TRANSLATION NEEDED]   A: Center yields more merge routes.
+A: Spread staging across two side lanes and avoid premature triggers.
+- 答：** 可能是你把待合成的牌全部堆在同一列，且过早触发了合成。建议使用左右两侧作为暂存列，分散风险，再送往中间完成关键合成。
 
-- Q: Can I recover from bad stacks?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — flatten spikes and rebuild pairs before triggering.
+A: Center yields more merge routes.
+*   **问：最高数字应该放在角落还是中间？****
 
+A: Yes — flatten spikes and rebuild pairs before triggering.
+    *   答：** 通常放在中间更好，因为左右两边都可以为它提供配对牌，合成路线更多、更灵活。
+*   **问：如果场面已经很乱，还有机会补救吗？****
+    *   答：** 有的。优先处理高度最高、最危险的列，通过合成或巧妙落牌将其“削平”，再重新为中高数字搭建成对结构，逐步恢复局面。

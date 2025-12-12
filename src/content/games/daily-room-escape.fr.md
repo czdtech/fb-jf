@@ -1,52 +1,63 @@
 ---
 locale: fr
 urlstr: daily-room-escape
-title: '[FR] Daily Room Escape'
-description: >-
-  [FR] Daily Room Escape delivers bite‑size escapes — scour rooms, solve logic
-  locks, and piece clues together.
-iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
-thumbnail: /new-images/daily-room-escape.png
+title: Daily Room Escape
+description: "Daily Room Escape propose une nouvelle salle à énigmes chaque jour\_: fouille, combine des objets et résous des puzzles pour t’échapper."
+iframeSrc: 'https://escapegame.site/games/nightime/publishing/DailyRoomEscape/'
+thumbnail: /new-images/daily-room-escape.jpg
 tags:
   - puzzle
-  - escape
   - thinky
-score: 4.0/5  (1869 votes)
+score: 4.2/5  (1400 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
+Dans Daily Room Escape, tu te réveilles chaque jour dans une nouvelle pièce
+fermée. Tu dois inspecter le décor, ramasser des objets, résoudre des codes et
+trouver la sortie.
 
-### Detailed Game Introduction
+Chaque salle est un petit puzzle autonome, parfait pour une session rapide
+quotidienne.
 
-Daily Room Escape offers short escape‑the‑room puzzles. Search for hidden objects, decode numeric/shape ciphers, and use items in the correct spots to unlock the exit.
+### Guide de jeu
 
-### Gameplay Strategy & Walkthrough
+1.  **Inspecte tout**  
+    Clique sur les meubles, tableaux, tiroirs, portes… de nombreux éléments
+    cachent des indices ou des objets.
+2.  **Combine les objets**  
+    Certains items s’assemblent pour en créer de nouveaux (clé + manche, etc.).
+3.  **Note les codes et motifs**  
+    Les chiffres, couleurs, symboles trouvés dans la pièce servent souvent à
+    ouvrir des coffres ou panneaux.
+4.  **Teste sans crainte**  
+    Il n’y a généralement pas de pénalité pour essayer plusieurs combinaisons
+    de code.
+5.  **Reviens le lendemain**  
+    Chaque jour offre une nouvelle salle : en faire une par jour est un bon
+    rituel.
 
-1.  **[FR]** Sweep the room: Tap hotspots, move cushions, open drawers.
-2.  **[FR]** Note patterns: Photograph or note symbol orders and color codes.
-3.  **[FR]** Combine items logically (e.g., key + handle, battery + device).
-4.  **[FR]** Try code permutations consistent with clues — avoid brute force.
-5.  **[FR]** If stuck, re‑scan earlier rooms for missed hotspots.
+### Commandes
 
-### Controls Guide
+- **Explorer** : clique/tape sur les zones interactives pour zoomer ou ramasser
+  des objets.  
+- **Inventaire** : sélectionne un objet, puis clique sur un élément du décor
+  pour l’utiliser ou le combiner.
 
-- Tap to inspect, collect, and use items; some puzzles drag‑and‑drop.
-- A hint button may highlight missed areas.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
 
 - Q: A code won’t work — bug?
-
-A: Recheck clue order/direction; many sequences are reversible or wrap.
+**Q : Puis‑je rejouer une ancienne salle ?**  
 
 - Q: Items don’t combine?
+R : Selon le site, un menu peut permettre de rejouer les niveaux précédents.
 
-A: Ensure correct order or examine items closely for hidden parts.
 
 - Q: Too dark to see?
-
-A: Use brightness or in‑game lamps/flashlight when provided.
-
+**Q : Les énigmes sont‑elles très difficiles ?**  
+R : Elles sont en général de difficulté moyenne, conçues pour être résolues en
+quelques minutes.

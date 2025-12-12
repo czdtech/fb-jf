@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: bloxorz
-title: '[ZH TRANSLATION NEEDED] Bloxorz Magic'
+title: "Bloxorz Magic 魔方桥"
 description: >-
-  [ZH TRANSLATION NEEDED] Guide your rectangular block through challenging 3D
-  puzzles in Bloxorz. Navigate fragile tiles, operate switches, split your block
-  in two, and carefully roll to the exit hole in this classic brain-teasing
-  game.
+  《Bloxorz Magic 魔方桥》是一款经典 3D 空间解谜游戏，操控一个 1×2×1 长方体在悬空平台上翻滚前进，利用开
+  关、脆弱地板与分体机关，在不掉落的前提下站立落入终点方孔。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/bloxorz.jpg
 tags:
@@ -17,55 +15,64 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
+*Bloxorz* 是一款颇具难度的 3D 方块解谜游戏，你需要操控一个 1×2×1 的长方体，在由悬浮平台拼成的关卡上翻滚前进，最终让长方体以“竖直站立”的姿态准确落入终点的 1×1 方孔内。
 
-### Game Introduction
+游戏共包含 33 个关卡，难度会逐渐上升，并不断引入新的机关与地形限制。要顺利过关，你必须在脑海中预演每一步翻滚后的朝向与落点，稍有不慎就会从平台边缘跌落。
 
-[ZH TRANSLATION NEEDED] Bloxorz is a challenging 3D puzzle game where the objective is to maneuver a 1x2x1 rectangular block through a series of floating platforms and into a square hole at the end of the stage. The challenge lies in navigating the block by rolling it, ensuring it doesn't fall off the edges of the platforms.
+关卡中的解谜元素主要通过特殊地板与开关体现：
 
-[ZH TRANSLATION NEEDED] The game consists of 33 stages, each progressively more difficult and introducing new mechanics and obstacles. To complete a level, the block must be standing upright (occupying a single 1x1 square) to fall perfectly into the 1x1 destination hole.
+- **脆弱地板（橙色）：** 长方体如果以“竖直站立”姿态压在橙色地板上，地板会因压力集中而塌陷，你会直接掉落。只有让长方体横躺（两格分摊重量）跨过，才是安全的通过方式。  
+- **开关地板：** 控制桥梁或平台的触发机关，分三种：  
+    - **软开关 `()`：** 只要长方体任意一部分压在上面就会触发。  
+    - **重开关 `X`：** 必须让长方体竖直站在上面，集中重量才能触发。  
+    - **分体开关 `<>`：** 当长方体横跨在其上时，会被切割成两个独立的 1×1 小方块。  
 
-[ZH TRANSLATION NEEDED] The puzzle elements evolve through the introduction of special tiles and switches:
--   **Fragile Tiles (Orange):** These tiles will collapse if the block stands upright on them, as its entire weight is concentrated on a single square. The block must lie flat (distributing its weight over two squares) to safely cross them.
--   **Switches:** There are three types of switches that control bridges and platforms.
-     -   **Soft Switches (`()`):** Activated when any part of the block touches them.
-     -   **Hard Switches (`X`):** Can only be activated when the block is standing upright on them, applying its full weight.
-     -   **Splitting Switches (`<>`):** When the block lies flat across this switch, it splits into two smaller, independent 1x1 cubes.
+### 游戏策略
 
-### Gameplay Strategy
+- **预判数步，避免“盲走”**  
+  Bloxorz 更像是一步一步的空间推理题。每移动一次前，先在脑中想象接下来几次翻滚后的形状与位置，特别是要确认：这一步之后会不会站在橙色地板上、或者从边缘翻落。
 
--   **Think and Plan Ahead:** Bloxorz is a game of foresight. Before making a move, visualize the next few rolls. Count the squares to see where your block will land and in what orientation (standing or lying flat). Rushing will almost always lead to falling off.
--   **Master the Fragile Tiles:** The rule is simple but crucial: **Never stand on an orange tile.** Always ensure your block is lying flat when any part of it is resting on a fragile tile.
--   **Understand the Switches:**
-     -   For `()` switches, you can simply roll over them.
-     -   For `X` switches, you need to plan your moves to land your block in a standing position precisely on the switch.
--   **Splitting Strategy:** When your block is split into two cubes, they move in parallel. You can press the Spacebar to toggle control between them.
-     -   Use one cube as an anchor or a block to manipulate the position of the other.
-     -   To merge the two cubes back into a single block, they must be positioned right next to each other (adjacent squares). Move one into the other to reform the block.
--   **Use Edges to Your Advantage:** Sometimes, you'll need to use the edge of a platform as a pivot point to get your block into a standing position where you otherwise couldn't. This is an advanced technique required for later levels.
--   **Write Down Level Codes:** The game provides a unique code for each level. Write these down so you don't have to start from the beginning every time you play.
+- **牢记“绝不竖立在橙色地板上”**  
+  规则简单却极其关键：**橙色地板上只能横躺，不能竖直站立。** 看到远处有橙色地板时，要提前规划路线，确保在接触它时长方体是横向覆盖两格，而不是 “竖柱” 落下。
 
-### Controls Guide
+- **理解三种开关的触发条件：**
+    - `()`：只需翻滚经过即可，无需特殊规划。
+    - `X`：必须瞄准让长方体以竖直姿态刚好落在开关上；
+    - `<>`：要让长方体正好横跨其上，才会触发分体。
 
-[ZH TRANSLATION NEEDED] The controls are simple and based on the keyboard's arrow keys.
+- **分体后的操作思路**
+分裂成两个 1×1 小方块后，它们会同步响应方向键，但你可以通过空格切换当前控制哪个：
+    - 利用其中一个作为“压板”或挡板，帮助另一个通过机关。
+    - 想要合体时，需要先把两块移动到相邻格子，然后操控其中一块向另一块移动，它们就会自动重新组合成 1×2×1 的长方体。
 
--   **Up Arrow Key:** Roll the block forward.
--   **Down Arrow Key:** Roll the block backward.
--   **Left Arrow Key:** Roll the block to the left.
--   **Right Arrow Key:** Roll the block to the right.
--   **Spacebar:** Switch control between the two smaller cubes after splitting.
+- **善用平台边缘“旋转”**  
+  某些高阶关卡会要求你利用平台边缘作为支点，让长方体在看似不可能的位置翻转成竖立状态。这类操作需要你精确计算翻滚路径，是后期通关的关键技巧之一。
 
-### Frequently Asked Questions (FAQ)
+- **记录关卡密码**  
+  每通过一关，游戏都会给出一个 6 位关卡代码。把这些代码记下来，下次就可以直接在主菜单输入密码，从对应关卡继续，而不用从头开始。
 
-[ZH TRANSLATION NEEDED] **1. Why did I fall through the orange floor?**
-[ZH TRANSLATION NEEDED] > You fell because your block was standing upright on the orange tile. These tiles are fragile and can only support the block when it's lying flat, distributing its weight across two squares.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **2. The 'X' switch is not working. What am I doing wrong?**
-[ZH TRANSLATION NEEDED] > The 'X' switch is a "hard" or "heavy" switch. It requires the full, concentrated weight of the block to activate. You must position the block so it is standing vertically on top of the 'X' tile. Lying flat on it will not work.
+游戏完全通过键盘操作：
 
-[ZH TRANSLATION NEEDED] **3. How do I get my two small blocks back together?**
-[ZH TRANSLATION NEEDED] > To merge the two cubes back into the original block, you must move them so they are on adjacent squares (side-by-side). Then, select one cube and move it into the other. They will automatically combine.
+-   **方向键 ↑：** 让方块向前翻滚一格。  
+-   **方向键 ↓：** 向后翻滚一格。  
+-   **方向键 ←：** 向左翻滚一格。  
+-   **方向键 →：** 向右翻滚一格。  
+-   **空格键：** 在分体状态下切换当前控制的 1×1 小方块。  
 
-[ZH TRANSLATION NEEDED] **4. How can I return to a level I've already reached?**
-[ZH TRANSLATION NEEDED] > After completing each level, the game provides a 6-digit passcode. You can enter this code on the main menu screen to start directly from that level.
+### 常见问题解答（FAQ）
 
+**1. 为什么会从橙色地板掉下去？**  
+因为你让长方体以竖直状态站在橙色地板上了。橙色地板非常脆弱，只能承受横躺状态下分散的重量，不能承受“单点压力”。
+
+**2. `X` 开关看起来没反应，是 bug 吗？**  
+不是。`X` 是“重压开关”，必须让长方体竖直站在上面，才能触发开关效果；如果是横躺过去，是不会被识别的。
+
+**3. 分成两个小方块后怎么重新合体？**  
+先把两块移动到相邻格子（左右或上下相邻），再选中其中一块向另一块移动，它们就会自动结合成原来的长方体。
+
+**4. 想重玩已经到过的关卡怎么办？**  
+每一关通关后都会给出一个 6 位关卡代码，在主菜单输入该代码即可从对应关卡开始，不必从第一关重新打起。  

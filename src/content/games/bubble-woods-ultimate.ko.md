@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bubble-woods-ultimate
-title: '[KO] Bubble Woods Ultimate'
+title: Bubble Woods Ultimate 버블 우즈 얼티밋
 description: >-
-  [KO] Race against the clock in this fast-paced bubble shooter! You have 60
-  seconds to pop as many bubbles as you can, create massive combos, and use
-  powerful boosters to get the highest score.
+  Bubble Woods Ultimate는 60초 안에 최대한 많은 버블을 터뜨려 점수를 노리는 스피드형 버블 슈터입니다. 콤보를 이어
+  파이어볼을 만들고, 각종 부스터를 활용해 짧은 시간 안에 기록을 갱신해 보세요.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/bubble-woods-ultimate.png
 tags:
@@ -16,37 +15,67 @@ score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bubble Woods Ultimate는 활기찬 숲을 배경으로 펼쳐지는 고속 버블 슈터 게임입니다.
+플레이어에게 주어진 시간은 단 60초. 그 안에 최대한 많은 버블을 터뜨려 높은 점수를
+얻는 것이 목표입니다. 같은 색 버블을 세 개 이상 맞춰 터뜨리면 연쇄 반응이 일어나고,
+이를 통해 한 번에 큰 덩어리를 떨어뜨릴수록 점수가 크게 오릅니다.
 
+게임에는 다양한 부스터와 레벨업 요소가 포함되어 있어, 실력을 키울수록 점수가
+눈에 띄게 늘어나는 손맛을 느낄 수 있습니다. 한 판 한 판이 짧고 강렬해, "마지막
+한 번만 더"를 부르는 타입의 게임입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Bubble Woods Ultimate is a high-energy, fast-paced bubble shooter that challenges you to score as many points as possible within a tight 60-second time limit. Set in a vibrant forest, you must shoot bubbles to create matches of three or more, triggering cascades and earning massive points. The game features a variety of powerful boosters and a level-up system that rewards skillful play, making every round an exciting race against the clock.
+1.  **속도가 곧 생명**  
+    제한 시간이 60초뿐이므로, 한 샷 한 샷을 오래 고민할 여유가 없습니다. 조준은
+    최대한 빠르게, 대신 큰 실수를 줄이는 선에서 속도와 정확도의 균형을 맞추는
+    것이 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **파이어볼을 위한 콤보 관리**  
+    이 게임에서 최고 점수를 노리는 핵심은 **파이어볼(Fireball)**입니다. 연속으로
+    10번 성공적인 매치를 만들면(10 히트), 게이지가 가득 차 다음 샷이 강력한
+    파이어볼로 변합니다. 파이어볼은 원하는 위치에 쏘기만 해도 넓은 범위의 버블을
+    한 번에 제거하니, 위험 구역을 정리하거나 대량 점수를 노릴 때 아껴 둬
+    사용하는 것이 좋습니다.
 
-1.  **[KO]** **Speed is Everything:** With only 60 seconds on the clock, you need to be fast. Aim and shoot quickly. Don't spend too long deliberating on a single shot.
-2.  **[KO]** **Build Your Combo for a Fireball:** The key to a huge score is the Fireball. You earn it by making 10 consecutive successful matches (10 "hits"). The Fireball can be shot anywhere and will destroy a large area of bubbles, so use it strategically.
-3.  **[KO]** **Aim for Avalanches:** Just like in classic bubble shooters, the biggest points come from detaching large clusters of bubbles. Aim high to pop a small group that is supporting a much larger group below.
-4.  **[KO]** **Utilize Power-ups:** Keep an eye out for special bubbles on the board:
-    *   **[KO]** **Rainbow Bubble:** Will act as any color it touches, helping you complete a match.
-    *   **[KO]** **Bomb Bubble:** Explodes on impact, clearing a small cluster.
-    *   **[KO]** **Hourglass:** The most valuable one—hitting it adds a few precious seconds to your timer.
+3.  **눈사태(어발란치) 노리기**  
+    일반 버블 슈터와 마찬가지로, 가장 많은 점수는 큰 덩어리를 한 번에 떨어뜨릴
+    때 나옵니다. 가능한 한 위쪽의 연결 지점을 끊어, 아래에 매달린 버블들이
+    줄줄이 떨어지도록 노려 보세요.
 
-### Controls Guide
+4.  **특수 버블 활용법**  
+    필드에는 다양한 특수 버블이 섞여 있습니다.
+    -   **레인보우 버블:** 닿는 색에 맞춰 어느 색으로든 매치할 수 있어, 애매한
+        상황을 돌파하는 데 유용합니다.
+    -   **폭탄 버블:** 맞으면 주변의 작은 구역을 폭발시켜 깔끔하게 치워 줍니다.
+    -   **모래시계(Hourglass):** 맞히면 제한 시간에 몇 초가 추가됩니다. 단 1~2초가
+        마지막에 큰 차이를 만들 수 있으니, 보이면 최우선 목표로 삼는 것이 좋습니다.
 
-*   **[KO]** **Aim:** Move your mouse to aim the bubble cannon.
-*   **[KO]** **Shoot:** Click the left mouse button to fire the bubble.
-*   **[KO]** **Swap:** You can often click on the cannon or the next bubble in the queue to swap between your current and next projectile.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+-   **조준:** 마우스를 움직여 버블 캐넌의 방향을 맞춥니다.
+-   **발사:** 마우스 왼쪽 버튼을 클릭해 버블을 발사합니다.
+-   **버블 교체:** 일부 버전에서는 캐넌이나 대기 버블을 클릭해 현재 버블과 다음
+    버블을 서로 교체할 수 있습니다.
 
-*   **[KO]** **Q: What is the main objective?**
-    *   **[KO]** **A:** To score as many points as you can within the 60-second time limit.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: How do I get more time?**
-    *   **[KO]** **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
+-   **Q. 게임의 주요 목표는 무엇인가요?**  
+    A. 제한 시간 60초 안에 가능한 한 많은 점수를 얻는 것입니다. 버블을 다
+    제거하는 것이 필수는 아니지만, 화면을 넓게 비울수록 콤보와 점수에 유리합니다.
 
-*   **[KO]** **Q: What is the bar at the bottom next to the cannon?**
-    *   **[KO]** **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
+    - **Q. 시간을 늘릴 방법이 있나요?**  
+    A. 모래시계 모양의 특수 버블을 맞히면 타이머에 몇 초가 추가됩니다. 이 버블을
+    얼마나 잘 활용하느냐가 기록 경쟁의 핵심입니다.
 
+-   **Q. 캐넌 옆의 게이지 막대는 무엇인가요?**  
+
+    - **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
+
+- **Q: What is the bar at the bottom next to the cannon?**
+
+    - **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
+    A. 파이어볼 게이지입니다. 성공적인 매치를 할 때마다 조금씩 차오르며, 연속
+    10히트를 달성하면 가득 차 다음 한 발이 파이어볼로 발사됩니다.

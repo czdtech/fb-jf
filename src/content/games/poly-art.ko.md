@@ -1,11 +1,8 @@
 ---
 locale: ko
 urlstr: poly-art
-title: '[KO] Poly Art'
-description: >-
-  [KO] Relax and challenge your perception with Poly Art, a beautiful 3D puzzle
-  game. Rotate a cloud of colorful polygons until they align to reveal a
-  stunning, complete image.
+title: Poly Art 폴리 아트
+description: 3D 공간에서 다각형 조각 뭉치를 회전시켜 하나의 그림으로 완성하는 퍼즐 게임입니다. 조각이 딱 맞아 떨어지는 순간의 쾌감을 느껴 보세요.
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
 thumbnail: /new-images/poly-art.png
 tags:
@@ -18,34 +15,68 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Poly Art* (또는 *Poly Puzzle*)는 눈이 즐거운 3D 관찰 퍼즐 게임입니다.
+처음에는 알록달록한 다각형 조각들이 공중에 뒤엉켜 떠 있는 것처럼
+보이지만, 3D 공간에서 천천히 회전시키다 보면 어느 한 각도에서
+조각들이 정확히 맞아 떨어지며 동물, 물건, 캐릭터 등 선명한 실루엣의
+이미지가 나타납니다.
 
-### Detailed Game Introduction
+겉보기에는 단순하지만, "어느 각도가 정답인지"를 눈으로 찾아가는
+과정 자체가 차분한 몰입감을 주는 게임입니다.
 
-Poly Art (also known as Poly Puzzle) is a visually stunning and mentally relaxing 3D puzzle game. Each level begins with what appears to be a chaotic jumble of colorful, low-poly shards. The challenge is to rotate this cluster of polygons in 3D space to find the one specific angle at which the scattered pieces align perfectly, revealing a beautiful and recognizable piece of art, such as an animal, an object, or a character. It's a game of perception, patience, and discovery.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **천천히, 한 방향씩 회전하기**  
+   처음부터 마구 돌리기보다는, 가로 방향으로만 천천히 회전시키며
+   윤곽이 보이기 시작하는 지점을 찾는 것이 좋습니다. 실루엣이
+   어렴풋이 보이면 그 축을 기준으로 조금씩 미세 조정을 해 보세요.
 
-1.  **[KO]** **Rotate Slowly and Steadily:** Don't just swipe wildly. Rotate the puzzle slowly in one direction (e.g., horizontally) to see if any recognizable shapes begin to form. If you see a hint of a shape, continue rotating carefully around that axis.
-2.  **[KO]** **Look for Outlines:** As you get close to the solution, you will start to see the outline of the final image. Focus on these emerging lines and adjust the rotation slightly to bring them into sharp focus.
-3.  **[KO]** **Use All Axes:** Remember that you can rotate the puzzle horizontally and vertically. If you get stuck rotating on one axis, try a completely different direction. Sometimes the solution is at an unexpected angle.
-4.  **[KO]** **Relax and Enjoy:** Poly Art is not a game about speed. It is designed to be a calming and satisfying experience. Take your time, enjoy the colors and shapes, and savor the moment of discovery when the image finally clicks into place.
+2. **윤곽선을 눈여겨보기**  
+   정답에 가까워질수록 개별 조각이 아니라 전체 외곽선이 눈에
+   들어오기 시작합니다. 귀, 꼬리, 날개처럼 특징적인 부분이
+   제대로 이어지는지 보면서 각도를 조금씩 맞추면 완성에
+   금방 도달할 수 있습니다.
 
-### Controls Guide
+3. **모든 축을 활용하기**  
+   가로 회전만으로 답이 나오지 않을 때는 세로 방향, 대각선
+   방향 등 완전히 다른 축으로 돌려 보세요. 의외의 각도에서
+   정답이 보이는 경우가 많습니다.
 
-The controls are minimalistic and intuitive.
+4. **속도보다는 여유 있게 즐기기**  
+   Poly Art는 속도 경쟁 게임이 아니라, 천천히 퍼즐을 맞추며
+   힐링하는 게임에 가깝습니다. 시간 제한이나 페널티가 없으니,
+   색감과 형태 변화를 감상하며 여유 있게 즐겨 보세요.
 
-*   **[KO]** **Rotate Puzzle (Desktop):** Click and hold the left mouse button, then drag the mouse left, right, up, or down to rotate the cluster of polygons.
-*   **[KO]** **Rotate Puzzle (Mobile):** Swipe your finger across the screen in any direction to rotate the puzzle.
+### 조작 가이드
 
-### Frequently Asked Questions (FAQ)
+컨트롤은 매우 직관적이고 단순합니다.
 
-*   **[KO]** **Q: What is the objective of the game?**
-    *   **[KO]** **A:** The objective is to rotate the collection of 3D shards until they align to form a complete and recognizable picture.
+- **퍼즐 회전(PC)**: 마우스 왼쪽 버튼을 누른 채 좌우·상하로 드래그해
+  조각 뭉치를 회전시킵니다.  
+- **퍼즐 회전(모바일)**: 화면을 한 손가락으로 스와이프해 같은
+  방식으로 회전할 수 있습니다.
 
-*   **[KO]** **Q: I'm stuck and can't see the image. Are there hints?**
-    *   **[KO]** **A:** Many versions of Poly Art games include a hint system. If available, using a hint might slowly rotate the puzzle closer to the correct orientation or flash the final image for a second.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: Is there a time limit or a penalty for wrong moves?**
-    *   **[KO]** **A:** No. Poly Art games are designed to be stress-free. There are no time limits, scores, or penalties, allowing you to solve the puzzles at your own pace.
+- **Q: 게임의 목표는 무엇인가요?**  
+  **A:** 흩어진 3D 조각들이 하나의 완성된 그림으로 보이는 각도를
+  찾는 것입니다. 정확한 각도에 도달하면 조각들이 자연스럽게
+  하나의 일러스트처럼 보입니다.
 
+    - **Q: 아무리 돌려도 그림이 안 보여요. 힌트가 있나요?**  
+  **A:** 일부 버전에는 퍼즐을 정답 각도에 조금씩 가깝게 돌려 주거나,
+  완성 이미지를 잠깐 보여 주는 힌트 기능이 포함되어 있습니다.
+  제공되는 경우 막혔을 때만 최소한으로 사용하는 것을 추천합니다.
+
+- **Q: 시간 제한이나 오답 패널티가 있나요?**  
+
+    - **A:** No. Poly Art games are designed to be stress-free. There are no time limits, scores, or penalties, allowing you to solve the puzzles at your own pace.
+
+- **Q: Is there a time limit or a penalty for wrong moves?**
+
+    - **A:** Many versions of Poly Art games include a hint system. If available, using a hint might slowly rotate the puzzle closer to the correct orientation or flash the final image for a second.
+  **A:** 대부분의 Poly Art류 게임은 시간 제한이 없고, 잘못 돌려도
+  페널티가 없습니다. 자신의 속도에 맞춰 자유롭게 퍼즐을 맞추면
+  됩니다.

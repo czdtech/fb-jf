@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: night-watchman
-title: '[KO] Night Watchman'
+title: "Night Watchman 나이트 워치맨"
 description: >-
-  [KO] Night Watchman is a horror-survival game where players work as a night
-  guard, monitoring security cameras and managing limited resources to survive
-  against mysterious threats in a dark, abandoned building.
+  Night Watchman은 어두운 폐건물에서 야간 경비원으로 근무하며, 감시 카메라와 제한된
+  전력을 관리해 정체불명의 위협을 새벽까지 견뎌야 하는 호러 생존 게임입니다.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
 thumbnail: /new-images/night-watchman.jpg
 tags:
@@ -18,33 +17,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*"Night Watchman"*에서 플레이어는 야간 경비원이 되어, 불 꺼진 폐건물 속에서 감시 카메라를
+지켜보며 의문의 존재들로부터 살아남아야 합니다. 한정된 전력을 아껴 쓰며 문과 조명을
+관리하고, 여러 밤을 버텨 새벽을 맞이하는 것이 목표입니다. 분위기 연출과 자원 관리가
+중심이 되는, 긴장감 넘치는 호러 경험을 제공합니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Night Watchman" is a horror-survival game where players work as a night guard in a dark, abandoned building. They must monitor security cameras and manage limited resources to survive against various mysterious threats until dawn. The game emphasizes atmosphere building and resource management, providing players with a tense and thrilling experience.
+1. **카메라 모니터링:** 감시 카메라 화면을 자주 전환해 이상 움직임과 위협의 위치를
+   재빨리 파악해야 합니다.
+2. **전력 관리:** 전력이 제한되어 있으므로, 불필요한 조명은 끄고 문을 과도하게 여닫지
+   않는 등 전력 사용을 최소화하는 전략이 중요합니다.
+3. **출입 차단:** 위협이 사무실 근처까지 접근하면, 문을 닫거나 특정 방어 장치를 사용해
+   내부로 들어오지 못하게 막아야 합니다.
+4. **소리 듣기:** 발소리, 숨소리, 기계음 등 사운드 단서가 매우 중요합니다. 소리를 통해
+   적의 위치와 종류를 가늠해 선제 대응을 준비하세요.
+5. **패턴 파악:** 위협마다 이동 경로와 공격 패턴이 다르므로, 반복 플레이를 통해 각자의
+   특징에 맞는 대응 전략을 만들어 두는 것이 좋습니다.
 
-### Gameplay Strategy
+### 조작 방법
 
-1.  **[KO]** **Monitor Cameras**: Closely watch the security camera feeds to promptly detect anomalies and threats.
-2.  **[KO]** **Manage Resources**: Power is limited; rationally allocate power usage, such as turning off unnecessary lights or avoiding excessive use of certain equipment.
-3.  **[KO]** **Block Entrances**: When threats approach, quickly close doors or use other defensive measures to prevent them from entering your office.
-4.  **[KO]** **Listen to Sounds**: Sound cues are very important in the game; use sounds to determine the location and type of threats.
-5.  **[KO]** **Devise Strategies**: Develop corresponding strategies based on the characteristics and movement patterns of different threats.
+* **카메라 전환:** 화면에 표시된 카메라 번호를 클릭하거나, 키보드 단축키로 다른 감시
+  화면으로 전환합니다.
+* **문/조명 제어:** 문과 조명 버튼을 클릭해 열고 닫거나 켜고 끌 수 있습니다.
+* **맵 보기:** 일부 버전에서는 건물 구조를 한눈에 볼 수 있는 맵 화면을 제공해, 위협이
+  어디에 있는지 파악하는 데 도움을 줍니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Switch Cameras**: Click on the camera numbers on the screen or use keyboard keys to switch between different surveillance views.
-*   **[KO]** **Open/Close Doors/Lights**: Click on door or light buttons to control their on/off state.
-*   **[KO]** **View Map**: Some game versions might offer a map feature to help players understand the building layout.
+1. **Q: 이 게임의 목표는 무엇인가요?**  
+   **A:** 여러 밤 동안 정체불명의 존재들을 견뎌 새벽까지 살아남는 것입니다.
 
-### Frequently Asked Questions
+2. **Q: 다른 위협들은 어떻게 대처해야 하나요?**  
+   **A:** 위협마다 약점과 대처법이 다르며, 플레이어가 직접 패턴을 관찰하고 실험을
+   통해 최적의 대응법을 찾아야 합니다.
 
-1.  **[KO]** **Q: What is the objective of the game?**
-**A**: The objective is to survive several nights against horror threats until dawn.
-2.  **[KO]** **Q: How do I deal with different threats?**
-**A**: Different threats may have different weaknesses or ways to be dealt with; players need to observe and experiment to find the best strategy.
-3.  **[KO]** **Q: What happens if the power runs out?**
-**A**: Power depletion usually leads to the failure of monitoring systems and defensive facilities, putting players in greater danger.
-4.  **[KO]** **Q: Does the game have an ending?**
-**A**: The game usually has multiple endings, depending on the player's performance and decisions in the game.
+3. **Q: 전력이 모두 소진되면 어떻게 되나요?**  
+   **A:** 전력이 떨어지면 카메라와 문, 조명 등의 방어 수단이 꺼져 위험이 크게 증가하며,
+   보통 생존 확률이 급격히 낮아집니다.
+
+4. **Q: 엔딩이 여러 가지인가요?**  
+   **A:** 일반적으로 플레이 성과와 선택에 따라 다른 결과가 나오는 멀티 엔딩 구조를
+   채택하는 경우가 많습니다.

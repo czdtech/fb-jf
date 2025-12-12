@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: football-legends
-title: '[ZH TRANSLATION NEEDED] Football Legends'
+title: "Football Legends 經典街機足球"
 description: >-
-  [ZH TRANSLATION NEEDED] Arcade soccer duels: play 1v1 or 2v2 with headers,
-  volleys, and special shots, in quick matches or tournaments.
+  Football Legends 是一款街機風格足球對戰遊戲，支援 1v1 或 2v2，
+  透過頭球、凌空抽射與必殺射門，在快節奏單場或錦標賽中一決高下。
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/football-legends.jpg
 tags:
@@ -17,26 +17,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Fast 1v1/2v2 football with exaggerated physics and special kicks. Modes include quick match and tournament brackets.
+
+這是一款節奏非常明快的 1v1／2v2 足球對戰，物理表現略為誇張，
+搭配浮誇的必殺射門效果，十分適合輕鬆對打。你可以選擇快速單場模式，
+也可以挑戰錦標賽一路晉級。
 
 ### How to Play
-- Position for headers and volleys; time power shots when the meter is full.
-- Use walls/bounces to set up angles; protect your goal after a kickoff.
-- In 2‑player, coordinate roles: one presses, one covers.
+
+- 善用位置卡位，爭取頭球與凌空抽射的角度；當能量槽蓄滿時，抓準時機施放大力射門。
+- 利用邊線與球門柱的反彈，製造刁鑽射門角度，同時在對手開球後優先保護自家球門。
+- 2 人模式時，事先分配好角色——一人主攻、一人負責回防，避免同時壓上被反擊。
 
 ### Controls
-- Arrows/WASD to move/jump; shot/pass keys and special vary by host.
+
+- 使用方向鍵或 WASD 控制移動與跳躍；
+- 射門／傳球鍵與必殺鍵會依託管版本略有不同，通常會在遊戲開始前標示。
 
 ### Tips
-- Jump‑timed headers are the safest way to score.
-- Save specials for open looks rather than congested scrums.
-- On defense, backpedal and block angles instead of lunging.
+
+- 把握起跳時機做頭球，是最穩定的得分手段之一。
+- 把必殺射門留在對方防線比較鬆散、有明顯空檔時使用，比在人群中亂放更有效。
+- 防守時與其猛衝搶斷，不如退一步封鎖射門角度，讓對手只能打出威脅較小的球路。
 
 ### FAQ
-- Q: How do I activate a special shot?  
-[ZH TRANSLATION NEEDED]   A: Fill the meter via play, then press the special key shown on your host.
-- Q: Does 2‑player work on one keyboard?  
-[ZH TRANSLATION NEEDED]   A: Yes, most versions map two separate key sets.
-- Q: Are there teams with different stats?  
-[ZH TRANSLATION NEEDED]   A: Many hosts offer team skins; physics are generally consistent.
 
+- 問：怎麼觸發必殺射門？  
+  答：透過比賽中的傳球、搶斷與射門填滿能量槽後，按下畫面提示的必殺鍵即可施放。
+
+- 問：可以雙人同鍵盤遊玩嗎？  
+  答：可以，多數版本都會提供兩組不同的按鍵配置，讓兩位玩家共用一個鍵盤對戰。
+
+- 問：不同球隊能力有差嗎？  
+  答：許多線上版本主要是外觀與球衣不同，物理表現大致一致，重點在操作與配合。

@@ -1,163 +1,79 @@
 ---
+title: "Baldi's Basics バルディ先生の教育実習"
+description: "「Baldi's Basics」の完全攻略ガイド。バルディ先生から逃げ切り、ノートを集め、この恐怖の学校から脱出するための戦略、アイテムの使い方、キャラクター対策を解説。"
+iframeSrc: "https://html5.iclouds.io/baldis-basics/index.html"
+thumbnail: "/new-images/baldis-basics.jpg"
+urlstr: "baldis-basics"
+score: "4.5/5  (781 votes)"
+tags: ["puzzle", "horror"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: baldis-basics
-title: '[JA TRANSLATION NEEDED] Baldi''s Basics'
-description: >-
-  [JA TRANSLATION NEEDED] A detailed guide to Baldi's Basics, the parody
-  survival horror game. Learn how to collect notebooks, use items strategically,
-  avoid Baldi and other characters, and escape the schoolhouse.
-iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
-thumbnail: /new-images/baldis-basics.jpg
-tags:
-  - puzzle
-  - horror
-score: 4.5/5  (781 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Baldi's Basics in Education and Learning（バルディ先生の教育実習）*は、90年代の低予算な教育ゲームを装った、シュールで恐怖に満ちたサバイバルホラーゲームです。プレイヤーはバルディの学校の生徒となり、友達のために校内に散らばる7冊のノートを集めることが最初の目的です。
 
+ゲームは無邪気な算数の問題から始まります。しかし、2冊目のノートで「解読不能な問題」に直面した瞬間、ゲームの本性が明らかになります。この問題を間違えると（というか絶対に間違えるのですが）、バルディ先生は激怒し、定規を持ってプレイヤーを追いかけ始めます。ここから先は、教育ゲームではなく命がけの鬼ごっこです。バルディや、一癖も二癖もある奇妙なキャラクターたちから逃げながら、残りのノートを集め、学校から脱出する方法を見つけなければなりません。
 
-### Detailed Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] *Baldi's Basics in Education and Learning* is a surreal survival horror game that masquerades as a low-budget 90s educational game. The player takes on the role of a student at Baldi's schoolhouse, with the initial objective of finding seven notebooks scattered throughout the classrooms to help a friend.
+*Baldi's Basics* の攻略には、聴覚への集中、リソース管理、そしてキャラの特性理解が不可欠です。
 
-コントロール are standard for first-person PC games.
-[JA TRANSLATION NEEDED] The game starts innocently enough. The first notebook contains simple arithmetic problems. However, the game's true nature is revealed upon finding the second notebook, where the third question is a jumbled, unsolvable mess of numbers. Answering this question incorrectly—which is unavoidable—enrages the titular character, Baldi. Armed with a ruler, Baldi begins to hunt the player through the halls of the school. From this point on, the game becomes a tense cat-and-mouse chase. The primary goal shifts from education to survival: collect the remaining five notebooks while evading Baldi and a cast of other bizarre characters, each with their own unique way of impeding your progress, and ultimately find a way to escape the school.
+1.  **「音」は最大の武器：**
+    バルディはドアの開閉音を聞いてプレイヤーの位置を特定します。逆に、プレイヤーもバルディが定規で手を叩く「スパン、スパン」という音で彼の接近を知ることができます。音が大きく、頻繁になるほど、彼はすぐ近くにいます。
 
-### Gameplay Strategy
+2.  **スタミナ管理が鍵：**
+    走るためのスタミナ（Shiftキー）には限りがあります。無駄遣いしてはいけません。バルディが目前に迫った時や、長い廊下を一気に抜ける時だけ走りましょう。廊下を走ると校長先生に見つかって反省室行きになるリスクもあるので注意が必要です。
 
-[JA TRANSLATION NEEDED] Success in *Baldi's Basics* relies on sound awareness, resource management, and understanding the behavior of each character.
+3.  **キャラクター対策：**
+    *   **Baldi（バルディ）：** ノートを集めるごとに加速します。距離を取り、ドアの音を利用して彼を誘導（ミスディレクション）しましょう。
+    *   **Playtime（プレイタイム）：** 縄跳びを強要して足を止める厄介な女の子。**「安全ハサミ（Safety Scissors）」**で縄を切れば即座に脱出できます。ハサミは常備しておきたいアイテムです。
+    *   **Principal（校長先生）：** 廊下を走るなどの校則違反を見つけると、反省室（拘束）に送ってきます。彼が近くにいる時は歩きましょう。
+    *   **It's a Bully（いじめっ子）：** 通路を塞ぎ、アイテムを要求してきます。何か渡さないと通してくれません。不要なアイテムを渡すか、別ルートを探しましょう。
+    *   **Gotta Sweep（ホウキ）：** 巨大なホウキが猛スピードで廊下を掃除し、敵味方関係なく押し流します。ピンチを救ってくれることもあれば、バルディの元へ運ばれることもあります。
+    *   **1st Prize（ファーストプライズ）：** ハグしようとして突き飛ばしてくるロボット。ハサミで配線を切れば一時停止できます。
 
-[JA TRANSLATION NEEDED] 1.  **Sound is Your Most Important Tool:** Baldi's primary method of locating you is sound. He is drawn to the sound of opening and closing doors. More importantly, you can track his proximity by listening to the sound of his ruler slapping against his hand. The louder and more frequent the slap, the closer he is. Use this to your advantage to know when to hide or run.
-[JA TRANSLATION NEEDED] 2.  **Stamina Management is Key:** You have a limited stamina bar for running (activated with the Shift key). Do not waste it. Only run when Baldi is very close or when you need to quickly cross an open area. The Principal will also put you in detention for running in the halls, so be mindful of his location.
-**1. How do I solve the impossible math problem?**（日本語訳が必要）
-[JA TRANSLATION NEEDED] 3.  **Learn the Characters and How to Counter Them:**
-[JA TRANSLATION NEEDED]     *   **Baldi:** He gets faster with every notebook you collect. Keep your distance and use sound to misdirect him if possible.
-[JA TRANSLATION NEEDED]     *   **Playtime:** A little girl with a jump rope who will force you to play with her, stopping you in your tracks. The only way to escape quickly is by using the **Safety Scissors** to cut her rope. Always try to have scissors on hand.
-[JA TRANSLATION NEEDED]     *   **Principal of the Thing:** He roams the halls and will send you to detention (a 15-30 second timeout) for breaking school rules (running, entering faculty rooms, using BSoda in the halls). Avoid him when you need to run.
-[JA TRANSLATION NEEDED]     *   **It's a Bully:** Blocks hallways and demands an item. You must give him something from your inventory to pass. It's often best to find an alternate route.
-[JA TRANSLATION NEEDED]     *   **Gotta Sweep:** A giant broom that periodically sweeps through the halls, pushing all characters (including you and Baldi) in its path. It can be a lifesaver or a death sentence depending on the situation.
-[JA TRANSLATION NEEDED]     *   **1st Prize:** A slow-moving robot that will hug you and push you down a hallway. He can be annoying, but sometimes he can push you away from Baldi. You can use the scissors on his wiring to disable him temporarily.
-[JA TRANSLATION NEEDED] 4.  **Item Strategy:**
-[JA TRANSLATION NEEDED]     *   **BSoda:** A can of soda that can be used to push characters away. Excellent for creating distance from Baldi or getting past the Bully without losing a more valuable item.
-[JA TRANSLATION NEEDED]     *   **Energy Flavored Zesty Bar:** Fully restores your stamina. Invaluable for making a long run.
-[JA TRANSLATION NEEDED]     *   **Safety Scissors:** Your counter to Playtime and 1st Prize. A top-priority item.
-[JA TRANSLATION NEEDED]     *   **Quarter:** Can be used in vending machines to get a BSoda or on the payphone in the Principal's office to briefly distract Baldi.
-[JA TRANSLATION NEEDED] 5.  **The Final Escape:** After collecting all seven notebooks, the school will turn red, an alarm will blare, and Baldi will move at his maximum speed. You must find three exits, which will initially be blocked. After touching all three fake exits, the fourth and final exit will open, allowing you to escape. This final phase is a pure test of speed, item usage, and luck.
+4.  **アイテム戦略：**
+    *   **BSoda（ソーダ）：** キャラクターを遠くへ吹き飛ばします。バルディとの距離を離したり、いじめっ子を強制排除したりするのに最強のアイテムです。
+    *   **Energy Flavored Zesty Bar（チョコバー）：** スタミナを全回復します。長距離逃走の必需品です。
+    *   **Safety Scissors（安全ハサミ）：** プレイタイムの縄を切ったり、1st Prizeの配線を切ったりできる万能アイテム。常に1つは持っておきましょう。
+    *   **Quarter（25セント硬貨）：** 自販機でBSodaを買ったり、電話を使ってバルディを一時的に妨害したりできます。
 
-### Controls Guide
+5.  **最後の脱出：**
+    7冊すべてのノートを集めると、校内が赤く染まり、バルディが最速モードになります。脱出するには、まず校内にある3つの「偽の出口」に触れ、最後に開く「本当の出口（4つ目）」から出る必要があります。ここは純粋なスピードとアイテム使いの勝負です。
 
-[JA TRANSLATION NEEDED] Controls are standard for first-person PC games.
+### 操作ガイド
 
-*   **`W`, `A`, `S`, `D` Keys**: Move forward, left, backward, and right.
-*   **Mouse**: Look around.
-*   **`Left-Shift` Key**: Hold to run (consumes stamina).
-- **`W`, `A`, `S`, `D` Keys**: 移動する forward, left, backward, and right.
-*   **`Left Mouse Button`**: Open doors and pick up items.
-- **マウス**: Look around.
-- **`Left-Shift` Key**: Hold to run (consumes stamina).（日本語訳が必要）
-- **`Left マウス Button`**: Open doors and pick up items.
-- **`Right マウス Button`**: Use the currently selected item.
-- **マウス Scroll Wheel**: Cycle through your inventory items.
-- **`Spacebar`**: Look behind you (in newer versions/updates).（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
-*   **`Right Mouse Button`**: Use the currently selected item.
-*   **Mouse Scroll Wheel**: Cycle through your inventory items.
-*   **`Spacebar`**: Look behind you (in newer versions/updates).
-The main rules are:（日本語訳が必要）
-- No 走るning (he will catch you if he sees you).
+標準的なPC FPSゲームの操作です。
 
-- No Entering Faculty Rooms.（日本語訳が必要）
-- No Drinking (using BSoda in front of him).（日本語訳が必要）
-- No Bullying (this applies to the Bully character).（日本語訳が必要）
-**4. How do I get out of detention?**（日本語訳が必要）
-### Frequently Asked Questions (FAQ)
+*   **WASDキー：** 移動（前後左右）
+*   **マウス：** 視点移動
+*   **左Shiftキー：** 走る（スタミナ消費）
+*   **マウス左クリック：** ドアを開ける、アイテムを拾う
+*   **マウス右クリック：** 持っているアイテムを使う
+*   **マウスホイール：** アイテム切り替え
+*   **スペースキー：** 後ろを振り返る
 
-[JA TRANSLATION NEEDED] **1. How do I solve the impossible math problem?**
-[JA TRANSLATION NEEDED] You can't. The garbled, impossible problem in the second (and subsequent) notebooks is a core game mechanic designed to be unsolvable. Answering it incorrectly is what triggers Baldi's chase.
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] **2. Why does Baldi get faster?**
-[JA TRANSLATION NEEDED] Baldi's speed increases with every notebook you successfully collect. This is the game's primary difficulty curve, forcing you to be more strategic as you progress.
+**Q: あの解読不能な算数の問題はどうやって解くのですか？**  
+**A:** 解けません。あれは「絶対に間違えるように作られた」ギミックであり、バルディが怒って追いかけてくるトリガーです。
 
-[JA TRANSLATION NEEDED] **3. What are the school rules that the Principal enforces?**
-[JA TRANSLATION NEEDED] The main rules are:
-*   No Running (he will catch you if he sees you).
-*   No Entering Faculty Rooms.
-*   No Drinking (using BSoda in front of him).
-*   No Bullying (this applies to the Bully character).
+**Q: なぜバルディはどんどん速くなるのですか？**  
+**A:** ノートを回収して問題を解くたびに、バルディの移動速度が上がる仕様です。これにより、ゲーム後半になるほど難易度が跳ね上がります。
 
-[JA TRANSLATION NEEDED] **4. How do I get out of detention?**
-[JA TRANSLATION NEEDED] You have to wait for the timer to count down. The duration can vary. If you have the "Principal's Keys," you can use them on the door to escape instantly.
+**Q: 校則（School Rules）とは何ですか？**  
+**A:** 校長先生が監視しているルールです。代表的なものは以下の通りです。
 
-[JA TRANSLATION NEEDED] **5. I collected all 7 notebooks. How do I win?**
-[JA TRANSLATION NEEDED] After getting all seven notebooks, you must find and touch three "fake" exits throughout the school. Once you've done that, a fourth, real exit will open up. You must reach that final exit to win the game.
+*   廊下を走らない
+*   教師（職員）エリアに無断で入らない
+*   校内で飲まない（BSodaの使用を含む）
+*   いじめ・横取りをしない
 
+**Q: 反省室（拘束）からすぐ出る方法は？**  
+**A:** 基本的にはタイマーが切れるまで待つしかありませんが、「Principal's Keys（校長の鍵）」を持っていれば、扉を開けて即脱出できます。
 
-    - **Baldi:** He gets faster with every notebook you collect. Keep your distance and use sound to misdirect him if possible.（日本語訳が必要）
-4.  **Item 戦略:**
-5.  **The Final Escape:** After collecting all seven notebooks, the school will turn red, an alarm will blare, and Baldi will move at his maximum speed. You must find three exits, which will initially be blocked. After touching all three fake exits, the fourth and final exit will open, allowing you to escape. This final phase is a pure test of speed, item usage, and luck.（日本語訳が必要）
-    - **Playtime:** A little girl with a jump rope who will force you to play with her, stopping you in your tracks. The only way to escape quickly is by using the **Safety Scissors** to cut her rope. Always try to have scissors on hand.（日本語訳が必要）
-    - **Principal of the Thing:** He roams the halls and will send you to detention (a 15-30 second timeout) for breaking school rules (running, entering faculty rooms, using BSoda in the halls). 避ける him when you need to run.
-    - **It's a Bully:** Blocks hallways and demands an item. You must give him something from your inventory to pass. It's often best to find an alternate route.（日本語訳が必要）
-    - **Gotta Sweep:** A giant broom that periodically sweeps through the halls, pushing all characters (including you and Baldi) in its path. It can be a lifesaver or a death sentence depending on the situation.（日本語訳が必要）
-    - **1st Prize:** A slow-moving robot that will hug you and push you down a hallway. He can be annoying, but sometimes he can push you away from Baldi. You can use the scissors on his wiring to disable him temporarily.（日本語訳が必要）
-
-- **Item 戦略:**
-    - **BSoda:** A can of soda that can be used to push characters away. Excellent for creating distance from Baldi or getting past the Bully without losing a more valuable item.（日本語訳が必要）
-    - **エネルギー Flavored Zesty Bar:** Fully restores your stamina. Invaluable for making a long run.
-    - **Safety Scissors:** Your counter to Playtime and 1st Prize. A top-priority item.（日本語訳が必要）
-    - **Quarter:** Can be used in vending machines to get a BSoda or on the payphone in the Principal's office to briefly distract Baldi.（日本語訳が必要）
-
-- **The Final Escape:** After collecting all seven notebooks, the school will turn red, an alarm will blare, and Baldi will move at his maximum speed. You must find three exits, which will initially be blocked. After touching all three fake exits, the fourth and final exit will open, allowing you to escape. This final phase is a pure test of speed, item usage, and luck.
-### コントロール Guide
-You can't. The garbled, impossible problem in the second (and subsequent) notebooks is a core game mechanic designed to be unsolvable. Answering it incorrectly is what triggers Baldi's chase.（日本語訳が必要）
-
-
-
-
-
-
-
-
-### よくある質問（FAQ）
-- **`Spacebar`**: Look behind you (in newer versions/updates).
-- **Mouse Scroll Wheel**: Cycle through your inventory items.
-- **`Right Mouse Button`**: Use the currently selected item.
-- **`Left Mouse Button`**: Open doors and pick up items.
-- **`Left-Shift` Key**: Hold to run (consumes stamina).
-- **Mouse**: Look around.
-- **`W`, `A`, `S`, `D` Keys**: Move forward, left, backward, and right.
-
-### よくある質問（FAQ）
-**2. Why does Baldi get faster?**（日本語訳が必要）
-Baldi's speed increases with every notebook you successfully collect. This is the game's primary difficulty curve, forcing you to be more strategic as you progress.（日本語訳が必要）
-**3. What are the school rules that the Principal enforces?**（日本語訳が必要）
-You have to wait for the timer to count down. The duration can vary. If you have the "Principal's Keys," you can use them on the door to escape instantly.（日本語訳が必要）
-**5. I collected all 7 notebooks. How do I win?**（日本語訳が必要）
-After getting all seven notebooks, you must find and touch three "fake" exits throughout the school. Once you've done that, a fourth, real exit will open up. You must reach that final exit to win the game.（日本語訳が必要）
-
-
-
-
-
-
-
-
-After getting all seven notebooks, you must find and touch three "fake" exits throughout the school. Once you've done that, a fourth, real exit will open up. You must reach that final exit to win the game.
-**5. I collected all 7 notebooks. How do I win?**
-You have to wait for the timer to count down. The duration can vary. If you have the "Principal's Keys," you can use them on the door to escape instantly.
-**4. How do I get out of detention?**
-- No Bullying (this applies to the Bully character).
-- No Drinking (using BSoda in front of him).
-- No Entering Faculty Rooms.
-- No Running (he will catch you if he sees you).
-
-
-
-
-
-After getting all seven notebooks, you must find and touch three "fake" exits throughout the school. Once you've done that, a fourth, real exit will open up. You must reach that final exit to win the game.
-**5. I collected all 7 notebooks. How do I win?**
-You have to wait for the timer to count down. The duration can vary. If you have the "Principal's Keys," you can use them on the door to escape instantly.
-**4. How do I get out of detention?**
+**Q: ゲームクリアの条件は？**  
+**A:** 7冊すべてのノートを集めた後、校内に出現する3つの「偽の出口」に順番に触れ、最後に開く4つ目の本物の出口から脱出する必要があります。バルディはこの時点で最速になるので、アイテムとルート管理が勝負です。

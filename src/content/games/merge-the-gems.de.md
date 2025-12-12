@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: merge-the-gems
-title: '[DE] Merge the Gems'
+title: Merge the Gems
 description: >-
-  [DE] Merge identical gems to forge new, more valuable jewels! Fill your board,
-  complete challenges, and discover all the precious stones in this sparkling
-  and addictive merge puzzle game.
+  Merg e identische Edelsteine zu neuen, wertvolleren Juwelen! Fülle dein
+  Spielfeld, meistere Herausforderungen und entdecke alle kostbaren Steine in
+  diesem funkelnden Merge-Puzzlespiel.
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/merge-the-gems.jpg
 tags:
@@ -17,34 +17,62 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Merge the Gems ist ein simples, entspannendes und sehr süchtig machendes
+Puzzlespiel, in dessen Mittelpunkt das Mergen identischer Edelsteine steht.
+Du startest mit einfachen, ungeschliffenen Steinen und merg st sie nach und
+nach zu immer schillernderen Juwelen. Dein Ziel ist es, dein Spielfeld sinnvoll
+zu verwalten, stetig zu merg en, neue Edelsteinarten freizuschalten und Aufgaben
+für Extrapunkte und Münzen zu erfüllen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Merge the Gems is a simple, relaxing, and highly addictive puzzle game centered around merging identical gems to create new, more valuable ones. You start with basic, uncut stones and combine them to progressively form sparkling, elaborate jewels. The goal is to manage your game board, continuously merge to discover new gem types, and fulfill objectives to earn points and coins.
+1.  **Merge-Kette nutzen**  
+    Ziehe einen Edelstein auf einen identischen, um ihn zu einer höheren Stufe
+    zu verschmelzen. So schaffst du Platz und erhöhst gleichzeitig den Wert
+    deiner Steine.
 
-### Gameplay Strategy & Walkthrough
+2.  **Brett im Auge behalten**  
+    Dein Spielfeld hat nur begrenzte Slots. Wenn alles voll ist, kommen keine
+    neuen Steine nach. Priorisiere Merg es, bevor du das Board komplett
+    zubaust.
 
-1.  **[DE]** **The Merge Chain:** The core of the game is to drag one gem and drop it onto an identical gem. The two will then merge into a single, new gem of a higher level. The key is to keep merging to create more space and discover more valuable jewels.
-2.  **[DE]** **Manage Your Board:** Your board has a limited number of spaces. If it fills up completely, you won't be able to add new gems. Always prioritize making merges to keep your board from getting cluttered.
-3.  **[DE]** **Use Coins to Accelerate:** While the game will periodically give you a free basic gem, the fastest way to progress is to use the coins you earn to buy more gems from the shop. This allows you to create high-level gems much more quickly.
-4.  **[DE]** **Fulfill Goals:** Pay attention to any goals or orders that may appear. Completing these challenges is the best way to earn large amounts of coins and advance in the game.
+3.  **Münzen zum Beschleunigen einsetzen**  
+    Zwar erhältst du regelmäßig kostenlose Basissteine, aber am schnellsten
+    kommst du voran, wenn du verdiente Münzen im Shop in zusätzliche Steine
+    investierst.
 
-### Controls Guide
+4.  **Ziele beachten**  
+    Achte auf spezielle Aufgaben oder Auftragsziele. Sie bringen oft viel mehr
+    Münzen als normale Merg es und beschleunigen deinen Fortschritt.
 
-The game is played with simple drag-and-drop controls.
+### Steuerung
 
-*   **[DE]** **Merge Gems:** Click and drag one gem and drop it onto another identical gem to merge them.
-*   **[DE]** **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
+- **Edelsteine merg en:** Ziehe einen Stein auf einen identischen, um ihn
+  aufzuwerten.  
+- **Steine kaufen:** Öffne den Shop und kaufe Edelsteine, die du bereits
 
-### Frequently Asked Questions (FAQ)
+- **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
+  entdeckt hast, gegen Münzen nach.
 
-*   **[DE]** **Q: How do I get new gems?**
-    *   **[DE]** **A:** A new, basic gem will appear automatically on an empty spot after a short timer. You can also spend coins in the shop to buy gems directly.
+### FAQ
 
-*   **[DE]** **Q: What is the main objective?**
-    *   **[DE]** **A:** To discover all the different types of gems by merging them and to complete any given tasks to earn the highest score possible.
+*   **F: Wie erhalte ich neue Steine?**  
+    **A:** In Abständen erscheint automatisch ein Basisstein auf einem freien
+    Feld. Außerdem kannst du im Shop Steine mit Münzen direkt kaufen.
 
-*   **[DE]** **Q: My board is full and I can't make any moves. What should I do?**
-    *   **[DE]** **A:** You need to free up space. Double-check for any possible merges. If there are absolutely no moves, you may need to use an option to sell or delete a low-value gem to make room for a new one.
+    - **F: Was ist das Hauptziel?**  
+    **A:** Alle Edelsteinarten einmal freizuschalten und die Aufgaben für
+    möglichst viele Punkte und Münzen zu erfüllen.
 
+*   **F: Mein Board ist voll und ich habe keine Züge mehr. Was nun?**  
+
+    - **A:** You need to free up space. Double-check for any possible merges. If there are absolutely no moves, you may need to use an option to sell or delete a low-value gem to make room for a new one.
+
+- **Q: My board is full and I can't make any moves. What should I do?**
+
+    - **A:** To discover all the different types of gems by merging them and to complete any given tasks to earn the highest score possible.
+    **A:** Suche nochmal nach möglichen Merg es. Wenn gar nichts mehr geht,
+    musst du einen wenig wertvollen Stein verkaufen oder löschen, um wieder ein
+    Feld freizubekommen.

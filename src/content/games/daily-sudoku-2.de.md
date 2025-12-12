@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: daily-sudoku-2
-title: '[DE] Daily Sudoku'
+title: "Daily Sudoku"
 description: >-
-  [DE] A new Sudoku puzzle every day to challenge your logic. Fill the 9x9 grid
-  so each row, column, and 3x3 box contains the digits 1 to 9 without
-  repetition.
+  Jeden Tag ein neues Sudoku-Logikrätsel: Fülle das 9×9-Gitter so, dass jede
+  Zeile, Spalte und jedes 3×3-Feld die Ziffern 1 bis 9 ohne Wiederholung
+  enthält.
 iframeSrc: 'https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/'
 thumbnail: /new-images/daily-sudoku-2.png
 tags:
@@ -17,34 +17,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Daily Sudoku* liefert dir jeden Tag ein neues, klassisches Sudoku. Ziel ist,
+ein 9×9-Gitter mit Ziffern zu füllen, sodass in jeder Zeile, jeder Spalte und
+in jedem der neun 3×3-Boxen alle Ziffern von 1 bis 9 genau einmal vorkommen.
+Reine Logik, keine Mathematik – gefragt sind Geduld und Konzentration.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every single day. Sudoku is a world-renowned logic-based, number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9. It's a pure logic puzzle that requires no calculation or mathematical skills, only patience and concentration.
+1.  Grundregel: Die Ziffern 1–9 dürfen in Zeile, Spalte und Box jeweils nur
+    einmal vorkommen.
+2.  Scannen (Cross-Hatching): Wähle ein leeres Feld und prüfe Zeile, Spalte und
+    Box auf bereits gesetzte Zahlen. Was ausgeschlossen ist, verrät oft die
+    einzige gültige Option.
+3.  Notizen (Pencil Marks): In schwierigeren Rätseln notierst du Kandidaten in
+    ein Feld. Wenn andere Zellen gefüllt werden, kannst du Kandidaten streichen
+    und so nach und nach die einzige Möglichkeit übrig lassen.
+4.  "Naked Singles": Hat ein Feld nur noch einen Kandidaten, setze diese Zahl
+    sofort.
+5.  "Hidden Singles": Steht eine Zahl in den Kandidaten einer Zeile/Spalte/Box
+    nur genau einmal, muss sie in dieses Feld, auch wenn dort mehrere
+    Kandidaten stehen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **The Basic Rule:** The golden rule of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box.
-2.  **[DE]** **Scanning (Cross-hatching):** The most basic solving technique. Pick an empty cell. Look at its row, column, and 3x3 box to see which numbers are already used. By process of elimination, you can often find the only possible number for that cell.
-3.  **[DE]** **Penciling In (Notes):** For more difficult puzzles, use the "notes" or "pencil" feature. In an empty cell, enter all the possible numbers that could legally go there. As you fill in other cells, you can eliminate candidates from your notes, eventually leaving only one possibility.
-4.  **[DE]** **Look for "Naked Singles":** This is when a cell has only one possible candidate number left in its notes. Fill that number in immediately.
-5.  **[DE]** **Look for "Hidden Singles":** This is when a candidate number appears only once within the notes of a specific row, column, or 3x3 box. Even if the cell itself has other candidates, that number must go in that cell for that specific row/column/box.
+*   Feld wählen: Klicke ein leeres Feld im 9×9-Gitter an.
+*   Zahl eintragen: Klicke anschließend auf eine Zahl im On-Screen-Nummernfeld.
+*   Notizmodus: Über das Stift-Icon (oder ähnliches) zwischen "Lösung"- und
+    "Notiz"-Modus wechseln; im Notizmodus erscheinen kleine Kandidaten.
+*   Radiergummi: Entferne Zahlen oder Notizen mit dem Lösch-Tool.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Select a Cell:** Click on any empty cell in the 9x9 grid.
-*   **[DE]** **Enter a Number:** After selecting a cell, click on a number from the on-screen number pad to place it in the cell.
-*   **[DE]** **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
-*   **[DE]** **Eraser:** Use the eraser tool to clear a number or notes from a cell.
+*   F: Muss ich gut in Mathe sein?
+    *   A: Nein, Sudoku ist ein Logik- und Mustererkennungsrätsel, keine
+        Rechenaufgabe.
 
-### Frequently Asked Questions (FAQ)
+*   F: Was passiert bei einem Fehler?
+    *   A: Die meisten digitalen Versionen heben Konflikte sofort hervor (oft
+        in Rot), sodass du sie direkt korrigieren kannst.
 
-*   **[DE]** **Q: Do I need to be good at math to play Sudoku?**
-    *   **[DE]** **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
-
-*   **[DE]** **Q: What happens if I enter a wrong number?**
-    *   **[DE]** **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-
-*   **[DE]** **Q: Why should I use the "Notes" feature?**
-    *   **[DE]** **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
+*   F: Wozu brauche ich die Notizfunktion?
+    *   A: Bei leichten Rätseln kommst du oft ohne aus. Bei mittleren und
+        schweren Sudokus sind Notizen jedoch praktisch unverzichtbar, um
+        Kandidaten systematisch zu verwalten.

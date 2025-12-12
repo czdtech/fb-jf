@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: chess-mania
-title: '[ES] Chess Mania'
+title: "Chess Mania"
 description: >-
-  [ES] Experience Chess Mania, a feature-packed chess game for all levels. Play
-  against AI, solve challenging puzzles, and become a chess master.
+  Vive Chess Mania, un juego de ajedrez lleno de opciones para todos los
+  niveles. Enfréntate a la IA, resuelve puzles desafiantes y da pasos firmes
+  hacia convertirte en maestro.
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
 thumbnail: /new-images/chess-mania.png
 tags:
@@ -16,33 +17,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Chess Mania ofrece una excelente experiencia de ajedrez para aficionados de
+cualquier nivel. Dispone de una interfaz limpia y una IA potente con varios
+niveles de dificultad. Tanto si estás aprendiendo las reglas como si ya eres un
+jugador veterano, es un buen lugar para practicar estrategia, probar nuevas
+aperturas y afinar tu visión táctica. El objetivo sigue siendo el de siempre:
+superar al rival y colocar su rey en jaque mate.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Chess Mania offers a superb chess experience for enthusiasts of all levels. This game provides a clean interface and a powerful AI opponent with multiple difficulty settings. Whether you are learning the rules or a seasoned grandmaster, Chess Mania is the perfect place to practice your strategy, test new openings, and sharpen your tactical skills. The goal remains the same: outwit your opponent and place their king in checkmate.
+1.  **Domina la apertura:** Empieza la partida desarrollando tus piezas hacia el
+    centro del tablero y construyendo una estructura de peones sólida. Una buena
+    apertura marca el tono del resto del juego.
+2.  **Coordina tus piezas:** Asegúrate de que trabajen en conjunto. Un ataque o
+    defensa coordinados son mucho más efectivos que movimientos sueltos sin
+    plan.
+3.  **Cuida la estructura de peones:** Los peones controlan casillas clave,
+    protegen piezas y pueden coronarse en damas si llegan al otro extremo del
+    tablero.
+4.  **Practica finales:** Muchos encuentros se deciden en el final. Estudia
+    posiciones típicas para aprender a convertir ventajas en victorias.
+5.  **Mantente alerta:** Pregúntate siempre qué pretende tu rival. Busca
+    amenazas y oportunidades tácticas en cada turno.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Master the Opening:** Start the game by developing your pieces toward the center of the board. A strong opening sets the stage for the entire game.
-2.  **[ES]** **Piece Coordination:** Ensure your pieces work together. A well-coordinated attack or defense is much more effective than moving individual pieces without a plan.
-3.  **[ES]** **Pawn Structure:** Pay attention to your pawn structure. Pawns can control key squares, defend your other pieces, and become powerful queens if they reach the other side of the board.
-4.  **[ES]** **Endgame Practice:** The endgame is where games are often won or lost. Practice common endgame scenarios to convert your advantage into a win.
-5.  **[ES]** **Always Be Alert:** Constantly ask yourself what your opponent is planning. Look for threats and tactical opportunities on every move.
+*   **Seleccionar y mover:** Haz clic en una pieza para ver sus movimientos
+    legales resaltados, luego haz clic en la casilla de destino.
+*   **Menú de partida:** Usa el menú para elegir la dificultad de la IA, empezar
+    una nueva partida o pedir una pista si estás atascado.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Select and Move:** Click on a piece to see its legal moves highlighted, then click on the destination square to move it.
-*   **[ES]** **Game Menu:** Use the menu to choose your opponent's difficulty, start a new game, or get a hint if you're stuck.
+*   **P: ¿Cómo se gana en ajedrez?**
+    *   **R:** Dando jaque mate: el rey enemigo queda bajo amenaza de captura y
+        no tiene movimientos legales para escapar.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué es el ahogado?**
+    *   **R:** Una forma de tablas en la que un jugador no está en jaque pero no
+        tiene ninguna jugada legal; la partida termina en empate.
 
-*   **[ES]** **Q: How do I win at Chess?**
-    *   **[ES]** **A:** You win by checkmating the opponent's king. This means the king is under attack and has no legal moves to escape.
-
-*   **[ES]** **Q: What is a stalemate?**
-    *   **[ES]** **A:** A stalemate is a type of draw where a player is not in check but has no legal moves to make. The game ends immediately in a tie.
-
-*   **[ES]** **Q: How can I improve my chess skills?**
-    *   **[ES]** **A:** The best way to improve is to play regularly, analyze your games to learn from your mistakes, and study basic chess principles and tactics.
-
+*   **P: ¿Cómo puedo mejorar mis habilidades?**
+    *   **R:** Juega con regularidad, analiza tus partidas para aprender de los
+        errores y estudia principios básicos de ajedrez y patrones tácticos.

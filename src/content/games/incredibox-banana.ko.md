@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-banana
-title: '[KO] Incredibox Banana'
+title: Incredibox Banana 인크레디박스 바나나 모드
 description: >-
-  [KO] Explore the fan-made 'Incredibox Banana' mod. This guide details its
-  jungle and meme theme inspired by the popular VR game, its unique sound
-  palette, and tips for creating your own monkey mix.
+  팬이 제작한 Incredibox 모드인 'Incredibox Banana'를 소개하는 가이드입니다. 인기 VR 게임에서 영감을 받은 정글·밈
+  테마와 독특한 사운드 팔레트, 그리고 자신만의 원숭이 믹스를 만드는 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1108699828/embed'
 thumbnail: /new-images/incredibox-banana.png
 tags:
@@ -19,37 +18,63 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **게임 소개**
 
-This popular fan-made mod for Incredibox is a direct tribute to the massively popular VR game, **Incredibox Banana**. It swaps the usual beatboxers for a crew of gorillas sitting on a log in a forest environment, perfectly capturing the aesthetic of its inspiration.
+이 인기 팬메이드 모드는 원작 Incredibox를, 대히트 VR 게임 **Incredibox Banana**
+세계관으로 풀어낸 오마주 작품입니다. 기존의 비트박서 대신 숲 속 통나무에
+앉아 있는 고릴라 크루가 등장하며, 원작의 분위기를 고스란히 살린 정글·밈
+테마가 특징입니다.
 
-The gameplay follows the classic Incredibox drag-and-drop formula. Players are given 20 sound icons, each representing a different sound or meme from the Incredibox Banana community. By dragging these icons onto the seven gorillas, players can create their own unique musical compositions. The sound palette is a creative mix of **jungle ambiance, meme sound effects from the game, beatboxing, and electronic beats**.
+게임 방식은 기존 Incredibox와 동일한 드래그 앤 드롭 구조입니다. 플레이어는
+20개의 사운드 아이콘을 제공받는데, 각각은 Incredibox Banana 커뮤니티에서
+유래한 효과음이나 밈을 나타냅니다. 이 아이콘을 7마리 고릴라에게 입혀
+조합하면서, **정글 환경음·게임 밈 효과음·비트박스·일렉트로닉 비트**가
+섞인 독특한 사운드 팔레트로 자신만의 곡을 만들 수 있습니다.
 
-The objective is to allow fans of both Incredibox and Incredibox Banana to express their creativity while also enjoying the puzzle of finding the secret animated bonuses, which are undoubtedly themed around the unique culture of the Incredibox Banana universe.
+목표는 Incredibox와 Incredibox Banana 팬들이 각자의 감성으로 믹스를 만들
+수 있게 하는 동시에, 특정 조합으로만 열리는 비밀 애니메이션 보너스를 찾는
+퍼즐 요소를 즐기게 하는 것입니다.
 
-### **Gameplay Strategy & Tips**
+### **플레이 전략 & 팁**
 
-The strategy here is about layering the game's iconic sounds and meme references to create a fun, energetic track.
+전략의 핵심은 이 모드 특유의 상징적인 사운드와 밈 요소를 어떻게 겹쳐
+배치해, 듣기 즐겁고 에너지 넘치는 트랙을 만드는가입니다.
 
-1.  **[KO]** **Understand the Incredibox Banana Sound Palette**:
-    *   **[KO]** **Beats (Percussion)**: The rhythm section is likely composed of jungle-themed percussion. Look for icons like the **coconut** to provide a beat, or other sounds that create a rhythmic pulse.
-    *   **[KO]** **Effects (Atmosphere)**: This category builds the world. It likely includes ambient forest sounds, character sound effects, and iconic meme sounds like the **plunger** or the spooky sound associated with the **PBBV** icon (a famous Incredibox Banana myth).
-    *   **[KO]** **Melodies (Bass/Synth)**: These are the core tunes. Icons like the **headphones** might represent a deep bassline or a synth melody that drives the track.
-    *   **[KO]** **Voices (Vocal)**: The vocals would be a mix of gorilla-like chants, beatboxing, and other character vocalizations that give the mix its unique personality.
+1. **Incredibox Banana 사운드 팔레트 이해하기**  
+    - **Beats (퍼커션)**: 정글 느낌의 타악기 비트가 중심을 잡습니다. 코코넛
+     아이콘처럼 리듬을 만들어 주는 요소를 먼저 선택해 기본 박을 깔아 보세요.  
+    - **Effects (효과·분위기)**: 숲의 앰비언스, 캐릭터 효과음, 플런저 소리,
+     PBBV 아이콘에 얽힌 괴담 같은 밈 사운드가 포함됩니다. 공간감을 만드는
+     데 사용하세요.  
+    - **Melodies (베이스/신스)**: 헤드폰 아이콘 등은 곡을 이끄는 베이스라인
+     또는 신스 멜로디를 담당하는 경우가 많습니다.  
+    - **Voices (보컬)**: 고릴라가 내는 듯한 챈트, 비트박스, 캐릭터 보이스가
+     믹스의 개성을 결정합니다.
 
-2.  **[KO]** **Embrace the Meme Culture**: A huge part of the fun is recognizing the references. The icons for the **PBBV bowtie**, the various hats, and other in-game items are all nods to Incredibox Banana lore. Experiment with these to see how they translate into music.
+2. **밈 문화 적극 활용하기**  
+   PBBV 보타이, 각종 모자, 소품 아이콘들은 모두 Incredibox Banana 세계관에
+   대한 팬서비스입니다. 어떤 밈이 어떤 소리로 구현됐는지 직접 실험해 보면서
+   트랙에 녹여 보세요.
 
-3.  **[KO]** **Build from the Ground Up**: Start your mix with a solid beat (perhaps the coconut icon). Then add a bassline or an atmospheric effect to create a foundation. Finally, layer the more distinct melodies and vocals on top.
+3. **기본 비트에서부터 쌓아 올리기**  
+   코코넛 같은 비트 아이콘으로 튼튼한 리듬을 만든 뒤, 베이스/앰비언스를
+   더해 토대를 다지고, 마지막에 개성 강한 멜로디와 보컬을 얹는 순서가
+   안정적입니다.
 
-4.  **[KO]** **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Lock in a few core sounds that you think work well together, then systematically swap out the remaining icons one by one until you trigger an animation.
+4. **보너스 해금은 체계적으로**  
+   비밀 보너스 3개를 찾으려면, 마음에 드는 기본 비트·베이스 조합을 먼저
+   고정해 두고 나머지 슬롯을 하나씩 바꿔 가며 시도하는 식으로 체계적으로
+   조합을 바꿔 보세요.
 
-### **Controls Guide**
+### **조작 가이드**
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+조작은 공식 Incredibox와 같은 직관적인 드래그 앤 드롭 인터페이스를 사용합니다.
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the gorillas.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing gorilla to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing gorilla to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active gorilla to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** (top right) to start and stop recording your mix.
-
+- **사운드 추가**: 하단의 사운드 아이콘을 드래그해 고릴라 위에 올려놓습니다.
+- **사운드 제거**: 하단 활성화된 사운드 아이콘의 `X`를 누르거나, 새 아이콘을
+  기존 고릴라에 덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 고릴라를 클릭해 해당 파트를 끄거나 다시 켤 수
+  있습니다.
+- **솔로**: 활성화된 캐릭터 옆의 작은 버튼을 눌러, 그 캐릭터만 남기고
+  나머지를 모두 뮤트할 수 있습니다.
+- **녹음**: 우측 상단의 녹음 버튼을 눌러 자신의 믹스를 녹음·저장할 수 있습니다.

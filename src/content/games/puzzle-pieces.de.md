@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: puzzle-pieces
-title: '[DE] Puzzle Pieces'
+title: "Puzzle Pieces"
 description: >-
-  [DE] Puzzle Pieces delivers clean brainteasers — rotate, fit shapes, and
-  complete boards without gaps.
+  Puzzle Pieces liefert klare Denkaufgaben: Drehe Formen, setze sie passgenau
+  ein und fülle jedes Brett lückenlos aus.
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/puzzle-pieces.png
 tags:
@@ -15,28 +15,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Puzzle Pieces ist ein aufgeräumtes Formpuzzle: Du ziehst verschieden geformte
+ Polyominos auf ein Brett und musst es exakt, ohne Lücken und Überstände,
+ ausfüllen. Mit jedem Level werden die Layouts komplexer, die verfügbaren
+ Formen knapper und du musst genauer planen, wohin welches Teil passt.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Puzzle Pieces is a tidy shape‑fitting puzzler. Drag and rotate polyforms to fill boards exactly, managing limited space and piece orientations as layouts grow more intricate.
+1.  **Große/ungewöhnliche Teile zuerst:** Platziere zuerst besonders große oder
+    auffällige Formen, da für sie am wenigsten Alternativen existieren.
+2.  **Ränder aufbauen:** Baue saubere Außenlinien, um klare Innenflächen und
+    Lücken zu erkennen.
+3.  **Auf „Löcher“ achten:** Vermeide Einzellöcher, die von keiner Form mehr
+    ausgefüllt werden können. Achte darauf, dass verbleibende Flächen zu deinen
+    Restteilen passen.
+4.  **Viel drehen:** Probiere jede Form in mehreren Ausrichtungen. Viele
+    Lösungen erschließen sich erst nach ein oder zwei Drehungen.
+5.  **Rückgängig machen:** Nutze Undo oder Reset früh, wenn du merkst, dass ein
+    Teil ungünstig liegt – erzwinge keinen schlechten Fit.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Start with anchors: Place unique or large shapes first to reduce ambiguity.
-2.  **[DE]** Edge framing: Build clean borders to reveal interior gaps.
-3.  **[DE]** Look for parity: Match protrusions and cavities; avoid leaving single‑cell holes.
-4.  **[DE]** Rotate liberally: Check all orientations; many fits appear only after rotation.
-5.  **[DE]** Undo freely: Backtrack early instead of forcing a bad fit.
+- **Teile ziehen:** Ziehe mit der Maus oder dem Finger eine Form auf das
+  Spielfeld.
+- **Drehen:** Per Klick/Tap oder über einen Drehbutton kannst du Teile
+  rotieren.
+- **Undo/Reset:** Über Buttons machst du Züge rückgängig oder setzt das Level
+  neu – meist ohne Strafpunkte.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drag to move pieces; rotate via click/tap or a rotate button.
-- Undo/Reset: Fix mistakes quickly; no penalty in most modes.
+- **F: Ein Teil scheint nirgends zu passen – Bug?**
+  
+  Meist liegt es an der Ausrichtung. Drehe das Teil weiter oder baue den Rand
+  anders auf, damit die Form Platz findet.
 
-### Frequently Asked Questions (FAQ)
+- **F: Gibt es Zeitdruck?**
+  
+  Je nach Modus. Viele Varianten sind jedoch bewusst entspannt und kommen ganz
+  ohne Timer aus.
 
-- A piece never fits—bug? Usually orientation; try other rotations or reframe edges.
-- Timers? Varies; most modes are relaxed.
-- Hints? Many versions include hints; use sparingly to preserve challenge.
-
+- **F: Kann ich Hinweise nutzen?**
+  
+  In vielen Versionen gibt es Hinweise oder Auto-Platzierung einzelner Teile.
+  Verwende sie sparsam, wenn du gar nicht weiterkommst.

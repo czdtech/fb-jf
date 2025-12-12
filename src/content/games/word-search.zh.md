@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: word-search
-title: '[ZH TRANSLATION NEEDED] Word Search'
+title: 'Word Search：主题找单词'
 description: >-
-  [ZH TRANSLATION NEEDED] Word Search is a classic puzzle game where players
-  find hidden words in a grid of letters, searching horizontally, vertically,
-  and diagonally to complete themed word lists in this relaxing brain exercise.
+  《Word Search》是一款经典的字母搜寻游戏。
+  在方阵中横向、纵向或斜向寻找隐藏单词，完成不同主题的单词列表，
+  一边放松大脑，一边锻炼观察力和英语拼写。
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/word-search.jpg
 tags:
@@ -17,32 +17,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Word Search》是一款经典的字谜游戏，你需要在字母方格中查找被隐藏起来的单词，
+这些单词共同组成一个特定的主题词表。
 
-[ZH TRANSLATION NEEDED] "Word Search" is a classic puzzle game where players find hidden words in a grid of letters, searching horizontally, vertically, and diagonally to complete themed word lists. This is a relaxing brain exercise game that helps improve vocabulary and observation skills.
+单词可能水平、垂直或斜向出现，既可以从左到右、也可能从右到左，
+是非常适合用来练习英文拼写、提升专注度和观察力的轻量脑力游戏。
 
-### Gameplay Strategy
+### 策略心得
 
-1.  **Systematic Scanning**: Scan the grid systematically by rows or columns, don't jump around randomly.
-2.  **Multi-directional Thinking**: Remember words can appear in 8 different directions (horizontal, vertical, diagonal).
-3.  **Find Long Words First**: Long words are usually easier to spot; finding them first can narrow the search area.
-4.  **Marking Strategy**: Mark words immediately after finding them to avoid repeated searches.
-5.  **Theme Association**: Use theme hints to predict what types of words might appear.
+1.  **系统化扫描（Systematic Scanning）：**  
+    不要毫无章法地乱看，可以先按行逐行扫，再按列逐列扫，
+    或者每一行、每一列都从两个方向各看一遍，避免漏掉目标单词。
+2.  **多方向思考（Multi-directional Thinking）：**  
+    牢记单词可能出现在 8 个方向（横向、竖向以及对角线），
+    找到某个首字母后，不要只看一个方向，试着在周围沿所有方向延伸拼读。
+3.  **优先找长单词（Find Long Words First）：**  
+    长单词在网格中更显眼，先把它们找出来，可以自然“切割”搜索区域，
+    让剩余短单词更容易锁定。
+4.  **及时标记（Marking Strategy）：**  
+    发现单词后立即划线标记，避免之后重复在同一片区域反复搜索。
+5.  **善用主题线索（Theme Association）：**  
+    注意关卡的主题，例如“动物、国家、食物”等，
+    根据主题提前在脑中列出可能出现的词，有助于你更快识别它们。
 
-### How to Play
+### 操作说明
 
-*   **Select Words**: Use mouse drag or click to select found words.
-*   **Multi-directional Selection**: Can select words from any direction (forward/backward, up/down, diagonal).
-*   **View List**: Check the word list to see which words still need to be found.
-*   **Hint Feature**: Some versions provide hint features to help find difficult words.
+*   **选中单词（Select Words）：** 使用鼠标拖拽或点击，从单词第一个字母拉到最后一个字母，
+    即可完成选中。
+*   **任意方向（Multi-directional Selection）：** 支持从任意方向选词，
+    包括正向、反向、竖向以及斜向。
+*   **查看列表（View List）：** 随时查看屏幕上的单词列表，了解还剩哪些单词没有找到。
+*   **提示功能（Hint Feature）：** 如果游戏版本提供提示，可以用来定位难找的最后几个单词。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What directions can words be in?**
-     **A**: Words can appear horizontally (left/right), vertically (up/down), or diagonally, and can be forward or backward.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I improve search efficiency?**
-     **A**: Use systematic scanning, find long words first, utilize theme clues, and maintain patience and focus.
-3.  [ZH TRANSLATION NEEDED] **Q: What if I can't find the last few words?**
-     **A**: Carefully check if you've missed certain directions, especially diagonals and backward words.
-4.  [ZH TRANSLATION NEEDED] **Q: Is there a time limit?**
-     **A**: Most versions have no time limit; you can search at your own pace.
+### 常见问题
+
+1.  **问：单词可以出现在哪些方向？**  
+    **答：** 可能水平（左/右）、垂直（上/下）或斜向出现，并且既可以正着拼，也可能倒着拼。
+
+2.  **问：怎样提高搜索效率？**  
+    **答：** 养成系统化扫描的习惯，先找长单词，再利用主题线索缩小范围，
+    同时保持耐心和专注，不被局部细节牵着走。
+
+3.  **问：实在找不到最后几个单词怎么办？**  
+    **答：** 仔细检查是否遗漏了某些方向，尤其是斜向和反向单词，
+    必要时可以使用提示功能帮助你锁定大致位置。
+
+4.  **问：游戏有时间限制吗？**  
+    **答：** 多数版本没有强制时间限制，你可以按照自己的节奏慢慢寻找，
+    把它当作一项放松又不失挑战的日常小游戏。

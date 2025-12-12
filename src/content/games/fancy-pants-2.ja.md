@@ -1,43 +1,55 @@
 ---
-locale: ja
-urlstr: fancy-pants-2
-title: '[JA TRANSLATION NEEDED] Fancy Pants 2'
-description: >-
-  [JA TRANSLATION NEEDED] Momentum‑driven platformer sequel: faster movement
-  tech, new enemies, and larger hand‑drawn stages with secrets and trophies.
+title: Fancy Pants 2 ファンシーパンツ2
+description: 「Fancy Pants 2」は勢い重視のプラットフォーマー続編。より速い移動テクニック、新しい敵、秘密とトロフィーが詰まった大きな手描きステージ。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/fancy-pants-2.jpg
+urlstr: fancy-pants-2
+score: 4.3/5  (582 votes)
 tags:
   - platformer
   - action
-score: 4.3/5  (582 votes)
+developer: Brad Borne
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Fancy Pants 2（ファンシーパンツ2）*は、スタイリッシュな手描きアニメーションと流れるような動きが特徴の、勢い重視のプラットフォーマーの続編です。
+坂道と壁を使って勢いを築き、維持し、トロフィーを集め、オプションのチャレンジルームを備えたより大きなレベルをクリアしましょう。
+
+### 遊び方
+
+*   **勢い:** スライドと壁ジャンプを使って、大きな隙間を越える動きを繋げます。
+*   **探索:** 収集品を探してボーナスドアを開きましょう。
+*   **戦闘:** シンプルな敵を踏みつけるか、素早いスワイプ（利用可能な場合）で倒します。
+
+### 操作ガイド
+
+*   **移動/ジャンプ:** WASD または 矢印キー
+*   **スライド:** 下キー
+*   **ドア:** 上キーで入る
+
+### 攻略のヒント
+
+*   **坂道の出口:** 平地でスピードを保つために、坂道の出口を練習しましょう。
+*   **ジャンプのバッファ:** エッジでジャンプをバッファして、一貫した長距離移動を実現します。
+*   **下り坂スライド:** 垂直な登りの前に下り坂スライドを使いましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: ストーリーはありますか？**
+
+A: Light framing; focus is movement and level secrets.
+- **A:** 軽いフレーミングがあります。焦点は動きとレベルの秘密です。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Build and preserve momentum through slopes and walls, collect trophies, and clear larger levels with optional challenge rooms.
+A: Time trials/challenges exist in many hosts.
+*   **Q: スピードランはありますか？**
 
-### How to Play
-- Use slides and wall‑jumps to chain movement across big gaps.
-- Explore for collectibles to open bonus doors.
-- Fight simple enemies with stomp or quick swipes (when available).
+A: Depends on host; some keep local progress.
+    *   **A:** 多くのホストにタイムトライアル/チャレンジが存在します。
 
-### Controls
-- WASD/Arrows to move/jump; Down to slide; Up to enter doors.
-
-### Tips
-- Practice slope exits to keep speed over flat stretches.
-- Buffer jumps at edges for consistent long carries.
-- Use downhill slides before vertical climbs.
-
-### FAQ
-- Q: Is there a story?  
-[JA TRANSLATION NEEDED]   A: Light framing; focus is movement and level secrets.
-- Q: Are there speed runs?  
-[JA TRANSLATION NEEDED]   A: Time trials/challenges exist in many hosts.
-- Q: Progress saving?  
-[JA TRANSLATION NEEDED]   A: Depends on host; some keep local progress.
-
+*   **Q: 進行状況は保存されますか？**
+    *   **A:** ホストによります。一部はローカル進行状況を保持します。

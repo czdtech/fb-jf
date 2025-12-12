@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-cool-as-ice
-title: '[KO] Sprunki Cool As Ice - Play Sprunki Cool As Ice Online'
+title: 'Sprunki Cool As Ice 스프룽키 쿨 애즈 아이스'
 description: >-
-  [KO] Sprunki: Cool As Ice is a major innovation in the Incredibox family, and
-  it brings a new perspective to music creation through its unique winter theme.
+  Sprunki: Cool As Ice는 눈과 얼음 테마로 꾸며진 Incredibox 스타일 모드입니다.
+  차가운 겨울 분위기 속에서 눈과 얼음 캐릭터를 배치해 새로운 비트와 멜로디를
+  조합하며, 나만의 겨울 사운드트랙을 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
 thumbnail: /sprunki-cool-as-ice.png
 tags:
@@ -15,47 +16,69 @@ score: 4.2/5  (324 votes)
 
 
 
-### Introducing to Sprunki Cool As Ice
+### Sprunki Cool As Ice 소개
 
-Tired of ordinary music creation? Want a different and fresh experience? Sprunki: Cool As Ice will take you into a musical world like a snow queen! This innovative Mod combines a unique winter theme with the classic Incredibox, allowing you to unleash unlimited musical inspiration in a cold atmosphere!
-
----
-
-### What's So Special About Sprunki: Cool As Ice?
-
-Sprunki: Cool As Ice is more than just a skin change! It completely subverts your music creation experience with charming snow and ice visuals and unique sound effects. Imagine creating dynamic music with ice and snow characters in a snowy winter, it's so cool!
+평범한 음악 제작 게임이 지겨워졌다면, Sprunki: Cool As Ice에서 눈의 왕국 같은
+음악 세상으로 떠나 보세요. 이 모드는 클래식 Incredibox 방식에 겨울 테마를 더해,
+얼음·눈 캐릭터와 종소리, 차가운 신스 사운드를 섞어 독특한 겨울 분위기의 트랙을
+만들 수 있게 해 줍니다.
 
 ---
 
-### How to Play Sprunki: Cool As Ice?
+### Sprunki: Cool As Ice의 특징
 
-It's actually very simple, just master these points:
-
-- **Choose Snow and Ice Characters:** The game has all kinds of exquisitely designed snow and ice characters, each with unique sound effects. Pick a few you like and let them be your music partners! Note that the game takes 30-45 seconds to load, please be patient!
-- **Create Exclusive Music:** Like playing Incredibox, drag and drop characters onto the soundboard to activate their icy beats and melodies.
-- **Discover Hidden Surprises:** Try different character combinations to unlock unexpected animations and sound effects!
-- **Switch Themes:** If you are brave enough, you can also switch to the horror theme to experience the exciting collision of ice and fire! Just click the character in the lower right corner to switch easily. Want to return to the default theme? Just click the arrow in the upper right corner!
-
-
-### Tips for Playing Sprunki: Cool As Ice:
-
-- **Play Around with Character Combinations:** Try different character combinations to create unique sound combinations and make your music more personal!
-- **Keep an Eye on the Rhythm:** Pay attention to the rhythm bar at all times, making sure your music creation is in sync with the rhythm, making your work more rhythmic!
-- **Join the Music Community:** Join the Cool As Ice music community, share your masterpieces, interact with other music lovers, and play music together!
-
+Sprunki: Cool As Ice는 단순한 스킨 교체가 아니라, 눈과 얼음 연출과 전용 사운드로
+기존 Sprunki의 음악 제작 경험을 새롭게 바꿔 줍니다. 눈발이 흩날리는 배경에서
+얼음 캐릭터들이 춤추며 연주하는 모습을 보며, 서늘한 공기까지 느껴지는 듯한
+겨울 음악을 만들 수 있습니다.
 
 ---
 
-### What Are the Highlights of Sprunki: Cool As Ice?
+### Sprunki: Cool As Ice 플레이 방법
 
-- **Unique Winter Aesthetics:** The game has immersive snow and ice visuals, with falling snowflakes and frost-covered landscapes that perfectly combine with the musical experience, making you feel like you are in a snow world!
-- **Unique Sound Library:** The game introduces unique winter-themed sound effects, including melodious chimes and soft bells, enriching the possibilities of music creation and making your works more wintry!
-- **User-Friendly Operation Interface:** The game continues the intuitive design style of Incredibox, ensuring that both novices and veterans can easily get started and quickly create amazing music works!
-- **Active Community Interaction:** The game encourages players to actively participate in interaction, share your music creations online, exchange experiences with music lovers from all over the world, and make progress together!
+조작은 간단하지만, 조합에 따라 분위기가 크게 달라집니다.
 
+- **눈·얼음 캐릭터 선택:** 각기 다른 소리를 내는 여러 눈·얼음 캐릭터 중
+  마음에 드는 캐릭터를 골라 무대에 올립니다. 로딩에 30~45초 정도 걸릴 수
+  있으니 잠시만 기다려 주세요.
+- **전용 음악 만들기:** Incredibox처럼 캐릭터를 보드 위로 드래그해 배치하면
+  얼음 비트와 겨울 멜로디가 재생됩니다. 여러 캐릭터를 섞어 나만의 겨울곡을
+  완성해 보세요.
+- **숨겨진 연출 발견:** 특정 조합을 만들면 예상치 못한 애니메이션이나
+  특수 효과가 등장하기도 합니다. 다양한 조합을 시도해 비밀 연출을 찾아보세요.
+- **테마 전환:** 더 강한 연출을 원한다면 공포 테마로 전환해 얼음과 공포가
+  섞인 분위기를 즐길 수도 있습니다. 화면 오른쪽 아래 캐릭터를 눌러 공포
+  테마로 바꾸고, 오른쪽 위 화살표를 눌러 기본 테마로 되돌릴 수 있습니다.
+
+### Sprunki: Cool As Ice 플레이 팁
+
+- **캐릭터 조합 실험하기:** 서로 다른 캐릭터를 섞어 어떤 사운드가 나오는지
+  실험해 보세요. 조합에 따라 차분한 겨울밤, 눈보라, 축제 같은 다양한 분위기를
+  만들 수 있습니다.
+- **리듬 바 확인:** 화면의 리듬 흐름을 보면서 사운드를 추가하면, 전체 곡의
+  박자가 더 자연스럽게 살아납니다.
+- **커뮤니티와 공유:** 완성한 겨울 테마 곡을 커뮤니티에 공유하고, 다른
+  플레이어의 작품도 들어 보며 아이디어를 얻어 보세요.
 
 ---
 
-### Conclusion:
+### Sprunki: Cool As Ice 하이라이트
 
-Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it brings a new perspective to music creation through its unique winter theme. The engaging gameplay, unique sound library, and strong community interaction make Sprunki: Cool As Ice an essential experience for both Incredibox enthusiasts and newcomers! Come and join Sprunki: Cool As Ice, use your music to light up this cold winter!
+- **몰입감 있는 겨울 비주얼:** 눈이 내리고 서리가 낀 풍경과 함께 음악을 만들며
+  마치 눈 덮인 세계에 들어온 듯한 느낌을 줍니다.
+- **겨울 전용 사운드 라이브러리:** 잔잔한 종소리, 차가운 벨 톤, 부드러운 패드
+  등 겨울 분위기에 어울리는 사운드가 다수 준비되어 있습니다.
+- **친숙한 조작:** Incredibox 특유의 직관적인 인터페이스 덕분에, 처음 하는
+  사람도 금방 감을 잡고 곡을 완성할 수 있습니다.
+- **활발한 온라인 공유:** 만든 곡을 온라인에 올리고, 다른 유저들의 겨울
+  트랙을 들으며 함께 의견을 나눌 수 있습니다.
+
+---
+
+### 마무리
+
+Sprunki: Cool As Ice는 Incredibox 계열 모드 가운데에서도 겨울 테마에 가장
+충실한 작품 중 하나입니다. 시원한 눈·얼음 비주얼과 전용 사운드, 그리고
+커뮤니티와의 교류까지 더해져, 겨울 시즌에 특히 잘 어울리는 음악 놀이 공간을
+제공합니다. 차가운 계절에 어울리는 나만의 트랙을 만들어, 음악으로 겨울밤을
+밝혀 보세요.

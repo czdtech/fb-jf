@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: zombie-gun
-title: '[DE] Zombie Gun'
+title: Zombie Gun
 description: >-
-  [DE] Zombie Gun is a physics shooter — ricochet bullets, trigger barrels, and
-  clear rooms with clever angles and limited ammo.
+  Zombie Gun ist ein Physik‑Shooter: Lass Kugeln an Wänden abprallen, sprenge
+  Fässer und räume Räume mit cleveren Winkeln und begrenzter Munition.
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/zombie-gun.png
 tags:
@@ -14,32 +14,30 @@ score: 4.0/5  (1898 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+In Zombie Gun liegt der Fokus auf Winkel‑Schüssen. Du lässt Kugeln an Wänden abprallen, triffst explosive Fässer und bringst Konstruktionen zum Einsturz, um Zombies mit möglichst wenigen Schüssen auszuschalten. In späteren Räumen tauchen gepanzerte Gegner auf, die du nur über die Umgebung effektiv erledigen kannst.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Banden nutzen:** Schieße über Wände, um versteckte oder abgeschirmte Gegner zu treffen.
+2. **Rote Fässer priorisieren:** Kettenexplosionen räumen ganze Gruppen an Zombies auf einmal weg.
+3. **Umgebung einreißen:** Zerstöre Stützen, damit Gegenstände auf Zombies fallen und sie zerquetschen.
+4. **Munition sparen:** Überlege dir vor dem ersten Schuss eine Route aus Abprallern und Explosionen, statt auf gut Glück zu feuern.
+5. **Panzerzombies austricksen:** Gegen gepanzerte Ziele nutzt du am besten Fässer, herabfallende Objekte oder andere Umweltkills.
 
-Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive barrels, and collapse props to eliminate zombies with few shots. Later rooms add armored foes that require environmental kills.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Zielen mit der Maus, Klick zum Schießen; über die UI kannst du Level neu starten. In vielen Leveln steht dir nur eine begrenzte Anzahl Schüsse zur Verfügung.
 
-1.  **[DE]** Bank shots: Use walls to hit tucked targets.
-2.  **[DE]** Red barrels: Chain explosions to clear clusters.
-3.  **[DE]** Prop falls: Shoot supports to drop objects on enemies.
-4.  **[DE]** Ammo discipline: Plan routes before firing.
-5.  **[DE]** Armor rule: Use environment against armored zombies.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
-
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
-
-### Frequently Asked Questions (FAQ)
 
 - Q: I run out of ammo.
-
-A: Plan a bank/explosion route before the first shot.
+**Ich gehe ständig die Munition aus – was mache ich falsch?**  
 
 - Q: Armored ones don’t die.
+Plane deine Schüsse so, dass du möglichst viele Zombies mit einem Schuss erwischst – etwa über Fässer oder Abpraller.
 
-A: Drop props or explode barrels near them.
-
+**Gepanzerte Zombies halten zu viel aus – wie besiege ich sie?**  
+Nutze die Umgebung: Sprenge Fässer neben ihnen oder lass schwere Objekte auf sie stürzen, statt sie direkt zu beschießen.

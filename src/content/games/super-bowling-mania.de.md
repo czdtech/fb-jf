@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: super-bowling-mania
-title: '[DE] Super Bowling Mania'
+title: Super Bowling Mania
 description: >-
-  [DE] Lace up your bowling shoes for Super Bowling Mania! Aim for a strike,
-  pick up spares, and compete for the highest score in this realistic bowling
-  game.
+  Schnür deine Bowlingschuhe in Super Bowling Mania: Ziele auf Strikes, räume
+  schwierige Spares ab und jag deinem Highscore hinterher – mit realistischer
+  Physik und einfacher Steuerung.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
 thumbnail: /new-images/super-bowling-mania.png
 tags:
@@ -16,34 +16,36 @@ score: 4.0/5  (1555 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Super Bowling Mania bringt Zehn‑Pin‑Bowling auf deinen Bildschirm: Du positionierst dich auf der Bahn, legst Kraft und ggf. Spin fest und versuchst, alle zehn Pins abzuräumen. Strikes, knifflige Spares und der Traum von der perfekten 300 rücken mit jedem Wurf näher.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Position wählen:** Verschiebe deinen Startpunkt leicht nach links oder rechts, um die „Pocket“ (zwischen Kopfpin und dahinterliegendem Pin) besser zu treffen.
+2.  **Kraft dosieren:** Ein Power‑Balken zeigt die Wurfstärke. Zu schwach = wenig Durchschlag, zu stark = schwer kontrollierbar.
+3.  **Spin nutzen:** Ein leichter Effet lässt die Kugel in die Pocket „ziehen“ und erhöht die Strike-Chance deutlich.
+4.  **Spares räumen:** Nach dem ersten Wurf zielst du gezielt auf den Schlüsselpin in der Restgruppe, um eine Kettenreaktion auszulösen.
 
-Super Bowling Mania brings the classic ten-pin bowling experience to your screen with realistic physics and intuitive controls. Whether you're a seasoned bowler or new to the sport, you can enjoy the thrill of aiming for a perfect strike. The game challenges you to knock down all ten pins in each frame. Score strikes, pick up tricky spares, and aim for a perfect 300 game. With its engaging gameplay, it's a perfect way to enjoy bowling anytime, anywhere.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Zielen:** Maus nach links/rechts bewegen, um Position und Richtung einzustellen.
+- **Power & Wurf:** Maustaste halten, um den Power‑Balken zu starten, und im gewünschten Bereich loslassen.
+- **Effet:** Während die Kugel rollt, kannst du in manchen Versionen mit Mausbewegungen den Spin leicht beeinflussen.
 
-1.  **[DE]** **Position Your Bowler:** Before you throw, you can typically adjust your starting position on the lane. Moving left or right can help you find the perfect angle to hit the pocket (between the front pin and the one behind it).
-2.  **[DE]** **Set the Power:** A power meter will appear. Try to aim for a consistent power level. Too little power and you won't knock down many pins; too much and the ball might be harder to control.
-3.  **[DE]** **Add Spin (Curve):** Many bowling games allow you to add spin to the ball as you release it. A slight curve can dramatically increase your chances of getting a strike by helping the ball drive through the pins.
-4.  **[DE]** **Picking Up Spares:** If you don't get a strike, you'll need to knock down the remaining pins. Aim carefully for the key pin in the remaining cluster to maximize your chances of clearing the lane.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Wie funktioniert die Wertung beim Bowling?**  
+  Ein Spiel hat 10 Frames. Ein Strike (alle 10 Pins im ersten Wurf) bringt 10 Punkte plus die Pins der nächsten zwei Würfe; ein Spare (alle 10 Pins in zwei Würfen) bringt 10 Punkte plus die Pins des nächsten Wurfs.
 
-*   **[DE]** **Aiming:** Move the mouse left or right to adjust your position and the initial direction of your throw.
-*   **[DE]** **Power and Release:** Click and hold the mouse button to start the power meter. Release the button at the desired power level to throw the ball.
-*   **[DE]** **Spin/Curve:** While the ball is rolling, you may be able to move the mouse to influence its curve.
+    - **Was ist ein perfektes Spiel?**  
+  12 Strikes in Folge – insgesamt 300 Punkte.
 
-### Frequently Asked Questions (FAQ)
+- **Wie bekomme ich mehr Strikes?**  
 
-*   **[DE]** **Q: How is bowling scored?**
-    *   **[DE]** **A:** A game consists of 10 frames. A strike (all 10 pins on the first ball) gives you 10 points plus a bonus of the pins knocked down on your next two balls. A spare (all 10 pins in two balls) gives you 10 points plus a bonus of the pins from your next one ball.
+    - **A:** The key to getting strikes is consistency. Find a starting position, power level, and spin that works for you and try to replicate it. Aiming for the "pocket" just to the side of the head pin is generally the most effective strategy.
 
-*   **[DE]** **Q: What is a perfect game?**
-    *   **[DE]** **A:** A perfect game is a score of 300, which is achieved by bowling 12 strikes in a row in a single game.
+- **Q: How do I get more strikes?**
 
-*   **[DE]** **Q: How do I get more strikes?**
-    *   **[DE]** **A:** The key to getting strikes is consistency. Find a starting position, power level, and spin that works for you and try to replicate it. Aiming for the "pocket" just to the side of the head pin is generally the most effective strategy.
-
+    - **A:** A perfect game is a score of 300, which is achieved by bowling 12 strikes in a row in a single game.
+  Finde eine Kombination aus Startposition, Power und Spin, die gut funktioniert, und wiederhole sie möglichst konstant. Zielt meist knapp an der Kopfpin‑Seite vorbei in die Pocket.

@@ -1,69 +1,67 @@
 ---
 locale: zh
 urlstr: breaking-the-bank
-title: '[ZH TRANSLATION NEEDED] Breaking the Bank'
+title: "Breaking the Bank 神偷亨利：挖银行"
 description: >-
-  [ZH TRANSLATION NEEDED] Attempt a daring bank heist in Breaking the Bank, the
-  first Henry Stickmin adventure! Choose your method and watch the hilarious
-  outcomes, but only one path leads to success.
-iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
+  《Breaking the Bank》是“神偷亨利”（Henry Stickmin）系列的开端，以互动动画 + 多结局选择的形式，讲述亨利第
+  一次尝试打劫银行却屡战屡败的搞笑故事。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/breaking-the-bank.html'
 thumbnail: /new-images/breaking-the-bank.jpg
 tags:
-  - puzzle
   - adventure
-score: 4.7/5  (1071 votes)
+  - puzzle
+score: 4.0/5  (587 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
+*Breaking the Bank* 是著名火柴人互动剧“神偷亨利”（Henry Stickmin）系列的第一作。和传统意义上的“解谜游戏”不同，它更像是一部可以被你“打断和改写”的短片动画——在关键节点，你需要为亨利选择一件道具或一个行动方案，看看这一次他会以什么离谱的方式失败。
 
+故事从亨利站在沙漠中的一座银行旁边开始，他试图想出办法潜入金库：是要挖地道？用炸药？还是干脆钻进钱运车？每一种选择都会引发不同的搞笑动画，绝大多数结局都会以“失败”告终，而你则通过不断尝试，看看能否找到“最不那么失败”的路线。
 
-### Game Introduction
+虽然本作体量较小，但它为后续多部作品中的角色、世界观与恶搞风格打下基调，是了解整个系列的最佳切入点。
 
-[ZH TRANSLATION NEEDED] Breaking the Bank is a short, interactive, choice-based animated game. It is the very first installment in the popular Henry Stickmin series. The game presents a simple scenario: the protagonist, a stick figure named Henry Stickmin, stands before a bank in the middle of a desert, contemplating how to break in and rob it.
+### 游戏玩法
 
-[ZH TRANSLATION NEEDED] Unlike traditional games, there is no direct control over movement or actions. Instead, the gameplay consists of a single decision point. The player is presented with a selection of six different methods or tools to break into the bank. The core appeal of the game lies not in finding the correct answer, but in exploring the hilarious and unique "FAIL" animations that result from each incorrect choice. The goal is to find the one and only correct option that allows Henry to succeed.
+整部作品几乎没有操作，只需要做出一次选择。玩法用一句话概括：**不断尝试 → 看动画 → 换一个选项**。建议先把所有失败的分支都看完，再去寻找唯一的通关方法。
 
-### Gameplay Walkthrough
+当画面切换到银行前方时，屏幕下方会一次性列出六件道具 / 方案：
 
-[ZH TRANSLATION NEEDED] The gameplay in Breaking the Bank is entirely based on trial and error. There is only one choice to make in the entire game.
+1.  **Explosives（炸药）：** 试图炸出一个洞。  
+2.  **Laser Drill（激光钻）：** 用高科技激光切开墙体。  
+3.  **Shovel（铲子）：** 往地下挖一条隧道。  
+4.  **Wrecking Ball（破坏球）：** 叫来破坏球把外墙砸开。  
+5.  **Disguise（伪装）：** 藏进运钞车试图混进去。  
+6.  **Teleporter（传送器）：** 使用未来科技直接传送到金库。  
 
-[ZH TRANSLATION NEEDED] You are presented with six options displayed at the bottom of the screen:
-1.  [ZH TRANSLATION NEEDED] **Explosives:** Try to blow a hole in the wall.
-2.  [ZH TRANSLATION NEEDED] **Laser Drill:** Use a high-tech laser to cut through the wall.
-3.  [ZH TRANSLATION NEEDED] **Shovel:** Dig a tunnel underneath the bank.
-4.  [ZH TRANSLATION NEEDED] **Wrecking Ball:** Call in a wrecking ball to smash the wall.
-5.  [ZH TRANSLATION NEEDED] **Disguise:** Try to sneak in using a disguise.
-6.  [ZH TRANSLATION NEEDED] **Teleporter:** Use a futuristic device to teleport inside.
+**正确答案：**  
+> 六个选项里只有 **Shovel（铲子）** 能让亨利成功。其余选择都会触发搞笑的 FAIL 动画，乐趣就在于把这些失败演出全部看一遍，再体验唯一的成功路线。
 
-[ZH TRANSLATION NEEDED] **The Solution:**
-[ZH TRANSLATION NEEDED] > There is only one correct path to win the game. The correct option to choose is the **Shovel**. This will trigger an animation of Henry successfully digging a tunnel into the bank's vault. Any other choice will result in a humorous FAIL screen. The fun of the game is clicking on all the other options first to see the funny outcomes.
+### 操作指南
 
-### Controls Guide
+游戏完全通过鼠标进行。
 
-[ZH TRANSLATION NEEDED] The game is controlled entirely with the mouse.
+-   **鼠标移动：** 将光标移到不同选项上查看提示。  
+-   **鼠标左键：** 点击某个选项，立即播放对应的结局或动画。  
 
--   **Mouse Cursor:** Move the cursor to hover over an option.
--   **Left-Click:** Click on your desired option to see what happens.
+### 常见问题解答（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**1. 有不止一种获胜方法吗？**  
+> 没有。只有铲子（Shovel）会触发胜利动画，其余选项都是故意设计的 FAIL。
 
-[ZH TRANSLATION NEEDED] **1. Is there more than one way to win the game?**
-[ZH TRANSLATION NEEDED] > No, there is only one specific choice (the Shovel) that leads to success. All other choices are designed to be humorous failures.
+**2. 为什么游戏这么短？**  
+> 它是 Henry Stickmin 系列的概念开端，用来验证“单次选择 + 多结局动画”这一玩法。系列后续作品体量和分支都大得多。  
 
-[ZH TRANSLATION NEEDED] **2. Why is the game so short?**
-[ZH TRANSLATION NEEDED] > Breaking the Bank was the very first game in the series and served as a simple proof-of-concept for the choice-based "choose your own adventure" style of gameplay. Its successors are much longer and more complex.
+**3. 这真的是系列吗？**  
+> 是的，按时间顺序依次为：  
+> 1.  Breaking the Bank  
+> 2.  Escaping the Prison  
+> 3.  Stealing the Diamond  
+> 4.  Infiltrating the Airship  
+> 5.  Fleeing the Complex  
+> 这些作品后来被重制，并在 **The Henry Stickmin Collection** 中加入最终章 Completing the Mission。  
 
-[ZH TRANSLATION NEEDED] **3. Is this game part of a series?**
-[ZH TRANSLATION NEEDED] > Yes, this is the first game in the iconic **Henry Stickmin** series. The chronological order of the games is:
-[ZH TRANSLATION NEEDED] > 1.  Breaking the Bank
-[ZH TRANSLATION NEEDED] > 2.  Escaping the Prison
-[ZH TRANSLATION NEEDED] > 3.  Stealing the Diamond
-[ZH TRANSLATION NEEDED] > 4.  Infiltrating the Airship
-[ZH TRANSLATION NEEDED] > 5.  Fleeing the Complex
-[ZH TRANSLATION NEEDED] > These games were later remastered and bundled together with a final, grand-finale chapter called "Completing the Mission" in **The Henry Stickmin Collection**.
-
-[ZH TRANSLATION NEEDED] **4. Where is the gameplay? I only get one choice.**
-[ZH TRANSLATION NEEDED] > The "gameplay" is the experience of seeing all the different outcomes. The main point is not to win immediately, but to click on every option to enjoy the comedy and animation of the various fails before finding the correct solution.
-
+**4. 只有一个选择算哪门子游戏？**  
+> 乐趣在于看遍所有搞笑失败。建议先把每个选项都点一遍，享受动画和彩蛋，再回头体验那个正确解。  

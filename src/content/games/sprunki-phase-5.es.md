@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: sprunki-phase-5
-title: '[ES] Sprunki Phase 5 - Play Sprunki Phase 5 Online'
+title: 'Sprunki Phase 5 - Juega a Sprunki Phase 5 online'
 description: >-
-  [ES] Sprunki Phase 5 is a fan-made music-creation game that blends
-  rhythm-based creativity with a spooky, atmospheric twist.
+  Sprunki Phase 5 es un juego creado por fans de creación musical que mezcla
+  creatividad rítmica con un giro oscuro y atmosférico.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
 thumbnail: /sprunki-phase-5.png
 tags:
@@ -14,26 +14,40 @@ score: 4.0/5  (604 votes)
 ---
 
 
+### Presentación de Sprunki Phase 5
 
-### Introducing to Sprunki Phase 5
-
-Sprunki Phase 5 is a fan-made music-creation game that blends rhythm-based creativity with a spooky, atmospheric twist. As part of the Sprunki Definitive series, this game retains the core mechanics of layering beats and melodies but introduces a darker, more immersive experience. With eerie visuals and haunting sound effects, players can craft unsettling yet captivating musical compositions.
-
----
-
-### Sprunki Phase 5 Gameplay
-
-
-The enhanced sound library in Sprunki Phase 5 offers more diverse options for creating tracks. Here’s how you can get started:
-- Select Characters: Choose from a roster of animated characters, each representing a unique musical element like vocals, beats, or melodies.
-- Drag and Drop: Position characters on the soundboard using the intuitive drag-and-drop mechanism.
-- Activate Sounds: Once placed, trigger characters to produce their designated sounds and start building your track.
-- Explore Narratives: Unlock stories and character interactions as you hit milestones in your compositions.
-- Save and Share: Save your tracks and share them with the Sprunki Phase 5 community.
-
+Sprunki Phase 5 es un juego creado por fans de creación musical que combina la
+creatividad basada en el ritmo con un tono sombrío y envolvente. Como parte de
+la serie Sprunki Definitive, mantiene la mecánica central de superponer beats y
+melodías, pero la sitúa en una experiencia más oscura e inmersiva. Con
+escenarios inquietantes y efectos de sonido fantasmales, podrás componer temas
+tan hipnóticos como perturbadores.
 
 ---
 
-### Unlock New Sounds and Effects
+### Jugabilidad de Sprunki Phase 5
 
-Progressing in the Sprunki Phase 5 allows you to unlock more haunting sounds and expand your creative possibilities. Each new character brings a unique audio element, from deep, distorted bass to ghostly hums and eerie synths. These additions enable players to experiment with different styles, from suspenseful horror themes to hypnotic, atmospheric beats.
+La biblioteca de sonidos ampliada de Sprunki Phase 5 te da muchas más opciones
+para construir pistas. Así es como puedes empezar:
+
+- **Selecciona personajes:** elige entre un elenco de personajes animados, cada
+  uno asociado a un elemento musical distinto (voces, percusión, melodías…).
+- **Arrastra y suelta:** coloca los personajes en el panel de mezcla con una
+  interfaz de arrastrar y soltar muy intuitiva.
+- **Activa los sonidos:** una vez colocados, activa los personajes para que
+  reproduzcan sus patrones de sonido y empieza a levantar tu tema.
+- **Explora narrativas:** a medida que avanzas y alcanzas ciertos hitos con tus
+  composiciones, podrás desbloquear pequeñas historias e interacciones entre
+  personajes.
+- **Guarda y comparte:** guarda tus temas y compártelos con la comunidad de
+  Sprunki Phase 5.
+
+---
+
+### Desbloquea nuevos sonidos y efectos
+
+Al progresar en Sprunki Phase 5 irás desbloqueando sonidos cada vez más
+inquietantes que amplían tus posibilidades creativas. Cada nuevo personaje
+aporta un matiz sonoro propio, desde bajos distorsionados y profundos hasta
+zumbidos espectrales y sintes etéreos. Con ellos podrás moverte desde temas de
+terror en tensión hasta beats atmosféricos y casi hipnóticos.

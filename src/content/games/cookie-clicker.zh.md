@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: cookie-clicker
-title: '[ZH TRANSLATION NEEDED] Cookie Clicker'
+title: Cookie Clicker 曲奇点击器 全攻略
 description: >-
-  [ZH TRANSLATION NEEDED] The definitive guide for Cookie Clicker, the legendary
-  incremental game. Discover gameplay strategies, tips for Ascension, Golden
-  Cookies, and answers to common questions to maximize your cookie production.
+  这是一份《Cookie Clicker 曲奇点击器》的完整中文指南。帮你理解这款传奇增量游戏的核 心循环、Ascension（转生）机制、Golden
+  Cookies（黄金曲奇）运用技巧，以及如何在中后 期高效规划每一次周目。
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/cookie-clicker.jpg
 tags:
@@ -21,56 +20,100 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] Cookie Clicker is the archetypal incremental (or "idle") game that revolves around a simple objective: generate as many cookies as possible. The game begins with the player clicking a large cookie on the screen, earning one cookie per click. These cookies are then used as currency to purchase assets, or "buildings," such as Cursors, Grandmas, and Farms, which automatically produce cookies over time, increasing your Cookies per Second (CpS).
+《Cookie Clicker 曲奇点击器》是增量（Incremental）/放置（Idle）类游戏的代表作，核心
+目标看似非常简单：**尽可能多地生产曲奇饼干**。游戏一开始，屏幕上只有一块巨大的曲奇，
+你每点击一次就能获得 1 块饼干。随后，你可以用饼干购买各种“建筑”（Cursors 光标、
+Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从而提升你的每秒曲奇产量
+（Cookies per Second，CpS）。
 
-[ZH TRANSLATION NEEDED] As you progress, you unlock a vast array of upgrades that boost the efficiency of your clicks and buildings. The core of the game is managing this exponential growth. The numbers quickly escalate from hundreds to thousands, then millions, billions, and into astronomical figures. Key mechanics like the "Ascension" (a prestige system), randomly appearing Golden Cookies, and various minigames add layers of strategy, transforming a simple clicking exercise into a deep and surprisingly complex optimization puzzle.
+随着游戏推进，你可以解锁大量升级，显著提升点击与建筑的效率。核心乐趣在于如何管理这
+种指数级的成长：数字会从几十、几百，很快膨胀到数百万、数十亿，甚至天文数字。转生
+（Ascension）这种“声望系统”、随机出现的 Golden Cookies（黄金曲奇）以及一系列小型玩法
+（Minigames）都会不断加入，为这款看似只是“点饼干”的游戏增添大量策略与优化空间。
 
 ### **Gameplay Strategy & Tips**
 
-[ZH TRANSLATION NEEDED] Strategy in Cookie Clicker is about efficiency and knowing when to make key decisions.
+《Cookie Clicker》中最关键的是效率，理解关键决策点何时出现。
 
-[ZH TRANSLATION NEEDED] **1. Early Game (Your First Run):**
-*   **Initial Clicks**: Start by manually clicking the cookie until you can afford your first Cursor.
-*   **Buy Buildings**: Continuously buy the cheapest, most effective building available. A good strategy is to buy one of each building type as you unlock them to see what upgrades become available.
-*   **CLICK THE GOLDEN COOKIES**: This is the most important tip. A golden cookie will randomly appear on screen every few minutes. Clicking it grants a powerful, temporary bonus (like "Frenzy," which multiplies your CpS by 7, or "Click Frenzy," which multiplies your click power by 777). These are essential for rapid progress.
-*   **Buy Upgrades**: As soon as an upgrade appears in the store, try to buy it. They provide significant percentage-based boosts to your CpS.
+**1. 初期（第一次游玩）**
 
-[ZH TRANSLATION NEEDED] **2. Mid Game (Preparing for Ascension):**
-*   **What is Ascension?**: Ascension is the game's prestige mechanic. You can choose to reset your game (losing your cookies, buildings, and upgrades) in exchange for Heavenly Chips and Prestige Levels. Each Prestige Level gives a permanent +1% boost to your CpS for all future playthroughs.
-*   **When to Ascend First**: The most common advice is to ascend for the first time when you have accumulated **200-440** Prestige Levels. Ascending too early is inefficient. You can see your potential prestige level in the "Stats" menu under "Legacy."
-*   **Spending Heavenly Chips**: After ascending, you enter a new screen where you can spend your Heavenly Chips on powerful, permanent celestial upgrades. For your first ascension, focus on upgrades like "Persistent memory," "How to bake your dragon," and the "Cookie box" upgrades.
+*   **起步点击：** 一开始先手动疯狂点击大曲奇，直到你能购买第一个 Cursor。 
+*   **购买建筑：** 之后尽量保持饼干不闲着，优先购买当前“性价比”最高的建筑。比较常见的
+    做法是，每解锁一种新建筑，至少买上 1 个看看能解锁哪些新升级。
+*   **一定要点 Golden Cookies（黄金曲奇）：** 这是初期最重要的技巧。黄金曲奇会每隔几分
+    钟随机出现在屏幕上，点击后可获得强力临时增益，例如：
+- **Frenzy：** 临时将 CpS 乘以 7；
+    *   **Click Frenzy：** 点击伤害乘以 777。  
+    这些效果对于快速滚雪球极其关键，看到黄金曲奇务必优先点击。
+*   **尽早购入升级：** 只要商店出现升级图标，尽量优先购买。大多数升级都会提供百分比
+    加成，对整体 CpS 的提升往往远大于同价位建筑。
 
-[ZH TRANSLATION NEEDED] **3. Late Game (Efficient Runs & Minigames):**
-*   **The Loop**: The late game consists of repeating the cycle: start a new run, buy buildings and upgrades quickly, leverage Golden Cookie combos (e.g., getting a "Frenzy" and a "Click Frenzy" at the same time for a massive boost), push as far as you can, and ascend again for more Prestige.
-*   **The Grandmapocalypse**: Researching specific "Bingo center" upgrades will trigger the Grandmapocalypse. This changes the game's appearance and replaces Golden Cookies with "Wrath Cookies," which have a chance of giving negative effects. It's a strategic choice: you can either embrace it for its unique rewards or pay to appease the grandmas and end it.
-*   **Minigames**: As you level up certain buildings with Sugar Lumps, you unlock complex minigames (the Garden, the Pantheon, the Grimoire). Mastering these provides huge long-term bonuses but requires active management.
-*   **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
+**2. 中期（为 Ascension 做准备）**
+
+*   **什么是 Ascension？**  
+    Ascension 是本作的“转生/声望”系统。你可以选择重置游戏：失去当前的饼干、建筑与升级
+    ，换取 Heavenly Chips 和 Prestige 等级。每 1 点 Prestige 等级都会为未来所有周目提供
+    永久的 +1% CpS 加成。
+*   **第一次转生大概什么时候合适？**  
+    社区普遍建议：首次 Ascension 至少等到拥有 **200–440 级 Prestige** 再进行。太早转生
+    很不划算。你可以在 Stats（统计）菜单的 Legacy 部分查看“若现在转生，将获得多少
+    Prestige”。
+*   **Heavenly Chips 应该怎么花？**  
+    转生后会进入一个“天界升级树”界面，你可以用 Heavenly Chips 购买永久增强。第一次转
+    生时，常见优先级较高的有：
+- 提升基础产量/解锁快捷功能的核心天界升级；
+- 与龙、Cookie Box 等相关的增强项目，为后续周目打基础。
+
+**3. 后期（高效周目与 Minigames）**
+
+*   **核心循环：** 进入中后期后，游戏节奏会变成：“新周目开局 → 快速补齐早期建筑与升
+    级 → 利用 Golden Cookie 组合（例如在 Frenzy 状态下触发 Click Frenzy）冲一波爆发 →
+    在增长放缓时转生，吃下新的 Prestige 加成”。
+*   **Grandmapocalypse（奶奶末日）：** 通过研究特定的“Bingo center” 升级可以触发奶奶末
+    日事件。此时画风会变得阴森，Golden Cookies 也会被部分替换为效果更极端的 Wrath
+    Cookies。它既带来风险，也带来更高收益与特殊奖励。你可以选择只停留在第一阶段，保
+    留部分黄金曲奇，也可以在更强时彻底拥抱它，或者干脆通过升级“安抚奶奶”来关闭该状态
+    。
+*   **Minigames 与 Sugar Lumps：** 当某些建筑被用 Sugar Lumps 升到一定等级后，会解锁对
+    应的小玩法（如 Garden 花园、Pantheon 神殿、Grimoire 魔法书）。这些 Minigames 在长期
+    来看能带来可观增益，但需要一定的主动管理。Sugar Lumps 大约每 24 小时自然生成 1 个
+    ，可用于给建筑升级，每级为该建筑类型提供永久 +1% CpS。
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The game is controlled almost entirely with the mouse, but a few key interface elements are important.
+游戏主要通过鼠标操作完成，但熟悉界面与快捷键能显著提升效率。
 
-*   **Mouse Click**: Click the big cookie, Golden Cookies, upgrades, and buildings.
-*   **Buy/Sell Toggles**: At the top of the store, you can toggle between buying **1, 10, or 100** of a building at a time. Using the "Buy 100" toggle is essential for efficiency in the late game.
-*   **Keyboard Shortcuts**:
-     *   **CTRL + SHIFT + Click**: Buys 10 of a building/upgrade.
-     *   **CTRL + Click**: Buys 100 of a building/upgrade.
-     *   **SHIFT + Click**: Buys 1000 of a building/upgrade.
+*   **鼠标点击：** 点击大曲奇、黄金曲奇、商店升级与建筑。 
+*   **购买数量切换：** 商店顶部可以切换一次购买 **1、10、100** 个建筑。到了中后期，灵活
+    使用“买 100”对快速拉高产量非常关键。
+*   **常用键盘快捷键：**
+    *   **Ctrl + Shift + 点击：** 一次购买 10 个建筑/升级；
+    *   **Ctrl + 点击：** 一次购买 100 个建筑/升级；
+    *   **Shift + 点击：** 一次购买 1000 个建筑/升级（具体以游戏版本为准）。
 
 ### **Frequently Asked Questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. When is the best time to ascend?**
-[ZH TRANSLATION NEEDED] For your first ascension, wait until you have at least 200-440 Prestige Levels. After that, ascend whenever your progress slows down significantly. An efficient run in the mid-to-late game might last a few hours or a day.
+**1. 什么时候转生最划算？**  
+对于第一次 Ascension，一般建议至少等到 200–440 Prestige 左右再转。之后每一轮可根据自
+己节奏调整：当你发现升级成本飙升、CpS 增长明显放缓、短期内难以获得里程碑升级时，就
+可以考虑开启下一次转生。中后期一轮效率较高的周目通常持续数小时到一天左右。
 
-[ZH TRANSLATION NEEDED] **2. What is the point of the Grandmapocalypse? Should I activate it?**
-[ZH TRANSLATION NEEDED] The Grandmapocalypse unlocks powerful upgrades and achievements. However, Wrath Cookies can be detrimental. Many players choose to stay in the first stage of it, which gives a mix of Golden and Wrath cookies, or they avoid it entirely until they are powerful enough to not care about the negative effects. It's a valid strategic choice either way.
+**2. Grandmapocalypse（奶奶末日）到底要不要开启？**  
+奶奶末日会解锁一系列强力升级与成就，但 Wrath Cookies 也可能带来负面效果。很多玩家选
+择停留在第一阶段，既获得部分收益，又保留一定比例的黄金曲奇；也有人完全不碰，等到
+自己足够强大再开启。无论选择哪种路线，只要理解利弊，都是合理策略。
 
-[ZH TRANSLATION NEEDED] **3. What should I spend my Sugar Lumps on first?**
-[ZH TRANSLATION NEEDED] A good strategy is to use your first Sugar Lump to upgrade your Farms to level 1 to unlock the Garden minigame. After that, upgrading Wizard Towers to unlock the Grimoire and Temples to unlock the Pantheon are high priorities.
+**3. Sugar Lumps 应该先点在哪里？**  
+比较通用的建议是：第一颗 Sugar Lump 先升 Farm 至 1 级，解锁 Garden 小玩法；之后优先考
+虑升级 Wizard Tower（解锁 Grimoire）和 Temple（解锁 Pantheon），这些 Minigames 的收益
+都比较可观。
 
-[ZH TRANSLATION NEEDED] **4. How do I get Golden Cookie combos?**
-[ZH TRANSLATION NEEDED] It's mostly based on luck. The spell "Force the Hand of Fate" from the Grimoire (Wizard Tower minigame) allows you to spawn an extra Golden Cookie, which is the primary method for intentionally creating powerful combos.
+**4. 怎样更稳地打出 Golden Cookie 组合？**  
+本质上依然有运气成分，但通过解锁 Grimoire 并使用“Force the Hand of Fate”法术，可以人为
+地制造额外黄金曲奇，从而提高刷出“Frenzy + Click Frenzy”等组合的概率。高级玩家通常会配
+合时间线与 Buff 持续时间做更精细的规划。
 
-[ZH TRANSLATION NEEDED] **5. Is there an end to Cookie Clicker?**
-[ZH TRANSLATION NEEDED] No. The game is designed to be effectively endless. The goal is to see the numbers go up and to unlock all achievements and upgrades, which is a monumental task.
-
+**5. 这游戏有真正的结局吗？**  
+没有。《Cookie Clicker》被设计成一款几乎无限延展的游戏。目标更多是解锁尽可能多的成就
+与升级、不断刷新历史最高产量，以及尝试不同的玩法流派与“周目节奏”，而不是打到某个固
+定终点。

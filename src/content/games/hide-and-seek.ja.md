@@ -1,43 +1,36 @@
 ---
+title: "Hide And Seek! (かくれんぼ！)"
+description: "カジュアルなステルス鬼ごっこ：隠れる側はNPCに紛れてアイテムを集め、探す側（鬼）は視界やダッシュを使って時間切れになる前に全員捕まえましょう。"
+iframeSrc: "https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/"
+thumbnail: "/new-images/hide-and-seek.jpg"
+urlstr: "hide-and-seek"
+score: "4.5/5  (917 votes)"
+tags: ["stealth", "arcade"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: hide-and-seek
-title: '[JA TRANSLATION NEEDED] Hide And Seek!'
-description: >-
-  [JA TRANSLATION NEEDED] Casual stealth‑tag: as a hider, blend and collect; as
-  a seeker, use vision cones and sprints to catch everyone before time runs out.
-iframeSrc: >-
-  https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
-thumbnail: /new-images/hide-and-seek.jpg
-tags:
-  - stealth
-  - arcade
-score: 4.5/5  (917 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Hide and Seek!（かくれんぼ！）は、遊び場の鬼ごっこを見下ろし型のステルスゲームにアレンジしました。隠れる側（Hider）はNPCの群衆に紛れ、アイテムを集め、鬼の巡回を避けながら目的を達成します。探す側（Seeker/鬼）としては、動きのパターンを観察し、ダッシュやガジェットを使い、時間切れになる前に怪しいプレイヤーをあぶり出します。
 
+### 遊び方
+- **隠れる側:** 群衆と一緒に動き、タスクを完了し、追われたら視線を切りましょう。
+- **探す側:** マップのチョークポイント（要所）を覚え、目的の場所をチェックし、奇妙な動きに反応しましょう。
+- **パワーアップ:** モードに応じて、一時的な透明化、スピードアップ、位置特定などが得られます。
 
-### Overview
-[JA TRANSLATION NEEDED] Hide and Seek! adapts playground tag into top‑down stealth. Hiders blend among NPCs, gather items, and finish objectives while avoiding the seeker’s patrol. As the seeker, you watch movement patterns, use sprints or gadgets, and flush out suspicious players before the timer ends.
+### 操作方法
+- **WASD/矢印キー**で移動。パワーアップ用のアクションキーはホストによって異なります。
 
-### How to Play
-- As a hider: move with the crowd, complete tasks, and break line‑of‑sight when chased.
-- As a seeker: learn map chokepoints, check objectives, and react to odd pathing.
-- Power‑ups provide short invisibility, speed, or reveals depending on mode.
+### ヒント
+- **隠れる側:** NPCの一時停止やターンを真似しましょう。ダッシュは必要な時だけ使いましょう。
+- **探す側:** 目的地の周りを回りましょう。本物のプレイヤーは角やドアで迷う動きを見せます。
+- 急な方向転換などの、視覚的・聴覚的な手がかりを利用しましょう。
 
-### Controls
-- WASD/Arrows to move; action key for power‑ups (host dependent).
-
-### Tips
-- Hiders: mimic NPC pauses and turns; sprint only when necessary.
-- Seekers: circle objectives; real players hesitate at corners and doors.
-- Use audio/visual tells like sudden direction changes.
-
-### FAQ
-- Q: How do I avoid being caught as a hider?  
-[JA TRANSLATION NEEDED]   A: Blend in—match NPC cadence, avoid straight sprints, and use obstacles to break vision.
-- Q: What is the best seeker strategy on new maps?  
-[JA TRANSLATION NEEDED]   A: Patrol objectives and chokepoints first, then sweep open spaces.
-- Q: Do power‑ups respawn during a match?  
-[JA TRANSLATION NEEDED]   A: Many modes respawn items on timers; learn locations.
-
+### よくある質問 (FAQ)
+- **Q: 隠れる側で捕まらないようにするには？**  
+  A: 周囲に溶け込みましょう。NPCの歩調に合わせ、直線的なダッシュは避け、障害物を使って視線を遮ります。
+- **Q: 新しいマップでの最良の鬼の戦略は？**  
+  A: まず目的の場所やチョークポイントを巡回し、その後に開けたスペースを一掃しましょう。
+- **Q: 試合中にパワーアップはリスポーン（復活）しますか？**  
+  A: 多くのモードではタイマーでアイテムが復活します。場所を覚えましょう。

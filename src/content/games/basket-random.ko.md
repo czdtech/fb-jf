@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: basket-random
-title: '[KO] Basket Random'
+title: 'Basket Random 배스킷 랜덤'
 description: >-
-  [KO] A guide to Basket Random, the wacky and unpredictable physics-based
-  basketball game. Learn the one-button controls, strategies for embracing
-  chaos, and how to win in this hilarious 2-player game.
+  물리 엔진으로 캐릭터가 엉뚱하게 날아다니는 1버튼 농구 게임입니다. 매 라운드
+  코트와 공, 캐릭터가 랜덤으로 바뀌는 혼돈 속에서 5점을 먼저 넣어 보세요.
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/basket-random.jpg
@@ -16,56 +15,75 @@ score: 4.2/5  (284 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+*Basket Random*은 극도로 랜덤한 물리 연출로 유명한 2D 농구 게임입니다.
+두 팀의 래그돌 캐릭터가 코트 위에서 엉망진창으로 날아다니며, 먼저 5점을
+넣는 쪽이 승리합니다.
 
+이 게임의 특징은 한 골이 들어갈 때마다 **거의 모든 요소가 바뀐다는 것**입니다.
+코트 길이가 길어지거나 짧아지고, 바닥이 빙판이 되거나, 캐릭터의 팔과 머리가
+비정상적으로 길어지기도 합니다. 심지어 공도 농구공, 미식축구공, 볼링공 등으로
+형태와 무게가 바뀔 수 있습니다.
 
+플레이어는 단 하나의 버튼으로만 캐릭터를 점프·팔 휘두르기 상태로 만들 수 있어,
+정교한 조작보다는 "언제 버튼을 누를지" 타이밍을 맞추는 것이 중요합니다. 그만큼
+반 예측 불가능한 상황에서 웃음을 주는 파티용 게임에 가깝습니다.
 
+### 플레이 전략
 
-### Detailed Introduction
+이기는 비결은 혼돈을 **통제하려 하기보다, 적당히 길들이는 것**입니다.
 
-*Basket Random* is a chaotic and hilarious physics-based basketball game defined by its extreme randomness. The game pits two teams of two ragdoll-like players against each other on a 2D court. The objective is simple: be the first team to score 5 points.
+1.  **완전한 조종은 불가능하다고 받아들이기:** 캐릭터는 자주 넘어지고, 예상치 못한
+    방향으로 튑니다. 동작을 세밀하게 제어하기보다는, 중요한 순간에 점프·팔 휘두르기
+    버튼을 눌러 흐름만 살짝 바꾼다는 느낌으로 접근하세요.
+2.  **타이밍 익히기:**
+    *   **공격 시:** 공 쪽으로 몸을 던져 캐릭터가 공을 품었을 때, 다시 한 번 점프
+        타이밍을 맞춰 골대 방향으로 튕겨 내는 느낌으로 버튼을 누르세요.
+    *   **수비 시:** 상대가 골대 근처에서 점프하려 할 때, 같은 타이밍에 점프해
+        몸을 던지면 블록이나 스틸이 나올 수 있습니다.
+3.  **상대/아군도 장애물로 활용:** 물리는 모든 캐릭터에 똑같이 적용됩니다.
+    서로 부딪히면 공이 튕겨 나가거나 궤적이 바뀌므로, 때로는 상대를 밀쳐 공을
+    빼앗거나, 아군 몸을 디딤돌처럼 밟고 더 높이 점프하는 상황도 생깁니다.
+4.  **새 라운드마다 즉시 적응:** 득점 후에는 코트, 캐릭터, 공 속성이 바뀝니다.
+    바닥이 미끄러운 빙판인지, 공이 무거운 볼링공인지 등을 빠르게 파악하고,
+    그에 맞춰 점프 타이밍과 위치 잡기를 조정해야 합니다.
+5.  **기본 위치 의식:** 랜덤 요소가 많더라도, 수비 시에는 내 골대 쪽을 지키고
+    공격 시에는 공 아래쪽을 선점하려는 기본 위치 감각을 유지하면 승률이
+    확실히 올라갑니다.
 
-What makes the game unique is that almost everything changes with every point scored. The court might become long, short, or icy. The players might get long arms, big heads, or become bouncy. Even the ball itself can change, transforming from a standard basketball into a football, a bowling ball, or even a smaller, faster ball.
+### 조작 방법
 
-Players have extremely limited control over their characters, who move and jump in an unwieldy, floppy manner. The gameplay is less about precise skill and more about mastering the timing of a single button press to jump, flail, and hopefully guide the ball into the opponent's hoop. This unpredictable nature makes every match a frantic and comical experience.
+버전별로 키 배치는 조금씩 다르지만, 기본적으로 플레이어당 한 개의 키만
+사용합니다.
 
-### Gameplay Strategy
+*   **플레이어 1 (PC):**
+    *   **`W`** 또는 **위쪽 화살표**를 눌러 점프/팔 휘두르기를 실행합니다.
+*   **플레이어 2 (PC):**
+    *   **위쪽 화살표** 또는 **`W`** 등, 버전에 따라 지정된 키 하나로 동일한 동작을 합니다.
+*   **모바일 / 터치:**
+    *   화면 왼쪽(1P)·오른쪽(2P)을 탭하면 각 플레이어의 점프가 발동합니다.
 
-Winning in *Basket Random* is about taming the chaos, not controlling it.
+### 자주 묻는 질문 (FAQ)
 
-1.  **[KO]** **Embrace the Chaos:** The first and most important rule is to accept that you cannot fully control your players. They will stumble, fall, and spin unpredictably. The goal is to influence their actions at the right moment, not dictate their every move.
-2.  **[KO]** **Master Your Timing:** Since you only have one button, *when* you press it is the only skill that matters.
-    *   **[KO]** **On Offense:** Press the button to jump towards the ball or to perform a "shooting" motion when you have it. Sometimes a well-timed jump can launch the ball from your hands directly into the basket.
-    *   **[KO]** **On Defense:** Timing your jump correctly can block an opponent's shot or even steal the ball mid-air. Get your player between the ball and your basket.
-3.  **[KO]** **Use Your Opponent (and Teammate):** The physics engine applies to everyone. Bumping into other players can knock the ball loose or change their trajectory. You can even inadvertently use another player's head as a platform to jump higher.
-4.  **[KO]** **Adapt Instantly to New Conditions:** After every point, take a split second to assess the new random elements. Is the court now covered in ice? Is the ball heavy? Are your arms comically long? Your strategy must change immediately. For example, on an icy court, you'll slide more, so you need to press the button earlier to account for the drift.
-5.  **[KO]** **Positional Awareness:** Despite the randomness, try to keep your players in a useful position. On defense, stay closer to your own basket. On offense, try to get under the ball to propel it toward the opponent's hoop.
+**1. 캐릭터를 제대로 조종할 수가 없어요.**  
+원래 그런 게임입니다. 한 번의 버튼으로만 조작하며, 래그돌 물리 특성상
+의도대로 움직이지 않도록 설계되어 있습니다. 핵심은 움직임을 완전히 제어하는
+것이 아니라, 중요한 순간의 타이밍을 잡는 것입니다.
 
-### Controls Guide
+**2. 왜 점수마다 코트와 공, 캐릭터가 바뀌나요?**  
+이것이 바로 이름 그대로의 "랜덤" 요소입니다. 매 라운드가 새롭게 느껴지도록
+하기 위한 장치이며, 예측 불가능함 자체가 게임의 재미입니다.
 
-The game is famous for its extremely simple, single-button control scheme, designed for two players on one keyboard.
+**3. 어떻게 이기나요?**  
+먼저 5점을 넣는 쪽이 승리합니다. 각 골마다 환경이 바뀌니, 매 상황에 최대한
+빨리 적응하는 것이 중요합니다.
 
-*   **[KO]** **Player 1:**
-    *   **[KO]** **`W` Key** or **`Up Arrow` Key**: Jump / Fling arms.
-*   **[KO]** **Player 2:**
-    *   **[KO]** **`Up Arrow` Key** or **`W` Key**: Jump / Fling arms. (The controls depend on the specific version, but it's always one key per player).
-*   **[KO]** **For Mobile / Touchscreen Devices:**
-    *   **[KO]** Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
+**4. 혼자서도 플레이할 수 있나요?**  
+네, CPU와 대결하는 1인용 모드가 포함된 버전도 많습니다.
 
-### Frequently Asked Questions (FAQ)
-
-**1. How do I properly control my character?**
-You don't—and that's the point of the game! You can only influence your character by timing your jumps. The ragdoll physics are designed to be clumsy and unpredictable for comedic effect.
-
-**2. Why does the court/ball/player change after every point?**
-This is the core "Random" mechanic of the game. It ensures that no two rounds are the same and keeps the gameplay fresh and unpredictable.
-
-**3. How do I win a match?**
-The first player (or team) to score 5 points wins the entire match.
-
-**4. Can I play this game by myself?**
-Yes, *Basket Random* includes a single-player mode where you can compete against a computer-controlled AI opponent.
-
-**5. What is the best "random" variation?**
-There is no "best" variation, as they are all designed to be chaotic. However, some players find the long-armed players useful for blocking and shooting, while others enjoy the challenge of a heavy bowling ball or an icy court. The fun comes from adapting to whatever the game throws at you.
-
+**5. 가장 좋은 랜덤 변형은 무엇인가요?**  
+정해진 답은 없습니다. 어떤 플레이어는 팔이 길어지는 변형에서 블록과 슛이
+쉬워 좋다고 느끼고, 어떤 사람은 빙판 코트나 무거운 공의 혼란스러움을 더
+즐기기도 합니다. 중요한 것은 매 판 달라지는 상황을 받아들이고 적응하는
+과정입니다.

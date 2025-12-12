@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: differences-find-quest
-title: '[KO] Differences Find Quest'
+title: "Differences Find Quest 틀린 그림 찾기 퀘스트"
 description: >-
-  [KO] Differences Find Quest is a detailed spot‑the‑difference — scan scenes,
-  mark discrepancies, and use hints wisely.
+  두 장의 그림을 비교해 다른 점을 찾아내는 퍼즐 게임입니다. 섬세한 차이를
+  발견하고, 힌트를 아껴 쓰며 모든 차이를 찾아 보세요.
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/differences-find-quest.png
 tags:
@@ -16,36 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Differences Find Quest는 서로 비슷해 보이는 두 장의 이미지를 비교해 작은 차이를
+찾아내는 “틀린 그림 찾기” 퍼즐입니다. 사라진 물건, 색이 바뀐 부분, 좌우가 뒤집힌
+패턴, 크기가 다른 물체 등 다양한 형태의 차이가 숨겨져 있습니다. 후반 스테이지로
+갈수록 찾을 개수와 난이도가 늘어나고, 시야를 헷갈리게 하는 구도와 완만한 시간
+제한이 더해집니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Differences Find Quest challenges you to compare two images and spot subtle changes: missing objects, color swaps, flipped patterns, or size variations. Later levels add more differences, trick angles, and gentle time pressure.
+1. **영역을 나누어 스캔하기**  
+   그림 전체를 한 번에 보려 하지 말고, 4~6개의 구역으로 머릿속에서 나누어
+   각 구역을 차례대로 훑어보세요.  
+2. **경계선과 그림자 살피기**  
+   차이는 물체의 테두리, 그림자, 반복되는 질감 주변에 몰려 있는 경우가 많습니다.
+   배경보다 경계와 모서리를 우선적으로 확인해 보세요.  
+3. **확대 기능 활용하기**  
+   지원되는 버전이라면 줌인을 활용해 작은 아이콘이나 색 변화처럼 눈에 잘
+   띄지 않는 부분을 자세히 보는 것이 좋습니다.  
+4. **힌트는 마지막 1~2개에만 사용하기**  
+   힌트는 보통 개수가 한정되어 있고, 일부 모드에서는 점수나 시간을 깎습니다.
+   대부분을 직접 찾은 뒤, 끝까지 안 보이는 1~2개에만 쓰는 것을 추천합니다.  
+5. **잠깐 눈을 쉬게 하기**  
+   같은 화면을 너무 오래 보고 있으면 작은 차이가 잘 보이지 않습니다. 짧게
+   눈을 감거나 다른 곳을 보고 다시 돌아오면 새롭게 보이는 부분이 생기기도 합니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Grid scan: Divide the image into 4–6 zones and sweep each zone methodically.
-2.  **[KO]** Look for edges: Differences cluster at borders, shadows, and repeated textures.
-3.  **[KO]** Zoom if possible to check small details.
-4.  **[KO]** Save hints for the final 1–2 stubborn differences.
-5.  **[KO]** Take short breaks to reset your visual focus.
+- 두 이미지 중 어느 한쪽에서든 차이가 보이는 위치를 탭/클릭합니다.  
+- 잘못 클릭하면 시간이나 점수가 깎일 수 있으니, 확실할 때만 누르세요.  
+- 힌트 버튼이 있는 경우, 사용 시 차이가 있는 위치가 강조 표시됩니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Tap differences on either image; wrong taps may cost time.
-- Use hints sparingly; some modes penalize excessive hints.
+- **Q: 마지막 하나가 도저히 안 보입니다. 어떻게 해야 하나요?**  
+  **A:** 한숨 돌리고 화면에서 잠시 눈을 떼었다가, 특히 테두리·그림자·반복 패턴
+  주변 위주로 다시 훑어 보세요. 그래도 안 보이면 힌트를 사용하는 것이 좋습니다.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 오답을 클릭하면 불이익이 있나요?**  
+  **A:** 많은 모드에서 오답 클릭 시 시간이나 점수가 줄어듭니다. 너무 빠르게
+  누르기보다 차이를 확실히 인지한 뒤 클릭하세요.  
 
-- Q: I’m stuck on the last difference — what now?
-
-A: Step back, re‑scan edges and repeated patterns, then use a hint if available.
-
-- Q: Do I lose time for mistakes?
-
-A: Many modes deduct time or score for mis‑clicks; be deliberate.
-
-- Q: Any trick for tiny color shifts?
-
-A: Squint slightly or zoom — it can reveal subtle contrast differences.
+- **Q: 미세한 색 변화는 어떻게 찾나요?**  
+  **A:** 화면을 조금 멀리서 보거나, 살짝 눈을 가늘게 뜨면 색 대비가 더 도드라져
+  보일 수 있습니다. 확대 기능이 있다면 함께 활용해 보세요.  
 

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: zombie-hunter-survival
-title: '[KO] Zombie Hunter: Survival'
+title: 'Zombie Hunter: Survival 좀비 헌터: 서바이벌'
 description: >-
-  [KO] Zombie Hunter: Survival is a tense top‑down shooter — kite hordes,
-  conserve ammo, and survive waves.
+  탑다운 시점에서 몰려오는 좀비 무리를 상대하는 생존 슈팅 게임입니다. 넓게 유인(kiting)해 탄약을 아끼고, 재장전 타이밍과 이동 경로를
+  계산해 끝없이 이어지는 웨이브를 버텨 보세요.
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/zombie-hunter-survival.png
 tags:
@@ -15,28 +15,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Zombie Hunter: Survival은 상단 시점에서 캐릭터를 조종해 사방에서 몰려오는 좀비 웨이브를 버텨 내는
+생존형 슈팅 게임입니다. 좁은 골목과 장애물이 많은 아레나를 돌아다니며, 탄약과 재장전, 체력을
+관리하면서 최대한 오래 살아남는 것이 목표입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Zombie Hunter: Survival is a survival‑style shooter. Move through cramped arenas, manage ammo and reload windows, and cut safe kiting paths while escalating waves pressure positioning and crowd control.
+1.  **원형으로 묶어 쏘기(Circle Kiting)**: 넓은 원을 그리며 달리면 좀비들이 한 덩어리로 모입니다.
+    이때 뒤를 돌아 한 번에 여러 마리를 맞히면 탄약을 훨씬 아낄 수 있습니다.
+2.  **재장전 타이밍 지키기**: 좀비와 정면으로 대치하는 순간에 재장전 버튼을 누르면 쉽게 물려 버립니다.
+    웨이브 사이 잠깐의 여유 시간이나, 긴 유인 중 뒷쪽이 비었을 때 재장전을 해 두세요.
+3.  **좁은 통로 활용하기**: 장애물 사이의 좁은 통로에서 싸우면 좀비가 한 줄로 몰려오기 때문에
+    명중률이 올라가고, 탄약을 절약할 수 있습니다. 다만 막다른 길은 피해야 합니다.
+4.  **우선순위 목표 정하기**: 발이 빠르거나 원거리 공격을 하는 좀비가 있다면 우선적으로 제거해
+    기동력을 확보하세요. 느린 좀비는 나중에 한꺼번에 처리해도 됩니다.
+5.  **탄약·체력 상자는 안전할 때만**: 맵 곳곳에 떨어진 탄약과 회복 상자를 욕심내다가 포위되기 쉽습니다.
+    주변 상황을 잘 살펴, 도망 경로가 확보된 상태에서만 회수해 주세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Circle kite: Run wide circles to group zombies and fire into clumps.
-2.  **[KO]** Reload discipline: Reload between waves or during long kites—not face‑to‑face.
-3.  **[KO]** Funnel use: Fight in chokepoints for cleaner head‑on shots.
-4.  **[KO]** Target priority: Eliminate fast/ranged threats first.
-5.  **[KO]** Resource grabs: Take ammo/health only when routes are clear.
+- **이동**: `WASD` 또는 방향키로 캐릭터를 이동합니다.
+- **조준 및 사격**: 마우스로 조준하고 클릭해 발사하거나, 일부 버전에서는 키보드 방향에 따라 자동
+  조준이 이루어질 수 있습니다.
+- **재장전/무기 교체**: 화면 UI 또는 지정된 키로 재장전하고, 다른 무기가 있다면 교체할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Move with WASD/Arrows; aim with mouse or keys; fire/Reload per UI.
-- Swap weapons if available.
+- **Q. 자꾸 구석에 몰려 죽습니다.**  
+  **A:** 막다른 길로 이어지는 루트는 되도록 피하고, 항상 한 칸 이상의 탈출로가 보이는 위치에서
+  싸우세요. 맵 구조를 익혀 "위기 시 도망 루트"를 미리 만들어 두는 것도 중요합니다.
 
-### Frequently Asked Questions (FAQ)
+- **Q. 탄약이 항상 부족해요.**  
 
-- I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
-- Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
 - Bosses? Some waves add elites—kite wider and clear minions first.
-
+  **A:** 군중 속에 무작정 난사하기보다, 원형 유인으로 좀비를 묶은 뒤 한 줄로 정렬되었을 때만
+  사격하면 탄약 효율을 크게 높일 수 있습니다. 탄약 상자는 위험할 때보다 안전할 때 미리 챙겨 두는
+  것이 좋습니다.

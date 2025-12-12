@@ -1,69 +1,37 @@
 ---
+title: "Fruit Chef"
+description: "Fruit Chefは迅速なスライスゲームです。クリーンなカットをチェインさせ、爆弾を避け、モンスターコンボのためにテンポを管理しましょう。"
+iframeSrc: "https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/"
+thumbnail: "/new-images/fruit-chef.png"
+urlstr: "fruit-chef"
+score: "4.1/5  (1948 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: fruit-chef
-title: '[JA TRANSLATION NEEDED] Fruit Chef'
-description: >-
-  [JA TRANSLATION NEEDED] Fruit Chef is a swift slice‑’em‑up — chain clean cuts,
-  avoid bombs, and manage tempo for monster combos.
-iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
-thumbnail: /new-images/fruit-chef.png
-tags:
-  - action
-  - casual
-score: 4.1/5  (1948 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Fruit Chefは、クラシックなフルーツスライシングを取り入れています。飛んでくるフルーツを通してクリーンなラインをフリックし、コンボチェーンを構築し、爆弾を避けます。スコアリングエンジンは、狂ったようなスワイプよりも、長く真っ直ぐな複数フルーツカットと安定したリズムを報酬します。
 
-[JA TRANSLATION NEEDED] Fruit Chef channels classic fruit‑slicing: flick clean lines through flying fruit, build combo chains, and avoid bombs. The scoring engine rewards long, straight multi‑fruit cuts and steady rhythm over frantic swipes.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **長いストローク**: コンボボーナスのために、単一の直線で複数のフルーツをスライスします。
+2.  **低いものを追わない**: 低いフルーツがスライスする前に安全な弧に上がるのを待ちます。
+3.  **爆弾の規律**: 爆弾を横切るスワイプは中断します。安全第一です。
+4.  **リズム**: 快適なケーデンス（拍子）を維持します。パニックの揺らぎは精度を減らします。
+5.  **パワーアップ**: スローモーションを密集したボレー（一斉射撃）のために取っておきます。
 
-[JA TRANSLATION NEEDED] 1.  Long strokes: Slice multiple fruits in a single straight line for combo bonuses.
-[JA TRANSLATION NEEDED] 2.  Don’t chase lows: Let low fruit rise into a safe arc before slicing.
-[JA TRANSLATION NEEDED] 3.  Bomb discipline: Abort swipes that would cross bombs; safety first.
-[JA TRANSLATION NEEDED] 4.  Rhythm: Maintain a comfortable cadence; panic flutters reduce accuracy.
-[JA TRANSLATION NEEDED] 5.  Power‑ups: Save slow‑mo for dense volleys.
+### 操作ガイド
 
-### Controls Guide
+- クリックしてドラッグまたはスワイプしてカットします。爆弾を避けます。UIを介して一時停止/再試行します。
 
-- Click‑drag or swipe to cut; avoid bombs; pause/retry via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep hitting bombs — how do I stop?
-  
-[JA TRANSLATION NEEDED]   A: Slice only along clean angles; don’t complete swipes that intersect bombs.
-
-- Q: Best way to score high?
-  
-[JA TRANSLATION NEEDED]   A: Long, straight combo cuts and consistent rhythm.
-
-- Q: Multi‑touch helps?
-  
-
-
-
-
-
-- Q: I keep hitting bombs — how do I stop?
-### よくある質問（FAQ）
-- Click‑drag or swipe to cut; avoid bombs; pause/retry via UI.
-### コントロールガイド
-- Power‑ups: Save slow‑mo for dense volleys.
-[JA TRANSLATION NEEDED]   A: If supported, multi‑finger arcs can cover more screen safely.
-
-
-
-
-
-
-A: If supported, multi‑finger arcs can cover more screen safely.
-- Q: Multi‑touch helps?
-A: Long, straight combo cuts and consistent rhythm.
-- Q: Best way to score high?
-
-
-A: If supported, multi‑finger arcs can cover more screen safely.
+- **Q: 爆弾を打ち続けてしまいます。どうやって止めますか？**
+  A: クリーンな角度に沿ってのみスライスします。爆弾と交差するスワイプは完了しないでください。
+- **Q: 高得点を取る最良の方法は？**
+  A: 長く真っ直ぐなコンボカットと一貫したリズムです。
+- **Q: マルチタッチは役立ちますか？**
+  A: サポートされている場合、複数指の弧はより多くの画面を安全にカバーできます。

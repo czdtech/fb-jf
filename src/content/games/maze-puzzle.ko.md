@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: maze-puzzle
-title: '[KO] Maze Puzzle'
+title: "Maze Puzzle 미로 퍼즐"
 description: >-
-  [KO] Maze Puzzle is a clean labyrinth runner — plot shortest paths, bait
-  patrolling guards, and exit with keys under light timers.
+  Maze Puzzle는 열쇠와 문, 순찰하는 경비를 피해 최단 경로를 찾아 탈출하는 미로 퍼즐
+  게임입니다. 가벼운 시간 제한 속에서 안전하고 효율적인 동선을 설계해 보세요.
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/maze-puzzle.png
 tags:
@@ -17,35 +17,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Maze Puzzle*에서는 열쇠, 잠긴 문, 그리고 가끔 등장하는 순찰 경비가 배치된 작은 미로를
+탐색합니다. 최적의 플레이는 막다른 길과 시야 콘을 피해, 최소 횟수로 열쇠를 회수하고
+안전하게 출구까지 도달하는 동선을 찾는 데 있습니다.
 
-### Detailed Game Introduction
+### 공략 & 진행 팁
 
-Maze Puzzle offers compact labyrinths with keys, doors, and occasional patrolling hazards. Optimal play finds safe, minimal routes that collect keys in efficient sequences while avoiding dead ends and patrol cones.
+1. **열쇠 획득 순서 계획:** 되돌아가는 동선을 최소화할 수 있도록 어떤 열쇠를 먼저
+   가져갈지 미리 정하고 움직이세요.
+2. **랜드마크 활용:** 특이한 바닥 타일이나 구조물을 기준점으로 삼아, 같은 곳을 계속
+   빙빙 도는 루프에 빠지지 않도록 하세요.
+3. **순찰 유도:** 경비의 시야 끝부분에 살짝 들어갔다가 빠져나와, 경비를 유인한 뒤
+   빈 틈을 이용해 옆을 지나가는 식으로 공략할 수 있습니다.
+4. **막다른 길 정리:** 갈림길에서는 가지를 깊게 파고들기보다는, 열쇠로 이어지지 않는
+   지선인지 얕게 확인한 뒤 아니라면 바로 다른 루트로 옮기세요.
+5. **타이머 의식하기:** 시간 제한이 있다고 해서 무작정 달리기보다는, 정확한 동선을
+   찾는 것이 오히려 시간을 더 절약해 줍니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Key ordering: Plan an order that minimizes backtracking.
-2.  **[KO]** Landmarks: Use unique tiles to avoid loops.
-3.  **[KO]** Patrol baiting: Step into edge of vision to lure guards, then slip past.
-4.  **[KO]** Dead‑end pruning: Explore branches shallowly; abandon when they don’t progress keys.
-5.  **[KO]** Timer awareness: Don’t rush — precision saves more time than speed blunders.
+- 방향키 또는 WASD로 이동하고, 문이나 레버 같은 오브젝트는 가까이 다가가면 자동 또는
+  별도의 상호작용 키로 사용할 수 있습니다. 메뉴에서 빠른 재시작도 지원됩니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Arrow/WASD movement; tap to interact; restart quickly from menu.
+- Q: 길을 자꾸 잃어버리는데, 어떻게 하면 덜 헤맬 수 있나요?
 
-### Frequently Asked Questions (FAQ)
+  A: 주요 교차로를 머릿속에 지도처럼 그리거나, 안전한 상황에서는 오른손 법칙(오른쪽
+  벽을 따라가기)을 활용해 한 방향으로만 탐색해 보세요.
 
-- Q: I get lost easily — tips?
+- Q: 문 앞에서 자꾸 경비에게 잡혀요.
 
-A: Mentally map junctions, or trace the right‑hand wall when safe.
+  A: 문을 여는 데는 시간이 필요하므로 문 근처까지 쫓기지 않도록, 훨씬 이전 구간에서
+  미리 경비를 유인해 다른 곳으로 빼 두는 것이 좋습니다.
 
-- Q: Guards catch me near doors.
+- Q: 열쇠는 여러 번 사용할 수 있나요?
 
-A: Lure them long before door zones; doors take time to open.
-
-- Q: Are keys reusable?
-
-A: Usually single‑use; check icons.
-
+  A: 대부분의 스테이지에서는 열쇠가 일회용으로 소모됩니다. HUD나 아이콘 표시를 보고
+  재사용 가능 여부를 확인해 보세요.

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: cooking-mania
-title: '[ZH TRANSLATION NEEDED] Cooking Mania'
+title: "Cooking Mania 疯狂料理时间管理"
 description: >-
-  [ZH TRANSLATION NEEDED] Cooking Mania is a fast time‑management cooker —
-  juggle orders, chain combos, and upgrade kitchens to keep customers happy.
+  《Cooking Mania 疯狂料理时间管理》是一款节奏飞快的餐厅经营游戏。你需要在有限时间
+  内同时处理多张订单，连贯出菜、打出连击，并通过升级厨房设备来保持顾客满意度。
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/cooking-mania.jpg
 tags:
@@ -17,31 +17,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Cooking Mania boils restaurant rush into quick levels: prep ingredients, assemble dishes in order, and serve before timers expire. Equipment upgrades, extra pans, and faster prep let you chain orders for bonus coins.
+《Cooking Mania 疯狂料理时间管理》将餐厅高峰时段的忙碌浓缩进一关又一关短小紧凑的关
+卡中。你需要提前备菜、按顺序组合菜品，并在订单计时结束前把餐点端到顾客面前。随着关
+卡推进，菜单会变得更复杂、顾客更多，稍有迟疑就可能造成订单超时或食材烧焦。
+
+游戏的核心乐趣在于“流畅度”：通过合理安排备菜顺序和出菜节奏，你可以连续完成多张订
+单，打出连锁小费与高分。同时，利用关卡获得的金币升级烤架、台面与备菜效率，可以让你
+在后续关卡中更轻松地应对高压时刻。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Prep in batches for popular items to reduce wait times.
-2.  [ZH TRANSLATION NEEDED] Chain serves: deliver multiple orders back‑to‑back for combo tips.
-3.  [ZH TRANSLATION NEEDED] Upgrade bottlenecks first (e.g., grill count, prep speed).
-4.  [ZH TRANSLATION NEEDED] Prioritize timers: Serve expiring orders before large combos.
-5.  [ZH TRANSLATION NEEDED] Queue logic: Arrange workspace to minimize cursor travel.
+
+1.  **热门菜品批量预制：** 对于出镜率最高的菜品，提前批量准备好基础食材（如面饼、肉排
+    等），可以显著降低顾客等待时间，尤其在高峰期非常关键。
+2.  **追求连击出菜：** 尽可能让多张订单在短时间内连续上菜，很多关卡会对连续服务给予额
+    外小费或分数加成。合理排序“快做菜”与“慢工菜”，能构造节奏感很强的连击链。
+3.  **优先升级瓶颈环节：** 观察自己最常“卡住”的地方——例如烤架数量不够、某些食材准备
+    过慢等。优先升级这类瓶颈（增加烤盘数量、提升备菜速度），比盲目升级装饰效果要高
+    效得多。
+4.  **按计时优先级出菜：** 虽然连击很重要，但一旦有订单临近超时，要及时打断连击计划，
+    先把即将到期的单子送出，避免直接扣分或流失顾客。
+5.  **合理规划操作路径：** 在可见范围内尽量将相关操作区域布置在“一条线”或小范围内（
+    例如烤架、组装台和上菜位置相邻），减少鼠标/手指大幅度来回移动，提高整体操作效率
+    。
 
 ### Controls Guide
 
-- Tap to prep, drag to assemble, and tap customers to serve.
-- Shop for upgrades between levels.
+- 点击进行备菜、烹饪与装盘，通过拖动或点击把完成的菜品送到对应顾客。 
+- 关卡之间可以进入商店购买或升级烤具、台面、上菜速度等设施。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I burn items — how to avoid?
-  
-[ZH TRANSLATION NEEDED]   A: Stagger starts and listen for audio cues; grab items promptly at “perfect” timing.
+- **Q: 老是把食物烧焦怎么办？**  
+  **A：** 尽量错开放上烤架的时间，不要一次把所有原料同时上火。倾听提示音或观察熟度条
+  ，在“刚好熟”的时机立刻取下。宁可少上几份，也不要因为全盘烧焦导致连锁崩盘。
 
-- Q: Which upgrades are best early?
-  
-[ZH TRANSLATION NEEDED]   A: Extra grills/pans and prep speed; décor is optional until later.
+- **Q: 前期优先升级哪些项目比较划算？**  
+  **A：** 建议优先升级烤架/平底锅数量以及备菜速度，这两者能直接提升单位时间出菜上限。
+  环境装饰与额外小费加成可以留到中后期再考虑。
 
-- Q: Can I pause?
-  
-[ZH TRANSLATION NEEDED]   A: Many levels disallow pausing mid‑rush; plan ahead.
-
+- **Q: 关卡中能暂停吗？**  
+  **A：** 很多关卡在高峰阶段不允许随时暂停，即便可以暂停，也可能中断你的节奏。建议在
+  开始前先看清本关菜单与任务目标，心里大致规划好优先做哪些菜，再点击开始。

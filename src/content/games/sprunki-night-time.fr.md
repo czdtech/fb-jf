@@ -1,12 +1,11 @@
 ---
 locale: fr
 urlstr: sprunki-night-time
-title: '[FR] Sprunki Night Time - Play Sprunki Night Time Online'
+title: Sprunki Night Time - Jouer à Sprunki Night Time en ligne
 description: >-
-  [FR] Sprunki Night Time takes you into a dark world full of mystery and
-  unknown, allowing you to experience a psychedelic musical journey in the
-  silence of the night. Come and join Sprunki Night Time, and use your music to
-  light up this deep and mysterious night!
+  Sprunki Night Time t’emmène dans un monde nocturne mystérieux où basses
+  profondes, synthés éthérés et effets fantomatiques se mêlent pour créer une
+  expérience musicale immersive.
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
 thumbnail: /sprunki-night-time.png
 tags:
@@ -15,41 +14,56 @@ tags:
 score: 4.2/5  (324 votes)
 ---
 
+### Présentation de Sprunki Night Time
 
+Tu veux vivre un voyage musical dans le calme de la nuit ? Sprunki Night Time
+est pensé pour ça. Ce Mod associe basses sombres, nappes atmosphériques et
+visuels néon pour créer une ambiance à la fois relaxante et légèrement
+inquiétante.
 
-### Introducing to Sprunki Night Time
+### Qu’a de spécial Sprunki Night Time ?
 
-Want to experience a psychedelic musical journey in the silence of the night? Sprunki Night Time will take you into a dark world full of mystery and unknown! As another evolution of the Night Time series, this Mod perfectly combines the fantasy of Sprunki with the deep nighttime aesthetics, using gloomy basslines, ethereal synthesizers, and ghostly reverbs to create a perfect balance between calm and suspense.
+L’objectif de ce Mod est de te faire « ressentir » la nuit grâce à la musique :
 
-### What's So Special About Sprunki Night Time?
+- lumières néon ;
+- transitions fluides ;
+- couleurs profondes ;
+- sons enveloppants.
 
-Simply put, Sprunki Night Time is about using music to create a nighttime atmosphere. The neon-lit visuals, smooth animations, and cinematic feel make this game not only a hearing pleasure, but also a visual feast.
+Le tout donne un effet presque cinématographique.
 
-### How to Play Sprunki Night Time?
+### Comment jouer à Sprunki Night Time ?
 
-It's actually very simple, just master these points:
+- **Choisis les personnages Night Time :** chaque avatar apporte une couche
+  sonore spécifique (basse, ambiance, effets étranges…).
+- **Superpose les sons nocturnes :** mélange basses profondes, synthés
+  planants et effets inquiétants.
+- **Découvre les surprises :** teste différentes combinaisons pour révéler
+  transitions cachées et effets lumineux spéciaux.
+- **Peaufine ton mix :** ajuste ton morceau pour refléter au mieux
 
-- **Choose Night Time Characters:** Choose Night Time 3.0 characters, each contributing a unique sound to your mix.
-- **Overlay Night Sounds:** Overlay deep bass, ambient synths, and eerie effects to create a dark, immersive rhythm.
-- **Discover Hidden Surprises:** Discover secret audio transitions and glowing visual effects by experimenting with different sound combinations!
 - **Fine-Tune:** Fine-tune your mix to reflect the haunting, futuristic atmosphere of Sprunki Night Time.
+  l’atmosphère futuriste et mystérieuse de la nuit.
 
+### Conseils de jeu
 
-### Tips for Playing Sprunki Night Time:
-
-- **Drag with Mouse:** Drag and drop elements to craft your soundscape.
-- **Adjust with Keyboard:** Adjust tempo, effects, and transitions for deeper customization.
-- **Explore Boldly:** Try different sound layers to reveal hidden beats and visuals.
-
-
-### What Are the Highlights of Sprunki Night Time?
-
-- **Nocturnal Soundscape:** A mix of deep ambient tones, chilling melodies, and rhythmic pulses that evoke a sense of mystery.
-- **Enhanced Visuals:** Neon-lit aesthetics, fluid animations, and glowing effects that enhance the nighttime ambiance.
-- **Interactive Mixing:** Players can experiment with eerie synths, ghostly reverbs, and soft percussions to craft immersive tracks.
-- **Hidden Effects & Transitions:** Unlock dynamic sound shifts and dazzling light effects by blending different audio elements.
+- Utilise la souris pour glisser les personnages et créer ton paysage sonore.
+- Si le Mod le permet, joue avec les raccourcis clavier pour modifier tempo et
+  effets.
+- N’hésite pas à empiler plusieurs couches pour créer une ambiance riche.
 
 
 ### Conclusion:
 
-Sprunki Night Time takes you into a dark world full of mystery and unknown, allowing you to experience a psychedelic musical journey in the silence of the night. Come and join Sprunki Night Time, and use your music to light up this deep and mysterious night!
+- **Hidden Effects & Transitions:** Unlock dynamic sound shifts and dazzling light effects by blending different audio elements.
+
+- **Interactive Mixing:** Players can experiment with eerie synths, ghostly reverbs, and soft percussions to craft immersive tracks.
+
+- **Enhanced Visuals:** Neon-lit aesthetics, fluid animations, and glowing effects that enhance the nighttime ambiance.
+
+- **Nocturnal Soundscape:** A mix of deep ambient tones, chilling melodies, and rhythmic pulses that evoke a sense of mystery.
+
+### What Are the Highlights of Sprunki Night Time?
+Sprunki Night Time est idéal si tu aimes les atmosphères nocturnes, les sons
+profonds et les visuels néon. Laisse ta musique éclairer la nuit.
+

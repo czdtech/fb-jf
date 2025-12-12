@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: butterfly-shimai
-title: '[ES] Butterfly Shimai'
+title: "Butterfly Shimai"
 description: >-
-  [ES] Soar into a beautiful puzzle adventure with Butterfly Shimai! Connect
-  matching butterfly wings to make them fly away and clear the board.
+  Emprende una preciosa aventura de puzles con Butterfly Shimai. Conecta pares de
+  alas iguales para formar mariposas completas, hacerlas volar y limpiar el
+  tablero.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/butterfly-shimai.png
 tags:
@@ -16,32 +17,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Butterfly Shimai es un puzle cautivador y relajante que combina mecánicas de
+Mahjong con el clásico "connect‑2". El tablero se llena de alas de mariposa de
+colores; tu objetivo es encontrar y conectar pares idénticos para que formen una
+mariposa completa y salgan volando, despejando la casilla. El reto está en la
+regla de conexión: solo puedes emparejar alas si se puede trazar entre ellas un
+camino con como máximo dos giros de 90 grados y que no pase por encima de otras
+fichas. Con un límite de tiempo en cada nivel, tendrás que ser rápido y
+estratégico para limpiar todas las mariposas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Butterfly Shimai is a captivating and relaxing puzzle game that combines elements of Mahjong and connect-2 mechanics. The game presents you with a board filled with beautiful butterfly wings. Your objective is to find and connect pairs of identical wings to make them form a complete butterfly and fly away, clearing the board. The challenge lies in the connection rule: wings can only be paired if a path can be drawn between them with no more than two turns, and without passing through any other wings. With a time limit for each level, you need to be quick and strategic to clear all the butterflies.
+1.  **Busca coincidencias evidentes:** Empieza por los pares que están
+    adyacentes o conectados por líneas rectas claras. Son los más fáciles de
+    eliminar y te abrirán el tablero.
+2.  **Prioriza bordes y esquinas:** Las alas situadas en los extremos suelen ser
+    más sencillas de conectar porque tienen menos fichas bloqueando su camino.
+    Limpiarlas primero suele generar nuevas opciones.
+3.  **Piensa en caminos de dos giros:** Recuerda que la ruta puede tener hasta
+    dos cambios de dirección. Intenta visualizar estos caminos en forma de L y
+    de U para encontrar emparejamientos menos obvios.
+4.  **Usa las pistas con moderación:** Si te quedas atascado, normalmente hay un
+    botón de ayuda. Resérvalo para cuando estés realmente bloqueado; resolver los
+    niveles por ti mismo mejora mucho tu capacidad de observación.
+5.  **Gestiona bien el tiempo:** Vigila el temporizador. Cada pareja completada
+    suele devolverte algo de tiempo, así que encadenar coincidencias rápidas es
+    clave para superar las fases.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Scan for Obvious Matches:** Start by looking for pairs of wings that are directly adjacent or have a clear, straight path between them. These are the easiest to clear and will open up the board.
-2.  **[ES]** **Prioritize Edges and Corners:** Wings located on the edges and corners of the board are often easier to connect as they have fewer blocking tiles around them. Clearing these first can create more opportunities.
-3.  **[ES]** **Look for Two-Turn Paths:** Remember the connection rule: a path can have up to two turns. Visualize these paths to find less obvious matches.
-4.  **[ES]** **Use Hints Wisely:** If you get stuck, the game usually provides a hint button. Use it when you're truly stumped, but try to solve puzzles on your own to improve your observation skills.
-5.  **[ES]** **Time Management:** Keep an eye on the timer. Making matches adds a small amount of time back, so quick and continuous matching is key to completing levels.
+*   **Seleccionar y conectar:** Haz clic con el ratón en la primera ala de
+    mariposa y luego en su pareja idéntica. Si existe un camino válido, la
+    mariposa se formará y volará fuera del tablero.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Select and Connect:** Use your mouse to click on the first butterfly wing, then click on its identical matching wing. If a valid path exists, the butterflies will fly away.
+*   **P: ¿Cuál es el objetivo de Butterfly Shimai?**
+    *   **R:** Limpiar el tablero de todas las alas de mariposa conectando pares
+        idénticos antes de que se acabe el tiempo.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuáles son las reglas exactas de conexión?**
+    *   **R:** Dos alas pueden conectarse si puedes trazar entre ellas una línea
+        recta que haga como máximo dos giros de 90 grados y que no atraviese
+        otras fichas.
 
-*   **[ES]** **Q: What is the goal of Butterfly Shimai?**
-    *   **[ES]** **A:** The goal is to clear all the butterfly wings from the board by connecting identical pairs before the time runs out.
-
-*   **[ES]** **Q: What are the rules for connecting wings?**
-    *   **[ES]** **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
-
-*   **[ES]** **Q: What happens if I run out of time?**
-    *   **[ES]** **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
-
+*   **P: ¿Qué pasa si se termina el tiempo?**
+    *   **R:** Si el temporizador llega a cero antes de despejar el tablero, la
+        partida de ese nivel termina y tendrás que volver a intentarlo.

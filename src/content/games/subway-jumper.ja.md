@@ -1,65 +1,50 @@
 ---
-locale: ja
+title: Subway Jumper
+description: Subway Jumperは、地下鉄を走り抜けるエンドレスランナーゲームです。ジャンプ、スライド、避けながらできるだけ遠くまで走りましょう。
+iframeSrc: 'https://ubg98.github.io/SubwayJumper/'
+thumbnail: /new-images/subway-jumper.jpg
 urlstr: subway-jumper
-title: '[JA TRANSLATION NEEDED] Subway Jumper'
-description: >-
-  [JA TRANSLATION NEEDED] Subway Jumper is a nimble runner — swap lanes, time
-  hops/slides, and maintain rhythm through dense metro hazards.
-iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
-thumbnail: /new-images/subway-jumper.png
+score: 4.4/5  (3267 votes)
 tags:
-  - action
-  - casual
-score: 3.9/5  (1759 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - runner
+  - endless
+  - arcade
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Subway Jumperは、地下鉄の線路を走り抜けるスリリングなエンドレスランナーゲームです。障害物を避け、コインを集め、できるだけ長く走り続けましょう。
 
-[JA TRANSLATION NEEDED] Subway Jumper plays like a classic three‑lane runner: trains, cones, and barriers demand late jumps and decisive slides. Coins and power‑ups tempt risky lines; consistency earns longer streaks and better scores.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Eyes up two obstacles; don’t stare at your feet.
-[JA TRANSLATION NEEDED] 2.  Late jumps for low hurdles; slides for bars and tunnels.
-[JA TRANSLATION NEEDED] 3.  Skip side coins when alignment is off.
-[JA TRANSLATION NEEDED] 4.  Use shields/magnets in dense sections only.
-[JA TRANSLATION NEEDED] 5.  After a mistake, reset rhythm before speeding up.
-
-### Controls Guide
-
-- A/D or Left/Right to switch lanes; Space/Up to jump; Down to slide; power‑ups via keys.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I clip barriers often.
-  
-[JA TRANSLATION NEEDED]   A: Jump a touch later and center after passes.
-
-- Q: Is speed adjustable?
-  
+ - **ジャンプ：** 障害物を飛び越えます
+ - **スライド：** 低い障害物の下をスライドします
+ - **左右に移動：** レーンを切り替えて障害物を避けます
+ - **コインを集める：** 走りながらコインを集めます
 
 
-
-
-
-
-- Q: I clip barriers often.
-### よくある質問（FAQ）
-- A/D or Left/Right to switch lanes; Space/Up to jump; Down to slide; power‑ups via keys.
-### コントロールガイド
 - After a mistake, reset rhythm before speeding up.
+### 操作ガイド
+
+ - **上矢印/W：** ジャンプ
+ - **下矢印/S：** スライド
+ - **左/右矢印/A/D：** レーン変更
 
 ### よくある質問（FAQ）
-- Use shields/magnets in dense sections only.
-[JA TRANSLATION NEEDED]   A: Many builds ramp speed automatically; focus on clean inputs.
 
 
+- Q: I clip barriers often.
+**ゲームの目標は何ですか？**
 
 
-A: Many builds ramp speed automatically; focus on clean inputs.
 - Q: Is speed adjustable?
+障害物を避けてできるだけ遠くまで走り、高得点を獲得することです。
 
+**コインは何に使えますか？**
 
-A: Many builds ramp speed automatically; focus on clean inputs.
+コインを使ってパワーアップやキャラクターをアンロックできます。
+
+**ゲームは終わりがありますか？**
+
+いいえ、これはエンドレスランナーゲームで、クラッシュするまで続きます。

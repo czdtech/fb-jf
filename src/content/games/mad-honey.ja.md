@@ -1,60 +1,36 @@
 ---
+title: "Mad Honey"
+description: "Mad Honeyは一口サイズのアーケードアドベンチャーです。蜜を収集し、障害物を回避し、安全に巣箱に戻ります。"
+iframeSrc: "https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/"
+thumbnail: "/new-images/mad-honey.png"
+urlstr: "mad-honey"
+score: "3.7/5  (1299 votes)"
+tags: ["adventure", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: mad-honey
-title: '[JA TRANSLATION NEEDED] Mad Honey'
-description: >-
-  [JA TRANSLATION NEEDED] Mad Honey is a bite‑size arcade adventure — collect
-  nectar, dodge hazards, and return safely to the hive.
-iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
-thumbnail: /new-images/mad-honey.png
-tags:
-  - adventure
-  - casual
-score: 3.7/5  (1299 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Mad Honeyは、シンプルな敵と環境障害物を避けながら蜜を集めることに関する短い、ピックアップアンドプレイアドベンチャーです。レベルは、慎重な飛行経路、パトロールを通過するタイミング、スコアへの安全な復帰を強調します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar while avoiding simple enemies and environmental hazards. Levels emphasize careful flight paths, timing through patrols, and safe returns to score.
+1.  ルートをプロット：コミットする前に蜜クラスターとパトロールパスを識別します。
+2.  小さな修正：オーバーステアリングなしで狭いギャップをスレッド化するために、羽毛のような移動をします。
+3.  スタッガーピックアップ：必要に応じて2つのパスでリスクの高いクラスターをクリアします。
+4.  タイマーを見る：タイマーまたは運搬制限が存在する場合、定期的に蜜を預けます。
+5.  リスク対報酬：時間またはヘルスが少ない場合、タイトなピックアップをスキップします。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Plot routes: Identify nectar clusters and patrol paths before committing.
-[JA TRANSLATION NEEDED] 2.  Small corrections: Feather movement to thread narrow gaps without oversteering.
-[JA TRANSLATION NEEDED] 3.  Stagger pickups: Clear risky clusters in two passes if needed.
-[JA TRANSLATION NEEDED] 4.  Watch timers: Deposit nectar regularly if a timer or carry limit exists.
-[JA TRANSLATION NEEDED] 5.  Risk vs. reward: Skip tight pickups when low on time or health.
+- 移動：矢印キー/WASDまたはアナログドラッグ。
+- インタラクト：接触時の自動ピックアップ。
+- 再試行：クリーンな実行のための素早い再起動。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Move: Arrow keys / WASD or analog drag.
-- Interact: Automatic pickups on contact.
-- Retry: Quick restart for clean runs.
-
-### Frequently Asked Questions (FAQ)
-
-- Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
-- Is there scoring depth? Longer chains and clean returns typically grant bonuses.
-
-### コントロールガイド
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
-
-
-
-
-
-
-
-
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
-- Is there scoring depth? Longer chains and clean returns typically grant bonuses.
-- Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
-### よくある質問（FAQ）
-- Retry: Quick restart for clean runs.
-- Interact: Automatic pickups on contact.
-
-
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
+- 敵が安っぽく感じます。ヒントは？パトロールサイクルを学びます。ギャップを強制するのではなく、クリーンなウィンドウを待ちます。
+- スコアリングの深さはありますか？より長いチェーンとクリーンな復帰は通常ボーナスを付与します。
+- ヒットをタンクできますか？多くのモードはヘルスを厳しく罰します。生存を優先します。

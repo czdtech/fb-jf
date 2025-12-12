@@ -1,115 +1,66 @@
 ---
+title: "Doodle Baseball ドゥードゥル・ベースボール"
+description: "「Doodle Baseball」の完全ガイド。魅力的でシンプルなタイミング勝負の野球ゲーム。ホームランのコツ、操作方法、そしてよくある質問への答えを網羅。"
+iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
+thumbnail: "/new-images/baseball.jpg"
+urlstr: "baseball"
+score: "4.4/5  (525 votes)"
+tags: ["casual", "sports"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: baseball
-title: '[JA TRANSLATION NEEDED] Doodle Baseball'
-description: >-
-  [JA TRANSLATION NEEDED] A guide to Doodle Baseball, the charming and simple
-  timing-based sports game. Learn how to play, get tips for hitting home runs,
-  understand the controls, and find answers to common questions.
-iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/baseball.jpg
-tags:
-  - casual
-  - sports
-score: 4.4/5  (525 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Doodle Baseball（ドゥードゥル・ベースボール）*は、Google Doodle（記念日ロゴ）として公開され人気を博した、見た目は可愛らしく中身は奥深い、アーケードスタイルの野球ゲームです。手書き風のユニークな「落書き（Doodle）」調のアートワークが特徴で、プレイヤーは様々な「食べ物」キャラクターのバッターとなり、擬人化された「ピーナッツ」チームの投手と対決します。
 
-### Detailed Introduction
+目的は単純明快。ピッチャーが投げるボールを打ち返し、できるだけ多くのラン（得点）を稼ぐことです。ゲームプレイは完全に「バッティング」に特化しています。守備や走塁の操作は不要で、打球の質によって自動的に判定されます。難しいのは、敵チームが投げてくる多彩な変化球です。ゲームが進むにつれて、速球（ストレート）、カーブ、そしてタイミングを外すスローボールなどが織り交ぜられ、一振りごとの瞬時の判断が求められます。3回ストライク（三振）を取られるとゲームオーバー。目指すは自己ベストのハイスコアです。
 
-[JA TRANSLATION NEEDED] *Doodle Baseball* is a charming and deceptively simple arcade-style baseball game. Presented with a unique hand-drawn "doodle" aesthetic, the player takes on the role of a batter from a team of various food items, facing off against an opposing team of anthropomorphic peanuts.
-The controls are as simple as possible, making the game accessible to everyone.（日本語訳が必要）
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] The objective of the game is straightforward: hit the ball thrown by the pitcher and score as many runs as possible. The gameplay loop is focused entirely on the act of batting. The player does not control fielding or base running; these actions are automated based on the quality of the hit. The challenge comes from the variety of pitches thrown by the opposing team. As the game progresses, pitchers will throw balls at different speeds and trajectories, including fastballs, curveballs, and slow pitches, requiring the player to adapt their timing with each swing. The game ends after the player gets three strikes, and the goal is to achieve the highest possible score.
+ボタン一つで遊べるシンプルさですが、極めるには集中力とタイミングが必要です。
 
-### Gameplay Strategy
-**1. How do I hit a home run?**（日本語訳が必要）
+1.  **投手の「溜め」を見る：** ピッチャーのアニメーションが最初の手がかりです。振りかぶる動作（ワインドアップ）をよく見てください。時々、これから来る球種を示す予備動作がある場合があります。
+2.  **バットではなく、ボールを見る：** 自分のキャラではなく、ピッチャーの手から離れたボールをインパクトの瞬間まで目で追い続けましょう。これが球速と軌道を見極める最も確実な方法です。
+3.  **球速の違いを見極める：**
+    *   **速球（Fastball）：** まっすぐで速い球です。素早い反応が必要です。球種を識別したらすぐに振る準備をしてください。
+    *   **スローボール / カーブ（Curveball）：** これはバッターのタイミングを狂わせるための罠です。速球だと思って振ると空振りします。ボールがふわっと浮いてくるので、一呼吸置いて、「まだだ、まだだ…今だ！」と自分に言い聞かせて遅らせて振りましょう。これが最も三振しやすい球です。
+4.  **タイミングこそ全て：** ヒットの質は「いつ振ったか」だけで決まります。
+    *   **ホームラン：** ボールがホームベースを通過する完璧なタイミング（スイートスポット）で当てると、特大のホームランになります。
+    *   **ヒット（単打/二塁打）：** タイミングが少し早い、または遅いと通常のヒットになります。
+    *   **ファウル / ストライク：** タイミングが大きくずれるとミスになります。
+5.  **見送る勇気を持つ：** 基本的にすべての投球はストライクゾーンに来ますが、あえて振らずに見送る（素振りしない）という練習を頭の中で行うことで、スローボールに対する我慢強さを養えます。焦って振るのが一番の敗因です。
 
-[JA TRANSLATION NEEDED] While the game uses only one button, mastering it requires focus and timing.
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Watch the Pitcher's Wind-up:** The pitcher's animation is your first clue. Pay attention to their wind-up motion, as it can sometimes signal the type of pitch that is coming.
-[JA TRANSLATION NEEDED] 2.  **Focus on the Ball, Not the Bat:** Your eyes should track the baseball from the moment it leaves the pitcher's hand until it reaches the plate. This is the most effective way to judge its speed and trajectory.
-[JA TRANSLATION NEEDED] 3.  **Learn to Differentiate Pitch Speeds:**
-[JA TRANSLATION NEEDED]     *   **Fastball:** This is a straight, fast pitch. It requires a quick reaction. Be ready to swing almost as soon as you identify it.
-[JA TRANSLATION NEEDED]     *   **Slow Pitch/Curveball:** These are designed to fool you into swinging too early. The ball will float towards the plate much slower than a fastball. You must be patient and wait an extra moment before swinging. This is the most common reason for getting a strike.
-[JA TRANSLATION NEEDED] 4.  **Timing is Everything:** The quality of your hit is determined by *when* you swing.
-[JA TRANSLATION NEEDED]     *   **Home Run:** Hitting the ball perfectly in the "sweet spot" as it crosses the plate will usually result in a home run.
-[JA TRANSLATION NEEDED]     *   **Single/Double:** Hitting the ball slightly early or late will result in a base hit.
-[JA TRANSLATION NEEDED]     *   **Foul Ball/Strike:** Swinging too early or too late will result in a miss.
-[JA TRANSLATION NEEDED] 5.  **Don't Be Afraid to Take a Strike:** While every pitch in the game is typically a strike, the mental exercise of waiting helps you calibrate your timing for the slower pitches. Rushing your swing is the fastest way to get three outs.
+誰でも遊べるように、操作は極限まで簡略化されています。
 
-### Controls Guide
+*   **PC / ブラウザの場合：**
+    *   **マウスの左クリック：** バットを振る。
+*   **スマホ / タッチスクリーンの場合：**
+    *   **画面タップ：** 画面のどこでもいいのでタップするとバットを振る。
 
-[JA TRANSLATION NEEDED] The controls are as simple as possible, making the game accessible to everyone.
+移動や走塁の操作は一切ありません。
 
-*   **For PC / Web Browser:**
-[JA TRANSLATION NEEDED]     *   **Left Mouse Button**: Click to swing the bat.
-*   **For Mobile / Touchscreen Devices:**
-[JA TRANSLATION NEEDED]     *   **Tap the Screen**: Tap anywhere on the screen to swing the bat.
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] There are no other controls for moving, running, or fielding.
-    - **Left Mouse Button**: クリックして swing the bat.
-5.  **Don't Be Afraid to Take a Strike:** While every pitch in the game is typically a strike, the mental exercise of waiting helps you calibrate your timing for the slower pitches. Rushing your swing is the fastest way to get three outs.（日本語訳が必要）
-- **For PC / Web ブラウザ:**
-    - **タップ the Screen**: Tap anywhere on the screen to swing the bat.
-- **For Mobile / タッチscreen Devices:**
-There are no other controls for moving, running, or fielding.（日本語訳が必要）
+**1. どうすればホームランが打てますか？**
 
-### Frequently Asked Questions (FAQ)
+ボールがホームベースの真上に差し掛かった瞬間にミートする“完璧なタイミング”が必要です。感覚を掴むまで何度もスイングタイミングを調整しましょう。
 
-[JA TRANSLATION NEEDED] **1. How do I hit a home run?**
-[JA TRANSLATION NEEDED] A home run is achieved through perfect timing. You need to swing and make contact with the ball at the ideal moment, just as it crosses the home plate.
+**2. このゲームにクリアはありますか？**
 
-[JA TRANSLATION NEEDED] **2. Is it possible to win the game?**
-[JA TRANSLATION NEEDED] *Doodle Baseball* is an endless arcade game. There is no final inning or opponent to "beat." The goal is not to win, but to score as many runs as you can before getting three outs and setting a new personal high score.
+ありません。*Doodle Baseball* は3アウトになるまで続くエンドレスゲームで、自己ベスト更新が唯一のゴールです。
 
-[JA TRANSLATION NEEDED] **3. Why do I keep striking out on slow pitches?**
-[JA TRANSLATION NEEDED] This is the game's primary challenge. Your brain gets used to the timing of fastballs, so when a slow pitch comes, your instinct is to swing at the same speed. You must consciously force yourself to wait longer than you think you need to before swinging at a slow ball.
+**3. なぜスローボールで三振してしまうのですか？**
 
-[JA TRANSLATION NEEDED] **4. Can I choose my character or team?**
-[JA TRANSLATION NEEDED] No, the player characters (batters) cycle automatically as you play. They are all part of the same team and have no gameplay differences.
+速球リズムに慣れると、脳が早めにスイング指示を出してしまいます。「遅い球だ」と感じたら、意識的にもう一拍遅らせてバットを振る癖を付けてください。
 
-[JA TRANSLATION NEEDED] **5. Does the game get harder?**
-[JA TRANSLATION NEEDED] Yes. As you score more runs, the opposing pitchers will begin to use a wider variety of pitches, including faster fastballs and trickier curveballs, making it more challenging to time your swings correctly.
+**4. キャラクターやチームは選べますか？**
 
+選べません。ホットドッグやレタスなどの打者は自動で交代し、性能差は一切なく外見のみが変化します。
 
-    - **Fastball:** This is a straight, fast pitch. It requires a quick reaction. Be ready to swing almost as soon as you identify it.（日本語訳が必要）
+**5. ゲームは途中で難しくなりますか？**
 
-- **Timing is Everything:** The quality of your hit is determined by *when* you swing.
-    - **Slow Pitch/Curveball:** These are designed to fool you into swinging too early. The ball will float towards the plate much slower than a fastball. You must be patient and wait an extra moment before swinging. This is the most common reason for getting a strike.（日本語訳が必要）
-    - **Home 走る:** Hitting the ball perfectly in the "sweet spot" as it crosses the plate will usually result in a home run.
-    - **Single/Double:** Hitting the ball slightly early or late will result in a base hit.（日本語訳が必要）
-
-- **Don't Be Afraid to Take a Strike:** While every pitch in the game is typically a strike, the mental exercise of waiting helps you calibrate your timing for the slower pitches. Rushing your swing is the fastest way to get three outs.
-    - **Foul Ball/Strike:** Swinging too early or too late will result in a miss.（日本語訳が必要）
-### コントロール Guide
-### Frequently Asked Questions (よくある質問)
-A home run is achieved through perfect timing. You need to swing and make contact with the ball at the ideal moment, just as it crosses the home plate.（日本語訳が必要）
-
-
-
-
-    - **Tap the Screen**: Tap anywhere on the screen to swing the bat.
-- **For Mobile / Touchscreen Devices:**
-    - **Left Mouse Button**: Click to swing the bat.
-- **For PC / Web Browser:**
-
-    - **Tap the Screen**: Tap anywhere on the screen to swing the bat.
-**2. Is it possible to win the game?**（日本語訳が必要）
-
-### よくある質問（FAQ）
-*Doodle Baseball* is an endless arcade game. There is no final inning or opponent to "beat." The goal is not to win, but to score as many runs as you can before getting three outs and setting a new personal high score.（日本語訳が必要）
-**3. Why do I keep striking out on slow pitches?**（日本語訳が必要）
-This is the game's primary challenge. Your brain gets used to the timing of fastballs, so when a slow pitch comes, your instinct is to swing at the same speed. You must consciously force yourself to wait longer than you think you need to before swinging at a slow ball.（日本語訳が必要）
-**4. Can I choose my character or team?**（日本語訳が必要）
-No, the player characters (batters) cycle automatically as you play. They are all part of the same team and have no gameplay differences.（日本語訳が必要）
-**5. Does the game get harder?**（日本語訳が必要）
-Yes. As you score more runs, the opposing pitchers will begin to use a wider variety of pitches, including faster fastballs and trickier curveballs, making it more challenging to time your swings correctly.（日本語訳が必要）
-
-
-
-Yes. As you score more runs, the opposing pitchers will begin to use a wider variety of pitches, including faster fastballs and trickier curveballs, making it more challenging to time your swings correctly.
-**5. Does the game get harder?**
-No, the player characters (batters) cycle automatically as you play. They are all part of the same team and have no gameplay differences.
+はい。スコアが上がるほど投手の球種と球速が多彩になり、速球・超スローボール・変化球が次々登場します。

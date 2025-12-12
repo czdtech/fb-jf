@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: cards-21
-title: '[DE] Cards-21'
+title: "Cards-21"
 description: >-
-  [DE] Cards-21 streamlines blackjack — hit or stand, manage risk, and chase 21
-  without busting.
+  Cards-21 ist eine schlanke Blackjack-Variante – ziehe Karten, bleib möglichst
+  nahe an 21 und vermeide es, zu überziehen.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
 thumbnail: /new-images/cards-21.png
 tags:
@@ -16,37 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Cards-21* ist eine schnelle Blackjack-Variante: Du ziehst Karten und versuchst,
+so nah wie möglich an 21 Punkte zu kommen, ohne darüber zu liegen. Bildkarten
+zählen 10 Punkte, Asse je nach Situation 1 oder 11. In manchen Modi gibt es
+mehrere Hände gleichzeitig, Versicherungen oder Side Bets.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  Grundwahrscheinlichkeiten: Stehe in der Regel auf harten 17 oder mehr,
+    ziehe weiter bei 11 oder weniger und denke über ein "Double" nach, wenn du
+    10–11 gegen eine schwache offene Dealerkarte hältst.
+2.  Soft Hands richtig spielen: Wenn ein Ass als 11 zählt (Soft Hand), kannst du
+    aggressiver nachziehen. Wird die Hand zu riskant, wird das Ass zu 1
+    umgewandelt und die Hand damit "hart".
+3.  Dealer-Upcard beachten: Passe dein Risiko an die offene Karte des Dealers
+    an (2–6 eher schwach, 7–Ass eher stark). Gegen schwache Karten kannst du
+    defensiver spielen und früher stehen bleiben.
+4.  Bankroll-Management: Setze bevorzugt gleichbleibende Einsätze und jage
+    Verlustserien nicht hinterher. So glättest du die unvermeidlichen
+    Schwankungen.
+5.  Side Bets mit Vorsicht: Nebenwetten können Spaß machen, haben aber meist
+    einen deutlich höheren Hausvorteil – nur in Maßen nutzen.
 
-Cards-21 is a quick blackjack variant: draw cards to get as close to 21 as possible without going over. Face cards count as 10; aces can be 1 or 11. Some modes include multi‑hand play, insurance, or side bets.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Aktionen wie Hit, Stand, Double oder Split führst du über die
+  Bildschirm-Buttons aus.
+- Side Bets kannst du, falls vorhanden, über entsprechende Schaltflächen
+  aktivieren oder deaktivieren.
 
-1.  **[DE]** Basic odds: Stand on hard 17+; hit 11 or lower; consider doubling on 10–11 versus weak dealer cards.
-2.  **[DE]** Soft hands: With an ace counted as 11, hit more liberally; convert to hard when needed.
-3.  **[DE]** Dealer upcard: Adjust risk based on dealer’s visible card (2–6 weak, 7–A strong).
-4.  **[DE]** Bankroll: Use flat bets; avoid chasing losses.
-5.  **[DE]** Side bets: Fun but higher house edge — play sparingly.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- Wann sollte ich Paare splitten?
+  
+  Üblich ist, Asse und 8er zu splitten, 10er und 5er dagegen nicht. Wenn eine
+  Basistabelle eingeblendet wird, halte dich möglichst genau daran.
 
-- Hit/Stand/Double/Split via on‑screen buttons.
-- Toggle side bets if available.
+- Zählen Asse als 1 oder 11?
+  
+  Asse sind flexibel – das Spiel passt ihren Wert meist automatisch so an, dass
+  du möglichst nicht über 21 kommst.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: When should I split pairs?
-
-A: Commonly split Aces and 8s; avoid splitting 10s and 5s. Follow the table’s basic strategy if shown.
-
-- Q: Do aces count as 1 or 11?
-
-A: They flex — automatically adjusted to avoid busting when possible.
-
-- Q: Is this beatable long‑term?
-
-A: With perfect play you reduce house edge, but it remains positive over time.
-
+- Ist das Spiel langfristig schlagbar?
+  
+  Mit perfekter Strategie kannst du den Hausvorteil stark reduzieren, ganz
+  eliminieren lässt er sich aber nicht – über lange Sicht bleibt er positiv.

@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: incredibox-creatophobos
-title: '[FR] Incredibox Creatophobos'
+title: Incredibox Creatophobos
 description: >-
-  [FR] Uncover the secrets of 'Incredibox Creatophobos,' the unsettling
-  horror-themed fan-made mod. This guide details its monstrous and industrial
-  sound palette, and provides tips for creating terrifying soundscapes.
+  Explore Incredibox Creatophobos, un mod expérimental horrifique : bruits
+  industriels, cris de monstres et atmosphères angoissantes pour composer un
+  paysage sonore cauchemardesque.
 iframeSrc: 'https://turbowarp.org/1041902515/embed'
 thumbnail: /new-images/incredibox-creatophobos.png
 tags:
@@ -16,42 +16,54 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+*Incredibox Creatophobos* est un mod fan‑made sombre et expérimental. Son nom vient de « Creator » et de **Phobos**, la personnification grecque de la peur : tout tourne autour de la crainte, des créatures monstrueuses et d’une horreur oppressante.
 
+Les beatboxers stylés sont remplacés par des figures mutantes et inquiétantes. En utilisant l’interface drag‑and‑drop classique, tu actives 20 sons très éloignés des mélodies habituelles : **bruits industriels, grognements de monstres, beats distordus et drones inquiétants**.
 
-### **Incredibox "Creatophobos" Game Introduction**
+Le but n’est plus de créer un tube catchy, mais un **paysage sonore terrifiant**. Les trois bonus cachés prolongent cette esthétique grotesque via des animations cauchemardesques.
 
-*Incredibox Creatophobos* is a dark and experimental fan-made mod for the music creation game Incredibox. The name itself is a portmanteau of "Creator" and "Phobos" (the Greek personification of fear), setting the stage for its core theme: **the fear of creation, monstrous beings, and unsettling horror**.
+### Stratégies de jeu et conseils
 
-The game replaces the usual stylish beatboxers with a crew of monstrous, otherworldly, or mutated characters. It utilizes the classic Incredibox drag-and-drop interface, but the 20 sound icons unleash a palette of sounds that are far from melodic. The audio library is a complex mix of **industrial noise, guttural monster sounds, distorted beats, and eerie atmospheric textures**.
+Ici, il s’agit moins de chercher l’harmonie que de construire la tension.
 
-The objective, while still rooted in musical creation, shifts from creating a catchy tune to building a **terrifying and immersive soundscape**. The puzzle element of finding the three secret bonuses remains, with the unlocked animations perfectly reflecting the mod's grotesque and nightmarish aesthetic.
+1.  **Comprends les catégories monstrueuses**  
+    - **Beats** : rythmes mécaniques et lourds, coups métalliques, pulsations rappelant un cœur affolé.  
+    - **Effets** : drones sombres, gémissements, grincements de métal, bruits sortis d’un film d’horreur.  
+    - **Mélodies** : lignes dissonantes, sirènes, synthés atonaux qui ajoutent à l’angoisse.  
+    - **Voices** : rugissements, hurlements déformés, psalmodies robotiques ou démoniaques.
 
-### **Gameplay Strategy & Tips**
+2.  **Installe une ambiance de peur**  
+    Commence souvent par un effet d’ambiance, puis ajoute un beat lent et pesant. Construis progressivement le mix pour faire monter la tension, plutôt que tout lancer d’un coup.
 
-Strategy in *Incredibox Creatophobos* is about embracing the chaos and building tension, rather than harmony.
+3.  **Accepte la dissonance**  
+    Beaucoup de sons sont faits pour se heurter. Un résultat bruyant et chaotique n’est pas un échec : c’est précisément ce qui donne son identité horrifique au mod.
 
-1.  **[FR]** **Understand the Monstrous Sound Categories**:
-    *   **[FR]** **Beats**: The rhythms here are harsh and mechanical. Expect to find heavy **industrial stomps**, distorted drum machines, and unsettling, heartbeat-like pulses that create a feeling of dread.
-    *   **[FR]** **Effects**: This category is pure atmosphere. It includes eerie ambient drones, monstrous growls, the screech of metal, and other sound effects straight out of a horror film.
-    *   **[FR]** **Melodies**: Forget catchy tunes. The melodies here are often **dissonant and atonal**. They consist of creepy synth lines, distorted instrumental loops, and sirens that add to the anxiety.
-    *   **[FR]** **Voices**: The vocals are inhuman and primal. This category features guttural roars, distorted screams, robotic and demonic chanting, and other monstrous vocalizations.
+4.  **Cherche les bonus avec méthode**  
+    Comme les sons se distinguent moins par la mélodie, il vaut mieux adopter une approche systématique : fixe une base qui fonctionne et fais tourner les autres icônes une par une jusqu’à déclencher les animations secrètes.
 
-2.  **[FR]** **Build an Atmosphere of Dread**: Unlike other mods, the goal here is to create a feeling of unease. Start with an "Effect" icon to establish a creepy ambient background. Then, add a slow, heavy "Beat" to build tension.
+5.  **Utilise le solo pour décortiquer le bruit**  
+    Quand le mix devient trop dense, isole un personnage pour comprendre ce qu’il apporte. Cela t’aide à épurer ou renforcer certaines couches.
 
-3.  **[FR]** **Embrace Dissonance**: Many of the sounds are designed to clash with each other. Don't be afraid of creating a noisy or chaotic mix. This dissonance is a key part of the mod's horror aesthetic. The goal is to create something that sounds intimidating and powerful.
+### Commandes
 
-4.  **[FR]** **Systematic Search for the Horrors**: Finding the bonus combos requires patience. The sounds are less distinct than in melodic mods, so a methodical approach is key. Lock in a few sounds that create a strong foundation and then systematically cycle through the rest until you unlock the terrifying animations.
-
-5.  **[FR]** **Use Solo to Deconstruct the Noise**: The soundscape can become very dense and overwhelming. Use the "solo" function to isolate individual sounds. This will help you understand what each monster is contributing to the overall chaos and allow you to make more deliberate creative choices.
-
-### **Controls Guide**
 
 The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
+- **Ajouter un son** : glisse une icône de la barre inférieure sur un personnage.  
+- **Retirer / remplacer un son** : clique sur le « X » de son icône ou dépose un autre son sur ce personnage.  
+- **Mute / Unmute** : clique sur le personnage pour le couper / le réactiver.  
+- **Solo** : clique sur le bouton de solo pour n’entendre que lui.  
+- **Enregistrer** : clique sur le bouton d’enregistrement pour garder ta composition monstrueuse.
 
-*   **[FR]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[FR]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[FR]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[FR]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[FR]** **Record**: Click the **record button** to start and stop recording your monstrous creation.
+### Foire aux questions (FAQ)
+
+- **Q : Ce mod est‑il adapté à tous les âges ?**  
+  R : L’esthétique est volontairement inquiétante ; il peut être impressionnant pour les joueurs les plus jeunes.
+
+- **Q : Peut‑on quand même faire des morceaux « musicaux » ?**  
+  R : Oui, en sélectionnant soigneusement les quelques sons les plus mélodiques, mais le mod est surtout pensé pour des ambiances bruitistes.
+
+- **Q : Les bonus sont‑ils difficiles à trouver ?**  
+  R : Ils demandent un peu de patience, mais une fois que tu as identifié quelques bonnes bases, tu pourras les déclencher en testant calmement différentes combinaisons.
 

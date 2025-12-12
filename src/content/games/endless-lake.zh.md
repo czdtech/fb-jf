@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: endless-lake
-title: '[ZH TRANSLATION NEEDED] Endless Lake'
+title: "Endless Lake 無盡湖跑酷"
 description: >-
-  [ZH TRANSLATION NEEDED] How far can you run? Test your reflexes in this
-  minimalist endless runner. Tap to jump once, or tap again in mid-air for a
-  double jump to cross the treacherous gaps of the Endless Lake.
+  你能跑多遠？在《Endless Lake》這款極簡風無盡跑酷中測試你的反應力——
+  點擊跳躍、空中二段跳，跨越一個又一個危險斷橋。
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
 thumbnail: /new-images/endless-lake.png
 tags:
@@ -19,29 +18,37 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Endless Lake is a minimalist and challenging endless runner that tests your timing and reflexes. You control a character running across a series of platforms suspended over a tranquil lake. The gameplay is focused on one simple mechanic: jumping. You must perfectly time your single and double jumps to navigate the ever-changing gaps between platforms and see how far you can go.
+《Endless Lake》是一款畫面極簡、節奏緊湊的無盡跑酷遊戲，專門考驗你的節奏感與反應力。
+你操控的角色會自動在懸浮於靜謐湖面上的平台上奔跑，唯一需要掌握的核心機制就是——跳躍。
+透過精準控制單段跳與二段跳，在不斷變化的斷橋與缺口之間穿梭，看自己能跑多遠。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Master the Double Jump:** The most crucial skill in the game is the double jump. Tapping once gives you a short hop, but tapping a second time while in mid-air gives you an extra boost to cross wider gaps. Learning the feel and distance of both jump types is essential.
-2.  [ZH TRANSLATION NEEDED] **Find Your Rhythm:** The game has a distinct rhythm. Try to get into a flow with your jumps. As the speed increases, your reaction time will need to get shorter, but a steady rhythm can help you stay focused.
-3.  [ZH TRANSLATION NEEDED] **Don't Double Jump Unnecessarily:** A common mistake is to use a double jump for a short gap. This can mess up your timing and positioning for the next jump. Only use the double jump when it's absolutely necessary.
-4.  [ZH TRANSLATION NEEDED] **Look Ahead:** Keep your eyes focused a few platforms ahead of your character. This will give you more time to recognize whether the next gap requires a single or a double jump.
+
+1.  **先熟悉二段跳手感：** 單點一次是短距離小跳，空中再點一次則會觸發二段跳，
+    幫助你跨越寬一點的裂縫。熟悉兩種跳躍的高度與距離，是玩好這款遊戲的第一步。
+2.  **找到自己的節奏：** 遊戲本身帶有明顯的節奏感，試著讓自己的操作與平台節奏同步。
+    隨著速度提升，反應時間會變短，但穩定的節奏感可以幫你維持專注，不會慌亂亂按。
+3.  **避免濫用二段跳：** 很多失誤來自於對小空隙也習慣性使用二段跳，結果落點過近或過遠，
+    影響下一步位置。只在判斷確實需要時才使用二段跳，會更安全。
+4.  **目光看前方：** 視線不要只盯在角色腳下，而是多看前面幾塊平台，
+    提前判斷下一個缺口需要單段跳還是二段跳。
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game uses a simple one-touch control system.
+本作採用極簡的一鍵操作。
 
-*   **Single Jump:** Click the left mouse button or tap the screen once.
-*   **Double Jump:** Tap or click once to initiate a jump, then tap or click a second time while your character is in the air.
+*   **單段跳：** 點擊滑鼠左鍵或在螢幕上輕觸一次。
+*   **二段跳：** 在角色騰空時，再點擊或輕觸一次即可觸發第二段跳躍。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
-     *   **A:** To run as far as possible without falling into the lake. Your score is based on the distance you travel.
+*   **問：遊戲目標是什麼？**
+    *   **答：** 在不掉進湖裡的前提下跑得越遠越好，分數會根據你前進的距離計算。
 
-*   **Q: How do I know when to use a double jump?**
-     *   **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
+*   **問：怎麼判斷什麼時候需要二段跳？**
+    *   **答：** 需要你憑目測判斷缺口寬度。較寬的缺口通常得靠二段跳才能跨過，而短缺口
+        用單段跳就足夠。這也是遊戲最主要考驗你的地方。
 
-*   **Q: What are the mirror doors?**
-     *   **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
-
+*   **問：地圖裡那些鏡面門是什麼？**
+    *   **答：** 通過這些傳送門時，往往會生成你角色的分身，讓畫面上同時出現多個分身一起跑，
+        你仍舊只用同一套操作控制所有角色，形成有趣又稍帶混亂的視覺效果。

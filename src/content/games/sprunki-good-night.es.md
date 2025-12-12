@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: sprunki-good-night
-title: '[ES] Sprunki Good Night - Play Sprunki Good Night Online'
+title: 'Sprunki Good Night - Juega a Sprunki Good Night online'
 description: >-
-  [ES] Sprunki Good Night is a Mod that allows you to completely relax your body
-  and mind after a tired day. Come to Sprunki Good Night and use gentle and
-  peaceful beats to create a perfect lullaby and welcome sweet dreams!
+  Sprunki Good Night es un mod pensado para relajar cuerpo y mente después de un
+  día agotador. Entra en Sprunki Good Night y usa ritmos suaves y tranquilos
+  para crear la nana perfecta y darle la bienvenida a los dulces sueños.
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
 thumbnail: /sprunki-good-night.png
 tags:
@@ -14,23 +14,33 @@ score: 4.2/5  (227 votes)
 ---
 
 
+### Cómo crear en Sprunki Good Night
 
-### How to Create in Sprunki Good Night?
+El manejo es muy sencillo; basta con dominar estos puntos:
 
-The operation is very simple, just master the following points:
+- **Arrastrar:** arrastra los personajes de Sprunki Good Night al escenario; cada
+  uno aporta un sonido suave, relajante o de ensueño.
+- **Mezclar:** prueba a combinar pianos suaves, sonidos ambientales y ritmos
+  lentos para producir una mezcla calmante y acogedora.
+- **Explorar:** descubre efectos nocturnos ocultos —como grillos lejanos, lluvia
+  ligera o ecos de nanas— fundiendo los sonidos con suavidad.
+- **Ajustar:** afina tu mezcla hasta capturar por completo la sensación de calma
+  y serenidad que define a Good Night.
 
-- **Drag:** Drag the characters in Sprunki Good Night onto the stage, each character contributing a gentle, calming, or dreamlike sound.
-- **Mix:** Try mixing soft piano tones, ambient sounds, and slow, rhythmic beats to produce a relaxing, soothing blend.
-- **Explore:** Discover hidden night effects such as remote crickets, mild rain, or lullaby reverberations by smoothly melding sounds.
-- **Tune:** Tune your mix to wholly embrace the calm and soothing essence of Good Night.
+### Puntos destacados de Sprunki Good Night
 
+- **Nana suave:** este mod es perfecto para relajarte, meditar o sumergirte en
+  un paisaje musical tranquilo.
+- **Efectos sonoros relajantes:** la mezcla crea una atmósfera pacífica que te
+  ayuda a desestresarte mientras juegas.
+- **Efectos nocturnos:** grillos, lluvia y otros sonidos de noche hacen que las
+  composiciones resulten más etéreas.
+- **Visuales serenos:** la luz de la luna, las luciérnagas y el ambiente cálido
+  de la noche te hacen sentir como si estuvieras bajo un cielo estrellado.
 
-### Highlights of Sprunki Good Night:
+Sprunki Good Night es un mod pensado para desconectar por completo después de
+un día cansado. Entra en Sprunki Good Night, combina ritmos suaves y sonidos
+en paz para crear la nana perfecta y dar la bienvenida a los sueños más
+agradables. ¡Explora el mod Sprunki Good Night y compón la banda sonora ideal
+para tu noche!
 
-- **Gentle Lullaby:** This Mod is perfect for relaxing, meditating, or entering a peaceful musical landscape.
-- **Soothing Sound Effects:** The mix has a peaceful atmosphere, allowing you to feel relaxed during the game.
-- **Nighttime Effects:** The game has nighttime effects such as crickets and rain to make the songs more ethereal.
-- **Peaceful and Serene Visual Effects:** Peaceful and serene visual effects (such as moonlight, twinkling fireflies, and a warm night atmosphere) make you feel like you are under the starry sky.
-
-
-Sprunki Good Night is a Mod that allows you to completely relax your body and mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful beats to create a perfect lullaby and welcome sweet dreams! Venture into the Sprunki Good Night Mod and produce relaxing, peaceful beats for the perfect musical evening!

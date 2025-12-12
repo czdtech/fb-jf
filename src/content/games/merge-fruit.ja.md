@@ -1,70 +1,39 @@
 ---
+title: "Merge Fruit"
+description: "Merge Fruitはジューシーなマージパズルです。フルーツをマージし、より大きなフルーツを作成し、ボードをクリアし、カラフルなレベルをマスターします。"
+iframeSrc: "https://4jn7pno36rtg0.h5games.usercontent.goog/v/35hnfvrnimv48/"
+thumbnail: "/new-images/merge-fruit.png"
+urlstr: "merge-fruit"
+score: "4.0/5  (1789 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: merge-fruit
-title: '[JA TRANSLATION NEEDED] Merge Fruit'
-description: >-
-  [JA TRANSLATION NEEDED] Merge Fruit is a juicy merge‑and‑drop — combine
-  identical fruits, manage stack heights, and engineer cascades for big scores.
-iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
-thumbnail: /new-images/merge-fruit.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.1/5  (1957 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Merge Fruitはシンプルで中毒性のあるマージパズルです。同じフルーツをマージしてより大きく、より価値のあるフルーツを作成します。ボードがいっぱいにならないようにし、高得点を獲得し、すべてのフルーツのマスターになります。
 
-[JA TRANSLATION NEEDED] Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; touching identical fruits merge into a larger one. The challenge is stacking for future merges while preventing overflows at the top.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **大きくマージ:** 可能な限り最大のマージのために待ちます。
+2.  **スペースを管理:** ボードがいっぱいにならないようにします。定期的にマージします。
+3.  **角を整理:** 同じタイプのフルーツを一緒に保ちます。
+4.  **コンボを計画:** 連続したマージはボーナスポイントを付与します。
+5.  **忍耐強く:** 最良のマージのために急がないでください。
 
-[JA TRANSLATION NEEDED] 1.  Center anchor: Keep the largest fruit near the center for multi‑side merges.
-[JA TRANSLATION NEEDED] 2.  Height control: Flatten spikes before they cause overflow.
-[JA TRANSLATION NEEDED] 3.  Chain planning: Stage twins adjacent before dropping a third to trigger cascades.
-[JA TRANSLATION NEEDED] 4.  Sacrifice lane: Use one edge as a trash lane for off‑cycle fruits.
-[JA TRANSLATION NEEDED] 5.  Patience: Don’t force drops during bounce chaos — wait a beat.
+### 操作ガイド
 
-### Controls Guide
+- フルーツをドラッグ＆ドロップして移動およびマージします。
+- 同じタイプをタップして自動マージします（一部のバージョンで）。
+- ゲームオーバーを避けるためにボードをクリアし続けます。
 
-- Move left/right to aim; tap to drop; some builds allow holds/undos.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Board keeps overflowing.
-  
-[JA TRANSLATION NEEDED]   A: Stop chasing big merges; first flatten columns and stage pairs.
-
-- Q: Best place to drop?
-  
-[JA TRANSLATION NEEDED]   A: Center for flexibility; edges only for trash lane management.
-
-- Q: Are undos fair game?
-  
-
-
-
-
-
-- Q: Board keeps overflowing.
-### よくある質問（FAQ）
-- Move left/right to aim; tap to drop; some builds allow holds/undos.
-### コントロールガイド
-- Patience: Don’t force drops during bounce chaos — wait a beat.
-[JA TRANSLATION NEEDED]   A: Use sparingly to fix genuine misdrops.
-
-
-
-
-
-
-A: Use sparingly to fix genuine misdrops.
-- Q: Are undos fair game?
-A: Center for flexibility; edges only for trash lane management.
-- Q: Best place to drop?
-
-
-A: Use sparingly to fix genuine misdrops.
+- **Q: 最高のフルーツは何ですか？**  
+  A: 通常、スイカまたは他の大きなフルーツが最高点です。
+- **Q: マージを元に戻すことができますか？**  
+  A: 通常いいえ。慎重にマージしてください。
+- **Q: コンボボーナスを獲得するにはどうすればよいですか？**  
+  A: 連続してマージし、一時停止せずにチェーンを構築します。

@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: monopoly
-title: '[ZH TRANSLATION NEEDED] MONOPOLY'
+title: "《MONOPOLY》地产大亨棋盘游戏"
 description: >-
-  [ZH TRANSLATION NEEDED] Monopoly is a classic real estate board game where
-  players buy, rent, or sell properties with the goal of bankrupting their
-  opponents and becoming the wealthiest player.
+  《Monopoly》（地产大亨）是一款经典桌游，玩家通过掷骰在棋盘上移动、买地、收租和交易物业，通过精明经营让对手破产，成为最后的首富。
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/monopoly.jpg
 tags:
@@ -18,31 +16,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Monopoly" is a classic real estate board game where players roll dice to move around the game board, buying, renting, and selling properties. The goal is to bankrupt other players and ultimately become the wealthiest tycoon. The game combines elements of strategy, negotiation, and luck, and is loved by players worldwide.
+《Monopoly》（地产大亨）是一款家喻户晓的经典地产策略棋盘游戏。玩家轮流掷骰，在棋盘上移动棋子，当停在无人持有的地块时可以选择购入，将其变成自己的资产。之后只要其他玩家路过你的地盘，就需要向你支付租金。通过成套购地、修建房屋与酒店，你可以不断提高租金、扩大现金流，最终目标是让其他玩家因无力偿付租金或税费而破产，自己则成为棋盘上的唯一赢家。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Buy Properties**: When you land on an unowned property, you can choose to buy it, making it your asset.
-2.  **Build Houses and Hotels**: After acquiring all properties of the same color group, you can build houses and hotels on them to increase rental income.
-3.  **Collect Rent**: When other players land on your property, they must pay you rent. Properties with houses and hotels yield higher rents.
-4.  **Trade and Negotiate**: Engage in property or card trades with other players, negotiating to acquire a more advantageous asset portfolio.
-5.  **Manage Finances**: Plan your finances wisely to ensure you have enough cash flow to cover rents, taxes, and unforeseen events.
+1.  **积极买地：** 游戏初期尽量拿下更多地块，尤其是同色物业，为后续成套开发和修建房屋打基础。
+2.  **成套建房：** 当你拥有同色系列的全部地块后，就可以开始建造房屋乃至酒店，大幅提高路过玩家需要支付的租金。
+3.  **收租盈利：** 其他玩家只要停在你的地产上，就必须向你支付租金；带房屋/酒店的地块往往能迅速拉开资金差距。
+4.  **灵活交易与谈判：** 可以与其他玩家进行地块或卡牌交换，通过谈判补齐自己缺失的一块，或以有利价格卖掉对自己意义不大的地。
+5.  **管理现金流：** 手里要保留足够现金应对租金、税费与意外支出，避免因为一次高额支付直接破产；必要时可以抵押部分地产换取现金周转。
 
-### How to Play
+### 操作说明
 
-*   **Roll Dice**: Click the dice during your turn to roll them, determining how many spaces your token moves.
-*   **Buy/Build**: When your token lands on a purchasable property, a buying option will appear. Once you own a complete color group, you can click on properties to build.
-*   **Trade**: Initiate trades with other players, selecting properties or cards you wish to exchange.
-*   **Pay**: When landing on a space that requires rent or tax payment, you will be prompted to pay automatically.
+*   **掷骰前进：** 在自己的回合点击骰子，决定本回合棋子前进的步数。
+*   **购地 / 建房：** 当棋子停在可购买的地块上时，会弹出购买选项；当你集齐同色物业后，可在对应地块界面选择建造房屋或酒店。
+*   **发起交易：** 通过游戏中的交易界面选择与某位玩家交换地块或卡牌，调整筹码并确认达成交易。
+*   **支付费用：** 当停在需付租金或税费的格子上时，系统会自动计算并扣除相应金额。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What is the ideal number of players for Monopoly?**
-     **A**: Traditional Monopoly usually suits 2 to 8 players, but the best experience is often with 3 to 6 players.
-2.  [ZH TRANSLATION NEEDED] **Q: What is the objective of the game?**
-     **A**: The main objective is to bankrupt all other players by buying, developing, and managing properties, thereby becoming the sole winner.
-3.  [ZH TRANSLATION NEEDED] **Q: What happens if I go bankrupt?**
-     **A**: Once you are unable to pay your debts (including rent, taxes, or bank loans), you go bankrupt and are out of the game.
-4.  [ZH TRANSLATION NEEDED] **Q: What are the special squares on the board?**
-     **A**: Special squares include "Chance," "Community Chest," "Go to Jail," and "Free Parking," which trigger various events and rules.
+### 常见问题
+
+1.  **问：几个人玩《Monopoly》体验最好？**
+    **答：** 规则一般支持 2–8 名玩家，同桌 3–6 人时节奏与互动会比较理想，既不会太拖沓，也有足够多的谈判与对抗。
+2.  **问：游戏的最终目标是什么？**
+    **答：** 通过买地、开发、收租与交易，让所有对手先后破产，最终棋盘上只剩你一位玩家仍然有资金与资产，即为胜利。
+3.  **问：如果我付不起租金或税怎么办？**
+    **答：** 可以通过抵押地产或变卖房屋来筹集现金；如果在清算所有可用资产后仍然无法偿付债务，就会被判定破产出局。
+4.  **问：棋盘上的特殊格子有什么作用？**
+    **答：** 比如“机会（Chance）”“公益金（Community Chest）”“入狱（Go to Jail）”“免费停车（Free Parking）”等，都会触发不同事件：抽牌拿奖励或罚款、直接入狱、或停留在特殊区域等，具体效果以游戏版本规则为准。

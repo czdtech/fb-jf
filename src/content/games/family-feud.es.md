@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: family-feud
-title: '[ES] Family Feud'
+title: "Family Feud"
 description: >-
-  [ES] Survey‑based quiz game: guess the most popular answers to family survey
-  questions across multiple rounds and fast money.
+  Family Feud es un concurso de encuestas: intenta adivinar las respuestas más
+  populares que dio el público a distintas preguntas a lo largo de varias rondas
+  y la fase de Fast Money.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/family-feud.jpg
 tags:
@@ -15,30 +16,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Dos equipos compiten intentando adivinar las respuestas más votadas en
+encuestas reales. En cada ronda se reparten puntos según la popularidad de las
+respuestas acertadas; la partida culmina en la clásica fase de **Fast Money**
+con preguntas a contrarreloj.
 
+### Cómo jugar
 
-### Overview
-Two teams try to guess top answers from survey questions. Rounds award points based on answer popularity; Fast Money closes with rapid‑fire questions.
+- **Face‑off:** Dos jugadores se enfrentan para dar la primera respuesta
+  correcta. Quien acierta una respuesta mejor valorada se queda con el turno.
+- El equipo en control intenta revelar todas las respuestas del panel o decide
+  ceder la ronda al otro equipo.
+- Cada fallo suma una "X"; tras tres errores, el turno pasa al equipo rival, que
+  puede robar los puntos si acierta una respuesta restante.
+- En la fase final de **Fast Money**, dos jugadores responden rápidamente a una
+  serie de preguntas; la suma de sus puntos determina si consiguen el premio
+  máximo.
 
-### How to Play
-- Face‑off: first correct answer gains control; the team reveals remaining answers or passes play.
-- Three strikes pass control; the other team can steal with one correct answer.
-- Final “Fast Money” totals points from two players’ rapid answers.
+### Controles
 
-### Controls
-- Keyboard entry for answers; Enter to submit; arrow/onscreen UI to navigate (host dependent).
+- Escribe tus respuestas con el teclado y pulsa Enter para enviarlas.
+- Usa las flechas o los elementos de la interfaz para navegar entre opciones,
+  según la versión.
 
-### Tips
-- Think broad categories first (e.g., “fruit,” “car,” “money”).
-- Aim for synonyms if an obvious word is taken.
-- Short, common words often rank higher than niche terms.
+### Consejos
 
-### FAQ
-- Q: Do spelling variants count?
-A: Hosts typically normalize common variants; try close synonyms.
-- Q: How many strikes?
-A: Three per round before control passes.
-- Q: Is there single‑player?
-A: Most web versions support solo against survey results.
+- Piensa primero en categorías amplias y comunes (por ejemplo, "fruta", "coche",
+  "dinero").
+- Si la palabra obvia ya está en el panel, prueba sinónimos o términos muy
+  cercanos.
+- Palabras cortas y de uso diario suelen aparecer más que términos técnicos.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Las variantes ortográficas cuentan?**  
+  **R:** Normalmente el juego agrupa variantes frecuentes; si dudas, prueba un
+  sinónimo.
+
+- **P: ¿Cuántos fallos puedo cometer por ronda?**  
+  **R:** Tres errores antes de que el turno pase al equipo rival.
+
+- **P: ¿Se puede jugar en solitario?**  
+  **R:** La mayoría de versiones web permiten jugar en modo "solo" contra los
+  resultados de la encuesta, sin necesitar un segundo jugador.

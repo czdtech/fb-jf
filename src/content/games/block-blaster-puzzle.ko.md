@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: block-blaster-puzzle
-title: '[KO] Block Blaster Puzzle'
+title: 'Block Blaster Puzzle 블록 블래스터 퍼즐'
 description: >-
-  [KO] Block Blaster Puzzle blends block‑fitting with clears — slot shapes, set
-  up multi‑line blasts, and keep the board breathable.
+  다양한 블록 조각을 보드에 배치해 줄을 지우는 퍼즐 게임입니다. 난해한 조각을
+  위한 공간을 남겨 두고, 여러 줄을 한 번에 지우는 연쇄를 노려 보세요.
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/block-blaster-puzzle.png
 tags:
@@ -14,46 +14,63 @@ score: 3.9/5  (1748 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Block Blaster Puzzle는 한 판 한 판 부담 없이 즐길 수 있는 블록 배치 퍼즐
+게임입니다. 화면 아래에 제시되는 블록 조각들을 격자판 위에 끼워 넣어 가로줄
+또는 세로줄을 완전히 채우면 해당 줄이 지워지며, 이렇게 공간을 확보해 최대한
+오랫동안 버티는 것이 목표입니다.
 
+게임이 진행될수록 보드는 점점 가득 차고, 더 이상 어떤 조각도 들어갈 자리가
+없어지는 순간 게임이 종료됩니다. 특히 나중에 등장할 모양을 대비해 어떻게
+보드를 정리하느냐가 중요한 전략 포인트입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You’re given sets of pieces to fit onto a grid; completing rows or regions clears space. Success relies on shaping the board to accept awkward pieces later, staging multi‑line clears, and avoiding sealed cavities that cannot be filled.
+1.  **가장자리 정리(엣지 관리):** 보드 모서리에 울퉁불퉁한 빈칸이 많이 생기면
+    채우기 어려운 1칸 구멍이 생기기 쉽습니다. 가능한 한 가장자리를 매끈하게
+    유지해 고아 칸을 줄이세요.
+2.  **여유 포켓 남겨 두기:** 2×2나 3칸짜리 구멍을 일부러 남겨 두면, 나중에
+    나오기 까다로운 조각을 수용하기 좋습니다.
+3.  **멀티 라인 클리어 노리기:** 한 번에 두 줄, 세 줄을 지우면 보드가 크게
+    리프레시되면서 여유 공간이 확 늘어납니다. 가능하다면 한 줄만 지우기보다
+    두 줄 이상을 동시에 지울 수 있는 배치를 노려 보세요.
+4.  **좁은 세로 우물 만들지 않기:** 폭이 1칸인 깊은 세로 공간은 특정 조각만
+    들어갈 수 있어, 후반에 큰 짐이 됩니다. 일부러 그런 구멍을 만들지 않도록
+    주의하세요.
+5.  **어려운 조각부터 처리:** 보드가 좁아지기 시작하면, 배치가 가장 까다로운
+    큰 조각이나 특이한 모양의 조각부터 먼저 놓는 것이 좋습니다. 쉬운 조각은
+    대체할 수 있는 자리도 많은 편입니다.
+6.  **미리보기 활용:** 다음에 나올 조각이 보인다면, 현재 수를 둘 때 그 조각들이
+    어디에 들어갈 수 있을지 함께 고려해 한 수 두 수 앞까지 계획하세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Edge hygiene: Keep borders smooth to reduce isolated single cells.
-2.  **[KO]** Reserve sockets: Leave a few 2×2 or 3‑cell pockets for common awkward pieces.
-3.  **[KO]** Multi‑line setups: Build toward double/triple clears to refresh space quickly.
-4.  **[KO]** Avoid tall wells: Don’t dig narrow vertical shafts you can’t fill later.
-5.  **[KO]** Piece triage: Place the hardest piece first when the board gets crowded.
-6.  **[KO]** Use previews: If next pieces are visible, plan sequences instead of single moves.
+- 블록 배치: 화면 아래의 블록을 드래그해 보드 위로 옮기면, 유효한 위치일 때
+  배치 미리보기로 하이라이트가 표시됩니다. 손을 떼면 해당 위치에 놓입니다.
+- 회전: 일부 버전에서는 블록을 탭하거나 별도의 회전 버튼을 눌러 방향을
+  바꿀 수 있습니다.
+- 되돌리기/리셋: 욕심낸 배치가 마음에 들지 않을 경우 되돌리기 버튼으로 한 수를
+  취소하거나, 전체를 초기화할 수 있는 모드도 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문 (FAQ)
 
-- Drag shapes onto the grid; rotate if supported by tapping or a rotate button.
-- Undo/Reset are helpful for greedy placements gone wrong.
+- **공간이 금방 가득 차는 이유가 뭔가요?**  
+  한 줄씩만 지우거나, 어려운 조각을 계속 미루다 보면 나중에 들어갈 자리 자체가
+  사라집니다. 멀티 라인 클리어와 큰 조각 우선 배치를 신경 써 보세요.
 
-### Frequently Asked Questions (FAQ)
+- **보드 중앙을 먼저 채우는 게 좋나요, 가장자리부터가 좋나요?**  
+  중앙은 여러 방향에서 조각을 연결할 수 있는 가장 유연한 공간이므로 가능한 한
+  숨통이 트이도록 남겨 두고, 가장자리는 조금씩 정리해 나가는 편이 안정적입니다.
 
-- Q: I always run out of space—how can I last longer?
+- **회전이 안 돼서 답답합니다.**  
+  일부 모드는 회전을 막아 난이도를 높입니다. 이 경우 정사각형이나 대칭적인
+  배치를 선호하고, 회전이 필요 없는 형태의 빈 공간을 만들어 두는 것이 좋습니다.
 
-A: Focus on multi‑line clears and keep a couple of flexible pockets open. Place your hardest piece first when the grid is tight.
+- **엔드가 있는 게임인가요, 끝less 점수 경쟁인가요?**  
+  대부분은 제한 없이 점수를 쌓는 방식이지만, 일부 미션 모드는 목표 점수를
+  달성하면 클리어되는 단계별 구조를 제공합니다.
 
-- Q: Should I keep the board center open or fill edges first?
-
-A: Keep the center breathable and tidy edges gradually; the center gives the most flexibility for odd shapes.
-
-- Q: Rotations feel limited—any workaround?
-
-A: Not all variants allow rotation. Prioritize symmetric placements and leave pockets to accommodate rigid pieces.
-
-- Q: Are there levels or endless score chase?
-
-A: Many builds are endless; some offer level goals. Either way, board management is the key skill.
-
-- Q: When should I use undo?
-
-A: Undo early when you notice a placement creates sealed cavities or removes your last flexible pocket.
-
+- **언제 되돌리기를 쓰는 게 좋나요?**  
+  한 번의 배치로 인해 1칸짜리 구멍이 많이 생기거나, 마지막 남은 유연한 공간을
+  막아버렸다고 느껴질 때 바로 되돌려 다른 배치를 시도하는 것이 좋습니다.

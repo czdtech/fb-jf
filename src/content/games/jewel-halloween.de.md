@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: jewel-halloween
-title: '[DE] Jewel Halloween'
+title: "Jewel Halloween"
 description: >-
-  [DE] Jewel Halloween is a spooky match‑3 — swap gems, trigger cascades, and
-  clear stage goals.
+  Jewel Halloween ist ein schaurig-schönes Match-3-Spiel: Tausche Juwelen,
+  löse Kettenreaktionen aus und erfülle gruselige Levelziele.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/jewel-halloween.png
 tags:
@@ -15,29 +15,60 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jewel Halloween ist ein saisonales Match-3-Puzzlespiel mit gruseligem
+Halloween-Flair. Du vertauschst benachbarte Edelsteine, Kürbisse und andere
+Spuk-Symbole, um Reihen aus drei oder mehr gleichen Steinen zu bilden. So
+erschaffst du Spezialjuwelen, startest Kettenreaktionen und erfüllst
+verschiedene Ziele – etwa Punktvorgaben, Zuglimits oder das Beseitigen
+bestimmter Hindernisse auf dem Spielfeld.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Von unten arbeiten**  
+    Versuche, Matches möglichst weit unten auf dem Spielfeld zu machen. So
+    fallen mehr Steine nach und es entstehen automatisch neue Kombos, die dir
+    ohne zusätzliche Züge weiterhelfen.
 
-Jewel Halloween is a seasonal match‑3. Swap adjacent gems to make lines of three or more, spawn power gems, and complete targets like score thresholds, limited moves, or clearing obstacles.
+2.  **Ziele vor Punkte stellen**  
+    Ein hoher Score ist zwar schön, wichtiger sind aber die Levelziele. Wenn du
+    Blocker entfernen musst, konzentriere deine Züge in deren Nähe, statt nur
+    einfache Dreierkombos irgendwo zu bilden.
 
-### Gameplay Strategy & Walkthrough
+3.  **Power-Juwelen kombinieren**  
+    Nutze Spezialsteine nicht isoliert. Wenn du zwei Power-Juwelen
+    nebeneinander hast, vertausche sie miteinander: Solche Kombinationen räumen
+    oft große Teile des Boards mit einem Zug.
 
-1.  **[DE]** Work from bottom to trigger cascades.
-2.  **[DE]** Prioritize objectives (e.g., blockers) over raw scoring.
-3.  **[DE]** Combine power gems for board‑wide clears.
-4.  **[DE]** Plan two moves ahead to avoid isolating colors.
-5.  **[DE]** Save strong combos for tight goals.
+4.  **Zwei Züge vorausdenken**  
+    Schau dir vor einem Tausch an, wie das Feld danach aussehen könnte. Vermeide
+    Züge, die bestimmte Farben „einsperren“ oder dir künftige starke Kombos
+    verbauen.
 
-### Controls Guide
+5.  **Starke Kombos aufsparen**  
+    Heb dir besonders mächtige Kombinationen für Levelabschnitte auf, in denen
+    du wenig Züge übrig hast oder noch große Blocker im Weg stehen.
 
-- Swap: Drag adjacent gems to swap.
-- Power‑ups: Activate by matching or tapping per rules.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- **Tauschen:** Ziehe zwei benachbarte Steine mit der Maus oder per Touch
+  gegeneinander, um ihre Position zu wechseln.
+- **Power-ups:** Spezialsteine werden durch Matches aktiviert oder – je nach
+  Regel – per Antippen ausgelöst. Achte auf die In-Game-Beschreibungen.
 
-- Stuck on move limits? Focus on blockers and cascades rather than small matches.
-- Are diagonals allowed? Usually no—follow mode rules.
-- Hints available? Often yes; use sparingly.
+### FAQ
 
+- **F: Ich scheitere ständig am Zuglimit – was kann ich tun?**  
+  **A:** Konzentriere dich auf Blocker und Kettenreaktionen. Kleine
+  Dreierkombos ohne Effekt auf das Levelziel verbrauchen Züge, ohne dich
+  wirklich voranzubringen.
+
+- **F: Kann ich diagonal kombinieren?**  
+  **A:** In der Regel zählen nur horizontale und vertikale Reihen. Halte dich an
+  die angezeigten Levelregeln.
+
+- **F: Gibt es Hinweise oder Tipps im Spiel?**  
+  **A:** Viele Match-3-Spiele zeigen dir nach einer Weile automatisch mögliche
+  Züge an. Nutze diese Hinweise sparsam und versuche trotzdem, eigene starke
+  Kombos zu finden.

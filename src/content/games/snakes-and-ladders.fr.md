@@ -1,11 +1,12 @@
 ---
 locale: fr
 urlstr: snakes-and-ladders
-title: '[FR] Snakes And Ladders'
+title: 'Snakes and Ladders'
 description: >-
-  [FR] Play Snakes and Ladders, the classic board game of chance. Roll the die,
-  climb ladders to get ahead, and watch out for snakes that will slide you back
-  down. Be the first to reach the final square to win this timeless family game.
+  Joue à Snakes and Ladders, le grand classique de plateau basé sur la chance :
+  lance le dé, grimpe aux échelles pour prendre de l’avance et méfie‑toi des
+  serpents qui te feront redescendre. Sois le premier à atteindre la dernière
+  case pour gagner cette partie familiale intemporelle.
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/snakes-and-ladders.jpg
 tags:
@@ -17,34 +18,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-### Game Introduction
+Snakes and Ladders est un jeu de plateau intemporel, aussi appelé Chutes
+and Ladders dans certaines régions. Originaire de l’Inde ancienne, c’est un
+jeu de pur hasard où les joueurs se disputent la première place pour
+atteindre la case finale du plateau. Les échelles t’aident à grimper vers
+la victoire, tandis que les serpents te font glisser en arrière.
 
-Snakes and Ladders is a timeless classic board game, also known as Chutes and Ladders in some regions. Originating from ancient India, it's a game of pure luck where players race to be the first to reach the final square on the board. The journey is unpredictable, with ladders helping you climb closer to victory and snakes sliding you back down.
+### Guide de jeu
 
-### Gameplay Guide
+Le but est d’être le premier joueur à atteindre la dernière case (souvent
+la 100). À ton tour, lance un dé et avance ton pion du nombre de cases
+indiqué. Si tu termines sur une case au pied d’une échelle, tu montes
+immédiatement jusqu’à la case de son sommet. À l’inverse, si tu atterris
+sur une case avec une tête de serpent, tu dois redescendre jusqu’à sa queue.
 
-The objective is to be the first player to land on the final square (usually 100). Players take turns rolling a single die and moving their piece that number of spaces. If you land on a square at the base of a ladder, you immediately move up to the square at the top. Conversely, if you land on a square with a snake's head, you must slide down to the square at the snake's tail.
+### Commandes
 
-### Controls Guide
+- **Souris / Tactile :** clique ou touche la zone prévue pour lancer le
+  dé. Le jeu déplace ton pion automatiquement.
 
-- **Mouse/Touch:** Click or tap on the designated area to roll the die. The game will automatically move your piece.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Quel est l’objectif principal de Snakes and Ladders ?**  
+Être le premier à faire passer son pion de la case de départ (1) à la case
+finale (100).
 
-**What is the main objective of Snakes and Ladders?**
+**Y a‑t‑il une vraie stratégie ?**  
+Le jeu repose presque entièrement sur la chance du lancer de dé ; tu ne
+prends pas de décisions influençant vraiment l’issue. C’est ce qui le rend
+très accessible à tous les âges.
 
-The goal is to be the first person to get their game piece from the starting square (1) to the final square (100).
+**Que se passe‑t‑il si je fais un six ?**  
+Dans beaucoup de variantes, un six te donne un tour supplémentaire.
 
-**Is there any strategy involved?**
-
-Snakes and Ladders is almost entirely a game of luck based on die rolls. There are no decisions to make that can influence the outcome, making it a simple and accessible game for all ages.
-
-**What happens if I roll a six?**
-
-In many common variations of the rules, rolling a six grants the player an extra turn.
-
-**Do I need an exact roll to win?**
-
-This depends on the specific version of the game. In traditional rules, you must roll the exact number to land on the final square. If your roll is too high, you might have to "bounce back" the excess spaces.
-
+**Faut‑il un jet exact pour gagner ?**  
+Cela dépend des règles de la version jouée. Dans les règles classiques, il
+faut généralement tomber exactement sur la case finale. Si ton jet dépasse,
+tu rebondis en arrière du nombre de cases excédentaires.

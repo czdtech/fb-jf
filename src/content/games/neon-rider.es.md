@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: neon-rider
-title: '[ES] Neon Rider'
+title: "Neon Rider - Carreras de moto con físicas precisas"
 description: >-
-  [ES] Neon Rider delivers sleek bike‑physics runs — balance, throttle, and flip
-  cleanly to conquer neon tracks.
+  Neon Rider ofrece recorridos de moto con físicas pulidas: equilibra la
+  moto, controla el acelerador y gira con precisión para dominar los circuitos
+  de neón.
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
 thumbnail: /new-images/neon-rider.png
 tags:
@@ -17,28 +18,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Neon Rider es un plataformas de moto en vista lateral centrado en los
+aterrizajes suaves y el aprovechamiento del impulso. Controla la inclinación en
+el aire, dosifica el acelerador sobre los baches y encadena saltos sin
+sobregirar para mantener la velocidad.
 
-Neon Rider is a side‑view bike‑physics platformer focused on smooth landings and momentum. Control pitch mid‑air, manage throttle over bumps, and chain jumps without over‑rotating to keep speed.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  Aterrizar plano: intenta caer siempre con las ruedas niveladas para conservar
+    la máxima velocidad posible.
+2.  Acelerador a golpecitos: en terreno irregular, dosifica la potencia para
+    evitar que la moto clave la rueda delantera.
+3.  Corregir pronto: empieza a ajustar la inclinación cuando aún estás en el
+    aire; corregir al aterrizar suele llegar tarde.
+4.  Volteretas pequeñas: haz flips solo cuando el trazado lo permita y tengas
+    arco suficiente; las acrobacias gratuitas suelen matar tu ritmo.
+5.  Aprender las líneas: memoriza la longitud de los saltos y los puntos de
+    aterrizaje para lograr recorridos fluidos.
 
-1.  **[ES]** Land flat: Aim to touch down with wheels level to retain speed.
-2.  **[ES]** Tap throttle: Feather power on bumpy terrain to avoid nose dives.
-3.  **[ES]** Early corrections: Start pitch corrections in the air, not on landing.
-4.  **[ES]** Small flips only: Flip when safe and with enough arc; unnecessary flips bleed speed.
-5.  **[ES]** Learn lines: Memorize jump lengths and landing spots for perfect flow.
+### Guía de controles
 
-### Controls Guide
+- Acelerar/frenar: flechas arriba/abajo o teclas W/S.  
+- Inclinar: flechas izquierda/derecha o teclas A/D.  
+- Reiniciar: reinicio rápido del nivel para practicar los segmentos difíciles.
 
-- Accelerate/Brake: Up/Down or W/S.
-- Lean: Left/Right or A/D.
-- Restart: Quick restart to drill hard segments.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- P: Siempre clavo la rueda delantera al caer.  
+  R: Sueles salir de las rampas con demasiado gas; suelta acelerador justo antes
+  del borde para salir más plano.
 
-- I keep nosing in—why? Too much throttle off lips; ease off before takeoff.
-- How to keep momentum? Land level and avoid over‑rotations; pump small dips.
-- Any trick for big gaps? Commit to full send only when your landing is visible and aligned.
+- P: Cómo mantengo el impulso?  
+  R: Aterriza nivelado y evita sobre‑rotar; en pequeños valles, usa el peso de
+  la moto para "bombea"r y ganar velocidad.
 
+- P: Algún truco para los saltos grandes?  
+  R: Atrévete con el salto completo solo cuando veas claramente la rampa de
+  aterrizaje y tengas la moto alineada con ella.

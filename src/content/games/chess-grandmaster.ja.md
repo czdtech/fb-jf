@@ -1,74 +1,48 @@
 ---
-locale: ja
-urlstr: chess-grandmaster
-title: '[JA TRANSLATION NEEDED] Chess Grandmaster'
-description: >-
-  [JA TRANSLATION NEEDED] Chess Grandmaster offers classic chess — learn
-  openings, calculate tactics, and convert advantages with endgame fundamentals.
+title: Chess Grandmaster チェス・グランドマスター
+description: 「Chess Grandmaster」で本格的なチェス対局を。オープニング理論、中盤の戦術、そしてエンドゲームの基礎を学び、グランドマスターへの道を歩め。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/chess-grandmaster.jpg
+urlstr: chess-grandmaster
+score: 4.5/5  (2431 votes)
 tags:
   - thinky
   - puzzle
-score: 4.5/5  (2431 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Chess Grandmaster（チェス・グランドマスター）*は、AIやローカルの対戦相手と戦える、機能充実のブラウザ版チェスゲームです。チェスの3つのフェーズ、すなわち**オープニング**（駒の展開とキングの安全確保）、**ミドルゲーム**（フォーク、ピン、スキュアなどの戦術）、**エンドゲーム**（キングの活性化、オポジション、基本的な詰め将棋）を包括的に学べます。調整可能な難易度は、読みの力とパターン認識力を鍛えるのに最適です。
 
-[JA TRANSLATION NEEDED] Chess Grandmaster is a feature‑complete browser chess experience against AI or local opponents. Master the three phases: openings (development and king safety), middlegame (tactics like forks, pins, skewers), and endgames (king activity, opposition, basic mates). Adjustable difficulty helps you train calculation and pattern recognition.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **オープニング:** マイナーピース（ナイトとビショップ）を展開し、早めにキャスリングを行い、中央（e4/d4マス）の支配権を争いましょう。
+2.  **戦術（タクティクス）:** 毎ターン必ず「CCT」を確認しましょう。それはChecks（王手）、Captures（捕獲）、Threats（脅威）です。
+3.  **構造（ストラクチャー）:** ポーンの構造を崩さないようにしましょう。ダブルポーン（縦に重なる）や孤立ポーンなどの弱点を作らないようにし、押し込めるようなポーンの優位性を作ります。
+4.  **エンドゲーム:** 終盤ではキングを攻撃に参加させましょう（活性化）。基本的な詰め方（キングとクイーンvsキング、キングとルークvsキング）や、ポーンエンディングの定石（オポジション、ツークツワンク）は必須知識です。
+5.  **時間管理:**持ち時間が少なくなったら、複雑な手は避けて、シンプルで安全な手を選びましょう。
 
-[JA TRANSLATION NEEDED] 1.  Openings: Develop minor pieces, castle early, and fight for the center (e4/d4).
-[JA TRANSLATION NEEDED] 2.  Tactics: Always scan checks, captures, threats on every move (“CCT”).
-[JA TRANSLATION NEEDED] 3.  Structure: Avoid doubled/isolation if possible; create pawn majorities you can push.
-[JA TRANSLATION NEEDED] 4.  Endgames: Activate your king; know basic mates (KQ vs K, KR vs K) and pawn endings (opposition/zugzwang).
-[JA TRANSLATION NEEDED] 5.  Time control: Play simple, safe moves when low on time.
+### 操作ガイド
 
-### Controls Guide
+*   **操作:** 駒をクリックして移動可能な場所を表示し、移動先をクリックして配置します。
+*   **機能:** 画面上のUIから「引き分けの提案（オファー・ドロー）」「投了（リザイン）」や、AIレベルの設定が可能です。
 
-- Click a piece to see legal moves; click a destination to move.
-- Offer draw/resign and set AI level in the UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: どうすれば早く強くなれますか？**
 
-- Q: How do I improve quickly?
-  
-[JA TRANSLATION NEEDED]   A: Solve tactics daily, review your blunders, and learn a simple opening repertoire to reach familiar middlegames.
-
-- Q: Any beginner opening tips?
-  
-[JA TRANSLATION NEEDED]   A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
-
-- Q: What endgames should I learn first?
-  
+A: Solve tactics daily, review your blunders, and learn a simple opening repertoire to reach familiar middlegames.
+- **A:** 毎日タクティクス問題（詰将棋のようなパズル）を解くこと、自分の悪手（ブランダー）を見直すこと、そして馴染みのある局面に持ち込むためにシンプルなオープニングのレパートリーを1つ覚えることが近道です。
 
 
-
-
-
-- Q: How do I improve quickly?
-### よくある質問（FAQ）
-- Offer draw/resign and set AI level in the UI.
-- Click a piece to see legal moves; click a destination to move.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Checkmates with KQ vs K, KR vs K, basic king‑pawn opposition, and rook endings like the Lucena/Philidor positions.
-
-
-
-
-
+A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
+*   **Q: 初心者におすすめのオープニングは？**
 
 A: Checkmates with KQ vs K, KR vs K, basic king‑pawn opposition, and rook endings like the Lucena/Philidor positions.
-- Q: What endgames should I learn first?
-A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
-- Q: Any beginner opening tips?
+    *   **A:** 白番なら「1.e4」か「1.d4」から始めましょう。ビショップより先にナイトを出し、早めにキャスリングして、2つのルークを連結させるのが基本です。
 
-
-
-
-A: Checkmates with KQ vs K, KR vs K, basic king‑pawn opposition, and rook endings like the Lucena/Philidor positions.
-- Q: What endgames should I learn first?
-A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
+*   **Q: どのエンドゲームを最初に学ぶべきですか？**
+    *   **A:** 「キング＆クイーン vs キング」、「キング＆ルーク vs キング」のチェックメイト方法、そして基本的な「キング＆ポーンのオポジション（対面）」、ルセナ・ポジションやフィリドール・ポジションといったルークエンディングの基礎を学びましょう。

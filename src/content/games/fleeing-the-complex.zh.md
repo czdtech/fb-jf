@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: fleeing-the-complex
-title: '[ZH TRANSLATION NEEDED] Fleeing the Complex'
+title: "Fleeing the Complex 逃出高牆監獄"
 description: >-
-  [ZH TRANSLATION NEEDED] Branching stick‑figure escape: choose items and routes
-  to break out of the complex, discover multiple endings, and collect all
-  fails/bios.
+  Henry Stickmin 系列中規模最大的一次越獄行動：透過選擇道具與路線，
+  嘗試從要塞級監獄中逃脫，解鎖多種結局並收集所有失敗與角色資料。
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/fleeing-the-complex.jpg
 tags:
@@ -18,26 +17,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Henry Stickmin’s biggest breakout: make choices, use gadgets, and navigate route branches to escape, with many joke failures and several successful endings.
+
+這一集是 Henry Stickmin 的「大型越獄篇」，你要在重兵把守的復合設施中開路，
+透過一連串分支選擇與奇葩道具，拼出屬於自己的逃脫路線。大部分選項會以非常爆笑的方式失敗，
+只有少數分支能通往真正成功的結局，過程中充滿惡搞梗與大量支線收集。
 
 ### How to Play
-- Pick options during scenes; quick‑time prompts require timely clicks.
-- Explore the main route splits to find all endings.
-- Use scene select (where available) to complete fails/bios.
+
+- 在動畫過程中，畫面會不斷給出選項按鈕或道具清單，你要在短時間內做出選擇。
+  某些場景會出現 QTE 式快速反應提示，需要在很短的時間內點擊正確指令。
+- 嘗試不同主線分支，像是選擇不同盟友、路線或行動風格，來解鎖所有主要結局。
+- 若版本提供場景選擇功能，可以利用它快速回到特定轉折點，補齊沒看過的失敗演出（fails）
+  與角色 bios（角色資料）。
 
 ### Controls
-- Mouse to choose options and interact; keys for occasional prompts vary by host.
+
+- 使用滑鼠在選項出現時點擊按鈕，或點擊畫面上的互動物件。
+- 少數情境下可能需要按鍵盤指定按鍵（依託管版本而定）。
 
 ### Tips
-- When an option fails, try the alternate route—many scenes have a “correct” path.
-- Click characters during scenes to record bios if the version supports it.
-- Keep a checklist of endings to avoid repeats.
+
+- 某個選項失敗後，下一次可以試試同一場景中的其他分支，
+  多數情節至少會有一條「正確路線」。
+- 若該版本支援 bios，記得在動畫過程中多點擊畫面的角色，
+  以解鎖他們的角色資料，這也是一種收集要素。
+- 建議自己列一份「結局清單」，標註已完成與尚未完成的路線，避免一直重複看到同樣的劇情。
 
 ### FAQ
-- Q: How many endings does the game include?  
-[ZH TRANSLATION NEEDED]   A: There are multiple successful endings across the major route branches.
-- Q: Do I need to react quickly in every scene?  
-[ZH TRANSLATION NEEDED]   A: Only some scenes require quick clicks; most are menu choices.
-- Q: Can I rewatch scenes to collect everything?  
-[ZH TRANSLATION NEEDED]   A: Yes, many hosts provide scene selection for cleanup.
 
+- 問：遊戲裡總共有多少種結局？  
+  答：本作在幾條主要大分支中都設計了成功結局，總共有多個不同結局可以解鎖，
+  具體數量視版本呈現而略有差異。
+
+- 問：每一個場景都需要超快反應嗎？  
+  答：只有部分橋段需要快速點擊，大多數時候是給你幾個選項讓你慢慢選，
+  比較像互動式動畫而不是純反應遊戲。
+
+- 問：可以重看劇情來補完收集嗎？  
+  答：可以，許多線上版本會提供場景或章節選擇功能，方便你回頭補齊所有失敗演出與分支內容。

@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: perfect-piano
-title: '[ZH TRANSLATION NEEDED] Perfect Piano'
-description: >-
-  [ZH TRANSLATION NEEDED] Test your rhythm and reflexes in Perfect Piano! Tap
-  the falling notes as they reach the keyboard to play beautiful songs. Don't
-  miss a single tile!
+title: 《Perfect Piano》完美钢琴
+description: 《Perfect Piano》是一款节奏感十足的音乐游戏，你需要在音符落到琴键位置的瞬间精准点击，完整演奏出一首首动听乐曲，一键失误都不能有。
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/perfect-piano.png
 tags:
@@ -17,30 +14,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Perfect Piano is a fast-paced and engaging rhythm game that simulates playing the piano, similar to the popular "Piano Tiles" genre. Notes in the form of tiles fall from the top of the screen, and you must tap them at the precise moment they reach the bottom keyboard line. The game tests your reflexes, timing, and rhythm as you play along to a variety of beautiful and challenging songs.
+《Perfect Piano》是一款节奏快速、沉浸感很强的“钢琴块”类音乐游戏。游戏会以纵向下落的方式呈现音符方块，当它们滑到屏幕底部的琴键区域时，你必须在恰到好处的时机点击对应列，才能完美弹奏乐曲。节奏越快，你的反应和手指协调性就越受到考验；随着关卡难度提升，长按音符与连打片段也会越来越密集。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Focus on the Bottom Line:** Don't watch the tiles as they fall from the top. Keep your eyes focused on the target line at the bottom of the screen. This is where you need to react.
-2.  [ZH TRANSLATION NEEDED] **Anticipate the Rhythm:** Listen to the music! The falling tiles are perfectly synced with the song's melody and rhythm. Anticipating the beat will help you time your taps much more accurately.
-3.  [ZH TRANSLATION NEEDED] **Use Multiple Fingers:** For faster sections, don't rely on just one finger. Position your hands as if you were playing a real piano and use multiple fingers to cover the different columns.
-4.  [ZH TRANSLATION NEEDED] **Handle Long Notes:** When you see a long tile, you must press and hold it for its entire duration. Lifting your finger too early counts as a miss.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **视线锁定底线：** 不必一直盯着音符从顶部落下的过程，而是把注意力集中在底部判定线附近，这样更容易把握点击时机。
+2.  **听节奏而非只看块：** 音符与乐曲节奏是同步的，学会跟着节拍预判下一次点击的节奏点，能让你在高难曲目中更稳定地维持连击。
+3.  **多手指配合操作：** 在音符密集或多列同时下落的段落，不要只依赖单指点击，可以像弹钢琴一样，用多指覆盖不同列，提高输入速度与准确率。
+4.  **正确处理长按音符：** 看到长条音符时，按住并持续按到其尾端完全经过判定线后再松手，过早松开同样会被判为失误。
 
-[ZH TRANSLATION NEEDED] The game is played with simple taps or clicks.
+### 操作说明
 
-*   **Tap the Notes:** Use your mouse or fingers to click on the columns as the falling tiles cross the target line at the bottom.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple taps or clicks.
+*   **点击音符：** 使用鼠标或手指在音符所在的列上于正确时机点击/轻触，即可判定为有效输入。
 
-*   **Q: What happens if I miss a tile or tap the wrong spot?**
-     *   **A:** In most cases, the game will end immediately, and you will have to restart the song from the beginning.
+### 常见问题（FAQ）
 
-*   **Q: How do I get a high score?**
-     *   **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
+*   **问：如果点错位置或者漏点音符会发生什么？**
+    *   **答：** 大多数模式下只要出现一次漏点或误点，当前乐曲就会立即失败，需要从头重新演奏，因此保持专注非常重要。
 
-*   **Q: Can I play different songs?**
-     *   **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
+*   **问：怎样才能拿到高分或“完美通关”？**
+    *   **答：** 尽可能做到整首曲子“全连”（不漏任何一个音符），并且每一击都踩在优秀或完美判定上。连击数越高、判定越精确，最终得分和评价越好。
 
+*   **问：可以选择不同的曲目吗？**
+    *   **答：** 可以，游戏通常内置多首曲子，并按难度分级。部分高级曲目需要你先完成前面较容易的关卡，或达成一定成绩后才能解锁。

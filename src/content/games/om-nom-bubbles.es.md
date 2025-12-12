@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: om-nom-bubbles
-title: '[ES] Om Nom Bubbles'
+title: "Om Nom Bubbles - Dispara burbujas con Om Nom"
 description: >-
-  [ES] Om Nom Bubbles is a colorful bubble shooter — match colors, bank shots,
-  and clear boards with smart angles.
+  Om Nom Bubbles es un colorido bubble shooter: empareja colores, usa tiros a
+  banda y limpia el tablero aprovechando ángulos inteligentes.
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/om-nom-bubbles.jpg
@@ -17,29 +17,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Om Nom Bubbles es un bubble shooter clásico protagonizado por el querido Om
+Nom. Apunta y dispara burbujas de colores para formar grupos de tres o más y
+limpiar secciones del tablero. Los rebotes en las paredes, la gestión de
+colores y la planificación de las próximas burbujas son fundamentales para que
+el techo no baje demasiado.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Om Nom Bubbles is a classic bubble‑shooter starring the beloved Om Nom. Aim and shoot colored bubbles to make matches of three or more and clear sections of the board. Strategic banking off the walls, color management, and planning for upcoming bubbles are key to keeping the ceiling from dropping too low.
+1.  **Apuntar a los anclajes:** céntrate en los grupos que sostienen secciones
+    grandes; hacer que caigan bloques completos acelera la limpieza.
+2.  **Usar tiros a banda:** apóyate en las paredes laterales para alcanzar
+    racimos escondidos y cumplir objetivos de estrellas de forma eficiente.
+3.  **Gestionar los colores:** si un color aparece poco, evita enterrarlo en
+    zonas difíciles de alcanzar; prioriza los colores que desbloquean caídas
+    más amplias.
+4.  **Pensar por adelantado:** muchas versiones muestran la siguiente burbuja;
+    planifica dos movimientos vista para no bloquear tus propios pasillos.
+5.  **No perseguir grupos diminutos:** cuando el techo está muy bajo, despeja
+    primero rutas amplias y deja los grupos pequeños para el final.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Target anchors: Remove clusters that hold large sections; collapsing big groups accelerates clears.
-2.  **[ES]** Bank for angles: Use the side walls to reach tucked‑away clusters and collect star objectives efficiently.
-3.  **[ES]** Manage colors: If a color is scarce, avoid burying it deep; prioritize colors that unlock the broadest collapses.
-4.  **[ES]** Look ahead: Many versions show the next bubble—pre‑plan two moves to avoid blocking your own lanes.
-5.  **[ES]** Don’t chase tiny groups: When the ceiling is low, clear access lanes first, then finish leftovers.
+- Apuntar: mueve el cursor o arrastra para fijar la trayectoria; algunas
+  versiones muestran una guía de rebote.  
+- Disparar: haz clic o suelta para lanzar la burbuja.  
+- Cambiar (si está disponible): en ciertos modos puedes intercambiar la burbuja
+  actual con la siguiente para ganar flexibilidad.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim: Move the cursor or drag to set trajectory; a guide may show the path.
-- Shoot: Click or release to fire.
-- Swap (if available): Some versions allow swapping the current and next bubble for flexibility.
+- P: Cómo alcanzo grupos tapados?  
+  R: Usa tiros a banda rebotando en la pared lateral para entrar por un ángulo
+  distinto.
 
-### Frequently Asked Questions (FAQ)
+- P: Y si el juego insiste en darme el color que no necesito?  
+  R: Úsalo para limpiar pequeños grupos molestos o para preparar futuras
+  caídas; si el modo lo permite, intercambia la burbuja con la siguiente.
 
-- How do I reach covered clusters? Bank a shot off the side wall to approach from an angle.
-- What if the wrong color keeps coming? Use it to trim small groups or set up future collapses; swap if the mode allows.
-- Do I need all stars? No, but higher ratings unlock extra levels and are a fun mastery goal.
-
+- P: Hace falta conseguir siempre las tres estrellas?  
+  R: No es obligatorio, pero las puntuaciones altas suelen desbloquear niveles
+  extra y son un buen reto para quienes buscan dominar el juego.

@@ -1,42 +1,36 @@
 ---
+title: "House Of Hazards"
+description: "ローカルパーティーのカオス：罠だらけの家で簡単な家事をこなしながら、友達がハザード（罠）を発動してあなたを妨害します。"
+iframeSrc: "https://webglmath.github.io/house-of-hazards/"
+thumbnail: "/new-images/house-of-hazards.jpg"
+urlstr: "house-of-hazards"
+score: "4.1/5  (127 votes)"
+tags: ["party", "multiplayer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: house-of-hazards
-title: '[JA TRANSLATION NEEDED] House Of Hazards'
-description: >-
-  [JA TRANSLATION NEEDED] Local party chaos: complete simple chores in a
-  booby‑trapped house while friends trigger hazards to knock you out.
-iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
-thumbnail: /new-images/house-of-hazards.jpg
-tags:
-  - party
-  - multiplayer
-score: 4.1/5  (127 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+House of Hazardsは、罠だらけの家を舞台にした同席マルチプレイヤーのパーティーゲームです。プレイヤーは、コーヒーを淹れる、植物に水をやる、玄関から出るといった日常的なタスクをこなすために競争しますが、対戦相手がトースターを発射したり、ランプを振り回したり、床の罠を作動させたりして妨害してきます。短いラウンド、予測不可能な物理挙動、マップ固有のギャグが、試合を活気づけます。
 
+### 遊び方
+- タスクモードでは、チェックリストを最初に終わらせましょう。サボタージュ（妨害）モードでは、最大のカオスのために罠のタイミングを計ります。
+- 各部屋のトリガーポイント（発動地点）を覚えて、チョークポイント（要所）で走者を捕まえましょう。
+- チームバリアントでは、パートナーと協力してハザードを連鎖させましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] House of Hazards is a couch‑multiplayer party game set in a trap‑filled home. Players race to finish everyday tasks—make coffee, water plants, head out the door—while opponents sabotage them by firing toasters, swinging lamps, or activating floor traps. Quick rounds, unpredictable physics, and map‑specific gags keep matches lively.
+### 操作方法
+- シンプルな移動/ジャンプ/アクションキー。複数のローカルプレイヤー用に別々のキー配置があります。
 
-### How to Play
-- In task mode, finish your checklist first; in sabotage mode, time traps for maximum chaos.
-- Learn trigger points for each room to catch runners at chokepoints.
-- Coordinate with partners in team variants to chain hazards.
+### ヒント
+- 次のタスクに集中しすぎないでください。光っている（グロー）罠がセットされている兆候に注意しましょう。
+- 動くハザードの前にジャンプして、被弾後も勢いを保ちましょう。
+- サボタージュ役（妨害者）としては、動きを誘ってから遅めに発動して、ジャンプの軌道を捕らえましょう。
 
-### Controls
-- Simple move/jump/action keys; multiple local players with separate binds.
-
-### Tips
-- Don’t tunnel‑vision the next task—watch for glows indicating armed traps.
-- Jump before moving hazards to maintain momentum after hits.
-- As saboteur, bait movement then trigger late to catch jump arcs.
-
-### FAQ
-- Q: How do I win consistently against multiple opponents?  
-[JA TRANSLATION NEEDED]   A: Plan a task route with minimal room crossings and avoid known ambush spots.
-- Q: Can we customize rules or teams in this game?  
-[JA TRANSLATION NEEDED]   A: Many hosts allow team play and house rule tweaks.
-- Q: Is there a single‑player mode available?  
-[JA TRANSLATION NEEDED]   A: Some hosts include bot races or challenge runs, but the game shines in local multiplayer.
-
+### よくある質問 (FAQ)
+- **Q: 複数の対戦相手に対して安定して勝つには？**  
+  A: 部屋の横断を最小限に抑えたタスクルートを計画し、既知の待ち伏せスポットを避けましょう。
+- **Q: ルールやチームをカスタマイズできますか？**  
+  A: 多くのホストでは、チームプレイやハウスルール（独自ルール）の調整が可能です。
+- **Q: シングルプレイヤーモードはありますか？**  
+  A: 一部のホストにはボットレースやチャレンジランが含まれていますが、このゲームはローカルマルチプレイヤーで真価を発揮します。

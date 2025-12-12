@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: escaping-the-prison
-title: '[ZH TRANSLATION NEEDED] Escaping the Prison'
+title: "Escaping the Prison 監獄大逃脫（Henry Stickmin）"
 description: >-
-  [ZH TRANSLATION NEEDED] A Henry Stickmin point‑and‑click adventure: choose
-  items and routes (Sneaky/Badass/Legal) to break out, with multiple endings and
-  gags.
+  《Escaping the Prison》是 Henry Stickmin 系列的點擊冒險篇章，
+  透過選擇道具與路線（潛行、火爆、法律途徑）幫助火柴人越獄，體驗多結局與滿滿惡搞梗。
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/escaping-the-prison.jpg
 tags:
@@ -18,18 +17,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Henry Stickmin is locked up—use branching choices and slapstick tools to escape. Most options fail hilariously; a few lead to successful endings.
+
+Henry Stickmin 被關進牢裡了——你要靠一連串分支選擇與各種離譜道具，
+看看能不能幫他成功逃出監獄。大多數選項會以爆笑的方式失敗，只有少數路線能通往真正的成功結局，
+過程中充滿惡搞與彩蛋。
 
 ### How to Play
-- Pick an item/route when prompted; quick‑time moments require timely clicks.
-- Unlock three main endings (e.g., Sneaky, Badass, Legal) by finding the correct sequences.
-- Revisit scenes to collect all fails and bios if offered.
+
+- 在關鍵時刻選擇不同的道具或路線，例如走潛行路線、火爆硬闖，
+  或是出乎意料地走「法律途徑」。
+- 某些橋段會出現類似 QTE 的快速反應場景，需要在短時間內點擊正確選項才能過關。
+- 遊戲中共有數個主要結局（例如 Sneaky、Badass、Legal 等），
+  你可以透過不同選擇順序解鎖所有結局。
+- 通關後可以利用場景選擇功能重返特定片段，補齊所有失敗演出（fails）與角色資料（bios）。
 
 ### Controls
-- Mouse: click choices and quick‑time prompts; Space for some interrupts (host dependent).
+
+- 滑鼠：點擊選項與螢幕上的即時反應提示。
+- 視託管版本不同，部分特殊中斷操作可能使用空白鍵等快捷鍵。
 
 ### Tips
-- If stuck, explore the other major route branches; many scenes have alternative solutions.
-- Bios (when present) trigger by clicking characters during scenes.
-- Use scene select (if available) to mop up missing fails.
 
+- 卡關時不妨改走另一條主線分支，很多場景都有完全不同的解法與搞笑收尾。
+- 如果版本支援 bios 系統，可以在動畫過程中點擊畫面裡的角色來解鎖角色資訊。
+- 利用場景選擇功能，可以快速回到某一個分歧點，集中收集尚未看過的失敗演出，
+  方便達成「全失敗收集」成就。

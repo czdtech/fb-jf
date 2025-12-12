@@ -1,46 +1,90 @@
 ---
 locale: fr
 urlstr: crescent-solitaire
-title: '[FR] Crescent Solitaire'
-description: >-
-  [FR] Crescent Solitaire is a relaxing card‑solitaire variant: move cards
-  between crescents to build foundations and clear the tableau.
-iframeSrc: >-
-  https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
-thumbnail: /new-images/crescent-solitaire.jpg
+title: Crescent Solitaire
+description: "Crescent Solitaire est une variante du solitaire en croissant\_: réorganise les cartes autour des As et des Rois pour vider l’arc de cartes."
+iframeSrc: 'https://g2.forcegame.ru/game/14/FG2157_1/index.html'
+thumbnail: /new-images/crescent-solitaire.png
 tags:
-  - solitaire
   - card
-score: 4.4/5  (944 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - puzzle
+  - casual
+score: 4.2/5  (1800 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Overview
-Crescent Solitaire is a two‑deck patience game played with 16 tableau piles arranged in a semicircle (“crescent”) around eight foundations: one Ace and one King of each suit. The goal is to build Ace foundations up in‑suit to King and King foundations down in‑suit to Ace. Tableau builds allow up or down by suit and can wrap around (King after Ace and vice‑versa). Empty spaces are not filled. After you exhaust moves, a redeal moves the bottom card of every tableau pile to the top; you usually get three redeals per game. When the two foundations of a suit are in sequence, you may transfer cards between them (not the base Ace/King). 
+Crescent Solitaire est une variante du solitaire dans laquelle les cartes sont
+réparties en arc de cercle autour de piles centrales composées d’As et de Rois.
+Tu dois déplacer les cartes sur ces piles en les empilant dans l’ordre
+croissant ou décroissant, selon la direction.
 
-### How to Play
-- Move available top cards from the tableau to foundations, following suit and direction.
-- Build tableau piles up or down in suit to uncover useful cards; wrapping is allowed.
-- Use foundation transfers (same‑suit in sequence) to free blocked cards.
-- When stuck, press Redeal to cycle each tableau pile’s bottom card to the top; up to three redeals.
+L’objectif est de vider tout l’arc de cartes avant d’avoir épuisé tes
+mouvements ou remélanges autorisés.
 
-### Controls
-- Mouse/touch: select or drag cards; tap buttons for Undo/Hint/Redeal (as provided by the host site).
-- No stock to draw from; progress depends on tableau manipulation and timely redeals.
+### Guide de jeu
 
-### Tips and Strategies
-- Build evenly across suits so no single suit stalls both of its foundations.
-- Before using a redeal, expose as many helpful top cards as possible.
-- Prefer moves that release buried low cards for Ace stacks and high cards for King stacks.
+1.  **Comprends les piles centrales**  
+    Les As se construisent en ordre croissant (A, 2, 3… jusqu’au Roi) alors que
+    les Rois se construisent en ordre décroissant (K, Q, J… jusqu’à l’As).
+2.  **Alterner croissant/décroissant**  
+    Tu peux parfois faire le tour de la séquence (après Roi, revenir sur As ou
+    inversement), selon les règles précises de la version.
+3.  **Utilise les remélanges avec parcimonie**  
+    Tu disposes souvent d’un nombre limité de remélanges pour mélanger l’arc de
+    cartes. Garde‑les pour quand tu es réellement bloqué.
+4.  **Libère les cartes bloquées**  
+    Cherche les mouvements qui dégagent des cartes enfouies, même si cela ne
+    remplit pas immédiatement une pile centrale.
+5.  **Pense à plusieurs coups**  
+    Comme dans les autres solitaires, réfléchir à l’avance aux conséquences d’un
+    déplacement t’évitera de te bloquer trop vite.
+
+### Commandes
+
+- **Déplacer une carte** : clique‑glisse une carte depuis l’arc vers l’une des
+  piles centrales compatible.  
+- **Remélanger** : utilise le bouton ou la pile dédiée pour remélanger les
+  cartes restantes lorsque autorisé.  
+- **Annuler / Recommencer** : certaines versions proposent un bouton d’annulation
+  ou un redémarrage rapide.
+
+### Foire aux questions (FAQ)
+
+
+- Q: How many redeals are allowed?
+
+
 - After a redeal, re‑scan all piles; valuable cards often rotate into play.
 
-### FAQ
-- Q: How many redeals are allowed?
-A: Standard Crescent allows three redeals (four deals total).  
+- Prefer moves that release buried low cards for Ace stacks and high cards for King stacks.
+
+- Before using a redeal, expose as many helpful top cards as possible.
+### Foire aux questions (FAQ)
+
+- After a redeal, re‑scan all piles; valuable cards often rotate into play.
+
+- Prefer moves that release buried low cards for Ace stacks and high cards for King stacks.
+
+- Before using a redeal, expose as many helpful top cards as possible.
+
+- Build evenly across suits so no single suit stalls both of its foundations.
+**Q : Toutes les parties sont‑elles gagnables ?**  
+
 - Q: Can empty spaces be filled?
-A: No. Spaces in the tableau are not filled in Crescent.  
+R : Comme pour beaucoup de solitaires, certaines dispositions sont très
+
 - Q: What is “foundation transfer”?
-A: If the Ace and King foundations of a suit are in sequence, you may move one or more top cards between them (excluding the base Ace/King) to continue building.  
+compliquées voire impossibles. Le challenge consiste à maximiser ton taux de
+victoire.
+
+**Q : Puis‑je repasser d’un As à un Roi (ou l’inverse) ?**  
+R : Cela dépend des règles de la version. Vérifie l’aide en jeu : certaines
+acceptent le "bouclage", d’autres non.
+
+**Q : Le temps est‑il limité ?**  
+R : Parfois, un chrono ou un score basé sur la vitesse ajoutent un challenge
+supplémentaire, mais tu peux généralement jouer à ton rythme.

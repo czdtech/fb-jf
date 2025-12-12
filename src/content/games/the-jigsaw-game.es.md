@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: the-jigsaw-game
-title: '[ES] The Jigsaw Game'
+title: "The Jigsaw Game - Rompecabezas de piezas clásicas"
 description: >-
-  [ES] The Jigsaw Game offers relaxing picture puzzles — sort edges, group
-  colors, and complete artworks piece by piece.
+  The Jigsaw Game ofrece una experiencia relajante de rompecabezas de imágenes:
+  coloca primero los bordes, agrupa colores y texturas y completa ilustraciones
+  pieza a pieza.
 iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
 thumbnail: /new-images/the-jigsaw-game.png
 tags:
@@ -15,30 +16,27 @@ score: 4.3/5  (2146 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+The Jigsaw Game es un clásico rompecabezas digital con imágenes y número de piezas configurables. Empieza construyendo el marco, agrupa las piezas por colores o patrones y ve ensamblando pequeñas secciones antes de unirlas en la imagen final.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  Borde primero: completa el marco cuanto antes para anclar el resto de grupos.
+2.  Clasifica piezas: separa por color, textura y formas distintivas.
+3.  Crea “islas”: arma zonas temáticas (cielo, césped, personajes) y luego conéctalas.
+4.  Rotación cuando toque: en algunos modos deberás girar las piezas; mantén una orientación coherente.
+5.  Zoom y panorámica: usa las herramientas de acercar/alejar y moverte por el tablero para trabajar con precisión en áreas densas.
 
-The Jigsaw Game is a classic digital jigsaw experience with selectable images and piece counts. Work the edges first, cluster by colors/patterns, and assemble sections before joining them into the final picture.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Arrastra para mover piezas; gira si el modo lo permite.
+- Usa las opciones de zoom y desplazamiento de la interfaz o gestos táctiles.
+- En la mayoría de versiones, las piezas encajan automáticamente cuando se colocan en la posición correcta.
 
-1.  **[ES]** Edge pass: Complete the frame early to anchor interior groups.
-2.  **[ES]** Sort pieces: Separate by color, texture, and distinctive shapes.
-3.  **[ES]** Build islands: Finish small themed areas (sky, grass, faces) and merge later.
-4.  **[ES]** Rotate if needed: Some modes require rotation—keep orientation consistent.
-5.  **[ES]** Zoom/pan: Use tools to increase accuracy on dense areas.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
-
-- Drag to move pieces; rotate if the mode supports it.
-- Zoom and pan via UI controls or gestures.
-- Snap: Pieces usually auto‑snap when correctly placed.
-
-### Frequently Asked Questions (FAQ)
-
-- Are there timers? Modes vary; many offer relaxed, untimed sessions.
-- Can I change piece count? Typically yes; pick a difficulty that fits your session length.
-- Any photo variety? Usually landscapes, animals, and seasonal themes.
+- ¿Hay temporizadores? Algunos modos incluyen tiempo, pero muchos ofrecen sesiones relajadas sin límite.
+- ¿Puedo cambiar el número de piezas? Normalmente sí; elige la dificultad en función del tiempo del que dispongas.
+- ¿Hay variedad de imágenes? Suelen incluir paisajes, animales, escenas de temporada y otras ilustraciones temáticas.
 

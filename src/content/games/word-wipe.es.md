@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: word-wipe
-title: '[ES] Word Wipe'
+title: "Word Wipe - Limpia el tablero con palabras"
 description: >-
-  [ES] Clear the board with your vocabulary in Word Wipe, a fast-paced and
-  addictive word puzzle game! Connect letters horizontally, vertically, or
-  diagonally to form words. Watch them disappear and new letters fall as you
-  race against the clock to clear rows and achieve a high score.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
-thumbnail: /new-images/word-wipe.jpg
+  Limpia el tablero usando tu vocabulario en Word Wipe, un rompecabezas de
+  palabras rápido y adictivo. Conecta letras en cualquier dirección para formar
+  términos, haz que desaparezcan y deja caer nuevas letras mientras luchas
+  contra el reloj para despejar filas y lograr una gran puntuación.
+iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/"
+thumbnail: "/new-images/word-wipe.jpg"
 tags:
   - word-game
   - puzzle
@@ -17,36 +17,34 @@ score: 4.8/5  (1384 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-
-
 ### Game Introduction
 
-Word Wipe is a dynamic and engaging word puzzle game that combines elements of word-finding with a falling-block mechanic. Players are presented with a grid of letters and must quickly find and connect letters to form words. Once a word is formed, the letters disappear, and new letters fall from above, creating a continuous and fast-paced challenge.
+Word Wipe es un dinámico rompecabezas de palabras que combina la búsqueda de términos con una mecánica de caída de fichas. Te enfrentas a una cuadrícula de letras y debes encontrar rápidamente palabras conectando letras adyacentes. Al formar un término, esas letras desaparecen y las de arriba caen, manteniendo el desafío en movimiento constante.
 
 ### Gameplay Guide
 
-- **Objective:** Form words to clear lines and progress through levels. The goal is to clear a certain number of rows within a time limit.
-- **Word Formation:** Connect letters horizontally, vertically, or diagonally to spell words of three letters or more.
-- **Clearing Lines:** When a word is formed, the letters are removed, and the tiles above them drop down. Clearing entire rows is often a key objective.
-- **Time Limit:** The game is played against a clock, adding an element of urgency.
-- **Scoring:** Longer and more complex words yield higher scores. Speed also contributes to your score.
-- **Bonus Bombs:** Earn special "bombs" that can clear multiple tiles at once, helping you out of tight spots.
+- **Objetivo:** formar palabras para limpiar líneas y superar niveles. Normalmente debes eliminar un número concreto de filas dentro de un límite de tiempo.
+- **Formación de palabras:** conecta letras en horizontal, vertical o diagonal para crear palabras de tres letras o más.
+- **Limpieza de filas:** al formar palabras, las fichas desaparecen y las superiores caen. Completar filas enteras suele ser el objetivo principal.
+- **Límite de tiempo:** juegas contra el reloj, lo que añade urgencia al proceso.
+- **Puntuación:** las palabras largas y complejas valen más puntos; la velocidad también suma.
+- **Bombas de bonus:** puedes conseguir “bombas” especiales que limpian varias casillas a la vez y te ayudan en situaciones complicadas.
 
 ### Controls Guide
 
-- **Mouse/Touch:** Click and drag (or swipe) across adjacent letters to form words.
+- **Ratón / táctil:** haz clic y arrastra (o desliza) sobre letras adyacentes para formar palabras.
 
 ### Frequently Asked Questions (FAQ)
 
-**How do I win in Word Wipe?**
+**¿Cómo se gana en Word Wipe?**
 
-To win a level, you typically need to clear a specific number of rows by forming words within the given time limit. The overall goal is to achieve the highest score.
+Debes limpiar el número de filas requerido antes de que se agote el tiempo en cada nivel; el objetivo global es conseguir la máxima puntuación posible.
 
-**What happens if I run out of time?**
+**¿Qué pasa si se acaba el tiempo?**
 
-If you fail to clear the required number of rows before the timer runs out, the game ends.
+Si no has eliminado las filas necesarias antes de que el temporizador llegue a cero, la partida termina.
 
-**Are there any strategies for high scores?**
+**Hay estrategias para puntuaciones altas?**
 
-Focus on finding longer words and clearing full rows. Try to create chain reactions where clearing one word leads to new opportunities. Use bonus bombs strategically when you're stuck or need to clear a large area.
+Busca palabras largas que limpien varias filas, intenta crear reacciones en cadena y usa las bombas con cabeza para liberar grandes áreas cuando te quedes sin opciones claras.
 

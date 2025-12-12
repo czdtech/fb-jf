@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: santas-quest
-title: '[DE] Santa''s Quest'
+title: "Santa's Quest"
 description: >-
-  [DE] Santa's Quest is a festive puzzle adventure — solve simple objectives,
-  clear routes, and deliver gifts on time.
+  Santa's Quest ist ein weihnachtliches Puzzleabenteuer: Plane Santas Route,
+  räume den Weg frei und bringe alle Geschenke rechtzeitig ans Ziel.
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/santas-quest.png
 tags:
@@ -15,29 +15,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Santa's Quest ist ein leicht zugängliches, weihnachtliches Puzzlespiel. Du
+ führst den Weihnachtsmann über kleine, kachelbasierte Level, sammelst
+ benötigte Items wie Geschenke oder Schlüssel ein und steuerst ihn sicher zum
+ Ausgang – ohne in Sackgassen stecken zu bleiben oder von leichten Gefahren
+ erwischt zu werden. Die kurzen Level eignen sich ideal für eine schnelle
+ Runde zwischendurch.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Santa's Quest is a holiday‑themed casual puzzler. Guide Santa through simple tile‑based challenges, collect required items, and reach exits while avoiding light hazards or dead‑ends. Short levels suit quick seasonal sessions.
+1.  **Route zuerst planen:** Schau dir vor dem ersten Schritt an, wo
+    Schalter, Schlüssel, Geschenke oder andere Sammelobjekte liegen, und denke
+    die grobe Route einmal durch.
+2.  **Sackgassen vermeiden:** Blockiere schmale Gänge nicht mit irreversiblen
+    Zügen. Überlege, ob du nach einem Schritt noch zurück oder an Hindernissen
+    vorbei kommst.
+3.  **Reihenfolge der Aufgaben:** Sammle Objekte in einer Reihenfolge ein, die
+    unnötige Umwege minimiert und dir den Rückweg nicht abschneidet.
+4.  **Timer beachten (falls vorhanden):** Wenn ein Zeitlimit aktiv ist,
+    konzentriere dich zuerst auf Pflichtziele und lass optionale Sterne oder
+    Boni zur Not liegen.
+5.  **Schnell neu starten:** Da die Level kurz sind, lohnt sich ein schneller
+    Neustart, wenn du dich verrannt hast.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Route first: Identify keys, switches, or collectibles before moving.
-2.  **[DE]** Avoid softlocks: Don’t block narrow corridors with one‑way moves.
-3.  **[DE]** Order of operations: Grab items in an order that minimizes backtracking.
-4.  **[DE]** Watch timers (if any): Prioritize mandatory goals over optional stars when time is tight.
-5.  **[DE]** Retry quickly: Short stages reward fast restarts when mistakes happen.
+- **Bewegen:** Mit Pfeiltasten oder WASD steuerst du Santa über das Gitter.
+- **Interaktion:** Viele Objekte werden automatisch beim Betreten aktiviert;
+  gelegentlich musst du sie per Tastendruck auslösen.
+- **Pause/Neustart:** Über die UI pausierst du das Spiel oder startest das
+  Level neu.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Move: Arrow keys / WASD or swipe on mobile.
-- Interact: Automatic on contact or via a prompt.
-- Pause/Restart: On‑screen UI.
+- **F: Ich stecke hinter einem Block fest – was nun?**
+  
+  Starte das Level neu und passe deine Route so an, dass du Engstellen nicht
+  zustellst.
 
-### Frequently Asked Questions (FAQ)
+- **F: Gibt es Gegner?**
+  
+  Einige Level enthalten leichte Gefahren wie patrouillierende Figuren oder
+  Fallen. Mit gutem Timing kannst du sie problemlos umgehen.
 
-- Stuck behind a block—what now? Restart and re‑order your route to keep corridors open.
-- Are there enemies? Light hazards/patrols in some levels; timing solves most.
-- Do I need all stars? Optional—collect them for full completion.
-
+- **F: Muss ich alle Sterne sammeln?**
+  
+  Nein, Sterne sind meist optional und dienen der 100%-Vervollständigung.

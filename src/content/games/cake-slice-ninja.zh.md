@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: cake-slice-ninja
-title: '[ZH TRANSLATION NEEDED] Cake Slice Ninja'
-description: >-
-  [ZH TRANSLATION NEEDED] Cake Slice Ninja is a sweet slicing rush — swipe clean
-  cuts, chain combos, and avoid hazards for high scores.
+title: Cake Slice Ninja 蛋糕忍者切切乐
+description: 《Cake Slice Ninja 蛋糕忍者切切乐》是一款节奏明快的切水果类游戏变体，在空中划出利落刀光，连续切开飞起的蛋糕 与甜点，躲开炸弹冲击高分连击。
 iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
 thumbnail: /new-images/cake-slice-ninja.jpeg
 tags:
@@ -15,25 +13,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Cake Slice Ninja channels classic slice‑’em‑up action: flick to slice cakes as they fly, build combo chains with fast successive cuts, and dodge bombs or penalties that break your streak.
+*Cake Slice Ninja* 延续了经典“切水果”类游戏的爽快感：各种蛋糕和甜点会被抛向屏幕空中，你需要用鼠标或手指划出干净利落的刀线，将它们在空中一一切开。连续在短时间内切到多个目标可以形成连击（Combo），大幅提升得分。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Long straight swipes: Slice multiple pieces in a single motion to bank combos.
-2.  [ZH TRANSLATION NEEDED] Don’t chase low cuts: Let low pieces rise into a safer arc before slicing.
-3.  [ZH TRANSLATION NEEDED] Bomb discipline: When bombs appear, prioritize clean misses over risky slices.
-4.  [ZH TRANSLATION NEEDED] Read spawns: Memorize spawn rhythms to pre‑position your cursor.
-5.  [ZH TRANSLATION NEEDED] Recover quickly: If a combo drops, reset posture and rebuild with safe doubles.
+与此同时，场景中还会出现炸弹或惩罚性物体，一旦误切会导致连击重置、扣分或直接结束游戏，因此需要在追求高连击的同时保持风险意识。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Slice: Click‑drag or swipe to cut through targets.
-- Pause/Retry: Use on‑screen buttons.
+1.  **利用长而直的滑动一次切多块**  
+    优先寻找那些飞行轨迹相近的蛋糕组合，用一次长直线划过，将多个目标一并切开，可以迅速累积连击数与额外得分。
 
-### Frequently Asked Questions (FAQ)
+2.  **不要强行追低高度的目标**  
+    刚从屏幕下缘冒头的目标，往往高度过低且贴近炸弹区域。可以稍等一两瞬，让它们飞到安全高度再出刀，避免因为贪图一点点分数而误切炸弹。
 
-- Missed a piece—big penalty? Modes vary; many dock combo or time, not full score.
-- Any two‑finger tricks? On touch devices, multi‑finger swipes can cover more area if supported.
-- How to avoid bombs? Track their fuses and paths; never complete a swipe that crosses a bomb.
+3.  **看到炸弹时，宁可放弃一部分目标**  
+    一旦屏幕中出现炸弹，首要任务是确保你的滑动轨迹不会穿过炸弹所在区域。宁愿少切几个蛋糕，也不要冒险在炸弹附近画长线。
 
+4.  **熟悉刷怪节奏，提前预判生成位置**  
+    多玩几局后，你会发现不同波次的抛射节奏相对固定。通过记住大致节奏，可以提前把指针移动到可能出现目标的位置，减少反应时间。
+
+5.  **掉连后先稳一下节奏再冲刺**  
+    如果不慎漏切或碰到惩罚导致连击中断，不要立刻乱划。先用一两次稳妥的双切或三切重新建立连击节奏，再考虑冒险去追求更复杂的划线。
+
+### 操作指南
+
+-   **切割：** 在 PC 上按住鼠标左键拖动，或在触屏设备上用手指滑动，轨迹上的蛋糕都会被切开。  
+-   **暂停 / 重试：** 通过界面按钮可随时暂停或重新开始当前局。  
+
+### 常见问题解答（FAQ）
+*   **问：漏切一个蛋糕会有什么后果？****
+    *   答：** 具体惩罚依模式而定，常见情况是连击被重置，或扣除少量时间 / 分数。大部分模式不会因为漏切一次就直接 Game Over。
+*   **问：触屏能不能多指同时滑？****
+    *   答：** 取决于实现，有些版本支持多指滑动，可以在宽屏上覆盖更大区域；建议自行尝试，若游戏判定正常就可以利用多指配合。
+*   **问：炸弹太多总是误切怎么办？****
+    *   答：** 遇到炸弹密集波次时，可以刻意缩短每次滑动的路径，只做“短线精切”，并且宁可放弃边缘的单个目标，也要保证任何一条线都不会穿过炸弹。

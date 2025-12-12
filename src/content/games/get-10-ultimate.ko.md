@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: get-10-ultimate
-title: '[KO] Get 10 Ultimate'
+title: Get 10 Ultimate 넘버 퍼즐
 description: >-
-  [KO] A challenging number puzzle! Tap on adjacent, identical numbers to merge
-  them into a higher number. Can you make it to 10 and beyond?
+  인접한 같은 숫자 타일을 눌러 하나 높은 숫자로 합치는 숫자 퍼즐 게임입니다. 목표는 10을 만드는 것에서 시작해, 가능한 한 높은 숫자와
+  점수를 노리는 것입니다.
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/get-10-ultimate.png
 tags:
@@ -15,34 +15,65 @@ score: 4.4/5  (2400 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+`Get 10 Ultimate`는 규칙은 간단하지만 생각할 거리는 깊은 숫자 퍼즐 게임입니다.
+보드는 숫자가 적힌 타일들로 가득 차 있고, 플레이어는 이 타일들을 합쳐 더
+높은 숫자를 만들어야 합니다. 인접한 같은 숫자 타일이 2개 이상 모여 있는
+그룹을 탭하면, 그 그룹 전체가 하나의 타일로 합쳐지면서 숫자가 1 증가합니다.
+처음 목표는 숫자 10 타일을 만드는 것이지만, 궁극적으로는 보드가 막히기 전에
+얼마나 높은 숫자와 점수를 만들 수 있는지가 승부처입니다.
 
+### 게임 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1. **누르기 전에 한 번 더 생각하기**  
+   한 번의 탭으로 보드 전체 구조가 바뀝니다. 그룹을 합치기 전에, 위에 있는
+   타일들이 어떻게 떨어질지, 새로운 그룹이 어디에서 생길지 미리 머릿속으로
+   그려 보세요. 좋은 한 수는 그다음 더 좋은 한 수를 만들어 줍니다.
 
-Get 10 Ultimate is a simple yet deeply strategic number puzzle game. The board is filled with numbered tiles, and your goal is to combine them to create higher numbers. You do this by tapping on a group of two or more adjacent, identical numbers. This merges the entire group into a single new tile with a value that is one higher. The initial challenge is to reach the number 10, but the ultimate goal is to continue merging for as long as possible to achieve the highest number and score.
+2. **가능하면 큰 그룹을 만들기**  
+   같은 숫자 타일이 2개만 있어도 합칠 수 있지만, 효율을 생각하면 더 큰
+   그룹을 만들어 한 번에 합치는 편이 좋습니다. 숫자를 이리저리 옮겨서, 최대한
+   많은 타일이 한 덩어리로 붙어 있도록 정리한 뒤에 탭하세요.
 
-### Gameplay Strategy & Walkthrough
+3. **높은 숫자를 고립시키지 않기**  
+   주변에 낮은 숫자만 잔뜩 있는 높은 숫자 타일 하나를 만들어 버리면, 나중에
+   그 타일을 다시 합칠 상대를 만들기가 매우 어려워집니다. 이렇게 되면 보드의
+   큰 영역이 사실상 막혀 버리므로, 높은 숫자는 항상 또 다른 같은 숫자와
+   이어질 수 있는 위치에 두도록 신경 써야 합니다.
 
-1.  **[KO]** **Think Before You Tap:** Every tap changes the layout of the board. Before you merge a group, consider how the tiles above will fall and what new groups might form. A good move can set up an even better move.
-2.  **[KO]** **Create Large Groups:** While you can merge a group of just two tiles, it's much more efficient to create and merge larger groups. Try to maneuver tiles so that you have big clusters of the same number next to each other before you tap.
-3.  **[KO]** **Don't Isolate High Numbers:** Be careful not to create a single high number that is surrounded by many different, lower numbers. This can make it very difficult to create another high number to merge it with, effectively blocking a large part of your board.
-4.  **[KO]** **Work from the Bottom:** Making matches near the bottom of the board will cause the most tiles to shift, increasing the chances of creating new, unplanned matches as tiles fall into place.
+4. **아래쪽부터 공략하기**  
+   보드의 아래쪽에서 그룹을 합치면 위의 타일들이 크게 흔들리면서 새로운
+   예상치 못한 그룹이 생길 확률이 높습니다. 상단에서 자잘하게 합치는 것보다,
+   하단에서 판 전체를 바꿔 주는 것이 장기적으로 더 좋은 패턴을 만들어 줄 때가
+   많습니다.
 
-### Controls Guide
+### 조작 방법
 
-The game is played with a single click or tap.
+이 게임은 마우스 클릭 또는 터치 한 번으로 플레이할 수 있습니다.
 
-*   **[KO]** **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
+- **숫자 합치기**: 서로 인접해 있고 숫자가 같은 타일이 2개 이상 모여 있는
+  그룹을 클릭/탭하면, 그 그룹이 모두 합쳐져 클릭한 위치에 숫자가 1 큰 새
+  타일이 생성됩니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.
+- **Q: 이 게임의 목표는 무엇인가요?**  
+  **A:** 첫 번째 목표는 ‘10’ 타일을 만드는 것입니다. 그 이후에는 보드가 더 이상
+  움직일 수 없게 막히기 전까지 최대한 높은 숫자와 점수를 뽑아내는 것이 최종
+  목표입니다.
 
-*   **[KO]** **Q: How does the game end?**
-    *   **[KO]** **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
+    - **Q: 게임은 언제 끝나나요?**  
+  **A:** 서로 인접한 같은 숫자 타일이 한 쌍도 남지 않아, 더 이상 합칠 수 있는
+  그룹이 없을 때 게임이 종료됩니다.
 
-*   **[KO]** **Q: Does the new tile appear in a random spot?**
-    *   **[KO]** **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
+- **Q: 새로 생기는 타일의 위치는 랜덤인가요?**  
 
+    - **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
+
+- **Q: Does the new tile appear in a random spot?**
+
+    - **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
+  **A:** 아닙니다. 새로 만들어지는 높은 숫자 타일은 항상 플레이어가 클릭/탭한
+  위치에 생깁니다. 따라서 어디를 눌러 합칠지까지 고려해 두면 이후 전개를
+  더 유리하게 만들 수 있습니다.

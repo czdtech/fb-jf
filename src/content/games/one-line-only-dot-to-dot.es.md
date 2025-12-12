@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: one-line-only-dot-to-dot
-title: '[ES] One line only: dot to dot'
+title: "One line only: dot to dot - Un solo trazo para unirlos todos"
 description: >-
-  [ES] One line only: dot to dot is a neat one‑stroke puzzler — draw a single
-  line to cover all dots and segments without retracing.
+  One line only: dot to dot es un elegante rompecabezas de un solo trazo: dibuja
+  una única línea para cubrir todos los puntos y segmentos sin pasar dos veces
+  por el mismo sitio.
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/one-line-only-dot-to-dot.jpg
 tags:
@@ -15,35 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+One line only: dot to dot sigue la tradición de los recorridos de Euler: debes
+conectar todos los puntos y aristas con un solo trazo continuo. Los tableros
+introducen puentes, giros forzados y trucos de paridad que exigen planificar muy
+bien la ruta y controlar cuándo retroceder.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-One line only: dot to dot follows the Euler path tradition: connect all points/edges with a single, unbroken stroke. Boards introduce bridges, forced turns, and parity tricks that require careful route planning and backtracking discipline.
+1.  Contar grados: empieza por los nodos de grado impar (en recorridos de
+    Euler habrá 0 o 2); suelen indicar posibles puntos de inicio y final.
+2.  Priorizar puentes: traza los puentes obligatorios pronto para no
+    bloquearlos más tarde.
+3.  Evitar aislar zonas: no cierres bucles que dejen aristas sin visitar
+    desconectadas del resto del grafo.
+4.  Mirar dos pasos por delante: imagina mentalmente un par de movimientos y
+    deshaz pronto si ves que vas a dejar un segmento aislado.
+5.  Usar la simetría: en tableros simétricos, aprovecha la estructura para
+    reflejar rutas parciales en el lado opuesto.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Degree count: Start at odd‑degree nodes (0 or 2 exist for Euler trails); they suggest endpoints.
-2.  **[ES]** Bridge first: Draw mandatory bridges early so you don’t lock them out later.
-3.  **[ES]** Avoid isolating: Don’t complete loops that strand unvisited edges.
-4.  **[ES]** Look‑ahead: Test two moves mentally; backtrack early when isolation appears.
-5.  **[ES]** Symmetry: Use symmetrical halves to mirror partial routes.
+- Arrastra para dibujar siguiendo los segmentos; usa los botones de deshacer o
+  limpiar en la interfaz para corregir o reiniciar.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to draw along segments; undo/clear via UI.
+- P: Siempre me falta una arista al final, ¿por qué?  
+  R: Probablemente has empezado en un nodo incorrecto; prueba a iniciar el
+  recorrido en un nodo de grado impar.
 
-### Frequently Asked Questions (FAQ)
+- P: Se pueden cruzar líneas?  
+  R: Solo donde existan segmentos definidos; no se permiten cruces "al aire".
 
-- Q: I end one step short — why?
-
-A: You likely started at a wrong endpoint; try an odd‑degree node instead.
-
-- Q: Are crossings allowed?
-
-A: Only along provided segments; no freehand crossings.
-
-- Q: Any hint system?
-
-A: Many builds provide hints or highlight bridges.
-
+- P: Hay sistema de pistas?  
+  R: Muchas versiones incluyen pistas o resaltan los puentes obligatorios para
+  ayudarte.

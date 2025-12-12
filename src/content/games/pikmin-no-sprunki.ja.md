@@ -1,29 +1,45 @@
 ---
-locale: ja
+title: Pikmin no Sprunki
+description: Pikmin no Sprunkiは音楽作成ゲームです。Pikminスタイルのキャラクターをミックスし、サウンドを組み合わせ、ユニークなビートを作成します。
+iframeSrc: 'https://pikminonosprunki.h5games.usercontent.goog/v/2j8k5m9h7p3n8/'
+thumbnail: /new-images/pikmin-no-sprunki.png
 urlstr: pikmin-no-sprunki
-title: "Pikmin No Sprunki - Pikmin No Sprunki オンラインでプレイ"
-description: "Pikmin No Sprunkiは単なるシンプルなゲームではありません。探索を奨励するクリエイティブなプラットフォームです。"
-iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
-thumbnail: /pikmin-no-sprunki.png
+score: 4.1/5  (1867 votes)
 tags:
-  - pikmin no sprunki
-score: 4.0/5  (89 票)
+  - casual
+  - novelty
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
-Pikminの風変わりな世界がSprunkiの音楽の魔法と衝突したらどうなるか考えたことはありますか？Pikmin No Sprunkiがその考えを現実にします！この魅力的なScratchゲームは、おなじみのIncredbox制作の楽しさと新鮮なゲームプレイメカニクスを巧みに融合し、ユニークな視聴覚アドベンチャーへあなたを招待します。
 
-### Pikmin No Sprunkiとは一体何？
+Ever wondered what happens when the quirky world of Pikmin crashes into the musical magic of Sprunki? Pikmin No Sprunki makes that thought a reality! This captivating Scratch game cleverly blends the familiar Incredibox creation fun with fresh gameplay mechanics, inviting you on a unique audio-visual adventure.
+### ゲーム紹介
 
-簡単に言えば、Pikmin No Sprunkiは、Pikminにインスパイアされた要素を使ってビートを作る音楽プロデューサーになれるゲームです。これは単なる従来の音楽ゲームではありません。活気ある音楽サンドボックスのようなものです。ここでは、様々なテーマとサウンドを自由に探索でき、毎回のセッションが新鮮に感じられ、無限の楽しみをもたらします。
+Pikmin no Sprunkiは、Pikminをテーマにした音楽作成ゲームです。キャラクターを選択し、それぞれが独自のサウンドを持ち、ユニークなビートとメロディを作成するためにそれらをミックスします。創造的で楽しい音楽体験。
 
-### なぜPikmin No Sprunkiはこんなに魅力的なの？
+### ゲームプレイ戦略と攻略法
 
-- **無限の創造性のためのプラットフォーム：** Pikmin No Sprunkiのコアな魅力は、その創造性にあります。あらゆる種類のサウンドと音楽スタイルを好きなようにミックス＆マッチできます。リズムマスターでも音楽初心者でも、ここでクリエイティブな喜びを見つけることができます。
-- **まばゆいビジュアルの饗宴：** ゲームは、魅力的な音楽と組み合わされた見事なビジュアルを誇り、没入感のあるSprunkiの世界を作り出します。音楽作品が活気あるグラフィックスで生き生きとするのを見るのは、間違いなくごちそうです。
-- **簡単に始められ、楽しさいっぱい：** 複雑さを心配しないでください！Pikmin No Sprunkiは使いやすさのためにデザインされています。Sprunkiゲームのベテランでも、初めて試す初心者でも、この音楽アドベンチャーにすぐに飛び込めます。
-- **活発なプレイヤーコミュニティ：** Pikmin No Sprunkiは単なるソロ体験ではありません。プレイヤーが音楽作品やヒントを共有する活発なコミュニティを特徴としています。このインタラクションにより、ゲーム体験がさらに豊かで楽しくなります。
-- **無料でプレイ、常に更新：** 最高なのは、ゲームが完全に無料であることです！さらに、開発者は定期的にアップデートをリリースし、新しいModと機能をもたらして、Pikmin No Sprunkiの世界を常に新鮮に感じさせます。
+1.  **キャラクターを実験:** すべてのキャラクターサウンドを試してください。
+2.  **レイヤーサウンド:** 複数のキャラクターを組み合わせます。
+3.  **リズムを見つける:** よく融合するビートを聞いてください。
+4.  **作成を保存:** 気に入った組み合わせを記録します。
+5.  **楽しむ:** 完璧を心配しないでください。
 
-### まとめ：
+### 操作ガイド
 
-Pikmin No Sprunkiは単なるシンプルなゲームではありません。探索を奨励するクリエイティブなプラットフォームです。魅力的なゲームプレイ、多様なMod、活発なコミュニティを完璧に組み合わせ、多くの無料ゲームの中で際立っています。経験豊富なSprunkiベテランでも、新鮮な体験を探しているプレイヤーでも、Pikmin No Sprunkiは間違いなく試す価値があります！この素晴らしい世界に参加して、リズムと創造性を使ってあなた自身のPikmin No Sprunkiシンフォニーを作曲しましょう！
+
+Pikmin No Sprunki is more than just a simple game; it's a creative platform that encourages exploration. It perfectly combines engaging gameplay, diverse mods, and an active community, standing out among many free games. Whether you're a seasoned Sprunki veteran or a player looking for a fresh experience, Pikmin No Sprunki is definitely worth a try! Come join this wonderful world, and use rhythm and creativity to compose your very own Pikmin No Sprunki symphony!
+- キャラクターをクリック/タップして選択および配置します。
+- サウンドをミックスして音楽を作成します。
+- 削除または変更するためにクリックします。
+
+### よくある質問 (FAQ)
+
+- **Q: 音楽知識が必要ですか？**  
+  A: いいえ！誰でも楽しい音楽を作成できます。
+- **Q: 作成を共有できますか？**  
+  A: バージョンによって異なります。一部は共有オプションを持っています。
+- **Q: これはPikminの公式ゲームですか？**  
+  A: いいえ、Pikminをテーマにしたファンメイドです。

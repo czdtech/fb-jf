@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: rotate
-title: '[DE] Rotate'
+title: "Rotate"
 description: >-
-  [DE] Rotate is a challenging puzzle game where players must rotate the game
-  world to guide a ball through complex mazes and obstacles, using gravity and
-  momentum to reach the goal in each level.
+  Rotate ist ein anspruchsvolles Puzzlespiel, in dem du die Spielwelt drehst,
+  um eine Kugel durch verwinkelte Labyrinthe und Hindernisse zu führen und mit
+  Schwerkraft und Schwung das Ziel zu erreichen.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/rotate.jpg
 tags:
@@ -17,34 +17,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Rotate" ist ein Physik-Puzzle, bei dem du nicht direkt die Kugel, sondern die
+ gesamte Spielwelt steuerst. Durch Drehen des Levels änderst du die
+ Schwerkraftrichtung, sodass die Kugel durch Gänge rollt, über Kanten fällt und
+ an Hindernissen vorbeikommt. Ziel jedes Levels ist es, die Kugel sicher zum
+ Ausgang zu manövrieren.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Schwerkraft verstehen:** Jede Drehung verschiebt die „unten“-Richtung.
+    Beobachte genau, wie sich die Kugel nach kleinen Drehungen verhält, bevor
+    du weiter kippst.
+2.  **Levelaufbau studieren:** Schau dir vor dem ersten Dreh an, wo Abgründe,
+    Engstellen und potenzielle Fallen liegen, und plane grob die Route.
+3.  **Rotation mit Bedacht:** Rüttle das Level nicht hektisch hin und her.
+    Kontrollierte, langsame Drehungen helfen, die Kugel sicher zu führen.
+4.  **Schwung ausnutzen:** Manchmal musst du die Kugel gezielt Schwung holen
+    lassen, um weitere Plattformen zu erreichen oder über Lücken zu rollen.
+5.  **Perspektive wechseln:** Dreh das Level ruhig einmal um 180° oder in
+    ungewohnte Winkel – aus einer anderen Perspektive erkennst du oft neue
+    Lösungswege.
 
-"Rotate" is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles. The game utilizes the physics properties of gravity and momentum, requiring players to cleverly control rotation angles and timing to get the ball to reach the target position in each level.
+### Steuerung
 
-### Gameplay Strategy
+*   **Welt drehen:** Meist per Mausziehen oder mit den Pfeiltasten/AD lässt
+    sich die Spielwelt nach links und rechts kippen.
+*   **Reset:** Wenn die Kugel feststeckt oder aus dem Level fällt, kannst du das
+    aktuelle Level jederzeit neu starten.
+*   **Pause:** Nutze die Pausefunktion, um in Ruhe über den nächsten Schritt
+    nachzudenken.
 
-1.  **[DE]** **Understand Gravity Mechanics**: Master how rotation changes gravity direction and affects the ball's movement trajectory.
-2.  **[DE]** **Observe Level Layout**: Carefully study each level's design to find the optimal rotation path.
-3.  **[DE]** **Control Rotation Rhythm**: Don't rush to rotate; observe the ball's movement before making the next rotation.
-4.  **[DE]** **Utilize Momentum**: Learn to use the ball's movement momentum to pass through areas that are difficult to reach directly.
-5.  **[DE]** **Think from Multiple Angles**: Observing levels from different perspectives may reveal unexpected solutions.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Rotation Control**: Typically use mouse dragging or keyboard arrow keys to rotate the game world.
-*   **[DE]** **Reset**: If the ball gets stuck or falls out of bounds, you can reset the current level to start over.
-*   **[DE]** **Pause**: You can pause the game while thinking of strategies and planning the next rotation operation.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: What if the ball keeps falling out of bounds?**
-**A**: Control rotation angle and speed more carefully, observe the ball's trajectory before making the next move.
-2.  **[DE]** **Q: Some levels seem unsolvable?**
-**A**: Try thinking from different angles and rotation sequences; sometimes it takes multiple attempts to find the correct solution.
-3.  **[DE]** **Q: How can I improve completion speed?**
-**A**: After familiarizing yourself with physics mechanics, you can predict ball movement and plan rotation sequences in advance to complete levels faster.
-4.  **[DE]** **Q: How many levels are in the game?**
-**A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.
+1.  **F: Die Kugel fällt ständig aus dem Level – was mache ich falsch?**
+    **A:** Drehe langsamer und in kleineren Schritten. Achte darauf, dass du der
+    Kugel nie eine zu steile „Klippe“ vorgibst, ohne eine Sicherung dahinter zu
+    haben.
+2.  **F: Manche Level wirken unlösbar.**
+    **A:** Probiere eine andere Rotationsreihenfolge oder eine komplett andere
+    Blickrichtung. Viele Level setzen auf kleine „Aha“-Momente durch
+    Perspektivwechsel.
+3.  **F: Wie werde ich schneller?**
+    **A:** Wenn du die Physik verinnerlicht hast, kannst du Rotationen im
+    Voraus planen und mehrere Bewegungen der Kugel mit einer einzigen Drehung
+    auslösen.
+4.  **F: Wie viele Level gibt es?**
+    **A:** Rotate umfasst in der Regel mehrere Welten mit dutzenden Leveln, deren
+    Schwierigkeit nach und nach anzieht.

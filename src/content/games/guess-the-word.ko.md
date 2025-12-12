@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: guess-the-word
-title: '[KO] Guess The Word'
+title: "Guess The Word 단어 맞추기 퍼즐"
 description: >-
-  [KO] Guess The Word is a clean word‑builder — connect letters, exploit
-  patterns, and clear crosswords with vocabulary and logic.
+  원형에 배치된 알파벳을 이어 단어를 만드는 워드 퍼즐 게임입니다. 글자 패턴과
+  교차 퍼즐 구조를 활용해 숨겨진 단어를 모두 찾아 보세요.
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/guess-the-word.png
 tags:
@@ -17,33 +17,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Guess The Word blends letter‑link input with crossword slots. You drag through letter wheels to form valid words that populate a grid. Difficulty grows with trick anagrams, uncommon digrams, and sparse vowels, rewarding pattern recognition and strategic guesswork.
+`Guess The Word`는 글자를 이어 단어를 만드는 입력 방식과, 십자말풀이 형태의
+그리드를 결합한 워드 퍼즐 게임입니다. 화면 아래쪽의 원형 글자판에서 글자를
+드래그해 단어를 만들면, 해당 단어가 위쪽 퍼즐 그리드에 채워집니다. 난이도가
+올라갈수록 애너그램, 보기 드문 자음 조합, 모음이 적은 단어 등이 등장해,
+패턴 인식과 추리력이 중요한 요소가 됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** Start with obvious short words to anchor crossings.
-2.  **[KO]** Work from prefixes/suffixes (re‑, un‑, ‑ing, ‑ed) to inflate options.
-3.  **[KO]** Use letter frequency — E/A/R/S/T appear more; hunt words around them.
-4.  **[KO]** Bank bonus words for hints in late boards.
-5.  **[KO]** When stuck, reshuffle mental order (middle‑out) to discover new strings.
+1. **짧고 눈에 띄는 단어부터**  
+   먼저 바로 보이는 2~3글자짜리 단어부터 찾아서 퍼즐에 채워 넣으세요.
+   교차하는 글자가 생기면 다른 단어를 추리하기가 훨씬 쉬워집니다.
 
-### Controls Guide
+2. **접두사/접미사 활용**  
+   `re-`, `un-`, `-ing`, `-ed` 같은 자주 쓰이는 접두·접미사 조합을 떠올리며
+   단어 후보를 만들어 보세요. 한 번의 조합으로 여러 단어를 연달아 찾을 수
+   있습니다.
 
-- Drag to connect letters; release to submit; use hints sparingly.
+3. **자주 나오는 글자에 주목**  
+   영어 기준으로 E, A, R, S, T 같은 글자는 단어에 자주 등장합니다. 이런 글자를
+   중심에 두고 어떤 단어들이 만들어질지 상상해 보면 후보가 빨리 떠오릅니다.
 
-### Frequently Asked Questions (FAQ)
+4. **보너스 단어는 힌트용으로 저장**  
+   퍼즐에는 없지만 사전에 존재하는 단어를 만들면 보너스 코인이나 힌트를
+   주는 경우가 많습니다. 후반 보드에서 막혔을 때를 대비해, 보너스 단어로
+   힌트 자원을 미리 쌓아 두세요.
 
-- Q: A slot seems impossible — tips?
+5. **막혔을 때는 글자 순서를 바꿔 보기**  
+   항상 처음부터 순서대로 읽기보다는, 가운데 글자에서 시작해 바깥으로
+   나가거나, 맨 끝 글자를 먼저 붙여 보는 등 머릿속에서 글자 배열을 섞어 보면
+   새로운 단어가 떠오르기도 합니다.
 
-A: Recheck crossings and try anagrams with the fixed letters (e.g., _ate → eat/tea/eta).
+### 조작 방법
 
-- Q: Are plurals/proper nouns allowed?
+- 글자판에서 글자를 드래그해 연결한 뒤 손을 떼면 단어가 제출됩니다.
+- 힌트 버튼은 소모형이므로, 정말 막혔을 때만 아껴 사용하세요.
 
-A: Depends on the dictionary; generally no proper nouns.
+### 자주 묻는 질문(FAQ)
 
-- Q: Can I replay for more coins?
+- Q: 도저히 안 맞아 보이는 칸이 있는데 어떻게 해야 하나요?  
+  A: 이미 채워진 교차 글자를 다시 확인하고, 해당 글자들을 고정한 상태에서
+  애너그램을 새로 시도해 보세요. 예를 들어 `_ate`라면 `eat/tea/eta`처럼
+  여러 조합을 테스트하는 식입니다.
 
-A: Usually yes — revisit earlier grids for bonuses.
+- Q: 복수형이나 고유명사는 인정되나요?  
+  A: 사용하는 사전에 따라 다르지만, 일반적으로는 고유명사는 제외되고,
+  복수형은 일부만 허용되는 편입니다.
 
+- Q: 코인을 더 얻기 위해 보드를 다시 플레이할 수 있나요?  
+  A: 대부분의 버전에서 이전 스테이지를 다시 풀어 추가 보너스를 얻을 수
+  있습니다.

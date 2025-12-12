@@ -1,84 +1,40 @@
 ---
+title: "Hex Puzzle"
+description: "六角形のグリッドでの、やりがいのある中毒性の高いブロックパズル。ヘキサブロックをドラッグ＆ドロップして、あらゆる方向に完全なラインを作って消しましょう。ブロックは回転できないので、計画的に動かしましょう！"
+iframeSrc: "https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/"
+thumbnail: "/new-images/hex-puzzle.jpg"
+urlstr: "hex-puzzle"
+score: "4.4/5  (2450 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: hex-puzzle
-title: '[JA TRANSLATION NEEDED] Hex Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] A challenging and addictive block puzzle on a
-  hexagonal grid. Drag and drop the hexa blocks to create and clear full lines
-  in any direction. Plan your moves, as blocks cannot be rotated!
-iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
-thumbnail: /new-images/hex-puzzle.jpg
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.4/5  (2450 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Hex Puzzleは、六角形のグリッド上でプレイされる、クラシックなブロックパズルジャンルの楽しくて魅力的なアレンジ版です。目的は、六角形のブロックでできた様々な形をボード上に配置し、途切れのない完全なラインを作ることです。ラインは、水平方向と両対角線方向の3方向に形成できます。ラインが完成するとボードから消去され、スペースが空き、ポイントを獲得できます。時間制限はないため、純粋な戦略と空間認識能力が試されます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Hex Puzzle is a fun and engaging twist on the classic block puzzle genre, played on a hexagonal grid. The objective is to place various shapes, made of hexagonal blocks, onto the board to create complete, unbroken lines of hexes. Lines can be formed in three directions: horizontally and in both diagonal directions. When a line is complete, it clears from the board, freeing up space and earning you points. With no time limits, it’s a test of pure strategy and spatial planning.
+1.  **3方向で考える:** 正方形のグリッドとは異なり、六角形のグリッドでは3つの異なる方向にラインを作ることができます。水平方向だけでなく、斜めの機会がないか常に盤面をスキャンしましょう。
+2.  **スペースを孤立させない:** 配置はコンパクトにまとめましょう。単独の空き（1マスの隙間）を盤面に点在させてしまうと、後で大きなピースを置くのが非常に難しくなります。
+3.  **ピースの計画を立てる:** 一度に3つのピースが与えられます。1つを置く前に、他の2つを置くスペースがあるかを素早く判断しましょう。1つ置いたせいで、次のピースを置く場所を自分で塞いでしまうのはよくあるミスです。
+4.  **コンボが鍵:** 1つのピース配置で複数のラインを消すと、コンボスコアボーナスが得られます。一度に2列、あるいは3列を同時に完成させられる配置を探して、スコアを大幅に上げましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Think in Three Directions:** Unlike a square grid, a hexagonal grid allows you to form lines in three different directions. Always be scanning the board not just for horizontal lines, but for diagonal opportunities as well.
-[JA TRANSLATION NEEDED] 2.  **Don't Isolate Spaces:** Try to keep your placements compact. Leaving single empty hexes scattered around the board can make it very difficult to place larger pieces later in the game.
-[JA TRANSLATION NEEDED] 3.  **Plan for Your Pieces:** You are given three pieces at a time. Before placing one, quickly assess if there is room for the other two. It's a common mistake to place one piece only to find that you have blocked yourself from placing the next one.
-[JA TRANSLATION NEEDED] 4.  **Combos are Key:** Clearing multiple lines with a single piece placement will award you a combo score bonus. Look for placements that can complete two or even three lines simultaneously for a huge score boost.
+ゲームはシンプルなドラッグ＆ドロップのインターフェースで操作します。
 
-### Controls Guide
+*   **ブロックの配置:** マウスまたは指を使って、下部のインベントリから形をドラッグし、六角形グリッドの空いているスペースに配置します。
 
-[JA TRANSLATION NEEDED] The game is controlled with a simple drag-and-drop interface.
+### よくある質問 (FAQ)
 
-*   **Place Blocks:** Use your mouse or finger to drag a shape from your inventory at the bottom and place it onto an empty space on the hexagonal grid.
-    - **A:** No. The inability to rotate the blocks is a core part of the challenge. You must figure out how to fit the pieces as they are presented.（日本語訳が必要）
-    - **A:** The game ends when you are given a set of pieces and there is no possible move to place any of them on the board.（日本語訳が必要）
-    - **A:** Survive as long as possible by keeping the board from filling up, and always prioritize moves that clear multiple lines at once to get combo points.（日本語訳が必要）
-    - **A:** No. The inability to rotate the blocks is a core part of the challenge. You must figure out how to fit the pieces as they are presented.（日本語訳が必要）
-    - **A:** The game ends when you are given a set of pieces and there is no possible move to place any of them on the board.（日本語訳が必要）
-    - **A:** Survive as long as possible by keeping the board from filling up, and always prioritize moves that clear multiple lines at once to get combo points.（日本語訳が必要）
+*   **Q: ブロックを回転させることはできますか？**
+    *   **A:** いいえ。ブロックを回転できないことが、このゲームの挑戦の核となっています。提示された向きのまま、どうフィットさせるかを考えなければなりません。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ゲームはどうなると終了しますか？**
+    *   **A:** 新しいピースのセットが与えられ、そのどれも盤面に配置できる場所がなくなった時点で終了です。
 
-*   **Q: Can I rotate the blocks?**
-[JA TRANSLATION NEEDED]     *   **A:** No. The inability to rotate the blocks is a core part of the challenge. You must figure out how to fit the pieces as they are presented.
-
-*   **Q: How does the game end?**
-[JA TRANSLATION NEEDED]     *   **A:** The game ends when you are given a set of pieces and there is no possible move to place any of them on the board.
-
-*   **Q: What is the best way to get a high score?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Survive as long as possible by keeping the board from filling up, and always prioritize moves that clear multiple lines at once to get combo points.
-
-
-
-
-
-
-
-
-
-
-    - **A:** Survive as long as possible by keeping the board from filling up, and always prioritize moves that clear multiple lines at once to get combo points.
-- **Q: What is the best way to get a high score?**
-    - **A:** The game ends when you are given a set of pieces and there is no possible move to place any of them on the board.
-- **Q: How does the game end?**
-    - **A:** No. The inability to rotate the blocks is a core part of the challenge. You must figure out how to fit the pieces as they are presented.
-- **Q: Can I rotate the blocks?**
-### よくある質問（FAQ）
-- **Place Blocks:** Use your mouse or finger to drag a shape from your inventory at the bottom and place it onto an empty space on the hexagonal grid.
-
-
-
-
-
-
-    - **A:** Survive as long as possible by keeping the board from filling up, and always prioritize moves that clear multiple lines at once to get combo points.
-- **Q: What is the best way to get a high score?**
-    - **A:** The game ends when you are given a set of pieces and there is no possible move to place any of them on the board.
-- **Q: How does the game end?**
-    - **A:** No. The inability to rotate the blocks is a core part of the challenge. You must figure out how to fit the pieces as they are presented.
+*   **Q: ハイスコアを出す最良の方法は？**
+    *   **A:** 盤面が埋まらないように生き残り続けること、そして常に一度に複数のラインを消してコンボポイントを獲得できる動きを優先することです。

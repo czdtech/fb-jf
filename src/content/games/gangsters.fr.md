@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: gangsters
-title: '[FR] Gangsters'
-description: >-
-  [FR] Physics ragdoll duels: two stick gangsters bounce and shoot on rooftops;
-  time jumps and shots to knock the opponent off.
+title: "Gangsters"
+description: "Duels ragdoll physiques : deux stickmen gangsters rebondissent et se tirent dessus sur les toits ; synchronise sauts et tirs pour faire tomber ton adversaire."
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/gangsters.jpg
@@ -16,30 +14,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Gangsters est un petit jeu de duel sur les toits pour un ou deux joueurs, avec des personnages « ragdoll » bancals. Chaque tir, chaque saut et même le recul des armes peuvent faire basculer ton gangster ou celui d’en face. L’objectif est simple : faire tomber l’adversaire dans le vide ou le mettre au tapis avant lui.
 
+### Comment jouer
 
-### Overview
-Wobbly rooftop shootouts for one or two players. Bullets and recoil affect your stance; the goal is to topple your opponent.
+- Chronomètre tes sauts pour esquiver les balles et ajuster la hauteur de ton tir.
+- Utilise le recul de ton arme pour déséquilibrer ton adversaire ou modifier ta propre position.
+- Les éléments du décor (caisses, rebords, etc.) peuvent bloquer les balles ou provoquer des ricochets.
 
-### How to Play
-- Time jumps to dodge bullets and adjust aim height.
-- Use recoil to your advantage to tilt or slide the enemy’s stance.
-- Environmental props can block shots or cause ricochets.
+### Commandes
 
-### Controls
-- One‑button jump/shoot per player (host dependent) or separate keys for actions.
+- Une touche par joueur pour sauter/tirer, ou des touches séparées pour les actions selon l’hébergeur.
 
-### Tips
-- Short hops steady aim; big hops dodge and reposition.
-- Aim at feet to pop opponents upward and off balance.
-- Watch wind or moving platforms when present.
+### Astuces
 
-### FAQ
-- Q: How do I win rounds consistently?
-A: Control recoil and land shots that destabilize your opponent’s footing.
-- Q: Is there a two‑player mode on one keyboard?
-A: Yes, most hosts provide side‑by‑side key bindings.
-- Q: Do headshots deal extra damage?
-A: Usually knockback/positioning matters more than raw damage.
+- Les petits sauts stabilisent la visée ; les grands sauts servent surtout à esquiver et à se repositionner.
+- Vise les pieds pour projeter l’adversaire vers le haut et lui faire perdre l’équilibre.
+- Fais attention au vent ou aux plateformes mobiles lorsqu’ils sont présents : ils modifient tes trajectoires et ta stabilité.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment gagner les manches plus régulièrement ?
+  
+  R : Maîtrise le recul de ton arme et privilégie les tirs qui font glisser ou basculer ton adversaire plutôt que de viser seulement les dégâts bruts.
+
+- Q : Peut‑on jouer à deux sur le même clavier ?
+  
+  R : Oui, la plupart des versions proposent des touches côte à côte pour les deux joueurs.
+
+- Q : Les headshots font‑ils plus de dégâts ?
+  
+  R : Le plus important, c’est généralement le knockback et la position du personnage ; faire perdre l’équilibre compte souvent plus que le « dégât » pur.
 

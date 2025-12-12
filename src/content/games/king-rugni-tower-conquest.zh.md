@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: king-rugni-tower-conquest
-title: '[ZH TRANSLATION NEEDED] King Rugni Tower Conquest'
-description: >-
-  [ZH TRANSLATION NEEDED] King Rugni Tower Conquest is a compact tower defense —
-  place towers, route creeps, and upgrade smartly to hold lines.
+title: "《King Rugni Tower Conquest》鲁格尼王之塔防征服"
+description: "《King Rugni Tower Conquest》是一款体量精简但思路完整的塔防游戏，你要合理放置与升级防御塔、规划敌人行进路径，在有限金币下撑住一波波进攻。"
 iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
 thumbnail: /new-images/king-rugni-tower-conquest.jpg
 tags:
@@ -15,25 +13,31 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] King Rugni Tower Conquest is a streamlined tower defense. Place and upgrade towers to counter varied enemy types, manage limited gold, and shape paths (if possible) to maximize kill zones.
+### 游戏详细介绍
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Coverage first: Place towers to cover long paths and shared choke points.
-2.  [ZH TRANSLATION NEEDED] Mixed damage: Combine single‑target and splash to handle waves and elites.
-3.  [ZH TRANSLATION NEEDED] Early upgrades: A few well‑upgraded towers often beat many weak ones.
-4.  [ZH TRANSLATION NEEDED] Path shaping: If routing exists, force longer paths through kill zones.
-5.  [ZH TRANSLATION NEEDED] Economy: Don’t over‑float gold—invest early for compounding value.
+《King Rugni Tower Conquest》是一款收敛而紧凑的塔防作品。你需要在地图上修建并升级不同类型的防御塔，以应对各式敌人组合，同时在有限的金币预算下最大化输出效率。如果地图允许改变敌人的行进路线，还可以通过堵路与引流，打造高效的“杀伤走廊”，让敌人在火力覆盖范围内走得更久。 
 
-### Controls Guide
+### 游戏玩法与攻略
 
-- Place/Upgrade/Sell towers via the UI.
-- Start waves when ready; pause to plan.
+1.  **优先考虑覆盖范围**：开局先把塔建在路径最长、敌人必经的转角或十字路口，确保同一段路能被多座塔反复攻击，提高每点金币的利用率。  
+2.  **单体与范围伤害搭配**：利用单体高伤塔处理精英怪和血厚单位，再辅以溅射/范围塔快速削减成群小怪，两者搭配能更稳定地应对混编兵线。  
+3.  **少而精的升级策略**：前期与其撒一大片低级塔，不如集中升级一到两座关键塔到更高等级，往往整体输出更高、也更节省空间。  
+4.  **若可调整路径，则拉长行军路线**：如果游戏允许通过障碍或塔位引导敌人绕路，尽量让他们多次经过火力集中的区域，形成“回头路 + 杀伤环形通道”。  
+5.  **即时投资经济**：不要长时间囤积大量金币，尽早把钱投入新塔或升级中，让额外输出尽早生效，后续每波的收益都会更可观。  
 
-### Frequently Asked Questions (FAQ)
+### 操作说明
 
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
-- Best first tower? One that covers the longest segment; upgrade it early.
-- Fast‑forward? Many versions include a speed toggle.
+- 通过界面选择塔的类型，在地图可建设位置点击放置；点击已有防御塔可以升级或出售。  
+- 每一波开始前可调整布置，准备好后点击开始下一波；可利用暂停功能进行更细致的规划。  
 
+### 常见问题（FAQ）
+
+- **Q: 总是被漏怪，应该从哪里调整？**  
+  **A:** 可以尝试在终点前加上减速或范围伤害塔，或者检查前排是否过于偏向某一种伤害类型，适当补上对付高甲/魔抗怪的克制塔。  
+
+- **Q: 开局第一座塔建在哪比较好？**  
+  **A:** 通常建议放在能够覆盖最长路径的路段，尤其是敌人会转弯的拐点附近，并尽早升级这座核心塔。  
+
+- **Q: 是否有加速功能？**  
+  **A:** 许多版本提供游戏速度切换按钮，你可以在布防完成、对自己配置有信心时开快进，加速刷怪节奏。

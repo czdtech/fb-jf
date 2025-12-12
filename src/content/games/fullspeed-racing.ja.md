@@ -1,60 +1,36 @@
 ---
+title: "FullSpeed Racing"
+description: "FullSpeed Racingはアーケードレーサーです。ラインを選び、ブレーキングポイントを決め、ペースでクリーンに追い越しましょう。"
+iframeSrc: "https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/"
+thumbnail: "/new-images/fullspeed-racing.jpg"
+urlstr: "fullspeed-racing"
+score: "4.1/5  (2014 votes)"
+tags: ["car", "driving", "sports"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: fullspeed-racing
-title: '[JA TRANSLATION NEEDED] FullSpeed Racing'
-description: >-
-  [JA TRANSLATION NEEDED] FullSpeed Racing is an arcade racer — pick lines, nail
-  braking points, and overtake cleanly at pace.
-iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
-thumbnail: /new-images/fullspeed-racing.jpg
-tags:
-  - car
-  - driving
-  - sports
-score: 4.1/5  (2014 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+FullSpeed Racingは、親しみやすいサーキットレーシングを提供します。トラックレイアウトを学び、直線でブレーキし、スムーズに頂点（エイペックス）を通り、ホイールスピンなしで早めに加速します。クリーンな追い越しと一貫性が、生のトップスピードよりも多くのレースに勝ちます。
 
-[JA TRANSLATION NEEDED] FullSpeed Racing delivers approachable circuit racing. Learn track layouts, brake in straight lines, apex smoothly, and accelerate early without wheelspin. Clean overtakes and consistency win more races than raw top speed.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **早めにブレーキ:** 遅く入り、速く出る。コーナー途中でのブレーキを避けます。
+2.  **レイトエイペックス:** わずかに遅めに曲がって出口を真っ直ぐにし、スロットルを早く開けます。
+3.  **公正に防御:** 単一の防衛ラインを保持します。織り返すことを避けます。
+4.  **ミニマップを見る:** トラフィックとブルーフラッグの速い車を予測します。
+5.  **一貫性:** クリーンなラップをつなげます。ミスは慎重なコーナーよりもコストがかかります。
 
-[JA TRANSLATION NEEDED] 1.  Brake early: Enter slower, exit faster; avoid mid‑corner braking.
-[JA TRANSLATION NEEDED] 2.  Late apex: Turn slightly later to straighten exits and open throttle sooner.
-[JA TRANSLATION NEEDED] 3.  Defend fair: Hold a single defensive line; avoid weaving.
-[JA TRANSLATION NEEDED] 4.  Watch minimap: Anticipate traffic and blue‑flag faster cars.
-[JA TRANSLATION NEEDED] 5.  Consistency: String clean laps; mistakes cost more than cautious corners.
+### 操作ガイド
 
-### Controls Guide
+- **ステアリング**: A/Dまたは左/右。
+- **スロットル/ブレーキ**: W/Sまたは上/下。
+- **ニトロ/ハンドブレーキ（ある場合）**: モードごとにマップされています。控えめに使用してください。
 
-- Steer: A/D or Left/Right.
-- Throttle/Brake: W/S or Up/Down.
-- Nitro/Handbrake (if any): Mapped per mode; use sparingly.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- I understeer off track—why? Too fast at turn‑in; brake earlier and trail less speed.
-- How to pass cleanly? Set up exits and use slipstream on straights.
-
-### コントロールガイド
-- Do upgrades matter? Some modes offer car unlocks; craft suits track style.
-
-
-
-
-
-
-
-
-- Do upgrades matter? Some modes offer car unlocks; craft suits track style.
-- How to pass cleanly? Set up exits and use slipstream on straights.
-- I understeer off track—why? Too fast at turn‑in; brake earlier and trail less speed.
-### よくある質問（FAQ）
-- Nitro/Handbrake (if any): Mapped per mode; use sparingly.
-- Throttle/Brake: W/S or Up/Down.
-
-
-- Do upgrades matter? Some modes offer car unlocks; craft suits track style.
+- **Q: アンダーステアでトラックから外れます。なぜですか？** A: ターンイン時に速すぎます。早めにブレーキをかけ、速度を抑えましょう。
+- **Q: クリーンにパスするには？** A: 出口を設定し、ストレートでスリップストリーム（風よけ）を使用します。
+- **Q: アップグレードは重要ですか？** A: 一部のモードでは車のアンロックを提供します。クラフトはトラックスタイルに合います。

@@ -1,76 +1,51 @@
 ---
-locale: ja
-urlstr: daily-room-escape
-title: '[JA TRANSLATION NEEDED] Daily Room Escape'
-description: >-
-  [JA TRANSLATION NEEDED] Daily Room Escape delivers bite‑size escapes — scour
-  rooms, solve logic locks, and piece clues together.
+title: Daily Room Escape デイリー・ルーム・エスケープ
+description: 「Daily Room Escape」は毎日楽しめる脱出ゲーム。部屋を探索し、暗号を解き、アイテムを組み合わせて、閉ざされた扉を開けよう。
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/daily-room-escape.png
+urlstr: daily-room-escape
+score: 4.0/5  (1869 votes)
 tags:
   - puzzle
   - escape
   - thinky
-score: 4.0/5  (1869 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Daily Room Escape（デイリー・ルーム・エスケープ）*は、毎日新しい部屋からの脱出に挑戦できる、手軽なショート脱出ゲームです。
+隠されたオブジェクトを探し出し、数字や図形の暗号を解読し、適切な場所でアイテムを使用して鍵を見つけ出しましょう。サクッと遊べるサイズ感ながら、本格的な謎解きが楽しめます。
+
+### ゲーム攻略と戦略
+
+1.  **徹底的な探索:** 怪しい場所（ホットスポット）をタップしましょう。クッションの下、引き出しの中、絵画の裏など、隅々まで調べることが基本です。
+2.  **パターンの記録:** 壁の模様や色の並び順などは、スマホで写真を撮るかメモしておくと、後で暗号入力時に役立ちます。
+3.  **アイテムの組み合わせ:** 「鍵の部品」と「取っ手」、「電池」と「リモコン」など、アイテム同士を論理的に組み合わせて使う場面があります。
+4.  **総当たりは避ける:** 暗号は必ずどこかにヒントがあります。適当に入力するよりも、部屋の中に関連する手がかりがないか探した方が近道です。
+5.  **見落とし確認:** どうしても進めない時は、最初の部屋に戻って調べ忘れた場所がないか確認しましょう。
+
+### 操作ガイド
+
+*   **調査・入手:** 気になる場所をタップ（クリック）します。
+*   **アイテム使用:** アイテム欄からドラッグ＆ドロップ、または選択してから使用場所をタップします。
+*   **ヒント:** 電球マークなどをタップするとヒントが見られる場合があります。
+
+### よくある質問 (FAQ)
+
+*   **Q: 暗号が正解のはずなのに開きません。**
+
+A: Recheck clue order/direction; many sequences are reversible or wrap.
+- **A:** 入力する順番や方向（上下左右）が逆になっている可能性があります。ヒントの矢印などをよく確認してください。
 
 
-### Detailed Game Introduction
-
-[JA TRANSLATION NEEDED] Daily Room Escape offers short escape‑the‑room puzzles. Search for hidden objects, decode numeric/shape ciphers, and use items in the correct spots to unlock the exit.
-
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Sweep the room: Tap hotspots, move cushions, open drawers.
-[JA TRANSLATION NEEDED] 2.  Note patterns: Photograph or note symbol orders and color codes.
-[JA TRANSLATION NEEDED] 3.  Combine items logically (e.g., key + handle, battery + device).
-[JA TRANSLATION NEEDED] 4.  Try code permutations consistent with clues — avoid brute force.
-[JA TRANSLATION NEEDED] 5.  If stuck, re‑scan earlier rooms for missed hotspots.
-
-### Controls Guide
-
-- Tap to inspect, collect, and use items; some puzzles drag‑and‑drop.
-- A hint button may highlight missed areas.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: A code won’t work — bug?
-  
-[JA TRANSLATION NEEDED]   A: Recheck clue order/direction; many sequences are reversible or wrap.
-
-- Q: Items don’t combine?
-  
-[JA TRANSLATION NEEDED]   A: Ensure correct order or examine items closely for hidden parts.
-
-- Q: Too dark to see?
-  
-
-
-
-
-
-- Q: A code won’t work — bug?
-### よくある質問（FAQ）
-- A hint button may highlight missed areas.
-- Tap to inspect, collect, and use items; some puzzles drag‑and‑drop.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Use brightness or in‑game lamps/flashlight when provided.
-
-
-
-
-
+A: Ensure correct order or examine items closely for hidden parts.
+*   **Q: アイテムが組み合わせられません。**
 
 A: Use brightness or in‑game lamps/flashlight when provided.
-- Q: Too dark to see?
-A: Ensure correct order or examine items closely for hidden parts.
-- Q: Items don’t combine?
+    *   **A:** アイテムを詳細表示してから別のアイテムを使う必要があるかもしれません。または、まだ部品が足りない可能性があります。
 
-
-
-
-A: Use brightness or in‑game lamps/flashlight when provided.
-- Q: Too dark to see?
-A: Ensure correct order or examine items closely for hidden parts.
+*   **Q: 画面が暗くて見えません。**
+    *   **A:** 画面の明るさを上げるか、ゲーム内で懐中電灯などのアイテムを入手する必要があるかもしれません。

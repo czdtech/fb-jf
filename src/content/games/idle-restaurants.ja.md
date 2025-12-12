@@ -1,83 +1,42 @@
 ---
+title: "Idle Restaurants"
+description: "この中毒性のある放置ゲームで自分のレストラン帝国を築きましょう！シェフを雇い、キッチンとテーブルをアップグレードし、ビジネスを自動化して料理業界の大物になりましょう。"
+iframeSrc: "https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/"
+thumbnail: "/new-images/idle-restaurants.png"
+urlstr: "idle-restaurants"
+score: "4.4/5  (2500 votes)"
+tags: ["casual", "clicker", "strategy"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: idle-restaurants
-title: '[JA TRANSLATION NEEDED] Idle Restaurants'
-description: >-
-  [JA TRANSLATION NEEDED] Build your own restaurant empire in this addictive
-  idle game! Hire chefs, upgrade your kitchen and tables, and automate your
-  business to become a culinary tycoon.
-iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
-thumbnail: /new-images/idle-restaurants.png
-tags:
-  - casual
-  - clicker
-  - strategy
-score: 4.4/5  (2500 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Idle Restaurantsは、クラシックな放置型管理ゲームで、ゼロから料理帝国を築く責任者としてあなたを配置します。小さく質素なダイナーから始め、収益を戦略的に投資して事業を成長させなければなりません。テーブル、シェフ、ウェイターをアップグレードすることで、効率と利益を増やすことができます。究極の目標は、マネージャーを雇ってワークフローを自動化し、新しい、より収益性の高いレストランを開店して企業を拡張することです。
 
-[JA TRANSLATION NEEDED] Idle Restaurants is a classic idle management game that puts you in charge of building a culinary empire from the ground up. You start with a small, humble diner and must strategically invest your earnings to grow your business. By upgrading your tables, chefs, and waiters, you can increase your efficiency and profits. The ultimate goal is to automate your workflow by hiring managers and expand your enterprise by opening new, more profitable restaurants.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **レストランのワークフロー:** お金の流れを理解しましょう。顧客が到着して着席 → シェフが注文を準備 → ウェイターが料理を提供 → 顧客が支払いをします。この連鎖の各ステップをアップグレードできます。
+2.  **バランスの取れたアップグレード:** 収入を最大化するには、バランスの取れた運営が必要です。顧客のためのテーブルが十分ない場合や、ウェイターが遅すぎて料理を提供できない場合、超高速のシェフがいても意味がありません。テーブル、キッチン、ウェイターを並行してアップグレードしてみてください。
+3.  **すべてを自動化する:** 放置ゲームの鍵は、離れている間にお金を稼ぐことです。できるだけ早く、各ステーション（持ち場）にマネージャーを雇いましょう。マネージャーは自動的に収益を回収してくれるため、一定の収入の流れが保証されます。
+4.  **いつ拡張するかを知る:** 長期的な目標は、新しいレストランを開くのに十分なお金を貯めることです。アンロックする各新しいレストランは、前のレストランよりはるかに高い収益ポテンシャルを持ちます。現在のレストランでのアップグレードが非常に高価になったら、次のレストランのために貯金に集中する時です。
 
-[JA TRANSLATION NEEDED] 1.  **The Restaurant Workflow:** Understand the flow of money. Customers arrive and are seated -> The chef prepares their order -> The waiter delivers the food -> The customer pays. Each step in this chain can be upgraded.
-[JA TRANSLATION NEEDED] 2.  **Balanced Upgrades:** To maximize your income, you need a balanced operation. It's no use having super-fast chefs if you don't have enough tables for customers, or if your waiters are too slow to deliver the food. Try to upgrade your tables, kitchen, and waiters in tandem.
-[JA TRANSLATION NEEDED] 3.  **Automate Everything:** The key to an idle game is making money while you're away. As soon as you can, hire managers for each station. The manager will automatically collect earnings for you, ensuring a constant stream of income.
-[JA TRANSLATION NEEDED] 4.  **Know When to Expand:** Your long-term goal is to save up enough money to open a new restaurant. Each new restaurant you unlock will have a much higher earning potential than the last. Once upgrades in your current restaurant become very expensive, it's time to focus on saving for the next one.
+### 操作ガイド
 
-### Controls Guide
+ゲーム全体は、様々なボタンをクリックまたはタップしてプレイします。
 
-[JA TRANSLATION NEEDED] The entire game is played by clicking or tapping on various buttons.
+*   **アップグレード:** テーブル、シェフステーション、またはウェイターに関連するアップグレードボタンをクリックして、レベルと効率を向上させます。
+*   **マネージャーを雇う:** ステーション用のマネージャーアイコンをクリックして雇い、そのステーションのプロセスを自動化します。
+*   **ナビゲート:** ワールドマップまたはレストランリストを使って、異なるレストランの場所を切り替えます。
 
-*   **Upgrade:** Click the upgrade buttons associated with the tables, the chef's station, or the waiters to improve their level and efficiency.
-    - **A:** Reinvesting your earnings into upgrades as quickly as possible. The faster you upgrade, the faster your income grows. This exponential growth is the core of the game.（日本語訳が必要）
-    - **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.（日本語訳が必要）
-    - **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.（日本語訳が必要）
-    - **A:** Reinvesting your earnings into upgrades as quickly as possible. The faster you upgrade, the faster your income grows. This exponential growth is the core of the game.（日本語訳が必要）
-    - **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.（日本語訳が必要）
-    - **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.（日本語訳が必要）
-*   **Hire Manager:** Click the manager icon for a station to hire them and automate that station's process.
-*   **Navigate:** Use the world map or restaurant list to switch between your different restaurant locations.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: お金を稼ぐ最速の方法は何ですか？**
+    *   **A:** できるだけ素早く収益をアップグレードに再投資することです。アップグレードが早いほど、収入の成長も速くなります。この指数関数的な成長がゲームの核心です。
 
-*   **Q: What is the fastest way to make money?**
+*   **Q: 最初に何をアップグレードすべきですか？**
+    *   **A:** ごく初期段階では、いくつかのテーブルを開き、安定した顧客の流れを確保するためにシェフを1〜2回アップグレードすることに集中しましょう。その後は、レストランのすべての部分（キッチン、配膳、テーブル）をバランスよくアップグレードしていくようにしましょう。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Reinvesting your earnings into upgrades as quickly as possible. The faster you upgrade, the faster your income grows. This exponential growth is the core of the game.
-
-*   **Q: What should I upgrade first?**
-[JA TRANSLATION NEEDED]     *   **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.
-
-*   **Q: Why should I buy a new restaurant?**
-
-
-
-
-
-
-
-
-    - **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.
-- **Q: Why should I buy a new restaurant?**
-    - **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.
-- **Q: What should I upgrade first?**
-    - **A:** Reinvesting your earnings into upgrades as quickly as possible. The faster you upgrade, the faster your income grows. This exponential growth is the core of the game.
-- **Q: What is the fastest way to make money?**
-### よくある質問（FAQ）
-- **Navigate:** Use the world map or restaurant list to switch between your different restaurant locations.
-
-
-
-
-
-    - **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.
-- **Q: Why should I buy a new restaurant?**
-    - **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.
-- **Q: What should I upgrade first?**
-    - **A:** Reinvesting your earnings into upgrades as quickly as possible. The faster you upgrade, the faster your income grows. This exponential growth is the core of the game.
-[JA TRANSLATION NEEDED]     *   **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.
-
+*   **Q: なぜ新しいレストランを買うべきですか？**
+    *   **A:** 各新しいレストランは、全体的な収入に対して巨大なブーストを提供し、多くの場合、他のすべてのレストランもブーストする永続的な倍率が付いてきます。これがゲームを進める主な方法です。

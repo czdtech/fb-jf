@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: stickman-fighter-mega
-title: '[DE] Stickman Fighter Mega'
-description: >-
-  [DE] Stickman Fighter Mega is a kinetic brawler — time parries, chain combos,
-  and dismantle waves with specials and spacing.
+title: "Stickman Fighter Mega"
+description: "Stickman Fighter Mega ist ein seitlicher Prügler mit Fokus auf Kontertiming und Abstand: Paraden, Kombos und Spezialangriffe räumen ganze Gegnerwellen ab, wenn du sie sauber setzt." 
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/stickman-fighter-mega.jpg
 tags:
@@ -14,36 +12,33 @@ score: 4.1/5  (1975 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Stickman Fighter Mega ist ein 2D‑Beat ’em up aus der Seitenansicht, bei dem alles auf Timing und Position ankommt. Gegner telegraphieren ihre Angriffe deutlich – wenn du im richtigen Moment parierst, kannst du sie mit Kontern, Luftkombos und Flächen‑Specials schnell ausschalten. Spätere Wellen mischen Gegner mit Schilden, Fernkämpfer und schwere Typen, die jeweils andere Antworten erfordern.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Parry‑Fenster lernen:** Übe den Zeitpunkt der Parade; gelungene Konter verursachen deutlich mehr Schaden.
+2.  **Abstand halten:** Steh knapp außerhalb der Reichweite deiner Gegner und geh erst hinein, wenn sie ausholen.
+3.  **Zielpriorität:** Eliminiere schnelle oder fernkämpfende Gegner zuerst, kite schwere Einheiten und halte sie auf Distanz.
+4.  **Spezial sinnvoll einsetzen:** Heb dir Flächen‑Specials für Wellen mit vielen Gegnern auf, statt sie an einzelnen Zielen zu verschwenden.
+5.  **Komborouten nutzen:** Leichte Schläge in schwere, dann Launcher und Luftkombos bringen viel Schaden bei geringem Risiko.
 
-Stickman Fighter Mega is a side‑view beat ’em up focused on counter‑timing and spacing. Enemies telegraph swings; punish them with parries, juggles, and area specials. Later waves mix shielded foes, ranged throwers, and heavies that demand varied answers.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Bewegen:** Pfeiltasten oder `A`/`D`
+- **Angriff:** `J` / `K` (leichte/schwere Attacken, je nach Version)
+- **Spezial:** `L`
+- **Block/Parade:** `I`
+- Pause/Neustart über die UI.
 
-1.  **[DE]** Parry window: Learn the parry frame and fish counter‑hits for bonus damage.
-2.  **[DE]** Spacing: Fight just outside enemy reach; step in only on swings.
-3.  **[DE]** Target priority: Delete ranged/fast daggers first; kite heavies.
-4.  **[DE]** Special economy: Save AOEs for multi‑spawn waves.
-5.  **[DE]** Combo routes: Light→Heavy→Launcher→Air juggles are high value.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Ich werde ständig gestunlocked.**  
+  Halte zwischen Treffern die Blocktaste gedrückt und weiche aus, statt wild weiter anzugreifen – vor allem gegen gepanzerte Gegner.
 
-- Move: Arrows/A/D; Attack: J/K; Special: L; Block/Parry: I (varies). Pause/Retry via UI.
+- **Meine Specials wirken schwach.**  
+  Nutze sie, wenn mehrere Gegner eng beieinanderstehen oder du kurz vor dem Überrennen stehst – nicht gegen einzelne, ungefährliche Ziele.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I get stun‑locked.
-
-A: Hold block between hits and roll out; don’t mash into armor.
-
-- Q: Specials feel weak.
-
-A: Use them as finishers on clustered waves, not on single targets.
-
-- Q: Best starter combo?
-
-A: Light×2→Heavy→Launcher→Air Light×2.
-
+- **Gute Einstiegscombo?**  
+  Zum Beispiel: zwei leichte Schläge → schwerer Schlag → Launcher → zwei leichte Luftangriffe.

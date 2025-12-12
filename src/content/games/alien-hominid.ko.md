@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: alien-hominid
-title: '[KO] Alien Hominid'
+title: "Alien Hominid 에일리언 호미니드"
 description: >-
-  [KO] The ultimate guide for the classic run-and-gun shooter, Alien Hominid.
-  Find detailed strategies, controls, and FAQs to help you master this
-  challenging side-scroller from The Behemoth.
+  Alien Hominid는 The Behemoth가 개발한 클래식 런앤건 슈팅 게임으로, 빠른 전개와
+  높은 난이도, 손그림 스타일의 아트가 특징입니다. 이 가이드는 스테이지 공략,
+  조작법, FAQ를 통해 도전적인 2D 액션을 정복하는 데 도움을 줍니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/alien-hominid.jpg
 tags:
@@ -18,56 +18,63 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Alien Hominid is a fast-paced 2D side-scrolling run-and-gun shooter developed by The Behemoth. It originated as a popular Flash game on the Newgrounds portal in 2002 before being expanded into a full console release for PlayStation 2, Nintendo GameCube, and Xbox. The game is renowned for its charming, hand-drawn art style by Dan Paladin, its chaotic and challenging gameplay, and its quirky sense of humor.
+*Alien Hominid*는 The Behemoth가 개발한 속도감 있는 2D 횡스크롤 런앤건 슈팅 게임입니다.
+2002년 Newgrounds의 플래시 게임으로 처음 등장한 뒤, PS2·GameCube·Xbox 등 콘솔로까지
+확장된 작품으로, Dan Paladin 특유의 손그림 아트와 혼란스러운 난전, B급 유머로 큰
+인기를 끌었습니다.
 
-The premise is simple: players control a small, yellow alien whose UFO has been shot down by the FBI. Now stranded on Earth, the alien must fight its way through waves of secret agents, KGB soldiers, and various bosses to recover its spaceship and escape the planet. The gameplay is heavily inspired by classic arcade shooters like *Contra* and *Metal Slug*, featuring one-hit kills, relentless waves of enemies, and intense boss battles that demand precision and pattern recognition.
+이야기의 출발점은 단순합니다. 작은 노란 외계인의 UFO가 FBI에 의해 격추되면서,
+주인공은 지구에 불시착하게 됩니다. 이제 플레이어는 이 외계인을 조종해 비밀요원,
+KGB 병사, 각종 보스를 뚫고 나가 우주선을 되찾고 탈출해야 합니다. 게임 플레이는
+*Contra*, *Metal Slug* 같은 고전 아케이드 슈팅에서 영감을 받아, 한 방에 죽는 높은
+난이도와 끊임없이 쏟아지는 적, 패턴 암기가 필요한 보스전으로 구성됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memorization, and mastering the alien's full moveset.
+Alien Hominid는 악명 높을 정도로 어렵습니다. 성공을 위해서는 빠른 반사신경,
+패턴 암기, 그리고 외계인의 모든 액션을 완전히 숙달하는 것이 중요합니다.
 
-#### 1. Movement is Survival
-*   **[KO]** **Never Stop Moving:** Standing still is the quickest way to die. Always be jumping, running, or rolling to make yourself a harder target.
-*   **[KO]** **Master the Roll/Duck:** You can duck under most standard bullets. Tapping the duck button while moving will initiate a roll, which is a fantastic evasive maneuver to dodge incoming fire or quickly reposition.
+#### 1. 움직임이 곧 생존
+- **가만히 서 있지 말 것:** 멈춰 서 있는 순간이 가장 위험합니다. 항상 달리고 점프하거나 구르며 탄을 피할 준비를 하세요.
+- **앉기/구르기 숙달:** 대부분의 일반 탄은 숙이기만 해도 피할 수 있습니다. 이동 중 숙이기 버튼을 톡 눌러 구르기를 사용하면 빠르게 위치를 바꿀 수 있습니다.
 
-#### 2. Use Your Full Arsenal
-*   **[KO]** **The Power of Digging:** One of the most critical survival skills is the ability to dig underground. While underground, you are completely invulnerable. You can use this to dodge massive bullet storms or to pull enemies underground for an instant kill.
-*   **[KO]** **Ride 'Em, Alien!:** You can jump on top of most enemies' heads. From there, you can choose to "ride" them, using them as a human shield, or perform a "chomp" to bite their head off for a stylish kill. This is both a defensive and offensive tactic.
-*   **[KO]** **Melee When Necessary:** Your knife is surprisingly effective for close-quarters combat, especially when you are overwhelmed and need to clear space immediately.
-*   **[KO]** **Grenades are Your Best Friend:** Grenades deal significant area-of-effect damage. Save them for large groups of enemies or for dealing heavy damage to bosses.
+#### 2. 모든 무기를 적극 활용
+- **땅 파기의 힘:** 흙이나 모래 같은 지형에서는 아래로 파고들어 완전히 무적 상태가 되며, 큰 탄막을 피하거나 적을 끌어내 즉시 처치할 수 있습니다.
+- **적 위를 타고 놀기:** 대부분의 적 머리 위에 올라탈 수 있습니다. 방패처럼 타고 다니거나 “물어뜯기”로 머리를 떼어 내 공격과 방어를 동시에 챙기세요.
+- **근접 공격도 활용:** 가까운 거리에서는 칼 공격이 의외로 강력합니다. 사방에서 적이 몰려올 때 한 번에 공간을 정리할 수 있습니다.
+- **수류탄 아끼기:** 수류탄은 광역 피해가 크므로 적이 몰렸을 때나 보스에게 큰 피해를 주고 싶을 때를 위해 아껴 두세요.
 
-#### 3. General Combat Tips
-*   **[KO]** **Charged Shots:** Holding down the fire button charges your blaster for a more powerful shot that can pierce through multiple enemies. However, you cannot move while charging, making you vulnerable. Use it strategically when you have a clear opening.
-*   **[KO]** **Prioritize Threats:** Always identify and eliminate the most dangerous enemies first—usually those with rapid-fire weapons or who launch projectiles.
-*   **[KO]** **Learn Boss Patterns:** Every boss follows a strict attack pattern. The key to victory is observation. Spend your first few attempts learning their moves and identifying safe spots and attack windows. Don't get greedy; land a few shots and then prepare to dodge again.
+#### 3. 전투 전반 팁
+- **차지 샷:** 공격 버튼을 누르고 있으면 관통력이 강한 차지 샷을 쏠 수 있지만 그동안은 움직일 수 없으니 안전한 타이밍에만 사용하세요.
+- **위협 우선 정리:** 연발 사격이나 투사체를 쓰는 적처럼 위험도가 높은 목표부터 먼저 제거해야 회피 난도가 급격히 오르지 않습니다.
+- **보스 패턴 암기:** 모든 보스는 반복되는 패턴을 따릅니다. 처음에는 패턴을 관찰하며 안전 지점과 공격 타이밍을 찾고, 욕심내지 말고 안전할 때만 몇 발 쏜 뒤 다시 회피하세요.
 
-### Controls Guide
+### 조작 방법
 
-Controls can vary slightly between the Flash version and console/HD versions, but the core functions remain the same.
+버전에 따라 키 배치는 조금씩 다르지만, 기본 조작은 거의 동일합니다.
 
-*   **[KO]** **Movement:** Arrow Keys / D-Pad / Analog Stick to move left and right.
-*   **[KO]** **Jump:** 'A' Key (Keyboard) / A or X Button (Controller).
-*   **[KO]** **Shoot:** 'S' Key (Keyboard) / X or Square Button (Controller). Hold to charge the shot.
-*   **[KO]** **Grenade:** 'D' Key (Keyboard) / B or Circle Button (Controller).
-*   **[KO]** **Duck/Roll:** Down Arrow Key / Down on D-Pad.
-*   **[KO]** **Special Moves:**
-    *   **[KO]** **Dig:** Press Down + Jump when on soft ground (dirt, sand).
-    *   **[KO]** **Melee Attack:** Get close to an enemy and press the Shoot button.
-    *   **[KO]** **Ride/Chomp:** Jump directly on top of an enemy's head.
+- **이동:** 방향키 / D-Pad / 아날로그 스틱으로 좌우 이동
+- **점프:** 키보드 'A' 키 / 패드 A 또는 X 버튼
+- **공격:** 키보드 'S' 키 / 패드 X 또는 □ 버튼 (길게 눌러 차지 샷)
+- **수류탄:** 키보드 'D' 키 / 패드 B 또는 ○ 버튼
+- **숙이기/구르기:** 아래 방향키 / D-Pad 아래
+- **특수 동작:**
+    - **파고들기:** 부드러운 지형(흙, 모래 등)에서 아래 + 점프 입력
+    - **근접 공격:** 적에게 바짝 다가간 상태에서 공격 버튼
+    - **타기/물어뜯기:** 적 머리 위로 점프해 올라탄 뒤 공격 입력
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: Why is Alien Hominid so difficult?**
-    *   **[KO]** **A:** The game's high difficulty is intentional, designed to emulate the challenge of classic 8-bit and 16-bit arcade games. The one-hit-kill system requires players to play with near-perfect execution.
+- **Q: 왜 이렇게 난이도가 높나요?**  
+    - **A:** 고전 8/16비트 아케이드의 도전적인 난이도를 재현하기 위해 한 방 데미지와 촘촘한 패턴을 의도적으로 채택했습니다.
 
-*   **[KO]** **Q: What is the difference between the original Flash game and the HD/console versions?**
-    *   **[KO]** **A:** The console and HD versions are greatly expanded. They feature more levels, additional enemies and bosses, improved graphics and sound, a 2-player co-op mode, and numerous mini-games and unlockable hats for your alien.
+- **Q: 원작 플래시 버전과 콘솔/HD 버전의 차이는 무엇인가요?**  
+    - **A:** 콘솔·HD 버전은 스테이지, 적, 보스, 그래픽·사운드가 크게 확장되었고 2인 협동, 미니게임, 모자 수집 등 추가 콘텐츠가 많습니다.
 
-*   **[KO]** **Q: How do I beat the final boss?**
-    *   **[KO]** **A:** The final boss is a multi-stage endurance fight. The key, like with all bosses, is to patiently learn the patterns of each phase. Focus on dodging first and only attack when you have a clear, safe opening.
+- **Q: 최종 보스를 어떻게 공략하나요?**  
+    - **A:** 여러 페이즈로 구성된 장기전이므로 각 패턴을 먼저 파악하고 회피에 집중한 뒤, 안전한 틈에 짧게 공격하는 리듬을 유지하세요.
 
-*   **[KO]** **Q: Is *Alien Hominid Invasion* the same game?**
-    *   **[KO]** **A:** No. *Alien Hominid Invasion* is a modern follow-up and a "reimagining" of the original. It features co-op-focused, non-linear gameplay with rogue-lite elements, character progression, and different mechanics. It's a new game set in the same universe, not a remake.
-
+- **Q: *Alien Hominid Invasion*은 같은 게임인가요?**  
+    - **A:** 아닙니다. 동일 세계관을 공유하지만 로그라이크 요소와 협동 중심 진행 등을 도입한 후속작/재해석에 가깝습니다.

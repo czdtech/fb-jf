@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: mahjong-3d
-title: '[KO] Mahjong 3D'
+title: Mahjong 3D 마작 3D
 description: >-
-  [KO] Experience Mahjong Solitaire in a new dimension! Rotate the 3D puzzle,
-  find matching pairs of free tiles, and clear the board in this immersive and
-  strategic game.
+  Mahjong 3D는 마작 솔리테어를 입체 구조로 옮긴 게임으로, 3D 퍼즐을 회전시키며 자유 타일 쌍을 찾아 보드를 비우는 전략적인 퍼즐
+  경험을 제공합니다.
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/mahjong-3d.jpg
@@ -19,32 +18,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-## English Guide
+## 게임 가이드
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Mahjong 3D takes the classic tile-matching gameplay of Mahjong Solitaire and elevates it into a three-dimensional space. Instead of a flat layout, the tiles are stacked in intricate 3D structures that you can rotate. The objective remains the same: find and match pairs of identical, unblocked tiles to clear the board. This 3D twist adds a new layer of challenge and requires players to use spatial awareness to look at the puzzle from all angles.
+*Mahjong 3D*는 고전 마작 솔리테어의 타일 매칭 규칙을 그대로 가져오되, 이를 입체적인
+3D 공간으로 확장한 게임입니다. 평면 레이아웃 대신 회전 가능한 입체 구조물 위에 타일이
+여러 층으로 쌓여 있으며, 목표는 예전과 같습니다. 막혀 있지 않은 같은 모양의 타일
+쌍을 찾아 짝을 맞추며 보드를 전부 비우는 것입니다. 3D 구조 덕분에 퍼즐을 여러 각도에서
+살펴보는 공간 감각이 중요해지고, 모든 면을 돌려 보며 숨겨진 짝을 찾아야 합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 플레이 팁
 
-1.  **[KO]** **Rotate, Rotate, Rotate:** The most crucial skill in this version is constantly rotating the puzzle. A pair of matching tiles might be hidden on opposite sides of the structure. Make it a habit to do a full 360-degree rotation before making a move to get a complete picture of the board.
-2.  **[KO]** **The "Free" Tile Rule:** Just like classic Mahjong Solitaire, you can only match tiles that are "free." A tile is free if it can be moved to the left or right without being blocked by another tile. In this 3D version, this means its left and right sides must be open space.
-3.  **[KO]** **Prioritize High and Wide Tiles:** Focus on matching tiles that are on the top layers or on the widest parts of the structure first. Clearing these tiles is key to unlocking the greatest number of new tiles underneath and inside the structure.
-4.  **[KO]** **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a possible match. If no matches are available at all, the shuffle option will rearrange the remaining tiles to give you a fresh chance to find pairs.
+1. **계속 회전시키기:** 이 버전에서 가장 중요한 기술은 퍼즐을 자주 회전시키는 것입니다.
+   짝이 되는 타일이 구조물의 반대편에 숨어 있는 경우가 많으니, 수를 두기 전에 한 바퀴
+   360도로 돌려 전체 판을 확인하는 습관을 들이세요.
+2. **자유 타일 규칙 이해하기:** 클래식 마작 솔리테어와 마찬가지로, '자유로운' 타일만
+   짝을 맞출 수 있습니다. 타일의 왼쪽이나 오른쪽 한쪽 이상이 막혀 있지 않아 옆으로
+   밀어낼 수 있어야 하며, 이 3D 버전에서는 타일의 좌우가 모두 빈 공간이어야 합니다.
+3. **위쪽과 넓은 부분 우선:** 구조물의 상단층이나 가로로 넓게 퍼진 부분에 있는 타일부터
+   우선적으로 제거하세요. 이런 타일을 치워야 아래층과 내부에 숨겨진 타일들이 한꺼번에
+   드러나 진행이 수월해집니다.
+4. **힌트와 셔플 활용:** 더 이상 짝이 보이지 않을 때는 힌트를 사용해 가능한 매치를
+   확인하고, 정말로 가능한 짝이 하나도 없다면 셔플 기능으로 남은 타일을 재배치해
+   새로운 기회를 만들 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-*   **[KO]** **Select Tiles:** Click on a free tile to select it, then click on its identical, free partner to make a match.
-*   **[KO]** **Rotate the Puzzle:** Use the on-screen arrows or click and drag the background to rotate the entire 3D structure left or right.
+* **타일 선택:** 자유로운 타일을 클릭해 선택한 뒤, 같은 모양의 다른 자유 타일을
+  클릭하면 한 쌍으로 제거됩니다.
+* **퍼즐 회전:** 화면의 화살표 버튼을 사용하거나 배경을 클릭 후 드래그해 3D 구조물을
+  좌우로 회전시킬 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What makes this different from regular Mahjong Solitaire?**
-    *   **[KO]** **A:** The main difference is the 3D presentation. The ability to rotate the puzzle to find matches on all sides adds a significant new challenge compared to the traditional 2D layout.
+* **Q: 일반 마작 솔리테어와 무엇이 다른가요?**
+    - **A:** 가장 큰 차이는 3D 표현입니다. 퍼즐을 회전해 네 방향에서 타일을 살펴봐야
+    하기 때문에, 전통적인 2D 레이아웃보다 공간 감각과 시야 전환이 훨씬 중요합니다.
 
-*   **[KO]** **Q: I see two identical tiles, but I can't match them. Why?**
-    *   **[KO]** **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.
+* **Q: 똑같은 타일 두 개가 보이는데 짝을 맞출 수가 없어요. 왜 그런가요?**
+    - **A:** 그 타일 중 하나 또는 둘 다가 '자유로운' 상태가 아니기 때문입니다. 좌우
+    양쪽이 다른 타일에 막혀 있으면 선택할 수 없으므로, 먼저 주변을 정리해 좌우가
+    열린 상태로 만들어야 합니다.
 
-*   **[KO]** **Q: What do the Flower and Season tiles do?**
-    *   **[KO]** **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.
-
+* **Q: 꽃 타일과 계절 타일은 무엇을 의미하나요?**
+    - **A:** 이들은 특수 타일입니다. 꽃 타일은 서로 다른 그림이라도 아무 꽃끼리 짝을
+    맞출 수 있고, 계절 타일 역시 서로 다른 그림이라도 계절끼리 짝을 맞출 수 있습니다.
+    완전히 같은 그림일 필요는 없습니다.

@@ -1,49 +1,75 @@
 ---
 locale: zh
 urlstr: checkers-legend
-title: '[ZH TRANSLATION NEEDED] Checkers Legend'
+title: Checkers Legend 西洋跳棋传奇
 description: >-
-  [ZH TRANSLATION NEEDED] Become a Checkers Legend in this classic board game.
-  Plan your moves, capture your opponent's pieces, and crown your kings to
-  dominate the board.
-iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
-thumbnail: /new-images/checkers-legend.png
+  《Checkers Legend 西洋跳棋传奇》是一款规则正统的西洋跳棋游戏，支持不同难度 AI 与本地对战，让你在简洁界面
+  下体验经典“吃子与升王”的对局。
+iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/7mitt2tdntllg/'
+thumbnail: /new-images/checkers-legend.jpeg
 tags:
+  - board
   - puzzle
-  - thinky
-  - casual
-  - card
-score: 4.6/5  (2900 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (1830 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Checkers Legend is a digital version of the classic strategy board game, also known as Draughts. The game is played on an 8x8 checkered board between two opponents. The objective is simple but requires deep strategy: capture all of your opponent's pieces or block them so they have no legal moves left. It's a timeless game of foresight and tactics.
+*Checkers Legend* 复刻了经典西洋跳棋（Checkers / Draughts）的玩法。游戏在 8×8 棋盘上进行，每位玩家各执 12 枚棋子，摆在自己靠近的一侧三个黑格行上。双方轮流移动棋子，只能在深色格子上沿斜线前进与吃子。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Basic Movement:** Your pieces, or "men," can only move one step diagonally forward onto an empty dark square.
-2.  [ZH TRANSLATION NEEDED] **Capturing:** The key to winning is capturing your opponent's pieces. If your piece is diagonally adjacent to an opponent's piece, and the square directly behind that opponent's piece is empty, you *must* jump over and capture it. If your landing position allows for another jump, you must take that one as well in the same turn.
-3.  [ZH TRANSLATION NEEDED] **Becoming a King:** When one of your pieces reaches the last row on the opponent's side of the board, it gets "crowned" and becomes a King. Kings are marked with a crown.
-4.  [ZH TRANSLATION NEEDED] **King Power:** Kings are much more powerful because they can move and capture both diagonally forwards and diagonally backwards.
-5.  [ZH TRANSLATION NEEDED] **Control the Center:** A good strategy is to control the center of the board. This gives your pieces more mobility and limits your opponent's options.
-6.  [ZH TRANSLATION NEEDED] **Protect Your Back Row:** Be careful not to leave your back row (the row closest to you) open for your opponent to easily get a King.
+基本规则包括：
 
-### Controls Guide
+- **普通棋子：** 每回合向前方斜对角移动一格；  
+- **吃子：** 若相邻斜对角格有对方棋子，且其后方斜对角格为空，可以“跳过”该子并将其吃掉；  
+- **多重跳吃：** 若跳吃后仍存在连续可吃子机会，必须继续跳。  
+- **升王（King）：** 当普通棋子走到对方底线行时，会升为王，之后可向前后两个方向斜走与吃子。  
 
-[ZH TRANSLATION NEEDED] The game is played with simple clicks.
+### 游戏策略与对局思路
 
-*   **Select a Piece:** Click on one of your pieces to select it. Valid moves will be highlighted.
-*   **Move a Piece:** Click on a highlighted empty square to move your selected piece there.
+1.  **控制中心与前线，不要一味退守**  
+    中央与前线格子可以提供更多斜走与吃子的机会。适当把部分棋子推进到中线附近，既能施压，又能利用多重跳吃制造优势。
 
-### Frequently Asked Questions (FAQ)
+2.  **避免轻易暴露可被“连吃”的位置**  
+    在移动前多观察一层：移动后的棋子是否会让对方有机会连跳吃掉你多枚棋子？若存在明显的“连吃路线”，应考虑换走其他子或改走保守路线。
 
-*   **Q: Do I have to jump if I can?**
-     *   **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.
+3.  **为升王创造机会**  
+    升为 King 后棋子的机动性和威慑力大幅提升。中后期可以围绕一两枚即将升王的棋子做布局，用其他棋子掩护其安全抵达对方底线。
 
-*   **Q: What makes a King so special?**
-     *   **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
+4.  **利用多重跳吃打出节奏差**  
+    当你有机会一口气连跳吃掉对方两三枚棋子时，不仅在数量上占优，也往往能获得更有利的站位。多观察是否存在通过牺牲一枚棋子诱导对方“上钩”的战术。
 
-*   **Q: How do I win the game?**
-     *   **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
+5.  **残局中王棋要慎用“贪吃”**  
+
+- **Protect Your Back Row:** Be careful not to leave your back row (the row closest to you) open for your opponent to easily get a King.
+    王棋可以前后移动，但也可能因为过于激进的吃子路径陷入对方包围圈。残局时要兼顾进攻与安全，避免让王棋成为被围攻目标。
+
+### 操作指南
+
+
+The game is played with simple clicks.
+-   **选择棋子：** 点击己方棋子即可选中，可行走步通常会被高亮显示。  
+-   **落子：** 再次点击目标格子完成走子或跳吃。若有连续可吃子，系统会提示继续跳。  
+-   **模式选择：** 进入游戏前可选择 AI 难度或本地双人模式。  
+
+### 常见问题解答（FAQ）
+
+
+- **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
+
+    - **Q: How do I win the game?**
+
+- **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
+
+    - **Q: What makes a King so special?**
+
+- **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.
+
+    - **Q: Do I have to jump if I can?**
+**问：是否必须吃子？****
+答：** 多数西洋跳棋规则为“强制吃子”，即只要存在合法吃子路线，你就必须选择吃子而不能单纯移动。具体以游戏内规则说明为准。
+
+**问：普通棋子可以后退吗？****
+答：** 一般规则下普通棋子只能向前斜走与吃子，只有升为 King 后才允许前后移动。
+

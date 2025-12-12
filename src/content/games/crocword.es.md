@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: crocword
-title: '[ES] Crocword'
+title: "Crocword"
 description: >-
-  [ES] Crocword is a relaxing word puzzle — connect letters, build words, and
-  clear grids with clever vocabulary.
+  Crocword es un relajante puzle de palabras: une letras, forma
+  vocablos y rellena el crucigrama con ingenio.
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/crocword.png
 tags:
@@ -15,36 +15,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Crocword mezcla patrones de crucigrama con mecánicas de enlazar letras. Debes
+conectar letras para formar palabras válidas que encajen en los huecos del
+crucigrama. Las palabras extra te dan monedas o pistas, y la dificultad aumenta
+con rejillas más largas y retorcidas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Crocword blends crossword patterns with letter‑link mechanics. Connect letters to form valid words that fill crossword slots. Bonus words grant coins or hints; difficulty rises with longer, trickier grids.
+1.  Rellena primero los huecos donde solo encaja una combinación (posiciones con
+    letras raras o cruces muy marcados).
+2.  Prueba anagramas a partir de prefijos y sufijos que ya hayas descubierto.
+3.  Aprovecha las palabras extra para acumular pistas que te ayuden en los
+    niveles avanzados.
+4.  Si te bloqueas, cambia de enfoque: prueba a empezar por el principio,
+    mitad o final de la palabra en lugar de fijarte siempre en el mismo punto.
+5.  Ir reconociendo combinaciones frecuentes de letras (dígrafos, trígrafos)
+    hará que resuelvas los paneles mucho más rápido.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Fill singular‑fit slots first (rare letter positions).
-2.  **[ES]** Try anagrams of uncovered prefixes/suffixes.
-3.  **[ES]** Use bonus words to stock hints for late game.
-4.  **[ES]** Don’t tunnel — change angles (prefix/middle/suffix) when stuck.
-5.  **[ES]** Build vocabulary lists (common digrams/trigrams) to speed solves.
+- Arrastra sobre las letras para formar palabras y suelta para enviarlas.
+- Usa las pistas con moderación para revelar letras o palabras cuando sea
+  estrictamente necesario.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag across letters to form words; release to submit.
-- Use hints to reveal letters/words sparingly.
+- P: Hay un hueco que parece imposible, ¿algún consejo?
+  
+  R: Revisa las letras que se cruzan; un fallo temprano puede bloquear varias
+  palabras. Corrige primero las que tengan más cruces.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Se aceptan nombres propios?
+  
+  R: La mayoría de diccionarios no aceptan nombres propios; sigue la lista de
+  palabras que usa el juego.
 
-- Q: A slot seems impossible — help?
-
-A: Check crossing letters again; one mistake early can block several words.
-
-- Q: Are proper nouns allowed?
-
-A: Most dictionaries disallow proper nouns; follow the game’s word list.
-
-- Q: Can I replay for bonus words?
-
-A: Yes — revisit earlier grids to farm coins if the mode supports it.
-
+- P: ¿Puedo rejugar niveles para conseguir más palabras extra?
+  
+  R: Sí, en muchas versiones puedes volver a puzles anteriores para acumular
+  monedas si el modo lo permite.

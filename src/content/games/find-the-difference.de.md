@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: find-the-difference
-title: '[DE] Find the Difference'
+title: Find the Difference
 description: >-
-  [DE] Sharpen your eyes and test your attention to detail! Compare two nearly
-  identical images and find all the differences before the time runs out.
+  Schärfe deine Augen und teste deine Aufmerksamkeit fürs Detail! Vergleiche
+  zwei fast identische Bilder und finde alle Unterschiede, bevor die Zeit
+  abläuft.
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/find-the-difference.jpg
 tags:
@@ -15,36 +16,56 @@ score: 4.3/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Find the Difference ist ein klassisches Beobachtungspuzzle, das deine
+Aufmerksamkeit und Konzentration auf die Probe stellt. In jedem Level werden dir
+zwei Bilder präsentiert, die auf den ersten Blick gleich aussehen, aber
+feinere Unterschiede verbergen. Deine Aufgabe ist es, alle Abweichungen zu
+finden, bevor die Zeit abläuft – entspannt, aber durchaus anspruchsvoll.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Strukturiert vorgehen:** Starte in einer Ecke (z.B. oben links) und
+   arbeite dich Abschnitt für Abschnitt vor. Wandere mit dem Blick immer zwischen
+   denselben Bereichen der beiden Bilder hin und her, um Abweichungen zu
+   entdecken.
+2. **Typische Unterschiedsarten kennen:** Achte besonders auf:
+    - **Farbänderungen:** Ein Objekt hat eine andere Farbe.
+    - **Fehlende/zusätzliche Objekte:** Ein Gegenstand ist nur in einem der
+     Bilder zu sehen.
+    - **Größen- oder Formänderungen:** Ein Element ist etwas größer, kleiner oder
+     anders geformt.
+    - **Positionswechsel:** Ein Objekt wurde leicht verschoben.
+3. **Hinweise mit Bedacht nutzen:** Viele Versionen bieten nur wenige Hints.
+   Versuche zunächst selbst so viele Unterschiede wie möglich zu finden und nutze
+   Hinweise erst bei den letzten ein bis zwei.
+4. **Wildes Klicken vermeiden:** Zufällige Klicks werden häufig mit
+   Zeitabzug oder anderen Strafen geahndet. Klicke nur, wenn du dir sicher bist.
 
-Find the Difference is a classic puzzle game that tests your observation skills and attention to detail. In each level, you are presented with two images that appear identical at first glance. However, they contain a set number of subtle differences. Your task is to carefully compare the two pictures and identify all the differences before the time runs out. It's a relaxing yet challenging game that provides a great workout for your brain.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Unterschied markieren:** Wenn du eine Abweichung entdeckt hast, klicke mit
+  der Maus auf die entsprechende Stelle in einem der beiden Bilder. Liegt du
+  richtig, wird der Unterschied markiert.
 
-1.  **[DE]** **Scan Systematically:** Don't just stare at the middle of the images. Start in one corner (e.g., top left) and systematically scan both pictures section by section. Move your eyes back and forth between the same area on both images to spot discrepancies.
-2.  **[DE]** **Look for Common Types of Differences:** Be on the lookout for typical changes:
-    *   **[DE]** **Color Changes:** An object might be a different color.
-    *   **[DE]** **Missing/Added Objects:** An item might be present in one picture but absent in the other.
-    *   **[DE]** **Size or Shape Changes:** An object might be slightly larger, smaller, or a different shape.
-    *   **[DE]** **Positional Changes:** An item might be moved slightly.
-3.  **[DE]** **Use Hints Wisely:** Most versions of the game provide a limited number of hints. Try to find as many differences as you can on your own, and save the hints for when you are truly stuck on the last one or two.
-4.  **[DE]** **Avoid Random Clicking:** Be careful about clicking randomly. Many games will penalize you for incorrect clicks, often by reducing your remaining time.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Worauf sollte ich generell achten?**  
+  **A:** Auf alles, was hinzugefügt, entfernt, farblich verändert, in der Größe
+  angepasst oder leicht verschoben wurde.
 
-*   **[DE]** **Identify a Difference:** When you spot a difference, simply use your mouse to click on that area in either of the two images. If you are correct, the difference will be marked.
+    - **F: Was passiert bei einem Fehlklick?**  
+  **A:** In vielen Versionen verlierst du Zeit oder kannst kurzzeitig nicht
+  weiterklicken – also vorsichtig sein.
 
-### Frequently Asked Questions (FAQ)
+- **F: Ich finde den letzten Unterschied nicht, was tun?**  
 
-*   **[DE]** **Q: What kind of differences should I be looking for?**
-    *   **[DE]** **A:** Anything can be different! Look for objects that are added, missing, have a different color, are a different size, or are in a slightly different position.
+    - **A:** This is the perfect time to use a hint if you have one. If not, try looking away from the screen for a moment to reset your eyes, and then come back and scan the images again, perhaps in a different pattern than you did before.
 
-*   **[DE]** **Q: What happens if I click in the wrong place?**
-    *   **[DE]** **A:** Most games will have a penalty for incorrect guesses. This is often a reduction in your time limit or a temporary freeze on your ability to click again.
+- **Q: I can't find the last difference! What should I do?**
 
-*   **[DE]** **Q: I can't find the last difference! What should I do?**
-    *   **[DE]** **A:** This is the perfect time to use a hint if you have one. If not, try looking away from the screen for a moment to reset your eyes, and then come back and scan the images again, perhaps in a different pattern than you did before.
-
+    - **A:** Most games will have a penalty for incorrect guesses. This is often a reduction in your time limit or a temporary freeze on your ability to click again.
+  **A:** Lege kurz eine Pause ein, schau weg und komme mit frischem Blick
+  zurück. Scanne das Bild diesmal in einer anderen Reihenfolge oder benutze –
+  falls vorhanden – einen Hinweis.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: google-snake
-title: '[DE] Google Snake'
+title: "Google Snake"
 description: >-
-  [DE] Modern take on Snake: guide a growing snake to eat fruit, avoid
-  collisions, and chase high scores with optional rulesets.
+  Moderne Variante von Snake: Steuere eine immer länger werdende Schlange,
+  friss Früchte, meide Kollisionen und jage Highscores in verschiedenen
+  Regelvarianten.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/google-snake.jpg
@@ -16,30 +17,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Überblick
 
+Google Snake modernisiert das klassische Snake-Prinzip mit klarer Optik und
+optional unterschiedlichen Spielmodi. Du frisst Früchte, um länger zu werden,
+und musst gleichzeitig Wände und deinen eigenen Schwanz vermeiden. Je länger du
+überlebst, desto schneller wird das Spiel. Verschiedene Varianten ändern
+Spielfeldgröße, Hindernisse und Effekte spezieller Items.
 
+### So spielst du
 
-### Overview
-Google Snake updates the classic formula with clean visuals and optional modes. Eat fruit to grow while avoiding walls and your own tail. Speed rises as you survive longer; variant rules change board size, obstacles, and item effects.
+- Plane deine Routen so, dass du dir immer **Fluchtwege** offen lässt und dich
+  nicht selbst in eine Sackgasse manövrierst.
+- Nutze den äußeren Ring für lange, gerade Läufe und tauche nur bei Bedarf nach
+  innen, um Früchte einzusammeln.
+- Passe deine Strategie an besondere Items oder aktivierte Modi des Hosts an
+  (z. B. Portale, Extra-Punkte oder besondere Hindernisse).
 
-### How to Play
-- Plan routes that leave escape lanes; never box yourself in.
-- Use the outer ring for long straight runs; dive inward for pickups.
-- Adapt to special items/modes as enabled by the host.
+### Steuerung
 
-### Controls
-- Arrow keys or WASD to steer; pause/restart via UI.
+- Pfeiltasten oder **WASD**, um die Richtung der Schlange zu steuern.  
+- Pausieren/Neustart erfolgt über Schaltflächen in der Benutzeroberfläche.
 
-### Tips
-- Don’t turn 180° into your neck—make wide turns.
-- Keep the tail straight when possible to maximize options.
-- When fast, pre‑input turns one tile early.
+### Tipps
 
-### FAQ
-- Q: How can I avoid running into my own tail?
-A: Keep the tail compact by using straight segments and avoid tight spirals.
-- Q: Does the game get faster over time?
-A: Yes, most versions increase speed with score.
-- Q: Are there different board setups?
-A: Many hosts offer sizes, obstacles, and item variants.
+- Vermeide 180°-Wendungen direkt in deinen eigenen Hals – größere Bögen sind
+  sicherer.
+- Halte deinen Schwanz möglichst gerade und kompakt, damit du mehr Optionen für
+  Richtungswechsel hast.
+- Bei hoher Geschwindigkeit solltest du Richtungswechsel **eine Kachel früher**
+  eingeben, damit die Schlange rechtzeitig abbiegt.
 
+### Häufige Fragen (FAQ)
+
+- **F: Wie verhindere ich, gegen meinen eigenen Schwanz zu laufen?**  
+  **A:** Halte die Schlange so kompakt wie möglich, nutze lange, gerade
+  Abschnitte und vermeide enge Spiralen.
+
+- **F: Wird das Spiel im Laufe der Zeit schneller?**  
+  **A:** Ja, in den meisten Versionen steigt die Geschwindigkeit mit deiner
+  Punktzahl bzw. der Länge der Schlange.
+
+- **F: Gibt es unterschiedliche Spielfelder?**  
+  **A:** Viele Hosts bieten verschiedene Größen, Hindernis-Anordnungen und
+  Item-Varianten an.

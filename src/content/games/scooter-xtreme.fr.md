@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: scooter-xtreme
-title: '[FR] Scooter Xtreme 3D'
-description: >-
-  [FR] Hit the skate park in Scooter Xtreme 3D! Race through challenging
-  courses, perform awesome stunts and grinds, and collect coins to unlock new
-  scooters and characters.
+title: Scooter Xtreme 3D
+description: "Enfourche ta trottinette dans Scooter Xtreme 3D\_! Parcours des circuits bourrés de rampes, enchaîne figures et grinds et récolte des pièces pour débloquer de nouvelles trottinettes et de nouveaux riders."
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/scooter-xtreme.jpg
@@ -20,33 +17,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Scooter Xtreme 3D is an action-packed stunt and racing game that puts you on a scooter in a vibrant 3D world. Your goal is to navigate through challenging courses filled with ramps, rails, and obstacles. Perform incredible stunts like flips and grinds to rack up points, collect coins, and race to the finish line. Use your earnings to unlock new scooters and characters to become the ultimate scooter champion.
+Scooter Xtreme 3D est un jeu de course et de figures plein d’action qui te
+met au guidon d’une trottinette dans un skatepark 3D coloré. Ton objectif :
+terminer des parcours truffés de rampes, rails et obstacles, réaliser des
+figures spectaculaires (flips, grinds, etc.), engranger des points et
+collecter des pièces. Tu pourras ensuite les dépenser pour débloquer de
+nouvelles trottinettes et de nouveaux personnages et devenir la star du
+park.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** **Master the Basics:** Before trying complex tricks, get comfortable with the controls. Practice accelerating, turning, and jumping to get a feel for the physics of the scooter.
-2.  **[FR]** **Link Your Tricks:** The key to a high score is combos. Don't just do one trick; try to link them together. For example, jump off a ramp, do a flip in the air, and land perfectly in a grind on a rail.
-3.  **[FR]** **Explore the Park:** The levels are filled with different paths and hidden areas. Explore the environment to find the best lines for scoring points and collecting all the coins.
-4.  **[FR]** **Choose the Right Scooter:** As you unlock new scooters, pay attention to their stats. Some might be faster, while others might be better for performing tricks. Choose the one that best fits your playstyle and the level's objective.
+1.  **Maîtriser les bases :** avant de tenter des combos de folie,
+    apprends à bien accélérer, tourner et sauter pour sentir la physique de
+    la trottinette.
+2.  **Enchaîner les tricks :** la clé d’un gros score, ce sont les combos.
+    Ne fais pas qu’une figure isolée : par exemple, saute d’une rampe,
+    réalise un flip puis enchaîne sur un grind parfaitement posé.
+3.  **Explorer le park :** les niveaux regorgent de lignes alternatives et
+    de zones cachées. Cherche les meilleurs trajets pour maximiser les
+    points et ramasser toutes les pièces.
+4.  **Choisir la bonne trottinette :** chaque modèle débloqué a ses stats
+    (vitesse, maniabilité, aptitudes aux figures…). Sélectionne celui qui
+    correspond à ton style et aux objectifs du niveau.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Accelerate:** Press the **W** or **Up Arrow** key.
-*   **[FR]** **Steer:** Use the **A/D** or **Left/Right Arrow** keys to steer.
-*   **[FR]** **Brake/Reverse:** Press the **S** or **Down Arrow** key.
-*   **[FR]** **Jump:** Press the **Spacebar** to jump.
-*   **[FR]** **Perform Tricks:** Use other designated keys (often shown on-screen) while in the air or on a rail to perform various stunts.
+*   **Accélérer :** touche **W** ou flèche **Haut**.  
+*   **Diriger :** touches **A/D** ou flèches **Gauche/Droite**.  
+*   **Freiner / Reculer :** touche **S** ou flèche **Bas**.  
+*   **Sauter :** barre d’espace.  
+*   **Effectuer des figures :** utilise les touches indiquées à l’écran
+    pendant que tu es en l’air ou en grind pour lancer des tricks.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: How do I get a higher score?**
-    *   **[FR]** **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.
+*   **Q : Comment obtenir un meilleur score ?**  
+    R : En réalisant des combos longs et variés. Plus tu enchaînes de
+    figures sans te rater, plus ton multiplicateur de score augmente.
 
-*   **[FR]** **Q: What happens if I fall or crash?**
-    *   **[FR]** **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
+    - **Q : Que se passe‑t‑il si je tombe ou me crashe ?**  
+    R : Tu es généralement replacé au dernier checkpoint, mais tu perds du
+    temps et ta série de combos en cours.
 
-*   **[FR]** **Q: How do I unlock new characters and scooters?**
-    *   **[FR]** **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
+*   **Q : Comment débloquer de nouveaux riders et trottinettes ?**  
 
+    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
+
+- **Q: How do I unlock new characters and scooters?**
+
+    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
+    R : Ramasse les pièces dispersées dans les niveaux, puis rends‑toi dans
+    la boutique pour acheter du nouvel équipement et des personnages.

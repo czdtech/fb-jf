@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bird-sort-quest
-title: '[ES] Bird Sort Quest'
+title: "Bird Sort Quest ordenar pajaritos por colores"
 description: >-
-  [ES] Bird Sort Quest turns color‑sorting into a soothing challenge — move
-  birds between perches, unify colors, and plan several steps ahead.
+  Bird Sort Quest convierte ordenar colores en un reto relajante. Mueve pájaros
+  entre perchas, agrúpalos por color y planifica varios pasos por delante.
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/bird-sort-quest.png
 tags:
@@ -16,45 +16,59 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Bird Sort Quest es un puzle lógico tranquilo del estilo de los juegos de
+"ordenar líquidos", pero con pájaros en perchas. Cada posadero contiene una
+columna de aves de distintos colores. Tu objetivo es mover los pájaros de uno en
+uno hasta que cada percha contenga solo pájaros de un mismo color.
 
-### Detailed Game Introduction
+La dificultad viene de que tienes pocas perchas libres y solo puedes colocar un
+pájaro sobre otro del mismo color (o en un hueco vacío). Eso te obliga a usar
+perchas de reserva y aparcamientos temporales para reorganizar las pilas.
 
-Bird Sort Quest is a calm logic puzzle in the family of liquid/sort games. Each perch holds a stack of colorful birds. Move one bird at a time so that every perch ends up with birds of a single color. The challenge comes from limited free perches and the rule that only a matching color (or empty slot) can accept a moved bird, forcing you to plan buffers and temporary parking.
+### Estrategia de juego y recorrido
 
-### Gameplay Strategy & Walkthrough
+1.  **Reserva perchas de reserva:** Intenta mantener al menos una percha vacía
+    como espacio flexible para maniobrar.
+2.  **Construye desde abajo:** Estabiliza las pilas terminando un color completo
+    en una percha dedicada, empezando por la base y rellenando hacia arriba.
+3.  **No entierres colores únicos:** Evita dejar colores que solo aparecen unas
+    pocas veces sepultados bajo pilas mezcladas; intenta sacarlos a la superficie
+    pronto.
+4.  **Piensa a dos movimientos vista:** Antes de mover, imagina al menos los
+    dos siguientes pasos para no crearte un bloqueo blando sin jugadas legales.
+5.  **Consolida a mitad de partida:** Fusiona pilas parciales del mismo color en
+    cuanto sea razonable para liberar perchas adicionales.
+6.  **Retrocede rápido si empeoras la mesa:** Si ves que un movimiento genera
+    más desorden, deshaz unos pasos y prueba otra secuencia mientras aún tienes
+    perchas de reserva disponibles.
 
-1.  **[ES]** Reserve buffers: Keep at least one empty perch as a flexible buffer for shuffling.
-2.  **[ES]** Build from bottom: Stabilize stacks by finishing a color on a dedicated perch starting from the bottom.
-3.  **[ES]** Avoid burying singles: Don’t trap unique colors under mixed stacks; surface them early.
-4.  **[ES]** Two‑move foresight: Before moving, simulate the next two placements to avoid softlocks.
-5.  **[ES]** Consolidate mid‑game: Merge partial stacks of the same color as soon as feasible to free perches.
-6.  **[ES]** Backtrack quickly: If a move increases disorder, undo and try a different route while buffers are intact.
+### Guía de controles
 
-### Controls Guide
+- **Seleccionar percha:** Toca o haz clic en una percha para coger el pájaro de
+  arriba, luego selecciona la percha de destino.
+- **Deshacer/Reiniciar:** Usa las opciones de deshacer o reiniciar si el modo las ofrece;
+  guarda las pistas para los puzles más avanzados.
 
-- Select a perch to pick the top bird, then select the destination perch.
-- Undo/Reset if the mode offers it; hints are best saved for late puzzles.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **P: Me he quedado sin movimientos legales, ¿qué hago?**  
+  **R:** Retrocede unos cuantos movimientos para recuperar una percha libre y
+  prioriza sacar a la superficie los colores enterrados.
 
-- Q: I’m stuck with no legal moves — what should I do?
+- **P: ¿Hay una estrategia garantizada para todos los niveles?**  
+  **R:** No siempre, pero mantener al menos un buffer y consolidar pilas del
+  mismo color pronto resuelve la mayoría de diseños.
 
-A: Backtrack a few moves and reopen a buffer perch. Prioritize surfacing buried singles to create new legal placements.
+- **P: ¿Debo terminar un color antes de tocar otros?**  
+  **R:** Es eficiente fijar un color cuando se presenta la oportunidad, pero no
+  lo fuerces si consume todas tus perchas de reserva.
 
-- Q: Is there a guaranteed strategy for every level?
+- **P: ¿Se añaden perchas extra en niveles difíciles?**  
+  **R:** En algunos conjuntos aparecen perchas de bonus; úsalas como aparcamiento
+  temporal para simplificar el puzle.
 
-A: Not always, but maintaining at least one buffer and consolidating partial stacks early solves most layouts.
-
-- Q: Should I finish one color completely before touching others?
-
-A: It’s efficient to lock in a finished color when convenient, but don’t force it if it consumes all buffers.
-
-- Q: Are extra perches ever added?
-
-A: Some sets introduce bonus perches on tougher stages—use them as temporary parking to simplify.
-
-- Q: Do move counts matter?
-
-A: In some modes yes; aim for minimal moves by reducing unnecessary shuffles.
-
+- **P: ¿Importa el número de movimientos?**  
+  **R:** En ciertos modos sí; intenta minimizar movimientos innecesarios para
+  optimizar tu puntuación.

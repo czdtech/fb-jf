@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: gladihoppers
-title: '[ZH TRANSLATION NEEDED] Gladihoppers'
+title: "Gladihoppers 蹦跳角鬥士"
 description: >-
-  [ZH TRANSLATION NEEDED] 2D gladiator brawler with physics hops: customize
-  gear, time lunges and parries, and climb arenas in duels or modes.
+  2D 物理蹦跳角鬥遊戲：自訂裝備，掌握突刺與招架時機，
+  在各個競技場模式中一路爬升排名。
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/gladihoppers.jpg
 tags:
@@ -17,26 +17,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Gladihoppers blends ragdoll‑style hopping movement with weapon combat. Your gladiator’s stance, reach, and momentum determine damage: lunges and head hits deal more, while shields and timing‑based parries mitigate blows. Between fights, equip new helms, armor, and weapons to shape reach and swing speed, then progress through arenas and modes.
+
+《Gladihoppers》將搖搖晃晃的布偶式蹦跳動作與武器對戰結合在一起。
+你的角鬥士會用誇張的跳躍姿勢前後移動，站姿、武器長度與移動慣性會決定攻擊的傷害與命中。
+前傾突刺與命中頭部往往造成更高傷害，而盾牌與抓準時機的招架則可以化解對方攻勢。
+每場戰鬥之間，你可以更換頭盔、護甲與武器，調整攻擊距離與揮砍速度，逐步挑戰更高級的競技場。
 
 ### How to Play
-- Control distance with hops; strike when your weapon arc will land first.
-- Raise shield or back‑hop to bait swings, then counter during recovery.
-- Spend coins on gear that complements your preferred range and speed.
+
+- 透過方向跳躍控制與對手的距離，等到自己的武器揮擊弧線會比對方先碰到人時再出手。
+- 在對手出招前抬盾或向後小跳，誘使對方空揮，趁其硬直時反打。
+- 用戰鬥獲得的金幣購買適合自己風格的裝備：喜歡拉距離就選長矛／長戟，偏好貼身壓制則用短劍或單手劍。
 
 ### Controls
-- Directional hops, attack and block keys (bindings vary by host); local versus often available.
+
+- 方向跳躍、攻擊與防禦鍵位依託管版本配置稍有不同；
+- 多數版本支援本地對戰模式，可兩人同機遊玩。
 
 ### Tips
-- Spear/pike favor spacing; swords excel at close pressure.
-- Aim for the head when safe; high hits often crit.
-- Don’t spam—most weapons have end‑lag; learn tempos.
+
+- 長槍與長戟適合保持中遠距離騷擾，短劍則在近身壓迫時更靈活。
+- 在安全時機優先瞄準頭部，高位命中通常有暴擊或額外傷害加成。
+- 不要瘋狂連按攻擊鍵，多數武器揮完都有明顯硬直，學會抓節奏比亂砍更有效。
 
 ### FAQ
-- Q: Why do my attacks whiff at close range?  
-[ZH TRANSLATION NEEDED]   A: Your weapon arc may be past its sweet spot; adjust spacing or switch to faster arms.
-- Q: Is blocking or back‑hopping better on defense?  
-[ZH TRANSLATION NEEDED]   A: Use both—block against single swings, back‑hop to escape combos.
-- Q: How important is gear quality?  
-[ZH TRANSLATION NEEDED]   A: Very—reach/weight drastically change matchups.
 
+- 問：為什麼我近距離揮砍常常打空？  
+  答：可能是武器揮擊弧線已經過了最佳距離，建議調整站位或改用出手更快、射程較短的武器。
+
+- 問：防守時該優先用盾牌還是後跳？  
+  答：單發攻擊時用盾牌招架較好，遇到連續揮砍或多段攻勢時，後跳可以讓你整體脫離危險區域。
+
+- 問：裝備品質影響大嗎？  
+  答：非常大。武器的長度與重量會直接影響對戰形勢，重裝雖然耐打但出手慢，
+  輕裝則換來更快的反應速度與走位自由，選擇適合自己節奏的配裝是關鍵。

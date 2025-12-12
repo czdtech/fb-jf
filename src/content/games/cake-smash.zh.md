@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: cake-smash
-title: '[ZH TRANSLATION NEEDED] Cake Smash'
-description: >-
-  [ZH TRANSLATION NEEDED] Match and smash delicious cakes in Cake Smash, a fun
-  and addictive match-3 puzzle game.
+title: Cake Smash 糕点消消乐
+description: 《Cake Smash 糕点消消乐》是一款色彩鲜艳的三消游戏，通过交换相邻蛋糕，让三个及以上同款甜点连成一线并“砰然 碎裂”，完成各类关卡目标。
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/cake-smash.png
 tags:
@@ -16,24 +14,36 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to swap adjacent cakes to create lines of three or more identical cakes, which then get "smashed" and removed from the board, with new cakes falling into place. Each level has a specific goal, such as reaching a certain score or clearing a certain number of a specific type of cake.
+*Cake Smash* 是一款充满糖分与色彩的三消益智游戏。你的目标是通过交换相邻的蛋糕块，让至少 **三个相同样式的蛋糕** 排成一条横线或竖线，它们就会被“砸碎”并从棋盘上消失，上方的新蛋糕随之落下填补空位。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Identify Matches:** Look for opportunities to match three or more identical cakes by swapping two adjacent cakes.
-2.  [ZH TRANSLATION NEEDED] **Create Special Cakes:** Matching four or five cakes at once will often create a special cake with powerful clearing abilities. For example, a striped cake might clear a whole row or column.
-3.  [ZH TRANSLATION NEEDED] **Combine Special Cakes:** For even bigger effects, try to swap two special cakes with each other.
-4.  [ZH TRANSLATION NEEDED] **Focus on the Objective:** Pay attention to the level's goal. Sometimes you need to focus on clearing specific tiles or reaching a score target within a limited number of moves.
+每个关卡都有自己的任务目标，例如在限定步数内达到指定分数、清除若干指定口味的蛋糕、或打碎覆盖在格子上的特殊障碍等。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-*   **Mouse/Touch:** Use the mouse or touch screen to click and drag or tap on adjacent cakes to swap them.
+1.  **优先寻找三连以上的潜在交换**  
+    在行动前先扫描棋盘，寻找至少能形成三连的交换位置。如果能一眼看到四连甚至五连的机会，要优先考虑，这往往能制造特殊蛋糕。
 
-### Frequently Asked Questions (FAQ)
+2.  **善用“特殊蛋糕”清理难点区域**  
+    一次性消除 4 个或 5 个蛋糕通常会生成带条纹、炸弹或彩虹等特殊蛋糕：  
+    - 条纹蛋糕可清除整行或整列；  
+    - 炸弹类可以清除周围大范围区域；  
+    - 彩虹类则能消除全盘同色蛋糕。  
+    合理利用这些特殊蛋糕，是通关高难度关卡的关键。
 
-*   **Q: What do the special cakes do?**
-     *   **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-*   **Q: How do I beat difficult levels?**
-     *   **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
+3.  **尝试让两个特殊蛋糕互相组合**  
+    将两个特殊蛋糕互相交换，往往会触发远超单个特效的超级清屏，例如双炸弹组合或条纹 + 炸弹组合，都可以一次性清除大半个棋盘。
 
+4.  **时刻围绕关卡目标来规划**  
+    有的关卡重点是清除某种蛋糕，有的则是打碎底层冰块或巧克力。每一步行动都要问自己：“这步对目标有帮助吗？”避免在无关区域浪费太多步数。
+
+### 操作指南
+
+*   **鼠标 / 触控操作：** 用鼠标或手指点击并拖动一个蛋糕，与相邻蛋糕交换位置；如果交换后无法形成三连，操作会被取消。  
+
+### 常见问题解答（FAQ）
+*   **问：特殊蛋糕都有什么效果？****
+    *   答：** 特殊蛋糕通常由 4 连或 5 连生成，它们可以清除整行整列、大片区域或某种颜色的所有蛋糕。不同图标对应不同效果，可以在游戏中逐一尝试熟悉。
+*   **问：遇到卡关关卡怎么办？****
+    *   答：** 尝试减少“无效三连”，多专注于制造和组合特殊蛋糕，同时优先处理关卡目标区域。部分模式还提供道具或提示，可在关键时刻使用。

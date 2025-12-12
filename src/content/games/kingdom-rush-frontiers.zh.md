@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: kingdom-rush-frontiers
-title: '[ZH TRANSLATION NEEDED] Kingdom Rush Frontiers'
+title: 《Kingdom Rush Frontiers》王国保卫战：前线
 description: >-
-  [ZH TRANSLATION NEEDED] Tower defense sequel: build and upgrade towers, deploy
-  reinforcements and heroes, and counter enemy types with smart placement.
+  《Kingdom Rush Frontiers》是经典塔防《Kingdom
+  Rush》系列的续作，你要在沙漠、丛林等新战场上建造与进化防御塔，调度援军与英雄，用巧妙布局和针对性克制挡住敌军。
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/kingdom-rush-frontiers.jpg
 tags:
@@ -16,27 +16,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Frontiers refines the Kingdom Rush formula with new biomes, enemy abilities, and tower specializations. Place archer, barracks, mage, and artillery towers, then branch them into unique specials. Call reinforcements, drop meteor‑like specials, and micro your hero to plug leaks while managing armor/magic resist counters.
+### 概览
 
-### How to Play
-- Identify armor types; use mages vs. armored foes, archers/artillery vs. swarms.
-- Position barracks to stall at choke points; support with splash or magic.
-- Save hero skills and nukes for elite waves or flying rushes.
+《Kingdom Rush Frontiers》在原作基础上加入了新的地形、生物和塔分支体系。你依旧可以建造弓箭塔、兵营、魔法塔和炮塔，并在高阶阶段将它们进化为各具特色的高级塔型；同时合理召唤援军、释放陨石等大招，并通过灵活操作英雄来堵住防线缺口，在物理护甲/魔法抗性等不同属性之间找到针对性克制方案。 
 
-### Controls
-- Mouse/touch to build, upgrade, and cast; hotkeys vary by host.
+### 游戏玩法
 
-### Tips
-- Don’t overbuild early—upgrade key towers for efficient damage.
-- Split splash and single‑target to handle mixed waves.
-- Scout flying paths; add anti‑air where needed.
+- 根据敌人护甲类型选择对应塔线：对重甲单位多用法师塔，对数量庞大的轻甲兵群则以弓箭与炮塔为主。  
+- 利用兵营在关键 chokepoint（瓶颈点）拉起前线，拖住敌军脚步，再在周围布置溅射或高输出塔集中火力。  
+- 将英雄和大招（如陨石、召唤）保留给精英波次或飞行单位冲线时使用，而不是在小波次上过度消耗。  
 
-### FAQ
-- Q: Which tower upgrades should I prioritize?  
-[ZH TRANSLATION NEEDED]   A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
-- Q: How do I counter heavy armor waves?  
-[ZH TRANSLATION NEEDED]   A: Invest in mage lines and armor‑shredding skills.
-- Q: Are heroes necessary to win?  
-[ZH TRANSLATION NEEDED]   A: Not required but very helpful for stalling and finishing elites.
+### 操作说明
 
+- 使用鼠标或触屏在地图指定位置建造、升级和出售防御塔；通过界面按钮释放技能、调度援军和操作英雄。  
+- 各平台可能提供热键支持，以加快建塔与升级操作节奏。  
+
+### 实用技巧
+
+- 不要在前几波就到处铺满一级塔，相比之下，把位置好的几座核心塔升到 3 / 4 级往往更划算。  
+- 在主要 choke 附近同时布置溅射伤害与单体高伤塔，以便兼顾兵海与精英单位。  
+- 事先观察飞行单位的行进路线，在路线上布置专门的对空火力点，避免被突然飞过头顶。  
+
+### 常见问题（FAQ）
+
+*   **Q: 开局应该优先升级哪一类塔？**  
+
+A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
+- **A:** 大多数情况下，在主战路口附近重点培养一到两座核心塔（例如高阶弓塔或魔塔），比在全图分散建塔更有效率。  
+
+
+A: Invest in mage lines and armor‑shredding skills.
+*   **Q: 面对重甲敌人总是打不动怎么办？**  
+
+A: Not required but very helpful for stalling and finishing elites.
+    *   **A:** 适当减少物理塔，增加魔法塔线，或者选择带有破甲效果的技能与塔进化路线，通过削减护甲来放大整体输出。  
+
+*   **Q: 英雄是不是必需的？**  
+    *   **A:** 往往不是绝对必要，但英雄可以在关键位置灵活走位补漏、拖住精英敌人或收掉残血，能显著降低布阵容错成本。

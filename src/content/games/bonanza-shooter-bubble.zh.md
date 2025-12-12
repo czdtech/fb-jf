@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: bonanza-shooter-bubble
-title: '[ZH TRANSLATION NEEDED] Bonanza Shooter Bubble'
-description: >-
-  [ZH TRANSLATION NEEDED] Bonanza Shooter Bubble is a colorful bubble‑shooter —
-  bank angles, manage colors, and drop big clusters for points.
+title: Bonanza Shooter Bubble 缤纷宝石泡泡龙
+description: 《Bonanza Shooter Bubble》是一款色彩鲜艳的泡泡龙游戏，利用反弹角度和颜色管理打掉成串泡泡，一次性切断“挂 链”获得大面积掉落与高分。
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/bonanza-shooter-bubble.jpg
 tags:
@@ -15,33 +13,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Bonanza Shooter Bubble is a classic bubble shooter with generous banking and satisfying drops. Aim and fire to connect three or more of the same color, clearing clusters and causing dangling groups to fall. Success hinges on angle control, color management, and planning for the next bubble.
+*Bonanza Shooter Bubble* 是一款经典的泡泡射击（泡泡龙）游戏，拥有宽松的反弹判定和爽快的成片掉落感。你需要从屏幕下方发射彩色泡泡，与上方的泡泡区域连接成 **三个或以上同色泡泡** 的组合，即可消除这一簇，还可以让依附在其下的整串“挂链”一并坠落。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Bank shots: Use side‑wall bounces to reach tucked clusters.
-2.  [ZH TRANSLATION NEEDED] Cut anchors: Remove the single connecting bubble to drop an entire hanging group.
-3.  [ZH TRANSLATION NEEDED] Color economy: Avoid burying rare colors; prioritize shots that unlock multiple paths.
-4.  [ZH TRANSLATION NEEDED] Look‑ahead: If next bubble is shown, pre‑plan two moves to avoid blocking lanes.
-5.  [ZH TRANSLATION NEEDED] Pace control: When the ceiling lowers, favor safe clears over greedy snipes.
+想玩好本作，关键在于：**利用侧墙反弹打到藏在角落的泡泡、合理管理屏幕中的颜色数量，并提前为下一发甚至下几发泡泡做铺垫。**
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Aim with mouse/touch and click/tap to fire; swap bubbles if the mode allows.
-- Pause/Restart via UI.
+1.  **学会用“银行球”（反弹球）打侧面目标**  
+    很多关键位置并不能直接直线射击到，这时要利用侧墙反弹。从角度较大的侧面发射，让泡泡先撞墙再折射到目标区域，是中后期拆局的核心技巧。
 
-### Frequently Asked Questions (FAQ)
+2.  **优先“切断吊点”而非只消一小团**  
+    如果一大串泡泡只通过一个小节点与上方相连，优先瞄准这个节点，打掉之后整串泡泡都会一起掉落，既清屏又高分，比只消一小片更划算。
 
-- Q: I can’t hit a covered cluster—any trick?
-  
-[ZH TRANSLATION NEEDED]   A: Bank off the side wall to approach from a shallower angle.
+3.  **管理好颜色，不要把稀有颜色埋死**  
+    当屏幕上某种颜色只剩少量泡泡时，要避免把它们埋在难以触及的角落，否则当发射器多次给你这种颜色时，你反而无球可消。优先选择那些既能清除当前障碍、又能“回收颜色”的落点。
 
-- Q: Wrong colors keep coming—what should I do?
-  
-[ZH TRANSLATION NEEDED]   A: Trim small groups and set up future collapses; swap bubbles if available.
+4.  **提前看下一颗泡泡（如果有预览）**  
+    若界面上显示下一颗泡泡颜色，务必在落点选择时一并考虑。理想情况是：当前泡泡完成消除后，下一颗泡泡还能立刻接上，避免“堵枪口”。
 
-- Q: Do I need to collect stars?
-  
-[ZH TRANSLATION NEEDED]   A: Stars are optional goals but help unlock extra levels—pursue them when it’s safe.
+5.  **控制整体高度，避免压力线太低**  
+    不要只盯着局部消除，时刻关注泡泡整体下压高度。必要时选择一次清理大面积区域，缓解顶部压力，避免一下子被压到失败线附近。
 
+### 操作指南
+
+-   **瞄准与发射：** 使用鼠标或手指拖动瞄准线，松开即可发射泡泡。  
+-   **反弹判定：** 泡泡碰到侧墙会按入射角反弹，熟练掌握这一点有助于打到被遮挡的团块。  
+-   **辅助提示：** 部分版本会在瞄准线末端显示预估落点，可作为练习参考。  
+
+### 常见问题解答（FAQ）
+*   **问：为什么总觉得打不到想要的位置？****
+    **答：** 建议多练习利用侧墙反弹的“折射打点”。可以在前几关刻意尝试不同角度，找到最习惯的瞄准方式。
+*   **问：是应该先清最近的泡泡，还是优先打高处？****
+    **答：** 通常更推荐优先打高处、尤其是那些承担“悬挂点”的关键泡泡。把高处拆开，会顺带清掉大量下方泡泡，整体压力也会减少。
+*   **问：怎样才能获得更高分数？****
+    **答：** 大量“整串掉落”和连续消除是加分关键。多寻找可以一箭双雕甚至“一箭多雕”的落点，而不是每次只清除很小的一团。

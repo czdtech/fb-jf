@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: minesweeper-2
-title: '[FR] Minesweeper'
+title: Minesweeper
 description: >-
-  [FR] The timeless classic logic puzzle. Use the number clues to deduce the
-  location of all the hidden mines and clear the board without setting one off!
+  La version classique et intemporelle du démineur : utilise les nombres comme
+  indices pour localiser toutes les mines cachées et vider la grille sans en
+  faire exploser une seule.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/minesweeper-2.jpg
 tags:
@@ -12,38 +13,41 @@ tags:
   - thinky
   - casual
 score: 4.7/5  (3500 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Minesweeper est un puzzle de logique solo culte, présent sur les ordinateurs depuis des décennies. Ton objectif est de vider une grille rectangulaire remplie de mines cachées sans en déclencher aucune. Pour y parvenir, tu t’appuies sur les nombres révélés : chaque case numérotée indique combien de mines se trouvent dans les huit cases adjacentes. Le jeu repose entièrement sur la déduction et la gestion du risque.
 
+### Stratégies de jeu et progression
 
+1.  **Premier clic :** le premier clic est toujours sûr. S’il tombe sur une zone sans mines adjacentes, une grande portion de la grille s’ouvre, ce qui est un excellent départ.
+2.  **Comprendre les nombres :** un nombre indique exactement combien de mines se trouvent autour de la case, dans les huit directions. Toute ta logique va consister à combiner ces informations entre elles.
+3.  **Motifs simples (1‑2‑1, 1‑1, etc.) :** repère les motifs classiques comme 1‑2‑1 en ligne, qui garantissent souvent quelles cases sont des mines et lesquelles sont sûres.
+4.  **Placer des drapeaux :** lorsque tu es certain qu’une case contient une mine, clique droit pour la marquer. Cela évite de cliquer dessus par erreur et clarifie les motifs autour.
+5.  **Clic « chord » :** si une case numérotée est entourée du bon nombre de drapeaux, cliquer dessus (souvent clic du milieu ou clic gauche + droit) révèle automatiquement toutes les autres cases adjacentes encore couvertes. C’est un outil puissant… à condition que tes drapeaux soient corrects.
 
-### Detailed Game Introduction
+### Commandes
 
-Minesweeper is a classic single-player logic puzzle that has been a staple of personal computing for decades. The objective is to clear a rectangular grid containing hidden "mines" or bombs without detonating any of them. To do this, you use clues from revealed squares that tell you how many mines are in the adjacent eight squares. It's a game of pure deduction and careful risk assessment.
+- **Révéler une case :** clic gauche sur une case couverte.  
+- **Poser un drapeau :** clic droit pour marquer une mine présumée, clic droit à nouveau pour retirer le drapeau.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** **The First Click:** Your first click is always safe. If you click a square that has no adjacent mines, it will open a large area, which is a great start.
-2.  **[FR]** **Understanding the Numbers:** The number on a revealed square tells you exactly how many mines are in the eight squares touching it (horizontally, vertically, and diagonally). This is the only information you have to work with.
-3.  **[FR]** **The 1-2-1 Pattern:** A common and easy pattern to spot. If you see a "1-2-1" in a line, you know for certain that the squares next to the '1's are mines, and the square next to the '2' (on the other side) is safe.
-4.  **[FR]** **Flag Your Mines:** When you are 100% certain a square contains a mine, right-click to "flag" it. This prevents you from accidentally clicking on it later and helps you keep track of where the dangers are.
-5.  **[FR]** **Chord-Clicking:** If a numbered square already has the correct number of flags touching it, you can click on the number itself (or often middle-click/left+right click) to automatically reveal all its other adjacent, un-flagged squares. This is a fast way to clear the board but be careful—if your flags are wrong, you will detonate a mine!
+- **Q : Que signifient exactement les nombres ?**  
+  **R :** Un nombre indique le nombre précis de mines cachées dans les huit cases autour (horizontalement, verticalement et en diagonale).
 
-### Controls Guide
+    - **Q : Que se passe‑t‑il si je clique sur une mine ?**  
+  **R :** La partie se termine immédiatement et toutes les mines sont révélées.
 
-*   **[FR]** **Reveal a Square:** Left-click on a covered square.
-*   **[FR]** **Flag a Square:** Right-click on a covered square to place a flag. Right-click again to remove it.
+- **Q : Suis‑je obligé d’utiliser des drapeaux pour gagner ?**  
 
-### Frequently Asked Questions (FAQ)
+    - **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
 
-*   **[FR]** **Q: What do the numbers on the squares mean?**
-    *   **[FR]** **A:** A number indicates the exact count of mines in the eight squares immediately surrounding it.
+- **Q: Do I have to place flags to win?**
 
-*   **[FR]** **Q: What happens if I click on a mine?**
-    *   **[FR]** **A:** The game ends instantly, and all the mine locations are revealed.
-
-*   **[FR]** **Q: Do I have to place flags to win?**
-    *   **[FR]** **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
+    - **A:** The game ends instantly, and all the mine locations are revealed.
+  **R :** Non, les drapeaux sont juste une aide visuelle. Tu gagnes en révélant toutes les cases sûres, même si tu n’as pas marqué toutes les mines.
 

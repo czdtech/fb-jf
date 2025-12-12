@@ -1,173 +1,69 @@
 ---
+title: "Clicker Heroes"
+description: "Clicker Heroesの究極ガイド。このクセになる放置/クリッカーゲームのコアゲームプレイ、アセンション(昇天)とエンシェント(古代者)のエキスパート戦略、操作方法、よくある質問への回答を学びましょう。"
+iframeSrc: "https://cdn.clickerheroes.com/gamebuild/"
+thumbnail: "/new-images/clicker-heroes.jpg"
+urlstr: "clicker-heroes"
+score: "3.9/5  (457 votes)"
+tags: ["clicker", "casual"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: clicker-heroes
-title: '[JA TRANSLATION NEEDED] Clicker Heroes'
-description: >-
-  [JA TRANSLATION NEEDED] The ultimate guide to Clicker Heroes. Learn the core
-  gameplay, expert strategies for Ascension and Ancients, controls, and answers
-  to common questions for this addictive idle/clicker game.
-iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
-thumbnail: /new-images/clicker-heroes.jpg
-tags:
-  - clicker
-  - casual
-score: 3.9/5  (457 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### **ゲーム紹介**
 
+Clicker Heroesは、典型的な「放置」または「インクリメンタル」ゲームで、主な目標はモンスターを倒すことで事実上無限の数のレベルを進むことです。ゲームは、プレイヤーがモンスターを積極的にクリックしてダメージを与え、ゴールドを獲得することから始まります。このゴールドは、自動的にモンスターを攻撃し、DPS（Damage Per Second: 秒間ダメージ）を生成するヒーローを雇うために使用されます。
 
+より多くのヒーローを購入してレベルアップすると、DPSが指数関数的に成長し、モンスターをより速く倒し、さらに多くのゴールドを獲得できます。コアゲームプレイループには、ヒーローのアップグレード管理、キャラクタースキルの使用、「アセンション(昇天)」として知られる重要なリセットを行うタイミングの決定が含まれます。このメカニクスにより、レベル1から再開できますが、将来のすべてのランを劇的に加速する強力な永続ボーナス（ヒーローソウルとエンシェント）が得られます。究極の目標は、どこまで進めるか、どれだけ強力になれるかを見ることです。
 
-### **Game Introduction**
+### **ゲームプレイ戦略とヒント**
 
-[JA TRANSLATION NEEDED] Clicker Heroes is a quintessential "idle" or "incremental" game where the primary goal is to progress through an effectively infinite number of levels by defeating monsters. The game starts with the player actively clicking on a monster to deal damage and earn gold. This gold is then used to hire heroes who automatically attack monsters, generating Damage Per Second (DPS).
+Clicker Heroesの戦略は、プレイするにつれて進化します。
 
-[JA TRANSLATION NEEDED] As you purchase and level up more heroes, your DPS grows exponentially, allowing you to defeat monsters faster and earn even more gold. The core gameplay loop involves managing your hero upgrades, using character skills, and deciding when to perform a crucial reset known as "Ascension." This mechanic allows you to restart from level 1 but with powerful permanent bonuses (Hero Souls and Ancients) that drastically accelerate all future runs. The ultimate objective is to see how far you can progress and how powerful you can become.
-The game is primarily mouse-driven, but keyboard shortcuts are essential for efficiency.（日本語訳が必要）
+**1. 最初のラン（アセンション前）:**
+*   **初期フェーズ**: モンスターをクリックして最初のゴールドを獲得します。余裕ができたらすぐに最初のヒーローを雇いましょう。
+*   **DPSに集中**: 最もコスト効率の高いヒーローを継続的にレベルアップします。良い経験則は、最大のDPSブーストを与える最も安いヒーローをアップグレードすることです。
+*   **ヒーロースキルをアンロック**: ヒーローをレベル10、25、50、75などにレベルアップすると、多くの場合、自身のダメージまたはすべてのヒーローのダメージをブーストする重要なスキルがアンロックされます。次のヒーローに移る前に、各ヒーローのすべてのスキルをアンロックすることを目指しましょう。
+*   **限界を押し上げる**: ボス（5レベルごと）を倒すのが30秒のタイマー内で非常に遅くなるか不可能になるまで進み続けましょう。プレイヤースキル（クリックストーム、パワーサージなど）を使用して、難しいボスを突破するのを助けましょう。
+*   **最初にアセンドするタイミング**: 一般的な推奨は、レベル139を倒し、ヒーローのAmenhotepをレベル150にして「アセンション」スキルをアンロックした後、初めてアセンドすることです。これにより約7~10のヒーローソウルが付与されるはずです。
 
-    - **A**: Progress to the next level (or toggle auto-progression).（日本語訳が必要）
-- **The Golden Rule of Ancients**: Use an "Ancients Calculator" (you can find them online). These tools will tell you the most efficient way to spend your Hero Souls to level up your Ancients for maximum progress.（日本語訳が必要）
-### **Gameplay Strategy & Tips**
+**2. アセンション後の戦略（本当のゲームが始まる）:**
+*   **ヒーローソウル(HS)を理解する**: これは最も重要な通貨です。所有する各ヒーローソウルは、総DPSに+10%のボーナスを提供します。**すぐにすべてを使わないでください。**
+*   **エンシェント(古代者)**: これらは永続的でゲームを変えるボーナスを提供する強力な存在です。ヒーローソウルを使用してそれらを購入し、レベルアップします。エンシェントの選択がプレイスタイルを定義します。
+*   **プレイスタイルを選ぶ - 放置 vs アクティブ**:
+    *   **放置**: このビルドは、ゲームをバックグラウンドで実行させることに焦点を当てています。ヒーローがすべての作業を行います。開始の主要なエンシェントは**Siyalatas**（放置DPSボーナス）と**Libertas**（放置ゴールドボーナス）です。初心者には強くお勧めします。
+    *   **アクティブ**: このビルドは、アクティブなクリックとスキル使用に焦点を当てています。開始の主要なエンシェントは**Fragsworth**（クリックダメージボーナス）と**Bhaal**（クリティカルクリックダメージボーナス）です。
+*   **エンシェントの黄金律**: 「エンシェント計算機」を使用します（オンラインで見つけることができます）。これらのツールは、最大の進行のためにエンシェントをレベルアップするためにヒーローソウルを費やす最も効率的な方法を教えてくれます。
+*   **ギルド(称号)**: レベル100以降、ギルドの受け取りを開始します。これはランダムなヒーローに割り当てられるダメージ倍率です。序盤は、すべてのギルドを1人の強力で効率的なヒーロー（進行するにつれて、The Masked Samurai、Atlas、Terraなど）に統合するのが最善です。これにより、パワーが劇的に集中します。
+*   **効率的なアセンション**: ゲームのコアは、比較的素早い多くのアセンションを実行することです。ランを行い、素早く限界まで押し上げ、ヒーローソウルを集めるためにアセンドし、エンシェントに再投資し、繰り返します。進行が停滞した場合、単一のランに何日も費やさないでください。
 
-[JA TRANSLATION NEEDED] The strategy for Clicker Heroes evolves as you play.
+### **操作ガイド**
 
-[JA TRANSLATION NEEDED] **1. The First Run (Before Ascending):**
-**1. When should I ascend?**（日本語訳が必要）
-*   **Initial Phase**: Click the monster to earn your first bits of gold. Hire your first few heroes as soon as you can afford them.
-    - **Z + Click**: レベル up a hero 25 times.
-    - **CTRL + Click**: レベル up a hero 100 times.
-    - **Q + Click**: レベル up a hero to the maximum affordable amount.
-    - **A**: Progress to the next level (or toggle auto-progression).（日本語訳が必要）
-### **Frequently Asked Questions (よくある質問)**
-- **Gilds**: After level 100, you will start receiving Gilds, which are damage multipliers assigned to random heroes. Early on, it's best to consolidate all your Gilds onto one powerful and efficient hero (like The Masked Samurai, Atlas, or Terra as you progress). This focuses your power dramatically.（日本語訳が必要）
-- **Efficient Ascensions**: The core of the game is to perform many relatively quick ascensions. Do a run, push as far as you can quickly, ascend to collect Hero Souls, reinvest in Ancients, and repeat. Don't spend days on a single run if progress has stalled.（日本語訳が必要）
-- **マウス Click**: Click on the monster to deal damage. Click on buttons to hire/level up heroes and activate skills.
-### **コントロール Guide**
-- **Number Keys (1-9)**: Activate your player skills.（日本語訳が必要）
-- **Hero レベルing Shortcuts**:
-    - **Active**: This build focuses on active clicking and skill usage. The key starting Ancients are **Fragsworth** (Bonus Click Damage) and **Bhaal** (Bonus Critical Click Damage).（日本語訳が必要）
-    - **Idle**: This build focuses on letting the game run in the background. Your heroes do all the work. The key starting Ancients are **Siyalatas** (Bonus Idle DPS) and **Libertas** (Bonus Idle Gold). This is highly recommended for beginners.（日本語訳が必要）
-    - **SHIFT + Click**: レベル up a hero 10 times.
-*   **Focus on DPS**: Continuously level up the most cost-effective hero. A good rule of thumb is to upgrade the cheapest hero that gives you the biggest DPS boost.
-*   **Unlock Hero Skills**: Leveling heroes to levels 10, 25, 50, 75, etc., unlocks crucial skills that often boost their own damage or the damage of all your heroes. Aim to unlock all skills for each hero before moving to the next.
-*   **Pushing Your Limit**: Keep progressing until defeating a boss (every 5th level) becomes very slow or impossible within the 30-second timer. Use your player skills (like Clickstorm, Powersurge) to help push past difficult bosses.
-*   **When to Ascend First**: A common recommendation is to ascend for the first time after beating level 139 and leveling your hero Amenhotep to 150 to unlock the "Ascension" skill. This should grant you around 7-10 Hero Souls.
+ゲームは主にマウス駆動ですが、効率にはキーボードショートカットが不可欠です。
 
-[JA TRANSLATION NEEDED] **2. Post-Ascension Strategy (The Real Game Begins):**
-*   **Understand Hero Souls (HS)**: This is the most important currency. Each Hero Soul you possess provides a +10% bonus to your total DPS. **Do not spend them all immediately.**
-*   **Ancients**: These are powerful beings that provide permanent, game-changing bonuses. You purchase and level them up using Hero Souls. Your choice of Ancients defines your playstyle.
-*   **Choose a Playstyle - Idle vs. Active**:
-[JA TRANSLATION NEEDED]     *   **Idle**: This build focuses on letting the game run in the background. Your heroes do all the work. The key starting Ancients are **Siyalatas** (Bonus Idle DPS) and **Libertas** (Bonus Idle Gold). This is highly recommended for beginners.
-[JA TRANSLATION NEEDED]     *   **Active**: This build focuses on active clicking and skill usage. The key starting Ancients are **Fragsworth** (Bonus Click Damage) and **Bhaal** (Bonus Critical Click Damage).
-*   **The Golden Rule of Ancients**: Use an "Ancients Calculator" (you can find them online). These tools will tell you the most efficient way to spend your Hero Souls to level up your Ancients for maximum progress.
-*   **Gilds**: After level 100, you will start receiving Gilds, which are damage multipliers assigned to random heroes. Early on, it's best to consolidate all your Gilds onto one powerful and efficient hero (like The Masked Samurai, Atlas, or Terra as you progress). This focuses your power dramatically.
-*   **Efficient Ascensions**: The core of the game is to perform many relatively quick ascensions. Do a run, push as far as you can quickly, ascend to collect Hero Souls, reinvest in Ancients, and repeat. Don't spend days on a single run if progress has stalled.
+*   **マウスクリック**: モンスターをクリックしてダメージを与えます。ボタンをクリックしてヒーローを雇う/レベルアップし、スキルを有効化します。
+*   **数字キー(1-9)**: プレイヤースキルを有効化します。
+*   **ヒーローレベルアップショートカット**:
+    *   **SHIFT + クリック**: ヒーローを10回レベルアップします。
+    *   **Z + クリック**: ヒーローを25回レベルアップします。
+    *   **CTRL + クリック**: ヒーローを100回レベルアップします。
+    *   **Q + クリック**: ヒーローを購入可能な最大量までレベルアップします。
+    *   **A**: 次のレベルに進む（または自動進行を切り替える）。
 
-### **Controls Guide**
+### **よくある質問 (FAQ)**
 
-[JA TRANSLATION NEEDED] The game is primarily mouse-driven, but keyboard shortcuts are essential for efficiency.
+**1. いつアセンドすべきですか？**
+最初のランでは、レベル140を目指してヒーローソウルを少し獲得しましょう。その後、進行が著しく遅くなったらいつでもアセンドします。良いランは、中盤のゲームでは30分から60分程度続くかもしれません。鍵はスピードと効率です。
 
-*   **Mouse Click**: Click on the monster to deal damage. Click on buttons to hire/level up heroes and activate skills.
-*   **Number Keys (1-9)**: Activate your player skills.
-*   **Hero Leveling Shortcuts**:
-[JA TRANSLATION NEEDED]     *   **SHIFT + Click**: Level up a hero 10 times.
-[JA TRANSLATION NEEDED]     *   **Z + Click**: Level up a hero 25 times.
-[JA TRANSLATION NEEDED]     *   **CTRL + Click**: Level up a hero 100 times.
-[JA TRANSLATION NEEDED]     *   **Q + Click**: Level up a hero to the maximum affordable amount.
-[JA TRANSLATION NEEDED]     *   **A**: Progress to the next level (or toggle auto-progression).
+**2. ヒーローソウルとは何で、それらをどうすればいいですか？**
+ヒーローソウル(HS)は、プライマルボス（レベル100、110、120などのボス）を倒し、ヒーローをレベルアップすることで獲得される永続的な通貨です。それぞれが受動的な+10% DPSボーナスを与えます。主な用途は、エンシェントを召喚してレベルアップすることです。
 
-### **Frequently Asked Questions (FAQ)**
+**3. 放置、アクティブ、またはハイブリッドビルドでプレイすべきですか？**
+初心者には、**放置**ビルドを強くお勧めします。管理が簡単で、着実な進行に非常に強力です。ヒーローソウルの大きな銀行があるゲーム後半で、アクティブまたはハイブリッドビルドに切り替えることができます。
 
-[JA TRANSLATION NEEDED] **1. When should I ascend?**
-[JA TRANSLATION NEEDED] For your very first run, aim for level 140 to get a handful of Hero Souls. After that, ascend whenever your progress slows down significantly. A good run might last anywhere from 30 to 60 minutes in the mid-game. The key is speed and efficiency.
+**4. すべてのギルドがランダムで弱いヒーローにあります。どうすればいいですか？**
+中盤のゲームでは、ヒーローソウルを費やして、ヒーローから「ギルドを外し」、そのギルドを別のランダムなヒーローに移動できます。目標は、ダメージ出力を最大化するために、すべてのギルドを1人の単一で強力なヒーローに統合することです。このプロセスは「再ギルド化」と呼ばれます。
 
-[JA TRANSLATION NEEDED] **2. What are Hero Souls and what do I do with them?**
-[JA TRANSLATION NEEDED] Hero Souls (HS) are a permanent currency earned by defeating Primal Bosses (bosses on levels 100, 110, 120, etc.) and by leveling up heroes. Each one gives a passive +10% DPS bonus. Their primary use is to summon and level up Ancients.
-
-[JA TRANSLATION NEEDED] **3. Should I play an Idle, Active, or Hybrid build?**
-[JA TRANSLATION NEEDED] For beginners, an **Idle** build is strongly recommended. It is simpler to manage and very powerful for making steady progress. You can switch to an Active or Hybrid build later in the game when you have a large bank of Hero Souls.
-
-[JA TRANSLATION NEEDED] **4. All my Gilds are on random, weak heroes. What should I do?**
-[JA TRANSLATION NEEDED] In the mid-game, you can spend Hero Souls to "de-gild" a hero and move that gild to another random hero. The goal is to consolidate all your Gilds onto one single, powerful hero to maximize your damage output. This process is called "re-gilding."
-
-[JA TRANSLATION NEEDED] **5. Is there an end to the game?**
-[JA TRANSLATION NEEDED] No, Clicker Heroes is designed to be an endless game. The levels and the amount of gold and damage required scale infinitely. The goal is personal progression and reaching ever-higher zones.
-
-
-    - **Z + Click**: レベル up a hero 25 times.
-    - **CTRL + Click**: レベル up a hero 100 times.
-
-
-
-
-### **コントロール Guide**
-- **Efficient Ascensions**: The core of the game is to perform many relatively quick ascensions. Do a run, push as far as you can quickly, ascend to collect Hero Souls, reinvest in Ancients, and repeat. Don't spend days on a single run if progress has stalled.
-- **Gilds**: After level 100, you will start receiving Gilds, which are damage multipliers assigned to random heroes. Early on, it's best to consolidate all your Gilds onto one powerful and efficient hero (like The Masked Samurai, Atlas, or Terra as you progress). This focuses your power dramatically.
-- **The Golden Rule of Ancients**: Use an "Ancients Calculator" (you can find them online). These tools will tell you the most efficient way to spend your Hero Souls to level up your Ancients for maximum progress.
-    - **Q + Click**: レベル up a hero to the maximum affordable amount.
-For your very first run, aim for level 140 to get a handful of Hero Souls. After that, ascend whenever your progress slows down significantly. A good run might last anywhere from 30 to 60 minutes in the mid-game. The key is speed and efficiency.（日本語訳が必要）
-
-
-
-
-
-
-
-
-
-### **Frequently Asked Questions (よくある質問)**
-    - **A**: Progress to the next level (or toggle auto-progression).
-    - **Q + Click**: Level up a hero to the maximum affordable amount.
-    - **CTRL + Click**: Level up a hero 100 times.
-    - **Z + Click**: Level up a hero 25 times.
-    - **SHIFT + Click**: Level up a hero 10 times.
-- **Hero Leveling Shortcuts**:
-- **Number Keys (1-9)**: Activate your player skills.
-- **Mouse Click**: Click on the monster to deal damage. Click on buttons to hire/level up heroes and activate skills.
-**2. What are Hero Souls and what do I do with them?**（日本語訳が必要）
-
-
-
-
-
-
-
-
-
-### **Frequently Asked Questions (よくある質問)**
-    - **A**: Progress to the next level (or toggle auto-progression).
-    - **Q + Click**: Level up a hero to the maximum affordable amount.
-    - **CTRL + Click**: Level up a hero 100 times.
-    - **Z + Click**: Level up a hero 25 times.
-    - **SHIFT + Click**: Level up a hero 10 times.
-- **Hero Leveling Shortcuts**:
-- **Number Keys (1-9)**: Activate your player skills.
-- **Mouse Click**: Click on the monster to deal damage. Click on buttons to hire/level up heroes and activate skills.
-
-
-
-
-
-
-### **Frequently Asked Questions (よくある質問)**
-    - **A**: Progress to the next level (or toggle auto-progression).
-    - **Q + Click**: Level up a hero to the maximum affordable amount.
-    - **CTRL + Click**: Level up a hero 100 times.
-    - **Z + Click**: Level up a hero 25 times.
-    - **SHIFT + Click**: Level up a hero 10 times.
-
-### **Frequently Asked Questions (よくある質問)**
-Hero Souls (HS) are a permanent currency earned by defeating Primal Bosses (bosses on levels 100, 110, 120, etc.) and by leveling up heroes. Each one gives a passive +10% DPS bonus. Their primary use is to summon and level up Ancients.（日本語訳が必要）
-**3. Should I play an Idle, Active, or Hybrid build?**（日本語訳が必要）
-For beginners, an **Idle** build is strongly recommended. It is simpler to manage and very powerful for making steady progress. You can switch to an Active or Hybrid build later in the game when you have a large bank of Hero Souls.（日本語訳が必要）
-**4. All my Gilds are on random, weak heroes. What should I do?**（日本語訳が必要）
-In the mid-game, you can spend Hero Souls to "de-gild" a hero and move that gild to another random hero. The goal is to consolidate all your Gilds onto one single, powerful hero to maximize your damage output. This process is called "re-gilding."（日本語訳が必要）
-**5. Is there an end to the game?**（日本語訳が必要）
-No, Clicker Heroes is designed to be an endless game. The levels and the amount of gold and damage required scale infinitely. The goal is personal progression and reaching ever-higher zones.（日本語訳が必要）
-
-
-No, Clicker Heroes is designed to be an endless game. The levels and the amount of gold and damage required scale infinitely. The goal is personal progression and reaching ever-higher zones.
-**5. Is there an end to the game?**
-
-
-No, Clicker Heroes is designed to be an endless game. The levels and the amount of gold and damage required scale infinitely. The goal is personal progression and reaching ever-higher zones.
+**5. ゲームに終わりはありますか？**
+いいえ、Clicker Heroesは無限のゲームとして設計されています。レベルと必要なゴールドとダメージの量は無限にスケールします。目標は個人的な進行と、ますます高いゾーンに到達することです。

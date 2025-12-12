@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: quest-bingo
-title: '[KO] Quest Bingo'
+title: Quest Bingo 퀘스트 빙고
 description: >-
-  [KO] Go on a Bingo adventure! Daub your way through exciting levels, complete
-  quests, use powerful boosters, and collect puzzle pieces in this modern twist
-  on the classic game.
+  고전 빙고 규칙에 모험 요소를 더한 게임입니다. 숫자를 찍어 패턴을 완성하고, 스테이지별 퀘스트를 달성하며 퍼즐 조각과 부스터를 수집해
+  보세요.
 iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
 thumbnail: /new-images/quest-bingo.png
 tags:
@@ -18,34 +17,73 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Quest Bingo*는 전통적인 빙고의 재미를 지도형 모험 구조와
+결합한 게임입니다. 단순히 한 판만 하고 끝나는 것이 아니라,
+맵 위의 다양한 스테이지를 돌파하며 차례로 새로운 레벨을
+해금하게 됩니다.
 
-Quest Bingo takes the timeless fun of classic Bingo and transforms it into an exciting adventure. In this game, you don't just play single rounds; you embark on a journey through a map filled with unique levels. As numbers are called, you'll daub your card to form winning patterns. But you'll also complete quests, use powerful boosters, and collect hidden puzzle pieces to unlock beautiful artwork, adding a layer of progression and discovery to the familiar gameplay.
+숫자가 호출될 때마다 자신의 카드에서 해당 숫자를 찾아 표시하며,
+직선, 네 모서리, 특수 모양 등 스테이지마다 요구되는 패턴을
+완성해야 합니다. 여기에 더해 **특정 미션(퀘스트)**을 달성하고,
+숨겨진 퍼즐 조각을 모아 일러스트를 완성하는 등 수집 요소까지
+즐길 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Bingo Basics:** The core gameplay is classic Bingo. A number is called, and if you have it on your card, you daub it. The goal is to complete a required pattern (like a straight line, four corners, or a specific shape) on your card.
-2.  **[KO]** **Pay Attention to Quests:** Each level has a specific goal, such as "Get two Bingos" or "Collect 3 puzzle pieces." Focus on achieving this quest to pass the level and advance on the map.
-3.  **[KO]** **Use Boosters Strategically:** As you play, you will charge up powerful boosters. These can give you a significant advantage, such as a free daub on any number, extra coins, or an instant Bingo. Save them for when you really need them to clinch a win.
-4.  **[KO]** **Collect Everything:** Keep an eye out for special numbers that may have puzzle pieces or other collectibles attached. Daubing these numbers is key to completing your collections and earning extra rewards.
+1. **빙고 기본 규칙 이해하기**  
+   숫자가 호출되면, 카드에 같은 숫자가 있는지 확인하고 있다면
+   즉시 표시(daub)합니다. 스테이지마다 요구하는 패턴이 다르므로,
+   단순 가로줄뿐 아니라 대각선, 네 모서리, 특정 모양 등 목표
+   패턴을 먼저 확인해 두세요.
 
-### Controls Guide
+2. **레벨별 퀘스트에 집중하기**  
+   "빙고 2번 만들기", "퍼즐 조각 3개 모으기"처럼 각 레벨에는
+   고유한 목표가 있습니다. 단순히 아무 빙고나 만드는 것보다,
+   퀘스트 조건을 만족시키는 쪽으로 숫자를 선택하고 패턴을
+   구성해야 다음 구역으로 진출할 수 있습니다.
 
-The game is played with simple clicks or taps.
+3. **부스터는 결정적인 순간에 사용하기**  
+   플레이 중에는 특정 숫자를 찍으면 게이지가 차거나, 보상으로
+   강력한 부스터를 얻을 수 있습니다. 아무 때나 쓰기보다는,
+   승부가 애매하거나 마지막 한 칸이 남았을 때 사용하는 편이
+   효율적입니다.
 
-*   **[KO]** **Daub Number:** When a number is called that appears on your card, click on that number to daub it.
-*   **[KO]** **Call Bingo:** When you have completed a winning pattern, click the "Bingo" button to claim your win.
-*   **[KO]** **Activate Boosters:** Click on the charged booster icons (usually at the bottom of the screen) to use them.
+4. **퍼즐 조각이 붙은 숫자 우선 체크**  
+   일부 숫자에는 퍼즐 조각이나 특별 보상이 함께 표시됩니다.
+   이런 숫자를 우선적으로 찍어 두면, 컬렉션을 완성해 추가
+   보상을 얻는 데 큰 도움이 됩니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: What does it mean to "daub" a number?**
-    *   **[KO]** **A:** "Daubing" is the traditional term in Bingo for marking a number on your card after it has been called.
+게임은 간단한 클릭/탭으로 플레이합니다.
 
-*   **[KO]** **Q: What are the puzzle pieces for?**
-    *   **[KO]** **A:** Puzzle pieces are collectibles. When you collect all the pieces of a specific puzzle, you will typically unlock a beautiful picture and receive a bonus reward.
+- **숫자 표시(다브)**: 호출된 숫자가 카드에 보이면 해당 칸을
+  클릭/탭해 표시합니다.  
+- **빙고 선언**: 요구 패턴을 모두 채웠다면 "Bingo" 버튼을 눌러
+  승리를 선언합니다.  
+- **부스터 사용**: 화면 하단 등에 표시된 충전된 부스터 아이콘을
+  클릭해 원하는 타이밍에 발동합니다.
 
-*   **[KO]** **Q: How do I get more boosters?**
-    *   **[KO]** **A:** Boosters are usually earned by daubing special numbers, completing levels, or through daily login rewards and bonus wheels.
+### 자주 묻는 질문(FAQ)
 
+- **Q: "다브(daub)"는 무슨 뜻인가요?**  
+  **A:** 빙고에서 호출된 숫자를 카드 위에서 표시하는 행동을 전통적으로
+  "다브"라고 부릅니다. 현실 빙고에서는 잉크 스탬프로 찍는 동작을
+  말하며, 게임에서는 해당 칸을 눌러 체크하는 것을 의미합니다.
+
+    - **Q: 퍼즐 조각은 어디에 쓰이나요?**  
+  **A:** 특정 퍼즐 세트의 조각을 모두 모으면 한 장의 그림이 완성되며,
+  보너스 코인이나 추가 보상을 받는 경우가 많습니다.
+
+- **Q: 부스터는 어떻게 더 많이 얻을 수 있나요?**  
+
+    - **A:** Boosters are usually earned by daubing special numbers, completing levels, or through daily login rewards and bonus wheels.
+
+- **Q: How do I get more boosters?**
+
+    - **A:** Puzzle pieces are collectibles. When you collect all the pieces of a specific puzzle, you will typically unlock a beautiful picture and receive a bonus reward.
+  **A:** 특별 표시가 있는 숫자를 다브하거나, 레벨을 클리어하고
+  데일리 보상·보너스 룰렛 등을 이용하면 부스터를 추가로 획득할
+  수 있습니다.

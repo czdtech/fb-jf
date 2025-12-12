@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: cube-tower
-title: '[ES] Cube Tower'
+title: "Cube Tower"
 description: >-
-  [ES] Protect your Cube Tower from waves of enemies in this exciting tower
-  defense game. Place and upgrade your towers strategically to survive.
+  Protege tu Cube Tower de oleadas de enemigos en este dinámico juego de defensa
+  de torres. Coloca y mejora tus torres con cabeza para sobrevivir.
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/cube-tower.png
 tags:
@@ -16,27 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Cube Tower es un juego de defensa de torres en el que tu misión principal es
+proteger una "Cube Tower" central de sucesivas oleadas de enemigos. Para lograrlo,
+colocas y mejoras distintos tipos de torres defensivas de forma estratégica, de
+modo que cubran los caminos por los que avanzan los invasores.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Cube Tower is a tower defense game where your main objective is to protect a central "Cube Tower" from waves of enemy attacks. To achieve this, you strategically place and upgrade various types of defensive towers.
+1.  **Colocación estratégica:** Piensa bien dónde colocar cada torre para
+    maximizar su alcance y el tiempo que puede disparar a los enemigos que
+    pasan.
+2.  **Adaptarse a los tipos de enemigos:** Hay diferentes tipos de enemigos, a
+    menudo con velocidades, resistencias o habilidades particulares. Descubrir
+    qué combinación de torres y patrones de ataque funciona mejor contra cada
+    oleada es clave.
+3.  **Mejora con criterio:** Prioriza la mejora de las torres que más impacto
+    tienen sobre la oleada actual (por ejemplo, las ubicadas en curvas o zonas
+    de doble paso).
+4.  **Gestión de recursos:** Administra bien la moneda del juego para comprar y
+    mejorar torres. Rejugar niveles es una buena forma de acumular recursos para
+    futuras mejoras si tu versión lo permite.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Strategic Placement:** Carefully consider where to place your towers to maximize their coverage and impact on incoming enemies.
-2.  **[ES]** **Adapt to Enemy Types:** The game features different alien types, and figuring out which combination of towers and attack tactics works best for each is key.
-3.  **[ES]** **Upgrade Wisely:** Prioritize upgrading towers that are most effective against the current wave of enemies.
-4.  **[ES]** **Resource Management:** You'll need to manage your in-game currency to buy and upgrade towers. Replaying levels can help accumulate resources for upgrades.
+*   **Ratón/Pantalla táctil:** Usa el ratón o los gestos táctiles para
+    seleccionar, colocar y mejorar tus torres.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Mouse/Touch:** Use the mouse or touch screen to select, place, and upgrade your towers.
+*   **P: ¿Cuál es la mejor torre del juego?**
+    *   **R:** No existe una sola torre "mejor"; cada tipo es efectivo contra
+        determinados enemigos. Una buena estrategia es mezclar torres para
+        cubrir todos los puntos débiles. Por ejemplo, las torres de cañón son
+        excelentes contra grupos de enemigos, mientras que las torres láser
+        funcionan bien contra objetivos rápidos.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What's the best tower to use?**
-    *   **[ES]** **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
-*   **[ES]** **Q: How do I get a 3-star rating?**
-    *   **[ES]** **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
-
+*   **P: ¿Cómo consigo 3 estrellas al final del nivel?**
+    *   **R:** Las estrellas dependen de cuántas vidas conservas al terminar. Si
+        impides que casi todos los enemigos alcancen tu Cube Tower, obtendrás la
+        puntuación máxima.

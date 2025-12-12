@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: unpark-me
-title: '[KO] Unpark Me'
+title: "Unpark Me 언파크 미"
 description: >-
-  [KO] A classic sliding block puzzle with a parking lot theme. Move the other
-  cars and trucks out of the way to clear a path for the red car to exit the
-  crowded parking lot.
+  복잡하게 얽힌 주차장을 배경으로 한 슬라이딩 퍼즐 게임입니다. 다른 자동차와 트럭을 앞으로 혹은
+  뒤로만 움직여 길을 터 주고, 빨간 차가 출구까지 빠져나가도록 최적의 경로를 찾아보세요.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/unpark-me.png
 tags:
@@ -18,33 +17,47 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Unpark Me는 이른바 "주차난 퍼즐"로 알려진 고전 슬라이딩 블록 퍼즐의 변형입니다. 격자 모양의
+주차장에 다양한 길이의 자동차와 트럭이 가득 차 있고, 플레이어는 이 차량들을 앞뒤로만 움직여
+빨간 차가 출구까지 나갈 수 있는 길을 만들어야 합니다.
 
-### Detailed Game Introduction
+각 스테이지는 작은 미로처럼 구성되어 있어, 단순히 눈앞의 차량만 치우는 것으로는 해결되지 않습니다.
+여러 차량을 순서대로 이동해 "임시 주차 공간"을 만들고, 다시 핵심 방해 차량을 옮기는 식의 계획적인
+이동이 요구됩니다.
 
-Unpark Me is a classic sliding block puzzle game, also known as a "parking jam" puzzle. You are presented with a crowded parking lot grid filled with cars and trucks. Your goal is to strategically slide the other vehicles out of the way to clear a path for the target car (usually the red one) to drive out of the exit. The game is a true test of logic and sequential thinking, challenging you to solve the puzzle in the fewest moves possible.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **가장 먼저 막고 있는 차량 확인하기**: 먼저 빨간 차와 출구 사이를 곧장 가로막고 있는 차량이
+    무엇인지 파악하세요. 이 차량들을 치우는 것이 1차 목표입니다.
+2.  **출구에서 거슬러 올라가 생각하기**: 출구에서부터 역으로 따라 올라가며 "이 차량을 움직이려면
+    어떤 차량을 먼저 치워야 하나"를 단계별로 정리해 보세요. 이렇게 역추적하면 불필요한 이동을
+    줄일 수 있습니다.
+3.  **빈칸(여유 공간) 활용하기**: 퍼즐의 핵심은 남은 빈칸을 얼마나 효율적으로 사용하는가입니다.
+    작은 차들을 빈칸 쪽으로 몰아 넣어 큰 차량이 지나갈 공간을 만드는 등, 임시 주차 구역을 잘
+    설계해야 합니다.
+4.  **최소 이동 수에 도전하기**: 일단 클리어한 뒤에는, 같은 퍼즐을 더 적은 이동 수로 해결해 보는
+    도전을 해 보세요. 몇 수 앞까지 미리 생각하고 움직이면 이동 횟수를 크게 줄일 수 있습니다.
 
-1.  **[KO]** **Identify the Blocker:** First, identify the cars that are directly blocking the red car's path to the exit.
-2.  **[KO]** **Work Backwards:** To move the primary blocking car, you often need to move another car that is blocking *it*. Work backwards from the exit, clearing a path piece by piece.
-3.  **[KO]** **Use Empty Space:** Efficiently using the empty spaces on the board is crucial. You will need to shuffle cars into temporary empty spots to make room to move the ones you really need to clear.
-4.  **[KO]** **Aim for Fewest Moves:** While just solving the puzzle is the main goal, a secondary challenge is to do it in the minimum number of moves. This requires thinking several steps ahead and not making any unnecessary shifts.
+### 조작 방법 안내
 
-### Controls Guide
+게임은 드래그 앤 드롭 방식으로 직관적으로 조작할 수 있습니다.
 
-The game is played with simple drag-and-drop controls.
+*   **차량 이동**: 움직이고 싶은 차량을 클릭(또는 터치)해 누른 상태로, 차량이 향하고 있는 방향으로만
+    드래그해 움직일 수 있습니다. 다른 차량이나 벽이 막고 있는 지점까지만 이동합니다.
 
-*   **[KO]** **Move a Vehicle:** Click and hold on any car or truck. You can only slide it forwards and backwards along its current orientation (either horizontally or vertically). Drag it into an empty space to move it.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 게임의 목표는 정확히 무엇인가요?**  
+    *   **A:** 빨간 차를 격자 오른쪽(또는 지정된 출구)까지 이동시켜 주차장을 빠져나가게 하는
+        것입니다.
 
-*   **[KO]** **Q: What is the objective?**
-    *   **[KO]** **A:** To slide the red car out through the exit on the side of the grid.
+*   **Q: 어떤 차는 옆으로는 전혀 움직이지 않아요. 버그인가요?**  
+    *   **A:** 아닙니다. 모든 차량은 자신의 길이 방향으로만 전진·후진할 수 있다는 것이 이 퍼즐의
+        핵심 규칙입니다. 방향을 바꾸거나 회전시킬 수 없습니다.
 
-*   **[KO]** **Q: Why can't I move a car sideways?**
-    *   **[KO]** **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
-
-*   **[KO]** **Q: I'm completely stuck. What can I do?**
-    *   **[KO]** **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
-
+*   **Q: 완전히 막힌 것 같을 때는 어떻게 해야 하나요?**  
+    *   **A:** 대부분의 버전에는 힌트 버튼이 있어 다음 정답 수를 보여 줍니다. 힌트가 부족하다면,
+        리셋 버튼으로 스테이지를 초기화한 뒤, 이번에는 출구에서 역으로 경로를 따라 올라가는 방식으로
+        다시 시도해 보세요.

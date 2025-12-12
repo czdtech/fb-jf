@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: fruit-cube-blast
-title: '[ZH TRANSLATION NEEDED] Fruit Cube Blast'
-description: >-
-  [ZH TRANSLATION NEEDED] Blast your way through juicy levels in Fruit Cube
-  Blast! Tap groups of matching fruit cubes to create explosive combos and clear
-  the board in this fun and colorful puzzle game.
+title: Fruit Cube Blast 水果方塊爆爆樂
+description: 在 Fruit Cube Blast 中一路炸穿多汁關卡！點擊成片同色水果方塊，製造華麗連鎖與爆炸特效， 清空棋盤、完成關卡目標。
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/fruit-cube-blast.jpg
 tags:
@@ -19,33 +16,43 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike match-3 games where you swap items, in this game, you tap on groups of two or more adjacent, identical fruit cubes to blast them off the board. The goal is to complete level-specific objectives by strategically clearing cubes and creating powerful combos. By blasting larger groups of cubes, you can create special boosters like rockets and bombs to clear even more of the level in spectacular fashion.
+《Fruit Cube Blast》是一款色彩鮮豔、節奏爽快的「點擊爆破」消除遊戲。
+不同於傳統三消需要交換位置，這裡只要點擊相鄰、同色且數量不少於 2 個的水果方塊，
+就能將它們一次炸掉。你的目標是依照每關的特定要求，透過策略性消除來完成目標，
+同時製造大型連鎖與強力道具。大範圍連消可以產生火箭、炸彈等特殊方塊，
+一次清除更大範圍的棋盤，帶來非常華麗的效果。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Bigger is Better:** Always look for the largest possible group of matching cubes to tap. Tapping a small group of 2 or 3 is less efficient. Larger groups not only clear more space but are also the only way to create powerful boosters.
-2.  [ZH TRANSLATION NEEDED] **Create and Combine Boosters:** This is the core strategy for winning difficult levels.
-    * [ZH TRANSLATION NEEDED] **Rocket:** Tap a group of 5-6 cubes to create a Rocket, which clears a full row or column.
-    * [ZH TRANSLATION NEEDED] **Bomb:** Tap a group of 7-8 cubes to create a Bomb, which clears a 3x3 area.
-    * [ZH TRANSLATION NEEDED] **Color Wheel:** Tap a group of 9 or more cubes to create a Color Wheel, which clears all cubes of a single color.
-    * [ZH TRANSLATION NEEDED] **Combine:** The real power comes from activating two boosters next to each other. For example, a Rocket + Bomb combo clears a huge area.
-3.  [ZH TRANSLATION NEEDED] **Plan for Objectives:** Pay attention to the goal. If you need to collect 30 red cubes, focus on matching red cubes. If you need to drop an item to the bottom, focus on clearing the cubes directly beneath it.
-4.  [ZH TRANSLATION NEEDED] **Conserve Moves:** Each level has a limited number of moves. Don't waste them on small, insignificant matches. Try to set up large matches that will create boosters or cause large cascades.
+
+1.  **越大群越划算：** 儘量尋找數量最多的同色方塊團來點擊。
+    只消除 2、3 個的小團效率很差，大群不僅清空更多空間，也是生成強力道具的唯一途徑。
+2.  **製造並連動強力道具：** 這是攻克高難度關卡的核心。
+    *   **火箭（Rocket）：** 點擊 5～6 個同色方塊會生成火箭，可清除整行或整列。
+    *   **炸彈（Bomb）：** 點擊 7～8 個同色方塊會生成炸彈，可炸掉 3×3 區域。
+    *   **色輪（Color Wheel）：** 點擊 9 個以上同色方塊會生成色輪，可清除全場某一顏色。
+    *   **道具組合：** 將兩個道具相鄰觸發，威力會大幅提升，例如火箭+炸彈可以清出巨幅範圍。
+3.  **緊盯關卡目標：** 若關卡要求收集 30 顆紅色方塊，就以紅色為優先；
+    若需要把特定物品送到底部，就集中清除它下方路徑。
+4.  **節省步數：** 每關步數有限，不要浪費在效果不明顯的小群點擊上，
+    多佈局幾手讓大群聚集，再一口氣解決，還有機會觸發連鎖掉落。
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The controls are extremely simple.
 
-*   **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
-*   **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
+The controls are extremely simple.
+- **爆破方塊：** 使用滑鼠或手指點擊任意相鄰、同色且至少 2 個以上的方塊群即可消除。
+- **啟動道具：** 直接點擊火箭、炸彈等道具方塊即可觸發其效果。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Why can't I tap on a single cube?**
-     *   **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
+*   **問：為什麼單一方塊點不掉？**
+    *   **答：** 遊戲規則要求至少有 2 個相鄰且同色的方塊才能消除，
+        單顆方塊需要先透過其他消除讓它與同色方塊相連。
 
-*   **Q: How do I create a Rocket?**
-     *   **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
+*   **問：怎麼生成火箭？**
+    *   **答：** 點擊一組連成一片的 5～6 個相同水果方塊即可生成火箭，
+        用來清除一整行或一整列。
 
-*   **Q: What is the best way to clear a level with limited moves?**
-     *   **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
-
+*   **問：在步數有限的關卡中要怎麼通關？**
+    *   **答：** 專注在製造大型方塊群與道具，盡量讓兩個道具相鄰再同時觸發，
+        這種「雙道具組合」往往比多次單獨使用道具來得更有效率。

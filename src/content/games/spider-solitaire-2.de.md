@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: spider-solitaire-2
-title: '[DE] Spider Solitaire'
+title: Spider Solitaire
 description: >-
-  [DE] Take on the challenge of Spider Solitaire. Arrange cards in descending
-  order by suit to clear them from the tableau. A true test of strategy and
-  planning.
+  Stell dich der Herausforderung von Spider Solitaire: Ordne Karten nach Farbe
+  in absteigender Reihenfolge von König bis Ass, räume das Tableau leer und
+  beweise deine Planung und Strategie.
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/spider-solitaire-2.png
 tags:
@@ -16,35 +16,40 @@ score: 4.8/5  (3200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Spider Solitaire gehört zu den bekanntesten und zugleich anspruchsvollsten Solitaire-Varianten. Gespielt wird mit zwei kompletten Kartendecks. Dein Ziel ist es, das gesamte Tableau zu leeren, indem du acht vollständige, absteigende Folgen einer Farbe von König bis Ass bildest. Sobald eine komplette K-bis-A-Sequenz fertig ist, wird sie automatisch entfernt. Vor allem mit zwei oder vier Farben wird das Spiel zu einer echten Denkaufgabe, die sorgfältige Planung erfordert.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Ziel des Spiels:** Baue acht vollständige Folgen innerhalb des Tableaus, jeweils von König bis Ass in einer Farbe. Jede abgeschlossene K-bis-A-Folge wird vom Spielfeld entfernt. Gewonnen hast du, wenn das Tableau komplett leer ist.
+2.  **Karten bewegen:** Du darfst jede Karte auf eine andere legen, die genau einen Rang höher ist. Eine 7 kann also auf jede 8 gelegt werden, unabhängig von der Farbe. Ganze Kartengruppen kannst du aber nur verschieben, wenn alle Karten darin dieselbe Farbe haben und strikt absteigend sortiert sind (z. B. 9♠–8♠–7♠).
+3.  **Verdeckte Karten freilegen:** Versuche, verdeckte Karten so früh wie möglich aufzudecken, um mehr Optionen zu bekommen. Jede neue offene Karte kann dir einen wichtigen Zug ermöglichen.
+4.  **Leere Spalten nutzen:** Eine leere Spalte kann mit jeder beliebigen Einzelkarte oder einer gültigen Sequenz gefüllt werden. Nutze diese freien Spalten strategisch, um das Tableau umzustrukturieren und Farben sauber zu sortieren.
+5.  **Vom Stock austeilen:** Wenn keine sinnvoll produktiven Züge mehr möglich sind, kannst du den Stockstapel anklicken. Dadurch wird jeder der zehn Tableau-Stapel um eine offene Karte ergänzt. Wichtig: Du kannst erst neue Karten austeilen, wenn keine Spalte im Tableau mehr komplett leer ist.
 
-Spider Solitaire is one of the most popular and challenging variations of solitaire. Played with two full decks of cards, the objective is to clear the tableau by building eight complete descending sequences of a single suit, from King down to Ace. Once a full sequence is completed, it is removed from play. The game is renowned for its difficulty and the strategic depth required to win, especially when played with two or four suits.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Karten bewegen:** Klicke und ziehe einzelne Karten oder gültige Sequenzen in eine andere Spalte.
+- **Neue Karten austeilen:** Klicke auf den Stockstapel in der Ecke, um eine neue Reihe Karten auszuteilen.
+- **Automatisches Ablegen:** Viele Versionen verschieben eine vollständige K-bis-A-Folge automatisch in den Ablagebereich.
 
-1.  **[DE]** **The Goal:** To build eight sequences of cards within the tableau, each from King to Ace in a single suit. Once a full K-to-A sequence is formed, it is automatically removed from the board. The game is won when the tableau is empty.
-2.  **[DE]** **Moving Cards:** You can place any card onto another card that is one rank higher. For example, you can place a 7 of any suit onto an 8 of any suit. However, you can only move a *group* of cards together if they are all of the *same suit* and in perfect descending order (e.g., you can move a 9♠-8♠-7♠ sequence together).
-3.  **[DE]** **Uncovering Cards:** The primary strategy is to uncover the face-down cards in the tableau as quickly as possible to give yourself more options.
-4.  **[DE]** **Empty Columns:** An empty column can be filled with any card or any valid sequence of cards. Use these empty spaces strategically to rearrange your tableau and organize your suits.
-5.  **[DE]** **Dealing from the Stock:** When you have no more productive moves, you can click the stock pile. This will deal one new face-up card to the bottom of each of the ten tableau columns. **Important:** You cannot deal new cards if any of your tableau columns are empty.
+### Häufig gestellte Fragen (FAQ)
 
-### Controls Guide
+- **F: Was ist der Unterschied zwischen 1-, 2- und 4-Farben-Spider-Solitaire?**
+  
+  **A:** Der Schwierigkeitsgrad. Im 1-Farben-Modus sind alle Karten gleichfarbig, sodass sich Folgen leicht bilden lassen. Bei 2 oder 4 Farben musst du deutlich genauer planen, da du nur einfarbige Sequenzen vollständig verschieben und entfernen kannst.
 
-*   **[DE]** **Move Cards:** Click and drag a card or a valid sequence to another column.
-*   **[DE]** **Deal Cards:** Click the stock pile in the corner to deal a new row of cards.
-*   **[DE]** **Auto-Move:** Many versions will automatically move a completed K-to-A sequence to the foundation area for you.
+    - **F: Warum kann ich keine neuen Karten aus dem Stock austeilen?**
+  
+  **A:** Auf jeder der zehn Tableau-Spalten muss mindestens eine Karte liegen. Ist eine Spalte komplett leer, musst du sie erst wieder mit einer Karte oder Sequenz füllen, bevor du eine neue Reihe austeilen darfst.
 
-### Frequently Asked Questions (FAQ)
+- **F: Welche Strategie ist für Einsteiger am besten?**
+  
 
-*   **[DE]** **Q: What is the difference between 1, 2, and 4 suit Spider Solitaire?**
-    *   **[DE]** **A:** The difficulty. In 1-suit mode, all cards are of the same suit, making it easy to create sequences. In 2-suit and 4-suit modes, you must manage different suits, which makes it much harder to build the required single-suit sequences for removal.
+    - **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
 
-*   **[DE]** **Q: Why can't I deal new cards from the stock?**
-    *   **[DE]** **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
+- **Q: What is the best strategy for beginners?**
 
-*   **[DE]** **Q: What is the best strategy for beginners?**
-    *   **[DE]** **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
-
+    - **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
+  **A:** Starte am besten im 1-Farben-Modus, um die Grundlagen zu lernen. Konzentriere dich darauf, verdeckte Karten aufzudecken und leere Spalten zu erzeugen. Baue bevorzugt Sequenzen auf Spalten, unter denen nur wenige verdeckte Karten liegen.

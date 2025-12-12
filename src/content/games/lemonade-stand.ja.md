@@ -1,43 +1,36 @@
 ---
+title: "Lemonade Stand"
+description: "クラシックなビジネスシム：価格、レシピ、広告を設定します。カップ/レモン/氷を購入し、天候の変化下で毎日の利益を管理します。"
+iframeSrc: "https://ad-freegames.github.io/flash/game/lemonade-stand.html"
+thumbnail: "/new-images/lemonade-stand.jpg"
+urlstr: "lemonade-stand"
+score: "3.9/5  (232 votes)"
+tags: ["simulation", "tycoon"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: lemonade-stand
-title: '[JA TRANSLATION NEEDED] Lemonade Stand'
-description: >-
-  [JA TRANSLATION NEEDED] Classic business sim: set price, recipe, and
-  advertising; buy cups/lemons/ice; and manage daily profit under changing
-  weather.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
-thumbnail: /new-images/lemonade-stand.jpg
-tags:
-  - simulation
-  - tycoon
-score: 3.9/5  (232 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Lemonade Standはシンプルな店舗をモデル化します。毎日、在庫（カップ、レモン、砂糖、氷）を購入し、レシピと価格を設定し、オプションで広告を出します。天候とランダムなイベントは需要に影響します。利益は、無駄（溶けた氷、残ったレモン）を最小限に抑えながら、条件に価格と在庫を一致させることに依存します。
 
+### 遊び方
+- 予報を確認します。暑い日は価格を上げて、より多くの氷を購入します。
+- コストと需要のバランスをとるためにレシピ（より多くの砂糖/レモン）を調整します。
+- 利益/損失を追跡し、毎日反復します。
 
-### Overview
-[JA TRANSLATION NEEDED] Lemonade Stand models a simple storefront. Each day you purchase inventory (cups, lemons, sugar, ice), set recipe and price, and optionally advertise. Weather and random events affect demand; profit depends on matching price and stock to conditions while minimizing waste (melted ice, leftover lemons).
+### 操作方法
+- 数量と価格を設定するためにマウス/UI。日を進めます。
 
-### How to Play
-- Check forecast; raise price on hot days and buy more ice.
-- Adjust recipe (more sugar/lemons) to balance cost and demand.
-- Track profit/loss and iterate daily.
+### ヒント
+- 予報が涼しいまたは雨の場合、腐りやすいアイテムを過剰に在庫しないでください。
+- イベントのためのマージンを保持しますが、余分な在庫に現金を縛らないでください。
+- 小さな価格テストは、市場の弾力性を明らかにします。
 
-### Controls
-- Mouse/UI to set quantities and prices; advance day.
-
-### Tips
-- Don’t overstock perishable items if the forecast is cool or rainy.
-- Keep a margin for events but avoid tying up cash in excess inventory.
-- Small price tests reveal elasticity for your market.
-
-### FAQ
-- Q: How do I avoid running out of stock during peak hours?  
-[JA TRANSLATION NEEDED]   A: Buy a buffer of cups and ice on hot forecasts and increase price slightly.
-- Q: Does advertising matter in this game?  
-[JA TRANSLATION NEEDED]   A: It can boost demand, but overspending wastes money if supply is low.
-- Q: What is the most important metric to watch?  
-[JA TRANSLATION NEEDED]   A: Daily profit and leftover inventory; aim for steady upward trends.
-
+### よくある質問 (FAQ)
+- **Q: ピーク時に在庫不足を避けるにはどうすればよいですか？**  
+  A: 暑い予報でカップと氷のバッファーを購入し、価格をわずかに上げます。
+- **Q: このゲームで広告は重要ですか？**  
+  A: 需要を後押しできますが、供給が少ない場合、過剰支出は無駄になります。
+- **Q: 見るべき最も重要なメトリックは何ですか？**  
+  A: 毎日の利益と残りの在庫。安定した上昇トレンドを目指します。

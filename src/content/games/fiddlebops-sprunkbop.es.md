@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: fiddlebops-sprunkbop
-title: '[ES] Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online'
+title: "Fiddlebops Sprunkbop - Juega Fiddlebops Sprunkbop Online"
 description: >-
-  [ES] Fiddlebops Sprunkbop is an awesome crossover event! It keeps the
-  addictive music-making core of Fiddlebops but swaps out all the original
-  characters for the iconic Sprunki crew.
+  Fiddlebops Sprunkbop es un crossover musical fantástico: mantiene la
+  jugabilidad adictiva de Fiddlebops, pero remixa por completo la música y
+  presenta a la tripulación Sprunki con un estilo totalmente nuevo.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /fiddlebops-sprunkbop.png
 tags:
@@ -14,32 +14,62 @@ score: 4.1/5  (308 votes)
 ---
 
 
+¡Hola, amantes de la música! ¿Quieres darle un giro a tu rutina habitual de
+Incredibox con algo fresco? Entonces tienes que probar Fiddlebops Sprunkbop.
+No se trata de un lanzamiento oficial, sino de un mod creado por fans con
+mucho talento. Remixa por completo la música del juego clásico y la convierte
+en un estilo nuevo que se ha vuelto muy popular dentro de la comunidad de
+Incredibox.
 
-Hey music lovers! Looking to shake up your usual Incredibox routine with something fresh? Then you absolutely need to check out Fiddlebops Sprunkbop! This isn't an official release, but a custom mod crafted by super talented fans. It completely remixes the classic game's music, spinning it into a whole new style that's become incredibly popular within the Incredibox community!
+### ¿Cuál es la magia de Fiddlebops Sprunkbop?
 
-### What's the Magic Behind Fiddlebops Sprunkbop?
+En pocas palabras, Fiddlebops Sprunkbop es un lavado de cara tan raro como
+encantador del original. Conserva la jugabilidad de arrastrar y soltar que
+resulta tan fácil de entender, pero lo renueva todo por dentro y por fuera.
+Para empezar, el apartado visual es una pasada: diseños de personajes únicos
+acompañados de animaciones llenas de energía que hacen que la pantalla cobre
+vida. Ver a tu propia banda Fiddlebops Sprunkbop moverse al ritmo que tú
+creas es simplemente increíble.
 
-Simply put, Fiddlebops Sprunkbop is a wonderfully quirky makeover of the classic. It keeps the original's easy-to-love drag-and-drop gameplay but gives everything a fresh coat of paint, inside and out. First off, the visuals are a real treat! Unique character designs, paired with lively and fun animations, make the whole game screen pop with energy, making it way more engaging to play. Watching your custom Fiddlebops Sprunkbop crew groove to the beat you create is just awesome!
+Y, por supuesto, la música es el alma de Fiddlebops Sprunkbop. Introduce
+paisajes sonoros, ritmos y melodías totalmente nuevos, ofreciendo un espacio
+mucho más amplio y variado para crear. Puedes experimentar sin miedo con todo
+tipo de combinaciones de sonidos dentro del mundo de Fiddlebops Sprunkbop, sin
+ninguna restricción. Cada arrastre, cada combinación, puede dar lugar a una
+idea musical única.
 
-Of course, the music is the soul of Fiddlebops Sprunkbop! It introduces entirely new soundscapes, rhythms, and melodies, giving you a much broader and more diverse space for musical creation. You can fearlessly experiment with all sorts of sound combinations within the Fiddlebops Sprunkbop world, completely unrestricted. Every drag, every pairing, has the potential to spark a unique musical idea.
+### Jugar a Fiddlebops Sprunkbop es súper fácil
 
-### Rocking Fiddlebops Sprunkbop is Super Easy!
+No te preocupes por los controles: Fiddlebops Sprunkbop hereda a la perfección
+la mejor virtud del original, su sencillez.
 
-Don't sweat the controls; Fiddlebops Sprunkbop perfectly inherits the original's best quality – it's straightforward:
+- **Solo arrastra y listo:** Elige el personaje (o efecto de sonido) que más te
+  guste y arrástralo al escenario.
+- **Superpone tu mezcla:** Sigue añadiendo nuevos sonidos para que tu pista de
+  Fiddlebops Sprunkbop sea cada vez más rica y compleja.
+- **Experimenta sin miedo:** Aquí no hay bien ni mal, solo diversión. Atrévete
+  a probar combinaciones diferentes hasta encontrar tu estilo favorito de
+  Fiddlebops Sprunkbop.
 
-- **Just Drag It:** Pick the character (or sound effect) you like and drag it onto the stage.
-- **Layer Your Mix:** Keep adding new sounds to make your Fiddlebops Sprunkbop track richer and more complex.
-- **Experiment Freely:** There's no right or wrong, only fun! Boldly try out different combinations to find your favorite Fiddlebops Sprunkbop style.
+### ¿Por qué merece la pena jugar Fiddlebops Sprunkbop?
 
+- **Mejora visual:** Personajes y animaciones únicos convierten cada partida en
+  un espectáculo para ojos y oídos.
+- **Música más rica:** Nuevos elementos sonoros te dan muchas más
+  posibilidades creativas y ayudan a que tus creaciones en Fiddlebops
+  Sprunkbop destaquen.
+- **Cero estrés para empezar:** Tanto si eres un veterano como si llegas de
+  nuevas, entenderás al instante cómo funciona Fiddlebops Sprunkbop.
+- **Creatividad sin límites:** Es una plataforma que anima a experimentar.
+  Cada sesión puede dar lugar a algo completamente distinto.
 
-### Why is Fiddlebops Sprunkbop Worth Playing?
+### Conclusión
 
-- **Visual Upgrade:** Unique characters and animations make it a feast for your eyes as well as your ears.
-- **Rich Music:** Brand new sound elements give you more creative possibilities, making your Fiddlebops Sprunkbop creations stand out.
-- **Zero Stress to Start:** Whether you're a seasoned pro or totally new, you'll get the hang of Fiddlebops Sprunkbop instantly.
-- **Unlimited Creativity:** It's a platform that encourages bold experimentation – you can create something new every time you play Fiddlebops Sprunkbop.
+Gracias a todos estos elementos innovadores, Fiddlebops Sprunkbop ofrece una
+experiencia de creación musical más libre y completa, sin perder la esencia
+del original. Tanto si ya eras fan de Fiddlebops Sprunkbop como si acabas de
+escuchar su nombre por primera vez, seguro que puedes encontrar tu propia
+forma de disfrutar de la música en este mod tan colorido.
 
-
-### Wrapping Up:
-
-Through these innovative elements, Fiddlebops Sprunkbop delivers a freer and richer music creation experience while holding onto the essence of the original. Whether you're already a fan of Fiddlebops Sprunkbop or just hearing the name for the first time, you're sure to find your own musical joy in this vibrant mod. Give Fiddlebops Sprunkbop a try, and mix up the coolest beats with your creativity!
+Dale una oportunidad a Fiddlebops Sprunkbop y usa tu creatividad para mezclar
+los beats más potentes.

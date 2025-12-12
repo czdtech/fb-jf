@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fruit-chef
-title: '[ZH TRANSLATION NEEDED] Fruit Chef'
+title: "Fruit Chef 水果廚神斬斬樂"
 description: >-
-  [ZH TRANSLATION NEEDED] Fruit Chef is a swift slice‑’em‑up — chain clean cuts,
-  avoid bombs, and manage tempo for monster combos.
+  Fruit Chef 是一款節奏明快的切水果遊戲，透過連續俐落的刀光劃破飛舞的水果，
+  避開炸彈並掌握節奏來打出驚人連段。
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/fruit-chef.png
 tags:
@@ -17,30 +17,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Fruit Chef channels classic fruit‑slicing: flick clean lines through flying fruit, build combo chains, and avoid bombs. The scoring engine rewards long, straight multi‑fruit cuts and steady rhythm over frantic swipes.
+《Fruit Chef》承襲經典切水果玩法：你要用流暢的滑動在空中切開飛起的水果，
+盡量在一刀之中同時切中多顆以累積 Combo，並嚴格避開混在其中的炸彈。
+計分系統特別獎勵「長而直的多水果切線」以及穩定的節奏，而不是毫無章法的亂劃。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Long strokes: Slice multiple fruits in a single straight line for combo bonuses.
-2.  [ZH TRANSLATION NEEDED] Don’t chase lows: Let low fruit rise into a safe arc before slicing.
-3.  [ZH TRANSLATION NEEDED] Bomb discipline: Abort swipes that would cross bombs; safety first.
-4.  [ZH TRANSLATION NEEDED] Rhythm: Maintain a comfortable cadence; panic flutters reduce accuracy.
-5.  [ZH TRANSLATION NEEDED] Power‑ups: Save slow‑mo for dense volleys.
+
+1.  **長線斬擊：** 儘量讓每一刀都切中多顆水果，一條直線同時命中越多顆，Combo 分數越可觀。
+2.  **不要撿低空殘果：** 太低的位置往往貼近畫面邊緣或炸彈，讓水果稍微飛高一點再切，
+    安全又容易抓角度。
+3.  **炸彈優先：** 一旦發現某條劃線會經過炸彈，立即放棄那道刀，寧願少切幾顆水果也不要爆炸。
+4.  **穩定節奏：** 保持自己舒服的切割頻率，比緊張亂滑更容易維持準度與連段。
+5.  **道具時機：** 若有慢動作或範圍強化等道具，留在水果特別密集的波次使用，效益最高。
 
 ### Controls Guide
 
-- Click‑drag or swipe to cut; avoid bombs; pause/retry via UI.
+- 滑鼠按住拖曳或觸控滑動即可完成斬擊；
+- 注意避開炸彈的 hitbox；
+- 可透過介面上的按鈕暫停或重新開始關卡。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep hitting bombs — how do I stop?
-  
-[ZH TRANSLATION NEEDED]   A: Slice only along clean angles; don’t complete swipes that intersect bombs.
+- 問：我老是誤砍到炸彈，怎麼改善？  
+  答：在出刀前先用眼角掃過整個軌跡，確定不會經過炸彈再滑完這一刀，
+  必要時可以中途收刀，寧願放棄水果也不要硬切。
 
-- Q: Best way to score high?
-  
-[ZH TRANSLATION NEEDED]   A: Long, straight combo cuts and consistent rhythm.
+- 問：要怎麼拿到高分？  
+  答：關鍵是長而直的多水果切線，以及整場都保持穩定節奏，盡量不要中斷 Combo。
 
-- Q: Multi‑touch helps?
-  
-[ZH TRANSLATION NEEDED]   A: If supported, multi‑finger arcs can cover more screen safely.
-
+- 問：多指操作有幫助嗎？  
+  答：若裝置與版本支援多點觸控，使用兩指畫出平行或交錯弧線，確實能更安全地覆蓋更大範圍。

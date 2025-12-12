@@ -1,94 +1,65 @@
 ---
+title: "Breaking the Bank ブレーキング・ザ・バンク"
+description: "伝説の棒人間アドベンチャー「Breaking the Bank」！銀行強盗を企むヘンリー・スティックミンの運命を選べ。成功への道はたった一つ、他は全て爆笑の失敗のみ。"
+iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
+thumbnail: "/new-images/breaking-the-bank.jpg"
+urlstr: "breaking-the-bank"
+score: "4.7/5  (1071 votes)"
+tags: ["puzzle", "adventure"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: breaking-the-bank
-title: '[JA TRANSLATION NEEDED] Breaking the Bank'
-description: >-
-  [JA TRANSLATION NEEDED] Attempt a daring bank heist in Breaking the Bank, the
-  first Henry Stickmin adventure! Choose your method and watch the hilarious
-  outcomes, but only one path leads to success.
-iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
-thumbnail: /new-images/breaking-the-bank.jpg
-tags:
-  - puzzle
-  - adventure
-score: 4.7/5  (1071 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Breaking the Bank（ブレーキング・ザ・バンク）*は、短編のインタラクティブ・選択型アニメーションゲームです。大人気シリーズ「ヘンリー・スティックミン（Henry Stickmin）」の記念すべき第一作目にあたります。シナリオは単純明快。主人公の棒人間ヘンリー・スティックミンが、砂漠の真ん中にある銀行の前に立ち、どうやって侵入して強盗を成功させるかを画策しています。
 
+プレイヤーはキャラクターを直接操作するのではなく、物語の分岐点で「選択」を行います。銀行に侵入するための6つの方法（ツール）が提示されるので、好きなものを選んでください。このゲームの最大の魅力は、正しい正解を見つけることではなく、**間違った選択をした時に見られるユニークで爆笑必至の「失敗（FAIL）」アニメーション**を楽しむことです。たった一つの正解ルート以外は、すべて笑えるバッドエンドが待っています。
 
+### ゲーム攻略と戦略
 
-### Game Introduction
+このゲームはトライ＆エラー（試行錯誤）が全てです。ゲーム全体を通して選択肢は1回しかありません。
 
-[JA TRANSLATION NEEDED] Breaking the Bank is a short, interactive, choice-based animated game. It is the very first installment in the popular Henry Stickmin series. The game presents a simple scenario: the protagonist, a stick figure named Henry Stickmin, stands before a bank in the middle of a desert, contemplating how to break in and rob it.
+画面下部に以下の6つの選択肢が表示されます：
+1.  **Explosives（爆薬）：** 壁に穴を空けようとします。
+2.  **Laser Drill（レーザードリル）：** ハイテクなレーザーで壁を切断します。
+3.  **Shovel（ショベル）：** 地下トンネルを掘って侵入を試みます。
+4.  **Wrecking Ball（鉄球）：** 巨大な鉄球車を呼んで壁を破壊します。
+5.  **Disguise（変装）：** お金袋に変装して潜入を試みます。
+6.  **Teleporter（テレポーター）：** 未来的な装置で内部へ瞬間移動します。
 
-[JA TRANSLATION NEEDED] Unlike traditional games, there is no direct control over movement or actions. Instead, the gameplay consists of a single decision point. The player is presented with a selection of six different methods or tools to break into the bank. The core appeal of the game lies not in finding the correct answer, but in exploring the hilarious and unique "FAIL" animations that result from each incorrect choice. The goal is to find the one and only correct option that allows Henry to succeed.
+**正解ルート:**  
+> 勝利に繋がるのは **Shovel（ショベル）** だけ。その他の選択はすべて爆笑 FAIL で終わります。とはいえ、失敗シーンをコンプリートすること自体が本作の真の遊び方です。
 
-### Gameplay Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] The gameplay in Breaking the Bank is entirely based on trial and error. There is only one choice to make in the entire game.
+マウスのみで操作します。
 
-[JA TRANSLATION NEEDED] You are presented with six options displayed at the bottom of the screen:
-[JA TRANSLATION NEEDED] 1.  **Explosives:** Try to blow a hole in the wall.
-[JA TRANSLATION NEEDED] 2.  **Laser Drill:** Use a high-tech laser to cut through the wall.
-[JA TRANSLATION NEEDED] 3.  **Shovel:** Dig a tunnel underneath the bank.
-[JA TRANSLATION NEEDED] 4.  **Wrecking Ball:** Call in a wrecking ball to smash the wall.
-[JA TRANSLATION NEEDED] 5.  **Disguise:** Try to sneak in using a disguise.
-[JA TRANSLATION NEEDED] 6.  **Teleporter:** Use a futuristic device to teleport inside.
+- **マウスカーソル:** 選択肢の上にカーソルを合わせてハイライト。  
+- **左クリック:** 見たい選択肢をクリックし、結果のアニメーションを再生。  
 
-[JA TRANSLATION NEEDED] **The Solution:**
-[JA TRANSLATION NEEDED] > There is only one correct path to win the game. The correct option to choose is the **Shovel**. This will trigger an animation of Henry successfully digging a tunnel into the bank's vault. Any other choice will result in a humorous FAIL screen. The fun of the game is clicking on all the other options first to see the funny outcomes.
+### よくある質問 (FAQ)
 
-### Controls Guide
+**1. 成功するルートが本当に1つしかないの？**
 
-[JA TRANSLATION NEEDED] The game is controlled entirely with the mouse.
+> そうです。ヘンリーが成功する（次の作品へ繋がる）ルートは Shovel だけで、その他はすべてギャグ性の高い FAIL です。  
 
--   **Mouse Cursor:** Move the cursor to hover over an option.
--   **Left-Click:** Click on your desired option to see what happens.
+**2. どうしてこんなに短いの？**
 
+> この作品はシリーズ第一弾のプロトタイプ的な立ち位置で、「選択→結果を見る」という仕組みを試すための短編でした。続編ではボリュームと分岐が大幅に増えます。  
 
+**3. シリーズのプレイ順は？**
 
+> もちろん、これは Henry Stickmin シリーズの第1作です。推奨のプレイ順は次のとおりです。
 
+> 1.  Breaking the Bank  
+> 2.  Escaping the Prison  
+> 3.  Stealing the Diamond  
+> 4.  Infiltrating the Airship  
+> 5.  Fleeing the Complex  
+> これらは後にリマスターされ、最終章 Completing the Mission とともに *The Henry Stickmin Collection* に収録されました。  
 
-- **Teleporter:** Use a futuristic device to teleport inside.
-- **Disguise:** Try to sneak in using a disguise.
-- **Wrecking Ball:** Call in a wrecking ball to smash the wall.
-- **Shovel:** Dig a tunnel underneath the bank.
-### Frequently Asked Questions (FAQ)
+**4. クリックするだけならゲーム性はどこに？**
 
-[JA TRANSLATION NEEDED] **1. Is there more than one way to win the game?**
-[JA TRANSLATION NEEDED] > No, there is only one specific choice (the Shovel) that leads to success. All other choices are designed to be humorous failures.
-
-
-### コントロールガイド
-[JA TRANSLATION NEEDED] **2. Why is the game so short?**
-
-
-
-### よくある質問（FAQ）
-- **Left-Click:** Click on your desired option to see what happens.
-- **Mouse Cursor:** Move the cursor to hover over an option.
-
-### よくある質問（FAQ）
-[JA TRANSLATION NEEDED] > Breaking the Bank was the very first game in the series and served as a simple proof-of-concept for the choice-based "choose your own adventure" style of gameplay. Its successors are much longer and more complex.
-
-[JA TRANSLATION NEEDED] **3. Is this game part of a series?**
-[JA TRANSLATION NEEDED] > Yes, this is the first game in the iconic **Henry Stickmin** series. The chronological order of the games is:
-[JA TRANSLATION NEEDED] > 1.  Breaking the Bank
-[JA TRANSLATION NEEDED] > 2.  Escaping the Prison
-[JA TRANSLATION NEEDED] > 3.  Stealing the Diamond
-[JA TRANSLATION NEEDED] > 4.  Infiltrating the Airship
-[JA TRANSLATION NEEDED] > 5.  Fleeing the Complex
-[JA TRANSLATION NEEDED] > These games were later remastered and bundled together with a final, grand-finale chapter called "Completing the Mission" in **The Henry Stickmin Collection**.
-
-[JA TRANSLATION NEEDED] **4. Where is the gameplay? I only get one choice.**
-[JA TRANSLATION NEEDED] > The "gameplay" is the experience of seeing all the different outcomes. The main point is not to win immediately, but to click on every option to enjoy the comedy and animation of the various fails before finding the correct solution.
-
-
-
-
-
-> The "gameplay" is the experience of seeing all the different outcomes. The main point is not to win immediately, but to click on every option to enjoy the comedy and animation of the various fails before finding the correct solution.
-**4. Where is the gameplay? I only get one choice.**
-> These games were later remastered and bundled together with a final, grand-finale chapter called "Completing the Mission" in **The Henry Stickmin Collection**.
+> 本作は“インタラクティブ・アニメ”に近い体験です。すべての失敗ルートをコンプリートして笑いを楽しむのが醍醐味です。  

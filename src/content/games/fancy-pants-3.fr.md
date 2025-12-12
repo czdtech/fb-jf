@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: fancy-pants-3
-title: '[FR] Fancy Pants 3'
-description: >-
-  [FR] Momentum platforming returns with bigger stages, more secrets, and
-  refined wall‑runs and slides in hand‑drawn worlds.
+title: "Fancy Pants 3"
+description: "Le platforming basé sur le momentum revient avec des niveaux plus grands, encore plus de secrets et des wall‑runs/glissades affinés dans des mondes dessinés à la main."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/fancy-pants-3.jpg
@@ -16,30 +14,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Troisième épisode de la série, Fancy Pants 3 met l’accent sur un flux de mouvement encore plus rapide, une exploration élargie et des salles de défi qui récompensent les déplacements les plus propres.
 
+### Comment jouer
 
-### Overview
-Third entry focuses on faster flow, expanded exploration, and challenge rooms rewarding clean movement.
+- Enchaîne glissades, sauts et wall‑runs pour garder ta vitesse.
+- Récupère des objets pour débloquer des salles optionnelles et des éléments cosmétiques.
+- Observe le timing des ennemis ; saute‑leur dessus ou esquive‑les pour préserver ton momentum.
 
-### How to Play
-- Chain slides→jumps→wall‑runs to maintain speed.
-- Collect items to unlock optional rooms and cosmetics.
-- Read enemy timing; stomp or evade to keep momentum.
+### Commandes
 
-### Controls
-- Arrows/WASD to move/jump; Down to slide; Up to enter.
+- Flèches ou WASD pour te déplacer et sauter ; Bas pour glisser ; Haut pour entrer dans une porte.
 
-### Tips
-- Keep a rhythm—hesitation kills speed.
-- Use slopes to convert vertical drops into forward velocity.
-- Learn level loops to route collectibles efficiently.
+### Astuces
 
-### FAQ
-- Q: Big differences from 1/2?
-A: Larger maps, more secrets, and tighter movement feel.
-- Q: Is combat necessary?
-A: Minimal; platforming mastery is the focus.
-- Q: Are there hidden rooms?
-A: Yes—watch for breakable walls and side paths.
+- Garde un rythme régulier : l’hésitation casse ta vitesse.
+- Utilise les pentes pour transformer les chutes verticales en vitesse horizontale.
+- Apprends les boucles de niveaux pour récupérer les collectibles de manière efficace.
 
+### Foire aux questions (FAQ)
+
+- Q : Quelles grandes différences avec les épisodes 1 et 2 ?
+  
+  R : Des cartes plus vastes, davantage de secrets et une sensation de mouvement plus précise.
+
+- Q : Le combat est‑il important ?
+  
+  R : Très peu ; la maîtrise du platforming reste au cœur de l’expérience.
+
+- Q : Y a‑t‑il des salles secrètes ?
+  
+  R : Oui, surveille les murs cassables et les chemins latéraux discrets.

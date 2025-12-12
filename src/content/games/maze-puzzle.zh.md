@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: maze-puzzle
-title: '[ZH TRANSLATION NEEDED] Maze Puzzle'
+title: "《Maze Puzzle》迷宫解谜逃脱"
 description: >-
-  [ZH TRANSLATION NEEDED] Maze Puzzle is a clean labyrinth runner — plot
-  shortest paths, bait patrolling guards, and exit with keys under light timers.
+  《Maze Puzzle》是一款简洁干净的迷宫跑酷解谜游戏，你需要规划最短路线，绕开巡逻守卫，拾取钥匙并在计时压力下找到出口。
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/maze-puzzle.png
 tags:
@@ -17,32 +16,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Maze Puzzle offers compact labyrinths with keys, doors, and occasional patrolling hazards. Optimal play finds safe, minimal routes that collect keys in efficient sequences while avoiding dead ends and patrol cones.
+《Maze Puzzle》提供了体量精巧的迷宫关卡，你需要在错综复杂的通道中收集钥匙、打开大门，并躲避偶尔出现的巡逻敌人或陷阱。想要打出好成绩，关键在于路线规划：既要找到安全、可行的通路，又要尽量缩短移动距离，用最效率的顺序拿齐所有钥匙，在不走冤枉路的前提下抵达终点。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Key ordering: Plan an order that minimizes backtracking.
-2.  [ZH TRANSLATION NEEDED] Landmarks: Use unique tiles to avoid loops.
-3.  [ZH TRANSLATION NEEDED] Patrol baiting: Step into edge of vision to lure guards, then slip past.
-4.  [ZH TRANSLATION NEEDED] Dead‑end pruning: Explore branches shallowly; abandon when they don’t progress keys.
-5.  [ZH TRANSLATION NEEDED] Timer awareness: Don’t rush — precision saves more time than speed blunders.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **钥匙获取顺序：** 开局时先观察整个迷宫，规划一个能减少回头路的钥匙获取顺序，避免拿完一把钥匙还要从远端绕回门口。
+2.  **地标记忆：** 利用特殊地砖、转角形状或装饰作为“地标”，帮自己记住已经走过的路径，降低在迷宫里绕圈的概率。
+3.  **引诱巡逻：** 对于带视野范围的巡逻守卫，可以短暂进入其视线边缘，引诱其远离关键岔路口，然后趁空档绕过去。
+4.  **剪掉死路：** 对看上去像支线的小通道，先浅浅探索一下，如果确认只是一条死路或和目标无关，就立即折返，避免在无意义分支上浪费太多时间。
+5.  **计时意识：** 虽然有时间压力，但盲目狂奔往往比稳扎稳打更耗时。保持冷静、走稳每一步，比频繁失误再回头更节省总用时。
 
-- Arrow/WASD movement; tap to interact; restart quickly from menu.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 使用方向键或 WASD 控制角色移动；在部分平台上可以通过点击/轻触屏幕来指定方向；如走错路，可通过菜单快速重新开始当前关卡。
 
-- Q: I get lost easily — tips?
+### 常见问题（FAQ）
+
+- **问：我总是在迷宫里迷路，有什么小技巧吗？**
   
-[ZH TRANSLATION NEEDED]   A: Mentally map junctions, or trace the right‑hand wall when safe.
+  **答：** 可以尝试在结构较简单的迷宫中使用“贴墙走”法——一路沿着同一侧墙前进；在复杂、多环路的迷宫里，则多利用显眼的地标记住转折点，必要时在脑中画出简易地图。
 
-- Q: Guards catch me near doors.
+- **问：为什么总是在门口附近被守卫抓到？**
   
-[ZH TRANSLATION NEEDED]   A: Lure them long before door zones; doors take time to open.
+  **答：** 不要等走到门前才注意巡逻路线。提前在远一点的安全区域引走守卫，让它大幅离开门口，再回去开门，就有更充裕的反应时间。
 
-- Q: Are keys reusable?
+- **问：拾取的钥匙能重复使用吗？**
   
-[ZH TRANSLATION NEEDED]   A: Usually single‑use; check icons.
-
+  **答：** 一般情况下每把钥匙对应一次开门机会，多用一次就会消失。建议在接近对应门时再去拿钥匙，避免无谓的往返。

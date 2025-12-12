@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: dices-2048-3d
-title: '[ZH TRANSLATION NEEDED] Dices 2048 3D'
+title: "Dices 2048 3D 骰子 2048 立体版"
 description: >-
-  [ZH TRANSLATION NEEDED] Dices 2048 3D fuses 2048 with dice physics — merge
-  same‑value dice to climb toward 2048 in three dimensions.
+  《Dices 2048 3D 骰子 2048 立体版》把经典 2048 与骰子物理相结合。通过投放并合成相同
+  点数的骰子，在立体空间里一路冲击 2048 甚至更高数值。
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/dices-2048-3d.png
 tags:
@@ -18,24 +18,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Dices 2048 3D is a physics‑infused take on the classic 2048 merging puzzle. Drop or slide dice so that identical face values collide and merge into the next value (e.g., 2→4→8). Gravity, bounce, and 3D placement create fresh tactics around stacking, spacing, and controlling accidental merges.
+《Dices 2048 3D 骰子 2048 立体版》是在 2048 合成玩法基础上加入物理与 3D 堆叠要素的变体。
+你需要把骰子从顶部投放或滑入容器中，让相同点数的骰子相互碰撞并合成为更高点数（例如
+2→4→8→16……）。重力、反弹和三维堆叠都会影响合成结果，你必须在“控制意外连锁”和“制造连
+锁反应”之间找到平衡。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Keep lanes clean: Reserve a column for combining and another for staging; avoid cluttered piles that block merges.
-2.  [ZH TRANSLATION NEEDED] Chain reactions: Set up multiple adjacent pairs so one merge cascades into the next for big score swings.
-3.  [ZH TRANSLATION NEEDED] Value management: Don’t spawn a higher value in a corner with no neighbors; keep equal values within one move of contact.
-4.  [ZH TRANSLATION NEEDED] Tame physics: Soft drops and short nudges reduce unwanted bounces; let dice settle before committing the next piece.
-5.  [ZH TRANSLATION NEEDED] Bail‑out moves: When the board rises, clear space with safe merges rather than fishing for perfect chains.
+
+1.  **保持“合成通道”干净：** 尝试预留一列或一个区域专门用于合成，另一列用于暂存，将杂乱
+    堆叠控制在局部，避免大范围堆成乱石堆，导致高点数骰子无法靠近。  
+2.  **为连锁反应做铺垫：** 在同一区域预先摆好多组相同点数的骰子，让一次合成就能触发连锁
+    反应，多次连续合成不仅能迅速提高数值，还能清出大量空间。  
+3.  **管理高点数位置：** 不要把刚合成出的高点数骰子扔到完全孤立的角落。尽量让它们附近保
+    持有潜在同点数邻居的空间，确保未来还能继续向上合成。  
+4.  **驯服物理效果：** 投放骰子时尽量选择较低的落差与温和的入射角度，避免骰子在容器中四
+    处乱弹导致意外合成或堵塞通道。让骰子完全“站稳”后再投下一枚，会比连续高空乱扔稳定得
+    多。  
+5.  **危局时先求活路再求极限连锁：** 当堆叠高度接近上限时，与其再贪心构思完美连锁，不如
+    优先利用手上可做的安全合成快速清出空间，保证还能继续游戏。  
 
 ### Controls Guide
 
-- Aim/Place: Move cursor or drag to choose drop position; some versions allow rotation.
-- Drop/Confirm: Click/tap to release the die.
-- Undo/Retry (if available): Limited undos may exist; use them to rescue misdrops.
+- **瞄准/放置：** 使用鼠标移动光标或拖动来选择骰子下落的位置，部分版本支持调整投放角度或
+  旋转视角。  
+- **投放骰子：** 点击/轻触确认，将当前骰子释放到对应位置。  
+- **撤销/重来（若支持）：** 部分版本提供有限次数的撤销，可用于挽救误投；也可选择重开新
+  局。  
 
 ### Frequently Asked Questions (FAQ)
 
-- How do dice merge? Identical values touching merge into the next value (e.g., two 8s become a 16).
-- I keep causing accidental merges—how to stop? Reduce drop height, wait for full settle, and avoid diagonal ricochets.
-- Is there an end? The game ends when no legal placements remain or the container overflows; aim to reach 2048 or beyond.
+- **Q: 骰子是如何合成的？**  
+  **A：** 当两个或更多相同点数的骰子接触时，就会自动合成并生成点数更高的单一骰子，例如两
+  个 8 会变成一个 16。  
 
+- **Q: 总是出现意外合成怎么办？**  
+  **A：** 说明落点高度过高或入射角度过激，建议降低投放高度，等骰子完全稳定后再继续操作，
+  同时尽量避免让骰子在斜坡或边缘处发生“斜向反弹”。  
+
+- **Q: 游戏什么时候结束？**  
+  **A：** 当容器被填满、再也没有合适安全落点时，游戏就会结束。你的目标是在此之前尽量向
+  2048 或更高数值推进，同时刷新自己的最高分。  

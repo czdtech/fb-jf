@@ -1,80 +1,47 @@
 ---
-locale: ja
-urlstr: smarty-bubbles
-title: '[JA TRANSLATION NEEDED] Smarty Bubbles'
-description: >-
-  [JA TRANSLATION NEEDED] A classic and colorful bubble shooter experience. Aim
-  your cannon, match three or more bubbles of the same color to pop them, and
-  clear the board before the bubbles reach the bottom!
-iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
+title: Smarty Bubbles
+description: Smarty Bubblesはクラシックなバブルシューターです。色をマッチし、バブルをポップし、ボードをクリアし、パズルレベルをマスターします。
+iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/smarty-bubbles.png
+urlstr: smarty-bubbles
+score: 4.3/5  (2567 votes)
 tags:
-  - shooting
   - puzzle
   - casual
-score: 4.3/5  (2200 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Smarty Bubblesは、クラシックなバブルシューターパズルゲームです。画面の上部からバブルを発射し、同じ色を3つ以上マッチしてポップさせ、各レベルのボードを完全にクリアします。
 
-[JA TRANSLATION NEEDED] Smarty Bubbles is a polished and highly addictive bubble shooter game that offers a pure, classic experience. The objective is to clear the entire board of colorful bubbles by shooting and matching them. Aim your cannon, fire a bubble, and if you connect three or more of the same color, they will pop! The game challenges you to clear the board efficiently, as missed shots will cause the ceiling to drop, adding a layer of pressure to this relaxing puzzle.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **狙いを計画:" 壁からのバウンスショットを使用します。
+2.  **大きなグループ:" より多いバブル = より多いポイント。
+3.  **トップダウン:" 上部のバブルを落としてより多くをクリアします。
+4.  **次の色:" 次のバブルの色を常に確認します。
+5.  **移動を節約:" 効率的にプレイしてより良いスコア。
 
-[JA TRANSLATION NEEDED] 1.  **Avoid Misses:** This is the most critical rule in Smarty Bubbles. After a certain number of shots that don't result in a pop (a "miss"), a new row of bubbles will be added from the top. Keep an eye on the indicator (usually a row of grey bubbles) that shows how many misses you have left before a new row appears.
-[JA TRANSLATION NEEDED] 2.  **Aim for Clusters:** The most efficient way to clear the board is to aim for matches that are holding up other bubbles. Popping a high cluster can cause a large number of bubbles below it to fall, clearing the screen much faster and earning you more points.
-[JA TRANSLATION NEEDED] 3.  **Use the Walls:** Master the art of the bank shot. Bouncing bubbles off the side walls is essential for reaching difficult spots and setting up strategic matches that aren't possible with a direct shot.
-[JA TRANSLATION NEEDED] 4.  **Plan Ahead:** The game shows you which color bubble is coming up next. Use this information to plan your next one or two moves for maximum efficiency.
+### 操作ガイド
 
-### Controls Guide
+- マウス/タッチ：狙い、バブルをショットします。
+- 3つ以上の同じ色をマッチしてポップします。
+- ボードをクリアしてレベルを完了します。
 
-*   **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-    - **A:** You made too many non-popping shots (misses). After a set number of misses, the game adds a new row to increase the challenge. Try to make every shot count!（日本語訳が必要）
-    - **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.（日本語訳が必要）
-    - **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.（日本語訳が必要）
-    - **A:** You made too many non-popping shots (misses). After a set number of misses, the game adds a new row to increase the challenge. Try to make every shot count!（日本語訳が必要）
-    - **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.（日本語訳が必要）
-    - **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.（日本語訳が必要）
-*   **Shoot:** Click the left mouse button to fire the bubble.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: Why did a new row of bubbles suddenly appear at the top?**
-[JA TRANSLATION NEEDED]     *   **A:** You made too many non-popping shots (misses). After a set number of misses, the game adds a new row to increase the challenge. Try to make every shot count!
-
-*   **Q: What is the goal of the game?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
-
-*   **Q: How do I get a high score?**
-
-
-
-
-
-
-
+- **Q: 移動に制限はありますか？**  
+  A: レベルによって異なります。一部には移動制限があります。
+    - **Q: パワーアップはありますか？**  
+  A: はい、爆弾、レインボーバブルなどの特別なバブル。
+- **Q: どれくらいのレベルがありますか？**  
 
     - **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
+
 - **Q: How do I get a high score?**
+
     - **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
-- **Q: What is the goal of the game?**
-    - **A:** You made too many non-popping shots (misses). After a set number of misses, the game adds a new row to increase the challenge. Try to make every shot count!
-- **Q: Why did a new row of bubbles suddenly appear at the top?**
-### よくある質問（FAQ）
-- **Shoot:** Click the left mouse button to fire the bubble.
-
-
-
-
-
-    - **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
-- **Q: How do I get a high score?**
-    - **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
-- **Q: What is the goal of the game?**
-    - **A:** You made too many non-popping shots (misses). After a set number of misses, the game adds a new row to increase the challenge. Try to make every shot count!
-[JA TRANSLATION NEEDED]     *   **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
-
+  A: オリジナルのSmarty Bubblesには多くのレベルがあります。

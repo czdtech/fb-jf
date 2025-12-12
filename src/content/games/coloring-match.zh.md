@@ -1,10 +1,11 @@
 ---
 locale: zh
 urlstr: coloring-match
-title: '[ZH TRANSLATION NEEDED] Coloring Match'
+title: "Coloring Match 调色匹配实验室"
 description: >-
-  [ZH TRANSLATION NEEDED] Coloring Match teaches color mixing — blend paints to
-  match targets, manage hue/saturation, and refine with small tweaks.
+  《Coloring Match 调色匹配实验室》是一款教你如何真正“玩懂颜色”的小游戏。通过混合颜
+  料、调整明度与饱和度，尽可能精确地还原目标色块，在不断尝试中提升自己的色感与调色
+  技巧。
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/coloring-match.jpg
 tags:
@@ -18,31 +19,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Coloring Match asks you to reproduce a target color by mixing primaries and adjusting brightness/saturation. Subtle differences matter: overshooting saturation or value can miss the goal even if the hue matches.
+《Coloring Match 调色匹配实验室》要求你通过混合基础色，并调整亮度（明度）与饱和度，
+来还原屏幕上给出的目标颜色。哪怕色相已经对上，只要亮度或饱和度偏差过大，也有可能
+被判定为不合格，因此细微差别同样十分关键。
+
+你会面对一系列目标色块，有的接近纯色，有的则是略带灰度或偏向某一色相的中间色。你
+需要通过拉动滑块或调整颜料比例，一点点逼近目标色，在“基本正确”的基础上再用精细微调
+来完成最后那一步。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Match hue first (color wheel), then adjust saturation and value.
-2.  [ZH TRANSLATION NEEDED] Make small changes near the target; big swings overshoot.
-3.  [ZH TRANSLATION NEEDED] Compare under the same lighting/background if the UI offers it.
-4.  [ZH TRANSLATION NEEDED] Use undo/reset when the mix gets muddy.
-5.  [ZH TRANSLATION NEEDED] Learn complementary pairs to neutralize tints.
+
+1.  **先锁定色相，再调明度与饱和度：** 最优步骤通常是先在色轮上找到与目标最接近的色
+    相区间，确认“颜色大方向”正确，再通过调低/调高饱和度与亮度，让颜色从“太亮/太灰”慢
+    慢贴近目标。
+2.  **接近目标时使用小幅调整：** 当你已经大致靠近目标色时，避免大幅度拉动滑块。此时
+    每一次微小调整都会带来可见差异，宜使用短距离、多次的小调整，慢慢把误差缩小到可
+    接受范围。
+3.  **在同一背景和光感下对比：** 如果界面允许更换展示背景，尽量在同一种背景颜色下对
+    比目标色和当前调制色，避免因为背景明暗不同产生视觉错觉。
+4.  **调色“糊掉”时及时重置：** 当你发现颜色已经变得又脏又灰、很难再从当前状态修正到
+    目标色时，适当使用重置功能从头来过，往往比在错误方向上修修补补更省时间。
+5.  **学习互补色中和技巧：** 当颜色整体偏向某一色相太多时，可以适量加入它的互补色，
+    让画面向灰色或棕色中和，再微调亮度与饱和度，往往比一味沿色轮旋转更快接近目标颜
+    色。
 
 ### Controls Guide
 
-- Drag sliders or mix paint amounts; preview updates live.
-- Confirm when your color matches the target within tolerance.
+- 通过拖动色相、饱和度与明度等滑块，或者在部分版本中调整颜料比例，来实时预览调色结
+  果。
+- 当你认为当前颜色已经足够接近目标时，点击确认按钮，由系统判断是否在容差范围内。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: Hue matches but still fails — why?
-  
-[ZH TRANSLATION NEEDED]   A: Saturation or value is off. Lower saturation to gray it out or raise value for brightness.
+- **Q: 看上去色相已经对了，但总是被判定失败，为什么？**  
+  **A：** 很可能是饱和度或明度不对。尝试降低饱和度让颜色更偏灰，或者提升亮度让颜色
+  更接近“高光”，你会发现即便色相不变，整体视觉感受也会发生明显变化。
 
-- Q: Any shortcut for brown/gray?
-  
-[ZH TRANSLATION NEEDED]   A: Mix complementary colors to neutralize toward brown/gray, then adjust value.
+- **Q: 有没有快速调出棕色或灰色的技巧？**  
+  **A：** 可以先用一对互补色（如红/绿、蓝/橙等）进行混合，使颜色向中性靠拢，形成偏棕
+  或偏灰的基底，再通过调整明度来做最后修饰，这比单纯在色轮上乱拖更高效。
 
-- Q: Do tiny tweaks matter?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — near the goal, use small slider nudges for precision.
-
+- **Q: 细微调整真的有那么重要吗？**  
+  **A：** 很重要。尤其是在系统判定标准较严格的关卡中，最后阶段往往需要通过极小幅度
+  的滑块移动来消除肉眼难以察觉的差异。耐心做几次微调，能明显提高一次通过的成功率。

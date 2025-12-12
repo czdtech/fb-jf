@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: cooking-mama
-title: '[KO] Cooking Mama: Mama Kills Animals'
+title: "Cooking Mama: Mama Kills Animals 쿠킹 마마 패러디"
 description: >-
-  [KO] Learn about 'Cooking Mama: Mama Kills Animals,' the shocking parody game
-  created by PETA. This guide explains its origin, satirical gameplay, and the
-  activist message behind it, distinguishing it from the official series.
+  동물권 단체 PETA가 제작한 충격적인 패러디 게임 'Cooking Mama: Mama Kills
+  Animals'를 소개합니다. 게임의 탄생 배경과 풍자적인 연출, 공식 시리즈와의 차이,
+  그리고 담긴 동물 보호 메시지를 정리한 가이드입니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/cooking-mama.jpg
 tags:
@@ -15,42 +15,68 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **게임 소개**
 
+이 작품은 **공식 `Cooking Mama` 시리즈가 아닙니다.**  
+*Cooking Mama: Mama Kills Animals*는 동물권 단체 PETA가 제작한 무료 브라우저용
+패러디 게임으로, 고기를 사용하는 레시피가 많은 공식 *Cooking Mama* 시리즈를
+풍자하고 비판하기 위해 만들어졌습니다.
 
+겉모습은 귀엽고 밝은 색감, 간단한 미니게임 구조 등 공식 시리즈와 매우 비슷하지만,
+실제로는 잔혹한 도살 과정을 직접 조작하게 만드는 내용입니다. 예를 들어 칠면조
+요리 단계에서는 깃털을 강제로 뽑고, 사지를 절단하고, 내장을 꺼내는 등 매우
+선혈이 낭자한 연출이 이어집니다.
 
-### **Game Introduction**
+게임의 핵심은 웃는 얼굴의 “마마” 캐릭터와 그가 수행하는 잔혹한 행동 사이의 극단적인
+대조입니다. 이 게임의 목적은 재미가 아니라 **충격을 통해 채식 메시지를 전달**하는
+것입니다. 모든 도살 과정을 마치고 나면 마마의 눈에는 눈물이 고이고, 다시는 고기를
+요리하지 않겠다며 두부로 만든 칠면조 대체 요리인 토퍼키(Tofurkey)를 만들기 시작합니다.
 
-**This is NOT an official Cooking Mama game.** *Cooking Mama: Mama Kills Animals* is a free, browser-based parody game created by the animal rights organization PETA. It was designed to be a satirical critique of the official *Cooking Mama* series, which features recipes containing meat.
+### **플레이 흐름 및 팁**
 
-The game co-opts the cheerful art style and mini-game structure of the official series but twists it into a gruesome and graphic experience. Instead of lovingly preparing ingredients, the player is forced to perform brutal acts of animal slaughter. For example, a turkey recipe involves violently plucking feathers, dismembering the bird, and removing its internal organs in a bloody fashion.
+이 게임에는 일반적인 의미의 “공략법”은 거의 없습니다. 스테이지 구성이 선형적이고,
+창작자가 의도한 순서대로 내용을 끝까지 보는 것이 유일한 목표에 가깝습니다.
 
-The core of the game is the stark contrast between the cute, smiling "Mama" character and the horrific actions she is performing. The goal is not entertainment, but to shock the player and deliver a strong pro-vegetarian message. After completing the gory preparation of a turkey, Mama's eyes well up with tears, and she declares she will never cook meat again, proceeding to make a Tofurkey (a tofu-based turkey substitute) instead.
+1. **의도를 이해하고 플레이하기**  
+   이 게임은 순수한 오락용이 아니라, 디지털 행동주의(digital activism)의 한 형태입니다.
+   일부러 불쾌하고 잔인하게 느껴지도록 설계되어 있다는 점을 알고 시작하는 것이 좋습니다.  
+2. **화면에 표시되는 지시 따르기**  
+   난이도는 매우 낮습니다. 깃털을 뽑거나, 동물의 특정 부위를 자르는 등 해야 할 행동을
+   화면에 화살표와 함께 친절하게 보여 줍니다. 마우스로 클릭하고 드래그하는 정도만
+   익히면 충분합니다. 복잡한 조작이나 숨겨진 시스템은 없습니다.  
+3. **엔딩까지 끝까지 진행하기**  
+   점수 시스템도 없고, 진행이 막힐 정도로 “실패”하는 경우도 거의 없습니다. 창작자가
+   전하려는 메시지를 온전히 보기 위해서는 마지막 토퍼키 장면까지 끝까지 플레이하는
+   것이 좋습니다.
 
-### **Gameplay Strategy & Tips**
+### **조작 방법**
 
-There is no real "strategy" to win this game in a traditional sense, as it is a linear, message-driven experience. The goal is to complete the sequence of events as intended by its creators.
+이 게임은 원래 플래시 기반 브라우저 게임이었으며, 조작은 매우 단순한 마우스 입력만
+사용합니다.
 
-1.  **[KO]** **Understand the Purpose**: The primary "tip" is to understand that you are not playing a game for fun. You are interacting with a piece of digital activism. The gameplay is intentionally unpleasant.
-2.  **[KO]** **Follow On-Screen Instructions**: The game is very simple. It will explicitly show you what to do, such as clicking and dragging with the mouse to pluck feathers or cut parts of the animal. There are no complex mechanics to learn.
-3.  **[KO]** **Complete the Narrative**: The only objective is to get through all the gruesome steps to see the final message. There is no scoring system or way to "fail" a step that would stop your progress. The game ensures you see its complete narrative arc.
+* **마우스 클릭 및 드래그**: 깃털을 뽑고, 칼질을 하고, 재료를 옮기는 대부분의 행동은
+  대상에 마우스를 클릭한 뒤 화살표가 가리키는 방향으로 드래그하는 방식으로 진행됩니다.
 
-### **Controls Guide**
+### **자주 묻는 질문(FAQ)**
 
-The game was originally a Flash-based browser game and uses very simple mouse controls.
+**1. 이게 진짜 `Cooking Mama` 공식 게임인가요?**  
+전혀 아닙니다. 이 게임은 공식 시리즈에서 고기 요리가 많이 등장하는 점을 비판하기 위해
+동물권 단체 PETA가 만든 패러디 작품입니다. `Cooking Mama` 프랜차이즈나 공식 개발사와는
+아무런 관계가 없습니다.
 
-*   **[KO]** **Mouse Click and Drag**: Most actions, such as plucking, cutting, and moving items, are performed by clicking on an object and dragging the mouse in the direction indicated by on-screen arrows or guides.
+**2. 왜 이렇게 폭력적이고 잔인하게 표현되나요?**  
+이 역시 의도적인 연출입니다. PETA는 공식 게임 속 “즐겁고 깨끗한 요리” 이미지와, 실제
+육류 생산 과정의 잔혹함 사이의 간극을 극대화하기 위해 쇼크 연출을 사용했습니다. 플레이어가
+불편함을 느끼고 “내 음식이 어디서 오는가?”를 고민해 보게 만드는 것이 목표입니다.
 
-### **Frequently Asked Questions (FAQ)**
+**3. 공식 시리즈에도 채식 중심의 게임이 있나요?**  
+네. 이 패러디와 팬들의 다양한 의견 이후, 공식 측에서는 *Gardening Mama*나
+*Cooking Mama: World Kitchen*처럼 채식 레시피나 채소 위주의 모드를 더 많이 포함한
+작품을 선보이기도 했습니다.
 
-**1. Is this a real, official Cooking Mama game?**
-No, absolutely not. It is a parody created by the animal rights organization PETA to protest the use of meat in the official games. It is not affiliated in any way with the official franchise or its developers.
-
-**2. Why is this game so violent and graphic?**
-The graphic nature is intentional. PETA used shock value to contrast the sanitized, happy portrayal of cooking in the official games with what they present as the violent reality of meat preparation. The goal is to make the player feel uncomfortable and question the source of their food.
-
-**3. Is there an official vegetarian Cooking Mama game?**
-Yes. Partly in response to this parody and general feedback, the official developers later released titles like *Gardening Mama* and *Cooking Mama: World Kitchen*, which included more vegetarian recipes or modes.
-
-**4. Where can I play this game?**
-It was originally a free game on PETA's website. As it was built on Adobe Flash, which is now discontinued, it may be difficult to play on modern browsers. It might be accessible through Flash preservation projects or archives like the Internet Archive's Software Library.
+**4. 이 게임은 어디서 플레이할 수 있나요?**  
+원래는 PETA 공식 웹사이트에서 무료로 제공되던 플래시 게임이었습니다. 다만 이제는
+Adobe Flash가 지원 종료되어 최신 브라우저에서는 직접 실행하기 어렵습니다. 인터넷
+아카이브(Internet Archive) 같은 보존 프로젝트나 플래시 에뮬레이터를 통해서만
+접속 가능한 경우가 많습니다.
 

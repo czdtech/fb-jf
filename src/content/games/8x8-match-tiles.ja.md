@@ -1,40 +1,35 @@
 ---
+title: "8x8 Match Tiles"
+description: "8x8 Match Tilesはクリーンなタイルマッチャーです。同じタイルをペアにし、ボードをクリアし、限られたスペースを考慮して計画しましょう。"
+iframeSrc: "https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/"
+thumbnail: "/new-images/8x8-match-tiles.jpg"
+urlstr: "8x8-match-tiles"
+score: "3.9/5  (1716 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: 8x8-match-tiles
-title: '[JA TRANSLATION NEEDED] 8x8 Match Tiles'
-description: >-
-  [JA TRANSLATION NEEDED] 8x8 Match Tiles is a clean tile matcher — pair
-  identical tiles, clear boards, and plan around limited space.
-iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
-thumbnail: /new-images/8x8-match-tiles.jpg
-tags:
-  - puzzle
-  - thinky
-score: 3.9/5  (1716 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+8x8 Match Tilesは、8×8グリッド上の整然としたペアリングパズルです。移動または時間制限の下で同じタイルをマッチさせ、ボードスペースを管理し、マッチできない単独タイルを閉じ込めないようにしましょう。
 
-[JA TRANSLATION NEEDED] 8x8 Match Tiles is a tidy pairing puzzle on an 8×8 grid. Match identical tiles under move or time constraints, manage board space, and avoid trapping unmatchable singles.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
-
-1.  [JA TRANSLATION NEEDED] Open lanes: Keep paths clear to expose deeper tiles.
-2.  [JA TRANSLATION NEEDED] Prioritize scarce tiles before they clog the board.
-3.  [JA TRANSLATION NEEDED] Chain clears from the bottom to trigger reveals.
-4.  [JA TRANSLATION NEEDED] Avoid isolating singles near corners.
-5.  [JA TRANSLATION NEEDED] Use hints sparingly if available.
+1.  **レーンを開く:** より深いタイルを露出させるために、パスをクリアに保ちましょう。
+2.  ボードを詰まらせる前に、希少なタイルを優先しましょう。
+3.  下からチェーンクリアをして、タイルの表示をトリガーしましょう。
+4.  角の近くで単独タイルを孤立させないようにしましょう。
+5.  利用可能な場合、ヒントは控えめに使用しましょう。
 
 ### 操作ガイド
 
-- モードルールに従ってクリック/タップでペアを選択します。
-- 元に戻す/リセット（含まれている場合）。
+- モードルールに従って、クリック/タップでペアを選択します。
+- 含まれている場合は、元に戻す/リセットを使用します。
 
-### よくある質問（FAQ）
+### よくある質問 (FAQ)
 
-- No moves left—restart? Often yes; plan openings differently.
-- Timed or moves? Modes vary; play accordingly.
-- Shuffle? Some versions offer shuffles; save for emergencies.
-
+- **Q: 動きがなくなりました。再起動しますか？** A: 多くの場合、はい。開き方を違う方法で計画しましょう。
+- **Q: 時間制か移動制ですか？** A: モードによって異なります。それに応じてプレイしましょう。
+- **Q: シャッフルはありますか？** A: 一部のバージョンではシャッフルが提供されています。緊急時のために取っておきましょう。

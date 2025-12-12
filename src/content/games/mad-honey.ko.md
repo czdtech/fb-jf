@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mad-honey
-title: '[KO] Mad Honey'
+title: "Mad Honey 매드 허니"
 description: >-
-  [KO] Mad Honey is a bite‑size arcade adventure — collect nectar, dodge
-  hazards, and return safely to the hive.
+  Mad Honey는 꿀을 모으고 위험을 피하며 벌집으로 무사히 돌아가는 짧은 아케이드
+  어드벤처 게임입니다.
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/mad-honey.png
 tags:
@@ -16,29 +16,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Mad Honey*는 간단한 적과 환경 장애물을 피해 날아다니며 꿀을 모으고, 다시 벌집으로
+무사히 돌아와 점수를 쌓는 짧은 아케이드 어드벤처입니다. 각 스테이지는 섬세한 비행
+루트 설계와 순찰하는 적 사이를 통과하는 타이밍, 안전한 귀환을 중심으로 구성되어
+있습니다.
 
-### Detailed Game Introduction
+### 공략 & 플레이 팁
 
-Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar while avoiding simple enemies and environmental hazards. Levels emphasize careful flight paths, timing through patrols, and safe returns to score.
+1. 루트 설계: 실제로 이동하기 전에 꿀이 몰려 있는 구역과 적의 순찰 경로를 먼저
+   확인해 가장 안전한 동선을 계획하세요.
+2. 미세 조정: 좁은 틈을 지날 때는 방향키를 길게 누르기보다 짧게 톡톡 눌러 과하게
+   꺾이지 않도록 조심하세요.
+3. 분할 수집: 위험한 위치에 있는 꿀은 한 번에 모두 먹으려 하지 말고, 필요하다면 두 번
+   이상 나누어 들렀다가 안전하게 빠져나오세요.
+4. 타이머 관리: 제한 시간이나 운반 가능한 꿀의 최대량이 있다면, 너무 욕심내지 말고
+   일정량을 모을 때마다 벌집에 들렀다 오는 것이 안전합니다.
+5. 위험 vs 보상: 체력이 적거나 시간이 부족할 때는, 좁은 틈 사이의 꿀 몇 개는 과감히
+   포기하고 생존과 귀환을 우선하세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Plot routes: Identify nectar clusters and patrol paths before committing.
-2.  **[KO]** Small corrections: Feather movement to thread narrow gaps without oversteering.
-3.  **[KO]** Stagger pickups: Clear risky clusters in two passes if needed.
-4.  **[KO]** Watch timers: Deposit nectar regularly if a timer or carry limit exists.
-5.  **[KO]** Risk vs. reward: Skip tight pickups when low on time or health.
+- 이동: 방향키 / WASD 또는 터치 환경에서는 드래그 조작으로 벌을 움직입니다.
+- 상호작용: 꿀에 닿기만 해도 자동으로 수집됩니다.
+- 재시도: 빠른 재시작 버튼으로 깔끔한 기록을 노리며 여러 번 다시 도전할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Move: Arrow keys / WASD or analog drag.
-- Interact: Automatic pickups on contact.
-- Retry: Quick restart for clean runs.
+- Q: 적 공격이 너무 얄밉게 느껴지는데, 공략 팁이 있을까요?
 
-### Frequently Asked Questions (FAQ)
+  A: 각 적의 순찰 경로와 속도를 먼저 관찰한 뒤, 여유 있는 타이밍이 나올 때만 통과하는
+  것이 좋습니다. 좁은 틈을 억지로 비집고 지나가려 하면 오히려 연속해서 맞기 쉽습니다.
 
-- Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
-- Is there scoring depth? Longer chains and clean returns typically grant bonuses.
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
+- Q: 점수 시스템에 깊이가 있나요?
 
+  A: 많은 버전에서 연속해서 꿀을 모으거나, 한 번도 맞지 않고 벌집으로 돌아오면 추가
+  보너스를 부여합니다. 무리하지 않는 선에서 연속 수집과 무피격 귀환을 노려 보세요.
+
+- Q: 일부러 맞아 가며 진행해도 괜찮나요?
+
+  A: 대부분의 모드에서 체력 감소 패널티가 크거나, 몇 번만 맞아도 바로 실패 처리됩니다.
+  위험한 꿀 몇 개보다 캐릭터를 살려 두는 것이 훨씬 중요합니다.

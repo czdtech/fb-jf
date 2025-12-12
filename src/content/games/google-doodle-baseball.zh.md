@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: google-doodle-baseball
-title: '[ZH TRANSLATION NEEDED] Google Doodle Baseball'
+title: "Google Doodle Baseball 谷歌塗鴉棒球"
 description: >-
-  [ZH TRANSLATION NEEDED] Pick‑up batting game from Google’s 4th of July doodle:
-  time swings, aim for gaps, and rack up runs before outs.
+  改編自 Google 7 月 4 日節日塗鴉的輕量棒球遊戲：抓準揮棒時機，把球打向空檔，
+  在三個出局前盡量多得分。
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/google-doodle-baseball.jpg
 tags:
@@ -17,26 +17,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Google’s playful baseball doodle casts you as a batter facing varied pitches. Timing and placement determine singles, doubles, and home runs, while comedic fielders try to catch fly balls. There’s no fielding—focus purely on batting consistency and shot selection.
+
+這款來自 Google 趣味塗鴉的棒球小品，讓你扮演打者對抗各式各樣的投球。
+你只負責打擊，不用操心守備：一切得分都取決於揮棒時機與擊球落點。
+打出的一壘安打、二壘安打與全壘打會累積比分，而搞笑的守備員會試圖接殺你的飛球。
 
 ### How to Play
-- Watch the pitcher’s wind‑up and ball speed; swing when it crosses the plate.
-- Aim to pull or push based on timing; late swings send to opposite field.
-- Avoid pop‑ups; line drives find gaps more reliably.
+
+- 觀察投手投球前的預備動作與球速，待球接近本壘板時按鍵揮棒。
+- 透過早、晚揮棒的時機差來決定拉打或推打，晚一點揮通常會把球打向相反方向。
+- 盡量避免高飛球，平飛球與強勁滾地球更容易穿過守備形成安打。
 
 ### Controls
-- Tap/Click/Space to swing.
+
+- 輕觸螢幕、滑鼠點擊或空白鍵即可揮棒一次。
 
 ### Tips
-- Don’t pre‑swing—react to release and location.
-- Slightly late contact often yields opposite‑field hits past infielders.
-- Reset rhythm after a miss; rushing compounds errors.
+
+- 不要預先亂揮，盡量等投手出手後再看球路與進壘位置再決定是否出棒。
+- 稍微晚一點擊球，有助於把球打向反方向外野，常能躲開內野防線。
+- 被三振或打出糟糕球後，不要急著連按，先重整節奏再上下一球。
 
 ### FAQ
-- Q: How do I hit consistent home runs?  
-[ZH TRANSLATION NEEDED]   A: Meet the ball slightly out front at belt height; too high becomes an easy catch.
-- Q: Does pitch speed change during play?  
-[ZH TRANSLATION NEEDED]   A: Yes, speeds vary; adjust your trigger point.
-- Q: Is progress saved?  
-[ZH TRANSLATION NEEDED]   A: Scores are typically local to the session.
 
+- 問：怎樣比較容易打出全壘打？  
+  答：在腰部高度略微提前出棒，讓球在本壘板前一些被擊中，
+  若打得太高容易變成界外球或被外野手接殺。
+
+- 問：投球速度會改變嗎？  
+  答：會，投手會混合不同球速，你需要不斷調整自己的揮棒起動時機。
+
+- 問：成績會被記錄嗎？  
+  答：大多數版本只在本地記錄當前遊戲分數，關閉頁面後通常不會雲端保存。

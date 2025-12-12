@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: subway-jumper
-title: '[KO] Subway Jumper'
+title: 'Subway Jumper 서브웨이 점퍼'
 description: >-
-  [KO] Subway Jumper is a nimble runner — swap lanes, time hops/slides, and
-  maintain rhythm through dense metro hazards.
+  Subway Jumper는 지하철 선로 위 장애물을 피하며 달리는 3라인 러너 게임입니다.
+  레인을 바꾸고 점프·슬라이딩 타이밍을 맞춰 점점 빨라지는 지하철 구간을
+  오래 버텨 보세요.
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/subway-jumper.png
 tags:
@@ -16,30 +17,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Subway Jumper는 전형적인 3라인 러너 구조를 가진 러닝 게임입니다. 플레이어는
+레일 사이를 달리는 캐릭터를 조종해, 기차와 콘, 각종 바리케이드 등을 피해
+앞으로 나아가야 합니다. 화면을 스와이프하거나 키보드로 레인을 바꾸고,
+점프와 슬라이딩으로 다양한 높이의 장애물을 넘나드는 것이 핵심입니다.
+동전과 파워업은 위험한 루트에 배치되는 경우가 많아, 욕심을 부리면 오히려
+빨리 끝나기 쉽습니다.
 
-Subway Jumper plays like a classic three‑lane runner: trains, cones, and barriers demand late jumps and decisive slides. Coins and power‑ups tempt risky lines; consistency earns longer streaks and better scores.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **시야를 멀리 두기:**
+    발밑만 보지 말고 항상 앞쪽 두 개 장애물까지 함께 보면서 움직이면,
+    갑작스러운 장애물에도 여유 있게 대응할 수 있습니다.
+2.  **점프·슬라이드 구분:**
+    낮은 장애물이나 틈은 늦게 점프하는 식으로 넘고, 상단 바나 낮은 터널은
+    슬라이드로 통과해야 합니다.
+3.  **애매한 동전은 포기:**
+    레인 정렬이 좋지 않은데 무리해서 옆 레인의 동전을 먹으려 하면
+    장애물과 부딪힐 확률이 크게 올라갑니다. 위험한 동전은 과감히 포기하세요.
+4.  **파워업 효율 사용:**
+    방패, 자석 같은 파워업은 장애물이 몰려 있는 구간에서 쓸 때 가장
+    효율이 좋습니다. 비교적 한가한 구간에서는 아껴 두는 편이 좋습니다.
+5.  **실수 후 리듬 재정비:**
+    아슬아슬하게 피한 직후에는 손이 급해지기 쉽습니다. 잠깐 호흡을 고르고
+    다시 일정한 리듬으로 입력하는 것이, 곧바로 속도를 높이는 것보다 안전합니다.
 
-1.  **[KO]** Eyes up two obstacles; don’t stare at your feet.
-2.  **[KO]** Late jumps for low hurdles; slides for bars and tunnels.
-3.  **[KO]** Skip side coins when alignment is off.
-4.  **[KO]** Use shields/magnets in dense sections only.
-5.  **[KO]** After a mistake, reset rhythm before speeding up.
+### 조작 방법 안내
 
-### Controls Guide
+- **레인 변경:** `A/D` 또는 `←/→` 키
+- **점프:** `Space` 또는 `↑` 키
+- **슬라이드:** `↓` 키
+- **파워업 사용:** 게임 내 표시된 단축키 또는 UI 버튼
 
-- A/D or Left/Right to switch lanes; Space/Up to jump; Down to slide; power‑ups via keys.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 자꾸 장애물 모서리에 걸려요.**
 
-- Q: I clip barriers often.
+  A: 점프 타이밍이 너무 빠른 경우가 많습니다. 장애물 직전까지 조금 더
+  끌어 주고, 통과 후에는 중앙 레인으로 바로 복귀하는 습관을 들이면 좋습니다.
 
-A: Jump a touch later and center after passes.
+- **Q: 속도를 조절할 수 있나요?**
 
-- Q: Is speed adjustable?
-
-A: Many builds ramp speed automatically; focus on clean inputs.
-
+  A: 많은 버전에서 속도는 자동으로 서서히 빨라집니다. 속도 자체보다,
+  입력 타이밍을 일정하게 유지하는 것에 집중하는 편이 도움이 됩니다.

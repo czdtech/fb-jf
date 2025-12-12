@@ -1,49 +1,62 @@
 ---
 locale: zh
 urlstr: bricks-breaker-crush
-title: '[ZH TRANSLATION NEEDED] Bricks Breaker Crush'
+title: Bricks Breaker Crush 方块消消打砖块
 description: >-
-  [ZH TRANSLATION NEEDED] Bricks Breaker Crush showers bricks to shatter — aim
-  volleys, stack multipliers, and carve optimal angles through dense fields.
-iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
-thumbnail: /new-images/bricks-breaker-crush.png
+  《Bricks Breaker Crush》是一款带“弹道射击”玩法的打砖块游戏，发射一串小球反弹击碎数字砖块，利用角度与反弹
+  路线尽量在砖块到达底线前清场。
+iframeSrc: 'https://bricksbreakercrush.h5games.usercontent.goog/v/60l6g3505ev78/'
+thumbnail: /new-images/bricks-breaker-crush.jpg
 tags:
   - puzzle
-  - thinky
   - casual
-score: 4.0/5  (1906 votes)
+score: 4.5/5  (2650 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Bricks Breaker Crush fires barrages of balls that ricochet through numbered bricks. Your aim sets the initial trajectory; bricks count down as they’re hit. Mastery is about shaping long ricochet paths, multiplying contacts per volley, and preventing walls from reaching the bottom.
+*Bricks Breaker Crush* 采用了近年流行的“多球弹道消除”玩法：每一回合你可以从屏幕下方发射一串小球，它们会在场内不断弹射，遇到带数字的砖块时每次命中都会让数字减一，数字归零则代表该砖块被彻底击碎。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Shallow angles: Start at modest angles to maximize side‑to‑side hits.
-2.  [ZH TRANSLATION NEEDED] Target multipliers: Hit +ball pickups early to scale your volleys.
-3.  [ZH TRANSLATION NEEDED] Cut columns: Remove high‑value columns that threaten the bottom.
-4.  [ZH TRANSLATION NEEDED] Set traps: Build V‑shaped lanes so balls loop near the top for extended time on target.
-5.  [ZH TRANSLATION NEEDED] Emergency clears: When a row is critical, aim direct shots to neutralize it before it drops.
-6.  [ZH TRANSLATION NEEDED] Power‑ups: Save line clears for emergencies; chain with big volleys when possible.
+每一轮结束后，未被消除的砖块会整体下移一行，并可能在顶部刷新新的砖块。如果有任何砖块下移到屏幕底线，你就会失败。因此需要通过合理规划每一轮的发射角度和落点，尽量在砖块堆压到危险高度前提前清理。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Drag to aim; release to fire the volley.
-- Power‑ups trigger on catch or tap depending on the build.
+1.  **优先瞄准“高数字”砖块与关键列**  
+    数字越高的砖块越难处理，越有机会成为“压死骆驼的那一块”。在可能的情况下，尽量用一次发射多次命中这些高数字砖块，避免它们一路被拖到底线。
 
-### Frequently Asked Questions (FAQ)
+2.  **利用墙壁反弹制造长时间输出**  
+    与传统打砖块类似，将发射角度调得较平，让球先撞侧墙后再切入砖堆，可以让小球在狭窄通道里来回反弹，产生远超直射的多次命中。
 
-- Q: My shots feel too random—how do I get control?
+3.  **抓住“凹槽”和通道的机会**  
+    当砖堆中出现深凹形的通道时，尽量把球射进这些缝隙，让一串小球爬进内部后再缓慢弹出。这往往能对内部多块砖造成连续高频打击，是处理中后期高数字砖的关键手段。
+
+4.  **控制下移节奏，不要只看眼前一轮**  
+    有时与其一味追求“击碎一块”，不如优先消除某一整列或某一带，将整个砖墙整体高度压低。特别是靠近底部的砖块，一旦靠得太近，就很难再有余地调整角度。
+
+5.  **善用额外球与特殊砖块**  
+    关卡中常会出现带加号的小球图标，击中后会永久增加你每回合发射的小球数量；某些特殊砖块可以一次性清除一整行或一整列。优先为这些关键目标创造命中机会，可以让后续回合轻松许多。
+
+6.  **保留清场技能应对危急行**  
+    类似激光、线性清除等大招最好留到底线告急时再用；若能与一波大角度连击配合，往往能直接把危险区域整体清空。
+
+### 操作指南
+
+-   **瞄准发射：** 拖动屏幕下方的发射线调整方向与角度，松手后小球会沿该方向依次发射。  
+-   **回合刷新：** 当所有小球都落回底部后，本回合结束，砖块整体下移并生成新砖。  
+-   **暂停 / 重开：** 如界面提供相关按钮，可随时暂停或重新开始当前关卡。  
+
+### 常见问题解答（FAQ）
+
+- 问：砖块数字太高，感觉怎么打都打不完怎么办？
   
-[ZH TRANSLATION NEEDED]   A: Use modest angles and shape lanes that keep balls looping near the ceiling; avoid steep, chaotic caroms.
+  答：不要只盯着同一个位置“硬磨”，尝试寻找能让小球停留更久的通道和凹槽，一轮中多次命中同一块砖，效率会比简单直射高得多。
 
-- Q: What should I prioritize: +ball or clears?
+- 问：是优先打上面的砖还是下面的砖？
   
-[ZH TRANSLATION NEEDED]   A: Early +ball pickups snowball; in danger, clear critical columns first.
+  答：通常优先处理接近底线且数字较高的砖，以免它们迅速造成失败；在安全范围内，可以多考虑打掉关键连接砖，让整片区域的压力下降。
 
-- Q: The wall keeps dropping—any fix?
+- 问：怎样才能提升分数与通关稳定性？
   
-[ZH TRANSLATION NEEDED]   A: Stop building traps and fire surgical shots at the highest numbers near the bottom edge.
-
+  答：核心在于尽早获取更多小球数量、熟练掌握反弹角度，并时刻关注整体砖堆高度而不是某一两块砖。持续输出能力越强，后期容错越高。

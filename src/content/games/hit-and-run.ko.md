@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: hit-and-run
-title: '[KO] Hit and Run'
+title: "Hit and Run 히트 앤 런"
 description: >-
-  [KO] Unleash chaos on the streets in Hit and Run, an action-packed driving
-  game! Drive through cityscapes, cause mayhem by hitting objects and other
-  vehicles, and then escape from the authorities. Test your driving skills and
-  reflexes in this thrilling pursuit game.
+  Hit and Run은 도시를 질주하며 각종 물체와 차량을 들이받고, 경찰의 추격을 피해 도망치는
+  액션 드라이빙 게임입니다. 난장판을 만든 뒤 무사히 탈출할 수 있을까요?
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230911/07/index.html
 thumbnail: /new-images/hit-and-run.jpg
@@ -19,5 +17,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-<!-- [KO] Translation needed -->
+### 게임 소개
+
+*Hit and Run*에서는 플레이어가 자동차를 몰고 도시를 휘젓고 다니며, 도로 위의 오브젝트와
+다른 차량들을 들이받아 난동을 부리고, 그 뒤 경찰의 추격을 피해 도망쳐야 합니다.
+도심, 교외 등 다양한 배경을 질주하면서, 얼마나 큰 혼란을 일으키고 얼마나 오래
+버틸 수 있는지가 관건입니다.
+
+### 플레이 가이드
+
+- **주행 및 파괴:** 도로를 따라 달리며 가로수, 표지판, 다른 차량 등을 들이받아 점수를
+  올립니다.
+- **경찰 추격:** 일정 수준 이상의 혼란을 일으키면 경찰이 추격을 시작합니다. 급커브와
+  골목길을 이용해 시야에서 벗어나야 합니다.
+- **회피:** 교차로와 장애물 많은 구간에서는 속도를 조절해, 한 번에 크게 부딪혀 차량이
+  전복되지 않도록 주의해야 합니다.
+
+### 조작 방법
+
+- 방향키 또는 WASD로 차량을 조종하고, 가속/브레이크는 호스트 환경에 따라 별도의 키나
+  버튼으로 제공됩니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 계속 경찰에게 금방 잡혀요.**  
+  **A:** 직선 도로에서만 달리지 말고, 좁은 골목이나 복잡한 구간으로 유인해 시야를
+  끊는 것이 좋습니다. 급커브 전에는 미리 속도를 줄여 컨트롤을 잃지 않도록 하세요.
+
+- **Q: 점수를 빨리 올리려면 어떻게 해야 하나요?**  
+  **A:** 교통량이 많은 구간이나 오브젝트 밀집 지역을 중심으로 달리면 짧은 시간에
+  많은 파괴 점수를 얻을 수 있지만, 그만큼 위험도 올라가니 차량 상태를 항상
+  신경 써야 합니다.
+
 

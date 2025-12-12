@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: cat-sort-quest
-title: '[ES] Cat Sort Quest'
+title: "Cat Sort Quest"
 description: >-
-  [ES] Cat Sort Quest is a cozy color‑sorting puzzler — move cats between
-  perches, unify colors, and manage scarce buffers.
+  Cat Sort Quest es un acogedor puzle de ordenar por colores: mueve gatos entre
+  posaderos, agrupa colores y administra con cuidado los pocos huecos libres.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/cat-sort-quest.png
 tags:
@@ -16,36 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Cat Sort Quest adapta el popular formato de puzles de ordenar: cada posadero
+contiene una pila de gatos de distintos colores. Solo puedes mover el gato que
+está arriba del todo y colocarlo en un posadero vacío o en uno cuyo gato
+superior sea del mismo color. El objetivo es terminar con cada posadero
+conteniendo gatos de un solo color. Los pocos huecos libres hacen que el juego
+consista en gestionar huecos de reserva y pensar varios movimientos por adelantado.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Cat Sort Quest adapts the popular sort‑puzzle format: each perch holds a stack of cats in different colors. You may move only the top cat from a perch, and you can place it on an empty perch or one whose top cat matches the same color. The goal is to end with each perch holding a single color. Limited free perches make buffering and foresight essential.
+1.  **Mantén un hueco de reserva libre:** Intenta conservar al menos un posadero vacío el
+    mayor tiempo posible para poder rehacer pilas cuando lo necesites.
+2.  **Cierra colores pronto:** Completar un color que libera un posadero nuevo
+    crea un efecto bola de nieve y te da más margen de maniobra.
+3.  **No entierres colores únicos:** Evita enterrar gatos de colores poco
+    frecuentes bajo pilas muy mezcladas; te costará sacarlos después.
+4.  **Previsualiza dos pasos:** Antes de mover, imagina las dos siguientes
+    jugadas para no crear posiciones sin salida.
+5.  **Fusiona pilas parciales:** Si tienes varias pilas de un mismo color,
+    júntalas en cuanto puedas para liberar espacio.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Keep one buffer empty as long as possible to enable reshuffles.
-2.  **[ES]** Finish colors early when it frees another perch (snowball effect).
-3.  **[ES]** Surface singles: Don’t bury unique colors under mixed stacks.
-4.  **[ES]** Two‑step preview: Simulate next moves to avoid creating softlocks.
-5.  **[ES]** Merge partial stacks of the same color promptly to release space.
+- Toca un posadero para recoger el gato superior; toca el posadero de destino
+  para dejarlo, si el movimiento es legal.
+- Usa Deshacer/Reiniciar, si el juego lo permite; las pistas pueden ayudar en
+  niveles avanzados.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap a perch to pick up its top cat; tap a destination perch to place it if legal.
-- Undo/Reset if available; hints help on late puzzles.
+- **Me he quedado sin movimientos, ¿qué hago?**
 
-### Frequently Asked Questions (FAQ)
+  R: Deshaz unos cuantos pasos para recuperar un posadero libre. Céntrate en
+  sacar a la superficie los colores enterrados y en fusionar pilas del mismo
+  color.
 
-- Q: I’m out of moves — what now?
+- **¿Hay un orden óptimo para completar colores?**
 
-A: Undo a few steps to reopen a buffer. Focus on surfacing buried singles and merging partial stacks.
+  R: Prioriza los colores que, al completarse, te liberan un posadero extra y,
+  después, ataca las pilas mixtas más altas.
 
-- Q: Is there an optimal order to complete colors?
+- **¿Necesito hacer todos los movimientos perfectos?**
 
-A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
-
-- Q: Do I need every move perfect?
-
-A: No — quick backtracks and flexible buffers are more important than perfection.
-
+  R: No; es más importante deshacer rápido y usar bien los huecos de reserva que buscar la
+  solución perfecta a la primera.

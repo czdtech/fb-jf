@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: panenka-football
-title: '[KO] Panenka Football'
+title: "Panenka Football 파넨카 풋볼"
 description: >-
-  [KO] Panenka Football is a penalty craft — disguise intent, chip with touch,
-  and outguess keepers with audacious Panenkas.
+  대담한 파넨카 킥을 중심으로 펼쳐지는 승부차기 게임입니다. 골키퍼의
+  움직임을 읽어 칩슛과 코너 슈트를 섞어 사용하며 심리전을 즐겨 보세요.
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/panenka-football.png
 tags:
@@ -16,34 +16,66 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Panenka Football*은 골키퍼가 한쪽으로 다이빙할 때 골문 중앙으로
+살짝 들어 올려 차 넣는 유명한 킥, **파넨카(Panenka)**를 중심으로 한
+승부차기 게임입니다.
 
-Panenka Football focuses on the cheeky Panenka — a soft chip down the middle as the keeper dives. Mix chips with corners and height variations; success relies on late aim changes and reading keeper habits.
+플레이어는 상황에 따라 중앙 칩슛, 구석 강슛, 높낮이가 다른 슛을
+섞어 사용하며 골키퍼를 속여야 합니다. 반대로 골키퍼 입장에서는
+키커의 러닝 동작과 몸 방향을 읽어 어느 쪽으로, 어느 타이밍에
+다이빙할지 빠르게 판단해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+성공의 핵심은 단순한 파워가 아니라 **늦은 시점에서의 조준 변경**과
+상대 골키퍼의 습관을 읽는 심리전입니다.
 
-1.  **[KO]** Keeper read: If the keeper dives early, chip middle; if he holds, pick corners.
-2.  **[KO]** Height control: Low hard drives vs cautious keepers; soft chips vs aggressive ones.
-3.  **[KO]** Disguise: Delay final aim to avoid telegraphing; vary run‑up angles.
-4.  **[KO]** Rhythm: Don’t overuse Panenkas; rotate options.
-5.  **[KO]** Wind (if any): Offset shots slightly; keep chips low in strong wind.
+### 플레이 전략 & 공략
 
-### Controls Guide
+1. **골키퍼 성향 먼저 읽기**  
+   상대 골키퍼가 킥 순간 전에 자주 한쪽으로 빨리 뛰어 나간다면
+   중앙 파넨카 칩슛을 노릴 만한 좋은 타이밍입니다. 반대로 끝까지
+   서서 기다리는 타입이라면 구석을 향한 강슛이 더 안전합니다.
 
-- Aim with mouse/keys; set power/height; optional swerve via drag if supported.
+2. **높이 조절로 리스크 관리하기**  
+   조심스러운 골키퍼에게는 낮고 강한 땅볼 슛이 실점 위험을 줄여 줍니다.
+   반대로 과감하게 먼저 다이빙하는 골키퍼라면, 살짝 들어 올린
+   부드러운 칩슛이 가장 큰 효과를 냅니다.
 
-### Frequently Asked Questions (FAQ)
+3. **의도 위장하기**  
+   조준을 너무 일찍 고정해 두면 골키퍼에게 방향이 들키기 쉽습니다.
+   러닝을 시작한 뒤 마지막 한두 걸음에서 조준을 바꾸거나,
+   달려가는 각도 자체를 가볍게 바꿔 의도를 숨겨 보세요.
 
-- Q: My Panenkas get saved.
+4. **파넨카 남발은 금물**  
+   같은 패턴을 반복하면 골키퍼가 금방 알아차립니다. 파넨카는
+   결정적인 순간에만 쓰고, 평소에는 구석 강슛·중앙 낮은 슛 등
+   여러 옵션을 번갈아 사용해 패턴을 흔드는 것이 좋습니다.
 
-A: Use them only when the keeper dives early; otherwise go corners.
+5. **바람이 있을 때의 조정**  
+   일부 버전에서는 바람 방향과 세기가 슛 궤적에 영향을 줄 수
+   있습니다. 이런 경우, 바람이 부는 반대 방향으로 약간 조준을
+   보정하고, 칩슛은 너무 높게 띄우지 않도록 주의하세요.
 
-- Q: Best safe shot?
+### 조작 가이드
 
-A: Firm low corners; they demand perfect keeper timing.
+- **조준 및 슛**: 마우스나 방향키로 골문 내 목표 지점을 조준하고,
+  파워/높이를 설정한 뒤 슛을 시도합니다.  
+- **커브(지원되는 경우)**: 일부 빌드에서는 드래그로 슛 궤적에
+  커브를 줄 수 있습니다.
 
-- Q: How do I hide intent?
+### 자주 묻는 질문(FAQ)
 
-A: Change aim late and vary run‑up tempo.
+- **Q: 파넨카를 시도하면 자꾸 막혀요.**  
+  **A:** 파넨카는 골키퍼가 먼저 한쪽으로 크게 다이빙할 때 가장
+  효과적입니다. 키퍼가 끝까지 서 있는 타입이라면, 안전하게 구석을
+  노리는 슛으로 전환하는 것이 좋습니다.
 
+- **Q: 가장 안전한 기본 슛은 무엇인가요?**  
+  **A:** 일반적으로 골문 구석을 향한 낮고 강한 슛이 가장 안정적입니다.
+  골키퍼가 완벽한 타이밍으로 반응하지 않는 이상 막기 어렵습니다.
+
+- **Q: 슛 의도를 들키지 않으려면?**  
+  **A:** 마지막 두 발짝까지 조준을 너무 일찍 고정하지 말고,
+  러닝 속도와 각도를 가볍게 바꾸어 골키퍼가 방향을 예측하기
+  어렵게 만들어 보세요.

@@ -1,14 +1,10 @@
 ---
 locale: es
 urlstr: tap-tap-shots
-title: '[ES] Tap Tap Shots'
-description: >-
-  [ES] Test your timing and rhythm in Tap-Tap Shots, an addictive one-touch
-  basketball game. Tap to make the ball bounce and score as many consecutive
-  baskets as you can. Find your rhythm, aim for clean shots, and set the ball on
-  fire to achieve a high score!
-iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
-thumbnail: /new-images/tap-tap-shots.jpg
+title: "Tap Tap Shots - Tiros de baloncesto a un toque"
+description: "Pon a prueba tu ritmo y tu precisión en Tap Tap Shots, un adictivo juego de baloncesto de un solo toque. Haz botar la pelota con cada toque y encadena canastas consecutivas para disparar tu marcador. Encuentra tu ritmo, busca tiros limpios y prende fuego al balón para conseguir puntuaciones récord."
+iframeSrc: "https://ubg77.github.io/game131022/tap-tap-shots/"
+thumbnail: "/new-images/tap-tap-shots.jpg"
 tags:
   - sports
   - arcade
@@ -17,37 +13,35 @@ score: 4.9/5  (415 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+Tap Tap Shots es un juego de baloncesto arcade minimalista y muy adictivo. Tu objetivo es anotar tantas canastas seguidas como puedas tocando la pantalla para hacer que la pelota rebote hacia el aro. El desafío viene del movimiento del aro y de la presión del temporizador, por lo que necesitas un gran sentido del ritmo y del tiempo para mantener la racha.
 
-### Game Introduction
+### Guía de juego
 
-Tap-Tap Shots is a simple, minimalist, and highly addictive arcade basketball game. The goal is to score as many points as possible by tapping the screen to make the ball bounce into the hoop. The challenge comes from the moving hoop and the pressure of the shot clock, requiring perfect timing and a steady rhythm to succeed.
+- **Objetivo:** encadenar el mayor número posible de canastas consecutivas.
+- **Toques:** cada toque hace que la pelota salte; puedes tocar varias veces en el aire para ganar altura.
+- **Tiempo:** el éxito depende de tocar en el momento justo para dirigir la pelota hacia el aro.
+- **Combos:** anotar varias canastas seguidas hace que el balón se encienda en llamas y activa un multiplicador de puntuación. Los tiros limpios que no tocan el aro también otorgan puntos extra.
+- **Temporizador:** tras cada canasta el tiempo se reinicia, pero si fallas o dejas que el contador llegue a cero, la partida termina.
 
-### Gameplay Guide
+### Guía de controles
 
-- **Objective:** Score as many baskets in a row as you can.
-- **Tapping:** Each tap makes the ball jump. You can tap multiple times in the air to gain more height.
-- **Timing:** The key to scoring is to tap at the right moment to guide the ball into the hoop.
-- **Combos:** Scoring consecutive baskets will set the ball on fire, which activates a score multiplier for bonus points. Clean shots that don't touch the rim also award extra points.
-- **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
+Los controles son extremadamente sencillos:
+- **PC:** haz clic con el botón izquierdo del ratón o pulsa la `Barra espaciadora` para hacer botar la pelota.
+- **Móvil:** toca la pantalla.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The controls are extremely simple:
-- **PC:** `Left Mouse Button` or `Spacebar` to tap.
-- **Mobile:** Tap the screen.
+**¿Cómo consigo una puntuación alta?**
 
-### Frequently Asked Questions (FAQ)
+Intenta encontrar un ritmo constante y no te precipites. Prioriza los tiros limpios que no tocan el aro para ganar puntos extra y mantén la racha de encadenar canastas hasta poner el balón en llamas, lo que multiplicará tu puntuación.
 
-**How do I get a high score?**
+**¿Qué ocurre cuando el balón está en llamas?**
 
-Focus on finding a consistent rhythm. Don't rush your shots. Aim for "clean" shots (not touching the rim) to get bonus points and try to build up a combo to set the ball on fire for a score multiplier.
+Cuando el balón arde, significa que estás en una racha de combo. Cada canasta anotada en ese estado vale más puntos, así que intenta no fallar mientras dure.
 
-**What happens when the ball is on fire?**
+**¿Hay algún truco para apuntar mejor?**
 
-When the ball is on fire, you are in a combo streak. Every basket you score while the ball is on fire will be worth more points.
-
-**Is there a trick to aiming?**
-
-It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
+Todo se basa en el tiempo. Prueba a tocar cuando la pelota esté cerca del punto más alto de su salto o justo cuando empiece a bajar; así tendrás más control sobre la trayectoria hacia el aro.
 

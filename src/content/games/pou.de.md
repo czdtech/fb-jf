@@ -1,12 +1,11 @@
 ---
 locale: de
 urlstr: pou
-title: '[DE] Pou Game'
+title: Pou Game
 description: >-
-  [DE] Pou Game is a virtual pet simulation game where players adopt and care
-  for an alien pet named Pou. Players feed, clean, play with, and customize
-  their Pou, helping it grow and thrive while engaging in various mini-games and
-  activities.
+  Pou Game ist eine virtuelle Haustier-Simulation, in der du den kleinen
+  Alien-Freund Pou adoptierst, fütterst, badest, mit ihm spielst und ihn mit
+  Outfits und Dekos individualisierst – inklusive vieler Minispiele.
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/pou.jpg
@@ -19,35 +18,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Pou Game" ist eine virtuelle Haustier-Simulation. Du nimmst das
+ außerirdische Wesen Pou bei dir auf und sorgst dafür, dass es satt, sauber und
+ glücklich bleibt. Du fütterst es, bringst es ins Bad, lässt es schlafen und
+ spielst mit ihm. Zusätzlich kannst du Pou mit verschiedenen Outfits,
+ Accessoires und Raumdekorationen nach deinem Geschmack gestalten. Zahlreiche
+ Minispiele sorgen dafür, dass es nie langweilig wird und du nebenbei Münzen
+ verdienen kannst.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Grundbedürfnisse im Blick:** Achte auf Hunger, Hygiene, Energie und
+    Laune. Füttere Pou rechtzeitig, bade es, wenn es schmutzig ist, und lass es
+    schlafen, wenn es müde wird.
+2.  **Minispiele spielen:** Über die Minigames steigerst du nicht nur Pous
+    Zufriedenheit, sondern verdienst auch Münzen, mit denen du später Futter,
+    Kleidung und Deko kaufst.
+3.  **Individuelle Gestaltung:** Nutze deine Münzen, um neue Outfits,
+    Accessoires und Raumdesigns freizuschalten – so machst du deinen Pou
+    einzigartig.
+4.  **Neue Räume entdecken:** Im Verlauf schaltest du zusätzliche Räume und
+    Aktionen frei (z. B. Küche, Spielzimmer, Labor). Schau regelmäßig vorbei,
+    was es Neues gibt.
+5.  **Tägliche Routinen:** Kurze, regelmäßige Sessions reichen aus, um Pou
+    gesund zu halten – so sammelst du Stück für Stück Fortschritt.
 
-"Pou Game" is a virtual pet simulation game where players adopt and care for an alien pet named Pou. In the game, you need to feed Pou, clean it, play with it, and customize its appearance, helping it grow and stay healthy. The game also includes various mini-games and activities, allowing players to interact more with Pou and earn coins to buy items and decorations.
+### Steuerung
 
-### Gameplay Strategy
+*   **Icon-Leiste nutzen:** Über die Symbole am unteren Bildschirmrand
+    wechselst du zwischen Füttern, Waschen, Spielen, Schlafen u. a.
+*   **Ziehen & Tippen:** Ziehe Futter oder Seife auf Pou, tippe auf Objekte im
 
-1.  **[DE]** **Fulfill Basic Needs**: Timely feed, clean, and put Pou to sleep to maintain its hunger, hygiene, and energy levels.
-2.  **[DE]** **Play and Exercise**: Playing mini-games with Pou increases its happiness and earns coins. Regular exercise also helps maintain its health.
-3.  **[DE]** **Personalize Customization**: Use coins to buy various outfits, accessories, room decorations, and food to make your Pou unique.
-4.  **[DE]** **Explore and Interact**: Unlock and explore different areas to interact more with Pou and discover hidden fun.
-5.  **[DE]** **Earn Coins**: Earn coins by playing mini-games and completing daily tasks, which is key to purchasing items.
+- **Customize**: Tap the wardrobe or room icon to enter the customization interface, select and apply decorations.
 
-### How to Play
+- **Mini-games**: Tap the mini-game icon to enter the game list, select and start playing.
+    Zimmer oder starte Minispiele über die entsprechenden Icons.
 
-*   **[DE]** **Tap Icons**: Multiple icons at the bottom of the screen represent functions like feeding, cleaning, playing, and sleeping. Tap to enter the corresponding interface.
-*   **[DE]** **Drag Items**: In the feeding or cleaning interface, drag food or soap onto Pou to perform the action.
-*   **[DE]** **Mini-games**: Tap the mini-game icon to enter the game list, select and start playing.
-*   **[DE]** **Customize**: Tap the wardrobe or room icon to enter the customization interface, select and apply decorations.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: What should I do if Pou gets sick?**
-**A**: If Pou gets sick, you need to tap the medical room icon and buy the appropriate medicine to treat it. Ensuring Pou gets enough rest is also important.
-2.  **[DE]** **Q: How can I make Pou grow faster?**
-**A**: Pou will gradually grow and level up through continuous feeding, playing, and caring. Completing mini-games and tasks can also accelerate growth.
-3.  **[DE]** **Q: Do coins have any other uses besides buying items?**
-**A**: Coins are primarily used to purchase food, outfits, decorations, and medicine. In some versions, coins can also be used to unlock new mini-games or features.
-4.  **[DE]** **Q: Does the game require an internet connection?**
-**A**: The core gameplay of most Pou games can be played offline, but purchasing certain items, participating in online leaderboards, or updating the game may require an internet connection.
+1.  **F: Was mache ich, wenn Pou krank wird?**
+    **A:** Öffne den Arzt-/Medizinbereich, kaufe das passende Medikament und
+    gib es Pou. Ausreichend Schlaf hilft ebenfalls bei der Genesung.
+2.  **F: Wie wächst Pou schneller?**
+    **A:** Durch regelmäßiges Füttern, Spielen und Pflegen steigt Pous Level
+    mit der Zeit ganz von selbst. Minispiele und abgeschlossene Aufgaben können
+    das Tempo erhöhen.
+3.  **F: Wofür sind die Münzen gut?**
+    **A:** Du kaufst damit Futter, Kleidung, Deko und Medizin. In manchen
+    Versionen lassen sich auch zusätzliche Minispiele oder Features freischalten.
+4.  **F: Brauche ich eine Internetverbindung?**
+    **A:** Die Grundfunktionen laufen meist offline. Für Updates, Online-Ranglisten
+    oder bestimmte Shop-Inhalte kann jedoch eine Verbindung nötig sein.

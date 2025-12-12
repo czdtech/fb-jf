@@ -1,112 +1,44 @@
 ---
+title: "Jewel Magic Xmas"
+description: "Jewel Magic Xmasでホリデースピリットに入りましょう！クリスマスオーナメントをスワップしてパズルを解決し、陽気なレベルを完了するフェスティブなマッチ3パズルゲームです。"
+iframeSrc: "https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/"
+thumbnail: "/new-images/jewel-magic-xmas.png"
+urlstr: "jewel-magic-xmas"
+score: "4.4/5  (2200 votes)"
+tags: ["puzzle", "casual", "action"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: jewel-magic-xmas
-title: '[JA TRANSLATION NEEDED] Jewel Magic Xmas'
-description: >-
-  [JA TRANSLATION NEEDED] Get into the holiday spirit with Jewel Magic Xmas! A
-  festive match-3 puzzle game where you swap Christmas ornaments to solve
-  puzzles and complete cheerful levels.
-iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
-thumbnail: /new-images/jewel-magic-xmas.png
-tags:
-  - puzzle
-  - casual
-  - action
-score: 4.4/5  (2200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Jewel Magic Xmasは、クラシックなジュエルマッチング体験を楽しいクリスマステーマで包んだフェスティブで陽気なマッチ3パズルゲームです。プレイヤーは冬のワンダーランドにいることに気づき、カラフルなオーナメント、キャンディケイン、ベルをスワップします。目標は、3つ以上の同一のフェスティブアイテムをマッチしてレベル目標を完了し、強力なコンボを作成し、ホリデーチアを広げることです。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-- **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.（日本語訳が必要）
-The game is played with simple mouse or touch controls.（日本語訳が必要）
-[JA TRANSLATION NEEDED] Jewel Magic Xmas is a festive and cheerful match-3 puzzle game that wraps the classic jewel-matching experience in a delightful Christmas theme. Players will find themselves in a winter wonderland, swapping colorful ornaments, candy canes, and bells. The goal is to match three or more identical festive items to complete level objectives, create powerful combos, and spread the holiday cheer.
-- **Q: How do I break the frozen ice blocks?**（日本語訳が必要）
+1.  **フェスティブパワーアップ:** ボードをクリアする鍵は、3つ以上のオーナメントをマッチして特別なアイテムを作成することです。
+    *   **4つをマッチ:** 行または列全体をビ��ムするラインクリアオーナメントを作成します。
+    *   **5つをマッチ（LまたはT形）:** フェスティブなバーストで爆発し、周囲のアイテムをクリアするボムオーナメントを作成します。
+    *   **5つをマッチ（ライン）:** ボードから単一の色のすべてのアイテムをクリアできる特別なマルチカラーオーナメントを作成します。
 
-### Gameplay Strategy & Walkthrough
+2.  **ホリデーマジックのために組み合わせる:** 最大の効果のために、2つの特別なパワーアップを互いにスワップします。これにより、最も困難なパズルを解決するのに最適な、強力なボードクリアの組み合わせがトリガーされます。
+3.  **レベル目標に焦点を当てる:** 各レベルには、すべての雪のブロックをクリアしたり、プレゼントをボードの下部に落としたりするなど、ユニークな目標があります。ターンが尽きる前にこれらの目標を達成することに移動を集中させてください。
+4.  **下部から作業する:** ボードの下部近くでマッチを行うと、新しいアイテムが落ちて自動マッチが作成されるカスケードを作成でき、レベルをより効率的にクリアするのに役立ちます。
 
-[JA TRANSLATION NEEDED] 1.  **Festive Power-ups:** The key to clearing the board is creating special items by matching more than three ornaments.
-[JA TRANSLATION NEEDED]     *   **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
-[JA TRANSLATION NEEDED]     *   **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
-[JA TRANSLATION NEEDED]     *   **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 2.  **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
-[JA TRANSLATION NEEDED] 3.  **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
-[JA TRANSLATION NEEDED] 4.  **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+ゲームは、シンプルなマウスまたはタッチコントロールでプレイされます。
 
-### Controls Guide
+*   **オーナメントをスワップ:** オーナメントをクリックしてドラッグして隣接するものとスワップします。スワップは、有効なマッチが作成される場合にのみ機能します。
 
-[JA TRANSLATION NEEDED] The game is played with simple mouse or touch controls.
+### よくある質問 (FAQ)
 
-*   **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
+*   **Q: 凍った氷のブロックを壊すにはどうすればよいですか？**
+    *   **A:** 氷のブロックに隣接するマッチを行って壊す必要があります。一部は複数のマッチが必要な場合があります。
 
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
+*   **Q: 最高のコンボは何ですか？**
+    *   **A:** 「ラインで5つをマッチ」の特別なアイテムを2つ一緒にスワップすることは、ボードからすべてのアイテムをクリアするため、最も強力な移動です。
 
-    - **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.（日本語訳が必要）
-    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.（日本語訳が必要）
-- **Q: What is the best combo?**（日本語訳が必要）
-- **Q: What happens if I run out of moves?**（日本語訳が必要）
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.（日本語訳が必要）
-*   **Q: How do I break the frozen ice blocks?**
-[JA TRANSLATION NEEDED]     *   **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
-
-*   **Q: What is the best combo?**
-[JA TRANSLATION NEEDED]     *   **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
-
-*   **Q: What happens if I run out of moves?**
-[JA TRANSLATION NEEDED]     *   **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
-
-    - **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.（日本語訳が必要）
-    - **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.（日本語訳が必要）
-    - **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.（日本語訳が必要）
-### コントロール Guide
-
-
-
-
-
-
-
-
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
-- **Q: What is the best combo?**
-    - **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
-- **Q: How do I break the frozen ice blocks?**
-### よくある質問（FAQ）
-- **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
-The game is played with simple mouse or touch controls.
-
-
-
-
-
-
-
-
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
-- **Q: What is the best combo?**
-    - **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
-- **Q: How do I break the frozen ice blocks?**
-### よくある質問（FAQ）
-- **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
-
-
-
-
-
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
-- **Q: What is the best combo?**
-    - **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
+*   **Q: 移動がなくなった場合はどうなりますか？**
+    *   **A:** 移動制限内でレベルの目標を完了しない場合、レベルを再起動する必要があります。

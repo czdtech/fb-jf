@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: roll-this-ball-3
-title: '[FR] Roll This Ball'
-description: >-
-  [FR] A classic sliding puzzle that will test your logic. Slide the wooden
-  blocks to create a clear path for the ball to roll from the start to the goal.
+title: Roll This Ball
+description: "Un classique du puzzle coulissant qui mettra ta logique à l’épreuve\_: fais glisser les blocs en bois pour créer un chemin continu entre le départ et l’arrivée et laisser la bille rouler jusqu’au but."
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/roll-this-ball-3.png
 tags:
@@ -18,31 +16,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Roll This Ball is a classic and challenging sliding block puzzle designed to test your logic and planning skills. The game presents you with a grid of tiles, some of which are fixed in place, while others can be moved. Your goal is to slide the movable blocks to form a continuous, unbroken path for a ball to roll from its starting point to the goal. It's a simple concept with surprisingly deep and challenging puzzles.
+Roll This Ball est un puzzle de blocs coulissants classique et exigeant qui
+teste ta logique et ta capacité à planifier. Tu vois une grille de tuiles :
+certaines sont fixes, d’autres peuvent être déplacées. Ton objectif est de
+faire glisser les blocs mobiles pour former un chemin continu et sans
+rupture permettant à la bille de rouler du point de départ jusqu’au but.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** **Analyze the Path:** Before you start moving blocks, trace the potential path with your eyes. Identify the key pieces that need to connect the start and end points.
-2.  **[FR]** **Work Backwards:** Sometimes it's easier to solve the puzzle by working backwards from the goal tile. Figure out which piece needs to connect to the goal, then which piece needs to connect to that one, and so on, until you reach the start.
-3.  **[FR]** **Use Fixed Blocks as Anchors:** The blocks with rivets in them cannot be moved. Use these as fixed points in your path and build your solution around them.
-4.  **[FR]** **Aim for the Stars:** Many levels have a star rating. To get all three stars, you typically need to solve the puzzle in the minimum number of moves possible. This requires thinking efficiently and not making any unnecessary slides.
+1.  **Analyser le trajet :** avant de bouger le moindre bloc, trace
+    mentalement le chemin potentiel. Repère les pièces clés qui devront
+    relier le départ et l’arrivée.
+2.  **Remonter depuis le but :** il est parfois plus simple de partir de la
+    case arrivée, puis de déterminer quelle pièce doit s’y connecter, puis
+    la suivante, jusqu’à revenir au départ.
+3.  **Utiliser les blocs fixes comme ancres :** les blocs avec des rivets
+    ne peuvent pas être déplacés. Considère‑les comme des points d’ancrage
+    et construis ta solution autour d’eux.
+4.  **Viser les 3 étoiles :** de nombreux niveaux ont un système d’étoiles.
+    Pour obtenir les trois, tu devras souvent résoudre le puzzle avec un
+    nombre minimal de mouvements, ce qui demande d’éviter les glissements
+    inutiles.
 
-### Controls Guide
+### Commandes
 
-The game is played with simple drag-and-drop or sliding controls.
+Le jeu se joue avec des commandes de glisser‑déposer très simples.
 
-*   **[FR]** **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
+*   **Déplacer un bloc :** clique et fais glisser un bloc mobile vers une
+    case vide adjacente pour le faire coulisser.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.
+*   **Q : Quel est l’objectif du jeu ?**  
+    R : Créer un chemin continu et sans trou pour que la bille puisse
+    rouler du bloc de départ jusqu’au bloc d’arrivée.
 
-*   **[FR]** **Q: Why can't I move a specific block?**
-    *   **[FR]** **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
+    - **Q : Pourquoi je ne peux pas déplacer certains blocs ?**  
+    R : Les blocs avec des rivets métalliques sont fixés et ne peuvent pas
+    être bougés. Tu dois construire ton parcours en les contournant.
 
-*   **[FR]** **Q: I've made a path, but the ball isn't rolling. Why?**
-    *   **[FR]** **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
+*   **Q : J’ai tracé un chemin, mais la bille ne roule pas. Pourquoi ?**  
 
+    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
+
+- **Q: I've made a path, but the ball isn't rolling. Why?**
+
+    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
+    R : Vérifie que le trajet est vraiment continu : une petite ouverture
+    ou un bloc dans la mauvaise orientation suffit à casser le circuit.
+    Contrôle chaque connexion du départ jusqu’à l’arrivée.

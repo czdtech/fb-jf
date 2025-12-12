@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: clash-of-warriors
-title: '[DE] Clash of Warriors'
+title: "Clash of Warriors"
 description: >-
-  [DE] Clash of Warriors is a compact card battler — curve your plays, trade
-  efficiently, and outthink opponents.
+  Clash of Warriors ist ein kompakter Kartenbattler – nutze deine Manakurve
+  optimal, handle effizient und überliste deine Gegner mit cleveren Zügen.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/clash-of-warriors.png
 tags:
@@ -15,28 +15,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Clash of Warriors* destilliert Kartengefechte in kurze, taktische Runden. Du
+spielst Einheiten und Zauber aus, baust Zug um Zug Tempo auf und versuchst,
+mit effizienten Trades und gutem Ressourcenmanagement das Brett zu
+kontrollieren.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Clash of Warriors condenses card combat into short, tactical rounds. Build tempo with efficient plays, read enemy responses, and secure board control to win tight matches.
+1.  Kurve einhalten: Versuche, in jedem Zug deine verfügbaren Ressourcen (z. B.
+    Mana) möglichst vollständig auszunutzen. Lege früh günstige Karten, damit du
+    Tempo aufbauen kannst.
+2.  Effizient tauschen: Bevorzuge Züge, bei denen du gegnerische Bedrohungen
+    entfernst und gleichzeitig deine eigenen Karten auf dem Feld behältst oder
+    sogar im Vorteil bleibst.
+3.  Siegplan kennen: Entscheide früh, ob dein Deck eher aggressiv, tempo-
+    orientiert oder kontrolllastig spielt, und triff deine Entscheidungen im
+    Match konsequent entlang dieses Plans.
+4.  Tech-Karten einbauen: Wenn Deckbau möglich ist, nimm gezielt Antworten auf
+    häufige Problemkarten deiner Gegner auf – etwa Removal oder
+    Flächenzauber.
+5.  Starthand (Mulligan) optimieren: Halte nach einer geschmeidigen Kurve für
+    die ersten Runden Ausschau – zu teure Karten in der Starthand solltest du
+    meist abwerfen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Curve discipline: Spend all resources cleanly each turn.
-2.  **[DE]** Efficient trades: Favor lines that remove enemy threats while preserving yours.
-3.  **[DE]** Win conditions: Identify your path (aggro/tempo/control) and play to it.
-4.  **[DE]** Tech picks: Include answers to common threats if deckbuilding exists.
-5.  **[DE]** Mulligan (if any): Seek early curve pieces.
+- Spiele Karten per Klick oder Tap aus deiner Hand aufs Spielfeld.
+- Greife mit Einheiten über das UI an und beende Züge über den "End Turn"-
+  Button.
+- Halte den Mauszeiger über Karten bzw. tippe sie an, um ihre Effekte zu
+  lesen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Play cards by clicking/tapping; end turns via UI.
-- Hover/tap to inspect text.
+- Ist Zufall (RNG) entscheidend?
+  
+  Ziehglück spielt eine Rolle, aber in knappen Partien entscheiden vor allem
+  Linienwahl, Sequencing deiner Züge und das Verständnis deines Decks.
 
-### Frequently Asked Questions (FAQ)
+- Ist das Spiel Pay-to-Win?
+  
+  Browservarianten sind meist in sich abgeschlossene Erlebnisse ohne harte
+  Monetarisierung – dein Erfolg hängt primär von deinen Entscheidungen ab.
 
-- Is RNG decisive? Draws matter, but lines and sequencing win close games.
-- Pay‑to‑win? Browser versions are typically self‑contained.
-- Fast mode? Short matches suit quick sessions.
-
+- Eignet es sich für kurze Sessions?
+  
+  Ja, Partien sind in der Regel kurz und damit ideal für zwischendurch.

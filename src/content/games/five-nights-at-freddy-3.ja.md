@@ -1,42 +1,36 @@
 ---
+title: "Five Nights at Freddy's 3 (FNAF 3)"
+description: "システム管理型ホラー：オーディオでおとりを使ってスプリングトラップをおびき寄せ、カメラと通気口を監視し、故障したシステムを再起動して毎晩生き残りましょう。"
+iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnaf3.html"
+thumbnail: "/new-images/five-nights-at-freddy-3.jpg"
+urlstr: "five-nights-at-freddy-3"
+score: "3.8/5  (149 votes)"
+tags: ["horror", "strategy"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: five-nights-at-freddy-3
-title: '[JA TRANSLATION NEEDED] Five Nights at Freddy''s 3 (FNAF 3)'
-description: >-
-  [JA TRANSLATION NEEDED] System‑management horror: lure Springtrap with audio,
-  watch cameras/vents, and reboot failing systems to survive each night.
-iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
-thumbnail: /new-images/five-nights-at-freddy-3.jpg
-tags:
-  - horror
-  - strategy
-score: 3.8/5  (149 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+数年後のホラーアトラクションを舞台に、ファントムたちがシステムを妨害する中、スプリングトラップに立ち向かいます。カメラ、オーディオのルアー（おとり）、通気口を管理しましょう。
 
+### 遊び方
+- オーディオのルアーを使ってスプリングトラップを遠ざけましょう。クールダウン中に使いすぎないように注意してください。
+- 彼の通り道にある通気口を封鎖して、近道を塞ぎましょう。
+- エラーが発生したら、システム（ビデオ、オーディオ、換気）を再起動して制御を取り戻しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Set in a horror attraction years later, you face Springtrap while phantoms disrupt your systems. Manage cameras, audio lures, and ventilation.
+### 操作方法
+- マウス/UIでカメラ、オーディオ、通気口の封鎖、システムの再起動を行います。
 
-### How to Play
-- Use the audio lure to draw Springtrap away; avoid overusing it on cooldown.
-- Seal vents along his path to block shortcuts.
-- Reboot systems (video, audio, ventilation) when errors occur to restore control.
+### ヒント
+- スプリングトラップをオフィスから遠い部屋に留めておきましょう。一歩ずつおびき寄せます。
+- ファントムは気を散らす存在です。彼らを見つめないようにしましょう。遭遇してしまったら、すぐに回復して制御を立て直してください。
+- 換気エラーを優先しましょう。長い停電は失敗を招きます。
 
-### Controls
-- Mouse/UI for cameras, audio, vent seals, and system reboots.
-
-### Tips
-- Keep Springtrap in rooms far from your office; lure step‑by‑step.
-- Phantoms are distractions—avoid staring at them; recover and re‑establish control quickly.
-- Prioritize ventilation errors; long blackouts invite failures.
-
-### FAQ
-- Q: Why does the audio stop working during a lure?  
-[JA TRANSLATION NEEDED]   A: The audio system overheats or errors; reboot it from the maintenance panel.
-- Q: How do I prevent Springtrap from entering the office?  
-[JA TRANSLATION NEEDED]   A: Chain lures and pre‑emptively seal vents on his likely routes.
-- Q: Which system should I reboot first when multiple fail?  
-[JA TRANSLATION NEEDED]   A: Ventilation to stabilize view/effects, then video/audio as needed.
-
+### よくある質問 (FAQ)
+- **Q: ルアー中にオーディオが機能しなくなるのはなぜですか？**  
+  A: オーディオシステムが過熱またはエラーを起こしています。メンテナンスパネルから再起動してください。
+- **Q: スプリングトラップがオフィスに入るのを防ぐには？**  
+  A: ルアーを連鎖させ、彼の予想されるルート上の通気口を先回りして封鎖しましょう。
+- **Q: 複数のシステムが故障した場合、どれを最初に再起動すべきですか？**  
+  A: 視界と効果を安定させるために換気を優先し、その後必要に応じてビデオ/オーディオを再起動しましょう。

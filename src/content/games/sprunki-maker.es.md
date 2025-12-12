@@ -1,8 +1,11 @@
 ---
 locale: es
 urlstr: sprunki-maker
-title: '[ES] Sprunki Maker (BIG update) - Play Sprunki Maker (BIG update) Online'
-description: '[ES] Want to own a unique Sprunki character? Now'
+title: 'Sprunki Maker (BIG update) - Juega a Sprunki Maker (BIG update) online'
+description: >-
+  ¿Quieres tener un personaje Sprunki único? Sprunki Maker (BIG update) te
+  permite desatar tu imaginación y personalizar tu propio Sprunki de la cabeza
+  a los pies, creando el avatar que mejor te representa.
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
 thumbnail: /sprunki-maker.png
 tags:
@@ -12,24 +15,35 @@ score: 4.8/5  (700 votes)
 ---
 
 
+### Presentación de Sprunki Maker (BIG update)
 
-### Introducing to Sprunki Maker (BIG update)
-
-Want to own a unique Sprunki character? Now's your chance! Sprunki Maker allows you to unleash your imagination and customize your exclusive Sprunki from head to toe, creating a personalized character that best represents you!
+¿Quieres tener un personaje Sprunki totalmente único? Ahora es tu oportunidad.
+Sprunki Maker te permite desatar tu imaginación y personalizar tu Sprunki
+exclusivo de la cabeza a los pies, creando un personaje que refleja tu estilo
+al 100 %.
 
 ---
 
-### What's So Fun About Sprunki Maker?
+### ¿Qué hace tan divertido a Sprunki Maker?
 
-Simply put, Sprunki Maker is a Sprunki character creation platform that allows you to DIY to your heart's content. Here, you can say goodbye to uniformity and create a unique Sprunki character, leaving your mark in the world of Sprunki!
+En pocas palabras, Sprunki Maker es un editor de personajes Sprunki que te deja
+hacer «DIY» sin límites. Aquí se acabaron los personajes iguales: puedes crear
+un Sprunki irrepetible y dejar tu propia huella en el universo Sprunki.
 
-### Key Features of Sprunki Maker:
+### Funciones clave de Sprunki Maker
 
-- **Appearance Customization at Your Will:** Hairstyle, facial expressions, body shape, size - everything is under your control! What kind of Sprunki you want, you create!
-- **Dazzling Clothing Selection:** All kinds of clothing, accessories, and themed costumes are available! What you want your Sprunki to wear, it wears!
-- **The Power to Control Colors:** Take full control of colors and choose your favorite colors for every part of the character to create a unique color scheme!
+- **Personalización total de aspecto:** peinado, expresiones faciales, complexión
+  y tamaño… todo está bajo tu control. El tipo de Sprunki que quieres es el que
+  vas a crear.
+- **Armario lleno de opciones:** ropa de todo tipo, accesorios y trajes
+  temáticos; si quieres que tu Sprunki vista algo, aquí lo hará.
+- **Control absoluto del color:** elige tus tonos favoritos para cada parte del
+  personaje y crea combinaciones de colores que nadie más tendrá.
 
+### En una frase
 
-### Summary in One Sentence:
+Sprunki Maker te permite decir adiós a los personajes genéricos y crear un
+Sprunki verdaderamente tuyo. En el mundo de Sprunki, tu personaje lo decides
+tú. Entra en Sprunki Maker, libera tu creatividad y diseña el avatar que mejor
+te representa.
 
-Sprunki Maker allows you to say goodbye to uniformity and create a unique Sprunki character. In the world of Sprunki, your Sprunki is up to you! Come and join Sprunki Maker, unleash your creativity, and create a personalized character that best represents you!

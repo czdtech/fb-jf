@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: mahjong-connect-mission
-title: '[KO] Mahjong Connect : Mission'
+title: "Mahjong Connect : Mission 마작 커넥트 미션"
 description: >-
-  [KO] Mahjong Connect: Mission is a link‑pair mahjong — connect identical tiles
-  by paths with ≤2 turns, clear boards, and race timers.
+  Mahjong Connect: Mission은 같은 패를 최대 두 번까지만 꺾이는 선으로 이어 지워 나가는
+  마작 커넥트 퍼즐입니다. 제한 시간 안에 보드를 비우기 위해 잠금, 안개, 폭탄 같은
+  특수 타일을 우선적으로 관리해야 합니다.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/mahjong-connect-mission.png
 tags:
@@ -17,34 +18,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Mahjong Connect*는 클래식 마작 솔리테어와 달리, 같은 패를 단순히 나란히 찾는 것이
+아니라 최대 두 번까지만 꺾이는 경로로 이어 지워야 하는 연결형 퍼즐입니다. 경로는 다른
+타일을 가로질러 지나갈 수 없으며, 미션 모드에서는 잠긴 타일, 안개, 폭탄 등의 요소가
+추가되어 어떤 구역부터 정리할지에 따라 난이도가 크게 달라집니다.
 
-Mahjong Connect differs from classic mahjong solitaire: you must link matching tiles with a path that bends at most twice (i.e., ≤2 right‑angle turns) without crossing other tiles. Missions add locked tiles, fog, and bombs that require priority handling and clean board management.
+### 공략 & 플레이 팁
 
-### Gameplay Strategy & Walkthrough
+1. **가장자리부터 확인:** 유효한 경로는 보드의 가장자리와 모서리에서 가장 많이
+   생기므로, 우선 가장자리 라인에 있는 쌍을 먼저 찾아보세요.
+2. **통로 열기:** 한 쌍을 지웠을 때 중앙으로 통하는 통로나 넓은 빈 공간이 만들어지는지
+   확인하고, 보드를 크게 여는 매치부터 우선적으로 처리하는 것이 좋습니다.
+3. **회전 수 아끼기:** 가능한 한 직선 또는 한 번만 꺾이는 경로를 선택해 두세요.
+   이렇게 해야 나중에 복잡한 경로를 만들 수 있는 여유가 남습니다.
+4. **위험 요소 우선:** 폭탄이나 잠금 타일처럼 시간이 지나면 불리해지는 요소는 가능한
+   한 빨리 제거해, 중요한 통로가 막히지 않도록 관리하세요.
+5. **시간 관리:** 보드가 정체되어 더 이상 새로운 경로가 떠오르지 않을 때만 힌트나
+   셔플 기능을 사용해 시간을 아끼는 편이 좋습니다.
 
-1.  **[KO]** Edge hunting: Edges and corners yield the most legal paths — scan them first.
-2.  **[KO]** Pair pruning: Remove tiles that open corridors and expose the center.
-3.  **[KO]** Turn budgeting: Prefer straight or one‑turn paths to preserve options.
-4.  **[KO]** Hazard priority: Clear bombs/locks before they block vital lanes.
-5.  **[KO]** Time economy: Use hints only when the board stagnates.
+### 조작 방법
 
-### Controls Guide
+- 같은 그림의 타일 두 개를 차례로 클릭하면, 규칙에 맞는 경로가 존재할 때 그 쌍이
+  연결되어 사라집니다. 일부 버전에서는 UI에 힌트/섞기 버튼이 제공됩니다.
 
-- Click two identical tiles to connect if a legal path exists; hints/shuffles per UI.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 더 이상 연결할 수 있는 쌍이 안 보이면 게임이 끝인가요?
 
-- Q: No moves — is it over?
+  A: 셔플 기능이 허용된 모드라면 남은 타일을 섞어 새로운 경로를 만들 수 있습니다.
+  그렇지 않다면 초반에 막힌 길을 만들지 않도록 다시 시작해 다른 순서로 지워 보세요.
 
-A: Use shuffle if allowed; otherwise restart to avoid early dead lanes.
+- Q: 대각선으로도 연결이 되나요?
 
-- Q: Do diagonals connect?
+  A: 아니요. 상하좌우 직선과 직각으로 꺾이는 경로만 허용되며, 최대 두 번까지만
+  꺾을 수 있습니다.
 
-A: No — only orthogonal paths with up to two turns.
+- Q: 비슷한 그림 때문에 헷갈리는데, 어떻게 구분하면 좋을까요?
 
-- Q: Any symbol confusion tips?
-
-A: Learn suits and season/flower symbols; zoom helps on dense art.
-
+  A: 패의 문양 종류와 꽃/계절 패 아이콘에 익숙해지면 구분이 쉬워집니다. 타일이
+  촘촘한 스테이지에서는 확대 기능이 있다면 적극 활용해 보세요.

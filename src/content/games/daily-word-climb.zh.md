@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: daily-word-climb
-title: '[ZH TRANSLATION NEEDED] Daily Word Climb'
+title: Daily Word Climb 每日单词阶梯
 description: >-
-  [ZH TRANSLATION NEEDED] A daily word puzzle challenge! Swap letters on the
-  grid to form the correct words. Use the color clues to deduce the right
-  positions and solve the puzzle within the move limit.
+  《Daily Word Climb 每日单词阶梯》是一款每日更新的英文单词推理游戏。通过交换网格中
+  的字母，还原每一行的正确单词，并利用颜色提示在限定步数内解开谜题。
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
 thumbnail: /new-images/daily-word-climb.png
 tags:
@@ -19,31 +18,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Daily Word Climb is a clever and challenging word puzzle that provides a new brain-teaser every day. The goal is to unscramble a grid of letters to form correct words in each row. You do this by swapping letters one at a time. After each swap, the tiles change color to give you clues, helping you deduce the correct placement of each letter. With a limited number of moves, you must think strategically to solve the puzzle.
+《Daily Word Climb 每日单词阶梯》每天提供一盘新的单词推理网格。每一行原本都是一个完整
+的英文单词，但字母顺序被打乱，你需要通过一次次交换相邻或任意位置的字母，逐步把所有行
+恢复成正确单词。每次交换后，格子的颜色会发生变化，像逻辑线索一样告诉你“哪些字母放对
+了、哪些只对了一半、哪些完全不属于这一行”。在有限步数限制下，你必须有计划地利用每一
+次交换，才能顺利过关。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Understand the Color Clues:** The colors are your guide to solving the puzzle.
-    * [ZH TRANSLATION NEEDED] **Green:** The letter is in the correct word and in its final, correct position.
-    * [ZH TRANSLATION NEEDED] **Yellow:** The letter is in the word in that row, but it is currently in the wrong spot.
-    * [ZH TRANSLATION NEEDED] **White/Grey:** The letter does not belong in that row's word at all.
-2.  [ZH TRANSLATION NEEDED] **Focus on Green Letters:** Once a letter turns green, you know it's locked in place. Don't move it again! Use the green letters as anchors to help you figure out the rest of the word.
-3.  [ZH TRANSLATION NEEDED] **Use Yellow Letters to Deduce:** If you have a yellow letter, you know it belongs in that same row, just in a different position. Look for other yellow or white tiles in that row to swap it with.
-4.  [ZH TRANSLATION NEEDED] **Conserve Your Moves:** You only have a limited number of swaps for each puzzle. Try to make each move count. Avoid random swaps and think about which swap will give you the most information.
+
+1.  **先理解颜色含义：** 颜色是破题的核心线索：  
+    *   **绿色：** 该字母属于这一行的单词，且已经在最终正确位置上；  
+    *   **黄色：** 该字母属于这一行的单词，但目前位置不对；  
+    *   **白色/灰色：** 该字母不属于这一行的目标单词。  
+2.  **优先锁定绿色字母：** 一旦某个格子变绿，说明该字母位置已经正确，后续尽量不要再动
+    它。可以把这些绿色格子当作“固定锚点”，围绕它们推理其他字母的正确位置。  
+3.  **善用黄色信息：** 黄色字母说明“字对了位不对”。观察该行中哪些位置仍为空或是白色格
+    子，将黄色字母按可能的拼写规律在这些位置之间尝试交换，结合多轮颜色反馈逐渐锁定正
+    确位置。  
+4.  **谨慎使用交换次数：** 每关可用交换步数有限，避免毫无根据的随机交换。优先选择那些
+    能同时提供“信息增量”的操作——例如一次交换同时改变两三个字母的颜色状态，从而获得更
+    多线索。  
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game is played with simple clicks or taps.
+游戏操作非常直观：
 
-*   **Swap Letters:** Click on the first letter you want to move, and then click on the second letter you want to swap it with. They will then exchange places.
+*   **交换字母：** 先点击你想移动的第一个字母，再点击第二个字母，两者位置就会互换。每一
+    次交换都会消耗一步。  
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What do the colors on the tiles mean?**
-     *   **A:** Green means the right letter is in the right spot. Yellow means the right letter is in the wrong spot. White or Grey means it's the wrong letter for that row.
+*   **Q: 格子上的颜色到底代表什么？**  
+    **A：** 绿色代表字母与位置都正确；黄色代表字母属于该行目标单词，但位置错误；白色/灰色
+    则代表这个字母根本不属于这一行的词。  
 
-*   **Q: What happens if I run out of moves?**
-     *   **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
+    - **Q: 步数用完但还没解出怎么办？**  
+    **A：** 当你在限定交换次数内没有完成所有单词的还原，本局就算失败，需要重新开始。建
+    议在重开时重点观察上一次的颜色反馈，避免重复无效操作。  
 
-*   **Q: Is there a new puzzle every day?**
-     *   **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
+*   **Q: 真的是每天都有新谜题吗？**  
 
+    - **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
+
+- **Q: Is there a new puzzle every day?**
+
+    - **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
+    **A：** 是的，顾名思义，游戏每天都会更新一组新的单词网格，对于想做“每日英语小练习”的
+    玩家来说非常合适。  

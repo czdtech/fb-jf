@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: island-of-treasures
-title: '[ZH TRANSLATION NEEDED] Island Of Treasures'
-description: >-
-  [ZH TRANSLATION NEEDED] Embark on a thrilling pirate adventure in this 3D
-  endless runner! Collect gleaming jewels, dodge deadly traps, and outsmart
-  rival pirates to become the richest buccaneer on the forsaken island.
+title: "《Island Of Treasures》宝藏之岛跑酷"
+description: "在《Island Of Treasures》中，你将作为一名大胆的海盗，在 3D 无尽跑酷的孤岛上狂奔，收集闪耀宝物、躲避致命机关、甩开其他海盗，争做岛上最富有的传奇船长。"
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/island-of-treasures.png
 tags:
@@ -17,30 +14,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Island Of Treasures is an action-packed 3D endless runner game that plunges you into a thrilling pirate adventure. You play as a daring buccaneer, constantly running through a dynamic and treacherous island environment. Your mission is to collect as much gleaming treasure as possible, dodge deadly traps, and outsmart rival pirates who are also after the riches. The game tests your reflexes and agility as you strive to achieve the highest score and become the legendary pirate of the forsaken island.
+《Island Of Treasures》是一款节奏紧张的 3D 无尽跑酷游戏，背景是一座危机四伏的海盗孤岛。你扮演一位勇敢的海盗，在不断变化的岛屿场景中一路狂奔，任务是在不被机关和陷阱淘汰的前提下，尽可能多地收集金币、宝石和各类战利品，同时躲开同样觊觎宝物的敌对海盗。游戏考验的是你的反应速度和走位判断，想成为这座被诅咒之岛上的“财富之王”，就得跑得够远、活得够久。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Collect Everything:** Your primary goal is to collect coins, jewels, and other treasures scattered along your path. These contribute to your score and can be used to unlock upgrades or new characters.
-2.  [ZH TRANSLATION NEEDED] **Master the Moves:** You'll need to quickly react to obstacles. Swipe left/right to change lanes, swipe up to jump over gaps and low obstacles, and swipe down to slide under high obstacles. Practice these moves to make them second nature.
-3.  [ZH TRANSLATION NEEDED] **Utilize Power-ups:** Keep an eye out for power-ups like speed boosts, shields, or magnets. These temporary advantages can help you survive longer and collect more treasure. Use them strategically, especially in challenging sections.
-4.  [ZH TRANSLATION NEEDED] **Avoid Collisions:** Hitting any obstacle or rival pirate will end your run. Always prioritize dodging over collecting if a collision is imminent.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **能捡的都别放过**：沿途的金币、宝石和宝箱不仅能提高分数，还常常是解锁角色、购买强化道具的关键资源。前期适当优先走宝物密集路线，为后续提升打基础。
+2.  **熟练掌握基础动作**：要迅速对障碍做出反应：左右切换跑道绕开岩石和断桥，上滑（跳跃）跨越缺口与矮障碍，下滑（滑铲）穿过低矮横梁。多跑几局，把这些动作练成肌肉记忆。
+3.  **善用能力道具**：注意收集路上的加速、护盾、磁铁等能力道具。加速适合用在障碍较少的直线区段，护盾可以在机关密集的危险路段为你兜底，而磁铁则能让你在不偏航的情况下大范围吸取宝物。
+4.  **避免贪心碰撞**：遇到宝物与障碍“挤在一起”时，优先保命。一次碰撞或摔落通常意味着整局结束，失去所有已经积累的距离与连击，不值得为几个金币冒险。 
 
-*   **Move Left/Right:** Use the **A/D keys** or **Left/Right Arrow keys** to change lanes.
-*   **Jump:** Press the **Spacebar** or **Up Arrow key** to jump.
-*   **Slide:** Press the **S key** or **Down Arrow key** to slide under obstacles.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **左右移动**：使用 A/D 键或左右方向键在不同跑道之间切换。  
+*   **跳跃**：按空格键或上方向键跳过缺口与低矮障碍。  
+*   **滑行**：按 S 键或下方向键从低垂障碍下方滑过。  
 
-*   **Q: What is the main objective of the game?**
-     *   **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.
+### 常见问题（FAQ）
 
-*   **Q: How do I attack rival pirates?**
-     *   **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
+*   **Q: 游戏的核心目标是什么？**  
+    *   **A:** 在不撞上障碍或坠落的前提下，尽可能跑得更远、收集更多宝物，刷新自己的最高距离与得分纪录。  
 
-*   **Q: What happens if I fall into the water or hit an obstacle?**
-     *   **A:** Your run ends immediately, and you will have to start over from the beginning.
+*   **Q: 能攻击或击倒其他海盗吗？**  
+    *   **A:** 多数无尽跑酷玩法中不会设计复杂战斗，对手更多是作为移动障碍出现。部分版本可能通过特定道具临时眩晕敌人，但核心仍是“躲避”而不是“对战”。  
 
+*   **Q: 掉进海里或撞上机关后会怎样？**  
+    *   **A:** 一般会直接判定本局结束，并结算你本次的跑动距离与得分。要想继续挑战，只能从起点重新出发。

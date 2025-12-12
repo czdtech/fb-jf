@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: slope
-title: '[KO] Slope'
+title: "Slope 슬로프"
 description: >-
-  [KO] Slope is the original endless running game where players control a green
-  ball rolling down a steep slope, avoiding red obstacles and trying to survive
-  as long as possible in this addictive and challenging experience.
+  녹색 공을 조종해 가파른 경사로를 끝없이 내려오는 엔드리스 러너
+  게임입니다. 붉은 장애물을 피해 최대한 오래 살아남아 최고 기록에
+  도전해 보세요.
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/slope.jpg
 tags:
@@ -18,33 +18,65 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Slope*는 단순한 좌우 이동만으로 즐기는 원조 엔드리스 경사로 러너
+게임입니다. 플레이어는 녹색 공을 조종해 끝없이 이어지는 가파른
+경사로를 내려오며, 붉은 장애물과 구멍을 피해 가능한 한 오래
+버텨야 합니다.
 
-### Game Introduction
+속도가 점점 빨라지는 만큼, 부드러운 물리 감각과 높은 집중력이
+요구되는 게임입니다.
 
-"Slope" is the original endless running game where players control a green ball rolling down a steep slope, avoiding red obstacles and trying to survive as long as possible in this addictive and challenging experience. The game is famous for its simple yet addictive gameplay, smooth physics engine, and gradually accelerating pace.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **기본 좌우 조작부터 완벽히 익히기**  
+   방향키나 `A/D` 키로 좌우 이동을 조절하며, 과하게 꺾지 않고
+   작은 입력으로 조금씩 궤도를 바꾸는 연습이 중요합니다.
 
-1.  **[KO]** **Basic Control**: Master the basic left and right movement controls, avoiding overreaction.
-2.  **[KO]** **Rhythm Awareness**: Adapt to the game's constantly accelerating pace and speed changes.
-3.  **[KO]** **Obstacle Prediction**: Learn to predict the position and movement patterns of red obstacles.
-4.  **[KO]** **Path Selection**: Choose the safest routes through complex obstacle combinations.
-5.  **[KO]** **Stay Calm**: Maintain composure at high speeds, avoiding panic-induced mistakes.
+2. **가속되는 속도에 리듬 맞추기**  
+   시간이 지날수록 공의 속도가 계속 빨라집니다. 일정 템포로
+   슬라이드하듯 이동하는 리듬을 만들어 두면, 속도가 올라가도
+   당황하지 않고 대응할 수 있습니다.
 
-### How to Play
+3. **장애물 패턴 예측하기**  
+   붉은 블록과 구멍은 특정 패턴으로 등장하는 경우가 많습니다.
+   여러 번 플레이하며 자주 나오는 배치와 위험 구역을 기억해 두면
+   반응 속도를 크게 줄일 수 있습니다.
 
-*   **[KO]** **Move Left**: Press A key or left arrow key to move the ball left.
-*   **[KO]** **Move Right**: Press D key or right arrow key to move the ball right.
-*   **[KO]** **Smooth Control**: Use smooth movements rather than abrupt direction changes.
+4. **가장 안전한 라인 찾기**  
+   항상 중앙에 있을 필요는 없습니다. 장애물이 덜 몰려 있는 라인을
+   찾아 미리 이동해 두면, 이후 나오는 장애물도 상대적으로
+   여유롭게 피할 수 있습니다.
 
-### Frequently Asked Questions
+5. **고속 구간에서도 침착함 유지**  
+   속도가 빨라질수록 패닉 상태에서 키를 과하게 누르기 쉽습니다.
+   실수는 피할 수 없지만, 한 번의 실수 이후에는 다시 리듬을
+   되찾는 것이 중요합니다.
 
-1.  **[KO]** **Q: How can I improve my high score?**
-**A**: Practice more to improve reaction speed, learn to maintain control at high speeds, and familiarize yourself with obstacle appearance patterns.
-2.  **[KO]** **Q: Why does the ball accelerate?**
-**A**: This is the core game mechanism; the ball gets faster over time to increase challenge difficulty.
-3.  **[KO]** **Q: Are all red obstacles dangerous?**
-**A**: Yes, touching any red object will cause game over.
-4.  **[KO]** **Q: Does the game have an ending?**
-**A**: "Slope" is an endless game that can theoretically continue indefinitely; the challenge is seeing how long you can survive.
+### 조작 가이드
+
+- **왼쪽 이동**: `A` 키 또는 왼쪽 방향키로 공을 왼쪽으로 이동합니다.  
+- **오른쪽 이동**: `D` 키 또는 오른쪽 방향키로 공을 오른쪽으로
+  이동합니다.  
+- **부드러운 조향**: 급격한 방향 전환보다는, 짧고 부드러운 입력으로
+  조금씩 궤도를 조정하는 것이 안전합니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 점수를 빨리 올리는 방법이 있나요?**  
+   **A:** 특별한 스코어 아이템보다는 생존 시간이 점수에 직접
+   연결되는 경우가 많습니다. 장애물 패턴을 익혀 더 오래 버티는 것이
+   최고의 전략입니다.
+
+2. **Q: 공이 왜 점점 빨라지나요?**  
+   **A:** 난이도를 높이기 위한 핵심 메커니즘입니다. 시간이 지날수록
+   속도가 올라가 도전 욕구를 자극합니다.
+
+3. **Q: 모든 붉은 오브젝트는 위험한가요?**  
+   **A:** 네. 붉은 블록이나 벽에 닿으면 즉시 게임 오버 처리됩니다.
+   붉은 색은 전부 피해야 할 장애물이라고 생각하면 됩니다.
+
+4. **Q: 이 게임에 엔딩이 있나요?**  
+   **A:** *Slope*는 이론상 끝이 없는 엔드리스 게임입니다. 목표는
+   "얼마나 오래 버틸 수 있는지"를 기록으로 남기는 것입니다.

@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: idle-breakout
-title: '[KO] Idle Breakout'
+title: "Idle Breakout 방치형 브릭 브레이커"
 description: >-
-  [KO] Idle + brick‑breaker hybrid: click to smash bricks, buy autonomous
-  balls/turrets, prestige for multipliers, and min‑max upgrades.
+  벽돌깨기와 방치형 인크리멘탈이 결합된 게임입니다. 클릭으로 벽돌을 깨며
+  공과 포탑을 구매해 자동 공격을 늘리고, 프레스티지로 배수를 쌓아 다음
+  플레이를 더 빠르게 진행하세요.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/idle-breakout.jpg
 tags:
@@ -18,27 +19,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Idle Breakout merges incremental progression with classic brick‑breaking. Early on you click to deal damage; soon you purchase balls with differing speed, damage, and special effects, plus automated launchers. Bricks scale health, bosses appear periodically, and prestige resets grant permanent multipliers that accelerate future runs.
+### 게임 개요
 
-### How to Play
-- Invest early in cheap balls for constant DPS; add specials (sniper, scatter) later.
-- Target upgrade breakpoints that double DPS rather than small steps.
-- Prestige when progress stalls; compounding multipliers matter most.
+`Idle Breakout`는 고전 벽돌깨기에 점진적 성장 구조를 더한 방치형 게임입니다.
+초반에는 직접 클릭해 벽돌에 데미지를 주지만, 곧 다양한 속도·공격력·특수
+효과를 가진 공과 자동 발사 장치를 구매해 대부분의 파괴를 자동화하게 됩니다.
+스테이지가 진행될수록 벽돌의 체력이 크게 늘어나고, 주기적으로 보스 벽돌이
+등장합니다. 일정 시점에는 프레스티지 리셋을 통해 진행 상황을 초기화하는
+대신 영구 배수 보너스를 얻어 이후 회차를 더 빠르게 진행할 수 있습니다.
 
-### Controls
-- Mouse: click to damage; UI to buy balls, upgrades, and prestige nodes.
+### 플레이 방법
 
-### Tips
-- Keep at least one high‑damage ball to burst bosses.
-- Idle efficiency rises with automation; check in to re‑allocate spending.
-- Use offline time multipliers if your host supports them.
+- 초반에는 저렴한 공을 여러 개 구매해 지속적인 DPS를 확보하는 것이 좋습니다.
+  이후 스나이퍼볼, 산탄볼 같은 특수 공을 추가해 부족한 부분을 보완하세요.
+- 업그레이드는 수치가 두 배 가까이 뛰는 **브레이크 포인트** 위주로 투자하면
+  효율이 좋고, 사소한 소폭 업그레이드는 가성비가 떨어질 수 있습니다.
+- 진행 속도가 눈에 띄게 느려지고, 벽돌을 깨는 데 오래 걸리기 시작하면
+  프레스티지를 고려하세요. 누적 배수 보너스가 커질수록 다음 회차 성장이
+  폭발적으로 빨라집니다.
 
-### FAQ
-- Q: When should I trigger a prestige reset?
-A: When your brick clears slow to a crawl; earlier resets often yield faster long‑term growth.
-- Q: Which ball types are best early in the game?
-A: Cheap, fast balls for coverage; add a sniper/strong ball for bosses.
-- Q: Does the game progress offline?
-A: Some hosts simulate offline earnings; behavior varies.
+### 조작 방법
 
+- 마우스로 벽돌을 클릭해 직접 데미지를 줄 수 있으며, UI 버튼으로 공 구매,
+  업그레이드, 프레스티지 노드 해금 등을 진행합니다.
+
+### 플레이 팁
+
+- 적어도 하나는 고공격력 공을 유지해, 체력이 높은 보스를 빠르게 마무리할 수
+  있도록 하세요.
+- 자동화 수준이 높아질수록 방치 효율이 좋아집니다. 주기적으로 접속해 투자
+  우선순위를 다시 조정하는 것이 좋습니다.
+- 일부 호스트에서는 오프라인 수익 배수를 지원하니, 해당 기능이 있다면
+  적극적으로 활용하세요.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 프레스티지 리셋은 언제 하는 게 좋나요?  
+  A: 벽돌을 깨는 속도가 눈에 띄게 느려져 더 이상 진척이 없다고 느껴질 때,
+  비교적 이른 타이밍에 리셋하는 편이 장기적으로 더 빠른 성장을 가져옵니다.
+
+- Q: 초반에는 어떤 종류의 공이 좋나요?  
+  A: 값이 싸고 빠르게 튕기는 기본 공들로 전체 커버리지를 확보한 뒤, 보스
+  대응용으로 스나이퍼형이나 고공격력 공을 추가하는 구성이 안정적입니다.
+
+- Q: 게임을 꺼도 진행되나요?  
+  A: 일부 버전에서는 오프라인 수익을 시뮬레이션해 주지만, 어느 정도까지
+  지원하는지는 호스트마다 다르므로 안내를 확인하는 것이 좋습니다.

@@ -1,42 +1,36 @@
 ---
+title: "Friday Night Funkin"
+description: "リズムバトル：ビートに合わせてノーツを叩き、数週間にわたって対戦相手と勝負しましょう。難易度が上がると、より速いパターンや難しいホールド（長押し）が追加されます。"
+iframeSrc: "https://html-classic.itch.zone/html/2876359-1077558/index.html"
+thumbnail: "/new-images/friday-night-funkin.jpg"
+urlstr: "friday-night-funkin"
+score: "4.7/5  (542 votes)"
+tags: ["rhythm", "music"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: friday-night-funkin
-title: '[JA TRANSLATION NEEDED] Friday Night Funkin'
-description: >-
-  [JA TRANSLATION NEEDED] Rhythm battle: hit notes on beat against opponents
-  across weeks; higher difficulties add faster patterns and tricky holds.
-iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
-thumbnail: /new-images/friday-night-funkin.jpg
-tags:
-  - rhythm
-  - music
-score: 4.7/5  (542 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+週単位のリズムバトル：音楽に合わせて矢印のプロンプト（指示）を叩き、対戦相手より高いスコアを目指しましょう。
 
+### 遊び方
+- 正確さとコンボに集中しましょう。ミスやリズム外れのヒットは体力を減らします。
+- 長いノーツはホールド（長押し）が必要です。高レベルではジャック（連打）やダブル（同時押し）も登場します。
+- フリープレイでは特定の曲を練習することができます。
 
-### Overview
-[JA TRANSLATION NEEDED] Week‑based rhythm battles: match the arrow prompts in time with music to outscore your opponent.
+### 操作方法
+- 矢印キー（またはWASD）でノーツを叩き、Enterキーでメニュー操作を行います。
 
-### How to Play
-- Focus on accuracy and combo; misses and off‑beat hits drop health.
-- Long notes require holding; jacks and doubles appear on higher levels.
-- Freeplay allows practicing specific songs.
+### ヒント
+- 視覚だけでなく、音でパターンを覚えましょう。
+- 手をリラックスさせましょう。連打（ジャック）のときは、和音を弾くように指を動かすと指が詰まりにくくなります。
+- ラグがタイミングに影響する場合は、視覚効果を下げてみましょう。
 
-### Controls
-- Arrow keys (or WASD) to hit notes; Enter for menus.
-
-### Tips
-- Learn patterns by sound, not just visuals.
-- Relax your hands; rolling chords reduce finger jams on jacks.
-- Lower visual effects if lag affects timing.
-
-### FAQ
-- Q: How do I unlock new weeks?  
-[JA TRANSLATION NEEDED]   A: Clear prior weeks or use Freeplay depending on the host.
-- Q: Why are my hits late?  
-[JA TRANSLATION NEEDED]   A: Adjust input offset in options to match your device latency.
-- Q: Can I play custom songs?  
-[JA TRANSLATION NEEDED]   A: Some hosts include mods or a custom chart loader.
-
+### よくある質問 (FAQ)
+- **Q: 新しい週をアンロックするには？**  
+  A: ホストによりますが、前の週をクリアするか、フリープレイを使用してください。
+- **Q: ヒットが遅れるのはなぜですか？**  
+  A: オプションで入力オフセットを調整して、デバイスの遅延（レイテンシ）に合わせてください。
+- **Q: カスタム曲はプレイできますか？**  
+  A: Modやカスタム譜面ローダーが含まれているホスト版もあります。

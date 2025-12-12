@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: solitaire-classic
-title: '[ZH TRANSLATION NEEDED] Solitaire Classic'
+title: 《Solitaire Classic》经典纸牌接龙
 description: >-
-  [ZH TRANSLATION NEEDED] The timeless single-player card game, also known as
-  Klondike. Move all cards to the foundation piles from Ace to King to win.
+  《Solitaire Classic》（又名 Klondike）是一款经久不衰的单人纸牌接龙游戏。通过整理整副 52 张牌，将它们按花色分别从 A 排到
+  K，全数移入基础牌堆即可获胜。
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/solitaire-classic.png
 tags:
@@ -16,37 +16,35 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Solitaire Classic, also known as Klondike, is one of the most famous and beloved single-player card games in the world. The objective is to organize a shuffled 52-card deck into four foundation piles, one for each suit, in ascending order from Ace to King. The game requires strategy, patience, and a bit of luck as you manipulate cards on the tableau to uncover hidden cards and build your foundations.
+《Solitaire Classic》（Klondike）是全球最知名、最受欢迎的单人纸牌游戏之一。游戏目标是将洗乱的 52 张牌整理成四个基础牌堆，每个花色占一堆，并按从 A 到 K 的顺序依次摆放。这款游戏兼具策略性与耐心，也会掺杂一些随机性，你需要在牌阵中不断移动牌来翻开暗牌，为最终完成四套花色做铺垫。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Game Components:**
-    * [ZH TRANSLATION NEEDED] **The Tableau:** The main playing area, consisting of seven columns of cards. The first column has one card, the second has two, and so on, up to seven. The top card of each column is face-up.
-    * [ZH TRANSLATION NEEDED] **The Foundation:** The four empty piles, usually at the top right. This is where you will build your suits, starting with the Ace.
-    * [ZH TRANSLATION NEEDED] **The Stock Pile:** The deck of remaining cards, placed face-down.
-    * [ZH TRANSLATION NEEDED] **The Waste Pile:** Cards drawn from the Stock Pile are placed face-up here.
-2.  [ZH TRANSLATION NEEDED] **Core Rules & Strategy:**
-    * [ZH TRANSLATION NEEDED] **Expose Hidden Cards:** Your first priority should always be to expose the face-down cards in the tableau. Uncovering these cards gives you more options.
-    * [ZH TRANSLATION NEEDED] **Building on the Tableau:** You can move cards between columns in the tableau. Cards must be placed on a card of the next-highest rank and of the opposite color (e.g., a black 7 on a red 8).
-    * [ZH TRANSLATION NEEDED] **Moving to Foundations:** As soon as an Ace becomes available, move it to a foundation pile. Continue to move cards of the same suit in ascending order (Ace, 2, 3, 4...) onto the foundation piles whenever possible.
-    * [ZH TRANSLATION NEEDED] **Using the Stock Pile:** When you have no more moves on the tableau, draw from the Stock Pile. Use the revealed cards to make new moves on the tableau or to build on your foundations.
-    * [ZH TRANSLATION NEEDED] **Empty Tableau Columns:** Only a King (or a sequence starting with a King) can be moved into an empty column on the tableau.
+### 游戏玩法与策略指引
 
-### Controls Guide
+1.  **牌区构成：**  
+    * **桌面牌区（Tableau）：** 主游戏区域，由 7 列牌组成。第一列 1 张、第二列 2 张……直到第七列 7 张，每列最上面一张为明牌，其余为暗牌。  
+    * **基础牌堆（Foundation）：** 通常位于右上角的 4 个空位，用于按花色从 A 到 K 依次垒牌。  
+    * **牌库（Stock Pile）：** 剩余未发到桌面的牌，面朝下摆放。  
+    * **废牌堆（Waste Pile）：** 从牌库翻出的明牌会放在这里，供你继续操作。
 
-*   **Move Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
-*   **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
-*   **Auto-Move to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
+2.  **核心规则与基础策略：**  
+    * **优先翻开暗牌：** 第一要务永远是翻开桌面牌区中的暗牌，翻得越多，可用的选择越多。  
+    * **桌面叠牌：** 在桌面列与列之间移动牌时，必须遵循“点数递减、红黑交错”的规则，例如可以把黑 7 压在红 8 上。  
+    * **移动到基础牌堆：** 一旦有 A 牌可用，就可以将其移入基础堆。之后同花色按顺序（A、2、3、4……）持续往上叠。  
+    * **利用牌库：** 当桌面暂时无更多可行移动时，可以从牌库翻牌到废牌堆，利用新翻出的牌继续在桌面或基础堆上操作。  
+    * **空列的利用：** 只有 K（或以 K 开头的一整列顺序牌组）可以被移动到空的桌面列中，这一点在重新整理牌阵时非常关键。
 
-### Frequently Asked Questions (FAQ)
+### 操作说明
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The goal is to move all 52 cards into the four foundation piles, sorted by suit and in order from Ace to King.
+*   **移动纸牌：** 通过点击并拖拽单张牌或一整段合法连续牌，将它们从一列移动到另一列或基础堆。
+*   **从牌库抽牌：** 点击面朝下的牌库堆即可翻牌（具体是一张或三张，取决于游戏变体），翻出的牌会进入废牌堆。
+*   **自动移入基础堆：** 在多数数字版本中，双击一张可直接移动到基础堆的牌，系统会自动将其放入对应位置。
 
-*   **Q: What happens when I run out of moves?**
-     *   **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
-
-*   **Q: Can I move cards back from the foundation to the tableau?**
-     *   **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
-
+### 常见问题解答（FAQ）
+*   **问：这局游戏的最终目标是什么？****
+    *   答：** 将整副 52 张牌全部按花色与顺序移入 4 个基础牌堆（从 A 到 K），并使桌面牌区不再有任何牌。
+*   **问：如果没有可走的棋怎么办？****
+    *   答：** 当桌面和基础堆都没有新移动可做时，就需要从牌库翻牌。如果牌库也抽尽，且仍没有合法移动，则本局宣告失败。
+*   **问：可以把基础堆里的牌再移回桌面吗？****
+    *   答：** 在大多数数字版本中，可以把基础堆顶端的牌移回桌面列，用于解锁被压住的关键牌。这往往是高阶策略的重要一环，合理利用可以逆转看似无解的局面。

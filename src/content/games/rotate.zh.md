@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: rotate
-title: '[ZH TRANSLATION NEEDED] Rotate'
+title: "《Rotate》旋转世界解谜"
 description: >-
-  [ZH TRANSLATION NEEDED] Rotate is a challenging puzzle game where players must
-  rotate the game world to guide a ball through complex mazes and obstacles,
-  using gravity and momentum to reach the goal in each level.
+  《Rotate》是一款难度不俗的物理解谜游戏。你需要不断旋转整个关卡，让小球在重力作用下滚过迷宫与障碍，最终抵达终点。
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/rotate.jpg
 tags:
@@ -17,31 +15,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Rotate》是一款以“旋转世界”作为核心机制的解谜游戏。你无法直接操控小球，只能通过旋转整个关卡来改变重力方向，让小球在斜坡、平台和陷阱之间滚动、滑落或加速前进。每一关都布置了复杂的迷宫结构和机关，你必须在合适的时机调整角度和节奏，才能把小球安全送到终点。
 
-[ZH TRANSLATION NEEDED] "Rotate" is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles. The game utilizes the physics properties of gravity and momentum, requiring players to cleverly control rotation angles and timing to get the ball to reach the target position in each level.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **理解重力方向变化：** 每一次旋转都会改变重力指向，小球的运动轨迹也会随之发生明显变化。先在脑中预演一下“旋转后重力朝哪边，小球会往哪滚”。
+2.  **认真观察关卡布局：** 进入关卡后不要急着旋转，先整体审视地形，弄清楚哪些是必经之路、哪些是死路或陷阱，再决定旋转顺序。
+3.  **控制好旋转节奏：** 频繁、急躁地乱转很容易把球甩进坑里。尝试在小球运动将要减速或即将停下时，再进行下一次旋转，将风险降到最低。
+4.  **学会利用惯性：** 有些高台或远距离区域只能靠小球的惯性才能到达。适当让小球在斜坡上加速，再在关键时刻旋转，让它依靠已有动量冲过难以直接抵达的位置。
+5.  **多角度思考解法：** 发现某条路径怎么试都不行时，可以从完全不同的角度重新审视关卡。换个旋转顺序或站在“反方向”看布局，往往会出现新的解法灵感。
 
-1.  **Understand Gravity Mechanics**: Master how rotation changes gravity direction and affects the ball's movement trajectory.
-2.  **Observe Level Layout**: Carefully study each level's design to find the optimal rotation path.
-3.  **Control Rotation Rhythm**: Don't rush to rotate; observe the ball's movement before making the next rotation.
-4.  **Utilize Momentum**: Learn to use the ball's movement momentum to pass through areas that are difficult to reach directly.
-5.  **Think from Multiple Angles**: Observing levels from different perspectives may reveal unexpected solutions.
+### 操作说明
 
-### How to Play
+*   **旋转世界：** 通常通过鼠标拖拽或键盘方向键来旋转关卡，具体方式视版本而定。
+*   **重置关卡：** 如果小球被困住或掉出地图，可以使用重置按钮重新开始该关卡。
+*   **暂停与思考：** 随时可以暂停游戏，利用这段时间冷静思考下一步如何旋转，规划完整路线后再继续。
 
-*   **Rotation Control**: Typically use mouse dragging or keyboard arrow keys to rotate the game world.
-*   **Reset**: If the ball gets stuck or falls out of bounds, you can reset the current level to start over.
-*   **Pause**: You can pause the game while thinking of strategies and planning the next rotation operation.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What if the ball keeps falling out of bounds?**
-     **A**: Control rotation angle and speed more carefully, observe the ball's trajectory before making the next move.
-2.  [ZH TRANSLATION NEEDED] **Q: Some levels seem unsolvable?**
-     **A**: Try thinking from different angles and rotation sequences; sometimes it takes multiple attempts to find the correct solution.
-3.  [ZH TRANSLATION NEEDED] **Q: How can I improve completion speed?**
-     **A**: After familiarizing yourself with physics mechanics, you can predict ball movement and plan rotation sequences in advance to complete levels faster.
-4.  [ZH TRANSLATION NEEDED] **Q: How many levels are in the game?**
-     **A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.
+1.  **问：小球总是掉出边界怎么办？**  
+    **答：** 说明旋转角度或速度过猛。建议在每次转动前先观察小球当前趋势，少转一点、多观察几次，让小球在相对可控的轨道中移动。
+
+2.  **问：有些关卡看起来完全无解？**  
+    **答：** 多尝试不同顺序的旋转组合，尤其注意“先让球到安全缓冲区，再进行大幅度旋转”这种思路。必要时不妨暂时放下，从更宏观的视角重新审视地形。
+
+3.  **问：怎样缩短通关时间？**  
+    **答：** 在熟悉物理规则之后，可以预判小球的运动路径，提前规划一连串旋转操作，减少反复试错和无谓等待。
+
+4.  **问：游戏大概有多少关？**  
+    **答：** 《Rotate》通常包含多个世界与数十个精心设计的关卡，难度会随着进度逐步提高，后期会加入更多需要精确控制的机关与陷阱。

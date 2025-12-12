@@ -1,54 +1,54 @@
 ---
 locale: zh
 urlstr: stick-fighter
-title: '[ZH TRANSLATION NEEDED] Stick Fighter'
-description: >-
-  [ZH TRANSLATION NEEDED] Become a master of stickman combat in Stick Fighter!
-  This action-packed brawler pits you against other stick figures in a
-  physics-based arena. Use your fists, feet, and a variety of weapons to be the
-  last one standing.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
+title: 《Stick Fighter》火柴人格斗
+description: 《Stick Fighter》是一款以火柴人为主角的横版格斗游戏。运用连招、跳跃和防御，在各种场景中与敌人展开一对一或一对多的战斗。
+iframeSrc: 'https://stickfighter.h5games.usercontent.goog/v/2d1k2v0l9xzq0/'
 thumbnail: /new-images/stick-fighter.jpg
 tags:
   - fighting
   - action
   - stickman
-score: 3.6/5  (1444 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 3.9/5  (1600 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] Stick Fight is a fast-paced, physics-based fighting game where you control a simple stick figure and battle against others in a variety of hazardous arenas. The goal is to be the last stickman standing. The game is known for its chaotic, unpredictable combat, where environmental dangers and a wide array of weapons lead to hilarious and action-packed rounds.
+### 详细游戏介绍
 
-### Gameplay Guide
+《Stick Fighter》延续了火柴人系列“简单线条却动作夸张”的风格。玩家操控火柴人战士，在不同关卡中与敌人互相搏斗，可以使用拳脚、武器以及简单连招来击败对手。游戏节奏较快，考验你对攻击时机、位移和防御的把握。
 
-[ZH TRANSLATION NEEDED] The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
-- **Combat:** Use punches, kicks, and a variety of weapons that are dropped into the arena.
-- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
-- **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
+### 游玩策略与战斗指引
 
-### Controls Guide
 
-[ZH TRANSLATION NEEDED] Controls are typically based on a standard 2D platformer layout:
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
-- **Jump:** `W` or `Up Arrow` Key
-- **Crouch:** `S` or `Down Arrow` Key
-- **Attack:** `Left Mouse Button` or `F`
+The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
+1.  **熟悉基础招式：** 先掌握普通攻击、跳跃、冲刺和防御等基本操作，再尝试衔接组合技，避免无脑连按导致硬直被反打。
+2.  **观察敌人动作：** 不同敌人会有各自的攻击节奏与前摇，留意攻击前的动作提示，在空档期进行反击。
+3.  **善用位移：** 通过跳跃、后撤或翻滚躲开高伤害技能，再趁对方落地或收招时贴身输出，可以极大提高安全性。
+4.  **注意多敌人夹击：** 在一对多场景中，不要被集中到角落。适当风筝敌人、分批处理，避免被多段攻击连在一起。
+
+### 操作说明
+
+
+Controls are typically based on a standard 2D platformer layout:
+*   **移动 / 跳跃：** 使用方向键或 WASD 控制火柴人移动，指定按键进行跳跃；
+*   **攻击 / 连招：** 按攻击键进行普通攻击，按一定节奏或搭配方向键可打出连击；
+*   **防御 / 闪避：** 通过防御键或闪避键减少伤害或完全避开攻击，节奏感强的玩家可以尝试“读招后闪避”。
+
+
 - **Block:** `Right Mouse Button` or `G`
 
-### Frequently Asked Questions (FAQ)
+- **Attack:** `Left Mouse Button` or `F`
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **What is the main goal of Stick Fight?**
+**问：总觉得自己被敌人“无限连”怎么办？****
+答：** 尝试减少在敌人面前原地站桩的时间，多利用移动与跳跃拉开距离，等敌人出手后再寻找反击窗口。
 
-[ZH TRANSLATION NEEDED] To be the last player standing by knocking your opponents off the stage or defeating them with weapons.
+**问：这款游戏更偏操作还是数值？****
+答：** 多数关卡更看重走位和时机掌握，只要善于抓破绽，即便数值不是特别高也有机会通关。
 
-[ZH TRANSLATION NEEDED] **Can I play this game with friends?**
 
-[ZH TRANSLATION NEEDED] Yes, Stick Fight is primarily a multiplayer game, often supporting both local and online matches with 2-4 players.
 
-[ZH TRANSLATION NEEDED] **What kind of weapons are in the game?**
+The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
 
-[ZH TRANSLATION NEEDED] The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
-
+**What kind of weapons are in the game?**

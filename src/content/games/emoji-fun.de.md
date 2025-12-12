@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: emoji-fun
-title: '[DE] Emoji Fun'
+title: Emoji Fun
 description: >-
-  [DE] A creative puzzle game of associations! Connect the pairs of related
-  emojis by drawing a line between them. Think outside the box to solve each
-  unique puzzle.
+  Emoji Fun ist ein kreatives Zuordnungspuzzle: Verbinde passende Emoji-Paare
+  mit Linien und finde sowohl naheliegende als auch überraschende Zusammenhänge.
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
 thumbnail: /new-images/emoji-fun.png
 tags:
@@ -16,33 +15,56 @@ score: 4.3/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Emoji Fun ist ein kreatives, zum Nachdenken anregendes Puzzlespiel rund um
+Assoziationen. In jedem Level bekommst du zwei Spalten voller Emojis. Deine
+Aufgabe ist es, die Beziehung zwischen ihnen zu erkennen und Linien zwischen
+den passenden Paaren zu ziehen. Die Verbindungen können ganz wörtlich sein
+(z.B. Socke und Fuß) oder eher abstrakt (z.B. Geist und Spukhaus). So testet
+Emoji Fun spielerisch deine Logik, dein Allgemeinwissen und dein Querdenken.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Starte mit offensichtlichen Paaren:** Suche zuerst nach den klarsten,
+   direktesten Verbindungen. Offensichtliche Kombos wie "Erdnuss" und
+   "Elefant" oder "Honig" und "Biene" reduzieren die übrigen Möglichkeiten und
+   machen die restlichen Zuordnungen leichter.
+2. **Denke abstrakt:** Nicht alle Paare sind wörtlich. Überlege auch, wofür
+   Dinge verwendet werden, woher sie kommen oder wofür sie stehen. So kannst du
+   z.B. ein Buch mit einer Bibliothek oder eine Krone mit einem König
+   verknüpfen.
+3. **Ausschlussverfahren nutzen:** Hast du einige Paare korrekt verbunden,
+   bleiben pro Seite weniger Symbole übrig. Nutze das, um die letzten, schwerer
+   erkennbaren Zusammenhänge durch Ausschluss einzugrenzen.
+4. **Kein Zeitdruck:** Emoji Fun ist eher entspannt. Nimm dir die Zeit, in Ruhe
+   über die Beziehungen zwischen den Bildern nachzudenken.
 
-Emoji Fun is a creative and thought-provoking puzzle game based on associations. In each level, you are presented with two columns of emojis. Your task is to figure out the relationship between them and draw lines to connect the correct pairs. The connections can be literal (like a sock and a foot) or conceptual (like a ghost and a haunted house). It's a fun test of your logic and lateral thinking.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+Das Spiel wird komplett per Drag-and-Drop gesteuert.
 
-1.  **[DE]** **Find the Obvious Pairs First:** Start by scanning for the most direct and obvious connections. Matching pairs like "peanut" and "elephant" or "honey" and "bee" will help you narrow down the remaining options.
-2.  **[DE]** **Think Abstractly:** Not all pairs are literal. You might need to think about what things are used for, where they come from, or what they represent. For example, you might connect a book to a library or a crown to a king.
-3.  **[DE]** **Process of Elimination:** Once you have connected a few pairs, you will have fewer emojis left on each side. Use the process of elimination to help you figure out the final, more difficult connections.
-4.  **[DE]** **No Time Pressure:** This is a relaxing game. Take your time to think about the relationships between the images.
+- **Emojis verbinden:** Klicke oder tippe ein Emoji in der einen Spalte an,
+  halte gedrückt und ziehe die Linie zum passenden Emoji in der anderen
+  Spalte.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game is played with a simple drag-and-drop mechanic.
+- **F: Was ist das eigentliche Ziel?**  
+  **A:** Du musst alle zusammengehörigen Emojis korrekt verbinden, um das Level
+  abzuschließen.
 
-*   **[DE]** **Connect Emojis:** Click and hold on an emoji in one column, then drag your finger or mouse to the related emoji in the other column to draw a connecting line.
+    - **F: Was passiert bei einem falschen Paar?**  
+  **A:** In der Regel verschwindet die Linie oder färbt sich rot – ein Hinweis
+  auf einen Fehler. Du kannst es ohne Strafe erneut versuchen.
 
-### Frequently Asked Questions (FAQ)
+- **F: Ich verstehe eine bestimmte Verbindung nicht.**  
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To correctly connect all the pairs of related emojis on the screen to complete the level.
+    - **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
 
-*   **[DE]** **Q: What happens if I draw a line to the wrong emoji?**
-    *   **[DE]** **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
+- **Q: I don't understand the connection between two emojis.**
 
-*   **[DE]** **Q: I don't understand the connection between two emojis.**
-    *   **[DE]** **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
+    - **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
+  **A:** Denke "out of the box" – die Beziehung kann auf einer Aktion (Ball und
+  Tor), Ursache/Wirkung (Samen und Baum) oder einem gemeinsamen Konzept (Hund
+  und Knochen) basieren.

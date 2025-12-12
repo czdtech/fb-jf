@@ -1,43 +1,55 @@
 ---
-locale: ja
-urlstr: fancy-pants
-title: '[JA TRANSLATION NEEDED] Fancy Pants'
-description: >-
-  [JA TRANSLATION NEEDED] Stylish stick‑figure platformer: fast momentum,
-  wall‑jumps, and flowy parkour across hand‑drawn levels and secret rooms.
+title: Fancy Pants ファンシーパンツ
+description: 「Fancy Pants」はスタイリッシュな棒人間プラットフォーマー。高速の勢い、壁ジャンプ、流れるようなパルクールで手描きレベルと秘密の部屋を駆け抜けろ。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/fancy-pants.jpg
+urlstr: fancy-pants
+score: 4.7/5  (778 votes)
 tags:
   - platformer
   - action
-score: 4.7/5  (778 votes)
+developer: Brad Borne
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Fancy Pants（ファンシーパンツ）*は、勢いとフローに焦点を当てた手描きプラットフォーマーです。坂道でスピードを築き、壁ジャンプし、秘密エリアと収集品を発見しましょう。
+シンプルながら奥深い動きのメカニクスと、独特の手描きアートスタイルが特徴の、カルト的人気を誇るフラッシュゲームの名作です。
+
+### 遊び方
+
+*   **勢い維持:** 坂道の出口でジャンプのタイミングを合わせて勢いを保ちます。
+*   **壁走りとスライド:** 壁走りとスライドを使って動きを繋げます。
+*   **探索:** 脇道を探索してトロフィーと隠し部屋を見つけましょう。
+
+### 操作ガイド
+
+*   **移動/ジャンプ:** 矢印キー または WASD
+*   **スライド:** S または 下キー
+*   **ドアを開く:** 上キー（ホストにより異なります）
+
+### 攻略のヒント
+
+*   **ジャンプ連打しない:** エッジ/縁で押すことで最大の移動距離を得られます。
+*   **スライドからジャンプ:** 平地からのスタートより、スライドからジャンプの方がスピードを保てます。
+*   **再訪:** 上達したら以前のレベルに戻って、秘密に到達しましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: 戦闘はありますか？**
+
+A: Light—mainly stomps or simple swipes in some versions.
+- **A:** 軽いものです。主に踏みつけや、一部バージョンではシンプルなスワイプがあります。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Hand‑drawn platforming focused on momentum and flow: build speed on slopes, wall‑jump, and discover secret areas and collectibles.
+A: Many releases feature speed‑run or challenge rooms.
+*   **Q: タイムトライアルはありますか？**
 
-### How to Play
-- Keep momentum by timing jumps at slope exits.
-- Use wall‑runs and slides to chain movement.
-- Explore side paths for trophies and hidden rooms.
+A: Some versions unlock cosmetics.
+    *   **A:** 多くのリリースにスピードランやチャレンジルームがあります。
 
-### Controls
-- Arrows/WASD: move/jump; S/Down to slide; Up to open doors (host dependent).
-
-### Tips
-- Don’t mash jump—press at lip/edge for max carry.
-- Slides into jumps preserve speed better than flat starts.
-- Revisit earlier levels with better mastery to reach secrets.
-
-### FAQ
-- Q: Is there combat?  
-[JA TRANSLATION NEEDED]   A: Light—mainly stomps or simple swipes in some versions.
-- Q: Are there time trials?  
-[JA TRANSLATION NEEDED]   A: Many releases feature speed‑run or challenge rooms.
-- Q: Can I change pants colors?  
-[JA TRANSLATION NEEDED]   A: Some versions unlock cosmetics.
-
+*   **Q: パンツの色を変えられますか？**
+    *   **A:** 一部バージョンではコスメティックをアンロックできます。

@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: we-become-what-we-behold
-title: '[DE] We Become What We Behold'
-description: >-
-  [DE] Explore the impact of media and sensationalism in We Become What We
-  Behold, a thought-provoking satirical game. Capture news events with your
-  camera, observe how your choices shape society, and witness the consequences
-  of focusing on negativity in this unique interactive experience.
+title: "We Become What We Behold"
+description: "Erkunde in We Become What We Behold, wie Medien und Sensationsgier eine Gesellschaft formen: Knipse Nachrichten‑Schnappschüsse, sieh zu, wie sich dein Fokus auf dem Bildschirm widerspiegelt, und erlebe die Folgen eines dauernden Blicks auf das Negative." 
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/we-become-what-we-behold.jpg
 tags:
@@ -17,34 +13,29 @@ score: 4.0/5  (987 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+„We Become What We Behold“ ist ein kurzes, satirisches Point‑and‑Click‑Spiel von Nicky Case, das sich kritisch mit Medien, Sensationslust und gesellschaftlicher Spaltung auseinandersetzt. Du beobachtest eine kleine Welt aus Kreisen und Quadraten und entscheidest per Kamera, welche Momente zu „Nachrichten“ werden – deine Auswahl beeinflusst direkt, wie sich die Figuren verhalten und wie sich die Stimmung der Gesellschaft verändert.
 
-### Game Introduction
+### Spielanleitung
 
-"We Become What We Behold" is a short, satirical point-and-click game by Nicky Case that offers a sharp commentary on media, sensationalism, and how our focus on negativity can amplify societal divisions. The game challenges players to observe a small world of characters and decide what "news" to capture with their camera, directly influencing the narrative and the characters' behavior.
+Der Kern des Gameplays besteht darin, die Szene zu beobachten und gezielt Fotos zu machen.
 
-### Gameplay Guide
+- **Beobachten:** Schau zu, wie sich Kreise und Quadrate verhalten, worüber sie sich freuen oder streiten.
+- **Einfangen:** Klicke, um ein Foto eines Ereignisses zu machen. Was du ablichtest, erscheint auf dem TV‑Screen im Hintergrund und beeinflusst, wie die Figuren die Welt sehen.
+- **Konsequenzen erleben:** Das Spiel zeigt dir subtil, wie ein Fokus auf Streit, Gewalt oder Extreme einen Kreislauf aus Angst, Wut und Feindbildern erzeugen kann. Ein klassisches „Gewinnen“ gibt es nicht – stattdessen endet die Geschichte in einem bewussten, drastischen Finale.
 
-The core gameplay involves observing the screen and using your camera to photograph events.
-- **Observe:** Watch the characters (squares and circles) interact.
-- **Capture:** Click to take a photo of a "news" event. Your choice of what to photograph directly impacts what appears on the in-game TV screen, which in turn influences the characters' reactions.
-- **Consequences:** The game subtly demonstrates how focusing on controversial or shocking content can lead to a cycle of anger, fear, and division. There's no explicit win condition; the game typically ends with a dramatic climax reflecting the consequences of media sensationalism.
+### Steuerung
 
-### Controls Guide
+- **Maus:** Ziele mit dem Mauszeiger wie mit einer Kamera und klicke, um ein Foto aufzunehmen.
 
-- **Mouse:** Use your mouse to aim the camera and click to take a photograph.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Was will mir das Spiel sagen?**  
+Es ist eine Kritik an sensationsgetriebener Berichterstattung und daran, wie Medien unsere Wahrnehmung formen. Der Titel „We become what we behold“ („Wir werden, was wir betrachten“) spielt darauf an, dass dauernder Fokus auf Negatives auch eine negative Realität verstärkt.
 
-**What is the meaning behind the game?**
+**Wie lang ist das Spiel?**  
+Sehr kurz – meist 5–10 Minuten – dafür aber konzentriert auf eine klare Botschaft.
 
-The game is a critique of media sensationalism and how it shapes our perceptions and society. It highlights how focusing on negativity and conflict can lead to a cycle of division, echoing Marshall McLuhan's quote, "We become what we behold."
-
-**How long is the game?**
-
-It's a very short experience, typically lasting around five minutes, designed to deliver its message concisely and powerfully.
-
-**Is there a "right" way to play or win?**
-
-The game doesn't have a traditional win condition. Its purpose is to make you reflect on media consumption and its societal impact, rather than to achieve a high score or specific ending.
-
+**Gibt es eine „richtige“ Art zu spielen?**  
+Nicht im klassischen Sinne. Das Spiel zielt eher darauf ab, dich über deinen Medienkonsum und dessen Wirkung nachdenken zu lassen, als dir einen Highscore oder ein „perfektes“ Ende vorzusetzen.

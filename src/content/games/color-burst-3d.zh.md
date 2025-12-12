@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: color-burst-3d
-title: '[ZH TRANSLATION NEEDED] Color Burst 3D'
+title: "Color Burst 3D 色彩冲击 3D"
 description: >-
-  [ZH TRANSLATION NEEDED] Master the fast-paced arcade game, Color Burst 3D.
-  This guide provides expert strategies for timing your moves, matching the
-  ball's color to the rotating rings, and surviving to achieve a high score.
+  《Color Burst 3D 色彩冲击 3D》是一款节奏极快的街机游戏。你需要操控不断向前冲的彩
+  球，只能穿过与自己颜色一致的环形区域，在高速旋转与频繁变色中坚持更久、刷出高分。
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/color-burst-3d.jpeg
 tags:
@@ -20,38 +19,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] *Color Burst 3D* is a fast-paced and addictive arcade game that tests your reflexes and timing. The objective is to **guide a continuously advancing colored ball through a series of rotating, multi-colored rings.**
+《Color Burst 3D 色彩冲击 3D》是一款节奏紧凑、极度依赖反应和时机判断的街机游戏。你
+需要引导一颗始终向前推进的彩色小球，穿过一圈又一圈会旋转、会变换图案的彩色圆环。
 
-[ZH TRANSLATION NEEDED] To successfully pass through each ring, the player must maneuver the ball so that it **collides only with the segment of the ring that matches the ball's current color**. Hitting any other color will result in an instant game over.
+每一圈圆环都被分割成若干色块，你的任务是**让小球只碰到与当前球体颜色相同的色块**。
+一旦不小心撞到其他颜色，游戏立刻结束，只能重新开始。
 
-[ZH TRANSLATION NEEDED] As the game progresses, the speed increases, the rings rotate faster, and the patterns become more complex. The ball will often change color after passing through a ring, forcing the player to constantly adapt. The goal is to survive for as long as possible and pass through as many rings as you can to achieve the highest score.
+随着时间推移，游戏速度会越来越快，圆环旋转加剧，图案也变得更加复杂。小球在穿过环
+或触发特殊区域后还会改变自身颜色，迫使你不断重新锁定目标色块。你的目标是尽可能多
+地通过圆环并长期存活，冲击更高分数。
 
 ### **Gameplay Strategy & Tips**
 
-1.  **Timing is Everything**: This is a game of rhythm and timing, not just positioning. You need to anticipate the ring's rotation and time your ball's entry to perfectly align with the correct color segment.
-2.  **Small, Precise Movements**: The ball's movement is very sensitive. Avoid making large, sweeping gestures. Use small, controlled left-and-right adjustments to fine-tune your position.
-3.  **Anticipate the Rotation**: Look at the direction and speed the ring is spinning. Don't aim for where the color is now; aim for where it *will be* when your ball reaches the ring.
-4.  **Stay Centered When Possible**: Between rings, it's often a good strategy to return your ball to the center of the screen. This gives you maximum flexibility to move left or right for the next obstacle.
-5.  **Adapt to Color Changes Instantly**: The moment your ball passes through a ring and changes color, your brain needs to immediately switch its target for the next ring. This is a core part of the challenge.
-6.  **Focus on the Gap**: Sometimes it's easier to focus on the "gap" you're aiming for rather than the entire rotating object. Keep your eyes on the prize—the single colored segment you need to hit.
+1.  **节奏与时机优先于位置：** 这是一个“看时机”的游戏，而不是纯粹的“躲避”游戏。你需
+    要提前判断圆环旋转的节奏，在小球抵达时机刚好对齐目标色块，而不是靠最后一瞬间“急
+    转弯”。
+2.  **小幅度微调优于大幅摆动：** 小球的横向移动非常灵敏，幅度太大会导致你在下一圈来
+    不及调整。建议使用细腻的小幅左右移动来精修位置，避免大范围扫动。
+3.  **预判旋转方向：** 观察圆环旋转方向与速度，不要盯着当前色块的位置，而是思考当小
+    球抵达圆环时，目标色块将会转到哪一侧——提前朝那个方向移动，往往比“临时救场”更稳
+    定。
+4.  **中线待命策略：** 在圆环之间的空档期，尽量让小球回到屏幕中间位置。这可以为下一
+    圈预留最大的左右调整空间，遇到复杂图案时更从容。
+5.  **颜色变化要瞬间切换目标：** 小球每次通过圆环后通常会改变颜色。颜色刚变的一瞬间
+    ，就要立刻在下一圈圆环中重新锁定与新颜色相同的区域，不能再盯着原来的目标色块。
+6.  **盯“目标缝隙”，而不是整个圆环：** 很多时候，与其看整个旋转图案，不如把注意力集
+    中在那一小块你必须穿过的安全色块上，把它当作“缝隙”来盯，更不容易被其他颜色干扰视
+    线。
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] As shown in the "How to Play" tutorial, the controls are extremely simple and designed for one-touch gameplay.
+根据“操作说明（How to Play）”教程，本作采用极简的一指操作方式。
 
-*   **Move the Ball**: **Touch and drag** your finger left and right on the slider at the bottom of the screen to control the ball's horizontal position.
+*   **移动小球：** 在屏幕底部的滑条区域左右拖动手指，即可控制小球的水平位置。只需一
+    指滑动即可完成全部操作。
 
 ### **Frequently Asked questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. What happens if I hit the wrong color?**
-[ZH TRANSLATION NEEDED] The game ends immediately, and you will have to restart. The core rule is to only touch the color that matches your ball.
+**1. 不小心撞到错误颜色会怎样？**  
+游戏会立即结束，你需要重新开始本局。唯一的规则就是：小球只能碰到与自身颜色完全相
+同的区域。
 
-[ZH TRANSLATION NEEDED] **2. Does the ball always change color?**
-[ZH TRANSLATION NEEDED] Yes, in most games of this type, the ball will change color after successfully passing through a ring or by hitting a special color-changing icon. You must always be prepared to adapt.
+**2. 小球每次都会变色吗？**  
+在大多数同类型玩法中，小球通常在成功穿过圆环后，或者触发特殊变色标记时改变颜色。
+因此你需要随时做好心理准备，在颜色变化后的第一时间重新确认下一圈目标。
 
-[ZH TRANSLATION NEEDED] **3. How do I get a high score?**
-[ZH TRANSLATION NEEDED] Your score is directly tied to the number of rings you successfully pass through. The longer you survive, the higher your score will be.
+**3. 怎样才能刷到高分？**  
+分数与你通过的圆环数量直接相关。想要高分，就尽量减少低级失误，多熟悉旋转节奏，保
+持更长时间的生存。稳定通关前几波之后，后续高分自然会被带出来。
 
-[ZH TRANSLATION NEEDED] **4. Is this game endless?**
-[ZH TRANSLATION NEEDED] Yes, *Color Burst 3D* is designed as an endless arcade-style game. The goal is not to reach an end, but to challenge yourself and others to get the highest score possible.
-
+**4. 游戏是无尽模式吗？**  
+是的，《Color Burst 3D》属于典型的无尽街机玩法，没有真正的终点关卡。核心乐趣在于不
+断刷新自己的最高纪录，挑战反应极限。

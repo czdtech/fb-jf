@@ -1,82 +1,41 @@
 ---
+title: "Giant Attack"
+description: "アクション満載のアーケードゲームで巨大なモンスターに挑みましょう！味方を集めてサイズとパワーを上げ、壊滅的な攻撃を繰り出して、そびえ立つ怪物を倒してください。"
+iframeSrc: "https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/"
+thumbnail: "/new-images/giant-attack.png"
+urlstr: "giant-attack"
+score: "4.1/5  (1800 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: giant-attack
-title: '[JA TRANSLATION NEEDED] Giant Attack'
-description: >-
-  [JA TRANSLATION NEEDED] Take on colossal giants in this action-packed arcade
-  game! Collect your allies to grow in size and power, and unleash devastating
-  attacks to defeat the towering monsters.
-iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
-thumbnail: /new-images/giant-attack.png
-tags:
-  - action
-  - casual
-score: 4.1/5  (1800 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Giant Attackは、巨大なモンスターと対決する、スピーディーでスリリングなアクションゲームです。あなたはヒーローを操作し、これらそびえ立つ脅威から守らなくてはなりません。勝利への鍵は攻撃するだけでなく、戦場に散らばった味方を集めることにあります。これらの味方を集めることで、キャラクターのサイズと力が大きくなり、より強力な発射物を放って、巨人に押しつぶされる前に倒すことができるようになります。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Giant Attack is a fast-paced and thrilling action game where you face off against colossal monsters. You control a hero who must defend against these towering threats. The key to victory lies not just in attacking, but in gathering allies scattered across the battlefield. Collecting these allies makes your character grow in size and strength, enabling you to unleash more powerful projectiles and take down the giants before they crush you.
+1.  **集めて成長:** まずは、地面に現れる小さな色のついた味方を集めるためにキャラクターを動かすことに集中しましょう。拾うたびに、キャラクターはより大きく、より強くなります。
+2.  **数の力:** 成長するにつれて、自動的に投げる発射物はより大きく、より破壊的になります。小さなキャラクターは斧を投げるかもしれませんが、巨大化したヒーローは巨大なハンマーを投げつけるかもしれません。
+3.  **回避と迂回:** 味方を集めることに集中しつつも、巨人の攻撃にも注意を払う必要があります。飛んでくる発射物や地面への叩きつけを避けて、戦い続けましょう。
+4.  **集中砲火:** キャラクターは自動的に攻撃します。あなたの主な仕事は、発射物が常に巨人に当たって体力バーを削れるようにしつつ、味方を集められる位置取りをすることです。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Gather and Grow:** Your primary focus should be on moving your character to collect the small, colored allies that appear on the ground. Each one you pick up contributes to making your character bigger and stronger.
-[JA TRANSLATION NEEDED] 2.  **Power in Numbers:** As you grow, the projectiles you automatically throw become larger and more devastating. A small character might throw axes, while a giant-sized hero might hurl massive hammers.
-[JA TRANSLATION NEEDED] 3.  **Dodge and Weave:** While you are focused on collecting allies, you must also pay attention to the giant's attacks. Dodge incoming projectiles or ground slams to stay in the fight.
-[JA TRANSLATION NEEDED] 4.  **Focus Fire:** Your character attacks automatically. Your main job is to position yourself to collect allies while ensuring your projectiles are consistently hitting the giant to wear down its health bar.
+操作はシンプルで直感的にデザインされています。
 
-### Controls Guide
+*   **キャラクター移動:** マウスまたは指を使って、戦場を左右にドラッグし、味方を集めたり攻撃を避けたりします。
+*   **攻撃:** 攻撃は自動です。生きている限り、キャラクターは継続的に敵に武器を投げ続けます。
 
-[JA TRANSLATION NEEDED] The controls are designed to be simple and intuitive.
+### よくある質問 (FAQ)
 
-*   **Move Character:** Use your mouse or finger to click and drag your character left and right across the battlefield to collect allies and dodge attacks.
-    - **A:** You don't need to press a button to attack; your hero does it automatically. Your main task is to focus on movement—collecting allies and dodging.（日本語訳が必要）
-    - **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.（日本語訳が必要）
-    - **A:** You win by depleting the giant's health bar to zero before it defeats you.（日本語訳が必要）
-    - **A:** You don't need to press a button to attack; your hero does it automatically. Your main task is to focus on movement—collecting allies and dodging.（日本語訳が必要）
-    - **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.（日本語訳が必要）
-    - **A:** You win by depleting the giant's health bar to zero before it defeats you.（日本語訳が必要）
-*   **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
+*   **Q: どうやって巨人を攻撃するのですか？**
+    *   **A:** 攻撃ボタンを押す必要はありません。ヒーローが自動的に行います。あなたの主なタスクは移動、つまり味方を集めて回避することに集中することです。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: あまりダメージを与えられないのはなぜですか？**
+    *   **A:** もっと大きくなる必要があります！多くの味方を集めるほど、キャラクターは巨大で強力になり、与えるダメージも増えます。小さいままだと、攻撃は弱すぎます。
 
-*   **Q: How do I attack the giant?**
-[JA TRANSLATION NEEDED]     *   **A:** You don't need to press a button to attack; your hero does it automatically. Your main task is to focus on movement—collecting allies and dodging.
-
-*   **Q: Why am I not doing much damage?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
-
-*   **Q: How do I win a level?**
-
-
-
-
-
-
-
-
-    - **A:** You win by depleting the giant's health bar to zero before it defeats you.
-- **Q: How do I win a level?**
-    - **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
-- **Q: Why am I not doing much damage?**
-    - **A:** You don't need to press a button to attack; your hero does it automatically. Your main task is to focus on movement—collecting allies and dodging.
-- **Q: How do I attack the giant?**
-### よくある質問（FAQ）
-- **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
-
-
-
-
-
-    - **A:** You win by depleting the giant's health bar to zero before it defeats you.
-- **Q: How do I win a level?**
-    - **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
-- **Q: Why am I not doing much damage?**
-    - **A:** You don't need to press a button to attack; your hero does it automatically. Your main task is to focus on movement—collecting allies and dodging.
-[JA TRANSLATION NEEDED]     *   **A:** You win by depleting the giant's health bar to zero before it defeats you.
-
+*   **Q: レベルをクリアするには？**
+    *   **A:** 巨人に倒される前に、巨人の体力バーをゼロにすると勝利です。

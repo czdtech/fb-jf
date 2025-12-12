@@ -1,11 +1,8 @@
 ---
 locale: ko
 urlstr: mahjong
-title: '[KO] Mahjong'
-description: >-
-  [KO] Mahjongg Solitaire is a classic single-player puzzle game based on
-  traditional Chinese Mahjong tiles, where players match identical open pairs to
-  clear the board.
+title: Mahjong 마작
+description: Mahjongg Solitaire는 전통 중국 마작 패를 사용해 같은 모양의 열린 패를 짝지어 없애는 고전 퍼즐 게임입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/mahjong.jpg
 tags:
@@ -18,36 +15,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Mahjongg Solitaire*는 전통 중국 마작 패를 바탕으로 한 싱글 플레이 매칭 퍼즐 게임입니다.
+목표는 보드 위에 놓인 동일한 모양의 열린 패를 짝지어 제거해, 모든 패를 깔끔하게
+지워 버리는 것입니다. 규칙은 단순하지만, 어떤 쌍부터 없앨지에 따라 판이 막히기도
+풀리기도 해서 전 세계 플레이어들에게 사랑받고 있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Mahjongg Solitaire" is a single-player matching game based on traditional Chinese Mahjong tiles. The objective of the game is to clear the entire board by matching pairs of identical, open tiles. Due to its easy-to-understand rules and challenging gameplay, Mahjongg Solitaire is loved by players worldwide.
+1. **보드 구조 관찰:** 시작하기 전에 전체 배치를 천천히 살펴보며 당장 맞출 수 있는
+   쌍과, 지우면 많은 패가 열릴 것 같은 위치를 파악하세요.
+2. **막고 있는 패부터 제거:** 다른 패 위에 올라 있거나 여러 칸을 가로로 막고 있는
+   쌍을 우선적으로 제거해, 이후 선택지를 최대한 많이 남기는 것이 중요합니다.
+3. **여러 수를 미리 계획:** 한 수만 보고 두기보다는, 그 다음 수까지 최소 2~3 수는
+   미리 그려 보며 매치를 선택하세요.
+4. **힌트·셔플은 최후의 수단:** 막혔을 때만 힌트나 셔플 기능을 사용해 보세요. 너무 자주
+   사용하면 퍼즐 특유의 고민하는 재미가 줄어듭니다.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Observe the Board Layout**: Carefully examine the board to identify available matching pairs.
-2.  **[KO]** **Prioritize Blocking Tiles**: Focus on removing pairs that block other tiles to unlock more matching possibilities.
-3.  **[KO]** **Plan Multiple Moves**: Plan several moves ahead to ensure each step creates favorable conditions for subsequent matches.
-4.  **[KO]** **Use Hints and Shuffles**: Utilize in-game hints or shuffle features when stuck, but use them sparingly to maintain the game's challenge.
+* **쌍 선택:** 같은 그림의 열린 패 두 장을 차례로 클릭하면 그 쌍이 보드에서 제거됩니다.
+* **열린 패 판별:** 타일이 '열려 있다'고 간주되려면 다음 조건을 만족해야 합니다.
+    - 좌우 한쪽 이상이 비어 있을 것
+    - 위에 다른 타일이 겹쳐 있지 않을 것
+* **게임 종료 조건:** 모든 패를 성공적으로 제거하면 승리이며, 더 이상 매칭 가능한 쌍이
+  없는데 셔플 기능도 없다면 그 판은 종료됩니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Select Pairs**: Click on two identical and open tiles to remove them.
-*   **[KO]** **Identify Open Tiles**: A tile is considered open if it meets the following criteria:
-    *   **[KO]** It has no adjacent tiles on its left or right side.
-    *   **[KO]** It is not covered by any tiles above it.
-*   **[KO]** **Game End Conditions**: The game ends when all tiles are successfully removed or when there are no more possible matches.
-
-### Frequently Asked Questions
-
-1.  **[KO]** **Q: What if the game doesn't load or start?**
-**A**: Try refreshing the page or switching browsers. If the problem persists, clearing your browser's cache might help.
-2.  **[KO]** **Q: How can I enlarge the game interface?**
-**A**: Click the full-screen button in the lower right corner of the game interface to enter full-screen mode and enlarge the game area.
-3.  **[KO]** **Q: Are there different tile themes available?**
-**A**: Many versions of Mahjongg Solitaire offer various tile themes, which you can change in the game settings.
-4.  **[KO]** **Q: What if there are no more matching pairs in the game?**
-**A**: Some game versions provide a shuffle feature, allowing you to rearrange the tiles to continue playing.
-5.  **[KO]** **Q: How do I pause the game?**
-**A**: Click the pause button in the game interface to pause the game, and the timer will also stop.
+1. **Q: 게임이 로딩되지 않거나 시작이 안 되면 어떻게 하나요?**  
+   **A:** 페이지를 새로고침하거나 다른 브라우저로 시도해 보세요. 문제가 계속되면
+   브라우저 캐시를 지우는 것이 도움이 될 수 있습니다.
+2. **Q: 게임 화면을 크게 보고 싶은데 가능한가요?**  
+   **A:** 인터페이스 오른쪽 아래의 전체 화면 버튼을 눌러 풀스크린 모드로 전환하면
+   더 넓은 화면으로 플레이할 수 있습니다.
+3. **Q: 타일 테마를 바꿀 수 있나요?**  
+   **A:** 많은 Mahjongg Solitaire 버전에서 여러 가지 타일 테마를 제공하며, 게임 설정
+   메뉴에서 변경할 수 있습니다.
+4. **Q: 더 이상 매칭할 수 있는 쌍이 없으면 어떻게 하나요?**  
+   **A:** 일부 버전에는 남은 타일을 다시 섞어 계속 플레이할 수 있는 셔플 기능이
+   포함되어 있습니다.
+5. **Q: 게임을 일시정지하려면 어떻게 하나요?**  
+   **A:** 게임 화면에 있는 일시정지 버튼을 누르면 게임이 멈추고, 타이머도 함께
+   중지됩니다.

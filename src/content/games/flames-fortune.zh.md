@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: flames-fortune
-title: '[ZH TRANSLATION NEEDED] Flames & Fortune'
+title: "Flames & Fortune 烈焰與幸運卡牌戰"
 description: >-
-  [ZH TRANSLATION NEEDED] Flames & Fortune is a tactical card‑style battler —
-  manage hands, trade tempo, and outplay foes with smart turns.
+  Flames & Fortune 是一款戰術感很強的卡牌式戰鬥遊戲，透過管理手牌與節奏，
+  在回合中作出精準判斷，以智慧壓制對手。
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/flames-fortune.jpg
 tags:
@@ -17,23 +17,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Flames & Fortune is a compact, turn‑based battler with card‑like decisions. Play effects in efficient sequences, manage limited resources, and adapt to enemy intents to swing momentum your way.
+《Flames & Fortune》是一款精簡但深度十足的回合制戰鬥遊戲，玩法接近構築卡牌對戰。
+每回合你要決定出哪些牌、以什麼順序打出效果，在有限資源下做出最有效率的連招，
+同時根據敵人的「意圖」調整自己的進攻與防守，將戰局節奏控制在自己手裡。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Curve planning: Spend your turn’s resources cleanly; avoid floating energy.
-2.  [ZH TRANSLATION NEEDED] Value trades: Use small cards to set up big swings next turn.
-3.  [ZH TRANSLATION NEEDED] Read intents: Counter incoming damage with blocks or denies.
-4.  [ZH TRANSLATION NEEDED] Deck focus: Prioritize consistent synergies over scattered picks.
-5.  [ZH TRANSLATION NEEDED] Mulligan wisely: If available, mulligan slow hands against fast foes.
+
+1.  **規劃費用曲線：** 盡量把每回合的資源花到「剛剛好」，不要留下太多閒置能量，
+    但也避免為了凹乾淨費用而打出價值不高的牌。
+2.  **做出有利交換：** 用小成本的卡牌鋪墊，為下一回合創造大幅度的節奏優勢，
+    例如先削弱敵人或疊加增益，再在下個回合打出高爆發卡。
+3.  **讀懂敵方意圖：** 很多敵人會事先顯示下回合要攻擊、防禦或施放技能，
+    你可以根據這些提示選擇疊護盾、打斷或反打，避免盲目進攻。
+4.  **聚焦牌組核心：** 構築或升級時要圍繞少數幾個核心協同來組牌，
+    比起什麼都想要，一套穩定的連鎖機制更重要。
+5.  **聰明換牌（Mulligan）：** 若遊戲提供起手換牌機制，面對節奏很快的敵人時，
+    儘量換掉過於偏後期或太慢的牌，確保起手有基本防禦與節奏卡。
 
 ### Controls Guide
 
-- Play/End turn: Click/tap cards and confirm actions.
-- Inspect: Hover/tap to read effects.
+- 出牌與結束回合：點擊／輕觸手牌並確認動作即可。
+- 查看卡牌說明：將滑鼠懸停或在行動裝置上點擊卡牌即可查看詳細效果。
 
 ### Frequently Asked Questions (FAQ)
 
-- RNG heavy? Mitigated by smart sequencing and resource planning.
-- Best builds? Lean into a few synergies rather than many partial ones.
-- Can I recover from bad draws? Stabilize with defense and play for two‑turn swings.
+- 問：這遊戲會不會太看臉？  
+  答：雖然抽牌帶有隨機性，但透過調整牌組密度、合理規劃連招順序，
+  可以大幅降低「運氣」的影響，讓實力扮演更重要的角色。
 
+- 問：有推薦的牌組思路嗎？  
+  答：比起拼湊許多零散效果，更建議專注在少數幾條核心路線，例如持續灼燒流、
+  防反反擊流或爆發一擊流，整套牌組圍繞這些關鍵互動來構築。
+
+- 問：抽到爛牌還有救嗎？  
+  答：可以先用防禦與控制型卡牌穩住局面，拉長戰鬥節奏，
+  等到好牌上手時再一次爆發，兩回合連續出牌常能扭轉戰局。

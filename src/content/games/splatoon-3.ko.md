@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: splatoon-3
-title: '[KO] Splatoon 3'
+title: 'Splatoon 3 스플래툰 3'
 description: >-
-  [KO] Dive into the colorful world of Splatoon 3! In this action-packed
-  shooter, cover the territory with your team's ink to claim victory. Transform
-  into a squid to swim through your ink, ambush opponents, and refill your
-  weapon. Master movement and teamwork to dominate the turf.
+  Splatoon 3는 땅을 차지하는 잉크 배틀이 핵심인 팀 기반 슈팅 게임입니다.
+  잉크를 쏘고, 오징어 형태로 잉크 속을 헤엄치며 맵을 칠해 더 넓은 구역을
+  점령하는 팀이 승리합니다.
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/splatoon-3.jpg
 tags:
@@ -19,37 +18,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Splatoon 3 is a vibrant and stylish third-person shooter where the goal isn't just to defeat opponents, but to cover the map with your team's colored ink. Players control unique characters called Inklings and Octolings who can instantly switch between a humanoid "kid" form to shoot ink and a "squid" form to swim through it.
+Splatoon 3는 적을 쓰러뜨리는 것보다 "맵을 얼마나 많이 칠했는가"가 더 중요한
+독특한 3인칭 슈팅 게임입니다. 플레이어는 잉크를 쏘는 인간형 모습의 잉클링 또는
+옥토링을 조작하다가, 필요할 때는 오징어 형태로 변해 잉크 속을 빠르게
+헤엄칠 수 있습니다. 사람/오징어 두 가지 형태를 적절히 오가며 맵을 칠하고,
+상대를 기습하는 것이 핵심입니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-The most common game mode is Turf War, a 4v4 battle where the team that covers the highest percentage of the map with their ink in three minutes wins.
-- **Kid Form:** Use this form to run, jump, and fire your ink weapon to cover turf and "splat" opponents.
-- **Squid Form:** Dive into your own ink to become a squid. In this form, you move much faster, can swim up inked walls, and are hidden from enemies. Swimming in ink also reloads your ink tank.
-- **Teamwork:** Coordinate with your team to control key areas of the map and push back the enemy.
+대표적인 모드는 4 대 4로 진행되는 **터프 워(Turf War)** 입니다. 3분 동안
+자기 팀 색깔의 잉크로 맵을 더 많이 칠한 팀이 승리합니다.
 
-### Controls Guide
+- **사람(키드) 형태:** 이 상태에서는 달리고 점프하며 무기로 잉크를 발사해
+  지면과 벽을 칠하고, 상대를 "스플랫"시킬 수 있습니다.
+- **오징어(스퀴드) 형태:** 자신 팀의 잉크 속으로 잠수해 빠르게 이동하고,
+  잉크 칠이 된 벽을 타고 오르며, 상대에게 잘 보이지 않게 숨을 수 있습니다.
+  잉크 속을 헤엄치는 동안에는 탄창(잉크 탱크)도 자동으로 회복됩니다.
+- **팀워크:** 맵의 핵심 거점과 이동 동선을 팀원들과 함께 장악하는 것이 중요합니다.
+  상대를 계속 쓰러뜨리는 것도 좋지만, 최종 승패는 잉크로 덮은 면적으로
+  결정된다는 점을 항상 염두에 두세요.
 
-While specific controls can vary, they are generally based on standard shooter layouts:
-- **Movement:** `WASD` or `Arrow Keys`
-- **Shoot Ink:** `Left Mouse Button`
-- **Sub Weapon:** `Right Mouse Button` or `G`
-- **Transform to Squid:** `Shift` or `Spacebar` (Hold to swim)
-- **Jump:** `Spacebar` (when in kid form)
+### 조작 방법 안내
 
-### Frequently Asked Questions (FAQ)
+플랫폼에 따라 세부 조작은 다를 수 있지만, 기본 구조는 일반적인 슈팅 게임과
+비슷합니다.
 
-**What is the main objective?**
+- **이동:** `WASD` 또는 `방향키`
+- **잉크 발사:** `마우스 왼쪽 버튼`
+- **보조 무기 사용:** `마우스 오른쪽 버튼` 또는 `G`
+- **오징어로 변신:** `Shift` 또는 `Spacebar` (길게 눌러 잉크 속을 헤엄침)
+- **점프:** 사람 형태에서 `Spacebar`
 
-In the primary Turf War mode, the main objective is to cover more of the map's surface with your team's ink color than the opposing team.
+### 자주 묻는 질문(FAQ)
 
-**What happens when I run out of ink?**
+**Q. 주요 목표는 무엇인가요?**
 
-You cannot fire your main weapon when your ink tank is empty. To refill it, simply transform into your squid form and swim in your team's ink for a few seconds.
+주요 모드인 터프 워에서는, 제한 시간 안에 맵 표면을 상대 팀보다 더 많이
+자기 팀의 잉크로 칠하는 것이 가장 중요한 목표입니다.
 
-**Is it better to cover turf or splat opponents?**
+**Q. 잉크가 떨어지면 어떻게 되나요?**
 
-Both are important! Splatting opponents temporarily removes them from the field, giving your team an opportunity to cover more turf uncontested. However, the ultimate winner is decided by ink coverage, so don't neglect painting the ground.
+잉크 탱크가 비면 메인 무기를 쏠 수 없습니다. 이럴 때는 오징어 형태로 변신해
+자신 팀 잉크 속을 몇 초간 헤엄치면 잉크가 빠르게 회복됩니다.
 
+**Q. 상대를 쓰러뜨리는 것이 더 중요할까요, 잉크를 칠하는 것이 더 중요할까요?**
+
+두 가지 모두 중요합니다. 상대를 스플랫시키면 잠시 동안 복귀 지점으로
+보내 버릴 수 있어, 그 사이에 넓게 칠할 기회를 만들 수 있습니다.
+하지만 최종 승패는 잉크 점유율로 결정되므로, 전투에만 몰두하지 말고
+틈틈이 바닥과 벽을 칠해 영역을 넓히는 것이 좋습니다.

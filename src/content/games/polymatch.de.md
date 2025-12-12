@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: polymatch
-title: '[DE] PolyMatch'
+title: PolyMatch
 description: >-
-  [DE] Dive into the colorful world of PolyMatch! A unique puzzle game where you
-  rotate and place polyomino pieces to complete intricate patterns.
+  Tauche ein in die bunte Welt von PolyMatch! Ein kniffliges Puzzlespiel, in dem
+  du Kacheln mit gleichen Motiven sammelst und kombinierst, ohne dass dein
+  Ablagebereich überläuft.
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/polymatch.png
 tags:
@@ -16,33 +17,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+PolyMatch ist ein entspanntes, aber anspruchsvolles Kachel-Puzzlespiel, das
+ deine Beobachtungsgabe und dein Planungstalent fordert. Auf dem Spielfeld
+ liegen zahlreiche Kacheln mit unterschiedlichen Bildern. Dein Ziel ist es, das
+ Brett zu leeren, indem du Paare identischer Kacheln findest und bildest. Die
+ Besonderheit: Unten befindet sich ein begrenzter Ablagebereich, der nur wenige
+ Kacheln aufnehmen kann. Füllt er sich, bevor du passende Paare bildest, ist
+ die Runde verloren.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Sichtbare Paare zuerst:** Bilde zuerst offensichtliche Paare, die leicht
+    zugänglich sind. So schaffst du Platz und legst neue Kacheln frei.
+2.  **Ablagebereich im Blick behalten:** Dein Speicher unten ist deine
+    wichtigste Ressource. Tippe keine Kachel an, wenn du keinen klaren Plan hast,
+    wie du sie in ein Paar verwandeln willst.
+3.  **Verborgene Kacheln einplanen:** Wenn du Reihen abräumst, kommen neue
+    Motive zum Vorschein. Versuche vorherzusehen, welche Kacheln nachrücken und
+    wie sie mit den bereits im Ablagebereich liegenden kombiniert werden
+    können.
+4.  **Gezieltes Antippen:** Hast du mehrere mögliche Paare, wähle das aus,
+    welches dir den schwierigsten Bereich des Bretts öffnet oder die meisten
+    weiteren Matches ermöglicht.
+5.  **Keine Eile:** In vielen Versionen gibt es kein Zeitlimit. Nimm dir also
+    die Zeit, das Brett zu analysieren – ein unüberlegter Klick kann das Feld
+    schnell verstopfen.
 
-PolyMatch is an engaging tile-matching puzzle game that challenges your observation and strategic thinking. The game presents you with a board filled with various tiles, each featuring a unique image or pattern. Your objective is to clear the board by finding and matching pairs of identical tiles. The twist lies in the limited holding area at the bottom of the screen, which can only hold a few tiles. You must carefully select tiles to ensure you can make matches and prevent the holding area from filling up, which would lead to a game over.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+*   **Kachel auswählen:** Klicke oder tippe auf eine Kachel auf dem Brett, um
+    sie in den Ablagebereich unten zu verschieben. Sobald sich dort drei
+    identische Kacheln befinden (je nach Variante), werden sie entfernt.
 
-1.  **[DE]** **Prioritize Visible Matches:** Always look for and make matches that are immediately visible and accessible. This helps to clear space and reveal more tiles.
-2.  **[DE]** **Manage the Holding Area:** The holding area is your most critical resource. Never tap a tile unless you have a clear plan for how it will be matched. Avoid filling it with unmatched tiles.
-3.  **[DE]** **Look for Hidden Tiles:** As you clear tiles, new ones will be revealed. Try to anticipate which tiles will become available and how they might contribute to future matches.
-4.  **[DE]** **Strategic Tapping:** If you have multiple options for a match, consider which one will open up the most possibilities or clear the most difficult sections of the board.
-5.  **[DE]** **Don't Rush:** There's no time limit in many versions of PolyMatch, so take your time to analyze the board and plan your moves carefully. A single wrong tap can lead to a game over.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   **F: Wie gewinne ich ein Level?**
+    **A:** Indem du alle Kacheln vom Spielfeld entfernst, bevor der
+    Ablagebereich dauerhaft voll ist.
 
-*   **[DE]** **Select Tile:** Click or tap on a tile on the main game board to move it to the holding area at the bottom.
+    - **F: Was passiert, wenn der Ablagebereich voll ist?**
+    **A:** Ist der Speicher (typisch 6 Slots) komplett belegt und du kannst kein
+    weiteres Paar bilden, ist das Spiel vorbei.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Gibt es Power-ups oder Hinweise?**
 
-*   **[DE]** **Q: How do I win a level?**
-    *   **[DE]** **A:** You win a level by successfully clearing all the tiles from the main game board.
+    - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
 
-*   **[DE]** **Q: What happens if the holding area fills up?**
-    *   **[DE]** **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
+- **Q: Are there power-ups or hints?**
 
-*   **[DE]** **Q: Are there power-ups or hints?**
-    *   **[DE]** **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
-
+    - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
+    **A:** Einige Versionen bieten Hilfen wie Mischen oder Hinweisfunktionen,
+    die dir mögliche Paare anzeigen, wenn du feststeckst.

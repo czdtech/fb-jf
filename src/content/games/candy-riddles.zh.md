@@ -1,49 +1,65 @@
 ---
 locale: zh
 urlstr: candy-riddles
-title: '[ZH TRANSLATION NEEDED] Candy Riddles'
+title: Candy Riddles 糖果谜题三消
 description: >-
-  [ZH TRANSLATION NEEDED] Candy Riddles is a cheerful match‑3 — swap sweets,
-  trigger combos, and solve stage objectives with smart cascades.
-iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
+  《Candy Riddles 糖果谜题三消》是一款将糖果主题与关卡目标结合的三消游戏，通过消除可爱糖果和饼干，完成收集
+  任务、清理障碍或在限定步数内达成高分。
+iframeSrc: 'https://4d9ekrrprslj8.h5games.usercontent.goog/v/5acokr8ta2ei8/'
 thumbnail: /new-images/candy-riddles.png
 tags:
   - puzzle
   - casual
-  - thinky
-score: 4.2/5  (2018 votes)
+score: 4.4/5  (2300 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Candy Riddles is a colorful match‑3 puzzler where you swap adjacent candies to form lines of three or more. Matches clear tiles, charge power‑ups, and can free trapped cells or collect mission items. As stages progress, blockers (e.g., frosting, crates), limited moves, and special goals require planning and efficient cascades.
+*Candy Riddles* 是一款画风甜美的关卡制三消游戏。棋盘上布满各种表情可爱的糖果、饼干和冰淇淋，你需要通过交换相邻的图块，让三个及以上同种图案连成一线，从而完成消除。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Work from the bottom to generate natural cascades that clear more tiles for free.
-2.  [ZH TRANSLATION NEEDED] Target objectives first (e.g., remove blockers, collect items) before chasing score.
-3.  [ZH TRANSLATION NEEDED] Combine power‑ups: merging a line‑clear with a bomb or color clear often wipes large areas.
-4.  [ZH TRANSLATION NEEDED] Avoid isolating colors near walls; keep the board open for future matches.
-5.  [ZH TRANSLATION NEEDED] On limited‑move stages, map two to three moves ahead to conserve steps.
+每一关都有特定任务，例如：收集一定数量的某种糖果、消除覆盖着冰块或巧克力的底板、在限定步数内达到目标分数等。随着进度推进，会解锁更多机制、特殊图块和更复杂的棋盘布局。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Swap two neighboring candies by dragging; only valid matches are executed.
-- Activate power‑ups by matching or tapping them per rules.
+1.  **围绕关卡目标来规划每一步**  
+    在有限步数模式中，随意消除很容易浪费宝贵机会。每次交换前先确认这步是否有助于当前任务，例如是否能顺手打碎障碍或收集目标糖果。
+
+2.  **善用特殊糖果与组合消除**  
+    一次消除 4 个、5 个或特定形状的糖果会生成带特殊效果的糖果（如横向 / 纵向条纹糖果、炸弹糖果、彩虹糖果等）。  
+- 条纹糖果可清一整行 / 列；  
+- 炸弹糖果以自身为中心清除一大片；  
+- 彩虹糖果可清除全盘某一种图案。  
+
+3.  **尝试让特殊糖果组合触发更强效果**  
+    将两个特殊糖果互相交换，会产生比单独使用更夸张的清屏效果，是突破高难关卡的关键手段之一。
+
+4.  **优先处理冰块、锁链等“阻塞型障碍”**  
+    这些障碍会限制棋盘的连锁与刷新，应该尽早通过相邻消除或特殊糖果打碎，恢复棋盘的流动性。
+
+5.  **留意上方掉落路径，制造连锁**  
+    适当规划消除顺序，让新掉落的糖果有机会自动连成新的三消，可以在不多花步数的情况下获得额外收益。
+
+### 操作指南
+
+*   **交换图块：** 用鼠标或手指拖动一个糖果，与相邻位置互换。只有在能形成有效三消时交换才会成立。  
+
+
 - Pause/Restart via UI.
 
-### Frequently Asked Questions (FAQ)
+- Activate power‑ups by matching or tapping them per rules.
+### 常见问题解答（FAQ）
+
 
 - Q: I always fail move‑limit levels — what am I doing wrong?
-  
-[ZH TRANSLATION NEEDED]   A: You may be scoring without advancing the objective. Prioritize blockers/targets and combine power‑ups to maximize value per move.
+**问：卡在某一关过不去怎么办？****
 
 - Q: Do diagonals count?
-  
-[ZH TRANSLATION NEEDED]   A: Typically no — most match‑3s only count orthogonal lines unless a special rule says otherwise.
+答：** 尝试调整思路：更多专注于制造和组合特殊糖果，同时优先攻击关卡目标附近的区域。必要时可以使用游戏提供的道具辅助突破。
+
 
 - Q: Any tip for stubborn blockers?
-  
-[ZH TRANSLATION NEEDED]   A: Detonate bombs next to them or chain line clears through the row/column to chip them down quickly.
+**问：所有关卡都是步数限制吗？****
+答：** 多数为步数或时间限制，也可能会有特殊模式（如无限步数但目标极高的挑战关），具体以关卡说明为准。
 

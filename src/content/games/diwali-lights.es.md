@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: diwali-lights
-title: '[ES] Diwali Lights'
+title: "Diwali Lights"
 description: >-
-  [ES] Diwali Lights is a festive tap‑puzzle — light diyas in patterns, avoid
-  overlaps, and complete glowing designs.
+  Diwali Lights es un puzle festivo de tocar para encender: ilumina diyas según
+  patrones, evita solapamientos y completa diseños brillantes.
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/diwali-lights.jpg
 tags:
@@ -15,29 +15,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Diwali Lights es un puzle de iluminación inspirado en la festividad de Diwali.
+Tu tarea es activar lámparas (diyas) en el orden o patrón correcto para iluminar
+un dibujo sin romper las reglas del tablero. A medida que avanzas aparecen
+limitaciones de movimientos, interruptores y elementos temporizados que hacen el
+reto más interesante.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **Entiende las reglas del tablero:** Algunos niveles limitan las
+    superposiciones, otros exigen secuencias concretas. Léete los objetivos
+    antes de tocar nada.
+2.  **Traza una ruta mental:** Diseña un recorrido que minimice las idas y
+    vueltas y respete el límite de movimientos.
+3.  **Aprovecha los interruptores:** Usa los conmutadores para activar varias
+    zonas o objetivos a la vez en lugar de gastar acciones por separado.
+4.  **Divide el patrón en grupos:** Resuelve un motivo o área del diseño cada
+    vez para no saturarte con toda la figura a la vez.
+5.  **Optimiza con reintentos rápidos:** Son puzles cortos; si cometes un error,
+    reinicia sin miedo y prueba una ruta más eficiente.
 
-Diwali Lights is a holiday‑themed light‑up puzzle. Activate lamps (diyas) in the correct order or pattern to illuminate designs without crossing rules. Later stages add limited moves, switches, and timing.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Toca o haz clic sobre las lámparas, interruptores o casillas activables según
+  las reglas de cada puzle.
+- Usa las funciones de Deshacer o Reiniciar si la versión las ofrece.
 
-1.  **[ES]** Understand rules: Some boards restrict overlaps or require sequences—read objectives first.
-2.  **[ES]** Plan routes: Map a path that minimizes backtracking and respects move limits.
-3.  **[ES]** Save toggles: Use switches to open multiple goals at once.
-4.  **[ES]** Visual groups: Solve one motif at a time to simplify the board.
-5.  **[ES]** Retry optimization: Short puzzles reward fast restarts after missteps.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **P: Siempre me quedo sin movimientos, ¿qué estoy haciendo mal?**  
+  **R:** Probablemente tu ruta da demasiadas vueltas. Intenta dibujar un camino
+  más corto que recorra todas las lámparas necesarias sin repetir pasos.
 
-- Tap/Click lamps, switches, or tiles per puzzle rules.
-- Undo/Reset if the mode allows.
+- **P: ¿Hay niveles cronometrados?**  
+  **R:** En algunos tableros hay contadores de tiempo; en ellos conviene
+  iluminar primero las zonas ligadas a temporizadores.
 
-### Frequently Asked Questions (FAQ)
-
-- I keep failing on move limits—why? Your path wastes steps; redraw a shorter route.
-- Timed boards? Complete motifs near timers first.
-- Are hints available? Often yes; use them sparingly.
-
+- **P: ¿El juego tiene sistema de pistas?**  
+  **R:** Muchas versiones incluyen pistas; úsalas como último recurso para no
+  quitarle gracia al puzle.

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: funny-shooter
-title: '[ZH TRANSLATION NEEDED] Funny Shooter'
+title: "Funny Shooter 奇葩射擊"
 description: >-
-  [ZH TRANSLATION NEEDED] Wave shooter prototype: fight quirky enemies, collect
-  cash, and upgrade weapons to survive increasingly tough rounds.
+  波次制射擊原型作：在一波波攻勢中對付各式怪異敵人，
+  收集金錢並升級武器，才能在愈來愈硬的關卡中存活。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/funny-shooter.jpg
 tags:
@@ -17,26 +17,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] First‑person waves with evolving enemy types and basic upgrades.
+
+《Funny Shooter》是一款第一人稱視角的波次射擊遊戲，敵人種類會隨著波次逐漸進化，
+玩家則可以透過基本的升級系統強化火力與生存能力。整體風格偏惡搞，但戰鬥節奏相當緊湊。
 
 ### How to Play
-- Keep moving and kiting; eliminate ranged threats first.
-- Spend between waves on stronger guns and utilities.
-- Watch ammo; reload in safe windows.
+
+- 持續移動並拉風箏，不要被敵人包圍；優先擊殺遠程輸出或高威脅目標。
+- 在波次間利用賺到的金錢購買更強的槍枝與輔助裝備，逐步提升總輸出與續戰力。
+- 注意彈藥數量，盡量在安全區或敵人距離較遠時完成換彈，避免在近距離對槍時突然空倉。
 
 ### Controls
-- WASD to move, Mouse to aim/shoot; R reload; number keys swap.
+
+- WASD 控制移動，滑鼠瞄準與射擊。
+- R 重新裝填彈藥。
+- 數字鍵切換主武器與副武器。
 
 ### Tips
-- Headshots conserve ammo and time.
-- Use cover and corners to funnel enemies.
-- Save explosives for elite waves.
+
+- 儘量瞄準頭部，可以節省彈藥與擊殺時間，特別是在高波次時差異很大。
+- 善用掩體與牆角，將敵人引導到狹窄通道中，方便你集中火力掃射。
+- 將爆炸物或高傷害技能留給精英或 Boss 波次，比拿來清雜兵更有價值。
 
 ### FAQ
-- Q: How can I unlock better weapons?  
-[ZH TRANSLATION NEEDED]   A: Purchase them with money earned from clearing waves.
-- Q: Does the game include boss encounters?  
-[ZH TRANSLATION NEEDED]   A: Some hosts feature periodic bosses that require burst damage.
-- Q: Can I change mouse sensitivity?  
-[ZH TRANSLATION NEEDED]   A: Most hosts include settings for sensitivity.
 
+- 問：要怎麼解鎖更強的武器？  
+  答：通過波次與擊殺敵人獲得金錢，之後到商店或升級介面購買新的武器與強化模組。
+
+- 問：遊戲裡有 Boss 嗎？  
+  答：部分託管版本會在特定波次加入 Boss 或特殊敵人，通常需要集火輸出與良好的走位才能擊倒。
+
+- 問：滑鼠靈敏度可以調整嗎？  
+  答：多數版本提供設定選單，可調整靈敏度等操作參數，建議先調到自己順手後再開始衝高波次。

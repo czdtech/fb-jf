@@ -1,70 +1,39 @@
 ---
+title: "Mahjong Connect : Mission"
+description: "Mahjong Connect: Missionはリンクペア麻雀です。≤2ターンのパスで同一のタイルを接続し、ボードをクリアし、タイマーと競争します。"
+iframeSrc: "https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/"
+thumbnail: "/new-images/mahjong-connect-mission.png"
+urlstr: "mahjong-connect-mission"
+score: "4.2/5  (2061 votes)"
+tags: ["mahjong", "puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: mahjong-connect-mission
-title: '[JA TRANSLATION NEEDED] Mahjong Connect : Mission'
-description: >-
-  [JA TRANSLATION NEEDED] Mahjong Connect: Mission is a link‑pair mahjong —
-  connect identical tiles by paths with ≤2 turns, clear boards, and race timers.
-iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
-thumbnail: /new-images/mahjong-connect-mission.png
-tags:
-  - mahjong
-  - puzzle
-  - thinky
-score: 4.2/5  (2061 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Mahjong Connectは、クラシックな麻雀ソリティアとは異なります：他のタイルを横切ることなく、最大2回（つまり、≤2直角ターン）で曲がるパスで一致するタイルをリンクする必要があります。ミッションは、優先処理とクリーンなボード管理を必要とするロックタイル、霧、爆弾を追加します。
 
-[JA TRANSLATION NEEDED] Mahjong Connect differs from classic mahjong solitaire: you must link matching tiles with a path that bends at most twice (i.e., ≤2 right‑angle turns) without crossing other tiles. Missions add locked tiles, fog, and bombs that require priority handling and clean board management.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  エッジハンティング：エッジとコーナーは最も合法的なパスを生成します。最初にそれらをスキャンします。
+2.  ペアプルーニング：廊下を開き、中央を公開するタイルを削除します。
+3.  ターン予算：オプションを保持するために、ストレートまたはワンターンパスを優先します。
+4.  ハザード優先度：重要なレーンをブロックする前に爆弾/ロックをクリアします。
+5.  時間経済：ボードが停滞した場合にのみヒントを使用します。
 
-[JA TRANSLATION NEEDED] 1.  Edge hunting: Edges and corners yield the most legal paths — scan them first.
-[JA TRANSLATION NEEDED] 2.  Pair pruning: Remove tiles that open corridors and expose the center.
-[JA TRANSLATION NEEDED] 3.  Turn budgeting: Prefer straight or one‑turn paths to preserve options.
-[JA TRANSLATION NEEDED] 4.  Hazard priority: Clear bombs/locks before they block vital lanes.
-[JA TRANSLATION NEEDED] 5.  Time economy: Use hints only when the board stagnates.
+### 操作ガイド
 
-### Controls Guide
+- 合法的なパスが存在する場合、接続するために2つの同一のタイルをクリックします。UI経由でヒント/シャッフル。
 
-- Click two identical tiles to connect if a legal path exists; hints/shuffles per UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 移動がありません。終わりですか？**  
+  A: 許可されている場合はシャッフルを使用します。それ以外の場合、早期のデッドレーンを避けるために再起動します。
 
-- Q: No moves — is it over?
-  
-[JA TRANSLATION NEEDED]   A: Use shuffle if allowed; otherwise restart to avoid early dead lanes.
+- **Q: 対角線は接続しますか？**  
+  A: いいえ。最大2ターンの直交パスのみです。
 
-- Q: Do diagonals connect?
-  
-[JA TRANSLATION NEEDED]   A: No — only orthogonal paths with up to two turns.
-
-- Q: Any symbol confusion tips?
-  
-
-
-
-
-
-- Q: No moves — is it over?
-### よくある質問（FAQ）
-- Click two identical tiles to connect if a legal path exists; hints/shuffles per UI.
-### コントロールガイド
-- Time economy: Use hints only when the board stagnates.
-[JA TRANSLATION NEEDED]   A: Learn suits and season/flower symbols; zoom helps on dense art.
-
-
-
-
-
-
-A: Learn suits and season/flower symbols; zoom helps on dense art.
-- Q: Any symbol confusion tips?
-A: No — only orthogonal paths with up to two turns.
-- Q: Do diagonals connect?
-
-
-A: Learn suits and season/flower symbols; zoom helps on dense art.
+- **Q: シンボルの混乱のヒントはありますか？**  
+  A: スーツとシーズン/フラワーシンボルを学びます。密集したアートでズームが役立ちます。

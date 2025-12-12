@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mess-on-the-ranch
-title: '[KO] Mess on the Ranch'
+title: "Mess on the Ranch 메스 온 더 랜치"
 description: >-
-  [KO] Mess on the Ranch is a tidy‑up puzzler — sort animals and tools, repair
-  fences, and restore order with efficient routing.
+  Mess on the Ranch는 어지러운 목장을 정리하는 퍼즐 게임으로, 동물과 도구를 제자리에
+  돌려놓고, 울타리를 수리하며, 효율적인 동선으로 제한된 턴과 시간을 관리해야 합니다.
 iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
 thumbnail: /new-images/mess-on-the-ranch.png
 tags:
@@ -17,35 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Mess on the Ranch*는 귀여운 목장을 무대로 한 정리 퍼즐 게임입니다. 우리 밖으로 나와
+헤매는 동물들을 다시 우리로 돌려보내고, 흩어진 도구를 알맞은 창고에 정리하며, 부서진
+울타리를 고치고, 여기저기 널린 쓰레기를 치워야 합니다. 대부분의 스테이지에는 이동
+횟수나 시간 제한이 있어, 어떤 일을 먼저 처리할지와 이동 경로를 어떻게 짤지가 승부처가
+됩니다.
 
-### Detailed Game Introduction
+### 공략 & 진행 팁
 
-Mess on the Ranch is a charming organizational puzzle. Herd animals back to pens, place tools in the right sheds, fix broken fence segments, and clear debris — all within move or time limits. Levels emphasize route planning and prioritization.
+1. **우리 정리 우선:** 먼저 돌아다니는 동물들을 우리로 넣어 두면 이후 동선이 훨씬
+   단순해지고 혼란이 줄어듭니다.
+2. **루프 동선 설계:** 한 번의 루트에서 여러 개의 줍기·정리 작업을 처리할 수 있도록
+   동선을 고리 형태로 설계해 보세요.
+3. **도구 배치 동선 최적화:** 필요할 때마다 창고만 따로 들르지 말고, 다른 목적지로
+   가는 길에 지나가는 창고에 도구를 함께 놓고 가도록 동선을 짜면 왕복이 줄어듭니다.
+4. **울타리 수리 우선순위:** 여러 작업의 통로를 열어 주는 울타리부터 우선적으로
+   수리하면, 이후 이동 거리와 턴 소모를 크게 줄일 수 있습니다.
+5. **보너스 목표는 여유 있을 때만:** 쓰레기 전부 치우기 같은 선택 목표는 남는 턴이
+   있을 때만 노리고, 기본 목표를 먼저 완료하는 데 집중하세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Pen priority: Secure loose animals first to reduce chaos.
-2.  **[KO]** Route loops: Plan loops that handle multiple pickups per pass.
-3.  **[KO]** Tool matching: Deliver tools to sheds en route rather than backtracking.
-4.  **[KO]** Fence triage: Repair segments that unblock multiple tasks.
-5.  **[KO]** Bonus goals: Attempt optional cleanups only with spare moves.
+- 드래그 또는 탭으로 캐릭터를 이동시키고, 수리나 배달 등 상호작용이 가능한 지점에서는
+  화면의 안내에 따라 해당 행동을 수행합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag/tap to move and interact; context prompts for repair/deliver actions.
+- Q: 이동 횟수가 자꾸 모자라요.
 
-### Frequently Asked Questions (FAQ)
+  A: 한 번의 루트에 여러 작업을 묶어서 처리하고, 하나만을 위해 길게 돌아가는 동선을
+  최대한 피하세요.
 
-- Q: I run out of moves.
+- Q: 동물이 자꾸 돌아다녀서 정신이 없어요.
 
-A: Combine tasks in a single loop and avoid single‑purpose detours.
+  A: 도구나 쓰레기 정리보다 동물을 우리에 넣는 일을 먼저 끝내면, 이후 진행이 훨씬
+  차분해집니다.
 
-- Q: Animals wander off.
+- Q: 시간 제한이 너무 빡빡해요.
 
-A: Pen them first, then do tool/fence tasks.
-
-- Q: Timers too tight.
-
-A: Ignore optional litter and focus on objectives.
-
+  A: 선택 과제는 과감히 버리고, 필수 목표와 진행에 직접 관련된 작업만 먼저 처리해
+  여유를 확보해 보세요.

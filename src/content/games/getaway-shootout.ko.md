@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: getaway-shootout
-title: '[KO] Getaway Shootout'
+title: "Getaway Shootout 겟어웨이 슈트아웃"
 description: >-
-  [KO] Chaotic physics race‑and‑shoot: hop your way to the getaway point, grab
-  goofy weapons, and outsmart rivals in 2‑player or solo.
+  덜컹거리는 물리 점프와 총격전이 섞인 레이싱 게임입니다. 좌우로 깡총깡총
+  점프하며 탈출 지점까지 달리고, 무기 상자를 열어 기상천외한 무기를 집어 들어
+  상대를 방해하세요. 1인용과 로컬 2인용을 모두 지원합니다.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/getaway-shootout.jpg
 tags:
@@ -18,27 +19,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Getaway Shootout is a competitive physics platformer where characters lurch forward with alternating hops. Each round drops you into a side‑scrolling map full of ladders, moving platforms, and weapon crates. The goal is to reach the extraction point first while using slapstick guns and gadgets to disrupt opponents. The awkward locomotion is the point: mastering hop timing, momentum on slopes, and mid‑air direction changes wins races.
+### 게임 개요
 
-### How to Play
-- Alternate hops to build speed; use short taps for micro‑steps and long holds for vaults.
-- Grab crates for weapons like pistols, rocket launchers, or gadgets; use them sparingly.
-- Learn map shortcuts and moving platform cycles to stay ahead.
+`Getaway Shootout`는 좌우로 번갈아 점프하며 이동하는 독특한 물리 플랫포머
+레이싱 게임입니다. 각 라운드마다 사다리, 이동 발판, 무기 상자 등이 가득한
+사이드뷰 맵으로 떨어지며, 목표는 누구보다 먼저 탈출 지점에 도달하는 것,
+그리고 어설픈 총기와 도구들로 상대의 발을 잡는 것입니다. 일부러 불편하게
+설계된 이동 감각을 익히는 것이 게임의 핵심입니다.
 
-### Controls
-- Two keys to hop left/right; separate keys to use items (keybinds vary by host); supports local 2‑player.
+### 플레이 방법
 
-### Tips
-- On slopes, time longer holds to convert vertical gain into forward speed.
-- Fire weapons at chokepoints or while an opponent jumps—knockback is strongest mid‑air.
-- Practice starts: early acceleration often decides close races.
+- 좌우 점프 키를 번갈아 눌러 캐릭터를 앞으로 나아가게 합니다. 짧게 눌러
+  미세하게 위치를 조정하고, 길게 눌러 큰 도약을 할 수 있습니다.
+- 맵 곳곳의 상자를 열어 권총, 로켓 런처, 각종 기묘한 장비를 주워 사용하세요.
+  탄약과 사용 기회가 제한적이니, 중요한 구간에서 아끼지 말고 쓰는 것이 좋습니다.
+- 지름길과 이동 발판의 패턴을 익혀 두면, 다른 플레이어보다 한발 앞서 나갈
+  수 있습니다.
 
-### FAQ
-- Q: How do I move faster with such clumsy controls?
-A: Use alternating long/short hops and leverage slopes for momentum.
-- Q: Can I play with a friend on one keyboard?
-A: Yes, most hosts map a second control set for local multiplayer.
-- Q: Do weapons respawn during a round?
-A: Crates respawn on timers; memorize placements to plan routes.
+### 조작 방법
 
+- 두 개의 키로 각각 왼쪽/오른쪽 방향으로 점프하며, 별도의 키로 아이템을
+  사용하는 방식입니다(정확한 키 배치는 호스트에 따라 다름).
+- 로컬 2인용을 지원하는 버전에서는 한 키보드에 두 세트의 조작키가 배치됩니다.
+
+### 플레이 팁
+
+- 내리막이나 경사에서 점프 키를 조금 더 길게 눌러 주면, 높이를 희생하는 대신
+  앞으로의 속도를 크게 얻을 수 있습니다.
+- 상대가 점프 중일 때나 좁은 통로를 지나갈 때 무기를 사용하면 넉백 효과가
+  극대화되어, 상대를 구덩이나 화면 밖으로 날려 보내기 쉽습니다.
+- 라운드 시작 직후의 가속이 승부를 가르는 경우가 많으니, 초반 스타트 연습을
+  반복해 가장 빠르게 속도를 붙이는 패턴을 찾아 보세요.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 이렇게 불편한 조작으로 어떻게 빨리 움직이나요?  
+  A: 짧은 점프와 긴 점프를 번갈아 섞고, 경사면에서 관성을 이용해 속도를
+  이어 가는 것이 중요합니다. 일정한 리듬을 몸에 익히면 훨씬 자연스럽게
+  움직일 수 있습니다.
+- Q: 친구와 한 키보드에서 같이 플레이할 수 있나요?  
+  A: 네. 대부분의 호스트에서 하나의 키보드에 두 번째 조작 키 세트를 제공해
+  로컬 2인 대전을 즐길 수 있습니다.
+- Q: 무기 상자는 계속해서 다시 나오나요?  
+  A: 네. 무기 상자는 일정 시간마다 다시 등장합니다. 스폰 위치를 외워 두면
+  루트 계획을 세울 때 큰 도움이 됩니다.

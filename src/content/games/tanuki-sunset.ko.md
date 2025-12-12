@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: tanuki-sunset
-title: '[KO] Tanuki Sunset'
+title: "Tanuki Sunset 타누키 선셋"
 description: >-
-  [KO] Grab your longboard and cruise into the sunset in Tanuki Sunset! Play as
-  a cool raccoon and master the art of drifting down scenic, synthwave-themed
-  mountainsides. Perform tricks, avoid cars, and collect Tanuki Bits to become a
-  longboarding legend in this stylish arcade game.
+  Tanuki Sunset은 너구리 보더 Tanuki가 롱보드를 타고 신스웨이브 감성의 산길을 내려가는
+  3인칭 아케이드 게임입니다. 드리프트와 점프, 차량 근접 통과를 이어 가며 스타일리시하게
+  점수를 쌓아 보세요.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/tanuki-sunset.jpg
 tags:
@@ -19,37 +18,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Tanuki Sunset is a third-person longboarding game where you play as a raccoon named Tanuki, skating down a beautiful, synthwave-inspired coastal mountain range. The game focuses on stylish, flow-based gameplay, rewarding players for performing smooth drifts, big jumps, and near-misses with traffic.
+*Tanuki Sunset*은 롱보드를 탄 너구리 Tanuki가 신스웨이브 느낌의 해안 산길을 내려가는
+3인칭 롱보딩 게임입니다. 부드러운 드리프트와 큰 점프, 차량을 아슬아슬하게 스쳐 지나가는
+"니어 미스"로 점수를 쌓는, 흐름과 스타일을 중시하는 플레이가 특징입니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-The main goal is to score as many points as possible before you reach the end of the track or crash.
-- **Drifting:** This is the core mechanic. Drift around every corner and even on straightaways to rack up points.
-- **Tricks:** Go off ramps to perform flips and spins for extra points.
-- **Collecting:** Grab the yellow "Tanuki Bits" to fill your Bonus Roulette meter, which gives you a spin for a massive point bonus.
-- **Near Misses:** Skate dangerously close to cars and other obstacles to get "near miss" points.
+목표는 코스를 완주하거나 충돌하기 전까지 최대한 많은 점수를 얻는 것입니다.
+- **드리프트:** 이 게임의 핵심 메커닉으로, 코너와 직선 모두에서 드리프트를 이어
+  점수를 쌓을 수 있습니다.
+- **트릭:** 램프를 타고 점프해 공중에서 회전/플립을 하면 추가 점수를 얻습니다.
+- **수집:** 노란색 "Tanuki Bits"를 모아 보너스 룰렛 게이지를 채우면, 큰 점수 보너스에
+  도전할 수 있습니다.
+- **니어 미스:** 자동차나 장애물에 아주 가까이 지나가면 "니어 미스" 보너스를 얻어
+  점수가 크게 오릅니다.
 
-### Controls Guide
+### 조작 방법
 
-- **Move/Steer:** `A` / `D` or `Left` / `Right Arrow Keys`
-- **Drift:** `Spacebar`
-- **180 Slide / Slow Down:** `S` or `Down Arrow Key`
-- **Speed Stance:** `W` or `Up Arrow Key` (Hold to break through certain obstacles)
-- **Pause:** `Esc`
+- **이동/조향:** `A` / `D` 또는 왼쪽/오른쪽 방향키
+- **드리프트:** `Spacebar`
+- **180 슬라이드/감속:** `S` 또는 아래쪽 방향키
+- **스피드 스탠스:** `W` 또는 위쪽 방향키(특정 장애물을 돌파할 때 유용)
+- **일시정지:** `Esc`
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**How do I get a high score?**
+**Q: 고득점을 얻으려면 어떻게 해야 하나요?**  
+> 가능한 한 긴 드리프트를 끊김 없이 이어 가는 것이 중요합니다. 대부분의 코너에서
+> 드리프트를 유지하고, 램프에서는 적극적으로 트릭을 시도해 점수를 올리세요.
+> Tanuki Bits를 모두 모아 보너스 룰렛을 돌리는 것도 필수입니다.
 
-The key to a high score is to link long, continuous drifts together. Try to drift around every corner and perform tricks off every ramp. Collecting all the Tanuki Bits to get a bonus spin is also crucial.
+**Q: 보너스 룰렛은 무엇인가요?**  
+> Tanuki Bits를 일정량 모으면 화면 상단에 룰렛이 등장합니다. 룰렛에서 잭팟에
+> 성공하면 대량의 보너스 점수를 획득할 수 있습니다.
 
-**What is the Bonus Roulette?**
-
-When you collect enough Tanuki Bits, a roulette wheel spins at the top of the screen. If it lands on a jackpot, you'll receive a huge number of bonus points.
-
-**Can I customize my raccoon?**
-
-Yes, by earning points and completing objectives, you can unlock new clothing items and longboard parts to customize Tanuki's look.
-
+**Q: 캐릭터를 커스터마이즈할 수 있나요?**  
+> 네. 플레이를 통해 얻은 점수와 목표 달성 보상으로 의상이나 롱보드 부품을
+> 해금해, Tanuki의 복장과 보드를 자유롭게 꾸밀 수 있습니다.

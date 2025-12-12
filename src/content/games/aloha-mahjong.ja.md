@@ -1,61 +1,38 @@
 ---
+title: "Aloha Mahjong アロハ・麻雀"
+description: "「Aloha Mahjong」は、南国リゾート気分で楽しめるリラックス麻雀ソリティアです。ペアを見つけ、積み重なった牌を消して、島の雰囲気を満喫しましょう。"
+iframeSrc: "https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/"
+thumbnail: "/new-images/aloha-mahjong.jpg"
+urlstr: "aloha-mahjong"
+score: "4.1/5  (1956 votes)"
+tags: ["mahjong", "puzzle"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: aloha-mahjong
-title: '[JA TRANSLATION NEEDED] Aloha Mahjong'
-description: >-
-  [JA TRANSLATION NEEDED] Aloha Mahjong is a relaxing tile‑match — find pairs,
-  clear layers, and enjoy island vibes.
-iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
-thumbnail: /new-images/aloha-mahjong.jpg
-tags:
-  - mahjong
-  - puzzle
-score: 4.1/5  (1956 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Aloha Mahjong（アロハ・麻雀）*は、クラシックな「上海（麻雀ソリティア）」を楽しむ癒やしのゲームです。積み重ねられた牌（タイル）の中から、同じ絵柄のペアを見つけて消していきましょう。限られたシャッフルやヒント機能を上手く使いながら、重要な牌が閉じ込められないように工夫して、全ての牌を消すことを目指します。
 
-[JA TRANSLATION NEEDED] Aloha Mahjong offers classic mahjong solitaire. Match open tiles to clear stacked layouts, manage limited shuffles/hints, and solve sets without trapping key pairs.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **構造を開放する：** 最も多くの牌を覆っている「邪魔な牌」を優先して消し、下の層をアンロックしましょう。
+2.  **ペアの優先順位：** 盤面に少ない種類の牌や、解決が難しいシンボルは、見つけたら早めに消して手詰まりを防ぎましょう。
+3.  **先を読む：** 目の前のペアを消すことで、その奥にある重要なペアが取り出せなくならないか確認しましょう。
+4.  **シャッフルは慎重に：** 本当に手詰まりになった時だけシャッフルを使いましょう。
+5.  **時間と正確さ：** タイムアタックモードの場合、スピードも大切ですが、間違った手を選んで詰むよりは、確実に消せる手を選ぶバランスが重要です。
 
-[JA TRANSLATION NEEDED] 1.  Open structures: Free tiles that unlock the most others.
-[JA TRANSLATION NEEDED] 2.  Pair priorities: Clear rare symbols early to prevent deadlocks.
-[JA TRANSLATION NEEDED] 3.  Look ahead: Avoid removing tiles that seal deeper pairs.
-[JA TRANSLATION NEEDED] 4.  Use shuffles sparingly when blocked.
-[JA TRANSLATION NEEDED] 5.  Time vs. accuracy: In timed modes, balance speed with safe picks.
+### 操作ガイド
 
-### Controls Guide
+*   **選択と消去：** 左右どちらかが空いていて、上に何も乗っていない「オープンな牌」を2つ選ぶと消えます。
+*   **ヒント/シャッフル：** 画面上のUIボタンで使用します（回数制限がある場合があります）。
 
-- Select matching open tiles to clear them.
-- Hints/Shuffles via UI if available.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- No pairs? Use a shuffle if allowed or restart.
-- What is an “open” tile? One free on at least one side and not covered.
-- Multiple layouts? Usually several, with varying difficulty.
-
-
-
-
-
-
-
-
-- Multiple layouts? Usually several, with varying difficulty.
-- What is an “open” tile? One free on at least one side and not covered.
-- No pairs? Use a shuffle if allowed or restart.
-### よくある質問（FAQ）
-- Hints/Shuffles via UI if available.
-- Select matching open tiles to clear them.
-### コントロールガイド
-
-
-
-
-- Multiple layouts? Usually several, with varying difficulty.
-- What is an “open” tile? One free on at least one side and not covered.
-- No pairs? Use a shuffle if allowed or restart.
+*   **ペアが見つかりません。**
+    *   可能な場合はシャッフルを使うか、リスタート（やり直し）を検討してください。
+*   **「オープンな牌」とは何ですか？**
+    *   左右の少なくともどちらか一方が他の牌に接しておらず、かつ上に牌が乗っていない状態の牌のことです。
+*   **レイアウトは一つだけですか？**
+    *   通常、難易度や形の異なる複数のレイアウト（積み方）が用意されています。

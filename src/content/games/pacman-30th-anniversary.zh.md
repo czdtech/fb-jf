@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: pacman-30th-anniversary
-title: '[ZH TRANSLATION NEEDED] Pacman 30th Anniversary'
+title: "《Pacman 30th Anniversary》吃豆人 30 周年纪念版"
 description: >-
-  [ZH TRANSLATION NEEDED] Pacman 30th Anniversary is a special edition of the
-  iconic arcade game, celebrating three decades of maze-chasing fun. Players
-  guide Pac-Man through a labyrinth, eating pellets and power-ups while avoiding
-  ghosts, in this nostalgic and engaging classic.
+  《Pacman 30th Anniversary》是经典街机游戏《PAC-MAN》的 30 周年纪念版，再次邀请玩家操控吃豆人在迷宫中吃豆、躲鬼、吃能量豆反吃幽灵，以怀旧画面重温迷宫追逐的乐趣。
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/pacman-30th-anniversary.jpg
 tags:
@@ -19,27 +16,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Pacman 30th Anniversary" is a special edition of the classic arcade game "Pac-Man," celebrating three decades of this iconic game. Players once again guide the yellow Pac-Man through a maze, eating all the pellets and power pellets while evading four ghosts. This version retains the original gameplay and incorporates nostalgic elements, allowing both new and old players to experience the classic fun.
+《Pacman 30th Anniversary》是为纪念《PAC-MAN》诞生 30 周年而推出的特别版本。玩法延续了原作的经典机制：你将再次操控黄色小吃豆人在迷宫中四处穿梭，一边吃掉所有小豆与能量豆，一边躲避四只幽灵的追击。本作通常在画面与音效上进行了适度重制，并加入了部分纪念元素，让老玩家重温街机时代的回忆，新玩家也能体验到这款传奇作品的魅力。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Familiarize with Maze Layouts**: Each level has different maze layouts; familiarizing yourself with the map can help you plan the optimal route.
-2.  **Utilize Power Pellets**: After eating a power pellet, ghosts will temporarily turn blue and become edible. This is a good opportunity to counter-attack and clear the board.
-3.  **Evade and Pursue**: Skillfully use the maze's tunnels and corners to cleverly evade ghosts, and boldly pursue them after eating a power pellet.
-4.  **Prioritize Eating All Pellets**: The goal of the game is to eat all small pellets and power pellets in the maze to advance to the next level.
+1.  **熟悉迷宫结构：** 每一关的迷宫布局略有差异，提前记住关键路口、死胡同以及安全通道，可以在被幽灵追击时更从容地选择逃跑路线。
+2.  **合理利用能量豆：** 能量豆可以让幽灵短时间变蓝并进入逃跑状态，此时你可以反吃它们获取高分。记得在幽灵接近或数量集中时再吃下能量豆，以便最大化收益。
+3.  **借助通道与拐角：** 迷宫两侧的传送通道能让你瞬间从一边移动到另一边，是甩掉“死缠烂打”幽灵的好工具；拐角处则适合做急转弯甩身位。
+4.  **优先清理危险区域的豆子：** 靠近幽灵出生点或路口狭窄区域的豆子，后期清理起来风险更高，可以在前期幽灵移动速度较慢时尽早吃掉。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
+*   **移动：** 使用键盘方向键（上、下、左、右）控制吃豆人在迷宫中移动，提前按方向键可以在路口提前转弯。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What are the differences between "Pacman 30th Anniversary" and the original "PAC-MAN"?**
-     **A**: This anniversary edition usually features updated visuals and may include some additional features or commemorative content, but the core gameplay remains consistent with the original.
-2.  [ZH TRANSLATION NEEDED] **Q: What are the ghosts in the game, and what are their characteristics?**
-     **A**: The ghosts are Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange), each with different pursuit and movement patterns.
-3.  [ZH TRANSLATION NEEDED] **Q: How long does the power pellet effect last?**
-     **A**: The power pellet effect lasts for a limited time; ghosts will return to normal after a while and become dangerous again.
-4.  [ZH TRANSLATION NEEDED] **Q: Does the game have a leaderboard?**
-     **A**: Many versions of "Pacman 30th Anniversary" feature local or online scoreboards, allowing players to compete for high scores.
+### 常见问题
+
+1.  **问：纪念版和原版《PAC-MAN》有什么不同？**
+    **答：** 纪念版通常在画面、音效和 UI 上做了高清化或风格化的更新，可能附带额外模式或纪念内容，但核心玩法——在迷宫中吃豆、躲鬼、吃能量豆反吃幽灵——与原版保持一致。
+2.  **问：游戏中的幽灵有哪些，各自有什么特点？**
+    **答：** 与原作一样，四只幽灵分别是 Blinky（红）、Pinky（粉）、Inky（蓝）和 Clyde（橙），它们在追击路径和行为模式上略有差别，有的偏向正面追击，有的擅长预判和包抄。
+3.  **问：能量豆的效果持续多久？**
+    **答：** 能量豆效果有时间限制，持续期间幽灵会变蓝并可以被吃掉，时间一到就会恢复正常颜色并恢复追击状态，后期关卡持续时间往往更短，需要把握好出手时机。
+4.  **问：有没有积分榜或排行榜？**
+    **答：** 很多纪念版都会提供本地或在线排行榜，你可以和朋友比拼最高分，也可以挑战全球玩家的纪录，看看自己的吃豆人水平处于什么段位。

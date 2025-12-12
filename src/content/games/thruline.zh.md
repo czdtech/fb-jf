@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: thruline
-title: '[ZH TRANSLATION NEEDED] Thruline'
-description: >-
-  [ZH TRANSLATION NEEDED] Thruline is a clean connect‑the‑network — draw a
-  single continuous line through nodes to satisfy turn/coverage constraints.
+title: 《Thruline》单线连网谜题
+description: 《Thruline》是一款极简风格的连线解谜游戏。你需要画出一条连续不断的路径，按规则经过所有必要节点，同时满足转弯与覆盖限制。
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thruline.jpg
 tags:
@@ -15,28 +13,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Thruline tasks you with tracing one unbroken path that visits all required nodes while obeying rules about turns, crossings, and coverage. Later grids add gates, bridges, and parity tricks that reward early bottleneck placement.
+《Thruline》的核心目标是在网格上画出一条“从头到尾只有一笔”的连线路径。这条路径必须经过所有指定节点或区域，同时还要遵守关卡给出的额外规则——比如可转弯次数、是否允许交叉、哪些格子必须经过或禁止经过。随着关卡推进，会出现门、桥、一次性通道以及奇偶性等高级机制，让你在动笔前就要先规划整体结构。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Bottlenecks first: Claim narrow corridors before they close.
-2.  [ZH TRANSLATION NEEDED] Turn budgeting: Minimize turns on long runs; save them for tight corners.
-3.  [ZH TRANSLATION NEEDED] Bridge logic: Cross only on provided bridges; treat them as limited resources.
-4.  [ZH TRANSLATION NEEDED] Early backtrack: Undo as soon as isolation appears.
-5.  [ZH TRANSLATION NEEDED] Symmetry exploitation: Mirror partial solutions in symmetric layouts.
+### 游玩策略与解题指引
 
-### Controls Guide
+1.  **优先占住瓶颈通道：** 先观察地图上那些只有一两格宽的狭窄通路，它们往往是必须经过的“瓶颈”，尽早规划好线路，避免后期被自己堵死。
+2.  **合理分配转弯次数：** 在可以走直线的地方尽量少拐弯，把有限的转弯机会留给结构紧凑、空间狭窄的区域。
+3.  **正确使用“桥”和特殊格：** 有标记为桥或可交叉点的格子通常资源有限，只能走特定次数或方向，尽量让这些格子用于连接原本无法相连的分区。
+4.  **尽早撤回错误路线：** 一旦发现某片区域被你画成“孤岛”、剩下格子无法接入主线路，立刻撤销到问题出现前重新规划，避免在错误路径上越走越远。
+5.  **利用对称性：** 布局对称的关卡中，可以先在一侧画出半边解法，再将其镜像套用到另一侧，提高效率。
 
-- Drag to draw; undo/clear via UI; some builds show conflict highlights.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **绘制路径：** 按住并拖动，在网格上从起点开始画线；
+- **撤销 / 清除：** 使用界面提供的撤销或清除按钮回退一步或重置整条路径；
+- **冲突提示：** 部分版本会高亮违反规则的线段或节点，方便你定位问题。
 
-- Q: I end one edge short.
-  
-[ZH TRANSLATION NEEDED]   A: You likely mis‑spent a turn; reroute a long segment straighter.
+### 常见问题解答（FAQ）
+*   **问：为什么总是差一步无法收尾？****
 
-- Q: Are crossings legal?
-  
-[ZH TRANSLATION NEEDED]   A: Only on marked bridges.
+A: You likely mis‑spent a turn; reroute a long segment straighter.
+- 答：** 多半是前面某一段多绕了不必要的弯，导致最后缺少直线或转弯余地，可以尝试把长线段画得更直一些，为终点预留路径。
 
+A: Only on marked bridges.
+*   **问：路径可以交叉吗？****
+    *   答：** 一般情况下不允许交叉，只有标记为“桥”或特殊节点的格子才允许路径在不同层级上交汇，具体以关卡规则为准。

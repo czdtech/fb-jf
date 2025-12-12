@@ -1,46 +1,48 @@
 ---
 locale: fr
 urlstr: super-brick-builder
-title: '[FR] Super Brick Builder'
-description: >-
-  [FR] Super Brick Builder is a satisfying block‑stack — lay bricks cleanly,
-  plan supports, and complete structures with minimal waste.
-iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
+title: Super Brick Builder
+description: "Super Brick Builder est un jeu d’arkanoïd modernisé\_: renvoie la balle, brise les briques et utilise les bonus pour nettoyer l’écran."
+iframeSrc: 'https://35uekeul7ivk4.h5games.usercontent.goog/v/3kb2udv7a2d1q/'
 thumbnail: /new-images/super-brick-builder.png
 tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.0/5  (1873 votes)
+  - arcade
+  - brick breaker
+score: 3.8/5  (1544 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation
 
+Super Brick Builder reprend le principe du casse‑briques : une raquette, une
+balle et des murs de briques à détruire.
 
+### Stratégie
 
-### Detailed Game Introduction
-
-Super Brick Builder plays like a physics‑aware stacking puzzle: place bricks to complete silhouettes without collapse. Clean placement and support planning beat aggressive fills.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Foundation first: Build symmetrical bases before rising.
-2.  **[FR]** Overhang control: Avoid long overhangs without counter‑weights.
-3.  **[FR]** Fit pieces: Use smaller bricks to plug stress gaps.
-4.  **[FR]** Pace: Slow down on top layers to avoid nudges.
-5.  **[FR]** Retry: Quick resets help iterate designs.
-
-### Controls Guide
-
-- Drag/rotate bricks; place to lock; restart via UI.
-
-### Frequently Asked Questions (FAQ)
+- garde toujours la balle dans ton champ de vision ;
+- récupère les bonus utiles (balle multiple, élargissement de raquette, etc.) ;
+- évite les malus qui réduisent la taille de la raquette ou accélèrent trop
 
 - Q: Structures topple.
 
-A: Strengthen bases and reduce overhangs.
 
-- Q: Run out of fitting pieces.
+- Retry: Quick resets help iterate designs.
+### Foire aux questions (FAQ)
+
+- Drag/rotate bricks; place to lock; restart via UI.
+
+### Commandes
+
+- Retry: Quick resets help iterate designs.
+
+- Pace: Slow down on top layers to avoid nudges.
+  la balle.
+
+
 
 A: Save small bricks for top‑layer adjustments.
 
+- Q: Run out of fitting pieces.
+
+
+A: Save small bricks for top‑layer adjustments.

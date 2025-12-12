@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: battleship
-title: '[ZH TRANSLATION NEEDED] Battleship game'
+title: "Battleship 海战棋"
 description: >-
-  [ZH TRANSLATION NEEDED] A comprehensive guide to the classic Battleship game.
-  Learn the rules, ship placement strategies, effective search patterns, and
-  tips to sink the enemy fleet before they find yours.
+  《Battleship 海战棋》完整指南：带你熟悉经典海战棋的规则、舰船布阵策略、高效搜索开火模式，以及如何在对
+  手找到你之前先一步击沉对方整支舰队。
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/battleship.jpg
 tags:
@@ -18,60 +17,68 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] *Battleship* is a classic two-player strategy guessing game. The objective is to be the first to sink all of your opponent's warships. The game is played on two grids for each player: one grid represents your own ocean, where you secretly place your fleet of ships, and the other represents your opponent's ocean, which you use to track your guesses.
+*Battleship（海战棋）* 是一款经典的双人策略“猜位置”游戏，目标很简单：**率先击沉对方全部战舰**。每名玩家各自拥有两张棋盘：一张代表自己的海域，用来秘密摆放舰队；另一张代表对方海域，用来记录你每一次开火的坐标、命中与落空情况。
 
-[ZH TRANSLATION NEEDED] Before the battle begins, each player secretly arranges their ships on their own grid. A standard fleet consists of five ships of varying lengths, which must be placed either horizontally or vertically, and cannot overlap:
-*   **Aircraft Carrier** (5 squares)
-*   **Battleship** (4 squares)
-*   **Cruiser** (3 squares)
-*   **Submarine** (3 squares)
-*   **Destroyer** (2 squares)
+在战斗开始前，双方会先在自己的棋盘上秘密布阵。标准舰队通常由 5 艘不同长度的战舰组成，只能水平或垂直摆放，禁止重叠：
 
-[ZH TRANSLATION NEEDED] Once both players have placed their fleets, they take turns firing "shots" at the opponent's grid by calling out a coordinate (e.g., "D5"). The opponent must respond with either "Hit!" if a ship occupies that square, or "Miss!" if it's empty water. Players mark their opponent's grid with pegs or icons to record hits and misses, using this information to deduce the location of the enemy ships. A ship is considered "sunk" when all of its squares have been hit.
+*   **Aircraft Carrier（航空母舰）**：占 5 格  
+*   **Battleship（战列舰）**：占 4 格  
+*   **Cruiser（巡洋舰）**：占 3 格  
+*   **Submarine（潜艇）**：占 3 格  
+*   **Destroyer（驱逐舰）**：占 2 格  
 
-### Gameplay Strategy
+当双方都摆好舰队后，进入轮流开火阶段。玩家依次报出一个坐标（例如 “D5”），对手需要根据自己棋盘的实际情况回答“命中（Hit）”或“未中（Miss）”。你会在对方棋盘的那张“记录盘”上，用标记或图标记录每一次命中与落空；当某条船所有格子都被命中时，就视为这艘船被击沉。
 
-[ZH TRANSLATION NEEDED] Winning at *Battleship* involves a combination of clever placement and logical deduction.
+### 游戏策略
 
-#### Ship Placement Strategy (Defense):
+想要在 *Battleship* 中稳定获胜，需要将巧妙的舰队布阵与严谨的逻辑推理结合起来。
 
-1.  **Avoid the Obvious:** Many players tend to place ships along the edges or in the corners of the grid. Avoid these common spots to make your ships harder to find.
-2.  **Don't Cluster:** Placing all your ships close together is risky. Once your opponent finds one ship, they will easily find the others nearby. Spread your fleet across the entire grid.
-3.  **Don't Let Ships Touch:** If possible, place ships so that they are not adjacent to each other. This prevents an opponent from getting a hit on one ship and immediately finding another right next to it.
-4.  **Embrace the Center:** Placing some ships, especially smaller ones, in the middle of the board can be effective, as many opponents focus their initial search patterns on the outer areas.
+#### 舰队布阵策略（防守）
 
-#### Firing Strategy (Offense):
+1.  **避免“太显眼”的位置：**  
+    很多玩家习惯把舰船贴着边缘或角落排成一条，这些也正是老手优先试探的位置。尽量避开这些“传统”摆法，让你的舰队看起来更随机一些。
+2.  **不要把所有船堆在一起：**  
+    如果舰队集中在某一小块区域，一旦对手找到其中一艘船，很可能顺势把周围的船也一并摸出来。更好的做法是把舰队分散在整张棋盘上。
+3.  **能不相邻就不要相邻：**  
+    尽量让不同船体之间至少隔一个格子，避免完全贴在一起。否则对手一旦在某一片区域连续命中，很容易顺着连线把你一网打尽。
+4.  **适当利用棋盘中央：**  
+    很多新手喜欢从边缘和角落开始搜索，因此把部分小型舰船放在棋盘中部，反而能获得不错的隐蔽效果。
 
-1.  **Use a Search Pattern:** Do not fire randomly. The most effective strategy is to use a pattern that covers the board efficiently. A "checkerboard" or "parity" pattern is highly recommended. This means firing on every other square (e.g., A1, A3, A5, B2, B4, C1, C3, etc.). This guarantees you will find any ship on the board in fewer moves, as no ship can hide between the squares of your grid pattern.
-2.  **Switch to "Hunt" Mode:** As soon as you get a "Hit," stop your search pattern. Now your goal is to determine the ship's orientation. Fire at the adjacent squares (above, below, left, and right) of the initial hit.
-3.  **Sink the Ship:** Once you get a second consecutive hit, you know the ship's orientation (horizontal or vertical). Continue firing along that line until you get a "miss." This means you have found the end of the ship. Then, work your way down the other end until the ship is sunk.
-4.  **Use Logic:** Keep track of which ships have been sunk. If you've already sunk the 2-square Destroyer, you know that any single hit in an open area must be part of a larger ship. This helps you eliminate possibilities and make smarter guesses.
+#### 开火与搜索策略（进攻）
 
-### Controls Guide
+1.  **先用系统化的搜索模式：**  
+    千万不要随缘乱点。更高效的方式是使用类似“棋盘格”的搜索模式——只攻击隔一格的坐标（例如 A1、A3、A5，B2、B4，C1、C3 等）。因为所有舰船长度至少为 2，这种布局能够保证不会漏掉任何一条船，同时显著减少尝试次数。
+2.  **命中后切换为“猎杀模式”：**  
+    一旦某次开火命中，就先暂停原本的搜索模式，改为专注处理这一目标。在初次命中的格子上下左右开火，帮助你判断该船是水平还是垂直摆放。
+3.  **沿着方向彻底击沉：**  
+    当你连续两次命中并确认船的方向后，沿着这条直线继续打，直到出现第一次“未中（Miss）”，此时基本可以判断船的另一端位置，再往相反方向补刀，直到系统提示这艘船被击沉。
+4.  **结合已击沉舰船进行推理：**  
+    记录好已经被击沉的是哪一种船型。如果 2 格长的驱逐舰已经被击沉，那么之后在空旷区域出现的单点命中，一定属于更长的舰船。这种信息能帮助你排除不可能的布局，做出更聪明的猜测。
 
-[ZH TRANSLATION NEEDED] For digital versions of *Battleship*, the controls are typically mouse-driven and very intuitive.
+### 操作指南
 
-*   **Placement Phase:**
-    *   **Select a Ship:** Click on a ship from your fleet.
-    *   **Place a Ship:** Move your mouse over your grid to the desired location and click to place it.
-    *   **Rotate a Ship:** Often there is a dedicated button to rotate the ship from horizontal to vertical, or you can use the right mouse button.
-*   **Battle Phase:**
-    *   **Fire a Shot:** Click on a square on the opponent's grid to fire at that coordinate.
-    *   **Game Feedback:** The game will automatically mark the square as a hit (usually with a red marker or explosion) or a miss (with a white marker or splash icon).
+在数字版 *Battleship* 中，操作通常非常直观，以鼠标点击为主。
 
-### Frequently Asked questions (FAQ)
+*   **布阵阶段（Placement Phase）：**
+    *   **选择舰船：** 点击舰队列表中的任意一艘船。
+    *   **放置舰船：** 将鼠标移动到己方棋盘的目标位置，点击即可放置。
+    *   **旋转舰船：** 通常会提供一个按钮用于切换水平 / 垂直方向，或者可以使用鼠标右键旋转。
+*   **战斗阶段（Battle Phase）：**
+    *   **开火：** 在对方棋盘上点击一个格子，即可向该坐标发射一发炮弹。
+    *   **反馈：** 游戏会自动把命中位置标记为“Hit”（常见是红色爆炸标记），未中则标记为“Miss”（常见是白色水花标记）。
 
-[ZH TRANSLATION NEEDED] **1. What are the standard ships in a game of Battleship?**
-[ZH TRANSLATION NEEDED] The standard fleet includes an Aircraft Carrier (5 squares), a Battleship (4 squares), a Cruiser (3 squares), a Submarine (3 squares), and a Destroyer (2 squares).
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **2. Can I place ships diagonally?**
-[ZH TRANSLATION NEEDED] No. In the standard rules of *Battleship*, ships can only be placed horizontally or vertically.
+**1. 标准规则里，一局游戏都有哪几艘船？**  
+标准舰队通常包含：1 艘航空母舰（5 格）、1 艘战列舰（4 格）、1 艘巡洋舰（3 格）、1 艘潜艇（3 格）以及 1 艘驱逐舰（2 格）。
 
-[ZH TRANSLATION NEEDED] **3. Is it better to place my ships touching each other or separated?**
-[ZH TRANSLATION NEEDED] It is almost always better to place your ships so they are not touching. Spreading them out forces your opponent to start a new search pattern after sinking each ship, wasting their turns.
+**2. 我可以把船斜着摆吗？**  
+不可以。在标准 *Battleship* 规则中，舰船只能水平或垂直摆放，不能斜着放。
 
-[ZH TRANSLATION NEEDED] **4. Is the game just pure luck?**
-[ZH TRANSLATION NEEDED] No. While there is an element of luck in the initial search, the game heavily relies on strategy, logic, and deduction. A player with a good search pattern and logical thinking will consistently beat a player who guesses randomly.
+**3. 舰船之间是紧挨着好，还是分散好？**  
+几乎所有情况下，**分散更优**。如果船紧挨在一起，一旦对手在某一区域找到了一艘，很容易顺势把周围也探完；分散布阵会迫使对手在击沉一艘船后重新开始大范围搜索，浪费更多回合。
 
+**4. 这游戏是不是全靠运气？**  
+并不是。虽然前几轮搜索多少带有随机性，但中后期完全是比谁更会推理和规划搜索路径。习惯有条理地标记信息、使用合理的搜索模式的玩家，会稳定击败那些完全凭运气乱猜的对手。

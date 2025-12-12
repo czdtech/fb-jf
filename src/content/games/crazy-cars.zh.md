@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: crazy-cars
-title: '[ZH TRANSLATION NEEDED] Crazy Cars'
+title: "Crazy Cars 疯狂城市赛车"
 description: >-
-  [ZH TRANSLATION NEEDED] Crazy Cars is a casual 3D driving and stunt racing
-  game: explore a city map, complete events, collect stars and wrenches, and
-  perform jumps with nitro in your browser.
+  《Crazy Cars 疯狂城市赛车》是一款轻松向 3D 驾驶与特技游戏。你可以在开放城市地图中自
+  由探索，参加赛事、收集星星与扳手，借助氮气在各种坡道上腾空飞跃，并逐步解锁更强力
+  的赛车。
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/crazy-cars.jpg
 tags:
@@ -19,31 +19,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Crazy Cars is a casual browser driving game on a free‑roam city map with ramps, jump spots, and event markers. Explore to find races and time trials, collect stars and wrenches across rooftops and hidden corners, and unlock additional cars. Some hosts also include local split‑screen.
+
+《Crazy Cars 疯狂城市赛车》是一款休闲向的浏览器驾驶游戏，舞台是一张可自由探索的城市地
+图。城中散布着各类斜坡、跳台与赛事起点标记，你可以随意驾驶寻找竞速赛、计时赛、障碍
+挑战或特技区域，同时在屋顶、坡道尽头与隐藏角落收集星星与扳手。完成活动还能获得货币
+，用来解锁更快的新车。某些版本甚至支持本地双人分屏游玩。
 
 ### How to Play
-- Explore the map to find activities: races, time trials, obstacle runs, and stunt areas.  
-- Collectibles (stars/wrenches) are scattered around rooftops, ramps, and hidden spots.  
-- Earn currency by completing events to unlock faster cars.  
-- Use nitro on straights; line up carefully before large jumps.  
+
+- 驾车在城市地图中探索，寻找各种活动入口：竞速赛、计时赛、障碍赛与特技场地等。  
+- 星星与扳手等收集物散落在屋顶、坡道顶端和隐蔽位置，驾驶车辆飞跃或攀爬即可获取。  
+- 通过完成赛事与任务获得货币，用于在车库中购买或解锁更高性能的车辆。  
+- 在长直道上使用氮气加速；进行大型跳跃前，提前校正车头方向，保证起跳角度顺直。  
 
 ### Controls
-- WASD or Arrow Keys: Drive / steer  
-- Space: Brake/handbrake (host‑dependent); Nitro where available  
-- R: Reset vehicle  
-- Esc/P: Pause/menu  
-- Split‑screen: second player uses the other key set
+
+- `WASD` 或方向键：车辆前进/后退/转向  
+- `Space`：刹车/手刹（部分版本中也作为氮气触发键）  
+- `R`：重置车辆位置，回到附近安全地带  
+- `Esc` / `P`：暂停及菜单  
+- 分屏模式下，第二名玩家通常使用另一套按键布局（具体以游戏内说明为准）  
 
 ### Tips and Strategies
-- Feather the throttle during sharp turns to reduce understeer.  
-- Approach big ramps straight and at speed; avoid mid‑air steering corrections.  
-- Use the handbrake to initiate controlled drifts for tight corners.  
-- Grab nearby wrenches early to repair after heavy landings.  
+
+- 在急弯时适当“点油门”，不要一直踩死油门，这样可以减轻推头现象，让车辆更好入弯。  
+- 面对大型跳台时，尽量以笔直姿态高速驶上跳板，起跳后避免在空中做过多方向修正，以免
+  落地姿态失衡翻车。  
+- 合理利用手刹（Space）发起可控漂移，在紧凑弯角中比直接大角度打方向更稳定。  
+- 尽早收集附近的扳手，用于维修在大落差着陆后受到的损伤，避免车况过差影响随后挑战。  
 
 ### FAQ
-- Q: How do I unlock more cars?  
-[ZH TRANSLATION NEEDED]   A: Complete races and collect items to earn currency; spend it in the garage.  
-- Q: Is there multiplayer?  
-[ZH TRANSLATION NEEDED]   A: Some browser versions offer local split‑screen; online multiplayer is typically not included.  
-- Q: My car flipped over—what now?  
-[ZH TRANSLATION NEEDED]   A: Press R to reset near your last position.  
+
+- **Q: 怎么解锁更多车辆？**  
+  **A：** 通过完成比赛、计时挑战和收集地图上的物品获取货币，然后在车库界面中购买或解
+  锁新车。性能更好的车辆拥有更高极速与更强加速度。  
+
+- **Q: 有联机模式吗？**  
+  **A：** 部分浏览器版本提供本地双人分屏，但一般不包含真正的线上对战。想与朋友比拼可
+  以选择在一台设备上轮流或使用分屏。  
+
+- **Q: 如果车翻了或者卡在奇怪位置怎么办？**  
+  **A：** 按 `R` 键即可重置车辆到最近的安全位置，无需重新读取关卡。  

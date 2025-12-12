@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: crossword
-title: '[KO] Crossword'
+title: "Crossword 크로스워드"
 description: >-
-  [KO] Crossword is a classic fill‑in puzzle: solve across and down clues so all
-  crossing letters match.
+  가로·세로 힌트를 풀어 서로 교차하는 글자를 맞춰 가는 클래식 퍼즐 게임
+  Crossword입니다. 알파벳 단어 퍼즐의 정석을 경험해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/crossword.jpg
 tags:
@@ -15,27 +15,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+크로스워드는 번호가 붙은 가로·세로 힌트에 해당하는 단어를 격자에 채워 넣어 푸는 단어
+퍼즐입니다. 특히 미국식 크로스워드에서는 모든 글자가 다른 단어와 교차하도록 설계되며,
+격자는 보통 180도 회전 대칭을 이룹니다. 평일 데일리 퍼즐은 15×15, 일요일 대형 퍼즐은
+21×21 정도 크기가 자주 사용됩니다.
 
-### Overview
-Crosswords are letter grids solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is cross‑checked by an intersecting word and grids typically have 180° rotational symmetry; common sizes are 15×15 on weekdays and 21×21 on Sundays. 
+### 플레이 방법
 
-### How to Play
-- Click a clue or cell, then type letters to fill the entry.
-- Use cross letters to confirm uncertain answers and resolve ambiguities.
-- Many web versions include tools such as Check/Reveal, timers, and navigation shortcuts.
+- 힌트 목록이나 격자 칸을 클릭/탭해 해당 단어를 선택한 뒤, 알파벳을 입력해 답을
+  채워 넣습니다.  
+- 이미 채워진 가로·세로 단어와 교차하는 글자를 이용해, 애매한 힌트의 정답을
+  검증하거나 유추합니다.  
+- 많은 웹 버전에는 `Check`/`Reveal` 같은 정답 확인 기능과 타이머, 빠른 이동을 돕는
+  단축키 등이 포함되어 있습니다.  
 
-### Controls
-- Type A–Z; arrow keys move between cells; Backspace deletes; Enter/Tab often switches direction or jumps to the next clue (site‑dependent).
+### 조작법
 
-### Tips and Strategies
-- Start with easy clues (fill‑in‑the‑blank, plural/tense markers) to get crossings.
-- Fill long theme entries after gaining letters from nearby answers.
-- Learn common abbreviations and clue conventions used by American‑style grids.
+- 키보드 A–Z: 글자 입력  
+- 방향키: 칸 이동  
+- `Backspace`: 이전 글자 삭제  
+- `Enter` / `Tab`: 방향 전환 또는 다음 힌트로 이동(사이트에 따라 동작이 다를 수 있음)  
 
-### FAQ
-- Q: What sizes are typical?
-A: Daily American crosswords are often 15×15; Sunday editions around 21×21.   
-- Q: Do all letters cross?
-A: American‑style grids generally check every letter with an intersecting entry.   
+### 팁 & 전략
+
+- 빈칸 채우기형 힌트, 복수형/시제 표시(-S, -ED, -ING 등)처럼 쉬운 힌트부터 풀어
+  교차 글자를 확보하세요.  
+- 퍼즐의 핵심이 되는 긴 테마 단어들은 주변 짧은 답을 먼저 채워 글자를 어느 정도
+  얻은 뒤 도전하는 것이 효율적입니다.  
+- 미국식 격자에서 자주 등장하는 약어, 축약형 표기, 흔한 단어 패턴을 익혀 두면 새로운
+  퍼즐도 훨씬 빠르게 풀 수 있습니다.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 전형적인 크기(사이즈)는 어느 정도인가요?**  
+  **A:** 미국식 데일리 크로스워드는 보통 15×15 격자를 사용하며, 일요일판은 약 21×21
+  크기가 일반적입니다.  
+
+- **Q: 모든 글자가 다른 단어와 교차하나요?**  
+  **A:** 네, 미국식 스타일에서는 거의 모든 글자가 다른 단어와 교차하도록 설계되어
+  있습니다. 이 덕분에 하나의 단어를 모르더라도 교차 글자를 통해 답을 추론할 수 있습니다.  
 

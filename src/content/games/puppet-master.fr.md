@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: puppet-master
-title: '[FR] Puppet Master'
+title: 'Puppet Master'
 description: >-
-  [FR] Puppet Master is a quirky physics-based puzzle game where players control
-  a puppet character through challenging obstacles and levels by manipulating
-  its movement and limbs to reach the goal.
+  Puppet Master est un jeu de réflexion décalé basé sur la physique où tu
+  contrôles une marionnette à travers des niveaux remplis d’obstacles en
+  manipulant ses mouvements et ses membres pour atteindre l’objectif.
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/puppet-master.jpg
 tags:
@@ -20,32 +20,62 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-"Puppet Master" is a quirky physics-based puzzle game where players control a puppet character through challenging obstacles and levels by manipulating its movement and limbs to reach the goal. The game is famous for its unique control scheme and humorous animation effects, providing players with an entertaining yet challenging gaming experience.
+Puppet Master est un jeu de puzzle basé sur la physique dans lequel tu
+contrôles une marionnette à travers des niveaux remplis d’obstacles. En
+manipulant ses bras, ses jambes et d’autres parties du corps, tu dois
+atteindre la sortie sans perdre l’équilibre. Le jeu est connu pour ses
+contrôles volontairement maladroits et ses animations hilarantes, ce qui en
+fait une expérience à la fois drôle et exigeante.
 
-### Gameplay Strategy
+### Stratégies de jeu
 
-1.  **[FR]** **Master the Controls**: Familiarize yourself with controlling each body part of the puppet, learning to coordinate the movement of arms, legs, and other limbs.
-2.  **[FR]** **Utilize Physics**: Make good use of the game's physics engine through swinging, pushing, pulling, and grasping actions to overcome obstacles.
-3.  **[FR]** **Observe Environment**: Carefully observe environmental elements in levels such as platforms, ropes, and buttons to find the best path to completion.
-4.  **[FR]** **Be Patient**: Due to the complex controls, it takes multiple attempts to master the techniques. Don't get discouraged by failures.
-5.  **[FR]** **Think Creatively**: Sometimes unconventional solutions may be more effective than standard methods; try different approaches.
+1.  **Maîtriser les commandes :** habitue‑toi à contrôler chaque partie du
+    corps de la marionnette et à coordonner bras, jambes et prises pour
+    avancer.
+2.  **Exploiter la physique :** utilise les balancements, poussées,
+    tractions et prises pour franchir les obstacles. Le moteur physique
+    est au cœur du gameplay.
+3.  **Observer l’environnement :** repère les plates‑formes, cordes,
+    boutons et autres éléments du décor pour trouver le chemin le plus
+    sûr vers la fin du niveau.
+4.  **Rester patient :** les contrôles demandent plusieurs essais avant
+    d’être à l’aise. Ne te décourage pas après quelques chutes.
+5.  **Penser différemment :** certaines situations se résolvent mieux
+    avec des solutions originales qu’avec une approche « logique ».
+    N’hésite pas à expérimenter.
 
-### How to Play
+### Comment jouer
 
-*   **[FR]** **Body Control**: Typically use mouse or keyboard to control different body parts of the puppet.
-*   **[FR]** **Grab**: Click and drag to make the puppet grab objects or surfaces.
-*   **[FR]** **Movement**: Achieve puppet movement by coordinating arm and leg movements.
-*   **[FR]** **Jumping**: Use coordination between legs and arms to achieve jumping actions.
+*   **Contrôle du corps :** utilise la souris ou le clavier (selon la
+    version) pour saisir et déplacer différentes parties du corps de la
+    marionnette.
+*   **S’agripper :** clique et fais glisser pour que la marionnette
+    s’accroche à un objet ou à une surface.
+*   **Se déplacer :** combine les mouvements des bras et des jambes pour
+    faire avancer ton personnage.
+*   **Sauter :** coordonne poussées de jambes et traction des bras pour
+    réaliser des bonds contrôlés.
 
-### Frequently Asked Questions
+### Foire aux questions
 
-1.  **[FR]** **Q: Controlling the puppet is very difficult. Are there any tips?**
-**A**: Control indeed requires practice. It's recommended to start with simple levels to familiarize yourself with operating each body part, gradually improving coordination.
-2.  **[FR]** **Q: How can I make the puppet walk steadily?**
-**A**: Maintaining rhythm is important; don't rush. Alternate between using arms and legs, simulating real walking motions.
-3.  **[FR]** **Q: What if I'm stuck on a level and can't pass it?**
-**A**: Try different paths and methods; sometimes seemingly impossible routes are actually feasible. Watching other players' walkthrough videos might also help.
-4.  **[FR]** **Q: Are there different difficulty levels in the game?**
-**A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.
+1.  **Q : La marionnette est très difficile à contrôler. Des conseils ?**  
+    R : Le maniement demande de la pratique. Commence par les niveaux
+    simples afin de t’habituer à chaque partie du corps, puis augmente
+    progressivement la difficulté.
+
+2.  **Q : Comment faire marcher la marionnette plus régulièrement ?**  
+    R : Le rythme est essentiel ; évite de te précipiter. Alterne les
+    mouvements des bras et des jambes pour imiter une marche naturelle.
+
+3.  **Q : Que faire si je reste bloqué sur un niveau ?**  
+    R : Essaie d’autres trajectoires ou techniques. Certaines routes qui
+    semblent impossibles au début deviennent faisables en changeant
+    d’approche. Regarder des vidéos d’autres joueurs peut aussi donner des
+    idées.
+
+4.  **Q : Le jeu propose‑t‑il plusieurs niveaux de difficulté ?**  
+    R : En général, le jeu commence par des niveaux tutoriels assez
+    simples puis augmente progressivement la difficulté, ce qui te laisse
+    le temps de t’habituer aux contrôles.

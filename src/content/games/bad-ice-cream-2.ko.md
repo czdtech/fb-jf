@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bad-ice-cream-2
-title: '[KO] Bad Ice Cream 2'
+title: 'Bad Ice Cream 2 배드 아이스크림 2'
 description: >-
-  [KO] Master the frosty mazes of Bad Ice-Cream 2. Learn winning strategies,
-  controls, and tips to collect all the fruit while freezing and smashing your
-  enemies.
+  얼음 블록을 만들고 부수며 과일을 모으는 퍼즐 액션 게임 Bad Ice-Cream 2입니다.
+  친구와 함께 협동 플레이로 미로를 공략해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/bad-ice-cream-2.jpg
@@ -16,62 +15,76 @@ score: 3.9/5  (1035 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+*Bad Ice-Cream 2*는 픽셀 아트 스타일의 2D 아케이드 퍼즐 액션 게임으로,
+의인화된 아이스크림 콘을 조종해 얼음 미로를 누비며 과일을 모두 모으는 것이
+목표입니다.
 
+이 시리즈의 상징적인 특징은, 캐릭터가 일렬의 얼음 블록을 **생성**하거나
+**파괴**할 수 있다는 점입니다. 이 능력은 방어와 공격, 길 찾기까지 모든 면에서
+핵심 도구로 사용됩니다. 순찰하는 적의 동선을 막는 벽을 만들거나, 과일로 가는
+새로운 길을 열고, 적을 가두는 함정을 만들 수도 있습니다. 각 레벨에는 서로 다른
+패턴으로 움직이는 여러 종류의 적이 등장하며, 적에게 닿으면 목숨을 잃습니다.
+게임은 1인용은 물론, 한 키보드에서 함께 즐기는 2인 협동 모드도 지원해 더
+바쁜 팀플레이를 경험할 수 있습니다. 제한 시간 안에 모든 과일을 모으고 살아
+남으면 스테이지 클리어입니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+성공적으로 클리어하려면 빠른 반응과 퍼즐적인 길 설계가 모두 필요합니다.
 
-*Bad Ice-Cream 2* is a charming 2D pixel-art arcade puzzle game. Players control a sentient cone of ice cream whose objective is to navigate through a series of icy, maze-like levels to collect all the scattered pieces of fruit.
+#### 1. 얼음 벽은 최고의 무기
 
-The game's signature mechanic is the character's ability to create or destroy rows of ice blocks. This serves as the primary tool for both offense and defense. Players must strategically use these ice walls to block off patrolling enemies, create safe pathways to the fruit, or trap monsters. Various types of enemies populate the levels, each with different movement patterns. If an enemy touches the player's ice cream character, a life is lost. The game can be played solo or with a second player in a cooperative mode on the same keyboard, adding a layer of teamwork and potential chaos. The goal of each level is simple: collect all the fruit before the timer runs out, without getting caught.
+*   **수비용 벽 세우기:** 적이 다가오면 재빨리 얼음 벽을 생성해 경로를 차단하고 안전 지대를 만들 수 있습니다.  
+*   **적 가두기:** 좁은 통로로 유인한 뒤 양쪽 끝을 얼음으로 막으면, 그 구역은 한동안 완전히 안전해집니다.  
+*   **길 열기:** 기존 얼음 블록을 파괴해 새로운 통로를 만들되, 가둬 둔 적을 풀어 주지 않도록 순서를 잘 계획하세요.
 
-### Gameplay Strategy & Walkthrough
+#### 2. 이동 경로를 미리 계획하기
 
-Success in *Bad Ice-Cream 2* is a mix of quick reflexes and clever puzzle-solving.
+움직이기 전에 잠깐 시간을 두고, 과일이 어디에 어떻게 분포해 있는지,
+적이 어느 방향으로 순찰하는지 살펴보세요. 맵을 이리저리 가로지르기보다
+한 구역씩 정리해 나가는 편이 시간과 위험을 모두 줄여 줍니다.
 
-#### 1. The Ice Wall is Your Best Tool
-*   **[KO]** **Defense:** Your most common use of the ice wall is to create barriers between you and enemies. If an enemy is approaching, quickly build a wall to block its path.
-*   **[KO]** **Offense (Trapping):** You can't directly kill enemies, but you can trap them. Lure an enemy into a corridor and then seal both ends with ice walls. This temporarily removes them as a threat, allowing you to collect fruit freely in that area.
-*   **[KO]** **Pathfinding:** Sometimes, you need to destroy ice blocks to open up a path to the fruit. Plan your destruction so you don't accidentally free a trapped enemy.
+#### 3. 적 패턴 이해하기
 
-#### 2. Plan Your Route
-Before you start moving, take a second to look at the layout of the fruit and the starting positions of the enemies. Try to collect fruit in clusters. It's more efficient to clear one section of the map before moving to the next, rather than dashing all over the place.
+적의 움직임은 랜덤처럼 보이지만 대부분 일정한 패턴을 반복합니다.
+잠시 지켜보며 경로를 익히면, 어느 타이밍에 길을 열고 벽을 치워야 안전한지
+예측하기 쉬워집니다.
 
-#### 3. Understand Enemy Patterns
-Enemies in this game are not random. They follow predictable paths. Watch them for a few moments to understand their behavior. Some just move back and forth, while others might actively chase you. Use this knowledge to predict where they will be and plan your moves accordingly.
+#### 4. 속도와 안전의 균형
 
-#### 4. Speed vs. Safety
-There's a timer, so you can't be too slow. However, rushing recklessly will get you caught. Find a balance. Create small, safe "forts" with your ice walls, collect the nearby fruit, then break out and move to the next section.
+타이머 때문에 너무 느긋할 수는 없지만, 무작정 서두르면 적에게 잡히기 쉽습니다.
+얼음 벽으로 작은 안전 구역을 만들고 그 안의 과일을 먼저 정리한 뒤, 벽을 부수고
+다음 구역으로 넘어가는 식으로 리듬을 잡는 것이 좋습니다.
 
-#### 5. Cooperative Strategy (2-Player Mode)
-*   **[KO]** **Divide and Conquer:** The most effective strategy is to split the map. One player can work on one side while the other works on the opposite.
-*   **[KO]** **Communicate:** Talk to your partner! Tell them if you're about to trap an enemy or break a wall. The biggest risk in 2-player mode is accidentally trapping your teammate.
-*   **[KO]** **Bait and Switch:** One player can act as a decoy to lure enemies away, while the other player safely collects the fruit.
+#### 5. 2인 협동 모드 팁
 
-### Controls Guide
+*   **맵 분할:** 한 사람은 왼쪽, 다른 사람은 오른쪽 등으로 영역을 나누면 훨씬 빨리 과일을 처리할 수 있습니다.  
+*   **역할 분담:** 한 명이 적을 유인하거나 가두고, 다른 한 명이 과일 수집에 집중하면 리스크가 줄어듭니다.  
+*   **의사소통:** 얼음 벽을 세우거나 부술 때 서로 위치를 확인해 동료를 가두지 않도록 간단한 신호라도 주고받으세요.
 
-The game uses a shared keyboard for both single-player and two-player modes.
+### 조작 방법
 
-*   **[KO]** **Player 1:**
-    *   **[KO]** **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
-    *   **[KO]** **Create/Destroy Ice:** `Spacebar`
+게임은 한 키보드에서 두 명이 함께 플레이하기 편하도록 설계되어 있습니다.
 
-*   **[KO]** **Player 2:**
-    *   **[KO]** **Move:** `W`, `A`, `S`, `D` Keys
-    *   **[KO]** **Create/Destroy Ice:** `F` Key
+*   **플레이어 1**
+    *   **이동:** 방향키 (`↑`, `↓`, `←`, `→`)
+    *   **얼음 생성/파괴:** `Space`
+*   **플레이어 2**
+    *   **이동:** `W`, `A`, `S`, `D`
+    *   **얼음 생성/파괴:** `F`
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: Can I kill the enemies in the game?**
-    *   **[KO]** **A:** No, you cannot permanently kill or destroy the enemies. The only way to deal with them is to avoid them or temporarily trap them using your ice block ability.
+*   **Q: 적을 처치할 수 있나요?**
+    *   **A:** 직접 공격해 적을 없애는 방법은 없습니다. 얼음 벽으로 피하거나 가두는 식으로만 상대해야 합니다.
 
-*   **[KO]** **Q: What happens if the timer runs out?**
-    *   **[KO]** **A:** If the timer at the top of the screen reaches zero before you have collected all the fruit, you will lose a life and have to restart the level.
+*   **Q: 시간 제한이 끝나면 어떻게 되나요?**
+    *   **A:** 제한 시간이 0이 되기 전에 과일을 모두 모으지 못하면 목숨을 잃고 해당 레벨을 다시 시작해야 합니다.
 
-*   **[KO]** **Q: Is there a difference between the fruit types?**
-    *   **[KO]** **A:** No, in terms of gameplay, all fruits are the same. Your goal is simply to collect all of them, regardless of their appearance (bananas, cherries, grapes, etc.). The variety is purely cosmetic for each level's theme.
+*   **Q: 과일 종류마다 효과가 다른가요?**
+    *   **A:** 게임플레이 측면에서는 모두 동일합니다. 느낌만 다를 뿐, 화면에 보이는 과일을 전부 수집하면 클리어입니다.
 
-*   **[KO]** **Q: How does the 2-player mode work? Do we have separate lives?**
-    *   **[KO]** **A:** You play cooperatively on the same screen. Typically, players share a pool of lives, meaning if either player gets caught by an enemy, one life is deducted from the total. Your goal is to work together to clear the level.
-
+*   **Q: 2인 플레이에서는 목숨을 따로 쓰나요?**
+    *   **A:** 대부분 하나의 목숨 풀을 공유합니다. 둘 중 누구라도 잡히면 공용 목숨이 줄어드니 서로를 살피며 협력하세요.

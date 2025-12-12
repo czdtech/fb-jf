@@ -1,42 +1,53 @@
 ---
-locale: ja
-urlstr: duck-life-4
-title: '[JA TRANSLATION NEEDED] Duck Life 4'
-description: >-
-  [JA TRANSLATION NEEDED] Duck Life 4 is a training and racing sim: build your
-  duck’s stats in mini‑games and win tournaments.
+title: Duck Life 4 ダックライフ4
+description: 「Duck Life 4」はアヒル育成レースゲームの第4弾。走って、泳いで、飛んでトレーニング。能力を鍛え上げてトーナメントを制覇しよう。
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/duck-life-4.jpg
+urlstr: duck-life-4
+score: 4.8/5  (1295 votes)
 tags:
   - racing
   - simulation
-score: 4.8/5  (1295 votes)
+developer: Wix Games
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Duck Life 4（ダックライフ4）*は、アヒルをトレーニングしてレースに出場させる、人気育成シミュレーションゲームのシリーズ第4作です。
+「ランニング」「水泳」「飛行」「クライミング（登はん）」の4つの能力を、ミニゲーム形式のトレーニングで鍛えます。エサをあげてエネルギー（スタミナ）を管理し、帽子で着飾り、進化させながら、各地のトーナメントを勝ち抜いて世界一のレーシングダックを目指しましょう。
+
+### 遊び方
+
+*   **トレーニング:** 各能力に対応したミニゲームをプレイしてステータス（XP）を上げます。障害物を避けて長く続けるほど経験値が多くもらえます。
+*   **エネルギー:** レースやトレーニングにはエネルギーが必要です。ショップで「種（Seed）」を買って食べさせましょう。エネルギー不足だとレースで本来の力を出せません。
+*   **レース:** 予選を勝ち抜くと、新しいエリアやトーナメントがアンロックされます。
+
+### 操作ガイド
+
+*   **操作:** ミニゲームによって異なりますが、主に矢印キー（移動・ジャンプ）やマウスを使います。
+    *   ランニング: 左右キーで車線変更、スペースキーでジャンプ（設定による）。
+
+### 攻略のヒント
+
+*   **バランス良く:** 1つの能力だけ高くても勝てません。次のレースコースの特徴に合わせて、足りないステータスを均等に上げましょう。
+*   **エネルギー満タン:** トーナメントの前には必ずエネルギーを最大まで回復させておきましょう。
+*   **XP稼ぎ:** 行き詰まったら、少し前の簡単なレベルのトレーニングに戻って確実にXPを稼ぐのも手です。
+
+### よくある質問 (FAQ)
+
+*   **Q: 帽子（Hats）で速くなりますか？**
+
+A: Hats are cosmetic; progression comes from stats and energy.
+- **A:** 帽子は見た目を変えるための装飾品（コスメティック）であり、スピードには影響しません。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Train a racing duck across mini‑games (running, swimming, flying, climbing), then enter regional tournaments. Energy controls stamina; hats and evolutions change looks.
+A: No—just keep training the needed stat.
+*   **Q: ステータスの振り直しはできますか？**
 
-### How to Play
-- Improve each stat via its training mini‑game; avoid obstacles to gain XP quickly.
-- Feed seeds to raise energy; low energy reduces race endurance.
-- Win qualifying heats to unlock new areas and tournaments.
+A: Usually low energy or one stat (e.g., climbing) is behind.
+    *   **A:** できません。必要な能力をトレーニングで伸ばすしかありません。
 
-### Controls
-- Arrows/Mouse depending on mini‑game; Space to jump in runners (host dependent).
-
-### Tips
-- Rotate training so no single stat bottlenecks a race.
-- Keep energy topped off before tournaments.
-- Re‑run earlier tracks to grind safe XP if stuck.
-
-### FAQ
-- Q: Do cosmetics affect speed?  
-[JA TRANSLATION NEEDED]   A: Hats are cosmetic; progression comes from stats and energy.
-- Q: Can I respec?  
-[JA TRANSLATION NEEDED]   A: No—just keep training the needed stat.
-- Q: Why am I losing photo‑finish races?  
-[JA TRANSLATION NEEDED]   A: Usually low energy or one stat (e.g., climbing) is behind.
-
+*   **Q: 接戦で負けてしまいます。なぜですか？**
+    *   **A:** エネルギーが減っていませんか？または、4つの能力のうちどれか1つが極端に低く、そこで遅れをとっている可能性があります（例：登はんゾーンで失速している）。

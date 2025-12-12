@@ -1,17 +1,36 @@
 ---
+title: "Choco Factory チョコ・ファクトリー"
+description: "「Choco Factory」で自分だけのチョコレート工場を経営しよう。美味しいチョコを作り、注文に応え、甘いビジネス帝国を築くリラックス・カジュアルゲーム。"
+iframeSrc: "https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/"
+thumbnail: "/new-images/choco-factory.jpg"
+urlstr: "choco-factory"
+score: "4.1/5  (915 votes)"
+tags: ["casual"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: choco-factory
-title: '[JA TRANSLATION NEEDED] Choco Factory'
-description: >-
-  [JA TRANSLATION NEEDED] Manage your own chocolate factory in this delightful
-  casual game. Create delicious chocolates, fulfill orders, and grow your sweet
-  business empire. Perfect for relaxing gameplay!
-iframeSrc: >-
-  https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/
-thumbnail: /new-images/choco-factory.jpg
-tags:
-  - casual
-score: 4.1/5  (915 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
+
+*Choco Factory（チョコ・ファクトリー）*は、あなた自身のチョコレート工場を経営する、可愛らしくてリラックスできるカジュアルゲームです。生産ラインを管理し、様々なおいしいチョコレート菓子を作り出して、お客様の甘い要求に応えましょう。
+
+ゲームプレイはシンプルで直感的です。材料を混ぜ、型に流し込み、トッピングを乗せて、完璧なチョコレートを完成させます。ビジネスが成長すれば、新しいレシピをアンロックしたり、設備をアップグレードして生産効率を上げることができます。甘い香りが漂ってきそうな世界で、至福のひとときを過ごしてください。
+
+### ゲーム攻略と戦略
+
+*   **注文をよく見る:** お客様の注文（オーダー）を正確にこなすことが最優先です。形、味、トッピングに間違いがないか確認しましょう。
+*   **アップグレード:** 稼いだお金は積極的に工場のアップグレードに使いましょう。生産速度が上がれば、より多くの注文をこなせるようになります。
+*   **効率化:** 作業の手順を最適化して、無駄な待ち時間を減らしましょう。
+
+### 操作ガイド
+
+*   **マウス操作:** クリックやドラッグ＆ドロップで、機械を操作したり、完成したチョコを移動させたりします。
+
+### よくある質問 (FAQ)
+
+*   **Q: オフラインでも遊べますか？**
+    *   **A:** 基本的にはブラウザゲームなのでインターネット接続が必要ですが、一度読み込めば途中で切れてもしばらく遊べる場合があります。
+
+*   **Q: どんな種類のチョコが作れますか？**
+    *   **A:** ミルクチョコ、ダークチョコ、ホワイトチョコなどのベースに、ナッツやフルーツ、カラースプレーなどの多彩なトッピングを組み合わせることができます。

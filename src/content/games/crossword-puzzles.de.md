@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: crossword-puzzles
-title: '[DE] Crossword Puzzles'
+title: "Crossword Puzzles"
 description: >-
-  [DE] Crossword Puzzles offers themed crosswords: solve across and down clues
-  to complete each grid.
+  Crossword Puzzles bietet thematische Kreuzworträtsel – löse horizontale und
+  vertikale Hinweise, um jedes Gitter zu vervollständigen.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/crossword-puzzles.jpg
@@ -16,26 +16,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+*Crossword Puzzles* enthält thematische Crossword-Gitter nach gängigen
+US-Regeln: Du füllst waagerechte und senkrechte Antworten, sodass jeder
+Buchstabe von einem kreuzenden Wort überprüft wird. Die Themen verbinden meist
+mehrere lange Antworten in einem Rätsel. Viele Hosts bieten tägliche neue
+Rätsel und ein Archiv.
 
+### So spielst du
 
-### Overview
-Crossword Puzzles features themed crossword grids that follow common American‑style rules: fill Across and Down answers so every letter cross‑checks. Themes tie together several long answers in each puzzle. Many hosts provide daily rotations and archives. 
+- Wähle einen Hinweis aus und tippe die passende Antwort in das zugehörige
+  Feld; nutze Kreuzungsbuchstaben, um unsichere Stellen aufzulösen.
+- Themenantworten sind oft länger und folgen einem gemeinsamen Motiv – wenn du
+  dieses erkennst, fügen sich weitere Themeneinträge leichter.
 
-### How to Play
-- Select a clue and type to fill its entry; use crossings to resolve uncertain letters.
-- Theme entries are usually longer and share a unifying concept—solve these with crossings to unlock large sections.
+### Steuerung
 
-### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab toggles direction or moves to next clue (site‑dependent).
+- A–Z tippen, Pfeiltasten zum Navigieren, Backspace zum Löschen.
+- Enter/Tab: Richtung wechseln oder zum nächsten Hinweis springen
+  (seitenabhängig).
 
-### Tips and Strategies
-- Scan for easy fill‑in‑the‑blank clues, plurals, and common abbreviations.
-- Leverage the theme: once you see the pattern, other themers fall faster.
-- Use Check/Reveal sparingly if the site tracks time.
+### Tipps & Strategien
+
+- Suche zuerst nach leichten Hinweisen (Lückentexte, Plurale, gängige
+  Abkürzungen).
+- Nutze das Thema: Hast du das Muster einmal verstanden, fallen andere
+  Themenantworten meist schnell.
+- Nutze Check/Reveal-Funktionen sparsam – vor allem, wenn Zeiten oder
+  Statistiken erfasst werden.
 
 ### FAQ
-- Q: Are the puzzles timed?
-A: Many sites include optional timers and completion stats; check the settings.   
-- Q: Can I play past themes?
-A: Hosts often keep an archive so you can play previous puzzles. 
+
+- F: Sind die Rätsel zeitlich begrenzt?
+  
+  A: Viele Seiten bieten optionale Timer und Statistiken; prüfe die
+  Einstellungen.
+
+- F: Kann ich ältere Themen spielen?
+  
+  A: Häufig gibt es ein Archiv, in dem du vergangene Rätsel jederzeit nachholen
+  kannst.

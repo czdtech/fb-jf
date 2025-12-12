@@ -1,112 +1,43 @@
 ---
+title: "Checkers Legend チェッカー・レジェンド"
+description: "「Checkers Legend」で伝統的なボードゲームを極めよう。斜めに進み、相手を飛び越えて取り、キングになって盤面を支配せよ。"
+iframeSrc: "https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/"
+thumbnail: "/new-images/checkers-legend.png"
+urlstr: "checkers-legend"
+score: "4.6/5  (2900 votes)"
+tags: ["puzzle", "thinky", "casual", "card"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: checkers-legend
-title: '[JA TRANSLATION NEEDED] Checkers Legend'
-description: >-
-  [JA TRANSLATION NEEDED] Become a Checkers Legend in this classic board game.
-  Plan your moves, capture your opponent's pieces, and crown your kings to
-  dominate the board.
-iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
-thumbnail: /new-images/checkers-legend.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-  - card
-score: 4.6/5  (2900 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Checkers Legend（チェッカー・レジェンド）*は、「ドラフツ（Draughts）」としても知られる古典的な戦略ボードゲームのデジタル版です。8x8のチェック柄のボードで、2人のプレイヤーが対戦します。ルールはシンプルですが、奥深い戦略性があります。斜めに駒を動かし、相手の駒をすべて取るか、相手が動けなくなるように追い詰めれば勝利です。
 
-[JA TRANSLATION NEEDED] Checkers Legend is a digital version of the classic strategy board game, also known as Draughts. The game is played on an 8x8 checkered board between two opponents. The objective is simple but requires deep strategy: capture all of your opponent's pieces or block them so they have no legal moves left. It's a timeless game of foresight and tactics.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **基本の動き:** 自分の駒（マン）は、斜め前方の空いている黒いマスに1歩ずつしか進めません。
+2.  **捕獲（ジャンプ）:** 勝利への鍵は相手の駒を取ることです。自分の駒の斜め前に相手の駒があり、そのすぐ後ろが空いている場合、**必ず**ジャンプして相手の駒を取らなければなりません（強制取りルール）。ジャンプした着地地点からさらにジャンプできる場合は、連続して取り続ける必要があります。
+3.  **キングになる:** 相手側の最奥の列まで到達した駒は「キング」に成ります（王冠マークがつきます）。
+4.  **キングの力:** キングは最強です。斜め前方だけでなく、**斜め後方**にも自由に移動・捕獲ができるようになります。
+5.  **中央を制圧する:** ボードの中央付近に駒を集めるのが基本的な強戦術です。端よりも動ける選択肢が多く、攻守に柔軟に対応できます。
+6.  **最後列を守る:** 自分の陣地の一番手前の列（バックロウ）を安易に動かして隙を作らないようにしましょう。相手にキングを作らせないためです。
 
-[JA TRANSLATION NEEDED] 1.  **Basic Movement:** Your pieces, or "men," can only move one step diagonally forward onto an empty dark square.
-[JA TRANSLATION NEEDED] 2.  **Capturing:** The key to winning is capturing your opponent's pieces. If your piece is diagonally adjacent to an opponent's piece, and the square directly behind that opponent's piece is empty, you *must* jump over and capture it. If your landing position allows for another jump, you must take that one as well in the same turn.
-[JA TRANSLATION NEEDED] 3.  **Becoming a King:** When one of your pieces reaches the last row on the opponent's side of the board, it gets "crowned" and becomes a King. Kings are marked with a crown.
-[JA TRANSLATION NEEDED] 4.  **King Power:** Kings are much more powerful because they can move and capture both diagonally forwards and diagonally backwards.
-[JA TRANSLATION NEEDED] 5.  **Control the Center:** A good strategy is to control the center of the board. This gives your pieces more mobility and limits your opponent's options.
-[JA TRANSLATION NEEDED] 6.  **Protect Your Back Row:** Be careful not to leave your back row (the row closest to you) open for your opponent to easily get a King.
+### 操作ガイド
 
-### Controls Guide
+クリックだけの簡単操作です。
 
-[JA TRANSLATION NEEDED] The game is played with simple clicks.
+*   **選択:** 動かしたい自分の駒をクリックします。移動可能なマスがハイライトされます。
+*   **移動:** ハイライトされたマスをクリックして駒を移動させます。
 
-*   **Select a Piece:** Click on one of your pieces to select it. Valid moves will be highlighted.
-    - **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.（日本語訳が必要）
-    - **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.（日本語訳が必要）
-    - **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.（日本語訳が必要）
-    - **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.（日本語訳が必要）
-    - **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.（日本語訳が必要）
-    - **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.（日本語訳が必要）
-*   **Move a Piece:** Click on a highlighted empty square to move your selected piece there.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ジャンプできる時は必ずしなければなりませんか？**
+    *   **A:** はい。チェッカーの公式ルールの多くでは「強制取り（マスト・ジャンプ）」が採用されています。取れる駒があるのに、取らないで普通の移動をすることはできません。
 
-*   **Q: Do I have to jump if I can?**
-[JA TRANSLATION NEEDED]     *   **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.
+*   **Q: キングは何がすごいのですか？**
+    *   **A:** 普通の駒は前にしか進めませんが、キングは後ろにも下がれます。これにより、相手の背後をとったり、盤面全体を自由に動き回れるようになります。
 
-*   **Q: What makes a King so special?**
-[JA TRANSLATION NEEDED]     *   **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
-
-*   **Q: How do I win the game?**
-
-
-### コントロールガイド
-- **Protect Your Back Row:** Be careful not to leave your back row (the row closest to you) open for your opponent to easily get a King.
-[JA TRANSLATION NEEDED]     *   **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
-
-
-
-
-
-
-
-
-
-
-    - **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
-- **Q: How do I win the game?**
-    - **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
-- **Q: What makes a King so special?**
-    - **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.
-- **Q: Do I have to jump if I can?**
-### よくある質問（FAQ）
-
-The game is played with simple clicks.
-- **Move a Piece:** Click on a highlighted empty square to move your selected piece there.
-- **Select a Piece:** Click on one of your pieces to select it. Valid moves will be highlighted.
-
-
-
-
-
-
-
-
-    - **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
-- **Q: How do I win the game?**
-    - **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
-- **Q: What makes a King so special?**
-    - **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.
-- **Q: Do I have to jump if I can?**
-### よくある質問（FAQ）
-
-
-
-
-
-
-
-    - **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
-- **Q: How do I win the game?**
-    - **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
-- **Q: What makes a King so special?**
-    - **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.
-- **Q: Do I have to jump if I can?**
-
-
-    - **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
+*   **Q: 勝利条件は？**
+    *   **A:** 相手の駒を全滅させるか、相手の残った駒がすべて塞がれて動けなくなった（ステイルメイト）時点で勝利となります。

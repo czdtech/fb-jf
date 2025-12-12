@@ -1,62 +1,38 @@
 ---
+title: "Flames & Fortune"
+description: "Flames & Fortuneは、手札を管理し、テンポを交換し、賢いターンで敵を出し抜く、戦術的なカードスタイルのバトラーゲームです。"
+iframeSrc: "https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/"
+thumbnail: "/new-images/flames-fortune.jpg"
+urlstr: "flames-fortune"
+score: "4.0/5  (1776 votes)"
+tags: ["card", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: flames-fortune
-title: '[JA TRANSLATION NEEDED] Flames & Fortune'
-description: >-
-  [JA TRANSLATION NEEDED] Flames & Fortune is a tactical card‑style battler —
-  manage hands, trade tempo, and outplay foes with smart turns.
-iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
-thumbnail: /new-images/flames-fortune.jpg
-tags:
-  - card
-  - thinky
-score: 4.0/5  (1776 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Flames & Fortuneは、カードゲームのような決断を迫られるコンパクトなターン制バトラーです。効果を効率的な順序でプレイし、限られたリソースを管理し、敵の意図に合わせて適応することで、流れを自分の方へ引き寄せましょう。
 
-[JA TRANSLATION NEEDED] Flames & Fortune is a compact, turn‑based battler with card‑like decisions. Play effects in efficient sequences, manage limited resources, and adapt to enemy intents to swing momentum your way.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **カーブの計画**: ターンのリソースをきれいに使い切りましょう。エネルギーを残さないようにします。
+2.  **有利なトレード**: 小さなカードを使って、次のターンで大きな動きができるように準備しましょう。
+3.  **意図を読む**: ブロックや妨害を使って、入ってくるダメージに対抗しましょう。
+4.  **デッキの焦点**: バラバラなピックよりも、一貫した相乗効果（シナジー）を優先しましょう。
+5.  **マリガンを賢く**: 可能であれば、素早い敵に対して遅い手札は交換（マリガン）しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Curve planning: Spend your turn’s resources cleanly; avoid floating energy.
-[JA TRANSLATION NEEDED] 2.  Value trades: Use small cards to set up big swings next turn.
-[JA TRANSLATION NEEDED] 3.  Read intents: Counter incoming damage with blocks or denies.
-[JA TRANSLATION NEEDED] 4.  Deck focus: Prioritize consistent synergies over scattered picks.
-[JA TRANSLATION NEEDED] 5.  Mulligan wisely: If available, mulligan slow hands against fast foes.
+### 操作ガイド
 
-### Controls Guide
+- **プレイ/ターン終了**: カードをクリック/タップしてアクションを確定します。
+- **詳細確認**: ホバー/タップで効果を読みます。
 
-- Play/End turn: Click/tap cards and confirm actions.
-- Inspect: Hover/tap to read effects.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- RNG heavy? Mitigated by smart sequencing and resource planning.
-- Best builds? Lean into a few synergies rather than many partial ones.
-- Can I recover from bad draws? Stabilize with defense and play for two‑turn swings.
-
-
-
-
-
-
-
-
-
-- Can I recover from bad draws? Stabilize with defense and play for two‑turn swings.
-- Best builds? Lean into a few synergies rather than many partial ones.
-- RNG heavy? Mitigated by smart sequencing and resource planning.
-### よくある質問（FAQ）
-- Inspect: Hover/tap to read effects.
-- Play/End turn: Click/tap cards and confirm actions.
-### コントロールガイド
-
-
-
-
-- Can I recover from bad draws? Stabilize with defense and play for two‑turn swings.
-- Best builds? Lean into a few synergies rather than many partial ones.
-- RNG heavy? Mitigated by smart sequencing and resource planning.
+- **Q: 運要素（RNG）が強いですか？**
+  A: 賢い順序立てとリソース計画によって緩和されます。
+- **Q: 最強のビルドは？**
+  A: 多くの中途半端なシナジーよりも、少数の強力なシナジーに特化しましょう。
+- **Q: 悪いドローから回復できますか？**
+  A: 防御で安定させ、2ターンかけて逆転するプレイを狙いましょう。

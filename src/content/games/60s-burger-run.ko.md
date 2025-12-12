@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: 60s-burger-run
-title: '[KO] 60 Seconds Burger Run - Play 60 Seconds Burger Run Online'
+title: '60 Seconds Burger Run 60초 버거 런'
 description: >-
-  [KO] 60 Second Burger Run is an exciting and colorful speed-running platformer
-  where your main goal is to reach a closing burger shop within a strict
-  60-second time limit!
+  60초라는 제한 시간 안에 햄버거 가게에 도착해야 하는 스피드 런 플랫폼 게임
+  60 Seconds Burger Run입니다. 빠른 판단과 점프로 최대한 많은 스테이지를
+  돌파해 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /60s-burger-run.jpg
 tags:
@@ -13,34 +13,62 @@ tags:
 score: 4.6/5  (1344 votes)
 ---
 
+*60 Second Burger Run*은 문 닫기 직전의 햄버거 가게에 60초 안에 도착해야 하는
+속도감 있는 2D 플랫폼 액션 게임입니다. 맛있는 패스트푸드를 사랑하는 통통한
+주인공을 조종해 여러 스테이지를 가능한 한 빠르게 돌파하는 것이 목표입니다.
+게임은 반사 신경, 정밀 점프 실력, 그리고 짧은 시간 안에 길을 외워 내는
+기억력을 함께 시험합니다.
 
+### 60 Seconds Burger Run 플레이 방법
 
-*60 Second Burger Run* is an exciting and colorful speed-running platformer where your main goal is to reach a closing burger shop within a strict 60-second time limit! You control a cheerful, chubby hero who loves tasty fast food, and you must guide him through a series of challenging stages as quickly as possible. The game tests your reaction time, precision jumping, and ability to quickly memorize paths to pass as many levels as you can before the timer hits zero. 
-
-### How to Play 60 Second Burger Run
-
--  **The Objective:** You have a total of 60 seconds to complete as many stages as possible. The ultimate goal of each stage is to run to the bus stop, get on the bus, and proceed to the next level.
--  **Controls:** The controls are simple. Use the **Arrow Keys** or **WASD** keys to run left and right, and to jump.
--  **Navigating Levels:** You need to run very fast, using your reaction and attention. You must jump high, climb over ledges, fly over sharp objects, and leap over fire pits to reach the end.
--  **Hazards and Warnings:** The path is filled with dangers. Be aware of colored platforms that may burst under your hero. Road signs with skulls will also warn you about upcoming cliffs.
--  **Timer and Respawns:** The 60-second timer is for your entire run. If you hit an obstacle but still have time left, you will restart at the beginning of the *current stage*. If the 60 seconds run out, your entire game ends, and you must start over from the very first stage.
-
+- **목표:** 총 60초의 공용 타이머 안에서 가능한 많은 스테이지를 클리어하는
+  것입니다. 각 스테이지의 궁극적인 목표는 버스 정류장까지 달려가 버스를 타고
+  다음 단계로 넘어가는 것입니다.
+- **조작:** 조작은 매우 단순합니다. **방향키** 또는 **WASD 키**로 좌우 이동과
+  점프를 할 수 있습니다.
+- **스테이지 진행:** 아주 빠르게 달리면서 반응 속도와 집중력을 발휘해야
+  합니다. 높은 곳으로 점프하고, 턱을 오르고, 날카로운 함정 위를 넘어가며,
+  불구덩이 같은 위험 지형을 뛰어넘어 골 지점에 도달하세요.
+- **함정과 경고 표시:** 길 곳곳에 위험 요소가 배치되어 있습니다. 밟으면
+  터져 버리는 색깔 발판, 절벽을 알리는 해골 표지판 등을 주의 깊게 살펴야
+  합니다.
+- **타이머와 리스폰:** 60초 타이머는 전체 플레이에 공통으로 적용됩니다.
+  장애물에 부딪혀 쓰러지더라도 시간이 남아 있다면 **현재 스테이지의 시작
+  지점**에서 다시 시작합니다. 하지만 60초가 모두 지나면 그 시점에서 게임이
+  완전히 종료되고, 1스테이지부터 다시 도전해야 합니다.
 
 ---
 
-### Strategy and Tips
+### 전략과 팁
 
--  **Memorization is Key:** Since the timer doesn't reset between levels, your main strategy should be to memorize the path. The game encourages learning through repetition. Don't be discouraged if you fail; each attempt helps you learn the layout for the next run.
--  **Speed and Momentum:** Continuous movement is crucial. Plan your jumps to flow from one action to the next without stopping. Every second you save in an early level gives you more time for later, more difficult stages.
--  **Pay Attention to Visual Cues:** The game warns you about dangers. Look out for skull signs indicating cliffs and be cautious on unfamiliar colored platforms, as they might collapse. The rules for new items are often explained by "little angels" in the game.
-
+- **길 외우기가 핵심:** 스테이지가 바뀌어도 타이머는 초기화되지 않기 때문에,
+  최대한 빨리 길을 익히는 것이 중요합니다. 실패하더라도 반복 플레이를 통해
+  지형과 함정 위치를 익히면 다음 도전에서 더 빠르게 달릴 수 있습니다.
+- **속도와 관성 유지:** 멈추지 않고 이어지는 움직임이 중요합니다. 점프 타이밍을
+  미리 계획해, 멈춤 없이 한 동작에서 다음 동작으로 자연스럽게 이어지도록
+  연습하면 초반 스테이지에서 아낀 시간이 후반 난이도 구간에서 큰 도움이
+  됩니다.
+- **시각적 힌트 활용:** 해골 표지판이나 특이한 색의 발판 등은 곧 등장할
+  위험을 미리 알려 줍니다. 화면의 경고 표시를 잘 읽어 두면 불필요한 낙사와
+  실수를 줄일 수 있습니다. 새로운 기믹은 게임 속 '작은 천사'들의 안내문으로
+  설명되기도 합니다.
 
 ---
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문 (FAQ)
 
-**Q: How do I win the game?**  **A:** The game is an endless "time attack." The goal isn't to reach a final ending, but to see how many levels you can successfully complete within the 60-second time limit. A higher number of completed levels means a better score. 
+**Q: 이 게임은 어떻게 '클리어'하는 건가요?**  
+**A:** 전통적인 엔딩을 보는 게임이라기보다는, 60초 안에 얼마나 많은 스테이지를
+통과했는지로 실력을 겨루는 타임어택 방식입니다. 더 많은 레벨을 클리어할수록
+더 좋은 기록이라고 볼 수 있습니다.
 
-**Q: What happens if I hit a spike or fall?**  **A:** If you hit an obstacle, you will immediately restart the current level from its beginning. However, the main 60-second timer does NOT stop or reset, so mistakes are very costly. 
+**Q: 가시에 닿거나 떨어지면 어떻게 되나요?**  
+**A:** 장애물에 부딪히면 즉시 현재 스테이지의 시작 위치에서 다시 시작하게
+됩니다. 다만 메인 60초 타이머는 멈추거나 초기화되지 않기 때문에, 실수 한 번이
+치명적인 시간 손실이 될 수 있습니다.
 
-**Q: How many levels are there in total?**  **A:** The game is designed to see how far you can get in one minute. While there may be a finite number of designed levels, the challenge is in completing as many as possible in a single run, not in reaching a specific final level.
+**Q: 전체 레벨은 몇 개인가요?**  
+**A:** 게임은 엄밀한 '최종 스테이지'에 도달하는 것보다, 1분이라는 제한 시간
+안에 얼마나 멀리 갈 수 있는지를 시험하는 방식으로 설계되어 있습니다. 설계된
+레벨 수는 한정되어 있을 수 있지만, 핵심 도전은 한 번의 런에서 최대한 많은
+레벨을 연속으로 클리어하는 데 있습니다.

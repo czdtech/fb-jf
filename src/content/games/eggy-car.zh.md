@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: eggy-car
-title: '[ZH TRANSLATION NEEDED] Eggy Car'
+title: "Eggy Car 蛋仔物理賽車"
 description: >-
-  [ZH TRANSLATION NEEDED] Eggy Car is a physics driver: carry a fragile egg on
-  your car, climb and descend hills, and don’t let it fall.
+  Eggy Car 是一款物理駕駛遊戲，你要一邊開著小車翻山越嶺，一邊保護車上的易碎雞蛋，
+  不能讓它從車頂滾落或被顛碎。
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/eggy-car.jpg
 tags:
@@ -17,26 +17,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Balance a car carrying a fragile egg across hilly terrain. Sudden bumps crack the egg; smooth throttle wins.
+
+你的任務是在起伏不定的山路上，駕駛載著雞蛋的小車平穩前進。任何突然的顛簸都有
+可能讓雞蛋從車上跳起來、摔裂，所以關鍵不是飆車，而是用最柔和的油門與煞車，讓車
+身保持平衡。
 
 ### How to Play
-- Keep speed low on downhill; accelerate gently uphill to avoid bouncing.
-- Grab fuel cans to extend runs; collect coins for vehicle upgrades (host dependent).
-- Long runs demand rhythmic throttle taps, not holds.
+
+- 下坡時盡量控制低速，上坡則輕柔地補油門，避免車頭猛抬造成彈跳。
+- 行進途中記得撿取油箱延長續航，部分版本中還可以靠收集金幣升級車輛性能。
+- 想跑得更遠，靠的是節奏感良好的點按油門，而不是長按到底。
 
 ### Controls
-- A/D or Arrows to drive/brake; R: restart.
+
+- 使用 A/D 鍵或方向鍵控制前進與煞車；
+- 按 R 鍵可以快速重新開始本局。
 
 ### Tips
-- Treat crests like jumps—lift before the peak, reapply after landing.
-- If the egg wobbles, briefly brake to settle it.
-- Upgrades that improve suspension help the most early on.
+
+- 把每一個坡頂當成跳台看待：在接近坡頂前先鬆油門，落地穩住後再補油。
+- 如果你看到雞蛋開始左右大幅晃動，短暫踩煞車讓車子穩定下來，等雞蛋恢復平衡再繼續開。
+- 前期最值得升級的是懸吊與穩定性，能大幅減少顛簸，讓你更輕鬆守護雞蛋。
 
 ### FAQ
-- Q: What ends a run?  
-[ZH TRANSLATION NEEDED]   A: Cracks (egg breaks) or running out of fuel.
-- Q: Is there a finish line?  
-[ZH TRANSLATION NEEDED]   A: It’s a distance/high‑score chase in most hosts.
-- Q: Best early strategy?  
-[ZH TRANSLATION NEEDED]   A: Drive slow; protect the egg—speed comes with smoother lines.
 
+- 問：什麼情況會結束本局？  
+  答：雞蛋破裂或燃料耗盡都會讓本輪挑戰結束，需要重新再來。
+
+- 問：有明確終點線嗎？  
+  答：多數版本是無限距離模式，比的是你能帶著雞蛋跑多遠、拿到多高分數。
+
+- 問：新手有推薦戰術嗎？  
+  答：一開始先放慢節奏，把重心放在保護雞蛋上，熟悉路況與車身擺動之後，再追求更快的通關節奏。

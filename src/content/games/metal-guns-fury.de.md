@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: metal-guns-fury
-title: '[DE] Metal Guns Fury'
+title: "Metal Guns Fury"
 description: >-
-  [DE] Metal Guns Fury is a run‑and‑gun arcade — dodge bullets, manage weapons,
-  and blast through waves with crisp movement.
+  Metal Guns Fury ist ein Run-and-Gun-Arcadeshooter: Weiche Kugeln aus,
+  wechsle geschickt die Waffen und ballere dich mit präziser Bewegung durch
+  Gegnerwellen.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/metal-guns-fury.jpg
 tags:
@@ -15,36 +16,57 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Metal Guns Fury ist ein seitlich scrollender Run-and-Gun-Shooter im Stil
+klassischer Arcade-Games. Du wechselst zwischen Gewehren, Schrotflinten und
+Raketenwerfern, rettest Geiseln für Power-ups und räumst Arenen voller
+Soldaten, Geschütztürme und leichter Fahrzeuge leer. Saubere Sprünge,
+Slide-Ausweichmanöver und ein bewusster Umgang mit Munition trennen stabile
+Runs von chaotischen Niederlagen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Zielprioritäten setzen**  
+    Schalte stationäre Geschütze und Raketenwerfer zuerst aus, einfache
+    Infanterie danach.
 
-Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade classics. Swap between rifles/shotguns/rockets, rescue hostages for power‑ups, and clear arenas packed with soldiers, turrets, and light vehicles. Clean jumps, slide‑dodges, and ammo discipline separate stable clears from messy deaths.
+2.  **Bewegungsmuster schichten**  
+    Springe über niedrige Schüsse, rutsche unter hohen Projektilbögen hindurch
+    und kontere erst danach.
 
-### Gameplay Strategy & Walkthrough
+3.  **Munition haushalten**  
+    Nutze Feuerstöße statt Dauerfeuer und hebe Raketen für Gruppen oder stark
+    gepanzerte Ziele auf.
 
-1.  **[DE]** Target priority: Turrets and rockets first; basic grunts later.
-2.  **[DE]** Movement layering: Jump over low fire, slide under high arcs, then counter.
-3.  **[DE]** Ammo economy: Burst fire, conserve rockets for multi‑targets/boss armor.
-4.  **[DE]** Power‑ups: Route rescues to refresh HP/ammo before boss gates.
-5.  **[DE]** Boss patterns: Read phases; punish windows rather than face‑tank.
+4.  **Power-ups einplanen**  
+    Plane deine Route so, dass du kurz vor Bossbereichen Geiseln rettest oder
+    Kisten einsammelst, um Leben und Munition aufzufrischen.
 
-### Controls Guide
+5.  **Bossmuster lesen**  
+    Studiere die Phasen eines Bosses und greife in sicheren Fenstern an, statt
+    Schaden wegzustecken.
 
-- Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- **Bewegen:** Pfeiltasten oder WASD.  
+- **Schießen:** Taste J oder Mausklick (je nach Version).  
+- **Springen:** K oder Leertaste.  
+- **Granate/Fähigkeit:** L oder E.  
+- **Waffen wechseln:** Q.
 
-- Q: I get shredded in crossfire.
+### FAQ
 
-A: Clear one lane at a time, abuse cover edges, and avoid standing mid‑screen.
+- **F: Ich sterbe ständig im Kreuzfeuer.**  
+  **A:** Konzentriere dich jeweils auf einen Bildschirmbereich, nutze Deckungen
+  an Kanten und vermeide es, lange in der Mitte des Bildschirms stehen zu
+  bleiben.
 
-- Q: Ammo runs dry on bosses.
+- **F: Mir geht beim Boss die Munition aus.**  
+  **A:** Spare schwere Munition für seine Rüstungspunkte auf und nutze auf
+  kleinere Gegner kurze Feuerstöße, statt sie mit Raketen zu überladen.
 
-A: Save heavy ammo for armor breaks; use burst fire on adds to conserve.
-
-- Q: Which weapon is best?
-
-A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
-
+- **F: Welche Waffe ist die beste?**  
+  **A:** Schrotflinten dominieren auf kurze Distanz, Gewehre sind gut auf
+  mittlere Entfernung, und Raketen sind ideal gegen gepanzerte Gegner oder
+  Gruppen.

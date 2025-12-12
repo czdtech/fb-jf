@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: parking-jam
-title: '[KO] Parking Jam'
+title: "Parking Jam 파킹 잼"
 description: >-
-  [KO] Parking Jam is a spatial slider — move cars in sequence, free the exit
-  lane, and solve compact lots with minimal moves.
+  Rush Hour 스타일의 주차 퍼즐 게임입니다. 자동차를 순서대로
+  움직여 출구를 막는 차량을 치우고, 최소한의 이동으로 주차장을
+  탈출해 보세요.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/parking-jam.png
 tags:
@@ -16,34 +17,69 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Parking Jam*은 클래식 퍼즐 보드 게임 "Rush Hour"와 비슷한 방식의
+슬라이드 퍼즐입니다. 각기 다른 길이의 자동차들이 좁은 주차장 안에
+빼곡하게 주차되어 있고, 플레이어는 목표 차량이 출구까지 나갈 수
+있도록 다른 차들을 차례대로 옮겨 길을 만들어야 합니다.
 
-Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear the path for the target vehicle. Higher levels cram lots with multi‑length cars, one‑way arrows, and blockers requiring precise order of operations.
+레벨이 올라갈수록 차량의 종류와 길이가 다양해지고, 한 방향으로만
+움직일 수 있는 일방통행 차선, 특정 순서로만 풀 수 있는 막힌 구간 등
+정확한 수순을 요구하는 요소가 늘어납니다. 단순히 차를 이리저리
+움직이는 것이 아니라, **어떤 차를 먼저 빼야 전체가 풀리는지**를
+계산하는 공간 퍼즐에 가깝습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Goal backchain: Work backward from the exit to identify cars that truly gate progress.
-2.  **[KO]** Minimal moves: Prefer moves that unlock multiple vehicles rather than local shuffles.
-3.  **[KO]** Buffer lanes: Open a buffer lane early to allow deeper rearrangements.
-4.  **[KO]** Priority stack: Park non‑critical cars in dead zones to keep corridors free.
-5.  **[KO]** Undo early: If progress stalls, rewind before the last “dead shuffle” and choose a different unlock.
+1. **출구에서 거꾸로 생각하기**  
+   먼저 목표 차량이 출구까지 나가려면 어떤 칸들이 비어 있어야 하는지
+   확인하세요. 그 칸을 막고 있는 차가 무엇인지 찾고, 다시 그 차를
+   움직이기 위해 어떤 다른 차를 먼저 치워야 하는지 거꾸로 추적하면
+   해결 실마리를 잡기 쉽습니다.
 
-### Controls Guide
+2. **의미 있는 이동만 하기**  
+   단순히 한 칸 옮겼다가 되돌리는 식의 "헛 움직임"은 이동 횟수만
+   늘릴 뿐입니다. 한 번 움직였을 때 **두세 대 이상이 새 자리를
+   얻는지**, 혹은 출구 쪽 통로가 실제로 넓어지는지 항상 확인하면서
+   최소 이동으로 풀어 보세요.
 
-- Drag cars along permitted axes; undo/reset via UI.
+3. **완충 차선(버퍼 레인) 확보하기**  
+   초반에 한쪽 차선을 넓게 비워 두면, 나중에 다른 차들을 임시로
+   옮겨 놓을 수 있는 "창고" 역할을 합니다. 깊은 곳의 차량을 꺼내려면
+   이런 완충 공간이 꼭 필요합니다.
 
-### Frequently Asked Questions (FAQ)
+4. **중요하지 않은 차량은 한쪽에 정리하기**  
+   출구와 직접적인 관련이 없는 차량은 빈 구석이나 막다른 골목에
+   몰아두고, 주요 통로에는 되도록 두지 마세요. 이렇게 하면 이후
+   이동 경로가 훨씬 단순해집니다.
 
-- Q: I spin wheels with no progress — advice?
+5. **막혔을 땐 되돌리기 활용하기**  
+   움직이다 보면 더 이상 진전이 안 되는 "막힌 상태"에 빠질 수
+   있습니다. 이럴 땐 최근의 의미 없는 이동 몇 수를 과감히 되돌리고,
+   다른 차부터 먼저 풀 수 있는지 다시 생각해 보세요.
 
-A: Reassess which car blocks the exit chain; find a move that frees multiple cars.
+### 조작 가이드
 
-- Q: Are diagonal moves allowed?
+- **차량 이동**: 마우스로 차량을 드래그해 앞뒤로만 움직일 수 있습니다.
+  차가 서 있는 방향에 따라 좌우 혹은 상하 한 축으로만 이동합니다.  
+- **실행 취소/리셋**: UI에 있는 되돌리기 버튼으로 한 수씩 되돌리고,
+  리셋 버튼으로 현재 퍼즐을 처음 상태로 다시 시작할 수 있습니다.
 
-A: No — cars slide only along their length.
+### 자주 묻는 질문(FAQ)
 
-- Q: Any hints?
+- **Q: 계속 차만 돌려 움직이고 진전이 없어요.**  
+  **A:** 출구까지 이어지는 길을 먼저 상상해 보고, 그 길을 막는
+  핵심 차량이 무엇인지 찾으세요. 그 차량이 움직이기 위해 어떤
+  차를 먼저 치워야 하는지 역순으로 추적하면 불필요한 이동을
+  크게 줄일 수 있습니다.
 
-A: Many versions include step‑wise hints; use sparingly to preserve challenge.
+- **Q: 대각선이나 자유 이동은 안 되나요?**  
+  **A:** 차량은 실제 주차장처럼 자기 차가 서 있는 방향으로만
+  미끄러지듯 이동할 수 있습니다. 대각선이나 회전 이동은 지원되지
+  않으므로, 그 제한 안에서 길을 찾아야 합니다.
 
+- **Q: 힌트 기능이 있나요?**  
+  **A:** 많은 버전에서 한 수씩 움직임을 알려 주는 힌트 기능을
+  제공합니다. 다만 퍼즐의 묘미가 줄어들 수 있으니, 정말 막혔을 때
+  최소한으로 사용하는 것을 추천합니다.

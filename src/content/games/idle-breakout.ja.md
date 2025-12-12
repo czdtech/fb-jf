@@ -1,42 +1,36 @@
 ---
+title: "Idle Breakout"
+description: "放置ゲーム＋ブロック崩しの融合：クリックでブロックを壊し、自動ボールやタレットを購入し、プレステージで倍率を得て、アップグレードを最適化しましょう。"
+iframeSrc: "https://ubg98.github.io/IdleBreakout/"
+thumbnail: "/new-images/idle-breakout.jpg"
+urlstr: "idle-breakout"
+score: "4.3/5  (1151 votes)"
+tags: ["idle", "clicker"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: idle-breakout
-title: '[JA TRANSLATION NEEDED] Idle Breakout'
-description: >-
-  [JA TRANSLATION NEEDED] Idle + brick‑breaker hybrid: click to smash bricks,
-  buy autonomous balls/turrets, prestige for multipliers, and min‑max upgrades.
-iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
-thumbnail: /new-images/idle-breakout.jpg
-tags:
-  - idle
-  - clicker
-score: 4.3/5  (1151 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Idle Breakoutは、インクリメンタル（蓄積型）な進行とクラシックなブロック崩しを融合させたゲームです。序盤はクリックでダメージを与え、すぐに速度、ダメージ、特殊効果の異なるボールを購入し、さらに自動発射装置も追加できます。ブロックの体力は増加し、ボスが定期的に現れ、プレステージリセットで永続的な倍率を得て、次のラン（周回）を加速させます。
 
+### 遊び方
+- 序盤は安価なボールに投資して安定したDPS（秒間ダメージ）を確保し、後から特殊ボール（スナイパー、スキャター）を追加しましょう。
+- 小さな改善よりも、DPSを2倍にするアップグレードのブレークポイント（分岐点）を狙いましょう。
+- 進行が停滞したらプレステージしましょう。複利の倍率が最も重要です。
 
-### Overview
-[JA TRANSLATION NEEDED] Idle Breakout merges incremental progression with classic brick‑breaking. Early on you click to deal damage; soon you purchase balls with differing speed, damage, and special effects, plus automated launchers. Bricks scale health, bosses appear periodically, and prestige resets grant permanent multipliers that accelerate future runs.
+### 操作方法
+- **マウス**: クリックでダメージ。UIでボール、アップグレード、プレステージノードを購入します。
 
-### How to Play
-- Invest early in cheap balls for constant DPS; add specials (sniper, scatter) later.
-- Target upgrade breakpoints that double DPS rather than small steps.
-- Prestige when progress stalls; compounding multipliers matter most.
+### ヒント
+- 少なくとも1つの高ダメージボールを保持して、ボスをバーストダメージで倒しましょう。
+- 自動化により放置効率が上がります。定期的にチェックインして、支出を再配分しましょう。
+- ホストがサポートしている場合、オフライン時間倍率を使いましょう。
 
-### Controls
-- Mouse: click to damage; UI to buy balls, upgrades, and prestige nodes.
-
-### Tips
-- Keep at least one high‑damage ball to burst bosses.
-- Idle efficiency rises with automation; check in to re‑allocate spending.
-- Use offline time multipliers if your host supports them.
-
-### FAQ
-- Q: When should I trigger a prestige reset?  
-[JA TRANSLATION NEEDED]   A: When your brick clears slow to a crawl; earlier resets often yield faster long‑term growth.
-- Q: Which ball types are best early in the game?  
-[JA TRANSLATION NEEDED]   A: Cheap, fast balls for coverage; add a sniper/strong ball for bosses.
-- Q: Does the game progress offline?  
-[JA TRANSLATION NEEDED]   A: Some hosts simulate offline earnings; behavior varies.
-
+### よくある質問 (FAQ)
+- **Q: プレステージリセットはいつ行うべきですか？**  
+  A: ブロックのクリアスピードが這うように遅くなった時です。早めのリセットは、長期的に見てより速い成長をもたらすことが多いです。
+- **Q: ゲーム序盤にはどのボールタイプが最適ですか？**  
+  A: カバー範囲のために安価で速いボール。ボス用にスナイパーや強力なボールを追加します。
+- **Q: ゲームはオフラインでも進行しますか？**  
+  A: 一部のホストはオフライン収益をシミュレートします。挙動はホストによって異なります。

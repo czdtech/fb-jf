@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: google-minesweeper
-title: '[ZH TRANSLATION NEEDED] Google Minesweeper'
+title: "Google Minesweeper 谷歌掃雷"
 description: >-
-  [ZH TRANSLATION NEEDED] Classic logic puzzle: clear the grid without
-  triggering mines by deducing safe cells from numbered clues and flags.
+  經典邏輯謎題：根據格子上的數字線索推理安全區與地雷位置，
+  在不引爆任何地雷的前提下清空整個棋盤。
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/google-minesweeper.jpg
 tags:
@@ -17,26 +17,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Minesweeper reveals numbers showing how many mines touch a cell. Use these clues to mark mines with flags and open safe cells, aiming to clear the board without detonating. Difficulty scales grid size and mine count.
+
+掃雷的基本規則是：每打開一個非雷格子，就會顯示一個數字，表示這個格子周圍 8 個鄰格中有幾顆地雷。
+你要利用這些數字線索推理地雷的確切位置，將地雷全部標記上旗子，並把所有安全格打開，
+同時避免誤點任何一顆真正的地雷。難度會隨棋盤大小與地雷數量增加而提升。
 
 ### How to Play
-- Left‑click opens a cell; right‑click toggles a flag; chord/open around a number when flags match counts (host dependent).
-- Use basic inferences (1‑1 pairs, 1‑2 patterns) to expand safely.
-- On large boards, isolate corners/edges to reduce branching.
+
+- 左鍵（或輕觸）打開格子；右鍵切換旗子標記，某些版本支援「雙鍵開格（chord）」功能——
+  當周圍旗子數與數字相符時，可一次打開其餘鄰格。
+- 常見推理從簡單的「1-1 對」或「1-2 模式」開始，逐步擴展安全區。
+- 在大棋盤上，可以先從角落與邊界著手，這些地方的排列組合較少，更容易得出確定結論。
 
 ### Controls
-- Mouse/touch; optional chording and quick‑open shortcuts vary by host.
+
+- 滑鼠或觸控操作；
+- 是否支援雙鍵開格與快捷開格要看實際託管版本設定。
 
 ### Tips
-- Keep a consistent marking convention to avoid misflags.
-- When forced to guess, choose tiles that reveal the most info if wrong.
-- Edges often constrain layouts—scan along borders for sure moves.
+
+- 建立一致的標記習慣（例如只對 100% 確定是雷的格子插旗），
+  避免自己被混亂標記害到。
+- 當不得不猜時，優先選擇那些「就算踩雷也能揭示更多資訊」的格子，
+  例如較大空白區域的邊界，而不是孤立角落。
+- 邊界線常常比中間區域更受約束，多沿著邊界掃視，往往能找到幾步完全無需猜測的解法。
 
 ### FAQ
-- Q: How do I avoid guessing in Minesweeper?  
-[ZH TRANSLATION NEEDED]   A: Use pattern sets and parity checks; some positions remain 50/50.
-- Q: What does the number on a cell indicate?  
-[ZH TRANSLATION NEEDED]   A: It equals the count of adjacent mines among the eight neighbors.
-- Q: Does difficulty only change board size?  
-[ZH TRANSLATION NEEDED]   A: It changes both size and mine density.
 
+- 問：有辦法完全避免猜雷嗎？  
+  答：透過模式識別與奇偶性（parity）檢查可以減少很多猜測，但在經典掃雷規則下，
+  部分局面理論上仍會出現無法避免的 50/50 猜局。
+
+- 問：數字代表什麼意思？  
+  答：數字表示該格周圍最多 8 個鄰格中地雷的數量，例如顯示 2 就代表周圍正好有兩顆雷。
+
+- 問：難度調整只改變棋盤大小嗎？  
+  答：不只如此，難度也會改變地雷的密度，雷越多、棋盤越大，推理就越困難。

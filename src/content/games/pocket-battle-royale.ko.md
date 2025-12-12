@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pocket-battle-royale
-title: '[KO] Pocket Battle Royale'
+title: Pocket Battle Royale 포켓 배틀로얄
 description: >-
-  [KO] A fast-paced, top-down 2D battle royale. Scavenge for weapons and health,
-  stay inside the shrinking safe zone, and be the last one standing to claim
-  victory!
+  탑다운 2D 시점에서 즐기는 배틀로얄 슈팅 게임입니다. 무기와 회복 아이템을 빠르게 파밍하고, 줄어드는 안전 구역 안을 지키며 마지막
+  생존자가 되어 보세요.
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/pocket-battle-royale.png
 tags:
@@ -17,33 +16,66 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Pocket Battle Royale*은 배틀로얄 장르의 긴장감을 간단한 2D
+탑다운 슈팅으로 압축한 게임입니다. 미로처럼 구성된 전장에
+플레이어들이 함께 떨어지고, **마지막 한 명이 남을 때까지** 서로를
+상대로 싸워야 합니다.
 
-### Detailed Game Introduction
+초반에는 맵 곳곳을 돌아다니며 총기, 탄약, 체력 회복 아이템을
+파밍하고, 시간이 지날수록 줄어드는 안전 구역 안으로 이동해야
+합니다. 좁아지는 원 안에서 점점 더 치열해지는 교전 속에서,
+순간 판단력과 위치 선정이 승패를 가르게 됩니다.
 
-Pocket Battle Royale is a fast-paced, top-down 2D shooter that distills the excitement of the battle royale genre into quick, action-packed rounds. You are dropped into a maze-like arena with other players and must fight to be the last one standing. Scavenge for weapons, ammo, and health packs while staying ahead of the ever-shrinking safe zone that forces players closer together. It’s a pure test of survival, reflexes, and strategy.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **시작하자마자 빠르게 파밍하기**  
+   게임이 시작되면 가장 먼저 해야 할 일은 무기를 찾는 것입니다.
+   건물과 빈 공간을 빠르게 돌아다니며 총, 탄약, 체력 키트부터
+   확보하세요. 무기 없이 적과 마주치면 생존하기 어렵습니다.
 
-1.  **[KO]** **Loot Quickly:** Your first priority when the game starts is to find a weapon. Run through the buildings and open areas to find guns, ammo, and health kits. You are defenseless without a weapon.
-2.  **[KO]** **Stay Aware of Your Surroundings:** The top-down perspective allows you to see enemies coming from all directions. Keep moving and use corners and obstacles as cover. Don't stand out in the open for too long.
-3.  **[KO]** **Watch the Safe Zone:** Always be aware of where the safe zone is and where it will shrink next. A timer will indicate when the zone will start closing in. Getting caught outside the zone will drain your health rapidly.
-4.  **[KO]** **Pick Your Fights:** You don't have to engage every enemy you see. Sometimes it's smarter to let other players fight each other while you loot and get into a better position for the final showdown.
+2. **주변 상황을 항상 의식하기**  
+   탑다운 시점 덕분에 사방에서 접근하는 적을 볼 수 있지만,
+   그만큼 언제 어디서 공격이 올지 알 수 없습니다. 가급적
+   벽이나 장애물을 끼고 이동하고, 한곳에 멈춰 서 있는 시간은
+   최소화하는 것이 좋습니다.
 
-### Controls Guide
+3. **안전 구역(Safe Zone)을 수시로 확인하기**  
+   화면에는 안전 구역이 어디에 있는지, 언제 줄어들지 타이머로
+   표시됩니다. 원 밖에 오래 남아 있으면 체력이 빠르게 감소하니,
+   여유 있게 다음 안전 지대로 이동할 루트를 미리 생각해 두세요.
 
-*   **[KO]** **Movement:** Use the **WASD keys** to move your character up, left, down, and right.
-*   **[KO]** **Aim:** Your character will automatically aim in the direction of your **mouse cursor**.
-*   **[KO]** **Shoot:** Click the **left mouse button** to fire your weapon.
+4. **모든 싸움을 받아칠 필요는 없다**  
+   보이는 적마다 전부 교전하면, 탄약과 체력이 금방 바닥납니다.
+   때로는 다른 플레이어들이 서로 싸우도록 두고, 그 사이에
+   파밍을 하거나 더 유리한 위치로 이동하는 것이 현명할 수
+   있습니다. 마지막 구역에서 싸우기 좋은 자리를 선점하는 것이
+   중요합니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: What is the shrinking circle on the map?**
-    *   **[KO]** **A:** That is the safe zone. You must stay inside this circle. If you are outside of it, you will continuously take damage until you get back inside.
+- **이동**: `W, A, S, D` 키로 캐릭터를 상하좌우로 이동합니다.  
+- **조준**: 마우스 커서가 향하는 방향으로 캐릭터가 자동 조준합니다.  
+- **사격**: 마우스 왼쪽 버튼을 클릭해 무기를 발사합니다.
 
-*   **[KO]** **Q: How do I get better weapons or more health?**
-    *   **[KO]** **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What is the objective of the game?**
-    *   **[KO]** **A:** To be the last player alive. Eliminate all other opponents to win the match.
+- **Q: 맵에 표시되는 줄어드는 원은 무엇인가요?**  
+  **A:** 그 원이 바로 안전 구역입니다. 원 바깥에 있으면 지속적으로
+  피해를 입으므로, 항상 원 안으로 이동해 있어야 합니다.
 
+    - **Q: 더 좋은 무기와 체력 아이템은 어떻게 얻나요?**  
+  **A:** 전장은 완전히 랜덤하게 생성된 전리품으로 채워져 있습니다.
+  건물 내부와 주요 지점을 돌아다니며 떨어져 있는 무기, 탄약,
+  체력 팩을 주워야 합니다.
+
+- **Q: 게임의 최종 목표는 무엇인가요?**  
+
+    - **A:** To be the last player alive. Eliminate all other opponents to win the match.
+
+- **Q: What is the objective of the game?**
+
+    - **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
+  **A:** 전투가 끝날 때까지 **마지막까지 살아남는 유일한 플레이어가
+  되는 것**입니다. 다른 모든 상대를 제거하면 승리합니다.

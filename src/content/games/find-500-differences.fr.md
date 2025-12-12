@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: find-500-differences
-title: '[FR] Find 500 Differences'
+title: Find 500 Differences
 description: >-
-  [FR] Challenge your observation skills with Find 500 Differences. Compare two
-  seemingly identical images and find all the subtle differences.
+  Mets ton sens de l’observation à l’épreuve avec Find 500 Differences : compare
+  deux images presque identiques et retrouve toutes les différences cachées.
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
 thumbnail: /new-images/find-500-differences.png
 tags:
@@ -16,33 +16,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Find 500 Differences est un jeu de réflexion classique qui met ton attention aux détails au défi. À travers de nombreux niveaux, tu dois examiner deux images magnifiques qui semblent presque identiques. Ton objectif : repérer cinq petites différences qui les distinguent. Grâce à une grande variété d’illustrations, allant de paysages charmants à des scènes complexes, le jeu offre des heures de détente et de concentration pour tous les âges.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Find 500 Differences is a classic puzzle game that puts your attention to detail to the test. Across numerous levels, you will be presented with two beautiful, almost identical images. Your task is to carefully examine them and identify the five subtle differences that set them apart. With a wide variety of pictures, from charming landscapes to complex scenes, the game provides hours of relaxing and engaging fun for all ages.
+1.  Balaye de façon méthodique : au lieu de regarder au hasard, commence par le coin supérieur gauche et parcours les deux images horizontalement, comme si tu lisais un livre. Cette méthode évite d’oublier des zones.
+2.  Surveille les arrière‑plans et les bords : les différences se cachent souvent à la vue de tous, dans le fond de l’image ou le long des contours, là où on regarde moins.
+3.  Cherche les objets manquants ou ajoutés : le type de différence le plus fréquent, c’est un objet présent sur une image mais absent sur l’autre. Commence par ce genre de détails.
+4.  Compare couleurs et formes : parfois, la différence est un léger changement de couleur, de taille ou de forme. Compare attentivement les éléments similaires sur les deux images.
+5.  Utilise les indices avec parcimonie : si tu es vraiment bloqué, tu peux utiliser le système d’indices. Essaie toutefois de les garder pour les situations les plus difficiles afin de maximiser ton score et le niveau de défi.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Scan Systematically:** Don't just randomly look around. Start from the top-left corner and scan both images horizontally, like you're reading a book. This methodical approach ensures you don't miss any sections.
-2.  **[FR]** **Focus on Backgrounds and Edges:** Differences are often hidden in plain sight in the background or along the edges of the picture, where players might not look as closely.
-3.  **[FR]** **Look for Missing or Added Objects:** The most common type of difference is an object that is present in one image but missing from the other. Scan for these first.
-4.  **[FR]** **Check for Color and Shape Changes:** Sometimes the difference is a subtle change in color, size, or shape of an object. Compare similar items in both pictures closely.
-5.  **[FR]** **Use Hints Sparingly:** If you get stuck, the game provides a hint system. Try to save your hints for when you are truly stumped to maximize your score and challenge yourself.
+- Clic/Tap : utilise ta souris ou ton doigt pour cliquer sur la zone où tu as repéré une différence, sur l’une ou l’autre des images.
+- Zoom (si disponible) : certaines versions te permettent de zoomer pour examiner les détails de plus près.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Click/Tap:** Use your mouse to click, or your finger to tap, on the area in either picture where you have spotted a difference.
-*   **[FR]** **Zoom (If available):** Some versions may allow you to zoom in for a closer look at the details.
+- Q : Que se passe‑t‑il si je clique au mauvais endroit ?
+  
+  R : Dans beaucoup de jeux « trouve les différences », un clic incorrect peut entraîner une pénalité de temps ou une baisse de score. Assure‑toi de ton choix avant de cliquer.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Y a‑t‑il une limite de temps ?
+  
+  R : Oui, la plupart des niveaux sont chronométrés pour ajouter un peu de pression. Essaie de trouver toutes les différences avant la fin du temps.
 
-*   **[FR]** **Q: What happens if I click on the wrong spot?**
-    *   **[FR]** **A:** In many "spot the difference" games, clicking on an incorrect spot may result in a time penalty or a reduction in your score. Be sure of your choice before you click!
+- Q : Combien de différences y a‑t‑il par niveau ?
+  
 
-*   **[FR]** **Q: Is there a time limit?**
-    *   **[FR]** **A:** Yes, most levels are timed to add an extra layer of challenge. Try to find all the differences before the time runs out.
+    - **A:** Typically, there are 5 differences to find in each pair of images.
 
-*   **[FR]** **Q: How many differences are in each level?**
-    *   **[FR]** **A:** Typically, there are 5 differences to find in each pair of images.
+- **Q: How many differences are in each level?**
 
+    - **A:** Yes, most levels are timed to add an extra layer of challenge. Try to find all the differences before the time runs out.
+  R : En général, chaque paire d’images contient 5 différences à découvrir.

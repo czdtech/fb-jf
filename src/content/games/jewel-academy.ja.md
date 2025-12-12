@@ -1,82 +1,41 @@
 ---
+title: "Jewel Academy"
+description: "Jewel Academyに入学し、マッチ3パズルのマスターになりましょう。カラフルな宝石を交換し、強力な特殊宝石を作り、ユニークな目標を持つ何百もの挑戦的なレベルを解きましょう。"
+iframeSrc: "https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/"
+thumbnail: "/new-images/jewel-academy.png"
+urlstr: "jewel-academy"
+score: "4.5/5  (2890 votes)"
+tags: ["puzzle", "casual", "action"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: jewel-academy
-title: '[JA TRANSLATION NEEDED] Jewel Academy'
-description: >-
-  [JA TRANSLATION NEEDED] Enroll in the Jewel Academy and become a master of
-  match-3 puzzles. Swap colorful gems, create powerful special jewels, and solve
-  hundreds of challenging levels with unique objectives.
-iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
-thumbnail: /new-images/jewel-academy.png
-tags:
-  - puzzle
-  - casual
-  - action
-score: 4.5/5  (2890 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Jewel Academyは、豊かで洗練されたマッチ3パズルゲームで、プレイヤーをカラフルな宝石と魔法の挑戦の世界に招待します。アカデミーの生徒として、広大なレベルマップを進んでいき、それぞれがユニークな目標を持っています。コアゲームプレイは、隣接する宝石を交換して同じ色3つ以上のラインを作ることです。戦略的なマッチを作ることで、強力な特殊宝石を作り、トリッキーな障害物を克服し、何百もの魅力的なパズルを解くことができます。
 
-[JA TRANSLATION NEEDED] Jewel Academy is a rich and polished match-3 puzzle game that invites players to a world of colorful gems and magical challenges. As a student of the academy, you will progress through a vast map of levels, each with a unique objective. The core gameplay involves swapping adjacent jewels to create lines of three or more of the same color. By making strategic matches, you can create powerful special gems, overcome tricky obstacles, and solve hundreds of engaging puzzles.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **特殊コンボを探す:** 3つマッチするだけで満足しないでください。ボードの大きなセクションをクリアできる強力なパワーアップを作る鍵なので、4つまたは5つの宝石をマッチさせる機会を積極的に探しましょう。
+2.  **パワーアップを組み合わせる:** 難しいレベルをクリアする最も効果的な方法は、特殊宝石を組み合わせることです。例えば、矢印宝石と爆弾宝石を交換すると、3列と3行が同時にクリアされます。2つのカラーボム（色爆弾）を一緒に交換すると、ボード全体がクリアされます！
+3.  **目標に集中する:** 常にレベルの目標を念頭に置いてください。特定のブロックされたタイルをクリアする必要がある場合は、それらのエリアでマッチに集中します。特殊アイテムを下に落とす必要がある場合は、その下の宝石をクリアします。目標に貢献しないマッチに手数を無駄にしないでください。
+4.  **下から作業する:** 可能な場合は、ボードの下部近くでマッチを作りましょう。これにより、上から多くの宝石が落ちてきて、自動的な連鎖反応やカスケード（連続消し）を作成するチャンスが増え、追加の手数を使わずに目標を達成するのに役立ちます。
 
-[JA TRANSLATION NEEDED] 1.  **Look for Special Combos:** Don't just settle for matching three. Actively look for opportunities to match four or five jewels, as this is the key to creating powerful power-ups that can clear large sections of the board.
-[JA TRANSLATION NEEDED] 2.  **Combine Power-ups:** The most effective way to clear difficult levels is by combining special jewels. For example, swapping an Arrow jewel with a Bomb jewel will clear three rows and three columns simultaneously. Swapping two Color Bombs together will clear the entire board!
-[JA TRANSLATION NEEDED] 3.  **Focus on the Objective:** Always keep the level's goal in mind. If you need to clear certain blocked tiles, focus your matches in those areas. If you need to drop special items to the bottom, clear the jewels underneath them. Don't waste moves on matches that don't contribute to your goal.
-[JA TRANSLATION NEEDED] 4.  **Work from the Bottom:** When possible, make matches near the bottom of the board. This causes more jewels to fall from the top, increasing the chances of creating automatic chain reactions or cascades, which can help you complete objectives without using extra moves.
+### 操作ガイド
 
-### Controls Guide
+ゲームはマウスまたはタッチスクリーンを使用してプレイします。
 
-[JA TRANSLATION NEEDED] The game is played using a mouse or touch screen.
+*   **宝石を交換:** 宝石をクリックし、次に隣接する宝石をクリックして位置を交換します。または、宝石をクリックして隣接する場所にドラッグすることもできます。交換が有効なのは、3つ以上のマッチが生じる場合のみです。
+*   **パワーアップを発動:** 他の宝石と同じように特殊宝石を交換して、その効果を発動します。パワーアップを組み合わせるには、隣接する2つの特殊宝石を互いに交換します。
 
-*   **Swap Jewels:** Click on a jewel, then click on an adjacent jewel to swap their positions. Alternatively, you can click and drag a jewel to an adjacent spot. A swap is only valid if it results in a match of three or more.
-    - **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.（日本語訳が必要）
-    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.（日本語訳が必要）
-    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.（日本語訳が必要）
-    - **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.（日本語訳が必要）
-    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.（日本語訳が必要）
-    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.（日本語訳が必要）
-*   **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 爆弾を作るには？**
+    *   **A:** 「L」または「T」の形で5つの宝石をマッチさせることで爆弾を作ります。爆弾は爆発し、周囲3x3エリアの宝石をクリアします。
 
-*   **Q: How do I create a Bomb?**
-[JA TRANSLATION NEEDED]     *   **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.
+*   **Q: 虹色の宝石は何をしますか？**
+    *   **A:** それはカラーボムで、一直線（水平または垂直）に5つの宝石をマッチさせることで作成されます。隣接する任意の宝石と交換すると、ボード全体からその色のすべての宝石を削除します。
 
-*   **Q: What does the rainbow-colored jewel do?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
-
-*   **Q: Why did I run out of moves?**
-
-
-
-
-
-
-
-
-    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
-- **Q: Why did I run out of moves?**
-    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
-- **Q: What does the rainbow-colored jewel do?**
-    - **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.
-- **Q: How do I create a Bomb?**
-### よくある質問（FAQ）
-- **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
-
-
-
-
-
-    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
-- **Q: Why did I run out of moves?**
-    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
-- **Q: What does the rainbow-colored jewel do?**
-    - **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.
-[JA TRANSLATION NEEDED]     *   **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
-
+*   **Q: なぜ手数を使い果たしてしまったのですか？**
+    *   **A:** Jewel Academyの多くのレベルは手数制限があります。割り当てられたすべての手数を使い切る前に、特定のレベル目標を完了する必要があります。完了できない場合は、ライフ（命）を使って再挑戦する必要があります。

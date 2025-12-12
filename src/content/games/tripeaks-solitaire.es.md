@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: tripeaks-solitaire
-title: '[ES] Tripeaks Solitaire'
+title: Tripeaks Solitaire - Despeja las tres cimas
 description: >-
-  [ES] Clear the three peaks in Tripeaks Solitaire! A fast-paced card game where
-  you match cards that are one rank higher or lower to clear the board.
+  Despeja las tres montañas en Tripeaks Solitaire, un solitario rápido en el que
+  encadenas cartas un rango arriba o abajo para limpiar la mesa antes de que se
+  agote el mazo.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/tripeaks-solitaire.png
 tags:
@@ -15,37 +16,40 @@ score: 4.5/5  (2600 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-
-
-
 ### Detailed Game Introduction
 
-Tripeaks Solitaire is a popular and fast-paced solitaire variant that combines elements of Golf Solitaire and Pyramid Solitaire. The game gets its name from the initial layout of the cards, which are dealt into three overlapping pyramids, or "peaks." The objective is to clear the entire tableau by selecting cards that are one rank higher or lower than the card on the waste pile, creating long runs and clearing the board before you run out of cards in your stock.
+Tripeaks Solitaire es una variante de solitario muy popular y dinámica que combina elementos de Golf Solitaire y Pyramid Solitaire. El nombre viene de la disposición inicial de las cartas, repartidas en tres pirámides superpuestas o “picos”. El objetivo es despejar todo el tablero seleccionando cartas que sean exactamente un rango superior o inferior a la carta de la pila de descarte, creando largas cadenas antes de quedarte sin cartas en el mazo.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** **The Goal:** Clear all cards from the three peaks on the tableau.
-2.  **[ES]** **Making a Move:** Look at the face-up card on the waste pile. You can click on any face-up card from the tableau that is one rank directly above or below it. For example, if the waste card is a 7, you can play either a 6 or an 8 from the tableau onto it. Suit does not matter.
-3.  **[ES]** **Aces and Kings:** The ranks are wrapping. This means you can place a King on an Ace, and an Ace on a King, which is crucial for extending your runs.
-4.  **[ES]** **Uncovering Cards:** When you remove a card from the tableau, any face-down cards beneath it are turned over, making them available for play.
-5.  **[ES]** **Drawing from Stock:** If you can no longer make any matches from the tableau, click on the stock pile to deal a new card onto the waste pile, giving you a new base card to play on.
-6.  **[ES]** **Creating Long Runs:** The key to a high score is to create the longest possible sequence of moves without drawing from the stock pile. Each card cleared in a single run increases the combo bonus.
+1.  **Objetivo principal:** eliminar todas las cartas de los tres picos del tablero.
+2.  **Cómo jugar una carta:** fíjate en la carta descubierta de la pila de descarte. Puedes hacer clic en cualquier carta descubierta del tablero que sea un rango inmediatamente superior o inferior. Por ejemplo, si la carta de descarte es un 7, puedes jugar un 6 o un 8; el palo no importa.
+3.  **Ases y reyes:** las filas “giran”. Esto significa que puedes colocar un Rey sobre un As y un As sobre un Rey, algo clave para alargar las cadenas.
+4.  **Descubrir cartas:** cuando retiras una carta del tablero, cualquier carta boca abajo que hubiera debajo se voltea y pasa a estar disponible.
+5.  **Robo del mazo:** si ya no puedes hacer más jugadas desde el tablero, haz clic en el mazo para sacar una nueva carta a la pila de descarte y tener una base distinta sobre la que jugar.
+6.  **Crear cadenas largas:** la clave para una gran puntuación es encadenar el máximo número de movimientos posible sin robar del mazo. Cada carta de una misma racha aumenta tu combo.
 
 ### Controls Guide
 
-The game is played entirely with the mouse or by tapping.
+El juego se controla por completo con el ratón o con toques.
 
-*   **[ES]** **Play a Card:** Click on a valid face-up card on the tableau to move it to the waste pile.
-*   **[ES]** **Draw a Card:** Click on the face-down stock pile when you have no other moves.
+*   **Jugar una carta:** haz clic en una carta válida del tablero para moverla a la pila de descarte.
+*   **Robar carta:** haz clic en el mazo boca abajo cuando no queden movimientos.
 
 ### Frequently Asked Questions (FAQ)
 
-*   **[ES]** **Q: What is the main objective?**
-    *   **[ES]** **A:** To clear all three peaks of cards from the tableau before you exhaust your stock pile.
+*   **Q: ¿Cuál es el objetivo principal?**  
+    **A:** Vaciar los tres picos de cartas del tablero antes de que se agote el mazo.
 
-*   **[ES]** **Q: Can I place a 2 on a King?**
-    *   **[ES]** **A:** No. You can only place a card that is one rank away. On a King, you can only place a Queen or an Ace (because the ranks wrap).
+    - **Q: ¿Puedo poner un 2 sobre un Rey?**  
+    **A:** No. Solo puedes jugar cartas que estén a un rango de distancia. Sobre un Rey solo se permiten una Reina o un As (por el efecto de “bucle”).
 
-*   **[ES]** **Q: What happens if I run out of cards in the stock pile but there are still cards on the tableau?**
-    *   **[ES]** **A:** If your stock pile is empty and you have no more legal moves to make from the tableau, the game is over and you have lost that round.
+*   **Q: ¿Qué pasa si se acaba el mazo y aún quedan cartas?**  
+
+    - **A:** If your stock pile is empty and you have no more legal moves to make from the tableau, the game is over and you have lost that round.
+
+- **Q: What happens if I run out of cards in the stock pile but there are still cards on the tableau?**
+
+    - **A:** No. You can only place a card that is one rank away. On a King, you can only place a Queen or an Ace (because the ranks wrap).
+    **A:** Si el mazo está vacío y no te quedan jugadas legales en el tablero, la ronda termina y la pierdes.
 

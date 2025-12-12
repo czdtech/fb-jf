@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: panda-pizza-parlor
-title: '[FR] Panda Pizza Parlor'
-description: >-
-  [FR] Step into the Panda Pizza Parlor and serve up delicious pizzas to hungry
-  customers! Manage your time, get the orders right, and build a pizza empire.
+title: Panda Pizza Parlor
+description: "Entre dans la Panda Pizza Parlor et sers de délicieuses pizzas à des clients affamés\_! Gère ton temps, respecte les commandes et développe ta pizzeria."
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
 thumbnail: /new-images/panda-pizza-parlor.png
 tags:
@@ -12,39 +10,45 @@ tags:
   - action
   - clicker
 score: 4.7/5  (2150 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Panda Pizza Parlor est un jeu de cuisine rapide dans lequel tu diriges ta propre pizzeria tenue par un panda. Tu prends les commandes, prépares les pizzas avec les bons ingrédients, les cuis à la bonne durée puis les sers à une clientèle animale impatiente. Plus tu progresses, plus les commandes s’enchaînent vite, et plus tu dois gérer en parallèle plusieurs pizzas au four.
+
+### Stratégies de jeu et progression
+
+1.  **Lire la commande :** dès qu’un client arrive, vérifie la bulle au‑dessus de sa tête pour voir la base et les garnitures souhaitées.  
+2.  **Préparer efficacement :** commence par la pâte, la sauce, puis ajoute les ingrédients demandés dans le bon ordre pour éviter les erreurs.  
+3.  **Surveiller la cuisson :** garde un œil sur le temps passé au four ; une pizza trop cuite ou insuffisamment cuite rendra le client mécontent.  
+4.  **Servir rapidement :** plus tu sers vite, meilleurs sont les pourboires et plus tu gagnes d’argent.  
+5.  **Gérer plusieurs commandes :** apprends à lancer plusieurs pizzas en parallèle et à les sortir dans le bon ordre.
+
+### Commandes
+
+- Le jeu se joue à la souris : clique pour sélectionner la pâte, la sauce, les toppings, mettre au four, sortir la pizza et la servir au client.
 
 
+- **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
 
-### Detailed Game Introduction
+- **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
 
-Welcome to Panda Pizza Parlor, a charming and fast-paced cooking game where you run your very own pizza shop! As the head panda chef, your job is to take orders, prepare delicious pizzas with the correct toppings, bake them to perfection, and serve them to a variety of hungry animal customers. Manage your time effectively to keep your customers happy, earn money, and grow your pizza business from a humble parlor into a world-famous pizzeria.
+- **Select Ingredients:** Click on the dough, sauce, and toppings to add them to the pizza.
+### Foire aux questions (FAQ)
 
-### Gameplay Strategy & Walkthrough
+- **Q : Que se passe‑t‑il si je me trompe d’ingrédients ?**  
+  **R :** Le client sera insatisfait et partira sans payer, ce qui fait baisser ton revenu et parfois ta note.
 
-1.  **[FR]** **Check the Order:** As soon as a customer arrives, look at the bubble above their head to see what kind of pizza they want. Pay close attention to the toppings.
-2.  **[FR]** **Prepare the Pizza:** Start by grabbing a dough ball. Add the tomato sauce, and then apply the specific toppings the customer requested.
-3.  **[FR]** **Bake to Perfection:** Place the pizza in the oven. Keep an eye on the timer! An undercooked or burnt pizza will make your customers unhappy.
-4.  **[FR]** **Serve Quickly:** Once the pizza is perfectly baked, take it out and serve it to the waiting customer. The faster you serve, the better your tip and the happier the customer.
-5.  **[FR]** **Manage Multiple Orders:** As you progress, you will have to juggle multiple orders at once. Create a workflow that allows you to prepare several pizzas simultaneously to keep up with the demand.
+    - **Q : Y a‑t‑il des améliorations ?**  
 
-### Controls Guide
+- **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
 
-*   **[FR]** **Point and Click:** The game is played entirely with the mouse.
-*   **[FR]** **Select Ingredients:** Click on the dough, sauce, and toppings to add them to the pizza.
-*   **[FR]** **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
-*   **[FR]** **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
+    - **Q: Are there upgrades in the game?**
 
-### Frequently Asked Questions (FAQ)
+- **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
 
-*   **[FR]** **Q: What happens if I get an order wrong?**
-    *   **[FR]** **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.
-
-*   **[FR]** **Q: How can I serve customers faster?**
-    *   **[FR]** **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
-
-*   **[FR]** **Q: Are there upgrades in the game?**
-    *   **[FR]** **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
+    - **Q: How can I serve customers faster?**
+  **R :** Au fil des niveaux, tu débloques de nouveaux ingrédients et options ; certaines versions permettent aussi d’accélérer les fours ou d’augmenter la capacité.
 

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: geometry-dash-lite
-title: '[ZH TRANSLATION NEEDED] Geometry Dash Lite'
+title: "Geometry Dash Lite 幾何衝刺 體驗版"
 description: >-
-  [ZH TRANSLATION NEEDED] Rhythm platforming sampler: jump and fly to the beat
-  through preset levels, avoiding spikes and timing pads/portals.
+  節奏平台跳躍入門版：跟著音樂節拍跳躍與飛行，穿越預設關卡中的跳板、重力門與飛船段落，
+  避開尖刺與鋸齒障礙。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/geometry-dash-lite.jpg
@@ -18,26 +18,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Entry version of the rhythm platformer: clear curated levels with jump pads, gravity portals, and ship sections synced to music.
+
+《Geometry Dash Lite》是經典節奏平台遊戲的體驗版，你需要在音樂節奏的引導下，
+精準按鍵讓方塊角色跳過尖刺、撞上跳板、穿越重力傳送門，或切換成小飛船段落在空中穿梭。
+所有關卡都預先設計並與 BGM 嚴密同步，玩起來像是在「演奏」一段關卡譜面。
 
 ### How to Play
-- Tap/jump on the beat to pass spikes and saws.
-- Hold to fly the ship smoothly; keep altitude steady.
-- Memorize tricky segments and practice mode if available.
+
+- 在地面段落中，抓準節拍按下跳躍鍵，讓角色準確越過尖刺與坑洞。
+- 進入飛船模式時，按住可讓飛船上升、放開則下降，目標是在狹窄通道中保持穩定高度。
+- 利用練習模式（若有）在高難度片段中設置檢查點，
+  反覆練習困難段落，熟悉節奏後再回到正式模式一氣呵成。
 
 ### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice toggles vary by host.
+
+- 空白鍵、滑鼠點擊或觸控用於跳躍／飛行；
+- 練習模式開關與其他輔助功能按鍵會依託管版本稍有差異。
 
 ### Tips
-- Turn on practice for tough sections to set checkpoints.
-- Use music cues to predict upcoming jumps.
-- Keep ship inputs gentle; over‑correction causes crashes.
+
+- 對於難關，先開啟練習模式，逐段設置檢查點並練習到可以穩定通過，再回到正常模式挑戰無失誤通關。
+- 多聽音樂節奏，用耳朵預判下一個跳躍點，比只看畫面更好掌握時機。
+- 飛船段落盡量以輕點與短按為主，避免大起大落的操作，過度修正高度很容易撞到地形。
 
 ### FAQ
-- Q: How do I beat hard levels without memorizing everything?  
-[ZH TRANSLATION NEEDED]   A: Use practice mode to learn patterns, then switch to normal for a clean run.
-- Q: Why does my ship keep crashing?  
-[ZH TRANSLATION NEEDED]   A: You are oversteering; use small holds and release to settle.
-- Q: Are custom levels included?  
-[ZH TRANSLATION NEEDED]   A: Lite focuses on built‑in tracks; custom levels depend on host.
 
+- 問：不想完全用背的，有辦法過高難度關卡嗎？  
+  答：可以先用練習模式掌握關鍵節奏與地形，再在正式模式中用「節奏記憶+肌肉記憶」過關，
+  不一定要逐格硬背畫面。
+
+- 問：為什麼飛船老是摔機？  
+  答：多半是按鍵時間過長或頻率過高，導致高度起伏太劇烈。試著用更小幅度的點按與放開，
+  讓飛船在安全高度區間內小幅波動即可。
+
+- 問：Lite 版有自製關卡嗎？  
+  答：體驗版主要以內建曲目與關卡為主，自訂關卡是否開放會依託管平台而定。

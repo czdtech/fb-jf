@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: monopoly
-title: '[DE] MONOPOLY'
+title: "MONOPOLY"
 description: >-
-  [DE] Monopoly is a classic real estate board game where players buy, rent, or
-  sell properties with the goal of bankrupting their opponents and becoming the
-  wealthiest player.
+  Monopoly ist der klassische Immobilien-Brettspiel-Hit: Kaufe, vermiete und
+  verkaufe Straßen mit dem Ziel, deine Mitspieler in den Bankrott zu treiben
+  und als reichste Person zu gewinnen.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/monopoly.jpg
 tags:
@@ -17,35 +17,59 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+„Monopoly“ ist ein klassisches Immobilien-Brettspiel. Du wirfst Würfel, ziehst
+über das Spielbrett, kaufst, vermietest und verkaufst Grundstücke. Ziel ist es,
+alle anderen Spieler:innen in den Bankrott zu treiben und als einzige Person
+mit positiver Bilanz übrig zu bleiben. Strategie, Verhandlungsgeschick und eine
+Prise Glück spielen zusammen.
 
+### Spielstrategie
 
-### Game Introduction
+1.  **Straßen kaufen**  
+    Landest du auf einer freien Straße, kannst du sie kaufen und deinem
+    Portfolio hinzufügen.
 
-"Monopoly" is a classic real estate board game where players roll dice to move around the game board, buying, renting, and selling properties. The goal is to bankrupt other players and ultimately become the wealthiest tycoon. The game combines elements of strategy, negotiation, and luck, and is loved by players worldwide.
+2.  **Häuser & Hotels bauen**  
+    Besitzt du alle Straßen einer Farbgruppe, darfst du Häuser und später
+    Hotels bauen – so steigt die Miete deutlich.
 
-### Gameplay Strategy
+3.  **Miete kassieren**  
+    Wer auf deinen Straßen landet, zahlt Miete. Je mehr Häuser/Hotels, desto
+    höher der Betrag.
 
-1.  **[DE]** **Buy Properties**: When you land on an unowned property, you can choose to buy it, making it your asset.
-2.  **[DE]** **Build Houses and Hotels**: After acquiring all properties of the same color group, you can build houses and hotels on them to increase rental income.
-3.  **[DE]** **Collect Rent**: When other players land on your property, they must pay you rent. Properties with houses and hotels yield higher rents.
-4.  **[DE]** **Trade and Negotiate**: Engage in property or card trades with other players, negotiating to acquire a more advantageous asset portfolio.
-5.  **[DE]** **Manage Finances**: Plan your finances wisely to ensure you have enough cash flow to cover rents, taxes, and unforeseen events.
+4.  **Handeln & Verhandeln**  
+    Tausch Straßen oder Karten mit anderen Spieler:innen, um Farbsets zu
+    vervollständigen oder dich aus ungünstigen Lagen zu befreien.
 
-### How to Play
+5.  **Liquidität im Blick behalten**  
+    Plane deine Finanzen so, dass du Mieten, Steuern und Ereignisse zahlen
+    kannst, ohne sofort verkaufen oder beleihen zu müssen.
 
-*   **[DE]** **Roll Dice**: Click the dice during your turn to roll them, determining how many spaces your token moves.
-*   **[DE]** **Buy/Build**: When your token lands on a purchasable property, a buying option will appear. Once you own a complete color group, you can click on properties to build.
-*   **[DE]** **Trade**: Initiate trades with other players, selecting properties or cards you wish to exchange.
-*   **[DE]** **Pay**: When landing on a space that requires rent or tax payment, you will be prompted to pay automatically.
+### Steuerung (Online-Version)
 
-### Frequently Asked Questions
+*   **Würfeln:** Klicke auf die Würfel, um zu ziehen.  
+*   **Kaufen/Bauen:** Nach dem Landen auf einer Straße erscheint eine Kauf-
+    oder Bau-Option, sofern erlaubt.  
+*   **Handeln:** Öffne das Handelsmenü, um Straßen oder Karten anzubieten bzw.
+    anzufordern.  
+*   **Zahlen:** Fällige Mieten oder Steuern werden in der Regel automatisch
+    abgebucht.
 
-1.  **[DE]** **Q: What is the ideal number of players for Monopoly?**
-**A**: Traditional Monopoly usually suits 2 to 8 players, but the best experience is often with 3 to 6 players.
-2.  **[DE]** **Q: What is the objective of the game?**
-**A**: The main objective is to bankrupt all other players by buying, developing, and managing properties, thereby becoming the sole winner.
-3.  **[DE]** **Q: What happens if I go bankrupt?**
-**A**: Once you are unable to pay your debts (including rent, taxes, or bank loans), you go bankrupt and are out of the game.
-4.  **[DE]** **Q: What are the special squares on the board?**
-**A**: Special squares include "Chance," "Community Chest," "Go to Jail," and "Free Parking," which trigger various events and rules.
+### FAQ
+
+1.  **F: Wie viele Personen können mitspielen?**  
+    **A:** Klassisch 2–8, am angenehmsten sind meist Runden mit 3–6 Personen.
+
+2.  **F: Was ist das genaue Spielziel?**  
+    **A:** Alle Mitspieler:innen durch geschicktes Investieren und Bauen in den
+    Bankrott zu treiben und als einzige Person übrig zu bleiben.
+
+3.  **F: Was passiert bei Bankrott?**  
+    **A:** Kannst du offene Forderungen (Mieten, Steuern, Bankkredite) nicht
+    mehr zahlen – selbst nach Hypotheken und Verkäufen – scheidest du aus.
+
+4.  **F: Welche Sonderfelder gibt es?**  
+    **A:** „Chance“-, „Gemeinschafts“-Karten, „Gehe ins Gefängnis“ und „Frei
+    Parken“ lösen besondere Ereignisse oder Effekte aus, je nach Regelwerk.

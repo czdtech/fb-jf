@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: run-3
-title: '[DE] Run 3'
+title: "Run 3"
 description: >-
-  [DE] Run 3 is an endless running game set in space where players control an
-  alien character running through a 3D tunnel, jumping over gaps and avoiding
-  obstacles while defying gravity in this addictive platformer.
+  Run 3 ist ein Endlos-Runner im Weltall: Du steuerst ein Alien durch einen
+  3D-Tunnel, springst über Lücken, weichst Hindernissen aus und läufst dank
+  wechselnder Schwerkraft sogar an Wänden und Decken entlang.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/run-3.jpg
 tags:
@@ -17,34 +17,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Run 3" ist ein Endlos-Laufspiel im All. Du steuerst eine kleine Alienfigur
+ durch einen endlosen Tunnel aus schwebenden Segmenten. Ziel ist es, so weit wie
+ möglich zu laufen, während sich Lücken im Boden, kaputte Segmente und
+ Hindernisse vor dir auftun – und du die Schwerkraft nutzt, um bei Bedarf an
+ Wänden oder der Decke weiterzulaufen.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Sprungtiming lernen:** Übe, Lücken im richtigen Moment zu überspringen.
+    Ein zu früher oder zu später Sprung führt schnell zum Absturz.
+2.  **Wände nutzen:** Du kannst an Wänden und der Decke weiterlaufen. Nutze
+    diese Option, um gefährliche Lücken am Boden zu umgehen.
+3.  **Figuren wählen:** Unterschiedliche Charaktere besitzen teils eigene
+    Eigenschaften – etwa andere Sprunghöhen oder Größen. Wähle den, der am
+    besten zu deinem Spielstil oder Level passt.
+4.  **Vorausschauend planen:** Schaue weit nach vorn und entscheide früh, ob du
+    lieber springen oder die Tunnelwand wechseln willst.
+5.  **Rhythmus halten:** Ein gleichmäßiger Lauf- und Sprungrhythmus hilft, nicht
+    in Panik unüberlegte Eingaben zu machen.
 
-"Run 3" is an endless running game set in space where players control an alien character running through a 3D tunnel, jumping over gaps and avoiding obstacles while defying gravity. The game is famous for its unique 3D perspective and gradually increasing difficulty, providing players with both simple and challenging gameplay experience.
+### Steuerung
 
-### Gameplay Strategy
+*   **Bewegen:** Mit Pfeil links/rechts steuerst du dein Alien seitwärts.
+*   **Springen:** Mit Leertaste oder Pfeil nach oben springst du.
+*   **Schwerkraftwechsel:** An Wänden/Decke läuft dein Charakter automatisch
+    weiter, sobald du sie erreichst.
 
-1.  **[DE]** **Master Jumping Timing**: Learn to jump at the right moments to avoid gaps and obstacles.
-2.  **[DE]** **Utilize Walls**: You can run on tunnel walls and ceilings, making full use of 3D space.
-3.  **[DE]** **Choose Appropriate Characters**: Different characters have different abilities; choose the one suitable for the current level.
-4.  **[DE]** **Plan Your Path**: Observe obstacles ahead and plan the optimal running route.
-5.  **[DE]** **Maintain Rhythm**: Keep a steady running rhythm, avoiding hasty operations that lead to mistakes.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Movement**: Use left and right arrow keys to control character's left and right movement.
-*   **[DE]** **Jump**: Use spacebar or up arrow key to make the character jump.
-*   **[DE]** **Direction Change**: In the tunnel, you can change gravity direction to run on walls and ceilings.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How do I run on walls?**
-**A**: When approaching walls, the character automatically switches gravity direction, allowing you to continue running on walls or ceilings.
-2.  **[DE]** **Q: What are the differences between characters?**
-**A**: Each character has unique abilities, such as better jumping ability, smaller size, or special movement methods.
-3.  **[DE]** **Q: Does the game have an endpoint?**
-**A**: "Run 3" is an endless runner game, but there are multiple different levels and modes to explore.
-4.  **[DE]** **Q: How do I unlock new characters?**
-**A**: New playable characters can be unlocked by completing specific levels or achieving certain accomplishments.
+1.  **F: Wie komme ich an Wände oder die Decke?**
+    **A:** Laufe an einen seitlichen Wandabschnitt heran – die Schwerkraft
+    richtet sich automatisch neu aus, und du läufst dort weiter.
+2.  **F: Was unterscheidet die Charaktere?**
+    **A:** Manche springen höher, sind kleiner und passen durch engere Lücken
+    oder bewegen sich anders. Experimentiere, um deinen Favoriten zu finden.
+3.  **F: Hat das Spiel ein richtiges Ende?**
+    **A:** Der Hauptmodus ist endlos, aber es gibt mehrere Level-/Storypfade und
+    Modi, die eigene Ziele und Abschlüsse bieten.
+4.  **F: Wie schalte ich neue Charaktere frei?**
+    **A:** In der Regel durch das Abschließen bestimmter Level oder das Erreichen
+    von Meilensteinen im Spielverlauf.

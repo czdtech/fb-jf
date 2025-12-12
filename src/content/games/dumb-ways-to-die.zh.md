@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: dumb-ways-to-die
-title: '[ZH TRANSLATION NEEDED] Dumb Ways to Die'
+title: "Dumb Ways to Die 蠢蠢的死法迷你遊戲合集"
 description: >-
-  [ZH TRANSLATION NEEDED] Dumb Ways to Die is a fast‑reaction mini‑game
-  collection: complete micro‑challenges quickly to keep characters alive.
+  Dumb Ways to Die 是一款節奏飛快的反應力迷你遊戲合集，你要在極短時間內完成
+  一連串安全主題的小挑戰，才能讓那些呆萌角色活下來。
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/dumb-ways-to-die.jpg
 tags:
@@ -17,26 +17,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Fast‑reaction micro‑games: complete short safety‑themed challenges under a rising speed curve. Fail three times and the run ends.
+
+這是一款節奏明快的「微型關卡」遊戲集合。每個關卡都是一個與安全相關的爆笑挑戰，
+你必須在倒數結束前快速做出正確操作。隨著關卡推進，遊戲速度會越來越快，一旦總共
+失手三次，本次挑戰就會結束。
 
 ### How to Play
-- Each round presents a different micro‑game with a brief prompt.
-- Succeed quickly to keep lives and push the speed higher; mistakes cost hearts.
-- Later rounds shuffle faster and add trick prompts.
+
+- 每一回合都會隨機出現不同的迷你遊戲，畫面上會先給出簡短提示說明要做什麼。
+- 在限定時間內成功完成操作就能保住生命並提升遊戲速度；失敗則會扣除一顆心。
+- 後期回合不僅節奏更快，還會出現容易誤解的提示，需要你更冷靜地判斷。
 
 ### Controls
-- Mouse/Touch swipes, taps, and holds; some hosts use arrow keys/space for specific games.
+
+- 主要透過滑鼠或觸控進行滑動、點擊與長按操作；
+- 部分託管版本的特定關卡，可能改用方向鍵或空白鍵來完成動作。
 
 ### Tips
-- Read the prompt first—many losses come from instinctive wrong inputs.
-- Expect repetition; memorize tricky games to react faster.
-- Don’t over‑drag/over‑swipe; precision beats speed.
+
+- 先看清楚提示再下手，很多失誤都來自於下意識做錯動作而不是反應慢。
+- 關卡會重複出現，多玩幾輪記住那些「陷阱題」，下一次就能瞬間做對。
+- 不要過度拖拉或亂滑，精準、到位的操作比一味求快更重要。
 
 ### FAQ
-- Q: How many lives do I have?  
-[ZH TRANSLATION NEEDED]   A: Usually three strikes per run.
-- Q: Can I practice a single game?  
-[ZH TRANSLATION NEEDED]   A: Some hosts offer practice lists; otherwise learn during runs.
-- Q: Is there progression?  
-[ZH TRANSLATION NEEDED]   A: High‑score chase; some versions unlock characters or cosmetics.
 
+- 問：我一共有幾條命？  
+  答：一般情況下，每輪挑戰最多可以失誤三次，第三次錯誤就會結束本輪遊戲。
+
+- 問：能不能只練某一個迷你遊戲？  
+  答：部分平台提供單關卡練習清單，大多數版本則是透過正式遊戲過程一邊嘗試一邊熟悉。
+
+- 問：有長期養成或解鎖要素嗎？  
+  答：核心目標是刷高分，不同版本中有些會附帶解鎖新角色或裝飾等收集向要素。

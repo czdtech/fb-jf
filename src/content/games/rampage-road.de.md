@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: rampage-road
-title: '[DE] Rampage Road'
+title: "Rampage Road"
 description: >-
-  [DE] Rampage Road is a chaotic car shooter — weave traffic, blast foes, and
-  survive explosive pursuits.
+  Rampage Road ist ein chaotischer Auto-Shooter aus der Top-Down-Perspektive:
+  Schlängle dich durch den Verkehr, schalte Gegner aus und überlebe explosive
+  Verfolgungsjagden.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/rampage-road.png
 tags:
@@ -16,28 +17,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Rampage Road kombiniert Top-Down-Fahren mit Arcade-Shooter-Action. Du lenkst
+ dein Fahrzeug durch dichten Verkehr, verwaltest Munition oder Waffen-Cooldowns
+ und musst feindliche Wagen ausschalten, ohne dein eigenes Auto zu Schrott
+ fahren zu lassen.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Rampage Road mixes top‑down driving with arcade shooting. Navigate traffic, manage ammo or cooldowns, and eliminate targets while keeping your vehicle intact through waves of enemies.
+1.  **Saubere Linien fahren:** Bleib in Spuren mit gut sichtbaren Lücken, um
+    Zusammenstöße mit Zivilfahrzeugen zu vermeiden.
+2.  **Feuer stoßweise:** Kurze, gezielte Salven schonen Munition und verhindern
+    Überhitzen der Waffen.
+3.  **Gefährliche Ziele priorisieren:** Schalte Gegner mit Raketen oder
+    Ramm-Verhalten zuerst aus – sie stellen die größte Bedrohung dar.
+4.  **Pickups sicher einsammeln:** Fahre Power-ups nur an, wenn die Situation
+    übersichtlich ist. Riskante Querschläger durch mehrere Spuren enden oft im
+    Crash.
+5.  **Fluchtoptionen aufheben:** Bewahre Nitro-Boosts oder Schutzschilde für
+    Notfälle auf – z. B. für Bosswellen oder wenn du in Beschuss gerätst.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Clean lines: Hug lanes with predictable gaps to avoid traffic hits.
-2.  **[DE]** Burst fire: Short controlled bursts conserve ammo and heat.
-3.  **[DE]** Focus targets: Remove dangerous foes (rockets/rammers) first.
-4.  **[DE]** Collect wisely: Grab pickups when safe; don’t cut across heavy traffic.
-5.  **[DE]** Escape tools: Save boosts or shields for emergencies.
+- **Lenken:** Mit A/D oder Links/Rechts steuerst du das Auto seitlich.
+- **Gas/Bremse:** W/S oder Pfeil hoch/runter für Beschleunigen und Abbremsen.
+- **Schießen:** Mit Leertaste oder Mausklick (je nach Version); Sekundärwaffen
+  meist auf einer zusätzlichen Taste.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drive: A/D or Left/Right; accelerate/brake with W/S or Up/Down.
-- Fire: Click/Space per mode; secondary with another key if present.
+- **F: Warum explodiere ich so schnell?**
+  
+  Du tauschst Treffer mit Gegnern oder Verkehr. Priorisiere Ausweichen vor
+  Kills – ein lebendes Auto macht mehr Punkte als ein zerstörtes.
 
-### Frequently Asked Questions (FAQ)
+- **F: Ist Munition begrenzt?**
+  
+  In vielen Modi ja. Schieße in kurzen Salven und nutze Nachladepausen, wenn
+  weniger Gegner auf dem Bildschirm sind.
 
-- I explode fast—why? You’re trading hits in traffic; prioritize avoidance over kills.
-- Ammo limited? Many modes—use bursts and time reloads.
-- Boss fights? Some waves escalate; prepare boosts and space.
-
+- **F: Gibt es Bosskämpfe?**
+  
+  Spätere Wellen können starke Gegnerfahrzeuge bringen. Heb dir dafür
+  Boosts und starke Waffen auf und halte Abstand, um ihren Angriffen auszuweichen.

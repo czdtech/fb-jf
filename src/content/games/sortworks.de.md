@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: sortworks
-title: '[DE] SortWorks'
-description: >-
-  [DE] SortWorks is a clean sort‑and‑stack puzzler — organize items by rules,
-  plan buffers, and avoid deadlocks under rising pressure.
+title: "SortWorks"
+description: "SortWorks ist ein aufgeräumtes Sortier- und Stapelrätsel: Ordne Objekte nach Regeln, plane Pufferzonen ein und vermeide Blockaden, während der Druck immer weiter steigt."
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/sortworks.png
 tags:
@@ -15,36 +13,32 @@ score: 4.0/5  (1889 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+SortWorks verknüpft visuelles Sortieren mit strengen Vorgaben für Behälter – etwa nach Farbe, Form oder Typ. Die Objekte rollen auf Förderbändern heran und du musst sie in die richtigen Behälter leiten. Pufferplätze helfen dir, Engpässe zu entschärfen. In späteren Leveln steigt die Geschwindigkeit und es kommen zusätzliche, schwerer zu unterscheidende Kategorien hinzu.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Regeln priorisieren:** Wende zuerst die wichtigsten Regeln an (z. B. gefährlich vs. ungefährlich) und verfeinere dann mit Unterkategorien.
+2.  **Puffer diszipliniert nutzen:** Halte möglichst immer mindestens einen Pufferplatz frei, um auf plötzliche Problemobjekte reagieren zu können.
+3.  **Einfache Objekte bündeln:** Sortiere leichte Kategorien in Serien, um Kombos und Multiplikatoren stabil aufzubauen.
+4.  **Fehlerkosten bedenken:** Wenn du unsicher bist, ist es oft besser, ein Objekt kurz zwischenzulagern oder zu überspringen, statt es falsch einzusortieren.
+5.  **Blickführung trainieren:** Schau frühzeitig ein Stück weiter das Band hinunter, statt nur auf das nächste Objekt zu starren – so planst du besser voraus.
 
-SortWorks blends visual sorting with bin constraints (color/shape/type). Items arrive on belts; you must route them to correct bins, using buffer slots to prevent jams. Late boards raise speed and add tricky categories.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Ziehe oder tippe Objekte in die passenden Behälter. Über das UI kannst du pausieren, neu starten oder Hinweise aktivieren, die dir die richtigen Ziele markieren.
 
-1.  **[DE]** Rule hierarchy: Apply critical rules first (e.g., hazard vs non‑hazard) then fine categories.
-2.  **[DE]** Buffer discipline: Keep at least one buffer slot free at all times.
-3.  **[DE]** Batch easy items: Chain streaks on simple categories to maintain multipliers.
-4.  **[DE]** Error cost: Skip uncertain items rather than mis‑sort.
-5.  **[DE]** Eye flow: Scan ahead of the belt; don’t tunnel on the nearest item.
+### Häufig gestellte Fragen (FAQ)
 
-### Controls Guide
+- **F: Meine Förderbänder verstopfen ständig.**
+  
+  **A:** Du nutzt deine Pufferplätze zu stark aus. Sortiere zuerst eine Serie einfacher Objekte weg, um wieder Platz zu schaffen, bevor du dich um schwierige Fälle kümmerst.
 
-- Drag/tap items to bins; pause/retry via UI; hints may highlight targets.
+- **F: Ähnliche Symbole verwirren mich.**
+  
+  **A:** Präge dir für jede Kategorie zwei bis drei auffällige Merkmale ein (z. B. Grundform, Kanten, Hauptfarbe) und sortiere zuerst nur nach diesen Ankern.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I jam belts.
-
-A: You’re consuming buffers; clear an easy batch to reopen space before tackling hard items.
-
-- Q: Similar icons confuse me.
-
-A: Learn 2–3 anchor features per category (shape/edge/color) and sort by those first.
-
-- Q: Do streaks matter?
-
-A: Yes — streaks boost scores; feed them with easy items.
-
+- **F: Bringen Kombos wirklich etwas?**
+  
+  **A:** Ja, Serien sauber sortierter Objekte erhöhen deinen Score-Multiplikator. Füttere ihn, indem du gezielt einfache Items hintereinander abarbeitest.

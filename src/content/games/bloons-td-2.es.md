@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bloons-td-2
-title: '[ES] Bloons TD 2'
+title: "Bloons TD 2"
 description: >-
-  [ES] Experience the classic Bloons TD 2! Place and upgrade five unique monkey
-  towers to defend against 50 waves of balloons, and master the strategy needed
-  to counter immune Black and White bloons.
+  Disfruta del clásico Bloons TD 2. Coloca y mejora cinco torres de monos
+  únicas para defenderte de 50 oleadas de globos y domina la estrategia
+  necesaria para contrarrestar a los Bloons negros y blancos inmunes.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/bloons-td-2.jpg
 tags:
@@ -16,64 +16,108 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Bloons TD 2 es la segunda entrega de la clásica saga de defensa de torres. Parte
+sobre la base del original y añade una característica clave: las **mejoras de
+las torres**. El objetivo sigue siendo el mismo: usar monos para reventar oleadas
+de globos ("Bloons") antes de que lleguen al final del camino y te hagan perder
+vidas.
 
+La partida se desarrolla a lo largo de 50 rondas de dificultad creciente. Ganas
+dinero por cada Bloon que revientas, y ese dinero se usa para comprar nuevas
+torres o mejorar las existentes. Bloons TD 2 incluye un conjunto básico de
+unidades y presenta tipos de Bloons especiales que requieren estrategias
+específicas.
 
-### Game Introduction
+**Características clave de Bloons TD 2:**
+-   **Mejoras de torres:** La gran novedad de esta secuela. Cada torre dispone
+    de varias mejoras que amplían su alcance, aumentan su velocidad de ataque o
+    cambian el tipo de proyectil.
+-   **Torres:** El juego incluye cinco torres principales:
+    1.  **Dart Monkey:** Torre barata y básica que lanza dardos individuales.
+    2.  **Tack Shooter:** Dispara una ráfaga de púas en ocho direcciones. Es
+        ideal en esquinas.
+    3.  **Ice Tower:** Congela a los Bloons dentro de su radio, manteniéndolos
+        inmóviles. No afecta a los Bloons blancos.
+    4.  **Bomb Tower:** Lanza bombas que explotan y revientan Bloons en área.
+        No afecta a los Bloons negros.
+    5.  **Super Monkey:** Torre muy cara pero con una cadencia de disparo
+        extremadamente alta.
+-   **Bloons especiales:**
+    -   **Black Bloons:** Inmunes a las explosiones de las Bomb Towers.
+    -   **White Bloons:** Inmunes al efecto de congelación de las Ice Towers.
+    -   **Zebra Bloons:** Combinación de un Bloon negro y uno blanco. Al
+        reventar, libera uno de cada tipo.
+    -   **Rainbow Bloons:** El Bloon más resistente del juego. Al reventar,
+        suelta dos Zebra Bloons.
 
-Bloons TD 2 is the second installment in the classic tower defense series. The game builds upon the foundation of the original by introducing the key feature of **tower upgrades**. The objective remains the same: use monkeys to pop waves of advancing balloons ("Bloons") before they reach the end of the track and cost you lives.
+### Estrategia de juego
 
-The game is played over 50 rounds of increasing difficulty. Players earn money for each Bloon popped, which can be used to purchase new towers or upgrade existing ones. Bloons TD 2 features a core set of towers and introduces special Bloon types that require specific strategies to defeat.
+-   **La defensa equilibrada es esencial:** Esta es la idea más importante en
+    Bloons TD 2. Como los Bloons negros son inmunes a las bombas y los blancos
+    al hielo, no puedes depender de un solo tipo de daño. Tu defensa debe
+    incluir torres capaces de golpear a ambos (como Dart Monkeys, Tack Shooters
+    y Super Monkeys) junto a tus torres especializadas.
+-   **Empieza con Dart Monkeys:** En las primeras rondas, coloca varios Dart
+    Monkeys a lo largo del camino. Son baratos y efectivos contra los Bloons
+    rojos, azules y verdes iniciales. Mejóralos a "Piercing Darts" en cuanto
+    puedas para manejar grupos más densos.
+-   **Colocación estratégica:**
+    -   Sitúa los Tack Shooters en curvas cerradas o bucles donde su ráfaga de
+        8 púas pueda golpear varias veces a los Bloons.
+    -   Coloca Bomb Towers en rectas largas o en zonas donde se agrupen muchos
+        Bloons ralentizados por un Ice Tower.
+    -   Las Ice Towers funcionan mejor dentro del alcance de otras torres
+        ofensivas, para que los Bloons permanezcan más tiempo recibiendo daño.
+-   **Prepárate para la ronda 28:** Es la primera ronda con Lead Bloons, que solo
+    pueden reventarse con explosiones. Debes tener al menos una Bomb Tower
+    antes de llegar a esa oleada.
+-   **Cómo contrarrestar Bloons negros y blancos:** Cuando lleguen oleadas de
+    Bloons negros y blancos, necesitarás torres como Dart Monkeys mejorados o
+    Tack Shooters para hacer el primer daño, ya que tus Bomb e Ice Towers serán
+    inútiles frente a uno de los dos tipos.
+-   **Ahorra para el Super Monkey:** El Super Monkey es tu arma definitiva de
+    final de partida. Intenta ahorrar para uno y colócalo donde tenga una línea
+    de visión larga. Es tu mejor defensa contra las densas oleadas de Rainbow
+    Bloons de las últimas rondas (46–50).
 
-**Key Features of Bloons TD 2:**
--   **Tower Upgrades:** The main innovation of this sequel. Each tower has a set of upgrades that enhance its abilities, such as increased range, faster attack speed, or special projectile types.
--   **Towers:** The game includes five primary towers:
-    1.   **[ES]** **Dart Monkey:** A cheap, basic tower that throws single darts.
-    2.   **[ES]** **Tack Shooter:** Shoots a volley of tacks in eight directions. Best placed in corners.
-    3.   **[ES]** **Ice Tower:** Freezes Bloons in its radius, holding them in place. Cannot affect White Bloons.
-    4.   **[ES]** **Bomb Tower:** Launches bombs that explode and pop Bloons in an area. Cannot affect Black Bloons.
-    5.   **[ES]** **Super Monkey:** A very expensive but extremely fast-firing tower.
--   **Special Bloons:**
-    -   **Black Bloons:** Immune to explosions from Bomb Towers.
-    -   **White Bloons:** Immune to being frozen by Ice Towers.
-    -   **Zebra Bloons:** A combination of a Black and a White Bloon. When popped, it releases one of each.
-    -   **Rainbow Bloons:** The toughest Bloon in the game. When popped, it releases two Zebra Bloons.
+### Guía de controles
 
-### Gameplay Strategy
+Los controles son los sencillos de apuntar y hacer clic, típicos de los juegos
+Flash de su época.
 
--   **Balanced Defense is Essential:** This is the most critical strategy in Bloons TD 2. Because Black Bloons are immune to bombs and White Bloons are immune to ice, you cannot rely on just one type of damage. Your defense must include towers that can handle both (like Dart Monkeys, Tack Shooters, and Super Monkeys) alongside your specialized towers.
--   **Start with Dart Monkeys:** In the early rounds, place several Dart Monkeys along the track. They are cheap and effective against the initial red, blue, and green Bloons. Upgrade them to "Piercing Darts" as soon as you can to handle denser groups.
--   **Strategic Placement:**
-    -   Place Tack Shooters on sharp corners or loops where their 8-tack spread can hit Bloons multiple times.
-    -   Place Bomb Towers where their splash damage can cover a straight path or a large cluster of Bloons slowed by an Ice Tower.
-    -   Ice Towers are best placed in the range of other damage-dealing towers to maximize the time Bloons spend getting hit.
--   **Prepare for Round 28:** This is the first round with Lead Bloons, which can only be popped by explosions. You MUST have a Bomb Tower by this round.
--   **Countering Black and White Bloons:** When you see waves of Black and White Bloons, you'll need towers like upgraded Dart Monkeys or Tack Shooters to do the initial popping, as your Bomb and Ice Towers will be ineffective against one type.
--   **Saving for the Super Monkey:** The Super Monkey is your ultimate late-game weapon. Try to save up for one and place it where it has a long line of sight. It is your best defense against the dense Rainbow Bloon waves in the final rounds (46-50).
+-   **Seleccionar una torre:** Haz clic en la torre que quieras comprar en el
+    panel de la derecha.
+-   **Colocar una torre:** Mueve el cursor a una posición válida del mapa y haz
+    clic de nuevo para colocarla.
+-   **Mejorar una torre:** Haz clic en una torre que ya esté en el mapa. Sus
+    opciones de mejora aparecerán en el panel. Haz clic en la mejora deseada si
+    tienes suficiente dinero.
+-   **Atajos de teclado:** Puedes usar las teclas numéricas (1–5) como acceso
+    rápido para seleccionar las torres correspondientes.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The controls are simple point-and-click, typical for Flash games of its era.
+**1. ¿Por qué mi Bomb Tower no revienta los globos negros?**
+> Los Black Bloons son inmunes a las explosiones. Necesitas ataques "cortantes"
+> de torres como Dart Monkey o Tack Shooter para reventarlos.
 
--   **Select a Tower:** Click on the tower you wish to buy from the panel on the right side of the screen.
--   **Place a Tower:** Move your mouse to a valid position on the map and click again to place it.
--   **Upgrade a Tower:** Click on a tower that is already on the map. Its upgrade options will appear in the panel. Click on the desired upgrade to purchase it if you have enough money.
--   **Hotkeys:** You can use the number keys (1-5) as shortcuts to select the corresponding towers.
+**2. ¿Por qué los globos blancos atraviesan el congelamiento de mi Ice Tower?**
+> Los White Bloons son inmunes a los efectos de congelación. No pueden ser
+> ralentizados ni detenidos por las Ice Towers.
 
-### Frequently Asked Questions (FAQ)
+**3. ¿Cuál es la mejor torre del juego?**
+> No hay una única "mejor" torre, porque el juego se basa en el equilibrio. El
+> Super Monkey tiene la mayor potencia bruta, pero no ganarás sin Bomb Towers
+> para los Lead Bloons ni sin una defensa equilibrada para los Bloons negros y
+> blancos. Lo óptimo es siempre una combinación de torres.
 
-**1. Why isn't my Bomb Tower popping the black balloons?**
-> Black Bloons are immune to explosions. You need to use "sharp" attacks from towers like the Dart Monkey or Tack Shooter to pop them.
+**4. ¿Cuántas rondas hay en Bloons TD 2?**
+> El juego consta de 50 rondas. Las últimas incluyen grandes oleadas de Rainbow
+> Bloons.
 
-**2. Why are the white balloons going right through my Ice Tower's freeze?**
-> White Bloons are immune to freezing effects. They cannot be slowed or stopped by Ice Towers.
-
-**3. What is the best tower in the game?**
-> There is no single "best" tower, as the game is designed around balance. The Super Monkey has the highest raw power, but you cannot win without Bomb Towers for Lead Bloons and a balanced defense for Black/White Bloons. A combination of towers is always the best strategy.
-
-**4. How many rounds are there in Bloons TD 2?**
-> The game consists of 50 rounds. The final rounds feature a massive rush of Rainbow Bloons.
-
-**5. How do I make extra money?**
-> In Bloons TD 2, the only way to earn money is by popping Bloons. Unlike later games in the series, there are no Banana Farms or other abilities to generate extra income.
-
+**5. ¿Cómo consigo dinero extra?**
+> En Bloons TD 2 la única forma de ganar dinero es reventando Bloons. A
+> diferencia de entregas posteriores de la saga, aquí no hay Banana Farms ni
+> otras habilidades para generar ingresos adicionales.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: jewel-legend
-title: '[ES] Jewel Legend'
+title: Jewel Legend
 description: >-
-  [ES] Become a Jewel Legend in this dazzling match-3 adventure. Swap and match
-  glittering gems to create explosive combos and solve hundreds of challenging
-  puzzles.
+  Conviértete en una auténtica leyenda de las joyas en esta brillante aventura
+  match‑3. Intercambia gemas relucientes, crea combos explosivos y resuelve
+  cientos de puzles desafiantes.
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
 thumbnail: /new-images/jewel-legend.png
 tags:
@@ -18,39 +18,62 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Jewel Legend es un vibrante y adictivo juego de puzles match‑3 ambientado en un
+mundo lleno de gemas preciosas. Recorres cientos de niveles resolviendo
+rompecabezas al intercambiar gemas para alinear tres o más del mismo color.
+Destaca por sus gráficos llenos de color, reacciones en cadena muy satisfactorias
+y una gran variedad de objetivos que mantienen la experiencia fresca. Crear
+joyas especiales mediante combinaciones inteligentes es clave para superar los
+retos más duros.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Jewel Legend is a vibrant and highly addictive match-3 puzzle game set in a world filled with precious gems. Players embark on an epic adventure across hundreds of levels, solving puzzles by swapping and matching three or more jewels of the same color. The game is known for its colorful graphics, satisfying chain reactions, and a wide variety of level objectives that keep the gameplay fresh and engaging. Creating special gems through clever matches is crucial to overcoming the game's most difficult challenges.
+1.  **Crea gemas especiales:** el éxito va más allá de los match‑3 básicos.
+    *   **4 gemas en línea:** generan una joya de rayo que limpia una fila o
+        columna entera.
+    *   **5 gemas en forma de L o T:** crean una bomba que explota y destruye
+        las gemas a su alrededor.
+    *   **5 gemas en línea recta:** dan lugar a una joya de color que puede
+        eliminar todas las gemas de ese color en el tablero.
 
-### Gameplay Strategy & Walkthrough
+2.  **Combina potenciadores:** no te limites a usar las joyas especiales por
+    separado. Intercambiar dos potenciadores dispara efectos enormes: una bomba
+    con una joya de rayo limpia varias filas y columnas; dos joyas de color
+    juntas pueden arrasar prácticamente todo el tablero.
 
-1.  **[ES]** **Create Special Gems:** The key to success is to think beyond simple match-3s. Always be on the lookout for opportunities to create powerful special gems:
-    *   **[ES]** **Match 4 Gems:** Creates a Lightning Jewel that clears an entire row or column.
-    *   **[ES]** **Match 5 Gems (L or T Shape):** Creates a Bomb Jewel that explodes, destroying all surrounding gems.
-    *   **[ES]** **Match 5 Gems (in a line):** Creates a powerful Color Jewel that can clear all gems of a single color from the board.
+3.  **Planifica los movimientos:** cada nivel tiene un número limitado de
+    jugadas. Antes de intercambiar, mira el tablero completo y el objetivo del
+    nivel. Prioriza las combinaciones que te ayuden a romper casillas bloqueadas
+    o a bajar objetos especiales.
 
-2.  **[ES]** **Combine Boosters for Maximum Impact:** Don't just use your special gems; combine them! Swapping two special gems next to each other results in a massive board-clearing effect. For example, swapping a Bomb with a Lightning Jewel clears three rows/columns, and swapping two Color Jewels clears every single gem on the board.
+4.  **Aprovecha las cascadas:** hacer combinaciones en la parte inferior del
+    tablero hace que caigan más gemas desde arriba, aumentando las posibilidades
+    de cadenas automáticas que limpian muchas piezas sin gastar movimientos.
 
-3.  **[ES]** **Plan Your Moves:** You only have a limited number of moves for each level. Before making a swap, look at the entire board and the level objective. Prioritize matches that will help you achieve the goal, such as breaking frozen tiles or dropping special items.
+### Guía de controles
 
-4.  **[ES]** **Anticipate Cascades:** Making matches at the bottom of the board is often a good strategy. This allows a large number of new gems to fall into place, increasing the chance of setting off a chain reaction (cascade) of automatic matches, which can clear a large portion of the board without using any extra moves.
+El juego se controla con ratón o pantalla táctil.
 
-### Controls Guide
+*   **Intercambiar gemas:** haz clic y arrastra una gema hasta una adyacente, o
+    haz clic sobre una y luego sobre la de al lado. El intercambio solo se
+    realiza si genera una combinación válida.
 
-The game is controlled with simple touch or mouse gestures.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
+*   **P: ¿Cómo rompo el hielo o las cadenas que cubren las gemas?**
+    *   **R:** Para romper el hielo o las cadenas, tienes que hacer una
+        combinación que incluya la gema congelada o encadenada. A veces se
+        necesitan varios matches para liberarla por completo.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la combinación más poderosa del juego?**
+    *   **R:** La más potente suele ser intercambiar dos joyas de color entre sí.
+        Esto elimina todas las gemas de la pantalla y resulta especialmente útil
+        en niveles muy difíciles.
 
-*   **[ES]** **Q: How do I break the ice or chains on the jewels?**
-    *   **[ES]** **A:** To break ice or chains, you must make a match that includes the frozen or chained jewel. Sometimes it takes more than one match to fully release a jewel.
-
-*   **[ES]** **Q: What is the most powerful combination in the game?**
-    *   **[ES]** **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
-
-*   **[ES]** **Q: I'm out of moves, what now?**
-    *   **[ES]** **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
-
+*   **P: Me quedé sin movimientos, ¿y ahora qué?**
+    *   **R:** Si no cumples el objetivo antes de agotar los movimientos,
+        normalmente pierdes una vida y tendrás que repetir el nivel. Puedes
+        esperar a que las vidas se regeneren con el tiempo o conseguir más por
+        otras vías dentro del juego.

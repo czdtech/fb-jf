@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: light-line
-title: '[KO] Light Line'
+title: "Light Line 라이트 라인 퍼즐"
 description: >-
-  [KO] Light Line is a luminous path‑drawing puzzler — connect nodes without
-  crossings, manage energy, and solve with elegant routes.
+  Light Line는 빛나는 노드들을 선으로 이어 가는 패스 드로잉 퍼즐입니다. 선이 서로
+  교차하지 않도록 연결하고, 제한된 턴 수와 선 길이, 반드시 지나가야 하는 칸과
+  스위치로 여닫히는 게이트까지 관리하며 깔끔한 해답을 찾아보세요.
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/light-line.png
 tags:
@@ -16,34 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Light Line에서는 빛나는 노드들을 서로 연결하는 겹치지 않는 경로를 그리는 것이 목표입니다.
+각 스테이지마다 허용된 최대 턴 수, 선의 길이 제한, 반드시 지나가야 하는 지점, 스위치로 열리고 닫히는
+게이트 등 다양한 제약 조건이 주어집니다. 후반 퍼즐로 갈수록 여러 층으로 구성된 보드와
+라인 간 에너지 공유 요소가 추가되어 더 깊이 있는 퍼즐 풀이를 요구합니다.
 
-Light Line tasks you with drawing non‑overlapping paths that connect glowing nodes while obeying constraints: maximum turns, limited line length, mandatory pass‑throughs, or switches that toggle gates. Later puzzles add layered boards with energy sharing between lines.
+### 공략 & 플레이 팁
 
-### Gameplay Strategy & Walkthrough
+1. 병목 구간부터 공략: 통로가 좁은 구간부터 먼저 채우세요. 이런 곳은 사실상 한 가지 경로만 허용하므로,
+   미리 정리해 두면 나머지 라인을 설계하기가 훨씬 쉬워집니다.
+2. 출구 수(차수) 확인: 연결 가능한 방향이 적은 노드부터 우선 해결하세요. 이런 노드를 먼저 처리하면
+   분기 수가 줄어 전체 퍼즐이 단순해집니다.
+3. 턴(회전) 절약: 가능한 한 직선으로 길게 뻗고, 꼭 필요한 코너에서만 방향을 꺾어 제한된 턴 수를 아껴 쓰세요.
+4. 게이트 타이밍 계산: 스위치를 밟는 라인을 먼저 설계해, 다른 라인이 게이트에 도착하기 전에
+   문이 열리도록 동선을 맞추세요.
+5. 초반에 과감히 되돌리기: 선들이 결국 교차할 수밖에 없는 모양이 보이면, 가능한 한 빨리 되돌리고
+   다른 배치를 시도하는 편이 좋습니다.
 
-1.  **[KO]** Start with bottlenecks: Fill narrow corridors first; they force unique routes.
-2.  **[KO]** Degree logic: Prioritize nodes with few exits; resolve them to reduce branching.
-3.  **[KO]** Turn economy: Use long straight runs and save turns for corners that require them.
-4.  **[KO]** Gate timing: Plan switch routes so gates open before line arrival.
-5.  **[KO]** Backtrack early: Undo as soon as crossings become inevitable.
+### 조작 방법
 
-### Controls Guide
+- 드래그해서 선을 그리거나 지우고, 스위치를 탭하며, 보드가 복잡할 때는 확대/축소와 드래그 이동으로
+  전체 지도를 살펴보세요.
 
-- Drag to draw/erase lines; tap switches; zoom/pan on dense boards.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 선들이 자꾸 서로 부딪히는데, 어떻게 피할 수 있나요?
 
-- Q: Lines always collide — how to avoid?
+  A: 먼저 좁은 통로와 필수 경로부터 채운 뒤, 남은 라인들이 그 주변을 돌아가도록 설계하세요.
+  안쪽 공간을 막아 버리는 나선형 패턴은 최대한 피하는 것이 좋습니다.
 
-A: Lay corridors first and route remaining lines around them; avoid spirals that trap space.
+- Q: 대각선 이동도 가능한가요?
 
-- Q: Are diagonal moves allowed?
+  A: 대부분의 스테이지는 격자 기반으로 상하좌우만 이동할 수 있습니다. 대각선 허용 여부는
+  각 레벨 규칙을 꼭 확인해 보세요.
 
-A: Usually grid‑orthogonal; check the level rules.
+- Q: 힌트 기능이 있나요?
 
-- Q: Is there a hint system?
-
-A: Many versions provide step or full‑path hints.
-
+  A: 버전에 따라 한 단계씩 보여 주는 힌트나 전체 경로를 알려 주는 힌트 시스템이 포함된 경우도 있습니다.

@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: cooking-mama
-title: '[ES] Cooking Mama: Mama Kills Animals'
+title: "Cooking Mama: Mama Kills Animals"
 description: >-
-  [ES] Learn about 'Cooking Mama: Mama Kills Animals,' the shocking parody game
-  created by PETA. This guide explains its origin, satirical gameplay, and the
-  activist message behind it, distinguishing it from the official series.
+  Conoce "Cooking Mama: Mama Kills Animals", el polémico juego parodia creado
+  por PETA. Esta guía explica su origen, su jugabilidad satírica y el mensaje
+  activista que hay detrás, dejando claro en qué se diferencia de la saga
+  oficial.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/cooking-mama.jpg
 tags:
@@ -15,42 +16,75 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **Introducción al juego**
 
+**Este NO es un juego oficial de Cooking Mama.** *Cooking Mama: Mama Kills
+Animals* es un juego parodia gratuito para navegador creado por la organización
+animalista PETA. Su objetivo es criticar de forma satírica la saga oficial
+*Cooking Mama*, en la que aparecen recetas con carne.
 
+El juego imita el estilo colorido y la estructura de minijuegos de la serie
+original, pero los retuerce en una experiencia sangrienta y grotesca. En lugar
+  de preparar ingredientes con cuidado, el jugador se ve obligado a realizar
+  actos brutales de matanza animal. Por ejemplo, en una receta de pavo debes
+  arrancar plumas de forma violenta, desmembrar el ave y extraerle los órganos
+  internos entre chorros de sangre.
 
-### **Game Introduction**
+El núcleo de la experiencia es el contraste entre la imagen dulce y sonriente
+  de "Mama" y las acciones horribles que realiza. El objetivo no es entretener,
+  sino impactar al jugador y lanzar un mensaje claramente vegetariano. Tras
+  completar la preparación sangrienta del pavo, a Mama se le llenan los ojos de
+  lágrimas y declara que no volverá a cocinar carne, pasando a preparar un
+  Tofurkey (un sustituto de pavo hecho de tofu).
 
-**This is NOT an official Cooking Mama game.** *Cooking Mama: Mama Kills Animals* is a free, browser-based parody game created by the animal rights organization PETA. It was designed to be a satirical critique of the official *Cooking Mama* series, which features recipes containing meat.
+### **Estrategia y consejos de juego**
 
-The game co-opts the cheerful art style and mini-game structure of the official series but twists it into a gruesome and graphic experience. Instead of lovingly preparing ingredients, the player is forced to perform brutal acts of animal slaughter. For example, a turkey recipe involves violently plucking feathers, dismembering the bird, and removing its internal organs in a bloody fashion.
+No hay una "estrategia" clásica para ganar este juego: es una experiencia lineal
+pensada para transmitir un mensaje. Tu meta es simplemente completar la
+secuencia tal y como la han diseñado sus creadores.
 
-The core of the game is the stark contrast between the cute, smiling "Mama" character and the horrific actions she is performing. The goal is not entertainment, but to shock the player and deliver a strong pro-vegetarian message. After completing the gory preparation of a turkey, Mama's eyes well up with tears, and she declares she will never cook meat again, proceeding to make a Tofurkey (a tofu-based turkey substitute) instead.
+1.  **Entiende el propósito:** Lo más importante es asumir que no estás jugando
+    para divertirte. Estás interactuando con una pieza de activismo digital; la
+    jugabilidad es incómoda a propósito.
+2.  **Sigue las instrucciones en pantalla:** El juego es muy sencillo. Te indica
+    exactamente qué hacer, normalmente haciendo clic y arrastrando con el ratón para
+    arrancar plumas o cortar partes del animal. No hay mecánicas complejas que
+    aprender.
+3.  **Completa la narrativa:** El único objetivo real es llegar hasta el final
+    para ver el mensaje completo. No hay un sistema de puntuación ni una manera
+    de "fallar" que te bloquee el progreso; el juego está diseñado para que
+    veas todo su arco narrativo.
 
-### **Gameplay Strategy & Tips**
+### **Guía de controles**
 
-There is no real "strategy" to win this game in a traditional sense, as it is a linear, message-driven experience. The goal is to complete the sequence of events as intended by its creators.
+El juego nació como título en Flash para navegador y utiliza controles muy
+  simples con el ratón.
 
-1.  **[ES]** **Understand the Purpose**: The primary "tip" is to understand that you are not playing a game for fun. You are interacting with a piece of digital activism. The gameplay is intentionally unpleasant.
-2.  **[ES]** **Follow On-Screen Instructions**: The game is very simple. It will explicitly show you what to do, such as clicking and dragging with the mouse to pluck feathers or cut parts of the animal. There are no complex mechanics to learn.
-3.  **[ES]** **Complete the Narrative**: The only objective is to get through all the gruesome steps to see the final message. There is no scoring system or way to "fail" a step that would stop your progress. The game ensures you see its complete narrative arc.
+*   **Clic y arrastrar con el ratón:** Casi todas las acciones, como arrancar
+    plumas, cortar o mover objetos, se realizan haciendo clic sobre un elemento
+    y arrastrando en la dirección que indiquen las flechas o guías en pantalla.
 
-### **Controls Guide**
+### **Preguntas frecuentes (FAQ)**
 
-The game was originally a Flash-based browser game and uses very simple mouse controls.
+**1. ¿Es un juego oficial de Cooking Mama?**
+No, en absoluto. Es una parodia creada por PETA para protestar contra el uso de
+  carne en los juegos oficiales. No tiene ninguna relación con la franquicia
+  original ni con sus desarrolladores.
 
-*   **[ES]** **Mouse Click and Drag**: Most actions, such as plucking, cutting, and moving items, are performed by clicking on an object and dragging the mouse in the direction indicated by on-screen arrows or guides.
+**2. ¿Por qué es tan violento y gráfico?**
+La crudeza es totalmente intencionada. PETA usa el impacto visual para
+  contrastar la imagen alegre y limpia de la cocina en los juegos oficiales con
+  lo que presenta como la realidad violenta de la industria cárnica. Su objetivo
+  es incomodar al jugador y hacerle cuestionar el origen de su comida.
 
-### **Frequently Asked Questions (FAQ)**
+**3. ¿Existe un Cooking Mama vegetariano oficial?**
+Sí. En parte como respuesta a esta parodia y a otros comentarios, los
+  desarrolladores oficiales lanzaron títulos como *Gardening Mama* y *Cooking
+  Mama: World Kitchen*, que incluyen más recetas o modos centrados en opciones
+  vegetarianas.
 
-**1. Is this a real, official Cooking Mama game?**
-No, absolutely not. It is a parody created by the animal rights organization PETA to protest the use of meat in the official games. It is not affiliated in any way with the official franchise or its developers.
-
-**2. Why is this game so violent and graphic?**
-The graphic nature is intentional. PETA used shock value to contrast the sanitized, happy portrayal of cooking in the official games with what they present as the violent reality of meat preparation. The goal is to make the player feel uncomfortable and question the source of their food.
-
-**3. Is there an official vegetarian Cooking Mama game?**
-Yes. Partly in response to this parody and general feedback, the official developers later released titles like *Gardening Mama* and *Cooking Mama: World Kitchen*, which included more vegetarian recipes or modes.
-
-**4. Where can I play this game?**
-It was originally a free game on PETA's website. As it was built on Adobe Flash, which is now discontinued, it may be difficult to play on modern browsers. It might be accessible through Flash preservation projects or archives like the Internet Archive's Software Library.
-
+**4. ¿Dónde se puede jugar?**
+Originalmente se ofrecía gratis en la web de PETA. Como se creó en Adobe Flash,
+  ahora puede resultar difícil ejecutarlo en navegadores modernos. Es posible
+  que aún se pueda encontrar en proyectos de preservación de Flash o en
+  colecciones como la Software Library de Internet Archive.

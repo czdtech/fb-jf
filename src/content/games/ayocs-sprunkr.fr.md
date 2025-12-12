@@ -1,37 +1,44 @@
 ---
 locale: fr
 urlstr: ayocs-sprunkr
-title: '[FR] AYOCS Sprunkr - Play AYOCS Sprunkr Online'
-description: '[FR] You'
-iframeSrc: 'https://turbowarp.org/1114188520/embed'
+title: "AYOCS Sprunkr - Play AYOCS Sprunkr Online"
+description: "AYOCS Sprunkr est un mod stylé de Sprunki où de nouveaux personnages ultra lookés et leurs sons originaux te permettent de créer des mixes encore plus tendance."
+iframeSrc: "https://turbowarp.org/1114188520/embed"
 thumbnail: /ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)
 ---
 
+Un mod idéal pour les fans de Sprunki qui veulent un relooking complet, entre mode et effets sonores plus luxueux.
 
+### Présentation du jeu
 
-Hey Sprunkr fans! Want to give your music creation a seriously stylish edge? You've got to check out AYOCS Sprunkr! This mod gives the Sprunki universe a super slick makeover, breathing fresh life into the familiar music-making experience.
+*AYOCS Sprunkr* est un mod du jeu musical Sprunki qui donne un coup de jeune à tout l’univers. Les personnages classiques laissent la place à une nouvelle clique « AYOCS » au design très mode, chacun avec une personnalité affirmée et des boucles sonores inédites. Le principe reste le même : tu construis un morceau en déposant des personnages sur la scène, mais le résultat a une esthétique beaucoup plus moderne et tendance.
 
-### So, What's the Hype About AYOCS Sprunkr?
+### Points forts d’AYOCS Sprunkr
 
-Picture this: those characters you know are rocking modern, fashionable new looks, each oozing personality. That's the unique charm of AYOCS Sprunkr. It's more than just a reskin; it's a whole new style interpretation. This mod introduces a lineup known as the "AYOCS" characters. They don't just look distinct; their sounds are totally unique too, bringing **a whole new palette of possibilities** to your music creation. The focus here is injecting trendy elements and contemporary aesthetics into the drag-and-drop music fun you're used to within the AYOCS Sprunkr framework.
+- **Personnages ultra stylés :** chaque membre du casting AYOCS adopte un look travaillé, plus contemporain que dans les versions de base, ce qui donne l’impression de manipuler un groupe de créateurs de tendances.  
+- **Nouvelle ambiance audio‑visuelle :** décors plus léchés, animations fluides et sons spécialement conçus pour ce mod créent une expérience cohérente, énergique et très « fashion ».  
+- **Gameplay familier :** malgré le relooking, tu retrouves le drag‑and‑drop simple de Sprunki. Si tu connais déjà la série, tu peux te mettre à composer immédiatement, mais avec une palette sonore complètement différente.
 
-### Core Highlights of AYOCS Sprunkr:
+### Comment jouer à AYOCS Sprunkr
 
-- **Super Stylish Character Designs:** The heart and soul of AYOCS Sprunkr are these redesigned characters. They ditch previous styles for looks that are more modern and individualistic, each like a walking fashion statement.
-- **A Fresh Audio-Visual Vibe:** It's not just the characters getting a glow-up! AYOCS Sprunkr also features more polished backgrounds and smooth, dynamic animations. These visual enhancements perfectly sync with the fresh sound loops created specifically for the AYOCS theme, crafting an immersive experience that's both fashionable and energetic. AYOCS Sprunkr feels complete.
-- **Familiar Formula, Different Flavor:** Don't sweat the gameplay getting complicated. AYOCS Sprunkr keeps the classic Sprunki drag-and-drop controls, making it easy to jump right in. But the brand new characters and sound library absolutely let you cook up musical styles completely different from before, ensuring AYOCS Sprunkr offers something new.
+La prise en main reste ultra simple : tu sélectionnes des personnages et tu les disposes sur la scène pour créer ton mix.
 
+- **Choisis tes icônes :** sélectionne tes personnages AYOCS préférés dans la liste.  
+- **Dépose‑les sur la scène :** fais glisser les personnages sur la zone de jeu pour qu’ils commencent à jouer leurs boucles. Combine plusieurs personnages pour créer un groove unique.  
+- **Ajuste ton mix :** enlève ou remplace certains personnages, teste différentes combinaisons et trouve le style qui te plaît le plus.
 
-### How to Rock This Fashionable Music Box Called AYOCS Sprunkr?
+AYOCS Sprunkr est donc une évolution « mode » de Sprunki : même accessibilité, mais une direction artistique premium et des sons tout neufs pour donner à tes compositions un look et une vibe beaucoup plus tendances.
 
-Getting started is as simple and fun as always:
+### Foire aux questions (FAQ)
 
-- **Pick Your Fashion Icons:** Choose your favorite stylish musicians from the all-new character roster provided in AYOCS Sprunkr.
-- **Drag & Drop Trendy Beats:** Place your chosen characters onto the stage, let them start performing, and mix and match their unique sounds to create your own trendy rhythm with AYOCS Sprunkr.
-- **Feel the Audio-Visual Rush:** Enjoy the characters' vibrant animations and the polished backgrounds that sync perfectly with the music, immersing yourself in the unique atmosphere AYOCS Sprunkr delivers.
+- **Q : Quelle est la différence avec Sprunki classique ?**  
+  **R :** AYOCS Sprunkr se concentre sur un look plus fashion et des sons originaux pour chaque nouveau personnage, tout en gardant le même système de création musicale par glisser‑déposer.
 
+- **Q : Faut‑il connaître la musique pour s’amuser ?**  
+  **R :** Pas du tout. Le jeu est pensé pour être accessible : tu expérimentes simplement avec les sons jusqu’à trouver un rythme qui te plaît.
 
-AYOCS Sprunkr is a successful style evolution, cleverly integrating modern fashion aesthetics into the musical world of Sprunki. If you're looking to experience music creation with more contemporary flair and polished visuals, then AYOCS Sprunkr is definitely worth a try. Come join the ranks of AYOCS Sprunkr, unleash your inner music stylist, and start crafting your own trendy beats today!
+- **Q : Puis‑je sauvegarder mes compositions ?**  
+  **R :** Selon la version, tu peux enregistrer ton projet ou le partager en ligne. Vérifie les options proposées dans l’interface d’AYOCS Sprunkr.

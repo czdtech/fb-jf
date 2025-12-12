@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: addiction-mini
-title: '[ES] Addiction Mini'
+title: "Addiction Mini solitario de secuencias"
 description: >-
-  [ES] Addiction Mini distills solitaire‑style sequencing — place cards in
-  order, clear rows, and think several moves ahead.
+  Addiction Mini es una versión compacta de los solitarios tipo Addiction. Coloca
+  las cartas en orden, despeja filas y planifica varios movimientos por
+  adelantado.
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
 thumbnail: /new-images/addiction-mini.jpg
 tags:
@@ -16,28 +17,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Addiction Mini es una versión condensada de la familia de solitarios tipo
+Addiction/Monte Carlo. Tu objetivo es deslizar o colocar cartas para formar
+secuencias crecientes, según el modo, por palo o por color, creando espacios
+libres y rompiendo bloqueos con buena planificación.
 
+### Estrategia de juego y recorrido
 
-### Detailed Game Introduction
+1.  **Genera espacios libres pronto:** Intenta crear huecos desde el principio
+    para tener más margen a la hora de recolocar cartas.
+2.  **Construye a partir de anclas:** Comienza tus secuencias desde los valores
+    más bajos permitidos y extiéndelas de forma ordenada.
+3.  **No bloquees cartas clave:** Evita encerrar cartas necesarias detrás de
+    estructuras difíciles de mover.
+4.  **Ahorra intercambios/barajados:** Si el modo ofrece intercambios o
+    barajados limitados, úsalos solo cuando puedan resolver varios problemas de
+    una vez.
+5.  **Piensa varios pasos por delante:** Visualiza dos o tres colocaciones
+    futuras antes de mover una carta.
 
-Addiction Mini is a compact take on the Addiction/Monte Carlo family of patience games. Slide or place cards into increasing sequences by suit or color per mode rules, opening spaces and resolving deadlocks with careful planning.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- **Mover cartas:** Arrastra o haz clic para desplazar cartas siguiendo las
+  reglas del modo de juego.
+- **Intercambiar/Barajar:** Utiliza estas acciones especiales solo si el modo
+  las incluye.
+- **Deshacer/Reiniciar:** Algunas versiones permiten deshacer o reiniciar la
+  partida.
 
-1.  **[ES]** Open spaces: Create empty slots early to enable rearrangement.
-2.  **[ES]** Build from anchors: Start sequences at the lowest legal values and extend cleanly.
-3.  **[ES]** Avoid blocking keys: Don’t trap needed cards behind immovable structures.
-4.  **[ES]** Save swaps: Limited reshuffles/swaps should resolve multiple issues at once.
-5.  **[ES]** Think ahead: Visualize two to three placements in advance.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **No me quedan movimientos, ¿qué hago?**  
+  Usa un intercambio o barajado si está disponible. Si no, lo habitual es tener
+  que reiniciar la partida.
 
-- Drag or click to move cards per rules; use available swaps.
-- Undo/Reset if provided.
+- **¿Las reglas son muy estrictas?**  
+  Depende de la variante. Lee las reglas específicas de cada modo para saber qué
+  secuencias son válidas.
 
-### Frequently Asked Questions (FAQ)
-
-- No moves left—what now? Use a swap/shuffle if available or restart.
-- Strict rules? Variants differ; read each mode’s constraints.
-- Is it winnable? Many deals are solvable with accurate planning.
+- **¿Se puede ganar siempre?**  
+  Muchas partidas son resolubles si planificas bien, pero, como en cualquier
+  solitario, también existe un componente de azar en la distribución inicial.

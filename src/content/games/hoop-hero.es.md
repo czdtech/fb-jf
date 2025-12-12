@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: hoop-hero
-title: '[ES] Hoop Hero'
+title: Hoop Hero
 description: >-
-  [ES] Tap at the right moment to dunk the ball! Test your reflexes in this
-  fast-paced, one-touch basketball game. Time your dunks perfectly to score and
-  achieve a high score.
+  Toca en el momento justo para hacer un mate. Pon a prueba tus reflejos en este
+  juego de baloncesto rápido y de un solo toque. Cronometra tus mates a la
+  perfección para anotar y batir tu récord.
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/hoop-hero.png
 tags:
@@ -19,33 +19,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Hoop Hero es un juego arcade minimalista y adictivo de un solo toque que pone a
+prueba tu sincronización y tus reflejos. La mecánica es sencilla: una pelota de
+baloncesto se mueve y debes tocar la pantalla en el momento exacto en que se
+alinea con el aro para encestar. El desafío aparece cuando la velocidad aumenta
+ y los patrones de movimiento se vuelven más engañosos. Tu objetivo es encadenar
+el mayor número posible de mates consecutivos para lograr una nueva máxima
+puntuación.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Hoop Hero is a minimalist and addictive one-touch arcade game that tests your timing and reflexes. The gameplay is simple: a basketball moves, and you must tap the screen at the precise moment it aligns with the hoop to score a dunk. The challenge comes from the increasing speed and tricky patterns of the ball's movement. The goal is to score as many consecutive dunks as possible to achieve a new high score.
+1.  **Concéntrate en la sincronización:** Este juego va de ritmo y precisión. No te
+    distraigas. Observa el patrón de movimiento de la pelota y anticipa cuándo
+    pasará por encima del aro.
+2.  **Apunta a mates perfectos:** Aunque basta con encestar, muchas versiones
+    del juego premian los tiros "perfectos" o "swish" (cuando la pelota entra
+    limpia sin tocar el aro) con puntos extra. Intenta tocar cuando la pelota
+    esté perfectamente centrada sobre el aro.
+3.  **Mantén la calma:** A medida que tu racha crece, también lo hace la
+    presión. La clave para una puntuación alta es mantener la calma y la
+    concentración. Un toque apresurado o nervioso puede acabar con la partida.
+4.  **Aprende los patrones:** La pelota no siempre se mueve en una simple línea
+    de ida y vuelta. Fíjate en los diferentes patrones de movimiento que
+    aparecen para adaptar tu sincronización.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Focus on the Timing:** This game is all about rhythm and timing. Don't get distracted. Watch the ball's movement pattern and anticipate when it will cross over the hoop.
-2.  **[ES]** **Aim for Perfect Swishes:** While just getting the ball in is enough, many versions of this game reward "perfect" or "swish" shots (dunking without hitting the rim) with extra points. Try to tap when the ball is perfectly centered over the hoop.
-3.  **[ES]** **Stay Calm:** As your streak gets longer, the pressure builds. The key to a high score is to stay calm and maintain your focus. One rushed or panicked tap will end your run.
-4.  **[ES]** **Learn the Patterns:** The ball doesn't always move in a simple back-and-forth line. Pay attention to different movement patterns as they appear so you can adapt your timing accordingly.
+El juego se maneja con una sola acción.
 
-### Controls Guide
+*   **Mate:** haz clic con el botón izquierdo del ratón o toca en cualquier
+    parte de la pantalla para hacer que la pelota caiga y haga el mate.
 
-The game is played with a single action.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Dunk:** Click the left mouse button or tap anywhere on the screen to make the ball drop and dunk.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Encestar la mayor cantidad posible de mates consecutivos. La
+        partida termina en cuanto fallas el primero.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo consigo una puntuación más alta?**
+    *   **R:** Tu puntuación depende del número de encestes seguidos. Algunas
+        versiones también otorgan puntos extra por tiros "perfectos" que entran
+        limpios por la red.
 
-*   **[ES]** **Q: What is the objective of the game?**
-    *   **[ES]** **A:** To score as many consecutive dunks as you can. The game ends after your first miss.
-
-*   **[ES]** **Q: How do I get a higher score?**
-    *   **[ES]** **A:** Your score is based on the number of successful dunks you make in a row. Some versions also provide bonus points for "perfect" shots that go straight through the net.
-
-*   **[ES]** **Q: Is there any way to continue after a miss?**
-    *   **[ES]** **A:** Typically, no. These hyper-casual games are designed for quick sessions, and a single miss means the game is over and you must start again.
-
+*   **P: ¿Puedo continuar después de fallar?**
+    *   **R:** Normalmente no. Estos juegos hipercasuales están pensados para
+        partidas rápidas: un solo fallo termina la partida y tienes que empezar
+        de nuevo.

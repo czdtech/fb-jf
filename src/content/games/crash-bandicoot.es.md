@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: crash-bandicoot
-title: '[ES] Crash Bandicoot'
+title: "Crash Bandicoot"
 description: >-
-  [ES] Crash Bandicoot is a retro arcade platformer: run, jump, spin, collect
-  Wumpa fruit and crystals, dodge TNT, and clear themed stages in a
-  browser-based remake.
+  Crash Bandicoot es un juego de plataformas arcade retro: corre, salta y gira, recoge
+  frutas Wumpa y cristales, esquiva cajas de TNT y completa niveles temáticos en
+  este remake jugable en el navegador.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/crash-bandicoot.jpg
 tags:
@@ -17,32 +17,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Crash Bandicoot es un homenaje jugable en navegador, al estilo Flash, a la
+saga clásica. Recorre un conjunto corto de niveles temáticos, rompe cajas,
+consigue cristales y frutas, y evita peligros como las cajas de TNT. Tras
+reunir cinco cristales, te enfrentarás a Ripper Roo en una batalla contra jefe;
+si logras golpearle lanzándole cajas de hierro mediante tu giro, completarás la
+partida.
 
-### Overview
-Crash Bandicoot is a browser‑playable Flash/platformer tribute to the classic series. Make your way through a short set of themed stages, break crates, collect crystals and fruit, and avoid TNT hazards. After obtaining five crystals, you face Ripper Roo in a boss fight; spinning iron crates at him ends the game upon victory.  
+### Cómo jugar
 
-### How to Play
-- Progress through linear stages while gathering crystals and fruit.
-- Break crates for items; avoid TNT and explosive crates.
-- Use the spin attack to destroy certain obstacles and defeat light enemies.
-- Reach the end of the level without falling into pits or traps.
+- Avanza por niveles lineales recogiendo cristales y frutas.
+- Rompe cajas para conseguir objetos, evitando siempre las de TNT y las cajas
+  explosivas.
+- Usa el giro para destruir ciertos obstáculos y derrotar a enemigos ligeros.
+- Llega al final de cada fase sin caer en precipicios ni trampas.
 
-### Controls
-- Arrow Keys: Move / Jump (Up) / Duck (Down)
-- Space: Spin attack (key may vary slightly by host)
+### Controles
 
-### Tips and Strategies
-- Time jumps to clear moving platforms and gaps.
-- Spin into crates from a safe distance; never linger near TNT after activation.
-- Grab as many Wumpa fruit as possible for extra lives in some versions.
-- Boss levels emphasize pattern recognition—wait for openings, then spin.
+- Flechas de dirección: moverse / saltar (Arriba) / agacharse (Abajo).
+- Barra espaciadora: ataque de giro (la tecla puede variar según la web que
+  aloje el juego).
 
-### FAQ
-- Q: How many levels are there?
-A: Five main stages; after collecting five crystals you fight Ripper Roo, then the game ends.  
-- Q: Why doesn’t the jump or spin work?
-A: Make sure the game canvas is focused; keys may vary slightly between hosts.  
-- Q: Is progress saved?
-A: Most Flash/browser versions do not save long‑term progress beyond the session.  
+### Consejos y estrategias
 
+- Cronometra bien tus saltos para superar plataformas móviles y huecos.
+- Acércate a las cajas con cuidado y usa el giro desde cierta distancia; nunca
+  te quedes junto a una caja de TNT una vez activada.
+- Recoge tantas frutas Wumpa como puedas; en algunas versiones te otorgan vidas
+  extra.
+- En los jefes, céntrate en aprender el patrón de ataque: espera la ventana de
+  oportunidad y luego usa el giro.
+
+### Preguntas frecuentes (FAQ)
+
+- P: ¿Cuántos niveles tiene el juego?
+  
+  R: Esta versión suele incluir cinco fases principales; tras reunir cinco
+  cristales luchas contra Ripper Roo y, al derrotarlo, la partida termina.
+
+- P: No me funcionan el salto o el giro, ¿qué hago?
+  
+  R: Asegúrate de que el foco esté en el lienzo del juego y ten en cuenta que
+  las teclas pueden variar ligeramente según la web donde lo juegues.
+
+- P: ¿Se guarda el progreso?
+  
+  R: La mayoría de versiones Flash o de navegador no guardan el progreso más
+  allá de la sesión actual.

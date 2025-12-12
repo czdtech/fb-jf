@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: futoshiki
-title: '[ES] Futoshiki'
+title: "Futoshiki"
 description: >-
-  [ES] Futoshiki sharpens logic — place digits with row/column uniqueness while
-  honoring inequality signs for elegant deductions.
+  Futoshiki afila tu lógica: coloca dígitos únicos por fila y columna
+  respetando los signos de desigualdad para llegar a deducciones elegantes.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/futoshiki.jpg
 tags:
@@ -15,36 +15,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Futoshiki ("no igual") es un puzle de lógica tipo cuadrado latino, parecido a
+Sudoku pero con signos de desigualdad (>, <) entre celdas vecinas. Debes
+colocar los dígitos de forma que cada fila y columna contenga todos los
+números exactamente una vez y que, además, se respeten todas las
+desigualdades. Estos signos crean cadenas muy fuertes que permiten
+razonamientos limpios y potentes.
 
+### Estrategia de juego y recorrido
 
-### Detailed Game Introduction
+1. **Cadenas de desigualdad:** Si A>B>C entonces A≥C+2; anota candidatos en
+   consecuencia.
+2. **Extremos:** En una cadena A>…>B, A queda acotado por arriba y B por abajo;
+   usa eliminaciones con 1 y el máximo posible en los extremos de la cadena.
+3. **Barridos por filas/columnas:** Aplica las restricciones de cuadrado latino
+   para podar candidatos de manera agresiva.
+4. **Bucles de contradicción:** Prueba un valor en celdas muy restringidas y
+   retrocede si rompe una desigualdad o genera duplicados en filas/columnas.
+5. **Simetría:** Muchos puzles bien diseñados tienen estructuras de
+   desigualdades simétricas; aprovéchalas para trasladar deducciones de un
+   lado al otro.
 
-Futoshiki ("not equal") is a Latin‑square logic puzzle like Sudoku but with inequality signs (>, <) between neighboring cells. You must place digits so each row/column contains all numbers exactly once and every inequality is satisfied. The signs create strong chains that power elegant deductions.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Toca o haz clic en una celda para introducir candidatos o valores, alterna el
+  modo lápiz y usa deshacer/rehacer según necesites.
 
-1.  **[ES]** Inequality chains: A>B>C means A≥C+2; pencil candidates accordingly.
-2.  **[ES]** Extremes: A>…>B bounds A high and B low; use 1/Max eliminations on chain ends.
-3.  **[ES]** Row/column scans: Apply Latin constraints to prune candidates aggressively.
-4.  **[ES]** Contradiction loops: Assume a value on tight cells; backtrack if an inequality breaks or row/col duplicates.
-5.  **[ES]** Symmetry: Balanced puzzles often have mirrored inequality structures — exploit them.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **P: Estoy bloqueado, ¿algún consejo?**  
+  **R:** Expande las cadenas de desigualdades como cotas explícitas (por
+  ejemplo, si 5>□>3 entonces la celda central solo puede ser 4) y combina eso
+  con las restricciones de fila y columna.
 
-- Tap a cell to enter candidates/values; toggle pencil mode; undo/redo.
+- **P: ¿Es necesario adivinar?**  
+  **R:** Los buenos conjuntos suelen ser resolubles solo con lógica. En el peor
+  caso, usa suposiciones controladas con retroceso rápido.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I can’t progress — any tip?
-
-A: Expand inequality chains into explicit bounds (e.g., if 5>□>3 then middle ∈ {4}); combine with row/col hits.
-
-- Q: Are guesses required?
-
-A: Good sets are solvable logically; at worst use controlled assumptions with quick backtrack.
-
-- Q: Difference vs Sudoku?
-
-A: Inequalities add directed constraints, enabling stronger forced moves.
-
+- **P: ¿En qué se diferencia de Sudoku?**  
+  **R:** Las desigualdades añaden restricciones dirigidas que permiten jugadas
+  forzadas más fuertes que en un Sudoku clásico.

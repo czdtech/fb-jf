@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: pick-a-lock
-title: '[ES] Pick a Lock'
+title: "Pick a Lock - Juego de ritmo y precisión"
 description: >-
-  [ES] Pick a Lock tests timing and focus — stop the dial on markers, chain
-  perfect hits, and unlock increasingly tricky locks.
+  Pick a Lock pone a prueba tu precisión y concentración: detén la aguja sobre
+  los marcadores, encadena golpes perfectos y abre cerraduras cada vez más
+  complicadas.
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/pick-a-lock.jpg
 tags:
@@ -17,35 +18,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Pick a Lock es un juego minimalista de ritmo y sincronización. Una aguja gira
+alrededor de la cerradura y debes pulsar exactamente cuando pasa por los
+marcadores iluminados. Las cerraduras avanzadas añaden varios marcadores,
+ventanas de tiempo más ajustadas e incluso giros en sentido inverso, por lo que
+la calma y el enfoque son fundamentales.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Pick a Lock is a minimalist rhythm‑timing game: a dial sweeps around a lock, and you must tap exactly when it passes highlighted markers. Later locks add multiple markers, tighter windows, and reversed sweeps, rewarding calm focus.
+1.  Contar el ritmo: sincronízate con el compás de la aguja y pulsa siguiendo el
+    ritmo, no solo "a ojo".
+2.  Visión periférica: mientras aciertas un marcador, empieza a fijarte ya en la
+    posición del siguiente.
+3.  Controlar el entorno: baja el volumen de distracciones y adopta una postura
+    estable para ganar precisión.
+4.  Recuperar el tempo: si fallas, tómate un instante para reajustar tu
+    cadencia antes del siguiente marcador.
+5.  Mejor tarde que pronto: en muchas versiones es más seguro errar ligeramente
+    tarde que demasiado pronto.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Count rhythm: Lock into the dial’s beat; tap on the beat rather than by eye alone.
-2.  **[ES]** Peripheral vision: Watch the next marker while tapping the current.
-3.  **[ES]** Noise control: Mute distractions and keep a steady posture for precision.
-4.  **[ES]** Recovery: If you miss, reset your cadence before the next marker.
-5.  **[ES]** Late‑tap bias: Slightly late taps are safer than early in many builds.
+- Toca o haz clic cuando la aguja se superponga al marcador; algunas variantes
+  permiten usar teclas en lugar del ratón.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap/click when the dial overlaps markers; some variants support key presses.
+- **P: Siempre pulso demasiado pronto, cómo lo corrijo?**  
+  **R:** Añade una micro pausa a tu conteo interno; piensa "uno‑y‑pulso" en vez
+  de "uno‑pulso".
 
-### Frequently Asked Questions (FAQ)
+- **P: Los marcadores aparecen muy seguidos, me agobio.**  
+  **R:** Concéntrate solo en el siguiente marcador; no intentes memorizar varios
+  por adelantado.
 
-- Q: I’m always early — fix?
-
-A: Add a tiny delay to your internal count; try “one‑and‑tap” instead of “one‑tap.”
-
-- Q: Markers stack fast.
-
-A: Focus on the next one only; don’t mentally hold more than one future target.
-
-- Q: Does FPS matter?
-
-A: Stable framerate helps; close other apps if timing feels inconsistent.
-
+- **P: Importa la tasa de FPS?**  
+  **R:** Un framerate estable ayuda; cierra otras aplicaciones si notas que el
+  ritmo se vuelve irregular.

@@ -1,74 +1,49 @@
 ---
-locale: ja
-urlstr: daily-word-search
-title: '[JA TRANSLATION NEEDED] Daily Word Search'
-description: >-
-  [JA TRANSLATION NEEDED] Daily Word Search offers calming word hunts — find
-  hidden words across directions and beat the clock or relax.
+title: Daily Word Search デイリー・ワードサーチ
+description: 「Daily Word Search」は日替わりの単語探しパズル。縦・横・斜めに隠された単語を見つけ出し、リラックスしたりタイムアタックに挑戦しよう。
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/daily-word-search.png
+urlstr: daily-word-search
+score: 4.1/5  (1984 votes)
 tags:
   - puzzle
   - thinky
-score: 4.1/5  (1984 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Daily Word Search（デイリー・ワードサーチ）*は、毎日変わるテーマに沿った言葉を探し出す、穏やかなパズルゲームです。文字の海の中に、縦、横、斜めに単語が隠されています。
+制限時間に挑戦して頭を鍛えるのもよし、制限時間なしでリラックスしながら楽しむのもよし。自分のペースで日々の語彙探索を楽しみましょう。
 
-[JA TRANSLATION NEEDED] Daily Word Search hides words horizontally, vertically, and diagonally. Themes change daily; you can play timed for a challenge or untimed to unwind.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **特徴的な文字を探す:** 「Q」「Z」「X」「J」など、あまり使われない文字が含まれる単語は、その文字を探すことで見つけやすくなります。
+2.  **接頭辞・接尾辞:** 「ING」「TION」「RE」などの一般的なパターンをハイライトしてみると、単語の全体像が見えてくることがあります。
+3.  **系統的なスキャン:** 闇雲に探すのではなく、行や列を指でなぞるように順番に見ていくと見落としが減ります。
+4.  **ヒントの温存:** 自力で探せるだけ探して、どうしても見つからない残り1〜2個になった時にヒントを使いましょう。
+5.  **タイムアタックのコツ:** 見つけたら即座にドラッグ！見つからない時は一点を見つめすぎず、少し視点を引いて全体を眺めるとパターンが浮き出てくることがあります。
 
-[JA TRANSLATION NEEDED] 1.  Scan for distinctive letter patterns and rare letters (Q, Z, X).
-[JA TRANSLATION NEEDED] 2.  Highlight prefixes/suffixes from the word list.
-[JA TRANSLATION NEEDED] 3.  Sweep rows/columns systematically to avoid misses.
-[JA TRANSLATION NEEDED] 4.  Use hints only after a full grid sweep.
-[JA TRANSLATION NEEDED] 5.  In timed mode, take short breaks between clusters to avoid tunnel vision.
+### 操作ガイド
 
-### Controls Guide
+*   **選択:** 文字の上をドラッグして単語をなぞり、指（マウス）を離して確定させます。
+*   **ヒント:** 電球アイコンなどをクリックすると、単語の頭文字や場所を教えてくれます。
 
-- Drag across letters to select words; release to confirm.
-- Hints highlight a starting letter or full word depending on the build.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 斜めの単語もありますか？**
 
-- Q: Do diagonals count?
-  
-[JA TRANSLATION NEEDED]   A: Yes, unless a mode restricts directions.
-
-- Q: Can words overlap?
-  
-[JA TRANSLATION NEEDED]   A: Often yes; look for shared letters.
-
-- Q: Timed vs relaxed — which to pick?
-  
+A: Yes, unless a mode restricts directions.
+- **A:** はい、多くのモードでは斜め方向や、逆読み（後ろから前へ）も含まれます。
 
 
-
-
-
-- Q: Do diagonals count?
-### よくある質問（FAQ）
-- Hints highlight a starting letter or full word depending on the build.
-- Drag across letters to select words; release to confirm.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Timed for speed practice; relaxed for unwinding.
-
-
-
-
-
+A: Often yes; look for shared letters.
+*   **Q: 文字は重なってもいいのですか？**
 
 A: Timed for speed practice; relaxed for unwinding.
-- Q: Timed vs relaxed — which to pick?
-A: Often yes; look for shared letters.
-- Q: Can words overlap?
+    *   **A:** はい、1つの文字が複数の単語の一部として共有されることはよくあります（クロスワードのように）。
 
-
-
-
-A: Timed for speed practice; relaxed for unwinding.
-- Q: Timed vs relaxed — which to pick?
-A: Often yes; look for shared letters.
+*   **Q: タイムありとリラックスモード、どっちが良い？**
+    *   **A:** スピードと集中力を鍛えたいならタイムあり（Timed）、寝る前やリラックスしたい時はリラックスモード（Untimed）がおすすめです。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: highway-traffic
-title: '[ZH TRANSLATION NEEDED] Highway Traffic'
-description: >-
-  [ZH TRANSLATION NEEDED] First‑person lane‑splitter: weave through highway
-  cars, complete missions, and earn cash for vehicles and upgrades.
+title: "《Highway Traffic》高速公路狂飙"
+description: "《Highway Traffic》是一类高人气的街机驾驶游戏代称，你要在车流密集的高速公路上长时间高速行驶，一边穿梭变道躲避来往车辆，一边完成任务、赚取现金解锁和升级爱车。"
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/highway-traffic.jpg
@@ -18,55 +16,55 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **游戏简介**
 
-[ZH TRANSLATION NEEDED] "Highway Traffic" is a general name for a popular genre of arcade-style driving games. The core gameplay revolves around driving a car on a busy, seemingly endless highway. The primary objective is straightforward: **drive as long as possible to achieve the highest score and longest distance without crashing into other vehicles.**
+“Highway Traffic”通常用来指一整类街机风高速公路驾驶游戏。核心玩法非常直观：你驾驶一辆汽车行驶在车流不断的高速公路上，目标只有一个——**在不与其它车辆相撞的前提下，坚持开得越久越好，跑出更远距离和更高分数。**
 
-[ZH TRANSLATION NEEDED] These games typically use a first-person or a third-person chase camera perspective, creating an immersive high-speed driving experience. Players must weave through dense traffic, using precise lane changes and overtakes to maintain high speed. The challenge intensifies as speed increases and time passes, with traffic becoming heavier and AI vehicle behavior potentially more erratic, requiring quick reflexes and good predictive skills.
+这类游戏大多采用第一人称车内视角或第三人称跟车视角，营造高速行驶的临场感。玩家需要在车流中不断穿梭变道，通过精确的走位和超车保持高速度。随着时间推移，车辆密度会逐渐增加，有些版本中 AI 车辆的变道也会变得更加突兀，对反应速度和预判能力都是不小的考验。
 
-[ZH TRANSLATION NEEDED] Most versions of *Highway Traffic* include the following elements:
-*   **Multiple Game Modes**: Such as one-way or two-way traffic, time trials, and police chase modes.
-*   **Vehicle Unlocks and Upgrades**: Players earn in-game currency to buy new cars that are faster or have better handling, or to upgrade the performance (speed, braking, handling) and appearance of their existing vehicles.
-*   **Varied Environments**: Offering different times of day (day, night) and weather conditions (sunny, rainy) to add challenge and visual diversity.
+大部分 *Highway Traffic* 风格的游戏通常包含以下要素：
+*   **多种游戏模式**：例如单向/双向车流、限时模式、警车追逐模式等。  
+*   **车辆解锁与升级**：通过游戏获得的货币可以购买速度更快、操控更好的新车，或者提升现有车辆的最高速度、加速度、刹车性能和外观涂装。  
+*   **多变环境**：包含白天、夜晚、黄昏等不同时间，以及晴天、雨天等天气变化，在视觉上更有层次，也会改变驾驶难度。  
 
-### **Gameplay Strategy & Tips**
+### **玩法策略与技巧**
 
-1.  **Drive Smoothly, Don't Jerk the Wheel**: At high speeds, small and smooth steering inputs are far more effective than sudden, sharp turns. Jerking the wheel can easily lead to losing control or overcorrecting, which often results in a crash.
-2.  **"Near Misses" are Key to High Scores**: Almost all games in this genre have a bonus system where you get extra points or nitro for overtaking another car at a very close distance. Mastering this skill is crucial for achieving high scores, but it comes with high risk.
-3.  **Look Far Ahead and Anticipate**: Don't just focus on the car directly in front of you. Your gaze should be as far down the road as possible, observing the movement of three or four cars ahead. This allows you to anticipate which lane will open up or which car might suddenly change lanes.
-4.  **Use Brakes, But Don't Abuse Them**: Brakes are a lifesaver for avoiding imminent collisions, but frequent or heavy braking will kill your speed and lower your scoring efficiency. Prioritize avoiding danger through smooth lane changes and only use heavy braking as a last resort.
-5.  **Utilize the Oncoming Lane in Two-Way Mode**: In two-way traffic mode, the oncoming lane often has less traffic and is a prime opportunity for near misses and score boosting. However, it's extremely dangerous. You must constantly watch for approaching cars and be ready to merge back into your lane.
-6.  **Upgrade Your Ride**: Don't be stingy with your in-game currency. Prioritize upgrading your car's **Handling** and **Brakes** first. These two stats are vital for surviving in dense traffic. Speed is important, but it's useless if you can't control it.
+1.  **始终保持平顺操控**：在高速状态下，小幅、平滑的转向远比突然大幅打方向更安全。急拐方向很容易导致车辆失控，甚至在修正的过程中直接撞上旁边的车。
+2.  **“惊险擦车”是高分关键**：几乎所有同类游戏都会在你与其它车辆擦肩而过时给出额外分数或氮气奖励。学会在安全前提下做近距离超车，是冲击高分榜的必修课，但风险也相应更大。
+3.  **视线看远，不要只盯前车**：注意观察前方三到四辆车的动向，提前判断哪一条车道会变得更顺畅，哪辆车可能突然变道，这样在真正危险发生前你已经完成了避让。  
+4.  **善用刹车，但不要过度依赖**：刹车是避免事故的最后手段，频繁或大力刹车会严重拖慢你整体速度，影响得分效率。优先通过提早变道和绕行来化解风险，把重刹留给“无处可躲”的紧急情况。  
+5.  **双向模式善用逆行车道**：在双向车流模式中，对向车道往往车稍微少一些，也是刷“惊险擦车”和加倍得分的好机会。但风险极高，你必须时刻盯着远处迎面而来的车辆，预留足够时间并线回正常车道。  
+6.  **合理投资升级车辆**：不要吝惜游戏内货币，优先提升车辆的 **操控** 和 **制动** 属性，这两项比单纯堆速度更直接地提高生存率。速度固然重要，但在失控和撞车面前再高的极速都没有意义。  
 
-### **Controls Guide**
+### **操作说明**
 
-[ZH TRANSLATION NEEDED] The controls for these games are usually very intuitive, especially on mobile devices.
+这类游戏在移动端和 PC/Web 上的操作都比较直观：
 
-*   **Mobile:**
-     *   **Steering**: The most common method is **tilt controls** (tilting your device to steer). Options for **on-screen buttons** or **touch-to-steer** are usually available in the settings.
-     *   **Acceleration**: Usually **automatic**, or there's a dedicated gas pedal button on the right side of the screen.
-     *   **Braking**: Usually a dedicated brake pedal button on the left side of the screen.
-*   **PC/Web:**
-     *   **Steering**: `A` and `D` keys or `Left/Right Arrow` keys.
-     *   **Acceleration**: `W` key or `Up Arrow` key.
-     *   **Braking**: `S` key or `Down Arrow` key.
+*   **移动端：**  
+    *   **转向**：最常见的是重力感应倾斜手机来转向，部分版本也支持屏幕左右虚拟按键或点触式转向。  
+    *   **油门**：通常默认自动加速，或在屏幕右侧设置油门踏板按钮。  
+    *   **刹车**：屏幕左侧一般会有单独的刹车踏板按钮。  
+*   **PC / 网页端：**  
+    *   **转向**：`A` / `D` 或 `←` / `→` 方向键控制左右变道。  
+    *   **加速**：`W` 或 `↑` 方向键，用于持续提速。  
+    *   **刹车**：`S` 或 `↓` 方向键，紧急情况下减速或制动。  
 
-### **Frequently Asked Questions (FAQ)**
+### **常见问题（FAQ）**
 
-[ZH TRANSLATION NEEDED] **1. Why can't I seem to reach top speed?**
-[ZH TRANSLATION NEEDED] In most versions, you need to hold the accelerator or maintain a high speed for a period to reach your car's maximum velocity. Frequent braking or minor collisions with other cars will cause your speed to drop.
+**1. 为什么总是感觉跑不出最高速度？**  
+在大多数版本中，需要你长时间保持油门、连续一段时间避免碰撞或重刹，车辆才能真正拉到极限速度。如果频繁撞车、轻微剐蹭或经常急刹，都会让速度被反复打断，很难达到最高时速。  
 
-[ZH TRANSLATION NEEDED] **2. How do I earn more in-game currency?**
-[ZH TRANSLATION NEEDED] The primary ways to earn currency are:
-*   **Driving a longer distance**: The further you go, the higher the base reward.
-*   **Performing near misses**: Each close overtake provides a bonus.
-*   **Maintaining high speed**: Driving above a certain speed (e.g., 100 km/h) continuously earns you extra points/cash.
-*   **Completing daily missions or challenges**.
+**2. 怎么更快赚到游戏货币？**  
+常见的高效方式包括：  
+*   **跑更长距离**：行驶距离越长，基础奖励越高；  
+*   **多做“惊险擦车”**：每一次近距离超车通常都会提供额外积分或现金；  
+*   **持续高速行驶**：长时间保持在某个高速阈值（例如 100 km/h 以上），往往会获得额外加成；  
+*   **完成每日任务和挑战**：许多版本设有日常任务、成就系统，完成后能拿到一次性大量奖励。  
 
-[ZH TRANSLATION NEEDED] **3. Which car is the best?**
-[ZH TRANSLATION NEEDED] There's no single "best" car; it depends on your driving style.
-*   **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.
-*   **Experts**: Can opt for cars with the highest **Top Speed** and **Acceleration** to maximize their scoring potential.
+**3. 哪辆车才算“最强”？**  
+实际上并不存在绝对意义上的“最好”车辆，只能说是否适合你的驾驶风格：  
+*   **新手玩家**：更适合选择操控性和稳定性较高的车型，即便最高速度略低一些，也更容易在密集车流中稳住车身。  
+*   **熟练玩家**：可以选择最高极速和加速度都很高的性能车，用更激进的玩法冲击排行榜高分。  
 
-[ZH TRANSLATION NEEDED] **4. What's special about the "Two-Way" mode?**
-[ZH TRANSLATION NEEDED] The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.
+**4. 双向模式有什么特别之处？**  
+双向车流模式难度更高，但奖励也更丰厚。你需要同时躲避同向与逆向的车辆，如果敢长时间在对向车道逆行，通常会获得双倍甚至更高的得分倍率。不过这也意味着操作空间被压缩，一旦判断失误，就有可能正面对撞导致本局直接结束。

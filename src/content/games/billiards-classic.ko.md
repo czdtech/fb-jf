@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: billiards-classic
-title: '[KO] Billiards Classic'
+title: 'Billiards Classic 클래식 당구'
 description: >-
-  [KO] Enjoy a classic game of 8-ball pool. Aim your shots, apply spin, and sink
-  your designated balls before pocketing the 8-ball to win!
+  클래식 8볼 룰을 브라우저에서 즐길 수 있는 Billiards Classic입니다. 에임과
+  회전을 조절해 자신의 공을 모두 넣고, 마지막에 8번 볼까지 정확히 넣어
+  승리를 노려 보세요.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/billiards-classic.png
 tags:
@@ -15,37 +16,50 @@ score: 4.5/5  (2900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Billiards Classic은 전통적인 8볼 포켓볼을 디지털로 재현한 게임입니다.
+플레이어는 컴퓨터 상대와 번갈아 샷을 주고받으며, 먼저 자신의 그룹(솔리드
+1–7번 또는 스트라이프 9–15번)을 모두 넣고, 마지막으로 8번 볼을 규칙에 맞게
+포켓에 넣으면 승리합니다. 비교적 현실적인 물리와 직관적인 조작으로, 당구장에
+가지 않고도 클래식 룰을 연습할 수 있습니다.
 
+### 플레이 전략 & 공략
 
+1.  **브레이크 샷:** 게임은 브레이크로 시작합니다. 삼각 랙의 정면 공을 정확히
+    겨냥해 강하게 쳐야 공들이 넓게 퍼지고, 운이 좋으면 브레이크 인도 노릴 수
+    있습니다.
+2.  **그룹(솔리드/스트라이프) 선택:** 브레이크 후 첫 번째로 규칙에 맞게 넣은
+    공의 종류에 따라 자신의 그룹이 결정됩니다. 첫 샷에서 어떤 공을 노릴지
+    미리 생각해 두면 이후 패턴을 잡기 쉽습니다.
+3.  **두세 샷 앞까지 계획하기:** 당장 가장 쉬운 공만 보지 말고, 그 공을 넣은
+    뒤 수구가 어디로 갈지까지 고려해 순서를 정하세요. "현재 샷 → 다음 샷"이
+    자연스럽게 이어지도록 배치를 생각하는 것이 핵심입니다.
+4.  **회전(잉글리시) 활용:** 수구 타점 조절을 통해 백스핀으로 수구를 뒤로
+    끌어오거나, 톱스핀으로 따라가게 만들 수 있습니다. 옆회전은 쿠션 이후
+    수구가 나오는 각도를 바꾸는 데 유용합니다.
+5.  **8번 볼 처리:** 자신의 공 7개를 모두 넣은 뒤에는, 선언한 포켓에 8번 볼을
+    넣어야 승리합니다. 그 전에 8번 볼을 먼저 넣거나, 8번 샷에서 스크래치를
+    내면 패배하니 특히 조심해야 합니다.
 
-### Detailed Game Introduction
+### 조작 방법
 
-Billiards Classic brings the traditional game of 8-ball pool to your screen. This simulation pits you against a computer opponent in a test of skill, strategy, and physics. The objective is to be the first to pocket your assigned group of balls (either solids or stripes) and then legally sink the 8-ball to win the game. With realistic physics and intuitive controls, it’s a perfect way to enjoy a timeless pub classic.
+*   **조준:** 마우스로 큐 방향을 움직여 에임합니다.
+*   **파워 조절:** 화면 옆/아래의 파워 게이지를 드래그해 샷 세기를 설정합니다.
+*   **회전(스핀):** 수구 아이콘에서 타점을 옮겨 상·하·좌·우 회전을 줄 수
+    있습니다.
+*   **샷:** 마우스 버튼을 놓으면 샷이 실행됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 자주 묻는 질문 (FAQ)
 
-1.  **[KO]** **The Break:** The game starts with a break shot. Aim for the front ball of the rack to scatter the balls effectively.
-2.  **[KO]** **Claiming Your Suit:** After the break, the table is "open." The first player to legally pocket a ball will be assigned that group for the rest of the game (either solids 1-7 or stripes 9-15).
-3.  **[KO]** **Plan Your Shots:** Don't just aim for the easiest shot. Think two or three steps ahead. Try to sink your balls in an order that also sets up your cue ball for your next shot.
-4.  **[KO]** **Use English (Spin):** For more advanced control, use the spin function. Applying backspin can stop your cue ball, while topspin will make it follow the object ball. Side-spin can change the angle it takes after hitting a rail.
-5.  **[KO]** **Winning the Game:** Once you have pocketed all seven of your designated balls, you must then legally pocket the 8-ball into a called pocket to win. Pocketing the 8-ball before clearing your group, or scratching on the 8-ball shot, results in a loss.
+*   **Q: 브레이크에서 8번 볼이 들어가면 어떻게 되나요?**
 
-### Controls Guide
+    *   **A:** 대부분의 룰에서 재래크하거나 8번을 스팟에 올려놓고 이어서 진행합니다. 일반 플레이 중에 8번을 먼저 넣거나 8번 샷에서 스크래치를 내면 즉시 패배입니다.
 
-*   **[KO]** **Aim:** Move your mouse to aim the cue stick.
-*   **[KO]** **Set Power:** Click and drag the power meter (usually on the side or bottom) to determine the strength of your shot.
-*   **[KO]** **Apply Spin (English):** Use the on-screen spin controller to adjust where on the cue ball your stick will hit, applying spin.
-*   **[KO]** **Shoot:** Release the mouse button to take the shot.
+*   **Q: 파울은 어떤 경우에 발생하나요?**
 
-### Frequently Asked Questions (FAQ)
+    *   **A:** 수구를 넣는 스크래치, 먼저 쳐야 할 공이 아닌 상대 공을 맞히는 경우, 아무 공도 맞히지 못하는 경우 등이 해당됩니다. 파울 후에는 보통 상대가 볼-인-핸드로 수구를 원하는 위치에 둘 수 있습니다.
 
-*   **[KO]** **Q: What happens if I sink the 8-ball by accident at the start?**
-    *   **[KO]** **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.
+*   **Q: 어떤 공이 내 공인지 어떻게 알 수 있나요?**
 
-*   **[KO]** **Q: What is a foul?**
-    *   **[KO]** **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.
-
-*   **[KO]** **Q: Which balls are mine?**
-    *   **[KO]** **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.
-
+    *   **A:** 테이블이 열린 상태에서 첫 번째로 규칙에 맞게 넣은 공이 솔리드라면 솔리드, 스트라이프라면 스트라이프가 당신의 그룹이 됩니다. 이후에는 자신의 그룹 공을 먼저 맞혀야 합니다.

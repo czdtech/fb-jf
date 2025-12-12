@@ -1,83 +1,46 @@
 ---
-locale: ja
-urlstr: my-space-pet
-title: '[JA TRANSLATION NEEDED] My Space Pet'
-description: >-
-  [JA TRANSLATION NEEDED] Embark on an interstellar adventure with My Space Pet!
-  Adopt and care for your very own alien creature, explore the galaxy, and
-  customize your pet's home.
-iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
+title: My Space Pet
+description: My Space Petはかわいい宇宙ペット育成ゲームです。エイリアンペットを育て、世話をし、遊び、絆を深め、宇宙の冒険を楽しみます。
+iframeSrc: 'https://myspacepet.h5games.usercontent.goog/v/3s7c0c5h0evj8/'
 thumbnail: /new-images/my-space-pet.png
+urlstr: my-space-pet
+score: 4.1/5  (1789 votes)
 tags:
   - casual
-  - adventure
-  - simulation
-score: 4.0/5  (1876 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+My Space Petは、あなた自身の宇宙エイリアンペットを育てることができるバーチャルペットゲームです。餌を与え、遊び、きれいにし、幸せに保ちます。ミニゲームをプレイしてコインを獲得し、ペットのためのアイテムを購入します。
 
-[JA TRANSLATION NEEDED] My Space Pet invites you to adopt and care for an adorable alien creature named Zuub. This charming virtual pet game combines elements of nurturing, mini-games, and customization. Your mission is to keep Zuub happy and healthy by fulfilling its basic needs: feeding it when hungry, washing it when dirty, and ensuring it gets enough rest. Beyond basic care, you can play engaging mini-games to earn coins, which can then be used to unlock a variety of stylish outfits and accessories to personalize your space pet.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **定期的にチェック:** ペットには定期的な世話が必要です。
+2.  **ニーズのバランス:** 空腹、幸福、清潔を管理します。
+3.  **コインを獲得:** ミニゲームをプレイして報酬を獲得します。
+4.  **賢く費やす:** 必需品に優先順位を付けます。
+5.  **絆を深める:** より多くのインタラクションがより幸せなペットを意味します。
 
-[JA TRANSLATION NEEDED] 1.  **Monitor Zuub's Needs:** Keep a close eye on Zuub's indicators for hunger, hygiene, and sleep. Addressing these needs promptly will keep Zuub happy and energetic.
-[JA TRANSLATION NEEDED] 2.  **Play Mini-Games:** Engage in the mini-games regularly to earn coins. These coins are essential for purchasing customization items and keeping Zuub entertained.
-[JA TRANSLATION NEEDED] 3.  **Customize Zuub:** Use your earned coins to buy new outfits and accessories. Personalizing Zuub adds to the fun and can sometimes unlock special interactions.
-[JA TRANSLATION NEEDED] 4.  **Explore and Interact:** Tap on different parts of the screen or interface elements to discover new interactions and activities with Zuub. A happy Zuub might even give you bonus rewards.
+### 操作ガイド
 
-### Controls Guide
+- ペットをクリック/タップしてインタラクトします。
+- アイテムを選択して使用します（食べ物、おもちゃなど）。
+- ミニゲームで遊んでコインを獲得します。
 
-*   **Click/Tap:** Use your mouse (on desktop) or finger (on mobile) to interact with Zuub, select menu options, and play mini-games.
-    - **A:** If Zuub's needs are neglected, its happiness and energy levels will decrease, and it might become sad or sick. Regular care is important to keep your pet thriving.（日本語訳が必要）
-    - **A:** コイン are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
-    - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.（日本語訳が必要）
-    - **A:** If Zuub's needs are neglected, its happiness and energy levels will decrease, and it might become sad or sick. Regular care is important to keep your pet thriving.（日本語訳が必要）
-    - **A:** コイン are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
-    - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What happens if I don't care for Zuub?**
-[JA TRANSLATION NEEDED]     *   **A:** If Zuub's needs are neglected, its happiness and energy levels will decrease, and it might become sad or sick. Regular care is important to keep your pet thriving.
-
-*   **Q: How do I earn coins in the game?**
-[JA TRANSLATION NEEDED]     *   **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
-
-*   **Q: Can I have more than one space pet?**
-
-
-
-
-
-
-
-
+- **Q: ペットは死にますか？**  
+  A: ゲームによって異なります。一部はペット管理に重点を置いています。
+    - **Q: 最も重要なニーズは何ですか？**  
+  A: すべて重要ですが、空腹に注意してください。
+- **Q: 複数のペットを持つことができますか？**  
 
     - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
+
 - **Q: Can I have more than one space pet?**
+
     - **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
-- **Q: How do I earn coins in the game?**
-    - **A:** If Zuub's needs are neglected, its happiness and energy levels will decrease, and it might become sad or sick. Regular care is important to keep your pet thriving.
-- **Q: What happens if I don't care for Zuub?**
-### よくある質問（FAQ）
-- **Click/Tap:** Use your mouse (on desktop) or finger (on mobile) to interact with Zuub, select menu options, and play mini-games.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
-- **Q: Can I have more than one space pet?**
-    - **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
-- **Q: How do I earn coins in the game?**
-    - **A:** If Zuub's needs are neglected, its happiness and energy levels will decrease, and it might become sad or sick. Regular care is important to keep your pet thriving.
-- **Q: What happens if I don't care for Zuub?**
-
-    - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
-[JA TRANSLATION NEEDED]     *   **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
-
+  A: バージョンによって異なります。一部は複数のペットを許可します。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: lows-adventures-3
-title: '[ZH TRANSLATION NEEDED] Low''s Adventures 3'
-description: >-
-  [ZH TRANSLATION NEEDED] Retro platformer trilogy entry: tighter jumps, new
-  gimmick blocks, and more secrets across compact stages.
+title: 《Low's Adventures 3》洛的冒险 3
+description: 《Low's Adventures 3》是复古平台三部曲的第三部，加入更紧凑的跳台、更刁钻的机关砖块和更多隐藏路线，在小体量关卡中塞入大量秘密。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/lows-adventures-3.jpg
 tags:
@@ -16,27 +14,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] The third entry sharpens platforming with trickier timing windows, moving hazards, and additional secret routes. Expect switch puzzles, hidden keys, and off‑screen passages that reward careful exploration and efficient routing.
+### 概览
 
-### How to Play
-- Clear main exits first, then return for secrets and time medals.
-- Use moving platforms to set up longer jumps.
-- Track which keys open which doors to avoid backtracking.
+作为三部曲的第三作，《Low's Adventures 3》在前作基础上进一步收紧了平台跳跃的判定窗口，引入更多移动机关和新类型的机关砖块，并在关卡结构中加入更多岔路与秘密出口。你会遇到需要踩开开关、携带钥匙、多次绕回的路线设计，熟悉地图和机关规律后，才能找出最优路线。 
 
-### Controls
-- Arrows/WASD move/jump; attack/interact per host.
+### 游戏玩法
 
-### Tips
-- Stay patient on moving hazards—missing one cycle costs less than a death.
-- Route coins/items only if they don’t risk the timer.
-- Listen for audio cues hinting at hidden areas.
+- 建议先以正常速度通关，确保熟悉主路线和机关触发方式，再回头尝试寻找隐藏出口和时间勋章。  
+- 利用移动平台和弹跳装置来完成更长距离的跳跃，观察它们的运动周期，在节奏最稳的时候起跳。  
+- 记录每把钥匙对应哪一扇门，避免绕一大圈后发现走错方向导致回头路。  
 
-### FAQ
-- Q: How do I find hidden exits in this game?  
-[ZH TRANSLATION NEEDED]   A: Check ceilings, false walls, and off‑screen ledges; look for slight tile seams.
-- Q: Are there difficulty spikes compared to part 2?  
-[ZH TRANSLATION NEEDED]   A: Jumps are tighter and hazards denser; practice specific rooms.
-- Q: Can I replay levels quickly for medals?  
-[ZH TRANSLATION NEEDED]   A: Yes—menus often support fast restarts for routing attempts.
+### 操作说明
 
+- 使用方向键或 WASD 控制角色移动与跳跃；攻击或互动按键依平台托管版本而定。  
+
+### 实用技巧
+
+- 面对密集移动机关时，宁可多等一轮周期，也不要强行抢节奏，失误一次的代价通常比多等几秒更高。  
+- 只在不影响计时的前提下收集金币与隐藏道具，当你冲击时间勋章时，可以只走最短路线。  
+- 注意聆听音效提示，有些隐藏区域会在你接近时播放轻微音效，或通过砖块敲击声反馈暗门位置。  
+
+### 常见问题（FAQ）
+
+*   **Q: 隐藏出口总是找不到，有什么通用小技巧？**  
+
+A: Check ceilings, false walls, and off‑screen ledges; look for slight tile seams.
+- **A:** 尝试在顶棚、看似死路的尽头或画面上缘做试探跳跃，并观察是否有肉眼难以察觉的砖缝或错位贴图。  
+
+
+A: Jumps are tighter and hazards denser; practice specific rooms.
+*   **Q: 相比《Low's Adventures 2》难度提升明显吗？**  
+
+A: Yes—menus often support fast restarts for routing attempts.
+    *   **A:** 本作的跳跃判定会更紧、陷阱分布更密，对节奏掌握要求更高，建议针对难点房间单独多练。  
+
+*   **Q: 可以快速重开关卡来刷时间吗？**  
+    *   **A:** 一般菜单中都会提供快速重启选项，方便你在熟悉路线后反复尝试以拿到更高评级或时间勋章。

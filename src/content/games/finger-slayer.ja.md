@@ -1,69 +1,37 @@
 ---
+title: "Finger Slayer"
+description: "Finger Slayerは生の反応をテストします。閉じる刃をかわすために最後のミリ秒で引き戻し、早くひるまないようにしましょう。"
+iframeSrc: "https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/"
+thumbnail: "/new-images/finger-slayer.jpg"
+urlstr: "finger-slayer"
+score: "3.8/5  (1690 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: finger-slayer
-title: '[JA TRANSLATION NEEDED] Finger Slayer'
-description: >-
-  [JA TRANSLATION NEEDED] Finger Slayer tests raw reaction — pull back at the
-  last millisecond to dodge a closing blade without flinching early.
-iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
-thumbnail: /new-images/finger-slayer.jpg
-tags:
-  - action
-  - casual
-score: 3.8/5  (1690 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Finger Slayerは、ワンボタンの反射テストです。「指」を危険ゾーン内に配置し、トラップが閉じる直前に引き離します。ラウンドは、より速い閉鎖、偽の予告、先取りを罰するリズムの変化でエスカレートします。目標は、最後の安全なフレームで単一の鮮明なプル（引き戻し）にコミットし、早くひるまない（スコアが低くなる）または長く待ちすぎないことです。
 
-[JA TRANSLATION NEEDED] Finger Slayer is a single‑button reflex test: place your “finger” within a danger zone and yank it away right before a trap snaps shut. Rounds escalate with faster closures, fake telegraphs, and rhythm changes that punish anticipation. The goal is to commit to a single crisp pull at the last safe frame without flinching early (which scores lower) or waiting too long.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **予告を読む:** ほとんどのトラップはミクロの準備動作（サウンド/ビジュアル）を与えます。精神的なカウントではなく、その信号から鍵を入れます。
+2.  **事前に動かない:** 早いひるみはスコアとリズムを減らします。予告まで静止していてください。
+3.  **1回の綺麗なプル:** 出口を決定的にします。部分的なドラッグは切り取られます。
+4.  **リズムの適応:** 数ラウンド後、パターンが変わります。試行間で精神的にリセットします。
+5.  **安全な閾値:** 個人的な反応境界を学び、少し早めを目指します。
 
-[JA TRANSLATION NEEDED] 1.  Read the tell: Most traps give a micro‑windup (sound/visual); key off that signal, not a mental count.
-[JA TRANSLATION NEEDED] 2.  Don’t pre‑move: Early flinches reduce score and rhythm; stay still until the tell.
-[JA TRANSLATION NEEDED] 3.  One clean pull: Make the exit decisive — partial drags get clipped.
-[JA TRANSLATION NEEDED] 4.  Rhythm adaptation: After a few rounds, patterns shift; reset mentally between attempts.
-[JA TRANSLATION NEEDED] 5.  Safe thresholds: Learn your personal reaction boundary and aim a hair earlier.
+### 操作ガイド
 
-### Controls Guide
+- 長押しして「配置」し、離して引き戻します。一部のビルドではタップ対長押しを使用します。
 
-- Hold to “place” and release to pull back; some builds use tap vs hold.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I always move too early — how do I stop?
-  
-[JA TRANSLATION NEEDED]   A: Focus on the trap’s pre‑animation or audio cue; suppress guessing and react to the real tell.
-
-- Q: Closures feel random — any tip?
-  
-[JA TRANSLATION NEEDED]   A: They’re pseudo‑random with patterned “tells.” Train a calm wait‑then‑snap reaction.
-
-- Q: Is there input lag?
-  
-
-
-
-
-
-- Q: I always move too early — how do I stop?
-### よくある質問（FAQ）
-- Hold to “place” and release to pull back; some builds use tap vs hold.
-### コントロールガイド
-- Safe thresholds: Learn your personal reaction boundary and aim a hair earlier.
-[JA TRANSLATION NEEDED]   A: Minor delays exist on some devices; compensate by reacting on the cue’s first frame.
-
-
-
-
-
-
-A: Minor delays exist on some devices; compensate by reacting on the cue’s first frame.
-- Q: Is there input lag?
-A: They’re pseudo‑random with patterned “tells.” Train a calm wait‑then‑snap reaction.
-- Q: Closures feel random — any tip?
-
-
-A: Minor delays exist on some devices; compensate by reacting on the cue’s first frame.
+- **Q: いつも早く動きすぎます。どうやって止めますか？**
+  A: トラップのプレアニメーションまたはオーディオキューに焦点を当てます。推測を抑制し、本当の予告に反応します。
+- **Q: 閉鎖がランダムに感じます。ヒントはありますか？**
+  A: それらはパターン化された「予告」を持つ疑似ランダムです。穏やかな待機そして瞬時の反応をトレーニングしましょう。
+- **Q: 入力遅延はありますか？**
+  A: 一部のデバイスでは小さな遅延が存在します。キューの最初のフレームで反応することで補償します。

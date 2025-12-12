@@ -1,42 +1,55 @@
 ---
-locale: ja
-urlstr: dumb-ways-to-die
-title: '[JA TRANSLATION NEEDED] Dumb Ways to Die'
+title: Dumb Ways to Die おバカな死に方
 description: >-
-  [JA TRANSLATION NEEDED] Dumb Ways to Die is a fast‑reaction mini‑game
-  collection: complete micro‑challenges quickly to keep characters alive.
+  「Dumb Ways to
+  Die」はブラックユーモア溢れる瞬間ミニゲーム集。数秒の制限時間内に正しいアクションを行い、キャラクターたちをおバカな死から救え。
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/dumb-ways-to-die.jpg
+urlstr: dumb-ways-to-die
+score: 3.9/5  (534 votes)
 tags:
   - arcade
   - minigames
-score: 3.9/5  (534 votes)
+developer: Metro Trains
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Dumb Ways to Die（ダム・ウェイズ・トゥ・ダイ：おバカな死に方）*は、元々は鉄道事故防止の啓発キャンペーンとして作られ、世界的な人気を博した瞬間アクションゲーム集です。
+「ホットドッグにマスタードをかける」「ハチの巣を叩く」「ピラニアを避ける」など、一瞬の判断が生死を分けるマイクロゲームが次々と出題されます。失敗すれば、可愛らしくもおバカで悲惨な死が待っています。
+
+### 遊び方
+
+*   **瞬間判断:** 各ラウンドで短い指示（英語）が出ます。数秒以内に正しい操作を行ってクリアしましょう。
+*   **スピードアップ:** クリアするごとにゲームスピードが上がり、難易度が増していきます。
+*   **3アウト制:** 3回失敗するとゲームオーバーです。
+
+### 操作ガイド
+
+*   **操作:** クリック、ドラッグ、連打、長押しなど、ゲームによって様々です。
+    *   例：走る（連打）、拭く（こする）、避ける（傾ける/クリック）
+
+### 攻略のヒント
+
+*   **指示を読む:** 最初に一瞬だけ出る指示（"Run!", "Don't press!"など）を見逃さないように。
+*   **反復練習:** ミニゲームの種類は決まっています。何度もプレイして、それぞれのゲームの正解アクションを覚えましょう。
+*   **落ち着いて:** 速度が上がっても、焦って操作ミスをするのが一番の死因です。正確さを意識しましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: ライフは回復しますか？**
+
+A: Usually three strikes per run.
+- **A:** 基本的には回復しません。3回ミスするまで続きます。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Fast‑reaction micro‑games: complete short safety‑themed challenges under a rising speed curve. Fail three times and the run ends.
+A: Some hosts offer practice lists; otherwise learn during runs.
+*   **Q: キャラクターを集める要素はありますか？**
 
-### How to Play
-- Each round presents a different micro‑game with a brief prompt.
-- Succeed quickly to keep lives and push the speed higher; mistakes cost hearts.
-- Later rounds shuffle faster and add trick prompts.
+A: High‑score chase; some versions unlock characters or cosmetics.
+    *   **A:** 多くのバージョンで、スコアに応じて駅のホームにキャラクターが増えていくコレクション要素があります。
 
-### Controls
-- Mouse/Touch swipes, taps, and holds; some hosts use arrow keys/space for specific games.
-
-### Tips
-- Read the prompt first—many losses come from instinctive wrong inputs.
-- Expect repetition; memorize tricky games to react faster.
-- Don’t over‑drag/over‑swipe; precision beats speed.
-
-### FAQ
-- Q: How many lives do I have?  
-[JA TRANSLATION NEEDED]   A: Usually three strikes per run.
-- Q: Can I practice a single game?  
-[JA TRANSLATION NEEDED]   A: Some hosts offer practice lists; otherwise learn during runs.
-- Q: Is there progression?  
-[JA TRANSLATION NEEDED]   A: High‑score chase; some versions unlock characters or cosmetics.
-
+*   **Q: 元ネタは何ですか？**
+    *   **A:** メルボルンの鉄道会社が制作した、鉄道事故防止を呼びかけるバイラル動画と楽曲です。"Be safe around trains"（電車の周りでは安全に）というメッセージが込められています。

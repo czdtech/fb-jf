@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: donkey-kong
-title: '[DE] Donkey Kong'
+title: "Donkey Kong"
 description: >-
-  [DE] Donkey Kong is a classic arcade platformer: climb ladders, avoid hazards,
-  and reach the top to clear stages.
+  Donkey Kong ist ein legendärer Arcade-Platformer: Klettere Leitern und Träger
+  hinauf, weiche Fässern und Feuerbällen aus und erreiche die Spitze, um die
+  Stage abzuschließen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/donkey-kong.jpg
 tags:
@@ -14,33 +15,50 @@ score: 4.0/5  (537 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Arcade-Klassiker von 1981: Du spielst Mario, kletterst über Stahlträger und
+Leitern nach oben, weichst Fässern und Feuerbällen aus und nutzt den Hammer, um
+Gefahren kurzzeitig zu zerschlagen. Insgesamt gibt es vier unterschiedliche
+Bühnen (25m–100m), durch die du dich kämpfen musst, um Pauline zu retten.
+Nachdem du alle Stages eines Levels geschafft hast, beginnen sie erneut – nur
+schneller und schwieriger.
 
+### So spielst du
 
+- Räume eine Stage, indem du die Spitze erreichst oder in der 100m-Stage alle
+  Nieten entfernst.
+- Punkte erhältst du für das Überspringen von Fässern, das Zerschlagen von
+  Gegnern mit dem Hammer und das Einsammeln von Bonusgegenständen.
+- Lerne Muster: Erkenne, wann Fässer gerade oder diagonal rollen, wie sich
+  Förderbänder verhalten und wann Springs auf den Aufzugsbühnen sicher sind.
 
-### Overview
-Arcade classic (1981): climb girders and ladders as Mario, dodge barrels and fireballs, and use the hammer to smash hazards while you work through the four stage types (25m–100m) to rescue Pauline. Stages repeat with faster patterns after each level. 
+### Steuerung
 
-### How to Play
-- Clear the stage by reaching the top or removing rivets in the 100m stage.
-- Score by jumping barrels, smashing with the hammer, and collecting items.
-- Learn barrel patterns (straight vs. diagonal), conveyor timing, and elevator springs.
+- Pfeiltasten: Bewegen und Klettern.  
+- Nach oben: Leitern hinaufsteigen; Springen: meist über eine zugewiesene Taste
+  (abhängig vom Host).  
+- Aktion: Sobald du den Hammer aufhebst, schwingt Mario ihn automatisch für
+  kurze Zeit.
 
-### Controls
-- Arrow keys: Move/Climb.
-- Up: Climb ladders; Jump: usually with a mapped key (host dependent).
-- Action: Hammer is automatic once picked up, lasts for a short time.
+### Tipps
 
-### Tips
-- Wait for safe ladder windows; don’t climb when a barrel is directly above.
-- On 25m, steer barrels by briefly facing a ladder to influence spawns.
-- Grab the hammer when traffic is dense, but don’t get trapped near ladders.
+- Warte auf sichere Momente, um Leitern zu benutzen – steige nicht, wenn ein
+  Fass direkt über dir ist.
+- Auf 25m kannst du Fässer beeinflussen, indem du kurz zu Leitern schaust; so
+  änderst du die Wahrscheinlichkeit, ob sie gerade oder diagonal rollen.
+- Nutze den Hammer, wenn besonders viel los ist, aber achte darauf, dich nicht
+  direkt neben Leitern oder am Rand einzusperren.
 
 ### FAQ
-- Q: How many distinct stages are there?
-A: Four: Girders (25m), Conveyors (50m), Elevators (75m), and Rivets (100m).
-- Q: Does the game loop?
-A: Yes, stages repeat at higher difficulty after each level.
-- Q: What ends a run?
-A: Collisions, falling too far, or the bonus timer reaching zero.
 
+- **F: Wie viele unterschiedliche Stages gibt es?**  
+  **A:** Vier: Träger (25m), Förderbänder (50m), Aufzüge (75m) und Nieten (100m).
+
+- **F: Läuft das Spiel endlos?**  
+  **A:** Ja, nach jeder abgeschlossenen Runde starten die Stages erneut – mit
+  höherer Geschwindigkeit und schwierigeren Mustern.
+
+- **F: Wodurch endet ein Run?**  
+  **A:** Durch Kollisionen mit Gegnern, einen zu langen Sturz oder wenn der
+  Bonustimer auf null fällt.

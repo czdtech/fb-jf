@@ -1,49 +1,49 @@
 ---
-locale: ja
-urlstr: mahjongg-solitaire
-title: '[JA TRANSLATION NEEDED] Mahjongg Solitaire'
+title: Mahjongg Solitaire
 description: >-
-  [JA TRANSLATION NEEDED] Clear the board in Mahjongg Solitaire, the classic
-  single-player tile-matching puzzle game! Find and match identical, unblocked
-  tiles to remove them from the layout. Strategize your moves to expose more
-  tiles and clear the entire board in this timeless brain-teaser.
-iframeSrc: >-
-  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
-thumbnail: /new-images/mahjongg-solitaire.jpg
+  Mahjongg
+  Solitaireで時代を超えたタイルマッチングをお楽しみください。フリーペアを見つけ、戦略的にボードをクリアし、クラシックなパズルゲームをマスターします。
+iframeSrc: 'https://mahjoggsoliatire.h5games.usercontent.goog/v/6k4jlb69s90go/'
+thumbnail: /new-images/mahjongg-solitaire.png
+urlstr: mahjongg-solitaire
+score: 4.6/5  (2900 votes)
 tags:
   - puzzle
-  - tile-matching
-  - classic
-score: 4.5/5  (256 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Mahjongg Solitaire, also known as Mahjong Solitaire or Shanghai Solitaire, is a popular single-player tile-matching puzzle game. The game uses a set of Mahjong tiles arranged in various multi-layered layouts. The primary objective is to clear the entire board by finding and matching pairs of identical, "free" tiles.
+Mahjongg Solitaireは、何十年も愛されてきたクラシックなタイルマッチングパズルです。積み重ねられたレイアウトから同一のフリータイルのペアを見つけてマッチし、すべてのタイルがなくなるまでボードを体系的にクリアします。
 
-### Gameplay Guide
+### ゲームプレイ戦略と攻略法
 
-- **Matching Tiles:** Click or tap on two identical tiles to remove them.
-- **"Free" Tiles:** Only tiles that are "free" can be matched. A tile is free if it has no other tiles directly on top of it and at least one of its long sides (left or right) is unobstructed.
-- **Strategy:** Plan your moves carefully. Removing certain tiles might block others, making the game unsolvable. Prioritize removing tiles that are blocking many other tiles or those that are part of a critical stack.
-- **Special Tiles:** Flower and Season tiles can be matched with any other tile of their respective group, even if they are not identical.
+1.  **フリータイルルールを理解:** 左右がブロックされておらず、その上にタイルがないタイルのみをマッチできます。
+2.  **上部からクリア:** 最初に上部レイヤーをアンブロックして、より多くのオプションを公開します。
+3.  **同一タイルのペアを計画:** 3つ以上の同一タイルがある場合、長期戦略のためにどのペアをマッチするかを慎重に選択します。
+4.  **フラワー/シーズン:** これらの特別なタイルは、同じカテゴリの任意のタイルとマッチできます。
 
-### Controls Guide
+### 操作ガイド
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+- マウス/タッチでフリータイルをクリック/タップして選択し、その一致するフリーパートナーをクリック/タップします。
+- ヒント、元に戻す、シャッフルオプションが通常利用可能です。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] **What is the goal of Mahjongg Solitaire?**
+- **Q: すべてのレベルは解決可能ですか？**  
+  A: ほとんどのレイアウトは解決可能ですが、一部は複数の試行が必要な場合があります。
+- **Q: 最高の戦略は何ですか？**  
+  A: 最初に上部タイルをクリアし、複数の同一タイルを慎重に処理します。
+- **Q: ヒントを使いすぎるとペナルティはありますか？**  
+  A: いいえペナルティはありませんが、それらは学習経験を減らす可能性があります。
 
-[JA TRANSLATION NEEDED] The goal is to remove all 144 tiles from the board by matching them in pairs.
 
-[JA TRANSLATION NEEDED] **What happens if I can't find any more matches?**
+Some versions of Mahjongg Solitaire are timed, adding an element of urgency, while others allow for a more relaxed pace.
 
-[JA TRANSLATION NEEDED] If there are no more available "free" pairs to match, and tiles still remain on the board, the game is lost. Some digital versions offer a "shuffle" or "hint" option.
+**Is there a time limit?**
 
-[JA TRANSLATION NEEDED] **Is there a time limit?**
-
-[JA TRANSLATION NEEDED] Some versions of Mahjongg Solitaire are timed, adding an element of urgency, while others allow for a more relaxed pace.
-
+If there are no more available "free" pairs to match, and tiles still remain on the board, the game is lost. Some digital versions offer a "shuffle" or "hint" option.

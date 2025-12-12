@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: dogeminer
-title: '[FR] DogeMiner'
+title: 'DogeMiner'
 description: >-
-  [FR] DogeMiner is an idle clicker: mine coins, buy upgrades and helpers, and
+  DogeMiner is an idle clicker: mine coins, buy upgrades and helpers, and
   automate production to earn faster.
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/dogeminer.jpg

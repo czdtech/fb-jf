@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: drifting-mania
-title: '[FR] Drifting mania'
+title: 'Drifting mania'
 description: >-
-  [FR] Drifting mania tests top‑down drift control — feather throttle, link
+  Drifting mania tests top‑down drift control — feather throttle, link
   slides, and master corner rhythm.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/drifting-mania.png
@@ -23,11 +23,11 @@ Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle 
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[FR]** Enter slow, exit fast to keep momentum.
-2.  **[FR]** Feather throttle for controlled slides.
-3.  **[FR]** Link corners by planning exit lines.
-4.  **[FR]** Recover early if over‑rotated.
-5.  **[FR]** Drill layouts for consistent braking points.
+1.  Enter slow, exit fast to keep momentum.
+2.  Feather throttle for controlled slides.
+3.  Link corners by planning exit lines.
+4.  Recover early if over‑rotated.
+5.  Drill layouts for consistent braking points.
 
 ### Controls Guide
 

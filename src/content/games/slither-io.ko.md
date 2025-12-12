@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: slither-io
-title: '[KO] Slither.io'
+title: "Slither.io 슬리더 아이오"
 description: >-
-  [KO] Slither.io is a popular multiplayer online game where players control a
-  snake-like avatar, consuming glowing orbs to grow larger while avoiding
-  collisions with other players in an endless arena battle for supremacy.
+  빛나는 먹이를 먹으며 몸집을 키우는 멀티플레이 뱀 .io 게임입니다.
+  다른 뱀과 충돌하지 않도록 조심하면서, 상대의 길을 끊어 거대한
+  에너지를 먹어 성장해 보세요.
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
 thumbnail: /new-images/slither-io.jpg
@@ -19,33 +19,67 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Slither.io*는 전 세계 유저와 함께 즐기는 멀티플레이 뱀 .io 게임입니다.
+플레이어는 작은 뱀으로 시작해, 주변에 떠 있는 빛나는 에너지 구슬을
+먹으며 점점 몸집을 키워야 합니다. 아레나는 끝이 없고, 목표는 가능한
+한 길고 큰 뱀이 되어 랭킹 상위권을 차지하는 것입니다.
 
-### Game Introduction
+다른 뱀의 몸에 머리가 닿으면 바로 패배하지만, 반대로 상대 머리를
+자신의 몸에 부딪히게 만들면 거대한 에너지를 먹을 기회를 얻을 수
+있습니다.
 
-"Slither.io" is a popular multiplayer online game where players control a snake-like avatar, consuming glowing orbs to grow larger while avoiding collisions with other players. In this endless arena, players compete for dominance with the goal of becoming the biggest and longest snake.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **초반에는 안전하게 성장하기**  
+   게임 초반에는 작은 구슬을 차분히 먹으며 몸집을 키우고,
+   거대한 뱀과의 직접 충돌은 피하는 것이 좋습니다.
 
-1.  **[KO]** **Safe Growth**: Focus on collecting small orbs in early game, avoiding contact with large snakes.
-2.  **[KO]** **Cutting Tactics**: When you're large enough, try to cut off other snakes' paths to make them crash into you.
-3.  **[KO]** **Boost Technique**: Use the boost function wisely to escape danger or capture prey, but note it consumes body length.
-4.  **[KO]** **Border Utilization**: Use map boundaries to protect one side, reducing the risk of being surrounded.
-5.  **[KO]** **Patient Waiting**: Wait for other snakes to make mistakes, then collect the large amount of orbs they leave behind.
+2. **컷팅 전술로 상대 길 끊기**  
+   어느 정도 길이가 길어지면, 다른 뱀 앞을 가로질러 달려 머리를
+   자신의 몸에 부딪히게 만드는 "컷팅" 전술을 사용할 수 있습니다.
 
-### How to Play
+3. **부스트(가속) 사용은 상황에 맞게**  
+   스페이스바나 마우스 버튼을 눌러 가속하면 위기에서 탈출하거나
+   먹이를 선점할 수 있지만, 그만큼 몸 길이가 줄어듭니다. 정말
+   필요할 때만 사용하는 것이 좋습니다.
 
-*   **[KO]** **Movement**: Use mouse to control snake movement direction; the snake head follows the mouse pointer.
-*   **[KO]** **Boost**: Hold left mouse button or spacebar to accelerate movement.
-*   **[KO]** **Observation**: Use mouse wheel or keys to zoom view (in some versions).
+4. **맵 가장자리 활용하기**  
+   맵 바깥 경계 근처를 돌면 한쪽에서는 더 이상 뱀이 나오지 않아
+   포위될 위험이 줄어듭니다. 다만 구석에 너무 오래 머무르지는
+   마세요.
 
-### Frequently Asked Questions
+5. **실수 기다리기**  
+   공격적으로 파고들기보다, 다른 뱀들이 서로 부딪혀 쓰러질 때까지
+   기다렸다가 남은 에너지 구슬을 한꺼번에 먹는 것도 좋은 전략입니다.
 
-1.  **[KO]** **Q: How do I grow quickly?**
-**A**: Look for orb piles left by recently deceased large snakes; these provide significant growth points.
-2.  **[KO]** **Q: What do I do when surrounded?**
-**A**: Use boost to break through the encirclement, or try to hug other snakes' bodies to find gaps.
-3.  **[KO]** **Q: What are the consequences of boosting?**
-**A**: Boosting consumes your body length, so use it cautiously at critical moments.
-4.  **[KO]** **Q: Is there a leaderboard in the game?**
-**A**: Yes, the game displays rankings of the largest snakes on the current server.
+### 조작 가이드
+
+- **이동**: 마우스를 움직여 머리가 향할 방향을 지정합니다.
+  뱀의 머리는 항상 마우스 커서를 따라갑니다.  
+- **부스트(가속)**: 마우스 왼쪽 버튼 또는 스페이스바를 누르고
+  있는 동안 잠시 속도가 빨라집니다(그만큼 몸 길이가 소모됩니다).  
+- **시야 조절(지원되는 버전)**: 마우스 휠이나 지정 키로 카메라를
+  확대/축소할 수 있는 버전도 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 빨리 크는 가장 좋은 방법은 무엇인가요?**  
+   **A:** 방금 쓰러진 큰 뱀이 남긴 에너지 더미를 찾는 것이 가장
+   효율적입니다. 다만 주변에 있는 다른 뱀의 컷팅을 항상 조심하세요.
+
+2. **Q: 포위당했을 때는 어떻게 해야 하나요?**  
+   **A:** 가속을 사용해 틈새를 뚫고 나오거나, 상대 몸을 최대한
+   가까이 따라가다 빈 공간이 보이는 순간 빠르게 빠져나와야
+   합니다.
+
+3. **Q: 부스트를 쓰면 왜 몸이 짧아지나요?**  
+   **A:** 가속은 자신의 몸 일부를 소모해 속도를 올리는 방식으로
+   구현되어 있습니다. 남용하면 체격이 줄어 쉽게 먹잇감이 될 수
+   있으니, 꼭 필요한 순간에만 사용하세요.
+
+4. **Q: 게임에 랭킹 보드가 있나요?**  
+   **A:** 네. 현재 서버에서 몸집이 가장 큰 상위 뱀들이 실시간으로
+   순위표에 표시됩니다. 자신의 닉네임이 랭킹에 오를 때까지
+   도전해 보세요.

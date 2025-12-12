@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: sprunki-halloween
-title: '[KO] Sprunki Halloween - Play Sprunki Halloween Online'
+title: Sprunki Halloween 스프룽키 할로윈
 description: >-
-  [KO] Sprunki Halloween is a Mod that allows you to unleash your musical
-  talents in the atmosphere of Halloween. Come and join Sprunki Halloween, and
-  use thrilling and interesting notes to welcome the arrival of Halloween!
+  Sprunki Halloween은 으스스한 사운드와 할로윈 테마 캐릭터로 공포 분위기의 트랙을 만들 수 있는 스프룽키 모드입니다. 마녀,
+  유령, 뱀파이어와 함께 할로윈 파티용 공포 비트를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
 thumbnail: /sprunki-halloween.png
 tags:
@@ -15,33 +14,46 @@ score: 4.2/5  (142 votes)
 
 
 
-Get ready for a hauntingly fun musical adventure with Sprunki Halloween! This special edition of the Sprunki series combines spine-tingling beats, eerie soundscapes, and Halloween-themed characters to let you craft your creepy tracks. Dive into the spookiest musical playground and celebrate Halloween with a mix of fun and fright.
+무시무시하면서도 즐거운 음악 모험을 즐길 준비가 되셨나요? Sprunki Halloween은
+소름 돋는 비트와 괴기스러운 효과음, 그리고 할로윈 전용 캐릭터들을 한데 모아
+직접 공포 분위기의 트랙을 만들 수 있는 모드입니다.
 
-### What is Sprunki Halloween?
+### Sprunki Halloween이란?
 
-Sprunki Halloween is a Mod that allows you to unleash your musical talents in the atmosphere of Halloween. Here, you can use various eerie sound effects and horror characters to create your own horror movement and add a unique musical color to your Halloween party.
+Sprunki Halloween은 할로윈 분위기 속에서 음악적 상상력을 마음껏 펼칠 수 있는
+스프룽키 모드입니다. 마녀의 웃음, 유령의 신음, 뱀파이어의 속삭임 같은 사운드를
+조합해 나만의 공포곡을 만들어, 파티 분위기를 한층 끌어올릴 수 있습니다.
 
-### Sprunki Halloween Game Features:
+### Sprunki Halloween 게임 특징
 
-- **Halloween Sound Pack:** Includes exclusive spooky beats, effects, and vocals.
-- **Themed Characters:** Perform with witches, ghosts, vampires, and more.
-- **Dynamic Visuals:** Halloween-themed animations that react to your music.
+- **할로윈 전용 사운드 팩:** 오싹한 비트, 괴기스러운 효과음, 긴장감을 높이는
+  보컬 등 할로윈에 어울리는 사운드가 가득합니다.
+- **테마 캐릭터:** 마녀, 유령, 뱀파이어, 해골 등 할로윈을 대표하는 캐릭터들이
+  무대 위에서 공연합니다.
+- **동적인 비주얼:** 곡에 반응하는 호박, 박쥐, 안개 등 할로윈 연출이 화면을
+  가득 채웁니다.
 
+### Sprunki Halloween 플레이 방법
 
-### How to Play Sprunki Halloween?
+- **캐릭터 조합:** 마녀·유령·뱀파이어 같은 캐릭터를 골라 무대에 올리고,
+  각 캐릭터가 담당할 사운드를 선택합니다.
+- **공포 트랙 만들기:** 낮은 음의 비트와 불협화음, 효과음을 섞어 긴장감 있는
+  곡을 만들거나, 조금 더 코믹한 공포곡으로 분위기를 바꿔 보세요.
+- **챌린지 플레이:** 일부 모드에서는 간단한 퍼즐이나 리믹스 과제가 주어지며,
+  이를 해결하면서 자신만의 버전으로 공포곡을 재구성할 수 있습니다.
 
-- **Combine Characters:** Use Halloween characters such as witches, ghosts, and vampires to build your music works.
-- **Create Haunting Tracks:** Mix Halloween-themed animations and characters with creepy beats and eerie rhythms.
-- **Complete Challenges:** Solve Halloween riddles and remix iconic spooky tunes in Sprunki Halloween.
+### Sprunki Halloween을 플레이해야 하는 이유
 
+- **할로윈 분위기 극대화:** 파티 배경 음악, 방송용 BGM 등으로 활용하기 좋습니다.
+- **창의적인 표현:** 으스스한 사운드를 마음껏 섞어 자신만의 공포 작품을
+  만들 수 있습니다.
+- **가족·친구와 함께 즐기기:** 너무 잔혹하지 않고, 적당히 무서우면서도
+  유쾌한 분위기라 함께 웃으면서 즐기기 좋습니다.
+- **높은 재플레이성:** 사운드와 캐릭터 조합이 매우 다양해, 매번 다른 느낌의
 
-### Why Play Sprunki Halloween?
-
-- **Perfect for Halloween Fun:** Ideal for setting the mood at parties or just getting into the spirit of the season.
-- **Creative Expression:** Let your imagination run wild with eerie and festive compositions.
-- **Family-Friendly Fun:** Enjoy spooky sounds with kids, friends, or solo.
-- **Replayable Magic:** Explore endless combinations of sounds and effects for unique tracks every time.
 - **Celebrate in Style:** A musical celebration of Halloween like no other.
+  트랙을 만들 수 있습니다.
 
-
-Sprunki Halloween is a Mod that allows you to unleash your musical talents in the atmosphere of Halloween. Come and join Sprunki Halloween, and use thrilling and interesting notes to welcome the arrival of Halloween!This is a Halloween-themed music game that is different from any other game - get ready to celebrate in style!
+Sprunki Halloween은 다른 어떤 게임과도 다른 할로윈 전용 음악 놀이터입니다.
+올해 할로윈을 조금 더 특별하게 보내고 싶다면, 스프룽키 할로윈에서 직접 만든
+공포 트랙으로 분위기를 한껏 끌어올려 보세요.

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: bubble-trouble
-title: '[FR] Bubble Trouble'
-description: >-
-  [FR] Pop bouncing bubbles with your harpoon in this fast-paced arcade action
-  game. Split large bubbles into smaller ones while avoiding contact. Master
-  power-ups and clear all bubbles before time runs out!
+title: Bubble Trouble
+description: "Bubble Trouble est un arcade nerveux\_: tire ton harpon vers le haut pour éclater les bulles rebondissantes, qui se divisent en bulles de plus en plus petites jusqu’à disparaître."
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/bubble-trouble.jpg
@@ -16,57 +13,69 @@ score: 4.4/5  (203 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+Dans *Bubble Trouble*, tu contrôles un petit personnage en bas de l’écran qui ne peut se déplacer qu’à gauche/droite et tirer un harpon vertical. Chaque fois que tu touches une bulle, elle se divise en deux bulles plus petites, jusqu’à atteindre la taille minimale ; là, la prochaine touche la fait disparaître.
 
+Le but : nettoyer l’écran de toutes les bulles avant la fin du temps sans te faire toucher, en solo ou en coop local à deux joueurs.
 
-
-
-### Game Introduction
-
-Bubble Trouble is a fast-paced arcade action game. The player controls a small, devil-like character at the bottom of the screen who can only move left and right. The objective is to clear the screen of all bouncing bubbles before the timer runs out.
-
-The core mechanic involves shooting a harpoon-like projectile straight up. When the harpoon hits a bubble, the bubble pops and splits into two smaller bubbles. These smaller bubbles continue to bounce around the screen. This process repeats—popping a bubble creates two smaller ones—until the bubbles reach their smallest size, at which point popping them removes them from the game completely.
 
 The main challenge is to avoid being touched by any of the bouncing bubbles. If a bubble hits the player's character, they lose a life. The game is lost if the player runs out of lives or if the timer reaches zero. As players progress, levels become more difficult with more bubbles, complex starting layouts, and shorter time limits. The game also features a popular two-player cooperative mode.
+### Guide de jeu
 
-### Gameplay Strategy
+- **Priorité aux bulles géantes**  
+  Elles prennent le plus de place et engendrent ensuite une pluie de bulles plus petites ; les éliminer tôt réduit le chaos global.
+- **Tire depuis le dessous**  
+  Place-toi sous la bulle avant de tirer pour gagner du temps de réaction lorsque les deux bulles plus petites partiront sur les côtés.
+- **Pièges de coin**  
+  Coince une bulle entre un mur et ta ligne de tir afin de la frapper en boucle depuis un point sûr.
+- **Maîtrise les power-ups**  
+    - Double harpon  
+    - Harpon collant  
+    - Bouclier  
+    - Gel/ralentissement du temps  
+    - Dynamite qui fait exploser toutes les bulles d’une taille donnée
+- **Coop à deux joueurs**  
+  Divisez l’écran ou attribuez des rôles (offensif/soutien) pour éviter de vous gêner mutuellement.
 
--   **Prioritize the Largest Bubbles:** Always try to pop the biggest bubbles first. They are the most dangerous because they cover the most area and create the most subsequent smaller bubbles. Getting them out of the way early reduces the overall chaos.
--   **Stay Under the Bubble:** A good general strategy is to position yourself directly underneath a bubble before firing. This gives you the maximum amount of time to react and move out of the way of the two smaller bubbles that will be created and bounce outwards.
--   **Corner Trapping:** One of the most effective tactics is to trap a bubble in a corner. When a bubble is bouncing predictably between a wall and your harpoon line, you can stand in a safe spot and fire repeatedly until it's completely destroyed.
--   **Master the Power-ups:** Popping bubbles will sometimes drop power-ups. Collecting these is crucial for success. Key power-ups include:
-    -   **Double Harpoon:** Lets you shoot two projectiles at once.
-    -   **Sticky Harpoon:** Shoots a line that sticks to the ceiling for a few seconds, popping any bubble that touches it. Excellent for clearing crowded areas.
-    -   **Shield:** Provides temporary invincibility. Grab this immediately!
-    -   **Time Freeze/Slow:** Slows down or completely stops the bubbles, giving you an easy opportunity to clear them.
-    -   **Dynamite:** Pops all bubbles of a certain size on the screen.
--   **Two-Player Coordination:** In 2-player mode, communication is key. The best strategy is often to "divide and conquer." Each player takes one half of the screen. This prevents you from running into each other and provides much better screen coverage.
+### Commandes
 
-### Controls Guide
 
 The controls are simple and designed for quick arcade action.
+- Joueur 1 : flèches gauche/droite pour se déplacer, `Espace` pour tirer.  
+    - Joueur 2 : touches `A/D` pour se déplacer, `Q` (ou `W` selon version) pour tirer.
 
--   **Player 1:**
-    -   **Left/Right Arrow Keys:** Move the character left and right.
-    -   **Spacebar:** Shoot harpoon.
-
--   **Player 2:**
-    -   **A and D Keys:** Move the character left and right.
-    -   **Q Key:** Shoot harpoon.
 
 *(Note: Player 2 controls can sometimes vary slightly, e.g., using X and C for movement and W to shoot, depending on the version of the game.)*
 
-### Frequently Asked Questions (FAQ)
+    - **Q Key:** Shoot harpoon.
 
-**1. Is it possible to shoot diagonally?**
-> No, you can only shoot your harpoon straight up. The challenge comes from positioning your character correctly underneath the moving bubbles.
+- **A and D Keys:** Move the character left and right.
 
-**2. How do power-ups work?**
-> Power-ups are randomly dropped when you pop a bubble. You must physically move your character over the falling icon to collect it. Most power-ups are temporary.
+    - **Player 2:**
 
-**3. What is the best power-up?**
-> This is subjective, but the **Shield** is arguably the most valuable as it prevents you from losing a life. The **Sticky Harpoon** is incredibly effective for clearing multiple bubbles at once.
+    - **Spacebar:** Shoot harpoon.
 
-**4. What happens when the timer runs out?**
+*(Note: Player 2 controls can sometimes vary slightly, e.g., using X and C for movement and W to shoot, depending on the version of the game.)*
+### Foire aux questions (FAQ)
+
+- **Q : Peut-on tirer en diagonale ?**  
+  R : Non, le harpon part uniquement vers le haut. Toute la difficulté est de bien se positionner sous la bulle.
+
+- **Q : Comment fonctionnent les power-ups ?**  
+  R : Ils tombent au hasard quand une bulle éclate. Passe dessus pour l’activer ; la plupart ont une durée limitée.
+
+- **Q : Quel est le meilleur power-up ?**  
+  R : Le bouclier est souvent considéré comme vital. Le harpon collant et les ralentissements sont aussi très puissants dans les niveaux bondés.
+
+- **Q : Que se passe-t-il si le chronomètre atteint zéro ?**  
+  R : Tu perds une vie et dois recommencer le niveau. Sans vie restante, c’est le game over.
+
+
 > If the timer reaches zero before you have cleared all the bubbles, you lose a life and must restart the level. If you have no lives left, the game is over.
 
+**4. What happens when the timer runs out?**
+
+> This is subjective, but the **Shield** is arguably the most valuable as it prevents you from losing a life. The **Sticky Harpoon** is incredibly effective for clearing multiple bubbles at once.
+
+**3. What is the best power-up?**

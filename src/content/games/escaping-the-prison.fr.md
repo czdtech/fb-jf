@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: escaping-the-prison
-title: '[FR] Escaping the Prison'
-description: >-
-  [FR] A Henry Stickmin point‑and‑click adventure: choose items and routes
-  (Sneaky/Badass/Legal) to break out, with multiple endings and gags.
+title: "Escaping the Prison"
+description: "Une aventure point‑and‑click Henry Stickmin : choisis objets et routes (Sneaky/Badass/Legal) pour t’évader, avec plusieurs fins et beaucoup de gags."
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/escaping-the-prison.jpg
 tags:
@@ -15,22 +13,22 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Henry Stickmin est derrière les barreaux : à toi d’utiliser des choix à embranchements et des gadgets complètement absurdes pour l’aider à s’évader. La plupart de tes décisions se soldent par un échec hilarant ; seules quelques combinaisons mènent aux vraies fins de réussite.
 
+### Comment jouer
 
-### Overview
-Henry Stickmin is locked up—use branching choices and slapstick tools to escape. Most options fail hilariously; a few lead to successful endings.
+- Choisis un objet ou une route quand le jeu te le propose ; certaines scènes comportent des moments de « quick‑time event » où tu dois cliquer au bon moment.
+- Débloque les trois fins principales (par exemple Sneaky, Badass, Legal) en trouvant les bonnes suites de choix.
+- Revisite les scènes pour collectionner tous les échecs possibles et les bios de personnages lorsque le jeu en propose.
 
-### How to Play
-- Pick an item/route when prompted; quick‑time moments require timely clicks.
-- Unlock three main endings (e.g., Sneaky, Badass, Legal) by finding the correct sequences.
-- Revisit scenes to collect all fails and bios if offered.
+### Commandes
 
-### Controls
-- Mouse: click choices and quick‑time prompts; Space for some interrupts (host dependent).
+- Souris : clique sur les choix et les prompts de quick‑time ; Espace pour certaines interruptions (selon l’hébergement).
 
-### Tips
-- If stuck, explore the other major route branches; many scenes have alternative solutions.
-- Bios (when present) trigger by clicking characters during scenes.
-- Use scene select (if available) to mop up missing fails.
+### Astuces
 
+- Si tu es bloqué, explore les autres grandes branches de routes ; beaucoup de scènes ont des solutions alternatives.
+- Les bios, lorsqu’elles existent, se débloquent en cliquant sur les personnages pendant les cinématiques ou les scènes.
+- Utilise la sélection de scènes (si elle est disponible) pour récupérer facilement les échecs que tu as manqués.

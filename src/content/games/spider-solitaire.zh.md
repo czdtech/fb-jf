@@ -1,51 +1,50 @@
 ---
 locale: zh
 urlstr: spider-solitaire
-title: '[ZH TRANSLATION NEEDED] Spider Solitaire'
-description: >-
-  [ZH TRANSLATION NEEDED] Play Spider Solitaire, a challenging and rewarding
-  card game. Your goal is to build eight descending sequences of cards by suit,
-  from King to Ace. Clear the tableau to win in this strategic puzzle that tests
-  your planning and foresight.
-iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
-thumbnail: /new-images/spider-solitaire.jpg
+title: 《Spider Solitaire》蜘蛛纸牌
+description: 《Spider Solitaire》是一款经典的纸牌接龙游戏，你需要按从 K 到 A 的顺序整理同花色序列，将完整序列从牌面移除，最终清空所有牌堆。
+iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/1mq07b3dnbgm0/'
+thumbnail: /new-images/spider-solitaire.png
 tags:
-  - card-game
+  - card
+  - solitaire
   - puzzle
-  - strategy
-score: 4.8/5  (331 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 4.1/5  (1850 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] Spider Solitaire is a challenging and popular variant of the classic solitaire card game, played with two standard decks of cards (104 cards total). The main goal is to clear the entire playing area by assembling eight complete same-suit sequences of cards, ordered from King down to Ace. Once a full sequence is built, it is removed from the game.
+### 详细游戏介绍
 
-### Gameplay Guide
+《Spider Solitaire》是最知名的蜘蛛纸牌玩法之一。与 Klondike 接龙不同，它的核心目标是不停在桌面上重排纸牌，将同花色的 K→Q→J→…→A 整套顺序牌组装出来。一旦完成一整套同花色序列，这组牌就会从桌面移除。当所有牌都被整理并清除后，本局游戏获胜。
 
-- **Objective:** Build eight descending sequences of the same suit (King, Queen, Jack, ..., Ace).
-- **Building on the Tableau:** You can place a card on top of another card if it is one rank lower (e.g., a 7 on an 8). While you can stack cards of different suits, you can only move a group of cards together if they are all of the same suit.
-- **Empty Columns:** An empty column can be filled with any available card or a sequence of cards.
-- **Stock Pile:** When you have no more available moves on the tableau, you can deal a new row of 10 cards from the stock pile. You can only do this when there are no empty columns.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **优先形成完整序列：** 虽然短期内可以跨花色叠放牌来暂存，但最终要移除的必须是“同花色的完整 K 到 A 序列”，因此在可行的情况下尽量优先组合同花色长链。
+2.  **尽量翻开暗牌：** 每翻开一张暗牌就多一份选择，优先挪动那些能翻出新牌的列，让桌面信息尽可能完整。
+3.  **空列是关键资源：** 能空出一整列时，不要急着立刻填满。空列可用于暂存长牌组或重排花色，是打破僵局的核心工具。
+4.  **慎重发新牌：** 从牌库向每列发新牌之前，尽量将当前可移动的牌组合好，避免新牌直接压在杂乱结构之上，让局面更加难处理。
 
-- **Mouse/Touch:** Click and drag cards to move them between columns. Most versions also support a single click to automatically move a card to a valid position if one exists.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **移动纸牌：** 点击并拖拽按点数递减排列的连续牌组，将其拖动到符合规则的目标列上；
+*   **发牌：** 在所有列至少有一张牌的前提下，点击牌库为每列发一张新牌；
+*   **撤销：** 若游戏提供悔棋功能，可以用来回退误操作或重新尝试其他路径。
 
-[ZH TRANSLATION NEEDED] **What do the different difficulty levels mean?**
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] The difficulty is determined by the number of suits used:
-- **1-Suit (Beginner):** All 104 cards are of a single suit, making it much easier to form sequences.
-- **2-Suit (Intermediate):** Uses two suits, requiring you to manage building separate sequences.
-- **4-Suit (Advanced):** The most challenging version, using all four suits.
+The difficulty is determined by the number of suits used:
 
-[ZH TRANSLATION NEEDED] **Why is it called Spider Solitaire?**
+**What do the different difficulty levels mean?**
+*   **问：蜘蛛纸牌和 Klondike 接龙有什么不同？****
+- 答：** Klondike 强调按花色从 A 到 K 递增建立基础堆，而蜘蛛纸牌则是在桌面上按从 K 到 A 递减整理整套序列再移除，两者布局和运营思路差别很大。
+*   **问：为什么总觉得局面很容易卡死？****
 
-[ZH TRANSLATION NEEDED] The name comes from the eight sequences you need to build, corresponding to a spider's eight legs.
+Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
 
-[ZH TRANSLATION NEEDED] **What is the main strategy?**
+**What is the main strategy?**
 
-[ZH TRANSLATION NEEDED] Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
+The name comes from the eight sequences you need to build, corresponding to a spider's eight legs.
 
+**Why is it called Spider Solitaire?**
+    *   答：** 可能是过早随机叠放了多花色序列，却没有空列用于重排。建议有意识地为自己保留至少一列“缓冲区”，并优先清理可以直接形成完整序列的花色。

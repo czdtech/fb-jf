@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: hexa-dungeon
-title: '[FR] Hexa Dungeon'
+title: Hexa Dungeon
 description: >-
-  [FR] Enter the Hexa Dungeon and fight off skeletons! A unique match-3 puzzle
-  game where you connect hexagonal tiles of the same color to unleash powerful
-  attacks on your enemies.
+  Entre dans Hexa Dungeon et combat des squelettes ! Connecte des tuiles
+  hexagonales de même couleur dans ce puzzle match‑3 pour lancer de puissantes
+  attaques et progresser dans le donjon.
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/hexa-dungeon.png
 tags:
@@ -17,33 +17,44 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Hexa Dungeon est un puzzle‑RPG innovant qui combine mécaniques de match‑3 et combats de donjon. Tu affrontes des squelettes et d’autres monstres ; pour les attaquer, tu dois relier des chaînes d’au moins trois tuiles hexagonales adjacentes de la même couleur sur le plateau. Plus la chaîne est longue, plus ton attaque est puissante. Le cœur du jeu est de trouver l’équilibre entre déclencher de gros dégâts tout de suite et préparer de meilleurs coups pour les tours suivants.
 
-### Detailed Game Introduction
+### Comment jouer
 
-Hexa Dungeon is an innovative puzzle-RPG that combines match-3 mechanics with dungeon-crawling combat. In this game, you face off against skeletons and other monsters in a dungeon. To attack your enemies, you must connect chains of three or more identical, adjacent hexagonal tiles on the puzzle board below. The longer the chain you create, the more powerful your attack will be. It's a strategic game where you must balance making powerful attacks with setting up future moves.
+1.  **Chaînes longues = gros dégâts**  
+    Essaie de créer les plus longues chaînes possibles. Une chaîne de 5 tuiles inflige bien plus de dégâts qu’une chaîne de 3. Avant de valider un coup, regarde s’il existe un chemin qui relie davantage de tuiles de la même couleur.
 
-### Gameplay Strategy & Walkthrough
+2.  **Planifie plusieurs tours à l’avance**  
+    Parfois, réaliser d’abord un petit match de 3 permet de repositionner des tuiles pour un énorme combo au tour suivant. Ne cherche pas systématiquement le plus gros coup immédiat si un meilleur alignement se prépare.
 
-1.  **[FR]** **Longer Chains = More Damage:** The core strategy is to create the longest possible chain of matching tiles. A chain of 5 tiles will do significantly more damage than a chain of 3. Always scan the board for the best possible connection before making a move.
-2.  **[FR]** **Plan Ahead:** Look at the board and think a few moves ahead. Sometimes, making a smaller match of 3 can position other tiles to allow for a much larger match on your next turn.
-3.  **[FR]** **Focus Fire:** In levels with multiple enemies, you can often choose which enemy to target. Focus your attacks on one enemy at a time to defeat them more quickly, reducing the amount of incoming damage you take.
-4.  **[FR]** **Special Tiles:** Keep an eye out for any special tiles that may appear on the board. These could be bombs or other power-ups that can be activated by including them in a match, resulting in extra damage or other beneficial effects.
+3.  **Focalise tes attaques**  
+    Quand plusieurs ennemis sont présents, choisis souvent une cible prioritaire et concentre‑toi dessus. Éliminer rapidement un monstre réduit le nombre d’attaques que tu subis à chaque tour.
 
-### Controls Guide
+4.  **Exploite les tuiles spéciales**  
+    Surveille les tuiles spéciales : bombes, power‑ups ou autres symboles. Les inclure dans une chaîne déclenche des effets supplémentaires (dégâts de zone, bonus, etc.) qui peuvent retourner une situation difficile.
 
-The game is played with a simple click-and-drag or swipe mechanic.
+### Commandes
 
-*   **[FR]** **Connect Tiles:** Click and hold on a tile, then drag your cursor over adjacent, identical tiles to form a chain. Release the mouse button to confirm the match and launch your attack.
+Le jeu se joue au clic et en glissé.
 
-### Frequently Asked Questions (FAQ)
+- **Relier des tuiles** : clique et maintiens sur une tuile, puis fais glisser ton curseur sur les tuiles adjacentes de même couleur pour former une chaîne. Relâche le bouton de la souris pour valider le match et lancer l’attaque.
 
-*   **[FR]** **Q: How do I attack the skeletons?**
-    *   **[FR]** **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: How can I do more damage?**
-    *   **[FR]** **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
+- **Q : Comment attaquer les squelettes ?**  
+  R : Tu attaques simplement en réalisant des matches sur le plateau hexagonal : trace une ligne à travers au moins trois tuiles connectées de la même couleur.
 
-*   **[FR]** **Q: Can I connect tiles diagonally?**
-    *   **[FR]** **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
+    - **Q : Comment infliger davantage de dégâts ?**  
+  R : Plus la chaîne est longue, plus l’attaque est puissante. Une chaîne de 7 tuiles est nettement plus dévastatrice qu’un petit match de 3.
+
+- **Q : Puis‑je relier des tuiles en diagonale ?**  
+
+    - **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
+
+- **Q: Can I connect tiles diagonally?**
+
+    - **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
+  R : Oui. Comme le plateau est composé d’hexagones, tu peux relier les tuiles dans les six directions vers n’importe quelle tuile adjacente de même couleur.
 

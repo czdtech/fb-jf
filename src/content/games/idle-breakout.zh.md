@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: idle-breakout
-title: '[ZH TRANSLATION NEEDED] Idle Breakout'
-description: >-
-  [ZH TRANSLATION NEEDED] Idle + brick‑breaker hybrid: click to smash bricks,
-  buy autonomous balls/turrets, prestige for multipliers, and min‑max upgrades.
+title: "《Idle Breakout》挂机打砖块"
+description: "《Idle Breakout》是一款把放置玩法与经典打砖块结合的游戏，你既可以点击砸砖，也能购买自动弹球与炮台，配合转生倍率和极限加点，打造越滚越快的刷砖工厂。"
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/idle-breakout.jpg
 tags:
@@ -16,27 +14,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Idle Breakout merges incremental progression with classic brick‑breaking. Early on you click to deal damage; soon you purchase balls with differing speed, damage, and special effects, plus automated launchers. Bricks scale health, bosses appear periodically, and prestige resets grant permanent multipliers that accelerate future runs.
+### 游戏概述
 
-### How to Play
-- Invest early in cheap balls for constant DPS; add specials (sniper, scatter) later.
-- Target upgrade breakpoints that double DPS rather than small steps.
-- Prestige when progress stalls; compounding multipliers matter most.
+《Idle Breakout》把增量式成长和打砖块结合在一起。前期你主要靠手动点击对砖块造成伤害；随着资金累积，可以购买不同类型的弹球和自动发射装置，每种弹球在速度、伤害和特殊效果上各有特色。关卡中的砖块血量会不断提升，还会周期性刷新 BOSS 砖块，而通过“转生”（Prestige）重置进度则可以获得永久倍率加成，让之后的周目成长速度越来越快。
 
-### Controls
-- Mouse: click to damage; UI to buy balls, upgrades, and prestige nodes.
+### 游戏玩法
+- 初期优先投资价格便宜、数量多的基础弹球，用稳定的持续伤害铺开整体 DPS，再在中后期补充狙击球、散射球等特殊类型。  
+- 在升级时尽量瞄准能大幅提升总体输出的关键等级档位，而不是平均给每个弹球点一点，集中提升效果更明显。  
+- 当发现清砖速度明显变慢，升级花费越来越高、增长却有限时，就可以考虑开启转生，利用累积倍率在新一轮中快速追上旧进度。  
 
-### Tips
-- Keep at least one high‑damage ball to burst bosses.
-- Idle efficiency rises with automation; check in to re‑allocate spending.
-- Use offline time multipliers if your host supports them.
+### 操作说明
 
-### FAQ
-- Q: When should I trigger a prestige reset?  
-[ZH TRANSLATION NEEDED]   A: When your brick clears slow to a crawl; earlier resets often yield faster long‑term growth.
-- Q: Which ball types are best early in the game?  
-[ZH TRANSLATION NEEDED]   A: Cheap, fast balls for coverage; add a sniper/strong ball for bosses.
-- Q: Does the game progress offline?  
-[ZH TRANSLATION NEEDED]   A: Some hosts simulate offline earnings; behavior varies.
+- 使用鼠标点击直接攻击砖块，同时通过界面按钮购买弹球、升级参数以及解锁转生相关节点，一切操作都围绕 UI 完成。
 
+### 实用技巧
+
+- 保留至少一颗高伤害弹球专门用来处理 BOSS 砖块，避免被高血量目标拖慢整体效率。  
+- 随着自动化程度提升，你的挂机效率会越来越高，但仍建议不时上线查看，重新分配升级方向，避免资源浪费。  
+- 如果托管平台支持离线收益或时间倍率，可以充分利用睡觉/离机时间，让资源在后台持续累计。  
+
+### 常见问题（FAQ）
+
+- Q: 什么时候比较适合进行一次转生重置？  
+  A: 当你明显感觉“每打掉一排砖都要等很久”，而升级带来的提升又非常有限时，就是触发转生的好时机。相较于拖着低倍率硬打，早点转生通常能在长期内带来更高总收益。  
+
+- Q: 前期优先买哪几种弹球比较好？  
+  A: 一开始建议以便宜、攻速快的基础弹球为主，用数量堆覆盖率，再在中后期加入高伤害或特殊效果的狙击型弹球专门负责清 BOSS。  
+
+- Q: 游戏关闭后还会继续刷资源吗？  
+  A: 这取决于托管平台，有些版本会模拟离线收益，让你重新上线时一次性领取离线期间产生的收益，具体以实际版本提示为准。

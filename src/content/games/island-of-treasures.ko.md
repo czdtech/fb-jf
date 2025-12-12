@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: island-of-treasures
-title: '[KO] Island Of Treasures'
+title: Island Of Treasures 해적 런 게임
 description: >-
-  [KO] Embark on a thrilling pirate adventure in this 3D endless runner! Collect
-  gleaming jewels, dodge deadly traps, and outsmart rival pirates to become the
-  richest buccaneer on the forsaken island.
+  3D 해적 테마 끝less 러너 'Island Of Treasures' 가이드입니다. 보석과 코인을 모으고, 함정을 피하며, 라이벌 해적을
+  따돌려 버려진 섬의 전설적인 부자가 되어 보세요.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/island-of-treasures.png
 tags:
@@ -18,32 +17,64 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Island Of Treasures*는 해적 세계를 배경으로 한 3D 끝less 러너입니다.
+플레이어는 용감한 해적이 되어, 끊임없이 변화하는 위험한 섬을
+달리면서 반짝이는 보물을 모아야 합니다.
 
-Island Of Treasures is an action-packed 3D endless runner game that plunges you into a thrilling pirate adventure. You play as a daring buccaneer, constantly running through a dynamic and treacherous island environment. Your mission is to collect as much gleaming treasure as possible, dodge deadly traps, and outsmart rival pirates who are also after the riches. The game tests your reflexes and agility as you strive to achieve the highest score and become the legendary pirate of the forsaken island.
+길 곳곳에는 함정과 장애물, 그리고 보물을 노리는 라이벌 해적들이
+숨어 있습니다. 빠른 반사 신경과 정확한 조작으로 이들을 피하며
+최대한 멀리 달리고, 최고 점수를 갱신하는 것이 목표입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Collect Everything:** Your primary goal is to collect coins, jewels, and other treasures scattered along your path. These contribute to your score and can be used to unlock upgrades or new characters.
-2.  **[KO]** **Master the Moves:** You'll need to quickly react to obstacles. Swipe left/right to change lanes, swipe up to jump over gaps and low obstacles, and swipe down to slide under high obstacles. Practice these moves to make them second nature.
-3.  **[KO]** **Utilize Power-ups:** Keep an eye out for power-ups like speed boosts, shields, or magnets. These temporary advantages can help you survive longer and collect more treasure. Use them strategically, especially in challenging sections.
-4.  **[KO]** **Avoid Collisions:** Hitting any obstacle or rival pirate will end your run. Always prioritize dodging over collecting if a collision is imminent.
+1. **보물은 최대한 챙기기**  
+   길 위에 흩어진 코인과 보석은 점수에 바로 반영될 뿐 아니라,
+   상점에서 업그레이드나 새로운 캐릭터를 여는 데도 쓰일 수 있습니다.
+   다만, 충돌이 우려될 때는 무리해서 줍지 말고 생존을 우선하세요.
 
-### Controls Guide
+2. **조작 감각 익히기**  
+- 좌우로 ** lane 변경**해 장애물이나 구덩이를 피하고,  
+- 점프로 낮은 장애물과 틈을 넘으며,  
+   - 슬라이드로 낮게 깔린 장애물 아래를 통과합니다.  
+   조작이 손에 익을수록 반응 속도가 빨라지고, 더 오래 버틸 수 있습니다.
 
-*   **[KO]** **Move Left/Right:** Use the **A/D keys** or **Left/Right Arrow keys** to change lanes.
-*   **[KO]** **Jump:** Press the **Spacebar** or **Up Arrow key** to jump.
-*   **[KO]** **Slide:** Press the **S key** or **Down Arrow key** to slide under obstacles.
+3. **파워업 적극 활용**  
+   속도 증가, 보호막, 자석과 같은 파워업을 잘 활용하면
+   짧은 시간에 많은 보물을 모으고, 실수를 한 번 정도는
+   안전하게 넘길 수 있습니다. 특히 난이도가 올라가는 구간에서는
+   보호막이 큰 도움이 됩니다.
 
-### Frequently Asked Questions (FAQ)
+4. **충돌은 곧 게임 오버**  
+   장애물이나 적 해적에게 부딪히면 러닝이 즉시 종료됩니다.
+   수집보다 회피를 먼저 생각하는 습관을 들이면 기록이 자연스럽게
+   상승합니다.
 
-*   **[KO]** **Q: What is the main objective of the game?**
-    *   **[KO]** **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.
+### 조작 가이드
 
-*   **[KO]** **Q: How do I attack rival pirates?**
-    *   **[KO]** **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
+- **좌/우 이동**: `A/D` 키 또는 방향키 좌/우로 레인을 변경합니다.  
+- **점프**: 스페이스바 또는 위쪽 방향키로 점프합니다.  
+- **슬라이드**: `S` 키 또는 아래쪽 방향키로 미끄러져 장애물 아래를
+  통과합니다.
 
-*   **[KO]** **Q: What happens if I fall into the water or hit an obstacle?**
-    *   **[KO]** **A:** Your run ends immediately, and you will have to start over from the beginning.
+### 자주 묻는 질문(FAQ)
+
+- **Q: 이 게임의 주 목표는 무엇인가요?**  
+  **A:** 가능한 한 멀리 달리면서 최대한 많은 보물을 모아,
+  최고 점수를 기록하는 것입니다.
+
+    - **Q: 라이벌 해적을 공격할 수 있나요?**  
+  **A:** 대부분의 끝less 러너와 마찬가지로, 직접적인 전투보다는
+  피하는 데 초점이 맞춰져 있습니다. 일부 버전에서는
+  특수 파워업으로 잠시 기절시키는 기능이 있을 수 있습니다.
+
+- **Q: 물에 빠지거나 장애물에 부딪히면 어떻게 되나요?**  
+
+    - **A:** Your run ends immediately, and you will have to start over from the beginning.
+
+- **Q: What happens if I fall into the water or hit an obstacle?**
+
+    - **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
+  **A:** 즉시 러닝이 종료되며, 처음부터 다시 시작해야 합니다.
 

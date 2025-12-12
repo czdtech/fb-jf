@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: g-switch-3
-title: '[KO] G-Switch 3'
+title: "G-Switch 3 고속 중력 러너"
 description: >-
-  [KO] High‑speed gravity runner with new traps and robust local multiplayer
-  modes that test timing and consistency.
+  새로운 함정과 강력한 로컬 멀티플레이 모드를 더한 고속 중력 전환 러너입니다.
+  빠르게 이어지는 장애물 구간을 정확한 타이밍과 일정한 리듬으로 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/g-switch-3.jpg
@@ -19,26 +19,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Faster sequences and complex trap chains that demand double‑flips and perfect timing; supports large local races.
+### 게임 개요
 
-### How to Play
-- Memorize chain traps; flip early before saws and late for low ceilings.
-- Practice recovery by chaining two flips in under a second.
-- Race friends locally if available.
+`G-Switch 3`는 시리즈 중에서도 속도가 더욱 빨라지고, 함정들이 체인처럼 이어지는
+고난도 중력 플립 러너입니다. 짧은 구간 안에서 여러 번 연속으로 중력을 바꿔야 하는
+상황이 자주 나오며, 많은 인원이 동시에 달리는 로컬 레이스도 지원합니다.
 
-### Controls
-- One key/tap to flip; per‑player keys in versus.
+### 플레이 방법
 
-### Tips
-- Keep eyes mid‑screen to read ahead.
-- Use music rhythm to stabilize your flip cadence.
+- 구멍과 톱날 앞에서 미리 중력을 뒤집어 캐릭터가 다음 표면으로 부드럽게 착지할 수
+  있게 하세요.
+- 낮은 천장, 연속 발판, 톱날 체인 등 각 구간의 패턴을 외우는 것이 중요합니다.
+  어떤 곳은 이른 타이밍, 어떤 곳은 최대한 늦게 눌러야 안전합니다.
+- 로컬 대전이 지원되는 버전이라면 여러 명이 함께 참가해, 누가 가장 오래 버티는지
+  또는 먼저 골인하는지 겨룰 수 있습니다.
 
-### FAQ
-- Q: What is the main difference from previous entries?
-A: Higher speed, trickier obstacles, and expanded local multiplayer.
-- Q: Can many players join on one keyboard?
-A: Some hosts allow large local lobbies with unique keys.
-- Q: Are there difficulty options?
-A: Difficulty scales with speed and obstacle density rather than a menu.
+### 조작 방법
 
+- 기본적으로 하나의 키 또는 터치 입력만으로 중력을 전환합니다.
+- 대전 모드에서는 플레이어마다 서로 다른 키가 지정되어, 한 키보드에서 여러 명이
+  동시에 조작할 수 있습니다.
+
+### 플레이 팁
+
+- 캐릭터 바로 앞보다는 화면의 중간~앞쪽을 보면서 다가오는 함정을 미리 읽으면
+  실수를 줄일 수 있습니다.
+- 음악 비트와 함께 버튼을 누르는 리듬을 맞추면 일정한 템포를 유지하기 쉽습니다.
+- 실수를 만회하기 위해 짧은 시간 안에 두 번 연속 플립을 사용하는 연습을 해 두면,
+  애매한 착지에서 다시 자세를 잡는 데 도움이 됩니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 이전 시리즈와 가장 크게 다른 점은 무엇인가요?  
+  A: 전반적인 속도가 빨라지고 함정 패턴이 더 복잡해졌으며, 한 키보드에 많은 인원이
+  동시에 참가할 수 있는 로컬 멀티플레이가 강화된 점이 특징입니다.
+- Q: 한 키보드에서 여러 명이 함께 할 수 있나요?  
+  A: 네. 많은 호스트에서 여러 플레이어에게 각각 다른 키를 배정해, 큰 로비를
+  구성할 수 있습니다.
+- Q: 난이도 옵션이 따로 있나요?  
+  A: 별도 난이도 메뉴보다는 속도와 장애물 밀도가 올라갈수록 자연스럽게 난이도가
+  높아지는 구조입니다.

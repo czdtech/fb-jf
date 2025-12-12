@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: get-10-ultimate
-title: '[ZH TRANSLATION NEEDED] Get 10 Ultimate'
+title: "Get 10 Ultimate 數字合成終極版"
 description: >-
-  [ZH TRANSLATION NEEDED] A challenging number puzzle! Tap on adjacent,
-  identical numbers to merge them into a higher number. Can you make it to 10
-  and beyond?
+  具挑戰性的數字拼圖遊戲！點擊相鄰且相同的數字方塊，將它們合併成更高的數字。
+  你能一路合成到 10，甚至更高嗎？
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/get-10-ultimate.png
 tags:
@@ -19,28 +18,38 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Get 10 Ultimate is a simple yet deeply strategic number puzzle game. The board is filled with numbered tiles, and your goal is to combine them to create higher numbers. You do this by tapping on a group of two or more adjacent, identical numbers. This merges the entire group into a single new tile with a value that is one higher. The initial challenge is to reach the number 10, but the ultimate goal is to continue merging for as long as possible to achieve the highest number and score.
+《Get 10 Ultimate》規則簡單但極具策略深度。棋盤上布滿標有數字的方塊，
+你的目標是將它們合併成更大的數字。只要點擊相鄰且數字相同的方塊群（至少 2 個），
+整個群組就會合併成一個新方塊，數值+1。起初的挑戰是合成出數字 10，
+但真正的目標是盡可能延長局面、合出更高數字與更高分。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Think Before You Tap:** Every tap changes the layout of the board. Before you merge a group, consider how the tiles above will fall and what new groups might form. A good move can set up an even better move.
-2.  [ZH TRANSLATION NEEDED] **Create Large Groups:** While you can merge a group of just two tiles, it's much more efficient to create and merge larger groups. Try to maneuver tiles so that you have big clusters of the same number next to each other before you tap.
-3.  [ZH TRANSLATION NEEDED] **Don't Isolate High Numbers:** Be careful not to create a single high number that is surrounded by many different, lower numbers. This can make it very difficult to create another high number to merge it with, effectively blocking a large part of your board.
-4.  [ZH TRANSLATION NEEDED] **Work from the Bottom:** Making matches near the bottom of the board will cause the most tiles to shift, increasing the chances of creating new, unplanned matches as tiles fall into place.
+
+1.  **下手前先想一想：** 每一次點擊都會改變整個棋盤的布局。
+    在合併前先想想上方方塊會如何掉落、是否能形成新的大型群組，一步好棋常常能為下一步鋪路。
+2.  **盡量做大團：** 雖然只需 2 個方塊就能合併，但效率很差。
+    盡量透過移位讓同數字方塊聚成大團再合成，既能清更多空間，又更容易累積高數字。
+3.  **避免孤立高數字：** 小心不要造出一個被各種低數字包圍的「孤立大數」，
+    那會讓你很難再湊出另一個同級數字與之合併，等於把一大片區域鎖死。
+4.  **多從底部動手：** 在棋盤底部進行合併會帶動最多方塊掉落，
+    容易產生意想不到的新組合，增加連鎖與轉機的機會。
 
 ### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game is played with a single click or tap.
+本遊戲全程只需點擊或輕觸即可操作。
 
-*   **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
+*   **合併數字：** 點擊任意一團相鄰且相同數字的方塊（至少 2 格），
+    新的較大數字會出現在你點擊的那個格子上。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.
+*   **問：遊戲的目標是什麼？**
+    *   **答：** 初階目標是成功合成出「10」，進階目標則是在棋盤鎖死前，
+        看你能把數字合到多高、分數能刷到多高。
 
-*   **Q: How does the game end?**
-     *   **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
+*   **問：什麼情況下遊戲會結束？**
+    *   **答：** 當棋盤上再也沒有兩個相鄰格子具有相同數字，也就是完全沒有可合併的群組時，
+        本局遊戲就會結束。
 
-*   **Q: Does the new tile appear in a random spot?**
-     *   **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
-
+*   **問：合併後的新數字會出現在隨機位置嗎？**
+    *   **答：** 不會，新生成的較大數字會固定出現在你點擊的那一格，其餘被合併的方塊會消失，上方方塊落下補位。

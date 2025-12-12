@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: futoshiki
-title: '[DE] Futoshiki'
+title: "Futoshiki"
 description: >-
-  [DE] Futoshiki sharpens logic — place digits with row/column uniqueness while
-  honoring inequality signs for elegant deductions.
+  Futoshiki schärft deine Logik: Trage Ziffern so ein, dass jede Zeile und
+  Spalte alle Zahlen genau einmal enthält und alle Ungleichheitszeichen
+  eingehalten werden.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/futoshiki.jpg
 tags:
@@ -14,37 +15,46 @@ score: 4.3/5  (2098 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Futoshiki ("nicht gleich") ist ein Logikrätsel ähnlich wie Sudoku, basiert aber
+auf einem Lateinischen Quadrat mit zusätzlichen Ungleichheitszeichen (>
+oder <) zwischen Nachbarfeldern. Du musst Ziffern so setzen, dass jede Zeile
+und jede Spalte jede Zahl genau einmal enthält und zugleich jedes
+Ungleichheitszeichen erfüllt ist. Die Zeichen bilden Ketten, mit denen sich
+starke Schlussfolgerungen ableiten lassen.
 
+### Strategie & Tipps
 
+1. **Ungleichheitsketten auswerten:** Aus A > B > C folgt z.B. A ≥ C + 2. Setze
+   entsprechende Kandidaten nur in die erlaubten Bereiche.
+2. **Extremwerte erkennen:** Ketten wie A > … > B begrenzen A nach oben und B
+   nach unten. Nutze 1/Max-Ausschlüsse an den Kettenenden.
+3. **Zeilen- und Spaltenscans:** Wende die Latin-Square-Regel konsequent an, um
+   Kandidaten zu streichen – jede Zahl darf pro Zeile/Spalte nur einmal
+   vorkommen.
+4. **Kontrollierte Annahmen:** Wenn du nicht weiterkommst, kannst du auf engen
+   Feldern eine Zahl probeweise setzen und zurückrudern, wenn eine
+   Ungleichung bricht oder doppelte Zahlen entstehen.
+5. **Symmetrien nutzen:** Viele Rätsel sind symmetrisch aufgebaut; oft lassen
+   sich auf einer Seite gefundene Strukturen auf die andere übertragen.
 
-### Detailed Game Introduction
+### Steuerung
 
-Futoshiki ("not equal") is a Latin‑square logic puzzle like Sudoku but with inequality signs (>, <) between neighboring cells. You must place digits so each row/column contains all numbers exactly once and every inequality is satisfied. The signs create strong chains that power elegant deductions.
+- Tippe ein Feld an, um Kandidaten oder feste Werte einzutragen; wechsle in den
+  Notizmodus nach Bedarf; Rückgängig/Wiederherstellen über Buttons.
 
-### Gameplay Strategy & Walkthrough
+### Häufige Fragen (FAQ)
 
-1.  **[DE]** Inequality chains: A>B>C means A≥C+2; pencil candidates accordingly.
-2.  **[DE]** Extremes: A>…>B bounds A high and B low; use 1/Max eliminations on chain ends.
-3.  **[DE]** Row/column scans: Apply Latin constraints to prune candidates aggressively.
-4.  **[DE]** Contradiction loops: Assume a value on tight cells; backtrack if an inequality breaks or row/col duplicates.
-5.  **[DE]** Symmetry: Balanced puzzles often have mirrored inequality structures — exploit them.
+- **F: Ich komme nicht weiter – irgendein Tipp?**  
+  **A:** Wandle Ungleichheitsketten explizit in Grenzen um (z.B. wenn 5 > □ > 3,
+  dann kann das mittlere Feld nur 4 sein) und kombiniere das mit Zeilen-/
+  Spaltenausschlüssen.
 
-### Controls Guide
+- **F: Muss ich raten?**  
+  **A:** Gut gestaltete Futoshiki-Rätsel sind rein logisch lösbar. Im Notfall
+  helfen kontrollierte Annahmen mit schnellem Backtracking.
 
-- Tap a cell to enter candidates/values; toggle pencil mode; undo/redo.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I can’t progress — any tip?
-
-A: Expand inequality chains into explicit bounds (e.g., if 5>□>3 then middle ∈ {4}); combine with row/col hits.
-
-- Q: Are guesses required?
-
-A: Good sets are solvable logically; at worst use controlled assumptions with quick backtrack.
-
-- Q: Difference vs Sudoku?
-
-A: Inequalities add directed constraints, enabling stronger forced moves.
-
+- **F: Worin unterscheidet es sich von Sudoku?**  
+  **A:** Die Ungleichheitszeichen geben gerichtete Zusatzinfos, mit denen du
+  stärker erzwungene Züge findest als nur über Kandidatenzählung.

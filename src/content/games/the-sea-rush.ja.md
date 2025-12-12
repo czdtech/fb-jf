@@ -1,45 +1,54 @@
 ---
-locale: ja
+title: The Sea Rush
+description: The Sea Rushは、海をテーマにしたエンドレスランナーゲームです。波を乗り越え、障害物を避けて進みましょう。
+iframeSrc: 'https://ubg98.github.io/TheSeaRush/'
+thumbnail: /new-images/the-sea-rush.jpg
 urlstr: the-sea-rush
-title: '[JA TRANSLATION NEEDED] The Sea Rush'
-description: >-
-  [JA TRANSLATION NEEDED] Dive into The Sea Rush, an exciting underwater
-  adventure. Collect treasures and avoid dangers from the deep.
-iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
-thumbnail: /new-images/the-sea-rush.png
+score: 4.3/5  (2234 votes)
 tags:
-  - adventure
-  - action
-score: 4.1/5 (1234 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - runner
+  - endless
+  - ocean
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+The Sea Rushは、美しい海をテーマにしたエンドレスランナーゲームです。波を乗り越え、海の障害物を避けて、できるだけ遠くまで進みましょう。
 
-[JA TRANSLATION NEEDED] The Sea Rush is a match-3 puzzle game where players embark on an underwater adventure. The objective is to align three or more similar sea animals in a row or column by swapping adjacent animals.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
 
-[JA TRANSLATION NEEDED] Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
+Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
+ - **走る：** 海を通って前進します
+ - **ジャンプ：** 波と障害物を飛び越えます
+ - **スライド：** 低い障害物をスライドで通過します
+ - **収集：** アイテムとパワーアップを集めます
 
-### Controls Guide
+### 操作ガイド
 
-*   **Mouse:** Click to swap adjacent sea animals.
-    - **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.（日本語訳が必要）
-    - **A:** Clearing more than three animals at once or creating combos will award you with more points.（日本語訳が必要）
-    - **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.（日本語訳が必要）
-    - **A:** Clearing more than three animals at once or creating combos will award you with more points.（日本語訳が必要）
-*   **Touchscreen:** Swipe to swap adjacent sea animals.
+ - **上矢印/W：** ジャンプ
+ - **下矢印/S：** スライド
+ - **左/右矢印/A/D：** 左右に移動
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-*   **Q: What is the goal of the game?**
 
-    - **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-[JA TRANSLATION NEEDED]     *   **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-*   **Q: How do I get more points?**
+- **A:** Clearing more than three animals at once or creating combos will award you with more points.
 
-    - **A:** Clearing more than three animals at once or creating combos will award you with more points.
-[JA TRANSLATION NEEDED]     *   **A:** Clearing more than three animals at once or creating combos will award you with more points.
+    - **Q: How do I get more points?**
 
+- **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
+
+    - **Q: What is the goal of the game?**
+**ゲームの目標は何ですか？**
+
+できるだけ遠くまで走り、障害物を避けて高得点を獲得することです。
+
+**パワーアップは何ですか？**
+
+スピードアップ、シールド、マグネットなどのパワーアップがあります。
+
+**ゲームは終わりがありますか？**
+
+いいえ、エンドレスランナーなので、クラッシュするまで続きます。

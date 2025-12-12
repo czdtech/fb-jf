@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: emoji-with-friends
-title: '[ZH TRANSLATION NEEDED] Emoji With Friends'
+title: "Emoji With Friends 表情派對益智"
 description: >-
-  [ZH TRANSLATION NEEDED] Emoji With Friends is a light party‑puzzle — match,
-  deduce, and race your friends with expressive emoji logic.
+  Emoji With Friends 是一款輕鬆的派對類益智遊戲，用各種表情符號進行配對與推理，
+  和好友比拼誰先完成目標。
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/emoji-with-friends.png
 tags:
@@ -18,24 +18,37 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Emoji With Friends blends quick matching and light deduction using expressive emoji tiles. Depending on mode, you’ll connect sets, complete mini‑goals, or race an opponent to solve boards first. Short rounds, readable visuals, and low barrier to entry make it a friendly party pick.
+《Emoji With Friends》把節奏快速的配對玩法和輕度推理解謎結合在一起，
+以各種表情符號作為棋子。依照不同模式，你可能要湊成指定組合、完成小目標，
+或與朋友比賽誰能最先解完整個棋盤。每一局都很短暫、畫面又好讀，
+非常適合當作線上或線下小聚會的暖場遊戲。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Scan patterns: Identify frequent emoji sets to build quick chains.
-2.  [ZH TRANSLATION NEEDED] Prioritize objectives: If a round has specific goals, complete them before chasing decorative matches.
-3.  [ZH TRANSLATION NEEDED] Deny opponents (vs): Claim contested tiles early to slow their chains.
-4.  [ZH TRANSLATION NEEDED] Keep the board open: Avoid cluttering the center; leave space for future matches.
-5.  [ZH TRANSLATION NEEDED] Time your boosts: Save power‑ups for tight races or to break board stalls.
+
+1.  **掃描圖案：** 開局先快速掃描整個棋盤，找出出現頻率高、容易構成組合的表情，
+    以它們為核心建立連鎖。
+2.  **優先完成目標：** 若本回合有明確目標（例如消除指定表情、完成特定形狀），
+    先把任務做完，再去追求額外的加分配對。
+3.  **對戰時要「斷路」：** 在對戰模式中，如果看到對手正在佈局某條連鎖，
+    儘早搶下關鍵格子，打亂對方的節奏。
+4.  **保持棋盤開放：** 盡量不要把中央區域堆得太擁擠，留一些空間給之後的連線或消除，
+    才不會很快陷入無路可走的局面。
+5.  **道具時機：** 有道具時，留到局勢膠著或你需要突然反超的關鍵回合再用，
+    效果會比一開始就亂丟好得多。
 
 ### Controls Guide
 
-- Select/Match: Click/tap emoji to make valid connections per mode rules.
-- Power‑ups (if any): Activate via on‑screen buttons.
-- Online/local: Modes vary; many are quick local sessions.
+- **選取／配對：** 根據當局模式的規則，點擊或輕觸表情方塊，完成有效的配對或消除。
+- **道具使用：** 若有提供增益或干擾道具，可透過螢幕上的按鈕啟動，再依提示選擇目標。
+- **連線方式：** 遊戲可能支援線上或本地 2 人模式，多數局數都以短局快節奏為主。
 
 ### Frequently Asked Questions (FAQ)
 
-- Is it competitive or solo? Modes vary; local head‑to‑head is common.
-- Are there complex rules? Generally simple—read each mode’s objective before starting.
-- How long is a round? Usually under a couple of minutes, suitable for quick sessions.
+- 問：這款是對戰遊戲還是單機遊戲？  
+  答：依模式而定，但常見的是本地頭對頭或輪流操作的派對玩法，也有偏單人闖關模式。
 
+- 問：規則會很複雜嗎？  
+  答：整體相當簡單，上場前看一下當局模式的目標與條件，大多幾秒鐘就能理解。
+
+- 問：一局大約要玩多久？  
+  答：通常一局都在幾分鐘以內，非常適合零碎時間或朋友聚會中快速來上幾把。

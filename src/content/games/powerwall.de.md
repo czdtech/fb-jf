@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: powerwall
-title: '[DE] Powerwall'
+title: Powerwall
 description: >-
-  [DE] Defend your goal in Powerwall, a fast-paced arcade game. Use your paddle
-  to block incoming balls and unleash powerful abilities.
+  Verteidige dein Tor in Powerwall, einem schnellen Arcade-Reflexspiel.
+  Aktiviere im richtigen Moment deine Energiewand und blocke den Ball, bevor er
+  die Ziellinie überquert.
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/powerwall.png
 tags:
@@ -16,32 +17,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Powerwall ist ein minimalistisches, sehr schnelles Arcade-Spiel, das deine
+ Reaktionsfähigkeit testet. Deine Aufgabe ist es, die Torlinie mit einer kurzen,
+ temporären Energiewand – der Powerwall – zu schützen. Der Ball prallt im Feld
+ herum und wird mit der Zeit immer schneller. Je länger du durchhältst, ohne
+ den Ball durchzulassen, desto höher wird dein Score.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Timing ist alles:** Der Kern des Spiels ist der richtige Moment, in dem
+    du die Powerwall aktivierst. Zu früh – und die Wand verschwindet, bevor der
+    Ball ankommt. Zu spät – und er rutscht durch. Übe, den Rhythmus zu fühlen.
+2.  **Ballflug im Blick:** Konzentriere dich ausschließlich auf die Bahn des
+    Balls. Verfolge seine Abpraller von den Wänden und schätze ab, wann er die
+    Torlinie erreicht.
+3.  **Ruhe bewahren:** Mit zunehmender Geschwindigkeit ist die Versuchung groß,
+    hektisch zu klicken. Bleib ruhig und löse nur wirklich notwendige
+    Reaktionen aus.
+4.  **Winkel lernen:** Achte darauf, in welchen Winkeln der Ball von den
+    Begrenzungen abprallt. Dann kannst du seine nächste Position besser
+    voraussehen.
 
-Powerwall is a minimalist, high-energy arcade game that tests your reflexes and timing. The objective is to defend your goal line by activating a temporary energy barrier—the Powerwall—to block a fast-moving ball. As the ball ricochets around the arena, its speed increases, demanding quicker reactions. The longer you can survive without letting the ball pass, the higher your score will be.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+*   **Powerwall aktivieren:** Klicke mit der linken Maustaste oder tippe auf
+    den Bildschirm, um die Energiewand kurz aufzubauen. Sie bleibt nur einen
+    Augenblick aktiv – Timing ist entscheidend.
 
-1.  **[DE]** **Timing is Everything:** The core mechanic is activating your Powerwall at the precise moment the ball is about to hit your goal line. Activate it too early, and the wall will disappear. Activate it too late, and the ball will get through. Practice your timing to get a feel for the rhythm.
-2.  **[DE]** **Focus on the Ball:** Keep your eyes locked on the ball's trajectory. Don't get distracted by anything else on the screen. Anticipate its path after it bounces off other walls.
-3.  **[DE]** **Stay Calm Under Pressure:** As the ball speeds up, it's easy to panic and click too early. Try to remain calm and focused, reacting only when necessary.
-4.  **[DE]** **Learn the Angles:** Pay attention to the angles at which the ball bounces. This will help you predict where it will go next and prepare for your next block.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   **F: Wie sammle ich Punkte?**
+    **A:** Jeder erfolgreich abgewehrte Ball gibt Punkte. Je länger du ohne
+    Fehler spielst, desto höher fällt dein Score aus.
 
-*   **[DE]** **Activate Powerwall:** Click the left mouse button or tap the screen to activate your energy barrier. The wall only stays active for a very short period, so timing is critical.
+    - **F: Kann ich den Ball verlangsamen?**
+    **A:** In der Standardvariante wird der Ball nur schneller – es gibt keine
+    Brems-Power-ups. Die Herausforderung besteht darin, dich an das Tempo
+    anzupassen.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Was ist das Ziel des Spiels?**
 
-*   **[DE]** **Q: How do I score points?**
-    *   **[DE]** **A:** You score points for each successful block you make with your Powerwall. The score increases with every successful defense.
+    - **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.
 
-*   **[DE]** **Q: Is there any way to slow the ball down?**
-    *   **[DE]** **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.
+- **Q: What is the goal of the game?**
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.
-
+    - **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.
+    **A:** So lange wie möglich durchhalten und einen neuen Highscore aufstellen,
+    ohne dass der Ball dein Tor passiert.

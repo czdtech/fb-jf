@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: incredibox-fruity
-title: '[ES] Incredibox Fruity'
+title: Incredibox Fruity
 description: >-
-  [ES] iscover the ultimate guide to Incredibox Fruity, the classic strategy
-  game. Learn winning strategies, controls, and tips to evolve your army from
-  cavemen to future warriors and dominate the battlefield.
+  Descubre la guía definitiva de Incredibox Fruity, el clásico juego de
+  estrategia 2D. Aprende tácticas ganadoras, controles y trucos para hacer
+  evolucionar tu ejército desde cavernícolas hasta guerreros futuristas y
+  dominar el campo de batalla.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/age-of-war.jpg
 tags:
@@ -15,50 +16,92 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción detallada
 
+Incredibox Fruity es un clásico juego de estrategia 2D de desplazamiento lateral
+que se hizo muy popular en la era de los juegos Flash. La idea central es una
+batalla entre dos bases: la tuya y la de la IA enemiga. Su rasgo más distintivo
+es la mecánica de **evolución**. Empiezas en la Edad de Piedra (como
+cavernícola) y debes ganar puntos de experiencia (XP) para avanzar por cinco
+eras distintas: Edad de Piedra, Edad Media, Edad Moderna y, por último, el
+Futuro. Cada evolución no solo desbloquea unidades y torretas defensivas más
+poderosas, sino que también restaura por completo la vida de tu base. El objetivo
+ final es sencillo: sobrevivir al asedio enemigo y destruir su base.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Incredibox Fruity is a classic 2D side-scrolling strategy game that became widely popular during the Flash game era. The game's core concept is a battle between two bases, one belonging to the player and the other to an AI opponent. The unique and defining feature of the game is its "evolution" mechanic. Players start in the Stone Age (as cavemen) and must earn experience points (XP) to advance through five distinct eras: Stone Age, Middle Ages, Modern Age, and finally, the Future Age. Each evolution not only unlocks more powerful units and defensive turrets but also fully restores your base's health. The ultimate goal is simple: survive the enemy's onslaught and destroy their base.
+Dominar Incredibox Fruity exige equilibrio entre ataque, defensa y buena sincronización.
 
-### Gameplay Strategy & Walkthrough
+#### 1. Estrategia de early game (Edad de Piedra)
+*   **La avalancha de cavernícolas:** La apertura más común y efectiva es
+    sacar en masa la unidad más barata, el "Club Man". Son muy rentables y pueden
+    abrumar rápido al enemigo en los primeros compases.
+*   **Prioriza el XP:** Tu meta principal es matar unidades enemigas para ganar
+    experiencia lo antes posible. Una ofensiva fuerte acelera la obtención de XP
+    y te permite evolucionar antes.
+*   **Primera torreta:** Construye la primera torreta (Sling Shot) en cuanto
+    puedas permitírtela. Aporta apoyo defensivo crucial y te ayuda a conservar
+    unidades y vida mientras ahorras para tropas más fuertes o tu primera
+    evolución.
 
-Mastering Incredibox Fruity requires a balance of offense, defense, and strategic timing.
+#### 2. Estrategia de mid game (Edad Media y Moderna)
+*   **Ejército equilibrado:** Deja de depender de una sola unidad. Forma una
+    fuerza equilibrada. Coloca unidades cuerpo a cuerpo (caballeros, infantería)
+    al frente para absorber daño y protege detrás a tus unidades a distancia
+    (arqueros, fusileros).
+*   **Cuándo evolucionar:** Sincronizar la evolución es clave. El mejor momento
+    para evolucionar suele ser cuando tu base tiene poca vida, ya que la
+    evolución la restaura por completo. Otra opción es evolucionar cuando tengas
+    una clara ventaja en el campo, para presionar con unidades superiores. Evita
+    evolucionar en mitad de un empuje fuerte, porque eliminarás tus propias
+    tropas del tablero.
+*   **Usa la habilidad especial:** Cada era tiene una habilidad especial poderosa
+    (por ejemplo, lluvia de meteoritos o ira divina). Tiene un enfriamiento
+    largo pero puede cambiar el curso de la batalla. Úsala para borrar una gran
+    oleada enemiga o reforzar tu ofensiva principal.
 
-#### 1. Early Game Strategy (Stone Age)
-*   **[ES]** **The Caveman Rush:** The most common and effective opening strategy is to spam the cheapest unit, the "Club Man." They are cost-effective and can quickly overwhelm the enemy in the early stages.
-*   **[ES]** **Focus on XP:** Your primary goal is to kill enemy units to gain XP as quickly as possible. A strong offensive push helps you earn XP faster, leading to an earlier evolution.
-*   **[ES]** **First Turret:** Build the first turret (Sling Shot) as soon as you can afford it. It provides crucial defensive support and helps you conserve units and health while you save up for more powerful troops or your first evolution.
+#### 3. Estrategia de late game (Futuro)
+*   **El Súper Soldado:** En la era del Futuro, el "Super Soldier" es una de las
+    unidades más fuertes del juego. Es caro pero muy resistente y con enorme
+    potencia de fuego. Ahorrar para sacar unos cuantos puede darte una fuerza
+    casi imparable.
+*   **Torretas avanzadas:** Mejora tus torretas al máximo. Las torretas de la
+    última era infligen muchísimo daño y son esenciales para detener a las
+    unidades futuristas enemigas.
+*   **Empuje final:** Coordina tus unidades más poderosas con la habilidad
+    especial para lanzar un asalto definitivo y destruir la base rival.
 
-#### 2. Mid-Game Strategy (Middle Ages & Modern Age)
-*   **[ES]** **Balanced Army:** Stop spamming only one type of unit. Create a balanced force. Place melee units (knights, infantry) at the front to absorb damage and protect your powerful but fragile ranged units (archers, riflemen) in the back.
-*   **[ES]** **When to Evolve:** Timing your evolution is critical. The best time to evolve is when your base health is low, as evolving fully restores it. Alternatively, evolve when you have a clear battlefield advantage to press your attack with superior units. Don't evolve if you are in the middle of a strong push, as it will clear all your units from the field.
-*   **[ES]** **Use Your Special Ability:** Each age comes with a powerful special ability (e.g., meteor shower, god's wrath). These have a long cooldown but can turn the tide of a battle. Use them to wipe out a large wave of enemy units or to support your own major offensive.
+### Guía de controles
 
-#### 3. Late Game Strategy (Future Age)
-*   **[ES]** **The Super Soldier:** In the Future Age, the "Super Soldier" is one of the most powerful units in the game. They are expensive but incredibly durable and have immense firepower. Saving up for a few of these can create an unstoppable force.
-*   **[ES]** **Advanced Turrets:** Fully upgrade your turrets. The final-era turrets deal massive damage and are essential for defending against the enemy's powerful futuristic units.
-*   **[ES]** **Final Push:** Coordinate your most powerful units with your special ability for a final, decisive push to destroy the enemy base.
+El juego se maneja casi por completo con el ratón.
 
-### Controls Guide
+*   **Entrenar unidades:** haz clic en los iconos de unidad en la esquina
+    superior izquierda para entrenarlas (si tienes suficiente oro).
+*   **Construir torretas:** haz clic en los huecos de torreta sobre tu base para
+    abrir el menú y elegir qué construir.
+*   **Usar la habilidad especial:** haz clic en el icono de habilidad en la
+    esquina superior derecha cuando esté disponible (sin enfriamiento).
+*   **Evolucionar:** pulsa el botón "Evolve" en la parte superior derecha cuando
+    hayas acumulado suficiente XP.
 
-The game is controlled almost entirely with the mouse.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Train Units:** Click on the unit icons at the top-left of the screen to train them. You must have enough gold.
-*   **[ES]** **Build Turrets:** Click on the empty turret slots on top of your base to open the build menu, then select a turret to construct.
-*   **[ES]** **Use Special Ability:** Click the special ability icon on the top-right of the screen when it's ready (not on cooldown).
-*   **[ES]** **Evolve:** Click the "Evolve" button at the top-right of the screen once you have accumulated enough XP.
+*   **P: ¿Cómo consigo XP?**
+    *   **R:** Obtienes puntos de experiencia (XP) cada vez que una de tus
+        unidades elimina a una unidad enemiga.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la mejor unidad del juego?**
+    *   **R:** Depende de la situación, pero el "Super Soldier" del Futuro suele
+        considerarse la unidad más completa por su vida y daño. Al inicio, el
+        Club Man básico es de lo más eficiente por su relación coste/impacto.
 
-*   **[ES]** **Q: How do I get XP?**
-    *   **[ES]** **A:** You gain Experience Points (XP) every time one of your units kills an enemy unit.
+*   **P: ¿Compensa construir más torretas o entrenar más unidades?**
+    *   **R:** Al principio, lo ideal es una mezcla: una o dos torretas te dan
+        defensa estable para ahorrar oro y lanzar un empuje ofensivo. En la fase
+        final, tener las torretas totalmente mejoradas es clave para sobrevivir.
 
-*   **[ES]** **Q: What is the best unit in the game?**
-    *   **[ES]** **A:** While it depends on the situation, the "Super Soldier" from the Future Age is widely considered the most powerful all-around unit due to its high health and damage. In the early game, the basic Club Man is the most effective for its cost.
-
-*   **[ES]** **Q: Is it better to build more turrets or train more units?**
-    *   **[ES]** **A:** In the early game, a mix is best. One or two turrets provide stable defense, allowing you to save gold for a strong offensive army. In the late game, having fully upgraded turrets is crucial for survival.
-
-*   **[ES]** **Q: Where can I play Incredibox Fruity now that Flash is gone?**
-    *   **[ES]** **A:** Many gaming websites like CrazyGames, Armor Games, and Kongregate now host Incredibox Fruity using Flash emulators (like Ruffle), making it fully playable in modern web browsers. There are also mobile versions available on iOS and Android app stores.
+*   **P: ¿Dónde puedo jugar Incredibox Fruity ahora que Flash ya no existe?**
+    *   **R:** Muchas webs de juegos (por ejemplo, CrazyGames, Armor Games o
+        Kongregate) lo alojan usando emuladores de Flash como Ruffle, así que
+        se puede jugar en navegadores modernos. También hay versiones móviles en
+        las tiendas de iOS y Android.

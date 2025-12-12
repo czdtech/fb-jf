@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: guess-the-word
-title: '[ES] Guess The Word'
+title: "Guess The Word"
 description: >-
-  [ES] Guess The Word is a clean word‑builder — connect letters, exploit
-  patterns, and clear crosswords with vocabulary and logic.
+  Guess The Word es un limpio juego de formar palabras: conecta letras,
+  aprovecha patrones y completa la sopa tipo crucigrama tirando de vocabulario
+  y lógica.
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/guess-the-word.png
 tags:
@@ -15,35 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Guess The Word combina la mecánica de unir letras con casillas de crucigrama.
+Arrastras sobre una rueda de letras para formar palabras válidas que se
+colocan en una cuadrícula. La dificultad aumenta con anagramas enrevesados,
+dígrafos raros y tableros con pocas vocales, premiando el reconocimiento de
+patrones y las conjeturas estratégicas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Guess The Word blends letter‑link input with crossword slots. You drag through letter wheels to form valid words that populate a grid. Difficulty grows with trick anagrams, uncommon digrams, and sparse vowels, rewarding pattern recognition and strategic guesswork.
+1. **Empieza por las palabras cortas obvias:** Sirven como anclas para cruzar
+   otras palabras.
+2. **Juega con prefijos y sufijos:** Combinaciones como re‑, un‑, ‑ing, ‑ed
+   (según el idioma del diccionario) ayudan a ampliar el abanico de opciones.
+3. **Usa la frecuencia de letras:** Vocales y consonantes comunes (E, A, R, S,
+   T, etc.) son buenos puntos de partida para buscar palabras.
+4. **Reserva palabras extra como bonus:** Las palabras no usadas en el tablero
+   suelen convertirse en monedas o pistas útiles en fases avanzadas.
+5. **Cuando te bloquees, cambia el orden mental:** Prueba a empezar desde el
+   centro de la rueda, o a leer las letras en otro sentido para descubrir
+   cadenas nuevas.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Start with obvious short words to anchor crossings.
-2.  **[ES]** Work from prefixes/suffixes (re‑, un‑, ‑ing, ‑ed) to inflate options.
-3.  **[ES]** Use letter frequency — E/A/R/S/T appear more; hunt words around them.
-4.  **[ES]** Bank bonus words for hints in late boards.
-5.  **[ES]** When stuck, reshuffle mental order (middle‑out) to discover new strings.
+- Arrastra para conectar letras y suelta para enviar la palabra; usa las pistas
+  solo cuando sea imprescindible.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to connect letters; release to submit; use hints sparingly.
+- **P: ¿Hay casillas que parecen imposibles, algún consejo?**  
+  **R:** Revisa los cruces y prueba anagramas usando las letras fijas (por
+  ejemplo, _ate → eat/tea/eta en inglés). Cambiar el orden a menudo desbloquea
+  la respuesta.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Se aceptan plurales o nombres propios?**  
+  **R:** Depende del diccionario de cada versión, pero por lo general no se
+  permiten nombres propios.
 
-- Q: A slot seems impossible — tips?
-
-A: Recheck crossings and try anagrams with the fixed letters (e.g., _ate → eat/tea/eta).
-
-- Q: Are plurals/proper nouns allowed?
-
-A: Depends on the dictionary; generally no proper nouns.
-
-- Q: Can I replay for more coins?
-
-A: Usually yes — revisit earlier grids for bonuses.
-
+- **P: ¿Puedo rejugar niveles para conseguir más monedas?**  
+  **R:** Normalmente sí; puedes volver a cuadrículas anteriores para obtener
+  bonos adicionales.

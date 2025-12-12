@@ -1,42 +1,35 @@
 ---
+title: "G-Switch 2"
+description: "重力反転ランナー続編：ソロまたはローカルマルチプレイでレースし、重力を反転させて速度上昇中のトラップを生き延びましょう。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html"
+thumbnail: "/new-images/g-switch-2.jpg"
+urlstr: "g-switch-2"
+score: "3.6/5  (331 votes)"
+tags: ["runner", "platformer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: g-switch-2
-title: '[JA TRANSLATION NEEDED] G-Switch 2'
-description: >-
-  [JA TRANSLATION NEEDED] Gravity‑flip runner sequel: race solo or in local
-  multiplayer, flipping gravity to survive traps at rising speed.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
-thumbnail: /new-images/g-switch-2.jpg
-tags:
-  - runner
-  - platformer
-score: 3.6/5  (331 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+新しい障害物とマルチプレイヤーレースを備えた、洗練された重力反転ランニングです。
 
+### 遊び方
+- 端とハザード（危険）の前にフリップのタイミングを計ります。
+- トラップのタイミングを学びます。一部は連続した素早いダブルフリップが必要です。
+- サポートされている場合、ローカルレースで友達に挑戦します。
 
-### Overview
-[JA TRANSLATION NEEDED] Refined gravity‑flip running with new obstacles and multiplayer races.
+### 操作方法
+- 単一キー/タップでフリップします。対戦モードではプレイヤーごとに固有のキーです。
 
-### How to Play
-- Time flips before edges and hazards.
-- Learn trap timings; some require double‑flips in quick succession.
-- Challenge friends in local races if supported.
+### ヒント
+- リズムを安定に保ちます。2回の素早いフリップでオーバーシュート（行き過ぎ）を修正できます。
+- 長いストレートでは低く留まります。天井には多くの場合トラップが隠されています。
 
-### Controls
-- Single key/tap to flip; unique keys per player in versus.
-
-### Tips
-- Keep rhythm steady; two quick flips can correct overshoots.
-- Stay low on long straights; ceilings often hide traps.
-
-### FAQ
-- Q: How does multiplayer work in this game?  
-[JA TRANSLATION NEEDED]   A: Each player uses a separate key to flip in shared‑screen races.
-- Q: Are there checkpoints in levels?  
-[JA TRANSLATION NEEDED]   A: Level mode may add checkpoints; endless mode does not.
-- Q: Can I remap keys?  
-[JA TRANSLATION NEEDED]   A: Many hosts allow key selection before starting.
-
+### よくある質問 (FAQ)
+- **Q: このゲームのマルチプレイヤーはどのように機能しますか？**  
+  A: 各プレイヤーは共有画面レースで別々のキーを使用してフリップします。
+- **Q: レベルにチェックポイントはありますか？**  
+  A: レベルモードではチェックポイントが追加される場合があります。エンドレスモードにはありません。
+- **Q: キーを再マップできますか？**  
+  A: 多くのホストでは、開始前にキー選択が可能です。

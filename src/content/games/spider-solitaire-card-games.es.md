@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: spider-solitaire-card-games
-title: '[ES] Spider Solitaire: Card Games'
+title: "Spider Solitaire: Card Games"
 description: >-
-  [ES] Challenge yourself with Spider Solitaire, a popular variant of the
-  classic card game. The objective is to clear the tableau by building eight
-  full sequences of cards from King down to Ace. With adjustable difficulty
-  levels (1, 2, or 4 suits), it's a strategic puzzle for all players.
-iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
-thumbnail: /new-images/spider-solitaire-card-games.jpg
+  Ponte a prueba con Spider Solitaire, una popular variante del solitario
+  clásico. El objetivo es limpiar el tablero construyendo ocho secuencias
+  completas de cartas, de Rey a As. Con niveles de dificultad ajustables (1, 2 o
+  4 palos), es un rompecabezas estratégico para todo tipo de jugadores.
+iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
+thumbnail: "/new-images/spider-solitaire-card-games.jpg"
 tags:
   - card-game
   - puzzle
@@ -17,37 +17,53 @@ score: 4.2/5  (1141 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+Spider Solitaire es una variante desafiante y muy popular del solitario clásico,
+que se juega con dos barajas estándar (104 cartas en total). El objetivo
+principal es limpiar toda la zona de juego formando ocho secuencias completas
+del mismo palo, ordenadas de Rey a As. Cuando completas una secuencia, se
+retira del tablero.
 
-### Game Introduction
+### Guía de juego
 
-Spider Solitaire is a challenging and popular variant of the classic solitaire card game, played with two standard decks of cards (104 cards total). The main goal is to clear the entire playing area by assembling eight complete same-suit sequences of cards, ordered from King down to Ace. Once a full sequence is built, it is removed from the game.
+- **Objetivo:** Construir ocho secuencias descendentes del mismo palo (Rey,
+  Reina, Jota..., As).
+- **Construcción en el tableau:** Puedes colocar una carta sobre otra si es
+  exactamente un rango inferior (por ejemplo, un 7 sobre un 8). Puedes apilar
+  cartas de palos distintos, pero solo puedes mover en bloque secuencias
+  perfectamente ordenadas y del mismo palo.
+- **Columnas vacías:** Cualquier carta o secuencia válida puede ocupar una
+  columna vacía.
+- **Mazo (stock):** Cuando ya no tengas movimientos útiles en el tableau, puedes
+  repartir una nueva fila de 10 cartas desde el mazo. Solo es posible hacerlo si
+  no hay columnas vacías.
 
-### Gameplay Guide
+### Guía de controles
 
-- **Objective:** Build eight descending sequences of the same suit (King, Queen, Jack, ..., Ace).
-- **Building on the Tableau:** You can place a card on top of another card if it is one rank lower (e.g., a 7 on an 8). While you can stack cards of different suits, you can only move a group of cards together if they are all of the same suit.
-- **Empty Columns:** An empty column can be filled with any available card or a sequence of cards.
-- **Stock Pile:** When you have no more available moves on the tableau, you can deal a new row of 10 cards from the stock pile. You can only do this when there are no empty columns.
+- **Ratón/Táctil:** Haz clic y arrastra las cartas para moverlas entre columnas.
+  La mayoría de versiones también permiten un solo clic para enviar una carta a
+  una posición válida si existe.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- **Mouse/Touch:** Click and drag cards to move them between columns. Most versions also support a single click to automatically move a card to a valid position if one exists.
+**¿Qué significan los distintos niveles de dificultad?**
 
-### Frequently Asked Questions (FAQ)
+La dificultad viene determinada por el número de palos usados:
+- **1 palo (principiante):** Las 104 cartas son del mismo palo, lo que facilita
+  formar secuencias.
+- **2 palos (intermedio):** Usas dos palos, por lo que debes gestionar secuencias
+  separadas.
+- **4 palos (avanzado):** La versión más complicada, con los cuatro palos.
 
-**What do the different difficulty levels mean?**
+**¿Por qué se llama Spider Solitaire?**
 
-The difficulty is determined by the number of suits used:
-- **1-Suit (Beginner):** All 104 cards are of a single suit, making it much easier to form sequences.
-- **2-Suit (Intermediate):** Uses two suits, requiring you to manage building separate sequences.
-- **4-Suit (Advanced):** The most challenging version, using all four suits.
+El nombre hace referencia a las ocho secuencias que debes construir, como las
+ocho patas de una araña.
 
-**Why is it called Spider Solitaire?**
+**¿Cuál es la estrategia principal?**
 
-The name comes from the eight sequences you need to build, corresponding to a spider's eight legs.
-
-**What is the main strategy?**
-
-Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
-
+Intenta vaciar columnas lo antes posible para disponer de espacio libre con el
+que reorganizar las cartas. También es crucial destapar cartas boca abajo para
+multiplicar tus opciones. Siempre que puedas, intenta construir secuencias del
+mismo palo.

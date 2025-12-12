@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: daily-sudoku-3
-title: '[DE] Daily Sudoku'
+title: Daily Sudoku
 description: >-
-  [DE] A new Sudoku puzzle every day to challenge your logic. Fill the 9x9 grid
-  so each row, column, and 3x3 box contains the digits 1 to 9 without
-  repetition.
+  Jeden Tag ein neues Sudoku-Logikrätsel: Fülle das 9×9-Gitter so, dass jede
+  Zeile, Spalte und jedes 3×3-Feld die Ziffern 1 bis 9 ohne Wiederholung
+  enthält.
 iframeSrc: >-
   https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
 thumbnail: /new-images/daily-sudoku-3.jpg
@@ -18,35 +18,44 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
+
+Auch dieses *Daily Sudoku* liefert dir täglich ein neues 9×9-Rätsel. Ziel und
+Logik sind identisch: Jede Zeile, Spalte und Box muss die Ziffern 1–9 genau
+ einmal enthalten. Unterschiedliche Schwierigkeitsgrade sorgen für Abwechslung.
+
+### Strategie & Tipps
+
+1.  Grundregel: Pro Zeile, Spalte und 3×3-Box jede Ziffer nur einmal.
+2.  Scannen: Prüfe Zeilen, Spalten und Boxen systematisch, um eindeutige
+    Platzierungen zu finden.
+3.  Notizen nutzen: Trage Kandidaten in schwierigen Feldern ein und streiche
+    sie konsequent, wenn neue Zahlen gesetzt werden.
+4.  Naked/Hidden Singles erkennen: Einziger Kandidat in einem Feld
+    ("naked") oder eine Zahl, die in einer Einheit nur einmal als Kandidat
+    vorkommt ("hidden"), sollte sofort gesetzt werden.
+5.  Fortgeschrittene Muster: Auf höheren Stufen helfen Techniken wie Paare,
+    Tripel oder X-Wing, um Kandidaten auszuschließen.
+
+### Steuerung
+
+*   Feld wählen und Zahl per Bildschirmnummern oder Tastatur eintragen.
+*   Notizmodus per Stift-Icon umschalten; Kandidaten erscheinen klein.
+*   Radiergummi für Zahl/Notizen löschen nutzen.
 
 
-### Detailed Game Introduction
+- **Eraser:** Use the eraser tool to clear a number or notes from a cell.
+### Häufige Fragen (FAQ)
 
-Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every single day. Sudoku is a world-renowned logic-based, number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9. It's a pure logic puzzle that requires no calculation or mathematical skills, only patience and concentration.
+*   F: Brauche ich Mathekenntnisse?
+    *   A: Nein, es geht nur um Logik und Muster.
 
-### Gameplay Strategy & Walkthrough
+*   F: Markiert das Spiel Fehler?
+    *   A: Viele Online-Versionen zeigen Konflikte sofort an; nutze das als
+        Lernhilfe, aber verlasse dich nicht nur darauf.
 
-1.  **[DE]** **The Basic Rule:** The golden rule of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box.
-2.  **[DE]** **Scanning (Cross-hatching):** The most basic solving technique. Pick an empty cell. Look at its row, column, and 3x3 box to see which numbers are already used. By process of elimination, you can often find the only possible number for that cell.
-3.  **[DE]** **Penciling In (Notes):** For more difficult puzzles, use the "notes" or "pencil" feature. In an empty cell, enter all the possible numbers that could legally go there. As you fill in other cells, you can eliminate candidates from your notes, eventually leaving only one possibility.
-4.  **[DE]** **Look for "Naked Singles":** This is when a cell has only one possible candidate number left in its notes. Fill that number in immediately.
-5.  **[DE]** **Look for "Hidden Singles":** This is when a candidate number appears only once within the notes of a specific row, column, or 3x3 box. Even if the cell itself has other candidates, that number must go in that cell for that specific row/column/box.
-
-### Controls Guide
-
-*   **[DE]** **Select a Cell:** Click on any empty cell in the 9x9 grid.
-*   **[DE]** **Enter a Number:** After selecting a cell, click on a number from the on-screen number pad to place it in the cell.
-*   **[DE]** **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
-*   **[DE]** **Eraser:** Use the eraser tool to clear a number or notes from a cell.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: Do I need to be good at math to play Sudoku?**
-    *   **[DE]** **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
-
-*   **[DE]** **Q: What happens if I enter a wrong number?**
-    *   **[DE]** **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-
-*   **[DE]** **Q: Why should I use the "Notes" feature?**
-    *   **[DE]** **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-
+*   F: Wann sollte ich raten?
+    *   A: Idealerweise gar nicht – gute Sudokus lassen sich logisch lösen.
+        Sollte ein Rätsel wirklich festgefahren wirken, kann ein
+        vorsichtiger "Guess" mit Notizen helfen, aber nutze diese Option nur
+        als letztes Mittel.

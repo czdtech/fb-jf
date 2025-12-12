@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: blocks-puzzle
-title: '[ES] Blocks Puzzle'
+title: "Blocks Puzzle"
 description: >-
-  [ES] Blocks Puzzle is a classic and addictive block puzzle game. Your goal is
-  to fit blocks of different shapes into a 10x10 grid.
+  Blocks Puzzle es un puzle de bloques clásico y adictivo. Tu objetivo es encajar
+  piezas de distintas formas en una cuadrícula de 10x10.
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/blocks-puzzle.jpg
 tags:
@@ -16,34 +16,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Blocks Puzzle es un puzle clásico y muy entretenido que pone a prueba tu
+capacidad espacial. El objetivo es sencillo: encajar bloques de distintas formas
+sobre una cuadrícula de 10x10. Cuando completas una fila o columna entera, esa
+línea se limpia, libera espacio y te da puntos. La partida termina cuando ya no
+puedes colocar ninguna de las piezas disponibles. Como no hay límite de tiempo,
+puedes pensar cada jugada con calma para alcanzar la máxima puntuación.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Blocks Puzzle is a classic and engaging puzzle game that challenges your spatial reasoning. The objective is simple: fit variously shaped blocks onto a 10x10 grid. When you complete a full row or column, the line clears, freeing up space and earning you points. The game ends when you can no longer place any of the given blocks on the grid. With no time limit, you can think strategically to achieve the highest score.
+1.  **Planifica con antelación:** Observa las tres piezas que tienes en mano.
+    Antes de colocar una, piensa cómo encajarán las otras dos y cómo afectará
+    tu movimiento al estado futuro del tablero.
+2.  **Prioriza limpiar líneas:** Tu objetivo principal es mantener el tablero lo
+    más despejado posible. Busca siempre oportunidades para limpiar líneas, aun
+    si eso significa renunciar a una colocación cómoda para una sola pieza.
+3.  **Crea combos:** Limpiar varias líneas de golpe con una sola pieza te dará
+    una bonificación de combo y una puntuación mucho mayor. Intenta preparar el
+    tablero para poder realizar estas limpiezas múltiples.
+4.  **No atasques el centro:** Es tentador rellenar el centro primero, pero así
+    puedes terminar con una cuadrícula atascada. Intenta construir desde las
+    esquinas y bordes hacia dentro, manteniendo el centro libre para piezas
+    grandes o de formas difíciles.
+5.  **Gestiona las formas complicadas:** Piezas como el cuadrado 3x3 o la línea
+    larga necesitan mucho espacio. Intenta usarlas en cuanto tengas un buen
+    hueco o reserva una zona para ellas. Guardarlas demasiado tiempo es arriesgado.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Plan Ahead:** Look at the three blocks you are given. Before placing one, consider how the other two might fit and how your move will affect the board's future state.
-2.  **[ES]** **Prioritize Clearing Lines:** Your main goal is to keep the board as clear as possible. Always look for opportunities to clear lines, even if it means sacrificing a seemingly good spot for a single block.
-3.  **[ES]** **Create Combos:** Clearing multiple lines with a single block placement will grant you a combo bonus and a significantly higher score. Try to set up the board to enable these multi-line clears.
-4.  **[ES]** **Don't Clog the Center:** It's tempting to fill the middle of the board first, but this can quickly lead to a clogged grid. Try to build from the corners and edges, keeping the center open for larger or more awkward pieces.
-5.  **[ES]** **Manage Difficult Shapes:** Some pieces, like the 3x3 square or the long straight line, require a lot of space. Try to use them as soon as you get them or ensure you have a dedicated space ready for them. Leaving them for later can be risky.
+*   **Arrastrar y soltar:** Usa el ratón para hacer clic y arrastrar un bloque
+    desde el área de selección hasta la cuadrícula.
+*   **Colocación:** Suelta el botón del ratón para dejar la pieza en la posición
+    deseada.
+*   **Sin rotación:** En esta versión del juego, los bloques no se pueden rotar.
+    Debes utilizarlos en la orientación en la que se presentan.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Drag and Drop:** Use your mouse to click and drag a block from the selection area onto the grid.
-*   **[ES]** **Placement:** Release the mouse button to place the block in the desired position.
-*   **[ES]** **No Rotation:** In this version of the game, blocks cannot be rotated. You must use them in the orientation they are given.
+*   **P: ¿Puedo rotar los bloques?**
+    *   **R:** No, en esta versión clásica del puzle de bloques no existe la
+        rotación. Esa limitación forma parte del reto.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo consigo una puntuación más alta?**
+    *   **R:** Céntrate en limpiar varias líneas a la vez para aprovechar los
+        combos. Cuantas más líneas limpies con una sola pieza, más puntos
+        obtendrás.
 
-*   **[ES]** **Q: Can I rotate the blocks?**
-    *   **[ES]** **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.
-
-*   **[ES]** **Q: How do I get a higher score?**
-    *   **[ES]** **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.
-
-*   **[ES]** **Q: What happens when I run out of moves?**
-    *   **[ES]** **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.
-
+*   **P: ¿Qué ocurre cuando me quedo sin movimientos?**
+    *   **R:** La partida termina cuando ninguna de las tres piezas disponibles
+        puede colocarse en la cuadrícula. En ese momento se registra tu
+        puntuación final.

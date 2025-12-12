@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: checkers
-title: '[KO] Checkers'
+title: Checkers 체커스
 description: >-
-  [KO] Learn the rules and strategies of Checkers, the classic board game.
-  Master diagonal moves, force captures, and crown your pieces to become a King
-  in this timeless test of wits.
+  Checkers는 Draughts로도 알려진 고전 보드게임입니다. 대각선 이동과 강제 잡기 규칙을 익히고, 자신의 말을 왕(King)으로
+  승격시켜 상대 말을 모두 잡아내거나 이동 불능 상태로 몰아 보세요.
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/checkers.jpg
@@ -16,55 +15,83 @@ score: 4.5/5  (596 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Checkers(체커스)는 전 세계적으로 즐겨지는 2인용 전략 보드게임으로, 일부 지역에서는
+Draughts라는 이름으로도 불립니다. 8x8 체커보드 위에서 한 플레이어는 짙은 색 말을,
+다른 플레이어는 밝은 색 말을 사용하며, 각자 12개의 말을 자신 쪽 세 줄의 어두운
+칸에 배치한 상태에서 게임을 시작합니다.
 
+목표는 상대 말을 모두 잡아내거나, 상대의 말이 더 이상 합법적인 수를 둘 수 없도록
+차단하는 것입니다. 규칙은 비교적 단순하지만, 수읽기와 포지션 싸움이 중요한 깊이
+있는 전략 게임입니다.
 
+**기본 규칙 요약**
 
+-   말은 항상 어두운 색 칸 위에서만 배치·이동할 수 있습니다.
+-   일반 말(Man)은 앞으로 대각선 한 칸씩만 이동할 수 있습니다.
+-   상대 말이 대각선 바로 앞 칸에 있고, 그 뒤 칸이 비어 있을 경우 그 말을
+    뛰어넘어 착지하면서 잡을 수 있습니다.
+-   잡을 수 있는 상황이 있을 때는 **반드시** 잡아야 하며, 연속 점프가 가능하면
+    한 턴에 모두 수행해야 합니다.
+-   자신의 말이 상대 진영의 맨 끝 줄에 도달하면 "왕(King)"으로 승격되며, 말 위에
+    표시가 붙습니다.
+-   왕은 앞·뒤 대각선 모두로 이동하고 잡을 수 있어 훨씬 강력합니다.
 
+### 플레이 전략
 
+-   **중앙 장악하기**  
+    보드 중앙을 장악하면 이동 가능한 칸이 늘어나고, 공격과 수비 모두에 유리해집니다.
+    말을 너무 구석으로만 몰지 말고, 중앙부에 적절히 배치해 두세요.
 
-### Game Introduction
+-   **뒷줄 유지하기**  
+    자신의 맨 뒷줄은 상대가 쉽게 왕을 만들지 못하게 막아 주는 최후의 방어선입니다.
+    게임 초반에는 뒷줄의 말을 섣불리 전진시키지 않는 편이 안전합니다.
 
-Checkers, also known as Draughts in many parts of the world, is a classic two-player strategy board game played on an 8x8 checkered board. One player has dark pieces, and the other has light pieces. The game begins with 12 pieces per player, placed on the dark squares of the first three rows on their respective sides of the board.
+-   **유리한 교환 만들기**  
+    자신의 말을 하나 희생하더라도 상대 말을 두 개 이상 잡아낼 수 있는 상황이라면
+    좋은 선택인 경우가 많습니다. 잡기 강제 규칙을 이용해, 상대가 선택의 여지 없이
+    나쁜 교환을 하게 만드는 함정을 노려 보세요.
 
-The objective of the game is to capture all of the opponent's pieces or to block them so that they have no legal moves left. The game is known for its relatively simple rules but deep strategic possibilities, making it accessible to beginners while still offering a challenge to experienced players.
+-   **두세 수 앞을 내다보기**  
+    체스와 마찬가지로, 체커스 역시 몇 수 앞을 미리 계산하는 것이 중요합니다.
+    지금 한 수가 다음 수에서 어떤 약점을 만드는지, 상대가 강제적으로 어떤 수를
+    두게 되는지 생각해 보세요.
 
-**Basic Rules:**
--   Pieces are always placed and moved on the dark squares only.
--   Standard pieces (men) can only move one square diagonally forward.
--   A piece captures an opponent's piece by jumping over it diagonally to an empty square immediately beyond it.
--   If a capture is available, it is **mandatory** to make that capture. If multiple captures are possible in a single turn (a chain jump), the player must complete the entire chain.
--   When a standard piece reaches the farthest row from its starting position (the opponent's back row), it is "crowned" and becomes a **King**.
--   A **King** can move diagonally both forwards and backwards, and can capture in both directions.
+-   **킹의 우위 활용**  
 
-### Gameplay Strategy
+- **The Power of Kings:** Getting the first King can be a game-changing advantage. A King is the most powerful piece on the board. Use it to hunt down your opponent's remaining pieces and control large areas of the board.
+    첫 번째 킹을 확보하는 순간부터 판세가 크게 기울 수 있습니다. 왕은 전후 이동이
+    가능하므로, 상대의 남은 말을 사냥하며 보드 전체를 장악하는 데 사용하세요.
 
--   **Control the Center:** The player who controls the center of the board has more mobility and more opportunities for both attack and defense. Try to position your pieces towards the middle.
--   **Keep Your Back Row Intact:** Your rearmost row of squares is your "home row." Protect it as long as possible. A solid back row prevents your opponent from easily getting a King.
--   **Force Trades to Your Advantage:** Don't be afraid to sacrifice one of your pieces if it allows you to capture one of your opponent's pieces in a more strategic position. A "2-for-1" trade, where you lose one piece to capture two of theirs, is always a good move.
--   **Think Ahead:** Like chess, Checkers is a game of foresight. Try to think at least two or three moves ahead. Anticipate your opponent's moves and plan your responses.
--   **Block Your Opponent:** Look for opportunities to trap your opponent's pieces. By strategically placing your checkers, you can limit their movement and eventually render them useless.
--   **The Power of Kings:** Getting the first King can be a game-changing advantage. A King is the most powerful piece on the board. Use it to hunt down your opponent's remaining pieces and control large areas of the board.
+### 조작 방법
 
-### Controls Guide
+디지털 버전에서는 보통 포인트 앤 클릭/탭 & 드래그로 조작합니다.
 
-In a digital version of Checkers, the controls are typically very simple point-and-click or tap-and-drag.
+-   **말 선택:** 이동 가능한 자신의 말을 클릭/탭하면 선택되며, 이동 가능한 칸이
+    하이라이트로 표시됩니다.
+-   **이동/점프:** 하이라이트된 칸을 클릭/탭해 말을 이동하거나, 점프해 상대 말을
 
--   **Select a Piece:** Click or tap on one of your pieces that is able to move. Valid moves will often be highlighted.
--   **Move a Piece:** Click or tap on the highlighted destination square to move your piece there.
--   **Jumping/Capturing:** If a capture is possible, the game will usually force you to select that piece. Click the piece and then the destination square to complete the jump. For multiple jumps, you simply continue clicking the next destination squares in the chain.
+- **Jumping/Capturing:** If a capture is possible, the game will usually force you to select that piece. Click the piece and then the destination square to complete the jump. For multiple jumps, you simply continue clicking the next destination squares in the chain.
+    잡습니다. 여러 번 연속 점프가 가능하면, 이어지는 착지 칸들을 차례로 선택하면
+    됩니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문 (FAQ)
 
-**1. Is capturing an opponent's piece optional?**
-> No. In standard American Checkers rules, if a capture is available, you **must** make that move. This is known as a "forced capture" and is a fundamental part of the game's strategy.
+**1. 상대 말을 잡을 수 있을 때 꼭 잡아야 하나요?**  
+> 네. 표준 아메리칸 체커스 규칙에서는 잡기 가능한 상황에서 반드시 잡아야 합니다.
+> 이 강제 잡기 규칙 덕분에, 상대에게 의도된 함정을 강요하는 전략이 자주 등장합니다.
 
-**2. What happens if I have multiple capture options?**
-> If you have a choice between different captures (e.g., two different pieces can each make a single jump), you can choose which one to make. If one piece has the option of a multi-jump sequence, you must take that sequence.
+**2. 여러 가지 잡기 옵션이 있을 때는 어떻게 하나요?**  
+> 서로 다른 말로 각각 한 번씩 점프할 수 있는 상황이라면, 그중 어느 쪽을 선택할지
+> 플레이어가 고를 수 있습니다. 다만 한 말이 여러 번 연속 점프할 수 있는 경우라면,
+> 그 연속 점프를 끝까지 수행해야 합니다.
 
-**3. Can a regular piece (a "man") move backwards?**
-> No, standard pieces can only move diagonally *forward* towards the opponent's side of the board. Only a King can move both forwards and backwards.
+**3. 일반 말은 뒤로도 움직일 수 있나요?**  
+> 아니요. 일반 말은 상대 방향으로만 전진할 수 있으며, 뒤로 이동하거나 점프할 수
+> 없습니다. 왕으로 승격된 말만 앞·뒤 대각선으로 자유롭게 움직일 수 있습니다.
 
-**4. How does a piece become a King?**
-> A piece becomes a King when it reaches the last row on the opponent's side of the board (the row where their pieces started). In a physical game, this is usually marked by placing a second checker of the same color on top of it.
-
+**4. 어떻게 하면 말이 왕이 되나요?**  
+> 자신의 말이 상대 진영의 마지막 줄(상대 말이 처음 배치되던 줄)에 도달하면
+> 곧바로 왕으로 승격됩니다. 실제 보드게임에서는 말 위에 같은 색 말을 하나 더
+> 올려 두어 표시하는 경우가 많습니다.

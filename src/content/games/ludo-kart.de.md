@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: ludo-kart
-title: '[DE] Ludo Kart'
+title: "Ludo Kart"
 description: >-
-  [DE] Ludo Kart is a breezy dice‑and‑race board game — roll, move tokens, and
-  be the first to reach home.
+  Ludo Kart ist ein lockeres Würfel-und-Renn-Brettspiel: Würfle, bewege deine
+  Figuren und sei als Erste:r im Ziel.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/ludo-kart.png
 tags:
@@ -16,30 +16,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Ludo Kart verwandelt das klassische Ludo in ein schnelles, familienfreundliches
+Rennspiel. Du würfelst und bewegst deine Figuren über das Brett, biegst in die
+Ziellinie ein und versuchst, alle Figuren nach Hause zu bringen, bevor deine
+Gegner es schaffen. Sichere Felder, Schlagen und glückliche Würfe sorgen für
+spannende Wendungen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Mehrere Figuren im Spiel halten**  
+    Bringe möglichst mehrere Figuren gleichzeitig voran, statt nur eine
+    „Super-Figur“ zu pushen – so verlierst du bei einem Schlag nicht deinen
+    gesamten Fortschritt.
 
-Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to move tokens around the board, enter the final lane, and bring all tokens home before opponents do. Safe squares, captures, and lucky rolls create swings.
+2.  **Sichere Felder nutzen**  
+    Wenn Gegner in Schlagweite sind, lohnt es sich, auf sichere Felder zu
+    ziehen, auf denen du nicht geschlagen werden kannst.
 
-### Gameplay Strategy & Walkthrough
+3.  **Einstieg in die Ziellinie timen**  
+    Betritt die Heimspur erst, wenn du nicht unmittelbar von einer gegnerischen
+    Figur eingeholt werden kannst.
 
-1.  **[DE]** Token spread: Advance multiple tokens to reduce risk of a single capture wiping progress.
-2.  **[DE]** Safe spots: Park on safe squares when opponents are near.
-3.  **[DE]** Entry timing: Time your entry to the home lane so opponents can’t immediately capture you.
-4.  **[DE]** Counting ahead: Always check opponent threats within a dice range.
-5.  **[DE]** Don’t tunnel: If a lead token is blocked, switch to another to keep pressure.
+4.  **Vorauszählen**  
+    Zähle immer ein paar Felder im Voraus, um zu sehen, ob ein Gegner dich mit
+    einem passenden Wurf schlagen könnte.
 
-### Controls Guide
+5.  **Nicht tunnelblickig werden**  
+    Wenn deine führende Figur blockiert ist, bewege eine andere, um Druck auf
+    mehreren Fronten aufzubauen.
 
-- Roll: Click/tap to roll the die.
-- Move: Select a legal token to advance.
-- Modes: Local multiplayer is common; solo vs. AI may be available.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- **Würfeln:** Per Klick/Tap auf den Würfel.  
+- **Bewegen:** Nach dem Wurf eine mögliche Figur auswählen, die die gewürfelte
+  Augenzahl ziehen soll.  
+- **Modi:** Häufig lokale Mehrspieler-Modi; manchmal kannst du auch gegen die
+  KI antreten.
 
-- Is it pure luck? Dice matter, but token spread, safe‑square usage, and counting threats add strategy.
-- Can I block? Occupying certain squares can block lanes; observe mode rules.
-- How many players? Often 2–4; check mode options.
+### FAQ
 
+- **F: Ist das Spiel nur vom Glück abhängig?**  
+  **A:** Würfelglück spielt eine große Rolle, aber Figurenverteilung,
+  sicheres Positionieren und das Einschätzen von Gefahrenzonen bringen
+  zusätzliche Strategie ins Spiel.
+
+- **F: Kann ich Felder blockieren?**  
+  **A:** In vielen Varianten können Figuren bestimmte Felder blockieren, sodass
+  andere nicht passieren können. Prüfe die Regeln der jeweiligen Version.
+
+- **F: Wie viele Spieler:innen können mitspielen?**  
+  **A:** Meist 2–4, je nach Modus und Host.

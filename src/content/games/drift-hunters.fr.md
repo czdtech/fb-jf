@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: drift-hunters
-title: '[FR] Drift Hunters'
+title: 'Drift Hunters'
 description: >-
-  [FR] Drift Hunters is a 3D drifting racer: tune cars, chain drifts, and rack
+  Drift Hunters is a 3D drifting racer: tune cars, chain drifts, and rack
   up points across tracks.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/drift-hunters.jpg

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: liquid-puzzle-sort-colors
-title: '[ES] Liquid puzzle sort colors'
+title: 'Liquid puzzle sort colors'
 description: >-
-  [ES] Liquid puzzle sort colors is a relaxing pour‑sort — decant liquids by
-  color, plan buffers, and finish bottles without deadlocks.
+  Liquid puzzle sort colors es un relajante juego de ordenar líquidos: vierte
+  por color, planifica botellas de reserva y deja cada tubo con un solo color
+  sin caer en atascos.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/liquid-puzzle-sort-colors.jpg
 tags:
@@ -16,35 +17,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Liquid puzzle sort colors adapta la fórmula viral de ordenar botellas: viertes
+líquidos entre tubos hasta que cada uno quede uniforme. Solo puedes verter
+sobre el mismo color o en una botella vacía. Para ganar tendrás que planificar
+tus botellas de reserva y el orden de los vertidos para evitar bloqueos en los
+que ya no quede ningún movimiento útil.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Liquid puzzle sort colors adapts the viral bottle‑sorting formula: pour liquids between bottles so each ends up uniform. You can pour only onto the same color or an empty bottle. Success demands planning buffers and ordering pours to avoid softlocks where no move remains.
+1.  Mantén dos botellas de reserva vacías siempre que puedas; son tus válvulas
+    de escape.
+2.  Empieza por las botellas completas: bloquea pronto los colores ya
+    terminados para no volver a tocarlos.
+3.  Vierte de arriba abajo: mueve primero los colores de la parte superior para
+    agrupar pilas antes de atacar las capas profundas.
+4.  Evita enterrar unidades sueltas: saca a la superficie los colores sueltos
+    pronto para que no queden atrapados bajo otros.
+5.  Revisa si hay bloqueo: si todos los movimientos parecen deshacer progreso,
+    deshaz y cambia el orden de los vertidos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Keep two buffers empty if possible; they’re your escape valves.
-2.  **[ES]** Build from completed bottles outward; lock finished colors early.
-3.  **[ES]** Top‑down pours: Move top colors to consolidate stacks before addressing deep layers.
-4.  **[ES]** Avoid burying singletons; surface odd colors early to prevent traps.
-5.  **[ES]** Deadlock check: If all moves reverse progress, undo and change the pour order.
+- Toca una botella de origen y luego una de destino para verter; usa deshacer o
+  reiniciar si están disponibles; el sistema de pistas puede sugerir un
+  movimiento.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap a source bottle, then a destination; undo/reset if available; hints may suggest a pour.
+- Q: Llego a estados imposibles de ganar, ¿cómo lo evito?  
+  A: Conserva siempre alguna botella de reserva, evita enterrar colores
+  sueltos y completa una botella en cuanto tenga un solo color.
 
-### Frequently Asked Questions (FAQ)
+- Q: ¿Hay una apertura universal que siempre funcione?  
+  A: Suele ayudar empezar por el color más frecuente; libera espacio de
+  reservas más deprisa.
 
-- Q: I reach unwinnable states — how to prevent?
-
-A: Preserve buffers, avoid burying singles, and commit a bottle as soon as it’s uniform.
-
-- Q: Any universal opener?
-
-A: Consolidate the most frequent color first; it frees buffers fastest.
-
-- Q: Are hints reliable?
-
-A: Decent for early steps; deep puzzles still need planning.
+- Q: ¿Son fiables las pistas?  
+  A: Van bien en las primeras jugadas, pero los niveles profundos siguen
+  necesitando planificación propia.
 

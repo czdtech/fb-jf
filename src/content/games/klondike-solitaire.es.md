@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: klondike-solitaire
-title: '[ES] Klondike Solitaire'
+title: "Klondike Solitaire"
 description: >-
-  [ES] Classic Klondike: build foundations Ace to King by suit using tableau
-  stacks that descend in alternating colors; draw‑1 or draw‑3.
+  Klondike clásico: construye las fundaciones de As a Rey por palos usando
+  columnas de mesa que descienden en colores alternos; modo robar‑1 o
+  robar‑3.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/klondike-solitaire.jpg
@@ -17,29 +18,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Visión general
+Klondike usa siete columnas de tablero (tableau), un mazo (stock) y cuatro
+fundaciones. Debes construir las fundaciones de As a Rey por palo. En las
+columnas de mesa, las secuencias descienden en colores alternos; solo los Reyes
+(o pilas encabezadas por un Rey) pueden ocupar columnas vacías. El modo
+**robar‑1** es más permisivo; **robar‑3** exige llevar la cuenta del ciclo.
 
+### Cómo se juega
+- Voltea cartas boca abajo moviendo pilas; empieza las fundaciones con los Ases.
+- Intenta mantener al menos una columna vacía para maniobras complejas.
+- En robar‑3, controla el orden en que salen las cartas para no bloquear las
+  claves.
 
-### Overview
-Klondike uses seven tableau columns, a stock, and four foundations. Build foundations up in‑suit from A to K. In the tableau, build down in alternating colors; only Kings (or King‑led stacks) may fill empty columns. Draw‑1 is more forgiving; draw‑3 requires cycle tracking.
+### Controles
+- Arrastrar‑y‑soltar o toques simples; muchos hosts ofrecen auto‑movimiento a
+  las fundaciones.
 
-### How to Play
-- Expose facedown cards by moving stacks; start foundations with Aces.
-- Keep one empty column for maneuvering complex rearrangements.
-- In draw‑3, count the cycle to avoid locking key cards.
+### Consejos
+- Prioriza los movimientos que den la vuelta a una carta oculta.
+- No lleves cartas bajas a las fundaciones demasiado pronto si aún ayudan a
+  ordenar el tableau.
+- Mueve un Rey solo cuando vayas a aprovechar de verdad la columna vacía para
+  recolocar una pila útil.
 
-### Controls
-- Drag‑and‑drop or tap; auto‑move enabled on many hosts.
+### Preguntas frecuentes (FAQ)
 
-### Tips
-- Prefer moves that flip a facedown card.
-- Don’t rush low cards to foundations if they help tableau moves.
-- Move a King only when it frees space for a useful stack.
+*   **P: ¿Qué puedo poner en una columna vacía?**  
+    **R:** Solo un Rey o una pila que tenga un Rey arriba.
 
-### FAQ
-- Q: What can I place in an empty tableau column in this game?
-A: Only a King or a stack headed by a King.
-- Q: Should I always play cards to the foundation immediately?
-A: Not always—keep them if they enable key tableau moves.
-- Q: How does draw‑3 change strategy?
-A: You must track the 3‑card order and plan multiple passes.
+*   **P: ¿Conviene mandar todas las cartas posibles a las fundaciones nada más
+    se pueda?**  
+    **R:** No siempre; a veces es mejor dejarlas en el tableau para poder hacer
+    más movimientos.
 
+*   **P: ¿Qué cambia en el modo robar‑3?**  
+    **R:** Debes seguir el ciclo de 3 cartas en el mazo y planificar varios
+    pases para acceder a la carta que necesitas.

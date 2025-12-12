@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-magic
-title: '[ZH TRANSLATION NEEDED] Jewel Magic'
-description: >-
-  [ZH TRANSLATION NEEDED] Unleash the magic of gems in Jewel Magic, a classic
-  match-3 puzzle game. Match sparkling jewels, create powerful combos, and clear
-  challenging levels in this enchanting adventure.
+title: 《Jewel Magic》魔法宝石三消
+description: 在《Jewel Magic》中释放宝石魔法，这是一款经典三消解谜游戏：交换璀璨宝石、制造强力连锁，用精妙布局通关一个又一个高难关卡。
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/jewel-magic.png
 tags:
@@ -18,33 +15,33 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jewel Magic is a classic and captivating match-3 puzzle game that invites you into a world of sparkling gems and enchanting challenges. The core objective is to swap adjacent jewels to create a line of three or more identical gems, causing them to vanish and score points. With hundreds of levels, each presenting a unique goal, players must think strategically to create powerful special jewels, trigger dazzling chain reactions, and solve every puzzle presented to them.
+《Jewel Magic》是一款经典且耐玩的三消解谜游戏，你将置身于闪耀宝石与魔法元素构成的世界。核心目标是在棋盘上交换相邻宝石，使三颗及以上同色宝石连成一线完成消除，从而获得得分并推动关卡目标。游戏拥有数百个关卡，每一关都有独立目标与布局，你需要通过规划消除顺序，创造特殊宝石、触发绚丽连锁，才能稳扎稳打地逐一攻克难题。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Master the Special Gems:** To pass the toughest levels, you must create and utilize special gems. These are formed by matching more than three jewels at once:
-    * [ZH TRANSLATION NEEDED] **Lightning Jewel:** Match 4 jewels in a line to create a jewel that can clear an entire row or column.
-    * [ZH TRANSLATION NEEDED] **Bomb Jewel:** Match 5 jewels in an L or T shape to create a bomb that explodes and destroys a block of surrounding jewels.
-    * [ZH TRANSLATION NEEDED] **Rainbow Jewel:** Match 5 jewels in a straight line to create a powerful rainbow jewel. Swap it with any adjacent jewel to remove all jewels of that color from the board.
-2.  [ZH TRANSLATION NEEDED] **Combine for Power:** The ultimate strategy is to combine two special jewels. Swapping a bomb and a lightning jewel, for instance, creates a massive cross-shaped blast. Experiment with different combinations to see their powerful effects.
-3.  [ZH TRANSLATION NEEDED] **Focus on the Goal:** Each level has a specific objective, such as reaching a target score, clearing all the jelly from behind the jewels, or dropping special items to the bottom. Always focus your efforts on achieving that goal within the limited number of moves.
-4.  [ZH TRANSLATION NEEDED] **Start from the Bottom:** Making matches at the bottom of the grid increases the chance of causing a cascade, where new jewels fall into place and create automatic matches. This can help you clear the board and reach your goal much faster.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **掌握特殊宝石的生成方式**：想通过高难关卡，离不开各种特殊宝石：  
+    *   **闪电宝石（Lightning Jewel）**：直线 4 连生成，可清除一整行或一整列。  
+    *   **炸弹宝石（Bomb Jewel）**：以 “L/T 形” 5 连生成，爆炸时消除周围一大片区域。  
+    *   **彩虹宝石（Rainbow Jewel）**：直线 5 连生成，与任意颜色宝石交换后，将清除棋盘上所有该颜色宝石。  
+2.  **善用特殊宝石组合技**：真正的“大招”来自两颗特殊宝石的互换。例如炸弹 + 闪电可以在棋盘上打出巨大十字爆破，而两颗彩虹宝石互换则能几乎清空全盘。多尝试各类组合，熟悉它们的范围和威力。  
+3.  **始终围绕关卡目标下子**：有的关卡要求达到目标分数，有的需要清除凝胶/冰块，或将道具送到底部。步数有限时，每一步都应服务于目标，不要为无关的高分消除浪费行动。  
+4.  **从棋盘底部开始布局**：在底部制造消除更容易触发连锁——新的宝石从上方落下时很可能再次形成三消，从而在不额外花步数的情况下完成更多工作。  
 
-[ZH TRANSLATION NEEDED] The game is controlled using simple mouse or touch gestures.
+### 操作说明
 
-*   **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
 
-### Frequently Asked Questions (FAQ)
+The game is controlled using simple mouse or touch gestures.
+- 使用鼠标或触屏点击并拖动宝石，与相邻宝石互换位置；只有当交换后能形成三消（或以上）时，这一步才会被执行。  
 
-*   **Q: How do I get past levels with frozen or chained jewels?**
-     *   **A:** You must make a match that includes the frozen or chained jewel. This will break the ice or the chain, freeing the jewel to be used in future matches.
+### 常见问题（FAQ）
 
-*   **Q: What is the best way to get a high score?**
-     *   **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
+*   **Q: 冰块、锁链宝石要怎么处理？**  
+    *   **A:** 让被冰封或锁住的宝石参与一次有效三消，就能对其进行“解锁”，部分顽固障碍可能需要多次邻接消除才能彻底破除。  
 
-*   **Q: What happens when I run out of moves?**
-     *   **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
+*   **Q: 如何打出更高的分数？**  
+    *   **A:** 尽量多制造特殊宝石并形成大范围连锁，一次行动清除的宝石越多、连锁次数越多，得分加成就越可观。  
 
+*   **Q: 步数用完但目标没完成怎么办？**  
+    *   **A:** 步数耗尽前未完成关卡目标就会判定失败并消耗一条生命，你可以等待生命恢复后重试，或在支持的版本中通过游戏内方式获取额外生命。

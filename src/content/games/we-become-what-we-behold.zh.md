@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: we-become-what-we-behold
-title: '[ZH TRANSLATION NEEDED] We Become What We Behold'
+title: 'We Become What We Behold：我们成了我们注视的样子'
 description: >-
-  [ZH TRANSLATION NEEDED] Explore the impact of media and sensationalism in We
-  Become What We Behold, a thought-provoking satirical game. Capture news events
-  with your camera, observe how your choices shape society, and witness the
-  consequences of focusing on negativity in this unique interactive experience.
+  《We Become What We Behold》是一款发人深省的讽刺小游戏，
+  通过“拍新闻”的互动体验，探讨媒体吸睛式报道如何放大仇恨与分裂，
+  以及我们如何逐渐变成自己天天盯着看的那些东西。
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/we-become-what-we-behold.jpg
 tags:
@@ -17,32 +16,48 @@ score: 4.0/5  (987 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "We Become What We Behold" is a short, satirical point-and-click game by Nicky Case that offers a sharp commentary on media, sensationalism, and how our focus on negativity can amplify societal divisions. The game challenges players to observe a small world of characters and decide what "news" to capture with their camera, directly influencing the narrative and the characters' behavior.
+《We Become What We Behold》（直译为“我们成了我们注视的样子”）是 Nicky Case 制作的一款短篇点击互动游戏，
+用极其简洁的玩法，对媒体、耸动新闻和社会撕裂进行了犀利的讽刺。
 
-### Gameplay Guide
+在一个由方块和圆形角色组成的小世界里，你扮演“媒体镜头”，
+决定哪些事件可以被拍下来并登上电视新闻。随着你不断捕捉各种“吸睛瞬间”，
+角色们的行为与情绪会受到影响，小小的冲突和偏见逐步被放大，最终酿成严重后果。
 
-[ZH TRANSLATION NEEDED] The core gameplay involves observing the screen and using your camera to photograph events.
-- **Observe:** Watch the characters (squares and circles) interact.
-- **Capture:** Click to take a photo of a "news" event. Your choice of what to photograph directly impacts what appears on the in-game TV screen, which in turn influences the characters' reactions.
-- **Consequences:** The game subtly demonstrates how focusing on controversial or shocking content can lead to a cycle of anger, fear, and division. There's no explicit win condition; the game typically ends with a dramatic climax reflecting the consequences of media sensationalism.
+### 游玩指南
 
-### Controls Guide
+游戏的核心玩法就是“观察 → 拍摄 → 承受后果”：
 
-- **Mouse:** Use your mouse to aim the camera and click to take a photograph.
+- **观察（Observe）：**  
+  认真观看屏幕上的小世界——方块和圆形角色之间的互动，看他们相处、争吵、制造冲突。
 
-### Frequently Asked Questions (FAQ)
+- **拍摄（Capture）：**  
+  用你的“相机”点击屏幕，抓拍你认为有新闻价值的瞬间。
+  你选择拍下什么，就会在游戏中的电视画面上滚动播出，
+  进而改变所有角色对世界的看法和行为方式。
 
-[ZH TRANSLATION NEEDED] **What is the meaning behind the game?**
+- **后果（Consequences）：**  
+  游戏通过一连串因果关系，展示当媒体长期只关注冲突、极端和负面事件时，
+  社会如何一步步陷入愤怒、恐惧与对立。游戏没有传统意义上的“过关”，
+  通常会以戏剧性的结局收尾，让玩家反思自己在媒体生态中的角色。
 
-[ZH TRANSLATION NEEDED] The game is a critique of media sensationalism and how it shapes our perceptions and society. It highlights how focusing on negativity and conflict can lead to a cycle of division, echoing Marshall McLuhan's quote, "We become what we behold."
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **How long is the game?**
+- **鼠标：** 使用鼠标移动来调整镜头范围，看到想拍的事件时，点击左键即可完成拍摄。
 
-[ZH TRANSLATION NEEDED] It's a very short experience, typically lasting around five minutes, designed to deliver its message concisely and powerfully.
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] **Is there a "right" way to play or win?**
+**问：这款游戏到底想表达什么？**  
+**答：** 游戏是在批判“吸睛式新闻”和媒体煽动所带来的连锁反应，
+它借用 Marshall McLuhan 的名言“We become what we behold”（我们成了我们注视的样子），
+提醒玩家：当我们持续盯着充满仇恨与极端的内容时，社会也会朝这个方向被塑造。
 
-[ZH TRANSLATION NEEDED] The game doesn't have a traditional win condition. Its purpose is to make you reflect on media consumption and its societal impact, rather than to achieve a high score or specific ending.
+**问：游戏流程有多长？**  
+**答：** 这是一款极短篇体验，一般完整游玩约 5 分钟左右。
+开发者刻意保持篇幅紧凑，让信息在短时间内集中爆发，更具冲击力。
 
+**问：有没有正确的玩法或获胜方式？**  
+**答：** 本作并没有传统意义上的“赢”或“完美结局”。
+你无法通过某种选择“拯救世界”，而是通过亲身制造并见证后果，
+从而反思现实世界中的媒体消费方式与信息偏见，这正是游戏存在的意义。

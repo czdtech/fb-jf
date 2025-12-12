@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: light-line
-title: '[ZH TRANSLATION NEEDED] Light Line'
-description: >-
-  [ZH TRANSLATION NEEDED] Light Line is a luminous path‑drawing puzzler —
-  connect nodes without crossings, manage energy, and solve with elegant routes.
+title: 《Light Line》光线连线谜题
+description: 《Light Line》是一款发光路径绘制解谜游戏，你要在棋盘上连接发光节点，不能交叉，需在转折数、线长和机关限制下设计优雅路线。
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/light-line.png
 tags:
@@ -15,32 +13,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Light Line tasks you with drawing non‑overlapping paths that connect glowing nodes while obeying constraints: maximum turns, limited line length, mandatory pass‑throughs, or switches that toggle gates. Later puzzles add layered boards with energy sharing between lines.
+《Light Line》的目标是让所有发光节点都通过光线连接起来，同时光线路径之间不能相互交叉，并要满足关卡给出的各种约束：如最大转弯次数、总长度限制、必须经过的指定格子，或者需要先触发开关才能打开某些闸门。后期关卡甚至会出现多层棋盘和能量共享线路，让整体推理更具层次感。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Start with bottlenecks: Fill narrow corridors first; they force unique routes.
-2.  [ZH TRANSLATION NEEDED] Degree logic: Prioritize nodes with few exits; resolve them to reduce branching.
-3.  [ZH TRANSLATION NEEDED] Turn economy: Use long straight runs and save turns for corners that require them.
-4.  [ZH TRANSLATION NEEDED] Gate timing: Plan switch routes so gates open before line arrival.
-5.  [ZH TRANSLATION NEEDED] Backtrack early: Undo as soon as crossings become inevitable.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **先解“瓶颈”走廊**：优先处理最狭窄、只有一条通路的区域，这些地方往往只有唯一解，先铺好主干线路可大幅缩小剩余空间。  
+2.  **根据节点“度数”推理**：优先连接出度较少的节点（可走方向少的节点），先确定它们的路径后，可以显著减少整体分支数。  
+3.  **节省转弯次数**：尽量让线段以长直线形式前进，把有限的转弯留给必须拐角的关键位置，在有转弯限制的关卡中尤为重要。  
+4.  **合理安排开关与闸门**：有开关的关卡中，要提前规划哪条线负责顺路经过开关，以便在其它线抵达相应闸门前就完成开启。  
+5.  **一旦发现必然交叉，尽早回溯**：如果你发现无论如何都会与既有线相交，说明之前某条线的走法需要调整，尽早撤销、重画比在残余空间硬解要高效得多。  
 
-- Drag to draw/erase lines; tap switches; zoom/pan on dense boards.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过拖动在格子间绘制或擦除光线；点击开关控制闸门；在复杂关卡中可使用缩放或拖动画面以便精细操作。  
 
-- Q: Lines always collide — how to avoid?
-  
-[ZH TRANSLATION NEEDED]   A: Lay corridors first and route remaining lines around them; avoid spirals that trap space.
+### 常见问题（FAQ）
 
-- Q: Are diagonal moves allowed?
-  
-[ZH TRANSLATION NEEDED]   A: Usually grid‑orthogonal; check the level rules.
+*   **Q: 线总是画到后面必然相撞，怎么避免？**  
 
-- Q: Is there a hint system?
-  
-[ZH TRANSLATION NEEDED]   A: Many versions provide step or full‑path hints.
+A: Lay corridors first and route remaining lines around them; avoid spirals that trap space.
+- **A:** 可以先画好最窄走廊中的路线，再以这些“主干线”为边界规划其余线路，尽量避免在中心区域画出会封死空间的螺旋线路。  
 
+
+A: Usually grid‑orthogonal; check the level rules.
+*   **Q: 可以走斜线吗？**  
+
+A: Many versions provide step or full‑path hints.
+    *   **A:** 一般情况下只能沿网格的上下左右方向走线，是否允许斜线以关卡规则提示为准。  
+
+*   **Q: 有内置提示系统吗？**  
+    *   **A:** 许多版本提供逐步提示或完整路线提示，可在实在卡住时使用，但频繁依赖提示会削弱解谜的乐趣。

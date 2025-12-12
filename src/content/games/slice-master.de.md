@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: slice-master
-title: '[DE] Slice Master'
+title: "Slice Master"
 description: >-
-  [DE] Slice Master is a satisfying physics-based game where players control a
-  knife to slice through various objects, aiming for perfect cuts and collecting
-  rewards while navigating through challenging obstacle courses.
+  Slice Master ist ein befriedigendes Physikspiel, in dem du ein Messer steuerst,
+  das sich durch verschiedenste Objekte schneidet. Ziel sind perfekte Schnitte,
+  viele Kombos und reichlich Belohnungen auf trickreichen Parcours.
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/slice-master.jpg
 tags:
@@ -17,34 +17,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Slice Master" ist ein Physik-basiertes Geschicklichkeitsspiel, in dem du ein
+ Messer über eine Strecke voller Objekte und Hindernisse führst. Mit gezielten
+ Schnitten zerteilst du Blöcke, Früchte oder andere Ziele, sammelst Münzen und
+ versuchst, möglichst viele perfekte Treffer hintereinander zu landen, ohne an
+ unzerstörbaren Hindernissen zu scheitern.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Timing der Schnitte:** Schneide im richtigen Moment, um Objekte sauber zu
+    teilen und nicht an Kanten oder Fallen hängen zu bleiben.
+2.  **Objekte erkennen:** Unterscheide zwischen zerschneidbaren und
+    gefährlichen Elementen – nicht alles, was im Weg steht, darfst du treffen.
+3.  **Winkel steuern:** Passe den Winkel deines Messers an, um möglichst große
+    Flächen zu erwischen oder mehrere Objekte in einem Schwung zu schneiden.
+4.  **Kombos aufbauen:** Mehrere erfolgreiche Schnitte in Folge erhöhen deinen
+    Punktmultiplikator. Versuche Serien aufzubauen, statt planlos zu schlagen.
+5.  **Items einsammeln:** Sammle im Level Münzen und Spezialobjekte ein, um
+    Upgrades oder neue Messer freizuschalten.
 
-"Slice Master" is a satisfying physics-based game where players control a knife to slice through various objects, aiming for perfect cuts and collecting rewards while navigating through challenging obstacle courses. The game is famous for its smooth cutting mechanics and addictive gameplay.
+### Steuerung
 
-### Gameplay Strategy
+*   **Richtung steuern:** Bewege Maus oder Finger, um die Flug- bzw.
+    Bewegungsrichtung des Messers zu bestimmen.
+*   **Schneiden:** Tippe oder wische, um Schnitte auszulösen.
+*   **Winkel anpassen:** Durch Ziehen oder Halten bestimmst du, wie das Messer
+    auftrifft und welche Bahn es nimmt.
 
-1.  **[DE]** **Master Cutting Timing**: Learn to cut at the right moments to ensure maximum scoring and effectiveness.
-2.  **[DE]** **Object Recognition**: Identify cuttable and non-cuttable objects, avoiding collision with obstacles.
-3.  **[DE]** **Angle Control**: Adjust the knife's angle to achieve optimal cutting effects.
-4.  **[DE]** **Combo System**: Build consecutive successful cuts to earn higher score bonuses.
-5.  **[DE]** **Collect Items**: Gather special items and coins in levels to enhance abilities.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Direction Control**: Typically use mouse or touch to control the knife's movement direction.
-*   **[DE]** **Cutting Action**: Click or swipe to perform cutting actions.
-*   **[DE]** **Angle Adjustment**: Drag to adjust the knife's angle and trajectory.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How do I get perfect cuts?**
-**A**: Observe the shape and texture of objects, find the optimal cutting line, and maintain steady gestures.
-2.  **[DE]** **Q: What happens if I hit obstacles?**
-**A**: Hitting obstacles will reduce health or cause game over; you need to carefully avoid them.
-3.  **[DE]** **Q: Are there different knives in the game?**
-**A**: Many versions offer different knives with various appearances and attributes for players to unlock and use.
-4.  **[DE]** **Q: How can I improve my score?**
-**A**: Through consecutive successful cuts, collecting reward items, and avoiding collisions to achieve higher scores.
+1.  **F: Wie gelingen perfekte Schnitte?**
+    **A:** Achte auf Form und Position der Objekte, suche dir eine klare
+    Trennlinie und führe gleichmäßige, nicht hektische Bewegungen aus.
+2.  **F: Was passiert, wenn ich ein Hindernis treffe?**
+    **A:** Je nach Modus verlierst du Leben oder der Run endet sofort – vermeide
+    daher bewusst markierte Gefahrenzonen.
+3.  **F: Gibt es verschiedene Messer?**
+    **A:** Viele Versionen bieten freischaltbare Skins oder Messer mit leicht
+    unterschiedlichen Effekten. Du schaltest sie meist über Münzen oder Erfolge
+    frei.
+4.  **F: Wie steigere ich meine Punktzahl?**
+    **A:** Baue lange Kombos ohne Fehlschlag auf, sammle Bonusobjekte und
+    vermeide Kollisionen, damit dein Multiplikator nicht abbricht.

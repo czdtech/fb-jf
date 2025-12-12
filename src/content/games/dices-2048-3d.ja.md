@@ -1,60 +1,46 @@
 ---
-locale: ja
-urlstr: dices-2048-3d
-title: '[JA TRANSLATION NEEDED] Dices 2048 3D'
-description: >-
-  [JA TRANSLATION NEEDED] Dices 2048 3D fuses 2048 with dice physics — merge
-  same‑value dice to climb toward 2048 in three dimensions.
+title: Dices 2048 3D ダイス2048 3D
+description: 「Dices 2048 3D」は物理演算と2048パズルの融合。サイコロを投げ入れ、ぶつけて合体させ、3D空間で2048を目指そう。
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/dices-2048-3d.png
+urlstr: dices-2048-3d
+score: 4.1/5  (1924 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.1/5  (1924 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Dices 2048 3D（ダイス2048 3D）*は、定番パズル「2048」に物理演算の要素を加えた3Dパズルゲームです。
+プレイヤーはサイコロをフィールドに投げ入れたり、滑らせたりします。同じ目のサイコロ同士がぶつかると合体し、次の数字に変わります（2→4→8…）。重力による積み重なりや、予期せぬバウンドを利用して、限られたスペースの中でより大きな数字を作り出しましょう。
 
-[JA TRANSLATION NEEDED] Dices 2048 3D is a physics‑infused take on the classic 2048 merging puzzle. Drop or slide dice so that identical face values collide and merge into the next value (e.g., 2→4→8). Gravity, bounce, and 3D placement create fresh tactics around stacking, spacing, and controlling accidental merges.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **レーンの整理:** 合体用の場所と、一時置き用の場所を意識して使い分けましょう。無秩序に積み上げるとすぐに詰まってしまいます。
+2.  **連鎖（チェイン）:** 2と2をぶつけて4にし、その近くに別に4を置いておけば、合体した瞬間にまた合体…という風に連鎖が起き、高得点のチャンスとなります。
+3.  **数字の管理:** 孤立した場所に高い数字を作らないようにしましょう。常に同じ数字を作りやすいよう、近い数字同士をまとめておくのがコツです。
+4.  **物理の制御:** 勢いよく投げると跳ね返って変な場所に行ってしまいます。優しく落とすか、転がる距離を計算して狙いましょう。
+5.  **緊急回避:** 積み上がって危険な時は、完璧な合体を狙うよりも、とにかく手前の同じ数字を消してスペースを空けることを優先してください。
 
-[JA TRANSLATION NEEDED] 1.  Keep lanes clean: Reserve a column for combining and another for staging; avoid cluttered piles that block merges.
-[JA TRANSLATION NEEDED] 2.  Chain reactions: Set up multiple adjacent pairs so one merge cascades into the next for big score swings.
-[JA TRANSLATION NEEDED] 3.  Value management: Don’t spawn a higher value in a corner with no neighbors; keep equal values within one move of contact.
-[JA TRANSLATION NEEDED] 4.  Tame physics: Soft drops and short nudges reduce unwanted bounces; let dice settle before committing the next piece.
-[JA TRANSLATION NEEDED] 5.  Bail‑out moves: When the board rises, clear space with safe merges rather than fishing for perfect chains.
+### 操作ガイド
 
-### Controls Guide
+*   **狙う/配置:** マウス（または指）を左右にドラッグして投下位置を決めます。
+*   **投下:** クリック（または指を離す）でサイコロを落とします。
 
-- Aim/Place: Move cursor or drag to choose drop position; some versions allow rotation.
-- Drop/Confirm: Click/tap to release the die.
+
 - Undo/Retry (if available): Limited undos may exist; use them to rescue misdrops.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: いつゲームオーバーになりますか？**
+- **A:** サイコロが積み上がりすぎて、赤いライン（境界線）を超えて溢れてしまうとゲームオーバーです。
 
-- How do dice merge? Identical values touching merge into the next value (e.g., two 8s become a 16).
-- I keep causing accidental merges—how to stop? Reduce drop height, wait for full settle, and avoid diagonal ricochets.
+*   **Q: 2048を作ったら終わりですか？**
+    *   **A:** いいえ、2048を作った後もゲームは続き、さらに大きな数字（4096、8192…）を目指すことができます。
 
-### コントロールガイド
-- Is there an end? The game ends when no legal placements remain or the container overflows; aim to reach 2048 or beyond.
-
-
-
-
-
-
-
-
-- Is there an end? The game ends when no legal placements remain or the container overflows; aim to reach 2048 or beyond.
-- I keep causing accidental merges—how to stop? Reduce drop height, wait for full settle, and avoid diagonal ricochets.
-- How do dice merge? Identical values touching merge into the next value (e.g., two 8s become a 16).
-### よくある質問（FAQ）
-- Undo/Retry (if available): Limited undos may exist; use them to rescue misdrops.
-- Drop/Confirm: Click/tap to release the die.
-
-
-- Is there an end? The game ends when no legal placements remain or the container overflows; aim to reach 2048 or beyond.
+*   **Q: サイコロが変な方向に跳ねます。**
+    *   **A:** サイコロの角に当たったりすると不規則に跳ねることがあります。できるだけ平面や他のサイコロの真上を狙うと安定します。

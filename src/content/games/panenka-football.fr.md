@@ -1,49 +1,47 @@
 ---
 locale: fr
 urlstr: panenka-football
-title: '[FR] Panenka Football'
-description: >-
-  [FR] Panenka Football is a penalty craft — disguise intent, chip with touch,
-  and outguess keepers with audacious Panenkas.
+title: Panenka Football
+description: "Panenka Football est un jeu de tirs au but centré sur la fameuse Panenka\_: masque tes intentions, dose ta frappe et déjoue les gardiens avec des chips audacieuses."
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/panenka-football.png
 tags:
   - sports
   - soccer
 score: 4.0/5  (1863 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Panenka Football met en avant la Panenka, ce penalty piqué doucement au centre alors que le gardien plonge d’un côté. Tu alternes entre chips, frappes placées et variations de hauteur pour tromper le gardien. La clé est de lire ses habitudes, de masquer ta direction jusqu’au dernier moment et de choisir le bon type de tir en fonction de son comportement.
+
+### Stratégies de jeu et progression
+
+1.  **Lire le gardien :** s’il plonge très tôt, une Panenka plein centre est idéale ; s’il attend, mieux vaut viser les coins.  
+2.  **Gérer la hauteur :** applique des frappes basses et puissantes contre les gardiens prudents et des balles piquées contre les plus agressifs.  
+3.  **Cacher ton intention :** modifie ta visée tardivement et varie l’angle de ta course d’élan pour ne pas être prévisible.  
+4.  **Varier les tirs :** n’abuse pas des Panenkas ; alterne tirs sécurisés et tentatives spectaculaires pour rester imprévisible.  
+5.  **Prendre en compte le vent (si présent) :** compense légèrement ta visée et garde les balles piquées plus basses par vent fort.
+
+### Commandes
+
+- Vise avec la souris ou les touches, règle la puissance/hauteur puis déclenche la frappe. Certains modes autorisent un effet supplémentaire.
+
+### Foire aux questions (FAQ)
+
+- **Q : Mes Panenkas sont souvent arrêtées, pourquoi ?**  
+  **R :** Tu les utilises sans lire le gardien ; réserve‑les aux situations où il plonge tôt, sinon vise plutôt les coins.
+
+- **Q : Quel est le tir le plus sûr ?**  
+  **R :** Une frappe ferme dans le petit filet bas est difficile à arrêter, même pour un gardien bien placé.
 
 
-
-### Detailed Game Introduction
-
-Panenka Football focuses on the cheeky Panenka — a soft chip down the middle as the keeper dives. Mix chips with corners and height variations; success relies on late aim changes and reading keeper habits.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Keeper read: If the keeper dives early, chip middle; if he holds, pick corners.
-2.  **[FR]** Height control: Low hard drives vs cautious keepers; soft chips vs aggressive ones.
-3.  **[FR]** Disguise: Delay final aim to avoid telegraphing; vary run‑up angles.
-4.  **[FR]** Rhythm: Don’t overuse Panenkas; rotate options.
-5.  **[FR]** Wind (if any): Offset shots slightly; keep chips low in strong wind.
-
-### Controls Guide
-
-- Aim with mouse/keys; set power/height; optional swerve via drag if supported.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: My Panenkas get saved.
-
-A: Use them only when the keeper dives early; otherwise go corners.
-
-- Q: Best safe shot?
-
-A: Firm low corners; they demand perfect keeper timing.
-
-- Q: How do I hide intent?
 
 A: Change aim late and vary run‑up tempo.
 
+- Q: How do I hide intent?
+
+
+A: Change aim late and vary run‑up tempo.

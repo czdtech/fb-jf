@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: bowling-stars
-title: '[DE] Bowling Stars'
+title: "Bowling Stars"
 description: >-
-  [DE] Bowling Stars brings smooth ten‑pin bowling to the browser — read oil,
-  pick angles, and strike consistently.
+  Bowling Stars bringt glattes Zehn‑Pin‑Bowling in den Browser. Lies die Bahn,
+  wähle Winkel und Hook und wirf konstante Strikes.
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/bowling-stars.png
 tags:
@@ -15,29 +15,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Bowling Stars ist eine unkomplizierte Zehn‑Pin‑Bowling‑Simulation mit Fokus auf
+Zielen, Kraft und Hook‑Kontrolle. Konstanz und Spare‑Spiel entscheiden über
+hohe Punktzahlen – je besser du Anlauf und Abgabepunkt reproduzieren kannst,
+ desto länger wird deine Strike‑Serie.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Bowling Stars is a casual ten‑pin bowling sim featuring aim, power, and hook control. Consistency and spare conversion define high scores—dial in your release and adapt to lane behavior to string together strikes.
+1.  **Pocket anvisieren:** Rechtshänder zielen auf die Tasche zwischen Pin 1–3,
+    Linkshänder auf 1–2. So erzielst du bestes Pin‑Action‑Potenzial.
+2.  **Hook kontrollieren:** Eine sanfte Kurve sorgt dafür, dass der Ball im
+    richtigen Winkel in die Tasche läuft. Zu gerader Ball → viele Splits; zu
+    starker Hook → durch die Tasche hindurch.
+3.  **Spare‑System lernen:** Präge dir Standard‑Winkel für typische Spares ein
+    (7‑Pin, 10‑Pin) und gehe sie cross‑lane an.
+4.  **Ruhiger Rhythmus:** Eine gleichmäßige, wiederholbare Bewegung ist besser
+    als wechselnde Power‑Spikes. Kleine Anpassungen statt radikaler Änderungen.
+5.  **Schnell anpassen:** Lässt du häufig Splits stehen, verändere Startposition
+    oder Hook‑Stärke in kleinen Schritten.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Pocket hits: For right‑handers, aim between the 1–3 pins; left‑handers, 1–2 pocket.
-2.  **[DE]** Control the hook: Add gentle curve so the ball enters the pocket at an angle for better pin action.
-3.  **[DE]** Spare system: Memorize spare angles (e.g., 7‑pin and 10‑pin) and use cross‑lane shots.
-4.  **[DE]** Tempo matters: A smooth, repeatable release beats random power spikes.
-5.  **[DE]** Adjust quickly: If you leave frequent splits, shift your starting line or reduce hook.
+- **Zielen:** Links/rechts ziehen, um die Linie einzustellen.
+- **Kraft:** Halten/Loslassen, um die Geschwindigkeit zu bestimmen.
+- **Hook:** Je nach Version während des Wurfs ziehen/neigen oder vorab eine
+  Spinkurve einstellen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Aim: Drag left/right to set line.
-- Power: Hold/release to set speed.
-- Hook: Drag/tilt while rolling or set a spin parameter before release.
+- **F: Wie reduziere ich Splits?**  
+  **A:** Achte darauf, die Tasche mit moderatem Winkel zu treffen – nicht zu
+  flach, nicht zu steil. Feintuning über Startposition und Hook.
 
-### Frequently Asked Questions (FAQ)
+- **F: Tipps für 7/10‑Pins?**  
+  **A:** Nutze cross‑lane‑Würfe mit deutlichem Winkel; wichtiger als der
+  "Hero‑Shot" ist konstantes Spare‑Spiel bei allen anderen Spares.
 
-- How to reduce splits? Enter the pocket at a controllable angle; too steep or too flat increases split chances.
-- Any tip for 7/10? Use cross‑lane shots with enough angle; prioritize spare consistency over hero plays.
-- Why do I miss light/heavy? Adjust starting position or hook strength by small increments.
-
+- **F: Warum gehe ich oft zu leicht oder zu voll auf die Tasche?**  
+  **A:** Passe pro Frame nur eine Variable leicht an (Startposition ODER Hook),
+  statt beides gleichzeitig stark zu verändern.

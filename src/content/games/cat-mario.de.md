@@ -1,11 +1,12 @@
 ---
 locale: de
 urlstr: cat-mario
-title: '[DE] Cat Mario'
+title: "Cat Mario"
 description: >-
-  [DE] Face the ultimate unfair platformer in Cat Mario (Syobon Action)!
-  Navigate a world full of hidden traps, unexpected enemies, and deceptive level
-  design in this notoriously difficult and hilarious parody game.
+  Stell dich dem ultimativen unfairen Plattformer in Cat Mario (Syobon
+  Action). Navigiere durch eine Welt voller versteckter Fallen, absurder Feinde
+  und fieser Leveltricks in diesem berüchtigt schweren, aber urkomischen
+  Parodiespiel.
 iframeSrc: 'https://tiwb.github.io/catmario/'
 thumbnail: /new-images/cat-mario.jpg
 tags:
@@ -16,52 +17,82 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Cat Mario*, ursprünglich bekannt als *Syobon Action* (しょぼんのアクション), ist
+ein japanisches Freeware-Spiel und eine Parodie auf das klassische *Super
+Mario Bros.*. Auf den ersten Blick wirkt es wie ein simpel gezeichneter Klon
+mit einer weißen Katzenfigur in einer vertraut aussehenden Welt. Doch das Spiel
+ist berüchtigt als "unfairer Plattformer" bzw. Troll-Game.
 
+Das gesamte Leveldesign ist darauf ausgelegt, deine Erwartungen zu brechen und
+ dich an jeder erdenklichen Stelle hereinzulegen. Die Stages sind gespickt mit
+unsichtbaren Blöcken, einstürzenden Böden, Gegnern mit völlig unerwartetem
+Verhalten und scheinbar harmlosen Dekoelementen, die plötzlich tödlich sind.
+Das Kern-Gameplay basiert auf Trial & Error: Du wirst ständig sterben, um dir
+nach und nach jede Falle einzuprägen. Der Humor entsteht aus der schieren
+Absurdität und Gemeinheit vieler Tode – der Lebenszähler, der gerne in den
+negativen Bereich rutscht, ist Teil des Witzes. Dein einziges Ziel: Irgendwie
+die Zielflagge am Ende jeder Stage erreichen, ohne vor Frust aufzugeben.
 
-### Game Introduction
+### Strategie & Walkthrough-Grundlagen
 
-Cat Mario, more formally known as Syobon Action (しょぼんのアクション), is a Japanese freeware game that is a parody of the classic *Super Mario Bros*. At first glance, it appears to be a simple, crudely drawn clone of Mario, featuring a white cat-like character in a familiar-looking world. However, the game is infamous for being an "unfair platformer" or "troll game."
+Eine klassische Strategie gibt es kaum – entscheidend sind Geduld und
+Gedächtnis.
 
-The entire game is designed to subvert player expectations and troll them in every way imaginable. The levels are filled with countless hidden traps, invisible blocks, ground that suddenly collapses, enemies that behave unpredictably, and background elements that are actually lethal. The core gameplay is based on trial and error, requiring players to die repeatedly to memorize the location and nature of each trap. The game's humor comes from the sheer absurdity and unfairness of the deaths, and the life counter, which often goes into negative numbers, serves as a running gag. The goal is simply to reach the flagpole at the end of each stage without rage-quitting.
+-   **Regel Nr. 1: TRAUE NIEMANDEM (und nichts).** Vertraue weder dem Boden,
+    auf dem du läufst, noch den Blöcken über dir, den Wolken am Himmel oder der
+    Zielflagge. Alles kann eine Falle sein.
+-   Trial & Error als Spielprinzip: Du sollst sterben – und daraus lernen.
+    Merke dir bei jedem Tod genau, was passiert ist, und passe deinen nächsten
+    Versuch an. Nur über reines Auswendiglernen ist das Spiel zu schlagen.
+-   Unerwartetes erwarten:
+    -   Fragezeichen-Blöcke können solide, unsichtbar oder mit tödlichen
+        Überraschungen gefüllt sein.
+    -   Schon das erste Stück Boden in Level 1 kann einbrechen, wenn du
+        unbedarft darüber läufst.
+    -   Gegner können plötzlich schneller werden, springen oder aus dem Himmel
+        fallen.
+    -   Power-ups sind nicht automatisch freundlich – manche bringen dich um.
+-   Wichtige Fallen in Level 1 (Spoiler):
+    -   Der erste `?`-Block ist eine Falle – von unten dagegen zu springen
+        schleudert ihn nach oben und bringt dich um. Überspringe ihn.
+    -   Direkt nach der ersten Röhre bricht der Boden weg – du musst die Lücke
+        überspringen.
+    -   Einige Wolken sind in Wahrheit Gegner und töten dich bei Berührung.
+    -   Auf der letzten Treppe erscheint ein Gegner an der Spitze – sei
+        vorbereitet.
+    -   **Berühre die Fahnenstange nicht.** Du musst über die Fahne
+        hinüberspringen, auf einem versteckten Block landen und von dort aus
+        zur Burg laufen. Die Fahne selbst ist eine Falle.
 
-### Gameplay Strategy & Walkthrough Principles
+### Steuerung
 
-There is no "strategy" in the traditional sense, only memorization. The game is a test of patience and memory, not skill.
+Die Steuerung ist sehr schlicht und ähnelt klassischen 2D-Plattformern.
 
--   **Rule #1: TRUST NOTHING.** This is the golden rule of Cat Mario. Do not trust the ground you walk on, the blocks above you, the clouds in the sky, or even the flagpole at the end. Everything is a potential trap.
--   **Trial and Error is the Only Way:** You are meant to die. Every death is a lesson. When you die, pay close attention to what killed you and remember that spot for your next attempt. The game is only beatable through rote memorization.
--   **Expect the Unexpected:**
-    -   Question blocks can be solid, invisible, or spawn enemies on top of you.
-    -   The very first patch of ground in Level 1 will collapse if you walk on it normally.
-    -   Enemies may suddenly accelerate, jump, or fall from the sky.
-    -   Power-ups can kill you.
--   **Key Traps to Remember (Level 1 Spoilers):**
-    -   The first `?` block you see is a trap. Hitting it from below will cause it to fly upwards, killing you. Jump over it.
-    -   The ground right after the first pipe will collapse. You must jump over the gap.
-    -   Some clouds in the sky are actually enemies and will kill you if you touch them.
-    -   When you reach the final staircase, an enemy will spawn at the top. Be prepared.
-    -   **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
+-   Pfeiltasten Links/Rechts: Bewege die Katze nach links bzw. rechts.
+-   Pfeiltaste Oben: Springen.
 
-### Controls Guide
+Es gibt keinen separaten Sprint- oder Feuerschuss-Button.
 
-The controls are very simple and mimic classic 2D platformers.
--   **Left/Right Arrow Keys:** Move the character left and right.
--   **Up Arrow Key:** Jump.
+### Häufige Fragen (FAQ)
 
-There is no run button or fire button.
+**1. Warum sterbe ich ständig "grundlos"? Das Spiel ist doch unmöglich!**
+> Genau darin liegt der Reiz. *Cat Mario* ist bewusst unfair gestaltet und
+> bricht alle üblichen Plattforming-Regeln. Jede Falle sitzt dort, wo du sie am
+> wenigsten erwartest. Es ist schaffbar – aber nur mit viel Geduld und
+> Auswendiglernen.
 
-### Frequently Asked Questions (FAQ)
+**2. Wie viele Leben habe ich? Mein Zähler ist bereits negativ.**
+> Du hast faktisch unendlich viele Leben. Dass der Zähler ins Minus rutscht, ist
+> ein Running Gag der Entwickler. Er zählt nur deine Tode mit, ohne jemals ein
+> "Game Over" zu erzwingen.
 
-**1. Why do I keep dying for no reason? This game is impossible!**
-> That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.
+**3. Kann ich Fallen irgendwie vorhersehen?**
+> Beim ersten Durchlauf nicht. Du lernst ihre Position nur, indem du sie
+> auslöst. Beim nächsten Versuch weißt du dann, was dich erwartet.
 
-**2. How many lives do I have? My life counter is negative.**
-> You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."
-
-**3. Is there a way to know where the traps are?**
-> No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
-
-**4. What's the real name of this game?**
-> The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
-
+**4. Wie heißt das Spiel eigentlich wirklich?**
+> Im englischen Sprachraum ist "Cat Mario" üblich. Der ursprüngliche japanische
+> Titel lautet "Syobon Action" (しょぼんのアクション), gelegentlich wird es auch
+> "Neko Mario" genannt.

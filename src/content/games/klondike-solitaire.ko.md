@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: klondike-solitaire
-title: '[KO] Klondike Solitaire'
+title: "Klondike Solitaire 클론다이크 솔리테어"
 description: >-
-  [KO] Classic Klondike: build foundations Ace to King by suit using tableau
-  stacks that descend in alternating colors; draw‑1 or draw‑3.
+  고전 카드 게임 'Klondike Solitaire' 가이드입니다. 7개의 테이블루
+  열과 패를 활용해 A부터 K까지 같은 무늬 기초 더미를 완성하는
+  기본 규칙과 전략을 설명합니다.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/klondike-solitaire.jpg
@@ -17,29 +18,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
 
+*Klondike Solitaire*는 7개의 테이블루 열, 남은 카드 더미(스톡),
+4개의 기초 더미(파운데이션)를 사용하는 가장 대표적인
+솔리테어 규칙입니다. 목표는 네 개의 기초 더미에 같은 무늬별로
+A부터 K까지 순서대로 쌓아 올리는 것입니다.
 
-### Overview
-Klondike uses seven tableau columns, a stock, and four foundations. Build foundations up in‑suit from A to K. In the tableau, build down in alternating colors; only Kings (or King‑led stacks) may fill empty columns. Draw‑1 is more forgiving; draw‑3 requires cycle tracking.
+테이블루에서는 빨강/검정 색을 번갈아 가며 숫자를 내림차순으로
+쌓을 수 있고, 빈 열에는 **킹 또는 킹으로 시작하는 묶음**만
+옮길 수 있습니다. 드로우 방식은 한 장씩(draw‑1) 또는
+세 장씩(draw‑3)을 사용할 수 있습니다.
 
-### How to Play
-- Expose facedown cards by moving stacks; start foundations with Aces.
-- Keep one empty column for maneuvering complex rearrangements.
-- In draw‑3, count the cycle to avoid locking key cards.
+### 플레이 방법
 
-### Controls
-- Drag‑and‑drop or tap; auto‑move enabled on many hosts.
+- **엎어져 있는 카드부터 공개**: 이동할 때는 가급적
+  뒷면 카드를 공개할 수 있는 움직임을 우선하세요.  
+- **기초 더미 시작**: A가 보이면 기초 더미에 올려
+  승리 조건을 향해 나아갑니다.  
+- **빈 열 활용**: 테이블루 열을 비우면 킹 또는
+  킹으로 시작하는 덩어리를 옮길 수 있으므로, 복잡한
+  재배치를 할 수 있는 여유 공간이 생깁니다.  
+- **드로우‑3에서는 사이클 추적**: 한 번에 세 장씩 넘기는
+  모드에서는 패의 순서를 기억해, 필요한 카드를 놓치지 않도록
+  여러 번 왕복하며 계획적으로 뽑아야 합니다.
 
-### Tips
-- Prefer moves that flip a facedown card.
-- Don’t rush low cards to foundations if they help tableau moves.
-- Move a King only when it frees space for a useful stack.
+### 조작 가이드
 
-### FAQ
-- Q: What can I place in an empty tableau column in this game?
-A: Only a King or a stack headed by a King.
-- Q: Should I always play cards to the foundation immediately?
-A: Not always—keep them if they enable key tableau moves.
-- Q: How does draw‑3 change strategy?
-A: You must track the 3‑card order and plan multiple passes.
+- **드래그 & 드롭 / 탭**: 카드를 끌어 다른 더미에 놓거나,
+  클릭/탭만으로 자동 이동을 지원하는 호스트도 있습니다.
+
+### 팁
+
+- 뒷면 카드를 넘길 수 있는 이동을 우선하면, 막히는 상황을
+  줄일 수 있습니다.  
+- 테이블루 이동에 필요한 낮은 숫자 카드는 너무 빨리 기초 더미로
+  올리지 말고, 필요할 때까지 남겨 두는 편이 좋습니다.  
+- 킹을 옮길 때는 정말로 그 열을 비워야 할 이유가 있는지
+  먼저 생각해 보고, 유용한 묶음을 옮길 수 있을 때 사용하는
+  것이 좋습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 빈 테이블루 열에는 무엇을 둘 수 있나요?**  
+  **A:** 킹 또는 킹으로 시작하는 카드 묶음만 놓을 수 있습니다.
+
+- **Q: 기초 더미에는 카드를 바로바로 올리는 게 좋나요?**  
+  **A:** 테이블루 이동에 꼭 필요한 카드라면 잠시 남겨 두는 것이
+  좋습니다. 항상 바로 올리는 것이 정답은 아닙니다.
+
+- **Q: 드로우‑3 모드에서는 전략이 어떻게 달라지나요?**  
+  **A:** 세 장 단위 사이클을 의식하며, 원하는 카드가 나오는
+  타이밍에 맞추어 여러 번 패를 넘기는 계획이 필요합니다.
 

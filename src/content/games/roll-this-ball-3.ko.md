@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: roll-this-ball-3
-title: '[KO] Roll This Ball'
+title: Roll This Ball 롤 디스 볼
 description: >-
-  [KO] A classic sliding puzzle that will test your logic. Slide the wooden
-  blocks to create a clear path for the ball to roll from the start to the goal.
+  나무 블록을 밀어 길을 만드는 슬라이딩 퍼즐 게임입니다. 움직일 수 있는 블록을 슬라이드해 공이 출발점에서 목표 지점까지 끊기지 않는 길을
+  만들어 보세요.
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/roll-this-ball-3.png
 tags:
@@ -17,32 +17,64 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Roll This Ball*은 논리력과 계획력을 시험하는 고전 슬라이딩 블록
+퍼즐입니다. 격자 모양 보드 위에 여러 개의 타일이 놓여 있으며, 일부는
+못으로 고정되어 있고 일부는 상하좌우로만 움직일 수 있습니다.
 
-Roll This Ball is a classic and challenging sliding block puzzle designed to test your logic and planning skills. The game presents you with a grid of tiles, some of which are fixed in place, while others can be moved. Your goal is to slide the movable blocks to form a continuous, unbroken path for a ball to roll from its starting point to the goal. It's a simple concept with surprisingly deep and challenging puzzles.
+플레이어의 목표는 움직일 수 있는 블록을 밀고 당겨, 공이 출발점에서
+골 지점까지 **끊김 없이 이어지는 길**을 만드는 것입니다. 규칙은
+단순하지만, 이동 횟수 제한과 별 3개 조건 때문에 생각보다 깊은
+난이도를 보여 줍니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Analyze the Path:** Before you start moving blocks, trace the potential path with your eyes. Identify the key pieces that need to connect the start and end points.
-2.  **[KO]** **Work Backwards:** Sometimes it's easier to solve the puzzle by working backwards from the goal tile. Figure out which piece needs to connect to the goal, then which piece needs to connect to that one, and so on, until you reach the start.
-3.  **[KO]** **Use Fixed Blocks as Anchors:** The blocks with rivets in them cannot be moved. Use these as fixed points in your path and build your solution around them.
-4.  **[KO]** **Aim for the Stars:** Many levels have a star rating. To get all three stars, you typically need to solve the puzzle in the minimum number of moves possible. This requires thinking efficiently and not making any unnecessary slides.
+1. **먼저 전체 경로를 눈으로 그려 보기**  
+   블록을 움직이기 전에, 출발점과 도착점을 잇는 대략적인 루트를
+   눈으로 따라가 보세요. 반드시 연결되어야 하는 핵심 조각과
+   방향을 먼저 파악하는 것이 좋습니다.
 
-### Controls Guide
+2. **목표에서 거꾸로 생각하기**  
+   골 타일에서 시작해 바로 앞에 올 수 있는 조각을 생각하고,
+   다시 그 앞에 올 조각을 역으로 따라 올라가는 방식도 효과적입니다.
+   이렇게 하면 불필요한 이동을 줄일 수 있습니다.
 
-The game is played with simple drag-and-drop or sliding controls.
+3. **고정 블록을 기준점으로 삼기**  
+   못이 박혀 움직이지 않는 타일은 퍼즐의 고정된 앵커입니다.
+   이 블록들을 중심 축으로 보고, 그 사이를 어떻게 메워야 할지
+   계획하면 해답이 더 명확해집니다.
 
-*   **[KO]** **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
+4. **최소 이동으로 별 3개 노리기**  
+   많은 스테이지는 최적 이동 횟수 제한이 있습니다. 별 3개를
+   얻으려면 쓸데없는 왕복 이동을 줄이고, 한 번의 슬라이드로
+   여러 조각 위치가 정리되도록 경로를 짜야 합니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.
+게임은 단순한 드래그/슬라이드 방식으로 진행됩니다.
 
-*   **[KO]** **Q: Why can't I move a specific block?**
-    *   **[KO]** **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
+- **블록 이동**: 움직일 수 있는 타일을 클릭/터치한 뒤, 인접한 빈칸
+  방향으로 드래그해 한 칸씩 이동시킵니다. 고정 블록은 움직이지
+  않습니다.
 
-*   **[KO]** **Q: I've made a path, but the ball isn't rolling. Why?**
-    *   **[KO]** **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 이 게임의 최종 목표는 무엇인가요?**  
+  **A:** 공이 출발 블록에서 골 블록까지 멈추지 않고 굴러갈 수 있도록
+  모든 조각을 연결해 완전한 통로를 만드는 것입니다.
+
+    - **Q: 어떤 블록은 왜 움직이지 않나요?**  
+  **A:** 못이나 리벳이 박힌 블록은 고정 타일이라 움직일 수 없습니다.
+  이들을 기준으로 나머지 경로를 설계해야 합니다.
+
+- **Q: 길이 연결된 것 같은데 공이 굴러가지 않아요.**  
+
+    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
+
+- **Q: I've made a path, but the ball isn't rolling. Why?**
+
+    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
+  **A:** 조각 방향이 살짝 틀어져 작은 틈이 생겼을 수 있습니다.
+  시작부터 끝까지 모든 연결 부분이 정확히 이어져 있는지, 블록
+  방향이 맞게 놓여 있는지 다시 한 번 확인해 보세요.

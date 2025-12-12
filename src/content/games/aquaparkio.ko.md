@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: aquaparkio
-title: '[KO] Aquapark io'
+title: 'Aquapark io 아쿠아파크.io'
 description: >-
-  [KO] ace to the finish line in aquapark.io! Learn the best strategies, tips,
-  and controls to master the water slide, bump opponents, and take epic flight
-  shortcuts to win.
+  거대한 워터슬라이드를 미끄러져 가장 먼저 결승에 도착하는 하이퍼 캐주얼
+  레이싱 게임입니다. 상대를 밀어 떨어뜨리고, 공중으로 날아가 지름길을 노려
+  승리를 거머쥐세요.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/aquaparkio.jpg
 tags:
@@ -15,55 +15,79 @@ score: 4.9/5  (169 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+*aquapark.io*는 Voodoo에서 개발한 인기 하이퍼 캐주얼 레이싱 게임입니다.
+알록달록한 초대형 워터파크의 미끄럼틀을 타고 내려가, 누구보다 먼저 아래의
+수영장에 도착하는 것이 목표입니다.
 
+플레이어는 대부분 AI로 구성된 여러 캐릭터와 함께 레이스를 펼치며, 단순히
+코스를 따라 내려가기만 하는 것이 아니라 **상대를 밀어 떨어뜨리거나, 코스를
+벗어나 공중으로 날아가 아래쪽 트랙에 착지하는 대담한 지름길**을 노려야 합니다.
+이 공중 비행 메커니즘이 게임의 핵심 전략으로, 큰 위험을 감수하는 대신 한 번에
+순위를 뒤집을 수 있는 묘미를 제공합니다. 조작은 매우 간단한 한 손가락
+방식이며, 레이스를 통해 얻는 코인으로 다양한 캐릭터 스킨과 장식 아이템을
+해금할 수 있습니다.
 
+### 플레이 전략 & 공략 가이드
 
-### Detailed Game Introduction
+승리의 핵심은 지름길 비행과 위험 관리입니다.
 
-*aquapark.io* is a wildly popular hyper-casual racing game developed by Voodoo. The game throws players into a vibrant, massive water park where the objective is simple: be the first to slide down a gigantic, winding water slide and splash into the pool at the end.
+#### 1. 비행(점프) 타이밍이 전부다
 
-Players compete against a large group of other characters (primarily AI-controlled bots) in a fast-paced race. The core mechanics involve more than just staying on the slide. Players can bump into opponents to knock them off the track, and more importantly, they can gain enough speed to launch off the edge of the slide, fly through the air, and land on a lower section of the track, creating massive shortcuts. This "flying" mechanic is the central strategy of the game, blending risk with high reward. The game features simple, one-touch controls and a satisfying progression system where players earn coins to unlock new characters and cosmetic items.
+꾸준히 이기려면 슬라이드를 **일부러 이탈**해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+*   **비행 방법:** 경사가 큰 구간에서 속도를 충분히 올린 뒤, 커브나 슬라이드
+    가장자리 근처에서 바깥쪽으로 급하게 조향하면 캐릭터가 공중으로 튕겨
+    나갑니다.
+*   **착지 지점 조준:** 공중에서는 제한적인 조작만 가능하므로, 아래쪽 트랙의
+    붉고 흰 줄무늬 부분 등 **정확히 슬라이드 위**로 떨어지도록 조준해야
+    합니다. 물 위로 떨어지면 다시 코스 위로 리스폰되지만, 그만큼 큰 시간을
+    잃습니다.
+*   **위험과 보상의 균형:** 성공한 점프 한 번으로 꼴찌에서 1등까지 단숨에
+    치고 올라갈 수 있지만, 실패하면 크게 뒤로 밀립니다. 어떤 커브가 지름길로
+    연결되기 좋은지 경험을 통해 익히는 것이 중요합니다.
 
-Winning in *aquapark.io* is all about mastering shortcuts and managing risk.
+#### 2. 전략적인 밀치기(범핑)
 
-#### 1. The Art of Flying is Everything
-This is the single most important strategy. To win consistently, you must leave the slide.
-*   **[KO]** **How to Fly:** Build up speed by sliding down a steep section. As you approach a curve or the edge of the slide, steer sharply outwards. This will launch your character into the air.
-*   **[KO]** **Aim Your Landing:** While in the air, you have limited control. Try to aim for the red and white striped surface of a lower track section. Landing in the water means you'll respawn back on the slide, losing precious time.
-*   **[KO]** **Risk vs. Reward:** A successful shortcut can put you from last place into first instantly. A failed attempt will set you back significantly. Learning which corners are best for launching is key.
+*   **공격적인 범핑:** 코스 가장자리 근처에서 상대와 나란히 달릴 때, 살짝
+    옆으로 밀어 떨어뜨릴 수 있습니다. 특히 급커브 구간에서 효과적입니다.
+*   **방어적인 주행:** 반대로 다른 플레이어가 자신을 밀려고 할 때는 슬라이드의
+    가운데 쪽으로 이동하거나, 속도를 올려 거리를 벌려 공격 기회를 줄이세요.
 
-#### 2. Strategic Bumping
-*   **[KO]** **Offensive Bumping:** When you are side-by-side with an opponent near an edge, you can give them a nudge to knock them off the slide. This is most effective on sharp turns.
-*   **[KO]** **Defensive Sliding:** Be aware of others trying to bump you. If you see someone closing in, try to move towards the center of the slide or use a speed boost to get away.
+#### 3. 지형과 기믹 활용하기
 
-#### 3. Use the Environment
-*   **[KO]** **Speed Boosters:** Slide over the yellow arrow panels on the track. They provide a significant, temporary speed boost which is perfect for setting up a big jump.
-*   **[KO]** **Avoid Obstacles:** Some slides have stationary obstacles. Hitting them will bring you to a dead stop, killing all your momentum.
+*   **속도 부스트 패널:** 트랙 위의 노란 화살표 패널을 지나가면 잠시 동안
+    큰 속도 상승을 얻을 수 있습니다. 비행을 시도하기 좋은 지점에서 부스트를
+    밟으면 더 멀리 날아갈 수 있습니다.
+*   **장애물 피하기:** 일부 코스에는 고정 장애물이 배치되어 있습니다. 여기에
+    부딪히면 속도가 크게 줄어들어, 사실상 레이스에서 뒤처지게 됩니다.
 
-#### 4. The Start of the Race
-At the very beginning, it can be crowded and chaotic. It's often safer to hang back slightly and avoid the initial cluster, then look for an early opportunity to take a flying shortcut while everyone else is bumping each other.
+#### 4. 레이스 초반 운영
 
-### Controls Guide
+출발 직후에는 플레이어가 몰려 있어 충돌이 잦고 혼전이 벌어집니다. 약간 뒤에서
+상황을 지켜보다가, 사람들이 서로 부딪히는 사이에 **조금 늦게 출발해
+지름길 비행을 노리는 것**도 좋은 전략입니다.
 
-The game is famous for its extremely simple control scheme.
+### 조작 방법
 
-*   **[KO]** **Movement (Mobile):** Place your finger anywhere on the screen and drag left or right to steer your character. There are no other buttons.
-*   **[KO]** **Movement (PC/Web Browser):** Click and hold the left mouse button, then drag the mouse left or right to steer.
+이 게임은 매우 단순한 조작으로 유명합니다.
 
-### Frequently Asked Questions (FAQ)
+*   **모바일:** 화면 아무 곳이나 터치한 상태에서 손가락을 좌우로 움직여
+    캐릭터를 조향합니다. 별도의 점프 버튼은 없습니다.
+*   **PC/브라우저:** 마우스 왼쪽 버튼을 클릭한 채 좌우로 드래그해 캐릭터의
+    이동 방향을 조절합니다.
 
-*   **[KO]** **Q: Are the other players in *aquapark.io* real people?**
-    *   **[KO]** **A:** The vast majority of opponents you race against are AI-controlled bots. This is a common practice in ".io" and hyper-casual games to ensure full lobbies and fast matchmaking. You may occasionally be matched with real players, but most are bots designed to simulate a real race.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: How do I jump higher and fly further?**
-    *   **[KO]** **A:** The height and distance of your flight depend entirely on your speed and the angle at which you leave the slide. Use speed boosters and hit the edge of a steep, curved section of the slide to maximize your air time.
+*   **Q: 함께 달리는 상대가 실제 유저인가요?**
+    *   **A:** 대부분은 AI 봇으로 구성되어 빠른 매칭과 가득 찬 레이스를 보장하지만, 간혹 실제 플레이어도 섞일 수 있습니다.
 
-*   **[KO]** **Q: What are the coins for?**
-    *   **[KO]** **A:** The coins you collect at the end of each race can be used in the in-game shop to unlock new character skins and other cosmetic items, such as different rubber rings. These items do not affect gameplay.
+*   **Q: 더 높이, 더 멀리 날려면 어떻게 해야 하나요?**
+    *   **A:** 속도와 이탈 각도가 핵심입니다. 경사가 큰 구간에서 속도를 올리고 커브 바깥쪽에서 뛰어오르면 훨씬 멀리 날 수 있습니다.
 
-*   **[KO]** **Q: I landed in the water. Is the race over?**
-    *   **[KO]** **A:** No. If you miss the slide and land in the water, you will automatically respawn on the track near where you fell off, but you will have lost several seconds.
+*   **Q: 코인은 어디에 쓰나요?**
+    *   **A:** 상점에서 캐릭터 스킨과 튜브 등 외형 아이템을 해금할 때 사용되며, 플레이 성능에는 영향을 주지 않습니다.
 
+*   **Q: 물에 떨어졌는데 게임이 끝난 건가요?**
+    *   **A:** 아닙니다. 곧바로 코스 위로 리스폰되지만 그 동안 시간 손해를 보니, 가능하면 슬라이드 위로 착지하세요.

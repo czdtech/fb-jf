@@ -1,52 +1,47 @@
 ---
-locale: ja
-urlstr: yohoho-io
-title: '[JA TRANSLATION NEEDED] YoHoHo.io'
-description: >-
-  [JA TRANSLATION NEEDED] Set sail for adventure in YoHoHo.io, a thrilling
-  pirate-themed battle royale game! Grow your pirate by collecting gold,
-  eliminate smaller opponents, and avoid the shrinking safe zone. Master your
-  sword attacks and dash abilities to become the most feared pirate on the high
-  seas!
-iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
+title: Yohoho.io
+description: Yohoho.ioは、海賊バトルロイヤルゲームです。他の海賊と戦って最後の一人になりましょう。
+iframeSrc: 'https://ubg98.github.io/YohohoIO/'
 thumbnail: /new-images/yohoho-io.jpg
+urlstr: yohoho-io
+score: 4.4/5  (3234 votes)
 tags:
-  - io-game
-  - battle-royale
+  - io
+  - battle royale
   - pirate
-score: 5.0/5  (316 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] YoHoHo.io is a fast-paced, pirate-themed battle royale .io game where players compete to be the last pirate standing on a shrinking island. Starting as a small pirate, you must collect gold, grow in size and strength, and eliminate other players to dominate the leaderboard. The game combines simple controls with addictive, competitive gameplay.
+Yohoho.ioは、海賊をテーマにしたバトルロイヤルIOゲームです。島で他の海賊と戦い、コインを集めて成長し、最後の海賊として生き残りましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-- **Collect Gold:** Your primary objective is to collect gold scattered around the island. Gold increases your pirate's size, attack range, and damage.
-- **Eliminate Opponents:** Attack smaller pirates to defeat them and collect their dropped gold. Avoid larger pirates until you're strong enough.
-- **Shrinking Map:** The safe zone on the island continuously shrinks, forcing players closer together and increasing the intensity of battles. Stay within the safe zone to avoid taking damage.
-- **Dash Ability:** Use your dash ability strategically to quickly close distances, escape danger, or dodge attacks.
+ - **海賊を操作：** マウスで移動と攻撃をします
+ - **コインを集める：** コインを集めて大きくなります
+ - **敵と戦う：** 他のプレイヤーを倒します
+ - **生き残る：** 最後の一人になります
 
-### Controls Guide
+### 操作ガイド
 
-- **Movement:** `WASD` or `Arrow Keys` (Keyboard) / Drag mouse or finger (Mouse/Touch)
-- **Attack:** `Left Click` or `Spacebar` (Keyboard) / Tap (Touch)
-- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
+ - **マウス：** 移動方向
+ - **左クリック：** ダッシュ/攻撃
+
+
 - **Dash:** `Right Click` (Mouse) / Dedicated dash button (Mobile)
 
-### Frequently Asked Questions (FAQ)
+- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **How do I get bigger and stronger?**
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] By collecting gold. The more gold you collect, the larger your pirate becomes, which increases your attack range and damage output.
+最後まで生き残り、最大の海賊になることです。
 
-[JA TRANSLATION NEEDED] **What happens if I go outside the safe zone?**
+**どうやって強くなりますか？**
 
-[JA TRANSLATION NEEDED] If you go outside the safe zone (indicated by the red area), your pirate will start taking continuous damage, eventually leading to defeat.
+コインを集めるか、他のプレイヤーを倒して成長します。
 
-[JA TRANSLATION NEEDED] **Are there different pirate characters?**
+**チーム戦はありますか？**
 
-[JA TRANSLATION NEEDED] Yes, you can unlock different pirate characters, each with unique appearances and sometimes different starting stats or abilities, as you progress and earn more gold.
-
+いいえ、全員が敵の バトルロイヤルです。

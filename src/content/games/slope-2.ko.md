@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: slope-2
-title: '[KO] Slope 2'
+title: "Slope 2 슬로프 2"
 description: >-
-  [KO] Slope 2 is the sequel to the popular endless running game where players
-  control a ball rolling down a steep slope, avoiding obstacles and red blocks
-  while trying to survive as long as possible in this fast-paced challenge.
+  끝없이 이어지는 경사로를 굴러 내려가는 볼 러너 게임의 후속작입니다.
+  더 빨라진 속도와 새로운 장애물을 피해 최대한 오래 살아남아
+  최고 기록에 도전해 보세요.
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
 thumbnail: /new-images/slope-2.jpg
 tags:
@@ -18,32 +18,65 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
-### Game Introduction
+*Slope 2*는 인기 엔드리스 러너 *Slope*의 후속작으로, 가파른 경사로를
+볼이 끊임없이 굴러 내려가는 속도감 있는 게임입니다. 플레이어는 좌우
+이동만으로 빨간 블록과 각종 장애물을 피하며, 가능한 한 오래
+생존해 최고 점수를 노려야 합니다.
 
-"Slope 2" is the sequel to the popular endless running game where players control a ball rolling down a steep slope, avoiding obstacles and red blocks while trying to survive as long as possible in this fast-paced challenge. The game continues the core gameplay of the original while adding new features and more challenging level designs.
+전작의 기본 규칙은 그대로 유지하면서, 그래픽과 장애물 구성이
+업그레이드되어 더 다양한 코스와 난이도를 제공합니다.
 
-### Gameplay Strategy
+### 플레이 전략
 
-1.  **[KO]** **Reaction Speed**: Practice quick reactions to handle suddenly appearing obstacles and direction changes.
-2.  **[KO]** **Path Planning**: Observe obstacle layouts ahead and choose the safest paths.
-3.  **[KO]** **Speed Control**: While you can't directly control speed, you can influence the ball's movement through path selection.
-4.  **[KO]** **Obstacle Recognition**: Quickly identify different types of obstacles, understanding which can be touched and which must be avoided.
-5.  **[KO]** **Focus Training**: Maintain high concentration to avoid mistakes due to distraction.
+1. **반응 속도 연습하기**  
+   갑자기 나타나는 장애물과 방향 전환에 대응하려면 빠른 반응이
+   필수입니다. 여러 번 플레이하면서 패턴을 익히고, 눈에 보이는 즉시
+   작은 입력으로 방향을 바꾸는 연습을 해 보세요.
 
-### How to Play
+2. **앞길을 미리 보고 경로 계획하기**  
+   볼 바로 앞만 보지 말고, 화면 위쪽까지 시선을 두어 다음 몇 개의
+   장애물을 한 번에 파악하세요. 안전한 라인과 위험한 라인을 미리
+   구분하는 것이 중요합니다.
 
-*   **[KO]** **Left/Right Control**: Use A/D keys or left/right arrow keys to control the ball's left and right movement.
-*   **[KO]** **Maintain Balance**: Avoid excessive steering that causes the ball to lose control.
-*   **[KO]** **Jump**: Some versions may support jumping functionality (if available).
+3. **속도는 줄일 수 없지만, 라인으로 제어하기**  
+   속도 자체를 직접 조절할 수는 없지만, 비교적 장애물이 적은 라인으로
+   미리 이동해 두면 심리적으로 여유가 생깁니다. 좁은 통로에 너무
+   오래 머무르지 마세요.
 
-### Frequently Asked Questions
+4. **장애물 종류를 빠르게 구분하기**  
+   단순 벽, 움직이는 블록, 튀어나온 경사 등 각 장애물의 패턴을
+   익히면, 어느 쪽으로 피해야 할지 즉시 판단할 수 있습니다.
 
-1.  **[KO]** **Q: How can I improve survival time?**
-**A**: Practice more to improve reaction speed and learn to predict obstacle appearance patterns.
-2.  **[KO]** **Q: What if the ball is too fast to control?**
-**A**: Stay calm, use small directional adjustments, and avoid over-correction.
-3.  **[KO]** **Q: What's different from the original Slope?**
-**A**: "Slope 2" typically includes improved graphics, new obstacle types, and more challenging level designs.
-4.  **[KO]** **Q: Does the game keep high score records?**
-**A**: Yes, the game records your highest score, and you can challenge yourself to continuously break records.
+5. **집중력 유지하기**  
+   속도가 붙을수록 한 번의 실수가 바로 추락으로 이어집니다.
+   잠깐이라도 방심하면 안 되므로, 피로를 느끼면 과감히 휴식을
+   취한 뒤 다시 도전하는 것이 좋습니다.
+
+### 조작 가이드
+
+- **좌우 이동**: `A/D` 키 또는 좌/우 방향키로 볼을 좌우로 움직입니다.  
+- **밸런스 유지**: 조향을 과하게 입력하면 연속으로 벽에 부딪힐 수
+  있으니, 작은 각도로 짧게 조정하는 것이 좋습니다.  
+- **점프(지원되는 버전)**: 일부 버전에서는 점프 키로 특정 장애물을
+  뛰어넘을 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 생존 시간을 늘리려면 어떻게 해야 하나요?**  
+   **A:** 자주 플레이하며 장애물 패턴과 등장 빈도를 익히는 것이
+   가장 중요합니다. 반응이 늦는 구간을 따로 기억해 두었다가,
+   그 구간에서 더 빨리 대응하도록 의식해 보세요.
+
+2. **Q: 공이 너무 빨라서 컨트롤하기 힘들어요.**  
+   **A:** 당황해 크게 꺾기보다, 짧은 입력을 여러 번 나누어 사용하는
+   것이 좋습니다. 과한 조향은 오히려 연속 충돌을 부릅니다.
+
+3. **Q: 1편과 무엇이 다른가요?**  
+   **A:** *Slope 2*는 개선된 그래픽과 새로운 장애물 타입, 더 복잡한
+   레이아웃을 추가해 난이도를 높인 버전입니다.
+
+4. **Q: 최고 기록은 저장되나요?**  
+   **A:** 대부분의 버전에서 최고 점수와 기록을 저장해 두며, 매 판
+   자신의 최고 기록을 갱신하는 식으로 플레이할 수 있습니다.

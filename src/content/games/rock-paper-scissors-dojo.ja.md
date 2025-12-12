@@ -1,69 +1,39 @@
 ---
+title: "Rock Paper Scissors Dojo"
+description: "Rock Paper Scissors Dojoは戦略的じゃんけんゲームです。対戦相手と競い、パターンを読み、じゃんけんチャンピオンになります。"
+iframeSrc: "https://rockpaperscissorsdojo.h5games.usercontent.goog/v/2j9k5m8h7p3n8/"
+thumbnail: "/new-images/rock-paper-scissors-dojo.png"
+urlstr: "rock-paper-scissors-dojo"
+score: "3.9/5  (1623 votes)"
+tags: ["casual", "2 player"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: rock-paper-scissors-dojo
-title: '[JA TRANSLATION NEEDED] Rock Paper Scissors Dojo'
-description: >-
-  [JA TRANSLATION NEEDED] Rock Paper Scissors Dojo is a quirky duel — read
-  patterns, mix strategies, and outwit opponents in best‑of series.
-iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
-thumbnail: /new-images/rock-paper-scissors-dojo.png
-tags:
-  - casual
-  - 2 player
-score: 3.8/5  (1659 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Rock Paper Scissors Dojoは、クラシックなじゃんけんゲームに戦略と進行を追加します。対戦相手と競い、パターンを読み、ランクを登り、特別な能力とアップグレードをアンロックします。
 
-[JA TRANSLATION NEEDED] Rock Paper Scissors Dojo turns RPS into a light mind‑game. Across best‑of matches, you’ll try to detect tendencies (e.g., opponents repeat after wins, switch after losses) and counter with mixed strategies that avoid being predictable.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **パターンを読む:" 対戦相手の傾向を観察します。
+2.  **ミックス:" 予測可能にならないでください。
+3.  **統計を追跡:" 何が機能しているかを見ます。
+4.  **能力を使用:" 特別な能力を戦略的に使用します。
+5.  **適応:" 対戦相手の戦略に基づいて調整します。
 
-[JA TRANSLATION NEEDED] 1.  Baseline mix: Use a balanced random mix to avoid exploitation early.
-[JA TRANSLATION NEEDED] 2.  Pattern spotting: Track opponent streaks — repeaters vs switchers.
-[JA TRANSLATION NEEDED] 3.  Counter‑adapt: If they repeat after wins, pre‑counter next round; if they switch after losses, anticipate the switch.
-[JA TRANSLATION NEEDED] 4.  Meta resets: Throw an occasional off‑pattern choice to reset reads.
-[JA TRANSLATION NEEDED] 5.  Series math: In best‑of N, tighten play near deciding rounds.
+### 操作ガイド
 
-### Controls Guide
+- クリック/タップしてグー、チョキ、パーを選択します。
+- 対戦相手を読んで予測します。
+- ラウンドを勝ち取ります。
 
-- Pick rock/paper/scissors each round; local two‑player often available.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Isn’t RPS random?
-  
-[JA TRANSLATION NEEDED]   A: Humans show biases; exploiting them raises win rate over many rounds.
-
-- Q: Any unbeatable strategy?
-  
-[JA TRANSLATION NEEDED]   A: No — but balanced mixes and quick adaptation are robust.
-
-- Q: Two‑player?
-  
-
-
-
-
-
-- Q: Isn’t RPS random?
-### よくある質問（FAQ）
-- Pick rock/paper/scissors each round; local two‑player often available.
-### コントロールガイド
-- Series math: In best‑of N, tighten play near deciding rounds.
-[JA TRANSLATION NEEDED]   A: Many builds include local 2P on one device.
-
-
-
-
-
-
-A: Many builds include local 2P on one device.
-- Q: Two‑player?
-A: No — but balanced mixes and quick adaptation are robust.
-- Q: Any unbeatable strategy?
-
-
-A: Many builds include local 2P on one device.
+- **Q: これは純粋な運のゲームですか？**  
+  A: いいえ、パターン認識と心理学が役割を果たします。
+- **Q: 特別な能力とは何ですか？**  
+  A: パワーアップとブースターが戦略的な優位性を与えます。
+- **Q: マルチプレイヤーですか？**  
+  A: 一部のバージョンはローカルまたはオンライン対戦を提供します。

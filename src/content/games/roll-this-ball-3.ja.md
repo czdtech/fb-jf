@@ -1,83 +1,50 @@
 ---
-locale: ja
-urlstr: roll-this-ball-3
-title: '[JA TRANSLATION NEEDED] Roll This Ball'
-description: >-
-  [JA TRANSLATION NEEDED] A classic sliding puzzle that will test your logic.
-  Slide the wooden blocks to create a clear path for the ball to roll from the
-  start to the goal.
-iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
+title: Roll This Ball 3
+description: Roll This Ball 3はスライディングパズルです。タイルをスライドさせ、パスを作成し、ボールをゴールに導き、論理パズルをマスターします。
+iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/roll-this-ball-3.png
+urlstr: roll-this-ball-3
+score: 4.2/5  (2156 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.4/5  (2550 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Roll This Ball 3は、タイルをスライドさせてボールのためのパスを作成することに挑戦します。スタートからゴールまで継続的なパスを作成し、最小移動ですべてのレベルをクリアします。論理的思考とパターン認識が必要です。
 
-[JA TRANSLATION NEEDED] Roll This Ball is a classic and challenging sliding block puzzle designed to test your logic and planning skills. The game presents you with a grid of tiles, some of which are fixed in place, while others can be moved. Your goal is to slide the movable blocks to form a continuous, unbroken path for a ball to roll from its starting point to the goal. It's a simple concept with surprisingly deep and challenging puzzles.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **目標から作業:" ゴールから逆にパスを視覚化します。
+2.  **移動を最小限に抑える:" より少ない移��= より高いスコア。
+3.  **固定タイルを識別:" どのタイルが移動できないかを見ます。
+4.  **先を計画:" パス全体を精神的にトレースします。
+5.  **星を収集:" 完全なスコアのためにすべての星を通過します。
 
-[JA TRANSLATION NEEDED] 1.  **Analyze the Path:** Before you start moving blocks, trace the potential path with your eyes. Identify the key pieces that need to connect the start and end points.
-[JA TRANSLATION NEEDED] 2.  **Work Backwards:** Sometimes it's easier to solve the puzzle by working backwards from the goal tile. Figure out which piece needs to connect to the goal, then which piece needs to connect to that one, and so on, until you reach the start.
-[JA TRANSLATION NEEDED] 3.  **Use Fixed Blocks as Anchors:** The blocks with rivets in them cannot be moved. Use these as fixed points in your path and build your solution around them.
-[JA TRANSLATION NEEDED] 4.  **Aim for the Stars:** Many levels have a star rating. To get all three stars, you typically need to solve the puzzle in the minimum number of moves possible. This requires thinking efficiently and not making any unnecessary slides.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple drag-and-drop or sliding controls.
-
-*   **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
-    - **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.（日本語訳が必要）
-    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.（日本語訳が必要）
-    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.（日本語訳が必要）
-    - **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.（日本語訳が必要）
-    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.（日本語訳が必要）
-    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.
-
-*   **Q: Why can't I move a specific block?**
-[JA TRANSLATION NEEDED]     *   **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-
-*   **Q: I've made a path, but the ball isn't rolling. Why?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
+### 操作ガイド
 
 
+The game is played with simple drag-and-drop or sliding controls.
+- タイルをクリック/タップしてドラッグしてスライドさせます。
+- スタートからゴールまでパスを作成します。
+- より少ない移動でより良いスコア。
 
+### よくある質問 (FAQ)
 
-
-
-
-
-
+- **Q: どれくらいのレベルがありますか？**  
+  A: Roll This Ball 3には数百のレベルがあります。
+    - **Q: ヒントはありますか？**  
+  A: 一部のバージョンには、行き詰まったときのヒントがあります。
+- **Q: タイムリミットはありますか？**  
 
     - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
+
 - **Q: I've made a path, but the ball isn't rolling. Why?**
+
     - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-- **Q: Why can't I move a specific block?**
-    - **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.
-- **Q: What is the goal of the game?**
-### よくある質問（FAQ）
-- **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
-
-
-
-
-
-
-    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
-- **Q: I've made a path, but the ball isn't rolling. Why?**
-    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-- **Q: Why can't I move a specific block?**
-    - **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.
+  A: 通常いいえ。自分のペースで。

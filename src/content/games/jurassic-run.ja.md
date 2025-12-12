@@ -1,62 +1,35 @@
 ---
+title: "Jurassic Run"
+description: "Jurassic Runは恐竜ダッシュランナーです。障害物を回避し、レーンをスワップし、ハイスコアのためにスプリントします。"
+iframeSrc: "https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/"
+thumbnail: "/new-images/jurassic-run.png"
+urlstr: "jurassic-run"
+score: "3.9/5  (1721 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: jurassic-run
-title: '[JA TRANSLATION NEEDED] Jurassic Run'
-description: >-
-  [JA TRANSLATION NEEDED] Jurassic Run is a dino‑dash runner — evade hazards,
-  swap lanes, and sprint for high scores.
-iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
-thumbnail: /new-images/jurassic-run.png
-tags:
-  - action
-  - casual
-score: 3.9/5  (1721 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Jurassic Runは、恐竜とジャングル障害物の中に設定された高速エンドレスランナーです。先のトラックを読み、レーンを切り替えるかジャンプ/スライドして障害物を回避し、速度が上がるにつれてコインピックアップを連鎖させます。
 
-[JA TRANSLATION NEEDED] Jurassic Run is a fast endless runner set among dinosaurs and jungle obstacles. Read the track ahead, switch lanes or jump/slide to avoid hazards, and chain coin pickups as speed increases.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  早期のレーン変更を計画するために遠くを見ます。
+2.  ギャップがタイトな時はリスクの高いコインをスキップします。安全性が実行を維持します。
+3.  前もって位置するために、繰り返される障害物セットを記憶します。
+4.  より高速時に小さく、鮮明な入力を行います。
+5.  利用可能な場合、密集したストレッチのためにシールド/マグネットを保存します。
 
-[JA TRANSLATION NEEDED] 1.  Look far ahead to plan early lane changes.
-[JA TRANSLATION NEEDED] 2.  Skip risky coins when gaps are tight; safety keeps runs alive.
-[JA TRANSLATION NEEDED] 3.  Memorize repeating obstacle sets to pre‑position.
-[JA TRANSLATION NEEDED] 4.  Make small, crisp inputs at higher speeds.
-[JA TRANSLATION NEEDED] 5.  Save shields/magnets for dense stretches if available.
+### 操作ガイド
 
-### Controls Guide
+- 移動：A/Dまたは左/右。SpaceまたはUpとDownでジャンプ/スライド。
+- 画面上のUI経由で一時停止/再試行。
 
-- Move: A/D or Left/Right; jump/slide with Space/Up and Down.
-- Pause/Retry via on‑screen UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
-- Is there an end? Usually endless—chase personal bests.
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
-
-
-
-
-
-
-
-
-
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
-- Is there an end? Usually endless—chase personal bests.
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
-### よくある質問（FAQ）
-- Pause/Retry via on‑screen UI.
-- Move: A/D or Left/Right; jump/slide with Space/Up and Down.
-### コントロールガイド
-
-
-
-
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
-- Is there an end? Usually endless—chase personal bests.
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
+- クリッピングし続けます。なぜですか？わずかに遅くジャンプして、オーバーステアリングを避けます。
+- 終わりはありますか？通常エンドレス。個人的なベストを追いかけます。
+- パワーアップは？多くのバージョンには、シールド、マグネット、またはスローモーが含まれます。

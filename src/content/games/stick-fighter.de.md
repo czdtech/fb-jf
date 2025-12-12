@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: stick-fighter
-title: '[DE] Stick Fighter'
+title: Stick Fighter
 description: >-
-  [DE] Become a master of stickman combat in Stick Fighter! This action-packed
-  brawler pits you against other stick figures in a physics-based arena. Use
-  your fists, feet, and a variety of weapons to be the last one standing.
+  Werde zum Meister der Strichmännchen-Kämpfe in Stick Fighter: einem
+  actionreichen Brawler, in dem du in gefährlichen Arenen mit Fäusten, Füßen und
+  Waffen ums Überleben kämpfst.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
 thumbnail: /new-images/stick-fighter.jpg
@@ -17,39 +17,37 @@ score: 3.6/5  (1444 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Stick Fighter ist – ähnlich wie Stick Fight – ein schnelles Kampfspiel aus der Seitenansicht, das stark auf Physik und chaotische Duelle setzt. Du steuerst ein schlichtes Strichmännchen und kämpfst gegen andere in kleinen Arenen voller Gefahren.
 
-### Game Introduction
+### Spielanleitung
 
-Stick Fight is a fast-paced, physics-based fighting game where you control a simple stick figure and battle against others in a variety of hazardous arenas. The goal is to be the last stickman standing. The game is known for its chaotic, unpredictable combat, where environmental dangers and a wide array of weapons lead to hilarious and action-packed rounds.
-
-### Gameplay Guide
 
 The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
-- **Combat:** Use punches, kicks, and a variety of weapons that are dropped into the arena.
-- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
-- **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
+- **Kämpfen:** Setze Schläge, Tritte und auf der Map spawnende Waffen ein, um Gegner von der Bühne zu stoßen oder ihre Lebensleiste zu leeren.
+- **Physik ausnutzen:** Rückstoß, Sprünge und Treffer können Figuren weit schleudern – das kann dir helfen, Gegner ins Aus zu befördern.
+- **Arenen lesen:** Hänge, Löcher, Stacheln oder bewegliche Plattformen machen jede Map anders. Nutze das Terrain zu deinem Vorteil.
 
-### Controls Guide
+### Steuerung
 
-Controls are typically based on a standard 2D platformer layout:
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
-- **Jump:** `W` or `Up Arrow` Key
-- **Crouch:** `S` or `Down Arrow` Key
-- **Attack:** `Left Mouse Button` or `F`
-- **Block:** `Right Mouse Button` or `G`
+(typisch für 2D‑Fighter, je nach Version leicht anders)
 
-### Frequently Asked Questions (FAQ)
+- **Bewegen:** `A` / `D` oder `Links` / `Rechts`
+- **Springen:** `W` oder `Pfeil nach oben`
+- **Ducken:** `S` oder `Pfeil nach unten`
+- **Angriff:** `Linke Maustaste` oder `F`
+- **Blocken:** `Rechte Maustaste` oder `G`
 
-**What is the main goal of Stick Fight?**
+### FAQ
 
-To be the last player standing by knocking your opponents off the stage or defeating them with weapons.
+**Worin unterscheidet sich Stick Fighter von Stick Fight?**  
+Beide verfolgen ein ähnliches Prinzip: physikbasierte Kämpfe mit Strichmännchen. Je nach Umsetzung unterscheiden sich Maps, Waffenvielfalt und Tempo – probiere einfach, welche Variante dir besser liegt.
 
-**Can I play this game with friends?**
+**Kann ich gegen Freunde spielen?**  
+Viele Versionen sind auf Multiplayer mit mehreren Spielern pro Runde ausgelegt – lokal oder online, je nach Plattform.
 
-Yes, Stick Fight is primarily a multiplayer game, often supporting both local and online matches with 2-4 players.
-
-**What kind of weapons are in the game?**
 
 The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
 
+**What kind of weapons are in the game?**

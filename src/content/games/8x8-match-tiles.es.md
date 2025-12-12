@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: 8x8-match-tiles
-title: '[ES] 8x8 Match Tiles'
+title: "8x8 Match Tiles puzle de emparejar fichas"
 description: >-
-  [ES] 8x8 Match Tiles is a clean tile matcher — pair identical tiles, clear
-  boards, and plan around limited space.
+  8x8 Match Tiles es un puzle limpio de emparejar fichas en una cuadrícula de
+  8×8. Forma parejas iguales, limpia el tablero y gestiona el espacio limitado
+  para no quedarte sin movimientos.
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
 thumbnail: /new-images/8x8-match-tiles.jpg
 tags:
@@ -15,28 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+8x8 Match Tiles es un puzle de emparejar fichas sobre una cuadrícula ordenada de
+8×8. Tu objetivo es combinar fichas idénticas bajo límites de tiempo o de
+movimientos, manteniendo el tablero despejado y evitando que queden fichas
+sueltas imposibles de emparejar.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-8x8 Match Tiles is a tidy pairing puzzle on an 8×8 grid. Match identical tiles under move or time constraints, manage board space, and avoid trapping unmatchable singles.
+1.  **Abre pasillos:** Mantén algunos caminos despejados para poder acceder a
+    las fichas más profundas del tablero.
+2.  **Prioriza las fichas escasas:** Si ves fichas únicas o en menor cantidad,
+    intenta emparejarlas pronto para que no bloqueen el tablero más adelante.
+3.  **Encadena eliminaciones desde abajo:** Cuando puedas, limpia combinaciones
+    desde la parte inferior para que se revelen nuevas fichas por arriba.
+4.  **Evita aislar fichas solitarias en las esquinas:** Son las más difíciles de
+    combinar si no planificas el espacio.
+5.  **Usa las pistas con moderación:** Si el modo ofrece pistas o ayudas, guárdalas
+    para momentos en los que realmente estés sin opciones.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Open lanes: Keep paths clear to expose deeper tiles.
-2.  **[ES]** Prioritize scarce tiles before they clog the board.
-3.  **[ES]** Chain clears from the bottom to trigger reveals.
-4.  **[ES]** Avoid isolating singles near corners.
-5.  **[ES]** Use hints sparingly if available.
+- **Seleccionar parejas:** Toca o haz clic en dos fichas iguales siguiendo las
+  reglas del modo de juego.
+- **Deshacer/Reiniciar:** Si el juego incluye estas opciones, puedes usarlas para
+  corregir errores o empezar una nueva partida.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Select pairs via click/tap following mode rules.
-- Undo/Reset if included.
+- **No me quedan movimientos, ¿tengo que reiniciar?**  
+  En muchas versiones, sí: deberás empezar de nuevo y plantear una apertura
+  distinta.
 
-### Frequently Asked Questions (FAQ)
+- **¿El límite es de tiempo o de movimientos?**  
+  Depende del modo. Algunos se basan en cronómetro y otros en un número máximo de
+  jugadas, así que adapta tu estrategia.
 
-- No moves left—restart? Often yes; plan openings differently.
-- Timed or moves? Modes vary; play accordingly.
-- Shuffle? Some versions offer shuffles; save for emergencies.
-
+- **¿Puedo barajar el tablero?**  
+  Algunas variantes permiten barajar las fichas. Reserva esa opción para
+  situaciones de emergencia en las que no queden parejas visibles.

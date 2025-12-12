@@ -1,42 +1,53 @@
 ---
-locale: ja
-urlstr: family-feud
-title: '[JA TRANSLATION NEEDED] Family Feud'
-description: >-
-  [JA TRANSLATION NEEDED] Survey‑based quiz game: guess the most popular answers
-  to family survey questions across multiple rounds and fast money.
+title: Family Feud ファミリー・フュード
+description: 「Family Feud」はアンケート回答クイズゲーム。家族調査の質問に対する最も人気のある回答を推測し、複数ラウンドとファストマネーで得点を競おう。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/family-feud.jpg
+urlstr: family-feud
+score: 4.1/5  (237 votes)
 tags:
   - trivia
   - quiz
-score: 4.1/5  (237 votes)
+developer: Fremantle
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Family Feud（ファミリー・フュード）*は、アメリカの人気テレビ番組を基にしたアンケート回答クイズゲームです。2つのチームがアンケート質問のトップ回答を推測しようと競います。
+ラウンドでは回答の人気度に基づいてポイントが与えられ、最後の「ファストマネー」ラウンドでは速射質問で締めくくります。
+
+### 遊び方
+
+*   **フェイスオフ:** 最初に正解した方がコントロールを獲得。チームは残りの回答を明らかにするか、プレイをパスします。
+*   **3ストライク:** 3回不正解でコントロールが相手チームに移ります。相手チームは1つの正解で盗めます（スティール）。
+*   **ファストマネー:** 最終ラウンドで、2人のプレイヤーの速射回答からポイントを合計します。
+
+### 操作ガイド
+
+*   **回答入力:** キーボードで回答を入力、Enterで送信
+*   **ナビゲーション:** 矢印キーまたは画面上のUI（ホストにより異なります）
+
+### 攻略のヒント
+
+*   **広いカテゴリー:** まず広いカテゴリーで考えましょう（例：「果物」「車」「お金」）。
+*   **類義語:** 明白な単語が既に出ている場合、類義語を狙いましょう。
+*   **短く一般的な単語:** ニッチな用語より、短く一般的な単語の方が高順位になることが多いです。
+
+### よくある質問 (FAQ)
+
+*   **Q: スペルのバリエーションはカウントされますか？**
+
+A: Hosts typically normalize common variants; try close synonyms.
+- **A:** ホストは通常、一般的なバリエーションを正規化します。近い類義語を試してみましょう。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Two teams try to guess top answers from survey questions. Rounds award points based on answer popularity; Fast Money closes with rapid‑fire questions.
+A: Three per round before control passes.
+*   **Q: ストライクは何回ですか？**
 
-### How to Play
-- Face‑off: first correct answer gains control; the team reveals remaining answers or passes play.
-- Three strikes pass control; the other team can steal with one correct answer.
-- Final “Fast Money” totals points from two players’ rapid answers.
+A: Most web versions support solo against survey results.
+    *   **A:** コントロールが移る前に、ラウンドごとに3回です。
 
-### Controls
-- Keyboard entry for answers; Enter to submit; arrow/onscreen UI to navigate (host dependent).
-
-### Tips
-- Think broad categories first (e.g., “fruit,” “car,” “money”).
-- Aim for synonyms if an obvious word is taken.
-- Short, common words often rank higher than niche terms.
-
-### FAQ
-- Q: Do spelling variants count?  
-[JA TRANSLATION NEEDED]   A: Hosts typically normalize common variants; try close synonyms.
-- Q: How many strikes?  
-[JA TRANSLATION NEEDED]   A: Three per round before control passes.
-- Q: Is there single‑player?  
-[JA TRANSLATION NEEDED]   A: Most web versions support solo against survey results.
-
+*   **Q: 一人用モードはありますか？**
+    *   **A:** ほとんどのウェブ版は、アンケート結果に対するソロプレイをサポートしています。

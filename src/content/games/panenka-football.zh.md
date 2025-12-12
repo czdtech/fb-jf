@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: panenka-football
-title: '[ZH TRANSLATION NEEDED] Panenka Football'
+title: "《Panenka Football》勺子点球大师"
 description: >-
-  [ZH TRANSLATION NEEDED] Panenka Football is a penalty craft — disguise intent,
-  chip with touch, and outguess keepers with audacious Panenkas.
+  《Panenka Football》是一款专注点球策略的足球小游戏，你可以尝试经典“勺子点球”等各种射门方式，通过伪装意图与精准挑射，骗过门将、攻入关键一球。
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/panenka-football.png
 tags:
@@ -15,32 +14,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Panenka Football focuses on the cheeky Panenka — a soft chip down the middle as the keeper dives. Mix chips with corners and height variations; success relies on late aim changes and reading keeper habits.
+《Panenka Football》围绕足球中极具观赏性的“勺子点球”展开——当门将提前扑向一侧时，你用轻巧的挑射将球吊向中路，看起来既戏谑又胆大。游戏中你可以在勺子挑射、角度抽射与不同高度之间自由切换，核心在于读懂门将的习惯动作、伪装自己的射门方向，并在最合适的时机做出大胆选择。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Keeper read: If the keeper dives early, chip middle; if he holds, pick corners.
-2.  [ZH TRANSLATION NEEDED] Height control: Low hard drives vs cautious keepers; soft chips vs aggressive ones.
-3.  [ZH TRANSLATION NEEDED] Disguise: Delay final aim to avoid telegraphing; vary run‑up angles.
-4.  [ZH TRANSLATION NEEDED] Rhythm: Don’t overuse Panenkas; rotate options.
-5.  [ZH TRANSLATION NEEDED] Wind (if any): Offset shots slightly; keep chips low in strong wind.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **先读门将再选射门：** 如果发现门将起跳很早、喜欢提前选择一侧，那就是尝试中路勺子点球的好时机；相反，如果门将经常站位不动等待，你就更应该选择角度刁、速度快的边路抽射。
+2.  **高度与力量控制：** 面对谨慎型门将，可以用又低又快的贴地斜射；而在门将明显提前倒地的一瞬间，则可以选择轻巧挑射，越过他的身体落入网窝。
+3.  **伪装射门意图：** 在出脚前尽可能晚地改变准星位置，或通过细微的助跑节奏变化来掩饰真正的射门方向，减少被门将“看穿”的概率。
+4.  **节奏变化：** 勺子点球不宜多用，连用几次会让门将“有备而来”。在直塞角度、爆射与勺子之间轮换，让你的选择更难预测。
+5.  **环境因素（若有风等设定）：** 如果关卡加入风向或特殊条件，需要适度修正射门方向与高度；强风条件下，挑射高度不宜过高，以避免轨迹被明显吹偏。
 
-- Aim with mouse/keys; set power/height; optional swerve via drag if supported.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过鼠标或按键选择射门方向与高度，拖动或按压条控制力度；部分版本支持在射门后微调弧线，使球产生一定弯曲轨迹。
 
-- Q: My Panenkas get saved.
+### 常见问题（FAQ）
+
+- **问：为什么我的勺子点球总被门将没收？**
   
-[ZH TRANSLATION NEEDED]   A: Use them only when the keeper dives early; otherwise go corners.
+  **答：** 勺子点球需要在门将提前倒向一侧时使用，如果他习惯站中路或者起跳很晚，就不适合使用勺子。此时更稳妥的做法是选择边路低平球或大力抽射。
 
-- Q: Best safe shot?
+- **问：最安全的射门方式是什么？**
   
-[ZH TRANSLATION NEEDED]   A: Firm low corners; they demand perfect keeper timing.
+  **答：** 一般来说，速度快的低平角球相对更稳定，门将需要完全判断对方向并及时下地才有机会扑到，而你只需兼顾角度与力度即可。
 
-- Q: How do I hide intent?
+- **问：如何更好地隐藏射门方向？**
   
-[ZH TRANSLATION NEEDED]   A: Change aim late and vary run‑up tempo.
-
+  **答：** 尽量在射门条快结束时才做最后调整，不要在助跑伊始就锁定某一方向；同时适当改变助跑节奏与起脚瞬间的停顿，打乱门将的判断节奏。

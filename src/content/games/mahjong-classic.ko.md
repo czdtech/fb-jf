@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: mahjong-classic
-title: '[KO] Mahjong Classic'
+title: Mahjong Classic 마작 클래식
 description: >-
-  [KO] Enjoy the timeless puzzle of Mahjong Classic. Match pairs of identical,
-  unblocked tiles to clear the board in this relaxing game of strategy and
-  observation.
+  Mahjong Classic은 마작 패를 이용해 같은 패를 짝지어 없애는 고전 싱글 플레이 퍼즐입니다. 막혀 있지 않은 동일 타일 쌍을 찾아
+  보드를 비우는, 편안하면서도 두뇌를 쓰게 만드는 전략 게임입니다.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/mahjong-classic.png
 tags:
@@ -19,33 +18,47 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Mahjong Classic*은 마작 패를 사용하지만, 전통적인 마작처럼 화료 패를 만드는 게임이
+아니라 쌓여 있는 레이아웃에서 같은 패를 하나씩 짝지어 지워 나가는 퍼즐 게임입니다.
+겉보기에는 단순한 짝 맞추기처럼 보이지만, 층층이 쌓인 구조를 어떻게 풀어 나갈지
+계획하는 관찰력과 전략적 사고가 중요합니다. 느긋하게 즐기면서도 머리를 적당히 써야
+하는, 클래식한 퍼즐의 매력을 그대로 담고 있습니다.
 
-Mahjong Classic is the timeless single-player puzzle game that uses a set of Mahjong tiles. The goal is not to form winning hands as in traditional Mahjong, but to systematically clear a stacked layout of tiles by finding and matching identical pairs. It’s a game that tests your observation skills and strategic thinking, providing a relaxing yet engaging mental workout.
+### 공략 & 플레이 팁
 
-### Gameplay Strategy & Walkthrough
+1. **자유 타일 규칙 이해하기:** 선택하고 짝지을 수 있는 것은 '자유로운' 타일뿐입니다.
+   왼쪽이나 오른쪽 한쪽 이상이 비어 있고, 위에 다른 타일이 올려져 있지 않아야 자유
+   타일로 간주됩니다.
+2. **무작정 짝 맞추지 않기:** 눈에 보이는 첫 번째 쌍부터 지우기보다, 어떤 쌍을 지울 때
+   가장 많은 타일이 새로 열리는지를 생각하면서 선택하세요. 특히 높게 쌓인 구역을
+   먼저 풀어 주는 것이 중요합니다.
+3. **같은 타일이 여러 개 있을 때:** 동일한 타일이 세 개, 네 개 이상 동시에 자유 상태라면
+   잠시 멈추고 어떤 조합을 먼저 없앨지 고민해 보세요. 잘못 선택하면 남은 쌍이 영원히
+   막혀 버릴 수 있습니다.
+4. **꽃/계절 패 활용:** 꽃 패는 어떤 꽃끼리든, 계절 패는 어떤 계절끼리든 서로 짝을
+   이룰 수 있습니다. 꼭 같은 그림일 필요가 없으므로, 막혔을 때 판을 푸는 열쇠로
+   활용해 보세요.
 
-1.  **[KO]** **The Rule of Free Tiles:** You can only select and match tiles that are "free." A tile is considered free if it can be moved left or right without being blocked by another tile, and it has no other tiles sitting on top of it.
-2.  **[KO]** **Strategic Matching:** Don't just match the first pair you see. Think about which matches will open up the most new tiles. Prioritizing pairs that unblock heavily stacked areas of the board is key to success.
-3.  **[KO]** **Handle Multiples with Care:** If you see three or four identical free tiles, pause and consider which pair to match. The wrong choice could leave the other pair blocked permanently. Choose the pair that will be most beneficial for future moves.
-4.  **[KO]** **Flower and Season Tiles:** Remember that any Flower tile can be matched with any other Flower tile, and the same goes for Season tiles. They don't need to be identical. Use these flexible matches to your advantage, especially when you're stuck.
+### 조작 방법
 
-### Controls Guide
+이 게임은 마우스 클릭 또는 터치만으로 간단히 플레이할 수 있습니다.
 
-The game is played with simple mouse clicks or taps.
+* **선택 & 매칭:** 자유로운 타일을 클릭해 선택한 뒤, 동일한 모양의 다른 자유 타일을
+  클릭하면 두 타일이 함께 사라집니다.
+* **힌트/섞기:** 대부분의 버전에는 가능한 한 쌍을 보여 주는 "힌트" 버튼과, 더 이상
+  수가 없을 때 남은 타일을 섞어 새로운 배치를 만드는 "섞기" 버튼이 포함되어 있습니다.
 
-*   **[KO]** **Select & Match:** Click on a free tile to highlight it. Then, click on another identical, free tile to remove both from the board.
-*   **[KO]** **Hints/Shuffle:** Most versions include a "Hint" button to show you a possible match and a "Shuffle" button to rearrange the tiles if no moves are available.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 어떤 타일은 클릭이 안 되는데 왜 그런가요?**
+    - **A:** 그 타일은 아직 '자유로운' 상태가 아닙니다. 좌우 양쪽이 다른 타일에 막혀 있거나,
+    위에 타일이 하나 더 얹혀 있을 수 있습니다.
 
-*   **[KO]** **Q: Why can't I click on a tile?**
-    *   **[KO]** **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.
+* **Q: 이 게임의 최종 목표는 무엇인가요?**
+    - **A:** 보드 위에 놓인 모든 타일을 100% 짝 맞추어 없애는 것이 목표입니다.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
-
-*   **[KO]** **Q: I have no more moves. Is the game over?**
-    *   **[KO]** **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
-
+* **Q: 더 이상 움직일 수 있는 쌍이 없으면 게임이 끝인가요?**
+    - **A:** 꼭 그렇지는 않습니다. 많은 버전에서 더 이상 매칭이 불가능하면 남은 타일을
+    다시 섞어 새로운 수를 만들 수 있는 "섞기" 기능을 제공합니다.

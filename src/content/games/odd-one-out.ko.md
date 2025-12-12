@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: odd-one-out
-title: '[KO] Odd One Out'
-description: >-
-  [KO] Find the item that doesn't belong in the group in Odd One Out, a game
-  that tests your observation and critical thinking skills.
+title: Odd One Out 다른 하나 찾기
+description: 'Odd One Out는 한 그룹 안에서 어울리지 않는 그림을 찾아내는 퍼즐 게임으로, 관찰력과 분류 능력을 시험합니다.'
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/odd-one-out.jpg
 tags:
@@ -17,26 +15,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Odd One Out*는 여러 개의 그림이 제시되었을 때, 그중 나머지와 규칙이 맞지 않는 하나를
+골라내는 관찰 퍼즐입니다. 각 레벨마다 색, 모양, 크기, 카테고리(예: 과일·동물) 등
+여러 기준 중 하나를 중심으로 그룹이 구성되어 있으며, 플레이어는 어떤 공통점이 있는지
+먼저 파악한 뒤 그 규칙에서 벗어난 그림을 찾아야 합니다.
 
-Odd One Out is a puzzle game that challenges your observation and categorization skills. In each level, you are presented with a group of items, and your task is to identify the one that doesn't fit with the others based on a certain rule or category.
+### 공략 & 플레이 팁
 
-### Gameplay Strategy & Walkthrough
+1. **전체 먼저 훑어보기:** 처음에는 하나하나 보기보다, 눈으로 전체를 빠르게 훑어
+   대략적인 공통점을 잡아 보세요.
+2. **공통 속성 찾기:** 대부분이 공유하는 속성(색, 모양, 종류, 방향 등)을 찾은 뒤,
+   그 기준에서 벗어나는 대상을 찾아보면 훨씬 쉽습니다.
+3. **카테고리 생각하기:** 과일, 동물, 문양 등 카테고리로 묶인 경우가 많으니, "이건
+   어떤 그룹인가?"를 먼저 떠올려 보면 도움이 됩니다.
+4. **애매하면 후보 좁히기:** 확실히 아닌 그림들을 하나씩 지우면서, 남는 후보만 가지고
+   다시 비교해 보세요.
 
-1.  **[KO]** **Examine the Items:** Carefully look at all the items presented in the group.
-2.  **[KO]** **Find the Connection:** Determine the common characteristic that most of the items share. This could be color, shape, size, category (like fruits or animals), or another attribute.
-3.  **[KO]** **Identify the Odd One:** The item that does not share this common characteristic is the "odd one out."
-4.  **[KO]** **Select the Item:** Click or tap on the item you believe is the odd one out to proceed to the next level.
+### 조작 방법
 
-### Controls Guide
+* **마우스/터치:** 마우스 클릭 또는 터치로 "다른 하나"라고 생각하는 그림을 선택하면
+  정답 여부에 따라 다음 레벨로 진행되거나 재도전 안내가 나옵니다.
 
-*   **[KO]** **Mouse/Touch:** Use the mouse or touch screen to select the item that you think is the odd one out.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+* **Q: 도저히 규칙이 안 보이면 어떻게 하나요?**  
+  **A:** 색, 모양, 방향, 개수, 카테고리 등 가능한 기준을 하나씩 적용해 보세요.
+  때로는 매우 단순한 차이(예: 유일하게 웃고 있는 얼굴, 유일하게 뒤를 보는 동물)에
+  숨겨져 있는 경우도 있습니다.
 
-*   **[KO]** **Q: What if I'm stuck?**
-    *   **[KO]** **A:** Try to think about different ways the items could be related. Sometimes the connection is obvious, and other times it's more subtle. Consider all possibilities.
-*   **[KO]** **Q: Is there a time limit?**
-    *   **[KO]** **A:** This can vary, but often these games are more about thinking and observation than speed.
+    - **Q: 시간 제한이 있나요?**  
 
+- **A:** This can vary, but often these games are more about thinking and observation than speed.
+
+    - **Q: Is there a time limit?**
+  **A:** 버전에 따라 다르지만, 대부분은 속도보다는 관찰과 사고를 중시하는 편이라 느긋하게
+  풀 수 있습니다.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-carol-of-the-bells
-title: '[ES] Incredibox Carol of the Bells'
+title: "Incredibox Carol of the Bells"
 description: >-
-  [ES] Discover the festive 'Incredibox Andlbox Carol of the Bells,' a fan-made
-  mod. This guide details its Christmas theme, gameplay for remixing the classic
-  carol, and how to unlock its unique holiday-themed bonuses.
+  Descubre el festivo mod fan-made "Incredibox Andlbox Carol of the Bells". Esta
+  guía explica su temática navideña, cómo remezclar el villancico clásico y
+  desbloquear sus bonus únicos de Navidad.
 iframeSrc: 'https://turbowarp.org/931427102/embed'
 thumbnail: /new-images/incredibox-carol-of-the-bells.png
 tags:
@@ -18,42 +18,74 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **Introducción al juego**
 
+*Incredibox Andlbox Carol of the Bells* es un encantador y festivo mod fan-made
+para el juego de creación musical Incredibox. Esta versión está dedicada por
+completo a descomponer y remezclar el famoso villancico **"Carol of the
+Bells"**.
 
-### **Game Introduction**
+El juego presenta un elenco de personajes vestidos con ropa de invierno y
+motivos navideños, creando una atmósfera alegre típica de las fiestas. Como en
+Incredibox, tienes 20 iconos de sonido, pero aquí cada uno es un componente del
+villancico: la icónica melodía de cuatro notas, armonías por capas, ritmos de
+campanas y secciones corales listas para mezclar.
 
-*Incredibox Andlbox Carol of the Bells* is a charming and festive fan-made mod for the music creation game Incredibox. This version is entirely dedicated to deconstructing and remixing the famous Christmas carol, **"Carol of the Bells."**
+El objetivo es que puedas reconstruir tu propia versión de "Carol of the
+Bells" mientras resuelves el rompecabezas de encontrar los tres bonus animados
+secretos. Estos bonus, por supuesto, están tematizados alrededor de la Navidad
+y ofrecen recompensas visuales encantadoras para quienes experimentan con la
+música.
 
-The game features a cast of characters dressed in winter and holiday attire, setting a cheerful Christmas mood. Players are given the standard Incredibox interface with 20 sound icons, but here, every single sound is a component of the classic carol. You'll find the iconic four-note melody, layered harmonies, sleigh bell rhythms, and choral vocals, all ready to be mixed.
+### **Estrategia de juego y consejos**
 
-The objective is to allow players to creatively reconstruct their own version of "Carol of the Bells" while also solving the puzzle of finding the three secret animated bonuses. These bonuses are, of course, themed around Christmas, offering delightful visual rewards for musical experimentation.
+La estrategia de este mod gira en torno a entender cómo se ha fragmentado el
+villancico original y superponer sus partes para crear un sonido navideño rico.
 
-### **Gameplay Strategy & Tips**
+1.  **Comprende los componentes del villancico:**
+    *   **Beats:** La sección rítmica está llena de percusiones festivas. Puedes
+        esperar **campanas de trineo**, patrones de batería con aire navideño y
+        líneas de bajo rítmicas que sostienen el pulso.
+    *   **Efectos:** Esta categoría aporta la atmósfera invernal. Incluye
+        tintineos brillantes, viento helado ambiental y otros elementos que dan
+        a la mezcla un toque mágico de temporada.
+    *   **Melodías:** Aquí está el corazón del mod. Encontrarás el **ostinato de
+        cuatro notas** de "Carol of the Bells" interpretado por distintos
+        instrumentos o sintes, además de capas melódicas que se pueden combinar
+        para formar el tema principal.
+    *   **Voces:** Reúne todas las partes corales y vocales del villancico, desde
+        las frases tipo "Hark! how the bells…" hasta armonías ricas y
+        arreglos a capela potentes.
 
-The strategy in this mod revolves around understanding how the classic carol is broken down and layering the parts to create a rich, festive sound.
+2.  **Empieza por la melodía principal:** Una buena forma de comenzar es buscar
+    y activar el patrón melódico de cuatro notas en la categoría de "Melodies".
+    Esa melodía reconocible será el ancla de tu composición.
 
-1.  **[ES]** **Understand the Carol's Components**:
-    *   **[ES]** **Beats**: The rhythm section is filled with festive percussion. Expect to find sounds like **sleigh bells**, deep holiday-themed drum patterns, and rhythmic basslines that provide a steady pulse.
-    *   **[ES]** **Effects**: This category adds the wintery atmosphere. It includes sounds like twinkling chimes, ambient winter wind, and other textural elements that give the mix a magical holiday feel.
-    *   **[ES]** **Melodies**: This is the heart of the mod. It contains the **iconic four-note ostinato** of "Carol of the Bells" played by various instruments or synths. You'll find different melodic layers that can be combined to form the main tune.
-    *   **[ES]** **Voices**: This category contains all the choral and vocal parts of the carol, from the "Hark! how the bells..." lyrics to beautiful, layered harmonies and powerful acapella arrangements.
+3.  **Construye la armonía:** Cuando tengas la melodía principal, prueba a
+    añadir diferentes partes vocales de la categoría "Voices". Superponer estas
+    voces sobre la melodía generará el sonido coral denso y envolvente que
+    caracteriza al villancico.
 
-2.  **[ES]** **Start with the Main Melody**: A great way to begin is by finding and activating the main four-note melodic pattern from the "Melodies" category. This instantly recognizable tune will serve as the anchor for the rest of your composition.
+4.  **Añade ritmo festivo:** No olvides la percusión. Agregar campanas de
+    trineo y un buen patrón de batería dará a tu mezcla un toque más moderno y
+    enérgico.
 
-3.  **[ES]** **Build the Harmony**: Once the main melody is in place, experiment with adding different vocal parts from the "Voices" category. Layering the harmonies on top of the melody will create the rich, full sound the carol is known for.
+5.  **Busca los bonus de forma sistemática:** Para localizar los tres bonus
+    navideños, sé metódico. Cuando tengas una base que te guste, ve sustituyendo
+    los iconos restantes uno a uno hasta disparar alguna de las animaciones
+    especiales.
 
-4.  **[ES]** **Add Rhythmic Flair**: Don't forget the beats! Adding sleigh bells and a solid drum pattern will give your mix a more modern and energetic feel.
+### **Guía de controles**
 
-5.  **[ES]** **Systematic Bonus Hunting**: To find the three festive bonuses, be methodical. Once you have a core mix you enjoy, try swapping out the remaining icons one by one until you trigger one of the special Christmas-themed animations.
+Los controles son los mismos que en las versiones oficiales de Incredibox.
 
-### **Controls Guide**
-
-The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
-
-*   **[ES]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[ES]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[ES]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[ES]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[ES]** **Record**: Click the **record button** to start and stop recording your festive creation.
-
-
+*   **Añadir un sonido:** **Arrastra** un icono desde la parte inferior y
+    **suéltalo** sobre uno de los personajes.
+*   **Quitar un sonido:** pulsa la "X" sobre el icono activo en la parte
+    inferior o arrastra un nuevo sonido encima del personaje para reemplazarlo.
+*   **Silenciar / reactivar:** **Haz clic** sobre un personaje que esté
+    actuando para silenciarlo; haz clic de nuevo para que vuelva a sonar.
+*   **Solo:** pulsa el **botón pequeño** junto al personaje activo para silenciar
+    a todos los demás.
+*   **Grabar:** pulsa el **botón de grabación** para iniciar o detener la
+    grabación de tu creación navideña.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: mahjong
-title: '[DE] Mahjong'
+title: "Mahjong"
 description: >-
-  [DE] Mahjongg Solitaire is a classic single-player puzzle game based on
-  traditional Chinese Mahjong tiles, where players match identical open pairs to
-  clear the board.
+  Mahjongg Solitaire ist ein klassisches Einzelspieler-Puzzlespiel mit
+  chinesischen Mahjong-Steinen, bei dem du identische freie Paare finden musst,
+  um das Spielfeld zu leeren.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/mahjong.jpg
 tags:
@@ -17,37 +17,63 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Mahjongg Solitaire" ist ein Einzelspieler-Matching-Spiel mit
+traditionell inspirierten Mahjong-Steinen. Dein Ziel ist es, das gesamte Brett
+zu räumen, indem du Paare aus identischen, freien Steinen bildest. Durch die
+klaren Regeln, aber anspruchsvollen Layouts ist Mahjongg Solitaire weltweit
+beliebt.
 
+### Strategie & Spielweise
 
-### Game Introduction
+1.  **Spiellayout genau betrachten**  
+    Verschaffe dir zunächst einen Überblick und suche nach offensichtlichen,
+    aber auch nach taktisch wichtigen Paaren.
 
-"Mahjongg Solitaire" is a single-player matching game based on traditional Chinese Mahjong tiles. The objective of the game is to clear the entire board by matching pairs of identical, open tiles. Due to its easy-to-understand rules and challenging gameplay, Mahjongg Solitaire is loved by players worldwide.
+2.  **Blockierende Steine zuerst entfernen**  
+    Konzentriere dich auf Paare, die viele andere Steine freilegen – zum
+    Beispiel solche, die hohe Stapel krönen oder lange Reihen seitlich
+    blockieren.
 
-### Gameplay Strategy
+3.  **Züge im Voraus planen**  
+    Überlege dir mehrere Schritte im Voraus, damit jeder Zug dir neue Optionen
+    eröffnet, statt das Feld enger zu machen.
 
-1.  **[DE]** **Observe the Board Layout**: Carefully examine the board to identify available matching pairs.
-2.  **[DE]** **Prioritize Blocking Tiles**: Focus on removing pairs that block other tiles to unlock more matching possibilities.
-3.  **[DE]** **Plan Multiple Moves**: Plan several moves ahead to ensure each step creates favorable conditions for subsequent matches.
-4.  **[DE]** **Use Hints and Shuffles**: Utilize in-game hints or shuffle features when stuck, but use them sparingly to maintain the game's challenge.
+4.  **Hinweise und Mischen sorgfältig einsetzen**  
+    Nutze Hinweise oder Shuffle nur, wenn du wirklich feststeckst, um den
+    Herausforderungscharakter zu erhalten.
 
-### How to Play
+### So spielst du
 
-*   **[DE]** **Select Pairs**: Click on two identical and open tiles to remove them.
-*   **[DE]** **Identify Open Tiles**: A tile is considered open if it meets the following criteria:
-    *   **[DE]** It has no adjacent tiles on its left or right side.
-    *   **[DE]** It is not covered by any tiles above it.
-*   **[DE]** **Game End Conditions**: The game ends when all tiles are successfully removed or when there are no more possible matches.
+*   **Paare wählen:** Klicke auf zwei identische, freie Steine, um sie zu
+    entfernen.
+*   **Freie Steine erkennen:** Ein Stein gilt als frei, wenn er:  
+    *   nicht von einem anderen Stein überdeckt wird und  
+    *   mindestens auf einer Seite (links oder rechts) keinen direkten Nachbarn
+        hat.
+*   **Spielende:** Das Spiel endet, wenn alle Steine entfernt wurden – oder
+    wenn keine weiteren Paare mehr gebildet werden können.
 
-### Frequently Asked Questions
+### FAQ
 
-1.  **[DE]** **Q: What if the game doesn't load or start?**
-**A**: Try refreshing the page or switching browsers. If the problem persists, clearing your browser's cache might help.
-2.  **[DE]** **Q: How can I enlarge the game interface?**
-**A**: Click the full-screen button in the lower right corner of the game interface to enter full-screen mode and enlarge the game area.
-3.  **[DE]** **Q: Are there different tile themes available?**
-**A**: Many versions of Mahjongg Solitaire offer various tile themes, which you can change in the game settings.
-4.  **[DE]** **Q: What if there are no more matching pairs in the game?**
-**A**: Some game versions provide a shuffle feature, allowing you to rearrange the tiles to continue playing.
-5.  **[DE]** **Q: How do I pause the game?**
-**A**: Click the pause button in the game interface to pause the game, and the timer will also stop.
+1.  **F: Das Spiel startet oder lädt nicht – was tun?**  
+    **A:** Versuche, die Seite neu zu laden oder einen anderen Browser zu
+    verwenden. Falls das nicht hilft, kann es helfen, den Browser-Cache zu
+    löschen.
+
+2.  **F: Wie vergrößere ich die Spielfläche?**  
+    **A:** Klicke auf den Vollbild-Button (meist unten rechts), um in den
+    Vollbildmodus zu wechseln.
+
+3.  **F: Gibt es verschiedene Stein-Designs?**  
+    **A:** Viele Versionen bieten mehrere Themen, die du in den Einstellungen
+    auswählen kannst.
+
+4.  **F: Was passiert, wenn es keine Paare mehr gibt?**  
+    **A:** Einige Versionen haben eine Shuffle-Funktion, die die verbliebenen
+    Steine neu anordnet, sodass wieder Züge möglich sind.
+
+5.  **F: Wie pausiert man das Spiel?**  
+    **A:** Über die Pause-Taste in der Benutzeroberfläche kannst du das Spiel
+    anhalten; der Timer stoppt dabei ebenfalls.

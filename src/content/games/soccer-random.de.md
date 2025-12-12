@@ -1,14 +1,9 @@
 ---
 locale: de
 urlstr: soccer-random
-title: '[DE] Soccer Random'
-description: >-
-  [DE] Experience soccer like never before in Soccer Random! This hilarious,
-  physics-based game uses a simple one-button control to make your players jump
-  and kick. Adapt to ever-changing fields, balls, and players as you compete
-  against a friend or the CPU to be the first to score five goals.
-iframeSrc: >-
-  https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
+title: "Soccer Random"
+description: "Erlebe Fußball völlig anders in Soccer Random! In diesem herrlich chaotischen Physik-Spiel steuerst du deine Spieler mit nur einer Taste, lässt sie springen und schießen und passt dich ständig wechselnden Feldern, Bällen und Figuren an, um als Erster fünf Tore zu erzielen."
+iframeSrc: 'https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html'
 thumbnail: /new-images/soccer-random.jpg
 tags:
   - 2-player
@@ -18,35 +13,33 @@ score: 4.1/5  (594 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Soccer Random ist ein witziges, physikbasiertes Fußballspiel mit extrem einfachem Ein-Tasten-Gameplay. Dein Ziel ist simpel: Schieße fünf Tore, bevor dein Gegner es schafft. Der Clou: Nach fast jedem Tor ändern sich Spielfeld, Balltyp und sogar die Spielerfigur – du musst dich ständig neu an die verrückten Bedingungen anpassen.
 
-### Game Introduction
+### Spielanleitung
 
-Soccer Random is a chaotic and hilarious physics-based soccer game with a minimalist one-button control scheme. The objective is simple: score five goals before your opponent. The "random" part of the title comes from the fact that everything, from the type of ball and the player characters to the playing field itself, can change after every goal, forcing you to constantly adapt.
+Die erste Person bzw. das erste Team, das 5 Tore erzielt, gewinnt das Match. Du kannst deine beiden Spieler nur gleichzeitig springen und schießen lassen – mehr Kontrolle hast du nicht. Die Herausforderung kommt durch die überdrehte Physik und die unberechenbaren Situationen: Mal spielst du auf rutschigem Eis, kurz darauf vielleicht am Strand. Nutze deine Taste im richtigen Timing, um den Ball anzugreifen, aber auch, um dein Tor zu verteidigen.
 
-### Gameplay Guide
+### Steuerung
 
-The first player or team to score 5 goals wins the match. All you can do is make your two players jump and kick at the same time. The challenge comes from the wacky physics and the unpredictable nature of the game. You might be playing on an icy field one moment and a beach the next. Use the single button to time your jumps perfectly to both attack the ball and defend your goal.
+Das Spiel ist sehr einfach zu bedienen und kann allein oder zu zweit an einer Tastatur gespielt werden.
 
-### Controls Guide
+- **Spieler 1:** Taste `W`
+- **Spieler 2:** `Pfeil nach oben`
 
-The game is designed for simplicity and can be played by one or two players on the same keyboard.
-- **Player 1:** `W` Key
-- **Player 2:** `Up Arrow` Key
+Drücke deine Taste, damit deine Spieler springen und gleichzeitig schießen.
 
-Press your key to make your players jump and kick.
+### Häufig gestellte Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Was ist das Ziel von Soccer Random?**
 
-**What is the goal of Soccer Random?**
+Du musst als Erster 5 Tore gegen deinen Gegner erzielen.
 
-The main goal is to be the first to score 5 goals against your opponent.
+**Wie viele Spieler können mitspielen?**
 
-**How many players can play?**
+Du kannst alleine gegen den Computer antreten oder im 2-Spieler-Modus zusammen mit einem Freund auf demselben Gerät spielen.
 
-Soccer Random can be played solo against a computer opponent or with a friend in 2-player mode on the same device.
+**Warum ändert sich das Spiel ständig?**
 
-**Why does the game keep changing?**
-
-That's the core feature of the game! The randomness of the fields, players, and balls after each goal ensures that no two matches are ever the same and keeps the gameplay funny and unpredictable.
-
+Genau das macht den Reiz aus! Spielfelder, Spieler und Bälle können nach jedem Tor wechseln. Dadurch gleicht kein Match dem anderen, und das Chaos bleibt immer lustig und unvorhersehbar.

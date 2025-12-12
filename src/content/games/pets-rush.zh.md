@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: pets-rush
-title: '[ZH TRANSLATION NEEDED] Pets Rush'
+title: 《Pets Rush》宠物方块突击
 description: >-
-  [ZH TRANSLATION NEEDED] A fast-paced and colorful match-3 puzzle! Swap cute
-  pets to make matches of three or more, create powerful combos, and clear the
-  board before the pets reach the top.
+  《Pets
+  Rush》是一款节奏飞快的宠物主题三消游戏，你需要不断交换相邻小动物方块，凑出三消甚至更多连锁，在方块墙冲到顶端之前尽可能长时间地生存并刷出高分。
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/pets-rush.jpg
@@ -18,30 +17,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Pets Rush is a fast-paced and exciting match-3 puzzle game with an adorable animal theme. Unlike traditional level-based match-3 games, this is a game of survival. A wall of colorful pet blocks continuously rises from the bottom of the screen, and you must frantically make matches to keep it from reaching the top. Swap adjacent pets to create lines of three or more, trigger combos, and clear the board for as long as you can to achieve a high score.
+《Pets Rush》是一款以可爱小动物为主角的高压生存向三消游戏。不同于传统的“闯关型”三消玩法，本作更像一场耐力战：五颜六色的宠物方块会不断从底部往上推，你要持续通过交换相邻方块来形成三连甚至更多消除组合，让方块墙始终保持在安全高度，只要有任意一列触顶，游戏就立刻结束。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Stay Ahead of the Rise:** Your primary goal is to prevent any column from reaching the top of the screen. Always prioritize making matches in your tallest columns to push them back down.
-2.  [ZH TRANSLATION NEEDED] **Look for Combos:** The most effective way to clear the board is to set up chain reactions. When you make a match, new pets will fall into place. Look for opportunities where clearing one line will cause another match to form automatically. These combos clear more space and award more points.
-3.  [ZH TRANSLATION NEEDED] **Think Fast, Act Fast:** The wall of pets will rise faster as the game progresses. You need to quickly identify and execute matches to keep up with the increasing speed.
-4.  [ZH TRANSLATION NEEDED] **Special Blocks:** Keep an eye out for any special blocks or power-ups that might appear. These can help you clear large sections of the board in a pinch.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **优先处理最高列：** 你的首要目标是防止任何一列方块堆到屏幕顶部，因此要优先在高度最高的列附近寻找可消除组合，尽快把“危险高柱”压下去。
+2.  **刻意制造连锁反应：** 在完成一次消除后，上方方块会下落形成新的排列。尝试布置那种“消掉这一行，上面刚好再形成一组三消”的结构，一次操作就能连续触发多次消除，既清空大量空间，又能获取额外得分。
+3.  **边想边动，拒绝犹豫：** 随着时间推移，底部方块上升速度会越来越快，必须尽可能迅速地做出判断和操作，避免长时间停顿导致整面墙被顶上去。
+4.  **留意特殊方块与道具：** 如果关卡中加入了炸弹、行/列清除等特殊方块，务必善加利用，在局面吃紧时用来“急救”，一次性清理大面积区域。
 
-[ZH TRANSLATION NEEDED] The game is played with simple swap controls.
+### 操作说明
 
-*   **Swap Pets:** Click on a pet and then click on an adjacent pet to swap their positions. You can also click and drag one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple swap controls.
+*   **交换方块：** 使用鼠标或手指点击一只小动物，再点击与之相邻的另一只，即可尝试交换位置；也可直接拖动一格完成交换。只有能形成三消及以上组合的交换才会被接受。
 
-*   **Q: How do I lose the game?**
-     *   **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.
+### 常见问题（FAQ）
 
-*   **Q: What is the best way to get a high score?**
-     *   **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
+*   **问：在什么情况下游戏会结束？**
+    *   **答：** 只要有任意一列宠物方块堆到屏幕最上方，游戏就会立刻结束，因此必须持续消除保持整体高度在安全范围内。
 
-*   **Q: Is there a way to stop the blocks from rising?**
-     *   **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
+*   **问：怎样才能拿更高分？**
+    *   **答：** 一方面是尽可能长时间地存活，另一方面是多制造连锁消除与大规模匹配。连续多次连锁往往会给出分数加成，大幅提高最终得分。
 
+*   **问：方块上升的速度能停下来吗？**
+    *   **答：** 每次成功消除都会让上升节奏短暂停顿，这是你“喘口气”的机会。保持连续消除可以压制整体推进节奏，让你有更多时间寻找下一步。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: word-search
-title: '[KO] Word Search'
+title: Word Search 워드 서치
 description: >-
-  [KO] Word Search is a classic puzzle game where players find hidden words in a
-  grid of letters, searching horizontally, vertically, and diagonally to
-  complete themed word lists in this relaxing brain exercise.
+  알파벳 격자 속에 숨겨진 단어를 찾아 표시하는 클래식 워드 퍼즐입니다. 가로, 세로, 대각선 등 여러 방향으로 숨은 단어를 찾으며 어휘력과
+  관찰력을 동시에 길러 보세요.
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/word-search.jpg
 tags:
@@ -17,35 +16,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
+"Word Search"는 글자 격자 속에 숨어 있는 단어를 찾아 표시하는 고전 퍼즐 게임입니다. 화면 한쪽에
+제시된 단어 목록을 보면서, 격자에서 해당 단어들을 가로·세로·대각선 방향으로 찾아 강조하면 됩니다.
+차분하게 즐길 수 있으면서도, 자연스럽게 어휘력과 관찰력을 키울 수 있는 두뇌 게임입니다.
 
+### 플레이 전략
 
-### Game Introduction
+1.  **체계적으로 스캔하기**: 격자를 아무 방향으로나 훑기보다, 한 줄씩 규칙적으로 보는 편이 좋습니다.
+    예를 들어 위에서 아래로, 왼쪽에서 오른쪽으로 차례대로 살펴본 뒤, 역방향도 같은 방식으로
+    확인해 보세요.
+2.  **여러 방향을 항상 염두에 두기**: 단어는 가로·세로뿐 아니라 대각선 방향으로도 숨겨질 수
+    있습니다. 첫 글자를 발견했다면 주변 8방향을 모두 확인해 나머지 글자가 이어지는지 살펴보세요.
+3.  **긴 단어부터 찾기**: 글자 수가 긴 단어는 격자에서 눈에 띄기 쉽습니다. 먼저 긴 단어를 찾아
+    제거하면, 남은 단어를 찾을 공간이 정리되어 퍼즐이 쉬워집니다.
+4.  **테마(주제)를 활용하기**: 스테이지마다 특정 주제(동물, 음식 등)가 정해져 있다면, 그와 관련된
 
-"Word Search" is a classic puzzle game where players find hidden words in a grid of letters, searching horizontally, vertically, and diagonally to complete themed word lists. This is a relaxing brain exercise game that helps improve vocabulary and observation skills.
+- **Theme Association**: Use theme hints to predict what types of words might appear.
+    단어를 먼저 떠올려 보세요. 단어 목록을 미리 머릿속에 그려 두면 검색이 훨씬 수월해집니다.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Systematic Scanning**: Scan the grid systematically by rows or columns, don't jump around randomly.
-2.  **[KO]** **Multi-directional Thinking**: Remember words can appear in 8 different directions (horizontal, vertical, diagonal).
-3.  **[KO]** **Find Long Words First**: Long words are usually easier to spot; finding them first can narrow the search area.
-4.  **[KO]** **Marking Strategy**: Mark words immediately after finding them to avoid repeated searches.
-5.  **[KO]** **Theme Association**: Use theme hints to predict what types of words might appear.
+*   **단어 선택**: 찾은 단어의 첫 글자를 클릭한 뒤, 마지막 글자까지 드래그하면 해당 단어가
+    하이라이트됩니다.
+*   **다양한 방향 지원**: 단어는 앞/뒤, 위/아래, 대각선 등 대부분의 방향으로 배치될 수 있습니다.
+*   **단어 목록 확인**: 화면의 리스트에서 아직 찾지 못한 단어가 무엇인지 수시로 확인하세요.
+*   **힌트 기능**: 일부 버전에서는 힌트 버튼을 통해 특정 단어의 위치를 부분적으로 알려 주기도
+    합니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Select Words**: Use mouse drag or click to select found words.
-*   **[KO]** **Multi-directional Selection**: Can select words from any direction (forward/backward, up/down, diagonal).
-*   **[KO]** **View List**: Check the word list to see which words still need to be found.
-*   **[KO]** **Hint Feature**: Some versions provide hint features to help find difficult words.
+1.  **Q. 단어는 어떤 방향으로 숨겨져 있나요?**  
+    **A:** 일반적으로 가로(좌우), 세로(상하), 대각선(4방향) 모두 가능하며, 정방향과 역방향이 모두
+    사용될 수 있습니다.
 
-### Frequently Asked Questions
+2.  **Q. 검색 효율을 높이는 요령이 있을까요?**  
+    **A:** 한 줄씩 순서대로 스캔하는 것, 글자 수가 긴 단어를 먼저 찾는 것, 테마에 맞는 후보 단어를
+    미리 떠올려 보는 것이 도움이 됩니다.
 
-1.  **[KO]** **Q: What directions can words be in?**
-**A**: Words can appear horizontally (left/right), vertically (up/down), or diagonally, and can be forward or backward.
-2.  **[KO]** **Q: How can I improve search efficiency?**
-**A**: Use systematic scanning, find long words first, utilize theme clues, and maintain patience and focus.
-3.  **[KO]** **Q: What if I can't find the last few words?**
-**A**: Carefully check if you've missed certain directions, especially diagonals and backward words.
-4.  **[KO]** **Q: Is there a time limit?**
-**A**: Most versions have no time limit; you can search at your own pace.
+3.  **Q. 마지막 몇 단어가 잘 안 보입니다.**  
+    **A:** 특히 대각선·역방향을 놓치기 쉽습니다. 이미 찾은 단어 주변도 다시 살펴보고, 필요하다면
+    힌트를 사용해 위치를 일부 확인해 보세요.
+
+4.  **Q. 시간 제한이 있나요?**  
+    **A:** 대부분의 Word Search 버전은 시간 제한이 없거나 넉넉한 편이라, 자신의 페이스대로 천천히
+    플레이할 수 있습니다.

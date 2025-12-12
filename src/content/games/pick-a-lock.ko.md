@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: pick-a-lock
-title: '[KO] Pick a Lock'
+title: "Pick a Lock 픽 어 락"
 description: >-
-  [KO] Pick a Lock tests timing and focus — stop the dial on markers, chain
-  perfect hits, and unlock increasingly tricky locks.
+  Pick a Lock은 잠금 장치의 다이얼이 표시선을 지날 때 정확한 타이밍으로 눌러 자물쇠를
+  여는 미니멀리즘 리듬 타이밍 게임입니다. 점점 늘어나는 표시선과 좁아지는 판정
+  타이밍 속에서 집중력과 손 감각이 시험됩니다.
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/pick-a-lock.jpg
 tags:
@@ -19,33 +20,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Pick a Lock is a minimalist rhythm‑timing game: a dial sweeps around a lock, and you must tap exactly when it passes highlighted markers. Later locks add multiple markers, tighter windows, and reversed sweeps, rewarding calm focus.
+Pick a Lock은 원형 다이얼이 빙글빙글 도는 잠금 장치를 배경으로 한 리듬 타이밍 게임입니다.
+다이얼이 자물쇠 안쪽의 표시선 위를 통과하는 순간에 정확히 탭해야 하며, 후반으로 갈수록
+표시선이 여러 개가 되거나 판정 범위가 좁아지고, 회전 방향이 반대로 바뀌는 등 난도가
+점점 올라갑니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 플레이 팁
 
-1.  **[KO]** Count rhythm: Lock into the dial’s beat; tap on the beat rather than by eye alone.
-2.  **[KO]** Peripheral vision: Watch the next marker while tapping the current.
-3.  **[KO]** Noise control: Mute distractions and keep a steady posture for precision.
-4.  **[KO]** Recovery: If you miss, reset your cadence before the next marker.
-5.  **[KO]** Late‑tap bias: Slightly late taps are safer than early in many builds.
+1. 리듬 먼저 잡기: 눈으로만 따라가기보다, 다이얼의 회전 속도에 맞춰 머릿속으로
+   박자를 세고 그 박자에 맞춰 누르는 것이 안정적입니다.
+2. 다음 표시선 미리 보기: 현재 표시선에만 집중하지 말고, 다음 표시선이 어디에
+   있는지도 동시에 확인해 두면 연속 입력이 쉬워집니다.
+3. 주변 환경 정리: 소음이나 시야를 방해하는 요소를 줄이고, 손목과 자세를 편하게
+   유지하면 미세한 타이밍 조절이 더 잘 됩니다.
+4. 실수 후 리셋: 한 번 크게 타이밍을 놓쳤다면, 다음 표시선에서 다시 박자를
+   재설정하는 느낌으로 리듬을 새로 잡는 것이 좋습니다.
+5. 살짝 늦게 누르는 습관 들이기: 많은 버전에서 살짝 늦은 입력이 너무 이른 입력보다
+   판정이 너그러운 편이므로, "약간 늦게"를 목표로 누르면 실패가 줄어듭니다.
 
-### Controls Guide
+### 조작 방법
 
-- Tap/click when the dial overlaps markers; some variants support key presses.
+- 다이얼이 표시선을 통과하는 순간 클릭/탭해 잠금을 해제합니다.
+- 일부 버전에서는 마우스 대신 키보드 특정 키로도 입력할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: I’m always early — fix?
+- **Q: 항상 너무 일찍 눌러서 실패해요. 어떻게 고칠 수 있나요?**  
+  **A:** 머릿속 카운트를 "하나, 그리고 클릭"처럼 반 박자 늦게 잡아 보세요. 예를 들어
+  "하나-클릭" 대신 "하나-그리고-클릭"이라고 생각하면 자연스럽게 입력이 조금
+  늦어집니다.
 
-A: Add a tiny delay to your internal count; try “one‑and‑tap” instead of “one‑tap.”
+- **Q: 표시선이 많아지면 머리가 복잡해져요.**  
+  **A:** 멀리 있는 표시선까지 전부 기억하려 하기보다는, 항상 "다음 한 개"만 보는
+  습관을 들이세요. 한 표시선을 통과할 때마다 곧바로 다음 하나에만 집중하는 것이
+  더 안정적입니다.
 
-- Q: Markers stack fast.
-
-A: Focus on the next one only; don’t mentally hold more than one future target.
-
-- Q: Does FPS matter?
-
-A: Stable framerate helps; close other apps if timing feels inconsistent.
-
+- **Q: 프레임 드랍이 있을 때 판정이 불안정한 것 같아요.**  
+  **A:** 브라우저 탭이나 다른 앱을 줄여 프레임을 안정시키는 것이 좋습니다. FPS가
+  일정할수록 입력 타이밍도 일정하게 들어갑니다.

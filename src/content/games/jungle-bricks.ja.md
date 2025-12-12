@@ -1,82 +1,41 @@
 ---
+title: "Jungle Bricks"
+description: "Jungle Bricksでボードをクリアするために狙って撃ちましょう！番号付きブロックが下に到達する前に戦略的に破壊しなければならない、鮮やかなブロック崩しゲームです。"
+iframeSrc: "https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/"
+thumbnail: "/new-images/jungle-bricks.png"
+urlstr: "jungle-bricks"
+score: "4.0/5  (988 votes)"
+tags: ["puzzle", "shooting", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: jungle-bricks
-title: '[JA TRANSLATION NEEDED] Jungle Bricks'
-description: >-
-  [JA TRANSLATION NEEDED] Aim and shoot to clear the board in Jungle Bricks! A
-  vibrant brick-breaker game where you must strategically destroy numbered
-  blocks before they reach the bottom.
-iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
-thumbnail: /new-images/jungle-bricks.png
-tags:
-  - puzzle
-  - shooting
-  - casual
-score: 4.0/5  (988 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Jungle Bricksは、クラシックなブロック崩しジャンルの魅力的で現代的なアレンジです。鮮やかなジャングルを舞台に、ゲームはプレイヤーに絶えず前進する番号付きレンガの壁をクリアすることに挑戦させます。パドルを操作する伝統的なブロック崩しとは異なり、ここでは固定点から一斉射撃（ボレー）のボールを狙って撃ちます。各レンガには耐久性の数字があり、破壊するにはゼロまで減らさなければなりません。目標は、レンガが画面の下に到達する前に戦略的にクリアして、できるだけ長く生き残ることです。
 
-[JA TRANSLATION NEEDED] Jungle Bricks is a captivating and modern take on the classic brick-breaker genre. Set in a vibrant jungle, the game challenges players to clear an ever-advancing wall of numbered bricks. Unlike traditional brick-breakers where you control a paddle, here you aim and shoot a volley of balls from a fixed point. Each brick has a durability number that you must reduce to zero to destroy it. The goal is to survive for as long as possible by strategically clearing the bricks before they reach the bottom of the screen.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **角度を狙う:** ハイスコアの鍵は、1回のショットでヒット数を最大化することです。まっすぐ上に撃つのを避けてください。代わりに、画面の側面やレンガ間の隙間を狙って、複雑な跳ね返り（リコシェット）を作りましょう。よく狙ったショットは、ボールが画面の周りを長時間跳ね回り、複数のレンガを一度にクリアできます。
+2.  **脅威度の高いレンガを優先する:** 常に画面の下部に最も近いレンガに焦点を当てましょう。1つでもレンガが底のラインに触れるとゲームは終了するため、これらのクリアが最優先です。
+3.  **パワーアップを探す:** 一部のレンガには、追加のボールなどのパワーアップが含まれている場合があります。これらをターゲットにすると、次のターンのクリアパワーを劇的に増やすことができます。
+4.  **降下を計画する:** 毎回のショット後、画面上のすべてのレンガは1段下に移動します。ショットを計画する際にこれを念頭に置いてください。効率的にレンガをクリアしないと、安全に見えたボードがわずか数ターンで危険になる可能性があります。
 
-[JA TRANSLATION NEEDED] 1.  **Aim for Angles:** The key to a high score is maximizing the number of hits per shot. Avoid shooting straight up. Instead, aim for the sides of the screen or gaps between bricks to create complex ricochets. A well-aimed shot can have your balls bouncing around the screen for a long time, clearing multiple bricks at once.
-[JA TRANSLATION NEEDED] 2.  **Prioritize High-Threat Bricks:** Always focus on the bricks that are closest to the bottom of the screen. A single brick touching the bottom line will end your game, so clearing these should be your top priority.
-[JA TRANSLATION NEEDED] 3.  **Look for Power-ups:** Some bricks may contain power-ups, such as extra balls. Targeting these can dramatically increase your clearing power for subsequent turns.
-[JA TRANSLATION NEEDED] 4.  **Plan for the Descent:** After every shot, all bricks on the screen will move one step down. Keep this in mind when planning your shots. A safe-looking board can become dangerous in just a few turns if you don't clear bricks efficiently.
+### 操作ガイド
 
-### Controls Guide
+ゲームはシンプルなワンタッチ操作を使用します。
 
-[JA TRANSLATION NEEDED] The game uses simple, one-touch controls.
+*   **狙い:** 左マウスボタン（またはタッチスクリーンの指）をクリックして長押しし、ドラッグして狙います。ショットの初期軌道を示すガイドラインが表示されます。
+*   **撃つ:** マウスボタン（または指）を離してボールを発射します。
 
-*   **Aim:** Click and hold the left mouse button (or your finger on a touch screen) and drag to aim. A guideline will appear showing the initial trajectory of your shot.
-    - **A:** The number represents the brick's "health" or the number of times it must be hit by a ball before it is destroyed.（日本語訳が必要）
-    - **A:** The game ends if any brick successfully reaches the bottom line of the play area.（日本語訳が必要）
-    - **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.（日本語訳が必要）
-    - **A:** The number represents the brick's "health" or the number of times it must be hit by a ball before it is destroyed.（日本語訳が必要）
-    - **A:** The game ends if any brick successfully reaches the bottom line of the play area.（日本語訳が必要）
-    - **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.（日本語訳が必要）
-*   **Shoot:** Release the mouse button (or your finger) to fire the balls.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: レンガの数字は何を意味しますか？**
+    *   **A:** 数字は、レンガの「体力」、またはボールに当てられて破壊される前に何回当たる必要があるかを表しています。
 
-*   **Q: What do the numbers on the bricks mean?**
-[JA TRANSLATION NEEDED]     *   **A:** The number represents the brick's "health" or the number of times it must be hit by a ball before it is destroyed.
+*   **Q: どうやってゲームに負けますか？**
+    *   **A:** いずれかのレンガがプレイエリアの底のラインに到達すると、ゲームは終了します。
 
-*   **Q: How do you lose the game?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The game ends if any brick successfully reaches the bottom line of the play area.
-
-*   **Q: How can I get more balls?**
-
-
-
-
-
-
-
-
-    - **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
-- **Q: How can I get more balls?**
-    - **A:** The game ends if any brick successfully reaches the bottom line of the play area.
-- **Q: How do you lose the game?**
-    - **A:** The number represents the brick's "health" or the number of times it must be hit by a ball before it is destroyed.
-- **Q: What do the numbers on the bricks mean?**
-### よくある質問（FAQ）
-- **Shoot:** Release the mouse button (or your finger) to fire the balls.
-
-
-
-
-
-    - **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
-- **Q: How can I get more balls?**
-    - **A:** The game ends if any brick successfully reaches the bottom line of the play area.
-- **Q: How do you lose the game?**
-    - **A:** The number represents the brick's "health" or the number of times it must be hit by a ball before it is destroyed.
-[JA TRANSLATION NEEDED]     *   **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
-
+*   **Q: もっとボールを手に入れるには？**
+    *   **A:** 「+」または類似のアイコンが付いた特別なブロックを探してください。これらのブロックにヒットして破壊すると、多くの場合、次のショットのボレー（一斉射撃）にボールが追加されます。

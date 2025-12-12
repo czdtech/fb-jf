@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mahjong-solitaire
-title: '[KO] Mahjong Solitaire'
+title: Mahjong Solitaire 마작 솔리테어
 description: >-
-  [KO] Challenge your mind with Mahjong Solitaire. Find and match pairs of
-  identical tiles to clear the board in this classic and relaxing puzzle game.
+  Mahjong Solitaire는 마작 패를 이용해 같은 패를 찾아 짝지우며 보드를 비우는 고전 퍼즐 게임입니다. 여유로운 분위기 속에서
+  관찰력과 전략을 시험해 보세요.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/mahjong-solitaire.png
 tags:
@@ -18,37 +18,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Mahjong Solitaire*는 마작 패를 사용하지만, 전통적인 마작처럼 패를 모아 화료를 노리는
+게임이 아닙니다. 다양한 모양으로 쌓인 타일 배치에서 같은 타일 쌍을 찾아 지워 나가며
+보드를 전부 비우는 것이 목표인 싱글 플레이 퍼즐입니다. 타일은 여러 층으로 쌓여 있어
+잘못된 선택 하나가 이후의 수를 막아 버릴 수 있으므로, 세심한 관찰과 계획이 필요합니다.
+편안한 분위기지만 두뇌를 꽤 사용하게 만드는 퍼즐로 사랑받고 있습니다.
 
-Mahjong Solitaire is a single-player matching game that uses a set of Mahjong tiles. Unlike traditional Mahjong, the goal is not to form hands but to clear the board by finding and matching pairs of identical tiles. The tiles are arranged in various layouts, often in multi-layered stacks. The game requires careful observation, strategy, and planning, as one wrong move can block future matches. It's a relaxing yet mentally stimulating puzzle enjoyed by millions.
+### 공략 & 플레이 팁
 
-### Gameplay Strategy & Walkthrough
+1. **자유 타일 이해하기:** 가장 중요한 규칙은 '자유로운' 타일만 선택하고 짝지을 수
+   있다는 점입니다. 자유 타일은 다음 조건을 만족해야 합니다.
+    - 위에 다른 타일이 올려져 있지 않을 것
+    - 왼쪽 또는 오른쪽으로 밀어냈을 때 다른 타일에 막히지 않을 것
+2. **막힌 구역부터 풀기:** 최대한 많은 새 타일을 여는 매치를 우선적으로 선택하세요.
+   다른 타일 위에 올라 있거나, 가로로 여러 타일을 동시에 막고 있는 쌍을 지우는 것이
+   특히 중요합니다.
+3. **세 개 이상 있을 때의 선택:** 동일한 자유 타일이 세 개 또는 네 개 보인다면 어떤
+   조합을 먼저 없앨지 신중하게 고르세요. 잘못된 선택은 남은 쌍을 영원히 막힌 상태로
+   만들 수 있습니다.
+4. **계절/꽃 특수 타일:** 대부분의 버전에서 계절 타일과 꽃 타일은 예외 규칙을
+   가집니다. 계절 타일은 서로 다른 그림이라도 계절끼리, 꽃 타일 역시 꽃끼리 서로 짝을
+   이룰 수 있어, 막혔을 때 판을 푸는 데 큰 도움이 됩니다.
+5. **힌트·셔플의 활용:** 더 이상 수가 보이지 않을 때는 "힌트" 버튼으로 가능한 쌍을
+   확인할 수 있고, 완전히 막힌 경우에는 남은 타일을 다시 섞어 새로운 기회를 만드는
+   "셔플" 옵션이 제공되기도 합니다.
 
-1.  **[KO]** **Understanding "Free" Tiles:** The most important rule is that you can only select and match "free" (or "open") tiles. A tile is considered free if:
-    *   **[KO]** It has no other tiles on top of it.
-    *   **[KO]** It can be slid out to the left or the right without bumping into another tile.
+### 조작 방법
 
-2.  **[KO]** **Prioritize Unblocking:** Your main strategy should be to make matches that unblock the most new tiles. Look for pairs that are sitting on top of other columns or are blocking multiple tiles horizontally.
-3.  **[KO]** **Handle Triplets and Quads Carefully:** If you see three or four identical free tiles, be strategic about which pair you match. Choose the pair that will open up the most advantageous section of the board for future moves.
-4.  **[KO]** **Special Tiles (Seasons and Flowers):** In most versions, the Season and Flower tiles are exceptions to the identical match rule. Any Season tile can be matched with any other Season tile. The same applies to Flower tiles. These can be very useful for unblocking the board when no other matches are available.
-5.  **[KO]** **Use Hints and Shuffles Wisely:** If you are stuck, use the "Hint" button to reveal an available pair. If there are no more possible matches on the board, the game may offer a "Shuffle" option, which rearranges all remaining tiles to create new matching opportunities.
+이 게임은 마우스 또는 터치 스크린으로 조작합니다.
 
-### Controls Guide
+* **타일 선택:** 자유로운 타일을 클릭하면 선택됩니다.
+* **쌍 매칭:** 동일한 자유 타일을 다시 클릭하면 두 타일이 한 쌍으로 제거됩니다.
 
-The game is controlled with a mouse or via touch screen.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Select a Tile:** Click on a free tile to highlight it.
-*   **[KO]** **Match a Pair:** Click on a second, identical free tile to match the pair. The two tiles will then be removed from the board.
+* **Q: 어떤 타일은 선택이 안 되는데 왜 그런가요?**
+    - **A:** 해당 타일이 아직 '자유로운' 상태가 아니기 때문입니다. 좌우 양쪽이 다른 타일에
+    막혀 있거나, 위에 다른 타일이 일부 또는 완전히 겹쳐 있을 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+* **Q: 더 이상 짝을 맞출 수 없으면 어떻게 하나요?**
+    - **A:** 정말로 가능한 쌍이 없다면, "셔플" 또는 "재배치" 버튼이 있는지 찾아 보세요.
+    셔플 기능이 없는 버전에서 수가 완전히 막혔다면 그 판은 패배로 끝나게 됩니다.
 
-*   **[KO]** **Q: Why can't I select a tile?**
-    *   **[KO]** **A:** The tile is not "free." It is likely blocked on both its left and right sides, or there is another tile partially or fully on top of it.
-
-*   **[KO]** **Q: What do I do when I run out of matches?**
-    *   **[KO]** **A:** If you are certain no matches are left, look for a "Shuffle" or "Reshuffle" button. If the game has no shuffle option and no moves are left, the game is lost.
-
-*   **[KO]** **Q: Are the Season/Flower tiles all different?**
-    *   **[KO]** **A:** Yes, the images on them are different, but they belong to the same group. You can match any tile from the "Seasons" group with any other tile from that same group, and likewise for the "Flowers" group.
-
+* **Q: 계절/꽃 타일은 모두 다른 그림인데도 짝이 되나요?**
+    - **A:** 네. 그림은 서로 다르지만 같은 그룹에 속해 있기 때문에, 계절 그룹 안에서는
+    아무 계절끼리, 꽃 그룹 안에서는 아무 꽃끼리 짝을 맞출 수 있습니다.

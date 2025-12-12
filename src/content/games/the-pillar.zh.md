@@ -1,50 +1,48 @@
 ---
 locale: zh
 urlstr: the-pillar
-title: '[ZH TRANSLATION NEEDED] The Pillar'
-description: >-
-  [ZH TRANSLATION NEEDED] Embark on a mysterious journey in The Pillar, a
-  captivating puzzle and escape room game. Explore enigmatic environments, solve
-  intricate puzzles, and uncover hidden secrets as you progress through a series
-  of challenging levels. Test your logic and observation skills in this
-  immersive adventure.
-iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
+title: 《The Pillar》石柱解谜之旅
+description: 《The Pillar》是一款第一人称视角的环境解谜游戏。你将游走于神秘岛屿与高耸石柱之间，通过观察线索、解开机关谜题，逐步探索这个世界背后的秘密。
+iframeSrc: 'https://thepillar.h5games.usercontent.goog/v/1n7c3b9k4p2v0/'
 thumbnail: /new-images/the-pillar.jpg
 tags:
   - puzzle
-  - adventure
-  - mystery
-score: 3.8/5  (802 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - exploration
+  - first-person
+score: 4.1/5  (1800 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] The Pillar is an immersive puzzle and escape room game that challenges players with a series of intricate environmental puzzles. Players explore mysterious and beautifully designed locations, interacting with objects and mechanisms to unlock new paths and uncover the secrets hidden within the game's world. It's a game that rewards observation, logic, and creative thinking.
+### 详细游戏介绍
 
-### Gameplay Guide
+《The Pillar》采用上帝视角以外的第一人称视角，让你仿佛亲自站在空旷岛屿与古老石柱之间。每一处石柱、墙面和地面纹理中都藏有线索，你需要通过移动、观察与操作机关来解开图案谜题、路径谜题甚至顺序谜题。随着谜题被逐一解开，新的区域和故事碎片会被逐渐解锁。
 
-[ZH TRANSLATION NEEDED] The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
-- **Exploration:** Wander through various unique settings, looking for clues and interactive elements.
-- **Puzzle Solving:** Engage with different types of puzzles, from mechanical contraptions to logical sequences.
-- **Progression:** Successfully solving puzzles opens new areas or reveals critical information needed to advance.
+### 游玩策略与解谜指引
 
-### Controls Guide
 
-- **Movement:** `WASD` or `Arrow Keys` to move your character.
-- **Interaction:** `Left Mouse Button` to click on objects, activate mechanisms, and solve puzzles.
+The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
+1.  **多角度观察：** 很多图案或路线只有站在特定角度才能被看清或对齐，尝试围着石柱或建筑多转几圈寻找正确视角。
+2.  **记录符号与序列：** 场景中的符号、数字和颜色组合常常是解锁机关的密码，遇到复杂图案时可以在纸上或截图记录下来。
+3.  **由易到难拆分谜题：** 将复杂谜题拆解成若干小部分，逐个解决。例如先确定起点与终点，再补完中间路径。
+4.  **适当休息再回来：** 若长时间卡在某个机关上，不妨先去探索其他区域或休息片刻，再回来往往会有新的思路。
 
-### Frequently Asked Questions (FAQ)
+### 操作说明
 
-[ZH TRANSLATION NEEDED] **What kind of puzzles can I expect?**
+*   **移动视角与行走：** 使用鼠标控制视角，用 WASD 或方向键控制移动；
+*   **互动：** 靠近机关、按钮或石柱时按互动键进行查看与操作；
+*   **菜单 / 提示：** 通过游戏界面打开菜单，部分版本可能提供提示或日志系统。
 
-[ZH TRANSLATION NEEDED] The puzzles vary widely, including logic puzzles, pattern recognition, environmental manipulation, and sometimes even sound-based challenges.
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **Is there a story in The Pillar?**
+**问：游戏有明确的提示系统吗？****
+答：** 依据版本不同，有的会提供少量线索提示，有的更强调玩家自行观察与推理。
 
-[ZH TRANSLATION NEEDED] While the game is primarily puzzle-driven, there is an underlying narrative or mystery that unfolds as you progress and solve more puzzles, often revealed through environmental storytelling.
+**问：会有战斗或追逐桥段吗？****
+答：** 本作以纯解谜与探索为主，基本不包含动作战斗内容，更适合喜欢安静体验谜题的玩家。
 
-[ZH TRANSLATION NEEDED] **Is the game difficult?**
 
-[ZH TRANSLATION NEEDED] The difficulty of the puzzles can range from straightforward to quite challenging, requiring players to think critically and sometimes experiment with solutions.
 
+The difficulty of the puzzles can range from straightforward to quite challenging, requiring players to think critically and sometimes experiment with solutions.
+
+**Is the game difficult?**

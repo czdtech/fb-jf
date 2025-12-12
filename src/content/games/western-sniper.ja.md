@@ -1,65 +1,49 @@
 ---
-locale: ja
+title: Western Sniper
+description: Western Sniperは、西部スナイパーゲームです。正確に狙って悪党を倒しましょう。
+iframeSrc: 'https://ubg98.github.io/WesternSniper/'
+thumbnail: /new-images/western-sniper.jpg
 urlstr: western-sniper
-title: '[JA TRANSLATION NEEDED] Western Sniper'
-description: >-
-  [JA TRANSLATION NEEDED] Western Sniper is a quick‑draw shooter — steady aim,
-  manage sway, and pick priority targets across snappy missions.
-iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
-thumbnail: /new-images/western-sniper.png
+score: 4.3/5  (2456 votes)
 tags:
   - shooting
-  - action
-score: 4.1/5  (2016 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - western
+  - sniper
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Western Sniperは、西部開拓時代を舞台にしたスナイパーシューティングゲームです。正確に狙いを定めて悪党を倒し、街を守りましょう。
 
-[JA TRANSLATION NEEDED] Western Sniper delivers short missions with bandits, explosives, and moving targets. Success means calm reticles, priority picks (rifles/throwers first), and resource care (ammo/time/bonus objectives).
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Priority: Take out ranged threats and explosives.
-[JA TRANSLATION NEEDED] 2.  Hold breath: Time shots at sway minima for accuracy.
-[JA TRANSLATION NEEDED] 3.  Environmental kills: Use barrels/ropes for multi‑downs.
-[JA TRANSLATION NEEDED] 4.  Ammo discipline: Don’t spam; reset aim between shots.
-[JA TRANSLATION NEEDED] 5.  Optional goals: Attempt only when the field is safe.
-
-### Controls Guide
-
-- Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I miss moving targets.
-  
-[JA TRANSLATION NEEDED]   A: Lead slightly and fire at sway lows; practice pacing.
-
-- Q: Ammo runs out.
-  
+ - **狙いを定める：** スコープを使って正確に狙います
+ - **ターゲットを倒す：** 悪党を撃ちます
+ - **無実の人を避ける：** 市民を撃たないように注意します
+ - **ミッション完了：** 各レベルの目標を達成します
 
 
-
-
-
-
-- Q: I miss moving targets.
-### よくある質問（FAQ）
-- Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
-### コントロールガイド
 - Optional goals: Attempt only when the field is safe.
+### 操作ガイド
+
+ - **マウス：** 狙いと射撃
+ - **スペースバー：** ズーム
 
 ### よくある質問（FAQ）
-- Ammo discipline: Don’t spam; reset aim between shots.
-[JA TRANSLATION NEEDED]   A: Take measured shots; save bullets by using environment kills.
 
 
+- Q: I miss moving targets.
+**ゲームの目標は何ですか？**
 
 
-A: Take measured shots; save bullets by using environment kills.
 - Q: Ammo runs out.
+悪党を倒して街を守ることです。
 
+**無実の人を撃ったらどうなりますか？**
 
-A: Take measured shots; save bullets by using environment kills.
+ペナルティがあり、ミッション失敗になる可能性があります。
+
+**難易度は上がりますか？**
+
+はい、より難しいターゲットと複雑なシナリオが登場します。

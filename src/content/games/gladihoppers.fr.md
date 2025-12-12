@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: gladihoppers
-title: '[FR] Gladihoppers'
-description: >-
-  [FR] 2D gladiator brawler with physics hops: customize gear, time lunges and
-  parries, and climb arenas in duels or modes.
+title: "Gladihoppers"
+description: "Brawler de gladiateurs 2D avec sauts physiques : personnalise ton équipement, cale tes estocs et parades, et gravis les arènes en duel ou en mode carrière."
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/gladihoppers.jpg
 tags:
@@ -15,30 +13,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Gladihoppers mélange un déplacement sautillant façon ragdoll avec des combats d’armes sanglants. La posture de ton gladiateur, sa portée et son momentum déterminent les dégâts : les estocs et coups à la tête font très mal, tandis que le bouclier et les parades au bon timing réduisent ou annulent les frappes adverses. Entre deux combats, tu peux changer de casque, d’armure et d’armes pour ajuster ta portée et ta vitesse de swing, puis progresser à travers différentes arènes et modes.
 
+### Comment jouer
 
-### Overview
-Gladihoppers blends ragdoll‑style hopping movement with weapon combat. Your gladiator’s stance, reach, and momentum determine damage: lunges and head hits deal more, while shields and timing‑based parries mitigate blows. Between fights, equip new helms, armor, and weapons to shape reach and swing speed, then progress through arenas and modes.
+- Gère la distance avec tes sauts et avances/reculs ; porte tes coups quand l’arc de ton arme est sûr d’atteindre en premier.
+- Lève ton bouclier ou recule d’un saut pour provoquer les swings ennemis, puis contre‑attaque pendant leur récupération.
+- Dépense tes pièces dans l’équipement qui correspond à ton style de jeu (portée, vitesse, tankiness).
 
-### How to Play
-- Control distance with hops; strike when your weapon arc will land first.
-- Raise shield or back‑hop to bait swings, then counter during recovery.
-- Spend coins on gear that complements your preferred range and speed.
+### Commandes
 
-### Controls
-- Directional hops, attack and block keys (bindings vary by host); local versus often available.
+- Sauts directionnels, touches d’attaque et de garde (bindings variables selon l’hébergeur).  
+- Un mode versus local est souvent disponible.
 
-### Tips
-- Spear/pike favor spacing; swords excel at close pressure.
-- Aim for the head when safe; high hits often crit.
-- Don’t spam—most weapons have end‑lag; learn tempos.
+### Astuces
 
-### FAQ
-- Q: Why do my attacks whiff at close range?
-A: Your weapon arc may be past its sweet spot; adjust spacing or switch to faster arms.
-- Q: Is blocking or back‑hopping better on defense?
-A: Use both—block against single swings, back‑hop to escape combos.
-- Q: How important is gear quality?
-A: Very—reach/weight drastically change matchups.
+- Les lances/pique favorisent le jeu à distance ; les épées sont meilleures pour la pression à courte portée.
+- Vise la tête quand la situation est sûre : les coups hauts ont souvent un effet critique.
+- Ne spamme pas : la plupart des armes ont un temps de récupération important ; apprends le tempo de ton arme.
+
+### Foire aux questions (FAQ)
+
+- Q : Pourquoi mes attaques ratent‑elles alors que je suis proche ?
+  
+  R : L’arc de ton arme passe peut‑être derrière sa zone optimale. Ajuste ton espacement ou passe sur une arme plus rapide.
+
+- Q : Vaut‑il mieux bloquer ou reculer pour se défendre ?
+  
+  R : Combine les deux : bloque les coups isolés, et utilise les sauts en arrière pour sortir des combos ou reprendre ton souffle.
+
+- Q : L’équipement fait‑il vraiment la différence ?
+  
+  R : Oui. La portée, le poids et la vitesse de tes armes/armures changent totalement le match‑up contre certains adversaires.
 

@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: match-puzzle-house
-title: '[KO] Match Puzzle House'
+title: "Match Puzzle House 매치 퍼즐 하우스"
 description: >-
-  [KO] Match Puzzle House is a home‑makeover match‑3 — complete goals, earn
-  stars, and renovate rooms with smart booster usage.
+  Match Puzzle House는 집 리모델링 요소가 결합된 매치-3 퍼즐 게임으로, 스테이지 목표를
+  달성해 별을 모으고 다양한 방을 꾸밀 수 있습니다. 부스터를 현명하게 사용해 어려운
+  퍼즐을 돌파해 보세요.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/match-puzzle-house.png
 tags:
@@ -18,33 +19,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear blockers, collect items within move caps, and spend stars on decor. Boosters and power‑up merges are key on dense layouts.
+*Match Puzzle House*는 매치-3 퍼즐과 인테리어 리모델링을 결합한 게임입니다. 각 스테이지에서
+특정 아이템 수집, 장애물 제거 등 목표를 달성하면 별을 얻을 수 있고, 이 별을 사용해
+방을 하나씩 꾸미거나 리모델링할 수 있습니다. 난도가 올라갈수록 체인, 상자, 얼음 등
+각종 방해 요소가 등장해, 부스터와 특수 블록 조합을 잘 활용해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** Central control: Open the middle first for combo space.
-2.  **[KO]** Merge smart: Save bomb/line/color clears for tight goals.
-3.  **[KO]** Star economy: Spend stars to unlock booster slots when stuck.
-4.  **[KO]** Edge awareness: Don’t strand colors on walls.
-5.  **[KO]** Two‑turn plans: Map your next move to avoid breaking setups.
+1. **중앙부터 열기:** 보드 중앙을 먼저 뚫어야 콤보를 만들 공간이 넉넉해집니다.
+2. **부스터 아껴 쓰기:** 폭탄, 줄 지우기, 컬러 클리어 같은 강력한 부스터는 목표가
+   까다로운 구간을 위해 남겨 두고, 막다른 상황에서 사용하세요.
+3. **별 사용 계획:** 별은 방 꾸미기뿐 아니라 일부 버전에서 부스터 슬롯 해금 등에
+   쓰일 수 있으니, 진행이 막힌 경우에 적절히 투자하세요.
+4. **가장자리 주의:** 벽 쪽에 색깔이 고립되지 않도록, 가급적 중앙에서부터 퍼즐을
+   풀어 나가세요.
+5. **두 수 앞까지 생각하기:** 지금 한 번의 교환이 다음 턴에 어떤 형태를 만들지,
+   최소 한 두 수 앞까지 상상하며 움직이면 세트가 무너지는 것을 방지할 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Drag to swap; use boosters via UI; decorate rooms between levels.
+- 인접한 블록 두 개를 드래그해 서로 위치를 바꿔, 같은 색 블록 3개 이상을 일렬로
+  맞추면 제거됩니다.
+- 부스터는 UI에서 선택해 원하는 위치에 사용하고, 스테이지 사이에는 획득한 별로
+  방을 꾸밀 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: I’m stuck on a chain level.
+- **Q: 체인(쇠사슬) 스테이지에서 자꾸 막혀요.**  
+  **A:** 체인이 걸린 칸 바로 옆을 우선 제거하거나, 줄 지우기 부스터로 체인이 걸린
+  라인을 통째로 지우는 것이 효과적입니다.
 
-A: Prioritize detonations adjacent to chains; lines through chains speed clears.
+- **Q: 인테리어를 하면 퍼즐에도 도움이 되나요?**  
+  **A:** 대부분은 꾸미기 요소이지만, 특정 구역을 완성하면 부스터나 추가 보상을
+  주는 경우도 있습니다.
 
-- Q: Do renovations help in‑game?
-
-A: Mostly cosmetic; some unlock progression rewards.
-
-- Q: Best generic booster?
-
-A: Color clear to reshape stubborn boards.
-
+- **Q: 어떤 부스터가 가장 범용성이 좋나요?**  
+  **A:** 전체 색깔 중 하나를 지우는 컬러 클리어 부스터는 막힌 보드를 리셋하는 데
+  매우 유용합니다.

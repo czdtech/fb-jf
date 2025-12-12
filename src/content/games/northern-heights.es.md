@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: northern-heights
-title: '[ES] Northern Heights'
+title: Northern Heights - Descensos extremos sobre la nieve
 description: >-
-  [ES] Embark on an exciting skiing journey in Northern Heights. Navigate steep
-  descents, perform stunts, and collect coins to become a skiing legend.
+  Emprende una emocionante aventura de esquí en Northern Heights. Domina las
+  pendientes, realiza acrobacias y recoge monedas para convertirte en una
+  auténtica leyenda del esquí.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/northern-heights.png
 tags:
@@ -17,28 +18,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Northern Heights es un juego de esquí que te lleva por emocionantes paisajes
+nevados. Descenderás por pendientes pronunciadas, realizarás acrobacias
+espectaculares para conseguir puntos extra y recogerás monedas por el camino.
+El juego se centra en equilibrar velocidad y control, y ofrece varias opciones
+de personalización para tu personaje, tabla y atuendos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Northern Heights is a skiing game that takes you on an exciting journey over snow. Players navigate steep descents, perform gorgeous stunts for bonus points, and collect coins. The game emphasizes balancing speed and control, and offers customization options for characters, boards, and clothing.
+1.  **Dominar los controles:** aprende bien cómo girar y cuándo ejecutar
+    acrobacias para mantener el control en todo momento.
+2.  **Planificar la ruta:** observa el trazado, curvas y obstáculos antes de
+    lanzarte a máxima velocidad.
+3.  **Equilibrar velocidad y control:** encuentra el punto medio entre ir rápido
+    y mantener estabilidad para evitar caídas y maximizar la puntuación.
+4.  **Hacer trucos:** usa saltos y acrobacias en lugares seguros para obtener
+    puntos extra, pero asegúrate de aterrizar con estabilidad.
+5.  **Recoger monedas:** las monedas sirven para comprar accesorios, tablas y
+    ropa, dándote más opciones de personalización.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Master the Controls:** Learn the controls for steering and stunt accuracy to navigate the slopes effectively.
-2.  **[ES]** **Plan Your Route:** Plan your routes to account for curves and obstructions.
-3.  **[ES]** **Balance Speed and Control:** Find a balance between speed and control to avoid falls and maximize your score.
-4.  **[ES]** **Perform Stunts:** Use leaps and stunts strategically to earn bonus points.
-5.  **[ES]** **Collect Coins:** Collect coins to purchase accessories, boards, and clothing to customize your experience.
+*   **Flechas/ratón:** utiliza las teclas de dirección o el ratón para controlar
+    a tu esquiador por la pendiente; los comandos exactos de trucos pueden
+    variar según la versión.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Arrow Keys/Mouse:** Use the arrow keys or mouse to steer your character down the slopes. Specific controls for stunts may vary.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: How do I score more points?**
-    *   **[ES]** **A:** Performing stunts, collecting coins, and finishing the course quickly will all contribute to a higher score.
-*   **[ES]** **Q: What can I do with the coins I collect?**
-    *   **[ES]** **A:** Coins can be used to purchase customization options for your character, including new boards and clothing.
-
+*   **P: ¿Cómo consigo más puntos?**
+    *   **R:** Haz acrobacias, recoge monedas y completa el descenso lo más
+        rápido posible: todo suma para una puntuación más alta.
+*   **P: ¿Para qué sirven las monedas que recojo?**
+    *   **R:** Sirven para comprar opciones de personalización, como nuevas
+        tablas y ropa para tu personaje.

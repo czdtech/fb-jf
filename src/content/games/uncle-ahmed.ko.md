@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: uncle-ahmed
-title: '[KO] Uncle Ahmed'
+title: "Uncle Ahmed 엉클 아메드"
 description: >-
-  [KO] Embark on a classic 2D platforming adventure with Uncle Ahmed! Jump on
-  enemies, collect coins, and use power-ups to rescue your nephew from a dark
-  sorcerer.
+  납치된 조카를 구하기 위해 모험을 떠나는 2D 플랫폼 액션 게임입니다. 적의 머리를 밟고 코인을
+  모으며, 다양한 파워업을 활용해 어둠의 마법사를 물리치고 스테이지를 돌파하세요.
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/uncle-ahmed.jpg
@@ -18,33 +17,49 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Uncle Ahmed는 고전적인 2D 횡스크롤 플랫폼 게임으로, 슈퍼 마리오 시리즈를 떠올리게 하는 구성과
+조작감을 가지고 있습니다. 플레이어는 주인공 엉클 아메드가 되어, 악한 마법사에게 납치된 조카를
+구하기 위해 여러 월드를 모험하게 됩니다.
 
-### Detailed Game Introduction
+각 스테이지에는 다양한 종류의 적, 까다로운 점프 구간, 숨겨진 아이템과 파워업이 준비되어 있습니다.
+목표는 함정과 적을 피해 스테이지의 끝까지 도달하고, 최종적으로 마법사를 물리쳐 조카를 구출하는
+것입니다.
 
-Uncle Ahmed is a classic 2D side-scrolling platformer that will evoke nostalgia for games like Super Mario Bros. Players take on the role of the heroic Uncle Ahmed on a quest to rescue his nephew, who has been kidnapped by an evil sorcerer. You will journey through dozens of levels filled with various enemies, tricky obstacles, and helpful power-ups. The goal is to reach the end of each stage, defeat the sorcerer, and save the day.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **점프를 완벽히 익히기**: 이 게임에서 가장 중요한 기술은 점프입니다. 적의 머리를 밟아 처치하고,
+    블록 위를 오르내리며, 낭떠러지나 가시를 뛰어넘을 때 모두 점프 타이밍이 핵심입니다. 짧은 점프와
+    긴 점프의 감각을 연습해 두면 까다로운 구간을 훨씬 수월하게 통과할 수 있습니다.
+2.  **코인과 아이템은 가능한 한 챙기기**: 스테이지 곳곳에 배치된 코인은 추가 목숨을 얻거나 상점에서
+    보너스를 구매하는 데 도움을 줄 수 있습니다. 블록을 머리로 치면 숨겨진 코인과 파워업이 나오기도
+    하니, 수상해 보이는 블록은 한 번씩 쳐 보세요.
+3.  **파워업 효과 알기**: 수박, 고추 등 특수 아이템은 투사체 공격이나 일시적인 속도 증가 같은
+    능력을 부여할 수 있습니다. 난이도 높은 구간이나 보스전에서는 파워업을 미리 준비해 둔 뒤,
+    어려운 순간에 맞춰 사용하는 것이 좋습니다.
+4.  **지름길과 비밀 구역 탐색**: 일부 스테이지는 숨겨진 발판이나 비밀 통로를 통해 더 많은 코인과
+    1UP, 파워업을 얻을 수 있습니다. 화면 끝까지 달리기보다, 의심스러운 벽이나 위쪽 통로를 찾아보는
+    여유를 가져 보세요.
 
-1.  **[KO]** **Master the Jump:** Your most important skill is jumping. Use it to stomp on enemies to defeat them, break blocks to find coins and power-ups, and navigate over dangerous pits and spikes.
-2.  **[KO]** **Collect Everything:** Grab all the coins you see. These can often be used to purchase extra lives, allowing you to continue if you make a mistake. Also, be sure to grab any power-ups you find.
-3.  **[KO]** **Know Your Power-ups:** Power-ups are essential for survival. A watermelon might allow you to throw projectiles, while a hot pepper could grant you a temporary speed boost. Use them wisely to clear out difficult sections.
-4.  **[KO]** **Explore for Secrets:** Don't just run straight to the finish line. Some levels contain hidden areas or secret blocks that hold extra lives or valuable power-ups. Exploration is often rewarded.
+### 조작 방법 안내
 
-### Controls Guide
+*   **이동**: **← / →** 방향키 또는 화면의 가상 버튼으로 왼쪽과 오른쪽으로 이동합니다.
+*   **점프**: **↑** 방향키나 전용 점프 버튼을 눌러 점프합니다.
+*   **공격/발사**: 수박 같은 투사체 파워업을 보유 중이라면 별도의 공격 버튼이 표시되어 멀리 있는
+    적을 공격할 수 있습니다.
 
-*   **[KO]** **Move:** Use the **Left and Right Arrow Keys** or on-screen buttons to move Uncle Ahmed.
-*   **[KO]** **Jump:** Press the **Up Arrow Key** or the dedicated jump button.
-*   **[KO]** **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 적을 어떻게 처치하나요?**  
+    *   **A:** 대부분의 일반 적은 머리 위를 점프해 밟으면 처치할 수 있습니다. 투사체 파워업을 갖고
+        있다면 원거리에서 공격해 안전하게 처리할 수도 있습니다.
 
-*   **[KO]** **Q: How do I defeat the enemies?**
-    *   **[KO]** **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
+*   **Q: 목숨을 모두 잃으면 어떻게 되나요?**  
+    *   **A:** 남은 목숨이 0이 되면 게임 오버가 되며, 해당 월드의 처음이나 마지막 체크포인트에서
+        다시 시작해야 합니다. 코인과 1UP 아이템을 모아 여유 있게 도전해 보세요.
 
-*   **[KO]** **Q: What happens if I lose all my lives?**
-    *   **[KO]** **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
-
-*   **[KO]** **Q: How do I beat the final boss?**
-    *   **[KO]** **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
-
+*   **Q: 최종 보스는 어떻게 공략하나요?**  
+    *   **A:** 보스는 일정한 패턴으로 공격하는 경우가 많습니다. 공격 전 모션과 이동 패턴을 관찰해
+        "빈틈이 생기는 타이밍"을 파악한 뒤, 그 순간에 점프 공격이나 투사체로 반격하는 것이 정석
+        공략입니다.

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: wordler
-title: '[KO] Wordler'
+title: "Wordler 워들러"
 description: >-
-  [KO] Wordler is a daily deduction word game — guess five‑letter words,
-  leverage feedback colors, and converge with pattern logic.
+  색 피드백을 단서로 5글자 단어를 추리하는 일일 워드 게임입니다. 각 시도 후 나타나는 색 패턴을
+  분석해 가능한 후보를 줄이고, 논리적으로 정답에 수렴해 가는 추리 퍼즐입니다.
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
 thumbnail: /new-images/wordler.png
 tags:
@@ -15,31 +15,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Wordler는 현대적인 5글자 단어 추리 포맷을 따르는 게임으로, 각 추측마다 색으로 된 피드백을 제공해
+정답에 점점 가까워지도록 돕는 퍼즐입니다. 초록색은 글자와 위치가 모두 맞음을, 노란색은 글자는 맞지만
+위치는 다름을, 회색은 단어에 포함되지 않는 글자를 의미합니다. 제한된 횟수 안에서 이러한 정보를
+효율적으로 활용해 정답 단어를 찾아야 합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Wordler follows the modern five‑letter deduction format: each guess yields color feedback (correct letter/place, correct letter/wrong place, absent). Optimal play prunes the search space with informed guesses instead of random stabs.
+1.  **좋은 시작 단어 고르기**: 모음과 자주 쓰이는 자음이 고루 섞인 단어를 첫 시도로 사용하면
+    많은 글자의 포함 여부를 한 번에 확인할 수 있습니다.
+2.  **글자 기록하기**: 초록/노란/회색 정보를 머릿속에만 두지 말고, 이미 제외된 글자와 확정된 글자를
+    명확히 구분해 두면 같은 글자를 낭비해 시험하는 실수를 줄일 수 있습니다.
+3.  **위치 논리 활용**: 초록으로 확정된 자리는 고정하고, 노란 글자는 그 자리를 피해서 다른 위치에
+    배치해 보며 가능한 패턴을 줄여 나가세요.
+4.  **자주 쓰이는 철자 패턴 활용**: TH, CH, SH, ST 같은 자주 등장하는 자음 조합과 -ER, -ED 같은
+    어미를 염두에 두면, 남은 글자들로 만들 수 있는 단어 후보를 더 쉽게 떠올릴 수 있습니다.
+5.  **마지막 단계에서는 후보 단어 정리하기**: 남은 시도가 얼마 없을 때는, 가능한 모든 후보를 머릿속
+    혹은 메모로 정리해 본 뒤, 가장 많은 정보를 줄 수 있는 단어를 선택해 실패 확률을 줄이는 것이
+    좋습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Strong opener: Use a high‑coverage starter with common vowels/consonants (e.g., SLATE/CRANE/ROAST).
-2.  **[KO]** Letter accounting: Track confirmed/excluded letters explicitly; avoid re‑testing dead letters.
-3.  **[KO]** Position logic: Fix green letters, permute yellows across remaining slots.
-4.  **[KO]** Frequency bias: Favor common digrams (TH, CH, SH, ST) and endings (‑ER, ‑ED, ‑ING).
-5.  **[KO]** Endgame pruning: Before final guesses, shortlist all valid permutations to avoid whiffs.
+- **입력 및 제출**: 키보드로 5글자 단어를 입력하고, Enter로 제출합니다. 피드백 색을 확인한 뒤
+  다음 단어를 고민하세요.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Type and submit guesses; review color feedback; limited attempts per puzzle.
+- **Q. 막판에 가능한 단어가 여러 개 남으면 어떻게 고르나요?**  
+  **A:** 아직 확인하지 못한 글자를 최대한 많이 포함하는 시험 단어를 선택해, 다음 턴에 정보를
+  더 얻거나 한 번에 정답을 맞히는 것을 노려 보세요.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I get multiple possibles late — how to pick?
-
-A: Choose a diagnostic word that tests the most uncertain letters/positions.
-
-- Q: Are plurals allowed?
-
-A: Depends on dictionary; many allow plurals sparingly.
-
+- **Q. 복수형 단어도 정답에 포함되나요?**  
+  **A:** 사용되는 사전에 따라 다르지만, 많은 버전에서 복수형은 제한적으로만 허용되거나 아예
+  정답 후보에서 제외되기도 합니다.

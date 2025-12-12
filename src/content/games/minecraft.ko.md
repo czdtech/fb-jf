@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: minecraft
-title: '[KO] Minecraft'
+title: "Minecraft 마인크래프트"
 description: >-
-  [KO] Minecraft is a sandbox video game where players explore a blocky,
-  procedurally generated 3D world, and can discover and extract raw materials,
-  craft tools, build structures or earthworks, and create a variety of
-  mini-games or adventures.
+  Minecraft는 블록으로 이루어진 3D 세계를 탐험하며 자원을 채집하고, 도구를 제작하고,
+  건축과 모험을 즐길 수 있는 샌드박스 게임입니다. 정해진 목표 없이 자유롭게 놀 수
+  있는 높은 자유도가 특징입니다.
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/minecraft.jpg
@@ -20,36 +19,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Minecraft*는 Mojang Studios가 개발한 샌드박스 비디오 게임으로, 블록으로 이루어진 3D
+세계에서 자원을 모으고, 구조물을 짓고, 아이템을 제작하며 다양한 생물과 상호작용할 수
+있습니다. 게임 자체에는 뚜렷한 엔딩이나 목표가 없고, 플레이어가 직접 목표를 정해
+건축, 탐험, 생존, 모험 등 원하는 방식으로 즐길 수 있는 높은 자유도가 특징입니다.
+대표적인 모드로는 서바이벌 모드, 크리에이티브 모드, 어드벤처 모드, 관전자 모드가
+있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-Minecraft is a sandbox video game developed by Mojang Studios. Players explore a 3D world made of blocks, collecting resources, building structures, crafting items, and interacting with various creatures. The game has no specific goals, allowing players to freely create and explore, thus offering a high degree of freedom. Game modes include Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
+1. **자원 수집:** 나무를 베고, 광석을 캐고, 농사를 짓는 등 건물이나 도구 제작에 필요한
+   기본 자원을 먼저 확보하세요.
+2. **아이템 제작:** 작업대와 화로를 활용해 원자재를 도구·무기·블록 등으로 가공합니다.
+3. **거점 건설:** 특히 밤에는 몬스터가 등장하므로, 안전하게 몸을 숨길 수 있는 기지를
+   만드는 것이 생존에 매우 중요합니다.
+4. **세계 탐험:** 마을, 동굴, 폐광, 유적 등 다양한 구조물을 찾아 돌아다니며 희귀 자원과
+   경험치를 얻으세요.
+5. **농사와 목축:** 농장과 동물 우리, 낚시 등을 통해 안정적인 식량 공급원을 확보하면
+   장기적인 탐험과 건축이 훨씬 수월해집니다.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Gather Resources**: Chop trees, mine ores, plant crops, etc., to obtain basic materials needed for building and crafting.
-2.  **[KO]** **Craft Items**: Use a crafting table and furnace to process raw resources into tools, weapons, blocks, and more.
-3.  **[KO]** **Build Shelter**: Building a safe base is crucial for survival, especially at night to fend off monster attacks.
-4.  **[KO]** **Explore the World**: Discover villages, caves, ruins, and other structures to find rare resources and experience.
-5.  **[KO]** **Develop Agriculture and Animal Husbandry**: Establish farms, raise animals, and fish to secure food sources.
+* **이동:** W, A, S, D 키로 전후좌우 이동
+* **점프:** Spacebar
+* **공격/블록 파괴:** 마우스 왼쪽 버튼
+* **사용/블록 설치:** 마우스 오른쪽 버튼
+* **인벤토리 열기:** E 키로 인벤토리를 열어 아이템 관리 및 제작
+* **웅크리기(쉬프트):** Shift 키로 웅크려 높은 곳에서 떨어지는 사고를 줄일 수 있습니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Movement**: W, A, S, D keys for moving forward, left, backward, and right.
-*   **[KO]** **Jump**: Spacebar for jumping.
-*   **[KO]** **Attack/Break**: Left mouse button for attacking creatures or breaking blocks.
-*   **[KO]** **Use/Place**: Right mouse button for using items or placing blocks.
-*   **[KO]** **Open Inventory**: E key to open the player's inventory for item management and crafting.
-*   **[KO]** **Sneak**: Shift key to sneak, preventing falls from high places.
+1. **Q: Minecraft에는 어떤 게임 모드가 있나요?**  
+   **A:** 서바이벌, 크리에이티브, 어드벤처, 관전자 모드 네 가지가 대표적인 모드입니다.
 
-### Frequently Asked Questions
+2. **Q: 친구와 멀티플레이를 하려면 어떻게 하나요?**  
+   **A:** 같은 네트워크에서 LAN 월드를 열거나, Minecraft Realms와 서드파티 서버를 이용해
+   함께 플레이할 수 있습니다.
 
-1.  **[KO]** **Q: What are the main game modes in Minecraft?**
-**A**: The main modes are Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
-2.  **[KO]** **Q: How can I play multiplayer?**
-**A**: You can play with friends via local area network (LAN), Minecraft Realms, or third-party servers.
-3.  **[KO]** **Q: How do I get rare resources (like diamonds)?**
-**A**: Diamonds typically generate deep underground at specific layers and require an iron pickaxe or higher to mine.
-4.  **[KO]** **Q: How do I build an automated farm?**
-**A**: Automated farms usually involve Redstone circuits, pistons, water flows, and other mechanisms to achieve automatic planting and harvesting of crops.
+3. **Q: 다이아몬드 같은 희귀 자원은 어떻게 얻나요?**  
+   **A:** 주로 깊은 지하 특정 높이대에 생성되며, 최소 철 곡괭이 이상으로만 채광이
+   가능합니다.
+
+4. **Q: 자동 농장은 어떻게 만들 수 있나요?**  
+   **A:** 대부분 레드스톤 회로, 피스톤, 물 흐름 등의 메커니즘을 활용해 작물을 자동으로
+   심고 수확하도록 설계합니다.

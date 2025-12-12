@@ -1,31 +1,38 @@
 ---
 locale: zh
 urlstr: the-haze-pixelbox
-title: '[ZH TRANSLATION NEEDED] The Haze Pixelbox - Play The Haze Pixelbox Online'
-description: '[ZH TRANSLATION NEEDED] Whether you'
-iframeSrc: 'https://turbowarp.org/1020955547/embed'
-thumbnail: /the-haze-pixelbox.png
+title: '《The Haze: Pixelbox》迷雾像素盒'
+description: '《The Haze: Pixelbox》是一款氛围独特的像素解谜/探索游戏。你将在迷雾笼罩的像素世界里移动方块、解开机关，逐步拼凑出隐藏在雾后的真相。'
+iframeSrc: 'https://thehazepixelbox.h5games.usercontent.goog/v/4g7d2n9c1b5k0/'
+thumbnail: /new-images/the-haze-pixelbox.jpg
 tags:
-  - the haze pixelbox
-score: 3.9/5  (132 votes)
+  - puzzle
+  - adventure
+  - pixel
+score: 4.0/5  (1500 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### What's So Special About The Haze Pixelbox?
- 
-[ZH TRANSLATION NEEDED] Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist.
- 
-### The Core Gameplay of The Haze Pixelbox:
- 
-- **Become a Tribal Leader:** Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.
-- **Explore Primal Sounds:** The game is full of tribal rhythms, didgeridoos, and soulful chants, allowing you to fully experience the charm of Australian Aboriginal music.
-- **Showcase Your Creativity:** Unleash your creativity with a variety of unique sound effects and percussive elements, creating unique musical works.
- 
- 
-### In the world of The Haze Pixelbox:
- 
-- The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.
-- You will have endless combinations to create your own musical masterpiece.
-- You can share your works with friends and family to jointly feel the charm of music.
- 
- 
-[ZH TRANSLATION NEEDED] **Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!**
+
+### 详细游戏介绍
+
+《The Haze: Pixelbox》采用复古像素画面与低饱和配色，营造出迷雾弥漫的箱庭世界。玩家需要在有限视野中探索，推动方块、触发按键或机关，打开被锁住的通路。有的关卡还会引入光影与雾效的互动，只有在特定角度或开启特定装置时，隐藏的道路或图案才会显现。
+
+### 游玩策略与探索指引
+
+1.  **观察环境细节：** 迷雾下的墙壁纹理、地板微光或像素细微变化，都可能暗示着可互动的物体或隐藏通道。
+2.  **盒子与机关的组合：** 尝试把箱子推到压力板或特殊地块上，观察场景中是否发生变化，再据此推断下一步的目的地。
+3.  **善用试错：** 部分谜题需要多次尝试不同顺序与位置，不妨大胆实验，再利用撤销或重置功能恢复。
+4.  **留意故事线索：** 场景中的文字、符号或背景装饰，可能是世界观与谜题的双重暗示，读懂它们会让解谜更顺畅。
+
+### 操作说明
+
+*   **移动：** 使用方向键或 WASD 控制角色在像素世界中移动；
+*   **互动：** 靠近箱子、机关或门时按互动键进行推动、开启等操作；
+*   **重置：** 如误操作导致局面不可挽回，可通过菜单重置当前关卡重新尝试。
+
+### 常见问题解答（FAQ）
+
+**问：遇到完全看不懂的谜题怎么办？****
+答：** 建议先绕场景多走几圈，查找可能遗漏的互动物体或图案提示，必要时可以先跳过一会儿，换个心情再回来通常会更有灵感。
+

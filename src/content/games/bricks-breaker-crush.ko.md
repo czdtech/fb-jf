@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: bricks-breaker-crush
-title: '[KO] Bricks Breaker Crush'
+title: 'Bricks Breaker Crush 브릭스 브레이커 크러시'
 description: >-
-  [KO] Bricks Breaker Crush showers bricks to shatter — aim volleys, stack
-  multipliers, and carve optimal angles through dense fields.
+  Bricks Breaker Crush는 숫자가 적힌 벽돌에 연속으로 볼을 튕겨 넣는 벽돌 깨기
+  퍼즐 게임입니다. 각도를 잡아 다중 튕김 경로를 만들고, +볼 아이템으로 볼 수를
+  늘리며, 아래로 내려오는 벽을 막아 보세요.
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/bricks-breaker-crush.png
 tags:
@@ -15,38 +16,73 @@ score: 4.0/5  (1906 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bricks Breaker Crush에서는 한 번에 여러 개의 볼을 발사해 숫자 벽돌들을
+연달아 맞히며 제거해야 합니다. 조준한 방향으로 볼이 튕겨 나가면서 벽돌에
+닿을 때마다 숫자가 1씩 줄어들고, 0이 되면 해당 벽돌이 사라집니다. 매 턴마다
+벽돌 줄이 한 칸씩 아래로 내려오기 때문에, 바닥까지 닿기 전에 모든 벽돌을
+처리하는 것이 목표입니다.
 
+핵심은 **긴 리코셰(연속 튕김) 경로**를 만들어 한 발사에 최대한 많은 벽돌을
+건드리는 것과, +볼 아이템을 먹어 한 번에 나가는 볼 수를 눈덩이처럼 불리는
+것입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Bricks Breaker Crush fires barrages of balls that ricochet through numbered bricks. Your aim sets the initial trajectory; bricks count down as they’re hit. Mastery is about shaping long ricochet paths, multiplying contacts per volley, and preventing walls from reaching the bottom.
+1.  **얕은 각도로 시작하기**  
+    너무 가파른 각도로 쏘면 볼이 금방 바닥으로 돌아와 효율이 떨어집니다.
+    처음에는 바닥과 약간만 기울어진 얕은 각도로 발사해, 볼이 좌우 벽을 여러 번
+    오가며 벽돌을 많이 스치도록 하는 것이 좋습니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **+볼 아이템을 우선 노리기**  
+    초반에 +1, +2 같은 추가 볼 아이콘을 맞히면 이후 턴마다 나가는 볼 수가 크게
+    늘어나 전체 화력이 눈에 띄게 증가합니다. 위험하지 않은 상황이라면, 당장
+    숫자를 줄이는 것보다 +볼 아이템을 먼저 먹는 선택이 장기적으로 더 유리합니다.
 
-1.  **[KO]** Shallow angles: Start at modest angles to maximize side‑to‑side hits.
-2.  **[KO]** Target multipliers: Hit +ball pickups early to scale your volleys.
-3.  **[KO]** Cut columns: Remove high‑value columns that threaten the bottom.
-4.  **[KO]** Set traps: Build V‑shaped lanes so balls loop near the top for extended time on target.
-5.  **[KO]** Emergency clears: When a row is critical, aim direct shots to neutralize it before it drops.
-6.  **[KO]** Power‑ups: Save line clears for emergencies; chain with big volleys when possible.
+3.  **위협적인 열부터 잘라 내기**  
+    아래쪽까지 거의 내려온 벽돌이나, 숫자가 지나치게 높은 벽돌이 몰린 열은
+    우선적으로 제거해야 합니다. 한 번이라도 바닥에 닿으면 게임이 끝나기 때문에,
+    위험 구역의 열을 집중 타격해 잘라 내는 것이 중요합니다.
 
-### Controls Guide
+4.  **위쪽에 공을 가두는 V자 트랩 만들기**  
+    벽돌 배치를 이용해 V자 또는 좁은 통로를 만들면, 그 안에서 볼이 오래
+    반복해서 튕기며 상단 벽돌을 집중적으로削는 효과를 볼 수 있습니다. 각도를
+    잘 조절해 이런 통로를 형성하면 한 턴에 매우 많은 타격을 줄 수 있습니다.
 
-- Drag to aim; release to fire the volley.
-- Power‑ups trigger on catch or tap depending on the build.
+5.  **위기 상황에서는 직선 사격으로 긴급 정리**  
+    벽이 한두 줄만 더 내려오면 게임 오버가 나는 상황이라면, 복잡한 트랩을
+    만들기보다 위험한 줄을 곧바로 겨냥해 숫자가 큰 벽돌부터 빠르게 지우는 것이
+    우선입니다.
 
-### Frequently Asked Questions (FAQ)
+6.  **파워업은 위급할 때까지 아껴 두기**  
+    일렬 삭제, 광역 공격 같은 강력한 파워업은 여유 있을 때 쓰기보다는, 정말로
+    아래가 위태로울 때까지 아껴 두었다가 한 번에 상황을 반전시키는 용도로
+    사용하는 편이 좋습니다. 가능하다면 볼 수가 많은 턴에 함께 사용해 효율을
+    극대화하세요.
 
-- Q: My shots feel too random—how do I get control?
+### 조작 방법
 
-A: Use modest angles and shape lanes that keep balls looping near the ceiling; avoid steep, chaotic caroms.
+-   **조준 및 발사:** 화면을 드래그해 발사 각도를 정한 뒤 손을 떼면 여러 개의
+    볼이 해당 방향으로 발사됩니다.
+-   **파워업 사용:** 일부 파워업은 볼이 닿는 순간 자동 발동되며, 다른 종류는
+    화면을 탭해 직접 발동할 수 있는 경우도 있습니다.
 
-- Q: What should I prioritize: +ball or clears?
+### 자주 묻는 질문 (FAQ)
 
-A: Early +ball pickups snowball; in danger, clear critical columns first.
+-   **Q. 아무리 쏴도 공이 제멋대로 튀어 나가는 느낌이에요. 어떻게 컨트롤하죠?**  
+    A. 각도를 너무 급하게 잡으면 공이 예측하기 힘든 궤적을 그리며 금방 내려
+    오게 됩니다. 바닥과 평행에 가까운 얕은 각도를 사용해 천장 근처에 공을
+    오래 머물게 하고, 벽돌 사이에 통로를 만들어 공이 루프를 도는 형태를
+    노려 보세요.
 
-- Q: The wall keeps dropping—any fix?
+-   **Q. +볼 아이템과 위험한 벽돌 줄 중 무엇을 먼저 노려야 하나요?**  
+    A. 초반에는 +볼을 우선하여 장기적인 화력을 키우는 것이 좋습니다. 하지만
+    벽이 이미 아래까지 많이 내려왔을 때는, 당장 게임을 끝낼 수 있는 열이나
+    벽돌을 먼저 제거하는 것이 최우선입니다.
 
-A: Stop building traps and fire surgical shots at the highest numbers near the bottom edge.
-
+-   **Q. 벽이 계속 내려와서 금방 지는데, 어떻게 버틸 수 있을까요?**  
+    A. 이미 위험 구간에 들어섰다면 트랩 만들기는 잠시 포기하고, 바닥 근처의
+    높은 숫자 벽돌을 직접 겨냥하는 "수술 샷" 위주로 플레이해야 합니다. 여기에
+    저장해 둔 라인 삭제 파워업을 더하면 한 번에 여유 공간을 크게 확보할 수
+    있습니다.

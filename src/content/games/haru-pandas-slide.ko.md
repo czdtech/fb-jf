@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: haru-pandas-slide
-title: '[KO] Haru Pandas Slide'
+title: "Haru Pandas Slide 판다 슬라이드 퍼즐"
 description: >-
-  [KO] Haru Pandas Slide is a chill slider — slide tiles to reassemble panda
-  pictures with minimal moves and satisfying logic.
+  귀여운 판다 그림을 다시 맞추는 슬라이드 퍼즐 게임입니다. 타일을 밀어 행과
+  열을 정렬해, 최소 이동으로 원래의 판다 이미지를 완성해 보세요.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/haru-pandas-slide.png
 tags:
@@ -19,33 +19,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Haru Pandas Slide presents image‑based sliding puzzles. Move tiles along rows/columns to restore adorable panda scenes. Later boards increase tile counts and introduce locked tiles that constrain pathing, rewarding planned sequences over trial‑and‑error.
+`Haru Pandas Slide`는 여러 조각으로 잘려 있는 판다 일러스트를 다시 맞추는
+이미지 슬라이드 퍼즐입니다. 타일을 가로나 세로 방향으로 밀어 위치를
+바꾸면서 그림을 완성해야 하며, 후반 보드로 갈수록 타일 개수가 많아지고
+특정 타일은 고정되어 움직일 수 없어 경로 설계가 더 까다로워집니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** Frame first: Complete the border to reduce search complexity.
-2.  **[KO]** Solve bands: Reassemble distinct color bands (sky/forest/pandas) one at a time.
-3.  **[KO]** Three‑move cycles: Use 3‑tile cycles to rotate positions without breaking placed areas.
-4.  **[KO]** Lock awareness: Route moves around locked tiles; treat them as anchors.
-5.  **[KO]** Minimal moves: Plan ahead to avoid undoing progress.
+1. **테두리부터 맞추기**  
+   먼저 그림의 외곽(하늘, 숲 배경, 프레임 등)을 완성하면 남은 타일의
+   위치를 추리하기가 훨씬 쉬워집니다.
 
-### Controls Guide
+2. **색 띠 단위로 풀기**  
+   하늘·숲·판다 같은 색 영역을 구분해 한 줄(또는 한 구역)씩 완성해 나가면,
+   전체를 동시에 보려 할 때보다 난도가 크게 낮아집니다.
 
-- Drag tiles along permitted axes; undo/reset if supported.
+3. **3칸 회전 사이클 활용**  
+   이미 맞춘 구역을 깨뜨리지 않기 위해, 세 타일 정도를 이용해 작은
+   회전 루프를 만들고 그 안에서만 위치를 바꿔 주면 안정적으로 수정할 수
+   있습니다.
 
-### Frequently Asked Questions (FAQ)
+4. **고정 타일을 기준점으로 사용**  
+   잠겨 있는 타일은 움직일 수 없는 대신, 나머지 타일의 위치를 맞추는
+   앵커처럼 활용할 수 있습니다. 이 타일을 중심으로 주변 타일을 정렬해 보세요.
 
-- Q: I break my solved area — how to avoid?
+5. **최소 이동 생각하기**  
+   눈에 보이는 대로 바로 움직이기보다는, 두세 번 뒤의 위치 변화를 미리
+   상상해 불필요하게 다시 되돌리는 이동을 줄이는 것이 중요합니다.
 
-A: Use 3‑tile cycles that rotate a subset without touching the completed band.
+### 조작 방법
 
-- Q: Any hint system?
+- 타일을 드래그해 허용된 방향(가로/세로)으로 밀어 움직입니다.
+- 되돌리기/재시작 버튼이 지원되는 버전에서는 실수했을 때 바로 수정할 수
+  있습니다.
 
-A: Many versions include hints or ghost previews; use sparingly.
+### 자주 묻는 질문(FAQ)
 
-- Q: Is there a timer?
+- Q: 이미 맞춰 둔 부분이 계속 망가집니다. 어떻게 막을 수 있나요?  
+  A: 완성된 줄이나 영역을 건드리지 않고, 주변 세 타일만 돌려 배치하는
+  작은 회전 루프를 사용하면 이미 맞춘 부분을 유지한 채 나머지만 조정할
+  수 있습니다.
 
-A: Often relaxed; some modes track move counts instead.
+- Q: 힌트 기능이 있나요?  
+  A: 많은 버전에서 힌트나 완성 이미지의 고스트 프리뷰를 제공하지만,
+  난이도를 유지하고 싶다면 정말 막혔을 때만 사용하세요.
 
+- Q: 시간 제한이 있나요?  
+  A: 대개 느긋하게 풀 수 있는 모드가 기본이며, 일부 모드에서만 이동 횟수나
+  시간 기록을 따로 카운트합니다.

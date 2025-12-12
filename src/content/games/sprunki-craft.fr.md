@@ -1,56 +1,71 @@
 ---
 locale: fr
 urlstr: sprunki-craft
-title: "[FR] Sprunki Craft \U0001F3AE Play Sprunki Craft Online"
-description: >-
-  [FR] Sprunki Craft is the perfect combination of Minecraft and Incredibox,
-  providing players with a creative and fun platform for music creation. Come
-  join the world of Sprunki Craft, and use your familiar Minecraft characters to
-  create your own exclusive musical works!
+title: Sprunki Craft - Jouer à Sprunki Craft en ligne
+description: "Sprunki Craft est la rencontre parfaite entre Minecraft et Incredibox\_: utilise des personnages inspirés de l’univers Minecraft pour composer des morceaux originaux dans le style Sprunki."
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /sprunki-craft.jpg
+score: 4.9/5  (724 votes)
 tags:
   - sprunki craft
   - sprunki craft online
-score: 4.9/5  (724 votes)
 ---
 
+### Présentation de Sprunki Craft
 
-
-### Introducing to Sprunki Craft
-
-Ever thought about creating beautiful music in the world of Minecraft? Sprunki Craft fulfills your wish! This game perfectly combines Minecraft's iconic world with Sprunki Incredibox's music-making magic, allowing you to use 20 unique Minecraft-themed characters to create a custom musical choir!
-
----
-
-### What's So Fun About Sprunki Craft?
-
-Imagine choosing Steve, Creeper, Herobrine, and other familiar Minecraft characters, and then having them make all sorts of wonderful sounds, show off cool animations, and create rhythmic beats. You can unleash your creativity, explore different combinations, and create unique musical works. Doesn't it sound a little exciting?
+Tu as déjà rêvé de créer de la musique dans un monde façon Minecraft ?
+Sprunki Craft réalise ce rêve. Ce Mod fusionne les blocs et personnages
+iconiques de Minecraft avec la magie musicale de Sprunki Incredibox. Tu peux
+manipuler une vingtaine de personnages inspirés de l’univers voxel pour monter
+ton propre « chœur » musical.
 
 ---
 
-### Two Modes, Play Music Your Way:
+### Qu’est‑ce qui rend Sprunki Craft si fun ?
 
-Sprunki Craft offers two different game modes, so whether you're a music lover or a Minecraft fan, you can find your fun:
-
-- **Default Mode:** In this mode, you're free to experiment with different characters, moving and changing them at will to create custom sounds and rhythms. Explore to your heart's content, and discover those combinations that can spark wonderful musical fireworks!
-- **Love Test Mode:** This mode supports single or multiplayer games, adding a bit of a competitive element. You can earn points based on the melodies you create, and the player with the highest score wins. Come and challenge your creativity and music-making skills!
-
-
----
-
-### Create, Experiment, and Discover:
-
-The most attractive thing about Sprunki Craft is its interactive approach to music-making. You can pause and repeat character animations to adjust your creations, enabling endless possibilities. The game encourages you to try different combinations, discover hidden surprises, and unlock new rhythms.
+Imagine Steve, Creeper, Herobrine et bien d’autres personnages emblématiques
+transformés en musiciens. Chacun possède ses sons, animations et effets qui se
+combinaient pour créer des rythmes uniques. À toi d’explorer, d’assembler et de
+trouver les combinaisons qui feront vibrer ton mix.
 
 ---
 
-### Simple Operation, Suitable for All Ages:
+### Deux modes de jeu pour créer à ta façon
 
-Sprunki Craft is very simple and intuitive to operate, whether using a mouse or touch controls on phones and tablets, you can easily get started. Whether you're a newbie to music creation or a veteran Minecraft player, you can find your own happiness in the world of Sprunki Craft.
+Sprunki Craft propose plusieurs manières de s’amuser :
+
+- **Mode Classique :** expérimente librement avec les personnages, déplace‑les,
+  remplace‑les et teste toutes sortes de combinaisons sonores.
+- **Mode Love Test (selon la version) :** défie un ami ou joue en solo pour
+  marquer un maximum de points avec ton morceau. Plus ta composition est
+  harmonieuse, plus ton score grimpe.
 
 ---
+
+### Crée, expérimente, découvre
+
+Le cœur de Sprunki Craft, c’est l’expérimentation :
+
+- mets en pause, recommence, change l’ordre des personnages ;
+- teste des combinaisons inhabituelles pour déclencher des animations
+  spécifiques ;
+- affine ton mix pour obtenir un équilibre parfait entre beats, mélodies et
+  effets.
+
+---
+
+### Pour qui est fait Sprunki Craft ?
+
+Sprunki Craft convient aussi bien :
+
+- aux fans de Minecraft qui veulent explorer une facette musicale de leur
+  univers favori ;
 
 ### Conclusion:
+- aux joueurs Sprunki qui aiment créer sans contrainte ;
+- aux débutants qui souhaitent se lancer dans la création musicale de façon
+  ludique.
 
-Sprunki Craft is the perfect combination of Minecraft and Incredibox, providing players with a creative and fun platform for music creation. Come join the world of Sprunki Craft, and use your familiar Minecraft characters to create your own exclusive musical works!
+Sprunki Craft est un terrain de jeu créatif où blocs, personnages et musique
+se rejoignent. Rejoins‑le et compose ta propre bande‑son cubique !
+

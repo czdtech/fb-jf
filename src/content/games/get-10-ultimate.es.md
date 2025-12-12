@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: get-10-ultimate
-title: '[ES] Get 10 Ultimate'
+title: Get 10 Ultimate
 description: >-
-  [ES] A challenging number puzzle! Tap on adjacent, identical numbers to merge
-  them into a higher number. Can you make it to 10 and beyond?
+  Un puzle numérico desafiante. Toca grupos de números iguales y adyacentes para
+  fusionarlos en un número superior. ¿Podrás llegar al 10 y seguir más allá?
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/get-10-ultimate.png
 tags:
@@ -16,33 +16,52 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Get 10 Ultimate es un juego de puzle numérico sencillo en apariencia pero muy
+estratégico en profundidad. El tablero está lleno de casillas numeradas y tu
+objetivo es combinarlas para crear números cada vez más altos. Para ello
+pulsas sobre grupos de dos o más casillas adyacentes con el mismo número; todo
+el grupo se fusiona en una única casilla con un valor incrementado en uno. El
+primer reto es alcanzar el número 10, pero el verdadero objetivo es seguir
+fusionando durante el mayor tiempo posible para lograr la cifra y la
+puntuación máximas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Get 10 Ultimate is a simple yet deeply strategic number puzzle game. The board is filled with numbered tiles, and your goal is to combine them to create higher numbers. You do this by tapping on a group of two or more adjacent, identical numbers. This merges the entire group into a single new tile with a value that is one higher. The initial challenge is to reach the number 10, but the ultimate goal is to continue merging for as long as possible to achieve the highest number and score.
+1. **Piensa antes de pulsar:** Cada toque cambia por completo la disposición
+   del tablero. Antes de fusionar un grupo, piensa cómo caerán las casillas de
+   encima y qué nuevos grupos podrían formarse. Una buena jugada puede preparar
+   otra aún mejor.
+2. **Crea grupos grandes:** Aunque puedes fusionar grupos de solo dos casillas,
+   es mucho más eficiente formar grupos grandes. Intenta mover las casillas para
+   juntar bloques amplios del mismo número antes de pulsar.
+3. **No aísles números altos:** Evita dejar un número alto rodeado de muchos
+   valores distintos y más bajos. Eso puede dificultar muchísimo encontrar otro
+   número alto con el que fusionarlo y bloquear una gran parte del tablero.
+4. **Trabaja desde abajo:** Hacer fusiones cerca de la parte inferior provoca
+   que se desplacen más casillas, lo que aumenta las posibilidades de generar
+   nuevas combinaciones de forma accidental.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Think Before You Tap:** Every tap changes the layout of the board. Before you merge a group, consider how the tiles above will fall and what new groups might form. A good move can set up an even better move.
-2.  **[ES]** **Create Large Groups:** While you can merge a group of just two tiles, it's much more efficient to create and merge larger groups. Try to maneuver tiles so that you have big clusters of the same number next to each other before you tap.
-3.  **[ES]** **Don't Isolate High Numbers:** Be careful not to create a single high number that is surrounded by many different, lower numbers. This can make it very difficult to create another high number to merge it with, effectively blocking a large part of your board.
-4.  **[ES]** **Work from the Bottom:** Making matches near the bottom of the board will cause the most tiles to shift, increasing the chances of creating new, unplanned matches as tiles fall into place.
+El juego se maneja con un solo clic o toque.
 
-### Controls Guide
+- **Fusionar números:** Haz clic en cualquier grupo de dos o más casillas
+  adyacentes con el mismo número. El grupo se fusionará en la posición sobre la
+  que has pulsado.
 
-The game is played with a single click or tap.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** El primer objetivo es crear una casilla con el número 10. Después,
+        se trata de seguir fusionando para conseguir el número y la puntuación
+        más altos posibles antes de que el tablero se bloquee.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuándo termina la partida?**
+    *   **R:** Cuando ya no quedan movimientos posibles, es decir, cuando no hay dos
+        casillas adyacentes con el mismo número en todo el tablero.
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.
-
-*   **[ES]** **Q: How does the game end?**
-    *   **[ES]** **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
-
-*   **[ES]** **Q: Does the new tile appear in a random spot?**
-    *   **[ES]** **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
-
+*   **P: ¿La nueva casilla aparece en un lugar aleatorio?**
+    *   **R:** No. La casilla resultante aparece exactamente en la posición del grupo
+        en la que hiciste clic.

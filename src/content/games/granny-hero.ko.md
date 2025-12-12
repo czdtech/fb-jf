@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: granny-hero
-title: '[KO] Granny Hero'
+title: "Granny Hero 그래니 히어로"
 description: >-
-  [KO] Granny Hero is a comedic action‑runner — dodge hazards, use quirky
-  power‑ups, and rescue neighbors with surprising agility.
+  Granny Hero는 유쾌한 액션 러너 게임으로, 날렵한 할머니가 거리 곳곳을 질주하며
+  장애물을 피하고 이웃들을 도와 나가는 내용을 담고 있습니다. 라인을 바꾸고 점프와
+  슬라이드를 타이밍 좋게 사용해 각종 위험을 피하세요.
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/granny-hero.png
 tags:
@@ -17,33 +18,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Granny Hero is a lighthearted runner where a spry granny dashes through streets, avoids slapstick hazards, and collects items to aid neighbors. Expect lane swaps, jump/slide timing, and occasional gadgets (scooters, umbrellas, pans) that grant brief invulnerability or crowd‑control.
+*Granny Hero*는 쾌활한 할머니 주인공이 거리를 전력 질주하며 장애물을 피하고, 도움이
+필요한 이웃을 도와 나가는 러너 게임입니다. 플레이어는 좌우 라인을 바꾸고 점프와
+슬라이드를 사용해 콘, 자동차, 바닥 장애물 등을 피해 나가고, 길에서 얻은 아이템과
+도구를 활용해 위기를 탈출하게 됩니다. 스쿠터, 우산, 프라이팬 같은 기묘한 장비들은
+일시적인 무적이나 군중 제어 효과를 제공해, 복잡한 구간을 한 번에 돌파할 수 있게
+해 줍니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** Lane vision: Keep eyes two obstacles ahead to prepare swaps.
-2.  **[KO]** Jump/slide rhythm: Late jumps clear hurdles; slides beat low bars.
-3.  **[KO]** Power‑up economy: Save shields/speed boosts for dense stretches.
-4.  **[KO]** Mission focus: Prioritize rescue targets over side coins when routes conflict.
-5.  **[KO]** Recovery: After a mistake, re‑establish cadence before chasing score.
+1. **시야는 두 칸 앞에:** 당장 눈앞 장애물만 보지 말고, 항상 두 개 이상 앞에 있는
+   장애물을 함께 보면서 어느 라인으로 갈지 미리 결정하세요.
+2. **점프/슬라이드 리듬:** 점프는 너무 이르게 누르면 착지 순간 다른 장애물에
+   걸리기 쉽습니다. 장애물 바로 앞에서 살짝 늦게 눌러 넘고, 낮은 바는 슬라이드로
+   빠르게 지나가세요.
+3. **파워업 아껴 쓰기:** 보호막이나 속도 부스터 같은 파워업은 장애물이 몰려 있는
+   구간을 위해 아껴 두는 것이 좋습니다. 쉬운 구간에서 바로 써 버리면 진짜 위기 때
+   쓸 카드가 없어집니다.
+4. **미션 우선:** 이웃 구조, 특정 아이템 수집 등 미션 목표가 있을 때는 단순 코인
+   회수보다 미션 경로를 우선 고려하는 것이 좋습니다.
+5. **실수 후 리듬 복구:** 한 번 부딪힌 뒤에는 점수를 무리해 만회하려 하기보다,
+   다시 일정한 리듬을 되찾는 데 집중하세요. 조급함이 연속 실수의 원인이 됩니다.
 
-### Controls Guide
+### 조작 방법
 
-- Swap lanes: A/D or Left/Right; Jump: Space/Up; Slide: Down; gadgets via keys.
+- 라인 변경: `A` / `D` 또는 좌/우 방향키
+- 점프: `Space` 또는 위쪽 방향키
+- 슬라이드: 아래 방향키
+- 특수 장비 사용: 화면에 표시된 전용 키(버전별 상이)를 눌러 발동
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: I keep clipping cones — any tip?
+- **Q: 콘 장애물에 자꾸 살짝 걸려 넘어져요.**  
+  **A:** 너무 일찍 점프하고 있을 가능성이 큽니다. 콘 바로 앞에서 한 박자 늦게
+  점프하고, 착지 후 중앙 라인으로 돌아오면 다음 선택지가 넓어집니다.
 
-A: Jump a beat later and center after passes to maximize options.
+- **Q: 장비를 꼭 써야 하나요?**  
+  **A:** 장비는 난이도가 급격히 오르는 구간에서 일종의 세이프티 역할을 합니다.
+  장애물이 연속으로 나오는 구간에 맞춰 사용하면 훨씬 안정적으로 진행할 수 있습니다.
 
-- Q: Are gadgets necessary?
-
-A: They provide safety nets; use them where obstacle density spikes.
-
-- Q: Endless?
-
-A: Most modes are endless with missions layered in.
-
+- **Q: 끝이 있는 스테이지인가요, 끝less 모드인가요?**  
+  **A:** 대부분의 모드는 끝이 없는 엔드리스 구조에 미션이 얹혀 있는 형태입니다.
+  가능한 한 오래 달리며 미션을 달성하고, 최고 점수를 갱신하는 것을 목표로
+  플레이해 보세요.

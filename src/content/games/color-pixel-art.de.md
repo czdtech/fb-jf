@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: color-pixel-art
-title: '[DE] Color Pixel Art Classic'
+title: "Color Pixel Art Classic"
 description: >-
-  [DE] Relax and unwind with this classic color-by-number pixel art game. Select
-  a color, find the corresponding number, and fill in the pixels to reveal a
-  beautiful piece of art.
+  Entspanne dich mit diesem klassischen "Malen nach Zahlen"-Pixel-Art-Spiel.
+  Wähle eine Farbe, suche die passende Zahl und fülle die Pixel, bis ein
+  vollständiges Bild entsteht.
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/color-pixel-art.png
 tags:
@@ -17,35 +17,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Color Pixel Art Classic* ist ein entspannendes "Malen nach Zahlen"-Puzzlespiel
+ mit Pixelgrafik. Du wählst aus einer Galerie verschiedener Motive und
+bringst sie nach und nach mit Farbe zum Leben. Jeder Pixel ist mit einer Zahl
+versehen, die einer Farbe in deiner Palette entspricht. Indem du Schritt für
+Schritt alle nummerierten Felder ausmalst, entsteht am Ende ein vollständiges
+Pixelkunstwerk – ganz ohne Zeichenkenntnisse.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  Motiv auswählen: Durchstöbere die Galerie und suche dir ein Bild aus, auf
+    das du gerade Lust hast – von einfachen Icons bis zu komplexeren Szenen.
+2.  Farbe wählen: Tippe eine Farbe in der Palette am unteren Bildschirmrand an.
+    Passende Pixel werden meist hervorgehoben, damit du sie leichter findest.
+3.  Pixel füllen: Zoome in die markierten Bereiche und tippe jeden passenden
+    Pixel an, um ihn zu färben. Viele Versionen erlauben auch Click&Drag, um
+    zusammenhängende Pixel gleicher Zahl schneller zu füllen.
+4.  Farben nach und nach abarbeiten: Wenn eine Zahl komplett ausgefüllt ist,
+    wird sie oft ausgegraut oder abgehakt – so behältst du den Überblick.
+5.  Zoomen nicht vergessen: Nutze Zoom großzügig, vor allem für letzte,
+    schwer erkennbare Einzelpixel an den Rändern oder in Details.
 
-Color Pixel Art Classic is a relaxing and satisfying color-by-number puzzle game. It allows you to choose from a wide variety of pixelated images and bring them to life with color. Each pixel in an image is numbered, corresponding to a specific color in your palette. By carefully filling in all the pixels, you will gradually reveal a beautiful and complete piece of pixel art. It's a perfect game for unwinding and expressing creativity without needing any artistic skill.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+*   Farbe wählen: Klicke oder tippe auf eine Farbe in der Palette.
+*   Pixel ausmalen: Klicke oder tippe auf den entsprechenden nummerierten Pixel
+    im Bild.
+*   Zoomen: Mausrad nutzen oder auf Touch-Geräten mit zwei Fingern
+    zusammen-/auseinanderziehen.
+*   Verschieben: Im gezoomten Zustand das Bild gedrückt halten und ziehen, um
+    den Ausschnitt zu verschieben.
 
-1.  **[DE]** **Choose an Image:** Start by browsing the gallery and selecting an image you'd like to color.
-2.  **[DE]** **Select a Color:** Tap on a color from the palette at the bottom of the screen. The game will highlight all the pixels on the grid that correspond to that color's number.
-3.  **[DE]** **Fill the Pixels:** Zoom in on the highlighted areas and tap each numbered pixel to fill it with the selected color. Many games allow you to click and drag to quickly fill in adjacent pixels of the same number.
-4.  **[DE]** **Complete the Picture:** Continue this process for every color in the palette. Once a color is fully filled in, it will often be grayed out or marked with a check, indicating you are done with that number. The puzzle is complete when every pixel has been colored.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   F: Wie finde ich alle Pixel einer bestimmten Farbe?
+    *   A: Wähle die Farbe in der Palette – meist werden alle noch offenen
+        Pixel dieser Zahl kurz markiert oder pulsierend hervorgehoben.
 
-*   **[DE]** **Select Color:** Click or tap on a color in the palette at the bottom.
-*   **[DE]** **Fill Pixel:** Click or tap on the corresponding numbered pixel on the grid.
-*   **[DE]** **Zoom:** Use your mouse scroll wheel or pinch-to-zoom on a touch screen to zoom in and out, making it easier to find small pixels.
-*   **[DE]** **Pan:** Click and drag the image (when zoomed in) to move around the canvas.
+*   F: Ich finde die letzten ein, zwei Pixel nicht – was tun?
+    *   A: Zoome maximal hinein und fahre systematisch über das Bild. Oft
+        verstecken sie sich in Ecken oder in fein gerasterten Bereichen.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: How do I find all the pixels for a specific color?**
-    *   **[DE]** **A:** When you select a color from the palette, the game will automatically highlight all the pixels you need to fill with that color. This makes them much easier to spot.
-
-*   **[DE]** **Q: I can't find the last few pixels of a color. What should I do?**
-    *   **[DE]** **A:** Zoom in! The remaining pixels are often very small or located in tricky spots. Zooming in as much as possible is the best way to find them.
-
-*   **[DE]** **Q: Is there a time limit or a way to lose?**
-    *   **[DE]** **A:** No. This is a purely relaxing game. There are no timers, scores, or penalties. You can take as much time as you need and even leave a puzzle and come back to it later.
-
+*   F: Gibt es Zeitdruck oder ein Verlieren?
+    *   A: Nein. Das Spiel ist vollständig entspannt – keine Timer, keine
+        Strafpunkte. Du kannst jederzeit pausieren und später an deinem Bild
+        weiterarbeiten.

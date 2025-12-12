@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: onet-connect-classic
-title: '[DE] Onet Connect Classic'
+title: Onet Connect Classic
 description: >-
-  [DE] Test your speed and perception in Onet Connect Classic. Find pairs of
-  identical tiles and clear the board by connecting them with a path of no more
-  than two turns before time runs out!
+  Teste deine Reaktion und dein Auge in Onet Connect Classic. Finde Paare
+  identischer Kacheln und räume das Spielfeld, indem du sie mit einem Weg mit
+  höchstens zwei Ecken verbindest, bevor die Zeit abläuft.
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/onet-connect-classic.png
 tags:
@@ -17,42 +17,64 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Onet Connect Classic ist ein schnelles, süchtig machendes
+ Kachel-Verbindespiel, oft auch als "Link-up"-Game bezeichnet. Ein Raster aus
+ farbenfrohen Kacheln – häufig mit Tieren, Früchten oder anderen niedlichen
+ Symbolen – füllt das Spielfeld. Deine Aufgabe ist es, Paare identischer
+ Kacheln zu finden und zu verbinden, um das Brett zu leeren. Im Gegensatz zu
+ klassischem Mahjong entsteht die Herausforderung vor allem durch die strengen
+ Verbindungsregeln und den mitlaufenden Timer.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Die Verbindungsregel:** Du kannst zwei gleiche Kacheln nur entfernen,
+    wenn der Pfad zwischen ihnen frei ist und sich mit einer Linie zeichnen
+    ließe, die **höchstens zwei 90-Grad-Knicke** hat. Der Weg kann also sein:
+    *   Eine gerade Linie (0 Knicke).
+    *   Eine L-Form (1 Knick).
+    *   Eine Z- oder U-Form (2 Knicke).
 
-Onet Connect Classic is a fast-paced and addictive tile-matching puzzle game, often referred to as a "link-up" game. The objective is to clear a board filled with colorful tiles (often featuring animals, fruits, or other cute icons) by finding and connecting pairs of identical tiles. Unlike Mahjong Solitaire, the challenge comes from the connection rules and a ticking clock, requiring both sharp eyes and quick thinking to clear the board before time expires.
+2.  **Ränder zuerst scannen:** Die einfachsten Paare verstecken sich oft am
+    Rand des Feldes, wo mehr freie Räume sind. Suche zuerst nach Offensichtlichem
+    am Spielfeldrand.
+3.  **Vorausschauend spielen:** Jede entfernte Kachel schafft neue Wege. Versuche
+    Paare so zu wählen, dass sie blockierte Bereiche öffnen, statt nur die
+    nächstbeste Kombination zu nehmen.
+4.  **Hilfen nutzen:** Scheue dich nicht, Hinweise und Mischen einzusetzen, wenn
+    du feststeckst.
+    *   **Hinweise:** Zeigen dir ein gültiges Paar an.
+    *   **Mischen:** Ordnet alle verbleibenden Kacheln neu an und schafft neue
+        Möglichkeiten.
+5.  **Gegen die Zeit arbeiten:** Jedes Level ist zeitlich begrenzt. Behalte den
+    Timer im Auge und versuche, in einem gleichmäßigen Tempo Paare zu bilden.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **The Connection Rule:** This is the most important concept. You can only remove a pair of identical tiles if the path between them is clear and can be drawn with a line that has **no more than two 90-degree turns**. This means the path can be:
-    *   **[DE]** A straight line (zero turns).
-    *   **[DE]** An "L" shape (one turn).
-    *   **[DE]** A "Z" or "U" shape (two turns).
+Das Spiel wird komplett mit Maus oder per Touch gesteuert.
 
-2.  **[DE]** **Scan the Edges First:** The easiest matches to spot are usually around the perimeter of the board, as they have more open space around them. Start by scanning the edges for adjacent pairs or pairs that can be connected with a simple straight line.
-3.  **[DE]** **Think Ahead:** When you clear a pair, it opens up new paths for other tiles. Try to make matches that will free up the most critical areas of the board, rather than just the first pair you see.
-4.  **[DE]** **Use Your Tools:** Don't be afraid to use hints and shuffles when you get stuck.
-    *   **[DE]** **Hints:** The hint button will show you one possible valid match.
-    *   **[DE]** **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
-5.  **[DE]** **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
+*   **Kachel auswählen:** Klicke auf eine Kachel, um sie zu markieren.
+*   **Paar verbinden:** Klicke auf eine zweite identische Kachel. Ist der Pfad
+    gültig, verschwinden beide vom Spielfeld.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game is played entirely with the mouse or by tapping.
+*   **F: Warum kann ich zwei identische Kacheln nicht verbinden?**
+    **A:** Entweder blockiert eine andere Kachel den Weg, oder die Verbindung
+    würde mehr als zwei 90-Grad-Knicke erfordern.
 
-*   **[DE]** **Select Tiles:** Click on a tile to select it.
-*   **[DE]** **Connect Pair:** Click on a second, identical tile. If the path between them is valid, both tiles will be removed from the board.
+    - **F: Was passiert, wenn mir die Zeit ausgeht?**
+    **A:** Läuft der Timer auf null, bevor alle Kacheln verschwunden sind,
+    verlierst du das Level und musst es neu starten.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Gibt es eine Strafe für Hinweise?**
 
-*   **[DE]** **Q: Why can't I connect two identical tiles?**
-    *   **[DE]** **A:** There are two possible reasons: 1) The path between them is blocked by another tile, or 2) The path required to connect them would need more than two 90-degree turns.
+    - **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
 
-*   **[DE]** **Q: What happens when I run out of time?**
-    *   **[DE]** **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
+- **Q: Is there a penalty for using hints?**
 
-*   **[DE]** **Q: Is there a penalty for using hints?**
-    *   **[DE]** **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
-
+    - **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
+    **A:** In der Regel nicht, aber du hast nur eine begrenzte Anzahl davon.
+    Hebe sie dir für Situationen auf, in denen du wirklich nicht weiter weißt,
+    um Zeit zu sparen.

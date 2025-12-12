@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: tile-journey
-title: '[ES] Tile Journey'
+title: Tile Journey - Viaje de fichas relajante
 description: >-
-  [ES] Embark on a relaxing Tile Journey. Select three identical tiles to clear
-  them from the board, but plan your moves carefully to avoid filling up your
-  collection tray!
+  Emprende un relajante viaje de fichas en Tile Journey. Selecciona tres fichas
+  idénticas para eliminarlas del tablero y planifica cada movimiento para no
+  llenar la bandeja de colección.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/tile-journey.png
 tags:
@@ -16,37 +16,33 @@ score: 4.5/5  (2650 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Tile Journey es un rompecabezas moderno y relajante de combinación de fichas que pone a prueba tu capacidad de planificación. El objetivo es despejar un tablero lleno de fichas seleccionándolas de tres en tres. A diferencia de los match‑3 clásicos, aquí no intercambias posiciones: eliges fichas que se envían a una bandeja limitada en la parte inferior. Cuando se juntan tres iguales, desaparecen. Debes pensar cada movimiento para vaciar el tablero sin que la bandeja se llene.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **La regla de oro:** la bandeja suele tener solo siete huecos. Si la llenas sin formar un trío, pierdes. Cada clic debe hacerse teniendo esto en mente.
+2.  Planifica con antelación: no cojas simplemente las tres primeras fichas iguales que veas. Revisa qué hay debajo y prioriza las que destapan más fichas nuevas.
+3.  Usa la bandeja como almacén: no hace falta completar el trío inmediatamente. Puedes guardar fichas en la bandeja mientras buscas la tercera pareja. Si ya tienes dos iguales, aprovecha otros movimientos para ir desenterrando la tercera.
+4.  Piensa antes de colocar: antes de enviar una ficha a la bandeja, asegúrate de que tendrás forma razonable de completarla pronto. Un tipo de ficha sin pareja clara solo ocupa espacio valioso.
 
-Tile Journey is a modern and relaxing tile-matching puzzle game that challenges your strategic thinking. The goal is to clear a board stacked with various tiles by selecting three identical tiles. Unlike traditional match-3 games, you don't swap tiles. Instead, you select tiles and move them to a limited-capacity collection tray at the bottom of the screen. When three identical tiles are in the tray, they are cleared. You must plan your moves carefully to clear the entire board without letting the tray fill up.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+El juego se maneja con clics o toques sencillos.
 
-1.  **[ES]** **The Golden Rule:** The collection tray is limited (usually to seven slots). If you fill it completely without making a match, you lose. Every move must be made with this in mind.
-2.  **[ES]** **Plan Ahead:** Don't just click on the first three matching tiles you see. Look at the tiles underneath. Prioritize clicking tiles that will uncover the most new tiles, giving you more options for future moves.
-3.  **[ES]** **Use the Tray as a Holding Area:** You don't have to complete a set of three immediately. You can use the tray to temporarily hold tiles while you work to uncover the third one you need. For example, if you have two identical tiles in the tray, you can pick up other tiles while you search for the third matching one.
-4.  **[ES]** **Look Before You Leap:** Before placing a tile in the tray, make sure you have a plan for it. If you put a tile in the tray that you can't match soon, it will just take up valuable space.
+*   **Seleccionar ficha:** haz clic en cualquier ficha descubierta del tablero para enviarla a la bandeja de colección inferior.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The game is played with simple clicks or taps.
+*   **Q: ¿Cuál es el objetivo del juego?**
+    *   **A:** Vaciar el tablero reuniendo las fichas en grupos de tres dentro de la bandeja de colección.
 
-*   **[ES]** **Select a Tile:** Click on any uncovered tile on the main board to move it to the collection tray at the bottom.
+*   **Q: ¿Por qué no puedo seleccionar una ficha?**
+    *   **A:** Solo puedes elegir fichas que estén en la capa superior y no estén cubiertas por otras. Primero tienes que retirar las fichas de arriba.
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ¿Qué pasa si se llena la bandeja de colección?**
+    *   **A:** Si se ocupan todos los huecos y no puedes formar un trío con las fichas que tienes, la partida termina y tendrás que reiniciar el nivel.
 
-*   **[ES]** **Q: What is the objective of the game?**
-    *   **[ES]** **A:** To clear all tiles from the board by collecting them in sets of three in your collection tray.
-
-*   **[ES]** **Q: Why can't I select a certain tile?**
-    *   **[ES]** **A:** You can only select tiles that are on the top layer and are not covered by any other tile. You must clear the tiles on top to access the ones underneath.
-
-*   **[ES]** **Q: What happens if my collection tray gets full?**
-    *   **[ES]** **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
-
-*   **[ES]** **Q: Are there power-ups?**
-    *   **[ES]** **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
-
+*   **Q: ¿Hay potenciadores?**
+    *   **A:** Muchas versiones incluyen ayudas como Deshacer (revertir el último movimiento), Pista (mostrar una posible combinación) o Barajar (reordenar las fichas del tablero).

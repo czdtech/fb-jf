@@ -1,42 +1,47 @@
 ---
 locale: zh
 urlstr: subway-jumper
-title: '[ZH TRANSLATION NEEDED] Subway Jumper'
-description: >-
-  [ZH TRANSLATION NEEDED] Subway Jumper is a nimble runner — swap lanes, time
-  hops/slides, and maintain rhythm through dense metro hazards.
-iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
-thumbnail: /new-images/subway-jumper.png
+title: 《Subway Jumper》地铁跑酷跳跃
+description: 《Subway Jumper》是一款横版跑酷+跳跃闯关游戏。你要在地铁轨道与月台之间奔跑、跳跃、躲避列车和障碍，安全抵达终点。
+iframeSrc: 'https://subwayjumper.h5games.usercontent.goog/v/6m4h0c2g8d1p0/'
+thumbnail: /new-images/subway-jumper.jpg
 tags:
+  - running
+  - platformer
   - action
-  - casual
-score: 3.9/5  (1759 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.8/5  (1400 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Subway Jumper plays like a classic three‑lane runner: trains, cones, and barriers demand late jumps and decisive slides. Coins and power‑ups tempt risky lines; consistency earns longer streaks and better scores.
+《Subway Jumper》将经典的地铁题材跑酷与横版平台跳跃结合。你扮演在地铁环境下奔跑的角色，需要在疾驰而过的列车、轨道间隙、安全门和路障之间灵活穿梭，有时还要借助移动平台和梯子寻找更安全或更快捷的路线，整体节奏紧凑而刺激。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Eyes up two obstacles; don’t stare at your feet.
-2.  [ZH TRANSLATION NEEDED] Late jumps for low hurdles; slides for bars and tunnels.
-3.  [ZH TRANSLATION NEEDED] Skip side coins when alignment is off.
-4.  [ZH TRANSLATION NEEDED] Use shields/magnets in dense sections only.
-5.  [ZH TRANSLATION NEEDED] After a mistake, reset rhythm before speeding up.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **提前判断列车节奏：** 注意观察远处列车的来向与速度，提前规划是停下等待还是抢在列车前后通过。
+2.  **掌握跳跃时机：** 精准控制起跳点和按键时长，既要跳得足够高、足够远，又要避免撞到上方障碍或落在危险边缘。
+3.  **利用高低路线：** 某些关卡可能存在上层和下层不同路线。上层通常障碍更少，但上去的过程可能更难；根据熟练度选择适合自己的路线。
+4.  **保持节奏而非一味狂奔：** 有时适当减速、等待一个更安全的过障窗口比勉强硬跳强得多，尤其是在多重障碍连在一起的时候。
 
-- A/D or Left/Right to switch lanes; Space/Up to jump; Down to slide; power‑ups via keys.
 
-### Frequently Asked Questions (FAQ)
+- After a mistake, reset rhythm before speeding up.
+### 操作说明
+
+*   **移动：** 使用左右方向键或虚拟摇杆控制角色前后移动；
+*   **跳跃：** 使用跳跃键起跳，长按可获得更高/更远的跳跃（具体视版本而定）；
+*   **特殊互动：** 某些场景可通过上键或互动键攀爬梯子、启动机关等。
+
+### 常见问题解答（FAQ）
+
 
 - Q: I clip barriers often.
-  
-[ZH TRANSLATION NEEDED]   A: Jump a touch later and center after passes.
+**问：老是被列车撞到怎么办？****
 
 - Q: Is speed adjustable?
-  
-[ZH TRANSLATION NEEDED]   A: Many builds ramp speed automatically; focus on clean inputs.
+答：** 建议把视线放远一点，不要等列车快到脚下才做决定，提前选好上下站位或停留点。
+
+**问：游戏有无尽模式还是关卡制？****
+答：** 具体要看当前版本设置，有的以关卡闯关为主，有的则提供无尽奔跑模式，用距离或得分作为主要目标。
 

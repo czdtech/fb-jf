@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: fluffy-mania
-title: '[FR] Fluffy Mania'
-description: >-
-  [FR] Fluffy Mania is a cozy match‑and‑clear puzzler — connect cute fluffies,
-  trigger cascades, and chase high scores.
+title: "Fluffy Mania"
+description: "Fluffy Mania est un puzzle cosy de connexion : relie les adorables « fluffies », déclenche des cascades et poursuis les meilleurs scores."
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/fluffy-mania.png
 tags:
@@ -15,28 +13,34 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Fluffy Mania est un puzzle de connexion coloré et relaxant. Tu dois relier des fluffies de même couleur adjacents pour les faire disparaître, déclencher des réactions en chaîne et atteindre les objectifs de chaque niveau : score minimum, nombre de coups limité, cases spéciales à nettoyer, etc.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑color fluffies to clear them, set up chain reactions, and complete stage goals like score targets, limited moves, or special tile clears.
+1.  Forme des boucles si les règles le permettent : réaliser un carré ou une boucle d’une couleur donnée efface souvent tous les fluffies de cette couleur à l’écran – un énorme gain.
+2.  Garde les longues chaînes pour les moments clés : ne gaspille pas les gros groupes dès le début ; utilise‑les pour terminer des objectifs difficiles ou des niveaux à coups limités.
+3.  Travaille par le bas : en effaçant des groupes en bas de la grille, tu crées des cascades naturelles au‑dessus qui peuvent résoudre plusieurs objectifs d’un coup.
+4.  Pense à deux coups d’avance : évite de laisser des cases isolées qui ne pourront plus être connectées à d’autres éléments.
+5.  Utilise les bonus intelligemment : déclenche les power‑ups quand ils permettent de viser plusieurs objectifs à la fois (par exemple libérer une zone + compléter un score).
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Make squares: If rules allow loops/squares, they usually clear all of that color—huge value.
-2.  **[FR]** Save long chains: Don’t waste large groups early; use them to finish strict goals.
-3.  **[FR]** Work from bottom: Bottom clears create natural cascades above.
-4.  **[FR]** Think two moves ahead: Avoid isolating single tiles that clog progress.
-5.  **[FR]** Power‑ups: Trigger them when they open multiple goals at once.
+- Connexion : clique/tape sur un fluffy, puis fais glisser ton doigt ou ta souris à travers les voisins de même couleur pour former une chaîne.
+- Annuler/Relancer (si disponible) : utile sur les niveaux avec nombre de coups limité, mais à utiliser avec modération.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Connect: Click/tap and drag through same‑color neighbors.
-- Undo/Retry (if available): Use with care on limited‑move stages.
+- Q : Il me reste un seul coup et je suis bloqué, que faire ?
+  
+  R : Cherche d’abord des groupes en bas de l’écran ; une cascade peut débloquer de nouvelles connexions plus haut.
 
-### Frequently Asked Questions (FAQ)
+- Q : Les boucles sont‑elles vraiment importantes ?
+  
+  R : Oui, si le mode les autorise, elles sont extrêmement puissantes. Essaie de les préparer dès que possible.
 
-- Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
-- Do loops matter? If enabled, loops are extremely strong—prioritize them.
-- Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
+- Q : Y a‑t‑il une différence entre niveaux à temps et niveaux à coups ?
+  
+  R : Oui. En mode chronométré, joue plus vite et prends ce qui vient ; en mode coups limités, privilégie la qualité des enchaînements et l’efficacité de chaque mouvement.
 

@@ -1,75 +1,49 @@
 ---
-locale: ja
-urlstr: cat-sort-quest
-title: '[JA TRANSLATION NEEDED] Cat Sort Quest'
-description: >-
-  [JA TRANSLATION NEEDED] Cat Sort Quest is a cozy color‑sorting puzzler — move
-  cats between perches, unify colors, and manage scarce buffers.
+title: Cat Sort Quest キャット・ソート・クエスト
+description: 「Cat Sort Quest」は癒やしの色分けパズル。猫たちを移動させて、各止まり木を同じ色の猫だけで揃えよう。空きスペースの管理が鍵。
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/cat-sort-quest.png
+urlstr: cat-sort-quest
+score: 4.2/5  (2088 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.2/5  (2088 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cat Sort Quest（キャット・ソート・クエスト）*は、人気の「色分け（ソート）パズル」を可愛い猫のテーマでアレンジしたゲームです。各止まり木（スタンド）には、さまざまな色の猫が積み重なっています。プレイヤーは一番上の猫だけを移動させることができます。移動先は「空の止まり木」か、「一番上の猫が同じ色の止まり木」に限られます。最終的に、すべての止まり木がそれぞれ単色の猫で統一されればクリアです。一時的に猫を退避させる空きスペース（バッファ）が限られているため、先を見越した操作が必要です。
 
-[JA TRANSLATION NEEDED] Cat Sort Quest adapts the popular sort‑puzzle format: each perch holds a stack of cats in different colors. You may move only the top cat from a perch, and you can place it on an empty perch or one whose top cat matches the same color. The goal is to end with each perch holding a single color. Limited free perches make buffering and foresight essential.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **バッファを確保する:** 「空の止まり木」は再配置のための生命線です。常に最低でも1つは空けておけるように立ち回りましょう。
+2.  **完成させる:** 1つの色を完全に揃えて止まり木をクリアすると、その場所は「空の止まり木」として再利用できる場合があります（ゲームルールによりますが、スペースが空く効果は絶大です）。
+3.  **埋もれた1匹を救出:** 他の色に埋もれている「最後の1匹」を救出することを優先しましょう。
+4.  **2手先を読む:** 「この猫を動かしたら、その下の猫はどうなるか？」を常にシミュレーションして、手詰まり（ソフトロック）にならないようにしましょう。
+5.  **部分的にまとめる:** 同じ色の猫がバラバラの場所に散らばっているなら、とりあえず一箇所にまとめて高さを稼ぎ、他の場所を空けることを意識しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Keep one buffer empty as long as possible to enable reshuffles.
-[JA TRANSLATION NEEDED] 2.  Finish colors early when it frees another perch (snowball effect).
-[JA TRANSLATION NEEDED] 3.  Surface singles: Don’t bury unique colors under mixed stacks.
-[JA TRANSLATION NEEDED] 4.  Two‑step preview: Simulate next moves to avoid creating softlocks.
-[JA TRANSLATION NEEDED] 5.  Merge partial stacks of the same color promptly to release space.
+### 操作ガイド
 
-### Controls Guide
+*   **移動:** 移動させたい猫がいる止まり木をタップ（クリック）し、次に移動先の止まり木をタップします。
+*   **機能:** どうしようもなくなったら「アンドゥ（一手戻る）」や「リセット」機能を使いましょう。
 
-- Tap a perch to pick up its top cat; tap a destination perch to place it if legal.
-- Undo/Reset if available; hints help on late puzzles.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 動かせる猫がいなくなりました。**
 
-- Q: I’m out of moves — what now?
-  
-[JA TRANSLATION NEEDED]   A: Undo a few steps to reopen a buffer. Focus on surfacing buried singles and merging partial stacks.
-
-- Q: Is there an optimal order to complete colors?
-  
-[JA TRANSLATION NEEDED]   A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
-
-- Q: Do I need every move perfect?
-  
+A: Undo a few steps to reopen a buffer. Focus on surfacing buried singles and merging partial stacks.
+- **A:** 手詰まりです。数手戻して（アンドゥ）、空きスペースを埋めてしまわない別の手順を試してください。
 
 
-
-
-
-- Q: I’m out of moves — what now?
-### よくある質問（FAQ）
-- Undo/Reset if available; hints help on late puzzles.
-- Tap a perch to pick up its top cat; tap a destination perch to place it if legal.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: No — quick backtracks and flexible buffers are more important than perfection.
-
-
-
-
-
+A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
+*   **Q: 色を揃える順番はありますか？**
 
 A: No — quick backtracks and flexible buffers are more important than perfection.
-- Q: Do I need every move perfect?
-A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
-- Q: Is there an optimal order to complete colors?
+    *   **A:** 「すぐに完成してスペースを空けられる色」を最優先にし、次に「一番高く積まれている色」を整理するのが定石です。
 
-
-
-
-A: No — quick backtracks and flexible buffers are more important than perfection.
-- Q: Do I need every move perfect?
-A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
+*   **Q: 最短手数でクリアする必要がありますか？**
+    *   **A:** いいえ、手数は評価に関係ないことが多いです。試行錯誤して、柔軟に解くことが大切です。

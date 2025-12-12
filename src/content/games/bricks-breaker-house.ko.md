@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: bricks-breaker-house
-title: '[KO] Bricks Breaker House'
+title: 'Bricks Breaker House 브릭스 브레이커 하우스'
 description: >-
-  [KO] Bricks Breaker House adds cozy themes to brick‑breaking — craft angles,
-  juggle power‑ups, and keep the house standing.
+  Bricks Breaker House는 아기자기한 집 테마가 더해진 벽돌 깨기 게임입니다.
+  각도를 세밀하게 조절해 볼을 오래 살리고, 파워업을 놓치지 않으면서도 안전하게
+  집(패들)을 지켜 보세요.
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/bricks-breaker-house.png
 tags:
@@ -14,38 +15,64 @@ score: 3.8/5  (1679 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bricks Breaker House는 스테이지마다 새로운 장애물과 기믹이 등장하는 테마형
+벽돌 깨기 게임입니다. 기본 목표는 전통적인 벽돌 깨기와 동일합니다. 화면 아래의
+패들을 움직여 볼을 튕겨 올리고, 위쪽의 벽돌을 모두 없애야 합니다. 다만 각 보드마다
+새로운 구조와 파워업이 등장해, 같은 방식으로만 플레이하기 어렵게 만들어 둔 것이
+특징입니다.
 
+플레이어는 볼을 가능한 오래 살려 여러 번 튕기게 만들고, 점수가 높은 벽돌 방향으로
+경로를 유도하며, 적절한 타이밍에 파워업을 활용해 난관을 돌파해야 합니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **30~45도 정도의 안정적인 각도 유지**  
+    너무 수직에 가깝게 올리면 한 줄만 반복해서 치게 되고, 너무 수평에 가깝게
+    쏘면 공이 빠르게 내려와 대응이 어려워집니다. 30~45도 정도의 중간 각도로
+    쏘면 예측 가능한 루프를 만들어 컨트롤하기 쉬워집니다.
 
-Bricks Breaker House is a themed brick‑breaker where each board introduces fresh obstacles and gentle twists. Your job is classic: keep volleys alive, route shots through high‑value tiles, and leverage power‑ups without losing control.
+2.  **패들 확장과 멀티볼 우선 사용**  
+    패들이 넓어지는 파워업과 멀티볼은 난이도 높은 구간을 안정적으로 넘기는 데
+    가장 도움이 됩니다. 반대로 볼 속도를 높이는 계열 파워업은 위험 부담이 크므로
+    상황을 보고 선택하는 편이 좋습니다.
 
-### Gameplay Strategy & Walkthrough
+3.  **측면 통로를 파서 상단에 공 가두기**  
+    벽돌을 한쪽 옆면에서부터 깎아 나가 좁은 통로를 만들면, 그 안에서 공이 천장
+    근처를 오르내리며 상단 벽돌을 집중적으로 깎아 줍니다. 이런 측면 통로는
+    소수의 샷으로 큰 피해를 주는 핵심 포인트입니다.
 
-1.  **[KO]** Aim for controlled caroms around 30–45° to keep predictable loops.
-2.  **[KO]** Use widen‑paddle and multi‑ball to stabilize difficult waves.
-3.  **[KO]** Carve side alleys to trap the ball near the ceiling for extended damage.
-4.  **[KO]** Don’t over‑pursue bonuses if they jeopardize a catch.
-5.  **[KO]** On tight boards, prioritize clearing bricks that open new angles.
+4.  **보너스만 쫓다가 리턴을 놓치지 않기**  
+    내려오는 파워업 캡슐을 잡으려다 정작 공을 놓치면 의미가 없습니다. 파워업은
+    어디까지나 보너스일 뿐, 우선순위는 항상 공을 안전하게 받아 내는 데 두는 것이
+    좋습니다.
 
-### Controls Guide
+5.  **좁은 보드에서는 각을 열어 줄 벽돌부터 제거**  
+    발사 각도가 제한되는 좁은 스테이지에서는, 먼저 새로운 각도를 만들어 줄
+    위치의 벽돌을 제거해 쏠 수 있는 라인을 넓히는 것이 중요합니다. 일단 각이
+    열리면 상단을 크게 정리하기 훨씬 쉬워집니다.
 
-- Move paddle with A/D or Left/Right; mouse/touch controls supported.
-- Serve with Space/Click; catch power‑ups on the paddle.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+-   **패들 이동:** A/D 키 또는 방향키 ←/→로 패들을 좌우로 움직입니다. 마우스나
+    터치로 패들을 직접 드래그하는 조작을 지원하는 버전도 있습니다.
+-   **서브(Serve):** 스페이스바 또는 마우스 클릭으로 첫 발을 쏘거나 다음 발사를
+    시작합니다.
+-   **파워업 획득:** 떨어지는 파워업 캡슐을 패들로 받아서 효과를 발동시킵니다.
 
-- Q: Which upgrades should I prioritize?
+### 자주 묻는 질문 (FAQ)
 
-A: Widen‑paddle and multi‑ball are the safest; speed boosts are riskier.
+-   **Q. 어떤 파워업을 우선으로 노려야 하나요?**  
+    A. 패들 확장과 멀티볼은 대체로 가장 안전하고 효율적인 선택입니다. 반대로
+    볼 속도를 올리는 파워업은 난이도를 크게 올릴 수 있으니, 충분히 여유가
+    있을 때만 사용하는 편이 좋습니다.
 
-- Q: How do I deal with narrow tunnels?
+-   **Q. 너무 좁은 통로 때문에 공이 정신없이 튀어요. 어떻게 해야 하나요?**  
+    A. 처음 서브를 보낼 때 각도를 과하게 세게 잡지 말고, 중간 정도 기울기로
+    보내면 공이 일정한 리듬으로 되돌아와 캐치하기 쉬워집니다. 리턴 타이밍을
+    외우는 것이 중요합니다.
 
-A: Serve a modest angle and prepare for rapid rhythmic catches.
-
-- Q: Is there a best serve angle?
-
-A: Mid angles (30–45°) usually provide the best balance of control and coverage.
-
+-   **Q. 최적의 서브 각도는 어느 정도인가요?**  
+    A. 일반적으로 30~45도 사이의 중간 각도가 가장 안정적인 커버 범위와
+    컨트롤을 제공합니다. 너무 극단적인 각도는 피하는 것이 좋습니다.

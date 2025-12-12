@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: stickman-fighter-mega
-title: '[ES] Stickman Fighter Mega'
+title: 'Stickman Fighter Mega'
 description: >-
-  [ES] Stickman Fighter Mega is a kinetic brawler — time parries, chain combos,
-  and dismantle waves with specials and spacing.
+  Stickman Fighter Mega es un brawler lateral muy dinámico: domina el tiempo de
+  las paradas, encadena combos y desmonta oleadas de enemigos gestionando bien
+  la distancia y los especiales.
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/stickman-fighter-mega.jpg
 tags:
@@ -15,35 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Stickman Fighter Mega es un beat ’em up de vista lateral centrado en el
+  contraataque y el control de la distancia. Los enemigos telegrafían sus golpes;
+  si clavas la sincronización, puedes castigarlos con paradas perfectas, malabares en el
+  aire y especiales de área. En oleadas avanzadas aparecen enemigos con escudo,
+lanzadores a distancia y tanques que exigen respuestas distintas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Stickman Fighter Mega is a side‑view beat ’em up focused on counter‑timing and spacing. Enemies telegraph swings; punish them with parries, juggles, and area specials. Later waves mix shielded foes, ranged throwers, and heavies that demand varied answers.
+1.  **Ventana de parry:** aprende el momento exacto de la parada y busca golpes
+    de contraataque para hacer daño extra.
+2.  **Spacing:** lucha justo fuera del alcance de los enemigos y entra solo
+    cuando veas el inicio de la animación de ataque.
+3.  **Prioridad de objetivos:** elimina primero a los enemigos rápidos o a
+    distancia; kitea a los pesados.
+4.  **Gestión del especial:** guarda tus ataques de área para oleadas con muchos
+    enemigos, no los malgastes en objetivos individuales.
+5.  **Rutas de combo:** combina Golpe ligero→Golpe fuerte→Lanzador→Malabares en
+    el aire para maximizar daño.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Parry window: Learn the parry frame and fish counter‑hits for bonus damage.
-2.  **[ES]** Spacing: Fight just outside enemy reach; step in only on swings.
-3.  **[ES]** Target priority: Delete ranged/fast daggers first; kite heavies.
-4.  **[ES]** Special economy: Save AOEs for multi‑spawn waves.
-5.  **[ES]** Combo routes: Light→Heavy→Launcher→Air juggles are high value.
+- Movimiento: flechas o `A/D`.
+- Ataque: `J`/`K`.
+- Especial: `L`.
+- Bloqueo/Parry: `I` (puede variar según versión). Pausa y reinicio desde la UI.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move: Arrows/A/D; Attack: J/K; Special: L; Block/Parry: I (varies). Pause/Retry via UI.
+- **P: Me hacen stun lock constantemente.**  
+  **R:** mantén el bloqueo entre golpes y rueda/retírate en cuanto tengas un
+  hueco; no insistas atacando contra enemigos con armadura.
 
-### Frequently Asked Questions (FAQ)
+- **P: Los especiales parecen flojos.**  
+  **R:** úsalos para rematar grupos grandes; en enemigos sueltos rinden mucho
+  menos.
 
-- Q: I get stun‑locked.
-
-A: Hold block between hits and roll out; don’t mash into armor.
-
-- Q: Specials feel weak.
-
-A: Use them as finishers on clustered waves, not on single targets.
-
-- Q: Best starter combo?
-
-A: Light×2→Heavy→Launcher→Air Light×2.
-
+- **P: ¿Cuál es un buen combo inicial?**  
+  **R:** una ruta sólida es Light×2 → Heavy → Launcher → Light×2 en el aire.

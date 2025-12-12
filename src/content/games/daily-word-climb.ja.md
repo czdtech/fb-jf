@@ -1,111 +1,48 @@
 ---
-locale: ja
-urlstr: daily-word-climb
-title: '[JA TRANSLATION NEEDED] Daily Word Climb'
-description: >-
-  [JA TRANSLATION NEEDED] A daily word puzzle challenge! Swap letters on the
-  grid to form the correct words. Use the color clues to deduce the right
-  positions and solve the puzzle within the move limit.
+title: Daily Word Climb デイリー・ワード・クライム
+description: 「Daily Word Climb」は毎日配信される新感覚ワードパズル。色のヒントを頼りに文字を入れ替え、正しい単語を見つけ出そう。
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
 thumbnail: /new-images/daily-word-climb.png
+urlstr: daily-word-climb
+score: 4.4/5  (2300 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.4/5  (2300 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Daily Word Climb（デイリー・ワード・クライム）*は、毎日新しい頭脳戦が楽しめる、賢くてやりがいのあるワードパズルゲームです。
+目的は、グリッド状に並んだ文字を入れ替えて、各行に正しい英単語を作ることです。文字を1つずつ入れ替えるたびに、タイルが変色してヒントを教えてくれます。「Wordle」のような色による推理要素と、パズルの並べ替え要素が融合しています。限られた移動回数（スワップ数）の中で、論理的に正解を導き出しましょう。
 
-- **Swap Letters:** Click on the first letter you want to move, and then click on the second letter you want to swap it with. They will then exchange places.（日本語訳が必要）
-The game is played with simple clicks or taps.（日本語訳が必要）
-[JA TRANSLATION NEEDED] Daily Word Climb is a clever and challenging word puzzle that provides a new brain-teaser every day. The goal is to unscramble a grid of letters to form correct words in each row. You do this by swapping letters one at a time. After each swap, the tiles change color to give you clues, helping you deduce the correct placement of each letter. With a limited number of moves, you must think strategically to solve the puzzle.
-- **Q: What do the colors on the tiles mean?**（日本語訳が必要）
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **色のヒントを理解する:**
+    *   **緑:** その文字は正しい単語の中にあり、かつ正しい位置にあります。
+    *   **黄色:** その文字は、その行（単語）のどこかに含まれますが、現在は違う位置にあります。
+    *   **白/グレー:** その文字はその行の単語には含まれません（別の行の文字である可能性が高いです）。
 
-[JA TRANSLATION NEEDED] 1.  **Understand the Color Clues:** The colors are your guide to solving the puzzle.
-[JA TRANSLATION NEEDED]     *   **Green:** The letter is in the correct word and in its final, correct position.
-[JA TRANSLATION NEEDED]     *   **Yellow:** The letter is in the word in that row, but it is currently in the wrong spot.
-[JA TRANSLATION NEEDED]     *   **White/Grey:** The letter does not belong in that row's word at all.
+2.  **緑を固定する:** 文字が緑色になったら、場所が確定した証拠です。もう動かさないようにしましょう。緑色の文字を足がかりに、前後の文字を推測します。
+3.  **黄色で推理する:** 黄色の文字がある場合、その行のどこかに移動させる必要があります。同じ行にある白や黄色のタイルと入れ替えて場所を探りましょう。
+4.  **手数を節約:** スワップ回数には制限があります。無駄な入れ替えは避け、「この文字をここへ動かせば、2つの情報が得られる」といった効率的な動かし方を考えましょう。
 
-[JA TRANSLATION NEEDED] 2.  **Focus on Green Letters:** Once a letter turns green, you know it's locked in place. Don't move it again! Use the green letters as anchors to help you figure out the rest of the word.
-[JA TRANSLATION NEEDED] 3.  **Use Yellow Letters to Deduce:** If you have a yellow letter, you know it belongs in that same row, just in a different position. Look for other yellow or white tiles in that row to swap it with.
-[JA TRANSLATION NEEDED] 4.  **Conserve Your Moves:** You only have a limited number of swaps for each puzzle. Try to make each move count. Avoid random swaps and think about which swap will give you the most information.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with simple clicks or taps.
-
-*   **Swap Letters:** Click on the first letter you want to move, and then click on the second letter you want to swap it with. They will then exchange places.
-
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
-
-    - **A:** Green means the right letter is in the right spot. Yellow means the right letter is in the wrong spot. White or Grey means it's the wrong letter for that row.（日本語訳が必要）
-    - **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.（日本語訳が必要）
-- **Q: What happens if I run out of moves?**（日本語訳が必要）
-- **Q: Is there a new puzzle every day?**（日本語訳が必要）
-    - **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.（日本語訳が必要）
-*   **Q: What do the colors on the tiles mean?**
-[JA TRANSLATION NEEDED]     *   **A:** Green means the right letter is in the right spot. Yellow means the right letter is in the wrong spot. White or Grey means it's the wrong letter for that row.
-
-*   **Q: What happens if I run out of moves?**
-[JA TRANSLATION NEEDED]     *   **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
-
-*   **Q: Is there a new puzzle every day?**
-[JA TRANSLATION NEEDED]     *   **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
+### 操作ガイド
 
 
-    - **Green:** The letter is in the correct word and in its final, correct position.（日本語訳が必要）
-    - **Yellow:** The letter is in the word in that row, but it is currently in the wrong spot.（日本語訳が必要）
-    - **White/Grey:** The letter does not belong in that row's word at all.（日本語訳が必要）
-### コントロール Guide
-
-
-
-
-
-
-
-
-
-    - **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
-- **Q: Is there a new puzzle every day?**
-    - **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
-- **Q: What happens if I run out of moves?**
-    - **A:** Green means the right letter is in the right spot. Yellow means the right letter is in the wrong spot. White or Grey means it's the wrong letter for that row.
-- **Q: What do the colors on the tiles mean?**
-### よくある質問（FAQ）
-- **Swap Letters:** Click on the first letter you want to move, and then click on the second letter you want to swap it with. They will then exchange places.
 The game is played with simple clicks or taps.
+*   **文字の入れ替え:** 動かしたい最初の文字をクリックし、次に入れ替え先の文字をクリックします。2つの場所が入れ替わります。
 
+### よくある質問 (FAQ)
 
+*   **Q: タイルの色にはどんな意味がありますか？**
+    *   **A:** 緑は「正解（場所も文字も合っている）」、黄色は「場所違い（その行に含まれるが場所が違う）」、白/グレーは「その行には使わない文字」です。
 
+*   **Q: 移動回数がなくなったらどうなりますか？**
+    *   **A:** 指定された回数以内にパズルを完成できないとレベル失敗となり、最初からやり直しになります。
 
-
-
-
-
-
-    - **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
-- **Q: Is there a new puzzle every day?**
-    - **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
-- **Q: What happens if I run out of moves?**
-    - **A:** Green means the right letter is in the right spot. Yellow means the right letter is in the wrong spot. White or Grey means it's the wrong letter for that row.
-- **Q: What do the colors on the tiles mean?**
-### よくある質問（FAQ）
-- **Swap Letters:** Click on the first letter you want to move, and then click on the second letter you want to swap it with. They will then exchange places.
-
-
-
-
-
-
-    - **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
-- **Q: Is there a new puzzle every day?**
-    - **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
-- **Q: What happens if I run out of moves?**
-    - **A:** Green means the right letter is in the right spot. Yellow means the right letter is in the wrong spot. White or Grey means it's the wrong letter for that row.
+*   **Q: 毎日新しい問題が出ますか？**
+    *   **A:** はい、その名の通り、毎日新鮮でユニークなパズルが配信されます。

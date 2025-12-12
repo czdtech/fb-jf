@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: haru-pandas-slide
-title: '[ES] Haru Pandas Slide'
+title: "Haru Pandas Slide"
 description: >-
-  [ES] Haru Pandas Slide is a chill slider — slide tiles to reassemble panda
-  pictures with minimal moves and satisfying logic.
+  Haru Pandas Slide es un relajado rompecabezas deslizante: mueve fichas para
+  recomponer imágenes de pandas con el mínimo de movimientos y mucha lógica.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/haru-pandas-slide.png
 tags:
@@ -16,36 +16,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Haru Pandas Slide propone puzles de deslizamiento basados en imágenes. Tienes
+que desplazar fichas a lo largo de filas y columnas para reconstruir adorables
+escenas de pandas. En tableros avanzados aumentan el número de fichas y
+aparecen fichas bloqueadas que limitan las rutas, premiando las secuencias
+planificadas por encima del ensayo y error.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1. **Empieza por el marco:** Completar primero el borde reduce mucho la
+   complejidad de búsqueda.
+2. **Resuelve por franjas:** Reconstruye bandas de color bien diferenciadas
+   (cielo, bosque, pandas…) de una en una.
+3. **Ciclos de tres movimientos:** Usa ciclos de 3 fichas para rotar posiciones
+   sin deshacer las zonas ya colocadas.
+4. **Atención a los bloqueos:** Planifica tus rutas alrededor de las fichas
+   bloqueadas; trátalas como anclas fijas.
+5. **Minimiza movimientos:** Piensa un par de jugadas por adelantado para no
+   tener que desandar pasos.
 
-Haru Pandas Slide presents image‑based sliding puzzles. Move tiles along rows/columns to restore adorable panda scenes. Later boards increase tile counts and introduce locked tiles that constrain pathing, rewarding planned sequences over trial‑and‑error.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Arrastra fichas a lo largo de los ejes permitidos; usa deshacer o reinicio si
+  el juego lo ofrece.
 
-1.  **[ES]** Frame first: Complete the border to reduce search complexity.
-2.  **[ES]** Solve bands: Reassemble distinct color bands (sky/forest/pandas) one at a time.
-3.  **[ES]** Three‑move cycles: Use 3‑tile cycles to rotate positions without breaking placed areas.
-4.  **[ES]** Lock awareness: Route moves around locked tiles; treat them as anchors.
-5.  **[ES]** Minimal moves: Plan ahead to avoid undoing progress.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **P: Siempre termino rompiendo la parte ya resuelta, ¿cómo lo evito?**  
+  **R:** Utiliza ciclos de 3 fichas que roten solo una pequeña sección sin
+  tocar la banda ya completada.
 
-- Drag tiles along permitted axes; undo/reset if supported.
+- **P: ¿Hay sistema de pistas?**  
+  **R:** Muchas versiones incluyen pistas o previsualización fantasma; úsalas con
+  moderación para no perder el reto.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I break my solved area — how to avoid?
-
-A: Use 3‑tile cycles that rotate a subset without touching the completed band.
-
-- Q: Any hint system?
-
-A: Many versions include hints or ghost previews; use sparingly.
-
-- Q: Is there a timer?
-
-A: Often relaxed; some modes track move counts instead.
-
+- **P: ¿Hay límite de tiempo?**  
+  **R:** Suele ser un juego relajado; en algunos modos se cuenta más el número
+  de movimientos que el tiempo.

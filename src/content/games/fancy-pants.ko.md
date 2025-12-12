@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: fancy-pants
-title: '[KO] Fancy Pants'
+title: "Fancy Pants 팬시 팬츠"
 description: >-
-  [KO] Stylish stick‑figure platformer: fast momentum, wall‑jumps, and flowy
-  parkour across hand‑drawn levels and secret rooms.
+  Fancy Pants는 스틱맨 주인공이 손그림 스타일의 스테이지를 질주하며 벽 점프와
+  파쿠르 동작을 이어 가는 스타일리시 플랫포머입니다. 속도를 유지하며 숨겨진 방과
+  비밀 경로를 찾아 나서는 것이 핵심입니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/fancy-pants.jpg
@@ -19,27 +20,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Hand‑drawn platforming focused on momentum and flow: build speed on slopes, wall‑jump, and discover secret areas and collectibles.
+### 개요
 
-### How to Play
-- Keep momentum by timing jumps at slope exits.
-- Use wall‑runs and slides to chain movement.
-- Explore side paths for trophies and hidden rooms.
+*Fancy Pants*는 손으로 그린 듯한 배경 위를 스틱맨 캐릭터가 질주하는 2D 플랫포머입니다.
+경사면을 이용해 속도를 붙이고, 벽을 차고 오르거나 미끄러지며 흐름이 끊기지 않는
+파쿠르 스타일 이동이 특징입니다. 곳곳에 숨겨진 방과 수집 요소가 배치되어 있어,
+맵을 탐색하며 움직임을 연구하는 재미가 큽니다.
 
-### Controls
-- Arrows/WASD: move/jump; S/Down to slide; Up to open doors (host dependent).
+### 플레이 방법
+- 경사 끝에서 타이밍 좋게 점프해 모멘텀을 유지하세요.
+- 벽 달리기와 슬라이드를 섞어 이동 경로를 이어 가면 더 빠르고 부드럽게 움직일 수
+  있습니다.
+- 메인 루트 외의 옆길을 탐색해 트로피나 숨겨진 방을 찾아보세요.
 
-### Tips
-- Don’t mash jump—press at lip/edge for max carry.
-- Slides into jumps preserve speed better than flat starts.
-- Revisit earlier levels with better mastery to reach secrets.
+### 조작
+- 방향키 또는 WASD: 이동/점프
+- S 또는 아래 방향키: 슬라이드
+- 위쪽 방향키: 문이나 문처럼 보이는 출입구에 들어가기(버전에 따라 차이 있음)
 
-### FAQ
-- Q: Is there combat?
-A: Light—mainly stomps or simple swipes in some versions.
-- Q: Are there time trials?
-A: Many releases feature speed‑run or challenge rooms.
-- Q: Can I change pants colors?
-A: Some versions unlock cosmetics.
+### 팁
+- 점프 버튼을 연타하기보다는, 경사 끝이나 플랫폼 모서리에서 눌러야 이동 거리를
+  가장 길게 가져갈 수 있습니다.
+- 평지에서 출발하기보다는 슬라이드 후 점프로 이어 가는 쪽이 속도 유지에 더
+  유리합니다.
+- 나중에 컨트롤에 익숙해진 뒤, 이전 스테이지를 다시 방문하면 예전에 닿지 못했던
+  비밀 구역에 도달할 수 있습니다.
 
+### 자주 묻는 질문(FAQ)
+- **Q: 전투 요소가 있나요?**  
+  **A:** 일부 버전에서는 적 위를 밟아 제압하거나, 간단한 근접 공격이 추가된 경우가
+  있지만, 게임의 핵심은 이동과 플랫폼 액션입니다.
+- **Q: 타임 어택이나 스피드런 모드가 있나요?**  
+  **A:** 많은 릴리즈에서 기록 경쟁용 타임어택 스테이지나 도전용 방이 포함되어
+  있습니다.
+- **Q: 바지 색을 바꿀 수 있나요?**  
+  **A:** 일부 버전에서는 조건을 달성하면 다른 색의 바지나 코스튬을 해금해
+  장착할 수 있습니다.

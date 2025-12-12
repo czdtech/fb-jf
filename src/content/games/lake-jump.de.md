@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: lake-jump
-title: '[DE] Lake Jump'
+title: "Lake Jump"
 description: >-
-  [DE] Lake Jump is a one‑tap timing game — hop across platforms, avoid falls,
-  and chain perfect jumps.
+  Lake Jump ist ein Ein-Tipp-Timing-Spiel: Hüpf über Plattformen, vermeide
+  Abstürze ins Wasser und verknüpfe perfekte Sprünge.
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
 thumbnail: /new-images/lake-jump.png
 tags:
@@ -15,29 +15,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+## Spielanleitung
 
-## English Guide
+### Ausführliche Spielbeschreibung
 
-### Detailed Game Introduction
+Lake Jump ist ein minimalistisches Tipp-und-Sprung-Spiel. Du tippst im richtigen
+Moment, um auf bewegliche oder unterschiedlich weit entfernte Plattformen zu
+springen, hältst den Rhythmus und baust Serien auf, ohne ins Wasser zu fallen.
 
-Lake Jump is a minimalist tap‑to‑jump challenge. Time taps to land on moving or spaced platforms, maintain rhythm, and rack up streaks without falling in the water.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  **Im Takt tippen**  
+    Nutze ein gleichmäßiges Tipp-Tempo, um ein Gefühl für die Sprungweite zu
+    entwickeln. Ein stabiler Rhythmus macht das Timing berechenbarer.
 
-1.  **[DE]** Count beats: Use a steady rhythm for predictable jump timing.
-2.  **[DE]** Aim for centers: Landing in the middle of platforms gives more correction time.
-3.  **[DE]** Watch platform speed: Faster cycles require earlier taps; adjust quickly.
-4.  **[DE]** Skip greed: Ignore risky coins when alignment is poor.
-5.  **[DE]** Reset calmly: After a miss, re‑establish rhythm before chasing streaks.
+2.  **Auf die Mitte zielen**  
+    Versuche, möglichst im Zentrum der Plattform zu landen. So hast du mehr
+    Spielraum, falls sich die Plattform bewegt oder dein Timing leicht daneben
+    liegt.
 
-### Controls Guide
+3.  **Plattformgeschwindigkeit beachten**  
+    Je schneller sich die Plattformen bewegen, desto früher musst du tippen.
+    Passe dein Timing zügig an neue Geschwindigkeiten an.
 
-- Jump: Tap/Click at the right moment.
-- Pause/Retry: On‑screen buttons.
+4.  **Keine Gier-Sprünge**  
+    Verzichte auf riskante Sprünge zu weit entfernten Münzen oder Boni, wenn
+    die Ausrichtung nicht passt – ein sicherer Lauf bringt auf Dauer mehr Punkte.
 
-### Frequently Asked Questions (FAQ)
+5.  **Ruhig neu starten**  
+    Nach einem Fehlversuch lohnt es sich, kurz durchzuatmen und den Rhythmus
+    neu zu finden, statt sofort hektisch auf Rekordjagd zu gehen.
 
-- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
-- Endless? Typically yes; set personal bests.
+### Steuerung
 
+- **Sprung:** Tippe oder klicke im richtigen Moment, um zur nächsten Plattform
+  zu springen.  
+- **Pause/Neustart:** Über Bildschirm-Buttons kannst du pausieren oder den
+  Versuch neu starten.
+
+### FAQ
+
+- **F: Ich springe ständig zu weit – warum?**  
+  **A:** Wahrscheinlich tippst du zu früh oder zu häufig hintereinander. Versuche,
+  deinen Rhythmus minimal zu verzögern und achte darauf, wie weit dein Charakter
+  bei jedem Tipp fliegt.
+
+- **F: Gibt es Power-ups?**  
+  **A:** In manchen Modi erscheinen vorübergehend vergrößerte Plattformen oder
+  Zeitlupen-Effekte, die dir das Timing erleichtern.
+
+- **F: Ist das Spiel endlos?**  
+  **A:** In der Regel ja – du spielst auf Distanz und Highscore und versuchst,
+  deinen persönlichen Rekord immer weiter zu verbessern.

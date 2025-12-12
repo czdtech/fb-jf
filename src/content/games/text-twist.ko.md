@@ -1,14 +1,12 @@
 ---
 locale: ko
 urlstr: text-twist
-title: '[KO] Text Twist'
+title: 'Text Twist 텍스트 트위스트'
 description: >-
-  [KO] Challenge your vocabulary and quick thinking in Text Twist, an addictive
-  word puzzle game! Unscramble jumbled letters to form as many words as possible
-  within a time limit. Find the 'Bingo word' to advance and aim for the highest
-  score in this classic brain-teaser.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
+  Text Twist는 뒤섞인 알파벳으로 단어를 만들어 제한 시간 안에 최대한 많은
+  단어를 찾는 퍼즐 게임입니다. 모든 글자를 사용하는 "빙고 단어"를 찾아야
+  다음 라운드로 진행할 수 있습니다.
+iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref='
 thumbnail: /new-images/text-twist.jpg
 tags:
   - word-game
@@ -20,36 +18,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Text Twist is a popular and engaging word puzzle game that challenges your vocabulary and speed. Players are presented with a set of jumbled letters and must form as many valid words as possible within a time limit. The game rewards longer words with more points and requires players to find a "Bingo word" (a word using all letters) to advance to the next round.
+Text Twist는 어휘력과 순발력을 동시에 시험하는 단어 퍼즐 게임입니다.
+플레이어는 섞여 있는 몇 개의 알파벳을 받아, 제한 시간 안에 만들 수 있는
+영단어를 최대한 많이 만들어야 합니다. 특히 모든 글자를 다 사용하는
+"빙고 단어"를 찾아야 다음 라운드로 넘어갈 수 있습니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-- **Objective:** Form words from the given letters. The goal is to find all possible words and especially the "Bingo word" to progress.
-- **Letters:** You'll typically receive 6 or 7 jumbled letters.
-- **Time Limit:** Each round has a timer (usually 2 minutes).
-- **Scoring:** Points are awarded based on word length; longer words give more points. Finding all words in a round often grants a bonus.
-- **"Twist" Button:** Use the "Twist" button (or spacebar) to shuffle the letters, which can help you spot new words.
+- **목표:**
+  주어진 글자로 만들 수 있는 단어들을 최대한 많이 찾아내고, 최소 한 개 이상의
+  빙고 단어를 완성하는 것입니다.
+- **글자 수:**
+  보통 6~7개의 알파벳이 주어지며, 이를 조합해 여러 길이의 단어를 만들어야
+  합니다.
+- **시간 제한:**
+  각 라운드에는 보통 2분 정도의 제한 시간이 있습니다.
+- **점수:**
+  단어 길이가 길수록 더 많은 점수를 얻습니다. 한 라운드에서 모든 단어를
+  찾아내면 추가 보너스 점수를 받을 수 있습니다.
+- **"Twist" 버튼:**
+  글자를 섞어 주는 기능으로, 새로운 단어 패턴을 떠올리는 데 도움이 됩니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- **Typing:** Use your keyboard to type out the words you find.
-- **Enter Word:** Press `Enter` to submit a word.
-- **Twist Letters:** Click the "Twist" button or press `Spacebar`.
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+- **입력:** 키보드로 찾은 단어를 직접 입력합니다.
+- **단어 제출:** `Enter` 키를 눌러 단어를 제출합니다.
+- **글자 섞기(Twist):** 화면의 "Twist" 버튼을 클릭하거나 `Spacebar`를 누릅니다.
+- **입력 취소:** "Clear" 버튼을 클릭하거나 `Backspace`로 입력한 글자를 지웁니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**What is a "Bingo word"?**
+**Q: 빙고 단어가 뭐예요?**
 
-A "Bingo word" is a word that uses all the letters provided in the current round. You must find at least one Bingo word to advance to the next round.
+A: 현재 라운드에서 제공된 **모든** 알파벳을 한 번씩 사용해 만드는 단어를
+   빙고 단어라고 부릅니다. 다음 라운드로 진행하기 위해 최소 한 개의
+   빙고 단어를 반드시 찾아야 합니다.
 
-**How can I improve my score?**
+**Q: 점수를 더 많이 얻으려면 어떻게 해야 하나요?**
 
-Focus on finding longer words, as they yield more points. Also, try to find all possible words in a round to get the bonus points. Using the "Twist" button frequently can help you see new combinations.
+A: 단어 길이가 길수록 점수가 크게 올라갑니다. 가능한 한 긴 단어를 먼저
+   떠올린 뒤, 남는 조합으로 짧은 단어들을 채워 넣는 방식이 좋습니다.
+   또한 한 라운드의 모든 단어를 찾아내면 보너스 점수를 받을 수 있습니다.
 
-**Are there different difficulty levels?**
+**Q: 난이도는 어떻게 올라가나요?**
 
-As you progress through the levels, the puzzles generally become more challenging, requiring you to find more complex words or deal with a larger set of letters.
-
+A: 라운드를 거듭할수록 요구되는 단어 수가 늘어나거나, 사용해야 하는 글자
+   수가 늘어나는 등 퍼즐이 점점 복잡해집니다. 더 어려운 철자와 패턴이 등장해
+   도전 욕구를 자극합니다.

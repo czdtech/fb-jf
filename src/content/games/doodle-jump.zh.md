@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: doodle-jump
-title: '[ZH TRANSLATION NEEDED] Doodle Jump'
+title: "Doodle Jump 涂鸦跳跃"
 description: >-
-  [ZH TRANSLATION NEEDED] Doodle Jump is a vertical platformer: bounce between
-  platforms, avoid hazards, and climb as high as possible.
+  《Doodle Jump 涂鸦跳跃》是一款纵向无尽平台跳跃游戏。通过在平台间不断弹跳，躲避怪物
+  和断裂板，并灵活运用各种道具，一路向高空攀升。
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/doodle-jump.jpg
 tags:
@@ -17,26 +17,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Endless vertical platformer: bounce upward, land on safe platforms, avoid monsters and broken boards, and use power‑ups (springs, propeller caps, jetpacks) to climb higher.
+
+《Doodle Jump 涂鸦跳跃》是一款经典的无尽纵向平台跳跃游戏。你的角色会在踩到平台时自动起
+跳，你需要通过左右移动让它不断落在新的平台上，从而持续向上攀升。途中会遇到各种平台类型
+（静止、移动、会消失、会断裂等）、怪物以及道具（弹簧、旋翼帽、喷气背包等），合理避开危
+险并利用道具，是冲击高分的关键。
 
 ### How to Play
-- Keep the doodler centered and chain safe landings; falling off‑screen ends the run.
-- Eliminate or avoid enemies; some versions allow tapping/shooting upward.
-- Use moving or breakable platforms carefully; plan two steps ahead.
+
+- 保持涂鸦小人处在屏幕相对居中的位置，不断向上找新的落脚点；一旦掉出屏幕下方，本局即立
+  刻结束。  
+- 避开怪物与危险平台，有些版本允许你点击或朝上射击清除怪物，但射击时仍需留意脚下平台。  
+- 面对移动平台或会消失/会断裂的平台时，要提前规划下一次落脚位置，而不是只顾当前一步。  
 
 ### Controls
-- Left/Right (or tilt on mobile): move; automatic jumping on contact; action/shoot where available.
+
+- 在 PC 上通常使用左右方向键或 A/D 键控制移动；在移动端则通过左右倾斜设备来移动角色。与
+  平台接触时角色会自动跳跃，部分版本还提供额外按键用来射击。  
 
 ### Tips
-- Favor stable platforms when the screen scrolls quickly.
-- Save high‑impact power‑ups for sparse sections.
-- Wraparound edges to escape traps when supported.
+
+- 在屏幕快速上卷时，优先选择稳定的平台落脚，避免贪图道具而跳向不安全的位置。  
+- 高价值道具（如喷气背包、旋翼帽）适合在平台稀疏区域使用，可以帮助你快速通过危险地带。  
+- 某些版本支持屏幕左右“穿越”（从左边出会从右边进），在被怪物或平台布局包围时可以利用这
+  一点逃脱死角。  
 
 ### FAQ
-- Q: Are levels finite?  
-[ZH TRANSLATION NEEDED]   A: No—score rises until you miss a platform or hit a hazard.
-- Q: Do platforms differ?  
-[ZH TRANSLATION NEEDED]   A: Yes—static, moving, disappearing/breakable, and trampolines/springs.
-- Q: Are there bosses?  
-[ZH TRANSLATION NEEDED]   A: Usually no; it’s a score chase.
 
+- **Q: 关卡是固定长度还是无尽的？**  
+  **A：** 通常为无尽模式，只有当你错过平台或撞上致命障碍时才会结束，分数会随高度持续累
+  计。  
+
+- **Q: 平台之间有什么区别？**  
+  **A：** 会有静止平台、左右移动平台、踩一次就断裂的平台、会突然消失的平台，还有带弹簧作
+  用的“高弹”平台等，不同平台需要不同节奏对待。  
+
+- **Q: 有 Boss 战吗？**  
+  **A：** 一般没有传统意义上的 Boss，本作更偏向无尽高分竞速，重点是保持节奏与判断力。  

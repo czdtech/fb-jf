@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: word-scramble
-title: '[KO] Word Scramble'
+title: "Word Scramble 워드 스크램블"
 description: >-
-  [KO] Unscramble letters and challenge your mind in Word Scramble, a classic
-  word puzzle game! Rearrange jumbled letters to form the correct word within a
-  time limit. Test your vocabulary and quick thinking across various levels and
-  categories in this engaging brain-teaser.
+  Word Scramble은 뒤섞인 알파벳을 다시 배열해 정답 단어를 맞히는 고전 단어 퍼즐
+  게임입니다. 제한 시간 안에 글자를 재배열해 정답을 찾으며, 어휘력과 패턴 인식,
+  순발력을 동시에 시험해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/word-scramble.jpg
 tags:
@@ -19,35 +18,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Word Scramble is a classic and engaging word puzzle game that challenges players to rearrange a set of jumbled letters to form a meaningful word. It's a test of vocabulary, pattern recognition, and quick thinking. The game often features various difficulty levels and categories, keeping the gameplay fresh and challenging.
+*Word Scramble*은 뒤섞인 알파벳들을 다시 배열해 의미 있는 영어 단어를 만들어 내는
+단어 퍼즐 게임입니다. 어휘량뿐 아니라 글자 배열 패턴을 읽어내는 능력과 빠른 판단력이
+필요하며, 여러 난이도와 주제 카테고리가 제공되는 버전도 많아 오래 즐기기 좋습니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-- **Objective:** The main goal is to correctly identify the original word from a given set of scrambled letters.
-- **Letters:** You will be presented with a set of letters that are an anagram of a single word.
-- **Time Limit:** Many versions include a time limit, adding pressure and testing your speed.
-- **Hints:** If you get stuck, hints might be available, such as revealing a letter or providing a definition.
-- **Scoring:** Points are typically awarded for correct answers, with bonuses for faster solutions.
+- **목표:** 주어진 뒤섞인 문자 세트에서 원래의 단어를 찾아내는 것이 핵심 목표입니다.
+- **글자 세트:** 화면에 표시되는 글자는 실제 정답 단어의 철자를 섞어 놓은
+  애너그램입니다.
+- **시간 제한:** 많은 버전에서 제한 시간이 존재해, 빠르게 단어를 떠올리는 속도가
+  중요해집니다.
+- **힌트:** 막혔을 때는 글자 하나를 보여 주거나, 의미 설명을 제공하는 힌트 기능이
+  있을 수 있습니다.
+- **점수:** 정답을 맞히면 점수를 얻고, 더 빠르게 맞힐수록 추가 보너스를 받는 경우가
+  많습니다.
 
-### Controls Guide
+### 조작 방법
 
-- **Typing:** Use your keyboard to type the word you believe is correct.
-- **Rearrange Letters:** Some versions allow you to click and drag letters to rearrange them visually, or have a "shuffle" button.
-- **Submit:** Press `Enter` to submit your answer.
+- **입력:** 키보드로 정답이라고 생각하는 단어를 직접 입력합니다.
+- **글자 재배열:** 일부 버전에서는 글자를 마우스로 드래그해 직접 순서를 바꾸거나,
+  "섞기" 버튼으로 글자 배열을 다시 섞어 볼 수도 있습니다.
+- **제출:** `Enter` 키를 눌러 답안을 제출합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**How do I play Word Scramble?**
+**Q: Word Scramble은 어떻게 플레이하나요?**  
+> 화면에 주어진 뒤섞인 알파벳들을 보고, 그것들이 어떤 영어 단어의 애너그램인지
+> 추리해 올바른 단어를 입력하면 됩니다.
 
-You are given a set of jumbled letters. Your task is to rearrange these letters to form a valid English word.
+**Q: 아무리 봐도 단어가 떠오르지 않으면 어떻게 하나요?**  
+> 대부분의 버전에서 힌트나 패스 기능을 제공합니다. 또한 글자를 여러 번 섞어 보며
+> 새로운 패턴을 떠올리는 것도 도움이 됩니다.
 
-**What if I can't find the word?**
-
-Most games offer hints or a "pass" option. You can also try shuffling the letters to get a new perspective.
-
-**Are there different types of Word Scramble games?**
-
-Yes, variations include games with different word lengths, categories (e.g., animals, countries), or competitive multiplayer modes where players race to solve the scramble first.
-
+**Q: Word Scramble에도 다양한 종류가 있나요?**  
+> 네. 단어 길이로 난이도를 나누거나, 동물·나라 이름 같은 카테고리별 문제를 내는
+> 모드, 여러 플레이어가 동시에 같은 문제를 풀고 누가 먼저 맞히는지 겨루는
+> 대전 모드 등 여러 변형이 존재합니다.

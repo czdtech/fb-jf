@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-piege-simulator
-title: '[KO] Incredibox Piege Simulator'
+title: Incredibox Piege Simulator 트랩 시뮬레이터 모드
 description: >-
-  [KO] Incredibox Piège Simulator this guide details its grid-based gameplay,
-  dark and atmospheric sound palette, and provides tips for creating intense
-  trap loops.
+  그리드 기반 인터페이스로 어두운 트랩 비트를 만드는 팬메이드 모드 'Incredibox Piege Simulator' 가이드입니다. 808
+  중심 사운드 팔레트와 루프 채우기 팁을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
 thumbnail: /new-images/incredibox-piege-simulator.png
 tags:
@@ -18,46 +17,71 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox Piège Simulator Game Introduction**
+*Incredibox Piège Simulator*는 Incredibox 시뮬레이터 시리즈 가운데,
+현대 **트랩(Trap) 음악**에 초점을 맞춘 팬메이드 모드입니다. 제목의
+`Piège`는 프랑스어로 “덫, 트랩”을 의미하며, 장르 자체를 그대로
+가리키는 이름이기도 합니다.
 
-*Incredibox Piège Simulator* is a stylish and atmospheric fan-made game from the "Simulator" series of Incredibox mods. The title "Piège" is French for **"Trap,"** which perfectly describes the mod's musical focus on the modern **Trap music** genre.
+이 버전에서는 캐릭터에게 아이콘을 입히는 대신, 초록·파랑 계열로
+색깔이 나뉜 **20개의 사운드 아이콘 그리드**를 클릭해 루프를
+만드는 방식으로 플레이합니다. 목표는 묵직한 킥과 하이햇 롤,
+어두운 멜로디를 조합해 **어둡고 긴장감 있는 트랩 루프**를
+완성하는 것입니다.
 
-The game utilizes the signature **grid-based interface** of the Simulator mods. Instead of dragging icons onto characters, players are presented with a grid of 20 sound icons, color-coded in shades of green and blue. The objective is to create a dark, atmospheric trap loop by clicking these icons to activate or deactivate them.
+### **플레이 전략 & 팁**
 
+1. **리듬부터 잡기**  
+   진짜 트랩 비트를 만들고 싶다면, 먼저 파란색 계열 아이콘에서
+   킥·스네어·하이햇 패턴을 골라 기본 템포를 잡으세요. 무거운 킥,
+   날카로운 스네어, 빠르게 굴리는 하이햇 조합이 핵심입니다.
 
-### **Gameplay Strategy & Tips**
+2. **멜로디는 단순하게**  
+   리듬이 안정되면 초록색 계열 아이콘에서 간단하고 반복적인
+   멜로디를 더합니다. 트랩 특유의 어둡고 짧은 루프를 골라
+   분위기를 만드는 것이 좋습니다.
 
-1.  **[KO]** **Start with the Rhythm**: To create an authentic trap beat, begin with the blue icons. Activate a heavy kick drum, a snare, and a rapid hi-hat pattern to establish the core groove.
+3. **LOOP 게이지 채우기**  
+   상단의 `LOOP` 게이지는 활성화된 사운드 수와 조합에 따라
+   차오릅니다. 여러 조합을 시도해 보면서, 어떤 패턴이 게이지를
+   빠르게 채우는지 들어 보세요. 트랩 특유의 밀도 높은 비트를
+   만들수록 게이지도 자연스럽게 찹니다.
 
-2.  **[KO]** **Layer the Melody**: Once your beat is set, move to the green icons. Add a simple, repetitive, and often dark-sounding melody. In trap music, the melody is often less complex than the rhythm, serving to create a mood.
+4. **온·오프로 다이내믹 만들기**  
+   시뮬레이터 특유의 클릭 온/오프 구조를 활용해, 빌드업과 드롭을
+   직접 구성해 보세요. 한동안 킥·스네어만 두고, 이후 하이햇과
+   멜로디를 한꺼번에 켜면 실제 트랩 곡처럼 폭발하는 구간을 만들
+   수 있습니다.
 
-3.  **[KO]** **Fill the Loop Bar**: Your goal is to fill the "LOOP" progress bar. This is achieved by activating more sounds. Experiment with different combinations to see how they affect the progress and the overall feel of the track.
+### **조작 가이드**
 
-4.  **[KO]** **Create Dynamics**: Use the click-on/click-off nature of the simulator to create dynamics. You can build up a beat, add a melody to create a hook, and then deactivate elements to create a breakdown, mimicking the structure of a real trap song.
+이 모드는 시뮬레이터 시리즈의 단순한 클릭 조작을 그대로 사용합니다.
 
-### **Controls Guide**
+- **사운드 온/오프**: 그리드 안의 20개 아이콘을 클릭하면 활성화되어
+  루프에 추가되고, 다시 클릭하면 꺼집니다.
+- **사운드 조합하기**: 여러 아이콘을 동시에 켜 두어, 자신만의
+  하드한 트랩 루프를 만들 수 있습니다.
+- **상단 컨트롤(좌측 상단)**:  
+    - **재생 버튼**: 전체 루프를 켜고 끕니다.  
+    - **녹음 버튼**: 현재 믹스를 녹음·저장합니다.  
+    - **리셋 버튼**: 활성화된 모든 사운드를 초기화해 새로 시작합니다.
 
-This mod uses the simple, click-based interface of the Simulator series.
+### **자주 묻는 질문(FAQ)**
 
-*   **[KO]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will be highlighted, adding its sound to the loop. Clicking it again will turn it off.
-*   **[KO]** **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
-*   **[KO]** **Main Controls (Top Left)**:
-    *   **[KO]** **Play Button**: Toggles the entire loop on or off.
-    *   **[KO]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[KO]** **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+**1. 공식 Incredibox 게임인가요?**  
+아니요. 시뮬레이터 시리즈, 그리고 *Piège* 모드는 모두 커뮤니티에서
+만든 **팬메이드 모드**이며, 공식 개발사 So Far So Good과는 관련이
+없습니다.
 
-### **Frequently Asked Questions (FAQ)**
+**2. 왜 원작과 조작 방식이 다른가요?**  
+시뮬레이터 스타일은 모딩 커뮤니티가 만든 변형 규칙입니다.
+트랩 같은 전자 음악 장르는 **그리드 기반 온·오프 방식**이 비트
+레이어를 섬세하게 다루기에 적합하기 때문에, 이러한 UI가 특히
+잘 어울립니다.
 
-**1. Is this an official Incredibox game?**
-
-No. The "Simulator" series, including *Piège*, are **fan-made mods** and are not affiliated with the official Incredibox creators, So Far So Good.
-
-**2. Why is the gameplay different from the original?**
-
-The "Simulator" style is a creative choice by the modding community. Its grid-based interface is particularly well-suited for electronic genres like Trap, as it allows for the precise and complex layering of rhythmic elements.
-
-**3. Where can I play this mod?**
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
+**3. 어디에서 이 모드를 플레이할 수 있나요?**  
+공식 앱이나 사이트에는 없고, 보통 **Newgrounds**나
+**playfiddlebops.com** 같은 모딩·게임 사이트, 혹은 유튜브
+소개 영상의 링크를 통해 웹 브라우저에서 플레이할 수 있습니다.
 

@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: geometry-dash-wave
-title: '[ZH TRANSLATION NEEDED] Geometry Dash Wave'
+title: "Geometry Dash Wave 幾何衝刺：波形模式"
 description: >-
-  [ZH TRANSLATION NEEDED] Master the rhythm and navigate treacherous levels in
-  Geometry Dash Wave! Control a triangular icon that moves diagonally up or down
-  with a single click. Time your taps perfectly to avoid obstacles and complete
-  challenging courses in this addictive, music-synced platformer.
+  在 Geometry Dash Wave 中掌握節奏，穿越充滿陷阱的關卡！
+  你要用單一按鍵控制三角波形圖示，以斜線上下穿梭避開障礙，完成音樂同步的高難度關卡。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
 thumbnail: /new-images/geometry-dash-wave.jpg
@@ -20,31 +18,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Game Introduction
 
-[ZH TRANSLATION NEEDED] Geometry Dash Wave is a challenging, rhythm-based platformer that is a popular mode within the Geometry Dash universe. Players control a triangular icon that continuously moves forward through a hazardous course. The unique "wave" mechanic requires precise timing and rhythm to navigate obstacles by changing the icon's diagonal movement.
+《Geometry Dash Wave》是幾何衝刺宇宙中非常受歡迎的一種模式型玩法。
+你操控一個持續向前移動的三角波形圖示，透過按住與放開來讓它沿斜線上下移動，
+在充滿尖刺與幾何障礙的狹窄通道中穿梭。由於關卡與音樂高度同步，
+要通關需要極佳的節奏感與反應時間。
 
 ### Gameplay Guide
 
-- **Wave Mechanic:** Hold down the click/tap to make your icon move diagonally upwards. Release to make it move diagonally downwards. This creates a zigzag path.
-- **Rhythm-Based:** The levels are often synchronized with music, and timing your actions to the beat can help you navigate.
-- **Obstacle Avoidance:** The core challenge is to avoid hitting any of the numerous spikes, walls, and other geometric obstacles.
-- **Gravity Inversion:** Some levels or sections may invert gravity, reversing the wave controls.
+- **波形機制：** 按住（點住）時，圖示沿斜線向上飛行；放開時，則沿斜線向下墜，
+  形成連續的鋸齒波路線。
+- **節奏導向：** 多數關卡會和背景音樂同步，在鼓點或旋律轉折時需要翻轉波形，
+  用「聽節奏」往往比單純看畫面更容易掌握時機。
+- **障礙閃避：** 核心挑戰是避免碰到各種尖刺、牆面與幾何障礙，
+  通道往往非常狹窄，只容許微小誤差。
+- **重力反轉：** 部分關卡會加入重力反轉效果，等於將整個波形邏輯翻轉，
+  需要重新適應操作方向。
 
 ### Controls Guide
 
-- **PC:** `Spacebar`, `Up Arrow Key`, or `Left Mouse Button` to control the wave.
-- **Mobile:** Tap and hold the screen to control the wave.
+- **PC：** 使用空白鍵、方向鍵 ↑ 或滑鼠左鍵來控制波形的上升／下降。
+- **行動裝置：** 在螢幕上按住即可讓波形上升，放開則下降。
 
 ### Frequently Asked Questions (FAQ)
 
-[ZH TRANSLATION NEEDED] **What is the main goal of Geometry Dash Wave?**
+**問：Geometry Dash Wave 的主要目標是什麼？**
 
-[ZH TRANSLATION NEEDED] The main goal is to complete each level by navigating your wave icon through a series of obstacles, reaching the end of the course.
+答：在不撞到任何障礙的情況下，操控波形圖示通過整個關卡，到達終點旗標。
 
-[ZH TRANSLATION NEEDED] **Is it part of the main Geometry Dash game?**
+**問：Wave 是主遊戲的一部分嗎？**
 
-[ZH TRANSLATION NEEDED] "Wave" is a specific game mode or a type of level design within the broader Geometry Dash game, often created by players.
+答：Wave 是幾何衝刺中的一種特定玩法／段落類型，常被用在玩家自製關卡中，
+也有專門以 Wave 為核心的關卡合集或改編版本。
 
-[ZH TRANSLATION NEEDED] **How can I improve my timing?**
+**問：要怎麼提升自己的節奏感與操作準度？**
 
-[ZH TRANSLATION NEEDED] Practice is key. Pay attention to the music and the visual cues of the level. Start by playing slower levels to get a feel for the wave mechanic before attempting faster or more complex ones.
-
+答：多加練習是關鍵。建議先從節奏較慢、圖形較簡單的關卡開始，
+熟悉波形上下的「幅度與速度」後，再挑戰節奏密集或視覺更花的高難關。注意聽音樂與觀察背景同步效果，
+常能提前預判何時需要翻轉。

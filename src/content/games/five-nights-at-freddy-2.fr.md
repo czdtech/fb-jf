@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: five-nights-at-freddy-2
-title: '[FR] Five Nights at Freddy''s 2 (FNAF 2)'
-description: >-
-  [FR] Mask and music‑box management: track multiple animatronics, wind the
-  Puppet’s box, use the flashlight, and don the Freddy mask at the right moment
-  to survive.
+title: "Five Nights at Freddy's 2 (FNAF 2)"
+description: "Gestion du masque et de la boîte à musique : surveille plusieurs animatroniques, remonte la boîte du Puppet, utilise la lampe torche et mets le masque de Freddy au bon moment pour survivre."
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/five-nights-at-freddy-2.jpg
 tags:
@@ -16,30 +13,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Dans *Five Nights at Freddy’s 2*, la boucle de gameplay change : plus de portes à énergie, mais un masque de Freddy et une boîte à musique à gérer en permanence, en plus de nombreux animatroniques qui arrivent par le couloir central et les conduits de ventilation.
 
+Tu dois jongler entre les caméras, la boîte à musique du Puppet, la lampe torche dans le couloir et le masque que tu enfiles en urgence quand certains animatroniques entrent dans le bureau.
 
-### Overview
-Sequel shifts the loop: no power doors, but you manage a Freddy mask and a music box for the Puppet while watching hallways and vents.
+### Comment jouer
 
-### How to Play
-- Keep the music box wound via the camera; failure releases the Puppet.
-- Use the Freddy mask when certain animatronics enter the office.
-- Flashlight checks the hallway and stuns Foxy briefly.
+- Garde la boîte à musique remontée via la caméra dédiée ; si elle s’arrête, le Puppet t’attaque.
+- Mets le masque de Freddy dès que certains animatroniques apparaissent dans le bureau.
+- Utilise la lampe torche pour contrôler le couloir et étourdir Foxy pendant un court instant.
 
-### Controls
-- Mouse/UI for cameras and mask; Ctrl/Space for flashlight (host dependent).
+### Commandes
 
-### Tips
-- Build a loop: wind box → lower cam → hallway flash → vent lights → mask on if needed.
-- Don’t over‑flash; conserve battery for hallway checks.
-- Recognize which characters require the mask versus lights.
+- Souris / interface : gérer les caméras et le masque.  
+- `Ctrl` ou `Espace` (selon la version) : activer la lampe torche dans le couloir.
 
-### FAQ
-- Q: Why am I losing to the Puppet?
-A: Camera time too long elsewhere; prioritize winding the box.
-- Q: When do I use the mask?
-A: Immediately when an animatronic is in the office (not in vents/hall).
-- Q: Is there door control?
-A: No—FNAF 2 relies on mask, vents, and flashlight management.
+### Astuces
+
+- Construis une boucle efficace : remonter la boîte → baisser la caméra → flash couloir → vérifier les ventilations → masque si nécessaire.
+- Ne spamme pas la lampe : chaque flash consomme la batterie, garde‑la pour le couloir et Foxy.
+- Apprends quels animatroniques exigent le masque et lesquels sont gérés par la lumière ou la boîte à musique.
+
+### Foire aux questions (FAQ)
+
+- Q : Pourquoi je perds toujours contre le Puppet ?
+  
+  R : Tu passes trop de temps sur d’autres caméras. Priorise toujours la boîte à musique ; si elle s’arrête, la partie est quasiment perdue.
+
+- Q : Quand dois‑je mettre le masque ?
+  
+  R : Immédiatement quand un animatronique est dans le bureau (pas seulement dans les conduits ou le couloir). Réagir tard signifie en général un jumpscare.
+
+- Q : Y a‑t‑il encore des portes à contrôler ?
+  
+  R : Non. FNAF 2 repose sur la gestion du masque, des conduits et de la lampe torche, sans portes physiques.
 

@@ -1,49 +1,73 @@
 ---
 locale: fr
 urlstr: crazy-caves
-title: '[FR] Crazy Caves'
-description: >-
-  [FR] Enter the Crazy Caves and test your reflexes! Dodge an endless barrage of
-  falling rocks while throwing pickaxes to smash them for valuable gems and
-  gold. Upgrade your gear to survive longer and score higher.
-iframeSrc: >-
-  https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
-thumbnail: /new-images/crazy-caves.jpg
+title: Crazy Caves
+description: "Crazy Caves est un jeu de tir dans une mine\_: lance ta pioche ou tes projectiles pour briser les rochers et récupérer des trésors avant qu’ils ne t’écrasent."
+iframeSrc: 'https://crazycaves.h5games.usercontent.goog/v/0ssl67d066d40/'
+thumbnail: /new-images/crazy-caves.png
 tags:
   - action
   - casual
-  - clicker
-score: 4.2/5  (1850 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (1750 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Crazy Caves se déroule dans une mine où des rochers et gemmes tombent du
+plafond. Tu contrôles un mineur qui lance des projectiles pour casser les blocs
+avant qu’ils ne t’atteignent.
 
-Crazy Caves is a fast-paced, action-packed arcade game that tests your reflexes and survival skills. You control a miner in a cart at the bottom of a dangerous cave where rocks of all sizes are constantly falling. Your mission is twofold: dodge the falling debris to survive, and simultaneously throw pickaxes to smash the rocks, collecting the valuable gems and gold that fall out. Use your earnings to upgrade your equipment and see how long you can last in the chaotic caverns.
+Chaque rocher possède un nombre indiquant combien de fois il doit être touché
+avant d’exploser. Les gemmes te donnent des points ou de la monnaie pour
+acheter des améliorations.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** **Survival First:** Your absolute top priority is to not get hit. Always be moving and keep an eye on the trajectory of all falling rocks. It only takes one hit to end your run.
-2.  **[FR]** **Prioritize Threats:** Some rocks are larger and fall faster, posing a greater threat. Focus your pickaxe throws on the most immediate dangers first.
-3.  **[FR]** **Efficient Mining:** Try to position yourself so that when you destroy a rock, you are in a safe place to continue attacking others. Don't get cornered while trying to break a single large boulder.
-4.  **[FR]** **Upgrade Smartly:** After each run, invest your collected gold and gems wisely. Upgrading your pickaxe damage allows you to destroy rocks faster, which is crucial for survival. Upgrading your income helps you earn more for future upgrades, creating a powerful feedback loop.
+1.  **Vise les rochers les plus proches du sol**  
+    Priorise ceux qui sont sur le point de t’écraser, même s’ils valent moins
+    de points.
+2.  **Cherche les angles de rebond**  
+    Tire de manière à ce que les projectiles ricochent et touchent plusieurs
+    rochers sur leur trajectoire.
+3.  **Teste différentes améliorations**  
+    Augmenter la vitesse, la force ou le nombre de projectiles change beaucoup
+    ta façon de jouer. Expérimente pour trouver ce qui marche le mieux pour toi.
+4.  **Ramasse les bonus qui tombent**  
+    Certains objets offrent des tirs spéciaux, des ralentissements du temps ou
+    d’autres avantages temporaires.
+5.  **Reste zen quand l’écran se remplit**  
+    Concentre‑toi sur une zone à la fois au lieu d’essayer de tout gérer
+    partout.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Move:** Use your mouse or finger to drag your mining cart left and right along the bottom of the screen.
-*   **[FR]** **Throw Pickaxe:** Click the left mouse button or tap anywhere on the screen to throw a pickaxe upwards.
+- **Viser / Tirer** : déplace la souris ou ton doigt pour viser, clique/tape
+  pour lancer le projectile.  
+- **Acheter des upgrades** : utilise les menus entre les manches pour améliorer
+  ton équipement.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: What happens if a rock hits me?**
-    *   **[FR]** **A:** The game is over instantly. You will need to start a new run from the beginning.
 
-*   **[FR]** **Q: What should I focus on upgrading first?**
-    *   **[FR]** **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
+- **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
 
-*   **[FR]** **Q: How do I deal with the really big boulders?**
-    *   **[FR]** **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
+    - **Q: How do I deal with the really big boulders?**
 
+- **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
+
+    - **Q: What should I focus on upgrading first?**
+
+- **A:** The game is over instantly. You will need to start a new run from the beginning.
+
+    - **Q: What happens if a rock hits me?**
+**Q : Le jeu devient très vite difficile, une astuce ?**  
+R : Investis tôt dans les améliorations les plus rentables (nombre de tirs ou
+puissance) et apprends à utiliser les rebonds pour toucher plusieurs blocs à
+la fois.
+
+**Q : Y a‑t‑il des niveaux ou un mode infini ?**  
+R : Cela dépend de la version, mais beaucoup de ports proposent un mode infini
+avec difficulté croissante.

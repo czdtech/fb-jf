@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: bunny-quest
-title: '[KO] Bunny Quest'
+title: 'Bunny Quest 버니 퀘스트'
 description: >-
-  [KO] Bunny Quest is a tile‑path puzzle — slide tiles, connect routes, and
-  guide the bunny to the goal.
+  Bunny Quest는 타일을 밀어 길을 만드는 경로 퍼즐 게임입니다. 타일을 슬라이드해
+  토끼가 출발점에서 목표 지점까지 끊기지 않는 길을 만들고, 가능하다면 중간의
+  아이템도 챙겨 보세요.
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/bunny-quest.png
 tags:
@@ -14,29 +15,64 @@ score: 4.1/5  (1881 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bunny Quest는 길이 그려진 타일을 미끄러뜨려 연결하는 슬라이드 퍼즐입니다.
+플레이어는 섞여 있는 타일들을 재배치해, 토끼가 출발점에서 도착점까지 한 번도
+끊기지 않는 경로를 만들면 스테이지를 클리어하게 됩니다. 일부 타일에는 당근이나
+별 같은 추가 아이템이 놓여 있어, 경로를 그쪽으로 우회시키면 보너스를 얻을 수
+있지만 그만큼 난이도와 이동 횟수도 늘어납니다.
 
+후반 스테이지로 갈수록 이동 횟수 제한이 엄격해지고, 막다른 길이나 쓸모없는
+루프를 유도하는 함정 배치도 늘어나기 때문에, 최소 이동으로 효율적인 경로를
+찾는 것이 핵심입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Bunny Quest is a path‑building slider puzzle. Rearrange tiles to form an unbroken route from start to finish, collect optional items, and avoid dead‑ends as move limits tighten in later levels.
+1.  **직선·코너 타일로 메인 길부터 그리기**  
+    먼저 토끼의 출발점과 도착점을 머릿속에서 잇는 메인 루트를 대략 그려 보세요.
+    그다음 직선 타일과 코너 타일을 이용해 큰 뼈대를 만든 뒤, 세부적인 분기나
+    보너스 경로는 나중에 조정하는 편이 효율적입니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **막힌 루프 만들지 않기**  
+    골인과 연결되지 않는 고립된 원형 루프는 이동 횟수만 낭비하는 함정입니다.
+    길이 스스로 제자리로 돌아오는 구조를 만들고 있다면, 일찍이 배치를 바꾸어
+    불필요한 루프를 없애세요.
 
-1.  **[KO]** Corners and straights: Place corner/straight tiles to sketch the main path first.
-2.  **[KO]** Avoid loops: Don’t waste moves forming isolated loops that don’t reach the goal.
-3.  **[KO]** Save junctions: Use T‑junctions and crosses late to resolve branching.
-4.  **[KO]** Minimal moves: Track move counts and reverse steps early if inefficient.
-5.  **[KO]** Optional items: Route them only when they don’t explode move counts.
+3.  **분기 타일(T자, 십자)는 나중에 사용하기**  
+    T자·십자 교차로 타일은 경로 분기와 아이템 회수에 매우 유용하지만, 초반부터
+    마구 배치하면 나중에 길을 정리하기 어렵습니다. 메인 루트가 어느 정도 잡힌
+    뒤, 남은 칸을 채울 때 세부 조정용으로 사용하는 것이 좋습니다.
 
-### Controls Guide
+4.  **최소 이동을 의식하기**  
+    후반 스테이지는 이동 횟수 제한이 빡빡하므로, 한 줄씩 밀었다가 다시 되돌리는
+    식의 비효율적인 움직임을 줄여야 합니다. 조금이라도 이상하다 싶으면 일찍
+    되돌리기(Undo)로 돌아가 더 나은 경로를 모색해 보세요.
 
-- Slide tiles by dragging; tiles shift along rows/columns per rules.
-- Undo/Reset if available to optimize routes.
+5.  **보너스 아이템은 여유 있을 때만**  
+    모든 스테이지에서 아이템을 꼭 먹을 필요는 없습니다. 아이템을 회수하려고
+    지나치게 우회하면 이동 횟수가 크게 늘어나 실패할 수 있으니, 여유가 있을
+    때만 경로를 살짝 돌려 챙기는 정도로 욕심을 조절하는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
-- Timers? Some stages use move limits, not strict timers.
-- Hints? Many versions include hints; use sparingly.
+-   **타일 슬라이드:** 마우스나 터치로 타일을 드래그해 가로줄·세로줄 방향으로
+    밀어 옮깁니다. 규칙에 따라 한 줄 전체가 함께 움직이는 방식일 수 있습니다.
+-   **되돌리기/리셋:** 잘못 배치했다고 느끼면 Undo나 Reset 버튼을 눌러 이전
+    상태로 돌아가거나 스테이지를 처음부터 다시 시작할 수 있습니다.
 
+### 자주 묻는 질문 (FAQ)
+
+-   **거의 완성인데 항상 마지막 한 칸이 안 맞아요. 어떻게 하죠?**  
+    A. 보통 초반 배치에서 방향을 잘못 잡은 경우가 많습니다. 시작점과 도착점을
+    먼저 고정해 놓고, 중간 부분을 다시 설계해 보세요. 너무 뒤에서만 고치려 하면
+    퍼즐 구조상 맞출 수 없는 경우가 생깁니다.
+
+-   **시간 제한이 있나요?**  
+    A. 많은 스테이지는 실시간 타이머 대신 이동 횟수 제한을 사용합니다. 천천히
+    생각할 시간은 있지만, 불필요한 슬라이드는 줄여야 한다는 뜻입니다.
+
+-   **힌트 기능이 있나요?**  
+    A. 일부 버전에는 힌트 버튼이 있어 다음에 움직일 타일을 추천해 주기도 합니다.
+    다만 힌트에 너무 의존하면 퍼즐을 푸는 재미가 줄어들 수 있으니, 막힐 때만
+    가볍게 사용하는 것을 권장합니다.

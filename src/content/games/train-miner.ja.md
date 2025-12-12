@@ -1,65 +1,49 @@
 ---
-locale: ja
+title: Train Miner
+description: Train Minerは、列車と採掘を組み合わせたゲームです。資源を集めて列車をアップグレードしましょう。
+iframeSrc: 'https://ubg98.github.io/TrainMiner/'
+thumbnail: /new-images/train-miner.jpg
 urlstr: train-miner
-title: '[JA TRANSLATION NEEDED] Train Miner'
-description: >-
-  [JA TRANSLATION NEEDED] Train Miner is a rail‑laying puzzler — lay tracks,
-  collect ore, and reach exits while optimizing turns and fuel.
-iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
-thumbnail: /new-images/train-miner.png
+score: 4.4/5  (2654 votes)
 tags:
-  - puzzle
-  - thinky
-score: 4.1/5  (1970 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - simulation
+  - mining
+  - upgrade
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Train Minerは、列車を操作して鉱山で資源を採掘し、列車をアップグレードするシミュレーションゲームです。効率的に資源を集めて列車を強化しましょう。
 
-[JA TRANSLATION NEEDED] Train Miner asks you to place track pieces so a mine‑train collects resources and exits safely. Turns cost momentum/fuel; mis‑routes cause dead‑ends. Smart layouts collect extras without trapping the train.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Exit first: Ensure a viable exit path before optional ore.
-[JA TRANSLATION NEEDED] 2.  Turn economy: Prefer straights; reserve turns for mandatory bends.
-[JA TRANSLATION NEEDED] 3.  Branch spurs: Add short spurs to grab side ore and rejoin main line.
-[JA TRANSLATION NEEDED] 4.  Test rides: Simulate routes mentally before launching.
-[JA TRANSLATION NEEDED] 5.  Undo quickly after dead‑end sightings.
-
-### Controls Guide
-
-- Place/rotate track pieces; launch train; pause/retry via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I dead‑end near the exit.
-  
-[JA TRANSLATION NEEDED]   A: You spent turns earlier; reroute straighter segments.
-
-- Q: Can I collect everything?
-  
+ - **列車を運転：** 鉱山を通って走ります
+ - **資源を採掘：** 鉱石や資源を集めます
+ - **アップグレード：** 列車の能力を向上させます
+ - **効率化：** より多くの資源を運べるようにします
 
 
-
-
-
-
-- Q: I dead‑end near the exit.
-### よくある質問（FAQ）
-- Place/rotate track pieces; launch train; pause/retry via UI.
-### コントロールガイド
 - Undo quickly after dead‑end sightings.
+### 操作ガイド
+
+ - **矢印キー/WASD：** 列車の操作
+ - **マウス：** アップグレードメニュー
 
 ### よくある質問（FAQ）
-- Test rides: Simulate routes mentally before launching.
-[JA TRANSLATION NEEDED]   A: Often yes with smart spurs; prioritize safety first.
 
 
+- Q: I dead‑end near the exit.
+**ゲームの目標は何ですか？**
 
 
-A: Often yes with smart spurs; prioritize safety first.
 - Q: Can I collect everything?
+資源を採掘して列車をアップグレードし、より効率的にすることです。
 
+**どんなアップグレードがありますか？**
 
-A: Often yes with smart spurs; prioritize safety first.
+スピード、容量、採掘効率などを向上させられます。
+
+**エンドゲームはありますか？**
+
+無限にプレイでき、常に改善の余地があります。

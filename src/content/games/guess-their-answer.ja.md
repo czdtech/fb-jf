@@ -1,71 +1,37 @@
 ---
+title: "Guess Their Answer"
+description: "Guess Their Answerはクイックなアンケート対決です。群衆のように考え、トップアンサーをリストアップし、幅広いカバー率で対戦相手を出し抜きましょう。"
+iframeSrc: "https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/"
+thumbnail: "/new-images/guess-their-answer.png"
+urlstr: "guess-their-answer"
+score: "4.0/5  (1878 votes)"
+tags: ["puzzle", "thinky", "2 player"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: guess-their-answer
-title: '[JA TRANSLATION NEEDED] Guess Their Answer'
-description: >-
-  [JA TRANSLATION NEEDED] Guess Their Answer is a quick survey showdown — think
-  like the crowd, list top answers, and outscore opponents with broad coverage.
-iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
-thumbnail: /new-images/guess-their-answer.png
-tags:
-  - puzzle
-  - thinky
-  - 2 player
-score: 4.0/5  (1878 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Guess Their Answerは、ファミリー・フュード（クイズ番組）スタイルのアンケートゲームのようにプレイします。お題（「ビーチに持っていくもの」など）が与えられ、一般的な回答をリストアップしなければなりません。人気度によってポイントが変わります。マニアックな答えはほとんど点数になりません。このゲームのメタ（定石）は、ニッチな知識ではなく平均的な回答者をモデル化することです。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Guess Their Answer plays like a family‑feud style survey game. Given a prompt (“Things you bring to the beach”), you must list common answers. Points scale by popularity; obscure answers score little. The meta is not niche knowledge but modeling average respondents.
+1.  **カテゴリから始める:** 人、物、行動で分け、そこから類義語を展開しましょう（例：サングラス/シェード）。
+2.  **範囲をカバー:** 初期のカバー率を最大化するために、類義語を並べるよりも、サブテーマごとに1つの回答をリストアップしましょう。
+3.  **人口統計を考える:** ファミリー層の回答は、実用的で馴染みのあるものに偏ります。
+4.  **固執しない:** 回答が外れたら、すぐに別のサブテーマに切り替えましょう。
+5.  **直接対決:** 対戦相手が選びそうな答えを早めにブロックしましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Start with categories: People, objects, actions; then expand synonyms (e.g., sunglasses/shades).
-[JA TRANSLATION NEEDED] 2.  Cover spectrum: List one answer per sub‑theme rather than synonyms first to maximize early coverage.
-[JA TRANSLATION NEEDED] 3.  Think demographics: Family answers skew practical and familiar.
-[JA TRANSLATION NEEDED] 4.  Don’t overfit: If an answer flops, pivot quickly to a different sub‑theme.
-[JA TRANSLATION NEEDED] 5.  Head‑to‑head: Block likely opponent picks early.
+- **入力:** 答えを入力して送信します。ゲームが人気リストと照合します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Type answers and submit; the game checks popularity lists.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: My clever answers don’t score — why?
-  
-[JA TRANSLATION NEEDED]   A: Scoring favors common responses. Switch to broadly familiar items/actions.
-
-- Q: Are misspellings accepted?
-  
-[JA TRANSLATION NEEDED]   A: Some variants autocorrect; others require correct spelling or close matches.
-
-- Q: Any hint system?
-  
-
-
-
-
-
-- Q: My clever answers don’t score — why?
-### よくある質問（FAQ）
-- Type answers and submit; the game checks popularity lists.
-### コントロールガイド
-- Head‑to‑head: Block likely opponent picks early.
-[JA TRANSLATION NEEDED]   A: Some modes offer letter hints or reveal the category breadth.
-
-
-
-
-
-
-A: Some modes offer letter hints or reveal the category breadth.
-- Q: Any hint system?
-A: Some variants autocorrect; others require correct spelling or close matches.
-- Q: Are misspellings accepted?
-
-
-A: Some modes offer letter hints or reveal the category breadth.
+- **Q: 賢い答えなのに得点になりません。なぜですか？**
+  A: スコアリングは一般的な回答を優遇します。広く親しまれているアイテムやアクションに切り替えましょう。
+- **Q: スペルミスは許容されますか？**
+  A: 一部のバリエーションでは自動修正されますが、正確なスペルや近い一致を要求されるものもあります。
+- **Q: ヒント機能はありますか？**
+  A: 一部のモードでは、文字のヒントやカテゴリの幅広さを明かす機能があります。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pirate-pop
-title: '[KO] Pirate Pop'
+title: Pirate Pop 해적 버블 팝
 description: >-
-  [KO] Ahoy! Take aim and pop the pirate bubbles. A classic bubble shooter game
-  where you match three or more to clear the board and claim the pirate
-  treasure.
+  해적 테마의 버블 슈터 게임입니다. 대포로 버블을 쏴 같은 색을 세 개 이상 맞추고, 한 번에 큰 덩어리를 떨어뜨려 보드를 시원하게 비워
+  보세요.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/pirate-pop.png
 tags:
@@ -18,31 +17,64 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Pirate Pop*은 해적선을 배경으로 하는 캐주얼 버블 슈터 게임입니다.
+플레이어는 대포를 조준해 색깔 버블을 발사하고, 같은 색 버블을
+세 개 이상 맞춰 보드를 하나씩 비워 나가야 합니다.
 
-Pirate Pop is a fun and addictive bubble shooter game with a swashbuckling pirate theme. Your goal is to clear the screen of colorful bubbles by firing your cannon and matching three or more bubbles of the same color. Aim carefully, use the walls to make tricky bank shots, and create large chain reactions to drop big clusters of bubbles and claim the pirate treasure!
+버블을 적당히만 지우는 것이 아니라, 위쪽을 떠받치고 있는 작은
+지점을 노려 한 번에 큰 덩어리를 떨어뜨리는 것이 핵심입니다.
+깔끔하게 우수수 떨어지는 버블과 함께, 해적 보물을 손에 넣는
+통쾌함을 느낄 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Aim High for Big Drops:** The most effective way to score big is to pop a cluster of bubbles that is supporting other bubbles below it. This will cause a huge avalanche, clearing a large portion of the board at once and earning you massive combo points.
-2.  **[KO]** **Use the Walls:** Master the bank shot. Bouncing your bubble off the side walls is a crucial skill for reaching tight spots and hitting bubbles that are otherwise blocked.
-3.  **[KO]** **Plan Ahead:** The game usually shows you the next bubble in your cannon. Use this to your advantage. If your current bubble isn't a good match, see if you can use it to set up a better shot for the next one.
-4.  **[KO]** **Don't Let Them Reach You:** A line of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, your voyage is over!
+1. **위쪽 연결부를 노려 대량 낙하 유도하기**  
+   많은 점수를 얻으려면 아래쪽 버블을 하나씩 지우기보다,
+   위쪽에 매달린 지점만 끊어 아래 버블을 한 번에 떨어뜨리는 것이
+   좋습니다. 상단의 "지지대"가 되는 버블을 우선 노려 보세요.
 
-### Controls Guide
+2. **벽 튕기기(뱅크샷) 연습하기**  
+   측면 벽에 버블을 튕겨서 좁은 틈 사이로 넣는 기술은 고급
+   스테이지에서 필수입니다. 단순히 정면만 겨누지 말고, 벽을
+   이용하면 닿지 않을 것 같은 위치도 공략할 수 있습니다.
 
-*   **[KO]** **Aim:** Move your mouse to aim the cannon. A helpful guideline will show you where your bubble will go.
-*   **[KO]** **Shoot:** Click the left mouse button to fire the bubble.
+3. **다음 버블까지 고려해 한 수 앞을 계획하기**  
+   대부분의 버블 슈터처럼 현재 장전된 버블 옆에 다음에 나올
+   버블 색이 표시됩니다. 지금 버블로 큰 효과를 내기 어렵다면,
+   다음 버블이 유리한 위치를 만들기 위해 중간 발판처럼 배치하는
+   것도 좋은 선택입니다.
 
-### Frequently Asked Questions (FAQ)
+4. **버블 열이 내려오기 전에 정리하기**  
+   특정 라인을 기준으로 버블 열이 조금씩 내려오며, 화면 아래
+   경계선을 넘기면 게임이 종료됩니다. 항상 아래쪽 경계를 의식하며
+   위에서부터 차근차근 정리해 내려오세요.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To clear all the bubbles from the board and achieve the highest score possible.
+### 조작 가이드
 
-*   **[KO]** **Q: How do I get the highest score?**
-    *   **[KO]** **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
+- **조준**: 마우스를 움직여 대포의 방향을 조절하면, 보통
+  궤적 가이드 선이 어디로 날아갈지 미리 보여 줍니다.  
+- **발사**: 마우스 왼쪽 버튼을 클릭해 버블을 발사합니다.
 
-*   **[KO]** **Q: What if I can't make a match?**
-    *   **[KO]** **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 게임의 최종 목표는 무엇인가요?**  
+  **A:** 제한선에 닿기 전에 모든 버블을 제거하거나, 가능한 한 많은
+  버블을 떨어뜨려 높은 점수를 얻는 것이 목표입니다.
+
+    - **Q: 점수를 많이 얻는 가장 좋은 방법은?**  
+  **A:** 한 번의 샷으로 많은 버블이 떨어질수록 콤보 보너스가
+  커집니다. 위쪽 연결부만 끊어 아래 버블 전체를 동시에 떨어뜨리는
+  전략을 연습해 보세요.
+
+- **Q: 더 이상 맞출 곳이 없을 때는 어떻게 하나요?**  
+
+    - **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
+
+- **Q: What if I can't make a match?**
+
+    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
+  **A:** 당장은 매치가 되지 않더라도, 나중에 같은 색이 모일 수 있는
+  안전한 위치에 버블을 붙여 두세요. 이후 나오는 버블로 동시에
+  지울 수 있는 큰 그룹을 만들어 두는 것이 좋습니다.

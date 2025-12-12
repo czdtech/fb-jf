@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: ladybug-jump
-title: '[ES] Ladybug Jump'
+title: 'Ladybug Jump'
 description: >-
-  [ES] Ladybug Jump is a cheerful hop‑platformer — time jumps, ride moving
-  leaves, and collect nectar while avoiding hazards.
+  Ladybug Jump es un alegre juego de plataformas de salto: calcula bien tus
+  saltos, súbete a hojas en movimiento y recoge néctar mientras esquivas
+  peligros.
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/ladybug-jump.png
 tags:
@@ -15,35 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Ladybug Jump es un plataformas ligero y apto para toda la familia. Salta entre
+hojas y setas, evita charcos y arañas y recoge néctar para conseguir
+bonificaciones. A medida que avanzas, las plataformas en movimiento y las
+ráfagas de viento ponen a prueba tu precisión a la hora de saltar.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Ladybug Jump is a light, family‑friendly platformer. Hop across leaves and mushrooms, avoid puddles and spiders, and grab nectar for bonuses. Moving platforms and wind gusts add timing tests as levels progress.
+1.  Saltos cortos: usa impulsos pequeños para tener más precisión al aterrizar.
+2.  Lectura del viento: salta un poco antes cuando haya viento en contra y un
+    poco después cuando tengas viento a favor.
+3.  Arcos seguros: elige rutas más largas pero seguras en lugar de atajos
+    arriesgados.
+4.  Coleccionables: recoge el néctar solo cuando estés bien alineado; la
+    seguridad va primero.
+5.  Ritmo de reinicio: reinicia rápido para repetir las secciones difíciles
+    hasta dominar la secuencia.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Short taps: Use minimal jumps for precision.
-2.  **[ES]** Wind reads: Jump slightly earlier into headwinds; later with tailwinds.
-3.  **[ES]** Safe arcs: Take longer, safer paths over risky shortcuts.
-4.  **[ES]** Collectibles: Grab nectar only when aligned; safety first.
-5.  **[ES]** Restart rhythm: Quick restarts help nail tricky sequences.
+- Toca o haz clic para saltar; mantén pulsado para saltar más alto si el juego
+  lo permite; pausa o reinicia desde la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap/Click to jump; hold to jump higher if supported; pause/retry via UI.
+- Q: Siempre me caigo de las hojas pequeñas.  
+  A: Reduce la altura del salto y apunta al centro de la hoja; evita balanceos
+  bruscos.
 
-### Frequently Asked Questions (FAQ)
+- Q: ¿Hay niveles con jefes?  
+  A: Son poco frecuentes; el foco está en pequeños recorridos de obstáculos.
 
-- Q: I keep falling off small leaves.
-
-A: Reduce jump height and land center; avoid momentum swings.
-
-- Q: Are there boss stages?
-
-A: Rare; focus is on short obstacle courses.
-
-- Q: Controller supported?
-
-A: Some versions support gamepads for analog jump control.
+- Q: ¿Es compatible con mando?  
+  A: Algunas versiones admiten gamepad y permiten controlar el salto con mayor
+  precisión.
 

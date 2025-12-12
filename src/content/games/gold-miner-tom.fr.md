@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: gold-miner-tom
-title: '[FR] Gold Miner Tom'
+title: Gold Miner Tom
 description: >-
-  [FR] Help Tom get rich! A classic gold miner game where you cast your claw to
-  grab gold nuggets, gems, and other treasures. Reach the level goal before time
-  runs out!
+  Aide Tom à devenir riche ! Un classique du mineur d’or où tu lances ta griffe
+  pour attraper pépites, gemmes et autres trésors. Atteins l’objectif de chaque
+  niveau avant la fin du temps.
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/gold-miner-tom.png
 tags:
@@ -17,36 +17,44 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Gold Miner Tom est un jeu d’arcade classique qui teste ton timing et ta précision. Tu incarnes Tom, un mineur ambitieux qui contrôle une griffe oscillante et doit la lancer au bon moment pour récupérer les trésors enfouis sous terre. Chaque niveau te fixe un objectif d’argent à atteindre avant la fin du chronomètre. Attrape des pépites d’or, des diamants scintillants et des sacs mystères, tout en évitant les rochers quasi sans valeur qui te feront perdre un temps précieux.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Gold Miner Tom is a classic arcade-style game that tests your timing and precision. As the ambitious miner Tom, you control a swinging claw and must cast it at the right moment to grab valuable treasures buried underground. Each level has a specific monetary goal you must reach within a time limit. Grab gold nuggets, sparkling diamonds, and mysterious goodie bags, but be careful to avoid worthless rocks that will waste your precious time!
+1.  Le timing avant tout : la griffe se balance constamment d’un côté à l’autre. Ton succès dépend entièrement du moment où tu cliques pour l’envoyer vers un objet intéressant.
+2.  Connais tes trésors : chaque objet a une valeur et un poids différents.
+    *   Grosses pépites d’or & diamants : tes cibles principales, ce sont les objets les plus rentables.
+    *   Petites pépites d’or : plus faciles à attraper et remontées plus rapidement, mais moins lucratives.
+    *   Rochers : à éviter ! Ils valent très peu et sont très lourds, donc très longs à remonter.
+    *   Sacs mystère : contiennent une somme d’argent aléatoire ou un power‑up.
+3.  Boutique entre les niveaux : dépense l’argent gagné pour acheter des objets utiles. La dynamite est cruciale pour faire exploser les rochers que tu attrapes par erreur. Les potions de force te permettent de remonter plus vite les objets lourds.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Timing is Everything:** The claw swings back and forth continuously. Your success depends entirely on clicking at the perfect moment to send the claw in the direction of a valuable item.
-2.  **[FR]** **Know Your Treasure:** Different items have different values and weights.
-    *   **[FR]** **Large Gold Nuggets & Diamonds:** These are your primary targets. They are worth the most money.
-    *   **[FR]** **Small Gold Nuggets:** Easier to grab and faster to reel in, but less valuable.
-    *   **[FR]** **Rocks:** Avoid these! They are worth very little money and are very heavy, meaning they take a long time to reel in, wasting valuable time.
-    *   **[FR]** **Mystery Bags:** These contain a random amount of money or a power-up.
-3.  **[FR]** **Shop Between Levels:** Use the money you've earned to buy helpful items in the shop between levels. Dynamite is essential for blowing up worthless rocks you accidentally grab. Strength potions help you reel in heavy objects faster.
+Le jeu se joue avec un seul type d’action.
 
-### Controls Guide
+- Lancer la griffe : clique avec la souris ou tape sur l’écran pour lancer la griffe dans sa direction actuelle.  
+- Utiliser la dynamite : si tu en as et que tu tiens un objet, un bouton de dynamite apparaît ; clique dessus pour détruire ce qui est accroché à ta griffe.
 
-The game uses a simple, one-touch control scheme.
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
-*   **[FR]** **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
+- Q : Quel est l’objectif de chaque niveau ?
+  
+  R : Gagner suffisamment d’argent pour atteindre le montant cible avant que le temps ne soit écoulé.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Pourquoi la griffe remonte‑t‑elle si lentement ?
+  
+  R : Tu as sans doute attrapé un gros rocher très lourd, peu rentable. Essaie de les éviter. Si tu as de la dynamite, c’est le moment de l’utiliser.
 
-*   **[FR]** **Q: What is the goal of each level?**
-    *   **[FR]** **A:** To earn enough money to meet the level's target amount before the timer runs out.
+- Q : Que se passe‑t‑il si je n’atteins pas l’objectif à temps ?
+  
 
-*   **[FR]** **Q: Why is my claw reeling in so slowly?**
-    *   **[FR]** **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
+    - **A:** If the timer runs out and you haven't met the goal, the game is over.
 
-*   **[FR]** **Q: What happens if I don't reach the money goal in time?**
-    *   **[FR]** **A:** If the timer runs out and you haven't met the goal, the game is over.
+- **Q: What happens if I don't reach the money goal in time?**
+
+    - **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
+  R : Si le timer atteint zéro et que tu n’as pas atteint le montant requis, la partie est terminée.
+

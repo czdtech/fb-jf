@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: kings-and-queens
-title: '[ES] Kings and Queens'
+title: "Kings and Queens"
 description: >-
-  [ES] Kings and Queens is a regal match‑3 adventure — clear obstacles, unlock
-  boosters, and restore royal halls with clever planning.
+  Kings and Queens es una aventura match‑3 de realeza: limpia obstáculos,
+  desbloquea boosters y restaura salones reales con planificación inteligente.
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/kings-and-queens.png
 tags:
@@ -17,35 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Kings and Queens envuelve una historia de restauración de castillos sobre la
+base de un clásico match‑3. Cada capítulo introduce nuevos bloqueadores
+(cadenas, losas de mármol, niebla) y objetivos de escena (recoger coronas,
+romper sellos). Las estrellas que ganas al superar niveles se usan para renovar
+salas, lo que a su vez desbloquea boosters para tableros más difíciles.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Kings and Queens wraps a castle‑restoration story around classic match‑3. Each chapter introduces new blockers (chains, marble slabs, fog) and scene goals (collect crowns, break seals). You spend earned stars to renovate rooms, unlocking boosters for harder boards.
+1.  **Control del tablero:** limpia primero los bloqueadores centrales para abrir
+    espacio a grandes combinaciones.
+2.  **Timing de boosters:** guarda martillos, cohetes y otros power‑ups para los
+    cuellos de botella del final del tablero.
+3.  **Planifica combos:** fusiona potenciadores (bomba + línea, limpiadores de
+    color) justo antes de objetivos difíciles.
+4.  **Economía de estrellas:** gasta en boosters que te ayuden con el obstáculo
+    que te frena en ese momento.
+5.  **Cuenta de movimientos:** calcula los bloqueadores que quedan frente a tus
+    movimientos disponibles y juega siempre a favor del objetivo, no de la
+    puntuación.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Board control: Clear central blockers first to open space for combos.
-2.  **[ES]** Booster timing: Save hammers/rockets for late‑board choke points.
-3.  **[ES]** Combo planning: Merge power‑ups (bomb+line/color clears) right before tight goals.
-4.  **[ES]** Star economy: Spend on boosters that directly help your current hurdle.
-5.  **[ES]** Move math: Count remaining blockers vs moves and play for the objective, not points.
+- **Intercambiar:** arrastra para cambiar de sitio gemas adyacentes.
+- **Boosters:** tócalos para usarlos.
+- **Renovaciones:** usa el menú de escenas para gastar estrellas en decoraciones y
+  mejoras.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to swap; tap boosters to use; scene menu to renovate with stars.
+*   **P: Estoy atascado en un nivel con losas de mármol, ¿alguna pista?**  
+    **R:** Usa bombas cerca de las losas y encadena rayos de línea a través de
+    ellas para romper varias capas a la vez.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Debo guardar todos los boosters?**  
+    **R:** Conviene tener algunos en reserva, pero no temas gastarlos para
+    superar niveles tipo "muro"; avanzar es más importante.
 
-- Q: I’m stuck on a marble slab level — any tip?
-
-A: Use bombs near slabs and chain line clears through them to crack multiple layers.
-
-- Q: Should I hoard boosters?
-
-A: Keep a few, but spend to break brick‑wall stages; progression matters.
-
-- Q: Renovations affect gameplay?
-
-A: Mostly cosmetic; some unlock booster slots or daily rewards.
-
+*   **P: ¿Las renovaciones afectan a la jugabilidad?**  
+    **R:** En su mayoría son cosméticas, aunque algunas pueden desbloquear
+    ranuras extra de boosters o recompensas diarias.

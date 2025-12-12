@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: tomb-of-the-mask
-title: '[ES] Tomb of the Mask'
+title: "Tomb of the Mask - Laberintos a toda velocidad"
 description: >-
-  [ES] Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game!
-  Swipe to move your character from wall to wall, collecting coins and power-ups
-  while outrunning a rising flood. Master precise movements and quick decisions
-  to survive and uncover the tomb's secrets.
-iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
-thumbnail: /new-images/tomb-of-the-mask.jpg
+  Recorre peligrosos laberintos en Tomb of the Mask, un trepidante arcade de
+  reflejos. Deslízate de pared en pared, recoge monedas y potenciadores y
+  escapa de una marea letal que sube sin parar mientras desentierras los
+  secretos de la tumba.
+iframeSrc: "https://w8.snokido.com/games/unity-webgl/tomb-run/index.html"
+thumbnail: "/new-images/tomb-of-the-mask.jpg"
 tags:
   - arcade
   - maze
@@ -17,35 +17,33 @@ score: 3.7/5  (843 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+Tomb of the Mask es un arcade extremadamente adictivo y rápido que combina laberintos con la presión de un runner infinito. Controlas a un personaje que se mueve deslizando el dedo: cada gesto lo lanza en línea recta hasta chocar con una pared. Tu misión es recoger monedas y potenciadores mientras huyes de una marea de tinta o lava que sube desde el fondo del nivel.
 
-### Game Introduction
+### Guía de juego
 
-Tomb of the Mask is a highly addictive, fast-paced arcade game that combines elements of maze navigation and endless runner. Players control a character who moves by swiping, sliding from wall to wall in a pixel-art maze. The primary goal is to collect coins and power-ups while outrunning a constantly rising flood of ink or lava from below.
+- **Movimiento:** desliza en cualquiera de las cuatro direcciones (arriba, abajo, izquierda, derecha). El personaje se desplazará en esa línea hasta encontrarse con un obstáculo.
+- **Colección:** recoge monedas y puntos luminosos repartidos por el laberinto para aumentar tu marcador y desbloquear mejoras.
+- **Potenciadores:** aprovecha escudos, aumentos de velocidad, congelaciones y otros poderes temporales para sobrevivir en secciones complicadas.
+- **Evita los peligros:** esquiva pinchos, trampas, enemigos y proyectiles; un solo impacto puede acabar con la partida.
+- **Corre más que la marea:** una franja de color asciende desde la parte inferior de la pantalla; si te alcanza, se termina la run, así que mantén siempre un rumbo hacia arriba.
 
-### Gameplay Guide
+### Guía de controles
 
-- **Movement:** Swipe in any of the four cardinal directions (up, down, left, right). Your character will slide in that direction until they hit an obstacle.
-- **Collect:** Gather coins and dots scattered throughout the maze.
-- **Power-ups:** Pick up various power-ups like shields, speed boosts, or freeze abilities to help you survive.
-- **Avoid Obstacles:** Dodge spikes, traps, and enemies.
-- **Outrun the Flood:** A colored flood rises from the bottom of the screen, forcing you to move quickly upwards.
+- **Deslizar:** en móvil, mueve el dedo en la dirección deseada para que el personaje se lance; en PC, usa las teclas de dirección o `WASD` para indicar el movimiento.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- **Swipe:** Swipe your finger across the screen (on mobile) or use `Arrow Keys` / `WASD` (on PC) to control your character's movement.
+**¿Cómo consigo una puntuación alta?**
 
-### Frequently Asked Questions (FAQ)
+Sobrevive el máximo tiempo posible, recoge tantas monedas como puedas y utiliza los potenciadores de forma inteligente. Un buen trazado por el laberinto y reflejos rápidos marcan la diferencia.
 
-**How do I get a high score?**
+**¿Qué ocurre si choco con un obstáculo?**
 
-A high score is achieved by surviving longer, collecting more coins, and utilizing power-ups effectively. Focus on efficient pathfinding and quick reflexes.
+La mayoría de trampas provocan muerte instantánea y la partida termina. Algunos potenciadores de escudo pueden absorber un golpe, pero son temporales.
 
-**What happens if I hit an obstacle?**
+**¿Hay distintas máscaras?**
 
-Hitting an obstacle will usually result in instant death, ending your run. Some power-ups might offer temporary protection.
-
-**Are there different masks?**
-
-Yes, as you progress and collect coins, you can unlock various masks. Each mask might offer a unique ability or bonus, adding a strategic layer to your runs.
+Sí. A medida que avanzas y acumulas monedas podrás desbloquear nuevas máscaras. Muchas otorgan habilidades o bonificaciones únicas, añadiendo una capa estratégica a cada intento.
 

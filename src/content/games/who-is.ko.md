@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: who-is
-title: '[KO] Who Is? Game'
+title: "Who Is? Game 후 이즈 게임"
 description: >-
-  [KO] Test your detective skills and challenge your brain in Who Is? Game!
-  Solve tricky riddles, identify imposters, and find hidden clues in over a
-  hundred unique scenarios. This mind-bending puzzle game requires
-  out-of-the-box thinking and keen observation to uncover the truth.
+  수상한 사람을 가려내고 숨겨진 단서를 찾는 추리 퍼즐 게임입니다. 기발한 수수께끼와 상황 문제를
+  풀며, 화면 곳곳의 힌트를 조합해 진짜 범인과 임포스터를 밝혀내 보세요.
 iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/who-is.jpg
 tags:
@@ -18,36 +16,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+"Who Is? Game"은 다양한 상황 속에서 "누가 ~인지"를 찾아내는 형식의 추리 퍼즐 게임입니다. Unico Studio가
+개발한 이 게임은 장면을 꼼꼼히 관찰하고, 사소한 단서들을 조합해 정답을 추론하는 능력을 요구합니다.
+때로는 상식적인 논리를 뒤집는 발상 전환이 필요해, 단순한 찾기 게임보다 훨씬 자유로운 사고를
+요구합니다.
 
-"Who Is? Game" is a popular and engaging puzzle game that challenges players with a series of brain-teasing riddles and scenarios. Developed by Unico Studio, it requires players to think critically, observe details, and often employ unconventional logic to solve each level. The game is known for its diverse puzzles, ranging from identifying imposters to finding hidden objects.
+### 게임 플레이 가이드
 
-### Gameplay Guide
+각 레벨마다 짧은 질문이나 상황이 주어지며, 플레이어는 화면 속 인물과 사물들을 살펴보며 정답을
+찾아야 합니다.
 
-Each level presents a unique situation or question, and your goal is to figure out the correct answer or solution.
-- **Observe:** Carefully examine the scene for clues, hidden objects, or subtle details.
-- **Interact:** Tap or click on objects to interact with them. You might need to drag items, combine them, or even use multi-touch gestures.
-- **Think Outside the Box:** Many puzzles are designed to trick you. The most obvious answer is often not the correct one. Be prepared to experiment and try unconventional solutions.
-- **Solve Riddles:** Some levels are straightforward riddles, while others involve more complex scenarios where you need to deduce information.
+- **장면 관찰하기**: 배경, 표정, 옷차림, 소지품, 주변 글자 등 눈에 보이는 모든 요소가 단서가 될 수
+  있습니다. 의심스러운 부분이 없는지 천천히 훑어보세요.
+- **상호작용하기**: 의심 가는 오브젝트를 탭/클릭해 움직이거나, 숨겨진 것들을 드러낼 수 있습니다.
+  어떤 물건은 드래그해서 다른 곳에 갖다 놓아야 진짜 역할을 드러내기도 합니다.
+- **틀 밖에서 생각하기**: 이 게임의 많은 문제는 가장 눈에 띄는 선택지가 오답인 경우가 많습니다.
+  "정말 이게 전부일까?"라는 의심을 가져 보며, 상식을 조금 비틀어 보는 시도가 필요합니다.
+- **수수께끼 풀기**: 일부 스테이지는 장면보다는 텍스트 수수께끼에 가깝고, 다른 스테이지는 상황극
+  속에서 누가 거짓말을 하는지 추리해야 하는 등 형식이 다양합니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- **Tap/Click:** Use your finger (on mobile) or mouse (on PC) to tap or click on elements on the screen.
-- **Drag:** Tap and hold, then drag to move objects or reveal hidden areas.
-- **Multi-touch:** Some puzzles may require using two fingers simultaneously.
+- **탭/클릭**: 모바일에서는 손가락, PC에서는 마우스로 화면 요소를 탭/클릭해 상호작용합니다.
+- **드래그**: 손가락이나 마우스를 눌러 끌어 숨겨진 공간을 열거나, 오브젝트를 다른 곳에 가져다 놓을
+  수 있습니다.
+- **멀티 터치**: 일부 퍼즐은 두 손가락을 동시에 사용해야 해결되는 경우도 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**What kind of puzzles are in the game?**
+**Q. 게임에는 어떤 종류의 퍼즐이 나오나요?**  
+A. 논리 퍼즐, 시각적 착시, 숨은그림찾기, 대화 내용을 바탕으로 한 추리 문제 등 다양한 유형이
+섞여 있습니다. 같은 유형만 반복되지 않아 지루함이 덜한 편입니다.
 
-The game features a wide variety of puzzles, including logic puzzles, visual riddles, hidden object challenges, and scenarios where you need to make deductions based on character interactions.
+**Q. 힌트 기능이 있나요?**  
+A. 네, 막혔을 때 사용할 수 있는 힌트 시스템이 존재하며, 보통 광고 시청이나 게임 내 재화를 통해
+  사용할 수 있습니다. 힌트는 정답을 바로 알려 주기보다는, 시선을 어디에 두어야 할지 방향을
+  제시해 줍니다.
 
-**Is there a hint system?**
-
-Yes, if you get stuck on a level, hints are usually available. These often come in the form of short clues that guide you towards the solution without giving it away entirely.
-
-**Is the game suitable for all ages?**
-
-While the puzzles can be challenging, the content is generally family-friendly, making it suitable for a wide range of players who enjoy brain teasers.
-
+**Q. 난이도가 어린이에게는 어렵지 않을까요?**  
+A. 일부 문제는 꽤 기발한 발상을 요구하지만, 전반적으로는 가족 단위로 즐길 수 있는 수준입니다.
+  아이와 함께 화면을 보며 서로 의견을 나누어 풀어 보는 것도 좋은 방법입니다.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: temple-run-2
-title: '[DE] Temple Run 2'
+title: Temple Run 2
 description: >-
-  [DE] Temple Run 2 is an endless running adventure game where players navigate
-  treacherous temple paths, collecting coins and power-ups while avoiding
-  obstacles and the pursuing demon monkeys in stunning environments.
+  Temple Run 2 ist ein Endless‑Runner-Abenteuer: Du rennst über gefährliche
+  Tempelpfade, sammelst Münzen und Power-ups, weichst Fallen aus und entkommst
+  den Dämonenaffen so weit wie möglich.
 iframeSrc: >-
   https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
 thumbnail: /new-images/temple-run-2.jpg
@@ -17,36 +17,42 @@ score: 4.0/5  (277 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
+
+Temple Run 2 ist der Nachfolger des klassischen Tempel‑Runners. Du sprintest über bröckelnde Wege, fährst mit Loren, rutschst über Seile und wirst dabei unablässig von Dämonenaffen verfolgt. Ziel ist es, so weit wie möglich zu kommen und unterwegs Münzen und Edelsteine einzusammeln.
+
+### Spielstrategie
+
+1.  **Münzen sammeln:** Sammle Coins auf dem Weg, um Charaktere und Power-ups freizuschalten bzw. zu verbessern.
+2.  **Power-ups klug nutzen:** Schilde, Münzmagnete, Boosts und Co. sparst du am besten für schwierige Streckenabschnitte.
+3.  **Hindernisse vorlesen:** Achte früh auf Kurven, Abgründe, Bäume und Fallen, damit du rechtzeitig springen, rutschen oder abbiegen kannst.
+4.  **Edelsteine sichern:** Edelsteine helfen dir beim Revive oder beim Freischalten von Extras – nimm sie mit, wenn du nicht direkt gefährdet bist.
+5.  **Missionen erledigen:** Tägliche Aufgaben bringen zusätzliche Belohnungen und Erfahrung.
+
+### Steuerung
+
+(typische Mobile‑Steuerung; im Browser entsprechend umgesetzt)
+
+- **Links/rechts abbiegen:** Wischen nach links/rechts
+- **Springen:** Wischen nach oben
+- **Rutschen:** Wischen nach unten
+- **Neigen:** In manchen Versionen kippt man das Gerät, um Münzreihen besser zu treffen
+
+### Häufige Fragen
 
 
+- **Q: How can I get more coins?**
+**Wie komme ich an mehr Münzen?**  
+
+- **Q: What are the differences between characters?**
+Durch längere Runs, Missionsbelohnungen, Münzmagnet‑Power‑ups und ggf. Erfolge/Events.
 
 
-### Game Introduction
+- **Q: How do I get power-ups?**
+**Worin unterscheiden sich die Charaktere?**  
 
-"Temple Run 2" is an endless running adventure game where players navigate treacherous temple paths, collecting coins and power-ups while avoiding obstacles and the pursuing demon monkeys. The game unfolds in stunning environments, offering richer gameplay experience and visual effects than its predecessor.
+- **Q: Does the game have an ending?**
+Sie haben meist eigene Looks und teilweise unterschiedliche Start‑ oder Spezialfähigkeiten, die du im Laufe des Spiels freischaltest.
 
-### Gameplay Strategy
-
-1.  **[DE]** **Collect Coins**: Prioritize collecting coins on the path to upgrade characters and purchase power-ups.
-2.  **[DE]** **Power-up Usage**: Use shields, magnets, speed boosts, and other power-ups wisely to improve survival.
-3.  **[DE]** **Obstacle Prediction**: Observe obstacles ahead and react timely with jumps, slides, or turns.
-4.  **[DE]** **Gem Collection**: Collect special gems to unlock new characters and upgrade abilities.
-5.  **[DE]** **Mission Completion**: Complete daily missions to earn extra rewards and experience.
-
-### How to Play
-
-*   **[DE]** **Left/Right Swipe**: Swipe left or right on screen to turn.
-*   **[DE]** **Swipe Up to Jump**: Swipe up to jump over obstacles.
-*   **[DE]** **Swipe Down to Slide**: Swipe down to slide under low obstacles.
-*   **[DE]** **Tilt Control**: Tilt device to collect more coins (in some versions).
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How can I get more coins?**
-**A**: By completing missions, using magnet power-ups, unlocking achievements, and watching ads (if available).
-2.  **[DE]** **Q: What are the differences between characters?**
-**A**: Each character typically has unique appearance and starting abilities, unlockable through game progression.
-3.  **[DE]** **Q: How do I get power-ups?**
-**A**: By collecting them in-game, purchasing with coins, or completing specific missions.
-4.  **[DE]** **Q: Does the game have an ending?**
-**A**: This is an endless runner game that can theoretically continue indefinitely; the challenge is to run as far as possible.
+**Gibt es ein richtiges Ende?**  
+Nein, Temple Run 2 ist als Endlos‑Runner gedacht – die Herausforderung besteht darin, immer weiter zu laufen und neue Rekorde aufzustellen.

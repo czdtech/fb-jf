@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: word-pics
-title: '[KO] Word Pics'
+title: Word Pics 워드 픽스
 description: >-
-  [KO] Guess the word that connects the two pictures in Word Pics, a fun and
-  addictive word puzzle game.
+  두 장의 사진에 공통으로 숨어 있는 단어를 맞히는 퍼즐 게임입니다. 이미지를 꼼꼼히 살펴 공통점을 찾아내고, 그를 하나의 영어 단어나
+  표현으로 떠올려 보세요.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/word-pics.jpg
 tags:
@@ -16,28 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Word Pics는 두 장의 사진을 단서로, 그 둘을 이어 주는 공통 단어 혹은 짧은 구를 맞히는 단어 퍼즐
+게임입니다. 사진 한 장만 보고는 떠오르지 않던 단어도, 두 장을 함께 보면 공통된 의미가 드러나며
+"아하" 하는 깨달음을 주는 것이 특징입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Word Pics is a word puzzle game where players guess a single word or phrase based on two picture clues. The game is designed to be fun, addictive, and a great way to enhance your vocabulary.
+1.  **사진의 공통된 키워드 찾기**: 각 사진에서 떠오르는 단어를 각각 생각해 본 뒤, 그 둘의 공통분모가
+    무엇인지 떠올려 보세요. 예를 들어, 바다와 얼음 사진이 함께 나오면 "cold"나 "water" 같은 단어를
+    떠올릴 수 있습니다.
+2.  **직접적인 사물보다 추상적인 개념도 고려하기**: 꼭 사진 속 물체 이름이 정답인 것은 아닙니다.
+    분위기, 감정, 색깔, 계절처럼 보다 추상적인 개념이 답이 되는 경우도 많습니다.
+3.  **힌트 기능 활용하기**: 막혔을 때는 글자 수를 줄여 주거나, 일부 글자를 보여 주는 힌트를 사용할
+    수 있습니다. 특히 마지막 몇 글자만 모를 때 효과적입니다.
+4.  **게임 모드 이해하기**: 일부 버전에서는 사진이 잠시 뒤사라지는 고난이도 모드나, 다른 플레이어와
+    동시에 문제를 푸는 멀티플레이 모드가 존재할 수 있습니다. 자신의 실력에 맞는 모드를 선택해
+    플레이해 보세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Analyze the Pictures:** Look at both pictures and try to find a common theme or word that connects them.
-2.  **[KO]** **Guess the Word:** Type in the word that you think connects the two images.
-3.  **[KO]** **Use Hints:** If you're stuck, you can use hints. Hints can reduce the number of letters, reveal a letter, or even swap one of the images for a new one.
-4.  **[KO]** **Game Modes:** The game offers different modes, including a classic mode, an expert mode with disappearing pictures, and a multiplayer mode to challenge other players.
+*   **키보드 입력**: 정답으로 생각되는 단어를 키보드로 입력합니다.
+*   **마우스/터치**: 메뉴 선택, 힌트 사용, 모드 변경 등에 사용됩니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Keyboard:** Use the keyboard to type in the letters of the word.
-*   **[KO]** **Mouse/Touch:** Use the mouse or touch screen to interact with the game's menus and hints.
+*   **Q. 단어가 전혀 떠오르지 않을 때는 어떻게 하나요?**  
+    **A:** 우선 각각의 사진을 별개로 바라보고, 떠오르는 단어를 여러 개 적어 본 뒤 그중 공통되는
+    개념이 있는지 찾아보세요. 그래도 어렵다면 힌트를 사용해 글자 수나 일부 철자를 확인해 보세요.
 
-### Frequently Asked Questions (FAQ)
+    - **Q. 난이도가 점점 어려워지나요?**  
 
-*   **[KO]** **Q: What if I can't guess the word?**
-    *   **[KO]** **A:** You can use the in-game hints to help you. You can also earn coins by passing levels to buy more hints.
-*   **[KO]** **Q: Are there different difficulty levels?**
-    *   **[KO]** **A:** The game has different modes, including an expert mode for a greater challenge. The puzzles also get progressively more difficult as you advance.
+- **A:** The game has different modes, including an expert mode for a greater challenge. The puzzles also get progressively more difficult as you advance.
 
+    - **Q: Are there different difficulty levels?**
+    **A:** 네, 초반에는 직관적인 연결이 많지만, 뒤로 갈수록 추상적인 연관이나 언어 유희에 가까운
+    문제들이 등장해 난이도가 올라갑니다.

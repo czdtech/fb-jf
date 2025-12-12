@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: text-twist-2
-title: '[KO] Text Twist 2'
+title: Text Twist 2 텍스트 트위스트 2
 description: >-
-  [KO] Dive into an expanded word challenge with Text Twist 2! This sequel to
-  the popular word puzzle game offers new modes like Untimed and Crossword, a
-  broader dictionary, and enhanced visuals. Unscramble letters, find the 'Bingo
-  word' to advance and test your vocabulary in this addictive brain-teaser.
+  Text Twist 2는 인기 단어 퍼즐 게임의 후속작으로, Untimed·Crossword 등 새로운 모드와 확장된 사전, 향상된 그래픽을
+  제공하는 작품입니다. 뒤섞인 알파벳을 풀어 최대한 많은 단어를 찾고, 모든 글자를 사용하는 '빙고 단어'를 맞혀 다음 라운드로 나아가
+  보세요.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref=
 thumbnail: /new-images/text-twist-2.jpg
@@ -20,40 +19,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Text Twist 2 is the highly anticipated sequel to the popular word puzzle game, offering an enhanced experience with new features and game modes. Players are still challenged to unscramble a set of jumbled letters to form as many words as possible, but with added flexibility and variety. It's a perfect game for vocabulary enthusiasts and those looking for a mental workout.
+*Text Twist 2*는 인기 단어 퍼즐 게임의 정식 후속작으로, 기존의 글자 재배열 규칙은
+그대로 유지하면서도 다양한 신규 모드와 확장된 단어 사전을 더해 한층 풍부한
+경험을 제공합니다. 플레이어는 여전히 주어진 알파벳 조합에서 가능한 한 많은 단어를
+찾아야 하며, 특히 모든 글자를 사용하는 "빙고 단어"를 찾아야 다음 라운드로 진행할
+수 있는 모드가 핵심입니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-The core gameplay remains the same: form words from a given set of letters.
-- **Objective:** Find words of three letters or more, and crucially, find the "Bingo word" (a word using all letters) to advance.
-- **New Modes:** Text Twist 2 introduces several new modes, including:
-    -   **Untimed Mode:** Play at your own pace without a clock.
-    -   **Lightning Mode:** Find the Bingo word as fast as possible.
-    -   **Crossword Mode:** Fill in a crossword puzzle using the given letters.
-    -   **Daily Word:** A new challenge each day.
-- **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
-- **"Twist" Feature:** The classic "Twist" button is still available to shuffle letters and spark new ideas.
+기본 규칙은 이전과 동일합니다. 주어진 글자 세트로 만들 수 있는 단어를 최대한 많이
+찾는 것이 목표입니다.
+- **목표:** 최소 3글자 이상의 단어를 찾아 입력하고, 모든 글자를 사용하는 "빙고 단어"
+  를 찾아야 라운드 클리어가 가능합니다.
+- **새로운 모드:** Text Twist 2에는 여러 신규 모드가 추가되었습니다.
+    - **Untimed 모드:** 시간 제한 없이 여유롭게 단어를 찾을 수 있는 모드입니다.
+    - **Lightning 모드:** 가능한 한 빨리 빙고 단어를 찾아야 하는 스피드 모드입니다.
+    - **Crossword 모드:** 주어진 글자를 활용해 십자말풀이 형태의 퍼즐을 채워 넣는
+    변형 모드입니다.
+    - **Daily Word:** 매일 새로운 단어 세트를 제공하는 데일리 도전 모드입니다.
+- **확장된 사전:** 더 많은 단어가 등록된 사전을 사용해, 이전보다 훨씬 다양한
+  조합을 찾을 수 있습니다.
+- **"Twist" 기능:** 글자를 섞어 보는 고전적인 "Twist" 버튼도 그대로 존재해, 막힐 때
+  새로운 패턴을 떠올리는 데 도움이 됩니다.
 
-### Controls Guide
+### 조작 방법
 
-- **Typing:** Use your keyboard to type out words.
-- **Submit Word:** Press `Enter`.
-- **Shuffle Letters:** Click the "Twist" button or press `Spacebar`.
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+- **입력:** 키보드로 단어를 직접 타이핑합니다.
+- **단어 제출:** `Enter` 키를 눌러 단어를 제출합니다.
+- **글자 섞기:** "Twist" 버튼을 클릭하거나 `Spacebar`를 눌러 글자 배열을 섞습니다.
+- **지우기:** "Clear" 버튼을 클릭하거나 `Backspace`로 현재 입력을 지울 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**What are the main improvements in Text Twist 2?**
+**Q: Text Twist 2에서 가장 큰 변화는 무엇인가요?**  
+> 시간 제한 없이 즐기는 Untimed 모드, 확장된 사전, 개선된 그래픽, Crossword·Lightning
+> 같은 신규 모드, 그리고 통계·기록 기능 강화 등이 큰 변화입니다.
 
-Text Twist 2 offers an untimed mode, a larger dictionary, improved graphics, new game modes like Crossword and Lightning, and enhanced statistics tracking.
+**Q: 여전히 "빙고 단어"를 찾아야 하나요?**  
+> 네. 대부분의 기본 모드에서 모든 글자를 사용하는 빙고 단어를 찾아야 다음 라운드로
+> 진출할 수 있습니다.
 
-**Do I still need to find the "Bingo word"?**
-
-Yes, in most standard modes, finding the "Bingo word" (a word using all the letters) is still required to advance to the next round.
-
-**Can I play this game offline?**
-
-Many versions of Text Twist 2 are downloadable and can be played offline, offering entertainment without an internet connection.
-
+**Q: 오프라인에서도 플레이할 수 있나요?**  
+> 일부 버전은 다운로드 후 인터넷 연결 없이도 즐길 수 있으며, 이동 중 가볍게 두뇌
+> 운동을 하기 좋습니다.

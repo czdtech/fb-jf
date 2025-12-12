@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: ant-and-block-puzzle
-title: '[ZH TRANSLATION NEEDED] Ant and block puzzle'
+title: Ant and block puzzle 蚂蚁方块拼图
 description: >-
-  [ZH TRANSLATION NEEDED] Ant and block puzzle is a neat block‑fitter — place
-  shapes, fill rows, and avoid dead zones.
+  《Ant and block
+  puzzle（蚂蚁方块拼图）》是一款清爽的小型方块填充益智游戏，你需要把给定形状巧妙塞进棋盘，完成行和区域的清除，尽量避免把棋盘玩成“死局”。
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
 thumbnail: /new-images/ant-and-block-puzzle.png
 tags:
@@ -15,25 +15,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Ant and block puzzle is a casual shape‑placement challenge. Fit given blocks into a board, complete rows/areas to clear space, and stave off top‑outs with efficient packing.
+*Ant and block puzzle（蚂蚁方块拼图）* 是一款以“摆放方块、避免堆死”为核心的休闲益智游戏。每一回合系统会给出几块不同形状的方块，你需要在棋盘上为它们找到合适的位置，当某一行或某个区域被填满时就会被清除，为后续继续摆放腾出空间。
 
-### Gameplay Strategy & Walkthrough
+玩法看似简单，但如果一开始乱放，很快就会出现各种奇怪的空洞和狭长竖井，导致后面给你的方块怎么放都不合适，最终不得不提前结束。
 
-1.  为L/T形状保留角落。
-2.  留下适合常见小块的灵活间隙。
-3.  不要在没有匹配块的情况下建造高而窄的井。
-4.  优先清除打开棋盘中心的行。
-5.  当放置感觉被迫时，尽早撤消。
+### 游戏策略与攻略
 
-### 控制指南
+1.  **优先处理角落和边缘：** 边角是最容易堆出“奇形怪状”空洞的位置。可以提前预留给 L 形、T 形等转折块，而不要用方方正正的小块把角落彻底封死。
+2.  **为小块预留“备用坑”：** 常见的小方块（如 1×2、2×2）非常适合用来填补碎缝。在布局大块时有意识地留下恰好能塞下小块的空位，避免出现一堆无法利用的单格空洞。
+3.  **避免造出过高、过窄的“井”：** 很深但只有一格宽的竖井，往往只有非常特定形状才能填上——如果游戏里没有这种块，这个井基本就成了永久死区。尽量让空位的宽度保持在可用形状的常见宽度范围内。
+4.  **优先清理能打开中间空间的行/列：** 中央区域越空旷，可用的摆放方案就越多。和其相比，边缘有一点堆叠问题通常更容易处理。
+5.  **感觉“不太对劲”时尽早撤销：** 如果当前给出的几个块无论怎么想都只能放到很别扭的位置，不要硬塞，尽可能利用撤销（如果有）回到上一步，重新规划布局。
 
-- Drag to place; rotate if the mode supports it.
-- Undo/Reset via UI.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+- 通过拖拽的方式将下方给出的方块放到棋盘上，部分版本支持旋转方块，可以更灵活地调整方向。
+- 如界面提供撤销或重置按钮，可以在局面变得很难挽回时使用，重新开始或退回几步。
 
-- No fits left—what now? Use undo or restart with a different opening.
-- Rotations? Depends on variant; check the UI.
-- Endless? Many versions are score‑chasing.
+### 常见问题解答（FAQ）
+*   **问：出现“没有任何方块能放下”的情况怎么办？****
+    *   答：** 如果有撤销功能，优先尝试退回几步重新布局；否则只能重新开局，同时在下一盘尽量避免留太多零碎空隙。
+*   **问：方块能不能旋转？****
+    *   答：** 取决于具体版本，有的只能原样摆放，有的可以通过按钮或点击进行旋转。可以留意游戏界面上的提示或按钮说明。
+*   **问：这是无尽模式吗？****
+    *   答：** 多数版本都属于刷分向，只要你还能继续摆放方块，游戏就会一直进行下去，目标是追求更高分数和更长连击。

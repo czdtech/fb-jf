@@ -1,50 +1,42 @@
 ---
+title: "Geometry Dash Wave"
+description: "Geometry Dash Waveでリズムをマスターし、危険なレベルを突き進みましょう！三角形のアイコンを操作し、ワンクリックで斜め上下に移動させます。中毒性のある音楽同期プラットフォーマーで、タップのタイミングを完璧に合わせて障害物を避け、難コースをクリアしましょう。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html"
+thumbnail: "/new-images/geometry-dash-wave.jpg"
+urlstr: "geometry-dash-wave"
+score: "4.8/5  (537 votes)"
+tags: ["rhythm", "platformer", "arcade"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: geometry-dash-wave
-title: '[JA TRANSLATION NEEDED] Geometry Dash Wave'
-description: >-
-  [JA TRANSLATION NEEDED] Master the rhythm and navigate treacherous levels in
-  Geometry Dash Wave! Control a triangular icon that moves diagonally up or down
-  with a single click. Time your taps perfectly to avoid obstacles and complete
-  challenging courses in this addictive, music-synced platformer.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
-thumbnail: /new-images/geometry-dash-wave.jpg
-tags:
-  - rhythm
-  - platformer
-  - arcade
-score: 4.8/5  (537 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Geometry Dash Wave is a challenging, rhythm-based platformer that is a popular mode within the Geometry Dash universe. Players control a triangular icon that continuously moves forward through a hazardous course. The unique "wave" mechanic requires precise timing and rhythm to navigate obstacles by changing the icon's diagonal movement.
+Geometry Dash Waveは、Geometry Dashユニバースの中で人気のある、挑戦的なリズムベースのプラットフォーマーモードです。プレイヤーは危険なコースを絶えず前進する三角形のアイコンを操作します。独自の「ウェーブ」メカニックでは、アイコンの斜め移動を変えることで障害物を回避するため、正確なタイミングとリズムが要求されます。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-- **Wave Mechanic:** Hold down the click/tap to make your icon move diagonally upwards. Release to make it move diagonally downwards. This creates a zigzag path.
-- **Rhythm-Based:** The levels are often synchronized with music, and timing your actions to the beat can help you navigate.
-- **Obstacle Avoidance:** The core challenge is to avoid hitting any of the numerous spikes, walls, and other geometric obstacles.
-- **Gravity Inversion:** Some levels or sections may invert gravity, reversing the wave controls.
+- **ウェーブメカニック:** クリック/タップし続けるとアイコンが斜め上に移動します。離すと斜め下に移動します。これによりジグザグのパスが作成されます。
+- **リズムベース:** レベルは多くの場合音楽と同期しており、ビートに合わせてアクションのタイミングを計ることが攻略の助けになります。
+- **障害物回避:** 核心となる課題は、多数のトゲ、壁、その他の幾何学的な障害物にぶつからないようにすることです。
+- **重力反転:** 一部のレベルやセクションでは重力が反転し、ウェーブの操作が逆になることがあります。
 
-### Controls Guide
+### 操作ガイド
 
-- **PC:** `Spacebar`, `Up Arrow Key`, or `Left Mouse Button` to control the wave.
-- **Mobile:** Tap and hold the screen to control the wave.
+- **PC:** `スペースバー`、`上矢印キー`、または`マウスの左ボタン`でウェーブを操作します。
+- **モバイル:** 画面をタップ＆ホールドしてウェーブを操作します。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] **What is the main goal of Geometry Dash Wave?**
+**Geometry Dash Waveの主な目標は何ですか？**
 
-[JA TRANSLATION NEEDED] The main goal is to complete each level by navigating your wave icon through a series of obstacles, reaching the end of the course.
+主な目標は、一連の障害物を通り抜けてウェーブアイコンを操作し、コースの最後まで到達して各レベルをクリアすることです。
 
-[JA TRANSLATION NEEDED] **Is it part of the main Geometry Dash game?**
+**これはメインのGeometry Dashゲームの一部ですか？**
 
-[JA TRANSLATION NEEDED] "Wave" is a specific game mode or a type of level design within the broader Geometry Dash game, often created by players.
+「ウェーブ」は、より広範なGeometry Dashゲーム内の特定のゲームモードまたはレベルデザインの一種で、多くの場合プレイヤーによって作成されています。
 
-[JA TRANSLATION NEEDED] **How can I improve my timing?**
+**どうすればタイミングを改善できますか？**
 
-[JA TRANSLATION NEEDED] Practice is key. Pay attention to the music and the visual cues of the level. Start by playing slower levels to get a feel for the wave mechanic before attempting faster or more complex ones.
-
+練習が重要です。音楽とレベルの視覚的な手がかりに注意を払ってください。速いレベルや複雑なレベルに挑戦する前に、遅いレベルでウェーブの挙動に慣れることから始めましょう。

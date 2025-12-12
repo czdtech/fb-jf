@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: trap-the-cat
-title: '[KO] Trap the Cat'
+title: "Trap the Cat 트랩 더 캣"
 description: >-
-  [KO] Trap the Cat is a strategic puzzle game where players must block a clever
-  cat's escape routes by placing barriers on a hexagonal grid, using logic and
-  planning to prevent the cat from reaching the edge.
+  육각형 격자 위에서 교묘한 고양이의 탈출 경로를 막아 가두는 전략 퍼즐 게임입니다. 한 칸씩
+  장애물을 놓아 고양이가 가장자리까지 도망치지 못하도록 논리적으로 길을 차단해야 합니다.
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/trap-the-cat.jpg
 tags:
@@ -17,34 +16,55 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
+"Trap the Cat"는 육각형 격자로 이루어진 보드 위에서, 영리한 고양이의 도망 경로를 차단해 가두는
+전략 퍼즐 게임입니다. 플레이어는 매 턴마다 빈 칸에 장애물을 하나씩 놓을 수 있고, 고양이는 그 사이로
+최단 경로를 찾아 가장자리로 도망치려 합니다. 한 수 앞, 두 수 앞을 내다보며 어디를 막아야 고양이의
+이동을 점점 좁혀 갈 수 있을지 계산하는 두뇌 싸움이 핵심입니다.
 
+### 플레이 전략
 
-### Game Introduction
+1.  **중앙 장악부터 시작하기**: 처음부터 가장자리를 막으려 하기보다는, 고양이 주변에 장애물을
+    배치해 이동 가능한 범위를 서서히 줄여 나가세요. 중앙에서부터 천천히 고리를 좁혀 오는 방식이
+    성공 확률이 높습니다.
+2.  **탈출 경로 여러 개를 동시에 의식하기**: 고양이는 한 방향만 노리는 것이 아니라, 항상 여러
+    경로 중 가장 유리한 길을 선택합니다. 한 줄만 막는 데 집중하지 말고, 고양이에서 가장자리까지
+    이어질 수 있는 모든 길을 동시에 상상해 보며 공통 분모가 되는 지점을 우선적으로 봉쇄하세요.
+3.  **가장자리 방어선 구축하기**: 어느 정도 고양이의 활동 반경을 줄였다면, 이제는 바깥 라인에
+    끊어진 구간이 남지 않도록 이어지는 장애물 벽을 만드는 것이 중요합니다. 가장자리를 잇는 하나의
+    큰 링을 완성하면, 내부에서 마무리 봉쇄만 하면 됩니다.
+4.  **고양이 이동 방향 예측하기**: 고양이는 일반적으로 가장 짧고 효율적인 경로를 택합니다.
+    현재 배치된 장애물을 기준으로, 고양이가 다음 턴에 어디로 향할지 미리 예상하고 그 앞길을 막는
+    식으로 두면 훨씬 수월하게 가둘 수 있습니다.
+5.  **완전히 닫힌 고리 만들기**: 마지막에는 고양이 주변을 빈틈 없이 둘러싸는 원형 또는 다각형의
+    벽을 만들어야 합니다. 한 칸이라도 비어 있으면 그 틈으로 빠져나가므로, 돌면서 남은 구멍이 없는지
+    다시 확인해 보세요.
 
-"Trap the Cat" is a strategic puzzle game where players must block a clever cat's escape routes by placing barriers on a hexagonal grid, using logic and planning to prevent the cat from reaching the edge. This game tests players' prediction abilities and strategic thinking.
+### 플레이 방법
 
-### Gameplay Strategy
+*   **장애물 놓기**: 빈 육각형 칸을 클릭해 장애물을 설치합니다. 설치된 칸은 더 이상 고양이가
+    지나갈 수 없습니다.
+*   **고양이 이동 관찰**: 플레이어가 한 번 둘 때마다, 고양이는 한 칸씩 가장자리 방향으로 이동합니다.
+    이동 후 생기는 새로운 경로를 계속 관찰해야 합니다.
+*   **재도전**: 고양이가 가장자리에 도달해 탈출에 성공했다면 그 판은 실패이며, 언제든지 새 판을
+    시작해 다른 전략을 시도할 수 있습니다.
 
-1.  **[KO]** **Center Control**: Try to place barriers around the cat first, gradually shrinking its movement area.
-2.  **[KO]** **Path Analysis**: Observe the cat's possible escape routes and prioritize blocking the shortest paths.
-3.  **[KO]** **Edge Defense**: Pay attention to protecting the grid edges to prevent the cat from finding breakthrough points.
-4.  **[KO]** **Predict Movement**: The cat will choose optimal paths; predict its next movement direction.
-5.  **[KO]** **Encirclement Strategy**: Form a complete encirclement without leaving any escape gaps.
+### 자주 묻는 질문(FAQ)
 
-### How to Play
+1.  **Q: 고양이는 어떤 규칙으로 움직이나요?**  
+    **A:** 고양이는 일반적으로 보드의 가장자리까지 가는 최단 경로를 선택하려고 합니다. 단, 장애물
+    배치에 따라 경로가 달라질 수 있으므로, 매 턴 이동 결과를 보면서 패턴을 익히는 것이 좋습니다.
 
-*   **[KO]** **Place Barriers**: Click on hexagonal cells to place obstacles.
-*   **[KO]** **Observe Cat**: Watch the cat's current position and possible movement directions.
-*   **[KO]** **Restart**: If you fail, you can restart the challenge.
+2.  **Q: 시간 제한이 있나요?**  
+    **A:** 보통 턴 제한은 있지만 시간 제한은 없는 경우가 많습니다. 천천히 생각하며 가장 효율적인
+    칸을 선택해 장애물을 놓을 수 있습니다.
 
-### Frequently Asked Questions
+3.  **Q: 장애물 개수에 제한이 있나요?**  
+    **A:** 한 판 안에서 둘 수 있는 턴 수 또는 장애물 수에 제한이 있는 규칙이 일반적입니다. 따라서
+    아무 곳에나 막기보다는, 여러 탈출 경로를 동시에 끊을 수 있는 핵심 지점을 찾는 것이 중요합니다.
 
-1.  **[KO]** **Q: How does the cat move?**
-**A**: The cat intelligently chooses the shortest path to the edge, moving one step per turn.
-2.  **[KO]** **Q: Is there a time limit?**
-**A**: Usually no time limit; you can carefully consider each placement.
-3.  **[KO]** **Q: Is there a limit to the number of obstacles?**
-**A**: Yes, you need to successfully trap the cat within a limited number of moves, adding strategic difficulty.
-4.  **[KO]** **Q: How can I improve success rate?**
-**A**: Practice observing the cat's behavior patterns and learn to predict the most effective blocking positions.
+4.  **Q: 성공률을 높이려면 어떻게 해야 하나요?**  
+    **A:** 고양이의 움직임 패턴을 관찰해 "고양이가 자주 지나가려 하는 길"을 찾아 두고, 게임 초반부터
+    그 주변을 중심으로 봉쇄망을 짜 보세요. 몇 판만 플레이해도 어느 방향이 위험한지 감이 잡히면서
+    성공률이 크게 올라갑니다.

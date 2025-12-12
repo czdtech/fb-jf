@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: confront
-title: '[ES] Confront'
+title: "Confront"
 description: >-
-  [ES] Confront places players in a fast-paced shooting scenario where quick aim
-  and sharp reflexes are crucial.
+  Confront te coloca en un intenso escenario de disparos en el que la puntería
+  rápida y los reflejos afilados son fundamentales.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/confront.jpg
@@ -16,9 +16,16 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+Confront te sitúa en un frenético escenario de disparos donde la rapidez al
+apuntar y la capacidad de reacción lo son todo. El juego incorpora momentos de
+cámara lenta ("bullet time") para que puedas tomar decisiones más calculadas, lo que lo
+diferencia de los juegos de disparos tradicionales. Tendrás que equilibrar intuición y
+precisión a lo largo de entornos llenos de acción mientras afinas tu puntería en
+retos que cambian constantemente.
 
+### Cómo jugar
 
-Confront places players in a fast-paced shooting scenario where quick aim and sharp reflexes are crucial. Employ bullet-time for more calculated actions, setting this title apart from typical shooters. Balance intuition and precision across varied, action-filled environments as you hone your accuracy in rapidly evolving challenges.
-
-### How to Play
-Use your mouse to guide the character. Click to both slow down time and fire at enemies. Advance by defeating all opponents. Adapt quickly and aim carefully. A tip: prioritizing headshots can speed up success.
+Usa el ratón para guiar al personaje. Haz clic para ralentizar el tiempo y, al
+mismo tiempo, disparar a los enemigos. Avanza eliminando a todos los oponentes
+que encuentres. Adáptate rápido y apunta con cuidado. Un consejo: priorizar los
+impactos a la cabeza puede acelerar mucho tus victorias.

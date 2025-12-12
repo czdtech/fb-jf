@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: quiz-x
-title: '[ZH TRANSLATION NEEDED] Quiz x'
-description: >-
-  [ZH TRANSLATION NEEDED] Quiz x is a fast quiz show — read prompts, think
-  broadly, and pick best‑fit answers under light time pressure.
+title: 《Quiz x》快节奏知识问答
+description: 《Quiz x》是一款节奏紧凑的知识问答游戏。阅读题目提示，在轻微时间压力下快速思考、排除干扰选项，并选出最合适的答案，通过连续答对累积得分加成。
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/quiz-x.png
 tags:
@@ -16,33 +14,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+《Quiz x》会以快问快答的形式向你抛出各种题目，涵盖常识、图片识别和简单逻辑推理等多个类别。评分机制同时看重“正确率”和“答题速度”，连续答对可以触发连击加成，让每一题的得分更高。相比死记硬背，广泛的常识储备与良好的排除法思维，会比对单一领域的深度研究更有优势。
 
-[ZH TRANSLATION NEEDED] Quiz x presents rapid‑fire questions across general knowledge, pictures, and simple logic. Scoring favors speed and correctness; streaks yield bonuses. Broad thinking and elimination beat over‑specialization.
+### 游玩策略与通关指引
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Eliminate: Remove obviously wrong options before committing.
-2.  [ZH TRANSLATION NEEDED] Category scan: Identify topic fast to recall relevant facts.
-3.  [ZH TRANSLATION NEEDED] Streak management: Answer confidently to keep multipliers; skip if unsure (if allowed).
-4.  [ZH TRANSLATION NEEDED] Time buffer: Don’t spend the entire timer on one tough question.
-5.  [ZH TRANSLATION NEEDED] Image prompts: Focus on distinctive features (flags, landmarks, animals).
+1.  **先排除再选择：** 优先剔除明显错误的选项，在剩下的选择里挑最合理的答案，即便不完全确定，也能大幅提高猜中的概率。
+2.  **快速判断题目类型：** 开局先快速扫一眼题目是常识题、图像题还是逻辑题，有助于你立刻调动对应的知识和思考方式。
+3.  **管理连击：** 连续答对会带来额外得分加成。对有把握的题目果断作答，对特别不确定的题目（若游戏允许跳过），可以选择保连击而非硬猜。
+4.  **合理利用时间：** 不要把全部时间都耗在一道难题上。适当放弃个别题目，整体节奏才会更舒服，得分也更稳定。
+5.  **图像题抓住关键特征：** 面对旗帜、地标、动物等图像题时，多留意颜色搭配、轮廓形状以及独特标志，这些往往是最快的识别线索。
 
-### Controls Guide
+### 操作说明
 
-- Click to choose answers; some variants allow keyboard shortcuts; pause between rounds if offered.
+- 使用鼠标点击或轻触选择答案；部分版本支持键盘快捷键。每轮之间通常会有短暂间隔，方便你调整状态。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题解答（FAQ）
+*   **问：遇到很难的题目就会大脑一片空白，怎么办？****
 
-- Q: I freeze on tough questions.
-  
-[ZH TRANSLATION NEEDED]   A: Use elimination and pick the most plausible; preserve streaks by skipping when permissible.
+A: Use elimination and pick the most plausible; preserve streaks by skipping when permissible.
+- 答：** 先用排除法把明显不可能的选项划掉，再从剩下的选出最靠谱的一个。如果游戏支持跳题功能，可以适当跳过，优先保护连击。
 
-- Q: Picture questions stump me.
-  
-[ZH TRANSLATION NEEDED]   A: Learn common flags and landmarks; look for unique colors/shapes.
+A: Learn common flags and landmarks; look for unique colors/shapes.
+*   **问：图片题总是做不好，有什么技巧？****
 
-- Q: Multiplayer?
-  
-[ZH TRANSLATION NEEDED]   A: Some builds offer head‑to‑head; read lobby rules.
-
+A: Some builds offer head‑to‑head; read lobby rules.
+    *   答：** 可以刻意记一些常见国旗、知名地标和典型动物的特征，例如颜色组合、图案位置或轮廓形状。答题时先看这些明显特征，再结合选项进行匹配。
+*   **问：有多人或对战模式吗？****
+    *   答：** 部分版本提供实时对战或排位玩法，进入房间前建议先阅读房间规则和说明，确认计分方式和特殊机制再开打。

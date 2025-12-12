@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: basket-champ
-title: '[DE] Basket Champ'
+title: "Basket Champ"
 description: >-
-  [DE] Basket Champ is a one‑touch hoop challenge — set arc, swish clean, and
-  string perfect shots.
+  Basket Champ ist eine Ein‑Tasten‑Korbjagd. Stelle Bogen und Stärke deiner
+  Würfe ein, triff saubere Swishes und halte deine Treffer‑Serie am Laufen.
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/basket-champ.png
 tags:
@@ -16,28 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Basket Champ ist ein minimalistisches Basketball‑Timing‑Spiel. Mit nur einem
+Klick bestimmst du Flugbahn und Schusskraft, um den Ball durch statische oder
+bewegliche Körbe zu schicken. Hindernisse, wechselnde Korbpositionen und enge
+Zeitfenster sorgen dafür, dass präzises Timing und Rhythmus wichtiger sind als
+komplexe Steuerung.
 
-### Detailed Game Introduction
+### Strategie & Walkthrough
 
-Basket Champ is a minimal basketball timing game. Tap to set arc and power, thread shots through moving hoops or obstacles, and maintain streaks for big scores.
+1.  **Über den Ring zielen:** Peile leicht über die Korbmitte, damit der Ball
+    in einem weichen Bogen von oben fällt, statt flach an den Ring zu prallen.
+2.  **Bewegliche Körbe lesen:** Beobachte zunächst ein bis zwei Zyklen der
+    Bewegung. Schieße dann immer in derselben Phase (z. B. am höchsten oder
+    tiefsten Punkt).
+3.  **Rhythmus wiederfinden:** Nach einem Fehlwurf kurz durchatmen und dein
+    Timing neu setzen, statt hektisch schnell hintereinander zu werfen.
+4.  **Risiko‑Münzen abwägen:** Münzen oder Bonusziele lohnen sich nur, wenn sie
+    in der natürlichen Flugbahn deines Standardwurfs liegen. Erzwinge keine
+    wilden Winkel und gefährde nicht deine Serie.
+5.  **Muster üben:** Viele Levelvarianten kehren wieder. Wenn du dir
+    bestimmte Hindernis‑Layouts merkst, kannst du sie beim nächsten Mal viel
+    konstanter treffen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Aim above rim center for soft drops.
-2.  **[DE]** Time moving hoops—shoot at consistent cycle points.
-3.  **[DE]** Recover after misses: reset rhythm before next attempt.
-4.  **[DE]** Ignore risky coins when alignment is poor.
-5.  **[DE]** Use practice to nail specific obstacle patterns.
+- **Schuss auslösen:** Tippe oder klicke, halte ggf. kurz für Kraftaufbau und
+  lasse los, um den Ball in Richtung Korb zu schicken.
+- **Pause/Neustart:** Über die UI‑Buttons kannst du das Spiel pausieren oder
+  eine Runde von vorn beginnen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Tap/Click to set power/arc and release.
-- Pause/Retry via UI.
+- **Meine Würfe springen ständig wieder aus dem Korb – was tun?**  
+  Erhöhe den Bogen und reduziere leicht die Schusskraft. Ein hoher, weicher
+  Wurf fällt stabiler in den Ring.
 
-### Frequently Asked Questions (FAQ)
+- **Ist das Spiel endlos?**  
+  In vielen Versionen spielst du im Endlos‑Modus und jagst deinen persönlichen
+  Serien‑ oder Punkterekord.
 
-- Shots bounce out—fix? More arc and less power.
-- Endless? Typically yes—chase streak records.
-- Wind? Adjust for any side forces if present.
-
+- **Beeinflusst Wind die Flugbahn?**  
+  Wenn eine Windanzeige vorhanden ist, ziele leicht gegen die Windrichtung und
+  passe den Bogen an, bis sich ein zuverlässiges Standard‑Setup ergibt.

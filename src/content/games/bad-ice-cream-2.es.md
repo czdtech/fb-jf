@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bad-ice-cream-2
-title: '[ES] Bad Ice Cream 2'
+title: "Bad Ice-Cream 2 laberintos helados con puzles"
 description: >-
-  [ES] Master the frosty mazes of Bad Ice-Cream 2. Learn winning strategies,
-  controls, and tips to collect all the fruit while freezing and smashing your
-  enemies.
+  Bad Ice-Cream 2 es un encantador arcade de puzles en pixel art. Controla a un
+  helado viviente, crea y rompe muros de hielo, esquiva enemigos y recoge toda
+  la fruta antes de que se agote el tiempo.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/bad-ice-cream-2.jpg
@@ -15,63 +15,63 @@ tags:
 score: 3.9/5  (1035 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
+ 
 
+### Introducción detallada
 
+*Bad Ice-Cream 2* es un simpático arcade de puzles en 2D con estética pixel‑art. Controlas a un cucurucho de helado viviente que recorre laberintos helados para recoger todas las piezas de fruta del mapa.
 
+La mecánica estrella es tu capacidad para **crear o destruir filas de bloques de hielo**. Gracias a ella bloqueas a los enemigos, abres caminos seguros o los atrapas en pasillos. Cada nivel introduce monstruos con patrones de movimiento diferentes y, si te tocan, pierdes una vida. Puedes jugar en solitario o en cooperativo local a dos jugadores en el mismo teclado; la meta es simple: recoger toda la fruta antes de que el temporizador llegue a cero.
 
+### Estrategia de juego y recorrido
 
-### Detailed Game Introduction
+Para tener éxito en *Bad Ice-Cream 2* necesitas reflejos rápidos y, al mismo tiempo, pensar como en un puzle.
 
-*Bad Ice-Cream 2* is a charming 2D pixel-art arcade puzzle game. Players control a sentient cone of ice cream whose objective is to navigate through a series of icy, maze-like levels to collect all the scattered pieces of fruit.
+#### 1. El muro de hielo es tu mejor aliado
 
-The game's signature mechanic is the character's ability to create or destroy rows of ice blocks. This serves as the primary tool for both offense and defense. Players must strategically use these ice walls to block off patrolling enemies, create safe pathways to the fruit, or trap monsters. Various types of enemies populate the levels, each with different movement patterns. If an enemy touches the player's ice cream character, a life is lost. The game can be played solo or with a second player in a cooperative mode on the same keyboard, adding a layer of teamwork and potential chaos. The goal of each level is simple: collect all the fruit before the timer runs out, without getting caught.
+*   **Defensa:** Levanta barreras entre tú y los enemigos; si uno se acerca, coloca rápidamente una pared en su camino.  
+*   **Ataque (trampas):** No puedes matar enemigos directamente, pero sí atraparlos sellando un pasillo por ambos extremos para dejar la zona segura temporalmente.  
+*   **Apertura de caminos:** Rompe bloques de hielo cuando necesites llegar a la fruta, cuidando de no liberar a enemigos que ya tuvieras encerrados.
 
-### Gameplay Strategy & Walkthrough
+#### 2. Planifica la ruta
 
-Success in *Bad Ice-Cream 2* is a mix of quick reflexes and clever puzzle-solving.
+Antes de lanzarte a correr, echa un vistazo al mapa: localiza las frutas y los puntos de partida de los enemigos. Recoge la fruta por zonas; limpiar una sección entera antes de pasar a la siguiente es mucho más eficiente que cruzar el nivel sin orden.
 
-#### 1. The Ice Wall is Your Best Tool
-*   **Defense:** Your most common use of the ice wall is to create barriers between you and enemies. If an enemy is approaching, quickly build a wall to block its path.
-*   **Offense (Trapping):** You can't directly kill enemies, but you can trap them. Lure an enemy into a corridor and then seal both ends with ice walls. This temporarily removes them as a threat, allowing you to collect fruit freely in that area.
-*   **Pathfinding:** Sometimes, you need to destroy ice blocks to open up a path to the fruit. Plan your destruction so you don't accidentally free a trapped enemy.
+#### 3. Aprende los patrones de los enemigos
 
-#### 2. Plan Your Route
-Before you start moving, take a second to look at the layout of the fruit and the starting positions of the enemies. Try to collect fruit in clusters. It's more efficient to clear one section of the map before moving to the next, rather than dashing all over the place.
+Los enemigos no se mueven al azar; siguen rutas previsibles. Obsérvalos unos segundos para entender su comportamiento: algunos van y vienen, otros te persiguen. Usa esa información para anticipar dónde estarán y planear tus movimientos.
 
-#### 3. Understand Enemy Patterns
-Enemies in this game are not random. They follow predictable paths. Watch them for a few moments to understand their behavior. Some just move back and forth, while others might actively chase you. Use this knowledge to predict where they will be and plan your moves accordingly.
+#### 4. Velocidad vs. seguridad
 
-#### 4. Speed vs. Safety
-There's a timer, so you can't be too slow. However, rushing recklessly will get you caught. Find a balance. Create small, safe "forts" with your ice walls, collect the nearby fruit, then break out and move to the next section.
+Hay un temporizador, así que no puedes ir demasiado despacio, pero precipitarte te costará vidas. Busca un equilibrio: crea pequeños “refugios” de hielo, despeja la zona y luego rompe una salida para avanzar al siguiente sector.
 
-#### 5. Cooperative Strategy (2-Player Mode)
-*   **Divide and Conquer:** The most effective strategy is to split the map. One player can work on one side while the other works on the opposite.
-*   **Communicate:** Talk to your partner! Tell them if you're about to trap an enemy or break a wall. The biggest risk in 2-player mode is accidentally trapping your teammate.
-*   **Bait and Switch:** One player can act as a decoy to lure enemies away, while the other player safely collects the fruit.
+#### 5. Estrategia cooperativa (modo 2 jugadores)
 
-### Controls Guide
+*   **Dividir y conquistar:** Repartíos el mapa para cubrirlo antes.  
+*   **Comunicación constante:** Avisad antes de atrapar enemigos o romper muros para no encerrar por error a tu compañero.  
+*   **Cebo y recolector:** Uno puede actuar de señuelo mientras el otro aprovecha para recoger fruta con seguridad.
 
-The game uses a shared keyboard for both single-player and two-player modes.
+### Guía de controles
 
-*   **Player 1:**
-    *   **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
-    *   **Create/Destroy Ice:** `Spacebar`
+El juego se controla con un teclado compartido, tanto en modo 1 jugador como en cooperativo.
 
-*   **Player 2:**
-    *   **Move:** `W`, `A`, `S`, `D` Keys
-    *   **Create/Destroy Ice:** `F` Key
+*   **Jugador 1:**
+    *   **Moverse:** Flechas (`↑`, `↓`, `←`, `→`)
+    *   **Crear/Destruir hielo:** `Barra espaciadora`
+*   **Jugador 2:**
+    *   **Moverse:** Teclas `W`, `A`, `S`, `D`
+    *   **Crear/Destruir hielo:** Tecla `F`
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
-*   **Q: Can I kill the enemies in the game?**
-    *   **A:** No, you cannot permanently kill or destroy the enemies. The only way to deal with them is to avoid them or temporarily trap them using your ice block ability.
+*   **P: ¿Puedo matar a los enemigos?**
+    *   **R:** No puedes eliminarlos de forma permanente; solo evitarlos o atraparlos temporalmente con tus muros de hielo.
 
-*   **Q: What happens if the timer runs out?**
-    *   **A:** If the timer at the top of the screen reaches zero before you have collected all the fruit, you will lose a life and have to restart the level.
+*   **P: ¿Qué pasa si se acaba el tiempo?**
+    *   **R:** Si el temporizador llega a cero antes de que recojas toda la fruta, perderás una vida y tendrás que repetir el nivel.
 
-*   **Q: Is there a difference between the fruit types?**
-    *   **A:** No, in terms of gameplay, all fruits are the same. Your goal is simply to collect all of them, regardless of their appearance (bananas, cherries, grapes, etc.). The variety is purely cosmetic for each level's theme.
+*   **P: ¿Las distintas frutas hacen algo diferente?**
+    *   **R:** No, jugablemente todas las frutas son iguales. Tu meta es recogerlas todas sin importar su aspecto.
 
-*   **Q: How does the 2-player mode work? Do we have separate lives?**
-    *   **A:** You play cooperatively on the same screen. Typically, players share a pool of lives, meaning if either player gets caught by an enemy, one life is deducted from the total. Your goal is to work together to clear the level.
-
+*   **P: En 2 jugadores, ¿tenemos vidas separadas?**
+    *   **R:** Normalmente compartís un mismo contador de vidas. Si cualquiera de los dos es alcanzado, se resta una vida del total, así que colaborad para protegerse mutuamente.

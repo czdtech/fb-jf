@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: retro-bowl
-title: '[DE] Retro Bowl'
+title: "Retro Bowl"
 description: >-
-  [DE] Retro Bowl is a nostalgic American football game with retro 8-bit
-  graphics where players manage and play as a football team, calling plays,
-  throwing passes, and leading their team to championship glory.
+  Retro Bowl ist ein nostalgisches American-Football-Spiel im 8-Bit-Look, in
+  dem du als Coach und Quarterback dein Team managst, Spielzüge callst, Pässe
+  wirfst und deine Mannschaft zum Meistertitel führst.
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/retro-bowl.jpg
 tags:
@@ -17,35 +17,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Retro Bowl" kombiniert Teammanagement mit Arcade-Football. Du agierst sowohl
+ als Trainer, der Kader und Taktik bestimmt, als auch als Quarterback auf dem
+ Feld, der Pässe wirft und Drives zum Touchdown führt. Der Retro-8‑Bit-Stil
+ erinnert an klassische Football-Games, bietet aber zugleich moderne
+ Komfortfunktionen.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Passspiel beherrschen:** Lerne, Würfe präzise zu platzieren. Achte auf
+    die Laufwege deiner Receiver und wirf nicht direkt in dichte
+    Verteidigungszonen.
+2.  **Kader managen:** Verwalte dein Gehaltsbudget sinnvoll. Verteile Ressourcen
+    zwischen Starspielern und soliden Rollenspielern und halte die Mannschaft
+    langfristig konkurrenzfähig.
+3.  **Spielzüge anpassen:** Wähle je nach Spielsituation passende Offense-Plays
+    – kurze Pässe bei sicherem Raumgewinn, tiefe Bälle, wenn du schnell
+    aufholen musst, und Laufspiel, um Zeit von der Uhr zu nehmen.
+4.  **Timing als QB:** Im Quarterback-Modus ist das Timing entscheidend. Warte
+    den Moment ab, in dem der Receiver frei wird, und wirf rechtzeitig, bevor
+    der Druck der Defense durchbricht.
+5.  **Saison planen:** Setze auf langfristigen Aufbau: Rookie-Talente fördern,
+    Verletzungen einkalkulieren und für Playoff-Läufe gezielt Verstärkungen
+    holen.
 
-"Retro Bowl" is a nostalgic American football game with retro 8-bit graphics where players act as both coach and quarterback, managing the team and controlling gameplay through play-calling, passing, and leading the team to championship glory. The game combines team management with real-time game control, providing players with a complete football experience.
+### Steuerung
 
-### Gameplay Strategy
+*   **Pässe:** Ziehe mit der Maus oder dem Finger, um auf einen Receiver zu
+    zielen, und lasse los, um zu werfen.
+*   **Laufspiel:** Steuere den Quarterback nach vorn und suche Lücken in der
+    Defense, wenn kein guter Pass möglich ist.
+*   **Teamverwaltung:** Im Menü regelst du Verträge, Trades und die
+    Aufstellung.
+*   **Play-Calling:** Vor jedem Down wählst du einen Spielzug aus
+    (Pass-/Laufspiel, Defense-Varianten je nach Version).
 
-1.  **[DE]** **Master Passing Skills**: Learn to accurately pass to receivers, observe defensive positions to choose the best passing moments.
-2.  **[DE]** **Team Management**: Allocate salary budget wisely, sign and trade players to build a strong roster.
-3.  **[DE]** **Tactical Choices**: Choose appropriate offensive tactics based on field situations, including passing and rushing plays.
-4.  **[DE]** **Timing Mastery**: In quarterback mode, master the optimal timing for passing and running.
-5.  **[DE]** **Season Planning**: Develop long-term team development strategies, nurture young players, and compete for playoff spots.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Passing**: Drag to aim at receivers, release finger to pass.
-*   **[DE]** **Rushing**: Control the quarterback to run forward, looking for gaps to break through.
-*   **[DE]** **Team Management**: Manage player contracts, trades, and roster settings in the menu.
-*   **[DE]** **Tactical Selection**: Choose different offensive and defensive tactics during games.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How can I improve passing accuracy?**
-**A**: Practice aiming more, pay attention to receivers' running routes, and avoid being intercepted by defenders.
-2.  **[DE]** **Q: How do I manage team salary?**
-**A**: Balance salaries between star players and role players, ensuring a competitive roster within the salary cap.
-3.  **[DE]** **Q: Are there playoffs in the game?**
-**A**: Yes, well-performing teams can enter the playoffs, with the ultimate goal of winning the Retro Bowl championship.
-4.  **[DE]** **Q: Can players get injured?**
-**A**: Players may get injured during games, affecting their performance, requiring proper rotation and player management.
+1.  **F: Wie verbessere ich meine Passgenauigkeit?**
+    **A:** Übe Zielgenauigkeit, lies die Defense (z. B. Zonen vs Man Coverage)
+    und wirf früh genug, damit der Receiver in den Ball läuft, statt zu warten.
+2.  **F: Wie gehe ich mit dem Salary Cap um?**
+    **A:** Höchstgehälter nur für Schlüsselpositionen. Ergänze den Kader mit
+    günstigen Rollenspielern, damit du finanziell flexibel bleibst.
+3.  **F: Gibt es Playoffs?**
+    **A:** Ja, erfolgreiche Teams qualifizieren sich für die Postseason – das
+    Ziel ist der Gewinn des Retro Bowl.
+4.  **F: Können sich Spieler verletzen?**
+    **A:** Ja, Verletzungen beeinflussen Leistung und Verfügbarkeit. Plane
+    genügend Tiefe im Kader ein und rotiere angeschlagene Spieler rechtzeitig.

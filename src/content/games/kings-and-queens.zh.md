@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: kings-and-queens
-title: '[ZH TRANSLATION NEEDED] Kings and Queens'
-description: >-
-  [ZH TRANSLATION NEEDED] Kings and Queens is a regal match‑3 adventure — clear
-  obstacles, unlock boosters, and restore royal halls with clever planning.
+title: "《Kings and Queens》国王与王后消消乐"
+description: "《Kings and Queens》是一款带城堡翻新故事线的三消游戏，你要清理障碍、解锁增益道具，用精心规划一点点修复皇室大厅。"
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/kings-and-queens.png
 tags:
@@ -17,32 +15,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Kings and Queens wraps a castle‑restoration story around classic match‑3. Each chapter introduces new blockers (chains, marble slabs, fog) and scene goals (collect crowns, break seals). You spend earned stars to renovate rooms, unlocking boosters for harder boards.
+《Kings and Queens》在传统三消玩法外套了一层“修复城堡”的剧情。每一章节都会引入新的障碍物（如锁链、大理石板、迷雾）以及对应的新目标，例如收集王冠、打碎封印等。通过通关获得星星，你可以用来翻新房间、解锁增强道具，为后面更棘手的关卡做准备。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Board control: Clear central blockers first to open space for combos.
-2.  [ZH TRANSLATION NEEDED] Booster timing: Save hammers/rockets for late‑board choke points.
-3.  [ZH TRANSLATION NEEDED] Combo planning: Merge power‑ups (bomb+line/color clears) right before tight goals.
-4.  [ZH TRANSLATION NEEDED] Star economy: Spend on boosters that directly help your current hurdle.
-5.  [ZH TRANSLATION NEEDED] Move math: Count remaining blockers vs moves and play for the objective, not points.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **先控棋盘，再谈高分**：开局优先清理棋盘中央的障碍物，为后续制造连锁和组合道具腾出空间，比一味在边角做小消除更有效。  
+2.  **增益道具要用在刀刃上**：锤子、火箭等道具尽量留到后半盘，尤其是关键位置被厚障碍堵住时再用，避免前期浪费。  
+3.  **规划组合技时机**：在接近关卡目标、又只剩少量步数时，提前准备炸弹 + 直线、双直线等强力组合，在最紧要的一两步中一口气清出大量空间。  
+4.  **合理使用星星经济**：优先解锁那些能直接帮助当前难点关卡的增益（如额外道具槽、开局预放炸弹等），再考虑纯装饰性的翻新选项。  
+5.  **步数“算账”意识**：随时留意剩余障碍数与步数的比例，宁可放弃一些高分消除，也要保证每一步都在为“清目标”服务。  
 
-- Drag to swap; tap boosters to use; scene menu to renovate with stars.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 拖动相邻宝石完成交换消除；点击界面上的增益道具即可使用；在城堡界面使用星星对场景进行翻新。  
 
-- Q: I’m stuck on a marble slab level — any tip?
-  
-[ZH TRANSLATION NEEDED]   A: Use bombs near slabs and chain line clears through them to crack multiple layers.
+### 常见问题（FAQ）
 
-- Q: Should I hoard boosters?
-  
-[ZH TRANSLATION NEEDED]   A: Keep a few, but spend to break brick‑wall stages; progression matters.
+- **Q: 大理石板关卡总是卡关，有什么技巧？**  
+  **A:** 尽量在大理石附近制造炸弹或直线宝石，用爆炸或横竖线一次性削掉多层；同时避免在远离障碍的区域浪费步数。  
 
-- Q: Renovations affect gameplay?
-  
-[ZH TRANSLATION NEEDED]   A: Mostly cosmetic; some unlock booster slots or daily rewards.
+- **Q: 增益道具要攒着还是用掉？**  
+  **A:** 可以保留少量以备不时之需，但如果某个关卡已经成为“进度墙”，适当使用道具突破，整体体验会更顺畅。  
 
+- **Q: 翻新城堡只改变外观吗？**  
+  **A:** 大部分翻新是偏美化和剧情演出，但也有部分节点会解锁额外增益或每日奖励槽，建议优先完成带实际收益的翻新项目。

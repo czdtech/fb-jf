@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: 2020-connect
-title: '[DE] 2020 Connect'
+title: "2020 Connect"
 description: >-
-  [DE] 2020 Connect is a number‑merge puzzler — connect equal tiles, create
-  higher values, and manage space for big chains.
+  2020 Connect ist ein ruhiges, aber taktisches Zahlen‑Merge‑Puzzle. Verbinde
+  Felder mit gleichen Zahlen, erschaffe höhere Werte und verwalte geschickt den
+  knappen Platz, um lange Komboketten und hohe Punktzahlen zu erreichen.
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
 thumbnail: /new-images/2020-connect.png
 tags:
@@ -15,29 +16,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+2020 Connect ist ein entspannter, aber sehr strategischer Zahlen‑Merge‑Titel.
+Du verbindest Felder mit derselben Zahl, um sie zu einem Feld mit dem nächsten
+Wert zu verschmelzen. Dabei räumst du Platz auf dem Spielfeld und bereitest
+Kettenreaktionen vor. Wer seine Züge klug plant, hält das Brett lange lebendig
+und knackt immer höhere Highscores.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-2020 Connect is a calm, strategic number‑merge game. Draw connections between tiles of the same value to merge them into the next value, open space, and set up cascades. Smart spacing and future‑proofing keep the board alive for high scores.
+1.  **Zentrum aufbauen:** Halte deine hohen Werte möglichst in der Brettmitte,
+    damit sie sich in mehrere Richtungen verbinden lassen. So hast du mehr
+    Optionen für spätere Merges.
+2.  **Ecken meiden:** In den Ecken "fangen" sich hohe Zahlen und lassen sich
+    nur schwer wieder sinnvoll nutzen. Nutze die Ränder sparsam und eher für
+    kleinere Werte.
+3.  **Kaskaden planen:** Platziere gleiche Zahlen so, dass ein Merge weitere
+    Kombinationen direkt nach sich zieht. Eine gut geplante Verbindung kann
+    mehrere Aufwertungen hintereinander auslösen.
+4.  **Platzmanagement:** Versuche stets mindestens eine flexible "Bahn" frei zu
+    halten, über die du schlechte Spawns wieder aufräumen kannst. Ein komplett
+    zugestelltes Brett endet sehr schnell im Game Over.
+5.  **Schrittweise aufwerten:** Hetze nicht sofort auf den maximalen Wert. Viele
+    kleinere Zwischenschritte sorgen dafür, dass du mehr Felder verbinden und
+    flexibel bleiben kannst.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Build centers: Keep higher values central so they can connect in multiple directions.
-2.  **[DE]** Avoid corners: Corners trap values and stall merges; use edges sparingly.
-3.  **[DE]** Plan cascades: Position pairs so a single merge triggers additional merges.
-4.  **[DE]** Space management: Always leave at least one flexible lane to escape bad spawns.
-5.  **[DE]** Incremental merges: Don’t rush to max a value—step merges maintain options.
+- **Verbinden:** Mit Maus oder Touch klickst bzw. tippst du auf ein Feld und
+  ziehst über angrenzende Felder mit derselben Zahl, um sie zu verbinden.
+- **Rückgängig (falls verfügbar):** Begrenzte Rückgängig‑Züge können einen
+  Fehlzug korrigieren.
+- **Neustart:** Du kannst jederzeit ein neues Brett beginnen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Draw: Click/tap and drag to connect equal numbers per rules.
-- Undo (if available): Limited undos can salvage mis‑draws.
-- Restart: Start a fresh board at any time.
+- **F: Mir geht ständig der Platz aus – was kann ich tun?**  
+  **A:** Konzentriere dich darauf, eine Linie oder einen Bereich konsequent
+  freizuräumen, statt nur auf einen einzelnen großen Merge zu spielen.
 
-### Frequently Asked Questions (FAQ)
+- **F: Gibt es ein echtes "Ende"?**  
+  **A:** Meist handelt es sich um einen Endlosmodus. Du spielst, bis kein Zug
+  mehr möglich ist, und versuchst, bestimmte Zielwerte oder persönliche
+  Bestmarken zu erreichen.
 
-- I run out of space—what now? Focus on clearing a lane rather than chasing a single big merge.
-- Is there a win condition? Typically endless; aim for target values or high score milestones.
-- Any pattern tips? Centralize big tiles; keep small tiles near edges as feeders.
-
+- **F: Hast du Muster‑Tipps?**  
+  **A:** Halte große Zahlen in der Mitte gebündelt und nutze die Ränder als
+  "Futter" für neue Merges mit kleineren Werten.

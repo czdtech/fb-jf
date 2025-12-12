@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bad-ice-cream-3
-title: '[ES] Bad Ice Cream 3'
+title: "Bad Ice-Cream 3 nuevos laberintos helados"
 description: >-
-  [ES] Master the icy puzzles of Bad Ice-Cream 3. Find expert strategies,
-  controls, and tips to collect all fruit and outsmart new enemies in this
-  chilly arcade adventure.
+  Bad Ice-Cream 3 es la tercera entrega de la serie de puzles helados. Domina
+  los muros de hielo, esquiva a los nuevos enemigos y recoge toda la fruta en
+  laberintos cada vez más complicados.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/bad-ice-cream-3.jpg
@@ -17,67 +17,99 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+*Bad Ice-Cream 3* es la tercera parte de la popular serie arcade de puzles en
+2D con estética pixel‑art. Vuelve a ponerte al mando de un cucurucho de helado
+viviente cuya misión es recoger toda la fruta de cada nivel con forma de
+laberinto helado.
 
+La jugabilidad se sigue apoyando en la habilidad única de **crear y destruir
+filas de bloques de hielo** con un solo comando. Esta mecánica es esencial para
+moverte por los niveles, defenderte de los enemigos y resolver pequeños puzles
+de entorno. *Bad Ice-Cream 3* añade nuevos niveles, diseños más enrevesados y
+nuevos tipos de enemigos con comportamientos propios: algunos son más rápidos,
+otros más grandes e incluso hay quienes pueden romper los muros de hielo que
+creas, obligándote a adaptar tus tácticas. El juego mantiene sus modos de juego
+para un jugador y cooperativo para dos jugadores en el mismo teclado.
 
+### Estrategia de juego y recorrido
 
+Dominar *Bad Ice-Cream 3* consiste en adaptarse a las nuevas amenazas y
+perfeccionar las mecánicas centrales.
 
+#### 1. El hielo lo es todo
 
-### Detailed Game Introduction
+La mecánica de los bloques de hielo es todavía más importante.
 
-*Bad Ice-Cream 3* is the third installment in the popular 2D pixel-art arcade puzzle series. It builds upon the successful formula of its predecessors, placing players in control of a sentient ice cream cone on a mission to collect all the fruit in each maze-like level.
+*   **Muros defensivos:** Sigue usando paredes de hielo para bloquear rutas
+    predecibles de los enemigos; siguen siendo tu herramienta de supervivencia
+    principal.
+*   **Trampas ofensivas:** Atrae enemigos a callejones sin salida y ciérralos
+    con hielo para liberar zonas completas del mapa y poder recoger fruta con
+    seguridad.
+*   **Contra enemigos nuevos:** Algunos enemigos pueden destruir tus muros. Con
+    ellos, las paredes son solo una solución temporal: úsalas para ganar unos
+    segundos y huir o recoger fruta cercana, no como barrera permanente.
 
-The core gameplay remains centered around the unique ability to create and destroy rows of ice blocks with a single command. This mechanic is essential for navigating the levels, defending against enemies, and solving environmental puzzles. *Bad Ice-Cream 3* introduces a host of new levels, more challenging layouts, and, most importantly, new types of enemies with unique behaviors. Some enemies are faster, some are larger, and some can even destroy the ice walls the player creates, forcing new strategies. The game retains its beloved single-player and two-player cooperative modes, making it an excellent game to play solo or with a friend on the same keyboard.
+#### 2. Prioriza la fruta difícil
 
-### Gameplay Strategy & Walkthrough
+Al inicio de cada nivel, observa el mapa. Identifica las frutas que están más
+protegidas o en zonas de difícil acceso. Suele compensar planear cómo llegar a
+ellas primero, cuando la disposición de los enemigos aún es predecible.
 
-Mastering *Bad Ice-Cream 3* requires adapting to the new threats while perfecting the core mechanics.
+#### 3. Aprende los nuevos patrones de enemigos
 
-#### 1. Ice is Your Everything
-The ice block mechanic is more crucial than ever.
-*   **Defensive Walls:** Continue to use ice walls to block predictable enemy paths. This remains your primary survival tool.
-*   **Offensive Trapping:** Lure enemies into dead ends and seal them in. This is especially useful for clearing a quadrant of the map so you can collect fruit in peace.
-*   **Countering New Enemies:** Be aware of enemies that can destroy your ice. Against these foes, walls are only a temporary solution. Use them to buy a few seconds to escape, not as a permanent barrier.
+Esta es la clave para superar la tercera entrega.
 
-#### 2. Prioritize Difficult Fruit
-Survey the map at the start of each level. Identify which fruits are heavily guarded or in hard-to-reach places. It's often best to devise a plan to get these difficult fruits first, while the enemy layout is still predictable.
+*   **Destructores:** Algunos enemigos grandes o con cuernos rompen tus bloques
+    de hielo. No intentes mantenerlos encerrados mucho tiempo.
+*   **Generadores:** Otros pueden aparecer desde puntos concretos del mapa; ten
+    en cuenta sus zonas de aparición.
+*   **Perseguidores agresivos:** A diferencia de los patrulleros sencillos de
+    los primeros juegos, algunos enemigos cambian su trayectoria para
+    perseguirte. Necesitas moverte con más agilidad y usar muros de hielo de
+    forma reactiva para despistarlos.
 
-#### 3. Learn the New Enemy Behaviors
-This is the key to beating the third game.
-*   **Destroyers:** Some horned or large enemies will smash through your ice blocks. Do not try to trap them for long.
-*   **Spawners:** Some enemies might emerge from certain points in the level. Be aware of their spawn locations.
-*   **Aggressive Chasers:** Unlike the simple patrollers of earlier games, some new enemies will actively change their path to pursue you. You must be more agile and use ice walls reactively to misdirect them.
+#### 4. Movimiento eficiente
 
-#### 4. Efficient Movement
-Don't wander aimlessly. Collect fruit in logical groups. Clear one area of the map, then move to the next. Breaking and creating ice takes time, so minimize unnecessary actions. A well-planned path is much faster than a frantic one.
+Evita deambular sin rumbo. Agrupa la recolección de fruta por zonas. Limpia una
+parte del mapa y luego pasa a la siguiente. Crear y romper hielo consume tiempo,
+así que procura no hacer acciones innecesarias.
 
-#### 5. 2-Player Cooperative Tactics
-*   **Assign Roles:** One player can be the "decoy" or "trapper," whose main job is to manage and contain enemies. The other player can be the "collector," focusing on grabbing the fruit.
-*   **Cover Each Other:** Use your ice abilities to protect your partner if they get cornered. A well-timed wall can save a life.
-*   **Stay Apart:** To avoid getting trapped together and to cover more ground, it's generally best to work on opposite sides of the map.
+#### 5. Tácticas en cooperativo (2 jugadores)
 
-### Controls Guide
+*   **Reparto de roles:** Un jugador puede hacer de "cebo" o "trampero",
+    centrado en lidiar con los enemigos, mientras el otro se dedica sobre todo a
+    recolectar fruta.
+*   **Protégete en equipo:** Usa tu habilidad de hielo para salvar a tu compañero
+    si le acorralan; un muro bien colocado puede evitar una vida perdida.
+*   **Trabajad separados:** Para cubrir más terreno y evitar quedaros ambos
+    atrapados, suele ser mejor operar en lados opuestos del mapa.
 
-The controls remain consistent with the previous games, designed for easy sharing on one keyboard.
+### Guía de controles
 
-*   **Player 1:**
-    *   **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
-    *   **Action (Create/Destroy Ice):** `Spacebar`
+Los controles se mantienen respecto a los juegos anteriores, pensados para
+compartir teclado.
 
-*   **Player 2:**
-    *   **Move:** `W`, `A`, `S`, `D` Keys
-    *   **Action (Create/Destroy Ice):** `F` Key
+*   **Jugador 1:**  
+    *   **Mover:** Flechas (`↑`, `↓`, `←`, `→`).  
+    *   **Acción (Crear/Destruir hielo):** `Barra espaciadora`.  
 
-### Frequently Asked Questions (FAQ)
+*   **Jugador 2:**  
+    *   **Mover:** Teclas `W`, `A`, `S`, `D`.  
+    *   **Acción (Crear/Destruir hielo):** Tecla `F`.  
 
-*   **Q: What is the main difference between Bad Ice-Cream 2 and 3?**
-    *   **A:** The biggest difference is the introduction of new enemy types with more complex behaviors. Some enemies can now destroy your ice walls, requiring you to adapt your strategies. The game also features 40 brand-new, more challenging levels.
+### Preguntas frecuentes (FAQ)
 
-*   **Q: Can I finally kill the enemies in this game?**
-    *   **A:** No, the core design remains the same. You cannot directly attack or kill enemies. You must rely on evasion and trapping them with your ice blocks.
+*   **P: ¿En qué se diferencia Bad Ice-Cream 3 de la segunda parte?**
+    *   **R:** La mayor diferencia está en los nuevos tipos de enemigos con comportamientos más complejos, incluidos algunos que destruyen tus muros de hielo. Además, incorpora unos 40 niveles nuevos y más desafiantes.
 
-*   **Q: How do I beat the big monsters that break my ice walls?**
-    *   **A:** You can't trap them permanently. The best strategy is to use ice walls as a momentary distraction. Place a wall to block them, then immediately use that brief window of time to escape or grab a nearby piece of fruit.
+*   **P: ¿Ahora sí puedo matar a los enemigos?**
+    *   **R:** No. El diseño base no cambia: no puedes atacarlos directamente. Sigues dependiendo de esquivar y atrapar de manera temporal.
 
-*   **Q: Is there a way to get more lives?**
-    *   **A:** In the classic Flash game versions, there are no in-game items or ways to earn extra lives. You start with a set number of lives, and if you lose them all, you must start the level over.
+*   **P: ¿Cómo lidio con los monstruos grandes que rompen mis muros?**
+    *   **R:** No puedes encerrarlos para siempre. Usa el hielo como distracción momentánea: levanta una pared para frenarlos un instante y aprovecha ese tiempo para huir o recoger una fruta cercana.
+
+*   **P: ¿Hay forma de conseguir más vidas?**
+    *   **R:** En las versiones clásicas tipo Flash no hay objetos de vida extra. Si te quedas sin vidas, tendrás que repetir el nivel desde el principio.

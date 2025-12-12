@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: doodle-jump
-title: '[KO] Doodle Jump'
+title: "Doodle Jump 두들 점프"
 description: >-
-  [KO] Doodle Jump is a vertical platformer: bounce between platforms, avoid
-  hazards, and climb as high as possible.
+  끊임없이 위로 올라가는 수직 플랫포머 게임입니다. 발판 사이를 튀어 오르며
+  몬스터와 함정을 피하고, 각종 파워업을 이용해 가능한 한 높이까지 올라가 보세요.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/doodle-jump.jpg
 tags:
@@ -15,30 +15,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Doodle Jump는 자동으로 점프하는 캐릭터를 조종해, 화면 위쪽으로 계속 올라가는
+수직 진행형 플랫포머입니다. 안전한 발판에 착지하며 위로 오르고, 깨지는 발판이나
+몬스터, 구멍을 피해야 합니다. 도중에는 스프링, 프로펠러 모자, 제트팩 같은
+파워업을 이용해 한 번에 크게 도약할 수도 있습니다. 스테이지는 끝이 없으며,
+떨어지거나 장애물에 부딪히기 전까지 올라간 높이(점수)를 경쟁하게 됩니다.
 
+### 플레이 방법
 
-### Overview
-Endless vertical platformer: bounce upward, land on safe platforms, avoid monsters and broken boards, and use power‑ups (springs, propeller caps, jetpacks) to climb higher.
+- 캐릭터는 발판 위에 있을 때 자동으로 점프합니다.  
+- 좌우 이동으로 다음에 착지할 발판을 조준하고, 화면 아래로 떨어지지 않도록
+  항상 위쪽 발판을 목표로 이동해야 합니다.  
+- 일부 버전에서는 위쪽을 탭/클릭해 총알을 쏘아 몬스터를 제거할 수도 있습니다.  
+- 움직이는 발판과 깨지는 발판은 일정 시간만 버틸 수 있으므로, 두 번 이상
+  연속으로 밟지 않도록 주의하세요.  
 
-### How to Play
-- Keep the doodler centered and chain safe landings; falling off‑screen ends the run.
-- Eliminate or avoid enemies; some versions allow tapping/shooting upward.
-- Use moving or breakable platforms carefully; plan two steps ahead.
+### 조작 방법
 
-### Controls
-- Left/Right (or tilt on mobile): move; automatic jumping on contact; action/shoot where available.
+- PC: 방향키 좌우 또는 A/D 키로 이동, 접촉 시 자동 점프  
+- 모바일: 기기를 좌우로 기울여 이동하거나, 화면 좌우를 탭해 이동(버전별 상이)  
+- 공격/슈팅: 지원하는 버전에서 별도의 액션 키나 화면 탭으로 발사  
 
-### Tips
-- Favor stable platforms when the screen scrolls quickly.
-- Save high‑impact power‑ups for sparse sections.
-- Wraparound edges to escape traps when supported.
+### 팁
 
-### FAQ
-- Q: Are levels finite?
-A: No—score rises until you miss a platform or hit a hazard.
-- Q: Do platforms differ?
-A: Yes—static, moving, disappearing/breakable, and trampolines/springs.
-- Q: Are there bosses?
-A: Usually no; it’s a score chase.
+- 화면 스크롤 속도가 빨라질수록 움직이는 발판보다 고정 발판 위주로 선택해
+  리스크를 줄이는 것이 좋습니다.  
+- 제트팩·스프링 등 강력한 파워업은 발판이 드문드문 나오는 구간에서 특히
+  빛을 발하므로, 가능한 한 위험 구간에서 사용되도록 노려 보세요.  
+- 일부 버전에서는 화면 좌우 가장자리에서 반대편으로 이어지는 “랩어라운드”가
+  지원되므로, 막다른 길에서 반대편으로 빠져나가는 데 활용할 수 있습니다.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 레벨은 정해져 있나요, 아니면 끝less인가요?**  
+  **A:** 정해진 끝은 없으며, 떨어지거나 장애물에 부딪힐 때까지 점수가 계속
+  올라가는 구조입니다.  
+
+- **Q: 발판 종류가 여러 가지인가요?**  
+  **A:** 네. 고정 발판, 움직이는 발판, 사라지는/깨지는 발판, 트램펄린·스프링
+  역할을 하는 발판 등 다양한 종류가 있습니다.  
+
+- **Q: 보스전이 있나요?**  
+  **A:** 대부분의 버전은 보스 없이, 최대 점수를 겨루는 형태로 설계되어 있습니다.  
 

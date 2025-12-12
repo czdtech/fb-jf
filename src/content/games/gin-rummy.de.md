@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: gin-rummy
-title: '[DE] Gin Rummy'
+title: "Gin Rummy"
 description: >-
-  [DE] Play the classic card game of Gin Rummy. Form your cards into sets and
-  runs, knock to end the round, and try to catch your opponent with a hand full
-  of deadwood.
+  Gin Rummy ist ein klassisches Zwei-Personen-Kartenspiel aus der Rummy-Familie.
+  Bilde Sätze und Straßen, reduziere deinen "Deadwood"-Wert (unpassende Karten)
+  und klopfe im richtigen Moment, um mehr Punkte als dein Gegner zu erzielen.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/gin-rummy.png
 tags:
@@ -17,41 +17,88 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Gin Rummy ist ein taktisches Kartenspiel für zwei Spieler, bei dem du deine
+Handkarten zu sogenannten "Meldungen" zusammenstellst – also zu Sätzen aus
+gleichen Werten oder zu Straßen in derselben Farbe. Ziel ist es, möglichst wenig
+"Deadwood" (Karten, die zu keiner Meldung gehören) auf der Hand zu behalten,
+wenn eine Runde endet. Wer klug mitzählt, auf die abgelegten Karten achtet und
+richtig einschätzt, welche Karten der Gegner sammelt, verschafft sich einen
+klaren Vorteil.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Gin Rummy is a classic two-player card game that belongs to the Rummy family. The objective is to form your hand into valid combinations called "melds"—either sets of the same rank or runs of the same suit. The goal is to score points by having less "deadwood" (unmatched cards) than your opponent when a round ends. It's a game of skill, strategy, and memory, where you must pay close attention to what your opponent discards.
+1.  **Ziel des Spiels**
+    
+    Du spielst mit 10 Handkarten und versuchst, daraus möglichst viele Meldungen
+    zu bilden. Du darfst "klopfen" (die Runde beenden), wenn der Wert deiner
+    Deadwood-Karten 10 oder weniger Punkte beträgt.
 
-### Gameplay Strategy & Walkthrough
+2.  **Meldungen verstehen**
+    
+    *   **Sätze:** Drei oder vier Karten mit demselben Rang
+        (z. B. 8♠ 8♥ 8♦).
+    *   **Straßen:** Drei oder mehr Karten derselben Farbe in aufsteigender
+        Reihenfolge (z. B. 5♣ 6♣ 7♣).
 
-1.  **[DE]** **The Goal:** To form your 10-card hand into melds and "knock" when the value of your unmatched cards (deadwood) is 10 or less.
-2.  **[DE]** **Melds:**
-    *   **[DE]** **Sets:** Three or four cards of the same rank (e.g., 8♠ 8♥ 8♦).
-    *   **[DE]** **Runs:** Three or more cards of the same suit in sequence (e.g., 5♣ 6♣ 7♣).
-3.  **[DE]** **The Turn:** On your turn, you must perform two actions:
-    *   **[DE]** **Draw:** Take either the top face-up card from the discard pile OR the top face-down card from the stock pile.
-    *   **[DE]** **Discard:** Discard one card from your hand onto the discard pile, placing it face-up.
-4.  **[DE]** **Knocking:** You can end the round by "knocking" if your deadwood value is 10 or less. To knock, you discard a card and then lay out your melds and deadwood. Your opponent then gets a chance to lay off their own deadwood cards on your melds.
-5.  **[DE]** **Going Gin:** If you form melds with all 10 of your cards, you can "Go Gin." This results in a bonus, and your opponent is not allowed to lay off any cards.
-6.  **[DE]** **Scoring:** Card values are: Aces = 1, Face Cards (K, Q, J) = 10, Number Cards = face value. After a knock, if your deadwood value is lower than your opponent's, you score the difference. If your opponent's deadwood is lower (an "undercut"), they score the difference plus a bonus.
+3.  **Ablauf eines Zuges**
+    
+    In jedem Zug machst du zwei Schritte:
+    
+    *   **Ziehen:** Nimm entweder die oberste offene Karte vom Ablagestapel oder
+        die oberste verdeckte Karte vom Stapel.
+    *   **Ablegen:** Lege danach eine Karte aus deiner Hand offen auf den
+        Ablagestapel.
 
-### Controls Guide
+4.  **Klopfen (Knocking)**
+    
+    Wenn dein Deadwood-Wert 10 oder weniger beträgt, kannst du klopfen. Dazu
+    legst du eine Karte ab, zeigst deine Meldungen und deine übrigen
+    Deadwood-Karten. Danach darf dein Gegner versuchen, eigene Deadwood-Karten
+    an deine Meldungen anzulegen, um seinen Wert zu senken.
 
-The game is played with a mouse or touch screen.
+5.  **Gin gehen (Go Gin)**
+    
+    Schaffst du es, alle 10 Karten in Meldungen unterzubringen, gehst du
+    "Gin". Das bringt einen hohen Bonus, und dein Gegner darf keine Karten an
+    deine Meldungen anlegen.
 
-*   **[DE]** **Draw:** Click on either the face-down stock pile or the face-up discard pile to take a card.
-*   **[DE]** **Discard:** Click on a card in your hand to move it to the discard pile.
-*   **[DE]** **Knock/Go Gin:** A special button will usually appear when you are eligible to knock or go gin.
+6.  **Wertung & Kartenwerte**
+    
+    *   **Ass** zählt 1 Punkt.
+    *   **Bildkarten (K, Q, J)** zählen jeweils 10 Punkte.
+    *   **Zahlenkarten** zählen ihren aufgedruckten Wert.
+    
+    Nach einem Klopfen werden die Deadwood-Werte verglichen. Hast du weniger
+    Deadwood als dein Gegner, erhältst du die Differenz als Punkte. Hat dein
+    Gegner gleich viel oder weniger Deadwood, kommt es zum **Undercut** –
+    dann bekommt er die Differenz plus einen Bonus.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-*   **[DE]** **Q: What is "deadwood"?**
-    *   **[DE]** **A:** Deadwood refers to any cards left in your hand that are not part of a valid set or run. The goal is to minimize the point value of your deadwood.
+Gin Rummy wird komplett mit Maus oder Touchscreen gespielt.
 
-*   **[DE]** **Q: Should I always take a card from the discard pile?**
-    *   **[DE]** **A:** Only if it helps you form a meld. Be aware that taking a card from the discard pile signals to your opponent what kind of meld you might be building.
+*   **Ziehen:** Klicke auf den verdeckten Stapel oder auf die offene Karte des
+    Ablagestapels, um sie aufzunehmen.
+*   **Ablegen:** Klicke auf eine Karte in deiner Hand, um sie offen auf den
+    Ablagestapel zu legen.
+*   **Klopfen / Gin gehen:** Wenn du klopfen oder Gin gehen kannst, erscheint
+    ein spezieller Knopf. Klicke darauf, um die Runde zu beenden.
 
-*   **[DE]** **Q: What is an "undercut"?**
-    *   **[DE]** **A:** An undercut happens when you knock, but your opponent has a deadwood value equal to or less than yours after they lay off their cards. In this case, your opponent scores points instead of you.
+### Häufige Fragen (FAQ)
 
+*   **F: Was ist "Deadwood"?**
+    *   **A:** Deadwood sind alle Karten in deiner Hand, die zu keiner Meldung
+        gehören. Ihr Gesamtwert sollte so niedrig wie möglich sein.
+
+*   **F: Soll ich jede Karte vom Ablagestapel nehmen, die ich brauchen könnte?**
+    *   **A:** Nur, wenn sie dir wirklich hilft. Nimmst du eine Karte vom
+        Ablagestapel, verrätst du deinem Gegner oft, welche Meldung du bauen
+        willst.
+
+*   **F: Was ist ein "Undercut"?**
+    *   **A:** Ein Undercut passiert, wenn du klopfst, dein Gegner nach dem
+        Anlegen seiner Karten aber den gleichen oder einen niedrigeren
+        Deadwood-Wert hat. In diesem Fall erhält dein Gegner die Punkte
+        (Differenz plus Bonus) – nicht du.

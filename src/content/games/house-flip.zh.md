@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: house-flip
-title: '[ZH TRANSLATION NEEDED] House Flip'
-description: >-
-  [ZH TRANSLATION NEEDED] House Flip gamifies renovation — inspect, budget
-  upgrades, and flip properties by fixing layout, style, and curb appeal.
+title: "《House Flip》房屋翻新模拟"
+description: "《House Flip》是一款把房屋装修和买卖过程游戏化的轻度模拟游戏，你要检查房屋问题、规划预算，在有限资金内优化格局、风格和门面表现，再高价转卖赚取差价。"
 iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
 thumbnail: /new-images/house-flip.png
 tags:
@@ -15,32 +13,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] House Flip is a light renovation sim. Evaluate a property’s issues (layout flow, damaged fixtures, dated style), choose upgrades within a budget, and resell for profit. Efficient flips balance cost vs. value — kitchens/baths, paint, and curb appeal punch above their weight.
+《House Flip》是一款轻量级的房屋翻新模拟游戏。你需要先评估一套房子目前存在的问题——例如动线不合理、家装老旧、设备损坏、外观过时等——再在预算范围内选择合适的升级项目，最后通过装修后的房屋转卖获取利润。一名合格的“包工头”不会一味砸钱，而是懂得在成本和增值之间做平衡：厨房、卫生间、整体墙面和门面表现，经常是最具投资回报率的地方。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] ROI triage: Prioritize kitchens/baths, flooring, and paint; defer low‑impact rooms.
-2.  [ZH TRANSLATION NEEDED] Layout fixes: Remove bottlenecks, add storage, and ensure good flow.
-3.  [ZH TRANSLATION NEEDED] Theming: Keep a cohesive palette; mismatched rooms reduce appeal.
-4.  [ZH TRANSLATION NEEDED] Staging: Add a few decor items to lift perceived value.
-5.  [ZH TRANSLATION NEEDED] Budget control: Leave a contingency; don’t over‑invest beyond neighborhood caps.
+### 游戏玩法与攻略
+1.  **投资回报优先级**：在有限预算中，优先考虑厨房、卫生间、地板和整体墙面，这些区域对售价影响往往远高于一些边缘房间。
+2.  **优化动线与收纳**：通过移除明显的动线瓶颈、增加合理的收纳空间，让房屋在日常使用上更顺手，往往能提升买家好感度。
+3.  **统一风格主题**：尽量围绕一种整体风格来选择材质和配色，避免每个房间都用完全不同的色系和主题，这会让房子看起来杂乱廉价。
+4.  **适度软装点缀**：少量有品味的家具与装饰（如地毯、挂画、绿植）能显著提高“观感价值”，往往花小钱就能营造出“高价感”。
+5.  **严格控制预算**：提前预留一部分备用金应对意外开支，同时注意不要在所在街区价格上限之上过度投资，否则很难通过转售回本。
 
-### Controls Guide
+### 操作说明
 
-- Inspect rooms, pick upgrades, place items, and confirm; some builds time‑gate tasks.
+- 在各个房间中检查细节，选择需要装修的项目，点击升级或更换；部分版本会对施工时间进行倒计时，需要等待任务完成后再继续下一步。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-- Q: My profit is low — what to change?
-  
-[ZH TRANSLATION NEEDED]   A: Focus on high‑ROI upgrades and avoid over‑customization; keep budgets lean.
+- Q: 翻新之后利润很低，该怎么调整？  
+  A: 检查是否把太多预算砸在“加分不高”的地方，优先把资金集中到厨房、卫生间、地板和外观这类高回报项目，减少个性化、过度定制的投入。
 
-- Q: Which upgrade first?
-  
-[ZH TRANSLATION NEEDED]   A: Kitchen (surfaces/appliances) or bathrooms (fixtures/tiles) depending on condition.
+- Q: 第一个升级项目应该选什么？  
+  A: 通常建议先看厨房和卫生间的老旧程度，先升级台面、电器或卫浴洁具，如果问题不大，再考虑整屋墙漆与地板统一焕新。
 
-- Q: Does exterior matter?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — paint, landscaping, and entry lighting add inexpensive curb appeal.
-
+- Q: 房子外观和门面真的重要吗？  
+  A: 很重要。门前外墙刷新、简单的园艺和门口灯光改造都属于成本低、回报高的“面子工程”，能明显提升买家对整体房屋的第一印象。

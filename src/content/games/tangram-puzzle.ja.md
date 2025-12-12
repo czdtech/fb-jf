@@ -1,65 +1,48 @@
 ---
-locale: ja
-urlstr: tangram-puzzle
-title: '[JA TRANSLATION NEEDED] Tangram Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Tangram Puzzle is a classic dissection challenge — fit
-  seven tans to fill silhouettes with rotation‑only logic and spatial insight.
-iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
+title: Tangram Puzzle
+description: Tangram Puzzleは、古典的な中国のパズルゲームです。7つのピースを使って特定の形を作りましょう。
+iframeSrc: 'https://ubg98.github.io/TangramPuzzle/'
 thumbnail: /new-images/tangram-puzzle.jpg
+urlstr: tangram-puzzle
+score: 4.3/5  (1987 votes)
 tags:
   - puzzle
-  - thinky
-score: 4.3/5  (2091 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - logic
+  - classic
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Tangram Puzzleは、7つの幾何学的ピース（タングラム）を使って特定の形やシルエットを作る古典的な中国のパズルゲームです。論理的思考と空間認識力をテストします。
 
-[JA TRANSLATION NEEDED] Tangram Puzzle asks you to arrange seven geometric pieces (tans) to exactly fill a silhouette. No overlaps or gaps; rotations allowed, reflections sometimes banned depending on mode. Recognizing convex/concave pockets and matching corner angles is the key skill.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Corner matching: Seat large triangle corners into silhouette vertices first.
-[JA TRANSLATION NEEDED] 2.  Symmetry read: Split symmetric silhouettes and mirror your half‑solution.
-[JA TRANSLATION NEEDED] 3.  Pocket fills: Use square/parallelogram for tight cavities.
-[JA TRANSLATION NEEDED] 4.  Order of play: Rough‑in with big pieces, then lock gaps with small triangles.
-[JA TRANSLATION NEEDED] 5.  Reflection rules: If reflections are banned, rotate alternatives to simulate flips.
-
-### Controls Guide
-
-- Drag/rotate pieces; flip if allowed; snap assists on correct placement.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: One gap remains no matter what.
-  
-[JA TRANSLATION NEEDED]   A: Your early placements are off by a corner; reseat a big triangle and re‑fit.
-
-- Q: Are flips legal?
-  
+ - **ピースを動かす：** 7つのタングラムピースを移動させます
+ - **回転させる：** ピースを回転させて正しい向きにします
+ - **形を作る：** 目標の形に合わせてピースを配置します
+ - **完成：** すべてのピースを使って完璧な形を作ります
 
 
-
-
-
-
-- Q: One gap remains no matter what.
-### よくある質問（FAQ）
-- Drag/rotate pieces; flip if allowed; snap assists on correct placement.
-### コントロールガイド
 - Reflection rules: If reflections are banned, rotate alternatives to simulate flips.
+### 操作ガイド
+
+ - **マウス：** ピースをドラッグして移動と回転
 
 ### よくある質問（FAQ）
-- Order of play: Rough‑in with big pieces, then lock gaps with small triangles.
-[JA TRANSLATION NEEDED]   A: Some modes disallow flips; rely on rotations.
 
 
+- Q: One gap remains no matter what.
+**ゲームの目標は何ですか？**
 
 
-A: Some modes disallow flips; rely on rotations.
 - Q: Are flips legal?
+7つのタングラムピースを使って指定された形を作ることです。
 
+**すべてのピースを使う必要がありますか？**
 
-A: Some modes disallow flips; rely on rotations.
+はい、7つのピースすべてを使い、重ねずに配置する必要があります。
+
+**難易度は様々ですか？**
+
+はい、簡単な形から非常に複雑な形まであります。

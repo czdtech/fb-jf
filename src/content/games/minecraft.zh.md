@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: minecraft
-title: '[ZH TRANSLATION NEEDED] Minecraft'
+title: "《Minecraft》我的世界沙盒冒险"
 description: >-
-  [ZH TRANSLATION NEEDED] Minecraft is a sandbox video game where players
-  explore a blocky, procedurally generated 3D world, and can discover and
-  extract raw materials, craft tools, build structures or earthworks, and create
-  a variety of mini-games or adventures.
+  《Minecraft》（我的世界）是一款高自由度的沙盒游戏，你可以在由方块构成的 3D 世界中探索、挖矿、收集资源、制作工具、建造建筑或红石装置，甚至创造属于自己的小游戏与冒险地图。
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/minecraft.jpg
@@ -20,33 +17,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Minecraft is a sandbox video game developed by Mojang Studios. Players explore a 3D world made of blocks, collecting resources, building structures, crafting items, and interacting with various creatures. The game has no specific goals, allowing players to freely create and explore, thus offering a high degree of freedom. Game modes include Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
+《Minecraft》是由 Mojang Studios 开发的一款沙盒类电子游戏。整个世界由各种方块构成，玩家可以在其中自由探索 3D 方块世界，收集资源、搭建建筑、制作工具和武器，并与各类生物互动。游戏没有强制的通关目标，你可以选择生存挑战、创造建筑、跑图探险，甚至做红石机械和小游戏，享受极高的自由度。常见模式包括生存模式、创造模式、冒险模式与旁观者模式等。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Gather Resources**: Chop trees, mine ores, plant crops, etc., to obtain basic materials needed for building and crafting.
-2.  **Craft Items**: Use a crafting table and furnace to process raw resources into tools, weapons, blocks, and more.
-3.  **Build Shelter**: Building a safe base is crucial for survival, especially at night to fend off monster attacks.
-4.  **Explore the World**: Discover villages, caves, ruins, and other structures to find rare resources and experience.
-5.  **Develop Agriculture and Animal Husbandry**: Establish farms, raise animals, and fish to secure food sources.
+1.  **收集基础资源：** 刚开局建议先砍树获取木材，再制作工作台与基础工具；随后可以挖掘石头、煤炭、铁矿等，为后续生存打下基础。
+2.  **制作工具与装备：** 通过工作台和熔炉，把收集来的原材料加工成镐、斧、铲、剑、弓、盔甲等，让挖矿更高效、战斗更安全。
+3.  **搭建安全据点：** 夜晚会刷新僵尸、骷髅、苦力怕等敌对生物，及早修建一间有门窗、有床的安全小屋非常关键，也方便你设置箱子存放物资。
+4.  **探索世界：** 白天可以外出寻找村庄、废弃矿洞、地牢、遗迹等结构，收集珍稀资源和战利品，为后续前往下界、末地做准备。
+5.  **发展农业与畜牧：** 建立小麦、胡萝卜、土豆等农田，以及养牛、养羊、养鸡等畜牧体系，可以提供稳定的食物与材料来源（如皮革、羊毛、羽毛）。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: W, A, S, D keys for moving forward, left, backward, and right.
-*   **Jump**: Spacebar for jumping.
-*   **Attack/Break**: Left mouse button for attacking creatures or breaking blocks.
-*   **Use/Place**: Right mouse button for using items or placing blocks.
-*   **Open Inventory**: E key to open the player's inventory for item management and crafting.
-*   **Sneak**: Shift key to sneak, preventing falls from high places.
+*   **移动：** 使用 W、A、S、D 键控制前后左右移动。
+*   **跳跃：** 空格键进行跳跃。
+*   **攻击 / 破坏方块：** 鼠标左键长按攻击生物或挖掘方块。
+*   **使用 / 放置方块：** 鼠标右键与方块或物品交互，例如放置方块、开启箱子、使用拉杆等。
+*   **打开背包：** 按 E 键打开物品栏，用于整理物品和进行基础合成。
+*   **潜行：** 按住 Shift 键潜行，可以避免从高处方块边缘意外跌落。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What are the main game modes in Minecraft?**
-     **A**: The main modes are Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I play multiplayer?**
-     **A**: You can play with friends via local area network (LAN), Minecraft Realms, or third-party servers.
-3.  [ZH TRANSLATION NEEDED] **Q: How do I get rare resources (like diamonds)?**
-     **A**: Diamonds typically generate deep underground at specific layers and require an iron pickaxe or higher to mine.
-4.  [ZH TRANSLATION NEEDED] **Q: How do I build an automated farm?**
-     **A**: Automated farms usually involve Redstone circuits, pistons, water flows, and other mechanisms to achieve automatic planting and harvesting of crops.
+### 常见问题
+
+1.  **问：Minecraft 主要有哪些游戏模式？**
+    **答：** 常见模式包括生存模式（需要管理饥饿与生命值）、创造模式（无限资源自由建造）、冒险模式（适合地图作者限制破坏规则）以及旁观者模式（自由穿越观察世界）。
+2.  **问：如何和朋友一起联机？**
+    **答：** 可以通过局域网（LAN）、Realms 服务器或第三方服务器进行多人联机，一起建造或冒险，具体取决于你所使用的平台与版本。
+3.  **问：像钻石这样的稀有资源怎么获得？**
+    **答：** 钻石通常生成在较深层的地下，需要使用铁镐或更高等级的镐才能成功挖掘，挖掘前记得准备好足够的火把与食物。
+4.  **问：如何打造自动化农场？**
+    **答：** 自动化农场一般需要使用红石电路、发射器、活塞、水流等机制，将播种、收割、收集流程部分或全部自动化，建议从简单的自动收割农田或刷怪塔开始练手。

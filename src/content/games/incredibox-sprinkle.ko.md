@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: incredibox-sprinkle
-title: '[KO] Incredibox Sprinkle - Play Incredibox Sprinkle Online'
+title: "Incredibox Sprinkle 스프링클 음악 만들기"
 description: >-
-  [KO] Sprinkle is a music creation game that is simple to operate and full of
-  fun. Whether you are a casual player or a fan interested in music production,
-  you can find your own fun in the world of Sprinkle.
+  간단한 조작으로 누구나 즐길 수 있는 음악 제작 게임
+  'Sprinkle Incredibox' 가이드입니다. 캐릭터를 배치해 사운드를
+  조합하는 방법과 조작법, 특징을 소개합니다.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
 thumbnail: /incredibox-sprinkle.png
 tags:
@@ -15,24 +15,41 @@ score: 3.8/5  (387 votes)
 
 
 
-### How to Play Sprinkle?
+### Sprinkle 플레이 방법
 
-- **Drag and Combine:** Drag and drop various music characters to designated positions, let them play unique notes. Each character will contribute a unique sound that layers with others to form a full musical arrangement.
-- **Experiment and Innovate:** The core fun of Sprinkle lies in trying different sound combinations. You can create endless variations of tracks simply by rearranging characters.
+- **드래그해서 조합하기**: 하단에 있는 다양한 음악 캐릭터를
+  무대의 지정된 위치로 드래그 앤 드롭하면, 각 캐릭터가
+  고유한 음을 연주하기 시작합니다. 캐릭터 하나하나가 서로 다른
+  루프를 담당하며, 함께 쌓이면서 하나의 곡이 됩니다.  
+- **실험하고 변주하기**: Sprinkle의 핵심 재미는 캐릭터 조합을
+  바꿔 가며 무한한 변주를 만드는 데 있습니다. 순서와 구성을
+  조금만 바꿔도 완전히 다른 트랙이 나오니, 부담 없이 여러
+  패턴을 시도해 보세요.
 
+### 조작 가이드
 
-### Operation Guide:
+- **마우스 조작**: 게임의 대부분은 마우스로 진행됩니다.  
+  - 하단의 캐릭터 아이콘을 클릭·드래그해 무대의 빈 슬롯으로
+    옮기면, 해당 캐릭터가 곡에 참여합니다.  
+  - 이미 배치한 캐릭터를 다른 아이콘으로 덮어쓰거나, 밖으로
+    끌어내려 제거할 수 있습니다.  
+- **키보드 조작**: 일부 버전의 Sprinkle은 간단한 키보드 조작도
+  지원합니다. 예를 들어 스페이스바로 음악 재생/일시정지를
+  조작할 수 있는 식입니다.  
+- **단축키**: 버전에 따라 전체 음소거, 모두 제거 등 자주 쓰는
+  기능을 빠르게 실행하는 단축키가 제공되기도 합니다.
 
-- **Mouse Operation:** The mouse is the primary control tool for the game. You can use the mouse to drag the characters at the bottom to the blank slots on the stage.
-- **Keyboard Operation:** Some versions of Sprinkle support simple keyboard operations, such as using the spacebar to start/stop the music.
-- **Shortcut Keys:** Shortcut keys may vary depending on the version, but they usually allow quick access to functions such as mute/unmute or clear all characters.
+### Sprinkle의 특징
 
+- **쉬운 조작**: 마우스 드래그만으로도 충분히 플레이할 수 있어
+  어린 플레이어부터 성인까지 누구나 금방 익숙해질 수 있습니다.  
+- **무한한 창작 가능성**: 준비된 사운드 소재는 한정적이지만,
+  조합과 순서를 바꾸는 것만으로도 끝없이 새로운 곡을 만들 수
+  있습니다.  
+- **키보드 보조 조작**: 일부 버전에서는 키보드 단축키를 지원해
+  믹스를 끊김 없이 빠르게 조작할 수 있습니다.
 
-### Highlights of Sprinkle:
+Sprinkle은 **“조작은 간단하지만, 결과는 무궁무진한”** 음악 제작 게임입니다.  
+가벼운 마음으로 접속해 캐릭터를 배치해 보기만 해도, 어느새 자신만의
+트랙을 만들고 있는 자신을 발견하게 될 것입니다.
 
-- **Simple and Easy to Use:** The game operation is simple and intuitive, suitable for players of all ages.
-- **Infinite Creative Possibilities:** The rich sound material and free combination methods allow you to create unique musical works.
-- **Keyboard Auxiliary Operation:** Some versions support keyboard shortcuts, making your mixing operations more convenient.
-
-
-Sprinkle is a music creation game that is simple to operate and full of fun. Whether you are a casual player or a fan interested in music production, you can find your own fun in the world of Sprinkle.Come to Sprinkle, unleash your remix creativity, and create unique musical works!

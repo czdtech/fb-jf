@@ -1,151 +1,67 @@
 ---
+title: "Bloons TD 5 ブルーンズTD 5"
+description: "「Bloons TD 5」で防衛戦略を極めろ！8つのアップグレード、2つのパス、新登場のエージェント。タワーを育てて毎日変わるデイリーチャレンジに挑もう。"
+iframeSrc: "https://bloonstd5.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+thumbnail: "/new-images/bloons-td-5.jpg"
+urlstr: "bloons-td-5"
+score: "4.5/5  (2300 votes)"
+tags: ["casual", "strategy"]
+developer: "Ninja Kiwi"
+releaseDate: 2025-08-16
 locale: ja
-urlstr: bloons-td-5
-title: '[JA TRANSLATION NEEDED] Bloons TD 5'
-description: >-
-  [JA TRANSLATION NEEDED] Master Bloons TD 5 with its deep strategy, diverse
-  towers, and powerful Special Agents. Build the ultimate defense, unlock the
-  mighty Temple of the Monkey God, and pop every last Bloon, including the
-  fearsome ZOMG.
-iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
-thumbnail: /new-images/bloons-td-5.jpg
-tags:
-  - casual
-  - strategy
-score: 3.7/5  (628 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Bloons TD 5* は、シリーズの核心だった“モンキータワーで Bloon を割る”というシンプルな魅力をさらに磨き上げた決定版です。鮮やかなビジュアルと膨大なコンテンツ量で、タワーディフェンスの定番として高く評価されています。
 
-### Game Introduction
+本作は BTD4 で導入された **二本のアップグレードルート** を継承しつつ進化させました。各タワーは 4/2 あるいは 2/4 といった構成を選べるため、タワーごとに無数の戦術的バリエーションが生まれます。
 
-[JA TRANSLATION NEEDED] Bloons TD 5 is a landmark title in the tower defense genre, praised for its incredible depth, vibrant graphics, and massive amount of content. It refines the core formula of its predecessors: players place a wide variety of monkey towers with unique abilities to pop waves of increasingly difficult "Bloons."
+BTD5 では以下の要素が追加・強化されています。
 
-[JA TRANSLATION NEEDED] The game is built upon the two-path upgrade system from BTD4, where each tower has two upgrade paths, and you can upgrade one path to tier 4 and the other to tier 2 (a 4/2 or 2/4 build). This creates a huge number of strategic possibilities for each tower.
-    - **Sabotage Supply Lines (Ninja Monkey x/4):** This ability slows all Bloons on screen by half, which is absolutely critical in late-game rounds.（日本語訳が必要）
-    - **Regrow:** High damage-per-second (DPS) towers are needed to prevent "Regrow Farms" where Bloons regenerate faster than you pop them. A 2/3 **Tack 撃つer** (`Blade Maelstrom`) or a 4/x **Cannon Ship** (Monkey Buccaneer) works well.
-- **構築するing the Temple of the Monkey God:** The ultimate late-game tower is the **Temple of the Monkey God** (4/x Super Monkey). To maximize its power, you must "sacrifice" other towers to it. Before you purchase the final Temple upgrade, place towers from different categories (Primary, Military, Magic) within its range. The more money you sacrifice (up to a cap for each category), the more powerful the Temple will be.
-The game uses a standard point-and-click or tap interface.（日本語訳が必要）
+-   **新タワー：** **Monkey Sub（モンキーサブ）**、**Heli Pilot（ヘリパイロット）**、**Monkey Engineer（モンキーエンジニア）**、**Bloonchipper** など、その後のシリーズでも定番になるユニットが参戦。
+-   **Special Agents：** ゲーム内通貨「Monkey Money」で購入する強力なエージェント。難所で一気に局面をひっくり返す切り札になります。
+-   **Z.O.M.G. の登場：** 黒と緑の巨大飛行船 **Z.O.M.G.（Zeppelin Of Mighty Gargantuaness）** が初登場。非常に硬く、内部には 4 体の B.F.B. が潜んでいます。
+-   **Monkey Lab：** Monkey Money を投資して全タワーを恒久的に強化できる研究施設。プレイを重ねるほど戦力が底上げされます。
+-   **膨大なコンテンツ：** 数十のトラック、特殊ルールの Special Mission、デイリーチャレンジ、そして協力プレイモードまで収録。
+-   **アクティブアビリティ：** 多くのティア4アップグレードが強力な発動型スキルを与えます（例：Bomb Tower の「MOAB Assassin」、Heli Pilot の「Downdraft」など）。
 
-[JA TRANSLATION NEEDED] BTD5 significantly expanded the game's universe with several key additions:
-    - **Supa-Vac (Bloonchipper 2/4):** The ultimate crowd control. Its special ability sucks in even ZOMG-class Bloons, stalling them for your other towers to attack.（日本語訳が必要）
-    - **Sabotage Supply Lines (Ninja Monkey x/4):** This ability slows all Bloons on screen by half, which is absolutely critical in late-game rounds.（日本語訳が必要）
-### コントロール Guide
-**1. What is the best tower in Bloons TD 5?**（日本語訳が必要）
--   **New Towers:** Introduced towers that became series staples, such as the **Monkey Sub**, **Heli Pilot**, **Monkey Engineer**, and the **Bloonchipper**.
-- **Late Game パワーhouses:**
-- **Placing/Upgrading:** Select a tower from the right-hand panel, place it on the map. Click the tower to open its upgrade menu and choose an upgrade path.（日本語訳が必要）
-    - **Technological Terror (Super Monkey x/4):** Its "Bloon Annihilation" ability can wipe the screen clear of most Bloons.（日本語訳が必要）
-- **アップグレード Paths:** Upgrading a tower to tier 3 or 4 on one path will lock the corresponding tiers on the other path. For example, a 4/x tower cannot be upgraded past x/2.
-- **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. Click it to use it.（日本語訳が必要）
-- **Hotkeys:** The PC version uses hotkeys for placing towers and activating abilities, which are displayed on the icons.（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
-    - **Camo:** A **Monkey Village** upgraded to 2/2 (`Radar Scanner`) is the best way to grant camo detection to all towers in its range. A 4/2 **Ninja Monkey** (`Bloonjitsu`) is also a top-tier camo killer.（日本語訳が必要）
-    - **Regrow:** High damage-per-second (DPS) towers are needed to prevent "Regrow Farms" where Bloons regenerate faster than you pop them. A 2/3 **Tack 撃つer** (`Blade Maelstrom`) or a 4/x **Cannon Ship** (Monkey Buccaneer) works well.
--   **Special Agents:** Powerful, single-use or persistent units that can be bought with "Monkey Money" (a premium currency earned in-game) to provide a major boost in difficult situations.
-    - **Technological Terror (Super Monkey x/4):** Its "Bloon Annihilation" ability can wipe the screen clear of most Bloons.（日本語訳が必要）
--   **The Z.O.M.G.:** The **Z.O.M.G.** (Zeppelin Of Mighty Gargantuaness) makes its terrifying debut. This massive, slow-moving black and green blimp is the toughest Bloon in the base game, containing four B.F.B.s.
--   **Monkey Lab:** A persistent upgrade tree where players can spend Monkey Money to permanently improve their towers across all games.
--   **Massive Content:** Features dozens of tracks, Special Missions with unique rules, Daily Challenges, and a fully-featured Co-op mode.
--   **Activated Abilities:** Many tier-4 upgrades grant powerful, player-activated abilities that can turn the tide of a battle, such as the MOAB Assassin's missile or the Heli Pilot's Downdraft.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy
+-   **経済がすべて：** 早期に Banana Farm を建てて資金源を確保するのが勝利への近道です。最終的には 4/2（`Banana Research Facility` + `More Bananas`）構成を目指し、毎ラウンド大量のキャッシュを得ましょう。
+-   **序盤の防衛：** 2/3 の **Dartling Gun** や 3/x の **Ninja Monkey** が序盤～中盤を安定させてくれます。防衛を維持しつつ農園投資の時間を稼ぐのがポイント。
+-   **中盤の特殊 Bloon 対策：**
+    -   **Camo：** 2/2 の **Monkey Village**（`Radar Scanner`）で周囲のタワーに迷彩感知を付与。4/2 **Ninja Monkey**（`Bloonjitsu`）は迷彩処理の主力。
+    -   **Lead：** 2/3 **Bomb Tower**（`Cluster Bombs`）や x/3 **Monkey Village**（`Monkey Intelligence Bureau`）で全タワーに鉛破壊能力を与えます。
+    -   **Regrow：** 高 DPS のタワーで再生を許さないことが重要。2/3 **Tack Shooter**（`Blade Maelstrom`）や 4/x **Cannon Ship**（Monkey Buccaneer）が有効です。
+-   **猴神神殿（Temple of the Monkey God）の建設：** Super Monkey の 4/x アップグレードは最強の後半タワーです。アップグレード前に射程内へ様々なカテゴリのタワーを配置して「献祭」すると、投入コストに応じて Temple の火力が大幅に上昇します。
+-   **終盤の主力候補：**
+    -   **Technological Terror（Super Monkey x/4）：** アクティブスキルで画面全体を一掃。
+    -   **Supa-Vac（Bloonchipper 2/4）：** ZOMG クラスを吸い込み足止めできる究極のクラウドコントロール。
+    -   **Sabotage Supply Lines（Ninja Monkey x/4）：** 全 Bloon の速度を半減させ、最終ラウンドを生き残るための必須アビリティ。
 
--   **Economy is Everything:** The single most important strategy for success in BTD5 is building a strong economy. Start building **Banana Farms** as early as possible. The most efficient upgrade path is 4/2 (`Banana Research Facility` with `More Bananas`), which generates crates of cash each round.
--   **Early Game Defense:** A 2/3 **Dartling Gun** or a 3/x **Ninja Monkey** can handle the early rounds efficiently while you focus on building your Banana Farms.
--   **Essential Mid-Game Coverage:** Your defense must handle all special Bloon types.
-[JA TRANSLATION NEEDED]     -   **Camo:** A **Monkey Village** upgraded to 2/2 (`Radar Scanner`) is the best way to grant camo detection to all towers in its range. A 4/2 **Ninja Monkey** (`Bloonjitsu`) is also a top-tier camo killer.
-[JA TRANSLATION NEEDED]     -   **Lead:** A 2/3 **Bomb Tower** (`Cluster Bombs`) or a Monkey Village with the `Monkey Intelligence Bureau` (x/3) upgrade, which allows all nearby towers to pop any Bloon type.
-[JA TRANSLATION NEEDED]     -   **Regrow:** High damage-per-second (DPS) towers are needed to prevent "Regrow Farms" where Bloons regenerate faster than you pop them. A 2/3 **Tack Shooter** (`Blade Maelstrom`) or a 4/x **Cannon Ship** (Monkey Buccaneer) works well.
--   **Building the Temple of the Monkey God:** The ultimate late-game tower is the **Temple of the Monkey God** (4/x Super Monkey). To maximize its power, you must "sacrifice" other towers to it. Before you purchase the final Temple upgrade, place towers from different categories (Primary, Military, Magic) within its range. The more money you sacrifice (up to a cap for each category), the more powerful the Temple will be.
--   **Late Game Powerhouses:**
-[JA TRANSLATION NEEDED]     -   **Technological Terror (Super Monkey x/4):** Its "Bloon Annihilation" ability can wipe the screen clear of most Bloons.
-[JA TRANSLATION NEEDED]     -   **Supa-Vac (Bloonchipper 2/4):** The ultimate crowd control. Its special ability sucks in even ZOMG-class Bloons, stalling them for your other towers to attack.
-[JA TRANSLATION NEEDED]     -   **Sabotage Supply Lines (Ninja Monkey x/4):** This ability slows all Bloons on screen by half, which is absolutely critical in late-game rounds.
+### 操作ガイド
 
-### Controls Guide
+操作はシリーズ伝統のポイント＆クリック（タップ）方式です。
 
-[JA TRANSLATION NEEDED] The game uses a standard point-and-click or tap interface.
+-   **設置 / 強化：** 右側パネルでタワーを選び、マップ上の配置可能エリアをクリック。タワーを再度クリックするとアップグレードメニューが表示されます。
+-   **アップグレード分岐：** どちらかのルートでティア3/4を取得すると、反対側のルートはティア2までに制限されます（例：4/x のタワーは x/2 まで）。
+-   **アクティブアビリティ：** 該当タワーを建てると、画面左下にスキルボタンが出現。クールダウンが明け次第クリックして発動します。
+-   **ホットキー：** PC 版では各タワーとアビリティにショートカットキーが割り当てられており、ハイラウンドでは必須テクニックです。
 
--   **Placing/Upgrading:** Select a tower from the right-hand panel, place it on the map. Click the tower to open its upgrade menu and choose an upgrade path.
--   **Upgrade Paths:** Upgrading a tower to tier 3 or 4 on one path will lock the corresponding tiers on the other path. For example, a 4/x tower cannot be upgraded past x/2.
--   **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. Click it to use it.
--   **Hotkeys:** The PC version uses hotkeys for placing towers and activating abilities, which are displayed on the icons.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**1. BTD5 で一番強いタワーは？**  
+> 絶対的な最強タワーは存在しませんが、十分に献祭した **Temple of the Monkey God** と 2/3 **Monkey Village** の組み合わせは最高峰の火力として知られています。
 
-[JA TRANSLATION NEEDED] **1. What is the best tower in Bloons TD 5?**
-[JA TRANSLATION NEEDED] > There is no single "best" tower. The game is about synergy. However, a fully sacrificed **Temple of the Monkey God** supported by a 2/3 **Monkey Village** is considered the most powerful combination in the game for raw damage.
+**2. Temple of the Monkey God がアップグレード欄にありません。**  
+> Temple は **Super Monkey** の最終（4/x）アップグレードです。まず 3/x の「Sun God」を購入すると、次に Temple が選べるようになります。
 
-[JA TRANSLATION NEEDED] **2. How do I get the Temple of the Monkey God? It's not in the upgrade list.**
-[JA TRANSLATION NEEDED] > The Temple is the final upgrade (4/x) for the **Super Monkey**. You first need to buy the "Sun God" (3/x) upgrade. The Temple will then become available.
+**3. 献祭の仕組みは？**  
+> Sun God の射程内にあるタワーが、Temple へアップグレードする際に自動的に吸収されます。各カテゴリ（Primary / Military / Magic など）で約 30,000 ドルまで加算され、それぞれの上限まで捧げると Temple の火力が最大になります。
 
-[JA TRANSLATION NEEDED] **3. How does sacrificing for the Temple work?**
-[JA TRANSLATION NEEDED] > Before you click the final Temple upgrade button, you must have other towers placed within the Sun God's attack range. The game will "sacrifice" (remove) these towers and add their value to the Temple's power. To get the maximum power, you need to sacrifice at least $30,000 worth of towers from three of the four categories: Primary, Bomb/Tack, Glue/Ice, and Magic.
+**4. ZOMG とは何で、どう倒す？**  
+> ZOMG は最も硬い飛行船で、非常に遅い代わりに膨大な HP を持ちます。Temple や MOAB Assassin（Bomb Tower x/4）、Ninja Monkey の Sabotage Supply Lines など、高火力とスロウを組み合わせて集中攻撃しましょう。
 
-[JA TRANSLATION NEEDED] **4. What is a ZOMG and how do I beat it?**
-[JA TRANSLATION NEEDED] > A ZOMG is the toughest blimp. It is very slow but has immense health. To beat it, you need extremely high, focused damage. A Temple, multiple MOAB-Assassin ability monkeys (Bomb Tower x/4), and the Sabotage Supply Lines ability from a Ninja are all key components of a ZOMG-killing strategy.
-
-[JA TRANSLATION NEEDED] **5. Are Special Agents worth it?**
-[JA TRANSLATION NEEDED] > Yes, especially for beginners or on very difficult maps. A well-placed `Meerkat Spy` can provide early camo detection, and a `Bloonsday Device` can save you from a massive leak. They are powerful tools to help you win.
-
-
-    - **Lead:** A 2/3 **Bomb Tower** (`Cluster Bombs`) or a Monkey Village with the `Monkey Intelligence Bureau` (x/3) upgrade, which allows all nearby towers to pop any Bloon type.（日本語訳が必要）
-    - **Supa-Vac (Bloonchipper 2/4):** The ultimate crowd control. Its special ability sucks in even ZOMG-class Bloons, stalling them for your other towers to attack.（日本語訳が必要）
-
-
-
-
-
-
-
-### コントロールガイド
-    - **Sabotage Supply Lines (Ninja Monkey x/4):** This ability slows all Bloons on screen by half, which is absolutely critical in late-game rounds.
-    - **Supa-Vac (Bloonchipper 2/4):** The ultimate crowd control. Its special ability sucks in even ZOMG-class Bloons, stalling them for your other towers to attack.
-    - **Technological Terror (Super Monkey x/4):** Its "Bloon Annihilation" ability can wipe the screen clear of most Bloons.
-- **Late Game Powerhouses:**
-- **Building the Temple of the Monkey God:** The ultimate late-game tower is the **Temple of the Monkey God** (4/x Super Monkey). To maximize its power, you must "sacrifice" other towers to it. Before you purchase the final Temple upgrade, place towers from different categories (Primary, Military, Magic) within its range. The more money you sacrifice (up to a cap for each category), the more powerful the Temple will be.
-    - **Regrow:** High damage-per-second (DPS) towers are needed to prevent "Regrow Farms" where Bloons regenerate faster than you pop them. A 2/3 **Tack Shooter** (`Blade Maelstrom`) or a 4/x **Cannon Ship** (Monkey Buccaneer) works well.
-
-
-    - **Sabotage Supply Lines (Ninja Monkey x/4):** This ability slows all Bloons on screen by half, which is absolutely critical in late-game rounds.
-    - **Supa-Vac (Bloonchipper 2/4):** The ultimate crowd control. Its special ability sucks in even ZOMG-class Bloons, stalling them for your other towers to attack.
-> There is no single "best" tower. The game is about synergy. However, a fully sacrificed **Temple of the Monkey God** supported by a 2/3 **Monkey Village** is considered the most powerful combination in the game for raw damage.（日本語訳が必要）
-
-
-
-
-
-### よくある質問（FAQ）
-- **Hotkeys:** The PC version uses hotkeys for placing towers and activating abilities, which are displayed on the icons.
-- **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. Click it to use it.
-- **Upgrade Paths:** Upgrading a tower to tier 3 or 4 on one path will lock the corresponding tiers on the other path. For example, a 4/x tower cannot be upgraded past x/2.
-- **Placing/Upgrading:** Select a tower from the right-hand panel, place it on the map. Click the tower to open its upgrade menu and choose an upgrade path.
-**2. How do I get the Temple of the Monkey God? It's not in the upgrade list.**（日本語訳が必要）
-
-
-
-
-
-### よくある質問（FAQ）
-- **Hotkeys:** The PC version uses hotkeys for placing towers and activating abilities, which are displayed on the icons.
-- **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. Click it to use it.
-- **Upgrade Paths:** Upgrading a tower to tier 3 or 4 on one path will lock the corresponding tiers on the other path. For example, a 4/x tower cannot be upgraded past x/2.
-- **Placing/Upgrading:** Select a tower from the right-hand panel, place it on the map. Click the tower to open its upgrade menu and choose an upgrade path.
-
-### よくある質問（FAQ）
-> The Temple is the final upgrade (4/x) for the **Super Monkey**. You first need to buy the "Sun God" (3/x) upgrade. The Temple will then become available.（日本語訳が必要）
-**3. How does sacrificing for the Temple work?**（日本語訳が必要）
-> Before you click the final Temple upgrade button, you must have other towers placed within the Sun God's attack range. The game will "sacrifice" (remove) these towers and add their value to the Temple's power. To get the maximum power, you need to sacrifice at least $30,000 worth of towers from three of the four categories: Primary, Bomb/Tack, Glue/Ice, and Magic.（日本語訳が必要）
-**4. What is a ZOMG and how do I beat it?**（日本語訳が必要）
-> A ZOMG is the toughest blimp. It is very slow but has immense health. To beat it, you need extremely high, focused damage. A Temple, multiple MOAB-Assassin ability monkeys (Bomb Tower x/4), and the Sabotage Supply Lines ability from a Ninja are all key components of a ZOMG-killing strategy.（日本語訳が必要）
-**5. Are Special Agents worth it?**（日本語訳が必要）
-> Yes, especially for beginners or on very difficult maps. A well-placed `Meerkat Spy` can provide early camo detection, and a `Bloonsday Device` can save you from a massive leak. They are powerful tools to help you win.（日本語訳が必要）
-
-
-> Yes, especially for beginners or on very difficult maps. A well-placed `Meerkat Spy` can provide early camo detection, and a `Bloonsday Device` can save you from a massive leak. They are powerful tools to help you win.
-**5. Are Special Agents worth it?**
-
-
-> Yes, especially for beginners or on very difficult maps. A well-placed `Meerkat Spy` can provide early camo detection, and a `Bloonsday Device` can save you from a massive leak. They are powerful tools to help you win.
+**5. Special Agents は買う価値がありますか？**  
+> あります。`Meerkat Spy` のように序盤の迷彩検知を補ってくれるものや、`Bloonsday Device` のように大量リークを回避できる切り札など、難関マップで大いに役立ちます。

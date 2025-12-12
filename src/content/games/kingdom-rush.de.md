@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: kingdom-rush
-title: '[DE] Kingdom Rush'
+title: "Kingdom Rush"
 description: >-
-  [DE] Flagship tower defense: place and upgrade four tower types, call
-  reinforcements, and micro a hero to hold choke points.
+  Kingdom Rush ist der Tower-Defense-Klassiker: Platziere und verbessere vier
+  Turmtypen, rufe Verstärkungen und steuere einen Helden, um Engpässe zu
+  halten.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/kingdom-rush.jpg
 tags:
@@ -15,30 +16,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+Kingdom Rush hat die Mischung aus Lanes kontrollieren und Helden-Mikro für die
+Reihe etabliert. Entlang der Wege baust du Bogentürme, Kasernen,
+Magiertürme und Artillerie an Kurven und Engpässen auf.
 
+Durch Upgrades verzweigen sich die Türme in spezialisierte Varianten. Du rufst
+Verstärkungen, um Gegner zu blockieren, und nutzt Heldenskills sowie
+Flächen-Spezialangriffe, um kritische Wellen zu stabilisieren. Die
+Gegnerformationen kombinieren Rüstung, Magieresistenz, fliegende Einheiten und
+Spawn-Mechaniken, sodass du flexibel bauen musst.
 
-### Overview
-Kingdom Rush established the series’ mix of lane control and hero micro. Build archer, barracks, mage, and artillery towers along path bends. Upgrade into specialized branches, call reinforcements to stall, and use hero actives and nukes to stabilize spikes. Enemy waves combine armor, magic resist, flyers, and spawn mechanics, demanding flexible builds.
+### So spielst du
 
-### How to Play
-- Anchor at choke points; support with splash and single‑target towers.
-- Match towers to resistances; rotate hero to threatened lanes.
-- Time global skills for boss phases and bursty waves.
+- **Engpässe sichern:** Baue deine Kernverteidigung an Kurven und
+  Schlüsselstellen und unterstütze sie mit Flächen- und Einzelzielschaden.
+- **Türme an Resistenzen anpassen:** Setze Magier gegen gepanzerte Gegner ein
+  und Bogentürme/Artillerie gegen große Schwärme. Positioniere den Helden dort,
+  wo gerade die größte Gefahr besteht.
+- **Globale Fähigkeiten timen:** Spare starke Spezialangriffe für Boss-Phasen
+  oder besonders dichte Wellen auf.
 
-### Controls
-- Mouse/touch for all tower and hero actions; hotkeys vary.
+### Steuerung
 
-### Tips
-- Fewer, stronger towers outperform many weak ones early.
-- Keep anti‑air coverage; flyers punish ground‑only setups.
-- Use barracks to clump enemies under splash.
+- Sämtliche Turm- und Heldenaktionen steuerst du mit Maus oder Touch; Hotkeys
+  können je nach Plattform variieren.
+
+### Tipps
+
+- **Wenige, starke Türme**  
+  Zu Beginn sind einige hochgestufte Türme meist effektiver als viele schwache.
+
+- **Flugabwehr nicht vergessen**  
+  Halte die Luftwege im Blick – fliegende Gegner bestrafen Setups, die nur auf
+  Bodenziele ausgelegt sind.
+
+- **Kasernen klug nutzen**  
+  Stelle Infanterie so, dass sie Gegner bündelt und diese unter den
+  Flächenschaden deiner Artillerie festhält.
 
 ### FAQ
-- Q: What is a good early game build order?
-A: One barracks + one splash + one mage, then upgrade near the main choke.
-- Q: How do I handle mixed waves effectively?
-A: Combine mage (armor), archer/artillery (swarm), and position hero as finisher.
-- Q: Are heroes required for completing levels?
-A: Not mandatory, but they smooth spikes and save lives at choke points.
 
+- **F: Was ist eine gute Build-Order für den frühen Spielverlauf?**  
+  **A:** Ein Kaserne-Turm plus ein Flächenturm und ein Magierturm nahe des
+  Hauptengpasses sind ein stabiler Start. Danach nach Bedarf aufrüsten.
+
+- **F: Wie gehe ich mit gemischten Gegnerwellen um?**  
+  **A:** Kombiniere Magier (gegen Rüstung) mit Bogentürmen/Artillerie (gegen
+  Schwärme) und nutze den Helden als Finisher für starke Einzelgegner.
+
+- **F: Sind Helden notwendig, um Levels abzuschließen?**  
+  **A:** Nicht zwingend, aber sie machen das Spiel deutlich verzeihender und
+  helfen, gefährliche Spitzen an den Engpässen abzufangen.

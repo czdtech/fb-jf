@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: daily-sudoku
-title: '[DE] Daily Sudoku'
+title: "Daily Sudoku"
 description: >-
-  [DE] Daily Sudoku provides a fresh logic puzzle every day: place digits 1–9 so
-  each row, column, and box contains all numbers.
+  Daily Sudoku liefert dir jeden Tag ein neues Logikrätsel – platziere die
+  Ziffern 1–9 so, dass jede Zeile, Spalte und Box alle Zahlen ohne
+  Wiederholungen enthält.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/daily-sudoku.jpg
 tags:
@@ -15,28 +16,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+*Daily Sudoku* bietet jeden Tag ein neues 9×9-Logikrätsel. Du füllst Ziffern
+von 1 bis 9 so ein, dass jede Zeile, jede Spalte und jede 3×3-Box alle Zahlen
+ohne Wiederholung enthält. Viele Hosts stellen mehrere Schwierigkeitsgrade,
+Notizfunktionen und Prüftools bereit.
 
+### So spielst du
 
-### Overview
-Daily Sudoku offers a fresh 9×9 logic puzzle each day. Fill digits 1–9 so that each row, column, and 3×3 box contains all numbers without repetition. Many hosts provide multiple difficulties, pencil marks, and validation tools.
+- Wähle eine Zelle und trage eine Ziffer ein; verwende Notizen, um Kandidaten
+  zu markieren.
+- Nutze Basis-Techniken wie Singles, Hidden Singles und Eliminierung durch
+  Scannen der Nachbarn.
+- Auf höheren Stufen helfen Muster wie Paare, Tripel oder komplexere
+  Techniken (z. B. X-Wing).
 
-### How to Play
-- Select a cell and type a digit; use pencil marks (notes) to track candidates.
-- Apply basic techniques such as singles, hidden singles, and elimination by scanning peers.
-- On higher difficulties, learn advanced patterns (pairs, X‑Wing, etc.).
+### Steuerung
 
-### Controls
-- Number keys to enter digits; Shift/Right‑click toggles pencil marks (site‑dependent); Undo/Redo and Check tools are common.
+- Zahlentasten zum Eintragen; Shift/Rechtsklick (je nach Seite) wechselt in den
+  Notizmodus; Undo/Redo und Prüf-Tools sind meist vorhanden.
 
-### Tips and Strategies
-- Start with singles found by scanning each row/column/box.
-- Use notes consistently and clear them after placing a number.
-- Avoid guesswork; if the host allows, use error‑highlighting conservatively.
+### Tipps & Strategien
+
+- Beginne mit offensichtlichen Singles, indem du Zeilen, Spalten und Boxen
+  nach eindeutigen Feldern durchgehst.
+- Nutze Notizen konsequent und räume sie auf, sobald du eine Zahl gesetzt
+  hast.
+- Vermeide reines Raten – wenn der Host Fehler anzeigt, nutze dieses Feature
+  sparsam, damit du deine Logik trainierst.
 
 ### FAQ
-- Q: What difficulties are available?
-A: Commonly Easy/Medium/Hard; daily sets may rotate difficulties.
-- Q: Do online versions support pencil marks?
-A: Most implementations support notes and candidate marking.
 
+- F: Welche Schwierigkeitsgrade gibt es?
+  
+  A: Üblich sind Stufen wie Easy/Medium/Hard; Tages-Sets können rotieren.
+
+- F: Unterstützen Online-Versionen Notizen?
+  
+  A: Ja, die meisten Implementierungen bieten Kandidaten- und Notizfunktionen.

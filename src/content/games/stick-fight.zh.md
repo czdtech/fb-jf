@@ -1,53 +1,54 @@
 ---
 locale: zh
 urlstr: stick-fight
-title: '[ZH TRANSLATION NEEDED] Stick Fight'
-description: >-
-  [ZH TRANSLATION NEEDED] Enter the chaotic arena of Stick Fight, a
-  physics-based brawler where you battle other stick figures to be the last one
-  standing. Use a variety of weapons and your own two fists to knock opponents
-  off the stage in this fast-paced action game.
-iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
+title: 《Stick Fight》火柴人乱斗
+description: 《Stick Fight》是一款节奏明快的火柴人对战游戏。在物理效果夸张的场景中拳打脚踢、拾取武器，把对手击飞出场成为最后的赢家。
+iframeSrc: 'https://stickfight.h5games.usercontent.goog/v/4gqf1m7v9ce90/'
 thumbnail: /new-images/stick-fight.jpg
 tags:
   - fighting
-  - action
-  - stickman
-score: 3.6/5  (1015 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - physics
+  - multiplayer
+score: 4.2/5  (2100 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] Stick Fight is a fast-paced, physics-based fighting game where you control a simple stick figure and battle against others in a variety of hazardous arenas. The goal is to be the last stickman standing. The game is known for its chaotic, unpredictable combat, where environmental dangers and a wide array of weapons lead to hilarious and action-packed rounds.
+### 详细游戏介绍
 
-### Gameplay Guide
+《Stick Fight》是一款以火柴人角色为主角的混战格斗游戏。你和其他玩家将被投放到各种千奇百怪的关卡中，有的地形会不断坍塌，有的会出现随机武器，还有的充满移动平台与致命陷阱。借助夸张的物理引擎，每一次跳跃、击打或被击飞都充满笑点与不可预知性。
 
-[ZH TRANSLATION NEEDED] The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
-- **Combat:** Use punches, kicks, and a variety of weapons that are dropped into the arena.
-- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
-- **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
+### 游玩策略与对战指引
 
-### Controls Guide
 
-[ZH TRANSLATION NEEDED] Controls are typically based on a standard 2D platformer layout:
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
-- **Jump:** `W` or `Up Arrow` Key
-- **Crouch:** `S` or `Down Arrow` Key
-- **Attack:** `Left Mouse Button` or `F`
+The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
+1.  **优先熟悉基础操作：** 在追求华丽击杀前，先熟悉移动、跳跃、蹲伏与基本攻击，让自己不会因为手忙脚乱而被环境先“教育”。
+2.  **抢夺武器：** 地图上随机掉落的枪械、刀刃或特殊武器往往能瞬间改变战局。尽量在安全前提下抢先拿到武器，再寻找输出机会。
+3.  **充分利用地形：** 有些关卡会有会坍塌的平台、可反弹的墙面或会移动的障碍，学会利用环境来逼对手失足，比硬刚更有效。
+4.  **保持冷静：** 多人混战中，往往不是输出最高的人赢，而是最后活下来的人。必要时可以暂时“猥琐发育”，等待其他人互相消耗。
+
+### 操作说明
+
+
+Controls are typically based on a standard 2D platformer layout:
+*   **移动：** 使用方向键或 WASD 控制火柴人的移动与跳跃；
+*   **攻击 / 拾取：** 通过指定攻击键进行拳打脚踢，靠近武器时按键拾取并使用；
+*   **特殊动作：** 部分武器或关卡会提供额外能力，具体以游戏内提示为准。
+
+
 - **Block:** `Right Mouse Button` or `G`
 
-### Frequently Asked Questions (FAQ)
+- **Attack:** `Left Mouse Button` or `F`
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **What is the main goal of Stick Fight?**
+**问：总是刚出生就被集火怎么办？****
+答：** 尝试在开局先拉开一点距离，利用场景掩体或高低差躲避前几轮爆发，再伺机加入战团。
 
-[ZH TRANSLATION NEEDED] To be the last player standing by knocking your opponents off the stage or defeating them with weapons.
+**问：游戏更偏向技术还是运气？****
+答：** 二者都有。熟练的操作和走位能显著提升生存率，但随机武器与可破坏地形也会创造许多“意外名场面”，更适合作为轻松娱乐型对战。
 
-[ZH TRANSLATION NEEDED] **Can I play this game with friends?**
 
-[ZH TRANSLATION NEEDED] Yes, Stick Fight is primarily a multiplayer game, often supporting both local and online matches with 2-4 players.
 
-[ZH TRANSLATION NEEDED] **What kind of weapons are in the game?**
+The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
 
-[ZH TRANSLATION NEEDED] The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
-
+**What kind of weapons are in the game?**

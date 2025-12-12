@@ -1,87 +1,41 @@
 ---
+title: "Element Blocks エレメント・ブロックス"
+description: "「Element Blocks」は戦略的ブロックパズル。エレメント（元素）ブロックを配置してラインを消し、星を集めてブースターを発動。盤面を制覇しよう。"
+iframeSrc: "https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/"
+thumbnail: "/new-images/element-blocks.png"
+urlstr: "element-blocks"
+score: "4.5/5  (2500 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: element-blocks
-title: '[JA TRANSLATION NEEDED] Element Blocks'
-description: >-
-  [JA TRANSLATION NEEDED] A strategic block puzzle game with a twist. Place
-  elemental blocks to clear lines, and collect stars to unleash powerful
-  boosters. Plan your moves carefully to master the grid!
-iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
-thumbnail: /new-images/element-blocks.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.5/5  (2500 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Element Blocks（エレメント・ブロックス）*は、人気の10x10ブロックパズルに「星集め」と「パワーアップ」システムを加えた、落ち着いた雰囲気の戦略パズルゲームです。
+プレイヤーは、テトリス風の様々な形をした「エレメントブロック」を10x10のグリッドに配置します。縦または横の列を完全に埋めると、その列が消えて得点になります。星を集めてパワーアップを使うことで、ピンチを切り抜けてゲームを長く続けられます。
 
-[JA TRANSLATION NEEDED] Element Blocks is a calm yet strategic puzzle game that builds on the popular 10x10 block puzzle formula. Players place various Tetris-like shapes, themed as elemental blocks, onto a 10x10 grid. The goal is to fill and clear complete lines either horizontally or vertically. What sets this game apart is the addition of a star collection and power-up system, providing a strategic tool to get you out of difficult situations and extend your game.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **基本ルール:** 一度に3つのブロックが与えられます。3つすべてを盤面に配置すると、新しいセットが登場します。ブロックは回転できません。
+2.  **星の収集:** 時々、星が埋め込まれたブロックが出現します。そのブロックを含む列を消すと、星を獲得できます。星はパワーアップの通貨です。
+3.  **パワーアップの賢い使用:** 集めた星で、爆弾（小範囲クリア）や稲妻（一列消去）などの強力なブースターを使えます。本当に詰まった時のために温存しましょう。
+4.  **先を見越す:** 今置けるからといって適当に置かないこと。残り2つのブロックも考慮して、それらが入るスペースを残すように配置しましょう。
+5.  **コンボを狙う:** 1つのブロックで複数の列を同時に消すと「コンボ」となり、大きなスコアボーナスが得られます。
 
-[JA TRANSLATION NEEDED] 1.  **Standard 10x10 Rules:** You are given three block shapes at a time. You must place all three on the board before a new set appears. The blocks cannot be rotated.
-[JA TRANSLATION NEEDED] 2.  **Collect Stars:** Occasionally, blocks will appear with stars embedded in them. When you clear a line that includes one of these special blocks, you collect the star. These stars are the currency for using power-ups.
-[JA TRANSLATION NEEDED] 3.  **Use Power-ups Wisely:** Collected stars can be spent on powerful boosters. These might include a bomb to clear a small area, a lightning bolt to destroy a single line, or other helpful tools. Save these for when you are truly stuck and have no other good moves.
-[JA TRANSLATION NEEDED] 4.  **Think About Future Shapes:** Don't just place a block where it fits now. Look at the other two shapes you have and try to place the current one in a way that leaves room for the others. The game ends when you can't place any of the three given shapes.
-[JA TRANSLATION NEEDED] 5.  **Maximize Combos:** Clearing multiple lines with a single block placement is called a combo and will grant you a significant score bonus. Always be on the lookout for combo opportunities.
+### 操作ガイド
 
-### Controls Guide
+*   **配置:** 下部のブロックをマウス（または指）でドラッグして、グリッド上にドロップします。
+*   **パワーアップ:** 星が十分に貯まったら、パワーアップアイコンをクリックし、効果を発動したい場所をクリックします。
 
-*   **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
-    - **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.（日本語訳が必要）
-    - **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.（日本語訳が必要）
-    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.（日本語訳が必要）
-    - **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.（日本語訳が必要）
-    - **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.（日本語訳が必要）
-    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.（日本語訳が必要）
-*   **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 星はどうやって手に入れますか？**
+    *   **A:** 星が付いたブロックを含む列を消すことで獲得できます。
 
-*   **Q: How do I get stars?**
-[JA TRANSLATION NEEDED]     *   **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
+*   **Q: ブロックは回転できますか？**
+    *   **A:** いいえ、回転できないことがこのゲームの難しさの核心です。与えられた形のまま配置する必要があります。
 
-*   **Q: Can I rotate the blocks?**
-[JA TRANSLATION NEEDED]     *   **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
-
-*   **Q: What is the best way to use my stars?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-- **Q: What is the best way to use my stars?**
-    - **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
-- **Q: Can I rotate the blocks?**
-    - **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
-- **Q: How do I get stars?**
-### よくある質問（FAQ）
-- **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
-- **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-- **Q: What is the best way to use my stars?**
-    - **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
-- **Q: Can I rotate the blocks?**
-    - **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
-- **Q: How do I get stars?**
-
-    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-[JA TRANSLATION NEEDED]     *   **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-
+*   **Q: 星の使い道は？**
+    *   **A:** 緊急時のために取っておくのがベストです。盤面が埋まってきて次のブロックが入らない時、パワーアップで特定エリアをクリアすればゲームを続けられます。

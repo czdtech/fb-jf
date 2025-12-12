@@ -1,50 +1,48 @@
 ---
-locale: ja
+title: Mahjongg Candy
+description: Mahjongg Candyは甘いマッチ3ひねりです。キャンディタイルをマッチし、ボーナスをアンロックし、カラフルなレベルでボードをクリアします。
+iframeSrc: 'https://mahjonggcandy.h5games.usercontent.goog/v/5n1hfvph2fdug/'
+thumbnail: /new-images/mahjongg-candy.png
 urlstr: mahjongg-candy
-title: '[JA TRANSLATION NEEDED] Mahjongg Candy'
-description: >-
-  [JA TRANSLATION NEEDED] Indulge your sweet tooth and sharpen your mind with
-  Mahjongg Candy! This delightful tile-matching puzzle game challenges you to
-  clear the board by finding identical pairs of candy tiles. Strategize your
-  moves, clear unblocked tiles, and race against the clock to achieve a high
-  score in this colorful brain-teaser.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
-thumbnail: /new-images/mahjongg-candy.jpg
+score: 4.3/5  (2150 votes)
 tags:
   - puzzle
-  - tile-matching
-  - mahjong
-score: 4.8/5  (1096 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Mahjongg Candy is a sweet and engaging tile-matching puzzle game that puts a colorful, candy-themed spin on the classic Mahjongg Solitaire. The objective is to clear the entire board by finding and matching identical pairs of candy tiles. It's a game that tests your observation skills, pattern recognition, and strategic thinking.
+Mahjongg Candyは、クラシックな麻雀ソリティアに甘くカラフルなキャンディテーマを追加します。同一のフリーキャンディタイルをマッチし��、ボーナスポイントをアンロックし、何百ものおいしいレベルをクリアします。
 
-### Gameplay Guide
+### ゲームプレイ戦略と攻略法
 
-- **Matching Pairs:** Click or tap on two identical candy tiles to remove them from the board.
-- **Unblocked Tiles:** Only tiles that are "unblocked" can be matched. An unblocked tile must have at least one free side (left or right) and no other tile on top of it.
-- **Time Limit:** Most versions of the game have a time limit, so you need to think and act quickly.
-- **Strategy:** Look for matches that will free up more tiles, especially those that are blocking other tiles. Don't just match the first pair you see.
+1.  **キャンディタイプを学ぶ:** 異なるキャンディはタイルデザインを表します。それらを素早く認識することを学びます。
+2.  **戦略的にマッチ:** 最も多くの新しいタイルを公開するペアを優先します。
+3.  **特別なボーナス:** 特定のマッチまたはクリアスピードは、パワーアップまたはボーナスポイントをアンロックする可能性があります。
+4.  **時間を効率的に使用:** 一部のレベルには time limits があります。効率的に計画します。
+
+
 - **Scoring:** Longer chains of matches or faster completion often lead to higher scores. Some tiles might offer score multipliers.
+### 操作ガイド
 
-### Controls Guide
+- フリーキャンディタイルをクリック/タップして選択およびマッチします。
+- ヒント/シャッフルボタンが必要に応じて利用可能です。
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 通常の麻雀と何が違いますか？**  
+  A: 同じゲームプレイですが、キャンディテーマのビジュアルとボーナス機能があります。
+- **Q: すべてのレベルをクリアできますか？**  
+  A: はい、戦略と忍耐力で、すべてのレベルは解決可能です。
+- **Q: ヒントは無制限ですか？**  
+  A: レベルまたはバージョンによって異なります。控えめに使用します。
 
-[JA TRANSLATION NEEDED] **What is the goal of Mahjongg Candy?**
 
-[JA TRANSLATION NEEDED] The main goal is to clear all the candy tiles from the board by matching identical, unblocked pairs.
+Practice recognizing patterns and planning your moves several steps ahead. Prioritize clearing tiles that are blocking many other tiles. Try to create cascades of matches.
 
-[JA TRANSLATION NEEDED] **What happens if I get stuck?**
+**How can I improve my game?**
 
-[JA TRANSLATION NEEDED] Many Mahjongg games offer hints that can reveal a possible match, or a shuffle option to rearrange the remaining tiles if no moves are available. Using these might incur a score penalty.
-
-[JA TRANSLATION NEEDED] **How can I improve my game?**
-
-[JA TRANSLATION NEEDED] Practice recognizing patterns and planning your moves several steps ahead. Prioritize clearing tiles that are blocking many other tiles. Try to create cascades of matches.
-
+Many Mahjongg games offer hints that can reveal a possible match, or a shuffle option to rearrange the remaining tiles if no moves are available. Using these might incur a score penalty.

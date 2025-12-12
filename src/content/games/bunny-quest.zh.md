@@ -1,39 +1,57 @@
 ---
 locale: zh
 urlstr: bunny-quest
-title: '[ZH TRANSLATION NEEDED] Bunny Quest'
-description: >-
-  [ZH TRANSLATION NEEDED] Bunny Quest is a tile‑path puzzle — slide tiles,
-  connect routes, and guide the bunny to the goal.
-iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
-thumbnail: /new-images/bunny-quest.png
+title: Bunny Quest 小兔迷宫拼图
+description: 《Bunny Quest 小兔迷宫拼图》是一款滑块式路径解谜游戏，通过滑动地砖为小兔子拼出一条从起点到胡萝卜的安全路 线。
+iframeSrc: 'https://bunnyquest.h5games.usercontent.goog/v/4t4vj17o0imw8/'
+thumbnail: /new-images/bunny-quest.jpg
 tags:
   - puzzle
   - thinky
-score: 4.1/5  (1881 votes)
+score: 3.9/5  (1650 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Bunny Quest is a path‑building slider puzzle. Rearrange tiles to form an unbroken route from start to finish, collect optional items, and avoid dead‑ends as move limits tighten in later levels.
+*Bunny Quest* 将经典“滑块拼图”与路径规划结合。棋盘上摆放着不同形状的道路地砖，其中一部分固定，一部分可以在网格中滑动。小兔子需要沿着连通的路径从起点走到终点（通常是胡萝卜或家门口），你的任务就是在有限步数内通过滑动地砖为它拼出一条完整路线。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Corners and straights: Place corner/straight tiles to sketch the main path first.
-2.  [ZH TRANSLATION NEEDED] Avoid loops: Don’t waste moves forming isolated loops that don’t reach the goal.
-3.  [ZH TRANSLATION NEEDED] Save junctions: Use T‑junctions and crosses late to resolve branching.
-4.  [ZH TRANSLATION NEEDED] Minimal moves: Track move counts and reverse steps early if inefficient.
-5.  [ZH TRANSLATION NEEDED] Optional items: Route them only when they don’t explode move counts.
+关卡会逐渐引入分叉路、死路与特殊格子，要求你在有限的滑动次数里合理安排地砖位置，避免浪费步数。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Slide tiles by dragging; tiles shift along rows/columns per rules.
-- Undo/Reset if available to optimize routes.
+1.  **先从“整体路径”入手，而不是逐格瞎调**  
+    开局先观察哪些地砖是起点和终点附近的“必经之路”，再思考整体线路大致要朝哪个方向折返，而不是一开始就随意拖动某一块。
 
-### Frequently Asked Questions (FAQ)
+2.  **锁定关键转角与直线段**  
+    某些转角或直线地砖的位置非常关键，一旦放错会让整条路无法连通。可以优先确定这些地砖的最终位置，再用周边普通地砖把空隙补齐。
 
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
-- Timers? Some stages use move limits, not strict timers.
+3.  **注意滑块拼图的“行列联动”特性**  
+    大部分关卡中的可滑动地砖是整行或整列联动的：你移动一块砖，整行 / 列都会随之平移一格。规划时要考虑这种联动效应，避免好不容易拼好的路因一次无心操作全部错位。
+
+4.  **倒推法：从终点往回想路线**  
+    如果从起点很难想象路线，可以尝试从终点开始往回倒推，寻找可行的路径形状，再在中间找机会与起点连上。
+
+5.  **在步数受限关卡中“预演几步”再操作**  
+    有的关卡对滑动次数有限制。正式拖动之前，可以在脑中演练几步的滑动效果，尤其是当你打算移动带有关键转角的整行时，确保不会因为一步失误导致整个线路崩盘。
+
+### 操作指南
+
+-   **滑动地砖：** 用鼠标或手指按住某块可移动地砖并向上下或左右拖动，即可推动整行或整列移动一格（视关卡规则而定）。  
+-   **查看路径：** 拼好后可以点击开始，让小兔按路径行走；若路径不连通，小兔会在断路处停下。  
+-   **重置：** 如关卡提供重置按钮，可用来一键恢复初始布局重新思考。  
+
+### 常见问题解答（FAQ）
+
 - Hints? Many versions include hints; use sparingly.
 
+- Timers? Some stages use move limits, not strict timers.
+
+- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
+**1. 为什么明明看起来连通，小兔却走不过去？**  
+常见原因是某些转角瓷砖方向不对，视觉上像是连着，实际在逻辑上并未连接；注意仔细确认所有相邻格子的道路方向是否真正对上。
+**2. 步数不够怎么办？**  
+说明当前解法中存在多余滑动。尝试寻找更“短路径”的拼法，或减少不必要的行列往返移动。可以刻意练习在脑中预演几步后再实际拖动。  
+**3. 游戏适合小朋友玩吗？**  
+非常适合。规则简单直观，又能锻炼空间想象与规划能力，只要一开始父母简单讲解一下滑块规则，大部分孩子都能很快上手。  

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: panenka-football
-title: '[ES] Panenka Football'
+title: "Panenka Football - Maestría en penaltis estilo Panenka"
 description: >-
-  [ES] Panenka Football is a penalty craft — disguise intent, chip with touch,
-  and outguess keepers with audacious Panenkas.
+  Panenka Football es un simulador de penaltis centrado en la célebre Panenka:
+  disfraza la intención, pica el balón con sutileza y adivina al portero
+  alternando perfiles de disparo.
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/panenka-football.png
 tags:
@@ -16,34 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Panenka Football gira en torno a la mítica Panenka: un toque suave al centro de
+la portería mientras el guardameta se lanza a un lado. Mezcla vaselinas con
+lanzamientos a las esquinas y cambios de altura; el éxito depende más de
+alterar el ritmo y leer al portero que de la potencia bruta.
 
-Panenka Football focuses on the cheeky Panenka — a soft chip down the middle as the keeper dives. Mix chips with corners and height variations; success relies on late aim changes and reading keeper habits.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Leer al portero:** si el guardameta se lanza pronto a un lado, el centro
+    picado es la mejor opción; si aguanta, elige una esquina.
+2.  **Control de altura:** golpea raso y fuerte contra porteros prudentes y usa
+    chips suaves contra porteros agresivos que se tiran antes.
+3.  **Disfrazar la intención:** retrasa la elección de esquina y varía el ángulo
+    y la carrera para no telegrafiar el disparo.
+4.  **Ritmo variado:** no abuses de las Panenkas; alterna disparos a ras, altos
+    y al centro para evitar patrones.
+5.  **Viento (si existe):** corrige ligeramente la puntería y reduce la altura
+    del balón en condiciones de viento fuerte.
 
-1.  **[ES]** Keeper read: If the keeper dives early, chip middle; if he holds, pick corners.
-2.  **[ES]** Height control: Low hard drives vs cautious keepers; soft chips vs aggressive ones.
-3.  **[ES]** Disguise: Delay final aim to avoid telegraphing; vary run‑up angles.
-4.  **[ES]** Rhythm: Don’t overuse Panenkas; rotate options.
-5.  **[ES]** Wind (if any): Offset shots slightly; keep chips low in strong wind.
+### Guía de controles
 
-### Controls Guide
+- Lanzar: apunta, ajusta potencia y, si la versión lo permite, aplica efecto.  
+- Portero: elige lado y momento del salto; algunas versiones permiten controlar
+  manualmente la estirada.
 
-- Aim with mouse/keys; set power/height; optional swerve via drag if supported.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **P: Me paran casi todas las Panenkas, qué hago mal?**  
+  **R:** Úsalas solo cuando el portero se lanza muy pronto; si espera hasta el
+  final, es mejor buscar una esquina.
 
-- Q: My Panenkas get saved.
+- **P: Cuál es el disparo "seguro"?**  
+  **R:** Los tiros bajos y firmes a las esquinas son difíciles de atajar y
+  exigen un timing perfecto del guardameta.
 
-A: Use them only when the keeper dives early; otherwise go corners.
-
-- Q: Best safe shot?
-
-A: Firm low corners; they demand perfect keeper timing.
-
-- Q: How do I hide intent?
-
-A: Change aim late and vary run‑up tempo.
-
+- **P: Cómo oculto mejor hacia dónde voy a tirar?**  
+  **R:** Cambia el ángulo de carrera, decide tarde y juega con pequeñas pausas
+  antes de chutar para forzar al portero a adivinar.

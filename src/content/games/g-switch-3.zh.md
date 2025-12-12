@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: g-switch-3
-title: '[ZH TRANSLATION NEEDED] G-Switch 3'
+title: "G-Switch 3 重力切換酷跑 3"
 description: >-
-  [ZH TRANSLATION NEEDED] High‑speed gravity runner with new traps and robust
-  local multiplayer modes that test timing and consistency.
+  《G-Switch 3》是在前作基礎上的高速重力跑酷續作，加入更多致命陷阱與強化的本地多人模式，
+  專門考驗你的節奏感與穩定度。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/g-switch-3.jpg
@@ -18,25 +18,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Faster sequences and complex trap chains that demand double‑flips and perfect timing; supports large local races.
+
+三代節奏比前作更快，關卡裡布滿連鎖機關與複雜陷阱，需要更頻繁的 double‑flip（連續翻轉）
+與精準時機才能平安通過；同時，本地多人競速也擴充到更多玩家，
+在同一畫面上展開混亂又刺激的重力競跑。
 
 ### How to Play
-- Memorize chain traps; flip early before saws and late for low ceilings.
-- Practice recovery by chaining two flips in under a second.
-- Race friends locally if available.
+
+- 熟記連鎖陷阱的出現順序，遇到圓鋸等高位障礙要提前翻轉，遇到低天花板則要稍晚一點再切換。
+- 練習在不到一秒內完成兩次翻轉，作為誤判時的補救手段，能在「快掉出去」時拉回角色。
+- 若支援多人模式，可以拉朋友一起在同鍵盤上用不同按鍵參賽，比拼誰能在高速度下跑得更久。
 
 ### Controls
-- One key/tap to flip; per‑player keys in versus.
+
+- 使用單一按鍵或輕觸即可切換重力；
+- 在對戰模式中，每位玩家有自己的專屬翻轉鍵，具體配置依託管版本而定。
 
 ### Tips
-- Keep eyes mid‑screen to read ahead.
-- Use music rhythm to stabilize your flip cadence.
+
+- 視線保持在畫面中段稍前的位置，提前讀取即將出現的地形與陷阱，而不是只盯著腳下。
+- 跟著背景音樂節奏翻轉，可以幫助你維持穩定的操作節奏，在高速段特別有用。
 
 ### FAQ
-- Q: What is the main difference from previous entries?  
-[ZH TRANSLATION NEEDED]   A: Higher speed, trickier obstacles, and expanded local multiplayer.
-- Q: Can many players join on one keyboard?  
-[ZH TRANSLATION NEEDED]   A: Some hosts allow large local lobbies with unique keys.
-- Q: Are there difficulty options?  
-[ZH TRANSLATION NEEDED]   A: Difficulty scales with speed and obstacle density rather than a menu.
 
+- 問：與前幾代相比，本作最大的不同是什麼？  
+  答：整體速度更快、障礙更刁鑽，同時本地多人數量與競速模式也更加豐富，對節奏與穩定度要求更高。
+
+- 問：同一個鍵盤最多可以幾個人一起玩？  
+  答：部分版本允許很多玩家同時加入，每人綁定一個翻轉鍵，在同一畫面上進行大亂鬥式競跑。
+
+- 問：有難度選項嗎？  
+  答：通常不會有傳統的難度選單，而是透過速度與陷阱密度自然提高挑戰，跑得越久難度越高。

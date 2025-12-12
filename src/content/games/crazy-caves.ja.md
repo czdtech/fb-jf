@@ -1,81 +1,39 @@
 ---
+title: "Crazy Caves"
+description: "Crazy Cavesに入り、反射神経をテストしましょう！落下する岩の無限の集中砲火をかわしながら、ツルハシを投げて粉砕し、貴重な宝石とゴールドを獲得しましょう。装備をアップグレードして、より長く生き残り、高得点を目指しましょう。"
+iframeSrc: "https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/"
+thumbnail: "/new-images/crazy-caves.jpg"
+urlstr: "crazy-caves"
+score: "4.2/5  (1850 votes)"
+tags: ["action", "casual", "clicker"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: crazy-caves
-title: '[JA TRANSLATION NEEDED] Crazy Caves'
-description: >-
-  [JA TRANSLATION NEEDED] Enter the Crazy Caves and test your reflexes! Dodge an
-  endless barrage of falling rocks while throwing pickaxes to smash them for
-  valuable gems and gold. Upgrade your gear to survive longer and score higher.
-iframeSrc: >-
-  https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
-thumbnail: /new-images/crazy-caves.jpg
-tags:
-  - action
-  - casual
-  - clicker
-score: 4.2/5  (1850 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Crazy Cavesは、反射神経とサバイバルスキルをテストする、テンポの速いアクション満載のアーケードゲームです。あらゆるサイズの岩が絶えず落下する危険な洞窟の底で、カート内の鉱夫を操作します。あなたのミッションは二つあります。落下する破片をかわして生き残ること、そして同時にツルハシを投げて岩を粉砕し、こぼれ落ちる貴重な宝石とゴールドを集めることです。収益を使って装備をアップグレードし、混沌とした洞窟でどれだけ長く生きられるかを確認しましょう。
 
-[JA TRANSLATION NEEDED] Crazy Caves is a fast-paced, action-packed arcade game that tests your reflexes and survival skills. You control a miner in a cart at the bottom of a dangerous cave where rocks of all sizes are constantly falling. Your mission is twofold: dodge the falling debris to survive, and simultaneously throw pickaxes to smash the rocks, collecting the valuable gems and gold that fall out. Use your earnings to upgrade your equipment and see how long you can last in the chaotic caverns.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **サバイバルが最優先:** 絶対的な最優先事項は、ヒットされないことです。常に動き続け、すべての落下する岩の軌道に目を配りましょう。1回のヒットでランが終了します。
+2.  **脅威を優先する:** 一部の岩はより大きく、より速く落下し、より大きな脅威となります。最も差し迫った危険に対して、ツルハシの投げを集中させましょう。
+3.  **効率的な採掘:** 岩を破壊したときに、他の岩を攻撃し続けるのに安全な場所にいるように位置を調整してみてください。単一の大きな巨石を壊そうとして隅に追い込まれないようにしましょう。
+4.  **賢くアップグレード:** 各ラン後、集めたゴールドと宝石を賢く投資しましょう。ツルハシのダメージをアップグレードすると、岩をより速く破壊でき、これはサバイバルに不可欠です。収入をアップグレードすると、将来のアップグレードのためにより多くを稼げ、強力なフィードバックループを作成します。
 
-[JA TRANSLATION NEEDED] 1.  **Survival First:** Your absolute top priority is to not get hit. Always be moving and keep an eye on the trajectory of all falling rocks. It only takes one hit to end your run.
-[JA TRANSLATION NEEDED] 2.  **Prioritize Threats:** Some rocks are larger and fall faster, posing a greater threat. Focus your pickaxe throws on the most immediate dangers first.
-[JA TRANSLATION NEEDED] 3.  **Efficient Mining:** Try to position yourself so that when you destroy a rock, you are in a safe place to continue attacking others. Don't get cornered while trying to break a single large boulder.
-[JA TRANSLATION NEEDED] 4.  **Upgrade Smartly:** After each run, invest your collected gold and gems wisely. Upgrading your pickaxe damage allows you to destroy rocks faster, which is crucial for survival. Upgrading your income helps you earn more for future upgrades, creating a powerful feedback loop.
+### 操作ガイド
 
-### Controls Guide
+*   **移動:** マウスまたは指を使って、画面下部に沿って採掘カートを左右にドラッグします。
+*   **ツルハシを投げる:** 左マウスボタンをクリックするか、画面の任意の場所をタップしてツルハシを上に投げます。
 
-*   **Move:** Use your mouse or finger to drag your mining cart left and right along the bottom of the screen.
-    - **A:** The game is over instantly. You will need to start a new run from the beginning.（日本語訳が必要）
-    - **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.（日本語訳が必要）
-    - **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.（日本語訳が必要）
-    - **A:** The game is over instantly. You will need to start a new run from the beginning.（日本語訳が必要）
-    - **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.（日本語訳が必要）
-    - **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.（日本語訳が必要）
-*   **Throw Pickaxe:** Click the left mouse button or tap anywhere on the screen to throw a pickaxe upwards.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 岩にぶつかるとどうなりますか？**
+    *   **A:** ゲームは即座に終了します。最初から新しいランを開始する必要があります。
 
-*   **Q: What happens if a rock hits me?**
-[JA TRANSLATION NEEDED]     *   **A:** The game is over instantly. You will need to start a new run from the beginning.
+*   **Q: 最初に何をアップグレードすべきですか？**
+    *   **A:** 良い開始戦略は、ツルハシのダメージをアップグレードすることです。これは危険な岩をより速くクリアするのに役立ち、より長いサバイバル時間に直接貢献します。その後、収益のアップグレードも素晴らしい選択です。
 
-*   **Q: What should I focus on upgrading first?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
-
-*   **Q: How do I deal with the really big boulders?**
-
-
-
-
-
-
-
-
-    - **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
-- **Q: How do I deal with the really big boulders?**
-    - **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
-- **Q: What should I focus on upgrading first?**
-    - **A:** The game is over instantly. You will need to start a new run from the beginning.
-- **Q: What happens if a rock hits me?**
-### よくある質問（FAQ）
-- **Throw Pickaxe:** Click the left mouse button or tap anywhere on the screen to throw a pickaxe upwards.
-
-
-
-
-
-    - **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
-- **Q: How do I deal with the really big boulders?**
-    - **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
-- **Q: What should I focus on upgrading first?**
-    - **A:** The game is over instantly. You will need to start a new run from the beginning.
-[JA TRANSLATION NEEDED]     *   **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
-
+*   **Q: 本当に大きな巨石をどう扱いますか？**
+    *   **A:** 大きな巨石は壊すために複数のヒットが必要です。他の落下する岩を継続的にかわしながら、素早く複数のツルハシを投げる必要があります。近づきすぎる前に、早めにヒットを開始してみてください。

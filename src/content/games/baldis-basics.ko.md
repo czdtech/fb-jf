@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: baldis-basics
-title: '[KO] Baldi''s Basics'
+title: "Baldi's Basics 발디즈 베이식스"
 description: >-
-  [KO] A detailed guide to Baldi's Basics, the parody survival horror game.
-  Learn how to collect notebooks, use items strategically, avoid Baldi and other
-  characters, and escape the schoolhouse.
+  90년대 교육 게임 패러디처럼 보이지만 실은 서바이벌 호러인 Baldi's Basics
+  공략입니다. 공책을 모으고, 아이템을 활용해 발디와 기묘한 인물들을 피해
+  학교에서 탈출해 보세요.
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/baldis-basics.jpg
 tags:
@@ -15,67 +15,107 @@ score: 4.5/5  (781 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 소개
 
+*Baldi's Basics in Education and Learning*은 저예산 90년대 교육 게임을 흉내 낸
+초현실 서바이벌 호러 게임입니다. 플레이어는 발디가 있는 학교에 있는 학생이
+되어, 친구를 도와주기 위해 교실 곳곳에 흩어진 **공책 7개**를 찾아야 합니다.
 
+처음에는 단순한 산수 문제가 나오지만, 두 번째 공책부터 세 번째 문제에
+해독 불가능한 수식이 등장합니다. 이 문제는 어떤 답을 입력해도 틀릴 수밖에
+없고, 이 순간부터 선생님 발디가 분노해 자를 들고 플레이어를 쫓기 시작합니다.
+그때부터 게임의 목표는 교육이 아니라 **생존**으로 바뀝니다. 남은 공책을
+모으면서 발디와 여러 기묘한 캐릭터들을 피해 다니고, 최종적으로 학교에서
+탈출해야 합니다.
 
+### 플레이 전략
 
+Baldi's Basics를 잘 클리어하려면 소리 감지, 스태미나 관리, 각 캐릭터의
+행동 패턴 이해가 중요합니다.
 
-### Detailed Introduction
+1.  **소리가 가장 중요한 단서:** 발디는 문 여닫는 소리를 비롯한 여러 소리에
+    반응해 플레이어 위치를 추적합니다. 반대로, 플레이어는 발디가 자로
+    손바닥을 치는 소리를 통해 상대의 거리와 방향을 추측할 수 있습니다.
+    소리가 점점 커지고 빨라질수록 발디가 가까이 있다는 뜻이므로, 숨거나
+    방향을 틀 준비를 하세요.
+2.  **스태미나(달리기 게이지) 관리:** Shift 키로 달릴 수 있지만, 스태미나는
+    빠르게 소모됩니다. 항상 전력질주하기보다는, 발디가 바로 뒤에 있거나
+    넓은 복도를 한 번에 가로질러야 할 때만 달리는 것이 좋습니다. 또한
+    교장(Principal)에게 달리다 들키면 구금실(Detention)에 갇히게 되니
+    주변 상황도 함께 살펴야 합니다.
+3.  **캐릭터별 대응법 익히기:**
+    *   **Baldi:** 공책을 많이 모을수록 점점 빨라집니다. 가능하면 직선 복도보다는
+        모서리를 많이 이용해 시야에서 벗어나고, 소리가 들리는 방향을 피해
+        이동하세요.
+    *   **Playtime:** 줄넘기를 강요하는 소녀로, 만나면 잠시 멈춰 줄넘기를
+        해야 해 도망치기 어렵습니다. **Safety Scissors** 아이템으로 줄을
+        잘라 빠르게 벗어날 수 있으니, 가위는 웬만하면 항상 하나 들고 있는 것이
+        좋습니다.
+    *   **Principal of the Thing:** 복도를 순찰하며 규칙 위반을 감시합니다.
+        달리기, 교직원실 출입, 복도에서 BSoda 사용 등을 목격하면 구금실에
+        보내 버립니다. 급하게 달려야 할 때는 교장이 근처에 없는지 먼저
+        확인하세요.
+    *   **It's a Bully:** 복도를 가로막고 서 있으며, 아이템을 하나 내놓기 전까지
+        길을 비켜 주지 않습니다. 소중하지 않은 아이템을 주거나, 가능하면
+        다른 경로를 찾는 것이 좋습니다.
+    *   **Gotta Sweep:** 일정 시간마다 복도를 쓸어 다니는 거대한 빗자루입니다.
+        경로에 있는 모든 캐릭터를 한 방향으로 밀어내기 때문에, 상황에 따라
+        큰 도움이나 큰 위협이 될 수 있습니다.
+    *   **1st Prize:** 플레이어를 끌어안고 밀고 다니는 로봇입니다. 발디에게서
+        달아날 때는 도와줄 수 있지만, 좁은 복도에서 잘못 밀리면 오히려
+        발디 쪽으로 떠밀려 위험해질 수 있습니다. 필요하면 가위로 일시적으로
+        멈출 수 있습니다.
+4.  **아이템 운용:**
+    *   **BSoda:** 맞으면 캐릭터를 멀리 밀어내는 탄산 음료입니다. 발디와의
+        거리를 벌리거나, Bully를 밀어내는 용도로 매우 유용합니다.
+    *   **Energy Flavored Zesty Bar:** 스태미나를 한 번에 회복시켜 주는 아이템입니다.
+        마지막 탈출 구간 등 긴 거리를 뛰어야 할 때를 위해 아껴 두는 것이 좋습니다.
+    *   **Safety Scissors:** Playtime과 1st Prize를 빠르게 무력화할 수 있는 최우선
+        필수 아이템입니다.
+    *   **Quarter:** 자판기에서 BSoda 등을 뽑거나, 교장실의 공중전화에 사용해
+        잠시 발디의 주의를 다른 곳으로 돌릴 수 있는 기본 화폐입니다.
+5.  **최종 탈출:** 공책 7개를 모두 모으면 학교가 붉게 변하고 경보가 울리며,
+    발디의 속도가 최대치로 올라갑니다. 이때는 학교 곳곳에 있는 **세 개의
+    가짜 출구**를 먼저 찾아 터치한 뒤, 마지막으로 진짜 출구가 열리면 그곳으로
+    탈출해야 합니다. 이 단계는 속도, 아이템 사용 타이밍, 운까지 모두 요구되는
+    마지막 시험입니다.
 
-*Baldi's Basics in Education and Learning* is a surreal survival horror game that masquerades as a low-budget 90s educational game. The player takes on the role of a student at Baldi's schoolhouse, with the initial objective of finding seven notebooks scattered throughout the classrooms to help a friend.
+### 조작 방법
 
-The game starts innocently enough. The first notebook contains simple arithmetic problems. However, the game's true nature is revealed upon finding the second notebook, where the third question is a jumbled, unsolvable mess of numbers. Answering this question incorrectly—which is unavoidable—enrages the titular character, Baldi. Armed with a ruler, Baldi begins to hunt the player through the halls of the school. From this point on, the game becomes a tense cat-and-mouse chase. The primary goal shifts from education to survival: collect the remaining five notebooks while evading Baldi and a cast of other bizarre characters, each with their own unique way of impeding your progress, and ultimately find a way to escape the school.
+일반적인 1인칭 PC 게임 조작과 비슷합니다.
 
-### Gameplay Strategy
+*   이동: `W`, `A`, `S`, `D` 키
+*   시점 이동: 마우스 이동
+*   달리기: `Left Shift` 키(스태미나 소모)
+*   문 열기/아이템 줍기: 마우스 왼쪽 버튼
+*   아이템 사용: 마우스 오른쪽 버튼
+*   인벤토리 스크롤: 마우스 휠로 보유 아이템 슬롯 변경
+*   뒤돌아보기(지원 버전): `Space` 키
 
-Success in *Baldi's Basics* relies on sound awareness, resource management, and understanding the behavior of each character.
+### 자주 묻는 질문 (FAQ)
 
-1.  **[KO]** **Sound is Your Most Important Tool:** Baldi's primary method of locating you is sound. He is drawn to the sound of opening and closing doors. More importantly, you can track his proximity by listening to the sound of his ruler slapping against his hand. The louder and more frequent the slap, the closer he is. Use this to your advantage to know when to hide or run.
-2.  **[KO]** **Stamina Management is Key:** You have a limited stamina bar for running (activated with the Shift key). Do not waste it. Only run when Baldi is very close or when you need to quickly cross an open area. The Principal will also put you in detention for running in the halls, so be mindful of his location.
-3.  **[KO]** **Learn the Characters and How to Counter Them:**
-    *   **[KO]** **Baldi:** He gets faster with every notebook you collect. Keep your distance and use sound to misdirect him if possible.
-    *   **[KO]** **Playtime:** A little girl with a jump rope who will force you to play with her, stopping you in your tracks. The only way to escape quickly is by using the **Safety Scissors** to cut her rope. Always try to have scissors on hand.
-    *   **[KO]** **Principal of the Thing:** He roams the halls and will send you to detention (a 15-30 second timeout) for breaking school rules (running, entering faculty rooms, using BSoda in the halls). Avoid him when you need to run.
-    *   **[KO]** **It's a Bully:** Blocks hallways and demands an item. You must give him something from your inventory to pass. It's often best to find an alternate route.
-    *   **[KO]** **Gotta Sweep:** A giant broom that periodically sweeps through the halls, pushing all characters (including you and Baldi) in its path. It can be a lifesaver or a death sentence depending on the situation.
-    *   **[KO]** **1st Prize:** A slow-moving robot that will hug you and push you down a hallway. He can be annoying, but sometimes he can push you away from Baldi. You can use the scissors on his wiring to disable him temporarily.
-4.  **[KO]** **Item Strategy:**
-    *   **[KO]** **BSoda:** A can of soda that can be used to push characters away. Excellent for creating distance from Baldi or getting past the Bully without losing a more valuable item.
-    *   **[KO]** **Energy Flavored Zesty Bar:** Fully restores your stamina. Invaluable for making a long run.
-    *   **[KO]** **Safety Scissors:** Your counter to Playtime and 1st Prize. A top-priority item.
-    *   **[KO]** **Quarter:** Can be used in vending machines to get a BSoda or on the payphone in the Principal's office to briefly distract Baldi.
-5.  **[KO]** **The Final Escape:** After collecting all seven notebooks, the school will turn red, an alarm will blare, and Baldi will move at his maximum speed. You must find three exits, which will initially be blocked. After touching all three fake exits, the fourth and final exit will open, allowing you to escape. This final phase is a pure test of speed, item usage, and luck.
+**1. 두 번째 공책의 불가능한 수학 문제는 어떻게 풀죠?**  
+정답은 없습니다. 일부러 풀 수 없게 만든 문제이며, 오답을 입력해 발디가
+분노하게 만드는 것이 게임 구조의 일부입니다.
 
-### Controls Guide
+**2. 왜 공책을 모을수록 발디가 빨라지나요?**  
+공책을 한 권 모을 때마다 발디의 이동 속도가 조금씩 빨라져, 후반으로 갈수록
+실수의 여지가 줄어들도록 설계되어 있습니다.
 
-Controls are standard for first-person PC games.
+**3. 교장이 단속하는 학교 규칙은 무엇인가요?**  
+대표적인 규칙은 다음과 같습니다.
 
-*   **[KO]** **`W`, `A`, `S`, `D` Keys**: Move forward, left, backward, and right.
-*   **[KO]** **Mouse**: Look around.
-*   **[KO]** **`Left-Shift` Key**: Hold to run (consumes stamina).
-*   **[KO]** **`Left Mouse Button`**: Open doors and pick up items.
-*   **[KO]** **`Right Mouse Button`**: Use the currently selected item.
-*   **[KO]** **Mouse Scroll Wheel**: Cycle through your inventory items.
-*   **[KO]** **`Spacebar`**: Look behind you (in newer versions/updates).
+*   복도에서 달리지 않기
+*   교직원 구역(교무실 등)에 무단으로 들어가지 않기
+*   복도에서 BSoda를 마시거나 사용하는 행동 금지
+*   다른 학생을 괴롭히거나 빼앗지 않기(Bully 관련)
 
-### Frequently Asked Questions (FAQ)
+이 규칙을 교장이 보는 앞에서 어기면 곧바로 구금실에 끌려갑니다.
 
-**1. How do I solve the impossible math problem?**
-You can't. The garbled, impossible problem in the second (and subsequent) notebooks is a core game mechanic designed to be unsolvable. Answering it incorrectly is what triggers Baldi's chase.
+**4. 구금실에서 빨리 나오는 방법이 있나요?**  
+기본적으로는 타이머가 끝날 때까지 기다려야 하지만, "Principal's Keys"가 있다면
+문에 사용해 즉시 탈출할 수 있습니다.
 
-**2. Why does Baldi get faster?**
-Baldi's speed increases with every notebook you successfully collect. This is the game's primary difficulty curve, forcing you to be more strategic as you progress.
-
-**3. What are the school rules that the Principal enforces?**
-The main rules are:
-*   **[KO]** No Running (he will catch you if he sees you).
-*   **[KO]** No Entering Faculty Rooms.
-*   **[KO]** No Drinking (using BSoda in front of him).
-*   **[KO]** No Bullying (this applies to the Bully character).
-
-**4. How do I get out of detention?**
-You have to wait for the timer to count down. The duration can vary. If you have the "Principal's Keys," you can use them on the door to escape instantly.
-
-**5. I collected all 7 notebooks. How do I win?**
-After getting all seven notebooks, you must find and touch three "fake" exits throughout the school. Once you've done that, a fourth, real exit will open up. You must reach that final exit to win the game.
-
+**5. 공책 7개를 다 모았는데도 끝나지 않습니다. 어떻게 해야 하나요?**  
+공책을 모두 모은 뒤, 학교 곳곳에 있는 세 개의 가짜 출구를 먼저 터치해야 합니다.
+그 후에 마지막 진짜 출구가 열리며, 그곳까지 도달하면 게임 클리어입니다.

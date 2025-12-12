@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: ballistic
-title: '[KO] Ballistic game'
+title: "Ballistic 볼리스틱 게임"
 description: >-
-  [KO] A guide to the physics-based arcade game Ballistic. Learn how to aim,
-  collect extra balls, use power-ups, and achieve high scores by clearing
-  numbered blocks before they reach the bottom.
+  Ballistic는 화면 위에서 내려오는 숫자 블록들을 향해 공을 쏘아 없애는 물리 기반
+  아케이드 게임입니다. 각 블록은 맞아야 하는 횟수가 적힌 숫자를 가지고 있으며,
+  벽과 블록에 튕기는 궤적을 잘 계산해 연쇄 타격을 노리는 것이 핵심입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/ballistic.jpg
 tags:
@@ -21,46 +21,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 상세 소개
 
-*Ballistic* is a modern, physics-based arcade game that blends strategy, skill, and satisfying action. The player is tasked with a simple yet challenging objective: clear a grid of numbered blocks by shooting a barrage of balls at them before the blocks descend to the bottom of the screen. Each block is marked with a number, indicating how many hits it must sustain before it is destroyed.
+*Ballistic*는 간단한 규칙 속에 전략과 손맛을 모두 담은 물리 기반 아케이드 게임입니다. 플레이어는 화면 상단에서 내려오는 숫자 블록을 제한선에 닿기 전에 모두 제거해야 하며, 각 블록에 적힌 숫자는 필요한 타격 횟수를 의미합니다.
 
-The core of the game lies in its dynamic physics engine. Players don't just aim directly at blocks; they must strategically plan their shots to create ricochets off walls and other blocks, setting off massive chain reactions. After each shot, the entire grid of blocks moves down one row, increasing the pressure. The game becomes a tense battle of clearing the board efficiently while collecting special items like extra balls and power-ups to enhance your firepower. With its vibrant visuals, smooth controls, and endless replayability, *Ballistic* is designed to be an addictive experience for both casual players and high-score chasers.
+게임의 묘미는 물리 엔진이 만들어 내는 반사각 계산에 있습니다. 벽이나 다른 블록을 활용해 각도를 만들면 한 번의 발사로 여러 줄을 동시에 공격할 수 있고, 추가 공과 파워업을 수집해 화력을 꾸준히 늘리면 캐주얼 플레이부터 하드코어 스코어링까지 모두 즐길 수 있습니다.
 
-### Gameplay Strategy
+### 플레이 전략
 
-Mastering *Ballistic* is about thinking several steps ahead and making every shot count.
+*Ballistic*를 잘 플레이하려면 몇 수 앞을 내다보며 한 발 한 발을 아껴 써야 합니다.
 
-1.  **[KO]** **Aim for Angles, Not Just Blocks:** The key to success is using the walls. Instead of shooting straight at a block, aim your shot so the balls bounce off a side wall and travel horizontally across the top of the grid. This allows your stream of balls to hit multiple blocks multiple times in a single turn.
-2.  **[KO]** **Prioritize High-Threat Blocks:** The blocks closest to the bottom are your biggest threat. Always make it a priority to clear the lowest rows first. A high-numbered block near the bottom is a "game over" waiting to happen.
-3.  **[KO]** **Collecting Extra Balls is Critical:** The most important item to collect is the "extra ball" (often marked with a "+"). The more balls you can shoot in a single turn, the more damage you can do. Always try to angle your shots to hit these collectibles, as increasing your ball count is the fastest way to gain an advantage.
-4.  **[KO]** **Create Tunnels and Gaps:** Focus on clearing a vertical path through the blocks. This creates a "tunnel" where your balls can bounce back and forth repeatedly, hitting blocks multiple times and clearing them much faster.
-5.  **[KO]** **Utilize Power-ups Strategically:** Keep an eye out for special power-up blocks. These can provide game-changing boosts, like clearing an entire row or providing a super-powerful shot. Hitting them at the right moment can save you from a losing situation.
-6.  **[KO]** **Maximize Chain Reactions:** Plan your shots to not only clear blocks but also to open up paths for subsequent bounces. A well-placed shot can trigger a satisfying cascade of destruction that clears a significant portion of the board.
+1.  **각도를 먼저 계산하기:** 블록을 정면으로만 노리지 말고 벽을 이용해 반사경로를 설계하면 공이 수평으로 오래 움직여 다수의 블록을 반복 타격할 수 있습니다.
+2.  **위험 블록을 최우선으로 제거:** 화면 하단에 가까운 블록일수록 위협이 크므로 숫자가 큰 블록이 내려오면 즉시 처리해 전체 높이를 평탄하게 유지합니다.
+3.  **추가 공을 매 턴 확보:** `+1` 아이콘은 발사 가능한 공을 영구적으로 늘려 주는 핵심 자원입니다. 탄도 계획을 세울 때 가능하면 항상 경로에 포함시키세요.
+4.  **세로 통로 뚫기:** 좁은 수직 틈을 만들면 공이 그 안에서 위아래로 왕복하며 누적 피해를 주므로 후반 난도를 크게 낮출 수 있습니다.
+5.  **파워업은 위기 관리 용도로 사용:** 한 줄 제거, 특수 샷 등은 막다른 상황에서 꺼내야 효과가 극대화되므로 여유 있을 때는 아껴 두세요.
+6.  **연쇄 반응 설계:** 한 번의 샷이 어디에서 튕길지 여러 단계를 상상하며 쏘면, 거대한 체인 반응으로 판을 일거에 정리할 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-The game features intuitive controls that are easy to learn.
+조작은 플랫폼과 상관없이 직관적으로 설계되어 있습니다.
 
-*   **[KO]** **For PC / Web Browser:**
-    *   **[KO]** **Mouse:** Click and hold the left mouse button to bring up the aiming guide. Drag the mouse to adjust the angle of your shot. Release the mouse button to fire the balls.
-*   **[KO]** **For Mobile / Touchscreen Devices:**
-    *   **[KO]** **Touchscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
+*   **PC / 브라우저:**
+    *   **마우스 드래그:** 왼쪽 버튼을 누른 채로 끌어 조준선을 조절합니다.
+    *   **버튼 놓기:** 손을 떼면 해당 각도로 모든 공이 발사됩니다.
+*   **모바일 / 터치 기기:**
+    *   **화면 드래그:** 손가락으로 화면을 끌어 각도와 세기를 맞춥니다.
+    *   **손 떼기:** 터치를 해제하면 즉시 슛이 발동합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**1. What do the numbers on the blocks mean?**
-The number on each block represents its "health." It indicates the number of times a ball must hit that block before it is destroyed.
+**1. 블록 숫자는 무엇을 뜻하나요?**
 
-**2. How do I get more balls to shoot?**
-You can increase the number of balls in your arsenal by hitting the special "extra ball" collectibles (usually a circle with a "+" inside) that appear on the grid.
+해당 블록이 제거되기 위해 맞아야 하는 횟수입니다. 숫자가 클수록 더 많은 타격이 필요하니 우선순위를 높여야 합니다.
 
-**3. What happens if the blocks reach the bottom of the screen?**
-If any block touches the bottom line of the play area, the game is over.
+**2. 공을 더 얻으려면 어떻게 하나요?**
 
-**4. Is every round of the game the same?**
-No. The placement of blocks and power-ups changes with each new game, ensuring that every round is a fresh and unique challenge.
+플레이 중 나타나는 `+1` 아이콘을 맞추면 턴 종료 후 발사 가능한 공이 영구적으로 늘어나므로 항상 경로에 포함시키세요.
 
-**5. What is the best strategy for a high score?**
-The key to a high score is survival and efficiency. Last as long as possible by strategically clearing blocks, continuously increase your ball count, and use angled shots to create massive chain reactions that clear many blocks at once.
+**3. 블록이 하단에 닿으면 어떻게 되나요?**
 
+어느 블록이든 빨간 데드라인에 닿는 순간 즉시 게임 오버가 됩니다. 위험한 열을 선제적으로 정리하세요.
+
+**4. 매 판 구성이 똑같나요?**
+
+아닙니다. 블록 배치와 파워업 위치가 플레이마다 달라져 매번 다른 퍼즐을 풀듯한 긴장감을 줍니다.
+
+**5. 하이스코어 비결은 무엇인가요?**
+
+생존 시간을 늘리고 추가 공을 지속적으로 확보한 뒤, 벽 반사를 이용한 연쇄 타격으로 위협 구역을 관리하는 것이 핵심입니다.

@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: flames-fortune
-title: '[FR] Flames & Fortune'
-description: >-
-  [FR] Flames & Fortune is a tactical card‑style battler — manage hands, trade
-  tempo, and outplay foes with smart turns.
+title: "Flames & Fortune"
+description: "Flames & Fortune est un jeu de combat tactique façon cartes : gère ta main, contrôle le tempo et surpasse tes adversaires avec des tours bien pensés."
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/flames-fortune.jpg
 tags:
@@ -15,28 +13,36 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Flames & Fortune est un petit jeu de combat au tour par tour avec des décisions proches d’un jeu de cartes. À chaque tour, tu joues des effets dans le bon ordre, gères des ressources limitées et t’adaptes aux intentions de l’ennemi pour renverser le momentum en ta faveur.
 
-### Detailed Game Introduction
+Les parties sont rapides mais demandent de la réflexion : une mauvaise séquence ou une ressource gaspillée peut te coûter la victoire.
 
-Flames & Fortune is a compact, turn‑based battler with card‑like decisions. Play effects in efficient sequences, manage limited resources, and adapt to enemy intents to swing momentum your way.
+### Guide de jeu et stratégies
 
-### Gameplay Strategy & Walkthrough
+1.  Planifie ta « curve » : essaie de dépenser proprement tes ressources de tour ; évite de laisser de l’énergie inutilisée.
+2.  Cherche les bons échanges : utilise de petites cartes pour préparer de gros swings au tour suivant, plutôt que de tout claquer d’un coup.
+3.  Lis les intentions : si l’ennemi prépare une grosse attaque, privilégie les blocs, contres ou debuffs plutôt que l’agression brute.
+4.  Construis un deck cohérent : mieux vaut quelques synergies fortes qu’un mélange de cartes incompatibles.
+5.  Mulligan intelligent (si proposé) : contre les decks rapides, renvoie les mains trop lentes pour trouver des réponses précoces.
 
-1.  **[FR]** Curve planning: Spend your turn’s resources cleanly; avoid floating energy.
-2.  **[FR]** Value trades: Use small cards to set up big swings next turn.
-3.  **[FR]** Read intents: Counter incoming damage with blocks or denies.
-4.  **[FR]** Deck focus: Prioritize consistent synergies over scattered picks.
-5.  **[FR]** Mulligan wisely: If available, mulligan slow hands against fast foes.
+### Commandes
 
-### Controls Guide
+- Sélectionne et joue tes cartes avec un clic/tap, puis termine le tour via le bouton dédié.  
+- Survole ou touche une carte pour en lire les effets en détail.
 
-- Play/End turn: Click/tap cards and confirm actions.
-- Inspect: Hover/tap to read effects.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q : Le jeu dépend‑il beaucoup de la chance ?
+  
+  R : La pioche joue un rôle, mais tu peux largement compenser par une bonne gestion des ressources et des séquences de jeu optimisées.
 
-- RNG heavy? Mitigated by smart sequencing and resource planning.
-- Best builds? Lean into a few synergies rather than many partial ones.
-- Can I recover from bad draws? Stabilize with defense and play for two‑turn swings.
+- Q : Quels sont les meilleurs types de decks ?
+  
+  R : Ceux qui s’appuient sur 1 ou 2 synergies claires (par exemple dégâts sur la durée + pioche) sont plus fiables qu’un deck qui essaie de tout faire en même temps.
+
+- Q : Peut‑on revenir d’une mauvaise main de départ ?
+  
+  R : Oui, en stabilisant d’abord avec de la défense, puis en préparant des tours en deux temps (installation → gros tour de dégâts).
 

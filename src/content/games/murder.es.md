@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: murder
-title: '[ES] Murder'
+title: "Murder - Deducción social en la oscuridad"
 description: >-
-  [ES] Murder is a suspenseful social deduction game where one player secretly
-  acts as the murderer, aiming to eliminate others without being discovered,
-  while other players try to identify and stop them.
+  Murder es un juego de deducción social cargado de suspense en el que un
+  jugador es el asesino en secreto e intenta eliminar a los demás sin ser
+  descubierto, mientras el resto trata de identificarlo y detenerlo.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/murder.jpg
 tags:
@@ -18,40 +18,66 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+"Murder" es un juego de deducción social tenso y muy entretenido. En cada
+partida, uno de los jugadores es designado en secreto como el "asesino", cuyo
+objetivo es ir eliminando al resto sin ser descubierto. Los demás deben
+observar, deducir y debatir para descubrir quién es el asesino y pararlo a
+ tiempo. Cada ronda está llena de estrategia y guerra psicológica, y pocas
+partidas se parecen entre sí.
 
-### Game Introduction
+### Estrategia de juego
 
-"Murder" is a tense and exciting social deduction game. Among a group of players, one is secretly designated as the "murderer," whose goal is to secretly eliminate other players without being discovered. Other players, on the other hand, need to observe, deduce, and discuss to identify the murderer and stop them. The game is full of strategy and psychological warfare, with each game session full of uncertainty.
+1.  **Si juegas como asesino:**  
+    *   **Actuar en secreto:** elige bien el momento y el lugar para eliminar a
+        tus objetivos sin testigos.  
+    *   **Crear coartadas:** mezcla tus movimientos con los de los demás,
+        participa en conversaciones y genera confusión.  
+    *   **Evitar sospechas:** mantén la calma, no cambies de comportamiento de
+        forma brusca y evita comportarte de forma demasiado evasiva.
 
-### Gameplay Strategy
+2.  **Si eres civil:**  
+    *   **Observar comportamientos:** fíjate en quien se queda solo con otros
+        jugadores, quién aparece cerca de las escenas del crimen o actúa de forma
+        extraña.  
+    *   **Reunir pistas:** presta atención a los mensajes del juego, rutas, y
+        cualquier detalle que pueda señalar al culpable.  
+    *   **Razonar en grupo:** comparte lo que ves, contrasta versiones y ve
+        reduciendo la lista de sospechosos con lógica.
 
-1.  **[ES]** **For the Murderer**:
-    *   **[ES]** **Act in Secret**: Choose the right time and place to secretly eliminate targets.
-    *   **[ES]** **Create Alibis**: Interact with others or move around to create confusion.
-    *   **[ES]** **Avoid Exposure**: Stay calm and do not exhibit unusual behavior.
-2.  **[ES]** **For the Civilians**:
-    *   **[ES]** **Observe Behavior**: Pay attention to unusual actions from other players, such as acting alone or frequently approaching targets.
-    *   **[ES]** **Gather Clues**: Look for in-game hints or events that might point to the murderer.
-    *   **[ES]** **Reason Logically**: Through discussion and analysis, gradually narrow down the list of suspects.
-3.  **[ES]** **General Strategies**:
-    *   **[ES]** **Maintain Communication**: Civilians need to communicate effectively and share information.
-    *   **[ES]** **Utilize Environment**: Familiarity with the game map and mechanics can help the murderer hide better or civilians find clues faster.
+3.  **Consejos generales:**  
+    *   **Comunicación constante:** los civiles deben hablar mucho, compartir
+        rutas y coartadas; el asesino puede usar esto para sembrar dudas.  
+    *   **Aprovechar el escenario:** conocer bien el mapa y sus mecánicas ayuda
+        al asesino a esconderse y a los civiles a cerrar vías de escape o
+        vigilar zonas clave.
 
-### How to Play
+### Cómo jugar
 
-*   **[ES]** **Movement**: Typically use keyboard arrow keys or WASD keys to control character movement.
-*   **[ES]** **Interaction**: When near objects or other players, there might be interaction prompts (e.g., pick up weapons, talk).
-*   **[ES]** **Murderer Abilities**: The murderer will have specific abilities to eliminate targets; the exact operation depends on the game version (e.g., clicking on a target or using a skill key).
-*   **[ES]** **Civilian Self-defense**: In some game versions, civilians can defend themselves or fight back under certain conditions.
+*   **Movimiento:** normalmente con las teclas de dirección o WASD.  
+*   **Interacción:** cerca de objetos o jugadores pueden aparecer botones para
+    hablar, usar objetos o, en el caso del asesino, atacar.  
+*   **Habilidades del asesino:** según la versión, el asesino dispondrá de un
+    botón o tecla específica para eliminar a un objetivo o activar una habilidad
+    especial.  
+*   **Autodefensa de civiles:** en algunas variantes, ciertos civiles pueden
+    defenderse o contraatacar bajo condiciones concretas.
 
-### Frequently Asked Questions
+### Preguntas frecuentes
 
-1.  **[ES]** **Q: How do I determine who the murderer is?**
-**A**: Players need to judge by observing unusual behavior, analyzing clues, listening to discussions, and combining their own deductions. There are no direct hints; it all relies on the players' intelligence.
-2.  **[ES]** **Q: How should the murderer hide their identity?**
-**A**: The murderer needs to avoid exposure in public, choose discreet times and locations to eliminate targets, and try to mimic the movement patterns of civilians.
-3.  **[ES]** **Q: How can civilians protect themselves in the game?**
-**A**: Civilians can improve their survival rate by sticking together, being aware of their surroundings, and sharing information promptly. Avoid acting alone, especially with suspects.
-4.  **[ES]** **Q: How many players are typically needed to start a game?**
-**A**: Such games usually require at least 4-6 players for a good experience, depending on the game version and rule settings.
+1.  **P: Cómo averiguo quién es el asesino?**  
+    **R:** Observa conductas extrañas, analiza las coartadas, escucha los
+    debates y cruza pistas. No hay pistas directas: todo depende del criterio y
+    la intuición de los jugadores.
+2.  **P: Cómo debe ocultarse el asesino?**  
+    **R:** Evita matar delante de otros, elige lugares discretos, mezcla tus
+    rutas con las de los civiles y copia su patrón de movimiento para pasar
+    desapercibido.
+3.  **P: Cómo se protegen los civiles?**  
+    **R:** Procurad moveros en grupo, estad atentos al entorno y compartid
+    información en cuanto veáis algo sospechoso. Evitad quedaros solos con
+    jugadores que generen desconfianza.
+4.  **P: Cuántos jugadores hacen falta para que sea divertido?**  
+    **R:** Lo ideal suele ser al menos entre 4 y 6 jugadores, dependiendo de la
+    versión y de las reglas concretas.

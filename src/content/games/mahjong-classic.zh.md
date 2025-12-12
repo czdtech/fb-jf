@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: mahjong-classic
-title: '[ZH TRANSLATION NEEDED] Mahjong Classic'
-description: >-
-  [ZH TRANSLATION NEEDED] Enjoy the timeless puzzle of Mahjong Classic. Match
-  pairs of identical, unblocked tiles to clear the board in this relaxing game
-  of strategy and observation.
+title: 《Mahjong Classic》经典麻将接龙
+description: 在《Mahjong Classic》中享受永不过时的麻将接龙谜题：在多层牌阵中寻找并消除成对的自由牌，用策略和观察力清空整局。
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/mahjong-classic.png
 tags:
@@ -18,31 +15,34 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Mahjong Classic is the timeless single-player puzzle game that uses a set of Mahjong tiles. The goal is not to form winning hands as in traditional Mahjong, but to systematically clear a stacked layout of tiles by finding and matching identical pairs. It’s a game that tests your observation skills and strategic thinking, providing a relaxing yet engaging mental workout.
+《Mahjong Classic》是一款经典的单人麻将接龙游戏。与传统多人麻将不同，这里不需要凑牌型，而是面对一整座按特定布局堆叠起来的麻将牌阵，通过不断寻找并消除成对牌来清空整个牌面。游戏考验的是你的观察力与前瞻性规划，一步走错就可能让后续配对被锁死，是一种既放松又富有挑战性的脑力训练。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Rule of Free Tiles:** You can only select and match tiles that are "free." A tile is considered free if it can be moved left or right without being blocked by another tile, and it has no other tiles sitting on top of it.
-2.  [ZH TRANSLATION NEEDED] **Strategic Matching:** Don't just match the first pair you see. Think about which matches will open up the most new tiles. Prioritizing pairs that unblock heavily stacked areas of the board is key to success.
-3.  [ZH TRANSLATION NEEDED] **Handle Multiples with Care:** If you see three or four identical free tiles, pause and consider which pair to match. The wrong choice could leave the other pair blocked permanently. Choose the pair that will be most beneficial for future moves.
-4.  [ZH TRANSLATION NEEDED] **Flower and Season Tiles:** Remember that any Flower tile can be matched with any other Flower tile, and the same goes for Season tiles. They don't need to be identical. Use these flexible matches to your advantage, especially when you're stuck.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **理解“自由牌”规则**：只有“自由牌”才能被选中配对，通常需要同时满足：  
+- 上方没有任何牌压住；  
+- 左侧或右侧至少有一侧是空的，可以向那边“滑出”。  
+2.  **优先做“解锁型”配对**：不要看到第一对就立刻点掉，优先选择那些能同时解锁多张新牌的配对，尤其是压在高层或横向挡住多张牌的那一对。  
+3.  **谨慎处理三张/四张同牌**：当你看到 3 或 4 张相同的自由牌时，先停一下，评估不同配对方式会对后续布局产生什么影响，避免选错导致剩下的那一对永远被压死。  
+4.  **善用花牌与季节牌**：大多数版本中，花牌组内任意两张可以配对，季节牌亦然，不要求图案完全相同。在无路可走时，优先考虑这些“组内配对”牌来解锁局面。  
+5.  **适度使用提示与洗牌**：卡住时可以用“提示”按钮找出当前可配对的牌；若牌面完全没有可消对，通常可以使用“洗牌/重排”对剩余牌重新布局，为后续配对创造机会。  
 
-[ZH TRANSLATION NEEDED] The game is played with simple mouse clicks or taps.
+### 操作说明
 
-*   **Select & Match:** Click on a free tile to highlight it. Then, click on another identical, free tile to remove both from the board.
-*   **Hints/Shuffle:** Most versions include a "Hint" button to show you a possible match and a "Shuffle" button to rearrange the tiles if no moves are available.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple mouse clicks or taps.
+- 用鼠标或触屏点击一张自由牌，再点击另一张相同的自由牌，即可将这对牌从牌面上移除。  
+- 若版本提供“提示”或“洗牌”按钮，可在界面中直接点击使用。  
 
-*   **Q: Why can't I click on a tile?**
-     *   **A:** The tile is not "free." It is either blocked on both its left and right sides by other tiles, or another tile is lying on top of it.
+### 常见问题（FAQ）
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The goal is to clear 100% of the tiles from the board by matching them in pairs.
+*   **Q: 为什么我点不到某些牌？**  
+    *   **A:** 这些牌尚未“自由”，要么左右两侧都被紧贴的牌堵住，要么上面还有牌压着，需要先移除周围或上方的阻挡牌。  
 
-*   **Q: I have no more moves. Is the game over?**
-     *   **A:** Not necessarily. If no more pairs can be matched, the game will usually offer you a "Shuffle" option to rearrange the remaining tiles and create new possibilities.
+*   **Q: 游戏的最终目标是什么？**  
+    *   **A:** 目标是通过合理配对，将牌阵中 100% 的牌全部消除，无剩余即为通关。  
 
+*   **Q: 没有配对可走时就一定输了吗？**  
+    *   **A:** 若当前布局下确实没有可配对的牌，但游戏提供“洗牌”功能，可以先尝试洗牌；如果没有洗牌选项且确实无路可走，则本局只能宣告失败。

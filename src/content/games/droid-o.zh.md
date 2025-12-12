@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: droid-o
-title: '[ZH TRANSLATION NEEDED] Droid-O'
-description: >-
-  [ZH TRANSLATION NEEDED] Droid-O is a tight top‑down arena shooter — kite
-  waves, chain ability synergies, and survive escalating threats with precise
-  movement.
+title: Droid-O 机器人竞技场射击
+description: 《Droid-O》是一款节奏紧凑的俯视角机器人竞技场射击游戏。通过风筝走位、合理衔接技能 与精确移动，在越来越密集的敌浪中存活下来。
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/droid-o.png
 tags:
@@ -18,50 +15,71 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Droid-O is a compact, responsive top‑down arena shooter where you pilot a nimble robot through tightening survival waves. The core loop revolves around clean kiting (moving while firing without getting cornered), ammunition/overheat discipline, and situational ability use (dashes, shields, deployables). Enemies escalate from slow melee units to faster chargers and ranged threats that punish predictable paths. Success comes from carving safe orbits around the arena, thinning high‑pressure clusters first, and timing cooldowns to escape pinch points.
+《Droid-O》是一款紧凑顺手的俯视角竞技场射击游戏，你将操控一台灵活的机器人在不断收紧的
+生存圈中与一波波敌人周旋。核心循环围绕三个要素展开：
 
-[ZH TRANSLATION NEEDED] The arena often includes environmental features — choke corridors, pillars for line‑of‑sight breaks, and hazard tiles that deal damage or slow both you and enemies. Efficient use of cover and terrain is as important as raw aim, especially once ranged enemies spawn.
+- **风筝走位（Kiting）：** 一边移动一边射击，始终保持与敌人之间的安全距离，避免被包夹；  
+- **弹药/过热管理：** 控制射击节奏，避免因连发导致武器过热或空仓，在关键时刻没有火力；  
+- **技能与道具使用：** 利用冲刺、护盾、无人机等技能在危险时刻突围或拉开空间。  
+
+敌人会从缓慢近战单位逐渐升级为高速冲锋、小型射手和范围攻击单位，一旦走位模式过于可预
+测，就很容易被夹在角落里。要获胜，就必须围绕竞技场外围划出相对安全的环形路线，优先清理
+压力最大的敌群，并在合适时机交互技能冷却打出关键逃生动作。 
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Kite wide, not tight: Large circular paths give more correction time than small, panicky loops.
-2.  [ZH TRANSLATION NEEDED] Target priority: Eliminate fast chargers and ranged casters first; leave slow melee for cleanup.
-3.  [ZH TRANSLATION NEEDED] Cooldown discipline: Save dash/shield to break encirclements; avoid blowing both escapes at once.
-4.  [ZH TRANSLATION NEEDED] Ammunition/heat: Fire in short, accurate bursts; re‑engage while weapons cool or reload behind cover.
-5.  [ZH TRANSLATION NEEDED] Funnel fights: Pull packs through narrow lanes so bullets pierce multiple targets; reset aggro lines with pillars.
-6.  [ZH TRANSLATION NEEDED] Health economy: Take guaranteed safe shots; a single hit during late waves snowballs mistakes.
 
-### Builds and Synergies (if available)
+1.  **大圈风筝而不是贴墙打转：** 尽量在场地中间划大弧线、走“大圆”，给自己留出更多修正空间
+    ，避免在角落小范围绕圈被敌人彻底包围。  
+2.  **明确击杀优先级：** 优先击杀高速冲锋单位和远程输出单位，慢速近战敌人可以在环形风筝中
+    顺带清理。  
+3.  **冷却管理：** 冲刺、护盾等技能尽量留给“破包围圈”的关键节点，避免在小风险场面就把所
+    有保命技能一次性交掉。  
+4.  **火力节奏：** 避免长时间压住射击键，尽量采用短点射来保持精度与武器状态，在装填或降温
+    期间借掩体调整位置。  
+5.  **利用地形：** 利用狭窄通道、柱子和掩体重置仇恨线路，让远程敌人不得不重新走位，为你争
 
-- Piercing + knockback: Piercing bullets gain huge value in choke fights; knockback keeps melee out of contact.
-- Slow + crit: Apply slows to create long exposure times for crit bursts.
-- Drone deployables: Drop drones before kite turns so they rake pursuing lines.
+- Health economy: Take guaranteed safe shots; a single hit during late waves snowballs mistakes.
+    取装填或冷却时间。  
+
+### Builds and Synergies（若模式支持）
+
+- **穿透 + 击退：** 穿透子弹在狭长走廊内价值巨大，击退效果则能把近战敌人推离安全圈。  
+- **减速 + 暴击：** 先给敌人挂上减速效果，再用高暴击伤害武器集火，等于为自己“拉长输出时间
+  ”。  
+- **无人机/部署物：** 在你预定的风筝路线拐点提前放下无人机或炮台，让它们在你经过时自动扫
+  射追兵，实现无风险输出叠加。  
 
 ### Controls Guide
 
-- Move: WASD/Arrows.  Aim: Mouse or right stick.  Fire: Left click/trigger.  Dash/Ability: Space/E/Q (varies by build).
-- Pause/Retry: UI buttons.
+- 移动：WASD 或方向键；  
+- 瞄准：鼠标或右摇杆；  
+- 射击：左键或主射击键；  
+- 冲刺/技能：Space / E / Q（具体依版本绑定）；  
+- 暂停/重试：通过界面按钮操作。  
 
 ### Advanced Tips
 
-- Pathing: Pre‑plan a figure‑eight route that revisits ammo/health pickups on cooldown.
-- LOS breaks: Step behind a pillar to force ranged foes to reposition, buying reload time.
-- Wave pacing: Throttle kill speed briefly to lump spawns together, then clear them with pierce lines.
+- **预规划路线：** 在有补给点的版本中，可以规划“8 字形”或“大环形”路线，确保能够定期经过
+  补给点补充弹药或生命。  
+- **视线管理：** 利用柱子和墙角“断视线”，迫使远程敌人重新走位，在它们移动过程中进行安全重
+  装或短暂休整。  
+- **波次节奏：** 有时暂缓击杀速度，让新敌人集中一起出现，再用穿透或群伤技能一口气清掉，
+  比零散击杀更节省时间与弹药。  
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep getting cornered — how do I prevent this?
-  
-[ZH TRANSLATION NEEDED]   A: Stop circling tightly near walls. Commit to wide arcs that cross the arena center, dash early through thinnest gaps, and use pillars to reset lines of sight.
+- **Q: 总是被围住动弹不得怎么办？**  
+  **A：** 尽量不要在墙边小圈绕行，而是多利用场地中部的大弧线跑位。发现路线开始收窄时提早
+  冲刺，从敌群最稀薄的一侧突破，再利用柱子重置敌人站位。  
 
-- Q: Which enemies should I kill first?
-  
-[ZH TRANSLATION NEEDED]   A: Fast chargers and ranged units. Slow melee can be kited safely while you thin priority targets.
+- **Q: 应该优先打哪种敌人？**  
+  **A：** 优先解决移动速度快、能远程输出或范围攻击的单位，缓慢近战可以在风筝路径上顺带清
+  理，否则一旦被快怪或远程叠起来，很容易瞬间掉血。  
 
-- Q: My weapon overheats constantly — any fix?
-  
-[ZH TRANSLATION NEEDED]   A: Fire in short bursts, reposition during cooldown, and stack efficiency upgrades if the mode supports them.
+- **Q: 武器总是过热怎么办？**  
+  **A：** 养成短点射的习惯，在武器冷却时借掩体调整位置，同时优先选择提升效率、降低过热的
+  升级。如果模式允许，尽量不要把所有输出技能在同一时间窗口全部打空。  
 
-- Q: Are deployables worth it?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — pre‑place them along your kite path so they fire as enemies chase, multiplying damage without extra risk.
-
+- **Q: 部署型道具值得带吗？**  
+  **A：** 非常值得。提前在风筝路线的关键点放下无人机或炮塔，能在你不额外付出风险的情况下
+  不断削弱追击的敌人，是提升整体伤害与安全性的高性价比选择。  

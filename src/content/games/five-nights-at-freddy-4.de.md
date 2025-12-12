@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: five-nights-at-freddy-4
-title: '[DE] Five Nights at Freddy''s 4 (FNAF 4)'
+title: "Five Nights at Freddy's 4 (FNAF 4)"
 description: >-
-  [DE] Bedroom nightmare survival: listen for breathing, manage doors and
-  closet, and use your flashlight wisely to keep night terrors at bay.
+  Schlafzimmer-Albtraum: Höre auf Atemgeräusche, kontrolliere Türen und
+  Kleiderschrank und nutze deine Taschenlampe mit Bedacht, um die Nachtmonster
+  fernzuhalten.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/five-nights-at-freddy-4.jpg
 tags:
@@ -14,31 +15,42 @@ score: 4.9/5  (625 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+FNAF 4 verlegt den Horror ins Kinderzimmer und setzt stark auf Sound. Du
+wechselst zwischen Schlafzimmer-Türen, Kleiderschrank und Bett und nutzt
+Taschenlampe und Gehör, um Jumpscares zu vermeiden.
 
+### So spielst du
 
+- Laufe zu einer Tür und halte kurz inne, um zu lauschen; hörst du Atmen,
+  schließe die Tür.
+- Nutze die Taschenlampe im Flur nur, wenn du sicher bist, dass kein Atmen zu
+  hören ist, und kontrolliere regelmäßig Kleiderschrank und Bett.
+- In späteren Nächten steigen Tempo und Präzisionsanspruch deutlich.
 
-### Overview
-Home‑set horror focused on audio cues: you patrol bedroom doors, closet, and bed, using the flashlight and careful listening to avoid jumpscares.
+### Steuerung
 
-### How to Play
-- Approach a door and pause to listen; shut doors if you hear breathing.
-- Flash the hallway only when safe; check the closet and bed regularly.
-- Later nights increase speed and require tighter timing.
+- Maus/Tastatur, um zwischen den Positionen zu wechseln; spezielle Tasten für
+  Türen und Taschenlampe hängen vom Host ab.
 
-### Controls
-- Mouse/keyboard to move between locations; specific keys for doors and flashlight vary by host.
+### Tipps
 
-### Tips
-- Always listen before flashing the light at a doorway.
-- Build a loop (left door → right door → closet → bed) and repeat quickly.
-- Headphones help distinguish subtle breathing and footsteps.
+- Immer erst hören, dann Licht an – ein Lichtblitz bei hörbarem Atmen führt
+  oft direkt zum Jumpscare.
+- Baue dir eine feste Runde: linke Tür → rechte Tür → Kleiderschrank → Bett –
+  und wieder von vorn.
+- Nutze Kopfhörer, um feine Atem- und Schrittgeräusche besser zu orten.
 
 ### FAQ
-- Q: Why do I get jumpscared when I flash the light at the door?
-A: You likely flashed while breathing was present; close the door first.
-- Q: Do I need to check the bed?
-A: Yes—ignoring the bed lets nightmares accumulate and increases risk.
-- Q: Does the game add extra nights?
-A: Many hosts include later challenge nights beyond Night 5.
 
+- **F: Warum werde ich beim Lichtblitz an der Tür angesprungen?**  
+  **A:** Wahrscheinlich war bereits Atmen zu hören – zuerst Tür schließen,
+  dann warten.
+
+- **F: Muss ich das Bett wirklich checken?**  
+  **A:** Ja, ignorierst du das Bett, sammeln sich dort Albtraumfiguren an und
+  erhöhen das Risiko deutlich.
+
+- **F: Gibt es zusätzliche Nächte?**  
+  **A:** Viele Versionen bieten Challenge-Nächte über die fünfte Nacht hinaus.

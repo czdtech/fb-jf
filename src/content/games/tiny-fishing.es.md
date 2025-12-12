@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: tiny-fishing
-title: '[ES] Tiny Fishing'
+title: "Tiny Fishing - Pesca casual en miniatura"
 description: >-
-  [ES] Tiny Fishing is a relaxing fishing game where players cast their line
-  into the depths, catch various fish species, and upgrade their equipment to
-  reach deeper waters and discover rare creatures.
+  Tiny Fishing es un juego de pesca relajante donde lanzas el sedal a las
+  profundidades, capturas diferentes especies y mejoras tu equipo para llegar
+  más lejos y descubrir criaturas raras.
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/tiny-fishing.jpg
 tags:
@@ -16,36 +16,36 @@ score: 4.7/5  (322 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+"Tiny Fishing" es un juego de pesca casual y relajante en el que lanzas tu sedal al fondo del mar, capturas peces de todo tipo y mejoras tu equipo para alcanzar aguas más profundas y encontrar especies cada vez más valiosas. Es muy querido por su control sencillo y su experiencia tranquila y adictiva.
 
+### Estrategia de juego
 
+1.  Mejora la longitud del sedal: prioriza ampliar la profundidad para acceder a zonas donde aparecen peces raros y mejor pagados.
+2.  Aumenta el valor del anzuelo: invierte en mejoras del anzuelo para ganar más monedas por cada captura y acelerar tu progreso.
+3.  Aprovecha las ganancias offline: muchas versiones generan monedas incluso cuando no estás jugando, según tu nivel de equipo.
+4.  Busca peces raros: las aguas profundas suelen esconder especies especiales con grandes recompensas, por lo que las mejoras se amortizan rápido.
+5.  Ten paciencia: la pesca requiere tiempo; espera a que piquen y recoge la línea en el momento adecuado.
 
-### Game Introduction
+### Cómo jugar
 
-"Tiny Fishing" is a relaxing casual fishing game where players cast their line into the depths, catch various fish species, and upgrade their equipment to reach deeper waters and discover rare creatures. The game is beloved by players for its simple controls and relaxing gaming experience.
+*   **Lanzar el sedal:** haz clic para empezar a lanzar la línea al agua.
+*   **Esperar:** observa cómo desciende el sedal y espera a que aparezcan peces en su recorrido.
+*   **Recoger:** cuando tengas peces enganchados, haz clic para recoger la línea y cobrar tus capturas.
+*   **Mejorar:** usa las monedas obtenidas para mejorar tu caña, el anzuelo y otras características en la tienda.
 
-### Gameplay Strategy
+### Preguntas frecuentes
 
-1.  **[ES]** **Upgrade Fishing Line**: Prioritize upgrading line length to reach deeper waters and catch rare fish.
-2.  **[ES]** **Increase Hook Value**: Upgrade hooks to increase earnings per catch, helping accumulate coins faster.
-3.  **[ES]** **Offline Earnings**: The game provides offline earning features, generating some coin income even when not playing.
-4.  **[ES]** **Rare Fish**: Deep water areas contain more rare and valuable fish, making equipment upgrades worthwhile.
-5.  **[ES]** **Be Patient**: Fishing requires patience; wait for fish to bite, then reel in at the right time.
+1.  **Q: ¿Cómo gano más monedas?**  
+    **A:** Captura más peces, especialmente los raros, y sube de nivel el valor del anzuelo para incrementar las ganancias por tirada.
 
-### How to Play
+2.  **Q: A veces no pesco nada, ¿es normal?**  
+    **A:** Sí. La pesca tiene un componente de suerte. No todas las tiradas serán perfectas; mejora tu equipo y ajusta el momento de recogida.
 
-*   **[ES]** **Cast Line**: Click to start casting the fishing line into water.
-*   **[ES]** **Wait**: Patiently wait for fish to bite, observing the fishing line dynamics.
-*   **[ES]** **Reel In**: When fish are hooked, click to reel them in.
-*   **[ES]** **Upgrade**: Use earned coins to upgrade equipment in the shop.
+3.  **Q: ¿Cómo se calculan las ganancias offline?**  
+    **A:** Suelen depender del nivel de tus mejoras y de un límite máximo de tiempo. Cuanto mejor sea tu equipo, más rentable será el tiempo desconectado (hasta un tope).
 
-### Frequently Asked Questions
+4.  **Q: ¿El juego tiene final?**  
+    **A:** No como tal. Es una experiencia casual infinita en la que puedes seguir mejorando tu equipo y explorando aguas más profundas.
 
-1.  **[ES]** **Q: How can I get more coins?**
-**A**: Catch more fish, especially rare ones, and upgrade hook value to increase earnings.
-2.  **[ES]** **Q: Why don't I catch fish sometimes?**
-**A**: This is normal; fishing requires patience and luck, not every cast will yield results.
-3.  **[ES]** **Q: How are offline earnings calculated?**
-**A**: Based on your current equipment level and fishing efficiency; longer offline time means more earnings (with limits).
-4.  **[ES]** **Q: Does the game have an ending?**
-**A**: This is an endless casual game where you can continuously upgrade equipment to explore deeper waters.

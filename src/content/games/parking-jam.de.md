@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: parking-jam
-title: '[DE] Parking Jam'
+title: "Parking Jam"
 description: >-
-  [DE] Parking Jam is a spatial slider — move cars in sequence, free the exit
-  lane, and solve compact lots with minimal moves.
+  Parking Jam ist ein räumliches Schiebepuzzle: Bewege die Autos in der
+  richtigen Reihenfolge, räume die Ausfahrtsgasse frei und löse enge Parkplätze
+  mit möglichst wenigen Zügen.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/parking-jam.png
 tags:
@@ -15,35 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Parking Jam erinnert an das klassische Rush-Hour-Puzzle: Du schiebst Autos in
+ engen Parkreihen vor und zurück, um den Weg für das Zielfahrzeug zur Ausfahrt
+ freizumachen. In höheren Leveln werden die Stellplätze immer dichter, Autos
+ haben unterschiedliche Längen, Einbahnmarkierungen und Blocker erzwingen eine
+ ganz bestimmte Reihenfolge – nur wer effizient plant, kommt ohne festzustecken
+ ans Ziel.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear the path for the target vehicle. Higher levels cram lots with multi‑length cars, one‑way arrows, and blockers requiring precise order of operations.
+1.  **Vom Ziel her denken:** Überlege zuerst, welche Fahrzeuge die Ausfahrt
+    tatsächlich blockieren, und arbeite dich von dort rückwärts.
+2.  **Züge sparen:** Bevorzuge Bewegungen, die gleich mehreren Autos Luft
+    verschaffen, statt nutzlose Hin-und-her-Schiebereien.
+3.  **Pufferbahn öffnen:** Versuche früh, eine "Puffer"-Spur freizuräumen, in
+    die du Autos vorübergehend auslagern kannst, um im Kernbereich Platz zu
+    schaffen.
+4.  **Unwichtige Autos parken:** Fahrzeuge, die den Fluchtweg nicht mehr
+    blockieren, kannst du nach Möglichkeit in Ecken oder Sackgassen "parken", um
+    die wichtigen Spuren frei zu halten.
+5.  **Früh zurückspulen:** Wenn du merkst, dass du nur noch im Kreis schiebst,
+    nutze Rückgängig oder Reset und probiere eine alternative Reihenfolge aus.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Goal backchain: Work backward from the exit to identify cars that truly gate progress.
-2.  **[DE]** Minimal moves: Prefer moves that unlock multiple vehicles rather than local shuffles.
-3.  **[DE]** Buffer lanes: Open a buffer lane early to allow deeper rearrangements.
-4.  **[DE]** Priority stack: Park non‑critical cars in dead zones to keep corridors free.
-5.  **[DE]** Undo early: If progress stalls, rewind before the last “dead shuffle” and choose a different unlock.
+- Ziehe Autos mit der Maus oder per Touch entlang ihrer Fahrtrichtung. Über
+  Schaltflächen im UI kannst du Züge rückgängig machen oder das Level
+  zurücksetzen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drag cars along permitted axes; undo/reset via UI.
+- **F: Ich bewege Autos ständig hin und her, komme aber nicht weiter – Tipp?**
+  
+  Analysiere noch einmal genau, welches Fahrzeug die Ausfahrt wirklich blockiert
+  und suche gezielt nach einem Zug, der mehrere Autos auf einmal "befreit".
 
-### Frequently Asked Questions (FAQ)
+- **F: Sind diagonale Bewegungen erlaubt?**
+  
+  Nein, Autos können nur entlang ihrer Längsrichtung verschoben werden.
 
-- Q: I spin wheels with no progress — advice?
-
-A: Reassess which car blocks the exit chain; find a move that frees multiple cars.
-
-- Q: Are diagonal moves allowed?
-
-A: No — cars slide only along their length.
-
-- Q: Any hints?
-
-A: Many versions include step‑wise hints; use sparingly to preserve challenge.
-
+- **F: Gibt es Hinweise?**
+  
+  Viele Versionen bieten Schritt-für-Schritt-Hinweise. Nutze sie sparsam, wenn
+  du gar nicht weiterkommst, damit der Rätselspaß erhalten bleibt.

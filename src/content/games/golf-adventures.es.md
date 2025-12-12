@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: golf-adventures
-title: '[ES] Golf Adventures'
+title: Golf Adventures
 description: >-
-  [ES] Go on a Golf Adventure! A physics-based puzzle game where you aim your
-  ball to get it in the hole, navigating tricky obstacles and imaginative
-  courses in as few strokes as possible.
+  Embárcate en una aventura de golf. Un puzle basado en físicas donde apuntas la
+  bola para meterla en el hoyo, sorteando obstáculos ingeniosos y recorridos
+  imaginativos en el menor número de golpes posible.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/golf-adventures.png
 tags:
@@ -17,34 +17,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Golf Adventures es un divertido y creativo juego de puzles que utiliza las
+mecánicas del golf. En lugar de un campo realista, te encontrarás con una
+serie de niveles llenos de obstáculos únicos y diseños imaginativos. El
+objetivo es sencillo: meter la bola en el hoyo con el menor número de golpes
+posible. Es un juego de ángulos, potencia y resolución ingeniosa de problemas.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1. **Planifica el golpe:** Antes de tirar, observa todo el nivel. Fíjate en los
+   obstáculos, las pendientes y la posición del hoyo. El camino más corto no
+   siempre es el mejor.
+2. **Domina la potencia:** La distancia que arrastras al apuntar determina la
+   fuerza del golpe. Entender cuánta potencia necesitas para distintas
+   distancias es clave. Empieza con golpes suaves para acostumbrarte a la
+   física.
+3. **Usa el entorno:** Muchos niveles están diseñados para que aproveches
+   paredes y obstáculos. Un rebote contra la pared puede ser la única forma de
+   rodear un obstáculo y acercarte al hoyo.
+4. **Apunta al Par o mejor:** Cada hoyo tiene un "Par", el número de golpes
+   objetivo para un jugador hábil. Tu meta es igualar o mejorar ese número (un
+   Birdie es un golpe menos que el Par; un Eagle, dos menos).
 
-Golf Adventures is a fun and imaginative puzzle game that uses the mechanics of golf. Instead of a realistic golf course, you'll find yourself in a series of creative and challenging levels filled with unique obstacles. The goal is simple: get the ball into the hole in as few strokes as possible. It's a game of angles, power, and clever problem-solving.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+El juego utiliza una mecánica simple de arrastrar y soltar.
 
-1.  **[ES]** **Plan Your Shot:** Before you shoot, take a look at the entire level. Observe the obstacles, the slopes, and the position of the hole. The shortest path is not always the best one.
-2.  **[ES]** **Master the Power:** The distance you pull back determines the power of your shot. Getting a feel for how much power is needed for different distances is key. Start with gentle shots until you get a feel for the physics.
-3.  **[ES]** **Use the Environment:** Many levels are designed for you to use the walls and obstacles to your advantage. Bouncing the ball off a wall (a "bank shot") might be the only way to get around an obstacle and close to the hole.
-4.  **[ES]** **Aim for Par or Better:** Each hole has a "Par," which is the target number of strokes for a skilled player. Your goal is to meet or beat par (a "Birdie" is one under par, an "Eagle" is two under).
+- **Apuntar y fijar potencia:** Haz clic en la bola y mantén pulsado. Arrastra
+  el cursor alejándolo de la bola. Aparecerá una línea indicando la dirección,
+  y la distancia arrastrada marca la potencia.
+- **Golpear:** Suelta el botón del ratón para ejecutar el golpe.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The game uses a simple drag-and-release mechanic.
+*   **P: ¿Qué significa "Par"?**
+    *   **R:** Es el número de golpes que se espera que un jugador competente necesite
+        para completar un hoyo. Si un hoyo es Par 3, tu objetivo es meter la bola en
+        3 golpes o menos.
 
-*   **[ES]** **Aim and Set Power:** Click on the golf ball and hold the mouse button. Drag your cursor away from the ball. A line will appear showing your aim, and the distance you drag determines the power.
-*   **[ES]** **Shoot:** Release the mouse button to hit the ball.
+*   **P: ¿Qué pasa si la bola cae en el agua?**
+    *   **R:** La bola vuelve a su posición anterior y recibes un golpe de penalización.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What does "Par" mean?**
-    *   **[ES]** **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.
-
-*   **[ES]** **Q: What happens if my ball goes into a water hazard?**
-    *   **[ES]** **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
-
-*   **[ES]** **Q: How do I get past a large wall?**
-    *   **[ES]** **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
+*   **P: ¿Cómo supero un muro alto?**
+    *   **R:** Busca rampas u otros elementos. En algunos niveles tendrás que lanzar
+        la bola por una rampa para saltar por encima del obstáculo; en otros, quizá
+        tengas que usar rebotes contra paredes para rodearlo.

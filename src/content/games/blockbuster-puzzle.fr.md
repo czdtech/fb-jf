@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: blockbuster-puzzle
-title: '[FR] Blockbuster Puzzle'
-description: >-
-  [FR] Blockbuster Puzzle is a satisfying block clear — plan placements, chain
-  blasts, and avoid sealing off critical space.
-iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
+title: "Blockbuster Puzzle"
+description: "Blockbuster Puzzle est un jeu de placement/clear de blocs : garde plusieurs colonnes jouables, prépare des tours explosifs et évite de condamner l’espace critique."
+iframeSrc: "https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/"
 thumbnail: /new-images/blockbuster-puzzle.png
 tags:
   - puzzle
@@ -23,11 +21,11 @@ Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or clu
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[FR]** Keep two lanes free: Always preserve at least two flexible build lanes for awkward shapes.
-2.  **[FR]** Bank a bailout slot: Reserve one pocket to recover from bad piece sets.
-3.  **[FR]** Cluster thinking: Group related shapes so one placement sets up several clears.
-4.  **[FR]** Avoid single‑cell cavities: These are nearly impossible to fill consistently.
-5.  **[FR]** Convert advantage: When the board is open, push for multi‑line clears to snowball space.
+1.  Garde au moins deux colonnes « flexibles » pour accueillir les pièces difficiles.
+2.  Réserve une case ou une zone comme « poche de secours » pour récupérer un mauvais tirage.
+3.  Regroupe les formes similaires pour qu’un placement déclenche plusieurs clears en chaîne.
+4.  Évite les cavités d’une seule case, presque impossibles à exploiter.
+5.  Quand la grille est dégagée, profite‑en pour viser des clear multi‑lignes et agrandir encore l’espace.
 
 ### Controls Guide
 
@@ -47,4 +45,3 @@ A: No, but it helps. When rotation is limited, rely on symmetry and larger open 
 - Q: Should I place big shapes first or last?
 
 A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
-

@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: om-nom-connect-classic
-title: '[FR] Om Nom Connect Classic'
+title: Om Nom Connect Classic
 description: >-
-  [FR] Connect with Om Nom in this classic tile-matching puzzle! Find pairs of
-  identical tiles featuring Om Nom and his friends, and clear the board by
-  linking them with a path of no more than two turns.
+  Om Nom Connect Classic est un jeu de connexion de tuiles : trouve des paires
+  identiques d’Om Nom et de ses amis et relie‑les avec un chemin comportant au
+  plus deux virages pour vider le plateau.
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/om-nom-connect-classic.jpg
@@ -14,38 +14,40 @@ tags:
   - casual
   - thinky
 score: 4.4/5  (2400 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Om Nom Connect Classic est un puzzle de connexion rapide mettant en scène les personnages de l’univers Cut the Rope. Le but est de vider le plateau en trouvant des paires de tuiles identiques. La difficulté vient de la règle de connexion : tu ne peux retirer une paire que si le chemin entre les deux tuiles comporte au maximum deux angles droits et ne traverse aucune autre tuile. Avec un chrono qui défile, il faut être à la fois rapide et méthodique.
 
+### Stratégies de jeu et progression
 
+1.  **Comprendre la règle de liaison :** une paire n’est valide que si tu peux dessiner une ligne entre les deux tuiles avec au plus deux virages et aucun blocage.  
+2.  **Scanner les bords :** les correspondances les plus simples se trouvent souvent sur le pourtour du plateau ; commence par les bords et les lignes presque vides.  
+3.  **Ouvrir le centre :** choisis des paires qui libèrent des colonnes ou des rangées entières afin de débloquer les tuiles coincées au milieu.  
+4.  **Utiliser les aides :** en cas de blocage, un indice peut révéler une paire possible ; si aucune combinaison n’est disponible, un mélange remet les tuiles en jeu.
 
-### Detailed Game Introduction
+### Commandes
 
-Om Nom Connect Classic is a fun and fast-paced tile-matching puzzle game featuring the adorable characters from the Cut the Rope universe. The goal is to clear the board by finding and connecting pairs of identical tiles. The challenge lies in the connection rule: a pair can only be removed if the path between them has no more than two 90-degree turns. With a timer counting down, you'll need to be quick and strategic to complete each level.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** **The Connection Rule:** You can only match two identical tiles if you can draw a line between them with a maximum of two bends (L-shape or Z/U-shape). The path must also be clear of any other tiles.
-2.  **[FR]** **Scan the Edges:** The easiest matches are often on the outside of the grid. Start by quickly scanning the perimeter for adjacent pairs or those that can be connected with a straight line.
-3.  **[FR]** **Think Ahead:** Every pair you remove opens up new possibilities. Try to make matches that will clear a path to other potential pairs, especially those trapped in the center of the board.
-4.  **[FR]** **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a valid pair. If you completely run out of moves, use the shuffle button to rearrange all the tiles on the board and create new matching opportunities.
-
-### Controls Guide
 
 The game is played with simple clicks or taps.
+- Clique sur une tuile pour la sélectionner, puis sur sa jumelle. Si la connexion respecte les règles, la paire disparaît.
 
-*   **[FR]** **Select Tiles:** Click on a tile to select it, then click on its identical partner. If the connection is valid according to the rules, the pair will be removed.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q : Pourquoi deux tuiles identiques ne se connectent‑elles pas ?**  
+  **R :** Le chemin entre elles est bloqué par d’autres tuiles ou nécessite plus de deux virages.
 
-*   **[FR]** **Q: Why can't I connect two identical tiles?**
-    *   **[FR]** **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.
+    - **Q : Que se passe‑t‑il si le temps se termine ?**  
 
-*   **[FR]** **Q: What happens if the timer runs out?**
-    *   **[FR]** **A:** You will fail the level and have to start over. Speed and quick recognition are key!
+- **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
 
-*   **[FR]** **Q: What's the best strategy for finding matches quickly?**
-    *   **[FR]** **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
+    - **Q: What's the best strategy for finding matches quickly?**
+
+- **A:** You will fail the level and have to start over. Speed and quick recognition are key!
+
+    - **Q: What happens if the timer runs out?**
+  **R :** Le niveau est perdu et tu dois recommencer. Plus tu repères vite les paires, plus tu auras de marge.
 

@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: tile-guru
-title: '[DE] Tile Guru'
-description: >-
-  [DE] Tile Guru is a polished tile‑match — pick triples, manage stacks, and
-  clear trays without clogging lanes.
+title: "Tile Guru"
+description: "Tile Guru ist ein poliertes Triple‑Match‑Puzzle: Sammle Kachel‑Drillinge, verwalte deinen Ablagestapel geschickt und räume das Tablett, ohne es zu verstopfen."
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/tile-guru.png
 tags:
@@ -14,32 +12,26 @@ score: 4.1/5  (1974 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Tile Guru nutzt das bekannte Triple‑Match‑Tablett‑Prinzip: Du nimmst Kacheln vom Spielfeld auf und legst sie in ein begrenztes Tablett. Immer wenn drei identische Kacheln dort liegen, verschwinden sie. Die eigentliche Herausforderung ist das Stapel‑Management – du darfst dir den Platz nicht mit zu vielen angebrochenen Sets zustellen, sonst blockierst du dich selbst.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Setzdisziplin:** Fang nicht zu viele Kacheltypen gleichzeitig an. Vervollständige begonnene Paare möglichst schnell, statt überall nur einzelne Stücke zu sammeln.
+2. **Tiefe im Blick behalten:** Wähle bevorzugt Kacheln, die andere nicht „begraben“, also keine wichtigen Partner unter dicken Schichten vergraben.
+3. **Vorausplanen:** Überlege dir die nächsten zwei bis drei Züge, damit dein Tablett nicht plötzlich überläuft.
+4. **Rückgängig sinnvoll nutzen:** Wenn ein Zug deinen Stapel sichtbar verstopft, nutze die Undo‑Funktion sofort, solange der Schaden klein ist.
+5. **Power‑ups aufsparen:** Heb dir Mischen‑ oder Aufräum‑Power‑ups für Situationen kurz vor dem Deadlock auf.
 
-Tile Guru uses the triple‑match tray formula: pick tiles into a limited tray; three of a kind clear. The puzzle is stack management — avoid burying mismatched sets that clog the tray and force deadlocks.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Klicke auf Kacheln, um sie ins Tablett zu legen; Drillinge verschwinden automatisch. Hinweise, Misch‑Funktionen und andere Power‑ups erreichst du über die UI.
 
-1.  **[DE]** Pair discipline: Don’t start too many sets at once; resolve pairs quickly.
-2.  **[DE]** Depth control: Pull accessible tiles that won’t bury needed matches.
-3.  **[DE]** Look‑ahead: Plan the next 2–3 picks to avoid tray overflow.
-4.  **[DE]** Undo wisely: Undo immediately after a clogging pick.
-5.  **[DE]** Power‑ups: Save shuffles for near‑deadlocks.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Mein Tablett füllt sich viel zu schnell – was tun?**  
+  Beschränke die Anzahl gleichzeitig offener Sets und sorge dafür, dass du Paare zügig zu Dreiergruppen vervollständigst.
 
-- Click tiles to add to tray; three‑of‑a‑kind clear; hints/shuffles via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: My tray fills too fast.
-
-A: Limit open sets and complete pairs before starting new ones.
-
-- Q: Which tiles first?
-
-A: Exposed, shallow tiles that won’t bury partners.
-
+- **Welche Kacheln sollte ich zuerst nehmen?**  
+  Bevorzuge freiliegende, flache Kacheln, die beim Wegnehmen keine wichtigen Partner tief vergraben – so behältst du Kontrolle über das Feld.

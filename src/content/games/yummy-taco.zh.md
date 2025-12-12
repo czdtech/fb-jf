@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: yummy-taco
-title: '[ZH TRANSLATION NEEDED] Yummy Taco'
+title: 'Yummy Taco：塔可快餐小店'
 description: >-
-  [ZH TRANSLATION NEEDED] Get ready to cook up some delicious tacos in Yummy
-  Taco, a fun and fast-paced cooking simulation game! Take customer orders,
-  select fresh ingredients, and assemble mouth-watering tacos. Serve quickly to
-  earn money and upgrade your kitchen in this addictive culinary challenge.
+  在《Yummy Taco》中经营你自己的墨西哥卷饼小店。
+  接单、备料、组装香喷喷的塔可，用速度与准确度同时打动顾客，
+  赚取收入升级厨房，解锁更多食材与菜谱。
 iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/yummy-taco.jpg
@@ -19,33 +18,55 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-[ZH TRANSLATION NEEDED] Yummy Taco is a delightful and fast-paced cooking simulation game where you step into the role of a taco chef. Your mission is to prepare delicious tacos for a stream of hungry customers, managing ingredients, assembly, and serving with speed and accuracy. The game challenges your time management skills and ability to keep up with demand.
+《Yummy Taco》是一款节奏轻快的餐厅模拟游戏，
+你将化身塔可小店的大厨兼店长，在络绎不绝的客人之间忙碌穿梭。
 
-### Gameplay Guide
+你的任务是根据顾客的点单迅速制作出配料正确的塔可，
+从选饼、加肉、配蔬菜、淋酱料到出餐，每一步都要又快又准。
+随着生意越来越好，你需要同时兼顾速度、准确度和食材管理，
+考验的是你的时间管理能力与多任务处理能力。
 
-- **Take Orders:** Customers will appear with speech bubbles indicating their desired taco ingredients.
-- **Assemble Tacos:** Click or drag ingredients (tortillas, meats, vegetables, sauces) onto the preparation area to build the taco according to the order.
-- **Serve:** Once the taco is complete, serve it to the customer. Speed is key to earning higher tips and keeping customers happy.
-- **Earn Money:** Successful and quick service earns you money, which can be used to purchase new ingredients, upgrade your kitchen, or unlock new recipes.
-- **Manage Ingredients:** Keep an eye on your ingredient supplies and restock as needed.
+### 游戏玩法指南
 
-### Controls Guide
+- **接收订单（Take Orders）：**  
+  顾客头顶的气泡会显示他们想要的塔可配方，
+  检查所需的饼皮、肉类、蔬菜、酱料等具体组合。
 
-- **Mouse/Touch:** All interactions are typically done with mouse clicks or touch gestures.
-     - **Click:** Select ingredients, click on customers, or interact with menu items.
-     - **Drag and Drop:** Drag ingredients to assemble tacos or drag completed tacos to customers.
+- **组装塔可（Assemble Tacos）：**  
+  使用鼠标点击或拖拽，将玉米饼、肉、蔬菜和酱汁依次放入制作区，
+  按照订单顺序完成整个塔可，不要遗漏或多放任何配料。
 
-### Frequently Asked Questions (FAQ)
+- **上菜服务（Serve）：**  
+  塔可完成后，将其递交给对应顾客。
+  出餐越快，顾客满意度越高，小费与评分也会随之提升。
 
-[ZH TRANSLATION NEEDED] **What is the main goal of Yummy Taco?**
+- **赚取收入（Earn Money）：**  
+  成功且迅速地服务顾客可以获得收入，
+  用来解锁新食材、升级烹饪设备或扩展菜单，
+  让小店越做越大。
 
-[ZH TRANSLATION NEEDED] The main goal is to serve as many customers as possible, earn money, and achieve a high score by efficiently preparing and serving tacos.
+- **管理库存（Manage Ingredients）：**  
+  留意食材库存，及时补充，避免在高峰期出现“没料可用”的尴尬情况。
 
-[ZH TRANSLATION NEEDED] **How do I get a higher score?**
+### 操作说明
 
-[ZH TRANSLATION NEEDED] Serve customers quickly and accurately. Avoid mistakes in orders. Longer streaks of perfect service often lead to bonus points.
+- **鼠标 / 触控操作：**  
+  通过鼠标点击或手指点按完成所有交互。
+    - **点击（Click）：** 选择食材、点击顾客或打开升级与菜单界面。
+    - **拖拽（Drag and Drop）：** 将食材拖到制作区域或把完成的塔可拖给顾客。
 
-[ZH TRANSLATION NEEDED] **Can I upgrade my kitchen or recipes?**
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] Yes, in many cooking simulation games like Yummy Taco, you can use the money you earn to upgrade your kitchen equipment, unlock new ingredients, or learn new, more complex recipes to attract more customers.
+**问：Yummy Taco 的核心目标是什么？**  
+**答：** 尽可能服务更多顾客并保证订单准确，
+在有限时间内赚取更多收入和高评分，逐步把小店经营得红红火火。
 
+**问：怎样才能拿到更高分？**  
+**答：** 关键是“又快又准”。尽量缩短顾客等待时间，
+同时避免配料出错导致顾客生气或退单。
+保持连贯的完美订单往往会触发连击与额外奖励。
+
+**问：可以升级厨房或解锁新食谱吗？**  
+**答：** 可以。你赚到的钱通常可以用来购买更高效的设备、
+解锁更丰富的食材或更复杂的塔可配方，
+不仅能提高单次收益，也能让游戏体验更有层次感。

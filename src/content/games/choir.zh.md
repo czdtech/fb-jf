@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: choir
-title: '[ZH TRANSLATION NEEDED] Choir Game'
+title: "Choir Game Blob Opera 合唱实验"
 description: >-
-  [ZH TRANSLATION NEEDED] Discover Blob Opera, the viral choir game! This guide
-  provides detailed gameplay instructions, controls, tips, and answers to common
-  questions for this creative musical experiment.
+  通过这份《Choir Game Blob Opera 合唱实验》指南，深入了解这款风靡网络的合唱互动游
+  戏。掌握基础操作、创作技巧与常见问题解答，在可爱的“胶团”歌手陪伴下，随心所欲创
+  作属于你自己的歌剧作品。
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
 thumbnail: /new-images/choir.jpg
 tags:
@@ -18,47 +18,77 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] Blob Opera is not a traditional game with levels or objectives, but rather an interactive musical experiment or a "musical toy." It allows users to control a quartet of colorful, endearing "blobs" to create operatic music in real-time. Each blob represents a different vocal range: bass, tenor, mezzo-soprano, and soprano.
+Blob Opera 并不是传统意义上有关卡或胜负判定的游戏，而是一款互动式的音乐实验——换句
+话说，它更像是一件可以随手把玩的“音乐玩具”。玩家可以操控四个色彩鲜艳、表情可爱的
+“胶团”角色，让它们实时演唱和声，组合出各种歌剧风格的旋律。四个角色分别代表不同的
+声部：男低音、男高音、女中音和女高音。
 
-[ZH TRANSLATION NEEDED] The game utilizes a machine learning model trained on the voices of four real opera singers. The model doesn't simply play back pre-recorded samples; instead, it generates synthesized, fluid vocal sounds based on the user's input, creating surprisingly realistic and harmonious choral music. The primary goal is creative expression and fun, allowing anyone, regardless of musical skill, to compose beautiful and often hilarious opera pieces.
+游戏背后使用了一个在真实歌剧演员声音上训练出来的机器学习模型。它并不是简单回放录
+好的片段，而是根据玩家的拖动轨迹实时生成连贯自然的歌声，因此你听到的是“合成的歌
+声”，却拥有非常真实的音色与和声效果。游戏的核心并不是通关，而是自由创作与快乐玩
+耍——即便完全没有音乐基础，也能在短时间内做出悦耳甚至搞笑的“作品”。
 
 ### **Gameplay Strategy & Tips**
 
-[ZH TRANSLATION NEEDED] Since there is no "winning," the strategy revolves around creating pleasant or interesting music.
+由于没有输赢的概念，游戏的“策略”重心在于如何创作出好听、有趣或有个性的音乐片段。
 
-1.  **Understand the Controls**: The most crucial part is mastering the two axes of control. Vertical movement controls pitch (how high or low the note is), and horizontal movement controls the vowel sound (e.g., 'a', 'e', 'i', 'o', 'u').
-2.  **Harmonize Intelligently**: When you move one blob, the others automatically adjust to create a harmony. Pay attention to how they follow the lead singer. Start with slow, deliberate movements to hear how the harmonies form.
-3.  **Use Solos for Melodies**: To create a clear melody, click on a single blob to disable the others temporarily. Drag it around to craft a lead vocal line. Then, click the "All" toggle to bring the harmony back in, and the other blobs will support your melody.
-4.  **Experiment with Vowels**: Don't just move the blobs up and down. Dragging them forward and backward (or left and right) dramatically changes the texture of the sound. A slow drag from front to back can create a beautiful "wah" effect.
-5.  **Record and Share**: The best way to "finish" a piece is to use the record function. Plan a small composition—perhaps a solo followed by a full chorus—and record it. You can then share a link to your performance with others.
-6.  **Explore Festive Modes**: The game often includes special themed modes (like a Christmas mode). Look for a toggle icon (e.g., a Christmas tree) to switch backgrounds, hats for the blobs, and a playlist of festive songs the blobs can harmonize with.
+1.  **先熟悉操作轴向：** 最重要的是理解两条控制轴：垂直方向控制音高（高音/低音），
+    水平方向控制元音发音（类似 a、e、i、o、u）。拖动得越自然，你的旋律线也会越流畅
+    。
+2.  **善用自动和声：** 当你拖动其中一个角色时，其他三个角色会自动跟随，自动补全和
+    声。可以先慢慢移动主唱，听一听系统自动生成的和弦，感受整体和声是如何跟随变化的
+    。
+3.  **使用独唱塑造主旋律：** 想要更清晰的旋律线，可以点击某一个胶团让其独唱，暂时
+    静音其他人，然后专心拖动它来“写”出主旋律。完成后再切回“全部”模式，让其余声部
+    自动加入，形成丰满的合唱效果。
+4.  **多尝试元音变化：** 不要只上下拖动改音高，前后或左右拉动也能大幅改变声音质感
+    。比如缓慢地从前向后拖动，可以产生类似“哇—”的音色变化，让你的旋律更具表现力。
+5.  **录制并分享作品：** 完成一段你满意的旋律后，最好用录制功能把它记录下来。可以
+    先设计好一个简短结构——例如先来一段独唱，再切入全员合唱——录好之后通过分享链接
+    把你的作品发给好友。
+6.  **别忘了节日/限定模式：** 有时游戏会开放节日或主题模式（如圣诞主题）。界面上出
+    现圣诞树之类图标时，可以尝试切换，获得新的背景、戴帽子的胶团形象，以及一组专门
+    为该主题设计的曲目。
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The controls are simple and intuitive, designed for mouse or touch input.
+游戏的操作非常直观，对鼠标和触屏都十分友好。
 
-*   **Drag a Blob Up/Down**: Increases or decreases the **pitch** of the note.
-*   **Drag a Blob Forward/Backward**: Changes the **vowel sound**.
-*   **Click/Tap on a Single Blob**: Selects that blob for a solo performance, temporarily muting the others.
-*   **Mute/Unmute Toggles**: At the bottom of the screen, there are individual toggles to mute or unmute each singer. There is also a master toggle to control them all at once.
-*   **Record Button (Red Circle)**: Click this to start recording your composition. Click it again to stop.
-*   **Share Button**: After you finish a recording, a share button will appear, allowing you to copy a link to your created performance.
-*   **Theme Toggle (e.g., Christmas Tree Icon)**: Switches the game to a different theme, often with new background music to sing along to.
+*   **上下拖动胶团：** 调整当前声部的音高，高处唱高音，低处唱低音。
+*   **前后/左右拖动胶团：** 改变当前声部所发出的元音音色，让声音听起来更像“啊/咦/喔
+    ”等不同口型。
+*   **点击单个胶团：** 只选中该角色进入独唱模式，其他声部会暂时静音，方便你专注塑
+    造主旋律。
+*   **静音开关：** 屏幕下方通常有每个角色对应的静音按钮，也有控制所有声部的总开关
+    ，可以快速切换合唱/独唱状态。
+*   **录制按钮（红色圆点）：** 点击开始录制，再次点击即可结束录制，生成一段完整表演
+    。
+*   **分享按钮：** 完成录制后会出现分享入口，你可以复制链接，把作品发送给其他人欣赏
+    。
+*   **主题切换（如圣诞树图标）：** 在支持的版本中，点击即可切换不同主题，包含背景、
+    装饰以及推荐曲目列表等。
 
 ### **Frequently Asked Questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. Is there a goal or an ending to the game?**
-[ZH TRANSLATION NEEDED] No, Blob Opera is a sandbox experience. There are no points, levels, or objectives. The "goal" is simply to have fun, experiment with music, and create something you enjoy.
+**1. 这款游戏有明确的目标或结局吗？**  
+没有。Blob Opera 更像一个音乐沙盒，而不是关卡制游戏。没有分数、等级或终点，你的目
+标只是尽情玩乐、实验各种旋律，并创作出自己喜欢的声音。
 
-[ZH TRANSLATION NEEDED] **2. Are the voices from real singers?**
-[ZH TRANSLATION NEEDED] The sounds are generated by a machine learning model. This model was trained on many hours of recordings from four real opera singers (Christian Joel - tenor, Frederick Tong - bass, Joanna Gamble - mezzo-soprano, and Olivia Doutney - soprano). So, while you aren't hearing direct recordings, the voices are based on real human performances.
+**2. 这些声音是真人唱的吗？**  
+你听到的声音来自一个机器学习模型。这个模型使用了四位真实歌剧演唱者的大量录音作为
+训练数据（Christian Joel - 男高音、Frederick Tong - 男低音、Joanna Gamble - 女中音、
+Olivia Doutney - 女高音）。因此你听到的并不是原样回放，而是模型在他们声音风格基础上
+实时合成出来的歌声。
 
-[ZH TRANSLATION NEEDED] **3. Can I make the blobs sing specific words or lyrics?**
-[ZH TRANSLATION NEEDED] No. You can only control the pitch and the vowel sounds. The blobs cannot form consonants, so they cannot sing lyrics.
+**3. 我能让胶团唱出具体的歌词吗？**  
+不能。玩家只能控制音高和元音音色，胶团不会发出辅音，因此无法组合成真正的单词或句
+子。更适合作为“哼唱式”的歌声乐器来使用。
 
-[ZH TRANSLATION NEEDED] **4. How do I save my musical creation?**
-[ZH TRANSLATION NEEDED] You cannot save it as a file (like an MP3). However, you can use the record function to capture a performance. After recording, the game provides a shareable link that allows anyone with the link to watch and listen to your specific composition.
+**4. 我怎么保存自己的作品？**  
+暂时无法直接导出为 MP3 等音频文件，但你可以使用游戏内的录制功能记录一段表演。录制
+完成后，系统会生成一个可分享链接，任何获得该链接的人都可以在线观看并聆听你的作品
+。
 
-[ZH TRANSLATION NEEDED] **5. Is the game free to play?**
-[ZH TRANSLATION NEEDED] Yes, Blob Opera is a free web-based experiment accessible through any modern browser.
-
+**5. 这款游戏需要付费吗？**  
+不需要。Blob Opera 是一款基于浏览器的免费音乐实验，你只需使用支持现代网页标准的浏
+览器即可体验全部玩法。

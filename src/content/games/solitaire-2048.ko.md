@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: solitaire-2048
-title: '[KO] Solitaire 2048'
+title: 'Solitaire 2048 솔리테어 2048'
 description: >-
-  [KO] Solitaire 2048 merges 2048 with card flow — place numbered cards to
-  combine values and manage lanes for big chains.
+  Solitaire 2048은 2048 퍼즐의 합치기 규칙을 카드 스트림으로 옮긴 게임입니다.
+  숫자 카드(2, 4, 8…)를 열에 배치해 같은 숫자를 합치고, 열이 막히지 않도록
+  병합 순서와 칸을 관리하면서 큰 연쇄를 노리는 게임입니다.
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/solitaire-2048.png
 tags:
@@ -17,34 +18,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Solitaire 2048은 전통적인 2048 합치기 규칙을 카드 더미로 재해석한 게임입니다.
+턴마다 주어지는 숫자 카드(2, 4, 8…)를 여러 열 가운데 하나에 내려놓으면,
+서로 인접한 같은 숫자 카드가 만나 더 큰 숫자로 합쳐집니다. 핵심은 열이
+막히지 않도록 여유 공간을 유지하면서, 연속적인 병합이 한 번에 터지도록
+순서를 설계하는 데 있습니다.
 
-Solitaire 2048 converts merge logic into a card stream. You place cards (2, 4, 8…) into columns; adjacent equals merge to the next value. The trick is sequencing so merges cascade and free space rather than clog lanes.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  기준 열 유지: 가장 높은 숫자 카드는 가운데 쪽 열에 모아 두면 좌우로
+    병합 경로를 만들기 쉽습니다.
+2.  공급 열 관리: 양옆 열은 짝을 미리 쌓아 두는 준비 구역으로 쓰고,
+    조건이 갖춰졌을 때만 중심 열로 보내 병합합니다.
+3.  스파이크 정리: 한 열만 유독 길게 솟아오른 "스파이크" 상태를 먼저
+    정리하지 않으면 그대로 막힌 열이 되기 쉽습니다.
+4.  트리거 타이밍: 병합을 발생시키는 카드는 양쪽 이웃이 준비된 다음에
+    내려놓아 한 번에 최대한 많이 합쳐지게 만드세요.
+5.  버리는 열 활용: 도저히 활용하기 어려운 카드는 한쪽 구석 열을
+    "쓰레기통"처럼 정해 두고 몰아넣어, 나머지 열의 효율을 지키는 것이 좋습니다.
 
-1.  **[KO]** Anchor column: Keep the highest value centralized for lateral access.
-2.  **[KO]** Feeder management: Use side lanes to stage pairs before feeding center.
-3.  **[KO]** Spike control: Flatten tall spikes first to avoid dead columns.
-4.  **[KO]** Trigger timing: Drop the triggering card only after both neighbors are set.
-5.  **[KO]** Trash lane: Dedicate one edge to off‑cycle cards.
+### 조작 방법 안내
 
-### Controls Guide
+- 마우스로 원하는 열을 클릭해 현재 카드를 놓습니다.
+- 게임에 따라 실행 취소나 힌트 버튼이 제공될 수 있습니다.
 
-- Click a column to place current card; undo/hints if available.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- Q: 열이 자꾸 막혀서 더 이상 둘 곳이 없어요.
 
-- Q: Columns keep locking.
+  A: 한쪽에만 준비 카드를 쌓지 말고 양옆 열을 골고루 사용하세요.
+  특히 스파이크처럼 너무 높은 열은 먼저 낮춰 주고, 병합 트리거 카드는
+  준비가 끝난 뒤에만 사용해야 합니다.
 
-A: Spread staging across two side lanes and avoid premature triggers.
+- Q: 기준 카드는 모서리에 두는 게 좋나요, 가운데가 좋나요?
 
-- Q: Anchor corner or center?
+  A: 가운데 열에 높은 숫자를 모아 두면 좌우 양쪽으로 병합 경로를
+  만들 수 있어 일반적으로 더 유리합니다.
 
-A: Center yields more merge routes.
+- Q: 꼬여 버린 스택도 회복이 가능한가요?
 
-- Q: Can I recover from bad stacks?
-
-A: Yes — flatten spikes and rebuild pairs before triggering.
-
+  A: 가능합니다. 먼저 가장 높은 열을 평평하게 만들면서 중간 숫자를
+  다시 짝지어 주세요. 그다음 준비된 쌍을 이용해 차근차근 병합을
+  이어 가면 막힌 판도 서서히 복구할 수 있습니다.

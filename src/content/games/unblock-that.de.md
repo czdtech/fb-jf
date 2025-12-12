@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: unblock-that
-title: '[DE] Unblock That'
+title: Unblock That
 description: >-
-  [DE] A classic sliding block puzzle. Move the wooden blocks around to clear a
-  path and slide the red block out of the board. A great brain-teaser for puzzle
-  lovers!
+  Unblock That ist ein klassisches Schiebeblock‑Puzzle: Verschiebe Holzklötze
+  so, dass der rote Block einen freien Weg zum Ausgang bekommt – ideal zum
+  Knobeln und Trainieren deines Logikdenkens.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/unblock-that.png
 tags:
@@ -16,34 +16,42 @@ score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Unblock That ist ein forderndes Schiebepuzzle mit Holzblöcken unterschiedlicher Länge. Auf einem Raster liegen die Blöcke so verteilt, dass der rote Block zunächst feststeckt. Deine Aufgabe ist es, die übrigen Klötze in die richtige Reihenfolge zu schieben, bis der rote Block den Ausgang erreicht. Mit vielen Leveln von leicht bis knifflig ist es ein perfekter Logiktrainer für zwischendurch.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Hauptblocker erkennen:** Schau dir als Erstes an, welche Blöcke direkt im Weg des roten Blocks stehen – diese müssen auf jeden Fall bewegt werden.
+2. **Platz schaffen:** Um Blocker zu verschieben, brauchst du freie Felder. Bewege kleinere Blöcke so, dass neue Lücken entstehen, ohne das Feld unnötig zu verstopfen.
+3. **Vorausdenken:** Vermeide Zufallsklicks. Versuche, eine Zugfolge im Kopf durchzuspielen und plane mehrere Schritte im Voraus, um mit möglichst wenigen Zügen zum Ziel zu kommen.
+4. **Zurücksetzen, wenn’s klemmt:** Wenn du das Gefühl hast, dass alles nur noch chaotischer wird, ist ein Reset oft der beste Weg, um mit frischem Blick neu zu starten.
 
-Unblock That is a classic and challenging sliding block puzzle. The game presents you with a grid filled with wooden blocks of various sizes. Your goal is to strategically slide these blocks to clear a path for the special red block to escape through the exit. With hundreds of levels ranging from easy to expert, it’s a perfect game to train your logical thinking and problem-solving skills.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[DE]** **Identify the Main Blockers:** Look at the red block and identify the blocks that are directly in its path to the exit. Your first goal is to move these primary blockers.
-2.  **[DE]** **Create Space:** To move a blocking piece, you often need to move other pieces first to create empty space. Look for smaller blocks that can be shuffled around easily to open up pathways.
-3.  **[DE]** **Think Several Moves Ahead:** Don't just make random moves. Try to visualize the sequence of moves required to clear the path. The best players think several steps ahead to solve the puzzle in the fewest moves possible.
-4.  **[DE]** **Don't Be Afraid to Reset:** If you get into a situation where the blocks are completely jammed and you can't see a solution, sometimes the best option is to reset the level and start again with a fresh approach.
-
-### Controls Guide
 
 The game is played with simple drag-and-drop controls.
+- **Block bewegen:** Klicke einen Holzblock an und ziehe ihn entlang seiner Ausrichtung (horizontale Blöcke nach links/rechts, vertikale nach oben/unten) in freie Felder.
 
-*   **[DE]** **Move a Block:** Click and hold on any wooden block. You can only slide it along its orientation (horizontally or vertically) into an empty space.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To slide the red block all the way to the right so it can exit the board.
+- **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
 
-*   **[DE]** **Q: Why can't I move a block?**
-    *   **[DE]** **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
+    - **Q: How is the score determined?**
 
-*   **[DE]** **Q: How is the score determined?**
-    *   **[DE]** **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
+- **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
 
+    - **Q: Why can't I move a block?**
+
+- **A:** To slide the red block all the way to the right so it can exit the board.
+
+    - **Q: What is the goal of the game?**
+**Was ist das genaue Ziel?**  
+Den roten Block so weit zu verschieben, dass er den Ausgang am Rand des Brettes erreichen kann.
+
+**Warum kann ich manche Blöcke nicht bewegen?**  
+Blöcke lassen sich nur entlang ihrer Längsseite schieben. Ist kein Platz in dieser Richtung frei, musst du zunächst andere Klötze wegräumen.
+
+**Wozu dienen die Zugzähler oder Sterne?**  
+Viele Varianten bewerten dich nach der Anzahl der Züge. Je weniger du benötigst, desto besser fällt deine Bewertung aus.

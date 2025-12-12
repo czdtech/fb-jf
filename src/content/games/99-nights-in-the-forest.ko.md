@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: 99-nights-in-the-forest
-title: '[KO] 99 Nights in the Forest'
+title: '99 Nights in the Forest 99 나이츠 인 더 포레스트'
 description: >-
-  [KO] An overview of the indie horror game '99 Nights in the Forest.' Learn
-  about its survival horror gameplay, resource management, and strategies for
-  enduring the terrifying nights in a mysterious, isolated forest.
+  99 Nights in the Forest는 저주받은 숲에서 99일 밤을 버티는 1인칭 생존
+  공포 게임입니다. 자원을 모아 오두막을 강화하고 매일 밤 몰려오는 괴물을
+  막아내세요.
 iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
 thumbnail: /new-images/99-nights-in-the-forest.webp
 tags:
@@ -15,56 +15,98 @@ score: 4.7/5  (2765 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### **게임 소개**
 
+*99 Nights in the Forest*는 자원 관리와 거점 방어에 초점을 맞춘 1인칭 생존
+공포 게임입니다. 플레이어는 저주받은 숲 한가운데에 갇힌 채 낡은 오두막 하나에
+의지해, 밤마다 몰려오는 괴물들을 막아내며 99일 동안 살아남아야 합니다.
 
+게임의 중심에는 뚜렷한 **낮/밤 사이클**이 있습니다.
 
+*   **낮:** 비교적 안전한 짧은 시간대입니다. 이때 숲을 돌아다니며 필수 자원을
+    최대한 빠르게 모아야 합니다. 대표적인 자원은 **나무(판자를 만들기 위한
+    원목)**, **고철(못 제작용)**, 그리고 **식량/물(체력과 생존 유지용)**입니다.
+*   **밤:** 해가 지면 숲속 괴물들이 깨어나 오두막을 직접 공격하기 시작합니다.
+    플레이어는 실내에 머물며 낮에 모은 자원으로 창문을 판자와 못으로
+    막고, 방어벽을 수리하며, 방어선이 뚫렸을 경우를 대비해야 합니다.
 
+이 게임의 핵심은 **준비와 계획**입니다. 낮 시간 동안 얼마나 효율적으로
+움직였느냐가 밤에 살아남을 가능성을 결정합니다. 날이 지날수록 적의 수와
+공격성은 점점 증가해, 자원 비축과 방어 전략에 더 큰 압박을 줍니다. 여기에
+플레이어가 사망하면 **완전 초기화(퍼마데스)**가 적용되어, 1일 차부터 다시
+시작해야 한다는 긴장감도 더해집니다.
 
-### **99 Nights in the Forest Game Introduction**
+### **플레이 전략 & 팁**
 
-*99 Nights in the Forest* is a first-person survival horror game focused on resource management and base defense. The player is trapped in a cursed forest with a single objective: survive for 99 consecutive nights by defending a dilapidated cabin from monstrous creatures that attack each night.
+1.  **1일 차 목표: 모든 창문 막기**  
+    첫날의 최우선 목표는 해 지기 전까지 오두막의 모든 창문을 판자와 못으로
+    완전히 막는 것입니다. 이것이 초반 밤을 버티기 위한 최소 조건입니다.
 
-The game's core mechanic is its distinct **day-night cycle**:
-*   **[KO]** **Daytime**: A brief and relatively safe period. Players must use this time efficiently to venture into the forest to gather essential resources. This primarily includes: **Wood** (for crafting planks), **Scrap Metal** (for crafting nails), and **Food/Water** (to maintain vitals).
-*   **[KO]** **Nighttime**: When night falls, unknown creatures from the forest awaken and will actively attack the cabin. Players must stay inside, use the resources gathered during the day to craft and fortify defenses (like barricading windows with planks and nails), and be prepared to fight if their defenses are breached.
+2.  **자원 우선순위: 나무 > 고철 > 음식**  
+    *   **나무:** 방어의 토대가 되는 자원으로, 판자를 만들기 위해 대량이
+        필요합니다. 낮 시간의 상당 부분을 나무 베기에 투자해도 좋습니다.
+    *   **고철:** 못을 만드는 재료입니다. 못이 없으면 판자를 설치할 수 없기
+        때문에, 나무 다음으로 중요한 자원입니다. 떨어져 있는 고철을 눈여겨
+        찾아야 합니다.
+    *   **음식과 물:** 생존에 필수지만 초반에는 소모 속도가 비교적 느립니다.
+        초반 며칠은 방어 체계를 갖추는 데 더 집중하고, 여유가 생길 때 식량을
+        보충해도 충분한 경우가 많습니다.
 
-The game heavily emphasizes **preparation and planning**. Your efficiency during the day directly determines your chances of survival at night. As the days progress, the number and aggression of the enemies will increase, presenting a tougher challenge to your resource stockpile and defensive strategy. A key feature of the game is **permadeath**—if the player dies, they must start over from Day 1.
+3.  **방어벽은 소모품이다**  
+    밤마다 괴물들은 창문에 설치한 판자를 부수려고 합니다. 낮이 되면 집
+    주변을 돌며 손상된 판자를 점검하고 교체해야 합니다. 후반부에는 한 창문에
+    판자를 두세 겹까지 덧대야 할 정도로 공격이 거세지므로, 예비 자원도
+    확보해 두는 것이 좋습니다.
 
-### **Gameplay Strategy & Tips**
+4.  **소리는 최고의 경보 장치**  
+    밤에는 창문 밖 상황을 눈으로 확인하기 어렵기 때문에, 발소리나 충돌음,
+    괴성 같은 소리를 주의 깊게 들어야 합니다. 어느 방향의 창문이 공격받고
+    있는지, 적이 몇 마리 정도인지 소리만으로도 어느 정도 파악할 수 있어
+    언제 어디를 보강할지 판단하는 데 큰 도움이 됩니다.
 
-1.  **[KO]** **Day One Goal: Barricade All Windows**: Your sole objective on your first day should be to gather enough wood and scrap metal to craft planks and nails and board up every single window in the cabin before nightfall. This is the most basic requirement for surviving the early nights.
-2.  **[KO]** **Resource Priority: Wood > Scrap Metal > Food**:
-    *   **[KO]** **Wood** is the foundation of your defense and is needed in large quantities. You should spend a significant portion of each day chopping trees.
-    *   **[KO]** **Scrap Metal** is used to craft nails, without which you cannot install planks. It is often harder to find than wood and requires careful searching.
-    *   **[KO]** **Food and Water**, while essential, are consumed relatively slowly in the beginning. Focus on securing your defenses before you go on extensive searches for sustenance.
-3.  **[KO]** **Fortifications Require Maintenance**: Enemies will damage the planks on your windows. During the day, you need to inspect and repair damaged barricades. In later stages, you may need to apply two or even three layers of planks to withstand more ferocious attacks.
-4.  **[KO]** **Sound is a Critical Alarm**: While inside the cabin at night, listen carefully. You can use the sounds of footsteps, impacts, and growls to pinpoint the location and number of enemies, allowing you to anticipate which barricade is being targeted and prepare for repairs or a fight.
-5.  **[KO]** **Combat is a Last Resort**: While you can fight back with tools like an axe, it is extremely risky. Your primary goal is to **keep the enemies out**, not to kill them. You are only forced to fight when a barricade is completely destroyed and an enemy enters the cabin.
-6.  **[KO]** **Upgrade Progressively**: Don't get complacent. As the game progresses, you must continuously reinforce your defenses. For example, use more planks and nails to upgrade your window barricades, making them more durable.
+5.  **전투는 최후의 수단**  
+    도끼 같은 도구로 괴물과 직접 싸울 수도 있지만, 매우 위험한 선택입니다.
+    이 게임의 기본 전략은 **적을 처치하기보다 집 안으로 들어오지 못하게 하는
+    것**입니다. 방어벽이 완전히 부서져 적이 실내로 침입했을 때만 어쩔 수 없이
+    전투를 벌이는 것이 좋습니다.
 
-### **Controls Guide**
+6.  **계속해서 방어를 상향하기**  
+    며칠 버텼다고 안심하면 금방 무너집니다. 시간이 지날수록 적의 체력과
+    수가 늘어나므로, 판자와 못을 더 써서 창문을 두껍게 보강하거나, 새로운
+    방어 수단을 도입하는 등 꾸준히 방어력을 끌어올려야 합니다.
 
-The game uses standard first-person controls.
+### **조작 방법**
 
-*   **[KO]** **Move**: `W`, `A`, `S`, `D` keys
-*   **[KO]** **Look**: Mouse
-*   **[KO]** **Sprint**: Hold `Shift` key
-*   **[KO]** **Jump**: `Space Bar`
-*   **[KO]** **Interact / Pick Up / Open Door**: `E` key
-*   **[KO]** **Inventory / Crafting Menu**: `I` or `Tab` key
-*   **[KO]** **Use Tool / Attack**: `Left Mouse Button`
-*   **[KO]** **Aim / Secondary Action**: `Right Mouse Button`
+게임은 일반적인 1인칭 조작 방식을 따릅니다.
 
-### **Frequently Asked Questions (FAQ)**
+*   **이동:** `W`, `A`, `S`, `D` 키
+*   **시야 이동:** 마우스 이동
+*   **달리기:** `Shift` 키 길게 누르기
+*   **점프:** `Space` 키
+*   **상호작용 / 줍기 / 문 열기:** `E` 키
+*   **인벤토리 / 제작 메뉴:** `I` 또는 `Tab` 키
+*   **도구 사용 / 공격:** 마우스 왼쪽 버튼
+*   **조준 / 보조 동작:** 마우스 오른쪽 버튼
 
-**1. Can the enemies in the game be killed?**
-Yes. If an enemy breaches your defenses and enters the cabin, you can attack it with an axe or other weapons until it is dead. However, this usually means your defense has failed and you are in a very dangerous situation. Therefore, the core strategy should always be defense, not offense.
+### **자주 묻는 질문 (FAQ)**
 
-**2. What happens if I die?**
-The game features a **permadeath** mechanic. This means that if you die, your save file is deleted, and you must start the entire game over from Night 1, losing all prior progress.
+**1. 게임 속 괴물은 처치할 수 있나요?**  
+네. 방어벽이 뚫려 적이 집 안으로 들어오면 도끼 같은 무기로 공격해 쓰러뜨릴
+수 있습니다. 하지만 그 상황 자체가 이미 방어 실패에 가까우므로, 가능하면
+실내 전투까지 가지 않도록 창문과 문을 단단히 지키는 것이 좋습니다.
 
-**3. How do I survive the first night?**
-On the first day, chop down at least 2-3 trees to get enough logs and search the surrounding ground for scrap metal. Open your inventory to craft the logs into planks and the scrap metal into nails. Before sunset, use the planks and nails to barricade all the windows (usually by pressing `E` to interact). After dark, stay inside, close the door, and listen carefully to the sounds outside.
+**2. 죽으면 어떻게 되나요?**  
+이 게임은 **퍼마데스** 시스템을 사용합니다. 한 번 사망하면 저장 데이터가
+사라지고, 1일 차부터 다시 시작해야 합니다. 그래서 한 번 한 번의 밤이 매우
+긴장감 있게 느껴집니다.
 
-**4. Where can I find Scrap Metal?**
-Scrap metal is usually found scattered on the forest floor or near certain landmarks. Its spawn locations are random, requiring players to explore carefully during the day. It is the only material for crafting nails and is therefore critically important.
+**3. 첫날 밤을 어떻게 버티는 것이 좋나요?**  
+첫날에는 최소 2~3그루 이상의 나무를 베어 충분한 원목을 확보하고, 주변을
+돌아다니며 고철을 모으세요. 인벤토리에서 원목을 판자로, 고철을 못으로 제작한
+뒤, 해가 지기 전에 모든 창문에 판자를 박아 둬야 합니다. 밤이 되면 문을 닫고
+실내에 머무르며, 바깥 소리에 집중해 어디가 공격받는지 파악하세요.
+
+**4. 고철은 어디에서 구할 수 있나요?**  
+고철은 숲 바닥이나 특정 랜드마크 근처에 흩어져 있는 경우가 많습니다. 스폰
+위치는 어느 정도 랜덤이기 때문에, 낮 시간 동안 주변을 꼼꼼히 탐색해야 합니다.
+못 제작에 반드시 필요한 자원이므로, 보이면 우선적으로 주워 두는 것이 좋습니다.

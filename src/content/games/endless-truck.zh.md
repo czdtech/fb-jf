@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: endless-truck
-title: '[ZH TRANSLATION NEEDED] Endless Truck'
+title: "Endless Truck 無盡卡車特技"
 description: >-
-  [ZH TRANSLATION NEEDED] Endless Truck is a stunt‑runner — manage momentum,
-  land cleanly, and chain boosts while collecting cash and upgrades.
+  Endless Truck 是一款橫版特技跑酷遊戲，你要控制卡車的速度與著陸角度，
+  在坡道與斜坡之間做出流暢動作、串起加速，同時收集金錢與升級。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/endless-truck.png
 tags:
@@ -18,36 +18,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Endless Truck is a side‑scrolling stunt runner focused on speed control and landing angles. Hills, ramps, and gaps reward smooth throttle and controlled flips; sloppy landings bleed speed or crash. Cash pickups and missions unlock upgrades (engine, suspension, boost) that raise top speed and stability.
+《Endless Truck》是一款橫向卷軸的卡車特技跑酷，核心在於「控速」與「落地角度」。
+起伏的山丘、斜坡與缺口都在鼓勵你做出漂亮的跳躍與翻轉：順暢的油門控制與乾淨的落地
+會讓卡車越跑越快；失誤的翻車與歪斜落地則會讓速度暴跌甚至當場爆車。路途中收集到的
+金錢與完成的任務可以解鎖各種升級（引擎、避震、氮氣加速等），讓你在之後的挑戰中跑得更穩。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Land flat: Touch down with wheels level to retain speed and avoid bounce.
-2.  [ZH TRANSLATION NEEDED] Throttle feathering: Pulse throttle over crests to prevent nose dives.
-3.  [ZH TRANSLATION NEEDED] Flip discipline: Only flip when altitude and arc are safe; one clean flip beats two risky ones.
-4.  [ZH TRANSLATION NEEDED] Boost wisely: Use nitro on flat exits, not mid‑air; stacking boosts after clean landings yields longest runs.
-5.  [ZH TRANSLATION NEEDED] Upgrade order: Suspension/tires for control, then engine/boost as you stabilize.
+
+1.  **平穩落地：** 儘量讓四個輪子同時、水平落地。這樣可以保留最高速度，
+    也不會因為反彈導致失去控制。
+2.  **油門點放：** 在坡頂與落差前使用「點油門」而不是長按到底，避免車頭下栽，
+    讓卡車順著坡型平滑飛出。
+3.  **理性翻轉：** 只在高度與弧線都足夠安全時再嘗試翻車特技。一個乾淨利落的翻轉，
+    勝過兩個勉強且高風險的動作。
+4.  **聰明用加速：** 氮氣加速最好用在平坦路段的出口，而不是空中或崎嶇地形上。
+    在一個漂亮落地之後再接加速，可以把整段直線的速度拉到最高。
+5.  **升級順序：** 前期優先升級避震與輪胎的操控性，先確保車不會亂彈、好控制，
+    之後再提高引擎與加速能力，整體體驗會順很多。
 
 ### Controls Guide
 
-- Accelerate/Brake: W/S or Up/Down.  Tilt: A/D or Left/Right.  Boost: Shift/Space (varies).
+- 油門／煞車：W/S 或 ↑/↓ 鍵。
+- 車身前後傾：A/D 或 ←/→ 鍵。
+- 加速：Shift 或空白鍵（依託管版本略有不同）。
 
 ### Advanced Tips
 
-- Pumping: Tap brake before a drop to lower the nose, then accelerate on landing for extra traction.
-- Mission routing: Pick routes that complete multiple missions in one run (e.g., flips + distance).
-- Crash recovery: If angle is bad, cut throttle and gently tilt to save the landing.
+- **坡前預備：** 在大落差前先輕點一下煞車，讓車頭稍微往下壓，落地瞬間再補油門，
+  可以獲得更好的抓地力與出彎速度。
+- **任務規劃：** 儘量選擇可以同時完成多個任務的路線，例如在長距離關卡裡一邊刷里程、
+  一邊順便做幾次安全的翻轉，效率最高。
+- **失誤自救：** 一旦發現落地角度不對，先鬆油門、輕微調整車身角度，
+  有時仍能在最後一刻把車救回來，避免直接翻車。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I always wipe out on landings — any fix?
+- 問：我總是落地就翻車，有什麼改善方法？
   
-[ZH TRANSLATION NEEDED]   A: Reduce flips, land with wheels level, and ease throttle until suspension settles.
+  答：先減少無謂的翻轉，盡量把落地角度調整到四輪同時著地，落地瞬間不要立刻踩滿油門，
+  等避震穩定後再加速，失誤率會明顯下降。
 
-- Q: Best upgrade first?
+- 問：一開始應該先升級什麼部位？
   
-[ZH TRANSLATION NEEDED]   A: Suspension/tires for handling; speed after stability.
+  答：優先升級避震與輪胎，先讓車好開、好落地，穩定之後再堆引擎與氮氣加速，
+  這樣跑起來才不會又快又難控制。
 
-- Q: When should I use boost?
+- 問：加速應該什麼時候用最划算？
   
-[ZH TRANSLATION NEEDED]   A: On flat ground after clean landings to extend speed without losing control.
-
+  答：在平坦路段、特別是剛完成一次完美落地之後使用，能把速度最大化又不容易失控，
+  比在空中或顛簸地形亂用有效得多。

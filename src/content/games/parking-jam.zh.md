@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: parking-jam
-title: '[ZH TRANSLATION NEEDED] Parking Jam'
+title: "《Parking Jam》停车大作战"
 description: >-
-  [ZH TRANSLATION NEEDED] Parking Jam is a spatial slider — move cars in
-  sequence, free the exit lane, and solve compact lots with minimal moves.
+  《Parking Jam》是一款空间滑块式的停车解谜游戏，你需要按正确顺序挪动车辆，为目标车让出出口通道，用尽量少的步数疏通拥挤停车场。
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/parking-jam.png
 tags:
@@ -15,32 +14,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear the path for the target vehicle. Higher levels cram lots with multi‑length cars, one‑way arrows, and blockers requiring precise order of operations.
+《Parking Jam》属于“堵车/华容道”风格的滑块解谜。每辆车都只能沿车身方向前后移动，你的目标是通过合理挪动车位，将被困在车阵中的目标车辆从出口处解救出来。更高难度关卡会把停车场塞得满满当当，还会加入不同长度的车辆、单向箭头、特殊障碍等元素，要求你严格把控移动顺序，才能完成解局。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Goal backchain: Work backward from the exit to identify cars that truly gate progress.
-2.  [ZH TRANSLATION NEEDED] Minimal moves: Prefer moves that unlock multiple vehicles rather than local shuffles.
-3.  [ZH TRANSLATION NEEDED] Buffer lanes: Open a buffer lane early to allow deeper rearrangements.
-4.  [ZH TRANSLATION NEEDED] Priority stack: Park non‑critical cars in dead zones to keep corridors free.
-5.  [ZH TRANSLATION NEEDED] Undo early: If progress stalls, rewind before the last “dead shuffle” and choose a different unlock.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **从出口倒推：** 优先从目标车到出口这条线上反向思考，找出真正挡路的“关键车辆”，先解决它们而不是盲目乱挪。
+2.  **追求“值钱的移动”：** 优选那些一次移动就能同时释放多辆车、打开整条通道的操作，避免只产生局部挪动却没有实质进展的“无效位移”。
+3.  **尽早腾出缓冲车道：** 在停车场中预留出一条相对空旷的“缓冲车道”，用于临时停放非关键车辆，方便你在后续进行更深层次的重排。
+4.  **把无关车辆停进“死角”：** 对于后续不太影响主通路的车辆，可以有意识地把它们挪到边缘或死角区域，避免占据核心通道位置。
+5.  **善用撤销：** 如果发现连续几步动作后局面没有更接近目标，说明可能进入了“瞎挪模式”，此时果断回退到前一个关键分叉点，尝试另一种移动顺序会更高效。
 
-- Drag cars along permitted axes; undo/reset via UI.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过拖拽车身沿允许的方向前后移动车辆；如走错，可使用界面上的撤销或重置按钮恢复局面。
 
-- Q: I spin wheels with no progress — advice?
+### 常见问题（FAQ）
+
+- **问：总感觉在原地打转，挪了半天还是出不去怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Reassess which car blocks the exit chain; find a move that frees multiple cars.
+  **答：** 重新审视到底是哪几辆车堵死了目标车的出路，先针对这些关键阻挡进行规划，而不是平均地把所有车都挪一遍。优先寻找能一次性释放多辆车的关键移动。
 
-- Q: Are diagonal moves allowed?
+- **问：车辆可以斜着移动吗？**
   
-[ZH TRANSLATION NEEDED]   A: No — cars slide only along their length.
+  **答：** 不可以。每辆车只能沿着自己车身的方向直线滑动，不能横着或斜着转向，需要通过整体布局来让出道路。
 
-- Q: Any hints?
+- **问：游戏有提示功能吗？**
   
-[ZH TRANSLATION NEEDED]   A: Many versions include step‑wise hints; use sparingly to preserve challenge.
-
+  **答：** 很多版本提供分步提示或自动求解功能，但频繁依赖提示会削弱解题乐趣，建议在实在卡关时再使用。

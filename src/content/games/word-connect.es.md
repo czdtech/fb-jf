@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: word-connect
-title: '[ES] Word Connect'
+title: "Word Connect - Conecta letras y forma palabras"
 description: >-
-  [ES] Connect letters and expand your vocabulary in Word Connect, an addictive
-  word puzzle game! Swipe to form words from a circular set of letters and fill
-  in the crossword-style blanks. Discover bonus words, use hints, and challenge
-  yourself across thousands of levels in this relaxing brain-teaser.
-iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
-thumbnail: /new-images/word-connect.jpg
+  Conecta letras y amplía tu vocabulario en Word Connect, un adictivo
+  rompecabezas de palabras. Desliza para formar términos a partir de un círculo
+  de letras y rellena el tablero tipo crucigrama mientras descubres palabras
+  extra y usas pistas a lo largo de cientos de niveles relajantes.
+iframeSrc: "https://previews.customer.envatousercontent.com/files/309288677/index.html"
+thumbnail: "/new-images/word-connect.jpg"
 tags:
   - word-game
   - puzzle
@@ -17,36 +17,34 @@ score: 3.9/5  (144 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-
-
 ### Game Introduction
 
-Word Connect is a popular and relaxing word puzzle game that challenges players to form words by connecting letters. Typically, a set of letters is arranged in a circular pattern, and players swipe their finger (or mouse) across them to spell out words. The goal is to find all the hidden words that fit into a crossword-style grid above.
+Word Connect es un juego de puzles de palabras popular y relajante en el que debes formar palabras uniendo letras. Normalmente las letras se colocan en un círculo y tienes que deslizar el dedo (o el ratón) sobre ellas para ir componiendo palabras. El objetivo es encontrar todos los términos ocultos que encajan en el tablero superior con formato de crucigrama.
 
 ### Gameplay Guide
 
-- **Forming Words:** Swipe your finger from one letter to the next in the circular arrangement to spell a word. Release to submit.
-- **Objective:** Fill in all the blank spaces in the crossword grid by finding the correct words.
-- **Bonus Words:** Find words that are not part of the main puzzle to earn extra coins.
-- **Shuffling:** Use the shuffle button to rearrange the letters, which can help you see new word combinations.
-- **Hints:** Use coins to get hints that reveal a letter in a word if you get stuck.
+- **Formar palabras:** desliza el dedo de una letra a otra en el círculo para escribir una palabra y suelta para enviarla.
+- **Objetivo:** rellenar todos los huecos del tablero tipo crucigrama encontrando las palabras correctas.
+- **Palabras extra:** descubrir palabras que no pertenecen al tablero principal te otorga monedas extra.
+- **Barajar:** usa el botón de barajar para reordenar las letras y ver nuevas combinaciones posibles.
+- **Pistas:** gasta monedas para revelar letras cuando te quedes atascado.
 
 ### Controls Guide
 
-- **Swipe/Drag:** Use your finger (on mobile) or mouse (on PC) to drag across the letters to form words.
-- **Click:** Click on the shuffle or hint buttons.
+- **Deslizar/arrastrar:** usa el dedo (en móvil) o el ratón (en PC) para unir letras y formar palabras.
+- **Clic:** pulsa los botones de barajar o de pista para usarlos.
 
 ### Frequently Asked Questions (FAQ)
 
-**How do I earn coins?**
+**¿Cómo gano monedas?**
 
-You earn coins by solving puzzles, finding bonus words, and often through daily challenges or watching ads. Coins can be used to purchase hints.
+Las obtienes al completar niveles, encontrar palabras extra y, en muchas versiones, superando retos diarios o viendo anuncios. Luego puedes gastarlas en pistas.
 
-**Is there a time limit?**
+**¿Hay límite de tiempo?**
 
-Most versions of Word Connect do not have a time limit, allowing players to solve puzzles at their own pace.
+La mayoría de versiones no imponen límite; puedes resolver cada panel a tu ritmo.
 
-**What makes a word valid?**
+**Qué cuenta como palabra válida?**
 
-Words must be at least three letters long and must be valid English words found in the game's dictionary.
+Por lo general deben tener al menos tres letras y aparecer en el diccionario interno del juego.
 

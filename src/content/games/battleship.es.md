@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: battleship
-title: '[ES] Battleship game'
+title: "Battleship hundir la flota clásico"
 description: >-
-  [ES] A comprehensive guide to the classic Battleship game. Learn the rules,
-  ship placement strategies, effective search patterns, and tips to sink the
-  enemy fleet before they find yours.
+  Battleship es el clásico juego de estrategia para hundir la flota enemiga.
+  Aquí tienes reglas, tácticas de colocación de barcos, patrones de búsqueda
+  eficientes y consejos para hundir antes de que te encuentren.
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/battleship.jpg
 tags:
@@ -16,64 +16,96 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+*Battleship* (Hundir la flota) es un juego clásico de estrategia para dos
+jugadores basado en la deducción. El objetivo es ser el primero en hundir todos
+los barcos del rival. Cada jugador dispone de dos cuadrículas: una representa
+su propio océano, donde coloca en secreto su flota, y la otra representa el
+océano enemigo, donde marca sus disparos.
 
+Antes de empezar, cada jugador coloca sus barcos en su cuadrícula, en posición
+horizontal o vertical, sin que se solapen. La flota estándar suele incluir:
 
+*   **Portaaviones** (5 casillas).  
+*   **Acorazado** (4 casillas).  
+*   **Crucero** (3 casillas).  
+*   **Submarino** (3 casillas).  
+*   **Destructor** (2 casillas).  
 
-### Detailed Introduction
+Una vez colocados, los jugadores se alternan declarando coordenadas (por
+ ejemplo "D5"). El oponente responde "tocado" si hay barco en esa casilla o
+"agua" si está vacía. Se van marcando los aciertos y fallos para deducir la
+posición de la flota rival. Un barco se considera hundido cuando todas sus
+casillas han sido alcanzadas.
 
-*Battleship* is a classic two-player strategy guessing game. The objective is to be the first to sink all of your opponent's warships. The game is played on two grids for each player: one grid represents your own ocean, where you secretly place your fleet of ships, and the other represents your opponent's ocean, which you use to track your guesses.
+### Estrategia de juego
 
-Before the battle begins, each player secretly arranges their ships on their own grid. A standard fleet consists of five ships of varying lengths, which must be placed either horizontally or vertically, and cannot overlap:
-*   **[ES]** **Aircraft Carrier** (5 squares)
-*   **[ES]** **Battleship** (4 squares)
-*   **[ES]** **Cruiser** (3 squares)
-*   **[ES]** **Submarine** (3 squares)
-*   **[ES]** **Destroyer** (2 squares)
+Ganar en *Battleship* requiere tanto colocar bien tus barcos como disparar con
+lógica.
 
-Once both players have placed their fleets, they take turns firing "shots" at the opponent's grid by calling out a coordinate (e.g., "D5"). The opponent must respond with either "Hit!" if a ship occupies that square, or "Miss!" if it's empty water. Players mark their opponent's grid with pegs or icons to record hits and misses, using this information to deduce the location of the enemy ships. A ship is considered "sunk" when all of its squares have been hit.
+#### Estrategia de colocación (defensa)
 
-### Gameplay Strategy
+1.  **Evita lo obvio:** Muchos jugadores colocan barcos pegados a bordes o
+    esquinas. Si puedes, evita esos sitios tan típicos.
+2.  **No amontones la flota:** Si todos tus barcos están juntos, al encontrar uno
+    el rival tendrá muy fácil localizar el resto. Distribúyelos por todo el
+    tablero.
+3.  **Mejor sin que se toquen:** Siempre que puedas, deja al menos una casilla
+    de separación entre barcos. Así reduces la probabilidad de que un disparo
+    que descubre un barco conduzca directamente a otro.
+4.  **Aprovecha el centro:** Colocar algunos barcos, sobre todo los pequeños, en
+    zonas centrales puede ser efectivo, ya que muchos jugadores centran sus
+    primeras búsquedas en bordes y esquinas.
 
-Winning at *Battleship* involves a combination of clever placement and logical deduction.
+#### Estrategia de disparo (ataque)
 
-#### Ship Placement Strategy (Defense):
+1.  **Usa un patrón de búsqueda:** No dispares al azar. Un patrón tipo
+    "damero"/paridad es muy eficiente: dispara a casillas alternas (A1, A3, A5,
+    B2, B4, C1, C3, etc.). Así garantizas que no haya barco escondido entre tus
+    disparos.
+2.  **Modo caza:** En cuanto obtengas un "tocado", detén el patrón y céntrate en
+    esa zona. Dispara a las casillas adyacentes (arriba, abajo, izquierda,
+    derecha) para encontrar la orientación del barco.
+3.  **Hundir el barco:** Tras un segundo acierto consecutivo sabrás si el barco
+    es horizontal o vertical. Sigue disparando en esa línea hasta que recibas un
+    "agua"; eso marca un extremo. Ve al otro lado y completa los impactos hasta
+    hundirlo.
+4.  **Apóyate en la lógica:** Lleva cuenta de qué barcos ya has hundido. Si el
+    destructor de 2 casillas ya está fuera, cualquier casilla aislada tocada en
+    otra zona deberá pertenecer a un barco más grande, lo que te ayuda a
+    deducir su forma.
 
-1.  **[ES]** **Avoid the Obvious:** Many players tend to place ships along the edges or in the corners of the grid. Avoid these common spots to make your ships harder to find.
-2.  **[ES]** **Don't Cluster:** Placing all your ships close together is risky. Once your opponent finds one ship, they will easily find the others nearby. Spread your fleet across the entire grid.
-3.  **[ES]** **Don't Let Ships Touch:** If possible, place ships so that they are not adjacent to each other. This prevents an opponent from getting a hit on one ship and immediately finding another right next to it.
-4.  **[ES]** **Embrace the Center:** Placing some ships, especially smaller ones, in the middle of the board can be effective, as many opponents focus their initial search patterns on the outer areas.
+### Guía de controles (versión digital)
 
-#### Firing Strategy (Offense):
+En versiones digitales, los controles suelen ser con ratón y muy intuitivos.
 
-1.  **[ES]** **Use a Search Pattern:** Do not fire randomly. The most effective strategy is to use a pattern that covers the board efficiently. A "checkerboard" or "parity" pattern is highly recommended. This means firing on every other square (e.g., A1, A3, A5, B2, B4, C1, C3, etc.). This guarantees you will find any ship on the board in fewer moves, as no ship can hide between the squares of your grid pattern.
-2.  **[ES]** **Switch to "Hunt" Mode:** As soon as you get a "Hit," stop your search pattern. Now your goal is to determine the ship's orientation. Fire at the adjacent squares (above, below, left, and right) of the initial hit.
-3.  **[ES]** **Sink the Ship:** Once you get a second consecutive hit, you know the ship's orientation (horizontal or vertical). Continue firing along that line until you get a "miss." This means you have found the end of the ship. Then, work your way down the other end until the ship is sunk.
-4.  **[ES]** **Use Logic:** Keep track of which ships have been sunk. If you've already sunk the 2-square Destroyer, you know that any single hit in an open area must be part of a larger ship. This helps you eliminate possibilities and make smarter guesses.
+*   **Fase de colocación:**  
+    *   **Seleccionar barco:** Haz clic en un barco de tu flota.  
+    *   **Colocar barco:** Mueve el cursor sobre tu cuadrícula y haz clic en la
+        posición deseada.  
+    *   **Rotar barco:** Usa el botón derecho o un botón dedicado para alternar
+        entre horizontal y vertical.  
+*   **Fase de batalla:**  
+    *   **Disparar:** Haz clic en una casilla del tablero enemigo para lanzar un
+        disparo.  
+    *   **Feedback:** El juego marcará automáticamente la casilla como acierto
+        o fallo (por ejemplo, con explosión o símbolo de agua).  
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-For digital versions of *Battleship*, the controls are typically mouse-driven and very intuitive.
+**1. ¿Cuáles son los barcos estándar de Battleship?**  
+Portaaviones (5), Acorazado (4), Crucero (3), Submarino (3) y Destructor (2
+casillas).
 
-*   **[ES]** **Placement Phase:**
-    *   **[ES]** **Select a Ship:** Click on a ship from your fleet.
-    *   **[ES]** **Place a Ship:** Move your mouse over your grid to the desired location and click to place it.
-    *   **[ES]** **Rotate a Ship:** Often there is a dedicated button to rotate the ship from horizontal to vertical, or you can use the right mouse button.
-*   **[ES]** **Battle Phase:**
-    *   **[ES]** **Fire a Shot:** Click on a square on the opponent's grid to fire at that coordinate.
-    *   **[ES]** **Game Feedback:** The game will automatically mark the square as a hit (usually with a red marker or explosion) or a miss (with a white marker or splash icon).
+**2. ¿Puedo colocar barcos en diagonal?**  
+No. Según las reglas clásicas solo se colocan en horizontal o vertical.
 
-### Frequently Asked questions (FAQ)
+**3. ¿Es mejor juntar los barcos o separarlos?**  
+Casi siempre es mejor separarlos. Si están pegados, tu rival necesitará menos
+turnos para descubrir toda tu flota.
 
-**1. What are the standard ships in a game of Battleship?**
-The standard fleet includes an Aircraft Carrier (5 squares), a Battleship (4 squares), a Cruiser (3 squares), a Submarine (3 squares), and a Destroyer (2 squares).
-
-**2. Can I place ships diagonally?**
-No. In the standard rules of *Battleship*, ships can only be placed horizontally or vertically.
-
-**3. Is it better to place my ships touching each other or separated?**
-It is almost always better to place your ships so they are not touching. Spreading them out forces your opponent to start a new search pattern after sinking each ship, wasting their turns.
-
-**4. Is the game just pure luck?**
-No. While there is an element of luck in the initial search, the game heavily relies on strategy, logic, and deduction. A player with a good search pattern and logical thinking will consistently beat a player who guesses randomly.
-
+**4. ¿Es solo cuestión de suerte?**  
+No. Aunque hay algo de azar al principio, la diferencia real la marca usar buenos
+patrones de búsqueda y razonar los disparos. Un jugador que piensa ganará casi
+siempre a alguien que dispara al azar.

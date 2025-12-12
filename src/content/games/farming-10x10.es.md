@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: farming-10x10
-title: '[ES] Farming 10x10'
+title: "Farming 10x10"
 description: >-
-  [ES] Farming 10x10 dresses classic 10x10 block‑fit — place shapes, clear
-  rows/columns, and avoid sealing off precious space.
+  Farming 10x10 lleva la clásica mecánica de encajar piezas en un tablero de
+  10×10 a un entorno de granja relajante: coloca las formas, completa filas y
+  columnas y evita bloquear el espacio disponible.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/farming-10x10.jpg
 tags:
@@ -15,36 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Farming 10x10 es un puzle relajado de colocación de piezas sobre una cuadrícula
+10×10. Recibes conjuntos de tres fichas; colócalas para completar filas y
+columnas y conseguir limpiezas. La partida termina cuando ya no queda ningún
+movimiento legal, así que la clave está en conservar la flexibilidad mientras
+preparas jugadas que limpien varias líneas a la vez.
 
-### Detailed Game Introduction
+### Estrategia y guía de juego
 
-Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive sets of three pieces; place them to complete rows/columns and score clears. The run ends when no legal placements remain, so the art is in preserving flexibility while constructing multi‑line clears.
+1. Mantén el centro despejado y ve ordenando los bordes poco a poco para evitar
+   trampas de casillas sueltas.
+2. Reserva un hueco con el tamaño adecuado para los triominós más incómodos.
+3. Cuando el tablero esté muy lleno, coloca primero la pieza más difícil.
+4. Prepara configuraciones de dos líneas para que una sola colocación limpie el
+   doble.
+5. Evita crear "columnas" de 1×n que solo aceptan piezas alargadas.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Keep the center breathable; tidy edges gradually to avoid single‑cell traps.
-2.  **[ES]** Reserve a pocket sized for the most awkward triominoes.
-3.  **[ES]** Place the hardest piece first when the board is crowded.
-4.  **[ES]** Build two‑line setups so one placement scores double clears.
-5.  **[ES]** Avoid creating 1×n “spines” that only fit sticks.
+- Arrastra las piezas al tablero y suéltalas para colocarlas; en algunos modos
+  puedes girarlas.
+- Usa las opciones de Deshacer/Restablecer si el juego las ofrece.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag pieces to the board; release to place; some modes allow rotate.
-- Undo/Reset if provided.
+- **P:** Siempre me quedo sin espacio, ¿qué puedo hacer?
+  
+  **R:** Mantén una zona central abierta, guarda un hueco de reserva para las
+  piezas más raras y prioriza las jugadas que limpian dos líneas a la vez.
 
-### Frequently Asked Questions (FAQ)
+- **P:** ¿Por qué no puedo girar las piezas?
+  
+  **R:** Muchos juegos de 10×10 no permiten rotar; compensa con una mejor
+  gestión de los huecos y de las piezas difíciles.
 
-- Q: I keep running out of room — solutions?
-
-A: Maintain a central open area, set aside an awkward‑piece pocket, and prioritize double clear setups.
-
-- Q: Rotate is missing?
-
-A: Many 10×10 variants do not rotate; compensate with better pocketing.
-
-- Q: How to chase high scores?
-
-A: Chain doubles and avoid “rescue” singles that break structure.
-
+- **P:** ¿Cómo puedo conseguir puntuaciones más altas?
+  
+  **R:** Encadena limpiezas dobles y evita las jugadas de "rescate" de una sola
+  línea que rompen por completo tu estructura.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: secret-agent
-title: '[DE] Secret Agent'
+title: "Secret Agent"
 description: >-
-  [DE] Secret Agent is a stealth‑action caper — sneak past guards, disable
-  traps, and complete objectives with gadgets and precise timing.
+  Secret Agent ist ein Schleich-Action-Spiel: Schleiche an Wachen vorbei,
+  schalte Fallen aus und erfülle deine Missionsziele mit Gadgets und präzisem
+  Timing.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/secret-agent.png
 tags:
@@ -15,35 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Secret Agent verbindet Stealth-Gameplay mit leichten Routen-Puzzles. Du
+ umgehst Kameras, weichst Sichtkegeln der Wachen aus, hackst Türen und sammelst
+ Informationen ein, bevor du unauffällig entkommst. Saubere Laufwege und
+ gut getimte Gadget-Einsätze sind wichtiger als rohe Gewalt.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Secret Agent blends stealth with light puzzle routing. You’ll disable cameras, avoid cones of vision, hack doors, and collect intel before extraction. Clean routes and gadget timing trump brute force.
+1.  **Sichtkegel lesen:** Bewege dich nur, wenn die Blickfelder der Wachen sich
+    von dir wegdrehen. Präge dir ihre Laufzyklen ein.
+2.  **Gadgets sparsam nutzen:** Setze EMPs, Ablenkungen oder andere Gadgets für
+    Räume mit mehreren Wachen oder engen Situationen ein.
+3.  **Route planen:** Nimm optionale Intel-Objekte nur mit, wenn sie auf einem
+    sinnvollen Weg liegen – große Umwege erhöhen das Risiko.
+4.  **Geräusche einsetzen:** Wirf Ablenkungen, um Patrouillen aus ihrer Route
+    zu locken, und schleiche dann durch die freigewordene Lücke.
+5.  **Nach Alarm ruhig bleiben:** Wirst du entdeckt, suche zuerst Deckung und
+    brich die Sichtlinie, statt kopflos loszurennen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Vision cones: Move only when guard cones sweep away.
-2.  **[DE]** Gadget economy: Save EMPs/decoys for multi‑guard rooms.
-3.  **[DE]** Route layering: Clear side intel when it’s along the optimal path; skip deep detours.
-4.  **[DE]** Sound bait: Throw a decoy to pivot patrol routes, then slip through.
-5.  **[DE]** Fail forward: After detection, break line of sight and hide; don’t panic sprint.
+- **Bewegen:** Mit WASD oder Pfeiltasten steuerst du deinen Agenten.
+- **Gadgets wählen:** Über Zahlentasten oder ein Gadget-Rad wählst du Ausrüstung
+  aus.
+- **Interagieren:** Terminals, Türen oder Schalter aktivierst du über eine
+  Aktionstaste.
+- **Neustart:** Über das Menü kannst du ein Level schnell neu starten, wenn ein
+  Plan schiefgeht.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- WASD/Arrows to move; number keys for gadgets; interact with terminals; restart via menu.
+- **F: Ich werde ständig entdeckt – Tipps?**
+  
+  Beobachte zunächst eine Weile nur die Patrouillen und bewege dich im Takt
+  ihrer Zyklen. Nutze Ecken und Schatten, um dich zwischen Sichtkegeln zu
+  bewegen.
 
-### Frequently Asked Questions (FAQ)
+- **F: Meine Gadgets reichen nie aus.**
+  
+  Nutze sie nur in Räumen, die sich ohne Hilfsmittel kaum lösen lassen, und
+  verlasse dich ansonsten auf Timing und Positionierung.
 
-- Q: I’m always spotted.
-
-A: Study patrol cycles and move on fixed beats; use cover transitions.
-
-- Q: Gadgets feel scarce.
-
-A: Use them only to break impossible rooms; rely on timing elsewhere.
-
-- Q: Can I ghost levels?
-
-A: Many builds award bonuses for zero detections.
-
+- **F: Kann ich Level komplett „ghosten“?**
+  
+  Viele Versionen belohnen dich mit Boni, wenn du ein Level ohne Alarm oder
+  Treffer abschließt – ein gutes Ziel, wenn du die Grundlagen drauf hast.

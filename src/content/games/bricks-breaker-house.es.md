@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bricks-breaker-house
-title: '[ES] Bricks Breaker House'
+title: "Bricks Breaker House"
 description: >-
-  [ES] Bricks Breaker House adds cozy themes to brick‑breaking — craft angles,
-  juggle power‑ups, and keep the house standing.
+  Bricks Breaker House le da un toque acogedor al rompebloques clásico: marca
+  ángulos, juega con los potenciadores y mantén la casa en pie.
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/bricks-breaker-house.png
 tags:
@@ -15,37 +15,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bricks Breaker House es un rompebloques temático en el que cada tablero añade
+nuevos obstáculos y pequeños giros de diseño. Tu tarea sigue siendo la de
+siempre: mantener vivas las ráfagas, dirigir los disparos hacia las casillas de
+mayor valor y aprovechar los potenciadores sin perder el control de la bola.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **Busca carambolas controladas:** Sirve con ángulos de unos 30–45° para
+    crear bucles predecibles.
+2.  **Prioriza pala ancha y multi‑bola:** Estos potenciadores son los más seguros
+    para estabilizar oleadas complicadas.
+3.  **Abre callejones laterales:** Cava pasillos en los lados para atrapar la
+    bola cerca del techo y multiplicar el tiempo de impacto.
+4.  **No te obsesiones con las bonificaciones:** No arriesgues una recogida de potenciador
+    si eso puede hacer que pierdas la bola.
+5.  **En tableros estrechos, abre ángulos:** Da prioridad a los ladrillos que te
+    permitan nuevos ángulos de tiro aunque no sean los de mayor valor.
 
-Bricks Breaker House is a themed brick‑breaker where each board introduces fresh obstacles and gentle twists. Your job is classic: keep volleys alive, route shots through high‑value tiles, and leverage power‑ups without losing control.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Mueve la pala con A/D o flechas izquierda/derecha; también puedes usar ratón o
+  pantalla táctil.
+- Saca de centro con Espacio o clic; recoge los potenciadores con la pala.
 
-1.  **[ES]** Aim for controlled caroms around 30–45° to keep predictable loops.
-2.  **[ES]** Use widen‑paddle and multi‑ball to stabilize difficult waves.
-3.  **[ES]** Carve side alleys to trap the ball near the ceiling for extended damage.
-4.  **[ES]** Don’t over‑pursue bonuses if they jeopardize a catch.
-5.  **[ES]** On tight boards, prioritize clearing bricks that open new angles.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- **P: ¿Qué mejoras debería priorizar?**
 
-- Move paddle with A/D or Left/Right; mouse/touch controls supported.
-- Serve with Space/Click; catch power‑ups on the paddle.
+  R: La pala ancha y la multi‑bola son las opciones más seguras; los aumentos de
+  velocidad son más arriesgados y difíciles de controlar.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Cómo gestiono los túneles muy estrechos?**
 
-- Q: Which upgrades should I prioritize?
+  R: Lanza con un ángulo moderado y prepárate para una secuencia rápida de
+  recepciones rítmicas.
 
-A: Widen‑paddle and multi‑ball are the safest; speed boosts are riskier.
+- **P: ¿Cuál es el mejor ángulo de saque?**
 
-- Q: How do I deal with narrow tunnels?
-
-A: Serve a modest angle and prepare for rapid rhythmic catches.
-
-- Q: Is there a best serve angle?
-
-A: Mid angles (30–45°) usually provide the best balance of control and coverage.
-
+  R: Los ángulos medios (30–45°) suelen ofrecer el mejor equilibrio entre
+  control y cobertura del tablero.

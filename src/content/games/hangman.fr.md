@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: hangman
-title: '[FR] Hangman'
+title: Hangman
 description: >-
-  [FR] Classic word‑guessing: deduce the secret word by proposing letters,
-  avoiding too many wrong guesses before the figure is completed.
+  Jeu de pendu classique : devine le mot secret en proposant des lettres sans
+  faire trop d’erreurs avant que le dessin du personnage soit complet.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/hangman.jpg
 tags:
@@ -15,48 +15,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Hangman (le pendu) est un jeu de lettres classique où ton objectif est de découvrir un mot ou une expression secrète en proposant des lettres une par une. Le mot est représenté par une série de cases vides qui indiquent le nombre de lettres à trouver. Si la lettre proposée fait partie du mot, elle est révélée à toutes ses positions. Si elle est absente, une nouvelle partie du dessin du pendu est ajoutée. Tu gagnes si tu trouves toutes les lettres avant que le dessin ne soit complet ; sinon, tu perds la partie.
 
+De nombreuses versions numériques intègrent un système de score qui récompense les bonnes lettres, la rapidité avec laquelle tu résous le mot et le nombre de tentatives restantes.
 
-### **Game Introduction**
-
-Hangman is a classic word-guessing game where the objective is to uncover a secret word or phrase by guessing its letters one by one. The game begins with a series of blank spaces, representing each letter of the hidden word.
-
-Players take turns guessing letters they believe are in the word. If a guessed letter is correct, it is revealed in all its positions. If the letter is incorrect, a part of a "hangman" stick figure is drawn. The game is won by successfully guessing all the letters in the word before the hangman drawing is completed. If the drawing is finished before the word is solved, the player loses.
 
 Many digital versions include scoring systems, rewarding points for correct letters, the speed of solving the puzzle, and the number of incorrect guesses (or "lives") remaining.
+### Stratégies et astuces de jeu
 
-### **Gameplay Strategy & Tips**
+1.  **Commence par les voyelles :** les voyelles (A, E, I, O, U) apparaissent dans la plupart des mots anglais. Les deviner en premier est une excellente stratégie pour révéler rapidement la structure du mot. Par exemple, si tu proposes « A » et que le mot devient `_ A _ A _ A`, tu peux deviner assez facilement « BANANA ».
+2.  **Devine les consonnes courantes :** après les voyelles, concentre‑toi sur les consonnes les plus fréquentes en anglais, comme R, S, T, L, N. Ces lettres donnent souvent des résultats rapides.
+3.  **Pense en mots, pas seulement en lettres (pour les phrases) :** si le puzzle est une phrase composée de plusieurs mots, essaie d’identifier d’abord les petits mots fréquents, comme « THE » ou « AND ». Ils fournissent souvent un gros indice sur le reste de la phrase.
+4.  **Évite les lettres rares au début :** les lettres comme J, Q, X et Z sont parmi les moins communes en anglais. Garde‑les pour plus tard, quand tu auras plus de contexte. Les jouer trop tôt est risqué et peu rentable.
+5.  **Utilise les patrons de mots :** une fois que quelques lettres sont révélées, cherche des schémas courants. Par exemple, un mot se terminant par `_ I N G` finit très souvent par « ING ». En anglais, un « Q » est presque toujours suivi d’un « U ». Utilise tes connaissances de l’orthographe pour déduire logiquement la prochaine lettre.
 
-1.  **[FR]** **Start with Vowels**: The vowels (A, E, I, O, U) are present in almost every English word. Guessing them first is an excellent strategy to quickly reveal the word's structure. For example, if you guess 'A' and the word appears as `_ A _ A _ A`, you can make a strong educated guess that the word is "BANANA".
-2.  **[FR]** **Guess Common Consonants**: After the vowels, focus on the most frequently used consonants in the English language. A classic mnemonic for this is "Etaoin Shrdlu," but a more practical list includes **R, S, T, L, N**. Guessing these letters often yields good results.
-3.  **[FR]** **Think in Words, Not Just Letters (for Phrases)**: When the puzzle is a multi-word phrase, try to solve individual words. Guessing a small, common word like "THE" or "AND" can provide a huge clue to solving the entire phrase.
-4.  **[FR]** **Avoid Rare Letters Early**: Letters like **J, Q, X, and Z** are the least common in English. Save these for later when you have more context. Guessing them at the beginning is a high-risk, low-reward move.
-5.  **[FR]** **Use Context and Word Patterns**: Once you have a few letters revealed, look for common patterns. For example, a word ending in `_ I N G` is likely to have 'G' as its final letter. A `Q` is almost always followed by a `U`. Use your knowledge of spelling to make logical deductions.
+### Commandes
 
-### **Controls Guide**
+Les commandes des versions numériques de Hangman sont très simples :
 
-The controls for digital versions of Hangman are extremely simple:
+- **Saisie des lettres :** clique sur les lettres de l’alphabet à l’écran ou tape directement la lettre correspondante sur ton clavier pour la proposer.
 
-*   **[FR]** **Letter Guessing**: You can either **click** the on-screen alphabet letters with your mouse or **type** the corresponding letter on your keyboard.
+### Foire aux questions (FAQ)
 
-### **Frequently Asked Questions (FAQ)**
+**1. Quelle est la meilleure lettre à proposer en premier ?**
 
-**1. What is the best letter to guess first?**
-Statistically, **'E'** is the most common letter in the English language, making it the strongest opening guess. After 'E', the other vowels (A, O, I, U) and top consonants (T, R, N, S) are excellent choices.
+Statistiquement, « E » est la lettre la plus fréquente en anglais ; c’est donc le meilleur premier choix. Ensuite, les autres voyelles (A, O, I, U) et les consonnes importantes (T, R, N, S) sont d’excellentes options.
 
-**2. What are some of the hardest Hangman words?**
-The hardest words are often short, use rare letters, or lack common vowels.
-*   **[FR]** **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
-*   **[FR]** **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
-*   **[FR]** **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
+**2. Quels sont certains des mots de Hangman les plus difficiles ?**
 
-**3. What skills can you learn from playing Hangman?**
-Hangman is an excellent educational tool that helps improve:
-*   **[FR]** **Vocabulary**: You are exposed to new words.
-*   **[FR]** **Spelling**: You learn and reinforce correct spelling patterns.
-*   **[FR]** **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
+Les mots les plus coriaces sont souvent courts, utilisent des lettres rares ou manquent de voyelles classiques.
 
-**4. What happens when I guess a wrong letter?**
-Each incorrect guess adds another part to the hangman drawing (e.g., the head, then the body, then an arm, etc.). You lose the game if you make too many incorrect guesses and the entire figure is drawn.
+- **Jazz** : mot très court qui offre peu d’indices visuels et contient deux lettres rares, « J » et « Z ».
+- **Rhythm, Synth, Psych** : difficiles car ils ne contiennent aucune des voyelles classiques A, E, I, O, U, ce qui oblige souvent à deviner la lettre « Y ».
+- **Fjord, Gnat, Wry** : ces mots utilisent des combinaisons de lettres peu fréquentes et donc plus difficiles à deviner.
+
+**3. Quelles compétences peut‑on développer en jouant à Hangman ?**
+
+Hangman est un excellent outil éducatif qui aide à améliorer :
+
+- **Vocabulaire :** tu es exposé à de nouveaux mots.
+- **Orthographe :** tu apprends et renforces des schémas d’orthographe corrects.
+- **Raisonnement déductif :** tu utilises la logique pour déterminer la meilleure lettre à proposer en te basant sur les informations déjà révélées.
+
+**4. Que se passe‑t‑il si je propose une mauvaise lettre ?**
+
+Chaque mauvaise lettre ajoute une nouvelle partie au dessin du pendu (tête, corps, bras, jambes, etc.). Si tu fais trop d’erreurs et que la figure est entièrement dessinée, la partie est perdue.
 

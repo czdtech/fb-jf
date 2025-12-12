@@ -1,43 +1,36 @@
 ---
+title: "G-Switch"
+description: "ワンボタン重力ランナー：重力を反転させてプラットフォームを渡り続け、ギャップとノコギリを避け、速度上昇を生き延びましょう。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html"
+thumbnail: "/new-images/g-switch.jpg"
+urlstr: "g-switch"
+score: "3.7/5  (1326 votes)"
+tags: ["runner", "platformer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: g-switch
-title: '[JA TRANSLATION NEEDED] G-Switch'
-description: >-
-  [JA TRANSLATION NEEDED] One‑button gravity runner: flip gravity to keep
-  running across platforms, avoid gaps and saws, and survive increasing speed.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
-thumbnail: /new-images/g-switch.jpg
-tags:
-  - runner
-  - platformer
-score: 3.7/5  (1326 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+重力フリップ付きオートランナーです。タップして重力を反転させ、ペースが加速する中で次の表面に着地します。
 
+### 遊び方
+- ギャップをクリーンにクリアするために、端の直前にフリップします。
+- ノコギリと壁を予測します。遅いよりも早くフリップします。
+- エンドレスモードとレベルモードの両方が利用可能な場合があります。
 
-### Overview
-[JA TRANSLATION NEEDED] Auto‑runner with gravity flips. Tap to invert gravity and land on the next surface while the pace accelerates.
+### 操作方法
+- 重力を反転させるには1つのキー/タップ。マルチプレイヤーではプレイヤーごとに別々のキーをマップします。
 
-### How to Play
-- Flip just before edges to clear gaps cleanly.
-- Anticipate saws and walls; flip early rather than late.
-- Endless and level modes may both be available.
+### ヒント
+- 安定したフリップリズムを保ちます。パニックフリップは連鎖ミスを引き起こします。
+- 長い天井を使用して安全にタイミングをリセットします。
+- マルチプレイヤーでは、トラップを先取り（先読み）するために対戦相手のフリップを見ます。
 
-### Controls
-- One key/tap to flip gravity; multiplayer maps separate keys per player.
-
-### Tips
-- Keep a steady flip rhythm; panic flips cause chain mistakes.
-- Use long ceilings to reset timing safely.
-- In multiplayer, watch opponents’ flips to pre‑empt traps.
-
-### FAQ
-- Q: Why do I miss short platforms?  
-[JA TRANSLATION NEEDED]   A: You are flipping too late; flip slightly before the edge.
-- Q: Does the game support multiplayer?  
-[JA TRANSLATION NEEDED]   A: Many versions include local multiplayer with multiple keys.
-- Q: Are level layouts fixed?  
-[JA TRANSLATION NEEDED]   A: Some modes are authored levels; endless modes are often procedural.
-
+### よくある質問 (FAQ)
+- **Q: 短いプラットフォームを逃すのはなぜですか？**  
+  A: フリップが遅すぎます。端よりもわずかに前にフリップします。
+- **Q: ゲームはマルチプレイヤーをサポートしますか？**  
+  A: 多くのバージョンには、複数のキーを使用したローカルマルチプレイヤーが含まれています。
+- **Q: レベルレイアウトは固定ですか？**  
+  A: 一部のモードは作成されたレベルです。エンドレスモードは多くの場合手続き的です。

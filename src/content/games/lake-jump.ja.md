@@ -1,63 +1,37 @@
 ---
+title: "Lake Jump"
+description: "Lake Jumpはワンタップタイミングゲームです。プラットフォームを飛び越え、落下を避け、完璧なジャンプを連鎖させます。"
+iframeSrc: "https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/"
+thumbnail: "/new-images/lake-jump.png"
+urlstr: "lake-jump"
+score: "3.7/5  (1276 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: lake-jump
-title: '[JA TRANSLATION NEEDED] Lake Jump'
-description: >-
-  [JA TRANSLATION NEEDED] Lake Jump is a one‑tap timing game — hop across
-  platforms, avoid falls, and chain perfect jumps.
-iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
-thumbnail: /new-images/lake-jump.png
-tags:
-  - action
-  - casual
-score: 3.7/5  (1276 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-## English Guide
+## 日本語ガイド
 
-### Detailed Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Lake Jump is a minimalist tap‑to‑jump challenge. Time taps to land on moving or spaced platforms, maintain rhythm, and rack up streaks without falling in the water.
+Lake Jumpはミニマリストのタップトゥジャンプチャレンジです。移動または間隔のあるプラットフォームに着地するタイミングを合わせ、リズムを維持し、水に落ちることなくストリークを積み上げます。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] 1.  Count beats: Use a steady rhythm for predictable jump timing.
-[JA TRANSLATION NEEDED] 2.  Aim for centers: Landing in the middle of platforms gives more correction time.
-[JA TRANSLATION NEEDED] 3.  Watch platform speed: Faster cycles require earlier taps; adjust quickly.
-[JA TRANSLATION NEEDED] 4.  Skip greed: Ignore risky coins when alignment is poor.
-[JA TRANSLATION NEEDED] 5.  Reset calmly: After a miss, re‑establish rhythm before chasing streaks.
+1.  ビートをカウント：予測可能なジャンプタイミングのために安定したリズムを使用します。
+2.  中央を狙う：プラットフォームの中央に着地すると、より多くの修正時間が得られます。
+3.  プラットフォーム速度を見る：より速いサイクルは早いタップが必要です。すぐに調整します。
+4.  貪欲をスキップ：配置が悪い時はリスクの高いコインを無視します。
+5.  冷静にリセット：ミスの後、ストリークを追いかける前にリズムを再確立します。
 
-### Controls Guide
+### 操作ガイド
 
-- Jump: Tap/Click at the right moment.
-- Pause/Retry: On‑screen buttons.
+- ジャンプ：適切なタイミングでタップ/クリックします。
+- 一時停止/再試行：画面上のボタン。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
-- Endless? Typically yes; set personal bests.
-
-
-
-
-
-
-
-
-
-- Endless? Typically yes; set personal bests.
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
-- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
-### よくある質問（FAQ）
-- Pause/Retry: On‑screen buttons.
-- Jump: Tap/Click at the right moment.
-### コントロールガイド
-
-
-
-
-- Endless? Typically yes; set personal bests.
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
-- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
+- オーバーシュートします。なぜですか？早すぎるタップをしています。わずかに遅らせて、安定したケーデンスを練習します。
+- パワーアップはありますか？一部のモードには、スローモーまたはより大きなプラットフォームが一時的に含まれます。
+- エンドレス？通常��いです。個人的なベストを設定します。

@@ -1,29 +1,38 @@
 ---
 locale: fr
 urlstr: sprunkle-bops
-title: '[FR] Sprunkle Bops - Play Sprunkle Bops Online'
+title: 'Sprunkle Bops - Jouer à Sprunkle Bops en ligne'
 description: >-
-  [FR] Sprunkle Bops is a fan-made expansion of the popular Incredibox
-  music-mixing game, offering a creative twist with custom mods, new phases, and
-  unique gameplay elements.
+  Sprunkle Bops est une extension fan‑made d’Incredibox qui ajoute des mods,
+  phases inédites et mécaniques de jeu façon battle rythmique.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
 thumbnail: /sprunklebops.png
 tags:
   - sprunkle bops
   - sprunkle bops online
-score: 4.3/5  (524 votes)
+score: "4.3/5  (524 votes)"
 ---
 
+### Présentation de Sprunkle Bops
 
+Sprunkle Bops enrichit la formule Incredibox avec :
 
-### Introducing to Sprunkle Bops
+- de nouveaux mods et phases ;
+- des personnages supplémentaires ;
+- une dimension « affrontement musical » plus marquée.
 
-Sprunkle Bops is a fan-made expansion of the popular Incredibox music-mixing game, offering a creative twist with custom mods, new phases, and unique gameplay elements. Loved by music enthusiasts and gamers alike, Sprunki Game allows players to mix beats, vocals, and melodies while exploring diverse themes and characters.
+Les fans de jeux de rythme et de rap battles y trouveront un terrain de jeu
+parfait pour tester leurs réflexes.
 
----
+### Gameplay de Sprunkle Bops
 
-### Sprunkle Bops Gameplay
+- **Lance le battle :** affronte différents personnages, chacun avec son style
+  musical.
+- **Suis le rythme :** utilise les touches de ton clavier (flèches, W/A/S/D…)
+  ou les boutons tactiles pour appuyer au bon moment.
+- **Reste dans le tempo :** plus la musique accélère, plus la précision est
+  importante. Rate trop de notes et la victoire t’échappe.
 
-- Start the Battle: You’ll face off against various popular characters, each bringing their own musical flair to the rap battle. The goal is simple – follow the rhythm of the beat and land the correct notes at the right time to keep your performance on point.
-- Catch the Beat: Use your keyboard or touch controls to match the beats. You can press the ARROW KEYS, W, A, S, D, or simply tap the corresponding buttons if you are playing on a mobile device. As the music plays, the arrows will appear on your screen. Your task is to hit the matching key when they align with the beat.
-- Stay on Rhythm: As the beat intensifies, stay focused! Each character’s rap skills are powerful, and only those who can master the rhythm will win. Don’t miss a note or it’ll cost you the chance to win the battle.
+Sprunkle Bops est idéal si tu aimes les jeux de rythme compétitifs, avec une
+mise en scène inspirée des battles de rap.
+

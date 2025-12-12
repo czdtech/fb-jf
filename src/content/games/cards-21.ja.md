@@ -1,76 +1,50 @@
 ---
-locale: ja
-urlstr: cards-21
-title: '[JA TRANSLATION NEEDED] Cards-21'
-description: >-
-  [JA TRANSLATION NEEDED] Cards-21 streamlines blackjack — hit or stand, manage
-  risk, and chase 21 without busting.
+title: Cards-21 カード21
+description: 「Cards-21」はシンプルなブラックジャック。ヒットかスタンドか、リスクを管理してバーストせずに21を目指そう。手軽に楽しめるカードゲーム。
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
 thumbnail: /new-images/cards-21.png
+urlstr: cards-21
+score: 3.8/5  (1547 votes)
 tags:
   - card
   - casual
   - thinky
-score: 3.8/5  (1547 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Cards-21（カード21）*は、カジノの定番「ブラックジャック」をスピーディーに楽しめるバリアント（派生）ゲームです。ルールは世界共通。配られたカードの合計値を、21を超えない範囲でできるだけ21に近づけることです。絵札（J, Q, K）は10として数え、エース（A）は1または11として有利な方で数えます。モードによってはマルチハンドプレイやインシュランス、サイドベットなどの追加要素も楽しめます。
+
+### ゲーム攻略と戦略
+
+1.  **基本確率（ベーシックストラテジー）：** 自分の手が「17以上」ならスタンド（カードを引かない）、「11以下」ならヒット（引く）のが定石です。ディーラーのカードが弱い場合、10や11の手札ならダブルダウン（倍賭け）も検討しましょう。
+2.  **ソフトハンドの活用:** エースを含んでいて「11」として数えている手（ソフトハンド）は、もう一枚引いてもバーストしないため、強気に攻めることができます。
+3.  **ディーラーのアップカードを見る:** ディーラーの見えているカードが2〜6の場合は「バーストしやすい弱い手」なので、無理に攻めずにスタンドするのも手です。逆に7〜Aの場合は「強い手」になる可能性が高いので、自分の手を高くする必要があります。
+4.  **資金管理:** 負けを取り戻そうとして賭け金を急に上げるのは危険です。一定額を賭け続けるフラットベットを推奨します。
+5.  **サイドベット:** 楽しいですが、ハウスエッジ（胴元の取り分）が高いことが多いです。遊び程度に抑えましょう。
+
+### 操作ガイド
+
+*   **アクション:** 画面上のボタンで「Hit（ヒット）」「Stand（スタンド）」「Double（ダブル）」「Split（スプリット）」を選択します。
 
 
-### Detailed Game Introduction
-
-[JA TRANSLATION NEEDED] Cards-21 is a quick blackjack variant: draw cards to get as close to 21 as possible without going over. Face cards count as 10; aces can be 1 or 11. Some modes include multi‑hand play, insurance, or side bets.
-
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Basic odds: Stand on hard 17+; hit 11 or lower; consider doubling on 10–11 versus weak dealer cards.
-[JA TRANSLATION NEEDED] 2.  Soft hands: With an ace counted as 11, hit more liberally; convert to hard when needed.
-[JA TRANSLATION NEEDED] 3.  Dealer upcard: Adjust risk based on dealer’s visible card (2–6 weak, 7–A strong).
-[JA TRANSLATION NEEDED] 4.  Bankroll: Use flat bets; avoid chasing losses.
-[JA TRANSLATION NEEDED] 5.  Side bets: Fun but higher house edge — play sparingly.
-
-### Controls Guide
-
-- Hit/Stand/Double/Split via on‑screen buttons.
 - Toggle side bets if available.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ペアのスプリットはいつすべき？**
 
-- Q: When should I split pairs?
-  
-[JA TRANSLATION NEEDED]   A: Commonly split Aces and 8s; avoid splitting 10s and 5s. Follow the table’s basic strategy if shown.
-
-- Q: Do aces count as 1 or 11?
-  
-[JA TRANSLATION NEEDED]   A: They flex — automatically adjusted to avoid busting when possible.
-
-- Q: Is this beatable long‑term?
-  
+A: Commonly split Aces and 8s; avoid splitting 10s and 5s. Follow the table’s basic strategy if shown.
+- **A:** 一般的に「エースのペア」と「8のペア」は必ずスプリットすべきと言われています。逆に「10のペア」と「5のペア」はスプリットしてはいけません。
 
 
-
-
-
-- Q: When should I split pairs?
-### よくある質問（FAQ）
-- Toggle side bets if available.
-- Hit/Stand/Double/Split via on‑screen buttons.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: With perfect play you reduce house edge, but it remains positive over time.
-
-
-
-
-
+A: They flex — automatically adjusted to avoid busting when possible.
+*   **Q: エースは1ですか？11ですか？**
 
 A: With perfect play you reduce house edge, but it remains positive over time.
-- Q: Is this beatable long‑term?
-A: They flex — automatically adjusted to avoid busting when possible.
-- Q: Do aces count as 1 or 11?
+    *   **A:** 両方です。バーストしない限りは自動的に有利な方（11）で計算され、21を超えそうになると1として再計算されます。
 
-
-
-
-A: With perfect play you reduce house edge, but it remains positive over time.
-- Q: Is this beatable long‑term?
-A: They flex — automatically adjusted to avoid busting when possible.
+*   **Q: 長期的に勝ち越せますか？**
+    *   **A:** 完璧な戦略を使えばハウスエッジ（カジノ側の有利さ）を最小限に抑えられますが、完全にゼロにすることは難しく、長期的にはカジノ側が有利になるように設計されています。

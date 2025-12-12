@@ -1,70 +1,37 @@
 ---
+title: "Hoop Stars"
+description: "Hoop Starsはリングフリップの技術ゲームです。回転させ、フリップのタイミングを計り、ライバルより先にペグ（棒）の上にリングをきれいに落としましょう。"
+iframeSrc: "https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/"
+thumbnail: "/new-images/hoop-stars.png"
+urlstr: "hoop-stars"
+score: "3.9/5  (1739 votes)"
+tags: ["sports", "action", "2 player"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: hoop-stars
-title: '[JA TRANSLATION NEEDED] Hoop Stars'
-description: >-
-  [JA TRANSLATION NEEDED] Hoop Stars is a ring‑flip skill game — spin, time
-  flips, and drop rings cleanly over pegs before your rival does.
-iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
-thumbnail: /new-images/hoop-stars.png
-tags:
-  - sports
-  - action
-  - 2 player
-score: 3.9/5  (1739 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Hoop Starsは、素早いリングフリップ対決です。中央のペグ（棒）の周りでリングを回転させ、障害物を越えてフリップします。ペグの上にきれいに着地するフリップが得点になります。失敗すると時間を失います。対決では、生のスピードよりも、一貫したタイミングと賢い角度の設定が報われます。
 
-[JA TRANSLATION NEEDED] Hoop Stars is a rapid ring‑flip contest. You rotate a ring around a central peg and flip it to land past obstacles. Clean flips that settle over the peg score; misses costs time. Duels reward consistent timing and smart angle setups more than raw speed.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **事前回転（プレスピン）:** フリップする前に、快適な角度まで回転させましょう。
+2.  **早め/遅めの窓（ウィンドウ）:** 早めのフリップと遅めのフリップで、弧（アーク）の高さがどう変わるかを学びましょう。
+3.  **障害物の読み:** 隙間のために半サイクル待ちましょう。無理に投げないでください。
+4.  **リバウンドに注意:** リングが跳ね返ったら、混乱に向かって再フリップしないでください。リセットしましょう。
+5.  **対人戦（PvP）:** フェイントでフリップを偽装して相手を釣り、クリーンなフリップを決めましょう。
 
-[JA TRANSLATION NEEDED] 1.  Pre‑spin: Rotate to a comfortable angle before flipping.
-[JA TRANSLATION NEEDED] 2.  Early/late windows: Learn how early vs late flips change arc height.
-[JA TRANSLATION NEEDED] 3.  Obstacle reads: Wait half a cycle for gaps; don’t force throws.
-[JA TRANSLATION NEEDED] 4.  Mind rebounds: If a ring bounces, don’t re‑flip into chaos — reset.
-[JA TRANSLATION NEEDED] 5.  PvP: Bait opponents by faking flips, then land a clean one.
+### 操作ガイド
 
-### Controls Guide
+- **長押し**で回転。**離す**とフリップ。一部のビルド版では、回転とフリップ用の2つのボタンが使われます。
 
-- Hold to spin; release to flip; some builds use two buttons for spin vs flip.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My flips always rim out — fix?
-  
-[JA TRANSLATION NEEDED]   A: Adjust release timing earlier/later and reduce pre‑spin speed for steadier arcs.
-
-- Q: Is button mashing viable?
-  
-[JA TRANSLATION NEEDED]   A: Not really — consistent setups beat spam.
-
-- Q: Local multiplayer?
-  
-
-
-
-
-
-- Q: My flips always rim out — fix?
-### よくある質問（FAQ）
-- Hold to spin; release to flip; some builds use two buttons for spin vs flip.
-### コントロールガイド
-- PvP: Bait opponents by faking flips, then land a clean one.
-[JA TRANSLATION NEEDED]   A: Often available with mirrored controls.
-
-
-
-
-
-
-A: Often available with mirrored controls.
-- Q: Local multiplayer?
-A: Not really — consistent setups beat spam.
-- Q: Is button mashing viable?
-
-
-A: Often available with mirrored controls.
+- **Q: フリップがいつもリム（縁）で弾かれてしまいます。解決法は？**
+  A: リリースのタイミングを早めたり遅めたりして調整し、より安定した弧にするために事前回転のスピードを減らしましょう。
+- **Q: ボタン連打は有効ですか？**
+  A: あまり有効ではありません。一貫したセットアップが連打に勝ります。
+- **Q: ローカルマルチプレイヤーはありますか？**
+  A: 多くの場合、ミラーコントロール（対称操作）で利用可能です。

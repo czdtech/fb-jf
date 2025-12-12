@@ -1,42 +1,36 @@
 ---
+title: "Galactic Empire"
+description: "トップダウン型の宇宙戦略ゲーム：資源を収穫し、船や防衛施設を建設し、敵の波を防ぎながらセクターを占領しましょう。"
+iframeSrc: "https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/"
+thumbnail: "/new-images/galactic-empire.jpg"
+urlstr: "galactic-empire"
+score: "4.3/5  (618 votes)"
+tags: ["strategy", "space"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: galactic-empire
-title: '[JA TRANSLATION NEEDED] Galactic Empire'
-description: >-
-  [JA TRANSLATION NEEDED] Top‑down space strategy: harvest resources, build
-  ships and defenses, and capture sectors while fending off enemy waves.
-iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
-thumbnail: /new-images/galactic-empire.jpg
-tags:
-  - strategy
-  - space
-score: 4.3/5  (618 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+宇宙を舞台にしたRTS（リアルタイムストラテジー）ライト版です。資源を採掘し、基地を拡張し、艦隊を編成して隣接するセクターを防衛・征服しましょう。
 
+### 遊び方
+- 経済を安定させるために、まずは抽出機（Extractor）と発電機（Generator）を建設しましょう。
+- バランスの取れた艦隊（戦闘機、フリゲート艦、主力艦）を生産し、チョークポイント（要衝）を守りましょう。
+- 隣接するノードを占領して、アップグレードとマップの支配権をアンロックしましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] RTS‑lite in space: mine resources, expand bases, and assemble fleets to defend and conquer neighboring sectors.
+### 操作方法
+- マウスで選択/建設。生産やカメラのホットキーはホストによって異なります。
 
-### How to Play
-- Build extractors and generators first to stabilize economy.
-- Produce a balanced fleet (fighters, frigates, capital ships) and defend chokepoints.
-- Capture adjacent nodes to unlock upgrades and map control.
+### ヒント
+- 船はまとめて製造待ち（キュー）に入れましょう。ドックを遊ばせておくより、絶え間なく生産する方が勝ります。
+- 進攻する前に偵察しましょう。複数のウェーブに無茶な拡張をするのは避けてください。
+- 高火力だが打たれ弱い（グラスキャノン）脅威に集中砲火を浴びせ、その後片付けましょう。
 
-### Controls
-- Mouse to select/build; hotkeys for production and camera vary by host.
-
-### Tips
-- Queue ships in batches; constant production beats idle docks.
-- Scout before pushing; avoid overextending into multiple waves.
-- Focus fire on glass‑cannon threats, then clean up.
-
-### FAQ
-- Q: How do I get more resources quickly?  
-[JA TRANSLATION NEEDED]   A: Expand to nearby nodes and protect extractors; idle miners waste income.
-- Q: What fleet composition works best?  
-[JA TRANSLATION NEEDED]   A: Mix fast interceptors with heavier ships for structure damage.
-- Q: Is there a tech tree in the game?  
-[JA TRANSLATION NEEDED]   A: Many hosts gate stronger ships behind captured sectors or upgrades.
-
+### よくある質問 (FAQ)
+- **Q: どうすれば資源を素早く入手できますか？**  
+  A: 近くのノードに拡張し、抽出機を守りましょう。採掘機を遊ばせておくと収入の無駄になります。
+- **Q: どのような艦隊構成が最適ですか？**  
+  A: 高速な迎撃機と、構造物にダメージを与える重厚な船を組み合わせましょう。
+- **Q: ゲームにテックツリーはありますか？**  
+  A: 多くのホスト版では、強力な船は占領したセクターやアップグレードの背後にロックされています。

@@ -1,43 +1,75 @@
 ---
 locale: fr
 urlstr: electron-dash
-title: '[FR] Electron Dash'
-description: >-
-  [FR] Electron Dash is a fast tunnel runner: jump, dash, and land on rotating
-  platforms to survive long runs.
-iframeSrc: 'https://slope-game.github.io/electron-dash/'
+title: Electron Dash
+description: "Electron Dash est un runner futuriste dans un tunnel\_: cours, saute et téléporte‑toi de plateforme en plateforme sans tomber dans le vide."
+iframeSrc: 'https://webglmath.github.io/electron-dash/'
 thumbnail: /new-images/electron-dash.jpg
 tags:
-  - arcade
-  - runner
-score: 4.4/5  (1386 votes)
+  - action
+  - casual
+score: 4.3/5  (1900 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
+
+Electron Dash t’embarque dans un tunnel spatial en 3D vu de dessus ou de
+profil. Tu contrôles un petit personnage ou un point lumineux qui court
+automatiquement en avant, tandis que des plateformes, trous et pièges
+apparaissent.
+
+Ton objectif est de parcourir la plus grande distance possible en sautant ou en
+changeant de côté de tunnel au bon moment.
+
+### Guide de jeu
+
+1.  **Lis le tunnel à l’avance**  
+    Regarde plusieurs plateformes devant toi pour anticiper les sauts
+    nécessaires.
+2.  **Reste centré quand tu hésites**  
+    Être au milieu te laisse plus de temps pour réagir si un trou apparaît à
+    gauche ou à droite.
+3.  **Apprends le timing des doubles sauts / dashs**  
+    Si la version propose des dashs ou multi‑sauts, utilise‑les pour franchir de
+    longs gaps.
+4.  **Évite les mouvements inutiles**  
+    Ne change pas de côté du tunnel sans raison, tu risques de te jeter dans un
+    trou.
+
+### Commandes
+
+- **Saut / changement de côté** : touches fléchées, barre d’espace ou taps
+  selon la version (par ex. une touche pour sauter, une autre pour changer de
+  mur).  
+- **Pause / Rejouer** : via les boutons d’interface.
+
+### Foire aux questions (FAQ)
 
 
-### Overview
-Fast tunnel runner: sprint along cylinders and platforms, leap gaps, and dash across floating tiles while the pace steadily increases.
+- Q: Random or fixed levels?
 
-### How to Play
-- Read tile patterns ahead; jump between lanes and dash across short voids.
-- Blue tiles may collapse; moving rings require precise timing.
-- Push for distance and gems where present.
 
-### Controls
-- Arrows/WASD to move/jump; Space/X to dash (host dependent).
-
-### Tips
-- Center your lane before blind rises; camera shifts can mislead footing.
-- Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.
 - Treat curves like lanes—switch early, not on the lip.
 
-### FAQ
-- Q: Random or fixed levels?
-A: Many hosts use procedural sections, so runs differ.
-- Q: What counts as failure?
-A: Falling, hitting lasers, or being pushed off by rings.
-- Q: Any upgrades?
-A: Some hosts add gem unlocks or cosmetics; core loop is distance.
+- Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.
+### Foire aux questions (FAQ)
 
+- Treat curves like lanes—switch early, not on the lip.
+
+- Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.
+
+- Center your lane before blind rises; camera shifts can mislead footing.
+**Q : Le jeu est‑il infini ?**  
+
+- Q: What counts as failure?
+R : Oui, la plupart des versions sont endless ; le but est d’aller le plus loin
+
+- Q: Any upgrades?
+possible.
+
+**Q : Y a‑t‑il des power‑ups ?**  
+R : Certaines variantes ajoutent des bonus de vitesse, de score ou des shields
+ ; consulte les icônes à l’écran.

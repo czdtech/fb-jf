@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: elite-chess
-title: '[ES] Elite Chess'
+title: "Elite Chess"
 description: >-
-  [ES] Elite Chess focuses your fundamentals — sound openings, clean tactics,
-  and endgame technique to convert advantages.
+  Elite Chess está centrado en tus fundamentos: aperturas sólidas, táctica
+  limpia y técnica de finales para convertir ventajas en victorias.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/elite-chess.png
 tags:
@@ -15,40 +15,54 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Elite Chess ofrece una experiencia de ajedrez depurada contra una IA ajustable o
+un rival local. La mejora real pasa por tres pilares: (1) **Aperturas**: buenos
+principios de desarrollo rápido, seguridad del rey y piezas activas; (2)
+**Táctica en el medio juego**: dobles, clavadas, rayos X, ataques descubiertos y
+sacrificios correctos; (3) **Finales**: actividad del rey, oposición, mates
+básicos y finales prácticos de torres. Los puzles y los distintos niveles de la
+IA te ayudan a ganar profundidad de cálculo y memoria de patrones.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Elite Chess provides a streamlined chess experience against scalable AI or a local opponent. Improvement hinges on three pillars: (1) Opening principles — rapid development, king safety, and active piece placement; (2) Middlegame tactics — forks, pins, skewers, discovered attacks, deflections; (3) Endgames — king activity, opposition, basic checkmates, and practical rook endings. Puzzles and adjustable levels help build calculation depth and pattern recall.
+1.  **Aperturas básicas:** Controla el centro (peones en e4/d4/c4), desarrolla
+    los caballos antes que los alfiles, enrócate pronto y conecta las torres.
+2.  **Chequeo táctico (CCT):** En cada jugada, repasa "CCT" — Checks, Captures,
+    Threats (jaques, capturas y amenazas). Busca primero las jugadas forzantes.
+3.  **Estructura de peones:** Evita debilidades innecesarias como peones aislados,
+    doblados o atrasados. Fija objetivos en el campo rival y lucha por columnas
+    abiertas con tus torres.
+4.  **Finales:** Activa tu rey. Aprende mates básicos (Reina+Rey vs Rey,
+    Torre+Rey vs Rey), oposición de rey y peón y los esquemas típicos de Lucena
+    y Philidor en finales de torres.
+5.  **Gestión del tiempo:** Con poco reloj, prefiere jugadas simples y sanas a
+    variantes enrevesadas que no puedas calcular bien.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Openings: Occupy the center (pawns e4/d4/c4), develop knights before bishops, castle early, connect rooks.
-2.  **[ES]** Tactics scan: On every move, run “CCT” — Checks, Captures, Threats; look for forcing moves.
-3.  **[ES]** Pawn structure: Avoid unnecessary weaknesses (isolated/doubled/backward pawns); fix targets, seize open files.
-4.  **[ES]** Endgames: Activate your king, study K+Q vs K, K+R vs K, basic king‑pawn opposition, and Lucena/Philidor rook techniques.
-5.  **[ES]** Time management: When low on time, choose simple, healthy moves over deep complications.
+- Haz clic en una pieza para ver sus movimientos legales y luego en la casilla
+  de destino para moverla.
+- Usa las opciones para ofrecer tablas, rendirte o ajustar la fuerza de la IA.
 
-### Controls Guide
+### Plan rápido de estudio
 
-- Click a piece to highlight legal moves; click a destination to move.
-- Offer draw/resign; set AI strength in the options.
+- 15 minutos de puzles tácticos (dobles, clavadas, rayos X, descubiertos).
+- 10 minutos revisando tus propias partidas en busca de errores gruesos.
+- 10 minutos jugando una partida centrado en una sola apertura.
 
-### Study Plan (Quick)
+### Preguntas frecuentes (FAQ)
 
-- 15 min puzzles (forks/pins/skewers/discovered). 10 min review game blunders. 10 min play a focused game with one opening.
+- **P: ¿Cómo dejo de "regalar" piezas?**  
+  **R:** Antes de mover, revisa si tu rey o alguna pieza suelta queda colgando.
+  Pasa mentalmente por CCT para ti y para el rival y busca tácticas evidentes.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Con qué aperturas debería empezar?**  
+  **R:** Con blancas, prueba la Italiana (1.e4 e5 2.Cf3 Cc6 3.Ac4) o el Gambito
+  de Dama (1.d4 d5 2.c4). Con negras, Caro‑Kann o Siciliana contra 1.e4 y
+  defensas Eslava o Gambito de Dama Rechazado contra 1.d4.
 
-- Q: How do I stop blundering pieces?
-
-A: Before every move, blunder‑check your king and loose pieces; run CCT for both sides to catch tactics.
-
-- Q: Which openings should I start with?
-
-A: For White try Italian (1.e4 e5 2.Nf3 Nc6 3.Bc4) or Queen’s Gambit (1.d4 d5 2.c4). For Black use Caro‑Kann/Sicilian vs 1.e4 and Slav/Queen’s Gambit Declined vs 1.d4.
-
-- Q: What endgames give fastest rating gain?
-
-A: King‑pawn fundamentals and rook endings; they occur most frequently and convert advantages reliably.
-
+- **P: ¿Qué finales me harán subir de nivel más rápido?**  
+  **R:** Los finales básicos de rey y peones y los finales de torres. Son los
+  que más se repiten en la práctica y los que más ayudan a convertir ventajas.

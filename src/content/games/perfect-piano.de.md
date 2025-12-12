@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: perfect-piano
-title: '[DE] Perfect Piano'
+title: Perfect Piano
 description: >-
-  [DE] Test your rhythm and reflexes in Perfect Piano! Tap the falling notes as
-  they reach the keyboard to play beautiful songs. Don't miss a single tile!
+  Teste Rhythmusgefühl und Reaktion in Perfect Piano! Tippe die herabfallenden
+  Noten genau dann an, wenn sie die Klaviatur erreichen, und spiele so
+  wunderschöne Melodien – ohne auch nur eine Kachel zu verfehlen.
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/perfect-piano.png
 tags:
@@ -15,34 +16,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Perfect Piano ist ein schnelles, mitreißendes Rhythmusspiel im Stil von
+ "Piano Tiles". Noten in Form von Kacheln fallen von oben herab, und du musst
+ sie im exakten Moment treffen, in dem sie die Linie der Klaviertasten am
+ unteren Bildschirmrand erreichen. Das Spiel fordert deine Reflexe, dein Timing
+ und dein Taktgefühl, während du dich durch eine Auswahl an schönen und immer
+ schwierigeren Songs spielst.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Auf die Ziellinie schauen:** Konzentriere dich nicht auf die fallenden
+    Noten selbst, sondern auf die Linie am unteren Rand – dort musst du
+    reagieren.
+2.  **Rhythmus mit dem Ohr fühlen:** Höre aktiv auf die Musik. Die Kacheln sind
+    exakt auf Melodie und Rhythmus abgestimmt. Wenn du im Takt bleibst, triffst
+    die Noten automatisch besser.
+3.  **Mehrere Finger nutzen:** In schnellen Passagen reicht ein Finger oft
+    nicht aus. Lege deine Hand wie auf eine echte Klaviatur und nutze mehrere
+    Finger für die verschiedenen Spalten.
+4.  **Lange Noten halten:** Bei längeren Kacheln musst du sie gedrückt halten,
+    bis sie zu Ende sind. Lässt du zu früh los, zählt das als Fehler.
 
-Perfect Piano is a fast-paced and engaging rhythm game that simulates playing the piano, similar to the popular "Piano Tiles" genre. Notes in the form of tiles fall from the top of the screen, and you must tap them at the precise moment they reach the bottom keyboard line. The game tests your reflexes, timing, and rhythm as you play along to a variety of beautiful and challenging songs.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+Gespielt wird nur mit Taps oder Klicks.
 
-1.  **[DE]** **Focus on the Bottom Line:** Don't watch the tiles as they fall from the top. Keep your eyes focused on the target line at the bottom of the screen. This is where you need to react.
-2.  **[DE]** **Anticipate the Rhythm:** Listen to the music! The falling tiles are perfectly synced with the song's melody and rhythm. Anticipating the beat will help you time your taps much more accurately.
-3.  **[DE]** **Use Multiple Fingers:** For faster sections, don't rely on just one finger. Position your hands as if you were playing a real piano and use multiple fingers to cover the different columns.
-4.  **[DE]** **Handle Long Notes:** When you see a long tile, you must press and hold it for its entire duration. Lifting your finger too early counts as a miss.
+*   **Noten tippen:** Klicke oder tippe auf die Spalten, sobald die fallenden
+    Kacheln die Ziellinie erreichen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game is played with simple taps or clicks.
+*   **F: Was passiert, wenn ich eine Kachel verfehle oder falsch tippe?**
+    **A:** In den meisten Modi endet der Song sofort und du musst von vorn
+    beginnen.
 
-*   **[DE]** **Tap the Notes:** Use your mouse or fingers to click on the columns as the falling tiles cross the target line at the bottom.
+    - **F: Wie bekomme ich eine hohe Punktzahl?**
+    **A:** Triff jede Note exakt. Je länger deine Combo ohne Fehler ist, desto
+    höher steigt dein Multiplikator und damit dein Score. Ein perfekter Durchlauf
+    bringt die maximale Punktzahl.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Kann ich verschiedene Lieder spielen?**
 
-*   **[DE]** **Q: What happens if I miss a tile or tap the wrong spot?**
-    *   **[DE]** **A:** In most cases, the game will end immediately, and you will have to restart the song from the beginning.
+    - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
 
-*   **[DE]** **Q: How do I get a high score?**
-    *   **[DE]** **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
+- **Q: Can I play different songs?**
 
-*   **[DE]** **Q: Can I play different songs?**
-    *   **[DE]** **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
-
+    - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
+    **A:** Ja, es gibt meist eine Song-Bibliothek mit mehreren Schwierigkeits-
+    stufen. Oft schaltest du anspruchsvollere Stücke frei, indem du leichtere
+    Songs erfolgreich abschließt.

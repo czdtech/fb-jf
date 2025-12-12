@@ -1,8 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-eggs-mix
-title: '[KO] Sprunki Egg''s Mix - Play Sprunki Egg''s Mix Online'
-description: '[KO] Sprunki Egg'
+title: "Sprunki Egg's Mix 스프룽키 에그 믹스"
+description: >-
+  Sprunki Egg's Mix는 서로 다른 능력을 가진 알들을 섞어 연쇄 반응을 일으키는 퍼즐
+  게임 콘셉트의 스프룽키 모드입니다. 각 알의 특성을 이해하고 조합해 보드 전체를
+  시원하게 정리하는 전략적인 플레이가 핵심입니다.
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
 thumbnail: /sprunki-eggs-mix.png
 tags:
@@ -12,33 +15,54 @@ score: 3.9/5  (125 votes)
 
 
 
-### What's So Special About Sprunki Egg's Mix?
+### Sprunki Egg's Mix의 특별한 점
 
-Sprunki Egg's Mix's greatest charm lies in the unpredictability of the Sprunki Egg combinations. Each Sprunki Egg has unique attributes, and their interaction produces unexpected surprise effects. To master the art of Sprunki Egg mixing, you need careful planning and nimble thinking to predict the chain reactions that your actions may bring.
+Sprunki Egg's Mix의 매력은 예측하기 어려운 알 조합에서 나오는 연쇄 반응에
+있습니다. 각 Sprunki Egg는 고유한 속성과 효과를 가지고 있으며, 서로 맞물릴
+때 예상하지 못한 결과를 만들어 냅니다. 한 번의 선택이 여러 줄을 한꺼번에
+지워 버리기도, 전혀 생각지 못한 배치를 남기기도 하죠.
 
-### The Core Experience of Sprunki Egg's Mix:
+### Sprunki Egg's Mix의 핵심 경험
 
-In the world of Sprunki Egg's Mix, you will immerse yourself in the colorful Sprunki Eggs, strategically combining them to trigger chain reactions and clear levels. Mastering complex Sprunki Egg combinations and winning is the key to the Sprunki Egg's Mix core experience.
+이 모드에서 플레이어는 형형색색의 Sprunki Egg들을 관찰하며, 어떤 알을 어디에
+배치해야 가장 큰 연쇄 반응을 만들 수 있을지 고민하게 됩니다. 보드 위 알들을
+전략적으로 섞어 연쇄를 터뜨리고, 제한된 공간과 수를 활용해 스테이지를
+클리어하는 과정이 게임의 핵심입니다.
 
-### Secrets to Playing Sprunki Egg's Mix:
+### Sprunki Egg's Mix 플레이 비법
 
-- **Strategic Egg Mixing:** Skillfully combine Sprunki Eggs, use the unique properties of each Sprunki Egg to create chain reactions and clear the board.
-- **Master Unique Egg Attributes:** Discover and utilize the different attributes of each Sprunki Egg, which will bring unpredictable but exciting game scenarios. Mastering these attributes is essential to solve the most challenging puzzles.
-- **Progressive Puzzle Design:** Test your skills and strategic thinking by progressing through progressively complex levels and facing new challenges with Sprunki Egg combinations.
-- **Relaxing and Engaging Gameplay:** Enjoy a peaceful yet stimulating experience, perfect for casual entertainment or focused gaming sessions. The satisfaction of successful Sprunki Egg mixes provides a great sense of accomplishment.
-- **Stunning Visuals and Sound Design:** Immerse yourself in a vibrant world with captivating visuals and a soothing soundtrack that complements the gameplay, overall enhancing the Sprunki Egg experience.
+- **전략적인 알 섞기:**
+  각 알의 성질을 활용해, 한 번의 조작으로 최대한 많은 알을 연달아 터뜨릴 수
+  있는 위치를 찾는 것이 중요합니다.
+- **알 속성 파악:**
+  일부 알은 방향성 있는 폭발을 일으키거나 주변 줄을 지우는 등 특수 능력을
+  가집니다. 알마다 어떤 패턴을 만드는지 익혀 두면 어렵던 판도 쉽게 풀립니다.
+- **점점 어려워지는 퍼즐:**
+  스테이지가 진행될수록 배치가 복잡해지고, 같은 색 알만 맞추는 것으로는
+  해결하기 어려운 상황이 늘어납니다. 미리 여러 수를 내다보는 사고가 필요합니다.
+- **편안하지만 몰입되는 플레이:**
+  한 수 한 수 천천히 생각하면서도, 성공적으로 연쇄 반응이 터질 때의 쾌감이
+  커서 가볍게 즐기기에도, 집중해서 플레이하기에도 좋습니다.
+- **시각·청각 연출:**
+  알이 터질 때의 이펙트와 완만한 BGM이 어우러져, 전체적인 플레이 경험을
+  한층 더 풍부하게 만들어 줍니다.
 
+**Sprunki Egg's Mix에서 승리의 열쇠는 바로 알 조합의 기술을 익히는 것입니다.**
 
-**Mastering the art of Sprunki Egg mixing is the key to your success in Sprunki Egg's Mix!**
+### Sprunki Egg's Mix 하이라이트
 
-### Highlights of Sprunki Egg's Mix:
+- **알 매칭 퍼즐:** 같은 색 또는 조건을 충족하는 Sprunki Egg를 맞춰 연쇄
+  반응을 일으키고, 보드를 정리합니다.
+- **특수 알:** 특정 알은 폭발, 라인 제거 등 특별한 능력을 가지고 있어
+  난관을 돌파하는 열쇠가 됩니다.
+- **선제적인 계획:** 앞으로 일어날 연쇄 반응을 미리 상상하며, 다음 수를
+  준비하는 전략이 중요합니다.
+- **유연한 전략 조정:** 스테이지가 진행될수록 정답은 하나가 아니며,
+  상황에 맞춰 전략을 바꾸며 퍼즐을 해결해야 합니다.
 
-- **Egg Elimination:** Match and combine Sprunki Eggs of the same color to trigger chain reactions.
-- **Special Eggs:** Use special Sprunki Eggs with unique abilities to overcome obstacles.
-- **Plan Ahead:** Plan ahead to anticipate the chain reactions of Sprunki Egg combinations.
-- **Strategy Adjustment:** Adjust strategies to solve increasingly complex puzzles.
+### 마무리
 
-
-### Conclusion:
-
-Sprunki Egg's Mix is a visually stunning, intellectually stimulating puzzle game that is suitable for puzzle game enthusiasts, casual gamers, and those who appreciate unique game experiences. Its bright, cheerful aesthetics and intuitive controls make it easy for players of all skill levels to pick up, while its challenging puzzles provide a satisfying sense of accomplishment for experienced puzzle game veterans. Let's start your egg-cellent adventure in Sprunki Egg's Mix!
+Sprunki Egg's Mix는 직관적인 규칙과 눈에 즐거운 연출을 결합한 퍼즐형 스프룽키
+모드입니다. 가볍게 손을 풀고 싶은 퍼즐 팬부터, 조금 더 깊이 있는 전략을
+원하는 유저까지 두루 만족시킬 수 있는 구성을 갖추고 있습니다. 알 조합의
+묘미를 익혀, 나만의 완벽한 에그 믹스를 완성해 보세요!

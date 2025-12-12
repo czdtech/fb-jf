@@ -1,83 +1,47 @@
 ---
-locale: ja
-urlstr: powerwall
-title: '[JA TRANSLATION NEEDED] Powerwall'
-description: >-
-  [JA TRANSLATION NEEDED] Defend your goal in Powerwall, a fast-paced arcade
-  game. Use your paddle to block incoming balls and unleash powerful abilities.
-iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
+title: Powerwall
+description: Powerwallはブロック破壊ゲームです。ボールを発射し、ブロックを破壊し、パワーアップを収集し、壁を突破します。
+iframeSrc: 'https://powerwall.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/powerwall.png
+urlstr: powerwall
+score: 4.0/5  (1734 votes)
 tags:
   - action
-  - sports
   - casual
-score: 4.1/5  (987 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+Powerwallは、クラシックなブロック破壊ゲームプレイにパワーアップとアクションを追加します。パドルでボールを跳ね返してブロックを破壊し、パワーアップを収集し、レベルをクリアします。より速いボール、複数のボール、強力なショットで戦略を高めます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Powerwall is a minimalist, high-energy arcade game that tests your reflexes and timing. The objective is to defend your goal line by activating a temporary energy barrier—the Powerwall—to block a fast-moving ball. As the ball ricochets around the arena, its speed increases, demanding quicker reactions. The longer you can survive without letting the ball pass, the higher your score will be.
+1.  **パドルを中央に:** 反応時間を最大化します。
+2.  **パワーアップを収集:** レーザー、マルチボール、拡張パドル。
+3.  **角度を使用:** ボールのバウンスを制御します。
+4.  **ボールを失わない:** 下部を注意深く見てください。
+5.  **困難なブロックを優先:** 隠されたまたは保護されたブロックを最初にします。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Timing is Everything:** The core mechanic is activating your Powerwall at the precise moment the ball is about to hit your goal line. Activate it too early, and the wall will disappear. Activate it too late, and the ball will get through. Practice your timing to get a feel for the rhythm.
-[JA TRANSLATION NEEDED] 2.  **Focus on the Ball:** Keep your eyes locked on the ball's trajectory. Don't get distracted by anything else on the screen. Anticipate its path after it bounces off other walls.
-[JA TRANSLATION NEEDED] 3.  **Stay Calm Under Pressure:** As the ball speeds up, it's easy to panic and click too early. Try to remain calm and focused, reacting only when necessary.
-[JA TRANSLATION NEEDED] 4.  **Learn the Angles:** Pay attention to the angles at which the ball bounces. This will help you predict where it will go next and prepare for your next block.
+- マウス/矢印/タッチ：パドルを移動します。
+- ボールを跳ね返してブロックを破壊します。
+- パワーアップを収集します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Activate Powerwall:** Click the left mouse button or tap the screen to activate your energy barrier. The wall only stays active for a very short period, so timing is critical.
-    - **A:** You score points for each successful block you make with your パワーwall. The score increases with every successful defense.
-    - **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.（日本語訳が必要）
-    - **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.（日本語訳が必要）
-    - **A:** You score points for each successful block you make with your パワーwall. The score increases with every successful defense.
-    - **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.（日本語訳が必要）
-    - **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I score points?**
-[JA TRANSLATION NEEDED]     *   **A:** You score points for each successful block you make with your Powerwall. The score increases with every successful defense.
-
-*   **Q: Is there any way to slow the ball down?**
-[JA TRANSLATION NEEDED]     *   **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.
-
-*   **Q: What is the goal of the game?**
-
-
-
-
-
-
-
-
+- **Q: 最高のパワーアップは何ですか？**  
+  A: マルチボール（より多くのチャンス）とレーザー（直接破壊）。
+    - **Q: すべてのボールを失った場合はどうなりますか？**  
+  A: レベルを再起動します。
+- **Q: レベルはいくつありますか？**  
 
     - **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.
+
 - **Q: What is the goal of the game?**
+
     - **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.
-- **Q: Is there any way to slow the ball down?**
-    - **A:** You score points for each successful block you make with your Powerwall. The score increases with every successful defense.
-- **Q: How do I score points?**
-### よくある質問（FAQ）
-- **Activate Powerwall:** Click the left mouse button or tap the screen to activate your energy barrier. The wall only stays active for a very short period, so timing is critical.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.
-- **Q: What is the goal of the game?**
-    - **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.
-- **Q: Is there any way to slow the ball down?**
-    - **A:** You score points for each successful block you make with your Powerwall. The score increases with every successful defense.
-- **Q: How do I score points?**
-
-    - **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.
-[JA TRANSLATION NEEDED]     *   **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.
-
+  A: バージョンによって異なります。多くは数十。

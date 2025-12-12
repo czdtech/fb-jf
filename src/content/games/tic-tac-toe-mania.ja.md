@@ -1,65 +1,48 @@
 ---
-locale: ja
+title: Tic Tac Toe Mania
+description: Tic Tac Toe Maniaは、クラシックな三目並べゲームの拡張版です。様々なモードと難易度で楽しめます。
+iframeSrc: 'https://ubg98.github.io/TicTacToeMania/'
+thumbnail: /new-images/tic-tac-toe-mania.jpg
 urlstr: tic-tac-toe-mania
-title: '[JA TRANSLATION NEEDED] Tic Tac Toe Mania'
-description: >-
-  [JA TRANSLATION NEEDED] Tic Tac Toe Mania is a brisk duel — bait forks, block
-  threats, and force draws/wins with optimal play or variant rules.
-iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
-thumbnail: /new-images/tic-tac-toe-mania.png
+score: 4.3/5  (2345 votes)
 tags:
-  - 2 player
-  - thinky
-score: 3.8/5  (1678 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - strategy
+  - classic
+  - board
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモードと挑戦を加えた拡張版です。AIまたは友達と対戦しましょう。
 
-[JA TRANSLATION NEEDED] Tic Tac Toe Mania modernizes noughts‑and‑crosses with clean visuals and variants (bigger boards, misère). Core play is about forcing lines or neutralizing threats; perfect 3×3 play draws unless a mistake occurs.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Center first: On 3×3, center maximizes forks; corners second.
-[JA TRANSLATION NEEDED] 2.  Block immediately: Always respond to a two‑in‑a‑row.
-[JA TRANSLATION NEEDED] 3.  Create forks: Set up positions where two lines can win next.
-[JA TRANSLATION NEEDED] 4.  Anti‑fork: Play to break opponent fork patterns.
-[JA TRANSLATION NEEDED] 5.  Variants: On larger boards, prioritize flexible lines over early corners.
-
-### Controls Guide
-
-- Click squares to place marks; local 2P common; AI difficulties vary.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Is 3×3 always a draw?
-  
-[JA TRANSLATION NEEDED]   A: With perfect play, yes; wins rely on opponent errors.
-
-- Q: Best first move?
-  
+ - **交互に配置：** X または O を配置します
+ - **3つ揃える：** 縦、横、斜めに3つ揃えます
+ - **戦略を立てる：** 相手の動きを予測します
+ - **勝利：** 先に3つ揃えた方が勝ちです
 
 
-
-
-
-
-- Q: Is 3×3 always a draw?
-### よくある質問（FAQ）
-- Click squares to place marks; local 2P common; AI difficulties vary.
-### コントロールガイド
 - Variants: On larger boards, prioritize flexible lines over early corners.
+### 操作ガイド
+
+ - **マウス：** マスをクリックして配置
 
 ### よくある質問（FAQ）
-- Anti‑fork: Play to break opponent fork patterns.
-[JA TRANSLATION NEEDED]   A: Center, then corner.
 
 
+- Q: Is 3×3 always a draw?
+**ゲームの目標は何ですか？**
 
 
-A: Center, then corner.
 - Q: Best first move?
+縦、横、または斜めに3つのマークを揃えることです。
 
+**誰と対戦できますか？**
 
-A: Center, then corner.
+AIまたは別のプレイヤーと対戦できます。
+
+**難易度は選べますか？**
+
+はい、AIの難易度を選択できます。

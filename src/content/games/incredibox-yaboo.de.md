@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: incredibox-yaboo
-title: '[DE] Incredibox YaBoo'
+title: Incredibox YaBoo
 description: >-
-  [DE] Dive into the fan-made 'Incredibox YaBoo' mod. This guide covers its
-  unique sound palette, music creation gameplay, and how to unlock its themed
-  bonuses.
+  Tauche ein in den Fan-Mod "Incredibox YaBoo". Dieser Guide erklärt die
+  japanisch inspirierte Klangpalette, das Musik-Gameplay und wie du die
+  thematischen Boni freischaltest.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/incredibox-yaboo.png
 tags:
@@ -16,41 +16,64 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+*Incredibox YaBoo* ist ein beliebter, künstlerisch eigenständiger Fan-Mod für
+Incredibox. Das Thema ist klar von **japanischer Folklore** inspiriert – mit
+Oni (Dämonen) und Yokai (Geistern) als Performern.
 
+Das Gameplay entspricht dem Original: Du ziehst 20 Sound-Icons auf eine Truppe
+Oni-Charaktere und baust damit deinen Mix. Die Sounds verbinden **traditionelle
+japanische Instrumente und Gesangsarten** mit modernen Electronic- und
+Hip-Hop-Elementen.
 
-### **Incredibox "YaBoo" Game Introduction**
+Ziel ist es, einen eigenen Track mit japanischem Flair zu kreieren und zugleich
+die drei Bonus-Kombinationen zu finden, die aufwendig animierte Szenen aus der
+Sagenwelt freischalten.
 
-*Incredibox YaBoo* is a popular and artistically distinct fan-made mod for the music creation game Incredibox. this version stands out with its unique and cohesive theme inspired by **Japanese folklore, featuring Oni (demons) and Yokai (spirits)**.
+### Strategie & Tipps
 
-The game mechanics are identical to the official series. Players are presented with a crew of characters stylized as Oni, who are ready to perform. By dragging and dropping 20 unique sound icons onto these characters, players can mix their own beats. The sound palette is completely original, blending traditional Japanese instruments and vocal styles with modern electronic and hip-hop elements.
+1.  **Kategorien im Überblick**  
+    *   **Beats (Rot):** Mischung aus modernen, basslastigen Drums und
+        traditionellen Percussion-Sounds wie **Taiko-Trommeln**.  
+- **Effekte (Blau):** Atmosphärische Synths mit fernöstlichem Charakter,
+        Umgebungsgeräusche und rhythmische Chants.  
+    *   **Melodien (Grün):** Loops von **Shamisen**, **Koto** oder anderen
+        Saiteninstrumenten, kombiniert mit modernen Synth-Lines.  
+    *   **Vocals (Gelb):** Gesang, Harmonien und kraftvolle Rufe im Stil von
+        "Kakegoe" aus Theater oder Kampfkunst.
 
-The goal, as always, is a blend of creative expression and puzzle-solving. Players can freely experiment to create their own Japanese-inspired musical track. The puzzle element involves discovering the three specific sound combinations that unlock beautifully animated bonuses, each deeply rooted in the mod's folkloric theme.
+    - **Tradition & Moderne mischen**  
+    Lege z. B. eine Shamisen-Melodie über einen modernen Beat – gerade dieser
+    Kontrast macht den Mod besonders.
 
-### **Gameplay Strategy & Tips**
+    - **Bonis systematisch suchen**  
+    Baue dir einen stabilen Kern-Groove und tausche danach einzelne Icons der
+    übrigen Slots durch, bis du Bonus-Animationen auslöst.
 
-The strategy for *Incredibox YaBoo* is about layering its unique sounds to create a compelling mix and uncovering the hidden animations.
+4.  **Auf visuelle Hinweise achten**  
+    Figuren verändern sich mit bestimmten Sounds – manchmal deuten Outfits oder
+    Effekte an, welche Kombinationen gut zusammenpassen.
 
-1.  **[DE]** **Understand the Japanese-Themed Categories**:
-    *   **[DE]** **Beats (Red)**: The rhythmic foundation here is a mix of modern bass-heavy beats and traditional Japanese percussion, such as the powerful sound of **Taiko drums**.
-    *   **[DE]** **Effects (Blue)**: These icons provide the atmospheric texture, featuring synthesized sounds with an Eastern feel, ambient noises, and sometimes rhythmic chants that add depth.
-    *   **[DE]** **Melodies (Green)**: This is where the traditional instruments shine. Expect to hear catchy loops from instruments like the **Shamisen** (a three-stringed lute) or the **Koto** (a stringed zither), blended with modern synth melodies.
-    *   **[DE]** **Voices (Yellow)**: This category features a range of Japanese-style vocal performances, from melodic singing and harmonies to powerful, guttural chants and exclamations reminiscent of "kakegoe" (shouts in Japanese theater and martial arts).
+5.  **Solo/Mute nutzen**  
 
-2.  **[DE]** **Blend the Traditional with the Modern**: The magic of this mod is in the fusion of sounds. Don't be afraid to layer a traditional Shamisen melody over a modern, heavy beat. The contrast is what gives the music its unique character.
+- **Use Solo and Mute for Clarity**: If your mix feels too busy, use the mute function to silence individual characters. Use the solo function to isolate a specific instrument or vocal part to appreciate its detail and see how it fits into the overall composition.
 
-3.  **[DE]** **Find the Hidden Bonuses Systematically**: The bonus-unlocking combinations can be tricky to find randomly. A good method is to lock in a few sounds that you feel create a strong core for your track, and then methodically swap out the remaining sounds one by one until a bonus animation is triggered.
+- **Listen for the Narrative**: The sounds and animations tell a story. Pay attention to how the characters' appearances change with each sound. This can sometimes give you a hint about which sounds might belong together.
+    Wenn der Mix zu voll wird, schalte einzelne Figuren stumm oder hör dir
+    bestimmte Stimmen im Solo an, um ihren Beitrag besser zu verstehen.
 
-4.  **[DE]** **Listen for the Narrative**: The sounds and animations tell a story. Pay attention to how the characters' appearances change with each sound. This can sometimes give you a hint about which sounds might belong together.
+### Steuerung
 
-5.  **[DE]** **Use Solo and Mute for Clarity**: If your mix feels too busy, use the mute function to silence individual characters. Use the solo function to isolate a specific instrument or vocal part to appreciate its detail and see how it fits into the overall composition.
+- Icons per Drag-and-drop auf Figuren legen, mit "X" oder neuem Icon ersetzen.  
+- Per Klick auf die Figuren kannst du sie muten/unmuten; mit Solo blendest du
+  alle anderen Stimmen aus.  
+- Über den Record-Button nimmst du deinen YaBoo-Track auf.
 
-### **Controls Guide**
+- **Record**: Click the **record button** to start and stop recording your musical creation.
 
-The controls are the standard, user-friendly Incredibox interface, driven by mouse actions.
+- **Solo**: Click the **small button** next to an active character to mute all other performers.
 
-*   **[DE]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto a character.
-*   **[DE]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound over an existing character to replace it.
-*   **[DE]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[DE]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[DE]** **Record**: Click the **record button** to start and stop recording your musical creation.
+- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
+
+- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound over an existing character to replace it.

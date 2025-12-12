@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: hoop-hero
-title: '[ZH TRANSLATION NEEDED] Hoop Hero'
-description: >-
-  [ZH TRANSLATION NEEDED] Tap at the right moment to dunk the ball! Test your
-  reflexes in this fast-paced, one-touch basketball game. Time your dunks
-  perfectly to score and achieve a high score.
+title: "《Hoop Hero》节奏灌篮英雄"
+description: "在《Hoop Hero》中，你要抓准节奏，在篮球正好与篮筐重合的一瞬间点击完成灌篮，用一键操作挑战反应和手感，连续命中刷出更高连击得分。"
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/hoop-hero.png
 tags:
@@ -19,30 +16,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Hoop Hero is a minimalist and addictive one-touch arcade game that tests your timing and reflexes. The gameplay is simple: a basketball moves, and you must tap the screen at the precise moment it aligns with the hoop to score a dunk. The challenge comes from the increasing speed and tricky patterns of the ball's movement. The goal is to score as many consecutive dunks as possible to achieve a new high score.
+《Hoop Hero》是一款极简风格的一键街机篮球游戏，核心在于“时机”。篮球会按既定轨迹来回移动，你需要在它刚好对齐篮筐时点击屏幕，让球下落完成一次漂亮的灌篮。随着连击数提升，球的移动速度和轨迹节奏会逐渐变难，你需要保持高度专注，在节奏加快的情况下继续命中，才能不断刷新个人最高分。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Focus on the Timing:** This game is all about rhythm and timing. Don't get distracted. Watch the ball's movement pattern and anticipate when it will cross over the hoop.
-2.  [ZH TRANSLATION NEEDED] **Aim for Perfect Swishes:** While just getting the ball in is enough, many versions of this game reward "perfect" or "swish" shots (dunking without hitting the rim) with extra points. Try to tap when the ball is perfectly centered over the hoop.
-3.  [ZH TRANSLATION NEEDED] **Stay Calm:** As your streak gets longer, the pressure builds. The key to a high score is to stay calm and maintain your focus. One rushed or panicked tap will end your run.
-4.  [ZH TRANSLATION NEEDED] **Learn the Patterns:** The ball doesn't always move in a simple back-and-forth line. Pay attention to different movement patterns as they appear so you can adapt your timing accordingly.
+### 游戏玩法与攻略
+1.  **专注节奏与落点**：本作完全是节奏和预判的比拼。不要盯着得分提示，而是持续观察篮球的运动周期，提前感受它经过篮筐的节奏点。
+2.  **追求完美“空心球”**：一般版本会对不碰框的完美入篮给出额外分数或连击奖励。尝试在篮球中心刚好位于篮筐正上方时点击，提升空心命中率。
+3.  **连击越高心态越要稳**：随着连续命中次数增加，玩家往往会紧张。想拿高分，关键是保持呼吸和节奏稳定，把每一次点击都当作新开局，而不是被当前分数绑架。
+4.  **记住不同运动轨迹**：篮球并不总是简单的左右匀速摆动，有时会改变速度或运动幅度。多玩几局，熟悉不同轨迹的周期感，有助于你提前预判。 
 
-### Controls Guide
+### 操作说明
 
-[ZH TRANSLATION NEEDED] The game is played with a single action.
+本作采用单一输入：
 
-*   **Dunk:** Click the left mouse button or tap anywhere on the screen to make the ball drop and dunk.
+*   **灌篮**：在合适时机点击鼠标左键或轻触屏幕任意位置，即可让篮球下落完成一次灌篮判定。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: What is the objective of the game?**
-     *   **A:** To score as many consecutive dunks as you can. The game ends after your first miss.
+*   **Q: 游戏的目标是什么？**  
+    *   **A:** 尽可能多地完成连续命中灌篮。通常一旦你有一次点击失误，未能让球进框，本局就会立刻结束。
 
-*   **Q: How do I get a higher score?**
-     *   **A:** Your score is based on the number of successful dunks you make in a row. Some versions also provide bonus points for "perfect" shots that go straight through the net.
+*   **Q: 如何提高得分？**  
+    *   **A:** 分数主要由连续命中次数决定，有些版本还会对完美空心球额外加分。保持节奏稳定、尽量减少早点或晚点的误触，是提高总分的关键。
 
-*   **Q: Is there any way to continue after a miss?**
-     *   **A:** Typically, no. These hyper-casual games are designed for quick sessions, and a single miss means the game is over and you must start again.
-
+*   **Q: 失误后可以续命或接着玩吗？**  
+    *   **A:** 大多数这类超休闲游戏不提供续关，本局失误就意味着重新开始，单局节奏很短，非常适合碎片化时间游玩。

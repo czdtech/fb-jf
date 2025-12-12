@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: super-smash-flash
-title: '[ES] Super Smash Flash'
+title: Super Smash Flash
 description: >-
-  [ES] Experience the classic fan-made fighter, Super Smash Flash! Choose from a
-  roster of iconic video game characters and battle it out in a
-  platform-fighting arena. The goal is to launch your opponents off the screen
-  by increasing their damage percentage. Master your character's moves to win.
+  Vive el clásico fangame de lucha Super Smash Flash. Elige entre un plantel de
+  personajes icónicos de videojuegos y enfréntate en arenas de plataformas. Tu
+  objetivo es lanzar a los rivales fuera de la pantalla aumentando su porcentaje
+  de daño. Domina los movimientos de tu personaje para ganar.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/super-smash-flash.jpg
 tags:
@@ -18,43 +18,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
-### Game Introduction
+Super Smash Flash es un fangame legendario inspirado en la saga oficial Super
+Smash Bros. Reúne a un elenco variado de personajes procedentes de distintos
+videojuegos y animes en arenas 2D de lucha con plataformas. Destaca por su
+ritmo rápido y por capturar bastante bien el espíritu de los juegos de consola
+originales en formato Flash gratuito.
 
-Super Smash Flash is a legendary fan-made fighting game inspired by the official Super Smash Bros. series. It brings together a diverse roster of characters from various video game and anime franchises into a 2D platform-fighting arena. The game is celebrated for its fast-paced action and capturing the spirit of the original console games in a free-to-play Flash format.
+### Guía de juego
 
-### Gameplay Guide
+A diferencia de otros juegos de lucha, aquí no se vacía una barra de vida, sino
+que se aumenta el porcentaje de daño del rival para lanzarlo cada vez más lejos
+con los golpes.
+- **Daño:** golpea a tus oponentes para subir su porcentaje (%).  
+- **Smash attacks:** utiliza ataques smash potentes para mandar a los rivales
+  con alto daño fuera del escenario.  
+- **Recuperación:** si te echan del escenario, usa los saltos y movimientos
+  especiales de tu personaje para volver a la plataforma.  
+- **Objetos:** periódicamente aparecen ítems que pueden darte ventaja si los
+  usas bien.
 
-The objective is not to deplete a health bar, but to increase your opponent's damage percentage and launch them off the screen. The higher a character's percentage, the farther they will fly when hit.
-- **Damage:** Attack opponents to increase their damage percentage (%).
-- **Smash Attacks:** Use powerful "smash" attacks to send high-damage opponents flying off the stage.
-- **Recovery:** If you are knocked off the stage, use your character's jumps and special moves to get back onto the platform.
-- **Items:** Items will periodically appear on the stage, which can be used to gain an advantage.
+### Guía de controles
 
-### Controls Guide
+Puedes jugar hasta dos personas en el mismo teclado.
+- **Jugador 1:**  
+    - Mover: flechas de dirección.  
+    - Saltar: `O`.  
+    - Atacar: `P`.  
+- **Jugador 2:**  
+    - Mover: `A`, `S`, `D`, `W` (W para saltar).  
+    - Ataque: `F`.  
+    - Movimiento especial: `G`.  
+- **Pausa:** `Backspace`.
 
-The game can be played by two players on the same keyboard.
-- **Player 1:**
-    -   **Move:** Arrow Keys
-    -   **Jump:** `O`
-    -   **Attack:** `P`
-- **Player 2:**
-    -   **Move:** `A`, `S`, `D`, `W` (W for jump)
-    -   **Attack:** `F`
-    -   **Special Move:** `G`
-- **Pause:** `Backspace`
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**¿Cómo gano una partida?**  
+Depende del modo, pero en general ganará quien tenga más KOs o más vidas al
+terminar el tiempo. La clave es lanzar a los rivales fuera de la pantalla.
 
-**How do I win a match?**
+**¿Cómo hago ataques distintos?**  
+Combina el botón de ataque (`P` o `F`) con direcciones; por ejemplo, `Arriba + P`
+lanza un ataque hacia arriba. Prueba diferentes combinaciones en suelo y aire
+para descubrir todo el moveset de tu personaje.
 
-You win by having the most KOs (or the last remaining lives, depending on the game mode) when the match ends. The key is to knock other players off the screen.
-
-**How do I perform different attacks?**
-
-Combine the attack button (`P` or `F`) with directional keys. For example, pressing `Up Arrow` + `P` will perform an up-attack. Experiment with different combinations on the ground and in the air to discover all of your character's moves.
-
-**Is this an official Nintendo game?**
-
-No, Super Smash Flash is a non-profit fan-made project created by McLeodGaming. It is a tribute to the Super Smash Bros. series.
-
+**¿Es un juego oficial de Nintendo?**  
+No. Super Smash Flash es un proyecto fan sin ánimo de lucro creado por
+McLeodGaming, un homenaje a la saga Super Smash Bros.

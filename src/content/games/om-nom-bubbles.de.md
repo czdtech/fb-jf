@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: om-nom-bubbles
-title: '[DE] Om Nom Bubbles'
+title: "Om Nom Bubbles"
 description: >-
-  [DE] Om Nom Bubbles is a colorful bubble shooter — match colors, bank shots,
-  and clear boards with smart angles.
+  Om Nom Bubbles ist ein farbenfroher Bubble-Shooter mit dem beliebten Om Nom.
+  Ziele, kombiniere Farben und räume das Spielfeld mit cleveren Winkeln.
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/om-nom-bubbles.jpg
@@ -16,30 +16,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Om Nom Bubbles ist ein klassischer Bubble-Shooter mit dem liebenswerten Om Nom
+ in der Hauptrolle. Du zielst und schießt farbige Blasen, um Gruppen von drei
+ oder mehr derselben Farbe zu bilden und so Teile des Spielfelds zu leeren.
+ Clevere Banden-Shots an den Seitenwänden, gutes Farbmanagement und ein Blick
+ auf die kommenden Blasen sind entscheidend, um zu verhindern, dass die Decke
+ zu weit nach unten rutscht.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Tragende Punkte entfernen:** Konzentriere dich auf Blasen, die große
+    Gruppen halten. Wenn du diese „Anker“ entfernst, stürzen ganze Cluster ab
+    und das Feld wird schnell leerer.
+2.  **Banden nutzen:** Nutze die Seitenwände, um schwer erreichbare Ecken zu
+    treffen oder Sterne und besondere Ziele effizient zu sammeln.
+3.  **Farben managen:** Wenn eine Farbe selten wird, solltest du sie nicht tief
+    im Stapel vergraben. Priorisiere Schüsse, die möglichst viele Blasen einer
+    Farbe entfernen.
+4.  **Vorausplanen:** Viele Versionen zeigen dir die nächste Blase. Plane zwei
+    Züge im Voraus, damit du dir nicht selbst die Wege verbaust.
+5.  **Kleine Gruppen ignorieren:** Wenn die Decke schon tief hängt, räume erst
+    breite Zugangswege frei und kümmer dich danach um kleine Reste.
 
-Om Nom Bubbles is a classic bubble‑shooter starring the beloved Om Nom. Aim and shoot colored bubbles to make matches of three or more and clear sections of the board. Strategic banking off the walls, color management, and planning for upcoming bubbles are key to keeping the ceiling from dropping too low.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Zielen:** Bewege den Mauszeiger oder ziehe mit dem Finger, um die Flugbahn
+  festzulegen; oft zeigt eine Hilfslinie den Weg.
+- **Schießen:** Klicke oder lasse los, um die Blase abzufeuern.
+- **Tauschen (falls verfügbar):** In manchen Versionen kannst du die aktuelle
+  Blase mit der nächsten tauschen, um flexibler zu spielen.
 
-1.  **[DE]** Target anchors: Remove clusters that hold large sections; collapsing big groups accelerates clears.
-2.  **[DE]** Bank for angles: Use the side walls to reach tucked‑away clusters and collect star objectives efficiently.
-3.  **[DE]** Manage colors: If a color is scarce, avoid burying it deep; prioritize colors that unlock the broadest collapses.
-4.  **[DE]** Look ahead: Many versions show the next bubble—pre‑plan two moves to avoid blocking your own lanes.
-5.  **[DE]** Don’t chase tiny groups: When the ceiling is low, clear access lanes first, then finish leftovers.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Wie erreiche ich verdeckte Cluster?**
+  
+  Nutze einen Banden-Schuss über die Seitenwand, um die Blasen aus einem
+  besseren Winkel zu treffen.
 
-- Aim: Move the cursor or drag to set trajectory; a guide may show the path.
-- Shoot: Click or release to fire.
-- Swap (if available): Some versions allow swapping the current and next bubble for flexibility.
+- **Was mache ich, wenn dauernd „falsche“ Farben kommen?**
+  
+  Verwende diese Blasen, um kleine Gruppen zu verkleinern oder künftige
+  Kettenreaktionen vorzubereiten. Wenn die Version das erlaubt, hilft auch der
+  Blasentausch.
 
-### Frequently Asked Questions (FAQ)
-
-- How do I reach covered clusters? Bank a shot off the side wall to approach from an angle.
-- What if the wrong color keeps coming? Use it to trim small groups or set up future collapses; swap if the mode allows.
-- Do I need all stars? No, but higher ratings unlock extra levels and are a fun mastery goal.
-
+- **Muss ich alle Sterne sammeln?**
+  
+  Nein, aber eine hohe Sternewertung schaltet oft zusätzliche Level frei und ist
+  ein schönes Ziel für Perfektionisten.

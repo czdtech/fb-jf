@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: guess-their-answer
-title: '[ZH TRANSLATION NEEDED] Guess Their Answer'
-description: >-
-  [ZH TRANSLATION NEEDED] Guess Their Answer is a quick survey showdown — think
-  like the crowd, list top answers, and outscore opponents with broad coverage.
+title: "《Guess Their Answer》全民问答对对碰"
+description: "《Guess Their Answer》是一款节奏很快的调查问答对战游戏，你要像参加家庭问答节目一样，站在“大多数人”的角度列出高频答案，用更广的覆盖面击败对手。"
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
 thumbnail: /new-images/guess-their-answer.png
 tags:
@@ -17,32 +15,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Guess Their Answer plays like a family‑feud style survey game. Given a prompt (“Things you bring to the beach”), you must list common answers. Points scale by popularity; obscure answers score little. The meta is not niche knowledge but modeling average respondents.
+《Guess Their Answer》的玩法类似电视上的家庭问答（Family Feud）节目。系统会给出一个题目，比如“去海边会带什么东西”，你要尽可能写出普通人最常回答的那些选项。答案越大众、越接近日常生活，被命中的概率就越高，得分也越多；冷门小众答案则得分很低。关键不在于你有多冷门的知识，而在于能不能站在“平均玩家”的视角思考问题。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Start with categories: People, objects, actions; then expand synonyms (e.g., sunglasses/shades).
-2.  [ZH TRANSLATION NEEDED] Cover spectrum: List one answer per sub‑theme rather than synonyms first to maximize early coverage.
-3.  [ZH TRANSLATION NEEDED] Think demographics: Family answers skew practical and familiar.
-4.  [ZH TRANSLATION NEEDED] Don’t overfit: If an answer flops, pivot quickly to a different sub‑theme.
-5.  [ZH TRANSLATION NEEDED] Head‑to‑head: Block likely opponent picks early.
+### 游戏玩法与攻略
+1.  先按类别发散：从“人”“物品”“行为”等大类开始，然后再根据题目拓展同义词，如 sunglasses / shades 等。
+2.  覆盖面优先：一开始先保证不同子主题各写一个答案，而不是一口气写一堆同义词，这样能更快覆盖更多高频选项。
+3.  想象受访人群：很多题目的“家庭向”答案会更偏向实用、熟悉的日常物品和活动。
+4.  不要在一个方向上死磕：如果某类答案连续得分很低，就尽快切换到另一个角度或场景。
+5.  对战模式里，优先抢对手也会想到的热门答案，既加自己分，又“卡”一下对方的得分空间。
 
-### Controls Guide
+### 操作说明
 
-- Type answers and submit; the game checks popularity lists.
+- 直接输入单词或短语并提交，系统会自动对照答案库并结算受欢迎程度和得分。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-- Q: My clever answers don’t score — why?
-  
-[ZH TRANSLATION NEEDED]   A: Scoring favors common responses. Switch to broadly familiar items/actions.
+- Q: 明明是很聪明的答案，却总是得分很低，为什么？  
+  A: 计分更看重“常见程度”而不是创意。尝试改用大多数人第一反应能想到的物品或行为，而不是很小众的梗或冷知识。
 
-- Q: Are misspellings accepted?
-  
-[ZH TRANSLATION NEEDED]   A: Some variants autocorrect; others require correct spelling or close matches.
+- Q: 拼写错误会被算对吗？  
+  A: 有些版本会对常见拼写错误做自动纠正，另一些则需要拼写足够接近或完全正确才算有效答案，具体以所在平台为准。
 
-- Q: Any hint system?
-  
-[ZH TRANSLATION NEEDED]   A: Some modes offer letter hints or reveal the category breadth.
-
+- Q: 游戏里有没有提示功能？  
+  A: 部分模式会提供字母提示，或者在回合中展示该题目可能覆盖的答案范围，帮助你调整思路。

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: geometry-dash-world
-title: '[ZH TRANSLATION NEEDED] Geometry Dash World'
+title: "Geometry Dash World 幾何衝刺：世界篇"
 description: >-
-  [ZH TRANSLATION NEEDED] Compact rhythm‑platformer worlds: run, jump, and fly
-  through short music‑synced levels, unlock gates with collected orbs, and visit
-  daily levels.
+  精煉版節奏平台世界：在兩個主題世界中快速通關多個短關卡，
+  跟著音樂節奏奔跑、跳躍與飛行，用收集到的光球解鎖大門並挑戰每日關卡。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/geometry-dash-world.jpg
 tags:
@@ -18,26 +17,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Geometry Dash World distills the core rhythm‑platforming into two themed worlds of brief, tightly designed stages. Each level syncs obstacles to the soundtrack: jump pads and rings propel you over spikes, gravity/size portals transform movement, and ship/ball segments test fine control. Collect orbs and keys to unlock gates, visit daily levels for fresh challenges, and practice sections with checkpoints before committing to a full clear. While shorter than the main series, World emphasizes fast iteration, readable patterns, and score‑chasing with coins and time.
+
+《Geometry Dash World》把幾何衝刺的核心玩法濃縮成兩個主題世界，
+每個世界包含多個短小但設計精準的關卡。每一關都與配樂嚴密同步：
+跳板與跳環會把你彈過尖刺，重力／體型傳送門則改變你的移動方式，
+飛船與球形段落則考驗你的細緻操作。通關後可收集光球與鑰匙來解鎖大門，
+還可以挑戰每日關卡與額外關卡，追求時間與收集要素。
 
 ### How to Play
-- Tap/jump exactly on beat to clear spikes and saws; hold to pilot ship/ball smoothly.
-- Gather orbs/keys to open gates and extra nodes; optional coins add challenge.
-- Use practice mode to break difficult sections into repeatable chunks.
+
+- 把握節拍按下跳躍鍵，精準越過尖刺與圓鋸；在飛船或球形段落則長按維持高度，
+  放開讓角色自然下降。
+- 收集關卡中的光球與鑰匙，用於在地圖上打開被鎖住的節點或額外路線，
+  可選擇性收集的金幣則提供額外挑戰與成就感。
+- 利用練習模式將困難區段拆成可反覆嘗試的小段，熟悉之後再回到正常模式一口氣跑完。
 
 ### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice/checkpoint controls vary by host.
+
+- 空白鍵、滑鼠點擊或觸控用於跳躍；
+- 在飛船模式中按住上升、放開下降；
+- 練習模式與檢查點的具體操作依託管版本而定。
 
 ### Tips
-- Learn the song’s phrasing—hazards often align with downbeats and fills.
-- Keep ship inputs light; release to settle before tight gaps.
-- Turn on practice to map tricky ring timings, then execute a clean run.
+
+- 學會聽歌的樂句與小節切分，許多陷阱與大跳點都會對齊重拍或過門，
+  用耳朵判斷比只盯畫面更穩。
+- 飛船段落中盡量輕按、短按，讓機體在安全高度區間小幅擺動，
+  在狹窄縫隙前先讓高度穩定，再通過。
+- 對特別難的跳環節奏，先在練習模式中標好檢查點，一段一段練到手感固定，
+  再回到正式模式追求零失誤通關。
 
 ### FAQ
-- Q: Does Geometry Dash World include user‑created levels?  
-[ZH TRANSLATION NEEDED]   A: It focuses on curated stages; some hosts surface daily levels and community picks.
-- Q: How do I unlock gated nodes?  
-[ZH TRANSLATION NEEDED]   A: Spend orbs/keys earned from clears and dailies.
-- Q: Can I place checkpoints?  
-[ZH TRANSLATION NEEDED]   A: Practice mode supports checkpoints; normal clears do not.
 
+- 問：World 有收錄玩家自製關卡嗎？  
+  答：World 主要以官方精選關卡為主，一些平台會額外推薦每日關卡或社群精選曲目，但是否支援完整 UGC 視託管而定。
+
+- 問：被鎖住的節點要怎麼解鎖？  
+  答：使用通關與每日關卡取得的光球與鑰匙，在地圖介面上消耗即可打開相應的大門或額外路線。
+
+- 問：可以自己放檢查點嗎？  
+  答：在練習模式下可以放置檢查點並隨時回到該位置，
+  但正式通關必須從頭到尾一次跑完，過程中不會有檢查點。

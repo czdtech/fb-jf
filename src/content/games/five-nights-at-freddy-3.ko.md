@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: five-nights-at-freddy-3
-title: '[KO] Five Nights at Freddy''s 3 (FNAF 3)'
+title: "Five Nights at Freddy''s 3 (FNAF 3)"
 description: >-
-  [KO] System‑management horror: lure Springtrap with audio, watch
-  cameras/vents, and reboot failing systems to survive each night.
+  시스템 관리가 핵심인 공포 게임입니다. 오디오로 스프링트랩을 유인하고,
+  카메라와 환기/시스템을 관리해 밤마다 살아남으세요.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/five-nights-at-freddy-3.jpg
 tags:
@@ -15,30 +15,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+FNAF 3는 수년 후 폐점한 피자가게를 기반으로 만든 공포 체험 어트랙션이
+무대입니다. 플레이어는 유일한 실체 애니매트로닉인 **Springtrap**을 상대하는
+한편, 환영(팬텀)들이 각종 시스템을 망가뜨리는 것을 견뎌야 합니다.  
+카메라, 오디오 유인, 환기 시스템을 적절히 관리하는 것이 생존의 핵심입니다.
 
+### 플레이 방법
 
-### Overview
-Set in a horror attraction years later, you face Springtrap while phantoms disrupt your systems. Manage cameras, audio lures, and ventilation.
+- 오디오 유인(아이 아이콘)을 사용해 Springtrap을 사무실에서 먼 방으로
+  유도합니다. 쿨다운을 고려해 너무 자주 사용하지 마세요.  
+- 스프링트랩의 동선을 보고, 그가 지름길로 사용할 만한 환풍구를 미리
+  봉인해 진입 경로를 차단합니다.  
+- 비디오, 오디오, 환기 중 오류가 발생하면 유지보수 패널에서 해당 시스템을
+  재부팅해 통제력을 되찾아야 합니다.  
 
-### How to Play
-- Use the audio lure to draw Springtrap away; avoid overusing it on cooldown.
-- Seal vents along his path to block shortcuts.
-- Reboot systems (video, audio, ventilation) when errors occur to restore control.
+### 조작 방법
 
-### Controls
-- Mouse/UI for cameras, audio, vent seals, and system reboots.
+- 마우스로 카메라 전환, 오디오 재생, 환기 봉인, 시스템 재부팅 등을 수행합니다.  
 
-### Tips
-- Keep Springtrap in rooms far from your office; lure step‑by‑step.
-- Phantoms are distractions—avoid staring at them; recover and re‑establish control quickly.
-- Prioritize ventilation errors; long blackouts invite failures.
+### 팁
 
-### FAQ
-- Q: Why does the audio stop working during a lure?
-A: The audio system overheats or errors; reboot it from the maintenance panel.
-- Q: How do I prevent Springtrap from entering the office?
-A: Chain lures and pre‑emptively seal vents on his likely routes.
-- Q: Which system should I reboot first when multiple fail?
-A: Ventilation to stabilize view/effects, then video/audio as needed.
+- Springtrap은 가능한 한 사무실에서 먼 방에 묶어 두는 것이 중요합니다.
+  한 칸씩 단계적으로 유인해 뒤로 돌려보내세요.  
+- 팬텀 애니매트로닉들은 주로 방해 요소입니다. 화면에 오래 응시하지 말고,
+  놀라더라도 재빨리 시스템을 재부팅해 상황을 정비하세요.  
+- 여러 시스템이 동시에 다운되면, 환기 문제를 최우선으로 복구해야 합니다.
+  화면이 어두워지거나 환각이 심해지면 다른 작업도 어렵기 때문입니다.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 유인 오디오가 중간에 갑자기 안 나옵니다.**  
+  **A:** 오디오 시스템이 과열되거나 오류가 난 상태입니다. 유지보수 패널에서
+  오디오 시스템을 재부팅해 주세요.  
+
+- **Q: 스프링트랩이 사무실로 계속 들어옵니다. 어떻게 막죠?**  
+  **A:** 카메라로 위치를 파악한 뒤, 가까워지기 전에 오디오로 다른 방으로
+  유인하고, 그 경로상의 환풍구를 미리 봉인해 지름길을 차단해야 합니다.  
+
+- **Q: 여러 시스템이 동시에 고장 났을 때 무엇부터 재부팅해야 하나요?**  
+  **A:** 우선 환기(ventilation)를 복구해 화면과 호흡 상태를 안정시키고,
+  그 다음 비디오/오디오 순으로 상황에 맞게 정비하는 것이 좋습니다.  
 

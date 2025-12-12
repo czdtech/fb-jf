@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: 2-tricky-stories
-title: '[KO] Brain Test 2: Tricky Stories'
+title: 'Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈'
 description: >-
-  [KO] Here's your chance to play Brain Test 2: Tricky Stories Game. Have fun
-  with this one!
+  기발한 스토리와 함께 상식을 깨는 문제들을 풀어 보는 두뇌 퍼즐 게임
+  Brain Test 2: Tricky Stories입니다. 다양한 캐릭터의 에피소드를 따라가며
+  창의력을 시험해 보세요.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
 thumbnail: /new-images/2-tricky-stories.jpg
 tags:
@@ -14,77 +15,117 @@ score: 4.0/5  (1166 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+*Brain Test 2: Tricky Stories*는 Unico Studio에서 개발·서비스하는
+창의적이고 난이도 있는 두뇌 퍼즐 게임입니다. 전작 *Brain Test: Tricky
+Puzzles*의 정식 후속작으로, 독립적인 레벨 위주였던 1편과 달리 이번 작품은
+각 캐릭터의 이야기를 따라가는 에피소드형 챕터 구조를 도입했습니다.
 
+이 게임의 핵심은 바로 '틀 밖에서 생각하기'입니다. 겉으로 보기에는 단순한
+문제처럼 보이지만 곳곳에 함정과 트릭이 숨겨져 있습니다. 보통의 논리만으로는
+풀리지 않는 퍼즐이 많기 때문에, 상상력을 발휘해 화면 속 요소를 예상치 못한
+방식으로 조작해야 정답을 찾을 수 있습니다.
 
+**주요 특징**
 
-*Brain Test 2: Tricky Stories* is a highly creative and challenging puzzle game developed and published by Unico Studio. It is the sequel to the widely popular *Brain Test: Tricky Puzzles*. Unlike its predecessor, which featured standalone levels, *Brain Test 2* introduces a story-driven model, organizing puzzles into coherent, character-focused chapters.
-
-The core gameplay revolves around "thinking outside the box." Players must solve a series of puzzles that appear simple but are filled with tricks and traps. These puzzles often defy conventional logic and require players to use their imagination and interact with on-screen elements in unexpected ways to find the solution.
-
-**Key Features:**
-
-*   **[KO]** **Story-Driven Levels:** The game is structured around various characters and their adventures, such as Agent Smith's mission, Emily's farm life, and Monster Hunter Joe's escapades. Each chapter tells a short story, and players advance the plot by solving puzzles.
-*   **[KO]** **Diverse Puzzle Design:** The puzzles are incredibly varied, covering logic, observation, common sense (and sometimes, the opposite of common sense), and creativity.
-*   **[KO]** **Highly Interactive Controls:** Players need to interact with game elements through a variety of actions, including tapping, dragging, merging, shaking the phone, tilting the device, and pinching to zoom. Sometimes, the solution is hidden within the level's title text or the UI itself.
-*   **[KO]** **Humorous Art Style:** The game features a clean and vibrant cartoon art style. The characters and animations are full of humor, and even the failure animations are often amusing.
-*   **[KO]** **Hint System:** If a player gets stuck on a level, they can use the in-game "light bulb" hints to get a clue or even skip the level entirely (usually by watching an ad).
-
----
-
-### **2. How to Play**
-
-Since the essence of the game is independent thinking and the joy of discovery, providing a direct answer key for all levels would spoil the fun. Therefore, this section offers general strategies and a mindset for solving the puzzles.
-
-*   **[KO]** **Think Outside the Box:** This is the most crucial principle. Do not apply everyday logic to the problems. The answer is often the option you initially dismissed.
-*   **[KO]** **Interact with Everything on the Screen:**
-    *   **[KO]** **Drag:** Try dragging every object, including background elements like clouds, the sun, or even the words in the question.
-    *   **[KO]** **Combine:** Attempt to drag two or more items together to see if they can be combined into a new tool.
-    *   **[KO]** **Tap/Rub:** Repeatedly tap or rub an object; it might trigger a hidden effect.
-*   **[KO]** **Read the Question Carefully:** The text of the question itself is often a key clue. Pay attention to puns, keywords, or hidden instructions.
-*   **[KO]** **Utilize Your Phone's Hardware Features:**
-    *   **[KO]** **Shake:** Many levels require you to shake your phone to make objects fall or move.
-    *   **[KO]** **Tilt:** Tilting your device can change the direction of gravity, affecting liquids or movable objects.
-    *   **[KO]** **Volume Buttons:** A few puzzles might require you to interact with your phone's volume keys.
-    *   **[KO]** **Rotate/Flip:** Turning your phone upside down or rotating it can also be a solution.
-*   **[KO]** **Pay Attention to Details and Numbers:** Carefully observe all details in the scene. Count the number of objects and check if anything is hidden behind something else.
-*   **[KO]** **Don't Be Afraid to Fail:** The game encourages trial and error. Trying different approaches is a necessary part of finding the correct solution.
-*   **[KO]** **Use the Hint System Wisely:** If you are genuinely stuck for a long time, use a light bulb hint. It will give you a critical clue rather than the direct answer, helping to guide your thought process.
+*   **스토리 중심 레벨 구성:** 에이전트 스미스의 임무, 에밀리의 농장 생활,
+    몬스터 헌터 조의 모험 등 다양한 캐릭터를 중심으로 한 챕터가 준비돼
+    있습니다. 각 챕터는 짧은 이야기를 구성하고, 퍼즐을 풀어 나갈수록
+    스토리도 함께 진행됩니다.
+*   **다양한 퍼즐 디자인:** 논리력, 관찰력, 상식(때로는 상식을 일부러
+    깨뜨리는 사고방식), 창의력까지 두루 시험하는 퍼즐이 가득합니다.
+*   **높은 상호작용성:** 탭, 드래그, 합치기, 스마트폰을 흔들기, 기울이기,
+    확대/축소 등 다양한 동작으로 화면 속 오브젝트를 조작해야 합니다. 가끔은
+    레벨 제목이나 UI 요소 자체에 답이 숨어 있기도 합니다.
+*   **유머러스한 아트 스타일:** 깔끔하고 선명한 카툰풍 그래픽과 익살스러운
+    캐릭터 연출이 특징입니다. 심지어 실패했을 때의 애니메이션도 웃음을
+    자아냅니다.
+*   **힌트 시스템:** 막히는 레벨이 생기면 게임 내 '전구' 힌트를 사용해
+    단서를 얻거나, 광고를 시청하고 문제를 건너뛸 수도 있습니다.
 
 ---
 
-### **3. Operation Guide**
+### **2. 플레이 방법**
 
-The controls in *Brain Test 2* are intuitive and are often part of the puzzle itself. Here are the primary interaction methods:
+이 게임의 재미는 스스로 생각하고 발견하는 과정에 있습니다. 모든 레벨의
+정답을 그대로 알려 주면 재미가 반감되기 때문에, 여기서는 전체 공략 대신
+퍼즐을 풀 때 도움이 되는 전반적인 전략과 사고방식을 정리합니다.
 
-| Action | Description | Example |
+*   **틀 밖에서 생각하기:** 가장 중요한 원칙입니다. 일상에서 쓰는 상식만
+    가지고 접근하지 마세요. 처음에는 말도 안 된다고 느꼈던 선택지가 오히려
+    정답인 경우가 많습니다.
+*   **화면의 모든 요소와 상호작용하기:**
+    *   **드래그:** 구름, 태양 같은 배경 오브젝트는 물론, 문제에 적힌 글자까지
+        손가락으로 끌어 움직여 보세요.
+    *   **결합하기:** 두 개 이상의 물체를 서로 끌어다 붙여 새로운 도구로
+        합칠 수 있는지 시험해 보세요.
+    *   **탭/문지르기:** 같은 곳을 여러 번 두드리거나 문지르면 숨겨진 효과가
+        나오는 경우도 있습니다.
+*   **질문 문장을 꼼꼼히 읽기:** 문제 문장 자체가 힌트인 경우가 많습니다.
+    말장난, 강조된 단어, 숨겨진 지시문이 없는지 살펴보세요.
+*   **휴대폰 하드웨어 기능 활용하기:**
+    *   **흔들기:** 스마트폰을 흔들면 물체가 떨어지거나 장면이 변화하는
+        레벨이 있습니다.
+    *   **기울이기:** 기기를 기울이면 중력이 바뀐 것처럼 액체나 물체의
+        움직임이 달라질 수 있습니다.
+    *   **볼륨 버튼:** 일부 퍼즐은 볼륨 키를 직접 눌러야만 해결됩니다.
+    *   **회전/뒤집기:** 휴대폰을 거꾸로 들거나 회전시키는 것이 정답이 되는
+        단계도 있습니다.
+*   **세부 요소와 숫자에 주목하기:** 화면에 보이는 모든 물체의 수를 세어 보고,
+    다른 것 뒤에 숨은 오브젝트는 없는지 꼼꼼히 확인하세요.
+*   **실패를 두려워하지 않기:** 이 게임은 시행착오를 전제로 설계되어
+    있습니다. 여러 방법을 차례로 시도해 보면서 정답에 가까워지도록
+    하세요.
+*   **힌트를 현명하게 사용하기:** 오랫동안 막혔을 때만 전구 힌트를 사용하는
+    것이 좋습니다. 힌트는 정답을 그대로 보여 주기보다는 핵심 단서를 제시해
+    당신의 사고를 유도해 줍니다.
+
+---
+
+### **3. 조작 안내**
+
+*Brain Test 2*의 조작은 직관적이며, 퍼즐의 일부가 되기도 합니다. 기본적인
+상호작용 방식은 다음과 같습니다.
+
+| 동작 | 설명 | 예시 |
 | :--- | :--- | :--- |
-| **Tap/Click** | To select objects, trigger actions, or interact with buttons. | Flipping a light switch, popping a balloon. |
-| **Drag & Drop** | To move an object to a specific location or give an item to a character. | Dragging a key to a lock, handing food to a character. |
-| **Swipe** | To move an obstacle, wipe something clean, or slide an object off-screen. | Swiping curtains open to reveal something behind them. |
-| **Pinch to Zoom** | To enlarge or shrink objects on the screen. | Zooming in on a map to find a clue, shrinking an object to fit it through a gap. |
-| **Shake Device** | To utilize the phone's accelerometer. | Shaking a tree to make fruit fall. |
-| **Tilt Device** | To change the in-game direction of gravity. | Tilting the phone to pour water out of a glass. |
-| **Long Press** | To press and hold on an object to trigger a special effect. | Holding down a button to keep a mechanism activated. |
+| **탭/클릭** | 물체를 선택하거나 동작을 실행하고 버튼을 누를 때 사용합니다. | 전등 스위치를 켜거나 풍선을 터뜨릴 때. |
+| **드래그 & 드롭** | 물체를 특정 위치로 옮기거나 캐릭터에게 아이템을 건넬 때 사용합니다. | 열쇠를 자물쇠 쪽으로 끌어가기, 음식을 캐릭터에게 건네기. |
+| **스와이프** | 장애물을 밀어 내거나 더러운 부분을 닦아 내고, 물체를 화면 밖으로 밀어낼 때 사용합니다. | 커튼을 옆으로 밀어 뒤에 숨은 물체를 드러내기. |
+| **핀치 줌(확대/축소)** | 두 손가락으로 벌리거나 오므려 화면 속 물체를 확대하거나 축소합니다. | 지도를 확대해 단서를 찾거나 물체를 줄여 좁은 틈을 통과시키기. |
+| **기기 흔들기** | 휴대폰의 가속도 센서를 이용해 장면에 영향을 줍니다. | 나무를 흔들어 과일이 떨어지게 만들기. |
+| **기기 기울이기** | 기기의 방향을 바꿔 중력 방향을 조정합니다. | 컵을 기울여 물을 쏟아내기. |
+| **롱 프레스(길게 누르기)** | 오브젝트를 길게 눌러 특별한 효과를 발동시키거나 장치를 유지합니다. | 버튼을 계속 눌러 기계를 작동 상태로 유지하기. |
 
 ---
 
-### **4. Frequently Asked Questions (FAQ)**
+### **4. 자주 묻는 질문 (FAQ)**
 
-**Q: I'm stuck on a level. What should I do?**
-**A:** First, try all the general strategies mentioned in the "Walkthrough" section. Interact with every element, read the question carefully, and try using your phone's hardware features. If you're still clueless, use a "light bulb" hint for a clue. As a last resort, you can watch an ad to skip the level.
+**Q: 특정 레벨에서 막혔습니다. 어떻게 해야 하나요?**
+**A:** 먼저 위의 '플레이 방법'에서 소개한 일반적인 전략들을 모두 시도해 보세요.
+화면의 모든 요소와 상호작용하고, 문제 문장을 다시 읽어 보며, 기기를 흔들거나
+기울이는 등 하드웨어 기능도 활용해 보세요. 그래도 전혀 감이 오지 않는다면
+전구 힌트를 사용해 단서를 얻고, 마지막 수단으로는 광고를 보고 해당 레벨을
+건너뛸 수 있습니다.
 
-**Q: Is the game free?**
-**A:** Yes, *Brain Test 2* is a free-to-play game that contains ads. You can watch ads to get hints or skip levels. The game also offers an in-app purchase to remove all mandatory ads for a smoother gameplay experience.
+**Q: 게임은 무료인가요?**
+**A:** 네, *Brain Test 2*는 기본적으로 무료로 플레이할 수 있는 게임이며,
+광고를 통해 운영됩니다. 광고를 시청하면 힌트를 얻거나 레벨을 건너뛸 수 있고,
+일부 버전에서는 일정 금액을 결제해 강제 광고를 제거할 수도 있습니다.
 
-**Q: How do I get more "light bulb" hints?**
-**A:** You can acquire hints in several ways:
-1.  **[KO]** As a reward for completing certain levels or chapters.
-2.  **[KO]** Through daily login bonuses.
-3.  **[KO]** By watching optional rewarded video ads.
-4.  **[KO]** By purchasing them directly via in-app purchases.
+**Q: '전구' 힌트는 어떻게 더 얻을 수 있나요?**
+**A:** 힌트는 다음과 같은 방법으로 획득할 수 있습니다.
+1.  특정 레벨이나 챕터를 클리어했을 때 보상으로 받기.
+2.  매일 접속 보너스로 받기.
+3.  선택형 광고(보상형 영상)를 시청하고 받기.
+4.  인앱 결제를 통해 직접 구매하기.
 
-**Q: What is the difference between Brain Test 1 and Brain Test 2?**
-**A:** The biggest difference is the structure. *Brain Test 1* consists of a series of unrelated, standalone puzzles. In contrast, *Brain Test 2* adopts a story-chapter format, where each chapter features a consistent main character and a continuous plot, making the puzzle-solving experience more engaging and goal-oriented.
+**Q: Brain Test 1과 Brain Test 2의 차이점은 무엇인가요?**
+**A:** 가장 큰 차이는 진행 방식입니다. *Brain Test 1*은 서로 연결되지 않은
+단발성 퍼즐들의 모음집에 가깝습니다. 반면 *Brain Test 2*는 각 챕터마다
+주인공이 정해져 있고, 에피소드 형식의 스토리가 이어지는 구조라 퍼즐을 풀면서
+이야기를 따라가는 재미가 더해집니다.
 
-**Q: Does the game require an internet connection?**
-**A:** The game itself can be played offline. However, an internet connection is required if you want to use the hint system (watching ads for light bulbs or skipping levels).
+**Q: 인터넷 연결이 꼭 필요한가요?**
+**A:** 기본적인 퍼즐 플레이는 오프라인에서도 가능합니다. 다만 힌트 사용이나
+광고를 통한 건너뛰기 등 일부 기능은 광고 시청을 위해 인터넷 연결이 필요할 수
+있습니다.

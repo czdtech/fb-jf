@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bloons-td-5
-title: '[DE] Bloons TD 5'
+title: "Bloons TD 5"
 description: >-
-  [DE] Master Bloons TD 5 with its deep strategy, diverse towers, and powerful
-  Special Agents. Build the ultimate defense, unlock the mighty Temple of the
-  Monkey God, and pop every last Bloon, including the fearsome ZOMG.
+  Meistere Bloons TD 5 mit seiner tiefen Strategie, vielen Türmen und starken
+  Special Agents. Baue die ultimative Verteidigung, beschwöre den Temple of the
+  Monkey God und platze selbst ZOMGs.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/bloons-td-5.jpg
 tags:
@@ -16,60 +16,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Bloons TD 5 ist ein Meilenstein des Tower‑Defense‑Genres: enorme Spieltiefe, farbenfrohe Grafik und eine gigantische Menge an Inhalten. Wie immer platzierst du Affentürme mit einzigartigen Fähigkeiten, um immer härtere Bloon‑Wellen zu stoppen.
 
+Das Spiel baut auf dem Zwei‑Pfad‑System aus BTD4 auf. Jeder Turm hat zwei Upgrade‑Pfade, wobei du einen bis Tier 4 und den anderen bis Tier 2 ausbaust (z. B. 4/2 oder 2/4). Dadurch entstehen zahllose strategische Varianten für ein und denselben Turm.
 
-### Game Introduction
+BTD5 erweitert das Universum unter anderem um:
 
-Bloons TD 5 is a landmark title in the tower defense genre, praised for its incredible depth, vibrant graphics, and massive amount of content. It refines the core formula of its predecessors: players place a wide variety of monkey towers with unique abilities to pop waves of increasingly difficult "Bloons."
+-   **Neue Türme:** **Monkey Sub**, **Heli Pilot**, **Monkey Engineer**, **Bloonchipper** u. v. m.  
+-   **Special Agents:** Einmal‑ oder dauerhafte Spezialeinheiten, die du mit Monkey Money kaufst, um in schwierigen Momenten nachzuhelfen.  
+-   **Z.O.M.G.:** Der „Zeppelin Of Mighty Gargantuaness“ – ein schwarzer Koloss, der beim Platzen vier B.F.B.s freisetzt.  
+-   **Monkey Lab:** Ein permanenter Upgrade‑Baum, der deine Türme über mehrere Spiele hinweg stärkt.  
+-   **Enorme Content‑Menge:** Dutzende Karten, Special Missions, Daily Challenges und ein ausgebauter Koop‑Modus.  
+-   **Aktive Fähigkeiten:** Viele Tier‑4‑Upgrades gewähren mächtige, manuell auslösbare Skills (MOAB Assassin, Downdraft usw.).
 
-The game is built upon the two-path upgrade system from BTD4, where each tower has two upgrade paths, and you can upgrade one path to tier 4 and the other to tier 2 (a 4/2 or 2/4 build). This creates a huge number of strategic possibilities for each tower.
+### Strategie & Tipps
 
-BTD5 significantly expanded the game's universe with several key additions:
--   **New Towers:** Introduced towers that became series staples, such as the **Monkey Sub**, **Heli Pilot**, **Monkey Engineer**, and the **Bloonchipper**.
--   **Special Agents:** Powerful, single-use or persistent units that can be bought with "Monkey Money" (a premium currency earned in-game) to provide a major boost in difficult situations.
--   **The Z.O.M.G.:** The **Z.O.M.G.** (Zeppelin Of Mighty Gargantuaness) makes its terrifying debut. This massive, slow-moving black and green blimp is the toughest Bloon in the base game, containing four B.F.B.s.
--   **Monkey Lab:** A persistent upgrade tree where players can spend Monkey Money to permanently improve their towers across all games.
--   **Massive Content:** Features dozens of tracks, Special Missions with unique rules, Daily Challenges, and a fully-featured Co-op mode.
--   **Activated Abilities:** Many tier-4 upgrades grant powerful, player-activated abilities that can turn the tide of a battle, such as the MOAB Assassin's missile or the Heli Pilot's Downdraft.
+-   **Wirtschaft zuerst:** Eine solide Economy entscheidet das Spiel. Baue so früh wie möglich **Banana Farms** und strebe 4/2 (`Banana Research Facility` + `More Bananas`) an – jede Runde landet dann eine Geldkiste auf dem Feld.
+-   **Frühe Verteidigung:** Ein 2/3‑**Dartling Gun** oder ein 3/x‑**Ninja Monkey** reicht meist, um die ersten Runden zu halten, während du weiter in Farms investierst.
+-   **Midgame‑Abdeckung sicherstellen:**
+    -   **Camo:** Ein 2/2‑**Monkey Village** (`Radar Scanner`) verleiht Tarnsicht, ein 4/2‑**Ninja** (`Bloonjitsu`) erledigt die versteckten Bloons.  
+    -   **Lead:** 2/3‑**Bomb Tower** (`Cluster Bombs`) oder ein Village mit `Monkey Intelligence Bureau` (x/3) lassen jeden Turm Blei knacken.  
+    -   **Regrow:** Hoher DPS verhindert Regrow‑Farmen. 2/3‑**Tack Shooter** (`Blade Maelstrom`) oder 4/x‑**Cannon Ship** (Buccaneer) sind bewährte Lösungen.
+-   **Temple of the Monkey God bauen:** Der 4/x‑**Super Monkey** ist der ultimative Lategame‑Turm. Vor dem Upgrade platzierst du innerhalb seiner Reichweite teure Türme aus verschiedenen Kategorien (Primary/Military/Magic). Beim Upgrade werden sie geopfert und erhöhen – bis zu einem Cap – dauerhaft die Tempel‑Power.
+-   **Wichtige Late‑Game‑Powerhouses:**
+    -   **Technological Terror (Super Monkey x/4):** Die „Bloon Annihilation“‑Ability löscht fast den gesamten Bildschirm.  
+    -   **Supa‑Vac (Bloonchipper 2/4):** Fängt sogar ZOMGs kurz ein und verschafft deinen DPS‑Türmen Luft.  
+    -   **Sabotage Supply Lines (Ninja x/4):** Halbiert die Bloon‑Geschwindigkeit und ist in späten Runden unverzichtbar.
 
-### Gameplay Strategy
+### Steuerung
 
--   **Economy is Everything:** The single most important strategy for success in BTD5 is building a strong economy. Start building **Banana Farms** as early as possible. The most efficient upgrade path is 4/2 (`Banana Research Facility` with `More Bananas`), which generates crates of cash each round.
--   **Early Game Defense:** A 2/3 **Dartling Gun** or a 3/x **Ninja Monkey** can handle the early rounds efficiently while you focus on building your Banana Farms.
--   **Essential Mid-Game Coverage:** Your defense must handle all special Bloon types.
-    -   **Camo:** A **Monkey Village** upgraded to 2/2 (`Radar Scanner`) is the best way to grant camo detection to all towers in its range. A 4/2 **Ninja Monkey** (`Bloonjitsu`) is also a top-tier camo killer.
-    -   **Lead:** A 2/3 **Bomb Tower** (`Cluster Bombs`) or a Monkey Village with the `Monkey Intelligence Bureau` (x/3) upgrade, which allows all nearby towers to pop any Bloon type.
-    -   **Regrow:** High damage-per-second (DPS) towers are needed to prevent "Regrow Farms" where Bloons regenerate faster than you pop them. A 2/3 **Tack Shooter** (`Blade Maelstrom`) or a 4/x **Cannon Ship** (Monkey Buccaneer) works well.
--   **Building the Temple of the Monkey God:** The ultimate late-game tower is the **Temple of the Monkey God** (4/x Super Monkey). To maximize its power, you must "sacrifice" other towers to it. Before you purchase the final Temple upgrade, place towers from different categories (Primary, Military, Magic) within its range. The more money you sacrifice (up to a cap for each category), the more powerful the Temple will be.
--   **Late Game Powerhouses:**
-    -   **Technological Terror (Super Monkey x/4):** Its "Bloon Annihilation" ability can wipe the screen clear of most Bloons.
-    -   **Supa-Vac (Bloonchipper 2/4):** The ultimate crowd control. Its special ability sucks in even ZOMG-class Bloons, stalling them for your other towers to attack.
-    -   **Sabotage Supply Lines (Ninja Monkey x/4):** This ability slows all Bloons on screen by half, which is absolutely critical in late-game rounds.
+Das Interface funktioniert klassisch per Maus oder Touch.
 
-### Controls Guide
+-   **Platzieren & Aufrüsten:** Turm im rechten Panel wählen, auf der Karte positionieren, anklicken und upgraden.  
+-   **Pfad‑Beschränkung:** Sobald ein Pfad Tier 3/4 erreicht, bleibt der Gegenpfad bei Tier 2 stehen (4/2 ja, 4/4 nein).  
+-   **Aktive Fähigkeiten:** Relevante Türme blenden unten links Buttons ein; ein Klick aktiviert sie nach Ablauf der Abklingzeit.  
+-   **Hotkeys:** Die PC‑Version zeigt auf jedem Icon die zugehörige Taste an – perfekt, um im Lategame schnell zu reagieren.
 
-The game uses a standard point-and-click or tap interface.
+### Häufige Fragen (FAQ)
 
--   **Placing/Upgrading:** Select a tower from the right-hand panel, place it on the map. Click the tower to open its upgrade menu and choose an upgrade path.
--   **Upgrade Paths:** Upgrading a tower to tier 3 or 4 on one path will lock the corresponding tiers on the other path. For example, a 4/x tower cannot be upgraded past x/2.
--   **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. Click it to use it.
--   **Hotkeys:** The PC version uses hotkeys for placing towers and activating abilities, which are displayed on the icons.
+**1. Was ist der stärkste Turm in BTD5?**  
+> Es gibt keinen alleinigen „Besten“. Ein vollständig geopferter **Temple of the Monkey God** neben einem 2/3‑Monkey Village gilt jedoch als stärkste DPS‑Kombination.
 
-### Frequently Asked Questions (FAQ)
+**2. Wie erhalte ich den Tempel?**  
+> Der Tempel ist das finale (4/x) Upgrade des Super Monkey. Zuerst `Sun God` (3/x) kaufen, danach erscheint die Tempel‑Option.
 
-**1. What is the best tower in Bloons TD 5?**
-> There is no single "best" tower. The game is about synergy. However, a fully sacrificed **Temple of the Monkey God** supported by a 2/3 **Monkey Village** is considered the most powerful combination in the game for raw damage.
+**3. Wie funktioniert das Opfern?**  
+> Alle Türme innerhalb der Reichweite des Sun God werden beim Upgrade geopfert. Investiere in mehrere Kategorien (Primary/Military/Magic) – jeweils bis etwa 30.000 $ – um die maximale Tempel‑Power zu erreichen.
 
-**2. How do I get the Temple of the Monkey God? It's not in the upgrade list.**
-> The Temple is the final upgrade (4/x) for the **Super Monkey**. You first need to buy the "Sun God" (3/x) upgrade. The Temple will then become available.
+**4. Was ist ein ZOMG und wie besiege ich ihn?**  
+> Der ZOMG ist der zäheste Blimp und enthält vier B.F.B.s. Konzentrierter Schaden durch Tempel, mehrere MOAB Assassin‑Bombentürme und die Fähigkeit `Sabotage Supply Lines` sind der Schlüssel.
 
-**3. How does sacrificing for the Temple work?**
-> Before you click the final Temple upgrade button, you must have other towers placed within the Sun God's attack range. The game will "sacrifice" (remove) these towers and add their value to the Temple's power. To get the maximum power, you need to sacrifice at least $30,000 worth of towers from three of the four categories: Primary, Bomb/Tack, Glue/Ice, and Magic.
-
-**4. What is a ZOMG and how do I beat it?**
-> A ZOMG is the toughest blimp. It is very slow but has immense health. To beat it, you need extremely high, focused damage. A Temple, multiple MOAB-Assassin ability monkeys (Bomb Tower x/4), and the Sabotage Supply Lines ability from a Ninja are all key components of a ZOMG-killing strategy.
-
-**5. Are Special Agents worth it?**
-> Yes, especially for beginners or on very difficult maps. A well-placed `Meerkat Spy` can provide early camo detection, and a `Bloonsday Device` can save you from a massive leak. They are powerful tools to help you win.
-
+**5. Lohn sich der Einsatz von Special Agents?**  
+> Ja. Ein `Meerkat Spy` liefert z. B. frühe Tarnsicht, ein `Bloonsday Device` rettet dich vor großen Leaks – ideal für schwere Karten oder Einsteiger.

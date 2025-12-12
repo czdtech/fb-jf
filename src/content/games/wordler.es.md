@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: wordler
-title: '[ES] Wordler'
+title: "Wordler - Deducción diaria de cinco letras"
 description: >-
-  [ES] Wordler is a daily deduction word game — guess five‑letter words,
-  leverage feedback colors, and converge with pattern logic.
-iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
-thumbnail: /new-images/wordler.png
+  Wordler es un juego diario de deducción de palabras: adivina términos de
+  cinco letras, interpreta el código de colores y reduce posibilidades con pura
+  lógica de patrones.
+iframeSrc: "https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/"
+thumbnail: "/new-images/wordler.png"
 tags:
   - puzzle
   - thinky
@@ -14,32 +15,27 @@ score: 4.2/5  (2054 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-
-
-
 ### Detailed Game Introduction
 
-Wordler follows the modern five‑letter deduction format: each guess yields color feedback (correct letter/place, correct letter/wrong place, absent). Optimal play prunes the search space with informed guesses instead of random stabs.
+Wordler sigue el formato moderno de deducción con palabras de cinco letras: cada intento genera un código de colores (letra correcta en posición correcta, letra correcta en lugar equivocado o letra ausente). El juego premia los intentos informados que reducen el espacio de búsqueda frente a los disparos al azar.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** Strong opener: Use a high‑coverage starter with common vowels/consonants (e.g., SLATE/CRANE/ROAST).
-2.  **[ES]** Letter accounting: Track confirmed/excluded letters explicitly; avoid re‑testing dead letters.
-3.  **[ES]** Position logic: Fix green letters, permute yellows across remaining slots.
-4.  **[ES]** Frequency bias: Favor common digrams (TH, CH, SH, ST) and endings (‑ER, ‑ED, ‑ING).
-5.  **[ES]** Endgame pruning: Before final guesses, shortlist all valid permutations to avoid whiffs.
+1.  **Apertura fuerte:** empieza con una palabra de alta cobertura que combine vocales y consonantes comunes.
+2.  **Control de letras:** lleva un registro mental (o en papel) de las letras confirmadas y descartadas; evita repetir sistemáticamente letras ya muertas.
+3.  **Lógica de posiciones:** fija las letras verdes y prueba las amarillas en los huecos restantes de forma sistemática.
+4.  **Frecuencia y patrones:** favorece dígrafos frecuentes (como TH, CH, SH, ST en inglés) y terminaciones comunes (-ER, -ED, -ING, etc.) si estás jugando en vocabulario inglés.
+5.  **Refina en el final:** cuando queden varias opciones posibles, elige una palabra “diagnóstica” que pruebe el mayor número de letras dudosas en una sola jugada.
 
 ### Controls Guide
 
-- Type and submit guesses; review color feedback; limited attempts per puzzle.
+- Escribe y envía tus intentos; revisa la retroalimentación de colores; recuerda que el número de intentos es limitado.
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I get multiple possibles late — how to pick?
+- **Q: Si al final me quedan varias palabras posibles, cuál elijo?**  
+  **A:** Juega una palabra que maximice la información, probando posiciones y letras que aún no estés seguro de confirmar o descartar.
 
-A: Choose a diagnostic word that tests the most uncertain letters/positions.
-
-- Q: Are plurals allowed?
-
-A: Depends on dictionary; many allow plurals sparingly.
+- **Q: Se permiten plurales?**  
+  **A:** Depende del diccionario de la versión concreta; muchas los incluyen con moderación.
 

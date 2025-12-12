@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: daily-room-escape
-title: '[ES] Daily Room Escape'
+title: "Daily Room Escape"
 description: >-
-  [ES] Daily Room Escape delivers bite‑size escapes — scour rooms, solve logic
-  locks, and piece clues together.
+  Daily Room Escape ofrece pequeños desafíos de escape: explora la habitación,
+  resuelve cerraduras lógicas y encaja las pistas para encontrar la salida.
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/daily-room-escape.png
 tags:
@@ -16,37 +16,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Daily Room Escape propone pequeños puzles de "escapa de la habitación".
+Busca objetos ocultos, descifra códigos numéricos y de formas y utiliza los
+objetos en el lugar adecuado para desbloquear la puerta.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **Peina la habitación:** Toca los puntos interactivos, levanta cojines, abre
+    cajones y revisa estanterías.
+2.  **Anota patrones:** Apunta órdenes de símbolos, códigos de colores y
+    secuencias que encuentres en paredes, libros o muebles.
+3.  **Combina objetos con lógica:** Piensa en usos evidentes (llave + cerradura,
+    pila + aparato, destornillador + tornillos) antes de probar combinaciones
+    al azar.
+4.  **Prueba códigos coherentes con las pistas:** Evita la fuerza bruta. Si un
+    código no funciona, revisa de nuevo el orden o la dirección indicada por la
+    pista.
+5.  **Si te atascas, vuelve atrás:** Recorre de nuevo estancias anteriores; es
+    fácil pasar por alto un punto interactivo o un objeto pequeño.
 
-Daily Room Escape offers short escape‑the‑room puzzles. Search for hidden objects, decode numeric/shape ciphers, and use items in the correct spots to unlock the exit.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Toca para inspeccionar zonas, recoger objetos y usarlos; algunos puzles usan
+  arrastrar y soltar.
+- El botón de pista, si existe, suele resaltar áreas que no has revisado.
 
-1.  **[ES]** Sweep the room: Tap hotspots, move cushions, open drawers.
-2.  **[ES]** Note patterns: Photograph or note symbol orders and color codes.
-3.  **[ES]** Combine items logically (e.g., key + handle, battery + device).
-4.  **[ES]** Try code permutations consistent with clues — avoid brute force.
-5.  **[ES]** If stuck, re‑scan earlier rooms for missed hotspots.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- P: He introducido un código correcto y no se abre, ¿es un bug?
+  
+  R: Revisa el orden, la dirección o posibles dobles lecturas de la pista; a
+  menudo las secuencias se pueden leer al revés o en bucle.
 
-- Tap to inspect, collect, and use items; some puzzles drag‑and‑drop.
-- A hint button may highlight missed areas.
+- P: No consigo combinar dos objetos.
+  
+  R: A veces importa el orden (usar la herramienta sobre el objeto fijo) o
+  primero inspeccionar el ítem de cerca para revelar partes ocultas.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: A code won’t work — bug?
-
-A: Recheck clue order/direction; many sequences are reversible or wrap.
-
-- Q: Items don’t combine?
-
-A: Ensure correct order or examine items closely for hidden parts.
-
-- Q: Too dark to see?
-
-A: Use brightness or in‑game lamps/flashlight when provided.
-
+- P: No veo nada, está muy oscuro.
+  
+  R: Sube el brillo de la pantalla o busca lámparas, interruptores o linternas
+  dentro del propio juego.

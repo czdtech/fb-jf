@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: cooking-mania
-title: '[KO] Cooking Mania'
+title: "Cooking Mania 쿠킹 매니아"
 description: >-
-  [KO] Cooking Mania is a fast time‑management cooker — juggle orders, chain
-  combos, and upgrade kitchens to keep customers happy.
+  빠른 템포로 진행되는 시간 관리형 요리 게임 Cooking Mania입니다. 주문을 동시에
+  처리하고 콤보를 이어 가며, 주방을 업그레이드해 손님들을 만족시켜 보세요.
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/cooking-mania.jpg
 tags:
@@ -15,36 +15,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Cooking Mania는 분주한 레스토랑 운영을 짧은 스테이지 안에 압축해 놓은 시간 관리 게임입니다.
+재료를 미리 준비하고, 손님 주문 순서에 맞춰 요리를 조합한 뒤, 제한 시간이 끝나기 전에 서빙해야
+합니다. 그 과정에서 조리 도구를 업그레이드하고, 팬의 개수를 늘리며, 손질 속도를 높이면
+여러 주문을 끊기지 않고 처리해 추가 코인을 얻을 수 있습니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Cooking Mania boils restaurant rush into quick levels: prep ingredients, assemble dishes in order, and serve before timers expire. Equipment upgrades, extra pans, and faster prep let you chain orders for bonus coins.
+1. **인기 메뉴는 미리 대량 준비하기**  
+   자주 나오는 메뉴 재료는 미리 여러 개를 준비해 두면 대기 시간을 크게 줄일 수 있습니다.  
+2. **연속 서빙으로 콤보 노리기**  
+   주문을 하나씩 띄엄띄엄 내보내기보다는, 연속으로 여러 테이블을 빠르게 서빙해 콤보 팁을
+   쌓는 것이 수익 면에서 유리합니다.  
+3. **병목 구간부터 업그레이드하기**  
+   팬 개수, 굽는 속도, 손질 속도처럼 가장 자주 막히는 부분을 먼저 업그레이드하세요. 눈에 띄게
+   처리 속도가 빨라집니다.  
+4. **남은 시간 우선순위 관리**  
+   큰 콤보를 노리고 싶더라도, 먼저 시간이 거의 끝나 가는 주문부터 처리해야 감점과 손님 이탈을
+   막을 수 있습니다.  
+5. **동선 최소화하기**  
+   조리대와 손님 테이블 사이의 동선을 최소화하도록 작업 순서를 정리하면 마우스 이동이 줄어들어
+   전반적인 속도가 빨라집니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Prep in batches for popular items to reduce wait times.
-2.  **[KO]** Chain serves: deliver multiple orders back‑to‑back for combo tips.
-3.  **[KO]** Upgrade bottlenecks first (e.g., grill count, prep speed).
-4.  **[KO]** Prioritize timers: Serve expiring orders before large combos.
-5.  **[KO]** Queue logic: Arrange workspace to minimize cursor travel.
+- 탭하여 재료를 준비하고, 드래그로 접시에 올린 뒤, 손님을 탭해 서빙합니다.  
+- 각 스테이지 사이의 상점 화면에서 조리 도구와 주방을 업그레이드할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Tap to prep, drag to assemble, and tap customers to serve.
-- Shop for upgrades between levels.
+- **Q: 자꾸 요리를 태워 버립니다. 어떻게 해야 하나요?**  
+  **A:** 조리 시작 시간을 조금씩 어긋나게 조절하고, 익는 소리나 시각 효과와 같은 오디오·비주얼
+  신호에 귀를 기울이세요. “완벽” 타이밍에 맞춰 바로 집어 들면 태우는 일이 줄어듭니다.
 
-### Frequently Asked Questions (FAQ)
+- **Q: 초반에는 어떤 업그레이드가 가장 좋나요?**  
+  **A:** 팬/그릴 개수와 손질 속도를 우선으로 올리는 것이 좋습니다. 인테리어(장식) 업그레이드는
+  후반에 여유가 생긴 뒤에 투자해도 늦지 않습니다.
 
-- Q: I burn items — how to avoid?
-
-A: Stagger starts and listen for audio cues; grab items promptly at “perfect” timing.
-
-- Q: Which upgrades are best early?
-
-A: Extra grills/pans and prep speed; décor is optional until later.
-
-- Q: Can I pause?
-
-A: Many levels disallow pausing mid‑rush; plan ahead.
+- **Q: 게임을 일시정지할 수 있나요?**  
+  **A:** 일부 레벨은 러시 구간에서 일시정지를 지원하지 않습니다. 스테이지 시작 전에 업그레이드와
+  메뉴 구성을 확인하고, 여유가 있을 때 미리 동선을 계획해 두세요.
 

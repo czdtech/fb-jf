@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: pac-man
-title: '[KO] PAC-MAN'
+title: "PAC-MAN 팩맨"
 description: >-
-  [KO] PAC-MAN is a classic arcade maze game where players control Pac-Man,
-  navigating a labyrinth to eat all the pellets while avoiding four colorful
-  ghosts. Eating power pellets allows Pac-Man to temporarily turn the tables and
-  eat the ghosts.
+  PAC-MAN은 노란 주인공 팩맨을 조종해 미로 속 모든 점을 먹으며, 네 마리 유령을 피해
+  달아나야 하는 클래식 아케이드 미로 게임입니다. 파워 펠릿을 먹으면 잠시 동안 유령을
+  되려 먹을 수 있습니다.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/pac-man.jpg
 tags:
@@ -19,31 +18,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*"PAC-MAN"*은 전 세계적으로 사랑받는 대표적인 아케이드 미로 게임입니다. 플레이어는 노란색
+주인공 팩맨을 조작해 미로 곳곳에 흩어진 점(펠릿)을 모두 먹어 치워야 하며, 동시에 네 마리
+유령인 Blinky(빨강), Pinky(분홍), Inky(하늘색), Clyde(주황)를 피해 다녀야 합니다. 맵에
+배치된 파워 펠릿을 먹으면 잠시 동안 상황이 역전되어, 오히려 유령들을 잡아 먹고 보너스
+점을 얻을 수 있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-"PAC-MAN" is a classic arcade maze game. Players control the yellow Pac-Man, moving through a complex labyrinth with the objective of eating all the pellets. Simultaneously, players must evade four colorful ghosts—Blinky, Pinky, Inky, and Clyde. When Pac-Man eats a power pellet, he can temporarily turn the tables and pursue and eat the ghosts for extra points.
+1. **유령 패턴 이해:** 각 유령은 서로 다른 AI 패턴을 가지고 있습니다. Blinky는 뒤를
+   쫓는 타입, Pinky는 앞을 돌아 막는 매복형, Inky는 좀 더 복잡한 움직임을 보이고,
+   Clyde는 비교적 무작위에 가까운 행동을 합니다.
+2. **파워 펠릿 활용:** 파워 펠릿을 먹은 직후 유령을 연달아 먹으면 점수가 기하급수적으로
+   늘어납니다. 가능하다면 유령들이 가까이 모였을 때 파워 펠릿을 먹어 효율을 극대화하세요.
+3. **경로 미리 계획:** 미로를 돌다 보면 사방이 유령에게 막힐 수 있으니, 항상 도망칠 수
+   있는 우회 경로나 터널 위치를 염두에 두고 움직이세요.
+4. **터널 활용:** 양쪽 끝의 터널은 미로의 반대편으로 빠르게 이동할 수 있어, 유령을
+   따돌리거나 반대로 유령을 역추격할 때 유용합니다.
+5. **큰 점 우선:** 파워 펠릿(큰 점)은 판세를 뒤집을 수 있는 중요한 자원이니, 상황을
+   봐가며 전략적으로 아껴 쓰는 것이 좋습니다.
 
-### Gameplay Strategy
+### 조작 방법
 
-1.  **[KO]** **Understand Ghost Behavior**: Each ghost has its unique AI pattern. Blinky (red) is a chaser, Pinky (pink) tries to ambush, Inky (light blue) has more complex movements, and Clyde (orange) tends to wander randomly.
-2.  **[KO]** **Utilize Power Pellets**: After eating a power pellet, immediately chase and eat the ghosts for high scores. The more ghosts eaten, the higher the score.
-3.  **[KO]** **Plan Routes**: When moving through the maze, plan your route in advance to avoid being cornered by ghosts.
-4.  **[KO]** **Use Tunnels**: The tunnels at both ends of the maze allow Pac-Man to quickly move from one side to the other, useful for evading or counter-attacking ghosts.
-5.  **[KO]** **Prioritize Large Pellets**: Power pellets (large pellets) are crucial for turning the tide and should be prioritized.
+* **이동:** 키보드 방향키(위, 아래, 왼쪽, 오른쪽)로 팩맨이 진행할 방향을 지정합니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
+1. **Q: "PAC-MAN"에는 몇 개의 레벨이 있나요?**  
+   **A:** 오리지널 아케이드 버전에서는 256번째 레벨까지 존재하지만, 256레벨에서
+   발생하는 버그로 인해 화면이 깨져 정상적인 진행이 어려운 "킬 스크린"이 등장하는
+   것으로 유명합니다.
 
-### Frequently Asked Questions
+2. **Q: 유령들의 이름과 색깔은 무엇인가요?**  
+   **A:** Blinky(빨강), Pinky(분홍), Inky(하늘색), Clyde(주황) 네 마리입니다.
 
-1.  **[KO]** **Q: How many levels are there in "PAC-MAN"?**
-**A**: The original "PAC-MAN" has 256 levels, but due to a programming error in level 256, it often results in a "kill screen" or "split screen," preventing the game from progressing normally.
-2.  **[KO]** **Q: What are the names and colors of the ghosts?**
-**A**: The four ghosts are: Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange).
-3.  **[KO]** **Q: What happens to the ghosts after eating a power pellet?**
-**A**: After eating a power pellet, the ghosts turn dark blue and can be eaten by Pac-Man. They will flee and return to their normal state after a period.
-4.  **[KO]** **Q: Is the objective of the game to eat all the pellets?**
-**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
+3. **Q: 파워 펠릿을 먹으면 유령에게 무슨 일이 일어나나요?**  
+   **A:** 유령들이 짙은 파란색으로 변하며 도망치기 시작하고, 이때는 팩맨이 유령을
+   먹을 수 있습니다. 일정 시간이 지나면 다시 원래 상태로 돌아갑니다.
+
+4. **Q: 각 레벨의 목표는 무엇인가요?**  
+   **A:** 미로에 있는 모든 작은 점과 파워 펠릿을 먹으면 해당 레벨을 클리어하고, 다음
+   레벨로 넘어갈 수 있습니다.

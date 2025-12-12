@@ -1,87 +1,52 @@
 ---
+title: "Bird Sort Quest バード・ソート・クエスト"
+description: "「Bird Sort Quest」は色合わせとパズルの癒やしの融合。止まり木の鳥たちを移動させ、色を揃えよう。数手先を読む計画性が鍵になるロジックパズル。"
+iframeSrc: "https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/"
+thumbnail: "/new-images/bird-sort-quest.png"
+urlstr: "bird-sort-quest"
+score: "4.1/5  (2069 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bird-sort-quest
-title: '[JA TRANSLATION NEEDED] Bird Sort Quest'
-description: >-
-  [JA TRANSLATION NEEDED] Bird Sort Quest turns color‑sorting into a soothing
-  challenge — move birds between perches, unify colors, and plan several steps
-  ahead.
-iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
-thumbnail: /new-images/bird-sort-quest.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.1/5  (2069 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Bird Sort Quest（バード・ソート・クエスト）*は、液体を移し替えるパズル（ソートパズル）の系統に属する、穏やかなロジックパズルゲームです。各止まり木（枝）には色とりどりの鳥たちが重なって止まっています。プレイヤーの目的は、鳥を1羽ずつ移動させ、最終的にすべての止まり木が「単一の色」の鳥だけで統一されるように整理することです。空いている止まり木の数は限られており、鳥は「同じ色の鳥の上」か「空の止まり木」にしか移動できないというルールが、パズルを奥深いものにしています。一時的な置き場所（バッファ）を確保する計画性が求められます。
 
-[JA TRANSLATION NEEDED] Bird Sort Quest is a calm logic puzzle in the family of liquid/sort games. Each perch holds a stack of colorful birds. Move one bird at a time so that every perch ends up with birds of a single color. The challenge comes from limited free perches and the rule that only a matching color (or empty slot) can accept a moved bird, forcing you to plan buffers and temporary parking.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **バッファの確保：** 少なくとも1つは常に「空っぽの止まり木」を確保しておきましょう。これが鳥を一時的に退避させるバッファ（緩衝材）として機能し、柔軟な移動を可能にします。
+2.  **下から揃える：** 止まり木の一番下にいる鳥の色に注目し、その色で統一することを目指して積み上げていくと安定します。
+3.  **単色を埋もれさせない：** 1羽しかいないようなレアな色の鳥を、他の色の下に埋めてしまわないようにしましょう。早めに表面に出しておくことが大切です。
+4.  **2手先を読む：** 動かす前に「これを動かしたら次はどうなるか」を2手先までシミュレーションして、手詰まり（ソフトロック）を防ぎましょう。
+5.  **中盤の統合：** 同じ色の半端なスタック（積み重ね）が複数ある場合は、早めに合体させて1本の止まり木にまとめ、空きスペースを作りましょう。
+6.  **素早いやり直し：** 動かした結果、逆に散らかってしまったと感じたら、バッファが残っているうちにすぐにアンドゥ（取り消し）して別のルートを探しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Reserve buffers: Keep at least one empty perch as a flexible buffer for shuffling.
-[JA TRANSLATION NEEDED] 2.  Build from bottom: Stabilize stacks by finishing a color on a dedicated perch starting from the bottom.
-[JA TRANSLATION NEEDED] 3.  Avoid burying singles: Don’t trap unique colors under mixed stacks; surface them early.
-[JA TRANSLATION NEEDED] 4.  Two‑move foresight: Before moving, simulate the next two placements to avoid softlocks.
-[JA TRANSLATION NEEDED] 5.  Consolidate mid‑game: Merge partial stacks of the same color as soon as feasible to free perches.
-[JA TRANSLATION NEEDED] 6.  Backtrack quickly: If a move increases disorder, undo and try a different route while buffers are intact.
+### 操作ガイド
 
-### Controls Guide
+*   **移動：** 動かしたい鳥がいる止まり木を選択（タップ/クリック）し、次に移動先の止まり木を選択します。
+*   **機能：** アンドゥやリセット機能がある場合は活用しましょう。ヒント機能は後半の難問のために温存するのが吉です。
 
-- Select a perch to pick the top bird, then select the destination perch.
-- Undo/Reset if the mode offers it; hints are best saved for late puzzles.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 動かせる場所がなくなって手詰まりになりました。どうすれば？**
 
-- Q: I’m stuck with no legal moves — what should I do?
-  
-[JA TRANSLATION NEEDED]   A: Backtrack a few moves and reopen a buffer perch. Prioritize surfacing buried singles to create new legal placements.
+    A: 数手前に戻って空の止まり木（バッファ）を再確保しましょう。埋もれている単色を先に救い出すと新しい合法手が見つかります。
 
-- Q: Is there a guaranteed strategy for every level?
-  
-[JA TRANSLATION NEEDED]   A: Not always, but maintaining at least one buffer and consolidating partial stacks early solves most layouts.
+*   **Q: 全てのレベルに必勝法はありますか？**
 
-- Q: Should I finish one color completely before touching others?
-  
-[JA TRANSLATION NEEDED]   A: It’s efficient to lock in a finished color when convenient, but don’t force it if it consumes all buffers.
+    A: レイアウトごとに最適解は違いますが、常に1つの空き止まり木を維持し、同色スタックを早めに統合することで大半のステージを突破できます。
 
-- Q: Are extra perches ever added?
-  
+*   **Q: 1色を完全に終わらせてから次の色に行くべきですか？**
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Some sets introduce bonus perches on tougher stages—use them as temporary parking to simplify.
+    A: 仕上げられるタイミングなら固定してしまうと後が楽になります。ただしバッファをすべて消費するほど無理に狙うのは禁物です。
 
-- Q: Do move counts matter?
-  
+*   **Q: 追加の止まり木が出てくるステージはありますか？**
 
+    A: 高難度セットでは一時的なボーナス止まり木が出ることがあります。仮置き場として使い、複雑な並びを簡略化しましょう。
 
+*   **Q: 手数は評価に影響しますか？**
 
-- Q: I’m stuck with no legal moves — what should I do?
-### よくある質問（FAQ）
-- Undo/Reset if the mode offers it; hints are best saved for late puzzles.
-[JA TRANSLATION NEEDED]   A: In some modes yes; aim for minimal moves by reducing unnecessary shuffles.
-
-
-
-
-
-
-
-
-
-
-A: In some modes yes; aim for minimal moves by reducing unnecessary shuffles.
-- Q: Do move counts matter?
-A: Some sets introduce bonus perches on tougher stages—use them as temporary parking to simplify.
-- Q: Are extra perches ever added?
-A: It’s efficient to lock in a finished color when convenient, but don’t force it if it consumes all buffers.
-- Q: Should I finish one color completely before touching others?
-A: Not always, but maintaining at least one buffer and consolidating partial stacks early solves most layouts.
-- Q: Is there a guaranteed strategy for every level?
-
-
-A: In some modes yes; aim for minimal moves by reducing unnecessary shuffles.
+    A: モードによっては最少手数がスコア判定に関わります。不要なシャッフルを減らし、効率の良い動かし方を意識してください。

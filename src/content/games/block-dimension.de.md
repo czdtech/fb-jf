@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: block-dimension
-title: '[DE] Block Dimension'
+title: "Block Dimension"
 description: >-
-  [DE] Enter the Block Dimension, a 3D puzzle game that will challenge your
-  spatial awareness. Rotate the structure and fit the blocks perfectly.
+  Betritt die Block Dimension, ein 10×10‑Blockpuzzle, das dein räumliches
+  Denken fordert. Platziere Formen strategisch, räume ganze Linien und plane
+  mehrere Züge im Voraus.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/block-dimension.png
 tags:
@@ -16,33 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Block Dimension ist ein eingängiges Block‑Puzzlespiel, das die klassische
+10×10‑Formel nutzt. Du erhältst verschieden geformte Blöcke, die du auf einem
+Raster platzieren musst. Immer wenn eine komplette horizontale Reihe oder
+vertikale Spalte gefüllt ist, wird sie gelöscht, schafft Platz und bringt
+Punkte. Die Partie endet, sobald keiner der aktuell verfügbaren Blöcke mehr auf
+ das Brett passt – also ist vorausschauende Planung entscheidend.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Block Dimension is a captivating puzzle game that takes the classic block-fitting formula into a new dimension. Played on a 10x10 grid, the game challenges you to strategically place blocks of various shapes to clear lines both horizontally and vertically. Unlike traditional block puzzlers, Block Dimension often introduces unique twists and a sleek, modern aesthetic. The goal is to score as many points as possible by clearing lines and creating combos before you run out of space on the board.
+1.  **Alle drei Teile mitdenken:** Du siehst im Normalfall drei Formen
+    gleichzeitig. Bevor du den ersten Block platzierst, überprüfe, ob du für
+    alle drei sinnvolle Plätze findest.
+2.  **Spielfeld offen halten:** Vermeide einzelne, isolierte Lücken in deinem
+    Gebilde. Solche 1×1‑Löcher sind schwer zu füllen und blockieren wertvollen
+    Raum.
+3.  **Auf Kombos spielen:** Versuche, mit einem Teil gleich mehrere Reihen
+    und/oder Spalten auf einmal zu räumen. Das verschafft dir viel Platz und
+    erhöht die Punktzahl deutlich.
+4.  **Zeit lassen:** Es gibt keinen Zeitdruck. Nimm dir die Zeit, die beste
+    Position zu finden – ein unüberlegter Zug kann ein sonst gutes Brett schnell
+    ruinieren.
+5.  **Große Teile im Blick behalten:** 3×3‑Quadrate oder sehr lange Linien
+    benötigen viel Raum. Versuche, sie früh zu verbauen oder dir bewusst
+    Freiflächen dafür zu reservieren.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Think Ahead:** You are typically shown three block shapes at a time. Before placing the first one, visualize how all three could potentially fit on the board. Good planning is key to long-term survival.
-2.  **[DE]** **Keep the Board Open:** Avoid creating single, isolated holes in your structure, as they can be very difficult to fill later. Try to keep your stacks relatively flat and open.
-3.  **[DE]** **Aim for Combos:** The most effective way to get a high score is by clearing multiple lines (rows or columns) with a single piece. Look for opportunities to set up these chain reactions.
-4.  **[DE]** **Don't Rush:** There is no time limit, so take your time to find the optimal placement for each piece. A single bad move can quickly lead to a game over.
-5.  **[DE]** **Manage Large Pieces:** Be mindful of the large, awkward pieces like the 3x3 square. If you don't have a good spot for them, they can quickly clog up your board.
+- **Block ziehen:** Klicke oder tippe auf einen Block im Auswahlbereich und
+  ziehe ihn auf das 10×10‑Raster.
+- **Block platzieren:** Lasse die Maustaste / den Finger los, um den Block an
+  der markierten Position abzulegen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Drag and Drop:** Use your mouse to select a block from the holding area and drag it onto the 10x10 grid.
-*   **[DE]** **Place Block:** Release the mouse button to place the block in the highlighted position.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: Can I rotate the blocks?**
-    *   **[DE]** **A:** In most 10x10 style block games, including this one, you cannot rotate the blocks. You must use them in the orientation provided, which is a core part of the challenge.
-
-*   **[DE]** **Q: How do I clear lines?**
-    *   **[DE]** **A:** A line is cleared when all 10 cells in a horizontal row or a vertical column are filled with blocks. All blocks in that line then disappear, freeing up space.
-
-*   **[DE]** **Q: What is the best strategy for a high score?**
-    *   **[DE]** **A:** Focus on creating and clearing multiple lines at once. This combo-play gives you significantly more points than clearing single lines. Also, try to play for as long as possible without running out of moves.
-
+-   **F: Kann ich Blöcke drehen?**  
+    -   **A:** In typischen 10×10‑Blockspielen wie diesem lassen sich Blöcke nicht drehen. Du musst sie in der vorgegebenen Ausrichtung einbauen.
+-   **F: Wie werden Linien gelöscht?**  
+    -   **A:** Sobald eine vollständige Reihe oder Spalte aus 10 Feldern gefüllt ist, verschwindet sie und schafft neuen Raum.
+-   **F: Was ist die beste Strategie für hohe Scores?**  
+    -   **A:** Spiele auf Mehrfach‑Clears, halte das Brett lange offen und vermeide unnötige Lücken. So stapeln sich Punkte am schnellsten.

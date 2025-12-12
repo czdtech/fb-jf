@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: smash-karts
-title: '[KO] Smash Karts'
+title: Smash Karts 스매시 카트
 description: >-
-  [KO] Smash Karts is a multiplayer online kart racing game where players
-  compete in fast-paced races, collect power-ups, and battle opponents while
-  racing through various tracks in colorful 3D environments.
+  온라인 멀티플레이 카트 배틀 레이싱 게임입니다. 아이템 상자를 먹어 무기를 장착하고, 컬러풀한 3D 트랙에서 다른 플레이어와 속도와 화력을
+  겨루세요.
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/smash-karts.jpg
 tags:
@@ -18,34 +17,63 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Smash Karts*는 마리오 카트 스타일의 레이싱에 전투 요소를 더한
+온라인 멀티플레이 게임입니다. 플레이어는 카트를 몰며 트랙 위에
+놓인 아이템 상자를 먹어 무기와 파워업을 얻고, 이를 활용해 다른
+플레이어를 공격하거나 수비하면서 라운드에서 높은 점수를 노립니다.
 
-### Game Introduction
+레이싱 실력과 아이템 운, 순간 판단이 모두 중요한 파티 게임에
+가깝습니다.
 
-"Smash Karts" is a multiplayer online kart racing game where players compete in fast-paced races, collect power-ups, and battle opponents while racing through various tracks in colorful 3D environments. The game combines classic kart racing with combat elements, providing players with exciting and fun multiplayer gaming experience.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **아이템(파워업) 활용법 익히기**  
+   미사일, 지뢰, 실드 등 무기마다 사용 타이밍과 용도가 다릅니다.
+   직선 구간에서는 유도 미사일, 뒤에서 쫓아오는 적에게는 지뢰처럼
+   상황에 맞게 사용하는 연습을 해 보세요.
 
-1.  **[KO]** **Power-up Usage**: Learn to use various power-ups wisely, attacking opponents or defending yourself at appropriate times.
-2.  **[KO]** **Track Familiarity**: Familiarize yourself with different track layouts to find optimal routes and shortcuts.
-3.  **[KO]** **Driving Skills**: Master turning, drifting, and acceleration techniques to gain competitive advantages.
-4.  **[KO]** **Tactical Cooperation**: Coordinate with teammates in team modes to fight against enemy players.
-5.  **[KO]** **Timing**: Choose the right moments to use power-ups and launch attacks.
+2. **트랙 구조 숙지하기**  
+   여러 번 플레이해 지름길과 드리프트 포인트, 아이템 상자 위치를
+   외워 두면 큰 이득을 볼 수 있습니다. 특히 점프대나 코너 구간은
+   공격과 회피에 모두 유용한 지점입니다.
 
-### How to Play
+3. **주행 스킬 연마하기**  
+   코너에서 속도를 유지하며 도는 법, 드리프트 후 가속을 살리는 법을
+   익히면 단순 속도 싸움에서도 우위를 점할 수 있습니다.
 
-*   **[KO]** **Movement**: Use WASD keys or arrow keys to control kart movement.
-*   **[KO]** **Acceleration**: Some versions may have additional acceleration keys.
-*   **[KO]** **Use Power-ups**: Typically use spacebar or mouse click to use collected power-ups.
-*   **[KO]** **Drift**: Master drifting techniques to maintain speed while turning.
+4. **팀 모드에서는 역할 분담하기**  
+   팀전에서는 한 명이 공격용 아이템을 적극 활용하고, 다른 팀원이
+   수비와 볼 관리(있는 경우)를 담당하는 식으로 역할을 나누면
+   효율이 올라갑니다.
 
-### Frequently Asked Questions
+5. **공격 타이밍 선택하기**  
+   단순히 보이는 대로 공격하기보다, 상대가 점프대 위에 있을 때나
+   코너에서 균형을 잡기 힘든 타이밍에 공격하면 훨씬 큰 효과를
+   볼 수 있습니다.
 
-1.  **[KO]** **Q: How do I get power-ups?**
-**A**: You'll encounter power-up boxes while driving on tracks; hit them to get random power-ups.
-2.  **[KO]** **Q: How many players can play simultaneously?**
-**A**: Usually supports multiple players online simultaneously; specific numbers depend on server and game version.
-3.  **[KO]** **Q: How can I improve my driving skills?**
-**A**: Practice more on different tracks, learn optimal routes, and master drifting and turning techniques.
-4.  **[KO]** **Q: Are there different game modes?**
-**A**: Typically includes standard racing, battle mode, team battles, and other various game modes.
+### 조작 가이드
+
+- **이동**: `WASD` 또는 방향키로 카트를 조종합니다.  
+- **가속/브레이크**: 위/아래 방향키 또는 `W/S`로 속도를 조절합니다.  
+- **아이템 사용**: 스페이스바나 마우스 클릭 등 지정된 키로 현재
+  보유 중인 파워업을 사용합니다.  
+- **드리프트(지원되는 경우)**: 특정 키를 눌러 코너에서 드리프트를
+  수행해 속도를 유지할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 파워업은 어떻게 얻나요?**  
+   **A:** 트랙 곳곳에 있는 아이템 상자를 통과하면 무기나 버프가
+   랜덤으로 지급됩니다.
+
+2. **Q: 한 번에 몇 명까지 함께 플레이할 수 있나요?**  
+   **A:** 서버와 버전마다 다르지만, 보통 여러 명이 동시에 같은
+   방에서 대전할 수 있습니다.
+
+3. **Q: 운보다 실력이 중요한가요?**  
+   **A:** 아이템 운도 영향을 주지만, 트랙 숙지와 주행·아이템 사용
+
+- **Q: Are there different game modes?**
+   실력이 결국 승률을 크게 좌우합니다.

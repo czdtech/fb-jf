@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: moto-x3m
-title: '[ES] Moto X3M'
+title: "Moto X3M - Carreras de motos y acrobacias extremas"
 description: >-
-  [ES] Moto X3M is an exciting and challenging online motorcycle racing game
-  where players perform daring stunts and navigate through treacherous tracks
-  filled with obstacles, ramps, and explosions.
+  Moto X3M es un trepidante juego de carreras y acrobacias en moto en el que
+  atraviesas circuitos llenos de trampas, rampas y explosiones mientras haces
+  piruetas espectaculares.
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
 thumbnail: /new-images/moto-x3m.jpg
 tags:
@@ -18,33 +18,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+"Moto X3M" es un juego de carreras y acrobacias en moto tan emocionante como
+exigente. Conducirás a través de circuitos repletos de obstáculos, rampas y
+explosiones, realizando piruetas en el aire. El objetivo es cruzar la meta en el
+menor tiempo posible, encadenando volteretas y trucos para ganar segundos extra.
 
-### Game Introduction
+### Estrategia de juego
 
-"Moto X3M" is an exciting and challenging online motorcycle stunt racing game. Players ride motorcycles through treacherous tracks filled with obstacles, ramps, and explosions, performing various daring stunts. The goal is to cross the finish line as quickly as possible and complete as many flips and stunts as possible to earn higher scores.
+1.  **Control del equilibrio:** mantener la moto equilibrada en saltos y
+    aterrizajes es clave para no estrellarse.
+2.  **Aprovechar las acrobacias:** las volteretas hacia delante o hacia atrás
+    en el aire pueden reducir tu tiempo final y darte puntos extra, siempre que
+    aterrices bien.
+3.  **Cuidado con los obstáculos:** los circuitos están llenos de trampas,
+    sierras, dinamita y plataformas móviles; adelántate a lo que viene y
+    reacciona con rapidez.
+4.  **Dominar aceleración y frenado:** dosificar el gas y el freno te ayuda a
+    adaptarte a cada tramo, especialmente en pendientes pronunciadas y secciones
+    técnicas.
+5.  **Reintentar niveles:** algunos trazados requieren varios intentos para
+    encontrar la ruta y la sincronización de acrobacias óptimos.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Control Balance**: Maintaining the motorcycle's balance during jumps and landings is crucial to avoid crashing.
-2.  **[ES]** **Utilize Stunts**: Performing front flips or backflips in the air can reduce completion time and earn extra points.
-3.  **[ES]** **Beware of Obstacles**: The tracks are filled with various traps and obstacles, requiring anticipation and flexible responses.
-4.  **[ES]** **Master Acceleration and Braking**: Use acceleration and braking judiciously to adapt to different terrains and stunt requirements.
-5.  **[ES]** **Repeated Attempts**: Some levels may require multiple attempts to find the optimal route and stunt timing.
+*   **Acelerar:** normalmente con la tecla W, flecha arriba o un botón táctil.
+*   **Frenar:** tecla S, flecha abajo o el mismo botón si el mando lo permite.
+*   **Inclinarse hacia delante/atrás:** teclas A/D o flechas izquierda/derecha,
+    o inclinando el dispositivo en móviles, para controlar la postura de la
+    moto en el aire y en las rampas.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Accelerate**: Typically using the W key, up arrow key, or mouse click.
-*   **[ES]** **Brake**: Typically using the S key, down arrow key, or mouse click.
-*   **[ES]** **Lean Forward/Backward**: Typically using the A/D keys, left/right arrow keys, or tilting the device to control the motorcycle's posture in the air or on slopes.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How can I achieve higher scores in the game?**
-**A**: You can achieve higher scores by performing more flips and stunts in the air and completing levels faster.
-2.  **[ES]** **Q: How many levels are there in the game?**
-**A**: "Moto X3M" typically includes multiple chapters, each with dozens of challenging levels.
-3.  **[ES]** **Q: How do I unlock new motorcycles?**
-**A**: More powerful motorcycles can be unlocked by completing specific levels or reaching certain scores.
-4.  **[ES]** **Q: What if I get stuck on a level?**
-**A**: Try different stunt combinations and routes, or watch playthrough videos from other players, which might reveal new strategies.
+1.  **P: Cómo consigo más puntuación y mejores tiempos?**  
+    **R:** Encadena más volteretas en el aire y termina cada nivel lo más rápido
+    posible; las acrobacias exitosas suelen darte bonificaciones de tiempo.
+2.  **P: Cuántos niveles tiene el juego?**  
+    **R:** "Moto X3M" suele estar dividido en varios capítulos con decenas de
+    niveles cada uno.
+3.  **P: Cómo desbloqueo motos nuevas?**  
+    **R:** Superando ciertos niveles o alcanzando determinadas puntuaciones
+    podrás desbloquear motos más rápidas o estables.
+4.  **P: Qué hago si me quedo atascado en un nivel?**  
+    **R:** Prueba distintas combinaciones de acrobacias y rutas, y observa
+    vídeos de otros jugadores si necesitas inspiración para un tramo concreto.

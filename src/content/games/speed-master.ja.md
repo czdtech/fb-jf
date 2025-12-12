@@ -1,68 +1,42 @@
 ---
+title: "Speed Master"
+description: "Speed Masterは、精密な反応ガントレット — ビートに合わせてプロンプトを叩き、パーフェクトをチェーンし、スピードが急上昇する中で冷静さを保とう。"
+iframeSrc: "https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/"
+thumbnail: "/new-images/speed-master.png"
+urlstr: "speed-master"
+score: "4.0/5  (1811 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: speed-master
-title: '[JA TRANSLATION NEEDED] Speed Master'
-description: >-
-  [JA TRANSLATION NEEDED] Speed Master is a precision reaction gauntlet — hit
-  prompts on beat, chain perfects, and keep composure as speeds spike.
-iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
-thumbnail: /new-images/speed-master.png
-tags:
-  - action
-  - casual
-score: 4.0/5  (1811 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### 詳細なゲーム紹介
 
-[JA TRANSLATION NEEDED] Speed Master is a minimalist reaction game that pushes timing and focus. Prompts sweep across the screen; you must tap at the exact overlap window. Difficulty rises with faster sweeps, deceptive rhythms, and multi‑lane inputs that punish early flinches and late presses alike.
+Speed Masterは、タイミングと集中力を押し上げるミニマリストな反応ゲームです。プロンプトが画面を横切り、正確な重なりウィンドウでタップする必要があります。難易度は、より速いスイープ、欺瞞的なリズム、早すぎる反応と遅すぎるプレスの両方を罰するマルチレーン入力とともに上昇します。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイ戦略とウォークスルー
 
-[JA TRANSLATION NEEDED] 1.  Beat counting: Lock to a steady internal count; tap to beat rather than pure sight.
-[JA TRANSLATION NEEDED] 2.  Peripheral prediction: Track the next prompt while executing the current one.
-[JA TRANSLATION NEEDED] 3.  Late‑bias safety: Slightly late taps are safer than early (most engines accept late end‑frames).
-[JA TRANSLATION NEEDED] 4.  Two‑lane focus: Keep eyes between lanes; don’t hard‑fixate on one side.
-[JA TRANSLATION NEEDED] 5.  Regain cadence: After a miss, breathe, realign posture, then continue.
+1.  ビートカウント：安定した内部カウントにロックする；純粋な視覚ではなくビートに合わせてタップ。
+2.  周辺予測：現在のプロンプトを実行しながら次のプロンプトを追跡する。
+3.  遅延バイアス安全：わずかに遅いタップは早いタップより安全（ほとんどのエンジンは遅いエンドフレームを受け入れる）。
+4.  2レーン集中：レーン間に目を保つ；片側に固定しない。
+5.  リズムを取り戻す：ミスの後、呼吸し、姿勢を整えてから続ける。
 
-### Controls Guide
+### 操作ガイド
 
-- Tap/press when prompts reach markers; multi‑lane binds use arrow/WASD (varies). Pause/Retry via UI.
+- プロンプトがマーカーに到達したらタップ/プレス；マルチレーンバインドは矢印/WASDを使用（変動）。UIで一時停止/再試行。
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I’m consistently early — how do I fix it?
-  
-[JA TRANSLATION NEEDED]   A: Add a micro‑delay to your count and look for the exact overlap instead of chasing the sweep.
-
-- Q: Multi‑lane overwhelms me.
-  
-[JA TRANSLATION NEEDED]   A: Soften focus and watch the center gap; process lanes peripherally.
-
-- Q: Does FPS matter?
-  
-
-
-
-
-
-- Q: I’m consistently early — how do I fix it?
 ### よくある質問（FAQ）
-- Tap/press when prompts reach markers; multi‑lane binds use arrow/WASD (varies). Pause/Retry via UI.
-### コントロールガイド
-- Regain cadence: After a miss, breathe, realign posture, then continue.
-[JA TRANSLATION NEEDED]   A: Stable framerate helps; close background apps if timing feels inconsistent.
 
+- Q: 常に早すぎる — どうやって修正しますか？
+  
+  A: カウントにマイクロ遅延を追加し、スイープを追いかけるのではなく正確な重なりを探す。
 
+- Q: マルチレーンに圧倒される。
+  
+  A: 焦点を柔らかくして中央のギャップを見る；レーンを周辺的に処理する。
 
-
-
-
-A: Stable framerate helps; close background apps if timing feels inconsistent.
-- Q: Does FPS matter?
-A: Soften focus and watch the center gap; process lanes peripherally.
-- Q: Multi‑lane overwhelms me.
-
-
-A: Stable framerate helps; close background apps if timing feels inconsistent.
+- Q: FPSは重要ですか？
+  
+  A: 安定したフレームレートが役立つ；タイミングが不安定に感じる場合はバックグラウンドアプリを閉じる。

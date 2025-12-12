@@ -1,47 +1,54 @@
 ---
 locale: ko
 urlstr: there-is-no-game
-title: '[KO] There is no game'
+title: 'There Is No Game: Classic 디어 이즈 노 게임: 클래식'
 description: >-
-  [KO] Experience the unique meta-puzzle adventure of There is no game! Defy a
-  sarcastic narrator, break the fourth wall, and solve unconventional puzzles by
-  clicking and dragging elements. This humorous and mind-bending game challenges
-  your perception of what a game can be.
-iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
+  There Is No Game: Classic은 "게임이 아니다"라고 우기며 플레이어를 막는 화면과
+  장난스러운 내레이션을 특징으로 하는 메타 퍼즐 게임입니다.
+iframeSrc: 'https://thereisnogame.h5games.usercontent.goog/v/web/'
 thumbnail: /new-images/there-is-no-game.jpg
 tags:
   - puzzle
-  - adventure
+  - meta
   - funny
-score: 3.9/5  (1003 votes)
+score: 4.8/5  (1500 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
-### Game Introduction
+### 게임 소개
 
-"There is no game" is a unique and highly acclaimed meta-puzzle adventure game that constantly challenges the player's perception of what a game is. Guided (or rather, misguided) by a sarcastic narrator who insists there is no game to play, players must find unconventional ways to interact with the environment, break the rules, and progress through a series of clever and humorous puzzles.
+There Is No Game: Classic은 제목 그대로 "이건 게임이 아니다"라고 주장하는
+화면과 내레이션을 상대로, 정말로 게임이 맞다는 걸 증명(?)해 나가는 메타
+퍼즐 게임입니다. 화면을 눌러 보고, 끌어 보고, 부숴 보면서 숨겨진 상호작용과
+퍼즐을 하나씩 발견해야 합니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-The core gameplay involves point-and-click interactions. You'll need to click, drag, and manipulate elements on the screen in unexpected ways to solve puzzles and advance. The game frequently breaks the fourth wall, and success often requires thinking outside the box and ignoring the narrator's direct instructions. Each "level" presents a new scenario where you must figure out how to bypass the narrator's attempts to stop you from playing.
+- **내레이션을 의심하기:**
+  화면 속 목소리는 계속해서 "아무 것도 하지 말라"고 말하지만, 실제로는 그
+  반대로 행동해야 풀리는 경우가 많습니다.
+- **UI를 장치처럼 사용:**
+  버튼, 텍스트, 심지어 로고나 아이콘까지도 퍼즐의 일부일 수 있습니다.
+- **물리 상호작용 탐색:**
+  화면 요소를 드래그하거나 떨어뜨리고, 여러 번 클릭해 보는 등 다양한
+  상호작용을 시도해 보세요.
 
-### Controls Guide
+### 조작 방법 안내
 
-- **Left Mouse Button:** Used for all interactions, including clicking on objects, dragging elements, and solving puzzles.
+- 마우스로 화면 곳곳을 클릭·드래그해 상호작용합니다.
+- 일부 퍼즐은 여러 번 반복 클릭이나, 예상치 못한 위치를 건드리는 행동이
+  필요할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**Is this really a game?**
+**Q: 정말로 "게임이 아닌" 건가요?**
 
-Yes, despite its title and the narrator's insistence, "There is no game" is indeed a game, and a very clever one at that. The title is part of its meta-narrative.
+A: 이름은 그렇지만, 사실은 매우 창의적인 퍼즐 게임입니다. 메타 유머와
+   장난스러운 연출을 즐기며 플레이해 보세요.
 
-**What kind of puzzles are there?**
+**Q: 막혔을 때는 어떻게 해야 하나요?**
 
-The puzzles are highly unconventional and often involve manipulating the game's interface, finding hidden elements, or performing actions that seem counter-intuitive to traditional gaming. Humor and breaking the fourth wall are central to the puzzle design.
-
-**How long is the game?**
-
-The original "There is no game" is a relatively short experience, designed as a point-and-click adventure. There is also a longer, full-fledged sequel called "There Is No Game: Wrong Dimension."
-
+A: 화면에 보이는 거의 모든 요소를 의심해 보세요. 텍스트, 버튼, 테두리 등
+   평소에는 꾸미기 요소로 보이는 것들도 실제로는 퍼즐의 일부일 수 있습니다.

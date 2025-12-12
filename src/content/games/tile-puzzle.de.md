@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: tile-puzzle
-title: '[DE] Tile Puzzle'
+title: Tile Puzzle
 description: >-
-  [DE] A relaxing and strategic puzzle game. Find and select three identical
-  tiles to clear them from the board. Plan your moves carefully to avoid filling
-  up your collection tray.
+  Tile Puzzle ist ein entspannendes, aber taktisches Kachel‑Puzzle: Finde immer
+  drei gleiche Steine, räume das Brett leer und achte darauf, dein begrenztes
+  Tablett nicht zu überfüllen.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/tile-puzzle.jpg
 tags:
@@ -16,34 +16,36 @@ score: 4.4/5  (2300 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Tile Puzzle ist ein modernes, forderndes Tile‑Matching‑Spiel, das deine Planung und dein Gefühl für Reihenfolgen testet. Das Spielfeld ist mit verschiedenen Motivkacheln gestapelt. Du wählst Kacheln aus und schickst sie in ein Tablett am unteren Bildschirmrand. Sobald drei identische Kacheln im Tablett liegen, verschwinden sie wieder und machen Platz. Dein Ziel: Das komplette Brett leerräumen – ohne dass das Tablett bis zum Anschlag vollläuft.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Erst denken, dann tippen:** Dein Tablett hat nur wenige Slots (meist sieben). Überlege dir vor jedem Klick, wohin die Kachel passt – wildes Herumklicken führt schnell zum Game Over.
+2. **Neue Kacheln freilegen:** Priorisiere Matches, die möglichst viele neue Steine darunter aufdecken. Manchmal lohnt es sich, auf eine „einfache“ Kombination zu verzichten, wenn sie dir nichts Neues bringt.
+3. **Tablett als Puffer:** Du kannst Kacheln zwischenlagern, die noch kein fertiges Set bilden. Nutze das, um Zeit zu gewinnen, während du nach den fehlenden Partnern suchst.
+4. **Eingesperrte Kacheln erkennen:** Achte auf Stapel, bei denen identische Kacheln direkt übereinander liegen. Du musst zunächst die obere Variante auflösen, bevor du an die darunterkommende herankommst.
 
-Tile Puzzle is a modern and engaging tile-matching game that challenges your planning and strategic skills. The goal is to clear a board stacked with various patterned tiles. You do this by selecting a tile and sending it to a collection tray at the bottom. When you have three identical tiles in the tray, they match and disappear, freeing up space. You must clear the entire board to win, but be careful—if you fill the tray completely, you lose!
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+Das Spiel wird vollständig mit Maus oder Touch gesteuert.
 
-1.  **[DE]** **Think Before You Tap:** The collection tray has a very limited capacity (usually seven slots). Before you tap a tile, have a plan for it. Don't just tap random tiles hoping for the best.
-2.  **[DE]** **Uncover New Tiles:** Your primary goal should be to make matches that uncover the most new tiles. Sometimes it's better to hold off on an easy match if it doesn't reveal any new, useful tiles underneath.
-3.  **[DE]** **Use the Tray as a Temporary Hold:** You can place tiles in the tray that don't yet form a match. Use this to your advantage. If you need a specific tile that is currently blocked, you can move other tiles into the tray to hold them while you work on freeing up the one you need.
-4.  **[DE]** **Identify Trapped Tiles:** Look for situations where one tile type is stacked directly on top of another of the same type. You will need to clear the top one first, which means you'll need to find its two other partners while the one below remains blocked.
+- **Kachel auswählen:** Klicke auf eine nicht überdeckte Kachel, um sie in das Tablett am unteren Rand zu legen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game is played with simple clicks or taps.
+- **Q: Was ist das Hauptziel?**  
+  **A:** 100 % der Kacheln vom Brett zu entfernen, indem du sie im Tablett zu Dreiergruppen kombinierst.
 
-*   **[DE]** **Select a Tile:** Click on any tile that is not grayed out (i.e., not covered by another tile) to move it to the collection tray at the bottom of the screen.
+    - **Q: Warum sind manche Kacheln grau und nicht anklickbar?**  
+  **A:** Diese Kacheln werden von einer höheren Schicht überdeckt. Erst wenn oben nichts mehr liegt, werden sie aktiv und anklickbar.
 
-### Frequently Asked Questions (FAQ)
+- **Q: Was passiert, wenn das Tablett voll ist?**  
 
-*   **[DE]** **Q: What is the main objective?**
-    *   **[DE]** **A:** To clear 100% of the tiles from the board by collecting them in sets of three in your tray.
+    - **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
 
-*   **[DE]** **Q: Why are some tiles gray and unclickable?**
-    *   **[DE]** **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
+- **Q: What happens if the tray fills up?**
 
-*   **[DE]** **Q: What happens if the tray fills up?**
-    *   **[DE]** **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
-
+    - **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
+  **A:** Sind alle sieben Slots belegt und du kannst keinen Drilling bilden, gibt es keinen legalen Zug mehr – das Level ist verloren und du musst neu starten.

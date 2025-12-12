@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: baseball
-title: '[ZH TRANSLATION NEEDED] Doodle Baseball'
+title: "Doodle Baseball 手绘棒球"
 description: >-
-  [ZH TRANSLATION NEEDED] A guide to Doodle Baseball, the charming and simple
-  timing-based sports game. Learn how to play, get tips for hitting home runs,
-  understand the controls, and find answers to common questions.
+  《Doodle Baseball（手绘棒球）》是一款节奏简单但很考验打击手感的小游戏，下面是玩法说明、本垒打技巧、操作方式与常见问题。
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/baseball.jpg
 tags:
@@ -17,52 +15,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 详细介绍
 
-[ZH TRANSLATION NEEDED] *Doodle Baseball* is a charming and deceptively simple arcade-style baseball game. Presented with a unique hand-drawn "doodle" aesthetic, the player takes on the role of a batter from a team of various food items, facing off against an opposing team of anthropomorphic peanuts.
+*Doodle Baseball（手绘棒球）* 是一款画风可爱、操作极简的街机风棒球打击游戏。画面采用“手绘涂鸦”风格，你将操控一支由各种食物拟人化组成的打击队，对阵一支由花生角色组成的投手与守备球队。
 
-[ZH TRANSLATION NEEDED] The objective of the game is straightforward: hit the ball thrown by the pitcher and score as many runs as possible. The gameplay loop is focused entirely on the act of batting. The player does not control fielding or base running; these actions are automated based on the quality of the hit. The challenge comes from the variety of pitches thrown by the opposing team. As the game progresses, pitchers will throw balls at different speeds and trajectories, including fastballs, curveballs, and slow pitches, requiring the player to adapt their timing with each swing. The game ends after the player gets three strikes, and the goal is to achieve the highest possible score.
+游戏目标非常直接：在被三振出局之前，尽可能多地击中投手投出的球并累积得分。
 
-### Gameplay Strategy
+你只需要负责挥棒，守备与跑垒会根据击球质量自动处理。真正的挑战在于：随着局数推进，对方投手会投出速度、落点都不同的球路，包括快速球、慢速球、变向球等，你要不断调整自己的挥棒时机才能稳定击中。
 
-[ZH TRANSLATION NEEDED] While the game uses only one button, mastering it requires focus and timing.
+### 游戏策略
 
-1.  **Watch the Pitcher's Wind-up:** The pitcher's animation is your first clue. Pay attention to their wind-up motion, as it can sometimes signal the type of pitch that is coming.
-2.  **Focus on the Ball, Not the Bat:** Your eyes should track the baseball from the moment it leaves the pitcher's hand until it reaches the plate. This is the most effective way to judge its speed and trajectory.
-3.  **Learn to Differentiate Pitch Speeds:**
-    *   **Fastball:** This is a straight, fast pitch. It requires a quick reaction. Be ready to swing almost as soon as you identify it.
-    *   **Slow Pitch/Curveball:** These are designed to fool you into swinging too early. The ball will float towards the plate much slower than a fastball. You must be patient and wait an extra moment before swinging. This is the most common reason for getting a strike.
-4.  **Timing is Everything:** The quality of your hit is determined by *when* you swing.
-    *   **Home Run:** Hitting the ball perfectly in the "sweet spot" as it crosses the plate will usually result in a home run.
-    *   **Single/Double:** Hitting the ball slightly early or late will result in a base hit.
-    *   **Foul Ball/Strike:** Swinging too early or too late will result in a miss.
-5.  **Don't Be Afraid to Take a Strike:** While every pitch in the game is typically a strike, the mental exercise of waiting helps you calibrate your timing for the slower pitches. Rushing your swing is the fastest way to get three outs.
+虽然操作只有一个“挥棒”，但想要稳定打出本垒打，需要专注与节奏感。
 
-### Controls Guide
+1.  **先观察投手的出手动作：** 投手的预备动作往往能透露当前球路节奏。多看几球，熟悉他出手到球到达本垒的大致时间差，有助于你提前准备挥棒。
+2.  **眼睛盯的是球，不是球棒：** 从投手放球的一刻起，视线就要紧盯着球，而不是盯着人物或球棒，这样才能更准确判断球速和下坠。
+3.  **区分快速球与慢速/弯曲球：**
+    - **快速球：** 直线且速度快，需要你更早按下挥棒；
+    - **慢球/曲球：** 看起来会“飘”很久才到本垒，你必须比直觉再**多等半拍**，这是很多人被三振的主要原因。
+4.  **时机决定击球质量：**
+    - 在球刚好到达好球带中心时挥棒，最容易打出本垒打；
+    - 稍早或稍晚的挥棒，可能只打出一垒安打或界外球；
+    - 时机偏差太多，就直接挥空被判好球。
+5.  **不要害怕“看一球”：** 虽然游戏里大部分球都会进好球带，但有意识地“先看一球”可以帮你校准节奏，特别是面对慢球时，千万不要因为急于挥棒而连续三振。
 
-[ZH TRANSLATION NEEDED] The controls are as simple as possible, making the game accessible to everyone.
+### 操作指南
 
-*   **For PC / Web Browser:**
-     *   **Left Mouse Button**: Click to swing the bat.
-*   **For Mobile / Touchscreen Devices:**
-     *   **Tap the Screen**: Tap anywhere on the screen to swing the bat.
+操作非常简单，几乎只需要在合适的时机完成一次挥棒，任何玩家都能快速上手。
 
-[ZH TRANSLATION NEEDED] There are no other controls for moving, running, or fielding.
+*   **PC / 浏览器：**  
+     - **鼠标左键点击**：在希望挥棒的瞬间点击即可。  
+*   **手机 / 触屏：**  
+     - **点击屏幕任意位置**：在你想挥棒的时间点轻触屏幕。
 
-### Frequently Asked Questions (FAQ)
+游戏没有额外的移动、跑垒或守备操作，所有这些都会自动完成。
 
-[ZH TRANSLATION NEEDED] **1. How do I hit a home run?**
-[ZH TRANSLATION NEEDED] A home run is achieved through perfect timing. You need to swing and make contact with the ball at the ideal moment, just as it crosses the home plate.
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **2. Is it possible to win the game?**
-[ZH TRANSLATION NEEDED] *Doodle Baseball* is an endless arcade game. There is no final inning or opponent to "beat." The goal is not to win, but to score as many runs as you can before getting three outs and setting a new personal high score.
+**1. 怎么样才能打出本垒打？**
+关键是“正好”的挥棒时机：在球进入好球带正中央的瞬间点击，让球击中球棒的最佳击球点。
 
-[ZH TRANSLATION NEEDED] **3. Why do I keep striking out on slow pitches?**
-[ZH TRANSLATION NEEDED] This is the game's primary challenge. Your brain gets used to the timing of fastballs, so when a slow pitch comes, your instinct is to swing at the same speed. You must consciously force yourself to wait longer than you think you need to before swinging at a slow ball.
+**2. 这游戏有“赢”的概念吗？**
+严格来说没有终局，你会一直打下去直到被三振三次。真正的目标是尽量在被淘汰前累积更多分数，刷新自己的最高纪录。
 
-[ZH TRANSLATION NEEDED] **4. Can I choose my character or team?**
-[ZH TRANSLATION NEEDED] No, the player characters (batters) cycle automatically as you play. They are all part of the same team and have no gameplay differences.
+**3. 为什么我总是在慢球上被三振？**
+这是游戏最常见的坑。大脑会习惯快速球的节奏，一旦遇到慢球就会下意识过早挥棒。你需要强迫自己比平时**明显更晚**一点再挥。
 
-[ZH TRANSLATION NEEDED] **5. Does the game get harder?**
-[ZH TRANSLATION NEEDED] Yes. As you score more runs, the opposing pitchers will begin to use a wider variety of pitches, including faster fastballs and trickier curveballs, making it more challenging to time your swings correctly.
+**4. 可以选择角色或队伍吗？**
+不行，击球角色会在队友之间自动轮换，他们在玩法上没有差别，仅仅是视觉上的变化。
 
+**5. 游戏难度会提升吗？**
+会。随着你得分越来越高，对方投手会使用更多种类的球路，球的速度变化也会变大，你必须不断调整自己的判断和节奏。

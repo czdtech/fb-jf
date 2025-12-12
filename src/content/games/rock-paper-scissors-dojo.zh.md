@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: rock-paper-scissors-dojo
-title: '[ZH TRANSLATION NEEDED] Rock Paper Scissors Dojo'
+title: 《Rock Paper Scissors Dojo》剪刀石头布心战馆
 description: >-
-  [ZH TRANSLATION NEEDED] Rock Paper Scissors Dojo is a quirky duel — read
-  patterns, mix strategies, and outwit opponents in best‑of series.
+  《Rock Paper Scissors
+  Dojo》是一款把“剪刀石头布”做成心理博弈的小游戏。在多回合对决中观察对手出拳习惯，混合不同策略，靠读心和反制提升整体胜率。
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
 thumbnail: /new-images/rock-paper-scissors-dojo.png
 tags:
@@ -15,32 +15,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Rock Paper Scissors Dojo turns RPS into a light mind‑game. Across best‑of matches, you’ll try to detect tendencies (e.g., opponents repeat after wins, switch after losses) and counter with mixed strategies that avoid being predictable.
+《Rock Paper Scissors Dojo》把“剪刀石头布”（RPS）从纯运气猜拳，包装成轻量级心理战。游戏以多局两胜、三胜等系列赛形式进行，你需要在一轮轮对决中观察对手的偏好：有人赢了就爱原样再出，有人输了就会立刻换招。通过识别这些倾向，再用不易被看穿的混合策略来应对，就能在长局数对战中慢慢把胜率拉高。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Baseline mix: Use a balanced random mix to avoid exploitation early.
-2.  [ZH TRANSLATION NEEDED] Pattern spotting: Track opponent streaks — repeaters vs switchers.
-3.  [ZH TRANSLATION NEEDED] Counter‑adapt: If they repeat after wins, pre‑counter next round; if they switch after losses, anticipate the switch.
-4.  [ZH TRANSLATION NEEDED] Meta resets: Throw an occasional off‑pattern choice to reset reads.
-5.  [ZH TRANSLATION NEEDED] Series math: In best‑of N, tighten play near deciding rounds.
+### 游玩策略与实战指引
 
-### Controls Guide
+1.  **建立基础混合策略：** 一上来先用较为均衡的随机出拳比例，避免太快暴露自己固定的习惯，降低被对手针对的风险。
+2.  **留意对手“模式”：** 观察对手在连胜或连败时的表现——是习惯连续重复同一出拳，还是每次输掉就立刻切换？这些都是可被利用的信息。
+3.  **针对性反制：** 如果发现对手赢了就常常重复同一手，那下一轮就提前准备克制那一手；如果对手输掉就马上换拳，则要预判他最可能切换到的选项。
+4.  **适时“洗牌”：** 当你感觉对手开始读你的节奏时，可以偶尔刻意打破自己之前的模式，出一两次完全反直觉的拳，重新打乱对手的判断。
+5.  **系列赛思维：** 在“几局几胜”的模式下，比分接近的关键局要比平常更加谨慎，尽量使用自己最熟悉、最不容易被看穿的出拳组合。
 
-- Pick rock/paper/scissors each round; local two‑player often available.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 每一回合从石头、剪刀、布中选择一种出拳；多数版本提供本地双人模式，可在同一设备上轮流选择。
 
-- Q: Isn’t RPS random?
-  
-[ZH TRANSLATION NEEDED]   A: Humans show biases; exploiting them raises win rate over many rounds.
+### 常见问题解答（FAQ）
+*   **问：剪刀石头布不是完全靠运气吗？****
 
-- Q: Any unbeatable strategy?
-  
-[ZH TRANSLATION NEEDED]   A: No — but balanced mixes and quick adaptation are robust.
+A: Humans show biases; exploiting them raises win rate over many rounds.
+- 答：** 从理论上讲纯随机确实互相克制，但真实玩家常常会暴露出固定偏好或情绪化决策。只要善于观察和利用这些偏差，就能在长局数对战里获得统计意义上的优势。
 
-- Q: Two‑player?
-  
-[ZH TRANSLATION NEEDED]   A: Many builds include local 2P on one device.
+A: No — but balanced mixes and quick adaptation are robust.
+*   **问：有没有“无敌必胜”的策略？****
 
+A: Many builds include local 2P on one device.
+    *   答：** 没有绝对无解的打法，但接近均衡的随机混合策略配合快速调整，是最稳健也最不容易被针对的路线。
+*   **问：可以两个人一起玩吗？****
+    *   答：** 很多版本都支持本地双人对战模式，在一台设备上就能和朋友当面斗智斗勇。

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: mad-honey
-title: '[ES] Mad Honey'
+title: "Mad Honey - Aventura arcade de néctar"
 description: >-
-  [ES] Mad Honey is a bite‑size arcade adventure — collect nectar, dodge
-  hazards, and return safely to the hive.
+  Mad Honey es una pequeña aventura arcade: recoge néctar, esquiva peligros y
+  vuelve sano y salvo a la colmena.
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/mad-honey.png
 tags:
@@ -16,29 +16,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Mad Honey es una aventura corta, perfecta para partidas rápidas, centrada en
+recoger néctar mientras evitas enemigos sencillos y peligros del entorno. Cada
+nivel destaca por las rutas de vuelo cuidadosas, la buena sincronización al pasar entre
+patrullas y los regresos seguros a la colmena para sumar puntuación.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar while avoiding simple enemies and environmental hazards. Levels emphasize careful flight paths, timing through patrols, and safe returns to score.
+1.  Traza la ruta: identifica los grupos de néctar y los recorridos de los
+    enemigos antes de lanzarte.
+2.  Ajustes pequeños: mueve con suavidad para atravesar huecos estrechos sin
+    sobrecorregir la trayectoria.
+3.  Recolecta en varias pasadas: si un grupo de néctar es arriesgado, divídelo
+    en dos visitas en lugar de intentar cogerlo todo de una vez.
+4.  Vigila los temporizadores: deposita néctar con frecuencia si hay límite de
+    tiempo o de carga.
+5.  Riesgo frente a recompensa: evita las zonas muy ajustadas cuando te quede
+    poca vida o el tiempo esté a punto de agotarse.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Plot routes: Identify nectar clusters and patrol paths before committing.
-2.  **[ES]** Small corrections: Feather movement to thread narrow gaps without oversteering.
-3.  **[ES]** Stagger pickups: Clear risky clusters in two passes if needed.
-4.  **[ES]** Watch timers: Deposit nectar regularly if a timer or carry limit exists.
-5.  **[ES]** Risk vs. reward: Skip tight pickups when low on time or health.
+- Movimiento: teclas de dirección / WASD o arrastre analógico.
+- Interacción: recogida automática de néctar al tocar las flores.
+- Reintentar: reinicio rápido para buscar una partida perfecta.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Move: Arrow keys / WASD or analog drag.
-- Interact: Automatic pickups on contact.
-- Retry: Quick restart for clean runs.
-
-### Frequently Asked Questions (FAQ)
-
-- Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
-- Is there scoring depth? Longer chains and clean returns typically grant bonuses.
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
-
+- Los enemigos parecen injustos, ¿algún consejo?  
+  Aprende sus ciclos de patrulla y espera ventanas limpias en lugar de forzar
+  huecos imposibles.
+- ¿El sistema de puntuación tiene profundidad?  
+  Las cadenas más largas y los regresos limpios a la colmena suelen otorgar
+  bonificaciones extra.
+- ¿Puedo permitirme recibir golpes?  
+  En muchos modos la vida es limitada y los errores se castigan; prioriza
+  siempre la supervivencia sobre recoger cada gota de néctar.

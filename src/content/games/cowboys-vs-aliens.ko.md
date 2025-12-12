@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cowboys-vs-aliens
-title: '[KO] Cowboys vs Aliens'
+title: Cowboys vs Aliens 카우보이 vs 에일리언
 description: >-
-  [KO] A comprehensive guide to the 'Cowboys vs Aliens' game theme. Learn the
-  common gameplay types (tower defense, action shooter), strategies, controls,
-  and tips for defending the Wild West from alien invaders.
+  서부 시대 카우보이와 외계인의 대결을 다룬 액션 슈팅 'Cowboys vs Aliens' 가이드입니다. 대표적인 플레이 방식과 기본 전략,
+  조작법을 정리해 외계 침략자로부터 황야를 지켜 보세요.
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/cowboys-vs-aliens.jpg
@@ -17,34 +16,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### **게임 소개**
 
+이 버전에서는 플레이어가 한 명의 카우보이 영웅을 직접 조종합니다. 게임은 보통
+횡스크롤이나 탑다운 시점의 슈팅 형식으로 진행되며, 외계인들로 가득한 스테이지를
+달리고, 점프하고, 사격하며 돌파해야 합니다. 리볼버 같은 서부식 권총부터 외계인의
+레이저 건까지 다양한 무기를 획득하고, 파워업과 체력 회복 아이템을 주워 가며 적의
+탄막과 공격을 피해야 합니다. 목표는 각 스테이지를 끝까지 살아남아 마지막 보스를
+처치하는 것입니다.
 
+### **게임 플레이 전략 & 팁**
 
+#### **액션/슈팅류 공통 팁**
 
+1. **움직임이 곧 생존이다**  
+   가만히 서 있는 일은 절대 피해야 합니다. 항상 움직이면서 적의 레이저와 투사체를
+   피하세요. 적마다 공격 패턴이 다르므로, 언제 점프하고, 숙이고, 도망쳐야 하는지
+   패턴을 익혀 두면 큰 도움이 됩니다.  
+2. **위협 우선순위를 정하라**  
+   모든 외계인이 같은 위협을 주는 것은 아닙니다. 먼 거리에서 저격하는 적이나, 작은
+   분열체를 계속 소환하는 적처럼 위험도가 높은 목표를 먼저 파악해 빠르게 제거하는
+   습관을 들이세요.  
+3. **탄약·파워업 아껴 쓰기**  
+   탄약이 한정돼 있거나 파워업 지속 시간이 짧은 게임이라면, 적이 몰려 나오는 구간이나
+   보스전까지 아껴 두는 것이 좋습니다. 약한 적 1~2마리에게 가장 강한 스킬을 낭비하지
+   마세요.  
+4. **무기 특성을 이해하기**  
+   각 무기에는 장단점이 있습니다. 샷건은 가까이 몰려드는 적을 쓸어 버리는 데 뛰어나고,
+   라이플은 먼 거리의 적을 안전하게 처리하는 데 유리합니다. 상황에 맞게 무기를 자주
+   바꾸는 것이 생존과 클리어 타임 모두에 중요합니다.
 
-### **Game Introduction**
+### **조작 방법**
 
-This version puts you in direct control of a single cowboy hero. The gameplay is typically a side-scrolling or top-down shooter where you must run, jump, and shoot your way through levels filled with alien enemies. You collect new weapons (from revolvers to alien laser guns), power-ups, and health packs while dodging enemy projectiles and attacks. The goal is to survive each stage and defeat a boss at the end.
+* **PC/웹 버전**  
+    - **이동**: `W`, `A`, `S`, `D` 또는 방향키  
+    - **조준**: 마우스 이동  
+    - **사격**: 마우스 왼쪽 버튼  
+    - **점프**: 스페이스 바(`Space`)  
+    - **무기 교체**: 숫자 키(`1`, `2`, `3...`) 또는 마우스 휠  
 
-### **Gameplay Strategy & Tips**
-
-#### **For Action/Shooter Games:**
-
-1.  **[KO]** **Movement is Life**: Never stand still. Constantly be on the move to dodge incoming alien lasers and attacks. Learn enemy attack patterns to know when to jump, duck, or run.
-2.  **[KO]** **Prioritize Threats**: Some aliens are more dangerous than others. Learn to quickly identify and eliminate high-priority targets first, such as long-range snipers or enemies that spawn smaller minions.
-3.  **[KO]** **Conserve Ammunition/Power-ups**: If your game has limited ammo or timed power-ups, save them for large groups of enemies or difficult boss encounters. Don't waste your strongest attacks on weak, single aliens.
-4.  **[KO]** **Know Your Arsenal**: Understand the strengths and weaknesses of each weapon. A shotgun is great for close-quarters crowd control, while a rifle is better for picking off distant foes. Switch weapons according to the situation.
-
-### **Controls Guide**
-
-*   **[KO]** **PC/Web:**
-    *   **[KO]** **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
-    *   **[KO]** **Aim**: Mouse.
-    *   **[KO]** **Shoot**: `Left Mouse Button`.
-    *   **[KO]** **Jump**: `Space Bar`.
-    *   **[KO]** **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
-*   **[KO]** **Mobile:**
-    *   **[KO]** **Movement**: Virtual joystick on the left side of the screen.
-    *   **[KO]** **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
-
+* **모바일 버전**  
+    - **이동**: 화면 왼쪽의 가상 조이스틱  
+    - **조준/공격**: 화면 오른쪽에 있는 버튼들로 조준, 사격, 점프, 특수 스킬 등을
+    사용합니다. 게임에 따라 스킬 버튼 구성은 조금씩 달라질 수 있습니다.
 

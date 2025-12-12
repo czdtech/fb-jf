@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: cuphead
-title: '[ZH TRANSLATION NEEDED] Cuphead'
+title: "Cuphead 茶杯头"
 description: >-
-  [ZH TRANSLATION NEEDED] Cuphead is a fast‑paced run‑and‑gun: master precise
-  jumps, dashes, and boss patterns to survive intense fights.
+  《Cuphead 茶杯头》是一款节奏极快的横版跑枪游戏，你需要掌握精准跳跃、冲刺与 Boss
+  攻击模式，在高强度战斗中存活下来。
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/cuphead.jpg
 tags:
@@ -18,54 +18,80 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] Cuphead is a classic run-and-gun action game heavily focused on boss battles. Visually and audibly, it is meticulously designed in the style of 1930s cartoons, featuring hand-drawn cel animation, watercolor backgrounds, and a live jazz soundtrack.
+《Cuphead 茶杯头》是一款以 Boss 战为核心的复古横版跑枪动作游戏。它在视觉与音效上全面
+致敬 20 世纪 30 年代的美式动画风格：手绘赛璐璐帧动画、水彩背景以及全程现场录制的爵士配
+乐，让整款游戏看起来像一部可以亲自操控的老动画片。
 
-[ZH TRANSLATION NEEDED] The game's narrative follows Cuphead and his brother Mugman, who, after losing a bet with the Devil, are tasked with collecting the "soul contracts" from the Devil's other runaway debtors. These debtors manifest as the game's diverse and challenging bosses.
+故事讲述 Cuphead 和弟弟 Mugman 在赌博时与恶魔打赌失败，被迫替恶魔去收回其他欠债者的“灵
+魂契约”。这些欠债者就化身为游戏中风格各异、难度极高的 Boss。 
 
-[ZH TRANSLATION NEEDED] Gameplay is split into two main types of levels:
-1.  **Boss Battles**: The core of the game. These are multi-phase encounters against large, creative enemies, each with a unique set of attack patterns that must be memorized and overcome.
-2.  **Run & Gun Levels**: More traditional side-scrolling platforming stages where players must navigate through hordes of smaller enemies to reach the end. These levels are the primary source of coins, which are used to purchase new weapons and charms.
+游戏关卡主要分为两种：
+1.  **Boss 战关卡：** 游戏的绝对主菜。每个 Boss 都分为多个阶段，每一阶段都有独特的攻击
+    模式，需要你反复尝试、记忆并找出应对节奏。 
+2.  **Run & Gun 跑枪关卡：** 更传统的横版平台关卡，你将一边移动一边击退大量杂兵，闯到终
+    点。这些关卡是获取金币的主要来源，金币可用于购买新武器与护符。 
 
-[ZH TRANSLATION NEEDED] The game is renowned for its high difficulty, demanding precise timing, quick reflexes, and a trial-and-error approach to learning enemy patterns.
+《茶杯头》以高难度著称，对玩家的反应、节奏感和对模式的记忆要求极高，通常需要多次死亡
+、不断试错才能掌握每个 Boss 的所有招式。 
 
 ### **Gameplay Strategy & Tips**
 
-1.  **Pattern Recognition is Everything**: This is not a game about brute force. Every boss has a set of predictable attack patterns for each of its phases. Your goal is to die, learn the pattern, and try again. Focus on dodging first and attacking second.
-2.  **Master the Parry Slap**: This is the single most important mechanic. Any object that is **pink** can be parried. To parry, jump and then press the jump button again while in contact with the pink object. A successful parry will fill your Super Meter, and it is sometimes necessary for platforming or avoiding certain attacks.
-3.  **Use Your Arsenal Wisely**:
-     *   **EX Moves**: Each weapon has a powerful "EX" version that costs one Super Meter card. These deal significant damage and are great for finishing a difficult boss phase quickly.
-     *   **Super Arts**: Your ultimate moves, unlocked at Mausoleum levels. They can grant temporary invincibility or unleash a massive attack. Save them for the most chaotic final phases of a boss fight.
-     *   **Weapons and Charms**: Don't stick with the default weapon. Use the coins from Run & Gun levels to buy new ones. The **Spread** shot is excellent for close-range damage, while the **Chaser** is great for when you need to focus entirely on dodging. For charms, the **Smoke Bomb** (which makes your dash invincible) is widely considered the best for beginners.
-4.  **Don't Get Greedy**: A common mistake is trying to squeeze in one extra shot when you should be dodging. It is always better to avoid taking damage than to deal a little bit more. Stay patient and wait for safe openings to attack.
-5.  **Use the Lock Button**: The "Lock" button allows you to stand in place and aim in 8 directions. This is crucial for hitting bosses or weak points that are not directly in front of you, all while you focus on dodging projectiles.
-6.  **Co-op Can Be a Blessing and a Curse**: In two-player mode, you can revive your partner with a parry slap on their ghost. However, bosses have increased health, and the screen becomes much more chaotic. Communication is essential for success.
+1.  **模式识别是全部的核心：** 这款游戏几乎不是靠“硬刚”过去的，每个 Boss 在每一阶段的攻
+    击都是有规律的。你的目标是：死亡 → 观察模式 → 再试 → 逐步掌握节奏。优先保证“先躲
+    后打”，不要一味贪输出。
+2.  **熟练掌握 Parry 拍击：** 这是最关键的进阶机制。凡是**粉色**物体都可以 Parry。操作是
+    ：起跳后，在接触粉色物体的瞬间再次按跳跃键，如果成功就能消除该物体或借此二段起跳
+    ，并填充 Super 能量槽。某些关卡甚至需要 Parry 才能完成平台跳跃或躲避攻击。
+3.  **善用武器库与必杀技：** 
+    *   **EX 技能：** 每种武器都有消耗一格 Super 卡的 EX 技，伤害高且常用于快速推进某个
+        Boss 阶段。 
+    *   **Super Arts（必杀技）：** 通过陵墓（Mausoleum）关解锁的“终极技”，可以获得短时间
+        无敌或释放大范围攻击。建议留在 Boss 最混乱的终阶段使用。 
+    *   **武器与护符：** 别一直用默认武器。用 Run & Gun 关卡获得的金币在商店里购买新武
+        器。比如 **Spread** 近身伤害极高，**Chaser** 可以自动追踪，适合专心躲弹时使用；护
+        符中 **Smoke Bomb**（无敌冲刺）对新手几乎是“必带”。
+4.  **不要贪刀：** 很多失败并不是因为不会躲，而是因为想多打两枪。在你应该闪避的节奏里硬
+    要多输出一点，往往会付出掉血的代价。记住：在这款游戏里，保命永远优先于多打那一格
+    血。
+5.  **充分利用 Lock 键：** Lock 键可以让角色原地不动，只转动方向射击（八方向）。在需要
+    对付非正前方弱点或抬头打飞行 Boss 时，这个功能可以显著减轻走位压力。
+6.  **双人合作既是加成也是混乱源：** 双人模式中，你可以在队友阵亡时通过 Parry 他们的魂
+    灵把人救回来，这非常强。但 Boss 生命会变厚，屏幕上的子弹和特效也会翻倍，视觉负担
+    更重。如果要双人通关，一定要事先沟通好站位与职责分工。 
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The controls are responsive and precise. Below are the default keyboard controls.
+以下为常见键盘默认操作，具体可在游戏内设置查看：
 
-*   **Move**: `Arrow Keys` or `W, A, S, D`
-*   **Jump**: `Z` or `Space Bar`
-*   **Shoot**: `X` or `Left Ctrl`
-*   **Dash / Dodge**: `Left Shift`
-*   **Lock (Hold to stay in place)**: `V` or `Right Ctrl`
-*   **Switch Weapon**: `C` or `Tab`
-*   **EX Move / Super Art (when meter is full)**: `E` or `Q`
+*   **移动：** `方向键` 或 `W、A、S、D` 
+*   **跳跃：** `Z` 或 `Space` 
+*   **射击：** `X` 或 `左 Ctrl` 
+*   **冲刺/闪避：** `Left Shift` 
+*   **锁定站位（原地瞄准）：** `V` 或 `右 Ctrl` 
+*   **切换武器：** `C` 或 `Tab` 
+*   **EX 技 / Super Art（能量槽满时）：** `E` 或 `Q` 
 
 ### **Frequently Asked Questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. Is this game really as hard as people say?**
-[ZH TRANSLATION NEEDED] Yes. Cuphead is a deliberately challenging game that harks back to the difficulty of classic arcade games. It requires patience and a willingness to learn from your mistakes. It is tough but fair.
+**1. 游戏真的有那么难吗？**  
+确实偏难。《茶杯头》刻意致敬老式街机游戏的高难度设计，需要大量练习与耐心，多次失败本
+身就是设计的一部分。但整体仍属“难但公平”，只要愿意学习模式，大多数 Boss 都能被稳定
+击败。  
 
-[ZH TRANSLATION NEEDED] **2. What is the best weapon and charm setup?**
-[ZH TRANSLATION NEEDED] There is no single "best" setup, as it often depends on the boss. However, a highly effective and popular combination for beginners is the **Spread** shot (for high damage up close) and the **Chaser** shot (for when dodging is the priority), combined with the **Smoke Bomb** charm.
+**2. 有没有“一套最强”的武器+护符组合？**  
+没有绝对通吃全局的配置，不同 Boss 适合不同搭配。不过对新手来说，常见的高容错组合是：
+近距离用 **Spread** 打高伤，安全需求高时用 **Chaser** 边躲边磨血，护符则优先解锁并长
+期佩戴 **Smoke Bomb**。  
 
-[ZH TRANSLATION NEEDED] **3. How do I get Super Arts?**
-[ZH TRANSLATION NEEDED] You unlock Super Arts by completing the Mausoleum levels. In these levels, you must parry a series of pink ghosts to save an urn. There are three Mausoleums in total, each rewarding one Super Art.
+**3. Super Arts 怎么获得？**  
+通过完成地图上的陵墓（Mausoleum）关卡来解锁。在这些关卡中，你需要不断 Parry 粉色幽灵
+保护祭坛上的罐子。总共有三个陵墓，对应三个不同的 Super Art。  
 
-[ZH TRANSLATION NEEDED] **4. What is the point of the Run & Gun levels?**
-[ZH TRANSLATION NEEDED] Their primary purpose is to provide you with **coins**. You need these coins to buy essential weapons and charms from the shop (Porkrind's Emporium), which are critical for defeating the bosses.
+**4. Run & Gun 关卡的意义是什么？**  
+主要用途是刷金币。通关 Run & Gun 关卡可以获得金币，用于在 Porkrind 商店里购买新的武器
+和护符，这些装备对后续 Boss 战的难度影响非常大。  
 
-[ZH TRANSLATION NEEDED] **5. Is two-player co-op easier?**
-[ZH TRANSLATION NEEDED] It depends on the players. The ability to revive a fallen partner is a huge advantage. However, bosses have more health, and with two characters and double the projectiles on screen, it can become visually overwhelming. It can be easier if you have good coordination with your partner.
-
+**5. 双人合作模式会不会更简单？**  
+要看你和队友的配合。能互相 Parry 复活队友确实是巨大优势，但 Boss 血量会显著增加，而且
+屏幕变得更加混乱。如果两人沟通良好、分工明确（例如一人偏输出、一人偏躲避与救援），整
+体体验会相对轻松；否则可能反而更乱。  

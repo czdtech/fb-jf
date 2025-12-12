@@ -1,13 +1,9 @@
 ---
 locale: zh
 urlstr: pokemon-emerald
-title: '[ZH TRANSLATION NEEDED] Pokemon Emerald'
+title: "《Pokemon Emerald》宝可梦 绿宝石"
 description: >-
-  [ZH TRANSLATION NEEDED] Pokemon Emerald is a role-playing video game in the
-  Pokémon series, where players embark on an adventure in the Hoenn region,
-  catching and training Pokémon, battling trainers, and challenging Gym Leaders
-  to become the Champion, while also dealing with the conflict between Team
-  Magma and Team Aqua.
+  《Pokemon Emerald》是宝可梦系列中以丰缘地区为舞台的角色扮演游戏，你将捕捉与培养宝可梦、挑战道馆馆主与四天王，并阻止熔岩队与海洋队搅乱世界秩序，最终登上宝可梦联盟冠军之位。
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/pokemon-emerald.jpg
 tags:
@@ -20,32 +16,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Pokemon Emerald" is a role-playing video game in the Pokémon series where players embark on an adventure in the Hoenn region. The main goal is to catch and train Pokémon, battle various trainers, challenge Gym Leaders, and ultimately become the Pokémon League Champion. Concurrently, players will be drawn into the conflict between the villainous organizations "Team Magma" and "Team Aqua," attempting to stop their plans to reshape the world.
+《Pokemon Emerald》（宝可梦 绿宝石）是经典 GBA 时代的正统续作之一，故事舞台位于丰缘地区。你将从新手训练家出发，一边在地图各地捕捉、培养宝可梦，一边与路上的训练家对战、挑战道馆馆主，逐步收集徽章、登上宝可梦联盟的巅峰。同时，你也会卷入反派组织“熔岩队”和“海洋队”之间的冲突，阻止他们利用固拉多、盖欧卡等传说宝可梦改写世界格局。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Catch Pokémon**: Encounter wild Pokémon in tall grass, water bodies, caves, etc., weaken them, and then catch them with Poké Balls.
-2.  **Train Pokémon**: Gain experience points through battles to level up and enhance Pokémon's abilities, teaching them new moves.
-3.  **Challenge Gyms**: Defeat Gym Leaders in various locations to earn badges, a necessary path to becoming the League Champion.
-4.  **Explore the World**: Explore the vast world of the Hoenn region, discovering new locations, items, and Pokémon.
-5.  **Strategic Team Building**: Assemble a balanced and strategic team based on Pokémon's types, abilities, and moves.
+1.  **捕捉多样化宝可梦：** 在长草、水域、洞窟等区域遇到野生宝可梦时，先将其体力削弱，再使用精灵球捕捉。尽量组建属性多样的队伍，以应对不同道馆与敌人。
+2.  **通过对战进行培养：** 通过与野生宝可梦或训练家战斗获得经验值，让队伍升级并学会更强的招式。适时使用技能机器、学习装置等道具，优化队伍技能配置。
+3.  **挑战道馆获得徽章：** 丰缘地区共有多位道馆馆主，每位馆主偏好不同属性（如岩石、水、电等）。提前了解对手属性，调整队伍及技能，是拿下徽章的关键。
+4.  **探索丰缘各地：** 多与 NPC 对话、探索支线区域可以获得稀有道具、技能机器甚至特殊宝可梦，也能解锁更多游戏内容。
+5.  **构建有策略的队伍：** 根据属性克制关系（如水克火、火克草等）、特性与招式搭配，构建一支攻守平衡、覆盖面广的六人队伍，为挑战四天王和传说宝可梦做准备。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Use arrow keys to control character movement.
-*   **A Button (Confirm/Talk)**: Talk to NPCs, select menu options, confirm battle commands.
-*   **B Button (Cancel/Run)**: Cancel menu selections, hold B button in some areas to run (requires running shoes).
-*   **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save game, etc.
-*   **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
+*   **移动：** 使用方向键控制主角在地图上的移动。  
+*   **确认 / 对话（A 键）：** 与 NPC 交谈、确认菜单选项、在战斗中选择指令。  
+*   **取消 / 奔跑（B 键）：** 取消当前选择；获得跑鞋后长按 B 可以加速移动（部分区域可用）。  
+*   **打开菜单（Start 键）：** 进入主菜单，查看宝可梦、道具、存档等。  
+*   **注册道具快捷键（Select 键）：** 可将常用道具注册为快捷使用。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Which Legendary Pokémon can be caught in "Pokemon Emerald"?**
-     **A**: In "Emerald," players can catch Legendary Pokémon such as Kyogre, Groudon, and Rayquaza.
-2.  [ZH TRANSLATION NEEDED] **Q: Which starter Pokémon should I choose at the beginning of the game?**
-     **A**: The starter Pokémon are Treecko (Grass type), Torchic (Fire type), and Mudkip (Water type). The choice depends on the player's preference and strategy, with Mudkip often considered an easier choice for beginners.
-3.  [ZH TRANSLATION NEEDED] **Q: How do I evolve Pokémon?**
-     **A**: Pokémon typically evolve by leveling up, using Evolution Stones, or through trade communication.
-4.  [ZH TRANSLATION NEEDED] **Q: What are the special battle facilities in the game?**
-     **A**: "Emerald" introduced the "Battle Frontier," a large endgame challenge area with multiple facilities offering diverse battle experiences.
+### 常见问题（FAQ）
+
+1.  **问：在《绿宝石》中可以捕捉哪些传说宝可梦？**
+    **答：** 除了固拉多和盖欧卡之外，《绿宝石》中还可以捕捉天空之神烈空坐等多只传说宝可梦，条件通常与主线进度或特定事件相关。
+2.  **问：开局推荐选哪只御三家？**
+    **答：** 御三家分别是木守宫（草）、火稚鸡（火）和水躍鱼（水）。整体来说，水躍鱼进化路线属性非常全面，被很多玩家认为是新手相对轻松的选择；当然也可以根据个人喜好选用其他。
+3.  **问：宝可梦如何进化？**
+    **答：** 大部分宝可梦通过升级达到指定等级就能进化，部分需要使用进化石、携带特定道具通信交换或在特定环境/亲密度条件下才能进化。
+4.  **问：本作有什么特别的终局内容？**
+    **答：** 《绿宝石》新增了著名的“对战开拓区（Battle Frontier）”，里面包含多种特殊规则的对战设施，是通关后深度挑战和刷队伍配置的绝佳场所。

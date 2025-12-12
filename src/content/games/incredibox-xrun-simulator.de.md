@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: incredibox-xrun-simulator
-title: '[DE] Incredibox Xrun simulator'
+title: Incredibox Xrun Simulator
 description: >-
-  [DE] Explore 'Incredibox Xrun Simulator,' the high-energy fan-made mod. This
-  guide details its EDM and dubstep theme, grid-based gameplay, and provides
-  tips for creating intense electronic mixes and loops.
+  Incredibox Xrun Simulator ist ein energiegeladener EDM-/Dubstep-Fan-Mod mit
+  Raster-Interface: Baue druckvolle elektronische Loops aus Drums, Bässen,
+  Risern und Leads.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
 thumbnail: /new-images/incredibox-xrun-simulator.png
 tags:
@@ -17,48 +17,55 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+*Incredibox Xrun Simulator* gehört zur **„Simulator“-Reihe** und setzt auf ein
+futuristisches Design mit Fokus auf **EDM, Dubstep und Trap**. Anstelle von
+Figuren steuerst du ein Grid aus 20 Icons, mit denen du intensive
+Elektronik-Loops baust.
 
-### **Incredibox Xrun Simulator Game Introduction**
+### Strategie & Tipps
 
-*Incredibox Xrun Simulator* is a dynamic and high-energy fan-made game belonging to the "Simulator" series of Incredibox mods. This version stands out with its futuristic aesthetic and a sound palette heavily inspired by modern **electronic dance music (EDM), dubstep, and trap**.
+1.  **EDM-Grid verstehen**  
+    *   **Drums/Percussion:** Kicks, Snares, Hi-Hats als treibendes Fundament.  
+    *   **Bass:** Tiefe, drückende Basslinien und Wobble-Sounds.  
+    *   **FX/Riser:** Steigende Effekte, Sweeps und Atmos für Build-ups.  
+    *   **Synth/Leads:** Haupt-Hooks, Dubstep-Wobbles, Vocal-Chops.
 
-The gameplay departs from the official Incredibox series, utilizing the signature **grid-based interface** of the Simulator mods. Instead of dragging icons onto characters, players are presented with a grid of 20 sound icons. The objective is to create an intense musical loop by clicking these icons to activate or deactivate them.
+2.  **Beat zuerst, dann Bass**  
+    Aktiviere zunächst Kick/Snare-Pattern, ergänze danach eine Bassline, die
+    rhythmisch dazu passt.
 
-As players layer more sounds, a progress bar at the top of the screen fills up, guiding them towards discovering the mod's hidden audio-visual bonuses. The experience is less about individual performers and more about the direct, hands-on creation of a complex electronic beat.
+3.  **Build-up & Drop simulieren**  
+    Nutze Riser-Icons für Spannung und schalte zum „Drop“ starke Bass- und
+    Lead-Sounds dazu, indem du Icons gezielt ein- und ausschaltest.
 
-### **Gameplay Strategy & Tips**
+4.  **Dichte vs. Klarheit austarieren**  
+    Viele Icons gleichzeitig sorgen für massiven Sound, aber nutze manche FX
+    besser sparsam als Akzente.
 
-1.  **[DE]** **Understand the EDM Sound Grid**: The 20 icons represent all the core elements of an electronic track.
-    *   **[DE]** **Drums/Percussion**: Look for icons that provide the driving beat—kick drums, snares, and hi-hats. These are the foundation.
-    *   **[DE]** **Bass**: Find the deep, heavy basslines. In EDM, the relationship between the kick drum and the bass is crucial.
-    *   **[DE]** **Effects/Risers**: These icons provide atmospheric sounds, risers (sounds that build in pitch and intensity), and other effects that create tension and release.
-    *   **[DE]** **Synths/Leads**: These are the main melodic hooks. They can be aggressive "wobble" basses from dubstep, catchy synth melodies, or vocal chops.
+### Steuerung
 
-2.  **[DE]** **Build the Beat, Then the Bass**: A classic production technique is to start with your drums. Activate a kick and snare pattern first. Then, add a powerful bassline that complements the rhythm.
+- **Sound an/aus:** Auf ein Icon im Raster klicken, um es zu aktivieren oder zu
+  deaktivieren.  
+- **Kombinieren:** Mehrere Icons gleichzeitig aktivieren, um komplexe Patterns
+  zu erzeugen.  
+- **Hauptsteuerung (oben):** Play/Pause, Record und Reset bedienen Loop,
 
-3.  **[DE]** **Create a Build-Up and Drop**: The essence of EDM is the energy shift. Use riser effects and filter sweeps to build tension. Then, unleash your main synth lead or a heavy bassline to create a satisfying "drop." You can simulate this by activating and deactivating different icons in sequence.
+- **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
 
-4.  **[DE]** **Experiment with Layers**: Don't be afraid to click many icons at once. The beauty of the simulator format is the ability to create dense, complex soundscapes. However, also learn which sounds are best used sparingly to punctuate the track.
+    - **Record Button**: Starts and stops the recording of your mix.
 
-### **Controls Guide**
+    - **Play/Pause Button**: Toggles the entire loop on or off.
 
-This mod uses the simple, click-based interface of the Simulator series.
+    - **Main Controls (Top of Screen)**:
+  Aufnahme und Zurücksetzen des Grids.
 
-*   **[DE]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will light up, adding its sound to the loop. Clicking it again will turn it off.
-*   **[DE]** **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
-*   **[DE]** **Main Controls (Top of Screen)**:
-    *   **[DE]** **Play/Pause Button**: Toggles the entire loop on or off.
-    *   **[DE]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[DE]** **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+### FAQ
 
-### **Frequently Asked Questions (FAQ)**
-
-**1. Why does this look and play differently from the main games?**
-
-This is the signature style of the "Simulator" mods. The grid-based interface is a creative choice by modders to offer a more direct and layered approach to music creation, which is particularly well-suited for electronic music genres.**
-
-**2. Where can I play this mod?**
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
-
+- **F: Warum wirkt das anders als die Hauptspiele?**  
+  **A:** Die Simulator-Mods nutzen bewusst ein Grid, um elektronische Musik mit
+  vielen gleichzeitig laufenden Spuren direkter steuern zu können.  
+- **F: Wo spiele ich den Mod?**  
+  **A:** Meist über Modding-Seiten oder Links aus YouTube-Videos, die auf
+  Browser-Versionen verweisen.

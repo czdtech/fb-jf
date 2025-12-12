@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fancy-pants
-title: '[ZH TRANSLATION NEEDED] Fancy Pants'
+title: "Fancy Pants 手繪疾走平台 1 代"
 description: >-
-  [ZH TRANSLATION NEEDED] Stylish stick‑figure platformer: fast momentum,
-  wall‑jumps, and flowy parkour across hand‑drawn levels and secret rooms.
+  《Fancy Pants》是一款風格鮮明的火柴人平台遊戲，
+  透過高速慣性、牆跳與流暢跑酷，在手繪關卡與隱藏房間間穿梭。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/fancy-pants.jpg
@@ -18,26 +18,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Hand‑drawn platforming focused on momentum and flow: build speed on slopes, wall‑jump, and discover secret areas and collectibles.
+
+《Fancy Pants》以手繪風平台動作為主軸，重點是「速度感」與「流暢度」。你要在各種坡道、
+牆面與平台之間堆疊慣性，連續跳躍與牆跑，同時發現藏在角落的秘密區域與收集品。
 
 ### How to Play
-- Keep momentum by timing jumps at slope exits.
-- Use wall‑runs and slides to chain movement.
-- Explore side paths for trophies and hidden rooms.
+
+- 善用斜坡末端的高度，在坡底或坡頂時精準按下跳躍鍵，把慣性轉成更遠的飛躍距離。
+- 利用牆跑與下滑動作，把不同平台銜接起來，形成一條不中斷的動作路線。
+- 多走走支線道路，常常能發現獎盃、隱藏房間或通往捷徑的秘密通道。
 
 ### Controls
-- Arrows/WASD: move/jump; S/Down to slide; Up to open doors (host dependent).
+
+- 方向鍵或 WASD 操控移動與跳躍。
+- S 鍵或向下鍵在斜坡上滑行，或在特定地形上做下蹲動作。
+- 向上鍵用來開門或進入特定房間（依託管版本略有差異）。
 
 ### Tips
-- Don’t mash jump—press at lip/edge for max carry.
-- Slides into jumps preserve speed better than flat starts.
-- Revisit earlier levels with better mastery to reach secrets.
+
+- 不要狂按跳躍鍵，試著在平台邊緣（lip/edge）稍微等一下再起跳，可以獲得最長的跳躍距離。
+- 先滑行再接跳躍，比從平地原地起跳更容易保持速度與穩定節奏。
+- 當你熟悉操作之後，回到前面的關卡，常會發現原本到不了的高台與隱藏區域。
 
 ### FAQ
-- Q: Is there combat?  
-[ZH TRANSLATION NEEDED]   A: Light—mainly stomps or simple swipes in some versions.
-- Q: Are there time trials?  
-[ZH TRANSLATION NEEDED]   A: Many releases feature speed‑run or challenge rooms.
-- Q: Can I change pants colors?  
-[ZH TRANSLATION NEEDED]   A: Some versions unlock cosmetics.
 
+- 問：遊戲裡有戰鬥要素嗎？  
+  答：有，但比重很輕，大多是踩頭或簡單揮擊，主角仍然以跑酷動作為核心。
+
+- 問：有速通或計時模式嗎？  
+  答：許多版本都提供計時挑戰或特別關卡，讓喜歡追求極限速度的玩家刷紀錄。
+
+- 問：褲子顏色可以更換嗎？  
+  答：部分版本支援解鎖不同顏色或外觀的褲子，作為收集與成就獎勵。

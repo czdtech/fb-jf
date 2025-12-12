@@ -1,62 +1,38 @@
 ---
+title: "Fluffy Mania"
+description: "Fluffy Maniaは、キュートなフラッフィたちをつなげて消し、連鎖を起こしてハイスコアを目指す、居心地の良いマッチ＆クリアパズルです。"
+iframeSrc: "https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/"
+thumbnail: "/new-images/fluffy-mania.png"
+urlstr: "fluffy-mania"
+score: "4.0/5  (1729 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: fluffy-mania
-title: '[JA TRANSLATION NEEDED] Fluffy Mania'
-description: >-
-  [JA TRANSLATION NEEDED] Fluffy Mania is a cozy match‑and‑clear puzzler —
-  connect cute fluffies, trigger cascades, and chase high scores.
-iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
-thumbnail: /new-images/fluffy-mania.png
-tags:
-  - puzzle
-  - casual
-score: 4.0/5  (1729 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Fluffy Maniaは、カラフルでリラックスできるコネクトパズルです。隣り合った同じ色のフラッフィ（ふわふわした生き物）をつなげて消し、連鎖反応を起こして、スコア目標、手数制限、特定のタイル消去などのステージ目標を達成しましょう。
 
-[JA TRANSLATION NEEDED] Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑color fluffies to clear them, set up chain reactions, and complete stage goals like score targets, limited moves, or special tile clears.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **四角形を作る**: ループや四角形を作れるルールの場合、通常はその色のフラッフィがすべて消え、非常に大きな効果があります。
+2.  **長いチェーンを温存**: 大きなグループを序盤で無駄使いせず、厳しい目標を達成するために取っておきましょう。
+3.  **下から消す**: 下の方で消すと、上から自然な連鎖（カスケード）が発生しやすくなります。
+4.  **2手先を読む**: 進行を妨げるような孤立したタイルを作らないようにしましょう。
+5.  **パワーアップ**: 一度に複数の目標を達成できるタイミングで使用しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Make squares: If rules allow loops/squares, they usually clear all of that color—huge value.
-[JA TRANSLATION NEEDED] 2.  Save long chains: Don’t waste large groups early; use them to finish strict goals.
-[JA TRANSLATION NEEDED] 3.  Work from bottom: Bottom clears create natural cascades above.
-[JA TRANSLATION NEEDED] 4.  Think two moves ahead: Avoid isolating single tiles that clog progress.
-[JA TRANSLATION NEEDED] 5.  Power‑ups: Trigger them when they open multiple goals at once.
+### 操作ガイド
 
-### Controls Guide
+- **つなげる**: 同じ色の隣り合うフラッフィをクリック/タップしてドラッグし、つなげます。
+- **アンドゥ/リトライ（ある場合）**: 手数制限のあるステージでは慎重に使いましょう。
 
-- Connect: Click/tap and drag through same‑color neighbors.
-- Undo/Retry (if available): Use with care on limited‑move stages.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
-- Do loops matter? If enabled, loops are extremely strong—prioritize them.
-- Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
-
-
-
-
-
-
-
-
-
-- Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
-- Do loops matter? If enabled, loops are extremely strong—prioritize them.
-- Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
-### よくある質問（FAQ）
-- Undo/Retry (if available): Use with care on limited‑move stages.
-- Connect: Click/tap and drag through same‑color neighbors.
-### コントロールガイド
-
-
-
-
-- Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
-- Do loops matter? If enabled, loops are extremely strong—prioritize them.
-- Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
+- **Q: 残り1手で行き詰まりました。どうすればいいですか？**
+  A: 下の方で消して、連鎖が起きないか探してみましょう。
+- **Q: ループは重要ですか？**
+  A: 有効な場合、ループは非常に強力なので優先して狙いましょう。
+- **Q: 時間制限と手数制限の違いは？**
+  A: プレイスタイルを変えましょう。時間制限ならスピード、手数制限なら効率を重視してください。

@@ -1,8 +1,11 @@
 ---
 locale: es
 urlstr: sprunki-meets-the-cat-spell
-title: '[ES] Sprunki Meets The Cat Spell - Play Sprunki Meets The Cat Spell Online'
-description: '[ES] This mod is a reworked version of an existing mod titled'
+title: 'Sprunki Meets The Cat Spell - Juega a Sprunki Meets The Cat Spell online'
+description: >-
+  Este mod es una versión rehecha de «Sprunki Cats Game»: convierte a los
+  personajes de Sprunki en adorables avatares gatunos y te deja crear mezclas
+  musicales llenas de maullidos y estilo felino.
 iframeSrc: 'https://turbowarp.org/1149710266/embed'
 thumbnail: /sprunki-meets-the-cat-spell.png
 tags:
@@ -12,20 +15,37 @@ score: 4.8/5  (649 votes)
 ---
 
 
+### Presentación de Sprunki Meets The Cat Spell
 
-### Introducing to Sprunki Meets The Cat Spell
+Este mod es una versión revisada de un mod ya existente llamado «Sprunki Cats
+Game».
 
-This mod is a reworked version of an existing mod titled "Sprunki Cats Game."
+### Cómo se juega a Sprunki Meets The Cat Spell
 
-### How to Play Sprunki Meets The Cat Spell?
+Sprunki Cats Mod toma la jugabilidad de Incredibox Sprunki que todos conocen y
+la lleva a un terreno adorable al rediseñar a todos los personajes con orejas
+de gato y estética felina. El mod introduce 20 personajes Sprunki con temática
+de gato, cada uno con sonidos, voces, efectos y ritmos propios para tus
+  creaciones musicales. Con siete avatares que puedes personalizar, podrás
+  sustituirlos por tus Sprunki gatunos favoritos y conseguir una mezcla perfecta
+  de música y ternura que atrapará a jugadores de todas las edades.
 
-The Sprunki Cats Mod takes the beloved Incredibox Sprunki gameplay and adds a charming twist by reimagining all characters with cat ears and a general feline design. This mod introduces 20 cat-themed Sprunki characters, each bringing their own unique sounds, vocals, effects, and beats to your musical creations. With seven avatars to customize, you can replace them with your favorite cat Sprunki characters, creating a harmonious blend of music and cuteness that is sure to captivate players of all ages. 🐾🎨🎶
+La jugabilidad es muy sencilla; puedes empezar en unos pocos pasos:
 
-The gameplay is very simple, you can get started in a few steps:
-
-- **Select Characters:** You’ll see a lineup of unique, animated characters inspired by the Sprunki theme. Each character represents a specific sound category.
-- **Drag and Drop Sounds:** Using your mouse, drag sound icons from the bottom or side of the screen and drop them onto the characters. Each icon activates a sound loop that the character will perform.
-- **Layer Your Mix:** Add multiple characters to the stage, combining their sounds to build a layered musical track. You can have up to several characters active at once, depending on the mod’s design.
-- **Experiment and Adjust:** Remove or swap sounds by dragging icons off characters or replacing them with new ones. Listen to how the layers interact and tweak them to create a cohesive mix.
-- **Unlock Bonuses (Optional):** Certain sound combinations may trigger special animations or bonus tracks—experiment to discover these hidden features.
-- **Save and Share:** Once satisfied with your mix, use the game’s save or share feature to record your creation or share it with others.
+- **Seleccionar personajes:** verás una fila de personajes animados inspirados
+  en el universo Sprunki. Cada uno representa una categoría concreta de sonido.
+- **Arrastrar y soltar sonidos:** usando el ratón, arrastra iconos de sonido
+  desde la parte inferior o lateral de la pantalla y suéltalos sobre los
+  personajes. Cada icono activa un bucle que ese personaje interpretará.
+- **Construir tu mezcla:** añade varios personajes al escenario combinando sus
+  sonidos para crear una pista por capas. Según el diseño del mod, puedes tener
+  varios personajes activos al mismo tiempo.
+- **Probar y ajustar:** quita o cambia sonidos arrastrando los iconos fuera de
+  los personajes o sustituyéndolos por otros. Escucha cómo encajan las capas y
+  retoca la mezcla hasta que todo suene coherente.
+- **Desbloquear bonus (opcional):** ciertas combinaciones de sonidos activan
+  animaciones especiales o pistas extra; experimenta para descubrir estos
+  secretos.
+- **Guardar y compartir:** cuando estés satisfecho con tu mezcla, utiliza las
+  opciones de guardado o compartido para conservar tu creación o enseñársela a
+  otras personas.

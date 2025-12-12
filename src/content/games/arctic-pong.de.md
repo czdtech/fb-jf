@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: arctic-pong
-title: '[DE] Arctic Pong'
+title: "Arctic Pong"
 description: >-
-  [DE] Arctic Pong is a frosty paddle duel — angle returns, control pace, and
-  outscore your opponent.
+  Arctic Pong ist eine frostige Pong‑Variante. Lenke deinen Schläger, platziere
+  den Puck clever in die Ecken und überliste deinen Gegner mit Winkelwechseln.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/arctic-pong.png
 tags:
@@ -15,29 +15,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Arctic Pong ist eine einfache, aber spaßige Neuinterpretation des
+Klassikers Pong im eisigen Setting. Du steuerst einen Schläger und versuchst,
+mit ihm den Puck zurückzuspielen, ohne ein Tor zu kassieren. Über präzise
+Bewegungen und clevere Winkeländerungen baust du Druck auf deinen Gegner auf
+und erzielst Punkte.
 
+### Strategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Auf die Ecken zielen:** Triff den Puck möglichst nahe an den Rändern
+    deines Schlägers, um den Abprallwinkel zu verändern und den Gegner aus der
+    Position zu bringen.
+2.  **Tempo variieren:** Wechsle zwischen sanften Rückgaben und schnellen
+    Schüssen. Unerwartete Tempowechsel führen häufiger zu Fehlreaktionen.
+3.  **Zur Mitte zurückkehren:** Nach jedem Schlag solltest du deinen Schläger
+    wieder grob in die Bildschirmmitte bringen, um beide Seiten gut abdecken zu
+    können.
+4.  **Abpraller lesen:** Beobachte, wie der Puck von den Wänden abprallt, und
+    bewege dich frühzeitig an die richtige Stelle, statt nur zu reagieren.
+5.  **Aufschläge nutzen:** Nutze deine eigenen Aufschläge, um sofort Druck
+    aufzubauen – etwa mit einem gezielten Schuss auf die Ecke oder in eine
+    schwer erreichbare Zone.
 
-Arctic Pong is a simple, chilly spin on classic Pong. Move your paddle to return the puck, angle shots off edges, and pressure your opponent with pace and placement.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Schläger bewegen:** Bewege ihn mit den Pfeiltasten, WASD oder per Drag
+  (je nach Version), um den Puck zu treffen.
+- **Spielmodi:** Viele Ausgaben bieten einen lokalen 2‑Spieler‑Modus sowie
+  Duelle gegen die KI.
 
-1.  **[DE]** Aim corners: Strike near paddle edges to change return angles.
-2.  **[DE]** Mix speeds: Soft touches then fast drives can bait whiffs.
-3.  **[DE]** Center recover: Return to center after each hit to cover both sides.
-4.  **[DE]** Read bounces: Predict wall angles to pre‑position earlier.
-5.  **[DE]** Serve control: Use serves to set early pressure.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Gibt es Effet/Spin?**  
+  Manche Versionen simulieren Spin grob über die Kontaktstelle auf dem
+  Schläger, aber komplexe Drehphysik gibt es in der Regel nicht.
 
-- Move paddle: Arrow keys / WASD or drag.
-- Modes: Local 2‑player and solo vs. AI are common.
+- **Was ist die beste Verteidigungsstrategie?**  
+  Bleib möglichst in der Mitte, halte den Schläger ruhig und reagiere früh auf
+  Abpraller von den Seitenwänden.
 
-### Frequently Asked Questions (FAQ)
-
-- Is there spin? Some versions approximate angle via contact point; no complex spin.
-- Best defense? Stay centered and react to edge bounces.
-- Quick wins? Vary angles and tempo to force mistakes.
-
+- **Wie gewinne ich schnell?**  
+  Variiere Winkel und Tempo deiner Schläge, ziele auf die Ecken und nutze
+  Überraschungsmomente, um den Gegner zu Fehlern zu zwingen.

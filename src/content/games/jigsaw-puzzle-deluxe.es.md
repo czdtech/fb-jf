@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: jigsaw-puzzle-deluxe
-title: '[ES] Jigsaw Puzzle Deluxe'
+title: Jigsaw Puzzle Deluxe
 description: >-
-  [ES] The classic jigsaw puzzle experience. Choose from a huge library of
-  beautiful images and piece them together. With multiple difficulty levels,
-  it's perfect for both beginners and experts.
+  La experiencia clásica del rompecabezas. Elige entre una enorme biblioteca de
+  imágenes preciosas y complétalas pieza a pieza. Con varios niveles de
+  dificultad, es perfecto tanto para principiantes como para expertos.
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
 thumbnail: /new-images/jigsaw-puzzle-deluxe.png
 tags:
@@ -18,34 +18,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Jigsaw Puzzle Deluxe lleva a la pantalla la clásica y relajante actividad de
+hacer rompecabezas. Incluye una amplia colección de imágenes de alta calidad en
+múltiples categorías. Eliges la ilustración que más te guste y el nivel de
+ dificultad, que determina el número de piezas. El objetivo es reunir todas las
+piezas dispersas para reconstruir la imagen original.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Jigsaw Puzzle Deluxe brings the timeless and relaxing activity of solving jigsaw puzzles to your screen. The game offers a vast collection of beautiful, high-quality images across various categories. Players can choose their preferred picture and select a difficulty level, which determines how many pieces the puzzle is divided into. The goal is to correctly assemble all the scattered pieces to recreate the original image.
+1.  **Empieza por el marco:** la estrategia de toda la vida: busca primero las
+    esquinas y las piezas de borde. Montar el marco te proporciona un espacio de
+    trabajo claro.
+2.  **Agrupa por color y patrón:** una vez tengas el borde, observa las piezas
+    restantes. Júntalas en grupos por colores dominantes o patrones (cielo,
+    hierba, edificio, etc.).
+3.  **Trabaja por secciones:** en lugar de colocar piezas al azar, céntrate en
+    completar una zona concreta de la imagen (por ejemplo, un personaje o un
+    objeto llamativo).
+4.  **Usa la vista previa:** si te quedas atascado o no recuerdas bien el
+    resultado final, utiliza el botón de "Preview" o "Hint" para ver la imagen
+    completa a modo de referencia.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Build the Frame First:** A classic and highly effective jigsaw strategy is to start by finding all the edge and corner pieces. Assembling the border of the puzzle first provides a clear frame within which you can work.
-2.  **[ES]** **Sort by Color and Pattern:** Once the frame is built, look at the remaining pieces. Sort them into groups based on their dominant colors or distinct patterns. If the picture has a blue sky, gather all the blue pieces together.
-3.  **[ES]** **Focus on a Section:** Instead of trying to place pieces randomly, focus on completing one specific area of the picture at a time. For example, try to assemble a single object or building within the image.
-4.  **[ES]** **Use the Preview:** If you get stuck or forget what the final image looks like, use the "Preview" or "Hint" button to get a quick look at the completed picture for reference.
+El control es de arrastrar y soltar.
 
-### Controls Guide
+*   **Mover una pieza:** haz clic y mantén pulsado sobre una pieza y arrástrala
+    hasta el lugar deseado, luego suéltala.
+*   **Rotar (si el modo lo permite):** en algunos modos avanzados las piezas
+    vienen rotadas; suele haber un botón o tecla para girar la pieza
+    seleccionada.
 
-The game is played with simple drag-and-drop controls.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Move a Piece:** Click and hold on a puzzle piece and drag it to the desired position on the board. Release to drop it into place.
-*   **[ES]** **Rotate a Piece (if applicable):** Some difficulty modes may include rotated pieces. There will typically be a button or keyboard key to rotate a selected piece.
+*   **P: ¿Cómo elijo un puzle?**
+    *   **R:** Puedes recorrer la galería del juego y hacer clic en la imagen
+        que te interese. Después eliges la dificultad (número de piezas) y
+        empiezas.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la mejor forma de empezar?**
+    *   **R:** Lo más común es encontrar todas las piezas con borde plano y
+        montar el marco primero. Te deja un área de trabajo definida para el
+        resto del puzle.
 
-*   **[ES]** **Q: How do I choose a puzzle?**
-    *   **[ES]** **A:** You can browse the in-game gallery and click on any image you find interesting. After selecting an image, you will usually be prompted to choose a difficulty level (number of pieces).
-
-*   **[ES]** **Q: What is the best way to start a puzzle?**
-    *   **[ES]** **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.
-
-*   **[ES]** **Q: The pieces are all jumbled up. How can I organize them?**
-    *   **[ES]** **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.
-
+*   **P: Las piezas están muy desordenadas, ¿cómo las organizo?**
+    *   **R:** Arrastra las piezas para crear espacio y agrúpalas por colores o
+        texturas similares. Así te será más fácil localizar la pieza que buscas.

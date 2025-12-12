@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: kitty-scramble
-title: '[ZH TRANSLATION NEEDED] Kitty Scramble'
-description: >-
-  [ZH TRANSLATION NEEDED] Kitty Scramble is a cozy word‑hunt — swipe across
-  letter grids, find themed words, and clear boards with pattern recognition.
+title: 《Kitty Scramble》喵喵找单词
+description: 《Kitty Scramble》是一款温馨的英文单词寻字游戏，在各类主题字母盘中滑动连线，找出指定单词并用模式识别清空棋盘。
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/kitty-scramble.png
 tags:
@@ -17,32 +15,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Kitty Scramble presents themed letter grids (animals, foods, places). Swipe contiguous letters in any direction to form target words; extra words grant coins. Boards escalate with longer words, diagonal paths, and overlapping targets that require flexible pathing and good vocabulary.
+《Kitty Scramble》会根据不同主题生成字母网格，例如动物、食物、地名等。你需要在这些字母格上滑动，按照正确顺序连接相邻字母，拼出目标单词；额外找到的非目标单词也会被记录并奖励金币。随着关卡推进，字母网格会变得更大，单词更长，路径可能包含对角线和交叉重叠，需要更灵活的走线和更扎实的词汇量。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Theme scan: Pre‑list likely words from the theme before swiping.
-2.  [ZH TRANSLATION NEEDED] Pattern anchors: Look for repeated bigrams/trigrams (TH, ING, EST) to seed paths.
-3.  [ZH TRANSLATION NEEDED] Overlaps: When a word blocks another, find an alternate route using diagonals.
-4.  [ZH TRANSLATION NEEDED] Bonus economy: Bank extra words early to save hints for late boards.
-5.  [ZH TRANSLATION NEEDED] Systematic sweep: Scan rows then columns to avoid misses.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **先从主题联想可能单词**：在动手滑字母前，根据关卡主题先在脑中列出可能出现的单词，这样在看到部分字母组合时会更快反应过来。  
+2.  **利用常见字母组合作“锚点”**：像 TH、ING、EST 等高频英文字母组合可以作为起点或中转站，从这些组合向前后扩展更容易找出完整单词。  
+3.  **处理单词重叠时找替代路径**：当一个单词的路径挡住了另外一个单词的最佳路线时，可以尝试通过对角线或折线绕过，只要字母在网格中是连续相邻的（包括斜向），都可以进行连线。  
+4.  **合理利用多余单词赚取金币**：在前期难度较低的关卡里，多试着找一些额外单词积累金币，好在后期高难度棋盘中有足够提示可用。  
+5.  **扫格子时有体系地检查**：养成“先逐行、再逐列”的扫描习惯，避免漏掉明显的单词线索。  
 
-- Drag across letters to form words; release to submit; use hints sparingly.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 用鼠标或手指按住单词的首字母，沿着正确顺序滑动经过其余字母，松手即可提交单词；提示按钮可在关键时刻显示一个字母或完整单词，建议少量使用。  
 
-- Q: I see the word but can’t draw it — why?
-  
-[ZH TRANSLATION NEEDED]   A: The letters may not be contiguous; route diagonally or in a zig‑zag where allowed.
+### 常见问题（FAQ）
 
-- Q: Are plurals allowed?
-  
-[ZH TRANSLATION NEEDED]   A: Usually yes unless excluded by the list.
+*   **Q: 明明看出单词却线画不过去，怎么回事？**  
 
-- Q: Can I replay for coins?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — farm early boards for extra hints.
+A: The letters may not be contiguous; route diagonally or in a zig‑zag where allowed.
+- **A:** 很可能是字母虽然在同一行/列上，但之间隔了不相邻的格子。你需要按照实际网格中的相邻顺序走，可以利用对角线或折线，只要路径上每一格都相邻即可。  
 
+
+A: Usually yes unless excluded by the list.
+*   **Q: 复数形式算不算有效单词？**  
+
+A: Yes — farm early boards for extra hints.
+    *   **A:** 大部分关卡会把常见复数视为有效答案，除非关卡单词表中明确排除，具体可根据提示和过关情况来判断。  
+
+*   **Q: 可以反复刷前面关卡拿金币吗？**  
+    *   **A:** 通常可以。你可以在熟悉的早期关卡中多刷几次，攒够金币和提示，再去挑战后面较难的大字母盘。

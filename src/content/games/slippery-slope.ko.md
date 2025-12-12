@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: slippery-slope
-title: '[KO] Slippery Slope'
+title: "Slippery Slope 슬리퍼리 슬로프"
 description: >-
-  [KO] Slippery Slope is a thrilling skiing or sliding game where players
-  navigate down treacherous mountain slopes, avoiding obstacles and maintaining
-  control while racing against time in challenging downhill courses.
+  가파른 설산을 내려오는 스키/슬라이딩 레이싱 게임입니다. 장애물을
+  피하며 속도와 안전 사이에서 균형을 잡고, 제한 시간 안에 코스를
+  완주해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
 thumbnail: /new-images/slippery-slope.jpg
@@ -19,34 +19,69 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Slippery Slope*는 눈 덮인 산을 내려오며 장애물을 피해 나가는 다운힐
+레이싱 게임입니다. 플레이어는 스키어 혹은 슬라이더를 조종해
+위험한 산길을 내려오면서, 나무·바위·점프대 등을 피해 최대한 빠르게
+골 지점에 도달해야 합니다.
 
-### Game Introduction
+빠른 속도와 정교한 방향 조작이 요구되어, 작은 실수 하나가
+넘어짐으로 이어질 수 있습니다.
 
-"Slippery Slope" is a thrilling skiing or sliding game where players navigate down treacherous mountain slopes, avoiding obstacles and maintaining control while racing against time in challenging downhill courses. The game is famous for its fast-paced action and gameplay requiring precise control.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **속도 조절 연습하기**  
+   무조건 빠르게 내려오기보다는, 커브와 장애물 구간에서는 속도를
+   줄이고 직선 구간에서만 속도를 올리는 식으로 안전과 기록 사이의
+   균형을 잡는 것이 좋습니다.
 
-1.  **[KO]** **Speed Control**: Learn to slow down or accelerate when needed, finding balance between safety and speed.
-2.  **[KO]** **Anticipate Obstacles**: Observe obstacles and paths ahead early, adjusting direction in time.
-3.  **[KO]** **Turning Techniques**: Master smooth turning techniques to avoid losing control or hitting obstacles.
-4.  **[KO]** **Utilize Terrain**: Make good use of slopes and terrain changes to gain extra speed or better control.
-5.  **[KO]** **Risk Assessment**: Judge when to risk taking shortcuts and when to choose safe routes.
+2. **먼저 앞길을 보고 장애물 예측하기**  
+   발밑만 보지 말고 시선을 조금 더 먼 곳에 두고, 나무나 바위,
+   낭떠러지 등을 미리 확인해 미리 진로를 조정하세요.
 
-### How to Play
+3. **부드러운 턴 연습하기**  
+   급하게 방향을 꺾으면 마찰이 줄어 미끄러지거나, 벽에 부딪힐 수
+   있습니다. 짧고 부드러운 입력으로 S자 턴을 그리듯 이동하는 것이
+   제어에 유리합니다.
 
-*   **[KO]** **Steering**: Use left/right arrow keys or A/D keys to control sliding direction.
-*   **[KO]** **Acceleration/Deceleration**: Some versions may have acceleration or braking controls.
-*   **[KO]** **Jump**: Use spacebar or up arrow key to jump (if supported).
-*   **[KO]** **Balance**: Maintain character balance, avoiding falls or loss of control.
+4. **지형 변화 활용하기**  
+   경사가 완만해지는 구간에서는 자연스럽게 속도가 줄어들고, 급경사
+   구간에서는 속도가 크게 붙습니다. 지형을 이용해 별도의 감속
+   없이도 속도를 조절해 보세요.
 
-### Frequently Asked Questions
+5. **지름길과 리스크를 함께 고려하기**  
+   일부 코스에는 빠르지만 위험한 지름길이 존재합니다. 실수 시
+   손해가 크므로, 자신의 실력과 남은 시간에 따라 안전 루트와
+   지름길 중 어느 쪽을 선택할지 판단해야 합니다.
 
-1.  **[KO]** **Q: How do I maintain control at high speeds?**
-**A**: Plan your path in advance, use small directional adjustments rather than sharp turns, and stay calm.
-2.  **[KO]** **Q: What happens if I hit obstacles?**
-**A**: Hitting obstacles will slow you down, lose points, or cause game over, depending on game settings.
-3.  **[KO]** **Q: Are there different slopes in the game?**
-**A**: Typically includes multiple slopes with different difficulties and designs, each with unique challenges.
-4.  **[KO]** **Q: How can I achieve higher scores?**
-**A**: By completing quickly, avoiding collisions, collecting reward items, and performing special trick moves to improve scores.
+### 조작 가이드
+
+- **조향**: 좌/우 방향키 또는 `A/D` 키로 슬라이딩 방향을 조절합니다.  
+- **가속/감속(지원되는 경우)**: 일부 버전에서는 별도의 가속·브레이크
+  키를 통해 속도를 조절할 수 있습니다.  
+- **점프(지원되는 경우)**: 스페이스바나 위쪽 방향키로 점프해 점프대나
+  장애물을 넘을 수 있습니다.  
+- **밸런스 유지**: 급커브나 점프 후 착지 시, 방향 입력을 과하게 하지
+  말고 균형을 잡는 데 집중하세요.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 고속 구간에서 제어가 너무 어렵습니다.**  
+   **A:** 코너 진입 전에 미리 속도를 줄이고, 작은 각도로 여러 번
+   나눠 조향해 보세요. 한 번에 크게 꺾으면 미끄러지기 쉽습니다.
+
+2. **Q: 장애물에 부딪히면 어떻게 되나요?**  
+   **A:** 설정에 따라 속도가 크게 감소하거나, 쓰러져 시간을 잃거나,
+   즉시 실패 처리될 수 있습니다. 최대한 미리 경로를 보고 피하는
+   습관을 들이세요.
+
+3. **Q: 코스가 여러 개 있나요?**  
+   **A:** 보통 난이도와 구조가 다른 여러 슬로프가 준비되어 있으며,
+   각 코스마다 점프대나 장애물 배치가 달라 새로운 공략을
+   요구합니다.
+
+4. **Q: 고득점을 얻으려면 무엇이 중요할까요?**  
+   **A:** 빠른 클리어 타임과 최소한의 충돌, 보너스 아이템 수집이
+   핵심입니다. 기본 라인을 안전하게 탈 수 있게 된 뒤, 조금씩
+   지름길과 점프 트릭을 섞어 기록을 단축해 보세요.

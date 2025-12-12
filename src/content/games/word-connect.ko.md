@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: word-connect
-title: '[KO] Word Connect'
+title: "Word Connect 워드 커넥트"
 description: >-
-  [KO] Connect letters and expand your vocabulary in Word Connect, an addictive
-  word puzzle game! Swipe to form words from a circular set of letters and fill
-  in the crossword-style blanks. Discover bonus words, use hints, and challenge
-  yourself across thousands of levels in this relaxing brain-teaser.
+  원형으로 배치된 알파벳을 이어 단어를 만드는 퍼즐 게임입니다. 문자를 스와이프해 영어 단어를
+  완성하고, 십자말풀이처럼 배열된 빈칸을 모두 채우며 어휘력을 키워 보세요.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/word-connect.jpg
 tags:
@@ -18,35 +16,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+Word Connect는 원 모양으로 배열된 알파벳들을 이어 단어를 만들어, 위쪽의 십자말풀이 형태 빈칸을
+채워 나가는 단어 퍼즐 게임입니다. 단어를 찾을 때마다 빈칸이 하나씩 채워지며, 퍼즐을 모두 완성하면
+다음 단계로 진행할 수 있습니다. 간단한 규칙으로 즐기면서도 자연스럽게 영어 어휘력을 늘릴 수 있습니다.
 
-Word Connect is a popular and relaxing word puzzle game that challenges players to form words by connecting letters. Typically, a set of letters is arranged in a circular pattern, and players swipe their finger (or mouse) across them to spell out words. The goal is to find all the hidden words that fit into a crossword-style grid above.
+### 게임 플레이 가이드
 
-### Gameplay Guide
+- **단어 만들기**: 화면 아래 원형 배열에 있는 알파벳들을 손가락이나 마우스로 연속해서 이어 단어를
+  만듭니다. 손을 떼면 단어가 제출됩니다.
+- **목표**: 위쪽 격자에 표시된 모든 단어 칸을 꽉 채우는 것이 목표입니다. 정답 단어를 맞히면 해당
+  위치에 자동으로 채워집니다.
+- **보너스 단어**: 퍼즐 정답에는 없지만 유효한 단어를 찾으면 보너스 코인을 받을 수 있습니다.
+- **셔플 기능**: 막혔을 때는 셔플 버튼을 눌러 알파벳 배열을 섞어 보세요. 같은 글자라도 순서가
+  바뀌면 새로운 단어 패턴이 눈에 들어올 수 있습니다.
+- **힌트 사용**: 동전으로 힌트를 구매하면, 특정 단어의 일부 글자를 미리 공개해 퍼즐을 풀기 쉽게
+  도와줍니다.
 
-- **Forming Words:** Swipe your finger from one letter to the next in the circular arrangement to spell a word. Release to submit.
-- **Objective:** Fill in all the blank spaces in the crossword grid by finding the correct words.
-- **Bonus Words:** Find words that are not part of the main puzzle to earn extra coins.
-- **Shuffling:** Use the shuffle button to rearrange the letters, which can help you see new word combinations.
-- **Hints:** Use coins to get hints that reveal a letter in a word if you get stuck.
+### 조작 방법 안내
 
-### Controls Guide
+- **스와이프/드래그**: 모바일에서는 손가락으로, PC에서는 마우스로 알파벳을 순서대로 드래그해 단어를
+  완성합니다.
+- **클릭**: 셔플, 힌트 등 버튼을 클릭해 보조 기능을 사용할 수 있습니다.
 
-- **Swipe/Drag:** Use your finger (on mobile) or mouse (on PC) to drag across the letters to form words.
-- **Click:** Click on the shuffle or hint buttons.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Q. 동전은 어떻게 모으나요?**  
+A. 퍼즐을 클리어하거나 보너스 단어를 찾으면 동전을 얻을 수 있습니다. 일부 버전에서는 일일
+미션이나 광고 시청으로 추가 동전을 지급하기도 합니다.
 
-**How do I earn coins?**
+**Q. 시간 제한이 있나요?**  
+A. 대부분의 Word Connect 모드는 시간 제한 없이 진행되어, 천천히 생각하며 플레이할 수 있습니다.
 
-You earn coins by solving puzzles, finding bonus words, and often through daily challenges or watching ads. Coins can be used to purchase hints.
-
-**Is there a time limit?**
-
-Most versions of Word Connect do not have a time limit, allowing players to solve puzzles at their own pace.
-
-**What makes a word valid?**
-
-Words must be at least three letters long and must be valid English words found in the game's dictionary.
-
+**Q. 어떤 단어가 유효한 단어로 인정되나요?**  
+A. 보통 3글자 이상의 영어 단어만 인정되며, 게임 내 사전에 등록된 일반 명사와 동사 등이 기준이
+됩니다. 약어, 고유명사 등은 인정되지 않는 경우가 많습니다.

@@ -1,12 +1,8 @@
 ---
 locale: de
 urlstr: word-scramble
-title: '[DE] Word Scramble'
-description: >-
-  [DE] Unscramble letters and challenge your mind in Word Scramble, a classic
-  word puzzle game! Rearrange jumbled letters to form the correct word within a
-  time limit. Test your vocabulary and quick thinking across various levels and
-  categories in this engaging brain-teaser.
+title: "Word Scramble"
+description: "Bringe durcheinandergewürfelte Buchstaben in die richtige Reihenfolge: In Word Scramble musst du das gesuchte Wort so schnell wie möglich aus einem Buchstabenmix zusammensetzen." 
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/word-scramble.jpg
 tags:
@@ -17,37 +13,31 @@ score: 3.5/5  (764 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Word Scramble ist ein klassisches Wortpuzzle, bei dem dir ein durcheinandergeratener Buchstabensatz präsentiert wird. Aus diesen Buchstaben musst du das ursprüngliche, sinnvolle Wort rekonstruieren. Das fordert Wortschatz, Mustererkennung und schnelles Kombinieren – je nach Modus auch unter Zeitdruck.
 
-### Game Introduction
+### Spielanleitung
 
-Word Scramble is a classic and engaging word puzzle game that challenges players to rearrange a set of jumbled letters to form a meaningful word. It's a test of vocabulary, pattern recognition, and quick thinking. The game often features various difficulty levels and categories, keeping the gameplay fresh and challenging.
+- **Ziel:** Finde aus den gemischten Buchstaben das richtige Wort.
+- **Buchstaben:** Alle angezeigten Buchstaben gehören zu genau einem Wort (Anagramm).
+- **Zeitlimit:** Viele Varianten arbeiten mit einem Timer – je schneller du löst, desto besser deine Wertung.
+- **Hinweise:** Wenn du feststeckst, können Hinweise z. B. einen Buchstaben verraten oder eine kurze Definition des gesuchten Wortes einblenden.
+- **Punkte:** Für jede richtige Lösung gibt es Punkte, für besonders schnelle oder viele richtige Antworten meist Bonus.
 
-### Gameplay Guide
+### Steuerung
 
-- **Objective:** The main goal is to correctly identify the original word from a given set of scrambled letters.
-- **Letters:** You will be presented with a set of letters that are an anagram of a single word.
-- **Time Limit:** Many versions include a time limit, adding pressure and testing your speed.
-- **Hints:** If you get stuck, hints might be available, such as revealing a letter or providing a definition.
-- **Scoring:** Points are typically awarded for correct answers, with bonuses for faster solutions.
+- **Tippen:** Gib das gesuchte Wort über die Tastatur ein.
+- **Buchstaben anordnen:** In manchen Versionen kannst du Buchstaben per Klick und Drag neu anordnen oder per „Shuffle“-Button durchmischen.
+- **Bestätigen:** Drücke `Enter`, um dein Wort einzureichen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- **Typing:** Use your keyboard to type the word you believe is correct.
-- **Rearrange Letters:** Some versions allow you to click and drag letters to rearrange them visually, or have a "shuffle" button.
-- **Submit:** Press `Enter` to submit your answer.
+**Wie spielt man Word Scramble genau?**  
+Du bekommst eine Reihe Buchstaben, die ein Anagramm bilden. Deine Aufgabe ist es, das passende englische Wort daraus zu bilden.
 
-### Frequently Asked Questions (FAQ)
+**Was, wenn mir kein Wort einfällt?**  
+Nutze Shuffle, um die Buchstaben neu zu sortieren, oder greife auf Hinweise bzw. Überspringen‑Funktionen zurück, sofern vorhanden.
 
-**How do I play Word Scramble?**
-
-You are given a set of jumbled letters. Your task is to rearrange these letters to form a valid English word.
-
-**What if I can't find the word?**
-
-Most games offer hints or a "pass" option. You can also try shuffling the letters to get a new perspective.
-
-**Are there different types of Word Scramble games?**
-
-Yes, variations include games with different word lengths, categories (e.g., animals, countries), or competitive multiplayer modes where players race to solve the scramble first.
-
+**Gibt es verschiedene Varianten?**  
+Ja, z. B. mit längeren Wörtern, thematischen Kategorien (Tiere, Länder usw.) oder Mehrspielermodi, in denen ihr gegeneinander um die schnellste Lösung antretet.

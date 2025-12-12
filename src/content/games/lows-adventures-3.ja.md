@@ -1,42 +1,36 @@
 ---
+title: "Low's Adventures 3"
+description: "レトロプラットフォーマートリロジーエントリー：より厳しいジャンプ、新しいギミックブロック、コンパクトなステージでより多くの秘密。"
+iframeSrc: "https://previews.customer.envatousercontent.com/files/480663659/index.html"
+thumbnail: "/new-images/lows-adventures-3.jpg"
+urlstr: "lows-adventures-3"
+score: "4.1/5  (570 votes)"
+tags: ["platformer", "adventure"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: lows-adventures-3
-title: '[JA TRANSLATION NEEDED] Low''s Adventures 3'
-description: >-
-  [JA TRANSLATION NEEDED] Retro platformer trilogy entry: tighter jumps, new
-  gimmick blocks, and more secrets across compact stages.
-iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
-thumbnail: /new-images/lows-adventures-3.jpg
-tags:
-  - platformer
-  - adventure
-score: 4.1/5  (570 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+第3作は、よりトリッキーなタイミングウィンドウ、移動する障害物、追加のシークレットルートでプラットフォーミングをシャープにします。スイッチパズル、隠されたキー、慎重な探索と効率的なルーティングを報う画面外の通路を期待してください。
 
+### 遊び方
+- 最初にメイン出口をクリアし、次に秘密とタイムメダルのために戻ります。
+- より長いジャンプをセットアップするために移動プラットフォームを使用します。
+- バックトラッキングを避けるために、どのキーがどのドアを開くかを追跡します。
 
-### Overview
-[JA TRANSLATION NEEDED] The third entry sharpens platforming with trickier timing windows, moving hazards, and additional secret routes. Expect switch puzzles, hidden keys, and off‑screen passages that reward careful exploration and efficient routing.
+### 操作方法
+- 矢印/WASDで移動/ジャンプ。ホストごとに攻撃/インタラクト。
 
-### How to Play
-- Clear main exits first, then return for secrets and time medals.
-- Use moving platforms to set up longer jumps.
-- Track which keys open which doors to avoid backtracking.
+### ヒント
+- 移動する障害物で忍耐強くいてください。1つのサイクルを逃すことは死よりもコストが少ないです。
+- タイマーをリスクしない場合にのみ、コイン/アイテムをルート化します。
+- 隠されたエリアを示唆するオーディオキューを聞きます。
 
-### Controls
-- Arrows/WASD move/jump; attack/interact per host.
-
-### Tips
-- Stay patient on moving hazards—missing one cycle costs less than a death.
-- Route coins/items only if they don’t risk the timer.
-- Listen for audio cues hinting at hidden areas.
-
-### FAQ
-- Q: How do I find hidden exits in this game?  
-[JA TRANSLATION NEEDED]   A: Check ceilings, false walls, and off‑screen ledges; look for slight tile seams.
-- Q: Are there difficulty spikes compared to part 2?  
-[JA TRANSLATION NEEDED]   A: Jumps are tighter and hazards denser; practice specific rooms.
-- Q: Can I replay levels quickly for medals?  
-[JA TRANSLATION NEEDED]   A: Yes—menus often support fast restarts for routing attempts.
-
+### よくある質問 (FAQ)
+- **Q: このゲームで隠し出口を見つけるにはどうすればよいですか？**  
+  A: 天井、偽の壁、画面外のレッジを確認します。わずかなタイルの継ぎ目を探します。
+- **Q: パート2と比較して難易度スパイクはありますか？**  
+  A: ジャンプがより厳しく、障害物がより密集しています。特定の部屋を練習します。
+- **Q: メダルのためにレベルを素早くリプレイできますか？**  
+  A: はい。メニューは多くの場合、ルーティング試行のための高速再起動をサポートします。

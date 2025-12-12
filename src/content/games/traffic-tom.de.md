@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: traffic-tom
-title: '[DE] Traffic Tom'
+title: Traffic Tom
 description: >-
-  [DE] Join Tom on a thrilling motorbike adventure! Weave through heavy traffic,
-  dodge cars, complete missions, and upgrade your bike to become the king of the
-  road.
+  Begleite Tom auf einem Motorrad‑Abenteuer durch dichten Verkehr: Schlängle
+  dich durch Autos, erfülle Missionen und tune dein Bike, bis du zum König der
+  Straße wirst.
 iframeSrc: >-
   https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
 thumbnail: /new-images/traffic-tom.jpg
@@ -17,33 +17,42 @@ score: 4.3/5  (2400 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
+
+Traffic Tom ist ein schnelles Motorrad‑Rennspiel aus der Third‑Person‑Perspektive. Als Kater Tom fährst du über vollgestopfte Highways, weichst Autos und Bussen aus und erfüllst Missionsziele, um Münzen zu verdienen. Mit deinem Verdienst verbesserst du dein aktuelles Bike oder kaufst neue Maschinen, um dich Stück für Stück zum König der Straße hochzuarbeiten.
+
+### Spielstrategie & Walkthrough
+
+1. **Weit nach vorn schauen:** Konzentrier dich nicht nur auf das Fahrzeug direkt vor dir, sondern lies das Verkehrsmuster weit auf der Straße. So hast du genug Zeit für sichere Spurwechsel.
+2. **Missionsziele priorisieren:** Überleben ist wichtig, aber Level schaltest du über Missionsziele frei – etwa eine bestimmte Anzahl Überholmanöver, Strecke oder eingesammelte Objekte. Richte deine Fahrweise danach aus.
+3. **Knapp vorbeischrammen:** Viele Varianten belohnen „Near Misses“. Wenn du sicher knapp an Autos vorbeifährst, bekommst du Bonuspunkte oder lädst einen Nitro‑Boost auf.
+4. **Bike upgraden:** Investiere deine Münzen in Geschwindigkeit, Handling und Bremsen. Ein gut aufgerüstetes Motorrad macht dichten Verkehr deutlich verzeihender.
+
+### Steuerung
+
+- **Nach links lenken:** `A` oder `Pfeil nach links`.
+- **Nach rechts lenken:** `D` oder `Pfeil nach rechts`.
+- Weitere Aktionen wie Bremsen oder Nitro hängen von der jeweiligen Version ab und werden meist per UI oder zusätzlicher Taste ausgelöst.
+
+### Häufige Fragen (FAQ)
 
 
+- **A:** Besides upgrading your bike's top speed, some levels may feature boost pads on the road that give you a temporary burst of speed when you drive over them.
 
-### Detailed Game Introduction
+    - **Q: Is there a way to go faster?**
 
-Traffic Tom is a fast-paced, third-person motorbike racing game that puts you in the middle of a bustling highway. As the adventurous cat, Tom, your goal is to skillfully weave through dense traffic, dodge cars and buses, and complete challenging missions to earn coins. Use your earnings to upgrade your current bike or save up to buy new, more powerful motorcycles on your quest to become the king of the road.
+- **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
 
-### Gameplay Strategy & Walkthrough
+    - **Q: How do I get a new motorcycle?**
 
-1.  **[DE]** **Look Ahead:** The key to survival is anticipation. Don't just look at the car directly in front of you; scan far down the road to see traffic patterns forming. This will give you plenty of time to switch lanes safely.
-2.  **[DE]** **Focus on Missions:** While surviving is important, completing the missions for each level is how you progress. Pay attention to whether your goal is to overtake a certain number of cars, travel a specific distance, or collect items.
-3.  **[DE]** **Close Calls for More Points:** Many driving games reward you for near misses. Safely overtaking a car very closely might give you bonus points or charge up a nitro boost.
-4.  **[DE]** **Upgrade Your Ride:** Don't hesitate to spend your coins in the garage. Upgrading your bike's speed, handling, and braking will make it much easier to navigate the increasingly heavy traffic in later levels.
+- **A:** Your run will end, and you will have to restart the level from the beginning.
 
-### Controls Guide
+    - **Q: What happens if I crash into another vehicle?**
+**Was passiert bei einem Crash?**  
+Du prallst gegen ein Fahrzeug oder Hindernis, dein Run ist sofort beendet und du musst das Level neu starten.
 
-*   **[DE]** **Steer Left:** Press the **A** key or the **Left Arrow** key.
-*   **[DE]** **Steer Right:** Press the **D** key or the **Right Arrow** key.
+**Wie bekomme ich neue Motorräder?**  
+Im In‑Game‑Shop kannst du mit erspielten Münzen neue Bikes freischalten oder dein aktuelles Modell aufrüsten.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What happens if I crash into another vehicle?**
-    *   **[DE]** **A:** Your run will end, and you will have to restart the level from the beginning.
-
-*   **[DE]** **Q: How do I get a new motorcycle?**
-    *   **[DE]** **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
-
-*   **[DE]** **Q: Is there a way to go faster?**
-    *   **[DE]** **A:** Besides upgrading your bike's top speed, some levels may feature boost pads on the road that give you a temporary burst of speed when you drive over them.
-
+**Kann ich schneller fahren?**  
+Ja – durch Upgrades am Bike und gelegentliche Boost‑Felder oder Nitro‑Funktionen, die dir kurzfristig einen Geschwindigkeitsschub geben.

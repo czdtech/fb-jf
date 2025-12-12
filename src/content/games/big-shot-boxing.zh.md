@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: big-shot-boxing
-title: '[ZH TRANSLATION NEEDED] Big Shot Boxing'
+title: "Big Shot Boxing 拳击争霸"
 description: >-
-  [ZH TRANSLATION NEEDED] Become a boxing legend in Big Shot Boxing! Train your
-  fighter, climb the ranks from street fights to world championships, and master
-  simple-but-deep controls in this retro-style arcade boxing game.
+  在《Big Shot Boxing 拳击争霸》中，从无名小拳手一路打上世界冠军擂台，合理训练属性、研究对手打法，利用
+  简洁却富有深度的操作系统赢下每一场比赛。
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/big-shot-boxing.jpg
 tags:
@@ -17,47 +16,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 游戏介绍
 
+*Big Shot Boxing* 是一款复古像素风的街机拳击游戏，重点在于拳手养成与职业生涯推进。你将从默默无闻的新人做起，一场场从街头赛、低级赛事打到世界冠军战。
 
-### Game Introduction
+每场比赛为你带来奖金和经验，你可以用这些资源来训练拳手的各项属性。随着连胜和排名上升，迎面而来的对手会越来越强，每个人都有不同的速度、力量与抗击打能力，打法特点也各不相同。最终目标是在所有对手中脱颖而出，夺得冠军金腰带。上手门槛不高，但要真正玩得漂亮、稳定 KO 对手，则需要对节奏、防守与反击有深刻理解。
 
-[ZH TRANSLATION NEEDED] Big Shot Boxing is a retro-style arcade boxing game with a career-focused progression system. Players take on the role of an aspiring boxer, starting from the very bottom and fighting their way through the ranks to become the world champion. The game features a charming pixel-art aesthetic reminiscent of classic 8-bit and 16-bit sports titles.
+### 游戏策略
 
-[ZH TRANSLATION NEEDED] The core of the game revolves around managing your boxer's career. This includes participating in fights, earning money, and using that money to train and improve your fighter's attributes. As you win matches, you'll face increasingly difficult opponents, each with their own unique fighting styles and stats. The ultimate goal is to conquer every opponent and claim the championship belt. It's a game that is easy to pick up but offers a satisfying level of challenge to master.
+1.  **沉得住气，防守优先：**  
+    千万不要无脑连按出拳键，那只会快速耗空体力，让自己变成移动沙包。学会用格挡撑过对手一轮拳雨，等对面出完一套、露出空档后，再用干净利落的反击把场面扳回来。
 
-### Gameplay Strategy
+2.  **开打前先研究对手：**  
+    在比赛开始前，你通常可以看到对手的关键属性。如果对手移动慢但拳重，就以速度为主，多用快刺拳得分后拉开距离；如果对手很快但“下巴”（抗击打）比较脆，就重点练好反击时机，用几记重拳或者上勾拳打懵对手。
 
--   **Patience and Defense are Key:** Do not mindlessly spam punches. This will drain your stamina quickly, leaving you vulnerable to counter-attacks. Learn to block effectively and wait for your opponent to finish their combo. This creates an opening for you to strike back.
--   **Study Your Opponent:** Before a match, you can often see your opponent's key stats. If they are slow but powerful, use your speed to land quick jabs and move away. If they are fast but have a weak chin, focus on landing powerful counter-punches. Adapt your strategy for each fight.
--   **Smart Training:**
-     -   **Early Game:** Focus on a balanced approach. Upgrade your Strength, Speed, and Chin stats evenly to build a solid foundation.
-     -   **Mid-Game:** Start specializing. If you prefer a knockout victory, invest heavily in Strength. If you like to win by points with fast combos, focus on Speed. Don't neglect your Chin, as it determines how much damage you can take.
--   **Stamina Management:** Every punch and block consumes stamina. When your stamina is low, your punches are weaker and you are more susceptible to being knocked down. Take short breaks during the fight to recover stamina.
--   **Use the "Big Shot" Wisely:** The "Big Shot" is a powerful special move that can turn the tide of a fight. Don't waste it. The best time to use it is when your opponent is dazed (seeing stars) or low on health to secure a knockdown or knockout.
--   **Grind When Necessary:** If you hit a wall and can't beat a particular opponent, don't be afraid to go back and fight some weaker opponents you've already beaten. This allows you to earn extra cash for training, which can make all the difference.
+3.  **聪明分配训练点数：**  
+    -   **前期：** 建议先走均衡路线，力量（Strength）、速度（Speed）、抗击打（Chin）都略微提升，保证不会被一拳带走。  
+    -   **中期：** 根据个人风格开始专精——喜欢一拳 KO 的重点堆力量；偏向点数取胜、连招打点的则多点速度，但记得别完全放弃抗击打，否则很容易被对手一套带走。
 
-### Controls Guide
+4.  **管理好体力条：**  
+    每一次出拳、格挡都会消耗体力。当体力过低时，不仅拳头威力大减，自身也更容易被击倒。看到体力明显下滑时，可以稍微后撤、防守为主，让角色有时间喘口气。
 
-[ZH TRANSLATION NEEDED] The game uses a simple and intuitive tap-and-swipe control system.
+5.  **慎重使用 “Big Shot” 必杀技：**  
+    “Big Shot” 是可以扭转战局的超级重拳，不要随便乱放。最理想的使用时机是：对手血量已经很低、或被打到头晕冒星星时，用它完成一次击倒甚至直接 KO。
 
--   **Tap Left Side of Screen:** Throw a jab with your left hand.
--   **Tap Right Side of Screen:** Throw a cross/straight punch with your right hand.
- -
--   **Swipe Up:** Perform a powerful uppercut. This is effective for countering or breaking through an opponent's guard but is slower to execute.
--   **Hold/Swipe Down:** Block. Hold your finger on the screen to raise your guard and block incoming punches. This is essential for defense.
--   **"Big Shot" Button:** When your special meter is full, a button will appear on the screen. Tap it to unleash your "Big Shot" signature punch.
+6.  **打不过就回去刷训练：**  
+    如果你在某个强敌身上卡关，不妨回头再打几场已经战胜过的对手，刷一些额外奖金和训练点，再带着更强的属性回到这场硬仗，往往会轻松许多。
 
-### Frequently Asked Questions (FAQ)
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **1. What are the best stats to upgrade first?**
-[ZH TRANSLATION NEEDED] > In the beginning, a balanced approach is best. Distribute your training points evenly across Strength, Speed, and Chin. Once you have a feel for your playstyle, you can start specializing. Strength for KOs, Speed for combos, and Chin for durability.
+游戏一般采用简洁的点击 / 轻扫（Tap & Swipe）操作：
 
-[ZH TRANSLATION NEEDED] **2. How do I beat an opponent who is much faster than me?**
-[ZH TRANSLATION NEEDED] > Focus on defense and counter-punching. Let them waste their stamina trying to hit your block. When they pause, unleash a quick combo of your own. An uppercut can sometimes interrupt their flurry of punches.
+-   **点击屏幕左侧：** 出左刺拳。  
+-   **点击屏幕右侧：** 出右直拳 / 重拳。
 
-[ZH TRANSLATION NEEDED] **3. My punches don't seem to do any damage. Why?**
-[ZH TRANSLATION NEEDED] > This could be due to two reasons: 1) Your Strength stat is too low compared to your opponent's Chin stat. You need to train more. 2) Your stamina is low. Tired fighters throw weak punches. Step back and let your stamina recover.
+（以下是其它高级操作说明：）  
+-   **上划（Swipe Up）：** 施放上勾拳，启动较慢但威力大，适合用来打断对手或终结对方血量。  
+-   **按住 / 下划（Hold / Swipe Down）：** 抬手格挡，减少受到的伤害，是生存的关键动作。  
+-   **“Big Shot” 按钮：** 当必杀计量槽蓄满时，屏幕会出现专门按钮，点击即可释放你的招牌重拳。
 
-[ZH TRANSLATION NEEDED] **4. How does the "Big Shot" meter fill up?**
-[ZH TRANSLATION NEEDED] > The meter fills as you successfully land punches and block incoming attacks. It fills faster with well-timed counters and powerful hits.
+### 常见问题解答（FAQ）
 
+**1. 前期优先该练哪项属性？**  
+一开始最稳妥的是**平均加点**：力量、速度、抗击打三者都提升一点，先保证不会被对手简单压制。熟悉自己打法之后，再决定是往重拳 KO 流（堆力量），还是连击点数流（堆速度），抗击打则始终不能完全放弃。
+
+**2. 对手明显比我快，该怎么打？**  
+以防守与反击为主。让对方主动浪费体力猛攻你的防守，当他出完一套停顿时，立刻以 1～2 记重拳或上勾拳进行惩罚。只要能稳定抓住空档，对手的速度优势就会被持续削弱。
+
+**3. 为什么我感觉打不动对手？**  
+可能有两个原因：  
+1）你的力量属性明显低于对手的抗击打属性，需要多做力量训练；  
+2）你出拳时体力条过低，精疲力竭的拳头本来就很“轻”，建议先后撤防守，等体力恢复再发起进攻。
+
+**4. Big Shot 计量槽是如何积攒的？**  
+计量槽会在你**命中对手**或**成功格挡攻击**时逐渐充能。精准的反击和高质量重拳会让槽条涨得更快，因此越是打得干净利落，你越能更频繁地使用这一必杀技。

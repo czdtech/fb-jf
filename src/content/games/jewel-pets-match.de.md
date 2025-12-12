@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: jewel-pets-match
-title: '[DE] Jewel Pets Match'
+title: Jewel Pets Match
 description: >-
-  [DE] Match cute jewel pets in this fun and colorful match-3 puzzle adventure!
-  Swap the animals to create lines of three or more and complete the goals for
-  each level.
+  Süße Edelstein-Tierchen warten in Jewel Pets Match auf dich. Tausche die
+  kleinen Pets in diesem farbenfrohen Match-3-Abenteuer, bilde Reihen aus drei
+  oder mehr gleichen Figuren und erfülle die Ziele jedes Levels.
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
 thumbnail: /new-images/jewel-pets-match.png
 tags:
@@ -17,38 +17,70 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jewel Pets Match ist ein buntes Match-3-Puzzlespiel voller niedlicher,
+juwelenartiger Tiercharaktere. Auf dem Spielfeld liegen verschiedene Pets, die
+du durch Vertauschen in Reihen aus mindestens drei gleichen Tieren anordnest.
+So räumst du das Board auf, sammelst Punkte und arbeitest an Levelzielen wie
+Mindestpunktzahl, dem Entfernen spezieller Blöcke oder dem Einsammeln bestimmter
+Tierarten – und das alles mit nur begrenzt vielen Zügen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Power-ups erstellen**  
+    Um das Spiel wirklich zu meistern, solltest du gezielt Matches mit mehr als
+    drei Pets suchen:
 
-Jewel Pets Match is a bright and cheerful match-3 puzzle game filled with adorable, jewel-like animal characters. Your goal is to swap these cute pets on the game board to create lines of three or more identical animals. Each level presents a new challenge and a specific objective you must complete, such as reaching a target score or clearing special blocks, all within a limited number of moves.
+    *   **Vierer-Match:** Erzeugt ein Spezialpet, das eine ganze Reihe oder
+        Spalte säubert.
+    *   **Fünfer-Match in L- oder T-Form:** Erzeugt ein Bomben-Pet, das im
+        Umkreis viele Tiere auf einmal entfernt.
+    *   **Fünfer-Match in einer Linie:** Schafft ein Regenbogen-Pet, das alle
+        Tiere einer bestimmten Art vom Spielfeld löscht.
 
-### Gameplay Strategy & Walkthrough
+2.  **Booster kombinieren**  
+    Die stärksten Züge entstehen, wenn du zwei Spezialpets nebeneinander
+    vertauschst. Dadurch entstehen riesige Explosionen oder
+    Reihen-/Spalten-Clears, die große Teile des Spielfelds auf einmal aufräumen.
 
-1.  **[DE]** **Create Power-ups:** To master the game, you need to make matches of more than three pets.
-    *   **[DE]** **Match 4:** Creates a special pet that can clear an entire row or column.
-    *   **[DE]** **Match 5 (L or T shape):** Creates a bomb pet that explodes and clears a block of surrounding pets.
-    *   **[DE]** **Match 5 (in a line):** Creates a rainbow pet that can clear all pets of a single type from the board.
+3.  **Ziele im Auge behalten**  
+    Richte deine Züge immer am Levelziel aus. Musst du beispielsweise Eisklötze
+    zerstören, dann bilde Matches in deren Nähe. Sollst du eine bestimmte
+    Anzahl einer Tierart sammeln, konzentriere dich vor allem auf diese Pets.
 
-2.  **[DE]** **Combine Boosters:** The most powerful moves in the game come from swapping two special pets next to each other. This triggers a massive combo effect that can clear a huge portion of the board at once.
-3.  **[DE]** **Focus on the Objective:** Always keep the level's goal in mind. If you need to break ice blocks, make matches next to them. If you need to collect a certain number of a specific pet, prioritize those matches.
-4.  **[DE]** **Plan Your Swaps:** With a limited number of moves, every action counts. Look for swaps that will create a chain reaction or set up a powerful combo on your next turn.
+4.  **Züge planen**  
+    Da deine Züge begrenzt sind, solltest du jeden Tausch gut überlegen. Suche
+    nach Zügen, die Kettenreaktionen auslösen oder dir im nächsten Zug eine
+    starke Kombo ermöglichen.
 
-### Controls Guide
+### Steuerung
 
-The game is played with simple swap mechanics.
+Das Spiel nutzt einfache Swap-Mechaniken.
 
-*   **[DE]** **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+*   **Pets tauschen:** Klicke ein Tier an und ziehe es auf ein benachbartes,
+    um die Position zu wechseln. Der Tausch wird nur durchgeführt, wenn eine
+    gültige Kombination entsteht.
 
-### Frequently Asked Questions (FAQ)
+### FAQ
 
-*   **[DE]** **Q: How do I get past the locked or caged pets?**
-    *   **[DE]** **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
+*   **F: Wie befreie ich gesperrte oder eingesperrte Pets?**  
+    **A:** Du musst ein Match bilden, an dem das eingesperrte Tier beteiligt
+    ist. Dadurch zerbrichst du den Käfig nach und nach, bis das Pet wieder frei
+    ist.
 
-*   **[DE]** **Q: What is the best power-up to create?**
-    *   **[DE]** **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
+    - **F: Welches Power-up ist am nützlichsten?**  
+    **A:** Das Regenbogen-Pet aus einer Fünfer-Kombo in einer Linie ist sehr
+    mächtig, weil es alle Tiere einer Art entfernt. Am stärksten sind jedoch
+    Kombinationen aus zwei Power-ups, die einen Großteil des Boards auf einmal
+    räumen.
 
-*   **[DE]** **Q: What happens if I run out of moves?**
-    *   **[DE]** **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
+*   **F: Was passiert, wenn ich keine Züge mehr habe?**  
 
+    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
+
+- **Q: What happens if I run out of moves?**
+
+    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
+    **A:** Erreichst du das Levelziel nicht innerhalb der vorgegebenen Züge,
+    verlierst du ein Leben und musst das Level erneut spielen.

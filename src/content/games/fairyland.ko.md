@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: fairyland
-title: '[KO] Fairyland'
+title: "Fairyland 페어리랜드"
 description: >-
-  [KO] Fairyland is a gentle puzzle adventure — explore cozy scenes, solve light
-  puzzles, and complete objectives at a restful pace.
+  아기자기한 동화 풍 장면을 탐험하며 가벼운 퍼즐을 푸는 어드벤처 게임입니다.
+  숨은 물건을 찾고 스위치를 작동시켜 천천히 목표를 완수해 보세요.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/fairyland.png
 tags:
@@ -16,36 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Fairyland는 수집형 과제와 간단한 환경 퍼즐, 아기자기한 장면들로 채워진
+저스트레스 어드벤처 게임입니다. 플레이어는 여러 장면을 돌아다니며 숨겨진
+오브젝트를 찾고, 올바른 순서로 스위치를 작동시키고, 작은 생명체를 목적지까지
+인도하거나, 가끔 등장하는 미니 게임을 해결해 나갑니다. 전투보다는 탐험과
+분위기 감상을 중심으로 구성된 짧은 챕터들이 이어집니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Fairyland is a low‑stress adventure filled with collectible tasks, simple environmental puzzles, and whimsical scenes. You’ll search for hidden objects, activate switches in the right order, escort little critters, and occasionally complete mini‑games. Progress across compact chapters while enjoying exploration rather than combat.
+1. **장면 단위로 차근차근 훑기**  
+   한 화면씩 집중해서 탐색하고, 확대/이동 기능이 있다면 작은 상호작용 물체까지
+   꼼꼼히 살펴보세요.  
+2. **단서 노트 활용하기**  
+   문양 순서, 색상 조합처럼 나중에 쓸 것 같은 단서는 메모하거나 스크린샷으로
+   남겨 두면 퍼즐을 풀 때 도움이 됩니다.  
+3. **선택 과제도 해보기**  
+   꼭 필수는 아니지만, 부가 목표를 달성하면 꾸미기 요소나 힌트를 얻을 수 있는
+   경우가 많습니다. 천천히 즐길 계획이라면 사이드 과제도 함께 진행해 보세요.  
+4. **동선 계획 세우기**  
+   되돌아가야 하는 장면이 있다면, 한 바퀴 돌면서 필요한 물건을 함께 챙기는
+   식으로 루트를 짜면 이동 시간이 줄어듭니다.  
+5. **미니 게임 규칙 먼저 확인하기**  
+   대부분의 미니 게임은 실패 패널티가 거의 없고, 빠르게 재도전할 수 있습니다.
+   시작 전에 간단한 규칙 설명을 한 번 읽고 시도하면 금방 익숙해집니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Sweep methodically: Clear one scene at a time; zoom or pan for small interactables.
-2.  **[KO]** Clue notebooks: Note symbol sequences and color orders for later doors.
-3.  **[KO]** Optional tasks: Complete side objectives to unlock cosmetic rewards/hints.
-4.  **[KO]** Route planning: If a scene has backtracking, collect items along a loop to minimize travel.
-5.  **[KO]** Mini‑game focus: Read rules carefully — many allow quick retries without penalty.
+- 클릭/탭으로 상호작용, 드래그로 아이템 이동이나 슬라이더 조작  
+- 길게 누르기나 더블 탭으로 특수 상호작용을 요구하는 요소도 있을 수 있습니다.  
+- 메뉴에서 힌트/노트북 기능을 지원하는 버전도 있습니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Click/tap to interact, drag for items or sliders, hold for long presses when needed.
-- Menu provides hints/logbook if available.
+- **Q: 막혔을 때는 어떻게 해야 하나요?**  
+  **A:** 이미 지나온 장면을 다시 방문해 놓친 상호작용이 없는지 확인하고,
+  노트에 적힌 단서를 다시 읽어 보세요. 배경 장식처럼 보이는 오브젝트도
+  눌러 보면 단서인 경우가 있습니다.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 게임 오버가 있나요?**  
+  **A:** 거의 없습니다. 대부분의 퍼즐은 실패해도 즉시 재도전이 가능하며,
+  힌트 기능도 비교적 관대하게 제공됩니다.  
 
-- Q: I’m stuck — what should I do?
-
-A: Revisit prior scenes for missed interactables, review notebooks, and try interacting with environmental decorations.
-
-- Q: Are there fail states?
-
-A: Rarely; most puzzles allow infinite retries and gentle hints.
-
-- Q: How long is a chapter?
-
-A: Short — built for quick sessions; multiple chapters add up to a relaxing journey.
+- **Q: 챕터 하나는 어느 정도 길이인가요?**  
+  **A:** 짧은 플레이 세션에 맞춰 설계되어 있어, 여러 챕터를 이어서 플레이하면
+  부담 없이 긴 여정을 즐길 수 있습니다.  
 

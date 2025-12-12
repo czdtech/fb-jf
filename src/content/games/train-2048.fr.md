@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: train-2048
-title: '[FR] Train 2048'
-description: >-
-  [FR] Combine and merge train cars in Train 2048, a clever twist on the classic
-  2048 puzzle. Strategically slide matching cars together to build a more
-  advanced train and reach the ultimate 2048 car.
+title: Train 2048
+description: "Train 2048 reprend le 2048 classique avec des wagons\_: fusionne les mêmes trains pour créer des compositions de plus en plus longues."
 iframeSrc: >-
   https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/train-2048.jpg
@@ -19,34 +16,55 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+    - **A:** Any corner works, but consistency is key. Once you choose a corner (e.g., top-right), stick with it. Most players find a bottom corner slightly easier as it feels more natural to avoid swiping down.
 
+- **Q: Which corner is best for the highest car?**
 
-### Detailed Game Introduction
+    - **A:** You lose when the entire grid is filled with train cars, and there are no possible moves or merges left.
 
-Train 2048 is an engaging puzzle game that reimagines the beloved 2048 formula with a charming train theme. Instead of numbered tiles, players slide and combine train cars of the same type on a grid-based railway. Each combination merges two identical cars into a new, higher-level car. The objective is to strategically manage the limited space on the board, continue merging cars, and ultimately create the illustrious "2048" train car.
+- **Q: How do you lose the game?**
 
-### Gameplay Strategy & Walkthrough
+    - **A:** The primary goal is to successfully merge cars until you create the "2048" train car. Continuing to play after that to achieve an even higher score is also possible.
 
-1.  **[FR]** **Corner Strategy:** A classic 2048 strategy that works perfectly here. Try to keep your highest-value train car in one of the corners of the grid at all times. This prevents it from getting trapped in the middle of the board and allows you to build up other cars around it.
-2.  **[FR]** **Limit Your Movements:** Avoid randomly swiping in all four directions. Primarily use only two or three directions (e.g., Up, Right, and occasionally Left) to keep the cars organized. This creates more predictable merges and prevents the board from filling up with low-value cars in random positions.
-3.  **[FR]** **Build Chains:** Try to arrange cars in ascending or descending order along a wall. For example, have a 4-car next to an 8-car, which is next to a 16-car. This makes it easier to perform chain reactions and combine them into your main high-value car.
-4.  **[FR]** **Think Ahead:** Before making a move, anticipate where the new car might appear and how the existing cars will shift. A single bad move can disrupt your entire setup.
+- **Q: How do you win the game?**
 
-### Controls Guide
+### Foire aux questions (FAQ)
+
+- **Swiping (Mobile):** **Swipe** in any of the four cardinal directions to move the cars.
+
+- **Arrow Keys (Desktop):** Use the **Up, Down, Left, and Right** arrow keys to slide all the train cars on the board in the corresponding direction.
 
 The controls are simple and intuitive:
 
-*   **[FR]** **Arrow Keys (Desktop):** Use the **Up, Down, Left, and Right** arrow keys to slide all the train cars on the board in the corresponding direction.
-*   **[FR]** **Swiping (Mobile):** **Swipe** in any of the four cardinal directions to move the cars.
+### Commandes
 
-### Frequently Asked Questions (FAQ)
+- **Think Ahead:** Before making a move, anticipate where the new car might appear and how the existing cars will shift. A single bad move can disrupt your entire setup.
 
-*   **[FR]** **Q: How do you win the game?**
-    *   **[FR]** **A:** The primary goal is to successfully merge cars until you create the "2048" train car. Continuing to play after that to achieve an even higher score is also possible.
+- **Build Chains:** Try to arrange cars in ascending or descending order along a wall. For example, have a 4-car next to an 8-car, which is next to a 16-car. This makes it easier to perform chain reactions and combine them into your main high-value car.
 
-*   **[FR]** **Q: How do you lose the game?**
-    *   **[FR]** **A:** You lose when the entire grid is filled with train cars, and there are no possible moves or merges left.
+- **Limit Your Movements:** Avoid randomly swiping in all four directions. Primarily use only two or three directions (e.g., Up, Right, and occasionally Left) to keep the cars organized. This creates more predictable merges and prevents the board from filling up with low-value cars in random positions.
 
-*   **[FR]** **Q: Which corner is best for the highest car?**
-    *   **[FR]** **A:** Any corner works, but consistency is key. Once you choose a corner (e.g., top-right), stick with it. Most players find a bottom corner slightly easier as it feels more natural to avoid swiping down.
+- **Corner Strategy:** A classic 2048 strategy that works perfectly here. Try to keep your highest-value train car in one of the corners of the grid at all times. This prevents it from getting trapped in the middle of the board and allows you to build up other cars around it.
 
+### Guide de jeu
+
+Train 2048 is an engaging puzzle game that reimagines the beloved 2048 formula with a charming train theme. Instead of numbered tiles, players slide and combine train cars of the same type on a grid-based railway. Each combination merges two identical cars into a new, higher-level car. The objective is to strategically manage the limited space on the board, continue merging cars, and ultimately create the illustrious "2048" train car.
+
+
+- **Swiping (Mobile):** **Swipe** in any of the four cardinal directions to move the cars.
+
+- **Arrow Keys (Desktop):** Use the **Up, Down, Left, and Right** arrow keys to slide all the train cars on the board in the corresponding direction.
+### Présentation du jeu
+
+
+- **A:** Any corner works, but consistency is key. Once you choose a corner (e.g., top-right), stick with it. Most players find a bottom corner slightly easier as it feels more natural to avoid swiping down.
+
+    - **Q: Which corner is best for the highest car?**
+
+- **A:** You lose when the entire grid is filled with train cars, and there are no possible moves or merges left.
+
+    - **Q: How do you lose the game?**
+
+- **A:** The primary goal is to successfully merge cars until you create the "2048" train car. Continuing to play after that to achieve an even higher score is also possible.
+
+    - **Q: How do you win the game?**

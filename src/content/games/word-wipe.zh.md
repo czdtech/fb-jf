@@ -1,12 +1,11 @@
 ---
 locale: zh
 urlstr: word-wipe
-title: '[ZH TRANSLATION NEEDED] Word Wipe'
+title: 'Word Wipe：连线消除拼字'
 description: >-
-  [ZH TRANSLATION NEEDED] Clear the board with your vocabulary in Word Wipe, a
-  fast-paced and addictive word puzzle game! Connect letters horizontally,
-  vertically, or diagonally to form words. Watch them disappear and new letters
-  fall as you race against the clock to clear rows and achieve a high score.
+  《Word Wipe》是一款节奏紧张的英文拼字消除游戏。
+  在字母方阵中连线拼出单词，让被选中的字母方块消失、上方字母下落，
+  在倒计时压力下不断清行冲分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/word-wipe.jpg
 tags:
@@ -17,34 +16,58 @@ score: 4.8/5  (1384 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] Word Wipe is a dynamic and engaging word puzzle game that combines elements of word-finding with a falling-block mechanic. Players are presented with a grid of letters and must quickly find and connect letters to form words. Once a word is formed, the letters disappear, and new letters fall from above, creating a continuous and fast-paced challenge.
+### 游戏介绍
 
-### Gameplay Guide
+《Word Wipe》是一款节奏感很强的字母连线消除游戏，
+结合了“找单词”和“下落方块消除”两种玩法。
 
-- **Objective:** Form words to clear lines and progress through levels. The goal is to clear a certain number of rows within a time limit.
-- **Word Formation:** Connect letters horizontally, vertically, or diagonally to spell words of three letters or more.
-- **Clearing Lines:** When a word is formed, the letters are removed, and the tiles above them drop down. Clearing entire rows is often a key objective.
-- **Time Limit:** The game is played against a clock, adding an element of urgency.
-- **Scoring:** Longer and more complex words yield higher scores. Speed also contributes to your score.
-- **Bonus Bombs:** Earn special "bombs" that can clear multiple tiles at once, helping you out of tight spots.
+你将在一个布满字母的网格中寻找可以连成单词的路径，
+一旦连接成功，这些字母方块就会被清除，上方的字母随之下落补位，
+不断形成新的组合，带来一轮又一轮的连续挑战。
 
-### Controls Guide
+### 游玩指南
 
-- **Mouse/Touch:** Click and drag (or swipe) across adjacent letters to form words.
+- **核心目标（Objective）：**  
+  每一关通常会要求你在限定时间内清除一定数量的横行，
+  通过拼单词来消掉足够多的字母，才能解锁下一关。
 
-### Frequently Asked Questions (FAQ)
+- **拼字规则（Word Formation）：**  
+  你可以水平、垂直或对角线连接相邻字母，只要形成 3 个字母以上的有效单词即可。
 
-[ZH TRANSLATION NEEDED] **How do I win in Word Wipe?**
+- **清行机制（Clearing Lines）：**  
+  当一个单词被消除后，对应的字母格会被移除，上方字母下落，
+  形成新的排列。如果整行被全部清空，就算完成一行目标。
 
-[ZH TRANSLATION NEEDED] To win a level, you typically need to clear a specific number of rows by forming words within the given time limit. The overall goal is to achieve the highest score.
+- **时间压力（Time Limit）：**  
+  游戏采用倒计时设计，你需要在时间耗尽前完成关卡要求，
+  这让本来偏休闲的找词玩法多了几分紧张刺激。
 
-[ZH TRANSLATION NEEDED] **What happens if I run out of time?**
+- **评分与连锁（Scoring）：**  
+  单词越长、使用的字母越多，得分就越高。
+  快速连续找出多个单词也会提升评分效率。
 
-[ZH TRANSLATION NEEDED] If you fail to clear the required number of rows before the timer runs out, the game ends.
+- **炸弹道具（Bonus Bombs）：**  
+  通过累积分数或达成特定条件，可以获得能一次性清除多格字母的炸弹，
+  在棋盘接近堆满或时间所剩无几时，合理使用能起到翻盘效果。
 
-[ZH TRANSLATION NEEDED] **Are there any strategies for high scores?**
+### 操作说明
 
-[ZH TRANSLATION NEEDED] Focus on finding longer words and clearing full rows. Try to create chain reactions where clearing one word leads to new opportunities. Use bonus bombs strategically when you're stuck or need to clear a large area.
+- **鼠标 / 触控（Mouse/Touch）：**  
+  用鼠标点击并拖拽，或在触屏上用手指滑动，
+  依次连过构成单词的字母，松开即可提交该单词。
 
+### 常见问题（FAQ）
+
+**问：怎样才算赢下一关？**  
+**答：** 每一关会要求你清除一定数量的整行字母，
+你需要在规定时间内通过拼字达成这一目标，剩余时间越多、得分通常也越高。
+
+**问：如果时间用完了会怎样？**  
+**答：** 若在倒计时结束前没有完成清行目标，关卡就会失败，
+你需要重新挑战本关或从较早的关卡重新开始。
+
+**问：有什么提高高分的策略？**  
+**答：** 尽量寻找更长的单词，同时优先消除能帮助你形成整行清除的区域。
+善用炸弹等道具，在局面混乱或时间紧张时清理大面积字母，
+也有助于创造连锁机会和更高得分。

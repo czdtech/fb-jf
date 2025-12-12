@@ -1,8 +1,11 @@
 ---
 locale: ko
 urlstr: pikmin-no-sprunki
-title: '[KO] Pikmin No Sprunki - Play Pikmin No Sprunki Online'
-description: '[KO] Pikmin No Sprunki is more than just a simple game; it'
+title: "Pikmin No Sprunki 피크민 노 스프런키 온라인"
+description: >-
+  Pikmin 세계관과 Sprunki 스타일의 음악 연출이 합쳐진 창작형 음악
+  샌드박스 게임입니다. 다양한 사운드와 테마를 조합해 나만의
+  Pikmin No Sprunki 비트를 만들어 보세요.
 iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
 thumbnail: /pikmin-no-sprunki.png
 tags:
@@ -12,21 +15,61 @@ score: 4.0/5  (89 votes)
 
 
 
-Ever wondered what happens when the quirky world of Pikmin crashes into the musical magic of Sprunki? Pikmin No Sprunki makes that thought a reality! This captivating Scratch game cleverly blends the familiar Incredibox creation fun with fresh gameplay mechanics, inviting you on a unique audio-visual adventure.
+Pikmin의 기묘한 세계가 Sprunki 특유의 리듬 연출과 만나면 어떤
+느낌일까요? *Pikmin No Sprunki*는 바로 그 상상을 현실로 만든
+Scratch 기반 음악 게임입니다. Incredibox 같은 스타일의 사운드
+조합遊와 새로운 연출을 섞어, 독특한 오디오·비주얼 퍼포먼스를
+직접 만들어 볼 수 있습니다.
 
-### What Exactly is Pikmin No Sprunki?
+### Pikmin No Sprunki란?
 
-Simply put, Pikmin No Sprunki is a game that lets you become a music producer, using elements inspired by Pikmin to create your beats. It's not just a traditional music game; it's more like a vibrant musical sandbox. Here, you can freely explore various themes and sounds, making each session feel fresh and bringing endless fun.
+간단히 말해 *Pikmin No Sprunki*는 Pikmin에서 영감을 받은 요소들을
+이용해 플레이어가 **음악 프로듀서**가 되는 게임입니다. 단순히 준비된
+곡을 따라 치는 리듬 게임이 아니라, 하나의 **음악 놀이터**에 더
+가깝습니다.
 
-### Why is Pikmin No Sprunki So Appealing?
+여러 가지 사운드 샘플과 캐릭터 애니메이션을 조합해 각자 다른 분위기의
+트랙을 만들 수 있고, 매번 새로운 조합을 시도하면서도 부담 없이
+즐길 수 있습니다.
 
-- **A Platform for Limitless Creativity:** The core charm of Pikmin No Sprunki lies in its creativity. You can mix and match all sorts of sounds and musical styles however you like. Whether you're a rhythm master or a music newbie, you'll find your creative joy here.
-- **A Dazzling Visual Feast:** The game boasts stunning visuals paired with engaging music, creating an immersive Sprunki world. Watching your musical creations come alive with vibrant graphics is definitely a treat.
-- **Easy to Pick Up, Loads of Fun:** Don't worry about complexity! Pikmin No Sprunki is designed for ease of use. Whether you're a veteran of Sprunki games or a newcomer trying it for the first time, you can quickly dive into this musical adventure.
-- **An Active Player Community:** Pikmin No Sprunki isn't just a solo experience. It features a lively community where players share their musical creations and tips. This interaction makes the game experience even richer and more enjoyable.
-- **Free to Play, Constantly Updated:** Best of all, the game is completely free! Plus, the developers regularly release updates, bringing new mods and features to keep the world of Pikmin No Sprunki always feeling fresh.
+### Pikmin No Sprunki가 매력적인 이유
 
+- **제한 없는 창의력 플랫폼**  
+  이 게임의 핵심 매력은 바로 창의력입니다. 드럼, 베이스, 멜로디,
+  효과음 등 다양한 사운드를 마음껏 섞어 자신만의 곡을 만들 수
+  있습니다. 리듬 게임 고수든 음악 입문자든 상관없이, 누구나
+  쉽게 자신만의 사운드를 완성할 수 있습니다.
 
-### Wrapping Up:
+- **눈과 귀가 즐거운 비주얼 연출**  
+  픽민 스타일의 캐릭터와 Sprunki식 연출이 어우러진 화려한 그래픽이
+  음악과 함께 재생됩니다. 단순히 소리를 듣는 것을 넘어,
+  자신이 만든 비트에 맞춰 화면 속 캐릭터들이 움직이는 모습을 보는
+  것만으로도 큰 즐거움을 줍니다.
 
-Pikmin No Sprunki is more than just a simple game; it's a creative platform that encourages exploration. It perfectly combines engaging gameplay, diverse mods, and an active community, standing out among many free games. Whether you're a seasoned Sprunki veteran or a player looking for a fresh experience, Pikmin No Sprunki is definitely worth a try! Come join this wonderful world, and use rhythm and creativity to compose your very own Pikmin No Sprunki symphony!
+- **쉽게 배우고 오래 즐기는 조작**  
+  복잡한 조작은 거의 없습니다. 원하는 사운드를 클릭해 켜고 끄는
+  것만으로 곡이 완성되도록 설계되어 있어, Sprunki 계열 게임을
+  해 보지 않은 사람도 금방 익숙해질 수 있습니다.
+
+- **활발한 플레이어 커뮤니티**  
+  *Pikmin No Sprunki*는 혼자 즐기는 데서 끝나지 않습니다.
+  많은 플레이어들이 자신이 만든 루프와 믹스를 공유하고, 좋은
+  조합이나 팁을 알려 주는 커뮤니티가 형성되어 있습니다.
+  이런 소통 덕분에 게임을 더 오래, 더 깊게 즐길 수 있습니다.
+
+- **무료 플레이와 꾸준한 업데이트**  
+  무엇보다도 게임을 무료로 즐길 수 있다는 점이 큰 장점입니다.
+  여기에 더해 개발자가 새로운 모드와 기능을 지속적으로 추가해
+  *Pikmin No Sprunki*의 세계를 계속해서 확장하고 있습니다.
+
+### 마무리
+
+*Pikmin No Sprunki*는 단순한 음악 게임을 넘어, 사용자가 직접
+탐구하고 실험하며 놀 수 있는 **창의적 플랫폼**에 가깝습니다.
+재미있는 게임 플레이와 다양한 모드, 그리고 활발한 커뮤니티가
+어우러져 많은 무료 게임들 가운데서도 눈에 띄는 작품입니다.
+
+이미 Sprunki 계열 게임에 익숙한 플레이어는 물론, 새로운 경험을
+찾는 유저들에게도 충분히 추천할 만한 작품입니다. 지금 바로 이
+특별한 세계로 들어와, 리듬과 상상력을 섞어 당신만의
+*Pikmin No Sprunki* 심포니를 완성해 보세요!

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: fancy-pants-2
-title: '[KO] Fancy Pants 2'
+title: "Fancy Pants 2 팬시 팬츠 2"
 description: >-
-  [KO] Momentum‑driven platformer sequel: faster movement tech, new enemies, and
-  larger hand‑drawn stages with secrets and trophies.
+  속도감 있는 모멘텀 플랫포머의 후속작입니다. 더 빨라진 움직임, 새로운 적,
+  비밀과 트로피가 숨겨진 손그림 스테이지를 달려 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/fancy-pants-2.jpg
@@ -16,30 +16,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Fancy Pants 2는 경사와 벽을 활용해 속도를 유지하는 모션 중심 플랫포머입니다.
+플레이어는 손으로 그린 넓은 스테이지를 질주하며, 곳곳에 숨겨진 트로피와
+비밀 방을 찾아다니게 됩니다. 선택형 도전 방과 수집 요소 덕분에, 단순히
+골인 지점에 도달하는 것 외에도 탐험의 재미가 큽니다.
 
+### 플레이 방법
 
-### Overview
-Build and preserve momentum through slopes and walls, collect trophies, and clear larger levels with optional challenge rooms.
+- 경사면을 미끄러지듯 내려오고, 벽 점프를 연결해 큰 간격을 한 번에 넘습니다.  
+- 스테이지를 탐험하며 트로피와 기타 수집품을 모으면 보너스 방이 열립니다.  
+- 적은 점프로 밟아 쓰러뜨리거나, 일부 버전에서는 빠른 공격 동작으로 처리할
+  수 있습니다.  
 
-### How to Play
-- Use slides and wall‑jumps to chain movement across big gaps.
-- Explore for collectibles to open bonus doors.
-- Fight simple enemies with stomp or quick swipes (when available).
+### 조작 방법
 
-### Controls
-- WASD/Arrows to move/jump; Down to slide; Up to enter doors.
+- `WASD` / 방향키: 이동 및 점프  
+- 아래 방향키: 미끄러지기(슬라이드)  
+- 위 방향키: 문이나 포탈 들어가기  
 
-### Tips
-- Practice slope exits to keep speed over flat stretches.
-- Buffer jumps at edges for consistent long carries.
-- Use downhill slides before vertical climbs.
+### 팁
+
+- 경사 끝에서 점프 타이밍을 맞춰 속도를 유지한 채 평지로 나가면 구간을 더
+  빠르게 통과할 수 있습니다.  
+- 발판 끝에서 미리 점프 키를 눌러 두면, 가장자리에서 안정적으로 롱 점프가
+  나갑니다.  
+- 긴 오르막 전에 바로 이어지는 내리막에서 미리 가속해 모멘텀을 유지하세요.  
 
 ### FAQ
-- Q: Is there a story?
-A: Light framing; focus is movement and level secrets.
-- Q: Are there speed runs?
-A: Time trials/challenges exist in many hosts.
-- Q: Progress saving?
-A: Depends on host; some keep local progress.
+
+- **Q: 스토리가 있나요?**  
+  **A:** 간단한 프레임 정도만 있고, 주된 즐길 거리는 움직임과 레벨 곳곳의
+  비밀 요소입니다.  
+
+- **Q: 스피드런 모드가 있나요?**  
+  **A:** 많은 호스트에서 타임 어택/챌린지 모드를 제공해 기록 경쟁을 즐길 수
+  있습니다.  
+
+- **Q: 진행 상황 저장이 되나요?**  
+  **A:** 사이트마다 다르며, 일부는 로컬에 진척도를 저장하기도 합니다.  
 

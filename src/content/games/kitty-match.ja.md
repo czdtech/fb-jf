@@ -1,83 +1,38 @@
 ---
+title: "Kitty Match"
+description: "Kitty Matchへようこそ、完璧に楽しいマッチ3パズルゲームです！カラフルな猫テーマのアイテムをスワップしてマッチを作り、挑戦的なレベルを完了します。"
+iframeSrc: "https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/"
+thumbnail: "/new-images/kitty-match.png"
+urlstr: "kitty-match"
+score: "4.9/5  (2999 votes)"
+tags: ["puzzle", "casual", "action"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: kitty-match
-title: '[JA TRANSLATION NEEDED] Kitty Match'
-description: >-
-  [JA TRANSLATION NEEDED] Welcome to Kitty Match, a purr-fectly delightful
-  match-3 puzzle game! Swap colorful cat-themed items to make matches and
-  complete challenging levels.
-iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
-thumbnail: /new-images/kitty-match.png
-tags:
-  - puzzle
-  - casual
-  - action
-score: 4.9/5  (2999 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Kitty Matchは、かわいい猫とカラフルな挑戦でいっぱいの魅力的で中毒性のあるマッチ3パズルゲームです。目標は、隣接するタイルをスワップして、3つ以上の同一のアイテムのラインを作成することです。各レベルには、特定の数の特定のアイテムを収集したり、特別なブロックをクリアするなど、ユニークな目標があります。レベルを完了することで、報酬を獲得し、楽しい猫でいっぱいの世界を進むことができます。すべての年齢のためのリラックスしたゲームで、パズルと猫愛好家の両方に最適です。
 
-[JA TRANSLATION NEEDED] Kitty Match is a charming and addictive match-3 puzzle game filled with cute cats and colorful challenges. The goal is to swap adjacent tiles to create lines of three or more identical items. Each level has a unique objective, such as collecting a certain number of specific items or clearing special blocks. By completing levels, you can earn rewards and progress through a delightful, cat-filled world. It's a relaxing game for all ages, perfect for puzzle and cat lovers alike.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **大きなマッチを探す:** 3つのアイテムをマッチすることは良いですが、4つまたは5つのアイテムをマッチすることはさらに良いです！これらの大きなマッチは、行、列全体をクリアできる、または爆発して全体領域をクリアできる特別なパワーアップタイルを作成します。
+2.  **移動を計画する:** 各レベルで限られた数の移動しかありません。スワップを行う前に、ボード全体を見て、いくつかの移動先を計画してみてください。レベルの目標を達成するのに役立つマッチを優先します。
+3.  **パワーアップを組み合わせる:** 本当の魔法は、2つの特別なパワーアップタイルを組み合わせるときに起こります。たとえば、爆弾とロケットをスワップすると、大規模なボードクリア効果が作成されます。異なる組み合わせを実験してください。
+4.  **下部から作業する:** ボードの下部でマッチを行うと、新しいタイルが落ちてくるカスケードを引き起こす可能性があり、多くの場合、自動的に新しいマッチが作成されます。これは、ボードを効率的にクリアする素晴らしい方法です。
 
-[JA TRANSLATION NEEDED] 1.  **Look for Big Matches:** While matching three items is good, matching four or five items is even better! These larger matches create special power-up tiles that can clear entire rows, columns, or explode to clear a whole area.
-[JA TRANSLATION NEEDED] 2.  **Plan Your Moves:** You only have a limited number of moves in each level. Before making a swap, look at the whole board and try to plan a few moves ahead. Prioritize matches that will help you achieve the level's goal.
-[JA TRANSLATION NEEDED] 3.  **Combine Power-ups:** The real magic happens when you combine two special power-up tiles. Swapping a bomb with a rocket, for example, can create a massive board-clearing effect. Experiment with different combinations.
-[JA TRANSLATION NEEDED] 4.  **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade of new tiles to fall, often creating new matches automatically. This is a great way to clear the board efficiently.
+### 操作ガイド
 
-### Controls Guide
+*   **タイルをスワップ:** マウスを使用して、アイテムをクリックして隣接するタイルにドラッグして位置をスワップします。移動が3つ以上のマッチになる場合にのみスワップできます。
 
-*   **Swap Tiles:** Use your mouse to click and drag an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
-    - **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.（日本語訳が必要）
-    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.（日本語訳が必要）
-    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.（日本語訳が必要）
-    - **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.（日本語訳が必要）
-    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.（日本語訳が必要）
-    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 各レベルの目標は何ですか？**
+    *   **A:** 各レベルには特定の目標があり、開始時に表示されます。これは、特定の数の特定の色のアイテムを収集する、すべてのゼリー正方形を壊す、または特別なアイテムをボードの下部に持ってくることができます。
 
-*   **Q: What is the goal of each level?**
-[JA TRANSLATION NEEDED]     *   **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.
+*   **Q: 移動がなくなった場合はどうなりますか？**
+    *   **A:** 移動がなくなる前にレベルの目標を完了できない場合、ライフを失い、レベルを再試行する必要があります。
 
-*   **Q: What happens if I run out of moves?**
-[JA TRANSLATION NEEDED]     *   **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
-
-*   **Q: How do I create a bomb?**
-
-
-
-
-
-
-
-
-
-    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
-- **Q: How do I create a bomb?**
-    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
-- **Q: What happens if I run out of moves?**
-    - **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.
-- **Q: What is the goal of each level?**
-### よくある質問（FAQ）
-- **Swap Tiles:** Use your mouse to click and drag an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
-- **Q: How do I create a bomb?**
-    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
-- **Q: What happens if I run out of moves?**
-    - **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.
-- **Q: What is the goal of each level?**
-
-    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
-[JA TRANSLATION NEEDED]     *   **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
-
+*   **Q: 爆弾を作成するにはどうすればよいですか？**
+    *   **A:** 通常、「L」または「T」形で5つの同一のアイテムをマッチすることで、爆弾パワーアップを作成できます。爆弾は有効化されると、周囲のタイルの大きな領域をクリアします。

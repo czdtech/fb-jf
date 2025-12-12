@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-wolfgang
-title: '[KO] Incredibox Wolfgang'
+title: Incredibox Wolfgang 클래식 모드
 description: >-
-  [KO] Explore 'Incredibox Wolfgang,' the fan-made mod celebrating classical
-  music and Mozart. This guide details its orchestral sound palette, gameplay
-  for composing elegant pieces, and how to unlock its 18th-century themed
-  bonuses.
+  모차르트를 비롯한 고전 음악 시대를 테마로 한 팬메이드 모드 'Incredibox Wolfgang' 가이드입니다. 오케스트라·합창 사운드
+  팔레트와 클래식 스타일 곡을 만드는 전략, 보너스 해금 팁을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/943197191/embed'
 thumbnail: /new-images/incredibox-wolfgang.png
 tags:
@@ -19,59 +17,97 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
+*Incredibox Wolfgang*은 음악 제작 게임 Incredibox를 클래식 음악
+시대로 재해석한 우아한 팬메이드 모드입니다. 이름 그대로
+**Wolfgang Amadeus Mozart**를 중심으로 한 고전파 음악의 분위기를
+강하게 담고 있습니다.
 
-### **Incredibox "Wolfgang" Game Introduction**
+평소의 비트박서 대신, 18세기 연주자처럼 가발과 정장을 갖춰 입은
+캐릭터들이 무대에 서며, 플레이어는 20개의 사운드 아이콘으로
+오케스트라와 합창을 구성하게 됩니다. 사운드 라이브러리는
+**하프시코드, 바이올린·첼로를 포함한 현악기, 팀파니 등 오케스트라
+퍼커션, 오페라 스타일 보컬**로 가득 차 있습니다.
 
-*Incredibox Wolfgang* is an elegant and masterfully crafted fan-made mod for the music creation game Incredibox. This version is a tribute to the era of **classical music**, heavily inspired by the works of the legendary composer, **Wolfgang Amadeus Mozart**.
+목표는 이 악기들을 조합해 **세련된 클래식 곡**을 만드는 동시에,
+특정 조합으로만 열리는 3개의 보너스 애니메이션을 찾는 것입니다.
+보너스 연출은 모두 18세기 극장과 연회를 떠올리게 하는 장면들로
+구성되어 있습니다.
 
-The game transforms the usual beatboxers into a troupe of 18th-century performers, complete with powdered wigs and formal attire. Players use the classic Incredibox drag-and-drop interface to compose with a palette of 20 sound icons. The sound library is a complete orchestral and choral experience, featuring sounds from **harpsichords, violins, cellos, orchestral percussion, and powerful operatic vocals**.
+### **플레이 전략 & 팁**
 
-The objective is to allow players to create their own sophisticated classical pieces while also engaging in the puzzle of finding the three secret animated bonuses. These bonuses are beautifully animated vignettes that perfectly capture the grace and drama of the classical era.
+이 모드에서는 오케스트라 편성을 이해하고, 각 파트를 어떻게
+레이어링해 풍성한 클래식 사운드를 만들지 고민하는 것이 핵심입니다.
 
-### **Gameplay Strategy & Tips**
+1. **오케스트라 사운드 카테고리 이해하기**  
+    - **Beats**: 오케스트라의 리듬과 기초를 담당합니다. 첼로의
+     피치카토(pizzicato)처럼 리듬감 있는 현 파트나, 웅장한
+     팀파니 드럼이 여기에 해당합니다.  
+    - **Effects**: 하프시코드 아르페지오, 지속되는 현 파트,
+     배경을 채우는 오케스트라 텍스처 등 화성과 분위기를 만드는
+     사운드가 중심입니다.  
+    - **Melodies**: 곡의 주선을 담당하는 카테고리로, 날렵한
+     바이올린 멜로디, 우아한 플루트 라인 등 클래식에서
+     익숙한 리드가 들어 있습니다.  
+    - **Voices**: 순수하게 오페라·합창 보컬을 다룹니다. 힘 있는
+     합창, 소프라노·테너 솔로, 극적인 화성이 클래식 곡의
+     감정을 끌어올립니다.
 
-Strategy in *Incredibox Wolfgang* is about understanding classical arrangement and layering orchestral parts to create a rich, harmonious composition.
+2. **오케스트라처럼 아래에서 위로 쌓기**  
+   실제 오케스트라 편성처럼, 먼저 `Beats`에서 첼로·팀파니 등으로
+   리듬과 화성의 기초를 깔고, 그 위에 `Effects`로 배경을 채운 뒤,
+   `Melodies`와 `Voices`를 하나씩 더해 가면 자연스럽게
+   클래식 곡 구조가 만들어집니다.
 
-1.  **[KO]** **Understand the Orchestral Sound Categories**:
-    *   **[KO]** **Beats**: The rhythm section here is the foundation of the orchestra. Expect to find the deep, rhythmic plucking of a **cello (pizzicato)**, the powerful boom of **timpani drums**, and other foundational percussive elements.
-    *   **[KO]** **Effects**: This category provides the harmonic and textural background. It includes sounds like flowing **harpsichord arpeggios**, sustained notes from string sections, and other ambient orchestral colors.
-    *   **[KO]** **Melodies**: These are the main melodic lines that carry the tune. This category features the soaring sounds of **violins**, elegant flute passages, and other lead instrumental hooks.
-    *   **[KO]** **Voices**: The vocals are purely operatic. This includes powerful **choral arrangements**, solo soprano and tenor voices, and dramatic harmonies that give the piece its human, emotional core.
+3. **대위법과 화음 맛보기**  
+   클래식 음악의 재미는 여러 멜로디와 화성이 어떻게 얽히는지에
+   있습니다. 서로 다른 멜로디·보컬 아이콘을 함께 켜 보며
+   어울리는 조합과 충돌하는 조합을 찾아 보세요. 예상외의
+   조합에서 아름다운 화성이 나올 때가 많습니다.
 
-2.  **[KO]** **Build Your Orchestra from the Ground Up**: A good way to compose is to mimic how an orchestra is built. Start with the "Beats" category to lay down a rhythmic and harmonic foundation with the cellos and timpani.
+4. **보너스는 체계적으로 탐색**  
+   먼저 듣기 좋은 기본 편성을 만든 뒤, 남은 슬롯만 하나씩
+   교체해 보며 보너스를 찾는 방식이 효율적입니다. 이렇게 하면
+   이미 만든 곡의 분위기를 크게 해치지 않고 우아한 애니메이션을
+   모두 감상할 수 있습니다.
 
-3.  **[KO]** **Master Counterpoint and Harmony**: Classical music is all about how different melodies and harmonies interact. Experiment with layering different "Melody" and "Voice" icons on top of each other. Some will create beautiful harmonies, while others might clash. The discovery is part of the fun.
+5. **솔로 기능으로 각 파트 감상하기**  
+   이 모드는 개별 악기 사운드가 정교하게 만들어져 있어,
+   솔로 기능을 활용해 특정 바이올린이나 보컬만 따로 들어 보면
+   곡 구조를 이해하는 데 큰 도움이 됩니다.
 
-4.  **[KO]** **Systematic Search for Bonuses**: The bonus combinations can be tricky to find. Lock in a core arrangement that sounds good, then methodically cycle through the remaining icons one by one. This is the most efficient way to unlock the elegant animations.
+### **조작 가이드**
 
-5.  **[KO]** **Use Solo to Appreciate Each Part**: The instrumentation in this mod is very detailed. Use the "solo" function to isolate the violin or a solo singer to fully appreciate their individual performance and understand their role in the full ensemble.
+조작은 공식 Incredibox와 동일한 직관적인 드래그 앤 드롭 방식입니다.
 
-### **Controls Guide**
+- **사운드 추가**: 하단의 사운드 아이콘을 드래그해 연주자 위에
+  올려놓습니다.
+- **사운드 제거**: 하단 활성화된 아이콘의 `X`를 누르거나,
+  다른 아이콘을 덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나
+  다시 켤 수 있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼을 눌러 그 캐릭터만 남기고
+  나머지를 모두 음소거할 수 있습니다.
+- **녹음**: 상단의 녹음 버튼을 눌러 자신만의 클래식 곡을
+  녹음·저장할 수 있습니다.
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+### **자주 묻는 질문(FAQ)**
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the performers.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your classical masterpiece.
+**Q: Incredibox Wolfgang은 공식 버전인가요?**  
+A: 아니요. Gabsoares04가 제작한 완성도 높은 **팬메이드 모드**이며,
+공식 팀 So Far So Good과는 관련이 없습니다.
 
-### **Frequently Asked Questions (FAQ)**
+**Q: 어디에서 이 모드를 플레이할 수 있나요?**  
+A: 보통 **playfiddlebops.com** 같은 모딩 사이트나 유튜브 소개 영상의
+플레이 링크를 통해 브라우저에서 즐길 수 있습니다.
 
-**Q: Is *Incredibox Wolfgang* an official version?**
+**Q: Wolfgang 모드만의 매력은 무엇인가요?**  
+A: 다른 버전에서는 보기 힘든 정통 클래식 테마와 고퀄리티
+오케스트라·합창 사운드 덕분에, 완전히 다른 음악 세계를 체험할 수
+있다는 점입니다.
 
-A: No. It is a very high-quality **fan-made mod** created by Gabsoares04. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**Q: Where can I play this mod?**
-
-A: You will not find it on official platforms. Mods like *Wolfgang* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**Q: What makes the "Wolfgang" mod so special?**
-
-A: Its popularity comes from its unique and flawlessly executed classical theme. It offers a completely different musical palette from any official version, providing a sophisticated and beautiful experience. The sheer quality of the music and art makes it a standout creation in the fan community.
-
-**Q: Are the bonus solutions for "Wolfgang" available online?**
-
-A: Yes. If you get stuck or simply want to see the animations, a quick search for "*Incredibox Wolfgang combos*" on YouTube will provide you with the exact combinations needed.
+**Q: 보너스 조합은 어디서 확인할 수 있나요?**  
+A: `Incredibox Wolfgang combos`로 유튜브를 검색하면, 각 보너스를 여는
+조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
 

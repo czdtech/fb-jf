@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: jewel-pets-match
-title: '[KO] Jewel Pets Match'
+title: Jewel Pets Match 보석 펫 매치
 description: >-
-  [KO] Match cute jewel pets in this fun and colorful match-3 puzzle adventure!
-  Swap the animals to create lines of three or more and complete the goals for
-  each level.
+  보석처럼 반짝이는 귀여운 동물들을 맞추는 3매치 퍼즐 게임 'Jewel Pets Match' 가이드입니다. 펫을 교환해 라인을 만들고, 각
+  레벨의 목표를 달성하는 방법을 소개합니다.
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
 thumbnail: /new-images/jewel-pets-match.png
 tags:
@@ -18,37 +17,59 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Jewel Pets Match*는 보석처럼 빛나는 귀여운 동물 캐릭터들이
+가득한 3매치 퍼즐 게임입니다. 같은 펫 3마리 이상을 일렬로
+맞추면 사라지고, 제한된 이동 수 안에 목표 점수 달성이나
+특수 블록 제거 등 각 레벨의 목표를 완료해야 합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Jewel Pets Match is a bright and cheerful match-3 puzzle game filled with adorable, jewel-like animal characters. Your goal is to swap these cute pets on the game board to create lines of three or more identical animals. Each level presents a new challenge and a specific objective you must complete, such as reaching a target score or clearing special blocks, all within a limited number of moves.
+1. **파워업 펫 만들기**  
+    - 4마리 매치: 한 줄을 지우는 특수 펫 생성  
+    - L/T자 5마리 매치: 주변을 폭발시키는 폭탄 펫 생성  
+    - 일직선 5마리 매치: 같은 종류의 펫을 모두 지우는 레인보우 펫 생성
 
-### Gameplay Strategy & Walkthrough
+2. **부스터 조합 활용**  
+   특수 펫 두 마리를 교환하면, 보드 대부분을 날려 버리는
+   강력한 콤보가 발동합니다. 난도 높은 스테이지에서는
+   이런 조합을 의도적으로 준비하는 것이 중요합니다.
 
-1.  **[KO]** **Create Power-ups:** To master the game, you need to make matches of more than three pets.
-    *   **[KO]** **Match 4:** Creates a special pet that can clear an entire row or column.
-    *   **[KO]** **Match 5 (L or T shape):** Creates a bomb pet that explodes and clears a block of surrounding pets.
-    *   **[KO]** **Match 5 (in a line):** Creates a rainbow pet that can clear all pets of a single type from the board.
+3. **목표 중심 플레이**  
+   얼음 블록을 깨야 한다면 그 주변에서, 특정 펫을 일정 수
+   이상 모아야 한다면 해당 펫 매치를 우선적으로 노려야 합니다.
 
-2.  **[KO]** **Combine Boosters:** The most powerful moves in the game come from swapping two special pets next to each other. This triggers a massive combo effect that can clear a huge portion of the board at once.
-3.  **[KO]** **Focus on the Objective:** Always keep the level's goal in mind. If you need to break ice blocks, make matches next to them. If you need to collect a certain number of a specific pet, prioritize those matches.
-4.  **[KO]** **Plan Your Swaps:** With a limited number of moves, every action counts. Look for swaps that will create a chain reaction or set up a powerful combo on your next turn.
+4. **이동 수 관리**  
+   이동 수가 제한되어 있으므로, 의미 없는 매치를 줄이고
+   항상 다음 한두 수까지 함께 고려해 두는 것이 좋습니다.
 
-### Controls Guide
+### 조작 가이드
 
-The game is played with simple swap mechanics.
+- **펫 교환**: 마우스로 펫을 클릭 후 인접한 칸으로 드래그해
+  위치를 바꾸면, 3마리 이상 매치가 되는 경우에만 교환이
 
-*   **[KO]** **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+- **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+  성립합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: How do I get past the locked or caged pets?**
-    *   **[KO]** **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
+- **Q: 자물쇠나 우리 안에 갇힌 펫은 어떻게 해방하나요?**  
+  **A:** 해당 펫을 포함해 매치를 만들면 우리가 깨지고,
+  자유롭게 이동할 수 있게 됩니다.
 
-*   **[KO]** **Q: What is the best power-up to create?**
-    *   **[KO]** **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
+    - **Q: 어떤 파워업이 가장 좋나요?**  
+  **A:** 일직선 5마리 매치로 만드는 레인보우 펫이
+  단일 색상을 모두 지울 수 있어 매우 강력하지만, 상황에 따라
+  다른 파워업 조합이 더 효율적일 때도 있습니다.
 
-*   **[KO]** **Q: What happens if I run out of moves?**
-    *   **[KO]** **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
+- **Q: 이동 수를 다 쓰면 어떻게 되나요?**  
+
+    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
+
+- **Q: What happens if I run out of moves?**
+
+    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
+  **A:** 레벨 목표를 달성하지 못한 상태에서 이동 수가
+  0이 되면 목숨을 잃고, 해당 레벨을 다시 도전해야 합니다.
 

@@ -1,11 +1,10 @@
 ---
 locale: fr
 urlstr: incredibox-dystopia
-title: '[FR] Incredibox Dystopia'
+title: Incredibox Dystopia
 description: >-
-  [FR] Explore 'Incredibox Dystopia,' the fan-made mod set in a dark cyberpunk
-  world. This guide details its electronic and synthwave sound palette, gameplay
-  tips for creating futuristic beats, and how to unlock its themed bonuses
+  Incredibox Dystopia est un mod sombre et futuriste : synthés froids, sirènes
+  d’alerte et chants mécaniques pour composer la bande‑son d’un futur en ruine.
 iframeSrc: 'https://turbowarp.org/1015284026/embed'
 thumbnail: /new-images/incredibox-dystopia.png
 tags:
@@ -17,42 +16,55 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+*Incredibox Dystopia* est un mod fan‑made qui imagine Incredibox dans un futur cyberpunk : gratte‑ciels délabrés, néons, drones et mégacorpo omniprésentes. Les personnages portent des tenues futuristes et la palette sonore mélange **électro sombre, bruitages industriels et chœurs mécaniques**.
 
+Tu crées des boucles en empilant beats électroniques, nappes synthétiques et voix trafiquées pour raconter ta propre dystopie musicale.
 
-### **Incredibox "Dystopia" Game Introduction**
-
-*Incredibox Dystopia* is a highly acclaimed fan-made mod for the music creation game Incredibox. This version plunges players into a dark, neon-lit **dystopian or cyberpunk future**. The characters are stylized as futuristic figures, some wearing masks or hoods, fitting the oppressive, high-tech urban theme.
-
-The game follows the classic Incredibox drag-and-drop gameplay. Players compose music by assigning 20 unique sound icons to a crew of seven performers. The sound library is a masterful blend of **electronic music genres, including synthwave, darkwave, and industrial**, creating a powerful and atmospheric futuristic soundscape.
 
 The objective is to foster creativity while providing a puzzle challenge. Players can freely mix and layer sounds to produce their own cinematic, cyberpunk-themed track. The puzzle element involves discovering the three specific combinations that unlock the secret animated bonuses, each one visually representing a core aspect of the dystopian theme.
+### Stratégies de jeu et conseils
 
-### **Gameplay Strategy & Tips**
+1.  **Pose un beat électronique stable**  
+    Commence par un kick / snare simple façon electro ou trap pour stabiliser le tempo.
 
-Strategy in *Incredibox Dystopia* is about building a powerful, driving electronic beat and layering atmospheric textures to create a cohesive futuristic vibe.
+2.  **Ajoute des basses et drones**  
+    Des basses lourdes et des drones graves donnent immédiatement une atmosphère oppressante.
 
-1.  **[FR]** **Understand the Cyberpunk Sound Categories**:
-    *   **[FR]** **Beats**: This category provides the powerful, rhythmic foundation. Expect heavy **electronic drum machines**, deep **synth basslines**, and pulsing **industrial percussion** that drive the track forward.
-    *   **[FR]** **Effects**: These are the atmospheric and textural elements. This includes glitchy sound effects, the hum of futuristic machinery, dystopian city ambiance, and synth pads that create a sense of scale and darkness.
-    *   **[FR]** **Melodies**: Here you'll find the iconic hooks of the synthwave genre. This category features memorable **arpeggiated synth lines**, dark melodic loops, and powerful lead synth riffs.
-    *   **[FR]** **Voices**: The vocals are heavily processed to fit the theme. Expect to hear **robotic chants**, **vocoder harmonies**, glitched-out singing, and other futuristic vocal effects.
+    - **Utilise les FX avec parcimonie**  
+    Sirènes, alarmes, radios brouillées : ces sons sont puissants mais fatiguent vite l’oreille s’ils sont tous activés en même temps.
 
-2.  **[FR]** **Start with a Driving Rhythm**: The core of this mod's music is its powerful rhythm. Begin your composition by laying down a strong foundation with one or two icons from the "Beats" category. A solid beat and bassline are essential.
+    - **Contraste voix humaines et voix robotiques**  
+    Combine une voix plus « humaine » avec des chœurs vocodés pour renforcer le côté dystopique.
 
-3.  **[FR]** **Layer the Atmosphere**: To create a true dystopian feel, build up the atmosphere. After the beat is established, add one or two "Effects" to create a sense of being in a futuristic city. This will give your track depth before you even add the main melody.
+    - **Trouve les bonus post‑apocalyptiques**  
 
-4.  **[FR]** **Find a Powerful Hook**: Experiment with the "Melodies" to find a synth line that you can build the rest of the track around. A strong, memorable melody is key to making your mix stand out.
+    - **Systematic Bonus Hunting**: As with other versions, the best way to find the hidden bonuses is to be methodical. Lock in a few core sounds that form a good base, then systematically try every other icon one by one until you trigger an animation.
 
-5.  **[FR]** **Systematic Bonus Hunting**: As with other versions, the best way to find the hidden bonuses is to be methodical. Lock in a few core sounds that form a good base, then systematically try every other icon one by one until you trigger an animation.
+- **Find a Powerful Hook**: Experiment with the "Melodies" to find a synth line that you can build the rest of the track around. A strong, memorable melody is key to making your mix stand out.
 
-### **Controls Guide**
+- **Layer the Atmosphere**: To create a true dystopian feel, build up the atmosphere. After the beat is established, add one or two "Effects" to create a sense of being in a futuristic city. This will give your track depth before you even add the main melody.
 
-The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
+- **Start with a Driving Rhythm**: The core of this mod's music is its powerful rhythm. Begin your composition by laying down a strong foundation with one or two icons from the "Beats" category. A solid beat and bassline are essential.
 
-*   **[FR]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the seven characters.
-*   **[FR]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[FR]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[FR]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[FR]** **Record**: Click the **record button** to start and stop recording your musical creation.
+- **Voices**: The vocals are heavily processed to fit the theme. Expect to hear **robotic chants**, **vocoder harmonies**, glitched-out singing, and other futuristic vocal effects.
+    Comme toujours, trois bonus cachés sont liés à des combinaisons spécifiques ; cherche‑les en fixant d’abord un socle rythmique puis en faisant varier les voix et effets.
 
+### Commandes
+
+Identiques à Incredibox :
+
+- Glisser‑déposer une icône sur un personnage pour l’activer.  
+- Cliquer sur le « X », mute, solo, enregistrement comme dans les autres mods.
+
+
+- **Record**: Click the **record button** to start and stop recording your musical creation.
+
+- **Solo**: Click the **small button** next to an active character to mute all other performers.
+
+- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
+### Foire aux questions (FAQ)
+
+- **Q : Ce mod est‑il très « bruyant » ?**  
+  R : Il peut l’être si tu actives beaucoup de FX à la fois ; en jouant sur les silences, tu peux obtenir des boucles très cinématographiques.

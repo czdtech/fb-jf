@@ -1,43 +1,36 @@
 ---
+title: "Google Snake"
+description: "スネークゲームの現代版：成長するヘビを操作してフルーツを食べ、衝突を避け、オプションのルールセットでハイスコアを追い求めましょう。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html"
+thumbnail: "/new-images/google-snake.jpg"
+urlstr: "google-snake"
+score: "3.8/5  (1205 votes)"
+tags: ["arcade", "snake"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: google-snake
-title: '[JA TRANSLATION NEEDED] Google Snake'
-description: >-
-  [JA TRANSLATION NEEDED] Modern take on Snake: guide a growing snake to eat
-  fruit, avoid collisions, and chase high scores with optional rulesets.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
-thumbnail: /new-images/google-snake.jpg
-tags:
-  - arcade
-  - snake
-score: 3.8/5  (1205 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Google Snakeは、クリーンなビジュアルと選べるモードで、クラシックな公式をアップデートしています。フルーツを食べて成長しながら、壁や自分の尻尾を避けましょう。長く生き残るほどスピードが上がります。ルールのバリエーションによって、盤面のサイズ、障害物、アイテムの効果が変わります。
 
+### 遊び方
+- 逃げ道を残すルートを計画しましょう。絶対に自分を閉じ込めないでください。
+- 長く直進するときは外周を使い、アイテムを取るときだけ内側に飛び込みましょう。
+- ホストによって有効化された特別なアイテムやモードに適応しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Google Snake updates the classic formula with clean visuals and optional modes. Eat fruit to grow while avoiding walls and your own tail. Speed rises as you survive longer; variant rules change board size, obstacles, and item effects.
+### 操作方法
+- 矢印キーまたはWASDで操縦。UIで一時停止/リスタート。
 
-### How to Play
-- Plan routes that leave escape lanes; never box yourself in.
-- Use the outer ring for long straight runs; dive inward for pickups.
-- Adapt to special items/modes as enabled by the host.
+### ヒント
+- 自分の首に向かって180度ターン（Uターン）しないでください。大回りしましょう。
+- 選択肢を最大化するために、可能な限り尻尾を真っ直ぐに保ちましょう。
+- スピードが速いときは、1マス早くターンを先行入力しましょう。
 
-### Controls
-- Arrow keys or WASD to steer; pause/restart via UI.
-
-### Tips
-- Don’t turn 180° into your neck—make wide turns.
-- Keep the tail straight when possible to maximize options.
-- When fast, pre‑input turns one tile early.
-
-### FAQ
-- Q: How can I avoid running into my own tail?  
-[JA TRANSLATION NEEDED]   A: Keep the tail compact by using straight segments and avoid tight spirals.
-- Q: Does the game get faster over time?  
-[JA TRANSLATION NEEDED]   A: Yes, most versions increase speed with score.
-- Q: Are there different board setups?  
-[JA TRANSLATION NEEDED]   A: Many hosts offer sizes, obstacles, and item variants.
-
+### よくある質問 (FAQ)
+- **Q: 自分の尻尾にぶつからないようにするには？**  
+  A: 直線部分を使って尻尾をコンパクトに保ち、きつい渦巻きは避けましょう。
+- **Q: 時間とともにゲームは速くなりますか？**  
+  A: はい、ほとんどのバージョンではスコアとともに速度が上がります。
+- **Q: 異なる盤面設定はありますか？**  
+  A: 多くのホスト版では、サイズ、障害物、アイテムのバリエーションが提供されています。

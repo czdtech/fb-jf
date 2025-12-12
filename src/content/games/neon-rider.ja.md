@@ -1,60 +1,39 @@
 ---
+title: "Neon Rider"
+description: "Neon Riderは未来的なレーシングゲームです。ネオントラックを乗り、色を切り替え、障害物を避け、高速でレースします。"
+iframeSrc: "https://neonrider.h5games.usercontent.goog/v/3v8a41kqq0tc0/"
+thumbnail: "/new-images/neon-rider.png"
+urlstr: "neon-rider"
+score: "4.2/5  (2089 votes)"
+tags: ["action", "racing"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: neon-rider
-title: '[JA TRANSLATION NEEDED] Neon Rider'
-description: >-
-  [JA TRANSLATION NEEDED] Neon Rider delivers sleek bike‑physics runs — balance,
-  throttle, and flip cleanly to conquer neon tracks.
-iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
-thumbnail: /new-images/neon-rider.png
-tags:
-  - bike
-  - action
-  - casual
-score: 4.0/5  (1768 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Neon Riderは、ネオンの未来的なトラックを通る高速レーシングゲームです。独自のツイストは色切り替えメカニクスです：トラックと一致するためにあなたの色を変更する必要があります。間違った色で障害物に当たると、クラッシュします。
 
-[JA TRANSLATION NEEDED] Neon Rider is a side‑view bike‑physics platformer focused on smooth landings and momentum. Control pitch mid‑air, manage throttle over bumps, and chain jumps without over‑rotating to keep speed.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **先を見る:** 次の色の変更を予測します。
+2.  ��素早く切り替える:** 色を迅速に変更する練習をします。
+3.  **スピードを制御:** 必要に応じて減速します。
+4.  **パターンを学ぶ:** トラックレイアウトを記憶します。
+5.  **集中を保つ:** 完璧な集中が必要です。
 
-[JA TRANSLATION NEEDED] 1.  Land flat: Aim to touch down with wheels level to retain speed.
-[JA TRANSLATION NEEDED] 2.  Tap throttle: Feather power on bumpy terrain to avoid nose dives.
-[JA TRANSLATION NEEDED] 3.  Early corrections: Start pitch corrections in the air, not on landing.
-[JA TRANSLATION NEEDED] 4.  Small flips only: Flip when safe and with enough arc; unnecessary flips bleed speed.
-[JA TRANSLATION NEEDED] 5.  Learn lines: Memorize jump lengths and landing spots for perfect flow.
+### 操作ガイド
 
-### Controls Guide
+- 矢印キー/WASD：加速、ブレーキ、ステア。
+- スペース/数字キー：色を切り替えます。
+- トラックと一致するために色を変更します。
 
-- Accelerate/Brake: Up/Down or W/S.
-- Lean: Left/Right or A/D.
-- Restart: Quick restart to drill hard segments.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- I keep nosing in—why? Too much throttle off lips; ease off before takeoff.
-- How to keep momentum? Land level and avoid over‑rotations; pump small dips.
-
-### コントロールガイド
-- Any trick for big gaps? Commit to full send only when your landing is visible and aligned.
-
-
-
-
-
-
-
-
-- Any trick for big gaps? Commit to full send only when your landing is visible and aligned.
-- How to keep momentum? Land level and avoid over‑rotations; pump small dips.
-- I keep nosing in—why? Too much throttle off lips; ease off before takeoff.
-### よくある質問（FAQ）
-- Restart: Quick restart to drill hard segments.
-- Lean: Left/Right or A/D.
-
-
-- Any trick for big gaps? Commit to full send only when your landing is visible and aligned.
+- **Q: 色をいつ切り替えるべきですか？**  
+  A: 次のトラックセグメントと一致するために。
+- **Q: 継続的にクラッシュします。ヒントは？**  
+  A: 先を見て、色を早めに切り替えます。
+- **Q: レベルはいくつありますか？**  
+  A: バージョンによって異なります。多くは数十のレベルを持っています。

@@ -1,12 +1,13 @@
 ---
 locale: fr
 urlstr: snow-rider-3d
-title: '[FR] Snow Rider 3D'
+title: 'Snow Rider 3D'
 description: >-
-  [FR] Jump on your sled in Snow Rider 3D, a fast-paced winter-themed action
-  game. Steer down the snowy hills, dodge obstacles like trees and snowmen, and
-  use ramps to perform jumps. Collect gifts to unlock new sleds and challenge
-  your reflexes to get the highest score.
+  Monte sur ta luge dans Snow Rider 3D, un jeu d’action hivernal rythmé :
+  dévale les pentes enneigées, évite les obstacles comme les arbres et les
+  bonshommes de neige et utilise les tremplins pour réaliser des sauts.
+  Récupère des cadeaux pour débloquer de nouvelles luges et mets tes réflexes
+  à l’épreuve pour battre tes records.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/snow-rider-3d.jpg
@@ -19,33 +20,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-### Game Introduction
+Snow Rider 3D est un jeu d’action hivernal rapide où tu descends une
+immense montagne enneigée sur une luge. Ton but est d’aller le plus loin
+possible en évitant habilement une grande variété d’obstacles : arbres,
+rochers, bonshommes de neige, blocs de glace, etc. La vitesse augmente et
+les obstacles se densifient, ce qui met tes réflexes et ta capacité
+d’anticipation à rude épreuve.
 
-Snow Rider 3D is a fast-paced, winter-themed action game where you ride a sled down a vast, snowy mountain. The goal is to travel as far as possible while skillfully dodging a variety of obstacles, including trees, rocks, snowmen, and boulders. It's a test of reflexes and anticipation as the speed increases and the challenges become more intense.
+### Guide de jeu
 
-### Gameplay Guide
+Ton objectif principal est de faire le meilleur score en survivant le plus
+longtemps possible. Regarde loin devant pour anticiper les obstacles et
+préparer ta trajectoire. Utilise les tremplins disséminés sur la pente pour
+bondir au‑dessus de gros rochers ou de groupes d’arbres. En chemin, tu peux
+ramasser des cadeaux qui serviront à débloquer de nouvelles luges, plus
+stylées, dans la boutique.
 
-Your main objective is to get the highest score by surviving for as long as you can. Look ahead to anticipate upcoming obstacles and plan your path accordingly. Use the ramps scattered on the hill to your advantage by jumping over large obstacles or clusters of trees. Along the way, you can collect gifts which can be used to unlock new and cooler sleds in the shop.
+### Commandes
 
-### Controls Guide
+Les commandes sont simples et réactives :  
+- **Tourner à gauche :** `A` ou flèche gauche.  
+- **Tourner à droite :** `D` ou flèche droite.  
+- **Sauter :** `W` ou flèche haut.
 
-The controls are simple and responsive:
-- **Steer Left:** `A` or `Left Arrow` key
-- **Steer Right:** `D` or `Right Arrow` key
-- **Jump:** `W` or `Up Arrow` key
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Quel est le but principal de Snow Rider 3D ?**  
+Aller le plus loin possible sans te crasher afin de réaliser le score le
+plus élevé.
 
-**What is the main goal of Snow Rider 3D?**
+**Comment débloquer de nouvelles luges ?**  
+En collectant les cadeaux qui apparaissent sur la piste. Une fois que tu en
+as assez, tu peux acheter des luges supplémentaires dans la boutique du
+jeu.
 
-The goal is to achieve the highest possible score by sledding as far as you can without crashing into an obstacle.
-
-**How can I unlock new sleds?**
-
-You can unlock new sleds by collecting the gift boxes that appear on the slope as you play. Once you have enough, you can purchase new sleds from the in-game shop.
-
-**What's the best strategy for a high score?**
-
-Focus on survival above all else. Make small, controlled movements instead of sharp turns. Look far ahead to anticipate obstacles and don't take unnecessary risks just to grab a gift. Mastering the timing of your jumps is also crucial for clearing difficult sections.
-
+**Quelle est la meilleure stratégie pour un gros score ?**  
+Priorise la survie. Fais de petits mouvements contrôlés plutôt que de
+grands virages brusques. Regarde loin devant, n’exagère pas les risques
+juste pour attraper un cadeau, et maîtrise bien le timing de tes sauts pour
+passer les sections difficiles.

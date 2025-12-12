@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: the-pillar
-title: '[ES] The Pillar'
+title: "The Pillar - Aventura de puzles y escape"
 description: >-
-  [ES] Embark on a mysterious journey in The Pillar, a captivating puzzle and
-  escape room game. Explore enigmatic environments, solve intricate puzzles, and
-  uncover hidden secrets as you progress through a series of challenging levels.
-  Test your logic and observation skills in this immersive adventure.
+  Emprende un viaje misterioso en The Pillar, un cautivador juego de puzles y
+  salas de escape. Explora entornos enigmáticos, resuelve rompecabezas
+  intricados y descubre secretos ocultos a medida que avanzas por niveles cada
+  vez más desafiantes. Pon a prueba tu lógica y tu capacidad de observación en
+  esta aventura inmersiva.
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/the-pillar.jpg
 tags:
@@ -17,35 +18,33 @@ score: 3.8/5  (802 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+The Pillar es un juego inmersivo de puzles y escape que te reta con una serie de rompecabezas ambientales complejos. Explorarás lugares misteriosos y bellamente diseñados, interactuando con objetos y mecanismos para abrir nuevos caminos y desenterrar los secretos escondidos en el mundo del juego. Es una experiencia que premia la observación cuidadosa, la lógica y el pensamiento creativo.
 
-### Game Introduction
+### Guía de juego
 
-The Pillar is an immersive puzzle and escape room game that challenges players with a series of intricate environmental puzzles. Players explore mysterious and beautifully designed locations, interacting with objects and mechanisms to unlock new paths and uncover the secrets hidden within the game's world. It's a game that rewards observation, logic, and creative thinking.
+La jugabilidad principal consiste en resolver puzles para seguir avanzando. Cada área presenta nuevos desafíos que te obligan a manipular objetos, descifrar códigos y comprender la lógica de cada entorno.
+- **Exploración:** recorre distintos escenarios en busca de pistas y elementos interactivos.
+- **Resolución de puzles:** enfréntate a mecanismos, secuencias lógicas, patrones visuales y otros tipos de rompecabezas.
+- **Progresión:** al resolver los puzles, desbloquearás nuevas zonas o conseguirás información clave para seguir adelante.
 
-### Gameplay Guide
+### Guía de controles
 
-The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
-- **Exploration:** Wander through various unique settings, looking for clues and interactive elements.
-- **Puzzle Solving:** Engage with different types of puzzles, from mechanical contraptions to logical sequences.
-- **Progression:** Successfully solving puzzles opens new areas or reveals critical information needed to advance.
+- **Movimiento:** teclas `WASD` o `Flechas` para mover a tu personaje.
+- **Interacción:** botón izquierdo del ratón para examinar objetos, activar mecanismos y resolver puzles.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- **Movement:** `WASD` or `Arrow Keys` to move your character.
-- **Interaction:** `Left Mouse Button` to click on objects, activate mechanisms, and solve puzzles.
+**¿Qué tipo de puzles me voy a encontrar?**
 
-### Frequently Asked Questions (FAQ)
+La variedad es amplia: desde puzles de lógica y reconocimiento de patrones hasta manipulación del entorno e incluso retos basados en el sonido en algunas secciones.
 
-**What kind of puzzles can I expect?**
+**¿Hay historia en The Pillar?**
 
-The puzzles vary widely, including logic puzzles, pattern recognition, environmental manipulation, and sometimes even sound-based challenges.
+Aunque el juego se centra en los puzles, existe una narrativa de fondo que se va revelando a medida que avanzas, normalmente a través del propio entorno y pequeños detalles visuales.
 
-**Is there a story in The Pillar?**
+**¿Es muy difícil el juego?**
 
-While the game is primarily puzzle-driven, there is an underlying narrative or mystery that unfolds as you progress and solve more puzzles, often revealed through environmental storytelling.
-
-**Is the game difficult?**
-
-The difficulty of the puzzles can range from straightforward to quite challenging, requiring players to think critically and sometimes experiment with solutions.
+La dificultad varía entre puzles más sencillos y otros que exigen varios intentos. Muchas veces necesitarás observar con calma, probar combinaciones y no tener miedo a experimentar.
 

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: fullspeed-racing
-title: '[ES] FullSpeed Racing'
+title: "FullSpeed Racing"
 description: >-
-  [ES] FullSpeed Racing is an arcade racer — pick lines, nail braking points,
-  and overtake cleanly at pace.
+  FullSpeed Racing es un arcade de conducción en circuito: elige buenas
+  trayectorias, clava los puntos de frenada y adelanta con limpieza a alta
+  velocidad.
 iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
 thumbnail: /new-images/fullspeed-racing.jpg
 tags:
@@ -16,29 +17,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+FullSpeed Racing ofrece carreras en circuito accesibles y directas. Aprende el
+trazado de cada pista, frena en línea recta, busca un vértice suave y vuelve a
+acelerar pronto sin hacer patinar las ruedas. Los adelantamientos limpios y la
+regularidad suelen ganar más carreras que la velocidad punta bruta.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-FullSpeed Racing delivers approachable circuit racing. Learn track layouts, brake in straight lines, apex smoothly, and accelerate early without wheelspin. Clean overtakes and consistency win more races than raw top speed.
+1. **Frena antes:** Es mejor entrar algo más lento y salir más rápido; evita
+   frenar en plena curva.
+2. **Vértice tardío:** Gira un poco más tarde para enderezar la salida y poder
+   pisar el acelerador antes.
+3. **Defiende con limpieza:** Mantén una única trazada defensiva y evita los
+   cambios bruscos de dirección.
+4. **Mira el minimapa:** Anticipa el tráfico y deja paso a los coches más
+   rápidos cuando toque bandera azul.
+5. **Regularidad:** Encadena vueltas limpias; un error grave suele costar más
+   tiempo que pasar con prudencia por una curva.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Brake early: Enter slower, exit faster; avoid mid‑corner braking.
-2.  **[ES]** Late apex: Turn slightly later to straighten exits and open throttle sooner.
-3.  **[ES]** Defend fair: Hold a single defensive line; avoid weaving.
-4.  **[ES]** Watch minimap: Anticipate traffic and blue‑flag faster cars.
-5.  **[ES]** Consistency: String clean laps; mistakes cost more than cautious corners.
+- **Giro:** A/D o Flechas Izquierda/Derecha.  
+- **Acelerar/Frenar:** W/S o Flechas Arriba/Abajo.  
+- **Nitro/Freno de mano (si existe):** Asignado según el modo; úsalo con
+  moderación.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Steer: A/D or Left/Right.
-- Throttle/Brake: W/S or Up/Down.
-- Nitro/Handbrake (if any): Mapped per mode; use sparingly.
+- **P: Me voy recto y el coche no gira, ¿por qué?**  
+  **R:** Entras demasiado rápido en la curva. Frena antes y llega con menos
+  velocidad al punto de giro.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Cómo adelanto sin chocar?**  
+  **R:** Prepárate una buena salida de curva y aprovecha el rebufo en las
+  rectas para pasar con margen.
 
-- I understeer off track—why? Too fast at turn‑in; brake earlier and trail less speed.
-- How to pass cleanly? Set up exits and use slipstream on straights.
-- Do upgrades matter? Some modes offer car unlocks; craft suits track style.
-
+- **P: ¿Importan las mejoras del coche?**  
+  **R:** En algunos modos puedes desbloquear coches o ajustes distintos; elige
+  los que mejor se adapten al tipo de circuito que estés corriendo.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: words-challenge
-title: '[DE] Words Challenge'
+title: Words Challenge
 description: >-
-  [DE] Words Challenge is a mixed word‑skills set — anagrams, crosswords, and
-  quick trivia that reward breadth and deduction.
+  Words Challenge bündelt verschiedene Wortskills: Anagramme lösen,
+  Mini‑Kreuzworträtsel knacken und schnelle Wortfragen meistern – gefragt sind
+  Sprachgefühl und logische Ableitung.
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/words-challenge.jpg
 tags:
@@ -14,32 +15,32 @@ score: 4.1/5  (1982 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Words Challenge mischt verschiedene Wortdisziplinen: Du löst Anagramme, füllst kleine Kreuzworträtsel und beantwortest schnelle Wort‑Prompts. Wer Muster in Vorsilben und Endungen erkennt und ein Gefühl für Buchstabenhäufigkeiten hat, ist klar im Vorteil – leichte Zeitlimits sorgen für ein angenehmes Tempo.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Morpheme nutzen:** Ziehe typische Vorsilben wie „RE‑“, „UN‑“ oder Endungen wie „‑ING“, „‑ED“, „‑ER“ als Bausteine heran.
+2. **Buchstabenhäufigkeit ausnutzen:** Orientiere dich an häufigen Buchstabenreihenfolgen (z. B. E, T, A, O, I, N, S, R, H, L), wenn du rätst.
+3. **Kreuzwort‑Logik:** In Kreuzwort‑Levels zuerst offensichtliche Einträge lösen, damit die Kreuzungen dir schwierige Wörter verraten.
+4. **Nicht festfahren:** Steckst du bei einem Modus fest, wechsle zum nächsten – ein frischer Blick hilft oft mehr als Grübeln.
+5. **Streaks halten:** Ein gleichmäßiger Spielfluss und Serien richtiger Antworten sichern dir oft Multiplikatoren und Extra‑Punkte.
 
-Words Challenge mixes anagram solving, mini crosswords, and quick prompts. Success favors pattern recognition (prefix/suffix), letter frequency intuition, and calm elimination under light timers.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Ziehe Buchstaben per Drag‑and‑Drop, um Anagramme zu bilden.
+- Tippe bei Kreuzworträtseln Wörter direkt über die Tastatur ein.
+- Klicke bzw. tippe Antwortoptionen bei Schnellfragen an.
 
-1.  **[DE]** Morphology: Mine prefixes (RE/UN) and suffixes (‑ING/‑ED/‑ER) first.
-2.  **[DE]** Frequency: Lean on ETAOIN SHRDLU letter order for guesses.
-3.  **[DE]** Cross logic: In crosswords, fill easy crossings to unlock tough slots.
-4.  **[DE]** Don’t tunnel: Switch modes when stuck; momentum matters.
-5.  **[DE]** Streaks: Maintain steady pace to keep multipliers.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
-
-- Drag letters for anagrams; type for crosswords; click options for prompts.
-
-### Frequently Asked Questions (FAQ)
 
 - Q: I stall on anagrams.
-
-A: Reorder by vowel/consonant blocks and try common patterns.
+**Ich hänge oft an Anagrammen fest – Tipps?**  
 
 - Q: Are proper nouns allowed?
+Gruppiere die Buchstaben mental in Vokale und Konsonanten, probiere gängige Anfangs‑ und Endmuster und mische die Reihenfolge, bis ein bekanntes Muster ins Auge sticht.
 
-A: Usually not; read dictionary rules.
-
+**Werden Eigennamen akzeptiert?**  
+In der Regel nicht – meist zählen nur normale Wörter aus dem zugrunde liegenden Wörterbuch.

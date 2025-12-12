@@ -1,48 +1,61 @@
 ---
 locale: zh
 urlstr: bricks-breaker-house
-title: '[ZH TRANSLATION NEEDED] Bricks Breaker House'
-description: >-
-  [ZH TRANSLATION NEEDED] Bricks Breaker House adds cozy themes to
-  brick‑breaking — craft angles, juggle power‑ups, and keep the house standing.
-iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
-thumbnail: /new-images/bricks-breaker-house.png
+title: Bricks Breaker House 打砖块小屋
+description: 《Bricks Breaker House》是一款以“装修小屋”为主题的打砖块游戏，通过每一关消除砖块获取星星和金币，逐步解锁 房间与家具装饰。
+iframeSrc: 'https://6223mpudgokdc.h5games.usercontent.goog/v/5r95vjlsg9ba8/'
+thumbnail: /new-images/bricks-breaker-house.jpg
 tags:
   - puzzle
   - casual
-score: 3.8/5  (1679 votes)
+score: 4.2/5  (2105 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+*Bricks Breaker House* 将传统打砖块玩法与“装扮房间”系统结合在一起。你在关卡中通过控制挡板反弹小球来击碎砖块，完成关卡即可获得星星或金币，用于装修自己的小屋、购买家具和装饰品。
 
-[ZH TRANSLATION NEEDED] Bricks Breaker House is a themed brick‑breaker where each board introduces fresh obstacles and gentle twists. Your job is classic: keep volleys alive, route shots through high‑value tiles, and leverage power‑ups without losing control.
+砖块布局会随着关卡推进变得更加复杂：  
+有的砖需要多次命中才能破碎；  
+有的砖会掉落强化道具；  
+还有的砖会作为障碍挡住你通往上层的路径。  
+你需要在“追求高分”与“稳定通关”之间取得平衡，才能持续为自己的小屋解锁新内容。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Aim for controlled caroms around 30–45° to keep predictable loops.
-2.  [ZH TRANSLATION NEEDED] Use widen‑paddle and multi‑ball to stabilize difficult waves.
-3.  [ZH TRANSLATION NEEDED] Carve side alleys to trap the ball near the ceiling for extended damage.
-4.  [ZH TRANSLATION NEEDED] Don’t over‑pursue bonuses if they jeopardize a catch.
-5.  [ZH TRANSLATION NEEDED] On tight boards, prioritize clearing bricks that open new angles.
+### 游戏策略与通关思路
 
-### Controls Guide
+1.  **优先稳住球路，避免早早漏球**  
+    无论关卡如何变化，首要任务依旧是不要让小球从挡板下方掉出屏幕。尽量让挡板保持在球的运动轨迹正下方，避免在追道具时过度偏移导致来不及接球。
 
-- Move paddle with A/D or Left/Right; mouse/touch controls supported.
-- Serve with Space/Click; catch power‑ups on the paddle.
+2.  **利用上层空间进行“自动清屏”**  
+    想办法在砖堆中打开一条通道，让小球进入砖块上方的空间。此时球会在上方墙壁与砖块之间反复弹跳，你只需在下方准备接回即可，这往往能一次性清掉大量砖块。
 
-### Frequently Asked Questions (FAQ)
+3.  **合理选择是否追道具**  
+    强化道具（如加宽挡板、多球、激光等）非常强力，但并不是每一个都值得为之冒险跑位。如果为了接取道具而错失接球，得不偿失。优先保证球的安全，其次再考虑能稳稳接到的道具。
 
-- Q: Which upgrades should I prioritize?
+4.  **针对硬砖与特殊砖制定优先级**  
+    需要多次命中的砖或会释放特殊效果的砖块，如果位置很“卡线路”，应尽早多次击打把它们处理掉，以免后面形成永远打不到的死角。
+
+5.  **按自己的节奏建设房间**  
+    完成关卡获得的资源有限，不必一口气把所有房间都解锁。可以先集中装修一两个喜欢的房间，把家具、墙纸等布置好，再继续向更高难关卡推进。
+
+### 操作指南
+
+-   **移动挡板：** 使用鼠标左右移动来控制挡板位置。  
+-   **发射小球：** 在每一局开始时，点击鼠标左键或点击发射按钮，让小球从挡板上弹出。  
+-   **装修界面：** 在主菜单或关卡间隙进入小屋界面，使用获得的星星 / 金币解锁家具、摆件和新房间。  
+
+### 常见问题解答（FAQ）
+
+- **问：进度是不是完全和打砖块表现绑定？**
   
-[ZH TRANSLATION NEEDED]   A: Widen‑paddle and multi‑ball are the safest; speed boosts are riskier.
+  答：是的，通关效率越高、获得的星星越多，就越快解锁更多装饰和房间。但整体节奏偏悠闲，不需要每关都完美三星才能推进剧情。
 
-- Q: How do I deal with narrow tunnels?
+- **问：不同道具效果具体有什么差别？**
   
-[ZH TRANSLATION NEEDED]   A: Serve a modest angle and prepare for rapid rhythmic catches.
+  答：常见的有加宽挡板、多球、穿透球、火球、激光等，具体说明可在界面查看。建议多尝试几局，找到最适合自己手感的组合。
 
-- Q: Is there a best serve angle?
+- **问：小屋布置会影响关卡内玩法吗？**
   
-[ZH TRANSLATION NEEDED]   A: Mid angles (30–45°) usually provide the best balance of control and coverage.
-
+  答：一般不会。装修系统主要提供成就与收集乐趣，方便你直观查看成长轨迹，同时自由布置喜欢的房间主题。

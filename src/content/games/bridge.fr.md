@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: bridge
-title: '[FR] Bridge'
-description: >-
-  [FR] Play the classic partnership card game, Bridge. Work with your partner
-  through bidding and trick-taking to outsmart your opponents and fulfill your
-  contract.
+title: Bridge
+description: "Le bridge est un jeu de plis à 4 joueurs en équipes de deux\_: annonce un contrat, choisis l’atout et joue tes cartes avec ton partenaire pour réaliser le nombre de levées promis."
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
 thumbnail: /new-images/bridge.png
 tags:
@@ -16,33 +13,44 @@ score: 4.7/5  (3000 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+Le bridge est un jeu de cartes très stratégique pour 4 joueurs répartis en deux paires adverses, partenaires assis face à face. Une donne se joue en deux phases :
 
+1. **L’enchère (l’appel)** — les joueurs annoncent successivement des contrats possibles.  
+2. **Le jeu de la carte** — la paire qui a remporté l’enchère (les déclarants) tente de réaliser son contrat, l’autre paire défend.
 
-### Detailed Game Introduction
+Un **contrat** est composé d’un nombre de levées au‑dessus de 6 (de 1 à 7) et d’une couleur d’atout (♣ ♦ ♥ ♠) ou « sans‑atout ». Par exemple, 3♥ veut dire « au moins 9 levées avec Cœur comme atout ».
 
-Bridge is a classic and highly strategic trick-taking card game played by four players in two competing partnerships. Players sit opposite their partners. The game consists of two main phases: the Bidding (or Auction) and the Play. During bidding, the partnerships compete to determine the "contract," which specifies the trump suit and the number of tricks that partnership must win. During the play, the side that won the bid (the declarer) tries to fulfill their contract, while the defenders try to stop them. It is widely considered one of the world's greatest mind sports.
+Le joueur de la paire gagnante qui a d’abord nommé la couleur du contrat devient le **déclarant** ; son partenaire étale son jeu face visible sur la table et devient le **mort**. Le déclarant joue alors à la fois ses cartes et celles du mort.
 
-### Gameplay Strategy & Walkthrough
+### Règles de base du jeu de la carte
 
-1.  **[FR]** **The Bidding:** This is the first phase. Players take turns making bids. A bid consists of a number (1-7) and a suit (Clubs, Diamonds, Hearts, Spades) or "No-Trump" (NT). The number corresponds to the number of tricks over 6 that the partnership commits to winning (e.g., a bid of 3 Hearts means they must win at least 9 tricks with Hearts as the trump suit). The highest bid becomes the final contract.
-2.  **[FR]** **The Play:** The player from the winning partnership who first named the suit of the contract becomes the "declarer." Their partner becomes the "dummy," and places their hand face-up on the table for everyone to see. The declarer plays both their own hand and the dummy's hand.
-3.  **[FR]** **Trick-Taking:** The player to the declarer's left leads the first card. Other players must follow suit if they can. The player who plays the highest card of the suit led wins the trick, unless a trump card is played. If a trump card is played, the highest trump card wins. The winner of a trick leads the next one.
-4.  **[FR]** **Scoring:** If the declarer's side makes their contract (wins the required number of tricks or more), they score points. If they fail, the defending side scores points.
+- Le joueur à gauche du déclarant fournit la **carte d’entame**.  
+- On doit **fournir la couleur demandée** si possible ; sinon, on peut défausser une autre couleur ou couper si l’on a des atouts.  
+- Le plus gros atout joué gagne le pli, sinon la plus grosse carte de la couleur demandée.  
+- Le gagnant du pli entame le pli suivant.
 
-### Controls Guide
+Si les déclarants atteignent (ou dépassent) le nombre de levées annoncé, ils marquent des points ; sinon ce sont les défenseurs qui scorent.
 
-*   **[FR]** **Bidding:** Click on the number and suit you wish to bid, or click "Pass."
-*   **[FR]** **Playing a Card:** Click on the card from your hand (or the dummy's hand, if you are the declarer) that you wish to play.
+### Commandes
 
-### Frequently Asked Questions (FAQ)
+- Enchère : clique sur la hauteur (1–7) puis la couleur ou « SA », ou passe.  
+- Jeu de la carte : clique sur une carte de ta main (ou du mort si tu es déclarant) pour la jouer.
 
-*   **[FR]** **Q: What is a "trick"?**
-    *   **[FR]** **A:** A trick consists of four cards, one played by each of the four players in turn. The highest card wins the trick.
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: What is a "trump suit"?**
-    *   **[FR]** **A:** A trump suit is a suit chosen during the bidding phase that outranks all other suits. For example, if Hearts are trump, even the 2 of Hearts will beat the Ace of any other suit.
+- **Q : C’est quoi une levée (trick) ?**  
+  R : Un pli de 4 cartes, une jouée par chaque joueur. Celui qui joue la carte gagnante remporte la levée.
 
-*   **[FR]** **Q: What does it mean to "follow suit"?**
-    *   **[FR]** **A:** If the first card played in a trick is a Spade, all other players must play a Spade if they have one in their hand. If they do not have a Spade, they can play any other card, including a trump card.
+    - **Q : C’est quoi une couleur d’atout ?**  
+  R : La couleur choisie pendant l’enchère qui bat toutes les autres. Même un petit Cœur gagne contre l’As d’une autre couleur si Cœur est atout.
 
+- **Q : Que signifie « fournir la couleur » ?**  
+
+    - **A:** If the first card played in a trick is a Spade, all other players must play a Spade if they have one in their hand. If they do not have a Spade, they can play any other card, including a trump card.
+
+- **Q: What does it mean to "follow suit"?**
+
+    - **A:** A trump suit is a suit chosen during the bidding phase that outranks all other suits. For example, if Hearts are trump, even the 2 of Hearts will beat the Ace of any other suit.
+  R : Si l’entame est en Pique, tu dois jouer un Pique si tu en possèdes. Ce n’est que lorsque tu n’en as plus que tu peux défausser une autre couleur ou couper avec l’atout.

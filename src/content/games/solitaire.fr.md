@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: solitaire
-title: '[FR] Solitaire'
+title: 'Solitaire'
 description: >-
-  [FR] Solitaire is the classic single-player card game where players arrange
-  cards in specific sequences and suits, aiming to move all cards to foundation
-  piles and clear the tableau in this timeless puzzle game.
+  Solitaire est le jeu de cartes solo classique : dispose les cartes dans des
+  séquences et couleurs spécifiques pour les envoyer sur les piles de
+  fondation et vider le tableau dans ce puzzle intemporel.
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/solitaire.jpg
 tags:
@@ -17,35 +17,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Solitaire est le jeu de cartes solo classique où tu organises les cartes en
+séquences et par couleur, avec pour objectif de toutes les déplacer vers
+les piles de fondation et de vider le tableau. Facile à comprendre mais
+riche en décisions, c’est un puzzle intemporel apprécié pour son mélange de
+chance et de stratégie.
 
+### Stratégies de jeu
 
-### Game Introduction
+1.  **Prioriser les cartes cachées :** essaie en priorité les coups qui
+    retournent des cartes face cachée pour augmenter tes options.
+2.  **Bien utiliser les colonnes vides :** elles ne peuvent accueillir
+    qu’un Roi (ou une suite commençant par un Roi) et servent de stockage
+    temporaire très précieux.
+3.  **Planifier les séquences :** pense à plusieurs coups d’avance pour ne
+    pas bloquer des mouvements futurs.
+4.  **Gérer les fondations :** envoie les cartes vers les fondations au bon
+    moment, mais garde en tête que tu pourras parfois avoir besoin de les
+    redescendre pour débloquer le tableau.
+5.  **Exploiter la défausse :** utilise intelligemment les cartes de la
+    défausse pour compléter les séquences dont tu as besoin.
 
-"Solitaire" is the classic single-player card game where players arrange cards in specific sequences and suits, aiming to move all cards to foundation piles and clear the tableau. This timeless puzzle game is widely popular for its simple-to-learn but strategy-requiring characteristics.
+### Comment jouer
 
-### Gameplay Strategy
+*   **Déplacer des cartes :** clique‑dépose les cartes vers les positions
+    autorisées.  
+*   **Retourner une carte :** clique sur une carte face cachée au sommet
+    d’une pile pour la retourner.  
+*   **Auto‑déplacement :** dans beaucoup de versions, un double‑clic envoie
+    automatiquement la carte vers une fondation valide.  
+*   **Annuler :** certaines versions proposent un bouton d’annulation pour
+    revenir sur un coup.
 
-1.  **[FR]** **Prioritize Revealing Hidden Cards**: Prioritize moving cards that can reveal hidden cards, increasing available move options.
-2.  **[FR]** **Use Empty Columns Wisely**: Empty columns can hold Kings and serve as important temporary storage space.
-3.  **[FR]** **Plan Move Sequences**: Plan multi-step moves in advance to avoid blocking subsequent operations.
-4.  **[FR]** **Foundation Pile Management**: Move cards to foundation piles at appropriate times, but be aware you might need these cards to help other moves.
-5.  **[FR]** **Utilize Waste Pile**: Make good use of cards in the waste pile to complete necessary moves.
+### Foire aux questions
 
-### How to Play
+1.  **Q : Que sont les piles de fondation ?**  
+   R : Ce sont quatre emplacements à remplir par couleur de l’As au Roi.
 
-*   **[FR]** **Move Cards**: Click and drag cards to appropriate positions.
-*   **[FR]** **Flip Cards**: Click on face-down cards at the top of piles to flip them.
-*   **[FR]** **Auto-move**: Double-clicking cards may automatically move them to appropriate foundation piles (if possible).
-*   **[FR]** **Undo**: Some versions provide undo functionality to reverse moves.
+2.  **Q : Comment déplacer plusieurs cartes à la fois ?**  
+   R : Tu ne peux bouger que des suites valides, en ordre décroissant et
+   en alternant les couleurs.
 
-### Frequently Asked Questions
+3.  **Q : Que faire si la partie est bloquée ?**  
+   R : Toutes les distributions ne sont pas gagnables ; si plus aucun coup
+   n’est possible, il faut lancer une nouvelle partie.
 
-1.  **[FR]** **Q: What are foundation piles?**
-**A**: Foundation piles are four empty spaces that need to be filled with cards by suit from A to K in order.
-2.  **[FR]** **Q: How do I move multiple cards?**
-**A**: Only card sequences arranged in descending order with alternating suits can be moved together.
-3.  **[FR]** **Q: What if the game is unsolvable?**
-**A**: Not all card layouts have solutions; when encountering unsolvable situations, you can start a new game.
-4.  **[FR]** **Q: How does the scoring system work?**
-**A**: Usually based on completion time, number of moves, and number of hints used.
+4.  **Q : Comment fonctionne le score ?**  
+   R : Cela dépend de la version, mais il est souvent lié au temps
+   d’achèvement, au nombre de coups et aux éventuels indices utilisés.

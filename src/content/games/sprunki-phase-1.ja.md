@@ -1,40 +1,45 @@
 ---
-locale: ja
-urlstr: sprunki-phase-1
-title: "Sprunki Phase 1 - Sprunki Phase 1 オンラインでプレイ"
-description: "Sprunki Phase 1は、素晴らしいSprunki宇宙への完璧な入り口です。音楽制作の喜びを体験し、この活気に満ちたクリエイティブな世界が最初どのようなものだったかを見るための、シンプルで直感的な方法を提供します。"
-iframeSrc: 'https://turbowarp.org/1127823859/embed'
+title: Sprunki Phase 1 - Play Sprunki Phase 1 Online
+description: Sprunki Phase 1は、音楽制作とホラー雰囲気を組み合わせた革新的なゲーム体験です。
+iframeSrc: 'https://turbowarp.org/1093598129/embed'
 thumbnail: /sprunki-phase-1.png
+urlstr: sprunki-phase-1
+score: 4.1/5  (542 votes)
 tags:
   - sprunki phase 1
-score: 4.3/5  (96 票)
+locale: ja
 ---
 
-完全に中毒性のあるSprunkiの音楽の旅がどこから始まったか疑問に思ったことはありますか？そうです！すべてはSprunki Phase 1から始まりました！このModは、クラシックなIncredboxゲームプレイの基盤の上に構築されたSprunki宇宙のオリジナルで活気に満ちた魅力を体験させてくれます。
 
-### Sprunki Phase 1の何がそんなに特別なの？
+Ever wondered where the totally addictive Sprunki musical journey first kicked off? That's right! It all started with Sprunki Phase 1! This mod takes you back to the very beginning, letting you experience the original, vibrant charm of the Sprunki universe built on the classic Incredibox gameplay foundation.
+### Sprunki Phase 1の紹介
 
-Sprunki Phase 1は単なるコピペではありません。コアな楽しさを維持しながら、新鮮なエネルギーを注入しています。想像してみてください：いつも陽気なパフォーマーやクールなロボットミュージシャン🤖など、まったく新しいキャラクターのクルーに会えます。それぞれが独自の音楽スタイルとサウンドをテーブルにもたらします。活気あるビート、キャッチーなメロディー、遊び心のあるリズムを実験して、Sprunki宇宙の初期の純粋な喜びを本当に捉えることができます。
+Sprunki Phase 1は、音楽制作の楽しさとホラー要素を融合させた画期的なゲーム体験です。このModでは、馴染みのある音楽制作メカニクスに不気味な雰囲気を加え、ユニークで魅力的な体験を提供します。
 
-サウンドだけでなく、Sprunki Phase 1は見た目も素晴らしいです。大胆な背景デザインと詳細なキャラクターにより、インターフェース全体が目を引きながらも、音楽制作の魔法から気をそらすことはありません。さらに良いことに、キャラクターにあらゆる種類の帽子🎩、小道具、アクセサリーを着せて、ユニークにスタイリッシュなバンドを作ることができます！
 
-### Sprunki Phase 1をどうやってロックする？
+Beyond the sound, Sprunki Phase 1 looks awesome too. The bold background designs and detailed characters make the whole interface eye-catching without distracting you from the music-making magic. Even better, you can deck out your characters with all sorts of hats 🎩, props, and accessories to create a uniquely stylish band!
+### Sprunki Phase 1のゲームプレイ
 
-本当に簡単です！
+ゲームの目標は、さまざまなキャラクターを使用して音楽トラックを作成することです。各キャラクターにはユニークなサウンドがあり、これらを組み合わせて独自の音楽作品を作成できます。
 
-- **クルーをドラッグ：** ラインナップから気に入ったキャラクターを選んでステージにドラッグします。
-- **サウンドをミックス：** 各キャラクターは異なるビート、ハーモニー、またはリズムを出します。好きなサウンドが見つかるまで、組み合わせを自由に実験しましょう！
-- **バンドをスタイリング：** パフォーマンス中にキャラクターをさらにクールに見せるために、アクセサリーを追加することを忘れないでください。
-- **簡単なコントロール：** マウスを使ってキャラクターをドラッグするだけです。新しく始めたい場合は、ステージをクリアするためのオプションのキーボードショートカットもあるかもしれません。
 
-### なぜSprunki Phase 1を絶対に試すべきなの？
+- **Easy Controls:** Just use your mouse to drag the characters around. If you want a fresh start, there might be optional keyboard shortcuts to clear the stage too.
 
-- **すべてが始まった場所：** これは起源の物語であり、初期のSprunki制作の純粋で濾過されていない楽しさを体験できます。
-- **シンプル＆超楽しい：** コントロールは信じられないほど簡単で、音楽のプロでも初心者でも、誰にでも最適です。
-- **創造性を刺激：** プレイするたびに、異なる考え方をして、まったく新しいものを作ることを奨励します。
-- **視聴覚のごちそう：** 素晴らしいサウンドだけでなく、魅力的なアニメーションと明るい色が、創作プロセス全体を楽しくします。
-- **隠されたグッズ：** 異なるサウンドの組み合わせで遊んでみてください！秘密のボーナストラックと独占的なアニメーションをアンロックできるかもしれません！
+- **Style Your Band:** Don't forget to add some accessories to make your characters look extra cool while they perform.
 
-### まとめ：
+- **Mix Those Sounds:** Each character drops a different beat, harmony, or rhythm. Go wild experimenting with combinations until you find a sound you love!
 
-Sprunki Phase 1は、素晴らしいSprunki宇宙への完璧な入り口です。音楽制作の喜びを体験し、この活気に満ちたクリエイティブな世界が最初どのようなものだったかを見るための、シンプルで直感的な方法を提供します。長年のSprunkiファンでも、シーンにまったく新しい人でも、Sprunki Phase 1は素晴らしく楽しい音楽の旅を保証します。Sprunki Phase 1に飛び込んで、指先だけで最初のSprunki傑作を作曲し、みんなと作品を共有しましょう！🎧✨
+- **Drag Your Crew:** Pick the characters you vibe with from the lineup and drag 'em onto the stage.
+### 操作ガイド
+
+ - **キャラクターを選択：** 利用可能なキャラクターから選択します。
+ - **ドラッグアンドドロップ：** キャラクターをステージにドラッグして音楽を作成します。
+ - **実験：** さまざまな組み合わせを試して、隠された機能や特別なエフェクトをアンロックします。
+
+
+- **Hidden Goodies:** Play around with different sound combos! You might just unlock secret bonus tracks and exclusive animations!
+
+- **An Audio-Visual Treat:** Not only does it sound great, but the engaging animations and bright colors make the whole creation process a blast.
+### なぜSprunki Phase 1をプレイするのか？
+
+音楽制作が好きで、少しホラーの雰囲気を楽しみたい人には、Sprunki Phase 1が完璧です。創造性とスリルが融合したユニークな体験を提供します。

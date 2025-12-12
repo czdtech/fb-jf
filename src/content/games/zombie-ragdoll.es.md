@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: zombie-ragdoll
-title: '[ES] Zombie Ragdoll'
+title: "Zombie Ragdoll - Cadáveres como munición"
 description: >-
-  [ES] Zombie Ragdoll is a ragdoll physics shooter — launch corpses, trigger
-  traps, and clear puzzles with chain reactions.
-iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
-thumbnail: /new-images/zombie-ragdoll.jpg
+  Zombie Ragdoll es un shooter de físicas con ragdolls: lanza cuerpos,
+  activa trampas y resuelve puzles provocando espectaculares reacciones en
+  cadena.
+iframeSrc: "https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/"
+thumbnail: "/new-images/zombie-ragdoll.jpg"
 tags:
   - shooting
   - puzzle
@@ -16,31 +17,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
-
 ### Detailed Game Introduction
 
-Zombie Ragdoll is a puzzle shooter where you fling ragdolls to trigger levers, hit explosives, and topple structures. Mastering launch angles and sequencing traps yields satisfying chain clears.
+Zombie Ragdoll es un rompecabezas de disparos en el que lanzas cuerpos de zombi tipo ragdoll para accionar palancas, detonar explosivos y derribar estructuras. Dominar los ángulos de lanzamiento y el orden en que activas las trampas es la clave para lograr cadenas de destrucción muy satisfactorias.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** First shot scouts physics; adjust angle/power after observing.
-2.  **[ES]** Hit triggers first to open kill paths.
-3.  **[ES]** Use bouncers/walls to redirect ragdolls.
-4.  **[ES]** Save straight power shots for anchors.
-5.  **[ES]** Minimal shots win bonuses — plan before firing.
+1.  **Usa el primer tiro como prueba:** dispara una vez para observar cómo reaccionan los elementos y ajusta ángulo y potencia después.
+2.  **Golpea disparadores primero:** apunta a interruptores, TNT y mecanismos que abran el camino hacia el resto de objetivos.
+3.  **Aprovecha rebotes y superficies elásticas:** lanza hacia muelles, paredes y otros elementos que redirijan el ragdoll.
+4.  **Reserva los tiros rectos:** guarda los disparos más potentes y directos para anclar estructuras clave.
+5.  **Menos disparos, más recompensa:** cuantos menos intentos uses, mejores serán las recompensas, así que planifica antes de disparar.
 
 ### Controls Guide
 
-- Drag to set angle/power and release to launch; restart via UI.
+- Arrastra para elegir ángulo y potencia y suelta para lanzar; reinicia el nivel desde la interfaz si quieres volver a intentarlo.
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I barely move structures.
+- **Q: Apenas consigo mover las estructuras.**  
+  **A:** Apunta a los puntos de apoyo o combina tus lanzamientos con explosivos para tener más fuerza de impacto.
 
-A: Target supports or use explosives for leverage.
-
-- Q: Shots feel random.
-
-A: Make a scouting shot, then iterate with small angle/power tweaks.
+- **Q: Siento que los disparos son muy aleatorios.**  
+  **A:** Toma uno o dos tiros de exploración y, a partir de ahí, ajusta en pequeños incrementos el ángulo o la potencia en lugar de cambiarlo todo de golpe.
 

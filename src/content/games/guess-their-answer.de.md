@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: guess-their-answer
-title: '[DE] Guess Their Answer'
+title: "Guess Their Answer"
 description: >-
-  [DE] Guess Their Answer is a quick survey showdown — think like the crowd,
-  list top answers, and outscore opponents with broad coverage.
+  Guess Their Answer ist ein schnelles Umfrage-Quiz: Versuche wie die Masse zu
+  denken, finde die beliebtesten Antworten auf eine Frage und schlage deine
+  Gegner mit möglichst breiter Abdeckung.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
 thumbnail: /new-images/guess-their-answer.png
 tags:
@@ -16,36 +17,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Guess Their Answer spielt sich wie eine Quizshow im Stil von "Familien-Duell".
+Du bekommst einen Prompt wie „Dinge, die man mit an den Strand nimmt“ und musst
+erraten, welche Antworten die Mehrheit der Leute gegeben hat. Je populärer eine
+Antwort, desto mehr Punkte gibt sie – sehr spezielle Antworten bringen dagegen
+wenig. Entscheidend ist also nicht Expertenwissen, sondern ein gutes Gefühl
+dafür, wie der durchschnittliche Spieler denkt.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **In Kategorien denken**  
+    Teile die Frage zunächst in grobe Bereiche ein – zum Beispiel **Personen,
+    Gegenstände, Aktionen** – und decke diese Themen mit jeweils einer starken
+    Antwort ab, bevor du Feintuning machst.
 
-Guess Their Answer plays like a family‑feud style survey game. Given a prompt (“Things you bring to the beach”), you must list common answers. Points scale by popularity; obscure answers score little. The meta is not niche knowledge but modeling average respondents.
+2.  **Breite statt Synonyme-Spam**  
+    Versuche zuerst, möglichst viele verschiedene Unterthemen mit je einer
+    Antwort abzudecken, statt mehrere Synonyme für denselben Gegenstand zu
+    raten (z. B. erst "Handtuch", dann "Sonnencreme", bevor du an Varianten
+    denkst).
 
-### Gameplay Strategy & Walkthrough
+3.  **Zielgruppe im Kopf behalten**  
+    Überlege dir, wie eine typische Familie oder Durchschnittsgruppe antworten
+    würde – eher praktisch und vertraut als exotisch.
 
-1.  **[DE]** Start with categories: People, objects, actions; then expand synonyms (e.g., sunglasses/shades).
-2.  **[DE]** Cover spectrum: List one answer per sub‑theme rather than synonyms first to maximize early coverage.
-3.  **[DE]** Think demographics: Family answers skew practical and familiar.
-4.  **[DE]** Don’t overfit: If an answer flops, pivot quickly to a different sub‑theme.
-5.  **[DE]** Head‑to‑head: Block likely opponent picks early.
+4.  **Schnell umschwenken, wenn etwas nicht zieht**  
+    Wenn eine Idee klar nicht trifft, wechsle zügig in ein anderes Unterthema,
+    statt zu lange im gleichen Bereich zu bleiben.
 
-### Controls Guide
+5.  **Duell-Modus nutzen**  
+    In direkten Duellen lohnt es sich, offensichtliche Top-Antworten früh zu
+    nennen, um sie dem Gegner wegzunehmen.
 
-- Type answers and submit; the game checks popularity lists.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- Tippe deine Antworten über die Tastatur ein und bestätige sie. Das Spiel
+  gleicht sie mit einer Liste populärer Antworten ab.
 
-- Q: My clever answers don’t score — why?
+### Häufige Fragen (FAQ)
 
-A: Scoring favors common responses. Switch to broadly familiar items/actions.
+- **F: Warum bekommen meine „kreativen“ Antworten so wenig Punkte?**  
+  **A:** Das Punktesystem bevorzugt verbreitete Antworten. Versuche, in
+  alltagsnahen, leicht nachvollziehbaren Kategorien zu denken.
 
-- Q: Are misspellings accepted?
+- **F: Werden Rechtschreibfehler akzeptiert?**  
+  **A:** Manche Versionen korrigieren kleinere Tippfehler automatisch, andere
+  verlangen eine relativ genaue Schreibweise.
 
-A: Some variants autocorrect; others require correct spelling or close matches.
-
-- Q: Any hint system?
-
-A: Some modes offer letter hints or reveal the category breadth.
-
+- **F: Gibt es ein Hinweissystem?**  
+  **A:** Einige Modi bieten Buchstabenhinweise oder zeigen an, wie breit das
+  Antwortspektrum ist – nutze das sparsam, damit es sich lohnt.

@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: pirates-match-3
-title: '[ZH TRANSLATION NEEDED] Pirates Match 3'
-description: >-
-  [ZH TRANSLATION NEEDED] Ahoy, matey! Set sail on a puzzle adventure in Pirates
-  Match 3. Swap pirate-themed gems like skulls, anchors, and coins to make
-  matches of three or more and claim your treasure.
+title: 《Pirates Match 3》海盗消消乐
+description: 《Pirates Match 3》是一款海盗主题三消益智游戏，你需要交换骷髅、锚、船舵、金币等图标，凑成三个或更多相同图案来完成关卡目标、收集宝藏。
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/pirates-match-3.jpg
@@ -19,33 +16,33 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Pirates Match 3 is a classic match-3 puzzle game with a swashbuckling pirate theme. Players dive into a world of treasure maps and pirate booty, swapping colorful, pirate-themed icons like skulls, anchors, ship wheels, and coins. The goal is to create lines of three or more identical items to complete level-specific objectives, such as reaching a target score or clearing special tiles, all within a limited number of moves.
+《Pirates Match 3》是一款经典三消玩法配上海盗宝藏题材的休闲游戏。棋盘上布满海盗元素图标，如骷髅头、船锚、舵轮与金币等，你需要通过交换相邻方块，使之形成三个及以上同图案的横排或竖排，从而完成每一关的特定任务，例如达到指定分数、打碎木板、解锁宝箱等，且所有操作都要在限定步数内完成。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Create Power-ups:** The key to clearing difficult levels is to create special items by matching more than three pieces.
-    * [ZH TRANSLATION NEEDED] **Match 4:** Creates a line-clearing item that will destroy an entire row or column.
-    * [ZH TRANSLATION NEEDED] **Match 5 (L or T shape):** Creates a bomb that explodes and clears a large area of surrounding items.
-    * [ZH TRANSLATION NEEDED] **Match 5 (in a line):** Creates a special item (like a treasure chest) that can clear all items of a single color from the board.
-2.  [ZH TRANSLATION NEEDED] **Combine Power-ups:** For maximum effect, try to swap two power-ups with each other. This will trigger a massive board-clearing combo that can help you complete objectives much faster.
-3.  [ZH TRANSLATION NEEDED] **Focus on the Objective:** Always be aware of the level's goal. If you need to break all the wooden planks in the background, focus your matches on those specific tiles. If you need to drop an item to the bottom, clear the path beneath it.
-4.  [ZH TRANSLATION NEEDED] **Plan Your Moves:** With a limited number of moves per level, every swap counts. Look for moves that will create a cascade or set up a future power-up combination.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **优先制造特殊道具：** 想要轻松应对高难关卡，关键在于制造和使用各种特殊消除方块：  
+    *   **4 连消：** 生成可清除整行或整列的直线特效方块；  
+    *   **5 连消（L/T 形）：** 生成范围爆炸的炸弹，能一次清理大片区域；  
+    *   **5 连直线：** 生成类似“宝箱”的全屏特效，可清除棋盘上某一图案的所有方块。
+2.  **组合特效威力翻倍：** 尝试将两个特效方块交换触发，例如炸弹+直线、直线+直线或两个全屏特效之间的组合，这类连携往往能瞬间清掉半个甚至整个棋盘，大幅推进任务进度。
+3.  **紧盯关卡目标：** 有的关卡要求打碎背景木板，有的要求让特定道具掉到底部，有的则只看分数。在操作前先看清目标，优先在关键区域进行消除，避免步数浪费在无关位置。
+4.  **规划每一步的“后手”：** 在步数有限的情况下，每一次交换都应该尽量制造下一个特效或连锁消除，而不仅仅是完成一次普通三消。观察是否能触发连锁或为后续落子创造有利局面。
 
-[ZH TRANSLATION NEEDED] The game is played with simple mouse or touch controls.
+### 操作说明
 
-*   **Swap Items:** Click and drag an item to swap it with an adjacent one. A swap is only valid if it creates a match of three or more.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple mouse or touch controls.
+*   **交换图标：** 通过鼠标或手指拖动一个图标到相邻格子，与之交换位置。只有当这一交换能形成至少三个相同图标连成一线时，交换才会生效并触发消除。
 
-*   **Q: How do I break the wooden planks or chains?**
-     *   **A:** You must make a match on top of the plank or include the chained item in a match. It may take more than one match to fully clear some obstacles.
+### 常见问题（FAQ）
 
-*   **Q: What is the best power-up combination?**
-     *   **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
+*   **问：如何打碎木板、锁链等障碍？**
+    *   **答：** 需要在障碍所在格子上直接完成一次消除，或用范围型特效（炸弹、直线等）波及到该格子。部分坚固障碍可能需要多次命中才能完全消除。
 
-*   **Q: What happens if I run out of moves?**
-     *   **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
+*   **问：最强的特效组合是哪种？**
+    *   **答：** 一般来说，两个“5 连直线”特效互相组合时会触发全屏清除效果，是最强力的组合之一；炸弹与直线结合也拥有极高清场能力。
 
+*   **问：如果步数用完还没完成目标会怎样？**
+    *   **答：** 步数耗尽且关卡目标未完成时，本局会判定失败，需要重新挑战该关卡；部分版本可能允许使用额外道具或付费步数继续。

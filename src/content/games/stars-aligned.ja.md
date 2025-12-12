@@ -1,63 +1,52 @@
 ---
-locale: ja
-urlstr: stars-aligned
-title: '[JA TRANSLATION NEEDED] Stars Aligned'
-description: >-
-  [JA TRANSLATION NEEDED] Stars Aligned is a soothing constellation puzzler —
-  rotate fragments, connect lines, and form complete star patterns.
-iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
+title: Stars Aligned
+description: Stars Alignedは、落ち着いた星座パズラーです — フラグメントを回転させ、線をつなぎ、完全な星のパターンを形成します。
+iframeSrc: 'https://ubg98.github.io/StarsAligned/'
 thumbnail: /new-images/stars-aligned.jpg
+urlstr: stars-aligned
+score: 4.4/5  (2183 votes)
 tags:
   - puzzle
-  - thinky
+  - relaxing
   - casual
-score: 4.4/5  (2183 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Stars Alignedは、美しくリラックスできる星座パズルゲームです。フラグメントを回転させて線をつなぎ、夜空に完全な星のパターンを形成しましょう。
 
-[JA TRANSLATION NEEDED] Stars Aligned is a gentle spatial puzzle about connecting star fragments into constellations. Rotate pieces to align lines and nodes; later stages introduce more fragments and subtle rotations that demand careful inspection.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
+ - **フラグメントを回転：** 画面上のフラグメントをクリックまたはタップして回転させます
+ - **線をつなぐ：** フラグメントを回転させて星の線をつなぎます
+ - **パターンを完成：** すべてのフラグメントを正しく配置して完全な星座を形成します
+ - **リラックス：** 落ち着いた音楽とビジュアルを楽しみましょう
 
-[JA TRANSLATION NEEDED] 1.  Start with anchors: Lock obvious matches first to reduce possibilities.
-[JA TRANSLATION NEEDED] 2.  Check all rotations: Slight orientation changes often reveal hidden fits.
-[JA TRANSLATION NEEDED] 3.  Symmetry cues: Many constellations are symmetric—use mirroring to test placements.
-[JA TRANSLATION NEEDED] 4.  Isolate sub‑graphs: Solve small connected groups before linking the whole.
-[JA TRANSLATION NEEDED] 5.  Zoom for precision: Use any zoom to verify nearly‑aligned joints.
 
-### Controls Guide
+- Zoom for precision: Use any zoom to verify nearly‑aligned joints.
+### 操作ガイド
 
-- Rotate pieces and drag them into place per the UI.
+ - **マウス/タッチ：** フラグメントをクリックまたはタップして回転させます
+
+
 - Undo/Reset as needed to test patterns.
-
-### Frequently Asked Questions (FAQ)
-
-- A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
-- Timers? Often relaxed; enjoy the ambient pace.
-- Hints? Some modes include hints; use sparingly.
-
-
-
-
-
-
-
-
-
-- Hints? Some modes include hints; use sparingly.
-- Timers? Often relaxed; enjoy the ambient pace.
-- A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
 ### よくある質問（FAQ）
-- Undo/Reset as needed to test patterns.
-- Rotate pieces and drag them into place per the UI.
-### コントロールガイド
-
-
 
 
 - Hints? Some modes include hints; use sparingly.
+
 - Timers? Often relaxed; enjoy the ambient pace.
+
 - A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
+**ゲームの目標は何ですか？**
+
+フラグメントを回転させて線をつなぎ、完全な星座パターンを形成することです。
+
+**ゲームは難しいですか？**
+
+このゲームはリラックスするようにデザインされており、穏やかな難易度曲線があります。時間制限やプレッシャーはありません。
+
+**どれくらいレベルがありますか？**
+
+ゲームには多くの星座パズルがあり、それぞれが独自のパターンとチャレンジを提供します。

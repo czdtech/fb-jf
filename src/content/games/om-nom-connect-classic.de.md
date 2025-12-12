@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: om-nom-connect-classic
-title: '[DE] Om Nom Connect Classic'
+title: Om Nom Connect Classic
 description: >-
-  [DE] Connect with Om Nom in this classic tile-matching puzzle! Find pairs of
-  identical tiles featuring Om Nom and his friends, and clear the board by
-  linking them with a path of no more than two turns.
+  Verbinde Om Nom in diesem klassischen Kachel-Puzzle! Finde Paare identischer
+  Kacheln mit Om Nom und seinen Freunden und räume das Spielfeld, indem du sie
+  mit einem Weg mit höchstens zwei Ecken verbindest.
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/om-nom-connect-classic.jpg
@@ -18,34 +18,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Om Nom Connect Classic ist ein schnelles, liebevoll gestaltetes
+ Kachel-Verbindespiel mit den Figuren aus dem Cut-the-Rope-Universum. Dein Ziel
+ ist es, das Spielfeld zu leeren, indem du Paare identischer Kacheln findest und
+ verbindest. Die Besonderheit liegt in der Verbindungsregel: Ein Paar kann nur
+ entfernt werden, wenn der Weg zwischen den beiden Kacheln höchstens zwei
+ 90-Grad-Ecken enthält. Da zusätzlich ein Timer mitläuft, brauchst du sowohl
+ einen guten Blick als auch schnelle Entscheidungen.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Die Verbindungsregel verstehen:** Du kannst zwei identische Kacheln nur
+    verbinden, wenn du eine Linie zwischen ihnen zeichnen könntest, die maximal
+    zwei Knicke hat (L-Form oder Z/U-Form). Der Weg darf nicht durch andere
+    Kacheln blockiert sein.
+2.  **Ränder zuerst scannen:** Am Rand des Spielfelds lassen sich häufig
+    einfache Paare finden, da dort mehr Freiraum ist. Schau zuerst nach
+    benachbarten Kacheln oder solchen, die sich mit einer geraden Linie
+    verbinden lassen.
+3.  **Vorausdenken:** Jede entfernte Kachel öffnet neue Wege. Versuche Paare zu
+    wählen, die den Zugang zu eingeschlossenen Bereichen in der Mitte erleichtern.
+4.  **Hinweise und Mischen nutzen:** Wenn du nicht weiterweißt, setze einen
+    Hinweis ein, um ein gültiges Paar angezeigt zu bekommen. Bist du komplett
+    blockiert, mischt der Shuffle-Button alle verbleibenden Kacheln neu durch.
 
-Om Nom Connect Classic is a fun and fast-paced tile-matching puzzle game featuring the adorable characters from the Cut the Rope universe. The goal is to clear the board by finding and connecting pairs of identical tiles. The challenge lies in the connection rule: a pair can only be removed if the path between them has no more than two 90-degree turns. With a timer counting down, you'll need to be quick and strategic to complete each level.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+Das Spiel wird allein mit Mausklicks oder Taps gespielt.
 
-1.  **[DE]** **The Connection Rule:** You can only match two identical tiles if you can draw a line between them with a maximum of two bends (L-shape or Z/U-shape). The path must also be clear of any other tiles.
-2.  **[DE]** **Scan the Edges:** The easiest matches are often on the outside of the grid. Start by quickly scanning the perimeter for adjacent pairs or those that can be connected with a straight line.
-3.  **[DE]** **Think Ahead:** Every pair you remove opens up new possibilities. Try to make matches that will clear a path to other potential pairs, especially those trapped in the center of the board.
-4.  **[DE]** **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a valid pair. If you completely run out of moves, use the shuffle button to rearrange all the tiles on the board and create new matching opportunities.
+*   **Kacheln auswählen:** Klicke auf eine Kachel, um sie zu markieren, und
+    dann auf ihr identisches Gegenstück. Ist der Weg gültig, verschwinden beide
+    Kacheln vom Feld.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game is played with simple clicks or taps.
+*   **F: Warum kann ich zwei gleiche Kacheln nicht verbinden?**
+    **A:** Entweder blockiert eine andere Kachel den Weg, oder die Verbindung
+    würde mehr als zwei 90-Grad-Knicke benötigen.
 
-*   **[DE]** **Select Tiles:** Click on a tile to select it, then click on its identical partner. If the connection is valid according to the rules, the pair will be removed.
+    - **F: Was passiert, wenn die Zeit abläuft?**
+    **A:** Läuft der Timer auf null, bevor alle Kacheln entfernt sind, verlierst
+    du das Level und musst es neu beginnen.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Gibt es eine beste Strategie, um schnell Paare zu finden?**
 
-*   **[DE]** **Q: Why can't I connect two identical tiles?**
-    *   **[DE]** **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.
+    - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
 
-*   **[DE]** **Q: What happens if the timer runs out?**
-    *   **[DE]** **A:** You will fail the level and have to start over. Speed and quick recognition are key!
+- **Q: What's the best strategy for finding matches quickly?**
 
-*   **[DE]** **Q: What's the best strategy for finding matches quickly?**
-    *   **[DE]** **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
-
+    - **A:** You will fail the level and have to start over. Speed and quick recognition are key!
+    **A:** Fixiere dich nicht zu lange auf eine Stelle. Lass deinen Blick über
+    das gesamte Feld wandern. Oft übersieht man offensichtliche Paare, wenn man
+    sich zu sehr auf einen kleinen Bereich konzentriert.

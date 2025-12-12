@@ -1,62 +1,38 @@
 ---
+title: "Basket Battle バスケット・バトル"
+description: "「Basket Battle」は物理演算を駆使したバスケットボール対決です。弧を描いてシュートし、リバウンドを制し、スピーディーな試合展開で相手を圧倒しましょう。"
+iframeSrc: "https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/"
+thumbnail: "/new-images/basket-battle.png"
+urlstr: "basket-battle"
+score: "3.9/5  (1728 votes)"
+tags: ["sports", "basketball"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: basket-battle
-title: '[JA TRANSLATION NEEDED] Basket Battle'
-description: >-
-  [JA TRANSLATION NEEDED] Basket Battle is a physics basketball duel — aim arcs,
-  box out, and outscore in quick bouts.
-iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
-thumbnail: /new-images/basket-battle.png
-tags:
-  - sports
-  - basketball
-score: 3.9/5  (1728 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Basket Battle（バスケット・バトル）*は、手軽でありながら物理演算の要素を取り入れたバスケットボール・ミニゲームです。このゲームの魅力は、シュートの「弧（アーチ）」を読み、タイミングを合わせ、リバウンドの攻防を制することにあります。短時間の激しいラウンドで対戦相手を出し抜き、勝利を掴み取りましょう。
 
-[JA TRANSLATION NEEDED] Basket Battle is a snappy, physics‑leaning basketball mini‑game. Line up arcs, control timing, and manage rebounds to edge opponents in short, hectic rounds.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **アーチを描く：** 高い軌道（アーチ）を描くシュートは、ボールが柔らかく落下するため、低いシュートよりも入りやすいです。
+2.  **リバウンド制圧：** シュートが外れた後、ボールの落下地点に入り込んでポジションを取り（ボックスアウト）、セカンドチャンスでの得点を狙いましょう。
+3.  **テンポ：** リバウンドを取ったら、相手のディフェンスが整う前に素早くシュートを放ちましょう。
+4.  **シュート選択：** 遠くから直線的なシュートを打つのはリスクが高いです。より確実に入る位置までステップインしましょう。
+5.  **風に注意：** 風があるステージでは、その影響を計算に入れて狙いをずらす（オフセットする）必要があります。
 
-[JA TRANSLATION NEEDED] 1.  Arc aiming: Higher arcs drop softer and score more consistently.
-[JA TRANSLATION NEEDED] 2.  Rebounds: Box out after shots to secure second‑chance points.
-[JA TRANSLATION NEEDED] 3.  Tempo: Shoot quickly off rebounds before defense resets.
-[JA TRANSLATION NEEDED] 4.  Shot selection: Avoid flat drives from deep; step in for better odds.
-[JA TRANSLATION NEEDED] 5.  Mind wind (if any): Offset aim when wind appears.
+### 操作ガイド
 
-### Controls Guide
+*   **狙う/パワー調整：** 画面をドラッグして狙いを定め、離してシュートします。
+*   **移動/ジャンプ：** カーソルキーや専用ボタンを使用します（バージョンやモードにより異なります）。
 
-- Aim/Power: Drag to aim, release to shoot.
-- Move/Jump (if available) via arrows/buttons.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Shots rim out—why? Too flat or over‑powered; raise arc and reduce power.
-- Can I dunk? Depends on mode; close‑range jumps may allow it.
-- Multiplayer? Often local head‑to‑head.
-
-
-
-
-
-
-
-
-
-- Multiplayer? Often local head‑to‑head.
-- Can I dunk? Depends on mode; close‑range jumps may allow it.
-- Shots rim out—why? Too flat or over‑powered; raise arc and reduce power.
-### よくある質問（FAQ）
-- Move/Jump (if available) via arrows/buttons.
-- Aim/Power: Drag to aim, release to shoot.
-### コントロールガイド
-
-
-
-
-- Multiplayer? Often local head‑to‑head.
-- Can I dunk? Depends on mode; close‑range jumps may allow it.
-- Shots rim out—why? Too flat or over‑powered; raise arc and reduce power.
+*   **シュートが弾かれてばかりです。**
+    *   軌道が低すぎる（フラット）か、力が強すぎます。もっと高い山なりのボールを意識し、パワーを少し抑えてください。
+*   **ダンクシュートはできますか？**
+    *   モードによりますが、ゴール付近でジャンプすれば可能な場合があります。
+*   **マルチプレイはできますか？**
+    *   多くのバージョンでは、ローカル（1台の端末）での対戦モードが搭載されています。

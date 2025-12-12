@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: cannon-balls-3d
-title: '[ES] Cannon Balls 3D'
+title: "Cannon Balls 3D"
 description: >-
-  [ES] Ready, aim, fire! Demolish structures with your cannon in this satisfying
-  3D physics puzzle. Aim for the weak spots and use your limited ammo wisely to
-  bring everything crashing down.
+  ¡Apunta y fuego! Demuele estructuras con tu cañón en este satisfactorio puzle
+  3D de físicas. Busca los puntos débiles y administra bien tu munición limitada
+  para hacerlo todo añicos.
 iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
 thumbnail: /new-images/cannon-balls-3d.png
 tags:
@@ -17,34 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Cannon Balls 3D es un puzle de físicas muy satisfactorio en el que manejas un
+cañón para derribar distintas estructuras. Cada nivel te presenta un edificio o
+montaje de bloques diferente, y tu objetivo es destruirlo usando un número
+limitado de balas de cañón. El éxito no depende solo de apuntar bien, sino de
+saber identificar los puntos estructurales débiles para provocar el máximo
+colapso con el mínimo de disparos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Cannon Balls 3D is a satisfying physics-based puzzle game where you take control of a powerful cannon to demolish various structures. Each level presents you with a unique building or arrangement of blocks, and your goal is to destroy it using a limited number of cannonballs. Success requires not just good aim, but also a strategic eye for identifying structural weak points to cause maximum collapse with minimum shots.
+1.  **Analiza la estructura:** Antes de disparar, tómate un momento para estudiar
+    el edificio. Busca bloques clave en la base, bidones explosivos u otros
+    puntos frágiles. Lo ideal es desencadenar una reacción en cadena.
+2.  **Apunta a los cimientos:** A menudo, la táctica más eficaz es destruir
+    primero los bloques inferiores. Si rompes la base, la estructura superior se
+    vuelve inestable y puede venirse abajo por sí sola, ahorrándote munición.
+3.  **Ahorra disparos:** Tus balas son limitadas. Cada tiro debe contar. Evita
+    disparar a la parte alta si no es estrictamente necesario para un objetivo
+    concreto.
+4.  **Aprovecha los bloques especiales:** Estate atento a cajas de TNT u otros
+    bloques especiales. Al impactarlos puedes provocar explosiones que eliminan
+    grandes secciones y te ahorran varios disparos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Analyze the Structure:** Before you fire your first shot, take a moment to examine the building. Look for key support blocks at the base, explosive barrels, or any other potential weak points. The goal is to start a chain reaction.
-2.  **[ES]** **Aim for the Foundation:** The most effective strategy is often to destroy the lowest blocks first. Taking out the foundation can cause the entire structure above it to become unstable and collapse on its own, saving you precious ammunition.
-3.  **[ES]** **Conserve Your Ammo:** You only have a limited number of cannonballs per level. Make every shot count. Avoid taking potshots at the top of the structure unless it's necessary to hit a specific target.
-4.  **[ES]** **Use Special Blocks:** Keep an eye out for special blocks like explosive TNT crates. Hitting one of these can create a large explosion, clearing a significant portion of the structure and saving you multiple cannonballs.
+Los controles son sencillos y directos.
 
-### Controls Guide
+*   **Apuntar el cañón:** Usa el ratón para apuntar. Muévelo a izquierda/derecha
+    para rotar el cañón y arriba/abajo para ajustar el ángulo.
+*   **Disparar:** Haz clic con el botón izquierdo para lanzar una bala de cañón.
 
-The controls are simple and direct.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Aim the Cannon:** Use your mouse to aim. Move it left and right to rotate the cannon, and up and down to set the angle of your shot.
-*   **[ES]** **Fire:** Click the left mouse button to fire a cannonball.
+*   **P: ¿Cómo sé que he superado el nivel?**
+    *   **R:** Cada nivel tiene un objetivo, normalmente indicado con una línea
+        horizontal. Debes conseguir que todos los restos de la estructura queden
+        por debajo de esa línea. Cuando lo logres, el nivel se completará
+        automáticamente.
 
-### Frequently Asked Questions (FAQ)
+*   **P: Se me han acabado las balas y la estructura sigue demasiado alta.**
+    *   **R:** Si agotas la munición antes de cumplir el objetivo, tendrás que
+        reiniciar el nivel y probar con otra estrategia de disparo.
 
-*   **[ES]** **Q: How do I know if I've passed the level?**
-    *   **[ES]** **A:** Each level has a goal, often indicated by a horizontal line. You must cause the structure to collapse until all remaining parts are below this line. Once you do, you automatically pass the level.
-
-*   **[ES]** **Q: I ran out of cannonballs but the structure is still too high. What do I do?**
-    *   **[ES]** **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.
-
-*   **[ES]** **Q: Is it better to shoot fast or aim carefully?**
-    *   **[ES]** **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.
-
+*   **P: ¿Es mejor disparar rápido o apuntar con calma?**
+    *   **R:** Apuntar con calma casi siempre es mejor. Como la munición es
+        limitada, un tiro bien colocado que provoque un gran derrumbe vale mucho
+        más que varios disparos aleatorios poco efectivos.

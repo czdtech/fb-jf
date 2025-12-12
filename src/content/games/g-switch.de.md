@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: g-switch
-title: '[DE] G-Switch'
+title: "G-Switch"
 description: >-
-  [DE] One‑button gravity runner: flip gravity to keep running across platforms,
-  avoid gaps and saws, and survive increasing speed.
+  G-Switch ist ein One-Button-Gravity-Runner: Kippe die Schwerkraft, um über
+  Plattformen zu rennen, Lücken und Sägen zu meiden und bei wachsendem Tempo
+  nicht abzustürzen.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/g-switch.jpg
@@ -15,31 +16,43 @@ score: 3.7/5  (1326 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+G-Switch ist ein Auto-Runner mit Schwerkraftwechsel. Mit einem Tipp drehst du
+Gravity um und landest auf der gegenüberliegenden Fläche, während das Tempo
+ständig zunimmt.
 
+### So spielst du
 
+- Flippe kurz vor Plattformkanten, um Lücken sauber zu überwinden.
+- Antizipiere Sägen, Stacheln und Wände – lieber etwas zu früh als zu spät
+  flippen.
+- Je nach Host stehen dir Level- und Endlosmodi zur Verfügung.
 
-### Overview
-Auto‑runner with gravity flips. Tap to invert gravity and land on the next surface while the pace accelerates.
+### Steuerung
 
-### How to Play
-- Flip just before edges to clear gaps cleanly.
-- Anticipate saws and walls; flip early rather than late.
-- Endless and level modes may both be available.
+- Eine Taste/ein Tap zum Schwerkraftwechsel; im Multiplayer-Modus hat jeder
+  Spieler seine eigene Taste.
 
-### Controls
-- One key/tap to flip gravity; multiplayer maps separate keys per player.
+### Tipps
 
-### Tips
-- Keep a steady flip rhythm; panic flips cause chain mistakes.
-- Use long ceilings to reset timing safely.
-- In multiplayer, watch opponents’ flips to pre‑empt traps.
+- Halte einen gleichmäßigen Flip-Rhythmus; Panik-Flips führen schnell zu
+  Kettenfehlern.
+- Nutze lange Decken, um dein Timing nach kleinen Patzern wieder zu
+  stabilisieren.
+- Im Multiplayer lohnt es, die Flips der Gegner im Blick zu behalten, um
+  Fallen früh zu erkennen.
 
 ### FAQ
-- Q: Why do I miss short platforms?
-A: You are flipping too late; flip slightly before the edge.
-- Q: Does the game support multiplayer?
-A: Many versions include local multiplayer with multiple keys.
-- Q: Are level layouts fixed?
-A: Some modes are authored levels; endless modes are often procedural.
 
+- **F: Warum verfehle ich ständig kurze Plattformen?**  
+  **A:** Du flippst vermutlich zu spät – setze den Wechsel ein wenig früher,
+  bevor du die Kante erreichst.
+
+- **F: Gibt es einen Mehrspielermodus?**  
+  **A:** Viele Versionen bieten lokalen Multiplayer mit mehreren Tasten auf
+  einer Tastatur.
+
+- **F: Sind die Level zufällig?**  
+  **A:** Einige Modi nutzen handgebaute Strecken, Endlosmodi sind oft
+  prozedural generiert.

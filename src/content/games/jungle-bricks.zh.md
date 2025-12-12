@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: jungle-bricks
-title: '[ZH TRANSLATION NEEDED] Jungle Bricks'
-description: >-
-  [ZH TRANSLATION NEEDED] Aim and shoot to clear the board in Jungle Bricks! A
-  vibrant brick-breaker game where you must strategically destroy numbered
-  blocks before they reach the bottom.
+title: 《Jungle Bricks》丛林弹射打砖块
+description: 在《Jungle Bricks》中，瞄准并发射弹球打碎数字砖块，利用反弹与连击在砖块落到底部之前清空全场，是一款节奏紧凑的丛林风打砖块游戏。
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
 thumbnail: /new-images/jungle-bricks.png
 tags:
@@ -17,31 +14,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jungle Bricks is a captivating and modern take on the classic brick-breaker genre. Set in a vibrant jungle, the game challenges players to clear an ever-advancing wall of numbered bricks. Unlike traditional brick-breakers where you control a paddle, here you aim and shoot a volley of balls from a fixed point. Each brick has a durability number that you must reduce to zero to destroy it. The goal is to survive for as long as possible by strategically clearing the bricks before they reach the bottom of the screen.
+《Jungle Bricks》是一款带有丛林风格的现代打砖块游戏。与传统“挡板+小球”不同，本作中你站在屏幕下方的固定位置，每回合朝上方发射一串弹球。屏幕上不断下移的砖块上标有数字，代表需要被击中的次数，只要将数字扣到 0，这块砖就会消失。你的目标是在砖块触底之前，通过巧妙的瞄准和反弹清理掉所有砖块，撑得越久分数越高。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Aim for Angles:** The key to a high score is maximizing the number of hits per shot. Avoid shooting straight up. Instead, aim for the sides of the screen or gaps between bricks to create complex ricochets. A well-aimed shot can have your balls bouncing around the screen for a long time, clearing multiple bricks at once.
-2.  [ZH TRANSLATION NEEDED] **Prioritize High-Threat Bricks:** Always focus on the bricks that are closest to the bottom of the screen. A single brick touching the bottom line will end your game, so clearing these should be your top priority.
-3.  [ZH TRANSLATION NEEDED] **Look for Power-ups:** Some bricks may contain power-ups, such as extra balls. Targeting these can dramatically increase your clearing power for subsequent turns.
-4.  [ZH TRANSLATION NEEDED] **Plan for the Descent:** After every shot, all bricks on the screen will move one step down. Keep this in mind when planning your shots. A safe-looking board can become dangerous in just a few turns if you don't clear bricks efficiently.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **善用斜角反弹**：想要一发多中，尽量避免正对着砖块直射，而是瞄准侧墙或砖块之间的缝隙，让弹球在场内长时间来回弹跳，最大化单次射击命中次数。  
+2.  **优先处理“临界砖块”**：任何一块砖触到底线都会让游戏结束，所以要优先清理离底部最近、数字又较高的砖块，避免被突然“偷塔”。  
+3.  **争取额外弹球与道具**：有些砖块或特殊方块上会带有“+”等符号，击中后通常能为接下来回合增加弹球数量或获得增益，尽量在安全前提下优先打掉。  
+4.  **预判砖块下移**：每回合发射结束后，所有砖块都会整体向下移动一行。规划射击时要预留出几回合后的安全空间，别只顾当前一层，看不到两三步之后的局面。  
 
-[ZH TRANSLATION NEEDED] The game uses simple, one-touch controls.
+### 操作说明
 
-*   **Aim:** Click and hold the left mouse button (or your finger on a touch screen) and drag to aim. A guideline will appear showing the initial trajectory of your shot.
-*   **Shoot:** Release the mouse button (or your finger) to fire the balls.
 
-### Frequently Asked Questions (FAQ)
+The game uses simple, one-touch controls.
+- **瞄准**：按住鼠标左键（或手指）拖动，调整发射方向，屏幕上通常会出现轨迹预览线。  
+- **发射**：松开按键即可射出当前回合的全部弹球。  
 
-*   **Q: What do the numbers on the bricks mean?**
-     *   **A:** The number represents the brick's "health" or the number of times it must be hit by a ball before it is destroyed.
+### 常见问题（FAQ）
 
-*   **Q: How do you lose the game?**
-     *   **A:** The game ends if any brick successfully reaches the bottom line of the play area.
+*   **Q: 砖块上的数字代表什么？**  
+    *   **A:** 数字表示该砖块需要被弹球命中多少次才会被消除，数字越大越耐打。  
 
-*   **Q: How can I get more balls?**
-     *   **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
+*   **Q: 游戏在什么情况下结束？**  
+    *   **A:** 只要有任意一块砖在回合结束后挨到屏幕最底部的边线，本局就会立即结束。  
 
+*   **Q: 如何获得更多弹球？**  
+    *   **A:** 注意瞄准带有“+”或特殊图标的方块，它们被打掉后通常会在下一回合为你增加弹球数量，从而显著提高清场效率。

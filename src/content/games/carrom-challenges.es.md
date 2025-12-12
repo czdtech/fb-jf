@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: carrom-challenges
-title: '[ES] Carrom Challenges'
+title: "Carrom Challenges"
 description: >-
-  [ES] Carrom Challenges brings cue‑sport finesse to carrom — aim strikes,
-  control rebounds, and pocket with precision.
+  Carrom Challenges lleva la precisión del billar al carrom: apunta tus golpes,
+  controla los rebotes y emboca con máxima precisión.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
 thumbnail: /new-images/carrom-challenges.png
 tags:
@@ -16,36 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Carrom Challenges simula el juego de carrom de mesa con striker y fichas. Usa el
+striker para embocar tus piezas (y, si puedes, la reina con su cobertura
+correspondiente) controlando ángulos y velocidad del rebote. Las faltas, las
+reglas de cubrir a la reina y los golpes limitados añaden mucha profundidad
+ táctica.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Carrom Challenges simulates the tabletop striker‑and‑carrommen game. Use the striker to pocket your pieces (and possibly the queen under cover) while controlling angles and rebound speed. Fouls, cover rules, and limited strokes add tactical depth.
+1.  **Apertura:** En el primer golpe, intenta abrir el conjunto de fichas
+    manteniendo el control del centro y evitando que el striker caiga en los
+    agujeros (falta).
+2.  **Orden de embocar:** Asegura coberturas fáciles para la reina; no la dejes
+    expuesta sin una ficha tuya lista para cubrirla en el siguiente golpe.
+3.  **Control de velocidad:** Golpes suaves mejoran la precisión y reducen
+    rebotes impredecibles.
+4.  **Líneas de banda:** Aprende los ángulos típicos de rebote en las bandas
+    para meter fichas difíciles.
+5.  **Golpes de seguridad:** Si no tienes un tiro de alta probabilidad, deja la
+    posición incómoda para el rival, bloqueando líneas de tiro claras.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Opening break: Spread pieces while keeping center control; avoid scratching.
-2.  **[ES]** Pocket order: Secure easy covers for the queen; don’t leave it exposed.
-3.  **[ES]** Speed control: Gentle hits improve precision and reduce rebounds.
-4.  **[ES]** Bank lines: Learn common angles off the boards for tough pockets.
-5.  **[ES]** Safety: When no high‑percentage shot exists, leave opponents snookered.
+- Apunta arrastrando el arco de dirección del striker; ajusta la potencia con el
+  deslizador y suelta para golpear.
+- El panel de reglas explica las faltas y la cobertura de la reina según el
+  modo de juego.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim by dragging the cursor arc; set power with the slider; release to strike.
-- Rules panel explains fouls/queen cover for the current mode.
+- **¿Qué significa "cubrir la reina"?**
 
-### Frequently Asked Questions (FAQ)
+  R: Tras embocar la reina, debes embocar una de tus fichas en el siguiente
+  golpe; si no lo haces, la reina vuelve al tablero.
 
-- Q: What is “covering the queen”?
+- **¿Cómo evito las faltas?**
 
-A: After pocketing the queen, you must pocket one of your own pieces in the next stroke; failing to do so returns the queen to the board.
+  R: Controla los ángulos de rebote y reduce la potencia en contactos finos para
+  no enviar el striker a los agujeros.
 
-- Q: How to avoid scratches?
+- **¿Se puede ajustar la velocidad del tablero?**
 
-A: Control rebound angles and reduce power on thin contacts.
-
-- Q: Are board speeds adjustable?
-
-A: Some versions provide friction settings; otherwise adapt with lighter strokes.
-
+  R: Algunas versiones permiten cambiar la fricción; si no, adáptate usando
+  golpes más suaves.

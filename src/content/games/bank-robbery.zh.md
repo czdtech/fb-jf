@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: bank-robbery
-title: '[ZH TRANSLATION NEEDED] Bank Robbery'
+title: "Bank Robbery 2 银行大劫案 2"
 description: >-
-  [ZH TRANSLATION NEEDED] A detailed guide for the team-based FPS game Bank
-  Robbery 2. Learn strategies for both Robbers and Cops, controls, and answers
-  to common questions to master the heist.
+  《Bank Robbery 2（银行大劫案 2）》是一款团队对战第一人称射击游戏，你可以扮演劫匪或警察，围绕银行抢劫展开攻防。下面是关于打法策略、操作和常见问题的详细说明。
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/bank-robbery.jpg
@@ -18,65 +16,98 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 详细介绍
 
-[ZH TRANSLATION NEEDED] *Bank Robbery 2* is a team-based, first-person shooter game where players are divided into two opposing factions: Cops and Robbers. The game revolves around a central, high-stakes objective: a bank heist.
+*Bank Robbery 2（银行大劫案 2）* 是一款以“银行抢劫”为核心的团队 FPS，对局中玩家会被分成两队：**劫匪（Robbers）** 和 **警察（Cops）**，围绕同一座银行展开攻防。
 
-[ZH TRANSLATION NEEDED] As a **Robber**, the goal is to infiltrate a heavily secured bank, use a drill to break into vaults and safes, steal as much cash as possible, and successfully transport it to a designated getaway point. This requires coordination, firepower, and a solid plan to bypass security and fight off the police force.
+作为 **劫匪（Robbers）**：你的任务是潜入戒备森严的银行，安放钻机（Drill）或炸药破开金库与保险箱，抢到尽可能多的现金，然后在警察火力压制下，把钱安全送到预定撤离点。
 
-[ZH TRANSLATION NEEDED] As a **Cop**, the objective is to defend the bank and uphold the law. This involves preventing the Robbers from breaching the vault, defusing any drills they manage to place, and eliminating the criminal team before they can escape with the money. Success as a cop relies on strategic positioning, teamwork, and quick response to the Robbers' actions.
+作为 **警察（Cops）**：你的职责是守住银行，阻止劫匪安放钻机或尽快拆除他们已经布置好的破拆设备，在他们带着钱逃走之前将其一网打尽。
 
-[ZH TRANSLATION NEEDED] The game takes place in an urban environment with the bank as the focal point. Players can use a variety of weapons, tools, and vehicles to achieve their team's goals, earning in-game currency to purchase better equipment for future rounds.
+地图一般是城市街区，以银行建筑为中心，你可以使用多种武器、道具甚至载具来完成团队目标。每局获得的金钱可以用来在之后的回合购买更强的枪械、防具和战术道具。
 
-### Gameplay Strategy
+### 游戏策略
 
-[ZH TRANSLATION NEEDED] Success is highly dependent on which team you are on.
+成功与否很大程度取决于你所在的阵营。
 
-#### For Robbers:
+#### 劫匪方（Robbers）
 
-1.  **Plan Your Entry:** Don't just rush the front door. Scout for alternative entry points like back alleys, side doors, or even rooftop access. A coordinated, multi-pronged attack can confuse the police.
-2.  **Assign Roles:** Don't have everyone do the same thing. Designate specific roles: one or two players to place and guard the drill, one to watch the main entrance, and another to cover flanking routes.
-3.  **Protect the Drill:** The drill is your key to the money, but it's noisy and takes time, making it a magnet for Cops. Set up defensive positions around the drilling area and hold your ground.
-4.  **The Escape is a Separate Mission:** Getting the money is only half the battle. Once you have the cash bags, you become a high-priority target. Plan your escape route in advance and consider having a designated getaway driver ready with a vehicle.
-5.  **Upgrade Your Gear:** Use the money you earn from successful heists to buy better weapons, stronger armor, and useful tools like C4 for faster breaching.
+1.  **先想好怎么“进场”，再想怎么打：**  
+   不要五个人一起从正门硬冲。可以：
+   - 事先探路，找到后巷、侧门、屋顶等另类入口；
+   - 约好多点同时进攻，在正门、侧门甚至楼顶同时给压力，打乱警察视线。
 
-#### For Cops:
+2.  **分工明确，不要人人都抢同一个位置：**  
+   - 1–2 人负责携带并安放钻机/炸药；
+   - 1 人盯住主入口；
+   - 其他人负责看侧翼与楼梯口，防止警察从背后包抄。
 
-1.  **Secure All Entrances:** At the start of the round, don't just camp the main lobby. Spread out to cover all potential points of entry. A single robber slipping through can start a drill and put your team at a disadvantage.
-2.  **Communicate and Call Out:** Use the team chat to report enemy locations. Announce where the robbers are drilling ("Drill on the main vault!") so your team can converge on the threat.
-3.  **Coordinated Retakes:** If robbers have taken control of an area, don't rush in one by one. Group up and breach the room together from multiple angles to overwhelm them.
-4.  **Prioritize Defusing the Drill:** If a drill is active, stopping it is your top priority. Provide cover for a teammate who is attempting to defuse it, as they will be completely vulnerable during the process.
-5.  **Cut Off the Escape:** If the robbers manage to grab the money, your objective shifts to interception. Use police cars to chase them down or set up roadblocks on the path to their getaway point.
+3.  **钻机就是你的命：**  
+   钻机声音大、耗时久，是警察的天然“雷达”。安放好之后：
+   - 立刻在周围架设交叉火力，确保至少一人时刻盯着钻机位置；
+   - 不要全队同时冲出去追人，让钻机裸露无防。
 
-### Controls Guide
+4.  **拿到钱之后是第二局游戏：**  
+   抢到现金包只是完成了上半场，从那一刻起：
+   - 背包的队友变成全场优先焦点；
+   - 其他人要负责帮他开路、挡枪、甚至当诱饵；
+   - 最好提前准备好逃跑路线上可能用到的车辆，由指定队友当司机接应。
 
-[ZH TRANSLATION NEEDED] The game uses standard first-person shooter controls common on its platform (Roblox for PC).
+5.  **用战利金升级装备：**  
+   多次成功抢劫后赚到的钱不要乱花，优先购买：
+   - 更稳定的主武器和护甲；
+   - C4 或更强破拆工具，用来更快打开关键入口和金库门。
 
-*   **`W`, `A`, `S`, `D` Keys**: Move your character.
-*   **Mouse**: Aim and control the camera.
-*   **`Left Mouse Button`**: Fire your weapon.
-*   **`Right Mouse Button`**: Aim down sights (ADS).
-*   **`R` Key**: Reload your weapon.
-*   **`Left-Shift` Key**: Sprint.
-*   **`Spacebar`**: Jump.
-*   **`E` or `F` Key**: Interact with objects (e.g., place/defuse a drill, pick up cash, enter a vehicle).
-*   **Number Keys (`1`, `2`, `3`...)**: Switch between your equipped weapons and items.
-*   **`C` Key**: Crouch (if available in the specific version).
+#### 警察方（Cops）
 
-### Frequently Asked Questions (FAQ)
+1.  **开局不要全挤在大厅：**  
+   - 银行不只有正门：后门、窗户、屋顶入口都可能被利用；
+   - 开局时团队要分散到各个关键通道，防止劫匪轻松摸进核心区域。
 
-[ZH TRANSLATION NEEDED] **1. How do I get better weapons and equipment?**
-[ZH TRANSLATION NEEDED] You earn in-game cash by completing objectives (stealing money as a robber, stopping robbers as a cop) and eliminating opponents. You can then use this cash in the game's shop to purchase a wide variety of new guns, armor, and tools.
+2.  **信息共享比枪法更重要：**  
+   - 在队内语音/文字中及时报点，例如：“金库门有钻机”、“后巷听到脚步”；
+   - 确保所有队友都知道当前真正的威胁在哪里。
 
-[ZH TRANSLATION NEEDED] **2. As a Robber, the drill keeps getting defused. What should I do?**
-[ZH TRANSLATION NEEDED] Teamwork is the only solution. You cannot leave the drill unattended. You need at least one or two teammates dedicated to defending the area while the drill is running.
+3.  **夺回被占区域要一起上：**  
+   - 如果劫匪已经控制了金库或某个楼层，不要一个一个往里送头；
+   - 集中几人，从不同入口同步推进，用交叉火力压制对方。
 
-[ZH TRANSLATION NEEDED] **3. As a Cop, we are always overwhelmed. How can we defend better?**
-[ZH TRANSLATION NEEDED] Avoid grouping up in one predictable spot. Use the entire bank as your defense area. By spreading out, you can get early warnings of where the robbers are attacking from and flank them when they commit to drilling a specific vault.
+4.  **听到钻机声就是最高优先级：**  
+   - 一旦确认某处有钻机运转，目标第一位是组织拆除；
+   - 一名队友上前拆除时，其余队友必须帮忙压制火力，因为拆机过程是完全暴露的。
 
-[ZH TRANSLATION NEEDED] **4. What is the best way to enter the bank as a Robber?**
-[ZH TRANSLATION NEEDED] There is no single "best" way, as it depends on how the Cops set up their defense. The most effective strategy is often a surprise attack. Using C4 on a side wall or finding an unguarded back entrance is usually more successful than a direct assault on the front doors.
+5.  **阻截撤退路线：**  
+   - 如果劫匪已经拿到钱，战场重心就从银行内部转移到街道和撤离点；
+   - 利用警车追击或在他们必经之路设置封锁线，从侧面包抄、截杀携带现金的目标。
 
-[ZH TRANSLATION NEEDED] **5. Can I switch teams during a game?**
-[ZH TRANSLATION NEEDED] Typically, team selection happens before the round begins, and you are locked into that team until the next game to maintain balance.
+### 操作指南
 
+本作在 PC 端通常使用类似 Roblox 的标准 FPS 操作：
+
+*   **`W` `A` `S` `D`：** 移动角色；
+*   **鼠标：** 转动视角与瞄准；
+*   **鼠标左键：** 开火；
+*   **鼠标右键：** 开镜（ADS，看镜瞄准）；
+*   **`R`：** 换弹；
+*   **`Left Shift`：** 冲刺；
+*   **`Space`：** 跳跃；
+*   **`E` / `F`：** 与物体交互（安放/拆除钻机、捡钱、上车等）；
+*   **数字键 `1` `2` `3`...：** 切换武器和道具；
+*   **`C`：** 蹲下（具体以版本为准）。
+
+### 常见问题解答（FAQ）
+
+**1. 怎么获得更好的武器和装备？**
+通过完成任务获得金钱：劫匪成功偷钱、警察成功阻止抢劫或击杀对方，都能累积游戏内货币。之后可以在商店购买更强的枪械、护甲以及 C4 等工具。
+
+**2. 作为劫匪，钻机总是被拆掉怎么办？**
+通常是防守不到位。钻机运转期间绝对不能无人看守，至少安排 1–2 名队友专门守在附近，事先布好掩体位置，并把手雷、重火力优先留给“保钻”阶段使用。
+
+**3. 作为警察，总觉得守不住银行怎么办？**
+不要全部堆在一个点死守，要利用整栋建筑作为防线，在外围提前发现劫匪；一旦确认钻机位置，集中火力做一次“重夺”行动，而不是零散冲锋。
+
+**4. 作为劫匪，从哪里突入最好？**
+没有唯一答案，取决于警察防线布置。但通常，侧门、后巷或屋顶突破会比正门硬顶更有惊喜；配合 C4 炸开墙体或侧门，经常能打对方一个措手不及。
+
+**5. 中途能换队伍吗？**
+大多数版本中，阵营是在回合开始前选择的。为了维持平衡，一局中间通常不能随意换队，需要等下一局重新分配。

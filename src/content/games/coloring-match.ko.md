@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: coloring-match
-title: '[KO] Coloring Match'
+title: Coloring Match 컬러링 매치
 description: >-
-  [KO] Coloring Match teaches color mixing — blend paints to match targets,
-  manage hue/saturation, and refine with small tweaks.
+  Coloring Match는 목표 색을 직접 섞어 맞추는 색채 퍼즐 게임입니다. 기본 색을 섞고, 색상·채도·명도를 조절해 정확히 같은 색을
+  만들어 보세요.
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/coloring-match.jpg
 tags:
@@ -15,37 +15,66 @@ score: 4.1/5  (1968 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Coloring Match에서는 주어진 목표 색을 보고, 팔레트의 기본 색을 섞어 최대한
+가깝게 재현해야 합니다. 색상(Hue)뿐만 아니라 채도(Saturation)와 명도(Value)까지
+함께 조절해야 하므로, 색감과 미세 조정 능력이 시험되는 게임입니다.
 
+색상이 얼추 맞더라도 채도나 밝기가 조금만 어긋나면 목표 판정에 실패할 수 있어,
+특히 마지막 단계에서는 아주 작은 슬라이더 조정이 중요해집니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 팁
 
-Coloring Match asks you to reproduce a target color by mixing primaries and adjusting brightness/saturation. Subtle differences matter: overshooting saturation or value can miss the goal even if the hue matches.
+1.  **먼저 색상(Hue)부터 맞추기**  
+    처음에는 색의 종류(빨강, 파랑, 초록 등)를 맞추는 데 집중하세요. 색상환에서
+    목표 색과 가장 가까운 위치를 찾은 뒤, 그 근처에서 채도·명도를 조정하는 것이
+    효율적입니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **목표 근처에서는 작은 조정만 하기**  
+    목표 색에 어느 정도 근접했다면 슬라이더를 크게 움직이지 말고, 작은 단위로
+    살짝씩 조정해 보세요. 큰 폭으로 움직이면 금방 목표를 지나쳐 버립니다.
 
-1.  **[KO]** Match hue first (color wheel), then adjust saturation and value.
-2.  **[KO]** Make small changes near the target; big swings overshoot.
-3.  **[KO]** Compare under the same lighting/background if the UI offers it.
-4.  **[KO]** Use undo/reset when the mix gets muddy.
-5.  **[KO]** Learn complementary pairs to neutralize tints.
+3.  **같은 배경/조명에서 비교하기**  
+    UI에서 목표 색과 현재 색을 같은 배경 위에 나란히 보여 준다면, 항상 그 상태로
+    비교하는 것이 좋습니다. 배경색이 다르면 같은 색도 다르게 느껴질 수
+    있습니다.
 
-### Controls Guide
+4.  **색이 탁해졌을 땐 과감히 리셋**  
+    여러 색을 마구 섞다 보면 회색빛 탁한 색이 되기 쉽습니다. 이럴 때는 과감히
+    되돌리기나 리셋을 사용해, 다시 깨끗한 기본 색에서 시작하는 편이 빠릅니다.
 
-- Drag sliders or mix paint amounts; preview updates live.
-- Confirm when your color matches the target within tolerance.
+5.  **보색 관계 익히기**  
+    특정 색이 지나치게 튀어 보인다면, 색상환에서 반대편에 있는 보색을 조금씩
+    섞어 회색·갈색 쪽으로 중화할 수 있습니다. 이렇게 만들어진 중간색은 명도
+    조절만으로도 목표에 근접하기 쉬워집니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
+
+-   **색상/채도/명도 조절:** 화면의 슬라이더나 페인트 믹서 UI를 드래그해 값을
+    조정하면, 미리보기 영역에 결과 색이 실시간으로 반영됩니다.
+-   **확인:** 현재 색이 목표 색과 허용 오차 범위 안에서 일치하면, 확인 버튼을
+    눌러 스테이지를 클리어할 수 있습니다.
+
+### 자주 묻는 질문 (FAQ)
+
 
 - Q: Hue matches but still fails — why?
-
-A: Saturation or value is off. Lower saturation to gray it out or raise value for brightness.
+**1. 색상은 맞는 것 같은데 계속 실패해요. 왜 그럴까요?**  
 
 - Q: Any shortcut for brown/gray?
-
-A: Mix complementary colors to neutralize toward brown/gray, then adjust value.
+> 색의 종류(색상)는 맞지만, 채도나 명도가 차이가 나는 경우가 많습니다. 색이
 
 - Q: Do tiny tweaks matter?
+> 너무 쨍해 보이면 채도를 줄여 회색 쪽으로 당기고, 너무 어두우면 명도를 올려
+> 밝게 만들어 보세요.
 
-A: Yes — near the goal, use small slider nudges for precision.
+**2. 갈색이나 회색은 어떻게 쉽게 만들 수 있나요?**  
+> 서로 반대편에 있는 보색(예: 빨강+초록, 파랑+주황 등)을 섞으면 색이 서로를
+> 상쇄해 자연스러운 갈색·회색 계열로 중화됩니다. 이후 명도만 조정해 목표에
+> 맞추면 됩니다.
 
+**3. 슬라이더를 조금만 움직여도 색이 크게 달라집니다. 작은 차이가 중요하나요?**  
+> 네. 목표 근처에서는 아주 작은 변화도 눈에 띄게 보이므로, 미세 조정을 위해
+> 슬라이더를 살짝씩 움직이는 것이 좋습니다. 특히 고급 스테이지에서는 이 미세한
+> 조정이 클리어 여부를 가르는 요소가 됩니다.

@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: panda-pizza-parlor
-title: '[ZH TRANSLATION NEEDED] Panda Pizza Parlor'
+title: "《Panda Pizza Parlor》熊猫披萨小馆"
 description: >-
-  [ZH TRANSLATION NEEDED] Step into the Panda Pizza Parlor and serve up
-  delicious pizzas to hungry customers! Manage your time, get the orders right,
-  and build a pizza empire.
+  欢迎光临《Panda Pizza Parlor》！在这家熊猫披萨小馆中，你要在紧张的节奏里接单、配料、烤制并精准出餐，用手速和效率征服一批又一批饥饿的顾客。
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
 thumbnail: /new-images/panda-pizza-parlor.png
 tags:
@@ -17,32 +15,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Welcome to Panda Pizza Parlor, a charming and fast-paced cooking game where you run your very own pizza shop! As the head panda chef, your job is to take orders, prepare delicious pizzas with the correct toppings, bake them to perfection, and serve them to a variety of hungry animal customers. Manage your time effectively to keep your customers happy, earn money, and grow your pizza business from a humble parlor into a world-famous pizzeria.
+在《Panda Pizza Parlor》中，你将扮演一位忙得团团转的熊猫主厨，经营属于自己的披萨小店。顾客会源源不断上门，每个人都有自己想要的披萨配方：不同的酱料、芝士、肉类与蔬菜搭配。你需要快速查看订单、正确添加配料，再把披萨放进烤箱控制火候，最后在顾客耐心耗尽前端上热气腾腾的披萨。随着关卡推进，订单数量和配方复杂度都会不断提升，小店也会从街角小铺逐渐成长为超级人气披萨店。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Check the Order:** As soon as a customer arrives, look at the bubble above their head to see what kind of pizza they want. Pay close attention to the toppings.
-2.  [ZH TRANSLATION NEEDED] **Prepare the Pizza:** Start by grabbing a dough ball. Add the tomato sauce, and then apply the specific toppings the customer requested.
-3.  [ZH TRANSLATION NEEDED] **Bake to Perfection:** Place the pizza in the oven. Keep an eye on the timer! An undercooked or burnt pizza will make your customers unhappy.
-4.  [ZH TRANSLATION NEEDED] **Serve Quickly:** Once the pizza is perfectly baked, take it out and serve it to the waiting customer. The faster you serve, the better your tip and the happier the customer.
-5.  [ZH TRANSLATION NEEDED] **Manage Multiple Orders:** As you progress, you will have to juggle multiple orders at once. Create a workflow that allows you to prepare several pizzas simultaneously to keep up with the demand.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **第一时间确认订单：** 顾客一到店，先看清订单气泡里的披萨种类与配料顺序，避免中途临时回看浪费时间。
+2.  **按流程制作披萨：** 先取面饼，再抹酱、撒芝士，随后按照订单要求添加配料，尽量形成固定操作节奏，让每张饼的制作过程“肌肉记忆化”。
+3.  **精准控制烘烤时间：** 披萨入炉后要时刻留意烘烤进度，时间太短会“半生不熟”，时间太长又会烤糊，都会严重影响顾客满意度甚至被退单。
+4.  **同时管理多张订单：** 进阶关卡中会出现多位顾客同时等待，合理安排制作顺序非常重要，可以优先处理配料简单、烘烤时间接近的订单，再利用烤箱等待时间处理复杂披萨。
+5.  **保持节奏而非盲目急躁：** 匆忙之下最容易出错配料或烤糊，多一次失败不仅浪费时间，还会丢掉整个订单的收入。与其三心二意乱点，不如稳定地完成一张再接下一张。
 
-*   **Point and Click:** The game is played entirely with the mouse.
-*   **Select Ingredients:** Click on the dough, sauce, and toppings to add them to the pizza.
-*   **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
-*   **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **鼠标点击操作：** 整个游戏可以通过鼠标点选完成，从取面饼、添加配料，到放入烤炉与端盘给顾客，全部为“指哪点哪”的操作方式。
+*   **选择配料：** 点击相应的酱料和配料图标，使它们依次出现在披萨上。
+*   **控制烤箱：** 点击烤箱将披萨送入，等到合适火候再点击取出。
+*   **出餐：** 点击完成的披萨，再点击对应顾客，将订单递交给他/她。
 
-*   **Q: What happens if I get an order wrong?**
-     *   **A:** If you use the wrong toppings or burn the pizza, the customer will get angry and leave. You won't get paid for that order.
+### 常见问题（FAQ）
 
-*   **Q: How can I serve customers faster?**
-     *   **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
+*   **问：做错披萨会怎样？**
+    *   **答：** 如果配料错误或者披萨烤糊，顾客会不满甚至直接离开，你不仅拿不到这一单的报酬，还可能影响关卡评价。
 
-*   **Q: Are there upgrades in the game?**
-     *   **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
+*   **问：怎么才能更快地服务顾客？**
+    *   **答：** 在闲时可以预先准备部分基础饼坯或记住高频配方，并尽量把同类型订单集中处理；熟悉配料位置后，减少“找配料”的时间也是关键。
 
+*   **问：游戏里有没有升级系统？**
+    *   **答：** 随着关卡推进，你通常会解锁新的配料与菜单，让披萨种类更丰富，也会相应提升难度与节奏要求。部分版本还会提供设备升级或装饰要素，让小店更上档次。

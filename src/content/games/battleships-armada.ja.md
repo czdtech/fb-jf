@@ -1,81 +1,39 @@
 ---
+title: "Battleships Armada バトルシップ・アルマダ"
+description: "古典的な海戦ゲームの決定版！艦隊を戦略的に配置し、敵の座標を砲撃して、あなたの船が沈められる前に敵艦隊を全滅させよう。"
+iframeSrc: "https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/"
+thumbnail: "/new-images/battleships-armada.png"
+urlstr: "battleships-armada"
+score: "4.5/5  (2900 votes)"
+tags: ["puzzle", "strategy", "thinky"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: battleships-armada
-title: '[JA TRANSLATION NEEDED] Battleships Armada'
-description: >-
-  [JA TRANSLATION NEEDED] The classic naval combat game! Strategically place
-  your fleet of ships on the grid and fire at your opponent's grid to find and
-  sink their entire armada before they sink yours.
-iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
-thumbnail: /new-images/battleships-armada.png
-tags:
-  - puzzle
-  - strategy
-  - thinky
-score: 4.5/5  (2900 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Battleships Armada（バトルシップ・アルマダ）*は、古典的なボードゲーム「バトルシップ（海戦ゲーム）」のデジタル版です。これは純粋な戦略と推理、そして少しの運が試されるゲームです。各プレイヤーは自分の艦隊をグリッド（格子状の盤面）に**秘密裏**に配置します。そして、交互に相手のグリッドに向かって砲撃を行い、見えない敵艦の位置を特定して撃沈することを目指します。先に相手の船をすべて沈めたプレイヤーの勝利です。
 
-### Detailed Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Battleships Armada is a digital adaptation of the classic naval combat board game, Battleship. It's a game of pure strategy, deduction, and a little bit of luck. Each player secretly arranges their fleet of ships on a grid. Then, players take turns firing shots at the other player's grid in an attempt to locate and sink their entire fleet. The first player to sink all of their opponent's ships wins the game.
+1.  **戦略的な配置：** ゲームは配置フェーズから始まります。船を全部一箇所に固めたり、端っこに並べたりするのは避けましょう。バラバラでランダムに見える配置のほうが、相手にとって予測しづらくなります。
+2.  **敵艦の捜索：** 戦闘が始まったら、適当に撃ってはいけません。一般的な戦略は、グリッド全体を「市松模様（チェッカーボード）」または「斜め」に撃っていくことです。こうすることで、無駄弾を減らしつつ効率的に船を見つけることができます。
+3.  **追い込み（Zeroing In）：** 「ヒット（命中）」が出たら、そこに船がいる証拠です。次は必ず、そのマスの**隣接する上下左右（十字方向）**を撃って、船の残りの部分を探してください。例えば `C5` がヒットしたら、次は `C4`、`C6`、`B5`、`D5` を狙います。
+4.  **撃沈と再開：** 1隻の船を構成するすべてのマスに命中させると、その船は「撃沈（Sunk）」となります。そうしたら、また元の全体的な捜索パターンに戻って、次の船を探しましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Strategic Placement:** The game begins with the placement phase. Don't place all your ships clustered together or all along the edges. A scattered, random-looking placement is harder for your opponent to guess.
-[JA TRANSLATION NEEDED] 2.  **Hunting for Ships:** When the combat phase begins, don't fire randomly. A common strategy is to fire in a checkerboard or diagonal pattern across the grid. This ensures you will find a ship with fewer wasted shots.
-[JA TRANSLATION NEEDED] 3.  **Zeroing In:** Once you get a "Hit," you know you've found a ship. Your next shots should be focused on the adjacent squares (up, down, left, right) to find the rest of the ship. For example, if you hit C5, your next shots should be C4, C6, B5, and D5.
-[JA TRANSLATION NEEDED] 4.  **Sinking the Ship:** Once you have hit all the squares that make up a single ship, it will be declared "sunk." Then you can resume your general search pattern to find the next ship.
+*   **船の配置：** セットアップ画面で、船をドラッグして自分のグリッドに置きます。船をクリックすると縦向き・横向きを回転（ローテーション）できます。
+*   **砲撃：** 戦闘画面で、敵のグリッド（通常は右側の画面）のマスをクリックすると、その座標にミサイルを発射します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Place Ships:** During the setup phase, click and drag your ships onto your grid. You can also click a ship to rotate it between horizontal and vertical alignment.
-    - **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."（日本語訳が必要）
-    - **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.（日本語訳が必要）
-    - **A:** You win by being the first player to successfully sink all five of your opponent's ships.（日本語訳が必要）
-    - **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."（日本語訳が必要）
-    - **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.（日本語訳が必要）
-    - **A:** You win by being the first player to successfully sink all five of your opponent's ships.（日本語訳が必要）
-*   **Fire a Shot:** During the combat phase, click on a square in your opponent's grid (usually the one on the right) to fire at those coordinates.
+*   **Q: 敵の船がどこにあるか、どうやって知るのですか？**
+    *   **A:** 知ることはできません！ それがこのパズルの醍醐味です。自分の撃った弾が「ヒット（命中）」したか「ミス（外れ）」したかという結果をもとに、場所を**推理**しなければなりません。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 「ヒット」した後はどうすればいいですか？**
+    *   **A:** すぐにヒットしたマスの周りを撃って、船の全体像を暴いてください。船は必ず一直線に並んでいるので、2発目が当たれば船の「向き」が分かります。
 
-*   **Q: How do I know where my opponent's ships are?**
-[JA TRANSLATION NEEDED]     *   **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."
-
-*   **Q: What happens after I get a "Hit"?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.
-
-*   **Q: How do I win?**
-
-
-
-
-
-
-
-
-    - **A:** You win by being the first player to successfully sink all five of your opponent's ships.
-- **Q: How do I win?**
-    - **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.
-- **Q: What happens after I get a "Hit"?**
-    - **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."
-- **Q: How do I know where my opponent's ships are?**
-### よくある質問（FAQ）
-- **Fire a Shot:** During the combat phase, click on a square in your opponent's grid (usually the one on the right) to fire at those coordinates.
-
-
-
-
-
-    - **A:** You win by being the first player to successfully sink all five of your opponent's ships.
-- **Q: How do I win?**
-    - **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.
-- **Q: What happens after I get a "Hit"?**
-    - **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."
-[JA TRANSLATION NEEDED]     *   **A:** You win by being the first player to successfully sink all five of your opponent's ships.
-
+*   **Q: 勝利条件は？**
+    *   **A:** 相手より先に、相手の保有する5隻の船すべてを撃沈すれば勝利です。

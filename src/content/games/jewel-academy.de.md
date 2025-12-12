@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: jewel-academy
-title: '[DE] Jewel Academy'
+title: Jewel Academy
 description: >-
-  [DE] Enroll in the Jewel Academy and become a master of match-3 puzzles. Swap
-  colorful gems, create powerful special jewels, and solve hundreds of
-  challenging levels with unique objectives.
+  Melde dich an der Jewel Academy an und werde Meister der Match-3-Puzzles.
+  Tausche bunte Juwelen, erschaffe Spezialsteine und löse hunderte Level mit
+  unterschiedlichen Zielen.
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/jewel-academy.png
 tags:
@@ -17,34 +17,67 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jewel Academy ist ein liebevoll gestaltetes Match-3-Puzzlespiel. Als Schüler
+oder Schülerin der Akademie arbeitest du dich über eine große Kartenübersicht
+von Level zu Level, jedes mit eigenem Ziel. Du vertauschst benachbarte Juwelen,
+um Reihen aus drei oder mehr gleichen Steinen zu bilden. Durch clevere Züge
+erschaffst du Spezialjuwelen, überwindest Hindernisse und knackst nach und nach
+hunderte knifflige Aufgaben.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Jewel Academy is a rich and polished match-3 puzzle game that invites players to a world of colorful gems and magical challenges. As a student of the academy, you will progress through a vast map of levels, each with a unique objective. The core gameplay involves swapping adjacent jewels to create lines of three or more of the same color. By making strategic matches, you can create powerful special gems, overcome tricky obstacles, and solve hundreds of engaging puzzles.
+1.  **Auf Spezialkombos achten**  
+    Begnüge dich nicht mit Dreier-Kombos. Suche gezielt nach Mustern für vier
+    oder fünf gleiche Steine – nur so bekommst du starke Power-ups, die große
+    Teile des Spielfelds räumen.
 
-### Gameplay Strategy & Walkthrough
+2.  **Power-ups kombinieren**  
+    Besonders hohe Effizienz erreichst du, wenn du Spezialsteine miteinander
+    tauschst:  
+- Pfeil + Bombe räumen z. B. gleich mehrere Reihen und Spalten.  
+- Zwei Farb-Bomben zusammen löschen das komplette Feld.
 
-1.  **[DE]** **Look for Special Combos:** Don't just settle for matching three. Actively look for opportunities to match four or five jewels, as this is the key to creating powerful power-ups that can clear large sections of the board.
-2.  **[DE]** **Combine Power-ups:** The most effective way to clear difficult levels is by combining special jewels. For example, swapping an Arrow jewel with a Bomb jewel will clear three rows and three columns simultaneously. Swapping two Color Bombs together will clear the entire board!
-3.  **[DE]** **Focus on the Objective:** Always keep the level's goal in mind. If you need to clear certain blocked tiles, focus your matches in those areas. If you need to drop special items to the bottom, clear the jewels underneath them. Don't waste moves on matches that don't contribute to your goal.
-4.  **[DE]** **Work from the Bottom:** When possible, make matches near the bottom of the board. This causes more jewels to fall from the top, increasing the chances of creating automatic chain reactions or cascades, which can help you complete objectives without using extra moves.
+3.  **Levelziel im Blick behalten**  
+    Spiele immer auf das aktuelle Ziel hin. Müssen Blockaden entfernt werden,
+    konzentriere deine Züge dort. Müssen Items nach unten fallen, räume unter
+    ihnen die Steine weg. Vermeide Matches, die am Ziel vorbeigehen und nur
+    Züge verbrauchen.
 
-### Controls Guide
+4.  **Von unten arbeiten**  
+    Matches möglichst weit unten erzeugen mehr „Nachschub von oben“ und damit
+    Kettenreaktionen. So erledigst du oft zusätzliche Aufgaben,
+    ohne extra Züge zu investieren.
 
-The game is played using a mouse or touch screen.
+### Steuerung
 
-*   **[DE]** **Swap Jewels:** Click on a jewel, then click on an adjacent jewel to swap their positions. Alternatively, you can click and drag a jewel to an adjacent spot. A swap is only valid if it results in a match of three or more.
-*   **[DE]** **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
+- **Juwelen tauschen:** Mit Maus oder Touch auf ein Juwel, dann auf ein
+  benachbartes klicken, oder per Drag-and-drop verschieben. Der Tausch ist nur
+  gültig, wenn mindestens eine Dreier-Kombo entsteht.
+- **Power-ups auslösen:** Spezialsteine wie normale Juwelen tauschen; um zwei
 
-### Frequently Asked Questions (FAQ)
+- **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
+  Power-ups zu kombinieren, vertausche sie direkt miteinander.
 
-*   **[DE]** **Q: How do I create a Bomb?**
-    *   **[DE]** **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.
+### FAQ
 
-*   **[DE]** **Q: What does the rainbow-colored jewel do?**
-    *   **[DE]** **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
+- **F: Wie erstelle ich eine Bombe?**  
+  **A:** Durch ein Match aus fünf Juwelen in "L"- oder "T"-Form – die Bombe
+  explodiert im 3x3-Bereich.
 
-*   **[DE]** **Q: Why did I run out of moves?**
-    *   **[DE]** **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
+    - **F: Was macht der regenbogenfarbene Stein?**  
+  **A:** Das ist eine Farb-Bombe. Du erhältst sie durch fünf gleiche Juwelen in
+  einer Linie. Tausch sie mit einem beliebigen Stein, um alle Juwelen dieser
+  Farbe vom Feld zu entfernen.
 
+- **F: Warum sind mir die Züge ausgegangen?**  
+
+    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
+
+- **Q: Why did I run out of moves?**
+
+    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
+  **A:** Viele Level haben ein Zuglimit. Du musst das Ziel erreichen, bevor
+  deine Züge aufgebraucht sind – sonst verlierst du ein Leben und musst den
+  Versuch wiederholen.

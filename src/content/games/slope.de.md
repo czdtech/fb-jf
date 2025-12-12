@@ -1,11 +1,12 @@
 ---
 locale: de
 urlstr: slope
-title: '[DE] Slope'
+title: "Slope"
 description: >-
-  [DE] Slope is the original endless running game where players control a green
-  ball rolling down a steep slope, avoiding red obstacles and trying to survive
-  as long as possible in this addictive and challenging experience.
+  Slope ist das originale Endless-Runner-Spiel, in dem du eine grüne Kugel eine
+  steile Rampe hinuntersteuerst, roten Hindernissen ausweichst und versuchst,
+  in diesem fordernden, süchtig machenden Lauf so lange wie möglich zu
+  überleben.
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/slope.jpg
 tags:
@@ -17,34 +18,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Slope" ist der erste Teil der Reihe und ein purer, minimalistischer
+ Endless-Runner. Du steuerst eine grüne Kugel, die immer schneller eine schräge
+ Bahn hinabrollt. Rote Blöcke und Abgründe musst du meiden – ein Treffer genügt
+ und der Lauf ist vorbei.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Grundsteuerung verinnerlichen:** Übe, die Kugel sanft nach links und
+    rechts zu lenken. Übersteuerung führt schnell zu Kollisionen.
+2.  **Rhythmus spüren:** Das Spiel beschleunigt kontinuierlich. Versuche, dich
+    an das zunehmende Tempo zu gewöhnen, statt panisch zu reagieren.
+3.  **Hindernisse voraussehen:** Lerne typische Muster der roten Blöcke und
+    plateauförmigen Abschnitte, um frühzeitig sichere Wege zu erkennen.
+4.  **Linienwahl:** Suche dir Wege, die dir Zeit zum Reagieren lassen – breite
+    Plattformen statt enger Korridore, wenn möglich.
+5.  **Ruhe bewahren:** Besonders bei hoher Geschwindigkeit sind ruhige
+    Eingaben wichtiger als schnelle. Ein kühler Kopf verhindert die meisten
+    Fehler.
 
-"Slope" is the original endless running game where players control a green ball rolling down a steep slope, avoiding red obstacles and trying to survive as long as possible in this addictive and challenging experience. The game is famous for its simple yet addictive gameplay, smooth physics engine, and gradually accelerating pace.
+### Steuerung
 
-### Gameplay Strategy
+*   **Links:** A oder Pfeil nach links bewegt die Kugel nach links.
+*   **Rechts:** D oder Pfeil nach rechts bewegt sie nach rechts.
+*   **Weiche Bewegungen:** Nutze kleine, stetige Korrekturen statt abrupter
+    Richtungswechsel.
 
-1.  **[DE]** **Basic Control**: Master the basic left and right movement controls, avoiding overreaction.
-2.  **[DE]** **Rhythm Awareness**: Adapt to the game's constantly accelerating pace and speed changes.
-3.  **[DE]** **Obstacle Prediction**: Learn to predict the position and movement patterns of red obstacles.
-4.  **[DE]** **Path Selection**: Choose the safest routes through complex obstacle combinations.
-5.  **[DE]** **Stay Calm**: Maintain composure at high speeds, avoiding panic-induced mistakes.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Move Left**: Press A key or left arrow key to move the ball left.
-*   **[DE]** **Move Right**: Press D key or right arrow key to move the ball right.
-*   **[DE]** **Smooth Control**: Use smooth movements rather than abrupt direction changes.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How can I improve my high score?**
-**A**: Practice more to improve reaction speed, learn to maintain control at high speeds, and familiarize yourself with obstacle appearance patterns.
-2.  **[DE]** **Q: Why does the ball accelerate?**
-**A**: This is the core game mechanism; the ball gets faster over time to increase challenge difficulty.
-3.  **[DE]** **Q: Are all red obstacles dangerous?**
-**A**: Yes, touching any red object will cause game over.
-4.  **[DE]** **Q: Does the game have an ending?**
-**A**: "Slope" is an endless game that can theoretically continue indefinitely; the challenge is seeing how long you can survive.
+1.  **F: Wie verbessere ich meinen Highscore?**
+    **A:** Spiele regelmäßig, um dein Reaktionstempo zu steigern, und merke dir
+    typische Hindernismuster. Je länger du ohne Crash durchhältst, desto höher
+    dein Score.
+2.  **F: Warum wird die Kugel immer schneller?**
+    **A:** Das ist das Kernprinzip von Slope – die steigende Geschwindigkeit
+    erhöht den Schwierigkeitsgrad und hält den Nervenkitzel hoch.
+3.  **F: Sind alle roten Objekte gefährlich?**
+    **A:** Ja, jede Berührung mit einem roten Block oder Hindernis beendet den
+    Lauf sofort.
+4.  **F: Hat das Spiel ein Ende?**
+    **A:** Nein, Slope ist ein Endlosspiel. Ziel ist es, möglichst lange zu
+    überleben und immer neue Bestwerte aufzustellen.

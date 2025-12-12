@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: parking-rush
-title: '[DE] Parking Rush'
+title: Parking Rush
 description: >-
-  [DE] A fun and challenging puzzle game of traffic control! Draw a path for
-  each car to its matching parking spot, but be careful not to let them crash
-  into each other.
+  Parking Rush ist ein cleveres Verkehrs-Puzzlespiel: Zeichne für jedes Auto
+  eine Route zu seinem farblich passenden Parkplatz – aber achte darauf, dass
+  sie unterwegs nicht zusammenstoßen.
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/parking-rush.png
 tags:
@@ -18,33 +18,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Parking Rush ist ein einfallsreiches, süchtig machendes
+ Linien-Zeichnen-Puzzle, in dem du ein chaotisches Parkhaus unter Kontrolle
+ bringen musst. Du spielst den Parkwächter und führst jedes Auto zu seinem
+ farblich markierten Stellplatz. Die Schwierigkeit: Du zeichnest für alle Autos
+ Wege, ohne dass sich ihre Routen kreuzen und sie ineinander krachen. Mit jedem
+ Level kommen mehr Fahrzeuge und Hindernisse dazu, sodass Planung und Timing
+ immer wichtiger werden.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Parking Rush is a clever and addictive line-drawing puzzle game that puts you in control of a chaotic parking lot. Your job is to play the role of a parking attendant and guide each car to its designated, color-matched parking space. The challenge is to draw paths for all the cars without them crashing into each other. As the levels progress, the number of cars and obstacles increases, requiring careful planning and timing to succeed.
+1.  **Routen vorher planen:** Bevor du die erste Linie zeichnest, betrachte das
+    gesamte Layout. Welche Autos haben direkte Wege, welche brauchen Umwege, um
+    Kollisionen zu vermeiden?
+2.  **Timing steuern:** Du musst nicht alle Autos gleichzeitig losfahren
+    lassen. Eine lange, kurvige Route für ein Auto kann dir Zeit verschaffen,
+    damit ein anderes zuerst eine Kreuzung passieren kann.
+3.  **Ein Auto nach dem anderen:** In besonders komplizierten Leveln hilft es,
+    zunächst nur für ein Auto einen Weg zu zeichnen, es einparken zu lassen und
+    dann das nächste zu bewegen. So sind nie zu viele Fahrzeuge gleichzeitig
+    unterwegs.
+4.  **Freie Flächen nutzen:** Scheue dich nicht, weite Bögen am Rand des
+    Parkplatzes zu zeichnen. Ein etwas längerer, aber sicherer Weg ist besser
+    als ein Crash in der Mitte.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Plan Your Routes:** Before you draw a single line, take a look at the entire layout. Identify which cars have the shortest or most direct paths and which ones might need to take a longer route to avoid a collision.
-2.  **[DE]** **Control the Timing:** The key to this game is timing. You don't have to send all cars at once. You can draw a long, winding path for one car to deliberately delay it, giving another car time to pass through a busy intersection first.
-3.  **[DE]** **One Car at a Time:** For complex levels, it's often best to draw a path for one car, let it park, and then move on to the next one. This reduces the number of moving vehicles you have to worry about at any given moment.
-4.  **[DE]** **Use Open Space:** Don't be afraid to draw paths that loop around the edges or through empty parts of the parking lot. A longer path is better than a crash!
+Gespielt wird mit einer einfachen Linien-Zeichnen-Mechanik.
 
-### Controls Guide
+*   **Weg zeichnen:** Klicke ein Auto an, halte gedrückt und ziehe eine Linie
+    zu seinem zugehörigen Parkplatz. Sobald du loslässt, folgt das Auto der
+    gezeichneten Route.
 
-The game is played with a simple line-drawing mechanic.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
+*   **F: Was passiert, wenn zwei Autos zusammenstoßen?**
+    **A:** Dann scheitert das Level und du musst von vorn beginnen.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Wie verhindere ich Unfälle an Kreuzungen?**
+    **A:** Steuere die Zeit: Gib einem Auto bewusst eine längere Route, damit es
+    später an die Kreuzung kommt, oder warte, bis ein anderes Fahrzeug komplett
+    geparkt ist, bevor du das nächste losschickst.
 
-*   **[DE]** **Q: What happens if two cars crash?**
-    *   **[DE]** **A:** You will fail the level and have to restart it from the beginning.
+*   **F: Muss ich jedes Auto parken?**
 
-*   **[DE]** **Q: How do I stop cars from crashing when their paths cross?**
-    *   **[DE]** **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
+    - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
 
-*   **[DE]** **Q: Do I have to park all the cars?**
-    *   **[DE]** **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+- **Q: Do I have to park all the cars?**
 
+    - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
+    **A:** Ja, ein Level gilt nur dann als geschafft, wenn alle Autos sicher auf
+    ihrem richtigen Parkplatz stehen.

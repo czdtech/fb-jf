@@ -1,80 +1,47 @@
 ---
-locale: ja
-urlstr: smarty-bubbles-2
-title: '[JA TRANSLATION NEEDED] Smarty Bubbles 2'
-description: >-
-  [JA TRANSLATION NEEDED] The addictive bubble shooter is back! Aim, shoot, and
-  match colorful bubbles to clear the board. Plan your shots carefully to avoid
-  adding new rows!
-iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
+title: Smarty Bubbles 2
+description: Smarty Bubbles 2はバブルシューターパズルです。バブルをマッチし、より多くのレベルをクリアし、改良された続編を楽しみます。
+iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/smarty-bubbles-2.png
+urlstr: smarty-bubbles-2
+score: 4.3/5  (2456 votes)
 tags:
-  - shooting
   - puzzle
   - casual
-score: 4.4/5  (2600 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Smarty Bubbles 2は、クラシックなバブルシューターゲームプレイに新しいレベルと機能を追加します。同じ色のバブルを3つ以上マッチしてポップし、ボードをクリアし、すべてのレベルをマスターします。
 
-[JA TRANSLATION NEEDED] Smarty Bubbles 2 continues the fun of the classic bubble shooter with a polished look and hundreds of new levels. The objective remains the same: clear the entire board of colorful bubbles by shooting and matching three or more of the same color. This sequel challenges you to think strategically to create massive chain reactions and clear each stage, all while managing your shots to prevent the ceiling from dropping.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **狙いを計画:" 壁からのバウンスを使用します。
+2.  **大きなグループ:" より多いバブル = より多いポイント。
+3.  **トップダウン:" 上部のバブルを落とします。
+4.  **色を見る:" 次のバブルの色を確認します。
+5.  **移動を節約:" 効率的にクリアします。
 
-[JA TRANSLATION NEEDED] 1.  **Avoid Misses:** Just like the original, the key is to make every shot count. After a certain number of shots that don't pop any bubbles, a new row will be added from the top, making the game harder. An indicator on the side will show you how many misses you have left.
-[JA TRANSLATION NEEDED] 2.  **Aim for Avalanches:** The most efficient way to win is to pop bubble clusters that are supporting other bubbles. This will cause all the unsupported bubbles to fall, clearing the screen much faster.
-[JA TRANSLATION NEEDED] 3.  **Use the Walls:** Master bouncing your shots off the side walls. This is an essential skill for reaching difficult spots and setting up clever matches.
-[JA TRANSLATION NEEDED] 4.  **Plan Ahead:** The game shows you the next bubble in your cannon. Use this information to plan your next move. Sometimes it's best to make a less optimal shot now to set up a perfect shot with the next bubble.
+### 操作ガイド
 
-### Controls Guide
+- マウス/タッチ：狙い、ショットします。
+- 3つ以上の同じ色をマッチします。
+- レベル目標を完了します。
 
-*   **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-    - **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.（日本語訳が必要）
-    - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.（日本語訳が必要）
-    - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.（日本語訳が必要）
-    - **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.（日本語訳が必要）
-    - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.（日本語訳が必要）
-    - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.（日本語訳が必要）
-*   **Shoot:** Click the left mouse button to fire the bubble.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: Why did a new row of bubbles appear?**
-[JA TRANSLATION NEEDED]     *   **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.
-
-*   **Q: What is the goal of the game?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
-
-*   **Q: How do I get a high score?**
-
-
-
-
-
-
-
+- **Q: オリジナルと何が違いますか？**  
+  A: より多くのレベル、新しいチャレンジ、改良されたグラフィック。
+    - **Q: どれくらいのレベルがありますか？**  
+  A: Smarty Bubbles 2には数百のレベルがあります。
+- **Q: パワーアップはありますか？**  
 
     - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
+
 - **Q: How do I get a high score?**
+
     - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
-- **Q: What is the goal of the game?**
-    - **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.
-- **Q: Why did a new row of bubbles appear?**
-### よくある質問（FAQ）
-- **Shoot:** Click the left mouse button to fire the bubble.
-
-
-
-
-
-    - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
-- **Q: How do I get a high score?**
-    - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
-- **Q: What is the goal of the game?**
-    - **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.
-[JA TRANSLATION NEEDED]     *   **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
-
+  A: はい、爆弾、カラーチェンジャーなどの特別なバブル。

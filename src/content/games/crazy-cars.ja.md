@@ -1,49 +1,62 @@
 ---
-locale: ja
-urlstr: crazy-cars
-title: '[JA TRANSLATION NEEDED] Crazy Cars'
+title: Crazy Cars クレイジー・カーズ
 description: >-
-  [JA TRANSLATION NEEDED] Crazy Cars is a casual 3D driving and stunt racing
-  game: explore a city map, complete events, collect stars and wrenches, and
-  perform jumps with nitro in your browser.
+  「Crazy
+  Cars」はオープンワールド風の街を爆走する3Dカーアクション。レース、タイムトライアル、スタントに挑戦し、隠されたアイテムを集めて新車をアンロックしよう。
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/crazy-cars.jpg
+urlstr: crazy-cars
+score: 3.6/5  (197 votes)
 tags:
   - racing
   - driving
   - stunts
-score: 3.6/5  (197 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Crazy Cars（クレイジー・カーズ）*は、ジャンプ台や障害物が設置された街を自由に走り回れる、カジュアルな3Dドライビングゲームです。ただ走るだけでなく、マップ上のイベントマーカーを見つけてレースやタイムトライアルに参加したり、屋上や隠し場所に散らばる「スター」や「レンチ」を集めたりする要素があります。
+
+イベントをクリアして稼いだお金で、さらに速くてかっこいい車をアンロックしていきましょう。ローカルでの画面分割（スプリットスクリーン）対戦に対応しているバージョンもあります。
+
+### 遊び方
+
+*   **探索:** 街を走り回り、レース、タイムトライアル、障害物走、スタントエリアなどのアクティビティを見つけましょう。
+*   **収集:** 建物の屋上やスロープの先など、到達困難な場所にアイテム（スターやレンチ）が隠されています。
+*   **アンロック:** お金を稼いで新しい車を購入しましょう。
+*   **アクション:** 直線ではナイトロ（ブースト）を使い、大きなジャンプの前には体勢を整えましょう。
+
+### 操作ガイド
+
+*   **移動:** `W`, `A`, `S`, `D` または 矢印キー
+*   **ブレーキ/ドリフト:** `Space`キー
+*   **リセット（復帰）:** `R`キー（車がひっくり返った時など）
+*   **メニュー/一時停止:** `Esc` または `P`キー
+*   **2人プレイ:** もう一人のプレイヤーは別のキーセット（矢印キーなど）を使用します。
+
+### 攻略のヒント
+
+*   **ドリフト:** 急なカーブではハンドブレーキ（Space）を使ってドリフト走行をすると、速度を維持したまま曲がれます。
+*   **ジャンプのコツ:** 大きなジャンプ台には真っ直ぐ、かつ十分なスピードで進入しましょう。空中でハンドルを切ると着地が乱れます。
+*   **修理:** 激しいクラッシュをした後は、近くにあるレンチを取って車を修理しましょう。
+*   **アクセルワーク:** 常に全開ではなく、カーブではアクセルを緩める（フェザリング）操作も重要です。
+
+### よくある質問 (FAQ)
+
+*   **Q: 新しい車はどうやって手に入れますか？**
+
+A: Complete races and collect items to earn currency; spend it in the garage.
+- **A:** レースに勝ったりアイテムを集めてお金（カレンシー）を貯め、ガレージで購入します。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Crazy Cars is a casual browser driving game on a free‑roam city map with ramps, jump spots, and event markers. Explore to find races and time trials, collect stars and wrenches across rooftops and hidden corners, and unlock additional cars. Some hosts also include local split‑screen.
+A: Some browser versions offer local split‑screen; online multiplayer is typically not included.
+*   **Q: オンライン対戦はできますか？**
 
-### How to Play
-- Explore the map to find activities: races, time trials, obstacle runs, and stunt areas.  
-- Collectibles (stars/wrenches) are scattered around rooftops, ramps, and hidden spots.  
-- Earn currency by completing events to unlock faster cars.  
-- Use nitro on straights; line up carefully before large jumps.  
+A: Press R to reset near your last position.
+    *   **A:** 基本的には一人用、もしくは一台のPCでのローカル対戦（画面分割）のみです。
 
-### Controls
-- WASD or Arrow Keys: Drive / steer  
-- Space: Brake/handbrake (host‑dependent); Nitro where available  
-- R: Reset vehicle  
-- Esc/P: Pause/menu  
-- Split‑screen: second player uses the other key set
-
-### Tips and Strategies
-- Feather the throttle during sharp turns to reduce understeer.  
-- Approach big ramps straight and at speed; avoid mid‑air steering corrections.  
-- Use the handbrake to initiate controlled drifts for tight corners.  
-- Grab nearby wrenches early to repair after heavy landings.  
-
-### FAQ
-- Q: How do I unlock more cars?  
-[JA TRANSLATION NEEDED]   A: Complete races and collect items to earn currency; spend it in the garage.  
-- Q: Is there multiplayer?  
-[JA TRANSLATION NEEDED]   A: Some browser versions offer local split‑screen; online multiplayer is typically not included.  
-- Q: My car flipped over—what now?  
-[JA TRANSLATION NEEDED]   A: Press R to reset near your last position.  
+*   **Q: 車がひっくり返って動けません。**
+    *   **A:** `R`キーを押すと、近くの安全な場所にリスポーン（復活）できます。

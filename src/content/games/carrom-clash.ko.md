@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: carrom-clash
-title: '[KO] Carrom Clash'
+title: Carrom Clash 캐롬 클래시
 description: >-
-  [KO] Experience the classic tabletop game of Carrom on your device! Aim your
-  striker, pocket your pieces, and cover the queen to defeat your opponent in
-  this game of skill and precision.
+  Carrom Clash는 테이블 위에서 디스크를 튕겨 포켓에 넣는 클래식 보드게임 캐롬을 디지털로 즐길 수 있는 게임입니다. 스트라이커를
+  정확히 겨냥해 자신의 말을 포켓에 넣고, 퀸을 커버해 상대보다 먼저 모든 말을 정리해 보세요.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/carrom-clash.png
 tags:
@@ -19,31 +18,52 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Carrom Clash is a realistic digital version of the beloved tabletop "strike and pocket" game, Carrom. Often described as finger billiards, the game challenges you to use a larger disc, the "striker," to flick your set of assigned pieces (either black or white) into the four corner pockets. The game requires precision, strategy, and a good understanding of angles to outmaneuver your opponent and clear your pieces first.
+*Carrom Clash*는 손가락으로 치는 당구라고도 불리는 캐롬을 사실적으로 재현한 디지털
+보드게임입니다. 플레이어는 "스트라이커"라 불리는 큰 디스크를 이용해 자신의 말(검정
+또는 흰색)을 네 모서리 포켓에 넣어야 하며, 정교한 각도 계산과 힘 조절이 승부를
+가릅니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 플레이 팁
 
-1.  **[KO]** **The Objective:** Be the first player to pocket all of your pieces (black or white). To win, you must also pocket and "cover" the red Queen.
-2.  **[KO]** **Pocketing Your Pieces:** On your turn, you shoot the striker from your baseline. If you successfully pocket one of your own pieces, you get to shoot again.
-3.  **[KO]** **The Queen:** The red Queen is a special piece. You can pocket it any time after you've sunk your first piece. However, to secure the points for the Queen, you *must* sink one of your own pieces immediately on the very next shot. This is called "covering the Queen."
-4.  **[KO]** **Fouls:** Be careful not to pocket your striker! This is a foul and results in a penalty, where one of your already pocketed pieces is returned to the center of the board.
-5.  **[KO]** **Bank Shots:** Use the sides of the board to your advantage. Bouncing the striker off the edges can help you hit pieces that are in difficult positions.
+1. **목표 이해하기:** 자신의 색 말(검정/흰색)을 모두 포켓에 넣는 것이 1차 목표이며,
+   승리하려면 빨간 퀸을 넣은 뒤 곧바로 자신의 말을 하나 더 넣어 "퀸을 커버"해야
+   합니다.
+2. **자신의 말 넣기:** 턴이 올 때마다 베이스라인 위에서 스트라이커 위치를 조절한 뒤
+   쳐서 자신의 말을 포켓에 넣습니다. 자신의 말을 성공적으로 넣으면 한 번 더
+   플레이할 수 있습니다.
+3. **퀸 다루기:** 퀸은 언제든 자신의 말을 한 번 이상 넣은 뒤에 포켓에 넣을 수 있지만,
+   바로 다음 샷에서 자신의 말을 넣지 못하면 퀸이 다시 보드 중앙으로 돌아옵니다.
+4. **파울 주의:** 스트라이커를 포켓에 빠뜨리면 파울로, 이미 넣어 둔 자신의 말 하나를
+   다시 보드 중앙으로 올려야 하며 턴도 넘어갑니다.
+5. **뱅크샷 활용:** 직접 맞추기 힘든 위치에 있는 말은 보드 가장자리를 이용한 뱅크샷으로
+   노리는 것이 좋습니다. 각도를 잘 잡으면 한 번에 여러 말을 노릴 수도 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-*   **[KO]** **Position Striker:** Click and drag the striker left and right along your baseline to position it for your shot.
-*   **[KO]** **Aim and Shoot:** Click on the striker and pull back. An aiming line will appear. The further you pull back, the more powerful your shot will be. Release to shoot.
+- **스트라이커 위치 조정:** 베이스라인을 따라 스트라이커를 좌우로 드래그해 위치를
+  잡습니다.
+- **에임 & 샷:** 스트라이커를 클릭한 뒤 뒤로 당기면 조준선이 나타나며, 멀리 당길수록
+  샷의 힘이 세집니다. 방향과 세기를 조절한 뒤 버튼을 놓아 샷을 실행합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What does it mean to "cover the Queen"?**
-    *   **[KO]** **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.
+- **Q: 퀸을 "커버"한다는 게 무슨 뜻인가요?**  
+  **A:** 퀸을 규칙대로 포켓에 넣은 뒤, 같은 턴의 바로 다음 샷에서 자신의 말을
+  하나 더 넣어야 퀸 점수가 인정된다는 뜻입니다. 실패하면 퀸이 다시 중앙으로
+  돌아갑니다.
 
-*   **[KO]** **Q: What happens if I pocket the striker?**
-    *   **[KO]** **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
+    - **Q: 스트라이커가 포켓에 빠지면 어떻게 되나요?**  
+  **A:** 파울로 처리되어, 이미 포켓에 넣어 둔 자신의 말 한 개를 다시 보드 중앙에
+  올려야 하고, 턴 역시 상대에게 넘어갑니다.
 
-*   **[KO]** **Q: What if I pocket my opponent's piece?**
-    *   **[KO]** **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
+- **Q: 상대 말이 들어가면요?**  
 
+    - **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
+
+- **Q: What if I pocket my opponent's piece?**
+
+    - **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
+  **A:** 상대 말을 실수로 넣으면 턴이 바로 종료됩니다. 자신의 말을 넣었을 때에만
+  추가 턴을 얻을 수 있습니다.

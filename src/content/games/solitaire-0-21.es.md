@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: solitaire-0-21
-title: '[ES] Solitaire 0-21'
+title: "Solitaire 0-21"
 description: >-
-  [ES] Solitaire 0-21 twists solitaire with math — place cards so row sums stay
-  between 0 and 21, balancing risk and reward.
-iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
-thumbnail: /new-images/solitaire-0-21.png
+  Solitaire 0-21 le da un giro matemático al solitario: coloca cartas para que
+  la suma de cada fila se mantenga siempre entre 0 y 21, equilibrando riesgo y
+  recompensa.
+iframeSrc: "https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/"
+thumbnail: "/new-images/solitaire-0-21.png"
 tags:
   - card
   - puzzle
@@ -16,35 +17,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Solitaire 0-21 mezcla la disposición típica de un solitario con restricciones
+aritméticas. Colocas cartas numéricas en filas intentando que la suma acumulada
+se mantenga dentro del intervalo [0, 21]. Modificadores (+/‑/×) y efectos
+especiales complican la planificación. La clave es encadenar colocaciones
+seguras y reservar espacio para picos de valor.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place number cards to keep running totals within [0, 21]; modifiers (+/‑/×) and special effects complicate planning. Optimal play sequences safe placements while reserving room for spikes.
+1.  **Deja margen:** No lleves las sumas de las filas hasta los extremos al
+    principio. Mantén espacio cerca de 21 para poder absorber valores altos.
+2.  **Gestiona los modificadores:** Usa multiplicadores y modificadores solo
+    cuando los totales permitan absorberlos sin sobrepasar el límite.
+3.  **Planificación por filas:** Reparte el riesgo entre varias filas; no
+    concentres todas las cartas volátiles en la misma línea.
+4.  **Reserva las cartas altas:** Mantén las cartas de valor alto en la mano
+    hasta que puedas compensarlas con cartas negativas.
+5.  **Disciplina con deshacer:** Si notas que una fila ha quedado "encerrada" sin
+    margen, usa el deshacer de inmediato antes de seguir complicando la
+    situación.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Buffer space: Leave headroom near 21; don’t push totals to edges early.
-2.  **[ES]** Modifier timing: Spend multipliers only when totals allow safe absorption.
-3.  **[ES]** Row planning: Spread risk across rows; don’t stack volatility in one line.
-4.  **[ES]** Hold highs: Park high cards until you can offset with negatives.
-5.  **[ES]** Undo discipline: Undo immediately after noticing a boxed‑in row.
+- Haz clic o arrastra para colocar cartas; usa los botones de deshacer y pistas
+  según aparezcan en la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Click/drag to place cards; use undo/hints per UI.
+- **P: Mis sumas superan el límite constantemente.**
+  
+  **R:** Probablemente estás jugando demasiado cerca de los bordes 0 y 21.
+  Deja siempre un pequeño colchón y dosifica los modificadores.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Cuál es la mejor forma de usar las cartas negativas?**
+  
+  **R:** Combínalas con cartas altas en la misma fila para recuperar margen y
+  volver a tener espacio de maniobra.
 
-- Q: Totals keep busting.
-
-A: You’re playing too close to 0/21 edges; leave cushion and pace modifiers.
-
-- Q: Best way to use negatives?
-
-A: Pair with highs to reset headroom on the same row.
-
-- Q: Is luck dominant?
-
-A: Draws matter, but placement strategy heavily impacts outcomes.
-
+- **P: ¿Es un juego dominado por la suerte?**
+  
+  **R:** El azar influye en el orden de las cartas, pero la estrategia de
+  colocación marca una gran diferencia en los resultados.

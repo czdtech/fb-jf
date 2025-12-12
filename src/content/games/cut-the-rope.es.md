@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: cut-the-rope
-title: '[ES] Cut The Rope'
+title: "Cut The Rope"
 description: >-
-  [ES] Cut The Rope is a physics puzzle: cut ropes, collect stars, and feed Om
-  Nom the candy without losing it.
+  Cut The Rope es un puzle de físicas: corta cuerdas, recoge estrellas y
+  consigue que el caramelo llegue hasta Om Nom sin perderlo.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/cut-the-rope.jpg
@@ -16,27 +16,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Cut the Rope es un juego de puzles basado en físicas en el que debes cortar
+cuerdas para entregar un caramelo a Om Nom mientras intentas recoger hasta tres
+estrellas por nivel. En fases avanzadas aparecen burbujas, cojines de aire y
+peligros que alteran la trayectoria y el tiempo de caída del caramelo.
 
+### Cómo jugar
 
-### Overview
-Cut the Rope is a physics‑based puzzle game where you slice ropes to deliver a candy to Om Nom while collecting up to three stars per level. Later stages introduce mechanics like bubbles, air cushions, and hazards that change the candy’s trajectory and timing. 
+- Desliza o haz clic para cortar las cuerdas en el orden correcto de forma que
+  el caramelo se balancee hacia Om Nom.
+- Recoge estrellas por el camino y calcula los cortes para evitar pinchos y
+  otros obstáculos.
+- Usa los elementos interactivos (por ejemplo, burbujas que hacen flotar el
+  caramelo o chorros de aire que lo desvían) cuando estén disponibles.
 
-### How to Play
-- Swipe/click to cut ropes in the right order so the candy swings toward Om Nom.
-- Collect stars on the way; time cuts to avoid spikes and other traps.
-- Use interactive elements (e.g., bubbles that float the candy, air puffs that steer) when available.
+### Controles
 
-### Controls
-- Mouse/touch swipes to cut; buttons for level restart/next; some hosts add hint systems.
+- Desliza con el ratón o el dedo para cortar; usa los botones de la interfaz
+  para reiniciar el nivel o pasar al siguiente. Algunas versiones añaden sistema
+  de pistas.
 
-### Tips and Strategies
-- Visualize the candy’s swing arc before cutting; chain two quick cuts to redirect motion.
-- Pop bubbles near target height so Om Nom can grab the candy.
-- Grab at least two stars first; optimize for three once you understand the timing.
+### Consejos y estrategias
 
-### FAQ
-- Q: Do I need all stars to progress?
-A: You typically need a certain number of stars to unlock new level packs, not every single one.   
-- Q: Are there power‑ups?
-A: Some versions include optional helpers/hints; availability varies by host. 
+- Visualiza el arco del péndulo que seguirá el caramelo antes de cortar, y
+  encadena dos cortes rápidos para redirigir el movimiento.
+- Revienta las burbujas cuando el caramelo esté a la altura ideal para que Om
+  Nom pueda atraparlo.
+- Al principio basta con asegurarte dos estrellas; cuando domines la sincronización,
+  vuelve a por la tercera.
+
+### Preguntas frecuentes (FAQ)
+
+- P: ¿Necesito todas las estrellas para avanzar?
+  
+  R: Normalmente solo hace falta un número mínimo de estrellas para desbloquear
+  nuevos paquetes de niveles, no es obligatorio conseguirlas todas.
+
+- P: ¿Hay potenciadores?
+  
+  R: Algunas versiones incluyen ayudas opcionales o pistas; su disponibilidad
+  depende de la página donde juegues.

@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: mahjong
-title: '[ZH TRANSLATION NEEDED] Mahjong'
+title: "《Mahjongg Solitaire》麻将连连看益智游戏"
 description: >-
-  [ZH TRANSLATION NEEDED] Mahjongg Solitaire is a classic single-player puzzle
-  game based on traditional Chinese Mahjong tiles, where players match identical
-  open pairs to clear the board.
+  《Mahjongg Solitaire》是一款基于中国传统麻将牌的单人消除益智游戏，你需要在限定布局中找出并消除一对对相同、且处于“开放”状态的牌，直到清空整块牌面。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/mahjong.jpg
 tags:
@@ -18,33 +16,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Mahjongg Solitaire" is a single-player matching game based on traditional Chinese Mahjong tiles. The objective of the game is to clear the entire board by matching pairs of identical, open tiles. Due to its easy-to-understand rules and challenging gameplay, Mahjongg Solitaire is loved by players worldwide.
+《Mahjongg Solitaire》是一款以中国传统麻将牌为基础改编的单人消除类益智游戏。牌面会按照不同的立体布局摆放好，你的目标是通过不断配对、消除相同的“可操作”麻将牌，最终把整块牌面全部清空。规则简单直观，但想要稳定通关需要观察力、空间感和规划能力，因此在全球范围都有大量忠实玩家。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Observe the Board Layout**: Carefully examine the board to identify available matching pairs.
-2.  **Prioritize Blocking Tiles**: Focus on removing pairs that block other tiles to unlock more matching possibilities.
-3.  **Plan Multiple Moves**: Plan several moves ahead to ensure each step creates favorable conditions for subsequent matches.
-4.  **Use Hints and Shuffles**: Utilize in-game hints or shuffle features when stuck, but use them sparingly to maintain the game's challenge.
+1.  **先观察整体布局**：开局不要着急乱点，先纵观全局，找出当前能消除的牌对，以及它们上方或两侧还压着多少牌。
+2.  **优先处理“卡位”牌**：优先消除那些压在高层、或者左右两侧延展很长的牌堆，这样可以解锁更多可操作的牌面空间。
+3.  **提前规划多步走**：不要只看眼前的一对，思考接下来两三步还能衔接哪些配对，避免一步走错把关键牌“封死”。
+4.  **谨慎使用提示与重排**：卡关时可以使用提示（Hint）或洗牌（Shuffle）功能继续游戏，但建议把它们当作“最后的保险”，否则会削弱解谜本身的乐趣。
 
-### How to Play
+### 操作说明
 
-*   **Select Pairs**: Click on two identical and open tiles to remove them.
-*   **Identify Open Tiles**: A tile is considered open if it meets the following criteria:
-    * [ZH TRANSLATION NEEDED] It has no adjacent tiles on its left or right side.
-    * [ZH TRANSLATION NEEDED] It is not covered by any tiles above it.
-*   **Game End Conditions**: The game ends when all tiles are successfully removed or when there are no more possible matches.
+*   **选择并消除牌对**：用鼠标或手指依次点击两张相同图案、且“开放”的牌，它们会成对从牌面上移除。
+*   **判断牌是否“开放”**：一张牌被视为可以操作，需要同时满足：
+    *   左侧或右侧至少有一边不被其他牌紧贴挡住；
+    *   上方没有任何其他牌压在它之上。
+*   **游戏结束条件**：当你成功将所有牌全部消除时即通关；如果牌面上仍有牌但已经不存在任何可配对的组合，则本局宣告失败。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What if the game doesn't load or start?**
-     **A**: Try refreshing the page or switching browsers. If the problem persists, clearing your browser's cache might help.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I enlarge the game interface?**
-     **A**: Click the full-screen button in the lower right corner of the game interface to enter full-screen mode and enlarge the game area.
-3.  [ZH TRANSLATION NEEDED] **Q: Are there different tile themes available?**
-     **A**: Many versions of Mahjongg Solitaire offer various tile themes, which you can change in the game settings.
-4.  [ZH TRANSLATION NEEDED] **Q: What if there are no more matching pairs in the game?**
-     **A**: Some game versions provide a shuffle feature, allowing you to rearrange the tiles to continue playing.
-5.  [ZH TRANSLATION NEEDED] **Q: How do I pause the game?**
-     **A**: Click the pause button in the game interface to pause the game, and the timer will also stop.
+### 常见问题（FAQ）
+
+1.  **问：游戏打不开或无法开始怎么办？**
+    **答：** 可以先尝试刷新页面，或更换一个浏览器重新打开。如果问题依然存在，建议清理浏览器缓存后再试。
+2.  **问：可以把游戏画面放大吗？**
+    **答：** 可以，点击游戏界面右下角的全屏按钮进入全屏模式，这样能放大牌面、看得更清楚。
+3.  **问：这款麻将连连看有不同的牌面主题吗？**
+    **答：** 许多版本的《Mahjongg Solitaire》都提供多种牌面与背景主题，你通常可以在游戏设置中自由切换。
+4.  **问：如果牌面上再也没有可配对的牌了怎么办？**
+    **答：** 某些版本会提供“洗牌”功能，用来重新打乱剩余牌的顺序，从而产生新的可配对组合。
+5.  **问：可以暂停游戏吗？**
+    **答：** 可以，点击游戏界面的暂停按钮即可暂时停止游戏计时与操作，方便你中途休息。

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: drifting-mania
-title: '[ES] Drifting mania'
+title: "Drifting Mania"
 description: >-
-  [ES] Drifting mania tests top‑down drift control — feather throttle, link
-  slides, and master corner rhythm.
+  Drifting Mania pone a prueba tu control del derrape en vista cenital: dosifica
+  acelerador, enlaza deslizamientos y domina el ritmo de cada curva.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/drifting-mania.png
 tags:
@@ -15,28 +15,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Drifting Mania es un juego de derrapes ligero en vista cenital. Tu objetivo es controlar
+el ángulo de deslizamiento, dar golpes de gas medidos y clavar la salida de
+cada curva para enlazar giros y marcar buenos tiempos por vuelta.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle pulses, and tidy exits to chain corners and set clean lap times.
+1.  Entra lento y sal rápido: sacrificar algo de velocidad en la entrada te
+    permite acelerar antes en la salida y mantener mejor el ritmo.
+2.  Dosifica el acelerador para derrapes controlados: evita pisar a fondo salvo
+    en rectas.
+3.  Enlaza curvas planificando la línea de salida para llegar bien colocado a la
+    siguiente.
+4.  Si el coche se cruza demasiado, corrige pronto y suavemente en lugar de
+    esperar al trompo.
+5.  Memoriza cada trazado para fijar puntos de frenada y giro constantes.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Enter slow, exit fast to keep momentum.
-2.  **[ES]** Feather throttle for controlled slides.
-3.  **[ES]** Link corners by planning exit lines.
-4.  **[ES]** Recover early if over‑rotated.
-5.  **[ES]** Drill layouts for consistent braking points.
+- Dirección: A/D o Flechas izquierda/derecha.
+- Acelerador/Freno: W/S o Flechas arriba/abajo.
+- Freno de mano (si existe): Espacio para ganar rotación.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Steer: A/D or Left/Right; Throttle/Brake: W/S or Up/Down.
-- Handbrake (if any): Space for rotation.
+- **P: Me hago trompos todo el rato, ¿cómo lo evito?**  
+  **R:** Reduce el gas en medio del derrape y corrige con contra‑volante antes
+  de que el ángulo sea excesivo.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Se pueden mejorar los coches?**  
+  **R:** Algunas versiones permiten desbloquear vehículos; céntrate primero en
+  ser consistente con el modelo base.
 
-- Spinning out? Reduce throttle and counter‑steer sooner.
-- Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
-- Best times? Clean lines beat reckless speed.
-
+- **P: ¿Qué es más importante para un buen tiempo?**  
+  **R:** Una trazada limpia y constante suele ser mejor que entrar demasiado
+  rápido y perder el coche en cada curva.

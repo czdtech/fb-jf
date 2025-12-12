@@ -1,54 +1,59 @@
 ---
 locale: fr
 urlstr: om-nom-run
-title: '[FR] Om Nom: Run'
+title: Om Nom Run
 description: >-
-  [FR] Join Om Nom and Om Nelle in a fast-paced endless runner! Dash through the
-  streets, dodge obstacles, collect coins, and use awesome power-ups to run as
-  far as you can.
-iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
-thumbnail: /new-images/om-nom-run.png
+  Om Nom Run est un runner dynamique : cours avec Om Nom, évite les obstacles,
+  collecte des pièces et active des power‑ups pour battre tes records.
+iframeSrc: >-
+  https://omnomsprint.h5games.usercontent.goog/v/50c0909a-5c11-4d9e-8b1d-e5db33f56695/
+thumbnail: /new-images/om-nom-run.jpg
 tags:
+  - runner
   - action
   - casual
-score: 4.5/5  (3400 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Om Nom Run est un jeu de course infinie où tu incarnes Om Nom et ses amis dans des rues pleines d’obstacles, de voitures et de bonus. Tu dois changer de voie, sauter par‑dessus les barrières, glisser sous les obstacles et utiliser des power‑ups pour aller toujours plus loin. Certaines versions proposent aussi des missions et objectifs spécifiques à accomplir.
+
+### Stratégies de jeu et progression
+
+1.  **Lire loin devant :** regarde toujours plusieurs cases devant Om Nom pour anticiper les obstacles plutôt que de réagir au dernier moment.  
+2.  **Utiliser les power‑ups :** aimanteurs de pièces, multiplicateurs de score et boucliers sont précieux ; privilégie leur collecte, surtout en début de run.  
+    - **Compléter les missions :** suis les objectifs (distance, pièces, cascades) pour débloquer des récompenses et de nouveaux personnages.  
+    - **Mémoriser les patterns :** certains enchaînements d’obstacles reviennent souvent ; les reconnaître te permettra d’y réagir automatiquement.
 
 
+    - **Upgrade Your Boosters:** Use the coins you collect to upgrade the duration and effectiveness of your power-ups in the main menu. A longer-lasting magnet or rocket can dramatically improve your scores.
 
+- **Focus on Missions:** The game will give you missions to complete during your run (e.g., "Jump 10 times," "Collect 200 coins"). Completing these missions is the fastest way to increase your score multiplier and earn bonus rewards.
 
-### Detailed Game Introduction
+- **Double Coins:** Doubles the value of every coin you collect for a limited time.
+### Commandes
 
-Om Nom: Run is a vibrant and action-packed endless runner game starring the adorable monster Om Nom from the hit "Cut the Rope" series. In this game, Om Nom takes to the streets, rooftops, and tunnels in a fast-paced chase. Players must guide him to dodge obstacles, collect coins, complete missions, and use a variety of powerful boosters to run as far as possible and achieve the highest score.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** **Master the Swipes:** The core gameplay relies on quick reflexes. You need to swipe left and right to switch between three lanes, swipe up to jump over low obstacles, and swipe down to slide under high ones. Practice timing your swipes perfectly.
-2.  **[FR]** **Grab Those Power-ups:** During your run, you will see special items. Always try to grab them!
-    *   **[FR]** **Magnet:** Automatically collects all nearby coins for a short period.
-    *   **[FR]** **Rocket/Jetpack:** Launches you into the air, allowing you to fly safely above all obstacles while collecting coins.
-    *   **[FR]** **Double Coins:** Doubles the value of every coin you collect for a limited time.
-3.  **[FR]** **Focus on Missions:** The game will give you missions to complete during your run (e.g., "Jump 10 times," "Collect 200 coins"). Completing these missions is the fastest way to increase your score multiplier and earn bonus rewards.
-4.  **[FR]** **Upgrade Your Boosters:** Use the coins you collect to upgrade the duration and effectiveness of your power-ups in the main menu. A longer-lasting magnet or rocket can dramatically improve your scores.
-
-### Controls Guide
 
 The game uses simple and intuitive swipe gestures.
+- Déplacement gauche/droite : balayage latéral ou touches fléchées.  
+- Sauter : glisser vers le haut ou touche dédiée.  
+- Glisser : glisser vers le bas pour passer sous les obstacles.
 
-*   **[FR]** **Swipe Left/Right:** To move between the three lanes.
-*   **[FR]** **Swipe Up:** To jump over obstacles.
-*   **[FR]** **Swipe Down:** To slide under obstacles.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q : Comment gagner plus de pièces ?**  
+  **R :** Vise les lignes avec le plus de pièces, utilise l’aimant lorsque disponible et tente des runs plus longs pour profiter des multiplicateurs.
 
-*   **[FR]** **Q: What is the main goal of the game?**
-    *   **[FR]** **A:** The primary goal is to run as far as you can to get the highest possible score. Completing missions during your run is key to boosting your score multiplier.
+    - **Q : Puis‑je jouer avec d’autres personnages que Om Nom ?**  
 
-*   **[FR]** **Q: What happens when I hit an obstacle?**
-    *   **[FR]** **A:** Your run ends. However, you often have the option to spend a special currency (like keys) to get a second chance and continue your run from where you crashed.
+- **A:** New characters can usually be unlocked by collecting a large number of coins or by gathering special character tokens that appear randomly during runs.
 
-*   **[FR]** **Q: How do I unlock other characters like Om Nelle?**
-    *   **[FR]** **A:** New characters can usually be unlocked by collecting a large number of coins or by gathering special character tokens that appear randomly during runs.
+    - **Q: How do I unlock other characters like Om Nelle?**
+
+- **A:** Your run ends. However, you often have the option to spend a special currency (like keys) to get a second chance and continue your run from where you crashed.
+
+    - **Q: What happens when I hit an obstacle?**
+  **R :** Oui, de nombreux skins ou personnages se débloquent via les missions ou la boutique du jeu.
 

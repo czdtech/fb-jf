@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: climb-man
-title: '[ES] Climb Man'
+title: "Climb Man"
 description: >-
-  [ES] Master the fast-paced arcade game, Climb Man: Walk to the Sky. This guide
-  provides expert strategies for timing your climbs, avoiding obstacles, and
-  unlocking new characters to reach the highest score.
+  Domina el frenético arcade Climb Man: Walk to the Sky. Esta guía recoge
+  estrategias para clavar la sincronización, esquivar obstáculos y desbloquear nuevos
+  personajes para alcanzar la máxima puntuación.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/climb-man.png
 tags:
@@ -16,44 +16,72 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### **Introducción al juego**
 
+*Climb Man: Walk to the Sky* es un arcade de escalada rápido y adictivo que pone
+ a prueba tu sincronización y reflejos. El objetivo es **subir por una escalera
+ interminable en zigzag todo lo alto que puedas sin caerte ni chocar con los
+obstáculos.**
 
+Controlas a un personaje situado al pie de la escalera. Tocando los botones
+"Left Climb!" o "Right Climb!" haces que salte al siguiente peldaño en esa
+dirección. Debes pulsar siempre el botón correcto que corresponda con la
+posición del siguiente escalón.
 
-### **Game Introduction**
+La dificultad sube con la velocidad y con la aparición de cuerdas u otros
+peligros que tienes que evitar. Un toque fuera de tiempo o hacia el lado
+ equivocado hará que el personaje caiga y termine la partida. Tu meta es subir el
+mayor número de escalones posible para lograr récords, completar misiones y
+desbloquear nuevos personajes.
 
-*Climb Man: Walk to the Sky* is a fast-paced and addictive arcade climber that tests your timing and reflexes. The objective is to **climb an endless, zig-zagging staircase as high as possible without falling or being hit by obstacles.**
+### **Consejos y estrategia**
 
-Players control a character who stands at the bottom of a staircase. By tapping the "Left Climb!" or "Right Climb!" buttons, the character will jump to the next step in that direction. You must tap the correct button corresponding to the next step's location.
+1.  **Encuentra tu ritmo:** En el fondo es un juego rítmico. No reacciones a cada
+    peldaño de forma aislada; intenta entrar en un patrón de "tap‑tap‑tap" que
+    acompase tu pulso al de la escalera.
+2.  **Mira por delante, no al personaje:** Fija la vista dos o tres escalones
+    por delante. Así anticiparás el patrón (izquierda‑derecha‑izquierda o
+    izquierda‑izquierda‑derecha) y prepararás mentalmente la secuencia de toques.
+3.  **No te bloquees ante los obstáculos:** Están diseñados para cortar tu ritmo.
+    Cuando veas uno, mantén la calma, identifica la ruta segura y sigue
+    escalando. Es mejor una micro‑pausa que un toque de pánico.
+4.  **Domina el "doble toque":** Verás a menudo dos peldaños seguidos en el
+    mismo lado. Prepárate para pulsar el mismo botón dos veces muy rápido; es un
+    punto donde muchos pierden el compás.
+5.  **Misiones y recompensas diarias:** El juego tiene progresión con misiones,
+    registro de asistencia y monedas/diamantes. Entra cada día y céntrate en
+    completar misiones para desbloquear personajes (como el "Swordsman") y
+    posibles mejoras.
+6.  **Juega con dos pulgares:** Para máxima velocidad y precisión, usa dos
+    pulgares, uno sobre cada botón. Es mucho más fiable que jugar con un solo
+    dedo.
 
-The challenge comes from the increasing speed and the appearance of various obstacles, such as ropes or other hazards, that you must avoid. A single mistimed tap or a wrong directional choice will cause your character to fall, ending the run. The goal is to climb as many steps as possible to achieve a high score, complete missions, and unlock new characters.
+### **Guía de controles**
 
-### **Gameplay Strategy & Tips**
+Los controles son muy sencillos y pensados para móvil.
 
-1.  **[ES]** **Find Your Rhythm**: This is a rhythm-based game at its core. Don't just react to each step as it comes. Try to get into a steady "tap-tap-tap" rhythm that matches the flow of the stairs.
-2.  **[ES]** **Look Ahead, Not at Your Character**: Your focus should be two or three steps ahead of your character. This allows you to anticipate the pattern of the stairs (e.g., left-right-left vs. left-left-right) and mentally prepare your next sequence of taps.
-3.  **[ES]** **Don't Panic at Obstacles**: Obstacles are designed to break your rhythm and cause a mistake. When you see an obstacle, stay calm, identify the safe path, and continue your climb. A brief pause to assess is better than a panicked wrong move.
-4.  **[ES]** **Master the "Double Tap"**: You will frequently encounter two consecutive steps on the same side. Be ready to quickly tap the same button twice in a row. This is a common point where players lose their rhythm.
-5.  **[ES]** **Complete Missions and Daily Rewards**: As the screenshots show, the game has a meta-progression system with missions, daily check-ins ("Attendance Check"), and currency (gold and diamonds). Log in daily and focus on completing missions to earn currency, which can be used to unlock new characters (like the "Swordsman") and potentially power-ups.
-6.  **[ES]** **Use Two Thumbs**: For maximum speed and control, play with both thumbs, hovering over the left and right buttons, respectively. This is much faster and more accurate than using a single finger.
+*   **Subir a la izquierda:** Toca el botón **"Left Climb!"** en la parte
+    inferior izquierda.
+*   **Subir a la derecha:** Toca el botón **"Right Climb!"** en la parte
+    inferior derecha.
 
-### **Controls Guide**
+### **Preguntas frecuentes (FAQ)**
 
-The controls are extremely simple, designed for fast-paced mobile gameplay.
+**1. ¿Qué pasa si pulso el botón equivocado?**
+Si tocas "Left Climb!" cuando el siguiente escalón está a la derecha (o al
+revés), tu personaje saltará al vacío y caerá; la partida terminará.
 
-*   **[ES]** **Climb Left**: Tap the **"Left Climb!"** button on the bottom left of the screen.
-*   **[ES]** **Climb Right**: Tap the **"Right Climb!"** button on the bottom right of the screen.
+**2. ¿Cómo consigo nuevos personajes?**
+Puedes desbloquear personajes como el "Swordsman" acumulando días de conexión
+seguidos en el Attendance Check. También es probable que puedas comprarlos en la
+"Shop" o en el menú de "Character" usando oro y diamantes obtenidos al jugar y
+cumplir misiones.
 
-### **Frequently Asked questions (FAQ)**
+**3. ¿Cuál es el objetivo del juego?**
+La meta principal es lograr la máxima puntuación posible subiendo el mayor
+número de peldaños en una misma partida. Como objetivos secundarios, completar
+misiones y reunir todos los personajes.
 
-**1. What happens if I press the wrong button?**
-If you press "Left Climb!" when the next step is on the right (or vice versa), your character will jump into the empty space and fall, ending the game.
-
-**2. How do I get new characters?**
-As shown in the "Attendance Check" screen, you can unlock characters like the "Swordsman" by logging in for consecutive days. You can also likely purchase new characters from the "Shop" or unlock them through the "Character" menu using the gold and diamonds you earn from playing and completing missions.
-
-**3. What is the goal of the game?**
-The primary goal is to achieve the highest score possible by climbing the most steps in a single run. A secondary goal is to complete missions and collect all the available characters.
-
-**4. Is this game endless?**
-Yes, the main gameplay mode is an endless climber where the stairs are procedurally generated, and you climb until you make a mistake.
-
+**4. ¿El modo principal es infinito?**
+Sí. La escalera se genera de forma procedural y la partida continúa hasta que
+cometes un error.

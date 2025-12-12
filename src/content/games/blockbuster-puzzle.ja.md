@@ -1,74 +1,38 @@
 ---
+title: "Blockbuster Puzzle ブロックバスター・パズル"
+description: "「Blockbuster Puzzle」で爽快ブロック崩し！配置を計画し、爆破連鎖を起こそう。スペース管理が鍵となる戦略パズルの攻略法を紹介。"
+iframeSrc: "https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/"
+thumbnail: "/new-images/blockbuster-puzzle.png"
+urlstr: "blockbuster-puzzle"
+score: "4.0/5  (1862 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: blockbuster-puzzle
-title: '[JA TRANSLATION NEEDED] Blockbuster Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Blockbuster Puzzle is a satisfying block clear — plan
-  placements, chain blasts, and avoid sealing off critical space.
-iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
-thumbnail: /new-images/blockbuster-puzzle.png
-tags:
-  - puzzle
-  - thinky
-score: 4.0/5  (1862 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Blockbuster Puzzle（ブロックバスター・パズル）*は、手持ちのブロックをはめ込んでラインや塊（クラスター）を消去していく、満足感の高いブロック消しゲームです。このゲームの芸術性は「ペース配分」にあります。複数のルートを常に確保し、広範囲を一掃する「ボム」のような一手を準備し、最後の逃げ道であるポケットを無駄に使い潰さないようにしましょう。連鎖を狙ってスペースを広げ続けるのがコツです。
 
-[JA TRANSLATION NEEDED] Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or cluster clears. The art is in pacing: keep multiple lanes viable, prepare “bomb” turns that clear large areas, and never burn your last escape pocket unless it secures a chain.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **2本のラインを確保：** 扱いにくい変な形のブロックが来てもいいように、常に少なくとも2つの柔軟なビルドルート（建設可能な列）を空けておきましょう。
+2.  **救済用ポケットを1つ残す：** どうしようもないブロックセットが来た時のために、リカバリー用のスペース（ポケット）を1箇所は確実に確保しておくと生存率が上がります。
+3.  **クラスター思考：** 関連する形をまとめて配置し、一箇所にはめ込むだけで複数のラインが一斉に消えるような「セットアップ」を作りましょう。
+4.  **1マスの穴を作らない：** 1マスだけの隙間（キャビティ）は、ぴったり合うブロックが来る確率が低く、埋めるのがほぼ不可能です。できるだけ作らないようにしましょう。
+5.  **有利を拡大する：** 盤面が広く空いている時こそ、守りに入らず攻めましょう。複数ライン消し（マルチライン・クリア）を狙って、さらにスペースを雪だるま式に広げていくチャンスです。
 
-[JA TRANSLATION NEEDED] 1.  Keep two lanes free: Always preserve at least two flexible build lanes for awkward shapes.
-[JA TRANSLATION NEEDED] 2.  Bank a bailout slot: Reserve one pocket to recover from bad piece sets.
-[JA TRANSLATION NEEDED] 3.  Cluster thinking: Group related shapes so one placement sets up several clears.
-[JA TRANSLATION NEEDED] 4.  Avoid single‑cell cavities: These are nearly impossible to fill consistently.
-[JA TRANSLATION NEEDED] 5.  Convert advantage: When the board is open, push for multi‑line clears to snowball space.
+### 操作ガイド
 
-### Controls Guide
+*   **操作：** ピースをドラッグ＆ドロップではめ込みます。回転機能がある場合は活用しましょう。
+*   **機能：** アンドゥ（一手戻る）やリセット機能がある場合、欲張って失敗した配置を取り消すのに役立ちます。
 
-- Drag‑and‑drop pieces; rotate if supported.
-- Undo/Reset can recover from greedy mistakes.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Why do I keep losing despite early good clears?
-  
-[JA TRANSLATION NEEDED]   A: You’re over‑committing to one side and losing flexibility. Rebalance and keep a bailout pocket.
-
-- Q: Is rotation required to win?
-  
-[JA TRANSLATION NEEDED]   A: No, but it helps. When rotation is limited, rely on symmetry and larger open lanes.
-
-- Q: Should I place big shapes first or last?
-  
-
-
-
-
-
-- Q: Why do I keep losing despite early good clears?
-### よくある質問（FAQ）
-- Undo/Reset can recover from greedy mistakes.
-- Drag‑and‑drop pieces; rotate if supported.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
-
-
-
-
-
-
-A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
-- Q: Should I place big shapes first or last?
-A: No, but it helps. When rotation is limited, rely on symmetry and larger open lanes.
-- Q: Is rotation required to win?
-
-
-
-
-A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
-- Q: Should I place big shapes first or last?
-A: No, but it helps. When rotation is limited, rely on symmetry and larger open lanes.
+-   **Q: 序盤は順調に消しているのに、なぜいつも負けてしまうのですか？**  
+    > 盤面の片側に寄せすぎて柔軟性を失っている可能性があります。左右のバランスを意識し、常に逃げ道となるポケットを確保しましょう。
+-   **Q: 勝つために回転は必須ですか？**  
+    > 必須ではありませんが、使えれば有利です。回転不可モードでは対称配置と広いレーンを意識し、回転可能な場合はより柔軟にリカバリーできます。
+-   **Q: 大きなブロックは最初と最後、どちらに置くべきですか？**  
+    > 盤面が窮屈なときは難しい大ブロックから処理し、盤面が広いときは後に回してコンボの起点に活用すると良いでしょう。

@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: solitaire-2048
-title: '[DE] Solitaire 2048'
-description: >-
-  [DE] Solitaire 2048 merges 2048 with card flow — place numbered cards to
-  combine values and manage lanes for big chains.
+title: "Solitaire 2048"
+description: "Solitaire 2048 mischt das 2048-Prinzip mit Karten – lege Zahlenkarten in Spalten, lasse gleiche Werte verschmelzen und verwalte deine Bahnen für große Kombos."
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/solitaire-2048.png
 tags:
@@ -15,36 +13,32 @@ score: 4.1/5  (1961 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Solitaire 2048 verwandelt das bekannte Merge-Prinzip in einen Kartenstrom. Du platzierst Karten mit Werten wie 2, 4, 8 usw. in Spalten; benachbarte Karten mit demselben Wert verschmelzen zur nächsthöheren Zahl. Die Kunst besteht darin, die Reihenfolge deiner Züge so zu planen, dass Kettenreaktionen entstehen und Platz freigeräumt wird, statt die Spalten zu verstopfen.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Ankerspalte wählen:** Halte deine höchste Zahl möglichst in einer zentralen Spalte, damit du sie von beiden Seiten gut weiter kombinieren kannst.
+2.  **Zuliefer-Spalten nutzen:** Verwende Seitenbahnen als "Feeder", in denen du Paare vorbereitest, bevor du sie zur Hauptspalte schiebst.
+3.  **Spitzen kontrollieren:** Flache zuerst sehr hohe, schmale Türme ab, damit keine Spalte komplett blockiert.
+4.  **Auslöser gut timen:** Lege die Karte, die eine große Merge-Kette startet, erst dann, wenn die angrenzenden Karten perfekt vorbereitet sind.
+5.  **Müllspur einplanen:** Reserviere dir eine Randspalte für Karten, die gerade nicht in deinen Plan passen.
 
-Solitaire 2048 converts merge logic into a card stream. You place cards (2, 4, 8…) into columns; adjacent equals merge to the next value. The trick is sequencing so merges cascade and free space rather than clog lanes.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Klicke auf eine Spalte, um die aktuelle Karte dort abzulegen; nutze Undo- oder Hinweisfunktionen, falls sie angeboten werden.
 
-1.  **[DE]** Anchor column: Keep the highest value centralized for lateral access.
-2.  **[DE]** Feeder management: Use side lanes to stage pairs before feeding center.
-3.  **[DE]** Spike control: Flatten tall spikes first to avoid dead columns.
-4.  **[DE]** Trigger timing: Drop the triggering card only after both neighbors are set.
-5.  **[DE]** Trash lane: Dedicate one edge to off‑cycle cards.
+### Häufig gestellte Fragen (FAQ)
 
-### Controls Guide
+- **F: Meine Spalten sind schnell voll und ich kann nichts mehr legen.**
+  
+  **A:** Verteile Vorbereitungspaare auf zwei Seitenbahnen und löse große Merges erst aus, wenn genug Platz ist. So verhinderst du blockierte Spalten.
 
-- Click a column to place current card; undo/hints if available.
+- **F: Sollte ich meine größte Zahl in der Ecke oder in der Mitte halten?**
+  
+  **A:** In der Mitte hast du mehr Möglichkeiten, von mehreren Seiten hinein zu mergen.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Columns keep locking.
-
-A: Spread staging across two side lanes and avoid premature triggers.
-
-- Q: Anchor corner or center?
-
-A: Center yields more merge routes.
-
-- Q: Can I recover from bad stacks?
-
-A: Yes — flatten spikes and rebuild pairs before triggering.
-
+- **F: Kann ich mich von schlecht aufgebauten Stapeln erholen?**
+  
+  **A:** Ja. Brich zuerst hohe Spitzen herunter und baue neue Paare, bevor du wieder große Kettenreaktionen auslöst.

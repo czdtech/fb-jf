@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: words-challenge
-title: '[KO] Words Challenge'
+title: "Words Challenge 워즈 챌린지"
 description: >-
-  [KO] Words Challenge is a mixed word‑skills set — anagrams, crosswords, and
-  quick trivia that reward breadth and deduction.
+  애너그램, 미니 십자말풀이, 단어 퀴즈 등이 섞인 종합 단어 퍼즐 세트입니다. 접두사·접미사와
+  글자 패턴을 활용해 단어를 추론하고, 제한 시간 안에 문제를 풀어 연속 정답 보너스를 노려 보세요.
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/words-challenge.jpg
 tags:
@@ -15,31 +15,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Words Challenge는 여러 가지 유형의 단어 퍼즐을 한 번에 즐길 수 있는 게임으로, 뒤섞인 글자를
+맞는 단어로 재배열하는 애너그램, 작은 크기의 십자말풀이, 빠르게 답해야 하는 단답형 퀴즈 등
+다양한 모드를 섞어 제공합니다. 넓은 어휘력과 패턴 인식 능력을 동시에 요구하는 구성이 특징입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Words Challenge mixes anagram solving, mini crosswords, and quick prompts. Success favors pattern recognition (prefix/suffix), letter frequency intuition, and calm elimination under light timers.
+1.  **접두사·접미사 먼저 떠올리기**: RE-, UN- 같은 접두사나 -ING, -ED, -ER 같은 접미사를 기준으로
+    글자를 묶어 보면 애너그램 문제를 더 쉽게 풀 수 있습니다.
+2.  **글자 빈도 감각 활용**: 영어에서 자주 쓰이는 글자(E, T, A, O, I, N 등)와 자주 쓰이는 조합(TH,
+    CH, SH 등)을 떠올려 보면, 아직 떠오르지 않은 단어 구조를 추측하는 데 도움이 됩니다.
+3.  **십자말풀이에서는 쉬운 칸부터**: 크로스워드 유형에서는 확실히 아는 단어를 먼저 채워 교차하는
+    글자들을 열어 두면, 어려운 단어도 자연스럽게 힌트를 얻을 수 있습니다.
+4.  **한 문제에 너무 집착하지 않기**: 시간 제한이 있는 모드에서는 한 문제에 오래 머무르기보다는,
+    잠시 다른 문제나 모드로 넘어가 흐름을 유지하는 것이 좋습니다. 리듬이 끊기면 전체 성적이
+    떨어질 수 있습니다.
+5.  **연속 정답(스트릭) 유지하기**: 많은 모드에서 연속으로 정답을 맞히면 점수 배수가 올라갑니다.
+    완벽한 정답보다, 안정적인 속도로 꾸준히 맞히는 것이 고득점에 유리할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Morphology: Mine prefixes (RE/UN) and suffixes (‑ING/‑ED/‑ER) first.
-2.  **[KO]** Frequency: Lean on ETAOIN SHRDLU letter order for guesses.
-3.  **[KO]** Cross logic: In crosswords, fill easy crossings to unlock tough slots.
-4.  **[KO]** Don’t tunnel: Switch modes when stuck; momentum matters.
-5.  **[KO]** Streaks: Maintain steady pace to keep multipliers.
+- **애너그램 모드**: 글자 타일을 드래그해 순서를 바꾸거나, 빈칸에 끌어다 놓아 단어를 완성합니다.
+- **십자말풀이 모드**: 키보드로 정답을 입력합니다.
+- **퀴즈/선다형 모드**: 화면에 표시되는 보기 중 하나를 클릭해 정답을 선택합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag letters for anagrams; type for crosswords; click options for prompts.
+- **Q. 애너그램에서 자꾸 막힙니다.**  
+  **A:** 모음을 기준으로 자음과 묶어 보거나, 글자를 재정렬해 자주 보이는 패턴(예: CVC, CCV)을
+  만들어 보는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I stall on anagrams.
-
-A: Reorder by vowel/consonant blocks and try common patterns.
-
-- Q: Are proper nouns allowed?
-
-A: Usually not; read dictionary rules.
-
+- **Q. 고유명사도 정답으로 인정되나요?**  
+  **A:** 일반적으로는 사전에 등재된 일반 명사와 동사 등의 보통 명사가 중심이며, 고유명사는 잘
+  사용되지 않습니다. 게임 내 사전 규칙을 참고해 주세요.

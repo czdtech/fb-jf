@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: moving-co
-title: '[DE] Moving Co'
+title: "Moving Co"
 description: >-
-  [DE] Moving Co. turns moving day into a puzzle — plan routes, carry items
-  safely, and beat the clock with tidy logistics.
+  Moving Co. macht den Umzugstag zum Puzzle: Plane Routen, trage Möbel sicher
+  und schlage die Uhr mit cleverer Logistik.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/moving-co.png
 tags:
@@ -15,30 +15,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Moving Co. ist eine leichte Logistik- und Pack-Herausforderung. Du navigierst
+Zimmer, hebst Möbel oder Kisten auf und bringst sie zum LKW oder an markierte
+Zielpunkte – möglichst ohne Rempler und mit wenigen Wegen. Enge Türen,
+zerbrechliche Gegenstände und sperrige Formen verwandeln jeden Auftrag in ein
+räumliches Rätsel unter Zeitdruck.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Erst Überblick verschaffen**  
+    Sieh dir große Möbelstücke und Engstellen an und räume schwere Teile zuerst
+    durch enge Türen, bevor Kleinkram die Wege blockiert.
 
-Moving Co. is a light logistics and packing challenge. Navigate rooms, pick up furniture or boxes, and move them to the truck or target spots while avoiding collisions and minimizing trips. Tight doorways, fragile items, and awkward shapes create spatial puzzles under time pressure.
+2.  **Sinnvoll stapeln**  
+    Lege schwere Objekte nach unten und stelle Zerbrechliches nicht darunter.
+    Eine stabile Basis verhindert verrutschende Stapel.
 
-### Gameplay Strategy & Walkthrough
+3.  **Kurze Schleifen planen**  
+    Versuche, pro Runde mehrere Gegenstände mitzunehmen oder auf dem Weg
+    mitzuerledigen, statt für jedes Teil eine eigene Route zu laufen.
 
-1.  **[DE]** Survey first: Identify large items and narrow passages; move big pieces before clutter blocks routes.
-2.  **[DE]** Stack smart: Place heavy items first to stabilize loads; avoid stacking fragile pieces underneath.
-3.  **[DE]** Shortest loops: Plan compact loops that grab multiple items per trip when possible.
-4.  **[DE]** Turn radius: Rotate early through doors; wide turns reduce bumps and time losses.
-5.  **[DE]** Handle fragile: Slow down near obstacles; a clean run beats a risky crash‑and‑restart.
+4.  **Kurven früh ansetzen**  
+    Drehe Möbel rechtzeitig vor Türrahmen; weite Kurven verringern Hänger und
+    Zeitverluste.
 
-### Controls Guide
+5.  **Vorsicht mit empfindlichen Objekten**  
+    Fahre in der Nähe von Hindernissen langsamer – ein sauberer, fehlerfreier
+    Run ist wertvoller als ein hektischer Crash mit Neustart.
 
-- Move: Arrow keys / WASD; some versions support drag joystick.
-- Pick/Drop: Context action on contact or a dedicated button.
-- Rotate (if available): Use on‑screen arrows or Q/E.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- **Bewegen:** Pfeiltasten oder WASD, teils per virtueller Joystick.  
+- **Aufheben/Absetzen:** Kontextaktion bei Kontakt oder eigene Taste.  
+- **Rotieren (falls vorhanden):** Pfeile auf dem Bildschirm oder Q/E nutzen.
 
-- Items keep getting stuck—what to do? Clear small clutter first or rotate earlier before doorways.
-- Do I lose score for bumps? Many modes penalize collisions or breaking fragile items; smooth movement pays off.
-- How to 3‑star? Fewer trips, early big‑item moves, and tidy stacking.
+### FAQ
 
+- **F: Gegenstände bleiben ständig hängen – was tun?**  
+  **A:** Räume kleine Hindernisse zuerst weg oder beginne die Drehung vor
+  Türrahmen, statt mitten in der Engstelle.
+
+- **F: Verliere ich Punkte durch Rempler?**  
+  **A:** Viele Modi bestrafen Kollisionen oder beschädigte Objekte. Ruhiges,
+  sauberes Manövrieren zahlt sich also aus.
+
+- **F: Wie bekomme ich 3 Sterne?**  
+  **A:** Wenige, gut geplante Routen, frühes Bewegen großer Objekte und ordentlich
+  gestapelte Ladungen sind der Schlüssel.

@@ -1,74 +1,49 @@
 ---
-locale: ja
-urlstr: crocword
-title: '[JA TRANSLATION NEEDED] Crocword'
-description: >-
-  [JA TRANSLATION NEEDED] Crocword is a relaxing word puzzle — connect letters,
-  build words, and clear grids with clever vocabulary.
+title: Crocword クロックワード
+description: 「Crocword」はクロスワードと文字つなぎパズルが融合したリラックスゲーム。文字を繋げて単語を作り、グリッドを埋めてコインを稼ごう。
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/crocword.png
+urlstr: crocword
+score: 4.2/5  (2057 votes)
 tags:
   - puzzle
   - thinky
-score: 4.2/5  (2057 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Crocword（クロックワード）*は、クロスワードパズルの盤面と、文字を指でなぞって繋げる（レターリンク）システムを組み合わせた言葉遊びパズルです。
+円形に配置された文字をつなぎ合わせて単語を作り、上部のグリッド（空欄）を埋めていきます。正解の単語だけでなく、ボーナスワード（隠し単語）を見つけるとコインなどの報酬がもらえます。徐々に文字数が増え、パズルの難易度が上がっていく中で、豊富な語彙力を試しましょう。
 
-[JA TRANSLATION NEEDED] Crocword blends crossword patterns with letter‑link mechanics. Connect letters to form valid words that fill crossword slots. Bonus words grant coins or hints; difficulty rises with longer, trickier grids.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **確定しやすい場所から:** 珍しい文字が含まれている場所や、他の文字と交差していない短い単語から埋めていくのがコツです。
+2.  **アナグラムを探す:** 文字の組み合わせ（接頭辞や接尾辞）を見て、異なる単語が作れないか試しましょう（例: STOP, SPOT, POTS）。
+3.  **ボーナスワード:** グリッドにない単語でも、有効な英単語ならボーナスとしてコインがもらえます。コインは後半の難しいレベルでヒントを買うのに役立ちます。
+4.  **視点を変える:** 行き詰まったら、文字を見る順番や角度を変えてみましょう。意外な単語が見つかることがあります。
+5.  **よくある組み合わせ:** 「TH」「ING」「ED」などの頻出する文字の並びを意識すると、単語を見つけやすくなります。
 
-[JA TRANSLATION NEEDED] 1.  Fill singular‑fit slots first (rare letter positions).
-[JA TRANSLATION NEEDED] 2.  Try anagrams of uncovered prefixes/suffixes.
-[JA TRANSLATION NEEDED] 3.  Use bonus words to stock hints for late game.
-[JA TRANSLATION NEEDED] 4.  Don’t tunnel — change angles (prefix/middle/suffix) when stuck.
-[JA TRANSLATION NEEDED] 5.  Build vocabulary lists (common digrams/trigrams) to speed solves.
+### 操作ガイド
 
-### Controls Guide
+*   **単語作成:** 文字の上をドラッグして順番になぞり、単語を作ったら指（マウス）を離して送信します。
+*   **ヒント:** コインを消費して、グリッドの文字を一部公開するヒント機能が使えます。
 
-- Drag across letters to form words; release to submit.
-- Use hints to reveal letters/words sparingly.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: どうしても埋まらないマスがあります。**
 
-- Q: A slot seems impossible — help?
-  
-[JA TRANSLATION NEEDED]   A: Check crossing letters again; one mistake early can block several words.
-
-- Q: Are proper nouns allowed?
-  
-[JA TRANSLATION NEEDED]   A: Most dictionaries disallow proper nouns; follow the game’s word list.
-
-- Q: Can I replay for bonus words?
-  
+A: Check crossing letters again; one mistake early can block several words.
+- **A:** すでに埋まっている交差する単語が間違っている可能性があります。一度見直してみましょう。
 
 
-
-
-
-- Q: A slot seems impossible — help?
-### よくある質問（FAQ）
-- Use hints to reveal letters/words sparingly.
-- Drag across letters to form words; release to submit.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Yes — revisit earlier grids to farm coins if the mode supports it.
-
-
-
-
-
+A: Most dictionaries disallow proper nouns; follow the game’s word list.
+*   **Q: 固有名詞は使えますか？**
 
 A: Yes — revisit earlier grids to farm coins if the mode supports it.
-- Q: Can I replay for bonus words?
-A: Most dictionaries disallow proper nouns; follow the game’s word list.
-- Q: Are proper nouns allowed?
+    *   **A:** 基本的に一般的な辞書にある単語のみが対象です。人名や地名などの固有名詞は除外されることが多いです。
 
-
-
-
-A: Yes — revisit earlier grids to farm coins if the mode supports it.
-- Q: Can I replay for bonus words?
-A: Most dictionaries disallow proper nouns; follow the game’s word list.
+*   **Q: 前のレベルに戻れますか？**
+    *   **A:** はい、クリア済みのレベルに戻ってコイン稼ぎができる場合があります。

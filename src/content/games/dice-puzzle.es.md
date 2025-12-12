@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: dice-puzzle
-title: '[ES] Dice Puzzle'
+title: "Dice Puzzle"
 description: >-
-  [ES] A challenging brain-teaser! Place and merge dice on the board. Combine
-  three identical dice to create a higher number, and aim for the ultimate jewel
-  cube. Plan your moves carefully before the board fills up!
+  Un puzle exigente para la mente. Coloca y fusiona dados en el tablero;
+  combina tres iguales para crear un valor superior y apunta al codiciado cubo
+  de joya antes de que se llene la cuadrícula.
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/dice-puzzle.jpg
 tags:
@@ -17,32 +17,52 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Dice Puzzle es un puzle estratégico que combina lógica con un toque de azar. Tu
+objetivo es ir colocando dados en una cuadrícula de 5x5 y fusionarlos para crear
+valores más altos. Cuando consigues agrupar tres o más dados adyacentes con el
+mismo número, se combinan en un único dado del número siguiente. La meta final
+es crear cubos de joya fusionando dados de valor 6: limpian el tablero a tu
+alrededor y disparan la puntuación. La partida termina cuando el tablero se
+llena y ya no puedes colocar más dados.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Dice Puzzle is a clever and strategic puzzle game that blends logic with a bit of luck. The objective is to place dice onto a 5x5 grid and merge them to create higher-value dice. By matching three or more adjacent dice of the same number, you combine them into a single die of the next higher number. The ultimate goal is to create special jewel cubes by merging dice with the number 6, which helps clear the board and achieve a high score. The game ends when the board is full and you can no longer place a die.
+1.  **Regla de fusión:** El corazón del juego está en crear grupos de tres o más
+    dados iguales que se toquen (en línea o en bloque). Al fusionarse, se
+    convierten en un dado del siguiente valor (por ejemplo, tres "4" se
+    transforman en un "5").
+2.  **Planifica dónde colocar:** No pongas el dado en el primer hueco libre. Mira
+    el estado de la cuadrícula y colócalo donde pueda completar una terna o
+    preparar una futura fusión.
+3.  **Gira el dado a tu favor:** Antes de colocar el dado puedes rotarlo si la
+    versión lo permite. Úsalo para ajustar mejor su encaje en cadenas ya
+    existentes.
+4.  **Apunta al cubo de joya:** El movimiento más fuerte es fusionar tres dados
+    de valor 6. Así creas un cubo de joya especial que, al activarse, explota y
+    limpia un área de 3x3 a su alrededor. Es fundamental para liberar espacio y
+    alargar la partida.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **The Merge Rule:** The core of the game is matching three or more identical dice that are adjacent to each other (in a line or cluster). They will then merge into a single die of the next number (e.g., three '4s' become one '5').
-2.  **[ES]** **Plan Your Placements:** Don't just place a die in the first available spot. Look at the existing dice on the board and try to place your new die where it can either complete a set of three or set up a future merge.
-3.  **[ES]** **Rotate for a Better Fit:** You can rotate the die before you place it. Use this to your advantage to position it perfectly for a merge.
-4.  **[ES]** **Aim for the Jewel Cube:** The most powerful move is to merge three dice with the number 6. This creates a special jewel cube that will explode, clearing a 3x3 area around it. This is crucial for freeing up space on the board and extending your game.
+*   **Girar el dado:** Haz clic sobre el dado en la zona de espera para rotarlo
+    antes de colocarlo (si el juego lo permite).
+*   **Colocar el dado:** Haz clic en una casilla vacía de la cuadrícula 5x5 para
+    soltar el dado actual.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Rotate Die:** Click on the die in the holding area to rotate it before placing it.
-*   **[ES]** **Place Die:** Click on an empty square on the 5x5 grid to place the current die.
+*   **P: ¿Cómo fusiono dados exactamente?**
+    *   **R:** Debes colocar al menos tres dados con el mismo número de forma
+        que se toquen en horizontal o vertical. La fusión es automática.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Sobrevivir el máximo número de turnos posible y conseguir la mayor
+        puntuación. Para ello debes fusionar dados y liberar espacio antes de que
+        la cuadrícula se llene.
 
-*   **[ES]** **Q: How do I merge dice?**
-    *   **[ES]** **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.
-
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
-
-*   **[ES]** **Q: What happens when I merge three '6' dice?**
-    *   **[ES]** **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
-
+*   **P: ¿Qué ocurre al fusionar tres dados de valor 6?**
+    *   **R:** Obtienes un cubo de joya. En la siguiente fusión en la que
+        participe, desencadena una pequeña explosión que limpia el área 3x3 que
+        lo rodea y otorga un gran bonus de puntos.

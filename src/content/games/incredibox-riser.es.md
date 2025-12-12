@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-riser
-title: '[ES] Incredibox Riser'
+title: "Incredibox Riser"
 description: >-
-  [ES] Incredibox Riser this guide details its ambient electronic sound palette,
-  gameplay for creating cosmic tracks, and how to unlock its sci-fi bonuses.
+  Incredibox Riser ofrece una paleta electrónica ambiental, una jugabilidad
+  centrada en crear pistas cósmicas y varios bonus de ciencia ficción que puedes
+  desbloquear.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
 thumbnail: /new-images/incredibox-riser.png
 tags:
@@ -17,43 +18,69 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **Introducción a Incredibox Riser**
 
-### **Incredibox Riser Game Introduction**
+*Incredibox Riser* es un mod fan‑made muy atmosférico para el juego de creación
+musical Incredibox. Mantiene la jugabilidad clásica de arrastrar y soltar: tienes
+20 iconos de sonido únicos que puedes asignar a un elenco de siete intérpretes.
+La biblioteca sonora mezcla **música electrónica ambiental, melodías de sinte
+ascendentes y efectos futuristas**, pensados para transmitir sensación de
+exploración y asombro.
 
-*Incredibox Riser* is a popular and atmospheric fan-made mod for the music creation game Incredibox. The game utilizes the classic Incredibox drag-and-drop gameplay. Players are given a palette of 20 unique sound icons to assign to their crew of seven performers. The sound library is a cinematic blend of **ambient electronic music, soaring synth melodies, and futuristic sound effects**, designed to create a sense of wonder and exploration.
+### **Estrategia de juego y consejos**
 
+La estrategia en *Incredibox Riser* consiste en construir sensación de escala y
+viaje, superponiendo sonidos para crear una pista épica y cinematográfica.
 
-### **Gameplay Strategy & Tips**
+1.  **Conoce la paleta cósmica:**
+    *   **Beats:** Ritmos limpios y futuristas: **beats electrónicos pulsantes**,
+        sub‑bajos profundos y percusión sintética precisa que marca un pulso
+        constante.
+    *   **Effects:** Clave para la atmósfera de ciencia ficción: pads de sinte
+        espaciales, ruido de transmisiones de radio, drones etéreos y otras
+        texturas que evocan el vacío del espacio.
+    *   **Melodies:** Melodías amplias y ascendentes: arpegios de sinte,
+        leitmotivs poderosos y ganchos cósmicos que dan peso emocional a la
+        pista.
+    *   **Voices:** Voces muy procesadas para sonar futuristas o alienígenas:
+        armonías con vocoder, cánticos robóticos y coros etéreos.
 
-Strategy in *Incredibox Riser* is about building a sense of scale and journey, layering sounds to create an epic, cinematic track.
+2.  **Crea un gran crescendo:** El nombre "Riser" ya apunta a la idea de
+    construir intensidad. Muchas pistas tienen elementos que suben de forma
+    progresiva. Juega con capas que vayan entrando poco a poco y crea un
+    clímax, empezando con pocos sonidos y terminando con un muro sonoro épico.
 
-1.  **[ES]** **Understand the Cosmic Sound Palette**:
-    *   **[ES]** **Beats**: The rhythms are clean and futuristic. Expect to find pulsing **electronic beats**, deep sub-bass patterns, and precise, synthetic percussion that provides a steady, driving pulse.
-    *   **[ES]** **Effects**: This category is key to the sci-fi atmosphere. It includes sounds like **spacey synth pads**, the static of radio transmissions, ethereal drones, and other ambient textures that create a feeling of infinite space.
-    *   **[ES]** **Melodies**: The melodies are often grand and soaring. This category features memorable **arpeggiated synth lines**, powerful lead melodies, and cosmic-sounding hooks that give the track its emotional weight.
-    *   **[ES]** **Voices**: Vocals are heavily processed to sound futuristic or alien. Look for **vocoder harmonies**, robotic chanting, and ethereal, choir-like vocal pads.
+3.  **Busca los bonus de forma metódica:** Para encontrar los tres bonus
+    secretos, fija primero una base atmosférica y rítmica sólida y ve probando
+    distintos iconos de melodía y voz hasta activar cada animación de ciencia
+    ficción.
 
-2.  **[ES]** **Create a Crescendo**: The name "Riser" suggests building intensity. Many of the sounds may have a rising or evolving quality. Experiment with layering sounds to create a powerful crescendo, starting small and building towards an epic climax.
+### **Guía de controles**
 
-3.  **[ES]** **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a core atmospheric and rhythmic base, then systematically swap out the melody and voice icons one by one until you trigger one of the sci-fi animations.
+Los controles son idénticos a los de Incredibox oficial.
 
-### **Controls Guide**
+*   **Añadir un sonido:** **Arrastra** un icono desde la parte inferior y
+    **suéltalo** sobre un personaje.
+*   **Quitar un sonido:** haz clic en la "X" del icono activo o arrastra un
+    sonido nuevo sobre ese personaje.
+*   **Silenciar / reactivar:** **Haz clic** sobre un personaje que esté sonando
+    para silenciarlo; vuelve a hacer clic para reactivarlo.
+*   **Solo:** pulsa el **botón pequeño** junto al personaje activo para silenciar
+    al resto.
+*   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
+    grabación de tu viaje cósmico.
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+### **Preguntas frecuentes (FAQ)**
 
-*   **[ES]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[ES]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[ES]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[ES]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[ES]** **Record**: Click the **record button** to start and stop recording your cosmic journey.
+**1. ¿Es una versión oficial de Incredibox?**  
+No. Es un **mod fan‑made** creado por BadSnacks y no está afiliado al equipo
+oficial de Incredibox (So Far So Good).
 
-### **Frequently Asked Questions (FAQ)**
+**2. ¿Dónde puedo jugar este mod?**  
+No aparece en las plataformas oficiales. Mods como *Riser* suelen alojarse en
+comunidades como **Scratch** o mostrarse en YouTube, donde se incluyen enlaces
+para jugarlos en navegador.
 
-**1. Is this an official Incredibox version?**
-No. It is a **fan-made mod** created by BadSnacks. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**2. Where can I play this mod?**
-You will not find it on official platforms. Mods like *Riser* are typically hosted on game modding websites like **Scratch** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**3. Are the bonus solutions for "Riser" available online?**
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Riser combos*" on YouTube will show you the solutions.
+**3. ¿Hay soluciones de bonus para "Riser" online?**  
+Sí. Si te cuesta dar con las combinaciones de bonus, una búsqueda de
+"Incredibox Riser combos" en YouTube suele mostrar todas las respuestas.

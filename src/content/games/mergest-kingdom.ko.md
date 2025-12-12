@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: mergest-kingdom
-title: '[KO] Mergest Kingdom'
+title: "Mergest Kingdom 머지스트 킹덤"
 description: >-
-  [KO] Mergest Kingdom is a merge‑and‑build fantasy — combine tiles, complete
-  quests, and expand realms with efficient chain planning.
+  Mergest Kingdom는 머지 퍼즐과 왕국 건설 요소를 결합한 판타지 게임으로, 같은 종류의
+  타일을 합쳐 상위 단계로 만들고, 안개를 걷어 새로운 지역을 열어 가는 것이
+  특징입니다. 효율적인 머지 체인과 퀘스트 동선을 설계해 왕국을 키워 보세요.
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/mergest-kingdom.png
 tags:
@@ -17,33 +18,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Mergest Kingdom combines merge‑3 chains with kingdom building. Merge plants, stones, and artifacts to craft higher tiers, clear fog, and unlock new regions. Quests and events provide targets; energy and space limit reckless merging, rewarding planned ladders.
+*Mergest Kingdom*은 머지-3 체인과 왕국 건설을 결합한 퍼즐형 시뮬레이션 게임입니다.
+식물, 돌, 유물 등의 자원을 세 개 이상 합쳐 상위 단계로 업그레이드하고, 이를 통해
+안개를 걷어 새로운 지역을 개방하거나 건물을 짓게 됩니다. 여러 퀘스트와 이벤트가
+단기 목표를 제시하며, 한정된 에너지와 공간 안에서 무작정 합치기보다 계획적인 체인
+설계가 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** Merge‑3 vs 5: Save sets of 5 for extra yield when feasible.
-2.  **[KO]** Space staging: Keep staging zones for near‑complete sets; don’t block quest spawns.
-3.  **[KO]** Quest alignment: Prioritize merges that satisfy current quests to accelerate unlocks.
-4.  **[KO]** Energy pacing: Spend in bursts on planned chains, then idle to regenerate.
-5.  **[KO]** Event prep: Stock partial sets before events for rapid progression.
+1. **3-머지 vs 5-머지 구분:** 가능하다면 같은 타일 5개를 한 번에 합치는 것이 3개를
+   두 번 합치는 것보다 더 많은 보상을 줍니다. 여유가 있다면 5세트를 모아 두었다가
+   한 번에 합치세요.
+2. **공간 관리:** 거의 완성된 세트를 모아두는 전용 구역을 만들어 두고, 퀘스트나
+   드랍 존을 막지 않도록 배치에 신경 쓰세요.
+3. **퀘스트 우선:** 당장 진행 중인 퀘스트에서 요구하는 타일과 건물을 먼저 목표로
+   삼으면, 새로운 지역과 기능을 더 빨리 해금할 수 있습니다.
+4. **에너지 운영:** 에너지가 찰 때마다 아무거나 합치기보다, 미리 계획한 체인을
+   한 번에 처리한 뒤 자연 회복을 기다리는 식으로 운영하면 효율이 좋습니다.
+5. **이벤트 대비:** 이벤트 직전에 낮은 단계 타일을 적당히 모아 두면, 시작하자마자
+   빠르게 머지 체인을 돌려 이벤트 진행 속도를 크게 끌어올릴 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Drag to merge items; tap buildings to collect; navigate regions via map.
+- 같은 종류의 아이템을 드래그해 붙여 머지합니다.
+- 완성된 건물이나 오브젝트를 탭해 자원을 수집하고, 월드 맵을 통해 다른 지역으로
+  이동할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: I run out of space.
+- **Q: 공간이 너무 빨리 부족해져요.**  
+  **A:** 가능한 5-머지를 우선해 보드 위 타일 개수를 줄이고, 쓸모없는 낮은 단계
+  타일은 판매하거나 정리해 토지를 확장하는 데 자원을 투자하세요.
 
-A: Consolidate into 5‑merges and sell clutter; expand land ASAP.
+- **Q: 에너지가 너무 빨리 떨어집니다.**  
+  **A:** 아무 계획 없이 클릭하기보다, 에너지가 가득 찼을 때 묶음으로 사용할 체인을
+  미리 생각해 두는 것이 좋습니다. 데일리 보상과 부스트 타이밍도 챙기세요.
 
-- Q: Energy too slow?
-
-A: Plan chains, collect daily rewards, and time boosts.
-
-- Q: Worth merging everything?
-
-A: No — merge toward quests and buildings that unlock features.
-
+- **Q: 모든 것을 합치는 게 좋은가요?**  
+  **A:** 그렇지 않습니다. 퀘스트와 주요 건물 업그레이드에 직접 연결되는 타일을
+  우선으로 합치고, 굳이 필요 없는 체인은 보류하는 것이 에너지와 공간 면에서
+  더 효율적입니다.

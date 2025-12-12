@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: sudoku-plus
-title: '[ES] Sudoku Plus'
+title: Sudoku Plus
 description: >-
-  [ES] A feature-rich Sudoku experience. Enjoy the classic logic puzzle with
-  helpful tools like hints, notes, and error checking to challenge your brain.
+  Sudoku Plus es una versión ampliada del clásico Sudoku. Disfruta del
+  rompecabezas numérico de siempre con ayudas como pistas, notas y revisión de
+  errores para poner a prueba tu mente.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/sudoku-plus.jpg
 tags:
@@ -16,35 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Sudoku Plus ofrece una experiencia «premium» del clásico rompecabezas lógico de
+colocación numérica. El objetivo es rellenar una cuadrícula de 9x9 casillas de
+forma que cada fila, cada columna y cada uno de los nueve subcuadros 3x3
+contengan todos los dígitos del 1 al 9. Esta versión añade funciones útiles
+como pistas, modo notas y comprobación de errores, por lo que es ideal tanto
+para principiantes como para jugadores avanzados que buscan una interfaz fluida.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Sudoku Plus offers a premium experience for the timeless logic-based, number-placement puzzle. The goal is to fill a 9x9 grid so that each column, each row, and each of the nine 3x3 subgrids contain all of the digits from 1 to 9. This version is packed with helpful features like hints, a notes mode, and error checking, making it perfect for both beginners learning the ropes and advanced players looking for a smooth and polished interface.
+1.  **Regla de oro:** en cada fila, columna y caja 3x3 deben aparecer todos los
+    números del 1 al 9 exactamente una vez; no se permiten repeticiones.
+2.  **Técnica de descarte:** para una casilla vacía, mira su fila, columna y
+    caja 3x3 para ver qué números ya están presentes. Eliminando opciones,
+    reduces la lista de candidatos posibles.
+3.  **Usa las notas:** en sudokus difíciles, el modo «notas» o «lápiz» es
+    esencial. Anota en pequeño los candidatos de cada casilla; a medida que
+    resuelves otras, podrás ir borrando opciones hasta quedarte con una sola.
+4.  **Busca «singles»:** detecta casillas donde solo cabe un número (naked
+    single). También fíjate en números que solo pueden ir en una casilla
+    concreta dentro de una fila, columna o caja (hidden single).
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **The Golden Rule:** The core of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box. No repetition is allowed in any of these areas.
-2.  **[ES]** **Cross-hatching:** The fundamental solving technique. For an empty cell, scan its corresponding row, column, and 3x3 box to see which numbers are already present. By eliminating these, you can deduce which numbers are possible candidates for the cell.
-3.  **[ES]** **Use the Notes Feature:** For more complex puzzles, the "Notes" or "Pencil" mode is essential. Use it to mark down all possible candidates for an empty cell. As you solve other cells, you can update your notes, eventually narrowing down the possibilities to a single correct number.
-4.  **[ES]** **Find Singles:** Look for cells where only one number is possible (a "Naked Single"). Also, look for instances where a specific number can only go in one possible cell within a row, column, or box (a "Hidden Single").
+- **Seleccionar casilla:** haz clic en cualquier casilla vacía.  
+- **Introducir número:** tras seleccionar, haz clic en un número del panel o
+  pulsa la tecla numérica correspondiente.  
+- **Modo notas:** usa el botón de «Notas/Lápiz» para alternar entre respuesta
+  definitiva y candidatos pequeños.  
+- **Borrar:** utiliza la herramienta de borrado para limpiar una casilla.  
+- **Pista:** pulsa el botón de pista para rellenar la respuesta correcta de una
+  casilla.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Select a Cell:** Click on any empty cell in the grid.
-*   **[ES]** **Enter a Number:** After selecting a cell, click a number on the on-screen keypad to place it.
-*   **[ES]** **Toggle Notes Mode:** Use the dedicated "Notes" or "Pencil" button to switch between entering final answers and entering small candidate numbers.
-*   **[ES]** **Erase:** Use the eraser tool to clear a cell.
-*   **[ES]** **Hint:** Click the hint button to reveal the correct number for a single cell.
+*   **P: ¿Necesito ser bueno en matemáticas?**
+    *   **R:** No. Sudoku es un juego de lógica y patrones, no de operaciones.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Para qué sirven las "notas"?**
+    *   **R:** Te permite anotar candidatos en una casilla sin comprometerte. Es una
+        herramienta clave para resolver puzles difíciles sin depender solo de la
+        memoria.
 
-*   **[ES]** **Q: Do I need to be good at math?**
-    *   **[ES]** **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
-
-*   **[ES]** **Q: What does the "Notes" feature do?**
-    *   **[ES]** **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
-
-*   **[ES]** **Q: Will the game tell me if I make a mistake?**
-    *   **[ES]** **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
-
+*   **P: ¿El juego me avisa si me equivoco?**
+    *   **R:** Sí. Muchos sudokus modernos, incluido este, tienen comprobación de
+        errores para resaltar duplicados en fila, columna o caja, de modo que puedas
+        corregir antes de seguir.

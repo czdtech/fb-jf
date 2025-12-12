@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: galactic-empire
-title: '[ZH TRANSLATION NEEDED] Galactic Empire'
+title: "Galactic Empire 星河帝國"
 description: >-
-  [ZH TRANSLATION NEEDED] Top‑down space strategy: harvest resources, build
-  ships and defenses, and capture sectors while fending off enemy waves.
+  俯視角太空策略遊戲：開採資源、建造艦隊與防禦工事，在抵禦敵軍波次的同時奪下周邊星域。
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/galactic-empire.jpg
 tags:
@@ -17,26 +16,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] RTS‑lite in space: mine resources, expand bases, and assemble fleets to defend and conquer neighboring sectors.
+
+《Galactic Empire》是一款輕量級即時太空戰略遊戲，你要在星際戰場上採礦、擴張前線基地，
+並集結由各型戰艦組成的艦隊，既要防守要害節點，又要逐步征服周邊星域，取得整張星圖的主導權。
 
 ### How to Play
-- Build extractors and generators first to stabilize economy.
-- Produce a balanced fleet (fighters, frigates, capital ships) and defend chokepoints.
-- Capture adjacent nodes to unlock upgrades and map control.
+
+- 前期先建造資源採集器與發電設施，確保經濟穩定，再逐步擴建軍工與防禦。
+- 生產組合型艦隊：以戰鬥機、護衛艦、主力艦等搭配守住瓶頸路口與關鍵節點。
+- 逐步佔領相鄰節點，解鎖更多升級與造船選項，擴大地圖視野與控制力。
 
 ### Controls
-- Mouse to select/build; hotkeys for production and camera vary by host.
+
+- 使用滑鼠選取單位、建造建築；
+- 具體生產快捷鍵與鏡頭操作可能依托管版本略有不同。
 
 ### Tips
-- Queue ships in batches; constant production beats idle docks.
-- Scout before pushing; avoid overextending into multiple waves.
-- Focus fire on glass‑cannon threats, then clean up.
+
+- 艦船生產盡量採用「批次排隊」，保持造船廠持續運作比時有時無更具優勢。
+- 先派小隊偵查敵情再推進主力，避免一次壓太深被多波敵軍包夾。
+- 集火優先擊破火力很高但防禦較薄的「玻璃大砲」類敵艦，再慢慢清理坦克型單位。
 
 ### FAQ
-- Q: How do I get more resources quickly?  
-[ZH TRANSLATION NEEDED]   A: Expand to nearby nodes and protect extractors; idle miners waste income.
-- Q: What fleet composition works best?  
-[ZH TRANSLATION NEEDED]   A: Mix fast interceptors with heavier ships for structure damage.
-- Q: Is there a tech tree in the game?  
-[ZH TRANSLATION NEEDED]   A: Many hosts gate stronger ships behind captured sectors or upgrades.
 
+- 問：怎麼更快拿到資源？  
+  答：盡快拓展到附近資源點並布置防禦，確保採集器不中斷工作；閒置的採集單位等於白白浪費收入。
+
+- 問：什麼樣的艦隊配置比較好用？  
+  答：常見做法是混合高速攔截機與重型艦艇，前者負責騷擾與追擊，後者負責拆建築與扛正面火力。
+
+- 問：遊戲裡有科技樹嗎？  
+  答：多數版本會將更強大的艦船與升級綁定在特定星域或科技節點上，必須先奪下關鍵區域才能解鎖。

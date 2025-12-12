@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: finger-slayer
-title: '[FR] Finger Slayer'
-description: >-
-  [FR] Finger Slayer tests raw reaction — pull back at the last millisecond to
-  dodge a closing blade without flinching early.
+title: "Finger Slayer"
+description: "Finger Slayer met tes réflexes bruts à l’épreuve : retire ton doigt virtuel à la toute dernière milliseconde pour éviter la lame sans sursauter trop tôt."
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/finger-slayer.jpg
 tags:
@@ -15,35 +13,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Finger Slayer est un test de réflexes à un seul bouton : tu poses ton « doigt » dans une zone dangereuse, puis tu le retires au tout dernier moment avant que le piège ne se referme. Les manches deviennent de plus en plus difficiles avec des fermetures plus rapides, de faux signaux visuels/sonores et des changements de rythme qui punissent ceux qui anticipent trop. Le but est d’effectuer un retrait net et précis au dernier instant possible, sans flancher trop tôt (ce qui donne un moins bon score) ni attendre trop longtemps.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Finger Slayer is a single‑button reflex test: place your “finger” within a danger zone and yank it away right before a trap snaps shut. Rounds escalate with faster closures, fake telegraphs, and rhythm changes that punish anticipation. The goal is to commit to a single crisp pull at the last safe frame without flinching early (which scores lower) or waiting too long.
+1.  Lis les indices : la plupart des pièges ont un micro‑signe avant de se refermer (son, vibration visuelle). Base‑toi sur ce signal plutôt que sur un simple comptage dans ta tête.
+2.  Ne bouge pas avant l’heure : un retrait trop tôt casse ton rythme et réduit ton score. Reste immobile jusqu’au vrai signal.
+3.  Un seul geste franc : quand tu retires ton doigt, fais‑le d’un coup sec. Les mouvements hésitants ou partiels se font souvent attraper par la lame.
+4.  Adapte‑toi au rythme : après quelques manches, les motifs changent. Prends une seconde pour te recentrer entre deux essais et ne mémorise pas un seul timing.
+5.  Connais ta limite : apprends à sentir ta propre frontière de réaction, puis vise légèrement avant ce point pour garder une marge de sécurité.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Read the tell: Most traps give a micro‑windup (sound/visual); key off that signal, not a mental count.
-2.  **[FR]** Don’t pre‑move: Early flinches reduce score and rhythm; stay still until the tell.
-3.  **[FR]** One clean pull: Make the exit decisive — partial drags get clipped.
-4.  **[FR]** Rhythm adaptation: After a few rounds, patterns shift; reset mentally between attempts.
-5.  **[FR]** Safe thresholds: Learn your personal reaction boundary and aim a hair earlier.
+- Maintiens pour « poser » ton doigt et relâche pour le retirer ; sur certaines versions, le jeu distingue simplement entre toucher et relâcher.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Hold to “place” and release to pull back; some builds use tap vs hold.
+- Q : Je retire toujours mon doigt trop tôt, comment corriger ça ?
+  
+  R : Concentre‑toi sur la pré‑animation ou le son du piège, et non sur un compte mental. Attends ce signe précis avant d’agir.
 
-### Frequently Asked Questions (FAQ)
+- Q : Les fermetures ont l’air totalement aléatoires, c’est normal ?
+  
+  R : Elles sont pseudo‑aléatoires avec des motifs récurrents. Entraîne‑toi à rester calme, à attendre le signal, puis à réagir d’un coup.
 
-- Q: I always move too early — how do I stop?
-
-A: Focus on the trap’s pre‑animation or audio cue; suppress guessing and react to the real tell.
-
-- Q: Closures feel random — any tip?
-
-A: They’re pseudo‑random with patterned “tells.” Train a calm wait‑then‑snap reaction.
-
-- Q: Is there input lag?
-
-A: Minor delays exist on some devices; compensate by reacting on the cue’s first frame.
+- Q : Y a‑t‑il du lag sur les commandes ?
+  
+  R : Il peut y avoir un léger délai sur certains appareils. Si tu le ressens, essaie de réagir dès la première frame du signal visuel ou sonore.
 

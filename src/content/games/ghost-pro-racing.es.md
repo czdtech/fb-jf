@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: ghost-pro-racing
-title: '[ES] Ghost Pro Racing'
+title: "Ghost Pro Racing"
 description: >-
-  [ES] Ghost Pro Racing is a time‑trial racer — chase ghost replays, perfect
-  lines, and shave tenths with consistent inputs.
+  Ghost Pro Racing es un juego de contrarreloj pura: persigue las repeticiones
+  fantasma, perfecciona tus trazadas y rebaja décimas con entradas consistentes
+  en cada vuelta.
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
 thumbnail: /new-images/ghost-pro-racing.jpg
 tags:
@@ -16,35 +17,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Ghost Pro Racing pone el foco en la consistencia de vueltas rápidas frente a
+repeticiones fantasma. Aprenderás puntos de frenada, velocidades de vértice y
+zonas donde volver a acelerar mientras los coches fantasma te muestran líneas
+más rápidas. Entradas limpias y referencias repetibles valen más que
+arriesgarte con frenadas suicidas si quieres marcas personales estables.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Ghost Pro Racing emphasizes hot‑lap consistency against ghost replays. You’ll learn braking points, apex speeds, and throttle pickups while ghost cars show faster lines. Clean inputs and repeatable references beat risky dive‑bombs for stable PBs.
+1. **Puntos de referencia:** Elige marcas fijas del circuito para frenar y
+   girar; no dependas solo del velocímetro.
+2. **Vértice tardío:** Gira un poco más tarde para enderezar la salida y poder
+   abrir gas antes.
+3. **Frenada en apoyo (trail braking):** Mantén una ligera presión de freno en la
+   primera parte de la curva para conservar agarre en el eje delantero.
+4. **Prioriza la salida:** Una buena salida hacia una recta larga compensa con
+   creces un pequeño sacrificio en la entrada.
+5. **Estudia al fantasma:** Sigue el arco del coche fantasma y detecta dónde
+   levantas demasiado o giras antes de tiempo.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Landmarks: Pick fixed track markers for braking/turn‑in; avoid relying on speedometer alone.
-2.  **[ES]** Late apex: Turn a beat later to straighten exits and allow earlier throttle.
-3.  **[ES]** Trail braking: Bleed brake into early corner to keep front grip (light pressure).
-4.  **[ES]** Exit priority: A good exit onto long straights dwarfs small entry gains.
-5.  **[ES]** Ghost study: Follow the ghost’s arc; find where you’re lifting or turning too early.
+- **Giro:** A/D o Flechas Izquierda/Derecha.  
+- **Acelerar/Frenar:** W/S o Flechas Arriba/Abajo.  
+- **Reiniciar:** tecla `R`.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Steer: A/D or Left/Right.  Throttle/Brake: W/S or Up/Down.  Restart: R.
+- **P: El coche derrapa todo el rato, ¿cómo lo corrijo?**  
+  **R:** Estás girando demasiado o entrando muy rápido. Usa una frenada en apoyo suave
+  y endereza la dirección antes en la salida.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Puedo superar al fantasma?**  
+  **R:** Sí. Céntrate en mejorar un sector cada vez y, cuando vayas por delante,
+  prioriza salidas seguras.
 
-- Q: I keep sliding — fix?
-
-A: You’re turning too much/too fast. Trail brake lightly and unwind steering sooner on exit.
-
-- Q: Can I beat the ghost?
-
-A: Yes — focus one sector at a time; once you’re ahead, maintain safe exits.
-
-- Q: Best training drill?
-
-A: Ten laps at 90% pace without spins to lock references, then push.
-
+- **P: ¿Cuál es un buen ejercicio de entrenamiento?**  
+  **R:** Haz diez vueltas seguidas al 90 % de tu ritmo sin trompos para fijar
+  referencias, y luego empieza a apretar.

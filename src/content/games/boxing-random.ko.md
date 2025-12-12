@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: boxing-random
-title: '[KO] Boxing Random'
+title: 'Boxing Random 복싱 랜덤'
 description: >-
-  [KO] Experience chaotic, physics-based boxing in Boxing Random! Master
-  one-button controls and adapt to random challenges to knock out your opponent
-  in this hilarious 1 or 2-player fighting game.
+  Boxing Random는 물리 엔진으로 굴러가는 엉뚱한 복싱 대전 게임입니다.
+  원버튼 조작만으로 점프와 펀치를 동시에 컨트롤하며, 매 라운드 달라지는
+  랜덤 환경에 적응해 상대를 먼저 쓰러뜨려 보세요.
 iframeSrc: >-
   https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
 thumbnail: /new-images/boxing-random.jpg
@@ -16,55 +16,90 @@ score: 4.1/5  (855 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Boxing Random는 단 하나의 버튼으로 조작하는 물리 기반 복싱 게임입니다. 보통의
+복싱 게임처럼 콤보나 정교한 입력을 요구하는 대신, 예측 불가능한 상황과 웃음을
+유발하는 연출에 초점을 맞춘 작품입니다. 목표는 먼저 5점을 따는 것으로, 상대의
+머리에 펀치를 한 번만 제대로 꽂아 넣으면 한 라운드를 승리하게 됩니다.
 
+제목의 "Random"처럼, 매 라운드마다 여러 요소가 랜덤으로 바뀝니다.
 
+-   **아레나:** 배경과 스테이지의 형태가 달라질 수 있습니다.
+-   **복서 외형:** 캐릭터의 모습, 팔 길이(아주 짧거나 터무니없이 길게), 머리
+    크기 등이 매번 새롭게 섞입니다.
+-   **물리 환경:** 어떤 라운드는 중력이 약하게 느껴지고, 또 어떤 라운드는 바닥이
+    얼음처럼 미끄러울 수 있습니다.
+-   **특수 요소:** 화면을 가로지르는 로켓 같은 장애물이 등장하는 등, 별난 기믹이
+    추가되기도 합니다.
 
+이 난장판 같은 랜덤 요소 덕분에 두 번 다시 똑같은 판이 나오지 않으며, 플레이어는
+라운드마다 새로운 상황에 빠르게 적응해야 합니다. 과장된 래그돌 물리 효과로
+캐릭터가 휘청거리고 뒤집히는 모습이 웃음을 자아내며, AI와 1인 플레이는 물론
+로컬 2인 대전으로도 즐길 수 있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-Boxing Random is a whimsical and chaotic physics-based fighting game with an extremely simple control scheme. Unlike traditional boxing games that require complex combos and strategies, Boxing Random thrives on unpredictability and humor. The objective is to be the first player to score 5 points. A point is scored by landing a single successful punch on the opponent's head.
+-   **진지한 복싱 게임이라고 생각하지 않기**  
+    이 게임에서 승리하는 핵심은 정석 복싱이 아니라, 매 라운드 주어지는 랜덤
+    상황을 잘 이용해 한 방을 먼저 맞히는 것입니다. 흐름을 즐기며 유연하게
+    대응해 보세요.
 
-The "Random" in the title is the core feature of the game. At the start of each round, everything can change:
--   **The Arena:** The background and stage layout might change.
--   **The Boxers:** The characters' appearances, arm length (from very short to incredibly long), and even head size can be randomized.
--   **The Physics:** Some rounds might have low gravity, while others might feature slippery ice floors.
--   **Special Elements:** Obstacles like rockets flying across the screen or other bizarre challenges may appear.
+-   **타이밍이 곧 전부**  
+    조작 버튼은 하나뿐이고, 버튼을 누르면 곧바로 점프와 상체 젖힘, 펀치가
+    동시에 일어납니다. 캐릭터의 휘청거리는 리듬을 눈으로 보며, 상대의 머리가
+    정확히 팔 궤도 안에 들어올 타이밍을 노려 버튼을 눌러야 합니다.
 
-This constant randomness ensures that no two rounds are ever the same and forces players to constantly adapt their tactics. The game is known for its ragdoll physics, which leads to hilarious, wobbly character movements and unpredictable knockouts. It can be played solo against an AI or locally with a second player.
+-   **관성(모멘텀) 활용하기**  
+    펀치는 단순한 잽이 아니라 온몸을 이용한 휘두르기에 가깝습니다. 점프하면서
+    몸을 뒤로 젖혔다가 내려오는 힘을 이용하면 예기치 못한 강력한 한 방을 만들
+    수 있습니다. 때로는 상대에게서 살짝 물러났다 다시 뛰어들며 휘두르는 것이
+    더 효과적일 때도 있습니다.
 
-### Gameplay Strategy
+-   **상대를 구석으로 몰아넣기**  
+    대부분의 격투 게임과 마찬가지로, 화면 가장자리로 상대를 몰아넣으면 회피
+    공간이 줄어들어 히트시키기 쉬워집니다. 점프와 몸통 박치기를 이용해 상대를
+    천천히 구석으로 몰아 보세요.
 
--   **Embrace the Chaos:** Do not try to play this like a serious boxing game. The key to winning is to adapt to the random elements of each round and use them to your advantage.
--   -   **Timing is Everything:** With only one button, your success depends entirely on *when* you press it. Pressing the button makes your character jump and swing their arm. Learn the rhythm of your character's wobbly movements to time your punch perfectly.
--   **Use Momentum:** Your punch isn't just a simple jab. It's a full-body swing. Use the momentum from your character's jump and lean to create a powerful arc. Sometimes, jumping away from your opponent and then swinging on the way down can create a surprise attack.
--   **Corner Your Opponent:** A classic fighting game tactic that works well here. If you can push your opponent against the edge of the screen, they have less room to dodge, making it easier to land a hit.
--   **Play Defensively:** Your swinging arm isn't just for attacking. It can also act as a shield, blocking the opponent's incoming punch. Sometimes, a well-timed swing can knock their fist away, creating an opening for you.
--   **Adapt to Your Arms:** If you get a round with very long arms, try to keep your distance and attack from afar. If you have short arms, you need to get in close and be aggressive.
+-   **팔을 방패처럼 쓰기**  
+    팔은 공격뿐 아니라 방어에도 사용할 수 있습니다. 타이밍을 잘 맞춰 팔을
+    내밀면 상대의 펀치를 빗나가게 하거나 튕겨 낼 수 있고, 그 틈에 역으로 한 방을
+    꽂을 기회가 생깁니다.
 
-### Controls Guide
+-   **팔 길이에 맞춰 스타일 바꾸기**  
+    라운드에 따라 팔이 이상하게 길게 나오기도, 거의 안 닿을 정도로 짧게
+    나오기도 합니다. 긴 팔이 나왔다면 거리를 벌려 원거리에서 휘두르고, 짧은
+    팔이라면 최대한 근접해 과감하게 달라붙는 식으로 플레이 스타일을 바꾸는 것이
+    중요합니다.
 
-The game is famous for its one-button control scheme.
+### 조작 방법
 
--   **Player 1:**
-    -   **Up Arrow Key:** Jump / Lean Back & Punch
+이 게임의 가장 큰 특징은 **원버튼 조작**입니다.
 
--   **Player 2:**
-    -   **W Key:** Jump / Lean Back & Punch
+-   **플레이어 1**  
+    -   **방향키 ↑:** 점프 / 몸을 뒤로 젖히며 펀치
 
-**Note:** The same button controls all actions. Pressing it makes your character jump/lean and automatically swing their arm.
+-   **플레이어 2**  
+    -   **W 키:** 점프 / 몸을 뒤로 젖히며 펀치
 
-### Frequently Asked Questions (FAQ)
+같은 버튼으로 점프, 자세 변화, 펀치를 모두 수행하므로, 눌러야 할 타이밍만 잘
+잡으면 됩니다.
 
-**1. How do I win a round?**
-> You win a round by landing one clean punch on your opponent's head. The first player to win 5 rounds wins the entire match.
+### 자주 묻는 질문 (FAQ)
 
-**2. Why do the characters look and move so strangely?**
-> That's the core feature of the game! The characters and physics are randomized each round. You might have long arms, a different background, or face new obstacles. The wobbly "ragdoll" physics is what makes the game fun and unpredictable.
+**1. 한 라운드는 어떻게 이기나요?**  
+> 상대의 머리에 깔끔한 펀치를 한 번만 맞히면 됩니다. 먼저 5라운드를 따낸 쪽이
+> 전체 경기의 승자가 됩니다.
 
-**3. Is there a way to block?**
-> There is no dedicated block button. However, you can use your own swinging arm as a makeshift shield to block or deflect the opponent's punch. This requires good timing.
+**2. 캐릭터가 너무 우스꽝스럽게 움직여요. 버그인가요?**  
+> 이 게임의 핵심 연출입니다. 매 라운드 캐릭터 외형과 물리가 랜덤으로 바뀌고,
+> 래그돌 물리 때문에 몸이 휘청거리며 넘어지는 모습이 웃음을 주도록 설계되어
+> 있습니다.
 
-**4. Can I play this game by myself?**
-> Yes, Boxing Random has a single-player mode where you compete against a computer-controlled opponent (AI).
+**3. 막을 수 있는 방법은 없나요?**  
+> 별도의 가드 버튼은 없지만, 제때 팔을 내밀면 상대의 펀치를 막거나 빗나가게
+> 할 수 있습니다. 공격과 방어를 동시에 수행하는 느낌으로 타이밍을 잡아 보세요.
 
+**4. 혼자서도 플레이할 수 있나요?**  
+> 네, Boxing Random에는 AI를 상대로 싸우는 싱글플레이 모드가 있습니다. 친구와
+> 함께 로컬 2인 대전으로 즐기는 것도 추천합니다.

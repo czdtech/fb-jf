@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: descent
-title: '[KO] Descent'
+title: "Descent 디센트"
 description: >-
-  [KO] Descent is an arcade skill game: navigate downward, avoid hazards, and
-  time movements to reach the goal.
+  수직 통로를 떨어지며 벽을 타고 점프해 내려가는 아케이드 스킬 게임 Descent입니다.
+  가시와 함정을 피해 타이밍 좋게 벽을 옮겨 다니며 아래로 내려가 보세요.
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/descent.jpg
 tags:
@@ -15,28 +15,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Descent는 단순한 조작으로 즐기는 미니멀한 수직 진행형 스킬 게임입니다.
+플레이어는 좁은 수직 통로를 내려가면서 양쪽 벽 사이를 계속 점프해 옮겨 다녀야
+하며, 중간중간 배치된 가시, 움직이는 함정, 회전 장애물을 피해 나가야 합니다.
+많은 웹 버전이 한두 개의 버튼만으로 조작할 수 있도록 설계되어, 타이밍 감각이
+무엇보다 중요한 게임입니다.
 
+### 플레이 방법
 
-### Overview
-Descent is a minimalist vertical skill game where you drop down a shaft, time jumps off walls, and avoid hazards like spikes and moving traps. Many web versions use one‑button or two‑button controls to leap from wall to wall while gravity pulls you downward. 
+- 현재 붙어 있는 벽에서 반대편 벽으로 점프하도록 화면을 탭/클릭해, 벽과 벽
+  사이를 번갈아 이동합니다. 연속 점프를 통해 빈 공간이나 위험 구간을 빠르게
+  통과해야 할 때도 있습니다.  
+- 움직이는 가시나 플랫폼의 패턴을 관찰해 안전한 타이밍이 왔을 때만 점프하세요.  
+- 일부 버전에서는 중간에 등장하는 아이템을 먹으면 점수나 코스튬, 이펙트가
+  해금되기도 합니다.  
 
-### How to Play
-- Tap/click to jump from the current wall to the opposite side; chain jumps to pass gaps.
-- Read obstacle timing (moving spikes/platforms) and wait for safe windows.
-- Collectibles may award points or unlock cosmetics depending on the host.
+### 조작 방법
 
-### Controls
-- Mouse/touch: tap to jump; some versions use Left/Right or A/D to leap off the respective wall. Controls vary slightly by host.
+- 마우스/터치: 화면을 탭해 점프합니다.  
+- 일부 버전에서는 `←/→` 혹은 `A/D` 키로 해당 방향의 벽에서 점프하는 방식 등,
+  호스트에 따라 조작 방식이 조금씩 달라질 수 있습니다.  
 
-### Tips and Strategies
-- Don’t rush: small delays often desync hazards and create openings.
-- Jump earlier for longer lateral travel; later for short, steep hops.
-- Use wall‑cling moments to scout the next two screens ahead.
+### 팁 & 전략
 
-### FAQ
-- Q: Is progress endless or level‑based?
-A: Hosts vary; some are endless score chases, others have stage checkpoints.   
-- Q: Are there power‑ups?
-A: Some versions add shields or slow‑mo; availability depends on the host. 
+- **서두르지 말기**: 조금 기다렸다 점프하는 것만으로도 함정의 타이밍이 어긋나
+  안전한 통로가 열리는 경우가 많습니다.  
+- **점프 타이밍으로 거리 조절**: 이른 타이밍에 점프하면 더 멀리 가로로 이동하고,
+  늦게 점프하면 짧고 가파르게 이동합니다. 필요한 만큼만 이동할 수 있도록 타이밍을
+  조절하세요.  
+- **벽에 붙어 있을 때 미리 정찰하기**: 벽에 붙어 잠시 멈춰 있을 수 있을 때는,
+  화면 아래쪽의 다음 두 세트 장애물을 미리 확인하고 어떤 타이밍에 내려갈지
+  계획한 뒤 움직이는 것이 좋습니다.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 진행이 끝없이 이어지나요, 아니면 레벨이 있나요?**  
+  **A:** 호스트에 따라 다릅니다. 일부 버전은 끝없이 기록을 갱신하는 점수형이고,
+  다른 버전은 구간별 체크포인트가 있는 단계형 구조를 사용합니다.  
+
+- **Q: 파워업도 나오나요?**  
+  **A:** 어떤 버전에는 잠시 동안 보호막을 주거나 속도를 늦춰 주는 슬로 모션
+  같은 파워업이 등장할 수 있습니다. 어떤 요소가 있는지는 플레이하는 사이트에
+  따라 달라집니다.  
 

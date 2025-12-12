@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: ping-pong
-title: '[KO] Ping Pong'
+title: "Ping Pong 탁구 게임"
 description: >-
-  [KO] Ping Pong is a classic arcade sports game where two players control
-  paddles to hit a ball back and forth across a screen, aiming to score points
-  by making the opponent miss the ball.
+  클래식 아케이드 스타일의 탁구 게임입니다. 패들을 움직여 공을
+  되받아치고, 상대가 놓치도록 만들어 점수를 따내 보세요.
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/ping-pong.jpg
 tags:
@@ -18,30 +17,60 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+"Ping Pong"은 두 플레이어(또는 플레이어 vs AI)가 각자 패들을
+조종해 공을 주고받는 고전 아케이드 스포츠 게임입니다. 공을
+놓치지 않고 계속 되받아치다가, 상대 패들을 지나쳐 뒤로
+빠져나가게 만들면 점수를 획득합니다.
 
-### Game Introduction
+조작은 단순하지만 공의 각도와 속도를 조절하는 재미, 빠른 템포의
+라 rally 덕분에 가볍게 즐기는 캐주얼 게임으로도, 진지한 1:1 대전
+게임으로도 즐길 수 있습니다.
 
-"Ping Pong" is a classic arcade sports game. Two players (or one player against AI) each control a paddle to hit a ball back and forth across the screen, aiming to score points by making the opponent miss the ball. The game is known for its simple and intuitive gameplay and fast pace, making it an excellent choice for casual entertainment and competitive matchups.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **패들을 안정적으로 컨트롤하기**  
+   가장 기본은 공이 오는 위치에 맞춰 패들을 정확히 가져다 대는
+   것입니다. 처음에는 공의 궤적을 충분히 보고, 너무 크게 움직이지
+   않도록 패들의 이동 범위를 조절해 보세요.
 
-1.  **[KO]** **Control the Paddle**: Move your paddle flexibly to ensure you can hit the incoming ball.
-2.  **[KO]** **Adjust Angle**: By changing the paddle's position and movement direction when hitting the ball, you can alter the ball's flight angle and speed.
-3.  **[KO]** **Anticipate Opponent**: Observe your opponent's hitting habits and movement patterns to predict where the ball will land.
-4.  **[KO]** **Balance Offense and Defense**: While defending, look for opportunities to hit tricky shots that are difficult for your opponent to return.
+2. **각도와 속도 조절하기**  
+   공을 칠 때 패들의 위치와 움직이는 방향을 바꾸면 공의 궤적과
+   속도가 달라집니다. 패들의 위쪽·아래쪽 끝을 이용하면 각이
+   크게 꺾이고, 움직이면서 치면 더 빠른 공을 보낼 수 있습니다.
 
-### How to Play
+3. **상대의 습관 읽기**  
+   상대가 자주 놓치는 위치, 패들을 움직이는 패턴을 관찰하세요.
+   한쪽 구석만 지키는 상대라면 반대쪽으로 각을 크게 꺾는 식으로
+   약점을 공략할 수 있습니다.
 
-*   **[KO]** **Move Paddle**: Typically use keyboard arrow keys (up/down) or the mouse to control the paddle's vertical movement on the screen.
+4. **공격과 수비의 균형 맞추기**  
+   어렵게 리턴하기 힘든 공을 보내려다 자신이 먼저 실수할 수
+   있습니다. 수비를 우선시하면서도, 상대가 중심을 비웠을 때만
+   각도를 크게 꺾는 식으로 공격 타이밍을 조절해 보세요.
 
-### Frequently Asked Questions
+### 조작 방법
 
-1.  **[KO]** **Q: What is the objective of the "Ping Pong" game?**
-**A**: The objective is to score points by getting the ball past your opponent's paddle area. The first player to reach a predetermined score usually wins.
-2.  **[KO]** **Q: Are there different difficulty levels in the game?**
-**A**: Many versions of Ping Pong games offer different difficulty levels, mainly reflected in the AI opponent's reaction speed and hitting skills.
-3.  **[KO]** **Q: How can I hit the ball more powerfully with the paddle?**
-**A**: The hitting power of the paddle is usually fixed, but you can influence the ball's speed and angle by changing the point of contact.
-4.  **[KO]** **Q: Can this game be played in two-player mode?**
-**A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
+- **패들 이동**: 일반적으로 키보드의 위/아래 방향키 또는 마우스를
+  사용해 패들을 위·아래로 움직입니다. 사용하는 버전에 따라
+  조작 방식이 조금 달라질 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: Ping Pong 게임의 기본 목표는 무엇인가요?**  
+   **A:** 공을 상대 패들 뒤로 보내 점수를 얻는 것입니다. 보통 먼저
+   정해진 점수에 도달한 플레이어가 승리합니다.
+
+2. **Q: 난이도 조절이 가능한가요?**  
+   **A:** 많은 Ping Pong 게임 버전에서 난이도 선택이 가능하며,
+   주로 AI의 반응 속도와 패들 이동 능력 차이로 표현됩니다.
+
+3. **Q: 더 강하게 치려면 어떻게 해야 하나요?**  
+   **A:** 패들의 힘 자체는 고정된 경우가 많지만, 패들을 움직이며
+   공을 치거나, 공이 닿는 위치를 조절해 속도와 각도를 바꿀 수
+   있습니다.
+
+4. **Q: 2인용 플레이를 지원하나요?**  
+   **A:** 네, 많은 클래식 Ping Pong 게임이 한 기기에서 두 사람이
+   나눠 플레이할 수 있는 로컬 2인용 모드를 지원합니다.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: fiddlebops-but-sprunki
-title: '[KO] FiddleBops but Sprunki - Play FiddleBops but Sprunki Online'
+title: FiddleBops but Sprunki 피들밥스 x 스프런키
 description: >-
-  [KO] FiddleBops but Sprunki is an awesome crossover event! It keeps the
-  addictive music-making core of Fiddlebops but swaps out all the original
-  characters for the iconic Sprunki crew.
+  Fiddlebops의 음악 제작 시스템에 Sprunki 캐릭터들을 더한 크로스오버 Mod입니다. 스프런키 크루로 비트를 쌓고, 새로운 감성의
+  사운드를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114915532/embed'
 thumbnail: /fiddlebops-but-sprunki.png
 tags:
@@ -14,33 +13,54 @@ score: 4.2/5  (94 votes)
 ---
 
 
+음악을 만드는 걸 좋아한다면, **FiddleBops but Sprunki**는 꼭 한 번
+해 볼 만한 크로스오버입니다. Fiddlebops 특유의 중독적인 음악 제작 방식을
+그대로 유지하면서, 캐릭터와 사운드는 모두 스프런키 세계관으로 교체되어
+전혀 다른 분위기의 트랙을 만들 수 있습니다.
 
-Hey music makers! Ever wondered what'd happen if you threw the classic gameplay you love from Fiddlebops into a blender with the wacky, vibrant world of Sprunki? Well, wonder no more, because FiddleBops but Sprunki is here to make that crazy idea a reality! This unique mod lets you groove to familiar rhythms while experiencing the fresh, energetic charm of Sprunki.
+### FiddleBops but Sprunki는 어떤 게임인가요?
 
-### What's the Deal with FiddleBops but Sprunki Anyway?
+한마디로 말하면, Fiddlebops와 Sprunki의 콜라보 이벤트입니다.  
+기본 시스템은 Fiddlebops와 같지만, 무대 위에 올리는 캐릭터와 루프 사운드가
+스프런키 스타일로 전부 교체되어, 익숙하면서도 새로운 느낌을 동시에 줍니다.
 
-Simply put, FiddleBops but Sprunki is an awesome crossover event! It keeps the addictive music-making core of Fiddlebops but swaps out all the original characters for the iconic Sprunki crew. Imagine using those wonderfully weird Sprunki figures to lay down Fiddlebops beats – feels both nostalgic and refreshingly new, right? That's the unique magic FiddleBops but Sprunki brings to the table.
+### 어떻게 플레이하나요?
 
-### How Do You Rock This Awesome Musical Mashup?
+- **스프런키 스쿼드 고르기**  
+  스프런키 테마로 재디자인된 캐릭터들 중 마음에 드는 캐릭터를 골라 무대에
+  올립니다. 각 캐릭터는 고유한 루프 사운드와 애니메이션을 갖고 있습니다.  
+- **무대에 올리면 자동 재생**  
+  캐릭터를 드래그해 무대에 올리면 자동으로 연주를 시작하며, 여러 캐릭터를
+  조합해 전체 곡의 분위기를 만들 수 있습니다.  
+- **자유롭게 섞어 보기**  
+  다양한 캐릭터를 올렸다 내렸다 하며 예상치 못한 조합을 찾아보세요. 우연히
+  아주 좋은 패턴이 만들어지는 경우도 많습니다.  
+- **작품 저장 및 공유**  
 
-The gameplay is still super intuitive, guaranteed to get you going in seconds:
-
-- **Pick Your Sprunki Squad:** Choose your favorites from a lineup of Sprunki-themed characters, each redesigned for the occasion with unique sounds and animations.
-- **Drag 'Em Onstage & Create:** Plop your chosen Sprunki characters onto the stage, and they'll immediately start performing, adding their distinct rhythms and melodies to your track.
-- **Mix Freely, Explore Endlessly:** Go wild trying out different Sprunki sound combinations! Mix and match, and you'll stumble upon hidden musical gems and unexpected surprises.
 - **Share Your Masterpiece:** Once you've crafted a track you love, don't forget to save it and share it with both the Sprunki and Fiddlebops communities. Let everyone join the fun!
+  마음에 드는 트랙이 완성되면 저장하거나, 스프런키·피들밥스 커뮤니티와
+  공유해 다른 사람들과 함께 즐길 수도 있습니다.  
 
+### FiddleBops but Sprunki만의 매력 포인트
 
-### What Makes FiddleBops but Sprunki Shine?
+- **스프런키 올스타 캐릭터**  
+  원래 피들밥스에 등장하던 캐릭터 대신, 스프런키의 개성 있는 캐릭터들이
+  총출동해 각자의 사운드를 들려줍니다.  
+- **스프런키 특유의 사운드**  
+  각 캐릭터가 고유한 루프와 효과음을 갖고 있어, 기존 Fiddlebops와는 또 다른
+  질감의 트랙을 만들 수 있습니다.  
+- **새로워진 비주얼**  
+  UI와 연출이 스프런키 테마에 맞게 리프레시되어, 같은 구조의 게임이라도
+  완전히 다른 분위기로 느껴집니다.  
+- **익숙한 조작, 새로운 경험**  
+  드래그 앤 드롭으로 사운드를 쌓는 기본 플레이는 그대로이지만, 캐릭터와
+  사운드의 개성이 바뀌면서 완전히 새로운 크리에이티브 경험을 제공합니다.  
 
-- **Sprunki All-Star Cast:** All the original Fiddlebops characters are replaced by iconic Sprunki figures, each carefully reimagined to fit the theme perfectly.
-- **The Unique Sound of Sprunki:** Every Sprunki character brings their signature sound loops and animations, putting a distinct Sprunki stamp on your musical creations.
-- **Refreshed Visual Vibe:** Enhanced visuals and thematic tweaks breathe new life into FiddleBops but Sprunki, creating a vibrant and immersive environment to play in.
-- **Classic Gameplay, New Experience:** It holds onto the dynamic music-creation mechanics of Fiddlebops while cleverly weaving in the unique charm and personality of Sprunki.
+### 왜 해 봐야 할까요?
 
+Fiddlebops나 Sprunki 둘 중 하나라도 좋아한다면, 이 Mod는 두 세계의 매력을
+한 번에 느끼게 해 줄 만한 작품입니다. 색다른 비주얼 속에서 새로운 사운드를
+실험하고, 나만의 트랙을 만들어 보고 싶다면 **FiddleBops but Sprunki**를
+한 번 플레이해 보세요.  
+클래식과 새로움이 섞인 음악 놀이터가 기다리고 있습니다.
 
-### Why Should You Absolutely Try FiddleBops but Sprunki?
-
-If you're a fan of either Fiddlebops or Sprunki, then this FiddleBops but Sprunki experience is going to be right up your alley! It perfectly blends two beloved worlds, offering a totally fresh musical adventure. Whether you're aiming to craft one-of-a-kind tracks or just curious about the revamped visuals, FiddleBops but Sprunki guarantees a creative and fun-filled time.
-
-Bottom line: FiddleBops but Sprunki is a fantastic musical adventure full of surprises, proving that combining classic and creative can be incredibly entertaining. Go ahead and give FiddleBops but Sprunki a try, and let these quirky Sprunki characters help you compose a brand new Fiddlebops chapter!

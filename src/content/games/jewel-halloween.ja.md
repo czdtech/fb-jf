@@ -1,63 +1,35 @@
 ---
+title: "Jewel Halloween"
+description: "Jewel Halloweenは不気味なマッチ3です。宝石をスワップし、カスケードをトリガーし、ステージ目標をクリアします。"
+iframeSrc: "https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/"
+thumbnail: "/new-images/jewel-halloween.png"
+urlstr: "jewel-halloween"
+score: "4.1/5  (1942 votes)"
+tags: ["puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: jewel-halloween
-title: '[JA TRANSLATION NEEDED] Jewel Halloween'
-description: >-
-  [JA TRANSLATION NEEDED] Jewel Halloween is a spooky match‑3 — swap gems,
-  trigger cascades, and clear stage goals.
-iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
-thumbnail: /new-images/jewel-halloween.png
-tags:
-  - puzzle
-  - casual
-score: 4.1/5  (1942 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Jewel Halloweenは季節的なマッチ3です。隣接する宝石をスワップして3つ以上のラインを作り、パワー宝石を生成し、スコアしきい値、限られた移動、または障害物のクリアなどのターゲットを完了します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Jewel Halloween is a seasonal match‑3. Swap adjacent gems to make lines of three or more, spawn power gems, and complete targets like score thresholds, limited moves, or clearing obstacles.
+1.  下部から作業してカスケードをトリガーします。
+2.  生のスコアリングよりも目標（例：ブロッカー）を優先します。
+3.  ボード全体のクリアのためにパワー宝石を組み合わせます。
+4.  色の分離を避けるために2つ先の移動を計画します。
+5.  厳しい目標のために強力なコンボを保存します。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Work from bottom to trigger cascades.
-[JA TRANSLATION NEEDED] 2.  Prioritize objectives (e.g., blockers) over raw scoring.
-[JA TRANSLATION NEEDED] 3.  Combine power gems for board‑wide clears.
-[JA TRANSLATION NEEDED] 4.  Plan two moves ahead to avoid isolating colors.
-[JA TRANSLATION NEEDED] 5.  Save strong combos for tight goals.
+- スワップ：隣接する宝石をドラ��グしてスワップします。
+- パワーアップ：ルールごとにマッチまたはタップして有効化します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Swap: Drag adjacent gems to swap.
-- Power‑ups: Activate by matching or tapping per rules.
-
-### Frequently Asked Questions (FAQ)
-
-- Stuck on move limits? Focus on blockers and cascades rather than small matches.
-- Are diagonals allowed? Usually no—follow mode rules.
-- Hints available? Often yes; use sparingly.
-
-
-
-
-
-
-
-
-
-- Hints available? Often yes; use sparingly.
-- Are diagonals allowed? Usually no—follow mode rules.
-- Stuck on move limits? Focus on blockers and cascades rather than small matches.
-### よくある質問（FAQ）
-- Power‑ups: Activate by matching or tapping per rules.
-- Swap: Drag adjacent gems to swap.
-### コントロールガイド
-
-
-
-
-- Hints available? Often yes; use sparingly.
-- Are diagonals allowed? Usually no—follow mode rules.
-- Stuck on move limits? Focus on blockers and cascades rather than small matches.
+- 移動制限で行き詰まった？小さなマッチではなく、ブロッカーとカスケードに焦点を当てます。
+- 斜めは許可されていますか？通常いいえ。モードのルールに従ってください。
+- ヒントは利用可能ですか？多くの場合はい。控えめに使用してください。

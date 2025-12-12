@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: polymatch
-title: '[ZH TRANSLATION NEEDED] PolyMatch'
+title: "《PolyMatch》多图案连连消"
 description: >-
-  [ZH TRANSLATION NEEDED] Dive into the colorful world of PolyMatch! A unique
-  puzzle game where you rotate and place polyomino pieces to complete intricate
-  patterns.
+  《PolyMatch》是一款考验观察力与规划能力的图案配对消除游戏，你需要从棋盘上找出成对相同的图块，并在下方有限的暂存槽中合理调度，逐步清空整个版面。
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/polymatch.png
 tags:
@@ -18,29 +16,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] PolyMatch is an engaging tile-matching puzzle game that challenges your observation and strategic thinking. The game presents you with a board filled with various tiles, each featuring a unique image or pattern. Your objective is to clear the board by finding and matching pairs of identical tiles. The twist lies in the limited holding area at the bottom of the screen, which can only hold a few tiles. You must carefully select tiles to ensure you can make matches and prevent the holding area from filling up, which would lead to a game over.
+《PolyMatch》是一款节奏适中、视觉风格清爽的图块配对游戏。棋盘上会铺满各种颜色与图案各异的方块，你的任务是通过点击选中图块，将它们暂存到屏幕下方的“收纳槽”中，只要槽中同一图案的方块凑成一对或一组三消，即可自动消除。难点在于收纳槽容量有限，如果被不成对的图块塞满，而你又找不到新的可配对方块，局面就会进入死局甚至直接失败。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Prioritize Visible Matches:** Always look for and make matches that are immediately visible and accessible. This helps to clear space and reveal more tiles.
-2.  [ZH TRANSLATION NEEDED] **Manage the Holding Area:** The holding area is your most critical resource. Never tap a tile unless you have a clear plan for how it will be matched. Avoid filling it with unmatched tiles.
-3.  [ZH TRANSLATION NEEDED] **Look for Hidden Tiles:** As you clear tiles, new ones will be revealed. Try to anticipate which tiles will become available and how they might contribute to future matches.
-4.  [ZH TRANSLATION NEEDED] **Strategic Tapping:** If you have multiple options for a match, consider which one will open up the most possibilities or clear the most difficult sections of the board.
-5.  [ZH TRANSLATION NEEDED] **Don't Rush:** There's no time limit in many versions of PolyMatch, so take your time to analyze the board and plan your moves carefully. A single wrong tap can lead to a game over.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **优先消除看得见的配对：** 先从棋盘上明显已成双成对的图块入手，直接点击并让它们在收纳槽中完成匹配，以便尽快腾出空间、翻出下层被遮挡的图块。
+2.  **精打细算收纳槽：** 收纳槽是最关键资源，尽量不要随手点击没有明确配对计划的图块，避免出现槽位里塞满“单身图块”的尴尬局面。
+3.  **预判即将露出的图块：** 随着消除进行，新的图块会从下方或后方显露出来。观察哪些图案在棋盘上出现次数更多，优先为它们“留坑”进行配对，避免空耗槽位。
+4.  **策略性点击：** 当存在多个可配对选择时，优先处理那些分布在难以触及或局部拥挤区域的图块，既能打开结构，也能减少后期局部堵死的风险。
+5.  **不必着急，关键在正确决策：** 大多数版本没有严格时间限制，与其盲目快速点击，不如稍微停下来整体观察一下局面，一次错误选择有时就足以让收纳槽被无用图块占满。
 
-*   **Select Tile:** Click or tap on a tile on the main game board to move it to the holding area at the bottom.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **选取图块：** 使用鼠标或手指点击棋盘上的任意图块，会将其移动到下方收纳槽中；当槽内形成有效配对（如两张或三张同图块）时，会自动进行消除并释放槽位。
 
-*   **Q: How do I win a level?**
-     *   **A:** You win a level by successfully clearing all the tiles from the main game board.
+### 常见问题（FAQ）
 
-*   **Q: What happens if the holding area fills up?**
-     *   **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
+*   **问：如何算通关？**
+    *   **答：** 成功将棋盘上所有图块全部清除，即视为通关；若收纳槽被塞满且无法再形成新的配对，则会进入失败或需要重置。  
 
-*   **Q: Are there power-ups or hints?**
-     *   **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
+*   **问：收纳槽满了还能继续玩吗？**
+    *   **答：** 一旦槽位达到最大容量且没有任何可消除的组合，通常就会判定游戏结束，只能重新开始或回退到上一步（若有悔步道具）。  
 
+*   **问：游戏有没有提示或道具？**
+    *   **答：** 部分版本会提供洗牌、提示、撤销等功能，帮助你在卡关时打破僵局，但使用次数一般有限，建议在确实看不到解法时再使用。

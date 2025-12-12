@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: footchinko
-title: '[ZH TRANSLATION NEEDED] Footchinko'
+title: "Footchinko 足球柏青哥"
 description: >-
-  [ZH TRANSLATION NEEDED] Experience the unique blend of football and pachinko
-  in Footchinko! Drop the ball, hit the pegs, and aim for high scores and
-  exciting bonuses.
+  在 Footchinko 體驗足球與柏青哥結合的獨特玩法！投下足球、撞擊釘子與彈板，
+  朝球門與高分獎勵前進。
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/footchinko.jpg
 tags:
@@ -19,27 +18,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Footchinko is an innovative and highly engaging arcade game that creatively merges the excitement of football (soccer) with the classic mechanics of pachinko and pinball. Your objective is to guide a football through a field filled with pegs, bumpers, and other obstacles, aiming to score goals. Each level presents unique challenges and layouts, requiring precise aiming and strategic thinking to navigate the ball past defenders and into the net. Collect power-ups and bonuses to enhance your gameplay and achieve high scores.
+《Footchinko》是一款創意十足的街機遊戲，將足球比賽的緊張刺激與柏青哥、彈珠檯的機制巧妙融合。
+你的目標是把足球從場地上方投入，讓它在佈滿釘子、彈板與各種障礙的場地中一路彈跳，
+最後順利「進球得分」。每一關都有獨特的版面設計與難度，
+需要精準瞄準與一點運氣，才能繞過防守與障礙物，成功把球送入球門。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Aiming is Key:** Before each shot, carefully consider the trajectory of the ball. Look for paths that will allow the ball to hit multiple pegs or power-ups, and ultimately lead to the goal.
-2.  [ZH TRANSLATION NEEDED] **Utilize Obstacles:** The pegs and bumpers aren't just hindrances; they can be used to your advantage. Bounce the ball off them to change its direction and reach otherwise inaccessible areas.
-3.  [ZH TRANSLATION NEEDED] **Clear the Path:** Some obstacles can be destroyed after being hit multiple times. Prioritize clearing these if they are blocking a direct path to the goal or a valuable power-up.
-4.  [ZH TRANSLATION NEEDED] **Collect Power-ups:** Keep an eye out for power-ups that can give you an edge, such as extra balls, stronger shots, or temporary invincibility. Use them strategically to maximize your scoring potential.
-5.  [ZH TRANSLATION NEEDED] **Anticipate Rebounds:** Just like in pinball, understanding how the ball will rebound off different surfaces is crucial. Practice will help you develop an intuition for the physics of the game.
+
+1.  **瞄準是關鍵：** 每次出手前，先仔細觀察場地釘子與彈板的分布，
+    找出能同時撞中多個釘子或增益道具的落點，並評估最終導向球門的可能路徑。
+2.  **善用障礙：** 釘子與彈板不只是阻擋物，也可以幫你改變球的方向，
+    利用反彈來進入平常很難直接瞄準到的區域。
+3.  **清除路障：** 有些障礙被撞擊多次後會被破壞，若它們剛好堵在通往球門或重要道具的路線上，
+    可以優先考慮多撞幾次開路。
+4.  **收集強力道具：** 留意場上出現的道具，例如額外球數、更強射擊效果或暫時無敵等，
+    善用這些增益可以大幅提高得分與通關穩定度。
+5.  **預判反彈軌跡：** 就像彈珠台一樣，理解球與不同材質的碰撞反應非常重要，
+    多玩幾局後你會開始建立直覺，知道某個方向落球大致會彈向哪裡。
 
 ### Controls Guide
 
-*   **Launch Ball:** Click or tap on the screen to launch the ball. The position of your click often determines the initial direction and power of your shot.
+*   **發球：** 使用滑鼠或觸控在畫面上點擊／拖曳，選定出球位置或方向後放開，即可將球射出；
+    通常點擊位置會決定初速度與角度。
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the main objective of Footchinko?**
-     *   **A:** The main objective is to score goals by getting the football into the opponent's net, navigating through a field filled with pachinko-style obstacles.
+*   **問：Footchinko 的主要目標是什麼？**
+    *   **答：** 核心目標是讓足球在充滿釘子與障礙的場地中一路彈跳後成功射入對方球門，
+        同時達成各關卡設定的得分或目標條件。
 
-*   **Q: Are there different levels or championships?**
-     *   **A:** Yes, Footchinko typically features multiple levels and championships, each with increasing difficulty and unique field layouts.
+*   **問：遊戲有分關卡或錦標賽模式嗎？**
+    *   **答：** 通常會提供多個關卡與錦標賽，難度會逐步提升，場地布局也愈來愈複雜。
 
-*   **Q: How do I get a higher score?**
-     *   **A:** Score more goals, collect power-ups, and try to clear obstacles efficiently. Some games might also reward you for hitting specific targets or making combo shots.
-
+*   **問：要怎麼拿到更高分？**
+    *   **答：** 盡量多次擊中釘子與加分區、收集道具，並有效率地清除擋路障礙，
+        有些版本還會對特殊目標（例如連續進球、連鎖彈跳）給予額外加分。

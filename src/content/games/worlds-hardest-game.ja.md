@@ -1,71 +1,56 @@
 ---
-locale: ja
-urlstr: worlds-hardest-game
-title: '[JA TRANSLATION NEEDED] World''s Hardest Game'
-description: >-
-  [JA TRANSLATION NEEDED] World's Hardest Game is an extremely challenging
-  arcade game where players control a red square to navigate through levels
-  filled with moving blue circles, requiring precise timing and patience to
-  avoid obstacles and reach the goal.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
+title: World's Hardest Game
+description: World's Hardest Gameは、世界で最も難しいゲームです。赤い四角を避けて緑のゾーンに到達しましょう。
+iframeSrc: 'https://ubg98.github.io/WorldsHardestGame/'
 thumbnail: /new-images/worlds-hardest-game.jpg
+urlstr: worlds-hardest-game
+score: 4.5/5  (4892 votes)
 tags:
-  - difficulty
   - arcade
-  - precision
-score: 4.9/5  (1070 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - skill
+  - difficult
+locale: ja
 ---
 
+### ゲーム紹介
 
+World's Hardest Gameは、その名の通り非常に難しいスキルベースのアーケードゲームです。動く赤い四角を避けながら、青い四角をゴールまで導きましょう。
 
-### Game Introduction
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] "World's Hardest Game" is an extremely challenging arcade game where players control a red square to navigate through levels filled with moving blue circles. It requires precise timing and immense patience to avoid obstacles and reach the goal. This game is famous for its extremely high difficulty and simple yet frustrating gameplay.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Observe Patterns**: Carefully observe the movement patterns and timing of blue circles before moving.
-[JA TRANSLATION NEEDED] 2.  **Wait Patiently**: Don't rush into action; wait for the right moment to move.
-[JA TRANSLATION NEEDED] 3.  **Precise Movement**: Use exact movements, avoiding unnecessary large displacements.
-[JA TRANSLATION NEEDED] 4.  **Segment Approach**: Break complex paths into multiple small segments and complete them step by step.
-[JA TRANSLATION NEEDED] 5.  **Stay Calm**: Failure is normal; stay calm and learn from mistakes.
-
-### How to Play
-
-*   **Movement Control**: Use WASD keys or arrow keys to control the red square's movement.
-*   **Precise Positioning**: Can make pixel-perfect precise movements to avoid obstacles.
-*   **Pause and Think**: Stop in safe areas to plan the next move.
-
+ - **青い四角を操作：** 矢印キーで動かします
+ - **赤い四角を避ける：** 敵に触れないように注意します
+ - **コインを集める：** レベル内のコインを集めます
+ - **ゴールに到達：** 緑のゾーンに到達します
 
 
 - **Stay Calm**: Failure is normal; stay calm and learn from mistakes.
-- **Segment Approach**: Break complex paths into multiple small segments and complete them step by step.
-### Frequently Asked Questions
+### 操作ガイド
+
+ - **矢印キー：** 上下左右に移動
 
 
+- **Pause and Think**: Stop in safe areas to plan the next move.
 
-
+- **Precise Positioning**: Can make pixel-perfect precise movements to avoid obstacles.
+### よくある質問（FAQ）
 
 
 - **Q: Why is it called the World's Hardest Game?**
-### よくある質問
-- **Pause and Think**: Stop in safe areas to plan the next move.
-- **Precise Positioning**: Can make pixel-perfect precise movements to avoid obstacles.
+**なぜこんなに難しいのですか？**
 
-### よくある質問
-- **Movement Control**: Use WASD keys or arrow keys to control the red square's movement.
-[JA TRANSLATION NEEDED] 1.  **Q: Why is it called the World's Hardest Game?**
 
 - **Q: How many levels are there?**
-[JA TRANSLATION NEEDED]     **A**: Because the game requires extremely precise timing and movement, where even small errors lead to failure.
+完璧なタイミングと精密な操作が必要だからです。
+
 
 - **Q: Can I save progress?**
-[JA TRANSLATION NEEDED] 2.  **Q: How many levels are there?**
+**チェックポイントはありますか？**
+
 
 - **Q: Are there any tips for completion?**
-[JA TRANSLATION NEEDED]     **A**: The game typically contains 30 levels, each more difficult than the previous one.
-[JA TRANSLATION NEEDED] 3.  **Q: Can I save progress?**
-[JA TRANSLATION NEEDED]     **A**: Most versions automatically save progress, allowing you to continue from the last completed level.
-[JA TRANSLATION NEEDED] 4.  **Q: Are there any tips for completion?**
-[JA TRANSLATION NEEDED]     **A**: Practice, patience, and observation are key. Learn to predict movement patterns and don't rush.
+いい え、ミスすると最初からやり直しです。
+
+**何レベルありますか？**
+
+30レベル以上の極めて挑戦的なステージがあります。

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-xrun-simulator
-title: '[ES] Incredibox Xrun simulator'
+title: "Incredibox Xrun Simulator"
 description: >-
-  [ES] Explore 'Incredibox Xrun Simulator,' the high-energy fan-made mod. This
-  guide details its EDM and dubstep theme, grid-based gameplay, and provides
-  tips for creating intense electronic mixes and loops.
+  Explora "Incredibox Xrun Simulator", un mod fan-made de alta energía. Esta
+  guía detalla su temática EDM y dubstep, la jugabilidad en rejilla y consejos
+  para crear mezclas y loops electrónicos intensos.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
 thumbnail: /new-images/incredibox-xrun-simulator.png
 tags:
@@ -18,47 +18,71 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **Introducción a Incredibox Xrun Simulator**
 
-### **Incredibox Xrun Simulator Game Introduction**
+*Incredibox Xrun Simulator* es un mod fan‑made dinámico y muy energético de la
+serie "Simulator" de Incredibox. Destaca por su estética futurista y una paleta
+sonora inspirada en **EDM, dubstep y trap**.
 
-*Incredibox Xrun Simulator* is a dynamic and high-energy fan-made game belonging to the "Simulator" series of Incredibox mods. This version stands out with its futuristic aesthetic and a sound palette heavily inspired by modern **electronic dance music (EDM), dubstep, and trap**.
+La jugabilidad se aleja de las versiones oficiales y adopta la clásica interfaz
+**en rejilla** de los mods Simulator. En lugar de arrastrar iconos sobre
+personajes, trabajas con una cuadrícula de 20 iconos de sonido. El objetivo es
+crear un loop electrónico intenso haciendo clic para activar o desactivar estos
+sonidos.
 
-The gameplay departs from the official Incredibox series, utilizing the signature **grid-based interface** of the Simulator mods. Instead of dragging icons onto characters, players are presented with a grid of 20 sound icons. The objective is to create an intense musical loop by clicking these icons to activate or deactivate them.
+A medida que añades capas, una barra de progreso en la parte superior se va
+llenando, guiándote hacia los bonus audio‑visuales ocultos. La experiencia se
+centra menos en intérpretes individuales y más en la construcción directa de un
+beat electrónico complejo.
 
-As players layer more sounds, a progress bar at the top of the screen fills up, guiding them towards discovering the mod's hidden audio-visual bonuses. The experience is less about individual performers and more about the direct, hands-on creation of a complex electronic beat.
+### **Estrategia de juego y consejos**
 
-### **Gameplay Strategy & Tips**
+1.  **Comprende la rejilla EDM:** Los 20 iconos representan todos los elementos
+    clave de un tema electrónico.
+    *   **Drums/Percusión:** Iconos que aportan el ritmo base: bombos, cajas y
+        hi‑hats; son el cimiento.
+    *   **Bajo:** Graves contundentes y líneas de bajo; en EDM, la relación entre
+        bombo y bajo es crucial.
+    *   **Effects/Risers:** Efectos atmosféricos, risers que suben en tono e
+        intensidad y otros recursos para crear tensión y release.
+    *   **Synths/Leads:** Ganchos melódicos: wobble bass de dubstep, leads de
+        sinte pegadizos o vocal chops.
 
-1.  **[ES]** **Understand the EDM Sound Grid**: The 20 icons represent all the core elements of an electronic track.
-    *   **[ES]** **Drums/Percussion**: Look for icons that provide the driving beat—kick drums, snares, and hi-hats. These are the foundation.
-    *   **[ES]** **Bass**: Find the deep, heavy basslines. In EDM, the relationship between the kick drum and the bass is crucial.
-    *   **[ES]** **Effects/Risers**: These icons provide atmospheric sounds, risers (sounds that build in pitch and intensity), and other effects that create tension and release.
-    *   **[ES]** **Synths/Leads**: These are the main melodic hooks. They can be aggressive "wobble" basses from dubstep, catchy synth melodies, or vocal chops.
+2.  **Primero el beat, luego el bajo:** Empieza siempre configurando la
+    percusión: activa un patrón de bombo y caja. Después añade una línea de
+    bajo potente que encaje con ese ritmo.
 
-2.  **[ES]** **Build the Beat, Then the Bass**: A classic production technique is to start with your drums. Activate a kick and snare pattern first. Then, add a powerful bassline that complements the rhythm.
+3.  **Construye build‑up y drop:** La esencia del EDM está en los cambios de
+    energía. Usa risers y efectos de filtro para aumentar la tensión y suelta
+    tu lead principal o un bajo pesado para simular el "drop" activando y
+    desactivando iconos en secuencia.
 
-3.  **[ES]** **Create a Build-Up and Drop**: The essence of EDM is the energy shift. Use riser effects and filter sweeps to build tension. Then, unleash your main synth lead or a heavy bassline to create a satisfying "drop." You can simulate this by activating and deactivating different icons in sequence.
+4.  **Experimenta con las capas:** No tengas miedo de activar muchos iconos a la
+    vez; el formato simulador permite crear texturas muy densas. Aun así,
+    aprende qué sonidos funcionan mejor como acentos puntuales para no saturar.
 
-4.  **[ES]** **Experiment with Layers**: Don't be afraid to click many icons at once. The beauty of the simulator format is the ability to create dense, complex soundscapes. However, also learn which sounds are best used sparingly to punctuate the track.
+### **Guía de controles**
 
-### **Controls Guide**
+El mod utiliza la interfaz de clic sencilla de la serie Simulator.
 
-This mod uses the simple, click-based interface of the Simulator series.
+*   **Activar / desactivar sonido:** **Haz clic** en cualquiera de los 20 iconos.
+    Un icono activo se ilumina y su sonido entra en el loop; al volver a hacer
+    clic se apaga.
+*   **Combinar sonidos:** puedes tener varios iconos activos simultáneamente
+    para construir tu mezcla.
+*   **Controles principales (parte superior):**
+    *   **Play/Pause:** enciende o apaga todo el loop.
+    *   **Record:** empieza o detiene la grabación de tu mezcla.
+    *   **Reset:** borra todos los sonidos activos de la rejilla.
 
-*   **[ES]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will light up, adding its sound to the loop. Clicking it again will turn it off.
-*   **[ES]** **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
-*   **[ES]** **Main Controls (Top of Screen)**:
-    *   **[ES]** **Play/Pause Button**: Toggles the entire loop on or off.
-    *   **[ES]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[ES]** **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+### **Preguntas frecuentes (FAQ)**
 
-### **Frequently Asked Questions (FAQ)**
+**1. ¿Por qué se ve y se juega distinto a los juegos principales?**  
+Es el estilo propio de los mods "Simulator": la rejilla es una decisión
+creativa para ofrecer una forma más directa y por capas de crear música,
+ideal para géneros electrónicos.
 
-**1. Why does this look and play differently from the main games?**
-
-This is the signature style of the "Simulator" mods. The grid-based interface is a creative choice by modders to offer a more direct and layered approach to music creation, which is particularly well-suited for electronic music genres.**
-
-**2. Where can I play this mod?**
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
-
+**2. ¿Dónde puedo jugar este mod?**  
+No está en las plataformas oficiales. Mods como *Xrun Simulator* suelen
+compartirse en sitios como **Newgrounds**, comunidades como
+**playfiddlebops.com** o en YouTube con enlaces para jugarlos en navegador.

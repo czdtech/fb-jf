@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: neon-dash
-title: '[DE] Neon Dash'
+title: "Neon Dash"
 description: >-
-  [DE] Neon Dash is a fast precision runner — jump, dodge hazards, and time your
-  inputs to survive neon gauntlets.
+  Neon Dash ist ein schneller Präzisions-Runner: Springe im richtigen Moment,
+  weiche Fallen aus und time deine Eingaben perfekt, um neonleuchtende Parcours
+  zu überleben.
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/neon-dash.png
 tags:
@@ -15,29 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Neon Dash ist ein reflexbasiertes Runner-Spiel voller Stacheln, Plattformen und
+pulsierender Fallen. Der Fokus liegt auf Timing: kurze Hüpfer, späte Sprünge
+und ein konstanter Rhythmus helfen dir, enge Hindernisketten zu meistern.
+Je nach Modus erwarten dich Level mit Checkpoints oder One-Shot-Runs.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Sprungkurven lernen**  
+    Übe kurze und lange Tipps, um Sprungweite und -höhe fein zu kontrollieren.
+    Späte Absprünge helfen oft, Stacheln sicher zu überfliegen.
 
-Neon Dash is a reflex‑driven runner filled with spikes, platforms, and pulsing traps. Levels emphasize clean timing—short hops, late jumps, and consistent rhythm help you pass tight obstacle sequences. Expect checkpointed stages or one‑shot clears depending on the mode.
+2.  **Muster erkennen**  
+    Präge dir die Zyklen von Fallen ein und springe im Takt ihrer Bewegungen.
 
-### Gameplay Strategy & Walkthrough
+3.  **Ruhig bleiben bei Kettenhindernissen**  
+    Bei langen Hindernisfolgen solltest du im Rhythmus bleiben, statt in der
+    Luft noch umzuentscheiden.
 
-1.  **[DE]** Learn jump arcs: Practice short/long taps to fine‑tune distance; late jumps often clear spikes more safely.
-2.  **[DE]** Read patterns: Memorize trap cycles and attack them on consistent beats.
-3.  **[DE]** Stay calm on chains: For multi‑obstacle chains, commit to the rhythm instead of second‑guessing mid‑air.
-4.  **[DE]** Use sound cues: Music often maps to obstacles—let it guide your jump cadence.
-5.  **[DE]** Drill tough sections: Restart and isolate the hardest segment to build muscle memory.
+4.  **Sound nutzen**  
+    Oft ist das Leveldesign an die Musik gekoppelt – orientiere dein
+    Sprung-Timing an Beat und Rhythmus.
 
-### Controls Guide
+5.  **Schwere Abschnitte isoliert üben**  
+    Starte hartnäckige Stellen mehrfach neu, bis die Abfolge in Fleisch und
+    Blut übergeht.
 
-- Jump: Space/Click/Tap (press length may vary height in some versions).
-- Pause/Retry: On‑screen controls or keyboard shortcuts.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- **Springen:** Leertaste, Klick oder Tap (in manchen Versionen verändert die
+  Druckdauer die Sprunghöhe).
+- **Pause/Neustart:** Über UI-Buttons oder Tastenkürzel.
 
-- Why do I clip spikes? You’re jumping too early—delay slightly and keep momentum smooth.
-- Is there double jump? Some levels introduce special pads or toggles; follow on‑screen hints.
-- Any tip for late‑game? Slow down mentally, count beats, and commit to practiced timing windows.
+### FAQ
 
+- **F: Ich streife ständig Stacheln – warum?**  
+  **A:** Meist springst du zu früh. Versuche, Absprünge minimal nach hinten zu
+  verschieben und halte deine Bewegung flüssig.
+
+- **F: Gibt es einen Doppelsprung?**  
+  **A:** Einige Level nutzen spezielle Pads oder Schalter, die sich wie ein
+  Doppelsprung anfühlen – achte auf Bildschirmanzeigen.
+
+- **F: Tipps für späte Level?**  
+  **A:** Nimm mental Tempo raus, zähle innerlich mit und halte dich an
+  eintrainierte Zeitfenster, statt spontan zu reagieren.

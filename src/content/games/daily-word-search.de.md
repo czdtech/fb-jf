@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: daily-word-search
-title: '[DE] Daily Word Search'
+title: "Daily Word Search"
 description: >-
-  [DE] Daily Word Search offers calming word hunts — find hidden words across
-  directions and beat the clock or relax.
+  Daily Word Search bietet entspannte Wortsuchen – finde versteckte Begriffe in
+  alle Richtungen und spiele auf Zeit oder ganz ohne Druck.
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/daily-word-search.png
 tags:
@@ -15,36 +15,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Daily Word Search* versteckt Wörter horizontal, vertikal und diagonal im
+Buchstabengitter. Die Themen wechseln täglich; du kannst im Timer-Modus für
+Herausforderung spielen oder im entspannten Modus einfach stöbern.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Daily Word Search hides words horizontally, vertically, and diagonally. Themes change daily; you can play timed for a challenge or untimed to unwind.
+1.  Nach markanten Buchstaben suchen: Beginne mit seltenen Buchstaben wie Q, Z
+    oder X – sie springen im Gitter leicht ins Auge.
+2.  Wortanfänge/Endungen markieren: Nutze Vorsilben und Endungen aus der
+    Wortliste, um Einstiegspunkte zu finden.
+3.  Systematisch scannen: Fahre Reihen und Spalten Reihe für Reihe ab, um
+    zufällige Übersehene zu vermeiden.
+4.  Hinweise spät nutzen: Nimm Hilfen erst in Anspruch, wenn du das komplette
+    Gitter einmal gründlich durchsucht hast.
+5.  Im Timer-Modus Pausen setzen: Lege kurze mentale Pausen zwischen
+    Wörter-Clustern ein, um Tunnelblick zu vermeiden.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Scan for distinctive letter patterns and rare letters (Q, Z, X).
-2.  **[DE]** Highlight prefixes/suffixes from the word list.
-3.  **[DE]** Sweep rows/columns systematically to avoid misses.
-4.  **[DE]** Use hints only after a full grid sweep.
-5.  **[DE]** In timed mode, take short breaks between clusters to avoid tunnel vision.
+- Ziehe mit gedrückter Maus oder per Touch über zusammenhängende Buchstaben,
+  um ein Wort zu markieren, und lasse los, um es zu bestätigen.
+- Hinweise können je nach Version Startbuchstaben oder ganze Wörter
+  hervorheben.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drag across letters to select words; release to confirm.
-- Hints highlight a starting letter or full word depending on the build.
+- Zählen diagonale Wörter?
+  
+  A: Ja, sofern der Modus nicht ausdrücklich eingeschränkt ist.
 
-### Frequently Asked Questions (FAQ)
+- Können sich Wörter überlappen?
+  
+  A: Häufig ja – achte auf geteilte Buchstaben zwischen mehreren Begriffen.
 
-- Q: Do diagonals count?
-
-A: Yes, unless a mode restricts directions.
-
-- Q: Can words overlap?
-
-A: Often yes; look for shared letters.
-
-- Q: Timed vs relaxed — which to pick?
-
-A: Timed for speed practice; relaxed for unwinding.
-
+- Timer oder Relaxed – was ist besser?
+  
+  A: Timer-Modus eignet sich zum Geschwindigkeitstraining; der entspannte
+  Modus ist ideal zum Abschalten.

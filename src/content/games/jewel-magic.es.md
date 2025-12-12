@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: jewel-magic
-title: '[ES] Jewel Magic'
+title: Jewel Magic
 description: >-
-  [ES] Unleash the magic of gems in Jewel Magic, a classic match-3 puzzle game.
-  Match sparkling jewels, create powerful combos, and clear challenging levels
-  in this enchanting adventure.
+  Desata la magia de las gemas en Jewel Magic, un clásico match‑3. Combina joyas
+  brillantes, crea combos poderosos y supera niveles desafiantes en esta
+  aventura encantada.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/jewel-magic.png
 tags:
@@ -18,39 +18,60 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Jewel Magic es un match‑3 clásico y muy entretenido que te invita a un mundo de
+gemas brillantes y retos encantadores. El objetivo es intercambiar gemas
+adyacentes para formar líneas de tres o más iguales, hacerlas desaparecer y
+sumar puntos. Con cientos de niveles y objetivos variados, tendrás que pensar de
+forma estratégica para crear joyas especiales, provocar reacciones en cadena y
+resolver cada puzle.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Jewel Magic is a classic and captivating match-3 puzzle game that invites you into a world of sparkling gems and enchanting challenges. The core objective is to swap adjacent jewels to create a line of three or more identical gems, causing them to vanish and score points. With hundreds of levels, each presenting a unique goal, players must think strategically to create powerful special jewels, trigger dazzling chain reactions, and solve every puzzle presented to them.
+1.  **Domina las gemas especiales:** para superar los niveles más duros debes
+    crear y usar potenciadores. Surgen al combinar más de tres gemas:
+    *   **Joya de rayo:** combina 4 gemas en línea para crear una joya que limpia
+        una fila o columna entera.
+    *   **Bomba:** combina 5 gemas en forma de L o T para crear una bomba que
+        explota y destruye las gemas cercanas.
+    *   **Joya arcoíris:** combina 5 gemas en línea para generar una joya capaz
+        de eliminar todas las gemas de un mismo color.
 
-### Gameplay Strategy & Walkthrough
+2.  **Combina para más potencia:** la estrategia más fuerte consiste en fusionar
+    dos gemas especiales. Por ejemplo, una bomba con una joya de rayo genera una
+    explosión en cruz enorme. Experimenta con combinaciones para descubrir sus
+    efectos.
 
-1.  **[ES]** **Master the Special Gems:** To pass the toughest levels, you must create and utilize special gems. These are formed by matching more than three jewels at once:
-    *   **[ES]** **Lightning Jewel:** Match 4 jewels in a line to create a jewel that can clear an entire row or column.
-    *   **[ES]** **Bomb Jewel:** Match 5 jewels in an L or T shape to create a bomb that explodes and destroys a block of surrounding jewels.
-    *   **[ES]** **Rainbow Jewel:** Match 5 jewels in a straight line to create a powerful rainbow jewel. Swap it with any adjacent jewel to remove all jewels of that color from the board.
+3.  **Céntrate en el objetivo:** cada nivel tiene su misión: llegar a cierta
+    puntuación, limpiar gelatina, bajar objetos, etc. Dedica tus movimientos a
+    avanzar ese objetivo antes de que se agoten.
 
-2.  **[ES]** **Combine for Power:** The ultimate strategy is to combine two special jewels. Swapping a bomb and a lightning jewel, for instance, creates a massive cross-shaped blast. Experiment with different combinations to see their powerful effects.
+4.  **Empieza desde abajo:** hacer matches en la parte inferior del tablero
+    aumenta la probabilidad de cascadas, donde nuevas gemas caen y generan
+    combinaciones automáticas. Esto puede ayudarte a limpiar el tablero mucho
+    más rápido.
 
-3.  **[ES]** **Focus on the Goal:** Each level has a specific objective, such as reaching a target score, clearing all the jelly from behind the jewels, or dropping special items to the bottom. Always focus your efforts on achieving that goal within the limited number of moves.
+### Guía de controles
 
-4.  **[ES]** **Start from the Bottom:** Making matches at the bottom of the grid increases the chance of causing a cascade, where new jewels fall into place and create automatic matches. This can help you clear the board and reach your goal much faster.
+El control se realiza con ratón o pantalla táctil.
 
-### Controls Guide
+*   **Intercambiar gemas:** haz clic y arrastra una gema para intercambiarla con
+    otra adyacente. El intercambio solo se completa si forma una combinación
+    válida de tres o más.
 
-The game is controlled using simple mouse or touch gestures.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
+*   **P: ¿Cómo supero niveles con gemas congeladas o encadenadas?**
+    *   **R:** Debes hacer una combinación que incluya la gema congelada o
+        encadenada. Eso rompe el hielo o la cadena y la deja lista para usarse
+        en futuros matches.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la mejor forma de conseguir una puntuación alta?**
+    *   **R:** Crea tantas gemas especiales y combos como puedas. Las reacciones
+        en cadena largas y las jugadas que limpian muchas gemas en un solo
+        movimiento suelen dar muchos más puntos.
 
-*   **[ES]** **Q: How do I get past levels with frozen or chained jewels?**
-    *   **[ES]** **A:** You must make a match that includes the frozen or chained jewel. This will break the ice or the chain, freeing the jewel to be used in future matches.
-
-*   **[ES]** **Q: What is the best way to get a high score?**
-    *   **[ES]** **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
-
-*   **[ES]** **Q: What happens when I run out of moves?**
-    *   **[ES]** **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
-
+*   **P: ¿Qué pasa si me quedo sin movimientos?**
+    *   **R:** Si no completas el objetivo del nivel antes de quedarte sin
+        movimientos, perderás una vida y tendrás que reiniciar el nivel.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: geometry-dash-lite
-title: '[DE] Geometry Dash Lite'
+title: "Geometry Dash Lite"
 description: >-
-  [DE] Rhythm platforming sampler: jump and fly to the beat through preset
-  levels, avoiding spikes and timing pads/portals.
+  Geometry Dash Lite ist der Einstieg ins Rhythmus-Platforming: Springe und
+  fliege im Takt durch vorgegebene Level, weiche Stacheln aus und nutze Pads
+  und Portale im richtigen Timing.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/geometry-dash-lite.jpg
@@ -15,31 +16,42 @@ score: 4.8/5  (332 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Geometry Dash Lite ist eine abgespeckte Version des bekannten
+Rhythmus-Platformers. Du spielst kuratierte Level mit Jump-Pads,
+Gravitationsportalen und Schiffspassagen, die alle eng auf den Beat der Musik
+abgestimmt sind.
 
+### So spielst du
 
+- Tippe/Springe im Takt, um über Stacheln und Sägen hinwegzukommen.
+- Halte die Taste gedrückt, um das Schiff gleichmäßig fliegen zu lassen und die
+  Höhe zu kontrollieren.
+- Präge dir schwierige Abschnitte ein und nutze – falls verfügbar – den
+  Übungsmodus.
 
-### Overview
-Entry version of the rhythm platformer: clear curated levels with jump pads, gravity portals, and ship sections synced to music.
+### Steuerung
 
-### How to Play
-- Tap/jump on the beat to pass spikes and saws.
-- Hold to fly the ship smoothly; keep altitude steady.
-- Memorize tricky segments and practice mode if available.
+- Leertaste/Maus/Touch zum Springen; gedrückt halten zum Fliegen.  
+- Übungsmodus und Checkpoints je nach Host per zusätzlicher Taste.
 
-### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice toggles vary by host.
+### Tipps
 
-### Tips
-- Turn on practice for tough sections to set checkpoints.
-- Use music cues to predict upcoming jumps.
-- Keep ship inputs gentle; over‑correction causes crashes.
+- Schalte im Übungsmodus Checkpoints frei, um knifflige Stellen zu trainieren.
+- Nutze Musikhints – viele Sprünge sind direkt auf markante Beats gelegt.
+- Beim Schiff nur sanft steuern; zu starke Korrekturen führen schnell zum Crash.
 
 ### FAQ
-- Q: How do I beat hard levels without memorizing everything?
-A: Use practice mode to learn patterns, then switch to normal for a clean run.
-- Q: Why does my ship keep crashing?
-A: You are oversteering; use small holds and release to settle.
-- Q: Are custom levels included?
-A: Lite focuses on built‑in tracks; custom levels depend on host.
 
+- **F: Wie schaffe ich schwere Level, ohne alles auswendig zu lernen?**  
+  **A:** Übe problematische Stellen im Practice-Mode, bis du den Flow kennst,
+  und spiele sie dann im Normalmodus in einem sauberen Run durch.
+
+- **F: Warum crasht mein Schiff ständig?**  
+  **A:** Vermutlich übersteuerst du. Nutze kurze Halten/Loslassen-Impulse,
+  statt das Schiff permanent hart hochzuziehen.
+
+- **F: Gibt es Custom-Levels?**  
+  **A:** Die Lite-Version fokussiert sich auf eingebaute Tracks; ob
+  Community-Level verfügbar sind, hängt vom jeweiligen Host ab.

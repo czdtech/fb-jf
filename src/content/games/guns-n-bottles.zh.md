@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: guns-n-bottles
-title: '[ZH TRANSLATION NEEDED] Guns n'' Bottles'
-description: >-
-  [ZH TRANSLATION NEEDED] Test your timing and precision in this addictive
-  shooting gallery game. Tap at the perfect moment to shoot the bottles as your
-  gun rotates, but avoid the red ones!
+title: "《Guns n' Bottles》旋转手枪打瓶子"
+description: "在《Guns n' Bottles》中，用极致的手感和时机挑战自己的反应力：枪在画面中央不断旋转，你要在恰到好处的瞬间开枪击碎绿色酒瓶，同时小心避开致命的红瓶。"
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/guns-n-bottles.png
 tags:
@@ -18,30 +15,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Guns n' Bottles is a simple yet highly addictive one-touch arcade game that tests your timing and precision. A gun continuously rotates in the center of the screen, and your goal is to tap at the perfect moment to fire a bullet and shatter the bottles that appear. The challenge lies in timing your shot perfectly with the gun's rotation. Hit the green bottles to score points, but be careful to avoid the red ones!
+《Guns n' Bottles》是一款操作极其简单却非常上瘾的一键式街机游戏，核心就在于“时机感”。一把手枪固定在屏幕中央不停旋转，你需要在枪口即将对准目标时点击开火，子弹会飞向屏幕边缘的酒瓶。击中绿色酒瓶就能得分，但一旦误击红色酒瓶，游戏会立刻结束。想要拿高分，就必须在节奏、预判和心理压力之间找到平衡。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Anticipate the Rotation:** Don't tap when your gun is aimed directly at the bottle. You need to lead your shot slightly. Fire just *before* the gun aligns with the target to account for the bullet's travel time and the gun's continuous rotation.
-2.  [ZH TRANSLATION NEEDED] **Go for Streaks:** The key to a high score is to hit multiple bottles in a row without missing. This will often build up a combo multiplier or award bonus coins.
-3.  [ZH TRANSLATION NEEDED] **Avoid the Red Bottles:** Hitting a red bottle will end your game instantly. They are there to trick you and break your rhythm. Always prioritize avoiding them.
-4.  [ZH TRANSLATION NEEDED] **Unlock New Guns:** Use the coins you earn from successful hits to unlock new and cooler-looking guns in the shop. While often cosmetic, they add a fun sense of progression.
+### 游戏玩法与攻略
+1.  **预判旋转角度**：不要等到枪口完全对准酒瓶才射击，需要提前半拍开枪，预留子弹飞行时间以及枪继续旋转的角度。
+2.  **冲连击拿高分**：连续命中多只酒瓶通常会叠加连击或额外金币奖励，高分关键在于保持节奏，不轻易失误。
+3.  **红瓶优先“避让”**：红色酒瓶相当于陷阱，一旦命中就直接 game over。宁可空枪一次，也不要在红瓶附近勉强出手。
+4.  **留意节奏变化**：随着分数提高，旋转速度和瓶子刷新的节奏可能发生变化，注意适应新的节奏而不是机械记忆。
+5.  **解锁新武器**：用攒到的金币可以在商店里解锁不同外观的枪械，有些武器的视觉反馈更清晰，有助于你掌握节奏感。
 
-### Controls Guide
+### 操作说明
 
-[ZH TRANSLATION NEEDED] The game is played with a single action.
+本作完全可以用一个按键完成所有操作：
 
-*   **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
+*   **射击**：在合适的时机点击鼠标左键，或在屏幕任意位置轻触即可开枪。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: What is the objective of the game?**
-     *   **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.
+*   **Q: 这款游戏的目标是什么？**  
+    *   **A:** 你的目标是在不打中红瓶的前提下，连续击中尽可能多的绿色酒瓶，刷新自己的最高得分纪录。
 
-*   **Q: What happens if I miss a bottle or hit a red one?**
-     *   **A:** In either case, the game will end, and your score will be recorded. You must then start over.
+*   **Q: 如果打空或者打中红瓶会怎样？**  
+    *   **A:** 无论是错过目标打空，还是误击红瓶，本局都会立即结束，并记录当前得分，你需要重新开始下一局挑战。
 
-*   **Q: How do I aim?**
-     *   **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
-
+*   **Q: 我可以自己控制瞄准吗？**  
+    *   **A:** 不能，瞄准完全由自动旋转的枪来决定，你唯一能做的就是掌握好出手时机，用节奏和预判来“驾驭”这把不断旋转的枪。

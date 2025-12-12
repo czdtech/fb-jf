@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: thruline
-title: '[FR] Thruline'
-description: >-
-  [FR] Thruline is a clean connect‑the‑network — draw a single continuous line
-  through nodes to satisfy turn/coverage constraints.
+title: Thruline
+description: "Thruline est un jeu de tracé logique\_: dessine une seule ligne continue qui relie tous les nœuds en respectant les contraintes de tournants et de recouvrement."
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thruline.jpg
 tags:
@@ -14,32 +12,47 @@ score: 4.1/5  (1983 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Principe
 
-
-
-### Detailed Game Introduction
-
-Thruline tasks you with tracing one unbroken path that visits all required nodes while obeying rules about turns, crossings, and coverage. Later grids add gates, bridges, and parity tricks that reward early bottleneck placement.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Bottlenecks first: Claim narrow corridors before they close.
-2.  **[FR]** Turn budgeting: Minimize turns on long runs; save them for tight corners.
-3.  **[FR]** Bridge logic: Cross only on provided bridges; treat them as limited resources.
-4.  **[FR]** Early backtrack: Undo as soon as isolation appears.
-5.  **[FR]** Symmetry exploitation: Mirror partial solutions in symmetric layouts.
-
-### Controls Guide
-
-- Drag to draw; undo/clear via UI; some builds show conflict highlights.
-
-### Frequently Asked Questions (FAQ)
+Tu dois tracer un unique chemin qui passe par tous les points nécessaires
 
 - Q: I end one edge short.
 
-A: You likely mis‑spent a turn; reroute a long segment straighter.
+### Foire aux questions (FAQ)
+
+- Drag to draw; undo/clear via UI; some builds show conflict highlights.
+
+
+- Symmetry exploitation: Mirror partial solutions in symmetric layouts.
+
+- Early backtrack: Undo as soon as isolation appears.
+
+- Bridge logic: Cross only on provided bridges; treat them as limited resources.
+
+- Turn budgeting: Minimize turns on long runs; save them for tight corners.
+### Commandes
+
+- Symmetry exploitation: Mirror partial solutions in symmetric layouts.
+
+- Early backtrack: Undo as soon as isolation appears.
+
+- Bridge logic: Cross only on provided bridges; treat them as limited resources.
+
+- Turn budgeting: Minimize turns on long runs; save them for tight corners.
+
+- Bottlenecks first: Claim narrow corridors before they close.
+
+### Guide de jeu
+sans te bloquer. Les grilles avancées ajoutent ponts, portes et contraintes
 
 - Q: Are crossings legal?
+supplémentaires.
+
+
 
 A: Only on marked bridges.
 
+- Q: Are crossings legal?
+
+
+A: Only on marked bridges.

@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: tap-tap-shots
-title: '[KO] Tap Tap Shots'
+title: Tap Tap Shots 탭 탭 샷츠
 description: >-
-  [KO] Test your timing and rhythm in Tap-Tap Shots, an addictive one-touch
-  basketball game. Tap to make the ball bounce and score as many consecutive
-  baskets as you can. Find your rhythm, aim for clean shots, and set the ball on
-  fire to achieve a high score!
+  Tap Tap Shots는 한 번의 탭으로 농구공을 튀겨 골대에 넣는 타이밍형 아케이드 게임입니다. 리듬을 찾고 연속 득점을 이어 불꽃
+  모드에 도전해 보세요.
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/tap-tap-shots.jpg
 tags:
@@ -19,35 +17,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Tap-Tap Shots is a simple, minimalist, and highly addictive arcade basketball game. The goal is to score as many points as possible by tapping the screen to make the ball bounce into the hoop. The challenge comes from the moving hoop and the pressure of the shot clock, requiring perfect timing and a steady rhythm to succeed.
+Tap Tap Shots는 단순하고 미니멀한 룰이지만 중독성은 강한 아케이드 농구 게임입니다.
+화면을 탭해 농구공을 튀겨 올리고, 움직이는 골대에 정확히 넣어 최대한 많은
+득점을 올리는 것이 목표입니다. 제한 시간과 움직이는 골대 덕분에, 깔끔한
+타이밍과 일정한 리듬을 찾는 것이 중요합니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-- **Objective:** Score as many baskets in a row as you can.
-- **Tapping:** Each tap makes the ball jump. You can tap multiple times in the air to gain more height.
-- **Timing:** The key to scoring is to tap at the right moment to guide the ball into the hoop.
-- **Combos:** Scoring consecutive baskets will set the ball on fire, which activates a score multiplier for bonus points. Clean shots that don't touch the rim also award extra points.
+- **목표:**
+  가능한 한 많은 연속 골을 넣어 최고 점수를 노리는 것입니다.
+- **탭 동작:**
+  화면을 탭할 때마다 공이 위로 튀어 오르며, 공이 공중에 있을 때 여러 번
+  탭해 높이를 더할 수도 있습니다.
+- **타이밍:**
+  골대의 위치와 공의 궤적을 보며, 정확한 순간에 탭해 골대 안으로 떨어지게
+  만드는 것이 핵심입니다.
+- **콤보:**
+
 - **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
+  연속으로 골을 성공시키면 공이 불타오르는 연출과 함께 추가 점수를 얻을 수
+  있습니다.
 
-### Controls Guide
+### 조작 방법 안내
+
 
 The controls are extremely simple:
-- **PC:** `Left Mouse Button` or `Spacebar` to tap.
-- **Mobile:** Tap the screen.
+- **PC:** 마우스 왼쪽 버튼 또는 스페이스바를 탭해 공을 튀깁니다.
+- **모바일:** 화면을 터치해 같은 방식으로 조작합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**How do I get a high score?**
+**Q: 왜 골대가 계속 위치를 바꾸나요?**
 
-Focus on finding a consistent rhythm. Don't rush your shots. Aim for "clean" shots (not touching the rim) to get bonus points and try to build up a combo to set the ball on fire for a score multiplier.
+A: 난이도와 리듬감을 높이기 위한 요소입니다. 골대 이동 패턴을 눈에 익히면,
+   공이 어느 높이에서 골대와 만날지 미리 예상하기가 쉬워집니다.
 
-**What happens when the ball is on fire?**
+**Q: 연속 득점이 어렵습니다.**
 
-When the ball is on fire, you are in a combo streak. Every basket you score while the ball is on fire will be worth more points.
-
-**Is there a trick to aiming?**
-
-It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
-
+A: 처음에는 공이 골대 높이 근처에 있을 때 한 번, 부족하다 싶으면 추가로
+   한 번 정도만 탭하는 식으로 일정한 루틴을 만들어 보세요. 무작정 연타하기보다
+   패턴을 정해 두면 콤보 유지에 도움이 됩니다.

@@ -1,84 +1,40 @@
 ---
+title: "Jigsaw Puzzles Hexa"
+description: "クラシックなジグソーパズルの新しいひねり！六角形のピースをドラッグ＆ドロップして、美しい高解像度画像を完成させます。すべての年齢のためのリラックスして挑戦的なパズルです。"
+iframeSrc: "https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/"
+thumbnail: "/new-images/jigsaw-puzzles-hexa.jpg"
+urlstr: "jigsaw-puzzles-hexa"
+score: "4.5/5  (2600 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: jigsaw-puzzles-hexa
-title: '[JA TRANSLATION NEEDED] Jigsaw Puzzles Hexa'
-description: >-
-  [JA TRANSLATION NEEDED] A new twist on the classic jigsaw puzzle! Drag and
-  drop hexagonal pieces to complete beautiful high-definition images. A relaxing
-  and challenging puzzle for all ages.
-iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
-thumbnail: /new-images/jigsaw-puzzles-hexa.jpg
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.5/5  (2600 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Jigsaw Puzzles Hexaは、時代を超越したジグソーパズルに新鮮でモダンなアレンジを提供します。伝統的なユニークな形状の連動するピースの代わりに、このゲームは六角形のブロッククラスターを使用します。目標は、インベントリからこれらのヘキサ形状をドラッグし、メインボードに正しく配置して、美しい高解像度の画像を完成させることです。時間制限がないため、リラックスしながらも精神的に刺激的な体験を提供し、空間推論に挑戦します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Jigsaw Puzzles Hexa offers a refreshing and modern take on the timeless jigsaw puzzle. Instead of traditional, uniquely shaped interlocking pieces, this game uses clusters of hexagonal blocks. Your goal is to drag these hexa shapes from your inventory and place them correctly onto the main board to complete a beautiful, high-definition picture. With no time limits, it provides a relaxing yet mentally stimulating experience that challenges your spatial reasoning.
+1.  **図形を分析する:** ピースの配置を開始する前に、与えられた図形を見てください。通常のジグソーとは異なり、幾何学的なブロッククラスターで作業しています。それらがボード上でどのように一緒に適合するかを精神的に描いてください。
+2.  **ユニークなアウトラインから始める:** パズルアウトラインの特徴的な部分を探します。長い直線エッジまたはユニークなコーナーがある場合は、その特定の形状に適合するインベントリ内のピースを見つけます。これにより、パズルをアンカーするのに役立ちます。
+3.  **セクションごとに作業する:** ボード全体に一度にピースを配置しようとしないでください。コーナーや画像内の特定のオブジェクトのような1つの領域の完成に焦点を当てます。1つのセクションを完成させることで、多くの場合、残りのピースがどこに行くかを見るのがはるかに簡単になります。
+4.  **試行錯誤:** ピースには通常のジグソーのようなユニークな画像スニペットがないため、多くの場合、試行錯誤を使用する必要があります。ピースが適合しない場合は、インベントリにドラッグして戻し、別のものを試してください。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Analyze the Shapes:** Before you start placing pieces, take a look at the shapes you are given. Unlike a normal jigsaw, you are working with geometric block clusters. Mentally picture how they might fit together on the board.
-[JA TRANSLATION NEEDED] 2.  **Start with Unique Outlines:** Look for distinctive parts of the puzzle outline. If there is a long, straight edge or a unique corner, find the piece in your inventory that would fit that specific shape. This helps to anchor your puzzle.
-[JA TRANSLATION NEEDED] 3.  **Work by Section:** Don't try to place pieces all over the board at once. Focus on completing one area, like a corner or a specific object in the picture. Completing one section often makes it much easier to see where the remaining pieces go.
-[JA TRANSLATION NEEDED] 4.  **Trial and Error:** Since the pieces don't have unique picture snippets like a normal jigsaw, you will often need to use trial and error. If a piece doesn't fit, simply drag it back to your inventory and try a different one.
+ゲームは、シンプルなドラッグ＆ドロップメカニクスでプレイされます。
 
-### Controls Guide
+*   **選択して配置:** マウスまたは指を使用して、インベントリエリアから六角形のピースクラスターをクリックしてドラッグし、メインパズルボードにドロップします。
 
-[JA TRANSLATION NEEDED] The game is played with a simple drag-and-drop mechanic.
+### よくある質問 (FAQ)
 
-*   **Select and Place:** Use your mouse or finger to click and drag a hexagonal piece cluster from your inventory area and drop it onto the main puzzle board.
-    - **A:** No. In this style of puzzle, the pieces have a fixed orientation. The challenge comes from figuring out how they fit together as they are.（日本語訳が必要）
-    - **A:** This usually means one of the pieces you have already placed is in the wrong spot. You may need to remove one or more pieces from the board and rethink your arrangement. If the game offers a hint system, now would be a good time to use it.（日本語訳が必要）
-    - **A:** No, the game is designed to be a relaxing, stress-free experience. You can take as much time as you need to solve each puzzle.（日本語訳が必要）
-    - **A:** No. In this style of puzzle, the pieces have a fixed orientation. The challenge comes from figuring out how they fit together as they are.（日本語訳が必要）
-    - **A:** This usually means one of the pieces you have already placed is in the wrong spot. You may need to remove one or more pieces from the board and rethink your arrangement. If the game offers a hint system, now would be a good time to use it.（日本語訳が必要）
-    - **A:** No, the game is designed to be a relaxing, stress-free experience. You can take as much time as you need to solve each puzzle.（日本語訳が必要）
+*   **Q: ピースを回転できますか？**
+    *   **A:** いいえ。このスタイルのパズルでは、ピースは固定された向きを持っています。チャレンジは、それらがそのままどのように一緒に適合するかを理解することから来ます。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 行き詰まって、ピースがどこにも適合しません！どうすればいいですか？**
+    *   **A:** これは通常、既に配置したピースの1つが間違った場所にあることを意味します。ボードから1つ以上のピースを削除し、配置を再考する必要がある場合があります。ゲームがヒントシステムを提供している場合、今が使用する良い時期です。
 
-*   **Q: Can I rotate the pieces?**
-[JA TRANSLATION NEEDED]     *   **A:** No. In this style of puzzle, the pieces have a fixed orientation. The challenge comes from figuring out how they fit together as they are.
-
-*   **Q: I'm stuck and a piece won't fit anywhere! What should I do?**
-[JA TRANSLATION NEEDED]     *   **A:** This usually means one of the pieces you have already placed is in the wrong spot. You may need to remove one or more pieces from the board and rethink your arrangement. If the game offers a hint system, now would be a good time to use it.
-
-*   **Q: Is there a time limit?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** No, the game is designed to be a relaxing, stress-free experience. You can take as much time as you need to solve each puzzle.
-
-
-
-
-
-
-
-
-
-
-    - **A:** No, the game is designed to be a relaxing, stress-free experience. You can take as much time as you need to solve each puzzle.
-- **Q: Is there a time limit?**
-    - **A:** This usually means one of the pieces you have already placed is in the wrong spot. You may need to remove one or more pieces from the board and rethink your arrangement. If the game offers a hint system, now would be a good time to use it.
-- **Q: I'm stuck and a piece won't fit anywhere! What should I do?**
-    - **A:** No. In this style of puzzle, the pieces have a fixed orientation. The challenge comes from figuring out how they fit together as they are.
-- **Q: Can I rotate the pieces?**
-### よくある質問（FAQ）
-- **Select and Place:** Use your mouse or finger to click and drag a hexagonal piece cluster from your inventory area and drop it onto the main puzzle board.
-
-
-
-
-
-
-    - **A:** No, the game is designed to be a relaxing, stress-free experience. You can take as much time as you need to solve each puzzle.
-- **Q: Is there a time limit?**
-    - **A:** This usually means one of the pieces you have already placed is in the wrong spot. You may need to remove one or more pieces from the board and rethink your arrangement. If the game offers a hint system, now would be a good time to use it.
-- **Q: I'm stuck and a piece won't fit anywhere! What should I do?**
-    - **A:** No. In this style of puzzle, the pieces have a fixed orientation. The challenge comes from figuring out how they fit together as they are.
+*   **Q: 時間制限はありますか？**
+    *   **A:** いいえ、ゲームはリラックスしたストレスフリーな体験になるように設計されています。各パズルを解決するために必要なだけ時間をかけることができます。

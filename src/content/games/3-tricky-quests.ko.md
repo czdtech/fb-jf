@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 3-tricky-quests
-title: '[KO] Brain Test 3: Tricky Quests'
+title: 'Brain Test 3: Tricky Quests 브레인 테스트 3: 트리키 퀘스트'
 description: >-
-  [KO] Here's your chance to play Brain Test 3: Tricky Quests Game. Have fun
-  with this one!
+  기발한 퍼즐과 모험 요소가 결합된 Brain Test 3: Tricky Quests입니다.
+  아이템을 모으고 사용하며 아버지를 구하기 위한 Alyx의 여정을 따라가 보세요.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/3-tricky-quests.jpg
 tags:
@@ -15,74 +15,85 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+*Brain Test 3: Tricky Quests*는 Unico Studio가 선보이는 세 번째 작품으로, 기발한 퍼즐과 스토리형 모험을 한 번에 즐길 수 있습니다.
 
+플레이어는 **Alyx**가 되어 여섯 개의 파워 젬을 모아 마법에 갇힌 아버지를 구해야 합니다. 단일 레벨을 나열한 구조가 아니라 서로 연결된 장소를 탐험하며 이야기를 진행합니다.
 
+**주요 특징:**
 
-*Brain Test 3: Tricky Quests* is the third installment in the series from Unico Studio. While preserving the core "think outside the box" and "break the rules" puzzle-solving gameplay, this title introduces a significant evolution by incorporating stronger adventure and narrative elements, making it feel more like a puzzle-adventure game.
-
-In the game, players take on the role of **Alyx**, who embarks on a journey to find six Power Gems to save her magically trapped father. Unlike the level-based structure of its predecessors, *Brain Test 3* features an interconnected game world and a complete, overarching storyline.
-
-**Key Features:**
-
-*   **[KO]** **Fusion of Adventure and Puzzles:** The game is no longer a linear sequence of levels. Players must explore different scenes, find items, and use them to solve puzzles that block their path.
-*   **[KO]** **Inventory System:** This is the biggest new feature. Players can collect various items found in the environment and store them in Alyx's backpack. You need to figure out how to combine these items or apply them to specific scenarios at the right moment.
-*   **[KO]** **Workshop System:** Alyx has a workshop where you can combine key quest items or upgrade your tools, preparing you for the adventures ahead.
-*   **[KO]** **Interactive Dialogue:** The game introduces a dialogue choice system. By talking to NPCs (Non-Player Characters), you can obtain clues and advance the plot. Different choices can lead to different (and often humorous) outcomes.
-*   **[KO]** **Classic Tricky Puzzles:** Despite the new systems, the heart of the game remains the same: tricky puzzles that require you to use your imagination and challenge conventional thinking. Classic interactions like dragging, shaking, and zooming are still key to finding solutions.
+*   **모험 + 퍼즐 조합:** 장면마다 숨겨진 오브젝트가 있어 길을 막는 문제를 해결해야 합니다.
+*   **인벤토리 시스템:** 아이템을 가방에 보관하고, 언제 어디에 사용할지 스스로 판단해야 합니다.
+*   **작업실:** 퀘스트 조각을 조립하거나 도구를 업그레이드하는 거점입니다.
+*   **대화 선택지:** NPC와의 대화가 힌트를 제공하거나 색다른 반응을 이끌어 냅니다.
+*   **클래식 트리키 퍼즐:** 드래그, 흔들기, 확대/축소 같은 상호작용이 여전히 정답의 핵심입니다.
 
 ---
 
-### **2. Game Walkthrough**
+### **2. 게임 공략 가이드**
 
-The strategy for *Brain Test 3* not only inherits the mindset of the previous games but also requires a greater focus on resource management and exploration.
+이전 시리즈의 사고방식을 유지하되, 탐색과 자원 관리를 조금 더 강조해야 합니다.
 
-*   **[KO]** **Core Principle: Explore and Collect**
-    *   **[KO]** When entering a new area, don't rush to solve the immediate puzzle. First, carefully observe and tap on all suspicious objects to see what can be collected into your inventory.
-*   **[KO]** **Master Your Inventory:**
-    *   **[KO]** **Drag and Use:** When facing a challenge, open your backpack and try dragging items from it onto characters or objects in the scene.
-    *   **[KO]** **Combine Items:** Sometimes, you need to drag two items onto each other within the inventory to craft a new, more useful tool.
-    *   **[KO]** **Check All Items:** Don't forget what you're carrying. The key to the current puzzle might be an inconspicuous item you collected a long time ago.
-*   **[KO]** **Pay Attention to Clues in Dialogue:**
-    *   **[KO]** Read all conversations carefully. NPCs' words often directly or indirectly hint at what you need to do next or what item you should be looking for.
-*   **[KO]** **Checklist for When You're Stuck:**
-    1.   **[KO]** Have I interacted with every element in the scene? (Tapping, dragging, rubbing, etc.)
-    2.   **[KO]** Is there an item in my backpack that I can use here?
-    3.   **[KO]** Can I combine items in my backpack to create a new tool?
-    4.   **[KO]** Do I need to return to a previous scene to find a missed item?
-    5.   **[KO]** Did I miss any key information in the dialogue?
-*   **[KO]** **The Hint System is Still Your Friend:**
-    *   **[KO]** If all else fails, the built-in "light bulb" hint system is still available. It will point you toward the critical step or the required item, helping you overcome the obstacle.
+*   **최대한 탐색하고 수집하기**
+    *   새로운 구역에 들어가면 바로 퍼즐을 풀기보다, 화면 곳곳을 살피고 수상한 오브젝트를 모두 탭해 인벤토리를 채우세요.
+*   **인벤토리 다루기:**
+    *   **드래그해서 사용하기:** 가방을 열고 필요한 아이템을 장면 속 캐릭터나 오브젝트 위로 끌어다 놓습니다.
+    *   **아이템 조합:** 가방 안에서 아이템 둘을 겹쳐 새로운 도구로 합칠 수 있습니다.
+    *   **보유 아이템 점검:** 예전에 주웠던 평범한 물건이 지금 퍼즐의 핵심일 수 있습니다.
+*   **대사 속 단서에 집중하기:**
+    *   NPC의 대사에는 다음 목표나 필요한 아이템에 대한 힌트가 자주 담겨 있으니 꼼꼼히 읽어 보세요.
+*   **막혔을 때 체크리스트:**
+    1.  장면의 모든 요소와 상호작용해 봤는가? (탭, 드래그, 문지르기 등)
+    2.  인벤토리에 지금 상황에 쓸 수 있는 아이템이 없는가?
+    3.  아이템 조합으로 새 도구를 만들 수 없는가?
+    4.  이전 장면에 놓친 아이템이 있는지 다시 확인해 봤는가?
+    5.  NPC의 힌트성 대사를 빠르게 넘기지 않았는가?
+*   **힌트 시스템은 여전히 든든한 친구:**
+    *   더 이상 진전이 없을 때는 전구 아이콘을 눌러 핵심 단계만 짚어 보세요. 정답을 통째로 보여 주진 않지만 필요한 방향을 알려 줍니다.
 
 ---
 
-### **3. Operation Guide**
+### **3. 조작 안내**
 
-The controls in *Brain Test 3* build upon the foundation of its predecessors, with the addition of inventory interactions.
+*Brain Test 3*의 조작은 전작을 기반으로 하면서, 여기에 인벤토리 조작이
+추가된 형태입니다.
 
-| Action | Description | Example |
+| 동작 | 설명 | 예시 |
 | :--- | :--- | :--- |
-| **Tap/Click** | To interact with objects, characters, or dialogue options; to collect items. | Tapping a key on the ground to pick it up; selecting a dialogue choice. |
-| **Drag & Drop** | To move objects within the scene or to use an item from the inventory. | Dragging a ladder to a tree; dragging food from the backpack to a dog. |
-| **Item Combination** | Within the open inventory, drag one item on top of another. | Combining a rope and a hook to create a grappling hook. |
-| **Swipe** | To wipe away dirt or move obstacles. | Swiping away a pile of sand to uncover an item beneath it. |
-| **Pinch to Zoom** | To enlarge or shrink specific objects. | Zooming in on a photo to see a detail. |
-| **Shake/Tilt Device** | To interact using the phone's physical sensors. | Shaking the phone to make a coconut fall from a tree. |
+| **탭/클릭** | 물체나 캐릭터, 대화 선택지를 선택하고 아이템을 줍습니다. | 바닥에 떨어진 열쇠를 탭해 줍기, 대화 선택지를 고르기. |
+| **드래그 & 드롭** | 장면 속 물체를 옮기거나, 인벤토리 아이템을 꺼내 사용할 때 씁니다. | 사다리를 나무 쪽으로 끌어다 놓기, 가방에서 꺼낸 음식을 개에게 주기. |
+| **아이템 조합** | 인벤토리를 연 상태에서 한 아이템을 다른 아이템 위로 끌어다 놓습니다. | 밧줄과 갈고리를 합쳐 그래플링 훅 만들기. |
+| **스와이프** | 먼지를 털어 내거나 가려진 물체를 밀어낼 때 사용합니다. | 모래 더미를 쓸어내어 그 아래 숨은 아이템 찾기. |
+| **핀치 줌** | 두 손가락으로 화면을 확대하거나 축소합니다. | 사진을 확대해 숨겨진 단서를 확인하기. |
+| **기기 흔들기/기울이기** | 휴대폰의 센서를 이용해 장면에 변화를 줍니다. | 휴대폰을 흔들어 야자수에서 코코넛이 떨어지게 만들기. |
 
 ---
 
-### **4. Frequently Asked Questions (FAQ)**
+### **4. 자주 묻는 질문 (FAQ)**
 
-**Q: How do I use the items in my backpack (inventory)?**
-**A:** Tap the backpack icon at the bottom of the screen to open it. Then, press and hold the item you want to use and drag it to the target location in the game scene. To combine items, drag one item onto another within the inventory screen.
+**Q: 가방(인벤토리) 속 아이템은 어떻게 사용하나요?**
+**A:** 화면 하단의 가방 아이콘을 눌러 인벤토리를 연 뒤, 사용하고 싶은 아이템을
+길게 눌러 장면 속 목표 위치로 끌어다 놓으면 됩니다. 두 아이템을 조합하고 싶다면,
+인벤토리 화면 안에서 한 아이템을 다른 아이템 위로 드래그하세요.
 
-**Q: What is the fundamental difference between Brain Test 3 and the first two games?**
-**A:** The main difference lies in the game structure. *Brain Test 1* is a collection of standalone puzzles. *Brain Test 2* introduced story-based chapters. *Brain Test 3* evolves into a full-fledged puzzle-adventure game with a complete main story, an inventory system, and an interconnected map, offering more freedom and continuity.
+**Q: Brain Test 3와 앞선 두 작품의 가장 큰 차이는 무엇인가요?**
+**A:** 구조에서 차이가 큽니다. *Brain Test 1*은 서로 연결되지 않은 단일 퍼즐들의
+모음집에 가깝고, *Brain Test 2*는 에피소드 형식의 스토리 챕터를 도입했습니다.
+*Brain Test 3*는 여기에 한 걸음 더 나아가, 메인 스토리와 인벤토리, 서로 연결된
+맵을 갖춘 본격 퍼즐 어드벤처 게임에 가깝습니다.
 
-**Q: Why can't I get past a certain area?**
-**A:** It's highly likely you are missing a key item. Try returning to previously visited scenes and search carefully for any collectible items you may have missed. Also, check if you can craft a new quest item in your workshop.
+**Q: 특정 구역을 도저히 넘어갈 수 없습니다. 왜 그런가요?**
+**A:** 대부분 중요한 아이템 하나를 놓쳤거나, 아직 조합하지 않은 재료가 있는
+경우입니다. 이전에 방문했던 장소를 다시 돌아보며 수집 가능한 아이템이 남아
+있지 않은지 확인하고, 작업실에서 새 퀘스트 아이템을 만들 수 있는지도 함께
+확인해 보세요.
 
-**Q: Is this game free?**
-**A:** Yes, *Brain Test 3* is free to download and play, but it contains ads. You can watch ads to receive hints. The game also offers an in-app purchase to remove ads.
+**Q: 이 게임은 무료인가요?**
+**A:** 네, *Brain Test 3*는 기본적으로 무료로 다운로드해 플레이할 수 있지만,
+광고가 포함되어 있습니다. 광고를 시청하면 힌트를 얻을 수 있고, 인앱 결제를
+통해 광고 제거 옵션을 구매할 수도 있습니다.
 
-**Q: What is the Workshop for?**
-**A:** The workshop is a crucial location for advancing the main plot. When you collect specific quest items (like fragments of a Power Gem), you need to return to the workshop to assemble them or to craft/upgrade special tools necessary for your progress.
+**Q: 작업실(워크숍)은 어떤 역할을 하나요?**
+**A:** 메인 스토리를 진행하기 위한 핵심 공간입니다. 파워 젬 조각 같은 퀘스트
+아이템을 모았다면 작업실로 돌아와 조립하거나, 앞으로 필요한 특수 도구를
+제작·강화해야 다음 구역으로 나아갈 수 있습니다.
+

@@ -1,117 +1,58 @@
 ---
+title: "Bob the Robber ボブ・ザ・ロバー"
+description: "「Bob the Robber」で義賊になろう！警備員をかわし、カメラを無効化し、金庫を破れ。ステルスとパズルが融合した大人気泥棒アクションゲーム。"
+iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html"
+thumbnail: "/new-images/bob-the-robber.jpg"
+urlstr: "bob-the-robber"
+score: "3.7/5  (403 votes)"
+tags: ["stealth", "puzzle"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: bob-the-robber
-title: '[JA TRANSLATION NEEDED] Bob the Robber'
-description: >-
-  [JA TRANSLATION NEEDED] Become a master thief in Bob the Robber! Sneak past
-  guards, disable cameras, crack safes, and steal valuable loot in this
-  challenging stealth puzzle-platformer series.
-iframeSrc: >-
-  https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
-thumbnail: /new-images/bob-the-robber.jpg
-tags:
-  - stealth
-  - puzzle
-score: 3.7/5  (403 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Bob the Robber（ボブ・ザ・ロバー）*は、2D視点のステルス・パズルアクションゲームシリーズです。プレイヤーは正義感あふれる怪盗ボブ（現代版ロビン・フッドのような存在）となり、悪徳な金持ちや犯罪組織の建物に忍び込みます。各レベルの目的は、敵に見つからずに最深部にあるターゲットの宝物を盗み出し、脱出することです。
 
+ゲームプレイの中心は「見つからないこと（ステルス）」です。巡回する警備員、監視カメラ、レーザーセンサー、電子ロックされた扉など、多彩なセキュリティが待ち受けています。影に隠れてやり過ごしたり、背後から気絶させたり、暗号を見つけて扉を開けたりと、観察力とタイミングが試される緊張感あるパズル要素が満載です。
 
-### Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Bob the Robber is a series of 2D stealth puzzle-platformer games. The player takes on the role of Bob, a skilled thief with a sense of justice (often portrayed as a modern-day Robin Hood), who infiltrates various secure locations like houses, banks, and museums. The objective of each level is to navigate the environment, collect a specific target loot item, and reach the exit without getting caught.
+*   **忍耐が最大の武器:** 急いではいけません。警備員の巡回ルートに飛び込んでしまうのが最も多い失敗原因です。新しい部屋に入ったら、まず敵とカメラの動きをじっくり観察しましょう。
+*   **影（Shadows）を活用する:** 背景が暗くなっている場所は安全地帯です。ここに立ち止まっている間、ボブは完全に闇に紛れて見えなくなります。警備員が目の前を通っても気づかれません（ただしぶつかるとバレます）。
+*   **警備員への対処法:**
+    *   **やり過ごす:** これが基本です。影に隠れて通り過ぎるのを待ちましょう。
+    *   **気絶させる:** どうしても通れない時は、背後から近づいて警棒で気絶させることができます（スペースキー）。ただし、気絶には数秒かかり、その間は無防備になるので注意が必要です。
+*   **カメラのタイミング:** 監視カメラは一定のリズムで首を振っています。カメラの視界（光の範囲）が逸れた瞬間に素早く通り抜けましょう。ダッシュで抜ける方が見つかるリスクを減らせます。
+*   **環境を読む:** 壁に貼ってあるメモや書類に注目してください。数字が書かれていれば、それは電子ロックの解除コードである可能性が高いです。
+*   **ピッキング:** 鍵開けのミニゲームでは、ピンが正しい位置に来た瞬間にボタンを押す正確さが求められます。焦らずリズムを掴みましょう。
+*   **隠し財産:** メインの目的以外にも、引き出しや棚、絵画の裏などにお金が隠されています。これらを集めるとクリア時のスコアが上がります。
 
-[JA TRANSLATION NEEDED] The core gameplay revolves around avoiding detection. Levels are filled with a variety of security measures, including patrolling guards, security cameras, laser grids, and locked doors. The player must use observation, timing, and stealth to overcome these obstacles. Hiding in the shadows is a key mechanic, making Bob invisible to most threats. Successfully completing a level often requires solving small puzzles, such as finding keycodes or lockpicking doors, all while remaining unseen.
+### 操作ガイド
 
-The controls are generally consistent across the series and are very simple.（日本語訳が必要）
-### Gameplay Strategy
+シリーズを通してほぼ共通のシンプルな操作です。
 
--   **Patience is Your Best Tool:** Do not rush. The most common mistake is running into a guard's patrol route. Take time at the start of each screen to observe the patterns of guards and cameras.
-    - **Knockout:** You can sneak up behind a guard and knock them out with your club (usually with the Spacebar). Be aware that this takes a few seconds and makes a noise that can alert nearby guards. A knocked-out guard will eventually wake up in some games, or can be discovered by other guards.（日本語訳が必要）
-- **Read the Environment:** Look for clues. Security codes for keypads are often written on pieces of paper or walls within the level. Pay attention to everything.（日本語訳が必要）
-- **Locks and Safes:** Lockpicking is a common mini-game. It usually requires you to press a button at the exact moment a pin is in the correct position. This requires good timing.（日本語訳が必要）
-- **収集する All the Loot:** Besides the main objective, there are often extra cash stashes hidden in drawers, shelves, or behind paintings. Finding these will improve your final score.
-- **W/A/S/D or Arrow Keys:** 移動する Bob left, right, up, and down (for stairs/ladders).
-**1. A guard saw me even though I was in the shadows. Why?**（日本語訳が必要）
-### コントロール Guide
-- **Up Arrow Key or W:** Interact with objects. This is used for:（日本語訳が必要）
-- **Timing Cameras:** Security cameras sweep back and forth in a predictable pattern. Wait for the camera's light cone to move away from your path before you cross. 走るning under a camera is faster and reduces your exposure time.
-    - Searching for loot.（日本語訳が必要）
-    - Entering codes.（日本語訳が必要）
-    - Climbing stairs or ladders.（日本語訳が必要）
-- **Z, X, C (in later games):** Use special gadgets if available.（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
-- **Spacebar:** Swing your club to knock out a guard from behind.（日本語訳が必要）
-    - **避けるance:** The best method is to simply wait for a guard to pass and then sneak by behind them.
-    - Opening doors.（日本語訳が必要）
--   **Use the Shadows:** Shadows are your safe zones. Whenever possible, move from one shadow to another. A guard or camera will not spot you while you are hidden in a shadow, unless a guard physically walks into you.
--   **Dealing with Guards:**
-    - Climbing stairs or ladders.（日本語訳が必要）
-[JA TRANSLATION NEEDED]     -   **Avoidance:** The best method is to simply wait for a guard to pass and then sneak by behind them.
-[JA TRANSLATION NEEDED]     -   **Knockout:** You can sneak up behind a guard and knock them out with your club (usually with the Spacebar). Be aware that this takes a few seconds and makes a noise that can alert nearby guards. A knocked-out guard will eventually wake up in some games, or can be discovered by other guards.
--   **Timing Cameras:** Security cameras sweep back and forth in a predictable pattern. Wait for the camera's light cone to move away from your path before you cross. Running under a camera is faster and reduces your exposure time.
--   **Read the Environment:** Look for clues. Security codes for keypads are often written on pieces of paper or walls within the level. Pay attention to everything.
--   **Locks and Safes:** Lockpicking is a common mini-game. It usually requires you to press a button at the exact moment a pin is in the correct position. This requires good timing.
--   **Collect All the Loot:** Besides the main objective, there are often extra cash stashes hidden in drawers, shelves, or behind paintings. Finding these will improve your final score.
+*   **W / A / S / D キー（または矢印キー）:** 移動。W（または↑）で梯子を登ったりドアに入ったりします。
+*   **上矢印キー（またはW）:** インタラクト（調べる/実行）。
+    *   ドアを開ける。
+    *   鍵を開ける。
+    *   棚などを漁る。
+    *   コードを入力する。
+    *   梯子や階段を昇り降りする。
+*   **スペースキー:** 背後から攻撃して気絶させる。
+*   **Z / X / C（後期作品）:** 入手したガジェットを使用する。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] The controls are generally consistent across the series and are very simple.
+**Q: 影に隠れていたのに見つかりました。なぜ？**  
+> 警備員があなたにぶつかったからです。影にいる間は視界から隠せますが、物理的にはそこに立っているので、巡回ルート上には立たないようにしましょう。
 
--   **W/A/S/D or Arrow Keys:** Move Bob left, right, up, and down (for stairs/ladders).
--   **Up Arrow Key or W:** Interact with objects. This is used for:
-[JA TRANSLATION NEEDED]     -   Opening doors.
-[JA TRANSLATION NEEDED]     -   Picking locks.
-[JA TRANSLATION NEEDED]     -   Searching for loot.
-[JA TRANSLATION NEEDED]     -   Entering codes.
-[JA TRANSLATION NEEDED]     -   Climbing stairs or ladders.
--   **Spacebar:** Swing your club to knock out a guard from behind.
--   **Z, X, C (in later games):** Use special gadgets if available.
+**Q: レーザーセンサーはどうやって通りますか？**  
+> 近くの配電盤や制御パネルを見つけて電源を切る必要があります。スイッチを押すだけのこともあれば、ミニゲームで解除する場合もあります。
 
-### Frequently Asked Questions (FAQ)
+**Q: 気絶させた警備員がまた起きてきました！**  
+> 作品によっては気絶が一時的で、しばらくすると復活します。また、倒れた警備員を別のガードが見つければアラームが鳴ります。死角や迂回路がない時だけ最終手段として使ってください。
 
-[JA TRANSLATION NEEDED] **1. A guard saw me even though I was in the shadows. Why?**
-[JA TRANSLATION NEEDED] > If a guard walks directly into you, they will detect you even if you are in a shadow. Shadows make you invisible to line-of-sight detection, but not to physical contact.
-
-[JA TRANSLATION NEEDED] **2. How do I get past the laser grids?**
-[JA TRANSLATION NEEDED] > You usually need to find a switch or a control panel somewhere in the level to disable the lasers. Sometimes this involves a small mini-game or just a single interaction.
-
-[JA TRANSLATION NEEDED] **3. I knocked out a guard, but then I got caught. What happened?**
-[JA TRANSLATION NEEDED] > Another guard likely saw the body of the knocked-out guard and raised the alarm. When you knock out a guard, make sure their body is not on another guard's patrol route.
-
-[JA TRANSLATION NEEDED] **4. Is it better to knock out guards or sneak past them?**
-[JA TRANSLATION NEEDED] > Sneaking is almost always the better and safer option. Knocking out guards should be a last resort or used only when you are certain no other guards will discover the body. It's a tool to create an opening, not a primary strategy.
-
-
-    - Picking locks.（日本語訳が必要）
-    - Searching for loot.（日本語訳が必要）
-    - Entering codes.（日本語訳が必要）
-
-
-
-
-
-### よくある質問（FAQ）
-- **Z, X, C (in later games):** Use special gadgets if available.
-- **Spacebar:** Swing your club to knock out a guard from behind.
-    - Climbing stairs or ladders.
-    - Entering codes.
-
-
-
-### よくある質問（FAQ）
-- **Z, X, C (in later games):** Use special gadgets if available.
-- **Spacebar:** Swing your club to knock out a guard from behind.
-
-### よくある質問（FAQ）
-> If a guard walks directly into you, they will detect you even if you are in a shadow. Shadows make you invisible to line-of-sight detection, but not to physical contact.（日本語訳が必要）
-**2. How do I get past the laser grids?**（日本語訳が必要）
-> You usually need to find a switch or a control panel somewhere in the level to disable the lasers. Sometimes this involves a small mini-game or just a single interaction.（日本語訳が必要）
-**3. I knocked out a guard, but then I got caught. What happened?**（日本語訳が必要）
-> Another guard likely saw the body of the knocked-out guard and raised the alarm. When you knock out a guard, make sure their body is not on another guard's patrol route.（日本語訳が必要）
-**4. Is it better to knock out guards or sneak past them?**（日本語訳が必要）
-> Sneaking is almost always the better and safer option. Knocking out guards should be a last resort or used only when you are certain no other guards will discover the body. It's a tool to create an opening, not a primary strategy.（日本語訳が必要）
-
-> Sneaking is almost always the better and safer option. Knocking out guards should be a last resort or used only when you are certain no other guards will discover the body. It's a tool to create an opening, not a primary strategy.
+**Q: 警備員を倒すのと、やり過ごすのはどちらが良い？**  
+> 基本は「やり過ごす」方が安全です。倒すのは通り道を確保するための緊急手段であり、周囲が完全にクリアであると確認できる時だけ実行しましょう。

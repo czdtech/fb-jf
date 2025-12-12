@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: mountayonnaise
-title: '[DE] Sprunki Mountayonnaise - Play Sprunki Mountayonnaise Online'
+title: Sprunki Mountayonnaise - Play Sprunki Mountayonnaise Online
 description: >-
-  [DE] Sprunki Mountayonnaise is a surprisingly delightful Sprunki mod game
-  where different animal figures appear based on the sound effects added. It
-  boasts high replayability!
+  Sprunki Mountayonnaise ist ein überraschend charmantes Sprunki-Modspiel, in
+  dem je nach zugewiesenem Soundeffekt unterschiedliche Tierfiguren erscheinen –
+  mit hoher Wiederspielbarkeit.
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
 thumbnail: /sprunki-mountayonnaise.png
 tags:
@@ -15,31 +15,43 @@ score: 4.8/5  (649 votes)
 ---
 
 
+Sprunki Mountayonnaise ist ein Musikspiel im Sprunki-Stil, bei dem je nach
+Soundeffekt unterschiedliche Tiercharaktere reagieren. Du stellst aus einer
+Gruppe animierter Figuren deinen eigenen Track zusammen – und entdeckst dabei
+immer neue Kombinationen.
 
-Sprunki Mountayonnaise is a surprisingly delightful Sprunki mod game where different animal figures appear based on the sound effects added. It boasts high replayability! Here, you will create your own music works with a group of unique animated characters.
+### So spielst du Sprunki Mountayonnaise
 
-### How to Play Sprunki Mountayonnaise?
+- **Soundeffekte ziehen & ablegen:** Ziehe Klang-Icons auf die einzelnen
+  Charaktere, um ihnen jeweils einen eigenen Sound zuzuweisen.
+- **Sounds schichten:** Baue einen kompletten Track, indem du Beats, Vocals und
+  Effekte geschickt auf dem Feld verteilst.
+- **Bonusse freischalten:** Bestimmte Kombinationen lösen versteckte
+  Animationen oder Spezialeffekte aus.
+- **Live-Mixing:** Passe dein Stück jederzeit an – Sounds stummschalten,
 
-The gameplay is very simple, it can be done in a few steps:
-
-- **Drag and Drop Sound Effects:** Drag different sound effect icons onto the characters to assign them different sounds.
-- **Overlay Sounds:** Build a complete music track by strategically placing beats, vocals, and sound effects.
-- **Unlock Bonuses:** Try specific sound combinations to discover hidden animations and special effects!
 - **Real-Time Mixing:** Adjust your work at any time, mute, remove, or rearrange sounds to make your music more perfect.
+  entfernen oder neu anordnen, bis der Mix für dich perfekt klingt.
 
+### Tipps für bessere Mixes
 
-### Tips for Playing Sprunki Mountayonnaise:
+- **Mit dem Beat beginnen:** Lege zuerst eine rhythmische Basis, bevor du
+  Melodien und Effekte ergänzt.
+- **Melodien & FX hinzufügen:** Nutze Gesangs- und Instrumenten-Loops, um deinen
+  Track voller zu machen.
+- **Bonus-Kombos ausprobieren:** Experimentiere mit unterschiedlichen
+  Belegungen, um geheime Animationen und Sequenzen zu finden.
+- **Feintuning nicht vergessen:** Nimm dir Zeit, einzelne Spuren zu muten oder
+  neu zu platzieren, bis alles stimmig klingt.
+- **Teilen, wenn möglich:** Manche Versionen erlauben, Aufnahmen zu speichern
+  oder zu teilen, damit andere deinen Mix hören können.
 
-- **Start with the Beat:** First lay the foundation for your music, drag a rhythmic sound to the character.
-- **Add Melodies and Sound Effects:** Use vocal and instrumental loops to enrich your mixing work.
-- **Explore Bonus Combinations:** Certain sound combinations will trigger special animations and exclusive musical sequences.
-- **Strive for Perfection:** Adjust, remove, or mute certain sounds at any time to achieve the best results.
-- **Save and Share:** In some versions, you can record and share your music works, allowing more people to hear your voice.
+### Highlights von Sprunki Mountayonnaise
 
-
-### Highlights of Sprunki Mountayonnaise:
-
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started and create quickly.
-- **New Sprunki Style:** Brings a series of new Sprunki-themed beats, melodies, and sound effects, giving you a sense of freshness.
-- **Real-Time Mixing:** Adjust your work at any time to make your music more perfect.
-- **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+- **Einfache Bedienung:** Angelehnt an das Incredibox-Prinzip – schnell gelernt,
+  ideal zum „einfach loslegen“.
+- **Sprunki-Thema:** Neue Sprunki-Beats, Melodien und Effekte sorgen für
+  frische Klangfarben.
+- **Echtzeit-Mixing:** Du kannst deinen Track jederzeit live umbauen. 
+- **Entdeckerspaß:** Versteckte Animationen und Effekte machen das Ausprobieren
+  besonders lohnend.

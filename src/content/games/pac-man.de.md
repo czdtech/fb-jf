@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: pac-man
-title: '[DE] PAC-MAN'
+title: "PAC-MAN"
 description: >-
-  [DE] PAC-MAN is a classic arcade maze game where players control Pac-Man,
-  navigating a labyrinth to eat all the pellets while avoiding four colorful
-  ghosts. Eating power pellets allows Pac-Man to temporarily turn the tables and
-  eat the ghosts.
+  PAC-MAN ist ein klassisches Arcade-Labyrinthspiel: Du steuerst Pac-Man durch
+  ein verwinkeltes Labyrinth, frisst alle Punkte auf und weichst vier bunten
+  Geistern aus. Kraftpillen erlauben es dir, den Spieß kurzzeitig umzudrehen
+  und die Geister selbst zu jagen.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/pac-man.jpg
 tags:
@@ -18,32 +18,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"PAC-MAN" ist einer der berühmtesten Arcade-Klassiker überhaupt. Du
+ steuerst den gelben Pac-Man durch ein Labyrinth und versuchst, alle kleinen
+ Punkte zu fressen. Gleichzeitig musst du vier farbigen Geistern – Blinky,
+ Pinky, Inky und Clyde – ausweichen. Frisst du eine große Kraftpille, drehen
+ sich die Rollen für kurze Zeit um: Die Geister werden verwundbar, fliehen vor
+ dir und können für Extra-Punkte gefressen werden.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Geisterverhalten verstehen:** Jeder Geist hat sein eigenes
+    Bewegungsmuster. Blinky (rot) jagt dich direkt, Pinky (rosa) versucht, dir
+    in den Weg zu laufen, Inky (hellblau) bewegt sich etwas unberechenbarer und
+    Clyde (orange) streift eher zufällig umher.
+2.  **Kraftpillen klug einsetzen:** Nach einer Kraftpille werden Geister blau
+    und können gefressen werden. Nutze diesen Moment, um möglichst viele
+    Geister hintereinander zu erwischen und hohe Punktketten aufzubauen.
+3.  **Routen planen:** Überlege dir früh, wie du durch das Labyrinth laufen
+    willst, damit du nicht in einer Sackgasse von mehreren Geistern gleichzeitig
+    gestellt wirst.
+4.  **Tunnel nutzen:** Die Durchgänge an den Seiten des Labyrinths bringen dich
+    schnell von einer Seite zur anderen – ideal, um Geistern zu entkommen oder
+    sie zu umkreisen.
+5.  **Große Punkte priorisieren:** Die großen Kraftpillen sind dein wichtigstes
+    Werkzeug, um brenzlige Situationen zu entschärfen und viele Punkte zu
+    holen. Hebe sie dir für Momente auf, in denen mehrere Geister in der Nähe
+    sind.
 
-"PAC-MAN" is a classic arcade maze game. Players control the yellow Pac-Man, moving through a complex labyrinth with the objective of eating all the pellets. Simultaneously, players must evade four colorful ghosts—Blinky, Pinky, Inky, and Clyde. When Pac-Man eats a power pellet, he can temporarily turn the tables and pursue and eat the ghosts for extra points.
+### Steuerung
 
-### Gameplay Strategy
+*   **Bewegung:** In der Regel steuerst du Pac-Man mit den Pfeiltasten (oben,
+    unten, links, rechts) durch das Labyrinth.
 
-1.  **[DE]** **Understand Ghost Behavior**: Each ghost has its unique AI pattern. Blinky (red) is a chaser, Pinky (pink) tries to ambush, Inky (light blue) has more complex movements, and Clyde (orange) tends to wander randomly.
-2.  **[DE]** **Utilize Power Pellets**: After eating a power pellet, immediately chase and eat the ghosts for high scores. The more ghosts eaten, the higher the score.
-3.  **[DE]** **Plan Routes**: When moving through the maze, plan your route in advance to avoid being cornered by ghosts.
-4.  **[DE]** **Use Tunnels**: The tunnels at both ends of the maze allow Pac-Man to quickly move from one side to the other, useful for evading or counter-attacking ghosts.
-5.  **[DE]** **Prioritize Large Pellets**: Power pellets (large pellets) are crucial for turning the tide and should be prioritized.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How many levels are there in "PAC-MAN"?**
-**A**: The original "PAC-MAN" has 256 levels, but due to a programming error in level 256, it often results in a "kill screen" or "split screen," preventing the game from progressing normally.
-2.  **[DE]** **Q: What are the names and colors of the ghosts?**
-**A**: The four ghosts are: Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange).
-3.  **[DE]** **Q: What happens to the ghosts after eating a power pellet?**
-**A**: After eating a power pellet, the ghosts turn dark blue and can be eaten by Pac-Man. They will flee and return to their normal state after a period.
-4.  **[DE]** **Q: Is the objective of the game to eat all the pellets?**
-**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
+1.  **F: Wie viele Level gibt es in "PAC-MAN"?**
+    **A:** Das Original umfasst 256 Level. Durch einen Programmierfehler im
+    256. Level entsteht jedoch der berühmte "Kill Screen", bei dem das Spiel
+    nicht mehr normal fortgesetzt werden kann.
+2.  **F: Wie heißen die Geister und welche Farben haben sie?**
+    **A:** Blinky (rot), Pinky (rosa), Inky (hellblau) und Clyde (orange) –
+    jeder davon verhält sich etwas anders.
+3.  **F: Was passiert, nachdem ich eine Kraftpille gefressen habe?**
+    **A:** Die Geister werden dunkelblau, drehen um und können von dir gefressen
+    werden. Nach kurzer Zeit wechseln sie zurück in ihren normalen, gefährlichen
+    Zustand.
+4.  **F: Ist das Ziel einfach, alle Punkte zu fressen?**
+    **A:** Ja. In jedem Level musst du alle kleinen Punkte und Kraftpillen
+    einsammeln, um in den nächsten Level vorzurücken.

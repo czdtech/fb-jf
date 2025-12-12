@@ -1,42 +1,51 @@
 ---
 locale: fr
 urlstr: king-rugni-tower-conquest
-title: '[FR] King Rugni Tower Conquest'
+title: King Rugni Tower Conquest
 description: >-
-  [FR] King Rugni Tower Conquest is a compact tower defense — place towers,
-  route creeps, and upgrade smartly to hold lines.
-iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
-thumbnail: /new-images/king-rugni-tower-conquest.jpg
+  King Rugni Tower Conquest est un tower defense compact : place tes tours, gère
+  ton or et repousse les vagues ennemies vers la sortie.
+iframeSrc: 'https://kingrugnitowerconquest.h5games.usercontent.goog/v/0seb43fuqbdq8/'
+thumbnail: /new-images/king-rugni-tower-conquest.png
 tags:
-  - tower Defense
-  - thinky
-score: 4.2/5  (2106 votes)
+  - strategy
+  - tower defense
+score: 4.2/5  (placeholder votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation
+
+King Rugni Tower Conquest est un tower defense plus compact que les grands classiques, mais qui reprend les mêmes principes : tu dois empêcher les ennemis d’atteindre la sortie en plaçant et améliorant des tours le long du chemin.
+
+### Stratégies de jeu
+
+1.  **Couverture avant tout** : place tes tours de façon à couvrir de longs segments de route ou des points d’étranglement partagés.  
+2.  **Dégâts mixtes** : mélange tours monocible et tours à dégâts de zone pour gérer à la fois les hordes et les élites.  
+3.  **Améliorations précoces** : quelques tours bien améliorées valent souvent mieux qu’un grand nombre de tours de base.  
+4.  **Façonnage du chemin** : si le jeu le permet, allonge la route des ennemis en les forçant à traverser plusieurs zones de tir.  
+5.  **Économie** : évite de stocker trop d’or inutilement ; investis tôt pour profiter de la valeur cumulée.
 
 
-### Detailed Game Introduction
 
-King Rugni Tower Conquest is a streamlined tower defense. Place and upgrade towers to counter varied enemy types, manage limited gold, and shape paths (if possible) to maximize kill zones.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Coverage first: Place towers to cover long paths and shared choke points.
-2.  **[FR]** Mixed damage: Combine single‑target and splash to handle waves and elites.
-3.  **[FR]** Early upgrades: A few well‑upgraded towers often beat many weak ones.
-4.  **[FR]** Path shaping: If routing exists, force longer paths through kill zones.
-5.  **[FR]** Economy: Don’t over‑float gold—invest early for compounding value.
-
-### Controls Guide
-
-- Place/Upgrade/Sell towers via the UI.
-- Start waves when ready; pause to plan.
-
-### Frequently Asked Questions (FAQ)
-
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
-- Best first tower? One that covers the longest segment; upgrade it early.
 - Fast‑forward? Many versions include a speed toggle.
 
+- Best first tower? One that covers the longest segment; upgrade it early.
+
+- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
+
+### Foire aux questions (FAQ)
+
+- Start waves when ready; pause to plan.
+
+- Place/Upgrade/Sell towers via the UI.
+
+### Commandes
+
+
+- Fast‑forward? Many versions include a speed toggle.
+
+- Best first tower? One that covers the longest segment; upgrade it early.
+
+- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.

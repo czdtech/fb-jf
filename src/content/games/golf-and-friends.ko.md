@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: golf-and-friends
-title: '[KO] Golf and Friends'
+title: Golf and Friends 골프 앤 프렌즈
 description: >-
-  [KO] Golf and Friends is a breezy mini‑golf — read slopes, bank shots, and
-  sync putts with friends for cozy sessions.
+  Golf and Friends는 친구들과 함께 즐기는 캐주얼 미니 골프 게임으로, 경사와 벙커, 뱅크 샷을 읽어가며 여유롭게 라운드를 도는
+  재미를 제공합니다.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/golf-and-friends.jpg
 tags:
@@ -17,35 +17,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-## English Guide
+## 게임 상세 소개
 
-### Detailed Game Introduction
+*Golf and Friends*는 각종 장애물과 경사, 뱅크 벽이 준비된 캐주얼 미니 골프 게임입니다.
+좋은 스코어를 내기 위해서는 퍼팅 거리 조절과 각도 선택이 중요하며, 컵 근처에서는 힘을
+살짝 줄여 홀 컵을 빙 돌아 나가는 "립아웃"을 피해야 합니다. 약 45° 각도의 뱅크 샷을
+이용하면 좁은 코너도 안정적으로 공략할 수 있고, 멀티플레이에서는 가벼운 파티 게임처럼
+여럿이 번갈아 플레이할 수 있습니다.
 
-Golf and Friends is a casual mini‑golf experience with playful obstacles, ramps, and bank walls. Mastery revolves around pace control and angle selection — soft touches near cups prevent lip‑outs, and 45° bank lines make tight corners consistent. Multiplayer turns the course into a light party game.
+### 공략 & 진행 팁
 
-### Gameplay Strategy & Walkthrough
+1. **컵 근처 페이스 조절:** 홀 바로 앞에서는 힘을 조금 줄여, 컵을 통과해 반대편으로
+   튀어나가는 상황을 줄이세요.
+2. **뱅크 샷 각도:** 벽을 기준으로 약 45° 정도의 각도로 노리면 코너를 돌아 들어가는
+   일관된 궤도를 만들 수 있습니다.
+3. **장애물 타이밍:** 풍차, 문 등 움직이는 장애물이 있다면 한 사이클을 먼저 지켜본 뒤,
+   안전한 타이밍에만 공을 굴리세요.
+4. **두 번에 나눠 넣기:** 무리해서 한 번에 홀인원을 노리기보다, 첫 샷으로 홀 근처에
+   붙여 두고 두 번째 샷으로 가볍게 넣는 것이 안정적입니다.
+5. **카메라 활용:** 시점을 옮기고 확대/축소해, 경사와 숨겨진 레일을 미리 확인한 뒤
+   라인을 계획하는 것이 좋습니다.
 
-1.  **[KO]** Pace near cup: Under‑hit slightly at the rim to avoid lip‑outs.
-2.  **[KO]** Bank geometry: Use 45° lines off walls to redirect into narrow lanes.
-3.  **[KO]** Hazard timing: Windmills/gates need a full cycle watch.
-4.  **[KO]** Two‑putt planning: Don’t force hero shots; set up a gimme second.
-5.  **[KO]** Camera work: Pan/zoom to preview hidden slopes.
+### 조작 방법
 
-### Controls Guide
+- 마우스로 방향을 조준하고, 뒤로 당겨 힘을 조절한 뒤 놓으면 퍼팅이 실행됩니다.
+- 공이 이상하게 끼어 움직이지 않으면, 일부 버전에서는 리셋이나 포기 기능을 이용해
 
-- Aim with mouse; pull to set power; release to putt. Reset/forfeit if stuck.
+- Camera work: Pan/zoom to preview hidden slopes.
 
-### Frequently Asked Questions (FAQ)
+- Two‑putt planning: Don’t force hero shots; set up a gimme second.
 
-- Q: Why do my putts rim out?
+- Hazard timing: Windmills/gates need a full cycle watch.
+  다시 시도할 수 있습니다.
 
-A: Too much pace or a poor entry angle; slow down near the cup.
+### 자주 묻는 질문(FAQ)
 
-- Q: Best bank‑shot tip?
+- **Q: 퍼팅이 자꾸 홀을 빙 돌고 나가요.**  
 
-A: Aim slightly inside 45° to account for speed loss.
+### 자주 묻는 질문(FAQ)
+  **A:** 진입 각도와 속도가 너무 큽니다. 조금 더 부드럽게 치거나, 컵으로 정면 진입이
+  아닌 옆에서 흘러 들어가도록 각도를 조정해 보세요.
+
+- **Q: 뱅크 샷에 쓸만한 팁이 있나요?**  
+  **A:** 속도 손실을 감안해 정확히 45°보다 약간 안쪽을 노리면, 벽에 맞은 뒤
+  원하는 방향으로 더 안정적으로 나가 줍니다.
+
+- **Q: 로컬 멀티플레이가 가능한가요?**  
+  **A:** 많은 버전에서 한 기기를 돌려 쓰는 핫시트 방식으로, 턴마다 기기를 넘겨
 
 - Q: Multiplayer local?
-
-A: Often hot‑seat style; pass the device between turns.
-
+  여러 명이 함께 플레이할 수 있습니다.

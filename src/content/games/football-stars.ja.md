@@ -1,69 +1,37 @@
 ---
+title: "Football Stars"
+description: "Football Starsは、スピーディーなサッカーを凝縮しています。短いアーケードマッチで、賢くパスを回し、シュートのタイミングを計り、ディフェンダーを出し抜きましょう。"
+iframeSrc: "https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/"
+thumbnail: "/new-images/football-stars.png"
+urlstr: "football-stars"
+score: "3.9/5  (1763 votes)"
+tags: ["sports", "soccer"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: football-stars
-title: '[JA TRANSLATION NEEDED] Football Stars'
-description: >-
-  [JA TRANSLATION NEEDED] Football Stars condenses quick footy — pass smartly,
-  time shots, and outplay defenders in short, arcade matches.
-iframeSrc: 'https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/'
-thumbnail: /new-images/football-stars.png
-tags:
-  - sports
-  - soccer
-score: 3.9/5  (1763 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Football Starsは、キレのあるドリブルとシンプルなセットプレー論理を備えた、軽快なサッカーアーケードゲームです。ボールを素早く動かし、スペースを利用し、守備が整う前にシュートを打つことで勝利を掴みましょう。試合では複雑な戦術よりも、タイミングとポジショニングが重視されます。
 
-[JA TRANSLATION NEEDED] Football Stars is a breezy soccer arcade with snappy dribbling and simple set‑piece logic. Win by moving the ball quickly, exploiting space, and shooting before defenses reset. Matches emphasize timing and positioning rather than complex tactics.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **素早いパス**: 混雑の中にドリブルするよりも、ツータッチでのパス回しが効果的です。
+2.  **ファーサイドへのフィニッシュ**: ゴールを横切るようにシュートを打つと、リバウンドやより安全な角度が狙えます。
+3.  **スルーパス**: 足の速い選手をスペースに走らせ、早めにパスを出しましょう。
+4.  **プレスのトリガー**: 相手がトラップミスをしたらすぐに寄せて、ターンオーバーを強制しましょう。
+5.  **セットプレー**: ショートコーナーとボックス端からのシュートを織り交ぜましょう。
 
-[JA TRANSLATION NEEDED] 1.  Quick passing: Two‑touch sequences beat dribbling into traffic.
-[JA TRANSLATION NEEDED] 2.  Far‑post finishes: Shoot across goal for rebounds and safer angles.
-[JA TRANSLATION NEEDED] 3.  Through balls: Lead runners into space; pass early.
-[JA TRANSLATION NEEDED] 4.  Press triggers: Close down after bad touches to force turnovers.
-[JA TRANSLATION NEEDED] 5.  Set pieces: Mix short corners with edge‑of‑box shots.
+### 操作ガイド
 
-### Controls Guide
+- **操作全般**: 画面の指示に従って移動/パス/シュートを行います。一部のビルドではロブとグラウンダーが分かれています。
 
-- Move/Pass/Shoot per on‑screen prompts; some builds separate lob/ground.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I can’t get shots off — tips?
-  
-[JA TRANSLATION NEEDED]   A: Pass earlier, cut inside, and shoot on the first touch to beat defenders.
-
-- Q: Defense feels leaky — how to fix?
-  
-[JA TRANSLATION NEEDED]   A: Hold shape and switch to the nearest defender instead of chasing.
-
-- Q: Any reliable finish?
-  
-
-
-
-
-
-- Q: I can’t get shots off — tips?
-### よくある質問（FAQ）
-- Move/Pass/Shoot per on‑screen prompts; some builds separate lob/ground.
-### コントロールガイド
-- Set pieces: Mix short corners with edge‑of‑box shots.
-[JA TRANSLATION NEEDED]   A: Across‑goal low shots are the most forgiving.
-
-
-
-
-
-
-A: Across‑goal low shots are the most forgiving.
-- Q: Any reliable finish?
-A: Hold shape and switch to the nearest defender instead of chasing.
-- Q: Defense feels leaky — how to fix?
-
-
-A: Across‑goal low shots are the most forgiving.
+- **Q: シュートが打てません。コツは？**
+  A: 早めにパスを出し、カットインして、ディフェンダーを抜くためにファーストタッチでシュートを打ちましょう。
+- **Q: 守備が脆い気がします。どうすれば？**
+  A: 陣形を保ち、追いかけるのではなく、最も近いディフェンダーに切り替えて対応しましょう。
+- **Q: 確実なフィニッシュ方法は？**
+  A: ゴールを横切るような低いシュートが最も成功率が高いです。

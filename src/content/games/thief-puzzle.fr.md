@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: thief-puzzle
-title: '[FR] Thief Puzzle'
+title: Thief Puzzle
 description: >-
-  [FR] Thief Puzzle is a mischievous rope‑arm puzzler — stretch, avoid traps,
-  and grab targets with clever angles and timing.
+  Thief Puzzle est un jeu de casse‑tête où tu étends un bras élastique pour
+  voler des objets tout en évitant lasers, gardes et pièges.
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thief-puzzle.png
 tags:
@@ -14,32 +14,48 @@ score: 4.0/5  (1876 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation
 
-
-
-### Detailed Game Introduction
-
-Extend a stretchy arm to steal objects while dodging lasers, guards, and buzzsaws. Levels reward path planning: route around triggers, exploit timing windows, and retract fast when hazards reset.
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Probe path: Move slowly to test trigger ranges.
-2.  **[FR]** Time windows: Pass lasers/guards right after cycle flips.
-3.  **[FR]** Angle tricks: Wrap around corners to stay outside detection cones.
-4.  **[FR]** Risk control: Abandon greedy arcs when cycles desync.
-5.  **[FR]** Multi‑grab: Chain safe pickups before retracting.
-
-### Controls Guide
-
-- Drag to stretch arm; release to retract; restart via UI.
-
-### Frequently Asked Questions (FAQ)
+Trace un parcours pour ton bras extensible afin d’atteindre l’objet à voler
 
 - Q: I trip alarms.
 
-A: Slow down near sensors and route around corners to cut line‑of‑sight.
+### Foire aux questions (FAQ)
 
-- Q: Timing feels tight.
+- Drag to stretch arm; release to retract; restart via UI.
+
+
+- Multi‑grab: Chain safe pickups before retracting.
+
+- Risk control: Abandon greedy arcs when cycles desync.
+
+- Angle tricks: Wrap around corners to stay outside detection cones.
+
+- Time windows: Pass lasers/guards right after cycle flips.
+### Commandes
+
+- Multi‑grab: Chain safe pickups before retracting.
+
+- Risk control: Abandon greedy arcs when cycles desync.
+
+- Angle tricks: Wrap around corners to stay outside detection cones.
+
+- Time windows: Pass lasers/guards right after cycle flips.
+
+- Probe path: Move slowly to test trigger ranges.
+
+### Guide de jeu
+sans déclencher les pièges. Réfléchis à l’angle, au timing et aux obstacles.
+
+
 
 A: Wait one full cycle; most rooms have relaxed windows.
 
+- Q: Timing feels tight.
+
+
+A: Wait one full cycle; most rooms have relaxed windows.
+
+- Q: Timing feels tight.
+
+A: Slow down near sensors and route around corners to cut line‑of‑sight.

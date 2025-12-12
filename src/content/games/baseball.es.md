@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: baseball
-title: '[ES] Doodle Baseball'
+title: "Doodle Baseball béisbol doodle del 4 de julio"
 description: >-
-  [ES] A guide to Doodle Baseball, the charming and simple timing-based sports
-  game. Learn how to play, get tips for hitting home runs, understand the
-  controls, and find answers to common questions.
+  Doodle Baseball es un encantador juego arcade de bateo con estética doodle.
+  Aprende a jugar, consigue más jonrones, domina el momento del bateo y resuelve
+  las dudas más comunes.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/baseball.jpg
 tags:
@@ -16,55 +16,84 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+*Doodle Baseball* es un juego de béisbol arcade tan sencillo como adictivo, con
+una estética de dibujo a mano tipo "doodle". Controlas a un bateador miembro de
+un equipo formado por diferentes alimentos, que se enfrenta a un equipo rival de
+cacahuetes antropomórficos.
 
+Tu objetivo es muy simple: golpear la pelota que lanza el pitcher y anotar el
+mayor número posible de carreras. Toda la jugabilidad gira en torno al bateo; no
+controlas la defensa ni las bases, esos aspectos se resuelven de forma
+automática según la calidad de tu golpeo. El reto viene de la variedad de
+lanzamientos del equipo contrario: a medida que avanzas, los pitchers combinan
+velocidades y trayectorias (rectas rápidas, curvas, lanzamientos lentos), y
+necesitas ajustar el momento de cada swing. La partida termina cuando acumulas
+tres strikeouts, y tu meta es firmar la puntuación más alta posible.
 
-### Detailed Introduction
+### Estrategia de juego
 
-*Doodle Baseball* is a charming and deceptively simple arcade-style baseball game. Presented with a unique hand-drawn "doodle" aesthetic, the player takes on the role of a batter from a team of various food items, facing off against an opposing team of anthropomorphic peanuts.
+Aunque solo usas un botón, dominarlo exige concentración y buena sincronización.
 
-The objective of the game is straightforward: hit the ball thrown by the pitcher and score as many runs as possible. The gameplay loop is focused entirely on the act of batting. The player does not control fielding or base running; these actions are automated based on the quality of the hit. The challenge comes from the variety of pitches thrown by the opposing team. As the game progresses, pitchers will throw balls at different speeds and trajectories, including fastballs, curveballs, and slow pitches, requiring the player to adapt their timing with each swing. The game ends after the player gets three strikes, and the goal is to achieve the highest possible score.
+1.  **Observa el movimiento del pitcher:** La animación del lanzador es tu
+    primera pista. Fíjate en su gesto de preparación, ya que a veces adelanta el
+    tipo de lanzamiento que viene.
+2.  **Mira la pelota, no el bate:** Sigue la bola desde que sale de la mano del
+    pitcher hasta que pasa por el plato. Es la mejor forma de apreciar su
+    velocidad y trayectoria.
+3.  **Distingue las velocidades:**  
+    *   **Fastball:** Recta rápida que exige reacción inmediata; tendrás que
+        preparar el swing casi en cuanto la reconozcas.  
+    *   **Lanzamiento lento / curva:** Están pensados para que hagas swing
+        demasiado pronto. La bola "flota" hacia el plato mucho más despacio; sé
+        paciente y espera un instante extra antes de batear, o fallarás por
+        adelantarte.
+4.  **El momento lo es todo:** La calidad del golpe depende del momento exacto en
+    el que swings.  
+    *   **Home run:** Golpear en el punto dulce cuando la bola cruza el plato
+        suele mandar la pelota fuera del campo.  
+    *   **Hit sencillo/doble:** Si te adelantas o te retrasas un poco, suele
+        resultar en un sencillo o doble.  
+    *   **Foul/Strike:** Un swing demasiado temprano o tardío terminará en fallo
+        o bola foul.
+5.  **No temas dejar pasar un lanzamiento:** Aunque en el juego prácticamente
+    todo son strikes, darte el margen de observar un par de pelotas te ayuda a
+    calibrar el momento de las curvas lentas. Batear a lo loco es la forma más
+    rápida de consumir tus tres outs.
 
-### Gameplay Strategy
+### Guía de controles
 
-While the game uses only one button, mastering it requires focus and timing.
+Los controles no pueden ser más accesibles.
 
-1.  **[ES]** **Watch the Pitcher's Wind-up:** The pitcher's animation is your first clue. Pay attention to their wind-up motion, as it can sometimes signal the type of pitch that is coming.
-2.  **[ES]** **Focus on the Ball, Not the Bat:** Your eyes should track the baseball from the moment it leaves the pitcher's hand until it reaches the plate. This is the most effective way to judge its speed and trajectory.
-3.  **[ES]** **Learn to Differentiate Pitch Speeds:**
-    *   **[ES]** **Fastball:** This is a straight, fast pitch. It requires a quick reaction. Be ready to swing almost as soon as you identify it.
-    *   **[ES]** **Slow Pitch/Curveball:** These are designed to fool you into swinging too early. The ball will float towards the plate much slower than a fastball. You must be patient and wait an extra moment before swinging. This is the most common reason for getting a strike.
-4.  **[ES]** **Timing is Everything:** The quality of your hit is determined by *when* you swing.
-    *   **[ES]** **Home Run:** Hitting the ball perfectly in the "sweet spot" as it crosses the plate will usually result in a home run.
-    *   **[ES]** **Single/Double:** Hitting the ball slightly early or late will result in a base hit.
-    *   **[ES]** **Foul Ball/Strike:** Swinging too early or too late will result in a miss.
-5.  **[ES]** **Don't Be Afraid to Take a Strike:** While every pitch in the game is typically a strike, the mental exercise of waiting helps you calibrate your timing for the slower pitches. Rushing your swing is the fastest way to get three outs.
+*   **PC / Navegador:**  
+    *   **Clic izquierdo:** Swing del bate.  
+*   **Móvil / Pantalla táctil:**  
+    *   **Toque:** Toca la pantalla en cualquier punto para batear.  
 
-### Controls Guide
+No hay controles para correr bases ni para el campo.
 
-The controls are as simple as possible, making the game accessible to everyone.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **For PC / Web Browser:**
-    *   **[ES]** **Left Mouse Button**: Click to swing the bat.
-*   **[ES]** **For Mobile / Touchscreen Devices:**
-    *   **[ES]** **Tap the Screen**: Tap anywhere on the screen to swing the bat.
+**1. ¿Cómo hago un jonrón?**  
+Depende por completo del momento. Debes batear y contactar con la bola justo en
+el momento ideal, cuando pasa sobre el plato.
 
-There are no other controls for moving, running, or fielding.
+**2. ¿Se puede "ganar" la partida?**  
+*Doodle Baseball* funciona como un arcade infinito: no hay una última entrada ni
+un rival final. El objetivo es anotar tantas carreras como puedas antes de
+acumular tres outs y superar tu propio récord.
 
-### Frequently Asked Questions (FAQ)
+**3. ¿Por qué fallo tanto los lanzamientos lentos?**  
+Es el núcleo de la dificultad. Tu cerebro se acostumbra al ritmo de las rectas
+rápidas, así que cuando llega una bola lenta tiendes a mover el bate igual de
+pronto. Debes obligarte a esperar más de lo que crees.
 
-**1. How do I hit a home run?**
-A home run is achieved through perfect timing. You need to swing and make contact with the ball at the ideal moment, just as it crosses the home plate.
+**4. ¿Puedo elegir personaje o equipo?**  
+No. Los bateadores se van alternando de forma automática y todos pertenecen al
+mismo equipo; no hay diferencias jugables entre ellos.
 
-**2. Is it possible to win the game?**
-*Doodle Baseball* is an endless arcade game. There is no final inning or opponent to "beat." The goal is not to win, but to score as many runs as you can before getting three outs and setting a new personal high score.
-
-**3. Why do I keep striking out on slow pitches?**
-This is the game's primary challenge. Your brain gets used to the timing of fastballs, so when a slow pitch comes, your instinct is to swing at the same speed. You must consciously force yourself to wait longer than you think you need to before swinging at a slow ball.
-
-**4. Can I choose my character or team?**
-No, the player characters (batters) cycle automatically as you play. They are all part of the same team and have no gameplay differences.
-
-**5. Does the game get harder?**
-Yes. As you score more runs, the opposing pitchers will begin to use a wider variety of pitches, including faster fastballs and trickier curveballs, making it more challenging to time your swings correctly.
-
+**5. ¿El juego se vuelve más difícil?**  
+Sí. Cuantas más carreras haces, más variado y exigente se vuelve el repertorio
+de lanzamientos: rectas más rápidas y curvas más engañosas que ponen a prueba
+tu sincronización.

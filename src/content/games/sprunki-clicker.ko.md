@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-clicker
-title: '[KO] Sprunki Clicker - Play Sprunki Clicker Online'
+title: 'Sprunki Clicker 스프룽키 클릭커'
 description: >-
-  [KO] Embark on an enchanting musical adventure where every click breathes life
-  into a symphony of your own making. Sprunki Clicker is more than a game—it
+  Sprunki Clicker는 클릭할 때마다 새로운 사운드 레이어가 얹히는 음악 클릭커
+  게임입니다. 클릭으로 에너지를 모으고, 스프룽키 스타일 캐릭터와 음원을
+  해금해 나만의 사운드 심포니를 완성해 보세요.
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
 thumbnail: /sprunki-clicker.png
 tags:
@@ -14,10 +15,55 @@ score: 4.7/5  (524 votes)
 
 
 
-Embark on an enchanting musical adventure where every click breathes life into a symphony of your own making. Sprunki Clicker is more than a game—it's a journey into a world humming with rhythm and magic.
+클릭 한 번으로 살아 숨 쉬는 음악 세계에 들어가 보고 싶나요? Sprunki Clicker에서는
+모든 클릭이 새로운 소리를 불러오고, 점점 풍성해지는 사운드가 하나의 곡처럼
+완성되어 갑니다. 이 게임은 단순한 클릭 수 올리기 게임을 넘어, 리듬과 상상력이
+어우러진 음악 여행에 가깝습니다.
 
-Explore a vibrant landscape bursting with whimsical characters and dynamic beats. With each tap, you'll unlock new layers of sound, transforming a simple melody into a rich, evolving masterpiece. Your charming guide, Sprunkle, will lead you on a quest to nurture the legendary Harmony Tree. Collect mystical energy, awaken ancient Sound Spirits, and watch as your world blossoms with color and music.
+당신의 가이드는 스프렁키 스타일의 캐릭터 **Sprunkle**입니다. Sprunkle과 함께
+전설 속의 "하모니 트리(Harmony Tree)"를 키우고, 신비한 사운드 정령들을
+깨워가며 세상을 음악으로 가득 채워 보세요.
 
-In Sprunki Clicker, your clicks have meaning. You aren't just earning points; you are an artist in the middle of the creative process. Collect resources to upgrade instruments, unlock rare Spirits representing diverse musical genres, and watch as your personal symphony unfolds with dazzling visual effects.
+### Sprunki Clicker는 어떤 게임인가요?
 
-This is a captivating blend of rhythm and storytelling, perfect for anyone who loves music, imagination, and a truly creative escape. Dive into the world of Sprunki Clicker and let the music guide you!
+Sprunki Clicker는 클릭마다 점수를 얻고, 그 점수로 새로운 사운드와 캐릭터를
+해금하는 인크리멘탈(방치형) 음악 게임입니다. 처음에는 단순한 멜로디 한 줄에서
+출발하지만, 플레이를 이어 갈수록 여러 층의 비트·보컬·효과음이 겹쳐져 하나의
+완성된 곡처럼 들리게 됩니다.
+
+단순히 숫자를 올리는 것이 아니라, 클릭을 통해 직접 사운드 레이어를 쌓고,
+시각 효과와 함께 음악이 성장하는 과정을 감상하는 것이 핵심 재미입니다.
+
+### 기본 플레이 흐름
+
+- **클릭해서 에너지 모으기:** 화면을 클릭하거나 버튼을 연타해 초기 자원을
+  모읍니다.
+- **업그레이드 구매:** 모은 자원으로 새로운 악기, 리듬, 보컬, 이펙트 등
+  다양한 사운드 요소를 해금합니다.
+- **사운드 정령 깨우기:** 특정 업그레이드를 통해 개성 강한 사운드 정령들을
+  깨워, 자동으로 점수를 벌어 주거나 새로운 소리를 더해 주게 할 수 있습니다.
+- **하모니 트리 성장:** 플레이를 계속하면 하모니 트리가 점점 자라며,
+  화면과 음악이 함께 화려해집니다.
+
+### Sprunki Clicker의 특징
+
+- **클릭에 의미가 있는 게임:** 단순히 숫자만 늘리는 것이 아니라, 클릭할수록
+  음악의 구조가 풍부해지고, 화면의 연출도 함께 변화합니다.
+- **다양한 사운드 조합:** 여러 장르를 떠올리게 하는 비트와 멜로디, 기묘한
+  효과음 등이 준비되어 있어, 조합에 따라 전혀 다른 분위기의 곡을 만들 수
+  있습니다.
+- **시각 연출:** 하모니 트리와 정령들이 음악에 맞춰 반응하며, 눈과 귀가
+  동시에 즐거운 연출을 보여 줍니다.
+- **점진적인 성장:** 초반에는 느리게 시작하지만, 업그레이드를 거듭할수록
+  점수와 사운드가 기하급수적으로 늘어나는 인크리멘탈 특유의 성장 감각을
+  느낄 수 있습니다.
+
+### 이런 플레이어에게 추천합니다
+
+- 단순 클릭커 게임이 지루해졌지만, 그래도 손이 바쁜 게임을 좋아하는 사람
+- 음악 이론은 잘 모르지만, 소리를 섞어 보며 놀고 싶은 사람
+- 방치해 두어도 조금씩 성장하는 게임을 선호하는 사람
+
+Sprunki Clicker는 리듬, 클릭, 성장이 하나로 어우러진 독특한 음악 경험을
+제공합니다. 지금 스프룽키 클릭커를 실행해, 당신만의 하모니 트리를 키우고
+세상에 없던 밈-뮤직 심포니를 만들어 보세요!

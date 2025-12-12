@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: ballistic
-title: '[FR] Ballistic game'
-description: >-
-  [FR] A guide to the physics-based arcade game Ballistic. Learn how to aim,
-  collect extra balls, use power-ups, and achieve high scores by clearing
-  numbered blocks before they reach the bottom.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
+title: "Ballistic game"
+description: "Ballistic est un casse‑tête arcade basé sur la physique où tu tires des salves de balles pour casser des blocs numérotés avant qu’ils n’atteignent le bas de l’écran."
+iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/"
 thumbnail: /new-images/ballistic.jpg
 tags:
   - puzzle
@@ -15,52 +12,45 @@ score: 4.5/5  (764 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Ballistic* est un jeu arcade moderne qui combine réflexion, adresse et réactions en chaîne. Une grille de blocs descend peu à peu depuis le haut de l’écran ; chaque bloc porte un nombre qui indique combien de fois il doit être touché pour être détruit. Depuis le bas, tu tires une rafale de petites balles qui rebondissent sur les murs et les blocs.
 
+Après chaque tir, tous les blocs descendent d’une ligne, ce qui met une pression constante : si un bloc atteint le bas de l’aire de jeu, la partie est terminée. En chemin, tu peux récupérer des balles supplémentaires et des bonus qui augmentent ta puissance de feu.
 
+### Guide de jeu
 
+Pour progresser longtemps, anticipe plusieurs tirs à l’avance et exploite au mieux chaque rebond.
 
+1.  **Travaille tes angles, pas seulement la visée directe :** tire légèrement en biais pour que les balles rebondissent sur les murs et traversent la grille horizontalement. Une trajectoire bien pensée peut frapper des dizaines de blocs en un seul tir.
+2.  **Supprime les blocs dangereux en priorité :** tout bloc proche du bas est une menace, surtout avec une valeur élevée. Même si tu dois sacrifier quelques opportunités ailleurs, garde la dernière ligne respirable.
+3.  **Récupère autant de balles que possible :** chaque icône « + » ajoute définitivement une balle à ta rafale. Ajuste ta trajectoire pour les ramasser, car le nombre de balles détermine ta force de frappe en fin de partie.
+4.  **Creuse des tunnels verticaux :** ouvrir une colonne permet aux balles d’osciller longtemps entre deux parois et de marteler les blocs voisins. Nettoyer un couloir tôt rend les vagues suivantes beaucoup plus gérables.
+5.  **Active les power‑ups au bon moment :** certains blocs déclenchent des effets puissants (ligne détruite, tir spécial, etc.). Vise‑les quand plusieurs blocs menacent d’atteindre le bas pour inverser la situation.
+6.  **Prépare des réactions en chaîne :** pense au rebond suivant plutôt qu’au premier impact. En alignant plusieurs murs, tu crées des cascades de dégâts qui vident une grande partie de la grille en un seul tir.
 
-### Detailed Introduction
+### Commandes
 
-*Ballistic* is a modern, physics-based arcade game that blends strategy, skill, and satisfying action. The player is tasked with a simple yet challenging objective: clear a grid of numbered blocks by shooting a barrage of balls at them before the blocks descend to the bottom of the screen. Each block is marked with a number, indicating how many hits it must sustain before it is destroyed.
+Le jeu se maîtrise facilement, que ce soit à la souris ou au tactile.
 
-The core of the game lies in its dynamic physics engine. Players don't just aim directly at blocks; they must strategically plan their shots to create ricochets off walls and other blocks, setting off massive chain reactions. After each shot, the entire grid of blocks moves down one row, increasing the pressure. The game becomes a tense battle of clearing the board efficiently while collecting special items like extra balls and power-ups to enhance your firepower. With its vibrant visuals, smooth controls, and endless replayability, *Ballistic* is designed to be an addictive experience for both casual players and high-score chasers.
+*   **PC / navigateur :**
+    *   **Souris :** maintiens le clic gauche pour afficher la trajectoire, déplace la souris pour régler l’angle puis relâche pour tirer.
+*   **Mobile / tactile :**
+    *   **Écran tactile :** pose le doigt pour faire apparaître le viseur, fais glisser pour ajuster l’angle puis relâche pour lancer la salve.
 
-### Gameplay Strategy
+### Foire aux questions (FAQ)
 
-Mastering *Ballistic* is about thinking several steps ahead and making every shot count.
+**1. Que signifient les nombres sur les blocs ?**  
+Chaque nombre indique la « vie » d’un bloc : il doit être touché autant de fois pour disparaître.
 
-1.  **[FR]** **Aim for Angles, Not Just Blocks:** The key to success is using the walls. Instead of shooting straight at a block, aim your shot so the balls bounce off a side wall and travel horizontally across the top of the grid. This allows your stream of balls to hit multiple blocks multiple times in a single turn.
-2.  **[FR]** **Prioritize High-Threat Blocks:** The blocks closest to the bottom are your biggest threat. Always make it a priority to clear the lowest rows first. A high-numbered block near the bottom is a "game over" waiting to happen.
-3.  **[FR]** **Collecting Extra Balls is Critical:** The most important item to collect is the "extra ball" (often marked with a "+"). The more balls you can shoot in a single turn, the more damage you can do. Always try to angle your shots to hit these collectibles, as increasing your ball count is the fastest way to gain an advantage.
-4.  **[FR]** **Create Tunnels and Gaps:** Focus on clearing a vertical path through the blocks. This creates a "tunnel" where your balls can bounce back and forth repeatedly, hitting blocks multiple times and clearing them much faster.
-5.  **[FR]** **Utilize Power-ups Strategically:** Keep an eye out for special power-up blocks. These can provide game-changing boosts, like clearing an entire row or providing a super-powerful shot. Hitting them at the right moment can save you from a losing situation.
-6.  **[FR]** **Maximize Chain Reactions:** Plan your shots to not only clear blocks but also to open up paths for subsequent bounces. A well-placed shot can trigger a satisfying cascade of destruction that clears a significant portion of the board.
+**2. Comment obtenir plus de balles par tir ?**  
+Toucher les icônes circulaires « + » ajoute définitivement une balle supplémentaire à ta salve.
 
-### Controls Guide
+**3. Que se passe‑t‑il si un bloc atteint le bas ?**  
+La partie se termine aussitôt, quel que soit ton score ou le nombre de balles restantes.
 
-The game features intuitive controls that are easy to learn.
+**4. Les parties sont‑elles toujours identiques ?**  
+Non. La disposition des blocs, des valeurs et des bonus change à chaque nouvelle run, ce qui renouvelle le défi.
 
-*   **[FR]** **For PC / Web Browser:**
-    *   **[FR]** **Mouse:** Click and hold the left mouse button to bring up the aiming guide. Drag the mouse to adjust the angle of your shot. Release the mouse button to fire the balls.
-*   **[FR]** **For Mobile / Touchscreen Devices:**
-    *   **[FR]** **Touchscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
-
-### Frequently Asked Questions (FAQ)
-
-**1. What do the numbers on the blocks mean?**
-The number on each block represents its "health." It indicates the number of times a ball must hit that block before it is destroyed.
-
-**2. How do I get more balls to shoot?**
-You can increase the number of balls in your arsenal by hitting the special "extra ball" collectibles (usually a circle with a "+" inside) that appear on the grid.
-
-**3. What happens if the blocks reach the bottom of the screen?**
-If any block touches the bottom line of the play area, the game is over.
-
-**4. Is every round of the game the same?**
-No. The placement of blocks and power-ups changes with each new game, ensuring that every round is a fresh and unique challenge.
-
-**5. What is the best strategy for a high score?**
-The key to a high score is survival and efficiency. Last as long as possible by strategically clearing blocks, continuously increase your ball count, and use angled shots to create massive chain reactions that clear many blocks at once.
-
+**5. Quelle est la meilleure stratégie pour un gros score ?**  
+Survis le plus longtemps possible : nettoie les blocs bas, augmente constamment ton nombre de balles et utilise les tirs en angle pour créer de longues réactions en chaîne.

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: collect-same-thing
-title: '[DE] Collect Same Thing'
+title: "Collect Same Thing"
 description: >-
-  [DE] Collect Same Thing is a tidy pairing game — find identical items, clear
-  the board, and plan around limited space.
+  Collect Same Thing ist ein aufgeräumtes Paarspiel – finde identische Objekte,
+  räume das Feld und plane ums knappe Platzangebot herum.
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/collect-same-thing.png
 tags:
@@ -16,35 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Collect Same Thing* fordert dich heraus, identische Kacheln oder Gegenstände
+unter Zeit- oder Platzbeschränkungen zu paaren. Durch das Entfernen von Paaren
+werden tiefere Ebenen sichtbar; Erfolg hängt davon ab, Wege zu öffnen, seltene
+Symbole rechtzeitig abzuräumen und keine einzelnen "Waisen" einzusperren.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Collect Same Thing challenges you to match identical tiles or items under space/time limits. Removing pairs reveals deeper layers; success requires opening lanes, prioritizing scarce tiles, and avoiding isolated singles.
+1.  Wege freischalten: Räum zuerst Reihen und Spalten frei, die viele verdeckte
+    Kacheln verbergen, damit du mehr Auswahl bekommst.
+2.  Seltene Motive früh paaren: Wenn von einem Motiv nur wenige Exemplare
+    sichtbar sind, kümmere dich früh um diese, bevor sie von anderen Steinen
+    blockiert werden.
+3.  Von unten nach oben arbeiten (bei Schichten): Entferne bevorzugt Kacheln
+    aus unteren Ebenen, damit darüberliegende Schichten nachrutschen und neue
+    Paare entstehen.
+4.  Einzelstücke nicht in Ecken drängen: Achte darauf, dass potenzielle Paare
+    nicht so isoliert werden, dass ihre Partner unerreichbar werden.
+5.  Shuffle/Hints aufsparen: Nutze Mischen und Hinweise nur in echten
+    Notfällen – idealerweise, wenn das Brett sichtbar "tot" ist.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Open lanes first to expose hidden tiles.
-2.  **[DE]** Match scarce items early before they clog the board.
-3.  **[DE]** Work bottom‑up to create cascades (when layers exist).
-4.  **[DE]** Avoid cornering singletons that have few partners.
-5.  **[DE]** Save shuffles/hints for emergencies.
+- Klicke oder tippe auf zwei passende Kacheln bzw. Objekte, um sie zu paaren –
+  die genauen Regeln (Linien, Wege etc.) hängen vom Modus ab.
+- Setze Hinweis- oder Shuffle-Buttons gezielt ein, falls vorhanden.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Click/tap to select pairs per mode rules.
-- Use hint/shuffle (if available) sparingly.
+- Keine Paare mehr – was nun?
+  
+  Falls erlaubt, mische das Feld neu oder starte mit einer anderen Eröffnung,
+  bei der du Wege und Freiflächen länger erhältst.
 
-### Frequently Asked Questions (FAQ)
+- Gibt es Zeit- oder Zuglimits?
+  
+  Das hängt vom Modus ab. Bei Timern ist Geschwindigkeit wichtig, bei
+  Zugbeschränkungen solltest du jeden Schritt stärker vorausplanen.
 
-- Q: I get stuck with no pairs — what now?
-
-A: Shuffle if allowed or restart with a different opening that preserves lanes.
-
-- Q: Timed or move limits?
-
-A: Modes vary; play faster for timers and plan deeper for move limits.
-
-- Q: Any scoring tips?
-
-A: Chain quick pairs to maintain combo bonuses where supported.
+- Tipps für hohe Punktzahlen?
+  
+  Versuche, Paare schnell hintereinander zu finden, um mögliche Komboboni in
+  Varianten zu nutzen, die Serien belohnen.

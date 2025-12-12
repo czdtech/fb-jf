@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: medieval-solitaire
-title: '[ZH TRANSLATION NEEDED] Medieval Solitaire'
+title: "《Medieval Solitaire》中世纪纸牌接龙"
 description: >-
-  [ZH TRANSLATION NEEDED] Journey back in time with Medieval Solitaire, a
-  classic Klondike card game with a medieval theme. Build your foundations from
-  Ace to King and clear the tableau in this strategic puzzle.
+  《Medieval Solitaire》是一款中世纪主题的经典 Klondike 接龙纸牌游戏，在骑士与城堡的氛围中，从 A 到 K 依次构建基础牌堆，清空整个牌局。
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/medieval-solitaire.png
 tags:
@@ -17,31 +15,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Medieval Solitaire transports the timeless appeal of Classic Klondike Solitaire to a world of knights, castles, and royalty. While the rules of the game are the same as the beloved original, the experience is enhanced with a charming medieval theme, featuring custom card designs and backgrounds. The goal remains to clear the entire deck by sorting all cards into four foundation piles by suit, in ascending order from Ace to King.
+《Medieval Solitaire》把经典 Klondike 纸牌接龙搬进了骑士、城堡与王室的世界。规则与传统接龙完全一致，只是将牌面与背景换成了中世纪风格的美术和音乐。你的目标，依旧是将整副牌按花色从 A 排到 K，依次放入四个基础牌堆中，并通过合理移动牌面逐步清空桌面。熟悉的玩法搭配新鲜的主题，让老玩家也能体验到焕然一新的氛围。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Objective:** Move all 52 cards to the four foundation piles, starting each pile with an Ace and building up to the King for each suit.
-2.  [ZH TRANSLATION NEEDED] **Tableau Management:** The main play area (the tableau) is where most of the strategy happens. Build columns by placing cards in descending order and alternating colors (e.g., a black Queen on a red King). Your primary goal should be to uncover the face-down cards in the tableau to open up more moves.
-3.  [ZH TRANSLATION NEEDED] **Prioritize Aces:** Whenever an Ace is available, move it to a foundation pile immediately to begin building your suits.
-4.  [ZH TRANSLATION NEEDED] **Empty Columns:** An empty column in the tableau can only be filled by a King. This is a powerful move, so try to empty a column strategically to help you rearrange other cards.
-5.  [ZH TRANSLATION NEEDED] **Stock Pile:** When you have no more available moves on the tableau, draw from the stock pile to bring new cards into play.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **核心目标：** 标准牌局使用 52 张扑克牌，你需要在右上角的四个基础牌堆上，从 A 开始按花色递增一直叠到 K，完成四个完整的牌堆即算通关。
+2.  **牌面布局管理：** 中央区域的“桌面牌列”（Tableau）是你操作与规划的核心。只能按照“颜色交替、点数递减”的规则叠放，比如红 K 可以压黑 Q，黑 Q 可以压红 J，以此类推。优先想办法翻开那些仍然扣着、挡住大量潜在移动空间的暗牌。
+3.  **优先处理 A 和 2：** 一旦 A 或 2 出现在桌面或废牌堆中，就可以尽早移动到基础牌堆，为后续同花色的牌提供落点。
+4.  **善用空列：** 当某一列牌完全被清空时，只能用 K（国王）作为新的列首放入。这是非常强力的布局工具，能帮助你重新整理整个桌面结构，建议在有助于翻开大段暗牌时再使用。
+5.  **利用抽牌堆：** 当桌面上再也没有可走的牌时，就需要从左上角的牌库（Stock）翻牌到废牌堆（Waste），以引入新的选择。不同规则下翻牌方式可能是一次翻一张或三张，需要你根据具体版本调整节奏。
 
-*   **Move Cards:** Click and drag cards to move them between the tableau columns or up to the foundation piles.
-*   **Draw Card:** Click the stock pile (usually in the top-left corner) to deal a new card to the waste pile.
-*   **Auto-Play:** Many versions feature a double-click option to automatically send a card to its correct foundation pile if the move is valid.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **移动纸牌：** 使用鼠标或手指拖动牌，将其移动到合规的位置——无论是桌面列之间，还是移入右上角的基础牌堆。
+*   **抽牌/发牌：** 点击牌库即可从中翻出新牌，通常会进入右侧的废牌堆，再从那里被移动到桌面或基础堆。
+*   **自动归位：** 很多版本支持双击自动移动功能，当某张牌已经可以安全地放入基础牌堆时，双击即可快速归位，节省操作时间。
 
-*   **Q: What is the difference between this and Classic Solitaire?**
-     *   **A:** The gameplay and rules are identical to Classic (Klondike) Solitaire. The only difference is the visual theme, which features medieval-style art and music.
+### 常见问题（FAQ）
 
-*   **Q: I can't make any more moves. What should I do?**
-     *   **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.
+*   **问：这款游戏和经典纸牌接龙有什么区别？**
+    *   **答：** 核心规则与操作与经典 Klondike Solitaire 完全一致，只是在美术和音效上全部换成中世纪主题，例如盾牌纹章风格的花色图案、城堡背景、吟游诗人式的配乐等。
 
-*   **Q: Can I undo a move?**
-     *   **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.
+*   **问：如果完全走不动牌了怎么办？**
+    *   **答：** 先仔细检查桌面是否还有可合法移动的牌组（例如可以重新分配列首或释放暗牌）。如果确认所有可能的移动都用尽，且牌库也已经翻完，就只能认定本局失败，重新开始一盘新的。
 
+*   **问：游戏支持撤销操作吗？**
+    *   **答：** 大多数数字版《Medieval Solitaire》都提供“撤销（Undo）”按钮，你可以回退一到多步以纠正失误或尝试不同的解法。但如果你想挑战自己，也可以刻意少用或完全不用撤销，体验更接近传统纸牌的紧张感。

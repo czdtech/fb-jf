@@ -1,18 +1,39 @@
 ---
+title: "Merge Haven"
+description: "Merge Havenは平和なマージパラダイスです。アイテムをマージし、庭園を作成し、聖域を構築し、リラックスしたゲームプレイを楽しみます。"
+iframeSrc: "https://5fs3h6kbffbi8.h5games.usercontent.goog/v/5tpspujuocl28/"
+thumbnail: "/new-images/merge-haven.png"
+urlstr: "merge-haven"
+score: "4.2/5  (1923 votes)"
+tags: ["casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: merge-haven
-title: '[JA TRANSLATION NEEDED] Merge Haven'
-description: >-
-  [JA TRANSLATION NEEDED] Merge Haven is a soothing merge builder — craft
-  chains, clear tasks, and expand a homestead with smart board management.
-iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
-thumbnail: /new-images/merge-haven.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.1/5  (1989 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Merge Havenは、平和な聖域を構築することに関するリラックスしたマージゲームです。植物、建物、装飾をマージして美しい庭園を作成します。クエストを完了し、新しいエリアをアンロックし、完璧な避難所を設計します。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **チェーンマージ:** より良い報酬のために5つのアイテムをマージします。
+2.  **クエストに焦点を当てる:** 進行と報酬のためにクエストを完了します。
+3.  **賢く整理:** 同じアイテムを一緒に保って簡単にマージします。
+4.  **リソースを管理:** エネルギーとゴールドを賢く費やします。
+5.  **楽しむ:** これは急ぐゲームではありません。プロセスを楽しんでください。
+
+### 操作ガイド
+
+- アイテムをドラッグ＆ドロップして移動およびマージします。
+- クエストをクリック/タップして要件を確認します。
+- ストアで新しいアイテムを購入します。
+
+### よくある質問 (FAQ)
+
+- **Q: エネルギーを使い果たした場合はどうすればよいですか？**  
+  A: 時間の経過とともに再生するのを待つか、タスクで獲得します。
+- **Q: レイアウトを変更できますか？**  
+  A: はい、いつでもアイテムを移動して再配置できます。
+- **Q: 最高のクエスト戦略は何ですか？**  
+  A: より大きな報酬のために高価値のクエストを優先します。

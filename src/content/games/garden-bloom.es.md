@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: garden-bloom
-title: '[ES] Garden Bloom'
+title: Garden Bloom
 description: >-
-  [ES] Restore a beautiful garden in Garden Bloom! Solve challenging match-3
-  puzzles, earn stars, and choose from lovely decorations to design the garden
-  of your dreams.
+  Devuelve la vida a un precioso jardín en Garden Bloom. Resuelve desafiantes
+  puzles match‑3, gana estrellas y elige entre bonitas decoraciones para diseñar
+  el jardín de tus sueños.
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/garden-bloom.png
 tags:
@@ -16,40 +16,64 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Garden Bloom es un juego relajante y creativo que mezcla de forma muy cuidada
+los puzles match‑3 clásicos con el diseño y la restauración de jardines. Tu
+misión consiste en transformar un jardín descuidado y devolverlo a su antiguo
+esplendor. El núcleo del juego son los niveles de match‑3, donde intercambias
+flores de colores y otros elementos del jardín para cumplir objetivos
+concretos. Superar un nivel te otorga estrellas, que funcionan como moneda para
+realizar tareas en el jardín: limpiar zonas, plantar flores y colocar
+decoraciones.
 
+### Estrategia de juego y recorrido
 
-### Detailed Game Introduction
+1. **Una experiencia en dos partes:**  
+    - **Puzles match‑3:** Aquí es donde consigues las estrellas. Cada nivel tiene
+     un objetivo específico (por ejemplo, recoger 30 flores rojas o limpiar
+     todas las casillas de tierra) y un número limitado de movimientos.  
+    - **Restauración del jardín:** Usa las estrellas ganadas para completar las
+     tareas de tu lista. Esto implica tomar decisiones de diseño y desbloquear
+     poco a poco nuevas zonas del jardín.
 
-Garden Bloom is a relaxing and creative game that beautifully blends classic match-3 puzzles with garden design and restoration. Players are tasked with transforming a neglected garden back to its former glory. The core of the game involves completing match-3 levels, where you swap colorful flowers and other garden elements to achieve specific goals. Successfully beating a level rewards you with stars, which act as the currency to perform tasks in the garden, such as cleaning up, planting flowers, and placing beautiful decorations.
+2. **Estrategia match‑3:**  
+    - **Céntrate en el objetivo:** No hagas combinaciones al azar. Prioriza las
+     jugadas que te acerquen directamente a la meta del nivel.  
+    - **Crea potenciadores:** Combinar más de tres piezas genera potenciadores
+     potentes. Un 4 en línea puede crear una pieza que limpia filas o columnas,
+     mientras que una combinación en L o T suele generar bombas. Combinar
+     potenciadores entre sí produce efectos aún más espectaculares.  
+    - **Planifica tus movimientos:** Piensa uno o dos turnos por delante.
+     Aprovecha oportunidades para preparar cascadas o combinaciones especiales.
+     Como los movimientos son limitados, cada intercambio cuenta.
 
-### Gameplay Strategy & Walkthrough
+3. **Diseño del jardín:**  
+    - A medida que completas tareas, a menudo podrás elegir entre tres estilos
+      distintos para cada decoración (por ejemplo, tres tipos de bancos). Escoge
+      la opción que mejor encaje con la visión que tienes para tu jardín.
 
-1.  **[ES]** **The Two-Part Gameplay:**
-    *   **[ES]** **Match-3 Puzzles:** This is where you earn your stars. Each level has a unique objective (e.g., collect 30 red flowers, clear all the dirt patches) that must be completed in a limited number of moves.
-    *   **[ES]** **Garden Restoration:** Use the stars you've earned to complete tasks from your to-do list. This involves making design choices and progressively unlocking new areas of the garden.
+### Guía de controles
 
-2.  **[ES]** **Match-3 Strategy:**
-    *   **[ES]** **Focus on the Objective:** Don't just make random matches. Always prioritize matches that directly help you achieve the level's goal.
-    *   **[ES]** **Create Power-ups:** Matching more than three items creates powerful boosters. A 4-in-a-row match might create a bee that clears a line, while an L-shape match could create a bomb. Combining these boosters leads to even bigger board-clearing effects.
-    *   **[ES]** **Plan Your Moves:** Think a step or two ahead. Look for opportunities to set up cascades or special gem combinations. Since moves are limited, every swap counts.
+- **En los puzles:** Usa el ratón o el dedo para intercambiar dos piezas
+  adyacentes (flores, hojas, etc.). Haz clic y arrastra una sobre la otra o
+  tócalas consecutivamente.  
+- **En el jardín:** Abre la lista de tareas (normalmente en la parte inferior
+  izquierda) para ver qué queda por hacer. Haz clic en una tarea para gastar
+  una estrella y completarla.
 
-3.  **[ES]** **Garden Design:**
-    *   **[ES]** As you complete tasks, you will often be given a choice between three different styles for a decoration (e.g., three different types of benches). Choose the one that best fits your vision for the garden!
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **P: ¿Cómo consigo estrellas?**
+    *   **R:** Solo puedes ganar estrellas superando niveles de puzle. Normalmente
+        cada nivel completado te da una estrella.
 
-*   **[ES]** **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.
-*   **[ES]** **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.
+*   **P: ¿Qué pasa si me quedo sin movimientos en un nivel?**
+    *   **R:** Si no logras el objetivo dentro del límite de movimientos, pierdes una
+        vida. Puedes esperar a que se recarguen con el tiempo o gastar monedas del
+        juego para conseguir movimientos extra o recuperar vidas.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: How do I earn stars?**
-    *   **[ES]** **A:** You can only earn stars by successfully completing the match-3 puzzle levels. Each level you beat will typically award you one star.
-
-*   **[ES]** **Q: What happens if I run out of moves in a puzzle?**
-    *   **[ES]** **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
-
-*   **[ES]** **Q: Can I change the decorations I've chosen for the garden?**
-    *   **[ES]** **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
-
+*   **P: ¿Puedo cambiar una decoración que ya coloqué?**
+    *   **R:** En muchos juegos de este tipo, una vez eliges un diseño queda fijado.
+        Para cambiarlo, normalmente debes mantener pulsado el objeto y gastar monedas
+        para sustituirlo.

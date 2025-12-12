@@ -1,39 +1,48 @@
 ---
-locale: ja
-urlstr: diner-dash
-title: '[JA TRANSLATION NEEDED] Diner Dash'
-description: >-
-  [JA TRANSLATION NEEDED] Diner Dash is a time‑management game: seat guests,
-  take orders, serve meals, and keep everyone happy to clear levels.
+title: Diner Dash ダイナー・ダッシュ
+description: 「Diner Dash」はタイムマネジメントゲームの金字塔。席に案内し、注文を取り、食事を運び、片付ける。多忙なレストランを切り盛りしよう。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/diner-dash.jpg
+urlstr: diner-dash
+score: 4.3/5  (691 votes)
 tags:
   - time-management
   - strategy
-score: 4.3/5  (691 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Overview
-[JA TRANSLATION NEEDED] Diner Dash is a time‑management game about seating guests, taking orders, delivering food, bussing tables, and keeping customer hearts high to clear objectives. You earn combos by chaining actions (e.g., seating groups of the same color, serving quickly) and buy upgrades between levels. 
+*Diner Dash（ダイナー・ダッシュ）*は、レストランのウェイターとなって目まぐるしく働く、タイムマネジメントゲームの大ヒット作です。
+主人公フローを操作して、来店するお客様を席へ案内し、注文を取り、料理を配膳し、食べ終わった食器を片付け、お会計を済ませるという一連の流れをこなします。お客様には「ハート（忍耐値）」があり、待たせすぎると怒って帰ってしまいます。効率よく動いて売上目標を達成し、レベルクリアを目指しましょう。
 
-### How to Play
-- Seat arriving customers promptly; match table sizes and colors when possible for bonuses.  
-- Take orders, deliver dishes, and clear tables in an efficient loop to avoid queues.  
-- Use upgrades (faster shoes, more tables, equipment) to meet higher quotas. 
+### 遊び方
 
-### Controls
-- Mouse/touch: click destinations in order to queue actions; some versions allow drag‑and‑drop for seating or serving. 
+*   **サイクル:** 案内 → 注文 → 配膳 → 会計 → 片付け のサイクルを回し続けます。
+*   **コンボ:** 同じアクションを連続して行う（例：注文を3組連続で取る、料理を2つ一気に運ぶ）とチェーンコンボが発生し、ボーナスポイントが得られます。
+*   **アップグレード:** 各レベルの間に、移動速度アップの靴や、コーヒーメーカーなどのお助けアイテムを購入できます。
 
-### Tips and Strategies
-- Chain related actions back‑to‑back to maintain high combos.  
-- Prioritize impatient customers first; watch the hearts meter.  
-- Pre‑stage actions (collect orders in a sweep, then serve in a sweep) to minimize travel.  
+### 操作ガイド
 
-### FAQ
-- Q: What do color matches do?  
-[JA TRANSLATION NEEDED]   A: Seating same‑color groups at like‑colored tables yields extra points/combos.   
-- Q: Can I retry for a higher score?  
-[JA TRANSLATION NEEDED]   A: Yes—replaying levels to optimize routes and chains is a core loop. 
+*   **操作:** マウス（またはタッチ）で対象をクリックしてアクションを予約（キュー）します。
+*   **移動:** ドラッグ＆ドロップで席へ案内するバージョンもあります。
 
+### 攻略のヒント
+
+*   **色合わせ:** お客様の服の色と同じ色の椅子に座らせるとボーナスポイントが入ります（カラーマッチボーナス）。
+*   **まとめ処理:** 常に2つの手を使って、行きと帰りで無駄なくアクションを行いましょう。
+*   **ハート管理:** 忍耐値が減ってきたお客様を優先するか、コーヒーを出して回復させましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: お客様が怒って帰ってしまいます。**
+
+A: Seating same‑color groups at like‑colored tables yields extra points/combos.
+- **A:** 待ち時間が長すぎます。ポディウム（受付）でお客様を立たせたままにするのが一番減りが早いので、まずは席に座らせることを最優先に。
+
+
+A: Yes—replaying levels to optimize routes and chains is a core loop.
+*   **Q: コンボが途切れてしまいます。**
+    *   **A:** 途中で別のアクション（注文取りの途中で配膳するなど）を挟むと途切れます。状況を先読みして、同じタスクをまとめて処理する癖をつけましょう。

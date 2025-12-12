@@ -1,59 +1,39 @@
 ---
+title: "Santas Quest"
+description: "Santas Questはホリデープラットフォームゲームです。プレゼントを収集し、敵を避け、クリスマスを救い、フェスティブな冒険を楽しみます。"
+iframeSrc: "https://santasquest.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
+thumbnail: "/new-images/santas-quest.png"
+urlstr: "santas-quest"
+score: "4.1/5  (1834 votes)"
+tags: ["platformer", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: santas-quest
-title: '[JA TRANSLATION NEEDED] Santa''s Quest'
-description: >-
-  [JA TRANSLATION NEEDED] Santa's Quest is a festive puzzle adventure — solve
-  simple objectives, clear routes, and deliver gifts on time.
-iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
-thumbnail: /new-images/santas-quest.png
-tags:
-  - puzzle
-  - casual
-score: 3.9/5  (1688 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Santas Questは、サンタがプレゼントを収集し、敵を避けて各レベルを完了するプラットフォームアドベンチャーです。クリスマステーマのレベルを通してジャンプし、走り、すべてのプレゼントを収集します。
 
-[JA TRANSLATION NEEDED] Santa's Quest is a holiday‑themed casual puzzler. Guide Santa through simple tile‑based challenges, collect required items, and reach exits while avoiding light hazards or dead‑ends. Short levels suit quick seasonal sessions.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **すべてのプレゼントを収集:" 完全なスコアのために。
+2.  **敵を避ける:" 彼らの上にジャンプまたはかわします。
+3.  **タイミングをマスター:" プラットフォームとジャンプのタイミング。
+4.  **パワーアップを使用:" 一時的なブーストと能力。
+5.  **隠されたエリアを探索:" ボーナスアイテムを見つけます。
 
-[JA TRANSLATION NEEDED] 1.  Route first: Identify keys, switches, or collectibles before moving.
-[JA TRANSLATION NEEDED] 2.  Avoid softlocks: Don’t block narrow corridors with one‑way moves.
-[JA TRANSLATION NEEDED] 3.  Order of operations: Grab items in an order that minimizes backtracking.
-[JA TRANSLATION NEEDED] 4.  Watch timers (if any): Prioritize mandatory goals over optional stars when time is tight.
-[JA TRANSLATION NEEDED] 5.  Retry quickly: Short stages reward fast restarts when mistakes happen.
+### 操作ガイド
 
-### Controls Guide
+- 矢印キー/WASD：移動、ジャンプします。
+- プレゼントを収集します。
+- レベルの終わりに到達します。
 
-- Move: Arrow keys / WASD or swipe on mobile.
-- Interact: Automatic on contact or via a prompt.
-- Pause/Restart: On‑screen UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Stuck behind a block—what now? Restart and re‑order your route to keep corridors open.
-- Are there enemies? Light hazards/patrols in some levels; timing solves most.
-
-### コントロールガイド
-- Do I need all stars? Optional—collect them for full completion.
-
-
-
-
-
-
-
-
-- Do I need all stars? Optional—collect them for full completion.
-- Are there enemies? Light hazards/patrols in some levels; timing solves most.
-- Stuck behind a block—what now? Restart and re‑order your route to keep corridors open.
-### よくある質問（FAQ）
-- Pause/Restart: On‑screen UI.
-- Interact: Automatic on contact or via a prompt.
-
-
-- Do I need all stars? Optional—collect them for full completion.
+- **Q: どれくらいのレベルがありますか？**  
+  A: バージョンによって異なります。多くは20以上。
+- **Q: 難易度はどうですか？**  
+  A: 始まりは簡単で、徐々に難しくなります。
+- **Q: すべてのプレゼントを収集する必要がありますか？**  
+  A: いいえ、しかしそれらはより良いスコアを与えます。

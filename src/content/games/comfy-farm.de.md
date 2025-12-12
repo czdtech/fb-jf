@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: comfy-farm
-title: '[DE] Comfy Farm'
+title: "Comfy Farm"
 description: >-
-  [DE] Welcome to Comfy Farm! Plant seeds, water your crops, and harvest them
-  for profit. Protect your plants from pests and use your earnings to upgrade
-  and expand your very own cozy farm.
+  Willkommen auf der Comfy Farm. Säe Samen, gieße deine Pflanzen, ernte sie mit
+  Gewinn und schütze deine Felder vor Schädlingen, während du deinen eigenen
+  gemütlichen Bauernhof ausbaust.
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/comfy-farm.png
 tags:
@@ -17,35 +17,57 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Comfy Farm* ist eine charmante, entspannte Farmsimulation, in der du deinen
+eigenen Hof aufbaust und bewirtschaftest. Aus einem kleinen Stück Land soll
+nach und nach ein florierender Betrieb werden. Du pflanzt Samen, gießt deine
+Pflanzen, erntest sie für Profit und hältst Schädlinge fern. Mit den
+Einnahmen kaufst du neue Samen und Upgrades, die dir Arbeit abnehmen oder
+zusätzliche Felder freischalten.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Comfy Farm is a charming and relaxing farming simulation game where you get to build and manage your own virtual farm. The goal is to transform a small plot of land into a thriving agricultural enterprise. You'll plant seeds, water your crops, harvest them for profit, and protect them from pests. Use your earnings to buy new seeds and valuable upgrades to automate and expand your comfy farm.
+1.  Der Farm-Zyklus: Kern des Spiels ist der Kreislauf aus Säen, Gießen und
+    Ernten. Klicke auf ein leeres Feld, bereite es vor, pflanze einen Samen
+    und gieße ihn. Nach einer gewissen Zeit kannst du die reife Pflanze
+    ernten und verdienst Geld.
+2.  Auf Schädlinge achten: Krähen, Insekten & Co. tauchen regelmäßig auf und
+    wollen deine Ernte anknabbern. Klicke sie schnell weg, bevor sie deine
+    Pflanzen zerstören.
+3.  In Upgrades investieren: Stecke frühe Gewinne in sinnvolle Verbesserungen.
+    Ein Sprinkler übernimmt das Gießen, eine Vogelscheuche schreckt Angreifer
+    ab – so kannst du mehr Felder gleichzeitig managen.
+4.  Hof vergrößern: Mit wachsendem Konto kannst du zusätzliche Parzellen
+    kaufen. Je mehr Felder du parallel bestellst, desto stärker steigt dein
+    Einkommen.
+5.  Saatwahl anpassen: Teurere Samen brauchen oft länger, bringen aber mehr
+    Gewinn. Finde eine Mischung, die zu deiner Spielweise (aktiv vs. nebenbei)
+    passt.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **The Farming Cycle:** The core of the game is the planting and harvesting cycle. Click on an empty plot to prepare it, plant a seed, and then water it. After a set amount of time, the crop will be ready to harvest, earning you money.
-2.  **[DE]** **Pest Patrol:** Be vigilant! Pests like crows and flies will periodically appear and try to eat your crops. You must quickly click on them to scare them away before they damage your harvest.
-3.  **[DE]** **Invest in Upgrades:** Reinvest your profits wisely. Upgrades are key to growing your farm. Buying a sprinkler will automate watering, and a scarecrow will help deter pests, freeing you up to manage a larger farm.
-4.  **[DE]** **Expand Your Land:** As you earn more money, you can purchase new plots of land. Expanding your farm allows you to plant more crops simultaneously, dramatically increasing your income potential.
+Das Spiel wird vollständig mit Maus oder Touch bedient.
 
-### Controls Guide
+*   Säen/Gießen/Ernten: Klicke auf ein Feld, um den jeweils nächsten logischen
+    Schritt auszuführen (vorbereiten, bepflanzen, gießen oder ernten).
+*   Schädlinge vertreiben: Klicke direkt auf Krähen oder Insekten, um sie zu
+    verscheuchen.
+*   Upgrades kaufen: Klicke auf die Upgrade-Symbole (z. B. Sprinkler,
+    Vogelscheuche), um sie mit deinen Einnahmen zu erwerben.
 
-The game is played entirely with mouse clicks or taps.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Plant/Water/Harvest:** Click on a plot of land to perform the next logical action (till, plant, water, or harvest).
-*   **[DE]** **Scare Pests:** Click directly on any pest that appears on your farm to get rid of it.
-*   **[DE]** **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
+*   F: Wie verdiene ich schneller Geld?
+    *   A: Halte möglichst viele Felder ständig in Produktion und ernte
+        reife Pflanzen sofort. Sobald verfügbar, setze ertragreichere
+        Saatgutsorten ein, auch wenn sie länger wachsen.
 
-### Frequently Asked Questions (FAQ)
+*   F: Welches Upgrade sollte ich zuerst holen?
+    *   A: Ein Sprinkler ist ein sehr starkes erstes Upgrade, weil er dir das
+        Gießen abnimmt und du dich stärker auf das Bestellen neuer Felder
+        konzentrieren kannst.
 
-*   **[DE]** **Q: How do I make money faster?**
-    *   **[DE]** **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
-
-*   **[DE]** **Q: What is the best upgrade to get first?**
-    *   **[DE]** **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
-
-*   **[DE]** **Q: Why did one of my plants disappear?**
-    *   **[DE]** **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
-
+*   F: Warum ist eine Pflanze verschwunden?
+    *   A: Vermutlich waren Schädlinge schneller. Achte auf Warnsignale und
+        klicke Eindringlinge sofort weg, damit deine Ernte sicher ist.

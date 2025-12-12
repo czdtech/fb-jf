@@ -1,39 +1,40 @@
 ---
+title: "4-in-Row Mania フォープラス・マニア"
+description: "「4-in-Row Mania」でクラシックな四目並べを楽しもう。列に4つの駒を揃えるだけのシンプルなルールで、戦略的な対戦が熱いボードゲームです。"
+iframeSrc: "https://8k40409g1s60o.h5games.usercontent.goog/v/1h9mj7q5j6gjg/"
+thumbnail: "/new-images/4-in-row-mania.png"
+urlstr: "4-in-row-mania"
+score: "4.2/5  (1948 votes)"
+tags: ["board", "puzzle"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: 4-in-row-mania
-title: '[JA TRANSLATION NEEDED] 4 In Row MANIA'
-description: >-
-  [JA TRANSLATION NEEDED] 4 In Row MANIA is a classic connect‑four duel —
-  outmaneuver, control columns, and line up four first.
-iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
-thumbnail: /new-images/4-in-row-mania.jpg
-tags:
-  - 2 player
-  - thinky
-score: 4.1/5  (1993 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*4-in-Row Mania（フォープラス・マニア）*は、時代を超えて愛される「四目並べ」ボードゲームをデジタル化したものです。コンピューター（AI）と対戦することも、同じデバイスを使って友達と対戦することもできます。先に自分の色のディスク（駒）を縦・横・斜めのいずれかに4つ並べた方が勝ちとなります。
 
-[JA TRANSLATION NEEDED] 4 In Row MANIA is a connect‑four game of vertical tactics. Drop checkers to create threats while blocking your opponent, managing column parity and double‑threat setups.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
-
-1.  [JA TRANSLATION NEEDED] Center control: The center column yields the most potential lines.
-2.  [JA TRANSLATION NEEDED] Create forks: Build positions that threaten two wins at once.
-3.  [JA TRANSLATION NEEDED] Parity: Force the opponent to give you the winning row by controlling move order.
-4.  [JA TRANSLATION NEEDED] Watch traps: Don’t stack into a setup that gives opponent a fork.
-5.  [JA TRANSLATION NEEDED] Endgame: Count remaining slots and tempo precisely.
+1.  **中央を制する：** 7列あるボードのうち、中央の列（4列目）は最も多くの勝利ラインに関与します。序盤はこの列にディスクを置くことを優先しましょう。
+2.  **相手をブロックする：** 自分のラインを作るだけでなく、常に相手の動きを観察しましょう。相手が3つ並べそうになったら、必ずその列を塞いでください。
+3.  **「7の字」トラップ：** 縦と斜め、あるいは横と斜めなど、複数のラインが交差するようにディスクを配置し、相手が一度に防げない状況（ダブルリーチ）を作り出しましょう。
+4.  **先を読む：** 自分の手を打つ前に、その上に相手が置くとどうなるかを考えましょう。相手に勝利の足場を提供してしまわないよう注意が必要です。
+5.  **終盤を見据える：** 残りマスの数やどの列が先に埋まるかを意識し、相手より一手早く決め手を打てるよう手順を組み立てましょう。
 
 ### 操作ガイド
 
-- 列をクリック/タップしてチェッカーをドロップします。
-- ローカル2プレイヤーまたはAI対戦モードが一般的です。
+*   **列を選ぶ：** 落としたい列をクリック（またはタップ）するだけで、ディスクが一番下の空いているマスに落ちます。
+*   **対戦モード：** ローカルの2人対戦やAI対戦など、好みに合わせてモードを選んで遊べます。
 
-### よくある質問（FAQ）
+### よくある質問 (FAQ)
 
-- First‑move advantage? Slight; strong defense and parity control balance it.
-- Draws? Boards typically resolve; stalemates are rare.
-- Best opening? Center or near‑center for maximum options.
+- **引き分けになることはありますか？**  
+  はい、ボード（6行×7列＝42マス）がすべて埋まっても勝者が決まらない場合は引き分けとなります。
+
+- **先攻と後攻、どちらが有利ですか？**  
+  一般的に四目並べは、完璧なプレイをした場合「先攻」が有利と言われています。
+
+- **おすすめの初手はどこですか？**  
+  英語版と同じく、中央列から打ち始めるのが最も多くの勝ち筋を作れる強い一手とされています。

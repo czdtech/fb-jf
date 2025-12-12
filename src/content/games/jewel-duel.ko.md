@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: jewel-duel
-title: '[KO] Jewel Duel'
+title: "Jewel Duel 보석 턴제 배틀"
 description: >-
-  [KO] Jewel Duel mixes match‑3 with RPG — swap to attack/defend, trigger
-  skills, and break shields with tactical matches.
+  3매치 퍼즐과 RPG 전투를 결합한 'Jewel Duel' 가이드입니다.
+  색상 매치로 공격·방어·스킬 게이지를 채우고, 적의 보호막을
+  깨며 전투를 유리하게 이끄는 방법을 다룹니다.
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
 thumbnail: /new-images/jewel-duel.jpg
 tags:
@@ -16,34 +17,61 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Jewel Duel*은 전통적인 3매치 퍼즐 위에 **턴제 RPG 전투** 요소를
+얹은 게임입니다. 특정 색상의 보석을 맞추면 공격, 방어, 스킬 게이지가
+차오르고, 플레이어의 턴이 끝나면 적의 턴이 이어지는 방식이라
+턴 순서 관리가 중요합니다.
 
-Jewel Duel layers RPG elements onto match‑3 combat. Matching certain colors fuels attacks/defense/skills; enemy turns follow yours, so turn order matters. Some foes carry shields/absorbs that require specific match types, adding puzzle depth beyond raw damage.
+일부 적은 특정 색상 매치나 특정 형태의 매치로만 깰 수 있는
+실드나 흡수 효과를 지니고 있어, 단순히 높은 딜만 넣는 것보다
+퍼즐적으로 대응하는 것이 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Match intent: Prioritize color that fuels your needed action (attack vs heal vs shield).
-2.  **[KO]** Turn tempo: Deny enemy ult turns by breaking shields or stuns before their phase.
-3.  **[KO]** Setup cascades: Clear low‑impact gems now to prepare high‑value cascades next turn.
-4.  **[KO]** Targeting: Focus one enemy at a time to remove damage sources.
-5.  **[KO]** Boss mechanics: Read tooltips; some require special matches or row clears.
+1. **의도 있는 매치 선택**  
+   아무 색이나 맞추기보다는, 지금 필요한 행동(공격/회복/방어)에
+   해당하는 색을 우선 매치하세요. 공격 턴이 필요할 때는 공격 색,
+   위기 상황에서는 회복 색을 노리는 식입니다.
 
-### Controls Guide
+2. **턴 템포 관리**  
+   적의 강력한 스킬 턴이 가까워졌다면, 그 전에 실드를 깨거나
+   기절 효과를 넣어 턴을 빼앗는 것이 중요합니다.
 
-- Swap adjacent gems; trigger skills when charged; read enemy intents.
+3. **다음 턴을 준비하는 캐스케이드 세팅**  
+   지금 당장 큰 딜이 나오지 않더라도, 다음 턴에 대량 매치가
+   터지도록 색을 정리해 두면 전투 흐름이 훨씬 좋아집니다.
 
-### Frequently Asked Questions (FAQ)
+4. **집중 타겟팅**  
+   여러 적이 동시에 등장할 경우, 위협도가 높은 적부터 하나씩
+   제거해 총 피해량을 줄이는 것이 좋습니다.
 
-- Q: I do low damage — why?
+5. **보스 특수 기믹 확인**  
+   일부 보스는 특정 형태의 매치나 한 줄/한 열 지우기 등
+   따로 요구하는 조건이 있으므로, 툴팁을 꼭 읽고 대응하세요.
 
-A: You’re matching the wrong colors for your build; fuel attack gems or break shields first.
+### 조작 가이드
 
-- Q: Any tip for multi‑target fights?
+- **보석 교환**: 인접한 보석 두 개를 서로 맞바꾸어 3개 이상
+  매치되도록 만들면, 해당 색상에 따른 효과가 발동합니다.  
+- **스킬 발동**: 게이지가 찬 스킬은 아이콘을 클릭해 원하는
+  타이밍에 사용할 수 있습니다.  
+- **적 의도 확인**: 적의 다음 행동 아이콘을 확인해 방어 또는
+  공격 우선순위를 정하세요.
 
-A: Eliminate high‑threat targets first; use row/column clears for board control.
+### 자주 묻는 질문(FAQ)
 
-- Q: Can I save skills?
+- **Q: 공격력이 너무 약한데 왜 그런가요?**  
+  **A:** 빌드에 맞지 않는 색을 계속 매치하고 있을 가능성이 큽니다.
+  현재 장비·스킬이 강화하는 색상을 중심으로 매치를 노려 보세요.
 
-A: Yes — hold until you can chain with a big cascade or to interrupt enemy ultimates.
+- **Q: 여러 적이 나올 때는 어떻게 싸우는 게 좋나요?**  
+  **A:** 가장 위협적인 적 하나를 정해 집중 공격하면서,
+  줄·열 전체를 지우는 스킬로 전체 판을 정리하는 식의 운영이
+  효율적입니다.
+
+- **Q: 스킬 게이지를 꽉 채워도 바로 써야 하나요?**  
+  **A:** 꼭 그럴 필요는 없습니다. 적의 궁극기를 끊는 타이밍이나,
+  대형 캐스케이드와 겹치는 타이밍에 쓰면 효율이 훨씬 좋습니다.
 

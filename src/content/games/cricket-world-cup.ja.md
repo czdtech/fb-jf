@@ -1,69 +1,48 @@
 ---
-locale: ja
-urlstr: cricket-world-cup
-title: '[JA TRANSLATION NEEDED] Cricket World Cup'
-description: >-
-  [JA TRANSLATION NEEDED] Cricket World Cup condenses batting drills — pick
-  shots, read line/length, and chase targets with smart risk control.
+title: Cricket World Cup クリケット・ワールド・カップ
+description: 「Cricket World Cup」で世界の頂点を目指せ。ラインと長さを読み、ゴロとフライを使い分け、守備の隙間を突いて勝利を掴み取るバッティングゲーム。
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/cricket-world-cup.png
+urlstr: cricket-world-cup
+score: 4.1/5  (1998 votes)
 tags:
   - sports
   - casual
-score: 4.1/5  (1998 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cricket World Cup（クリケット・ワールド・カップ）*は、ワールドカップの緊張感を凝縮したバッティングシミュレーションゲームです。限られたオーバー数（投球回数）の中で、設定されたターゲットスコアを上回ることが目的です。
+投球のライン（左右）とレングス（前後）を見極め、ゴロで確実に繋ぐか、ロフトショット（フライ）で一発長打を狙うか、状況に応じた判断が求められます。
 
-[JA TRANSLATION NEEDED] Cricket World Cup focuses on batting scenarios: judge line and length, choose ground shots or lofts, and place the ball through gaps to beat set targets over limited overs.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **ラインに応じた打撃:** レッグ側（体に近い側）へのボールは引きつけて流し打ち、オフ側（体から遠い側）へのボールはしっかり踏み込んでドライブを打ちましょう。
+2.  **リスク管理:** 外野の守備位置をよく見ましょう。深い位置に野手いる場合、フライを打つのは自殺行為です。ゴロで隙間を抜きましょう。
+3.  **ストライクのローテーション:** 毎回ホームランを狙う必要はありません。長打が難しいボールは、シングルヒット（1ラン）で確実にストライク（打順）を回し、スコアボードを動かし続けることが大切です。
+4.  **パワープレイ:** 守備陣形が内側に寄っているタイミング（パワープレイ）こそ、外野への長打を狙うチャンスです。
+5.  **ボウラーのリズム:** ボールの軌道だけを見るのではなく、投手の投球動作全体を見て、リリースの瞬間に合わせてスイングの始動を調整しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Shot selection by line: Leg‑side late glances vs pads; off‑side drives for wide lines.
-[JA TRANSLATION NEEDED] 2.  Risk management: Favor ground shots when deep fielders are set.
-[JA TRANSLATION NEEDED] 3.  Rotate strike: Take singles to keep the board moving when boundaries dry up.
-[JA TRANSLATION NEEDED] 4.  Power plays: Attack gaps when field is up.
-[JA TRANSLATION NEEDED] 5.  Watch bowler rhythm: Time swings from release, not only ball flight.
+### 操作ガイド
 
-### Controls Guide
+*   **操作:** 方向入力で打つコースを決め、タップ/クリックでスイングします。バージョンによっては、ゴロ（Ground）とフライ（Loft）を切り替えるボタンがある場合があります。
 
-- Aim with directional input; tap to swing; loft/ground toggles vary by build.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: キャッチアウトばかりになります。どうすればいいですか？**
 
-- Q: Keep getting caught?
-  
-[JA TRANSLATION NEEDED]   A: Reduce lofts into deep field; thread ground shots through gaps.
-
-- Q: Timing misses?
-  
-[JA TRANSLATION NEEDED]   A: Watch the release point and start the swing a hair earlier/later accordingly.
-
-- Q: Bowling available?
-  
+A: Reduce lofts into deep field; thread ground shots through gaps.
+- **A:** ロフトショット（高い打球）を控え、グラウンドショット（ゴロ）を多用して守備の間を抜くように心がけましょう。
 
 
-
-
-
-- Q: Keep getting caught?
-### よくある質問（FAQ）
-- Aim with directional input; tap to swing; loft/ground toggles vary by build.
-### コントロールガイド
-- Watch bowler rhythm: Time swings from release, not only ball flight.
-[JA TRANSLATION NEEDED]   A: Most versions focus on batting only.
-
-
-
-
-
-
-A: Most versions focus on batting only.
-- Q: Bowling available?
 A: Watch the release point and start the swing a hair earlier/later accordingly.
-- Q: Timing misses?
-
+*   **Q: タイミングが遅れてしまいます。**
 
 A: Most versions focus on batting only.
+    *   **A:** 投手のリリースポイントに意識を集中し、気持ち早めにスイングの準備を始めると合うようになります。
+
+*   **Q: 自分で投げることはできますか？**
+    *   **A:** いいえ、このゲームはバッティング専用です。

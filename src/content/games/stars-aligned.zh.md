@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: stars-aligned
-title: '[ZH TRANSLATION NEEDED] Stars Aligned'
-description: >-
-  [ZH TRANSLATION NEEDED] Stars Aligned is a soothing constellation puzzler —
-  rotate fragments, connect lines, and form complete star patterns.
+title: 《Stars Aligned》星轨对位
+description: 《Stars Aligned》是一款舒缓的星座拼图游戏。旋转星片、连接光线，将零散的星点拼接成完整的星座图案。
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/stars-aligned.jpg
 tags:
@@ -16,25 +14,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Stars Aligned is a gentle spatial puzzle about connecting star fragments into constellations. Rotate pieces to align lines and nodes; later stages introduce more fragments and subtle rotations that demand careful inspection.
+《Stars Aligned》是一款氛围温柔的空间拼图游戏，你要做的是把散落的星点碎片重新连成星座。通过旋转碎片，让其中的线段与节点精准对齐；随着关卡推进，星片数量会增加，旋转角度也会变得更加微妙，需要你耐心观察每一处连接细节。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Start with anchors: Lock obvious matches first to reduce possibilities.
-2.  [ZH TRANSLATION NEEDED] Check all rotations: Slight orientation changes often reveal hidden fits.
-3.  [ZH TRANSLATION NEEDED] Symmetry cues: Many constellations are symmetric—use mirroring to test placements.
-4.  [ZH TRANSLATION NEEDED] Isolate sub‑graphs: Solve small connected groups before linking the whole.
-5.  [ZH TRANSLATION NEEDED] Zoom for precision: Use any zoom to verify nearly‑aligned joints.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **先从“锚点”入手：** 先锁定那些一眼就能看出对应关系的明显碎片，优先拼好这些部分可以大大缩小后续的可能性范围。
+2.  **尝试所有旋转角度：** 很多碎片只需轻微改一个角度就能卡进正确位置，遇到“差一点对不上”的线段时，别忘了多旋转几次确认。
+3.  **利用对称性：** 不少星座具有镜像或轴对称特征，可以参考整体轮廓，用“对称思路”来推断某些碎片的大致方位。
+4.  **先解小结构：** 将局部相连的星片组合成小块，再思考如何把这些小块拼入整体，比一开始就硬凹全局要容易得多。
+5.  **放大检查细节：** 若游戏提供缩放功能，可以放大查看那些“看似对齐但总差一点”的连接点，避免因为细小偏差而误判。
 
-- Rotate pieces and drag them into place per the UI.
-- Undo/Reset as needed to test patterns.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 根据界面提示旋转星片，并拖拽到合适位置完成连接。
+- 可适时使用“撤销”或“重置”来尝试不同拼法。
 
-- A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
-- Timers? Often relaxed; enjoy the ambient pace.
-- Hints? Some modes include hints; use sparingly.
-
+### 常见问题解答（FAQ）
+*   **问：为什么线段总是对不上，是不是 bug？****
+    *   答：** 通常只是旋转角度还差一小格，可以尝试再微调一两次或更换星片位置。
+*   **问：有时间限制吗？****
+    *   答：** 多数模式时间压力很小，更鼓励你慢慢享受解谜与星空氛围。
+*   **问：有提示功能吗？****
+    *   答：** 部分模式提供提示，建议在完全卡住时适量使用，以免削弱自己探索的乐趣。

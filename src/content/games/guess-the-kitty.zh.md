@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: guess-the-kitty
-title: '[ZH TRANSLATION NEEDED] Guess the Kitty'
-description: >-
-  [ZH TRANSLATION NEEDED] Picture quiz with cats: deduce the correct
-  breed/feature from images and hints; progress through themed rounds.
+title: "《Guess the Kitty》猫咪猜猜看"
+description: "《Guess the Kitty》是一款以猫咪为主题的图片问答游戏，你要根据照片和提示，判断正确的猫咪品种或外貌特征，在一轮轮主题关卡中检验自己的“吸猫”知识。"
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/guess-the-kitty.jpg
 tags:
@@ -16,27 +14,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Guess the Kitty is a light quiz where you identify cat breeds or features from photos and prompts. Rounds may include multiple‑choice, fill‑in, or timed modes. Accuracy and streaks raise your score; hints cost points.
+### 游戏概述
+《Guess the Kitty》是一款轻量级的猫咪知识问答游戏，你需要根据照片和文字提示，判断猫的品种或某个外观特征。关卡形式可能包含选择题、填空题和限时模式等多种玩法。答对会获得分数和连击奖励，使用提示则会消耗积分或减少奖励。
 
-### How to Play
-- Study visible traits (ear shape, coat pattern, color points, tail length).
-- Eliminate unlikely options before committing.
-- Use hints sparingly; save them for near‑misses.
+### 游戏玩法
+- 仔细观察照片中的特征，例如耳朵形状、毛色花纹、重点色分布、尾巴长短等。
+- 先排除明显不可能的选项，再在剩余答案中做判断。
+- 提示要少用，尽量留给你已经缩小范围、但仍拿不准的题目。
 
-### Controls
-- Mouse/touch to select answers; keyboard for text entries when applicable.
+### 操作说明
+- 使用鼠标或触屏点击选项，部分关卡需要键盘输入单词答案。
 
-### Tips
-- Learn hallmark patterns (tabby M‑mark, tortoiseshell mottling, color‑point masks).
-- Compare head/ear silhouette to narrow families.
-- Don’t rush timed modes—streak bonuses outweigh one fast guess.
+### 实用技巧
+- 记住一些标志性花纹：比如虎斑额头的“M”字、三花/玳瑁那种杂色斑块、重点色猫咪的深色脸罩等。
+- 对比头部轮廓和耳朵轮廓，可以快速区分一些近似品种。
+- 在限时模式中不要一味追求速度，保持正确率和连击通常比单题答题速度更重要。
 
-### FAQ
-- Q: How can I improve accuracy on similar breeds?  
-[ZH TRANSLATION NEEDED]   A: Focus on ear set, muzzle shape, and coat pattern rather than color alone.
-- Q: Are hints worth using in the game?  
-[ZH TRANSLATION NEEDED]   A: Only when you’ve narrowed to two choices; otherwise they waste points.
-- Q: Does the game include a practice mode?  
-[ZH TRANSLATION NEEDED]   A: Some hosts include casual/practice rounds without timers.
+### 常见问题（FAQ）
+- Q: 面对看起来很像的品种，有什么提高准确率的方法？  
+  A: 尝试从耳位、口鼻形状和毛纹细节入手判断，而不是只看整体毛色，这样更容易区分相近的品种。
 
+- Q: 提示值得用吗？  
+  A: 最适合在你已经排除到 2 个备选答案时使用提示，这时提示能显著提高正确率，否则很容易浪费积分。
+
+- Q: 游戏里有练习模式吗？  
+  A: 某些平台会提供轻松或练习模式，不计时、惩罚较少，适合熟悉题库和巩固知识。

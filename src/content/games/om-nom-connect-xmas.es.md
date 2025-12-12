@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: om-nom-connect-xmas
-title: '[ES] Om Nom Connect Xmas'
+title: Om Nom Connect Xmas - Conecta dulces navideños
 description: >-
-  [ES] Join Om Nom in a festive puzzle adventure! Om Nom Connect Xmas is a fun
-  tile-matching game where you connect pairs of Christmas-themed treats.
+  Acompaña a Om Nom en una aventura de puzles navideña. Om Nom Connect Xmas es
+  un juego de conectar fichas en el que unes parejas de dulces y objetos de
+  Navidad para limpiar el tablero.
 iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
 thumbnail: /new-images/om-nom-connect-xmas.jpg
@@ -18,32 +19,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Únete al adorable Om Nom en Om Nom Connect Xmas, un festivo juego de conectar
+fichas. El tablero está lleno de iconos navideños con Om Nom, sus amigos y
+apetitosos dulces de temporada. Tu objetivo es limpiar el tablero encontrando y
+conectando parejas de fichas idénticas. Entre música alegre y gráficos
+navideños, es un puzle relajante pero desafiante, perfecto para las fiestas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecting puzzle game. The board is filled with Christmas-themed tiles featuring Om Nom, his friends, and delicious holiday treats. Your goal is to clear the board by finding and connecting pairs of identical tiles. With cheerful holiday music and cute graphics, it’s a relaxing yet challenging puzzle game perfect for the Christmas season.
+1.  **Buscar parejas coincidentes:** examina el tablero en busca de dos fichas
+    iguales. Solo podrás conectarlas si el camino que las une tiene como
+    máximo dos giros.
+2.  **Limpiar primero los bordes:** empieza por las parejas situadas en los
+    extremos del tablero, que suelen ser las más fáciles de conectar y abren
+    espacio para nuevos movimientos.
+3.  **Pensar varios movimientos por delante:** a veces es necesario eliminar una
+    pareja concreta para desbloquear el camino hacia otra. Intenta anticipar
+    cómo afectará cada emparejamiento al resto del tablero.
+4.  **Usar potenciadores con cabeza:** si te bloqueas, recurre a las ayudas. La
+    lupa te señalará una pareja disponible y el botón de barajar reorganizará
+    todas las fichas para crear nuevas opciones.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Find Matching Pairs:** Scan the board for two identical tiles. The tiles must be connectable with a line that has no more than two turns (or corners).
-2.  **[ES]** **Clear the Edges First:** Start by looking for matching tiles on the outer edges of the puzzle, as these are generally the easiest to connect and will open up more possibilities.
-3.  **[ES]** **Think Ahead:** Sometimes you need to clear a specific pair of tiles to unblock a path for another match. Try to look a few moves ahead.
-4.  **[ES]** **Use Power-ups Wisely:** The game offers helpful tools if you get stuck. The magnifying glass will show you a possible match, and the shuffle button will rearrange all the tiles on the board, creating new opportunities.
+*   **Seleccionar fichas:** usa el ratón o la pantalla táctil para pulsar una
+    ficha y luego su pareja idéntica.
+*   **Conectar fichas:** si el camino es válido (máximo dos giros y sin
+    atravesar otras fichas), ambas se eliminarán del tablero.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Select Tiles:** Use your mouse to click on a tile to select it.
-*   **[ES]** **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
+*   **P: ¿Cuáles son exactamente las reglas de conexión?**
+    *   **R:** Puedes eliminar dos fichas idénticas si la línea que las une
+        tiene dos giros de 90 grados como máximo y no atraviesa otras fichas.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué hago si no encuentro ninguna pareja?**
+    *   **R:** Primero escanea todo el tablero con calma. Si sigues bloqueado,
+        usa la lupa para que el juego te muestre un emparejamiento válido. Si
+        estás completamente atascado, utiliza el barajado para reorganizar las
+        fichas.
 
-*   **[ES]** **Q: What are the rules for connecting tiles?**
-    *   **[ES]** **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.
-
-*   **[ES]** **Q: What should I do if I'm stuck and can't find a match?**
-    *   **[ES]** **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
-
-*   **[ES]** **Q: Is there a time limit?**
-    *   **[ES]** **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
-
+*   **P: ¿Hay límite de tiempo?**
+    *   **R:** Sí. Cada nivel tiene un temporizador y debes limpiar el tablero
+        antes de que se acabe para ganar.

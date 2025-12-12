@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: farming-10x10
-title: '[KO] Farming 10x10'
+title: "Farming 10x10 파밍 10x10"
 description: >-
-  [KO] Farming 10x10 dresses classic 10x10 block‑fit — place shapes, clear
-  rows/columns, and avoid sealing off precious space.
+  10x10 격자에 블록을 배치해 줄을 지우는 퍼즐 게임입니다. 공간을 막지 않도록
+  조심하며 여러 줄을 한 번에 지우는 세팅을 노려 보세요.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/farming-10x10.jpg
 tags:
@@ -15,36 +15,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Farming 10x10은 10×10 격자 위에 도형 블록을 배치해 가로줄·세로줄을 완성하는
+차분한 배치 퍼즐입니다. 매 턴마다 세 개의 블록 세트를 받고, 배치 가능한 칸이
+더 이상 남지 않으면 게임이 종료됩니다. 중요한 것은 다양한 모양이 들어갈 수
+있도록 보드를 유연하게 유지하면서, 한 번에 여러 줄을 지우는 구조를 만드는
+것입니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive sets of three pieces; place them to complete rows/columns and score clears. The run ends when no legal placements remain, so the art is in preserving flexibility while constructing multi‑line clears.
+1. **센터를 넓게 비워 두기**  
+   보드 중앙에 여유 공간을 남겨 두면, 나중에 긴 블록이나 애매한 모양이
+   들어갈 자리가 생깁니다. 모서리부터 차근차근 정리하되, 중앙을 일찍
+   막아 버리지 마세요.  
+2. **어려운 도형 포켓 확보**  
+   삼각형처럼 생긴 3블록 도형 등 배치가 까다로운 조합을 위해, 미리 그
+   도형이 들어갈 만한 “포켓”을 하나 만들어 두면 막판에서 도움이 됩니다.  
+3. **난이도 높은 블록을 먼저 배치**  
+   보드가 이미 꽉 찼을 때는, 가장 배치하기 어려운 블록부터 처리해 두는 것이
+   좋습니다. 쉬운 것만 먼저 두다 보면 나중에 애매한 블록이 들어갈 자리가
+   사라집니다.  
+4. **2줄 이상 동시 제거 세팅**  
+   한 번의 배치로 두 줄 이상을 지우는 “더블·트리플 클리어”가 점수와 공간
+   관리에 모두 유리합니다. 이를 위해 미리 수평·수직 줄을 동시에 맞출 수
+   있는 구조를 의식해 두세요.  
+5. **1×n 가느다란 “가시줄” 피하기**  
+   매우 긴 일자 줄만 남기면, 말뚝 모양 블록만 겨우 들어가는 상황이 생깁니다.
+   이런 구조를 만들지 않도록 주의하세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Keep the center breathable; tidy edges gradually to avoid single‑cell traps.
-2.  **[KO]** Reserve a pocket sized for the most awkward triominoes.
-3.  **[KO]** Place the hardest piece first when the board is crowded.
-4.  **[KO]** Build two‑line setups so one placement scores double clears.
-5.  **[KO]** Avoid creating 1×n “spines” that only fit sticks.
+- 아래쪽에 제시된 블록을 드래그해 보드 위에 올려놓고, 마우스/손을 떼면 배치됩니다.  
+- 일부 버전은 회전 기능이나 되돌리기 버튼을 제공하기도 합니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag pieces to the board; release to place; some modes allow rotate.
-- Undo/Reset if provided.
+- **Q: 공간이 항상 부족해집니다. 어떻게 해야 하나요?**  
+  **A:** 중앙을 넓게 유지하고, 까다로운 모양을 위한 포켓을 항상 확보해 둔 채
+  두 줄 이상 클리어 세팅을 우선시해 보세요.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 회전 기능이 보이지 않는데요?**  
+  **A:** 많은 10×10 퍼즐은 회전을 지원하지 않습니다. 대신 배치 전략과 포켓
+  관리로 난이도를 조절해야 합니다.  
 
-- Q: I keep running out of room — solutions?
-
-A: Maintain a central open area, set aside an awkward‑piece pocket, and prioritize double clear setups.
-
-- Q: Rotate is missing?
-
-A: Many 10×10 variants do not rotate; compensate with better pocketing.
-
-- Q: How to chase high scores?
-
-A: Chain doubles and avoid “rescue” singles that break structure.
+- **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**  
+  **A:** 자주 “구조 복구용” 한 줄 지우기만 반복하기보다는, 여러 줄 동시 제거를
+  계획적으로 만들어 긴 러닝을 이어 가는 것이 중요합니다.  
 

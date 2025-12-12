@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: zumba-ocean
-title: '[ZH TRANSLATION NEEDED] Zumba Ocean'
+title: 'Zumba Ocean：海底祖玛冒险'
 description: >-
-  [ZH TRANSLATION NEEDED] Dive into a marble-shooting puzzle adventure! Shoot
-  colorful pearls to make matches of three or more and clear the chain before it
-  reaches the shell. A classic and addictive challenge with an ocean theme.
+  在《Zumba Ocean》中潜入海底，体验经典祖玛式弹珠消除玩法。
+  向不断前进的彩色珠链发射珍珠，凑成三颗或以上同色即可消除，
+  在珠链冲到终点之前全部清空它们。
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/zumba-ocean.png
 tags:
@@ -17,30 +17,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style of classics like Zuma. Set in a beautiful ocean world, a chain of colorful pearls slowly moves along a path. You control a shooter that fires pearls. Your mission is to eliminate the entire chain by shooting pearls to create matches of three or more of the same color before the chain reaches the final shell.
+《Zumba Ocean》是一款以海底世界为背景的弹珠射击消除游戏，
+玩起来和经典《Zuma》系列非常相似。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Create Combos:** The most effective way to clear the chain is by triggering combos. When you make a match, if the two new ends of the chain are the same color, they will attract each other and merge, often causing a new match automatically. This chain reaction is a combo and awards bonus points.
-2.  [ZH TRANSLATION NEEDED] **Aim Through Gaps:** As the chain twists and turns, gaps will appear. Use these gaps to your advantage to make matches in the parts of the chain that are further behind. This can help set up bigger combos.
-3.  [ZH TRANSLATION NEEDED] **Use Power-ups:** Be on the lookout for special pearls that appear in the chain. Shooting these can activate powerful boosters, such as a bomb that destroys a group of pearls or a reverse power-up that makes the chain move backward for a short time.
-4.  [ZH TRANSLATION NEEDED] **Prioritize:** If the chain is getting dangerously close to the end, focus all your shots on the front part of the chain to push it back.
+关卡中会有一串由彩色珍珠组成的珠链沿着固定轨道缓慢前进，
+你的发射器位于场景正中或一侧，负责不断射出新的珍珠。
+只要让发射出去的珍珠与轨道上的同色珠子凑成三颗或以上相连，
+就能将那一段链条消除。
 
-### Controls Guide
+如果在消除后，链条两端相遇且颜色相同，还会再次触发自动消除，
+形成炫目的连锁反应与更高得分。
 
-*   **Aim:** Move your mouse to aim the pearl shooter.
-*   **Shoot:** Click the left mouse button to fire the pearl.
-*   **Swap:** You can often click on the shooter itself or press a key (like the spacebar) to swap the current pearl with the next one.
+### 游玩策略与通关思路
 
-### Frequently Asked Questions (FAQ)
+1.  **制造连锁（Create Combos）：**  
+    尽量在能够使前后两段相同颜色“接上”的位置进行消除，
+    利用链条自动合并触发二次甚至多次连锁，一举清掉大段珠子。
+2.  **穿缝打击（Aim Through Gaps）：**  
+    随着轨道弯曲，珠链之间会偶尔留下缝隙，
+    试着从缝隙中穿过去，在后方较早的段落进行消除，
+    可以提前削弱后排并为连锁创造条件。
+3.  **善用特殊珠子（Use Power-ups）：**  
+    链条中会不时出现带特殊标记的珍珠，
+    击中它们可以触发诸如“炸弹消除”“后退一段”“慢速前进”等强力效果，
+    在局面紧张时尤为关键。
+4.  **优先处理危险前端（Prioritize）：**  
+    当链条前端离终点越来越近时，
+    必须优先对前端进行消除，将整个队列向后拉，
+    避免一条珠子冲进终点导致直接失败。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** To completely destroy the chain of pearls before any of them reach the shell at the end of the path.
+### 操作说明
 
-*   **Q: What happens if a pearl reaches the end?**
-     *   **A:** You lose the level and must start over.
+*   **瞄准（Aim）：** 移动鼠标控制发射器的指向，
+    预估好弹道与落点。
+*   **射击（Shoot）：** 点击鼠标左键射出当前颜色的珍珠。
+*   **切换颜色（Swap）：** 通常可以点击发射器或按空格键，
+    将当前待发射的珠子与下一颗备用珠子交换。
 
-*   **Q: How do I get a high score?**
-     *   **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
+### 常见问题（FAQ）
 
+*   **问：游戏的最终目标是什么？**  
+    *   **答：** 在珠链抵达轨道末端的贝壳前，把整条珍珠链完全消除，
+        这样就算完成本关。
+
+*   **问：如果有一颗珠子冲到终点会怎样？**  
+    *   **答：** 只要有珠子进入终点区域，本局就会立即失败，
+        需要从头重新开始该关卡。
+
+*   **问：如何拿到更高分？**  
+    *   **答：** 多制造连锁反应、快速完成关卡都是关键。
+        尽量创造可以连续合并的消除点，并在安全的情况下更敢于冒险打连锁，
+        你会发现分数增长远比单纯“就近清理”来得更快。

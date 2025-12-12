@@ -1,13 +1,11 @@
 ---
 locale: zh
 urlstr: yohoho-io
-title: '[ZH TRANSLATION NEEDED] YoHoHo.io'
+title: 'YoHoHo.io：海盗大逃杀岛'
 description: >-
-  [ZH TRANSLATION NEEDED] Set sail for adventure in YoHoHo.io, a thrilling
-  pirate-themed battle royale game! Grow your pirate by collecting gold,
-  eliminate smaller opponents, and avoid the shrinking safe zone. Master your
-  sword attacks and dash abilities to become the most feared pirate on the high
-  seas!
+  在《YoHoHo.io》中扬帆起航，登上充满海盗的混战小岛！
+  通过收集金币变强、挥剑击倒比你小的对手，并躲避不断缩小的安全圈，
+  在剑技与走位中活到最后，成为海上最令人生畏的海盗。
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/yohoho-io.jpg
 tags:
@@ -18,35 +16,54 @@ score: 5.0/5  (316 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] YoHoHo.io is a fast-paced, pirate-themed battle royale .io game where players compete to be the last pirate standing on a shrinking island. Starting as a small pirate, you must collect gold, grow in size and strength, and eliminate other players to dominate the leaderboard. The game combines simple controls with addictive, competitive gameplay.
+《YoHoHo.io》是一款节奏飞快、海盗主题的 .io 类大逃杀游戏。
+所有玩家被丢在一座不断缩小的海岛上，只有最后活下来的海盗才能获得胜利。
 
-### Gameplay Guide
+你从一个体型不大的小海盗开始，通过在岛上捡金币不断长大、增强攻击范围和伤害，
+再伺机接近并击倒比你弱小的对手，抢走他们辛辛苦苦积累的金币，
+一步步爬上排行榜顶端。
 
-- **Collect Gold:** Your primary objective is to collect gold scattered around the island. Gold increases your pirate's size, attack range, and damage.
-- **Eliminate Opponents:** Attack smaller pirates to defeat them and collect their dropped gold. Avoid larger pirates until you're strong enough.
-- **Shrinking Map:** The safe zone on the island continuously shrinks, forcing players closer together and increasing the intensity of battles. Stay within the safe zone to avoid taking damage.
-- **Dash Ability:** Use your dash ability strategically to quickly close distances, escape danger, or dodge attacks.
+### 游玩指南
 
-### Controls Guide
+- **收集金币（Collect Gold）：**  
+  岛上散落着大量金币，你的首要目标就是巡游全图、尽可能多地收集它们。
+  金币会直接提升你的体型与力量，让你的攻击距离和输出更具压迫感。
 
-- **Movement:** `WASD` or `Arrow Keys` (Keyboard) / Drag mouse or finger (Mouse/Touch)
-- **Attack:** `Left Click` or `Spacebar` (Keyboard) / Tap (Touch)
-- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
-- **Dash:** `Right Click` (Mouse) / Dedicated dash button (Mobile)
+- **击败对手（Eliminate Opponents）：**  
+  当你比其他海盗更高大时，可以主动发起攻击，一刀带走他们并吞走掉落的金币。
+  面对明显比你庞大的敌人则要谨慎绕行，避免被一刀秒杀。
 
-### Frequently Asked Questions (FAQ)
+- **缩圈机制（Shrinking Map）：**  
+  岛上的安全区域会不断收缩，被红色区域吞没的地方会持续对玩家造成伤害。
+  要时刻关注安全圈边界，避免长时间停留在圈外。
 
-[ZH TRANSLATION NEEDED] **How do I get bigger and stronger?**
+- **冲刺能力（Dash Ability）：**  
+  巧用冲刺技能可以迅速贴脸收割残血，也可以在危急时刻拉开距离或穿出包围圈，
+  是高水平玩家进行极限操作的核心技能。
 
-[ZH TRANSLATION NEEDED] By collecting gold. The more gold you collect, the larger your pirate becomes, which increases your attack range and damage output.
+### 操作说明
 
-[ZH TRANSLATION NEEDED] **What happens if I go outside the safe zone?**
+- **移动：** 使用 `WASD` 或方向键控制角色移动，
+  或在移动端通过拖动摇杆/手指来移动。
+- **普通攻击：** 鼠标左键 / `Space` 键 / 轻触屏幕即可挥剑攻击。
+- **蓄力攻击：** 按住鼠标左键或 `Space` 键可以蓄力，
+  释放时打出更强力的一击（视具体版本而定）。
+- **冲刺：** 鼠标右键或专门的冲刺按钮可触发短距离快速位移。
 
-[ZH TRANSLATION NEEDED] If you go outside the safe zone (indicated by the red area), your pirate will start taking continuous damage, eventually leading to defeat.
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] **Are there different pirate characters?**
+**问：怎样才能更快变强？**  
+**答：** 开局先专心绕圈捡金币，优先提升体型，
+避免硬刚比你大的海盗。等到体型和攻击范围有优势后，
+再主动寻找机会收割弱小对手，滚起雪球。
 
-[ZH TRANSLATION NEEDED] Yes, you can unlock different pirate characters, each with unique appearances and sometimes different starting stats or abilities, as you progress and earn more gold.
+**问：走到红色区域会发生什么？**  
+**答：** 红区代表安全圈外的危险地带，待在里面会持续失去生命值，
+时间一长就会被淘汰。尽量提前规划路线，避免被缩圈困在角落。
 
+**问：游戏里有不同的海盗角色吗？**  
+**答：** 有。随着你在对局中表现出色、积累金币，
+可以解锁外观各异的海盗角色，有些版本中不同角色还会带有微小属性差异或特性，
+让你在战场上既好看又好用。

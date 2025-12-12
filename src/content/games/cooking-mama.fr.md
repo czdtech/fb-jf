@@ -1,56 +1,66 @@
 ---
 locale: fr
 urlstr: cooking-mama
-title: '[FR] Cooking Mama: Mama Kills Animals'
+title: "Cooking Mama"
 description: >-
-  [FR] Learn about 'Cooking Mama: Mama Kills Animals,' the shocking parody game
-  created by PETA. This guide explains its origin, satirical gameplay, and the
-  activist message behind it, distinguishing it from the official series.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
+  Rejoins Cooking Mama en cuisine : coupe, fais sauter, cuis et dresse des plats
+  étape par étape à travers une série de mini‑jeux gourmands.
+iframeSrc: 'https://5l34l9kr3vji0.h5games.usercontent.goog/v/4u86h2t1e0nl0/'
 thumbnail: /new-images/cooking-mama.jpg
 tags:
-  - horror
-score: 4.4/5  (1078 votes)
+  - casual
+  - puzzle
+score: 4.4/5  (2201 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
+Cooking Mama te met aux fourneaux dans une cuisine colorée. Chaque recette est
+découpée en mini‑jeux : couper des légumes, mélanger une pâte, faire revenir des
+ingrédients, surveiller une cuisson, etc.
 
-### **Game Introduction**
+Ton objectif est de suivre les instructions à l’écran, réaliser les gestes
+corrects dans le bon timing et obtenir la meilleure note possible de Mama.
 
-**This is NOT an official Cooking Mama game.** *Cooking Mama: Mama Kills Animals* is a free, browser-based parody game created by the animal rights organization PETA. It was designed to be a satirical critique of the official *Cooking Mama* series, which features recipes containing meat.
+### Guide de jeu
 
-The game co-opts the cheerful art style and mini-game structure of the official series but twists it into a gruesome and graphic experience. Instead of lovingly preparing ingredients, the player is forced to perform brutal acts of animal slaughter. For example, a turkey recipe involves violently plucking feathers, dismembering the bird, and removing its internal organs in a bloody fashion.
+1.  **Suis les indications de Mama**  
+    Avant chaque étape, une courte animation ou un texte t’explique le geste à
+    réaliser (couper, verser, mélanger…). Observe bien la démonstration.
+2.  **Reste précis plutôt que rapide**  
+    Dans beaucoup de mini‑jeux, une action trop brusque peut faire déborder une
+    casserole ou rater une cuisson. La précision compte autant que la vitesse.
+3.  **Apprends les recettes par cœur**  
+    En rejouant une recette, tu sauras à l’avance quelle étape arrive ensuite et
+    pourras mieux anticiper les gestes.
+4.  **Vise les combos parfaits**  
+    Certains mini‑jeux récompensent une série d’actions sans faute par un bonus
+    de score. Concentre‑toi sur ces séquences pour obtenir les meilleures
+    médailles.
+5.  **Teste différentes recettes**  
+    Varie les plats pour découvrir de nouveaux types de mini‑jeux (friture,
+    pâtisserie, grillades, etc.).
 
-The core of the game is the stark contrast between the cute, smiling "Mama" character and the horrific actions she is performing. The goal is not entertainment, but to shock the player and deliver a strong pro-vegetarian message. After completing the gory preparation of a turkey, Mama's eyes well up with tears, and she declares she will never cook meat again, proceeding to make a Tofurkey (a tofu-based turkey substitute) instead.
+### Commandes
 
-### **Gameplay Strategy & Tips**
+- **Gestes de cuisine** : glisse, tape, maintiens ou pivote selon ce que
+  l’interface indique (par exemple faire des mouvements de coupe ou de fouet).  
+- **Navigation** : utilise les boutons à l’écran pour choisir une recette ou
+  passer à l’étape suivante.
 
-There is no real "strategy" to win this game in a traditional sense, as it is a linear, message-driven experience. The goal is to complete the sequence of events as intended by its creators.
+### Foire aux questions (FAQ)
 
-1.  **[FR]** **Understand the Purpose**: The primary "tip" is to understand that you are not playing a game for fun. You are interacting with a piece of digital activism. The gameplay is intentionally unpleasant.
-2.  **[FR]** **Follow On-Screen Instructions**: The game is very simple. It will explicitly show you what to do, such as clicking and dragging with the mouse to pluck feathers or cut parts of the animal. There are no complex mechanics to learn.
-3.  **[FR]** **Complete the Narrative**: The only objective is to get through all the gruesome steps to see the final message. There is no scoring system or way to "fail" a step that would stop your progress. The game ensures you see its complete narrative arc.
+**Q : Puis‑je rater complètement une recette ?**  
+R : Oui, si tu enchaînes les erreurs, ta note finale sera plus basse. Mais tu
+peux toujours rejouer pour t’améliorer.
 
-### **Controls Guide**
+**Q : Y a‑t‑il une limite de temps forte ?**  
+R : Certaines étapes sont chronométrées, mais le jeu reste globalement
+accessible et indulgent.
 
-The game was originally a Flash-based browser game and uses very simple mouse controls.
-
-*   **[FR]** **Mouse Click and Drag**: Most actions, such as plucking, cutting, and moving items, are performed by clicking on an object and dragging the mouse in the direction indicated by on-screen arrows or guides.
-
-### **Frequently Asked Questions (FAQ)**
-
-**1. Is this a real, official Cooking Mama game?**
-No, absolutely not. It is a parody created by the animal rights organization PETA to protest the use of meat in the official games. It is not affiliated in any way with the official franchise or its developers.
-
-**2. Why is this game so violent and graphic?**
-The graphic nature is intentional. PETA used shock value to contrast the sanitized, happy portrayal of cooking in the official games with what they present as the violent reality of meat preparation. The goal is to make the player feel uncomfortable and question the source of their food.
-
-**3. Is there an official vegetarian Cooking Mama game?**
-Yes. Partly in response to this parody and general feedback, the official developers later released titles like *Gardening Mama* and *Cooking Mama: World Kitchen*, which included more vegetarian recipes or modes.
-
-**4. Where can I play this game?**
-It was originally a free game on PETA's website. As it was built on Adobe Flash, which is now discontinued, it may be difficult to play on modern browsers. It might be accessible through Flash preservation projects or archives like the Internet Archive's Software Library.
-
+**Q : Les recettes sont‑elles réalistes ?**  
+R : Elles sont simplifiées pour le gameplay, mais s’inspirent de vrais plats,
+ce qui les rend amusantes à reproduire en vrai si tu le souhaites.

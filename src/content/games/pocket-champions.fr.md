@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: pocket-champions
-title: '[FR] Pocket Champs: 3D Racing'
-description: >-
-  [FR] Train your Champ, pick the right gadgets, and watch them race to victory!
-  An idle racing game where strategy and preparation are key to becoming a
-  Pocket Champ.
+title: 'Pocket Champs: 3D Racing'
+description: "Entraîne ton Champ, choisis les bons gadgets et regarde‑le courir vers la victoire\_! Un jeu de course idle où stratégie et préparation font la différence."
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/pocket-champions.png
 tags:
@@ -13,39 +10,43 @@ tags:
   - casual
   - sports
 score: 4.4/5  (2600 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Pocket Champs est un jeu de course multijoueur idle dans lequel tu ne contrôles pas directement la course, mais toute la préparation. Tu entraînes ton « Champ » en course, vol, grimpe ou nage, puis tu l’équipes des gadgets adaptés au prochain parcours. Une fois la course lancée, tu regardes si ta préparation suffit à battre les autres joueurs.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Entraîner en continu :** garde ton Champ en entraînement permanent pour augmenter ses stats de base.  
+2.  **Adapter les gadgets au tracé :** avant chaque course, étudie l’aperçu du circuit ; équipe par exemple des palmes pour les sections aquatiques ou des piolets pour les murs d’escalade.  
+3.  **Analyser les replays :** observe où ton Champ perd du temps pour savoir quelle compétence améliorer en priorité.  
+4.  **Ouvrir les coffres :** les victoires donnent des coffres et de la monnaie pour débloquer ou améliorer ton équipement.
 
-Pocket Champs is an idle multiplayer racing game where you don't directly control the race, but you control everything that leads to victory. Your role is to train your "Champ" in various disciplines like running, flying, and climbing. Before each race, you must strategically equip your Champ with the right gadgets for the course. Once the race begins, you watch as your preparation pays off and your Champ competes automatically to bring home the win.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** **Train, Train, Train:** The foundation of your success is training. Keep your Champ training at all times to level up their running, flying, climbing, and swimming skills. This is an idle game, so training continues even when you are offline.
-2.  **[FR]** **Match Gadgets to the Race:** Before a race begins, you will see a preview of the track. Pay close attention to the obstacles. If you see a lot of water, equip the flippers. If there's a big climbing wall, equip the climbing picks. Choosing the right gadget for the right obstacle is the most important strategic decision you make.
-3.  **[FR]** **Watch and Learn:** Although the races are automatic, watch them to see where your Champ is struggling. Are they slow on the running sections? Are they losing time on the climbs? This will tell you what skills you need to focus on training next.
-4.  **[FR]** **Collect Your Rewards:** Winning races earns you chests and currency. Be sure to open these to get new gadgets and the resources needed to upgrade your Champ and existing gear.
-
-### Controls Guide
 
 The game is played through a series of menus.
+- Navigue dans les menus pour lancer des entraînements, sélectionner les gadgets et démarrer les courses. Les courses elles‑mêmes sont entièrement automatiques.
 
-*   **[FR]** **Training:** Click on the training section and select the skill you want your Champ to work on.
-*   **[FR]** **Gadget Selection:** Before a race, click on the gadget slots to choose which items your Champ will use.
-*   **[FR]** **Start Race:** Click the "Race" button to enter a competition.
 
-### Frequently Asked Questions (FAQ)
+- **Start Race:** Click the "Race" button to enter a competition.
 
-*   **[FR]** **Q: How do I control my character during the race?**
-    *   **[FR]** **A:** You don't! The race is fully automatic. Your job is to prepare your Champ *before* the race through training and gadget selection.
+- **Gadget Selection:** Before a race, click on the gadget slots to choose which items your Champ will use.
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: How do I win more races?**
-    *   **[FR]** **A:** By having better stats and strategy than your opponents. Make sure your Champ's training levels are high and that you are choosing the correct gadgets that counter the obstacles in the upcoming race.
+- **Q : Puis‑je contrôler mon personnage pendant la course ?**  
 
-*   **[FR]** **Q: What is the best gadget?**
-    *   **[FR]** **A:** There is no single "best" gadget. The best one is always the one that matches the next major obstacle on the track. A speedboat is useless on a running track, but essential on a water track.
+    - **A:** There is no single "best" gadget. The best one is always the one that matches the next major obstacle on the track. A speedboat is useless on a running track, but essential on a water track.
+
+- **Q: What is the best gadget?**
+
+    - **A:** By having better stats and strategy than your opponents. Make sure your Champ's training levels are high and that you are choosing the correct gadgets that counter the obstacles in the upcoming race.
+
+- **Q: How do I win more races?**
+
+    - **A:** You don't! The race is fully automatic. Your job is to prepare your Champ *before* the race through training and gadget selection.
+  **R :** Non, tout se joue avant via l’entraînement et le choix des gadgets.
 

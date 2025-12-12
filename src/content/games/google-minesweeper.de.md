@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: google-minesweeper
-title: '[DE] Google Minesweeper'
+title: "Google Minesweeper"
 description: >-
-  [DE] Classic logic puzzle: clear the grid without triggering mines by deducing
-  safe cells from numbered clues and flags.
+  Klassisches Logikrätsel: Decke alle sicheren Felder auf, ohne eine Mine zu
+  zünden, indem du aus Zahlenhinweisen und gesetzten Flaggen auf Minenpositionen
+  schließt.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/google-minesweeper.jpg
 tags:
@@ -15,30 +16,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Überblick
 
+In Minesweeper zeigen dir Zahlen aufgedeckter Felder an, wie viele Minen diese
+Zelle berühren. Mit diesen Hinweisen markierst du Minen mit Flaggen und deckst
+sichere Felder auf – Ziel ist es, das gesamte Feld zu räumen, ohne eine Mine zu
+aktivieren. Je nach Schwierigkeitsgrad ändern sich Feldgröße und Minenanzahl.
 
+### So spielst du
 
-### Overview
-Minesweeper reveals numbers showing how many mines touch a cell. Use these clues to mark mines with flags and open safe cells, aiming to clear the board without detonating. Difficulty scales grid size and mine count.
+- **Linksklick** deckt ein Feld auf, **Rechtsklick** setzt oder entfernt eine
+  Flagge. Einige Versionen erlauben ein "Chord"/Schnellöffnen um eine Zahl
+  herum, wenn die Zahl und die Anzahl der Flaggen übereinstimmen.
+- Nutze grundlegende Muster (z. B. typische 1-1-Paare oder 1-2-Kombinationen),
+  um sichere Felder systematisch zu erweitern.
+- Auf großen Feldern lohnt es sich, Ecken und Ränder gezielt zu bearbeiten, um
+  die Anzahl möglicher Anordnungen zu reduzieren.
 
-### How to Play
-- Left‑click opens a cell; right‑click toggles a flag; chord/open around a number when flags match counts (host dependent).
-- Use basic inferences (1‑1 pairs, 1‑2 patterns) to expand safely.
-- On large boards, isolate corners/edges to reduce branching.
+### Steuerung
 
-### Controls
-- Mouse/touch; optional chording and quick‑open shortcuts vary by host.
+- Maus oder Touch-Eingabe; optionale Chord- und Schnellöffnen-Kürzel hängen vom
+  jeweiligen Host ab.
 
-### Tips
-- Keep a consistent marking convention to avoid misflags.
-- When forced to guess, choose tiles that reveal the most info if wrong.
-- Edges often constrain layouts—scan along borders for sure moves.
+### Tipps
 
-### FAQ
-- Q: How do I avoid guessing in Minesweeper?
-A: Use pattern sets and parity checks; some positions remain 50/50.
-- Q: What does the number on a cell indicate?
-A: It equals the count of adjacent mines among the eight neighbors.
-- Q: Does difficulty only change board size?
-A: It changes both size and mine density.
+- Verwende eine **konsequente Markierungsstrategie**, damit du Flaggen nicht
+  verwechselst.
+- Wenn du gezwungen bist zu raten, wähle Felder, die im Fehlerfall möglichst
+  viele Informationen für den nächsten Versuch liefern.
+- Ränder und Ecken schränken Minenanordnungen oft stärker ein – scanne diese
+  Bereiche gezielt nach sicheren Zügen.
 
+### Häufige Fragen (FAQ)
+
+- **F: Wie kann ich Rätsel ohne Raten lösen?**  
+  **A:** Nutze bekannte Muster, Kombinationslogik und gelegentlich
+  Paritätsüberlegungen. Trotzdem bleiben manche Situationen echte 50/50-Fälle.
+
+- **F: Was bedeutet die Zahl auf einem Feld genau?**  
+  **A:** Sie gibt an, wie viele Minen sich in den bis zu acht Nachbarfeldern
+  rund um dieses Feld befinden.
+
+- **F: Verändert der Schwierigkeitsgrad nur die Feldgröße?**  
+  **A:** Nein, sowohl die Größe des Spielfelds als auch die
+  **Minen-Dichte** werden angepasst.

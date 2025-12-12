@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: hexamind
-title: '[FR] HexaMind'
-description: >-
-  [FR] HexaMind is a hex‑grid logic puzzler — place tiles, satisfy adjacency
-  rules, and manage parity across honeycomb layouts.
+title: "HexaMind"
+description: "HexaMind est un puzzle logique sur grille hexagonale : place des tuiles en respectant des règles d’adjacence et de parité à travers des motifs en nid d’abeille."
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/hexamind.png
 tags:
@@ -15,35 +13,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+HexaMind se joue sur une grille hexagonale où chaque case doit respecter des contraintes d’adjacence : couleurs, nombres ou symboles ne peuvent pas toujours se toucher, ou doivent satisfaire des règles de somme et de parité le long de certaines lignes. La géométrie à six directions permet des déductions riches grâce aux anneaux et rayons qui se croisent autour de chaque cellule.
 
-### Detailed Game Introduction
+### Comment jouer
 
-HexaMind plays on a hexagonal grid with rules about what may touch: colors, numbers, or symbols must satisfy adjacency constraints (e.g., no equal neighbors, or sums along rays). The six‑direction geometry enables rich deductions through fan‑shaped lines and rings.
+1.  **Commence par les cases critiques**  
+    Attaque d’abord les cellules qui ont le plus de voisins ou les règles les plus strictes. Ce sont les « hotspots » de contraintes qui débloquent souvent le reste de la grille.
 
-### Gameplay Strategy & Walkthrough
+2.  **Utilise la logique des anneaux**  
+    Regarde les anneaux autour d’une case centrale : les totaux de couleurs ou de nombres sur un cercle peuvent limiter fortement les possibilités, et t’aider à éliminer des candidats.
 
-1.  **[FR]** Constraint hotspots: Start at cells with the most neighbors or strictest rules.
-2.  **[FR]** Ring logic: Use ring sums or color counts around a center to bound candidates.
-3.  **[FR]** Ray scans: Scan along axial directions for parity/sequence constraints.
-4.  **[FR]** Contradiction seeds: Try a candidate on a tight cell and backtrack on conflict.
-5.  **[FR]** Pencil rigor: Maintain clean candidate notes to avoid circular mistakes.
+3.  **Scanne les rayons**  
+    Parcours les lignes dans chaque direction (les « rayons » de la grille) pour appliquer les règles de séquence, de somme ou de parité. Un rayon contradictoire te signale immédiatement une mauvaise hypothèse.
 
-### Controls Guide
+4.  **Sème des hypothèses contrôlées**  
+    Si tu es bloqué, pose une hypothèse sur une case très contrainte, puis avance en vérifiant si cela mène à un conflit. En cas de contradiction, tu sais que cette valeur est impossible.
 
-- Tap to place values/colors; toggle pencil marks; undo/redo.
+5.  **Reste rigoureux avec tes annotations**  
+    Utilise les marques de crayon pour noter les candidats possibles et supprime‑les clairement dès qu’ils sont invalidés. Une bonne gestion des notes évite les boucles d’erreurs.
 
-### Frequently Asked Questions (FAQ)
+### Commandes
 
-- Q: I’m stuck — where to look?
+- Tape pour placer une valeur ou une couleur, bascule entre les notes et les valeurs définitives, et utilise les fonctions d’annulation/rétablissement si disponibles.
 
-A: Revisit high‑degree nodes and ring totals; combine ring and ray constraints.
+### Foire aux questions (FAQ)
 
-- Q: Is guessing required?
+- **Q : Je suis bloqué, où chercher en priorité ?**  
+  R : Reviens sur les cases à haut degré (beaucoup de voisins) et sur les anneaux dont les totaux sont presque atteints. Combine les contraintes des anneaux et des rayons pour débloquer la situation.
 
-A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
+- **Q : Faut‑il forcément deviner ?**  
+  R : Les bons niveaux peuvent en principe se résoudre par pure logique. Si tu dois deviner, essaie de le faire sur une case très contrainte et garde une profondeur de recherche faible pour pouvoir revenir en arrière facilement.
 
-- Q: How is it different from square‑grid puzzles?
-
-A: Six neighbors create stronger ring/ray reasoning that square grids lack.
+- **Q : En quoi est‑ce différent des puzzles sur grille carrée ?**  
+  R : La grille hexagonale fournit jusqu’à six voisins au lieu de quatre, ce qui renforce la puissance des raisonnements en anneaux et en rayons et donne des déductions impossibles sur une grille classique.
 

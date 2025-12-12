@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: train-2048
-title: '[KO] Train 2048'
+title: "Train 2048 트레인 2048"
 description: >-
-  [KO] Combine and merge train cars in Train 2048, a clever twist on the classic
-  2048 puzzle. Strategically slide matching cars together to build a more
-  advanced train and reach the ultimate 2048 car.
+  숫자 타일 대신 기차 칸을 합치는 2048 변형 퍼즐 게임입니다. 같은 종류의 객차를 슬라이드해
+  하나로 합치고, 한정된 칸 안에서 계속 업그레이드해 궁극의 2048 열차 칸을 만들어 보세요.
 iframeSrc: >-
   https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/train-2048.jpg
@@ -18,35 +17,49 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Train 2048은 인기 퍼즐 게임 2048을 귀여운 기차 테마로 재해석한 작품입니다. 숫자가 적힌 타일 대신 여러
+종류의 기차 칸이 등장하고, 같은 종류의 칸을 밀어 붙여 하나로 합치면 더 높은 등급의 객차로
+업그레이드됩니다.
 
+플레이어는 칸 수가 제한된 격자 안에서 열차 칸을 효율적으로 배치하고 합쳐 가며, 가능한 한 오래 버티면서
+가장 높은 등급의 "2048" 열차 칸을 만드는 것이 목표입니다. 한 번의 잘못된 이동이 전체 판을 꼬이게 할 수
+있기 때문에, 항상 몇 수 뒤를 생각하는 계획성이 중요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Train 2048 is an engaging puzzle game that reimagines the beloved 2048 formula with a charming train theme. Instead of numbered tiles, players slide and combine train cars of the same type on a grid-based railway. Each combination merges two identical cars into a new, higher-level car. The objective is to strategically manage the limited space on the board, continue merging cars, and ultimately create the illustrious "2048" train car.
+1.  **코너 고정 전략 사용하기**: 클래식 2048에서 널리 쓰이는 전략으로, 가장 높은 값의 열차 칸을
+    격자의 한 구석에 항상 유지하려고 해 보세요. 이렇게 하면 높은 값이 가운데로 튀어나와 막히는
+    상황을 줄이고, 주변에 낮은 칸을 정리하며 자연스럽게 성장시킬 수 있습니다.
+2.  **이동 방향을 제한하기**: 위/아래/좌/우 네 방향을 모두 무작정 사용하면 판이 쉽게 어지러워집니다.
+    보통 두세 방향(예: 위, 오른쪽, 가끔 왼쪽) 위주로만 움직이며, 특정 방향(예: 아래)으로는 되도록
+    움직이지 않는 식으로 패턴을 정하면 정리된 형태를 유지하기 쉽습니다.
+3.  **연쇄 합치기(체인) 구조 만들기**: 한 줄 또는 한 열을 낮은 값에서 높은 값 순서로 정렬해 두면,
+    새로운 칸이 들어왔을 때 연속해서 합치기 좋습니다. 예를 들어 4칸 옆에 8칸, 그 옆에 16칸처럼
+    나열해 두면, 4를 합쳐 8을 만들고 곧바로 16과 합치는 식의 체인 반응을 만들 수 있습니다.
+4.  **새 칸 등장 위치 예측하기**: 이동할 때마다 새로운 열차 칸이 빈 칸 중 한 곳에 등장합니다.
+    이동하기 전, "이 방향으로 밀었을 때 어디가 비게 되고, 새 칸이 어디쯤 생길지"를 같이 생각해
+    두면, 예기치 않은 막힘을 줄일 수 있습니다. 한 번의 부주의한 이동이 전체 구성을 망칠 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Corner Strategy:** A classic 2048 strategy that works perfectly here. Try to keep your highest-value train car in one of the corners of the grid at all times. This prevents it from getting trapped in the middle of the board and allows you to build up other cars around it.
-2.  **[KO]** **Limit Your Movements:** Avoid randomly swiping in all four directions. Primarily use only two or three directions (e.g., Up, Right, and occasionally Left) to keep the cars organized. This creates more predictable merges and prevents the board from filling up with low-value cars in random positions.
-3.  **[KO]** **Build Chains:** Try to arrange cars in ascending or descending order along a wall. For example, have a 4-car next to an 8-car, which is next to a 16-car. This makes it easier to perform chain reactions and combine them into your main high-value car.
-4.  **[KO]** **Think Ahead:** Before making a move, anticipate where the new car might appear and how the existing cars will shift. A single bad move can disrupt your entire setup.
+조작은 직관적이며 2048을 플레이해 본 적 있다면 바로 익숙해집니다.
 
-### Controls Guide
+*   **키보드(데스크톱)**: 방향키 **위/아래/왼쪽/오른쪽**을 눌러, 보드 위의 모든 열차 칸을 해당
+    방향으로 한 번에 밀어 움직입니다.
+*   **터치(모바일)**: 화면에서 위, 아래, 왼쪽, 오른쪽으로 스와이프해 같은 방식으로 칸을 이동시킵니다.
 
-The controls are simple and intuitive:
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Arrow Keys (Desktop):** Use the **Up, Down, Left, and Right** arrow keys to slide all the train cars on the board in the corresponding direction.
-*   **[KO]** **Swiping (Mobile):** **Swipe** in any of the four cardinal directions to move the cars.
+*   **Q: 게임의 승리 조건은 무엇인가요?**  
+    *   **A:** 같은 열차 칸을 계속 합쳐 궁극의 "2048" 기차 칸을 만드는 것이 1차 목표입니다. 그 이후에도
+        계속 플레이해 더 높은 점수에 도전할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 언제 게임에서 지게 되나요?**  
+    *   **A:** 격자 안이 열차 칸으로 가득 차고, 어느 방향으로 움직여도 더 이상 합칠 수 있는 칸이
+        남지 않았을 때 게임이 종료됩니다.
 
-*   **[KO]** **Q: How do you win the game?**
-    *   **[KO]** **A:** The primary goal is to successfully merge cars until you create the "2048" train car. Continuing to play after that to achieve an even higher score is also possible.
-
-*   **[KO]** **Q: How do you lose the game?**
-    *   **[KO]** **A:** You lose when the entire grid is filled with train cars, and there are no possible moves or merges left.
-
-*   **[KO]** **Q: Which corner is best for the highest car?**
-    *   **[KO]** **A:** Any corner works, but consistency is key. Once you choose a corner (e.g., top-right), stick with it. Most players find a bottom corner slightly easier as it feels more natural to avoid swiping down.
-
+*   **Q: 어떤 코너에 가장 높은 칸을 두는 것이 좋나요?**  
+    *   **A:** 이론적으로는 어느 코너든 상관없지만, 한 번 정한 코너는 끝까지 유지하는 것이 중요합니다.
+        많은 플레이어가 아래쪽 코너를 선호하는데, 위쪽으로만 미는 습관을 들이기 편하기 때문입니다.

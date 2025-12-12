@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: zoo-boom
-title: '[ES] Zoo Boom'
+title: Zoo Boom - Explosión de animales
 description: >-
-  [ES] Welcome to Zoo Boom! A colorful and exciting match-2 puzzle game where
-  you tap to blast blocks of adorable zoo animals and complete challenging
-  levels.
+  Bienvenido a Zoo Boom, un colorido juego de puzles match‑2 en el que tocas
+  grupos de adorables animales de zoo para hacerlos explotar y superar niveles
+  llenos de retos.
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/zoo-boom.png
 tags:
@@ -17,32 +17,36 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
-
 ### Detailed Game Introduction
 
-Zoo Boom is a vibrant and engaging match-2 puzzle game that takes you on an exciting adventure through a colorful zoo. Your mission is to tap and blast groups of two or more identical animal blocks to clear them from the board. Each level presents unique challenges and objectives, such as collecting a certain number of specific animals, clearing obstacles, or reaching a target score within a limited number of moves. Unleash powerful boosters by matching larger groups of animals to create spectacular chain reactions and achieve high scores.
+Zoo Boom es un vibrante y adictivo rompecabezas de match‑2 que te lleva de aventura por un zoo lleno de color. Tu misión es tocar grupos de dos o más bloques de animales idénticos para eliminarlos del tablero. Cada nivel propone objetivos distintos: recolectar cierto número de animales, despejar obstáculos o alcanzar una puntuación mínima con un número limitado de movimientos. Al combinar grupos grandes puedes crear potenciadores que desencadenan reacciones en cadena espectaculares.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** **Look for Large Groups:** While you can match just two identical blocks, aim for larger groups of three or more. Matching more blocks at once will give you more points and help you create powerful boosters.
-2.  **[ES]** **Create Boosters:** Matching five or more blocks will typically create special boosters like rockets, bombs, or color-clearing items. These are crucial for clearing difficult sections and achieving high scores.
-3.  **[ES]** **Combine Boosters:** The real power comes from combining two adjacent boosters. For example, combining two rockets can clear a huge area, while combining a bomb with a color-clearing item can be devastatingly effective.
-4.  **[ES]** **Prioritize Objectives:** Always keep an eye on the level's specific objectives. Sometimes it's better to make a smaller match that helps you achieve an objective rather than a large match that doesn't.
-5.  **[ES]** **Plan Your Moves:** Don't just tap randomly. Think a few moves ahead to see how your current tap will affect the board and set up future matches or booster creations.
+1.  **Busca grupos grandes:** aunque puedas eliminar solo dos bloques, intenta agrupar tres o más. Cuantos más animales limpies de una vez, más puntos obtendrás y más fácil será generar boosters.
+2.  **Crea potenciadores:** al juntar cinco o más bloques normalmente se genera un potenciador especial (cohetes, bombas, limpiadores de color…). Son esenciales para superar zonas difíciles y escalar puntuaciones.
+3.  **Combina boosters:** la verdadera magia ocurre cuando haces que dos potenciadores se toquen. Dos cohetes juntos limpian un área enorme; una bomba combinada con un limpiador de color puede arrasar medio tablero.
+4.  **Prioriza objetivos:** mantén siempre a la vista el objetivo del nivel. A veces compensa más un grupo pequeño que acerca al objetivo que un gran combo que no ayuda a avanzar.
+5.  **Piensa tus movimientos:** evita tocar al azar. Intenta prever cómo quedará el tablero tras cada explosión para preparar futuros grupos y creaciones de boosters.
 
 ### Controls Guide
 
-*   **[ES]** **Tap to Blast:** Simply click or tap on a group of two or more identical, adjacent animal blocks to clear them.
+*   **Toca para hacer explotar:** haz clic o toca sobre grupos de dos o más bloques de animales idénticos para eliminarlos.
 
 ### Frequently Asked Questions (FAQ)
 
-*   **[ES]** **Q: What is the goal of Zoo Boom?**
-    *   **[ES]** **A:** The goal is to complete the specific objectives of each level, which usually involve clearing certain types or numbers of animal blocks, or reaching a target score.
+*   **Q: ¿Cuál es la meta en Zoo Boom?**  
+    **A:** Completar los objetivos específicos de cada nivel, ya sea limpiar cierto tipo de bloques, alcanzar una puntuación o eliminar obstáculos concretos.
 
-*   **[ES]** **Q: How do I get special boosters?**
-    *   **[ES]** **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
+    - **Q: Cómo consigo potenciadores especiales?**  
+    **A:** Creándolos al eliminar grupos grandes de animales de una sola vez; cuantos más bloques incluyas, más potente será el booster resultante.
 
-*   **[ES]** **Q: What happens if I run out of moves?**
-    *   **[ES]** **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
+*   **Q: Qué pasa si me quedo sin movimientos?**  
+
+    - **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
+
+- **Q: What happens if I run out of moves?**
+
+    - **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
+    **A:** Si agotas todos los movimientos sin cumplir los objetivos, fallarás el nivel y consumirás una vida; luego podrás reintentarlo.
 

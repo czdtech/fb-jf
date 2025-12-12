@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: giant-attack
-title: '[KO] Giant Attack'
+title: Giant Attack 거대 괴물 공격
 description: >-
-  [KO] Take on colossal giants in this action-packed arcade game! Collect your
-  allies to grow in size and power, and unleash devastating attacks to defeat
-  the towering monsters.
+  전장에서 동료들을 모아 몸집과 공격력을 키우고, 거대한 괴물에게 강력한 투척 공격을 퍼붓는 액션 아케이드 게임입니다. 피격을 피하며 최대한
+  크게 성장해 보세요.
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
 thumbnail: /new-images/giant-attack.png
 tags:
@@ -19,32 +18,63 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Giant Attack is a fast-paced and thrilling action game where you face off against colossal monsters. You control a hero who must defend against these towering threats. The key to victory lies not just in attacking, but in gathering allies scattered across the battlefield. Collecting these allies makes your character grow in size and strength, enabling you to unleash more powerful projectiles and take down the giants before they crush you.
+`Giant Attack`은 거대한 괴물과 정면으로 맞서는 속도감 있는 액션 게임입니다.
+플레이어는 영웅 캐릭터를 조종해 필드 곳곳에서 등장하는 작은 동료들을 모으고,
+점점 몸집과 힘을 키워 나가야 합니다. 동료를 많이 모을수록 캐릭터가 커지고
+강해지며, 자동으로 날려 보내는 투척 무기가 더욱 커지고 강력해져, 거인을 쓰러뜨릴
+수 있게 됩니다. 괴물이 땅을 내려치며 공격하기 전에 체력을 깎아 쓰러뜨리는 것이
+목표입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** **Gather and Grow:** Your primary focus should be on moving your character to collect the small, colored allies that appear on the ground. Each one you pick up contributes to making your character bigger and stronger.
-2.  **[KO]** **Power in Numbers:** As you grow, the projectiles you automatically throw become larger and more devastating. A small character might throw axes, while a giant-sized hero might hurl massive hammers.
-3.  **[KO]** **Dodge and Weave:** While you are focused on collecting allies, you must also pay attention to the giant's attacks. Dodge incoming projectiles or ground slams to stay in the fight.
-4.  **[KO]** **Focus Fire:** Your character attacks automatically. Your main job is to position yourself to collect allies while ensuring your projectiles are consistently hitting the giant to wear down its health bar.
+1. **모으고, 커지고, 강해지기**  
+   전장 바닥에 나타나는 작은 색깔 동료들을 계속해서 주워 모으세요. 각각의
+   동료가 캐릭터의 크기와 공격력을 조금씩 올려 주며, 수가 쌓일수록 투척
+   무기가 더 거대하고 위력적으로 변합니다.
 
-### Controls Guide
+2. **수에 비례하는 화력**  
+   처음에는 작은 도끼나 투척 무기를 던지지만, 충분히 성장하면 거대한
+   망치나 대형 무기를 던지는 수준까지 올라갑니다. 공격은 자동이므로,
+   화면에 꾸준히 맞출 수 있도록 위치를 잡는 것이 중요합니다.
 
-The controls are designed to be simple and intuitive.
+3. **회피와 이동**  
+   동료 모으기에만 집중하다 보면 거인의 투사체나 바닥 내려치기에 맞기 쉽습니다.
+   공격 모션을 잘 관찰해, 그림자나 경고 표시가 뜨면 미리 측면으로 빠져 나가
+   피해를 최소화하세요.
 
-*   **[KO]** **Move Character:** Use your mouse or finger to click and drag your character left and right across the battlefield to collect allies and dodge attacks.
-*   **[KO]** **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
+4. **집중 포격 유지**  
+   캐릭터는 자동으로 공격하지만, 플레이어는 항상 괴물과 일정 거리 안에
+   머무르며 투척체가 끊이지 않게 하는 것이 역할입니다. 너무 멀리 도망가면
+   공격 시간이 줄어들어, 결국 더 오래 싸워야 합니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-*   **[KO]** **Q: How do I attack the giant?**
-    *   **[KO]** **A:** You don't need to press a button to attack; your hero does it automatically. Your main task is to focus on movement—collecting allies and dodging.
+- **캐릭터 이동**: 마우스나 손가락으로 캐릭터를 좌우로 드래그해 동료를 수집하고
+  공격을 피합니다.
+- **공격**: 별도의 공격 버튼은 필요 없습니다. 캐릭터가 살아 있는 동안 자동으로
 
-*   **[KO]** **Q: Why am I not doing much damage?**
-    *   **[KO]** **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
+- **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
+  무기를 던집니다.
 
-*   **[KO]** **Q: How do I win a level?**
-    *   **[KO]** **A:** You win by depleting the giant's health bar to zero before it defeats you.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 거대한 괴물은 어떻게 공격하나요?**  
+  **A:** 공격은 자동입니다. 플레이어는 캐릭터를 움직여 동료를 모으고, 괴물의
+  공격을 피하면서 투척 무기가 계속 맞도록 위치를 잡는 데만 집중하면 됩니다.
+
+    - **Q: 데미지가 너무 약한데 이유가 뭔가요?**  
+  **A:** 캐릭터가 아직 충분히 크지 않기 때문입니다. 동료를 더 많이 모을수록
+  몸집과 투척 무기의 위력이 함께 증가하므로, 초반에는 공격보다는 성장에
+  우선순위를 두는 것이 좋습니다.
+
+- **Q: 한 스테이지를 어떻게 클리어하나요?**  
+
+    - **A:** You win by depleting the giant's health bar to zero before it defeats you.
+
+- **Q: How do I win a level?**
+
+    - **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
+  **A:** 괴물이 플레이어를 쓰러뜨리기 전에, 괴물의 체력 바를 0까지 깎으면
+  해당 레벨을 클리어하게 됩니다.

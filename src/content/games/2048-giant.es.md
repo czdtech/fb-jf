@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: 2048-giant
-title: '[ES] 2048 Giant'
+title: "2048 Giant versión de tablero grande"
 description: >-
-  [ES] Experience the classic 2048 puzzle in a giant new way in 2048 Giant.
-  Combine tiles and reach for a high score on a bigger board.
+  2048 Giant lleva el clásico puzle 2048 a un tablero más grande. Combina fichas
+  numeradas, crea la casilla 2048 y aprovecha el espacio extra para lograr
+  puntuaciones gigantes.
 iframeSrc: >-
   https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/2048-giant.jpg
@@ -17,30 +18,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+2048 Giant es una variante del clásico 2048, pero jugada en una cuadrícula más
+amplia. El objetivo sigue siendo el mismo: deslizar fichas numeradas para
+fusionarlas y crear la casilla 2048. Sin embargo, el tablero grande añade una
+capa extra de dificultad y exige una planificación más profunda.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-2048 Giant is a version of the classic 2048 puzzle game, but played on a larger grid. The goal remains the same: slide numbered tiles to combine them and create the 2048 tile. The larger board offers a new level of challenge and requires more strategic planning.
+Las estrategias básicas de 2048 siguen funcionando aquí, pero hay que
+adaptarlas al tamaño del tablero.
 
-### Gameplay Strategy & Walkthrough
+1.  **Estrategia de la esquina:** Elige una esquina y mantén allí tu ficha de
+    mayor valor. En un tablero grande esto es todavía más importante para que
+    las fichas altas no queden atrapadas en el centro.
+2.  **Limita los movimientos:** Intenta ceñirte a 2 o 3 direcciones para mantener
+    las fichas ordenadas y predecibles. Por ejemplo, si tu esquina fuerte está a
+    la derecha, usa sobre todo **Arriba**, **Abajo** y **Derecha**.
+3.  **Construye cadenas:** Ordena las fichas en valores descendentes desde tu
+    esquina elegida. Así prepararás reacciones en cadena cuando fusiones.
+4.  **Piensa varios movimientos por delante:** El tablero grande ofrece más
+    posibilidades… y más maneras de cometer errores. Antes de deslizar, imagina
+    cómo se recolocarán las fichas.
 
-The core strategies for 2048 apply here, but need to be adapted for the larger board.
+### Guía de controles
 
-1.  **[ES]** **The Corner Strategy:** Choose one corner and keep your highest value tile there. This is more crucial on a larger board to avoid getting high-value tiles trapped in the middle.
-2.  **[ES]** **Limit Movement:** Stick to 2 or 3 directions to keep the tiles organized and predictable. For example, use only the up, down, and right arrows if your corner is on the right side.
-3.  **[ES]** **Build Chains:** Arrange tiles in descending order from your chosen corner. This helps in creating chain reactions of merges.
-4.  **[ES]** **Plan Ahead:** Think several moves ahead. A larger board means more possibilities and more chances for error.
+*   **Teclado:** Usa las teclas de flecha para mover todas las fichas de la
+    cuadrícula.
+*   **Pantalla táctil:** En dispositivos móviles, desliza en la dirección en la
+    que quieras que se muevan las fichas.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **Arrow Keys:** Use the arrow keys to move the tiles.
-*   **Swipe:** On touch devices, swipe in the direction you want the tiles to move.
+*   **P: ¿Cuál es el objetivo de 2048 Giant?**
+    *   **R:** Fusionar fichas del mismo número hasta crear la casilla 2048. Después puedes seguir jugando para intentar conseguir una puntuación aún más alta.
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the goal of 2048 Giant?**
-    *   **A:** To create the 2048 tile by merging tiles of the same number. The game can be continued after reaching 2048 to achieve a higher score.
-*   **Q: How is it different from classic 2048?**
-    *   **A:** It's played on a larger grid, which makes the game longer and requires more planning.
-
+*   **P: ¿En qué se diferencia del 2048 clásico?**
+    *   **R:** Se juega en una cuadrícula más grande, lo que alarga la partida y exige más planificación y control del tablero.

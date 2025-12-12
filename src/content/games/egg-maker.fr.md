@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: egg-maker
-title: '[FR] Egg Maker'
-description: >-
-  [FR] Egg Maker is a quick kitchen puzzler — sequence prep steps, time pans,
-  and serve perfect eggs under rush pressure.
+title: Egg Maker
+description: "Egg Maker est un petit jeu de cuisine rapide\_: enchaîne les étapes de préparation, gère la cuisson à la seconde près et sers des œufs parfaits sans les brûler."
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/egg-maker.png
 tags:
@@ -16,40 +14,75 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Egg Maker condense la gestion de temps en cuisine en une série de postes
+rapides : casser les œufs, les battre, assaisonner, cuire à la poêle, dresser
+puis servir. Chaque commande demande un type de cuisson différent (œufs
+brouillés, au plat, omelette) avec une fenêtre de cuisson précise.
 
-Egg Maker distills time‑management cooking into rapid stations: crack, whisk, season, heat, plate, and serve. Each order specifies a style (scrambled, sunny‑side, omelet) and doneness windows. Items on heat continue cooking, so sequencing and pickup timing decide whether you hit “perfect” or burn.
+Les aliments continuent de cuire tant qu’ils sont sur le feu : tout l’enjeu est
+donc de bien séquencer tes actions pour sortir les assiettes au moment parfait
+et éviter de brûler les plats.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Station rhythm: Always start with the longest step (heat), then backfill short prep while the pan runs.
-2.  **[FR]** Two‑pan flow: Stagger pans by a few seconds so you can flip/plate one while prepping the next.
-3.  **[FR]** Doneness windows: Grab at the edge of “perfect” for score bonuses; learn visual/audio tells.
-4.  **[FR]** Multi‑orders: Group similar styles to reuse pan state and reduce clean cycles.
-5.  **[FR]** Upgrades: Prioritize extra pan and faster prep over décor.
+1.  **Commence par ce qui prend le plus de temps**  
+    Lance d’abord les cuissons (mettre les œufs dans la poêle), puis profite du
+    temps de chauffe pour faire les tâches plus rapides (casser d’autres œufs,
+    assaisonner, préparer les assiettes).
+2.  **Décale légèrement tes poêles**  
+    Si tu as plusieurs poêles, évite de tout lancer en même temps : une petite
+    différence de timing te permet de retourner/servir une poêle pendant que
+    l’autre finit de cuire.
+3.  **Apprends les signaux de cuisson**  
+    Observe les changements visuels et sonores (couleur, bruit de cuisson) qui
+    indiquent le passage de "cru" à "parfait" puis à "trop cuit".
+4.  **Regroupe les commandes similaires**  
+    Quand plusieurs clients demandent le même type d’œufs, prépare‑les à la
+    suite pour limiter les nettoyages et changements de mode de cuisson.
+5.  **Choisis bien tes améliorations**  
+    Si le jeu propose des upgrades, privilégie l’ajout de poêles et
+    l’accélération de la préparation avant la déco du restaurant.
 
-### Controls Guide
+### Commandes
 
-- Tap to crack/whisk/season; drag to pan/plate; tap customer to serve.
-- Pause/Retry in the UI between shifts.
+- **Actions de cuisine** : touche ou clique pour casser les œufs, fouetter,
+  assaisonner, puis fais glisser vers la poêle et enfin vers l’assiette.  
+- **Service** : touche le client ou l’icône de service pour lui apporter son
+  plat.  
+- **Pause / Rejouer** : via les boutons de l’interface.
 
-### Advanced Tips
+### Foire aux questions (FAQ)
 
-- Buffer trays: Stage plates near the pass so you spend less movement when orders spike.
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
-
-### Frequently Asked Questions (FAQ)
 
 - Q: I keep burning items — how to fix?
 
-A: Stagger pans by 3–4 seconds, do short prep during the gap, and focus on auditory sizzle cues.
+
+- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+
+- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
+### Foire aux questions (FAQ)
+
+- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+
+- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
+
+- Buffer trays: Stage plates near the pass so you spend less movement when orders spike.
+**Q : Je brûle tout le temps mes œufs, que faire ?**  
 
 - Q: Which upgrade first?
-
-A: Extra pan > faster prep > queue size. Décor is endgame.
+R : Espace légèrement tes cuissons (2–3 secondes entre chaque poêle) et garde
 
 - Q: Any trick for omelets with fillings?
+un œil sur les assiettes prêtes plutôt que de lancer trop de préparations en
+même temps.
 
-A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
+**Q : Quelles améliorations sont les plus utiles au début ?**  
+R : Une poêle supplémentaire et des préparations plus rapides (cassage/foison)
+ont plus d’impact que la déco ou des bonus secondaires.
+
+**Q : Y a‑t‑il une fin au jeu ?**  
+R : Le plus souvent, Egg Maker propose des niveaux ou jours à enchaîner avec
+une difficulté croissante, l’objectif étant de tenir le rush et d’obtenir les
+meilleures notes possibles.

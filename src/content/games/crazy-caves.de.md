@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: crazy-caves
-title: '[DE] Crazy Caves'
+title: "Crazy Caves"
 description: >-
-  [DE] Enter the Crazy Caves and test your reflexes! Dodge an endless barrage of
-  falling rocks while throwing pickaxes to smash them for valuable gems and
-  gold. Upgrade your gear to survive longer and score higher.
+  Betritt die Crazy Caves und teste deine Reflexe. Weiche einem Dauerregen aus
+  Felsbrocken aus, wirf Spitzhacken, zertrümmere Steine für Edelsteine und Gold
+  und rüste deine Ausrüstung auf, um länger zu überleben.
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/crazy-caves.jpg
@@ -18,32 +18,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Crazy Caves* ist ein schnelles, actiongeladenes Arcade-Spiel, das deine
+Reaktionsfähigkeit testet. Du steuerst einen Minenarbeiter im Wagen am Boden
+ einer gefährlichen Höhle, in der ständig Felsbrocken aller Größenordnung von
+ oben herabfallen.
 
-### Detailed Game Introduction
+Deine Aufgabe ist zweigeteilt: Weiche dem Geröll aus, um zu überleben, und
+wirf gleichzeitig Spitzhacken nach oben, um Steine zu zerbrechen und die dabei
+fallenden Edelsteine und Goldstücke einzusammeln. Mit dem verdienten Geld
+verbesserst du deine Ausrüstung und versuchst, in den chaotischen Höhlen immer
+länger durchzuhalten.
 
-Crazy Caves is a fast-paced, action-packed arcade game that tests your reflexes and survival skills. You control a miner in a cart at the bottom of a dangerous cave where rocks of all sizes are constantly falling. Your mission is twofold: dodge the falling debris to survive, and simultaneously throw pickaxes to smash the rocks, collecting the valuable gems and gold that fall out. Use your earnings to upgrade your equipment and see how long you can last in the chaotic caverns.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  Überleben hat Priorität: Wichtigstes Ziel ist, nicht getroffen zu werden.
+    Bleibe in Bewegung und behalte die Flugbahnen aller Felsbrocken im Blick –
+    ein einziger Treffer beendet deinen Run.
+2.  Gefährlichste Steine zuerst: Große oder schnelle Brocken sind besonders
+    gefährlich. Konzentriere deine Spitzhacken zuerst auf die unmittelbarsten
+    Bedrohungen.
+3.  Effizientes Minen: Positioniere dich so, dass du nach dem Zerstören eines
+    Steins nicht in eine Ecke gedrängt wirst. Bleibe flexibel, um direkt die
+    nächsten Ziele anzuvisieren.
+4.  Clever aufrüsten: Investiere deine Einnahmen zuerst in mehr
+    Spitzhacken-Schaden, damit du Steine schneller zertrümmern kannst – das
+    erhöht sowohl deine Sicherheit als auch deine Einnahmen. Danach lohnen sich
+    Einkommens-Upgrades für mehr Gold pro Brocken.
+5.  Großbrocken früh bearbeiten: Sehr große Felsen brauchen mehrere Treffer.
+    Beginne sie früh anzugreifen, solange noch genug Platz zum Ausweichen
+    bleibt.
 
-1.  **[DE]** **Survival First:** Your absolute top priority is to not get hit. Always be moving and keep an eye on the trajectory of all falling rocks. It only takes one hit to end your run.
-2.  **[DE]** **Prioritize Threats:** Some rocks are larger and fall faster, posing a greater threat. Focus your pickaxe throws on the most immediate dangers first.
-3.  **[DE]** **Efficient Mining:** Try to position yourself so that when you destroy a rock, you are in a safe place to continue attacking others. Don't get cornered while trying to break a single large boulder.
-4.  **[DE]** **Upgrade Smartly:** After each run, invest your collected gold and gems wisely. Upgrading your pickaxe damage allows you to destroy rocks faster, which is crucial for survival. Upgrading your income helps you earn more for future upgrades, creating a powerful feedback loop.
+### Steuerung
 
-### Controls Guide
+*   Bewegen: Ziehe den Wagen mit Maus oder Finger am unteren Bildschirmrand
+    nach links und rechts.
+*   Spitzhacke werfen: Klicke oder tippe auf den Bildschirm, um eine Spitzhacke
+    nach oben zu schleudern.
 
-*   **[DE]** **Move:** Use your mouse or finger to drag your mining cart left and right along the bottom of the screen.
-*   **[DE]** **Throw Pickaxe:** Click the left mouse button or tap anywhere on the screen to throw a pickaxe upwards.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   F: Was passiert, wenn mich ein Stein trifft?
+    *   A: Der Lauf ist sofort vorbei, du startest einen neuen Versuch und
+        nimmst nur deine Upgrades mit.
 
-*   **[DE]** **Q: What happens if a rock hits me?**
-    *   **[DE]** **A:** The game is over instantly. You will need to start a new run from the beginning.
+*   F: Welche Upgrades sind am wichtigsten?
+    *   A: Anfangs ist zusätzlicher Schaden pro Spitzhacke entscheidend, damit
+        du gefährliche Steine schneller entfernst. Danach sind
+        Einkommens-Upgrades ein guter nächster Schritt.
 
-*   **[DE]** **Q: What should I focus on upgrading first?**
-    *   **[DE]** **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
-
-*   **[DE]** **Q: How do I deal with the really big boulders?**
-    *   **[DE]** **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
-
+*   F: Wie gehe ich mit sehr großen Brocken um?
+    *   A: Bleibe mobil, wirf mehrere Spitzhacken schnell hintereinander und
+        fange früh an, solche Brocken zu bearbeiten, bevor sie zu nah kommen.

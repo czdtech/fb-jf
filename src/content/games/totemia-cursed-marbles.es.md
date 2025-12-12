@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: totemia-cursed-marbles
-title: '[ES] Totemia: Cursed Marbles'
+title: 'Totemia: Cursed Marbles - Dispara y rompe la cadena'
 description: >-
-  [ES] A classic marble shooter puzzle! Shoot marbles from your tiki stone to
-  create matches of three or more, and destroy the entire chain before it
-  reaches the end of the path.
+  Un clásico rompecabezas de disparar canicas. Lanza bolas desde tu tótem tiki,
+  forma grupos de tres o más del mismo color y destruye toda la cadena antes de
+  que llegue al final del recorrido.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/totemia-cursed-marbles.png
 tags:
@@ -16,34 +16,37 @@ score: 4.5/5  (2750 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Totemia: Cursed Marbles es un trepidante juego de acción y puzles al estilo de los clásicos Zuma o Luxor. Una cadena de canicas malditas y de distintos colores avanza sin descanso hacia una cámara secreta. Tú controlas un potente tótem tiki que dispara bolas de colores. Tu objetivo es destruir toda la cadena antes de que la primera canica alcance el agujero final, creando grupos de tres o más del mismo color.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **Busca combos:** la clave para superar niveles y lograr grandes puntuaciones es encadenar reacciones. Cuando haces estallar un grupo, la cadena se detiene un instante; si los dos extremos que quedan son del mismo color, se juntarán y a menudo crearán una nueva explosión automática.
+2.  **Dispara entre huecos:** no tengas miedo de apuntar a través de pequeños espacios de la cadena para alcanzar canicas que están más atrás. Un tiro preciso puede preparar una combinación mucho más valiosa.
+3.  **Aprovecha los potenciadores:** fíjate en las bolas especiales que aparecen en la cadena. Al destruirlas puedes obtener poderes como bolas de fuego que arrasan cualquier color o rayos que eliminan un tramo completo.
+4.  **Intercambia colores:** tu lanzador tiki suele almacenar dos canicas. Si el color actual no sirve, intercámbialo por el siguiente para preparar un disparo más útil.
 
-Totemia: Cursed Marbles is a thrilling action-puzzle game in the style of classic marble shooters like Zuma or Luxor. A chain of cursed, colored marbles is rolling along a path towards a secret chamber. You control a powerful tiki stone that shoots marbles. Your objective is to destroy the entire chain by shooting marbles to create matches of three or more of the same color before the first marble reaches the end of the line.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- **Apuntar:** mueve el ratón para orientar el disparo del tótem.
+- **Disparar:** haz clic con el botón izquierdo para lanzar la canica.
+- **Cambiar de bola:** normalmente puedes hacer clic derecho o pulsar la barra espaciadora para alternar entre las dos canicas disponibles.
 
-1.  **[ES]** **Aim for Combos:** The key to a high score and clearing levels efficiently is to create combos. When you pop a group of marbles, the chain will temporarily stop. If the two new ends of the chain are the same color, they will attract each other, pull back, and merge, often creating an automatic new match. This is a combo!
-2.  **[ES]** **Shoot Through Gaps:** Don't be afraid to shoot through small gaps in the chain to reach marbles further back. A well-aimed shot can set up a much more valuable match.
-3.  **[ES]** **Use Power-ups:** Look for special marbles that appear in the chain. Shooting these can grant you powerful abilities, like a Fireball that can destroy any marbles it hits, or a Lightning bolt that zaps a section of the chain.
-4.  **[ES]** **Swap Marbles:** Your tiki shooter often holds two marbles. If the current color isn't useful, you can swap it with the next one to make a better strategic shot.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **Q: ¿Cuál es el objetivo del juego?**  
+    **A:** Destruir todas las canicas de la cadena antes de que cualquiera de ellas llegue al agujero al final del camino.
 
-*   **[ES]** **Aim:** Move your mouse to aim the tiki stone shooter.
-*   **[ES]** **Shoot:** Click the left mouse button to fire the marble.
-*   **[ES]** **Swap Marbles:** You can typically right-click or press the spacebar to swap between the two marbles in your shooter.
+    - **Q: ¿Qué pasa si una canica alcanza el final?**  
+    **A:** Pierdes el nivel y tendrás que intentarlo de nuevo.
 
-### Frequently Asked Questions (FAQ)
+*   **Q: Cómo consigo la máxima puntuación?**  
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** To destroy all the marbles in the moving chain before any single marble reaches the hole at the end of the path.
+    - **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
 
-*   **[ES]** **Q: What happens if a marble reaches the end?**
-    *   **[ES]** **A:** You will lose the level and have to start again.
+- **Q: How do I get the highest score?**
 
-*   **[ES]** **Q: How do I get the highest score?**
-    *   **[ES]** **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
+    - **A:** You will lose the level and have to start again.
+    **A:** Encadenando reacciones y combos. Cuantas más explosiones provoques seguidas, mayor será el multiplicador de puntos. Terminar rápido también suele otorgar bonificaciones de tiempo.
 

@@ -1,81 +1,40 @@
 ---
+title: "Island Of Treasures"
+description: "このスリリングな海賊アドベンチャーに乗り出しましょう！きらめく宝石を集め、命取りの罠を避け、ライバルの海賊を出し抜いて、見捨てられた島で最も裕福な海賊になりましょう。"
+iframeSrc: "https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/"
+thumbnail: "/new-images/island-of-treasures.png"
+urlstr: "island-of-treasures"
+score: "4.3/5  (2200 votes)"
+tags: ["action", "adventure", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: island-of-treasures
-title: '[JA TRANSLATION NEEDED] Island Of Treasures'
-description: >-
-  [JA TRANSLATION NEEDED] Embark on a thrilling pirate adventure in this 3D
-  endless runner! Collect gleaming jewels, dodge deadly traps, and outsmart
-  rival pirates to become the richest buccaneer on the forsaken island.
-iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
-thumbnail: /new-images/island-of-treasures.png
-tags:
-  - action
-  - adventure
-  - casual
-score: 4.3/5  (2200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Island Of Treasuresは、スリリングな海賊アドベンチャーにあなたを突き落とす、アクション満載の3Dエンドレスランナーゲームです。大胆な海賊（バッカニア）としてプレイし、ダイナミックで危険な島の環境を絶えず走り抜けます。あなたのミッションは、できるだけ多くのきらめく宝物を集め、命取りの罠を避け、富を狙っているライバルの海賊を出し抜くことです。ゲームはあなたの反射神経と敏捷性をテストし、最高スコアを達成して、見捨てられた島の伝説の海賊になることを目指します。
 
-[JA TRANSLATION NEEDED] Island Of Treasures is an action-packed 3D endless runner game that plunges you into a thrilling pirate adventure. You play as a daring buccaneer, constantly running through a dynamic and treacherous island environment. Your mission is to collect as much gleaming treasure as possible, dodge deadly traps, and outsmart rival pirates who are also after the riches. The game tests your reflexes and agility as you strive to achieve the highest score and become the legendary pirate of the forsaken island.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **すべてを集める:** 主な目標は、道に沿って散らばっているコイン、宝石、その他の宝物を集めることです。これらはスコアに貢献し、アップグレードや新しいキャラクターをアンロックするために使用できます。
+2.  **動きをマスターする:** 障害物に素早く反応する必要があります。左/右にスワイプしてレーンを変更し、上にスワイプして隙間や低い障害物をジャンプし、下にスワイプして高い障害物の下をスライドします。これらの動きを練習して第二の本性にしましょう。
+3.  **パワーアップを活用する:** スピードブースト、シールド、マグネットなどのパワーアップに注意してください。これらの一時的な利点は、より長く生き残り、より多くの宝物を集めるのに役立ちます。特に挑戦的なセクションでは、戦略的に使用してください。
+4.  **衝突を避ける:** 障害物やライバルの海賊にぶつかると、ランは終了します。衝突が差し迫っている場合は、常に収集よりも回避を優先してください。
 
-[JA TRANSLATION NEEDED] 1.  **Collect Everything:** Your primary goal is to collect coins, jewels, and other treasures scattered along your path. These contribute to your score and can be used to unlock upgrades or new characters.
-[JA TRANSLATION NEEDED] 2.  **Master the Moves:** You'll need to quickly react to obstacles. Swipe left/right to change lanes, swipe up to jump over gaps and low obstacles, and swipe down to slide under high obstacles. Practice these moves to make them second nature.
-[JA TRANSLATION NEEDED] 3.  **Utilize Power-ups:** Keep an eye out for power-ups like speed boosts, shields, or magnets. These temporary advantages can help you survive longer and collect more treasure. Use them strategically, especially in challenging sections.
-[JA TRANSLATION NEEDED] 4.  **Avoid Collisions:** Hitting any obstacle or rival pirate will end your run. Always prioritize dodging over collecting if a collision is imminent.
+### 操作ガイド
 
-### Controls Guide
+*   **左/右に移動:** **A/Dキー**または**左/右矢印キー**を使用してレーンを変更します。
+*   **ジャンプ:** **スペースバー**または**上矢印キー**を押してジャンプします。
+*   **スライド:** **Sキー**または**下矢印キー**を押して障害物の下をスライドします。
 
-*   **Move Left/Right:** Use the **A/D keys** or **Left/Right Arrow keys** to change lanes.
-    - **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.（日本語訳が必要）
-    - **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.（日本語訳が必要）
-    - **A:** Your run ends immediately, and you will have to start over from the beginning.（日本語訳が必要）
-    - **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.（日本語訳が必要）
-    - **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.（日本語訳が必要）
-    - **A:** Your run ends immediately, and you will have to start over from the beginning.（日本語訳が必要）
-*   **Jump:** Press the **Spacebar** or **Up Arrow key** to jump.
-*   **Slide:** Press the **S key** or **Down Arrow key** to slide under obstacles.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ゲームの主な目的は何ですか？**
+    *   **A:** できるだけ遠くまで走り、最大量の宝物を集めて最高スコアを達成することです。
 
-*   **Q: What is the main objective of the game?**
+*   **Q: ライバルの海賊をどうやって攻撃しますか？**
+    *   **A:** ほとんどのエンドレスランナーでは、直接戦闘は焦点ではありません。通常、ライバルの海賊は障害物として避けます。一部のバージョンでは、一時的に気絶させる特定のパワーアップまたはアクションがあるかもしれません。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.
-
-*   **Q: How do I attack rival pirates?**
-[JA TRANSLATION NEEDED]     *   **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
-
-*   **Q: What happens if I fall into the water or hit an obstacle?**
-
-
-
-
-
-
-
-
-    - **A:** Your run ends immediately, and you will have to start over from the beginning.
-- **Q: What happens if I fall into the water or hit an obstacle?**
-    - **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
-- **Q: How do I attack rival pirates?**
-    - **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.
-- **Q: What is the main objective of the game?**
-### よくある質問（FAQ）
-- **Slide:** Press the **S key** or **Down Arrow key** to slide under obstacles.
-
-
-
-
-
-    - **A:** Your run ends immediately, and you will have to start over from the beginning.
-- **Q: What happens if I fall into the water or hit an obstacle?**
-    - **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
-- **Q: How do I attack rival pirates?**
-    - **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.
-[JA TRANSLATION NEEDED]     *   **A:** Your run ends immediately, and you will have to start over from the beginning.
-
+*   **Q: 水に落ちたり障害物にぶつかったりするとどうなりますか？**
+    *   **A:** ランはすぐに終了し、最初からやり直す必要があります。

@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: red-ball
-title: '[ZH TRANSLATION NEEDED] Red Ball'
+title: "《Red Ball》红球大冒险"
 description: >-
-  [ZH TRANSLATION NEEDED] Red Ball is the original physics-based platformer game
-  where players control a bouncing red ball through various levels filled with
-  obstacles, enemies, and puzzles, using momentum and physics to overcome
-  challenges.
+  《Red Ball》是这一系列的初代物理横版闯关游戏。你要操控一颗会弹跳的红色小球，在充满陷阱、敌人和小谜题的关卡中前进，利用惯性与物理特性跨越各种难关。
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/red-ball.jpg
@@ -19,31 +16,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《Red Ball》是红球系列的开端，也是经典的物理横版平台游戏之一。你将控制一颗红色小球穿越一关关精心设计的地图，这些关卡布满坑洞、机关、敌人以及隐藏区域。游戏很注重惯性与重力效果，需要你合理利用红球的滚动和弹跳来解决问题，因此在简单的操作背后藏着颇有深度的挑战。
 
-[ZH TRANSLATION NEEDED] "Red Ball" is the original physics-based platformer game where players control a bouncing red ball through various levels filled with obstacles, enemies, and puzzles. The game uses momentum and physics properties to overcome challenges, laying the foundation for subsequent Red Ball series games. The game is known for its simple yet challenging gameplay.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **先掌握基础物理：** 熟悉红球在不同坡度下的加速与减速，以及弹跳高度与起跳速度之间的关系，这会直接影响你能否准确落到安全平台。
+2.  **多观察关卡环境：** 进入新关卡后，先扫一眼整体布局，注意可能存在的隐藏通道、可推动的箱子或开关，很多秘密都藏在细节里。
+3.  **把握通关时机：** 许多障碍（如摆动的锯片、移动平台）都要求在特定时机通过。耐心观察运作节奏，在最安全的时间点起跳或前进。
+4.  **正确对付敌人：** 大多数敌人都可以通过从上方跳压来击败，但要避免正面硬撞或被从侧面挤下平台。
+5.  **探索与收集：** 注意关卡中的星星和隐藏物品，尽量全部收集以获得更高评分和更完整的通关体验。
 
-1.  **Master Basic Physics**: Learn to utilize the red ball's bouncing and rolling characteristics to navigate levels.
-2.  **Observe Environment**: Carefully observe each level's layout, looking for hidden paths and secrets.
-3.  **Timing Matters**: Many obstacles require precise timing to pass through; wait patiently for the best moment.
-4.  **Defeat Enemies**: Defeat enemies by jumping on them from above, avoiding direct collisions.
-5.  **Explore and Collect**: Look for hidden items and stars to achieve higher scores.
+### 操作说明
 
-### How to Play
+*   **移动：** 使用左右方向键控制红球横向移动。
+*   **跳跃：** 使用上方向键或空格键让红球起跳。
+*   **物理互动：** 借助斜坡和重力来获得额外的速度与高度，必要时通过来回滑行积累动量。
 
-*   **Move**: Use left and right arrow keys to control the red ball's horizontal movement.
-*   **Jump**: Use the up arrow key or spacebar to make the red ball jump.
-*   **Physics Interaction**: Utilize slopes and gravity to gain extra speed and height.
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What are the differences between the first Red Ball game and subsequent titles?**
-     **A**: The first game established the basic physics gameplay mechanics, while subsequent titles added more levels, enemy types, and mechanisms on this foundation.
-2.  [ZH TRANSLATION NEEDED] **Q: How can I achieve higher scores?**
-     **A**: Collect all stars and hidden items in levels, complete levels quickly, and avoid deaths to achieve higher scores.
-3.  [ZH TRANSLATION NEEDED] **Q: How difficult is the game?**
-     **A**: The game starts simple and gradually increases in difficulty, suitable for players of all ages.
-4.  [ZH TRANSLATION NEEDED] **Q: Is there a time limit?**
-     **A**: Most levels don't have strict time limits, but completing them quickly can result in better ratings.
+1.  **问：初代《Red Ball》和后续作品有什么区别？**  
+    **答：** 初代主要确立了红球系列的基础物理玩法和关卡风格，后续作品则在此基础上加入了更多关卡类型、敌人种类以及新机关。
+2.  **问：怎样才能拿到更高分？**  
+    **答：** 尽量收集每一关中的所有星星和隐藏道具，并在尽量少死亡的前提下快速通关，这些都会提高最终评价。
+3.  **问：游戏难度怎么样？**  
+    **答：** 前期关卡较为友好，主要用于熟悉操作和物理规则，后期难度会逐步提升，但整体仍适合不同年龄段玩家体验。
+4.  **问：关卡有时间限制吗？**  
+    **答：** 多数关卡没有严格时间限制，但如果你追求高评分或个人挑战，尽可能在短时间内完成会更有成就感。

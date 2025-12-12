@@ -1,75 +1,50 @@
 ---
-locale: ja
-urlstr: differences-find-quest
-title: '[JA TRANSLATION NEEDED] Differences Find Quest'
-description: >-
-  [JA TRANSLATION NEEDED] Differences Find Quest is a detailed
-  spot‑the‑difference — scan scenes, mark discrepancies, and use hints wisely.
+title: Differences Find Quest 間違い探しクエスト
+description: 「Differences Find Quest」はこだわりの間違い探しゲーム。2つの絵を見比べて、巧妙に隠された違いを見つけ出そう。
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/differences-find-quest.png
+urlstr: differences-find-quest
+score: 4.0/5  (1876 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.0/5  (1876 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Differences Find Quest（間違い探しクエスト）*は、観察力が試される詳細な間違い探しゲームです。2つのよく似た画像を見比べ、消えている物体、色が違う部分、反転している模様、大きさの違いなど、微細な差異を見つけ出してください。
+レベルが進むにつれて間違いの数が増えたり、制限時間が厳しくなったりします。
 
-[JA TRANSLATION NEEDED] Differences Find Quest challenges you to compare two images and spot subtle changes: missing objects, color swaps, flipped patterns, or size variations. Later levels add more differences, trick angles, and gentle time pressure.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **分割スキャン:** 画像全体を漫然と見るのではなく、4〜6のエリアに区切って、一つずつ順番にチェックしていくと見落としが減ります。
+2.  **境界線を見る:** 間違いは「フチ（境界線）」や影、繰り返しの模様の中に隠されていることが多いです。
+3.  **ズーム活用:** 細かい部分はズーム機能を使って拡大して確認しましょう。
+4.  **ヒントの温存:** 最初からヒントを使わず、どうしても見つからない最後の1〜2個のために取っておきましょう。
+5.  **休憩:** ずっと見ていると目が慣れて違いが見えなくなります。少し目を逸らしてリセットすると、パッと見えることがあります。
 
-[JA TRANSLATION NEEDED] 1.  Grid scan: Divide the image into 4–6 zones and sweep each zone methodically.
-[JA TRANSLATION NEEDED] 2.  Look for edges: Differences cluster at borders, shadows, and repeated textures.
-[JA TRANSLATION NEEDED] 3.  Zoom if possible to check small details.
-[JA TRANSLATION NEEDED] 4.  Save hints for the final 1–2 stubborn differences.
-[JA TRANSLATION NEEDED] 5.  Take short breaks to reset your visual focus.
+### 操作ガイド
 
-### Controls Guide
+*   **選択:** 左右どちらかの画像で、違っている箇所をタップしてマークします。間違った場所をタップするとペナルティとして時間を減らされる場合があります。
+*   **ヒント:** 電球アイコンなどをクリックしてヒントを使います。
 
-- Tap differences on either image; wrong taps may cost time.
-- Use hints sparingly; some modes penalize excessive hints.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 最後の一つが見つかりません！**
 
-- Q: I’m stuck on the last difference — what now?
-  
-[JA TRANSLATION NEEDED]   A: Step back, re‑scan edges and repeated patterns, then use a hint if available.
-
-- Q: Do I lose time for mistakes?
-  
-[JA TRANSLATION NEEDED]   A: Many modes deduct time or score for mis‑clicks; be deliberate.
-
-- Q: Any trick for tiny color shifts?
-  
+A: Step back, re‑scan edges and repeated patterns, then use a hint if available.
+- **A:** 一歩引いて全体を眺めるか、逆に思い切り拡大して端から見てみましょう。それでもダメならヒントの出番です。
 
 
-
-
-
-- Q: I’m stuck on the last difference — what now?
-### よくある質問（FAQ）
-- Use hints sparingly; some modes penalize excessive hints.
-- Tap differences on either image; wrong taps may cost time.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Squint slightly or zoom — it can reveal subtle contrast differences.
-
-
-
-
-
+A: Many modes deduct time or score for mis‑clicks; be deliberate.
+*   **Q: お手つき（ミスタップ）でペナルティはありますか？**
 
 A: Squint slightly or zoom — it can reveal subtle contrast differences.
-- Q: Any trick for tiny color shifts?
-A: Many modes deduct time or score for mis‑clicks; be deliberate.
-- Q: Do I lose time for mistakes?
+    *   **A:** はい、時間制限があるモードでは、適当に連打すると残り時間が減らされることが多いので、確信を持ってからタップしましょう。
 
-
-
-
-A: Squint slightly or zoom — it can reveal subtle contrast differences.
-- Q: Any trick for tiny color shifts?
-A: Many modes deduct time or score for mis‑clicks; be deliberate.
+*   **Q: 色の違いが分かりにくいです。**
+    *   **A:** 微妙な色の変化は難易度が高いです。画面の明るさを上げたり、少し目を細めて見ると色のコントラストが強調されて見えることがあります。

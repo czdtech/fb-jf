@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: survivor-legends
-title: '[KO] Survivor Legends'
+title: 'Survivor Legends 서바이버 레전드'
 description: >-
-  [KO] Survivor Legends is a horde‑survivor — kite circles, draft synergies, and
-  mow waves with cooldown economy and positioning.
+  Survivor Legends는 자동 공격형 생존 게임으로, 이동으로 적을 유도하고 레벨업으로
+  무기·패시브를 선택해 몰려오는 적 무리를 버티는 로그라이크 슈팅 게임입니다.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/survivor-legends.png
 tags:
@@ -16,29 +16,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Survivor Legends는 자동으로 공격하는 캐릭터를 조종해, 사방에서 몰려오는 적을
+피하고 쓸어 담으며 최대한 오래 생존하는 "호드 서바이버" 형식의 게임입니다.
+이동으로 적을 빙글빙글 돌게(kite) 만들고, 레벨업 때마다 랜덤으로 제시되는
+무기·패시브 업그레이드를 골라 자신만의 빌드를 완성해야 합니다.
 
-Survivor Legends follows the auto‑attack survivor formula: move to kite, level to draft weapons/passives, and survive crescendos. Builds hinge on damage schedules (DPS vs burst), crowd control, and pickup radius for XP economy.
+빌드의 핵심은 **지속 공격 vs 폭딜**, 군중 제어(CC), 경험치 구슬을 빨아들이는
+픽업 범위 등입니다. 어떤 조합을 고르느냐에 따라 후반 난이도와 플레이 스타일이
+완전히 달라집니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 및 공략
 
-1.  **[KO]** Wide kites: Large loops give correction time; avoid tight corners.
-2.  **[KO]** Priority: Kill fast/ranged first; slow melee later.
-3.  **[KO]** Draft synergies: Pair pierce with knockback, slow with crit, or aura with sustain.
-4.  **[KO]** Economy: Invest in pickup radius/XP early to accelerate drafts.
-5.  **[KO]** Ult windows: Save actives for wave spikes and elite packs.
+1.  **넓은 원을 그리며 움직이기:**
+    너무 좁게 도느라 코너에 몰리지 말고, 큰 원을 그리며 움직이면 실수해도
+    진로를 수정할 여유가 생깁니다.
+2.  **우선 처치 대상 정하기:**
+    느린 근접 적은 나중에 처리해도 되지만, 빠르거나 원거리 공격을 하는 적은
+    먼저 없애야 안전합니다.
+3.  **시너지 업그레이드 노리기:**
+    관통과 넉백, 둔화와 치명타, 아우라와 회복 등 서로 잘 어울리는 조합을
+    염두에 두고 선택하면 효율이 크게 올라갑니다.
+4.  **초반 경제 투자:**
+    게임 초반에는 픽업 범위나 추가 경험치 같은 경제 업그레이드에 투자해
+    레벨업 속도를 끌어올리면, 중후반에 더 많은 선택지를 확보할 수 있습니다.
+5.  **궁극기 타이밍:**
+    강력한 액티브 스킬은 평소에 아끼다가 웨이브가 폭증하는 구간이나 엘리트가
+    다수 등장하는 순간에 사용해야 효과를 극대화할 수 있습니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- Move: WASD/Arrows; actives on number keys; pause via UI.
+- 이동: `WASD` 또는 방향키
+- 액티브 스킬: 숫자 키
+- 일시정지/옵션: 화면 UI 버튼
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: I get cornered.
+- **Q: 자꾸 모서리에 몰려서 죽어요.**
 
-A: Re‑route to midmap and dash through thin gaps early.
+  A: 맵 가장자리만 따라다니지 말고, 초반부터 중앙 쪽으로 유도해 두면
+  갑자기 길이 막히는 상황을 줄일 수 있습니다. 위험해지기 전에 얇은 틈을
+  뚫고 중앙으로 재진입하는 습관을 들여 보세요.
 
-- Q: Which upgrades first?
+- **Q: 어떤 업그레이드를 먼저 찍는 게 좋나요?**
 
-A: Pickup radius/XP, then core damage and survivability.
+  A: 보통 픽업 범위/추가 경험치처럼 성장 속도를 높여 주는 업그레이드를 우선하고,
+  그다음 자주 쓰는 메인 무기의 공격력과 생존(체력, 방어, 회복)을 올리는
+  것이 안정적입니다.

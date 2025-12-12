@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: tic-tac-toe-mania
-title: '[ZH TRANSLATION NEEDED] Tic Tac Toe Mania'
+title: 《Tic Tac Toe Mania》井字棋狂热
 description: >-
-  [ZH TRANSLATION NEEDED] Tic Tac Toe Mania is a brisk duel — bait forks, block
-  threats, and force draws/wins with optimal play or variant rules.
+  《Tic Tac Toe
+  Mania》是在经典井字棋基础上的小巧对战游戏，加入了更大棋盘、反向规则等变体。通过制造“双杀点”、封堵威胁，在快节奏博弈中抢到必胜或逼和局面。
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/tic-tac-toe-mania.png
 tags:
@@ -15,28 +15,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Tic Tac Toe Mania modernizes noughts‑and‑crosses with clean visuals and variants (bigger boards, misère). Core play is about forcing lines or neutralizing threats; perfect 3×3 play draws unless a mistake occurs.
+《Tic Tac Toe Mania》用更清爽的视觉和多种规则变体（如更大棋盘、反向胜负规则等）重新演绎井字棋。核心仍是轮流在格子中下子，尝试连成一条直线或阻止对手完成三连。在标准 3×3 规则下，理论上双方完美博弈一定平局，胜负往往取决于谁先犯错。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Center first: On 3×3, center maximizes forks; corners second.
-2.  [ZH TRANSLATION NEEDED] Block immediately: Always respond to a two‑in‑a‑row.
-3.  [ZH TRANSLATION NEEDED] Create forks: Set up positions where two lines can win next.
-4.  [ZH TRANSLATION NEEDED] Anti‑fork: Play to break opponent fork patterns.
-5.  [ZH TRANSLATION NEEDED] Variants: On larger boards, prioritize flexible lines over early corners.
+### 游玩策略与对战指引
 
-### Controls Guide
+1.  **先占中心格（3×3）：** 标准 3×3 盘面中，中心格拥有最多连线可能，一手占中可以最大化后续进攻空间；其次是角落格。
+2.  **立刻封堵两连：** 一旦对手已经在某行、列或对角上形成连续两个相同符号，必须第一时间在第三格落子进行封堵。
+3.  **制造“双杀点”：** 尝试布局成下一步可以在两个方向同时形成三连，这样对手即便封住一条线，你仍能通过另一条线获胜。
+4.  **反制对手双杀：** 在对手准备形成“双威胁”前抢先打乱其布局，避免放任对方轻松获得必胜结构。
+5.  **大棋盘变体思路：** 在更大的棋盘上，更应优先建立“可扩展的线”，比起单点角落，更要重视能向多方向延伸的落子位置。
 
-- Click squares to place marks; local 2P common; AI difficulties vary.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 点击空格即可在对应格子落子，通常支持本地双人轮流或与 AI 对战，不同难度的 AI 会采用不同策略。
 
-- Q: Is 3×3 always a draw?
-  
-[ZH TRANSLATION NEEDED]   A: With perfect play, yes; wins rely on opponent errors.
+### 常见问题解答（FAQ）
+*   **问：标准 3×3 真的必定平局吗？****
 
-- Q: Best first move?
-  
-[ZH TRANSLATION NEEDED]   A: Center, then corner.
+A: With perfect play, yes; wins rely on opponent errors.
+- 答：** 在双方都采取最优策略时，确实会平局。想要获胜就要诱导对手犯形势上的错误。
 
+A: Center, then corner.
+*   **问：先手的最佳开局？****
+    *   答：** 一般认为先手拿中心格是最强，然后继续发展角落位，制造更多潜在连线。

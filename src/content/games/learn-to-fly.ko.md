@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: learn-to-fly
-title: '[KO] Learn To Fly'
+title: "Learn To Fly 펭귄 비행 업그레이드"
 description: >-
-  [KO] Penguin launch upgrade game: adjust launch angle, glide and boost, earn
-  cash, and buy parts to fly farther each day.
+  펭귄을 멀리 날려 보내는 거리 비행 게임 'Learn To Fly' 가이드입니다.
+  발사 각도와 자세를 조절해 비행 거리를 늘리고, 벌어들인 돈으로
+  글라이더와 로켓을 업그레이드하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/learn-to-fly.jpg
 tags:
@@ -16,29 +17,50 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
 
+*Learn to Fly*는 펭귄을 발사해 가능한 멀리 날려 보내고,
+매일 조금씩 비행 성능을 개선해 나가는 **거리 비행 업그레이드
+게임**입니다. 램프에서 출발해 비행 자세를 조정하고, 적절한
+타이밍에 부스터를 사용해 기록을 갱신할 수 있습니다.
 
-### Overview
-Learn to Fly is a distance launcher about iterative improvement. Launch a penguin down a ramp, control pitch to maximize glide, and use boosters sparingly. Earnings buy better gliders, rockets, and payloads, unlocking new goals and challenge modes across days.
+### 플레이 방법
 
-### How to Play
-- Set launch angle; keep pitch near optimal to maintain speed.
-- Trigger boosters only when speed drops or to clear obstacles.
-- Spend on speed and glide upgrades first, then utility.
+- **발사 각도 설정**: 출발 전 각도를 정해주면, 펭귄이 해당
+  방향으로 미끄러져 나갑니다.  
+- **피치 유지**: 비행 중에는 상하 방향을 조정해 속도가
+  떨어지지 않도록 최적 각도를 유지해야 합니다.  
+- **부스터 사용**: 속도가 줄어들거나 장애물을 넘을 때
+  부스터를 사용해 추가 가속을 얻을 수 있습니다.  
+- **업그레이드 구매**: 비행으로 번 돈으로 글라이더, 로켓,
+  페이로드 등을 구매해 다음 날 더 멀리 날아갈 수 있습니다.
 
-### Controls
-- Arrow keys adjust pitch; space/keys for boosters (host dependent).
+### 조작 가이드
 
-### Tips
-- Shallow dives regain speed; gentle climbs extend distance.
-- Save fuel for late‑flight when drag slows you down.
-- Daily goals guide efficient upgrade order.
+- **자세 조정**: 방향키로 비행 각도를 조절합니다.  
+- **부스터**: 스페이스바 또는 지정된 키로 로켓/부스터를
+  사용합니다(호스트에 따라 다름).
 
-### FAQ
-- Q: What upgrades give the best early returns?
-A: Base speed and glide efficiency outperform fancy extras early.
-- Q: How do I hit distance targets consistently?
-A: Maintain optimal pitch and reserve boosts for late flight.
-- Q: Is there a hard cap on days?
-A: You can keep improving until targets are met; challenge modes extend play.
+### 팁
+
+- 살짝 내려찍는 얕은 다이브로 속도를 다시 올리고,
+  부드러운 상승으로 거리를 늘리는 것이 기본 패턴입니다.  
+- 연료는 비행 후반부에 남겨 두면, 공기 저항으로 속도가
+  떨어질 때 한 번 더 크게 날아갈 수 있습니다.  
+- 일일 목표 미션을 확인하면 어떤 업그레이드를 먼저
+  올려야 할지 힌트를 얻을 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 초반에 어떤 업그레이드부터 투자하는 게 좋나요?**  
+  **A:** 기초 속도와 글라이더 효율을 먼저 올리는 것이
+  화려한 부가 옵션보다 훨씬 효율적입니다.
+
+- **Q: 거리 목표를 꾸준히 달성하려면?**  
+  **A:** 항상 최적 피치를 유지하고, 부스터는 비행 후반에
+  아껴 쓰는 것이 좋습니다.
+
+- **Q: 날짜에 제한이 있나요?**  
+  **A:** 목표를 달성할 때까지 계속 개선할 수 있으며,
+  이후에는 도전 모드 등으로 추가 플레이를 즐길 수 있습니다.
 

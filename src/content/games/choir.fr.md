@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: choir
-title: '[FR] Choir Game'
-description: >-
-  [FR] Discover Blob Opera, the viral choir game! This guide provides detailed
-  gameplay instructions, controls, tips, and answers to common questions for
-  this creative musical experiment.
+title: Choir Game
+description: "Découvre Blob Opera, cette expérience chorale virale\_! Contrôle un quatuor de blobs chanteurs, joue avec la hauteur et les voyelles et crée tes propres morceaux d’opéra en quelques gestes."
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
 thumbnail: /new-images/choir.jpg
 tags:
@@ -17,50 +14,89 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Présentation du jeu
 
-### **Game Introduction**
+Blob Opera n’est pas un "jeu à niveaux" classique, mais plutôt un jouet
+musical interactif. Tu y contrôles un quatuor de blobs colorés, chacun
+représentant une tessiture différente : basse, ténor, mezzo‑soprano et
+soprano.
 
-Blob Opera is not a traditional game with levels or objectives, but rather an interactive musical experiment or a "musical toy." It allows users to control a quartet of colorful, endearing "blobs" to create operatic music in real-time. Each blob represents a different vocal range: bass, tenor, mezzo-soprano, and soprano.
+Le système repose sur un modèle de machine learning entraîné à partir des voix
+réelles de quatre chanteurs d’opéra. Au lieu de jouer de simples enregistrements,
+il génère en temps réel des sons vocaux fluides et harmonieux en fonction de
+tes mouvements. Le but est avant tout de **s’amuser et d’expérimenter**, quel
+que soit ton niveau en musique.
 
-The game utilizes a machine learning model trained on the voices of four real opera singers. The model doesn't simply play back pre-recorded samples; instead, it generates synthesized, fluid vocal sounds based on the user's input, creating surprisingly realistic and harmonious choral music. The primary goal is creative expression and fun, allowing anyone, regardless of musical skill, to compose beautiful and often hilarious opera pieces.
+### Conseils de jeu
 
-### **Gameplay Strategy & Tips**
+Comme il n’y a ni score ni fin, la "stratégie" consiste surtout à produire une
+musique agréable ou amusante.
 
-Since there is no "winning," the strategy revolves around creating pleasant or interesting music.
+1.  **Comprends les deux axes de contrôle**  
+- Mouvement **vertical** : change la **hauteur** de la note (grave / aigu).  
+- Mouvement **horizontal** : change la **voyelle** chantée (a, e, i, o, u).  
+    Maîtriser ces deux axes est la clé pour modeler ton chœur.
+2.  **Laisse l’harmonie se former**  
+    Quand tu déplaces un blob, les autres s’ajustent automatiquement pour
+    produire un accord harmonieux. Commence par des mouvements lents pour bien
+    entendre comment le chœur te suit.
+3.  **Utilise les solos pour dessiner une mélodie**  
+    Tu peux sélectionner un seul blob pour le faire chanter en solo pendant que
+    les autres se taisent. Construis une petite ligne mélodique, puis
+    réactive tout le groupe pour l’enrichir d’harmonies.
+4.  **Joue avec les voyelles**  
+    Ne te contente pas de monter et descendre : déplace aussi les blobs vers
+    l’avant ou l’arrière pour faire varier les voyelles. Un glissement lent
+    crée des transitions vocales très expressives.
+5.  **Enregistre et partage**  
+    Utilise le bouton d’enregistrement pour capturer une petite "composition"
+    (par exemple un solo suivi d’un chœur complet), puis partage le lien avec
+    tes amis.
+6.  **Explore les modes spéciaux**  
+    Certains thèmes saisonniers (comme Noël) ajoutent des décors, accessoires
+    et chansons pré‑enregistrées que les blobs peuvent harmoniser.
 
-1.  **[FR]** **Understand the Controls**: The most crucial part is mastering the two axes of control. Vertical movement controls pitch (how high or low the note is), and horizontal movement controls the vowel sound (e.g., 'a', 'e', 'i', 'o', 'u').
-2.  **[FR]** **Harmonize Intelligently**: When you move one blob, the others automatically adjust to create a harmony. Pay attention to how they follow the lead singer. Start with slow, deliberate movements to hear how the harmonies form.
-3.  **[FR]** **Use Solos for Melodies**: To create a clear melody, click on a single blob to disable the others temporarily. Drag it around to craft a lead vocal line. Then, click the "All" toggle to bring the harmony back in, and the other blobs will support your melody.
-4.  **[FR]** **Experiment with Vowels**: Don't just move the blobs up and down. Dragging them forward and backward (or left and right) dramatically changes the texture of the sound. A slow drag from front to back can create a beautiful "wah" effect.
-5.  **[FR]** **Record and Share**: The best way to "finish" a piece is to use the record function. Plan a small composition—perhaps a solo followed by a full chorus—and record it. You can then share a link to your performance with others.
-6.  **[FR]** **Explore Festive Modes**: The game often includes special themed modes (like a Christmas mode). Look for a toggle icon (e.g., a Christmas tree) to switch backgrounds, hats for the blobs, and a playlist of festive songs the blobs can harmonize with.
+### Commandes
 
-### **Controls Guide**
+Les contrôles sont pensés pour la souris ou l’écran tactile :
 
-The controls are simple and intuitive, designed for mouse or touch input.
+- **Faire chanter un blob** : clique ou touche un blob, puis fais‑le glisser
+  vers le haut ou le bas pour la hauteur, vers l’avant ou l’arrière pour la
+  voyelle.  
+- **Solo / tutti** : clique sur un blob pour le mettre en avant ou utilise les
+  boutons de mute pour couper ou réactiver certains chanteurs.  
+- **Enregistrer** : appuie sur le bouton rouge pour lancer l’enregistrement,
+  puis de nouveau pour l’arrêter.  
+- **Partager** : après un enregistrement, utilise le bouton de partage pour
+  récupérer un lien vers ta performance.  
+- **Changer de thème** : si disponible, clique sur l’icône de thème (par
 
-*   **[FR]** **Drag a Blob Up/Down**: Increases or decreases the **pitch** of the note.
-*   **[FR]** **Drag a Blob Forward/Backward**: Changes the **vowel sound**.
-*   **[FR]** **Click/Tap on a Single Blob**: Selects that blob for a solo performance, temporarily muting the others.
-*   **[FR]** **Mute/Unmute Toggles**: At the bottom of the screen, there are individual toggles to mute or unmute each singer. There is also a master toggle to control them all at once.
-*   **[FR]** **Record Button (Red Circle)**: Click this to start recording your composition. Click it again to stop.
-*   **[FR]** **Share Button**: After you finish a recording, a share button will appear, allowing you to copy a link to your created performance.
-*   **[FR]** **Theme Toggle (e.g., Christmas Tree Icon)**: Switches the game to a different theme, often with new background music to sing along to.
+- **Theme Toggle (e.g., Christmas Tree Icon)**: Switches the game to a different theme, often with new background music to sing along to.
 
-### **Frequently Asked Questions (FAQ)**
+- **Share Button**: After you finish a recording, a share button will appear, allowing you to copy a link to your created performance.
+  exemple un sapin de Noël) pour changer de décor et de playlist.
 
-**1. Is there a goal or an ending to the game?**
-No, Blob Opera is a sandbox experience. There are no points, levels, or objectives. The "goal" is simply to have fun, experiment with music, and create something you enjoy.
+### Foire aux questions (FAQ)
 
-**2. Are the voices from real singers?**
-The sounds are generated by a machine learning model. This model was trained on many hours of recordings from four real opera singers (Christian Joel - tenor, Frederick Tong - bass, Joanna Gamble - mezzo-soprano, and Olivia Doutney - soprano). So, while you aren't hearing direct recordings, the voices are based on real human performances.
+**1. Y a‑t‑il un objectif ou une fin au jeu ?**  
+R : Non. Blob Opera est une expérience de type bac à sable : pas de niveaux, pas
+de points, seulement le plaisir de créer ta propre musique.
 
-**3. Can I make the blobs sing specific words or lyrics?**
-No. You can only control the pitch and the vowel sounds. The blobs cannot form consonants, so they cannot sing lyrics.
+**2. Les voix sont‑elles celles de vrais chanteurs ?**  
+R : Les sons sont générés par un modèle de machine learning entraîné sur les
+voix de quatre chanteurs d’opéra. Tu n’entends pas leurs enregistrements
+bruts, mais une synthèse basée sur leurs interprétations.
 
-**4. How do I save my musical creation?**
-You cannot save it as a file (like an MP3). However, you can use the record function to capture a performance. After recording, the game provides a shareable link that allows anyone with the link to watch and listen to your specific composition.
+**3. Puis‑je faire chanter des paroles complètes ?**  
+R : Non, tu contrôles uniquement la hauteur et les voyelles. Les blobs ne
+produisent pas de consonnes et ne peuvent donc pas articuler de lyrics
+précises.
 
-**5. Is the game free to play?**
-Yes, Blob Opera is a free web-based experiment accessible through any modern browser.
+**4. Comment sauvegarder ma création ?**  
+R : Tu ne peux pas exporter directement un fichier audio, mais l’outil te donne
+un lien partageable après l’enregistrement. Toute personne disposant du lien
+peut écouter ton morceau.
 
+**5. L’expérience est‑elle payante ?**  
+R : Non, Blob Opera est un projet web gratuit accessible depuis un navigateur
+moderne.

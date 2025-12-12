@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 2048-pizza
-title: '[KO] 2048 Pizza'
+title: "2048 Pizza 2048 피자"
 description: >-
-  [KO] 2048 Pizza reimagines 2048 with toppings — slide tiles, merge matches,
-  and bake your way to bigger slices.
+  2048 Pizza는 클래식 2048 슬라이드·머지 퍼즐을 피자 토핑 테마로 재해석한 게임입니다.
+  타일을 밀어 같은 숫자를 합치고, 점점 더 큰 조각을 만들어 보세요.
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
 thumbnail: /new-images/2048-pizza.png
 tags:
@@ -18,26 +18,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-2048 Pizza keeps the classic slide‑and‑merge formula but with tasty visuals. Slide tiles in four directions so identical values collide and combine, planning chains while keeping the board from filling.
+*2048 Pizza*는 2048의 익숙한 슬라이드·머지 규칙을 유지하면서, 각 타일을 다양한 피자
+토핑과 조각으로 표현한 퍼즐 게임입니다. 위/아래/좌/우로 타일을 밀면 같은 숫자
+타일이 충돌해 하나로 합쳐지고, 보드는 점점 빽빽해집니다. 보드가 꽉 차 움직일 수
+없게 되기 전에 최대한 높은 수의 피자 조각을 만드는 것이 목표입니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** Keep a corner anchor for the highest tile.
-2.  **[KO]** Move in two directions primarily to avoid breaking order.
-3.  **[KO]** Feed toward the anchor side to set up merges.
-4.  **[KO]** Don’t chase random merges that break structure.
-5.  **[KO]** When stuck, clear space instead of forcing high merges.
+1. **최고 타일은 한 코너에 고정:** 가장 큰 숫자 타일을 항상 한쪽 모서리에 두고,
+   그쪽으로만 합치도록 구조를 유지하면 판이 꼬이는 것을 줄일 수 있습니다.
+2. **두 방향 위주로 이동:** 네 방향을 모두 사용하면 타일 순서가 쉽게 섞입니다.
+   한 코너를 기준으로, 주로 두 방향만 사용해 타일을 그쪽으로 몰아넣는 것이 좋습니다.
+3. **앵커 방향으로 먹여 넣기:** 새로 생긴 타일들이 항상 최고 타일이 있는 방향으로
+   밀려가도록, 반대편에서부터 숫자를 키워 올리세요.
+4. **무의미한 합치기 금지:** 당장 눈앞의 합치기만 노리다 보면 전체 구조가 망가지기
+   쉽습니다. 한 번의 합치기가 전체 형태에 어떤 영향을 주는지 항상 염두에 두세요.
+5. **막혔을 때는 공간 확보 우선:** 더 이상 큰 합치기를 만들기 어려운 상황이라면,
+   무리하게 높은 수를 만들려고 하기보다, 작은 타일을 정리해 움직일 수 있는 공간부터
+   확보하는 편이 좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Slide: Arrow keys/Swipes.
-- Undo (if available) to rescue missteps.
+- **슬라이드:** 방향키나 스와이프 제스처로 보드 전체를 한쪽으로 밀어 타일을 이동합니다.
+- **실수 되돌리기:** 일부 버전에서는 한 번의 움직임을 되돌리는 Undo 기능을 제공하니,
+  정말 아쉬운 실수를 했을 때만 제한적으로 사용하는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Board clogs fast—why? You’re moving in all directions; stick to a two‑direction plan.
-- Win condition? Reach the target tile (e.g., 2048) or chase high scores.
-- Random spawns? Typically 2s and 4s with weighted chances.
+- **Q: 보드가 너무 빨리 막혀요.**  
+  **A:** 네 방향을 모두 사용해 타일 순서를 뒤섞고 있을 가능성이 큽니다. 한 코너를
+  기준으로 두 방향만 주로 사용해 구조를 유지해 보세요.
 
+- **Q: 승리 조건은 무엇인가요?**  
+  **A:** 보통 2048 타일을 만드는 것이 1차 목표이며, 그 이후에도 계속 진행해 더 높은
+  숫자와 점수를 노릴 수 있습니다.
+
+- **Q: 새 타일은 어떻게 생성되나요?**  
+  **A:** 대부분의 버전에서 새로 생기는 타일은 2 또는 4이며, 2가 나올 확률이 더
+  높은 편입니다.

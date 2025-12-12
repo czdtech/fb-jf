@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: one-line
-title: '[KO] One Line'
+title: "One Line 원스트로크"
 description: >-
-  [KO] One Line is a minimalistic puzzle game where players draw a single
-  continuous line to connect all given points on the board without lifting their
-  finger or retracing any path.
+  One Line은 보드 위의 모든 점을 한 번의 끊기지 않는 선으로 이어야 하는 미니멀 퍼즐
+  게임으로, 선을 되짚거나 펜을 떼지 않고 모든 점을 지나가야 합니다.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/one-line.jpg
 tags:
@@ -18,33 +17,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*One Line*은 단 한 번의 선으로 모든 점을 연결해야 하는 미니멀 퍼즐 게임입니다. 보드 위에
+배치된 점들을 끊기지 않는 한 줄로 모두 지나가야 하며, 이미 지나간 길을 다시 밟거나 중간에
+선을 떼는 것은 허용되지 않습니다. 레벨이 올라갈수록 구조가 복잡해져, 논리력과 공간 감각을
+함께 요구합니다.
 
-### Game Introduction
+### 플레이 전략
 
-"One Line" is a minimalist puzzle game. Players' task is to draw a single continuous line to connect all given points on the board without lifting their finger or retracing any path. The game aims to train players' logical thinking and spatial perception, with difficulty gradually increasing as levels progress.
+1. **전체 구조 관찰:** 선을 그리기 전에 모든 점과 연결 가능 경로를 천천히 살펴보고, 어느
+   쪽에서 시작하는 것이 좋을지 가늠해 보세요.
+2. **시작점 찾기:** 출력·입력이 한쪽으로 치우친 점(출구가 한 개뿐인 점 등)은 시작 또는
+   끝점이 될 가능성이 크므로, 그 부근에서 출발해 보는 것도 좋습니다.
+3. **막다른 길 피하기:** 아직 방문하지 않은 구역을 고립시키는 루트를 먼저 완성하지 않도록
+   주의하세요. 마지막에 한 점만 남는 경우가 자주 생깁니다.
+4. **대칭 활용:** 보드가 대칭 구조라면, 한쪽에서 찾은 경로를 반대쪽에도 유사하게 적용해
+   풀이를 단순화할 수 있습니다.
+5. **연습으로 패턴 익히기:** 비슷한 모양의 레벨이 반복해서 등장하므로, 많이 풀수록 공통된
+   패턴이 보이고 다음 레벨 해결이 쉬워집니다.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Observe Paths**: Before starting to draw, carefully observe all points and their potential connections to plan the optimal path.
-2.  **[KO]** **Find Starting Point**: Try starting from different points; sometimes a specific starting point can make solving the puzzle easier.
-3.  **[KO]** **Avoid Dead Ends**: In some cases, if a point has only one exit, it often means that path must be taken.
-4.  **[KO]** **Utilize Symmetry**: If the board has a symmetrical structure, try to use this symmetry to aid in solving.
-5.  **[KO]** **Practice More**: Practice makes perfect; through extensive practice, you will gradually grasp the tricks and patterns for solving.
+* **그리기 시작:** 아무 점이나 클릭(또는 터치)해 시작점을 정한 뒤, 마우스나 손가락을
+  드래그해 다음 점으로 이어 나갑니다.
+* **점 연결:** 항상 아직 방문하지 않은 점으로만 이동해야 하며, 이미 그린 선을 되짚어 가면
+  안 됩니다.
+* **레벨 리셋:** 경로를 잘못 잡았다고 느끼면, 리셋 버튼으로 현재 레벨을 처음부터 다시
+  시작할 수 있습니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Start Drawing**: Click any point as the starting point, then drag the mouse or finger (on touch devices) to connect to the next point.
-*   **[KO]** **Connect Points**: Ensure each move connects to a new, unvisited point.
-*   **[KO]** **Reset Level**: If you make a mistake or get stuck, you can click the reset button to restart the current level.
+1. **Q: 이 게임의 최종 목표는 무엇인가요?**  
+   **A:** 선을 한 번만 그어 보드 위의 모든 점을 지나가는 것입니다. 선을 되돌아가거나
+   중간에 끊으면 실패입니다.
 
-### Frequently Asked Questions
+2. **Q: 막혀서 더 이상 진행이 안 될 때 힌트가 있나요?**  
+   **A:** 일부 버전에서는 다음 한 수를 보여 주는 힌트 기능을 제공합니다. 힌트를 최소한으로
+   사용하면서 직접 패턴을 익히는 것이 좋습니다.
 
-1.  **[KO]** **Q: What is the objective of the game?**
-**A**: The objective is to connect all points on the board with a single continuous line, without retracing any path.
-2.  **[KO]** **Q: Are there any hints if I get stuck?**
-**A**: Some game versions may offer a hint feature to help players find the next correct move.
-3.  **[KO]** **Q: How many levels does the game have?**
-**A**: It usually contains hundreds or even thousands of levels, gradually increasing in challenge from simple to complex.
-4.  **[KO]** **Q: Is this game suitable for children?**
-**A**: Yes, this game helps develop children's logical thinking and problem-solving skills, suitable for players of all ages.
+3. **Q: 레벨은 얼마나 많이 있나요?**  
+   **A:** 보통 수백 개 이상의 레벨이 준비되어 있으며, 단순한 구조에서 시작해 매우 복잡한
+   모양까지 점점 난도가 올라갑니다.
+
+4. **Q: 어린이도 플레이하기 좋은가요?**  
+   **A:** 네. 어린이의 논리적 사고와 문제 해결 능력을 기르는 데 도움이 되며, 남녀노소 모두
+   부담 없이 즐길 수 있는 퍼즐입니다.

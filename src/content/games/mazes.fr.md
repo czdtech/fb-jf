@@ -1,50 +1,38 @@
 ---
 locale: fr
-urlstr: mazes
-title: '[FR] Mazes'
-description: >-
-  [FR] Mazes delivers classic labyrinth runs — draw optimal paths, dodge traps,
-  and beat par times with clean routing.
-iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
-thumbnail: /new-images/mazes.jpg
-tags:
-  - puzzle
-  - thinky
-  - escape
-score: 4.0/5  (1894 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "mazes"
+title: "Mazes"
+description: "Mazes propose des courses de labyrinthe classiques : trace des chemins optimaux, évite les pièges et bats les temps de référence avec un routage propre."
+iframeSrc: "https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/"
+thumbnail: "/new-images/mazes.jpg"
+tags: ["puzzle", "thinky", "escape"]
+score: "4.0/5  (1894 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Mazes regroupe une collection de labyrinthes, des grilles simples aux couloirs truffés de pièges. Le cœur du jeu, c’est le choix d’itinéraire : trouver un chemin sûr et court, éviter les tuiles piégées et activer les interrupteurs qui ouvrent des portes tout en restant dans les temps imposés.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Règle de la main droite/gauche :** dans les labyrinthes sans boucles compliquées, tu peux suivre un mur (toujours à droite ou toujours à gauche) pour trouver la sortie ; abandonne cette méthode si tu vois plusieurs anneaux et croisements.
+2.  **Repérer les raccourcis :** zoome ou survole la carte pour repérer les portes et leurs interrupteurs, puis planifie un trajet qui les relie en une seule grande boucle.
+3.  **Mémoriser les pièges :** dès que tu déclenches un piège, note mentalement sa position pour ne pas te faire surprendre une deuxième fois.
+4.  **Gérer le temps :** vise d’abord une simple réussite, même imparfaite, puis rejoue le niveau pour optimiser ton tracé et battre les temps de référence.
+5.  **Privilégier les couloirs sûrs :** quand ta précision n’est pas parfaite, préfère les larges allées plutôt que les passages serrés entourés de pièges.
 
-Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. The challenge is route planning: finding shortest safe paths, avoiding trap tiles, and hitting switches to open gates while staying under par times.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Fais glisser ton personnage ou utilise WASD pour te déplacer ; redémarre ou annule un mouvement si le jeu le permet.
 
-1.  **[FR]** Right/left‑hand rules: Use wall‑following on simply connected mazes; abandon on multi‑loops.
-2.  **[FR]** Shortcut scouting: Zoom to spot door/switch pairs and plan a single sweep.
-3.  **[FR]** Trap memory: Mark dangerous tiles mentally to avoid repeat hits.
-4.  **[FR]** Time splits: Don’t chase a perfect line first; secure a finish, then optimize.
-5.  **[FR]** Safe corridors: Favor wide lanes when precision is shaky.
+### Foire aux questions (FAQ)
 
-### Controls Guide
-
-- Drag or WASD to move; restart/undo if supported.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep missing switches.
-
-A: Route past every key junction; add a small detour rather than backtracking later.
-
-- Q: Are traps random?
-
-A: Usually fixed; learn their positions.
-
-- Q: Any speedrun tip?
-
-A: Hug inner walls on bends and cut diagonals where allowed.
+- **Q : Je rate souvent les interrupteurs.**  
+  **R :** Force‑toi à passer par chaque carrefour important au moins une fois, quitte à ajouter un petit détour tôt dans le niveau plutôt que de revenir sur tes pas à la fin.
+- **Q : Les pièges sont‑ils aléatoires ?**  
+  **R :** La plupart du temps, leur position est fixe. Une fois que tu les connais, tu peux tracer un chemin qui les évite complètement.
+- **Q : Un conseil pour jouer en mode speedrun ?**  
+  **R :** Colle les murs intérieurs dans les virages pour réduire la distance parcourue et coupe les diagonales quand le jeu l’autorise.
 

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mini-crossword
-title: '[KO] Mini Crossword'
+title: "Mini Crossword 미니 크로스워드"
 description: >-
-  [KO] Mini Crossword is a compact daily crossword puzzle game that provides a
-  quick and engaging word challenge for players of all skill levels.
+  Mini Crossword는 작지만 알찬 데일리 십자말풀이 퍼즐로, 짧은 시간 안에 단어 실력을
+  시험해 볼 수 있는 캐주얼 퍼즐 게임입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/mini-crossword.jpg
 tags:
@@ -17,34 +17,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Mini Crossword*는 하루 한 판 즐기기 좋은 작은 크기의 십자말풀이 퍼즐입니다. 제공되는
+가로/세로 힌트를 보고, 격자에 들어갈 알맞은 단어를 채워 전체 퍼즐을 완성해야 합니다.
+플레이 타임은 짧지만 난이도는 적당히 있어서, 어휘력을 넓히고 퍼즐 푸는 재미를 동시에
+느낄 수 있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Mini Crossword" is a compact daily crossword puzzle game. It offers a small yet challenging grid where players need to fill in the correct words based on the provided clues to complete the entire crossword. This game is suitable for quick sessions, both expanding vocabulary and providing puzzle-solving enjoyment.
+1. **힌트 이해하기:** 가로·세로 힌트를 모두 꼼꼼히 읽고, 문장의 어조나 말장난까지
+   참고해 정답 후보를 좁혀 가세요.
+2. **아는 단어부터 채우기:** 확실히 떠오르는 단어부터 먼저 채우면, 그 글자들이 다른
+   단어들의 힌트가 되어 나머지도 추리하기 쉬워집니다.
+3. **교차 글자 활용:** 이미 채운 단어에서 얻은 글자를 바탕으로, 겹치는 자리의 다른
+   단어를 추측해 보세요. 교차 글자는 오답을 걸러내는 데 큰 도움이 됩니다.
+4. **모르는 칸은 부분 입력:** 확신이 서지 않는 단어는 알고 있는 글자만 먼저 넣어 두고,
+   남은 칸은 주변 힌트와 교차 글자를 더 모은 뒤 채우는 방식으로 접근하세요.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Understand Clues**: Carefully read both the across and down clues; they are key to solving the puzzle.
-2.  **[KO]** **Start with Known Information**: Fill in words you are confident about first; their letters will help you deduce other words.
-3.  **[KO]** **Utilize Intersecting Clues**: When some letters of a word are determined by other words, use these letters to guess and confirm the word.
-4.  **[KO]** **Gradually Narrow Down**: For uncertain words, you can first fill in the letters you know, then deduce based on the remaining blanks and clues.
+* **칸 선택:** 빈 칸을 클릭해 선택합니다. 같은 칸을 다시 클릭하면 가로/세로 입력
+  방향을 전환할 수 있습니다.
+* **글자 입력:** 키보드로 알파벳을 입력해 단어를 채웁니다.
+* **글자 지우기:** 백스페이스로 방금 입력한 글자를 삭제합니다.
+* **힌트 보기:** 선택한 단어에 해당하는 힌트가 인터페이스에 함께 표시됩니다.
+* **정답 확인:** 일부 버전에서는 입력한 답이 맞는지 확인해 주는 "Check" 기능을
+  제공합니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Select a Square**: Click an empty square to select it. You can switch between horizontal or vertical word entry modes by clicking again.
-*   **[KO]** **Enter Letters**: Use the keyboard to input letters.
-*   **[KO]** **Clear Letters**: Use the backspace key to delete entered letters.
-*   **[KO]** **View Clues**: The game interface usually displays clue information for the currently selected word.
-*   **[KO]** **Check Answer**: Some games provide a "Check" function to verify if the entered words are correct.
+1. **Q: Mini Crossword는 어떤 사람에게 적합한가요?**  
+   **A:** 십자말풀이와 단어 퍼즐을 좋아하는 모든 플레이어에게 잘 맞으며, 짧은 시간에
+   퍼즐 한 판을 풀고 싶은 분들에게 특히 좋습니다.
 
-### Frequently Asked Questions
+2. **Q: 데일리 퍼즐은 언제 갱신되나요?**  
+   **A:** 대부분 매일 정해진 시간(자정 또는 오전 등)에 새로운 퍼즐이 업데이트됩니다.
 
-1.  **[KO]** **Q: Who is "Mini Crossword" suitable for?**
-**A**: This game is suitable for all players who enjoy crossword puzzles and vocabulary challenges, especially those looking for a quick puzzle-solving experience.
-2.  **[KO]** **Q: When are daily puzzles updated?**
-**A**: Typically, mini crossword puzzles are updated with new puzzles at a specific time each day (e.g., midnight or in the morning).
-3.  **[KO]** **Q: Is there any help if I get stuck?**
-**A**: Some mini crossword games offer hint features that can reveal a letter or word to help players continue.
-4.  **[KO]** **Q: Does the game require an internet connection?**
-**A**: Daily puzzles usually require an internet connection to download and update, but once downloaded, some games may support offline play.
+3. **Q: 막혔을 때 도움을 받을 수 있나요?**  
+   **A:** 일부 미니 크로스워드 게임은 한 글자나 한 단어를 알려 주는 힌트 기능을
+   제공해, 막힌 부분을 넘어가도록 도와줍니다.
+
+4. **Q: 인터넷 연결이 꼭 필요한가요?**  
+   **A:** 새로운 데일리 퍼즐을 내려받을 때는 보통 인터넷 연결이 필요하지만, 이미
+   다운로드한 퍼즐은 오프라인에서도 플레이 가능한 경우가 많습니다.

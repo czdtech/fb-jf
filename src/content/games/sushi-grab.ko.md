@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: sushi-grab
-title: '[KO] Sushi Grab'
+title: "Sushi Grab 스시 그랩"
 description: >-
-  [KO] Sushi Grab is a speedy arcade picker — snag the right sushi, avoid traps,
-  and hit score targets.
+  Sushi Grab은 회전초밥 레일을 배경으로 주문된 초밥만 빠르게 집어 올려 점수를
+  쌓는 아케이드 게임입니다. 제한 시간 안에 올바른 접시를 고르고, 함정과 벌점
+  접시는 피해 높은 점수 목표를 달성해 보세요.
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/sushi-grab.png
 tags:
@@ -17,26 +18,37 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Sushi Grab is a fast‑paced selection game themed around conveyor‑belt sushi. Pick requested pieces, avoid wrong items or hazards, and chain streaks to reach score goals under a timer.
+Sushi Grab은 회전초밥 집을 배경으로 한 속도감 있는 선택형 게임입니다. 레일 위를
+지나가는 다양한 초밥 중에서 손님이 주문한 접시만 정확히 골라 집어야 하며,
+잘못된 초밥이나 벌점이 붙은 접시를 잡으면 콤보가 끊기거나 점수가 깎일 수
+있습니다. 제한 시간 안에 연속 성공을 이어 가며 목표 점수에 도달하는 것이 목적입니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 플레이 팁
 
-1.  **[KO]** Read orders: Focus on the current request—don’t grab extras.
-2.  **[KO]** Peripheral vision: Track upcoming plates along the belt to prepare.
-3.  **[KO]** Chain safely: Streaks boost score; prioritize accuracy to keep them alive.
-4.  **[KO]** Filter traps: Ignore decoys or penalty plates; they often appear near good ones.
-5.  **[KO]** Time boxes: When the timer dips, take only guaranteed picks.
+1. 주문 먼저 확인하기: 화면에 표시된 현재 주문을 먼저 확인하고, 필요 없는 접시는
+   과감히 무시하세요.
+2. 주변 시야 활용: 바로 앞만 보지 말고 레일 위를 스캔해 곧 다가올 접시를 미리
+   파악해 두면 여유 있게 대응할 수 있습니다.
+3. 안전한 연속 성공 노리기: 연속으로 정확히 집으면 콤보와 추가 점수가 붙는 경우가
+   많습니다. 무리해서 여러 접시를 빠르게 집기보다는 정확도를 우선해 콤보를 유지하세요.
+4. 함정 필터링: 벌점 접시나 데코이(가짜) 접시는 보통 좋은 접시 근처에 섞여 있습니다.
+   색이나 아이콘을 잘 구분해, 손이 먼저 나가지 않도록 주의하세요.
+5. 막판 시간 관리: 남은 시간이 얼마 없을 때는 확실히 맞는 접시만 집어, 실패로
+   콤보를 끊지 않도록 하는 것이 좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Pick: Click/tap the correct sushi on the belt.
-- Pause/Retry: Use UI buttons.
+- 선택: 레일 위를 흐르는 초밥 접시 중 정답이라고 생각되는 것을 클릭/탭합니다.
+- 일시정지/다시 시작: 화면 UI 버튼을 통해 게임을 멈추거나 재시작할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Do wrong picks penalize? Usually yes—score loss or streak breaks.
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
-- Fixed patterns? Belts often loop patterns—learn and exploit them.
-
+- 잘못된 접시를 집으면 어떻게 되나요?  
+  대부분의 버전에서 점수가 깎이거나 콤보가 끊기는 등 페널티가 적용됩니다.
+- 여러 접시를 한꺼번에 예약하듯 빠르게 잡을 수 있나요?  
+  보통은 한 번에 하나씩만 인정되며, 빠르더라도 정확히 한 접시씩 눌러야 합니다.
+- 패턴이 고정되어 있나요?  
+  많은 버전에서 레일 패턴이 일정 주기로 반복되므로, 몇 번 플레이해 보면 등장
+  순서를 어느 정도 예측하고 미리 대비할 수 있습니다.

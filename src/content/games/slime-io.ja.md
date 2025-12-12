@@ -1,82 +1,50 @@
 ---
-locale: ja
-urlstr: slime-io
-title: '[JA TRANSLATION NEEDED] Slime.io'
-description: >-
-  [JA TRANSLATION NEEDED] A fun and chaotic .io game of consumption! Control
-  your slime, absorb everything in the city from cars to buildings, and devour
-  smaller players to become the biggest slime of them all!
-iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
+title: Slime.io
+description: Slime.ioはスライム成長ゲームです。スライムを食べ、成長し、対戦相手を避け、最大のスライムになります。
+iframeSrc: 'https://slimeio.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/slime-io.png
+urlstr: slime-io
+score: 4.2/5  (2234 votes)
 tags:
   - action
+  - 2 player
   - casual
-score: 4.3/5  (2500 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Slime.ioは、より小さなスライムを食べて成長するマルチプレイヤー成長ゲームです。より大きなスライムを避け、より小さなものを消費し、リーダーボードを登ります。シンプルなゲームプレイ、中毒性のある競争。
 
-[JA TRANSLATION NEEDED] Slime.io is a chaotic and satisfying 3D arcade game that belongs to the popular ".io" genre of multiplayer games. You control a small slime in a bustling city with one simple goal: become the biggest. You do this by sliding around the map and absorbing everything in your path that is smaller than you—from streetlights and cars to entire buildings. Compete against other players, absorb the smaller ones, and avoid being eaten by the giants to dominate the leaderboard before the timer runs out!
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **小さく始める:** 最初に小さなスライムを食べます。
+2.  **大きいものを避ける:** より大きなスライムから離れます。
+3.  **賢く分割:" 敵を捕まえるために戦略的に分割します。
+4.  **エッジを使用:" 壁が閉じ込めを助けます。
+5.  **忍耐強く:" 急速な成長はリスクを伴います。
 
-[JA TRANSLATION NEEDED] 1.  **Start Small:** When the round begins, you are small and vulnerable. Focus on absorbing small objects first, like people, fences, and benches. This will quickly increase your size.
-[JA TRANSLATION NEEDED] 2.  **Grow to Consume:** As you get bigger, you can absorb larger objects. Move from cars to trucks and eventually to entire skyscrapers. The bigger the object, the more points you get and the faster you grow.
-[JA TRANSLATION NEEDED] 3.  **Player vs. Player:** Pay close attention to the other slimes on the map. You can absorb any player who is smaller than you for a massive score boost. Conversely, you must run away from any player who is bigger than you, or they will absorb you!
-[JA TRANSLATION NEEDED] 4.  **Watch the Clock:** Each round is timed. Your goal is to have the highest score when the timer hits zero. Be as efficient as possible in your consumption to stay at the top.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is controlled with a simple drag mechanic.
-
-*   **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
-    - **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.（日本語訳が必要）
-    - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.（日本語訳が必要）
-    - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.（日本語訳が必要）
-    - **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.（日本語訳が必要）
-    - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.（日本語訳が必要）
-    - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do I grow bigger?**
-[JA TRANSLATION NEEDED]     *   **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.
-
-*   **Q: Can I eat other players?**
-[JA TRANSLATION NEEDED]     *   **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
-
-*   **Q: How do I win?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
+### 操作ガイド
 
 
+The game is controlled with a simple drag mechanic.
+- マウス/タッチ：スライムを移動します。
+- スペース/ボタン：より速いスライムに分割します。
+- より小さなスライムを食べます。
 
+### よくある質問 (FAQ)
 
-
-
-
-
-
+- **Q: 分割はいつ使用すべきですか？**  
+  A: 小さなスライムを捕まえるため、または危険から逃れるため。
+    - **Q: 最大サイズはありますか？**  
+  A: いいえ、成長し続けることができます。
+- **Q: マルチプレイヤーですか？**  
 
     - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
+
 - **Q: How do I win?**
+
     - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
-- **Q: Can I eat other players?**
-    - **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.
-- **Q: How do I grow bigger?**
-### よくある質問（FAQ）
-- **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
-
-
-
-
-
-
-    - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
-- **Q: How do I win?**
-    - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
-- **Q: Can I eat other players?**
-    - **A:** By absorbing things! Anything smaller than you can be absorbed. Start with small items and work your way up to giant buildings.
+  A: はい、リアルタイムオンラインマルチプレイヤー。

@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: bloons-td-5
-title: '[ZH TRANSLATION NEEDED] Bloons TD 5'
+title: "Bloons TD 5 气球塔防 5"
 description: >-
-  [ZH TRANSLATION NEEDED] Master Bloons TD 5 with its deep strategy, diverse
-  towers, and powerful Special Agents. Build the ultimate defense, unlock the
-  mighty Temple of the Monkey God, and pop every last Bloon, including the
-  fearsome ZOMG.
+  《Bloons TD 5 气球塔防 5》在双路线升级体系上加入 Monkey Sub、Heli Pilot 等新塔与 Special Agents、Monkey Lab
+  等系统，并首次引入 ZOMG 飞艇与猴神神庙，塔防深度与内容量都达到系列高峰。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/bloons-td-5.jpg
 tags:
@@ -17,58 +15,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+*Bloons TD 5* 是塔防类型的里程碑作品之一，以深度、画面和内容量著称。
 
-[ZH TRANSLATION NEEDED] Bloons TD 5 is a landmark title in the tower defense genre, praised for its incredible depth, vibrant graphics, and massive amount of content. It refines the core formula of its predecessors: players place a wide variety of monkey towers with unique abilities to pop waves of increasingly difficult "Bloons."
+游戏延续了 BTD4 的双路径升级系统：每座塔有两条升级路线，其中一条最多升到 4 级，另一条最多升到 2 级（典型形态如 4/2 或 2/4），为每种塔带来大量组合空间。
 
-[ZH TRANSLATION NEEDED] The game is built upon the two-path upgrade system from BTD4, where each tower has two upgrade paths, and you can upgrade one path to tier 4 and the other to tier 2 (a 4/2 or 2/4 build). This creates a huge number of strategic possibilities for each tower.
+在此基础上，BTD5 又添加了多项关键内容：
 
-[ZH TRANSLATION NEEDED] BTD5 significantly expanded the game's universe with several key additions:
--   **New Towers:** Introduced towers that became series staples, such as the **Monkey Sub**, **Heli Pilot**, **Monkey Engineer**, and the **Bloonchipper**.
--   **Special Agents:** Powerful, single-use or persistent units that can be bought with "Monkey Money" (a premium currency earned in-game) to provide a major boost in difficult situations.
--   **The Z.O.M.G.:** The **Z.O.M.G.** (Zeppelin Of Mighty Gargantuaness) makes its terrifying debut. This massive, slow-moving black and green blimp is the toughest Bloon in the base game, containing four B.F.B.s.
--   **Monkey Lab:** A persistent upgrade tree where players can spend Monkey Money to permanently improve their towers across all games.
--   **Massive Content:** Features dozens of tracks, Special Missions with unique rules, Daily Challenges, and a fully-featured Co-op mode.
--   **Activated Abilities:** Many tier-4 upgrades grant powerful, player-activated abilities that can turn the tide of a battle, such as the MOAB Assassin's missile or the Heli Pilot's Downdraft.
+- **全新塔：** 包括能在水域作战的 **Monkey Sub（猴子潜艇）**、空中单位 **Heli Pilot（直升机飞行员）**、工程系的 **Monkey Engineer**，以及独特的 **Bloonchipper** 等。  
+- **Special Agents（特勤单位）：** 使用游戏内货币 Monkey Money 购买，一次性放置极其强力的特殊单位或建筑，用于攻克难图或关键波次。  
+- **Z.O.M.G. 飞艇：** 黑绿相间的 **Z.O.M.G.（Zeppelin Of Mighty Gargantuaness）** 首次现身，是基础游戏中最坚硬的飞艇，破裂后会释放多艘 BFB。  
+- **Monkey Lab：** 全局升级系统，可以花费 Monkey Money 获得永久性的小幅增强，例如提升爆炸半径、攻击速度等。  
+- **内容极其丰富：** 包括数十张地图、规则各异的 Special Missions、每日挑战，以及完整的联机合作模式。  
+- **主动技能系统：** 许多 4 级升级会解锁主动技能（例如 Bomb Tower 的 MOAB Assassin 导弹、Heli Pilot 的 Downdraft 等），关键时刻可以一键扭转战局。  
 
-### Gameplay Strategy
+### 游戏策略
 
--   **Economy is Everything:** The single most important strategy for success in BTD5 is building a strong economy. Start building **Banana Farms** as early as possible. The most efficient upgrade path is 4/2 (`Banana Research Facility` with `More Bananas`), which generates crates of cash each round.
--   **Early Game Defense:** A 2/3 **Dartling Gun** or a 3/x **Ninja Monkey** can handle the early rounds efficiently while you focus on building your Banana Farms.
--   **Essential Mid-Game Coverage:** Your defense must handle all special Bloon types.
-     -   **Camo:** A **Monkey Village** upgraded to 2/2 (`Radar Scanner`) is the best way to grant camo detection to all towers in its range. A 4/2 **Ninja Monkey** (`Bloonjitsu`) is also a top-tier camo killer.
-     -   **Lead:** A 2/3 **Bomb Tower** (`Cluster Bombs`) or a Monkey Village with the `Monkey Intelligence Bureau` (x/3) upgrade, which allows all nearby towers to pop any Bloon type.
-     -   **Regrow:** High damage-per-second (DPS) towers are needed to prevent "Regrow Farms" where Bloons regenerate faster than you pop them. A 2/3 **Tack Shooter** (`Blade Maelstrom`) or a 4/x **Cannon Ship** (Monkey Buccaneer) works well.
--   **Building the Temple of the Monkey God:** The ultimate late-game tower is the **Temple of the Monkey God** (4/x Super Monkey). To maximize its power, you must "sacrifice" other towers to it. Before you purchase the final Temple upgrade, place towers from different categories (Primary, Military, Magic) within its range. The more money you sacrifice (up to a cap for each category), the more powerful the Temple will be.
--   **Late Game Powerhouses:**
-     -   **Technological Terror (Super Monkey x/4):** Its "Bloon Annihilation" ability can wipe the screen clear of most Bloons.
-     -   **Supa-Vac (Bloonchipper 2/4):** The ultimate crowd control. Its special ability sucks in even ZOMG-class Bloons, stalling them for your other towers to attack.
-     -   **Sabotage Supply Lines (Ninja Monkey x/4):** This ability slows all Bloons on screen by half, which is absolutely critical in late-game rounds.
+-   **经济优先：Banana Farm 决定上限。** 在 BTD5 中，早期建立强大经济几乎是制胜前提。尽早铺设 Banana Farm 并优先冲 4/2 的 `Banana Research Facility`（配合 `More Bananas`），每回合都会产出现金箱，让你有足够资金买超级猴子、猴神神庙等昂贵单位。
+-   **前期防守组合：Dartling Gun / Ninja Monkey。** 一只 2/3 的 Dartling Gun 或 3/x 的 Ninja Monkey 足以应对前中期大部分波次，为你争取建农场的时间与金钱。
+-   **中期各类特殊气球的处理：**
+    -   **Camo：** 升到 2/2 的 Monkey Village (`Radar Scanner`) 是最通用的解法，可为范围内所有塔提供侦测；4/2 Ninja Monkey（`Bloonjitsu`）是顶级 Camo 打手。
+    -   **Lead：** 2/3 Bomb Tower（`Cluster Bombs`）或带 `Monkey Intelligence Bureau`（x/3）的 Monkey Village，都能赋予全队铅壳破防能力。
+    -   **Regrow：** 需要高 DPS 塔避免“再生农场”，如 2/3 Tack Shooter（`Blade Maelstrom`）或 4/x Cannon Ship（Monkey Buccaneer）。
+-   **猴神神庙 Temple of the Monkey God 的建造：** Super Monkey 的 4/x 形态是终极后期塔。升级前先在其射程内摆满不同类别（Primary、Military、Magic 等）的高额塔并投入足够资金，升级时这些塔会被“献祭”，其价值会永久转化为神庙的额外火力。
+-   **后期强力组合示例：**
+    -   **Technological Terror（Super Monkey x/4）：** 主动技能可在瞬间清空屏幕上大部分气球。
+    -   **Supa-Vac（Bloonchipper 2/4）：** 顶级控场工具，主动技能甚至可以短暂吸入 ZOMG 级飞艇，为其他塔争取输出时间。
+    -   **Sabotage Supply Lines（Ninja Monkey x/4）：** 将全图气球整体减速一半，是极后期生存的关键辅助技能。
 
-### Controls Guide
+### 操作指南
 
-[ZH TRANSLATION NEEDED] The game uses a standard point-and-click or tap interface.
+游戏延续了经典的点选 / 触摸界面，操作方式非常直观：
 
--   **Placing/Upgrading:** Select a tower from the right-hand panel, place it on the map. Click the tower to open its upgrade menu and choose an upgrade path.
--   **Upgrade Paths:** Upgrading a tower to tier 3 or 4 on one path will lock the corresponding tiers on the other path. For example, a 4/x tower cannot be upgraded past x/2.
--   **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. Click it to use it.
--   **Hotkeys:** The PC version uses hotkeys for placing towers and activating abilities, which are displayed on the icons.
+-   **放置 / 升级塔：** 从右侧面板选择塔放在地图上，点击塔打开升级界面并选择升级路径。  
+-   **双路径升级规则：** 一条路径升到 3 或 4 级后，另一条路径将被锁死在 2 级以内，例如 4/x 塔无法再升到 x/3。  
+-   **主动技能：** 拥有主动技能的塔，其按钮会出现在屏幕左下角，冷却结束后点击即可释放。  
+-   **快捷键：** PC 版本为每种塔与技能提供热键（图标上会标注），熟练使用可明显提升操作上限。  
 
-### Frequently Asked Questions (FAQ)
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **1. What is the best tower in Bloons TD 5?**
-[ZH TRANSLATION NEEDED] > There is no single "best" tower. The game is about synergy. However, a fully sacrificed **Temple of the Monkey God** supported by a 2/3 **Monkey Village** is considered the most powerful combination in the game for raw damage.
+**1. BTD5 里“最强塔”是哪一个？**  
+严格来说没有绝对意义上的单塔之王，游戏更看重组合与协同。但一座高额献祭过的 Temple of the Monkey God，配合 2/3 Monkey Village 提供增幅，被普遍认为是最强的持续伤害核心。
 
-[ZH TRANSLATION NEEDED] **2. How do I get the Temple of the Monkey God? It's not in the upgrade list.**
-[ZH TRANSLATION NEEDED] > The Temple is the final upgrade (4/x) for the **Super Monkey**. You first need to buy the "Sun God" (3/x) upgrade. The Temple will then become available.
+**2. 为什么 Super Monkey 上看不到猴神神庙的升级？**  
+Temple 是 Super Monkey 的最终形态（4/x）。你需要先购入 3/x 的 Sun God 升级，才会解锁最后一级的 Temple 选项。
 
-[ZH TRANSLATION NEEDED] **3. How does sacrificing for the Temple work?**
-[ZH TRANSLATION NEEDED] > Before you click the final Temple upgrade button, you must have other towers placed within the Sun God's attack range. The game will "sacrifice" (remove) these towers and add their value to the Temple's power. To get the maximum power, you need to sacrifice at least $30,000 worth of towers from three of the four categories: Primary, Bomb/Tack, Glue/Ice, and Magic.
+**3. 献祭机制具体怎样计算？**  
+在点击 Temple 升级前，将不同类型的塔放在 Sun God 的攻击范围内。这些塔会在升级时被移除，并按类别和总价计入神庙的强化上限。要达到最大加成，需要在至少三类塔上投入约 30,000 美金的总价值。
 
-[ZH TRANSLATION NEEDED] **4. What is a ZOMG and how do I beat it?**
-[ZH TRANSLATION NEEDED] > A ZOMG is the toughest blimp. It is very slow but has immense health. To beat it, you need extremely high, focused damage. A Temple, multiple MOAB-Assassin ability monkeys (Bomb Tower x/4), and the Sabotage Supply Lines ability from a Ninja are all key components of a ZOMG-killing strategy.
+**4. ZOMG 是什么？该怎么打？**  
+ZOMG 是基础游戏中最坚韧的飞艇，外壳血量极高，被击破后会释放多艘 BFB。要击败它，需要极高的集中火力：Temple、多个 Bomb Tower x/4（MOAB Assassin 技能）以及 Ninja Monkey 的 Sabotage Supply Lines 几乎是标准配置。
 
-[ZH TRANSLATION NEEDED] **5. Are Special Agents worth it?**
-[ZH TRANSLATION NEEDED] > Yes, especially for beginners or on very difficult maps. A well-placed `Meerkat Spy` can provide early camo detection, and a `Bloonsday Device` can save you from a massive leak. They are powerful tools to help you win.
-
+**5. Special Agents 值得买吗？**  
+非常值得，尤其在高难度地图或新手阶段。比如 `Meerkat Spy` 可以提供早期 Camo 侦测，而 `Bloonsday Device` 则能在漏大量气球时救你一命。它们是帮助通关的强力辅助工具。  

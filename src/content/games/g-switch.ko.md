@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: g-switch
-title: '[KO] G-Switch'
+title: "G-Switch 중력 전환 러너"
 description: >-
-  [KO] One‑button gravity runner: flip gravity to keep running across platforms,
-  avoid gaps and saws, and survive increasing speed.
+  하나의 버튼으로 중력을 뒤집으며 플랫폼 위를 달리는 러너 게임입니다. 속도가
+  점점 빨라지는 가운데, 구멍과 톱날을 피하며 최대한 오래 버티는 것이 목표입니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/g-switch.jpg
@@ -19,27 +19,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Auto‑runner with gravity flips. Tap to invert gravity and land on the next surface while the pace accelerates.
+### 게임 개요
 
-### How to Play
-- Flip just before edges to clear gaps cleanly.
-- Anticipate saws and walls; flip early rather than late.
-- Endless and level modes may both be available.
+`G-Switch`는 캐릭터가 자동으로 달리는 가운데, 한 개의 버튼으로만 중력을 전환해
+바닥과 천장을 오가며 장애물을 피하는 러너 게임입니다. 속도가 점점 빨라지기
+때문에, 타이밍이 조금만 어긋나도 즉시 떨어지거나 톱날에 부딪혀 도전이 끝납니다.
 
-### Controls
-- One key/tap to flip gravity; multiplayer maps separate keys per player.
+### 플레이 방법
 
-### Tips
-- Keep a steady flip rhythm; panic flips cause chain mistakes.
-- Use long ceilings to reset timing safely.
-- In multiplayer, watch opponents’ flips to pre‑empt traps.
+- 발판 끝이 다가올 때 살짝 먼저 버튼을 눌러 중력을 뒤집으면, 캐릭터가 다음
+  표면에 정확히 착지할 수 있습니다.
+- 앞에 보이는 톱날이나 벽을 미리 예상하고, 너무 늦기 전에 플립을 해서 안전
+  거리를 확보하세요.
+- 일부 버전에서는 정해진 코스를 따라가는 레벨 모드와, 한 번이라도 실수하면
+  끝나는 끝less 모드가 함께 제공될 수 있습니다.
 
-### FAQ
-- Q: Why do I miss short platforms?
-A: You are flipping too late; flip slightly before the edge.
-- Q: Does the game support multiplayer?
-A: Many versions include local multiplayer with multiple keys.
-- Q: Are level layouts fixed?
-A: Some modes are authored levels; endless modes are often procedural.
+### 조작 방법
 
+- 키보드의 한 키나 화면 터치 한 번으로 중력을 전환합니다.
+- 멀티플레이가 있는 버전에서는 플레이어마다 서로 다른 키가 할당되어, 같은
+  화면에서 여러 명이 동시에 달릴 수 있습니다.
+
+### 플레이 팁
+
+- 일정한 리듬을 유지하는 것이 중요합니다. 당황해서 연달아 버튼을 누르면 연속
+  실수로 이어지기 쉽습니다.
+- 긴 천장 구간에서는 타이밍을 다시 맞추거나, 다음 패턴을 미리 살피는 시간으로
+  활용하세요.
+- 멀티플레이에서는 다른 플레이어의 플립 타이밍을 보면서, 자신도 다음 함정을
+  미리 예측하면 도움이 됩니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 짧은 발판을 자꾸 놓치는데 어떻게 해야 하나요?  
+  A: 대부분 플립 타이밍이 너무 늦기 때문입니다. 발판의 가장자리보다 조금 더 이른
+  지점에서 미리 버튼을 눌러 보세요.
+- Q: 멀티플레이를 지원하나요?  
+  A: 많은 버전에서 여러 플레이어가 각자 다른 키를 사용해 로컬 멀티플레이를 즐길
+  수 있습니다.
+- Q: 스테이지 배치는 항상 같나요?  
+  A: 일부 모드는 미리 제작된 고정 레벨을 사용하고, 끝less 모드는 절차적으로
+  생성된 패턴이 섞여 나올 수 있습니다.

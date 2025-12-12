@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: veggies-cut
-title: '[KO] Veggies Cut'
+title: "Veggies Cut 베지스 컷"
 description: >-
-  [KO] Veggies Cut is a kitchen slicer — chain long clean cuts, avoid hazards,
-  and manage rhythm for high scores.
+  공중에 떠오르는 채소를 한 번에 싹둑 써는 캐주얼 액션 게임입니다. 길고 시원한 베기를 이어 콤보를
+  쌓고, 칼이나 폭탄 같은 위험 요소는 피하며 높은 점수를 노려 보세요.
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/veggies-cut.jpg
 tags:
@@ -15,31 +15,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Veggies Cut은 주방을 배경으로 공중에 떠오르는 각종 채소를 손가락 스와이프나 마우스 드래그로
+한 번에 잘라 나가는 캐주얼 슬라이서 게임입니다. 화면을 가로지르는 긴 베기를 성공시키면 여러
+채소를 한 번에 썰어 콤보 점수를 쌓을 수 있지만, 중간에 칼날이나 폭탄 같은 위험 요소가 끼어 있는
+경우 잘못된 각도에서 베면 큰 패널티를 입게 됩니다.
 
-### Detailed Game Introduction
+차분한 리듬을 유지하면서도, 채소가 몰려 올라오는 순간에는 과감한 한 번의 스윙으로 크게 점수를
+벌어들이는 것이 핵심입니다.
 
-Slice veggies with sweeping lines, build combo chains, and avoid kitchen hazards (knives/bombs). Long straight cuts and calm rhythm top the scoreboards.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **여러 채소를 잇는 긴 베기 노리기**: 한 번에 하나씩만 자르기보다, 가능한 한 여러 채소를
+    잇는 궤적을 그려 콤보를 노리세요. 같은 스윙으로 많이 자를수록 점수와 콤보 보너스가 커집니다.
+2.  **낮은 궤적 쫓지 않기**: 화면 아래쪽에서 애매하게 뜨는 채소를 무리하게 쫓다 보면, 시야 밖의
+    위험 요소를 건드리기 쉽습니다. 채소가 충분히 올라와 안전한 높이에 있을 때 베는 것이 좋습니다.
+3.  **위험 요소가 있으면 스윙 중단하기**: 스와이프 궤적에 폭탄이나 칼날 같은 장애물이 걸릴 것 같으면
+    과감히 스윙을 멈추고 다음 기회를 노리세요. 한 번의 실수로 목숨을 잃는 것보다, 콤보를 조금
+    포기하는 편이 낫습니다.
+4.  **슬로 모션 등의 보조 기능 활용**: 일부 버전에서는 잠시 시간을 느리게 만드는 파워업이 등장합니다.
+    채소가 한꺼번에 쏟아져 나올 때 이 기능을 사용하면, 안전한 궤적을 고르기 훨씬 쉬워집니다.
+5.  **실수 후에는 리듬 재정비하기**: 콤보가 끊겼다고 해서 조급해지기보다, 잠깐 스윙을 줄이고 다시
+    천천히 리듬을 되찾는 것이 좋습니다. 무리해서 연속으로 베기만 노리면 같은 실수를 반복하기 쉽습니다.
 
-1.  **[KO]** Long strokes through multiple veggies for combo value.
-2.  **[KO]** Don’t chase low arcs; let items rise into safe lanes.
-3.  **[KO]** Abort swipes that cross hazards.
-4.  **[KO]** Use slow‑mo (if any) on dense volleys.
-5.  **[KO]** Reset posture after misses.
+### 조작 방법 안내
 
-### Controls Guide
+- **베기**: 마우스를 클릭한 상태로 드래그하거나, 모바일에서는 손가락으로 화면을 스와이프해
+  채소를 가로지르듯 긋습니다. 그 궤적을 지난 채소가 자동으로 잘립니다.
+- **일시 정지/재시작**: 화면의 UI 버튼을 통해 게임을 잠시 멈추거나 다시 시작할 수 있습니다.
 
-- Swipe/click‑drag to cut; pause/retry in UI.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 자꾸 폭탄이나 칼을 건드려서 게임이 끝납니다.**  
+  **A:** 한 번에 너무 많은 것을 베려고 하다 보면 위험 요소까지 궤적에 포함시키게 됩니다.
+  스윙하기 전에 화면을 빠르게 훑어 보고, 궤적에 무엇이 들어오는지 미리 확인한 뒤 베는 습관을
+  들여 보세요.
 
-- Q: I hit hazards.
-
-A: Choose clean angles; never finish a line through a hazard.
-
-- Q: How to score high?
-
-A: Focus on long multi‑cuts and consistent cadence.
-
+- **Q: 높은 점수를 얻으려면 무엇에 집중해야 하나요?**  
+  **A:** 가능한 한 긴 다중 베기를 자주 성공시키는 것이 핵심입니다. 무작정 많이 자르는 것보다,
+  채소가 여러 개 모였을 때 한 번에 베어 큰 콤보를 만드는 것이 훨씬 효율적입니다.

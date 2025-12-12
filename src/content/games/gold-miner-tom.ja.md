@@ -1,117 +1,44 @@
 ---
+title: "Gold Miner Tom"
+description: "トムが大金持ちになるのを手伝おう！爪を投げて金塊や宝石、その他の宝物を掴み取る、クラシックなゴールドマイナーゲーム。時間切れになる前に目標金額を達成しましょう！"
+iframeSrc: "https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/"
+thumbnail: "/new-images/gold-miner-tom.png"
+urlstr: "gold-miner-tom"
+score: "4.3/5  (2200 votes)"
+tags: ["action", "casual", "clicker"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: gold-miner-tom
-title: '[JA TRANSLATION NEEDED] Gold Miner Tom'
-description: >-
-  [JA TRANSLATION NEEDED] Help Tom get rich! A classic gold miner game where you
-  cast your claw to grab gold nuggets, gems, and other treasures. Reach the
-  level goal before time runs out!
-iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
-thumbnail: /new-images/gold-miner-tom.png
-tags:
-  - action
-  - casual
-  - clicker
-score: 4.3/5  (2200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Gold Miner Tomは、タイミングと精度が試されるクラシックなアーケードスタイルゲームです。野心的な鉱夫トムとして、あなたは揺れる爪（クロー）を操作し、地下に埋まった貴重な宝物を掴むために、適切な瞬間に爪を発射しなければなりません。各レベルには、制限時間内に達成しなければならない目標金額があります。金塊、輝くダイヤモンド、謎の福袋を掴み取りましょう。ただし、貴重な時間を無駄にする無価値な岩には注意してください！
 
-[JA TRANSLATION NEEDED] Gold Miner Tom is a classic arcade-style game that tests your timing and precision. As the ambitious miner Tom, you control a swinging claw and must cast it at the right moment to grab valuable treasures buried underground. Each level has a specific monetary goal you must reach within a time limit. Grab gold nuggets, sparkling diamonds, and mysterious goodie bags, but be careful to avoid worthless rocks that will waste your precious time!
-The game uses a simple, one-touch control scheme.（日本語訳が必要）
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **タイミングが全て:** 爪は絶えず左右に揺れています。成功するかどうかは、貴重なアイテムの方向に爪を送るために、完璧な瞬間にクリックできるかにかかっています。
+2.  **宝物を知る:** アイテムによって価値と重さが異なります。
+    *   **大きな金塊 & ダイヤモンド:** これらが主なターゲットです。最も価値が高いです。
+    *   **小さな金塊:** 掴みやすく、引き上げるのも速いですが、価値は低いです。
+    *   **岩:** これは避けましょう！価値が非常に低い上に重いため、引き上げるのに時間がかかり、貴重な時間を無駄にしてしまいます。
+    *   **ミステリーバッグ:** ランダムな金額のお金やパワーアップが入っています。
+3.  **レベル間のショップ:** 獲得したお金を使って、レベルの合間にショップで役立つアイテムを購入しましょう。ダイナマイトは、誤って掴んでしまった無価値な岩を爆破するのに不可欠です。活力ドリンク（Strength potions）を使えば、重い物をより速く引き上げることができます。
 
-- **Q: What is the goal of each level?**（日本語訳が必要）
-[JA TRANSLATION NEEDED] 1.  **Timing is Everything:** The claw swings back and forth continuously. Your success depends entirely on clicking at the perfect moment to send the claw in the direction of a valuable item.
-[JA TRANSLATION NEEDED] 2.  **Know Your Treasure:** Different items have different values and weights.
-[JA TRANSLATION NEEDED]     *   **Large Gold Nuggets & Diamonds:** These are your primary targets. They are worth the most money.
-[JA TRANSLATION NEEDED]     *   **Small Gold Nuggets:** Easier to grab and faster to reel in, but less valuable.
-[JA TRANSLATION NEEDED]     *   **Rocks:** Avoid these! They are worth very little money and are very heavy, meaning they take a long time to reel in, wasting valuable time.
-[JA TRANSLATION NEEDED]     *   **Mystery Bags:** These contain a random amount of money or a power-up.
-[JA TRANSLATION NEEDED] 3.  **Shop Between Levels:** Use the money you've earned to buy helpful items in the shop between levels. Dynamite is essential for blowing up worthless rocks you accidentally grab. Strength potions help you reel in heavy objects faster.
+### 操作ガイド
 
-### Controls Guide
+ゲームはシンプルなワンタッチ操作を使用します。
 
-[JA TRANSLATION NEEDED] The game uses a simple, one-touch control scheme.
+*   **爪を発射:** マウスをクリックするか画面をタップして、現在の方向に爪を発射します。
+*   **ダイナマイトを使用:** ダイナマイトを持っていて、かつ物を掴んでいる場合、ダイナマイトボタンが表示されます。クリックすると、爪に掴んでいる物を破壊します。
 
-*   **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
-*   **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
-- **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-- **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
+*   **Q: 各レベルの目標は何ですか？**
+    *   **A:** タイマーが切れる前に、レベルの目標金額に到達するのに十分なお金を稼ぐことです。
 
-    - **A:** To earn enough money to meet the level's target amount before the timer runs out.（日本語訳が必要）
-3.  **Shop Between レベルs:** Use the money you've earned to buy helpful items in the shop between levels. Dynamite is essential for blowing up worthless rocks you accidentally grab. Strength potions help you reel in heavy objects faster.
-    - **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.（日本語訳が必要）
-- **Q: Why is my claw reeling in so slowly?**（日本語訳が必要）
-- **Q: What happens if I don't reach the money goal in time?**（日本語訳が必要）
-    - **A:** If the timer runs out and you haven't met the goal, the game is over.（日本語訳が必要）
-*   **Q: What is the goal of each level?**
-[JA TRANSLATION NEEDED]     *   **A:** To earn enough money to meet the level's target amount before the timer runs out.
+*   **Q: なぜ爪がこんなにゆっくり巻き上がるのですか？**
+    *   **A:** おそらく大きくて重い岩を掴んでしまったのでしょう。これらは価値が低く、避けるべきです。もしダイナマイトを持っていれば、今が使い時です。
 
-*   **Q: Why is my claw reeling in so slowly?**
-[JA TRANSLATION NEEDED]     *   **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
-
-*   **Q: What happens if I don't reach the money goal in time?**
-[JA TRANSLATION NEEDED]     *   **A:** If the timer runs out and you haven't met the goal, the game is over.
-
-    - **Large Gold Nuggets & Diamonds:** These are your primary targets. They are worth the most money.（日本語訳が必要）
-
-- **Shop Between Levels:** Use the money you've earned to buy helpful items in the shop between levels. Dynamite is essential for blowing up worthless rocks you accidentally grab. Strength potions help you reel in heavy objects faster.
-    - **Small Gold Nuggets:** Easier to grab and faster to reel in, but less valuable.（日本語訳が必要）
-    - **Rocks:** 避ける these! They are worth very little money and are very heavy, meaning they take a long time to reel in, wasting valuable time.
-    - **Mystery Bags:** These contain a random amount of money or a power-up.（日本語訳が必要）
-### コントロール Guide
-
-
-
-
-
-
-
-
-
-
-    - **A:** If the timer runs out and you haven't met the goal, the game is over.
-- **Q: What happens if I don't reach the money goal in time?**
-    - **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
-- **Q: Why is my claw reeling in so slowly?**
-    - **A:** To earn enough money to meet the level's target amount before the timer runs out.
-- **Q: What is the goal of each level?**
-### よくある質問（FAQ）
-- **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
-- **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
-The game uses a simple, one-touch control scheme.
-
-
-
-
-
-
-
-
-
-
-    - **A:** If the timer runs out and you haven't met the goal, the game is over.
-- **Q: What happens if I don't reach the money goal in time?**
-    - **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
-- **Q: Why is my claw reeling in so slowly?**
-    - **A:** To earn enough money to meet the level's target amount before the timer runs out.
-- **Q: What is the goal of each level?**
-### よくある質問（FAQ）
-- **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
-
-    - **A:** To earn enough money to meet the level's target amount before the timer runs out.
-- **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
-
-
-
-
-    - **A:** If the timer runs out and you haven't met the goal, the game is over.
-- **Q: What happens if I don't reach the money goal in time?**
-    - **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
+*   **Q: 時間内に目標金額に届かなかったらどうなりますか？**
+    *   **A:** タイマーがゼロになった時点で目標金額に達していない場合、ゲームオーバーになります。

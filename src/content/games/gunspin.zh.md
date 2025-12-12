@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: gunspin
-title: '[ZH TRANSLATION NEEDED] Gunspin'
-description: >-
-  [ZH TRANSLATION NEEDED] Recoil‑propulsion arcade: fire your gun to spin and
-  fly, collect ammo, and travel as far as possible through hazards.
+title: "《Gunspin》后坐力飞行射击"
+description: "《Gunspin》是一款靠枪械后坐力推进的街机游戏。通过控制开火的时机和角度，让武器在空中不断翻转前进，收集子弹和金币，在躲避危险的同时飞得更远。"
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/gunspin.jpg
 tags:
@@ -16,27 +14,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Gunspin turns recoil into movement: each shot spins and propels your weapon/body forward. Stages scatter ammo, coins, and hazards. Managing angle and shot timing yields long glides and chain pickups; upgrades add firepower and control.
+### 游戏概述
+在《Gunspin》中，后坐力就是你的“发动机”。每一次开枪，都会让武器产生翻转和位移，把你整个人连同枪一起推向前方。关卡中散落着子弹、金币和各种危险地形，只有合理控制射击角度和节奏，才能保持长时间滑翔，并串联起连贯的拾取路线。赚到的金币可以用来升级火力或解锁新枪，让后坐力更好操控。
 
-### How to Play
-- Fire at shallow angles to maintain forward velocity.
-- Save bursts for upward corrections or hazard avoidance.
-- Spend coins on guns that match your style (spread vs. precise).
+### 游戏玩法
+- 尽量以较小的仰角开枪，以保持向前的水平速度，而不是只往上冲。
+- 将子弹留给关键时刻，用来修正飞行轨迹或躲避致命障碍。
+- 根据个人习惯选择武器：散射型火力适合喜欢乱打找节奏的玩家，精确型则更利于细致控制。
 
-### Controls
-- Mouse/Space to shoot; timing and aim set trajectory.
+### 操作说明
+- 鼠标点击或按空格键进行射击；开火的时机和方向决定你的飞行轨迹。
 
-### Tips
-- Small taps > full bursts for efficiency.
-- Aim slightly behind your path to push forward without stalling.
-- Use bounce surfaces to refresh trajectory.
+### 实用技巧
+- 多用轻点式短促射击，而不是长按猛开一整梭，这样更省子弹、控制更细腻。
+- 瞄准时略微朝飞行路径的反方向开火，让后坐力在推你向前的同时，避免速度被完全抵消。
+- 利用弹跳地形重新调整飞行轨迹，有时一次恰当的弹跳能挽救几乎坠地的局面。
 
-### FAQ
-- Q: How do I keep momentum without stalling?  
-[ZH TRANSLATION NEEDED]   A: Shoot with shallow backward angles and short taps.
-- Q: What upgrades help most early?  
-[ZH TRANSLATION NEEDED]   A: Ammo capacity and controllable recoil.
-- Q: Is there an end to the levels?  
-[ZH TRANSLATION NEEDED]   A: It’s distance‑based; aim for personal bests.
+### 常见问题（FAQ）
+- Q: 怎样才能保持动能，不容易停下来？  
+  A: 尽量用小角度、向后略微倾斜的射击，让后坐力更多转化为向前的水平速度，并以短促点射代替大角度乱打。
 
+- Q: 前期优先升级哪类属性比较好？  
+  A: 弹药容量和后坐力可控性最关键，它们能容错更多失误，也更容易打出一口气飞很远的长距离纪录。
+
+- Q: 游戏有终点吗？  
+  A: 关卡通常以飞行距离和个人纪录为核心目标，没有传统意义上的“终点”，更像是在不断刷新自己的最远飞行成绩。

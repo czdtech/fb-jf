@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: jewel-blocks
-title: '[ES] Jewel Blocks'
+title: Jewel Blocks
 description: >-
-  [ES] A captivating puzzle game of strategy and spatial awareness. Drag and
-  drop jewel-themed blocks onto the grid to create and clear full lines, but
-  plan carefully—no rotations allowed!
+  Un puzle hipnótico de estrategia y visión espacial. Arrastra bloques de joyas
+  al tablero para completar y limpiar líneas enteras, pero planifica bien: ¡no
+  se pueden rotar!
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
 thumbnail: /new-images/jewel-blocks.png
 tags:
@@ -18,33 +18,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Jewel Blocks es un puzle aparentemente sencillo pero muy adictivo que pone a
+prueba tu capacidad de planificación espacial. El objetivo es sumar la mayor
+cantidad de puntos posible colocando distintas piezas con forma de bloques de
+joyas en una cuadrícula de 10x10. Cada vez que completas una línea horizontal o
+vertical, esta se limpia. El reto principal es que **las piezas no se pueden
+rotar**, así que tendrás que pensar bien dónde colocarlas para que el tablero no
+se bloquee.
 
-Jewel Blocks is a deceptively simple yet highly addictive puzzle game that challenges your spatial planning skills. The objective is to score as many points as possible by fitting various jewel-themed block shapes onto a 10x10 grid. When you form a complete line of blocks, either horizontally or vertically, the line is cleared from the board. The main challenge lies in the fact that the blocks cannot be rotated, so you must think carefully about placement to keep the board from filling up.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Planifica con antelación:** siempre ves tres piezas disponibles. Antes de
+    colocar la primera, piensa cómo podrían encajar las tres. No te centres solo
+    en la jugada inmediata, valora el espacio que vas a dejar para futuras
+    formas.
+2.  **Busca combos:** limpiar una línea está bien, pero limpiar varias a la vez
+    con una sola pieza otorga muchos más puntos. Intenta preparar el tablero
+    para poder completar dos o más líneas con un solo movimiento.
+3.  **Mantén el tablero abierto:** evita dejar huecos aislados de una sola
+    casilla; luego son casi imposibles de rellenar. Procura que el tablero
+    quede lo más despejado y flexible posible para aceptar muchas formas
+    distintas.
+4.  **No tengas prisa:** no hay límite de tiempo. Tómate el tuyo para analizar
+    el tablero y las piezas y encontrar la mejor posición para cada bloque.
 
-1.  **[ES]** **Plan Ahead:** You are presented with three block shapes at a time. Before placing the first one, consider how all three might fit on the board. Don't just focus on the immediate placement; think about the space you are leaving for future pieces.
-2.  **[ES]** **Aim for Combos:** Clearing a single line is good, but clearing multiple lines with a single piece (a "combo") awards significantly more points. Always look for opportunities to complete two or more lines at once.
-3.  **[ES]** **Keep the Board Open:** Avoid creating single, isolated empty squares, as these can be very difficult to fill. Try to keep your board as open and flexible as possible to accommodate a wide variety of shapes.
-4.  **[ES]** **Don't Rush:** There is no time limit. Take your time to analyze the pieces and the board to find the optimal placement for each block.
+### Guía de controles
 
-### Controls Guide
+El juego se controla con un sencillo sistema de arrastrar y soltar.
 
-The game is played with a simple drag-and-drop mechanic.
+*   **Seleccionar y colocar:** usa el ratón o el dedo para arrastrar una de las
+    tres piezas de la parte inferior hasta la cuadrícula de 10x10.
+*   **Soltar:** suelta el botón o levanta el dedo para colocar el bloque en el
+    espacio resaltado.
 
-*   **[ES]** **Select and Place:** Use your mouse or finger to click and drag one of the three available block shapes from the bottom of the screen onto the 10x10 grid.
-*   **[ES]** **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo roto las piezas?**
+    *   **R:** No se pueden rotar. Es una regla base y el gran reto del juego:
+        tienes que usar las formas tal y como se te dan.
 
-*   **[ES]** **Q: How do I rotate the blocks?**
-    *   **[ES]** **A:** You cannot rotate the blocks. This is a core rule and the main challenge of the game. You must use the shapes exactly as they are given.
+*   **P: ¿Cuándo termina la partida?**
+    *   **R:** Termina cuando recibes un nuevo set de tres piezas y no existe
+        ningún espacio legal en la cuadrícula para colocar ninguna de ellas.
 
-*   **[ES]** **Q: How does the game end?**
-    *   **[ES]** **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
-
-*   **[ES]** **Q: What is the best strategy for a high score?**
-    *   **[ES]** **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
-
+*   **P: ¿Cuál es la mejor estrategia para lograr una puntuación alta?**
+    *   **R:** La clave es aguantar y encadenar combos. Mantén el tablero lo más
+        limpio y abierto posible, y prioriza jugadas que limpien varias líneas
+        de una vez para ganar bonificaciones. Por ejemplo, limpiar dos líneas en
+        un solo movimiento vale más que limpiarlas por separado.

@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: cat-sort-quest
-title: '[KO] Cat Sort Quest'
+title: 'Cat Sort Quest 캣 소트 퀘스트'
 description: >-
-  [KO] Cat Sort Quest is a cozy color‑sorting puzzler — move cats between
-  perches, unify colors, and manage scarce buffers.
+  Cat Sort Quest는 여러 색 고양이들을 기둥 사이로 옮겨 색깔별로 정리하는 퍼즐
+  게임입니다. 제한된 빈 기둥을 버퍼처럼 활용해, 각 기둥에 한 가지 색 고양이만
+  남도록 깔끔하게 분류해 보세요.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/cat-sort-quest.png
 tags:
@@ -15,37 +16,64 @@ score: 4.2/5  (2088 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Cat Sort Quest는 인기 있는 액체/공 색 정렬 퍼즐을 귀여운 고양이로 재해석한 게임입니다.
+각 기둥에는 여러 색의 고양이가 위아래로 쌓여 있으며, 한 번에 옮길 수 있는 것은 항상
+맨 위 고양이 한 마리뿐입니다. 고양이는 비어 있는 기둥이나, 맨 위 고양이 색이 같아
+연속 색을 만들 수 있는 기둥에만 올려둘 수 있습니다.
 
+목표는 모든 기둥이 단일 색으로만 채워지도록 정리하는 것입니다. 여분의 빈 기둥 수가
+제한되어 있기 때문에, 중간 기둥을 버퍼처럼 사용하며 몇 수 앞을 내다보는 계획성이
+필요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Cat Sort Quest adapts the popular sort‑puzzle format: each perch holds a stack of cats in different colors. You may move only the top cat from a perch, and you can place it on an empty perch or one whose top cat matches the same color. The goal is to end with each perch holding a single color. Limited free perches make buffering and foresight essential.
+1.  **빈 기둥 하나는 가능한 오래 남겨 두기**  
+    여분의 기둥은 섞인 색을 잠시 치워 두는 버퍼 역할을 합니다. 모든 기둥을 꽉
+    채우면 사실상 이동이 막히므로, 최소 한 기둥은 최대한 오래 비워 두려고
+    신경 써야 합니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **색 하나를 완성할 때마다 새 버퍼 확보**  
+    한 기둥을 온전히 한 가지 색으로 채우면, 그 기둥은 사실상 "완성"되어 더 이상
+    손댈 필요가 없습니다. 이 과정에서 또 다른 기둥이 비게 되면 버퍼 수가 늘어나
+    이후 퍼즐이 훨씬 쉬워지는 눈덩이 효과가 생깁니다.
 
-1.  **[KO]** Keep one buffer empty as long as possible to enable reshuffles.
-2.  **[KO]** Finish colors early when it frees another perch (snowball effect).
-3.  **[KO]** Surface singles: Don’t bury unique colors under mixed stacks.
-4.  **[KO]** Two‑step preview: Simulate next moves to avoid creating softlocks.
-5.  **[KO]** Merge partial stacks of the same color promptly to release space.
+3.  **고립된 단일색을 밑에 묻지 않기**  
+    특정 색 고양이가 한두 마리밖에 남지 않았다면, 그 색을 다른 색 아래 깊숙이
+    묻어 두지 마세요. 나중에 꺼내기 위해 여러 단계를 되돌려야 할 수 있습니다.
 
-### Controls Guide
+4.  **두세 수 앞을 미리 상상해 보기**  
+    지금 옮기는 선택이 다음 한두 수에서 어떤 상황을 만들지 짧게라도 상상해 보세요.
+    한 기둥을 정리한다고 생각했는데, 다음 수에서 완전히 막혀 버리는 "소프트락"을
+    만들 수 있습니다. Undo 기능이 있다면, 막히기 전에 과감히 되돌리는 것도 중요합니다.
 
-- Tap a perch to pick up its top cat; tap a destination perch to place it if legal.
-- Undo/Reset if available; hints help on late puzzles.
+5.  **부분적으로 같은 색 스택은 빨리 합치기**  
+    여기저기 흩어진 같은 색 기둥 상단을 적절히 모아 두면, 나중에 몇 번의 이동만으로
+    한 기둥을 완성할 수 있습니다. 공간이 생길 때마다 같은 색이 위에 올라와 있는
+    기둥들끼리 빠르게 합쳐 주세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Q: I’m out of moves — what now?
+-   **고양이 선택:** 옮기고 싶은 기둥을 탭/클릭하면 맨 위 고양이를 집습니다.
+-   **목적지 선택:** 다시 다른 기둥을 탭/클릭해 고양이를 내려놓습니다. 규칙에
+    맞지 않는 기둥에는 놓을 수 없습니다.
+-   **되돌리기/리셋:** 지원되는 버전에서는 Undo나 Reset 버튼을 눌러 몇 수 전으로
+    돌아가거나 스테이지를 처음부터 다시 시작할 수 있습니다.
 
-A: Undo a few steps to reopen a buffer. Focus on surfacing buried singles and merging partial stacks.
+### 자주 묻는 질문 (FAQ)
 
-- Q: Is there an optimal order to complete colors?
+-   **Q. 더 이상 옮길 수 있는 곳이 없어요. 어떻게 해야 하나요?**  
+    A. Undo 기능이 있다면 몇 수 전으로 돌아가 다른 기둥을 버퍼로 활용해 보세요.
+    보통은 묻혀 있던 단일색 고양이를 위로 꺼내거나, 부분 색 스택을 합치는 식으로
+    공간을 마련해야 합니다.
 
-A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
+-   **Q. 색을 완성하는 순서에 요령이 있나요?**  
+    A. 색을 완성했을 때 바로 빈 기둥이 하나 더 생기는 경우를 우선하는 것이 좋습니다.
+    그렇게 해야 버퍼 수가 늘어나 이후 정리도 쉬워집니다. 그다음으로는 가장
+    복잡하게 섞여 있는 긴 스택부터 정리하는 것을 추천합니다.
 
-- Q: Do I need every move perfect?
-
-A: No — quick backtracks and flexible buffers are more important than perfection.
-
+-   **Q. 모든 수를 완벽히 계산해야 하나요?**  
+    A. 꼭 그럴 필요는 없습니다. 중요한 것은 유연하게 버퍼를 남겨 두고, 막다른
+    상황이 오기 전에 빠르게 몇 수를 되돌리는 것입니다. 가벼운 시행착오를 허용하는
+    쪽이 오히려 퍼즐을 더 잘 풀게 해 줍니다.

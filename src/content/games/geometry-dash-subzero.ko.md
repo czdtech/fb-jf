@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: geometry-dash-subzero
-title: '[KO] Geometry Dash SubZero'
+title: "Geometry Dash SubZero 지오메트리 대시 서브제로"
 description: >-
-  [KO] Standalone winter‑themed rhythm levels: jump, fly, and time rings to
-  music across icy visuals and fast patterns.
+  겨울 테마의 리듬 플랫포머 레벨 팩입니다. 얼어붙은 배경과 빠른 패턴 속에서
+  점프와 비행, 링 타이밍을 맞춰 음악과 함께 장애물을 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/geometry-dash-subzero.jpg
@@ -19,26 +19,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Winter‑styled set of Geometry Dash levels with unique songs and high‑contrast visuals; expect tight timing and quick ship transitions.
+### 게임 개요
 
-### How to Play
-- Practice tricky ring timings; some require quick double taps.
-- Fly smoothly in ship sections; avoid over‑correction.
-- Memorize sync points where visuals and beats align.
+`Geometry Dash SubZero`는 겨울 분위기의 스테이지들로 구성된 지오메트리 대시
+레벨 팩입니다. 눈과 얼음으로 꾸며진 배경, 높은 대비의 이펙트, 고유한 곡들이
+어우러져 빠른 패턴과 촘촘한 비행 전환을 요구합니다.
 
-### Controls
-- Tap/Space/Mouse to jump; hold to fly (host dependent).
+### 플레이 방법
 
-### Tips
-- Reduce visual clutter if effects distract from rhythm.
-- Use practice checkpoints to lock in muscle memory.
+- 링을 통과하는 타이밍을 연습하세요. 일부 구간은 매우 빠른 연속 탭이나
+  더블 탭을 요구합니다.
+- Ship 구간에서는 버튼을 부드럽게 눌러 상승·하강을 조절하고, 과하게 움직이지
+  않도록 조심해야 합니다.
+- 배경 이펙트와 음악의 비트가 맞물리는 지점을 외우면, 다음 점프나 링 타이밍을
+  미리 예측하는 데 큰 도움이 됩니다.
 
-### FAQ
-- Q: How is SubZero different from other packs?
-A: It features its own music set and icy theming with challenging patterns.
-- Q: Can I play in practice mode?
-A: Yes, most hosts include practice with checkpoints.
-- Q: Are there user levels?
-A: SubZero focuses on built‑in tracks; UGC depends on host.
+### 조작 방법
 
+- 탭/스페이스바/마우스 클릭으로 점프하거나 Ship 구간에서 상승합니다.
+- 버튼을 길게 누르면 비행 상태가 유지되고, 떼면 하강합니다(세부 조작은
+  호스트에 따라 다를 수 있음).
+
+### 플레이 팁
+
+- 시각 효과가 너무 화려해 타이밍을 잡기 어렵다면, 옵션이나 호스트 설정에서
+  이펙트를 줄이고 리듬에만 집중해 보세요.
+- 연습 모드에서 체크포인트를 활용해 어려운 구간을 반복 연습하면, 손에
+  근육 기억이 생겨 본 모드 클리어가 훨씬 수월해집니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: SubZero는 다른 팩과 무엇이 다른가요?  
+  A: SubZero는 자체적인 음악 세트와 얼음·눈을 강조한 테마, 그리고 도전적인
+  패턴으로 구성된 독립 레벨 팩입니다.
+- Q: 이 버전에서도 연습 모드를 사용할 수 있나요?  
+  A: 네. 대부분의 호스트에서 체크포인트를 둘 수 있는 연습 모드를 제공하며,
+  이를 통해 난이도 높은 구간을 반복 연습할 수 있습니다.
+- Q: 유저 제작 레벨도 있나요?  
+  A: SubZero는 기본적으로 내장 레벨에 중점을 두며, 사용자 제작 콘텐츠 제공
+  여부는 사용하는 호스트 사이트에 따라 달라집니다.

@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: poly-art
-title: '[ES] Poly Art'
+title: "Poly Art"
 description: >-
-  [ES] Relax and challenge your perception with Poly Art, a beautiful 3D puzzle
-  game. Rotate a cloud of colorful polygons until they align to reveal a
-  stunning, complete image.
-iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
-thumbnail: /new-images/poly-art.png
+  Relájate y pon a prueba tu percepción con Poly Art, un precioso juego de
+  puzles en 3D. Gira una nube de polígonos de colores hasta que se alineen para
+  revelar una imagen completa y espectacular.
+iframeSrc: "https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/"
+thumbnail: "/new-images/poly-art.png"
 tags:
   - puzzle
   - thinky
@@ -17,35 +17,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Poly Art (también conocido como Poly Puzzle) es un juego de puzles en 3D
+visualmente impactante y mentalmente relajante. Cada nivel empieza con lo que
+parece un caos de fragmentos poligonales de colores flotando en el espacio. El
+reto consiste en girar este conjunto de piezas en 3D hasta encontrar el ángulo
+exacto en el que todos los fragmentos se alinean y revelan una obra de arte
+clara y reconocible: un animal, un objeto, un personaje… Es un juego de
+percepción, paciencia y descubrimiento.
 
+### Estrategias de juego y guía
 
-### Detailed Game Introduction
+1.  **Gira despacio y con calma:** No des golpes de ratón al azar. Gira el
+    puzle poco a poco en una dirección (por ejemplo, horizontalmente) para ver
+    si empieza a formarse alguna silueta reconocible. Si ves un indicio de
+    figura, continúa ajustando con cuidado alrededor de ese eje.
+2.  **Busca contornos:** Cuando te acerques a la solución empezarás a notar el
+    contorno de la imagen final. Concéntrate en esas líneas que aparecen y mueve
+    ligeramente la rotación hasta que todo quede nítido.
+3.  **Usa todos los ejes:** Recuerda que puedes girar el puzle tanto en
+    horizontal como en vertical. Si te atascas girando solo en un eje, prueba
+    con un ángulo completamente distinto; a veces la solución está en una
+    perspectiva inesperada.
+4.  **Relájate y disfruta:** Poly Art no va de velocidad. Está pensado como una
+    experiencia tranquila y satisfactoria. Tómate tu tiempo, disfruta de los
+    colores y las formas, y saborea el momento en que la imagen encaja por
+    completo.
 
-Poly Art (also known as Poly Puzzle) is a visually stunning and mentally relaxing 3D puzzle game. Each level begins with what appears to be a chaotic jumble of colorful, low-poly shards. The challenge is to rotate this cluster of polygons in 3D space to find the one specific angle at which the scattered pieces align perfectly, revealing a beautiful and recognizable piece of art, such as an animal, an object, or a character. It's a game of perception, patience, and discovery.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+Los controles son mínimos e intuitivos.
 
-1.  **[ES]** **Rotate Slowly and Steadily:** Don't just swipe wildly. Rotate the puzzle slowly in one direction (e.g., horizontally) to see if any recognizable shapes begin to form. If you see a hint of a shape, continue rotating carefully around that axis.
-2.  **[ES]** **Look for Outlines:** As you get close to the solution, you will start to see the outline of the final image. Focus on these emerging lines and adjust the rotation slightly to bring them into sharp focus.
-3.  **[ES]** **Use All Axes:** Remember that you can rotate the puzzle horizontally and vertically. If you get stuck rotating on one axis, try a completely different direction. Sometimes the solution is at an unexpected angle.
-4.  **[ES]** **Relax and Enjoy:** Poly Art is not a game about speed. It is designed to be a calming and satisfying experience. Take your time, enjoy the colors and shapes, and savor the moment of discovery when the image finally clicks into place.
+*   **Girar el puzle (PC):** Haz clic y mantén pulsado el **botón izquierdo del
+    ratón** y arrastra hacia la izquierda, derecha, arriba o abajo para girar el
+    conjunto de polígonos.
+*   **Girar el puzle (móvil):** Desliza el dedo por la pantalla en cualquier
+    dirección para rotar la figura.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The controls are minimalistic and intuitive.
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Girar la colección de fragmentos 3D hasta que se alineen y formen
+        una imagen completa y reconocible.
 
-*   **[ES]** **Rotate Puzzle (Desktop):** Click and hold the left mouse button, then drag the mouse left, right, up, or down to rotate the cluster of polygons.
-*   **[ES]** **Rotate Puzzle (Mobile):** Swipe your finger across the screen in any direction to rotate the puzzle.
+*   **P: Me he atascado y no veo la imagen. ¿Hay pistas?**
+    *   **R:** Muchas versiones de Poly Art incluyen un sistema de pistas. Si
+        está disponible, la pista puede girar poco a poco el puzle hacia la
+        orientación correcta o mostrar brevemente la imagen final.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What is the objective of the game?**
-    *   **[ES]** **A:** The objective is to rotate the collection of 3D shards until they align to form a complete and recognizable picture.
-
-*   **[ES]** **Q: I'm stuck and can't see the image. Are there hints?**
-    *   **[ES]** **A:** Many versions of Poly Art games include a hint system. If available, using a hint might slowly rotate the puzzle closer to the correct orientation or flash the final image for a second.
-
-*   **[ES]** **Q: Is there a time limit or a penalty for wrong moves?**
-    *   **[ES]** **A:** No. Poly Art games are designed to be stress-free. There are no time limits, scores, or penalties, allowing you to solve the puzzles at your own pace.
-
+*   **P: ¿Hay límite de tiempo o castigo por equivocarse?**
+    *   **R:** No. Poly Art está diseñado para ser libre de estrés. No hay
+        límite de tiempo, ni puntuaciones, ni penalizaciones; puedes resolver
+        cada puzle a tu propio ritmo.

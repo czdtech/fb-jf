@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: ghost-pro-racing
-title: '[ZH TRANSLATION NEEDED] Ghost Pro Racing'
+title: "Ghost Pro Racing 幽靈賽車計時賽"
 description: >-
-  [ZH TRANSLATION NEEDED] Ghost Pro Racing is a time‑trial racer — chase ghost
-  replays, perfect lines, and shave tenths with consistent inputs.
+  Ghost Pro Racing 是一款計時賽向賽車遊戲，你要追逐幽靈重播，
+  修正走線與煞車點，用穩定輸入不斷把單圈時間往下壓。
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
 thumbnail: /new-images/ghost-pro-racing.jpg
 tags:
@@ -18,30 +18,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Ghost Pro Racing emphasizes hot‑lap consistency against ghost replays. You’ll learn braking points, apex speeds, and throttle pickups while ghost cars show faster lines. Clean inputs and repeatable references beat risky dive‑bombs for stable PBs.
+《Ghost Pro Racing》主打與幽靈車對比的熱圈練習。你要在同一條賽道上不斷刷圈，
+學會正確的煞車點、過彎 apex 速度與補油時機，同時透過幽靈重播觀察更快路線。
+遊戲強調的是「穩定可複製」的操作，而不是一兩圈的孤注一擲。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Landmarks: Pick fixed track markers for braking/turn‑in; avoid relying on speedometer alone.
-2.  [ZH TRANSLATION NEEDED] Late apex: Turn a beat later to straighten exits and allow earlier throttle.
-3.  [ZH TRANSLATION NEEDED] Trail braking: Bleed brake into early corner to keep front grip (light pressure).
-4.  [ZH TRANSLATION NEEDED] Exit priority: A good exit onto long straights dwarfs small entry gains.
-5.  [ZH TRANSLATION NEEDED] Ghost study: Follow the ghost’s arc; find where you’re lifting or turning too early.
+
+1.  **使用固定地標：** 為每個彎找到明確的煞車與轉向參考點（例如看看台、路面標線），
+    別只盯著時速表，這樣更容易穩定地重複同一走線。
+2.  **晚頂點過彎：** 稍微晚一點轉進彎裡，可以讓出彎路線更直，使你更早踩滿油門，
+    在長直線上的收益遠大於早一點切進彎裡。
+3.  **拖煞技巧：** 在入彎初段保留一點點煞車，讓車頭保持抓地力，
+    避免一次放掉煞車導致車頭輕飄、容易推頭。
+4.  **重視出彎：** 一個完美的出彎加速比在入彎多賺一點點速度更關鍵，
+    特別是接長直線時，出彎速度的差距會一路放大到下一個彎。
+5.  **研究幽靈路線：** 緊跟幽靈車的線路，看自己在哪些位置提早鬆油或過早轉向，
+    一段一段修正，單圈時間自然會持續下降。
 
 ### Controls Guide
 
-- Steer: A/D or Left/Right.  Throttle/Brake: W/S or Up/Down.  Restart: R.
+- 轉向：A / D 或方向鍵左右；
+- 油門／煞車：W / S 或方向鍵上下；
+- 重新開始：R。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep sliding — fix?
-  
-[ZH TRANSLATION NEEDED]   A: You’re turning too much/too fast. Trail brake lightly and unwind steering sooner on exit.
+- 問：為什麼車子總是在彎中滑出賽道？  
+  答：多半是入彎速度過快或方向盤打得太多。試著稍早一點煞車，
+  並在出彎時及早「放回方向盤」，讓車子自然帶出去而不是硬扭。
 
-- Q: Can I beat the ghost?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — focus one sector at a time; once you’re ahead, maintain safe exits.
+- 問：真的能超過幽靈車嗎？  
+  答：可以，把注意力分段——先專注某一段跑出比幽靈快的時間，
+  穩定後再把這種表現串在一起。一旦在前半圈建立優勢，後半圈只需穩健出彎即可守住差距。
 
-- Q: Best training drill?
-  
-[ZH TRANSLATION NEEDED]   A: Ten laps at 90% pace without spins to lock references, then push.
-
+- 問：有推薦的訓練方式嗎？  
+  答：可以先以大約 90% 的速度連跑 10 圈且不失控，
+  把煞車點與走線「刻進手感」；之後再逐步加強，這樣比一開始就拼極限快得多。

@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: pixel-shooter
-title: '[ZH TRANSLATION NEEDED] Pixel Shooter'
+title: "《Pixel Shooter》像素射击闯关"
 description: >-
-  [ZH TRANSLATION NEEDED] Pixel Shooter is a retro-style pixel art shooting game
-  where players control a character to battle hordes of enemies across various
-  levels, collecting power-ups and upgrading weapons to survive.
+  《Pixel Shooter》是一款复古像素风射击游戏，你将操控角色在不同关卡中对抗成群敌人，拾取增益道具、升级武器，在弹雨中努力生存下去。
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/pixel-shooter.jpg
 tags:
@@ -17,31 +15,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Pixel Shooter" is a retro-style pixel art shooting game where players control a character to battle hordes of enemies across various levels, collecting power-ups and upgrading weapons to survive. The game attracts players with its classic pixel graphics and fast-paced shooting experience.
+《Pixel Shooter》是一款复古像素画面风格的横版射击游戏。你将扮演一名像素战士，在风格各异的关卡中迎战源源不断刷新的敌人，通过不断拾取金币、血包和武器强化道具，提升自己的火力与生存能力。游戏节奏紧凑、操作直接，既有老派街机的爽快感，又有一定策略与走位空间。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Move and Shoot**: Move your character flexibly to dodge enemy attacks and shoot accurately to eliminate them.
-2.  **Collect Power-ups**: Defeated enemies may drop coins, health packs, or weapon upgrade items; collect them promptly to enhance your strength.
-3.  **Upgrade Weapons**: Use coins or specific items to upgrade your weapons, improving fire rate, damage, or range.
-4.  **Utilize Environment**: Some levels may offer cover or other environmental elements; utilize them wisely to avoid damage or ambush enemies.
-5.  **Master Enemy Patterns**: Different enemies have different attack patterns and movement speeds; familiarizing yourself with them can help you better cope.
+1.  **移动与射击并重：** 不能只顾站桩输出，也不能一味乱跑躲子弹。合理利用走位躲避敌人攻击，同时保持武器指向高威胁目标，是通关的关键。
+2.  **优先捡取增益道具：** 被击败的敌人可能掉落金币、血包或武器升级道具，尽可能在安全时机过去捡取，确保火力与血量始终处于健康状态。
+3.  **及时升级武器：** 利用金币或指定道具为武器升级，提升射速、伤害或射程，在后期面对高血量或成群敌人时尤为重要。
+4.  **利用掩体与地形：** 部分关卡会提供箱子、墙体等掩护，合理利用这些地形元素可以有效减少正面中弹的概率，也能用于卡位清怪。
+5.  **熟悉敌人行动模式：** 不同类型敌人拥有不同的移动轨迹与攻击方式，提前识别哪一类需要优先处理，哪一类可以暂时拉开距离，能让整体战斗更可控。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Typically use WASD keys or arrow keys to control character movement.
-*   **Shoot**: Use the left mouse button or press a specific key to shoot.
-*   **Aim**: Use mouse movement to aim at enemies.
-*   **Switch Weapons**: Some game versions may offer a weapon switching function, usually via number keys or mouse scroll wheel.
+*   **移动：** 通常使用 WASD 或方向键控制角色移动。
+*   **射击：** 使用鼠标左键或指定按键进行射击。
+*   **瞄准：** 通过移动鼠标来调整射击方向，对准敌人所在方向即可。
+*   **切换武器（若支持）：** 部分版本可以通过数字键或鼠标滚轮切换不同武器类型。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: What is the objective of "Pixel Shooter"?**
-     **A**: The main objective is to survive each level, defeat all enemies, and challenge for higher scores.
-2.  [ZH TRANSLATION NEEDED] **Q: How do I get more powerful weapons?**
-     **A**: Typically, by collecting coins or special items in the game, then upgrading existing weapons or unlocking new ones in the shop or a specific interface.
-3.  [ZH TRANSLATION NEEDED] **Q: Does the game have a co-op mode?**
-     **A**: Some pixel shooter game versions may support local or online co-op mode, where players can team up with friends to fight enemies.
-4.  [ZH TRANSLATION NEEDED] **Q: What are "health packs" for in the game?**
-     **A**: Health packs restore your character's health, helping you survive during intense battles.
+### 常见问题（FAQ）
+
+1.  **问：《Pixel Shooter》的目标是什么？**
+    **答：** 核心目标是通过一关又一关的战斗，在存活的前提下消灭所有敌人，并不断刷新自己的最高分与通关层数。
+2.  **问：怎样获得更强的武器？**
+    **答：** 一般通过收集金币或特殊掉落，在商店或升级界面提升现有武器，或解锁全新武器类型。
+3.  **问：游戏是否支持合作模式？**
+    **答：** 部分像素射击游戏会支持本地或在线多人合作模式，本作是否支持需视当前版本设置而定，可以留意游戏内说明。
+4.  **问：血包有什么用？**
+    **答：** 血包可以回复角色生命值，在长时间战斗或 Boss 关卡中尤为关键，记得在确保安全的情况下再去拾取。

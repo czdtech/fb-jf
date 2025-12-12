@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bob-the-robber
-title: '[KO] Bob the Robber'
+title: 'Bob the Robber 밥 더 로버'
 description: >-
-  [KO] Become a master thief in Bob the Robber! Sneak past guards, disable
-  cameras, crack safes, and steal valuable loot in this challenging stealth
-  puzzle-platformer series.
+  잠입과 퍼즐 요소가 결합된 2D 스텔스 게임 시리즈 Bob the Robber입니다.
+  정의감(?) 넘치는 도둑 밥이 되어 경비원을 피해 잠입하고, 카메라를 끄고,
+  금고를 털어 귀중한 전리품을 훔쳐 보세요.
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/bob-the-robber.jpg
@@ -16,54 +16,97 @@ score: 3.7/5  (403 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bob the Robber는 2D 스텔스 퍼즐 플랫포머 시리즈로, 플레이어는 의적에 가까운
+도둑 **밥(Bob)**을 조종하게 됩니다. 밥은 집, 은행, 미술관 등 경비가 삼엄한
+시설에 몰래 침입해 목표 물건을 훔치고, 들키지 않은 채 탈출하는 것이 임무입니다.
+각 스테이지의 목표는 정해진 전리품을 찾아 입수한 뒤, 경보를 울리지 않고
+출구까지 무사히 도달하는 것입니다.
 
+게임의 핵심은 **발각되지 않는 것**입니다. 스테이지 곳곳에는 순찰 경비원,
+보안 카메라, 레이저 트랩, 잠긴 문 등 다양한 보안 장치가 배치되어 있습니다.
+플레이어는 이들의 패턴을 관찰하고, 타이밍을 재며, 그림자를 활용해 시야에서
+사라지는 방식으로 장애물을 하나씩 돌파해야 합니다. 어두운 곳에 숨어 있으면
+대부분의 위협에 보이지 않게 되는 것이 중요한 기본 규칙입니다.
 
+또한 스테이지를 클리어하기 위해서는 비밀번호를 찾거나 잠긴 문을 따는 등
+작은 퍼즐 요소도 함께 해결해야 합니다. 이 모든 과정을 **들키지 않고** 수행하는
+것이 Bob the Robber의 재미입니다.
 
+### 플레이 전략
 
-### Game Introduction
+-   **인내심이 최고의 도구**  
+    무작정 뛰어다니는 것이 가장 큰 실수입니다. 화면이 전환될 때마다 잠시
+    멈추고 경비원의 순찰 경로와 카메라의 움직임을 관찰하세요. 패턴을 파악한
+    다음 움직이는 것이 훨씬 안전합니다.
 
-Bob the Robber is a series of 2D stealth puzzle-platformer games. The player takes on the role of Bob, a skilled thief with a sense of justice (often portrayed as a modern-day Robin Hood), who infiltrates various secure locations like houses, banks, and museums. The objective of each level is to navigate the environment, collect a specific target loot item, and reach the exit without getting caught.
+-   **그림자를 적극 활용하기**  
+    그림자가 드리워진 어두운 구역은 사실상 안전 지대입니다. 가능하면 밝은
+    곳을 가로질러 달리기보다는, 한 그림자에서 다음 그림자로 이동하는 식으로
+    진행하세요. 다만 경비원이 바로 앞까지 걸어와 몸이 겹치면, 그림자 안에
+    있더라도 들킬 수 있다는 점을 잊지 마세요.
 
-The core gameplay revolves around avoiding detection. Levels are filled with a variety of security measures, including patrolling guards, security cameras, laser grids, and locked doors. The player must use observation, timing, and stealth to overcome these obstacles. Hiding in the shadows is a key mechanic, making Bob invisible to most threats. Successfully completing a level often requires solving small puzzles, such as finding keycodes or lockpicking doors, all while remaining unseen.
+-   **경비원 대처법**  
+    -   **회피 우선**: 가장 안전한 방법은 경비원이 지나갈 때까지 기다렸다가,
+        그 뒤를 살짝 따라가서 시야 바깥으로 빠져나가는 것입니다.
+    -   **기절시키기**: 뒤에서 몰래 다가가 몽둥이로 기절시키는 방법도 있습니다
+        (보통 스페이스바를 사용). 다만 이 행동에는 시간이 걸리고, 소음 때문에
+        주변 경비가 눈치를 챌 수 있습니다. 일부 시리즈에서는 시간이 지나면
+        경비가 깨어나거나, 다른 경비가 시체를 발견해 경보를 울릴 수도 있으니
+        신중하게 사용해야 합니다.
 
-### Gameplay Strategy
+-   **카메라 타이밍 맞추기**  
+    보안 카메라는 일정한 패턴으로 좌우를 훑습니다. 카메라의 시야(빛깔 난
+    원뿔 모양)가 길에서 멀어지는 순간을 기다렸다가 재빨리 지나가세요.
+    카메라 아래를 전력 질주하면 노출 시간을 줄일 수 있습니다.
 
--   **Patience is Your Best Tool:** Do not rush. The most common mistake is running into a guard's patrol route. Take time at the start of each screen to observe the patterns of guards and cameras.
--   **Use the Shadows:** Shadows are your safe zones. Whenever possible, move from one shadow to another. A guard or camera will not spot you while you are hidden in a shadow, unless a guard physically walks into you.
--   **Dealing with Guards:**
-    -   **Avoidance:** The best method is to simply wait for a guard to pass and then sneak by behind them.
-    -   **Knockout:** You can sneak up behind a guard and knock them out with your club (usually with the Spacebar). Be aware that this takes a few seconds and makes a noise that can alert nearby guards. A knocked-out guard will eventually wake up in some games, or can be discovered by other guards.
--   **Timing Cameras:** Security cameras sweep back and forth in a predictable pattern. Wait for the camera's light cone to move away from your path before you cross. Running under a camera is faster and reduces your exposure time.
--   **Read the Environment:** Look for clues. Security codes for keypads are often written on pieces of paper or walls within the level. Pay attention to everything.
--   **Locks and Safes:** Lockpicking is a common mini-game. It usually requires you to press a button at the exact moment a pin is in the correct position. This requires good timing.
--   **Collect All the Loot:** Besides the main objective, there are often extra cash stashes hidden in drawers, shelves, or behind paintings. Finding these will improve your final score.
+-   **환경에서 단서 읽기**  
+    비밀번호가 필요한 키패드는 대부분 스테이지 어딘가에 힌트가 적혀 있습니다.
+    벽, 메모지, 책상 위 등 주변 사물을 꼼꼼히 살펴보면 코드나 힌트를 발견할
+    수 있습니다.
 
-### Controls Guide
+-   **자물쇠와 금고 공략**  
+    자물쇠 따기 미니게임은 보통 핀이 특정 위치에 왔을 때 버튼을 눌러야 하는
+    식으로 진행됩니다. 타이밍이 중요하므로, 몇 번 실패하더라도 리듬을 익히는
+    것이 좋습니다.
 
-The controls are generally consistent across the series and are very simple.
+-   **숨은 전리품 챙기기**  
+    주요 목표 외에도 서랍, 선반, 그림 뒤 등에는 추가 현금이 숨겨져 있는 경우가
+    많습니다. 이런 숨겨진 전리품을 찾아내면 클리어 점수가 더 좋아집니다.
 
--   **W/A/S/D or Arrow Keys:** Move Bob left, right, up, and down (for stairs/ladders).
--   **Up Arrow Key or W:** Interact with objects. This is used for:
-    -   Opening doors.
-    -   Picking locks.
-    -   Searching for loot.
-    -   Entering codes.
-    -   Climbing stairs or ladders.
--   **Spacebar:** Swing your club to knock out a guard from behind.
--   **Z, X, C (in later games):** Use special gadgets if available.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+시리즈 전반에 걸쳐 조작은 매우 단순하고 비슷한 편입니다.
 
-**1. A guard saw me even though I was in the shadows. Why?**
-> If a guard walks directly into you, they will detect you even if you are in a shadow. Shadows make you invisible to line-of-sight detection, but not to physical contact.
+-   **W/A/S/D 또는 방향키:** 밥을 좌우로 이동하거나, 계단·사다리를 오르내릴 때
+    사용합니다.
+-   **위쪽 방향키 또는 W 키:** 상호작용 키입니다. 다음과 같은 행동에 사용됩니다.
+    -   문 열기
+    -   자물쇠 따기
+    -   전리품 검색
+    -   비밀번호 입력
+    -   계단/사다리 이용
+-   **스페이스바:** 경비의 뒤로 접근했을 때 몽둥이를 휘둘러 기절시킵니다.
+-   **Z, X, C (후속작):** 시리즈에 따라 특수 장비나 도구를 사용할 때 쓰입니다.
 
-**2. How do I get past the laser grids?**
-> You usually need to find a switch or a control panel somewhere in the level to disable the lasers. Sometimes this involves a small mini-game or just a single interaction.
+### 자주 묻는 질문 (FAQ)
 
-**3. I knocked out a guard, but then I got caught. What happened?**
-> Another guard likely saw the body of the knocked-out guard and raised the alarm. When you knock out a guard, make sure their body is not on another guard's patrol route.
+**1. 그림자 안에 있었는데도 경비가 저를 봤어요. 왜 그런가요?**  
+> 그림자는 경비나 카메라의 "시야"에서는 보이지 않게 해 주지만, 경비가 바로
+> 몸을 부딪치면 어둠 속에 있어도 들키게 됩니다. 경비의 이동 경로 위에 서 있지
+> 않도록 위치를 잘 잡는 것이 중요합니다.
 
-**4. Is it better to knock out guards or sneak past them?**
-> Sneaking is almost always the better and safer option. Knocking out guards should be a last resort or used only when you are certain no other guards will discover the body. It's a tool to create an opening, not a primary strategy.
+**2. 레이저 그리드는 어떻게 지나가나요?**  
+> 대부분의 경우 스테이지 어딘가에 있는 스위치나 제어 패널을 찾아야 합니다.
+> 이를 작동시키면 레이저가 꺼지거나 경로가 바뀌어 지나갈 수 있게 됩니다.
 
+**3. 경비를 기절시켰는데도 나중에 들켰어요. 왜죠?**  
+> 다른 경비가 기절한 경비를 발견하면 경보를 울리는 경우가 많습니다. 기절시킨
+> 위치가 다른 경비의 순찰 경로인지, 혹은 밝은 곳에 노출되어 있지 않은지
+> 항상 신경 써야 합니다.
+
+**4. 경비를 전부 쓰러뜨리는 게 좋나요, 아니면 그냥 피해 가는 게 좋나요?**  
+> 대부분의 상황에서는 **몰래 지나가는 것**이 훨씬 안전합니다. 경비를 쓰러뜨리는
+> 것은 어디까지나 마지막 수단이거나, 절대 들키지 않을 자신이 있을 때만
+> 사용하는 선택지라고 보는 것이 좋습니다.

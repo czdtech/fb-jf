@@ -1,49 +1,43 @@
 ---
+# Frontmatter: 遵循上面 config.ts 中定义的 schema
+title: "Snakes And Ladders"
+description: "運と偶然のクラシックボードゲーム、Snakes and Laddersをプレイしよう。サイコロを振り、はしごを登って前進し、あなたを後退させるヘビに注意しよう。最終マスに最初に到達して、この不朽のファミリーゲームで勝利を掴もう。"
+iframeSrc: "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
+thumbnail: "/new-images/snakes-and-ladders.jpg"
+urlstr: "snakes-and-ladders"
+score: "4.2/5  (1342 votes)"
+tags: ["board-game", "classic", "multiplayer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: snakes-and-ladders
-title: '[JA TRANSLATION NEEDED] Snakes And Ladders'
-description: >-
-  [JA TRANSLATION NEEDED] Play Snakes and Ladders, the classic board game of
-  chance. Roll the die, climb ladders to get ahead, and watch out for snakes
-  that will slide you back down. Be the first to reach the final square to win
-  this timeless family game.
-iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
-thumbnail: /new-images/snakes-and-ladders.jpg
-tags:
-  - board-game
-  - classic
-  - multiplayer
-score: 4.2/5  (1342 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Snakes and Ladders is a timeless classic board game, also known as Chutes and Ladders in some regions. Originating from ancient India, it's a game of pure luck where players race to be the first to reach the final square on the board. The journey is unpredictable, with ladders helping you climb closer to victory and snakes sliding you back down.
+Snakes and Laddersは、一部の地域ではChutes and Laddersとしても知られる不朽のクラシックボードゲームです。古代インドに起源を持つこのゲームは、純粋な運のゲームであり、プレイヤーはボード上の最終マスに最初に到達することを競います。旅は予測不可能で、はしごは勝利に近づくのを助け、ヘビはあなたを後退させます。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The objective is to be the first player to land on the final square (usually 100). Players take turns rolling a single die and moving their piece that number of spaces. If you land on a square at the base of a ladder, you immediately move up to the square at the top. Conversely, if you land on a square with a snake's head, you must slide down to the square at the snake's tail.
+目標は、最終マス（通常は100）に最初に到達することです。プレイヤーは順番に1つのサイコロを振り、その数だけコマを進めます。はしごの下にあるマスに止まった場合、すぐにはしごの上のマスに移動します。逆に、ヘビの頭があるマスに止まった場合は、ヘビの尾のマスまで滑り降りなければなりません。
 
-### Controls Guide
+### 操作ガイド
 
-- **Mouse/Touch:** Click or tap on the designated area to roll the die. The game will automatically move your piece.
+- **マウス/タッチ：** 指定された領域をクリックまたはタップしてサイコロを振ります。ゲームは自動的にあなたのコマを移動させます。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What is the main objective of Snakes and Ladders?**
+**Snakes and Laddersの主な目標は何ですか？**
 
-[JA TRANSLATION NEEDED] The goal is to be the first person to get their game piece from the starting square (1) to the final square (100).
+目標は、自分のゲームコマをスタートマス（1）から最終マス（100）まで最初に到達させることです。
 
-[JA TRANSLATION NEEDED] **Is there any strategy involved?**
+**戦略は関係ありますか？**
 
-[JA TRANSLATION NEEDED] Snakes and Ladders is almost entirely a game of luck based on die rolls. There are no decisions to make that can influence the outcome, making it a simple and accessible game for all ages.
+Snakes and Laddersは、ほぼ完全にサイコロの出目による運のゲームです。結果に影響を与える決定を下すことはできないため、あらゆる年齢層にとってシンプルでアクセスしやすいゲームです。
 
-[JA TRANSLATION NEEDED] **What happens if I roll a six?**
+**6を振ったらどうなりますか？**
 
-[JA TRANSLATION NEEDED] In many common variations of the rules, rolling a six grants the player an extra turn.
+多くの一般的なルールのバリエーションでは、6を振るとプレイヤーは追加のターンを得ることができます。
 
-[JA TRANSLATION NEEDED] **Do I need an exact roll to win?**
+**勝つには正確な出目が必要ですか？**
 
-[JA TRANSLATION NEEDED] This depends on the specific version of the game. In traditional rules, you must roll the exact number to land on the final square. If your roll is too high, you might have to "bounce back" the excess spaces.
-
+これはゲームの特定のバージョンによって異なります。伝統的なルールでは、最終マスに到達するには正確な数を振る必要があります。出目が大きすぎる場合は、余剰のマス数を「跳ね返る」必要があるかもしれません。

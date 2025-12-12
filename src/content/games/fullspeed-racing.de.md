@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: fullspeed-racing
-title: '[DE] FullSpeed Racing'
+title: "FullSpeed Racing"
 description: >-
-  [DE] FullSpeed Racing is an arcade racer — pick lines, nail braking points,
-  and overtake cleanly at pace.
+  FullSpeed Racing ist ein Arcade-Racer: Triff saubere Linien, setze
+  Bremspunkte richtig und überhole kontrolliert bei hoher Geschwindigkeit.
 iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
 thumbnail: /new-images/fullspeed-racing.jpg
 tags:
@@ -15,30 +15,44 @@ score: 4.1/5  (2014 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+FullSpeed Racing bietet zugängliches Rundstrecken-Racing. Du lernst
+Streckenlayouts, bremst auf Geraden an, triffst den Kurvenapex und beschleunigst
+früh, ohne durchzudrehen. Glatte Überholmanöver und Konstanz gewinnen mehr
+Rennen als reine Topspeed-Werte.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Früh bremsen:** Lieber etwas langsamer in die Kurve und dafür schneller
+   am Ausgang. Vermeide starkes Bremsen im Kurvenbogen.
+2. **Später Apex:** Lege deinen Einlenkpunkt etwas nach hinten, um den Ausgang
+   zu "begradigen" und früher Vollgas geben zu können.
+3. **Fair verteidigen:** Halte eine klare Verteidigungslinie, statt zu
+   "schlängeln" – so bleibst du kontrolliert und vermeidest Kollisionen.
+4. **Minimap im Blick:** Beobachte das Feld, um auf Überrundungen oder schnelle
+   Gegner reagieren zu können.
+5. **Konstanz vor Risiko:** Saubere, gleichmäßige Runden bringen dich weiter als
+   wenige waghalsige Manöver mit hohem Fehlerpotenzial.
 
-FullSpeed Racing delivers approachable circuit racing. Learn track layouts, brake in straight lines, apex smoothly, and accelerate early without wheelspin. Clean overtakes and consistency win more races than raw top speed.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Lenken: A/D oder Links/Rechts.  
+- Gas/Bremse: W/S oder Hoch/Runter.  
+- Nitro/Handbremse (falls vorhanden): Je nach Modus eigene Taste – sparsam
+  einsetzen.
 
-1.  **[DE]** Brake early: Enter slower, exit faster; avoid mid‑corner braking.
-2.  **[DE]** Late apex: Turn slightly later to straighten exits and open throttle sooner.
-3.  **[DE]** Defend fair: Hold a single defensive line; avoid weaving.
-4.  **[DE]** Watch minimap: Anticipate traffic and blue‑flag faster cars.
-5.  **[DE]** Consistency: String clean laps; mistakes cost more than cautious corners.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Ich rutsche ständig aus der Kurve – warum?**  
+  **A:** Du gehst vermutlich mit zu viel Tempo in den Turn. Bremse früher und
+  nimm weniger Speed mit in die Kurve.
 
-- Steer: A/D or Left/Right.
-- Throttle/Brake: W/S or Up/Down.
-- Nitro/Handbrake (if any): Mapped per mode; use sparingly.
+- **F: Wie überhole ich sauber?**  
+  **A:** Bereite Überholmanöver über gute Kurvenausgänge vor und nutze
+  Windschatten auf Geraden, statt in riskanten Bremszonen innen
+  reinzustechen.
 
-### Frequently Asked Questions (FAQ)
-
-- I understeer off track—why? Too fast at turn‑in; brake earlier and trail less speed.
-- How to pass cleanly? Set up exits and use slipstream on straights.
-- Do upgrades matter? Some modes offer car unlocks; craft suits track style.
-
+- **F: Bringen Upgrades etwas?**  
+  **A:** In manchen Varianten schaltest du neue Wagen oder Setups frei – wähle,
+  was zu Streckentyp und Fahrstil passt.

@@ -1,157 +1,72 @@
 ---
-locale: ja
-urlstr: highway-traffic
-title: '[JA TRANSLATION NEEDED] Highway Traffic'
-description: >-
-  [JA TRANSLATION NEEDED] First‑person lane‑splitter: weave through highway
-  cars, complete missions, and earn cash for vehicles and upgrades.
+title: Highway Traffic
+description: 一人称視点の車線すり抜けゲーム：高速道路の車の間を縫うように走り、ミッションを完了し、お金を稼いで車やアップグレードを手に入れましょう。
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/highway-traffic.jpg
+urlstr: highway-traffic
+score: 4.5/5  (188 votes)
 tags:
   - driving
   - traffic
-score: 4.5/5  (188 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### **ゲーム紹介**
+
+「Highway Traffic」は、人気のあるアーケードスタイルのドライビングゲームの総称です。コアとなるゲームプレイは、交通量の多い終わりのない高速道路で車を運転することです。主な目的は単純明快。**他の車両に衝突することなく、できるだけ長く運転して、最高スコアと最長距離を達成することです。**
+
+これらのゲームは通常、一人称視点または三人称視点の追跡カメラを使用し、没入感のある高速ドライビング体験を生み出します。プレイヤーは密集した交通を縫うように走り、正確な車線変更と追い越しを駆使して高速を維持しなければなりません。速度が上がり時間が経過するにつれて交通量は増し、AI車両の挙動も予測不能になるため、素早い反射神経と優れた予測スキルが求められ、挑戦は激化します。
+
+*Highway Traffic* の多くのバージョンには、以下の要素が含まれています：
+*   **複数のゲームモード**: 一方通行や対面通行、タイムトライアル、警察チェイスモードなど。
+*   **車両のアンロックとアップグレード**: ゲーム内通貨を稼いで、より速い車やハンドリングの良い新車を購入したり、既存の車の性能（速度、ブレーキ、ハンドリング）や外見をアップグレードしたりできます。
+*   **変化する環境**: 昼や夜、晴れや雨など、異なる時間帯や気象条件が用意されており、視覚的な多様性と挑戦を加えています。
+
+### **ゲームプレイ戦略とヒント**
+
+1.  **スムーズに運転し、急ハンドルを避ける**: 高速走行時は、急なターンよりも小さくスムーズなステアリング入力の方がはるかに効果的です。ハンドルを急に切ると、制御不能になったり過剰修正（オーバーコレクト）になりやすく、クラッシュの原因になります。
+2.  **「ニアミス」がハイスコアの鍵**: このジャンルのほぼすべてのゲームには、他の車と非常に近い距離で追い越すと、追加ポイントやニトロが得られるボーナスシステムがあります。このスキルを習得することはハイスコア達成に不可欠ですが、高いリスクを伴います。
+3.  **遠くを見て予測する**: 目の前の車だけに集中しないでください。視線はできるだけ道路の先の方に向け、3〜4台前の車の動きを観察しましょう。これにより、どの車線が空くか、どの車が急に車線変更しそうかを予測できます。
+4.  **ブレーキを使うが、使いすぎない**: ブレーキは差し迫った衝突を避けるための命綱ですが、頻繁に強くブレーキをかけるとスピードが落ち、スコア効率が下がります。スムーズな車線変更で危険を回避することを優先し、急ブレーキは最後の手段として使いましょう。
+5.  **対面通行モードでは対向車線を利用する**: 対面通行モードでは、対向車線の方が交通量が少ないことが多く、ニアミスやスコアアップの絶好の機会です。しかし、非常に危険です。常に接近してくる車に注意し、いつでも自分の車線に戻れるように準備しておく必要があります。
+6.  **愛車をアップグレードする**: ゲーム内通貨を惜しまないでください。まずは車の**ハンドリング**と**ブレーキ**のアップグレードを優先しましょう。この2つのステータスは、密集した交通の中で生き残るために不可欠です。スピードは重要ですが、制御できなければ意味がありません。
+
+### **操作ガイド**
+
+これらのゲームの操作は、特にモバイルデバイスでは非常に直感的です。
+
+*   **PC/ウェブ:**
+    *   **ステアリング**: `A` と `D` キー、または `左/右矢印` キー。
+    *   **加速**: `W` キー、または `上矢印` キー。
+    *   **ブレーキ**: `S` キー、または `下矢印` キー。
 
 
+- **Braking**: `S` key or `Down Arrow` key.
 
-### **Game Introduction**
-
-[JA TRANSLATION NEEDED] "Highway Traffic" is a general name for a popular genre of arcade-style driving games. The core gameplay revolves around driving a car on a busy, seemingly endless highway. The primary objective is straightforward: **drive as long as possible to achieve the highest score and longest distance without crashing into other vehicles.**
-
-[JA TRANSLATION NEEDED] These games typically use a first-person or a third-person chase camera perspective, creating an immersive high-speed driving experience. Players must weave through dense traffic, using precise lane changes and overtakes to maintain high speed. The challenge intensifies as speed increases and time passes, with traffic becoming heavier and AI vehicle behavior potentially more erratic, requiring quick reflexes and good predictive skills.
-    - **Braking**: `S` key or `Down Arrow` key.（日本語訳が必要）
-    - **Braking**: Usually a dedicated brake pedal button on the left side of the screen.（日本語訳が必要）
-**1. Why can't I seem to reach top speed?**（日本語訳が必要）
-- **PC/Web:**（日本語訳が必要）
-
-    - **Acceleration**: `W` key or `Up Arrow` key.（日本語訳が必要）
-    - **Braking**: `S` key or `Down Arrow` key.（日本語訳が必要）
-### **Frequently Asked Questions (よくある質問)**
-[JA TRANSLATION NEEDED] Most versions of *Highway Traffic* include the following elements:
-*   **Multiple Game Modes**: Such as one-way or two-way traffic, time trials, and police chase modes.
-    - **Steering**: `A` and `D` keys or `Left/Right Arrow` keys.（日本語訳が必要）
-    - **Steering**: The most common method is **tilt controls** (tilting your device to steer). Options for **on-screen buttons** or **touch-to-steer** are usually available in the settings.（日本語訳が必要）
-The primary ways to earn currency are:（日本語訳が必要）
-- **Driving a longer distance**: The further you go, the higher the base reward.（日本語訳が必要）
-    - **Braking**: Usually a dedicated brake pedal button on the left side of the screen.（日本語訳が必要）
-- **Performing near misses**: Each close overtake provides a bonus.（日本語訳が必要）
-- **Maintaining high speed**: Driving above a certain speed (e.g., 100 km/h) continuously earns you extra points/cash.（日本語訳が必要）
-- **Completing daily missions or challenges**.（日本語訳が必要）
-There's no single "best" car; it depends on your driving style.（日本語訳が必要）
-- **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.（日本語訳が必要）
-**3. Which car is the best?**（日本語訳が必要）
-- **Experts**: Can opt for cars with the highest **Top スピード** and **Acceleration** to maximize their scoring potential.
-**4. What's special about the "Two-Way" mode?**（日本語訳が必要）
-*   **Vehicle Unlocks and Upgrades**: Players earn in-game currency to buy new cars that are faster or have better handling, or to upgrade the performance (speed, braking, handling) and appearance of their existing vehicles.
-    - **Steering**: `A` and `D` keys or `Left/Right Arrow` keys.（日本語訳が必要）
-*   **Varied Environments**: Offering different times of day (day, night) and weather conditions (sunny, rainy) to add challenge and visual diversity.
-
-### **Gameplay Strategy & Tips**
-
-[JA TRANSLATION NEEDED] 1.  **Drive Smoothly, Don't Jerk the Wheel**: At high speeds, small and smooth steering inputs are far more effective than sudden, sharp turns. Jerking the wheel can easily lead to losing control or overcorrecting, which often results in a crash.
-[JA TRANSLATION NEEDED] 2.  **"Near Misses" are Key to High Scores**: Almost all games in this genre have a bonus system where you get extra points or nitro for overtaking another car at a very close distance. Mastering this skill is crucial for achieving high scores, but it comes with high risk.
-[JA TRANSLATION NEEDED] 3.  **Look Far Ahead and Anticipate**: Don't just focus on the car directly in front of you. Your gaze should be as far down the road as possible, observing the movement of three or four cars ahead. This allows you to anticipate which lane will open up or which car might suddenly change lanes.
-[JA TRANSLATION NEEDED] 4.  **Use Brakes, But Don't Abuse Them**: Brakes are a lifesaver for avoiding imminent collisions, but frequent or heavy braking will kill your speed and lower your scoring efficiency. Prioritize avoiding danger through smooth lane changes and only use heavy braking as a last resort.
-[JA TRANSLATION NEEDED] 5.  **Utilize the Oncoming Lane in Two-Way Mode**: In two-way traffic mode, the oncoming lane often has less traffic and is a prime opportunity for near misses and score boosting. However, it's extremely dangerous. You must constantly watch for approaching cars and be ready to merge back into your lane.
-[JA TRANSLATION NEEDED] 6.  **Upgrade Your Ride**: Don't be stingy with your in-game currency. Prioritize upgrading your car's **Handling** and **Brakes** first. These two stats are vital for surviving in dense traffic. Speed is important, but it's useless if you can't control it.
-
-### **Controls Guide**
-
-[JA TRANSLATION NEEDED] The controls for these games are usually very intuitive, especially on mobile devices.
-
-*   **Mobile:**
-[JA TRANSLATION NEEDED]     *   **Steering**: The most common method is **tilt controls** (tilting your device to steer). Options for **on-screen buttons** or **touch-to-steer** are usually available in the settings.
-[JA TRANSLATION NEEDED]     *   **Acceleration**: Usually **automatic**, or there's a dedicated gas pedal button on the right side of the screen.
-[JA TRANSLATION NEEDED]     *   **Braking**: Usually a dedicated brake pedal button on the left side of the screen.
-*   **PC/Web:**
-[JA TRANSLATION NEEDED]     *   **Steering**: `A` and `D` keys or `Left/Right Arrow` keys.
-[JA TRANSLATION NEEDED]     *   **Acceleration**: `W` key or `Up Arrow` key.
-[JA TRANSLATION NEEDED]     *   **Braking**: `S` key or `Down Arrow` key.
-
-### **Frequently Asked Questions (FAQ)**
-
-[JA TRANSLATION NEEDED] **1. Why can't I seem to reach top speed?**
-[JA TRANSLATION NEEDED] In most versions, you need to hold the accelerator or maintain a high speed for a period to reach your car's maximum velocity. Frequent braking or minor collisions with other cars will cause your speed to drop.
-
-[JA TRANSLATION NEEDED] **2. How do I earn more in-game currency?**
-[JA TRANSLATION NEEDED] The primary ways to earn currency are:
-*   **Driving a longer distance**: The further you go, the higher the base reward.
-*   **Performing near misses**: Each close overtake provides a bonus.
-*   **Maintaining high speed**: Driving above a certain speed (e.g., 100 km/h) continuously earns you extra points/cash.
-*   **Completing daily missions or challenges**.
-
-
-### **コントロール Guide**
-[JA TRANSLATION NEEDED] **3. Which car is the best?**
-[JA TRANSLATION NEEDED] There's no single "best" car; it depends on your driving style.
-*   **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.
-*   **Experts**: Can opt for cars with the highest **Top Speed** and **Acceleration** to maximize their scoring potential.
-
-[JA TRANSLATION NEEDED] **4. What's special about the "Two-Way" mode?**
-[JA TRANSLATION NEEDED] The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.
-
-    - **Acceleration**: Usually **automatic**, or there's a dedicated gas pedal button on the right side of the screen.（日本語訳が必要）
-    - **Acceleration**: `W` key or `Up Arrow` key.（日本語訳が必要）
-
-
-
-
-
-
-### **Frequently Asked Questions (よくある質問)**
-    - **Braking**: `S` key or `Down Arrow` key.
     - **Acceleration**: `W` key or `Up Arrow` key.
+
     - **Steering**: `A` and `D` keys or `Left/Right Arrow` keys.
-- **PC/Web:**
-    - **Braking**: Usually a dedicated brake pedal button on the left side of the screen.
 
+    - **PC/Web:**
+### **よくある質問 (FAQ)**
 
+**1. なぜ最高速度が出ないのですか？**
+ほとんどのバージョンでは、車の最高速度に達するには、アクセルを押し続けるか、一定期間高速を維持する必要があります。頻繁なブレーキや他の車との小さな接触は、速度低下の原因になります。
 
-### **Frequently Asked Questions (よくある質問)**
-    - **Braking**: `S` key or `Down Arrow` key.
-    - **Acceleration**: `W` key or `Up Arrow` key.
+**2. ゲーム内通貨を効率的に稼ぐには？**
+通貨を稼ぐ主な方法は以下の通りです：
+*   **長距離を走る**: 遠くまで行くほど、基本報酬が高くなります。
+*   **ニアミスを行う**: 接近して追い越すたびにボーナスが入ります。
+*   **高速を維持する**: 一定の速度（例：100 km/h）以上で走り続けると、追加のポイント/現金が得られます。
+*   **デイリーミッションやチャレンジを完了する**。
 
-### **Frequently Asked Questions (よくある質問)**
-In most versions, you need to hold the accelerator or maintain a high speed for a period to reach your car's maximum velocity. Frequent braking or minor collisions with other cars will cause your speed to drop.（日本語訳が必要）
-**2. How do I earn more in-game currency?**（日本語訳が必要）
-The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.（日本語訳が必要）
+**3. どの車が一番良いですか？**
+唯一の「最高」の車はありません。あなたの運転スタイルによります。
+*   **初心者**: 最速でなくても、高い**ハンドリング**と**安定性**を持つ車を選ぶべきです。
+*   **上級者**: スコアの可能性を最大化するために、最高の**最高速度**と**加速**を持つ車を選ぶことができます。
 
-
-
-
-
-
-
-
-
-
-
-The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.
-**4. What's special about the "Two-Way" mode?**
-- **Experts**: Can opt for cars with the highest **Top Speed** and **Acceleration** to maximize their scoring potential.
-- **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.
-There's no single "best" car; it depends on your driving style.
-**3. Which car is the best?**
-- **Completing daily missions or challenges**.
-- **Maintaining high speed**: Driving above a certain speed (e.g., 100 km/h) continuously earns you extra points/cash.
-- **Performing near misses**: Each close overtake provides a bonus.
-- **Driving a longer distance**: The further you go, the higher the base reward.
-The primary ways to earn currency are:
-
-
-
-
-
-
-The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.
-**4. What's special about the "Two-Way" mode?**
-- **Experts**: Can opt for cars with the highest **Top Speed** and **Acceleration** to maximize their scoring potential.
-- **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.
-There's no single "best" car; it depends on your driving style.
-
-
-The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.
+**4. 「Two-Way（対面通行）」モードの特別な点は？**
+対面通行モードはより難しいですが、見返りも大きいです。同じ方向と反対方向の両方の交通をかわす必要があります。通常、対向車線を走ると、2倍またはそれ以上のスコアが得られます。

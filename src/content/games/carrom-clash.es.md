@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: carrom-clash
-title: '[ES] Carrom Clash'
+title: "Carrom Clash"
 description: >-
-  [ES] Experience the classic tabletop game of Carrom on your device! Aim your
-  striker, pocket your pieces, and cover the queen to defeat your opponent in
-  this game of skill and precision.
+  Disfruta del clásico juego de mesa Carrom en tu dispositivo. Apunta el
+  striker, emboca tus fichas y cubre a la reina para derrotar a tu rival en este
+  juego de habilidad y precisión.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/carrom-clash.png
 tags:
@@ -17,33 +17,52 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Carrom Clash es una versión digital realista del querido juego de carrom de
+mesa, también conocido como "strike and pocket" o billar de dedos. Tu misión es
+usar el disco más grande, el **striker**, para golpear y embocar tu conjunto de
+fichas asignadas (negras o blancas) en los cuatro agujeros de las esquinas. El
+juego exige precisión, estrategia y buen dominio de los ángulos para superar al
+oponente y ser el primero en limpiar tus piezas.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Carrom Clash is a realistic digital version of the beloved tabletop "strike and pocket" game, Carrom. Often described as finger billiards, the game challenges you to use a larger disc, the "striker," to flick your set of assigned pieces (either black or white) into the four corner pockets. The game requires precision, strategy, and a good understanding of angles to outmaneuver your opponent and clear your pieces first.
+1.  **Objetivo principal:** Ser el primer jugador en embocar todas tus fichas.
+    Para ganar la partida también debes embocar y **cubrir** a la reina roja.
+2.  **Embocar tus fichas:** En tu turno, disparas el striker desde tu línea de
+    base. Si consigues embocar una ficha tuya, mantienes el turno y puedes
+    volver a lanzar.
+3.  **La reina:** La reina roja es una pieza especial. Puedes embocarla en
+    cualquier momento después de haber hundido tu primera ficha, pero para
+    asegurarte sus puntos debes embocar una ficha tuya en el siguiente golpe del
+    mismo turno; eso es "cubrir a la reina".
+4.  **Faltas:** Si embocas el striker, cometes falta. Como penalización tendrás
+    que devolver una de tus fichas ya embocadas al centro del tablero y tu turno
+    termina.
+5.  **Tiros de banda:** Usa los bordes del tablero a tu favor. Rebotar el
+    striker en las bandas te permitirá alcanzar fichas colocadas en ángulos
+    complicados.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **The Objective:** Be the first player to pocket all of your pieces (black or white). To win, you must also pocket and "cover" the red Queen.
-2.  **[ES]** **Pocketing Your Pieces:** On your turn, you shoot the striker from your baseline. If you successfully pocket one of your own pieces, you get to shoot again.
-3.  **[ES]** **The Queen:** The red Queen is a special piece. You can pocket it any time after you've sunk your first piece. However, to secure the points for the Queen, you *must* sink one of your own pieces immediately on the very next shot. This is called "covering the Queen."
-4.  **[ES]** **Fouls:** Be careful not to pocket your striker! This is a foul and results in a penalty, where one of your already pocketed pieces is returned to the center of the board.
-5.  **[ES]** **Bank Shots:** Use the sides of the board to your advantage. Bouncing the striker off the edges can help you hit pieces that are in difficult positions.
+*   **Colocar el striker:** Haz clic y arrastra el striker a izquierda o derecha
+    a lo largo de tu línea de salida para alinearlo con la jugada.
+*   **Apuntar y disparar:** Haz clic sobre el striker y arrastra hacia atrás.
+    Verás una línea de mira; cuanto más estires, más potencia tendrá el tiro.
+    Suelta para disparar.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Position Striker:** Click and drag the striker left and right along your baseline to position it for your shot.
-*   **[ES]** **Aim and Shoot:** Click on the striker and pull back. An aiming line will appear. The further you pull back, the more powerful your shot will be. Release to shoot.
+*   **P: ¿Qué significa "cubrir a la reina"?**
+    *   **R:** Tras embocar legalmente la reina roja, debes embocar una de tus
+        fichas en el siguiente golpe del mismo turno. Si fallas, la reina vuelve
+        al centro del tablero.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué pasa si meto el striker en un agujero?**
+    *   **R:** Es falta. Una de tus fichas previamente embocadas se devuelve al
+        tablero y tu turno finaliza.
 
-*   **[ES]** **Q: What does it mean to "cover the Queen"?**
-    *   **[ES]** **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.
-
-*   **[ES]** **Q: What happens if I pocket the striker?**
-    *   **[ES]** **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
-
-*   **[ES]** **Q: What if I pocket my opponent's piece?**
-    *   **[ES]** **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
-
+*   **P: ¿Y si emboco una ficha del rival?**
+    *   **R:** Pierdes el turno. Solo conservas turno cuando embocas fichas
+        propias.

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: five-nights-at-freddy-1
-title: '[ZH TRANSLATION NEEDED] Five Nights at Freddy''s 1 (FNAF 1)'
+title: "Five Nights at Freddy's 1 (FNAF 1) 弗雷迪的五夜驚魂 1"
 description: >-
-  [ZH TRANSLATION NEEDED] Horror survival at a pizzeria: monitor cameras,
-  conserve power, and shut doors/lights to keep animatronics out across five
-  nights and beyond.
+  恐怖生存遊戲經典作：你在披薩店值夜班，透過監視器觀察、節省電力，
+  適時關門與開燈，撐過五個夜班（甚至更多）避免機械玩偶闖入辦公室。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/five-nights-at-freddy-1.jpg
 tags:
@@ -18,26 +17,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] You’re the night guard at Freddy Fazbear’s Pizza. Watch cameras, manage limited power, and keep Bonnie, Chica, Freddy, and Foxy from entering your office.
+
+你是 Freddy Fazbear's Pizza 的夜班保全，獨自在昏暗辦公室裡守夜。
+透過監視器畫面追蹤店內的機械玩偶動向，一邊管理有限的電力資源，
+一邊阻止 Bonnie、Chica、Freddy 和 Foxy 等角色趁你不注意時走進辦公室。
 
 ### How to Play
-- Check cameras to track animatronics; listen for audio cues.
-- Close doors and toggle lights sparingly—everything drains power.
-- Survive each shift from 12 a.m. to 6 a.m.; later nights speed up AI.
+
+- 經常切換監視器，掌握每個機械玩偶的位置，同時留心腳步聲、呼吸聲等音效提示。
+- 合理使用門與燈光開關——任何操作都會消耗電力，所以只能在必要時關門或開燈確認。
+- 每一夜的值勤時間為凌晨 12 點到早上 6 點，後面幾夜 AI 會變得更快、更激進。
 
 ### Controls
-- Mouse/UI for cameras, lights, and doors; Esc for pause (host dependent).
+
+- 使用滑鼠與畫面上的 UI 操作監視器切換、門與燈光開關；
+- 某些版本可用 Esc 或特定按鍵暫停或返回選單（依託管版本而定）。
 
 ### Tips
-- Learn Foxy’s Pirate Cove behavior; peeking cadence signals risk.
-- Don’t camp cameras; short, purposeful checks save power.
-- Use audio cues to know when a door light check is needed.
+
+- 優先熟悉 Foxy 在 Pirate Cove 的行為模式，他露頭頻率與姿勢可以當作危險指標。
+- 不要一直掛在監視畫面上，短促而有目的的查視可以大幅節省電力。
+- 善用音效判斷何時需要用門邊燈查看，有聲音再開燈，比不停點燈安全省電。
 
 ### FAQ
-- Q: Is 6th/Custom Night included?  
-[ZH TRANSLATION NEEDED]   A: Many hosts include Night 6 and a custom AI night.
-- Q: Why did I run out of power?  
-[ZH TRANSLATION NEEDED]   A: Over‑checking cameras/doors; streamline your loop.
-- Q: Can I mute calls?  
-[ZH TRANSLATION NEEDED]   A: Some versions allow muting the Phone Guy’s intro.
 
+- 問：這個版本有第 6 夜或自訂夜晚嗎？  
+  答：很多線上版本會附帶第 6 夜，甚至提供自訂 AI 難度的 Custom Night 模式。
+
+- 問：為什麼我總是提前沒電？  
+  答：最常見原因是過度頻繁地切監視器、關門與開燈。試著設計一個固定巡視節奏，
+  僅在必要時操作，就能讓電力撐得更久。
+
+- 問：電話語音可以關掉嗎？  
+  答：部分版本在夜班一開始會有 Phone Guy 的來電說明，通常會提供靜音按鈕，
+  讓熟悉玩法的玩家可以直接跳過。

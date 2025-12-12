@@ -1,42 +1,35 @@
 ---
+title: "Geometry Dash SubZero"
+description: "スタンドアロンの冬をテーマにしたリズムレベル：氷のようなビジュアルと速いパターンの中、音楽に合わせてジャンプ、飛行、リングのタイミングを計りましょう。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html"
+thumbnail: "/new-images/geometry-dash-subzero.jpg"
+urlstr: "geometry-dash-subzero"
+score: "3.9/5  (429 votes)"
+tags: ["rhythm", "platformer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: geometry-dash-subzero
-title: '[JA TRANSLATION NEEDED] Geometry Dash SubZero'
-description: >-
-  [JA TRANSLATION NEEDED] Standalone winter‑themed rhythm levels: jump, fly, and
-  time rings to music across icy visuals and fast patterns.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
-thumbnail: /new-images/geometry-dash-subzero.jpg
-tags:
-  - rhythm
-  - platformer
-score: 3.9/5  (429 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+ユニークな曲と高コントラストなビジュアルを備えた、冬スタイルのGeometry Dashレベルセットです。タイトなタイミングと素早い船の移行が予想されます。
 
+### 遊び方
+- 難しいリングのタイミングを練習しましょう。素早いダブルタップが必要な場所もあります。
+- 船のセクションではスムーズに飛行し、過剰な修正を避けましょう。
+- ビジュアルとビートが一致する同期ポイントを暗記しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Winter‑styled set of Geometry Dash levels with unique songs and high‑contrast visuals; expect tight timing and quick ship transitions.
+### 操作方法
+- タップ/スペース/マウスでジャンプ。長押しで飛行（ホストによります）。
 
-### How to Play
-- Practice tricky ring timings; some require quick double taps.
-- Fly smoothly in ship sections; avoid over‑correction.
-- Memorize sync points where visuals and beats align.
+### ヒント
+- エフェクトがリズムの妨げになる場合は、視覚的な装飾を減らしましょう。
+- 練習モードのチェックポイントを使って、身体で覚えましょう。
 
-### Controls
-- Tap/Space/Mouse to jump; hold to fly (host dependent).
-
-### Tips
-- Reduce visual clutter if effects distract from rhythm.
-- Use practice checkpoints to lock in muscle memory.
-
-### FAQ
-- Q: How is SubZero different from other packs?  
-[JA TRANSLATION NEEDED]   A: It features its own music set and icy theming with challenging patterns.
-- Q: Can I play in practice mode?  
-[JA TRANSLATION NEEDED]   A: Yes, most hosts include practice with checkpoints.
-- Q: Are there user levels?  
-[JA TRANSLATION NEEDED]   A: SubZero focuses on built‑in tracks; UGC depends on host.
-
+### よくある質問 (FAQ)
+- **Q: SubZeroは他のパックとどう違いますか？**  
+  A: 独自の音楽セットと、挑戦的なパターンを持つ氷のテーマが特徴です。
+- **Q: 練習モードでプレイできますか？**  
+  A: はい、ほとんどのホスト版にはチェックポイント付きの練習が含まれています。
+- **Q: ユーザーレベルはありますか？**  
+  A: SubZeroは組み込みのトラックに焦点を当てています。UGCはホストによります。

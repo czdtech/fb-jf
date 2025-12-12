@@ -1,13 +1,9 @@
 ---
 locale: zh
 urlstr: minecraft-cave-escape
-title: >-
-  [ZH TRANSLATION NEEDED] Minecraft Cave Escape - Play Minecraft Cave Escape
-  Online
+title: "Minecraft Cave Escape - 在线玩《Minecraft Cave Escape》"
 description: >-
-  [ZH TRANSLATION NEEDED] In Minecraft Cave Escape, You are stuck in a cave and
-  have no materials to get out! Climb the falling blocks to escape, but dont let
-  them fall on you!
+  在《Minecraft Cave Escape》中，你被困在一个方块洞穴里，手上没有任何材料可以挖出一条路，只能踩着不断掉落的方块一路往上爬逃出生天——但千万别被方块砸中！
 iframeSrc: 'https://turbowarp.org/1189417610/embed'
 thumbnail: /minecraft-cave-escape.png
 tags:
@@ -15,4 +11,4 @@ tags:
 score: 4.7/5  (354 votes)
 ---
 
-[ZH TRANSLATION NEEDED] This is a jump-and-climb game that tests your reflexes, based on a Minecraft-inspired style. The game's setting is: You are stuck in a cave and have no materials to get out! Climb the falling blocks to escape, but don't let them fall on you! How far can you climb?
+这是一款以 Minecraft 像素风为灵感的“跳跃+攀爬”反应类小游戏。游戏设定很简单：你被困在一处深邃洞穴中，既没有镐子也没有方块可以自己搭路，唯一的生路就是踩着从天而降的方块一路往上攀爬。你既要抢在方块砸到自己之前跳到安全位置，又要合理利用方块堆叠出的“天梯”，看看自己最终能爬多高。

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: duck-life-4
-title: '[ES] Duck Life 4'
+title: "Duck Life 4"
 description: >-
-  [ES] Duck Life 4 is a training and racing sim: build your duck’s stats in
-  mini‑games and win tournaments.
+  Duck Life 4 es un simulador de entrenamiento y carreras: mejora las
+  estadísticas de tu pato en minijuegos y gana torneos regionales.
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/duck-life-4.jpg
 tags:
@@ -15,30 +15,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Duck Life 4 te permite entrenar a un pato corredor en distintos minijuegos
+(correr, nadar, volar, escalar) y luego participar en torneos por regiones. La
+energía determina la resistencia en carrera; los sombreros y evoluciones cambian
+el aspecto del pato.
 
+### Cómo jugar
 
-### Overview
-Train a racing duck across mini‑games (running, swimming, flying, climbing), then enter regional tournaments. Energy controls stamina; hats and evolutions change looks.
+- Mejora cada estadística en su minijuego correspondiente; esquiva obstáculos
+  para subir de nivel más rápido.
+- Alimenta al pato con semillas para subir la energía; si tiene poca, se
+  cansará rápido en las carreras.
+- Gana las series clasificatorias para desbloquear nuevas zonas y torneos.
 
-### How to Play
-- Improve each stat via its training mini‑game; avoid obstacles to gain XP quickly.
-- Feed seeds to raise energy; low energy reduces race endurance.
-- Win qualifying heats to unlock new areas and tournaments.
+### Controles
 
-### Controls
-- Arrows/Mouse depending on mini‑game; Space to jump in runners (host dependent).
+- Flechas o ratón según el minijuego.
+- Espacio para saltar en los modos de carrera (puede variar según el portal).
 
-### Tips
-- Rotate training so no single stat bottlenecks a race.
-- Keep energy topped off before tournaments.
-- Re‑run earlier tracks to grind safe XP if stuck.
+### Consejos
 
-### FAQ
-- Q: Do cosmetics affect speed?
-A: Hats are cosmetic; progression comes from stats and energy.
-- Q: Can I respec?
-A: No—just keep training the needed stat.
-- Q: Why am I losing photo‑finish races?
-A: Usually low energy or one stat (e.g., climbing) is behind.
+- Rota el entrenamiento para que ninguna estadística se quede muy por detrás y
+  te limite en las carreras.
+- Asegúrate de tener la energía al máximo antes de entrar a un torneo largo.
+- Repite circuitos antiguos para conseguir experiencia y monedas de forma segura
+  si te quedas atascado.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Los cosméticos afectan a la velocidad?**  
+  **R:** Los sombreros y aspectos son puramente estéticos; lo que cuenta para el
+  rendimiento son las estadísticas y la energía.
+
+- **P: ¿Puedo reiniciar las estadísticas?**  
+  **R:** No, solo puedes seguir entrenando la habilidad que necesites hasta el
+  nivel requerido.
+
+- **P: ¿Por qué pierdo carreras ajustadas en la foto final?**  
+  **R:** Normalmente porque vas corto de energía o porque una de las
+  habilidades clave del circuito (por ejemplo, escalar) está demasiado baja.

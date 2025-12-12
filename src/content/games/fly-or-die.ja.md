@@ -1,44 +1,36 @@
 ---
+title: "Fly or Die"
+description: "進化サバイバル（.io）：正しい食べ物を食べて食物連鎖を進化させながら、空や地上のバイオームで捕食者や危険を回避しましょう。"
+iframeSrc: "https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html"
+thumbnail: "/new-images/fly-or-die.jpg"
+urlstr: "fly-or-die"
+score: "4.6/5  (260 votes)"
+tags: ["survival", "io"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: fly-or-die
-title: '[JA TRANSLATION NEEDED] Fly or Die'
-description: >-
-  [JA TRANSLATION NEEDED] Evolution survival (.io): eat correct food to evolve
-  through the chain while avoiding predators and hazards across sky and ground
-  biomes.
-iframeSrc: >-
-  https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
-thumbnail: /new-images/fly-or-die.jpg
-tags:
-  - survival
-  - io
-score: 4.6/5  (260 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+進化を取り入れたマルチプレイヤーサバイバル：小さな生き物からスタートし、特定のアイテムを消費して新しい形態へとレベルアップしながら、捕食者や環境の脅威を回避します。
 
+### 遊び方
+- 現在の食事アイコンを確認しましょう。それらのアイテムだけがXP（経験値）を与えます。
+- 捕食者アイコンに注意してください。上位の層（ティア）はあなたを捕食できます。隠れるか逃げましょう。
+- 水分と酸素（必要な場合）を管理し、上昇気流などを利用しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Multiplayer survival with evolution: start as a small creature, consume specific items to level up into new forms, and avoid predators and environmental threats.
+### 操作方法
+- マウス/キーボードで移動・飛行します。ブーストキーはホストによって異なります。
 
-### How to Play
-- Check your current diet icons; only those items grant XP.
-- Watch predator icons—higher tiers can kill you; hide or flee.
-- Manage water/oxygen (when applicable) and use thermals/updrafts.
+### ヒント
+- 混雑したゾーンの端で安全に食事をしましょう。捕食者と争ってはいけません。
+- 食物連鎖を記憶して、アップグレードを素早く進めるルートを構築しましょう。
+- 逃げるために高さを利用しましょう。形態に応じて高く登ったり、地下に潜ったりしてください。
 
-### Controls
-- Mouse/Keyboard to move/fly; boost keys vary by host.
-
-### Tips
-- Eat safely at the edge of busy zones; don’t contest predators.
-- Memorize the food chain so you can route upgrades quickly.
-- Use verticality to escape—climb high or dive underground depending on form.
-
-### FAQ
-- Q: How do I evolve to the next creature?  
-[JA TRANSLATION NEEDED]   A: Eat the items shown in your diet bar to earn XP and level up.
-- Q: What happens when a predator catches me?  
-[JA TRANSLATION NEEDED]   A: You lose progress or a life depending on the server rules.
-- Q: Is there team play?  
-[JA TRANSLATION NEEDED]   A: Most servers are FFA; some hosts rotate special modes.
-
+### よくある質問 (FAQ)
+- **Q: 次の生き物に進化するにはどうすればいいですか？**  
+  A: 食事バーに表示されているアイテムを食べてXPを獲得し、レベルアップしましょう。
+- **Q: 捕食者に捕まるとどうなりますか？**  
+  A: サーバーのルールに応じて、進行状況を失うか、ライフを失います。
+- **Q: チームプレイはありますか？**  
+  A: ほとんどのサーバーはFFA（全員敵）ですが、特別なモードをローテーションするホストもあります。

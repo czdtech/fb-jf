@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: jungle-match-puzzle
-title: '[DE] Jungle Match Puzzle'
+title: "Jungle Match Puzzle"
 description: >-
-  [DE] Jungle Match Puzzle is a lively match‑3 — clear blockers, chain
-  power‑ups, and meet jungle‑themed goals within tight move limits.
+  Jungle Match Puzzle ist ein quirliges Match-3-Spiel im Dschungel: Räume
+  Blocker weg, verkette Power-ups und erfülle Dschungelziele innerhalb
+  knapper Zuglimits.
 iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
 thumbnail: /new-images/jungle-match-puzzle.png
 tags:
@@ -16,35 +17,65 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Jungle Match Puzzle ist ein farbenfrohes Match-3-Puzzlespiel mit typischen
+Dschungel-Hindernissen wie Ranken, Kisten oder klebrigen Feldern. In jedem
+Level musst du bestimmte Szenenziele erreichen – etwa eine Punktzahl knacken,
+Idole sammeln oder Tiere befreien – und das alles mit einem begrenzten Vorrat
+an Zügen.
 
-### Detailed Game Introduction
+Durch geschicktes Kombinieren erzeugst du Power-ups, die Blocker und dichtes
+Laub im großen Stil wegräumen. Wenn du Bomben mit Linien-Power-ups kombinierst
+oder doppelte Linien-Clears auslöst, öffnest du das Spielfeld und sorgst für
+mächtige Kettenreaktionen.
 
-Jungle Match Puzzle is a colorful match‑3 with vines, crates, and sticky tiles as blockers. You must complete scene goals (score, collect idols, free animals) within move limits. Combining power‑ups (bomb + line, double line) wipes dense foliage and opens the board for cascading clears.
+### Strategie & Tipps
 
-### Gameplay Strategy & Walkthrough
+1.  **Ziele zuerst, Punkte später**  
+    Spiele immer auf das Levelziel hin: Blocker entfernen, Sammelobjekte
+    einsammeln und Tiere befreien sind wichtiger als reine Punktjagd.
 
-1.  **[DE]** Objective‑first: Prioritize blocker clears and collect goals before pure scoring.
-2.  **[DE]** Bottom clears: Work from the bottom to spawn cascades that remove blockers above.
-3.  **[DE]** Power‑up combos: Merge for board‑wide effects; save strong combos for clustered blockers.
-4.  **[DE]** Move economy: Map 2–3 moves ahead; avoid isolating colors near walls.
-5.  **[DE]** Hazard awareness: Sticky tiles require adjacent matches; plan detours.
+2.  **Von unten räumen**  
+    Arbeite dich möglichst von unten nach oben vor. Matches am unteren Rand
+    erzeugen Nachschub von oben und lösen automatisch Kettenreaktionen aus, die
+    Blocker über dir mit beseitigen.
 
-### Controls Guide
+3.  **Power-ups klug kombinieren**  
+    Kombiniere Power-ups, statt sie einzeln zu zünden. Eine Bombe zusammen mit
+    einem Linienstein oder zwei Linien-Power-ups auf einmal sorgen für
+    flächendeckende Effekte – perfekt für dichte Blocker-Cluster.
 
-- Drag to swap; activate power‑ups by matching/tapping; pause/retry via UI.
+4.  **Zugökonomie beachten**  
+    Plane 2–3 Züge im Voraus. Vermeide Matches, die Farben an die Wand drängen
+    oder dir künftige starke Kombos verbauen. Jeder Zug sollte dich dem Ziel
+    spürbar näher bringen.
 
-### Frequently Asked Questions (FAQ)
+5.  **Gefahrenfelder im Blick behalten**  
+    Klebrige oder blockierte Felder erfordern meist ein Match direkt daneben.
+    Plane Umwege und räume sie frühzeitig, damit sie dir nicht in den letzten
+    Zügen den Weg versperren.
 
-- Q: I fail on move limits — what should I change?
+### Steuerung
 
-A: Stop chasing points; clear blockers and chain combos to progress objectives per move.
+- **Tauschen:** Ziehe zwei benachbarte Steine gegeneinander, um sie zu
+  vertauschen.
+- **Power-ups aktivieren:** Nutze Power-ups durch Matches mit ihnen oder, je
+  nach Regel, per Antippen.
+- **Pause/Neustart:** Über die Benutzeroberfläche kannst du das Spiel pausieren
+  oder ein Level neu starten.
 
-- Q: Best power‑up combo?
+### FAQ
 
-A: Bomb + line for maximum coverage; double line for sweeping rows/cols.
+- **F: Ich scheitere ständig am Zuglimit – was mache ich falsch?**  
+  **A:** Richte deine Züge konsequent am Ziel aus, statt nur auf hohe Scores zu
+  spielen. Räume Blocker und nutze Kombos, die mehrere Hindernisse gleichzeitig
+  treffen.
 
-- Q: Are diagonals allowed?
+- **F: Welche Power-up-Kombination ist am stärksten?**  
+  **A:** Eine Bombe zusammen mit einem Linien-Power-up deckt viel Fläche ab,
+  während zwei Linien-Power-ups mehrere Reihen und Spalten auf einmal räumen.
 
-A: Usually no; read the mode rules.
-
+- **F: Sind diagonale Matches erlaubt?**  
+  **A:** In der Regel nicht – meistens zählen nur horizontale und vertikale
+  Reihen. Halte dich an die Levelregeln, die im Spiel angezeigt werden.

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: bloons-td-2
-title: '[ZH TRANSLATION NEEDED] Bloons TD 2'
+title: "Bloons TD 2 气球塔防 2"
 description: >-
-  [ZH TRANSLATION NEEDED] Experience the classic Bloons TD 2! Place and upgrade
-  five unique monkey towers to defend against 50 waves of balloons, and master
-  the strategy needed to counter immune Black and White bloons.
+  在《Bloons TD 2 气球塔防 2》中，布置并升级 5 种猴子防御塔，在 50 波来袭的气球面前坚守防线，合理搭配炸弹
+  与冰冻塔来应对对爆炸免疫的黑气球和对冰冻免疫的白气球。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/bloons-td-2.jpg
 tags:
@@ -16,62 +15,71 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+*Bloons TD 2* 是经典塔防系列的第二作，在初代基础上加入了关键机制——**塔升级系统**。核心目标依旧是：在关卡路径旁放置猴子防御塔，尽量在气球（Bloons）走到终点前全部戳破，否则会损失生命值。
 
-[ZH TRANSLATION NEEDED] Bloons TD 2 is the second installment in the classic tower defense series. The game builds upon the foundation of the original by introducing the key feature of **tower upgrades**. The objective remains the same: use monkeys to pop waves of advancing balloons ("Bloons") before they reach the end of the track and cost you lives.
+整局共有 50 轮，难度逐渐提升。玩家通过戳破气球获得金钱，用于购买新的防御塔或升级已有防御塔。本作提供 5 种基础塔，并引入具有特殊免疫属性的气球，迫使你用更有针对性的组合来防守。
 
-[ZH TRANSLATION NEEDED] The game is played over 50 rounds of increasing difficulty. Players earn money for each Bloon popped, which can be used to purchase new towers or upgrade existing ones. Bloons TD 2 features a core set of towers and introduces special Bloon types that require specific strategies to defeat.
+**Bloons TD 2 的核心内容：**
 
-[ZH TRANSLATION NEEDED] **Key Features of Bloons TD 2:**
--   **Tower Upgrades:** The main innovation of this sequel. Each tower has a set of upgrades that enhance its abilities, such as increased range, faster attack speed, or special projectile types.
--   **Towers:** The game includes five primary towers:
-    1. [ZH TRANSLATION NEEDED] **Dart Monkey:** A cheap, basic tower that throws single darts.
-    2. [ZH TRANSLATION NEEDED] **Tack Shooter:** Shoots a volley of tacks in eight directions. Best placed in corners.
-    3. [ZH TRANSLATION NEEDED] **Ice Tower:** Freezes Bloons in its radius, holding them in place. Cannot affect White Bloons.
-    4. [ZH TRANSLATION NEEDED] **Bomb Tower:** Launches bombs that explode and pop Bloons in an area. Cannot affect Black Bloons.
-    5. [ZH TRANSLATION NEEDED] **Super Monkey:** A very expensive but extremely fast-firing tower.
--   **Special Bloons:**
-     -   **Black Bloons:** Immune to explosions from Bomb Towers.
-     -   **White Bloons:** Immune to being frozen by Ice Towers.
-     -   **Zebra Bloons:** A combination of a Black and a White Bloon. When popped, it releases one of each.
-     -   **Rainbow Bloons:** The toughest Bloon in the game. When popped, it releases two Zebra Bloons.
+- **塔升级：** 每座塔都可以通过升级获得更远的射程、更快的攻速或特殊弹道等增强效果。  
+- **五种主要猴子塔：**  
+    1.  **Dart Monkey（飞镖猴）：** 价格低、最基础的单体飞镖输出塔。  
+    2.  **Tack Shooter（钉子塔）：** 朝 8 个方向同时射出钉子，适合放在路径转角。  
+    3.  **Ice Tower（冰塔）：** 冰冻范围内的气球使其原地停滞，但无法影响白气球。  
+    4.  **Bomb Tower（炸弹塔）：** 发射范围爆炸的炸弹，对群体气球有很强效果，但对黑气球无效。  
+    5.  **Super Monkey（超级猴子）：** 价格昂贵但攻速极快，是后期最强单体输出塔之一。  
+- **特殊气球类型：**  
+    -   **Black Bloon（黑气球）：** 对爆炸伤害免疫，炸弹塔对其无效。  
+    -   **White Bloon（白气球）：** 对冰冻效果免疫，无法被冰塔减速或冻结。  
+    -   **Zebra Bloon（斑马气球）：** 同时具备黑气球和白气球特性，被戳破后会分裂出一颗黑气球和一颗白气球。  
+    -   **Rainbow Bloon（彩虹气球）：** 游戏中最坚韧的普通气球，被戳破后会分裂成两颗斑马气球。  
 
-### Gameplay Strategy
+### 游戏策略
 
--   **Balanced Defense is Essential:** This is the most critical strategy in Bloons TD 2. Because Black Bloons are immune to bombs and White Bloons are immune to ice, you cannot rely on just one type of damage. Your defense must include towers that can handle both (like Dart Monkeys, Tack Shooters, and Super Monkeys) alongside your specialized towers.
--   **Start with Dart Monkeys:** In the early rounds, place several Dart Monkeys along the track. They are cheap and effective against the initial red, blue, and green Bloons. Upgrade them to "Piercing Darts" as soon as you can to handle denser groups.
--   **Strategic Placement:**
-     -   Place Tack Shooters on sharp corners or loops where their 8-tack spread can hit Bloons multiple times.
-     -   Place Bomb Towers where their splash damage can cover a straight path or a large cluster of Bloons slowed by an Ice Tower.
-     -   Ice Towers are best placed in the range of other damage-dealing towers to maximize the time Bloons spend getting hit.
--   **Prepare for Round 28:** This is the first round with Lead Bloons, which can only be popped by explosions. You MUST have a Bomb Tower by this round.
--   **Countering Black and White Bloons:** When you see waves of Black and White Bloons, you'll need towers like upgraded Dart Monkeys or Tack Shooters to do the initial popping, as your Bomb and Ice Towers will be ineffective against one type.
--   **Saving for the Super Monkey:** The Super Monkey is your ultimate late-game weapon. Try to save up for one and place it where it has a long line of sight. It is your best defense against the dense Rainbow Bloon waves in the final rounds (46-50).
+- **防线必须足够“多样化”**  
+  由于黑气球对爆炸免疫、白气球对冰冻免疫，你不能只堆炸弹塔或冰塔。必须用飞镖猴、钉子塔、超级猴子等“通用输出塔”搭配专精塔，才能对所有气球类型造成伤害。
 
-### Controls Guide
+- **前期多放飞镖猴起步**  
+  初始几轮只会出现红、蓝、绿等基础气球，沿路径放置数个飞镖猴即可稳住局面。尽快为它们购买“穿透飞镖”之类的升级，以应对密集小气球群。
 
-[ZH TRANSLATION NEEDED] The controls are simple point-and-click, typical for Flash games of its era.
+- **站位细节：**
+    -   钉子塔适合放在弯道或环形路段，让 8 向钉子尽可能多次命中同一批气球。  
+    -   炸弹塔适合放在直线长段或气球被冰塔减速后的聚集点，通过溅射打出群体伤害。  
+    -   冰塔应放在其它输出塔火力覆盖区域内，保证被冻住的气球能被持续输出击破。  
 
--   **Select a Tower:** Click on the tower you wish to buy from the panel on the right side of the screen.
--   **Place a Tower:** Move your mouse to a valid position on the map and click again to place it.
--   **Upgrade a Tower:** Click on a tower that is already on the map. Its upgrade options will appear in the panel. Click on the desired upgrade to purchase it if you have enough money.
--   **Hotkeys:** You can use the number keys (1-5) as shortcuts to select the corresponding towers.
+- **提前为第 28 轮“铅气球”做准备**  
+  铅气球首次出现于第 28 波，只能被爆炸类伤害戳破，因此你必须在此之前建好至少一座炸弹塔，否则会直接漏一大串气球。
 
-### Frequently Asked Questions (FAQ)
+- **应对黑白混合波次**  
+  当看到大量黑气球与白气球同时出现时，不要指望炸弹塔或冰塔来解决。此时应依赖已升级的飞镖猴、钉子塔或超级猴子作为主力输出，炸弹和冰塔只是辅助控场。
 
-[ZH TRANSLATION NEEDED] **1. Why isn't my Bomb Tower popping the black balloons?**
-[ZH TRANSLATION NEEDED] > Black Bloons are immune to explosions. You need to use "sharp" attacks from towers like the Dart Monkey or Tack Shooter to pop them.
+- **为超级猴子攒钱**  
+  超级猴子是后期的“终极火力点”。尽量在中后期攒出一座并放在视野最长的路径位置，用于对付第 46–50 波极度密集的彩虹气球。
 
-[ZH TRANSLATION NEEDED] **2. Why are the white balloons going right through my Ice Tower's freeze?**
-[ZH TRANSLATION NEEDED] > White Bloons are immune to freezing effects. They cannot be slowed or stopped by Ice Towers.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **3. What is the best tower in the game?**
-[ZH TRANSLATION NEEDED] > There is no single "best" tower, as the game is designed around balance. The Super Monkey has the highest raw power, but you cannot win without Bomb Towers for Lead Bloons and a balanced defense for Black/White Bloons. A combination of towers is always the best strategy.
+本作为典型的 Flash 塔防操作，完全靠鼠标点击完成：
 
-[ZH TRANSLATION NEEDED] **4. How many rounds are there in Bloons TD 2?**
-[ZH TRANSLATION NEEDED] > The game consists of 50 rounds. The final rounds feature a massive rush of Rainbow Bloons.
+-   **选择防御塔：** 在右侧面板点击想购买的塔。  
+-   **放置防御塔：** 将鼠标移动到地图上合法位置，再次点击即可放置。  
+-   **升级防御塔：** 点击地图上的已有塔，其升级选项会在侧边面板中显示，若金钱足够，点击对应升级即可购买。  
+-   **快捷键：** 数字键 1–5 可快速选择对应的塔类型。
 
-[ZH TRANSLATION NEEDED] **5. How do I make extra money?**
-[ZH TRANSLATION NEEDED] > In Bloons TD 2, the only way to earn money is by popping Bloons. Unlike later games in the series, there are no Banana Farms or other abilities to generate extra income.
+### 常见问题解答（FAQ）
 
+**1. 为什么我的炸弹塔打不到黑气球？**  
+黑气球对爆炸伤害完全免疫，你需要用飞镖猴、钉子塔或超级猴子这类“锐器”攻击塔先把它们戳破。
+
+**2. 白气球为什么能直接穿过冰塔的冰冻范围？**  
+白气球对冰冻效果免疫，冰塔无法减速或冻住它们，只能依靠其它输出塔来解决。
+
+**3. 游戏里最强的塔是什么？**
+没有绝对意义上的“最强单塔”，但在本作中，搭配好位置与升级的超级猴子，在后期可以承担最主要的清场输出，是防守彩虹气球和高强度波次的核心之一。
+
+**4. 总共有多少轮？**
+本作一共 50 波，最后几波会出现大量彩虹气球，需要提前准备强力火力点。
+
+**5. 有什么办法额外赚钱吗？**
+《Bloons TD 2》里只有通过戳破气球才能赚到钱，并没有香蕉农场等额外经济体系。

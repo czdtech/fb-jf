@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: stack-bounce
-title: '[ES] Stack Bounce'
+title: Stack Bounce
 description: >-
-  [ES] Test your timing and reflexes in Stack Bounce. Smash through colorful
-  platforms by holding down, but be sure to release before you hit the black
-  obstacles to keep the ball bouncing.
+  Pon a prueba tu sincronización y tus reflejos en Stack Bounce. Rompe las
+  plataformas de colores manteniendo pulsado, pero suelta a tiempo para no
+  estrellarte contra los obstáculos negros y mantener la pelota rebotando.
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
 thumbnail: /new-images/stack-bounce.jpeg
 tags:
@@ -17,36 +17,58 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Stack Bounce es un arcade 3D vibrante y adictivo que pone a prueba tu
+sincronización y tus reflejos. Controlas una bola que desciende por una torre
+hélice formada por plataformas de colores rompibles. Tu meta es llegar al fondo
+rompiendo todos los niveles de la torre, pero debes evitar las secciones negras
+indestructibles: tocarlas significa perder al instante. Con controles de un solo
+botón y físicas de destrucción muy satisfactorias, es fácil de entender pero
+complicado de dominar.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **Mantener para romper:** el núcleo del juego es sencillo: mantén pulsada la
+    pantalla o el botón del ratón para que la bola atraviese las plataformas de
+    color. Cuanto más tiempo mantengas, más rápido descenderás.
+2.  **Soltar en el momento justo:** la habilidad clave está en saber cuándo
+    soltar. A medida que gires la torre, suelta justo antes de que la bola
+    alcance una sección negra. La bola rebotará de forma segura hasta que
+    decidas volver a romper.
+3.  **Construir el modo Fiebre:** si atraviesas varias plataformas seguidas sin
+    detenerte, llenarás una barra de poder. Cuando se completa, entras en "Fever
+    Mode": la bola se convierte en un proyectil ígneo capaz de destruir cualquier
+    plataforma, incluidas las negras, durante unos segundos. Aprovecha este
+    estado para superar tramos difíciles.
+4.  **La paciencia paga:** no te dejes llevar por la avaricia. A menudo es mejor
+    esperar una apertura clara que arriesgarte a golpear una sección negra por
+    ir demasiado rápido. Deja que aparezcan varios niveles seguidos de color
+    antes de mantener pulsado para ganar velocidad y combos.
 
-Stack Bounce is a vibrant and addictive 3D arcade game that tests players' timing and reflexes. The game features a bouncing ball that must descend through a helix tower made of colorful, breakable platforms. The objective is to reach the bottom of the tower by smashing through the stacks. However, players must strategically avoid the black, unbreakable sections of the platforms, as hitting them results in an instant game over. With its simple one-touch controls and satisfying destruction physics, Stack Bounce is easy to pick up but challenging to master.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- **PC:** mantén pulsado el **botón izquierdo del ratón** para atravesar
+  plataformas; suelta para dejar que la bola rebote.
+- **Móvil/tablet:** mantén el **dedo en la pantalla** para romper; levántalo
+  para detener el descenso.
 
-1.  **[ES]** **Hold to Smash:** The core mechanic is simple: press and hold the screen or mouse button to make the ball smash through the colored platforms. The longer you hold, the faster you descend.
-2.  **[ES]** **Timing Your Release:** The most crucial skill is knowing when to release. As the tower rotates, you must release your hold just before the ball hits a black section. The ball will then bounce harmlessly on the platform until you decide to smash again.
-3.  **[ES]** **Build Up Fever Mode:** If you successfully smash through several platforms in a row without stopping, you will build up a power meter. Once full, the ball enters "Fever Mode." In this state, it becomes a fiery projectile that can smash through *any* platform, including the black ones, for a short period. Use this to your advantage to clear difficult sections.
-4.  **[ES]** **Patience is a Virtue:** Don't get greedy. It's often better to pause and wait for the right opening than to risk hitting a black platform by rushing. Wait for a long stretch of colored platforms to appear before holding down to build up speed.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **P: ¿Qué pasa si golpeo una plataforma negra?**
+    *   **R:** La bola se rompe y la partida termina; tendrás que empezar de nuevo el
+        nivel.
 
-*   **[ES]** **Desktop/Laptop:** Press and hold the **left mouse button** to smash through platforms. Release the button to stop smashing and let the ball bounce.
-*   **[ES]** **Mobile/Tablet:** Press and hold your **finger on the screen** to smash. Lift your finger to stop.
+*   **P: ¿Cómo activo el modo Fiebre?**
+    *   **R:** Se activa automáticamente al encadenar una buena racha rompiendo
+        plataformas de color sin parar. Un medidor circular indica tu progreso;
+        cuando se llena, entras en Fiebre.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Puedo romper plataformas negras en el modo Fiebre?**
+    *   **R:** Sí. Durante el modo Fiebre, la bola es invencible y puede destruir
+        cualquier plataforma, incluidas las negras, sin penalización.
 
-*   **[ES]** **Q: What happens if I hit a black platform?**
-    *   **[ES]** **A:** Your ball shatters, and the game is over. You will have to restart the level.
-
-*   **[ES]** **Q: How do I activate Fever Mode?**
-    *   **[ES]** **A:** You activate it automatically by creating a long, uninterrupted combo of smashing through colored platforms. A circular meter will show your progress. Once it's full, Fever Mode begins.
-
-*   **[ES]** **Q: Can I break black platforms in Fever Mode?**
-    *   **[ES]** **A:** Yes. During Fever Mode, the ball is invincible and can destroy any platform, including the black ones, without penalty.
-
-*   **[ES]** **Q: Is there an end to the game?**
-    *   **[ES]** **A:** The game is level-based. Your goal is to reach the bottom of the helix tower to complete the current level and move on to the next, which will often be longer or more complex.
-
+*   **P: ¿El juego tiene final?**
+    *   **R:** El juego es por niveles. Tu objetivo es llegar al fondo de la torre
+        para completar el nivel actual y pasar al siguiente, que suele ser más largo o
+        complejo.

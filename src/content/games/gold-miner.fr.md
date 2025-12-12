@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: gold-miner
-title: '[FR] Gold Miner'
+title: Gold Miner
 description: >-
-  [FR] Hook‑and‑haul arcade classic: time your claw to snag gold and gems, buy
-  power‑ups, and reach the target cash before time runs out.
+  Classique arcade de grappin : choisis le bon timing pour lancer ta griffe,
+  attraper or et gemmes, acheter des bonus et atteindre la somme cible avant la
+  fin du temps.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/gold-miner.jpg
 tags:
@@ -15,30 +16,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Gold Miner est un jeu d’arcade basé sur le timing, où une griffe oscillante descend à la demande pour accrocher des objets sous terre. Les gros blocs d’or sont lourds mais très rentables, les rochers valent peu et te ralentissent, tandis que les diamants sont légers et précieux. Chaque niveau a un objectif d’argent à atteindre sous la pression d’un chrono, et une boutique te propose de la dynamite, des potions de force et des trèfles porte‑bonheur pour les stages les plus difficiles.
 
+### Comment jouer
 
-### Overview
-Gold Miner is a timing‑based arcade game where a swinging claw drops on command to latch onto underground objects. Large gold chunks are heavy but lucrative; rocks are cheap and slow you down; diamonds are light and valuable. Each level has a cash target under a time limit, and a shop offers dynamite, strength drinks, and lucky clovers for tougher stages.
+- Lâche la griffe lorsque son arc s’aligne avec ta cible.
+- Priorise les gros morceaux d’or en début de niveau ; utilise la dynamite pour te débarrasser des rochers indésirables.
+- Achète des améliorations entre les manches pour pouvoir viser des objectifs d’argent plus élevés.
 
-### How to Play
-- Trigger the claw when its arc aligns with your target.
-- Prioritize large gold early; use dynamite to ditch unwanted rocks.
-- Purchase upgrades between rounds to meet higher goals.
+### Commandes
 
-### Controls
-- One key/click to drop claw; additional keys for items (host dependent).
+- Une touche / un clic pour lâcher la griffe.  
+- Des touches supplémentaires pour utiliser les objets (selon l’hébergeur).
 
-### Tips
-- Learn arc timing—release slightly before the object’s center.
-- Save dynamite for big rocks that waste time.
-- Diamonds and mystery bags are high ROI; adjust targets by layout.
+### Foire aux questions (FAQ)
 
-### FAQ
+- Q : Comment atteindre les gros objectifs des niveaux avancés ?
+  
+  R : Investis dans la force et les bombes, et privilégie les parcours qui te permettent de récupérer plusieurs diamants et sacs mystère.
+
+- Q : La dynamite me rend‑elle le temps perdu sur les rochers ?
+  
+  R : Elle annule simplement la remontée en cours, ce qui te permet de reprendre rapidement la chasse aux vrais trésors.
+
+- Q : Les dispositions d’objets sont‑elles aléatoires ?
+  
+
 - Q: How do I reach high targets on late levels?
-A: Buy strength and bombs, and focus on diamond routes.
-- Q: Does dynamite refund time on rocks?
-A: It cancels the haul, letting you resume faster.
-- Q: Are layouts random each run?
+
+### Foire aux questions (FAQ)
+  R : Dans beaucoup de versions, les objets sont randomisés dans certaines limites de difficulté, ce qui rend chaque run un peu différente.
+
+
+
 A: Many versions randomize objects within difficulty bounds.
 
+- Q: Are layouts random each run?
+
+A: It cancels the haul, letting you resume faster.
+
+- Q: Does dynamite refund time on rocks?
+
+
+A: Many versions randomize objects within difficulty bounds.
+
+- Q: Are layouts random each run?
+
+A: It cancels the haul, letting you resume faster.

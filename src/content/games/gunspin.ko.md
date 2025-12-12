@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: gunspin
-title: '[KO] Gunspin'
+title: "Gunspin 건스핀"
 description: >-
-  [KO] Recoil‑propulsion arcade: fire your gun to spin and fly, collect ammo,
-  and travel as far as possible through hazards.
+  Gunspin은 총의 반동을 추진력으로 바꾸어, 총을 쏠 때마다 몸이 회전하고 앞으로
+  날아가는 독특한 아케이드 게임입니다. 공중에서 탄약과 코인을 수집하며 장애물을
+  피해 최대한 멀리 날아가는 것이 목표입니다.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/gunspin.jpg
 tags:
@@ -18,27 +19,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Gunspin turns recoil into movement: each shot spins and propels your weapon/body forward. Stages scatter ammo, coins, and hazards. Managing angle and shot timing yields long glides and chain pickups; upgrades add firepower and control.
+### 개요
 
-### How to Play
-- Fire at shallow angles to maintain forward velocity.
-- Save bursts for upward corrections or hazard avoidance.
-- Spend coins on guns that match your style (spread vs. precise).
+*Gunspin*에서는 발사 반동이 곧 이동 수단입니다. 총을 한 번 쏠 때마다 캐릭터와 총이
+회전하며 앞으로 조금씩 밀려 나가고, 스테이지 곳곳에는 탄약 상자, 코인, 그리고 다양한
+장애물이 배치되어 있습니다. 발사 각도와 타이밍을 잘 관리하면 긴 활공과 연속
+아이템 획득이 가능하며, 획득한 코인으로 새로운 총을 해금하거나 업그레이드할 수
+있습니다.
 
-### Controls
-- Mouse/Space to shoot; timing and aim set trajectory.
+### 플레이 방법
+- 낮은 각도로 쏴서 전진 속도를 유지하세요. 너무 위를 향해 쏘면 높이만 올라가고
+  거리는 짧아집니다.
+- 위로 다시 올려야 할 때나 장애물을 피해 옆으로 꺾어야 할 때를 위해, 탄약을 조금
+  아껴 두는 것이 좋습니다.
+- 모은 코인은 자신의 스타일에 맞는 총을 해금하는 데 사용하세요. 산탄형, 정밀형
+  등 성향에 따라 조작감이 달라집니다.
 
-### Tips
-- Small taps > full bursts for efficiency.
-- Aim slightly behind your path to push forward without stalling.
-- Use bounce surfaces to refresh trajectory.
+### 조작
+- 마우스 클릭 또는 스페이스바로 발사하며, 조준 방향과 타이밍에 따라 궤도가
+  결정됩니다.
 
-### FAQ
-- Q: How do I keep momentum without stalling?
-A: Shoot with shallow backward angles and short taps.
-- Q: What upgrades help most early?
-A: Ammo capacity and controllable recoil.
-- Q: Is there an end to the levels?
-A: It’s distance‑based; aim for personal bests.
+### 팁
+- 한 번에 많은 탄을 쏘기보다는, 짧게 여러 번 눌러 조금씩 방향을 조정하는 편이
+  효율적입니다.
+- 자신의 진행 방향보다 약간 뒤쪽을 향해 쏘면, 속도를 잃지 않고 앞으로 밀려 나갈
+  수 있습니다.
+- 벽이나 바운스 표면을 이용해 튕겨 나가면, 새로운 궤도로 전환하면서 탄을 아낄 수
+  있습니다.
 
+### 자주 묻는 질문(FAQ)
+- **Q: 속도가 자꾸 죽고 공중에서 멈춰 버려요.**  
+  **A:** 너무 위쪽으로만 쏘지 말고, 진행 방향보다 살짝 뒤를 향해 얕은 각도로
+  쏘면 앞으로 미는 힘을 오래 유지할 수 있습니다.
+- **Q: 초반에는 어떤 업그레이드가 가장 도움이 되나요?**  
+  **A:** 일반적으로 탄약 수 증가와 반동을 세밀하게 제어할 수 있는 총이 초반에
+  가장 큰 체감 개선을 줍니다.
+- **Q: 스테이지 끝이 있나요, 아니면 끝없이 진행되나요?**  
+  **A:** 대부분 거리 기록을 갱신하는 무한 진행 구조에 가깝습니다. 목표는 가능한 한
+  멀리 날아가 개인 최고 기록을 경신하는 것입니다.

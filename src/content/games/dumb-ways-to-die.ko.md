@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: dumb-ways-to-die
-title: '[KO] Dumb Ways to Die'
+title: "Dumb Ways to Die 덤 웨이즈 투 다이"
 description: >-
-  [KO] Dumb Ways to Die is a fast‑reaction mini‑game collection: complete
-  micro‑challenges quickly to keep characters alive.
+  각종 황당한 사고를 피해야 하는 빠른 반응형 미니 게임 모음입니다. 짧은
+  마이크로 게임들을 빠르게 성공시켜 캐릭터들을 지켜 보세요.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/dumb-ways-to-die.jpg
 tags:
@@ -15,30 +15,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Dumb Ways to Die는 안전 캠페인으로 유명해진 캐릭터들을 주인공으로, 짧은
+마이크로 게임을 연속해서 플레이하는 반응형 미니 게임 모음입니다. 속도가 점점
+빨라지는 가운데, 각 상황별로 요구되는 행동을 재빨리 해내지 못하면 캐릭터가
+어이없는 사고로 죽어 버립니다. 세 번 실패하면 런이 종료되고, 최고 점수에
+도전하는 구조입니다.
 
+### 플레이 방법
 
-### Overview
-Fast‑reaction micro‑games: complete short safety‑themed challenges under a rising speed curve. Fail three times and the run ends.
+- 각 라운드마다 간단한 설명이 뜨고, 그에 맞는 행동(스와이프, 탭, 드래그 등)을
+  빠르게 수행해야 합니다.  
+- 성공하면 속도가 조금씩 빨라지고, 실수하면 라이프(하트)를 잃습니다.  
+- 후반으로 갈수록 게임 순서가 빠르게 섞이고, 함정 같은 문구도 등장해
+  순발력이 더욱 중요해집니다.  
 
-### How to Play
-- Each round presents a different micro‑game with a brief prompt.
-- Succeed quickly to keep lives and push the speed higher; mistakes cost hearts.
-- Later rounds shuffle faster and add trick prompts.
+### 조작 방법
 
-### Controls
-- Mouse/Touch swipes, taps, and holds; some hosts use arrow keys/space for specific games.
+- 마우스/터치 스와이프, 탭, 길게 누르기 등 간단한 제스처  
+- 일부 호스트에서는 방향키, 스페이스 바 등 키보드 조작이 필요한 미니게임도
+  포함될 수 있습니다.  
 
-### Tips
-- Read the prompt first—many losses come from instinctive wrong inputs.
-- Expect repetition; memorize tricky games to react faster.
-- Don’t over‑drag/over‑swipe; precision beats speed.
+### 팁
 
-### FAQ
-- Q: How many lives do I have?
-A: Usually three strikes per run.
-- Q: Can I practice a single game?
-A: Some hosts offer practice lists; otherwise learn during runs.
-- Q: Is there progression?
-A: High‑score chase; some versions unlock characters or cosmetics.
+- 프롬프트를 먼저 읽고 움직이세요. 본능적으로 잘못된 방향으로 입력해 실패하는
+  경우가 많습니다.  
+- 반복 등장하는 미니게임은 패턴을 외워 두면 점점 더 빠르게 반응할 수 있습니다.  
+- 과하게 길게 드래그하거나 연타하기보다, 필요한 만큼만 정확하게 입력하는 편이
+  성공률이 높습니다.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 목숨은 몇 개인가요?**  
+  **A:** 보통 한 런당 세 번까지 실수할 수 있습니다.  
+
+- **Q: 특정 미니게임만 따로 연습할 수 있나요?**  
+  **A:** 일부 호스트는 개별 게임 연습 모드를 제공하지만, 그렇지 않은 경우에는
+  실제 런을 플레이하면서 익혀야 합니다.  
+
+- **Q: 진행도가 따로 있나요?**  
+  **A:** 기본적으로는 하이스코어 경쟁이 중심이며, 버전에 따라 캐릭터나
+  꾸미기 요소를 해금할 수도 있습니다.  
 

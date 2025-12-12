@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: 3-tricky-quests
-title: '[ZH TRANSLATION NEEDED] Brain Test 3: Tricky Quests'
+title: "Brain Test 3: Tricky Quests 脑力测试3：棘手任务"
 description: >-
-  [ZH TRANSLATION NEEDED] Here's your chance to play Brain Test 3: Tricky Quests
-  Game. Have fun with this one!
+  在《Brain Test 3: Tricky Quests》中，跟随 Alyx 踏上收集能量宝石的解谜冒险，一边开脑洞，一边探索机关与故事。
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/3-tricky-quests.jpg
 tags:
@@ -16,71 +15,76 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-[ZH TRANSLATION NEEDED] *Brain Test 3: Tricky Quests* is the third installment in the series from Unico Studio. While preserving the core "think outside the box" and "break the rules" puzzle-solving gameplay, this title introduces a significant evolution by incorporating stronger adventure and narrative elements, making it feel more like a puzzle-adventure game.
+*Brain Test 3: Tricky Quests* 是 Unico Studio 推出的第三部《Brain Test》系列作品。在继承前作“跳出思维框架”“打破常规解谜”的核心玩法基础上，本作大幅加强了 **冒险感和剧情性**，更像是一款带故事线的解谜冒险游戏。
 
-[ZH TRANSLATION NEEDED] In the game, players take on the role of **Alyx**, who embarks on a journey to find six Power Gems to save her magically trapped father. Unlike the level-based structure of its predecessors, *Brain Test 3* features an interconnected game world and a complete, overarching storyline.
+在游戏中，你将扮演 **Alyx**，为了拯救被魔法困住的父亲，踏上寻找六枚能量宝石的旅程。与前两作的关卡式结构不同，*Brain Test 3* 引入了互相连通的场景和完整主线剧情，你需要在世界各地穿梭、收集道具并解开层层难题。
 
-[ZH TRANSLATION NEEDED] **Key Features:**
+**核心特色：**
 
-*   **Fusion of Adventure and Puzzles:** The game is no longer a linear sequence of levels. Players must explore different scenes, find items, and use them to solve puzzles that block their path.
-*   **Inventory System:** This is the biggest new feature. Players can collect various items found in the environment and store them in Alyx's backpack. You need to figure out how to combine these items or apply them to specific scenarios at the right moment.
-*   **Workshop System:** Alyx has a workshop where you can combine key quest items or upgrade your tools, preparing you for the adventures ahead.
-*   **Interactive Dialogue:** The game introduces a dialogue choice system. By talking to NPCs (Non-Player Characters), you can obtain clues and advance the plot. Different choices can lead to different (and often humorous) outcomes.
-*   **Classic Tricky Puzzles:** Despite the new systems, the heart of the game remains the same: tricky puzzles that require you to use your imagination and challenge conventional thinking. Classic interactions like dragging, shaking, and zooming are still key to finding solutions.
+*   **冒险 + 脑洞解谜的融合：**
+    游戏不再是简单的关卡列表，而是由多个场景拼接成的冒险旅程。你需要在不同地点寻找关键物品，用巧妙方式解决挡在前方的谜题。
+*   **背包与道具系统：**
+    这是本作最大的新变化之一。玩家可以在场景中收集各种物品并存入 Alyx 的背包，然后在合适的时机将它们拖拽出来使用，或者在特殊场景中进行组合。
+*   **工坊系统：**
+    Alyx 拥有自己的小工坊，你可以在这里将主线道具进行合成、修复或升级，为后续关卡准备必需的工具。
+*   **对话与分支互动：**
+    游戏加入了对话选择系统。通过与 NPC（非玩家角色）交流，你可以获取线索、推动剧情，不同选项有时会带来意料之外、甚至搞笑的结果。
+*   **经典“坑爹”谜题回归：**
+    尽管系统更丰富，本质仍然是脑洞解谜游戏。你依旧需要发挥想象力、挑战惯性思维，利用拖拽、摇晃、放大缩小等操作发现非传统解法。
 
-[ZH TRANSLATION NEEDED] ---
+---
 
-### **2. Game Walkthrough**
+### **2. 游戏攻略思路**
 
-[ZH TRANSLATION NEEDED] The strategy for *Brain Test 3* not only inherits the mindset of the previous games but also requires a greater focus on resource management and exploration.
+《Brain Test 3》的通关思路既继承了前作“大胆试、敢乱点”的精神，又更加强调 **资源管理与场景探索**。
 
-*   **Core Principle: Explore and Collect**
-    *   当进入新区域时，不要急于解决眼前的谜题。首先，仔细观察并点击所有可疑物体，看看哪些可以收集到你的物品栏中。
-*   **Master Your Inventory:**
-    *   **拖拽和使用：** 面对挑战时，打开背包，尝试将物品拖拽到场景中的角色或物体上。
-    *   **组合物品：** 有时，你需要在物品栏中将两个物品拖到一起，以制作一个新的、更有用的工具。
-    *   **检查所有物品：** 不要忘记你携带的东西。当前谜题的关键可能是你很久以前收集的一个不起眼的物品。
-*   **Pay Attention to Clues in Dialogue:**
-    *   仔细阅读所有对话。NPC的话语通常会直接或间接地暗示你接下来需要做什么或应该寻找什么物品。
-*   **Checklist for When You're Stuck:**
-    1.  我是否与场景中的每个元素都进行了互动？（点击、拖拽、摩擦等）
-    2.  我的背包里有可以在这里使用的物品吗？
-    3.  我可以在背包中组合物品来创建新工具吗？
-    4.  我需要返回之前的场景寻找遗漏的物品吗？
-    5.  我是否错过了对话中的关键信息？
-*   **The Hint System is Still Your Friend:**
-    *   如果一切都失败了，内置的"灯泡"提示系统仍然可用。它会指向关键步骤或所需物品，帮助你克服障碍。
+*   **核心原则：先探索，再解谜**
+    *   进入新场景时，不要立刻死磕当前谜题。先把画面中看起来可疑的物体都点一遍，看看有哪些可以收进背包。
+*   **学会真正“用好”背包：**
+    *   **拖拽使用：** 遇到难题时，先打开背包，尝试将物品拖拽到场景中的人物或物体上。
+    *   **道具组合：** 有些关键工具并不是直接捡到的，而是要在背包中把两个物品拖到一起进行合成，才能得到更高级的道具。
+    *   **定期检查背包：** 很多时候卡关，是因为你忘了自己曾经捡过什么。当前关卡的答案，很可能就是某个看起来毫不起眼的小物件。
+*   **认真看对话里的暗示：**
+    *   不要跳过对白。NPC 说的话往往会直接或间接地提示下一步目标，或点出你需要寻找的道具类型。
+*   **卡关时的自检清单：**
+    1.  这个场景里的每个元素，我都尝试点过、拖过、晃过了吗？
+    2.  背包里有没有适合现在场景的道具？
+    3.  能不能在背包里合成一个新的工具？
+    4.  是否需要回到之前的场景，找漏掉的物品？
+    5.  对话里有没有被我快速略过的关键信息？
+*   **善用提示系统：**
+    *   实在想不出来怎么办时，内置的“灯泡提示”依旧是你可靠的伙伴。它会指向关键步骤或必需物品，帮助你跨过当前难点。
 
-[ZH TRANSLATION NEEDED] ---
+---
 
-### **3. Operation Guide**
+### **3. 操作指南**
 
-[ZH TRANSLATION NEEDED] The controls in *Brain Test 3* build upon the foundation of its predecessors, with the addition of inventory interactions.
+《Brain Test 3》的基本操作延续了系列前作的手感，只是在此基础上加入了背包与道具组合的交互。
 
-[ZH TRANSLATION NEEDED] | Action | Description | Example |
-[ZH TRANSLATION NEEDED] | :--- | :--- | :--- |
-[ZH TRANSLATION NEEDED] | **Tap/Click** | To interact with objects, characters, or dialogue options; to collect items. | Tapping a key on the ground to pick it up; selecting a dialogue choice. |
-[ZH TRANSLATION NEEDED] | **Drag & Drop** | To move objects within the scene or to use an item from the inventory. | Dragging a ladder to a tree; dragging food from the backpack to a dog. |
-[ZH TRANSLATION NEEDED] | **Item Combination** | Within the open inventory, drag one item on top of another. | Combining a rope and a hook to create a grappling hook. |
-[ZH TRANSLATION NEEDED] | **Swipe** | To wipe away dirt or move obstacles. | Swiping away a pile of sand to uncover an item beneath it. |
-[ZH TRANSLATION NEEDED] | **Pinch to Zoom** | To enlarge or shrink specific objects. | Zooming in on a photo to see a detail. |
-[ZH TRANSLATION NEEDED] | **Shake/Tilt Device** | To interact using the phone's physical sensors. | Shaking the phone to make a coconut fall from a tree. |
+| 操作 | 说明 | 示例 |
+| :--- | :--- | :--- |
+| **点击 / 轻触** | 与场景中的物体、角色互动，选择对话选项，或拾取道具。 | 点击地上的钥匙将其捡起；在对话中点选某个回答。 |
+| **拖拽** | 在场景中移动物体，或将背包中的道具拖到目标位置使用。 | 把梯子拖到树边；将背包里的食物拖给小狗。 |
+| **道具组合** | 在打开的背包界面中，把一个道具拖到另一个道具上进行合成。 | 把绳子拖到钩子上，合成一条抓钩绳。 |
+| **滑动** | 用来擦除污垢或移动挡路的障碍物。 | 滑动清除一堆沙子，露出下面的隐藏物品。 |
+| **双指缩放** | 放大或缩小某些关键物件，看清细节。 | 放大一张照片，观察角落里的线索。 |
+| **摇晃 / 倾斜设备** | 利用手机重力感应完成特殊交互。 | 摇晃手机，让树上的椰子掉下来。 |
 
-[ZH TRANSLATION NEEDED] ---
+---
 
-### **4. Frequently Asked Questions (FAQ)**
+### **4. 常见问题（FAQ）**
 
-[ZH TRANSLATION NEEDED] **Q: How do I use the items in my backpack (inventory)?**
-[ZH TRANSLATION NEEDED] **A:** Tap the backpack icon at the bottom of the screen to open it. Then, press and hold the item you want to use and drag it to the target location in the game scene. To combine items, drag one item onto another within the inventory screen.
+**Q: 背包里的道具怎么使用？**  
+**A:** 点击屏幕底部的背包图标打开背包，长按想要使用的道具并拖到场景中目标位置。如果需要合成道具，在背包界面将一个物品拖到另一个物品上即可。
 
-[ZH TRANSLATION NEEDED] **Q: What is the fundamental difference between Brain Test 3 and the first two games?**
-[ZH TRANSLATION NEEDED] **A:** The main difference lies in the game structure. *Brain Test 1* is a collection of standalone puzzles. *Brain Test 2* introduced story-based chapters. *Brain Test 3* evolves into a full-fledged puzzle-adventure game with a complete main story, an inventory system, and an interconnected map, offering more freedom and continuity.
+**Q: 本作与前两部《Brain Test》最大的区别是什么？**  
+**A:** 差异主要在游戏结构上。*Brain Test 1* 是一关关独立的脑洞题；*Brain Test 2* 引入了按章节划分的小故事；而 *Brain Test 3* 则进一步进化为带完整主线、背包系统和联通地图的解谜冒险游戏，流程更连贯、探索自由度更高。
 
-[ZH TRANSLATION NEEDED] **Q: Why can't I get past a certain area?**
-[ZH TRANSLATION NEEDED] **A:** It's highly likely you are missing a key item. Try returning to previously visited scenes and search carefully for any collectible items you may have missed. Also, check if you can craft a new quest item in your workshop.
+**Q: 为什么我在某个区域怎么都过不去？**  
+**A:** 很大概率是少了关键道具。试着回到之前的场景，再细致地搜索一次有没有可拾取的物品。同时检查一下工坊，看看是否有尚未合成的任务道具。
 
-[ZH TRANSLATION NEEDED] **Q: Is this game free?**
-[ZH TRANSLATION NEEDED] **A:** Yes, *Brain Test 3* is free to download and play, but it contains ads. You can watch ads to receive hints. The game also offers an in-app purchase to remove ads.
+**Q: 这款游戏是免费的吗？**  
+**A:** 是的，*Brain Test 3* 可以免费下载并游玩，但游戏内包含广告。你可以通过观看广告来获取提示，也可以通过内购移除广告。
 
-[ZH TRANSLATION NEEDED] **Q: What is the Workshop for?**
-[ZH TRANSLATION NEEDED] **A:** The workshop is a crucial location for advancing the main plot. When you collect specific quest items (like fragments of a Power Gem), you need to return to the workshop to assemble them or to craft/upgrade special tools necessary for your progress.
+**Q: 工坊有什么用？**  
+**A:** 工坊是推进主线剧情的关键地点。当你收集到特定任务道具（比如能量宝石碎片）时，需要回到工坊进行拼合，或者制作/升级特殊工具，才能继续探索新的区域。

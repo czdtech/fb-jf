@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: crossword-puzzles
-title: '[ZH TRANSLATION NEEDED] Crossword Puzzles'
+title: "Crossword Puzzles 主题纵横填字合集"
 description: >-
-  [ZH TRANSLATION NEEDED] Crossword Puzzles offers themed crosswords: solve
-  across and down clues to complete each grid.
+  《Crossword Puzzles 主题纵横填字合集》提供一系列带主题的英文填字谜题。根据横向与纵
+  向提示完成网格，并通过主题词条体验紧密关联的词汇玩法。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/crossword-puzzles.jpg
@@ -18,22 +18,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Crossword Puzzles features themed crossword grids that follow common American‑style rules: fill Across and Down answers so every letter cross‑checks. Themes tie together several long answers in each puzzle. Many hosts provide daily rotations and archives. 
+
+《Crossword Puzzles 主题纵横填字合集》收录了多张带有统一主题的填字网格，并遵循常见的美
+式填字规则：横向（Across）与纵向（Down）答案彼此交叉，保证每一个字母都能得到验证。每
+张谜题通常会围绕一个主题设置多条长词条，例如电影、节日、体育或音乐相关条目，彼此之
+间通过主题形成暗线关联。很多网站还提供每日更新和历史题库，方便你随时刷题。
 
 ### How to Play
-- Select a clue and type to fill its entry; use crossings to resolve uncertain letters.  
-- Theme entries are usually longer and share a unifying concept—solve these with crossings to unlock large sections. 
+
+- 选择一条提示，然后直接输入字母填入对应词条；必要时依靠交叉字母来确认不确定的拼写。
+  
+- 主题词往往是整张网格中最长、最显眼的几条，当你通过交叉字母和主题线索推理出其中一
+  两条时，其余主题词的解出速度也会明显加快。 
 
 ### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab toggles direction or moves to next clue (site‑dependent). 
+
+- 直接输入 A–Z 键即可填入字母，方向键用于在网格中移动光标；Backspace 删除；Enter/Tab
+  用于切换方向或跳转到下一条提示（具体行为依网站而定）。 
 
 ### Tips and Strategies
-- Scan for easy fill‑in‑the‑blank clues, plurals, and common abbreviations.  
-- Leverage the theme: once you see the pattern, other themers fall faster.  
-- Use Check/Reveal sparingly if the site tracks time. 
+
+- 先扫一遍所有提示，优先解决填空类、明显的复数/时态提示（-S、-ED、-ING）和常见缩写。  
+- 抓住“主题”：当你看懂标题或某条长提示暗示的主题后，其他主题长条通常会顺着同一思路
+  很快解出。  
+- 若网站记录破题时间或准确率，检查/揭示功能建议少用，把它们留给真正卡壳的词条。 
 
 ### FAQ
-- Q: Are the puzzles timed?  
-[ZH TRANSLATION NEEDED]   A: Many sites include optional timers and completion stats; check the settings.   
-- Q: Can I play past themes?  
-[ZH TRANSLATION NEEDED]   A: Hosts often keep an archive so you can play previous puzzles. 
+
+- **Q: 这些谜题都有计时功能吗？**  
+  **A：** 很多站点会提供可选计时与完成统计，你可以在设置中自由选择是否开启，偏休闲玩
+  家也可以完全无视计时。   
+
+- **Q: 能玩以前的主题谜题吗？**  
+  **A：** 一般都会保留一段时间的历史题库，你可以随时回头补做过去的每日主题谜题，用来
+  练习特定主题词汇或单纯打发时间。  

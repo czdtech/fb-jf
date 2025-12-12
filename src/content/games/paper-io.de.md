@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: paper-io
-title: '[DE] Paper io'
+title: "Paper io"
 description: >-
-  [DE] Paper.io is a popular multiplayer online game where players control a
-  colored block and aim to conquer as much territory as possible by drawing
-  lines and enclosing areas, while avoiding other players.
+  Paper.io ist ein beliebtes Mehrspieler-Online-Spiel, in dem du einen farbigen
+  Block steuerst und mit gezogenen Linien Gebiete umschließt, um möglichst viel
+  Fläche zu erobern – während du gegnerischen Angriffen ausweichst.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/paper-io.jpg
 tags:
@@ -17,31 +17,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Paper.io" ist ein schnelles Mehrspieler-Eroberungsspiel. Du steuerst einen
+ farbigen Block und versuchst, so viel Territorium wie möglich zu sichern.
+ Dazu ziehst du Linien außerhalb deines Gebiets und schließt Flächen ein, die
+ dann deiner Farbe gehören. Während du expandierst, musst du jedoch ständig auf
+ andere Spieler achten – berühren sie deine gezogene Linie, bevor du sie wieder
+ mit deinem Gebiet verbindest, bist du ausgeschaltet.
 
-### Game Introduction
+### Spieltipps & Strategien
 
-"Paper.io" is a popular multiplayer online territory-conquering game. Players control a colored block with the objective of claiming as much territory as possible by drawing lines and enclosing areas. In the game, you need to cleverly expand your territory while being wary of attacks from other players, as your line is your weakness; once touched, you fail. The game is fast-paced, highly strategic, and full of competitive fun.
+1.  **Sicher ausbauen:** Zu Beginn lohnt es sich, in der Nähe deines
+    Startgebietes kleine Flächen zu erobern, um kein unnötiges Risiko einzugehen.
+2.  **Gelegenheiten nutzen:** Wenn gegnerische Spieler weit weg sind oder mit
+    anderen beschäftigt scheinen, kannst du schnell große Bereiche abtrennen.
+3.  **Linie schützen:** Deine gezogene Spur ist deine Schwachstelle. Achte
+    besonders darauf, dass dir niemand folgt, während du außerhalb deines
+    Gebietes unterwegs bist.
+4.  **Gegner schneiden:** Zeichnet ein Gegner gerade eine Linie, kannst du ihn
+    eliminieren, indem du seine Spur berührst, bevor er sie wieder schließt.
+5.  **Kartenränder einsetzen:** Nutze die Ränder der Karte als natürliche
+    Begrenzung, um schneller größere Flächen einzuschließen und Angriffsflächen
+    zu verringern.
 
-### Gameplay Strategy
+### Steuerung
 
-1.  **[DE]** **Safe Expansion**: In the early stages, try to expand within small areas near your territory to ensure safety.
-2.  **[DE]** **Quick Action**: When enemy players are far away or distracted, seize the opportunity to quickly claim large areas.
-3.  **[DE]** **Protect Your Line**: Your line is your lifeline; be especially careful of other players chasing you while drawing your line.
-4.  **[DE]** **Cut Off Enemies**: If an enemy player is expanding their territory by drawing a line, you can eliminate them by cutting off their line.
-5.  **[DE]** **Utilize Map Edges**: The edges of the map can also be used as boundaries to enclose areas, which can save time and avoid risks.
+*   **Bewegung:** In der Regel steuerst du deinen Block mit den Pfeiltasten
+    oder WASD. Dein Block zieht automatisch eine Linie, sobald du dein Gebiet
+    verlässt.
 
-### How to Play
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Movement**: Typically use the keyboard arrow keys or WASD keys to control your colored block's movement. Your block will automatically draw a line.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: What is the objective of "Paper.io"?**
-**A**: The objective is to claim as much of the map territory as possible and become the largest player.
-2.  **[DE]** **Q: How is my score calculated?**
-**A**: Your score is primarily based on the percentage of the map you control. Eliminating other players also grants bonus points.
-3.  **[DE]** **Q: Is there an upgrade system in the game?**
-**A**: "Paper.io" typically does not have a complex upgrade system; the core of the game lies in players' immediate strategy and execution.
-4.  **[DE]** **Q: How do I avoid being eliminated by other players?**
-**A**: Avoid staying outside your territory for too long, especially while drawing lines, and always be aware of nearby enemies. When enemies approach, quickly return to your own territory.
+1.  **F: Was ist das Ziel von "Paper.io"?**
+    **A:** Du versuchst, möglichst viel der Karte zu kontrollieren und am Ende
+    der größte Spieler zu sein.
+2.  **F: Wie wird meine Punktzahl berechnet?**
+    **A:** Deine Punkte hängen vor allem von dem Prozentsatz der Karte ab, den
+    du kontrollierst. Das Ausschalten anderer Spieler bringt oft Bonuspunkte.
+3.  **F: Gibt es ein Upgradesystem?**
+    **A:** "Paper.io" setzt weniger auf langfristige Upgrades – der Fokus liegt
+    auf spontaner Taktik, gutem Timing und Risikomanagement in jeder einzelnen
+    Runde.
+4.  **F: Wie vermeide ich es, von anderen besiegt zu werden?**
+    **A:** Bleib nicht zu lange außerhalb deines sicheren Gebiets, halte deine
+    Linien kurz und behalte nahe Gegner im Auge. Wenn Gefahr droht, kehre
+    schnell in dein Territorium zurück.

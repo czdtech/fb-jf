@@ -1,74 +1,48 @@
 ---
-locale: ja
-urlstr: color-roll-3d
-title: '[JA TRANSLATION NEEDED] Color Roll 3D'
-description: >-
-  [JA TRANSLATION NEEDED] Color Roll 3D is a satisfying unfold‑and‑fill puzzle —
-  unroll strips in the right order to paint target patterns.
+title: Color Roll 3D カラーロール 3D
+description: 「Color Roll 3D」は色とりどりのロールを展開して絵を完成させるパズル。正しい順番で広げて、 お手本通りの重なりを作ろう。
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/color-roll-3d.png
+urlstr: color-roll-3d
+score: 4.0/5  (1812 votes)
 tags:
   - puzzle
   - thinky
-score: 4.0/5  (1812 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Color Roll 3D（カラーロール 3D）*は、積み重なるロール紙（テープ）を展開して、指定された絵を完成させる満足感のあるパズルゲームです。重要なのは「順番」です。後から広げたロールは先に広げたロールの上に重なるため、お手本の絵と全く同じ重なり方になるように、広げる順序を論理的に考える必要があります。
 
-[JA TRANSLATION NEEDED] Color Roll 3D presents layered strips you unroll to cover a board exactly. The trick is sequencing: later strips may cover earlier ones, so you must choose an order that matches the target image without overlap errors.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **ベースから始める:** まずは一番下になる色、つまり最も広い面積を覆っている色や、他の色に隠されている色から広げましょう。
+2.  **層（レイヤー）を意識する:** 重なりを見て、「どれが下で、どれが上か」を分析します。上に乗っている色ほど、後から広げる必要があります。
+3.  **重なりに注意:** 必要な端っこを、後から広げたロールで隠してしまわないように注意しましょう。
+4.  **早めのアンドゥ:** 途中で「これは違う」と思ったら、すぐにアンドゥ（取り消し）をして修正しましょう。無理に進めるより手戻りが少なくて済みます。
+5.  **こまめに確認:** 一手動かすたびに、画面上部のお手本（プレビュー）と見比べて、間違いがないか確認しましょう。
 
-[JA TRANSLATION NEEDED] 1.  Start with the deepest/base color that covers the largest area.
-[JA TRANSLATION NEEDED] 2.  Place boundary strips to frame shapes, then fill interiors.
-[JA TRANSLATION NEEDED] 3.  Watch overlaps — avoid burying needed edges under later strips.
-[JA TRANSLATION NEEDED] 4.  Undo early when the final gaps look impossible.
-[JA TRANSLATION NEEDED] 5.  Compare with the target preview after each placement.
+### 操作ガイド
 
-### Controls Guide
+*   **展開:** ロールをドラッグして、指定された方向に広げます。
+*   **取り消し（アンドゥ）:** ロールをタップすると巻き取って元に戻せます（またはアンドゥボタンを使用）。
 
-- Drag to unroll a strip along its path; tap to undo where allowed.
-- Zoom/pan if supported for precision.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: いつも1マスだけ色が合いません。なぜですか？**
 
-- Q: I always end with one tile uncovered — what’s wrong?
-  
-[JA TRANSLATION NEEDED]   A: Your order is off. Lay base colors first, then smaller detail strips to avoid blocking.
-
-- Q: Are multiple orders valid?
-  
-[JA TRANSLATION NEEDED]   A: Some puzzles allow several, but most intend a small set of correct sequences.
-
-- Q: Is there a hint system?
-  
+A: Your order is off. Lay base colors first, then smaller detail strips to avoid blocking.
+- **A:** 重ねる順番が間違っています。下にあるべき色が上に来てしまっている可能性があります。「一番下」になるロールから順に広げ直してみてください。
 
 
-
-
-
-- Q: I always end with one tile uncovered — what’s wrong?
-### よくある質問（FAQ）
-- Zoom/pan if supported for precision.
-- Drag to unroll a strip along its path; tap to undo where allowed.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Many versions include hints — use sparingly to preserve the challenge.
-
-
-
-
-
+A: Some puzzles allow several, but most intend a small set of correct sequences.
+*   **Q: 正解は一つだけですか？**
 
 A: Many versions include hints — use sparingly to preserve the challenge.
-- Q: Is there a hint system?
-A: Some puzzles allow several, but most intend a small set of correct sequences.
-- Q: Are multiple orders valid?
+    *   **A:** パズルによっては複数の手順で解ける場合もありますが、基本的には特定の正解ルートを探すように作られています。
 
-
-
-
-A: Many versions include hints — use sparingly to preserve the challenge.
-- Q: Is there a hint system?
-A: Some puzzles allow several, but most intend a small set of correct sequences.
+*   **Q: ヒントはありますか？**
+    *   **A:** 多くのバージョンにはヒント機能がついています。どうしてもわからない時は使いましょう。

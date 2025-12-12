@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: red-ball-4
-title: '[ES] Red Ball 4'
+title: "Red Ball 4"
 description: >-
-  [ES] Red Ball 4 is a physics-based platformer game where players control a red
-  ball on a mission to save the world from evil squares that want to turn
-  everything into squares, navigating through challenging levels filled with
-  obstacles and puzzles.
-iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
-thumbnail: /new-images/red-ball-4.jpg
+  Red Ball 4 es un juego de plataformas con físicas en el que controlas a una
+  simpática bola roja en una misión para salvar el mundo de los malvados
+  cuadrados que quieren convertirlo todo en cubos, superando niveles llenos de
+  obstáculos y puzles.
+iframeSrc: "https://class198.github.io/g177/red-ball-4/"
+thumbnail: "/new-images/red-ball-4.jpg"
 tags:
   - platformer
   - physics
@@ -18,34 +18,50 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Red Ball 4" es un juego de plataformas basado en físicas en el que controlas a
+una pequeña bola roja que debe salvar el mundo de unos malvados cuadrados que
+quieren transformarlo todo en formas cuadradas. Cada nivel está lleno de
+plataformas, trampas y puzles que tendrás que superar aprovechando el rebote y
+el rodar de la bola, al mismo tiempo que derrotas a los enemigos que se cruzan
+en tu camino.
 
+### Estrategias de juego
 
-### Game Introduction
+1.  **Aprovecha las propiedades físicas:** Usa el rebote y el rodar de la bola
+    roja para superar obstáculos, alcanzar plataformas y empujar objetos.
+2.  **Clava la sincronización:** Muchos peligros requieren saltos con un tiempo muy
+    preciso. Observa bien el movimiento de sierras, plataformas y enemigos antes
+    de lanzarte.
+3.  **Recoge estrellas:** En cada nivel hay estrellas escondidas. Conseguirlas
+    todas puede servir para desbloquear contenido extra y es un buen reto
+    adicional.
+4.  **Derrota a los enemigos:** Acaba con los cuadrados saltando sobre ellos
+    desde arriba, pero evita chocar contra ellos por los lados o desde abajo.
+5.  **Usa mecanismos:** Aprende a activar botones, palancas y otros mecanismos
+    para abrir caminos, mover plataformas o desactivar trampas.
 
-"Red Ball 4" is a physics-based platformer game where players control a cute red ball on a mission to save the world from evil squares that want to turn everything into squares. The game features challenging levels where players must navigate through various obstacles and puzzles, using physics properties to solve problems and defeat enemies.
+### Cómo jugar
 
-### Gameplay Strategy
+*   **Moverse:** Usa las teclas de flecha izquierda y derecha para rodar la bola
+    en cada dirección.
+*   **Saltar:** Pulsa la flecha arriba o la barra espaciadora para saltar.
+*   **Rodar por pendientes:** Deja que la gravedad haga su trabajo en las
+    cuestas o acelera pulsando las flechas para ganar impulso.
 
-1.  **[ES]** **Master Physics Properties**: Utilize the red ball's bouncing and rolling characteristics to traverse obstacles and reach targets.
-2.  **[ES]** **Timing Mastery**: Many obstacles require precise timing to pass through; observe patterns and act at the right moment.
-3.  **[ES]** **Collect Stars**: Each level has hidden stars; collecting them can unlock additional content.
-4.  **[ES]** **Defeat Enemies**: Jump on square enemies to defeat them, but be careful of their attack patterns.
-5.  **[ES]** **Use Mechanisms**: Learn to use buttons, switches, and other mechanisms to open new paths.
+### Preguntas frecuentes
 
-### How to Play
-
-*   **[ES]** **Move**: Use left and right arrow keys to control the red ball's left and right movement.
-*   **[ES]** **Jump**: Use the up arrow key or spacebar to make the red ball jump.
-*   **[ES]** **Roll**: Utilize gravity to naturally roll on slopes, or accelerate by continuously pressing arrow keys.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How do I defeat square enemies?**
-**A**: Jump on them from above to defeat them, but avoid touching them from the side or below.
-2.  **[ES]** **Q: What are stars used for?**
-**A**: Collecting stars can unlock new levels and game content, making them an important element for completing the game.
-3.  **[ES]** **Q: What if I get stuck on a level?**
-**A**: Carefully observe all elements in the level, try different paths and methods; sometimes you need to use hidden mechanisms.
-4.  **[ES]** **Q: How many levels are there in the game?**
-**A**: "Red Ball 4" typically contains multiple chapters, each with several levels, totaling dozens of challenging levels.
+1.  **P: ¿Cómo derroto a los enemigos cuadrados?**
+    **R:** Salta sobre ellos desde arriba para eliminarlos. Si los golpeas de
+    lado o por debajo, normalmente recibirás daño o perderás una vida.
+2.  **P: ¿Para qué sirven las estrellas?**
+    **R:** Suelen contar para el progreso total del juego y pueden desbloquear
+    niveles o contenidos adicionales, así que merece la pena buscarlas.
+3.  **P: ¿Qué hago si me quedo atascado en un nivel?**
+    **R:** Observa con calma todos los elementos del escenario, prueba rutas
+    alternativas y piensa en cómo interactúan los mecanismos. A veces la clave
+    está en un botón o caja que has pasado por alto.
+4.  **P: ¿Cuántos niveles tiene el juego?**
+    **R:** Red Ball 4 suele estar dividido en varios capítulos, cada uno con
+    varios niveles, sumando varias decenas de fases desafiantes en total.

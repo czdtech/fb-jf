@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: hobo
-title: '[KO] Hobo'
+title: "Hobo 호보 난투 액션"
 description: >-
-  [KO] Over‑the‑top beat ’em up: brawl through city stages with unlockable
-  combos, improvised weapons, and outrageous special moves.
+  과장된 폭력과 막 나가는 유머로 유명한 횡스크롤 벨트스크롤 액션 게임입니다.
+  거리마다 등장하는 적들을 즉흥 무기와 콤보, 기상천외한 스페셜 공격으로
+  쓰러뜨리며 스테이지를 돌파하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/hobo.jpg
 tags:
@@ -18,27 +19,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Hobo is a side‑scrolling beat ’em up known for slapstick violence and deliberately crude humor. You traverse urban stages, smashing enemies with punches, kicks, grapples, and unlockable combo strings. Environmental weapons, throwable objects, and stage hazards add variety, while boss encounters test crowd control and timing. Health and stamina management, plus learning enemy tells, are key to clearing waves without being overwhelmed.
+### 게임 개요
 
-### How to Play
-- Chain light/heavy attacks into discovered combos to increase damage and stunlock.
-- Use pickups and thrown objects to thin groups from a distance.
-- Learn boss patterns—dodge opening attacks, punish recovery windows.
+`Hobo`는 슬랩스틱 폭력과 일부러 조악한 유머를 전면에 내세운 횡스크롤
+벨트스크롤 액션 게임입니다. 플레이어는 노숙자 Hobo가 되어 도시 곳곳을 돌아다니며
+주먹과 발차기, 잡기와 콤보 기술로 적들을 때려눕힙니다. 주변 환경에서 집어든
+무기나 던질 수 있는 오브젝트, 스테이지 함정 등을 활용하면 전투가 더
+다채로워지고, 보스전에서는 다수의 적을 동시에 제어하며 패턴을 읽는 능력이
+중요합니다.
 
-### Controls
-- Arrows to move; attack/jump/grab keys vary by host; combo inputs shown in‑game.
+### 플레이 방법
 
-### Tips
-- Keep enemies on one side; avoid getting surrounded.
-- Grapple single targets to remove them quickly when mobs thin out.
-- Save health items for post‑wave pickups, not mid‑crowd.
+- 약공/강공을 섞어 연속 입력해 새로운 콤보를 발견하고, 적을 경직 상태로
+  묶어 추가 피해를 줍니다.
+- 바닥에 떨어진 무기나 던질 수 있는 물건을 적극 활용해, 멀리서 다가오는
+  무리를 미리 줄여 두세요.
+- 보스의 패턴을 관찰해 첫 공격을 피하고, 공격 후 빈틈(회복 모션) 동안
+  집중적으로 공격하는 것이 안전합니다.
 
-### FAQ
-- Q: How do I unlock new combo moves in the game?
-A: Progressing through stages reveals new inputs on splash screens; practice them immediately.
-- Q: What is the best way to handle large enemy groups?
-A: Kite to one edge, use throws or weapons, and pick off stragglers.
-- Q: Are there checkpoints between levels?
-A: Most hosts checkpoint at stage transitions; mid‑stage restarts depend on the version.
+### 조작 방법
 
+- 방향키로 이동하고, 공격/점프/잡기 키는 호스트마다 다릅니다.
+- 새로 해금된 콤보 입력은 게임 내 안내(스플래시 화면)에 표시되며, 바로
+  연습해 두는 것이 좋습니다.
+
+### 플레이 팁
+
+- 적들이 양쪽에서 몰려들지 않도록 항상 화면 한쪽에 적을 몰아두고 싸우세요.
+- 남은 적이 적을 때는 잡기를 활용해 단독 타깃을 빠르게 제거하면 체력 관리에
+  도움이 됩니다.
+- 체력 회복 아이템은 한 웨이브가 끝난 직후에 먹어 다음 웨이브를 대비하는
+  용도로 쓰고, 한가운데에서 억지로 집으려다 맞는 일은 피하는 것이 좋습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 콤보 기술은 어떻게 해금되나요?  
+  A: 스테이지를 진행하다 보면 로딩/스플래시 화면에 새로운 콤보 입력이
+  표시됩니다. 그 직후 스테이지에서 바로 사용해 보며 손에 익히세요.
+
+- Q: 많은 적이 한꺼번에 몰려올 때는 어떻게 해야 하나요?  
+  A: 화면 가장자리로 유도해 한 방향에서만 오도록 만든 뒤, 던지기나 무기를
+  활용해 앞줄부터 차근차근 정리하는 것이 좋습니다.
+
+- Q: 스테이지 중간에도 체크포인트가 있나요?  
+  A: 대부분의 버전에서 스테이지가 끝날 때마다 체크포인트가 저장되며,
+  스테이지 중간 재시작 지원 여부는 버전에 따라 다릅니다.

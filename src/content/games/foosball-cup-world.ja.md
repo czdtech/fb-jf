@@ -1,71 +1,38 @@
 ---
+title: "Foosball Cup World"
+description: "Foosball Cup Worldは、スピーディーなテーブルサッカーを提供します。角度をつけたショット、回転のタイミング、そして白熱した試合での賢いディフェンスが鍵となります。"
+iframeSrc: "https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/"
+thumbnail: "/new-images/foosball-cup-world.png"
+urlstr: "foosball-cup-world"
+score: "4.0/5  (1852 votes)"
+tags: ["sports", "soccer", "2 player"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: foosball-cup-world
-title: '[JA TRANSLATION NEEDED] Foosball Cup World'
-description: >-
-  [JA TRANSLATION NEEDED] Foosball Cup World brings fast table‑soccer — angle
-  shots, time spins, and defend smartly across tight matches.
-iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
-thumbnail: /new-images/foosball-cup-world.png
-tags:
-  - sports
-  - soccer
-  - 2 player
-score: 4.0/5  (1852 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Foosball Cup Worldは、反応の良いロッドと切れのあるボール物理挙動を備えた、クイックなテーブルサッカーシミュレーションです。攻撃は角度をつけたパス、スナップショット、タイミングの良い回転に依存し、防御はレーンのカバーとクロスショットの遮断が重要です。試合は短く、激しい攻防の中で正確なコントロールが求められます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Foosball Cup World is a quick table‑football simulation with responsive rods and crisp ball physics. Attack relies on angled passes, snap shots, and well‑timed spins; defense is about lane coverage and cutting cross‑shots. Matches are short, demanding precise control over frantic flailing.
+1.  **ショートパス**: 隣接する列の間にボールを軽く押し出し、スナップショットを決めましょう。
+2.  **レーンをカバー**: ディフェンダーを中央のレーンに配置してブロックし、必要なときだけ動かしましょう。
+3.  **角度をつけたフィニッシュ**: 足の外側でボールを打ち、ファーサイドのポストを狙いましょう。
+4.  **回転しすぎない**: 安定性を保つため、コントロールを失うようなフル回転（ブン回し）は避けましょう。
+5.  **キックオフ**: 相手が体勢を整える前に、キックオフから斜めにシュートを放ちましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Short passes: Tap to nudge the ball between adjacent rows, then snap‑shoot.
-[JA TRANSLATION NEEDED] 2.  Cover lanes: Park defenders to block central lanes; move only when needed.
-[JA TRANSLATION NEEDED] 3.  Angle finishes: Hit the ball on the outside of the foot for far‑post angles.
-[JA TRANSLATION NEEDED] 4.  Anti‑spin: For stability, avoid full‑rod spins that lose control.
-[JA TRANSLATION NEEDED] 5.  Kickoffs: Shoot diagonally off kickoff before the opponent settles.
+- **ロッド移動**: WASD / 矢印キー / マウスドラッグ（バージョンによる）。
+- **シュート**: タップ / フリック。一部のビルドでは傾きと回転が分かれています。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Move rods: WASD/Arrows/mouse drag (varies).  Shoot: Tap/flick; some builds separate tilt vs spin.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Are full 360° spins allowed?
-  
-[JA TRANSLATION NEEDED]   A: Many foosball rules forbid them; the game often discourages them with poor control.
-
-- Q: Best basic defense?
-  
-[JA TRANSLATION NEEDED]   A: Keep one defender centered and the goalie tracking the ball’s angle; avoid chasing.
-
-- Q: Two‑player support?
-  
-
-
-
-
-
-- Q: Are full 360° spins allowed?
-### よくある質問（FAQ）
-- Move rods: WASD/Arrows/mouse drag (varies).  Shoot: Tap/flick; some builds separate tilt vs spin.
-### コントロールガイド
-- Kickoffs: Shoot diagonally off kickoff before the opponent settles.
-[JA TRANSLATION NEEDED]   A: Commonly yes via shared keyboard or local hot‑seat.
-
-
-
-
-
-
-A: Commonly yes via shared keyboard or local hot‑seat.
-- Q: Two‑player support?
-A: Keep one defender centered and the goalie tracking the ball’s angle; avoid chasing.
-- Q: Best basic defense?
-
-
-A: Commonly yes via shared keyboard or local hot‑seat.
+- **Q: 360度のフル回転は許可されていますか？**
+  A: 多くのフーズボールのルールでは禁止されています。ゲームでもコントロールが悪くなるため推奨されません。
+- **Q: 基本的な防御方法は？**
+  A: ディフェンダーを1人中央に置き、ゴールキーパーでボールの角度を追いましょう。追いかけすぎないように。
+- **Q: 2人プレイに対応していますか？**
+  A: 一般的に、共有キーボードまたはローカルのホットシート（交代制）で対応しています。

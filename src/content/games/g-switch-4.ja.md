@@ -1,41 +1,34 @@
 ---
+title: "G-Switch 4"
+description: "最新の重力反転ランナー作品：洗練された操作、トリッキーな障害物チェーン、多くのプレイヤーのための競争的なローカルレースです。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html"
+thumbnail: "/new-images/g-switch-4.jpg"
+urlstr: "g-switch-4"
+score: "4.9/5  (1069 votes)"
+tags: ["runner", "platformer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: g-switch-4
-title: '[JA TRANSLATION NEEDED] G-Switch 4'
-description: >-
-  [JA TRANSLATION NEEDED] Latest gravity‑flip runner entry: refined controls,
-  tricky obstacle chains, and competitive local races for many players.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
-thumbnail: /new-images/g-switch-4.jpg
-tags:
-  - runner
-  - platformer
-score: 4.9/5  (1069 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+密集したトラップレイアウトと強固なローカルマルチプレイヤーサポートを備えた、タイトなワンボタンタイミングです。
 
+### 遊び方
+- 端の前にフリップします。連続トラップのために2回目のフリップをバッファします。
+- レースでは、リスクの高い遅いフリップではなく、安全なケーデンス（拍子）を保ちます。
 
-### Overview
-[JA TRANSLATION NEEDED] Tight one‑button timing with dense trap layouts and robust local multiplayer support.
+### 操作方法
+- フリップには単一キー/タップ。対戦モードではプレイヤーごとに1つのキーです。
 
-### How to Play
-- Flip before edges; buffer a second flip for back‑to‑back traps.
-- In races, keep a safe cadence instead of risky late flips.
+### ヒント
+- リズムをロックするために、遅いセクションで練習します。
+- 長い天井/床を使用して、ミス後にタイミングをリセットします。
 
-### Controls
-- Single key/tap to flip; one key per player in vs.
-
-### Tips
-- Practice on slower sections to lock in your rhythm.
-- Use long ceilings/floors to reset timing after mistakes.
-
-### FAQ
-- Q: What is new in this installment?  
-[JA TRANSLATION NEEDED]   A: Smoother control feel and denser obstacle patterns; strong local multiplayer modes.
-- Q: Does it support many local players?  
-[JA TRANSLATION NEEDED]   A: Yes, many hosts allow multiple participants with unique keys.
-- Q: Are there checkpoints?  
-[JA TRANSLATION NEEDED]   A: Level modes may include them; endless races typically do not.
-
+### よくある質問 (FAQ)
+- **Q: この作品の新要素は何ですか？**  
+  A: よりスムーズな操作感とより密集した障害物パターン。強力なローカルマルチプレイヤーモードです。
+- **Q: 多くのローカルプレイヤーをサポートしますか？**  
+  A: はい、多くのホストでは、固有のキーで複数の参加者を許可します。
+- **Q: チェックポイントはありますか？**  
+  A: レベルモードには含まれている場合があります。エンドレスレースには通常含まれていません。

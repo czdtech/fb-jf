@@ -1,71 +1,39 @@
 ---
+title: "Kings and Queens"
+description: "Kings and Queensは王室のマッチ3アドベンチャーです。障害物をクリアし、ブースターをアンロックし、賢い計画で王室のホールを復元します。"
+iframeSrc: "https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/"
+thumbnail: "/new-images/kings-and-queens.png"
+urlstr: "kings-and-queens"
+score: "4.0/5  (1892 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: kings-and-queens
-title: '[JA TRANSLATION NEEDED] Kings and Queens'
-description: >-
-  [JA TRANSLATION NEEDED] Kings and Queens is a regal match‑3 adventure — clear
-  obstacles, unlock boosters, and restore royal halls with clever planning.
-iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
-thumbnail: /new-images/kings-and-queens.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.0/5  (1892 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Kings and Queensは、クラシックなマッチ3の周りに城の復元物語をラップします。各章は、新しいブロッカー（チェーン、大理石スラブ、霧）とシーン目標（クラウンの収集、シールの破壊）を導入します。獲得したスターを使用して部屋を改装し、より困難なボードのためのブースターをアンロックします。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Kings and Queens wraps a castle‑restoration story around classic match‑3. Each chapter introduces new blockers (chains, marble slabs, fog) and scene goals (collect crowns, break seals). You spend earned stars to renovate rooms, unlocking boosters for harder boards.
+1.  ボードコントロール：コンボのためのスペースを開くために、最初に中央のブロッカーをクリアします。
+2.  ブースタータイミング：後期ボードのチョークポイントのためにハンマー/ロケットを保存します。
+3.  コンボ計画：厳しい目標の直前にパワーアップ（爆弾+ライン/カラークリア）をマージします。
+4.  スター経済：現在のハードルに直接役立つブースターに費やします。
+5.  移動数学：残りの��ロッカー対移動をカウントし、ポイントではなく目標のためにプレイします。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Board control: Clear central blockers first to open space for combos.
-[JA TRANSLATION NEEDED] 2.  Booster timing: Save hammers/rockets for late‑board choke points.
-[JA TRANSLATION NEEDED] 3.  Combo planning: Merge power‑ups (bomb+line/color clears) right before tight goals.
-[JA TRANSLATION NEEDED] 4.  Star economy: Spend on boosters that directly help your current hurdle.
-[JA TRANSLATION NEEDED] 5.  Move math: Count remaining blockers vs moves and play for the objective, not points.
+- スワップするためにドラッグ。使用するためにブースターをタップ。スターで改装するためのシーンメニュー。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Drag to swap; tap boosters to use; scene menu to renovate with stars.
+- **Q: 大理石スラブレベルで行き詰まっています。ヒントはありますか？**  
+  A: スラブの近くで爆弾を使用し、それらを通してラインクリアを連鎖させて、複数のレイヤーを割ります。
 
-### Frequently Asked Questions (FAQ)
+- **Q: ブースターを蓄積すべきですか？**  
+  A: いくつか保持しますが、レンガ壁ステージを破るために費やします。進行が重要です。
 
-- Q: I’m stuck on a marble slab level — any tip?
-  
-[JA TRANSLATION NEEDED]   A: Use bombs near slabs and chain line clears through them to crack multiple layers.
-
-- Q: Should I hoard boosters?
-  
-[JA TRANSLATION NEEDED]   A: Keep a few, but spend to break brick‑wall stages; progression matters.
-
-- Q: Renovations affect gameplay?
-  
-
-
-
-
-
-- Q: I’m stuck on a marble slab level — any tip?
-### よくある質問（FAQ）
-- Drag to swap; tap boosters to use; scene menu to renovate with stars.
-### コントロールガイド
-- Move math: Count remaining blockers vs moves and play for the objective, not points.
-[JA TRANSLATION NEEDED]   A: Mostly cosmetic; some unlock booster slots or daily rewards.
-
-
-
-
-
-
-A: Mostly cosmetic; some unlock booster slots or daily rewards.
-- Q: Renovations affect gameplay?
-A: Keep a few, but spend to break brick‑wall stages; progression matters.
-- Q: Should I hoard boosters?
-
-
-A: Mostly cosmetic; some unlock booster slots or daily rewards.
+- **Q: 改装はゲームプレイに影響しますか？**  
+  A: ほとんど化粧品です。一部はブースタースロットまたは毎日の報酬をアンロックします。

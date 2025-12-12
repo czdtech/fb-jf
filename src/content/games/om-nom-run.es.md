@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: om-nom-run
-title: '[ES] Om Nom: Run'
+title: 'Om Nom: Run - Runner infinito con Om Nom'
 description: >-
-  [ES] Join Om Nom and Om Nelle in a fast-paced endless runner! Dash through the
-  streets, dodge obstacles, collect coins, and use awesome power-ups to run as
-  far as you can.
+  Acompaña a Om Nom y Om Nelle en un frenético runner infinito. Corre por las
+  calles, esquiva obstáculos, recoge monedas y usa potentes mejoras para llegar
+  lo más lejos posible.
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
 thumbnail: /new-images/om-nom-run.png
 tags:
@@ -17,38 +17,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Om Nom: Run es un runner infinito lleno de color y acción protagonizado por el
+entrañable monstruo Om Nom de la serie "Cut the Rope". Esta vez, Om Nom se
+lanza a correr por calles, azoteas y túneles en una persecución a toda
+velocidad. Tendrás que guiarlo para esquivar obstáculos, recoger monedas,
+completar misiones y usar distintos potenciadores para llegar lo más lejos
+posible y lograr puntuaciones récord.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Om Nom: Run is a vibrant and action-packed endless runner game starring the adorable monster Om Nom from the hit "Cut the Rope" series. In this game, Om Nom takes to the streets, rooftops, and tunnels in a fast-paced chase. Players must guide him to dodge obstacles, collect coins, complete missions, and use a variety of powerful boosters to run as far as possible and achieve the highest score.
+1.  **Dominar los gestos:** la jugabilidad se basa en reflejos rápidos. Desliza
+    a izquierda y derecha para cambiar entre los tres carriles, desliza hacia
+    arriba para saltar obstáculos bajos y hacia abajo para deslizarte bajo los
+    altos. Practica hasta que el timing sea natural.
+2.  **Aprovechar los potenciadores:** durante la carrera aparecerán objetos
+    especiales; siempre que puedas, recógelos:
+    *   **Imán:** atrae automáticamente las monedas cercanas durante unos
+        segundos.  
+    *   **Cohete/jetpack:** te eleva por el aire, permitiéndote sobrevolar
+        obstáculos mientras recoges monedas.  
+    *   **Doble monedas:** duplica el valor de todas las monedas recogidas
+        durante un tiempo limitado.
+3.  **Centrarse en las misiones:** el juego propone misiones durante la carrera
+    (por ejemplo "salta 10 veces" o "recoge 200 monedas"). Completarlas es la
+    forma más rápida de subir el multiplicador de puntuación y recibir
+    recompensas.
+4.  **Mejorar las mejoras:** usa las monedas para ampliar la duración y
+    potencia de los power‑ups desde el menú. Un imán o cohete de mayor duración
+    marca una gran diferencia en las puntuaciones altas.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Master the Swipes:** The core gameplay relies on quick reflexes. You need to swipe left and right to switch between three lanes, swipe up to jump over low obstacles, and swipe down to slide under high ones. Practice timing your swipes perfectly.
-2.  **[ES]** **Grab Those Power-ups:** During your run, you will see special items. Always try to grab them!
-    *   **[ES]** **Magnet:** Automatically collects all nearby coins for a short period.
-    *   **[ES]** **Rocket/Jetpack:** Launches you into the air, allowing you to fly safely above all obstacles while collecting coins.
-    *   **[ES]** **Double Coins:** Doubles the value of every coin you collect for a limited time.
-3.  **[ES]** **Focus on Missions:** The game will give you missions to complete during your run (e.g., "Jump 10 times," "Collect 200 coins"). Completing these missions is the fastest way to increase your score multiplier and earn bonus rewards.
-4.  **[ES]** **Upgrade Your Boosters:** Use the coins you collect to upgrade the duration and effectiveness of your power-ups in the main menu. A longer-lasting magnet or rocket can dramatically improve your scores.
+El juego se controla con gestos intuitivos de deslizamiento.
 
-### Controls Guide
+*   **Deslizar izquierda/derecha:** cambiar de carril.  
+*   **Deslizar arriba:** saltar obstáculos.  
+*   **Deslizar abajo:** deslizarse bajo barreras.
 
-The game uses simple and intuitive swipe gestures.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Swipe Left/Right:** To move between the three lanes.
-*   **[ES]** **Swipe Up:** To jump over obstacles.
-*   **[ES]** **Swipe Down:** To slide under obstacles.
+*   **P: ¿Cuál es el objetivo principal del juego?**
+    *   **R:** Correr la máxima distancia posible y lograr la mayor puntuación.
+        Las misiones durante la carrera ayudan mucho a subir el multiplicador.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Qué ocurre si choco con un obstáculo?**
+    *   **R:** La carrera termina. Aun así, a menudo puedes gastar una moneda
+        especial (como llaves) para obtener una segunda oportunidad y continuar
+        desde el punto en el que te estrellaste.
 
-*   **[ES]** **Q: What is the main goal of the game?**
-    *   **[ES]** **A:** The primary goal is to run as far as you can to get the highest possible score. Completing missions during your run is key to boosting your score multiplier.
-
-*   **[ES]** **Q: What happens when I hit an obstacle?**
-    *   **[ES]** **A:** Your run ends. However, you often have the option to spend a special currency (like keys) to get a second chance and continue your run from where you crashed.
-
-*   **[ES]** **Q: How do I unlock other characters like Om Nelle?**
-    *   **[ES]** **A:** New characters can usually be unlocked by collecting a large number of coins or by gathering special character tokens that appear randomly during runs.
-
+*   **P: ¿Cómo desbloqueo otros personajes como Om Nelle?**
+    *   **R:** Normalmente, reuniendo muchas monedas o consiguiendo fichas
+        especiales de personaje que pueden aparecer durante las carreras.

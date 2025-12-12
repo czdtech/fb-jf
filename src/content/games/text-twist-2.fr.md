@@ -1,59 +1,93 @@
 ---
 locale: fr
 urlstr: text-twist-2
-title: '[FR] Text Twist 2'
+title: Text Twist 2
 description: >-
-  [FR] Dive into an expanded word challenge with Text Twist 2! This sequel to
-  the popular word puzzle game offers new modes like Untimed and Crossword, a
-  broader dictionary, and enhanced visuals. Unscramble letters, find the 'Bingo
-  word' to advance and test your vocabulary in this addictive brain-teaser.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref=
+  Text Twist 2 est un jeu de lettres où tu dois former un maximum de mots à
+  partir d’un ensemble de lettres mélangées, avant la fin du temps imparti.
+iframeSrc: 'https://ubg77.github.io/game131022/text-twist-2/'
 thumbnail: /new-images/text-twist-2.jpg
 tags:
-  - word-game
   - puzzle
-  - brain-teaser
-score: 4.5/5  (761 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - words
+  - thinky
+score: 4.6/5  (2100 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Principe
 
-
-### Game Introduction
-
-Text Twist 2 is the highly anticipated sequel to the popular word puzzle game, offering an enhanced experience with new features and game modes. Players are still challenged to unscramble a set of jumbled letters to form as many words as possible, but with added flexibility and variety. It's a perfect game for vocabulary enthusiasts and those looking for a mental workout.
+On te donne plusieurs lettres et un temps limité. Ton objectif : trouver
 
 ### Gameplay Guide
+le mot le plus long possible et un maximum de mots valides.
 
-The core gameplay remains the same: form words from a given set of letters.
-- **Objective:** Find words of three letters or more, and crucially, find the "Bingo word" (a word using all letters) to advance.
-- **New Modes:** Text Twist 2 introduces several new modes, including:
-    -   **Untimed Mode:** Play at your own pace without a clock.
-    -   **Lightning Mode:** Find the Bingo word as fast as possible.
-    -   **Crossword Mode:** Fill in a crossword puzzle using the given letters.
-    -   **Daily Word:** A new challenge each day.
-- **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
+
+
+
 - **"Twist" Feature:** The classic "Twist" button is still available to shuffle letters and spark new ideas.
 
-### Controls Guide
+- **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
 
-- **Typing:** Use your keyboard to type out words.
-- **Submit Word:** Press `Enter`.
-- **Shuffle Letters:** Click the "Twist" button or press `Spacebar`.
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+    - **Daily Word:** A new challenge each day.
 
-### Frequently Asked Questions (FAQ)
+    - **Crossword Mode:** Fill in a crossword puzzle using the given letters.
 
-**What are the main improvements in Text Twist 2?**
+    - **Lightning Mode:** Find the Bingo word as fast as possible.
 
-Text Twist 2 offers an untimed mode, a larger dictionary, improved graphics, new game modes like Crossword and Lightning, and enhanced statistics tracking.
+    - **Untimed Mode:** Play at your own pace without a clock.
 
-**Do I still need to find the "Bingo word"?**
+- **New Modes:** Text Twist 2 introduces several new modes, including:
 
-Yes, in most standard modes, finding the "Bingo word" (a word using all the letters) is still required to advance to the next round.
+- **Objective:** Find words of three letters or more, and crucially, find the "Bingo word" (a word using all letters) to advance.
+Many versions of Text Twist 2 are downloadable and can be played offline, offering entertainment without an internet connection.
 
 **Can I play this game offline?**
 
+Yes, in most standard modes, finding the "Bingo word" (a word using all the letters) is still required to advance to the next round.
+
+**Do I still need to find the "Bingo word"?**
+
+Text Twist 2 offers an untimed mode, a larger dictionary, improved graphics, new game modes like Crossword and Lightning, and enhanced statistics tracking.
+
+**What are the main improvements in Text Twist 2?**
+
+### Foire aux questions (FAQ)
+
+- **Clear Word:** Click the "Clear" button or press `Backspace`.
+
+- **Shuffle Letters:** Click the "Twist" button or press `Spacebar`.
+
+- **Submit Word:** Press `Enter`.
+
+- **Typing:** Use your keyboard to type out words.
+
+### Commandes
+
+
 Many versions of Text Twist 2 are downloadable and can be played offline, offering entertainment without an internet connection.
 
+**Can I play this game offline?**
+
+Yes, in most standard modes, finding the "Bingo word" (a word using all the letters) is still required to advance to the next round.
+
+**Do I still need to find the "Bingo word"?**
+
+Text Twist 2 offers an untimed mode, a larger dictionary, improved graphics, new game modes like Crossword and Lightning, and enhanced statistics tracking.
+
+**What are the main improvements in Text Twist 2?**
+- **"Twist" Feature:** The classic "Twist" button is still available to shuffle letters and spark new ideas.
+
+- **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
+
+    - **Daily Word:** A new challenge each day.
+
+    - **Crossword Mode:** Fill in a crossword puzzle using the given letters.
+
+    - **Lightning Mode:** Find the Bingo word as fast as possible.
+
+    - **Untimed Mode:** Play at your own pace without a clock.
+
+- **New Modes:** Text Twist 2 introduces several new modes, including:
+
+- **Objective:** Find words of three letters or more, and crucially, find the "Bingo word" (a word using all letters) to advance.

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: bunny-quest
-title: '[DE] Bunny Quest'
+title: "Bunny Quest"
 description: >-
-  [DE] Bunny Quest is a tile‑path puzzle — slide tiles, connect routes, and
-  guide the bunny to the goal.
+  Bunny Quest ist ein Wegbau-Schiebepuzzle – verschiebe Kacheln, verbinde den
+  Pfad und führe den Hasen mit möglichst wenigen Zügen sicher ins Ziel.
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/bunny-quest.png
 tags:
@@ -15,28 +15,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Bunny Quest* ist ein Wegbau-Schiebepuzzle. Du verschiebst Kacheln, um eine
+ununterbrochene Route vom Start bis zum Ziel zu legen. Unterwegs kannst du
+optionale Sammelobjekte einsammeln, solltest aber Sackgassen vermeiden – in
+späteren Leveln sind die verfügbaren Züge begrenzt, sodass jeder Schritt zählt.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Bunny Quest is a path‑building slider puzzle. Rearrange tiles to form an unbroken route from start to finish, collect optional items, and avoid dead‑ends as move limits tighten in later levels.
+1.  Ecken und Geraden zuerst: Platziere Kurven- und Geraden-Kacheln so, dass
+    zunächst der grobe Hauptweg steht. Feine Anpassungen kommen später.
+2.  Schleifen vermeiden: Baue keine geschlossenen Ringe, die weder Start noch
+    Ziel erreichen. Sie kosten nur unnötig Züge.
+3.  Verzweigungen aufsparen: Nutze T-Stücke und Kreuzungen lieber spät im
+    Level, um letzte Lücken zu schließen oder optionale Pfade anzubinden.
+4.  Züge im Blick behalten: Achte laufend auf den Zugzähler. Wenn du merkst,
+    dass du dich verrennst, gehe ein paar Schritte zurück und probiere eine
+    effizientere Route.
+5.  Extras nur, wenn es passt: Umwege zu optionalen Items lohnen sich nur, wenn
+    sie deine Zugzahl nicht explodieren lassen. Erst das Ziel sichern, dann
+    Bonus einsammeln.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Corners and straights: Place corner/straight tiles to sketch the main path first.
-2.  **[DE]** Avoid loops: Don’t waste moves forming isolated loops that don’t reach the goal.
-3.  **[DE]** Save junctions: Use T‑junctions and crosses late to resolve branching.
-4.  **[DE]** Minimal moves: Track move counts and reverse steps early if inefficient.
-5.  **[DE]** Optional items: Route them only when they don’t explode move counts.
+- Ziehe Kacheln mit der Maus oder per Touch, um sie in Reihen oder Spalten zu
+  verschieben – die Bewegung folgt den jeweiligen Puzzleregeln.
+- Nutze Rückgängig/Reset, falls verfügbar, um unterschiedliche Routen
+  auszuprobieren.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Slide tiles by dragging; tiles shift along rows/columns per rules.
-- Undo/Reset if available to optimize routes.
+- Nur eine Kachel sitzt falsch – was tun?
+  
+  Versuche, weiter vorne im Pfad umzubauen. Oft hilft es, Start und Ziel zuerst
+  zu fixieren und dann den Mittelteil neu zu legen.
 
-### Frequently Asked Questions (FAQ)
+- Gibt es Zeitdruck?
+  
+  Viele Level arbeiten mit Zugbegrenzungen statt harter Echtzeit-Timer. Du
+  kannst also in Ruhe planen, solltest aber keine Züge verschwenden.
 
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
-- Timers? Some stages use move limits, not strict timers.
-- Hints? Many versions include hints; use sparingly.
-
+- Gibt es Hinweise?
+  
+  In vielen Versionen gibt es ein Hinweissystem. Nutze es sparsam – je mehr du
+  selbst tüftelst, desto besser wirst du im Erkennen von Pfaden.

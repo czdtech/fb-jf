@@ -1,74 +1,49 @@
 ---
-locale: ja
-urlstr: collect-same-thing
-title: '[JA TRANSLATION NEEDED] Collect Same Thing'
-description: >-
-  [JA TRANSLATION NEEDED] Collect Same Thing is a tidy pairing game — find
-  identical items, clear the board, and plan around limited space.
+title: Collect Same Thing コレクト・セイム・シング
+description: 「Collect Same Thing」は、同じアイテムのペアを見つける整理整頓パズル。限られたスペースと時間をうまく使い、ボードをきれいに片付けよう。
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/collect-same-thing.png
+urlstr: collect-same-thing
+score: 3.8/5  (1582 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 3.8/5  (1582 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Collect Same Thing（コレクト・セイム・シング）*は、散らばったタイルやアイテムの中から同じ種類のペアを見つけ出して消していく、シンプルながらも奥深いパズルゲームです。積み重なったレイヤー（層）をうまく崩しながら、ボード上のすべてのアイテムを片付けることが目標です。限られた時間や移動回数の中で、どのアイテムを優先的に消すかという戦略が勝利の鍵となります。
 
-[JA TRANSLATION NEEDED] Collect Same Thing challenges you to match identical tiles or items under space/time limits. Removing pairs reveals deeper layers; success requires opening lanes, prioritizing scarce tiles, and avoiding isolated singles.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **道を切り開く:** まずは一番上の層や、邪魔になっているアイテムを消して、隠れている下の層のタイルが見えるようにしましょう。
+2.  **希少なアイテムを優先:** 数が少ないレアなアイテムや、他のペアをブロックしているアイテムは、見つけ次第すぐにペアにして消しましょう。後回しにすると手詰まりの原因になります。
+3.  **上から下へ、または外から中へ:** 基本的には崩しやすい場所から手をつけて、連鎖的にスペースを広げていくのが定石です。
+4.  **孤立させない:** ペアになる相手が深い層に埋まっているアイテムを、取り出しにくい場所に追い込んでしまわないよう注意が必要です。
+5.  **シャッフルとヒントの温存:** どうしてもペアが見つからない時のために、シャッフル機能やヒント機能は最後まで取っておきましょう。
 
-[JA TRANSLATION NEEDED] 1.  Open lanes first to expose hidden tiles.
-[JA TRANSLATION NEEDED] 2.  Match scarce items early before they clog the board.
-[JA TRANSLATION NEEDED] 3.  Work bottom‑up to create cascades (when layers exist).
-[JA TRANSLATION NEEDED] 4.  Avoid cornering singletons that have few partners.
-[JA TRANSLATION NEEDED] 5.  Save shuffles/hints for emergencies.
+### 操作ガイド
 
-### Controls Guide
+*   **選択と消去:** ペアになる2つのアイテムをクリック（タップ）して選択します。ルールに従って正しくペアになれば消えます。
+*   **お助け機能:** 画面上のボタンでヒントやシャッフルを使用します（回数制限がある場合があります）。
 
-- Click/tap to select pairs per mode rules.
-- Use hint/shuffle (if available) sparingly.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ペアが全く見つかりません。**
 
-- Q: I get stuck with no pairs — what now?
-  
-[JA TRANSLATION NEEDED]   A: Shuffle if allowed or restart with a different opening that preserves lanes.
-
-- Q: Timed or move limits?
-  
-[JA TRANSLATION NEEDED]   A: Modes vary; play faster for timers and plan deeper for move limits.
-
-- Q: Any scoring tips?
-  
+A: Shuffle if allowed or restart with a different opening that preserves lanes.
+- **A:** シャッフル機能があれば使いましょう。ない場合は、道を塞いでいる別のペアを消すことで状況が変わるかもしれません。それでもダメならリスタートです。
 
 
-
-
-
-- Q: I get stuck with no pairs — what now?
-### よくある質問（FAQ）
-- Use hint/shuffle (if available) sparingly.
-- Click/tap to select pairs per mode rules.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Chain quick pairs to maintain combo bonuses where supported.
-
-
-
-
+A: Modes vary; play faster for timers and plan deeper for move limits.
+*   **Q: 時間制限はありますか？**
 
 A: Chain quick pairs to maintain combo bonuses where supported.
-- Q: Any scoring tips?
-A: Modes vary; play faster for timers and plan deeper for move limits.
-- Q: Timed or move limits?
+    *   **A:** 多くのモードでは時間制限があります。素早い判断が求められます。
 
-
-
-
-A: Chain quick pairs to maintain combo bonuses where supported.
-- Q: Any scoring tips?
-A: Modes vary; play faster for timers and plan deeper for move limits.
+*   **Q: 高得点のコツは？**
+    *   **A:** 手を止めずに素早く連続でペアを消すことで、コンボボーナスが発生しやすくなります。

@@ -1,50 +1,42 @@
 ---
 locale: fr
-urlstr: metal-guns-fury
-title: '[FR] Metal Guns Fury'
-description: >-
-  [FR] Metal Guns Fury is a run‑and‑gun arcade — dodge bullets, manage weapons,
-  and blast through waves with crisp movement.
-iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
-thumbnail: /new-images/metal-guns-fury.jpg
-tags:
-  - action
-  - shooting
-score: 4.1/5  (2012 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "metal-guns-fury"
+title: "Metal Guns Fury"
+description: "Metal Guns Fury est un run‑and‑gun arcade : esquive les balles, gère ton arsenal et traverse des vagues d’ennemis avec des déplacements précis."
+iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
+thumbnail: "/new-images/metal-guns-fury.jpg"
+tags: ["action", "shooting"]
+score: "4.1/5  (2012 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des grands classiques d’arcade. Tu alternes entre fusils, fusils à pompe et lance‑roquettes, sauves des otages pour obtenir des power‑ups et traverses des zones remplies de soldats, tourelles et véhicules légers. Des sauts propres, des glissades bien timées et une bonne gestion des munitions font la différence entre une mission maîtrisée et une défaite rapide.
 
+### Stratégies de jeu et progression
 
+1.  **Prioriser les cibles :** élimine en premier les tourelles fixes et les ennemis à roquettes, puis occupe‑toi de l’infanterie basique.
+2.  **Superposer les mouvements :** saute par‑dessus les tirs bas, glisse sous les projectiles en cloche, puis riposte pendant les fenêtres de sécurité.
+3.  **Économie de munitions :** tire en rafales courtes et garde tes roquettes pour les groupes d’ennemis ou les ennemis blindés/boss.
+4.  **Gérer les power‑ups :** planifie le sauvetage des otages et la récupération des bonus juste avant les sections difficiles ou les portes de boss pour partir avec la barre de vie et les munitions au maximum.
+5.  **Lire les patterns des boss :** observe les phases, repère les moments où tu peux attaquer sans risque plutôt que de tirer en permanence en prenant tous les dégâts.
 
-### Detailed Game Introduction
+### Commandes
 
-Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade classics. Swap between rifles/shotguns/rockets, rescue hostages for power‑ups, and clear arenas packed with soldiers, turrets, and light vehicles. Clean jumps, slide‑dodges, and ammo discipline separate stable clears from messy deaths.
+- Déplacement : flèches ou WASD.  
+- Tir : touche J ou clic.  
+- Saut : K ou barre d’espace.  
+- Grenade / aptitude : L ou E (selon la version).  
+- Changer d’arme : Q.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** Target priority: Turrets and rockets first; basic grunts later.
-2.  **[FR]** Movement layering: Jump over low fire, slide under high arcs, then counter.
-3.  **[FR]** Ammo economy: Burst fire, conserve rockets for multi‑targets/boss armor.
-4.  **[FR]** Power‑ups: Route rescues to refresh HP/ammo before boss gates.
-5.  **[FR]** Boss patterns: Read phases; punish windows rather than face‑tank.
-
-### Controls Guide
-
-- Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I get shredded in crossfire.
-
-A: Clear one lane at a time, abuse cover edges, and avoid standing mid‑screen.
-
-- Q: Ammo runs dry on bosses.
-
-A: Save heavy ammo for armor breaks; use burst fire on adds to conserve.
-
-- Q: Which weapon is best?
-
-A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
+- **Q : Je me fais détruire dès qu’il y a du tir croisé.**  
+  **R :** Essaie de nettoyer un côté de l’écran à la fois, utilise les couvertures et évite de rester au milieu de la zone de tir trop longtemps.
+- **Q : Je n’ai plus de munitions sur les boss.**  
+  **R :** Garde tes munitions lourdes pour briser l’armure et utilise des rafales contrôlées sur les petits ennemis pour économiser tes balles.
+- **Q : Quelle arme est la plus efficace ?**  
+  **R :** Le fusil à pompe excelle contre les groupes proches, le fusil d’assaut est polyvalent à moyenne distance et les roquettes sont réservées aux cibles lourdes et aux boss.
 

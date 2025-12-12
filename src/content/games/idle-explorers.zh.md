@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: idle-explorers
-title: '[ZH TRANSLATION NEEDED] Idle Explorers'
-description: >-
-  [ZH TRANSLATION NEEDED] Manage a team of explorers and automate your digging
-  empire in Idle Explorers! Upgrade your workers, unlock new dig sites, and
-  discover rare artifacts in this addictive idle adventure.
+title: "《Idle Explorers》放置探险队"
+description: "在《Idle Explorers》中，你要经营一支挖掘探险队，从一条简陋矿井起步，不断升级工人、开辟新矿区、雇佣管理者自动化流程，打造跨世界的挖掘帝国。"
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
 thumbnail: /new-images/idle-explorers.png
 tags:
@@ -17,32 +14,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Idle Explorers is an addictive idle management and clicker game where you take on the role of a mining tycoon. Your goal is to build a vast exploration empire by managing a team of workers who dig for valuable resources. You start with a single explorer in a basic mine shaft and must use the income they generate to upgrade your operation, hire more workers, automate processes by hiring managers, and eventually unlock new, more profitable mines across different worlds.
+《Idle Explorers》是一款典型的放置经营+点击游戏，你扮演的是一位矿业大亨，从一条只有一名探险者的小矿井开始，通过管理工人为你挖掘资源，逐步建立起庞大的挖掘帝国。工人自动往返于矿层与仓库之间，你要利用他们创造的收入升级矿道、增加工人数量、提高运载效率，并在条件成熟时雇佣经理人实现全自动化运营，最终解锁更多星球与高价值矿区。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Core Loop:** The gameplay loop is simple but compelling: Your workers dig automatically, generating cash. You use that cash to buy upgrades. Those upgrades make you earn cash faster, allowing you to afford even bigger upgrades. This cycle continues as you expand your empire.
-2.  [ZH TRANSLATION NEEDED] **Prioritize Upgrades:** In the early game, focus on upgrading the speed and capacity of your workers and shafts. A good strategy is to keep your mine shafts, elevator, and warehouse at roughly the same level to ensure a smooth and balanced workflow without bottlenecks.
-3.  [ZH TRANSLATION NEEDED] **Automate with Managers:** The key to any idle game is automation. As soon as you can afford them, hire managers for each part of your operation (the mine shafts, the elevator, and the warehouse). Once a manager is in place, that part of the operation will run automatically, earning you money even when you are not clicking or have the game open.
-4.  [ZH TRANSLATION NEEDED] **Expand and Prestige:** Your main long-term goal is to earn enough money to unlock the next mine or world. Each new location offers significantly higher income potential. Many idle games also feature a "Prestige" system, where you can reset your progress in exchange for a permanent boost to all future earnings.
+### 游戏玩法与攻略
+1.  **核心循环**：工人自动挖掘资源并带回收益，你用这些收益购买升级，使资源获取速度更快，如此反复形成正向循环。赚得越多，升级越快，升级越多，挖得越快。
+2.  **合理安排升级优先级**：前期重点提升矿井深度、工人挖掘速度和单次运载量，并保证电梯、仓库与矿道等级相对均衡，避免某一环节过慢导致整体效率被“卡脖子”。
+3.  **尽早实现自动化管理**：放置类游戏的灵魂是自动化。只要资金足够，就尽快为矿井、电梯、仓库等关键环节雇佣经理人，让它们即使在你不点击、不在线的时候也能持续运作。 
+4.  **扩张与转生**：长期目标是攒够资金解锁新的矿区或新世界，这些区域通常拥有更高的基础收入。很多此类游戏还会提供“转生/重置换永久增益”的机制，你可以在关键节点选择重置进度，以换取全局收益加成。 
 
-### Controls Guide
+### 操作说明
 
-[ZH TRANSLATION NEEDED] The game is played entirely with mouse clicks or taps.
+本作全部通过点击/轻触完成：
 
-*   **Upgrade:** Click on the upgrade buttons for your mine shafts, elevator, and warehouse to level them up.
-*   **Hire Managers:** Click on the manager icons when you have enough funds to automate a process.
-*   **Navigate:** Use the map or world buttons to switch between your different mines.
+*   **升级**：点击矿井、电梯、仓库等模块旁的升级按钮即可提升等级和效率。  
+*   **雇佣经理**：在对应模块的经理栏位中点击图标，花费一定资金雇佣经理人，让该模块完全自动化。  
+*   **切换矿区/世界**：通过地图或世界按钮在不同矿场之间自由切换管理。  
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: What should I upgrade first?**
-     *   **A:** A balanced approach is best. There's no point in having super-fast miners if your elevator can't keep up. Try to upgrade your shafts, elevator, and warehouse in tandem to keep the resources flowing smoothly.
+*   **Q: 一开始应该优先升级什么？**  
+    *   **A:** 最好让矿道、电梯和仓库的等级相对接近。只有挖得快、运得出、存得下三个环节都跟得上时，整体现金流才不会被某一处拖慢。  
 
-*   **Q: What do managers do?**
-     *   **A:** Managers are essential for idle income. They automate the work of their respective departments, so you continue to earn money even when you are offline.
+*   **Q: 经理的作用是什么？**  
+    *   **A:** 经理可以让对应环节实现完全自动化，即使你不手动点击或暂时离开游戏，矿井依然会持续运作并为你赚取收入，是放置收益的核心。  
 
-*   **Q: Should I spend my money right away or save it?**
-     *   **A:** In idle games, it's almost always best to reinvest your money into upgrades as soon as you can afford them. Each upgrade increases your earning rate, which means you'll be able to afford the next upgrade even faster. This exponential growth is the core of the game.
-
+*   **Q: 是应该攒钱再升大级，还是有钱就马上升级？**  
+    *   **A:** 一般情况下，尽快把钱投入升级会更划算，因为升级会直接提升单位时间收入，让你更快攒到下一笔资金。只有在准备解锁新矿区或新世界、需要一大笔一次性投入时，才建议集中储蓄。

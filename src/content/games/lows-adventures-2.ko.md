@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: lows-adventures-2
-title: '[KO] Low''s Adventures 2'
+title: "Low's Adventures 2 로우의 모험 2"
 description: >-
-  [KO] Retro platformer sequel: run‑and‑jump through compact stages, find keys
-  and secrets, and beat timed challenges.
+  Low's Adventures 2는 숨겨진 열쇠와 비밀 방, 부서지는 블록과 간단한 퍼즐이 배치된
+  레트로 스타일 2D 플랫폼 후속작입니다. 짧은 스테이지를 달리고 점프하며, 타임
+  챌린지에서 메달을 노리는 것이 핵심입니다.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/lows-adventures-2.jpg
 tags:
@@ -16,29 +17,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Low’s Adventures 2*는 짧고 깔끔한 올드스쿨 스타일의 플랫폼 스테이지들이 이어지는
+게임입니다. 맵 곳곳에 숨겨진 열쇠와 부서지는 블록, 간단한 기믹 퍼즐이 배치되어 있고,
+정확한 점프 타이밍과 적 패턴을 익히는 것이 이동 경로를 결정합니다. 선택형 타임 메달
+시스템 덕분에 효율적인 루트와 비밀 지름길을 찾는 재미도 함께 느낄 수 있습니다.
 
-### Overview
-Low’s Adventures 2 delivers short, old‑school platforming levels with hidden keys, breakable blocks, and lightweight puzzles. Precision jumps and enemy patterns define the route; optional time medals reward efficient clears and secret paths.
+### 플레이 방법
 
-### How to Play
-- Scout for keys/switches to open exits.
-- Learn enemy cycles, then speed‑route stages for medals.
-- Search for cracked tiles and alternate paths for secrets.
+- 스테이지를 돌아다니며 출구를 여는 열쇠와 스위치를 찾아보세요.
+- 적의 이동 패턴과 공격 주기를 익힌 뒤, 타임 메달을 목표로 가장 빠른 루트를 연구해
+  스테이지를 공략하세요.
+- 금이 간 타일이나 다른 곳으로 이어지는 숨은 길을 찾아 비밀 방과 숨겨진 보상을
+  발견해 보세요.
 
-### Controls
-- Arrows/WASD to move/jump; attack/interact varies by host.
+### 조작 방법
 
-### Tips
-- Buffer jumps at platform edges to extend distance.
-- Use enemy heads as springboards when possible.
-- Replay for faster routes once you know layouts.
+- 방향키 또는 WASD로 이동과 점프를 하고, 공격/상호작용 키는 플레이하는 사이트나 버전에
+  따라 다를 수 있습니다.
 
-### FAQ
-- Q: How do I reach hidden rooms in this game?
-A: Look for cracked blocks and off‑screen ledges; try ceiling seams.
-- Q: Does the game time my clears?
-A: Many hosts display timers and medal thresholds.
-- Q: Are there checkpoints in longer stages?
-A: Select levels include mid‑stage checkpoints.
+### 플레이 팁
 
+- 발판 끝에서 점프 버튼을 미리 눌러 점프를 버퍼링하면 더 먼 거리를 안정적으로
+  넘어갈 수 있습니다.
+- 가능한 구간에서는 적의 머리 위를 밟아 추가 점프를 얻거나 더 높은 발판으로
+  튀어 오르세요.
+- 한 번 클리어한 스테이지는 지형을 기억해 두었다가, 다시 도전해 더 빠른 루트와
+  타임 메달 기록을 노려 보세요.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 이 게임에서 숨겨진 방은 어떻게 찾아갈 수 있나요?
+
+  A: 금이 간 블록이나 화면 밖으로 조금 튀어나와 있는 발판, 천장 틈 등을 잘 살펴보세요.
+  평범해 보이는 벽도 공격하거나 점프해 보면 통로가 열리는 경우가 있습니다.
+
+- Q: 클리어 시간이 기록되나요?
+
+  A: 많은 버전에서 각 스테이지의 클리어 타임과 메달 기준 시간이 함께 표시되며, 빠르게
+  클리어할수록 더 높은 등급의 메달을 받을 수 있습니다.
+
+- Q: 긴 스테이지에도 체크포인트가 있나요?
+
+  A: 일부 길거나 어려운 레벨에는 중간 체크포인트가 배치되어 있어 사망 후 그 지점에서
+  다시 시작할 수 있습니다. 다만 모든 스테이지가 체크포인트를 제공하는 것은 아닙니다.

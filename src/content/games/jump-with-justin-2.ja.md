@@ -1,63 +1,35 @@
 ---
+title: "Jump With Justin 2"
+description: "Jump With Justin 2は弾むプラットフォーマーです。ジャンプのタイミングを合わせ、障害物をバウンスし、スプリングを連鎖させてゴールに到達します。"
+iframeSrc: "https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/"
+thumbnail: "/new-images/jump-with-justin-2.png"
+urlstr: "jump-with-justin-2"
+score: "3.9/5  (1571 votes)"
+tags: ["action", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: jump-with-justin-2
-title: '[JA TRANSLATION NEEDED] Jump With Justin 2'
-description: >-
-  [JA TRANSLATION NEEDED] Jump With Justin 2 is a bouncy platformer — time
-  jumps, bounce off hazards, and chain springs to the goal.
-iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
-thumbnail: /new-images/jump-with-justin-2.png
-tags:
-  - action
-  - casual
-score: 3.9/5  (1571 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Jump With Justin 2は、スプリングジャンプ、移動プラットフォーム、トラップタイミングを中心とした軽いプラットフォーマーです。アークを計画し、バウンスを連鎖させ、最小限のミスで出口に到達するために勢いを保ちます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Jump With Justin 2 is a light platformer centered on springy jumps, moving platforms, and trap timing. Plan arcs, chain bounces, and keep momentum to reach exits with minimal mistakes.
+1.  アーク制御：クリーンなアークにコミットします。遅いジャンプは多くの場合、障害物をより良くクリアします。
+2.  勢い：毎回停止する代わりに、プラットフォーム間で速度を維持します。
+3.  トラップタイミング：スパイクと移動プラットフォームを見て、安全なビートを見つけます。
+4.  困難な部屋をドリル：正確なジャンプウィンドウをマップするためにセグメントを再起動します。
+5.  オプションのスター：安全なアーク上でのみ収集品をつかみます。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Arc control: Commit to clean arcs; late jumps often clear hazards better.
-[JA TRANSLATION NEEDED] 2.  Momentum: Preserve speed across platforms instead of stopping each time.
-[JA TRANSLATION NEEDED] 3.  Trap timing: Watch spikes and moving platforms to find safe beats.
-[JA TRANSLATION NEEDED] 4.  Drill tough rooms: Restart segments to map exact jump windows.
-[JA TRANSLATION NEEDED] 5.  Optional stars: Grab collectibles only on safe arcs.
+- 移動/ジャンプ：矢印キー / WASADとSpace。モバイルではタッチボタン。
+- 再起動：シーケンスを練習するための高速再起動。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
-- Restart: Fast restart to practice sequences.
-
-### Frequently Asked Questions (FAQ)
-
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- 100% collection tips? Clear the route first, then route collectibles.
-
-
-
-
-
-
-
-
-
-- 100% collection tips? Clear the route first, then route collectibles.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
-### よくある質問（FAQ）
-- Restart: Fast restart to practice sequences.
-- Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
-### コントロールガイド
-
-
-
-
-- 100% collection tips? Clear the route first, then route collectibles.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
+- スパイクに当たり続けます。なぜですか？早すぎるジャンプをしています。わずかに遅らせて、アークをスムーズに保ちます。
+- ダブルジャンプは利用可能ですか？一部のステージには、それをシミュレートするバウンスパッドまたはパワーアップが含まれます。
+- 100%収集のヒント？最初にルートをクリアし、次に収集品をルート化します。

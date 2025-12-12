@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: geometry-dash-subzero
-title: '[DE] Geometry Dash SubZero'
+title: "Geometry Dash SubZero"
 description: >-
-  [DE] Standalone winter‑themed rhythm levels: jump, fly, and time rings to
-  music across icy visuals and fast patterns.
+  Geometry Dash SubZero bietet eigenständige Winter-Levels: Springe, fliege und
+  triff Ringe im Takt der Musik durch eisige Welten mit schnellen Patterns.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/geometry-dash-subzero.jpg
@@ -15,30 +15,38 @@ score: 3.9/5  (429 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+SubZero ist ein winterlich gestaltetes Geometry-Dash-Paket mit eigenen Songs
+und kontrastreichen Effekten. Dich erwarten knackige Timings und schnelle
+Wechsel in Schiffspassagen.
 
+### So spielst du
 
+- Übe knifflige Ring-Timings – manche Stellen verlangen sehr schnelle
+  Doppeltaps.
+- Steuere das Schiff mit ruhiger Hand und vermeide Überkorrekturen.
+- Präge dir Stellen ein, an denen Beat und visuelle Effekte genau
+  zusammenfallen – dort lauern oft Sprünge oder Richtungswechsel.
 
-### Overview
-Winter‑styled set of Geometry Dash levels with unique songs and high‑contrast visuals; expect tight timing and quick ship transitions.
+### Steuerung
 
-### How to Play
-- Practice tricky ring timings; some require quick double taps.
-- Fly smoothly in ship sections; avoid over‑correction.
-- Memorize sync points where visuals and beats align.
+- Tippen/Leertaste/Mausklick zum Springen; Halten zum Fliegen (je nach Host).
 
-### Controls
-- Tap/Space/Mouse to jump; hold to fly (host dependent).
+### Tipps
 
-### Tips
-- Reduce visual clutter if effects distract from rhythm.
-- Use practice checkpoints to lock in muscle memory.
+- Schalte überladene Effekte aus, wenn sie dich vom Rhythmus ablenken.
+- Nutze den Übungsmodus mit Checkpoints, um schwierige Teilstücke zu
+  verinnerlichen.
 
 ### FAQ
-- Q: How is SubZero different from other packs?
-A: It features its own music set and icy theming with challenging patterns.
-- Q: Can I play in practice mode?
-A: Yes, most hosts include practice with checkpoints.
-- Q: Are there user levels?
-A: SubZero focuses on built‑in tracks; UGC depends on host.
 
+- **F: Worin unterscheidet sich SubZero von anderen Geometry-Dash-Paketen?**  
+  **A:** Eigene Musik, eisige Optik und besonders knackige Muster.
+
+- **F: Gibt es einen Practice-Modus?**  
+  **A:** Ja, normalerweise kannst du mit Checkpoints üben.
+
+- **F: Sind Nutzerlevel enthalten?**  
+  **A:** SubZero konzentriert sich auf eingebaute Tracks – ob Community-Levels
+  verfügbar sind, hängt vom Host ab.

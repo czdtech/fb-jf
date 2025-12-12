@@ -1,71 +1,54 @@
 ---
-locale: ja
+title: Mini Crossword
+description: Mini Crosswordはコンパクトなクロスワードパズルです。手がかりを解決し、単語を埋め、素早いワードパズルの挑戦を楽しみます。
+iframeSrc: 'https://minicrossword.h5games.usercontent.goog/v/04sf2s4bnkkk0/'
+thumbnail: /new-images/mini-crossword.png
 urlstr: mini-crossword
-title: '[JA TRANSLATION NEEDED] Mini Crossword'
-description: >-
-  [JA TRANSLATION NEEDED] Mini Crossword is a compact daily crossword puzzle
-  game that provides a quick and engaging word challenge for players of all
-  skill levels.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
-thumbnail: /new-images/mini-crossword.jpg
+score: 4.3/5  (2089 votes)
 tags:
   - puzzle
-  - word
+  - thinky
   - casual
-score: 4.9/5  (363 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Mini Crosswordは、短時間で完了できるコンパクトなクロスワードパズルを提供します。与えられた手がかりから単語を推測し、グリッドを埋めます。完璧な素早い脳のトレーニングで、語彙と一般知識をテストします。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **簡単な手がかりから始める:** 確実な答えから始めて勢いを構築します。
+2.  **交差点を使用:** 交差する文字は他の単語を解決するのに役立ちます。
+3.  **長い単語を考える:** 多くの場合、より多くの交差点を提供します。
+4.  **パターンを認識:** 一般的な単語の終わり（-ING、-EDなど）を探します。
+5.  **行き詰まった場合は移動:** 後で戻ってください。
+
+### 操作ガイド
+
+- マスをクリック/タップして選択します。
+- 文字を入力します。
+- 方向を切り替えるためにマスをもう一度クリックします。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Mini Crossword" is a compact daily crossword puzzle game. It offers a small yet challenging grid where players need to fill in the correct words based on the provided clues to complete the entire crossword. This game is suitable for quick sessions, both expanding vocabulary and providing puzzle-solving enjoyment.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Understand Clues**: Carefully read both the across and down clues; they are key to solving the puzzle.
-[JA TRANSLATION NEEDED] 2.  **Start with Known Information**: Fill in words you are confident about first; their letters will help you deduce other words.
-[JA TRANSLATION NEEDED] 3.  **Utilize Intersecting Clues**: When some letters of a word are determined by other words, use these letters to guess and confirm the word.
-[JA TRANSLATION NEEDED] 4.  **Gradually Narrow Down**: For uncertain words, you can first fill in the letters you know, then deduce based on the remaining blanks and clues.
-
-### How to Play
-
-*   **Select a Square**: Click an empty square to select it. You can switch between horizontal or vertical word entry modes by clicking again.
-*   **Enter Letters**: Use the keyboard to input letters.
-*   **Clear Letters**: Use the backspace key to delete entered letters.
-*   **View Clues**: The game interface usually displays clue information for the currently selected word.
-*   **Check Answer**: Some games provide a "Check" function to verify if the entered words are correct.
-
-### Frequently Asked Questions
-
-
-
-
-
-
-
-
-- **Q: Who is "Mini Crossword" suitable for?**
-### よくある質問
 - **Check Answer**: Some games provide a "Check" function to verify if the entered words are correct.
+
 - **View Clues**: The game interface usually displays clue information for the currently selected word.
-- **Clear Letters**: Use the backspace key to delete entered letters.
-- **Enter Letters**: Use the keyboard to input letters.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Select a Square**: Click an empty square to select it. You can switch between horizontal or vertical word entry modes by clicking again.
-[JA TRANSLATION NEEDED] 1.  **Q: Who is "Mini Crossword" suitable for?**
+- **Q: 毎日新しいパズルがありますか？**  
+  A: 多くのバージョンは毎日のパズルを提供します。
+- **Q: ヒントが利用可能ですか？**  
+  A: 一部のバージョンにはヒントまたは明らかにするオプションがあります。
+- **Q: ミニはどれくらい小さいですか？**  
+  A: 通常5x5または7x7グリッドです。
 
-- **Q: When are daily puzzles updated?**
-[JA TRANSLATION NEEDED]     **A**: This game is suitable for all players who enjoy crossword puzzles and vocabulary challenges, especially those looking for a quick puzzle-solving experience.
 
-- **Q: Is there any help if I get stuck?**
-[JA TRANSLATION NEEDED] 2.  **Q: When are daily puzzles updated?**
+**A**: Daily puzzles usually require an internet connection to download and update, but once downloaded, some games may support offline play.
 
 - **Q: Does the game require an internet connection?**
-[JA TRANSLATION NEEDED]     **A**: Typically, mini crossword puzzles are updated with new puzzles at a specific time each day (e.g., midnight or in the morning).
-[JA TRANSLATION NEEDED] 3.  **Q: Is there any help if I get stuck?**
-[JA TRANSLATION NEEDED]     **A**: Some mini crossword games offer hint features that can reveal a letter or word to help players continue.
-[JA TRANSLATION NEEDED] 4.  **Q: Does the game require an internet connection?**
-[JA TRANSLATION NEEDED]     **A**: Daily puzzles usually require an internet connection to download and update, but once downloaded, some games may support offline play.
+
+
+**A**: Daily puzzles usually require an internet connection to download and update, but once downloaded, some games may support offline play.

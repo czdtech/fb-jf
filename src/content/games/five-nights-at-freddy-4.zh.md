@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: five-nights-at-freddy-4
-title: '[ZH TRANSLATION NEEDED] Five Nights at Freddy''s 4 (FNAF 4)'
+title: "Five Nights at Freddy's 4 (FNAF 4) 弗雷迪的五夜驚魂 4"
 description: >-
-  [ZH TRANSLATION NEEDED] Bedroom nightmare survival: listen for breathing,
-  manage doors and closet, and use your flashlight wisely to keep night terrors
-  at bay.
+  臥室場景的惡夢生存：專心聽呼吸與腳步聲，管理房門與衣櫃，
+  聰明使用手電筒，才能把夜晚的夢魘擋在門外。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/five-nights-at-freddy-4.jpg
 tags:
@@ -18,26 +17,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Home‑set horror focused on audio cues: you patrol bedroom doors, closet, and bed, using the flashlight and careful listening to avoid jumpscares.
+
+本作將舞台搬回一間充滿童趣又詭異的臥室，你必須在黑暗中巡視房門、衣櫃與床邊，
+透過細微的聲音線索判斷噩夢是否逼近。遊戲強調「聽覺優先」——很多時候，
+你必須先停下來聆聽，再決定要關門、開燈還是後退。
 
 ### How to Play
-- Approach a door and pause to listen; shut doors if you hear breathing.
-- Flash the hallway only when safe; check the closet and bed regularly.
-- Later nights increase speed and require tighter timing.
+
+- 朝某一扇門跑近後，不要立刻打開手電筒，而是先停下來仔細聽是否有呼吸聲或腳步聲；
+  若確定聽到呼吸，就直接關門，等聲音退去再離開。
+- 走廊只有在你確認「沒呼吸聲」的情況下，才用手電筒短暫照一下，確認是否有怪物站在遠處。
+- 別忘了定期檢查衣櫃與床上／床後的陰影，忽略這些位置會讓小型噩夢逐漸累積，
+  最終演變成致命攻擊。
+- 隨著夜數增加，敵人行動速度會越來越快，容錯空間也會愈來愈小。
 
 ### Controls
-- Mouse/keyboard to move between locations; specific keys for doors and flashlight vary by host.
+
+- 使用滑鼠或鍵盤在房間各位置之間移動；
+- 關門與開啟手電筒的具體按鍵會依託管版本略有不同，通常會在遊戲開頭提示。
 
 ### Tips
-- Always listen before flashing the light at a doorway.
-- Build a loop (left door → right door → closet → bed) and repeat quickly.
-- Headphones help distinguish subtle breathing and footsteps.
+
+- 在門口時一定要「先聽再照」，若在有呼吸聲時直接開燈，很容易當場被 jumpscare。
+- 建立一個固定巡迴節奏，例如「左門 → 右門 → 衣櫃 → 床」，並盡可能快速而穩定地重複這個 loop。
+- 建議佩戴耳機遊玩，更容易分辨微弱的呼吸、腳步與環境聲差異。
 
 ### FAQ
-- Q: Why do I get jumpscared when I flash the light at the door?  
-[ZH TRANSLATION NEEDED]   A: You likely flashed while breathing was present; close the door first.
-- Q: Do I need to check the bed?  
-[ZH TRANSLATION NEEDED]   A: Yes—ignoring the bed lets nightmares accumulate and increases risk.
-- Q: Does the game add extra nights?  
-[ZH TRANSLATION NEEDED]   A: Many hosts include later challenge nights beyond Night 5.
 
+- 問：為什麼我一照門口就被嚇？  
+  答：多半是你在有呼吸聲時就開了手電筒。正確做法是先聽，若有呼吸就馬上關門，
+  等聲音消失再離開，而不是用燈去「驗證」。
+
+- 問：床需要一直檢查嗎？  
+  答：需要，如果長時間不理會床上的動靜，小噩夢會越積越多，大幅提高被突襲的機率。
+
+- 問：主線五夜之後還有額外夜晚嗎？  
+  答：許多版本都會在第 5 夜之後追加更高難度的挑戰夜晚，給熟練玩家進一步試煉。

@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: roadfury
-title: '[ZH TRANSLATION NEEDED] Road Fury'
+title: 《Road Fury》公路狂怒纵版射击
 description: >-
-  [ZH TRANSLATION NEEDED] An action-packed vertical shoot-'em-up on the highway!
-  Control your armed vehicle, destroy enemy cars, and collect coins to upgrade
-  your weapons and armor to survive the fury of the road.
+  《Road
+  Fury》是一款节奏火爆的纵版高速公路射击游戏。驾驶全副武装的战车在公路上一路狂飙，摧毁敌车、躲避子弹、收集金币，用升级后的火力和装甲在混乱的车流中活得更久。
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
 thumbnail: /new-images/roadfury.png
 tags:
@@ -17,31 +16,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Road Fury is a high-octane, top-down vertical scrolling shooter that puts you in the driver's seat of a heavily armed vehicle on a chaotic highway. Your mission is to survive for as long as possible against waves of enemy cars, trucks, and bosses. Weave through traffic, collect powerful boosters, and use the coins you earn from destroyed enemies to upgrade your car's weapons and armor to unleash maximum fury.
+《Road Fury》是一款高强度的俯视纵版卷轴射击游戏，你将驾驶一辆重武装车辆杀入混乱的高速公路战场。目标是在源源不断刷新的敌方车辆、卡车和 Boss 攻击下尽可能存活更久。你需要灵活在线路之间穿梭，捡起道路上的强化道具，并用战斗中获得的金币，在局间为座驾升级武器与装甲，释放真正的“公路狂怒”。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Constant Movement:** The key to survival is to never stop moving. Weave left and right to dodge enemy fire and collisions. Staying in one place is the fastest way to get destroyed.
-2.  [ZH TRANSLATION NEEDED] **Grab Power-ups:** Prioritize collecting the power-ups that appear on the road. A temporary shield, a powerful rocket launcher, or a coin magnet can dramatically change the course of your run.
-3.  [ZH TRANSLATION NEEDED] **Focus on Upgrades:** The coins you collect are crucial. Between runs, visit the garage to permanently upgrade your vehicle. Upgrading your main cannon's damage and your car's armor are excellent first choices.
-4.  [ZH TRANSLATION NEEDED] **Learn Enemy Patterns:** Different enemy vehicles have different behaviors. Some will try to ram you, while others will shoot from a distance. Learn their patterns to anticipate their attacks and dodge them effectively.
+### 游玩策略与通关指引
 
-### Controls Guide
+1.  **保持持续移动：** 想要活得久，绝不能站桩。不断小幅左右移动，既能躲子弹，也能避免被普通车辆撞伤，停在原地几乎等于等死。
+2.  **优先吃强化道具：** 公路上会不断刷出各类强化图标，例如临时护盾、强力火箭、金币磁铁等。合理抢夺这些道具，往往能瞬间扭转战局。
+3.  **重视升级投资：** 金币是长期变强的关键。每次游戏结束后，都应该去车库升级车辆。前期建议优先提高主炮伤害和车体装甲，这两项能最直接提高容错率和清怪效率。
+4.  **记住敌人行为模式：** 不同敌车有不同习性，有的会主动冲撞，有的远距离持续扫射。通过多次尝试熟悉它们的移动和开火节奏，提前预判并留出躲避空间。
 
-[ZH TRANSLATION NEEDED] The game is played with simple drag controls.
+### 操作说明
 
-*   **Move Vehicle:** Click and hold the left mouse button (or use your finger) and drag left and right on the screen to steer your car.
-*   **Shooting:** Your primary weapon fires automatically.
+游戏采用非常直观的拖拽操控方式。
 
-### Frequently Asked Questions (FAQ)
+*   **移动战车：** 按住鼠标左键（或用手指触控）左右拖动，即可控制车辆在车道间移动。
+*   **射击：** 主武器会自动开火，无需额外按键，你只需要专注于走位和吃道具。
 
-*   **Q: How do I shoot my weapon?**
-     *   **A:** You don't need to! Your main gun fires automatically, allowing you to focus completely on skillful driving and dodging.
-
-*   **Q: What are the floating icons on the road?**
-     *   **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
-
-*   **Q: What is the best upgrade?**
-     *   **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
-
+### 常见问题解答（FAQ）
+*   **问：武器怎么开火？****
+    *   答：** 游戏默认主炮自动射击，你只需控制走位，无需额外按键即可持续输出。
+*   **问：路上的悬浮图标是什么？****
+    *   答：** 那些都是临时强化或补给道具，例如护盾、强力火箭、修理包以及可以吸附金币的磁铁。尽量在安全前提下主动去吃。
+*   **问：一开始应该优先升级什么？****
+    *   答：** 前期推荐将主武器伤害点高一点，这能让你更快清掉前方车辆并获得更多金币。其后再补强装甲，提高被打中几次后仍然不爆的容错空间。

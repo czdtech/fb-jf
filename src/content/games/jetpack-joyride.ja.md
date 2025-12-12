@@ -1,42 +1,36 @@
 ---
+title: "Jetpack Joyride"
+description: "ガジェット付きの横スクロールランナー：電撃装置やミサイルをかわし、乗り物やコインを掴み、アップグレードのためにミ��ションを完了しましょう。"
+iframeSrc: "https://slope-game.github.io/rungame/jetpack-joyride/"
+thumbnail: "/new-images/jetpack-joyride.jpg"
+urlstr: "jetpack-joyride"
+score: "4.9/5  (437 votes)"
+tags: ["runner", "arcade"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: jetpack-joyride
-title: '[JA TRANSLATION NEEDED] Jetpack Joyride'
-description: >-
-  [JA TRANSLATION NEEDED] Side‑scroll runner with gadgets: dodge zappers and
-  missiles, grab vehicles and coins, and complete missions for upgrades.
-iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
-thumbnail: /new-images/jetpack-joyride.jpg
-tags:
-  - runner
-  - arcade
-score: 4.9/5  (437 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Jetpack Joyrideは、ハイエナジーな横スクロールランナーです。長押しで上昇し、離すと落下しながら、電撃装置（ザッパー）、ミサイル、レーザーを避けます。コインを集めてガジェットや服を購入し、乗り物（ホッグ（豚）、ドラゴン、メカ）を掴んで一時的なパワーを得て、ローテーションするミッションを完了してスターを獲得し、アップグレードをアンロックします。
 
+### 遊び方
+- ザッパーのパターンを通る安全な弧を描きましょう。ミサイル警告の矢印に注意してください。
+- 安全な時はコインラインを優先しましょう。乗り物は被弾保護を与えます。
+- スタイルに合ったガジェットコンボを装備しましょう（例：コインマグネット、スピードブースト）。
 
-### Overview
-[JA TRANSLATION NEEDED] Jetpack Joyride is a high‑energy side‑scrolling runner. Hold to rise and release to fall as you dodge zappers, missiles, and lasers. Collect coins to buy gadgets and outfits, grab vehicles for temporary power (hog, dragon, mech), and complete rotating missions to earn stars and unlock upgrades.
+### 操作方法
+- 長押し/タップで上昇。離すと下降。ガジェット/メニュー用のボタンはホストによって異なります。
 
-### How to Play
-- Trace safe arcs through zapper patterns; watch missile warning arrows.
-- Prioritize coin lines when safe; vehicles grant hit protection.
-- Equip gadget combos that suit your style (e.g., coin magnets, speed boosts).
+### ヒント
+- ザッパーのサイクル（周期）を覚えましょう。遅めのタップで狭い隙間を通り抜けます。
+- 高速セクションでは乗り物を安全バッファーとして保持しましょう。
+- ミッションは効率的な進行をガイドします。同時進行（マルチタスク）できるものを選びましょう。
 
-### Controls
-- Hold/tap to ascend; release to descend; buttons for gadgets/menus vary by host.
-
-### Tips
-- Learn zapper cycles; late taps thread tight gaps.
-- Keep a vehicle as a safety buffer on high‑speed sections.
-- Missions guide efficient progress—choose ones you can multi‑task.
-
-### FAQ
-- Q: How can I survive longer runs consistently?  
-[JA TRANSLATION NEEDED]   A: Read hazard cycles, keep a vehicle as buffer, and avoid greedy coin grabs.
-- Q: Which gadgets should I equip first?  
-[JA TRANSLATION NEEDED]   A: Coin attraction and missile‑warning helpers are strong starters.
-- Q: Do vehicles make me invincible?  
-[JA TRANSLATION NEEDED]   A: They absorb a hit and then break; you still need to dodge.
-
+### よくある質問 (FAQ)
+- **Q: 長いランを安定して生き延びるには？**  
+  A: ハザード（危険）のサイクルを読み、乗り物をバッファーとして保持し、欲張りなコイン取得を避けましょう。
+- **Q: 最初にどのガジェットを装備すべきですか？**  
+  A: コイン引き寄せとミサイル警告ヘルパーが強力なスターターです。
+- **Q: 乗り物は無敵にしてくれますか？**  
+  A: 1回のヒットを吸収してから壊れます。それでもかわす必要はあります。

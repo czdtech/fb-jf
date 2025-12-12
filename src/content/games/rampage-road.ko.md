@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: rampage-road
-title: '[KO] Rampage Road'
+title: "Rampage Road 램페이지 로드"
 description: >-
-  [KO] Rampage Road is a chaotic car shooter — weave traffic, blast foes, and
-  survive explosive pursuits.
+  상단 시점에서 자동차를 몰며 적 차량을 파괴하는 카 슈팅 게임입니다.
+  교통량을 피해 달리고, 탄약과 쿨타임을 관리해 적들을 처리하세요.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/rampage-road.png
 tags:
@@ -17,27 +17,66 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Rampage Road*는 탑다운(상단) 시점의 드라이빙과 아케이드 슈팅을
+섞은 카 액션 게임입니다. 플레이어는 혼잡한 도로를 질주하며
+적 차량을 파괴하고, 자신의 차량이 폭발하지 않도록 끝까지
+버텨야 합니다.
 
-Rampage Road mixes top‑down driving with arcade shooting. Navigate traffic, manage ammo or cooldowns, and eliminate targets while keeping your vehicle intact through waves of enemies.
+탄약이나 무기 쿨타임을 관리하고, 교통량 사이를 비집고 지나가며
+최대한 피해를 줄이면서 목표 차량을 제거하는 것이 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Clean lines: Hug lanes with predictable gaps to avoid traffic hits.
-2.  **[KO]** Burst fire: Short controlled bursts conserve ammo and heat.
-3.  **[KO]** Focus targets: Remove dangerous foes (rockets/rammers) first.
-4.  **[KO]** Collect wisely: Grab pickups when safe; don’t cut across heavy traffic.
-5.  **[KO]** Escape tools: Save boosts or shields for emergencies.
+1. **깨끗한 주행 라인 유지하기**  
+   난폭하게 차선을 오가다 보면 일반 차량과의 충돌로 체력이
+   금방 떨어집니다. 미리 빈 공간이 많은 차선을 골라, 예측 가능한
+   궤적으로 달리는 것이 안전합니다.
 
-### Controls Guide
+2. **짧은 점사로 탄약 관리하기**  
+   적을 빠르게 없애고 싶다고 계속 쏘다 보면 탄약이나 과열 게이지가
+   금방 바닥납니다. 필요한 순간에만 짧게 점사해 적을 처리하고,
+   남는 시간에는 주행에 집중하세요.
 
-- Drive: A/D or Left/Right; accelerate/brake with W/S or Up/Down.
-- Fire: Click/Space per mode; secondary with another key if present.
+3. **우선 제거해야 할 적 식별하기**  
+   로켓을 쏘거나 돌진 공격을 하는 차량처럼 위험도가 높은 적부터
+   우선적으로 처리하는 것이 좋습니다. 단순히 느리게 따라오는 차량은
+   나중으로 돌려도 됩니다.
 
-### Frequently Asked Questions (FAQ)
+4. **아이템은 안전할 때만 먹기**  
+   도로 위에 나타나는 파워업과 회복 아이템은 강력하지만,
+   무리해서 획득하려다 교통사고를 내면 손해가 더 클 수 있습니다.
+   주변 차량이 적고, 진입·이탈 경로가 안전할 때만 과감히
+   진입해 드세요.
 
-- I explode fast—why? You’re trading hits in traffic; prioritize avoidance over kills.
-- Ammo limited? Many modes—use bursts and time reloads.
-- Boss fights? Some waves escalate; prepare boosts and space.
+5. **탈출용 수단은 위기 상황까지 아껴 두기**  
+   부스트나 방어막 같은 긴급 생존 스킬은 평소에 남발하기보다,
+   다수의 적에게 포위되었거나 큰 공격이 예상될 때까지 남겨 두는
+   편이 좋습니다.
 
+### 조작 가이드
+
+- **조향**: `A/D` 혹은 좌/우 방향키로 좌우로 차량을 움직입니다.  
+- **가속/감속**: `W/S` 또는 상/하 방향키로 속도를 조절합니다.  
+- **사격**: 마우스 클릭 또는 스페이스바 등으로 무기를 발사합니다
+  (버전별로 다를 수 있음).  
+- **보조 무기/스킬**: 별도의 키에 할당된 보조 무기나 스킬이 있을 수
+  있으니, 옵션에서 키 배치를 확인하세요.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 왜 이렇게 빨리 폭발하나요?**  
+  **A:** 적을 공격하려다 일반 차량과 정면으로 충돌하는 경우가 많기
+  때문입니다. 킬 수보다 먼저 생존을 목표로, 교통 사고를 피하는
+  움직임을 우선해 보세요.
+
+- **Q: 탄약이 부족한 느낌이에요.**  
+  **A:** 계속 장탄을 비우기보다, 위협적인 적에게만 짧게 점사하고
+  나머지 시간에는 운전에 집중하세요. 재장전이나 쿨타임 사이에
+  엄폐할 위치를 확보하는 것도 중요합니다.
+
+- **Q: 보스전이 있나요?**  
+  **A:** 일부 웨이브에서는 체력이 많고 공격 패턴이 뚜렷한 보스 차량이
+  등장합니다. 이때를 위해 미리 부스트와 방어 스킬을 아껴 두면
+  공략이 훨씬 쉬워집니다.

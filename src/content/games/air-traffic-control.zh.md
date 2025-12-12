@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: air-traffic-control
-title: '[ZH TRANSLATION NEEDED] Air Traffic Control'
+title: Air Traffic Control 空中交通管制
 description: >-
-  [ZH TRANSLATION NEEDED] Guide aircraft safely in Air Traffic Control — vector
-  planes, avoid conflicts, and coordinate landings in a clean, accessible
-  browser challenge.
+  在《Air Traffic
+  Control（空中交通管制）》中，你需要像真正的塔台管制员一样，为进出港飞机规划航线、避免冲突，并在繁忙空域中安全、有序地安排起降。
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/air-traffic-control.png
 tags:
@@ -17,32 +16,36 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Air Traffic Control is a real‑time, puzzle‑like management game about sequencing arrivals and departures while maintaining safe separation. You select aircraft, issue vectors to build orderly downwind–base–final patterns, and sequence traffic so no two aircraft occupy the same space at the same time. The core loop is conflict detection and resolution: spot converging paths early, adjust headings and spacing, and feed aircraft to the runway at a steady, safe cadence.
+*Air Traffic Control（空中交通管制）* 是一款把“空管工作”抽象成实时解谜的管理向游戏。你的任务是在雷达屏幕上为一架架飞机规划航向和顺序，让它们保持安全间隔，依次进入下滑道并顺利着陆（或离场），同时绝不能发生相撞。
 
-### Gameplay Strategy & Walkthrough
+核心玩法可以理解为：**及早发现潜在冲突 → 通过转向、拉间距等手段化解 → 把飞机一架架平稳送到跑道前。**
 
-1.  优先处理即将发生的冲突：首先解决最近的交叉路径；将非冲突流量推迟到局面稳定。
-2.  提前规划间距：通过在合并前给出小的航向或路径差异来创建交错的最终进近；早期决策可以防止最后一秒的转弯。
-3.  建立标准模式：使用一致的顺风→基础→最终流程；它简化了视觉扫描并减少了意外。
-4.  如果可用，使用高度/速度：如果UI支持，小的速度降低或高度偏移可以在不进行大转弯的情况下增加间隔。
-5.  保持跑道畅通：如果跑道仍被占用或飞机缓慢撤离，不要将另一架到达飞机送到短最终进近。
-6.  避免过度引导：每次额外的转弯都会增加飞行员的工作量并增加新冲突的机会——更喜欢最小的、果断的引导。
+### 游戏策略与通关思路
 
-### 控制指南
+1.  **先处理“马上要撞”的：** 当屏幕上飞机很多时，优先关注那些轨迹马上要交叉、距离很近的目标。先把这些危险对手分开，再去管节奏和效率。
+2.  **提早做间隔，而不是最后一刻急刹：** 在飞机还远离跑道时，就通过轻微调整航向、拉长或缩短航线来制造时间差。越早做决策，越不用在短最终进近上“急打弯”。
+3.  **统一模式，减少混乱：** 尽量为所有进港飞机建立一个统一的“顺风段 → 基本扇形转向 → 最后进近”的标准航线。画面越规整，你越容易一眼看出哪里会出事。
+4.  **善用速度/高度（如果版本支持）：** 某些版本允许微调飞行速度或高度。适当减速、略微错开高度，可以在不大幅转弯的情况下拉开间隔，但不要频繁大幅调整，避免自己也看不清局面。
+5.  **保证跑道始终可用：** 如果前一架落地飞机还没有完全滑出跑道，暂时不要再把下一架飞机塞进短进近；宁可让它在外面多飞一个小弯，也比在跑道前堆积风险小得多。
+6.  **避免过度“折腾”飞机：** 每多一次转弯，就多一分出错和制造新冲突的机会。尽量用少量、明确的指令解决问题，而不是频繁给机组改航。
 
-[ZH TRANSLATION NEEDED] Controls vary by version but commonly include:
+### 操作指南
 
-- Select aircraft: Click or tap an aircraft label/target.
-- Set path/heading: Click waypoints on the map or drag to draw a short path; some versions provide on‑screen heading buttons.
-- Manage speed/altitude (if available): Use the UI arrows or buttons to make small adjustments; keep changes incremental.
-- Assign runway/approach (if available): Choose a runway or approach fix when sequencing to final.
+不同版本 UI 略有差异，一般包含以下形式：
 
-### Frequently Asked Questions (FAQ)
+- **选择飞机：** 点击或轻触雷达上的飞机图标/标签，进入该机的指令状态。
+- **设置航向 / 路径：** 在地图上点击要飞向的位置，或拖拽画出一小段航迹，有些版本提供“航向按钮”来微调角度。
+- **速度 / 高度管理（如有）：** 通过界面上的箭头或按钮调节该机的速度或高度，建议每次只做小幅调整。
+- **指定跑道 / 进近（如有）：** 在有多条跑道或进近点的机场，选择该机要使用的跑道或终端区入口点。
 
-- How do I avoid collisions? Maintain horizontal separation by issuing early vectors; if available, combine gentle speed differences to open gaps.
-- What does a conflict alert mean? It indicates predicted loss of separation; immediately adjust one or both aircraft to diverging headings.
-- Can I pause or change speed? Many browser versions support pause or time controls; use them to plan sequences when the board is busy.
-- Any tip for heavy traffic? Standardize the pattern and meter entries; resolve conflicts far from the runway so the final stays stable.
-
+### 常见问题解答（FAQ）
+*   **问：如何避免飞机相撞？****
+    *   答：** 关键是提前发现“路径将要交叉”的对，尽早通过相反方向的小转弯或速度差把它们拉开。不要等到两个目标已经快叠在一起才做动作。
+*   **问：冲突警报是什么意思？****
+    *   答：** 冲突/告警提示表示系统预测两架飞机即将失去最低间隔，需要你立即为其中一架或两架下达改变航向或高度的指令。
+*   **问：可以暂停或减慢时间吗？****
+    *   答：** 许多浏览器版本提供暂停或时间倍率控制。当画面非常繁忙时可以短暂停下，规划好几架飞机的顺序再继续。
+*   **问：流量特别大时有什么建议？****
+    *   答：** 尽量统一进场模式，把“最后进近”那一段保持干净稳定，把冲突解决在外圈；同时控制好进入终端区的节奏，别一次放进太多航班。

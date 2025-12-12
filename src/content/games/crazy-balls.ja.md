@@ -1,74 +1,49 @@
 ---
-locale: ja
-urlstr: crazy-balls
-title: '[JA TRANSLATION NEEDED] Crazy Balls'
-description: >-
-  [JA TRANSLATION NEEDED] Crazy Balls is a physics arcade — bounce, bank, and
-  blast through obstacle mazes with controlled shots.
+title: Crazy Balls クレイジーボールズ
+description: 「Crazy Balls」は物理演算アーケードパズル。跳ね返りやバンパーを利用し、正確なショットで障害物の迷路を突破せよ。
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/crazy-balls.png
+urlstr: crazy-balls
+score: 3.8/5  (1617 votes)
 tags:
   - action
   - casual
-score: 3.8/5  (1617 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Crazy Balls（クレイジーボールズ）*は、障害物が配置されたステージでボールを発射し、ゴールを目指すアクションパズルゲームです。物理演算によるリアルな動きを取り入れており、壁の反射（リコシェ）やバンパー、動くギミックなどを上手く利用する必要があります。
+適当に打つのではなく、正確な角度とパワー調節がカギとなります。混沌とするステージの中で、狙いすました一撃を決める爽快感を楽しみましょう。
 
-[JA TRANSLATION NEEDED] Crazy Balls challenges you to send balls through obstacle‑filled stages, leveraging ricochets, bumpers, and moving elements. Precision angles and controlled power separate clean clears from chaotic misses.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **壁を使う:** 直接狙えない場所へは、側面の壁を使って軌道を曲げ、狭い通路を通しましょう。反射角度の予測が重要です。
+2.  **パワー調整:** 常に全力ショットが良いわけではありません。中くらいのパワーで制御重視のショットを撃つ方が安定してクリアできる場合が多いです。
+3.  **タイミングを待つ:** 動く障害物がある場合、焦らずに道が開くタイミングを待ちましょう。一瞬の隙を見逃さないでください。
+4.  **ルート設計:** どこに当たってどこへ跳ね返るか、複数のバウンドを含めたルートを事前に頭の中で描きましょう。
+5.  **素早いリカバリー:** 狙いが外れても、すぐに次のショットの準備を。時間を無駄にしないことが高評価に繋がります。
 
-[JA TRANSLATION NEEDED] 1.  Use side walls to bend trajectories into tight corridors.
-[JA TRANSLATION NEEDED] 2.  Favor medium power for consistency; max power increases chaos.
-[JA TRANSLATION NEEDED] 3.  Wait a beat for moving obstacles to create openings.
-[JA TRANSLATION NEEDED] 4.  Learn rebound distances to plan multi‑bank routes.
-[JA TRANSLATION NEEDED] 5.  Reset quickly after bad lines to preserve time.
+### 操作ガイド
 
-### Controls Guide
+*   **エイムと発射:** 画面をドラッグして射出角度とパワーを決定し、指を離すとボールを発射します。
+*   **リトライ:** 行き詰まったらUIのボタンからリスタートしましょう。
 
-- Drag to aim and set power; release to shoot.
-- Restart via UI when needed.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ボールの動きがランダムに見えます。**
 
-- Q: Shots feel random — how to control?
-  
-[JA TRANSLATION NEEDED]   A: Lower power, use simpler angles, and learn consistent bank points on walls.
-
-- Q: Are there power‑ups?
-  
-[JA TRANSLATION NEEDED]   A: Some modes include multiplies or slow‑mo; save for tricky sections.
-
-- Q: Timed levels?
-  
+A: Lower power, use simpler angles, and learn consistent bank points on walls.
+- **A:** 物理演算に基づいているため、わずかな角度やパワーの違いで結果が大きく変わります。パワーを抑え、シンプルな角度で壁に当てることで、挙動が予測しやすくなります。
 
 
-
-
-
-- Q: Shots feel random — how to control?
-### よくある質問（FAQ）
-- Restart via UI when needed.
-- Drag to aim and set power; release to shoot.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: If timed, prioritize safe progress over risky trick shots.
-
-
-
-
-
+A: Some modes include multiplies or slow‑mo; save for tricky sections.
+*   **Q: パワーアップアイテムはありますか？**
 
 A: If timed, prioritize safe progress over risky trick shots.
-- Q: Timed levels?
-A: Some modes include multiplies or slow‑mo; save for tricky sections.
-- Q: Are there power‑ups?
+    *   **A:** モードによってはボールが増えたり、動きがスローになったりするアイテムが登場します。ここぞという場面で使いましょう。
 
-
-
-
-A: If timed, prioritize safe progress over risky trick shots.
-- Q: Timed levels?
-A: Some modes include multiplies or slow‑mo; save for tricky sections.
+*   **Q: 時間制限はありますか？**
+    *   **A:** 時間制限があるステージでは、派手なトリックショットよりも、着実な進展を優先しましょう。

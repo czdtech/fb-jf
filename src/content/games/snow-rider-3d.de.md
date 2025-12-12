@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: snow-rider-3d
-title: '[DE] Snow Rider 3D'
+title: "Snow Rider 3D"
 description: >-
-  [DE] Jump on your sled in Snow Rider 3D, a fast-paced winter-themed action
-  game. Steer down the snowy hills, dodge obstacles like trees and snowmen, and
-  use ramps to perform jumps. Collect gifts to unlock new sleds and challenge
-  your reflexes to get the highest score.
+  Spring auf deinen Schlitten in Snow Rider 3D! Steuere den Hügel hinab,
+  weiche Bäumen, Schneemännern und Felsen aus, nutze Rampen für Sprünge und
+  sammle Geschenke, um neue Schlitten freizuschalten – alles für den höchsten
+  Score.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/snow-rider-3d.jpg
@@ -19,33 +19,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
-### Game Introduction
+Snow Rider 3D ist ein schneller Winter-Arcade-Runner, in dem du mit einem
+ Schlitten einen schneebedeckten Berghang hinunterrast. Dein Ziel ist es, so
+ weit wie möglich zu kommen, während du Hindernissen wie Bäumen, Felsen und
+ Schneemännern ausweichst und dabei von einer Lawine im Rücken angetrieben
+ wirst. Unterwegs sammelst du Geschenke, mit denen du im Shop neue Schlitten
+ freischalten kannst.
 
-Snow Rider 3D is a fast-paced, winter-themed action game where you ride a sled down a vast, snowy mountain. The goal is to travel as far as possible while skillfully dodging a variety of obstacles, including trees, rocks, snowmen, and boulders. It's a test of reflexes and anticipation as the speed increases and the challenges become more intense.
+### Gameplay-Guide
 
-### Gameplay Guide
+Dein Score hängt von der zurückgelegten Strecke ab. Schaue weit nach vorn, um
+ Hindernisse frühzeitig zu erkennen, und plane deine Linie. Nutze Rampen, um
+ über große Hindernisfelder zu springen oder riskante Stellen zu umgehen. Die
+ gesammelten Geschenke dienen als Währung für neue Schlitten mit frischem Look.
 
-Your main objective is to get the highest score by surviving for as long as you can. Look ahead to anticipate upcoming obstacles and plan your path accordingly. Use the ramps scattered on the hill to your advantage by jumping over large obstacles or clusters of trees. Along the way, you can collect gifts which can be used to unlock new and cooler sleds in the shop.
+### Steuerung
 
-### Controls Guide
+Die Steuerung ist einfach und direkt:
+- **Links lenken:** `A` oder Pfeil nach links.
+- **Rechts lenken:** `D` oder Pfeil nach rechts.
+- **Springen:** `W` oder Pfeil nach oben.
 
-The controls are simple and responsive:
-- **Steer Left:** `A` or `Left Arrow` key
-- **Steer Right:** `D` or `Right Arrow` key
-- **Jump:** `W` or `Up Arrow` key
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Was ist das Hauptziel in Snow Rider 3D?**
 
-**What is the main goal of Snow Rider 3D?**
+Möglichst weit zu fahren, ohne einen Crash zu bauen – je weiter du kommst,
+ desto höher dein Score.
 
-The goal is to achieve the highest possible score by sledding as far as you can without crashing into an obstacle.
+**Wie schalte ich neue Schlitten frei?**
 
-**How can I unlock new sleds?**
+Sammle die Geschenke, die auf der Piste verteilt sind. Mit genug Geschenken
+ kannst du im Ingame-Shop neue Modelle kaufen.
 
-You can unlock new sleds by collecting the gift boxes that appear on the slope as you play. Once you have enough, you can purchase new sleds from the in-game shop.
+**Gibt es Tipps für hohe Punktzahlen?**
 
-**What's the best strategy for a high score?**
-
-Focus on survival above all else. Make small, controlled movements instead of sharp turns. Look far ahead to anticipate obstacles and don't take unnecessary risks just to grab a gift. Mastering the timing of your jumps is also crucial for clearing difficult sections.
-
+Konzentriere dich zuerst auf sauberes Ausweichen. Kleine, kontrollierte
+ Steuerbewegungen sind besser als harte Richtungswechsel. Riskiere Sprünge über
+ Rampen nur, wenn du die Landung gut einschätzen kannst.

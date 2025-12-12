@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: word-search-2
-title: '[DE] Word Search'
+title: Word Search
 description: >-
-  [DE] The classic word-finding puzzle. Find all the hidden words in the letter
-  grid. Words can be hidden horizontally, vertically, or diagonally—and even
-  backwards!
+  Der Wortsuch‑Klassiker: Finde alle versteckten Wörter im Buchstabengitter –
+  waagerecht, senkrecht, diagonal und sogar rückwärts.
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/word-search-2.jpg
 tags:
@@ -16,34 +15,42 @@ score: 4.5/5  (2800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Word Search ist ein klassisches Wortsuch‑Puzzle. Du bekommst eine Liste von Wörtern und ein Gitter voller Buchstaben. Jedes Wort ist irgendwo im Gitter versteckt – mal von links nach rechts, mal von oben nach unten, diagonal oder rückwärts. Deine Aufgabe ist es, alle Wörter zu finden und zu markieren.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Systematisch scannen:** Durchforste das Gitter Zeile für Zeile oder Spalte für Spalte, statt wahllos hin‑ und herzuschauen.
+2. **Auffällige Buchstaben nutzen:** Enthält ein gesuchtes Wort seltene Buchstaben wie J, Q, X oder Z, such zuerst gezielt nach diesen Buchstaben.
+3. **Alle Richtungen checken:** Sobald du den Anfangsbuchstaben gefunden hast, prüfe alle angrenzenden Felder in den acht möglichen Richtungen.
+4. **Hinweise nutzen:** Falls verfügbar, setze Hinweise nur bei den letzten, schwer auffindbaren Wörtern ein.
 
-Word Search is a classic and beloved word puzzle game. The objective is to find and mark all the words hidden inside a grid of letters. A list of words is provided, and players must scan the grid to locate them. The words can be placed horizontally, vertically, or diagonally, and can be spelled forwards or backwards, making it a fun challenge for your observation skills.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[DE]** **Scan Systematically:** Don't just look randomly. Scan the grid row by row, both forwards and backwards, for the first letter of a word on your list. Then do the same for each column.
-2.  **[DE]** **Look for Uncommon Letters:** If a word has an uncommon letter like J, Q, X, or Z, scan the entire grid for that letter first. Since it appears less frequently, it will significantly narrow down the possible locations for that word.
-3.  **[DE]** **Check All Directions:** Remember that words can be hidden in any of the eight directions. Once you find the first letter of a word, check all adjacent letters to see if they continue the word in any direction.
-4.  **[DE]** **Use Hints When Needed:** If you're truly stuck on a word, don't be afraid to use a hint if the game provides one. It will usually reveal the location of the word you're looking for.
-
-### Controls Guide
 
 The game is played with a simple click-and-drag motion.
+- **Wort markieren:** Klicke auf den ersten Buchstaben, halte die Maustaste und ziehe bis zum letzten Buchstaben des Wortes; lass dann los, um die Markierung zu setzen.
 
-*   **[DE]** **Highlight a Word:** When you find a word, click on the first letter, hold the mouse button down, and drag your cursor to the last letter of the word. Release the button to confirm the word.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
 
-*   **[DE]** **Q: Can words be spelled backwards?**
-    *   **[DE]** **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
+- **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
 
-*   **[DE]** **Q: How do I win the game?**
-    *   **[DE]** **A:** You win by finding and highlighting every single word from the provided list.
+    - **Q: Is there a penalty for guessing wrong?**
 
-*   **[DE]** **Q: Is there a penalty for guessing wrong?**
-    *   **[DE]** **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
+- **A:** You win by finding and highlighting every single word from the provided list.
 
+    - **Q: How do I win the game?**
+
+- **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
+
+    - **Q: Can words be spelled backwards?**
+**Können Wörter rückwärts geschrieben sein?**  
+Ja – sie können vorwärts, rückwärts, nach oben, nach unten oder diagonal verlaufen.
+
+**Wie gewinne ich?**  
+Indem du alle Wörter aus der Liste im Gitter findest und korrekt markierst.
+
+**Gibt es Strafen für falsche Markierungen?**  
+In den meisten Varianten nicht – eine falsche Auswahl wird einfach wieder aufgehoben und du versuchst es erneut.

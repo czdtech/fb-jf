@@ -1,71 +1,37 @@
 ---
+title: "Golf Orbit"
+description: "Golf Orbitは、飛ばして着地させるワンタップゴルフです。発射角度を決め、スピンを管理し、惑星の重力を利用して、戦略的なロングフライトを目指しましょう。"
+iframeSrc: "https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/"
+thumbnail: "/new-images/golf-orbit.png"
+urlstr: "golf-orbit"
+score: "4.1/5  (1926 votes)"
+tags: ["sports", "puzzle", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: golf-orbit
-title: '[JA TRANSLATION NEEDED] Golf Orbit'
-description: >-
-  [JA TRANSLATION NEEDED] Golf Orbit is a one‑tap launch‑and‑land golf — set
-  launch angle, manage spin, and ride planetary gravity for long, strategic
-  flights.
-iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
-thumbnail: /new-images/golf-orbit.png
-tags:
-  - sports
-  - puzzle
-  - casual
-score: 4.1/5  (1926 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Golf Orbitは、ゴルフを物理演算によるフライトパズルに変えます。発射角度とパワーを選び、多様な地形や惑星の上をボールが飛んでいくのを見守ります。スピンやバウンドの挙動、風、そして時折現れる重力井戸（Gravity well）が深みを加えます。最高のショットは、坂道に乗り、障害物をかすめ、バウンドを繋げて隠されたターゲットに到達します。
 
-[JA TRANSLATION NEEDED] Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle and power, then watch your ball arc across varied terrain and planetary bodies. Spin and bounce behavior, wind, and occasional gravity wells add depth: the best shots ride slopes, skim obstacles, and chain bounces to reach hidden targets.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **角度の規律**: 低い弾道は転がり（ラン）を最大化し、高い弾道はハザードを越えますが転がりません。
+2.  **スピン制御**: 小さな島に止めるにはバックスピンをかけ、下り坂に乗って距離を稼ぐにはトップスピンをかけましょう。
+3.  **重力/風**: 風上より少し上を狙いましょう。重力井戸がある場合は、スリングショット（加速）に使います。
+4.  **地形を読む**: 着地点だけでなく、最初のバウンドを予測しましょう。坂道は勢いの方向を変えます。
+5.  **パースコアのルート**: 安定するまでは、リスクの高いワンショットクリアよりも、安全なツーショットラインを選びましょう。
 
-[JA TRANSLATION NEEDED] 1.  Angle discipline: Shallow launches maximize roll; higher arcs clear hazards but lose rollout.
-[JA TRANSLATION NEEDED] 2.  Spin control: Apply backspin to stick on small islands; topspin to ride downhill slopes for extra distance.
-[JA TRANSLATION NEEDED] 3.  Gravity/wind: Aim slightly upwind; use gravity wells to slingshot if present.
-[JA TRANSLATION NEEDED] 4.  Terrain reads: Plan for first bounce, not just landing; slopes redirect momentum.
-[JA TRANSLATION NEEDED] 5.  Par routing: Take safe two‑shot lines rather than risky one‑shot clears until consistent.
+### 操作ガイド
 
-### Controls Guide
+- **タップ**: パワーバーを開始します。再度タップしてパワー/角度を決定します。スワイプでスピンをかけます（対応している場合）。
 
-- Tap to start the power bar; tap again to set power/angle; apply spin via swipe (if supported).
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: My ball always overshoots — how to fix?
-  
-[JA TRANSLATION NEEDED]   A: Lower the launch angle and reduce power; use backspin to stop on small greens.
-
-- Q: What’s the best all‑around angle?
-  
-[JA TRANSLATION NEEDED]   A: Medium‑low angles (25–35°) with topspin for roll are consistent on open holes.
-
-- Q: Do gravity wells actually help?
-  
-
-
-
-
-
-- Q: My ball always overshoots — how to fix?
-### よくある質問（FAQ）
-- Tap to start the power bar; tap again to set power/angle; apply spin via swipe (if supported).
-### コントロールガイド
-- Par routing: Take safe two‑shot lines rather than risky one‑shot clears until consistent.
-[JA TRANSLATION NEEDED]   A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
-
-
-
-
-
-
-A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
-- Q: Do gravity wells actually help?
-A: Medium‑low angles (25–35°) with topspin for roll are consistent on open holes.
-- Q: What’s the best all‑around angle?
-
-
-A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
+- **Q: ボールがいつも飛びすぎてしまいます。どうすればいいですか？**
+  A: 発射角度を下げ、パワーを減らしてください。小さなグリーンの上で止めるにはバックスピンを使いましょう。
+- **Q: 最も万能な角度は？**
+  A: オープンなホールでは、中〜低角度（25〜35度）でトップスピンをかけると、安定して転がります。
+- **Q: 重力井戸は本当に役に立ちますか？**
+  A: はい、接線方向に入るとスピードをつけて外側に飛び出します。タイミングを練習しましょう。

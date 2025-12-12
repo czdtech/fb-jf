@@ -1,12 +1,9 @@
 ---
 locale: zh
 urlstr: snake
-title: '[ZH TRANSLATION NEEDED] Snake'
+title: 《Snake》经典贪吃蛇
 description: >-
-  [ZH TRANSLATION NEEDED] Play the timeless classic, Snake. Control a
-  continuously moving line, consume food to grow longer, and avoid colliding
-  with walls or your own tail. Test your reflexes and planning in this simple
-  yet challenging arcade game.
+  《Snake》是一款经久不衰的街机经典小游戏。你要控制一条不断前进的“线条小蛇”，吃掉屏幕上的食物让身体变长，同时避免撞到墙壁或自己的身体，在简单规则下检验你的反应和预判能力。
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/snake.jpg
 tags:
@@ -17,32 +14,34 @@ score: 4.1/5  (242 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Snake is a classic arcade game where the player controls a single line that grows in length. The objective is to eat food items that appear on the screen, making the snake longer with each item consumed. It's a game of skill and foresight, as the primary challenge is to avoid colliding with the outer walls or the snake's own ever-growing body.
+《Snake》是一款经典的街机游戏，你将操控一条会不断变长的线条小蛇。屏幕上会随机生成食物，每吃掉一个食物，蛇的长度就会增加一格。看似简单的玩法背后，需要你时刻关注蛇身位置，避免撞到边缘墙壁或自己越来越长的尾巴，是一款非常考验规划与操作的小游戏。
 
-### Gameplay Guide
+### 游玩指南
 
-[ZH TRANSLATION NEEDED] The core mechanic is simple: guide the snake to eat the food. As the snake eats, it gets longer, and often, its speed increases, making navigation progressively harder. The game ends when the snake hits an obstacle. Your goal is to achieve the highest score possible by eating as much food as you can before a collision occurs.
+游戏的核心机制非常直观：
 
-### Controls Guide
+- 引导蛇吃掉地图上的食物来增长身体长度；
+- 随着体型变长，有些版本还会逐渐提升移动速度，使操作难度加大；
+- 一旦蛇头撞上障碍（墙壁或自己的身体），本局游戏立刻结束；
+- 你的目标是在失败前吃到尽可能多的食物，刷出最高得分。
 
-[ZH TRANSLATION NEEDED] The controls are typically straightforward:
-- **Arrow Keys:** Use the Up, Down,Left, and Right arrow keys to direct the snake.
-- **WASD Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
-- **Pause:** The `Spacebar` can often be used to pause and resume the game.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+操作通常非常简单：
+- **方向键：** 使用上、下、左、右方向键控制蛇头移动方向；
+- **WASD 键：** 许多版本也支持 `W`、`A`、`S`、`D` 作为移动方向的替代控制；
+- **暂停：** 在部分实现中，空格键可用于暂停或继续游戏。
 
-[ZH TRANSLATION NEEDED] **What is the main objective of Snake?**
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] The goal is to get the highest score by eating food and growing your snake as long as possible without crashing.
+**问：这款贪吃蛇的主要目标是什么？****
+答：** 尽可能多地吃掉食物，让蛇变得尽量长，同时避免任何撞击，以获取更高的最终得分。
 
-[ZH TRANSLATION NEEDED] **What's a good strategy for a high score?**
+**问：有没有提高得分的实用策略？****
+答：** 常见做法包括：让蛇沿着屏幕边缘环绕移动，形成可预判的路线；或采用紧凑的“之字形”走位，让蛇身相对集中，便于后续转向与绕行。无论哪种方式，都需要提前规划行进路线。
 
-[ZH TRANSLATION NEEDED] A common strategy is to keep the snake moving along the edges of the screen, creating a predictable path. Another is to use a tight zig-zag pattern to keep the snake's body compact and manageable. Always try to plan your moves ahead of time.
-
-[ZH TRANSLATION NEEDED] **Where did the Snake game come from?**
-
-[ZH TRANSLATION NEEDED] The concept originated with the 1976 arcade game "Blockade," but it became immensely popular after being included on Nokia mobile phones in 1998.
+**问：贪吃蛇这个游戏最早来源于哪里？****
+答：** 这一玩法最早可以追溯到 1976 年的街机游戏《Blockade》，而真正让它家喻户晓的，则是 1998 年诺基亚手机内置的贪吃蛇游戏。
 

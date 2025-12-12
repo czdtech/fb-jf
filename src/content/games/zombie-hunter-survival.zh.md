@@ -1,10 +1,11 @@
 ---
 locale: zh
 urlstr: zombie-hunter-survival
-title: '[ZH TRANSLATION NEEDED] Zombie Hunter: Survival'
+title: 'Zombie Hunter: Survival：顶视角丧尸生存战'
 description: >-
-  [ZH TRANSLATION NEEDED] Zombie Hunter: Survival is a tense top‑down shooter —
-  kite hordes, conserve ammo, and survive waves.
+  《Zombie Hunter: Survival》是一款俯视角生存射击游戏。
+  在狭窄地图中风筝成群僵尸，精打细算每一发子弹，
+  在一波又一波尸潮中活得更久。
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/zombie-hunter-survival.png
 tags:
@@ -15,25 +16,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Zombie Hunter: Survival is a survival‑style shooter. Move through cramped arenas, manage ammo and reload windows, and cut safe kiting paths while escalating waves pressure positioning and crowd control.
+《Zombie Hunter: Survival》是一款强调走位与资源管理的生存射击游戏。
+你将在狭窄的场景中与不断刷新、愈来愈密集的尸潮周旋，
+一边寻找安全的“风筝路线”，一边在有限的装弹时间里尽可能多地清怪。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Circle kite: Run wide circles to group zombies and fire into clumps.
-2.  [ZH TRANSLATION NEEDED] Reload discipline: Reload between waves or during long kites—not face‑to‑face.
-3.  [ZH TRANSLATION NEEDED] Funnel use: Fight in chokepoints for cleaner head‑on shots.
-4.  [ZH TRANSLATION NEEDED] Target priority: Eliminate fast/ranged threats first.
-5.  [ZH TRANSLATION NEEDED] Resource grabs: Take ammo/health only when routes are clear.
+随着波次推进，场景会出现更快、更强或远程攻击的怪物，
+你的站位、换弹时机和捡补给的路线规划都会变得至关重要。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-- Move with WASD/Arrows; aim with mouse or keys; fire/Reload per UI.
-- Swap weapons if available.
+1.  **画大圈风筝（Circle kite）：**  
+    通过在场地边缘跑大圈把僵尸聚拢在后方，
+    等它们集中到一条队列时再回头扫射，可以显著提高命中率和弹药利用率。
+2.  **掌控换弹节奏（Reload discipline）：**  
+    尽量在波次间隙或长距离风筝过程中换弹，
+    不要在僵尸已经贴脸时才开始装弹，否则非常容易被围死。
+3.  **善用地形瓶颈（Funnel use）：**  
+    选择门口、拐角等“狭窄通道”进行防守，
+    可以将僵尸压缩到一条线，更容易打出穿透或连击伤害。
+4.  **优先目标选择（Target priority）：**  
+    先解决移动速度快或会远程攻击的敌人，
+    再慢慢清理行动迟缓的普通僵尸，避免被突然冲脸或远程点掉血量。
+5.  **安全捡补给（Resource grabs）：**  
+    地图上的弹药箱与医疗包并不是越早捡越好，
+    最好在确认周围路线安全的前提下再折返拾取，
+    避免为了一个补给点把自己送进包围圈。
 
-### Frequently Asked Questions (FAQ)
+### 操作说明
 
-- I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
-- Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
-- Bosses? Some waves add elites—kite wider and clear minions first.
+- **移动：** 使用 WASD 或方向键在场地中移动。
+- **瞄准与射击：** 使用鼠标或方向键进行瞄准，根据界面提示开火或换弹。
+- **切换武器：** 若游戏提供多种武器，可通过相应按键在它们之间切换。
 
+### 常见问题（FAQ）
+
+- **问：总是被围在角落怎么办？**  
+  **答：** 尽量避免走进死胡同或狭窄角落，
+  时刻给自己留一条退路，提前规划好循环风筝路线。
+
+- **问：子弹总是不够用？**  
+  **答：** 目标是“少量子弹打最多敌人”，
+  尽量把僵尸聚成一团再开枪，少用扫射多用点射，
+  并在安全时机再去拾取弹药补给。
+
+- **问：精英或 Boss 关怎么打？**  
+  **答：** 尽量先清理小怪，
+  用更大的风筝半径与更长的循环路线来周旋精英怪，
+  避免被小怪和 Boss 同时包夹。

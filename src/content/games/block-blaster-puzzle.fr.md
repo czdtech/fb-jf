@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: block-blaster-puzzle
-title: '[FR] Block Blaster Puzzle'
-description: >-
-  [FR] Block Blaster Puzzle blends block‑fitting with clears — slot shapes, set
-  up multi‑line blasts, and keep the board breathable.
-iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
+title: "Block Blaster Puzzle"
+description: "Block Blaster Puzzle est un jeu de placement de blocs : pose des formes sur la grille, prépare des explosions multi‑lignes et évite de créer des trous impossibles à remplir."
+iframeSrc: "https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/"
 thumbnail: /new-images/block-blaster-puzzle.png
 tags:
   - puzzle
@@ -14,46 +12,43 @@ score: 3.9/5  (1748 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Block Blaster Puzzle* est un jeu de placement sur grille. Tu reçois des pièces de formes variées que tu dois placer pour compléter des lignes ou des zones et ainsi les faire disparaître. Le but est de garder le plateau respirant le plus longtemps possible, en évitant de créer des cavités d’une seule case.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1.  **Soigne les bords :** garde les limites de la grille lisses pour éviter les cases isolées impossibles à combler.
+2.  **Prévois des poches :** réserve des espaces 2×2 ou des « L » de trois cases pour accueillir les pièces les plus gênantes.
+3.  **Prépare les multi‑lignes :** construis des plateaux qui te permettent d’effacer deux ou trois lignes d’un coup afin de récupérer rapidement de l’espace.
+4.  **Évite les puits profonds :** ne creuse pas de colonnes étroites que tu ne pourras plus remplir plus tard.
+5.  **Traite les grosses pièces en premier :** quand la grille est encombrée, place la forme la plus difficile avant de caser les petites.
+6.  **Utilise les aperçus :** si les prochains blocs sont visibles, planifie plusieurs poses au lieu de jouer coup par coup.
 
-Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You’re given sets of pieces to fit onto a grid; completing rows or regions clears space. Success relies on shaping the board to accept awkward pieces later, staging multi‑line clears, and avoiding sealed cavities that cannot be filled.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Glisse les formes sur la grille avec la souris ou le doigt.  
+- Selon la version, tu peux faire pivoter les blocs via un bouton ou un tap supplémentaire.  
+- Annule ou recommence une partie via les boutons dédiés.
 
-1.  **[FR]** Edge hygiene: Keep borders smooth to reduce isolated single cells.
-2.  **[FR]** Reserve sockets: Leave a few 2×2 or 3‑cell pockets for common awkward pieces.
-3.  **[FR]** Multi‑line setups: Build toward double/triple clears to refresh space quickly.
-4.  **[FR]** Avoid tall wells: Don’t dig narrow vertical shafts you can’t fill later.
-5.  **[FR]** Piece triage: Place the hardest piece first when the board gets crowded.
-6.  **[FR]** Use previews: If next pieces are visible, plan sequences instead of single moves.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+-   **Q : Je manque toujours de place, comment durer plus longtemps ?**
 
-- Drag shapes onto the grid; rotate if supported by tapping or a rotate button.
-- Undo/Reset are helpful for greedy placements gone wrong.
+    A : Maintiens deux ou trois poches flexibles et vise les multi‑lignes. Quand la grille est saturée, place d’abord la pièce la plus compliquée.
 
-### Frequently Asked Questions (FAQ)
+-   **Q : Vaut‑il mieux garder le centre libre ou combler les bords ?**
 
-- Q: I always run out of space—how can I last longer?
+    A : Laisse le centre « respirer » et range progressivement les bords. Le centre offre plus de solutions pour les pièces exotiques.
 
-A: Focus on multi‑line clears and keep a couple of flexible pockets open. Place your hardest piece first when the grid is tight.
+-   **Q : Je ne peux pas tourner certaines pièces, c’est normal ?**
 
-- Q: Should I keep the board center open or fill edges first?
+    A : Certaines versions interdisent la rotation. Anticipe en créant des poches symétriques et en travaillant avec l’orientation imposée.
 
-A: Keep the center breathable and tidy edges gradually; the center gives the most flexibility for odd shapes.
+-   **Q : Il y a un mode niveaux ou c’est infini ?**
 
-- Q: Rotations feel limited—any workaround?
+    A : La plupart des variantes sont infinies, mais certaines proposent des objectifs par niveau. Dans les deux cas, la gestion du plateau reste l’essentiel.
 
-A: Not all variants allow rotation. Prioritize symmetric placements and leave pockets to accommodate rigid pieces.
+-   **Q : Quand dois‑je utiliser l’annulation ?**
 
-- Q: Are there levels or endless score chase?
-
-A: Many builds are endless; some offer level goals. Either way, board management is the key skill.
-
-- Q: When should I use undo?
-
-A: Undo early when you notice a placement creates sealed cavities or removes your last flexible pocket.
-
+    A : Dès que tu vois qu’un coup crée une cavité scellée ou supprime ta dernière zone flexible. Reviens en arrière avant d’être totalement bloqué.

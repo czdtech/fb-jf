@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: drift-boss
-title: '[ZH TRANSLATION NEEDED] Drift Boss'
+title: "Drift Boss 漂移老板 一键漂移"
 description: >-
-  [ZH TRANSLATION NEEDED] Drift Boss is a one‑button drifting game: time your
-  turns to stay on the track and earn coins for upgrades.
+  《Drift Boss 漂移老板》是一款一键式漂移小游戏。通过按住与松开发动漂移，在悬空赛道
+  上完成每一个转弯，避免掉落，并用金币解锁更稳定的车辆。
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/drift-boss.jpg
 tags:
@@ -16,26 +16,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] One‑button drifting on a floating track: tap/hold to drift at corners, release to straighten, and stay on the platform to bank coins for vehicle upgrades.
+
+《Drift Boss 漂移老板》把漂移操作极简化为“按住”和“松开”两个动作，你只需要在悬空赛道的转
+角处精准把握按键时机，让车辆顺利完成漂移并回正，持续行驶在狭窄的平台上。随着行驶距离的
+增加，道路会越来越窄，还会出现连续 S 弯、凸起和坑洼，稍有迟疑或按错时机就会冲出赛道跌落
+深渊。
 
 ### How to Play
-- Anticipate corner entry; press to start a drift, release to exit.
-- Narrow platforms and bumps require shorter, snappier holds.
-- Coins unlock cars with better traction or stability.
+
+- 看到前方转角时，提前预判入弯时机：在入弯前按下（或按住）漂移键，让车辆朝弯心侧滑；到达
+  合适角度时松开按键，让车辆重新回正直行。  
+- 对于更窄的平台与路面凸起，需要更短、更干脆的按住时间，避免漂移角度过大导致车尾甩出赛
+  道。  
+- 行驶过程中收集金币，用于在商店中解锁更高抓地力、更稳定或更容易控制的车辆。  
 
 ### Controls
-- Mouse/Space/Touch: hold to drift; release to go straight.
+
+- 鼠标/空格/触屏：按住即进入漂移动作，松开则恢复直线行驶，具体按键依托管版本而定。  
 
 ### Tips
-- Look ahead for S‑bends; use micro‑taps instead of long holds.
-- Don’t over‑correct—falling usually comes from late releases.
-- Spend early on stability to survive longer tracks.
+
+- 在看到连续 S 弯时，提前规划“按住-松开-再按住”的节奏，多使用短促的点按，而不是长时间按
+  住不放。  
+- 大多数失误都来自“松手太晚”导致车子冲出赛道，而不是转不过去，所以宁可更早一点松开，再
+  用下一次漂移动作微调路线。  
+- 在前几次游玩中优先使用金币解锁抓地力更好、容错更高的车辆，比一味追求外观更有助于刷出
+  高分。  
 
 ### FAQ
-- Q: Is there braking?  
-[ZH TRANSLATION NEEDED]   A: No manual brake—timed holds manage angle and speed through corners.
-- Q: Do cars handle differently?  
-[ZH TRANSLATION NEEDED]   A: Yes—higher tiers offer grippier or more forgiving drift windows.
-- Q: How to farm coins faster?  
-[ZH TRANSLATION NEEDED]   A: Chain long runs and complete daily/track challenges when present.
 
+- **Q: 游戏里有单独的刹车键吗？**  
+  **A：** 没有传统意义上的刹车，车辆速度与弯道通过完全依靠你“按住”和“松开”的节奏来控制，
+  可以理解为用漂移角度来“变相减速”。  
+
+- **Q: 不同车辆手感差别大吗？**  
+  **A：** 会有明显差异，部分高阶车辆拥有更宽的“安全漂移窗口”，同样的按键节奏下更不容易甩
+  出赛道，使长距离跑图更轻松。  
+
+- **Q: 想更快刷金币有什么建议？**  
+  **A：** 尽量保证一次跑得更远，完成每日或关卡挑战时通常会有额外金币奖励，稳稳跑出长距离
+  往往比频繁短跑更高效。  

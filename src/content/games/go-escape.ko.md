@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: go-escape
-title: '[KO] Go Escape'
+title: "Go Escape 방 탈출 플랫포머"
 description: >-
-  [KO] Go Escape is a precise escape‑platformer — time jumps, read traps, and
-  thread safe routes through compact rooms.
+  작은 방들을 차례로 돌파하는 정밀 점프 플랫포머입니다. 함정 패턴을 읽고
+  점프 타이밍을 맞춰, 좁은 통로와 장애물을 피해 출구까지 도달하세요.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/go-escape.png
 tags:
@@ -18,32 +18,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and timed gates demand crisp inputs and patient reads. Levels are short but punishing; the fun lies in mastering each room’s rhythm, then executing a clean run.
+`Go Escape`는 스파이크, 움직이는 톱날, 타이밍 게이트 등으로 가득한 작은 방들을
+연속으로 돌파하는 미니멀 플랫포머입니다. 조작은 단순하지만, 각 방이 짧고
+가혹하게 설계되어 있어, 방마다 리듬을 익힌 후 한 번에 깔끔하게 클리어하는
+맛이 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** Read cycles: Watch a full trap cycle before committing; move on predictable beats.
-2.  **[KO]** Short hops: Prefer small taps for precision over full presses that overshoot.
-3.  **[KO]** Buffer inputs: If supported, press slightly early to catch platform windows.
-4.  **[KO]** Route safety: Take slower, safer lanes first for consistent clears.
-5.  **[KO]** Checkpoint mindset: Mentally segment rooms; reset focus after each success.
+1. **패턴 먼저 관찰하기**  
+   바로 돌진하기보다는, 함정이 한 사이클 도는 걸 눈으로 먼저 확인하세요.
+   톱날, 왕복 발판, 닫히는 문 등이 언제 움직이는지 파악한 뒤, 일정한 박자에
+   맞춰 움직이면 훨씬 안정적입니다.
 
-### Controls Guide
+2. **짧은 점프 위주로 사용하기**  
+   키를 깊게 눌러 크게 점프하면 오차가 커지기 쉽습니다. 가능한 한 가볍게
+   톡톡 눌러, 필요한 만큼만 높이를 쓰는 것이 좁은 구간을 통과하는 데
+   유리합니다.
 
-- Move/Jump: Arrows/WASD + Space; some levels add wall‑jump/double‑jump.
+3. **입력 버퍼 활용하기**  
+   지원되는 버전이라면, 발판이 막 등장하기 직전에 미리 점프 키를 살짝 눌러
+   두면 자동으로 다음 프레임에 입력이 먹히는 경우가 있습니다. 이런 버퍼
+   타이밍을 이용하면, 아주 좁은 타이밍 창도 안정적으로 통과할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+4. **안전 루트부터 공략하기**  
+   항상 가장 빠른 길이 정답은 아닙니다. 처음에는 조금 돌아가더라도 여유 있는
+   경로를 선택해 클리어 확률을 높이고, 패턴에 익숙해진 뒤에야 공격적인 루트를
+   시도해 보세요.
 
-- Q: I keep clipping traps — how to stop?
+5. **마음속 체크포인트 나누기**  
+   한 방 안에서도 구간을 나눠 “여기까지 오면 한 번 숨 고르기”처럼 스스로
+   체크포인트를 정해 두면, 실수해도 멘탈이 덜 흔들립니다.
 
-A: You’re moving on guesses. Watch cycles, count beats, and move only on consistent windows.
+### 조작 방법
 
-- Q: Any tip for narrow gaps?
+- 이동/점프: 방향키 또는 WASD로 이동하고, 스페이스바로 점프합니다.
+- 일부 레벨에서는 벽 점프나 2단 점프 같은 추가 기믹이 등장할 수 있습니다.
 
-A: Use lightweight taps and approach from flatter angles.
+### 자주 묻는 질문(FAQ)
 
-- Q: Is there a timer?
+- Q: 함정에 살짝만 스쳐도 계속 죽습니다. 어떻게 줄일 수 있을까요?  
+  A: 패턴을 충분히 관찰하지 않고 감으로 움직이고 있을 가능성이 큽니다.
+  사이클을 몇 번 더 지켜보고, 비트 수를 세면서 항상 같은 타이밍에
+  움직이도록 연습해 보세요.
 
-A: Many rooms are untimed; consistency beats speedruns until you learn layouts.
+- Q: 좁은 틈을 통과하는 요령이 있나요?  
+  A: 점프 버튼을 아주 가볍게 눌러 낮은 궤적을 만든 뒤, 가능한 한 평평한
+  각도로 접근하는 것이 좋습니다.
+
+- Q: 시간 제한이 있나요?  
+  A: 많은 방에는 타이머가 없으며, 레이싱보다는 안정적인 클리어가 더 중요합니다.
+  레이아웃을 완전히 익힐 때까지는 속도보다 성공률에 집중하세요.

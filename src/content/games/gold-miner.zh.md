@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: gold-miner
-title: '[ZH TRANSLATION NEEDED] Gold Miner'
+title: "Gold Miner 黃金礦工"
 description: >-
-  [ZH TRANSLATION NEEDED] Hook‑and‑haul arcade classic: time your claw to snag
-  gold and gems, buy power‑ups, and reach the target cash before time runs out.
+  經典鉤爪拉礦街機遊戲：抓準時機放下鉤爪，勾住地下的金塊與寶石，
+  在時間結束前達成關卡目標金額，並用道具輔助通關。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/gold-miner.jpg
 tags:
@@ -17,26 +17,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Gold Miner is a timing‑based arcade game where a swinging claw drops on command to latch onto underground objects. Large gold chunks are heavy but lucrative; rocks are cheap and slow you down; diamonds are light and valuable. Each level has a cash target under a time limit, and a shop offers dynamite, strength drinks, and lucky clovers for tougher stages.
+
+《Gold Miner》是一款講究「放鉤時機」的老派街機遊戲。畫面上方的鉤爪會來回擺動，
+你可以在任意時刻按鍵讓鉤爪往下伸，鉤住地下的物品後再慢慢拉回來。大顆金塊雖然又重又慢，
+但價值可觀；石頭又重又便宜，最好避開；鑽石則輕而且高價，是理想目標。
+每一關都在限定時間內設定了金錢目標，關卡之間可以用累積資金購買炸藥、力量藥水、幸運草等道具。
 
 ### How to Play
-- Trigger the claw when its arc aligns with your target.
-- Prioritize large gold early; use dynamite to ditch unwanted rocks.
-- Purchase upgrades between rounds to meet higher goals.
+
+- 當鉤爪擺動到目標物上方時按下按鍵放鉤，勾中後就會自動往上拉。
+- 前期以大金塊與鑽石為優先目標，若不小心勾到石頭，可以利用炸藥快速丟掉。
+- 關卡之間前往商店，購買下一關會用到的強化與特殊道具，幫助你達成更高的金額目標。
 
 ### Controls
-- One key/click to drop claw; additional keys for items (host dependent).
+
+- 使用單一按鍵或滑鼠點擊即可放下鉤爪；
+- 使用道具（如炸藥等）則依託管版本配置額外按鍵。
 
 ### Tips
-- Learn arc timing—release slightly before the object’s center.
-- Save dynamite for big rocks that waste time.
-- Diamonds and mystery bags are high ROI; adjust targets by layout.
+
+- 熟悉鉤爪擺動弧線與速度，在物體中心稍早一點放鉤會比較容易命中。
+- 把炸藥留給特別大顆、又不值錢的石頭，避免浪費太多時間。
+- 鑽石與神祕寶袋通常投資報酬率最高，可視地形調整優先目標。
 
 ### FAQ
-- Q: How do I reach high targets on late levels?  
-[ZH TRANSLATION NEEDED]   A: Buy strength and bombs, and focus on diamond routes.
-- Q: Does dynamite refund time on rocks?  
-[ZH TRANSLATION NEEDED]   A: It cancels the haul, letting you resume faster.
-- Q: Are layouts random each run?  
-[ZH TRANSLATION NEEDED]   A: Many versions randomize objects within difficulty bounds.
 
+- 問：後面關卡的金額目標很高，要怎麼達成？  
+  答：建議優先購買力量藥水與炸藥，並以鑽石路線為主，讓每次放鉤都盡量抓高價目標。
+
+- 問：炸藥炸掉石頭會退回時間嗎？  
+  答：不會回復時間，但能立即中止慢吞吞的拉取過程，
+  讓鉤爪立刻回到原位準備下一次放鉤，間接節省大量時間。
+
+- 問：每次物品配置都一樣嗎？  
+  答：視版本不同，多數會在一定難度範圍內做隨機配置，
+  但大型高價物與障礙物大致分布仍有規律可循。

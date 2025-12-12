@@ -1,12 +1,10 @@
 ---
 locale: ko
 urlstr: soccer-random
-title: '[KO] Soccer Random'
+title: Soccer Random 사커 랜덤
 description: >-
-  [KO] Experience soccer like never before in Soccer Random! This hilarious,
-  physics-based game uses a simple one-button control to make your players jump
-  and kick. Adapt to ever-changing fields, balls, and players as you compete
-  against a friend or the CPU to be the first to score five goals.
+  Soccer Random는 단 하나의 버튼만으로 점프와 슛을 수행하는 물리 기반 축구 게임으로, 매 골마다 경기장, 공, 선수 모습이
+  랜덤으로 바뀌는 혼돈의 풋볼 파티입니다. 먼저 5골을 넣는 쪽이 승리합니다.
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/soccer-random.jpg
@@ -20,33 +18,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Soccer Random is a chaotic and hilarious physics-based soccer game with a minimalist one-button control scheme. The objective is simple: score five goals before your opponent. The "random" part of the title comes from the fact that everything, from the type of ball and the player characters to the playing field itself, can change after every goal, forcing you to constantly adapt.
+*Soccer Random*는 물리 엔진으로 움직이는 선수들을 한 키만으로 조종하는 카오스 축구 게임입니다.
+목표는 단순합니다. 상대보다 먼저 5골을 넣으면 승리합니다. 매 골이 들어갈 때마다 공의 크기,
+선수의 모습, 경기장 타입(얼음, 해변 등)이 랜덤으로 바뀌기 때문에, 매 판이 완전히 다른 느낌으로
+진행됩니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-The first player or team to score 5 goals wins the match. All you can do is make your two players jump and kick at the same time. The challenge comes from the wacky physics and the unpredictable nature of the game. You might be playing on an icy field one moment and a beach the next. Use the single button to time your jumps perfectly to both attack the ball and defend your goal.
+- **승리 조건:** 먼저 5골을 넣는 플레이어/팀이 승리합니다.
+- **조작:** 할 수 있는 행동은 키를 눌러 두 명의 선수를 동시에 점프·킥하게 만드는 것뿐입니다.
+  예상 밖의 물리 덕분에 공이 어디로 튈지 예측하기 어렵지만, 타이밍을 잘 맞추면 멋진 슛과
+  블로킹이 가능합니다.
+- **랜덤 환경:** 한 라운드에서는 얼어붙은 그라운드, 다른 라운드에서는 모래사장 등 매번 다른
+  환경에서 경기를 하게 되어, 항상 새로운 패턴을 배우게 됩니다.
 
-### Controls Guide
+### 조작 방법
 
-The game is designed for simplicity and can be played by one or two players on the same keyboard.
-- **Player 1:** `W` Key
-- **Player 2:** `Up Arrow` Key
+- **플레이어 1:** `W` 키
+- **플레이어 2:** `위쪽 방향키`
+
+각자의 키를 눌러 두 명의 선수가 동시에 점프·킥을 하게 됩니다.
+
 
 Press your key to make your players jump and kick.
 
-### Frequently Asked Questions (FAQ)
+- **Player 2:** `Up Arrow` Key
 
-**What is the goal of Soccer Random?**
+- **Player 1:** `W` Key
 
-The main goal is to be the first to score 5 goals against your opponent.
+Press your key to make your players jump and kick.
+### 자주 묻는 질문(FAQ)
 
-**How many players can play?**
+**Q: Soccer Random의 목표는 무엇인가요?**  
+> 상대를 상대로 먼저 5골을 넣어 승리하는 것입니다.
 
-Soccer Random can be played solo against a computer opponent or with a friend in 2-player mode on the same device.
+**Q: 몇 명까지 플레이할 수 있나요?**  
+> CPU와 1인 플레이도 가능하지만, 한 키보드를 함께 사용하는 2인 플레이 모드가 이 게임의
+> 핵심입니다.
 
-**Why does the game keep changing?**
-
-That's the core feature of the game! The randomness of the fields, players, and balls after each goal ensures that no two matches are ever the same and keeps the gameplay funny and unpredictable.
-
+**Q: 왜 경기 환경이 계속 바뀌나요?**  
+> 이 게임의 제목처럼, 경기장·선수·공이 골이 들어갈 때마다 무작위로 변경되도록 설계되어
+> 있어, 같은 경기라도 매번 다른 상황을 경험하게 됩니다.

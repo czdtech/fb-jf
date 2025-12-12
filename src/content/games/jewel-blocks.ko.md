@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: jewel-blocks
-title: '[KO] Jewel Blocks'
+title: Jewel Blocks 보석 블록 퍼즐
 description: >-
-  [KO] A captivating puzzle game of strategy and spatial awareness. Drag and
-  drop jewel-themed blocks onto the grid to create and clear full lines, but
-  plan carefully—no rotations allowed!
+  회전 없이 주어진 블록만으로 줄을 채워 지우는 퍼즐 게임 'Jewel Blocks' 가이드입니다. 10x10 보드에서 공간을 효율적으로
+  사용하는 전략과 고득점 팁을 정리했습니다.
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
 thumbnail: /new-images/jewel-blocks.png
 tags:
@@ -18,33 +17,68 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Jewel Blocks*는 겉보기에는 단순하지만, 생각보다 깊이가 있는
+공간 배치 퍼즐 게임입니다. 목표는 10x10 보드 위에 다양한
+모양의 보석 블록을 배치해, 가로 또는 세로 한 줄을 꽉 채워
+지우면서 가능한 한 높은 점수를 획득하는 것입니다.
 
-Jewel Blocks is a deceptively simple yet highly addictive puzzle game that challenges your spatial planning skills. The objective is to score as many points as possible by fitting various jewel-themed block shapes onto a 10x10 grid. When you form a complete line of blocks, either horizontally or vertically, the line is cleared from the board. The main challenge lies in the fact that the blocks cannot be rotated, so you must think carefully about placement to keep the board from filling up.
+블록은 **회전이 불가능**하기 때문에, 어디에 어떤 모양을 남겨 둘지
+미리 생각하며 배치해야 합니다. 무심코 놓다 보면 금세 배치할 곳이
+사라져 게임이 끝나 버립니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Plan Ahead:** You are presented with three block shapes at a time. Before placing the first one, consider how all three might fit on the board. Don't just focus on the immediate placement; think about the space you are leaving for future pieces.
-2.  **[KO]** **Aim for Combos:** Clearing a single line is good, but clearing multiple lines with a single piece (a "combo") awards significantly more points. Always look for opportunities to complete two or more lines at once.
-3.  **[KO]** **Keep the Board Open:** Avoid creating single, isolated empty squares, as these can be very difficult to fill. Try to keep your board as open and flexible as possible to accommodate a wide variety of shapes.
-4.  **[KO]** **Don't Rush:** There is no time limit. Take your time to analyze the pieces and the board to find the optimal placement for each block.
+1. **세 개의 블록을 동시에 고려하기**  
+   항상 아래에 제시된 세 개의 블록을 한 세트로 보고,
+   첫 번째 블록을 놓기 전에 세 개 모두를 보드 어딘가에
+   배치할 수 있을지 생각해 보세요.
 
-### Controls Guide
+2. **콤보 노리기**  
+   한 줄만 지우는 것보다, 한 번의 배치로 두 줄 이상을 동시에
+   지우면 훨씬 많은 점수를 얻습니다. 한 번에 여러 줄이
+   완성되도록 블록을 쌓는 패턴을 염두에 두면 고득점에 유리합니다.
 
-The game is played with a simple drag-and-drop mechanic.
+3. **보드를 넓게 유지하기**  
+   한 칸짜리 구멍이나 기묘한 모양의 빈칸은 나중에 채우기 매우
+   어렵습니다. 최대한 넓고 매끄러운 공간을 유지해, 다양한
+   모양의 블록을 수용할 수 있게 만드는 것이 중요합니다.
 
-*   **[KO]** **Select and Place:** Use your mouse or finger to click and drag one of the three available block shapes from the bottom of the screen onto the 10x10 grid.
-*   **[KO]** **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
+4. **서두르지 않기**  
+   시간 제한이 없으므로, 서둘러 놓기보다는 한 수 한 수
+   신중하게 두는 것이 좋습니다. 특히 게임 후반에는 배치
+   하나가 승패를 좌우하기 쉽습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: How do I rotate the blocks?**
-    *   **[KO]** **A:** You cannot rotate the blocks. This is a core rule and the main challenge of the game. You must use the shapes exactly as they are given.
+드래그 앤 드롭만 알면 쉽게 플레이할 수 있습니다.
 
-*   **[KO]** **Q: How does the game end?**
-    *   **[KO]** **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
+- **선택 및 배치**: 화면 하단에 놓인 세 개의 블록 중 하나를
+  마우스나 손가락으로 드래그해 10x10 보드 위의 빈칸에
+  옮겨 놓습니다.  
+- **드롭**: 버튼이나 손가락을 떼면 블록이 해당 위치에
+  고정됩니다. 한 번 놓인 블록은 다시 움직일 수 없습니다.
 
-*   **[KO]** **Q: What is the best strategy for a high score?**
-    *   **[KO]** **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
+### 자주 묻는 질문(FAQ)
+
+- **Q: 블록을 회전하고 싶은데, 방법이 없나요?**  
+  **A:** 없습니다. 블록 회전 불가가 이 게임의 핵심 규칙이자
+  난이도 요소입니다. 주어진 모양 그대로 사용할 수밖에 없기 때문에,
+  배치 전략이 더욱 중요해집니다.
+
+    - **Q: 게임은 언제 끝나나요?**  
+  **A:** 새로운 세트의 세 블록 중 단 하나도 보드에 배치할 수
+  없는 순간 게임이 종료됩니다.
+
+- **Q: 고득점을 노릴 때 가장 중요한 점은 무엇인가요?**  
+
+    - **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
+
+- **Q: What is the best strategy for a high score?**
+
+    - **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
+  **A:** 최대한 오래 버티는 것과, 여러 줄을 동시에 지우는 콤보를
+  자주 만드는 것입니다. 예를 들어, 두 줄을 따로따로 지우는 것보다
+  한 번에 두 줄을 지우는 편이 점수가 더 높습니다.
 

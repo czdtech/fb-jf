@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: endless-lake
-title: '[DE] Endless Lake'
+title: Endless Lake
 description: >-
-  [DE] How far can you run? Test your reflexes in this minimalist endless
-  runner. Tap to jump once, or tap again in mid-air for a double jump to cross
-  the treacherous gaps of the Endless Lake.
+  Wie weit kannst du laufen? Endless Lake ist ein minimalistischer Endless
+  Runner, in dem du mit einfachen Einzel- und Doppelsprüngen die tückischen
+  Lücken über einem endlosen See überquerst.
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
 thumbnail: /new-images/endless-lake.png
 tags:
@@ -16,35 +16,59 @@ score: 4.2/5  (1900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Endless Lake ist ein minimalistischer, aber fordernder Endless Runner, der dein
+Timing und deine Reflexe testet. Deine Figur rennt über eine Reihe von
+Plattformen, die über einem ruhigen See schweben. Das Gameplay konzentriert
+sich auf eine Mechanik: den Sprung. Mit präzisem Timing bei Einzel- und
+Doppelsprüngen überwindest du immer neue Abstände und versuchst, so weit wie
+möglich zu kommen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Doppelsprung meistern:** Die wichtigste Fähigkeit ist der Doppelsprung.
+   Einmal tippen erzeugt einen kurzen Hüpfer, ein zweites Tippen in der Luft
+   bringt dich über breite Lücken. Lerne Gefühl und Reichweite beider
+   Sprunghöhen.
+2. **Rhythmus finden:** Das Spiel hat einen klaren Laufrhythmus. Versuche, in
+   einen Flow zu kommen, statt jeden Sprung isoliert zu sehen. Wenn die
+   Geschwindigkeit zunimmt, werden Reaktionszeiten kürzer, ein stabiler Rhythmus
+   hilft dir aber, konzentriert zu bleiben.
+3. **Doppelsprünge nicht verschwenden:** Nutze den Doppelsprung nicht bei
+   kurzen Abständen – so bringst du dein Timing für die nächste Lücke aus dem
+   Takt. Hebe ihn für Situationen auf, in denen er wirklich nötig ist.
+4. **Vorausschauend schauen:** Richte deinen Blick ein paar Plattformen nach
+   vorne, um früh zu erkennen, ob als Nächstes ein Einzel- oder Doppelsprung
+   nötig ist.
 
-Endless Lake is a minimalist and challenging endless runner that tests your timing and reflexes. You control a character running across a series of platforms suspended over a tranquil lake. The gameplay is focused on one simple mechanic: jumping. You must perfectly time your single and double jumps to navigate the ever-changing gaps between platforms and see how far you can go.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+Das Spiel verwendet eine einfache One-Touch-Steuerung.
 
-1.  **[DE]** **Master the Double Jump:** The most crucial skill in the game is the double jump. Tapping once gives you a short hop, but tapping a second time while in mid-air gives you an extra boost to cross wider gaps. Learning the feel and distance of both jump types is essential.
-2.  **[DE]** **Find Your Rhythm:** The game has a distinct rhythm. Try to get into a flow with your jumps. As the speed increases, your reaction time will need to get shorter, but a steady rhythm can help you stay focused.
-3.  **[DE]** **Don't Double Jump Unnecessarily:** A common mistake is to use a double jump for a short gap. This can mess up your timing and positioning for the next jump. Only use the double jump when it's absolutely necessary.
-4.  **[DE]** **Look Ahead:** Keep your eyes focused a few platforms ahead of your character. This will give you more time to recognize whether the next gap requires a single or a double jump.
+- **Einzelsprung:** Klicke einmal mit der linken Maustaste oder tippe kurz auf
+  den Bildschirm.
+- **Doppelsprung:** Starte erst einen Sprung und tippe dann ein zweites Mal,
+  während die Figur in der Luft ist.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game uses a simple one-touch control system.
+- **F: Was ist das Ziel des Spiels?**  
+  **A:** So weit wie möglich zu laufen, ohne in den See zu fallen. Deine
+  Punktzahl richtet sich nach der zurückgelegten Distanz.
 
-*   **[DE]** **Single Jump:** Click the left mouse button or tap the screen once.
-*   **[DE]** **Double Jump:** Tap or click once to initiate a jump, then tap or click a second time while your character is in the air.
+    - **F: Woran erkenne ich, wann ein Doppelsprung nötig ist?**  
+  **A:** Du musst die Lückengröße visuell einschätzen – weite Abstände verlangen
+  einen Doppelsprung, kurze kannst du mit einem einfachen Hopser schaffen. Genau
+  diese Einschätzung macht den Kern der Herausforderung aus.
 
-### Frequently Asked Questions (FAQ)
+- **F: Was hat es mit den Spiegelportalen auf sich?**  
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To run as far as possible without falling into the lake. Your score is based on the distance you travel.
+    - **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
 
-*   **[DE]** **Q: How do I know when to use a double jump?**
-    *   **[DE]** **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
+- **Q: What are the mirror doors?**
 
-*   **[DE]** **Q: What are the mirror doors?**
-    *   **[DE]** **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
-
+    - **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
+  **A:** Wenn du sie durchquerst, tauchen häufig Klone deiner Figur auf. Dann
+  steuerst du mehrere Runner gleichzeitig – ein reiner, aber spaßiger
+  visueller Effekt, der den Run chaotischer wirken lässt.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: block-champ
-title: '[KO] Block Champ'
+title: 'Block Champ 블록 챔프'
 description: >-
-  [KO] Challenge your strategic mind with Block Champ, a 10x10 grid puzzle game.
-  Place shapes to clear lines, master special lightning and ice blocks, and aim
-  for the highest score in this engaging brain-teaser.
+  10×10 보드에서 블록을 배치해 줄을 지우는 퍼즐 게임입니다. 번개 블록과 얼음
+  블록 등 특수 타일을 활용해 공간을 관리하며 최고 점수를 노려 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/block-champ.jpg
 tags:
@@ -15,51 +14,47 @@ score: 4.6/5  (926 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Block Champ는 10×10 격자 위에서 진행되는 전략 블록 퍼즐 게임입니다. 다양한 블록을 배치해 가로줄 또는 세로줄을 가득 채우면 줄이 사라지고 점수를 획득합니다.
 
+한 번에 세 개의 블록 세트를 제공받으며, 현재 보드 어디에도 그 세 블록을 둘 수 없는 순간 게임이 종료됩니다. 따라서 공간 관리와 순서 계획이 매우 중요합니다.
 
-### Game Introduction
+이 게임을 차별화하는 요소는 두 가지 특수 블록입니다:
+-   **번개 블록(Lightning):** 일부 블록의 특정 칸에 번개 아이콘이 표시됩니다. 해당 칸이 포함된 줄을 지우면 번개가 발동해 그 칸과 직각 방향의 줄까지 통째로 정리합니다.
+-   **얼음 블록(Ice):** 장애물처럼 등장하며 같은 줄을 두 번 지워야 완전히 제거됩니다. 첫 번째 청소로 얼음이 깨지고, 두 번째 청소에서 비로소 칸이 비워집니다.
 
-Block Champ is a strategic puzzle game played on a 10x10 grid. It combines the line-clearing mechanics of classic block puzzle games with unique special blocks to create a more dynamic challenge. The objective is to score as many points as possible by strategically placing a variety of given block shapes onto the grid.
+고득점을 위해서는 선견지명과 깔끔한 공간 관리가 필수입니다.
 
-When a complete horizontal or vertical line is formed, that line is cleared from the board, freeing up space. The game provides the player with three block shapes at a time. The game ends when none of the three currently available shapes can be placed on the grid.
+### 플레이 전략
 
-What sets Block Champ apart are its special blocks:
--   **Lightning Blocks:** Some pieces will have a lightning bolt icon on one of their squares. When the line (row or column) containing this specific square is cleared, the lightning bolt activates and clears the entire perpendicular line as well.
--   **Ice Blocks:** These appear on the board as obstacles. To remove an ice block, you must clear the line it is in twice. The first clear breaks the ice, revealing a normal block underneath. The second clear removes the block and the space.
+-   **홀(1칸 구멍)을 만들지 않기:** 1×1 빈칸은 채우기 어렵기 때문에 항상 평평하고 넓은 형태를 유지하세요.
+-   **큰 조각부터 처리:** 3×3 정사각형이나 5칸 직선처럼 크고 어정쩡한 조각은 기회가 보일 때 즉시 사용해 두어야 합니다.
+-   **콤보(줄+줄)를 노리기:** 가로와 세로를 동시에 지울 수 있는 자리를 찾으면 점수와 공간을 한 번에 확보할 수 있습니다.
+-   **번개 블록 전략적 배치:** 정리하기 까다로운 줄에 번개 칸을 두어, 발동 시 교차하는 줄까지 통째로 청소하도록 활용하세요.
+-   **얼음 블록 우선 정리:** 얼음은 두 번의 청소가 필요하므로 빠르게 처리하지 않으면 보드를 막습니다. 해당 줄을 집중적으로 지워 주세요.
+-   **항상 세 블록을 모두 고려:** 한 조각만 보고 두지 말고, 나머지 두 블록까지 고려해 다음 수를 준비하는 편이 훨씬 안정적입니다.
 
-The game requires foresight and careful space management to achieve a high score.
+### 조작 방법
 
-### Gameplay Strategy
+마우스와 터치를 모두 지원하는 직관적인 드래그 앤드 드롭 방식입니다.
 
--   **Keep Your Options Open:** Avoid creating single, isolated empty squares. These "holes" are very difficult to fill, as you must wait for a 1x1 block, which is rare. Try to keep the board as flat and open as possible.
--   **Use Large Pieces First:** When you are given large, awkward pieces (like the 3x3 square or the 5-block straight line), try to place them as soon as a good opportunity arises. Hoarding them will quickly lead to a situation where they no longer fit.
--   **Plan for Combos:** Always look for opportunities to clear a row and a column simultaneously with a single piece. This not only scores more points but is also much more efficient at clearing space.
--   **Strategic Use of Lightning Blocks:** A lightning block is a powerful tool. Don't just place it anywhere. If you have a lightning block that clears a column, try placing it in a column that is messy and difficult to complete normally. This can save you from a tight spot.
--   **Prioritize Clearing Ice Blocks:** Ice blocks are a major threat because they clog up the board and require double the effort to remove. Make it your top priority to clear the lines they occupy. Letting them accumulate can quickly end your game.
--   **Think in Threes:** Always consider all three pieces available to you before making a move. Sometimes the best move isn't placing the easiest piece, but placing one piece in a way that sets up perfect spots for the other two.
+-   **블록 선택:** 화면 하단의 세 블록 중 원하는 조각을 클릭/터치한 채로 잡습니다.
+-   **이동 및 배치:** 잡은 블록을 10×10 보드 위로 끌어올리면, 둘 수 있는 칸이 하이라이트됩니다.
+-   **놓기 확정:** 위치가 마음에 들면 마우스 버튼이나 손가락을 떼어 블록을 고정합니다.
 
-### Controls Guide
+**중요:** 블록은 회전할 수 없으므로 주어진 방향대로 배치해야 합니다.
 
-The game features very simple drag-and-drop controls, suitable for both mouse and touch devices.
+### 자주 묻는 질문 (FAQ)
 
--   **Select a Piece:** Click and hold (or tap and hold) one of the three available block shapes at the bottom of the screen.
--   **Place the Piece:** Drag the selected shape onto the 10x10 grid. If the placement is valid, the squares will be highlighted.
--   **Confirm Placement:** Release the mouse button (or lift your finger) to drop the piece into the highlighted position.
+**1. 블록을 회전할 수 있나요?**  
+> 아니요. Block Champ에서는 회전 기능이 없으므로, 주어진 형태 그대로 맞는 자리를 확보해야 합니다.
 
-**Important Note:** The pieces cannot be rotated. You must use them in the orientation they are given.
+**2. 번개 블록은 어떻게 작동하나요?**  
+> 번개 아이콘이 있는 칸이 포함된 줄을 지우면 그 칸이 있는 줄과 직각 방향의 줄을 동시에 정리합니다. 한 번의 플레이로 십자 형태의 청소가 이뤄지는 셈입니다.
 
-### Frequently Asked Questions (FAQ)
+**3. 얼음 블록은 어떻게 제거하나요?**  
+> 얼음이 있는 줄을 두 번 연속으로 지워야 합니다. 첫 번째 청소는 얼음만 깨고, 두 번째 청소에서야 칸이 비워집니다.
 
-**1. Can I rotate the blocks?**
-> No, rotation is not a feature in Block Champ. This is a core part of the challenge, forcing you to work with the shapes exactly as they are presented.
-
-**2. What do the lightning bolts do exactly?**
-> A lightning bolt is on a single square within a larger piece. When you complete the line (row OR column) that this specific square is in, the lightning activates. If you completed a row, it will clear the entire column it was in. If you completed a column, it will clear the entire row it was in.
-
-**3. How do I get rid of the frozen or ice blocks?**
-> You must clear the line containing the ice block two times. The first time you complete the line, the ice will break, but the block underneath remains. The second time you complete that same line, the block will be removed like any normal clear.
-
-**4. Why did the game end even though I have space on the board?**
-> The game ends when there is no valid position on the board for ANY of the three pieces you are currently holding. Even if the board looks mostly empty, if none of your specific shapes can fit into the available gaps, the game is over.
-
+**4. 보드에 공간이 남았는데 게임이 끝나는 이유는 무엇인가요?**  
+> 현재 보유 중인 세 블록 중 어떤 것도 배치할 수 없으면 패배 조건이 충족됩니다. 겉보기에는 빈칸이 있어 보여도, 모양이 맞지 않으면 게임이 종료됩니다.

@@ -1,8 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-downtown-simulator
-title: '[ES] Incredibox Downtown Simulator'
-description: '[ES] A new Incredibox mod to discover. More details coming soon.'
+title: "Incredibox Downtown Simulator"
+description: >-
+  Un nuevo mod de Incredibox para descubrir: Downtown Simulator combina un
+  entorno urbano moderno con una rejilla de 20 sonidos para crear loops
+  hip-hop y electrónicos en formato "simulador".
 iframeSrc: 'https://turbowarp.org/949700724/embed'
 thumbnail: /new-images/incredibox-downtown-simulator.png
 tags:
@@ -14,33 +17,59 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **Introducción a Incredibox "Downtown" (Simulator Mod)**
 
-### **Incredibox "Downtown" (Simulator Mod) Game Introduction**
+*Incredibox Downtown* es un mod fan‑made muy popular y pulido que forma parte de
+la serie de mods tipo **"Simulator"**. Esta versión se distingue por una interfaz
+y mecánicas de juego que se apartan de la fórmula clásica de Incredibox. En vez
+ de arrastrar iconos sobre un grupo de personajes, interactúas con una **rejilla
+ de 20 iconos de sonido**.
 
-*Incredibox Downtown* is a popular and high-quality fan-made game belonging to the **"Simulator" series of mods**. This version distinguishes itself with a unique user interface and gameplay mechanic that differs from the official Incredibox series. Instead of dragging icons onto a crew of characters, players interact with a **grid of 20 sound icons**.
+El juego está ambientado en un **centro urbano moderno**, con una paleta sonora
+inspirada en el hip‑hop, la cultura de calle y la música electrónica. Tu objetivo
+es crear un loop musical activando y desactivando iconos de la rejilla.
 
-The game is themed around a modern, urban **downtown** setting, with a sound palette inspired by hip-hop, street culture, and electronic music. The objective is to create a musical loop by clicking on the various icons to activate or deactivate them. 
+Este formato "Simulator" ofrece una experiencia creativa distinta: se centra en
+la combinación directa de sonidos en una cuadrícula, en lugar de asignarlos a
+intérpretes individuales.
 
-This "Simulator" format offers a different creative experience, focusing on the direct combination of sounds in a grid-based interface, rather than assigning sounds to individual performers.
+### **Estrategia de juego y consejos**
 
-### **Gameplay Strategy & Tips**
+1.  **Comprende la rejilla:** Los 20 sonidos se presentan en una misma cuadrícula.
+    Aunque la interfaz no los separe en categorías, siguen cumpliendo roles de
+    **Beats, Effects, Melodies y Voices**. Experimenta haciendo clic en distintos
+    iconos para entender su función. Las filas superiores suelen contener beats
+    y efectos base; las inferiores, melodías y voces más complejas.
+2.  **Superpone sonidos con método:** El núcleo del juego es la
+    superposición. Empieza activando uno o dos beats para fijar el ritmo. Luego
+    añade una línea de bajo o un efecto atmosférico. Ve construyendo la pista
+    capa a capa hasta conseguir un loop cohesivo.
+3.  **Llena la barra de LOOP:** Tu objetivo principal es llenar la barra de
+    "LOOP" en la parte superior. Normalmente se va llenando a medida que
+    activas más sonidos. En algunos mods tipo simulator, ciertas combinaciones
+    hacen que la barra suba más rápido, premiando la experimentación.
+4.  **Escucha la armonía:** No está pensado para que suenen los 20 sonidos a la
+    vez. Activa y desactiva iconos para encontrar combinaciones que suenen bien.
+    La gracia está en crear tu mezcla única, ya sea un beat limpio y sencillo o
+    una textura urbana compleja.
+5.  **Aprovecha los controles:**
+    *   **Play/Pause:** El botón de reproducción controla todo el loop.
+    *   **Reset:** El botón de reinicio/barajado sirve para limpiar la rejilla y
+        empezar de cero.
+    *   **Record:** Usa la función de grabación para guardar y compartir los
+        loops de los que te sientas más orgulloso.
 
-1.  **[ES]** **Understand the Grid**: All 20 sounds are presented in a single grid. While they are not color-coded into distinct categories in the UI, they still function as **Beats, Effects, Melodies, and Voices**. Experiment by clicking different icons to understand their roles. The top rows often contain foundational beats and effects, while the bottom rows feature more complex melodies and vocals.
-2.  **[ES]** **Layer Sounds Methodically**: The core of the gameplay is layering. Start by clicking one or two beat icons to establish a rhythm. Then, add a bassline or an atmospheric effect. Build your track layer by layer until you have a full, cohesive loop.
-3.  **[ES]** **Fill the Loop Bar**: Your primary goal is to fill the "LOOP" progress bar at the top of the screen. This bar typically fills up as you activate more sounds. In some simulator mods, finding specific combinations of sounds can cause the bar to fill up faster, rewarding experimentation.
-4.  **[ES]** **Listen for Harmony**: Not all 20 sounds are designed to be played at once. Click icons on and off to find combinations that sound good together. The fun comes from creating your own unique mix, whether it's a simple, clean beat or a complex, multi-layered track.
-5.  **[ES]** **Use the Controls**:
-    *   **[ES]** **Play/Pause**: The play button allows you to start and stop the entire composition.
-    *   **[ES]** **Reset**: The reset/shuffle button is perfect for clearing the board and starting a fresh mix.
-    *   **[ES]** **Record**: Use the record function to save and share the loops you are proud of.
+### **Guía de controles**
 
-### **Controls Guide**
+Aquí está la gran diferencia frente al Incredibox clásico: todo se controla con
+clics.
 
-This is the key difference from standard Incredibox. The game is controlled entirely by mouse clicks.
-
-*   **[ES]** **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will be highlighted or change color, and its sound will be added to the loop. Clicking it again will deactivate it.
-*   **[ES]** **Combine Sounds**: You can click and activate as many sounds as you wish simultaneously to create your mix.
-*   **[ES]** **Main Controls (Top Left)**:
-    *   **[ES]** **Play Button**: Toggles the entire loop on or off.
-    *   **[ES]** **Record Button**: Starts and stops the recording of your mix.
-    *   **[ES]** **Reset Button**: Clears all active sounds from the grid.
+*   **Activar / desactivar sonido:** **Haz clic** en cualquiera de los 20 iconos
+    de la rejilla. Un icono activo se resalta o cambia de color y su sonido se
+    añade al loop. Vuelve a hacer clic para silenciarlo.
+*   **Combinar sonidos:** Puedes activar tantos iconos como quieras al mismo
+    tiempo para construir tu mezcla.
+*   **Controles principales (arriba a la izquierda):**
+    *   **Play:** activa o detiene todo el loop.
+    *   **Record:** inicia o detiene la grabación de tu sesión.
+    *   **Reset:** limpia todos los sonidos activos de la rejilla.

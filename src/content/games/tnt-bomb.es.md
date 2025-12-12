@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: tnt-bomb
-title: '[ES] TNT Bomb'
+title: TNT Bomb - Rompecabezas de demolición
 description: >-
-  [ES] A physics-based puzzle of strategic demolition! Place your limited
-  explosives, including dynamite and powerful bombs, to completely destroy the
-  structures on each level.
+  Un rompecabezas de demolición basado en físicas. Coloca de forma estratégica
+  tu limitado arsenal de explosivos, desde dinamita hasta bombas potentes, para
+  derribar por completo las estructuras de cada nivel.
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/tnt-bomb.jpg
@@ -17,34 +17,30 @@ score: 4.3/5  (2200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+TNT Bomb es un rompecabezas estratégico basado en físicas en el que tu objetivo es la demolición total. En cada nivel te enfrentas a una estructura y a un inventario limitado de explosivos. Debes colocar las cargas en los puntos clave para causar el máximo daño posible. Identificando soportes, puntos débiles y el tipo de bomba adecuado, intentarás reducir la construcción a escombros para pasar al siguiente desafío.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  Analiza la estructura: antes de poner ninguna bomba, estudia el diseño. Busca columnas clave, vigas de soporte y bloques que sostengan la mayor parte del peso.
+2.  Ataca la base: la estrategia más efectiva suele ser destruir los cimientos. Coloca tus explosivos más potentes en los bloques inferiores que mantienen todo en pie para provocar un colapso general.
+3.  Conoce tus explosivos: dispones de distintos tipos de bombas. La dinamita estándar sirve para un bloque concreto; cargas mayores tienen un radio de explosión mucho más amplio. Usa cada tipo donde mejor rinda.
+4.  Cadenas de reacción: piensa cómo se propagará la explosión. Una bomba que hace caer una parte de la estructura sobre otra puede desencadenar una reacción en cadena mucho más destructiva.
 
-TNT Bomb is a strategic, physics-based puzzle game where your objective is demolition. In each level, you are presented with a structure and a limited inventory of explosives. Your task is to carefully place your bombs on the structure in a way that will cause the most damage. By identifying key support points and using the right bomb for the job, you must try to obliterate the entire structure to move on to the next challenge.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+*   **Elegir bomba:** haz clic en el tipo de explosivo que quieras usar desde tu inventario.
+*   **Colocar bomba:** haz clic en el bloque de la estructura donde quieras colocarla.
+*   **Detonar:** cuando hayas usado todas las bombas disponibles, pulsa el botón de "Boom" o "Detonar" y observa el resultado.
 
-1.  **[ES]** **Analyze the Structure:** Before placing any bombs, examine the structure's design. Look for weak points, key support beams, and load-bearing blocks at the base.
-2.  **[ES]** **Target the Foundation:** The most effective strategy is almost always to destroy the foundation. Placing your most powerful explosives on the lowest support blocks will destabilize the entire structure, causing it to collapse under its own weight.
-3.  **[ES]** **Know Your Explosives:** You will have different types of bombs. A standard TNT stick might be good for a single block, while a larger C4 bomb will have a much bigger blast radius. Use the right tool for the right job.
-4.  **[ES]** **Chain Reactions:** Think about how the explosion will travel. Placing a bomb that causes one part of the structure to fall onto another can create a chain reaction, leading to more destruction than the bomb could achieve on its own.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **Q: ¿Cuál es el objetivo de cada nivel?**
+    *   **A:** Provocar suficiente destrucción para cumplir el requisito de la fase, normalmente destruir un porcentaje de los bloques (a menudo el 100 %).
 
-*   **[ES]** **Select Bomb:** Click on the type of explosive you want to use from your inventory.
-*   **[ES]** **Place Bomb:** Click on a block within the structure to place the selected bomb.
-*   **[ES]** **Detonate:** Once you have placed all your available bombs, click the "Boom" or "Detonate" button to watch the fireworks.
+*   **Q: ¿Por qué el edificio no se cae?**
+    *   **A:** Seguramente colocaste las bombas en un punto poco eficaz. Prueba a ponerlas más abajo, en los bloques de soporte principales, en lugar de en las paredes exteriores o en la parte superior.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What is the goal of each level?**
-    *   **[ES]** **A:** The goal is to cause enough destruction to meet the level's requirement, which is usually to destroy a certain percentage of the blocks (often 100%).
-
-*   **[ES]** **Q: Why didn't the building fall down?**
-    *   **[ES]** **A:** You likely placed your bombs in an ineffective location. Try placing them lower down on the main support blocks instead of on the outer walls or at the top.
-
-*   **[ES]** **Q: Can I place more than one bomb?**
-    *   **[ES]** **A:** Yes, you must place all the bombs provided in your inventory for that level before you can detonate them.
-
+*   **Q: ¿Puedo colocar más de una bomba?**
+    *   **A:** Sí. Debes colocar todas las bombas disponibles para ese nivel antes de poder detonarlas y ver el efecto combinado.

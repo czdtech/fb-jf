@@ -1,114 +1,46 @@
 ---
+title: "Jewel Legend"
+description: "この眩しいマッチ3アドベンチャーでジュエルレジェンドになりましょう。きらめく宝石をスワップしてマッチし、爆発的なコンボを作成して、何百もの挑戦的なパズルを解決します。"
+iframeSrc: "https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/"
+thumbnail: "/new-images/jewel-legend.png"
+urlstr: "jewel-legend"
+score: "4.5/5  (3100 votes)"
+tags: ["puzzle", "casual", "action"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: jewel-legend
-title: '[JA TRANSLATION NEEDED] Jewel Legend'
-description: >-
-  [JA TRANSLATION NEEDED] Become a Jewel Legend in this dazzling match-3
-  adventure. Swap and match glittering gems to create explosive combos and solve
-  hundreds of challenging puzzles.
-iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
-thumbnail: /new-images/jewel-legend.png
-tags:
-  - puzzle
-  - casual
-  - action
-score: 4.5/5  (3100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Jewel Legendは、貴重な宝石で満たされた世界を舞台にした、鮮やかで非常に中毒性のあるマッチ3パズルゲームです。プレイヤーは何百ものレベルにわたる壮大なアドベンチャーに乗り出し、同じ色の3つ以上の宝石をスワップしてマッチすることでパズルを解決します。ゲームは、カラフルなグラフィック、満足のいく連鎖反応、ゲームプレイを新鮮で魅力的に保つさまざまなレベル目標で知られています。賢いマッチを通じて特別な宝石を作成することは、ゲームの最も困難な課題を克服するために重要です。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-- **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.（日本語訳が必要）
-The game is controlled with simple touch or mouse gestures.（日本語訳が必要）
-[JA TRANSLATION NEEDED] Jewel Legend is a vibrant and highly addictive match-3 puzzle game set in a world filled with precious gems. Players embark on an epic adventure across hundreds of levels, solving puzzles by swapping and matching three or more jewels of the same color. The game is known for its colorful graphics, satisfying chain reactions, and a wide variety of level objectives that keep the gameplay fresh and engaging. Creating special gems through clever matches is crucial to overcoming the game's most difficult challenges.
-- **Q: How do I break the ice or chains on the jewels?**（日本語訳が必要）
+1.  **特別な宝石を作成する:** 成功の鍵は、シンプルなマッチ3を超えて考えることです。強力な特別な宝石を作成する機会を常に探してください：
+    *   **4つの宝石をマッチ:** 行または列全体をクリアするライトニングジュエルを作成します。
+    *   **5つの宝石をマッチ（LまたはT形）:** 爆発して周囲のすべての宝石を破壊するボムジュエルを作成します。
+    *   **5つの宝石をマッチ（ライン）:** ボードから単一の色のすべての宝石をクリアできる強力なカラージュエルを作成します。
 
-### Gameplay Strategy & Walkthrough
+2.  **最大のインパクトのためにブースターを組み合わせる:** 特別な宝石を使うだけでなく、組み合わせてください！隣り合う2つの特別な宝石をスワップすると、大規模なボードクリア効果が得られます。たとえば、ボムとライトニングジュエルをスワップすると3行/列がクリアされ、2つのカラージュエルをスワップするとボード上のすべての宝石がクリアされます。
 
-[JA TRANSLATION NEEDED] 1.  **Create Special Gems:** The key to success is to think beyond simple match-3s. Always be on the lookout for opportunities to create powerful special gems:
-[JA TRANSLATION NEEDED]     *   **Match 4 Gems:** Creates a Lightning Jewel that clears an entire row or column.
-[JA TRANSLATION NEEDED]     *   **Match 5 Gems (L or T Shape):** Creates a Bomb Jewel that explodes, destroying all surrounding gems.
-[JA TRANSLATION NEEDED]     *   **Match 5 Gems (in a line):** Creates a powerful Color Jewel that can clear all gems of a single color from the board.
+3.  **移動を計画する:** 各レベルで限られた数の移動しかありません。スワップを行う前に、ボード全体とレベル目標を見てください。凍ったタイルを壊したり、特別なアイテムを落としたりするなど、目標達成に役立つマッチを優先します。
 
-[JA TRANSLATION NEEDED] 2.  **Combine Boosters for Maximum Impact:** Don't just use your special gems; combine them! Swapping two special gems next to each other results in a massive board-clearing effect. For example, swapping a Bomb with a Lightning Jewel clears three rows/columns, and swapping two Color Jewels clears every single gem on the board.
+4.  **カスケードを予測する:** ボードの下部でマッチを行うことは、多くの場合良い戦略です。これにより、多数の新しい宝石が所定の位置に落ち、自動マッチの連鎖反応（カスケード）を開始する可能性が高まり、追加の移動を使用せずにボードの大部分をクリアできます。
 
-[JA TRANSLATION NEEDED] 3.  **Plan Your Moves:** You only have a limited number of moves for each level. Before making a swap, look at the entire board and the level objective. Prioritize matches that will help you achieve the goal, such as breaking frozen tiles or dropping special items.
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 4.  **Anticipate Cascades:** Making matches at the bottom of the board is often a good strategy. This allows a large number of new gems to fall into place, increasing the chance of setting off a chain reaction (cascade) of automatic matches, which can clear a large portion of the board without using any extra moves.
+ゲームは、シンプルなタッチまたはマウスジェスチャーで制御されます。
 
-### Controls Guide
+*   **宝石をスワップ:** 宝石をクリックして隣接するスポットにドラッグしてそこにある宝石とスワップします。また、最初の宝石をクリックしてから、スワップしたい隣接する宝石をクリックすることもできます。スワップは、マッチが作成される場合にのみ成功します。
 
-[JA TRANSLATION NEEDED] The game is controlled with simple touch or mouse gestures.
+### よくある質問 (FAQ)
 
-*   **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
+*   **Q: 宝石の氷またはチェーンを壊すにはどうすればよいですか？**
+    *   **A:** 氷またはチェーンを壊すには、凍結またはチェーンされた宝石を含むマッチを行う必要があります。宝石を完全に解放するには、複数のマッチが必要な場合があります。
 
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
+*   **Q: ゲームで最も強力な組み合わせは何ですか？**
+    *   **A:** 最も強力なコンボは、2つのカラージュエルを一緒にスワップすることです。これにより、画面上のすべての宝石が破壊され、非常に困難なレベルに非常に有用です。
 
-    - **A:** To break ice or chains, you must make a match that includes the frozen or chained jewel. Sometimes it takes more than one match to fully release a jewel.（日本語訳が必要）
-    - **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.（日本語訳が必要）
-- **Q: What is the most powerful combination in the game?**（日本語訳が必要）
-- **Q: I'm out of moves, what now?**（日本語訳が必要）
-    - **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.（日本語訳が必要）
-*   **Q: How do I break the ice or chains on the jewels?**
-[JA TRANSLATION NEEDED]     *   **A:** To break ice or chains, you must make a match that includes the frozen or chained jewel. Sometimes it takes more than one match to fully release a jewel.
-
-*   **Q: What is the most powerful combination in the game?**
-[JA TRANSLATION NEEDED]     *   **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
-
-*   **Q: I'm out of moves, what now?**
-[JA TRANSLATION NEEDED]     *   **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
-
-
-    - **Match 4 ジェム:** Creates a Lightning Jewel that clears an entire row or column.
-    - **Match 5 ジェム (L or T Shape):** Creates a Bomb Jewel that explodes, destroying all surrounding gems.
-    - **Match 5 ジェム (in a line):** Creates a powerful Color Jewel that can clear all gems of a single color from the board.
-### コントロール Guide
-
-
-
-
-
-
-
-
-
-    - **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
-- **Q: I'm out of moves, what now?**
-    - **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
-- **Q: What is the most powerful combination in the game?**
-    - **A:** To break ice or chains, you must make a match that includes the frozen or chained jewel. Sometimes it takes more than one match to fully release a jewel.
-- **Q: How do I break the ice or chains on the jewels?**
-### よくある質問（FAQ）
-- **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
-The game is controlled with simple touch or mouse gestures.
-
-
-
-
-
-
-
-
-
-    - **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
-- **Q: I'm out of moves, what now?**
-    - **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
-- **Q: What is the most powerful combination in the game?**
-    - **A:** To break ice or chains, you must make a match that includes the frozen or chained jewel. Sometimes it takes more than one match to fully release a jewel.
-- **Q: How do I break the ice or chains on the jewels?**
-### よくある質問（FAQ）
-- **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
-
-
-
-
-
-
-    - **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
-- **Q: I'm out of moves, what now?**
-    - **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
-- **Q: What is the most powerful combination in the game?**
-    - **A:** To break ice or chains, you must make a match that includes the frozen or chained jewel. Sometimes it takes more than one match to fully release a jewel.
+*   **Q: 移動がなくなりました。どうすればいいですか？**
+    *   **A:** 指定された移動数内でレベル目標を満たせなかった場合、ライフを失い、レベルを再試行する必要があります。時間の経過とともにライフが再生するのを待つか、ゲーム内手段でより多くを取得できる場合があります。

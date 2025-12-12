@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: grass-cutter
-title: '[DE] Grass Cutter'
+title: "Grass Cutter"
 description: >-
-  [DE] Grid puzzler: mow every tile exactly once with limited moves, avoid
-  obstacles, and plan routes to clear the lawn perfectly.
+  Kniffliges Raster-Puzzlespiel: Mähe jedes Feld genau einmal, plane deine Route
+  mit begrenzten Zügen, weiche Hindernissen aus und bringe den Rasen perfekt in
+  Form.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/grass-cutter.jpg
@@ -16,30 +17,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Überblick
 
+Grass Cutter ist ein Routen-Puzzler, bei dem du mit einem Rasenmäher Feld für
+Feld oder in geraden Linien bis zu einem Hindernis fährst (je nach Version).
+Dein Ziel ist es, alle Grasfelder zu mähen, ohne dich festzufahren. Steine,
+Wasserflächen und Einbahn-Felder erschweren deine Planung, spätere Level
+fügen Schalter und Teleporter hinzu.
 
+### So spielst du
 
-### Overview
-Grass Cutter is a route‑planning puzzle where a mower moves cell‑by‑cell or in straight lines until blocked (host dependent). The goal is to cut all grassy tiles without getting stuck, while rocks, water, and one‑way tiles complicate routes. Later stages add switches and teleporters.
+- Verschaffe dir zuerst einen Überblick über das Raster und identifiziere
+  **Engpässe**, die du genau einmal durchqueren musst.
+- Nutze Blocker und Hindernisse so, dass lange Slides an den richtigen Feldern
+  enden (falls deine Version Gleitbewegungen nutzt).
+- Lass dir Rückwege offen, damit du auch die letzten, noch ungemähten Felder
+  erreichen kannst.
 
-### How to Play
-- Survey the grid; identify choke points you must pass once.
-- Use blockers to stop long slides at the right cells (if sliding rules apply).
-- Leave return paths open so you can cover remaining tiles.
+### Steuerung
 
-### Controls
-- Arrow keys or swipe to move; undo/restart buttons are common.
+- Pfeiltasten oder Wischgesten, um den Mäher zu bewegen.  
+- In vielen Versionen gibt es **Rückgängig**- und **Neustart**-Buttons, um
+  Routen neu zu planen.
 
-### Tips
-- Work backward from hard‑to‑reach corners.
-- If you slide, set up “stoppers” to end on target tiles.
-- Restart early when a route seals off uncut tiles.
+### Tipps
 
-### FAQ
-- Q: What ends a level unsuccessfully?
-A: Leaving uncut tiles with no legal path or running out of moves (in move‑limited variants).
-- Q: Are there hints in the game?
-A: Many hosts provide limited hints or an undo stack.
-- Q: Do all versions use sliding movement?
-A: Some do, others are step‑based—check the rules on your host.
+- Plane von schwer erreichbaren Ecken und Sackgassen aus **rückwärts**, um
+  sicherzustellen, dass du sie nicht aus Versehen abschneidest.
+- Bei Gleitbewegungen solltest du dir gezielt "Stopper" zurechtlegen, die deine
+  Bewegung genau auf Zielkacheln enden lassen.
+- Starte lieber früh neu, wenn du erkennst, dass bestimmte Grasfelder später
+  nicht mehr erreichbar sind – so sparst du Zeit und Frust.
 
+### Häufige Fragen (FAQ)
+
+- **F: Wann scheitere ich an einem Level?**  
+  **A:** Wenn noch ungemähte Felder übrig sind und du keine gültigen Züge mehr
+  hast – oder wenn du in Varianten mit Zuglimit alle Züge verbraucht hast.
+
+- **F: Gibt es Hilfen oder Hinweise im Spiel?**  
+  **A:** Viele Hosts bieten begrenzte Hinweise oder eine mehrstufige
+  Rückgängig-Funktion, mit der du Fehler korrigieren kannst.
+
+- **F: Nutzen alle Versionen Gleitbewegungen?**  
+  **A:** Nein, manche Varianten bewegen den Mäher Feld für Feld, andere lassen
+  ihn bis zum nächsten Blocker durchrutschen. Schau dir die Regeln deiner
+  Plattform kurz an.

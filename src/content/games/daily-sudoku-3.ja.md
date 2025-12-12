@@ -1,84 +1,42 @@
 ---
+title: "Daily Sudoku"
+description: "毎日新しい数独パズルであなたの論理に挑戦。9x9グリッドを各行、列、3x3ボックスに数字1～9が重複なく含まれるように埋めましょう。"
+iframeSrc: "https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/"
+thumbnail: "/new-images/daily-sudoku-3.jpg"
+urlstr: "daily-sudoku-3"
+score: "4.5/5  (2053 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: daily-sudoku-3
-title: '[JA TRANSLATION NEEDED] Daily Sudoku'
-description: >-
-  [JA TRANSLATION NEEDED] A new Sudoku puzzle every day to challenge your logic.
-  Fill the 9x9 grid so each row, column, and 3x3 box contains the digits 1 to 9
-  without repetition.
-iframeSrc: >-
-  https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
-thumbnail: /new-images/daily-sudoku-3.jpg
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.5/5  (2053 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Daily Sudokuは、毎日解くための新鮮でクラシックな数独パズルを提供します。数独は、論理ベースの数字配置パズルとして世界的に有名です。目的は、9x9のグリッドを、各列、各行、そしてグリッドを構成する9つの3x3サブグリッドのそれぞれに1から9までのすべての数字が含まれるように数字で埋めることです。これは計算や数学のスキルを必要としない純粋な論理パズルであり、忍耐と集中力のみが必要です。
 
-[JA TRANSLATION NEEDED] Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every single day. Sudoku is a world-renowned logic-based, number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9. It's a pure logic puzzle that requires no calculation or mathematical skills, only patience and concentration.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **基本ルール:** 数独の黄金律はシンプルです。1から9まで、各行に1回、各列に1回、各3x3ボックスに1回です。
+2.  **スキャニング（クロスハッチング）:** 最も基本的な解法テクニックです。空のセルを選びます。その行、列、3x3ボックスを見て、すでに使用されている数字を確認します。消去法で、そのセルに入る唯一可能な数字を見つけることができることがよくあります。
+3.  **鉛筆書き（ノート）:** より難しいパズルには、「ノート」または「鉛筆」機能を使用します。空のセルに、合法的に入る可能性のあるすべての数字を入力します。他のセルを埋めていくと、ノートから候補を除外でき、最終的に1つの可能性だけが残ります。
+4.  **「ネイキッドシングル」を探す:** これは、セルのノートに候補の数字が1つしか残っていない場合です。その数字をすぐに入力します。
+5.  **「ヒドゥンシングル」を探す:** これは、候補の数字が特定の行、列、または3x3ボックスのノート内で1回だけ出現する場合です。セル自体に他の候補がある場合でも、その特定の行/列/ボックスではその数字がそのセルに入る必要があります。
 
-[JA TRANSLATION NEEDED] 1.  **The Basic Rule:** The golden rule of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box.
-[JA TRANSLATION NEEDED] 2.  **Scanning (Cross-hatching):** The most basic solving technique. Pick an empty cell. Look at its row, column, and 3x3 box to see which numbers are already used. By process of elimination, you can often find the only possible number for that cell.
-[JA TRANSLATION NEEDED] 3.  **Penciling In (Notes):** For more difficult puzzles, use the "notes" or "pencil" feature. In an empty cell, enter all the possible numbers that could legally go there. As you fill in other cells, you can eliminate candidates from your notes, eventually leaving only one possibility.
-[JA TRANSLATION NEEDED] 4.  **Look for "Naked Singles":** This is when a cell has only one possible candidate number left in its notes. Fill that number in immediately.
-[JA TRANSLATION NEEDED] 5.  **Look for "Hidden Singles":** This is when a candidate number appears only once within the notes of a specific row, column, or 3x3 box. Even if the cell itself has other candidates, that number must go in that cell for that specific row/column/box.
+### 操作ガイド
 
-### Controls Guide
+*   **セルを選択:** 9x9グリッド内の任意の空のセルをクリックします。
+*   **数字を入力:** セルを選択したら、画面上の数字パッドから数字をクリックして、セルに配置します。
+*   **ノート/鉛筆モード:** 「回答」モードと「ノート」モードを切り替えるボタン（多くの場合、鉛筆アイコン）を探します。ノートモードでは、入力した数字が小さな候補になります。
+*   **消しゴム:** 消しゴムツールを使用して、セルから数字またはノートをクリアします。
 
-*   **Select a Cell:** Click on any empty cell in the 9x9 grid.
-    - **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.（日本語訳が必要）
-    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.（日本語訳が必要）
-    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.（日本語訳が必要）
-    - **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.（日本語訳が必要）
-    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.（日本語訳が必要）
-    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.（日本語訳が必要）
-*   **Enter a Number:** After selecting a cell, click on a number from the on-screen number pad to place it in the cell.
-*   **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
-*   **Eraser:** Use the eraser tool to clear a number or notes from a cell.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 数独をプレイするには数学が得意である必要がありますか？**
+    *   **A:** 全く必要ありません。数独は数学パズルではなく、論理パズルです。数字を使用しますが、9つの異なる記号や色も同じように簡単に使用できます。すべてはパターン認識と推論に関するものです。
 
-*   **Q: Do I need to be good at math to play Sudoku?**
+*   **Q: 間違った数字を入力するとどうなりますか？**
+    *   **A:** このデジタル版を含むほとんどのデジタル版では、競合する数字を赤で表示して、間違いをすぐに強調表示し、すぐに修正できるようにします。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
-
-*   **Q: What happens if I enter a wrong number?**
-[JA TRANSLATION NEEDED]     *   **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-
-*   **Q: Why should I use the "Notes" feature?**
-
-
-
-
-
-
-
-
-
-    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-- **Q: Why should I use the "Notes" feature?**
-    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-- **Q: What happens if I enter a wrong number?**
-    - **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
-- **Q: Do I need to be good at math to play Sudoku?**
-### よくある質問（FAQ）
-- **Eraser:** Use the eraser tool to clear a number or notes from a cell.
-
-    - **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
-- **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
-
-
-
-    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-- **Q: Why should I use the "Notes" feature?**
-    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-[JA TRANSLATION NEEDED]     *   **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-
+*   **Q: なぜ「ノート」機能を使用すべきですか？**
+    *   **A:** 簡単なパズルでは、必要ないかもしれません。しかし、中程度から難しいパズルでは、すべての可能性を頭の中に保持するのはほぼ不可能です。ノートを取ることは、複雑な数独パズルを体系的に解決するための基本的なテクニックです。

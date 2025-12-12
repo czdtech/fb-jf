@@ -1,12 +1,11 @@
 ---
 locale: es
 urlstr: super-sprunki-brasil
-title: '[ES] Super Sprunki Brasil V1.3  - Play Super Sprunki Brasil Online'
+title: Super Sprunki Brasil V1.3 - Juega a Super Sprunki Brasil online
 description: >-
-  [ES] Super Sprunki Brasil is an Incredibox Mod that allows you to ignite your
-  musical creativity with the passionate Brazilian flair. Come and join Super
-  Sprunki Brasil, and use your music to convey the passion and vitality of
-  Brazil to the world!
+  Super Sprunki Brasil es un mod de Incredibox que te permite encender tu
+  creatividad musical con todo el sabor de Brasil. Únete a Super Sprunki Brasil
+  y usa la música para transmitir al mundo la pasión y la energía brasileñas.
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
 thumbnail: /super-sprunki-brasil.png
 tags:
@@ -16,47 +15,60 @@ score: 4.3/5  (380 votes)
 ---
 
 
+### Presentación de Super Sprunki Brasil
 
-### Introducing to Super Sprunki Brasil
+¿Quieres darle un toque brasileño a tus mezclas? Super Sprunki Brasil es tu
+puerta de entrada. Este mod fan de Incredibox integra cultura y ritmos de Brasil
+en el universo Sprunki, para que puedas crear temas llenos de samba, bossa nova
+y otras influencias.
 
-Want to ignite your musical creativity with the passionate Brazilian flair? Super Sprunki Brasil gives you this opportunity! This fan-made Incredibox Mod incorporates Brazilian culture and music into the Sprunki series, allowing you to create vibrant music mixing experiences with samba, bossa nova, and other elements.
+### ¿Qué hace divertido a Super Sprunki Brasil?
 
----
+En pocas palabras, es un juego de música que te deja vivir el ambiente de
+Brasil. Colores vivos, personajes expresivos y una paleta de sonidos muy
+brasileña te sumergen en un mundo musical vibrante y lleno de referencias
+culturales.
 
-### What's So Fun About Super Sprunki Brasil?
+### Cómo se juega a Super Sprunki Brasil
 
-Simply put, Super Sprunki Brasil is a music game that allows you to experience Brazilian flair. The game's bright colors, enthusiastic characters, and rich Brazilian musical elements will immerse you in a vibrant and culturally rich musical world.
+La jugabilidad es muy sencilla; con dominar lo siguiente, ya estarás marcando
+ritmos de samba:
 
-### How to Play Super Sprunki Brasil?
+- **Arrastrar y soltar sonidos:** elige iconos que representan beats, melodías y
+  voces inspiradas en la música brasileña y arrástralos sobre los personajes
+  para activarlos.
+- **Combinar sonidos:** mezcla distintos elementos para crear pistas temáticas.
+  Prueba a superponer percusiones y voces para composiciones más dinámicas.
+- **Desbloquear bonus:** ciertas combinaciones activan animaciones extra o
+  secuencias musicales especiales que dan más profundidad a la mezcla.
+- **Compartir tu mezcla:** cuando tengas un tema que te guste, compártelo en
+  línea o con amigos para contagiar el espíritu festivo.
 
-The gameplay is very simple, master the following points, and you can also play the samba rhythm:
+### Consejos y trucos
 
-- **Drag and Drop Sounds:** Players can choose from various sound icons that represent beats, melodies, and vocals inspired by Brazilian music. Drag these icons onto the character avatars to activate the sounds.
-- **Combine Sounds:** Mix and match different sound elements to create a unique Brazilian-themed music track. Try experimenting with layering beats and vocals for more dynamic compositions.
-- **Unlock Bonuses:** Achieve specific sound combinations to unlock bonus animations or special musical sequences, adding depth to the gameplay.
-- **Share Your Mix:** Once you've created your music, share it online or with friends to spread the festive spirit.
+- **Explora ritmos brasileños:** intenta incluir patrones y «grooves» típicos de
+  Brasil y sus instrumentos para un sonido más auténtico.
+- **Capa melodías y voces:** combina líneas vocales y melódicas para rellenar el
+  espacio por encima de la percusión.
+- **Persigue combinaciones especiales:** algunas secuencias de sonidos desbloquean
+  contenido oculto que hace tu pista más interesante.
+- **Déjate guiar por lo visual:** las animaciones y colores pueden inspirarte
+  sobre qué tipo de sonidos añadir.
 
+### Puntos destacados de Super Sprunki Brasil
 
----
-
-### Tips and Tricks for Super Sprunki Brasil:
-
-- **Explore Brazilian Rhythms:** Focus on incorporating traditional Brazilian rhythms and instruments for an authentic feel.
-- **Layer Melodies and Vocals:** For a richer sound, try layering different melodies and vocals to complement the rhythms.
-- **Aim for Bonus Combinations:** Certain sound sequences may unlock bonus content, which can make your track more engaging.
-- **Use the Visuals for Inspiration:** The colorful and culturally themed visuals can guide your musical choices to better reflect the theme.
-
-
-### Highlights of Super Sprunki Brasil:
-
-- **Unique Brazilian Flair:** The game incorporates Brazilian culture and musical elements, allowing you to feel the exotic flair while creating music.
-- **Simple and Easy-to-Use Operation:** You can create unique Brazilian-themed music with simple drag-and-drop operations.
-- **Rich Musical Elements:** The game provides a variety of Brazilian music beats, melodies, and vocals, allowing you to unleash your creativity.
-- **Surprise-Filled Bonus Mechanism:** Unlock bonus animations or special musical sequences with specific sound combinations, making your creation process more interesting.
-
-
----
+- **Sello brasileño único:** integra elementos visuales y sonoros de Brasil para
+  que lo sientas en cada compás.
+- **Manejo sencillo:** basta con arrastrar y soltar para construir temas
+  completos.
+- **Paleta musical rica:** beats, líneas de bajo, acordes y voces inspirados en
+  estilos brasileños para dar rienda suelta a tu creatividad.
+- **Sistema de bonus lleno de sorpresas:** combos concretos desbloquean
+  animaciones o frases musicales extra, haciendo que el proceso de crear sea
 
 ### Conclusion:
+  aún más divertido.
 
-Super Sprunki Brasil is an Incredibox Mod that allows you to ignite your musical creativity with the passionate Brazilian flair. Come and join Super Sprunki Brasil, and use your music to convey the passion and vitality of Brazil to the world!
+Super Sprunki Brasil es el mod ideal si quieres experimentar con ritmos
+latinoamericanos dentro del universo Sprunki. Entra y deja que tus mezclas
+hablen en «portuñol musical» al mundo.

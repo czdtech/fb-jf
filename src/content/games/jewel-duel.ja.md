@@ -1,69 +1,39 @@
 ---
+title: "Jewel Duel"
+description: "Jewel Duelはマッチ3とRPGをミックスします。スワップして攻撃/防御し、スキルをトリガーし、戦術的なマッチでシールドを破壊します。"
+iframeSrc: "https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/"
+thumbnail: "/new-images/jewel-duel.jpg"
+urlstr: "jewel-duel"
+score: "4.2/5  (2052 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: jewel-duel
-title: '[JA TRANSLATION NEEDED] Jewel Duel'
-description: >-
-  [JA TRANSLATION NEEDED] Jewel Duel mixes match‑3 with RPG — swap to
-  attack/defend, trigger skills, and break shields with tactical matches.
-iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
-thumbnail: /new-images/jewel-duel.jpg
-tags:
-  - puzzle
-  - thinky
-score: 4.2/5  (2052 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Jewel Duelは、RPG要素をマッチ3戦闘にレイヤーします。特定の色をマッチすることで攻撃/防御/スキルに燃料を供給します。敵のターンはあなたのターンの後に続くため、ターン順序が重要です。一部の敵はシールド/吸収を持っており、特定のマッチタイプが必要で、生のダメージを超えてパズルの深さを追加します。
 
-[JA TRANSLATION NEEDED] Jewel Duel layers RPG elements onto match‑3 combat. Matching certain colors fuels attacks/defense/skills; enemy turns follow yours, so turn order matters. Some foes carry shields/absorbs that require specific match types, adding puzzle depth beyond raw damage.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  マッチの意図：必要なアクションに燃料を供給する色を優先します（攻撃 vs ヒール vs シールド）。
+2.  ターンテンポ：シールドまたはスタンを彼らのフェーズ前に破壊することで敵の究極ターンを拒否します。
+3.  カスケードのセットアップ：次のターンで高価値のカスケードを準備するために、今低インパクトの宝石をクリアします。
+4.  ターゲティング：ダメージソースを削除するために一度に1つの敵に焦点を当てます。
+5.  ボスメカニクス：ツールチップを読みます。一部は特別なマッチまたは行クリアが必要です。
 
-[JA TRANSLATION NEEDED] 1.  Match intent: Prioritize color that fuels your needed action (attack vs heal vs shield).
-[JA TRANSLATION NEEDED] 2.  Turn tempo: Deny enemy ult turns by breaking shields or stuns before their phase.
-[JA TRANSLATION NEEDED] 3.  Setup cascades: Clear low‑impact gems now to prepare high‑value cascades next turn.
-[JA TRANSLATION NEEDED] 4.  Targeting: Focus one enemy at a time to remove damage sources.
-[JA TRANSLATION NEEDED] 5.  Boss mechanics: Read tooltips; some require special matches or row clears.
+### 操作ガイド
 
-### Controls Guide
+- 隣接する宝石をスワップ。チャージされたらスキルをトリガー。敵の意図を読む。
 
-- Swap adjacent gems; trigger skills when charged; read enemy intents.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 低ダメージしか出ません。なぜですか？**  
+  A: あなたのビルドに間違った色をマッチしています。攻撃宝石に燃料を供給するか、最初にシールドを破壊してください。
 
-- Q: I do low damage — why?
-  
-[JA TRANSLATION NEEDED]   A: You’re matching the wrong colors for your build; fuel attack gems or break shields first.
+- **Q: マルチターゲット戦闘のヒントはありますか？**  
+  A: 最初に高脅威ターゲットを排除します。ボードコントロールのために行/列クリアを使用します。
 
-- Q: Any tip for multi‑target fights?
-  
-[JA TRANSLATION NEEDED]   A: Eliminate high‑threat targets first; use row/column clears for board control.
-
-- Q: Can I save skills?
-  
-
-
-
-
-
-- Q: I do low damage — why?
-### よくある質問（FAQ）
-- Swap adjacent gems; trigger skills when charged; read enemy intents.
-### コントロールガイド
-- Boss mechanics: Read tooltips; some require special matches or row clears.
-[JA TRANSLATION NEEDED]   A: Yes — hold until you can chain with a big cascade or to interrupt enemy ultimates.
-
-
-
-
-
-
-A: Yes — hold until you can chain with a big cascade or to interrupt enemy ultimates.
-- Q: Can I save skills?
-A: Eliminate high‑threat targets first; use row/column clears for board control.
-- Q: Any tip for multi‑target fights?
-
-
-A: Yes — hold until you can chain with a big cascade or to interrupt enemy ultimates.
+- **Q: スキルを保存できますか？**  
+  A: はい。大きなカスケードと連鎖できるまで、または敵の究極を中断するために保持します。

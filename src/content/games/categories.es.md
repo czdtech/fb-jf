@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: categories
-title: '[ES] Categories'
+title: "Categories"
 description: >-
-  [ES] Categories is a quick word‑sorting brainteaser — group items by theme,
-  deduce outliers, and beat the clock.
+  Categories es un ágil puzle de clasificar palabras: agrupa elementos
+  por temática, detecta intrusos y vence al reloj.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/categories.png
 tags:
@@ -15,28 +15,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Categories es un juego ligero de lógica en el que debes clasificar palabras u
+objetos en grupos temáticos. Identifica qué tienen en común, separa a los
+engaños y resuelve cada conjunto luchando contra pequeños límites de tiempo o de
+movimientos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Categories is a light logic game about sorting items into thematic groups. Identify common links, separate decoys, and solve sets under light timers or move limits.
+1.  **Empieza por los grupos obvios:** Forma primero las categorías más claras
+    para reducir el espacio de búsqueda.
+2.  **Prueba intercambios:** Mueve los elementos dudosos entre los grupos
+    posibles y observa qué combinaciones encajan mejor.
+3.  **Detecta señuelos:** Los ítems que encajan aparentemente en muchos grupos
+    suelen ser pistas falsas.
+4.  **Gestiona el tiempo:** No te quedes atascado en un solo elemento; rota
+    candidatos con rapidez.
+5.  **Confirma por exclusión:** Si dos categorías son parecidas, piensa en qué
+    excluye cada una; lo que no pertenece a un grupo a menudo señala al otro.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Easy sets first: Lock obvious groups to shrink the search space.
-2.  **[ES]** Test swaps: Move borderline items between plausible groups.
-3.  **[ES]** Spot decoys: Items that seem to fit many groups are often misleads.
-4.  **[ES]** Manage time: Don’t tunnel—cycle candidates quickly.
-5.  **[ES]** Confirm with opposites: If two categories are close, define them by what they exclude.
+- Arrastra los elementos hasta los grupos o toca para asignarlos, según la
+  interfaz.
+- Usa Deshacer/Reiniciar cuando esté disponible.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag items into groups or tap to assign per UI.
-- Undo/Reset where available.
+- **¿Hay varias soluciones posibles?**
+  Normalmente solo hay una solución prevista; intenta seguir las temáticas
+  originales.
 
-### Frequently Asked Questions (FAQ)
+- **¿Hay pistas?**
+  Muchas versiones incluyen sistema de pistas; úsalas con moderación para no
+  trivializar el reto.
 
-- Are there multiple solutions? Usually one; follow intended themes.
-- Hints? Many versions provide hints—use sparingly.
-- Timed? Often light timers to keep pace brisk.
-
+- **¿Siempre hay límite de tiempo?**
+  Suele haber temporizadores suaves o límites de movimientos para mantener un
+  ritmo ágil, pero no siempre son muy estrictos.

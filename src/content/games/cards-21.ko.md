@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: cards-21
-title: '[KO] Cards-21'
+title: 'Cards-21 카드스 21'
 description: >-
-  [KO] Cards-21 streamlines blackjack — hit or stand, manage risk, and chase 21
-  without busting.
+  Cards-21은 블랙잭 룰을 간단히 즐길 수 있는 카드 게임입니다. 카드를 더 뽑거나
+  멈추는 선택으로 21에 최대한 가깝게 점수를 맞추되, 21을 넘지 않도록 위험을
+  관리해야 합니다.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
 thumbnail: /new-images/cards-21.png
 tags:
@@ -15,38 +16,67 @@ score: 3.8/5  (1547 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Cards-21은 21점(블랙잭) 룰을 기반으로 한 간단한 카드 게임입니다. 플레이어는
+딜러와 대결해, 자신의 카드 합이 21을 넘지 않는 선에서 최대한 21에 가깝게 만드는
+것을 목표로 합니다. J, Q, K 같은 그림 카드는 10점, A(에이스)는 상황에 따라 1점
+또는 11점으로 계산됩니다.
 
+일부 모드에서는 여러 손을 동시에 플레이하거나, 보험(Insurance), 사이드 베팅 등
+추가 규칙을 제공하기도 합니다. 그러나 기본 흐름은 빠르게 카드를 뽑고(히트),
+멈출지(스탠드) 결정하는 직관적인 게임입니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **기본 확률 감각 익히기**  
+    -   **하드 17 이상**(에이스를 11로 세지 않는 17점 이상)에서는 대부분 스탠드가
+        안전한 선택입니다.
+    -   **11점 이하**에서는 한 장 더 뽑아도 21을 넘을 수 없으므로 마음 편히
+        히트해도 됩니다.
+    -   딜러의 앞면 카드가 약한 수(2~6)라면, 10~11점에서 더블다운을 고려해 볼 수
+        있습니다.
 
-Cards-21 is a quick blackjack variant: draw cards to get as close to 21 as possible without going over. Face cards count as 10; aces can be 1 or 11. Some modes include multi‑hand play, insurance, or side bets.
+2.  **소프트 핸드 적극 활용**  
+    에이스를 11로 계산한 손(예: A+6 = 소프트 17)은 한 장을 더 뽑더라도 대부분
+    곧바로 버스트되지 않습니다. 이런 소프트 핸드는 좀 더 공격적으로 히트하고,
+    필요할 때 에이스를 1로 내려 하드 핸드로 전환하는 식으로 운영하세요.
 
-### Gameplay Strategy & Walkthrough
+3.  **딜러의 오픈 카드에 따라 리스크 조절**  
+    -   딜러 오픈 카드가 2~6처럼 약한 카드라면, 딜러가 스스로 버스트할 확률이
+        높기 때문에 무리해서 점수를 더 올릴 필요가 줄어듭니다.
+    -   반대로 7~A 같은 강한 오픈 카드라면, 좀 더 공격적으로 17 이상을 노릴
+        필요가 있습니다.
 
-1.  **[KO]** Basic odds: Stand on hard 17+; hit 11 or lower; consider doubling on 10–11 versus weak dealer cards.
-2.  **[KO]** Soft hands: With an ace counted as 11, hit more liberally; convert to hard when needed.
-3.  **[KO]** Dealer upcard: Adjust risk based on dealer’s visible card (2–6 weak, 7–A strong).
-4.  **[KO]** Bankroll: Use flat bets; avoid chasing losses.
-5.  **[KO]** Side bets: Fun but higher house edge — play sparingly.
+4.  **배팅 관리(뱅크롤 관리)**  
+    매 판마다 일정 금액만 거는 **플랫 베팅**이 가장 무난합니다. 연패했다고 해서
+    베팅액을 급격히 올리며 손실을 쫓는 것은, 장기적으로 더 빠른 파산으로 이어질
+    수 있습니다.
 
-### Controls Guide
+5.  **사이드 베팅은 가볍게만**  
+    페어, 특정 조합 등에 거는 사이드 베팅은 재미를 위해 존재하는 요소이지만,
+    일반적으로 하우스 엣지가 더 큽니다. 가볍게 즐길 수 있을 정도의 범위에서만
+    사용하는 것이 좋습니다.
 
-- Hit/Stand/Double/Split via on‑screen buttons.
-- Toggle side bets if available.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+-   **Hit / Stand / Double / Split:** 화면의 버튼을 클릭해 카드를 더 받거나,
+    멈추거나, 베팅을 두 배로 늘리거나, 페어를 나누는 등의 행동을 선택합니다.
+-   **사이드 베팅:** 제공되는 모드에서는 추가 베팅 영역을 눌러 사이드 베팅을
+    활성화할 수 있습니다.
 
-- Q: When should I split pairs?
+### 자주 묻는 질문 (FAQ)
 
-A: Commonly split Aces and 8s; avoid splitting 10s and 5s. Follow the table’s basic strategy if shown.
+-   **Q. 언제 페어를 분할(Split)하는 게 좋나요?**  
+    A. 일반적으로 A·A, 8·8은 분할하는 것이 좋고, 10·10과 5·5는 분할하지 않는
+    것이 기본 전략에 가깝습니다. 게임에서 기본 전략표를 보여 준다면 그 표를
+    참고하는 것이 가장 안전합니다.
 
-- Q: Do aces count as 1 or 11?
+-   **Q. 에이스는 1인가요, 11인가요?**  
+    A. 에이스는 손에 따라 자동으로 1 또는 11로 계산됩니다. 가능한 한 버스트를
+    피하도록 유리하게 계산되지만, 카드 합이 너무 커지면 1로 조정됩니다.
 
-A: They flex — automatically adjusted to avoid busting when possible.
-
-- Q: Is this beatable long‑term?
-
-A: With perfect play you reduce house edge, but it remains positive over time.
-
+-   **Q. 장기적으로 이길 수 있는 게임인가요?**  
+    A. 기본 전략을 잘 사용하면 하우스 엣지를 크게 줄일 수 있지만, 수학적으로는
+    여전히 카지노 쪽이 약간 유리한 게임입니다. 따라서 오랜 기간 플레이하면
+    이론상 플레이어가 앞서기는 어렵고, 적당한 선에서 즐기는 것이 좋습니다.

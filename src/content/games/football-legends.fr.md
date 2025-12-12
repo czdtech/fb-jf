@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: football-legends
-title: '[FR] Football Legends'
-description: >-
-  [FR] Arcade soccer duels: play 1v1 or 2v2 with headers, volleys, and special
-  shots, in quick matches or tournaments.
+title: "Football Legends"
+description: "Duels de foot arcade : joue en 1v1 ou 2v2 avec têtes, volées et tirs spéciaux dans des matchs rapides ou tournois."
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/football-legends.jpg
 tags:
@@ -15,30 +13,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Football Legends est un jeu de foot arcade rapide, jouable en 1v1 ou 2v2, avec une physique exagérée et des tirs spéciaux spectaculaires. Tu peux enchaîner les matchs rapides ou te lancer dans un tournoi à élimination.
 
+### Comment jouer
 
-### Overview
-Fast 1v1/2v2 football with exaggerated physics and special kicks. Modes include quick match and tournament brackets.
+- Place ton joueur pour des têtes et volées efficaces, et déclenche les tirs puissants quand la jauge spéciale est pleine.
+- Utilise les rebonds sur les murs et le sol pour créer des angles de tir surprenants, et protège bien ton but juste après les engagements.
+- En mode 2 joueurs, répartis les rôles : l’un presse l’adversaire, l’autre reste en couverture.
 
-### How to Play
-- Position for headers and volleys; time power shots when the meter is full.
-- Use walls/bounces to set up angles; protect your goal after a kickoff.
-- In 2‑player, coordinate roles: one presses, one covers.
+### Commandes
 
-### Controls
-- Arrows/WASD to move/jump; shot/pass keys and special vary by host.
+- Flèches ou WASD pour se déplacer et sauter ; les touches de tir/passe et de tir spécial varient selon l’hébergeur (affichées à l’écran).
 
-### Tips
-- Jump‑timed headers are the safest way to score.
-- Save specials for open looks rather than congested scrums.
-- On defense, backpedal and block angles instead of lunging.
+### Astuces
 
-### FAQ
-- Q: How do I activate a special shot?
-A: Fill the meter via play, then press the special key shown on your host.
-- Q: Does 2‑player work on one keyboard?
-A: Yes, most versions map two separate key sets.
-- Q: Are there teams with different stats?
-A: Many hosts offer team skins; physics are generally consistent.
+- Les têtes bien timées sont souvent la façon la plus sûre de marquer.
+- Garde tes tirs spéciaux pour les situations où le but est bien ouvert plutôt que dans les mêlées.
+- En défense, recule en gardant l’angle plutôt que de foncer en ligne droite ; bloque la trajectoire plutôt que le joueur.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment activer un tir spécial ?
+  
+  R : Remplis la jauge en jouant, puis appuie sur la touche spéciale indiquée par ton hébergeur.
+
+- Q : Peut‑on jouer à deux sur le même clavier ?
+  
+  R : Oui, la plupart des versions proposent deux schémas de touches distincts pour le mode local à deux joueurs.
+
+- Q : Les équipes ont‑elles des stats différentes ?
+  
+  R : Certains hébergeurs proposent surtout des skins d’équipes ; la physique et le gameplay restent généralement identiques.
 

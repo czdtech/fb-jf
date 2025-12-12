@@ -1,46 +1,42 @@
 ---
 locale: es
 urlstr: tumble-towers
-title: '[ES] Tumble Towers'
+title: "Tumble Towers - Derriba la torre correcta"
 description: >-
-  [ES] Tumble Towers is a physics stack‑and‑drop — balance blocks, control
-  overhangs, and build stable towers that survive gravity checks.
-iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
-thumbnail: /new-images/tumble-towers.png
+  Un juego de físicas donde tienes que derribar torres de bloques sin dejar que
+  caigan al agua los personajes que descansan sobre ellas. Elimina piezas con
+  cuidado y deja que la gravedad haga el trabajo.
+iframeSrc: "https://tumbletowers.h5games.usercontent.goog/v/2253r9nclsnso/"
+thumbnail: "/new-images/tumble-towers.jpg"
 tags:
   - puzzle
-  - thinky
+  - physics
   - casual
-score: 3.9/5  (1742 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: "4.0/5  (1500 votes)"
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
-
-
-
 
 ### Detailed Game Introduction
 
-Tumble Towers is a stacker where each drop changes center of mass. Good play distributes weight, limits overhangs, and anticipates sway so the tower survives post‑drop jiggles.
+Tumble Towers es un rompecabezas basado en físicas en el que debes hacer que las torres se tambaleen y caigan de forma controlada. Cada nivel presenta estructuras de bloques con personajes colocados encima; tu misión es eliminar bloques en el orden adecuado para derribar la torre manteniendo a salvo a los personajes y evitando que terminen en el agua.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** Wide bases beat height rushes.
-2.  **[ES]** Stagger seams; avoid vertical seam lines.
-3.  **[ES]** Counter‑weights: Place small blocks opposite overhangs.
-4.  **[ES]** Pause between drops; let sway settle.
-5.  **[ES]** Trim tops with small pieces for fine leveling.
+1.  Estudia la estructura: antes de tocar nada, observa qué bloques sostienen el peso y qué piezas puedes eliminar sin provocar un colapso descontrolado.
+2.  Quita bloques bajos con cuidado: eliminar soportes estratégicos en la base puede hacer que la torre se incline justo como necesitas.
+3.  Aprovecha el equilibrio: a veces es mejor dejar que la torre se tambalee unos segundos y ver cómo se estabiliza antes de seguir eliminando piezas.
+4.  Evita golpes bruscos: tocar demasiados bloques seguidos puede romper el equilibrio y lanzar a los personajes al agua.
+5.  Reintenta sin miedo: cada nivel es un pequeño experimento; si algo sale mal, reinicia y prueba un orden distinto.
 
 ### Controls Guide
 
-- Aim and drop; rotate if allowed; restart via UI.
+- Haz clic o toca sobre los bloques que quieras eliminar y observa cómo responde la estructura.
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: Tower keeps swaying apart.
+- **Q: ¿Qué pasa si un personaje cae al agua?**  
+  **A:** El nivel se considera fallido y tendrás que volver a empezar.
 
-A: You’re dropping too fast or stacking seam‑on‑seam; stagger and pause.
-
-- Q: Can I salvage a lean?
-
-A: Counter‑weight on the high side and shorten overhangs.
+- **Q: ¿Hay límite de tiempo?**  
+  **A:** Normalmente no, pero cuanto más rápido resuelvas el nivel, mejor puede ser tu puntuación.
 

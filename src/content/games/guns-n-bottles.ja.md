@@ -1,84 +1,40 @@
 ---
+title: "Guns n' Bottles"
+description: "この中毒性のある射撃ギャラリーゲームで、あなたのタイミングと精度を試してください。銃が回転する中で完璧な瞬間にタップしてボトルを撃ち抜き、赤いボトルは避けましょう！"
+iframeSrc: "https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/"
+thumbnail: "/new-images/guns-n-bottles.png"
+urlstr: "guns-n-bottles"
+score: "4.1/5  (1800 votes)"
+tags: ["shooting", "action", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: guns-n-bottles
-title: '[JA TRANSLATION NEEDED] Guns n'' Bottles'
-description: >-
-  [JA TRANSLATION NEEDED] Test your timing and precision in this addictive
-  shooting gallery game. Tap at the perfect moment to shoot the bottles as your
-  gun rotates, but avoid the red ones!
-iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
-thumbnail: /new-images/guns-n-bottles.png
-tags:
-  - shooting
-  - action
-  - casual
-score: 4.1/5  (1800 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Guns n' Bottlesは、タイミングと精度が試される、シンプルながら非常に中毒性の高いワンタッチ・アーケードゲームです。画面中央で銃が回転し続け、ボトルが現れます。あなたの目的は、完璧な瞬間にタップして弾を発射し、ボトルを粉砕することです。難しさは、銃の回転に合わせてショットのタイミングを完璧に合わせることにあります。緑のボトルを撃ってポイントを稼ぎ、赤いボトルは避けてください！
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Guns n' Bottles is a simple yet highly addictive one-touch arcade game that tests your timing and precision. A gun continuously rotates in the center of the screen, and your goal is to tap at the perfect moment to fire a bullet and shatter the bottles that appear. The challenge lies in timing your shot perfectly with the gun's rotation. Hit the green bottles to score points, but be careful to avoid the red ones!
+1.  **回転を予測する:** 銃がボトルを直接狙っている時にタップしてはいけません。少し先を狙う（偏差射撃）必要があります。弾の移動時間と銃の継続的な回転を考慮して、銃がターゲットと重なる直前（*before*）に発射しましょう。
+2.  **連続ヒットを狙う:** ハイスコアの鍵は、ミスせずに複数のボトルを連続で撃つことです。これにより、多くの場合コンボ倍率が上がったり、ボーナスコインがもらえたりします。
+3.  **赤いボトルを避ける:** 赤いボトルを撃つと即座にゲームオーバーになります。これらはあなたを騙し、リズムを崩すために存在します。常にこれらを避けることを優先してください。
+4.  **新しい銃をアンロック:** 成功したヒットから得たコインを使って、ショップで新しくかっこいい銃をアンロックしましょう。多くは見た目が変わるだけですが、進歩を感じられて楽しい要素です。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Anticipate the Rotation:** Don't tap when your gun is aimed directly at the bottle. You need to lead your shot slightly. Fire just *before* the gun aligns with the target to account for the bullet's travel time and the gun's continuous rotation.
-[JA TRANSLATION NEEDED] 2.  **Go for Streaks:** The key to a high score is to hit multiple bottles in a row without missing. This will often build up a combo multiplier or award bonus coins.
-[JA TRANSLATION NEEDED] 3.  **Avoid the Red Bottles:** Hitting a red bottle will end your game instantly. They are there to trick you and break your rhythm. Always prioritize avoiding them.
-[JA TRANSLATION NEEDED] 4.  **Unlock New Guns:** Use the coins you earn from successful hits to unlock new and cooler-looking guns in the shop. While often cosmetic, they add a fun sense of progression.
+ゲームは単一のアクションでプレイされます。
 
-### Controls Guide
+*   **射撃:** マウスの左ボタンをクリックするか、画面のどこかをタップして銃を発射します。
 
-[JA TRANSLATION NEEDED] The game is played with a single action.
+### よくある質問 (FAQ)
 
-*   **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
-    - **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.（日本語訳が必要）
-    - **A:** In either case, the game will end, and your score will be recorded. You must then start over.（日本語訳が必要）
-    - **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.（日本語訳が必要）
-    - **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.（日本語訳が必要）
-    - **A:** In either case, the game will end, and your score will be recorded. You must then start over.（日本語訳が必要）
-    - **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.（日本語訳が必要）
+*   **Q: ゲームの目的は何ですか？**
+    *   **A:** できるだけ多くの緑のボトルを連続して撃ち、最高スコアを達成することです。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ボトルを外したり、赤いボトルを撃ったりしたらどうなりますか？**
+    *   **A:** どちらの場合もゲームは終了し、スコアが記録されます。最初からやり直しになります。
 
-*   **Q: What is the objective of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.
-
-*   **Q: What happens if I miss a bottle or hit a red one?**
-[JA TRANSLATION NEEDED]     *   **A:** In either case, the game will end, and your score will be recorded. You must then start over.
-
-*   **Q: How do I aim?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
-
-
-
-
-
-
-
-
-
-
-    - **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
-- **Q: How do I aim?**
-    - **A:** In either case, the game will end, and your score will be recorded. You must then start over.
-- **Q: What happens if I miss a bottle or hit a red one?**
-    - **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.
-- **Q: What is the objective of the game?**
-### よくある質問（FAQ）
-- **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
-
-
-
-
-
-
-    - **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
-- **Q: How do I aim?**
-    - **A:** In either case, the game will end, and your score will be recorded. You must then start over.
-- **Q: What happens if I miss a bottle or hit a red one?**
-    - **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.
+*   **Q: どうやって狙いをつけますか？**
+    *   **A:** 直接狙いをつけることはできません。銃は自動的に回転します。あなたのスキルは、銃がターゲットを通過する瞬間に完璧にショットのタイミングを合わせることにかかっています。

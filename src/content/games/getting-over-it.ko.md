@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: getting-over-it
-title: '[KO] Getting over it'
+title: "Getting Over It 망치 등반"
 description: >-
-  [KO] Climb‑with‑a‑hammer challenge: swing, pogo, and drag a cauldron man up
-  surreal obstacles; precision physics punish impatience.
+  커다란 항아리에 갇힌 남자가 망치 하나만으로 절벽과 기묘한 장애물을
+  기어오르는 극한 물리 등반 게임입니다. 섬세한 컨트롤이 요구되며, 작은 실수
+  하나가 수분·수시간의 진행을 한 번에 날려 버릴 수 있습니다.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/getting-over-it.jpg
 tags:
@@ -18,27 +19,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Getting Over It is a precision physics climb where you control only a hammer. By swinging, pogoing, and hooking the hammer, you haul a man in a cauldron up cliffs, towers, and precarious ledges. The design embraces loss: a small mistake can drop you back minutes—or hours—forcing you to rebuild progress. Mastery comes from learning anchor spots, momentum arcs, and gentle mouse angles rather than brute force.
+### 게임 개요
 
-### How to Play
-- Plant the hammer on stable edges before pushing; quick flicks create pogo launches.
-- Chain swings to convert horizontal motion into vertical lift.
-- After falls, reset your rhythm—rushing causes repeat mistakes.
+`Getting Over It`는 오직 망치 하나만으로 온갖 기묘한 지형을 기어오르는 고난도
+물리 등반 게임입니다. 플레이어는 항아리에 들어 있는 남자를 조종해 절벽과
+철제 구조물, 말도 안 되는 장애물들을 타고 올라가야 하며, 중간에 한 번만
+미끄러져도 수분에서 수시간 동안 쌓은 진행이 한꺼번에 날아갈 수 있습니다.  
+게임 디자인 자체가 “손실”을 전제로 하고 있으며, 힘으로 밀어붙이기보다는
+지지점 위치, 모멘텀 궤적, 마우스 각도를 몸에 익히는 것이 관건입니다.
 
-### Controls
-- Mouse controls hammer angle and force; minimal keyboard use (host dependent).
+### 플레이 방법
 
-### Tips
-- Use gentle circular motions for controlled swings; avoid jerky inputs.
-- Identify safe anchor “pockets” before committing to big moves.
-- Practice notorious sections (Devil’s Chimney, Orange, Towers) until muscle memory forms.
+- 먼저 망치 끝을 안정적인 모서리나 표면에 단단히 고정한 뒤, 미는 동작을
+  통해 몸을 띄우세요. 짧고 빠른 튕김은 포고 점프처럼 수직으로 도약할 때
+  유용합니다.
+- 연속적인 회전 스윙으로 가로 방향 속도를 세로 상승으로 바꾸며, 큰 구간을
+  한 번에 뛰어넘을 수 있습니다.
+- 떨어졌을 때는 서두르지 말고 리듬을 다시 정비하는 것이 중요합니다. 조급한
+  마음으로 곧바로 재도전하면 같은 실수를 반복하기 쉽습니다.
 
-### FAQ
-- Q: How do I stop sliding off edges?
-A: Keep the hammer slightly below the lip to maintain friction and stability.
-- Q: What is the fastest way past the early chimney?
-A: Small pogo hops with controlled angles are safer than risky full launches.
-- Q: Can I lose all progress with one mistake?
-A: Yes, large falls are part of the design; patience is the core skill.
+### 조작 방법
 
+- 마우스 움직임만으로 망치의 각도와 힘을 조절합니다.
+- 키보드 입력은 거의 필요하지 않으며, 호스트에 따라 최소한의 메뉴 조작 정도만
+  사용될 수 있습니다.
+
+### 플레이 팁
+
+- 망치를 크게 휘두르기보다는, 부드러운 원형 궤도로 돌리는 연습을 해 두면
+  세밀한 조작이 훨씬 쉬워집니다. 급한 손동작은 곧바로 추락으로 이어집니다.
+- 큰 점프를 시도하기 전에, 미끄러져도 버틸 수 있는 “안전 포켓” 지점을 먼저
+  찾아 두면 심리적으로도 안정적으로 도전할 수 있습니다.
+- 악명 높은 구간(Devil’s Chimney, Orange, Towers 등)은 의도적으로 여러 번
+  왕복하며, 특정 각도와 힘을 몸에 익히는 연습을 해 두는 편이 좋습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 가장자리에 망치가 자꾸 미끄러져 떨어집니다. 어떻게 막을 수 있나요?  
+  A: 망치를 모서리 위가 아니라 약간 아래쪽에 두고 밀어 올리면, 마찰이 조금 더
+  생겨 안정적으로 버틸 수 있습니다.
+- Q: 초반 굴뚝(Chimney)을 빨리 넘는 가장 좋은 방법은 무엇인가요?  
+  A: 과감한 대점프보다, 각도를 잘 조절한 작은 포고 점프를 여러 번 사용하는
+  방식이 더 안전합니다. 조금씩 높이를 올리며 지점을 바꿔 보세요.
+- Q: 한 번 실수로 정말 모든 진행을 잃을 수 있나요?  
+  A: 네. 이 게임은 큰 추락이 포함된 설계 자체가 특징입니다. 그래서 무엇보다
+  중요한 스킬은 “인내심”이며, 천천히, 그러나 꾸준히 다시 올라가는 마음가짐이
+  필요합니다.

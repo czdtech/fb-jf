@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: ragdoll-archers
-title: '[DE] Ragdoll Archers'
+title: Ragdoll Archers
 description: >-
-  [DE] Ragdoll Archers is a physics-based archery game where players control
-  wobbly ragdoll archers to shoot arrows at opponents, with realistic physics
-  making each shot challenging and entertaining.
+  Ragdoll Archers ist ein physikbasiertes Bogenschießspiel, in dem du wackelige
+  Ragdoll-Bogenschützen steuerst, Pfeile auf Gegner feuern lässt und dank
+  schräger Physik jede Runde chaotisch und lustig verläuft.
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/ragdoll-archers.jpg
 tags:
@@ -17,34 +17,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Ragdoll Archers" ist ein Physik-Bogenschießspiel, in dem du wacklige
+ Ragdoll-Figuren mit Bogen und Pfeilen kontrollierst. Mit jedem Schuss musst du
+ Winkel und Zugkraft sauber einstellen, während deine Figur durch die
+ Ragdoll-Physik ständig ins Wanken gerät. Dadurch entstehen immer wieder
+ unerwartete, witzige Situationen, die das Spiel gleichermaßen fordernd und
+ unterhaltsam machen.
 
-### Game Introduction
+### Spieltipps & Strategien
 
-"Ragdoll Archers" is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents. The realistic physics effects make each shot challenging and entertaining, while the character instability adds humor and unpredictability to the game.
+1.  **Schusswinkel beherrschen:** Lerne, den Bogen mit der Maus so zu ziehen,
+    dass du Flugbahn und Schwerkraft einkalkulierst. Je weiter die Distanz,
+    desto höher der Winkel.
+2.  **Bewegung des Gegners einkalkulieren:** Gegner bleiben selten stehen.
+    Ziele leicht vor ihre Bewegung, damit Pfeile auf ihrer Laufbahn landen.
+3.  **Umgebung nutzen:** Verstecke dich hinter Deckungen oder nutze Wände und
+    Plattformen, um dich vor Gegenbeschuss zu schützen oder Gegner aus der
+    Reserve zu locken.
+4.  **Balance halten:** Da deine Figur im Ragdoll-Stil schwankt, ist eine
+    stabile Haltung wichtig. Übertreibe Bewegungen nicht, sonst kippst du um
+    und verlierst Präzision.
+5.  **Schnell reagieren:** Das Spieltempo kann hoch sein – triff schnelle
+    Entscheidungen, wann du defensiv ausweichst oder offensiv nachsetzt.
 
-### Gameplay Strategy
+### Steuerung
 
-1.  **[DE]** **Master Shooting Skills**: Learn to adjust bow angle and power, considering the effects of gravity and air resistance on arrow trajectory.
-2.  **[DE]** **Predict Target Movement**: Opponents may move, so you need to anticipate their position for accurate hits.
-3.  **[DE]** **Utilize Environment**: Make good use of terrain and obstacles to protect yourself or create tactical advantages.
-4.  **[DE]** **Maintain Balance**: Due to the ragdoll nature of characters, maintaining balance is crucial for accurate shooting.
-5.  **[DE]** **Quick Reactions**: The game has a fast pace, requiring quick shooting decisions.
+*   **Zielen & Spannen:** Ziehe mit der Maus, um Winkel und Schusskraft zu
+    bestimmen.
+*   **Schießen:** Lasse die Maustaste los oder klicke, um den Pfeil zu lösen.
+*   **Bewegen (falls verfügbar):** In manchen Versionen kannst du deine Figur
 
-### How to Play
+- **Reload**: Some versions may require manual arrow reloading.
+    mit Tastatur oder Touch-Steuerung leicht versetzen.
 
-*   **[DE]** **Aim**: Typically use mouse dragging to adjust shooting angle and power.
-*   **[DE]** **Shoot**: Release mouse or click to fire arrows.
-*   **[DE]** **Move**: Use keyboard or touch screen to control character movement (if supported by the game).
-*   **[DE]** **Reload**: Some versions may require manual arrow reloading.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: Why is my character always swaying?**
-**A**: This is a design feature of the game; the ragdoll physics effects make characters unstable, which is part of the game's charm.
-2.  **[DE]** **Q: How can I improve shooting accuracy?**
-**A**: Practice aiming more, familiarize yourself with the physics engine characteristics, and learn to predict target movement.
-3.  **[DE]** **Q: Are there different game modes?**
-**A**: Many versions offer different game modes such as single-player vs AI, multiplayer battles, survival mode, etc.
-4.  **[DE]** **Q: Is there a limit to the number of arrows?**
-**A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
+1.  **F: Warum wackelt meine Figur ständig?**
+    **A:** Das ist ein bewusstes Feature – die Ragdoll-Physik gehört zum
+    Humor des Spiels und macht präzises Zielen zur Herausforderung.
+2.  **F: Wie erhöhe ich meine Trefferquote?**
+    **A:** Übe die Kombination aus Winkel und Zugkraft, beobachte, wie sich
+    Pfeile bei verschiedenen Distanzen verhalten, und passe dein Zielen an.
+3.  **F: Gibt es verschiedene Spielmodi?**
+    **A:** Viele Versionen bieten Duelle gegen KI, lokale Mehrspieler-Modi oder
+    Survival-Wellen – schau im Menü, welche Varianten verfügbar sind.
+4.  **F: Habe ich unbegrenzt Pfeile?**
+    **A:** Das hängt vom Modus ab. Manche Varianten begrenzen deine Munition,
+    andere lassen dich unbegrenzt schießen.

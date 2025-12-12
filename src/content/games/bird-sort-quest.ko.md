@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: bird-sort-quest
-title: '[KO] Bird Sort Quest'
+title: 'Bird Sort Quest 버드 소트 퀘스트'
 description: >-
-  [KO] Bird Sort Quest turns color‑sorting into a soothing challenge — move
-  birds between perches, unify colors, and plan several steps ahead.
+  여러 색깔 새들을 횃대 사이로 옮겨 같은 색끼리 모으는 정렬 퍼즐 게임입니다.
+  제한된 빈 횃대를 버퍼로 잘 활용해, 모든 횃대를 단일 색으로 정리해 보세요.
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/bird-sort-quest.png
 tags:
@@ -15,46 +15,71 @@ score: 4.1/5  (2069 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Bird Sort Quest는 액체/색깔 정렬 계열 퍼즐과 비슷한 구조의 논리 퍼즐 게임입니다.
+각 횃대에는 여러 색의 새들이 층을 이루어 앉아 있고, 한 번에 한 마리씩 다른
+횃대로 옮기면서 **모든 횃대가 한 가지 색의 새로만 채워지도록** 만드는 것이
+목표입니다.
 
+새를 옮길 때는 두 가지 제약이 있습니다. 먼저, 새를 옮길 수 있는 곳은
+**빈 횃대**이거나 가장 위에 있는 새와 **같은 색**이 있는 횃대뿐입니다.
+둘째, 이용 가능한 빈 횃대(버퍼)가 제한적이라, 잘못 사용하면 더 이상 옮길 수
+없는 막힌 상태(소프트락)에 빠질 수 있습니다. 퍼즐이 진행될수록 색깔 조합이
+복잡해져, 몇 수 앞을 내다보는 정리 계획이 필요합니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Bird Sort Quest is a calm logic puzzle in the family of liquid/sort games. Each perch holds a stack of colorful birds. Move one bird at a time so that every perch ends up with birds of a single color. The challenge comes from limited free perches and the rule that only a matching color (or empty slot) can accept a moved bird, forcing you to plan buffers and temporary parking.
+1.  **버퍼 횃대 확보:** 항상 최소 한 개 이상의 빈 횃대를 남겨 두려고
+    노력하세요. 버퍼가 있어야 복잡한 더미를 잠시 치워 두고 재정리할 수
+    있습니다.
+2.  **아래에서 위로 쌓기:** 한 색을 정리할 횃대를 정했다면, 아래층부터
+    올바른 색으로 채워 나가는 것이 좋습니다. 위에서부터 마구 쌓으면 나중에
+    아래층을 바꾸기 어렵습니다.
+3.  **외톨이 색깔 묻히지 않기:** 특정 색의 새가 소수만 남아 있을 때, 다른
+    색 더미 밑에 묻히지 않도록 가능한 한 빨리 꺼내 두세요. 깊이 파묻히면
+    정리 난도가 급격히 올라갑니다.
+4.  **두세 수 앞을 상상하기:** 지금 옮길 새를 놓을 자리를 정하기 전에,
+    그 다음에 어떤 새를 어디로 옮길지 두세 단계 정도 미리 떠올려 보세요.
+    한 번의 옮기기가 전체 정리 흐름을 막지 않는지 체크하는 데 도움이
+    됩니다.
+5.  **중반 이후 부분 스택 통합:** 같은 색이 여러 횃대에 나뉘어 있을 때,
+    가능한 순간에 조금씩 한 횃대로 모아 버리면 빈 횃대를 새로 만들 수
+    있어 퍼즐이 훨씬 쉬워집니다.
+6.  **막혔다 싶으면 빠르게 되돌리기:** 옮길수록 상황이 더 어지러워진다면,
+    실행 취소 기능을 활용해 몇 수 전으로 돌아가 다른 경로를 시도해 보는
+    것이 좋습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Reserve buffers: Keep at least one empty perch as a flexible buffer for shuffling.
-2.  **[KO]** Build from bottom: Stabilize stacks by finishing a color on a dedicated perch starting from the bottom.
-3.  **[KO]** Avoid burying singles: Don’t trap unique colors under mixed stacks; surface them early.
-4.  **[KO]** Two‑move foresight: Before moving, simulate the next two placements to avoid softlocks.
-5.  **[KO]** Consolidate mid‑game: Merge partial stacks of the same color as soon as feasible to free perches.
-6.  **[KO]** Backtrack quickly: If a move increases disorder, undo and try a different route while buffers are intact.
+- 새 옮기기: 새가 앉아 있는 횃대를 탭/클릭해 맨 위 새를 선택한 뒤, 옮기고
+  싶은 목표 횃대를 다시 탭/클릭하면 이동합니다.
+- 되돌리기/리셋: 지원되는 모드에서는 되돌리기 버튼으로 바로 전 수를 취소하거나,
+  리셋 버튼으로 퍼즐을 처음 상태로 되돌릴 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문 (FAQ)
 
-- Select a perch to pick the top bird, then select the destination perch.
-- Undo/Reset if the mode offers it; hints are best saved for late puzzles.
+- **움직일 수 있는 수가 전혀 안 보입니다. 어떻게 해야 하나요?**  
+  최근 몇 수에서 버퍼 횃대를 모두 채워 버렸을 가능성이 큽니다. 되돌리기를
+  이용해 한두 단계 전으로 돌아가, 먼저 외톨이 색을 꺼내거나 빈 횃대를
+  다시 확보하는 방향으로 수를 조정해 보세요.
 
-### Frequently Asked Questions (FAQ)
+- **모든 퍼즐이 항상 풀 수 있나요?**  
+  대부분의 레벨은 적어도 하나의 해가 존재하도록 설계되어 있습니다. 다만
+  제한된 버퍼 때문에 최적의 순서를 찾는 것이 관건입니다. 버퍼 1~2개를
+  꾸준히 유지하는 것만으로도 대부분의 퍼즐을 풀 수 있습니다.
 
-- Q: I’m stuck with no legal moves — what should I do?
+- **한 색을 끝까지 완성한 뒤에야 다른 색을 건드려야 하나요?**  
+  가능하면 그렇지만, 그 과정에서 버퍼를 모두 써 버린다면 무리하지 않는 것이
+  좋습니다. 때로는 한 색을 3/4 정도 완료해 두고 다른 색 정리로 넘어갔다가,
+  나중에 마무리하는 편이 더 안정적입니다.
 
-A: Backtrack a few moves and reopen a buffer perch. Prioritize surfacing buried singles to create new legal placements.
+- **추가 횃대가 생기는 경우가 있나요?**  
+  난이도가 높은 세트에서는 중간에 보너스 빈 횃대가 추가되는 경우도 있습니다.
+  이런 횃대는 가장 강력한 버퍼이니, 가능하면 끝까지 비워 두고 정말 필요한
+  순간에만 사용하는 것이 좋습니다.
 
-- Q: Is there a guaranteed strategy for every level?
-
-A: Not always, but maintaining at least one buffer and consolidating partial stacks early solves most layouts.
-
-- Q: Should I finish one color completely before touching others?
-
-A: It’s efficient to lock in a finished color when convenient, but don’t force it if it consumes all buffers.
-
-- Q: Are extra perches ever added?
-
-A: Some sets introduce bonus perches on tougher stages—use them as temporary parking to simplify.
-
-- Q: Do move counts matter?
-
-A: In some modes yes; aim for minimal moves by reducing unnecessary shuffles.
-
+- **이동 횟수가 점수에 영향을 주나요?**  
+  일부 모드는 최소 이동 횟수를 기준으로 별점이나 랭크를 매기기도 합니다.
+  이 경우 불필요한 왕복 이동을 줄이고, 한 번 옮긴 새는 가능한 한 다시
+  건드리지 않는 방향으로 플레이해 보세요.

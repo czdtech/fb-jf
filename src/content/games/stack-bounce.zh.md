@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: stack-bounce
-title: '[ZH TRANSLATION NEEDED] Stack Bounce'
-description: >-
-  [ZH TRANSLATION NEEDED] Test your timing and reflexes in Stack Bounce. Smash
-  through colorful platforms by holding down, but be sure to release before you
-  hit the black obstacles to keep the ball bouncing.
+title: 《Stack Bounce》堆塔弹跳挑战
+description: 《Stack Bounce》是一款考验节奏与反应的弹跳闯关游戏。按住不放让小球高速下砸，打碎彩色平台，但要在撞上黑色障碍前及时松手，让小球安全弹跳。
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
 thumbnail: /new-images/stack-bounce.jpeg
 tags:
@@ -17,33 +14,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+《Stack Bounce》是一款色彩鲜艳、上手简单的 3D 街机游戏。你控制一颗持续弹跳的小球，在由多层圆形平台堆叠成的螺旋塔中一路向下。按住屏幕或鼠标，小球会进入“下砸”状态，连续击碎沿途的彩色平台；但塔上还夹杂着黑色、不可破坏的平台，一旦在下砸状态撞上它们，小球就会立即粉碎，关卡失败。凭借一键式操作和爽快的破坏感，这款游戏容易上瘾却难以精通。
 
-[ZH TRANSLATION NEEDED] Stack Bounce is a vibrant and addictive 3D arcade game that tests players' timing and reflexes. The game features a bouncing ball that must descend through a helix tower made of colorful, breakable platforms. The objective is to reach the bottom of the tower by smashing through the stacks. However, players must strategically avoid the black, unbreakable sections of the platforms, as hitting them results in an instant game over. With its simple one-touch controls and satisfying destruction physics, Stack Bounce is easy to pick up but challenging to master.
+### 游玩策略与通关指引
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Hold to Smash:** The core mechanic is simple: press and hold the screen or mouse button to make the ball smash through the colored platforms. The longer you hold, the faster you descend.
-2.  [ZH TRANSLATION NEEDED] **Timing Your Release:** The most crucial skill is knowing when to release. As the tower rotates, you must release your hold just before the ball hits a black section. The ball will then bounce harmlessly on the platform until you decide to smash again.
-3.  [ZH TRANSLATION NEEDED] **Build Up Fever Mode:** If you successfully smash through several platforms in a row without stopping, you will build up a power meter. Once full, the ball enters "Fever Mode." In this state, it becomes a fiery projectile that can smash through *any* platform, including the black ones, for a short period. Use this to your advantage to clear difficult sections.
-4.  [ZH TRANSLATION NEEDED] **Patience is a Virtue:** Don't get greedy. It's often better to pause and wait for the right opening than to risk hitting a black platform by rushing. Wait for a long stretch of colored platforms to appear before holding down to build up speed.
+1.  **按住下砸：** 核心机制很简单——长按即可让球穿透一层层彩色平台，按得越久，下落越快、破坏连击越长。
+2.  **把握松手时机：** 最关键的技巧是何时松手。当旋转的塔即将让黑色区域来到小球正下方时，需要提前松手，让小球恢复普通弹跳状态，从而安全地在平台表面弹跳而不是继续下砸。
+3.  **积攒“狂热模式”（Fever）：** 如果你能在不松手的情况下连续砸穿大量彩色平台，就会逐渐填满能量槽并进入“狂热模式”。在此期间，小球进入无敌状态，可以无差别摧毁包括黑色平台在内的一切障碍，非常适合用来解决难段。
+4.  **保持耐心，不要贪：** 看到一长串彩色平台很容易想“一口气砸到底”，但切记任何一个黑色平台都会瞬间结束本局。有时在中途停一下，等待塔旋转到更安全的窗口再继续下砸，会比一次冒险到底更稳妥。
 
-### Controls Guide
+### 操作说明
 
-*   **Desktop/Laptop:** Press and hold the **left mouse button** to smash through platforms. Release the button to stop smashing and let the ball bounce.
-*   **Mobile/Tablet:** Press and hold your **finger on the screen** to smash. Lift your finger to stop.
+*   **PC / 笔记本：** 按住鼠标左键让小球下砸并打碎平台；松开鼠标则停止下砸，小球恢复普通弹跳。
+*   **手机 / 平板：** 手指按住屏幕即可下砸，抬起手指则恢复弹跳。
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What happens if I hit a black platform?**
-     *   **A:** Your ball shatters, and the game is over. You will have to restart the level.
-
-*   **Q: How do I activate Fever Mode?**
-     *   **A:** You activate it automatically by creating a long, uninterrupted combo of smashing through colored platforms. A circular meter will show your progress. Once it's full, Fever Mode begins.
-
-*   **Q: Can I break black platforms in Fever Mode?**
-     *   **A:** Yes. During Fever Mode, the ball is invincible and can destroy any platform, including the black ones, without penalty.
-
-*   **Q: Is there an end to the game?**
-     *   **A:** The game is level-based. Your goal is to reach the bottom of the helix tower to complete the current level and move on to the next, which will often be longer or more complex.
-
+### 常见问题解答（FAQ）
+*   **问：撞到黑色平台会怎样？****
+    *   答：** 如果在下砸状态撞上黑色平台，小球会立刻碎裂，本关从头开始。
+*   **问：怎么开启狂热模式？****
+    *   答：** 保持长按、连续砸穿多层彩色平台即可蓄力，当屏幕上的圆形能量条被填满后，小球会短暂进入无敌状态，能够撞碎包括黑色平台在内的所有层。
+*   **问：狂热模式下还能被黑色平台撞死吗？****
+    *   答：** 不会。处于狂热模式时，小球可以安心一路向下，无视颜色直接破坏所有平台。
+*   **问：游戏有尽头吗？****
+    *   答：** 游戏以关卡形式呈现，你的任务是在不失误的前提下到达当前螺旋塔的底部。通关后会解锁下一关，塔的高度和布局也会随之变化，挑战难度逐步提升。

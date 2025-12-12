@@ -1,10 +1,11 @@
 ---
 locale: zh
 urlstr: confront
-title: '[ZH TRANSLATION NEEDED] Confront'
+title: "Confront 子弹时间对决"
 description: >-
-  [ZH TRANSLATION NEEDED] Confront places players in a fast-paced shooting
-  scenario where quick aim and sharp reflexes are crucial.
+  《Confront 子弹时间对决》是一款节奏极快的射击游戏，你需要依靠迅捷的瞄准与反应在
+  子弹横飞的战场中生存，并利用子弹时间做出更精确的决策，体验与传统射击完全不同的紧
+  张对抗。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/confront.jpg
@@ -16,7 +17,24 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-[ZH TRANSLATION NEEDED] Confront places players in a fast-paced shooting scenario where quick aim and sharp reflexes are crucial. Employ bullet-time for more calculated actions, setting this title apart from typical shooters. Balance intuition and precision across varied, action-filled environments as you hone your accuracy in rapidly evolving challenges.
+《Confront 子弹时间对决》将玩家直接扔进高速节奏的枪战场景中，任何一次犹豫或失误都
+可能被瞬间击倒。与传统射击不同的是，游戏加入了“子弹时间”机制，你可以在关键时刻减慢
+时间，用更从容的节奏来观察战场、瞄准敌人，在混乱的枪林弹雨中打出极具观赏性的精确
+射击。
+
+你需要在不断变化的场景中平衡直觉与理性：一方面依靠反应迅速调整走位与准星，另一方面
+又要在子弹时间中冷静选择优先击杀目标，在一波波敌人和复杂地形中磨练自己的操作与准
+度。
 
 ### How to Play
-[ZH TRANSLATION NEEDED] Use your mouse to guide the character. Click to both slow down time and fire at enemies. Advance by defeating all opponents. Adapt quickly and aim carefully. A tip: prioritizing headshots can speed up success.
+
+*   **移动与瞄准：** 使用鼠标移动来引导角色与准星，始终保持与敌人之间的有利角度。
+*   **减速与射击：** 点击鼠标即可同时触发子弹时间与射击。时间放慢后，你可以更清晰地
+    看清敌人的位置与子弹轨迹，从容完成瞄准并开火。
+*   **清理所有敌人：** 只有在当前区域所有敌人都被击倒后，你才能继续推进到下一波挑战
+    。随着进度推进，敌人的数量与攻击节奏都会明显提升。
+*   **适应节奏并精确瞄准：** 不要在子弹时间中浪费时间四处乱扫，专注优先威胁目标，保
+    持一枪一命的高效率击杀。
+
+> 小提示：优先瞄准头部可以更快结束战斗，不仅节省子弹，也能在高压环境下为自己争取宝
+> 贵的喘息空间。

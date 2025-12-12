@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: kingdom-rush-frontiers
-title: '[DE] Kingdom Rush Frontiers'
+title: "Kingdom Rush Frontiers"
 description: >-
-  [DE] Tower defense sequel: build and upgrade towers, deploy reinforcements and
-  heroes, and counter enemy types with smart placement.
+  Kingdom Rush Frontiers ist der Nachfolger des Klassikers: Baue und verbessere
+  Türme, setze Verstärkungen und Helden ein und kontere verschiedene
+  Gegnertypen mit cleverer Platzierung.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/kingdom-rush-frontiers.jpg
 tags:
@@ -15,30 +16,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+Frontiers verfeinert die bekannte Kingdom-Rush-Formel mit neuen Biomen,
+Gegnerfähigkeiten und Turm-Spezialisierungen. Du setzt Bogentürme,
+Kasernen, Magier- und Artillerietürme an den Wegen ein und verzweigst sie in
+spezialisierte Ausbaustufen.
 
+Mit Verstärkungen, Meteor-ähnlichen Spezialangriffen und einem steuerbaren
+Helden stoppst du durchbrechende Gegner. Gleichzeitig musst du auf Rüstungs- und
+Magieresistenzen achten, damit deine Schadensarten zu den anrückenden Wellen
+passen.
 
-### Overview
-Frontiers refines the Kingdom Rush formula with new biomes, enemy abilities, and tower specializations. Place archer, barracks, mage, and artillery towers, then branch them into unique specials. Call reinforcements, drop meteor‑like specials, and micro your hero to plug leaks while managing armor/magic resist counters.
+### So spielst du
 
-### How to Play
-- Identify armor types; use mages vs. armored foes, archers/artillery vs. swarms.
-- Position barracks to stall at choke points; support with splash or magic.
-- Save hero skills and nukes for elite waves or flying rushes.
+- **Rüstungstypen erkennen:** Nutze Magier gegen stark gepanzerte Gegner und
+  Bogentürme/Artillerie gegen große Schwärme.  
+- **Kaserne richtig platzieren:** Stelle deine Nahkampfeinheiten an Engpässe,
+  um Gegner aufzuhalten, und unterstütze sie mit Flächenschaden oder Magie aus
+  der zweiten Reihe.  
+- **Helden & Specials timen:** Heb dir Heldenskills und Meteore für Elitewellen
+  oder große Flugformationen auf.
 
-### Controls
-- Mouse/touch to build, upgrade, and cast; hotkeys vary by host.
+### Steuerung
 
-### Tips
-- Don’t overbuild early—upgrade key towers for efficient damage.
-- Split splash and single‑target to handle mixed waves.
-- Scout flying paths; add anti‑air where needed.
+- Baue, verbessere und verkaufe Türme per Maus oder Touch.
+- Aktiviere Heldenfähigkeiten und Spezialangriffe über die UI; Hotkeys können
+  je nach Plattform variieren.
+
+### Tipps
+
+- **Nicht zu früh überbauen:** Ein paar gut verbesserte Türme sind effizienter
+  als viele schwache. Investiere dort, wo die meisten Gegner vorbeikommen.
+- **Splash- und Einzelzielschaden mischen:** So kannst du sowohl Massenwellen
+  als auch zähe Einzelgegner zuverlässig stoppen.
+- **Flugrouten im Blick behalten:** Baue rechtzeitig Türme mit Flugabwehr
+  entlang der Luftwege – sonst rutschen dir fliegende Gegner durch.
 
 ### FAQ
-- Q: Which tower upgrades should I prioritize?
-A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
-- Q: How do I counter heavy armor waves?
-A: Invest in mage lines and armor‑shredding skills.
-- Q: Are heroes necessary to win?
-A: Not required but very helpful for stalling and finishing elites.
 
+- **F: Welche Turm-Upgrades sollte ich zuerst priorisieren?**  
+  **A:** Konzentriere dein Gold auf ein bis zwei Kerntürme in der Nähe des
+  Hauptengpasses und bring sie auf hohe Stufen, statt überall kleine Türme zu
+  verteilen.
+
+- **F: Wie kontere ich Wellen mit schwer gepanzerten Gegnern?**  
+  **A:** Investiere in Magiertürme und Fähigkeiten, die Rüstung schwächen oder
+  ignorieren. Stelle sie an Stellen auf, an denen Gegner lange im Feuer stehen.
+
+- **F: Sind Helden zwingend nötig, um Levels zu schaffen?**  
+  **A:** Streng genommen nicht, aber sie helfen enorm, Lücken zu stopfen,
+  Elitegegner zu erledigen und kritische Stellen kurzfristig zu stabilisieren.

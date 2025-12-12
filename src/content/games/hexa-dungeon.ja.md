@@ -1,83 +1,40 @@
 ---
+title: "Hexa Dungeon"
+description: "Hexa Dungeonに入り、スケルトンを撃退しよう！同じ色の六角形タイルを繋げて、敵に強力な攻撃を繰り出すユニークなマッチ3パズルゲームです。"
+iframeSrc: "https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/"
+thumbnail: "/new-images/hexa-dungeon.png"
+urlstr: "hexa-dungeon"
+score: "4.3/5  (2100 votes)"
+tags: ["puzzle", "action", "strategy"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: hexa-dungeon
-title: '[JA TRANSLATION NEEDED] Hexa Dungeon'
-description: >-
-  [JA TRANSLATION NEEDED] Enter the Hexa Dungeon and fight off skeletons! A
-  unique match-3 puzzle game where you connect hexagonal tiles of the same color
-  to unleash powerful attacks on your enemies.
-iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
-thumbnail: /new-images/hexa-dungeon.png
-tags:
-  - puzzle
-  - action
-  - strategy
-score: 4.3/5  (2100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Hexa Dungeonは、マッチ3のメカニクスとダンジョン探索の戦闘を組み合わせた革新的なパズルRPGです。このゲームでは、ダンジョン内でスケルトンやその他のモンスターと対決します。敵を攻撃するには、下にあるパズルボード上で、同じ色の隣接する六角形タイルを3つ以上のチェーン（連鎖）として繋げる必要があります。作るチェーンが長いほど、攻撃はより強力になります。強力な攻撃を行うことと、次の手のために配置を整えることのバランスを取る必要がある戦略的なゲームです。
 
-[JA TRANSLATION NEEDED] Hexa Dungeon is an innovative puzzle-RPG that combines match-3 mechanics with dungeon-crawling combat. In this game, you face off against skeletons and other monsters in a dungeon. To attack your enemies, you must connect chains of three or more identical, adjacent hexagonal tiles on the puzzle board below. The longer the chain you create, the more powerful your attack will be. It's a strategic game where you must balance making powerful attacks with setting up future moves.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **長いチェーン = 大ダメージ:** コアとなる戦略は、同じタイルの可能な限り長いチェーンを作ることです。5つのタイルのチェーンは、3つのチェーンよりもはるかに大きなダメージを与えます。動く前に、常に最良の接続がないかボードをスキャンしましょう。
+2.  **先を読む:** ボードを見て、数手先を考えましょう。時には、あえて小さな3マッチを作ることで、次のターンで他のタイルを配置し、はるかに大きなマッチを可能にすることができます。
+3.  **集中砲火（フォーカスファイア）:** 複数の敵がいるレベルでは、どの敵をターゲットにするか選べる場合があります。一度に1体の敵に攻撃を集中させて素早く倒し、受けるダメージの総量を減らしましょう。
+4.  **スペシャルタイル:** ボード上に現れる特別なタイルに注意しましょう。これらは爆弾やその他のパワーアップであり、マッチに含めることで発動し、追加ダメージやその他の有益な効果をもたらします。
 
-[JA TRANSLATION NEEDED] 1.  **Longer Chains = More Damage:** The core strategy is to create the longest possible chain of matching tiles. A chain of 5 tiles will do significantly more damage than a chain of 3. Always scan the board for the best possible connection before making a move.
-[JA TRANSLATION NEEDED] 2.  **Plan Ahead:** Look at the board and think a few moves ahead. Sometimes, making a smaller match of 3 can position other tiles to allow for a much larger match on your next turn.
-[JA TRANSLATION NEEDED] 3.  **Focus Fire:** In levels with multiple enemies, you can often choose which enemy to target. Focus your attacks on one enemy at a time to defeat them more quickly, reducing the amount of incoming damage you take.
-[JA TRANSLATION NEEDED] 4.  **Special Tiles:** Keep an eye out for any special tiles that may appear on the board. These could be bombs or other power-ups that can be activated by including them in a match, resulting in extra damage or other beneficial effects.
+### 操作ガイド
 
-### Controls Guide
+ゲームはシンプルなクリック＆ドラッグ、またはスワイプ操作でプレイします。
 
-[JA TRANSLATION NEEDED] The game is played with a simple click-and-drag or swipe mechanic.
+*   **タイルを繋げる:** タイルをクリックしたまま（またはタッチしたまま）、隣接する同じタイルへカーソルをドラッグしてチェーンを作ります。マウスボタンを離すとマッチが確定し、攻撃が発射されます。
 
-*   **Connect Tiles:** Click and hold on a tile, then drag your cursor over adjacent, identical tiles to form a chain. Release the mouse button to confirm the match and launch your attack.
-    - **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.（日本語訳が必要）
-    - **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.（日本語訳が必要）
-    - **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.（日本語訳が必要）
-    - **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.（日本語訳が必要）
-    - **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.（日本語訳が必要）
-    - **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: どうやってスケルトンを攻撃するのですか？**
+    *   **A:** 六角形のパズルボードでマッチを作ることで攻撃します。同じ色のつながったタイルを少なくとも3つ見つけ、線を引いて繋げてください。
 
-*   **Q: How do I attack the skeletons?**
-[JA TRANSLATION NEEDED]     *   **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.
+*   **Q: どうすればもっとダメージを与えられますか？**
+    *   **A:** 繋げるタイルのチェーンが長いほど、攻撃は強力になります。7タイルのチェーンは、3タイルのチェーンよりはるかに強力です。
 
-*   **Q: How can I do more damage?**
-[JA TRANSLATION NEEDED]     *   **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
-
-*   **Q: Can I connect tiles diagonally?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
-
-
-
-
-
-
-
-
-
-
-    - **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
-- **Q: Can I connect tiles diagonally?**
-    - **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
-- **Q: How can I do more damage?**
-    - **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.
-- **Q: How do I attack the skeletons?**
-### よくある質問（FAQ）
-- **Connect Tiles:** Click and hold on a tile, then drag your cursor over adjacent, identical tiles to form a chain. Release the mouse button to confirm the match and launch your attack.
-
-
-
-
-
-
-    - **A:** Yes. Because the board is made of hexagons, you can connect tiles in six different directions to any adjacent, identical tile.
-- **Q: Can I connect tiles diagonally?**
-    - **A:** The longer the chain of tiles you connect, the more powerful your attack will be. A 7-tile chain is much stronger than a 3-tile chain.
-- **Q: How can I do more damage?**
-    - **A:** You attack by making matches on the hexagonal puzzle board. Find a group of at least three connected tiles of the same color and draw a line through them.
+*   **Q: 斜めにタイルを繋げることはできますか？**
+    *   **A:** はい。ボードは六角形でできているため、隣接する同じタイルであれば、6つの異なる方向に繋げることができます。

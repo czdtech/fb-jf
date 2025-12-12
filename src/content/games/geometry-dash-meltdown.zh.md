@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: geometry-dash-meltdown
-title: '[ZH TRANSLATION NEEDED] Geometry Dash Meltdown'
+title: "Geometry Dash Meltdown 幾何衝刺：熔毀篇"
 description: >-
-  [ZH TRANSLATION NEEDED] Rhythm platformer pack: jump and fly through new
-  music‑synced levels with themed hazards and ship segments.
+  節奏平台關卡包：在全新曲目與主題關卡中跳躍與飛行，
+  穿過各種尖刺、跳板與重力傳送門，挑戰高難度飛船與球形段落。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/geometry-dash-meltdown.jpg
 tags:
@@ -17,25 +17,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Standalone set of Geometry Dash levels with distinct visual themes and songs; expect spikes, pads, portals, and ship/ball sections.
+
+《Geometry Dash Meltdown》是一組獨立的幾何衝刺關卡集，
+每一關都有專屬的視覺主題與配樂，充滿尖刺、跳板、傳送門，以及飛船、球形等變身段落。
+關卡依舊與音樂節奏嚴密同步，需要高度集中與多次練習。
 
 ### How to Play
-- Learn patterns in practice, then execute full runs.
-- Tap on the beat; hold ship/ball sections with gentle inputs.
-- Use jump pads and rings precisely; over‑tapping causes misses.
+
+- 先在練習模式中熟悉陷阱與節奏，再回到正式模式完成無失誤通關。
+- 跟著節拍按跳躍鍵，對於飛船與球形模式則以輕按、短按為主，保持穩定高度與節奏。
+- 對跳板、跳環的觸發點要精準，亂按會錯過預期高度或直接撞上陷阱。
 
 ### Controls
-- Tap/Space/Mouse to jump; hold to fly (host dependent).
+
+- 點擊、空白鍵或滑鼠按下可讓角色跳躍；
+- 在飛船模式下長按上升、放開下降（具體以託管版本為準）。
 
 ### Tips
-- Turn off heavy effects if timing feels late.
-- Count beats aloud for early learning.
+
+- 若覺得按鍵總是延遲半拍，可以在設定裡關閉部分畫面特效，或調整延遲補償。
+- 剛開始練習時可以小聲地跟著音樂節奏數拍，幫助掌握長跳與連跳的節奏差異。
 
 ### FAQ
-- Q: Are the levels different from the base game?  
-[ZH TRANSLATION NEEDED]   A: Yes, Meltdown features its own curated tracks and layouts.
-- Q: Can I use practice mode here?  
-[ZH TRANSLATION NEEDED]   A: Most hosts include a practice option with checkpoints.
-- Q: Is there user‑generated content?  
-[ZH TRANSLATION NEEDED]   A: Meltdown focuses on built‑in levels; UGC depends on host.
 
+- 問：這些關卡和本傳有什麼不同？  
+  答：Meltdown 內含的是獨立策畫的關卡與曲目，路線與機關設計與本體不同，
+  適合當作額外關卡包遊玩。
+
+- 問：這裡也有練習模式嗎？  
+  答：多數版本都支援練習模式與檢查點，你可以在困難段落前後自由插旗練習。
+
+- 問：有玩家自製關卡嗎？  
+  答：Meltdown 主要以官方內建關卡為主，是否支援 UGC 要看實際託管平台功能。

@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bloons-td-3
-title: '[KO] Bloons TD 3'
+title: 'Bloons TD 3 블룬스 TD 3'
 description: >-
-  [KO] Defend against waves of colorful bloons in Bloons TD 3! Place and upgrade
-  8 unique towers, utilize the powerful Monkey Beacon, and prepare to face the
-  first-ever MOAB in this classic tower defense strategy game.
+  형형색색의 블룬 물결을 막아 내는 고전 타워 디펜스 게임 Bloons TD 3입니다.
+  8종의 개성 있는 타워를 배치·업그레이드하고 강력한 Monkey Beacon을 활용해,
+  시리즈 최초로 등장하는 MOAB에 대비해 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/bloons-td-3.jpg
 tags:
@@ -15,60 +15,113 @@ score: 4.9/5  (538 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bloons TD 3는 시리즈의 방향을 크게 확장시킨 전환점 같은 작품입니다. 기본적인
+게임 방식은 동일합니다. 원숭이 타워를 길가에 배치해 끊임없이 몰려오는 블룬을
+터뜨리고, 끝지점까지 도달하지 못하게 막는 것이 목표입니다. 다만 이번 작품에서는
+이후 시리즈의 표준이 되는 여러 요소들이 본격적으로 도입됩니다.
 
+여러 개의 맵(트랙)과 쉬움(Easy)·보통(Medium)·어려움(Hard) 3단계 난이도가
+제공되며, 난이도에 따라 시작 목숨 수와 타워 가격이 달라집니다. 플레이어는
+블룬을 터뜨릴 때마다 돈을 얻고, 이를 사용해 8종의 타워를 새로 배치하거나
+업그레이드합니다. BTD3의 큰 변화 중 하나는, 각 타워가 고유한 업그레이드를
+가지며 **한 타워에 모든 업그레이드를 전부 구매할 수 있다**는 점입니다. (이후
+작품처럼 가지가 갈라지는 업그레이드 트리가 아니라, 전부 합쳐지는 방식입니다.)
 
+**Bloons TD 3의 주요 특징**
 
-### Game Introduction
+-   **새로운 타워들**: 타워 종류가 8개로 늘어나며, **Boomerang Thrower**,
+    **Spike-o-pult**, 그리고 핵심 서포트 타워인 **Monkey Beacon**이 처음
+    등장합니다.
+-   **MOAB의 첫 등장**: 이 작품에서 처음으로 **M.O.A.B. (Massive Ornary Air
+    Blimp)**가 모습을 드러냅니다. 느리지만 체력이 매우 높은 거대한 파란
+    비행선 블룬으로, 쉬움·보통 난이도의 최종 라운드에서 보스처럼 등장해
+    강력한 집중 화력을 요구합니다.
+-   **여러 트랙과 난이도**: 이전 작품보다 훨씬 다양한 맵 구성과 난이도가
+    제공되어 반복 플레이성이 크게 향상되었습니다.
+-   **풀 업그레이드 시스템**: 한 타워에 준비된 업그레이드를 모두 사들이면
+    후반부를 책임질 강력한 유닛으로 성장합니다.
+-   **지속되는 블룬 면역 속성**: **Lead(날카로운 공격 면역)**,
+    **Black(폭발 면역)**, **White(빙결 면역)** 블룬 개념은 여전히 게임 전략의
+    핵심 요소입니다.
 
-Bloons TD 3 is a pivotal entry in the tower defense series that significantly expanded upon its predecessors. The core gameplay remains focused on placing monkey towers to pop waves of "Bloons" before they complete a designated path. This installment, however, introduced several key features that became staples of the series.
+### 플레이 전략
 
-The game offers multiple tracks and three difficulty levels (Easy, Medium, Hard), each with a different number of starting lives and tower costs. Players earn money by popping Bloons, which is then used to buy and upgrade eight different towers. A major change in BTD3 is that each tower has its own unique upgrades, and players can purchase all available upgrades for a single tower, unlike later games which introduced branching paths.
+-   **초반은 균형 있게 시작하기**  
+    스타트 구간에서는 Dart Monkey와 Tack Shooter를 섞어 쓰는 것이 안정적입니다.
+    Dart Monkey는 빠르게 "Piercing Darts" 업그레이드를 해 두면 밀집된 블룬도
+    무리 없이 처리할 수 있습니다. 곡선 구간에는 Boomerang Thrower를 배치하면
+    한 번 던진 부메랑이 여러 번 블룬을 스치며 좋은 효율을 냅니다.
 
-**Key Features of Bloons TD 3:**
--   **New Towers:** The roster was expanded to eight towers, introducing the **Boomerang Thrower**, **Spike-o-pult**, and the crucial support tower, the **Monkey Beacon**.
--   **The MOAB:** This game marks the very first appearance of the **M.O.A.B.** (Massive Ornary Air Blimp). This tough, slow-moving blimp acts as a "boss" on the final round of Easy and Medium difficulties, requiring a powerful, focused defense to take down.
--   **Multiple Tracks & Difficulties:** Provided much more replayability than previous titles.
--   **Full Upgrade System:** Players could fully upgrade a tower by purchasing all of its available enhancements, making for very powerful late-game units.
--   **Persistent Bloon Immunities:** The concepts of **Lead** (immune to sharp), **Black** (immune to explosions), and **White** (immune to freeze) Bloons are central to the game's strategy.
+-   **26라운드 Lead Bloon 대비**  
+    Lead Bloon(납 블룬)은 26라운드에 처음 등장합니다. 이 라운드를 넘기기
+    위해서는 반드시 "Bigger Bombs" 업그레이드를 달아 둔 Bomb Tower가 필요합니다.
+    초반에 얻을 수 있는 다른 타워들은 모두 날카로운 투사체 공격이라 리드
+    블룬의 껍질을 벗길 수 없습니다.
 
-### Gameplay Strategy
+-   **Monkey Beacon 적극 활용하기**  
+    Monkey Beacon은 이 게임에서 가장 중요한 서포트 타워 중 하나입니다. 범위
+    안에 있는 모든 타워의 사거리를 크게 늘려 주기 때문입니다. 맵의 중앙에
+    Beacon을 배치하고, 그 주변에 핵심 타워들을 몰아서 설치해 보세요.
+    Beacon의 "Super Range" 업그레이드는 최우선으로 고려할 만한 강력한 선택입니다.
 
--   **Balanced Start:** Begin with Dart Monkeys and Tack Shooters. Upgrade your Dart Monkeys to "Piercing Darts" quickly. A Boomerang Thrower is excellent for covering curved sections of the track.
--   **Prepare for Lead Bloons (Round 26):** Lead Bloons make their first appearance on round 26. You **must** have a Bomb Tower with the "Bigger Bombs" upgrade ready to deal with them. No other early-game tower can pop them.
--   **Leverage the Monkey Beacon:** The Monkey Beacon is one of the most important towers. It increases the range of all towers within its radius. Place it in a central location and build a cluster of your most powerful towers around it. The "Super Range" upgrade for the Beacon is a top priority.
--   **The "Beacon Super Monkey" Strategy:** The most dominant late-game strategy involves placing a Super Monkey right next to a fully upgraded Monkey Beacon. The massive range boost turns the Super Monkey into a full-screen map clearer, essential for handling the dense final waves.
--   **How to Beat the MOAB:** The MOAB appears on round 50 (Easy/Medium). It has a lot of health. The best way to destroy it is with high, single-target damage.
-    -   A Super Monkey (especially one buffed by a Beacon) is the best option.
-    -   A cluster of several Bomb Towers set to "target strong" can also focus fire on it effectively.
-    -   Remember, after the MOAB pops, it releases several Ceramic Bloons, so make sure your defense can handle the aftermath.
--   **Spike-o-pults for Straights:** Place Spike-o-pults at the beginning of long, straight paths. Their spiked balls can travel a long distance, popping multiple Bloons along the way.
+-   **"Beacon + Super Monkey" 조합**  
+    후반부에서 가장 강력한 전략 중 하나는, 완전히 업그레이드한 Monkey Beacon
+    옆에 Super Monkey를 붙여 두는 것입니다. 사거리 보너스 덕분에 Super Monkey가
+    맵 거의 전역을 커버하는 수준의 화력을 내게 되어, 마지막 라운드의
+    물량 러시를 처리하는 데 큰 도움이 됩니다.
 
-### Controls Guide
+-   **MOAB 격파 전략**  
+    MOAB은 쉬움·보통 난이도 기준 50라운드에 등장하며, 매우 높은 체력을
+    자랑합니다. 느리게 움직이지만 그만큼 오래 맞아도 버티므로, **단일 대상에
+    큰 피해를 주는 화력**이 중요합니다.
+    -   Monkey Beacon의 버프를 받은 Super Monkey가 가장 이상적인 해결책입니다.
+    -   "강한 블룬 우선(target strong)"으로 설정한 Bomb Tower 여러 개를 묶어
+        두면 MOAB에 집중 포화를 가할 수 있습니다.
+    -   MOAB이 터진 뒤에는 내부에서 Ceramic Bloon 여러 개가 쏟아져 나오므로,
+        그 이후까지 커버할 수 있는 보조 방어선도 꼭 준비해야 합니다.
 
-The game uses a simple and intuitive point-and-click interface.
+-   **Spike-o-pult는 직선 구간에**  
+    Spike-o-pult는 가시 공을 멀리 굴려 보내는 타워입니다. 긴 직선 트랙 초입에
+    배치하면 공이 지나가는 동안 여러 블룬을 연달아 터뜨릴 수 있어 효율이
+    매우 좋습니다.
 
--   **Select & Place Tower:** Click a tower from the right-hand panel, then click on a valid spot on the map to place it.
--   **Upgrade Tower:** Click on an existing tower on the map to see its available upgrades in the panel. Click an upgrade to purchase it.
--   **Start Round/Fast Forward:** Use the buttons at the bottom right to start the next round or to speed up the game.
--   **Hotkeys:** Use the number keys (1-8) to select towers. The spacebar starts the next round.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+기본 조작은 마우스로 진행되는 간단한 포인트 앤 클릭 방식입니다.
 
-**1. I can't pop the grey (Lead) Bloons! What do I do?**
-> Lead Bloons are immune to all sharp projectiles (darts, tacks, boomerangs). You must use a Bomb Tower to pop them.
+-   **타워 선택 및 배치:** 우측 패널에서 원하는 타워를 클릭한 다음, 맵 위의
+    설치 가능한 위치를 클릭해 배치합니다.
+-   **타워 업그레이드:** 맵에 이미 있는 타워를 클릭하면 패널에 업그레이드
+    목록이 나타납니다. 원하는 업그레이드를 클릭하면, 충분한 돈이 있을 때
+    바로 적용됩니다.
+-   **라운드 시작/빠른 진행:** 화면 오른쪽 아래의 버튼으로 다음 라운드를
+    시작하거나 게임 속도를 높일 수 있습니다.
+-   **단축키:** 숫자 키 1~8로 각 타워를 빠르게 선택할 수 있으며, 스페이스바로
+    다음 라운드를 시작할 수 있습니다.
 
-**2. What is the big blue blimp at the end of the game?**
-> That is the M.O.A.B. (Massive Ornary Air Blimp). It is a very durable boss Bloon. It moves slowly but can absorb a lot of damage before it pops.
+### 자주 묻는 질문 (FAQ)
 
-**3. Why should I use the Monkey Beacon? It doesn't attack.**
-> The Monkey Beacon is a support tower. It provides a crucial range boost to all towers placed near it. A Super Monkey next to a Beacon can cover almost the entire map, making it far more effective.
+**1. 회색(Lead) 블룬이 전혀 터지지 않아요. 어떻게 해야 하나요?**  
+> Lead Bloon은 다트, 택, 부메랑처럼 날카로운 투사체 공격에 완전히 면역입니다.
+> Bomb Tower의 폭발로만 껍질을 벗길 수 있으니, 반드시 폭탄 타워를 준비하세요.
 
-**4. How many rounds are there?**
-> -   **Easy Difficulty:** 50 rounds.
-> -   **Medium Difficulty:** 50 rounds.
-> -   **Hard Difficulty:** 75 rounds.
+**2. 게임 끝에 나오는 큰 파란 비행선은 뭐예요?**  
+> 그것이 바로 M.O.A.B. (Massive Ornary Air Blimp)입니다. 매우 튼튼한 보스급
+> 블룬으로, 속도는 느리지만 엄청난 피해를 받아야 겨우 터집니다.
 
-**5. What's the difference between Black and White Bloons?**
-> Black Bloons are immune to explosions (from Bomb Towers). White Bloons are immune to being frozen (by Ice Towers). You need other towers like Dart Monkeys or Boomerangs to handle them.
+**3. Monkey Beacon은 공격도 안 하는데 왜 써야 하나요?**  
+> Monkey Beacon은 공격 대신 **사거리 버프**를 제공하는 지원형 타워입니다.
+> 비컨 주변에 배치된 타워들의 공격 범위가 크게 늘어나기 때문에, 특히 Super
+> Monkey와 함께 썼을 때 맵 대부분을 커버하는 강력한 방어선을 만들 수 있습니다.
 
+**4. 총 라운드는 몇 개나 되나요?**  
+> -   **쉬움(Easy):** 50라운드
+> -   **보통(Medium):** 50라운드
+> -   **어려움(Hard):** 75라운드
+
+**5. Black Bloon과 White Bloon의 차이는 무엇인가요?**  
+> Black Bloon은 Bomb Tower의 폭발 공격에 면역이고, White Bloon은 Ice Tower의
+> 빙결 효과에 면역입니다. 이런 블룬들은 Dart Monkey나 Boomerang Thrower 등
+> 다른 공격 방식을 가진 타워로 처리해야 합니다.

@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: breaking-the-bank
-title: '[FR] Breaking the Bank'
-description: >-
-  [FR] Attempt a daring bank heist in Breaking the Bank, the first Henry
-  Stickmin adventure! Choose your method and watch the hilarious outcomes, but
-  only one path leads to success.
-iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
+title: "Breaking the Bank"
+description: "Breaking the Bank est le tout premier épisode d’Henry Stickmin : choisis une méthode pour cambrioler une banque et découvre une série de FAILs hilarants… une seule option mène au « succès »."
+iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
 thumbnail: /new-images/breaking-the-bank.jpg
 tags:
   - puzzle
@@ -15,57 +12,52 @@ score: 4.7/5  (1071 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Breaking the Bank* est un très court jeu interactif à choix, premier volet de la série **Henry Stickmin**. Henry se tient devant une banque en plein désert et doit décider comment tenter de la braquer.
 
+Tu ne contrôles pas Henry directement : tout le gameplay tient en **une seule sélection de méthode**. Le plaisir provient des innombrables FAIL comiques plutôt que d’une victoire immédiate.
 
+### Guide de jeu
 
+Le jeu se résume à essayer chaque option, regarder l’animation, puis revenir au menu pour en tester une autre. Il n’y a littéralement qu’une décision à prendre, ce qui en fait un excellent terrain de jeu pour l’humour absurde d’Henry Stickmin.
 
+L’écran affiche six méthodes possibles :
 
-### Game Introduction
+1. **Explosifs** – faire sauter le mur.  
+2. **Laser Drill** – découper le mur au laser.  
+3. **Shovel** – creuser un tunnel sous la banque.  
+4. **Wrecking Ball** – utiliser une boule de démolition.  
+5. **Disguise** – se cacher dans un chargement.  
+6. **Teleporter** – tenter la téléportation.  
 
-Breaking the Bank is a short, interactive, choice-based animated game. It is the very first installment in the popular Henry Stickmin series. The game presents a simple scenario: the protagonist, a stick figure named Henry Stickmin, stands before a bank in the middle of a desert, contemplating how to break in and rob it.
+**Solution :**  
+> Seule **Shovel** mène à la “réussite”. Toutes les autres méthodes sont volontairement conçues comme des FAILs hilarants : un vrai travail de collectionneur de gags.
 
-Unlike traditional games, there is no direct control over movement or actions. Instead, the gameplay consists of a single decision point. The player is presented with a selection of six different methods or tools to break into the bank. The core appeal of the game lies not in finding the correct answer, but in exploring the hilarious and unique "FAIL" animations that result from each incorrect choice. The goal is to find the one and only correct option that allows Henry to succeed.
+### Commandes
 
-### Gameplay Walkthrough
+Le jeu se contrôle exclusivement à la souris.
 
-The gameplay in Breaking the Bank is entirely based on trial and error. There is only one choice to make in the entire game.
+- **Curseur souris :** survole les différentes icônes pour voir leur descriptif.  
+- **Clic gauche :** sélectionne une option et laisse l’animation se dérouler.  
 
-You are presented with six options displayed at the bottom of the screen:
-1.  **[FR]** **Explosives:** Try to blow a hole in the wall.
-2.  **[FR]** **Laser Drill:** Use a high-tech laser to cut through the wall.
-3.  **[FR]** **Shovel:** Dig a tunnel underneath the bank.
-4.  **[FR]** **Wrecking Ball:** Call in a wrecking ball to smash the wall.
-5.  **[FR]** **Disguise:** Try to sneak in using a disguise.
-6.  **[FR]** **Teleporter:** Use a futuristic device to teleport inside.
+### Foire aux questions (FAQ)
 
-**The Solution:**
-> There is only one correct path to win the game. The correct option to choose is the **Shovel**. This will trigger an animation of Henry successfully digging a tunnel into the bank's vault. Any other choice will result in a humorous FAIL screen. The fun of the game is clicking on all the other options first to see the funny outcomes.
+**Q : Existe-t-il plusieurs fins victorieuses ?**  
+> Non. Uniquement Shovel débloque la scène “réussie”, tout le reste est fait pour te faire rire.  
 
-### Controls Guide
+**Q : Pourquoi c’est si court ?**  
+> Parce que c’est le prototype de la série Henry Stickmin. Les épisodes suivants sont nettement plus longs et plus complexes.  
 
-The game is controlled entirely with the mouse.
+**Q : Quelle est la chronologie de la série ?**
 
--   **Mouse Cursor:** Move the cursor to hover over an option.
--   **Left-Click:** Click on your desired option to see what happens.
+> Oui, *Breaking the Bank* est le point de départ officiel de la saga Henry Stickmin. Voici l’ordre recommandé :
+> 1.  Breaking the Bank  
+> 2.  Escaping the Prison  
+> 3.  Stealing the Diamond  
+> 4.  Infiltrating the Airship  
+> 5.  Fleeing the Complex  
+> Ces jeux ont ensuite été remasterisés et regroupés avec l’ultime chapitre Completing the Mission dans *The Henry Stickmin Collection*.  
 
-### Frequently Asked Questions (FAQ)
-
-**1. Is there more than one way to win the game?**
-> No, there is only one specific choice (the Shovel) that leads to success. All other choices are designed to be humorous failures.
-
-**2. Why is the game so short?**
-> Breaking the Bank was the very first game in the series and served as a simple proof-of-concept for the choice-based "choose your own adventure" style of gameplay. Its successors are much longer and more complex.
-
-**3. Is this game part of a series?**
-> Yes, this is the first game in the iconic **Henry Stickmin** series. The chronological order of the games is:
-> 1.  Breaking the Bank
-> 2.  Escaping the Prison
-> 3.  Stealing the Diamond
-> 4.  Infiltrating the Airship
-> 5.  Fleeing the Complex
-> These games were later remastered and bundled together with a final, grand-finale chapter called "Completing the Mission" in **The Henry Stickmin Collection**.
-
-**4. Where is the gameplay? I only get one choice.**
-> The "gameplay" is the experience of seeing all the different outcomes. The main point is not to win immediately, but to click on every option to enjoy the comedy and animation of the various fails before finding the correct solution.
-
+**Q : Où est le “gameplay” si je ne fais qu’un choix ?**  
+> Le gameplay, c’est de collectionner tous les FAILs. On joue pour l’animation et les blagues, pas pour un run parfait.  

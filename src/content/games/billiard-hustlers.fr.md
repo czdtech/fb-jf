@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: billiard-hustlers
-title: '[FR] Billiard Hustlers'
-description: >-
-  [FR] Billiard Hustlers brings pool fundamentals to the browser — aim clean,
-  control cue‑ball, and run the table with smart position play.
-iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
+title: "Billiard Hustlers"
+description: "Billiard Hustlers est un simulateur de billard orienté technique : vise proprement, applique un peu d’effet et contrôle la bille blanche pour enchaîner les coups gagnants."
+iframeSrc: "https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/"
 thumbnail: /new-images/billiard-hustlers.jpg
 tags:
   - sports
@@ -14,48 +12,44 @@ score: 4.2/5  (2217 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Billiard Hustlers* est un jeu de billard qui met l’accent sur le réalisme des trajectoires et le contrôle de la bille blanche. Que tu joues en 8‑ball, 9‑ball ou en défis de séries de poches, l’objectif reste de rentrer les bonnes billes tout en positionnant la blanche idéalement pour le coup suivant.
 
+### Guide de jeu
 
-### Detailed Game Introduction
+1.  **Anticipe la position suivante :** avant chaque tir, décide précisément où tu veux arrêter la blanche pour préparer le coup suivant.
+2.  **Discipline de vitesse :** privilégie des frappes fluides et de puissance moyenne pour gagner en précision et limiter les déviations.
+3.  **Effets avec parcimonie :** utilise un peu de topspin pour suivre, de rétro pour revenir et de léger latéral pour ajuster les angles, mais commence toujours par de petites doses.
+4.  **Priorise les patterns :** en 8‑ball, élimine tôt les billes problématiques et les paquets ; en 9‑ball, trace une route naturelle qui suit l’ordre numérique.
+5.  **Les bandes sont tes alliées :** mémorise les trajectoires à deux ou trois bandes pour revenir au centre ou approcher une bille clé.
+6.  **Joue la sécurité quand il le faut :** si le pourcentage de réussite est bas, cache la blanche derrière une bille ou sur une bande pour compliquer la riposte adverse.
 
-Billiard Hustlers is a slick pool sim that emphasizes aiming, spin, and cue‑ball control. Whether you’re playing 8‑ball, 9‑ball, or simple pot challenges, the core is identical: pocket your object balls while leaving the cue‑ball ideal for the next shot. Lighter tables and faster cloth encourage precise power and subtle english (spin) to shape routes across the table.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- **Visée :** déplace la souris pour orienter la queue.  
+- **Puissance :** tire le curseur de force en arrière puis relâche pour frapper.  
+- **Effet :** clique sur le schéma de bille blanche pour placer le point d’impact (top, rétro, latéral).  
+- **Caméra :** certaines versions permettent de zoomer ou de déplacer la vue.
 
-1.  **[FR]** Pre‑plan position: Before every pot, decide where you want the cue‑ball to stop for the next shot.
-2.  **[FR]** Speed discipline: Smooth, medium‑firm strokes improve accuracy and reduce skid.
-3.  **[FR]** Use spin sparingly: Topspin to follow, backspin to draw back, sidespin to change lines after rails—start with small amounts.
-4.  **[FR]** Patterns first: In 8‑ball, clear clusters and problem balls early; in 9‑ball, route naturally along the lowest numbers.
-5.  **[FR]** Rails are allies: Learn natural two‑ and three‑rail paths to return to center or approach key balls.
-6.  **[FR]** Safety when needed: If the pot is low‑percentage, play a safety to leave your opponent tough.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+-   **Q : Pourquoi mes billes “rattent” souvent dans le trou ?**
 
-- Aim: Drag to line up; fine‑tune with small mouse movements.
-- Power: Pull back the cue meter; release to shoot.
-- Spin: Adjust the cue‑ball diagram for top/back/side spin.
-- Camera: Some versions allow pan/zoom for better sightlines.
+    **R :** Tu tires probablement trop fort ou avec un angle approximatif. Diminue la puissance, vise le centre exact de la poche et limite l’effet latéral sur les coups très fins.
 
-### Frequently Asked Questions (FAQ)
+-   **Q : Comment mieux contrôler la blanche ?**
 
-- Q: My pots keep rattling out—what’s wrong?
+    **R :** Priorise la vitesse avant tout. Une fois le dosage acquis, ajoute un peu de topspin ou de rétro pour ajuster la course après impact, et sers‑toi des bandes pour amortir la vitesse.
 
-A: You’re hitting too hard or at a poor angle. Reduce power, ensure clean aim through the pocket center, and avoid heavy sidespin on thin cuts.
+-   **Q : Quand faut‑il privilégier un coup défensif ?**
 
-- Q: How do I control the cue‑ball better?
+    **R :** Si la probabilité de rentrer la bille est faible (40–50 % ou moins) et que tu risques d’offrir une table ouverte à l’adversaire, préfère un safety qui colle la blanche à une bande ou derrière un bloc.
 
-A: Focus on speed first, then add small amounts of top/backspin. Use rails to bleed off speed and approach your next ball at a friendly angle.
+-   **Q : Astuces pour ouvrir un paquet de billes collées ?**
 
-- Q: When should I play safe instead of potting?
+    **R :** Attaque les clusters tôt, tant que tu as des billes “assurance” proches. Utilise une vitesse contrôlée pour éviter que la blanche reste collée au paquet après l’impact.
 
-A: If the pot is under 40–50% and leaves you snookered, a safety that tucks the cue‑ball behind traffic is often superior.
+-   **Q : Différences entre patterns 8‑ball et 9‑ball ?**
 
-- Q: Any tip for breaking clusters?
-
-A: Nudge clusters early while you have nearby insurance balls; use controlled speed to avoid sticking on the pack.
-
-- Q: 8‑ball vs 9‑ball patterns—what’s the difference?
-
-A: 8‑ball prioritizes solving problem balls and end‑patterns; 9‑ball routes naturally in numeric order, focusing on cue‑ball lines between consecutive targets.
-
+    **R :** En 8‑ball, on résout vite les billes problématiques et on planifie la fin de table. En 9‑ball, on suit l’ordre numérique et on trace des trajectoires naturelles entre chaque numéro consécutif.

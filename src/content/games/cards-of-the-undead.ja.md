@@ -1,84 +1,42 @@
 ---
+title: "Cards of the Undead カーズ・オブ・ザ・アンデッド"
+description: "「Cards of the Undead」でゾンビ溢れるカードの世界を生き残れ！カードをめくって戦い、アイテムを集め、ヒーローを強化するターン制サバイバルパズル。"
+iframeSrc: "https://cardsoftheundead.h5games.usercontent.goog/v/1hioq97j28ts0/"
+thumbnail: "/new-images/cards-of-the-undead.png"
+urlstr: "cards-of-the-undead"
+score: "4.2/5  (1450 votes)"
+tags: ["puzzle", "strategy", "zombie"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: cards-of-the-undead
-title: '[JA TRANSLATION NEEDED] Cards of the Undead'
-description: >-
-  [JA TRANSLATION NEEDED] A turn-based strategy card game of survival. Move your
-  hero across the board, battle zombies, and collect coins and power-ups. Manage
-  your health and armor to survive as long as you can!
-iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
-thumbnail: /new-images/cards-of-the-undead.png
-tags:
-  - card
-  - strategy
-  - puzzle
-  - thinky
-score: 4.3/5  (2250 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cards of the Undead（カーズ・オブ・ザ・アンデッド）*は、ゾンビが大発生した世界を舞台にした、スリリングなターン制カードパズルゲームです。あなたは勇敢なサバイバーとなり、3x3のカードグリッドで構成されたフィールドを進んでいきます。
 
-[JA TRANSLATION NEEDED] Cards of the Undead is a turn-based roguelike puzzle game set in a zombie apocalypse. The world is represented by a grid of face-down cards, and you control a hero who can move one space at a time. Each move uncovers a new card, which could be a zombie to fight, valuable coins, or helpful items like health potions and armor. The goal is to strategically navigate the board, manage your health, defeat all the zombies, and survive for as long as possible.
+プレイヤーは隣接するカードをめくりながら探索します。めくったカードが武器や回復薬ならラッキーですが、ゾンビなら戦闘になります。あなたの行動の一つ一つが命取りになる緊張感と、シンプルなルールながら深い戦略性が融合しています。全てのゾンビを倒し、コインを集め、生き延びてください。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  **Check Before You Move:** Before moving to a zombie card, always compare your hero's stats (Health and Armor) with the zombie's. Make sure you can survive the encounter. It's often better to find a potion or armor first before taking on a strong enemy.
-[JA TRANSLATION NEEDED] 2.  **Plan Your Path:** Don't just move randomly. Try to plan a path that allows you to pick up helpful items before you are forced to fight a powerful zombie. Clearing a path to a health potion can be a lifesaver.
-[JA TRANSLATION NEEDED] 3.  **Know Your Hero:** Different heroes have different skills. Use your hero's unique abilities to your advantage. Some might be better at fighting, while others might be better at finding treasure.
-[JA TRANSLATION NEEDED] 4.  **Level Up:** Defeating zombies grants you Experience Points (XP). Leveling up will restore your health and improve your stats, making you stronger for the challenges ahead.
+1.  **動く前に確認:** ゾンビのカードに向かって移動する前に、必ず自分のヒーローのステータス（HPとアーマー）と、ゾンビの攻撃力を比較しましょう。勝てる計算が立つまでは無闇に突っ込んではいけません。まずは回復薬や防具を探すのが賢明です。
+2.  **ルートを計画する:** 適当にめくってはいけません。強力なゾンビとの戦闘を避けるために、まずはアイテム回収ができるルートを確保しましょう。HPポーションへの道を確保しておくことは命綱になります。
+3.  **ヒーローの特性を知る:** 各ヒーローにはそれぞれユニークなスキルがあります。あるヒーローは戦闘が得意で、別のヒーローはお宝発見が得意かもしれません。能力を活かした立ち回りをしましょう。
+4.  **レベルアップ:** ゾンビを倒すと経験値（XP）が手に入ります。レベルアップするとHPが全回復し、ステータスが上昇します。瀕死の状態でもレベルアップすれば起死回生が可能です。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] The game is played with simple mouse clicks or taps.
+マウス（またはタップ）のみの簡単操作です。
 
-*   **Move:** Click on any adjacent (horizontal, vertical, or diagonal) card to move your hero to that space. This will reveal the card.
-    - **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.（日本語訳が必要）
-    - **A:** The main goal is to defeat all the zombie cards on the board. 収集するing all the coins is a secondary objective that helps you unlock new heroes for future runs.
-    - **A:** If your hero's HP drops to zero, your run is over, and you must start again.（日本語訳が必要）
-    - **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.（日本語訳が必要）
-    - **A:** The main goal is to defeat all the zombie cards on the board. 収集するing all the coins is a secondary objective that helps you unlock new heroes for future runs.
-    - **A:** If your hero's HP drops to zero, your run is over, and you must start again.（日本語訳が必要）
+*   **移動:** ヒーローのカードに隣接する（上下左右斜め）カードをクリックすると、その場所に移動してカードをめくります。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-*   **Q: How does combat work?**
-[JA TRANSLATION NEEDED]     *   **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
+*   **Q: 戦闘はどうやって行いますか？**
+    *   **A:** 戦闘は自動です。ゾンビがいるカードに移動すると攻撃を行い、同時にダメージを受けます。倒しきればそのマスに進めます。
 
-*   **Q: What is the goal of a level?**
-[JA TRANSLATION NEEDED]     *   **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
+*   **Q: ステージのクリア条件は？**
+    *   **A:** 主な目的は、ボード上のすべてのゾンビカードを倒すことです。コインを全て集めるのは必須ではありませんが、新しいヒーローをアンロックするために重要です。
 
-*   **Q: What happens if I run out of health?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** If your hero's HP drops to zero, your run is over, and you must start again.
-
-
-
-
-
-
-
-
-
-
-    - **A:** If your hero's HP drops to zero, your run is over, and you must start again.
-- **Q: What happens if I run out of health?**
-    - **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
-- **Q: What is the goal of a level?**
-    - **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
-- **Q: How does combat work?**
-### よくある質問（FAQ）
-- **Move:** Click on any adjacent (horizontal, vertical, or diagonal) card to move your hero to that space. This will reveal the card.
-
-
-
-
-
-
-    - **A:** If your hero's HP drops to zero, your run is over, and you must start again.
-- **Q: What happens if I run out of health?**
-    - **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
-- **Q: What is the goal of a level?**
-    - **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
+*   **Q: HPが0になったらどうなりますか？**
+    *   **A:** ゲームオーバーとなり、そのラン（挑戦）は終了です。最初からやり直しになります。

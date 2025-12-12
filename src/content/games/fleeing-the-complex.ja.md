@@ -1,43 +1,36 @@
 ---
+title: "Fleeing the Complex"
+description: "分岐する棒人間の脱出劇：アイテムやルートを選んで施設から脱出し、複数のエンディングを発見し、すべての失敗やバイオ（人物紹介）を集めましょう。"
+iframeSrc: "https://ubg77.github.io/fleeing-the-complex/"
+thumbnail: "/new-images/fleeing-the-complex.jpg"
+urlstr: "fleeing-the-complex"
+score: "4.7/5  (1158 votes)"
+tags: ["adventure", "point-and-click"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: fleeing-the-complex
-title: '[JA TRANSLATION NEEDED] Fleeing the Complex'
-description: >-
-  [JA TRANSLATION NEEDED] Branching stick‑figure escape: choose items and routes
-  to break out of the complex, discover multiple endings, and collect all
-  fails/bios.
-iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
-thumbnail: /new-images/fleeing-the-complex.jpg
-tags:
-  - adventure
-  - point-and-click
-score: 4.7/5  (1158 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Henry Stickminの最大の脱獄劇：選択肢を選び、ガジェットを使い、分岐するルートを進んで脱出しましょう。多くの笑える失敗と、いくつかの成功エンディングが待っています。
 
+### 遊び方
+- シーン中に選択肢を選びましょう。クイックタイムプロンプト（QTE）では素早いクリックが必要です。
+- すべてのエンディングを見つけるために、主要なルート分岐を探索しましょう。
+- シーンセレクト（利用可能な場合）を使って、失敗やバイオの収集を完了させましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Henry Stickmin’s biggest breakout: make choices, use gadgets, and navigate route branches to escape, with many joke failures and several successful endings.
+### 操作方法
+- マウスで選択肢を選び、操作します。時折発生するプロンプトに使用するキーはホストによって異なります。
 
-### How to Play
-- Pick options during scenes; quick‑time prompts require timely clicks.
-- Explore the main route splits to find all endings.
-- Use scene select (where available) to complete fails/bios.
+### ヒント
+- 選択肢が失敗したら、別のルートを試してみましょう。多くのシーンには「正解」の道があります。
+- バージョンがサポートしている場合、シーン中にキャラクターをクリックしてバイオを記録しましょう。
+- 同じエンディングを繰り返さないように、エンディングのチェックリストを作っておきましょう。
 
-### Controls
-- Mouse to choose options and interact; keys for occasional prompts vary by host.
-
-### Tips
-- When an option fails, try the alternate route—many scenes have a “correct” path.
-- Click characters during scenes to record bios if the version supports it.
-- Keep a checklist of endings to avoid repeats.
-
-### FAQ
-- Q: How many endings does the game include?  
-[JA TRANSLATION NEEDED]   A: There are multiple successful endings across the major route branches.
-- Q: Do I need to react quickly in every scene?  
-[JA TRANSLATION NEEDED]   A: Only some scenes require quick clicks; most are menu choices.
-- Q: Can I rewatch scenes to collect everything?  
-[JA TRANSLATION NEEDED]   A: Yes, many hosts provide scene selection for cleanup.
-
+### よくある質問 (FAQ)
+- **Q: ゲームにはいくつのエンディングがありますか？**  
+  A: 主要なルート分岐全体で、複数の成功エンディングがあります。
+- **Q: すべてのシーンで素早く反応する必要がありますか？**  
+  A: 本のわずかなシーンでのみ素早いクリックが必要です。ほとんどはメニュー選択です。
+- **Q: すべてを集めるためにシーンを見直すことはできますか？**  
+  A: はい、多くのホスト版では収集のためにシーンセレクトが提供されています。

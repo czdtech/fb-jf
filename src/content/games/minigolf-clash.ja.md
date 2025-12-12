@@ -1,61 +1,39 @@
 ---
+title: "Minigolf Clash"
+description: "Minigolf Clashは競争的なミニゴルフです。プレイヤーと対戦し、トリックショットをマスターし、リーダーボードを登ります。"
+iframeSrc: "https://minigolfclash.h5games.usercontent.goog/v/2po3oe70glkng/"
+thumbnail: "/new-images/minigolf-clash.png"
+urlstr: "minigolf-clash"
+score: "4.2/5  (2045 votes)"
+tags: ["sports", "2 player", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: minigolf-clash
-title: '[JA TRANSLATION NEEDED] Minigolf Clash'
-description: >-
-  [JA TRANSLATION NEEDED] Minigolf Clash serves creative putt‑putt puzzles —
-  read slopes, bank shots, and sink pars on quirky courses.
-iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
-thumbnail: /new-images/minigolf-clash.png
-tags:
-  - sports
-  - puzzle
-  - casual
-score: 4.0/5  (1711 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Minigolf Clashは、競争をミニゴルフに追加します。他のプレイヤーと対戦し、トリックショットをマスターし、ランクを登り、報酬をアンロックします。各コースは、スキルと精度をテストするユニークな挑戦を提示します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Minigolf Clash is a casual putting game with creative obstacles, ramps, banks, and moving parts. Your goal is simple—finish holes under par—yet mastering angles and pace unlocks low scores and trick‑shot lines.
+1.  **ショットを予測:** ボールの経路を視覚化します。
+2.  **パワーを制御:** オーバーシュートはアンダーシュートと同じくらい悪いです。
+3.  **コースを学ぶ:** 各コースの独自のトリックを記憶します。
+4.  **対戦相手を見る:** 彼らの間違いから学びます。
+5.  **冷静を保つ:** プレッシャー下で焦点を保ちます。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Pace control: Soft putts around cups prevent lip‑outs; harder hits for uphill ramps.
-[JA TRANSLATION NEEDED] 2.  Clean angles: Use walls to bank at 45° where possible; reduce random ricochets.
-[JA TRANSLATION NEEDED] 3.  Avoid hazards: Favor consistent two‑putts over risky hole‑in‑one attempts.
-[JA TRANSLATION NEEDED] 4.  Learn movers: Time windmills, gates, and pistons; wait for safe windows.
-[JA TRANSLATION NEEDED] 5.  Line rehearsal: Practice putts from similar lies to build reliable muscle memory.
+- ドラッグして狙い、パワーを設定します。
+- リリースしてショットします。
+- マルチプレイヤーモードで他のプレイヤーと競います。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Aim: Drag to set direction.
-- Power: Pull back to set strength, release to putt.
-- Restart: Use on‑screen control to retry a hole if allowed.
-
-### Frequently Asked Questions (FAQ)
-
-- Why do putts rim out? Too much pace or poor line; slow down near the cup.
-- Any bank‑shot tips? Aim slightly inside the perfect 45° to account for speed loss.
-
-### コントロールガイド
-- How to handle movers? Watch a full cycle first, then commit when timing is clear.
-
-
-
-
-
-
-
-
-- How to handle movers? Watch a full cycle first, then commit when timing is clear.
-- Any bank‑shot tips? Aim slightly inside the perfect 45° to account for speed loss.
-- Why do putts rim out? Too much pace or poor line; slow down near the cup.
-### よくある質問（FAQ）
-- Restart: Use on‑screen control to retry a hole if allowed.
-- Power: Pull back to set strength, release to putt.
-
-
-- How to handle movers? Watch a full cycle first, then commit when timing is clear.
+- **Q: これはリアルタイムマルチプレイヤーですか？**  
+  A: バージョンによって異なります。一部はリアルタイム、他はターンベース。
+- **Q: 勝つための最良の戦略は？**  
+  A: 一貫性と精度。リスクの高いショットを避けます。
+- **Q: 報酬をアップグレードに使用できますか？**  
+  A: はい、多くのバージョンはアップグレードとカスタマイズを提供します。

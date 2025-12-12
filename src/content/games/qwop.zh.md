@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: qwop
-title: '[ZH TRANSLATION NEEDED] QWOP Game'
+title: "《QWOP Game》魔性物理解谜跑步"
 description: >-
-  [ZH TRANSLATION NEEDED] QWOP is a notoriously difficult physics-based running
-  game where players control a runner's leg muscles using only four keys (Q, W,
-  O, P) to try to run 100 meters without falling.
+  《QWOP Game》是一款以诙谐著称、极其难上手的物理跑步游戏。玩家只靠键盘四个按键（Q、W、O、P）分别驱动跑步者双腿的不同肌肉，目标是在不摔倒的前提下艰难挪到 100 米终点。
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/qwop.jpg
 tags:
@@ -17,32 +15,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
-### Game Introduction
+《QWOP Game》是一款“臭名昭著”的物理跑步游戏，以反直觉的操作和夸张的摔倒动作走红网络。你必须用键盘上的 Q、W、O、P 四个键分别控制跑步者双腿的股四头肌和小腿肌肉，在完全没有自动平衡的情况下一点点往前挪。哪怕只是向前迈出几步，都需要极高的节奏感和耐心，因此游戏常被当作整蛊挑战和主播节目素材。
 
-[ZH TRANSLATION NEEDED] "QWOP Game" is a notoriously difficult physics-based running game. Players need to use four keyboard keys (Q, W, O, P) to control a runner's leg muscles with the goal of running 100 meters without falling. The game's control scheme is extremely difficult and counterintuitive, making even the simplest forward movement challenging, which has made it a popular internet topic and challenge.
+### 游玩策略
 
-### Gameplay Strategy
+1.  **先搞懂按键对应：** Q、W 负责左腿的大腿和小腿，O、P 则控制右腿的大腿和小腿。理解“哪条腿、哪块肌肉”很关键。
+2.  **从小碎步开始：** 不要一上来就尝试奔跑，先练习如何站稳、迈出稳定的小步，找感觉比冲刺更重要。
+3.  **寻找节奏：** 尝试用交替节奏按键，让角色像真实走路一样前进。找到一种你自己能重复且不容易乱的按键循环。
+4.  **避免暴力乱按：** 按键太快或力度过猛都会让角色重心剧烈前倾或后仰，极易直接扑街。
+5.  **保持耐心多练习：** 这是那种“失败几百次才慢慢会玩”的游戏，不要因为连续摔倒就立刻放弃，越玩越能体会物理细节的微妙。
 
-1.  **Understand Key Functions**: Q and W control the left leg's thigh and calf, while O and P control the right leg's thigh and calf.
-2.  **Start with Small Steps**: Don't try to run immediately; first learn how to maintain balance and take small steps.
-3.  **Maintain Rhythm**: Find a steady key-pressing rhythm, usually alternating presses to simulate walking motion.
-4.  **Avoid Excessive Force**: Pressing keys too quickly or forcefully will cause the character to lose balance and fall.
-5.  **Practice Patiently**: This game requires extensive practice to master; don't give up due to frequent failures.
+### 操作说明
 
-### How to Play
+*   **Q 键：** 控制左腿大腿肌肉。
+*   **W 键：** 控制左腿小腿肌肉。
+*   **O 键：** 控制右腿大腿肌肉。
+*   **P 键：** 控制右腿小腿肌肉。
 
-*   **Q Key**: Controls left leg thigh muscle
-*   **W Key**: Controls left leg calf muscle
-*   **O Key**: Controls right leg thigh muscle
-*   **P Key**: Controls right leg calf muscle
+### 常见问题解答
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: Why does the character always fall backwards?**
-     **A**: This is likely because you're pressing keys too aggressively or not maintaining proper balance. Try a gentler, more rhythmic key-pressing approach.
-2.  [ZH TRANSLATION NEEDED] **Q: Are there any successful key combinations?**
-     **A**: There's no fixed formula for success, but many players find that alternating, rhythmic key presses are more effective than random pressing.
-3.  [ZH TRANSLATION NEEDED] **Q: What's the furthest distance possible?**
-     **A**: The game's goal is to run 100 meters, but most players struggle to get past 10 meters. Running over 50 meters is considered quite impressive.
-4.  [ZH TRANSLATION NEEDED] **Q: Is this game intentionally designed to be this difficult?**
-     **A**: Yes, QWOP was designed to demonstrate the complexity of human movement and how seemingly simple running actually requires incredibly precise coordination.
+1.  **问：为什么我的角色总是向后倒？**  
+    **答：** 通常是因为按键节奏太猛，导致重心过度后仰。可以尝试减少一次性按下的键数，让动作更小、更有节奏。
+2.  **问：有没有“必胜按键公式”？**  
+    **答：** 并不存在万能组合，不同玩家会摸索出不同的循环节奏。不过大多数成功的打法都有一个共通点：有规律的交替按键，而不是完全随机乱按。
+3.  **问：理论上最远能跑多远？**  
+    **答：** 游戏设定的目标是 100 米。对大部分新手来说，能迈出 5–10 米已经很不容易，能稳定跑到 50 米以上就相当值得炫耀了。
+4.  **问：这款游戏真的是故意做得这么难吗？**  
+    **答：** 是的。QWOP 的设计初衷之一，就是用夸张的物理反馈来展示“人类跑步动作其实极其复杂”，让玩家体会从零控制每块肌肉的荒诞与乐趣。

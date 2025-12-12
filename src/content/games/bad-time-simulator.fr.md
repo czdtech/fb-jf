@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: bad-time-simulator
-title: '[FR] Bad Time Simulator'
-description: >-
-  [FR] A detailed guide to the Bad Time Simulator, a fan-made game simulating
-  the difficult Sans boss fight. Includes an introduction, gameplay strategy,
-  controls, and FAQ.
-iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
+title: "Bad Time Simulator"
+description: "Bad Time Simulator est un fangame qui recrée le combat contre Sans d’Undertale : un bullet‑hell extrêmement difficile où seule comptent la survie, la mémorisation et la précision."
+iframeSrc: "https://gotoanddie.github.io/c2-sans-fight/"
 thumbnail: /new-images/bad-time-simulator.jpg
 tags:
   - casual
@@ -15,52 +12,60 @@ score: 4.6/5  (1058 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Bad Time Simulator* est un jeu de navigateur créé par des fans qui reproduit fidèlement le combat final contre Sans dans la route Génocide d’*Undertale*. Tu y contrôles un cœur rouge (ton âme) dans une petite zone blanche, et tu dois survivre à une longue série d’attaques scriptées extrêmement exigeantes.
 
+Contrairement à un RPG classique, l’objectif n’est pas d’infliger beaucoup de dégâts, mais de **survivre** à un enchaînement de phases de bullet‑hell : os qui jaillissent du sol, rayons des *Gaster Blasters*, plateformes sous gravité modifiée, etc. Particularité supplémentaire, l’effet de **Karmic Retribution (KR)** fait lentement diminuer tes PV après chaque coup reçu, ce qui te laisse très peu de marge d’erreur.
 
+### Guide de jeu
 
-### Detailed Introduction
+Réussir ce combat demande avant tout de l’endurance et une excellente mémorisation : la moindre erreur coûte cher.
 
-Bad Time Simulator is a fan-made browser game that meticulously recreates the final boss battle against the character Sans from the Genocide Route of the game *Undertale*. It is renowned for its extreme difficulty, designed to test a player's reflexes, patience, and pattern recognition skills to their absolute limits.
+1. **Mémorise les patterns d’attaque**  
+   Toutes les attaques de Sans sont scriptées, pas aléatoires. Attends‑toi à mourir souvent au début : chaque tentative te permet d’apprendre un peu mieux la séquence suivante.
 
-The game pits the player, controlling a red heart-shaped SOUL, against an onslaught of complex and fast-paced attacks. Unlike typical battles, the objective is not simply to deal damage, but to survive a series of relentless "bullet hell" sequences. The gameplay area is a small white box where the player must maneuver their SOUL to dodge bones, laser beams from "Gaster Blasters," and navigate challenging platforming sections where gravity is manipulated. The fight is characterized by its lack of invincibility frames (meaning you can take damage rapidly) and the "Karmic Retribution" (KR) effect, a poison-like mechanic that drains health over time after being hit.
+2. **Bouge peu mais précisément**  
+   De grands mouvements paniqués te font souvent rentrer dans d’autres projectiles. Pour la plupart des patterns, quelques déplacements courts et contrôlés suffisent à trouver une trajectoire sûre.
 
-### Gameplay Strategy
+3. **Comprendre le KR (Karmic Retribution)**  
+   Quand tu es touché, ta barre de vie devient violette et se vide petit à petit : c’est le KR, une sorte de poison. Il ne suffit pas d’éviter les coups fatals ; chaque contact de plus rend le KR plus dangereux. Le meilleur plan est donc de ne pas se faire toucher du tout.
 
-Winning in Bad Time Simulator is less about aggression and more about endurance and memorization.
+4. **Passer la première attaque**  
+   L’ouverture est l’une des phases les plus dures : mur de *Gaster Blasters*, vagues d’os bas, puis os très hauts à sauter. Considère‑la comme un « filtre » : une fois passée de façon fiable, tu auras déjà franchi un énorme cap.
 
-1.  **[FR]** **Memorize Attack Patterns:** Every attack from Sans is scripted, not random. The key to survival is to die, learn the pattern, and try again. Each attempt helps you anticipate the next move.
-2.  **[FR]** **Make Small, Precise Movements:** Panicked, large movements often lead you into other projectiles. Stay calm and make small, controlled adjustments to your position. For most patterns, there's a "safe spot" or a clear path if you move minimally.
-3.  **[FR]** **Understand Karmic Retribution (KR):** The purple bar that appears when you're hit is the KR effect. It acts as a poison, continually chipping away at your HP. The goal is not just to avoid fatal blows, but to avoid *any* contact with attacks to keep KR from stacking up.
-4.  **[FR]** **The First Attack is a Filter:** The opening attack is one of the hardest in the game. It's a long sequence designed to be overwhelming. Focus on learning its three main parts: the initial Gaster Blaster wall, the short bone waves, and the tall bone waves you must jump through. Mastering this first attack is a major milestone.
-5.  **[FR]** **Platforming Sections:** During some attacks, your SOUL will turn blue, subjecting it to gravity. You must jump (Up Arrow) to navigate bone platforms. Timing your jumps is critical, as a single misstep can lead to taking massive damage.
-6.  **[FR]** **The Final Attack:** The final sequence is a marathon of all previous attack types, culminating in a circle of Gaster Blasters firing inward. The strategy here is to move in a precise, circular pattern inside the box to avoid the beams. It requires extreme focus.
-7.  **[FR]** **Use Practice Mode:** Most versions of the simulator include a Practice Mode. Use it to isolate and master the specific attacks that give you the most trouble without having to restart the entire fight.
+5. **Gérer les phases de plateforme (âme bleue)**  
+   Quand ton âme devient bleue, la gravité s’applique. Tu dois alors sauter avec la flèche haut pour passer entre les os, comme dans un jeu de plateforme. Le timing des sauts doit être précis : un saut trop tôt ou trop tard peut te faire traverser plusieurs obstacles et vider ta barre de vie.
 
-### Controls Guide
+6. **Anticiper l’attaque finale**  
+   La dernière phase enchaîne des variantes de toutes les attaques précédentes, puis se termine par un cercle de *Gaster Blasters* qui tirent vers le centre. Il faut généralement suivre une trajectoire circulaire précise dans la box pour éviter les rayons. Reste concentré jusqu’au bout : beaucoup de runs se terminent ici.
 
-The controls are simple and based on standard keyboard inputs for PC/browser versions.
+7. **Utiliser le mode entraînement**  
+   Si la version que tu joues propose un mode Practice, sers‑t’en pour travailler spécifiquement les patterns qui te posent problème, sans devoir refaire tout le combat depuis le début à chaque fois.
 
-*   **[FR]** **Arrow Keys (`↑` `↓` `←` `→`)**: Move the SOUL (your heart) around the box.
-*   **[FR]** **`Z` Key / `Enter` Key**: Confirm selections in the menu (e.g., selecting `[FIGHT]`).
-*   **[FR]** **`X` Key / `Shift` Key**: Cancel or go back in menus (less frequently used in the simulator).
+### Commandes
 
-In "Blue SOUL" mode (gravity enabled), the **`Up Arrow`** key is used to jump.
+Les commandes restent très proches de la version navigateur : tout se joue au clavier.
 
-### Frequently Asked Questions (FAQ)
+*   **Déplacement de l’âme**: flèches `↑`, `↓`, `←`, `→`
+*   **Valider dans les menus (FIGHT, ACT, etc.)**: touche `Z` ou `Entrée`
+*   **Annuler / retour**: touche `X` ou `Shift`
 
-**1. Why is this game so incredibly difficult?**
-The game is a faithful simulation of what is considered one of the most challenging boss fights in modern gaming. Its difficulty is intentional, serving as the ultimate test for players who have completed the Genocide Route in the original game.
+En mode âme bleue (gravité activée), la **flèche `↑`** sert à sauter pour éviter les os et les rafales de *Gaster Blasters*.
 
-**2. What is KR (Karmic Retribution)?**
-KR is a special damage-over-time effect. Instead of taking a single chunk of damage, getting hit by an attack applies KR, which continuously drains your health for a short period. The more you get hit, the more damage you'll take from this "poison."
+### Foire aux questions (FAQ)
 
-**3. Is it possible to actually win?**
-Yes, it is entirely possible to beat the Bad Time Simulator. However, it requires a significant amount of practice, patience, and dedication to memorizing every single attack pattern.
+**Q : Pourquoi le jeu est‑il aussi difficile ?**  
+**R :** Le combat contre Sans est pensé comme l’épreuve ultime de la route Génocide dans *Undertale*. Le simulateur essaie d’être aussi fidèle que possible, donc la difficulté élevée est volontaire.
 
-**4. Why can't I hit Sans?**
-In this fight, Sans dodges every single one of your attacks until the very end. The `[FIGHT]` option serves only to advance the battle to the next phase of his attacks. Your focus should be 100% on defense and survival.
+**Q : C’est quoi exactement le KR ?**  
+**R :** Le *Karmic Retribution* est un effet de dégâts sur la durée : chaque coup appliqué te fait perdre des PV petit à petit. Plus tu te fais toucher, plus tu perds de vie à cause de ce poison.
 
-**5. What is the difference between this and the fight in the actual game?**
-The simulator is a very accurate recreation. Minor differences might exist depending on the specific version of the simulator, but the core mechanics, attack patterns, and overall difficulty are designed to be as close to the original experience as possible.
+**Q : Est‑ce réellement faisable ?**  
+**R :** Oui, le combat est difficile mais pas impossible. Avec assez de pratique, de mémorisation des patterns et de sang‑froid, tu peux le terminer.
 
+**Q : Pourquoi Sans esquive‑t‑il toutes mes attaques ?**  
+**R :** Dans ce combat, tes attaques servent surtout à faire avancer les phases. Sans évite tous les coups jusqu’aux dernières secondes, donc concentre‑toi sur la défense et la survie.
+
+**Q : Quelles sont les différences avec le combat original d’Undertale ?**  
+**R :** Selon la version du simulateur, il peut y avoir de légères différences visuelles ou de rythme, mais l’ordre, le style d’attaque et la difficulté générale restent très proches du combat original.

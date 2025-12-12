@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fruit-slot-machine
-title: '[ZH TRANSLATION NEEDED] Fruit Slot Machine'
+title: "Fruit Slot Machine 經典水果機"
 description: >-
-  [ZH TRANSLATION NEEDED] Fruit Slot Machine is a classic three‑reel — spin
-  responsibly, learn paylines, and chase features without overbetting.
+  Fruit Slot Machine 模擬經典三輪水果機——負責任地按鈕旋轉，
+  了解賠率線與獎項設計，在不過度下注的前提下享受輕鬆轉盤樂趣。
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/fruit-slot-machine.jpg
 tags:
@@ -17,30 +17,34 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Fruit Slot Machine emulates a simple three‑reel slot with classic fruit symbols and occasional bonus features. Each spin is independent; payouts follow the paytable and active paylines. Treat it as light entertainment rather than a strategy game.
+《Fruit Slot Machine》模擬的是經典三輪水果拉霸機，畫面中會出現各種傳統水果圖示，
+偶爾還有額外小功能與獎勵圖案。每一次旋轉都是獨立結果，派彩依照賠率表與當前啟動的支付線決定。
+這款遊戲更適合當作輕鬆小娛樂，而不是講究策略的「贏錢工具」。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Budget first: Set a session budget; don’t chase losses.
-2.  [ZH TRANSLATION NEEDED] Paytable: Learn which symbols and lines pay most; features trigger rarely.
-3.  [ZH TRANSLATION NEEDED] Bet sizing: Use modest, consistent bets to extend playtime.
-4.  [ZH TRANSLATION NEEDED] Breaks: Take short breaks to avoid impulse overbets.
-5.  [ZH TRANSLATION NEEDED] Stop rules: Quit on reaching a win target or budget floor.
+
+1.  **先設定預算：** 開始前先決定本次遊玩可以承受的金額或籌碼上限，用完就收手，
+    不要為了追回損失而加碼。
+2.  **看懂賠率表：** 熟悉哪些圖案與線路組合的派彩最高，哪些額外功能觸發機率低，
+    有助於你理解每次中獎的價值。
+3.  **控制注額：** 採用較小且穩定的下注金額，可以延長遊戲時間，
+    讓你有更多次旋轉機會體驗功能與演出。
+4.  **適時休息：** 遊玩過程中安排短暫休息，避免情緒過度起伏導致衝動加注。
+5.  **設定停損與止盈：** 可以事先規定「贏到多少就暫停」以及「輸到多少就離開」，
+    讓自己有明確界線，不被情緒牽著走。
 
 ### Controls Guide
 
-- Set bet/lines (if offered) and press Spin; Auto‑spin optional.
+- 調整下注金額與啟動的線數（若該版本提供），之後按下「Spin」開始旋轉；
+- 某些版本提供自動旋轉（Auto‑spin），建議在預算可控的情況下使用。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: Can I influence outcomes?
-  
-[ZH TRANSLATION NEEDED]   A: No — spins are RNG‑driven; focus on budgeting rather than systems.
+- 問：我能透過操作影響出牌結果嗎？  
+  答：不能。每次旋轉皆由隨機數系統決定，建議把重點放在預算管理與遊玩節奏，而不是「公式」或「秘訣」。
 
-- Q: What’s the best bet?
-  
-[ZH TRANSLATION NEEDED]   A: A small, steady bet extends session time and enjoyment.
+- 問：最好的下注方式是什麼？  
+  答：通常是以較小、固定的注額穩定遊玩，既能控制風險又能延長娛樂時間。
 
-- Q: Do features increase RTP?
-  
-[ZH TRANSLATION NEEDED]   A: Features reshape volatility; long‑term expectation remains similar.
-
+- 問：特殊功能會讓長期勝率變高嗎？  
+  答：特殊功能主要改變波動與體驗感，長期期望值大致相近，不應把它視為穩賺機制。

@@ -1,70 +1,50 @@
 ---
-locale: ja
+title: Rotate
+description: Rotateは回転パズルゲームです。世界を回転させ、障害物をナビゲートし、ゴールに到達し、視点をマスターします。
+iframeSrc: 'https://rotate.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+thumbnail: /new-images/rotate.png
 urlstr: rotate
-title: '[JA TRANSLATION NEEDED] Rotate'
-description: >-
-  [JA TRANSLATION NEEDED] Rotate is a challenging puzzle game where players must
-  rotate the game world to guide a ball through complex mazes and obstacles,
-  using gravity and momentum to reach the goal in each level.
-iframeSrc: 'https://rebemanae.github.io/rotate/'
-thumbnail: /new-images/rotate.jpg
+score: 4.1/5  (1867 votes)
 tags:
   - puzzle
-  - physics
-  - rotation
-score: 4.9/5  (1155 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - thinky
+  - platformer
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Rotateは、世界全体を回転させて障害物をナビゲートするユニークなパズルプラットフォーマーです。重力を使用してキャラクターを移動し、ギャップをジャンプし、ゴールに到達します。視点と空間認識が重要です。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **先を計画:** 回転する前に結果を視覚化します。
+2.  **重力を使用:** 世界を回転させてキャラクターを落とします。
+3.  **タイミングが重要:" ジャンプと回転を調整します。
+4.  **パターンを学ぶ:" 障害物の配置を記憶します。
+5.  **忍耐強く:" 一部のレベルには完璧なタイミングが必要です。
+
+### 操作ガイド
+
+- 矢印キー/WASD：移動、ジャンプします。
+- Q/E（またはマウス）：世界を回転させます。
+- ゴールに到達します。
+
+### よくある質問 (FAQ)
+
+- **Q: 回転は何度ですか？**  
+  A: 通常90度ずつ。
+- **Q: どれくらいのレベルがありますか？**  
+  A: バージョンによって異なります。多くは数十。
+- **Q: タイムリミットはありますか？**  
+  A: 通常いいえ。パズルに焦点を当てます。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "Rotate" is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles. The game utilizes the physics properties of gravity and momentum, requiring players to cleverly control rotation angles and timing to get the ball to reach the target position in each level.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Understand Gravity Mechanics**: Master how rotation changes gravity direction and affects the ball's movement trajectory.
-[JA TRANSLATION NEEDED] 2.  **Observe Level Layout**: Carefully study each level's design to find the optimal rotation path.
-[JA TRANSLATION NEEDED] 3.  **Control Rotation Rhythm**: Don't rush to rotate; observe the ball's movement before making the next rotation.
-[JA TRANSLATION NEEDED] 4.  **Utilize Momentum**: Learn to use the ball's movement momentum to pass through areas that are difficult to reach directly.
-[JA TRANSLATION NEEDED] 5.  **Think from Multiple Angles**: Observing levels from different perspectives may reveal unexpected solutions.
-
-### How to Play
-
-*   **Rotation Control**: Typically use mouse dragging or keyboard arrow keys to rotate the game world.
-*   **Reset**: If the ball gets stuck or falls out of bounds, you can reset the current level to start over.
-*   **Pause**: You can pause the game while thinking of strategies and planning the next rotation operation.
-
-
-
-- **Think from Multiple Angles**: Observing levels from different perspectives may reveal unexpected solutions.
-- **Utilize Momentum**: Learn to use the ball's movement momentum to pass through areas that are difficult to reach directly.
-### Frequently Asked Questions
-
-
-
-
-
-
-- **Q: What if the ball keeps falling out of bounds?**
-### よくある質問
-- **Pause**: You can pause the game while thinking of strategies and planning the next rotation operation.
-- **Reset**: If the ball gets stuck or falls out of bounds, you can reset the current level to start over.
-
-### よくある質問
-- **Rotation Control**: Typically use mouse dragging or keyboard arrow keys to rotate the game world.
-[JA TRANSLATION NEEDED] 1.  **Q: What if the ball keeps falling out of bounds?**
-
-- **Q: Some levels seem unsolvable?**
-[JA TRANSLATION NEEDED]     **A**: Control rotation angle and speed more carefully, observe the ball's trajectory before making the next move.
-
-- **Q: How can I improve completion speed?**
-[JA TRANSLATION NEEDED] 2.  **Q: Some levels seem unsolvable?**
+**A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.
 
 - **Q: How many levels are in the game?**
-[JA TRANSLATION NEEDED]     **A**: Try thinking from different angles and rotation sequences; sometimes it takes multiple attempts to find the correct solution.
-[JA TRANSLATION NEEDED] 3.  **Q: How can I improve completion speed?**
-[JA TRANSLATION NEEDED]     **A**: After familiarizing yourself with physics mechanics, you can predict ball movement and plan rotation sequences in advance to complete levels faster.
-[JA TRANSLATION NEEDED] 4.  **Q: How many levels are in the game?**
-[JA TRANSLATION NEEDED]     **A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.
+
+
+**A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: space-survivor
-title: '[DE] Space Survivor'
+title: Space Survivor
 description: >-
-  [DE] Pilot your ship through endless waves of alien enemies in this thrilling
-  roguelike survival game. Collect XP, choose powerful upgrades, and see how
-  long you can survive the onslaught!
+  Steuere dein Raumschiff durch endlose Wellen außerirdischer Gegner in diesem
+  roguelike Survival-Spiel. Sammle Erfahrung, wähle mächtige Upgrades und finde
+  heraus, wie lange du dem Ansturm standhalten kannst.
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/space-survivor.png
 tags:
@@ -16,36 +16,42 @@ score: 4.5/5  (2900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Space Survivor ist ein actionreiches roguelike Survival-Spiel im Stil von "Vampire Survivors". Dein Raumschiff feuert automatisch, und deine Hauptaufgabe ist es, dich geschickt durch immer dichter werdende Gegnerhorden zu manövrieren. Indem du Feinde besiegst und die Erfahrungskristalle einsammelst, die sie fallen lassen, steigst du im Level auf und kannst neue Waffen oder Upgrades wählen. Jeder Durchlauf ist anders – du baust dir jedes Mal eine neue, immer stärkere Kombination, um möglichst lange zu überleben.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Überleben zuerst:** Zu Beginn ist es wichtiger, keinen Schaden zu nehmen, als alles zu zerstören. Schlängle dich durch die Gegnergruppen und sammle vor allem die blauen Erfahrungskristalle ein. Deine Startwaffe ist noch schwach, also hat Ausweichen Vorrang.
+2.  **Upgrades mit Bedacht wählen:** Jedes Mal, wenn du ein Level aufsteigst, kannst du neue Waffen oder passive Upgrades auswählen – das ist der Kern der Strategie.
+    *   **Synergien nutzen:** Kombiniere Waffen, die gut zusammenarbeiten, z. B. eine Verlangsamungswaffe mit einer kurzreichweitigen, stark schädlichen Aura.
+    *   **Evolution freischalten:** Viele Waffen lassen sich zu deutlich stärkeren Versionen weiterentwickeln, wenn du das passende passive Item besitzt und die Waffe auf die Maximalstufe gebracht hast.
+3.  **Ständig in Bewegung bleiben:** Stehe nie still. Gegner strömen zu deiner letzten Position. Gerade im späteren Spielverlauf, wenn der Bildschirm voll ist, entscheidet permanentes Bewegen über Leben und Tod.
+4.  **XP zum richtigen Zeitpunkt einsammeln:** Manchmal ist es riskant, die Kristalle sofort zu holen. Es kann sinnvoll sein, erst eine größere Fläche freizuräumen und dann in Ruhe durchzulaufen, um alle XP einzusammeln.
 
-Space Survivor is an action-packed, roguelike survival game in the style of "Vampire Survivors." You pilot a spaceship that attacks automatically, and your only job is to skillfully navigate through ever-growing hordes of alien enemies. By defeating foes and collecting the experience gems they drop, you will level up and be able to choose from a variety of powerful new weapons and upgrades. Each run is different, challenging you to create a unique and overpowered build to survive for as long as possible.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+Das Spiel hat einfache Bewegungssteuerung.
 
-1.  **[DE]** **Focus on Survival:** In the early game, your top priority is not getting hit. Weave through the enemy swarms and focus on collecting the blue experience gems they drop. Your initial weapon is weak, so dodging is more important than trying to kill everything.
-2.  **[DE]** **Choose Your Upgrades Wisely:** Every time you level up, you get a choice of new weapons or upgrades. This is the core strategy of the game.
-    *   **[DE]** **Synergy:** Try to pick weapons that work well together. For example, a weapon that slows enemies combined with a short-range, high-damage aura can be very effective.
-    *   **[DE]** **Evolution:** Many weapons can be "evolved" into a much more powerful form if you have the correct corresponding passive item and have maxed out the weapon's level.
-3.  **[DE]** **Keep Moving:** Never stand still. The enemies will swarm your last known position. Constant movement is key to staying alive, especially in the later stages when the screen is full of enemies.
-4.  **[DE]** **Know When to Grab XP:** Sometimes it's dangerous to grab the XP gems immediately. It can be a good strategy to clear a large area first, then sweep back through to collect all the gems in safety.
+- **Raumschiff bewegen:** Nutze die Tasten **WASD**, die **Pfeiltasten** oder ziehe mit der **Maus**, um dein Schiff über den Bildschirm zu steuern.
+- **Angriff:** Alle deine Waffen feuern automatisch.
 
-### Controls Guide
+### Häufig gestellte Fragen (FAQ)
 
-The game uses simple movement controls.
+- **F: Wie schieße ich?**
+  
+  **A:** Gar nicht – zumindest nicht manuell. In diesem "Survivor"-Stil feuern deine Waffen automatisch, und du konzentrierst dich komplett auf Bewegung und Ausweichen.
 
-*   **[DE]** **Move Ship:** Use the **WASD keys**, **Arrow Keys**, or click and drag your **mouse** to move your spaceship around the screen.
-*   **[DE]** **Attacking:** All of your weapons fire automatically.
+    - **F: Wie bekomme ich neue Waffen und Fähigkeiten?**
+  
+  **A:** Indem du die blauen Erfahrungskristalle einsammelst, die Gegner fallen lassen. Sobald deine Erfahrungsleiste voll ist, steigst du im Level auf und kannst zufällig angebotene Waffen oder Upgrades auswählen.
 
-### Frequently Asked Questions (FAQ)
+- **F: Was ist das eigentliche Ziel des Spiels?**
+  
 
-*   **[DE]** **Q: How do I shoot?**
-    *   **[DE]** **A:** You don't! The fun of a "survivor" style game is that all your weapons fire on their own. Your only job is to focus on expert movement and dodging.
+    - **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
 
-*   **[DE]** **Q: How do I get new weapons and abilities?**
-    *   **[DE]** **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
+- **Q: What is the goal of the game?**
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
+    - **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
+  **A:** Je nach Modus musst du eine bestimmte Zeit (z. B. 15 oder 30 Minuten) überleben – oder im Endlosmodus einfach so lange wie möglich gegen unendliche Gegnerwellen standhalten.

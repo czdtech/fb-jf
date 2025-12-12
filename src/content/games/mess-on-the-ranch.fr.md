@@ -1,51 +1,38 @@
 ---
 locale: fr
-urlstr: mess-on-the-ranch
-title: '[FR] Mess on the Ranch'
-description: >-
-  [FR] Mess on the Ranch is a tidy‑up puzzler — sort animals and tools, repair
-  fences, and restore order with efficient routing.
-iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
-thumbnail: /new-images/mess-on-the-ranch.png
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.0/5  (1882 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "mess-on-the-ranch"
+title: "Mess on the Ranch"
+description: "Mess on the Ranch est un puzzle de rangement à la ferme : trie les animaux et les outils, répare les clôtures et remets de l’ordre en optimisant tes déplacements."
+iframeSrc: "https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/"
+thumbnail: "/new-images/mess-on-the-ranch.png"
+tags: ["puzzle", "casual", "thinky"]
+score: "4.0/5  (1882 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Mess on the Ranch est un puzzle d’organisation mignon qui se déroule dans un ranch en désordre. Tu dois ramener les animaux dans les bons enclos, ranger les outils dans les bonnes remises, réparer les sections de clôture cassées et nettoyer les débris — le tout avec un nombre de déplacements ou un temps limité. Chaque niveau met l’accent sur la planification de ton trajet et l’ordre dans lequel tu exécutes les tâches.
 
+### Stratégies de jeu et progression
 
+1.  **Priorité aux enclos :** sécurise d’abord les animaux en liberté pour éviter qu’ils ne bloquent ton chemin ou ne créent davantage de chaos.
+2.  **Boucles de trajet :** planifie des boucles qui te permettent de récupérer ou déposer plusieurs éléments au cours d’un même passage plutôt que de faire des allers‑retours.
+3.  **Associer outils et remises :** profite de tes trajets pour déposer les outils aux bons endroits au lieu de revenir exprès plus tard.
+4.  **Réparer les clôtures clés :** commence par les segments de clôture qui rouvrent l’accès à plusieurs zones ou objectifs à la fois.
+5.  **Objectifs bonus :** ne vise les nettoyages optionnels que si tu as réellement des mouvements ou du temps en réserve.
 
-### Detailed Game Introduction
+### Commandes
 
-Mess on the Ranch is a charming organizational puzzle. Herd animals back to pens, place tools in the right sheds, fix broken fence segments, and clear debris — all within move or time limits. Levels emphasize route planning and prioritization.
+- Glisse ou touche l’écran pour déplacer ton personnage et interagir avec les animaux, les outils, les clôtures et les tas de débris ; des invites contextuelles apparaissent pour les actions de réparation et de livraison.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** Pen priority: Secure loose animals first to reduce chaos.
-2.  **[FR]** Route loops: Plan loops that handle multiple pickups per pass.
-3.  **[FR]** Tool matching: Deliver tools to sheds en route rather than backtracking.
-4.  **[FR]** Fence triage: Repair segments that unblock multiple tasks.
-5.  **[FR]** Bonus goals: Attempt optional cleanups only with spare moves.
-
-### Controls Guide
-
-- Drag/tap to move and interact; context prompts for repair/deliver actions.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I run out of moves.
-
-A: Combine tasks in a single loop and avoid single‑purpose detours.
-
-- Q: Animals wander off.
-
-A: Pen them first, then do tool/fence tasks.
-
-- Q: Timers too tight.
-
-A: Ignore optional litter and focus on objectives.
+- **Q : Je n’ai plus de déplacements disponibles.**  
+  **R :** Essaie de regrouper plusieurs tâches sur un seul trajet et évite les détours qui ne servent qu’à une seule action.
+- **Q : Les animaux continuent de se disperser.**  
+  **R :** Ramène‑les dans leurs enclos dès le début du niveau, puis occupe‑toi des outils et des clôtures une fois le ranch stabilisé.
+- **Q : Les timers sont trop serrés.**  
+  **R :** Concentre‑toi uniquement sur les objectifs obligatoires et ignore les détritus ou bonus secondaires tant que tu n’es pas à l’aise avec la carte.
 

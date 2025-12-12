@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: unblock-that
-title: '[ES] Unblock That'
+title: Unblock That - Desbloquea el camino
 description: >-
-  [ES] A classic sliding block puzzle. Move the wooden blocks around to clear a
-  path and slide the red block out of the board. A great brain-teaser for puzzle
-  lovers!
+  Un rompecabezas clásico de bloques deslizantes. Mueve los bloques de madera
+  para liberar el camino y sacar el bloque rojo del tablero. Ideal para amantes
+  de los retos lógicos.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/unblock-that.png
 tags:
@@ -16,34 +16,37 @@ score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-
-
-
 ### Detailed Game Introduction
 
-Unblock That is a classic and challenging sliding block puzzle. The game presents you with a grid filled with wooden blocks of various sizes. Your goal is to strategically slide these blocks to clear a path for the special red block to escape through the exit. With hundreds of levels ranging from easy to expert, it’s a perfect game to train your logical thinking and problem-solving skills.
+Unblock That es un rompecabezas clásico y desafiante de bloques deslizantes. El tablero se llena de bloques de madera de distintos tamaños, y tu objetivo es moverlos estratégicamente para abrir un pasillo por el que el bloque rojo pueda escapar hacia la salida. Con cientos de niveles que van de fácil a experto, es un juego perfecto para entrenar la lógica y la capacidad de planificación.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** **Identify the Main Blockers:** Look at the red block and identify the blocks that are directly in its path to the exit. Your first goal is to move these primary blockers.
-2.  **[ES]** **Create Space:** To move a blocking piece, you often need to move other pieces first to create empty space. Look for smaller blocks that can be shuffled around easily to open up pathways.
-3.  **[ES]** **Think Several Moves Ahead:** Don't just make random moves. Try to visualize the sequence of moves required to clear the path. The best players think several steps ahead to solve the puzzle in the fewest moves possible.
-4.  **[ES]** **Don't Be Afraid to Reset:** If you get into a situation where the blocks are completely jammed and you can't see a solution, sometimes the best option is to reset the level and start again with a fresh approach.
+1.  Identifica a los bloqueadores principales: fíjate en el bloque rojo y en las piezas que se interponen directamente en su ruta hacia la salida; son tu primera prioridad.
+2.  Crea espacio: para mover un bloque que estorba, a menudo tendrás que recolocar otras piezas antes. Busca bloques pequeños que puedas desplazar con facilidad para generar huecos.
+3.  Piensa varios movimientos por delante: evita mover piezas al azar. Intenta visualizar la secuencia de jugadas necesaria para despejar el camino con el menor número de movimientos.
+4.  No temas reiniciar: si la posición queda demasiado atascada y no ves solución, lo mejor es reiniciar el nivel y probar una ruta diferente desde cero.
 
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+El juego usa controles de arrastrar y soltar muy sencillos.
 
-*   **[ES]** **Move a Block:** Click and hold on any wooden block. You can only slide it along its orientation (horizontally or vertically) into an empty space.
+*   **Mover un bloque:** haz clic y mantén pulsado sobre un bloque de madera. Solo puedes deslizarlo en la dirección de su lado largo (horizontal o vertical) hacia espacios vacíos.
 
 ### Frequently Asked Questions (FAQ)
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** To slide the red block all the way to the right so it can exit the board.
+*   **Q: ¿Cuál es el objetivo del juego?**  
+    **A:** Deslizar el bloque rojo hasta la salida situada al lado derecho del tablero.
 
-*   **[ES]** **Q: Why can't I move a block?**
-    *   **[ES]** **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
+    - **Q: Por qué no puedo mover un bloque?**  
+    **A:** Los bloques solo se mueven en la dirección de su eje largo (los verticales arriba/abajo, los horizontales izquierda/derecha). Asegúrate de que no haya otro bloque bloqueando el camino.
 
-*   **[ES]** **Q: How is the score determined?**
-    *   **[ES]** **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
+*   **Q: Cómo se calcula la puntuación?**  
+
+    - **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
+
+- **Q: How is the score determined?**
+
+    - **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
+    **A:** Normalmente se te valora según el número de movimientos que uses para resolver el puzle; cuantos menos pasos des, mejor será tu puntuación o tu número de estrellas.
 

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: diner-dash
-title: '[KO] Diner Dash'
+title: "Diner Dash 다이너 대시"
 description: >-
-  [KO] Diner Dash is a time‑management game: seat guests, take orders, serve
-  meals, and keep everyone happy to clear levels.
+  손님을 안내하고 주문을 받고 서빙하며 테이블을 치우는 타임 매니지먼트 게임입니다.
+  빠르고 효율적인 동선으로 손님 마음을 지켜 레벨을 클리어해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/diner-dash.jpg
 tags:
@@ -15,27 +15,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Diner Dash는 바쁜 식당을 운영하며 시간을 관리하는 타임 매니지먼트 게임입니다.
+플로(주인공)를 조종해 손님을 자리로 안내하고, 주문을 받고, 음식을 서빙하고,
+식사가 끝난 테이블을 치우는 일련의 과정을 빠르고 효율적으로 처리해야 합니다.
+같은 색 손님을 같은 색 테이블에 앉히거나, 일정을 연속으로 처리해 콤보를 쌓으면
+추가 점수를 얻을 수 있고, 스테이지 사이에는 신발·테이블·주방 설비 등을
+업그레이드할 수 있습니다.
 
-### Overview
-Diner Dash is a time‑management game about seating guests, taking orders, delivering food, bussing tables, and keeping customer hearts high to clear objectives. You earn combos by chaining actions (e.g., seating groups of the same color, serving quickly) and buy upgrades between levels. 
+### 플레이 방법
 
-### How to Play
-- Seat arriving customers promptly; match table sizes and colors when possible for bonuses.
-- Take orders, deliver dishes, and clear tables in an efficient loop to avoid queues.
-- Use upgrades (faster shoes, more tables, equipment) to meet higher quotas.
+- 도착한 손님을 재빨리 빈 테이블에 안내하고, 인원수와 테이블 색상에 맞추면
+  보너스를 얻을 수 있습니다.  
+- 손님이 자리에 앉으면 주문을 받고, 음식이 준비되면 서빙하고, 식사가 끝난 후
+  테이블을 치워 다음 손님을 받을 준비를 합니다.  
+- 얻은 수익으로 이동 속도를 높이거나 테이블 수를 늘리는 등 업그레이드를 진행해
+  더 까다로운 목표를 달성하세요.  
 
-### Controls
-- Mouse/touch: click destinations in order to queue actions; some versions allow drag‑and‑drop for seating or serving.
+### 조작 방법
 
-### Tips and Strategies
-- Chain related actions back‑to‑back to maintain high combos.
-- Prioritize impatient customers first; watch the hearts meter.
-- Pre‑stage actions (collect orders in a sweep, then serve in a sweep) to minimize travel.
+- 마우스/터치로 목적지를 차례대로 클릭해 플로의 행동 큐를 등록합니다.  
+- 일부 버전에서는 손님이나 접시를 드래그 앤 드롭으로 자리나 카운터로 옮길 수
+  있습니다.  
 
-### FAQ
-- Q: What do color matches do?
-A: Seating same‑color groups at like‑colored tables yields extra points/combos.   
-- Q: Can I retry for a higher score?
-A: Yes—replaying levels to optimize routes and chains is a core loop. 
+### 팁 & 전략
+
+- 같은 종류의 행동을 연속으로 처리해 콤보를 유지하면 점수가 크게 올라갑니다.  
+- 인내심이 적은 손님(하트가 적게 남은 손님)부터 우선적으로 대응해, 불만으로
+  나가버리는 손님을 최소화하세요.  
+- 주문을 한 번에 모두 받고, 그 다음에 서빙을 한 번에 처리하는 식으로 “한 번에
+  쓸어가기” 패턴을 만들면 이동 거리를 줄일 수 있습니다.  
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 손님과 테이블 색을 맞추면 뭐가 좋은가요?**  
+  **A:** 같은 색 손님을 같은 색 테이블에 앉히면 추가 점수와 콤보를 얻을 수 있어,
+  고득점과 목표 달성에 도움이 됩니다.  
+
+- **Q: 점수를 더 높게 받기 위해 레벨을 다시 할 수 있나요?**  
+  **A:** 네. Diner Dash는 스테이지를 반복해서 동선과 콤보를 최적화하는 것이
+  핵심 재미 중 하나입니다.  
 

@@ -1,70 +1,51 @@
 ---
-locale: ja
+title: Pixel Shooter
+description: Pixel Shooterはレトロシューターです。敵を撃ち、武器をアップグレードし、波を生き残り、ピクセルアート戦闘をマスターします。
+iframeSrc: 'https://pixelshooter.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+thumbnail: /new-images/pixel-shooter.png
 urlstr: pixel-shooter
-title: '[JA TRANSLATION NEEDED] Pixel Shooter'
-description: >-
-  [JA TRANSLATION NEEDED] Pixel Shooter is a retro-style pixel art shooting game
-  where players control a character to battle hordes of enemies across various
-  levels, collecting power-ups and upgrading weapons to survive.
-iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
-thumbnail: /new-images/pixel-shooter.jpg
+score: 4.1/5  (1867 votes)
 tags:
-  - shooting
-  - pixel art
   - action
-score: 3.9/5  (682 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - shooter
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Game Introduction
+Pixel Shooterは、レトロなピクセルアートスタイルのアクションシューターです。敵の波と戦い、武器をアップグレードし、弾薬を管理し、できるだけ長く生き残ります。ノスタルジックなグラフィックと激しいアクション。
 
-[JA TRANSLATION NEEDED] "Pixel Shooter" is a retro-style pixel art shooting game where players control a character to battle hordes of enemies across various levels, collecting power-ups and upgrading weapons to survive. The game attracts players with its classic pixel graphics and fast-paced shooting experience.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy
+1.  **移動し続ける:** 簡単なターゲットにならないでください。
+2.  **ヘッドショットを狙う:** より多くのダメージとボーナス。
+3.  **武器をアップグレード:** ダメージと精度に投資します。
+4.  **弾薬を管理:** リロードタイミングを見てください。
+5.  **カバーを使用:** 敵の火から身を守ります。
 
-[JA TRANSLATION NEEDED] 1.  **Move and Shoot**: Move your character flexibly to dodge enemy attacks and shoot accurately to eliminate them.
-[JA TRANSLATION NEEDED] 2.  **Collect Power-ups**: Defeated enemies may drop coins, health packs, or weapon upgrade items; collect them promptly to enhance your strength.
-[JA TRANSLATION NEEDED] 3.  **Upgrade Weapons**: Use coins or specific items to upgrade your weapons, improving fire rate, damage, or range.
-[JA TRANSLATION NEEDED] 4.  **Utilize Environment**: Some levels may offer cover or other environmental elements; utilize them wisely to avoid damage or ambush enemies.
-[JA TRANSLATION NEEDED] 5.  **Master Enemy Patterns**: Different enemies have different attack patterns and movement speeds; familiarizing yourself with them can help you better cope.
+### 操作ガイド
 
-### How to Play
-
-*   **Movement**: Typically use WASD keys or arrow keys to control character movement.
-*   **Shoot**: Use the left mouse button or press a specific key to shoot.
-*   **Aim**: Use mouse movement to aim at enemies.
-*   **Switch Weapons**: Some game versions may offer a weapon switching function, usually via number keys or mouse scroll wheel.
+- WASD/矢印：移動します。
+- マウス/タッチ：狙い、射撃します。
+- R：リロード（該当する場合）。
 
 
-- **Master Enemy Patterns**: Different enemies have different attack patterns and movement speeds; familiarizing yourself with them can help you better cope.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: What is the objective of "Pixel Shooter"?**
-### よくある質問
 - **Switch Weapons**: Some game versions may offer a weapon switching function, usually via number keys or mouse scroll wheel.
-- **Aim**: Use mouse movement to aim at enemies.
-- **Shoot**: Use the left mouse button or press a specific key to shoot.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Movement**: Typically use WASD keys or arrow keys to control character movement.
-[JA TRANSLATION NEEDED] 1.  **Q: What is the objective of "Pixel Shooter"?**
+- **Q: 継続的に殺される。ヒントは？**  
+  A: 移動し続け、カバーを使用し、ヘッドショットを狙います。
+- **Q: 最高の武器は何ですか？**  
+  A: プレイスタイルによって異なります。異なる武器を試してください。
+- **Q: エンドレスモードですか？**  
+  A: 多くのバージョンにはエンドレス生存モードがあります。
 
-- **Q: How do I get more powerful weapons?**
-[JA TRANSLATION NEEDED]     **A**: The main objective is to survive each level, defeat all enemies, and challenge for higher scores.
 
-- **Q: Does the game have a co-op mode?**
-[JA TRANSLATION NEEDED] 2.  **Q: How do I get more powerful weapons?**
+**A**: Health packs restore your character's health, helping you survive during intense battles.
 
 - **Q: What are "health packs" for in the game?**
-[JA TRANSLATION NEEDED]     **A**: Typically, by collecting coins or special items in the game, then upgrading existing weapons or unlocking new ones in the shop or a specific interface.
-[JA TRANSLATION NEEDED] 3.  **Q: Does the game have a co-op mode?**
-[JA TRANSLATION NEEDED]     **A**: Some pixel shooter game versions may support local or online co-op mode, where players can team up with friends to fight enemies.
-[JA TRANSLATION NEEDED] 4.  **Q: What are "health packs" for in the game?**
-[JA TRANSLATION NEEDED]     **A**: Health packs restore your character's health, helping you survive during intense battles.
+
+
+**A**: Health packs restore your character's health, helping you survive during intense battles.

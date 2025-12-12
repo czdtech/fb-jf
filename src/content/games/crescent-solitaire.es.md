@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: crescent-solitaire
-title: '[ES] Crescent Solitaire'
+title: "Crescent Solitaire"
 description: >-
-  [ES] Crescent Solitaire is a relaxing card‑solitaire variant: move cards
-  between crescents to build foundations and clear the tableau.
+  Crescent Solitaire es una relajante variante de solitario con dos barajas:
+  mueve cartas entre los semicírculos para construir las bases y despejar el
+  tablero.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/crescent-solitaire.jpg
@@ -16,31 +17,63 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Crescent Solitaire es un juego de paciencia con dos barajas que se juega con 16
+montones de mesa dispuestos en semicírculo (el "crescent") alrededor de ocho
+bases: un As y un Rey de cada palo. El objetivo es construir las bases de As de
+abajo arriba, del As al Rey, y las de Rey de arriba abajo, del Rey al As,
+siempre respetando el palo. En los montones de mesa puedes construir tanto
+hacia arriba como hacia abajo por palo y se permite "cerrar el ciclo" (después
+de As viene Rey y viceversa). Los huecos que queden vacíos no se rellenan. Cuando
+te quedes sin movimientos útiles, puedes usar un reparto de nuevo (`Redeal`) que mueve la carta
+inferior de cada montón de mesa a la parte superior; normalmente dispones de
+hasta tres repartos de nuevo por partida. Cuando las dos bases de un mismo palo están en
+secuencia, puedes transferir cartas entre ellas (salvo el As y el Rey base).
 
-### Overview
-Crescent Solitaire is a two‑deck patience game played with 16 tableau piles arranged in a semicircle (“crescent”) around eight foundations: one Ace and one King of each suit. The goal is to build Ace foundations up in‑suit to King and King foundations down in‑suit to Ace. Tableau builds allow up or down by suit and can wrap around (King after Ace and vice‑versa). Empty spaces are not filled. After you exhaust moves, a redeal moves the bottom card of every tableau pile to the top; you usually get three redeals per game. When the two foundations of a suit are in sequence, you may transfer cards between them (not the base Ace/King). 
+### Cómo jugar
 
-### How to Play
-- Move available top cards from the tableau to foundations, following suit and direction.
-- Build tableau piles up or down in suit to uncover useful cards; wrapping is allowed.
-- Use foundation transfers (same‑suit in sequence) to free blocked cards.
-- When stuck, press Redeal to cycle each tableau pile’s bottom card to the top; up to three redeals.
+- Mueve las cartas superiores disponibles de la mesa a las bases, siguiendo el
+  palo y la dirección correcta.
+- Construye en los montones de mesa hacia arriba o hacia abajo por palo para
+  descubrir cartas útiles; recuerda que puedes cerrar el ciclo.
+- Aprovecha las transferencias entre bases del mismo palo (cuando estén en
+  secuencia) para liberar cartas bloqueadas.
+- Si te quedas atascado, usa la opción de reparto de nuevo para que la carta inferior de
+  cada montón pase a la parte superior; normalmente cuentas con hasta tres
+  repartos de nuevo.
 
-### Controls
-- Mouse/touch: select or drag cards; tap buttons for Undo/Hint/Redeal (as provided by the host site).
-- No stock to draw from; progress depends on tableau manipulation and timely redeals.
+### Controles
 
-### Tips and Strategies
-- Build evenly across suits so no single suit stalls both of its foundations.
-- Before using a redeal, expose as many helpful top cards as possible.
-- Prefer moves that release buried low cards for Ace stacks and high cards for King stacks.
-- After a redeal, re‑scan all piles; valuable cards often rotate into play.
+- Ratón/táctil: selecciona o arrastra cartas; toca los botones de Deshacer,
+  Pista o `Redeal` (según lo que ofrezca la página anfitriona).
+- No hay mazo del que robar cartas; todo el progreso depende de cómo manipules
+  la mesa y de cuándo uses los repartos de nuevo.
 
-### FAQ
-- Q: How many redeals are allowed?
-A: Standard Crescent allows three redeals (four deals total).  
-- Q: Can empty spaces be filled?
-A: No. Spaces in the tableau are not filled in Crescent.  
-- Q: What is “foundation transfer”?
-A: If the Ace and King foundations of a suit are in sequence, you may move one or more top cards between them (excluding the base Ace/King) to continue building.  
+### Consejos y estrategias
+
+- Construye de forma equilibrada todos los palos para evitar que uno solo
+  bloquee el avance de sus dos bases.
+- Antes de gastar un reparto de nuevo, intenta dejar al descubierto tantas cartas útiles
+  como puedas.
+- Da prioridad a movimientos que liberen cartas bajas para las bases de As y
+  cartas altas para las bases de Rey.
+- Tras cada reparto de nuevo, vuelve a revisar todos los montones; muchas cartas valiosas
+  habrán rotado hasta posiciones jugables.
+
+### Preguntas frecuentes (FAQ)
+
+- P: ¿Cuántos repartos de nuevo se permiten?
+  
+  R: En la variante estándar de Crescent tienes tres repartos de nuevo (cuatro ciclos en
+  total).
+
+- P: ¿Se pueden rellenar los huecos en la mesa?
+  
+  R: No. En Crescent las pilas vacías permanecen vacías durante toda la partida.
+
+- P: ¿Qué es la "transferencia de bases"?
+  
+  R: Si las dos bases de un palo (As y Rey) están en secuencia, puedes mover una
+  o varias cartas de la parte superior de una base a la otra (sin incluir el As
+  o el Rey base) para seguir construyendo.

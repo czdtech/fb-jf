@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: crossword
-title: '[ES] Crossword'
+title: "Crossword"
 description: >-
-  [ES] Crossword is a classic fill‑in puzzle: solve across and down clues so all
-  crossing letters match.
+  Crossword es un crucigrama clásico: completa la cuadrícula resolviendo las
+  pistas en horizontal y vertical hasta que todas las letras encajen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/crossword.jpg
 tags:
@@ -15,27 +15,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Los crucigramas son rejillas de letras que se resuelven rellenando las
+respuestas en Horizontal y Vertical según las definiciones numeradas. En los
+crucigramas de estilo estadounidense, todas las letras suelen estar cruzadas por
+otra palabra y las rejillas acostumbran a tener simetría rotacional de 180°;
+los tamaños más habituales son 15×15 entre semana y 21×21 los domingos.
 
-### Overview
-Crosswords are letter grids solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is cross‑checked by an intersecting word and grids typically have 180° rotational symmetry; common sizes are 15×15 on weekdays and 21×21 on Sundays. 
+### Cómo jugar
 
-### How to Play
-- Click a clue or cell, then type letters to fill the entry.
-- Use cross letters to confirm uncertain answers and resolve ambiguities.
-- Many web versions include tools such as Check/Reveal, timers, and navigation shortcuts.
+- Haz clic en una pista o una casilla y escribe letras para rellenar la
+  respuesta.
+- Usa las letras cruzadas para confirmar soluciones dudosas y resolver
+  ambigüedades.
+- Muchas versiones web incluyen herramientas de Comprobar/Revelar, temporizador
+  y atajos de navegación.
 
-### Controls
-- Type A–Z; arrow keys move between cells; Backspace deletes; Enter/Tab often switches direction or jumps to the next clue (site‑dependent).
+### Controles
 
-### Tips and Strategies
-- Start with easy clues (fill‑in‑the‑blank, plural/tense markers) to get crossings.
-- Fill long theme entries after gaining letters from nearby answers.
-- Learn common abbreviations and clue conventions used by American‑style grids.
+- Teclea A–Z; usa las flechas para moverte entre casillas; Backspace borra; y
+  Enter/Tab suelen cambiar la dirección o saltar a la siguiente pista (según la
+  web).
 
-### FAQ
-- Q: What sizes are typical?
-A: Daily American crosswords are often 15×15; Sunday editions around 21×21.   
-- Q: Do all letters cross?
-A: American‑style grids generally check every letter with an intersecting entry.   
+### Consejos y estrategias
 
+- Empieza por las pistas fáciles (frases incompletas, plurales, tiempos verbales
+  muy marcados) para conseguir letras cruzadas.
+- Completa las respuestas largas del tema cuando ya tengas letras de cruces
+  cercanos.
+- Aprende abreviaturas habituales y convenciones de pista propias de los
+  crucigramas estadounidenses.
+
+### Preguntas frecuentes (FAQ)
+
+- P: ¿Qué tamaños son los más comunes?
+  
+  R: Los crucigramas diarios estadounidenses suelen ser de 15×15; las ediciones
+  de domingo rondan los 21×21.
+
+- P: ¿Todas las letras están cruzadas?
+  
+  R: En la mayoría de rejillas de estilo americano, cada letra se comprueba con
+  al menos otra respuesta que la cruza.

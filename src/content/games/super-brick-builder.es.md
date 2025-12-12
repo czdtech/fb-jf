@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: super-brick-builder
-title: '[ES] Super Brick Builder'
+title: 'Super Brick Builder'
 description: >-
-  [ES] Super Brick Builder is a satisfying block‑stack — lay bricks cleanly,
-  plan supports, and complete structures with minimal waste.
+  Super Brick Builder es un rompecabezas de apilar bloques con físicas: coloca
+  ladrillos con precisión, planifica apoyos y completa estructuras con el mínimo
+  desperdicio.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/super-brick-builder.png
 tags:
@@ -16,31 +17,36 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Super Brick Builder se juega como un rompecabezas de construcción con físicas:
+debes colocar ladrillos para completar siluetas sin que la estructura se venga
+abajo. Un buen apoyo y colocaciones limpias pesan más que rellenar huecos a lo
+loco.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Super Brick Builder plays like a physics‑aware stacking puzzle: place bricks to complete silhouettes without collapse. Clean placement and support planning beat aggressive fills.
+1.  **Empieza por la base:** construye cimientos simétricos y estables antes de
+    ganar altura.
+2.  **Controla los voladizos:** evita salientes largos sin contrapeso; cualquier
+    exceso de peso terminará en derrumbe.
+3.  **Ajusta con piezas pequeñas:** reserva ladrillos pequeños para rellenar
+    huecos críticos donde la tensión sea mayor.
+4.  **Reduce el ritmo en la parte superior:** en las últimas capas, coloca cada
+    pieza con mucho cuidado para no desestabilizar lo que ya está hecho.
+5.  **Aprovecha los reinicios:** si una idea no funciona, reinicia rápido y
+    prueba otra configuración en base a lo que has aprendido.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Foundation first: Build symmetrical bases before rising.
-2.  **[ES]** Overhang control: Avoid long overhangs without counter‑weights.
-3.  **[ES]** Fit pieces: Use smaller bricks to plug stress gaps.
-4.  **[ES]** Pace: Slow down on top layers to avoid nudges.
-5.  **[ES]** Retry: Quick resets help iterate designs.
+- Arrastra y rota ladrillos; suéltalos para fijarlos en su sitio.  
+- Reinicia el nivel desde los controles de la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag/rotate bricks; place to lock; restart via UI.
+- **P: Mis estructuras se caen todo el rato.**  
+  **R:** refuerza las bases, evita voladizos largos y reparte el peso.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Structures topple.
-
-A: Strengthen bases and reduce overhangs.
-
-- Q: Run out of fitting pieces.
-
-A: Save small bricks for top‑layer adjustments.
-
+- **P: Me quedo sin piezas que encajen bien.**  
+  **R:** intenta guardar los ladrillos pequeños para ajustes finos en las capas
+  superiores y no malgastarlos al principio.

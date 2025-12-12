@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-pets-match
-title: '[ZH TRANSLATION NEEDED] Jewel Pets Match'
-description: >-
-  [ZH TRANSLATION NEEDED] Match cute jewel pets in this fun and colorful match-3
-  puzzle adventure! Swap the animals to create lines of three or more and
-  complete the goals for each level.
+title: 《Jewel Pets Match》宝石萌宠消消乐
+description: 《Jewel Pets Match》是一款充满童趣的三消游戏，你要在棋盘上交换宝石小动物，让三只及以上相同萌宠连成一线，完成每一关的目标任务。
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
 thumbnail: /new-images/jewel-pets-match.png
 tags:
@@ -18,33 +15,33 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jewel Pets Match is a bright and cheerful match-3 puzzle game filled with adorable, jewel-like animal characters. Your goal is to swap these cute pets on the game board to create lines of three or more identical animals. Each level presents a new challenge and a specific objective you must complete, such as reaching a target score or clearing special blocks, all within a limited number of moves.
+《Jewel Pets Match》是一款画风明快的三消解谜游戏，棋盘上都是宝石质感的小动物头像。你的目标是通过交换相邻的萌宠，让三只或以上相同的宠物排成一行或一列，被消除后为你积累分数并推动关卡目标。每一关都有各自的挑战，比如达到指定分数、清除特殊方块或收集某种宠物，都需要在限定步数内完成。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Create Power-ups:** To master the game, you need to make matches of more than three pets.
-    * [ZH TRANSLATION NEEDED] **Match 4:** Creates a special pet that can clear an entire row or column.
-    * [ZH TRANSLATION NEEDED] **Match 5 (L or T shape):** Creates a bomb pet that explodes and clears a block of surrounding pets.
-    * [ZH TRANSLATION NEEDED] **Match 5 (in a line):** Creates a rainbow pet that can clear all pets of a single type from the board.
-2.  [ZH TRANSLATION NEEDED] **Combine Boosters:** The most powerful moves in the game come from swapping two special pets next to each other. This triggers a massive combo effect that can clear a huge portion of the board at once.
-3.  [ZH TRANSLATION NEEDED] **Focus on the Objective:** Always keep the level's goal in mind. If you need to break ice blocks, make matches next to them. If you need to collect a certain number of a specific pet, prioritize those matches.
-4.  [ZH TRANSLATION NEEDED] **Plan Your Swaps:** With a limited number of moves, every action counts. Look for swaps that will create a chain reaction or set up a powerful combo on your next turn.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **学会制造强化宠物**：想要轻松过关，必须善用多于三连的匹配：  
+    *   **4 连**：生成直线消除宠物，可以横向或纵向清除整行/整列。  
+    *   **“L / T 形”5 连**：生成炸弹宠物，爆炸时清除周围一大片萌宠。  
+    *   **“直线”5 连**：生成彩虹宠物，可以清除棋盘上某一类型的所有宠物。  
+2.  **组合强化宠物效果**：将两只特殊宠物互相交换会触发超强组合技，比如炸弹 + 直线、双彩虹组合等，是清场和应对高难度关卡的核心武器。  
+3.  **围绕关卡目标来消除**：如果关卡要求打碎冰块或笼子，就优先在这些障碍附近制造消除；如果要收集特定宠物，就优先让该类型参与三消。  
+4.  **规划每一步交换**：步数有限时，尽量选择能同时完成多重目的的交换，例如既能清障碍又能制造特殊宠物，或为下一回合铺垫连锁。  
 
-[ZH TRANSLATION NEEDED] The game is played with simple swap mechanics.
+### 操作说明
 
-*   **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple swap mechanics.
+- 使用鼠标点击并拖动任意一只宠物，与其相邻的宠物交换位置。只有在交换后能形成合法三消（或更多）时，这一步才会被执行。  
 
-*   **Q: How do I get past the locked or caged pets?**
-     *   **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
+### 常见问题（FAQ）
 
-*   **Q: What is the best power-up to create?**
-     *   **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
+*   **Q: 被锁住或关在笼子里的宠物怎么解救？**  
+    *   **A:** 只要让被锁住的宠物参与一次三消，就能打碎笼子或锁链，把它释放出来。部分关卡可能需要多次消除才能完全解锁。  
 
-*   **Q: What happens if I run out of moves?**
-     *   **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
+*   **Q: 哪种强化宠物最实用？**  
+    *   **A:** 直线 5 连生成的彩虹宠物在清理某一类宠物时非常高效，但真正强力的往往是两种强化宠物的组合，例如彩虹 + 炸弹或彩虹 + 直线等。  
 
+*   **Q: 步数耗尽却没完成目标会怎样？**  
+    *   **A:** 在用完所有可用步数之前没有达成关卡目标，就会失败并损失一条生命，你可以选择重新挑战该关卡。

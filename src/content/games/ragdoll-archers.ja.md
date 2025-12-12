@@ -1,70 +1,52 @@
 ---
-locale: ja
+title: Ragdoll Archers
+description: Ragdoll Archersは物理ベースのアーチェリーゲームです。狙い、ショット、ラグドール物理をマスターし、対戦相手を打ち負かします。
+iframeSrc: 'https://ragdollarchers.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+thumbnail: /new-images/ragdoll-archers.png
 urlstr: ragdoll-archers
-title: '[JA TRANSLATION NEEDED] Ragdoll Archers'
-description: >-
-  [JA TRANSLATION NEEDED] Ragdoll Archers is a physics-based archery game where
-  players control wobbly ragdoll archers to shoot arrows at opponents, with
-  realistic physics making each shot challenging and entertaining.
-iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
-thumbnail: /new-images/ragdoll-archers.jpg
+score: 4.2/5  (2234 votes)
 tags:
-  - physics
-  - archery
   - action
-score: 4.4/5  (466 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - casual
+  - 2 player
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Game Introduction
+Ragdoll Archersは、ラグドール物理をアーチェリー戦闘と組み合わせます。狙い、ショットし、対戦相手を物理ベースのアローで倒します。陽気なラグドール死と中毒性のあるゲームプレイ。シングルプレイヤーまたはマルチプレイヤー。
 
-[JA TRANSLATION NEEDED] "Ragdoll Archers" is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents. The realistic physics effects make each shot challenging and entertaining, while the character instability adds humor and unpredictability to the game.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy
+1.  **狙いを練習:" 角度と距離を学びます。
+2.  **ヘッドショットを狙う:** より速い殺害。
+3.  **移動し続ける:** 簡単なターゲットにならないでください。
+4.  **風を使用:** 風の方向と速度を考慮します。
+5.  **タイミング:** 対戦相手の動きを予測します。
 
-[JA TRANSLATION NEEDED] 1.  **Master Shooting Skills**: Learn to adjust bow angle and power, considering the effects of gravity and air resistance on arrow trajectory.
-[JA TRANSLATION NEEDED] 2.  **Predict Target Movement**: Opponents may move, so you need to anticipate their position for accurate hits.
-[JA TRANSLATION NEEDED] 3.  **Utilize Environment**: Make good use of terrain and obstacles to protect yourself or create tactical advantages.
-[JA TRANSLATION NEEDED] 4.  **Maintain Balance**: Due to the ragdoll nature of characters, maintaining balance is crucial for accurate shooting.
-[JA TRANSLATION NEEDED] 5.  **Quick Reactions**: The game has a fast pace, requiring quick shooting decisions.
+### 操作ガイド
 
-### How to Play
-
-*   **Aim**: Typically use mouse dragging to adjust shooting angle and power.
-*   **Shoot**: Release mouse or click to fire arrows.
-*   **Move**: Use keyboard or touch screen to control character movement (if supported by the game).
-*   **Reload**: Some versions may require manual arrow reloading.
+- マウス/タッチ：狙い、パワーを設定します。
+- リリース：ショットします。
+- 移動キー（該当する場合）：動き回ります。
 
 
-- **Quick Reactions**: The game has a fast pace, requiring quick shooting decisions.
-### Frequently Asked Questions
-
-
-
-
-
-
-
-- **Q: Why is my character always swaying?**
-### よくある質問
 - **Reload**: Some versions may require manual arrow reloading.
-- **Move**: Use keyboard or touch screen to control character movement (if supported by the game).
-- **Shoot**: Release mouse or click to fire arrows.
+### よくある質問 (FAQ)
 
-### よくある質問
-- **Aim**: Typically use mouse dragging to adjust shooting angle and power.
-[JA TRANSLATION NEEDED] 1.  **Q: Why is my character always swaying?**
+- **Q: マルチプレイヤーモードはありますか？**  
+  A: はい、多くのバージョンにはローカルまたはオンライン対戦があります。
+- **Q: パワーアップはありますか？**  
+  A: 一部のバージョンには特別なアローと能力があります。
+- **Q: 物理はどれくらいリアルですか？**  
+  A: これはラグドール物理です。陽気で予測不可能です！
 
-- **Q: How can I improve shooting accuracy?**
-[JA TRANSLATION NEEDED]     **A**: This is a design feature of the game; the ragdoll physics effects make characters unstable, which is part of the game's charm.
 
-- **Q: Are there different game modes?**
-[JA TRANSLATION NEEDED] 2.  **Q: How can I improve shooting accuracy?**
+**A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
 
 - **Q: Is there a limit to the number of arrows?**
-[JA TRANSLATION NEEDED]     **A**: Practice aiming more, familiarize yourself with the physics engine characteristics, and learn to predict target movement.
-[JA TRANSLATION NEEDED] 3.  **Q: Are there different game modes?**
-[JA TRANSLATION NEEDED]     **A**: Many versions offer different game modes such as single-player vs AI, multiplayer battles, survival mode, etc.
-[JA TRANSLATION NEEDED] 4.  **Q: Is there a limit to the number of arrows?**
-[JA TRANSLATION NEEDED]     **A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
+
+
+**A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.

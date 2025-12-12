@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bubble-tower
-title: '[DE] Bubble Tower 3D'
+title: "Bubble Tower 3D"
 description: >-
-  [DE] Take on a new dimension of bubble shooting in Bubble Tower 3D! Rotate the
-  tower, aim your shot, and match three or more colored bubbles to clear the
-  board before the bubbles reach the bottom.
+  Erlebe Bubble-Shooting in einer neuen Dimension in Bubble Tower 3D. Drehe den
+  Turm, ziele sorgfältig und triff mindestens drei gleichfarbige Blasen, bevor
+  die Blasen den unteren Rand erreichen.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/bubble-tower.png
 tags:
@@ -17,36 +17,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Bubble Tower 3D* erweitert das klassische Bubble-Shooter-Prinzip um eine
+zusätzliche Dimension. Bunte Blasen kleben an der Außenseite eines drehbaren,
+ zylindrischen Turms. Von deinem Kanonenstand am unteren Bildschirmrand schießt
+ du neue Blasen nach oben, um Gruppen von mindestens drei gleichen Farben zu
+ bilden und so Stück für Stück den gesamten Turm zu räumen.
 
+Die Möglichkeit, den Turm zu drehen, macht jeden Schuss zu einer kleinen
+Denkaufgabe: Du suchst dir den besten Winkel, erzeugst große Kettenreaktionen
+und lässt ganze Blöcke auf einmal herabfallen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Bubble Tower 3D adds an exciting third dimension to the classic bubble shooter formula. In this game, colorful bubbles are stuck to the outside of a rotating cylindrical tower. Your objective is to clear all the bubbles by shooting a new bubble from your cannon at the bottom and matching it with at least two other bubbles of the same color. The ability to rotate the tower adds a layer of strategy, requiring you to find the best angle for every shot to create massive chain reactions and clear the tower.
+1.  Drehen und überblicken: Nimm dir vor jedem Schuss einen Moment Zeit, den
+    Turm nach links und rechts zu drehen. So erkennst du große Farbcluster und
+    Stellen, an denen ein einzelner Schuss viele Blasen lösen könnte.
+2.  Banden-Schüsse nutzen: Nutze die Wände des Spielfelds, um Blasen mit
+    Abprallern an schwer erreichbare Stellen zu bringen oder hinter Blockaden
+    zu zielen.
+3.  Trägerblasen priorisieren: Suche nach Blasen, die große Gruppen darunter
+    halten. Wenn du diese "Träger" platzten lässt, fallen alle nur daran
+    hängenden Blasen mit ab – das beschleunigt das Räumen des Turms enorm.
+4.  Spezialblasen gezielt einsetzen: Achte auf Spezialblasen wie Fireballs oder
+    Bomben. Sie zerstören unabhängig von der Farbe ganze Bereiche und sind am
+    wertvollsten, wenn du feststeckst oder einen kritischen Abschnitt retten
+    musst.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Rotate and Inspect:** Before every shot, take a moment to rotate the tower left and right. This allows you to see the entire layout of bubbles and plan your moves more effectively. Look for large clusters of the same color or strategic shots that could cause a large section to fall.
-2.  **[DE]** **Bank Shots:** Use the walls of the play area to your advantage. Bouncing your bubble off the side walls can help you reach tricky spots or get behind bubbles that are blocking a direct shot.
-3.  **[DE]** **Prioritize Foundational Bubbles:** Look for matches that will detach a large group of differently colored bubbles underneath them. When you pop a cluster, any bubbles that are only connected to that cluster will also fall, clearing the board much faster.
-4.  **[DE]** **Use Special Bubbles:** Pay attention to special bubbles like Fireballs or Bombs. These powerful tools can destroy any bubble, regardless of color, and are best saved for situations where you are stuck or need to clear a critical section to prevent losing.
+*   Turm drehen:
+    *   Maus: Klicke und ziehe den Hintergrund, um den Turm zu drehen.
+    *   Tastatur: Nutze die Pfeiltasten Links/Rechts.
+*   Zielen und schießen:
+    *   Maus: Deine Kanone richtet sich nach der Position des Mauszeigers.
+        Klicke mit der linken Maustaste, um eine Blase abzufeuern.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Rotate the Tower:**
-    *   **[DE]** **Mouse:** Click and drag the background to rotate the tower.
-    *   **[DE]** **Keyboard:** Use the Left and Right arrow keys.
-*   **[DE]** **Aim and Shoot:**
-    *   **[DE]** **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
+*   F: Wie gewinne ich das Spiel?
+    *   A: Du gewinnst, wenn alle Blasen vom Turm entfernt wurden.
 
-### Frequently Asked Questions (FAQ)
+*   F: Was passiert, wenn ich die Blasen nicht rechtzeitig räume?
+    *   A: Der Blasenturm sinkt nach und nach nach unten. Erreicht eine Blase
+        die Markierung am unteren Bildschirmrand, ist die Runde verloren.
 
-*   **[DE]** **Q: How do I win the game?**
-    *   **[DE]** **A:** You win by clearing all the bubbles from the tower.
-
-*   **[DE]** **Q: What happens if I don't clear the bubbles in time?**
-    *   **[DE]** **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
-
-*   **[DE]** **Q: I can't find a match for the bubble in my cannon. What should I do?**
-    *   **[DE]** **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
-
+*   F: Ich finde keine passende Farbe für die Blase in meiner Kanone. Was tun?
+    *   A: Drehe den Turm zuerst komplett, um sicherzugehen, dass du keinen
+        möglichen Treffer übersehen hast. Gibt es wirklich keine passende
+        Stelle, platziere die Blase taktisch so, dass sie möglichst wenig
+        stört oder dir später eine neue Kombination ermöglicht.

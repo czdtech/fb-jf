@@ -1,42 +1,35 @@
 ---
+title: "G-Switch 3"
+description: "新しいトラップと、タイミングと一貫性をテストする強固なローカルマルチプレイヤーモードを備えた、高速重力ランナーです。"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html"
+thumbnail: "/new-images/g-switch-3.jpg"
+urlstr: "g-switch-3"
+score: "4.7/5  (801 votes)"
+tags: ["runner", "platformer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: g-switch-3
-title: '[JA TRANSLATION NEEDED] G-Switch 3'
-description: >-
-  [JA TRANSLATION NEEDED] High‑speed gravity runner with new traps and robust
-  local multiplayer modes that test timing and consistency.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
-thumbnail: /new-images/g-switch-3.jpg
-tags:
-  - runner
-  - platformer
-score: 4.7/5  (801 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+ダブルフリップと完璧なタイミングを要求する、より速いシーケンスと複雑なトラップチェーン。大規模なローカルレースをサポートします。
 
+### 遊び方
+- チェーントラップを記憶します。ノコギリの前には早めにフリップし、低い天井には遅めにフリップします。
+- 1秒未満で2回のフリップをチェインしてリカバリーを練習します。
+- 利用可能な場合、ローカルで友達とレースします。
 
-### Overview
-[JA TRANSLATION NEEDED] Faster sequences and complex trap chains that demand double‑flips and perfect timing; supports large local races.
+### 操作方法
+- フリップには1つのキー/タップ。対戦モードではプレイヤーごとのキーです。
 
-### How to Play
-- Memorize chain traps; flip early before saws and late for low ceilings.
-- Practice recovery by chaining two flips in under a second.
-- Race friends locally if available.
+### ヒント
+- 先読みするために目を画面中央に保ちます。
+- 音楽のリズムを使用してフリップのケーデンス（拍子）を安定させます。
 
-### Controls
-- One key/tap to flip; per‑player keys in versus.
-
-### Tips
-- Keep eyes mid‑screen to read ahead.
-- Use music rhythm to stabilize your flip cadence.
-
-### FAQ
-- Q: What is the main difference from previous entries?  
-[JA TRANSLATION NEEDED]   A: Higher speed, trickier obstacles, and expanded local multiplayer.
-- Q: Can many players join on one keyboard?  
-[JA TRANSLATION NEEDED]   A: Some hosts allow large local lobbies with unique keys.
-- Q: Are there difficulty options?  
-[JA TRANSLATION NEEDED]   A: Difficulty scales with speed and obstacle density rather than a menu.
-
+### よくある質問 (FAQ)
+- **Q: 前作との主な違いは何ですか？**  
+  A: より高い速度、トリッキーな障害物、拡張されたローカルマルチプレイヤーです。
+- **Q: 1つのキーボードで多くのプレイヤーが参加できますか？**  
+  A: 一部のホストでは、固有のキーで大規模なローカルロビーが可能です。
+- **Q: 難易度オプションはありますか？**  
+  A: 難易度は、メニューではなく速度と障害物の密度でスケールします。

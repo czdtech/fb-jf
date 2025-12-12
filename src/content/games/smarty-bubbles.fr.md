@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: smarty-bubbles
-title: '[FR] Smarty Bubbles'
-description: >-
-  [FR] A classic and colorful bubble shooter experience. Aim your cannon, match
-  three or more bubbles of the same color to pop them, and clear the board
-  before the bubbles reach the bottom!
+title: Smarty Bubbles
+description: "Un bubble shooter classique et coloré. Vise le canon, associe au moins trois bulles de la même couleur pour les faire éclater et nettoie le plateau avant que les bulles n’atteignent le bas\_!"
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
 thumbnail: /new-images/smarty-bubbles.png
 tags:
@@ -17,32 +14,58 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation détaillée du jeu
 
+Smarty Bubbles est un bubble shooter très soigné et extrêmement addictif
+qui offre une expérience classique pure. Le but est de vider le plateau de
+ses bulles colorées en tirant et en les faisant correspondre. Oriente ton
+canon, tire une bulle, et si tu touches un groupe de trois bulles ou plus
+de la même couleur, elles éclatent. Le jeu te met au défi de nettoyer le
+plateau efficacement, car les tirs ratés font descendre le plafond, ce qui
+ajoute de la pression à ce puzzle pourtant relaxant.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Smarty Bubbles is a polished and highly addictive bubble shooter game that offers a pure, classic experience. The objective is to clear the entire board of colorful bubbles by shooting and matching them. Aim your cannon, fire a bubble, and if you connect three or more of the same color, they will pop! The game challenges you to clear the board efficiently, as missed shots will cause the ceiling to drop, adding a layer of pressure to this relaxing puzzle.
+1.  **Limiter les tirs ratés :** c’est la règle d’or de Smarty Bubbles.
+    Après un certain nombre de tirs qui n’éclatent aucune bulle, une
+    nouvelle rangée descend du haut. Surveille l’indicateur (souvent une
+    rangée de bulles grises) qui montre combien d’erreurs il te reste.
+2.  **Viser les amas :** le moyen le plus efficace de nettoyer le plateau
+    consiste à viser les groupes qui soutiennent d’autres bulles.
+    Faire éclater un amas en hauteur peut faire tomber d’énormes grappes
+    en dessous et te rapporter beaucoup de points.
+3.  **Utiliser les murs :** maîtrise les tirs en rebond. Faire ricocher les
+    bulles sur les parois latérales est essentiel pour atteindre des zones
+    difficiles et préparer des matches impossibles en tir direct.
+4.  **Prévoir plusieurs coups :** la couleur de la prochaine bulle est
+    affichée. Utilise‑la pour planifier un ou deux coups d’avance et
+    maximiser ton efficacité.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Avoid Misses:** This is the most critical rule in Smarty Bubbles. After a certain number of shots that don't result in a pop (a "miss"), a new row of bubbles will be added from the top. Keep an eye on the indicator (usually a row of grey bubbles) that shows how many misses you have left before a new row appears.
-2.  **[FR]** **Aim for Clusters:** The most efficient way to clear the board is to aim for matches that are holding up other bubbles. Popping a high cluster can cause a large number of bubbles below it to fall, clearing the screen much faster and earning you more points.
-3.  **[FR]** **Use the Walls:** Master the art of the bank shot. Bouncing bubbles off the side walls is essential for reaching difficult spots and setting up strategic matches that aren't possible with a direct shot.
-4.  **[FR]** **Plan Ahead:** The game shows you which color bubble is coming up next. Use this information to plan your next one or two moves for maximum efficiency.
+*   **Viser :** déplace la souris pour viser avec le canon ; une ligne
+    montre la trajectoire.  
+*   **Tirer :** clique avec le bouton gauche pour lancer la bulle.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-*   **[FR]** **Shoot:** Click the left mouse button to fire the bubble.
+*   **Q : Pourquoi une nouvelle rangée de bulles apparaît‑elle en haut ?**  
+    R : Tu as effectué trop de tirs qui n’ont fait éclater aucune bulle.
+    Passé un certain nombre de « miss », une nouvelle rangée est ajoutée
+    pour augmenter la difficulté.
 
-### Frequently Asked Questions (FAQ)
+    - **Q : Quel est l’objectif du jeu ?**  
+    R : Vider le plateau de toutes les bulles. Le jeu est infini, donc le
+    vrai but est de tenir le plus longtemps possible pour obtenir le
+    meilleur score.
 
-*   **[FR]** **Q: Why did a new row of bubbles suddenly appear at the top?**
-    *   **[FR]** **A:** You made too many non-popping shots (misses). After a set number of misses, the game adds a new row to increase the challenge. Try to make every shot count!
+*   **Q : Comment faire un gros score ?**  
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
+    - **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
 
-*   **[FR]** **Q: How do I get a high score?**
-    *   **[FR]** **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
+- **Q: How do I get a high score?**
 
+    - **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
+    R : Vise les grosses réactions en chaîne. Faire tomber de grands
+    amas de bulles en éclatant celles qui les maintiennent en place te
+    rapporte des bonus massifs.

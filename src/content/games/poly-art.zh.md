@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: poly-art
-title: '[ZH TRANSLATION NEEDED] Poly Art'
-description: >-
-  [ZH TRANSLATION NEEDED] Relax and challenge your perception with Poly Art, a
-  beautiful 3D puzzle game. Rotate a cloud of colorful polygons until they align
-  to reveal a stunning, complete image.
+title: 《Poly Art》多边形立体拼图
+description: 《Poly Art》是一款画面唯美的 3D 感知解谜游戏，你需要旋转一团凌乱的彩色多边形碎片，在唯一正确的角度下让它们拼合成一幅完整的立体图像。
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
 thumbnail: /new-images/poly-art.png
 tags:
@@ -18,31 +15,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Poly Art (also known as Poly Puzzle) is a visually stunning and mentally relaxing 3D puzzle game. Each level begins with what appears to be a chaotic jumble of colorful, low-poly shards. The challenge is to rotate this cluster of polygons in 3D space to find the one specific angle at which the scattered pieces align perfectly, revealing a beautiful and recognizable piece of art, such as an animal, an object, or a character. It's a game of perception, patience, and discovery.
+《Poly Art》（也常被称作 Poly Puzzle）是一款主打“视觉感知与放松体验”的 3D 拼图游戏。每一关开始时，屏幕上只是一团漂浮在空中的低多边形碎片，看起来杂乱无章。你可以自由旋转这个碎片云，当视角旋转到某个特定角度时，所有碎片会恰好重合排列，拼出一幅清晰可辨的图案——可能是一只动物、一件物品，或者一个人物剪影。整个过程更像是在“对焦”一幅抽象画，直到画面突然清晰的那一刻，非常解压。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Rotate Slowly and Steadily:** Don't just swipe wildly. Rotate the puzzle slowly in one direction (e.g., horizontally) to see if any recognizable shapes begin to form. If you see a hint of a shape, continue rotating carefully around that axis.
-2.  [ZH TRANSLATION NEEDED] **Look for Outlines:** As you get close to the solution, you will start to see the outline of the final image. Focus on these emerging lines and adjust the rotation slightly to bring them into sharp focus.
-3.  [ZH TRANSLATION NEEDED] **Use All Axes:** Remember that you can rotate the puzzle horizontally and vertically. If you get stuck rotating on one axis, try a completely different direction. Sometimes the solution is at an unexpected angle.
-4.  [ZH TRANSLATION NEEDED] **Relax and Enjoy:** Poly Art is not a game about speed. It is designed to be a calming and satisfying experience. Take your time, enjoy the colors and shapes, and savor the moment of discovery when the image finally clicks into place.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **缓慢旋转，避免乱转：** 不要一上来就疯狂甩动视角。先沿着水平或垂直方向缓慢旋转，观察是否有轮廓开始变得连贯，一旦看到类似完整轮廓的影子，便围绕该角度微调。
+2.  **留意轮廓线条：** 当你接近正确角度时，散开的碎片会逐渐排列出清晰的外轮廓。此时可以集中注意力于图形边缘，通过轻微调整角度，让轮廓变得完全平滑、无断裂。
+3.  **尝试多轴旋转：** 记得你可以在水平与垂直两个方向（甚至对角）自由旋转。如果在一个方向上越调越乱，不妨换个方向或从另一侧重新“找角度”。
+4.  **放轻松，不必追求速度：** 本作并不强调通关时间，也不会惩罚错误角度。把它当成一幅可交互的 3D 艺术品，你可以慢慢欣赏色块变化，享受“突然对上焦”的瞬间。
 
-[ZH TRANSLATION NEEDED] The controls are minimalistic and intuitive.
+### 操作说明
 
-*   **Rotate Puzzle (Desktop):** Click and hold the left mouse button, then drag the mouse left, right, up, or down to rotate the cluster of polygons.
-*   **Rotate Puzzle (Mobile):** Swipe your finger across the screen in any direction to rotate the puzzle.
 
-### Frequently Asked Questions (FAQ)
+The controls are minimalistic and intuitive.
+*   **桌面端旋转：** 按住鼠标左键，在画面上拖动即可让多边形碎片云跟随旋转，可上下、左右甚至斜向拖动。  
+*   **移动端旋转：** 在触屏设备上用手指滑动屏幕，滑动方向与速度决定旋转方向与力度。
 
-*   **Q: What is the objective of the game?**
-     *   **A:** The objective is to rotate the collection of 3D shards until they align to form a complete and recognizable picture.
+### 常见问题（FAQ）
 
-*   **Q: I'm stuck and can't see the image. Are there hints?**
-     *   **A:** Many versions of Poly Art games include a hint system. If available, using a hint might slowly rotate the puzzle closer to the correct orientation or flash the final image for a second.
+*   **问：这款游戏的通关目标是什么？**
+    *   **答：** 目标是在每一关中找到那唯一（或少数几种）让所有碎片完美重合的视角，让图像从抽象碎片变为完整、可辨认的立体图形。
 
-*   **Q: Is there a time limit or a penalty for wrong moves?**
-     *   **A:** No. Poly Art games are designed to be stress-free. There are no time limits, scores, or penalties, allowing you to solve the puzzles at your own pace.
+*   **问：看了很久还是看不出图案怎么办？**
+    *   **答：** 可以尝试从头开始缓慢旋转一圈，注意观察在某些角度下碎片是否更集中、轮廓是否更连贯；若游戏提供提示功能，也可以适当使用，让系统帮你朝正确方向旋转一小段距离。
 
+*   **问：游戏有没有时间限制或错误惩罚？**
+    *   **答：** 一般没有。Poly Art 更偏向舒缓身心的解谜体验，不会因为你旋转了很多圈就扣分或失败，你可以完全按自己的节奏享受拼合瞬间的成就感。

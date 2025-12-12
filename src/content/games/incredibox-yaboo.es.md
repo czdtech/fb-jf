@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-yaboo
-title: '[ES] Incredibox YaBoo'
+title: "Incredibox YaBoo"
 description: >-
-  [ES] Dive into the fan-made 'Incredibox YaBoo' mod. This guide covers its
-  unique sound palette, music creation gameplay, and how to unlock its themed
-  bonuses.
+  Sumérgete en el mod fan-made "Incredibox YaBoo". Esta guía repasa su paleta
+  sonora única, la jugabilidad de creación musical y cómo desbloquear sus bonus
+  temáticos.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/incredibox-yaboo.png
 tags:
@@ -17,40 +17,65 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **Introducción a Incredibox "YaBoo"**
 
+*Incredibox YaBoo* es un mod fan‑made muy popular y con una identidad visual muy
+marcada. Se inspira en el **folclore japonés**, con personajes que recuerdan a
+Oni (demonios) y Yokai (espíritus).
 
-### **Incredibox "YaBoo" Game Introduction**
+La mecánica es la misma que en las versiones oficiales. Cuentas con un elenco de
+personajes con estética de Oni listos para actuar. Arrastrando y soltando 20
+iconos de sonido sobre ellos puedes mezclar tus propios beats. La paleta sonora
+combina instrumentos e interpretaciones vocales tradicionales japonesas con
+bases electrónicas y elementos de hip‑hop modernos.
 
-*Incredibox YaBoo* is a popular and artistically distinct fan-made mod for the music creation game Incredibox. this version stands out with its unique and cohesive theme inspired by **Japanese folklore, featuring Oni (demons) and Yokai (spirits)**.
+El objetivo, como siempre, mezcla expresión creativa y resolución de puzzles.
+Puedes experimentar libremente para crear una pista inspirada en Japón y, al
+mismo tiempo, buscar las tres combinaciones de sonido que desbloquean bonus
+animados profundamente ligados al tema folclórico del mod.
 
-The game mechanics are identical to the official series. Players are presented with a crew of characters stylized as Oni, who are ready to perform. By dragging and dropping 20 unique sound icons onto these characters, players can mix their own beats. The sound palette is completely original, blending traditional Japanese instruments and vocal styles with modern electronic and hip-hop elements.
+### **Estrategia de juego y consejos**
 
-The goal, as always, is a blend of creative expression and puzzle-solving. Players can freely experiment to create their own Japanese-inspired musical track. The puzzle element involves discovering the three specific sound combinations that unlock beautifully animated bonuses, each deeply rooted in the mod's folkloric theme.
+La estrategia en *Incredibox YaBoo* es superponer sonidos para crear una mezcla
+sugerente y, de paso, desvelar las animaciones ocultas.
 
-### **Gameplay Strategy & Tips**
+1.  **Conoce las categorías temáticas japonesas:**
+    *   **Beats (rojo):** Mezcla de bases graves modernas y percusión
+        tradicional japonesa, con golpes de **taiko** muy potentes.
+    *   **Effects (azul):** Texturas atmosféricas: sintes con sabor oriental,
+        ruidos ambientales y cánticos rítmicos que añaden profundidad.
+    *   **Melodies (verde):** Donde brillan los instrumentos tradicionales: loops
+        de **shamisen**, motivos de **koto** y líneas de sinte que los acompañan.
+    *   **Voices (amarillo):** Voces en estilo japonés: desde cantos melódicos y
+        coros hasta gritos guturales y exclamaciones tipo "kakegoe".
 
-The strategy for *Incredibox YaBoo* is about layering its unique sounds to create a compelling mix and uncovering the hidden animations.
+2.  **Fusiona tradición y modernidad:** La magia está en esa mezcla. No temas
+    colocar un motivo de shamisen sobre un beat moderno con 808; el contraste es
+    parte del encanto.
 
-1.  **[ES]** **Understand the Japanese-Themed Categories**:
-    *   **[ES]** **Beats (Red)**: The rhythmic foundation here is a mix of modern bass-heavy beats and traditional Japanese percussion, such as the powerful sound of **Taiko drums**.
-    *   **[ES]** **Effects (Blue)**: These icons provide the atmospheric texture, featuring synthesized sounds with an Eastern feel, ambient noises, and sometimes rhythmic chants that add depth.
-    *   **[ES]** **Melodies (Green)**: This is where the traditional instruments shine. Expect to hear catchy loops from instruments like the **Shamisen** (a three-stringed lute) or the **Koto** (a stringed zither), blended with modern synth melodies.
-    *   **[ES]** **Voices (Yellow)**: This category features a range of Japanese-style vocal performances, from melodic singing and harmonies to powerful, guttural chants and exclamations reminiscent of "kakegoe" (shouts in Japanese theater and martial arts).
+3.  **Busca los bonus con método:** Las combinaciones que desbloquean bonus
+    pueden ser difíciles de encontrar al azar. Fija una base sólida y ve
+    sustituyendo el resto de iconos uno a uno hasta activar cada animación.
 
-2.  **[ES]** **Blend the Traditional with the Modern**: The magic of this mod is in the fusion of sounds. Don't be afraid to layer a traditional Shamisen melody over a modern, heavy beat. The contrast is what gives the music its unique character.
+4.  **Escucha la historia:** Sonidos y animaciones cuentan un pequeño relato.
+    Fíjate en cómo cambian los personajes al activar ciertos iconos; a veces
+    eso da pistas sobre qué sonidos combinan bien.
 
-3.  **[ES]** **Find the Hidden Bonuses Systematically**: The bonus-unlocking combinations can be tricky to find randomly. A good method is to lock in a few sounds that you feel create a strong core for your track, and then methodically swap out the remaining sounds one by one until a bonus animation is triggered.
+5.  **Usa mute y solo para limpiar la mezcla:** Si la pista suena demasiado
+    cargada, silencia personajes concretos con mute y usa solo para aislar
+    instrumentos o voces y ver cómo encajan en el conjunto.
 
-4.  **[ES]** **Listen for the Narrative**: The sounds and animations tell a story. Pay attention to how the characters' appearances change with each sound. This can sometimes give you a hint about which sounds might belong together.
+### **Guía de controles**
 
-5.  **[ES]** **Use Solo and Mute for Clarity**: If your mix feels too busy, use the mute function to silence individual characters. Use the solo function to isolate a specific instrument or vocal part to appreciate its detail and see how it fits into the overall composition.
+Los controles son los habituales de Incredibox.
 
-### **Controls Guide**
-
-The controls are the standard, user-friendly Incredibox interface, driven by mouse actions.
-
-*   **[ES]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto a character.
-*   **[ES]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound over an existing character to replace it.
-*   **[ES]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[ES]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[ES]** **Record**: Click the **record button** to start and stop recording your musical creation.
+*   **Añadir sonido:** **Arrastra** un icono desde la parte inferior y
+    **suéltalo** sobre un personaje.
+*   **Quitar sonido:** haz clic en la "X" del icono activo o arrastra otro
+    sonido sobre ese personaje.
+*   **Silenciar / reactivar:** **Haz clic** en un personaje que esté sonando para
+    silenciarlo; vuelve a hacer clic para reactivarlo.
+*   **Solo:** pulsa el **botón pequeño** junto al personaje activo para silenciar
+    al resto.
+*   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
+    grabación de tu creación.

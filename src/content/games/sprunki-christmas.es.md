@@ -1,42 +1,57 @@
 ---
 locale: es
 urlstr: sprunki-christmas
-title: '[ES] Sprunki Christmas - Play Sprunki Christmas Online'
+title: Sprunki Christmas - Juega a Sprunki Christmas Online
 description: >-
-  [ES] Sprunki Christmas is a Mod that allows you to fully enjoy the fun of the
-  game in the festive atmosphere. Come to the world of Sprunki Christmas and
-  light up your Christmas with vibrant music!
+  Sprunki Christmas es un mod que te deja disfrutar al máximo del universo
+  Sprunki en plena atmósfera navideña. Entra en el mundo de Sprunki Christmas y
+  llena tu Navidad de música vibrante.
 iframeSrc: 'https://turbowarp.org/1104040581/embed'
 thumbnail: /sprunki-christmas.png
 tags:
   - sprunki christmas
 score: 4.6/5  (486 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+¿Listo para una aventura musical cargada de espíritu festivo? Sprunki Christmas
+te lleva a un universo Sprunki lleno de alegría y emoción, donde te espera una
+aventura con puzles, desafíos y coleccionables navideños. Combina gráficos
+llamativos, personajes encantadores y mecánicas muy accesibles para ofrecer una
+experiencia ideal para todas las edades.
 
-Ready to welcome a musical adventure full of festive atmosphere? Sprunki Christmas will take you into a Sprunki universe full of joy and excitement, where you will embark on a fun adventure, including puzzles, challenges, and Christmas-themed collectibles. This game combines vibrant visuals, charming characters, and engaging gameplay to deliver a delightful experience for players of all ages.
+### ¿Cómo se juega a Sprunki Christmas?
 
-### How to Play Sprunki Christmas?
+- **Objetivo:** Ayudar a los personajes de Sprunki a repartir alegría navideña
+  completando niveles, recogiendo regalos y superando desafíos invernales.
+- **Mecánicas de juego:**
+- **Colección de regalos:** Recorre paisajes nevados para recoger presentes.
+- **Resolución de puzles:** Supera rompecabezas temáticos de Navidad para
+    desbloquear nuevos niveles.
+- **Potenciadores festivos:** Usa bastones de caramelo, bolas y otros
+    adornos como power‑ups para limpiar fases complicadas.
+  - **Decorar el árbol:** Reúne decoraciones a lo largo de los niveles para
+    iluminar el árbol de Navidad.
+- **Eventos especiales:** Participa en desafíos de tiempo limitado durante la
+  temporada festiva y consigue recompensas exclusivas.
 
-- **Objective:** Help the Sprunki characters spread holiday cheer by completing levels, collecting gifts, and overcoming winter-themed challenges.
- **[ES]** **Gameplay Mechanics:** 
-- Gift Collection: Navigate through snowy landscapes to collect presents.
-- Puzzle Solving: Solve holiday-themed puzzles to unlock new levels.
-- Power-Ups: Use festive boosters, like candy canes and ornaments, to clear difficult stages.
-- Decorate the Tree: Gather decorations throughout the levels to light up the Christmas tree.
+### Características del juego
 
-  - **Special Events:** Participate in limited-time holiday challenges and earn exclusive rewards.
+- **Escenarios navideños:** Paisajes invernales llenos de nieve, luces y
+  decoración festiva.
+- **Personajes encantadores:** Conoce a los Sprunki Rejoyed vestidos con trajes
+  navideños adorables.
+- **Niveles creativos:** Fases únicas inspiradas en la Navidad con dificultades
+  variadas.
+- **Banda sonora festiva:** Una selección de melodías navideñas alegres que
+  refuerzan el ambiente.
+- **Personalización:** Desbloquea y coloca adornos navideños en tu entorno de
+  juego.
+- **Retos comunitarios:** Colabora con amigos o compite en clasificaciones
+  especiales durante los eventos.
 
-
-### Features of the Game:
-
-- **Holiday-Themed Visuals:** Beautifully designed winter wonderlands with snow, lights, and festive decor.
-- **Charming Characters:** Meet Sprunki Rejoyed characters dressed in adorable holiday outfits.
-- **Creative Levels:** Unique Christmas-themed stages with varying difficulties.
-- **Festive Soundtrack:** A cheerful collection of holiday tunes that enhance the festive mood.
-- **Customization:** Unlock and personalize Christmas decorations for your in-game environment.
-- **Community Challenges:** Team up with friends or compete on leaderboards during holiday events.
-
-
-Sprunki Christmas is a Mod that allows you to fully enjoy the fun of the game in the festive atmosphere. Come to the world of Sprunki Christmas and light up your Christmas with vibrant music! Whether you want to immerse yourself in the exquisite winter wonderland or experience the thrill of playing with friends and the community, Sprunki Christmas can meet your needs!
+Sprunki Christmas es un mod ideal para quienes quieren mezclar el encanto de
+Sprunki con la magia de la Navidad. Tanto si quieres sumergirte en un precioso
+paisaje invernal como si buscas partidas festivas con amigos y comunidad,
+Sprunki Christmas tiene algo para ti.

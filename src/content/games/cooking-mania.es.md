@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: cooking-mania
-title: '[ES] Cooking Mania'
+title: "Cooking Mania"
 description: >-
-  [ES] Cooking Mania is a fast time‑management cooker — juggle orders, chain
-  combos, and upgrade kitchens to keep customers happy.
+  Cooking Mania es un frenético juego de gestión de tiempo en la cocina: gestiona
+  pedidos, encadena combos y mejora tu restaurante para mantener a todos los
+  clientes satisfechos.
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/cooking-mania.jpg
 tags:
@@ -15,36 +16,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Cooking Mania condensa el ajetreo de un restaurante en niveles rápidos: prepara
+ingredientes, monta los platos en el orden correcto y sírvelos antes de que se
+agote el tiempo. Las mejoras de equipo, las sartenes extra y una preparación
+más rápida te permiten encadenar pedidos y conseguir monedas extra.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Cooking Mania boils restaurant rush into quick levels: prep ingredients, assemble dishes in order, and serve before timers expire. Equipment upgrades, extra pans, and faster prep let you chain orders for bonus coins.
+1.  Prepara por lotes los productos más demandados para reducir los tiempos de
+    espera.
+2.  Encadena servicios: entrega varios pedidos seguidos para conseguir
+    propinas por combo.
+3.  Mejora primero los cuellos de botella (por ejemplo, número de planchas o
+    velocidad de preparación).
+4.  Prioriza los temporizadores: atiende antes los pedidos que están a punto de
+    expirar, incluso si eso rompe un combo grande.
+5.  Organiza la barra de trabajo para minimizar el recorrido del ratón y evitar
+    clics innecesarios.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Prep in batches for popular items to reduce wait times.
-2.  **[ES]** Chain serves: deliver multiple orders back‑to‑back for combo tips.
-3.  **[ES]** Upgrade bottlenecks first (e.g., grill count, prep speed).
-4.  **[ES]** Prioritize timers: Serve expiring orders before large combos.
-5.  **[ES]** Queue logic: Arrange workspace to minimize cursor travel.
+- Toca para preparar ingredientes, arrastra para montar el plato y toca al
+  cliente para servirle.
+- Compra mejoras entre niveles desde la tienda.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap to prep, drag to assemble, and tap customers to serve.
-- Shop for upgrades between levels.
+- P: Siempre quemo la comida, ¿cómo lo evito?
+  
+  R: Escalona el inicio de cada preparación y escucha las señales sonoras; retira
+  los platos del fuego justo en el punto "perfecto".
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Qué mejoras son mejores al principio?
+  
+  R: Prioriza más planchas/sartenes y velocidad de preparación; la decoración del
+  local puede esperar hasta más adelante.
 
-- Q: I burn items — how to avoid?
-
-A: Stagger starts and listen for audio cues; grab items promptly at “perfect” timing.
-
-- Q: Which upgrades are best early?
-
-A: Extra grills/pans and prep speed; décor is optional until later.
-
-- Q: Can I pause?
-
-A: Many levels disallow pausing mid‑rush; plan ahead.
-
+- P: ¿Se puede pausar?
+  
+  R: Muchos niveles no permiten pausar en plena hora punta; organiza tu tiempo
+  antes de empezar.

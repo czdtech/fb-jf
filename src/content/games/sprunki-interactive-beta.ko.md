@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: sprunki-interactive-beta
-title: '[KO] Sprunki Interactive BETA - Play Sprunki Interactive BETA Online'
+title: Sprunki Interactive BETA 스프룽키 인터랙티브 베타
 description: >-
-  [KO] Sprunki Interactive BETA is not just a simple upgrade to the Sprunki
-  game, it
+  Sprunki Interactive BETA는 캐릭터가 화면 곳곳을 돌아다니며 서로 부딪히는 상호작용을 통해 즉흥적인 사운드를 만드는
+  실험적인 스프룽키 모드입니다. 귀여움과 공포가 점차 뒤섞이는 독특한 연출이 특징입니다.
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
 thumbnail: /sprunki-interactive-beta.png
 tags:
@@ -14,31 +14,48 @@ score: 4.0/5  (407 votes)
 
 
 
-### What is Sprunki Interactive BETA?
+### Sprunki Interactive BETA란?
 
-Sprunki Interactive BETA is not just a simple upgrade to the Sprunki game, it's an innovative attempt to break the rules. It injects dynamic character movements and unpredictable interactions into the vibrant Sprunki gameplay, completely subverting the familiar world.
+Sprunki Interactive BETA는 기존 스프룽키에 단순히 사운드만 추가한 버전이 아니라,
+무대 위 캐릭터들이 끊임없이 움직이고 서로 상호작용하는 방식을 도입한 실험적인
+모드입니다. 캐릭터의 움직임과 충돌이 곧 사운드가 되어, 예측하기 힘든 소리의
+혼돈을 즐길 수 있습니다.
 
-### The Core Features of Sprunki Interactive BETA:
+### Sprunki Interactive BETA의 핵심 특징
 
-- **Dynamic Character Movement:** Unlike traditional fixed models, the characters in Sprunki Interactive BETA are constantly moving across the screen, creating an exciting chaos.
-- **Unpredictable Interactions:** When these vibrant characters (including Sprunki and other partners) collide or interact, they generate unique sounds, creating a spontaneous and ever-changing soundscape.
+- **동적인 캐릭터 움직임:**
+  일반 스프룽키처럼 자리에 고정된 모델이 아니라, 캐릭터들이 화면을 가로질러
+  계속 움직이며 구도를 바꿉니다.
+- **예측 불가능한 상호작용:**
+  이동 중인 캐릭터들이 서로 부딪히거나 스쳐 지나갈 때마다 새로운 사운드가
+  발생해, 매 순간 다른 사운드스케이프를 만들어 냅니다.
+
+### 게임 플레이 방식
+
+게임 초반의 세계는 밝고 알록달록한 색감으로 가득합니다. 플레이어는 더플,
+브러드, 오렌 같은 귀여운 캐릭터 세 마리를 만나게 되며, 각 캐릭터는 서로 다른
+타이머(이동 속도, 배회 패턴 등)를 가지고 있습니다. 플레이어는 이 타이머를
+조정해, 캐릭터들이 적절한 타이밍에 움직이고 상호작용하도록 관리해야 합니다.
+
+하지만 시간이 지날수록 분위기는 서서히 변합니다. 처음에는 사랑스럽던 캐릭터들이
+점점 기괴하고 괴물 같은 모습으로 변해 가고, 초록빛 풍경은 어둡고 불길한 색으로
+바뀝니다. 오렌과 브러드는 피와 그림자로 얼룩진 공포 버전으로 변하고, 더플의
+속도 타이머는 더욱 불안한 변화를 유발할 수 있습니다. 귀여움과 공포가 한 화면에
+공존하는 긴장감 있는 연출이 특징입니다.
+
+이 변화는 단순한 장식이 아니라 게임 플레이에도 긴장을 더합니다. 타이머를 어떻게
+조정하느냐에 따라 상황이 안정될 수도, 더 혼란스러워질 수도 있죠. 과연 변화를
+통제하며 균형을 유지할 수 있을까요?
+
+### Sprunki Interactive BETA 하이라이트
+
+- 기존 스프룽키를 한 단계 진화시킨 동적인 게임 구조
+- 계속 움직이는 캐릭터와 그에 따라 변하는 사운드
+- 귀엽고 밝은 분위기에서 점차 공포로 변해 가는 연출
+- 캐릭터 충돌과 상호작용에서 나오는 독특한 즉흥 사운드
 
 
-### How to Play the Game:
-
-In Sprunki Interactive BETA, the world starts out bright, colorful, and full of charm. You’re introduced to three lovable characters: Durple, a yellow creature with antennae; Brud, a purple character with wings; and Oren, a pink being with cat ears. Each character is equipped with its own timer: Durple's speed timer, Brud's wandering timer, and Oren's behavior timer. As a player, your task is to manage these timers effectively, adjusting them to ensure that each character's actions are executed at just the right moment.
-
-However, as you manipulate these cute pets, the gameplay takes a surprising turn. You're initially managing bright and adorable creatures, but as time passes, the game gradually shifts. The same characters that were once full of life and color start morphing into grotesque, monstrous versions of themselves. What was a bright, green landscape turns darker, with ominous tones creeping in. Characters like Oren and Brud shift from cute, innocent designs into nightmarish versions—bloody, eerie, and unsettling. Durple's speed timer could even be the trigger for his transformation into a more sinister form, further changing the environment around him.
-
-This eerie transition adds a layer of intensity to the gameplay, combining playful interaction with spine-chilling moments. As you adjust the timers and manage the chaos, you must face the growing horror that lurks beneath the surface of this seemingly innocent game. Can you keep your characters in check before the transformation takes over completely?
-
-### Highlights of Sprunki Interactive BETA:
-
-- Fresh and lively evolution of Sprunki gameplay
-- Dynamic character movements introduced
-- Unpredictable interactions throughout gameplay
-- Unique sounds from character collisions
 - Unique sounds, animations, and rhythms added to your worldview with a lot of creativity and imagination
-
-
-So, dive into Sprunki Interactive BETA and let the chaos of sound and movement inspire your next musical masterpiece! Only the most strategic players can control the balance between cuteness and terror.
+Sprunki Interactive BETA는 통제와 혼돈 사이를 오가며, 소리와 연출을 동시에
+즐기는 실험적인 모드입니다. 귀여움과 섬뜩함이 동시에 존재하는 세계를 경험해
+보고 싶다면 한 번 도전해 보세요.

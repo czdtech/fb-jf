@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: subway-jumper
-title: '[FR] Subway Jumper'
-description: >-
-  [FR] Subway Jumper is a nimble runner — swap lanes, time hops/slides, and
-  maintain rhythm through dense metro hazards.
+title: Subway Jumper
+description: "Subway Jumper est un runner à trois voies dans le métro\_: change de voie, saute, glisse et garde le rythme au milieu des obstacles et des trains."
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/subway-jumper.png
 tags:
@@ -14,32 +12,31 @@ score: 3.9/5  (1759 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Subway Jumper reprend la formule classique du runner à trois couloirs : tu
+cours entre les trains, évites les plots et les barrières, ramasses des pièces
+et gères des power‑ups, le tout dans un métro bondé.
 
+### Stratégie et astuces
 
-### Detailed Game Introduction
+1. **Regarde loin devant** plutôt que juste devant ton personnage.
+2. **Sauts tardifs pour les petits obstacles**, glissades pour les barres et
+   tunnels.
+3. **Ignore certaines pièces** si l’angle est dangereux.
+4. **Garde les boucliers/aimants** pour les sections les plus chargées.
+5. **Après une erreur, reprends ton rythme** avant d’accélérer.
 
-Subway Jumper plays like a classic three‑lane runner: trains, cones, and barriers demand late jumps and decisive slides. Coins and power‑ups tempt risky lines; consistency earns longer streaks and better scores.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- A/D ou Gauche/Droite pour changer de voie  
 
-1.  **[FR]** Eyes up two obstacles; don’t stare at your feet.
-2.  **[FR]** Late jumps for low hurdles; slides for bars and tunnels.
-3.  **[FR]** Skip side coins when alignment is off.
-4.  **[FR]** Use shields/magnets in dense sections only.
-5.  **[FR]** After a mistake, reset rhythm before speeding up.
-
-### Controls Guide
-
-- A/D or Left/Right to switch lanes; Space/Up to jump; Down to slide; power‑ups via keys.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I clip barriers often.
+### Foire aux questions (FAQ)
+- Espace/Haut pour sauter  
 
 A: Jump a touch later and center after passes.
+- Bas pour glisser
 
-- Q: Is speed adjustable?
+
 
 A: Many builds ramp speed automatically; focus on clean inputs.
-

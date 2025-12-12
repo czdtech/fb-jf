@@ -1,101 +1,62 @@
 ---
+title: "Big Shark ビッグ・シャーク"
+description: "「Big Shark」の海で王者になれ！凶暴なサメを操り、小魚を食べて巨大化し、危険なライバルや機雷を避けて海の食物連鎖の頂点を目指すサバイバルガイド。"
+iframeSrc: "https://big-shark.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+thumbnail: "/new-images/big-shark.jpg"
+urlstr: "big-shark"
+score: "4.2/5  (890 votes)"
+tags: ["action", "survival", "animal"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: big-shark
-title: '[JA TRANSLATION NEEDED] Big Shark'
-description: >-
-  [JA TRANSLATION NEEDED] A guide to the action-survival game Big Shark. Learn
-  how to eat, grow, avoid dangers like bigger sharks and mines, and achieve the
-  highest score in the ocean.
-iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
-thumbnail: /new-images/big-shark.jpg
-tags:
-  - casual
-  - action
-score: 4.0/5  (372 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Detailed Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] *Big Shark* is a fast-paced, 2D underwater survival game with a simple yet addictive premise: eat or be eaten. Players take control of a shark and navigate a vast ocean teeming with life and danger. The primary objective is to survive for as long as possible and grow to be the biggest shark in the sea by consuming other marine life.
+*Big Shark（ビッグ・シャーク）*は、海の食物連鎖をテーマにしたスリル満点のサバイバルアクションゲームです。プレイヤーは空腹のサメを操作します。ルールは単純にして残酷。「食べるか、食べられるか」です。
 
-The controls for *Big Shark* are designed to be simple and intuitive, primarily using the mouse.（日本語訳が必要）
-[JA TRANSLATION NEEDED] You start as a relatively small shark, only able to eat the smallest of fish. As you consume prey, you gain points and gradually increase in size. This growth is key, as it allows you to hunt and eat progressively larger creatures, from medium-sized fish to other sharks and even unsuspecting swimmers. However, the ocean is a dangerous place. You must constantly be on the lookout for threats, such as sharks larger than you, deadly sea mines, and other hazards that can end your run instantly. The game is an endless arcade experience focused on achieving the highest possible score.
+広大な海を泳ぎ回り、自分より小さな魚や生き物を食べて成長しましょう。最初は小さな獲物しか狙えませんが、食べれば食べるほどサメは巨大化し、より大きな獲物を狙えるようになります。しかし注意してください。海にはあなたより大きなサメや、触れると即死する危険な機雷（爆弾）、その他の脅威が潜んでいます。エンドレスなこの海で、あなたはどれだけ大きく成長し、どれだけ長く生き残れるでしょうか？
 
-### Gameplay Strategy
-**1. How do I grow bigger in the game?**（日本語訳が必要）
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Success in *Big Shark* depends on a mix of aggression and caution.
+*Big Shark* で生き残るには、「積極性」と「慎重さ」のバランスが重要です。
 
-[JA TRANSLATION NEEDED] 1.  **Be Cautious at the Start:** When you are small, you are extremely vulnerable. Focus exclusively on eating the smallest fish and actively avoid everything else. Don't get greedy; survival is your top priority in the early stages.
-[JA TRANSLATION NEEDED] 2.  **Know Your Prey:** You can only eat creatures that are smaller than you. The game usually provides a clear visual cue. If something is your size or larger, it's either a competitor or a threat.
-[JA TRANSLATION NEEDED] 3.  **Use Your Boost Wisely:** Most versions of the game give you a speed boost ability. This is your most important tool for both offense and defense.
-[JA TRANSLATION NEEDED]     *   **For Offense:** Use the boost to quickly close the distance and catch faster-moving prey.
-[JA TRANSLATION NEEDED]     *   **For Defense:** The boost is your lifeline for escaping larger sharks that are chasing you. Don't waste it, and try to have it ready for emergencies.
-[JA TRANSLATION NEEDED] 4.  **Memorize the Threats:**
-[JA TRANSLATION NEEDED]     *   **Bigger Sharks:** The most common threat. Touching one means an instant game over. Always give them a wide berth.
-[JA TRANSLATION NEEDED]     *   **Sea Mines:** These explosive devices are often stationary. Colliding with one is fatal. Be especially careful when boosting through crowded areas.
-[JA TRANSLATION NEEDED]     *   **Jellyfish:** In some versions, these can sting you, causing you to lose points or get temporarily stunned.
-[JA TRANSLATION NEEDED] 5.  **Chain Your Kills for More Points:** To get a high score, try to eat multiple fish in quick succession. This often creates a combo bonus, multiplying your points and helping you grow faster.
+1.  **序盤は臆病であれ：** あなたがまだ小さい時、あなたは弱者です。一番小さな小魚だけを確実に食べ、それ以外の生き物からは全力で逃げてください。この段階での死因のほどんどは「欲張り」です。
+2.  **獲物を見極める：** 食べられるのは**自分より小さい生き物だけ**です。同じ大きさ、あるいは少しでも大きい相手は「敵」です。絶対に近づかないでください。
+3.  **ブースト（加速）の使い所：** 多くのバージョンで加速能力が使えます。これは攻防の要です。
+    *   **攻撃:** 素早い獲物に追いつくために使います。
+    *   **防御:** 巨大なサメに追いかけられた時の緊急脱出用として使うのが最も重要です。いざという時のために無駄使いは避けましょう。
+4.  **脅威を覚える：**
+    *   **巨大ザメ:** 最大の脅威です。触れたら即ゲームオーバー。見かけたら大きく迂回しましょう。
+    *   **機雷（爆弾）:** 海中に漂っているトゲトゲの黒い球体です。これも触れると即死です。混雑したエリアを高速で泳ぐ時は特に注意してください。
+    *   **クラゲ:** バージョンによっては触れると麻痺したり、ポイントが減ったりするお邪魔キャラです。
+5.  **コンボを狙う:** ハイスコアを狙うなら、短時間に連続して獲物を食べましょう。コンボボーナスが発生し、成長速度が上がります。
 
-### Controls Guide
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] The controls for *Big Shark* are designed to be simple and intuitive, primarily using the mouse.
+マウスを使った直感的な操作が中心です。
 
-*   **Movement:** Your shark automatically follows the position of your mouse cursor on the screen.
-*   **Boost / Dash:** Press the **Left Mouse Button** to activate a short burst of speed. This usually consumes some of your score or has a cooldown period.
+*   **移動:** マウスカーソルの方へサメが泳ぎます。
+*   **ブースト/ダッシュ:** マウスの**左クリック**（長押し）で一時的に加速します。使用にはスタミナやスコアを消費したり、クールダウンが必要な場合があります。
 
-- **移動するment:** Your shark automatically follows the position of your mouse cursor on the screen.
-### Frequently Asked Questions (FAQ)
-- **Boost / Dash:** 押す the **Left Mouse Button** to activate a short burst of speed. This usually consumes some of your score or has a cooldown period.
-### Frequently Asked Questions (よくある質問)
+### よくある質問 (FAQ)
 
-[JA TRANSLATION NEEDED] **1. How do I grow bigger in the game?**
-[JA TRANSLATION NEEDED] You grow by eating. The more fish and other creatures you consume, the larger your shark will become, allowing you to eat even bigger prey.
+**1. どうすれば大きくなれますか？**
 
-[JA TRANSLATION NEEDED] **2. Why did my game end suddenly?**
-[JA TRANSLATION NEEDED] You most likely ran into a threat you couldn't eat. The most common reasons for a game over are colliding with a shark larger than you or hitting a sea mine.
+魚や生き物を食べるほどサメのサイズが上がり、より大きな獲物を捕食できるようになります。
 
-[JA TRANSLATION NEEDED] **3. Is there an end to the game?**
-[JA TRANSLATION NEEDED] No, *Big Shark* is an endless game. The goal is not to "win" but to survive as long as possible and achieve the highest score you can.
+**2. なぜ突然ゲームオーバーになったのですか？**
 
-[JA TRANSLATION NEEDED] **4. What is the best way to get a high score?**
-[JA TRANSLATION NEEDED] The key to a high score is staying alive long enough to grow very large. Once you are big, you can eat almost anything, which allows you to rack up points quickly. Focus on survival first, and the high score will follow.
+自分より大きなサメや機雷などの致命的な障害物に触れると即座にゲームオーバーになります。
 
-[JA TRANSLATION NEEDED] **5. Can I eat the swimmers?**
-[JA TRANSLATION NEEDED] Yes, but only once you have grown large enough. They are usually one of the higher-tier prey and award a significant number of points.
+**3. ゲームに終わりはありますか？**
 
+ありません。エンドレスモードなので、どれだけ長く生き残って高スコアを出せるかが目標です。
 
-    - **For Offense:** Use the boost to quickly close the distance and catch faster-moving prey.（日本語訳が必要）
-4.  **Memorize the Threats:**（日本語訳が必要）
-5.  **Chain Your Kills for More ポイント:** To get a high score, try to eat multiple fish in quick succession. This often creates a combo bonus, multiplying your points and helping you grow faster.
-    - **For Defense:** The boost is your lifeline for escaping larger sharks that are chasing you. Don't waste it, and try to have it ready for emergencies.（日本語訳が必要）
+**4. ハイスコアを取るコツは？**
 
-- **Memorize the Threats:**
-    - **Bigger Sharks:** The most common threat. タッチing one means an instant game over. Always give them a wide berth.
-    - **Sea Mines:** These explosive devices are often stationary. Colliding with one is fatal. Be especially careful when boosting through crowded areas.（日本語訳が必要）
-    - **Jellyfish:** In some versions, these can sting you, causing you to lose points or get temporarily stunned.（日本語訳が必要）
+まずは安全第一で生き残り、十分な大きさになってからコンボを繋いで一気にポイントを稼ぎましょう。
 
-- **Chain Your Kills for More Points:** To get a high score, try to eat multiple fish in quick succession. This often creates a combo bonus, multiplying your points and helping you grow faster.
-### コントロール Guide
-You grow by eating. The more fish and other creatures you consume, the larger your shark will become, allowing you to eat even bigger prey.（日本語訳が必要）
+**5. 人間（海水浴客）は食べられますか？**
 
-
-
-### よくある質問（FAQ）
-- **Boost / Dash:** Press the **Left Mouse Button** to activate a short burst of speed. This usually consumes some of your score or has a cooldown period.
-- **Movement:** Your shark automatically follows the position of your mouse cursor on the screen.
-
-### よくある質問（FAQ）
-**2. Why did my game end suddenly?**（日本語訳が必要）
-You most likely ran into a threat you couldn't eat. The most common reasons for a game over are colliding with a shark larger than you or hitting a sea mine.（日本語訳が必要）
-**3. Is there an end to the game?**（日本語訳が必要）
-No, *Big Shark* is an endless game. The goal is not to "win" but to survive as long as possible and achieve the highest score you can.（日本語訳が必要）
-**4. What is the best way to get a high score?**（日本語訳が必要）
-The key to a high score is staying alive long enough to grow very large. Once you are big, you can eat almost anything, which allows you to rack up points quickly. Focus on survival first, and the high score will follow.（日本語訳が必要）
-**5. Can I eat the swimmers?**（日本語訳が必要）
-Yes, but only once you have grown large enough. They are usually one of the higher-tier prey and award a significant number of points.（日本語訳が必要）
-
-
-Yes, but only once you have grown large enough. They are usually one of the higher-tier prey and award a significant number of points.
-**5. Can I eat the swimmers?**
+はい、十分に成長すれば食べられます。高得点を得られる獲物なので、安全が確保できる時に狙ってください。

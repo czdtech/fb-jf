@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: speed-master
-title: '[KO] Speed Master'
+title: 'Speed Master 스피드 마스터'
 description: >-
-  [KO] Speed Master is a precision reaction gauntlet — hit prompts on beat,
-  chain perfects, and keep composure as speeds spike.
+  Speed Master는 정확한 타이밍과 집중력을 시험하는 리액션 게임입니다.
+  화면을 가로지르는 표시가 판정선과 겹치는 순간에 정확히 눌러 콤보를 이어 가고,
+  점점 빨라지는 속도 속에서도 침착함을 유지해야 합니다.
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/speed-master.png
 tags:
@@ -16,33 +17,54 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Speed Master is a minimalist reaction game that pushes timing and focus. Prompts sweep across the screen; you must tap at the exact overlap window. Difficulty rises with faster sweeps, deceptive rhythms, and multi‑lane inputs that punish early flinches and late presses alike.
+Speed Master는 군더더기 없이 타이밍만으로 승부하는 미니멀 반응 속도 게임입니다.
+화면 양쪽에서 표시들이 흘러오면, 판정선과 정확히 겹치는 순간에 키나 버튼을
+눌러야 합니다. 스테이지가 진행될수록 패턴 속도는 빨라지고 리듬은 더 교묘해지며,
+여러 줄이 동시에 입력을 요구하는 구간에서는 조금 이른 입력과 늦은 입력 모두가
+가차 없이 실수로 판정됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 및 공략
 
-1.  **[KO]** Beat counting: Lock to a steady internal count; tap to beat rather than pure sight.
-2.  **[KO]** Peripheral prediction: Track the next prompt while executing the current one.
-3.  **[KO]** Late‑bias safety: Slightly late taps are safer than early (most engines accept late end‑frames).
-4.  **[KO]** Two‑lane focus: Keep eyes between lanes; don’t hard‑fixate on one side.
-5.  **[KO]** Regain cadence: After a miss, breathe, realign posture, then continue.
+1.  **박자 세기:** 화면만 쫓기보다 머릿속에서 일정한 박자를 세며 그 박자에 맞춰
+    누르는 연습을 해 보세요. 시각 정보보다 리듬에 몸을 맡길수록 안정적인
+    타이밍을 유지하기 쉬워집니다.
+2.  **주변 시야 활용:** 현재 판정만 보지 말고, 다음에 올 표시를 주변 시야로
+    함께 따라가며 미리 예측하세요. 한 손은 현재 입력, 눈은 다음 입력을
+    준비하는 느낌으로 플레이하면 좋습니다.
+3.  **약간 늦게 누르기:** 대부분의 리듬 엔진은 너무 이른 입력보다 약간 늦은
+    입력을 더 관대하게 처리합니다. 늘 앞당겨 누르는 편이라면, 아주 조금
+    늦게 누른다는 느낌으로 타이밍을 조정해 보세요.
+4.  **양 라인 균형 맞추기:** 좌우 여러 라인이 동시에 나오는 구간에서는 한쪽
+    라인만 뚫어지게 보지 말고, 두 라인 사이 중앙을 바라보며 양쪽을 함께
+    처리하는 것이 좋습니다.
+5.  **실수 후 리셋:** 미스를 한 번 내면 리듬이 무너지기 쉽습니다. 이럴 땐
+    잠깐 숨을 고르고, 자세를 다시 잡은 뒤 박자를 재정비하고 이어가세요.
 
-### Controls Guide
+### 조작 방법 안내
 
-- Tap/press when prompts reach markers; multi‑lane binds use arrow/WASD (varies). Pause/Retry via UI.
+- 표시가 판정선에 도달하는 순간에 키나 화면을 탭해 입력합니다.
+- 여러 줄이 있는 구간에서는 방향키나 WASD 등 복수 키가 사용될 수 있으며,
+  정확한 키 배치는 게임 옵션에서 확인할 수 있습니다.
+- 일시정지와 재시작은 화면 UI 버튼으로 할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: I’m consistently early — how do I fix it?
+- Q: 항상 너무 빨리 눌러서 미스를 냅니다.
 
-A: Add a micro‑delay to your count and look for the exact overlap instead of chasing the sweep.
+  A: 머릿속 박자에 아주 작은 지연을 일부러 추가해 보세요. 표시가 판정선과
+  완전히 겹치는 순간을 보고 누른다는 느낌으로 플레이하면, 쫓아가듯 서두를 때보다
+  더 안정된 타이밍을 잡을 수 있습니다.
 
-- Q: Multi‑lane overwhelms me.
+- Q: 여러 라인이 동시에 나오면 너무 정신없어요.
 
-A: Soften focus and watch the center gap; process lanes peripherally.
+  A: 한 라인에만 시선을 고정하지 말고, 라인 사이 중앙을 부드럽게 바라보면서
+  양쪽을 주변 시야로 처리해 보세요. 눈의 움직임을 줄이면 손도 더 자연스럽게
+  반응할 수 있습니다.
 
-- Q: Does FPS matter?
+- Q: 프레임레이트(FPS)가 중요한가요?
 
-A: Stable framerate helps; close background apps if timing feels inconsistent.
-
+  A: 네, 입력 타이밍이 중요한 게임이라 화면이 끊기는 경우 판정이 불안정하게
+  느껴질 수 있습니다. 백그라운드 앱을 정리해 프레임을 안정시키면 더 정확한
+  타이밍으로 플레이할 수 있습니다.

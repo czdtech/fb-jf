@@ -1,100 +1,72 @@
 ---
-locale: ja
-urlstr: droid-o
-title: '[JA TRANSLATION NEEDED] Droid-O'
-description: >-
-  [JA TRANSLATION NEEDED] Droid-O is a tight top‑down arena shooter — kite
-  waves, chain ability synergies, and survive escalating threats with precise
-  movement.
+title: Droid-O ドロイド・オー
+description: 「Droid-O」は緊迫感あるトップダウン・アリーナシューター。正確な動きで敵の波をかわし、スキルを連携させ、激化する脅威を生き残ろう。
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/droid-o.png
+urlstr: droid-o
+score: 4.0/5  (1789 votes)
 tags:
   - action
   - shooting
-score: 4.0/5  (1789 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Droid-O（ドロイド・オー）*は、コンパクトでレスポンスの良い見下ろし型（トップダウン）アリーナシューターです。プレイヤーは機敏なロボットを操縦し、次々と押し寄せる敵の波を生き抜きます。
+ゲームの核となるのは、敵に追い詰められないように移動しながら攻撃する「引き撃ち（カイティング）」、弾薬とオーバーヒートの管理、そして状況に応じたアビリティ（ダッシュ、シールド、設置物）の使用です。敵は遅い近接タイプから、高速突撃型、そして予測撃ちをしてくる遠距離タイプへと徐々に激化します。アリーナ内を大きく回りながら安全地帯を確保し、圧力の高い敵集団を先に間引き、クールダウンを管理してピンチを脱出することが勝利への鍵です。
 
-[JA TRANSLATION NEEDED] Droid-O is a compact, responsive top‑down arena shooter where you pilot a nimble robot through tightening survival waves. The core loop revolves around clean kiting (moving while firing without getting cornered), ammunition/overheat discipline, and situational ability use (dashes, shields, deployables). Enemies escalate from slow melee units to faster chargers and ranged threats that punish predictable paths. Success comes from carving safe orbits around the arena, thinning high‑pressure clusters first, and timing cooldowns to escape pinch points.
+また、アリーナには狭い通路や、射線を切るための柱、ダメージやスロウ効果を与える危険なタイルなどの環境要素もあります。単に狙うだけでなく、地形や遮蔽物を有効活用することが重要です。
 
-[JA TRANSLATION NEEDED] The arena often includes environmental features — choke corridors, pillars for line‑of‑sight breaks, and hazard tiles that deal damage or slow both you and enemies. Efficient use of cover and terrain is as important as raw aim, especially once ranged enemies spawn.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **大きく回る:** 小さくパニック気味に動くのではなく、アリーナ全体を使った大きな円を描くように動きましょう。リカバリーの余裕が生まれます。
+2.  **ターゲット優先順位:** 高速な突撃型や遠距離攻撃をしてくる敵を最優先で倒しましょう。遅い近接型の敵は後回しでも対処可能です。
+3.  **クールダウン管理:** ダッシュやシールドは、囲まれた時の緊急脱出用に温存しておきましょう。一度に両方使い切るのは危険です。
+4.  **熱量管理:** 武器は撃ちっぱなしにせず、短く正確なバースト射撃を心がけましょう。冷却中やリロード中は遮蔽物に隠れて体勢を立て直します。
+5.  **誘導:** 狭い通路に敵を誘導し、貫通弾でまとめてダメージを与えましょう。柱を使って敵の視線を切るのも有効です。
+6.  **ヘルス管理:** 無理な攻撃は控え、確実に安全な時だけ撃ちましょう。後半のウェーブでは一発の被弾が命取りになります。
 
-[JA TRANSLATION NEEDED] 1.  Kite wide, not tight: Large circular paths give more correction time than small, panicky loops.
-[JA TRANSLATION NEEDED] 2.  Target priority: Eliminate fast chargers and ranged casters first; leave slow melee for cleanup.
-[JA TRANSLATION NEEDED] 3.  Cooldown discipline: Save dash/shield to break encirclements; avoid blowing both escapes at once.
-[JA TRANSLATION NEEDED] 4.  Ammunition/heat: Fire in short, accurate bursts; re‑engage while weapons cool or reload behind cover.
-[JA TRANSLATION NEEDED] 5.  Funnel fights: Pull packs through narrow lanes so bullets pierce multiple targets; reset aggro lines with pillars.
-[JA TRANSLATION NEEDED] 6.  Health economy: Take guaranteed safe shots; a single hit during late waves snowballs mistakes.
+### ビルドとシナジー
 
-### Builds and Synergies (if available)
+*   **貫通 + ノックバック:** 狭い場所での戦闘で絶大な効果を発揮します。貫通で複数を攻撃しつつ、ノックバックで敵を寄せ付けません。
+*   **スロウ + クリティカル:** 敵を遅くして隙を作り、その間にクリティカル攻撃を叩き込みます。
+*   **ドローン設置:** 移動する前にドローンを置いておくと、自分が逃げている間もドローンが追ってくる敵を攻撃してくれます。
 
-- Piercing + knockback: Piercing bullets gain huge value in choke fights; knockback keeps melee out of contact.
-- Slow + crit: Apply slows to create long exposure times for crit bursts.
-- Drone deployables: Drop drones before kite turns so they rake pursuing lines.
+### 操作ガイド
 
-### Controls Guide
+*   **移動:** WASD または 矢印キー
+*   **照準:** マウス または 右スティック
+*   **射撃:** 左クリック または トリガー
+*   **ダッシュ/アビリティ:** Space / E / Q（ビルドにより異なります）
+*   **一時停止:** UIボタン
 
-- Move: WASD/Arrows.  Aim: Mouse or right stick.  Fire: Left click/trigger.  Dash/Ability: Space/E/Q (varies by build).
-- Pause/Retry: UI buttons.
+### 上級者向けヒント
 
-### Advanced Tips
+*   **ルート取り:** 弾薬や回復アイテムが再出現する場所を通るような「8の字」ルートを予め考えておきましょう。
+*   **射線切り:** 柱の裏にステップすることで、遠距離攻撃の敵を移動させ、その隙にリロード時間を稼げます。
+*   **ペース配分:** わざと敵を倒すペースを落として敵をひとまとめにし、貫通攻撃で一掃するという戦術もあります。
 
-- Pathing: Pre‑plan a figure‑eight route that revisits ammo/health pickups on cooldown.
-- LOS breaks: Step behind a pillar to force ranged foes to reposition, buying reload time.
-- Wave pacing: Throttle kill speed briefly to lump spawns together, then clear them with pierce lines.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: いつも角に追い詰められてしまいます。**
 
-- Q: I keep getting cornered — how do I prevent this?
-  
-[JA TRANSLATION NEEDED]   A: Stop circling tightly near walls. Commit to wide arcs that cross the arena center, dash early through thinnest gaps, and use pillars to reset lines of sight.
-
-- Q: Which enemies should I kill first?
-  
-[JA TRANSLATION NEEDED]   A: Fast chargers and ranged units. Slow melee can be kited safely while you thin priority targets.
-
-- Q: My weapon overheats constantly — any fix?
-  
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Fire in short bursts, reposition during cooldown, and stack efficiency upgrades if the mode supports them.
-
-- Q: Are deployables worth it?
-  
+A: Stop circling tightly near walls. Commit to wide arcs that cross the arena center, dash early through thinnest gaps, and use pillars to reset lines of sight.
+- **A:** 壁際で小さく回るのをやめましょう。アリーナの中央を横切るような大きな動きを意識し、敵の隙間が一番薄いところを早めにダッシュで抜けましょう。
 
 
-
-
-
-
-
-- Q: I keep getting cornered — how do I prevent this?
-### よくある質問（FAQ）
-- Wave pacing: Throttle kill speed briefly to lump spawns together, then clear them with pierce lines.
-- LOS breaks: Step behind a pillar to force ranged foes to reposition, buying reload time.
-- Pathing: Pre‑plan a figure‑eight route that revisits ammo/health pickups on cooldown.
-### Advanced Tips
-- Pause/Retry: UI buttons.
-[JA TRANSLATION NEEDED]   A: Yes — pre‑place them along your kite path so they fire as enemies chase, multiplying damage without extra risk.
-
-
-
-
-
-
-
-
-A: Yes — pre‑place them along your kite path so they fire as enemies chase, multiplying damage without extra risk.
-- Q: Are deployables worth it?
-A: Fire in short bursts, reposition during cooldown, and stack efficiency upgrades if the mode supports them.
-- Q: My weapon overheats constantly — any fix?
 A: Fast chargers and ranged units. Slow melee can be kited safely while you thin priority targets.
-- Q: Which enemies should I kill first?
+*   **Q: どの敵から倒すべきですか？**
+
+A: Fire in short bursts, reposition during cooldown, and stack efficiency upgrades if the mode supports them.
+- **A:** 高速な突撃タイプと遠距離タイプです。遅い近接タイプは、優先ターゲットを処理している間、引き連れて歩いても比較的安全です。
 
 
 A: Yes — pre‑place them along your kite path so they fire as enemies chase, multiplying damage without extra risk.
+*   **Q: すぐにオーバーヒートしてしまいます。**
+    *   **A:** 指切り（バースト）射撃を徹底してください。また、効率化のアップグレードがあれば取得しましょう。
+
+*   **Q: 設置スキルは強いですか？**
+    *   **A:** はい。自分の逃走ルート上に置いておけば、リスクを負わずに敵にダメージを与え続けられるため非常に強力です。

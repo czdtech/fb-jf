@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: mahjong-solitaire
-title: '[ES] Mahjong Solitaire'
+title: "Mahjong Solitaire - Rompecabezas clásico para un jugador"
 description: >-
-  [ES] Challenge your mind with Mahjong Solitaire. Find and match pairs of
-  identical tiles to clear the board in this classic and relaxing puzzle game.
+  Pon a prueba tu mente con Mahjong Solitaire. Encuentra y empareja fichas
+  idénticas y libres para despejar el tablero en este rompecabezas clásico y
+  relajante.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/mahjong-solitaire.png
 tags:
@@ -18,37 +19,63 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Mahjong Solitaire es un juego de emparejar fichas para un solo jugador que usa
+un conjunto de fichas de Mahjong. A diferencia del Mahjong tradicional, aquí no
+se trata de formar manos, sino de despejar el tablero encontrando y emparejando
+parejas de fichas idénticas. Las fichas se disponen en distintos diseños, a
+menudo en varias capas. El juego exige buena observación, estrategia y
+planificación: un mal movimiento puede bloquear futuras parejas. Es un
+rompecabezas relajante pero exigente a nivel mental, disfrutado por millones de
+personas.
 
-Mahjong Solitaire is a single-player matching game that uses a set of Mahjong tiles. Unlike traditional Mahjong, the goal is not to form hands but to clear the board by finding and matching pairs of identical tiles. The tiles are arranged in various layouts, often in multi-layered stacks. The game requires careful observation, strategy, and planning, as one wrong move can block future matches. It's a relaxing yet mentally stimulating puzzle enjoyed by millions.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Entender las fichas "libres":** la regla más importante es que solo
+    puedes seleccionar y emparejar fichas "libres" (u "abiertas"). Una ficha
+    está libre si:
+    *   No tiene ninguna otra ficha encima.
+    *   Puede deslizarse hacia la izquierda o la derecha sin chocar con otra
+        ficha.
 
-1.  **[ES]** **Understanding "Free" Tiles:** The most important rule is that you can only select and match "free" (or "open") tiles. A tile is considered free if:
-    *   **[ES]** It has no other tiles on top of it.
-    *   **[ES]** It can be slid out to the left or the right without bumping into another tile.
+2.  **Prioriza el desbloqueo:** tu estrategia principal debe ser hacer parejas
+    que liberen la mayor cantidad posible de fichas nuevas. Busca parejas que
+    estén encima de otras columnas o bloqueando varias fichas en horizontal.
+3.  **Gestiona tríos y cuartetos con cuidado:** si ves tres o cuatro fichas
+    idénticas libres, decide con cuidado qué pareja quitar. Elige la que mejor
+    abra el tablero y te prepare movimientos futuros.
+4.  **Fichas especiales (Estaciones y Flores):** en muchas versiones, las
+    fichas de Estaciones y Flores son excepciones a la regla de igualdad
+    estricta. Cualquier ficha de Estaciones se puede emparejar con otra de
+    Estaciones, y lo mismo ocurre con las de Flores. Son muy útiles para
+    desbloquear el tablero cuando no quedan otras parejas.
+5.  **Uso inteligente de pistas y barajados:** si te quedas bloqueado, utiliza
+    el botón de "Pista" para descubrir una pareja disponible. Si ya no hay
+    movimientos posibles, es posible que el juego ofrezca una opción de
+    "Barajar" que reorganiza las fichas restantes para generar nuevas
+    combinaciones.
 
-2.  **[ES]** **Prioritize Unblocking:** Your main strategy should be to make matches that unblock the most new tiles. Look for pairs that are sitting on top of other columns or are blocking multiple tiles horizontally.
-3.  **[ES]** **Handle Triplets and Quads Carefully:** If you see three or four identical free tiles, be strategic about which pair you match. Choose the pair that will open up the most advantageous section of the board for future moves.
-4.  **[ES]** **Special Tiles (Seasons and Flowers):** In most versions, the Season and Flower tiles are exceptions to the identical match rule. Any Season tile can be matched with any other Season tile. The same applies to Flower tiles. These can be very useful for unblocking the board when no other matches are available.
-5.  **[ES]** **Use Hints and Shuffles Wisely:** If you are stuck, use the "Hint" button to reveal an available pair. If there are no more possible matches on the board, the game may offer a "Shuffle" option, which rearranges all remaining tiles to create new matching opportunities.
+### Guía de controles
 
-### Controls Guide
+El juego se controla con ratón o pantalla táctil.
 
-The game is controlled with a mouse or via touch screen.
+*   **Seleccionar ficha:** haz clic en una ficha libre para resaltarla.
+*   **Emparejar:** haz clic en una segunda ficha idéntica y libre para formar
+    la pareja. Ambas fichas desaparecerán del tablero.
 
-*   **[ES]** **Select a Tile:** Click on a free tile to highlight it.
-*   **[ES]** **Match a Pair:** Click on a second, identical free tile to match the pair. The two tiles will then be removed from the board.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Por qué no puedo seleccionar una ficha?**
+    *   **R:** La ficha no está "libre". Probablemente esté bloqueada por ambos
+        lados o tenga otra ficha parcial o totalmente encima.
 
-*   **[ES]** **Q: Why can't I select a tile?**
-    *   **[ES]** **A:** The tile is not "free." It is likely blocked on both its left and right sides, or there is another tile partially or fully on top of it.
+*   **P: ¿Qué hago si me quedo sin parejas visibles?**
+    *   **R:** Si estás seguro de que no quedan parejas, busca un botón de
+        "Barajar" o "Reorganizar". Si el juego no ofrece barajado y ya no hay
+        movimientos, la partida se considera perdida.
 
-*   **[ES]** **Q: What do I do when I run out of matches?**
-    *   **[ES]** **A:** If you are certain no matches are left, look for a "Shuffle" or "Reshuffle" button. If the game has no shuffle option and no moves are left, the game is lost.
-
-*   **[ES]** **Q: Are the Season/Flower tiles all different?**
-    *   **[ES]** **A:** Yes, the images on them are different, but they belong to the same group. You can match any tile from the "Seasons" group with any other tile from that same group, and likewise for the "Flowers" group.
-
+*   **P: ¿Las fichas de Estaciones y Flores son todas diferentes?**
+    *   **R:** Sí, sus ilustraciones varían, pero pertenecen al mismo grupo.
+        Puedes emparejar cualquier ficha del grupo de Estaciones con otra del
+        mismo grupo, y lo mismo ocurre con el grupo de Flores.

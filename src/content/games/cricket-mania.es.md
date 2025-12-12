@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: cricket-mania
-title: '[ES] Cricket Mania'
+title: "Cricket Mania"
 description: >-
-  [ES] Cricket Mania is a quick cricket hitter — pick shots, time swings, and
-  chase targets over by over.
+  Cricket Mania es un juego rápido de bateo de críquet: elige el tipo de golpe,
+  ajusta la sincronización y persigue el objetivo entrada a entrada.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/cricket-mania.png
 tags:
@@ -15,28 +15,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Cricket Mania condensa la experiencia de bateo en ráfagas rápidas. Lee la línea
+(y la longitud) del envío, elige el golpe adecuado y ajusta la sincronización del golpe para batir
+la colocación de los defensores y acumular carreras bajo la presión del marcador.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Cricket Mania captures fast batting sessions. Read line and length, pick appropriate shots, and time swings to beat field placements and rack up runs under target pressures.
+1.  **Selección de golpe:** Juega con la línea del lanzamiento: usa un golpe hacia
+    las piernas (leg glance) para bolas a la altura de las protecciones y un drive de
+    cobertura (cover drive) para pelotas en el lado off (off side).
+2.  **Ventana de tiempo:** Golpea un poco más tarde para mandar la pelota al
+    lado de las piernas, y algo antes para drives potentes hacia el lado off.
+3.  **Atento al objetivo:** Vigila siempre la tasa de carreras requerida; si
+    dejan de salir límites (4s y 6s), rota el strike (cambia de bateador) con golpes seguros.
+4.  **Control del riesgo:** Evita los golpes aéreos cuando los defensores estén
+    colocados en profundidad; prioriza los tiros rasos.
+5.  **Powerplays:** Aprovecha al máximo los huecos en el campo cuando los
+    defensores están adelantados.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Shot selection: Play with the line—leg glance for pads, cover for off‑side.
-2.  **[ES]** Timing window: Swing slightly late for leg‑side, earlier for off‑side drives.
-3.  **[ES]** Target focus: Track required run rate; rotate strike when boundaries dry up.
-4.  **[ES]** Risk control: Avoid aerials when fielders camp deep.
-5.  **[ES]** Power plays: Use gaps aggressively when the field is in.
+- Usa las entradas direccionales para orientar el golpe y pulsa en el momento
+  adecuado para balancear el bate.
+- Las carreras se suman automáticamente; fíjate en los avisos para golpes
+  especiales cuando el juego los ofrezca.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim shot with directional input; tap to swing on time.
-- Runs tally automatically; watch prompts for special shots.
+- P: Me atrapan constantemente, ¿qué hago mal?
+  
+  R: Probablemente estás levantando demasiado la pelota hacia zonas con
+  defensores en profundidad. Opta por golpes rasos y busca huecos en el campo.
 
-### Frequently Asked Questions (FAQ)
+- P: Fallo la sincronización de los golpes, ¿algún truco?
+  
+  R: En lugar de seguir solo la pelota en vuelo, concéntrate en el momento en
+  que el lanzador la suelta para anticipar el punto de impacto.
 
-- Keep getting caught? You’re lofting into deep field—favor ground shots.
-- Miss timing? Watch bowler’s release, not just ball flight.
-- Can I bowl? Most versions focus on batting only.
-
+- P: ¿Puedo lanzar o solo batear?
+  
+  R: La mayoría de versiones están centradas exclusivamente en el bateo; el
+  juego no suele ofrecer un modo completo de lanzamiento.

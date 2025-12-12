@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: gunspin
-title: '[ES] Gunspin'
+title: "Gunspin"
 description: >-
-  [ES] Recoil‑propulsion arcade: fire your gun to spin and fly, collect ammo,
-  and travel as far as possible through hazards.
+  Arcade de propulsión por retroceso: dispara tu arma para girar y avanzar,
+  recoge munición y viaja lo más lejos posible esquivando peligros.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/gunspin.jpg
 tags:
@@ -15,30 +15,41 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Gunspin convierte el retroceso en movimiento: cada disparo hace girar y
+propulsa tu arma/cuerpo hacia delante. Las fases están llenas de munición,
+monedas y peligros. Gestionar bien el ángulo y el momento del disparo te
+permite planear grandes distancias y encadenar recogidas; las mejoras añaden
+potencia de fuego y control.
 
+### Cómo jugar
 
-### Overview
-Gunspin turns recoil into movement: each shot spins and propels your weapon/body forward. Stages scatter ammo, coins, and hazards. Managing angle and shot timing yields long glides and chain pickups; upgrades add firepower and control.
+- Dispara con ángulos bajos para mantener la velocidad hacia delante.
+- Guarda ráfagas para corregir altura o esquivar peligros.
+- Usa las monedas para comprar armas que encajen con tu estilo (dispersión vs.
+  precisión).
 
-### How to Play
-- Fire at shallow angles to maintain forward velocity.
-- Save bursts for upward corrections or hazard avoidance.
-- Spend coins on guns that match your style (spread vs. precise).
+### Guía de controles
 
-### Controls
-- Mouse/Space to shoot; timing and aim set trajectory.
+- Ratón o barra espaciadora para disparar; el timing y la dirección del disparo
+  determinan la trayectoria.
 
-### Tips
-- Small taps > full bursts for efficiency.
-- Aim slightly behind your path to push forward without stalling.
-- Use bounce surfaces to refresh trajectory.
+### Consejos
 
-### FAQ
-- Q: How do I keep momentum without stalling?
-A: Shoot with shallow backward angles and short taps.
-- Q: What upgrades help most early?
-A: Ammo capacity and controllable recoil.
-- Q: Is there an end to the levels?
-A: It’s distance‑based; aim for personal bests.
+- Los toques cortos suelen ser más eficientes que las ráfagas largas.
+- Apunta ligeramente hacia atrás respecto a tu trayectoria para empujar hacia
+  delante sin frenar en seco.
+- Aprovecha las superficies de rebote para corregir y refrescar la trayectoria.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo mantengo el impulso sin quedarme parado?**  
+  **R:** Dispara con ángulos poco inclinados hacia atrás y usando pulsaciones
+  cortas.
+
+- **P: ¿Qué mejoras conviene comprar al principio?**  
+  **R:** Más capacidad de munición y retroceso más controlable.
+
+- **P: ¿Los niveles tienen final?**  
+  **R:** Es un juego basado en distancia; el objetivo es batir tu mejor marca.

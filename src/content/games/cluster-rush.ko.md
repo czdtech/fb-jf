@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cluster-rush
-title: '[KO] Cluster Rush'
+title: Cluster Rush 클러스터 러시
 description: >-
-  [KO] Master the art of truck-jumping in Cluster Rush with our detailed guide.
-  Get gameplay strategies, controls, tips, and answers to common questions for
-  this intense first-person platformer.
+  Cluster Rush는 달리는 트럭 무리 사이를 점프하며 결승점까지 살아남아야 하는 1인칭 3D 플랫폼 러너입니다. 트럭의 움직임 패턴을
+  익히고, 모멘텀과 더블 점프를 활용해 불가능해 보이는 구간을 돌파해 보세요.
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
 thumbnail: /new-images/cluster-rush.jpg
 tags:
@@ -15,55 +14,89 @@ score: 4.6/5  (1082 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Cluster Rush는 앞만 보고 달리는 트럭 무리 위를 점프해 이동하는 고난도 1인칭
+플랫폼 게임입니다. 발밑의 땅은 사실상 없다고 봐도 좋으며, 트럭에서 떨어지는 순간
+그 판은 바로 실패로 끝납니다.
 
+모든 조작은 물리 기반으로 이루어지며, 정확한 타이밍과 속도 조절, 빠른 반응이
+필수입니다. 플레이어는 방향을 바꾸고 급정거하는 트럭들, 때로는 충돌하고 폭발하는
+트럭들 사이를 이동하면서, 매 스테이지 끝까지 도달해야 합니다. 레벨은 여러
+월드로 나뉘어 있으며, 각 레벨마다 새로운 장애물과 더 복잡한 트럭 패턴이 추가되어
+도전 난이도가 점점 높아집니다.
 
+### 플레이 전략 & 팁
 
-### **Game Introduction**
+1.  **발밑보다 앞을 보기**  
+    가장 중요한 규칙입니다. 자신의 발밑을 보느라 시야를 낮추기보다, 항상 두세
+    대 앞의 트럭을 보며 다음 점프를 미리 계획하세요. 흐름을 유지해야 갑작스러운
+    상황에서도 덜 흔들립니다.
 
-Cluster Rush is a fast-paced, first-person 3D platformer with a simple yet incredibly challenging premise: you must jump from truck to truck in a chaotic, moving convoy to reach the finish line. The ground is effectively non-existent, and any fall results in an instant restart of the level.
+2.  **모멘텀(속도)이 점프 거리다**  
+    점프 거리는 달리는 속도에 비례합니다. 멀리 뛰어야 할 때는 `Shift`로 스프린트를
+    유지하고, 짧은 조정 점프가 필요할 때는 스프린트를 잠시 풀어 더 짧고 정확한
+    점프를 사용하세요. 항상 전력 질주만 하는 것이 정답은 아닙니다.
 
-The gameplay is entirely physics-based, demanding precise timing, momentum control, and quick reflexes. Players must navigate swerving, crashing, and sometimes exploding trucks that serve as their only platforms. The game is structured into a series of levels, grouped into different worlds, with each level introducing new obstacles and more complex truck patterns. It is a game of pure skill, trial-and-error, and mastering movement to overcome seemingly impossible challenges.
+3.  **더블 점프를 적극 활용하기**  
+    공중에서 한 번 더 점프할 수 있는 더블 점프는 가장 강력한 생존 도구입니다.
+    더 높은 곳으로 올라가거나, 다음 트럭이 제자리에 올 때까지 공중에서 시간을
+    벌고, 첫 점프 궤도가 조금 빗나갔을 때 궤적을 수정하는 데 사용할 수 있습니다.
 
-### **Gameplay Strategy & Tips**
+4.  **트럭 옆면 활용하기**  
+    착지에 실패할 것 같다면, 트럭 옆면을 향해 몸을 던져 보세요. 옆면을 스치듯
+    붙잡고 미끄러지며 한 번 더 점프할 기회가 생길 수 있습니다. 완벽한 상단
+    착지가 아니어도, 옆면을 이용해 자세를 재정비할 수 있다는 점을 기억하세요.
 
-Success in Cluster Rush is about mastering movement and learning the levels.
+5.  **레벨 패턴 암기하기**  
+    레벨마다 트럭 움직임은 난잡해 보이지만 사실은 고정된 패턴입니다. 여러 번
+    시도하면서 "어느 시점에 어떤 트럭이 어디로 가는지"를 익히면, 처음에는
+    불가능해 보이던 구간도 루트가 눈에 들어오기 시작합니다.
 
-1.  **[KO]** **Look Ahead, Not Down**: This is the most critical rule. Your focus should always be two or three trucks ahead of your current position. Planning your next jumps in advance is essential for maintaining flow and not getting trapped.
-2.  **[KO]** **Momentum is Everything**: Your jump distance is directly tied to your running speed. Use the sprint button to make long jumps, but also learn when to let go of it for shorter, more controlled hops. You do not need to be sprinting 100% of the time.
-3.  **[KO]** **Master the Double Jump**: The double jump is your most versatile tool. It can be used to gain extra height, extend your airtime to wait for a truck to get into position, or to correct your trajectory mid-air after a bad initial jump.
-4.  **[KO]** **Use the Sides of Trucks**: You can cling to and slide along the sides of trucks. This is a crucial life-saving technique. If you are about to miss a landing, aim for the side of the truck. This allows you to recover, readjust, and jump again.
-5.  **[KO]** **Learn the Level Patterns**: The truck movements in each level are not random; they follow a set pattern. The game is about trial and error. Pay attention to how the trucks move on each attempt. Memorizing the route is key to completing difficult levels.
-6.  **[KO]** **Think Vertically**: Don't just jump between trucks at the same height. Look for opportunities to jump from a low truck onto the roof of a much taller one to find a safer or faster path.
-7.  **[KO]** **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
+6.  **수직 방향도 활용하기**  
+    항상 같은 높이의 트럭만 오가는 대신, 낮은 트럭에서 높은 트럭 지붕으로 한 번에
+    올라가 더 안전하거나 빠른 경로를 찾을 수 있는지 찾아보세요.
 
-### **Controls Guide**
+7.  **실패를 학습 기회로 받아들이기**  
 
-The controls are similar to most first-person PC games.
+- **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
+    이 게임에서는 수십, 수백 번의 실패가 자연스러운 과정입니다. 매번 떨어질 때마다
+    "언제 점프가 너무 빨랐는지, 속도가 부족했는지"를 떠올리며 다음 시도에서 조금씩
+    수정해 보세요.
 
-*   **[KO]** **Move**: `W`, `A`, `S`, `D` keys
-*   **[KO]** **Look**: Mouse
-*   **[KO]** **Jump**: `Space Bar`
-*   **[KO]** **Double Jump**: Press `Space Bar` again while in the air
-*   **[KO]** **Sprint**: `Shift` key (hold down to run faster)
-*   **[KO]** **Pause/Menu**: `Esc` key
+### 조작 방법
 
-**Note:** Grabbing or sliding along the side of a truck is a contextual action. You do not need to press a specific key; simply make contact with the side of a truck while in the air.
+PC 기준 조작은 일반적인 1인칭 게임과 비슷합니다.
 
-### **Frequently Asked Questions (FAQ)**
+-   **이동:** `W`, `A`, `S`, `D` 키
+-   **시점 이동:** 마우스 이동
+-   **점프:** `Space` 키
+-   **더블 점프:** 공중에서 `Space`를 한 번 더 누릅니다.
+-   **스프린트:** `Shift` 키를 누른 상태로 달리기
+-   **일시정지/메뉴:** `Esc` 키
 
-**1. Are the truck movements random in each level?**
-No, the patterns are pre-determined for each level. While it may look chaotic, the trucks' paths are the same every time you play a specific level, making it possible to learn and master the routes.
+트럭 옆면에 매달리거나 미끄러지는 동작은 별도의 키 없이, 공중에서 트럭 옆면에
+몸을 부딪히면 자연스럽게 발생하는 컨텍스트 동작입니다.
 
-**2. I keep falling short on my jumps. What am I doing wrong?**
-This is almost always a momentum issue. Make sure you are holding down the `Shift` key to sprint before you make a long jump. For very long jumps, ensure you have a decent "runway" on the truck before you leap.
+### 자주 묻는 질문 (FAQ)
 
-**3. Is there a way to save my progress in the middle of a level?**
-No, there are no checkpoints. Each level must be completed from start to finish in a single run. This is a core part of the game's design and challenge.
+**1. 트럭 움직임이 매번 달라지나요?**  
+> 아닙니다. 각 레벨의 트럭 패턴은 고정되어 있습니다. 처음에는 혼란스러워 보이지만,
+> 여러 번 시도하다 보면 어떤 트럭이 언제 어디로 움직이는지 익힐 수 있습니다.
 
-**4. How do I unlock new worlds or levels?**
-You unlock new levels and worlds by successfully completing the previous ones in sequential order.
+**2. 점프가 항상 조금 모자라네요. 무엇이 문제인가요?**  
+> 대부분 스프린트 부족 또는 출발 지점이 너무 짧은 경우입니다. 멀리 뛰어야 하는
+> 구간에서는 `Shift`를 충분히 눌러 속도를 붙이고, 트럭 위에서 몇 걸음 달린 뒤
+> 점프해 보세요.
 
-**5. Some levels seem impossible. Any advice?**
-Patience is key. If you are truly stuck, take a break to clear your head. You can also try watching a video playthrough of that specific level online to see the intended or an alternative route you may not have considered. Often, there's a specific trick or path that makes it much easier.
+**3. 레벨 중간에 세이브 포인트가 있나요?**  
+> 없습니다. 하나의 레벨은 한 번에 끝까지 클리어해야 하며, 중간 저장은 지원하지
+> 않습니다. 이것이 이 게임 난이도의 핵심이기도 합니다.
 
+**4. 새로운 월드와 레벨은 어떻게 해금하나요?**  
+> 이전 레벨을 순서대로 클리어하면 다음 레벨·월드가 차례로 열립니다.
+
+**5. 도저히 못 깨겠는 레벨이 있는데, 어떻게 해야 하나요?**  
+> 잠시 휴식을 취해 머리를 식히거나, 해당 레벨의 공략 영상 등을 참고해 다른 경로
+> 또는 트릭을 참고하는 것도 방법입니다. 대부분의 레벨에는 처음엔 보이지 않는
+> "안정 루트"가 존재하는 경우가 많습니다.

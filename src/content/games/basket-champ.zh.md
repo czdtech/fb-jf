@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: basket-champ
-title: '[ZH TRANSLATION NEEDED] Basket Champ'
-description: >-
-  [ZH TRANSLATION NEEDED] Basket Champ is a one‑touch hoop challenge — set arc,
-  swish clean, and string perfect shots.
+title: Basket Champ 篮球高手
+description: 《Basket Champ（篮球高手）》是一款一键操作的投篮挑战游戏，通过控制出手弧线和力度，在移动篮筐和障碍间连续命中，追求最长命中连锁。
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/basket-champ.png
 tags:
@@ -16,26 +14,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Basket Champ is a minimal basketball timing game. Tap to set arc and power, thread shots through moving hoops or obstacles, and maintain streaks for big scores.
+*Basket Champ（篮球高手）* 是一款极简风格的定点投篮游戏。你只需要通过一次点击/轻触来决定出手的弧线和力度，将篮球穿过不断变化的篮筐，有时还要绕过机关和障碍物。
 
-### Gameplay Strategy & Walkthrough
+每一球命中之后，篮筐的位置、运动方式或场景元素可能都会发生变化：
 
-1.  Aim above rim center for soft drops.
-2.  Time moving hoops—shoot at consistent cycle points.
-3.  Recover after misses: reset rhythm before next attempt.
-4.  Ignore risky coins when alignment is poor.
-5.  Use practice to nail specific obstacle patterns.
+- 有的篮筐会左右移动；
+- 有的篮筐会被平台、墙体部分挡住视线；
+- 有时还会出现需要特别角度才能命中的结构。
 
-### Controls Guide
+你的目标是在尽量不失误的情况下，连续命中更多投篮，刷新命中连锁纪录和得分。
 
-- Tap/Click to set power/arc and release.
-- Pause/Retry via UI.
+### 游戏策略与攻略
 
-### Frequently Asked Questions (FAQ)
+1.  **瞄准篮筐上缘，制造“柔和下落”：**  
+   比起直线冲着篮圈砸过去，更高、更柔和的弧线让球下落时更容易干净入网，也更不容易被篮筐弹出。
 
-- Shots bounce out—fix? More arc and less power.
-- Endless? Typically yes—chase streak records.
-- Wind? Adjust for any side forces if present.
+2.  **抓住篮筐运动节奏：**  
+   当篮筐左右移动或上下浮动时：
+   - 观察一两轮运动轨迹；
+   - 找到其往返的节奏点，在篮筐刚好移动到你理想位置附近时出手。
 
+3.  **失误后先找回节奏再继续冲高分：**  
+   一两次投丢很容易打乱手感，可以在下一球稍微保守一点，以“重新找到手感”为主，而不是马上冒险投一个极限角度。
+
+4.  **不要为难拿的金币牺牲命中率：**  
+   某些版本中会在奇怪角度摆放金币或奖励道具，如果当前篮筐位置和你手感都不理想，可以暂时放弃这些高风险目标，先保证命中连锁不被中断。
+
+5.  **针对特定障碍多练几次：**  
+   有些场景机关会反复出现，例如一段时间后必然遇到的“挡板 + 移动篮筐”组合。可以多在这一段刻意练习，找到固定的出手节奏。
+
+### 操作指南
+
+- **PC / 浏览器：**  
+  点击或按住鼠标左键来蓄力、调整投篮弧线，松开即完成出手。
+- **手机 / 触屏：**  
+  轻触并按住屏幕，拖动调整角度和力度，松手投篮。
+
+暂停和重开一般通过屏幕上的 UI 按钮完成。
+
+### 常见问题解答（FAQ）
+*   **问：为什么球总是从篮筐里弹出来？****
+    *   答：** 通常是力度过大、弧线过平。尝试稍微加大抛物线弧度，并略微减小力度，让球“轻轻掉进篮筐”。
+*   **问：这是无尽模式吗？****
+    *   答：** 多数版本都是无尽挑战，你可以一直投到失误结束，核心目标是刷出更长的命中连锁和更高分数。
+*   **问：遇到侧风怎么办？****
+    *   答：** 如果关卡加入风向元素，注意风向标，适度向逆风方向偏移瞄准点，让风把球吹回理想轨迹。

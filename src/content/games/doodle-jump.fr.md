@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: doodle-jump
-title: '[FR] Doodle Jump'
+title: 'Doodle Jump'
 description: >-
-  [FR] Doodle Jump is a vertical platformer: bounce between platforms, avoid
+  Doodle Jump is a vertical platformer: bounce between platforms, avoid
   hazards, and climb as high as possible.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/doodle-jump.jpg

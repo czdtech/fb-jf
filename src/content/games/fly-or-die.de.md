@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: fly-or-die
-title: '[DE] Fly or Die'
+title: "Fly or Die"
 description: >-
-  [DE] Evolution survival (.io): eat correct food to evolve through the chain
-  while avoiding predators and hazards across sky and ground biomes.
+  Fly or Die ist ein Evolutions-Survival-Game im .io-Stil: Iss das richtige
+  Futter, steig die Nahrungskette hinauf und meide Räuber und Gefahren in Luft
+  und Bodenbiomen.
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/fly-or-die.jpg
@@ -15,31 +16,43 @@ score: 4.6/5  (260 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Fly or Die ist ein Multiplayer-Survivalspiel mit Evolutionsmechanik. Du
+startest als kleines Wesen, frisst bestimmte Nahrung, um aufzusteigen, und
+musst gleichzeitig vor Räubern und Umweltrisiken fliehen.
 
+### So spielst du
 
+- Achte auf die Symbole in deiner Nahrungsliste – nur diese Objekte geben dir
+  XP.
+- Behalte Räuber-Icons im Blick: Höher eingestufte Kreaturen können dich
+  töten – verstecke dich oder flieh rechtzeitig.
+- Verwalte Wasser/Oxigen (falls vorhanden) und nutze Aufwinde bzw. Höhenschichten
+  passend zu deiner aktuellen Form.
 
-### Overview
-Multiplayer survival with evolution: start as a small creature, consume specific items to level up into new forms, and avoid predators and environmental threats.
+### Steuerung
 
-### How to Play
-- Check your current diet icons; only those items grant XP.
-- Watch predator icons—higher tiers can kill you; hide or flee.
-- Manage water/oxygen (when applicable) and use thermals/updrafts.
+- Maus/Tastatur zum Bewegen/Fliegen; Boost-Tasten variieren nach Host.
 
-### Controls
-- Mouse/Keyboard to move/fly; boost keys vary by host.
+### Tipps
 
-### Tips
-- Eat safely at the edge of busy zones; don’t contest predators.
-- Memorize the food chain so you can route upgrades quickly.
-- Use verticality to escape—climb high or dive underground depending on form.
+- Fress in Randbereichen stark bevölkerter Zonen, statt mitten in
+  Räuber-Hotspots zu riskieren.
+- Präg dir die Nahrungskette ein, damit du gezielt auf die nächste Stufe
+  hinspielen kannst.
+- Nutze die Vertikale: Je nach Kreatur kannst du nach oben entkommen oder in
+  Bodennähe Schutz suchen.
 
 ### FAQ
-- Q: How do I evolve to the next creature?
-A: Eat the items shown in your diet bar to earn XP and level up.
-- Q: What happens when a predator catches me?
-A: You lose progress or a life depending on the server rules.
-- Q: Is there team play?
-A: Most servers are FFA; some hosts rotate special modes.
 
+- **F: Wie steig ich zur nächsten Kreatur auf?**  
+  **A:** Iss die Objekte, die in deiner Nahrungsliste angezeigt werden, um XP zu
+  sammeln und aufzuleveln.
+
+- **F: Was passiert, wenn mich ein Räuber erwischt?**  
+  **A:** Du verlierst je nach Serverregeln Fortschritt oder ein Leben.
+
+- **F: Gibt es Team-Modi?**  
+  **A:** Die meisten Server laufen im FFA-Modus; manche Hosts schalten zeitweise
+  Spezialmodi frei.

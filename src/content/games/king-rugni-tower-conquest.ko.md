@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: king-rugni-tower-conquest
-title: '[KO] King Rugni Tower Conquest'
+title: King Rugni Tower Conquest 타워 정복
 description: >-
-  [KO] King Rugni Tower Conquest is a compact tower defense — place towers,
-  route creeps, and upgrade smartly to hold lines.
+  간단한 규칙의 타워 디펜스 게임 'King Rugni Tower Conquest' 가이드입니다. 한정된 골드로 타워를 배치·강화하며 다양한
+  적 물결을 막는 전략을 소개합니다.
 iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
 thumbnail: /new-images/king-rugni-tower-conquest.jpg
 tags:
@@ -16,27 +16,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*King Rugni Tower Conquest*는 복잡한 시스템 없이 **타워 배치와
+강화**에 집중한 캐주얼 타워 디펜스 게임입니다. 제한된 골드로
+타워를 설치해 다양한 종류의 적들을 막아야 하며, 일부 맵에서는
+경로를 조절해 효율적인 킬존을 만드는 것이 중요합니다.
 
-King Rugni Tower Conquest is a streamlined tower defense. Place and upgrade towers to counter varied enemy types, manage limited gold, and shape paths (if possible) to maximize kill zones.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **커버리지 우선**  
+   길이 길게 보이는 구간, 여러 경로가 겹치는 지점에 타워를
+   배치해 한 타워가 최대한 많은 시간을 공격하도록 만드세요.
 
-1.  **[KO]** Coverage first: Place towers to cover long paths and shared choke points.
-2.  **[KO]** Mixed damage: Combine single‑target and splash to handle waves and elites.
-3.  **[KO]** Early upgrades: A few well‑upgraded towers often beat many weak ones.
-4.  **[KO]** Path shaping: If routing exists, force longer paths through kill zones.
-5.  **[KO]** Economy: Don’t over‑float gold—invest early for compounding value.
+2. **단일 타겟 + 광역 조합**  
+   잡몹 처리용 광역 타워와, 체력이 높은 적을 위한 단일 타겟
+   타워를 함께 배치하면 대부분의 웨이브를 안정적으로 막을 수 있습니다.
 
-### Controls Guide
+3. **초반 업그레이드 중시**  
+   많이 깔린 약한 타워들보다, 잘 배치된 몇 개의 타워를 먼저
+   2단계 이상 강화하는 편이 골드를 더 효율적으로 쓰는 방법입니다.
 
-- Place/Upgrade/Sell towers via the UI.
-- Start waves when ready; pause to plan.
+4. **경로 조형(지원되는 맵에서)**  
+   장애물을 두어 적들이 더 긴 경로를 돌게 만들 수 있다면,
+   킬존을 통과하는 시간이 길어져 방어가 쉬워집니다.
 
-### Frequently Asked Questions (FAQ)
+5. **골드 관리**  
+   골드를 지나치게 쌓아 두지 말고, 빠르게 타워·업그레이드에
+   투자해 초반부터 화력을 끌어올리면 이후 웨이브도 수월해집니다.
 
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
-- Best first tower? One that covers the longest segment; upgrade it early.
+### 조작 가이드
+
+- **타워 배치/강화/판매**: 화면 UI를 통해 타워를 선택해
+  배치하고, 업그레이드·판매할 수 있습니다.  
+- **웨이브 시작**: 준비가 되면 웨이브 시작 버튼을 눌러
+  다음 적 물결을 호출합니다.  
+- **일시정지**: 게임을 일시정지하고 배치를 다시 고민할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 자꾸 적이 새어 나가요.**  
+  **A:** 출구 근처에 슬로우 또는 광역 타워를 추가하고,
+  속도 빠른 적과 체력 높은 적을 모두 처리할 수 있도록
+  데미지 타입을 섞어 보세요.
+
+- **Q: 첫 번째로 어떤 타워를 지어야 하나요?**  
+
 - Fast‑forward? Many versions include a speed toggle.
+  **A:** 가장 긴 경로를 커버할 수 있는 위치에 범용성이 높은
+  타워 하나를 배치한 뒤, 그 타워를 먼저 업그레이드하는 것이 좋습니다.
 

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: farming-10x10
-title: '[ZH TRANSLATION NEEDED] Farming 10x10'
+title: "Farming 10x10 農場 10x10 方塊"
 description: >-
-  [ZH TRANSLATION NEEDED] Farming 10x10 dresses classic 10x10 block‑fit — place
-  shapes, clear rows/columns, and avoid sealing off precious space.
+  Farming 10x10 把經典 10x10 方塊擺放玩法換上農場新皮膚——
+  放置方塊、消除整行整列，同時設法保留寶貴空間。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/farming-10x10.jpg
 tags:
@@ -17,31 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive sets of three pieces; place them to complete rows/columns and score clears. The run ends when no legal placements remain, so the art is in preserving flexibility while constructing multi‑line clears.
+《Farming 10x10》是一款節奏平和的形狀擺放解謎遊戲，棋盤為 10×10 格。
+每回合你會拿到一組三塊方塊，必須逐一放到棋盤上，藉由填滿整行或整列來完成消除並得分。
+當所有方塊都再也找不到合法放置位置時，本局就會結束。因此真正的技巧，在於一邊設計多行消除，
+一邊維持棋盤的「彈性」與可用空間。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Keep the center breathable; tidy edges gradually to avoid single‑cell traps.
-2.  [ZH TRANSLATION NEEDED] Reserve a pocket sized for the most awkward triominoes.
-3.  [ZH TRANSLATION NEEDED] Place the hardest piece first when the board is crowded.
-4.  [ZH TRANSLATION NEEDED] Build two‑line setups so one placement scores double clears.
-5.  [ZH TRANSLATION NEEDED] Avoid creating 1×n “spines” that only fit sticks.
+
+1.  **保持中心通風：** 儘量讓棋盤中央保持開闊，把零碎收尾的工作留給邊緣，
+    避免在中間製造單一格的小坑洞，容易把自己卡死。
+2.  **預留「麻煩塊」口袋：** 某些三格形狀（triomino）特別難擺，不妨在棋盤一角
+    保留一片剛好容納它們的空間，必要時就能「收納」這類難搞方塊。
+3.  **棋盤擁擠時先放最難那塊：** 當空間開始變小，優先考慮最難擺的那一塊，
+    先把它處理掉，再慢慢安置其他相對好用的形狀。
+4.  **設計雙線消除：** 盡量打造「兩行即將完成」的局面，讓一塊方塊能同時完成兩行消除，
+    一口氣拿到雙倍得分。
+5.  **避免長條「脊骨」：** 儘量不要做出只剩 1×n 直線空間、只能塞細長條的「脊骨」結構，
+    會讓很多形狀完全派不上用場。
 
 ### Controls Guide
 
-- Drag pieces to the board; release to place; some modes allow rotate.
-- Undo/Reset if provided.
+- 拖曳方塊到棋盤上，放開滑鼠或手指即可落子；
+- 某些版本可能提供旋轉功能（也有許多版本完全不支援旋轉）；
+- 若畫面提供「復原」或「重置」按鈕，可依需求使用。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep running out of room — solutions?
+- 問：我總是很快就沒地方放方塊，怎麼辦？
   
-[ZH TRANSLATION NEEDED]   A: Maintain a central open area, set aside an awkward‑piece pocket, and prioritize double clear setups.
+  答：試著維持棋盤中央的開放空間，預留一個專門給「難擺形狀」的小口袋，
+  同時優先設計雙行或多行消除的機會，別只顧著單行補洞。
 
-- Q: Rotate is missing?
+- 問：有些模式沒有旋轉功能？
   
-[ZH TRANSLATION NEEDED]   A: Many 10×10 variants do not rotate; compensate with better pocketing.
+  答：很多 10×10 變體預設就不支援旋轉，你只能靠提前規劃與空間口袋來化解尷尬形狀。
 
-- Q: How to chase high scores?
+- 問：要怎麼衝高分？
   
-[ZH TRANSLATION NEEDED]   A: Chain doubles and avoid “rescue” singles that break structure.
-
+  答：關鍵在於穩定製造「雙行消除」或多行連線，並避免為了救急而到處塞單一行，
+  破壞掉原本漂亮的結構。

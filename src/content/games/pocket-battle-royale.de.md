@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: pocket-battle-royale
-title: '[DE] Pocket Battle Royale'
+title: Pocket Battle Royale
 description: >-
-  [DE] A fast-paced, top-down 2D battle royale. Scavenge for weapons and health,
-  stay inside the shrinking safe zone, and be the last one standing to claim
-  victory!
+  Ein schneller Battle Royale aus der Top-Down-Perspektive: Plündere Waffen und
+  Medipacks, bleib in der kleiner werdenden Safezone und sei der letzte
+  Überlebende, um den Sieg zu holen.
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/pocket-battle-royale.png
 tags:
@@ -16,34 +16,54 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
+ das Battle-Royale-Prinzip auf kompakte, actionreiche Runden herunterbricht. Du
+ wirst zusammen mit anderen Spielern in eine labyrinthartige Arena geworfen und
+ musst ums Überleben kämpfen. Sammle Waffen, Munition und Medipacks ein, halte
+ dich von der schrumpfenden Zone fern und eliminiere deine Gegner – am Ende
+ kann nur ein Spieler übrig bleiben.
 
+### Strategien & Spieltipps
 
-### Detailed Game Introduction
+1.  **Schnell looten:** Deine erste Priorität ist eine Waffe. Durchsuche Gebäude
+    und offene Bereiche sofort nach Guns, Munition und Heilung – unbewaffnet
+    bist du leichte Beute.
+2.  **Umgebung im Blick behalten:** Die Top-Down-Sicht erlaubt Angriffe aus
+    allen Richtungen. Bleib in Bewegung, nutze Ecken und Wände als Deckung und
+    vermeide es, lange im freien Feld zu stehen.
+3.  **Safezone beachten:** Beobachte, wo sich die Safezone befindet und wohin
+    sie als Nächstes schrumpft. Ein Timer zeigt an, wann der Kreis sich schließt
+    – außerhalb verlierst du kontinuierlich Lebenspunkte.
+4.  **Kämpfe gezielt wählen:** Du musst nicht jeden Gegner sofort angreifen.
+    Oft ist es klüger, andere Spieler gegeneinander kämpfen zu lassen, während
+    du lootest oder eine bessere Position für das Endgame suchst.
 
-Pocket Battle Royale is a fast-paced, top-down 2D shooter that distills the excitement of the battle royale genre into quick, action-packed rounds. You are dropped into a maze-like arena with other players and must fight to be the last one standing. Scavenge for weapons, ammo, and health packs while staying ahead of the ever-shrinking safe zone that forces players closer together. It’s a pure test of survival, reflexes, and strategy.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+*   **Bewegung:** Mit **WASD** bewegst du deinen Charakter nach oben, links,
+    unten und rechts.
+*   **Zielen:** Dein Charakter zielt automatisch in Richtung des
+    **Mauszeigers**.
+*   **Schießen:** Mit der **linken Maustaste** feuerst du deine Waffe ab.
 
-1.  **[DE]** **Loot Quickly:** Your first priority when the game starts is to find a weapon. Run through the buildings and open areas to find guns, ammo, and health kits. You are defenseless without a weapon.
-2.  **[DE]** **Stay Aware of Your Surroundings:** The top-down perspective allows you to see enemies coming from all directions. Keep moving and use corners and obstacles as cover. Don't stand out in the open for too long.
-3.  **[DE]** **Watch the Safe Zone:** Always be aware of where the safe zone is and where it will shrink next. A timer will indicate when the zone will start closing in. Getting caught outside the zone will drain your health rapidly.
-4.  **[DE]** **Pick Your Fights:** You don't have to engage every enemy you see. Sometimes it's smarter to let other players fight each other while you loot and get into a better position for the final showdown.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+*   **F: Was ist der schrumpfende Kreis auf der Karte?**
+    **A:** Das ist die Safezone. Du musst dich innerhalb dieses Bereiches
+    aufhalten. Außerhalb nimmt deine Gesundheit rapide ab.
 
-*   **[DE]** **Movement:** Use the **WASD keys** to move your character up, left, down, and right.
-*   **[DE]** **Aim:** Your character will automatically aim in the direction of your **mouse cursor**.
-*   **[DE]** **Shoot:** Click the **left mouse button** to fire your weapon.
+    - **F: Wie bekomme ich bessere Waffen und mehr Heilung?**
+    **A:** Sämtliche Items liegen auf der Map verteilt. Durchsuche Gebäude und
+    offene Flächen nach Waffen, Munition und Medipacks.
 
-### Frequently Asked Questions (FAQ)
+*   **F: Was ist das Ziel des Spiels?**
 
-*   **[DE]** **Q: What is the shrinking circle on the map?**
-    *   **[DE]** **A:** That is the safe zone. You must stay inside this circle. If you are outside of it, you will continuously take damage until you get back inside.
+    - **A:** To be the last player alive. Eliminate all other opponents to win the match.
 
-*   **[DE]** **Q: How do I get better weapons or more health?**
-    *   **[DE]** **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
+- **Q: What is the objective of the game?**
 
-*   **[DE]** **Q: What is the objective of the game?**
-    *   **[DE]** **A:** To be the last player alive. Eliminate all other opponents to win the match.
-
+    - **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
+    **A:** Überlebe als Letzter. Nur wer alle anderen Spieler eliminiert oder
+    sie den Gefahren der Zone überlässt, gewinnt die Runde.

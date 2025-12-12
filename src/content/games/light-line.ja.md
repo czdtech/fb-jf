@@ -1,69 +1,39 @@
 ---
+title: "Light Line"
+description: "Light Lineは光るパス描画パズラーです。交差なしでノードを接続し、エネルギーを管理し、エレガントなルートで解決します。"
+iframeSrc: "https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/"
+thumbnail: "/new-images/light-line.png"
+urlstr: "light-line"
+score: "4.2/5  (2077 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: light-line
-title: '[JA TRANSLATION NEEDED] Light Line'
-description: >-
-  [JA TRANSLATION NEEDED] Light Line is a luminous path‑drawing puzzler —
-  connect nodes without crossings, manage energy, and solve with elegant routes.
-iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
-thumbnail: /new-images/light-line.png
-tags:
-  - puzzle
-  - thinky
-score: 4.2/5  (2077 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Light Lineは、制約に従いながら輝くノードを接続する重ならないパスを描くタスクです：最大ターン数、限られたライン長、必須の通過点、またはゲートを切り替えるスイッチ。後のパズルは、ライン間でエネルギー共有を持つレイヤー化されたボードを追加します。
 
-[JA TRANSLATION NEEDED] Light Line tasks you with drawing non‑overlapping paths that connect glowing nodes while obeying constraints: maximum turns, limited line length, mandatory pass‑throughs, or switches that toggle gates. Later puzzles add layered boards with energy sharing between lines.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  ボトルネックから始める：最初に狭い廊下を埋めます。それらはユニークなルートを強制します。
+2.  次数ロジック：出口がほとんどないノードを優先します。分岐を減らすためにそれらを解決します。
+3.  ターン経済：長い直線を使用し、それを必要とするコーナーのためにターンを保存します。
+4.  ゲートタイミング：ライン到着前にゲートが開くようにスイッチルートを計画します。
+5.  早期にバックトラック：交差が避けられなくなったらすぐに元に戻します。
 
-[JA TRANSLATION NEEDED] 1.  Start with bottlenecks: Fill narrow corridors first; they force unique routes.
-[JA TRANSLATION NEEDED] 2.  Degree logic: Prioritize nodes with few exits; resolve them to reduce branching.
-[JA TRANSLATION NEEDED] 3.  Turn economy: Use long straight runs and save turns for corners that require them.
-[JA TRANSLATION NEEDED] 4.  Gate timing: Plan switch routes so gates open before line arrival.
-[JA TRANSLATION NEEDED] 5.  Backtrack early: Undo as soon as crossings become inevitable.
+### 操作ガイド
 
-### Controls Guide
+- ドラッグしてラインを描画/消去します。スイッチをタップします。密集したボードでズーム/パンします。
 
-- Drag to draw/erase lines; tap switches; zoom/pan on dense boards.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: ラインが常に衝突します。どうやって避けますか？**  
+  A: 最初に廊下を敷き、残りのラインをそれらの周りにルート化します。スペースをトラップするスパイラルを避けます。
 
-- Q: Lines always collide — how to avoid?
-  
-[JA TRANSLATION NEEDED]   A: Lay corridors first and route remaining lines around them; avoid spirals that trap space.
+- **Q: 対角移動は許可されていますか？**  
+  A: 通常グリッド直交です。レベルルールを確認してください。
 
-- Q: Are diagonal moves allowed?
-  
-[JA TRANSLATION NEEDED]   A: Usually grid‑orthogonal; check the level rules.
-
-- Q: Is there a hint system?
-  
-
-
-
-
-
-- Q: Lines always collide — how to avoid?
-### よくある質問（FAQ）
-- Drag to draw/erase lines; tap switches; zoom/pan on dense boards.
-### コントロールガイド
-- Backtrack early: Undo as soon as crossings become inevitable.
-[JA TRANSLATION NEEDED]   A: Many versions provide step or full‑path hints.
-
-
-
-
-
-
-A: Many versions provide step or full‑path hints.
-- Q: Is there a hint system?
-A: Usually grid‑orthogonal; check the level rules.
-- Q: Are diagonal moves allowed?
-
-
-A: Many versions provide step or full‑path hints.
+- **Q: ヒントシステムはありますか？**  
+  A: 多くのバージョンは、ステップまたはフルパスヒントを提供します。

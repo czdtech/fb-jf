@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tumble-towers
-title: '[KO] Tumble Towers'
+title: "Tumble Towers 텀블 타워즈"
 description: >-
-  [KO] Tumble Towers is a physics stack‑and‑drop — balance blocks, control
-  overhangs, and build stable towers that survive gravity checks.
+  낙하하는 블록을 쌓아 안정적인 탑을 만드는 물리 퍼즐 게임입니다. 무게 중심과 돌출 부분을
+  신중하게 조절해, 중력 체크 후에도 무너지지 않는 튼튼한 타워를 완성해 보세요.
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/tumble-towers.png
 tags:
@@ -16,31 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tumble Towers는 한 조각씩 떨어지는 블록을 쌓아 올려, 중력 검사를 통과하는 견고한 탑을 만드는
+스택형 물리 퍼즐 게임입니다. 각 블록을 어디에 놓느냐에 따라 전체 타워의 무게 중심이 바뀌고,
+조금만 중심이 어긋나도 흔들림이 커져 연속 붕괴로 이어질 수 있습니다.
 
-### Detailed Game Introduction
+좋은 플레이는 넓은 바닥과 균형 잡힌 중간층, 그리고 잘 정리된 상층부를 만들어, 마지막 중력 체크가
+들어왔을 때 탑이 버틸 수 있도록 설계하는 데 있습니다.
 
-Tumble Towers is a stacker where each drop changes center of mass. Good play distributes weight, limits overhangs, and anticipates sway so the tower survives post‑drop jiggles.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **높이보다 넓은 기반이 우선**: 게임 초반에는 가능한 한 폭이 넓고 평평한 기초층을 만드세요.
+    높이를 서두르다 보면 작은 기울기에도 전체가 무너져 내려, 오히려 기록이 낮아집니다.
+2.  **이음새(경계선) 어긋나게 쌓기**: 벽돌 쌓기처럼, 바로 아래 블록의 경계선 위에 또 경계선이
+    오지 않도록 한 칸씩 어긋나게 놓으면 훨씬 튼튼해집니다. 세로로 경계선이 이어지는 기둥은
+    붕괴의 시작점이 되기 쉽습니다.
+3.  **카운터 웨이트 활용하기**: 한쪽으로 너무 많이 돌출된 부분이 생겼다면, 반대편에 작은 블록을
+    올려 무게를 보정해 주세요. 완벽하게 맞추지는 못해도 기울기를 완화하는 데 큰 도움이 됩니다.
+4.  **드롭 사이에 흔들림 가라앉히기**: 블록을 연달아 빠르게 떨어뜨리면 타워가 계속 흔들리는
+    상태에서 다음 블록이 내려와 상황이 더 나빠집니다. 한 번 떨어뜨린 뒤에는 잠시 기다려, 흔들림이
+    줄어든 뒤에 다음 조각을 내려 보내세요.
+5.  **꼭대기는 작은 블록으로 미세 조정**: 상층부는 조금만 무게 중심이 어긋나도 크게 흔들리므로,
+    작은 블록으로 중심을 맞추거나, 과하게 튀어나온 부분을 잘라 내는 느낌으로 정리해 주면 좋습니다.
 
-1.  **[KO]** Wide bases beat height rushes.
-2.  **[KO]** Stagger seams; avoid vertical seam lines.
-3.  **[KO]** Counter‑weights: Place small blocks opposite overhangs.
-4.  **[KO]** Pause between drops; let sway settle.
-5.  **[KO]** Trim tops with small pieces for fine leveling.
+### 조작 방법 안내
 
-### Controls Guide
+- **조준 및 드롭**: 마우스나 손가락으로 떨어질 위치를 조준한 뒤, 탭/클릭해 블록을 떨어뜨립니다.
+- **회전(지원되는 경우)**: 일부 버전에서는 회전 버튼을 눌러 블록 방향을 바꾼 뒤 떨어뜨릴 수
+  있습니다.
+- **재시작**: 탑이 크게 무너져 복구가 어렵다면, UI의 재시작 버튼으로 스테이지를 다시 시작할 수
+  있습니다.
 
-- Aim and drop; rotate if allowed; restart via UI.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 탑이 계속 흔들리다가 무너집니다.**  
+  **A:** 블록을 너무 빠르게 연속해서 떨어뜨리거나, 경계선이 일직선으로 쌓인 경우일 수 있습니다.
+  드롭 사이에 잠시 기다려 흔들림을 가라앉히고, 블록들의 경계선을 서로 어긋나게 쌓아 보세요.
 
-- Q: Tower keeps swaying apart.
-
-A: You’re dropping too fast or stacking seam‑on‑seam; stagger and pause.
-
-- Q: Can I salvage a lean?
-
-A: Counter‑weight on the high side and shorten overhangs.
-
+- **Q: 이미 기울어진 탑을 되살릴 수 있나요?**  
+  **A:** 완벽하게 되돌리기는 어렵지만, 높은 쪽 반대편에 무게를 얹어 중심을 조금 옮기고, 밖으로
+  과하게 튀어나온 부분을 줄이는 식으로 어느 정도 안정화할 수 있습니다.

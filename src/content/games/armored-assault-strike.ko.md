@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: armored-assault-strike
-title: '[KO] Armored Assault Strike'
+title: 'Armored Assault Strike 아머드 어설트 스트라이크'
 description: >-
-  [KO] Armored Assault Strike is a top‑down vehicle shooter — maneuver armor,
-  manage cooldowns, and crush hostiles.
+  상단 시점에서 장갑 차량을 조종하며 적을 섬멸하는 슈팅 게임입니다. 지형을
+  활용해 포화를 피하고, 스킬 쿨타임을 관리하며 적의 물량을 버텨 보세요.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/armored-assault-strike.png
 tags:
@@ -14,28 +14,47 @@ score: 4.0/5  (1930 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Armored Assault Strike는 상단 시점(탑다운)에서 장갑 차량을 조종하며 몰려오는
+적을 상대하는 아케이드 슈팅 게임입니다. 단순히 적을 향해 돌진하기보다는,
+지형과 장애물을 이용해 포탄을 피하고, 적을 빙글 돌며 공격 각도를 잡는
+포지셔닝이 중요한 게임입니다. 차량에 탑재된 스킬과 무기 쿨타임을 관리하며,
+한 번에 많은 적을 처치할 수 있는 타이밍을 잡는 것이 핵심입니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **정면 대치보다 카이팅:** 강한 적이나 다수의 적을 상대할 때는 원을
+    그리며 도는 식으로 거리를 유지해, 적의 공격 범위 밖에서 조금씩 체력을
+    깎아 나가세요.
+2.  **버스트 후 쿨타임 관리:** 주무기와 스킬을 한꺼번에 쏟아붓고, 재장전·쿨타임
+    동안에는 과감히 후퇴해 피해를 최소화하는 식으로 리듬을 만들면 좋습니다.
+3.  **우선 순위 목표 지정:** 로켓이나 광역 공격을 사용하는 적, 체력이 높은
+    엘리트 유닛부터 우선적으로 제거해야 합니다. 그렇지 않으면 잡몹 정리 중에
+    큰 피해를 입기 쉽습니다.
+4.  **보급품 루트 미리 잡기:** 체력 회복이나 탄약, 버프 아이템이 나오는 위치를
+    파악해 두고, 전투 중간에 무리해서 중앙을 가로지르지 않도록 사전에 동선을
+    계획하세요.
+5.  **긴급 회피 스킬 아껴 두기:** 대시나 실드 같은 탈출기 스킬은 가능한 한
+    진짜 위험한 순간까지 아껴 두고, 사방에서 포격이 쏟아질 때 탈출용으로
+    사용하는 것이 좋습니다.
 
-Armored Assault Strike blends arcade shooting with light positioning. Circle tough foes, use terrain for cover, and chain abilities to break waves efficiently without overexposing your hull.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 이동: WASD 또는 방향키로 차량을 이동시킵니다.
+- 조준/사격: 마우스 조준 후 클릭, 또는 화면상의 전용 버튼을 사용합니다.
+- 스킬 사용: 숫자 키/아이콘 클릭 등으로 액티브 스킬을 발동합니다.
 
-1.  **[KO]** Kite elites and break line‑of‑sight when pressured.
-2.  **[KO]** Burst and cool: Fire in bursts to control heat/cooldowns.
-3.  **[KO]** Focus fire on priority targets (rockets/aoe casters).
-4.  **[KO]** Route safe pickups and avoid mid‑fight crossovers.
-5.  **[KO]** Save escapes (dash/shield) for emergencies.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **금방 녹아 버리는데 이유가 뭔가요?**  
+  넓은 곳에서 너무 오래 노출되어 있기 때문일 가능성이 큽니다. 항상 엄폐물
+  근처에서 싸우고, 몰리면 즉시 후퇴해 라인을 다시 정비하는 습관을 들이세요.
 
-- Move with WASD/Arrows; aim/fire per UI; trigger abilities on hotkeys.
+- **탄약이 제한되어 있나요?**  
+  일부 모드에서는 탄약이 제한되어 있으므로, 약한 적에게는 평타만 사용하고
+  강한 적에게만 강력한 스킬을 쓰는 식으로 관리해야 합니다.
 
-### Frequently Asked Questions (FAQ)
-
-- I melt fast—why? Overexposed in the open; use cover and kiting.
-- Ammo limited? Conserve on trash; burst elites.
-- Bosses? Learn patterns and break adds first.
-
+- **보스는 어떻게 공략하나요?**  
+  패턴을 먼저 관찰한 뒤, 소환되는 잡몹을 우선 정리해 전장을 깔끔하게 유지한
+  상태에서 보스의 빈틈에 화력을 집중하는 것이 좋습니다.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: color-burst-3d
-title: '[DE] Color Burst 3D'
+title: "Color Burst 3D"
 description: >-
-  [DE] Master the fast-paced arcade game, Color Burst 3D. This guide provides
-  expert strategies for timing your moves, matching the ball's color to the
-  rotating rings, and surviving to achieve a high score.
+  Meistere das schnelle Arcade-Spiel Color Burst 3D. Diese Anleitung verrät dir
+  Strategien fürs perfekte Timing, das Anpassen an rotierende Ringe und das
+  Überleben für einen neuen Highscore.
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/color-burst-3d.jpeg
 tags:
@@ -16,44 +16,64 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### **Spielübersicht**
 
+*Color Burst 3D* ist ein schnelles, reflexlastiges Arcade-Spiel. Du steuerst
+ einen farbigen Ball, der sich ständig vorwärtsbewegt, und musst ihn durch eine
+Serie rotierender, mehrfarbiger Ringe führen.
 
+Damit du einen Ring sicher passierst, darf der Ball **nur** den Segmentbereich
+berühren, der exakt seiner aktuellen Farbe entspricht. Triffst du ein anderes
+Segment, ist die Runde sofort vorbei.
 
+Mit der Zeit erhöht sich die Geschwindigkeit, die Ringe drehen schneller und
+ die Muster werden komplexer. Häufig ändert sich die Ballfarbe nach jedem Ring,
+ sodass du dich ständig umstellen musst. Ziel ist es, möglichst lange zu
+überleben, viele Ringe zu passieren und deinen Highscore zu knacken.
 
-### **Game Introduction**
+### **Strategie & Tipps**
 
-*Color Burst 3D* is a fast-paced and addictive arcade game that tests your reflexes and timing. The objective is to **guide a continuously advancing colored ball through a series of rotating, multi-colored rings.**
+1.  Timing vor Position: Das Spiel ist stärker zeit- als positionsbasiert.
+    Beobachte die Drehgeschwindigkeit des Rings und plane deinen Durchflug so,
+    dass dein Ball genau dann ankommt, wenn das passende Farbfeld dort ist.
+2.  Kleine Korrekturen: Die horizontale Steuerung ist sehr sensibel. Vermeide
+    große Ausschläge – kurze, kontrollierte Bewegungen links/rechts reichen
+    meist aus.
+3.  Rotation vorausahnen: Schau auf Drehrichtung und Tempo des Rings. Ziele
+    nicht auf die aktuelle Position der Farbe, sondern auf den Punkt, an dem
+    sie sein wird, wenn dein Ball den Ring erreicht.
+4.  In der Mitte sammeln: Zwischen den Ringen ist es oft sinnvoll, den Ball
+    wieder in die Bildschirmmitte zurückzuführen, damit du für den nächsten
+    Ring maximalen Bewegungsspielraum hast.
+5.  Sofort auf Farbwechsel reagieren: Nach jedem Ring kann sich die Ballfarbe
+    ändern. Gewöhne dir an, sofort nach dem Durchflug bewusst umzuschalten und
+    nach dem neuen Zielsegment Ausschau zu halten.
+6.  Auf die Lücke fokussieren: Konzentriere dich auf das eine Segment, das du
+    treffen willst, statt den ganzen Ring im Blick zu behalten. So lenkst du
+    deinen Fokus auf das Wesentliche.
 
-To successfully pass through each ring, the player must maneuver the ball so that it **collides only with the segment of the ring that matches the ball's current color**. Hitting any other color will result in an instant game over.
+### **Steuerung**
 
-As the game progresses, the speed increases, the rings rotate faster, and the patterns become more complex. The ball will often change color after passing through a ring, forcing the player to constantly adapt. The goal is to survive for as long as possible and pass through as many rings as you can to achieve the highest score.
+Die Steuerung ist auf Ein-Finger-Bedienung ausgelegt.
 
-### **Gameplay Strategy & Tips**
+*   Ball bewegen: Lege den Finger auf den Slider bzw. Steuerbereich am unteren
+    Bildschirmrand und ziehe nach links oder rechts, um die horizontale
+    Position des Balls anzupassen.
 
-1.  **[DE]** **Timing is Everything**: This is a game of rhythm and timing, not just positioning. You need to anticipate the ring's rotation and time your ball's entry to perfectly align with the correct color segment.
-2.  **[DE]** **Small, Precise Movements**: The ball's movement is very sensitive. Avoid making large, sweeping gestures. Use small, controlled left-and-right adjustments to fine-tune your position.
-3.  **[DE]** **Anticipate the Rotation**: Look at the direction and speed the ring is spinning. Don't aim for where the color is now; aim for where it *will be* when your ball reaches the ring.
-4.  **[DE]** **Stay Centered When Possible**: Between rings, it's often a good strategy to return your ball to the center of the screen. This gives you maximum flexibility to move left or right for the next obstacle.
-5.  **[DE]** **Adapt to Color Changes Instantly**: The moment your ball passes through a ring and changes color, your brain needs to immediately switch its target for the next ring. This is a core part of the challenge.
-6.  **[DE]** **Focus on the Gap**: Sometimes it's easier to focus on the "gap" you're aiming for rather than the entire rotating object. Keep your eyes on the prize—the single colored segment you need to hit.
+### **Häufige Fragen (FAQ)**
 
-### **Controls Guide**
+**1. Was passiert, wenn ich die falsche Farbe berühre?**
+> Die Runde endet sofort. Grundregel: Nur das Segment in Ballfarbe ist
+> "sicher".
 
-As shown in the "How to Play" tutorial, the controls are extremely simple and designed for one-touch gameplay.
+**2. Wechselt der Ball immer die Farbe?**
+> In den meisten Varianten ändert der Ball nach einem Ring oder nach speziellen
+> Farb-Icons seine Farbe. Du musst also permanent aufmerksam bleiben.
 
-*   **[DE]** **Move the Ball**: **Touch and drag** your finger left and right on the slider at the bottom of the screen to control the ball's horizontal position.
+**3. Wie erreiche ich hohe Scores?**
+> Dein Score basiert direkt auf der Anzahl der durchquerten Ringe – je länger
+> du fehlerfrei spielst, desto höher wird er.
 
-### **Frequently Asked questions (FAQ)**
-
-**1. What happens if I hit the wrong color?**
-The game ends immediately, and you will have to restart. The core rule is to only touch the color that matches your ball.
-
-**2. Does the ball always change color?**
-Yes, in most games of this type, the ball will change color after successfully passing through a ring or by hitting a special color-changing icon. You must always be prepared to adapt.
-
-**3. How do I get a high score?**
-Your score is directly tied to the number of rings you successfully pass through. The longer you survive, the higher your score will be.
-
-**4. Is this game endless?**
-Yes, *Color Burst 3D* is designed as an endless arcade-style game. The goal is not to reach an end, but to challenge yourself and others to get the highest score possible.
-
+**4. Hat das Spiel ein Ende?**
+> Nein, *Color Burst 3D* ist als Endlos-Arcade-Spiel angelegt. Es geht darum,
+> immer wieder neue persönliche Bestleistungen aufzustellen.

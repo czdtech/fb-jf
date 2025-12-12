@@ -1,44 +1,45 @@
 ---
 locale: fr
-urlstr: krampus
-title: '[FR] Krampus'
-description: >-
-  [FR] Holiday horror platformer: navigate dark levels, avoid traps and
-  creatures, and find keys/items to escape Krampus’s lair.
-iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
-thumbnail: /new-images/krampus.jpg
-tags:
-  - horror
-  - platformer
-score: 3.9/5  (275 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+urlstr: "krampus"
+title: "Krampus"
+description: "Jeu de plateforme d’horreur de fin d’année : explore des niveaux sombres, évite les pièges et les créatures, et trouve des clés et objets pour t’échapper de l’antre de Krampus."
+iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/krampus1/"
+thumbnail: "/new-images/krampus.jpg"
+tags: ["horror", "platformer"]
+score: "3.9/5  (275 votes)"
+developer: ""
+releaseDate: 2025-08-16
 ---
 
+### Présentation du jeu
 
+Krampus est un jeu de plateforme horrifique saisonnier qui se déroule dans des niveaux à peine éclairés, remplis de pièges environnementaux et de phases de poursuite. Tu dois explorer chaque zone pour trouver des clés, des interrupteurs et des chemins sûrs tout en évitant d’étranges créatures qui rôdent. La visibilité limitée et les indices sonores créent une tension constante et récompensent les déplacements prudents et l’observation attentive.
 
+### Comment jouer
 
+- Avance lentement, observe le rythme des pièges et mémorise les plateformes sûres avant de sauter.
+- Cherche les clés et les interrupteurs qui déverrouillent les grilles ; certains objets offrent une courte fenêtre de sécurité.
+- Si un ennemi te poursuit, utilise la verticalité, les portes et les changements de pièce pour rompre la ligne de vue.
 
-### Overview
-Krampus is a seasonal horror platformer featuring dimly lit stages, environmental traps, and pursuit segments. Explore to find keys, switches, and safe routes while evading eerie creatures. Limited visibility and sound cues create tension, rewarding cautious movement and observation.
+### Commandes
 
-### How to Play
-- Move slowly, scout trap patterns, and memorize safe platforms.
-- Find keys/switches to unlock gates; some items grant brief safety.
-- If chased, use verticality and doors to break line‑of‑sight.
+- Flèches / WASD pour se déplacer et sauter.
+- La touche d’action / d’interaction varie selon le site qui héberge le jeu.
 
-### Controls
-- Arrows/WASD to move/jump; action/interact keys vary by host.
+### Astuces
 
-### Tips
-- Watch for glints or subtle lights that mark items and exits.
-- Wait out patrols rather than forcing risky jumps.
-- Sound cues (growls, steps) telegraph danger—pause and listen.
+- Repère les reflets ou petites sources de lumière qui signalent des objets à récupérer et les sorties.
+- Prends le temps d’observer les patrouilles plutôt que de te lancer dans un saut risqué.
+- Écoute les bruits de pas ou les grognements : ils annoncent souvent un danger tout proche, ce qui te permet de t’arrêter avant un piège.
 
-### FAQ
-- Q: How do I progress when the level looks like a dead end?
-A: Search for levers, hidden passages, or destructible walls.
-- Q: Can I fight the monsters in this game?
-A: Most versions emphasize evasion; use routes and doors to escape.
-- Q: Are there checkpoints in stages?
-A: Many hosts include mid‑level checkpoints; consult the HUD/icons.
+### Foire aux questions (FAQ)
+
+- Q : Comment progresser quand le niveau semble être une impasse ?  
+  R : Cherche des leviers, des passages secrets ou des murs destructibles ; certaines voies sont volontairement peu visibles.
+
+- Q : Puis‑je combattre les monstres dans ce jeu ?  
+  R : La plupart des versions misent surtout sur l’esquive ; utilise les itinéraires alternatifs et les portes pour leur échapper plutôt que de les affronter.
+
+- Q : Y a‑t‑il des points de contrôle dans les niveaux ?  
+  R : Beaucoup de versions ajoutent des checkpoints en milieu de niveau ; regarde les icônes ou l’interface pour savoir quand ta progression est sauvegardée.
 

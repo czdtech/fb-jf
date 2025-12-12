@@ -1,11 +1,12 @@
 ---
 locale: fr
 urlstr: snake
-title: '[FR] Snake'
+title: 'Snake'
 description: >-
-  [FR] Play the timeless classic, Snake. Control a continuously moving line,
-  consume food to grow longer, and avoid colliding with walls or your own tail.
-  Test your reflexes and planning in this simple yet challenging arcade game.
+  Redécouvre le classique intemporel Snake : contrôle une ligne en mouvement
+  continu, mange des bonus pour l’allonger et évite les murs comme ta propre
+  queue. Mets à l’épreuve réflexes et planification dans ce jeu d’arcade
+  simple mais redoutable.
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/snake.jpg
 tags:
@@ -17,33 +18,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-### Game Introduction
+Snake est un jeu d’arcade classique où tu contrôles une ligne qui s’allonge
+progressivement. Le but est de manger les bonus qui apparaissent à l’écran :
+chaque item avalé allonge ton serpent. Le défi consiste à éviter les murs
+et ton propre corps qui devient de plus en plus encombrant.
 
-Snake is a classic arcade game where the player controls a single line that grows in length. The objective is to eat food items that appear on the screen, making the snake longer with each item consumed. It's a game of skill and foresight, as the primary challenge is to avoid colliding with the outer walls or the snake's own ever-growing body.
+### Guide de jeu
 
-### Gameplay Guide
+Le principe est simple : guide le serpent vers la nourriture. À mesure que
+tu manges, tu deviens plus long, et souvent plus rapide, ce qui augmente la
+ difficulté de navigation. La partie se termine dès que tu heurtes un
+obstacle. Ton objectif est de faire le meilleur score possible avant la
+collision fatale.
 
-The core mechanic is simple: guide the snake to eat the food. As the snake eats, it gets longer, and often, its speed increases, making navigation progressively harder. The game ends when the snake hits an obstacle. Your goal is to achieve the highest score possible by eating as much food as you can before a collision occurs.
+### Commandes
 
-### Controls Guide
+Les commandes sont généralement très simples :  
+- **Flèches directionnelles :** Haut, Bas, Gauche, Droite pour orienter le
+  serpent.  
+- **Touches WASD :** la plupart des versions acceptent aussi `W`, `A`, `S`,
+  `D` pour les mêmes actions.  
+- **Pause :** la barre d’espace permet souvent de mettre le jeu en pause et
+  de le reprendre.
 
-The controls are typically straightforward:
-- **Arrow Keys:** Use the Up, Down,Left, and Right arrow keys to direct the snake.
-- **WASD Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
-- **Pause:** The `Spacebar` can often be used to pause and resume the game.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Quel est l’objectif principal de Snake ?**  
+Obtenir le meilleur score possible en mangeant des bonus et en faisant
+grandir ton serpent sans t’écraser.
 
-**What is the main objective of Snake?**
+**Quelle stratégie adopter pour un gros score ?**  
+Une approche fréquente consiste à longer régulièrement les bords de
+l’écran pour garder une trajectoire prévisible, ou à utiliser un motif en
+zigzag serré pour garder le corps compact et contrôlable. Essaie toujours
+de prévoir tes déplacements à l’avance.
 
-The goal is to get the highest score by eating food and growing your snake as long as possible without crashing.
-
-**What's a good strategy for a high score?**
-
-A common strategy is to keep the snake moving along the edges of the screen, creating a predictable path. Another is to use a tight zig-zag pattern to keep the snake's body compact and manageable. Always try to plan your moves ahead of time.
-
-**Where did the Snake game come from?**
-
-The concept originated with the 1976 arcade game "Blockade," but it became immensely popular after being included on Nokia mobile phones in 1998.
-
+**D’où vient Snake ?**  
+Le concept vient du jeu d’arcade « Blockade » de 1976, mais il a explosé en
+popularité lorsqu’il a été intégré aux téléphones Nokia à partir de 1998.

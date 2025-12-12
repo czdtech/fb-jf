@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: golf-orbit
-title: '[FR] Golf Orbit'
-description: >-
-  [FR] Golf Orbit is a one‑tap launch‑and‑land golf — set launch angle, manage
-  spin, and ride planetary gravity for long, strategic flights.
+title: "Golf Orbit"
+description: "Golf Orbit transforme le golf en puzzle de vol physique : règle ton angle de lancement, gère l’effet et profite de la gravité des planètes pour des trajectoires longues et stratégiques."
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/golf-orbit.png
 tags:
@@ -16,35 +14,34 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Golf Orbit fait du golf un puzzle de trajectoires. Tu choisis un angle et une puissance de tir, puis tu regardes ta balle tracer une arc à travers différents terrains et corps célestes. L’effet (spin), les rebonds, le vent et parfois des puits de gravité ajoutent de la profondeur : les meilleurs coups exploitent les pentes, frôlent les obstacles et enchaînent les rebonds pour atteindre des cibles cachées.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle and power, then watch your ball arc across varied terrain and planetary bodies. Spin and bounce behavior, wind, and occasional gravity wells add depth: the best shots ride slopes, skim obstacles, and chain bounces to reach hidden targets.
+1.  Discipline sur l’angle : des tirs bas (angle faible) maximisent le roulement au sol ; des arcs plus hauts permettent de passer au‑dessus des dangers mais perdent de la distance à l’atterrissage.
+2.  Gestion du spin : applique du backspin pour faire coller la balle sur de petites îles, ou du topspin pour la laisser rouler sur les pentes descendantes et gagner des mètres.
+3.  Gravité et vent : vise légèrement face au vent pour compenser la dérive ; si des puits de gravité sont présents, utilise‑les comme slingshots pour te propulser plus loin.
+4.  Lecture du terrain : planifie surtout le premier rebond, pas seulement le point de chute. Les pentes redirigent fortement le momentum.
+5.  Routage par rapport au par : choisis d’abord des lignes en deux coups sûrs plutôt que des one‑shot ultra risqués, jusqu’à être régulier.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Angle discipline: Shallow launches maximize roll; higher arcs clear hazards but lose rollout.
-2.  **[FR]** Spin control: Apply backspin to stick on small islands; topspin to ride downhill slopes for extra distance.
-3.  **[FR]** Gravity/wind: Aim slightly upwind; use gravity wells to slingshot if present.
-4.  **[FR]** Terrain reads: Plan for first bounce, not just landing; slopes redirect momentum.
-5.  **[FR]** Par routing: Take safe two‑shot lines rather than risky one‑shot clears until consistent.
+- Tape une première fois pour lancer la barre de puissance, puis tape à nouveau pour régler puissance et angle.  
+- Applique éventuellement du spin par swipe si la version le permet.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Tap to start the power bar; tap again to set power/angle; apply spin via swipe (if supported).
+- Q : Ma balle dépasse toujours le green, que faire ?
+  
+  R : Réduis l’angle et la puissance, et ajoute du backspin pour stopper la balle sur les petites zones.
 
-### Frequently Asked Questions (FAQ)
+- Q : Quel angle polyvalent utiliser ?
+  
+  R : Sur les trous ouverts, un angle moyen‑bas autour de 25–35° avec un peu de topspin donne souvent de bons résultats.
 
-- Q: My ball always overshoots — how to fix?
-
-A: Lower the launch angle and reduce power; use backspin to stop on small greens.
-
-- Q: What’s the best all‑around angle?
-
-A: Medium‑low angles (25–35°) with topspin for roll are consistent on open holes.
-
-- Q: Do gravity wells actually help?
-
-A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
+- Q : Les puits de gravité sont‑ils vraiment utiles ?
+  
+  R : Oui, si tu y entres sur une trajectoire tangente, tu peux en ressortir avec un gros gain de vitesse. Il faut juste pratiquer le timing.
 

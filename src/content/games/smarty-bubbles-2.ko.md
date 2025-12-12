@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: smarty-bubbles-2
-title: '[KO] Smarty Bubbles 2'
+title: Smarty Bubbles 2 스마티 버블 2
 description: >-
-  [KO] The addictive bubble shooter is back! Aim, shoot, and match colorful
-  bubbles to clear the board. Plan your shots carefully to avoid adding new
-  rows!
+  클래식 버블 슈터가 더욱 많은 스테이지와 깔끔한 그래픽으로 돌아온 후속작입니다. 색색의 버블을 조준해 3개 이상 맞추고, 새 줄이 내려오기
+  전에 보드를 정리해 보세요.
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
 thumbnail: /new-images/smarty-bubbles-2.png
 tags:
@@ -18,31 +17,63 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Smarty Bubbles 2*는 인기 버블 슈터 *Smarty Bubbles*의 후속작으로,
+더 세련된 화면과 수백 개의 신규 레벨을 제공합니다. 기본 목표는
+변함없이, 대포에서 발사한 버블로 같은 색 버블 **3개 이상을 연결해
+모두 제거하는 것**입니다.
 
-Smarty Bubbles 2 continues the fun of the classic bubble shooter with a polished look and hundreds of new levels. The objective remains the same: clear the entire board of colorful bubbles by shooting and matching three or more of the same color. This sequel challenges you to think strategically to create massive chain reactions and clear each stage, all while managing your shots to prevent the ceiling from dropping.
+단, 아무 버블도 터뜨리지 못한 "실패 샷"이 일정 횟수를 넘으면
+천장에서 새로운 줄이 내려와 게임이 점점 어려워집니다. 한 발 한 발을
+신중히 쏘는 전략이 필요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Avoid Misses:** Just like the original, the key is to make every shot count. After a certain number of shots that don't pop any bubbles, a new row will be added from the top, making the game harder. An indicator on the side will show you how many misses you have left.
-2.  **[KO]** **Aim for Avalanches:** The most efficient way to win is to pop bubble clusters that are supporting other bubbles. This will cause all the unsupported bubbles to fall, clearing the screen much faster.
-3.  **[KO]** **Use the Walls:** Master bouncing your shots off the side walls. This is an essential skill for reaching difficult spots and setting up clever matches.
-4.  **[KO]** **Plan Ahead:** The game shows you the next bubble in your cannon. Use this information to plan your next move. Sometimes it's best to make a less optimal shot now to set up a perfect shot with the next bubble.
+1. **실패 샷을 최소화하기**  
+   버블을 터뜨리지 못한 샷이 일정 횟수 쌓이면 위에서 새로운 줄이
+   추가됩니다. 화면 옆에 있는 표시를 보며 남은 실패 허용 횟수를
+   관리하고, 가능하면 항상 무언가를 터뜨릴 수 있는 샷을 우선하세요.
 
-### Controls Guide
+2. **지지 버블을 끊어 대량 낙하 노리기**  
+   단순히 눈앞의 작은 그룹을 지우기보다, 아래 버블들을 지탱하는
+   윗부분의 버블을 터뜨리면 아래에 매달려 있던 버블들이 한 번에
+   떨어집니다. 이런 "눈사태"를 만드는 것이 고득점의 핵심입니다.
 
-*   **[KO]** **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-*   **[KO]** **Shoot:** Click the left mouse button to fire the bubble.
+3. **벽 튕기기(뱅크 샷) 연습하기**  
+   측면 벽을 활용해 직선으로는 닿지 않는 자리를 노릴 수 있습니다.
+   뱅크 샷을 익히면 막혀 있던 구역도 공략할 수 있어 퍼즐 풀이가
+   훨씬 쉬워집니다.
 
-### Frequently Asked Questions (FAQ)
+4. **다음 버블까지 고려해 계획 세우기**  
+   발사 대포 옆에는 다음에 나올 버블 색이 표시됩니다. 지금 샷으로
+   완벽한 제거가 어렵다면, 다음 버블이 유리한 위치를 만들기 위한
+   "준비 샷"을 쏘는 것도 좋은 선택입니다.
 
-*   **[KO]** **Q: Why did a new row of bubbles appear?**
-    *   **[KO]** **A:** You made too many shots without popping any bubbles. After a set number of misses, the game adds a new row from the top.
+### 조작 가이드
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
+- **조준**: 마우스를 움직여 대포를 겨냥하면, 궤적 가이드 선이
+  버블이 날아갈 방향을 보여 줍니다.  
+- **발사**: 마우스 왼쪽 버튼을 클릭해 버블을 발사합니다.
 
-*   **[KO]** **Q: How do I get a high score?**
-    *   **[KO]** **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 왜 갑자기 윗줄이 내려왔나요?**  
+  **A:** 일정 횟수 이상 연속으로 버블을 터뜨리지 못했을 때, 게임이
+  난이도를 높이기 위해 새로운 줄을 추가합니다. 실패 샷을 줄이는
+  연습이 필요합니다.
+
+    - **Q: 이 게임의 목표는 무엇인가요?**  
+  **A:** 보드 위의 모든 버블을 제거해 스테이지를 클리어하고,
+  다음 레벨로 진행하는 것입니다.
+
+- **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**  
+
+    - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
+
+- **Q: How do I get a high score?**
+
+    - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
+  **A:** 가능한 한 적은 횟수의 샷으로 많은 버블을 한꺼번에 떨어뜨리는
+  것이 중요합니다. 지지 버블을 끊어 대량 낙하를 만들고, 실패
+  샷을 줄여 보세요.

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: cut-the-rope
-title: '[DE] Cut The Rope'
+title: "Cut The Rope"
 description: >-
-  [DE] Cut The Rope is a physics puzzle: cut ropes, collect stars, and feed Om
-  Nom the candy without losing it.
+  Cut The Rope ist ein Physik-Puzzle: Schneide Seile, sammle Sterne ein und
+  füttere Om Nom mit der Süßigkeit, ohne sie zu verlieren.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/cut-the-rope.jpg
@@ -16,27 +16,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+*Cut The Rope* ist ein physikbasiertes Puzzlespiel, in dem du Seile
+durchtrennst, um eine Süßigkeit zu Om Nom zu befördern, während du bis zu drei
+Sterne pro Level einsammelst. Spätere Stufen führen Mechaniken wie Blasen,
+Luftkissen und Gefahren ein, die Flugbahn und Timing der Süßigkeit stark
+beeinflussen.
 
+### So spielst du
 
-### Overview
-Cut the Rope is a physics‑based puzzle game where you slice ropes to deliver a candy to Om Nom while collecting up to three stars per level. Later stages introduce mechanics like bubbles, air cushions, and hazards that change the candy’s trajectory and timing. 
+- Wische/klicke, um Seile im richtigen Moment und in der richtigen Reihenfolge
+  zu durchtrennen, damit die Süßigkeit zu Om Nom schwingt.
+- Sammle unterwegs Sterne ein und meide Spikes oder andere Fallen.
+- Nutze Umgebungselemente wie Blasen, die die Süßigkeit aufsteigen lassen,
+  oder Luftstöße, mit denen du sie in die gewünschte Richtung lenkst.
 
-### How to Play
-- Swipe/click to cut ropes in the right order so the candy swings toward Om Nom.
-- Collect stars on the way; time cuts to avoid spikes and other traps.
-- Use interactive elements (e.g., bubbles that float the candy, air puffs that steer) when available.
+### Steuerung
 
-### Controls
-- Mouse/touch swipes to cut; buttons for level restart/next; some hosts add hint systems.
+- Maus/Touch: Wische über Seile, um sie zu zerschneiden; Buttons dienen zum
+  Neustart oder zum Wechsel ins nächste Level. Manche Versionen bieten
+  Hinweissysteme.
 
-### Tips and Strategies
-- Visualize the candy’s swing arc before cutting; chain two quick cuts to redirect motion.
-- Pop bubbles near target height so Om Nom can grab the candy.
-- Grab at least two stars first; optimize for three once you understand the timing.
+### Tipps & Strategien
+
+- Stelle dir den Schwingbogen der Süßigkeit vor, bevor du schneidest; zwei
+  schnelle Cuts hintereinander können die Richtung gezielt ändern.
+- Lass Blasen in etwa der Höhe platzen, in der Om Nom die Süßigkeit
+  erreichen kann.
+- Versuche zunächst, einen sicheren Weg mit mindestens zwei Sternen zu finden;
+  optimiere später auf drei Sterne, wenn du das Timing verinnerlicht hast.
 
 ### FAQ
-- Q: Do I need all stars to progress?
-A: You typically need a certain number of stars to unlock new level packs, not every single one.   
-- Q: Are there power‑ups?
-A: Some versions include optional helpers/hints; availability varies by host. 
+
+- F: Brauche ich alle Sterne, um weiterzukommen?
+  
+  A: Meist genügt eine bestimmte Gesamtzahl an Sternen, um neue Levelpacks
+  freizuschalten – du musst nicht jedes Level perfekt lösen.
+
+- F: Gibt es Power-ups?
+  
+  A: Einige Versionen bieten optionale Hilfen oder Hinweise; die Verfügbarkeit
+  hängt vom jeweiligen Host ab.

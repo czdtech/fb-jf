@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: football-penalty
-title: '[FR] Football Penalty'
-description: >-
-  [FR] Football Penalty captures shootouts — place shots, vary height and
-  corners, and outguess the keeper under pressure.
+title: "Football Penalty"
+description: "Football Penalty recrée l’intensité des séances de tirs au but : choisis la trajectoire, la hauteur et la puissance, et déjoue le gardien sous pression."
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/football-penalty.png
 tags:
@@ -15,35 +13,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Football Penalty se concentre sur l’exercice le plus stressant du football : le penalty. En tant que tireur, tu dois choisir la zone, la hauteur et la puissance de ta frappe tout en masquant ton intention. En mode gardien (selon les modes), tu lis la course du tireur et plonges au bon endroit. Les frappes en lucarne, les tirs ras du sol et une bonne dose de bluff te permettent de battre une IA moyenne.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Football Penalty focuses on spot‑kicks. As the taker, you must select placement, height, and power while disguising intent. As the keeper (in some modes), you read the run‑up and dive accordingly. Clean corners, low drives, and late disguise beat average AI.
+1.  Vise les coins : les bas de poteau sont plus difficiles à arrêter ; les lucarnes sont puissantes mais plus risquées (barre ou sortie).
+2.  Soigne le camouflage : varie ton angle de course et déclenche la frappe tard pour ne pas téléphoner ta frappe.
+3.  Dose la puissance : une puissance moyenne‑haute garantit des tirs rapides sans les envoyer dans les nuages.
+4.  En mode gardien : déplace‑toi tard et plonge du côté du pied de frappe ou de l’ouverture du corps.
+5.  Tiens compte du vent (si présent) : compense légèrement ta visée et réduis la hauteur en cas de forte rafale.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Corners: Aim low corners for harder saves; high corners are strong but risk the bar.
-2.  **[FR]** Disguise: Vary run‑up angles and shoot late to avoid telegraphing.
-3.  **[FR]** Power: Medium‑high power keeps shots quick without ballooning.
-4.  **[FR]** Keeper mode: Move late and dive toward foot/open‑body side.
-5.  **[FR]** Mind wind (if modeled): Offset slightly and reduce height.
+- Vise avec la souris ; règle la puissance en maintenant/relâchant ; ajoute éventuellement de l’effet en faisant glisser (si la version le permet).
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Aim with mouse; set power with a press/hold; add swerve by dragging (if supported).
+- Q : Tous mes tirs sont arrêtés, que faire ?
+  
+  R : Change de zone et de hauteur, et décale ton choix final le plus tard possible. Évite les frappes prévisibles plein centre.
 
-### Frequently Asked Questions (FAQ)
+- Q : Quel est le tir « sûr » le plus efficace ?
+  
+  R : Un tir fort et tendu dans le petit filet, ras du sol, est à la fois rapide et difficile à atteindre pour le gardien.
 
-- Q: My shots always get saved — what now?
-
-A: Change level/height and delay the final aim; avoid predictable mid‑goal shots.
-
-- Q: Best safe shot?
-
-A: Firm low corner drives; they’re fast and tough to reach.
-
-- Q: How do I read the AI as keeper?
-
-A: Watch the last two steps of the run‑up; many strikers open their hips toward the shot.
+- Q : Comment mieux lire l’IA en gardien ?
+  
+  R : Observe les deux dernières foulées de la course ; beaucoup de tireurs ouvrent les hanches dans la direction où ils vont frapper.
 

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: armored-assault-strike
-title: '[ZH TRANSLATION NEEDED] Armored Assault Strike'
+title: Armored Assault Strike 装甲突击打击
 description: >-
-  [ZH TRANSLATION NEEDED] Armored Assault Strike is a top‑down vehicle shooter —
-  maneuver armor, manage cooldowns, and crush hostiles.
+  《Armored Assault
+  Strike（装甲突击打击）》是一款俯视角载具射击游戏，你将驾驶装甲单位穿梭战场，利用走位、地形与技能冷却来压制一波又一波敌人。
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/armored-assault-strike.png
 tags:
@@ -15,25 +15,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Armored Assault Strike blends arcade shooting with light positioning. Circle tough foes, use terrain for cover, and chain abilities to break waves efficiently without overexposing your hull.
+*Armored Assault Strike（装甲突击打击）* 将街机式射击与轻量战术站位结合在一起。你操纵一辆装甲载具，在充满敌军的区域中不断前进，通过走位拉扯和技能组合，在不把自己暴露在火力网中的前提下清理一波又一波的敌人。
 
-### Gameplay Strategy & Walkthrough
+相对于纯无脑突进，本作更强调“打了就走”“借地形吃优势”的思路：绕着强力敌人转圈风筝、利用掩体拆火力，以及在关键时刻交出位移或护盾技能，是存活到最后的关键。
 
-1.  风筝精英并在受压时打破视线。
-2.  爆发和冷却：以爆发方式射击以控制热量/冷却时间。
-3.  集中火力攻击优先目标（火箭/AOE施法者）。
-4.  规划安全的拾取路线，避免战斗中的交叉。
-5.  保留逃生技能（冲刺/护盾）以应对紧急情况。
+### 游戏策略与攻略
 
-### 控制指南
+1.  **风筝精英目标：** 面对血厚输出高的精英单位，别硬站着对刚。利用移动速度和转弯，在安全距离外绕圈输出，被压得太狠时及时利用地形转角断视线。
+2.  **“爆发—冷却”节奏：** 很多武器或技能都有热量/冷却机制，连续射击容易过热。尝试以短促的火力爆发打满伤害，然后在冷却窗口用走位规避伤害，而不是一味长按射击。
+3.  **优先集火高威胁敌人：** 先解决会发射火箭、范围攻击或减速控制的单位，再清理小兵。让战场上留的都是“可控威胁”，局面会轻松许多。
+4.  **规划好补给路线：** 地图上的血包、弹药或能量补给点往往有限，提前记好位置，避免在火力最猛烈时还要穿过半张地图去捡补给。
+5.  **保留逃生技能：** 冲刺、短暂护盾、位移翻滚此类技能，尽量留给“如果不用就会暴毙”的瞬间，而不是在局面尚可时随意交掉。
 
-- Move with WASD/Arrows; aim/fire per UI; trigger abilities on hotkeys.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+- 使用 WASD 或方向键进行移动，鼠标或屏幕虚拟按键进行瞄准与射击，技能通常绑定在快捷键或独立按钮上（具体视版本 UI 而定）。
 
-- I melt fast—why? Overexposed in the open; use cover and kiting.
-- Ammo limited? Conserve on trash; burst elites.
-- Bosses? Learn patterns and break adds first.
-
+### 常见问题解答（FAQ）
+*   **问：为什么总觉得自己很脆，一下就被秒？****
+    *   答：** 多半是站位太靠前、暴露在多条火力线下。尝试更多利用掩体、边打边退，而不是一路冲到敌人堆中间。
+*   **问：弹药有限该怎么打？****
+    *   答：** 对杂兵时尽量用基础武器短点射，重火力和技能优先留给精英和 Boss，避免用大招去清一两只小怪。
+*   **问：Boss 战有什么通用思路？****
+    *   答：** 和多数动作游戏类似，Boss 都有相对固定的攻击循环。先观察几轮，记住高伤害技能前的前摇动作，找到安全输出窗口，再稳定地“打一轮躲一轮”，不要贪刀。

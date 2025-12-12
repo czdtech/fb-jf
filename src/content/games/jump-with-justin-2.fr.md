@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: jump-with-justin-2
-title: '[FR] Jump With Justin 2'
-description: >-
-  [FR] Jump With Justin 2 is a bouncy platformer — time jumps, bounce off
-  hazards, and chain springs to the goal.
-iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
+title: "Jump With Justin 2"
+description: "Jump With Justin 2 est un jeu de plateforme axé sur les sauts rebondissants : enchaîne ressorts et rebonds, évite les pièges et garde ton momentum jusqu’à la sortie."
+iframeSrc: "https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/"
 thumbnail: /new-images/jump-with-justin-2.png
 tags:
   - action
@@ -15,29 +13,31 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation détaillée
 
+Jump With Justin 2 est un platformer léger centré sur les sauts à ressort, les plateformes mobiles et le timing des pièges. Planifie tes arcs, enchaîne les rebonds et conserve ta vitesse pour atteindre les sorties avec le moins d’erreurs possible.
 
+### Stratégies de jeu
 
-### Detailed Game Introduction
+1.  **Contrôle des arcs** : engage‑toi dans des trajectoires propres ; souvent, un saut déclenché un peu plus tard te fera passer plus sûrement au‑dessus des dangers.  
+2.  **Momentum** : conserve ta vitesse d’une plateforme à l’autre au lieu de t’arrêter à chaque fois.  
+3.  **Timing des pièges** : observe piques et plateformes mobiles pour repérer les fenêtres sûres.  
+4.  **Salle difficile** : n’hésite pas à recommencer un segment pour mémoriser précisément les fenêtres de saut.  
+5.  **Étoiles facultatives** : récupère les collectibles seulement quand la trajectoire est sûre.
 
-Jump With Justin 2 is a light platformer centered on springy jumps, moving platforms, and trap timing. Plan arcs, chain bounces, and keep momentum to reach exits with minimal mistakes.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- **Déplacement / saut** : flèches ou `WASD` + `Espace` ; boutons tactiles sur mobile.  
+- **Restart** : utilise le redémarrage rapide pour t’entraîner sur une section.
 
-1.  **[FR]** Arc control: Commit to clean arcs; late jumps often clear hazards better.
-2.  **[FR]** Momentum: Preserve speed across platforms instead of stopping each time.
-3.  **[FR]** Trap timing: Watch spikes and moving platforms to find safe beats.
-4.  **[FR]** Drill tough rooms: Restart segments to map exact jump windows.
-5.  **[FR]** Optional stars: Grab collectibles only on safe arcs.
+### FAQ
 
-### Controls Guide
+- **Q : Je me fais toujours empaler sur les piques, pourquoi ?**  
+  R : Tu sautes probablement trop tôt. Décale légèrement ton timing et garde des arcs fluides.  
 
-- Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
-- Restart: Fast restart to practice sequences.
+- **Q : Y a‑t‑il un double saut ?**  
+  R : Certains niveaux incluent des trampolines ou power‑ups qui en donnent l’impression, mais pas de double saut classique partout.  
 
-### Frequently Asked Questions (FAQ)
-
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- 100% collection tips? Clear the route first, then route collectibles.
+- **Q : Des conseils pour le 100 % ?**  
+  R : Apprends d’abord un chemin sûr jusqu’à la sortie, puis refais les niveaux en planifiant des détours pour attraper les étoiles.
 

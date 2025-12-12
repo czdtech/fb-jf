@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: tnt-bomb
-title: '[ZH TRANSLATION NEEDED] TNT Bomb'
-description: >-
-  [ZH TRANSLATION NEEDED] A physics-based puzzle of strategic demolition! Place
-  your limited explosives, including dynamite and powerful bombs, to completely
-  destroy the structures on each level.
+title: 《TNT Bomb》爆破工程师
+description: 《TNT Bomb》是一款基于物理的策略拆除游戏。你需要在有限数量的炸药内，精确布置 TNT 与强力炸弹，将关卡中的建筑物彻底夷为平地。
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/tnt-bomb.jpg
@@ -18,30 +15,32 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] TNT Bomb is a strategic, physics-based puzzle game where your objective is demolition. In each level, you are presented with a structure and a limited inventory of explosives. Your task is to carefully place your bombs on the structure in a way that will cause the most damage. By identifying key support points and using the right bomb for the job, you must try to obliterate the entire structure to move on to the next challenge.
+在《TNT Bomb》中，你的核心任务是“拆楼”。每一关都会给出一栋结构各异的建筑，以及数量有限的炸药类型（如普通 TNT、爆破半径更大的炸弹等）。你需要根据结构特征，将炸弹布置在关键位置，通过引爆来破坏支撑点，使整栋建筑在重力作用下自行坍塌，达到关卡要求的破坏率。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Analyze the Structure:** Before placing any bombs, examine the structure's design. Look for weak points, key support beams, and load-bearing blocks at the base.
-2.  [ZH TRANSLATION NEEDED] **Target the Foundation:** The most effective strategy is almost always to destroy the foundation. Placing your most powerful explosives on the lowest support blocks will destabilize the entire structure, causing it to collapse under its own weight.
-3.  [ZH TRANSLATION NEEDED] **Know Your Explosives:** You will have different types of bombs. A standard TNT stick might be good for a single block, while a larger C4 bomb will have a much bigger blast radius. Use the right tool for the right job.
-4.  [ZH TRANSLATION NEEDED] **Chain Reactions:** Think about how the explosion will travel. Placing a bomb that causes one part of the structure to fall onto another can create a chain reaction, leading to more destruction than the bomb could achieve on its own.
+### 游玩策略与拆除指引
 
-### Controls Guide
+1.  **先观察结构：** 下手之前仔细查看建筑的支撑点、承重柱以及连接梁，找出一旦被炸掉就会引发连锁坍塌的薄弱环节。
+2.  **优先摧毁地基：** 多数情况下，炸掉底部关键支撑比只炸中上部更有效，建筑会在自身重量下整体崩塌。
+3.  **熟悉不同炸药威力：** 普通 TNT 适合精确破坏单个方块，而大威力炸弹则适合用来摧毁一片支撑区域，根据半径合理分工。
+4.  **制造连锁反应：** 尝试让一处坍塌砸向另一处结构，通过物体碰撞造成二次甚至三次破坏，往往比单点爆破更高效。
 
-*   **Select Bomb:** Click on the type of explosive you want to use from your inventory.
-*   **Place Bomb:** Click on a block within the structure to place the selected bomb.
-*   **Detonate:** Once you have placed all your available bombs, click the "Boom" or "Detonate" button to watch the fireworks.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **选择炸药：** 在界面中点击选择当前要布置的炸药类型；
+*   **放置炸药：** 点击建筑中的方块或支柱，将炸药安置其上；
+*   **引爆：** 所有炸药布置完成后，点击“Boom/Detonate”按钮触发爆炸，观察建筑倒塌效果。
 
-*   **Q: What is the goal of each level?**
-     *   **A:** The goal is to cause enough destruction to meet the level's requirement, which is usually to destroy a certain percentage of the blocks (often 100%).
+### 常见问题解答（FAQ）
+*   **问：总是刚好差一点达不到破坏要求怎么办？****
+    *   答：** 说明炸药布置还不够精确，可以尝试将主炸弹更靠近核心支撑，并利用连锁坍塌来放大爆炸效果，而不是平均分散威力。
 
-*   **Q: Why didn't the building fall down?**
-     *   **A:** You likely placed your bombs in an ineffective location. Try placing them lower down on the main support blocks instead of on the outer walls or at the top.
 
-*   **Q: Can I place more than one bomb?**
-     *   **A:** Yes, you must place all the bombs provided in your inventory for that level before you can detonate them.
+- **A:** Yes, you must place all the bombs provided in your inventory for that level before you can detonate them.
 
+    - **Q: Can I place more than one bomb?**
+
+- **A:** You likely placed your bombs in an ineffective location. Try placing them lower down on the main support blocks instead of on the outer walls or at the top.
+
+    - **Q: Why didn't the building fall down?**

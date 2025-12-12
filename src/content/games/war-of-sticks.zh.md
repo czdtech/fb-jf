@@ -1,13 +1,10 @@
 ---
 locale: zh
 urlstr: war-of-sticks
-title: '[ZH TRANSLATION NEEDED] War of Sticks'
+title: 'War of Sticks：火柴人帝国战争'
 description: >-
-  [ZH TRANSLATION NEEDED] Command your stickman army in War of Sticks, a
-  strategic battle game! Mine for resources, train diverse units like shielders,
-  archers, and barbarians, and deploy them to conquer the Red Empire. Build
-  defenses, plan your attacks, and lead your forces to victory in this engaging
-  RTS.
+  在《War of Sticks》中指挥你的火柴人军团，对抗残暴的红色帝国！派工人采金、
+  训练持盾兵、弓箭手、野蛮人与法师，建造防御塔并精心布阵，用智慧与兵力夺回失落的王国。
 iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
 thumbnail: /new-images/war-of-sticks.jpg
 tags:
@@ -18,35 +15,52 @@ score: 4.4/5  (816 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] War of Sticks is a real-time strategy game where you lead a stickman army to liberate your kingdom from the oppressive "Red Empire." Developed by Shoom Games, this title combines resource management, unit training, and tactical combat. Your objective is to build a powerful force, manage your economy, and strategically defeat enemy armies to reclaim your land.
+《War of Sticks》是一款即时战略类火柴人战争游戏，你将率领自己的王国军队，
+从残酷的“红色帝国”统治下夺回自由。游戏由 Shoom Games 开发，融合了资源经营、
+兵种养成和战场战术等多种元素。
 
-### Gameplay Guide
+你需要在前线与后勤之间取得平衡：一方面扩大矿工队伍、稳定金矿产出；
+另一方面持续招募战士、建造防御塔，并在合适的时机发动总攻，
+逐步摧毁敌方据点、解放被占领的领土。
 
-- **Resource Management:** Train miners to gather gold, your primary resource for building units and defenses. You can also convert stone into gold.
-- **Army Building:** Recruit various stickman units, each with unique roles:
-     - **Shielders:** Front-line defenders.
-     - **Archers:** Ranged damage dealers.
-     - **Barbarians:** Close-combat attackers.
-     - **Wizards:** Support units with special abilities.
-- **Strategic Combat:** Deploy your units, build defensive towers, and observe enemy positions to plan your attacks. A balanced army composition is key to success.
+### 游玩指南
 
-### Controls Guide
+- **资源管理：**  
+  训练矿工采集金币，这是招募兵种和建造防御设施的核心资源。
+  部分版本中你也可以将石头转换为金币，用于在关键时刻迅速补充经济。
 
-- **Mouse:** Primarily used for all interactions: clicking buttons to train units, selecting units, and directing your army on the battlefield.
+- **组建军队：**  
+  你可以招募多种火柴人单位，每种都有独特职责：
+     - **持盾兵（Shielders）：** 站在最前方吸收伤害，保护后排。
+     - **弓箭手（Archers）：** 远程输出单位，适合在安全距离持续射击。
+     - **野蛮人（Barbarians）：** 近战高伤害战士，适合冲锋和收割残血敌人。
+     - **法师（Wizards）：** 拥有特殊技能的辅助或输出单位，可造成范围伤害或控制战场节奏。
 
-### Frequently Asked Questions (FAQ)
+- **战术与攻防：**  
+  根据敌军构成与地形，调整你的阵容和站位：先用防御塔和持盾兵稳住前线，
+  再让弓箭手与法师在后排持续削弱敌人，最后由野蛮人等高输出单位一举冲垮剩余防线。
+  多观察敌人的进攻波次与布阵，适时增援或后撤，才能在关键关卡中取胜。
 
-[ZH TRANSLATION NEEDED] **What is the main goal of War of Sticks?**
+### 操作指南
 
-[ZH TRANSLATION NEEDED] The main goal is to build your army, manage your resources, and strategically defeat the enemy forces to liberate your kingdom from the Red Empire.
+- **鼠标操作：**  
+  使用鼠标完成全部操作：点击按钮训练单位、选择军队、建造或升级防御塔，
+  并在战场上指定前进与攻击方向。
 
-[ZH TRANSLATION NEEDED] **How do I get more gold?**
+### 常见问题（FAQ）
 
-[ZH TRANSLATION NEEDED] Train more miners to gather gold. You can also convert collected stone into gold to boost your economy.
+**问：游戏的主要目标是什么？**  
+**答：** 核心目标是通过经营资源、训练军队和使用合适战术，
+逐步击败红色帝国的军队与据点，彻底解放你的王国。
 
-[ZH TRANSLATION NEEDED] **What are the best units to use?**
+**问：金币不够用怎么办？**  
+**答：** 尽早训练足够数量的矿工，保证经济持续增长。
+当拥有多余石头时，可以把石头转换为金币来应对短期军费压力，
+但也要注意不要过度透支资源。
 
-[ZH TRANSLATION NEEDED] A diverse army is generally most effective. Shielders provide a strong front line, archers offer ranged support, and barbarians are good for close combat. Wizards can provide valuable crowd control.
-
+**问：哪些兵种最好用？**  
+**答：** 单一兵种很难通关，通常是多兵种搭配效果最佳：
+前排由持盾兵扛伤害，中排野蛮人负责近战输出，后排弓箭手和法师提供远程火力与控制。
+根据关卡敌人的类型灵活调整配比，才能在不同战场上保持优势。

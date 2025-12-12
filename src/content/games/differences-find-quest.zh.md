@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: differences-find-quest
-title: '[ZH TRANSLATION NEEDED] Differences Find Quest'
+title: "Differences Find Quest 每日找不同任务"
 description: >-
-  [ZH TRANSLATION NEEDED] Differences Find Quest is a detailed
-  spot‑the‑difference — scan scenes, mark discrepancies, and use hints wisely.
+  《Differences Find Quest 每日找不同任务》是一款细节丰富的找不同游戏。通过对比两张看
+  似相同的图片，标记所有差异，并合理使用提示完成关卡。
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/differences-find-quest.png
 tags:
@@ -18,31 +18,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Differences Find Quest challenges you to compare two images and spot subtle changes: missing objects, color swaps, flipped patterns, or size variations. Later levels add more differences, trick angles, and gentle time pressure.
+《Differences Find Quest 每日找不同任务》会同时展示两张几乎一模一样的图片，你需要在限定时
+间或步数内找出其中所有细微差异。这些区别可能是少了某个小物件、颜色被替换、图案左右颠倒
+，或是某个元素大小略有不同。随着关卡推进，差异数量会增加，构图也会变得更复杂，有的场景
+还会加入轻微的时间压力。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Grid scan: Divide the image into 4–6 zones and sweep each zone methodically.
-2.  [ZH TRANSLATION NEEDED] Look for edges: Differences cluster at borders, shadows, and repeated textures.
-3.  [ZH TRANSLATION NEEDED] Zoom if possible to check small details.
-4.  [ZH TRANSLATION NEEDED] Save hints for the final 1–2 stubborn differences.
-5.  [ZH TRANSLATION NEEDED] Take short breaks to reset your visual focus.
+
+1.  **划分网格区域逐块排查：** 心里将画面分成 4–6 个区域，按区域从上到下、从左到右系统性
+    搜索，而不是随意乱扫，这样更不容易遗漏。  
+2.  **优先检查边缘与重复纹理：** 很多差异会出现在物体边缘、阴影部分或重复图案中，这些地
+    方更容易被粗看忽略，刻意多停留几秒。  
+3.  **在支持的版本中使用缩放：** 如果可以放大图片，优先检查细小物件、文字或纹理密集区，
+    很多“最后一处不同”往往藏在这些地方。  
+4.  **提示留给最后一两处顽固差异：** 在你已经完成一轮完整扫描、仅剩 1–2 个死活找不到的差
+    异时，再使用提示功能，效率最高。  
+5.  **适当休息缓解视觉疲劳：** 如果盯着同一画面太久，容易产生“视觉麻木”，短暂离开几秒再
+    回来，有时会立刻看到刚才怎么都看不到的问题。  
 
 ### Controls Guide
 
-- Tap differences on either image; wrong taps may cost time.
-- Use hints sparingly; some modes penalize excessive hints.
+- 在任意一张图片上点击你认为有差异的部位；若判断正确，系统会在两侧图片上同时标记。错误
+  点击在某些模式下可能会扣时间或扣分。  
+- 提示按钮可高亮一个差异点或大致区域，建议少量使用。  
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I’m stuck on the last difference — what now?
-  
-[ZH TRANSLATION NEEDED]   A: Step back, re‑scan edges and repeated patterns, then use a hint if available.
+- **Q: 最后一处差异总是找不到，怎么办？**  
+  **A：** 建议暂时离开画面几秒钟，然后重点重新扫描画面边缘、重复纹理和人脸/文字等细节部
+  位。如果多次尝试仍找不到，再考虑使用提示。  
 
-- Q: Do I lose time for mistakes?
-  
-[ZH TRANSLATION NEEDED]   A: Many modes deduct time or score for mis‑clicks; be deliberate.
+- **Q: 误点会有惩罚吗？**  
+  **A：** 许多模式会对错误点击扣除时间或分数，因此不要随意乱点，尽量在有把握时再标记。  
 
-- Q: Any trick for tiny color shifts?
-  
-[ZH TRANSLATION NEEDED]   A: Squint slightly or zoom — it can reveal subtle contrast differences.
-
+- **Q: 对轻微颜色变化有什么小技巧？**  
+  **A：** 可以稍微眯起眼或缩小图片，从整体对比亮度与色块，对比度变化会更明显；若支持放大
+  ，也可放大到局部区域精细查看。  

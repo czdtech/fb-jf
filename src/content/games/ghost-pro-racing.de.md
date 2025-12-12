@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: ghost-pro-racing
-title: '[DE] Ghost Pro Racing'
+title: "Ghost Pro Racing"
 description: >-
-  [DE] Ghost Pro Racing is a time‑trial racer — chase ghost replays, perfect
-  lines, and shave tenths with consistent inputs.
+  Ghost Pro Racing ist ein Time-Trial-Racer: Jage Ghost-Replays, perfektioniere
+  deine Linien und feile mit konstanten Inputs Zehntelsekunden von deinen
+  Rundenzeiten ab.
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
 thumbnail: /new-images/ghost-pro-racing.jpg
 tags:
@@ -15,36 +16,43 @@ score: 3.9/5  (1711 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Ghost Pro Racing setzt auf Hotlap-Konstanz gegen Ghost-Replays. Du lernst
+Bremspunkte, Apex-Geschwindigkeiten und Gasaufnahmen, während dir Ghost-Cars
+schnellere Linien vormachen. Saubere Eingaben und wiederholbare
+Referenzpunkte schlagen wilde Divebombs, wenn es um stabile Bestzeiten geht.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Streckenmarken setzen:** Nutze feste Objekte oder Markierungen am Streckenrand
+   als Referenz für Bremse und Einlenken – verlasse dich nicht ausschließlich
+   auf den Tacho.
+2. **Später Apex:** Lenke einen Tick später ein, um den Kurvenausgang
+   zu begradigen und früher aufs Gas zu kommen.
+3. **Trail Braking:** Leichtes, in die Kurve hineingezogenes Bremsen hält die
+   Vorderräder im Grip; nur mit Gefühl einsetzen.
+4. **Ausgang vor Eingang:** Ein starker Kurvenausgang auf eine lange Gerade ist
+   mehr wert als ein paar km/h extra beim Einlenken.
+5. **Ghost analysieren:** Folge der Linie deines Ghosts und schau, wo du zu
+   früh lupfst oder zu stark einlenkst.
 
-Ghost Pro Racing emphasizes hot‑lap consistency against ghost replays. You’ll learn braking points, apex speeds, and throttle pickups while ghost cars show faster lines. Clean inputs and repeatable references beat risky dive‑bombs for stable PBs.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Lenken: A/D oder Links/Rechts.  
+- Gas/Bremse: W/S oder Hoch/Runter.  
+- Neustart: R.
 
-1.  **[DE]** Landmarks: Pick fixed track markers for braking/turn‑in; avoid relying on speedometer alone.
-2.  **[DE]** Late apex: Turn a beat later to straighten exits and allow earlier throttle.
-3.  **[DE]** Trail braking: Bleed brake into early corner to keep front grip (light pressure).
-4.  **[DE]** Exit priority: A good exit onto long straights dwarfs small entry gains.
-5.  **[DE]** Ghost study: Follow the ghost’s arc; find where you’re lifting or turning too early.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Ich rutsche ständig – was mache ich falsch?**  
+  **A:** Du gehst mit zu viel Speed in den Turn oder lenkst zu stark. Bremse
+  etwas früher und löse das Lenkrad am Kurvenausgang früher.
 
-- Steer: A/D or Left/Right.  Throttle/Brake: W/S or Up/Down.  Restart: R.
+- **F: Kann ich den Ghost schlagen?**  
+  **A:** Ja – arbeite sektorweise. Sobald du irgendwo Zeit gutmachst, reicht es,
+  den Vorsprung mit sicheren Ausgängen zu verwalten.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep sliding — fix?
-
-A: You’re turning too much/too fast. Trail brake lightly and unwind steering sooner on exit.
-
-- Q: Can I beat the ghost?
-
-A: Yes — focus one sector at a time; once you’re ahead, maintain safe exits.
-
-- Q: Best training drill?
-
-A: Ten laps at 90% pace without spins to lock references, then push.
-
+- **F: Was ist ein gutes Training?**  
+  **A:** Fahre zehn Runden mit etwa 90 % Tempo ohne Dreher, um Referenzen zu
+  verinnerlichen – danach kannst du die letzten Prozente attackieren.

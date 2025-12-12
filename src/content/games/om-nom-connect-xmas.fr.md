@@ -1,49 +1,53 @@
 ---
 locale: fr
 urlstr: om-nom-connect-xmas
-title: '[FR] Om Nom Connect Xmas'
+title: Om Nom Connect Xmas
 description: >-
-  [FR] Join Om Nom in a festive puzzle adventure! Om Nom Connect Xmas is a fun
-  tile-matching game where you connect pairs of Christmas-themed treats.
+  Rejoins Om Nom dans une aventure de Noël : Om Nom Connect Xmas est un jeu de
+  connexion de tuiles où tu relies des friandises et décorations de fête par des
+  chemins à deux virages max.
 iframeSrc: >-
-  https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
+  https://omnomconnectxmas.h5games.usercontent.goog/v/5bd57fab-470e-46a3-94c0-621184ffaa8d/
 thumbnail: /new-images/om-nom-connect-xmas.jpg
 tags:
   - puzzle
   - casual
-  - mahjong
-score: 4.6/5  (2765 votes)
+  - thinky
+score: 4.5/5  (2210 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Om Nom Connect Xmas reprend les mécaniques d’Om Nom Connect dans une ambiance de fêtes. Sur le plateau, tu dois connecter des paires de tuiles représentant des bonbons, cadeaux et décorations de Noël. Comme toujours, la ligne reliant deux tuiles ne peut comporter plus de deux virages et ne doit pas traverser d’autres tuiles. Le tout se déroule sous la pression d’un chronomètre festif.
+
+### Stratégies de jeu et progression
+
+1.  **Nettoyer les bords :** attaque d’abord les paires faciles le long des bords et dans les coins pour ouvrir l’intérieur du plateau.  
+2.  **Regrouper par types :** entraîne ton regard à repérer rapidement chaque type de sucrerie ou d’ornement pour accélérer les matches.  
+3.  **Garder un œil sur le temps :** enchaîne les paires évidentes d’abord, puis utilise les indices ou mélanges uniquement quand tu es vraiment bloqué.  
+4.  **Penser en chemins :** visualise le trajet potentiel entre deux tuiles avant de cliquer ; si tu ne peux pas tracer mentalement un chemin simple, cherche une autre paire.
+
+### Commandes
+
+- Clique ou touche une tuile, puis sa jumelle pour tenter une connexion. Si le chemin est valide, les deux disparaissent.
 
 
+- **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
+### Foire aux questions (FAQ)
 
+- **Q : Le jeu est‑il différent de la version classique ?**  
+  **R :** Les règles de connexion sont identiques, mais les visuels, tuiles et parfois certains modes sont thématisés Noël.
 
-### Detailed Game Introduction
+    - **Q : Que faire si aucun coup ne semble possible ?**  
 
-Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecting puzzle game. The board is filled with Christmas-themed tiles featuring Om Nom, his friends, and delicious holiday treats. Your goal is to clear the board by finding and connecting pairs of identical tiles. With cheerful holiday music and cute graphics, it’s a relaxing yet challenging puzzle game perfect for the Christmas season.
+- **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
 
-### Gameplay Strategy & Walkthrough
+    - **Q: Is there a time limit?**
 
-1.  **[FR]** **Find Matching Pairs:** Scan the board for two identical tiles. The tiles must be connectable with a line that has no more than two turns (or corners).
-2.  **[FR]** **Clear the Edges First:** Start by looking for matching tiles on the outer edges of the puzzle, as these are generally the easiest to connect and will open up more possibilities.
-3.  **[FR]** **Think Ahead:** Sometimes you need to clear a specific pair of tiles to unblock a path for another match. Try to look a few moves ahead.
-4.  **[FR]** **Use Power-ups Wisely:** The game offers helpful tools if you get stuck. The magnifying glass will show you a possible match, and the shuffle button will rearrange all the tiles on the board, creating new opportunities.
+- **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
 
-### Controls Guide
-
-*   **[FR]** **Select Tiles:** Use your mouse to click on a tile to select it.
-*   **[FR]** **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[FR]** **Q: What are the rules for connecting tiles?**
-    *   **[FR]** **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.
-
-*   **[FR]** **Q: What should I do if I'm stuck and can't find a match?**
-    *   **[FR]** **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
-
-*   **[FR]** **Q: Is there a time limit?**
-    *   **[FR]** **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
+    - **Q: What should I do if I'm stuck and can't find a match?**
+  **R :** Utilise un mélange pour redistribuer les tuiles ou un indice pour révéler une paire.
 

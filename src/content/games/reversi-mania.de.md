@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: reversi-mania
-title: '[DE] Reversi Mania'
+title: "Reversi Mania"
 description: >-
-  [DE] Reversi Mania brings classic Othello to your browser — outflank discs,
-  seize corners, and win with smart endgame parity.
+  Reversi Mania bringt klassisches Othello in den Browser: Umzingele Steine,
+  sichere dir die Ecken und gewinne mit cleverem Endspiel- und Paritätsspiel.
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
 thumbnail: /new-images/reversi-mania.png
 tags:
@@ -16,30 +16,60 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Reversi Mania ist eine klassische Umsetzung von Reversi, auch bekannt als
+ Othello. Zwei Spieler legen abwechselnd Steine auf ein 8×8-Brett, um
+ gegnerische Steine in geraden Linien (horizontal, vertikal, diagonal)
+ einzuschließen. Alle umschlossenen Steine werden zur eigenen Farbe gedreht.
+ Kann ein Spieler keinen Zug machen, der wenigstens einen Stein dreht, muss er
+ passen. Das Spiel endet, wenn keiner mehr legen kann – meist, wenn das Brett
+ voll ist –, und wer dann mehr Steine besitzt, gewinnt.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Reversi Mania is a faithful, fast‑to‑learn implementation of Reversi (also known as Othello). Players take turns placing discs on an 8×8 board to outflank the opponent’s discs in straight lines (horizontal, vertical, or diagonal). Any outflanked discs flip to your color. If a player has no legal move that flips at least one disc, they must pass; the game ends when neither side can move (usually when the board is full). The side with more discs wins.
+1.  **Ecken sind König:** Steine in den vier Ecken können nicht mehr gedreht
+    werden und sind extrem mächtig. Wer mehr Ecken besitzt, hat oft den
+    Vorteil.
+2.  **X-Felder meiden:** Die Felder diagonal neben den Ecken („X-Squares“) sind
+    am Anfang riskant, weil sie dem Gegner häufig einen einfachen Eckzug
+    ermöglichen.
+3.  **Ränder stabilisieren:** Randsteine sind stark, wenn sie „stabil“ sind
+    (nicht mehr gedreht werden können). Baue sicher von Ecken ausgehend die
+    Kanten auf.
+4.  **Mobilität > Material (früh):** In der frühen Partie ist es wichtiger,
+    viele mögliche Züge zu haben und dem Gegner Optionen zu nehmen, als einfach
+    viele Steine zu besitzen.
+5.  **Parität im Endspiel:** Versuche, in den letzten freien Bereichen den
+    letzten Zug zu haben. Wer die Parität (gerade/ungerade Anzahl freier
+    Felder) kontrolliert, entscheidet oft die Schlussphase.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Corners first: Corner discs can never be flipped; securing corners often decides the game.
-2.  **[DE]** Avoid “X‑squares” early: The diagonally adjacent squares to corners (X‑squares) often give your opponent an easy corner capture.
-3.  **[DE]** Edge stability: Edges are powerful once stabilized; build safely from corners before expanding along the edge.
-4.  **[DE]** Mobility over material (early): Keep your options open and deny moves to your opponent; too many early flips can backfire.
-5.  **[DE]** Parity (endgame): Aim to move last in the final regions; controlling whether a region has odd/even empties can secure the final swing.
+- **Stein setzen:** Klicke oder tippe auf ein gültiges Feld. Ein gültiger Zug
+  muss mindestens eine gegnerische Reihe einkesseln und drehen.
+- **Passen:** Gibt es keinen legalen Zug, wird automatisch gepasst oder du wirst
+  zum Passen aufgefordert.
+- **Modi:** Üblich sind Einzelspieler gegen KI und lokaler 2‑Spieler-Modus am
+  selben Gerät.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Place a disc: Click or tap a legal square (most implementations highlight valid moves). A legal move must flip at least one opposing disc.
-- Passing: If no legal move exists, the game auto‑passes or prompts you to pass.
-- Modes: Single‑player (vs. AI) or local 2‑player are commonly available.
+- **F: Wann ist ein Zug gültig?**
+  
+  Wenn du mit deinem Stein in mindestens einer Richtung eine ununterbrochene
+  Reihe gegnerischer Steine einkesselst, die an einen deiner Steine angrenzt.
 
-### Frequently Asked Questions (FAQ)
+- **F: Was passiert, wenn keiner mehr ziehen kann?**
+  
+  Das Spiel endet und die Farbe mit mehr Steinen auf dem Brett gewinnt.
 
-- What makes a move legal? It must outflank one or more opponent discs in a straight line; all outflanked discs flip.
-- What if neither side can move? The game ends and the side with more discs on the board wins.
-- Is going first stronger? Initiative helps, but strong play revolves around corners, mobility, and endgame parity.
-- Any quick tip for beginners? Don’t over‑flip early; fight for mobility and avoid X‑squares until you can secure corners.
+- **F: Hat der Startspieler einen Vorteil?**
+  
+  Der erste Zug bringt Initiative, aber Entscheidung bringen vor allem
+  Eckenbesitz, Mobilität und Paritätskontrolle.
 
+- **F: Ein Tipp für Anfänger?**
+  
+  Drehe nicht zu früh „alles“, sondern halte das Brett flexibel, meide
+  X-Felder, bis du Ecken sicher übernehmen kannst.

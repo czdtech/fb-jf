@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: merge-defenders
-title: '[DE] Merge Defenders'
+title: Merge Defenders
 description: >-
-  [DE] Defend your territory by merging and upgrading your units in Merge
-  Defenders! Combine identical defenders to create more powerful versions and
-  strategically place them to fend off waves of enemies.
+  Verteidige dein Gebiet in Merge Defenders, indem du Einheiten merg st und
+  aufwertest! Kombiniere identische Verteidiger zu stärkeren Versionen und
+  platziere sie taktisch, um Wellen von Gegnern aufzuhalten.
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
 thumbnail: /new-images/merge-defenders.png
 tags:
@@ -17,35 +17,65 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Merge Defenders ist ein strategisches Spiel, das die Suchtgefahr von
+Merge-Puzzles mit Tower-Defense-Action kombiniert. Du schützt deine Basis vor
+anrückenden Gegnerwellen, indem du nicht nur Türme platzierst, sondern
+Grundeinheiten kaufst, sie zu stärkeren Verteidigern merg st und sie dann
+gezielt an der Frontlinie positionierst.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Merge Defenders is an exciting and strategic game that blends the addictive nature of merge puzzles with the action-packed gameplay of tower defense. In this game, you must protect your base from relentless waves of enemies. You do this not just by placing towers, but by purchasing basic units, merging two identical units to create a more powerful, higher-level defender, and then strategically deploying them onto the battlefield.
+1.  **Merge-Zyklus verstehen**  
+    Zu Beginn kaufst du Level-1-Einheiten. Zwei gleiche Einheiten merg st du zu
+    einer stärkeren Einheit der nächsthöheren Stufe. Höhere Level haben deutlich
+    mehr Schaden und oft bessere Feuerraten.
 
-### Gameplay Strategy & Walkthrough
+2.  **Begrenzte Slots nutzen**  
+    Du hast nur eine bestimmte Anzahl Verteidigungsfelder. Setze dort deine
+    stärksten Einheiten ein und lass schwächere lieber im Reservegitter, bis du
+    sie weiter merg en kannst.
 
-1.  **[DE]** **The Merge Cycle:** The core of the game is the merge mechanic. You start by purchasing level 1 units. Drag a level 1 unit onto another level 1 unit to create a level 2 unit, and so on. Higher-level units have significantly better damage and firing rates.
-2.  **[DE]** **Deployment:** You have a limited number of slots on your defensive line. Drag your strongest defenders from your reserve grid onto these slots. They will automatically attack any enemies that come into range.
-3.  **[DE]** **Economy Management:** You earn coins for every enemy you defeat. You must constantly decide whether to spend your coins on more low-level units (to merge up) or to save them for special upgrades that might become available.
-4.  **[DE]** **Strategic Placement:** Don't just place your strongest unit anywhere. Observe the enemy path. Some slots might be more critical than others, such as at corners where units can cover the path for a longer duration. Place your most powerful defenders in these key positions.
+3.  **Wirtschaft managen**  
+    Für besiegte Gegner erhältst du Münzen. Überlege ständig, ob du neue
+    Basiseinheiten kaufst, um sie hochzumerg en, oder ob du auf spezielle
+    Upgrades sparst.
 
-### Controls Guide
+4.  **Positionierung ist entscheidend**  
+    Beobachte den Laufweg der Gegner. Felder an Kurven oder langen Geraden
+    sind ideal, weil Verteidiger dort länger im Zielbereich bleiben. Platziere
+    deine stärksten Einheiten an diesen Schlüsselstellen.
 
-The game is controlled entirely with your mouse or finger.
+### Steuerung
 
-*   **[DE]** **Buy Unit:** Click the "Buy" button to purchase a new basic unit, which will appear on your reserve grid.
-*   **[DE]** **Merge Units:** Click and drag one unit and drop it onto an identical unit to merge them into a higher-level unit.
-*   **[DE]** **Deploy Unit:** Click and drag a unit from your reserve grid to an empty defensive slot on the battlefield.
+- **Einheit kaufen:** Klicke auf „Buy“, um eine neue Basiseinheit zu erwerben –
+  sie erscheint im Reservegitter.
+- **Mergen:** Ziehe eine Einheit auf eine identische Einheit, um sie zur
+  nächsthöheren Stufe zu verschmelzen.
+- **Platzieren:** Ziehe Einheiten vom Reservegitter auf freie Verteidigungsfelder
 
-### Frequently Asked Questions (FAQ)
+- **Deploy Unit:** Click and drag a unit from your reserve grid to an empty defensive slot on the battlefield.
+  auf dem Schlachtfeld.
 
-*   **[DE]** **Q: How do I get stronger defenders?**
-    *   **[DE]** **A:** By merging. Combine two identical defenders to create one defender of the next level. For example, two Level 2 units merge into one Level 3 unit.
+### FAQ
 
-*   **[DE]** **Q: Why can't I place my defender on the enemy path?**
-    *   **[DE]** **A:** You can only place your defensive units in the designated square slots along the path, not on the path itself where the enemies walk.
+*   **F: Wie bekomme ich stärkere Verteidiger?**  
+    **A:** Durch Mergen: Zwei Level-1-Einheiten werden zu Level 2, zwei Level 2
+    zu Level 3 usw. Je höher das Level, desto stärker die Einheit.
 
-*   **[DE]** **Q: I'm being overwhelmed by enemies. What should I do?**
-    *   **[DE]** **A:** Focus on merging your units to the highest possible level. A single high-level unit is often much more powerful than several low-level ones. Make sure all your available defensive slots are filled, and continuously buy and merge new units as you earn coins.
+    - **F: Warum kann ich keine Einheiten direkt auf den Weg setzen?**  
+    **A:** Verteidiger dürfen nur auf die dafür vorgesehenen Felder neben dem
+    Pfad gestellt werden, nicht direkt auf die Laufroute der Gegner.
 
+*   **F: Ich werde von Gegnerwellen überrannt – was tun?**  
+
+    - **A:** Focus on merging your units to the highest possible level. A single high-level unit is often much more powerful than several low-level ones. Make sure all your available defensive slots are filled, and continuously buy and merge new units as you earn coins.
+
+- **Q: I'm being overwhelmed by enemies. What should I do?**
+
+    - **A:** You can only place your defensive units in the designated square slots along the path, not on the path itself where the enemies walk.
+    **A:** Konzentriere dich darauf, wenige, aber hochstufige Einheiten zu
+    bauen, statt viele schwache. Achte darauf, alle verfügbaren Slots zu
+    belegen und kontinuierlich neue Einheiten zu kaufen und zu merg en, sobald
+    du Münzen erhältst.

@@ -1,10 +1,12 @@
 ---
 locale: de
 urlstr: gladihoppers
-title: '[DE] Gladihoppers'
+title: "Gladihoppers"
 description: >-
-  [DE] 2D gladiator brawler with physics hops: customize gear, time lunges and
-  parries, and climb arenas in duels or modes.
+  Gladihoppers ist ein verrückter 2D-Gladiatorenkampf mit hüpfender Physik.
+  Rüste deinen Kämpfer mit Waffen, Rüstungen und Schilden aus, timinge Stöße
+  und Paraden richtig und kämpfe dich in verschiedenen Arenen immer weiter nach
+  oben.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/gladihoppers.jpg
 tags:
@@ -15,30 +17,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Überblick
 
+Gladihoppers kombiniert ragdoll-artige Hüpfer mit Nahkampfwaffen. Deine Haltung,
+Reichweite und Bewegung bestimmen den verursachten Schaden: Vorwärtsstöße und
+Treffer am Kopf sind besonders effektiv, während Schilde und gut getimte Paraden
+viel Schaden abfangen. Zwischen den Kämpfen kaufst du neue Helme, Rüstungen und
+Waffen, die Reichweite, Tempo und Schlagkraft verändern, und schaltest weitere
+Arenen und Spielmodi frei.
 
+### So spielst du
 
-### Overview
-Gladihoppers blends ragdoll‑style hopping movement with weapon combat. Your gladiator’s stance, reach, and momentum determine damage: lunges and head hits deal more, while shields and timing‑based parries mitigate blows. Between fights, equip new helms, armor, and weapons to shape reach and swing speed, then progress through arenas and modes.
+- **Halte Abstand unter Kontrolle:** Nutze deine Hüpfer, um die Distanz zu
+  steuern. Springe hinein, wenn deine Waffe zuerst trifft, und zieh dich zurück,
+  wenn der Gegner im Vorteil ist.
+- **Blocken und kontern:** Heb dein Schild rechtzeitig oder hüpfe zurück, um
+  gegnerische Angriffe ins Leere laufen zu lassen. Kontere direkt im
+  Erholungsfenster des Gegners.
+- **Ausrüstung anpassen:** Gib verdiente Münzen für Ausrüstung aus, die zu
+  deinem Spielstil passt – lange Waffen für mehr Reichweite oder schnellere
+  Klingen für aggressiven Druck.
 
-### How to Play
-- Control distance with hops; strike when your weapon arc will land first.
-- Raise shield or back‑hop to bait swings, then counter during recovery.
-- Spend coins on gear that complements your preferred range and speed.
+### Steuerung
 
-### Controls
-- Directional hops, attack and block keys (bindings vary by host); local versus often available.
+- Bewege deinen Gladiator mit den Richtungstasten/hüpfenden Bewegungen.
+- Nutze separate Tasten für **Angriff** und **Block/Schild** (Tastenbelegung
+  hängt von der Plattform ab).
+- In lokalen Mehrspielermodi teilen sich zwei Spieler eine Tastatur oder ein
+  Gerät und ziehen abwechselnd in die Arena.
 
-### Tips
-- Spear/pike favor spacing; swords excel at close pressure.
-- Aim for the head when safe; high hits often crit.
-- Don’t spam—most weapons have end‑lag; learn tempos.
+### Tipps
 
-### FAQ
-- Q: Why do my attacks whiff at close range?
-A: Your weapon arc may be past its sweet spot; adjust spacing or switch to faster arms.
-- Q: Is blocking or back‑hopping better on defense?
-A: Use both—block against single swings, back‑hop to escape combos.
-- Q: How important is gear quality?
-A: Very—reach/weight drastically change matchups.
+- **Speere & Piken** sind stark auf Distanz und belohnen gutes
+  Abstands-Management.
+- **Schwerter** eignen sich besonders für aggressives Spiel auf kurzer Distanz.
+- Ziele, wenn möglich, auf den **Kopf**, um maximalen Schaden zu verursachen.
+- Spamme keine Angriffe: Die meisten Waffen haben spürbare
+  **Nachlag-/Erholungszeiten** – lerne den Rhythmus deiner Waffe.
 
+### Häufige Fragen (FAQ)
+
+- **F: Warum verpassen meine Angriffe so oft, obwohl ich nah dran bin?**  
+  **A:** Wahrscheinlich steht dein Gegner zu dicht an dir, sodass deine Waffe
+  ihren optimalen Trefferbogen schon überschritten hat. Halte etwas Abstand oder
+  nutze schnellere Waffen.
+
+- **F: Was ist besser zur Verteidigung – Blocken oder Zurückhüpfen?**  
+  **A:** Beides ist wichtig: Blocken eignet sich gegen einzelne Schläge, während
+  ein Rückwärtshüpfer dich aus gefährlichen Kombos bringt.
+
+- **F: Wie wichtig ist die Qualität meiner Ausrüstung?**  
+  **A:** Sehr wichtig. Reichweite, Gewicht und Tempo deiner Waffen und Rüstung
+  entscheiden oft über Sieg oder Niederlage und verändern viele Matchups
+  deutlich.

@@ -1,13 +1,11 @@
 ---
 locale: ko
 urlstr: pokemon-emerald
-title: '[KO] Pokemon Emerald'
+title: "Pokemon Emerald 포켓몬 에메랄드"
 description: >-
-  [KO] Pokemon Emerald is a role-playing video game in the Pokémon series, where
-  players embark on an adventure in the Hoenn region, catching and training
-  Pokémon, battling trainers, and challenging Gym Leaders to become the
-  Champion, while also dealing with the conflict between Team Magma and Team
-  Aqua.
+  호연 지방을 무대로 모험을 떠나는 포켓몬 RPG입니다. 포켓몬을
+  잡고 키우며 체육관 관장을 상대하고, 마그마단·아쿠아단의 계획을
+  막아 챔피언에 도전해 보세요.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/pokemon-emerald.jpg
 tags:
@@ -20,35 +18,74 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Pokemon Emerald*는 포켓몬 시리즈의 GBA용 RPG로, 호연(호엔) 지방을
+배경으로 한 모험을 다룹니다. 플레이어는 다양한 포켓몬을 포획하고
+육성하며 다른 트레이너와 배틀을 하고, 각지의 체육관 관장을
+차례로 쓰러뜨려 포켓몬 리그 챔피언에 도전하게 됩니다.
 
-### Game Introduction
+그 과정에서 세계를 바꾸려 하는 악의 조직 **마그마단**과 **아쿠아단**의
+계획에 휘말리게 되며, 전설의 포켓몬을 둘러싼 갈등을 막는 것도
+중요한 스토리 축입니다.
 
-"Pokemon Emerald" is a role-playing video game in the Pokémon series where players embark on an adventure in the Hoenn region. The main goal is to catch and train Pokémon, battle various trainers, challenge Gym Leaders, and ultimately become the Pokémon League Champion. Concurrently, players will be drawn into the conflict between the villainous organizations "Team Magma" and "Team Aqua," attempting to stop their plans to reshape the world.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **포켓몬 포획에 익숙해지기**  
+   풀숲, 동굴, 물가 등에서 야생 포켓몬이 출현합니다. 먼저 체력을
+   적당히 깎고, 상태 이상 기술(수면·마비 등)을 활용해 포획률을
+   높인 뒤 **몬스터볼**을 던져 잡으세요.
 
-1.  **[KO]** **Catch Pokémon**: Encounter wild Pokémon in tall grass, water bodies, caves, etc., weaken them, and then catch them with Poké Balls.
-2.  **[KO]** **Train Pokémon**: Gain experience points through battles to level up and enhance Pokémon's abilities, teaching them new moves.
-3.  **[KO]** **Challenge Gyms**: Defeat Gym Leaders in various locations to earn badges, a necessary path to becoming the League Champion.
-4.  **[KO]** **Explore the World**: Explore the vast world of the Hoenn region, discovering new locations, items, and Pokémon.
-5.  **[KO]** **Strategic Team Building**: Assemble a balanced and strategic team based on Pokémon's types, abilities, and moves.
+2. **효율적인 육성과 기술 구성**  
+   배틀을 통해 경험치를 얻어 레벨을 올리고, 새로운 기술을
+   배웁니다. 포켓몬별 역할(공격/지원/탱커 등)을 정해, 타입 상성에
+   맞는 기술을 골고루 배치하면 체육관 공략이 훨씬 쉬워집니다.
 
-### How to Play
+3. **체육관 배틀로 배지 모으기**  
+   각 도시의 체육관 관장을 쓰러뜨리면 **배지**를 획득할 수 있고,
+   이는 리그에 도전하기 위한 필수 조건입니다. 관장마다 사용하는
+   타입이 다르니, 전기·물·풀 등 상성에 유리한 파티를 미리
+   준비해 두세요.
 
-*   **[KO]** **Movement**: Use arrow keys to control character movement.
-*   **[KO]** **A Button (Confirm/Talk)**: Talk to NPCs, select menu options, confirm battle commands.
-*   **[KO]** **B Button (Cancel/Run)**: Cancel menu selections, hold B button in some areas to run (requires running shoes).
-*   **[KO]** **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save game, etc.
-*   **[KO]** **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
+4. **호연 지방 구석구석 탐험하기**  
+   배를 타고 섬으로 이동하거나, 비행·파도타기 같은 필드 기술을
+   활용해 새로운 장소를 찾아가면 숨겨진 아이템과 레어 포켓몬을
+   발견할 수 있습니다.
 
-### Frequently Asked Questions
+5. **밸런스 있는 파티 구성**  
+   한 타입에 치우친 파티보다는, 물·불·풀·전기·에스퍼 등 여러
+   타입을 적절히 섞어 두는 것이 좋습니다. 특성, 기술 범위까지
+   고려해 다양한 상황에 대응할 수 있는 팀을 만들어 보세요.
 
-1.  **[KO]** **Q: Which Legendary Pokémon can be caught in "Pokemon Emerald"?**
-**A**: In "Emerald," players can catch Legendary Pokémon such as Kyogre, Groudon, and Rayquaza.
-2.  **[KO]** **Q: Which starter Pokémon should I choose at the beginning of the game?**
-**A**: The starter Pokémon are Treecko (Grass type), Torchic (Fire type), and Mudkip (Water type). The choice depends on the player's preference and strategy, with Mudkip often considered an easier choice for beginners.
-3.  **[KO]** **Q: How do I evolve Pokémon?**
-**A**: Pokémon typically evolve by leveling up, using Evolution Stones, or through trade communication.
-4.  **[KO]** **Q: What are the special battle facilities in the game?**
-**A**: "Emerald" introduced the "Battle Frontier," a large endgame challenge area with multiple facilities offering diverse battle experiences.
+### 조작 방법
+
+- **이동**: 방향키로 주인공을 이동합니다.  
+- **A 버튼(결정/대화)**: NPC와 대화하거나 메뉴 선택, 배틀에서 기술
+  사용 등을 확정합니다.  
+- **B 버튼(취소/달리기)**: 메뉴 선택을 취소하고, 러닝 슈즈를 얻은
+  뒤에는 B 버튼을 누른 채로 이동하면 달릴 수 있습니다.  
+- **START 버튼(메뉴 열기)**: 포켓몬, 가방, 세이브 등
+  메인 메뉴를 엽니다.  
+- **SELECT 버튼(등록 아이템 사용)**: 자주 쓰는 아이템을 등록해 두면
+  SELECT로 빠르게 사용할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 에메랄드에서 잡을 수 있는 전설의 포켓몬은 무엇인가요?**  
+   **A:** 기본적으로 **가이오가**, **그란돈**, **레쿠쟈**를 포획할 수
+   있으며, 스토리 진행과 사후 콘텐츠를 통해 도전할 수 있습니다.
+
+2. **Q: 처음 스타터 포켓몬은 무엇을 고르는 게 좋나요?**  
+   **A:** 풀 타입 나무지기, 불 타입 아차모, 물 타입 물짱이 중에
+   선택합니다. 개인 취향과 전략에 따라 다르지만, 초반 체육관
+   상성상 물짱이가 입문자에게 비교적 무난한 선택으로 여겨집니다.
+
+3. **Q: 포켓몬은 어떻게 진화하나요?**  
+   **A:** 대부분은 레벨이 일정 수준에 도달하면 진화하며, 일부는
+   **진화의 돌** 사용, 통신 교환, 특정 조건(친밀도·시간대 등)을
+   만족해야 진화합니다.
+
+4. **Q: 에메랄드만의 특수 배틀 시설은 무엇인가요?**  
+   **A:** 스토리 클리어 후에는 다양한 룰의 배틀을 즐길 수 있는
+   거대 시설인 **배틀 프론티어**가 열립니다. 여러 타입의 배틀을
+   전략적으로 즐길 수 있는 엔드 콘텐츠입니다.

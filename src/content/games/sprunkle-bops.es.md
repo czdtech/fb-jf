@@ -1,11 +1,10 @@
 ---
 locale: es
 urlstr: sprunkle-bops
-title: '[ES] Sprunkle Bops - Play Sprunkle Bops Online'
+title: 'Sprunkle Bops - Juega a Sprunkle Bops online'
 description: >-
-  [ES] Sprunkle Bops is a fan-made expansion of the popular Incredibox
-  music-mixing game, offering a creative twist with custom mods, new phases, and
-  unique gameplay elements.
+  Sprunkle Bops es una expansión creada por fans del popular juego de mezcla musical
+  Incredibox, con mods personalizados, nuevas fases y mecánicas únicas.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
 thumbnail: /sprunklebops.png
 tags:
@@ -15,15 +14,26 @@ score: 4.3/5  (524 votes)
 ---
 
 
+### Introducción a Sprunkle Bops
 
-### Introducing to Sprunkle Bops
-
-Sprunkle Bops is a fan-made expansion of the popular Incredibox music-mixing game, offering a creative twist with custom mods, new phases, and unique gameplay elements. Loved by music enthusiasts and gamers alike, Sprunki Game allows players to mix beats, vocals, and melodies while exploring diverse themes and characters.
+Sprunkle Bops es una expansión creada por fans sobre la base de Incredibox que
+aporta un giro creativo: mods propios, fases nuevas y elementos jugables
+originales. Es ideal para jugadores a los que les gusta mezclar beats, voces y
+melodías mientras exploran distintos temas y personajes.
 
 ---
 
-### Sprunkle Bops Gameplay
+### Jugabilidad de Sprunkle Bops
 
-- Start the Battle: You’ll face off against various popular characters, each bringing their own musical flair to the rap battle. The goal is simple – follow the rhythm of the beat and land the correct notes at the right time to keep your performance on point.
-- Catch the Beat: Use your keyboard or touch controls to match the beats. You can press the ARROW KEYS, W, A, S, D, or simply tap the corresponding buttons if you are playing on a mobile device. As the music plays, the arrows will appear on your screen. Your task is to hit the matching key when they align with the beat.
-- Stay on Rhythm: As the beat intensifies, stay focused! Each character’s rap skills are powerful, and only those who can master the rhythm will win. Don’t miss a note or it’ll cost you the chance to win the battle.
+- **Empieza la batalla:** te enfrentas a distintos personajes populares, cada
+  uno con su propio estilo y flow en la batalla de rap. Tu objetivo es sencillo:
+  seguir el ritmo y acertar las notas en el momento justo para mantener una
+  actuación impecable.
+- **Atrapando el beat:** usa el teclado o los controles táctiles para encajar
+  con la base. Puedes pulsar las FLECHAS, W, A, S, D, o tocar los botones
+  correspondientes si juegas en móvil. A medida que suena la música, las flechas
+  aparecen en pantalla; tu trabajo es pulsar la tecla correcta cuando se
+  alinean.
+- **Mantén el ritmo:** conforme la base se acelera, toca concentrarse. Cada
+  contrincante tiene habilidades de rap potentes, y solo quien domine el ritmo
+  se quedará con la victoria. Si fallas demasiadas notas, perderás la batalla.

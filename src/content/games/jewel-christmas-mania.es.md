@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: jewel-christmas-mania
-title: '[ES] Jewel Christmas Mania'
+title: Jewel Christmas Mania
 description: >-
-  [ES] Get into the holiday spirit with Jewel Christmas Mania! Match sparkling
-  jewels in this festive match-3 puzzle game and complete challenging levels.
+  Entra en el espíritu navideño con Jewel Christmas Mania. Alinea joyas
+  brillantes en este festivo match‑3 y supera niveles desafiantes llenos de
+  objetivos especiales.
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
 thumbnail: /new-images/jewel-christmas-mania.png
 tags:
@@ -17,32 +18,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Jewel Christmas Mania es un juego de puzles match‑3 deslumbrante que trae a la
+pantalla toda la alegría de la Navidad. Intercambia y combina tres o más joyas
+festivas para eliminarlas del tablero, sumar puntos y cumplir distintos
+objetivos de nivel. Con cientos de niveles repletos de gemas chispeantes,
+obstáculos desafiantes y potentes boosters, ofrece horas de diversión
+navideña. Todo ello envuelto en un ambiente encantador gracias a sus gráficos y
+música alegre.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Jewel Christmas Mania is a dazzling match-3 puzzle game that brings the joy of the holiday season to your screen. Swap and match three or more festive jewels to clear them from the board, earn points, and complete various level objectives. With hundreds of levels filled with sparkling gems, challenging obstacles, and powerful boosters, this game offers endless hours of brain-teasing fun. Immerse yourself in the enchanting Christmas atmosphere with beautiful graphics and cheerful music.
+1.  **Busca combinaciones especiales:** alinear más de tres gemas, o hacerlo en
+    formas especiales (L o T), crea joyas poderosas capaces de limpiar filas,
+    columnas o áreas completas.
+2.  **Prioriza los objetivos del nivel:** vigila siempre qué pide el nivel: a
+    veces es llegar a cierta puntuación, otras limpiar bloques concretos o
+    recolectar objetos. Centra tus movimientos en avanzar esos objetivos.
+3.  **Combina gemas especiales:** la forma más efectiva de limpiar grandes
+    zonas y romper obstáculos difíciles es combinar dos potenciadores. Por
+    ejemplo, dos joyas de línea pueden limpiar un buen cruce del tablero.
+4.  **Trabaja desde abajo:** hacer combinaciones en la parte inferior provoca
+    que caigan más gemas desde arriba, generando nuevas jugadas y cascadas
+    automáticas.
+5.  **Planifica con calma:** no hagas siempre la primera jugada que veas; mira
+    el tablero entero y prepara combinaciones más grandes que te acerquen mejor
+    al objetivo.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Look for Special Gem Combinations:** Matching more than three jewels in a row or in specific shapes (like L or T) will create powerful special gems. These can clear entire rows, columns, or explode to clear a large area.
-2.  **[ES]** **Prioritize Level Objectives:** Always keep an eye on your current level's objective. Sometimes it's about reaching a score, other times it's about clearing specific blocks or collecting certain items. Focus your moves on achieving these goals.
-3.  **[ES]** **Combine Special Gems:** The most effective way to clear large parts of the board and overcome difficult obstacles is by combining two special gems. For example, combining two line-clearing gems can clear a cross-section of the board.
-4.  **[ES]** **Work from the Bottom:** Making matches at the bottom of the game board can cause more gems to fall from above, potentially creating new matches and cascades automatically. This can be a very efficient strategy.
-5.  **[ES]** **Plan Ahead:** Don't just make the first match you see. Look at the entire board and plan your moves to set up bigger combinations and achieve your objectives more efficiently.
+*   **Intercambiar gemas:** usa el ratón para hacer clic y arrastrar una gema a
+    una posición adyacente. El intercambio solo es válido si genera un grupo de
+    tres o más gemas iguales.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Swap Jewels:** Use your mouse to click and drag a jewel to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical jewels.
+*   **P: ¿Qué es un juego match‑3?**
+    *   **R:** Es un puzle en el que intercambias piezas adyacentes en una
+        cuadrícula para formar una línea de tres o más iguales. Cuando haces un
+        match, esas piezas desaparecen y otras nuevas caen para ocupar su lugar.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo uso los boosters?**
+    *   **R:** Los boosters (potenciadores) son objetos especiales que te ayudan
+        a superar niveles difíciles. Normalmente se activan con un clic y puedes
+        conseguirlos completando niveles o mediante recompensas diarias.
 
-*   **[ES]** **Q: What is a match-3 game?**
-    *   **[ES]** **A:** A match-3 game is a puzzle game where players swap adjacent game pieces on a grid to form a line of three or more identical pieces. When a match is made, the pieces disappear, and new ones fall into place.
-
-*   **[ES]** **Q: How do I use boosters?**
-    *   **[ES]** **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.
-
-*   **[ES]** **Q: What happens if I run out of moves?**
-    *   **[ES]** **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.
-
+*   **P: ¿Qué pasa si me quedo sin movimientos?**
+    *   **R:** Si agotas los movimientos antes de completar el objetivo del
+        nivel, fallas la partida y es posible que pierdas una vida. Después
+        podrás volver a intentarlo.

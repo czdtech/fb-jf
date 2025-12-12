@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: air-traffic-control
-title: '[DE] Air Traffic Control'
+title: "Air Traffic Control"
 description: >-
-  [DE] Guide aircraft safely in Air Traffic Control — vector planes, avoid
-  conflicts, and coordinate landings in a clean, accessible browser challenge.
+  In Air Traffic Control koordinierst du den Luftraum in Echtzeit. Weise
+  Flugzeugen sichere Vektoren zu, verhindere Konflikte und bringe die Ankünfte
+  in einem gleichmäßigen, sicheren Rhythmus zur Landebahn.
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/air-traffic-control.png
 tags:
@@ -16,34 +17,75 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+Air Traffic Control ist ein Management‑ und Puzzlespiel in Echtzeit, in dem du
+ankommende und startende Flugzeuge koordinierst und dabei stets sichere
+Mindestabstände einhältst. Du wählst einzelne Maschinen aus, gibst ihnen neue
+Kurse und baust geordnete Anflugmuster aus Gegenanflug, Base und Endanflug
+auf, damit sich Flugwege nicht gefährlich kreuzen. Der Kern des Spiels ist die
+Konflikterkennung und ‑auflösung: Du erkennst gefährliche Konvergenzen früh,
+passt Kurs und Abstand an und sorgst dafür, dass die Landebahn in einem
+kontinuierlichen, aber sicheren Tempo bedient wird.
 
-### Detailed Game Introduction
+### Strategie & Walkthrough
 
-Air Traffic Control is a real‑time, puzzle‑like management game about sequencing arrivals and departures while maintaining safe separation. You select aircraft, issue vectors to build orderly downwind–base–final patterns, and sequence traffic so no two aircraft occupy the same space at the same time. The core loop is conflict detection and resolution: spot converging paths early, adjust headings and spacing, and feed aircraft to the runway at a steady, safe cadence.
+1.  **Akute Konflikte zuerst lösen:** Kümmere dich zuerst um Flugzeuge, die
+    sich kurz vor einem Zusammenstoß befinden. Unkritische Maschinen kannst du
+    kurz unbeachtet lassen, bis das Lagebild wieder übersichtlich ist.
+2.  **Abstände früh planen:** Erzeuge versetzte Endanflüge, indem du früh kleine
+    Kurs‑ oder Wegunterschiede vorgibst. Frühzeitige Entscheidungen verhindern
+    hektische Ausweichmanöver kurz vor der Landebahn.
+3.  **Standard‑Pattern nutzen:** Etabliere ein klares Schema aus Gegenanflug →
+    Base → Endanflug. Ein wiedererkennbares Muster erleichtert dir den
+    Überblick und reduziert Überraschungen.
+4.  **Geschwindigkeit/Höhe nutzen (falls verfügbar):** Wenn die Version des
+    Spiels es erlaubt, sorgen kleine Geschwindigkeitsreduzierungen oder
+    Höhenstaffelungen für zusätzlichen Abstand, ohne dass du starke
+    Kursänderungen brauchst.
+5.  **Landebahn freihalten:** Lass kein weiteres Flugzeug auf kurzen
+    Endanflug gehen, solange die Bahn noch belegt ist oder eine Maschine nur
+    langsam ausrollt. Sonst entstehen schnell Staus und neue Konflikte direkt
+    vor der Bahn.
+6.  **Über‑Vektoren vermeiden:** Zu viele Richtungsänderungen erhöhen die
+    Komplexität und erzeugen neue Konflikte. Setze lieber wenige, klare
+    Vektoren, die das Problem dauerhaft lösen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Prioritize imminent conflicts: Resolve the closest crossing paths first; defer non‑conflicting traffic until the picture is stable.
-2.  **[DE]** Plan early spacing: Create staggered finals by giving small heading or path differences well before the merge; early decisions prevent last‑second turns.
-3.  **[DE]** Build a standard pattern: Use a consistent downwind → base → final flow; it simplifies visual scanning and reduces surprises.
-4.  **[DE]** Use altitude/speed if available: If the UI supports it, small speed reductions or altitude offsets add separation without large turns.
-5.  **[DE]** Keep the runway clear: Don’t feed another arrival to short final if the runway is still occupied or an aircraft is slow to vacate.
-6.  **[DE]** Avoid over‑vectoring: Each extra turn adds pilot workload and increases the chance of new conflicts—prefer minimal, decisive vectors.
+Die genaue Steuerung hängt von der Version ab, folgt aber meist einem ähnlichen
+Schema:
 
-### Controls Guide
+- **Flugzeug auswählen:** Klicke oder tippe auf das Symbol bzw. Label eines
+  Flugzeugs.
+- **Kurs/Pfad setzen:** Klicke Wegpunkte auf dem Radar oder ziehe eine kurze
+  Linie, um den neuen Kurs zu definieren; einige Versionen bieten zusätzliche
+  Richtungsknöpfe auf dem Bildschirm.
+- **Geschwindigkeit/Höhe ändern (falls verfügbar):** Nutze Pfeile oder Buttons
+  in der Benutzeroberfläche, um kleine Anpassungen vorzunehmen – am besten in
+  kleinen Schritten, damit das Verkehrsbild stabil bleibt.
+- **Runway/Anflug zuweisen (falls verfügbar):** Wähle eine Bahn oder einen
+  Anflugpunkt, wenn du Maschinen in die Warteschlange für den Endanflug
+  einsortierst.
 
-Controls vary by version but commonly include:
+### Häufige Fragen (FAQ)
 
-- Select aircraft: Click or tap an aircraft label/target.
-- Set path/heading: Click waypoints on the map or drag to draw a short path; some versions provide on‑screen heading buttons.
-- Manage speed/altitude (if available): Use the UI arrows or buttons to make small adjustments; keep changes incremental.
-- Assign runway/approach (if available): Choose a runway or approach fix when sequencing to final.
+- **Wie vermeide ich Kollisionen?**  
+  Halte seitliche Abstände, indem du früh Vektoren setzt. Kombiniere, wenn
+  möglich, kleine Geschwindigkeitsunterschiede, um Lücken zu öffnen, statt erst
+  in letzter Sekunde auszuweichen.
 
-### Frequently Asked Questions (FAQ)
+- **Was bedeutet eine Konfliktwarnung?**  
+  Das Spiel signalisiert, dass zwei Flugzeuge kurz davor sind, den
+  Mindestabstand zu unterschreiten. Ändere sofort Kurs oder Geschwindigkeit
+  mindestens eines der beiden, sodass sich die Flugwege wieder trennen.
 
-- How do I avoid collisions? Maintain horizontal separation by issuing early vectors; if available, combine gentle speed differences to open gaps.
-- What does a conflict alert mean? It indicates predicted loss of separation; immediately adjust one or both aircraft to diverging headings.
-- Can I pause or change speed? Many browser versions support pause or time controls; use them to plan sequences when the board is busy.
-- Any tip for heavy traffic? Standardize the pattern and meter entries; resolve conflicts far from the runway so the final stays stable.
+- **Kann ich pausieren oder die Spielgeschwindigkeit ändern?**  
+  Viele Browserversionen bieten Pause‑ oder Zeitlupen‑Funktionen. Nutze sie, um
+  in Phasen mit hohem Verkehrsaufkommen in Ruhe deine Sequenzen zu planen.
 
+- **Hast du Tipps für sehr dichten Verkehr?**  
+  Arbeite mit einem klaren Pattern und begrenze die Zahl der Flugzeuge, die
+  gleichzeitig im Endanflug sind. Konflikte solltest du möglichst weit von der
+  Landebahn entfernt lösen, damit der letzte Anflugabschnitt ruhig und stabil
+  bleibt.

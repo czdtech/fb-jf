@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: tile-journey
-title: '[DE] Tile Journey'
+title: Tile Journey
 description: >-
-  [DE] Embark on a relaxing Tile Journey. Select three identical tiles to clear
-  them from the board, but plan your moves carefully to avoid filling up your
-  collection tray!
+  Begib dich auf eine entspannte Tile Journey: Sammle immer drei gleiche Kacheln
+  im Tablett, räume das Brett leer und plane deine Züge so, dass der begrenzte
+  Ablageplatz nicht überläuft.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/tile-journey.png
 tags:
@@ -16,37 +16,41 @@ score: 4.5/5  (2650 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Tile Journey ist ein modernes, entspannendes Tile‑Matching‑Puzzle, das trotzdem gutes Planen verlangt. Dein Ziel ist es, ein Stapelbrett voller verschieden gemusterter Kacheln zu leeren, indem du jeweils drei identische Kacheln sammelst. Anders als in klassischen Match‑3‑Spielen tauschst du nichts, sondern schickst ausgewählte Kacheln in ein Tablett mit begrenzter Kapazität am unteren Bildschirmrand. Sobald drei gleiche Kacheln im Tablett liegen, werden sie entfernt – schaffst du das nicht rechtzeitig und das Tablett läuft voll, ist die Runde verloren.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Die goldene Regel:** Das Tablett bietet nur wenige Plätze (meist sieben). Wenn es voll ist und kein Drilling entsteht, verlierst du. Jeder Zug sollte diese Grenze im Hinterkopf behalten.
+2. **Vorausdenken:** Klicke nicht einfach die ersten drei passenden Kacheln an. Schau dir an, welche Kacheln darunter liegen, und priorisiere Züge, die viele neue Felder freilegen.
+3. **Tablett als Zwischenlager:** Du musst ein Set nicht sofort vervollständigen. Nutze das Tablett, um ein oder zwei Exemplare zu „parken“, während du nach der dritten passenden Kachel suchst.
+4. **Erst planen, dann legen:** Bevor du eine Kachel ins Tablett legst, solltest du wissen, wie du sie bald komplettieren willst. Ein Teil ohne Plan blockiert dir nur wertvollen Platz.
 
-Tile Journey is a modern and relaxing tile-matching puzzle game that challenges your strategic thinking. The goal is to clear a board stacked with various tiles by selecting three identical tiles. Unlike traditional match-3 games, you don't swap tiles. Instead, you select tiles and move them to a limited-capacity collection tray at the bottom of the screen. When three identical tiles are in the tray, they are cleared. You must plan your moves carefully to clear the entire board without letting the tray fill up.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+Das Spiel wird komplett per Klick oder Tipp gesteuert.
 
-1.  **[DE]** **The Golden Rule:** The collection tray is limited (usually to seven slots). If you fill it completely without making a match, you lose. Every move must be made with this in mind.
-2.  **[DE]** **Plan Ahead:** Don't just click on the first three matching tiles you see. Look at the tiles underneath. Prioritize clicking tiles that will uncover the most new tiles, giving you more options for future moves.
-3.  **[DE]** **Use the Tray as a Holding Area:** You don't have to complete a set of three immediately. You can use the tray to temporarily hold tiles while you work to uncover the third one you need. For example, if you have two identical tiles in the tray, you can pick up other tiles while you search for the third matching one.
-4.  **[DE]** **Look Before You Leap:** Before placing a tile in the tray, make sure you have a plan for it. If you put a tile in the tray that you can't match soon, it will just take up valuable space.
+- **Kachel wählen:** Klicke auf eine freiliegende Kachel auf dem Brett, um sie ins Tablett am unteren Rand zu verschieben.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game is played with simple clicks or taps.
+- **Q: Was ist das eigentliche Ziel?**  
+  **A:** Sämtliche Kacheln vom Brett zu entfernen, indem du sie im Tablett zu Dreiergruppen kombinierst.
 
-*   **[DE]** **Select a Tile:** Click on any uncovered tile on the main board to move it to the collection tray at the bottom.
+    - **Q: Warum kann ich manche Kacheln nicht auswählen?**  
+  **A:** Nur Kacheln, die nicht von anderen überdeckt werden, sind spielbar. Du musst zuerst die obere Schicht räumen, um an tiefere Kacheln heranzukommen.
 
-### Frequently Asked Questions (FAQ)
+- **Q: Was passiert, wenn das Tablett voll ist?**  
+  **A:** Sind alle Plätze belegt und du kannst keinen Drilling bilden, gibt es keinen legalen Zug mehr – die Runde ist verloren und du musst das Level neu starten.
 
-*   **[DE]** **Q: What is the objective of the game?**
-    *   **[DE]** **A:** To clear all tiles from the board by collecting them in sets of three in your collection tray.
+    - **Q: Gibt es Power‑ups?**  
 
-*   **[DE]** **Q: Why can't I select a certain tile?**
-    *   **[DE]** **A:** You can only select tiles that are on the top layer and are not covered by any other tile. You must clear the tiles on top to access the ones underneath.
+- **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
 
-*   **[DE]** **Q: What happens if my collection tray gets full?**
-    *   **[DE]** **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
+    - **Q: Are there power-ups?**
 
-*   **[DE]** **Q: Are there power-ups?**
-    *   **[DE]** **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
+- **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
 
+    - **Q: What happens if my collection tray gets full?**
+  **A:** Viele Versionen bieten Hilfen wie „Rückgängig“ für den letzten Zug, „Tipp“ für einen möglichen Match oder „Mischen“, um das Spielfeld neu anzuordnen.

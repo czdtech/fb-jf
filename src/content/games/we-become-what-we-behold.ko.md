@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: we-become-what-we-behold
-title: '[KO] We Become What We Behold'
+title: "We Become What We Behold 위 비컴 왓 위 비홀드"
 description: >-
-  [KO] Explore the impact of media and sensationalism in We Become What We
-  Behold, a thought-provoking satirical game. Capture news events with your
-  camera, observe how your choices shape society, and witness the consequences
-  of focusing on negativity in this unique interactive experience.
+  미디어와 선정주의가 사회에 미치는 영향을 다룬 풍자 게임입니다. 카메라로 어떤 장면을 뉴스로
+  내보낼지 선택하면서, 부정적인 이슈에 집중하는 시선이 어떻게 갈등과 분열을 키우는지 직접
+  체험해 보세요.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/we-become-what-we-behold.jpg
 tags:
@@ -18,33 +17,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
-### Game Introduction
+"We Become What We Behold"는 Nicky Case가 제작한 짧은 포인트앤클릭 형식의 풍자 게임으로,
+미디어의 선정주의와 군중 심리에 대한 날카로운 메시지를 담고 있습니다. 플레이어는 작은 사회를
+배경으로, 카메라로 어떤 장면을 포착해 뉴스로 내보낼지 선택하게 됩니다. 어떤 장면을 비추느냐에
+따라 사람들의 행동과 분위기가 달라지고, 결국 사회 전체의 흐름이 바뀌게 됩니다.
 
-"We Become What We Behold" is a short, satirical point-and-click game by Nicky Case that offers a sharp commentary on media, sensationalism, and how our focus on negativity can amplify societal divisions. The game challenges players to observe a small world of characters and decide what "news" to capture with their camera, directly influencing the narrative and the characters' behavior.
+### 게임 플레이 가이드
 
-### Gameplay Guide
+이 게임의 핵심은 화면을 관찰하고, "뉴스로 만들 장면"을 결정하는 데 있습니다.
 
-The core gameplay involves observing the screen and using your camera to photograph events.
-- **Observe:** Watch the characters (squares and circles) interact.
-- **Capture:** Click to take a photo of a "news" event. Your choice of what to photograph directly impacts what appears on the in-game TV screen, which in turn influences the characters' reactions.
-- **Consequences:** The game subtly demonstrates how focusing on controversial or shocking content can lead to a cycle of anger, fear, and division. There's no explicit win condition; the game typically ends with a dramatic climax reflecting the consequences of media sensationalism.
+- **관찰하기**: 화면 속에는 네모와 동그라미 캐릭터들이 어울리며 살아가고 있습니다. 그들이 서로
+  어떻게 대하는지, 어떤 갈등이나 사건이 일어나는지 지켜보세요.
+- **촬영하기**: 흥미롭거나 극적인 장면을 포착하고 싶을 때, 화면을 클릭해 사진을 찍습니다.
+  찍은 장면은 곧바로 TV 화면의 뉴스로 송출되어, 그 장면이 사회 전체의 인식으로 자리 잡습니다.
+- **파급 효과 보기**: 자극적인 장면일수록 사람들은 더 강하게 반응하고, 이후 행동도 점점 과격해질
+  수 있습니다. 게임은 명시적으로 승패를 알려 주지 않지만, 반복되는 부정적인 뉴스가 어떤 결말을
+  가져오는지 조용히 보여 줍니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- **Mouse:** Use your mouse to aim the camera and click to take a photograph.
+- **마우스**: 카메라 조준과 촬영은 모두 마우스로 진행합니다.
+  - 화면 위에서 카메라 프레임을 대상에 맞추고, 클릭해 사진을 촬영합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**What is the meaning behind the game?**
+**Q. 이 게임이 전달하려는 메시지는 무엇인가요?**  
+A. 게임 제목인 "We become what we behold(우리는 우리가 바라보는 것이 된다)"라는 문장처럼,
+우리가 어떤 뉴스와 이미지에 집중하느냐에 따라 사회와 자신이 그 방향으로 변해 간다는 점을
+풍자적으로 보여 줍니다. 특히 갈등과 폭력적인 장면만 반복해서 비출수록, 실제 사람들의 인식과
+행동도 점점 양극화된다는 메시지를 담고 있습니다.
 
-The game is a critique of media sensationalism and how it shapes our perceptions and society. It highlights how focusing on negativity and conflict can lead to a cycle of division, echoing Marshall McLuhan's quote, "We become what we behold."
+**Q. 게임 길이는 어느 정도인가요?**  
+A. 전체 플레이 시간은 대략 5분 내외로 매우 짧습니다. 하지만 짧은 시간 안에 강한 인상을 주도록
+설계되어 있어, 클리어 후에 내용을 곱씹어 보게 되는 경험을 제공합니다.
 
-**How long is the game?**
-
-It's a very short experience, typically lasting around five minutes, designed to deliver its message concisely and powerfully.
-
-**Is there a "right" way to play or win?**
-
-The game doesn't have a traditional win condition. Its purpose is to make you reflect on media consumption and its societal impact, rather than to achieve a high score or specific ending.
-
+**Q. 정답 루트나 승리 조건이 따로 있나요?**  
+A. 전통적인 의미의 "정답"이나 점수, 승리 조건은 없습니다. 어떤 장면을 선택하느냐에 따라 전개가
+조금씩 달라질 수 있지만, 궁극적으로는 미디어 소비에 대해 생각해 보게 만드는 것이 이 게임의
+목적입니다.

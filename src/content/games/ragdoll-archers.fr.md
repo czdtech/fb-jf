@@ -1,11 +1,12 @@
 ---
 locale: fr
 urlstr: ragdoll-archers
-title: '[FR] Ragdoll Archers'
+title: 'Ragdoll Archers'
 description: >-
-  [FR] Ragdoll Archers is a physics-based archery game where players control
-  wobbly ragdoll archers to shoot arrows at opponents, with realistic physics
-  making each shot challenging and entertaining.
+  Ragdoll Archers est un jeu de tir à l’arc basé sur la physique où tu
+  contrôles des archers en chiffon bancals pour tirer des flèches sur tes
+  adversaires ; les effets physiques réalistes rendent chaque tir à la fois
+  difficile et amusant.
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/ragdoll-archers.jpg
 tags:
@@ -19,32 +20,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-"Ragdoll Archers" is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents. The realistic physics effects make each shot challenging and entertaining, while the character instability adds humor and unpredictability to the game.
+Ragdoll Archers est un jeu de tir à l’arc où les personnages se comportent
+comme des poupées de chiffon. Tu dois ajuster l’angle et la puissance de
+tes tirs pour atteindre tes adversaires tandis que la physique réaliste et
+le manque d’équilibre des archers rendent chaque flèche imprévisible et
+souvent très drôle.
 
-### Gameplay Strategy
+### Stratégies de jeu
 
-1.  **[FR]** **Master Shooting Skills**: Learn to adjust bow angle and power, considering the effects of gravity and air resistance on arrow trajectory.
-2.  **[FR]** **Predict Target Movement**: Opponents may move, so you need to anticipate their position for accurate hits.
-3.  **[FR]** **Utilize Environment**: Make good use of terrain and obstacles to protect yourself or create tactical advantages.
-4.  **[FR]** **Maintain Balance**: Due to the ragdoll nature of characters, maintaining balance is crucial for accurate shooting.
-5.  **[FR]** **Quick Reactions**: The game has a fast pace, requiring quick shooting decisions.
+1.  **Maîtriser le tir :** apprends à régler précisément l’angle de ton
+    arc et la puissance du tir en tenant compte de la gravité et, selon la
+    version, de la résistance de l’air.
+2.  **Anticiper les mouvements :** les ennemis peuvent se déplacer ; vise
+    là où ils vont se trouver plutôt que là où ils sont au moment du tir.
+3.  **Utiliser le décor :** profite du terrain, des obstacles et des
+    plateformes pour te protéger ou prendre un avantage tactique.
+4.  **Garder l’équilibre :** avec des personnages façon ragdoll, la
+    stabilité est essentielle pour des tirs précis. Évite les mouvements
+    brusques qui te déséquilibrent.
+5.  **Réagir vite :** le rythme peut être soutenu ; prends des décisions
+    rapides sur la visée et le déclenchement du tir.
 
-### How to Play
+### Comment jouer
 
-*   **[FR]** **Aim**: Typically use mouse dragging to adjust shooting angle and power.
-*   **[FR]** **Shoot**: Release mouse or click to fire arrows.
-*   **[FR]** **Move**: Use keyboard or touch screen to control character movement (if supported by the game).
-*   **[FR]** **Reload**: Some versions may require manual arrow reloading.
+*   **Viser :** généralement, tu fais glisser la souris pour ajuster
+    l’angle et la puissance du tir.  
+*   **Tirer :** relâche la souris ou clique pour décocher la flèche.  
+*   **Se déplacer :** utilise le clavier ou l’écran tactile pour déplacer
+    ton archer, si la version le permet.  
+*   **Recharger :** certaines variantes demandent de recharger les flèches
+    manuellement.
 
-### Frequently Asked Questions
+### Foire aux questions
 
-1.  **[FR]** **Q: Why is my character always swaying?**
-**A**: This is a design feature of the game; the ragdoll physics effects make characters unstable, which is part of the game's charm.
-2.  **[FR]** **Q: How can I improve shooting accuracy?**
-**A**: Practice aiming more, familiarize yourself with the physics engine characteristics, and learn to predict target movement.
-3.  **[FR]** **Q: Are there different game modes?**
-**A**: Many versions offer different game modes such as single-player vs AI, multiplayer battles, survival mode, etc.
-4.  **[FR]** **Q: Is there a limit to the number of arrows?**
-**A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
+1.  **Q : Pourquoi mon personnage se balance‑t‑il tout le temps ?**  
+    R : C’est voulu : la physique « ragdoll » rend les personnages
+    instables et contribue au côté comique du jeu.
+
+2.  **Q : Comment améliorer ma précision ?**  
+    R : Entraîne‑toi à viser, apprends à connaître la physique du jeu et
+    anticipe les déplacements des cibles.
+
+3.  **Q : Y a‑t‑il plusieurs modes de jeu ?**  
+    R : De nombreuses versions proposent différents modes comme solo
+    contre l’IA, duels multijoueurs, mode survie, etc.
+
+4.  **Q : Le nombre de flèches est‑il limité ?**  
+    R : Cela dépend du mode : certains imposent un nombre de flèches
+    restreint tandis que d’autres t’autorisent des tirs illimités.

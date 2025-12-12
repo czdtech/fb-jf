@@ -1,12 +1,11 @@
 ---
 locale: fr
 urlstr: supernova
-title: '[FR] Supernova'
+title: 'Supernova'
 description: >-
-  [FR] Navigate the dangers of deep space in Supernova! Pilot your starship
-  through a hazardous asteroid field, blasting space rocks and other threats.
-  Survive as long as you can to achieve a high score in this classic
-  arcade-style space shooter.
+  Pilote ton vaisseau dans Supernova : évite les astéroïdes, détruis les
+  menaces et survive le plus longtemps possible dans ce shooter spatial
+  arcade.
 iframeSrc: 'https://rebemanae.github.io/supernova/'
 thumbnail: /new-images/supernova.jpg
 tags:
@@ -17,8 +16,7 @@ score: 4.5/5  (915 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+Supernova est un jeu d’arcade spatial où tu dois esquiver et détruire des
+astéroïdes ainsi que d’autres dangers dans l’espace profond. Garde ton vaisseau
+en un seul morceau et fais grimper ton score.
 
-
-
-
-supernova game is an extremely cool parkour game. In the game, you need to avoid various obstacles and pass all kinds of levels.

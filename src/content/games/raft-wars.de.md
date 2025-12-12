@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: raft-wars
-title: '[DE] Raft Wars'
+title: Raft Wars
 description: >-
-  [DE] Raft Wars is a turn-based strategy shooting game where players help two
-  young brothers defend their treasure from pirates and vikings using tennis
-  balls and other projectiles in naval battles.
+  Raft Wars ist ein rundenbasiertes Taktik-Schießspiel, in dem du zwei Brüdern
+  hilfst, ihren Schatz gegen Piraten und Wikinger zu verteidigen – mit
+  Tennisbällen und anderen Projektilen in chaotischen Schlachten auf dem Wasser.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/raft-wars.jpg
@@ -18,35 +18,55 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Raft Wars" ist ein rundenbasiertes Physik-Schießspiel. Zwei Brüder finden
+ einen Schatz und müssen ihn fortan gegen Piraten, Wikinger und andere
+ Schatzjäger verteidigen. Ausgerüstet mit Tennisbällen und später stärkeren
+ Waffen schießt du von deinem Floß aus auf gegnerische Boote und versuchst, sie
+ von ihren Plattformen ins Wasser zu befördern.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Schussgefühl trainieren:** Übe, Winkel und Schusskraft fein zu dosieren.
+    Achte auf Flugkurven und gegebenenfalls Wind, um deine Schüsse einzustellen.
+2.  **Ziele priorisieren:** Nimm zuerst nahe oder besonders gefährliche Gegner
+    aufs Korn, z. B. jene mit starker Feuerkraft oder guter Deckung.
+3.  **Physik ausnutzen:** Nutze Abpraller, Explosionen und zerstörbare
+    Umgebungsobjekte, um mehrere Gegner mit einem Schuss zu treffen oder sie
+    ins Wasser zu befördern.
+4.  **Eigene Position schützen:** Achte darauf, dass dein Floß nicht zu offen
+    steht. Nutze Deckung oder schieße Gegner so weg, dass sie dich nicht mehr
+    treffen können.
+5.  **Ausrüstung aufrüsten:** Mit gewonnenen Münzen schaltest du stärkere
+    Waffen und Hilfsmittel frei, die mehr Schaden machen oder größere Flächen
+    abdecken.
 
-"Raft Wars" is a turn-based strategy shooting game where players help two young brothers defend their discovered treasure from pirates and vikings who try to steal it. The game features physics-based shooting mechanics, requiring players to adjust angles and power to use tennis balls and other projectiles to defeat enemies by knocking them off their rafts into the water.
+### Steuerung
 
-### Gameplay Strategy
+*   **Zielen:** Bewege die Maus, um den Abschusswinkel zu verändern; meist
+    bestimmst du durch Ziehen auch die Schussstärke.
+*   **Feuern:** Lasse die Maustaste los oder klicke, um das Projektil
+    abzufeuern.
+*   **Waffen wählen:** Wechsle zwischen verschiedenen Projektilen und Items, um
 
-1.  **[DE]** **Master Shooting Skills**: Learn to adjust launch angles and power, observing how environmental factors like wind affect the trajectory.
-2.  **[DE]** **Prioritize Target Selection**: Focus on attacking closer or more threatening enemies first, managing attack order wisely.
-3.  **[DE]** **Utilize Physics**: Take advantage of bouncing, explosions, and other physical effects to achieve better attack results.
-4.  **[DE]** **Protect Yourself**: Ensure your characters don't get knocked off, making good use of cover and positional advantages.
-5.  **[DE]** **Upgrade Equipment**: As the game progresses, acquire more powerful weapons and items to enhance combat capabilities.
+- **Move**: In some levels, you may be able to move your raft position to get better shooting angles.
+    für jede Situation das passende Werkzeug zu haben.
 
-### How to Play
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Aim**: Use the mouse to adjust launch angle, typically by dragging to control direction and power.
-*   **[DE]** **Fire**: Click the mouse or press a specific key to launch projectiles.
-*   **[DE]** **Select Weapons**: Switch between available weapons, choosing the most suitable one for the current situation.
-*   **[DE]** **Move**: In some levels, you may be able to move your raft position to get better shooting angles.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How can I improve shooting accuracy?**
-**A**: Practice adjusting combinations of angle and power, observe trajectory paths, and consider the effects of environmental factors like wind.
-2.  **[DE]** **Q: How many levels are there in the game?**
-**A**: "Raft Wars" typically contains multiple chapters and levels, each with different enemy configurations and challenges.
-3.  **[DE]** **Q: How do I get better weapons?**
-**A**: By completing levels and defeating enemies, you can unlock more powerful weapons and special items.
-4.  **[DE]** **Q: What happens if I get knocked off?**
-**A**: If your character gets knocked into the water, you typically lose health or need to restart the level.
+1.  **F: Wie werde ich besser im Zielen?**
+    **A:** Achte auf die Flugbahn vergangener Schüsse, passe Winkel und
+    Schusskraft in kleinen Schritten an und berücksichtige Wind oder
+    Höhenunterschiede.
+2.  **F: Wie viele Level gibt es?**
+    **A:** Raft Wars bietet mehrere Kapitel mit jeweils eigenen Gegnergruppen
+    und Leveln – mit zunehmendem Schwierigkeitsgrad.
+3.  **F: Wie bekomme ich bessere Waffen?**
+    **A:** Durch das Abschließen von Leveln und das Besiegen von Gegnern
+    verdienst du Geld, mit dem du im Shop stärkere Waffen und Spezialitems
+    kaufen kannst.
+4.  **F: Was passiert, wenn meine Figuren ins Wasser fallen?**
+    **A:** Werden deine Charaktere getroffen und ins Wasser geschleudert,
+    verlierst du Lebenspunkte oder musst das Level wiederholen, wenn alle von
+    Bord gehen.

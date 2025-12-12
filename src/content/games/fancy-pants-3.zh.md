@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fancy-pants-3
-title: '[ZH TRANSLATION NEEDED] Fancy Pants 3'
+title: "Fancy Pants 3 手繪疾走平台 3 代"
 description: >-
-  [ZH TRANSLATION NEEDED] Momentum platforming returns with bigger stages, more
-  secrets, and refined wall‑runs and slides in hand‑drawn worlds.
+  《Fancy Pants 3》讓慣性跑酷再進化——關卡更大、秘密更多，
+  牆跑與滑行動作更加細膩，在手繪世界裡一路衝刺探險。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/fancy-pants-3.jpg
@@ -18,26 +18,35 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Third entry focuses on faster flow, expanded exploration, and challenge rooms rewarding clean movement.
+
+系列第三作更強調「流暢度」與關卡探索感。你要在更大的手繪地圖中保持高速節奏，
+靠順暢的滑行、跳躍與牆跑來穿梭平台，並在各處挑戰房中以乾淨俐落的操作換取獎勵與成就。
 
 ### How to Play
-- Chain slides→jumps→wall‑runs to maintain speed.
-- Collect items to unlock optional rooms and cosmetics.
-- Read enemy timing; stomp or evade to keep momentum.
+
+- 透過「滑行 → 跳躍 → 牆跑」等連招把速度一直延續下去，盡量不要停步。
+- 探索關卡中的分支路線與隱藏角落，收集各種獎盃與收集品，解鎖額外挑戰房或外觀裝飾。
+- 面對敵人時，觀察牠們的行進節奏，選擇踩頭或迴避，優先維持自己的移動節奏。
 
 ### Controls
-- Arrows/WASD to move/jump; Down to slide; Up to enter.
+
+- 使用方向鍵或 WASD 進行移動與跳躍。
+- 向下鍵在斜坡上滑行或進行俯身動作。
+- 向上鍵進入門、管道或特定互動畫面。
 
 ### Tips
-- Keep a rhythm—hesitation kills speed.
-- Use slopes to convert vertical drops into forward velocity.
-- Learn level loops to route collectibles efficiently.
+
+- 讓自己的操作保持「節奏感」，頻頻停下來會直接殺死速度，玩起來也不夠爽快。
+- 善用斜坡，把垂直落差轉換成前進速度，讓角色越跑越快。
+- 熟悉關卡的迴圈路線後，可以設計更有效率的收集動線，一趟就拿齊大部分獎勵。
 
 ### FAQ
-- Q: Big differences from 1/2?  
-[ZH TRANSLATION NEEDED]   A: Larger maps, more secrets, and tighter movement feel.
-- Q: Is combat necessary?  
-[ZH TRANSLATION NEEDED]   A: Minimal; platforming mastery is the focus.
-- Q: Are there hidden rooms?  
-[ZH TRANSLATION NEEDED]   A: Yes—watch for breakable walls and side paths.
 
+- 問：跟前兩代相比差異大嗎？  
+  答：三代的地圖更寬廣、隱藏內容更多，動作手感也更緊實，整體節奏更講究「持續流暢」。
+
+- 問：需要常常打怪嗎？  
+  答：戰鬥成分不重，主要焦點仍然是平台動作與路線探索，敵人更多只是節奏點綴。
+
+- 問：有隱藏房間嗎？  
+  答：有，請留意看起來可疑的牆面、裂縫與偏僻支線，很多地方都藏著暗門與秘道。

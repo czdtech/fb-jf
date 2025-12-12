@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: stickman-hook
-title: '[KO] Stickman Hook'
+title: 'Stickman Hook 스틱맨 훅'
 description: >-
-  [KO] Stickman Hook is a physics-based swinging game where players control a
-  stickman character, using grappling hooks to swing through levels, avoiding
-  obstacles and performing acrobatic moves to reach the finish line.
+  Stickman Hook은 그래플 훅을 이용해 스테이지 곳곳을 휘저으며 결승선까지
+  도달하는 물리 기반 스윙 게임입니다. 장애물을 피하고 곡예 동작을 섞어
+  완벽한 스윙 루트를 만들어 보세요.
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/stickman-hook.jpg
 tags:
@@ -18,33 +18,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+"Stickman Hook"은 스틱맨 캐릭터를 조종해 그래플 훅으로 매달리며 스테이지를
+통과하는 물리 기반 스윙 게임입니다. 각 스테이지에는 갈고리를 걸 수 있는 지점이
+여러 곳에 배치되어 있으며, 적절한 타이밍에 붙었다 떼는 조작으로 장애물을
+피하고 결승선까지 도달해야 합니다. 부드러운 스윙 감각과 중독성 있는 물리
+엔진 덕분에 많은 사랑을 받고 있습니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Stickman Hook" is a physics-based swinging game where players control a stickman character, using grappling hooks to swing through levels, avoiding obstacles and performing acrobatic moves to reach the finish line. The game is widely popular for its smooth swinging mechanics and addictive physics gameplay.
+1.  **타이밍 익히기:**
+    훅을 걸었다가 떼는 순간이 가장 중요합니다. 스윙이 가장 아래로 내려오는
+    지점에서 놓아야 속도와 거리를 최대한 끌어낼 수 있습니다.
+2.  **모멘텀 활용:**
+    한 번 얻은 속도를 잃지 않도록, 스윙 방향과 점프 타이밍을 조절해 연속
+    동작으로 이어 가세요.
+3.  **연속 스윙:**
+    여러 갈고리 지점을 연속으로 이어 붙이면 속도와 높이를 유지하기 쉽습니다.
+4.  **장애물 예측:**
+    앞쪽 지형과 장애물을 미리 보고 어디서 스윙을 끊고, 어디에 다시 걸지
+    계획을 세우면 불필요한 충돌을 줄일 수 있습니다.
+5.  **곡예 동작은 여유 있을 때:**
+    뒤집기나 회전 같은 곡예 동작은 재미를 더해 주지만, 타이밍이 흐트러질 수
+    있으니 여유 있는 구간에서만 시도해 보세요.
 
-### Gameplay Strategy
+### 조작 방법 안내
 
-1.  **[KO]** **Timing Mastery**: Learn to release and grab hooks at the right moments to maintain optimal swinging rhythm.
-2.  **[KO]** **Momentum Utilization**: Use swinging momentum to gain greater speed and jumping distance.
-3.  **[KO]** **Chain Swinging**: Use multiple hook points consecutively to maintain speed and height.
-4.  **[KO]** **Obstacle Prediction**: Observe obstacles ahead and plan safe swinging routes.
-5.  **[KO]** **Acrobatic Performance**: Try performing flips and spins for added fun.
+*   **갈고리 걸기(Grapple):** 클릭 또는 터치/홀드로 훅을 발사해 연결 지점에
+    매답니다.
+*   **놓기(Release):** 버튼에서 손을 떼면 훅을 풀고, 관성에 따라 앞으로
+    날아갑니다.
+*   **스윙(Swing):** 물리 스윙을 이용해 속도와 방향을 조절합니다.
 
-### How to Play
+### 자주 묻는 질문
 
-*   **[KO]** **Grapple**: Click or hold to fire the hook and grab onto anchor points.
-*   **[KO]** **Release**: Release the button to let go of the hook and use inertia to continue forward.
-*   **[KO]** **Swing**: Use physics swinging mechanics to gain momentum and direction.
+1.  **Q: 더 강한 스윙 힘은 어떻게 얻나요?**
+    **A:** 스윙이 가장 아래로 내려왔을 때 훅을 놓으면 중력 가속을 최대한
+    활용할 수 있어, 더 멀리 나아갈 수 있습니다.
 
-### Frequently Asked Questions
+2.  **Q: 장애물에 자꾸 부딪히는 이유가 뭔가요?**
+    **A:** 다음 훅 지점을 너무 늦게 잡거나, 스윙 각도가 좋지 않을 가능성이
+    큽니다. 미리 장애물을 보고, 여유 있게 훅을 새로 걸 수 있는 위치를
+    확보하세요.
 
-1.  **[KO]** **Q: How do I get more swinging power?**
-**A**: Release the hook at the lowest point of the swing to use gravitational acceleration for maximum momentum.
-2.  **[KO]** **Q: Why do I often hit obstacles?**
-**A**: You need to plan your path ahead and release/re-grab hooks at appropriate times.
-3.  **[KO]** **Q: How do I perform continuous swinging?**
-**A**: Grab the next anchor point just as one swing is about to end to maintain continuity.
-4.  **[KO]** **Q: How many levels are in the game?**
-**A**: Usually contains dozens of levels, each with different challenges and obstacle layouts.
+3.  **Q: 끊기지 않고 스윙을 이어 가려면요?**
+    **A:** 스윙이 끝나기 직전, 높이가 적당할 때 바로 다음 갈고리 지점에
+    훅을 걸어 주면 스피드를 잃지 않고 연속 스윙이 가능합니다.
+
+4.  **Q: 스테이지 수가 많나요?**
+    **A:** 버전에 따라 다르지만, 일반적으로 수십 개 이상의 레벨이 준비되어
+    있으며, 진행할수록 장애물 배치와 요구되는 스윙 루트가 더 복잡해집니다.

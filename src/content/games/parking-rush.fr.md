@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: parking-rush
-title: '[FR] Parking Rush'
-description: >-
-  [FR] A fun and challenging puzzle game of traffic control! Draw a path for
-  each car to its matching parking spot, but be careful not to let them crash
-  into each other.
+title: Parking Rush
+description: "Parking Rush est un jeu de puzzle de circulation amusant et exigeant\_: dessine un trajet pour chaque voiture jusqu’à sa place de parking de même couleur sans provoquer de collision."
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/parking-rush.png
 tags:
@@ -14,37 +11,40 @@ tags:
   - casual
   - thinky
 score: 4.2/5  (1900 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Parking Rush est un jeu de dessin de trajectoires où tu joues le rôle de gardien de parking dans un chaos total. Chaque voiture doit rejoindre sa place de parking de la même couleur. Tu dois tracer des chemins pour tous les véhicules sans qu’ils ne se rentrent dedans. À mesure que les niveaux avancent, le nombre de voitures et d’obstacles augmente, ce qui demande une vraie planification et un bon sens du timing.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Analyser le plan :** avant de tracer la moindre ligne, observe l’ensemble du parking et repère les voitures qui ont un trajet simple et celles qui devront faire un détour.  
+2.  **Gérer le timing :** tu n’es pas obligé d’envoyer toutes les voitures en même temps. Un chemin plus long peut servir à retarder volontairement une voiture pour laisser passer les autres.  
+3.  **Gérer la complexité :** sur les niveaux difficiles, commence par faire rouler une voiture à la fois ; une fois garée, passe à la suivante pour réduire le nombre de véhicules en mouvement.  
+4.  **Utiliser les zones vides :** n’hésite pas à faire un grand détour par les bords ou les zones libres plutôt que de risquer une collision au milieu.
 
-Parking Rush is a clever and addictive line-drawing puzzle game that puts you in control of a chaotic parking lot. Your job is to play the role of a parking attendant and guide each car to its designated, color-matched parking space. The challenge is to draw paths for all the cars without them crashing into each other. As the levels progress, the number of cars and obstacles increases, requiring careful planning and timing to succeed.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** **Plan Your Routes:** Before you draw a single line, take a look at the entire layout. Identify which cars have the shortest or most direct paths and which ones might need to take a longer route to avoid a collision.
-2.  **[FR]** **Control the Timing:** The key to this game is timing. You don't have to send all cars at once. You can draw a long, winding path for one car to deliberately delay it, giving another car time to pass through a busy intersection first.
-3.  **[FR]** **One Car at a Time:** For complex levels, it's often best to draw a path for one car, let it park, and then move on to the next one. This reduces the number of moving vehicles you have to worry about at any given moment.
-4.  **[FR]** **Use Open Space:** Don't be afraid to draw paths that loop around the edges or through empty parts of the parking lot. A longer path is better than a crash!
-
-### Controls Guide
 
 The game is played with a simple line-drawing mechanic.
+- Clique ou touche une voiture, puis trace une ligne jusqu’à sa place de parking. Lorsque tu relâches, elle suit le trajet dessiné.
 
-*   **[FR]** **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
+### Foire aux questions (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q : Que se passe‑t‑il si deux voitures se percutent ?**  
+  **R :** Le niveau est immédiatement perdu et tu dois recommencer.
 
-*   **[FR]** **Q: What happens if two cars crash?**
-    *   **[FR]** **A:** You will fail the level and have to restart it from the beginning.
+    - **Q : Comment éviter les collisions quand les chemins se croisent ?**  
 
-*   **[FR]** **Q: How do I stop cars from crashing when their paths cross?**
-    *   **[FR]** **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
+- **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
 
-*   **[FR]** **Q: Do I have to park all the cars?**
-    *   **[FR]** **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+    - **Q: Do I have to park all the cars?**
+
+- **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
+
+    - **Q: How do I stop cars from crashing when their paths cross?**
+  **R :** Allonge le trajet d’une des voitures pour décaler son passage, ou attends qu’une voiture soit garée avant de lancer la suivante.
 

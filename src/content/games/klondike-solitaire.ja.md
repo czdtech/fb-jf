@@ -1,44 +1,36 @@
 ---
+title: "Klondike Solitaire"
+description: "クラシックなクロンダイク：交互の色で降順のタブローの山を使用して、エースからキングまでスートごとに基礎を構築します。1枚引きまたは3枚引き。"
+iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/"
+thumbnail: "/new-images/klondike-solitaire.jpg"
+urlstr: "klondike-solitaire"
+score: "4.1/5  (1091 votes)"
+tags: ["solitaire", "card"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: klondike-solitaire
-title: '[JA TRANSLATION NEEDED] Klondike Solitaire'
-description: >-
-  [JA TRANSLATION NEEDED] Classic Klondike: build foundations Ace to King by
-  suit using tableau stacks that descend in alternating colors; draw‑1 or
-  draw‑3.
-iframeSrc: >-
-  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
-thumbnail: /new-images/klondike-solitaire.jpg
-tags:
-  - solitaire
-  - card
-score: 4.1/5  (1091 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+クロンダイクは、7つのタブロー列、ストック、4つの基礎を使用します。Aから Kまでスートで基礎を上方に構築します。タブローでは、交互の色で下方に構築します。キング（またはキング主導の山）のみが空の列を埋めることができます。1枚引きはより寛容です。3枚引きはサイクル追跡が必要です。
 
+### 遊び方
+- 山を移動して裏向きのカードを公開します。エースで基礎を開始します。
+- 複雑な再配置を操作するために1つの空の列を保持します。
+- 3枚引きでは、キーカードのロックを避けるためにサイクルをカウントします。
 
-### Overview
-[JA TRANSLATION NEEDED] Klondike uses seven tableau columns, a stock, and four foundations. Build foundations up in‑suit from A to K. In the tableau, build down in alternating colors; only Kings (or King‑led stacks) may fill empty columns. Draw‑1 is more forgiving; draw‑3 requires cycle tracking.
+### 操作方法
+- ドラッグ＆ドロップまたはタップ。多くのホストで自動移動が有効です。
 
-### How to Play
-- Expose facedown cards by moving stacks; start foundations with Aces.
-- Keep one empty column for maneuvering complex rearrangements.
-- In draw‑3, count the cycle to avoid locking key cards.
+### ヒント
+- 裏向きのカードをめくる移動を優先します。
+- 基礎への低いカードを急がないでください。タブロー移動に役立つ場合。
+- 有用な山のためのスペースを解放する場合にのみキングを移動します。
 
-### Controls
-- Drag‑and‑drop or tap; auto‑move enabled on many hosts.
-
-### Tips
-- Prefer moves that flip a facedown card.
-- Don’t rush low cards to foundations if they help tableau moves.
-- Move a King only when it frees space for a useful stack.
-
-### FAQ
-- Q: What can I place in an empty tableau column in this game?  
-[JA TRANSLATION NEEDED]   A: Only a King or a stack headed by a King.
-- Q: Should I always play cards to the foundation immediately?  
-[JA TRANSLATION NEEDED]   A: Not always—keep them if they enable key tableau moves.
-- Q: How does draw‑3 change strategy?  
-[JA TRANSLATION NEEDED]   A: You must track the 3‑card order and plan multiple passes.
-
+### よくある質問 (FAQ)
+- **Q: このゲームで空のタブロー列に何を配置できますか？**  
+  A: キングまたはキングが先頭の山のみです。
+- **Q: 常にすぐに基礎にカードをプレイすべきですか？**  
+  A: 常にではありません。キータブロー移動を可能にする場合は保持します。
+- **Q: 3枚引きは戦略をどのように変更しますか？**  
+  A: 3カードの順序を追跡し、複数のパスを計画する必要があります。

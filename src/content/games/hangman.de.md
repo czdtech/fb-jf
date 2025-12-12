@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: hangman
-title: '[DE] Hangman'
+title: Hangman
 description: >-
-  [DE] Classic word‑guessing: deduce the secret word by proposing letters,
-  avoiding too many wrong guesses before the figure is completed.
+  Klassisches Wort-Ratespiel: Finde das geheime Wort, indem du Buchstaben
+  vorschlägst – aber mach nicht zu viele Fehler, bevor die Strichfigur
+  vollständig ist.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/hangman.jpg
 tags:
@@ -15,48 +16,85 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+Hangman ist ein klassisches Wortspiel, bei dem du ein geheimes Wort oder eine
+Redewendung Buchstabe für Buchstabe erraten musst. Zu Beginn siehst du nur eine
+Reihe von Leerstellen – jede steht für einen Buchstaben des gesuchten Wortes.
 
+Du schlägst nach und nach Buchstaben vor, von denen du glaubst, dass sie im
+Wort vorkommen. Ist ein Buchstabe enthalten, wird er an allen passenden
+Positionen aufgedeckt. Ist er falsch, wird ein Teil einer Strichmännchenfigur
+gezeichnet. Du gewinnst, wenn du das komplette Wort errätst, **bevor** die
+Figur vollständig ist. Wird die Figur fertiggestellt, ohne dass das Wort gelöst
+wurde, ist die Runde verloren.
 
-### **Game Introduction**
+Viele digitale Versionen vergeben zusätzlich Punkte – etwa für richtige
+Buchstaben, die Geschwindigkeit beim Lösen oder die Anzahl der verbleibenden
+"Leben" (Fehlversuche).
 
-Hangman is a classic word-guessing game where the objective is to uncover a secret word or phrase by guessing its letters one by one. The game begins with a series of blank spaces, representing each letter of the hidden word.
+### Strategie & Tipps
 
-Players take turns guessing letters they believe are in the word. If a guessed letter is correct, it is revealed in all its positions. If the letter is incorrect, a part of a "hangman" stick figure is drawn. The game is won by successfully guessing all the letters in the word before the hangman drawing is completed. If the drawing is finished before the word is solved, the player loses.
+1.  **Mit Vokalen beginnen**  
+    Vokale (A, E, I, O, U) kommen in vielen Wörtern sehr häufig vor. Wenn du mit
+    ihnen startest, erkennst du schnell die Grundstruktur des Wortes.
 
-Many digital versions include scoring systems, rewarding points for correct letters, the speed of solving the puzzle, and the number of incorrect guesses (or "lives") remaining.
+2.  **Häufige Konsonanten nutzen**  
+    Nachdem du ein paar Vokale getestet hast, konzentriere dich auf häufige
+    Konsonanten wie **R, S, T, L, N**. Damit deckst du in vielen Wörtern
+    zusätzliche Positionen auf.
 
-### **Gameplay Strategy & Tips**
+3.  **In ganzen Wörtern denken (bei Redewendungen)**  
+    Wenn es sich um eine mehrteilige Phrase handelt, löse erst kurze, häufige
+    Wörter wie „der“, „die“, „und". Diese geben dir oft starke Hinweise auf den
+    Rest des Satzes.
 
-1.  **[DE]** **Start with Vowels**: The vowels (A, E, I, O, U) are present in almost every English word. Guessing them first is an excellent strategy to quickly reveal the word's structure. For example, if you guess 'A' and the word appears as `_ A _ A _ A`, you can make a strong educated guess that the word is "BANANA".
-2.  **[DE]** **Guess Common Consonants**: After the vowels, focus on the most frequently used consonants in the English language. A classic mnemonic for this is "Etaoin Shrdlu," but a more practical list includes **R, S, T, L, N**. Guessing these letters often yields good results.
-3.  **[DE]** **Think in Words, Not Just Letters (for Phrases)**: When the puzzle is a multi-word phrase, try to solve individual words. Guessing a small, common word like "THE" or "AND" can provide a huge clue to solving the entire phrase.
-4.  **[DE]** **Avoid Rare Letters Early**: Letters like **J, Q, X, and Z** are the least common in English. Save these for later when you have more context. Guessing them at the beginning is a high-risk, low-reward move.
-5.  **[DE]** **Use Context and Word Patterns**: Once you have a few letters revealed, look for common patterns. For example, a word ending in `_ I N G` is likely to have 'G' as its final letter. A `Q` is almost always followed by a `U`. Use your knowledge of spelling to make logical deductions.
+4.  **Seltene Buchstaben auf später verschieben**  
+    Buchstaben wie **J, Q, X, Z** sind im Deutschen und Englischen vergleichsweise
+    selten. Heb sie dir für den Schluss auf, wenn du schon ein klareres Bild
+    vom Wort hast.
 
-### **Controls Guide**
+5.  **Muster erkennen**  
+    Achte auf typische Endungen und Strukturen. Endet ein Wort z. B. auf
+    „_UNG“ oder „_EN“, kannst du daraus weitere Buchstaben ableiten. Auch
+    Buchstabenkombinationen wie "SCH" oder "ST" sind häufig.
 
-The controls for digital versions of Hangman are extremely simple:
+### Steuerung
 
-*   **[DE]** **Letter Guessing**: You can either **click** the on-screen alphabet letters with your mouse or **type** the corresponding letter on your keyboard.
+In der digitalen Version ist die Bedienung sehr einfach:
 
-### **Frequently Asked Questions (FAQ)**
+*   **Buchstaben wählen:** Klicke auf die Buchstaben im Bildschirm-Alphabet oder
+    tippe den gewünschten Buchstaben direkt auf deiner Tastatur ein.
 
-**1. What is the best letter to guess first?**
-Statistically, **'E'** is the most common letter in the English language, making it the strongest opening guess. After 'E', the other vowels (A, O, I, U) and top consonants (T, R, N, S) are excellent choices.
+### Häufige Fragen (FAQ)
 
-**2. What are some of the hardest Hangman words?**
-The hardest words are often short, use rare letters, or lack common vowels.
-*   **[DE]** **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
-*   **[DE]** **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
-*   **[DE]** **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
+**1. Mit welchem Buchstaben sollte ich anfangen?**  
+Statistisch ist **E** einer der häufigsten Buchstaben. Danach bieten sich andere
+Vokale (A, O, I, U) und häufige Konsonanten (R, N, S, T) an.
 
-**3. What skills can you learn from playing Hangman?**
-Hangman is an excellent educational tool that helps improve:
-*   **[DE]** **Vocabulary**: You are exposed to new words.
-*   **[DE]** **Spelling**: You learn and reinforce correct spelling patterns.
-*   **[DE]** **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
+**2. Was macht ein Wort besonders schwer?**  
 
-**4. What happens when I guess a wrong letter?**
-Each incorrect guess adds another part to the hangman drawing (e.g., the head, then the body, then an arm, etc.). You lose the game if you make too many incorrect guesses and the entire figure is drawn.
+- **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
 
+- **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
+
+- **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
+Kurze Wörter mit seltenen Buchstaben oder ohne klassische Vokale sind schwierig.
+Beispiele sind Wörter mit viel "Y" oder ungewöhnlichen Kombinationen, bei denen
+
+- **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
+
+- **Spelling**: You learn and reinforce correct spelling patterns.
+
+- **Vocabulary**: You are exposed to new words.
+Muster schwer zu erkennen sind.
+
+**3. Was lerne ich durch Hangman?**  
+Hangman trainiert deinen **Wortschatz**, deine **Rechtschreibung** und deine
+**logische Kombinationsfähigkeit**, weil du aus teilweisen Informationen
+schließen musst, welche Buchstaben noch sinnvoll sind.
+
+**4. Was passiert bei einem falschen Buchstaben?**  
+Für jeden falschen Versuch wird ein weiterer Teil der Strichfigur gezeichnet –
+zuerst der Kopf, dann Körper, Arme und Beine. Erlaubst du dir zu viele Fehler,
+wird die Figur komplett und die Runde ist verloren.

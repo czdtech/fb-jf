@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: golf-adventures
-title: '[KO] Golf Adventures'
+title: Golf Adventures 골프 어드벤처
 description: >-
-  [KO] Go on a Golf Adventure! A physics-based puzzle game where you aim your
-  ball to get it in the hole, navigating tricky obstacles and imaginative
-  courses in as few strokes as possible.
+  물리 연산을 활용해 볼을 홀에 넣는 골프 퍼즐 게임입니다. 각종 장애물과 기상천외한 코스를 적은 타수로 공략하며, 각도와 파워를 계산해 샷을
+  설계해 보세요.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/golf-adventures.png
 tags:
@@ -20,31 +19,60 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Golf Adventures is a fun and imaginative puzzle game that uses the mechanics of golf. Instead of a realistic golf course, you'll find yourself in a series of creative and challenging levels filled with unique obstacles. The goal is simple: get the ball into the hole in as few strokes as possible. It's a game of angles, power, and clever problem-solving.
+`Golf Adventures`는 현실적인 골프 코스 대신, 상상력 넘치는 구조와 장애물로
+꾸며진 스테이지를 돌파하는 퍼즐형 골프 게임입니다. 목표는 단순합니다. 가능한
+적은 타수로 공을 홀에 넣는 것. 하지만 각 홀마다 기묘한 지형과 벽, 장애물이
+배치되어 있어, 각도와 힘, 코스 설계가 중요한 두뇌 싸움이 됩니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** **Plan Your Shot:** Before you shoot, take a look at the entire level. Observe the obstacles, the slopes, and the position of the hole. The shortest path is not always the best one.
-2.  **[KO]** **Master the Power:** The distance you pull back determines the power of your shot. Getting a feel for how much power is needed for different distances is key. Start with gentle shots until you get a feel for the physics.
-3.  **[KO]** **Use the Environment:** Many levels are designed for you to use the walls and obstacles to your advantage. Bouncing the ball off a wall (a "bank shot") might be the only way to get around an obstacle and close to the hole.
-4.  **[KO]** **Aim for Par or Better:** Each hole has a "Par," which is the target number of strokes for a skilled player. Your goal is to meet or beat par (a "Birdie" is one under par, an "Eagle" is two under).
+1. **샷을 먼저 설계하기**  
+   샷을 날리기 전에 전체 지형을 천천히 살펴보세요. 장애물 위치, 경사 방향,
+   홀의 위치를 확인한 뒤, 정면 돌파가 좋을지 우회가 좋을지 판단하는 것이
+   중요합니다. 가장 짧은 길이 항상 최선은 아닙니다.
 
-### Controls Guide
+2. **파워 감각 익히기**  
+   뒤로 당기는 거리(게이지)가 샷의 힘을 결정합니다. 거리마다 어느 정도 힘이
+   필요한지 몸으로 익혀야 하고, 처음에는 약한 샷 위주로 감을 잡는 것이
+   안전합니다.
 
-The game uses a simple drag-and-release mechanic.
+3. **지형을 적극 활용하기**  
+   많은 스테이지는 벽이나 장애물을 이용한 “뱅크 샷”을 염두에 두고 설계되어
+   있습니다. 정면으로는 갈 수 없는 곳도 벽을 맞고 튕겨 나가거나, 경사를
+   이용해 돌아 들어가면 손쉽게 접근할 수 있습니다.
 
-*   **[KO]** **Aim and Set Power:** Click on the golf ball and hold the mouse button. Drag your cursor away from the ball. A line will appear showing your aim, and the distance you drag determines the power.
-*   **[KO]** **Shoot:** Release the mouse button to hit the ball.
+4. **파(Par) 또는 그 이상 노리기**  
+   각 홀에는 기준 타수인 파(Par)가 설정되어 있습니다. 파와 같은 타수면
+   무난한 플레이, 한 타 줄이면 버디, 두 타 줄이면 이글로 간주됩니다.
+   처음에는 파를 맞추는 것을 목표로 삼고, 익숙해지면 버디 이상을 노려 보세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-*   **[KO]** **Q: What does "Par" mean?**
-    *   **[KO]** **A:** Par is the expected number of strokes it should take to complete a hole. If a hole is a Par 3, your goal is to get the ball in the hole in 3 strokes or fewer.
+이 게임은 드래그 후 손을 떼는 간단한 조작 방식으로 진행됩니다.
 
-*   **[KO]** **Q: What happens if my ball goes into a water hazard?**
-    *   **[KO]** **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
+- **조준 및 파워 설정**: 골프공을 클릭한 상태에서 마우스를 뒤로 끌어당기면
+  조준선이 나타나고, 드래그 거리만큼 파워가 설정됩니다.
+- **샷 실행**: 마우스 버튼을 놓으면 설정한 각도와 파워대로 공이 날아갑니다.
 
-*   **[KO]** **Q: How do I get past a large wall?**
-    *   **[KO]** **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
+### 자주 묻는 질문(FAQ)
+
+- **Q: 파(Par)는 무슨 뜻인가요?**  
+  **A:** 한 홀을 완주하는 데 숙련된 플레이어가 평균적으로 사용하는 기준
+  타수입니다. 예를 들어 Par 3라면, 3타 이내에 홀인하는 것을 목표로 합니다.
+
+    - **Q: 공이 물에 빠지면 어떻게 되나요?**  
+  **A:** 공은 이전 위치나 지정된 드롭 지점으로 돌아가며, 보통 1타 패널티가
+  부과됩니다.
+
+- **Q: 큰 벽을 어떻게 넘어가나요?**  
+
+    - **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
+
+- **Q: How do I get past a large wall?**
+
+    - **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
+  **A:** 스테이지 곳곳에 있는 경사로나 발판을 활용해야 합니다. 벽 앞의 램프를
+  타고 공을 띄워 넘기거나, 다른 벽에 한번 튕겨 각도를 바꿔 돌아가는 샷이
+  필요할 수 있습니다.

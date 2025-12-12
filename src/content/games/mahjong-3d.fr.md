@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: mahjong-3d
-title: '[FR] Mahjong 3D'
+title: Mahjong 3D
 description: >-
-  [FR] Experience Mahjong Solitaire in a new dimension! Rotate the 3D puzzle,
-  find matching pairs of free tiles, and clear the board in this immersive and
-  strategic game.
+  Découvre Mahjong Solitaire en trois dimensions : fais tourner la structure 3D,
+  trouve des paires de tuiles libres et vide le plateau dans ce puzzle immersif
+  et stratégique.
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/mahjong-3d.jpg
@@ -14,37 +14,42 @@ tags:
   - thinky
   - casual
 score: 4.5/5  (2400 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+## Guide du jeu
 
+### Présentation détaillée
 
-## English Guide
+Mahjong 3D reprend le gameplay de Mahjong Solitaire mais le transpose dans l’espace. Au lieu d’un plateau plat, les tuiles sont empilées en structures 3D complexes que tu peux faire pivoter. L’objectif reste le même : trouver et associer des paires de tuiles identiques et libres pour vider entièrement le plateau. Cette dimension supplémentaire demande une bonne vision spatiale et t’oblige à inspecter la structure sous tous les angles.
 
-### Detailed Game Introduction
+### Stratégies de jeu et progression
 
-Mahjong 3D takes the classic tile-matching gameplay of Mahjong Solitaire and elevates it into a three-dimensional space. Instead of a flat layout, the tiles are stacked in intricate 3D structures that you can rotate. The objective remains the same: find and match pairs of identical, unblocked tiles to clear the board. This 3D twist adds a new layer of challenge and requires players to use spatial awareness to look at the puzzle from all angles.
+1.  **Pivote sans cesse la structure :** la compétence la plus importante est d’avoir le réflexe de tourner le puzzle régulièrement. Une paire peut se cacher de part et d’autre de la structure ; prends l’habitude de faire une rotation complète avant de te décider.
+2.  **Comprends la règle des tuiles libres :** comme dans un Mahjong Solitaire classique, seules les tuiles « libres » peuvent être appariées. En 3D, cela signifie qu’aucune tuile ne repose dessus et qu’au moins un de leurs côtés longs (gauche ou droit) est dégagé.
+3.  **Priorise les tuiles hautes et larges :** commence par retirer les tuiles du sommet et des parties les plus larges de la structure. Les dégager ouvre le plus grand nombre de nouvelles tuiles à l’intérieur.
+4.  **Utilise les indices et mélanges avec parcimonie :** si tu es bloqué, un indice peut te révéler une paire disponible. Si aucune paire n’est possible, un mélange réorganise les tuiles restantes pour te donner une nouvelle chance, mais peut coûter des points.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Rotate, Rotate, Rotate:** The most crucial skill in this version is constantly rotating the puzzle. A pair of matching tiles might be hidden on opposite sides of the structure. Make it a habit to do a full 360-degree rotation before making a move to get a complete picture of the board.
-2.  **[FR]** **The "Free" Tile Rule:** Just like classic Mahjong Solitaire, you can only match tiles that are "free." A tile is free if it can be moved to the left or right without being blocked by another tile. In this 3D version, this means its left and right sides must be open space.
-3.  **[FR]** **Prioritize High and Wide Tiles:** Focus on matching tiles that are on the top layers or on the widest parts of the structure first. Clearing these tiles is key to unlocking the greatest number of new tiles underneath and inside the structure.
-4.  **[FR]** **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a possible match. If no matches are available at all, the shuffle option will rearrange the remaining tiles to give you a fresh chance to find pairs.
+- **Sélection des tuiles :** clique sur une tuile libre pour la sélectionner, puis sur sa jumelle libre pour les appairer et les retirer.
+- **Rotation du puzzle :** utilise les flèches à l’écran ou fais glisser la souris/le doigt sur le fond pour faire pivoter la structure 3D.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Select Tiles:** Click on a free tile to select it, then click on its identical, free partner to make a match.
-*   **[FR]** **Rotate the Puzzle:** Use the on-screen arrows or click and drag the background to rotate the entire 3D structure left or right.
+- Q : Qu’est‑ce qui différencie Mahjong 3D d’un Mahjong Solitaire classique ?  
+  R : La présentation en 3D change complètement la lecture du plateau. Tu dois penser en volume et faire tourner la structure pour repérer des paires cachées derrière ou sur les côtés.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Je vois deux tuiles identiques mais je ne peux pas les associer, pourquoi ?  
+  R : Au moins l’une des deux n’est pas « libre ». Elle est probablement bloquée sur ses côtés gauche et droit, ou recouverte par une autre tuile. Il faut d’abord libérer les tuiles qui la bloquent.
 
-*   **[FR]** **Q: What makes this different from regular Mahjong Solitaire?**
-    *   **[FR]** **A:** The main difference is the 3D presentation. The ability to rotate the puzzle to find matches on all sides adds a significant new challenge compared to the traditional 2D layout.
+- Q : À quoi servent les tuiles Fleurs et Saisons ?  
 
-*   **[FR]** **Q: I see two identical tiles, but I can't match them. Why?**
-    *   **[FR]** **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.
+    - **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.
 
-*   **[FR]** **Q: What do the Flower and Season tiles do?**
-    *   **[FR]** **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.
+- **Q: What do the Flower and Season tiles do?**
+
+    - **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.
+  R : Ce sont des tuiles spéciales : n’importe quelle tuile Fleur peut être associée avec une autre Fleur, et de même pour les tuiles Saison, même si les dessins ne sont pas parfaitement identiques.
 

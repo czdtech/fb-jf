@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: gangsters
-title: '[ZH TRANSLATION NEEDED] Gangsters'
+title: "Gangsters 屋頂幫派對決"
 description: >-
-  [ZH TRANSLATION NEEDED] Physics ragdoll duels: two stick gangsters bounce and
-  shoot on rooftops; time jumps and shots to knock the opponent off.
+  物理解體風格對戰：兩名火柴人黑幫在屋頂上彈跳與射擊，
+  靠掌握跳躍與後座力，把對手從高處擊落。
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/gangsters.jpg
@@ -18,26 +18,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Wobbly rooftop shootouts for one or two players. Bullets and recoil affect your stance; the goal is to topple your opponent.
+
+《Gangsters》是一款晃晃悠悠的屋頂射擊對戰遊戲，支援單人對 AI 或雙人在同一台裝置上對打。
+子彈的後座力會影響角色站姿與平衡，你的目標不是單純打空血條，而是想辦法讓對手在失衡中跌落屋頂。
 
 ### How to Play
-- Time jumps to dodge bullets and adjust aim height.
-- Use recoil to your advantage to tilt or slide the enemy’s stance.
-- Environmental props can block shots or cause ricochets.
+
+- 把握跳躍時機，一方面可以躲子彈，一方面可以藉由高度改變射擊角度。
+- 利用射擊後的後座力來改變自身或敵人的重心，適時連發可以把對手震到邊緣甚至直接彈飛。
+- 場景中的箱子、牆體等物件可以擋子彈，也可能產生反彈，善用掩體或利用反射創造出其不意的擊中。
 
 ### Controls
-- One‑button jump/shoot per player (host dependent) or separate keys for actions.
+
+- 每位玩家通常只有一個按鍵，同時負責跳躍與射擊（依託管版本而定），
+  或由不同鍵分別控制兩種操作。
 
 ### Tips
-- Short hops steady aim; big hops dodge and reposition.
-- Aim at feet to pop opponents upward and off balance.
-- Watch wind or moving platforms when present.
+
+- 短促的小跳可以穩住瞄準，避免角色晃得太誇張；
+  大跳則適合用來躲避子彈與調整位置。
+- 對準對手腳部或腿部射擊，後座力容易把對方彈起，打亂平衡，比純粹打中身體更容易將其擊落。
+- 若關卡中有風向或移動平台，記得將它們考慮進瞄準與站位策略裡。
 
 ### FAQ
-- Q: How do I win rounds consistently?  
-[ZH TRANSLATION NEEDED]   A: Control recoil and land shots that destabilize your opponent’s footing.
-- Q: Is there a two‑player mode on one keyboard?  
-[ZH TRANSLATION NEEDED]   A: Yes, most hosts provide side‑by‑side key bindings.
-- Q: Do headshots deal extra damage?  
-[ZH TRANSLATION NEEDED]   A: Usually knockback/positioning matters more than raw damage.
 
+- 問：如何提升勝率、穩定拿下回合？  
+  答：學會控制自己射擊帶來的後座力，盡量讓敵人處於搖晃或站不穩的狀態，
+  適時補一槍把他送下屋頂，比只圖多扣幾滴血更有效。
+
+- 問：可以在同一鍵盤上雙人遊玩嗎？  
+  答：可以，多數版本會提供左右兩組按鍵配置，方便兩名玩家肩並肩對戰。
+
+- 問：頭部命中有額外傷害嗎？  
+  答：通常遊戲更重視擊退與位置變化，是否打頭反而沒那麼重要，
+  只要能把對手打到失去平衡、跌出去就算贏。

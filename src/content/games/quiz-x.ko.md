@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: quiz-x
-title: '[KO] Quiz x'
+title: "Quiz x 퀴즈 X"
 description: >-
-  [KO] Quiz x is a fast quiz show — read prompts, think broadly, and pick
-  best‑fit answers under light time pressure.
+  다양한 상식·이미지·간단한 논리 문제를 빠르게 풀어 나가는 퀴즈 쇼
+  게임입니다. 시간을 아끼고 오답을 제거하며 연속 정답 스트릭에
+  도전해 보세요.
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/quiz-x.png
 tags:
@@ -17,35 +18,60 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Quiz x*는 일반 상식, 사진, 간단한 논리 문제 등 여러 분야의 문제를
+빠르게 제시하는 퀵 퀴즈 게임입니다. 점수는 **정답 여부와 답변 속도**를
+바탕으로 계산되며, 연속 정답을 기록하면 추가 보너스를 얻을 수
+있습니다.
 
-### Detailed Game Introduction
+특정 분야 지식만 파고드는 것보다는, 넓게 생각하고 보기들을
+제거해 가며 가장 그럴듯한 선택지를 고르는 것이 중요합니다.
 
-Quiz x presents rapid‑fire questions across general knowledge, pictures, and simple logic. Scoring favors speed and correctness; streaks yield bonuses. Broad thinking and elimination beat over‑specialization.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **먼저 오답부터 지우기**  
+   정답이 바로 떠오르지 않더라도, 명백히 말이 안 되는 보기를
+   먼저 제외하면 남은 선택지 중에서 판단하기가 훨씬 쉽습니다.
 
-1.  **[KO]** Eliminate: Remove obviously wrong options before committing.
-2.  **[KO]** Category scan: Identify topic fast to recall relevant facts.
-3.  **[KO]** Streak management: Answer confidently to keep multipliers; skip if unsure (if allowed).
-4.  **[KO]** Time buffer: Don’t spend the entire timer on one tough question.
-5.  **[KO]** Image prompts: Focus on distinctive features (flags, landmarks, animals).
+2. **문제 카테고리를 빠르게 파악하기**  
+   지리, 역사, 과학, 로고/깃발 같은 문제 유형을 한눈에 파악하면
+   머릿속에서 관련 지식을 꺼내기 수월해집니다.
 
-### Controls Guide
+3. **스트릭 관리하기**  
+   일부 모드에서는 연속 정답 스트릭에 추가 점수 배율이 붙습니다.
+   정답 확신이 전혀 없을 때는, (허용된다면) 과감히 스킵해 스트릭을
+   지키는 것도 하나의 전략입니다.
 
-- Click to choose answers; some variants allow keyboard shortcuts; pause between rounds if offered.
+4. **한 문제에 시간을 다 쓰지 않기**  
+   제한 시간 전체를 한 문제에 쓰면, 이후의 쉬운 문제를 풀 기회를
+   잃을 수 있습니다. 어느 정도 생각해도 답이 안 보이면 빠르게
+   선택하고 다음 문제로 넘어가세요.
 
-### Frequently Asked Questions (FAQ)
+5. **이미지 문제에서는 특징적인 요소에 집중하기**  
+   깃발·랜드마크·동물 사진 문제에서는 색 조합, 독특한 문양,
+   실루엣처럼 눈에 띄는 특징부터 확인하면 정답 범위를 빠르게
+   좁힐 수 있습니다.
 
-- Q: I freeze on tough questions.
+### 조작 가이드
 
-A: Use elimination and pick the most plausible; preserve streaks by skipping when permissible.
+- **답 선택**: 마우스로 보기 버튼을 클릭해 정답을 고릅니다. 일부
+  버전에서는 숫자 키 등 키보드 단축키로 선택이 가능하며, 라운드와
+  라운드 사이에는 일시정지·메뉴 이동이 제공될 수 있습니다.
 
-- Q: Picture questions stump me.
+### 자주 묻는 질문(FAQ)
 
-A: Learn common flags and landmarks; look for unique colors/shapes.
+- **Q: 어려운 문제에서 머리가 하얘져요.**  
+  **A:** 완벽한 정답을 떠올리려고 하기보다, 명백한 오답을 먼저
+  제거한 뒤 남은 보기 중 가장 가능성 높은 것을 고르세요.
+  스킵 기능이 있다면 스트릭을 지키기 위해 활용하는 것도 좋습니다.
 
-- Q: Multiplayer?
+- **Q: 사진·이미지 문제가 특히 어렵습니다.**  
+  **A:** 자주 나오는 국기, 랜드마크, 동물 등은 색과 형태 위주로
+  공부해 두면 도움이 됩니다. 문제에서는 늘 그 특징이 강조되어
+  나오는 편입니다.
 
-A: Some builds offer head‑to‑head; read lobby rules.
-
+- **Q: 다른 사람과 함께 하는 모드도 있나요?**  
+  **A:** 일부 버전에서는 1:1 혹은 여러 명이 동시에 점수를 겨루는
+  멀티플레이 모드를 제공합니다. 로비/규칙 설명을 읽고 참가해
+  보세요.

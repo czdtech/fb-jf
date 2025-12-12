@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: sky-tower
-title: '[FR] Sky Tower'
+title: 'Sky Tower'
 description: >-
-  [FR] Sky Tower is a stack‑builder — time drops to align floors, minimize
-  overhangs, and build the tallest, cleanest tower.
+  Sky Tower est un jeu d’empilement : déclenche tes chutes au bon moment pour
+  aligner les étages, limiter les débords et construire la tour la plus haute
+  et la plus propre possible.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/sky-tower.png
 tags:
@@ -18,33 +19,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Sky Tower challenges you to drop moving floors onto a growing tower. Misalignments shear off overhangs, shrinking the platform. Clean timing produces tall, stable towers; sloppiness shrinks floors and ends runs early.
+Sky Tower te met au défi de laisser tomber des étages mobiles sur une tour
+qui monte de plus en plus haut. À chaque mauvais alignement, la partie qui
+déborde est tranchée et ta plateforme rétrécit. Un bon timing te permet de
+construire une tour haute et stable ; des placements approximatifs réduisent
+rapidement la largeur et écourtent la partie.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** Center cue: Align to a background landmark to release consistently.
-2.  **[FR]** Late‑release bias: Drop just after alignment passes the center to compensate for human reaction.
-3.  **[FR]** Recovery floors: After a bad chop, slow down and re‑center before chasing height.
-4.  **[FR]** Rhythm: Maintain a steady cadence rather than reacting frantically.
-5.  **[FR]** Patience: Ignore coins during wobble; stabilize first.
+1.  **Repère central :** choisis un élément de décor en arrière‑plan comme
+    marque visuelle et aligne‑toi dessus pour lâcher toujours au même
+    moment.
+2.  **Léger retard volontaire :** déclenche la chute juste après le passage
+    parfait au centre pour compenser ton temps de réaction.
+3.  **Étages de récupération :** après un gros raté, ralentis et recentre
+    quelques étages plutôt que de chercher la hauteur à tout prix.
+4.  **Garder le rythme :** maintiens une cadence régulière au lieu de
+    cliquer dans la panique.
+5.  **Prioriser la stabilité :** ignore les pièces ou bonus quand la tour
+    vacille ; stabilise‑la d’abord.
 
-### Controls Guide
+### Commandes
 
-- Tap/Click to drop floors; pause/replay via UI.
+- Tape / clique pour faire tomber les étages ; mise en pause et relance via
+  l’interface.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-- Q: My tower shrinks fast.
+- **Ma tour rétrécit très vite, pourquoi ?**  
+  Tu lâches les étages trop tôt ou trop tard de façon irrégulière ; utilise
+  un repère visuel fixe pour t’aider.
 
-A: You’re releasing early/late inconsistently; use a fixed visual cue.
+- **Puis‑je récupérer après plusieurs mauvais placements ?**  
+  Oui : vise quelques centres parfaits d’affilée pour élargir un peu la
+  plateforme avant de pousser plus haut.
 
-- Q: Any way to recover?
-
-A: Yes — refocus on perfect centers for a few floors to rebuild width.
-
-- Q: Is speed important?
-
-A: Consistency beats speed; height follows from clean centers.
-
+- **La vitesse est‑elle importante ?**  
+  La régularité compte plus que la vitesse ; la hauteur viendra
+  naturellement avec de bons centrages.

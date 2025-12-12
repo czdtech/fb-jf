@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: wordle
-title: '[KO] Wordle'
+title: "Wordle 워들"
 description: >-
-  [KO] Wordle is a popular daily word puzzle game where players have six
-  attempts to guess a five-letter word, using color-coded feedback to deduce the
-  correct letters and their positions in this addictive vocabulary challenge.
+  5글자 영어 단어를 6번 안에 맞히는 인기 일일 퍼즐 게임입니다. 추측한 단어에 따라 색으로 피드백을
+  받아, 어떤 글자가 정답에 포함되는지와 위치를 추론해 나가는 중독성 강한 단어 게임입니다.
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/wordle.jpg
 tags:
@@ -17,35 +16,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 게임 소개
 
+"Wordle"은 하루에 한 번 주어지는 5글자 영어 단어를 최대 6번 안에 맞혀야 하는 단어 추리 퍼즐입니다.
+각 시도 후 타일의 색이 바뀌는데, 이를 통해 어떤 글자가 정답 단어에 포함되는지, 또 어느 위치에
+있는지를 유추해야 합니다. 규칙은 단순하지만, 정보가 쌓일수록 논리적으로 경우의 수를 좁혀 가는 맛이
+있어 전 세계적으로 큰 인기를 얻었습니다.
 
+### 플레이 전략
 
-### Game Introduction
+1.  **첫 단어 선택**: 모음(A, E, I, O, U)과 자주 쓰이는 자음이 골고루 섞인 단어를 시작 단어로
+    사용하면, 초반에 많은 정보를 얻을 수 있습니다.
+2.  **빈도 높은 글자 활용**: 영어에서 자주 등장하는 R, S, T, L, N 같은 글자를 초반에 적극적으로
+    사용해, 포함 여부를 빠르게 확인해 두는 것이 좋습니다.
+3.  **위치 추론**: 노란색(글자는 맞지만 위치가 틀림)과 초록색(글자·위치 모두 맞음) 정보를 바탕으로
+    글자의 가능한 위치를 줄여 나가세요. 같은 칸에 다시 노란 글자를 두는 실수는 피해야 합니다.
+4.  **제외 전략**: 회색 글자는 정답 단어에 포함되지 않는다는 뜻입니다. 이미 제외된 글자를 다시
+    시도하지 않도록 메모하거나 키보드 표시를 잘 확인하면 불필요한 낭비를 줄일 수 있습니다.
+5.  **단어 패턴 익히기**: -ING, -ER, -ED처럼 자주 쓰이는 어미나 자음·모음 구조(CVC, CCV 등)를
+    익혀 두면, 남은 칸에 들어갈 수 있는 후보 단어를 더 쉽게 떠올릴 수 있습니다.
 
-"Wordle" is a popular daily word puzzle game where players have six attempts to guess a five-letter word, using color-coded feedback to deduce the correct letters and their positions. This addictive vocabulary challenge game has become globally popular due to its simple rules and daily puzzle design.
+### 플레이 방법
 
-### Gameplay Strategy
+*   **글자 입력**: 키보드나 화면의 가상 키보드로 5글자 단어를 입력합니다.
+*   **추측 제출**: Enter 키를 눌러 현재 단어를 제출합니다.
+*   **피드백 확인**: 제출 후 타일 색을 확인합니다. 초록색은 글자와 위치가 모두 정답, 노란색은 글자는
+    맞지만 위치가 다름, 회색은 단어에 없는 글자입니다.
+*   **수정**: Backspace로 글자를 지우고 다시 입력할 수 있습니다.
 
-1.  **[KO]** **First Word Choice**: Choose words containing common vowels (A, E, I, O, U) as starting words.
-2.  **[KO]** **Letter Frequency**: Prioritize using the most common letters in English, such as R, S, T, L, N, etc.
-3.  **[KO]** **Position Reasoning**: Based on yellow and green hints, reasonably deduce the correct positions of letters.
-4.  **[KO]** **Elimination Strategy**: Use gray letter information to eliminate impossible combinations.
-5.  **[KO]** **Vocabulary Building**: Expand vocabulary and familiarize yourself with more five-letter words.
+### 자주 묻는 질문(FAQ)
 
-### How to Play
+1.  **Q. 하루에 한 번만 플레이할 수 있나요?**  
+    **A:** 오리지널 Wordle은 하루에 하나의 정답만 제공하지만, 많은 변형 버전에서는 무제한 모드나
+    이전 날짜 퍼즐을 다시 풀 수 있는 기능을 제공합니다.
 
-*   **[KO]** **Input Letters**: Use keyboard or on-screen keyboard to input five letters.
-*   **[KO]** **Submit Guess**: Press Enter key to submit the current word guess.
-*   **[KO]** **View Feedback**: Observe color hints: Green (correct position), Yellow (exists but wrong position), Gray (doesn't exist).
-*   **[KO]** **Delete Letters**: Use backspace key to delete input letters.
+2.  **Q. 좋은 시작 단어 예시는 무엇인가요?**  
+    **A:** 모음이 여러 개 들어간 "ADIEU", "AUDIO", 또는 자음·모음이 고르게 섞인 "ARISE",
+    "ROAST" 같은 단어가 많이 추천됩니다.
 
-### Frequently Asked Questions
+3.  **Q. 고유명사도 정답이 될 수 있나요?**  
+    **A:** 보통 일반적인 영어 단어만 정답으로 사용되며, 사람 이름이나 브랜드 같은 고유명사,
+    축약형 등은 포함되지 않는 경우가 대부분입니다.
 
-1.  **[KO]** **Q: Can I only play once per day?**
-**A**: Traditional Wordle has one puzzle per day, but many versions offer unlimited mode or historical puzzles.
-2.  **[KO]** **Q: What are good starting words?**
-**A**: Words containing multiple vowels like "ADIEU," "AUDIO," "AROSE" are good choices.
-3.  **[KO]** **Q: Can I use proper nouns?**
-**A**: Usually only accepts common nouns from standard dictionaries, not proper nouns or plural forms.
-4.  **[KO]** **Q: How can I improve my word-guessing skills?**
-**A**: Play more often, learn common letter combinations and word patterns, and expand your vocabulary.
+4.  **Q. 실력을 어떻게 높일 수 있나요?**  
+    **A:** 자주 플레이하면서 자주 등장하는 글자 조합을 익히고, 시도마다 새로운 정보를 최대한 많이
+    얻을 수 있는 단어를 선택하는 연습을 해 보세요. 어휘력을 늘리는 것 또한 큰 도움이 됩니다.

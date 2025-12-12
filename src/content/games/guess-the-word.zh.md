@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: guess-the-word
-title: '[ZH TRANSLATION NEEDED] Guess The Word'
-description: >-
-  [ZH TRANSLATION NEEDED] Guess The Word is a clean word‑builder — connect
-  letters, exploit patterns, and clear crosswords with vocabulary and logic.
+title: "《Guess The Word》连线猜单词"
+description: "《Guess The Word》是一款干净利落的拼词解谜游戏，你要连接字母、利用常见字母组合和词缀，在类似填字格的棋盘中拼出单词并全部填满。"
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/guess-the-word.png
 tags:
@@ -15,32 +13,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Guess The Word blends letter‑link input with crossword slots. You drag through letter wheels to form valid words that populate a grid. Difficulty grows with trick anagrams, uncommon digrams, and sparse vowels, rewarding pattern recognition and strategic guesswork.
+《Guess The Word》把连线拼词和填字格融合在一起。你需要在字母轮盘上拖动连线，组成有效单词，让它们填入棋盘中的空格。随着关卡推进，谜题会出现更多“变体词”、不常见的双字母组合以及元音较少的单词，你需要依靠字母模式和推理来完成所有单词。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Start with obvious short words to anchor crossings.
-2.  [ZH TRANSLATION NEEDED] Work from prefixes/suffixes (re‑, un‑, ‑ing, ‑ed) to inflate options.
-3.  [ZH TRANSLATION NEEDED] Use letter frequency — E/A/R/S/T appear more; hunt words around them.
-4.  [ZH TRANSLATION NEEDED] Bank bonus words for hints in late boards.
-5.  [ZH TRANSLATION NEEDED] When stuck, reshuffle mental order (middle‑out) to discover new strings.
+### 游戏玩法与攻略
+1.  先从最明显、最短的单词下手，用它们锁定交叉字母位置。
+2.  多利用前缀/后缀思维，例如 re‑、un‑、‑ing、‑ed 等，可以快速扩展候选单词。
+3.  注意字母频率——E/A/R/S/T 这类高频字母出现概率很大，多围绕它们尝试组合。
+4.  很多关卡会把“额外单词”当作奖励，攒下来的额外单词可以在后期关卡兑换提示。
+5.  卡关时，不妨打乱一下自己的思路顺序，从中间字母开始连线，常常能看到之前没注意到的组合。
 
-### Controls Guide
+### 操作说明
 
-- Drag to connect letters; release to submit; use hints sparingly.
+- 用手指或鼠标拖动连接字母，组成单词后松手提交；提示次数有限，需谨慎使用。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-- Q: A slot seems impossible — tips?
-  
-[ZH TRANSLATION NEEDED]   A: Recheck crossings and try anagrams with the fixed letters (e.g., _ate → eat/tea/eta).
+- Q: 有些格子看起来完全拼不出来，该怎么办？  
+  A: 先检查已经填好的交叉字母有没有写错，然后尝试用这些固定字母做字母重排（例如 _ate 可以变成 eat/tea/eta 等多种组合）。
 
-- Q: Are plurals/proper nouns allowed?
-  
-[ZH TRANSLATION NEEDED]   A: Depends on the dictionary; generally no proper nouns.
+- Q: 复数形式或专有名词算不算有效单词？  
+  A: 这取决于游戏内置词典，大部分情况下不收录专有名词，普通复数则视具体关卡而定。
 
-- Q: Can I replay for more coins?
-  
-[ZH TRANSLATION NEEDED]   A: Usually yes — revisit earlier grids for bonuses.
-
+- Q: 可以重复刷关拿更多金币吗？  
+  A: 一般可以，你可以回到早期路线较简单的关卡刷奖励，用来换取提示或解锁更多内容。

@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: mega-prize-scratch
-title: '[ES] Mega Prize Scratch'
+title: "Mega Prize Scratch - Rasca y gana casual"
 description: >-
-  [ES] Mega Prize Scratch is a casual scratch‑card — reveal panels, match
-  symbols, and set session limits to keep it fun.
+  Mega Prize Scratch es un juego casual de tarjetas para rascar: revela
+  casillas, combina símbolos y pon límites a la sesión para mantener la
+  experiencia divertida.
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/mega-prize-scratch.png
 tags:
@@ -15,34 +16,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Mega Prize Scratch simula una tarjeta de rasca y gana: destapa símbolos
+ocultos, completa patrones ganadores y activa rondas de bono. Cada tarjeta es
+independiente; tómalo como un entretenimiento ligero más que como un desafío de
+estrategia.
 
-Mega Prize Scratch simulates a scratch ticket: recover hidden symbols, match patterns, and trigger bonus rounds. Each card is independent; treat the game as light entertainment rather than a strategy challenge.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  Presupuesto: fija de antemano un pequeño presupuesto para la sesión y
+    respétalo.
+2.  Ritmo: rasca despacio para disfrutar el momento; ir más rápido no cambia el
+    resultado.
+3.  Conocer los bonos: lee las reglas para saber qué símbolos desbloquean
+    funciones especiales o premios extra.
+4.  Reglas de parada: deja de jugar cuando alcances un objetivo de ganancia o
+    cuando se agote el presupuesto.
+5.  Descansos: haz pausas regulares para evitar decisiones impulsivas.
 
-1.  **[ES]** Budget: Set a small session budget and stick to it.
-2.  **[ES]** Pace: Scratch slowly to enjoy reveals; rushing doesn’t change outcomes.
-3.  **[ES]** Bonus awareness: Read rules so you know which symbols unlock features.
-4.  **[ES]** Stop rules: Quit on win targets or when the budget ends.
-5.  **[ES]** Breaks: Step away periodically to avoid impulse spending.
+### Guía de controles
 
-### Controls Guide
+- Arrastra para rascar; usa los botones para revelar todo de golpe, comprar una
+  nueva tarjeta o entrar en las rondas de bono.
 
-- Drag to scratch; press buttons to reveal all, buy new cards, or enter bonuses.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- P: ¿Puedo influir en el resultado?  
+  R: No, los resultados son aleatorios; céntrate en el ritmo y la gestión del
+  dinero.
 
-- Q: Can I influence results?
+- P: ¿Qué tamaño de apuesta es mejor?  
+  R: Las apuestas pequeñas y constantes suelen alargar más la sesión de juego.
 
-A: No — outcomes are random; focus on pacing and budgeting.
-
-- Q: What bet size is best?
-
-A: Small, consistent bets extend playtime.
-
-- Q: Do bonuses improve odds?
-
-A: They change volatility more than long‑term expectation.
-
+- P: ¿Los bonos mejoran realmente las probabilidades?  
+  R: Normalmente cambian la volatilidad (picos de premio) más que la esperanza
+  a largo plazo.

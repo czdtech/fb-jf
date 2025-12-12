@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: color-pin
-title: '[ES] Color Pin'
+title: "Color Pin"
 description: >-
-  [ES] Color Pin is a precision pin‑dropper — stick pins into a rotating core
-  without collisions, matching colors under pressure.
+  Color Pin es un juego de precisión en el que debes clavar alfileres en un
+  núcleo giratorio sin chocar, y en algunos modos además acertar en el color
+  correcto bajo presión.
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/color-pin.png
 tags:
@@ -15,35 +16,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Color Pin te pide que dispares alfileres contra un círculo que gira
+constantemente. No puedes tocar los alfileres que ya están clavados y, en los
+modos de color, debes aterrizar justo en el segmento que coincide con el color
+asignado. La velocidad y dirección de giro cambian, así que el juego premia el
+ritmo y la paciencia más que disparar sin pensar.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Color Pin asks you to fire pins into a spinning circle. Avoid hitting existing pins, and in color modes, land on matching segments. Rotation speed and direction shifts keep timing tight, rewarding rhythm and patience over spam.
+1.  Identifica el ciclo de rotación y dispara siempre en la misma fase del giro
+    para mantener un ritmo constante.
+2.  Prioriza primero los huecos amplios; deja los espacios estrechos para
+    momentos en los que el giro sea más lento.
+3.  No intentes forzar un disparo cuando ya has perdido la ventana; espera a la
+    siguiente pasada limpia.
+4.  En los modos de color, apunta con antelación al segmento correcto y dispara
+    solo cuando esté perfectamente alineado.
+5.  Si fallas el ritmo, respira hondo, observa un ciclo completo y vuelve a
+    disparar con calma.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Identify rotation cycles and shoot at a consistent phase.
-2.  **[ES]** Prioritize wide gaps first; leave tight gaps for slow spins.
-3.  **[ES]** Don’t chase missed windows — wait for the next clean pass.
-4.  **[ES]** In color modes, pre‑aim the correct segment and shoot only on alignment.
-5.  **[ES]** Recover rhythm after misses before continuing.
+- Toca o haz clic para lanzar un alfiler; en algunas variantes se puede mantener
+  pulsado para ajustar.
+- Usa las opciones de Pausa/Reiniciar de la interfaz cuando necesites parar.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap/Click to fire a pin; some variants allow holding to adjust.
-- Pause/Restart available via UI.
+- P: Siempre choco con los alfileres que ya están clavados, ¿por qué?
+  
+  R: Probablemente estás desfasando el ritmo. Observa una rotación completa y
+  vuelve a disparar siguiendo un pulso constante.
 
-### Frequently Asked Questions (FAQ)
+- P: ¿La velocidad cambia a mitad de nivel?
+  
+  R: En muchos niveles sí; prepárate para subidas de velocidad y cambios de
+  dirección inesperados.
 
-- Q: I keep colliding with pins — why?
-
-A: You’re desynced. Watch a full rotation, then resume at a consistent beat.
-
-- Q: Does speed change mid‑level?
-
-A: Often yes; be ready for step‑ups and direction flips.
-
-- Q: Any trick for color segments?
-
-A: Shoot only when your target color aligns; forcing shots creates avoidable crashes.
+- P: ¿Algún truco para los segmentos de color?
+  
+  R: Solo dispares cuando el color objetivo esté alineado. Forzar disparos suele
+  terminar en choques que podrías haber evitado.

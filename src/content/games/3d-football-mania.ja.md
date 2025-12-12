@@ -1,44 +1,40 @@
 ---
+title: "3D Football Mania 3D サッカーマニア"
+description: "「3D サッカーマニア」は、サッカーの決定的な瞬間を切り取ったゲームです。ドリブル、パス、そして絶妙なタイミングのシュートでゴールネットを揺らしましょう。"
+iframeSrc: "https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/"
+thumbnail: "/new-images/3d-football-mania.png"
+urlstr: "3d-football-mania"
+score: "3.9/5  (1738 votes)"
+tags: ["sports", "soccer"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: 3d-football-mania
-title: '[JA TRANSLATION NEEDED] 3D Football Mania'
-description: >-
-  [JA TRANSLATION NEEDED] 3D Football Mania captures quick footy moments —
-  dribble, pass, and finish with clean shot timing.
-iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
-thumbnail: /new-images/3d-football-mania.png
-tags:
-  - sports
-  - soccer
-score: 3.9/5  (1738 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*3D Football Mania（3D サッカーマニア）*は、サッカーの基本を短いシナリオに凝縮したゲームです。ディフェンダーの動きを読み、パスコースを選び、キーパーのタイミングを外してシュートを決めましょう。手軽にリプレイできるクイックなチャレンジが満載です。
 
-[JA TRANSLATION NEEDED] 3D Football Mania condenses soccer fundamentals into short scenarios. Read defenders, choose passes, and time shots to beat the keeper in quick, replayable challenges.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
-
-1.  [JA TRANSLATION NEEDED] Use through‑balls: Lead passes into space rather than feet.
-2.  [JA TRANSLATION NEEDED] Near‑post vs far‑post: Mix finishes; far‑post curls are safer, near‑post power punishes tight angles.
-3.  [JA TRANSLATION NEEDED] First‑time shots: Strike without extra touches when defenders close rapidly.
-4.  [JA TRANSLATION NEEDED] Fake and shoot: Small feints open lanes.
-5.  [JA TRANSLATION NEEDED] Rebounds: Follow shots for tap‑ins.
+1.  **スルーパスを使う：** 味方の足元ではなく、進行方向のスペース（空き地）にパスを出して攻撃をリードしましょう。
+2.  **ニアサイド vs ファーサイド：** シュートの打ち分けが重要です。ファーサイド（遠い側）へのカーブシュートは安全策として有効ですが、角度が厳しいときはニアサイド（近い側）へ強烈なシュートを叩き込みましょう。
+3.  **ダイレクトシュート：** ディフェンダーが素早く寄せてくるときは、余計なトラップをせず、ファーストタッチでそのままシュートを打ちましょう。
+4.  **フェイントとシュート：** 小さなフェイントを入れてコースを空けるのが効果的です。
+5.  **こぼれ球（リバウンド）：** シュートを打った後も動きを止めず、キーパーが弾いたボールを押し込める（タップイン）ように備えましょう。
 
 ### 操作ガイド
 
-- 画面上のプロンプトに従って移動/パス/シュート；スワイプまたはボタン。
-- ドラッグでシュートを狙い、ホールドの長さでパワーを設定します。
+*   **移動/パス/シュート：** 画面の指示に従い、スワイプまたはボタン操作で行います。
+*   **シュートの狙い：** ドラッグ操作でコースを狙います。ホールドする長さでパワーを調整します。
 
-### よくある質問（FAQ）
+### よくある質問 (FAQ)
 
-- Keeper blocks everything—tips? 
-[JA TRANSLATION NEEDED] Shoot across goal and keep shots low or curled.
+*   **キーパーに全部止められてしまいます。コツは？**
+    ゴールの隅（サイドネット）を狙い、低めまたはカーブをかけたシュートでコースを作りましょう。
 
-- Passing too slow? 
-[JA TRANSLATION NEEDED] Lead into space and pass earlier.
+*   **パスが遅すぎますか？**
+    足元ではなくスペースへ走らせる意識で早めにスルーパスを出しましょう。
 
-- Defenders crowd me—fix? 
-[JA TRANSLATION NEEDED] Pass and move; don’t dribble into traffic.
+*   **ディフェンダーに囲まれてしまいます。どうすればいいですか？**
+    パス＆ゴー（パスを出してすぐ動く）を徹底し、混戦に無理なドリブルで突っ込まないようにしてください。

@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: mini-golf-world
-title: '[ZH TRANSLATION NEEDED] Mini Golf World'
+title: "《Mini Golf World》迷你高尔夫世界"
 description: >-
-  [ZH TRANSLATION NEEDED] Mini Golf World polishes putt‑putt — read slopes, bank
-  rails, and master pace for playful holes across themed worlds.
+  《Mini Golf World》是一款打磨精良的迷你高尔夫游戏，你需要读懂坡度、利用反弹轨迹并精准控制推杆力度，在各种主题球场中打出标准杆甚至一杆进洞。
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/mini-golf-world.png
 tags:
@@ -17,32 +16,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Mini Golf World is a crisp mini‑golf collection with ramps, windmills, and trick rails. Good scores come from precise pace control, smart bank lines, and patient timing on moving hazards.
+《Mini Golf World》收录了多样主题的迷你高尔夫球洞，包含斜坡、跳台、风车障碍以及各种诡异轨道。想要打出好成绩，你需要精确掌握推杆力度，利用球道边缘与挡板进行巧妙反弹，并在移动障碍之间寻找安全窗口。这款游戏看似休闲，想稳定拿到标准杆甚至小鸟球，却非常考验手感与路线规划。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Cup‑rim pace: Under‑hit near the hole to avoid lip‑outs.
-2.  [ZH TRANSLATION NEEDED] Bank lines: Use ~45° rails to redirect into corners consistently.
-3.  [ZH TRANSLATION NEEDED] Hazard cycles: Watch one full cycle before hitting through moving parts.
-4.  [ZH TRANSLATION NEEDED] Two‑putt logic: Set up a tap‑in instead of risking a wild hole‑in‑one.
-5.  [ZH TRANSLATION NEEDED] Camera scouting: Pan/zoom to pre‑read slopes and hidden rails.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **洞口附近控制力度：** 在靠近洞杯时宁可轻推一点，也不要用力过猛导致“掠洞而过”，形成绕洞一圈却不进洞的尴尬局面。
+2.  **利用 45° 反弹：** 在很多关卡中，可以借助近似 45° 的墙面或轨道做准星反弹，将球可靠地引导进转角或窄道中，比直接硬冲更稳定。
+3.  **观察移动障碍节奏：** 面对风车叶片、往复门、升降平台等动态机关，建议先观察完整运转周期，再选择出杆时机，避免白白被弹回起点。
+4.  **两杆思维：** 不必每次都强求“一杆进洞”，很多球洞采用“先把球送到洞口附近、再轻推收尾”的两杆策略，更容易稳定控制总杆数。
+5.  **提前勘察球道：** 若游戏支持视角拖动或缩放，可在推杆前先全图浏览一遍，了解坡度走向、隐藏轨道和潜在坑洞，再决定最优路线。
 
-- Aim with cursor; pull back to set power; release to putt; reset if stuck.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 使用鼠标或手指拖动调整击球方向与力度：拖得越远，出杆力量越大；松手即可击球。如球被困在奇怪位置，可使用重置功能重新从起始点开球（具体规则视关卡设定而定）。
 
-- Q: Why do I rim out?
+### 常见问题（FAQ）
+
+- **问：为什么经常球滚到洞口又弹出去？**
   
-[ZH TRANSLATION NEEDED]   A: Too much pace or a bad entry angle — slow down and adjust approach.
+  **答：** 这种“绕洞”情况多半是力度过大或入洞角度不理想。尝试在洞口前一推留更多缓冲距离，或从更接近直线的方向推球进入。
 
-- Q: Any universal bank tip?
+- **问：有通用的反弹技巧吗？**
   
-[ZH TRANSLATION NEEDED]   A: Aim slightly inside 45° to compensate for speed loss on rails.
+  **答：** 在理想情况下，球以约 45° 角撞上直线墙面时会近似“入射角等于反射角”，但实际游戏中会有摩擦和减速，可以略微往内侧收一点角度来补偿能量损失。
 
-- Q: Is there a stroke limit?
+- **问：关卡有击球次数限制吗？**
   
-[ZH TRANSLATION NEEDED]   A: Many holes cap strokes; plan two‑putts to stay under par.
-
+  **答：** 很多洞都会设定标准杆或最大击球次数，过多的试错会让你超出标准。建议用“两杆策略”思路，先保证稳定上果岭，再考虑优化击球路线降低杆数。

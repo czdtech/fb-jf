@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: dalgona-game
-title: '[ZH TRANSLATION NEEDED] Dalgona Game'
+title: "Dalgona Game 鱿鱼游戏椪糖挑战"
 description: >-
-  [ZH TRANSLATION NEEDED] Dalgona Game recreates honeycomb carving — trace
-  shapes carefully, manage cracks, and finish before time runs out.
+  《Dalgona Game 鱿鱼游戏椪糖挑战》还原韩式椪糖刻图玩法。你需要沿着糖饼上压印的图案小
+  心描边，控制裂痕，在倒计时结束前成功掏出完整图形。
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/dalgona-game.png
 tags:
@@ -17,31 +17,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve out the stamped shape by following edges; too much pressure or off‑path cuts crack the candy and fail the round.
+《Dalgona Game 鱿鱼游戏椪糖挑战》是一款考验手感与耐心的描边小游戏，灵感来源于韩式椪糖
+（蜂窝糖）刻图传统。你需要沿着糖片上压出的星星、圆形、雨伞等图案边缘，一点点刻出轮廓
+。用力过猛或偏离纹路，都会让糖片出现裂纹甚至直接碎裂，本局挑战宣告失败。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Slow and steady near corners; speed only on straight segments.
-2.  [ZH TRANSLATION NEEDED] Follow grooves; don’t force turns across the grain.
-3.  [ZH TRANSLATION NEEDED] Watch micro‑cracks; if they spread, lift and re‑approach.
-4.  [ZH TRANSLATION NEEDED] Save tight angles for last after stabilizing long edges.
-5.  [ZH TRANSLATION NEEDED] Manage the timer by alternating quick/slow sections.
+
+1.  **转角处一定要慢：** 在直线段可以适当加快描边速度，但一到拐角或尖锐角时就要放慢，
+    先停一下再转向，避免因为急转造成裂纹。  
+2.  **沿着凹槽走，不要“抄近路”：** 图案本身刻出了细微凹槽，你的轨迹应尽量紧贴这条线，而
+    不是试图在糖面上“切直线抄捷径”，那样更容易崩边。  
+3.  **注意细小裂纹的预警：** 如果看到糖片边缘出现微小裂痕或颜色变化，说明力度或角度已
+    经接近极限，先松手让工具离开，再从稍远一点的地方重新切入。  
+4.  **先稳住长边，再攻克细节：** 建议先把轮廓中较长、较平直的部分刻好，确保整体结构稳
+    定，再回头处理星角、伞柄等细小、难度高的区域。  
+5.  **节奏控制与倒计时：** 合理安排“快段”和“慢段”：在安全直线处提速，节省时间，然后把充
+    裕的剩余时间留给需要极细操作的拐角和尖角。  
 
 ### Controls Guide
 
-- Drag to trace the outline; pressure/angle sensitivity varies by build.
-- Restart quickly on breaks.
+- 按住并拖动即可沿图案描边，游戏可能根据版本对拖动速度或角度有限制；  
+- 糖片破碎后可通过界面按钮快速重开当前图案。  
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep cracking near corners — how to fix?
-  
-[ZH TRANSLATION NEEDED]   A: Reduce speed, take wider arcs if allowed, and pause before turning sharply.
+- **Q: 为什么总是在拐角位置把糖片刻裂？**  
+  **A：** 多半是转向时速度太快或转弯半径太小。尝试在转弯前稍微停顿，放慢拖动速度，并在
+  允许的情况下走略微宽一点的弧线，而不是硬折直角。  
 
-- Q: Is pressure modeled?
-  
-[ZH TRANSLATION NEEDED]   A: Some builds simulate pressure; gentle drags are safer near delicate edges.
+- **Q: 游戏里有“力度判定”吗？**  
+  **A：** 某些版本会模拟力度或“压力感”，拖动过猛容易触发裂纹。尽量使用轻柔、匀速的拖动，
+  尤其是在图案细节处。  
 
-- Q: Any tips for stars/umbrellas?
-  
-[ZH TRANSLATION NEEDED]   A: Do long straights first, then carve the tight inner curves last.
-
+- **Q: 星星、雨伞这类复杂图案有什么小技巧？**  
+  **A：** 建议先处理外圈的长直线和平缓曲线，最后再集中精力刻内侧尖角与伞柄等细节部位
+  。提前打好“外框”能让你在细节时更有安全感，不容易手抖。  

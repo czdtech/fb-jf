@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: sprunki-like-minecraft
-title: '[ES] Sprunki Like Minecraft - Play Sprunki Like Minecraft Online'
+title: 'Sprunki Like Minecraft - Juega a Sprunki Like Minecraft online'
 description: >-
-  [ES] Are you both a loyal fan of Incredibox Sprunki and a passionate lover of
-  the pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will
-  definitely brighten your eyes!
+  ¿Eres fan de Incredibox Sprunki y también amante del mundo de píxeles de
+  Minecraft? Entonces Sprunki Like Minecraft Mod te va a encantar: une el
+  estilo de bloques clásico con la creación musical de Sprunki en una sola
+  experiencia.
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
 thumbnail: /sprunki-like-minecraft.png
 tags:
@@ -14,22 +15,38 @@ score: 4.6/5  (601 votes)
 ---
 
 
+Si eres a la vez fan fiel de Incredibox Sprunki y un apasionado del mundo
+pixelado de Minecraft, Sprunki Like Minecraft Mod está hecho para ti. Este mod
+único reimagina a los personajes de Sprunki con el estilo de bloques icónico de
+Minecraft, ofreciendo un aspecto totalmente nuevo sin renunciar a la jugabilidad
+clásica de Sprunki.
 
-Are you both a loyal fan of Incredibox Sprunki and a passionate lover of the pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will definitely brighten your eyes! This unique Mod reimagines the Sprunki characters with Minecraft's iconic blocky elements, bringing a refreshing visual experience while retaining Sprunki's classic gameplay.
+### ¿Qué es Sprunki Like Minecraft Mod?
 
-### What is Sprunki Like Minecraft Mod?
+Sprunki Like Minecraft Mod es una fusión creativa entre Incredibox Sprunki y el
+legendario mundo cúbico de Minecraft. En este mod, cada personaje de Sprunki se
+convierte en un avatar con estética Minecraft, y tanto la interfaz como los
+fondos se inspiran en el universo de bloques, creando una mezcla muy coherente
+entre ambos mundos.
 
-Sprunki Like Minecraft Mod is a creative fusion of Incredibox Sprunki and the iconic blocky world of Minecraft. In this Mod, each Sprunki character will be transformed into a Minecraft-style avatar, and the game interface and background will also draw inspiration from the theme of Minecraft, creating a harmonious blend between the two worlds.
+### Puntos destacados de Sprunki Like Minecraft Mod
 
-### What Are the Highlights of Sprunki Like Minecraft Mod?
+- **Diseños inspirados en Minecraft:** todos los personajes y la interfaz usan
+  pixel art y formas cúbicas para encajar con la estética de Minecraft.
+- **Jugabilidad interactiva:** arrastra y suelta personajes de Sprunki con
+  temática Minecraft sobre el escenario para construir pistas únicas.
+- **Diversión musical creativa:** combina sonidos y efectos para producir
+  mezclas originales y muy inmersivas.
 
-- **Minecraft-Inspired Designs:** All characters and the interface are styled in pixel art to match Minecraft’s aesthetic.
-- **Interactive Gameplay:** Drag and drop Minecraft-themed Sprunki characters to create unique tracks.
-- **Creative Musical Fun:** Experience endless sound combinations for an immersive experience.
+### Cómo crear música en Sprunki Like Minecraft Mod
 
+Este Incredibox Sprunki Like Minecraft Mod cumple el sueño tanto de fans de
+Minecraft como de Sprunki, ofreciendo una experiencia creativa y
+«cross‑over» muy divertida. Entra en este mundo de bloques sonoros y empieza tu
+viaje de creación musical ahora mismo.
 
-### How to Play the Music in Sprunki Like Minecraft Mod?
+¿A qué esperas? Entra en el mundo de Sprunki Like Minecraft, deja que las notas
+choquen con los píxeles y toca tu propia melodía de Minecraft con solo unos
+clics. Y si quieres seguir explorando, puedes probar otros mods de la serie,
+como Sprunki Interactive 1.0, Sprunki Kiss Edition o Sprunki Melodies.
 
-This Incredibox Sprunki Like Minecraft Mod perfectly meets the needs of Minecraft and Sprunki fans, providing a fun and creative cross-border experience. Dive into this blocky world and start your musical creation journey now!
-
-What are you waiting for? Come to the world of Sprunki Like Minecraft, let the notes collide with pixels, and play your Minecraft melody at your fingertips! If you also want to try other Sprunki series Mods, such as Sprunki Interactive 1.0, Sprunki Kiss Edition and Sprunki Melodies, then act quickly!

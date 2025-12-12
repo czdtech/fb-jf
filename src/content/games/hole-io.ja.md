@@ -1,42 +1,36 @@
 ---
+title: "Hole io"
+description: "街を飲み込む.io対戦ゲーム：ブラックホールを動かして物を食べ、大きく成長し、マップ上のライバルより高得点を出すか、消し去りましょう。"
+iframeSrc: "https://holeio.com/"
+thumbnail: "/new-images/hole-io.jpg"
+urlstr: "hole-io"
+score: "4.0/5  (606 votes)"
+tags: ["io", "arcade"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: hole-io
-title: '[JA TRANSLATION NEEDED] Hole io'
-description: >-
-  [JA TRANSLATION NEEDED] City‑swallowing .io brawler: move a black hole to eat
-  objects, grow larger, and outscore or eliminate rivals on the map.
-iframeSrc: 'https://holeio.com/'
-thumbnail: /new-images/hole-io.jpg
-tags:
-  - io
-  - arcade
-score: 4.0/5  (606 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Hole ioでは、破壊可能な街の中を動き回るブラックホールとしてプレイします。最初は小さなアイテム（三角コーン、ベンチ、人など）を食べ、サイズが大きくなるにつれて車、ビル、そして街区全体まで呑み込めるようになります。モードには、フリーフォーオール（全員対全員）のスコアレースや、対戦相手を飲み込んで倒すバトルバリアントがあります。
 
+### 遊び方
+- 最初は小さなオブジェクトの塊をターゲットにして急速に成長しましょう。
+- 序盤は公園や市場を通り、その後で車が多い通りに移動しましょう。
+- 大きくなったら、ビルの周りを回って分解し、飲み込める大きさにしましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Hole io drops you into a destructible city as a roaming black hole. Start by eating small items—cones, benches, people—then graduate to cars, buildings, and entire blocks as your size increases. Modes include free‑for‑all score chases and battle variants where you knock out opponents by swallowing them.
+### 操作方法
+- マウス/ドラッグまたはWASDで操縦。モードとタイマーはホストによって異なります。
 
-### How to Play
-- Target clusters of small objects first for rapid growth.
-- Path through parks/markets early, then move to car‑dense streets.
-- When large, circle buildings to break them into swallowable pieces.
+### ヒント
+- 成長するまでは大きなライバルを避けましょう。広い通りを逃げ道にします。
+- 成長ルートを計画しましょう。寄り道は貴重なタイマーの秒数を無駄にします。
+- ライバルより大きくなったら、角を使って閉じ込めましょう。
 
-### Controls
-- Mouse/drag or WASD to steer; modes and timers vary by host.
-
-### Tips
-- Avoid larger rivals until you’ve grown; escape down wide streets.
-- Plan a growth route; detours waste precious timer seconds.
-- Use corners to trap opponents once you outsize them.
-
-### FAQ
-- Q: How can I grow quickly at the start of the match?  
-[JA TRANSLATION NEEDED]   A: Prioritize dense clusters of tiny items before chasing cars or buildings.
-- Q: Can bigger holes eat me in this game?  
-[JA TRANSLATION NEEDED]   A: Yes—avoid direct paths and stay in open lanes until you grow.
-- Q: What mode should I pick for learning?  
-[JA TRANSLATION NEEDED]   A: FFA score mode is forgiving; practice routes without constant PvP.
-
+### よくある質問 (FAQ)
+- **Q: 試合開始時に素早く成長するには？**  
+  A: 車やビルを追いかける前に、小さなアイテムの密集地帯を優先しましょう。
+- **Q: このゲームで大きなホールに食べられますか？**  
+  A: はい。成長するまでは直接のルートを避け、オープンなレーンにいましょう。
+- **Q: 学習にはどのモードを選ぶべきですか？**  
+  A: FFAスコアモードは寛容です。常にPvP（対人戦）に晒されることなくルートを練習できます。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: jewel-academy
-title: '[KO] Jewel Academy'
+title: Jewel Academy 보석 아카데미
 description: >-
-  [KO] Enroll in the Jewel Academy and become a master of match-3 puzzles. Swap
-  colorful gems, create powerful special jewels, and solve hundreds of
-  challenging levels with unique objectives.
+  수백 개의 스테이지를 가진 3매치 퍼즐 게임 'Jewel Academy' 가이드입니다. 특수 보석을 만드는 콤보 요령과 스테이지별 목표를
+  효율적으로 달성하는 전략을 정리했습니다.
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/jewel-academy.png
 tags:
@@ -18,33 +17,71 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Jewel Academy*는 화려한 보석과 마법 학교를 배경으로 펼쳐지는
+클래식 3매치 퍼즐 게임입니다. 플레이어는 아카데미의 학생이 되어
+넓은 맵을 따라 수많은 스테이지를 진행하게 되며, 각 스테이지마다
+독특한 목표가 주어집니다.
 
-Jewel Academy is a rich and polished match-3 puzzle game that invites players to a world of colorful gems and magical challenges. As a student of the academy, you will progress through a vast map of levels, each with a unique objective. The core gameplay involves swapping adjacent jewels to create lines of three or more of the same color. By making strategic matches, you can create powerful special gems, overcome tricky obstacles, and solve hundreds of engaging puzzles.
+기본 규칙은 인접한 보석을 맞바꿔 같은 색 보석 3개 이상을
+한 줄로 만드는 것입니다. 전략적으로 매치를 만들어 **특수 보석**을
+생성하고, 장애물을 제거하며, 다양한 목표를 달성해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** **Look for Special Combos:** Don't just settle for matching three. Actively look for opportunities to match four or five jewels, as this is the key to creating powerful power-ups that can clear large sections of the board.
-2.  **[KO]** **Combine Power-ups:** The most effective way to clear difficult levels is by combining special jewels. For example, swapping an Arrow jewel with a Bomb jewel will clear three rows and three columns simultaneously. Swapping two Color Bombs together will clear the entire board!
-3.  **[KO]** **Focus on the Objective:** Always keep the level's goal in mind. If you need to clear certain blocked tiles, focus your matches in those areas. If you need to drop special items to the bottom, clear the jewels underneath them. Don't waste moves on matches that don't contribute to your goal.
-4.  **[KO]** **Work from the Bottom:** When possible, make matches near the bottom of the board. This causes more jewels to fall from the top, increasing the chances of creating automatic chain reactions or cascades, which can help you complete objectives without using extra moves.
+1. **특수 조합 노리기**  
+   단순히 3개 매치에 만족하지 말고, 4개·5개 매치를 적극적으로
+   노려 보세요. 이렇게 만들어지는 특수 보석은 한 번에 많은 칸을
+   지울 수 있어 난이도 높은 스테이지에서 필수적입니다.
 
-### Controls Guide
+2. **파워업끼리 조합하기**  
+   특수 보석끼리 교환하면 더 강력한 효과를 발동할 수 있습니다.  
+   예를 들어, 화살(줄 삭제) 보석과 폭탄 보석을 교환하면
+   가로·세로 3줄을 동시에 지우고, 컬러 폭탄 두 개를 교환하면
+   보드 전체를 싹 비워 버립니다.
 
-The game is played using a mouse or touch screen.
+3. **스테이지 목표에 집중하기**  
+   특정 타일을 없애야 하는 스테이지라면, 해당 구역 근처에서
+   매치를 만들어야 합니다. 아래로 내려야 하는 아이템이 있다면,
+   그 아래쪽 보석을 위주로 지우는 것이 중요합니다.  
+   목표와 상관없는 매치는 단지 턴만 낭비할 수 있습니다.
 
-*   **[KO]** **Swap Jewels:** Click on a jewel, then click on an adjacent jewel to swap their positions. Alternatively, you can click and drag a jewel to an adjacent spot. A swap is only valid if it results in a match of three or more.
-*   **[KO]** **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
+4. **가능하면 하단에서 플레이하기**  
+   보드의 아래쪽에서 매치를 만들면 위에서 새로운 보석이
+   많이 떨어지면서 연쇄 반응(캐스케이드)이 발생할 확률이 높습니다.
+   운 좋게 목표를 자동으로 달성하는 경우도 생깁니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-*   **[KO]** **Q: How do I create a Bomb?**
-    *   **[KO]** **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.
+마우스 또는 터치로 간단하게 플레이할 수 있습니다.
 
-*   **[KO]** **Q: What does the rainbow-colored jewel do?**
-    *   **[KO]** **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
+- **보석 교환**: 원하는 보석을 클릭한 뒤, 인접한 보석을
+  다시 클릭해 서로 위치를 맞바꾸거나, 드래그로 바로 옮깁니다.
+  3개 이상의 매치가 만들어지지 않으면 교환이 취소됩니다.  
+- **파워업 사용**: 특수 보석도 일반 보석과 동일하게 교환하면
+  효과가 발동합니다. 특수 보석끼리 교환하면 조합 효과가
+  발생합니다.
 
-*   **[KO]** **Q: Why did I run out of moves?**
-    *   **[KO]** **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
+### 자주 묻는 질문(FAQ)
+
+- **Q: 폭탄은 어떻게 만드나요?**  
+  **A:** L자나 T자 형태로 보석 5개를 매치하면 폭탄 보석이 생성됩니다.
+  폭탄은 주변 3x3 범위를 한 번에 날려 버립니다.
+
+    - **Q: 무지개색 보석은 어떤 기능인가요?**  
+  **A:** 5개를 일직선으로 매치하면 만들어지는 컬러 폭탄입니다.
+  인접한 보석과 교환하면, 그 색 보석이 보드 전체에서
+  모두 제거됩니다.
+
+- **Q: 왜 움직임이 다 떨어지면 게임 오버가 되나요?**  
+
+    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
+
+- **Q: Why did I run out of moves?**
+
+    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
+  **A:** 많은 스테이지는 제한된 이동 횟수 내에 목표를 달성해야 합니다.
+  남은 이동 없이 목표를 채우지 못하면 생명을 하나 소모하고
+  다시 도전해야 합니다.
 

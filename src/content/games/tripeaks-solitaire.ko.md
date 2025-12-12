@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: tripeaks-solitaire
-title: '[KO] Tripeaks Solitaire'
+title: "Tripeaks Solitaire 트리픽스 솔리테어"
 description: >-
-  [KO] Clear the three peaks in Tripeaks Solitaire! A fast-paced card game where
-  you match cards that are one rank higher or lower to clear the board.
+  세 개의 피라미드 모양 카드 더미를 모두 치우는 트리픽스 솔리테어입니다. 버림 패의 숫자보다
+  하나 높거나 낮은 카드를 연달아 내면서 긴 연속 콤보를 만들고, 패산이 떨어지기 전에 보드를
+  깨끗이 비우는 것이 목표입니다.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/tripeaks-solitaire.png
 tags:
@@ -16,36 +17,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tripeaks Solitaire는 골프 솔리테어와 피라미드 솔리테어의 요소를 결합한 빠른 템포의 솔리테어
+변형 게임입니다. 게임 이름처럼 카드가 세 개의 피크(봉우리) 모양으로 겹쳐져 배치되며, 중앙의
+버림 패 위에 "숫자가 한 단계 차이 나는 카드"를 눌러 내며 보드를 정리해 나가는 것이 특징입니다.
 
-### Detailed Game Introduction
+목표는 패산이 바닥나기 전에 테이블 위의 모든 카드를 제거하는 것입니다. 연속해서 많은 카드를
+한 번에 이어서 내면 높은 콤보 보너스를 얻을 수 있어, 단순 운이 아니라 어떤 카드를 먼저 치울지
+순서를 계획하는 전략도 중요합니다.
 
-Tripeaks Solitaire is a popular and fast-paced solitaire variant that combines elements of Golf Solitaire and Pyramid Solitaire. The game gets its name from the initial layout of the cards, which are dealt into three overlapping pyramids, or "peaks." The objective is to clear the entire tableau by selecting cards that are one rank higher or lower than the card on the waste pile, creating long runs and clearing the board before you run out of cards in your stock.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **목표 파악하기**: 최종 목표는 세 개의 봉우리(피크)에 놓인 카드를 포함해 테이블의 모든 카드를
+    지우는 것입니다. 봉우리의 꼭짓점 카드부터 차근차근 없애야 아래 카드들이 드러납니다.
+2.  **카드 내기 규칙 이해하기**: 버림 패에 놓인 카드보다 숫자가 정확히 한 단계 높은 카드나 한 단계
+    낮은 카드를 낼 수 있습니다. 예를 들어 버림 카드가 7이라면, 6이나 8 중 어느 쪽이든 낼 수 있고,
+    무늬는 상관없습니다.
+3.  **에이스와 킹의 래핑 규칙**: 랭크는 양 끝에서 서로 연결됩니다. 킹(K) 위에는 에이스(A)를, 에이스
+    위에는 킹을 낼 수 있어, 막힌 상황에서 연속 콤보를 이어 가는 중요한 연결 고리가 됩니다.
+4.  **뒷면 카드 뒤집기**: 테이블에서 카드를 제거하면 그 아래에 가려져 있던 카드가 공개됩니다.
+    최대한 많은 뒷면 카드를 드러낼 수 있는 선택을 우선하면, 후반에 선택지가 넓어집니다.
+5.  **패산에서 뽑기**: 더 이상 낼 수 있는 카드가 없을 때는 패산을 클릭해 새 카드를 버림 패 위에
+    올립니다. 하지만 너무 자주 뽑으면 금방 바닥나므로, 가능한 한 패산을 뽑지 않고 긴 연속을 만드는
+    것이 고득점의 핵심입니다.
+6.  **롱 런(긴 연속) 만들기**: 한 번 패산을 뽑은 뒤에는, 가능한 한 많은 카드를 끊기지 않고 이어서
+    내세요. 한 번의 연속에서 제거한 카드 수가 많을수록 콤보 보너스가 커집니다.
 
-1.  **[KO]** **The Goal:** Clear all cards from the three peaks on the tableau.
-2.  **[KO]** **Making a Move:** Look at the face-up card on the waste pile. You can click on any face-up card from the tableau that is one rank directly above or below it. For example, if the waste card is a 7, you can play either a 6 or an 8 from the tableau onto it. Suit does not matter.
-3.  **[KO]** **Aces and Kings:** The ranks are wrapping. This means you can place a King on an Ace, and an Ace on a King, which is crucial for extending your runs.
-4.  **[KO]** **Uncovering Cards:** When you remove a card from the tableau, any face-down cards beneath it are turned over, making them available for play.
-5.  **[KO]** **Drawing from Stock:** If you can no longer make any matches from the tableau, click on the stock pile to deal a new card onto the waste pile, giving you a new base card to play on.
-6.  **[KO]** **Creating Long Runs:** The key to a high score is to create the longest possible sequence of moves without drawing from the stock pile. Each card cleared in a single run increases the combo bonus.
+### 조작 방법 안내
 
-### Controls Guide
+게임은 마우스 클릭이나 터치만으로 즐길 수 있습니다.
 
-The game is played entirely with the mouse or by tapping.
+*   **카드 내기**: 낼 수 있는 열린 카드(앞면 카드)를 클릭하면 버림 패 위로 이동합니다.
+*   **새 카드 뽑기**: 더 이상 낼 카드가 없을 때, 패산 더미를 클릭해 새 카드를 한 장 뒤집습니다.
 
-*   **[KO]** **Play a Card:** Click on a valid face-up card on the tableau to move it to the waste pile.
-*   **[KO]** **Draw a Card:** Click on the face-down stock pile when you have no other moves.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 이 게임의 주 목표는 무엇인가요?**  
+    *   **A:** 패산을 모두 소진하기 전에 테이블의 세 개 봉우리 카드와 나머지 모든 카드를 제거하는
+        것입니다.
 
-*   **[KO]** **Q: What is the main objective?**
-    *   **[KO]** **A:** To clear all three peaks of cards from the tableau before you exhaust your stock pile.
+*   **Q: 킹 위에 2를 올릴 수 있나요?**  
+    *   **A:** 아니요. 한 단계 차이만 허용됩니다. 킹 위에는 퀸(Q)이나 에이스(A)만 낼 수 있고, 에이스
+        위에는 킹이나 2를 낼 수 없습니다.
 
-*   **[KO]** **Q: Can I place a 2 on a King?**
-    *   **[KO]** **A:** No. You can only place a card that is one rank away. On a King, you can only place a Queen or an Ace (because the ranks wrap).
-
-*   **[KO]** **Q: What happens if I run out of cards in the stock pile but there are still cards on the tableau?**
-    *   **[KO]** **A:** If your stock pile is empty and you have no more legal moves to make from the tableau, the game is over and you have lost that round.
-
+*   **Q: 패산 카드가 다 떨어졌는데 테이블에 카드가 남아 있어요. 어떻게 되나요?**  
+    *   **A:** 패산이 비었고 더 이상 낼 수 있는 카드 조합이 없다면 그 라운드는 패배로 끝나며,
+        스테이지를 다시 시작해야 합니다.

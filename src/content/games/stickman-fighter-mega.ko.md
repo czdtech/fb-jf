@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: stickman-fighter-mega
-title: '[KO] Stickman Fighter Mega'
+title: 'Stickman Fighter Mega 스틱맨 파이터 메가'
 description: >-
-  [KO] Stickman Fighter Mega is a kinetic brawler — time parries, chain combos,
-  and dismantle waves with specials and spacing.
+  Stickman Fighter Mega는 패링 타이밍과 거리 조절이 중요한 2D 스틱맨 벨트스크롤
+  액션 게임입니다. 적의 공격을 받아치고 콤보와 스페셜 스킬로 몰려오는 적
+  물결을 쓸어 버리세요.
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/stickman-fighter-mega.jpg
 tags:
@@ -16,34 +17,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Stickman Fighter Mega는 옆에서 바라보는 벨트스크롤 방식의 격투 게임으로,
+패링 타이밍과 거리를 재는 센스를 요구합니다. 적들은 공격 동작을 비교적
+분명하게 예고하고, 플레이어는 이를 노려 패링과 공중 콤보, 광역 스페셜 기술로
+처치해야 합니다. 웨이브가 진행될수록 방패병, 원거리 투척병, 체력이 높은 중장갑
+적 등이 섞여 나와 상황에 맞는 대응이 중요해집니다.
 
-Stickman Fighter Mega is a side‑view beat ’em up focused on counter‑timing and spacing. Enemies telegraph swings; punish them with parries, juggles, and area specials. Later waves mix shielded foes, ranged throwers, and heavies that demand varied answers.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **패링 타이밍 익히기:**
+    패링이 성공하면 카운터 히트로 추가 피해를 줄 수 있습니다. 적의 공격 모션을
+    잘 관찰해, 막기/패링 입력 타이밍을 몸에 익혀 두세요.
+2.  **간격 유지:**
+    적의 공격 사거리 바로 바깥에서 싸우는 것이 안전합니다. 공격이 나온
+    순간에만 한 걸음 파고들어 치고 빠지는 식으로 운영해 보세요.
+3.  **우선 순위 타깃 정하기:**
+    빠른 단검이나 원거리 공격을 하는 적을 먼저 쓰러뜨리고, 느리고 단단한
+    중장갑 적은 거리를 벌리며 천천히 처리하는 것이 좋습니다.
+4.  **스페셜 게이지 관리:**
+    광역 스페셜 스킬은 적이 여러 마리 한꺼번에 등장하는 웨이브에 쓰는 것이
+    가장 효율적입니다. 한두 명만 있을 때는 아껴 두는 편이 좋습니다.
+5.  **콤보 루트 연습:**
+    가벼운 공격→강 공격→날리기→공중 콤보처럼, 자주 쓰게 될 기본 콤보 루트를
+    익혀 두면 딜로스 없이 안정적으로 웨이브를 밀어낼 수 있습니다.
 
-1.  **[KO]** Parry window: Learn the parry frame and fish counter‑hits for bonus damage.
-2.  **[KO]** Spacing: Fight just outside enemy reach; step in only on swings.
-3.  **[KO]** Target priority: Delete ranged/fast daggers first; kite heavies.
-4.  **[KO]** Special economy: Save AOEs for multi‑spawn waves.
-5.  **[KO]** Combo routes: Light→Heavy→Launcher→Air juggles are high value.
+### 조작 방법 안내
 
-### Controls Guide
+- 이동: 방향키 또는 `A/D`
+- 공격: `J`/`K`
+- 스페셜 스킬: `L`
+- 막기/패링: `I` (버전에 따라 다를 수 있음)
+- 일시정지/재시작: 화면 UI 버튼 사용
 
-- Move: Arrows/A/D; Attack: J/K; Special: L; Block/Parry: I (varies). Pause/Retry via UI.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 계속 맞기만 해서 스턴에 걸려요.**
 
-- Q: I get stun‑locked.
+  A: 연타로 대응하기보다, 중간중간 막기 키를 눌러 연속 타를 끊고, 틈이 보일
+  때 구르기나 후퇴로 거리를 벌려 보세요. 단단한 적에게는 억지로 파고들지
+  않는 것이 좋습니다.
 
-A: Hold block between hits and roll out; don’t mash into armor.
+- **Q: 스페셜 스킬이 너무 약한 것 같아요.**
 
-- Q: Specials feel weak.
+  A: 적이 한두 명일 때 쓰면 효율이 떨어집니다. 여러 마리가 한꺼번에
+  등장하는 웨이브에서 피격 범위를 최대한 많이 맞추도록 사용해야 강력함을
+  체감할 수 있습니다.
 
-A: Use them as finishers on clustered waves, not on single targets.
+- **Q: 초반에 어떤 콤보를 연습하면 좋을까요?**
 
-- Q: Best starter combo?
-
-A: Light×2→Heavy→Launcher→Air Light×2.
-
+  A: 가벼운 공격 두 번 → 강 공격 → 날리기 → 공중 가벼운 공격 두 번 같은
+  기본 콤보를 반복 연습해 두면, 대부분의 웨이브에서 안정적으로 활용할 수
+  있습니다.

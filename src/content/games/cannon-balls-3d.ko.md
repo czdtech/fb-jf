@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cannon-balls-3d
-title: '[KO] Cannon Balls 3D'
+title: Cannon Balls 3D 캐논 볼스 3D
 description: >-
-  [KO] Ready, aim, fire! Demolish structures with your cannon in this satisfying
-  3D physics puzzle. Aim for the weak spots and use your limited ammo wisely to
-  bring everything crashing down.
+  Cannon Balls 3D는 대포를 조준해 다양한 구조물을 부수는 3D 물리 퍼즐 게임입니다. 약점을 노려 제한된 탄환만으로 건물을
+  무너뜨리고, 시원한 붕괴 연출을 즐겨 보세요.
 iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
 thumbnail: /new-images/cannon-balls-3d.png
 tags:
@@ -19,32 +18,49 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Cannon Balls 3D is a satisfying physics-based puzzle game where you take control of a powerful cannon to demolish various structures. Each level presents you with a unique building or arrangement of blocks, and your goal is to destroy it using a limited number of cannonballs. Success requires not just good aim, but also a strategic eye for identifying structural weak points to cause maximum collapse with minimum shots.
+*Cannon Balls 3D*는 대포를 조종해 각종 구조물을 파괴하는 물리 기반 퍼즐 게임입니다.
+각 스테이지마다 모양이 다른 건물이나 블록 구조물이 등장하며, 제한된 수의 포탄으로
+목표 높이 이하로 무너뜨려야 합니다. 단순히 아무 곳이나 쏘는 것이 아니라, 구조적인
+약점을 찾아 최소한의 탄환으로 최대 붕괴를 유도하는 전략이 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** **Analyze the Structure:** Before you fire your first shot, take a moment to examine the building. Look for key support blocks at the base, explosive barrels, or any other potential weak points. The goal is to start a chain reaction.
-2.  **[KO]** **Aim for the Foundation:** The most effective strategy is often to destroy the lowest blocks first. Taking out the foundation can cause the entire structure above it to become unstable and collapse on its own, saving you precious ammunition.
-3.  **[KO]** **Conserve Your Ammo:** You only have a limited number of cannonballs per level. Make every shot count. Avoid taking potshots at the top of the structure unless it's necessary to hit a specific target.
-4.  **[KO]** **Use Special Blocks:** Keep an eye out for special blocks like explosive TNT crates. Hitting one of these can create a large explosion, clearing a significant portion of the structure and saving you multiple cannonballs.
+1. **구조 분석부터:** 첫 발을 쏘기 전에 건물을 잠시 관찰해 보세요. 밑부분의 핵심
+   지지 블록, 폭발물, 균형을 잡고 있는 기둥 등을 찾아야 합니다.
+2. **기초부 노리기:** 대부분의 경우, 상단보다 하단 지지대를 부수는 편이 효율적입니다.
+   기초를 무너뜨리면 위 구조물이 스스로 무너져 추가 탄환을 아낄 수 있습니다.
+3. **탄약 아끼기:** 각 레벨에는 사용할 수 있는 포탄 수가 정해져 있으니, 무조건
+   연사하기보다는 한 발 한 발 신중하게 쏘세요. 꼭 필요한 경우가 아니면 상단 장식만
+   노리는 샷은 피하는 것이 좋습니다.
+4. **특수 블록 활용:** TNT 상자 같은 폭발 블록은 한 번의 명중으로 넓은 범위를
+   파괴할 수 있습니다. 이들을 우선적으로 노려 연쇄 붕괴를 유도하세요.
 
-### Controls Guide
+### 조작 방법
+
 
 The controls are simple and direct.
+- **조준:** 마우스를 움직여 대포의 방향과 각도를 조절합니다.
+- **발사:** 마우스 왼쪽 버튼을 클릭해 포탄을 발사합니다.
 
-*   **[KO]** **Aim the Cannon:** Use your mouse to aim. Move it left and right to rotate the cannon, and up and down to set the angle of your shot.
-*   **[KO]** **Fire:** Click the left mouse button to fire a cannonball.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 레벨을 클리어했는지 어떻게 알 수 있나요?**  
+  **A:** 대부분의 스테이지에는 목표 높이가 표시되어 있으며, 구조물의 남은 부분이 그
+  선 아래로 완전히 내려가면 자동으로 클리어됩니다.
 
-*   **[KO]** **Q: How do I know if I've passed the level?**
-    *   **[KO]** **A:** Each level has a goal, often indicated by a horizontal line. You must cause the structure to collapse until all remaining parts are below this line. Once you do, you automatically pass the level.
+    - **Q: 탄환이 다 떨어졌는데도 구조물이 너무 높아요.**  
+  **A:** 그 경우에는 레벨을 재시작하고 다른 약점을 노리는 전략을 시도해야 합니다.
+  첫 몇 발의 위치를 바꾸는 것만으로도 결과가 크게 달라질 수 있습니다.
 
-*   **[KO]** **Q: I ran out of cannonballs but the structure is still too high. What do I do?**
-    *   **[KO]** **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.
+- **Q: 빠르게 쏘는 게 좋나요, 천천히 조준하는 게 좋나요?**  
 
-*   **[KO]** **Q: Is it better to shoot fast or aim carefully?**
-    *   **[KO]** **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.
+    - **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.
 
+- **Q: Is it better to shoot fast or aim carefully?**
+
+    - **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.
+  **A:** 제한 탄환 구조에서는 조준을 신중히 해서 한 발 한 발의 효율을 최대화하는 것이
+  훨씬 중요합니다. 잘 맞춘 한 발이 엉성한 여러 발보다 훨씬 큰 붕괴를 일으킬 수
+  있습니다.

@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: incredibox
-title: '[KO] Incredibox - Play Incredibox Online'
+title: "Incredibox 인크레디박스 온라인 플레이"
 description: >-
-  [KO] Want to create your own exclusive hit song with a group of quirky
-  beatboxers? Incredibox can make your dream come true! This game is part game,
-  part music creation tool, and offers musical fun for people of all ages.
+  개성 넘치는 비트박서들과 함께 나만의 히트곡을 만들고 싶나요? Incredibox는 게임과
+  음악 제작 도구의 재미를 동시에 담은 작품으로, 남녀노소 누구나 직관적인 조작만으로
+  자신만의 비트와 멜로디를 만들어볼 수 있는 리듬 게임입니다.
 iframeSrc: 'https://nom74100.github.io/in-box/'
 thumbnail: /Incredibox.png
 tags:
@@ -16,48 +16,72 @@ score: 4.9/5  (724 votes)
 
 
 
-### Introducing to Incredibox
+### Incredibox 소개
 
-Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages. Today, let's step into the world of Incredibox and explore its various versions, gameplay mechanics, so you can easily get started and play a musical carnival at your fingertips!
+*Incredibox 인크레디박스*는 개성 강한 비트박서들을 조합해 나만의 곡을 만드는
+음악 제작형 리듬 게임입니다. 게임이면서 동시에 간단한 음악 툴 역할도 하기 때문에,
+음악 이론을 몰라도 누구나 쉽게 비트와 멜로디를 쌓아 올리며 “히트곡”을 만드는
+즐거움을 느낄 수 있습니다.  
+지금부터 Incredibox의 세계와 다양한 버전, 그리고 기본적인 플레이 방식을 함께 살펴보며,
+손끝으로 즐기는 음악 페스티벌에 입장해 봅시다!
 
-### How to Play Incredibox?
+### Incredibox는 어떻게 플레이하나요?
 
-Incredibox's core gameplay is delightfully simple:
+Incredibox의 핵심 게임 플레이는 매우 단순하지만, 조합에 따라 무궁무진한 결과를 만들어냅니다.
 
-- **Choose Characters:** You'll see a group of cute beatboxers, each representing a different sound or musical element.
-- **Drag and Drop:** Drag and drop various icons onto these characters, assigning them different sounds to create rhythmic melodies.
-- **Create:** Feel free to try different combinations, discover unique beats, and create your own musical masterpiece!
-
-
----
-
-### What Are the Different Versions of Incredibox?
-
-While the core gameplay remains the same, each Incredibox version has its own unique characters, sounds, and themes. Here's a rundown of the most popular versions:
-
-- **V1 Alpha:** The beginning of it all! Classic beatboxing style with jazz and funk influences. You can hear scratches, human beatboxing, and deep basslines.
-- **V2 Little Miss:** The style is cuter and the style is more relaxed! The characters are cute, and the sounds are mainly a cappella and beatboxing, focusing on vocal elements such as whistles, tongue trills, and scat singing.
-- **V3 Sunrise:** Ready for a tropical trip? V3 has a bright and cheerful atmosphere, with steel drums, marimbas, and xylophones, making your works full of summer island style.
-- **V4 The Love:** As you can see, V4 focuses on romantic themes. Soulful vocals, acoustic guitars, and smooth saxophones are the perfect choices for creating love songs and moving ballads.
-- **V5 Brazil:** V5 ignites your passion with vibrant Brazilian music! Explosive rhythms and rich percussion instruments (such as cuicas, pandeiros, and berimbaus) allow you to be instantly immersed in the sea of samba.
-- **V6 Alive:** V6 takes you into nature! Flutes, didgeridoos, handpans and other instruments blend perfectly with natural sound effects such as bird chirping and flowing water, creating a peaceful and natural soundscape.
-- **V7 Jeevan:** Take a musical journey to India! V7 incorporates traditional Indian instruments such as the sitar and tabla, making your music full of exotic charm.
-- **V8 Dystopia:** Ready to welcome dark and industrial sounds? V8 has heavy bass, distorted guitars, and electronic synthesizers, which are most suitable for creating dark and avant-garde beats.
-- **V9 Wekiddy:** Let yourself go and have fun! V9 uses a cartoon theme and various quirky sound effects (such as laser beams, robots, and funny vocals) to let you create interesting and nonsensical beats.
-- **Orin Ayo:** This special version is launched by Incredibox in cooperation with the MIT Scratch programming platform. You can learn programming knowledge while enjoying the fun of music creation!
-
+- **캐릭터 선택:** 화면에 여러 명의 비트박서 캐릭터가 서 있고, 각자 다른 사운드나 악기 역할을 맡습니다.
+- **드래그 & 드롭:** 화면 아래의 아이콘을 캐릭터에게 끌어다 놓으면 해당 캐릭터가 새로운 소리를
+  담당하게 되어, 리듬과 멜로디가 층층이 쌓입니다.
+- **창작:** 다양한 조합을 마음껏 시도해 보며, 자신만의 비트와 곡 구조를 찾아가 보세요.
+  아주 간단한 조작만으로도 완성도 높은 트랙을 만들 수 있습니다.
 
 ---
 
-### Incredibox Tips:
+### Incredibox의 다양한 버전은 무엇이 다른가요?
 
-- **Experiment boldly:** Don't be afraid to try different combinations, you may find unexpected surprises!
-- **Listen carefully:** Pay attention to how different sounds blend together to create a sense of rhythm.
-- **Start gradually:** If you are a novice, start with simple loops and then gradually increase the complexity.
-- **Use repetition:** Repeating certain sounds can create catchy melodies.
-- **Share:** After creating a satisfactory work, don't forget to share it with your friends!
+핵심 시스템은 동일하지만, Incredibox의 각 버전은 캐릭터 디자인, 사운드, 분위기가 완전히 다릅니다.
+대표적인 인기 버전들을 간단히 살펴보면 다음과 같습니다.
 
+- **V1 Alpha:** 모든 것의 시작점이 된 클래식 버전입니다. 재즈와 펑크의 영향을 받은 전통적인
+  비트박싱 스타일로, 스크래치, 휴먼 비트박스, 깊은 베이스 라인 등을 들을 수 있습니다.
+- **V2 Little Miss:** 한층 더 귀엽고 가벼운 분위기의 버전입니다. 캐릭터 디자인이 아기자기하고,
+  휘파람, 혀 트릴, 스캣 싱잉 등 보컬 중심의 아카펠라 및 비트박스 사운드가 강조됩니다.
+- **V3 Sunrise:** 열대 지역으로 음악 여행을 떠나고 싶을 때 어울립니다. 스틸 드럼, 마림바,
+  실로폰 등이 만들어 내는 밝고 청량한 사운드 덕분에, 곡 전체가 여름 섬 리조트 분위기로
+  가득 차게 됩니다.
+- **V4 The Love:** 이름처럼 로맨틱한 분위기에 초점을 둔 버전입니다. 감성적인 보컬, 어쿠스틱 기타,
+  부드러운 색소폰 등이 조합되어, 사랑 노래나 발라드를 만들기에 제격입니다.
+- **V5 Brazil:** 브라질 음악 특유의 열정이 폭발하는 버전입니다. 쿠이카, 판데이루, 베림바우 같은
+  타악기가 만들어 내는 폭발적인 리듬 덕분에, 금방이라도 삼바 퍼레이드 속으로 빨려 들어가는 듯한
+  기분을 느낄 수 있습니다.
+- **V6 Alive:** 자연과의 조화를 테마로 한 버전입니다. 플루트, 디저리두, 핸드팬 같은 악기들이
+  새소리, 물 흐르는 소리 등 자연 효과음과 어우러져, 평화롭고 명상적인 사운드스케이프를
+  만들어 냅니다.
+- **V7 Jeevan:** 인도로 떠나는 음악 여행 버전입니다. 시타르, 타블라 등 전통 인도 악기가
+  적극적으로 사용되어, 이국적인 분위기의 트랙을 만들 수 있습니다.
+- **V8 Dystopia:** 어둡고 산업적인 사운드를 좋아한다면 이 버전이 제격입니다. 묵직한 베이스,
+  디스토션 기타, 전자 신시사이저가 중심이 되어, 다크하고 실험적인 비트를 만들 수 있습니다.
+- **V9 Wekiddy:** 마음껏 장난치고 싶은 사람을 위한 버전입니다. 레이저 빔, 로봇 음성, 우스꽝스러운
+  보이스 등 각종 기괴한 효과음이 등장해, 유쾌하고 정신없는 카툰 스타일의 곡을 만들 수 있습니다.
+- **Orin Ayo:** MIT의 프로그래밍 플랫폼 Scratch와 협업해 제작된 특수 버전입니다. 음악을 만들면서
+  동시에 기초적인 프로그래밍 개념도 함께 배울 수 있는 교육용 느낌의 콘텐츠입니다.
 
-### Conclusion:
+---
 
-With its intuitive gameplay, vibrant graphics, and endless creative possibilities, Incredibox brings endless fun to music lovers and aspiring beatboxers. What are you waiting for? Come and unleash your inner musical genius!
+### Incredibox 플레이 팁
+
+- **과감하게 실험하기:** 다양한 아이콘 조합을 마음껏 시도해 보세요. 의외의 곳에서
+  아주 멋진 패턴이 튀어나올 수 있습니다.
+- **귀로 집중해서 듣기:** 각 사운드가 서로 어떻게 어우러지는지, 리듬과 하모니가 어떻게 만들어지는지
+  귀 기울여 들어보면 더 좋은 조합을 찾기 쉬워집니다.
+- **단계적으로 복잡도 올리기:** 처음에는 단순한 루프 구조로 시작한 뒤, 점점 더 많은
+  사운드를 추가하면서 곡을 확장해 나가는 편이 좋습니다.
+- **반복 활용하기:** 특정 사운드를 적절히 반복하면 귀에 착 달라붙는 후크와 멜로디를 만들 수 있습니다.
+- **공유하기:** 마음에 드는 트랙을 완성했다면, 링크를 친구들과 공유해 자랑해 보세요.
+
+### 마무리
+
+직관적인 조작, 생동감 넘치는 비주얼, 그리고 무한한 창작 가능성을 갖춘 *Incredibox 인크레디박스*는
+음악을 좋아하는 사람은 물론, 비트박스와 리듬 게임에 관심 있는 모든 플레이어에게 특별한 경험을
+선사합니다.  
+지금 바로 Incredibox를 실행하고, 당신 안에 숨겨진 음악적 재능을 마음껏 펼쳐 보세요!

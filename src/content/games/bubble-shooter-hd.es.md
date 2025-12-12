@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bubble-shooter-hd
-title: '[ES] Bubble Shooter HD'
+title: "Bubble Shooter HD"
 description: >-
-  [ES] Enjoy the classic and highly addictive Bubble Shooter HD! Aim your bubble
-  and match three or more of the same color to clear the board.
+  Disfruta del clásico y adictivo Bubble Shooter HD. Apunta tu burbuja y forma
+  grupos de tres o más del mismo color para limpiar el tablero.
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
 thumbnail: /new-images/bubble-shooter-hd.png
 tags:
@@ -16,34 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bubble Shooter HD es una versión pulida y en alta definición del eterno puzle de
+reventar burbujas. El objetivo es limpiar el campo de juego formando grupos de
+al menos tres burbujas del mismo color. Con una jugabilidad sencilla e
+intuitiva, gráficos nítidos y reacciones en cadena muy satisfactorias, ofrece
+horas y horas de diversión estratégica para jugadores de cualquier nivel.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  **Apunta con cuidado:** El juego muestra una guía de trayectoria para ayudar
+    en el apuntado. Úsala para planificar con precisión, sobre todo en tiros con
+    rebote.
+2.  **Domina los tiros con rebote:** Rebota las burbujas en las paredes laterales para
+    llegar a zonas difíciles. Controlar estos tiros es clave en tableros
+    avanzados.
+3.  **Ataca desde arriba:** Prioriza las burbujas que sostienen grupos
+    inferiores. Al cortar la conexión en un punto alto puedes provocar una gran
+    cascada de burbujas que caen, logrando muchos puntos y despejando el tablero
+    más rápido.
+4.  **Planifica con antelación:** Fíjate en el color de la próxima burbuja en el
+    lanzador. Así podrás pensar tus jugadas de dos en dos y preparar mejores
+    combos.
+5.  **No malgastes disparos:** En muchas versiones, un cierto número de tiros
+    fallidos (que no forman grupo) hace que aparezca una nueva fila de burbujas
+    arriba, dificultando la partida. Procura que cada disparo cuente.
 
-Bubble Shooter HD is a polished, high-definition version of the timeless bubble-popping puzzle game. The goal is to clear the playing field by forming groups of three or more like-colored bubbles. With its simple, intuitive gameplay, crisp graphics, and satisfying chain reactions, this game offers endless hours of strategic fun for players of all skill levels.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+*   **Apuntar:** Mueve el ratón para orientar el lanzador.
+*   **Disparar:** Haz clic con el botón izquierdo para lanzar la burbuja.
 
-1.  **[ES]** **Aim Carefully:** The game provides a guideline to help you aim. Use it to plan your shots precisely, especially for complex ricochet moves.
-2.  **[ES]** **Bank Shots are Key:** Bounce bubbles off the side walls to get to hard-to-reach places. Mastering bank shots is crucial for tackling more advanced board layouts.
-3.  **[ES]** **Go for the Top:** Prioritize clearing bubbles that are holding up other bubbles. By severing the connection at a high point, you can cause a large cascade of bubbles to fall, earning massive points and clearing the board faster.
-4.  **[ES]** **Plan Ahead:** Pay attention to the color of the next bubble in your launcher. This allows you to plan two moves ahead and set up more effective combos.
-5.  **[ES]** **Don't Waste Shots:** In many versions, a certain number of missed shots (shots that don't create a match) will cause a new row of bubbles to appear at the top, increasing the difficulty. Make every shot count!
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+*   **P: ¿Cuál es el objetivo del juego?**
+    *   **R:** Limpiar todas las burbujas del tablero y conseguir la mayor
+        puntuación posible. Pierdes si las burbujas alcanzan la línea inferior.
 
-*   **[ES]** **Aim:** Move your mouse to aim the bubble launcher.
-*   **[ES]** **Shoot:** Click the left mouse button to fire a bubble.
+*   **P: ¿Cómo consigo más puntos?**
+    *   **R:** Cuanto mayor sea el grupo que eliminas de una vez, más puntos
+        recibes. Lo mejor es provocar reacciones en cadena: romper un pequeño
+        grupo que sujeta a muchos otros para que caigan de golpe.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What is the objective of the game?**
-    *   **[ES]** **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.
-
-*   **[ES]** **Q: How do I get more points?**
-    *   **[ES]** **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
-
-*   **[ES]** **Q: Can I swap the bubble in my shooter?**
-    *   **[ES]** **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
-
+*   **P: ¿Puedo cambiar la burbuja que voy a disparar?**
+    *   **R:** Algunas versiones permiten intercambiar la burbuja actual con la
+        siguiente de la cola, pero no siempre está disponible. Busca un botón de
+        intercambio en la interfaz para comprobar si el modo lo permite.

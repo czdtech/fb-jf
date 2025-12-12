@@ -1,48 +1,48 @@
 ---
 locale: fr
 urlstr: bejeweled
-title: '[FR] Bejeweled - Play Bejeweled Online'
-description: >-
-  [FR] Bejeweled simple yet highly addictive gameplay loop made it a pioneer of
-  the
-iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
+title: "Bejeweled - Play Bejeweled Online"
+description: "Bejeweled est le match‑3 culte où tu échanges des gemmes adjacentes pour aligner des séries, déclencher des cascades et créer des gemmes spéciales explosives."
+iframeSrc: "https://files.acticdn.com/278374/30464/index.html"
 thumbnail: /bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
 ---
 
+### Présentation du jeu
 
+*Bejeweled* est un jeu de réflexion emblématique du genre match‑3. Tu dois échanger deux gemmes adjacentes pour former une ligne horizontale ou verticale d’au moins trois gemmes de la même couleur. Les gemmes alignées disparaissent, celles du dessus tombent pour combler les trous et peuvent créer des réactions en chaîne.
 
-*Bejeweled* is a legendary tile-matching puzzle video game. The objective is to swap two adjacent gems to form a horizontal or vertical line of three or more gems of the same color. When a match is made, the gems disappear, and new gems fall from the top to fill the empty spaces, potentially creating chain reactions called cascades. Its simple yet highly addictive gameplay loop made it a pioneer of the "match-three" genre and one of the most successful casual games of all time. 
+### Comment jouer à Bejeweled
 
-### How to Play Bejeweled Game
+- **Action principale :** tu peux uniquement échanger deux gemmes voisines (horizontalement ou verticalement). L’échange n’est validé que s’il crée au moins un alignement de trois.  
+- **Alignements de base :** aligne trois gemmes identiques pour les faire disparaître et marquer des points.  
 
--  **The Core Action:** The only action you can take is swapping two adjacent gems, either horizontally or vertically. A swap is only valid if it results in at least one match of three or more gems.
--  **Basic Matching:** The primary goal is to create lines of three identical gems. These gems are then cleared from the board, and you earn points.
-**Special Gems:** Creating matches of more than three gems creates powerful special gems. These are key to getting high scores: 
-- **Flame Gem:** Created by matching four gems in a row. When this gem is matched, it explodes, destroying the eight gems surrounding it.
-- **Hyper Cube:** Created by matching five gems in a row. Swap this gem with any adjacent gem, and it will destroy all gems of that color on the board.
-- **Star Gem / Lightning Gem:** Created by matching gems in an "L" or "T" shape (in later versions). When matched, it destroys its entire row and column.
+**Gemmes spéciales :**  
+- **Flame Gem (4 en ligne) :** en disparaissant, elle explose et détruit les gemmes autour.  
+- **Hyper Cube (5 en ligne) :** échange‑la avec n’importe quelle gemme pour supprimer toutes les gemmes de cette couleur sur le plateau.  
+- **Gemmes en L/T (Star/Lightning) :** créées avec des formes en L ou T, elles détruisent toute une ligne et une colonne.
 
-**Game Modes:** Bejeweled games typically feature several modes. The most common are: 
-- **Classic Mode:** An untimed mode where you play until there are no more possible moves left on the board.
-- **Action/Blitz Mode:** A fast-paced, timed mode (often 60 seconds) where the goal is to score as many points as possible before time runs out.
+**Modes de jeu fréquents :**
 
+- **Mode Classique :** pas de limite de temps ; tu joues jusqu’à ce qu’il n’y ait plus de coup possible.  
+- **Mode Action / Blitz :** partie limitée (souvent 60 secondes) où tu dois marquer le plus de points possible avant la fin du temps.
 
+### Stratégies et astuces
 
-### Strategy and Tips
+- **Cherche les gros coups :** ne te contente pas de simples alignements de trois ; essaie autant que possible de préparer des 4 ou 5 pour générer des gemmes spéciales.  
+- **Travaille depuis le bas :** faire des matches près du bas du plateau déclenche souvent des cascades plus grandes, car beaucoup de gemmes tombent et se réorganisent.  
+- **Garde les Hyper Cubes pour les bons moments :** ne les gaspille pas dès que tu en obtiens un. Attends qu’une couleur domine le plateau ou combine‑les avec une gemme spéciale pour un effet massif (selon la version).  
+- **En mode classique, prends ton temps :** observe tout le plateau avant de jouer et utilise le bouton d’indice seulement si tu es vraiment bloqué.
 
--  **Look for Bigger Matches:** Don't just settle for matches of three. Actively scan the board for opportunities to create matches of four or five to generate powerful special gems.
--  **Work from the Bottom:** Making matches near the bottom of the board is generally a good strategy. This causes more gems to shift from the top, increasing the chances of creating automatic chain reactions (cascades).
--  **Use Special Gems Wisely:** Don't use a special gem on the first opportunity. Save Hyper Cubes for a moment when the board is filled with a specific color, or use Flame Gems to clear out difficult-to-reach areas.
--  **Don't Rush (in Classic Mode):** In untimed modes, take your time to analyze the entire board before making a move. Most versions have a "Hint" button if you get stuck.
+### Foire aux questions (FAQ)
 
+**Q : Bejeweled est‑il gratuit ?**  
+**R :** Les versions originales sur PC/console étaient généralement payantes. Sur mobile, des variantes comme *Bejeweled Blitz* ou *Bejeweled Stars* sont souvent gratuites mais incluent pubs et achats intégrés.
 
-### Frequently Asked Questions (FAQ)
+**Q : Que se passe‑t‑il quand il n’y a plus de coups ?**  
+**R :** En mode classique, la partie se termine généralement. Dans certaines versions, le plateau peut être automatiquement mélangé pour continuer.
 
-**Q: Is Bejeweled free to play?**  **A:** It varies. The original classic versions (like *Bejeweled 2* or *3*) are typically paid games. However, modern versions like *Bejeweled Blitz* or *Bejeweled Stars* on mobile are free-to-play but include in-app purchases and advertisements. 
-
-**Q: What happens when there are "No More Moves"?**  **A:** In Classic Mode, if the board reaches a state where no possible swaps can create a match, the game ends. In some versions, the game might automatically reshuffle the board for you. 
-
-**Q: What is the difference between Bejeweled Classic and Bejeweled Blitz?**  **A:** Bejeweled Classic is a slower, more strategic, and untimed puzzle experience. Bejeweled Blitz is a fast-paced, 60-second competition where the goal is to get the highest score possible, often competing with friends on social media.
+**Q : Différence entre Bejeweled Classic et Bejeweled Blitz ?**  
+**R :** Classic est un jeu posé et stratégique sans limite de temps. Blitz est un mode ultra rapide de 60 secondes orienté score et classement entre amis.

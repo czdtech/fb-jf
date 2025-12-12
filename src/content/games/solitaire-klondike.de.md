@@ -1,14 +1,9 @@
 ---
 locale: de
 urlstr: solitaire-klondike
-title: '[DE] Solitaire Klondike'
-description: >-
-  [DE] Play the classic game of Klondike Solitaire, the most popular version of
-  solitaire. The goal is to move all 52 cards into the four foundation piles by
-  suit, in ascending order from Ace to King. Strategically move cards on the
-  tableau to uncover new possibilities and complete the game.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
+title: "Solitaire Klondike"
+description: "Spiele den Klassiker Solitaire Klondike – die bekannteste Variante von Solitaire. Ziel ist es, alle 52 Karten nach Farbe in aufsteigender Reihenfolge von Ass bis König auf die vier Ablagestapel zu legen und das Tableau clever freizuräumen."
+iframeSrc: 'https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref='
 thumbnail: /new-images/solitaire-klondike.jpg
 tags:
   - card-game
@@ -18,35 +13,33 @@ score: 3.9/5  (653 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Klondike Solitaire ist die bekannteste und am weitesten verbreitete Variante des Einzelspieler-Kartenspiels – oft wird es einfach nur "Solitaire" genannt. Du spielst mit einem normalen 52-Karten-Deck und versuchst, alle Karten in vier Ablagestapel zu sortieren, jeweils einen pro Farbe und in aufsteigender Reihenfolge. Das Spiel erfordert Geduld, ein gutes Auge für Reihenfolgen und ein wenig Glück.
 
-### Game Introduction
+### Spielanleitung
 
-Klondike Solitaire is the most popular and well-known version of the single-player card game, often referred to simply as "Solitaire." Using a standard 52-card deck, the goal is to organize all the cards into four foundation piles, one for each suit, in ascending order. It's a game of patience, strategy, and a little bit of luck.
+Dein Hauptziel ist es, vier vollständige Ablagestapel aufzubauen, beginnend mit dem Ass und endend mit dem König jeder Farbe (z. B. A♣, 2♣, 3♣ ...).
 
-### Gameplay Guide
+- **Tableau:** Im Hauptbereich, dem Tableau, kannst du Karten in absteigender Reihenfolge (K, D, B, 10 ...) und mit abwechselnden Farben stapeln (z. B. eine rote 7 auf einer schwarzen 8).
+- **Verdeckte Karten aufdecken:** Immer wenn du eine offene Karte bewegst, kannst du die darunterliegende verdeckte Karte umdrehen.
+- **Nachziehstapel (Stock):** Ziehe Karten vom Nachziehstapel, um neue Optionen über den Ablagestapel (Waste) ins Spiel zu bringen.
+- **Leere Spalten:** Nur ein König oder eine Sequenz, die mit einem König beginnt, darf in eine leere Tabellenspalte gelegt werden.
 
-The main objective is to build four foundation piles, starting with the Ace and ending with the King for each suit (e.g., A♣, 2♣, 3♣...).
-- **Tableau:** You can move cards within the main playing area (the tableau) by stacking them in descending order (K, Q, J...) and alternating colors (e.g., a red 7 on a black 8).
-- **Revealing Cards:** When you move a face-up card, you can flip the face-down card beneath it.
-- **Stock Pile:** Draw cards from the stock pile to bring new cards into play via the waste pile.
-- **Empty Columns:** Only a King can be moved into an empty tableau column.
+### Steuerung
 
-### Controls Guide
+- **Maus/Touch:** Klicke und ziehe Karten, um sie zwischen den Stapeln zu bewegen. In vielen Versionen kannst du eine Karte auch einfach anklicken, damit sie automatisch auf eine passende Position gezogen wird, falls ein gültiger Zug existiert.
 
-- **Mouse/Touch:** Click and drag cards to move them between piles. In most versions, you can also simply click a card, and it will automatically move to a valid position if one is available.
+### Häufig gestellte Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**Worin unterscheidet sich Klondike von anderen Solitaire-Varianten?**
 
-**What is the difference between Klondike and other types of Solitaire?**
+Klondike ist die Variante, die die meisten Spieler kennen: ein Tableau aus sieben Spalten und das Ziel, Karten von Ass bis König auf vier Ablagestapel zu bauen. Andere Versionen wie Spider oder FreeCell haben andere Regeln und Layouts.
 
-Klondike is the version most people know, characterized by its seven-column tableau and the goal of building up from Ace to King. Other versions like Spider or FreeCell have different rules and layouts.
+**Woher kommt der Name "Klondike"?**
 
-**What does "Klondike" mean?**
+Der Name soll auf den Klondike-Goldrausch in Kanada zurückgehen – vermutlich, weil das Spiel damals bei Goldsuchern beliebt war.
 
-The name is believed to have originated from the Klondike Gold Rush in Canada, possibly because the game was popular among prospectors.
+**Ist jede Runde Klondike-Solitaire gewinnbar?**
 
-**Is every game of Klondike Solitaire winnable?**
-
-No, not every deal is winnable. The random shuffle of the cards means that some games are mathematically impossible to solve, which is part of the challenge.
-
+Nein. Durch die zufällige Verteilung der Karten sind manche Partien mathematisch nicht lösbar. Genau diese Unsicherheit macht einen Teil der Herausforderung aus.

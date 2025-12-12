@@ -1,42 +1,36 @@
 ---
+title: "Head Soccer"
+description: "巨大な頭のキャラクターによる1対1のアーケードサッカー：ジャンプ、シュート、パワーショットを駆使して、短い試合で対戦相手より多く得点しましょう。"
+iframeSrc: "https://1games.io/game/head-soccer-2024/"
+thumbnail: "/new-images/head-soccer.jpg"
+urlstr: "head-soccer"
+score: "3.9/5  (540 votes)"
+tags: ["sports", "soccer"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: head-soccer
-title: '[JA TRANSLATION NEEDED] Head Soccer'
-description: >-
-  [JA TRANSLATION NEEDED] 1v1 arcade football with giant heads: jump, shoot, and
-  use power shots to outscore your opponent in short matches.
-iframeSrc: 'https://1games.io/game/head-soccer-2024/'
-thumbnail: /new-images/head-soccer.jpg
-tags:
-  - sports
-  - soccer
-score: 3.9/5  (540 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Head Soccerは、サッカーを巨大な頭とシンプルな物理挙動によるパンチの効いた1対1の決闘に凝縮しました。試合は数秒から数分で終わります。パワーアップやスペシャルショットが形勢逆転の瞬間を生み出します。制限時間内に相手より多く得点するか、ゴールデンゴールルールで勝利しましょう。
 
+### 遊び方
+- ロブボールの下に位置取りしてヘディングしましょう。低いボールはボレーで速いシュートになります。
+- ゴールが空いている時にスペシャルを発動しましょう。タイミングの良いジャンプでブロックします。
+- 2人プレイでは、プレッシャー（攻め）とカバー（守り）に役割を分担しましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Head Soccer condenses football to punchy 1v1 duels with oversized heads and simple physics. Matches last seconds to minutes; power‑ups and special shots create swing moments. Win by outscoring within the timer or golden‑goal rules.
+### 操作方法
+- 矢印キー/WASDで移動/ジャンプ。シュート/スペシャルキーはホストによって異なります。
 
-### How to Play
-- Position under lobs for headers; volley low balls for speed.
-- Trigger specials when the goal is open; block with timely jumps.
-- In two‑player, divide roles—pressure vs. coverage.
+### ヒント
+- 早めのジャンプ＋タップシュートで、速くて低いドライブシュートが打てます。
+- スペシャルはカウンター攻撃やリバウンドのために取っておきましょう。
+- 守備では、クリアボールに角度をつけるために、ラインから少しずれて立ちましょう。
 
-### Controls
-- Arrows/WASD to move/jump; shoot/special keys vary by host.
-
-### Tips
-- Early jump + tap shot produces fast low drives.
-- Save specials for counterattacks or rebounds.
-- Defensively, stand slightly off‑line to angle clearances.
-
-### FAQ
-- Q: How do I score more consistently in this game?  
-[JA TRANSLATION NEEDED]   A: Use jump‑timed headers/volleys and shoot low into corners.
-- Q: Does the game support two players on one device?  
-[JA TRANSLATION NEEDED]   A: Many hosts include local 2P with separate key binds.
-- Q: Are there team or character differences?  
-[JA TRANSLATION NEEDED]   A: Often cosmetic; physics are generally uniform across skins.
-
+### よくある質問 (FAQ)
+- **Q: どうすれば安定して得点できますか？**  
+  A: ジャンプのタイミングを合わせたヘディングやボレーを使い、低い弾道で隅を狙いましょう。
+- **Q: 1つのデバイスで2人対戦はできますか？**  
+  A: 多くのホスト版には、別々のキー配置でのローカル2人プレイが含まれています。
+- **Q: チームやキャラクターに違いはありますか？**  
+  A: 多くの場合見た目（コスメティック）だけですが、物理挙動はスキンの間で概ね統一されています。

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: google-snake
-title: '[ES] Google Snake'
+title: "Google Snake"
 description: >-
-  [ES] Modern take on Snake: guide a growing snake to eat fruit, avoid
-  collisions, and chase high scores with optional rulesets.
+  Versión moderna de Snake: guía a una serpiente en crecimiento para comer
+  fruta, evita colisiones y persigue récords con distintos conjuntos de reglas.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/google-snake.jpg
@@ -16,30 +16,40 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Google Snake actualiza la fórmula clásica con gráficos limpios y modos
+opcionales. Come fruta para crecer mientras evitas las paredes y tu propia cola.
+La velocidad aumenta cuanto más tiempo sobrevives, y las variantes modifican el
+tamaño del tablero, los obstáculos y los efectos de algunos ítems.
 
+### Cómo jugar
 
-### Overview
-Google Snake updates the classic formula with clean visuals and optional modes. Eat fruit to grow while avoiding walls and your own tail. Speed rises as you survive longer; variant rules change board size, obstacles, and item effects.
+- Traza rutas que dejen siempre vías de escape; nunca te encierres a ti mismo.
+- Usa el anillo exterior para tramos largos en línea recta y entra al centro
+  solo para recoger comida.
+- Adáptate a los ítems especiales y modos que tenga activados cada portal.
 
-### How to Play
-- Plan routes that leave escape lanes; never box yourself in.
-- Use the outer ring for long straight runs; dive inward for pickups.
-- Adapt to special items/modes as enabled by the host.
+### Guía de controles
 
-### Controls
-- Arrow keys or WASD to steer; pause/restart via UI.
+- Flechas o WASD para dirigir la serpiente; pausa y reinicio desde la interfaz.
 
-### Tips
-- Don’t turn 180° into your neck—make wide turns.
-- Keep the tail straight when possible to maximize options.
-- When fast, pre‑input turns one tile early.
+### Consejos
 
-### FAQ
-- Q: How can I avoid running into my own tail?
-A: Keep the tail compact by using straight segments and avoid tight spirals.
-- Q: Does the game get faster over time?
-A: Yes, most versions increase speed with score.
-- Q: Are there different board setups?
-A: Many hosts offer sizes, obstacles, and item variants.
+- Nunca intentes girar 180° sobre tu propio cuello; haz giros amplios.
+- Mantén la cola lo más recta posible para conservar más opciones de ruta.
+- Cuando el juego vaya rápido, introduce los giros una casilla antes.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo evito chocar con mi propia cola?**  
+  **R:** Mantén la cola compacta con tramos rectos y evita espirales demasiado
+  cerradas.
+
+- **P: ¿El juego se acelera con el tiempo?**  
+  **R:** Sí, la mayoría de versiones incrementan la velocidad a medida que sube
+  tu puntuación.
+
+- **P: ¿Hay distintos tipos de tablero?**  
+  **R:** Muchos portales ofrecen varios tamaños de mapa, diferentes obstáculos y
+  variaciones de ítems.

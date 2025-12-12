@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: billiards-classic
-title: '[FR] Billiards Classic'
-description: >-
-  [FR] Enjoy a classic game of 8-ball pool. Aim your shots, apply spin, and sink
-  your designated balls before pocketing the 8-ball to win!
-iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
+title: "Billiards Classic"
+description: "Billiards Classic adapte le 8‑ball sur navigateur : vises, applique un peu d’effet, poche tes pleines ou rayées puis termine par la boule 8 pour gagner."
+iframeSrc: "https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/"
 thumbnail: /new-images/billiards-classic.png
 tags:
   - sports
@@ -15,37 +13,35 @@ score: 4.5/5  (2900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Billiards Classic* propose une version numérique de la 8‑ball contre l’ordinateur. Après la casse, le premier joueur à rentrer une bille valide se voit attribuer les **pleines (1–7)** ou les **rayées (9–15)**. Le but est de rentrer toutes les billes de ton groupe, puis de pocher la boule 8 dans une poche annoncée pour gagner.
 
+### Guide de jeu
 
+1.  **Soigner la casse :** vise la bille de tête pour ouvrir le triangle et, idéalement, rentrer déjà une bille.
+2.  **Choisir ton camp :** après la casse, la table reste ouverte. La première bille légale que tu poches détermine si tu joues les pleines (1‑7) ou les rayées (9‑15) pour tout le reste de la partie.
+3.  **Penser plusieurs coups à l’avance :** ne te contente pas du tir le plus simple. Enchaîne tes billes dans un ordre qui laisse la blanche bien placée.
+4.  **Utiliser l’english intelligemment :** un léger rétro stoppe ou ramène la blanche, un topspin la fait suivre et un effet latéral ajuste l’angle après la bande. Dose-les finement pour contrôler la position.
+5.  **Terminer avec la boule 8 :** une fois tes sept billes rentrées, annonce une poche pour la 8 et rentre‑la proprement. La pocher trop tôt ou faire scratch sur la 8 te fait perdre.
 
-### Detailed Game Introduction
+### Commandes
 
-Billiards Classic brings the traditional game of 8-ball pool to your screen. This simulation pits you against a computer opponent in a test of skill, strategy, and physics. The objective is to be the first to pocket your assigned group of balls (either solids or stripes) and then legally sink the 8-ball to win the game. With realistic physics and intuitive controls, it’s a perfect way to enjoy a timeless pub classic.
+*   **Viser :** déplace la souris pour orienter la queue.
+*   **Puissance :** clique et fais glisser la jauge de force pour régler l’intensité.
+*   **Effet :** utilise le contrôleur d’english pour choisir le point d’impact sur la blanche.
+*   **Tirer :** relâche la souris pour frapper.
 
-### Gameplay Strategy & Walkthrough
+### Foire aux questions (FAQ)
 
-1.  **[FR]** **The Break:** The game starts with a break shot. Aim for the front ball of the rack to scatter the balls effectively.
-2.  **[FR]** **Claiming Your Suit:** After the break, the table is "open." The first player to legally pocket a ball will be assigned that group for the rest of the game (either solids 1-7 or stripes 9-15).
-3.  **[FR]** **Plan Your Shots:** Don't just aim for the easiest shot. Think two or three steps ahead. Try to sink your balls in an order that also sets up your cue ball for your next shot.
-4.  **[FR]** **Use English (Spin):** For more advanced control, use the spin function. Applying backspin can stop your cue ball, while topspin will make it follow the object ball. Side-spin can change the angle it takes after hitting a rail.
-5.  **[FR]** **Winning the Game:** Once you have pocketed all seven of your designated balls, you must then legally pocket the 8-ball into a called pocket to win. Pocketing the 8-ball before clearing your group, or scratching on the 8-ball shot, results in a loss.
+*   **Q : Que se passe‑t‑il si je rentre la 8 dès le break ?**
 
-### Controls Guide
+    *   **R :** Dans la plupart des règles, tu peux soit replacer la 8 et continuer, soit refaire la casse. Si tu la poches avant d’avoir nettoyé ton groupe ou si tu fais une gratte en tirant la 8, la partie est perdue.
 
-*   **[FR]** **Aim:** Move your mouse to aim the cue stick.
-*   **[FR]** **Set Power:** Click and drag the power meter (usually on the side or bottom) to determine the strength of your shot.
-*   **[FR]** **Apply Spin (English):** Use the on-screen spin controller to adjust where on the cue ball your stick will hit, applying spin.
-*   **[FR]** **Shoot:** Release the mouse button to take the shot.
+*   **Q : Qu’est‑ce qu’une faute ?**
 
-### Frequently Asked Questions (FAQ)
+    *   **R :** Rentrer la blanche, toucher d’abord une bille adverse ou ne toucher aucune bille. Après une faute, l’adversaire obtient souvent « bille en main » et peut positionner la blanche où il veut.
 
-*   **[FR]** **Q: What happens if I sink the 8-ball by accident at the start?**
-    *   **[FR]** **A:** If you pocket the 8-ball on the break, you usually get to choose to re-rack or spot the 8-ball and continue playing. If you pocket it during regular play before clearing your group, you lose the game.
+*   **Q : Comment savoir si je joue les pleines ou les rayées ?**
 
-*   **[FR]** **Q: What is a foul?**
-    *   **[FR]** **A:** A foul occurs if you pocket the cue ball ("scratch"), hit the opponent's ball first, or fail to hit any ball at all. After a foul, your opponent gets "ball-in-hand," meaning they can place the cue ball anywhere on the table for their shot.
-
-*   **[FR]** **Q: Which balls are mine?**
-    *   **[FR]** **A:** The table is open until the first ball is legally pocketed. If you sink a solid, you are solids. If you sink a stripe, you are stripes.
-
+    *   **R :** La table reste ouverte jusqu’à la première bille légale empochée. La couleur de cette bille détermine ton groupe pour la suite.

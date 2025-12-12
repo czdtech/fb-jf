@@ -1,13 +1,9 @@
 ---
 locale: fr
 urlstr: bob-the-robber
-title: '[FR] Bob the Robber'
-description: >-
-  [FR] Become a master thief in Bob the Robber! Sneak past guards, disable
-  cameras, crack safes, and steal valuable loot in this challenging stealth
-  puzzle-platformer series.
-iframeSrc: >-
-  https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
+title: "Bob the Robber"
+description: "Dans Bob the Robber, incarne un cambrioleur malin : faufile‑toi entre les gardes, coupe les caméras, crochette les serrures et vole le butin sans te faire repérer."
+iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html"
 thumbnail: /new-images/bob-the-robber.jpg
 tags:
   - stealth
@@ -16,54 +12,48 @@ score: 3.7/5  (403 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Bob the Robber* est une série de jeux d’infiltration/plate‑forme en 2D. Tu incarnes Bob, un voleur façon Robin des Bois qui pénètre dans des maisons, banques ou musées ultra surveillés pour récupérer un butin précis avant de s’échapper.
 
+Chaque niveau regorge de systèmes de sécurité : gardes en rondes, caméras, lasers, claviers, portes verrouillées. Tout repose sur l’observation, le timing et la discrétion : reste dans l’ombre, crochette les serrures, résous les petits puzzles et atteins la sortie sans te faire repérer.
 
+### Guide de jeu
 
+- **La patience avant tout :** Ne fonce jamais. Analyse les trajets des gardes et le balayage des caméras avant de faire un pas, sinon tu risques de tomber pile dans leur champ de vision.
+- **Reste dans l’ombre :** Les zones sombres sont tes refuges. Passe d’une ombre à l’autre pour rester invisible — mais si un garde te bouscule physiquement, il t’attrape quand même.
+- **Gérer les gardes :**
+    - **Évitement :** Laisse-les terminer leur ronde puis glisse-toi derrière eux pendant qu’ils regardent ailleurs.
+    - **Neutralisation :** Approche-toi par derrière et assomme-les (souvent avec la barre d’espace). L’action fait du bruit, prend quelques secondes et un autre garde peut trouver le corps, donc utilise cette option seulement quand tu es sûr de la zone.
+- **Synchronise-toi avec les caméras :** Chaque caméra oscille selon un motif fixe. Attends que le cône lumineux s’éloigne, puis traverse rapidement. Courir réduit ton temps d’exposition.
+- **Lis l’environnement :** Les codes de portes et indices importants sont souvent affichés sur des feuilles, murs ou écrans dans le niveau. Inspecte chaque pièce et n’oublie pas les tableaux ou les tiroirs.
+- **Serrures et coffres :** Les mini-jeux de crochetage demandent d’appuyer au bon moment quand la goupille est alignée. Calme et précision sont indispensables.
+- **Ramasse tout le butin :** En dehors de l’objectif principal, des liasses de cash sont cachées dans des meubles ou derrière des objets. Les récupérer augmente ton score final.
 
-### Game Introduction
+### Commandes
 
-Bob the Robber is a series of 2D stealth puzzle-platformer games. The player takes on the role of Bob, a skilled thief with a sense of justice (often portrayed as a modern-day Robin Hood), who infiltrates various secure locations like houses, banks, and museums. The objective of each level is to navigate the environment, collect a specific target loot item, and reach the exit without getting caught.
+Les commandes restent simples et identiques d’un épisode à l’autre.
 
-The core gameplay revolves around avoiding detection. Levels are filled with a variety of security measures, including patrolling guards, security cameras, laser grids, and locked doors. The player must use observation, timing, and stealth to overcome these obstacles. Hiding in the shadows is a key mechanic, making Bob invisible to most threats. Successfully completing a level often requires solving small puzzles, such as finding keycodes or lockpicking doors, all while remaining unseen.
+- **`W/A/S/D` ou flèches :** se déplacer, monter/descendre escaliers et échelles.
+- **`W` / flèche haut :** interagir avec l’environnement (ouvrir, fouiller, entrer un code).  
+    - Ouvrir une porte.  
+    - Crocheter une serrure.  
+    - Fouiller pour récupérer du butin.  
+    - Saisir un code.  
+    - Prendre une échelle ou un escalier.
+- **Barre d’espace :** assommer un garde par derrière lorsqu’il ne te voit pas.
+- **`Z/X/C` (versions récentes) :** déclencher des gadgets spéciaux si tu en as débloqué.
 
-### Gameplay Strategy
+### Foire aux questions (FAQ)
 
--   **Patience is Your Best Tool:** Do not rush. The most common mistake is running into a guard's patrol route. Take time at the start of each screen to observe the patterns of guards and cameras.
--   **Use the Shadows:** Shadows are your safe zones. Whenever possible, move from one shadow to another. A guard or camera will not spot you while you are hidden in a shadow, unless a guard physically walks into you.
--   **Dealing with Guards:**
-    -   **Avoidance:** The best method is to simply wait for a guard to pass and then sneak by behind them.
-    -   **Knockout:** You can sneak up behind a guard and knock them out with your club (usually with the Spacebar). Be aware that this takes a few seconds and makes a noise that can alert nearby guards. A knocked-out guard will eventually wake up in some games, or can be discovered by other guards.
--   **Timing Cameras:** Security cameras sweep back and forth in a predictable pattern. Wait for the camera's light cone to move away from your path before you cross. Running under a camera is faster and reduces your exposure time.
--   **Read the Environment:** Look for clues. Security codes for keypads are often written on pieces of paper or walls within the level. Pay attention to everything.
--   **Locks and Safes:** Lockpicking is a common mini-game. It usually requires you to press a button at the exact moment a pin is in the correct position. This requires good timing.
--   **Collect All the Loot:** Besides the main objective, there are often extra cash stashes hidden in drawers, shelves, or behind paintings. Finding these will improve your final score.
+**Q : Un garde m’a vu alors que j’étais caché dans l’ombre. Pourquoi ?**  
+**R :** Les ombres te rendent invisible à distance, mais un garde qui te rentre dedans te repère immédiatement.
 
-### Controls Guide
+**Q : Comment franchir les lasers ?**  
+**R :** Cherche l’interrupteur ou le panneau de contrôle correspondant ailleurs dans le niveau. Certains demandent un mini-jeu rapide pour les désactiver.
 
-The controls are generally consistent across the series and are very simple.
+**Q : J’ai assommé un garde et on m’a quand même attrapé. Que s’est-il passé ?**  
+**R :** Un autre garde a sans doute découvert le corps et a déclenché l’alarme. Évite de laisser un corps sur une route de patrouille.
 
--   **W/A/S/D or Arrow Keys:** Move Bob left, right, up, and down (for stairs/ladders).
--   **Up Arrow Key or W:** Interact with objects. This is used for:
-    -   Opening doors.
-    -   Picking locks.
-    -   Searching for loot.
-    -   Entering codes.
-    -   Climbing stairs or ladders.
--   **Spacebar:** Swing your club to knock out a guard from behind.
--   **Z, X, C (in later games):** Use special gadgets if available.
-
-### Frequently Asked Questions (FAQ)
-
-**1. A guard saw me even though I was in the shadows. Why?**
-> If a guard walks directly into you, they will detect you even if you are in a shadow. Shadows make you invisible to line-of-sight detection, but not to physical contact.
-
-**2. How do I get past the laser grids?**
-> You usually need to find a switch or a control panel somewhere in the level to disable the lasers. Sometimes this involves a small mini-game or just a single interaction.
-
-**3. I knocked out a guard, but then I got caught. What happened?**
-> Another guard likely saw the body of the knocked-out guard and raised the alarm. When you knock out a guard, make sure their body is not on another guard's patrol route.
-
-**4. Is it better to knock out guards or sneak past them?**
-> Sneaking is almost always the better and safer option. Knocking out guards should be a last resort or used only when you are certain no other guards will discover the body. It's a tool to create an opening, not a primary strategy.
-
+**Q : Mieux vaut neutraliser les gardes ou les contourner ?**  
+**R :** La discrétion reste l’approche la plus sûre. Assomme seulement si tu dois créer une ouverture et que la zone est vraiment dégagée.

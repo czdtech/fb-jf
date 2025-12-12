@@ -1,61 +1,51 @@
 ---
-locale: ja
+title: Timber Guy
+description: Timber Guyは、木こりのアーケードゲームです。タイミングよく木を切って高得点を目指しましょう。
+iframeSrc: 'https://ubg98.github.io/TimberGuy/'
+thumbnail: /new-images/timber-guy.jpg
 urlstr: timber-guy
-title: '[JA TRANSLATION NEEDED] Timber Guy'
-description: >-
-  [JA TRANSLATION NEEDED] Timber Guy is a chop‑timing arcade — fell the tree,
-  dodge branches, and rack up chops.
-iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
-thumbnail: /new-images/timber-guy.png
+score: 4.3/5  (2543 votes)
 tags:
-  - action
+  - arcade
+  - timing
   - casual
-score: 3.8/5  (1659 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
-### Detailed Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Timber Guy is a one‑button timing game. Chop the trunk while switching sides to avoid incoming branches. The pace accelerates, demanding clean side swaps and steady rhythm.
+Timber Guyは、木こりを操作して木を切るシンプルだが中毒性のあるアーケードゲームです。枝を避けながらタイミングよく木を切り続けましょう。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] 1.  Read ahead: Watch the next few branches and pre‑plan swaps.
-[JA TRANSLATION NEEDED] 2.  Keep rhythm: Maintain a steady chop tempo for better reactions.
-[JA TRANSLATION NEEDED] 3.  Early swaps: Switch sides slightly before the branch passes you.
-[JA TRANSLATION NEEDED] 4.  Don’t panic: Miss one beat if unsure; safety beats a hit.
-[JA TRANSLATION NEEDED] 5.  High score: Small errors compound—reset after bad starts.
-
-### Controls Guide
-
-- Chop/Swap: Tap left/right to chop from that side.
-- Pause/Retry via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Why do I get hit? Late swaps—change sides earlier.
-- Does speed ramp? Yes; rhythm helps adaptation.
-- Any power‑ups? Some versions include boosters; focus on consistency.
+ - **木を切る：** 左右をタップして木を切ります
+ - **枝を避ける：** 枝がある側を避けます
+ - **スピードアップ：** 時間が経つにつれて速くなります
+ - **高得点：** できるだけ長く続けて高得点を目指します
 
 
+- High score: Small errors compound—reset after bad starts.
+### 操作ガイド
 
+ - **左/右矢印または A/D：** 左右に移動して木を切る
+ - **マウス：** クリックして木を切る
 
-
-
-
-
-
-- Any power‑ups? Some versions include boosters; focus on consistency.
-- Does speed ramp? Yes; rhythm helps adaptation.
-- Why do I get hit? Late swaps—change sides earlier.
 ### よくある質問（FAQ）
-- Pause/Retry via UI.
-- Chop/Swap: Tap left/right to chop from that side.
-### コントロールガイド
-
-
 
 
 - Any power‑ups? Some versions include boosters; focus on consistency.
+
 - Does speed ramp? Yes; rhythm helps adaptation.
+
 - Why do I get hit? Late swaps—change sides earlier.
+**ゲームの目標は何ですか？**
+
+枝に当たらずに、できるだけ多く木を切ることです。
+
+**枝に当たったらどうなりますか？**
+
+ゲームオーバーです。
+
+**難易度は上がりますか？**
+
+はい、時間が経つにつれてスピードが上がります。

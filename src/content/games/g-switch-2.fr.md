@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: g-switch-2
-title: '[FR] G-Switch 2'
-description: >-
-  [FR] Gravity‑flip runner sequel: race solo or in local multiplayer, flipping
-  gravity to survive traps at rising speed.
+title: "G-Switch 2"
+description: "Suite du runner gravitationnel : cours en solo ou en multijoueur local, inverse la gravité pour survivre aux pièges à mesure que la vitesse grimpe."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/g-switch-2.jpg
@@ -16,29 +14,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+G‑Switch 2 reprend le principe de l’original en y ajoutant de nouveaux obstacles et des courses multijoueur plus poussées. Tu dois toujours retourner la gravité au bon moment, mais les pièges se multiplient et certains passages demandent des doubles flips très rapides.
 
+### Comment jouer
 
-### Overview
-Refined gravity‑flip running with new obstacles and multiplayer races.
+- Calibre tes flips juste avant les bords et les pièges (scies, trous, changements de hauteur).
+- Apprends le timing des pièges : certains segments nécessitent deux inversions rapprochées pour passer.
+- Défie tes amis en course locale si le mode est disponible.
 
-### How to Play
-- Time flips before edges and hazards.
-- Learn trap timings; some require double‑flips in quick succession.
-- Challenge friends in local races if supported.
+### Commandes
 
-### Controls
-- Single key/tap to flip; unique keys per player in versus.
+- Une seule touche / un seul tap pour inverser la gravité.  
+- En versus local, chaque joueur utilise une touche distincte pour flipper.
 
-### Tips
-- Keep rhythm steady; two quick flips can correct overshoots.
-- Stay low on long straights; ceilings often hide traps.
+### Astuces
 
-### FAQ
-- Q: How does multiplayer work in this game?
-A: Each player uses a separate key to flip in shared‑screen races.
-- Q: Are there checkpoints in levels?
-A: Level mode may add checkpoints; endless mode does not.
-- Q: Can I remap keys?
-A: Many hosts allow key selection before starting.
+- Garde un rythme stable : deux flips rapides peuvent rattraper un overshoot ou corriger une inversion trop tôt.
+- Sur les longues lignes droites, rester sur le « bas » est souvent plus sûr : les plafonds cachent parfois des pièges.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment fonctionne le multijoueur dans cet épisode ?
+  
+  R : Chaque joueur a sa propre touche de flip ; tous les personnages partagent le même écran et la course se termine quand il ne reste plus qu’un survivant.
+
+- Q : Y a‑t‑il des checkpoints ?
+  
+  R : En mode niveaux, certains parcours incluent des checkpoints. En mode infini, une erreur signifie généralement la fin du run.
+
+- Q : Puis‑je remapper les touches ?
+  
+  R : Beaucoup d’hébergeurs permettent de choisir les touches de chaque joueur avant de lancer la partie.
 

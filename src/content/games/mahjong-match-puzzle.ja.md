@@ -1,69 +1,37 @@
 ---
+title: "Mahjong Match Puzzle"
+description: "麻雀マッチパズルは、タイルを素早くマッチし、ボーナスチェーンを構築し、タイマーと戦います。"
+iframeSrc: "https://4mqg2n52uo6po.h5games.usercontent.goog/v/2s7q19jjnb8ig/"
+thumbnail: "/new-images/mahjong-match-puzzle.png"
+urlstr: "mahjong-match-puzzle"
+score: "4.1/5  (1879 votes)"
+tags: ["mahjong", "puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: mahjong-match-puzzle
-title: '[JA TRANSLATION NEEDED] Mahjong Match Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Mahjong Match Puzzle blends solitaire and connect
-  rules — match open tiles, manage layers, and clear boards efficiently.
-iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
-thumbnail: /new-images/mahjong-match-puzzle.png
-tags:
-  - mahjong
-  - puzzle
-score: 4.1/5  (1981 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+麻雀マッチパズルは、クラシックな麻雀ソリティアに時間プレッシャーとコンボシステムを追加します。フリータイルをできるだけ早くマッチしてボーナスポイントを構築し、ボードが停滞する前にクリアします。
 
-[JA TRANSLATION NEEDED] Mahjong Match Puzzle uses layered stacks where only open tiles (no cover, at least one free side) can be matched. Some boards introduce connect‑style paths or special tiles. Efficiency comes from freeing caps, preserving options, and avoiding early removal that seals deeper pairs.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  速度優先：素早いマッチがコンボ乗数を構築します。
+2.  トップダウン：最初に上部レイヤーをクリアして、より多くのタイルを公開します。
+3.  複数の計画：4つの同一タイルがある場合、将来のアクセスのために最適なペアを選択します。
+4.  ヒントを保存：行き詰まった場合にのみヒントを使用します。
+5.  時間管理：残り時間に基づいてペースを調整します。
 
-[JA TRANSLATION NEEDED] 1.  Cap removal: Free and remove top caps to expose large areas quickly.
-[JA TRANSLATION NEEDED] 2.  Rarity first: Clear rare symbols early to prevent late deadlocks.
-[JA TRANSLATION NEEDED] 3.  Side access: Keep side lanes open; avoid sealing long strips.
-[JA TRANSLATION NEEDED] 4.  Hint reserve: Save hints/shuffles for when new openings stop appearing.
-[JA TRANSLATION NEEDED] 5.  Pace: Don’t rush — deliberate picks trump speed.
+### 操作ガイド
 
-### Controls Guide
+- クリック/タップして一致するフリータイルをマッチします。ヒント/シャッフルはUI経由で利用可能です。
 
-- Select two matching open tiles to remove; use hints/shuffles per UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: No moves available?
-  
-[JA TRANSLATION NEEDED]   A: Shuffle if allowed or restart with a different cap‑first plan.
-
-- Q: Do seasons/flowers match cross‑suit?
-  
-[JA TRANSLATION NEEDED]   A: Many sets allow cross‑matching within seasonal/flower groups.
-
-- Q: Timed?
-  
-
-
-
-
-
-- Q: No moves available?
-### よくある質問（FAQ）
-- Select two matching open tiles to remove; use hints/shuffles per UI.
-### コントロールガイド
-- Pace: Don’t rush — deliberate picks trump speed.
-[JA TRANSLATION NEEDED]   A: Some boards are timed; prioritize caps and rare symbols.
-
-
-
-
-
-
-A: Some boards are timed; prioritize caps and rare symbols.
-- Q: Timed?
-A: Many sets allow cross‑matching within seasonal/flower groups.
-- Q: Do seasons/flowers match cross‑suit?
-
-
-A: Some boards are timed; prioritize caps and rare symbols.
+- **Q: コンボを増やすにはどうすればよいですか？**  
+  A: 連続してマッチし、一時停止せずにチェーンを構築します。
+- **Q: どのタイルが最初に優先されますか？**  
+  A: 重く積み重ねられた領域をアンブロックするタイル。
+- **Q: 時間切れ — ペナルティは？**  
+  A: 通常、レベルの再起動が必要です。効率的に計画します。

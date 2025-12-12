@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: trap-the-cat
-title: '[ES] Trap the Cat'
+title: "Trap the Cat - Enciérralo en el tablero"
 description: >-
-  [ES] Trap the Cat is a strategic puzzle game where players must block a clever
-  cat's escape routes by placing barriers on a hexagonal grid, using logic and
-  planning to prevent the cat from reaching the edge.
-iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
-thumbnail: /new-images/trap-the-cat.jpg
+  Trap the Cat es un rompecabezas estratégico en el que debes bloquear las rutas
+  de escape de un astuto gato colocando barreras en un tablero hexagonal, usando
+  lógica y planificación para impedir que llegue al borde.
+iframeSrc: "https://freeonlinegames.github.io/cat-trap.html"
+thumbnail: "/new-images/trap-the-cat.jpg"
 tags:
   - strategy
   - puzzle
@@ -16,35 +16,35 @@ score: 4.0/5  (972 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+Trap the Cat es un juego de puzles estratégicos en el que debes cortar todas las rutas de escape de un gato muy escurridizo. Colocando obstáculos en las casillas de una cuadrícula hexagonal, tendrás que anticipar sus movimientos y cerrar el paso antes de que alcance el borde del tablero.
 
+### Estrategia de juego
 
+1.  **Control del centro:** intenta rodear primero la posición inicial del gato, reduciendo poco a poco el área por la que puede moverse.
+2.  **Análisis de caminos:** observa las rutas más cortas hacia el borde y bloquea primero esos corredores.
+3.  **Defensa en los bordes:** presta atención a los extremos del tablero para evitar que el gato encuentre un hueco por el que escapar en el último momento.
+4.  **Predice su movimiento:** el gato tiende a elegir el camino más eficiente; intenta adivinar hacia dónde se dirigirá en el siguiente turno.
+5.  **Cierre completo:** tu objetivo final es formar un anillo cerrado de obstáculos sin dejar fisuras.
 
-### Game Introduction
+### Cómo jugar
 
-"Trap the Cat" is a strategic puzzle game where players must block a clever cat's escape routes by placing barriers on a hexagonal grid, using logic and planning to prevent the cat from reaching the edge. This game tests players' prediction abilities and strategic thinking.
+*   **Colocar barreras:** haz clic en las celdas hexagonales para colocar obstáculos.
+*   **Observar al gato:** vigila su posición actual y las direcciones posibles en las que puede moverse.
+*   **Reiniciar:** si el gato consigue escapar, puedes reiniciar y probar una estrategia distinta.
 
-### Gameplay Strategy
+### Preguntas frecuentes
 
-1.  **[ES]** **Center Control**: Try to place barriers around the cat first, gradually shrinking its movement area.
-2.  **[ES]** **Path Analysis**: Observe the cat's possible escape routes and prioritize blocking the shortest paths.
-3.  **[ES]** **Edge Defense**: Pay attention to protecting the grid edges to prevent the cat from finding breakthrough points.
-4.  **[ES]** **Predict Movement**: The cat will choose optimal paths; predict its next movement direction.
-5.  **[ES]** **Encirclement Strategy**: Form a complete encirclement without leaving any escape gaps.
+1.  **Q: ¿Cómo se mueve el gato?**  
+    **A:** El gato suele elegir el camino más corto hacia un borde libre, avanzando una casilla por turno.
 
-### How to Play
+2.  **Q: ¿Hay límite de tiempo?**  
+    **A:** Normalmente no; puedes pensar con calma dónde colocar cada barrera.
 
-*   **[ES]** **Place Barriers**: Click on hexagonal cells to place obstacles.
-*   **[ES]** **Observe Cat**: Watch the cat's current position and possible movement directions.
-*   **[ES]** **Restart**: If you fail, you can restart the challenge.
+3.  **Q: El número de obstáculos es limitado?**  
+    **A:** Sueles tener un número reducido de movimientos efectivos; si no logras cerrar el círculo a tiempo, el gato escapará.
 
-### Frequently Asked Questions
+4.  **Q: Cómo puedo mejorar mi porcentaje de éxito?**  
+    **A:** Practica la lectura de patrones de movimiento del gato y aprende a detectar los puntos clave que debes bloquear primero.
 
-1.  **[ES]** **Q: How does the cat move?**
-**A**: The cat intelligently chooses the shortest path to the edge, moving one step per turn.
-2.  **[ES]** **Q: Is there a time limit?**
-**A**: Usually no time limit; you can carefully consider each placement.
-3.  **[ES]** **Q: Is there a limit to the number of obstacles?**
-**A**: Yes, you need to successfully trap the cat within a limited number of moves, adding strategic difficulty.
-4.  **[ES]** **Q: How can I improve success rate?**
-**A**: Practice observing the cat's behavior patterns and learn to predict the most effective blocking positions.

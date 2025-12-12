@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: pirate-pop
-title: '[DE] Pirate Pop'
+title: Pirate Pop
 description: >-
-  [DE] Ahoy! Take aim and pop the pirate bubbles. A classic bubble shooter game
-  where you match three or more to clear the board and claim the pirate
-  treasure.
+  Ahoi! Richte deine Kanone aus und lass die Piratenblasen platzen. Ein
+  klassischer Bubble-Shooter, in dem du drei oder mehr gleichfarbige Blasen
+  kombinierst, um das Feld zu räumen und den Schatz zu erbeuten.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/pirate-pop.png
 tags:
@@ -17,32 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Pirate Pop ist ein spaßiger, süchtig machender Bubble-Shooter im
+ Piraten-Setting. Dein Ziel ist es, alle farbigen Blasen vom Bildschirm zu
+ räumen, indem du sie mit deiner Kanone abschießt und Gruppen von mindestens
+ drei gleichfarbigen Blasen bildest. Mit gezieltem Zielen, cleveren
+ Banden-Schüssen an den Seitenwänden und großen Kettenreaktionen lässt du ganze
+ Blasen-Cluster herabstürzen und sicherst dir so jede Menge Piratenbeute.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Pirate Pop is a fun and addictive bubble shooter game with a swashbuckling pirate theme. Your goal is to clear the screen of colorful bubbles by firing your cannon and matching three or more bubbles of the same color. Aim carefully, use the walls to make tricky bank shots, and create large chain reactions to drop big clusters of bubbles and claim the pirate treasure!
+1.  **Hoch zielen für große Abstürze:** Am meisten punktest du, wenn du
+    Blasen triffst, die viele andere tragen. Löst du den oberen Anker, fallen
+    alle darunterliegenden Blasen mit herunter.
+2.  **Wände nutzen:** Beherrsche den Banden-Schuss. Über die Seitenwände
+    erreichst du enge Ecken und Blasen, die frontal verdeckt sind.
+3.  **Vorausplanen:** Meist siehst du die nächste Blase in deiner Kanone.
+    Passt die aktuelle schlecht, nutze sie, um eine bessere Ausgangslage für die
+    folgende Farbe zu schaffen.
+4.  **Grenze im Blick behalten:** Die Blasenreihe senkt sich langsam ab. Sobald
+    eine Blase die Linie am unteren Rand überschreitet, ist deine Piratenfahrt
+    vorbei.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Aim High for Big Drops:** The most effective way to score big is to pop a cluster of bubbles that is supporting other bubbles below it. This will cause a huge avalanche, clearing a large portion of the board at once and earning you massive combo points.
-2.  **[DE]** **Use the Walls:** Master the bank shot. Bouncing your bubble off the side walls is a crucial skill for reaching tight spots and hitting bubbles that are otherwise blocked.
-3.  **[DE]** **Plan Ahead:** The game usually shows you the next bubble in your cannon. Use this to your advantage. If your current bubble isn't a good match, see if you can use it to set up a better shot for the next one.
-4.  **[DE]** **Don't Let Them Reach You:** A line of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, your voyage is over!
+*   **Zielen:** Bewege die Maus, um deine Kanone auszurichten. Eine Hilfslinie
+    zeigt dir meist die Flugbahn.
+*   **Schießen:** Klicke mit der linken Maustaste, um die Blase abzufeuern.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Aim:** Move your mouse to aim the cannon. A helpful guideline will show you where your bubble will go.
-*   **[DE]** **Shoot:** Click the left mouse button to fire the bubble.
+*   **F: Was ist das Ziel des Spiels?**
+    **A:** Du musst alle Blasen auf dem Spielfeld entfernen und dabei möglichst
+    viele Punkte sammeln.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Wie erziele ich hohe Punktzahlen?**
+    **A:** Lass große Blasen-Gruppen auf einmal herabfallen. Je mehr Blasen du
+    mit einem Schuss löst, desto höher dein Kombobonus.
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** To clear all the bubbles from the board and achieve the highest score possible.
+*   **F: Was mache ich, wenn ich keine passende Farbe treffen kann?**
 
-*   **[DE]** **Q: How do I get the highest score?**
-    *   **[DE]** **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
+    - **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
 
-*   **[DE]** **Q: What if I can't make a match?**
-    *   **[DE]** **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
+- **Q: What if I can't make a match?**
 
+    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
+    **A:** Versuche, die Blase so zu platzieren, dass sie später leicht mit
+    einer passenden Farbe entfernt werden kann und dir nicht den Weg blockiert.

@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: house-of-hazards
-title: '[FR] House Of Hazards'
-description: >-
-  [FR] Local party chaos: complete simple chores in a booby‑trapped house while
-  friends trigger hazards to knock you out.
-iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
+title: "House Of Hazards"
+description: "Party game local chaotique : réalise des tâches quotidiennes dans une maison pleine de pièges pendant que tes amis déclenchent des hazards pour te faire voler dans tous les sens."
+iframeSrc: "https://webglmath.github.io/house-of-hazards/"
 thumbnail: /new-images/house-of-hazards.jpg
 tags:
   - party
@@ -15,30 +13,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+House Of Hazards est un party game multijoueur local qui se déroule dans une maison truffée de pièges. Les joueurs se disputent pour accomplir des tâches toutes simples — faire un café, arroser les plantes, sortir de la maison — pendant que les autres essaient de les envoyer valser en actionnant des toasters catapultes, des lampes qui tombent ou des dalles piégées. Les manches sont courtes, la physique est imprévisible et chaque pièce possède ses propres gags.
 
+### Comment jouer
 
-### Overview
-House of Hazards is a couch‑multiplayer party game set in a trap‑filled home. Players race to finish everyday tasks—make coffee, water plants, head out the door—while opponents sabotage them by firing toasters, swinging lamps, or activating floor traps. Quick rounds, unpredictable physics, and map‑specific gags keep matches lively.
+- En mode tâches, termine ta liste d’objectifs avant les autres ; en mode sabotage, déclenche les pièges au moment parfait pour provoquer un maximum de chaos.  
+- Apprends où se trouvent les déclencheurs dans chaque pièce afin de viser les couloirs, portes et escaliers où les joueurs passent forcément.  
+- En équipe, coordonne‑toi avec tes partenaires pour enchaîner plusieurs pièges d’affilée sur la même victime.
 
-### How to Play
-- In task mode, finish your checklist first; in sabotage mode, time traps for maximum chaos.
-- Learn trigger points for each room to catch runners at chokepoints.
-- Coordinate with partners in team variants to chain hazards.
+### Commandes
 
-### Controls
-- Simple move/jump/action keys; multiple local players with separate binds.
+- Commandes simples de déplacement/saut/action (touches exactes indiquées par l’hébergeur). Chaque joueur utilise un ensemble de touches différent sur le même clavier ou manette.
 
-### Tips
-- Don’t tunnel‑vision the next task—watch for glows indicating armed traps.
-- Jump before moving hazards to maintain momentum after hits.
-- As saboteur, bait movement then trigger late to catch jump arcs.
+### Astuces
 
-### FAQ
-- Q: How do I win consistently against multiple opponents?
-A: Plan a task route with minimal room crossings and avoid known ambush spots.
-- Q: Can we customize rules or teams in this game?
-A: Many hosts allow team play and house rule tweaks.
-- Q: Is there a single‑player mode available?
-A: Some hosts include bot races or challenge runs, but the game shines in local multiplayer.
+- Ne te focalise pas uniquement sur ta prochaine tâche : surveille les lumières ou effets visuels qui indiquent qu’un piège est armé.  
+- Saute juste avant les obstacles mobiles pour conserver un peu de vitesse après l’impact au lieu de t’arrêter net.  
+- En saboteur, fais semblant de ne pas déclencher un piège pour pousser les autres à s’avancer, puis active‑le au dernier moment.
+
+### Foire aux questions (FAQ)
+
+- Q : Comment gagner régulièrement contre plusieurs adversaires ?  
+  R : Planifie un itinéraire de tâches qui traverse le moins de pièces piégées possible et évite les zones d’embuscade évidentes.
+
+- Q : Peut‑on personnaliser les règles ou les équipes ?  
+  R : Beaucoup d’hébergeurs proposent des options pour jouer en équipes ou adapter certaines règles de partie.
+
+- Q : Existe‑t‑il un mode solo ?  
+  R : Certaines versions ajoutent des courses contre des bots ou des défis, mais le jeu reste surtout pensé pour le multijoueur local.
 

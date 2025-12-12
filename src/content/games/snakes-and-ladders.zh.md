@@ -1,12 +1,10 @@
 ---
 locale: zh
 urlstr: snakes-and-ladders
-title: '[ZH TRANSLATION NEEDED] Snakes And Ladders'
+title: 《Snakes And Ladders》蛇梯棋
 description: >-
-  [ZH TRANSLATION NEEDED] Play Snakes and Ladders, the classic board game of
-  chance. Roll the die, climb ladders to get ahead, and watch out for snakes
-  that will slide you back down. Be the first to reach the final square to win
-  this timeless family game.
+  《Snakes And
+  Ladders》是一款经典的掷骰子运气棋盘游戏。掷出点数向前移动，踩到梯子就飞速爬升，小心蛇头会让你一路滑回去。谁先到达终点格谁就获胜，非常适合全家一起游玩。
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/snakes-and-ladders.jpg
 tags:
@@ -17,33 +15,34 @@ score: 4.2/5  (1342 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Snakes and Ladders is a timeless classic board game, also known as Chutes and Ladders in some regions. Originating from ancient India, it's a game of pure luck where players race to be the first to reach the final square on the board. The journey is unpredictable, with ladders helping you climb closer to victory and snakes sliding you back down.
+《Snakes And Ladders》（蛇梯棋）是一款历史悠久的经典棋盘游戏，在部分地区也被称为“Chutes and Ladders”。它起源于古印度，规则极其简单，几乎完全依赖运气：玩家只需掷骰子、按点数前进，比拼谁能最先抵达终点格。一路上，梯子会帮助你快速爬升，而蛇则会把你从高处滑回低位，让整个过程充满戏剧性与不可预测性。
 
-### Gameplay Guide
+### 游玩指南
 
-[ZH TRANSLATION NEEDED] The objective is to be the first player to land on the final square (usually 100). Players take turns rolling a single die and moving their piece that number of spaces. If you land on a square at the base of a ladder, you immediately move up to the square at the top. Conversely, if you land on a square with a snake's head, you must slide down to the square at the snake's tail.
+游戏目标是成为第一个抵达终点格（通常是第 100 格）的玩家。
 
-### Controls Guide
+- 玩家轮流掷一个六面骰，根据点数移动自己的棋子；
+- 若停在带有梯子底端的格子，就立刻顺着梯子爬到上端格子；
+- 若停在有蛇头的格子，则必须沿着蛇身滑落到蛇尾所在的格子；
+- 途中没有任何决策分支，纯粹依靠骰子点数决定命运，是一款规则友好、适合所有年龄的家庭游戏。
 
-- **Mouse/Touch:** Click or tap on the designated area to roll the die. The game will automatically move your piece.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **鼠标 / 触控：** 点击或轻触指定区域即可掷骰子，游戏会自动根据点数移动你的棋子。
 
-[ZH TRANSLATION NEEDED] **What is the main objective of Snakes and Ladders?**
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] The goal is to be the first person to get their game piece from the starting square (1) to the final square (100).
+**问：蛇梯棋的主要目标是什么？****
+答：** 从起始格（通常是 1）出发，尽快通过掷骰子移动到终点格（通常是 100），率先到达者获胜。
 
-[ZH TRANSLATION NEEDED] **Is there any strategy involved?**
+**问：这游戏有策略性吗？****
+答：** 绝大多数规则版本几乎完全基于运气，没有实质性的策略选择，因此非常适合小朋友或想轻松玩一局的玩家。
 
-[ZH TRANSLATION NEEDED] Snakes and Ladders is almost entirely a game of luck based on die rolls. There are no decisions to make that can influence the outcome, making it a simple and accessible game for all ages.
+**问：掷出 6 点会怎样？****
+答：** 在许多常见规则里，掷出 6 点不仅能走 6 格，还会额外获得一次掷骰机会，增加追赶或拉开的机会。
 
-[ZH TRANSLATION NEEDED] **What happens if I roll a six?**
-
-[ZH TRANSLATION NEEDED] In many common variations of the rules, rolling a six grants the player an extra turn.
-
-[ZH TRANSLATION NEEDED] **Do I need an exact roll to win?**
-
-[ZH TRANSLATION NEEDED] This depends on the specific version of the game. In traditional rules, you must roll the exact number to land on the final square. If your roll is too high, you might have to "bounce back" the excess spaces.
+**问：必须掷出刚好点数才能进终点吗？****
+答：** 这取决于具体玩法。在传统规则中通常需要“刚好”落在终点格上，多出的点数会造成反弹或原地不动，具体可以查看游戏内说明。
 

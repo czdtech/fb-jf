@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: differences-find-quest
-title: '[FR] Differences Find Quest'
+title: 'Differences Find Quest'
 description: >-
-  [FR] Differences Find Quest is a detailed spot‑the‑difference — scan scenes,
+  Differences Find Quest is a detailed spot‑the‑difference — scan scenes,
   mark discrepancies, and use hints wisely.
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/differences-find-quest.png
@@ -24,11 +24,11 @@ Differences Find Quest challenges you to compare two images and spot subtle chan
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[FR]** Grid scan: Divide the image into 4–6 zones and sweep each zone methodically.
-2.  **[FR]** Look for edges: Differences cluster at borders, shadows, and repeated textures.
-3.  **[FR]** Zoom if possible to check small details.
-4.  **[FR]** Save hints for the final 1–2 stubborn differences.
-5.  **[FR]** Take short breaks to reset your visual focus.
+1.  Grid scan: Divide the image into 4–6 zones and sweep each zone methodically.
+2.  Look for edges: Differences cluster at borders, shadows, and repeated textures.
+3.  Zoom if possible to check small details.
+4.  Save hints for the final 1–2 stubborn differences.
+5.  Take short breaks to reset your visual focus.
 
 ### Controls Guide
 

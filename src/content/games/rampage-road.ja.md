@@ -1,63 +1,39 @@
 ---
+title: "Rampage Road"
+description: "Rampage Roadは破壊レーシングゲームです。車を運転し、障害物を破壊し、カオスを引き起こし、破壊レースをマスターします。"
+iframeSrc: "https://rampageroad.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
+thumbnail: "/new-images/rampage-road.png"
+urlstr: "rampage-road"
+score: "4.1/5  (1934 votes)"
+tags: ["action", "racing", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: rampage-road
-title: '[JA TRANSLATION NEEDED] Rampage Road'
-description: >-
-  [JA TRANSLATION NEEDED] Rampage Road is a chaotic car shooter — weave traffic,
-  blast foes, and survive explosive pursuits.
-iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
-thumbnail: /new-images/rampage-road.png
-tags:
-  - car
-  - driving
-  - shooting
-score: 3.9/5  (1753 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Rampage Roadは、レーシングと破壊を組み合わせます。車を運転し、障害物を破壊し、カオスを引き起こし、ポイントを獲得します。より多くの破壊 = より高いスコア。車をアップグレードしてさらに多くの損害を引き起こします。
 
-[JA TRANSLATION NEEDED] Rampage Road mixes top‑down driving with arcade shooting. Navigate traffic, manage ammo or cooldowns, and eliminate targets while keeping your vehicle intact through waves of enemies.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **すべてを破壊:" より多い破壊 = より多いポイント。
+2.  **スピードを維持:" 速度は破壊パワーを増加させます。
+3.  **賢くアップグレード:" より強力なエンジンと装甲。
+4.  **コンボを連鎖:" 連続した破壊はボーナスを獲得します。
+5.  **クラッシュを避ける:" 大きな損傷はあなたを停止させます。
 
-[JA TRANSLATION NEEDED] 1.  Clean lines: Hug lanes with predictable gaps to avoid traffic hits.
-[JA TRANSLATION NEEDED] 2.  Burst fire: Short controlled bursts conserve ammo and heat.
-[JA TRANSLATION NEEDED] 3.  Focus targets: Remove dangerous foes (rockets/rammers) first.
-[JA TRANSLATION NEEDED] 4.  Collect wisely: Grab pickups when safe; don’t cut across heavy traffic.
-[JA TRANSLATION NEEDED] 5.  Escape tools: Save boosts or shields for emergencies.
+### 操作ガイド
 
-### Controls Guide
+- 矢印キー/WASD：ドライブ、ステア。
+- スペース：ブレーキ/ドリフト。
+- すべてを破壊します！
 
-- Drive: A/D or Left/Right; accelerate/brake with W/S or Up/Down.
-- Fire: Click/Space per mode; secondary with another key if present.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- I explode fast—why? You’re trading hits in traffic; prioritize avoidance over kills.
-- Ammo limited? Many modes—use bursts and time reloads.
-- Boss fights? Some waves escalate; prepare boosts and space.
-
-
-
-
-
-
-
-
-
-- Boss fights? Some waves escalate; prepare boosts and space.
-- Ammo limited? Many modes—use bursts and time reloads.
-- I explode fast—why? You’re trading hits in traffic; prioritize avoidance over kills.
-### よくある質問（FAQ）
-- Fire: Click/Space per mode; secondary with another key if present.
-- Drive: A/D or Left/Right; accelerate/brake with W/S or Up/Down.
-### コントロールガイド
-
-
-
-
-- Boss fights? Some waves escalate; prepare boosts and space.
-- Ammo limited? Many modes—use bursts and time reloads.
-- I explode fast—why? You’re trading hits in traffic; prioritize avoidance over kills.
+- **Q: 目標は何ですか？**  
+  A: できるだけ多くを破壊し、高得点を獲得します。
+- **Q: 車をアップグレードできますか？**  
+  A: はい、より良いパフォーマンスのためにアップグレードします。
+- **Q: エンドレスですか？**  
+  A: 多くのバージョンにはエンドレスと目標ベースのモードがあります。

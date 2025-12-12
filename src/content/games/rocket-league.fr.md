@@ -1,11 +1,12 @@
 ---
 locale: fr
 urlstr: rocket-league
-title: '[FR] Rocket League'
+title: 'Rocket League'
 description: >-
-  [FR] Rocket League is a high-octane sports game that combines soccer with
-  rocket-powered cars, where players drive, jump, and boost to hit a giant ball
-  into the opponent's goal in fast-paced aerial matches.
+  Rocket League est un jeu de sport survitaminé qui mélange football et voitures
+  propulsées par des fusées : tu conduis, sautes et boostes pour frapper un
+  énorme ballon et marquer dans le but adverse lors de matchs aériens
+  ultra‑dynamiques.
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/rocket-league.jpg
 tags:
@@ -17,35 +18,55 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Rocket League est un jeu de sport à haute intensité qui combine football et
+voitures équipées de réacteurs. Tu conduis des véhicules dotés de boosts, tu
+sautes et tu fonces dans un ballon géant pour marquer dans le but adverse.
+Le jeu est célèbre pour ses duels aériens rapides et son moteur physique
+spectaculaire.
 
+### Stratégies de jeu
 
-### Game Introduction
+1.  **Maîtriser les commandes de base :** deviens à l’aise avec
+    l’accélération, le freinage, la direction, les sauts et le boost.
+2.  **Travailler le jeu aérien :** apprends à contrôler ta voiture dans les
+    airs pour réaliser des frappes et interceptions aériennes.
+3.  **Coopérer en équipe :** coordonne‑toi avec tes coéquipiers pour les
+    passes, les centres, les reprises et la défense.
+4.  **Garder une bonne position :** maintiens un placement équilibré sur
+    le terrain, en alternant phases offensives et retours défensifs.
+5.  **Gérer ton boost :** utilise l’énergie de boost avec parcimonie,
+    garde‑en pour les moments clés (sauvetages, contre‑attaques, duels
+    aériens).
 
-"Rocket League" is a high-octane sports game that combines soccer with rocket-powered cars. Players drive vehicles equipped with rocket boosters, using driving, jumping, and boosting to hit a giant ball with the goal of scoring in the opponent's goal. The game is famous for its fast-paced aerial combat and exciting physics engine.
+### Comment jouer
 
-### Gameplay Strategy
+*   **Déplacement :** utilise les flèches ou les touches WASD pour
+    accélérer, reculer et tourner.  
+*   **Saut :** appuie sur la touche de saut pour faire bondir la voiture ;
+    un deuxième appui permet souvent un double saut.  
+*   **Boost :** maintiens la touche de boost pour un surcroît de vitesse et
+    de mobilité dans les airs.  
+*   **Contrôle en vol :** utilise la direction et les commandes aériennes
+    pour orienter ta voiture et ajuster ton angle de frappe.
 
-1.  **[FR]** **Master Basic Controls**: Become proficient with acceleration, steering, jumping, and rocket boost basic operations.
-2.  **[FR]** **Aerial Skills**: Learn to control vehicles in the air for aerial hits and interceptions.
-3.  **[FR]** **Team Cooperation**: Coordinate with teammates for passing, assists, and defensive plays.
-4.  **[FR]** **Positional Awareness**: Maintain good field position, balancing offense with timely defensive returns.
-5.  **[FR]** **Boost Management**: Use rocket boost energy wisely, conserving energy for crucial moments and key plays.
+### Foire aux questions
 
-### How to Play
+1.  **Q : Comment réussir les frappes aériennes ?**  
+   R : Utilise le saut puis le boost pour décoller, oriente ta voiture vers
+   la balle et frappe‑la avec la bonne partie de ton véhicule. Beaucoup de
+   pratique est nécessaire.
 
-*   **[FR]** **Movement**: Use arrow keys or WASD to control vehicle acceleration, reverse, and steering.
-*   **[FR]** **Jump**: Press jump key to make the vehicle jump; can perform double jumps.
-*   **[FR]** **Rocket Boost**: Hold boost key for extra speed and aerial maneuverability.
-*   **[FR]** **Steering**: Use steering controls in the air to adjust vehicle attitude and direction.
+2.  **Q : Comment recharger mon boost ?**  
+   R : Ramasse les pads de boost répartis sur le terrain. Il existe de
+   petites pastilles et de gros orbes qui remplissent davantage ta jauge.
 
-### Frequently Asked Questions
+3.  **Q : Quels modes de jeu sont disponibles ?**  
+   R : En général, tu trouveras des matchs 1v1, 2v2, 3v3 et d’autres modes
+   spéciaux ponctuels.
 
-1.  **[FR]** **Q: How do I perform aerial hits?**
-**A**: Use jump and rocket boost to get airborne, then adjust vehicle angle to hit the ball; requires extensive practice to master.
-2.  **[FR]** **Q: How is rocket boost energy replenished?**
-**A**: Collect boost pads scattered around the field to restore boost energy; there are small and large boost pads available.
-3.  **[FR]** **Q: What game modes are available?**
-**A**: Typically includes 1v1, 2v2, 3v3, and other match modes, plus various special game modes.
-4.  **[FR]** **Q: How can I improve my skill level?**
-**A**: Practice basic operations more, watch high-level player match recordings, and gradually learn advanced techniques.
+4.  **Q : Comment progresser plus vite ?**  
+   R : Entraîne‑toi aux bases, utilise le mode entraînement, regarde des
+   replays de joueurs de haut niveau et ajoute progressivement de nouvelles
+   techniques à ton jeu.

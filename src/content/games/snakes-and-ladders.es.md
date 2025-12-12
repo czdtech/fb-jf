@@ -1,13 +1,14 @@
 ---
 locale: es
 urlstr: snakes-and-ladders
-title: '[ES] Snakes And Ladders'
+title: "Snakes And Ladders"
 description: >-
-  [ES] Play Snakes and Ladders, the classic board game of chance. Roll the die,
-  climb ladders to get ahead, and watch out for snakes that will slide you back
-  down. Be the first to reach the final square to win this timeless family game.
-iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
-thumbnail: /new-images/snakes-and-ladders.jpg
+  Juega a Snakes and Ladders, el clásico juego de mesa de pura suerte. Lanza el
+  dado, sube por las escaleras para avanzar y cuidado con las serpientes que te
+  harán retroceder. Sé el primero en llegar a la casilla final para ganar este
+  juego familiar de toda la vida.
+iframeSrc: "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
+thumbnail: "/new-images/snakes-and-ladders.jpg"
 tags:
   - board-game
   - classic
@@ -16,35 +17,46 @@ score: 4.2/5  (1342 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introducción al juego
 
+Snakes and Ladders es un juego de mesa clásico, conocido en algunos países como
+Chutes and Ladders. Nacido en la India antigua, es un juego de pura suerte en el
+que los jugadores compiten por ser los primeros en llegar a la casilla final del
+tablero. El camino está lleno de altibajos: las escaleras te acercan a la meta,
+pero las serpientes te harán caer varias casillas hacia atrás.
 
-### Game Introduction
+### Guía de juego
 
-Snakes and Ladders is a timeless classic board game, also known as Chutes and Ladders in some regions. Originating from ancient India, it's a game of pure luck where players race to be the first to reach the final square on the board. The journey is unpredictable, with ladders helping you climb closer to victory and snakes sliding you back down.
+El objetivo es ser el primer jugador en llegar a la casilla final (normalmente
+la 100). Los jugadores se turnan para lanzar un dado y avanzar su ficha el número
+de casillas indicado. Si caes en una casilla con el inicio de una escalera,
+subes inmediatamente hasta la casilla de arriba. Si caes en una casilla con la
+cabeza de una serpiente, desciendes hasta la casilla de su cola.
 
-### Gameplay Guide
+### Guía de controles
 
-The objective is to be the first player to land on the final square (usually 100). Players take turns rolling a single die and moving their piece that number of spaces. If you land on a square at the base of a ladder, you immediately move up to the square at the top. Conversely, if you land on a square with a snake's head, you must slide down to the square at the snake's tail.
+- **Ratón/Táctil:** Haz clic o toca en la zona indicada para lanzar el dado. El
+  juego moverá tu ficha automáticamente.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- **Mouse/Touch:** Click or tap on the designated area to roll the die. The game will automatically move your piece.
+**¿Cuál es el objetivo principal de Snakes and Ladders?**
 
-### Frequently Asked Questions (FAQ)
+Ser la primera persona en llevar su ficha desde la casilla de salida (1) hasta
+la casilla final (100).
 
-**What is the main objective of Snakes and Ladders?**
+**¿Existe estrategia o es todo azar?**
 
-The goal is to be the first person to get their game piece from the starting square (1) to the final square (100).
+Prácticamente todo depende de las tiradas de dado; no hay decisiones que puedan
+cambiar el resultado, lo que lo hace un juego muy sencillo y accesible para
+cualquier edad.
 
-**Is there any strategy involved?**
+**¿Qué pasa si saco un seis?**
 
-Snakes and Ladders is almost entirely a game of luck based on die rolls. There are no decisions to make that can influence the outcome, making it a simple and accessible game for all ages.
+En muchas variantes, sacar un seis te concede un turno extra.
 
-**What happens if I roll a six?**
+**¿Necesito sacar la tirada exacta para ganar?**
 
-In many common variations of the rules, rolling a six grants the player an extra turn.
-
-**Do I need an exact roll to win?**
-
-This depends on the specific version of the game. In traditional rules, you must roll the exact number to land on the final square. If your roll is too high, you might have to "bounce back" the excess spaces.
-
+Depende de la versión. En las reglas tradicionales, debes sacar el número justo
+para caer en la casilla final. Si te pasas, normalmente "rebotas" hacia atrás el
+exceso de casillas.

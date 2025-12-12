@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fancy-pants-2
-title: '[ZH TRANSLATION NEEDED] Fancy Pants 2'
+title: "Fancy Pants 2 手繪疾走平台續作"
 description: >-
-  [ZH TRANSLATION NEEDED] Momentum‑driven platformer sequel: faster movement
-  tech, new enemies, and larger hand‑drawn stages with secrets and trophies.
+  《Fancy Pants 2》是一款以慣性與速度感為核心的橫版平台續作，
+  速度動作更流暢、敵人與關卡更豐富，手繪風場景中藏著大量秘密與獎盃。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/fancy-pants-2.jpg
@@ -18,26 +18,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Build and preserve momentum through slopes and walls, collect trophies, and clear larger levels with optional challenge rooms.
+
+在《Fancy Pants 2》中，你操控穿著招牌寬褲的主角，靠著坡道、牆壁與各種地形累積慣性，
+用極具手感的動作在大幅度關卡中高速穿梭。一路上可以收集獎盃與隱藏物品，
+也能挑戰額外的高難度房間，整體重點在於「跑起來有多順」與探索關卡細節。
 
 ### How to Play
-- Use slides and wall‑jumps to chain movement across big gaps.
-- Explore for collectibles to open bonus doors.
-- Fight simple enemies with stomp or quick swipes (when available).
+
+- 利用斜坡滑行與牆跳，把動能延續到下一個大平台或裂縫上。
+- 仔細探索每一個角落，收集散落的獎盃與可收集物，開啟隱藏門與額外挑戰房。
+- 對付普通敵人時，可以踩頭或使用快速揮擊（若當前版本提供武器），
+  但更重要的是保持移動節奏，不要在原地硬拼太久。
 
 ### Controls
-- WASD/Arrows to move/jump; Down to slide; Up to enter doors.
+
+- WASD 或方向鍵移動／跳躍。
+- 向下鍵在斜坡上滑行、加速或鑽入特定地形。
+- 向上鍵進入門或與部分物件互動。
 
 ### Tips
-- Practice slope exits to keep speed over flat stretches.
-- Buffer jumps at edges for consistent long carries.
-- Use downhill slides before vertical climbs.
+
+- 多練習「衝出斜坡」的手感，學會在斜坡尾端帶著最大速度衝上平地，
+  這樣整關都能維持流暢節奏。
+- 在平台邊緣提前按下跳躍鍵（buffer jump），可以大幅提升長距離跳躍成功率。
+- 善用下坡滑行來累積速度，再把這股慣性帶入上坡與垂直牆跳，會比單純狂按方向鍵有效得多。
 
 ### FAQ
-- Q: Is there a story?  
-[ZH TRANSLATION NEEDED]   A: Light framing; focus is movement and level secrets.
-- Q: Are there speed runs?  
-[ZH TRANSLATION NEEDED]   A: Time trials/challenges exist in many hosts.
-- Q: Progress saving?  
-[ZH TRANSLATION NEEDED]   A: Depends on host; some keep local progress.
 
+- 問：有完整劇情嗎？  
+  答：只有輕量的故事框架，主要重點還是在跑圖手感與發掘關卡裡的各種秘密。
+
+- 問：有速通或計時挑戰嗎？  
+  答：很多託管版本都提供計時挑戰或關卡評分，非常適合喜歡速通、刷紀錄的玩家。
+
+- 問：存檔進度會保存嗎？  
+  答：要看平台實作，有些會在本機保留你的關卡進度與收集狀態，有些則是每次重新開始。

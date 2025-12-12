@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: raft-wars
-title: '[KO] Raft Wars'
+title: "Raft Wars 래프트 워즈"
 description: >-
-  [KO] Raft Wars is a turn-based strategy shooting game where players help two
-  young brothers defend their treasure from pirates and vikings using tennis
-  balls and other projectiles in naval battles.
+  두 형제가 발견한 보물을 지키기 위해 해적과 바이킹과 싸우는
+  턴제 포탄 슈팅 게임입니다. 각도를 조절해 테니스공과 폭탄을
+  쏘아 적을 뗏목 밖으로 떨어뜨리세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/raft-wars.jpg
@@ -19,34 +19,72 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Raft Wars*는 두 어린 형제가 우연히 발견한 보물을 노리는 해적과
+바이킹을 상대로 싸우는 턴제 전략 슈팅 게임입니다. 플레이어는
+뗏목 위에서 테니스공과 다양한 투사체를 발사해 적들을 맞히고,
+물속으로 떨어뜨려 스테이지를 클리어해야 합니다.
 
-### Game Introduction
+발사 각도와 파워, 바람 등 물리 요소를 고려해야 하기 때문에 단순한
+운이 아니라 **포물선 계산과 연습**이 중요한 게임입니다.
 
-"Raft Wars" is a turn-based strategy shooting game where players help two young brothers defend their discovered treasure from pirates and vikings who try to steal it. The game features physics-based shooting mechanics, requiring players to adjust angles and power to use tennis balls and other projectiles to defeat enemies by knocking them off their rafts into the water.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **발사 각도와 힘에 익숙해지기**  
+   마우스로 각도를 조절하고 힘을 정한 뒤 발사하게 됩니다.
+   몇 번 시도해 보면서 같은 거리의 목표물을 맞히기 위해 어느 정도
+   힘과 각도가 필요한지 감을 익히세요. 바람이 있는 스테이지에서는
+   화살표를 확인해 보정해야 합니다.
 
-1.  **[KO]** **Master Shooting Skills**: Learn to adjust launch angles and power, observing how environmental factors like wind affect the trajectory.
-2.  **[KO]** **Prioritize Target Selection**: Focus on attacking closer or more threatening enemies first, managing attack order wisely.
-3.  **[KO]** **Utilize Physics**: Take advantage of bouncing, explosions, and other physical effects to achieve better attack results.
-4.  **[KO]** **Protect Yourself**: Ensure your characters don't get knocked off, making good use of cover and positional advantages.
-5.  **[KO]** **Upgrade Equipment**: As the game progresses, acquire more powerful weapons and items to enhance combat capabilities.
+2. **우선순위가 높은 목표부터 제거하기**  
+   더 가까이 있는 적이나, 강한 무기를 가진 적을 먼저 쓰러뜨리는 것이
+   좋습니다. 공격 순서를 잘 조절하면 적이 제대로 공격하기 전에
+   전투를 끝낼 수 있습니다.
 
-### How to Play
+3. **물리 효과 적극 활용하기**  
+   테니스공이 벽이나 장애물에 튕기거나, 폭발형 투사체가 넓은 범위를
+   공격할 수 있다는 점을 이용해 보세요. 직접 맞히기 어려운 위치의
+   적도 벽 튕기기나 폭발 반경을 이용하면 간접적으로 제거할 수
+   있습니다.
 
-*   **[KO]** **Aim**: Use the mouse to adjust launch angle, typically by dragging to control direction and power.
-*   **[KO]** **Fire**: Click the mouse or press a specific key to launch projectiles.
-*   **[KO]** **Select Weapons**: Switch between available weapons, choosing the most suitable one for the current situation.
-*   **[KO]** **Move**: In some levels, you may be able to move your raft position to get better shooting angles.
+4. **아군이 떨어지지 않도록 위치 관리하기**  
+   적의 공격에 맞아 내 캐릭터가 뗏목 밖으로 떨어지면 큰 피해를
+   입습니다. 장애물이나 지형을 방패 삼아 최대한 안전한 위치를
+   유지하는 것도 중요합니다.
 
-### Frequently Asked Questions
+5. **무기와 업그레이드 활용하기**  
+   스테이지를 진행하면서 더 강력한 무기와 아이템을 구매하거나
+   해금할 수 있습니다. 적이 많거나 멀리 있는 스테이지에서는 폭발형
+   무기나 특수 발사체를 적절히 섞어 사용해 보세요.
 
-1.  **[KO]** **Q: How can I improve shooting accuracy?**
-**A**: Practice adjusting combinations of angle and power, observe trajectory paths, and consider the effects of environmental factors like wind.
-2.  **[KO]** **Q: How many levels are there in the game?**
-**A**: "Raft Wars" typically contains multiple chapters and levels, each with different enemy configurations and challenges.
-3.  **[KO]** **Q: How do I get better weapons?**
-**A**: By completing levels and defeating enemies, you can unlock more powerful weapons and special items.
-4.  **[KO]** **Q: What happens if I get knocked off?**
-**A**: If your character gets knocked into the water, you typically lose health or need to restart the level.
+### 조작 가이드
+
+- **조준**: 마우스로 캐릭터를 드래그해 발사 각도와 파워를 함께
+  조절합니다.  
+- **발사**: 마우스 버튼을 놓으면 투사체를 발사합니다.  
+- **무기 교체**: 화면 상단/하단의 무기 아이콘을 클릭해 상황에
+  맞는 무기로 변경할 수 있습니다.  
+- **위치 이동(지원되는 경우)**: 일부 스테이지에서는 뗏목 위치를
+  조정해 더 유리한 각도를 만들 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 명중률을 높이려면 어떻게 해야 하나요?**  
+   **A:** 같은 거리의 목표를 여러 번 연습해 각도와 파워의 감을
+   익히는 것이 가장 좋습니다. 발사 후 탄도 궤적을 관찰해, 다음에
+   얼마나 조정해야 할지 기억해 두세요.
+
+2. **Q: 스테이지는 얼마나 많이 있나요?**  
+   **A:** *Raft Wars*에는 여러 챕터와 스테이지가 있으며, 진행할수록
+   적의 배치와 장애물이 다양해집니다. 버전에 따라 추가 에피소드가
+   포함되기도 합니다.
+
+3. **Q: 더 좋은 무기는 어떻게 얻나요?**  
+   **A:** 스테이지를 클리어하고 적을 쓰러뜨리면 얻는 보상으로 상점에서
+   더 강력한 무기와 특수 아이템을 구매할 수 있습니다.
+
+4. **Q: 우리 편 캐릭터가 물에 떨어지면 어떻게 되나요?**  
+   **A:** 물에 떨어지면 체력이 크게 줄거나, 경우에 따라 해당 스테이지를
+   다시 시작해야 할 수 있습니다. 적의 공격 각도도 항상 염두에 두고
+   위치를 잡는 것이 중요합니다.

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: house-flip
-title: '[DE] House Flip'
+title: "House Flip"
 description: >-
-  [DE] House Flip gamifies renovation — inspect, budget upgrades, and flip
-  properties by fixing layout, style, and curb appeal.
+  House Flip macht Renovieren zum Spiel: Inspiziere Häuser, plane dein Budget
+  für Upgrades und verkaufe sie mit besserem Grundriss, Stil und Außenwirkung
+  gewinnbringend weiter.
 iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
 thumbnail: /new-images/house-flip.png
 tags:
@@ -15,35 +16,57 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+House Flip ist eine leichte Renovierungssimulation. Du prüfst, welche Probleme
+ein Haus hat – vom ungünstigen Grundriss über beschädigte Ausstattung bis hin zu
+altbackener Optik – entscheidest dich für passende Maßnahmen im Rahmen eines
+Budgets und verkaufst die Immobilie anschließend mit Gewinn. Erfolgreiche Flips
+finden die Balance zwischen Kosten und Wertsteigerung: Küche, Bad, frische
+Farben und Außenwirkung bringen meist deutlich mehr, als sie kosten.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-House Flip is a light renovation sim. Evaluate a property’s issues (layout flow, damaged fixtures, dated style), choose upgrades within a budget, and resell for profit. Efficient flips balance cost vs. value — kitchens/baths, paint, and curb appeal punch above their weight.
+1.  **Auf den ROI achten**  
+    Priorisiere Upgrades mit hoher Rendite: **Küchen und Bäder**, hochwertiger
+    Bodenbelag und ein neuer Anstrich. Räume mit niedriger Wirkung kannst du
+    fürs Erste zurückstellen.
 
-### Gameplay Strategy & Walkthrough
+2.  **Grundriss verbessern**  
+    Entferne Engstellen, öffne Durchgänge und sorge für sinnvolle Laufwege.
+    Zusätzlicher Stauraum (Einbauschränke, Regale) erhöht den Nutzwert.
 
-1.  **[DE]** ROI triage: Prioritize kitchens/baths, flooring, and paint; defer low‑impact rooms.
-2.  **[DE]** Layout fixes: Remove bottlenecks, add storage, and ensure good flow.
-3.  **[DE]** Theming: Keep a cohesive palette; mismatched rooms reduce appeal.
-4.  **[DE]** Staging: Add a few decor items to lift perceived value.
-5.  **[DE]** Budget control: Leave a contingency; don’t over‑invest beyond neighborhood caps.
+3.  **Konsistentes Design wählen**  
+    Halte dich an eine zusammenhängende Farb- und Stilpalette. Zu stark
+    gemischte Stile zwischen den Zimmern lassen das Haus chaotisch wirken und
+    drücken den Wert.
 
-### Controls Guide
+4.  **Möblierung gezielt einsetzen**  
+    Einige gut platzierte Deko-Elemente oder Möbelstücke können die
+    wahrgenommene Qualität stark erhöhen, ohne das Budget zu sprengen.
 
-- Inspect rooms, pick upgrades, place items, and confirm; some builds time‑gate tasks.
+5.  **Budget im Griff behalten**  
+    Plane immer eine Reserve für unerwartete Kosten ein und investiere nicht
+    mehr, als die Lage des Hauses hergibt – überrenovierte Objekte tragen sich
+    oft nicht.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: My profit is low — what to change?
+- Räume inspizieren, Upgrades auswählen, Objekte platzieren und Arbeiten
+  bestätigen – je nach Version laufen größere Maßnahmen über Timer, die nach
+  und nach abgeschlossen werden.
 
-A: Focus on high‑ROI upgrades and avoid over‑customization; keep budgets lean.
+### Häufige Fragen (FAQ)
 
-- Q: Which upgrade first?
+- **F: Meine Gewinne fallen zu niedrig aus – was mache ich falsch?**  
+  **A:** Konzentriere dich auf Upgrades mit hoher Rendite und vermeide teure,
+  sehr individuelle Umbauten. Halte das Budget schlank.
 
-A: Kitchen (surfaces/appliances) or bathrooms (fixtures/tiles) depending on condition.
+- **F: Welche Maßnahme sollte ich zuerst angehen?**  
+  **A:** In vielen Fällen lohnt sich zuerst die Küche (Oberflächen,
+  Elektrogeräte) oder das Bad (Armaturen, Fliesen), je nach Ausgangszustand.
 
-- Q: Does exterior matter?
-
-A: Yes — paint, landscaping, and entry lighting add inexpensive curb appeal.
-
+- **F: Wie wichtig ist die Außenansicht?**  
+  **A:** Sehr wichtig. Ein neuer Anstrich, etwas Landschaftsgestaltung und gute
+  Beleuchtung am Eingang steigern die Attraktivität mit relativ geringem
+  Kostenaufwand.

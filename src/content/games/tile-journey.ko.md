@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tile-journey
-title: '[KO] Tile Journey'
+title: "Tile Journey 타일 저니"
 description: >-
-  [KO] Embark on a relaxing Tile Journey. Select three identical tiles to clear
-  them from the board, but plan your moves carefully to avoid filling up your
-  collection tray!
+  차분하게 즐길 수 있는 타일 매칭 퍼즐 게임 Tile Journey입니다. 같은 타일 세 장을 골라 보드를
+  비우되, 한정된 수의 수집 트레이 칸이 가득 차지 않도록 계획적으로 플레이해야 합니다.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/tile-journey.png
 tags:
@@ -17,36 +16,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tile Journey는 느긋한 분위기 속에서 전략을 시험할 수 있는 현대적인 타일 매칭 퍼즐 게임입니다.
+화면에는 다양한 무늬의 타일이 층층이 쌓여 있고, 플레이어는 같은 타일 세 장을 골라 제거하면서
+보드를 모두 비우는 것이 목표입니다.
 
-### Detailed Game Introduction
+이 게임은 일반적인 매치3처럼 타일을 서로 교환하는 방식이 아니라, 선택한 타일을 화면 아래의
+**수집 트레이**로 옮긴 뒤 세 장이 모이면 사라지는 구조를 사용합니다. 트레이의 칸 수는 제한되어
+있기 때문에, 아무 생각 없이 타일을 담다 보면 금세 가득 차서 더 이상 움직일 수 없게 됩니다.
+보드를 전부 정리하고 스테이지를 클리어하려면, 한 칸 한 칸을 신중하게 사용해야 합니다.
 
-Tile Journey is a modern and relaxing tile-matching puzzle game that challenges your strategic thinking. The goal is to clear a board stacked with various tiles by selecting three identical tiles. Unlike traditional match-3 games, you don't swap tiles. Instead, you select tiles and move them to a limited-capacity collection tray at the bottom of the screen. When three identical tiles are in the tray, they are cleared. You must plan your moves carefully to clear the entire board without letting the tray fill up.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **트레이 칸 수를 항상 의식하기**: 수집 트레이는 보통 7칸 정도로 매우 제한적입니다. 아무
+    매치도 만들지 못한 채 트레이가 가득 차면 바로 패배이므로, 남은 칸의 수와 현재 담긴 타일의
+    종류를 항상 확인하면서 수를 두어야 합니다.
+2.  **보이는 세 개만 보지 말고 아래를 살피기**: 겉으로 보이는 동일 타일 세 개만 빠르게 클릭하는
+    것보다는, 그 아래에 어떤 타일이 기다리고 있는지를 보는 것이 더 중요합니다. 새로운 타일을 많이
+    드러내는 선택을 우선하면, 이후 선택지가 훨씬 넓어집니다.
+3.  **트레이를 임시 보관소로 활용하기**: 세 장을 바로 완성하지 않아도 괜찮습니다. 필요한 타일이
+    아직 막혀 있을 때는, 나중에 쓸 수 있는 후보들을 트레이에 잠시 보관해 두는 방식으로 플레이해
+    보세요. 예를 들어 동일 타일 두 장이 트레이에 있다면, 그 상태로 다른 타일을 처리하면서 마지막
+    한 장을 찾는 식으로 운영할 수 있습니다.
+4.  **계획 없이 넣지 않기**: "당장 세트를 완성할 수 없다"는 사실을 알면서도 아무 생각 없이 타일을
+    트레이에 올려 두면, 나중에 공간만 차지하는 짐이 되기 쉽습니다. 가까운 턴 안에 3장을 맞출 수
+    있는지, 아니면 다른 종류와 섞여 막히지 않는지를 먼저 계산한 뒤에 선택하세요.
 
-1.  **[KO]** **The Golden Rule:** The collection tray is limited (usually to seven slots). If you fill it completely without making a match, you lose. Every move must be made with this in mind.
-2.  **[KO]** **Plan Ahead:** Don't just click on the first three matching tiles you see. Look at the tiles underneath. Prioritize clicking tiles that will uncover the most new tiles, giving you more options for future moves.
-3.  **[KO]** **Use the Tray as a Holding Area:** You don't have to complete a set of three immediately. You can use the tray to temporarily hold tiles while you work to uncover the third one you need. For example, if you have two identical tiles in the tray, you can pick up other tiles while you search for the third matching one.
-4.  **[KO]** **Look Before You Leap:** Before placing a tile in the tray, make sure you have a plan for it. If you put a tile in the tray that you can't match soon, it will just take up valuable space.
+### 조작 방법 안내
 
-### Controls Guide
+이 게임은 클릭이나 터치만으로 간단하게 조작할 수 있습니다.
 
-The game is played with simple clicks or taps.
+*   **타일 선택**: 메인 보드에서 다른 타일에 가려져 있지 않은 타일을 클릭(또는 탭)하면, 해당
+    타일이 화면 아래의 수집 트레이로 이동합니다.
 
-*   **[KO]** **Select a Tile:** Click on any uncovered tile on the main board to move it to the collection tray at the bottom.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 게임의 기본 목표는 무엇인가요?**  
+    *   **A:** 보드 위의 모든 타일을 제거하는 것입니다. 같은 타일 세 장을 수집 트레이에 모아 없애는
+        과정을 반복해 전체 보드를 비우면 스테이지를 클리어하게 됩니다.
 
-*   **[KO]** **Q: What is the objective of the game?**
-    *   **[KO]** **A:** To clear all tiles from the board by collecting them in sets of three in your collection tray.
+*   **Q: 어떤 타일은 클릭이 안 되는 이유가 뭔가요?**  
+    *   **A:** 다른 타일에 일부라도 가려져 있는 타일은 아직 선택할 수 없습니다. 항상 가장 위층에
+        완전히 노출된 타일만 클릭할 수 있으므로, 먼저 위에 있는 타일들을 치워야 아래 타일을 사용할
+        수 있습니다.
 
-*   **[KO]** **Q: Why can't I select a certain tile?**
-    *   **[KO]** **A:** You can only select tiles that are on the top layer and are not covered by any other tile. You must clear the tiles on top to access the ones underneath.
+*   **Q: 트레이가 가득 차면 어떻게 되나요?**  
+    *   **A:** 수집 트레이의 모든 칸이 채워졌는데도 세 장을 맞춰 없앨 수 없다면, 더 이상 움직일 수
+        없게 되어 해당 스테이지는 패배 처리되고 다시 시작해야 합니다.
 
-*   **[KO]** **Q: What happens if my collection tray gets full?**
-    *   **[KO]** **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
-
-*   **[KO]** **Q: Are there power-ups?**
-    *   **[KO]** **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
-
+*   **Q: 파워업 같은 보조 기능이 있나요?**  
+    *   **A:** 일부 버전에서는 마지막 수를 되돌리는 **실행 취소(Undo)**, 가능한 매치를 보여 주는
+        **힌트(Hint)**, 보드를 섞는 **셔플(Shuffle)** 같은 파워업을 제공합니다. 막다른 상황이 오기
+        전에, 어려운 구간에서 전략적으로 사용하는 것이 좋습니다.

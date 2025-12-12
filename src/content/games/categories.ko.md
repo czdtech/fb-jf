@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: categories
-title: '[KO] Categories'
+title: 'Categories 카테고리즈'
 description: >-
-  [KO] Categories is a quick word‑sorting brainteaser — group items by theme,
-  deduce outliers, and beat the clock.
+  Categories는 제시된 단어·아이템들을 공통 주제별로 묶어 나가는 분류 퍼즐 게임입니다.
+  제한 시간 안에 공통점을 찾아 그룹을 만들고, 헷갈리는 미끼 단어를 가려 내 보세요.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/categories.png
 tags:
@@ -14,29 +14,60 @@ score: 4.0/5  (1855 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Categories는 여러 개의 단어 혹은 아이템을 보고, 이들을 공통 주제에 따라 묶어
+올바른 카테고리를 완성하는 가벼운 논리 퍼즐 게임입니다. 예를 들어 "과일",
+"악기", "동물" 같은 보이지 않는 분류가 존재하고, 플레이어는 각 단어가 어느 그룹에
+속하는지 추리해 배치해야 합니다.
 
+일부 항목은 여러 그룹에 들어갈 것처럼 보이는 미끼 역할을 하기도 하고,
+일정 시간 제한이나 이동 횟수 제한이 걸려 있어, 빠른 판단과 여유 있는 실험이
+동시에 요구됩니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Categories is a light logic game about sorting items into thematic groups. Identify common links, separate decoys, and solve sets under light timers or move limits.
+1.  **가장 분명한 그룹부터 확정하기**  
+    먼저 누구나 한눈에 알 수 있는 분류(예: 모두 과일, 모두 색깔 등)를 찾아
+    해당 그룹을 먼저 완성해 두면, 남는 후보가 줄어들어 나머지 분류가 쉬워집니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **애매한 단어는 여러 그룹 사이에 옮겨 보며 테스트**  
+    어떤 항목이 두 세 그룹 모두에 어울릴 것 같다면, 잠시 한 그룹에 넣어 본 뒤
+    다른 항목들과의 조합을 보고 다시 옮기는 식으로 "가설"을 시험해 보세요.
 
-1.  **[KO]** Easy sets first: Lock obvious groups to shrink the search space.
-2.  **[KO]** Test swaps: Move borderline items between plausible groups.
-3.  **[KO]** Spot decoys: Items that seem to fit many groups are often misleads.
-4.  **[KO]** Manage time: Don’t tunnel—cycle candidates quickly.
-5.  **[KO]** Confirm with opposites: If two categories are close, define them by what they exclude.
+3.  **너무 많은 그룹에 어울리는 단어는 미끼일 가능성**  
+    여러 주제에 애매하게 맞는 항목은 오히려 헷갈리게 만들기 위한 미끼인 경우가
+    많습니다. 먼저 명확한 항목으로 뼈대를 세운 뒤, 마지막에 자리를 정해도
+    늦지 않습니다.
 
-### Controls Guide
+4.  **시간 관리: 한 그룹에만 집착하지 않기**  
+    하나의 그룹이 잘 풀리지 않으면 잠시 다른 그룹으로 눈을 돌려 보세요.
+    전체 판을 여러 번 훑어보며 후보를 순환시키는 편이 시간 활용에 유리합니다.
 
-- Drag items into groups or tap to assign per UI.
-- Undo/Reset where available.
+5.  **비슷한 카테고리는 "제외되는 것"으로 구분하기**  
+    예를 들어 두 그룹이 모두 동물 관련이라면, 한쪽은 "물속 동물", 다른 한쪽은
+    "육지 동물"처럼 무엇을 포함하지 않는지 기준으로 차이를 잡아 보세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Are there multiple solutions? Usually one; follow intended themes.
-- Hints? Many versions provide hints—use sparingly.
-- Timed? Often light timers to keep pace brisk.
+-   **드래그 & 드롭:** 단어/아이콘을 마우스나 손가락으로 드래그해 적절한 그룹
+    영역으로 옮깁니다.
+-   **탭으로 할당:** 일부 UI에서는 항목을 탭해 순차적으로 그룹을 선택하는 방식도
+    지원합니다.
+-   **되돌리기/리셋:** 지원되는 경우 이전 배치를 되돌리거나, 퍼즐을 처음부터
+    다시 시작할 수 있습니다.
 
+### 자주 묻는 질문 (FAQ)
+
+-   **Q. 정답이 여러 개 있을 수 있나요?**  
+    A. 보통은 제작자가 의도한 한 가지 해답만 정답으로 인정됩니다. 애매해 보여도
+    게임이 요구하는 분류 기준을 따라야 합니다.
+
+-   **Q. 힌트가 제공되나요?**  
+    A. 많은 버전에서 힌트 버튼을 제공하지만, 지나치게 사용하면 퍼즐을 푸는
+    재미가 줄어들 수 있습니다. 정말 막혔을 때만 가볍게 활용해 보세요.
+
+-   **Q. 항상 시간 제한이 있나요?**  
+    A. 대개는 느슨한 타이머나 이동 횟수 제한이 있어 템포를 유지하도록 설계되어
+    있습니다. 제한이 있는 만큼, 한 문제에 너무 오래 붙잡혀 있기보다는 여러
+    후보를 빠르게 돌려 보는 것이 좋습니다.

@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: slope-3
-title: '[ES] Slope 3'
+title: "Slope 3"
 description: >-
-  [ES] Slope 3 is the latest installment in the popular Slope series, featuring
-  enhanced graphics and new challenging obstacles as players guide a ball down
-  an endless slope while avoiding deadly barriers and red blocks.
-iframeSrc: 'https://games-online.io/game/Slope3/'
-thumbnail: /new-images/slope-3.jpg
+  Slope 3 es la última entrega de la popular serie Slope, con gráficos mejorados
+  y nuevos obstáculos desafiantes mientras guías una bola por una pendiente
+  infinita esquivando barreras letales y bloques rojos.
+iframeSrc: "https://games-online.io/game/Slope3/"
+thumbnail: "/new-images/slope-3.jpg"
 tags:
   - endless runner
   - 3d
@@ -17,34 +17,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Slope 3" es la nueva entrega de la saga Slope. Mantiene la esencia: controlar
+una bola que baja por una pendiente infinita llena de plataformas y obstáculos,
+pero añade gráficos más pulidos y diseños de niveles más complejos. Tu misión es
+sobrevivir el máximo tiempo posible sin chocar.
 
+### Estrategias de juego
 
-### Game Introduction
+1.  **Adáptate al nuevo look 3D:** Acostúmbrate a los efectos visuales y a la
+    profundidad mejorada sin perder de vista los peligros.
+2.  **Aprende los nuevos obstáculos:** Familiarízate con los tipos de barreras
+    recién añadidos y cómo se comportan.
+3.  **Control a alta velocidad:** Practica técnicas de control fino cuando la
+    bola va muy rápida.
+4.  **Anticipa combinaciones de obstáculos:** Intenta leer con antelación las
+    secuencias de plataformas y elige la ruta más segura.
+5.  **Entrena la resistencia:** Necesitarás mantener la concentración durante
+    largos tramos; cualquier despiste puede ser fatal.
 
-"Slope 3" is the latest installment in the popular Slope series, featuring enhanced graphics and new challenging obstacles as players guide a ball down an endless slope while avoiding deadly barriers and red blocks. The game continues the series' core gameplay while introducing improved visuals and more complex level designs.
+### Cómo jugar
 
-### Gameplay Strategy
+*   **Movimiento izquierda/derecha:** Teclas A/D o flechas izquierda/derecha.
+*   **Control preciso:** Haz pequeños ajustes para pasar por pasillos estrechos y
+    entre bloques.
+*   **Reacción:** Responde con rapidez a cambios bruscos de dirección y a
+    obstáculos que aparecen de repente.
 
-1.  **[ES]** **Visual Adaptation**: Adapt to improved 3D graphics and new visual effects while maintaining focus.
-2.  **[ES]** **New Obstacle Learning**: Familiarize yourself with newly introduced obstacle types and their behavior patterns.
-3.  **[ES]** **Speed Management**: Master control techniques at higher speeds.
-4.  **[ES]** **Prediction Ability**: Anticipate complex obstacle combinations and path choices.
-5.  **[ES]** **Endurance Training**: Build the ability to maintain high concentration for extended periods.
+### Preguntas frecuentes
 
-### How to Play
-
-*   **[ES]** **Left/Right Movement**: Use A/D keys or left/right arrow keys to control ball movement.
-*   **[ES]** **Precise Control**: Make small adjustments to precisely navigate through narrow passages.
-*   **[ES]** **Reaction Training**: Quickly respond to suddenly appearing obstacles and direction changes.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: What new features does it have compared to previous games?**
-**A**: "Slope 3" typically includes better graphics, new obstacle types, improved physics engine, and smoother gameplay experience.
-2.  **[ES]** **Q: Is the difficulty higher than previous games?**
-**A**: Sequels usually add new challenging elements while maintaining core gameplay.
-3.  **[ES]** **Q: What are the performance requirements?**
-**A**: Due to graphics improvements, it may have higher device performance requirements.
-4.  **[ES]** **Q: Does it save progress?**
-**A**: Most versions record high scores and achievements, but specific features depend on the game version.
+1.  **P: ¿Qué novedades tiene respecto a los anteriores?**
+    **R:** Suele incluir gráficos más detallados, nuevos tipos de obstáculos,
+    físicas mejoradas y una experiencia de juego más fluida.
+2.  **P: ¿Es más difícil que los anteriores?**
+    **R:** En general sí; añade elementos más desafiantes pero mantiene la base de
+    la jugabilidad.
+3.  **P: ¿Necesita más potencia de dispositivo?**
+    **R:** Los gráficos mejorados pueden exigir algo más de rendimiento, aunque
+    depende de la versión.
+4.  **P: ¿Guarda el progreso?**
+    **R:** La mayoría de versiones guardan tus mejores puntuaciones y logros,
+    aunque las funciones exactas dependen del port concreto.

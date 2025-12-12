@@ -1,112 +1,44 @@
 ---
+title: "Jewel Pets Match"
+description: "この楽しくカラフルなマッチ3パズルアドベンチャーでかわいい宝石ペットをマッチしましょう！動物をスワップして3つ以上のラインを作成し、各レベルの目標を完了します。"
+iframeSrc: "https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/"
+thumbnail: "/new-images/jewel-pets-match.png"
+urlstr: "jewel-pets-match"
+score: "4.4/5  (2300 votes)"
+tags: ["puzzle", "casual", "action"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: jewel-pets-match
-title: '[JA TRANSLATION NEEDED] Jewel Pets Match'
-description: >-
-  [JA TRANSLATION NEEDED] Match cute jewel pets in this fun and colorful match-3
-  puzzle adventure! Swap the animals to create lines of three or more and
-  complete the goals for each level.
-iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
-thumbnail: /new-images/jewel-pets-match.png
-tags:
-  - puzzle
-  - casual
-  - action
-score: 4.4/5  (2300 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Jewel Pets Matchは、愛らしい宝石のような動物キャラクターでいっぱいの明るく陽気なマッチ3パズルゲームです。目標は、ゲームボードでこれらのかわいいペットをスワップして、3つ以上の同一の動物のラインを作成することです。各レベルは新しい挑戦と、目標スコアに到達したり、特別なブロックをクリアするなど、完了する必要がある特定の目標を提示します。すべて限られた移動数内です。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-- **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.（日本語訳が必要）
-The game is played with simple swap mechanics.（日本語訳が必要）
-[JA TRANSLATION NEEDED] Jewel Pets Match is a bright and cheerful match-3 puzzle game filled with adorable, jewel-like animal characters. Your goal is to swap these cute pets on the game board to create lines of three or more identical animals. Each level presents a new challenge and a specific objective you must complete, such as reaching a target score or clearing special blocks, all within a limited number of moves.
-- **Q: How do I get past the locked or caged pets?**（日本語訳が必要）
+1.  **パワーアップを作成する:** ゲームをマスターするには、3つ以上のペットのマッチを行う必要があります。
+    *   **4つをマッチ:** 行または列全体をクリアできる特別なペットを作成します。
+    *   **5つをマッチ（LまたはT形）:** 爆発して周囲のペットのブロックをクリアするボムペットを作成します。
+    *   **5つをマッチ（ライン）:** ボードから単一のタイプのすべてのペットをクリアできるレインボーペットを作成します。
 
-### Gameplay Strategy & Walkthrough
+2.  **ブースターを組み合わせる:** ゲームで最も強力な移動は、2つの特別なペットを隣り合わせてスワップすることから来ます。これにより、一度にボードの大部分をクリアできる大規模なコンボ効果がトリガーされます。
+3.  **目標に焦点を当てる:** 常にレベルの目標を念頭に置いてください。氷のブロックを壊す必要がある場合は、それらの隣にマッチを行います。特定のペットの一定数を収集する必要がある場合は、それらのマッチを優先します。
+4.  **スワップを計画する:** 限られた移動数では、すべてのアクションがカウントされます。次のターンで連鎖反応をセットアップまたは強力なコンボをセットアップするスワップを探します。
 
-[JA TRANSLATION NEEDED] 1.  **Create Power-ups:** To master the game, you need to make matches of more than three pets.
-[JA TRANSLATION NEEDED]     *   **Match 4:** Creates a special pet that can clear an entire row or column.
-[JA TRANSLATION NEEDED]     *   **Match 5 (L or T shape):** Creates a bomb pet that explodes and clears a block of surrounding pets.
-[JA TRANSLATION NEEDED]     *   **Match 5 (in a line):** Creates a rainbow pet that can clear all pets of a single type from the board.
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 2.  **Combine Boosters:** The most powerful moves in the game come from swapping two special pets next to each other. This triggers a massive combo effect that can clear a huge portion of the board at once.
-[JA TRANSLATION NEEDED] 3.  **Focus on the Objective:** Always keep the level's goal in mind. If you need to break ice blocks, make matches next to them. If you need to collect a certain number of a specific pet, prioritize those matches.
-[JA TRANSLATION NEEDED] 4.  **Plan Your Swaps:** With a limited number of moves, every action counts. Look for swaps that will create a chain reaction or set up a powerful combo on your next turn.
+ゲームは、シンプルなスワップメカニクスでプレイされます。
 
-### Controls Guide
+*   **ペットをスワップ:** ペットをクリックしてドラッグして隣接するものとスワップします。スワップは、有効なマッチが作成される場合にのみ成功します。
 
-[JA TRANSLATION NEEDED] The game is played with simple swap mechanics.
+### よくある質問 (FAQ)
 
-*   **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+*   **Q: ロックまたはケージされたペットを通過するにはどうすればよいですか？**
+    *   **A:** ケージされたペットを含むマッチを行う必要があります。これによりケージが壊れ、ペットが解放されます。
 
-### Frequently Asked Questions (よくある質問)
-### Frequently Asked Questions (FAQ)
+*   **Q: 作成する最高のパワーアップは何ですか？**
+    *   **A:** レインボーペット（ラインで5つをマッチから）は、1つのタイプの多くのペットをクリアするのに非常に有用です。ただし、最高のプレイは多くの場合、主要なボードクリア効果のために2つのパワーアップを組み合わせることです。
 
-    - **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.（日本語訳が必要）
-    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.（日本語訳が必要）
-- **Q: What is the best power-up to create?**（日本語訳が必要）
-- **Q: What happens if I run out of moves?**（日本語訳が必要）
-    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.（日本語訳が必要）
-*   **Q: How do I get past the locked or caged pets?**
-[JA TRANSLATION NEEDED]     *   **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
-
-*   **Q: What is the best power-up to create?**
-[JA TRANSLATION NEEDED]     *   **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
-
-*   **Q: What happens if I run out of moves?**
-[JA TRANSLATION NEEDED]     *   **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
-
-
-    - **Match 4:** Creates a special pet that can clear an entire row or column.（日本語訳が必要）
-    - **Match 5 (L or T shape):** Creates a bomb pet that explodes and clears a block of surrounding pets.（日本語訳が必要）
-    - **Match 5 (in a line):** Creates a rainbow pet that can clear all pets of a single type from the board.（日本語訳が必要）
-### コントロール Guide
-
-
-
-
-
-
-
-
-
-    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
-- **Q: What is the best power-up to create?**
-    - **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
-- **Q: How do I get past the locked or caged pets?**
-### よくある質問（FAQ）
-- **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
-The game is played with simple swap mechanics.
-
-
-
-
-
-
-
-
-
-    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
-- **Q: What is the best power-up to create?**
-    - **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
-- **Q: How do I get past the locked or caged pets?**
-### よくある質問（FAQ）
-- **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
-
-
-
-
-
-
-    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
-- **Q: What happens if I run out of moves?**
-    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
-- **Q: What is the best power-up to create?**
-    - **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
+*   **Q: 移動がなくなった場合はどうなりますか？**
+    *   **A:** 移動がなくなる前にレベルの目標を完了しない場合、ライフを失い、レベルを再起動する必要があります。

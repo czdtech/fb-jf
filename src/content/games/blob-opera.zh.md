@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: blob-opera
-title: '[ZH TRANSLATION NEEDED] Blob Opera'
+title: "Blob Opera 歌剧团果冻"
 description: >-
-  [ZH TRANSLATION NEEDED] Control four adorable, singing blobs to create your
-  own unique opera music. A fun and accessible machine learning experiment that
-  turns anyone into a composer, no musical skills required!
+  《Blob Opera 歌剧团果冻》是 Google 开发的交互式音乐实验，拖动四个软萌果冻小人，就能实时生成和声华丽的歌剧
+  演唱，不需要任何乐理基础也能即兴创作属于自己的作品。
 iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
 thumbnail: /new-images/blob-opera.jpg
 tags:
@@ -17,47 +16,67 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 游戏 / 体验介绍
 
-### Game Introduction
+严格来说，*Blob Opera* 并不是传统意义上的“游戏”，而是一款互动音乐实验。你可以通过拖拽四个颜色各异、软萌弹牙的“小果冻角色”，即兴创作属于自己的歌剧合唱。
 
-[ZH TRANSLATION NEEDED] Blob Opera is not a game in the traditional sense, but rather an interactive musical experiment. It allows users to create their own operatic music by manipulating a quartet of colorful, gelatinous "blobs." Each of the four blobs represents a different vocal range: bass (green), tenor (blue), mezzo-soprano (purple), and soprano (red).
+四个果冻分别代表不同声部：  
+* 绿色：低音（Bass）  
+* 蓝色：男高音（Tenor）  
+* 紫色：女中音（Mezzo‑soprano）  
+* 红色：女高音（Soprano）  
 
-[ZH TRANSLATION NEEDED] The experience is powered by a machine learning model trained on the voices of real opera singers. The model doesn't simply play back audio clips; it generates synthesized singing voices in real-time based on the user's input. When you manipulate one blob, the other three automatically harmonize and create a surprisingly beautiful and cohesive musical piece. The goal is not to win or score points, but to explore, experiment, and create your own unique musical compositions, from the sublime to the hilarious.
+这个体验背后由机器学习模型驱动，模型基于真实歌剧演唱者的声音训练而成，但不会简单播放录音片段，而是根据你的拖拽动作**实时合成**歌声。当你操控其中一个果冻唱歌时，其余三个会自动补上和声，生成意想不到的优美合唱。  
 
-### Gameplay Tips & Creative Strategies
+这里没有分数、关卡或失败条件，唯一的目的就是：**尽情尝试、玩弄声音、创作出或庄重或滑稽的歌剧片段**。
 
-[ZH TRANSLATION NEEDED] Since there is no "winning," the strategy revolves around creating interesting music.
+### 创作提示与玩法思路
 
--   **Start with a Melody:** Begin by controlling just one blob (the "leader"). Drag it around to create a simple melody line. Listen to how the pitch and vowel sounds change.
--   **Introduce Harmony:** Once you have a melody you like, let go. The other three blobs will join in with beautiful, automatically generated harmonies. You can then select a different blob to take the lead, and the others will adjust their harmonies accordingly.
--   **Master the Vowels:** Dragging the blobs forward and backward changes the vowel sound they sing (e.g., from "ah" to "ee" to "oo"). This is key to adding expression and emotion to your music. A slow forward drag can create a dramatic crescendo effect.
--   **Create Vibrato:** Make small, rapid up-and-down movements with your mouse while holding a note. This will cause the blob to sing with a vibrato, adding a professional and emotional touch.
--   **Experiment with Dissonance:** Don't be afraid to make sounds that clash. Drag blobs to extreme pitches to see what happens. Sometimes, a moment of dissonance can make the resolution back to harmony sound even more beautiful.
--   **Use the Record Feature:** If you create a piece you're proud of, use the record button to capture your performance. You can then easily share a link to your creation with friends.
--   **Holiday Mode:** Look for a toggle (often a Christmas tree icon) to switch to a holiday theme. The blobs will wear festive hats and sing classic holiday carols, which you can then manipulate yourself.
+由于没有“输赢”，所谓策略，就是如何让自己的作品更有趣、更好听。
 
-### Controls Guide
+-   **先给自己定一条主旋律**  
+    开始时只选中一个果冻（相当于主唱），上下拖动它，尝试几条简单的旋律线，感受音高变化与情绪之间的关系。
 
-[ZH TRANSLATION NEEDED] The controls are incredibly simple and intuitive, designed for mouse or touch input.
+-   **让自动和声帮你铺底**  
+    当你放手不动时，其他三个果冻会自动为当前旋律配和声。你也可以切换控制另一个声部，让“主唱”角色互换，听听同一套路在不同声部上的效果。
 
--   **Click and Drag a Blob Up/Down:** This controls the **pitch** of the note. Dragging higher makes the blob sing a higher note, and dragging lower makes it sing a lower note.
--   **Click and Drag a Blob Forward/Backward:** This controls the **vowel sound**. Dragging forward or backward cycles through different vowel shapes (like ah, eh, ee, oh, oo).
--   **Clicking a Blob:** Clicking on a single blob temporarily mutes the others, allowing you to focus on its individual sound.
--   **Record Button (Red Circle):** Click this to start recording your performance. Click it again to stop.
--   **Play Button (Triangle):** Plays back your last recording.
--   **Share Button:** After recording, this button allows you to generate a link to share your opera.
+-   **前后拖动，玩出不同元音情绪**  
+    前后方向控制的是元音类型（从 “ah” 到 “ee”“oo” 等），慢慢拖动可以制造类似渐强或情绪变化的效果，让同一条旋律听起来不那么单调。
 
-### Frequently Asked Questions (FAQ)
+-   **适当加入颤音（Vibrato）**  
+    在按住某个音时，快速微幅上下抖动鼠标，会让果冻唱出带颤音的长音，使你的旋律瞬间多了一点“专业歌剧”的味道。
 
-[ZH TRANSLATION NEEDED] **1. Is there a goal or an ending?**
-[ZH TRANSLATION NEEDED] > No, Blob Opera is a sandbox experience. There are no levels, scores, or objectives. The purpose is simply to have fun creating music.
+-   **大胆制造“冲突”和解答**  
+    偶尔刻意把某个声部拉到极高或极低音，制造一点不和谐，再慢慢拉回和声体系，能让整段音乐的起伏更有戏剧感。
 
-[ZH TRANSLATION NEEDED] **2. Can I make the blobs sing specific words?**
-[ZH TRANSLATION NEEDED] > No, the blobs can only sing vowel sounds. You cannot input lyrics. The art is in using the different vowel sounds to create expression.
+-   **善用录制功能**  
+    当你即兴出来一段满意的旋律和和声组合时，记得点击录制，保存这次发挥。你可以生成链接分享给朋友，让他们直接在浏览器里听你的“果冻歌剧首演”。
 
-[ZH TRANSLATION NEEDED] **3. Are those real human voices?**
-[ZH TRANSLATION NEEDED] > Yes and no. The sound is generated by a machine learning model that was trained on the real voices of four opera singers: Christian Joel (tenor), Frederick Tong (bass), Joanna Gamble (mezzo-soprano), and Olivia Doutney (soprano). The blobs are not playing pre-recorded samples; they are synthesizing the singing in real-time.
+-   **节日模式（Holiday Mode）**  
+    在界面中寻找节日主题的切换入口（例如圣诞树图标）。开启后，果冻们会戴上节日帽子，演唱经典节日歌曲，你仍然可以随时打断、拖拽、改写它们的唱法。
 
-[ZH TRANSLATION NEEDED] **4. How do I save my composition?**
-[ZH TRANSLATION NEEDED] > You can't save it as an audio file (like an MP3) directly from the website. However, you can use the built-in record and share feature to create a unique link that replays your performance for anyone who clicks it. You could also use external screen recording software to capture it as a video.
+### 操作指南
+
+界面完全为鼠标或触屏操作设计，非常直观：
+
+-   **上下拖动任一果冻：** 控制该声部的**音高**。越往上拖音越高，往下则越低。  
+-   **前后拖动果冻：** 控制**元音 / 唱腔**，在不同“啊、咿、呜”等元音之间切换。  
+-   **单击某个果冻：** 暂时突出该声部并弱化其它声部，方便你细调它的音色与旋律。  
+-   **录制按钮（红色圆点）：** 点击开始录制，再次点击停止。  
+-   **播放按钮（三角形）：** 回放上一段录制内容。  
+-   **分享按钮：** 生成可分享链接，别人点击即可重现场景与演唱。
+
+### 常见问题解答（FAQ）
+
+**1. Blob Opera 有通关或结局吗？**  
+没有，它是一个纯粹的沙盒式音乐玩具，没有关卡、分数和胜负判定。你可以把它当作随时打开就能即兴玩一会儿的“声乐涂鸦本”。
+
+**2. 能让果冻唱出具体歌词吗？**  
+不能。系统只提供不同元音的“啊 / 咿 / 呜”等发声，并不会支持输入文本歌词。乐趣在于用这些元音组合节奏与旋律，表达不同情绪。
+
+**3. 这些声音是真人唱的吗？**  
+可以理解为“基于真人训练、由机器实时合成”。模型在训练时使用了四位歌剧演唱者的声音数据，但你听到的并不是他们的录音片段，而是模型根据你的操作现场合成出来的唱腔。
+
+**4. 我怎么保存自己创作的作品？**  
+网页本身不会直接导出 MP3 之类的音频文件，但你可以使用内置录制与分享功能生成一个链接，任何人点击它都可以在网页中重播你的表演。若需要视频或音频文件，可以配合屏幕录制软件自行保存。
 

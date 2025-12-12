@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: cricket-world-cup
-title: '[KO] Cricket World Cup'
+title: "Cricket World Cup 크리켓 월드컵"
 description: >-
-  [KO] Cricket World Cup condenses batting drills — pick shots, read
-  line/length, and chase targets with smart risk control.
+  크리켓 월드컵 분위기 속에서 타격 상황만을 추려낸 Cricket World Cup입니다.
+  라인과 길이를 읽고, 땅볼과 로프트 샷을 적절히 섞어 제한 오버 안에 목표 스코어를
+  추격해 보세요.
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/cricket-world-cup.png
 tags:
@@ -15,35 +16,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Cricket World Cup은 실제 월드컵 경기처럼 긴 인닝 전체를 다루기보다는, 핵심적인 타격
+상황에 집중한 게임입니다. 볼의 라인(line)과 길이(length)를 판단해 땅볼로 보낼지,
+로프트 샷으로 띄울지 결정하고, 필드 사이의 빈 공간을 정확하게 노려 제한 오버 안에
+설정된 목표 점수를 돌파해야 합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Cricket World Cup focuses on batting scenarios: judge line and length, choose ground shots or lofts, and place the ball through gaps to beat set targets over limited overs.
+1. **라인에 따른 샷 선택**  
+   다리 쪽으로 붙는 라인에서는 레그 사이드 글랜스나 패드 근처 샷, 넓게 벗어나는 오프
+   사이드 라인에서는 커버 드라이브처럼 라인에 맞는 샷을 골라야 합니다. 잘못된 샷 선택은
+   불필요한 캐치 아웃으로 이어지기 쉽습니다.  
+2. **위험 관리**  
+   외야 깊숙이 야수들이 배치되어 있을 때는 공을 높게 띄우기보다 땅볼 위주로 플레이해
+   포수에게 잡히는 상황을 줄이세요.  
+3. **스트라이크 로테이션 유지**  
+   바운더리가 잘 나오지 않는 상황에서는 싱글이라도 꾸준히 가져가며 점수판을 계속
+   움직이는 것이 중요합니다. 스트라이크를 자주 교환하면 볼러 리듬을 흔드는 데도
+   도움이 됩니다.  
+4. **파워 플레이 공략**  
+   필드 인 제한이 있는 파워 플레이 구간에서는 빈 공간이 크게 열립니다. 이때는 위험을
+   조금 감수하더라도 공격적으로 갭을 노려 단번에 크게 점수를 벌릴 좋은 기회입니다.  
+5. **볼러 리듬 읽기**  
+   스윙 타이밍을 맞출 때는 공이 날아오는 것만 보는 것이 아니라, 볼러가 공을 릴리스하는
+   타이밍에 집중하세요. 릴리스 순간에 맞춰 준비하면 “약간 더 빠르게/느리게”와 같은 미세
+   조절이 쉬워집니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Shot selection by line: Leg‑side late glances vs pads; off‑side drives for wide lines.
-2.  **[KO]** Risk management: Favor ground shots when deep fielders are set.
-3.  **[KO]** Rotate strike: Take singles to keep the board moving when boundaries dry up.
-4.  **[KO]** Power plays: Attack gaps when field is up.
-5.  **[KO]** Watch bowler rhythm: Time swings from release, not only ball flight.
+- 방향 입력으로 타구 방향을 정하고, 적절한 타이밍에 화면을 탭하거나 버튼을 눌러 스윙합니다.  
+- 땅볼/로프트 전환 방법은 버전에 따라 다를 수 있으니, 게임 내 안내를 참고하세요.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Aim with directional input; tap to swing; loft/ground toggles vary by build.
+- **Q: 자꾸 외야에게 잡힙니다.**  
+  **A:** 깊은 수비가 깔린 상태에서 로프트 샷을 남발하고 있을 가능성이 큽니다. 공을
+  높이 띄우는 샷은 줄이고, 지면을 스치듯 지나가는 땅볼로 수비수 사이의 틈을 노리세요.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 타이밍을 자꾸 놓쳐요.**  
+  **A:** 공이 날아오는 궤적만 보지 말고, 볼러의 릴리스 지점을 함께 보세요. 릴리스
+  순간을 기준으로 스윙을 조금 이르거나 늦게 시작하는 연습을 하면 타이밍 성공률이
+  크게 올라갑니다.  
 
-- Q: Keep getting caught?
-
-A: Reduce lofts into deep field; thread ground shots through gaps.
-
-- Q: Timing misses?
-
-A: Watch the release point and start the swing a hair earlier/later accordingly.
-
-- Q: Bowling available?
-
-A: Most versions focus on batting only.
+- **Q: 볼링도 할 수 있나요?**  
+  **A:** 대부분의 버전은 타격 플레이에 초점을 맞추고 있어, 직접 볼링을 하는 기능은
+  제공되지 않는 경우가 많습니다.  
 

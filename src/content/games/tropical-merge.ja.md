@@ -1,67 +1,48 @@
 ---
-locale: ja
+title: Tropical Merge
+description: Tropical Mergeは、トロピカルテーマのマージゲームです。アイテムを合体させて楽園を作りましょう。
+iframeSrc: 'https://ubg98.github.io/TropicalMerge/'
+thumbnail: /new-images/tropical-merge.jpg
 urlstr: tropical-merge
-title: '[JA TRANSLATION NEEDED] Tropical Merge'
-description: >-
-  [JA TRANSLATION NEEDED] Tropical Merge is a sunny merge adventure — build
-  chains, complete quests, and expand islands with smart space/energy use.
-iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
-thumbnail: /new-images/tropical-merge.png
+score: 4.3/5  (2345 votes)
 tags:
-  - puzzle
+  - merge
   - casual
-  - thinky
-score: 4.2/5  (2068 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - tropical
+locale: ja
 ---
 
+### ゲーム紹介
+
+Tropical Mergeは、トロピカルな島を舞台にしたマージパズルゲームです。同じアイテムを合体させて新しいアイテムを作り、美しい楽園を構築しましょう。
+
+### ゲームプレイガイド
+
+ - **アイテムをマージ：** 同じアイテムを3つ合わせて合体させます
+ - **新アイテム作成：** マージして上位のアイテムを作ります
+ - **島を発展：** アイテムを使って島を美しくします
+ - **クエスト完了：** 様々なタスクを完了します
 
 
-### Detailed Game Introduction
-
-[JA TRANSLATION NEEDED] Merge items in sets of 3/5 to upgrade resources, clear fog, and unlock islands. Quests guide progression; energy and limited space reward planning over spam‑merging.
-
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Favor 5‑merges for extra yield when possible.
-[JA TRANSLATION NEEDED] 2.  Keep staging zones for near‑complete sets.
-[JA TRANSLATION NEEDED] 3.  Align merges with current quests to accelerate unlocks.
-[JA TRANSLATION NEEDED] 4.  Spend energy in planned bursts; collect dailies.
-[JA TRANSLATION NEEDED] 5.  Pre‑stock before events.
-
-### Controls Guide
-
-- Drag to merge; tap buildings to collect; navigate via map.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: No space left.
-  
-[JA TRANSLATION NEEDED]   A: Consolidate to 5‑merges, sell clutter, and expand land.
-
-- Q: Energy too slow.
-  
-
-
-
-
-
-
-- Q: No space left.
-### よくある質問（FAQ）
-- Drag to merge; tap buildings to collect; navigate via map.
-### コントロールガイド
 - Pre‑stock before events.
+### 操作ガイド
+
+ - **マウス：** アイテムをドラッグしてマージ
 
 ### よくある質問（FAQ）
-- Spend energy in planned bursts; collect dailies.
-[JA TRANSLATION NEEDED]   A: Time bursts with regeneration and rewards.
 
 
+- Q: No space left.
+**ゲームの目標は何ですか？**
 
 
-A: Time bursts with regeneration and rewards.
 - Q: Energy too slow.
+アイテムをマージして島を発展させ、クエストを完了することです。
 
+**何個マージする必要がありますか？**
 
-A: Time bursts with regeneration and rewards.
+通常、同じアイテムを3つ合わせます。
+
+**エンドゲームはありますか？**
+
+継続的にプレイでき、新しいコンテンツが追加されます。

@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: rampage-road
-title: '[FR] Rampage Road'
+title: 'Rampage Road'
 description: >-
-  [FR] Rampage Road is a chaotic car shooter — weave traffic, blast foes, and
-  survive explosive pursuits.
+  Rampage Road est un shooter automobile chaotique : faufile‑toi dans la
+  circulation, fais exploser tes ennemis et survie à des poursuites
+  explosives.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/rampage-road.png
 tags:
@@ -18,26 +19,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Rampage Road mixes top‑down driving with arcade shooting. Navigate traffic, manage ammo or cooldowns, and eliminate targets while keeping your vehicle intact through waves of enemies.
+Rampage Road combine vue de dessus et combats motorisés façon arcade. Tu
+dois te frayer un chemin dans la circulation, gérer tes munitions ou temps
+de recharge et neutraliser des cibles tout en gardant ton véhicule en un
+seul morceau à travers des vagues d’ennemis.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** Clean lines: Hug lanes with predictable gaps to avoid traffic hits.
-2.  **[FR]** Burst fire: Short controlled bursts conserve ammo and heat.
-3.  **[FR]** Focus targets: Remove dangerous foes (rockets/rammers) first.
-4.  **[FR]** Collect wisely: Grab pickups when safe; don’t cut across heavy traffic.
-5.  **[FR]** Escape tools: Save boosts or shields for emergencies.
+1.  **Tracer des trajectoires propres :** reste dans des voies avec des
+    espaces prévisibles pour éviter les collisions avec la circulation.
+2.  **Tir en rafales :** privilégie de courtes rafales contrôlées pour
+    économiser tes munitions et limiter la surchauffe.
+3.  **Prioriser les cibles :** élimine en premier les ennemis les plus
+    dangereux (lance‑roquettes, véhicules béliers, etc.).
+4.  **Ramasser avec prudence :** ne fonce pas à travers un trafic dense
+    juste pour un bonus. Attends une fenêtre sûre pour récupérer les
+    améliorations.
+5.  **Garder des échappatoires :** conserve boosts ou boucliers pour les
+    urgences et les situations critiques.
 
-### Controls Guide
+### Commandes
 
-- Drive: A/D or Left/Right; accelerate/brake with W/S or Up/Down.
-- Fire: Click/Space per mode; secondary with another key if present.
+- Conduite : A/D ou Gauche/Droite ; accélérer/freiner avec W/S ou
+  Haut/Bas.  
+- Tir : clic ou barre d’espace selon la version ; tir secondaire sur une
+  autre touche si disponible.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-- I explode fast—why? You’re trading hits in traffic; prioritize avoidance over kills.
-- Ammo limited? Many modes—use bursts and time reloads.
-- Boss fights? Some waves escalate; prepare boosts and space.
+- **J’explose très vite, pourquoi ?**  
+  Tu échanges trop de coups avec les véhicules autour de toi. Donne la
+  priorité à l’esquive plutôt qu’aux éliminations.
 
+- **Les munitions sont‑elles limitées ?**  
+  Dans beaucoup de modes, oui. Utilise des rafales et choisis bien le
+  moment de recharger.
+
+- **Y a‑t‑il des combats de boss ?**  
+  Certaines vagues montent clairement en intensité ; garde des boosts et
+  un peu d’espace pour manœuvrer.

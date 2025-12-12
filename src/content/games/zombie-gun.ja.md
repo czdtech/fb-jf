@@ -1,65 +1,49 @@
 ---
-locale: ja
+title: Zombie Gun
+description: Zombie Gunは、ゾンビシューティングゲームです。ゾンビの群れを撃って生き残りましょう。
+iframeSrc: 'https://ubg98.github.io/ZombieGun/'
+thumbnail: /new-images/zombie-gun.jpg
 urlstr: zombie-gun
-title: '[JA TRANSLATION NEEDED] Zombie Gun'
-description: >-
-  [JA TRANSLATION NEEDED] Zombie Gun is a physics shooter — ricochet bullets,
-  trigger barrels, and clear rooms with clever angles and limited ammo.
-iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
-thumbnail: /new-images/zombie-gun.png
+score: 4.4/5  (2876 votes)
 tags:
   - shooting
-  - puzzle
-score: 4.0/5  (1898 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - zombie
+  - survival
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Zombie Gunは、ゾンビの襲撃から生き残るシューティングゲームです。様々な武器を使ってゾンビの群れを撃退し、できるだけ長く生き残りましょう。
 
-[JA TRANSLATION NEEDED] Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive barrels, and collapse props to eliminate zombies with few shots. Later rooms add armored foes that require environmental kills.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Bank shots: Use walls to hit tucked targets.
-[JA TRANSLATION NEEDED] 2.  Red barrels: Chain explosions to clear clusters.
-[JA TRANSLATION NEEDED] 3.  Prop falls: Shoot supports to drop objects on enemies.
-[JA TRANSLATION NEEDED] 4.  Ammo discipline: Plan routes before firing.
-[JA TRANSLATION NEEDED] 5.  Armor rule: Use environment against armored zombies.
-
-### Controls Guide
-
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I run out of ammo.
-  
-[JA TRANSLATION NEEDED]   A: Plan a bank/explosion route before the first shot.
-
-- Q: Armored ones don’t die.
-  
+ - **ゾンビを撃つ：** マウスで狙って射撃します
+ - **武器を切り替える：** 様々な武器を使います
+ - **弾薬管理：** 弾薬を賢く使います
+ - **生き残る：** できるだけ多くのウェーブを生き残ります
 
 
-
-
-
-
-- Q: I run out of ammo.
-### よくある質問（FAQ）
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
-### コントロールガイド
 - Armor rule: Use environment against armored zombies.
+### 操作ガイド
+
+ - **マウス：** 狙いと射撃
+ - **キーボード：** 武器の切り替えと移動
 
 ### よくある質問（FAQ）
-- Ammo discipline: Plan routes before firing.
-[JA TRANSLATION NEEDED]   A: Drop props or explode barrels near them.
 
 
+- Q: I run out of ammo.
+**ゲームの目標は何ですか？**
 
 
-A: Drop props or explode barrels near them.
 - Q: Armored ones don’t die.
+ゾンビの襲撃から できるだけ長く生き残ることです。
 
+**武器はアップグレードできますか？**
 
-A: Drop props or explode barrels near them.
+はい、ポイントを使って武器を強化できます。
+
+**ゲームは終わりがありますか？**
+
+エンドレスモードで、倒されるまで続きます。

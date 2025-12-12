@@ -1,14 +1,9 @@
 ---
 locale: de
 urlstr: text-twist
-title: '[DE] Text Twist'
-description: >-
-  [DE] Challenge your vocabulary and quick thinking in Text Twist, an addictive
-  word puzzle game! Unscramble jumbled letters to form as many words as possible
-  within a time limit. Find the 'Bingo word' to advance and aim for the highest
-  score in this classic brain-teaser.
-iframeSrc: >-
-  https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
+title: "Text Twist"
+description: "Fordere Wortschatz und Reaktionsvermögen in Text Twist heraus: Entwirre Buchstaben, bilde so viele Wörter wie möglich und finde das Bingo‑Wort, bevor die Zeit abläuft."
+iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref='
 thumbnail: /new-images/text-twist.jpg
 tags:
   - word-game
@@ -18,38 +13,35 @@ score: 4.0/5  (100 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
 
+Text Twist ist ein beliebtes Wortpuzzlespiel, das deinen Wortschatz und deine Schnelligkeit testet. Du bekommst einen Satz durcheinander gewürfelter Buchstaben und musst daraus so viele gültige Wörter wie möglich bilden, bevor die Zeit abläuft. Längere Wörter bringen mehr Punkte – und ohne das Bingo‑Wort kommst du nicht in die nächste Runde.
 
-### Game Introduction
+### Spielanleitung
 
-Text Twist is a popular and engaging word puzzle game that challenges your vocabulary and speed. Players are presented with a set of jumbled letters and must form as many valid words as possible within a time limit. The game rewards longer words with more points and requires players to find a "Bingo word" (a word using all letters) to advance to the next round.
+- **Ziel:** Bilde Wörter aus den vorgegebenen Buchstaben. Versuche, alle möglichen Wörter zu finden und unbedingt das Bingo‑Wort, das alle Buchstaben verwendet.
+- **Buchstaben:** Meist erhältst du 6 oder 7 gemischte Buchstaben.
+- **Zeitlimit:** Jede Runde hat einen Timer (oft etwa zwei Minuten).
+- **Punkte:** Je länger das Wort, desto mehr Punkte gibt es. Wenn du alle Wörter einer Runde schaffst, bekommst du oft einen Bonus.
+- **Twist‑Taste:** Mit der „Twist“-Funktion (oder der Leertaste) mischst du die Buchstaben neu und bekommst neue Ideen für Wörter.
 
-### Gameplay Guide
+### Steuerung
 
-- **Objective:** Form words from the given letters. The goal is to find all possible words and especially the "Bingo word" to progress.
-- **Letters:** You'll typically receive 6 or 7 jumbled letters.
-- **Time Limit:** Each round has a timer (usually 2 minutes).
-- **Scoring:** Points are awarded based on word length; longer words give more points. Finding all words in a round often grants a bonus.
-- **"Twist" Button:** Use the "Twist" button (or spacebar) to shuffle the letters, which can help you spot new words.
+- **Tippen:** Gib die gefundenen Wörter direkt über die Tastatur ein.
+- **Wort bestätigen:** Drücke `Enter`, um ein Wort einzureichen.
+- **Buchstaben mischen:** Klicke auf die „Twist“-Schaltfläche oder drücke die `Leertaste`.
+- **Wort löschen:** Klicke auf „Clear“ oder nutze `Backspace`, um die aktuelle Eingabe zu löschen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- **Typing:** Use your keyboard to type out the words you find.
-- **Enter Word:** Press `Enter` to submit a word.
-- **Twist Letters:** Click the "Twist" button or press `Spacebar`.
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+**Was ist ein Bingo‑Wort?**
 
-### Frequently Asked Questions (FAQ)
+Ein Bingo‑Wort verwendet alle Buchstaben der aktuellen Runde. Mindestens ein Bingo‑Wort ist nötig, um in die nächste Runde aufzusteigen.
 
-**What is a "Bingo word"?**
+**Wie verbessere ich meine Punktzahl?**
 
-A "Bingo word" is a word that uses all the letters provided in the current round. You must find at least one Bingo word to advance to the next round.
+Konzentriere dich auf längere Wörter, da sie mehr Punkte bringen. Versuche außerdem, möglichst alle Wörter einer Runde zu finden, um Bonuspunkte zu kassieren. Nutze die Twist‑Taste regelmäßig, um neue Kombinationen zu sehen.
 
-**How can I improve my score?**
+**Gibt es verschiedene Schwierigkeitsstufen?**
 
-Focus on finding longer words, as they yield more points. Also, try to find all possible words in a round to get the bonus points. Using the "Twist" button frequently can help you see new combinations.
-
-**Are there different difficulty levels?**
-
-As you progress through the levels, the puzzles generally become more challenging, requiring you to find more complex words or deal with a larger set of letters.
-
+Mit steigenden Levels werden die Buchstabenkombinationen schwieriger. Du musst komplexere Wörter finden oder mit mehr Buchstaben gleichzeitig umgehen – dein Wortschatz wird also immer stärker gefordert.

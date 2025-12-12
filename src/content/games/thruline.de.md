@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: thruline
-title: '[DE] Thruline'
-description: >-
-  [DE] Thruline is a clean connect‑the‑network — draw a single continuous line
-  through nodes to satisfy turn/coverage constraints.
+title: "Thruline"
+description: "Thruline ist ein klares Verbindungs‑Puzzle: Ziehe eine einzige durchgehende Linie über alle Knoten und erfülle dabei Vorgaben für Kurven, Abdeckung und erlaubte Kreuzungen."
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thruline.jpg
 tags:
@@ -14,32 +12,28 @@ score: 4.1/5  (1983 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+In Thruline sollst du einen einzigen, ununterbrochenen Pfad zeichnen, der alle benötigten Knoten verbindet und dabei bestimmte Regeln beachtet – etwa, wie oft du abbiegen darfst, wo Linien sich kreuzen dürfen und welche Felder abgedeckt werden müssen. In späteren Leveln kommen zusätzliche Elemente wie Tore, Brücken und Paritäts‑Tricks dazu, die gutes Vorausplanen und cleveres Setzen von „Engpässen“ belohnen.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Engpässe zuerst:** Sichere dir schmale Korridore und kritische Übergänge früh, bevor du sie mit falschen Linien verbaut hast.
+2. **Kurven haushalten:** Halte lange Strecken möglichst gerade und spare deine Richtungswechsel für enge Ecken und Pflichtknoten auf.
+3. **Brückenlogik:** Überquere andere Linien nur an markierten Brücken – behandle sie wie eine begrenzte Ressource, die du dir für wichtige Verbindungen aufhebst.
+4. **Früh zurückspulen:** Wenn du merkst, dass ein Bereich isoliert wird oder keine saubere Verbindung mehr möglich ist, mache sofort ein paar Schritte rückgängig.
+5. **Symmetrien nutzen:** Bei symmetrischen Gittern kannst du halbe Lösungen spiegeln, um schneller zum vollständigen Pfad zu kommen.
 
-Thruline tasks you with tracing one unbroken path that visits all required nodes while obeying rules about turns, crossings, and coverage. Later grids add gates, bridges, and parity tricks that reward early bottleneck placement.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Ziehe mit gedrückter Maustaste eine Linie über das Gitter; Rückgängig‑ und Löschen‑Funktionen erreichst du über die UI, manche Versionen markieren Konflikte automatisch.
 
-1.  **[DE]** Bottlenecks first: Claim narrow corridors before they close.
-2.  **[DE]** Turn budgeting: Minimize turns on long runs; save them for tight corners.
-3.  **[DE]** Bridge logic: Cross only on provided bridges; treat them as limited resources.
-4.  **[DE]** Early backtrack: Undo as soon as isolation appears.
-5.  **[DE]** Symmetry exploitation: Mirror partial solutions in symmetric layouts.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- Q: Am Ende fehlt mir immer genau ein Feld.
+  
+  A: Meist hast du eine Kurve „verschwendet“. Versuche, einen längeren Abschnitt gerader zu führen, damit du an kritischer Stelle noch eine Biegung übrig hast.
 
-- Drag to draw; undo/clear via UI; some builds show conflict highlights.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I end one edge short.
-
-A: You likely mis‑spent a turn; reroute a long segment straighter.
-
-- Q: Are crossings legal?
-
-A: Only on marked bridges.
-
+- Q: Darf ich Linien kreuzen?
+  
+  A: Nur an gekennzeichneten Brückenfeldern. Alle anderen Kreuzungen sind nicht erlaubt und werden als Konflikt gewertet.

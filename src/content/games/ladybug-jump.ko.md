@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: ladybug-jump
-title: '[KO] Ladybug Jump'
+title: Ladybug Jump 무당벌레 점프
 description: >-
-  [KO] Ladybug Jump is a cheerful hop‑platformer — time jumps, ride moving
-  leaves, and collect nectar while avoiding hazards.
+  잎사귀와 버섯을 밟으며 앞으로 나아가는 플랫폼 게임 'Ladybug Jump' 가이드입니다. 점프 높이와 바람 방향을 조절해 위험을 피하고
+  꿀을 모아 보세요.
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/ladybug-jump.png
 tags:
@@ -16,34 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Ladybug Jump*는 가족 친화적인 가벼운 점프 액션 게임입니다.
+무당벌레를 조작해 잎사귀와 버섯을 밟아 건너가고, 물웅덩이와
+거미 등을 피해 전진해야 합니다. 스테이지가 진행될수록
+움직이는 발판과 바람 효과가 더해져 타이밍 난도가 올라갑니다.
 
-Ladybug Jump is a light, family‑friendly platformer. Hop across leaves and mushrooms, avoid puddles and spiders, and grab nectar for bonuses. Moving platforms and wind gusts add timing tests as levels progress.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **짧은 점프로 정밀하게**  
+   작은 잎사귀 위에서는 최대한 낮은 점프로 착지 범위를
+   줄이는 것이 좋습니다.
 
-1.  **[KO]** Short taps: Use minimal jumps for precision.
-2.  **[KO]** Wind reads: Jump slightly earlier into headwinds; later with tailwinds.
-3.  **[KO]** Safe arcs: Take longer, safer paths over risky shortcuts.
-4.  **[KO]** Collectibles: Grab nectar only when aligned; safety first.
-5.  **[KO]** Restart rhythm: Quick restarts help nail tricky sequences.
+2. **바람 읽기**  
+   역풍일 때는 조금 더 이른 타이밍에, 순풍일 때는
+   살짝 늦게 점프해 바람의 영향을 고려하세요.
 
-### Controls Guide
+3. **안전한 루트 우선**  
+   위험한 지름길보다는, 조금 돌아가더라도 안정적인
+   발판을 활용하는 것이 클리어에는 더 도움이 됩니다.
 
-- Tap/Click to jump; hold to jump higher if supported; pause/retry via UI.
+4. **수집 요소는 여유 있을 때만**  
+   꿀이나 별 같은 수집 아이템은 발판 정렬이 좋을 때만
+   노리고, 그렇지 않다면 생존을 우선하세요.
 
-### Frequently Asked Questions (FAQ)
+5. **어려운 구간 반복 연습**  
+   실패 시 빠른 재시작을 통해 해당 구간만 여러 번
+   연습해 점프 타이밍을 몸에 익히는 것이 좋습니다.
 
-- Q: I keep falling off small leaves.
+### 조작 가이드
 
-A: Reduce jump height and land center; avoid momentum swings.
+- **점프**: 탭/클릭으로 점프하며, 지원하는 빌드에서는
+  길게 눌러 더 높이 뛸 수 있습니다.  
+- **일시정지/재시작**: 화면 UI 버튼으로 조작합니다.
 
-- Q: Are there boss stages?
+### 자주 묻는 질문(FAQ)
 
-A: Rare; focus is on short obstacle courses.
+- **Q: 작은 잎사귀에서 자꾸 떨어집니다.**  
+  **A:** 점프 높이를 줄이고, 잎사귀 중앙을 노려 착지하면
+  다음 점프를 조정할 여유가 생깁니다.
+
+- **Q: 보스 스테이지가 있나요?**  
+  **A:** 대부분은 짧은 장애물 코스를 이어 뛰는 구조이며,
 
 - Q: Controller supported?
-
-A: Some versions support gamepads for analog jump control.
+  보스전은 드문 편입니다.
 

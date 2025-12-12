@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: zumba-ocean
-title: '[ES] Zumba Ocean'
+title: Zumba Ocean - Dispara perlas en el océano
 description: >-
-  [ES] Dive into a marble-shooting puzzle adventure! Shoot colorful pearls to
-  make matches of three or more and clear the chain before it reaches the shell.
-  A classic and addictive challenge with an ocean theme.
+  Sumérgete en una aventura de disparo de canicas en Zumba Ocean. Lanza perlas
+  de colores para formar grupos de tres o más y destruye la cadena antes de que
+  llegue a la concha final.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/zumba-ocean.png
 tags:
@@ -17,33 +17,37 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
 ### Detailed Game Introduction
 
-Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style of classics like Zuma. Set in a beautiful ocean world, a chain of colorful pearls slowly moves along a path. You control a shooter that fires pearls. Your mission is to eliminate the entire chain by shooting pearls to create matches of three or more of the same color before the chain reaches the final shell.
+Zumba Ocean es un vistoso y adictivo juego de disparos de canicas al estilo de clásicos como Zuma. En un escenario marino, una cadena de perlas de colores avanza lentamente por un recorrido sinuoso. Tú controlas un lanzador que dispara perlas, y tu misión es eliminar toda la cadena creando grupos de tres o más del mismo color antes de que alcance la concha final.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[ES]** **Create Combos:** The most effective way to clear the chain is by triggering combos. When you make a match, if the two new ends of the chain are the same color, they will attract each other and merge, often causing a new match automatically. This chain reaction is a combo and awards bonus points.
-2.  **[ES]** **Aim Through Gaps:** As the chain twists and turns, gaps will appear. Use these gaps to your advantage to make matches in the parts of the chain that are further behind. This can help set up bigger combos.
-3.  **[ES]** **Use Power-ups:** Be on the lookout for special pearls that appear in the chain. Shooting these can activate powerful boosters, such as a bomb that destroys a group of pearls or a reverse power-up that makes the chain move backward for a short time.
-4.  **[ES]** **Prioritize:** If the chain is getting dangerously close to the end, focus all your shots on the front part of the chain to push it back.
+1.  **Genera combos:** la forma más efectiva de limpiar la cadena es encadenar reacciones. Cuando haces una combinación, si los dos extremos que quedan son del mismo color, se juntan y pueden crear automáticamente otra eliminación, otorgándote puntos extra.
+2.  **Dispara a través de huecos:** a medida que la cadena se retuerce, aparecerán pequeños espacios. Aprovecha esos huecos para alcanzar secciones más atrasadas y preparar combos mayores.
+3.  **Usa potenciadores:** estate atento a las perlas especiales que aparecen en la cadena. Al dispararlas, activan poderes como bombas que destruyen grupos o efectos que hacen retroceder la cadena durante unos segundos.
+4.  **Prioriza la zona peligrosa:** si la cadena se acerca demasiado a la concha, concentra todos tus disparos en la parte delantera para empujarla hacia atrás.
 
 ### Controls Guide
 
-*   **[ES]** **Aim:** Move your mouse to aim the pearl shooter.
-*   **[ES]** **Shoot:** Click the left mouse button to fire the pearl.
-*   **[ES]** **Swap:** You can often click on the shooter itself or press a key (like the spacebar) to swap the current pearl with the next one.
+*   **Apuntar:** mueve el ratón para orientar el lanzador de perlas.
+*   **Disparar:** haz clic con el botón izquierdo para lanzar una perla.
+*   **Cambiar perla:** en muchas versiones puedes hacer clic sobre el lanzador o pulsar una tecla (por ejemplo `Espacio`) para intercambiar la perla actual por la siguiente.
 
 ### Frequently Asked Questions (FAQ)
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** To completely destroy the chain of pearls before any of them reach the shell at the end of the path.
+*   **Q: ¿Cuál es el objetivo del juego?**  
+    **A:** Destruir por completo la cadena de perlas antes de que cualquiera de ellas llegue a la concha al final del camino.
 
-*   **[ES]** **Q: What happens if a pearl reaches the end?**
-    *   **[ES]** **A:** You lose the level and must start over.
+    - **Q: Qué pasa si una perla alcanza la concha?**  
+    **A:** Pierdes el nivel y tendrás que intentarlo de nuevo.
 
-*   **[ES]** **Q: How do I get a high score?**
-    *   **[ES]** **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
+*   **Q: Cómo consigo más puntuación?**  
+
+    - **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
+
+- **Q: How do I get a high score?**
+
+    - **A:** You lose the level and must start over.
+    **A:** Encadenando combos largos y terminando los niveles rápidamente. Cuanto más cortas sea la partida y más reacciones provoques, mayor será tu marcador.
 

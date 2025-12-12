@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: sky-tower
-title: '[ES] Sky Tower'
+title: "Sky Tower"
 description: >-
-  [ES] Sky Tower is a stack‑builder — time drops to align floors, minimize
-  overhangs, and build the tallest, cleanest tower.
-iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
-thumbnail: /new-images/sky-tower.png
+  Sky Tower es un juego de apilar pisos: calcula el momento exacto para soltar
+  las plataformas, minimiza los salientes y construye la torre más alta y
+  estable posible.
+iframeSrc: "https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/"
+thumbnail: "/new-images/sky-tower.png"
 tags:
   - puzzle
   - thinky
@@ -16,35 +17,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Sky Tower te reta a dejar caer pisos móviles sobre una torre en crecimiento. Si
+no los alineas bien, las partes que sobresalen se cortan y la plataforma se
+hace cada vez más pequeña. Una buena sincronización genera torres altas y estables; la
+imprecisión hace que los pisos se encojan y la partida termine pronto.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Sky Tower challenges you to drop moving floors onto a growing tower. Misalignments shear off overhangs, shrinking the platform. Clean timing produces tall, stable towers; sloppiness shrinks floors and ends runs early.
+1.  **Usa una referencia central:** Alinea los pisos con algún elemento del
+    fondo para soltar siempre con el mismo punto de referencia.
+2.  **Suelta un pelín tarde:** Toca para soltar justo después de que la
+    plataforma pase por el centro para compensar tu tiempo de reacción.
+3.  **Pisos de recuperación:** Tras un corte muy malo, tómate un respiro y
+    concéntrate en volver a centrar los siguientes pisos antes de buscar más
+    altura.
+4.  **Mantén el ritmo:** Intenta seguir un compás constante en lugar de reaccionar
+    de forma nerviosa a cada movimiento.
+5.  **Prioriza la estabilidad:** Ignora monedas u objetivos secundarios cuando la
+    torre esté tambaleante; primero estabiliza la base.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Center cue: Align to a background landmark to release consistently.
-2.  **[ES]** Late‑release bias: Drop just after alignment passes the center to compensate for human reaction.
-3.  **[ES]** Recovery floors: After a bad chop, slow down and re‑center before chasing height.
-4.  **[ES]** Rhythm: Maintain a steady cadence rather than reacting frantically.
-5.  **[ES]** Patience: Ignore coins during wobble; stabilize first.
+- **Soltar piso:** Toca o haz clic para dejar caer la plataforma.
+- **Pausa/Repetir:** Usa los botones de la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Tap/Click to drop floors; pause/replay via UI.
+- **P: Mi torre se encoge muy rápido.**
+  
+  **R:** Seguramente estás soltando demasiado pronto o demasiado tarde sin una
+  referencia fija. Usa siempre el mismo punto visual para ajustar el momento del
+  toque.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Puedo recuperar el ancho después de varios cortes malos?**
+  
+  **R:** Sí. Encadena varios pisos casi perfectos en el centro para volver a
+  ensanchar ligeramente la base.
 
-- Q: My tower shrinks fast.
-
-A: You’re releasing early/late inconsistently; use a fixed visual cue.
-
-- Q: Any way to recover?
-
-A: Yes — refocus on perfect centers for a few floors to rebuild width.
-
-- Q: Is speed important?
-
-A: Consistency beats speed; height follows from clean centers.
-
+- **P: ¿Es importante ir rápido?**
+  
+  **R:** No tanto como ser preciso. La altura viene de muchos pisos bien
+  centrados, no de ir a toda prisa.

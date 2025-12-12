@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: rooftop-snipers-2
-title: '[KO] Rooftop Snipers 2'
+title: Rooftop Snipers 2 루프탑 스나이퍼 2
 description: >-
-  [KO] Rooftop Snipers 2 is a hilarious physics-based shooting game where two
-  stick figures battle on rooftops, trying to knock each other off using various
-  weapons with unpredictable ragdoll physics.
+  빌딩 옥상에서 막대인간 둘이 총싸움을 벌이는 물리 기반 슈팅 게임입니다. 기묘한 래그돌 물리와 반동을 이용해 상대를 옥상 아래로
+  떨어뜨리세요.
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/rooftop-snipers-2.jpg
 tags:
@@ -18,34 +17,71 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Rooftop Snipers 2*는 두 명의 막대인간 캐릭터가 빌딩 옥상 위에서
+서로를 밀어 떨어뜨리려고 싸우는 물리 기반 슈팅 게임입니다.
+무기 반동과 래그돌 물리 효과가 과장되어 있어, 조준에 성공해도
+본인부터 뒤로 넘어지는 등 매 판 예측불가능한 상황이 벌어지는 것이
+재미 포인트입니다.
 
-### Game Introduction
+여러 종류의 무기와 다양한 옥상 스테이지가 준비되어 있으며,
+1인용·2인용 모두 가볍게 즐기기 좋습니다.
 
-"Rooftop Snipers 2" is a hilarious physics-based shooting game where two stick figures battle on rooftops, with the goal of using various weapons to knock opponents off the roof. The game features unpredictable ragdoll physics effects, making every battle full of surprises and fun.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **발사 타이밍부터 익히기**  
+   상대가 점프한 순간이나, 몸을 크게 드러냈을 때를 노려 쏘면
+   맞힐 확률이 높습니다. 반대로 상대가 쏠 타이밍을 예측해 미리
+   점프하거나 숙여 피하는 것도 중요합니다.
 
-1.  **[KO]** **Master Shooting Timing**: Learn to fire at the right moments, predicting opponent movement patterns.
-2.  **[KO]** **Utilize Recoil**: Weapon recoil can affect character balance; learn to use or counteract these effects.
-3.  **[KO]** **Maintain Balance**: Be careful to maintain balance near roof edges, avoiding accidental falls.
-4.  **[KO]** **Weapon Selection**: Different weapons have different shooting characteristics; familiarize yourself with each weapon's pros and cons.
-5.  **[KO]** **Psychological Tactics**: Use feints and fake movements to confuse opponents and create shooting opportunities.
+2. **반동을 이용하거나 억제하기**  
+   무기마다 반동이 달라 발사 후 캐릭터가 뒤로 밀립니다.
+   이를 이용해 일부러 뒤로 점프하듯 피하거나, 혹은 옥상 가장자리
+   근처에서는 발사 각도를 조심해 스스로 떨어지지 않도록 해야
+   합니다.
 
-### How to Play
+3. **옥상 가장자리에서의 균형 유지**  
+   너무 공격적으로 앞으로 나가면 살짝 맞은 반동에도 바로 아래로
+   떨어질 수 있습니다. 가장자리에 설 때는 점프와 이동 키를
+   섬세하게 조절해 균형을 유지하세요.
 
-*   **[KO]** **Movement**: Use left and right keys to control character movement.
-*   **[KO]** **Jump**: Use jump key to make character jump, useful for dodging or position adjustment.
-*   **[KO]** **Shoot**: Use shoot key to fire, paying attention to recoil effects after shooting.
-*   **[KO]** **Weapon Switch**: In some modes, you can switch between different weapons.
+4. **무기 특성 파악하기**  
+   연사력이 높은 무기, 한 방 화력이 강한 무기, 탄속이 느린 무기 등
+   다양한 무기가 랜덤으로 등장합니다. 몇 번 써 보면서 각 무기의
+   탄도가 어떤지, 반동이 어느 정도인지 파악해 두면 판마다 더
+   빨리 적응할 수 있습니다.
 
-### Frequently Asked Questions
+5. **페이크 동작으로 심리전 펼치기**  
+   앞으로 돌진하는 척하다가 갑자기 뒤로 빠지거나, 점프만 반복해
+   상대의 조준 타이밍을 어지럽히는 것도 좋은 전략입니다.
 
-1.  **[KO]** **Q: How do I avoid falling off the roof myself?**
-**A**: Control movement rhythm well, don't be too aggressive near edges, and pay attention to weapon recoil effects.
-2.  **[KO]** **Q: What are the differences between weapons?**
-**A**: Various weapons differ in fire rate, power, accuracy, and recoil; choose according to the situation.
-3.  **[KO]** **Q: Can I play multiplayer?**
-**A**: Yes, the game supports local multiplayer mode where two players can battle on the same device.
-4.  **[KO]** **Q: Are there different maps in the game?**
-**A**: The game typically provides multiple different rooftop scenarios, each with unique layouts and challenges.
+### 조작 가이드
+
+- **이동**: 좌우 이동 키로 캐릭터를 옥상 위에서 조종합니다.  
+- **점프**: 점프 키로 높이 뛰어 적 탄을 피하거나, 유리한 위치로
+  이동합니다.  
+- **발사**: 슈팅 키를 눌러 무기를 발사하며, 발사 후 반동으로 몸이
+  밀려나는 것에 주의해야 합니다.  
+- **무기 변경(지원되는 모드)**: 일부 모드에서는 라운드마다 무기가
+  자동으로 바뀌거나, 특정 키로 변경할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 왜 제가 먼저 떨어지는 경우가 많나요?**  
+   **A:** 가장자리에서 너무 공격적으로 움직이거나, 반동을 고려하지
+   않고 쏘기 때문일 가능성이 큽니다. 가장자리에서 발사할 때는
+   뒤로 밀려날 공간을 항상 계산해 두세요.
+
+2. **Q: 무기별 차이는 어떻게 알 수 있나요?**  
+   **A:** 실제로 몇 번씩 사용해 보면서 연사 속도, 데미지, 탄속,
+   반동 정도를 직접 느껴 보는 것이 가장 빠릅니다. 상황에 따라
+   한 방 화력이 좋은 무기와 안정적인 연사 무기를 구분해 쓰면
+   좋습니다.
+
+3. **Q: 2인용 플레이가 가능한가요?**  
+   **A:** 대부분의 버전이 한 기기에서 두 사람이 함께 즐기는 로컬
+
+- **Q: Are there different maps in the game?**
+   2인용을 지원합니다. 각자 키보드의 다른 키를 사용해 친구와
+   대결해 보세요.

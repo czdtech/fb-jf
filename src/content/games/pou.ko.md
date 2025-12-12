@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: pou
-title: '[KO] Pou Game'
+title: "Pou Game 푸 게임"
 description: >-
-  [KO] Pou Game is a virtual pet simulation game where players adopt and care
-  for an alien pet named Pou. Players feed, clean, play with, and customize
-  their Pou, helping it grow and thrive while engaging in various mini-games and
-  activities.
+  외계 생명체 푸(Pou)를 돌보는 버추얼 펫 시뮬레이션 게임입니다.
+  먹이고, 씻기고, 놀아 주고, 꾸며 주면서 다양한 미니게임도 함께
+  즐길 수 있습니다.
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/pou.jpg
@@ -20,34 +19,69 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Pou Game*은 외계 생명체 **푸(Pou)**를 입양해 키우는 버추얼 펫
+시뮬레이션 게임입니다. 플레이어는 푸에게 밥을 먹이고, 목욕을
+시키고, 잠을 재우고, 옷과 액세서리로 꾸며 주며 푸가 건강하고
+행복하게 성장하도록 도와야 합니다.
 
-### Game Introduction
+또한 여러 가지 미니게임과 활동이 포함되어 있어, 푸와 함께 놀면서
+코인을 벌고 그 코인으로 새로운 아이템과 장식을 구입할 수
+있습니다.
 
-"Pou Game" is a virtual pet simulation game where players adopt and care for an alien pet named Pou. In the game, you need to feed Pou, clean it, play with it, and customize its appearance, helping it grow and stay healthy. The game also includes various mini-games and activities, allowing players to interact more with Pou and earn coins to buy items and decorations.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **기본 욕구를 제때 채워 주기**  
+   배고픔, 청결, 에너지 같은 기본 수치를 주기적으로 확인하고,
+   시간이 지나기 전에 음식, 목욕, 수면 등으로 관리해 주세요.
 
-1.  **[KO]** **Fulfill Basic Needs**: Timely feed, clean, and put Pou to sleep to maintain its hunger, hygiene, and energy levels.
-2.  **[KO]** **Play and Exercise**: Playing mini-games with Pou increases its happiness and earns coins. Regular exercise also helps maintain its health.
-3.  **[KO]** **Personalize Customization**: Use coins to buy various outfits, accessories, room decorations, and food to make your Pou unique.
-4.  **[KO]** **Explore and Interact**: Unlock and explore different areas to interact more with Pou and discover hidden fun.
-5.  **[KO]** **Earn Coins**: Earn coins by playing mini-games and completing daily tasks, which is key to purchasing items.
+2. **미니게임으로 행복도와 코인 동시에 올리기**  
+   푸와 함께 미니게임을 플레이하면 행복도가 올라갈 뿐 아니라
+   코인도 얻을 수 있습니다. 즐겨 하는 미니게임을 중심으로 자주
+   플레이해 두면, 필요한 아이템을 구입하기가 쉬워집니다.
 
-### How to Play
+3. **꾸미기로 개성 표현하기**  
+   코인으로 다양한 옷, 모자, 안경, 방 인테리어 등을 구매해 푸를
+   나만의 스타일로 꾸밀 수 있습니다. 외형뿐 아니라 음식·장난감도
+   여러 종류를 구입해 취향에 맞게 바꿔 보세요.
 
-*   **[KO]** **Tap Icons**: Multiple icons at the bottom of the screen represent functions like feeding, cleaning, playing, and sleeping. Tap to enter the corresponding interface.
-*   **[KO]** **Drag Items**: In the feeding or cleaning interface, drag food or soap onto Pou to perform the action.
-*   **[KO]** **Mini-games**: Tap the mini-game icon to enter the game list, select and start playing.
-*   **[KO]** **Customize**: Tap the wardrobe or room icon to enter the customization interface, select and apply decorations.
+4. **여러 방과 장소 탐험하기**  
+   주방, 욕실, 침실, 놀이터 등 여러 공간을 번갈아 방문하며
+   상호작용하면, 숨겨진 요소나 추가 미니게임을 발견할 수 있습니다.
 
-### Frequently Asked Questions
+5. **일일 미션과 목표 달성하기**  
+   일부 버전에서는 날마다 특정 행동을 수행하면 추가 보상을 주는
+   퀘스트나 도전 과제가 있습니다. 이를 꾸준히 완료하면 푸의
+   레벨업과 성장 속도를 높일 수 있습니다.
 
-1.  **[KO]** **Q: What should I do if Pou gets sick?**
-**A**: If Pou gets sick, you need to tap the medical room icon and buy the appropriate medicine to treat it. Ensuring Pou gets enough rest is also important.
-2.  **[KO]** **Q: How can I make Pou grow faster?**
-**A**: Pou will gradually grow and level up through continuous feeding, playing, and caring. Completing mini-games and tasks can also accelerate growth.
-3.  **[KO]** **Q: Do coins have any other uses besides buying items?**
-**A**: Coins are primarily used to purchase food, outfits, decorations, and medicine. In some versions, coins can also be used to unlock new mini-games or features.
-4.  **[KO]** **Q: Does the game require an internet connection?**
-**A**: The core gameplay of most Pou games can be played offline, but purchasing certain items, participating in online leaderboards, or updating the game may require an internet connection.
+### 조작 방법
+
+- **아이콘 탭**: 화면 하단의 아이콘을 눌러 먹이 주기, 씻기기,
+  놀아 주기, 재우기 등 각 기능 화면으로 이동합니다.  
+- **드래그**: 먹이·비누·수건 등 아이템을 푸에게 드래그해 사용합니다.  
+- **미니게임**: 게임 아이콘을 눌러 목록으로 들어간 뒤, 원하는
+  미니게임을 선택해 플레이합니다.  
+- **꾸미기**: 옷장 또는 방 꾸미기 아이콘을 눌러 푸의 외형과 방을
+  변경합니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 푸가 아프면 어떻게 해야 하나요?**  
+   **A:** 병이 나면 의료실 아이콘을 눌러 약을 구입해 먹여야 합니다.
+   충분한 휴식도 함께 챙겨 주세요.
+
+2. **Q: 푸를 빨리 성장시키는 방법이 있나요?**  
+   **A:** 꾸준히 먹이고 놀아 주며 돌보면 자연스럽게 레벨이 오르고
+   성장합니다. 미니게임과 과제를 열심히 수행하면 레벨업 속도가
+   빨라집니다.
+
+3. **Q: 코인은 무엇에 사용하나요?**  
+   **A:** 음식, 의상, 방 인테리어, 약 등 대부분의 아이템 구매에
+   사용합니다. 어떤 버전에서는 새로운 미니게임이나 기능 해금에도
+   쓰일 수 있습니다.
+
+4. **Q: 항상 인터넷이 필요한가요?**  
+   **A:** 기본적인 돌보미 플레이는 오프라인으로 가능한 경우가 많지만,
+   일부 아이템 구매나 순위표, 업데이트 기능은 인터넷 연결이 필요할
+   수 있습니다.

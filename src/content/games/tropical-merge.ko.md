@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tropical-merge
-title: '[KO] Tropical Merge'
+title: "Tropical Merge 트로피컬 머지"
 description: >-
-  [KO] Tropical Merge is a sunny merge adventure — build chains, complete
-  quests, and expand islands with smart space/energy use.
+  남국 섬에서 자원을 합쳐 나무와 건물을 업그레이드하는 머지 어드벤처 게임입니다. 같은 아이템을
+  3개 또는 5개씩 합쳐 더 높은 등급으로 만들고, 안개를 거두며 섬을 확장해 보세요.
 iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/tropical-merge.png
 tags:
@@ -16,32 +16,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Tropical Merge는 동일한 아이템을 합쳐 더 높은 단계의 자원과 건물을 만들어 내는 머지(merge)
+퍼즐 게임입니다. 플레이어는 작은 열대 섬에서 시작해, 나무·바위·상자 같은 자원을 3개 또는 5개씩
+합치며 생산 효율을 올리고, 안개에 가려진 땅을 개방해 점점 더 큰 군도로 확장해 나가게 됩니다.
 
+각종 퀘스트가 진행 방향을 안내해 주며, 에너지와 좁은 공간이라는 제약 속에서 무엇을 먼저 합치고
+어디에 자리를 비워 둘지 고민하는 것이 핵심 재미입니다. 무작정 아무 아이템이나 합치는 것보다,
+장기적인 계획 아래 섬을 관리하는 플레이가 큰 보상을 가져다 줍니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Merge items in sets of 3/5 to upgrade resources, clear fog, and unlock islands. Quests guide progression; energy and limited space reward planning over spam‑merging.
+1.  **가능하다면 5-머지를 노리기**: 같은 아이템 3개를 합치면 1개가 상위 단계가 되지만,
+    5개를 한 번에 합치면 결과물이 2개가 되어 이득이 더 큽니다. 여유 공간이 허락한다면, 서둘러
+    3개씩 합치기보다 5개를 모을 수 있을 때까지 기다려 보세요.
+2.  **준비 구역(스테이징 존) 만들기**: 거의 모여 가는 아이템들을 한쪽 구역에 모아 두면, 필요할 때
+    한 번에 3개 또는 5개씩 합치기 좋습니다. 섬 곳곳에 아이템을 흩어 두면 공간이 금방 부족해지니
+    종류별로 모아 둘 자리를 정해 두세요.
+3.  **퀘스트와 합성을 맞추기**: 현재 진행 중인 퀘스트에서 요구하는 아이템과 건물을 우선으로
+    합성하면, 스토리 진행과 보상 획득 속도를 크게 높일 수 있습니다. 아직 필요 없는 고단계 아이템은
+    잠시 보류하는 것도 방법입니다.
+4.  **에너지는 계획적으로 사용하기**: 에너지는 시간이 지나야 회복되므로, 짧은 시간에 몰아서 사용할
+    때 가장 효율이 좋습니다. 퀘스트 목표를 미리 확인한 뒤, 한 번 접속했을 때 관련 작업을 몰아서
+    처리해 보세요.
+5.  **이벤트 전에는 자원 비축하기**: 각종 이벤트가 열리기 전에 기본 자원을 넉넉히 비축해 두면,
+    이벤트 기간 동안 빠르게 미션을 진행할 수 있습니다. 미리 여유 공간과 기초 자원을 준비해 두면
+    훨씬 수월해집니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Favor 5‑merges for extra yield when possible.
-2.  **[KO]** Keep staging zones for near‑complete sets.
-3.  **[KO]** Align merges with current quests to accelerate unlocks.
-4.  **[KO]** Spend energy in planned bursts; collect dailies.
-5.  **[KO]** Pre‑stock before events.
+- **머지(합치기)**: 같은 종류의 아이템을 드래그하여 서로 겹치면 자동으로 합쳐집니다.
+- **수확/수집**: 건물이나 나무 등을 탭해 생산물을 수집합니다.
+- **섬 이동**: 손가락이나 마우스로 드래그해 지도를 이동하고, 줌 인/아웃으로 구역을 살펴봅니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag to merge; tap buildings to collect; navigate via map.
+- **Q: 섬에 공간이 전혀 남지 않아요.**  
+  **A:** 3개씩 자잘하게 합치던 아이템을 5개씩 한 번에 합치는 방향으로 전환하고, 당장 필요 없는
+  낮은 단계 아이템은 판매해 공간을 확보해 보세요. 안개를 걷어 새로운 땅을 여는 것도 중요합니다.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: No space left.
-
-A: Consolidate to 5‑merges, sell clutter, and expand land.
-
-- Q: Energy too slow.
-
-A: Time bursts with regeneration and rewards.
-
+- **Q: 에너지가 너무 빨리 떨어집니다.**  
+  **A:** 짧게 여러 번 접속하기보다, 에너지가 어느 정도 차올랐을 때 한 번에 몰아서 사용하는 편이
+  효율적입니다. 일일 미션과 보상을 꼼꼼히 챙기면 추가 에너지도 얻을 수 있습니다.

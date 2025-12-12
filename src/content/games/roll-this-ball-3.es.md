@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: roll-this-ball-3
-title: '[ES] Roll This Ball'
+title: "Roll This Ball"
 description: >-
-  [ES] A classic sliding puzzle that will test your logic. Slide the wooden
-  blocks to create a clear path for the ball to roll from the start to the goal.
-iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
-thumbnail: /new-images/roll-this-ball-3.png
+  Un clásico rompecabezas de deslizamiento que pondrá a prueba tu lógica. Mueve
+  los bloques de madera para crear un camino limpio por el que la bola pueda
+  rodar desde el inicio hasta la meta.
+iframeSrc: "https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/"
+thumbnail: "/new-images/roll-this-ball-3.png"
 tags:
   - puzzle
   - thinky
@@ -16,33 +17,51 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Roll This Ball es un rompecabezas clásico y desafiante de bloques deslizantes
+pensado para poner a prueba tu lógica y tu capacidad de planificación. El juego
+te presenta una cuadrícula de casillas, algunas fijas y otras que se pueden
+mover. Tu objetivo es deslizar los bloques móviles para formar un camino
+continuo y sin cortes por el que la bola pueda rodar desde su punto de salida
+hasta la casilla de llegada. La idea es sencilla, pero los niveles pueden ser
+sorprendentemente profundos.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Roll This Ball is a classic and challenging sliding block puzzle designed to test your logic and planning skills. The game presents you with a grid of tiles, some of which are fixed in place, while others can be moved. Your goal is to slide the movable blocks to form a continuous, unbroken path for a ball to roll from its starting point to the goal. It's a simple concept with surprisingly deep and challenging puzzles.
+1.  **Analiza el recorrido:** Antes de mover nada, recorre con la vista la
+    cuadrícula e imagina por dónde debería pasar el camino. Identifica las
+    piezas clave que deben conectar el inicio y el final.
+2.  **Trabaja desde la meta hacia atrás:** A veces es más fácil empezar pensando
+    qué pieza debe unirse a la casilla de llegada, luego cuál se conecta a esa,
+    y así sucesivamente hasta llegar al inicio.
+3.  **Usa los bloques fijos como anclas:** Los bloques con remaches no se pueden
+    mover. Utilízalos como puntos de referencia alrededor de los cuales
+    construirás el trazado.
+4.  **Apunta a las tres estrellas:** Muchos niveles tienen un sistema de
+    puntuación por estrellas. Para conseguir las tres, normalmente deberás
+    resolver el puzle en el mínimo número de movimientos, evitando deslizamientos
+    innecesarios.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Analyze the Path:** Before you start moving blocks, trace the potential path with your eyes. Identify the key pieces that need to connect the start and end points.
-2.  **[ES]** **Work Backwards:** Sometimes it's easier to solve the puzzle by working backwards from the goal tile. Figure out which piece needs to connect to the goal, then which piece needs to connect to that one, and so on, until you reach the start.
-3.  **[ES]** **Use Fixed Blocks as Anchors:** The blocks with rivets in them cannot be moved. Use these as fixed points in your path and build your solution around them.
-4.  **[ES]** **Aim for the Stars:** Many levels have a star rating. To get all three stars, you typically need to solve the puzzle in the minimum number of moves possible. This requires thinking efficiently and not making any unnecessary slides.
+El juego se maneja con controles sencillos de arrastrar y soltar.
 
-### Controls Guide
+*   **Mover un bloque:** Haz clic y arrastra un bloque móvil para deslizarlo a
+    una casilla adyacente vacía.
 
-The game is played with simple drag-and-drop or sliding controls.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
+*   **P: ¿Cuál es el objetivo exacto del juego?**
+    *   **R:** Construir un camino continuo y sin interrupciones por el que la
+        bola pueda rodar desde el bloque de salida hasta el bloque objetivo.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Por qué no puedo mover cierto bloque?**
+    *   **R:** Los bloques con remaches metálicos están fijos y no se pueden
+        desplazar. Tendrás que trazar el camino rodeando esos obstáculos
+        inmóviles.
 
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.
-
-*   **[ES]** **Q: Why can't I move a specific block?**
-    *   **[ES]** **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-
-*   **[ES]** **Q: I've made a path, but the ball isn't rolling. Why?**
-    *   **[ES]** **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
-
+*   **P: He creado un camino pero la bola no se mueve, ¿qué pasa?**
+    *   **R:** Asegúrate de que realmente no haya ningún hueco y de que todas las
+        piezas estén orientadas correctamente. A veces un pequeño desajuste en
+        una pieza impide que el recorrido sea válido.

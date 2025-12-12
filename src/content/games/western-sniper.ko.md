@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: western-sniper
-title: '[KO] Western Sniper'
+title: "Western Sniper 웨스턴 스나이퍼"
 description: >-
-  [KO] Western Sniper is a quick‑draw shooter — steady aim, manage sway, and
-  pick priority targets across snappy missions.
+  서부 무대를 배경으로 한 저격 액션 게임입니다. 숨을 고르고 조준점을 안정시킨 뒤, 우선순위가 높은
+  적과 폭발물을 먼저 제거해 짧은 미션들을 깔끔하게 클리어해 보세요.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/western-sniper.png
 tags:
@@ -15,31 +15,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Western Sniper는 서부 풍경을 배경으로, 짧고 빠른 미션들 속에서 도적과 폭발물, 움직이는 표적을
+저격해야 하는 1인칭 슈팅 게임입니다. 플레이어는 제한된 탄약과 시간 안에서 가장 위협적인 대상부터
+정확하게 제거해야 하며, 때때로 주변 환경(폭발통, 로프 등)을 활용해 한 발로 여러 적을 처리하는
+센스도 요구됩니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Western Sniper delivers short missions with bandits, explosives, and moving targets. Success means calm reticles, priority picks (rifles/throwers first), and resource care (ammo/time/bonus objectives).
+1.  **우선순위 목표 먼저 제거하기**: 활이나 총을 든 원거리 적, 폭발물 주변에 서 있는 적처럼
+    큰 피해를 줄 수 있는 대상부터 빠르게 처리해야 합니다. 멀리 있는 비전투 NPC보다 당장 위험한
+    적을 먼저 노리세요.
+2.  **조준 흔들림(스웨이)을 고려한 타이밍**: 조준선이 미세하게 흔들리는 경우, 가장 천천히 움직이는
+    지점에서 방아쇠를 당기는 연습을 해 보세요. 숨을 고르고 천천히 쏘면 명중률이 크게 올라갑니다.
+3.  **환경 오브젝트 활용하기**: 폭발통, 매달린 짐, 로프 등 주변 오브젝트를 쏘면 여러 적을 한 번에
+    처리하거나, 엄폐물을 무너뜨리는 등 추가 효과를 얻을 수 있습니다. 탄약을 아끼고, 연출도 더
+    시원해집니다.
+4.  **탄약 관리**: 마구 난사하다 보면 재장전 타이밍에 무방비 상태가 되기 쉽습니다. 한 발 한 발
+    확실히 맞힐 수 있을 때만 쏘고, 빗나갔다 싶으면 잠시 조준을 다시 잡은 뒤 다음 기회를 노리세요.
+5.  **부가 목표는 안전할 때만 도전하기**: 일부 미션에는 추가 목표(헤드샷 몇 회, 특정 오브젝트
+    파괴 등)가 존재할 수 있습니다. 기본 클리어가 안전해진 뒤에 부가 목표를 노리는 것이 좋습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** Priority: Take out ranged threats and explosives.
-2.  **[KO]** Hold breath: Time shots at sway minima for accuracy.
-3.  **[KO]** Environmental kills: Use barrels/ropes for multi‑downs.
-4.  **[KO]** Ammo discipline: Don’t spam; reset aim between shots.
-5.  **[KO]** Optional goals: Attempt only when the field is safe.
+- **조준**: 마우스를 움직여 조준점을 이동합니다.
+- **사격**: 마우스 왼쪽 버튼을 클릭해 총을 발사합니다.
+- **스코프/숨참기(지원되는 경우)**: 우클릭 또는 전용 버튼으로 스코프를 들여다보거나, 잠시 흔들림을
+  줄일 수 있습니다.
+- **재장전**: 화면 UI 또는 지정된 키로 재장전합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
+- **Q: 움직이는 적을 자꾸 놓칩니다.**  
+  **A:** 적의 이동 방향을 따라 약간 앞을 겨냥해 쏘는 리드샷을 연습해 보세요. 또한 조준이 가장
+  느리게 움직이는 순간에 맞춰 발사하면 명중률이 올라갑니다.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I miss moving targets.
-
-A: Lead slightly and fire at sway lows; practice pacing.
-
-- Q: Ammo runs out.
-
-A: Take measured shots; save bullets by using environment kills.
-
+- **Q: 탄약이 부족해요.**  
+  **A:** 불필요한 샷을 줄이고, 폭발통이나 환경 오브젝트를 활용해 한 발로 여러 적을 처리해 보세요.
+  필요하다면 먼저 멈춰 서 있는 적을 정리해, 움직이는 표적에 집중할 수 있게 만드는 것도 좋습니다.

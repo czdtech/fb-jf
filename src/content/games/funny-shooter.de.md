@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: funny-shooter
-title: '[DE] Funny Shooter'
+title: "Funny Shooter"
 description: >-
-  [DE] Wave shooter prototype: fight quirky enemies, collect cash, and upgrade
-  weapons to survive increasingly tough rounds.
+  Funny Shooter ist ein Wave-Shooter-Prototyp: Kämpfe gegen schräge Gegner,
+  sammle Geld und verbessere Waffen, um immer härtere Runden zu überleben.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/funny-shooter.jpg
 tags:
@@ -14,31 +14,41 @@ score: 5.0/5  (797 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Überblick
 
+Funny Shooter ist der Vorgänger von Funny Shooter 2 und legt den Fokus auf
+Wave-basierte Kämpfe aus der Ego-Perspektive. Mit jeder Runde werden Gegner
+stärker und zahlreicher, während du nach und nach deine Bewaffnung aufrüstest.
 
+### So spielst du
 
+- Bleib ständig in Bewegung und kite Gegner, statt dich einkesseln zu lassen.
+- Eliminiere zuerst Gegner mit Fernangriffen, dann Nahkampfwellen.
+- Nutze Pausen zwischen den Runden, um stärkere Waffen und Hilfsitems zu
+  kaufen.
+- Behalte deine Munition im Auge und lade nur in sicheren Momenten nach.
 
-### Overview
-First‑person waves with evolving enemy types and basic upgrades.
+### Steuerung
 
-### How to Play
-- Keep moving and kiting; eliminate ranged threats first.
-- Spend between waves on stronger guns and utilities.
-- Watch ammo; reload in safe windows.
+- WASD zum Bewegen, Maus zum Zielen/Feuern.  
+- R zum Nachladen.  
+- Zahlentasten für den Waffenwechsel.
 
-### Controls
-- WASD to move, Mouse to aim/shoot; R reload; number keys swap.
+### Tipps
 
-### Tips
-- Headshots conserve ammo and time.
-- Use cover and corners to funnel enemies.
-- Save explosives for elite waves.
+- Kopfschüsse sind am effizientesten und sparen Munition.
+- Nutze Ecken und Deckung, um Gegner in schmale Gänge zu ziehen.
+- Heb Explosivwaffen für dicht gestapelte Gegnerwellen auf.
 
 ### FAQ
-- Q: How can I unlock better weapons?
-A: Purchase them with money earned from clearing waves.
-- Q: Does the game include boss encounters?
-A: Some hosts feature periodic bosses that require burst damage.
-- Q: Can I change mouse sensitivity?
-A: Most hosts include settings for sensitivity.
 
+- **F: Wie bekomme ich bessere Waffen?**  
+  **A:** Kaufe sie mit Geld, das du durch das Überstehen von Wellen verdienst.
+
+- **F: Gibt es Bosse?**  
+  **A:** Einige Hosts bauen spezielle Bossrunden mit besonders zähen Gegnern
+  ein, die hohen Burst-Schaden erfordern.
+
+- **F: Kann ich die Sensitivität ändern?**  
+  **A:** In den meisten Versionen findest du im Optionsmenü Regler für
+  Maus-Sensitivität.

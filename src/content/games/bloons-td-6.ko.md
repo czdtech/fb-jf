@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bloons-td-6
-title: '[KO] Bloons TD 6'
+title: 'Bloons TD 6 블룬스 TD 6'
 description: >-
-  [KO] Master Bloons TD 6, the ultimate tower defense game with 3D graphics,
-  heroes, 3 unique upgrade paths per tower, and powerful Paragon monkeys. Devise
-  the perfect strategy to pop every invading Bloon!
+  3D 그래픽과 히어로, 타워별 3갈래 업그레이드 경로, 최종 형태인 파라곤까지
+  모두 담은 시리즈 최신작 Bloons TD 6입니다. 침략해 오는 모든 블룬을 터뜨리기
+  위한 완벽한 수비 전략을 세워 보세요.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/bloons-td-6.jpg
 tags:
@@ -15,62 +15,129 @@ score: 4.8/5  (1057 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bloons TD 6는 호평 받은 타워 디펜스 시리즈의 최신작으로, 풀 3D 그래픽과 다양한
+신규 시스템을 통해 시리즈 중 가장 방대한 볼륨과 전략 깊이를 자랑합니다. 기본
+목표는 언제나와 같습니다. 원숭이 타워를 전략적으로 배치·업그레이드해 끊임없이
+밀려오는 블룬들이 길 끝까지 도달하지 못하도록 막는 것입니다.
 
+BTD6의 핵심 변화는 각 타워에 **세 가지 업그레이드 경로**가 존재한다는 점입니다.
+하나의 타워는 한 경로를 5티어까지 올리는 대신, 나머지 두 경로 중 하나는 2티어까지만
+올릴 수 있고 마지막 경로는 잠긴 상태로 남습니다. 예를 들어 5/2/0 또는 5/0/2처럼
+한 가지 역할에 특화된 조합을 만들게 되죠. 이 시스템 덕분에 같은 타워라도 역할이
+극단적으로 달라지며, 조합 가능한 전략의 수가 폭발적으로 늘어납니다.
 
+**Bloons TD 6의 주요 신규 요소**
 
-### Game Introduction
+-   **히어로(Heroes)**: 게임 시작 시 강력한 히어로 하나를 선택해 필드에 배치할
+    수 있습니다. 히어로는 라운드가 진행될수록 자동으로 레벨이 오르며, 추가 비용
+    없이 강력한 능력을 해금합니다. 각 히어로는 완전히 다른 플레이 스타일을
+    가지고 있습니다.
+-   **3갈래 업그레이드 & 5티어**: 세 번째 업그레이드 경로와 타워마다 존재하는
+    5티어 업그레이드 덕분에, 같은 원숭이도 완전히 다른 역할을 수행하게 됩니다.
+-   **Monkey Knowledge**: 플레이어 레벨을 올리며 얻는 포인트로 찍는 지속형
+    패시브 스킬 트리입니다. 개별 효과는 작아 보이지만, 누적되면 전체 타워
+    성능을 크게 끌어올려 줍니다.
+-   **새로운 블룬 타입**: 에너지·불·플라즈마 공격에 면역인 **Purple Bloon
+    (퍼플 블룬)**, 그리고 터졌을 때 ZOMG와 DDT를 뿌려 내는 최종 보스급 비행선
+    **B.A.D. (Big Airship of Doom)** 등이 새로 등장합니다.
+-   **시야(Line of Sight) 시스템**: 처음으로 맵 위의 3D 오브젝트가 일부 타워의
+    시야를 가리는 요소가 추가됩니다. 같은 위치라도 지형에 따라 타워의 효율이
+    크게 달라지므로, 배치 시 시야를 고려해야 합니다.
+-   **Paragon 타워**: 극후반을 위한 최종 형태의 타워입니다. 같은 종류의 원숭이
+    5티어 세 가지를 모두 필드에 올려 두면, 이를 희생해 하나의 초강력 Paragon
+    버전으로 합칠 수 있습니다.
 
-Bloons TD 6 is the latest and most expansive installment in the acclaimed tower defense series. The game elevates the classic formula with full 3D graphics, a host of new mechanics, and an unprecedented level of strategic depth. The objective remains to strategically place and upgrade monkey towers to prevent waves of "Bloons" from reaching the exit.
+### 플레이 전략
 
-The game fundamentally changes the upgrade system by giving each tower **three distinct upgrade paths**. A single tower can be upgraded to Tier 5 on one path, and up to Tier 2 on another path (e.g., a 5/2/0 or 5/0/2 build), but the third path remains locked. This system creates an immense variety of specialized roles for every tower.
+-   **시너지 조합이 최우선**  
+    BTD6에서는 개별 타워의 성능보다 "조합"이 훨씬 중요합니다. 대표적인 예로,
+    강력한 화력 타워(예: 2/0/3 Super Monkey)에 4/2/0 **Alchemist**의
+    "Stronger Stimulant" 버프를 더하면 공격력과 공격 속도가 폭발적으로 증가해
+    후반까지 의존할 수 있는 핵심 딜러가 됩니다.
 
-**Major New Features of Bloons TD 6:**
--   **Heroes:** Players choose a powerful Hero to place on the field. Heroes level up automatically throughout the game, unlocking devastating new abilities without costing any in-game money. Each Hero has a unique playstyle.
--   **Three Upgrade Paths & Tier 5s:** The addition of a third path and powerful Tier 5 upgrades for every monkey provides a massive increase in strategic options.
--   **Monkey Knowledge:** A persistent meta-progression tree where players spend points earned from leveling up to grant small but significant permanent buffs to their towers.
--   **New Bloon Types:** Introduces the **Purple Bloon** (immune to energy, fire, and plasma attacks) and the ultimate blimp, the **B.A.D.** (Big Airship of Doom), which is incredibly durable and releases ZOMGs and DDTs when popped.
--   **Line of Sight:** For the first time, 3D objects on the map can block the line of sight of certain towers, adding a new layer to placement strategy.
--   **Paragons:** The ultimate late-game towers. By having all three Tier 5 towers of a single monkey type on the field, you can sacrifice them to create an immensely powerful Paragon version of that monkey.
+-   **맵에 맞는 히어로 선택하기**  
+    선택한 히어로가 전체 전략의 방향을 크게 좌우합니다.
+    -   **Sauda**: 좁은 길목이나 예리한 코너가 있는 맵에서 초반부터 강력한
+        성능을 보여 주는 근접형 히어로입니다.
+    -   **Benjamin**: 직접 공격하지 않는 대신 막대한 자금을 생산해 주는 경제형
+        히어로로, 고난이도에서 매우 유용합니다.
+    -   **Geraldo**: 상황에 맞는 다양한 소모품과 장비를 판매하는 "상점형" 히어로로,
+        어떤 맵이든 유연하게 대응할 수 있는 도구 상자를 제공합니다.
 
-### Gameplay Strategy
+-   **위협 요소별 대처법 익히기**  
+    -   **Camo(카모 블룬)**: 가장 범용성이 좋은 답은 x/2/x **Monkey Village**의
+        `Radar Scanner`입니다. 범위 내 모든 타워에 카모 감지를 부여해 줍니다.
+    -   **Lead(리드 블룬)**: 여러 타워가 처리할 수 있지만, Alchemist의 산(산성
+        공격)은 기존의 날카로운 공격 타워들이 리드를 터뜨릴 수 있게 만들어 주는
+        훌륭한 지원 수단입니다.
+    -   **Purple(퍼플 블룬)**: 에너지·불·플라즈마·마법 계열 공격에 면역이므로,
+        Wizard Monkey나 Super Monkey의 특정 업그레이드에만 의존하면 그대로
+        지나가 버립니다. 반드시 물리 투사체를 사용하는 타워를 섞어 두어야 합니다.
+    -   **DDT**: 속도가 매우 빠르고 Camo·Lead·Black 특성을 한꺼번에 지닌 최종
+        시험대 같은 블룬입니다. 대표적인 해답으로는 2/5/0 **Wizard Monkey**
+        (Prince of Darkness), 0/2/5 **Ice Monkey** (Icicle Impale), 그리고 x/3/x
+        **Monkey Village** (Monkey Intelligence Bureau)로 모든 블룬 타입에 대한
+        공격 권한을 부여한 고화력 타워 조합이 있습니다.
 
--   **Synergy is King:** BTD6 is all about tower combinations. The most famous synergy is pairing a strong damage tower (like a 2/0/3 Super Monkey) with a 4/2/0 **Alchemist** (Stronger Stimulant), which provides a massive boost to damage and attack speed.
--   **Choose the Right Hero:** Your Hero can define your strategy.
-    -   **Sauda:** Excellent for maps with single choke points or sharp corners, dominating the early game.
-    -   **Benjamin:** A non-attacking hero who generates large amounts of money and strengthens your economy.
-    -   **Geraldo:** A "shop" hero who provides a versatile toolkit of items for any situation.
--   **Mastering the Threats:**
-    -   **Camo:** The best all-around solution is a x/2/x **Monkey Village** (Radar Scanner) to grant camo detection to all nearby towers.
-    -   **Lead:** Many towers can handle lead, but an Alchemist is a great support option as its acid can allow sharp-damage towers to pop them.
-    -   **Purple:** These require physical projectiles. Avoid relying solely on magic-users like the Wizard Monkey or Super Monkey's plasma path.
-    -   **DDTs:** These are the ultimate test. They are fast and have Camo, Lead, AND Black Bloon properties. Key counters include a 2/5/0 **Wizard Monkey** (Prince of Darkness), a 0/2/5 **Ice Monkey** (Icicle Impale), or granting lead-popping power to camo specialists via a x/3/x **Monkey Village** (Monkey Intelligence Bureau).
--   **Build a Strong Economy:** Banana Farms are still the best way to generate money. The 2/3/0 `Marketplace` path provides hands-free income, while the 4/2/0 `Central Market` path is highly efficient for large-scale farming.
--   **Plan for Paragons:** In extreme late-game or Boss Events, Paragons are your win condition. To get a high-degree Paragon, you need to sacrifice as many towers of that type as possible, have a high pop count on them, and invest a lot of money into the final upgrade.
+-   **탄탄한 경제 구축**  
+    여전히 Banana Farm이 최고의 자금 수단입니다. 2/3/0 경로의 `Marketplace`는
+    수금이 자동으로 이루어져 손이 편하고, 4/2/0 `Central Market` 경로는 대규모
+    농장 운영에 매우 효율적입니다. 안정적인 경제를 갖춰야 고가의 5티어 및
+    Paragon을 여유 있게 노릴 수 있습니다.
 
-### Controls Guide
+-   **Paragon을 위한 장기 플랜 세우기**  
+    극후반 무한 라운드나 보스 이벤트에서는 Paragon이 사실상 승리 조건이 됩니다.
+    높은 등급의 Paragon을 만들려면 같은 종류의 타워를 많이 희생해야 할 뿐만
+    아니라, 그 타워들이 높은 타격 수(pop count)를 기록하고 있을수록 좋습니다.
+    마지막 업그레이드 자체도 막대한 비용이 들기 때문에, 초반부터 어떤 Paragon을
+    노릴지 계획해 두는 것이 중요합니다.
 
-The controls are intuitive for PC (mouse) and mobile (touch).
+### 조작 방법
 
--   **Placing/Upgrading:** Select a tower from the panel, place it on the map. Tap/click the tower to open its three-path upgrade menu.
--   **Hero Abilities:** Your Hero's abilities appear above their level indicator. Click them to activate.
--   **Tower Abilities:** Activated abilities for regular towers appear in the bottom-left corner of the screen.
--   **Hotkeys (PC):** Each monkey tower and its upgrades are assigned a hotkey (e.g., Q for Dart Monkey, 1/2/3 for upgrade paths). This allows for extremely fast gameplay for experienced players.
+PC(마우스)와 모바일(터치) 모두 직관적인 인터페이스를 사용합니다.
 
-### Frequently Asked Questions (FAQ)
+-   **타워 배치/업그레이드:** 하단 패널에서 타워를 선택해 맵 위에 배치한 뒤,
+    해당 타워를 탭/클릭하면 세 갈래 업그레이드 메뉴가 열립니다.
+-   **히어로 스킬 사용:** 히어로 초상화 위쪽에 표시되는 스킬 아이콘을 클릭해
+    사용합니다.
+-   **타워 액티브 스킬:** 일반 타워의 액티브 스킬은 화면 좌하단에 아이콘으로
+    표시되며, 필요할 때 클릭해 발동합니다.
+-   **PC 단축키:** 각 원숭이 타워와 업그레이드 경로에는 단축키가 배정되어
+    있습니다. 예를 들어 다트 몽키는 Q 키, 업그레이드 경로는 1/2/3 키로 빠르게
+    조작할 수 있어 숙련자일수록 체감이 큽니다.
 
-**1. What is the best Hero to start with?**
-> **Sauda** is widely considered the most beginner-friendly Hero. She is relatively cheap and can single-handedly beat the first 20-30 rounds on most beginner maps, allowing you to focus on building your economy.
+### 자주 묻는 질문 (FAQ)
 
-**2. How do I beat DDTs? They are destroying my defense.**
-> DDTs require a multi-faceted defense. You need towers that can see camo, pop lead/black, and have high damage. A Monkey Village with **Monkey Intelligence Bureau (x/3/x)** is invaluable, as it lets all nearby towers damage any Bloon type. Pair this with high-damage towers like a 2/0/5 Tack Shooter or a 0/2/5 Perma-Spike factory.
+**1. 처음 시작할 때 어떤 히어로가 가장 좋은가요?**  
+> 대체로 **Sauda**가 입문자에게 가장 추천되는 히어로로 꼽힙니다. 가격이 비교적
+> 저렴하면서, 많은 초보자 맵에서 20~30라운드까지 혼자 버텨 줄 수 있어 초반에는
+> 경제를 구축하는 데 집중할 수 있습니다.
 
-**3. Why can't I damage the Purple Bloons?**
-> Purple Bloons are immune to energy, plasma, fire, and magic-based attacks. This includes many upgrades from the Wizard Monkey and Super Monkey. You must use towers that fire physical projectiles, like a Crossbow Master (Dart Monkey 0/2/5) or a Juggernaut (Dart Monkey 5/x/x).
+**2. DDT가 방어 라인을 전부 뚫고 지나갑니다. 어떻게 막나요?**  
+> DDT는 카모·리드·블랙 특성을 모두 가진 만큼 복합적인 방어가 필요합니다.
+> **Monkey Intelligence Bureau(x/3/x)** 업그레이드를 한 Monkey Village는 주변
+> 타워가 모든 블룬 타입을 공격할 수 있게 해 주는 핵심 지원 타워입니다. 여기에
+> 2/0/5 Tack Shooter나 0/2/5 Perma-Spike Factory 같은 고화력 타워를 조합하면
+> DDT 러시에도 훨씬 안정적으로 대응할 수 있습니다.
 
-**4. How do I make a Paragon?**
-> To create a Paragon, you must first have all three Tier 5 towers of a single monkey type (e.g., all three Tier 5 Dart Monkeys) placed on the map. Once you do, the upgrade button on any of them will change to a Paragon upgrade. The power of the Paragon depends on factors like the number of towers sacrificed, their total pop count, and money invested.
+**3. Purple Bloon이 전혀 피해를 안 받는데 왜 그런가요?**  
+> Purple Bloon은 에너지·플라즈마·불·마법 계열 공격에 면역입니다. Wizard
+> Monkey의 많은 업그레이드와 Super Monkey의 플라즈마 경로 등이 모두 여기에
+> 포함됩니다. 0/2/5 Crossbow Master나 5/x/x Juggernaut처럼 물리 투사체를
+> 사용하는 타워를 함께 배치해 대응해야 합니다.
 
-**5. What is CHIMPS mode?**
-> CHIMPS is the hardest game mode in BTD6. It's an acronym for the rules: **N**o **C**ontinues, **N**o **H**earts Lost, **N**o **I**ncome (other than popping Bloons), **N**o **M**onkey Knowledge, **N**o **P**owers, and **N**o **S**elling. It is the ultimate test of a player's strategy.
+**4. Paragon은 어떻게 만들 수 있나요?**  
+> 먼저 같은 종류의 원숭이 타워 5티어 세 가지를 모두 맵에 배치해야 합니다.
+> (예: Dart Monkey 5/x/x, x/5/x, x/x/5 모두 존재) 그 상태가 되면 해당 원숭이
+> 타워 중 하나의 업그레이드 버튼이 Paragon 업그레이드로 바뀝니다. 이때
+> 희생하는 타워의 수, 누적 타격 수, 투자한 자금 등에 따라 Paragon의 등급과
+> 위력이 달라집니다.
 
+**5. CHIMPS 모드는 무엇인가요?**  
+> CHIMPS는 BTD6에서 가장 어려운 모드로, 이름 자체가 규칙을 의미합니다.  
+> **C**ontinues 금지, **H**earts Lost 금지(목숨 손실 금지), **I**ncome 제한
+> (블룬을 터뜨려 얻는 돈 외 추가 수입 금지), **M**onkey Knowledge 금지,
+> **P**owers 사용 금지, **S**elling 금지(타워 판매 금지)라는 조건 아래 플레이해야
+> 하므로, 플레이어의 전략을 극한까지 시험하는 모드입니다.

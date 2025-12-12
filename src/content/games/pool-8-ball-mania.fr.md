@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: pool-8-ball-mania
-title: '[FR] Pool 8 Ball Mania'
+title: 'Pool 8 Ball Mania'
 description: >-
-  [FR] Pool 8 Ball Mania refines bar‑pool — aim clean, control cue‑ball with
-  spin, and clear patterns with smart position play.
+  Pool 8 Ball Mania modernise le billard de bar : vise avec précision,
+  contrôle la blanche avec les effets et nettoie la table grâce à un bon
+  jeu de position.
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/pool-8-ball-mania.png
 tags:
@@ -17,33 +18,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Pool 8 Ball Mania simulates casual 8‑ball with responsive aiming and spin. The core is cue‑ball control: land shape for the next shot, use topspin to follow, backspin to draw, and sidespin off rails to manage lines.
+Pool 8 Ball Mania simule des parties détendues de 8‑ball avec une visée
+réactive et une gestion fine des effets. Tout tourne autour du contrôle de
+la blanche : laisser une bonne position pour le coup suivant, utiliser le
+topspin pour faire avancer la bille, le rétro (backspin) pour la faire
+revenir, et le side‑spin sur les bandes pour ajuster les trajectoires.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** Pre‑plan shape: Decide landing spots before every pot.
-2.  **[FR]** Speed first: Smooth medium strokes trump power slams.
-3.  **[FR]** Spin sparing: Small top/back/side spin corrections are safer.
-4.  **[FR]** Pattern clears: Resolve clusters and problem balls early.
-5.  **[FR]** Safety: If the pot is thin and risky, play safe to leave the opponent tough.
+1.  **Anticipe la position suivante :** avant chaque poche, réfléchis à
+    l’endroit où tu veux laisser la blanche pour ton prochain coup.
+2.  **Privilégie le contrôle à la puissance :** des coups fluides de force
+    moyenne sont souvent meilleurs que des frappes violentes qui rendent la
+    blanche incontrôlable.
+3.  **Utilise les effets avec parcimonie :** de petites corrections en
+    topspin, rétro ou side‑spin suffisent souvent. Trop d’effet rend la
+    trajectoire difficile à lire.
+4.  **Gère les groupes de billes tôt :** débloque rapidement les paquets
+    collés ou les billes problématiques tant que tu as encore des options.
+5.  **Joue la sécurité quand il faut :** si un coup est très fin et risqué,
+    joue un coup défensif pour laisser une situation compliquée à
+    l’adversaire.
 
-### Controls Guide
+### Commandes
 
-- Aim: drag; Power: pull meter; Spin: adjust cue‑ball diagram; Camera: pan/zoom if available.
+- Viser : fais glisser pour ajuster l’angle.  
+- Puissance : tire sur la jauge pour régler la force du coup.  
+- Effet : modifie le point d’impact sur le schéma de la blanche.  
+- Caméra : fais pivoter ou zoome si l’option est disponible.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-- Q: Pots rattle out — why?
+- **Q : Mes billes « rappent » et ressortent de la poche, pourquoi ?**  
+  R : En général tu joues trop fort ou pas assez dans l’axe de la poche.
+  Réduis la puissance et vise bien le centre de la poche.
 
-A: Too much speed or impure line; reduce power and aim through pocket center.
+- **Q : Comment mieux garder la position de la blanche ?**  
+  R : Utilise de petits coups avec léger topspin ou rétro et les bandes pour
+  enlever de la vitesse, afin d’arrêter la blanche là où tu le souhaites.
 
-- Q: How to hold position?
-
-A: Short follow/draw and use rails to bleed speed.
-
-- Q: Break tips?
-
-A: Square on head ball, moderate power, control cue‑ball center.
-
+- **Q : Des conseils pour la casse ?**  
+  R : Vise la bille de tête le plus plein possible, utilise une puissance
+  moyenne et essaie de garder la blanche près du centre de la table.

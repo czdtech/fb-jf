@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: flappy-bird
-title: '[KO] Flappy Bird'
+title: "Flappy Bird 플래피 버드"
 description: >-
-  [KO] Tap‑to‑flap endless runner: guide the bird through pipe gaps to increase
-  your score without touching obstacles.
+  Flappy Bird는 화면을 탭해 새를 위로 띄우며, 파이프 사이 좁은 틈을 통과해 최대한
+  멀리 가는 것을 목표로 하는 간단하지만 난이도 높은 아케이드 게임입니다.
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/flappy-bird.jpg
 tags:
@@ -18,27 +18,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Single‑tap arcade challenge: each flap lifts the bird; release to descend. Passing a pipe pair earns one point.
+### 개요
 
-### How to Play
-- Keep a steady rhythm of short taps; adjust quickly after each gap.
-- Avoid tapping near the top lip; give space for recovery.
-- Focus on the next gap, not the current one.
+*Flappy Bird*는 한 번의 탭으로 새를 위로 튀어 오르게 하며, 파이프 사이의 작은 틈을
+연속으로 통과해 점수를 올리는 1버튼 아케이드 게임입니다. 탭을 하면 새가 위로
+살짝 올라가고, 손을 떼면 중력에 의해 다시 떨어집니다. 파이프 한 쌍을 무사히 지나칠
+때마다 1점이 올라갑니다.
 
-### Controls
-- Mouse/Touch/Space: tap to flap.
+### 플레이 방법
 
-### Tips
-- Use tiny taps for micro‑corrections; big taps only for emergencies.
-- Don’t chase lost runs—reset if your rhythm breaks.
-- Disable distractions; latency affects timing.
+- 짧고 일정한 리듬으로 화면을 탭해, 새가 너무 높지도 낮지도 않게 유지되도록
+  조절하세요.
+- 파이프 상단에 너무 가까이 붙어서 지나가면 다음 조정 여유가 줄어드니, 항상 약간
+  아래 여유를 두는 것이 좋습니다.
+- 현재 통과 중인 파이프보다, 다음 파이프의 위치와 높이를 보며 미리 대비하세요.
 
-### FAQ
-- Q: Why does the bird hit the top after a flap?
-A: Taps are too strong or too frequent; use lighter, spaced taps.
-- Q: Is there an end to the game?
-A: No, it is an endless score chase.
-- Q: Does the speed change over time?
-A: Most versions keep constant speed and difficulty.
+### 조작 방법
 
+- 마우스 클릭, 터치, 스페이스바 등으로 화면을 한 번씩 탭하면 새가 한 번씩
+  날갯짓을 합니다.
+
+### 팁
+
+- 미세 조정이 필요할 때는 아주 짧은 탭만 사용하고, 크게 고도를 올려야 할 때만
+  연속 탭을 사용하세요.
+- 리듬이 무너졌다고 느껴지면 무리해서 이어가기보다, 빠르게 재시작해 감각을 다시
+  잡는 편이 낫습니다.
+- 방해 요소(알림, 소음)를 줄이면 탭 타이밍을 더 정확하게 맞출 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 탭할 때마다 새가 꼭대기에 부딪혀요.**  
+  **A:** 탭을 너무 자주 또는 너무 길게 누르고 있을 가능성이 큽니다. 더 가볍고 간격을
+  둔 탭으로 고도를 조금씩만 조정해 보세요.
+
+- **Q: 이 게임에 끝이 있나요?**  
+  **A:** 정해진 엔딩은 없으며, 가능한 한 높은 점수를 기록하는 무한 점수 도전
+  형태입니다.
+
+- **Q: 시간이 지날수록 속도가 빨라지나요?**  
+  **A:** 대부분의 버전에서는 속도와 난이도가 일정하게 유지되며, 순전히 플레이어의
+  리듬 유지 능력에 따라 기록이 달라집니다.

@@ -1,67 +1,48 @@
 ---
-locale: ja
+title: Tumble Towers
+description: Tumble Towersは、タワー崩しゲームです。ブロックを引き抜いて塔が倒れないようにしましょう。
+iframeSrc: 'https://ubg98.github.io/TumbleTowers/'
+thumbnail: /new-images/tumble-towers.jpg
 urlstr: tumble-towers
-title: '[JA TRANSLATION NEEDED] Tumble Towers'
-description: >-
-  [JA TRANSLATION NEEDED] Tumble Towers is a physics stack‑and‑drop — balance
-  blocks, control overhangs, and build stable towers that survive gravity
-  checks.
-iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
-thumbnail: /new-images/tumble-towers.png
+score: 4.3/5  (2123 votes)
 tags:
   - puzzle
-  - thinky
-  - casual
-score: 3.9/5  (1742 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - physics
+  - strategy
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Tumble Towersは、ジェンガスタイルのブロック引き抜きゲームです。タワーが倒れないように慎重にブロックを引き抜き、できるだけ長く続けましょう。
 
-[JA TRANSLATION NEEDED] Tumble Towers is a stacker where each drop changes center of mass. Good play distributes weight, limits overhangs, and anticipates sway so the tower survives post‑drop jiggles.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Wide bases beat height rushes.
-[JA TRANSLATION NEEDED] 2.  Stagger seams; avoid vertical seam lines.
-[JA TRANSLATION NEEDED] 3.  Counter‑weights: Place small blocks opposite overhangs.
-[JA TRANSLATION NEEDED] 4.  Pause between drops; let sway settle.
-[JA TRANSLATION NEEDED] 5.  Trim tops with small pieces for fine leveling.
-
-### Controls Guide
-
-- Aim and drop; rotate if allowed; restart via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Tower keeps swaying apart.
-  
-[JA TRANSLATION NEEDED]   A: You’re dropping too fast or stacking seam‑on‑seam; stagger and pause.
-
-- Q: Can I salvage a lean?
-  
+ - **ブロックを選ぶ：** 引き抜くブロックを選びます
+ - **慎重に引く：** ゆっくりとブロックを引き抜きます
+ - **バランス維持：** タワーが倒れないようにします
+ - **上に積む：** 引き抜いたブロックを上に置きます
 
 
-
-
-
-
-- Q: Tower keeps swaying apart.
-### よくある質問（FAQ）
-- Aim and drop; rotate if allowed; restart via UI.
-### コントロールガイド
 - Trim tops with small pieces for fine leveling.
+### 操作ガイド
+
+ - **マウス：** ブロックをドラッグして引き抜く
 
 ### よくある質問（FAQ）
-- Pause between drops; let sway settle.
-[JA TRANSLATION NEEDED]   A: Counter‑weight on the high side and shorten overhangs.
 
 
+- Q: Tower keeps swaying apart.
+**ゲームの目標は何ですか？**
 
 
-A: Counter‑weight on the high side and shorten overhangs.
 - Q: Can I salvage a lean?
+タワーを倒さずにできるだけ多くのブロックを引き抜くことです。
 
+**どのブロックを引き抜くべきですか？**
 
-A: Counter‑weight on the high side and shorten overhangs.
+構造的に重要でないブロックを選ぶのが安全です。
+
+**タワーが倒れたらどうなりますか？**
+
+ゲームオーバーです。スコアが記録されます。

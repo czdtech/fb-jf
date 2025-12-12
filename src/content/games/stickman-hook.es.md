@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: stickman-hook
-title: '[ES] Stickman Hook'
+title: 'Stickman Hook'
 description: >-
-  [ES] Stickman Hook is a physics-based swinging game where players control a
-  stickman character, using grappling hooks to swing through levels, avoiding
-  obstacles and performing acrobatic moves to reach the finish line.
+  Stickman Hook es un juego de balanceo basado en físicas en el que controlas a
+  un stickman que usa ganchos para columpiarse por los niveles, esquivar
+  obstáculos y encadenar acrobacias hasta llegar a la meta.
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/stickman-hook.jpg
 tags:
@@ -17,34 +17,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Stickman Hook es un juego de balanceo con físicas muy pulidas en el que manejas
+a un stickman que se engancha a puntos de anclaje para superar niveles. Debes
+aprovechar los ganchos para balancearte, esquivar obstáculos y encadenar
+movimientos acrobáticos hasta cruzar la línea de meta. Su mecánica de
+balanceo suave y su física adictiva lo han convertido en un éxito.
 
+### Estrategia de juego
 
-### Game Introduction
+1.  **Domina la sincronización:** aprende a soltar y enganchar el gancho en el momento
+    preciso para mantener un ritmo de balanceo óptimo.
+2.  **Aprovecha el impulso:** usa la inercia del balanceo para ganar velocidad y
+    distancia en los saltos.
+3.  **Encadena ganchos:** enlaza varios puntos de anclaje seguidos para mantener
+    altura y velocidad.
+4.  **Anticípate a los obstáculos:** observa lo que viene un poco más adelante y
+    traza rutas de balanceo seguras.
+5.  **Añade acrobacias por diversión:** giros y volteretas no siempre son
+    necesarios, pero hacen la experiencia más entretenida.
 
-"Stickman Hook" is a physics-based swinging game where players control a stickman character, using grappling hooks to swing through levels, avoiding obstacles and performing acrobatic moves to reach the finish line. The game is widely popular for its smooth swinging mechanics and addictive physics gameplay.
+### Cómo se juega
 
-### Gameplay Strategy
+- **Lanzar el gancho:** haz clic o mantén pulsado para lanzar el gancho y agarrar
+  un punto de anclaje.
+- **Soltar:** suelta el botón para liberar el gancho y aprovechar la inercia.
+- **Balancear:** deja que las físicas hagan su trabajo y ajusta el momento del
+  siguiente enganche para dirigir el movimiento.
 
-1.  **[ES]** **Timing Mastery**: Learn to release and grab hooks at the right moments to maintain optimal swinging rhythm.
-2.  **[ES]** **Momentum Utilization**: Use swinging momentum to gain greater speed and jumping distance.
-3.  **[ES]** **Chain Swinging**: Use multiple hook points consecutively to maintain speed and height.
-4.  **[ES]** **Obstacle Prediction**: Observe obstacles ahead and plan safe swinging routes.
-5.  **[ES]** **Acrobatic Performance**: Try performing flips and spins for added fun.
+### Preguntas frecuentes
 
-### How to Play
+1.  **P: ¿Cómo consigo más impulso en el balanceo?**  
+  **R:** suelta el gancho en el punto más bajo del arco para aprovechar al
+  máximo la aceleración por gravedad.
 
-*   **[ES]** **Grapple**: Click or hold to fire the hook and grab onto anchor points.
-*   **[ES]** **Release**: Release the button to let go of the hook and use inertia to continue forward.
-*   **[ES]** **Swing**: Use physics swinging mechanics to gain momentum and direction.
+2.  **P: ¿Por qué choco tanto con los obstáculos?**  
+  **R:** necesitas planificar la ruta con antelación y ajustar el momento de
+  soltar/enganchar para pasar por huecos seguros.
 
-### Frequently Asked Questions
+3.  **P: ¿Cómo encadeno balanceos continuos?**  
+  **R:** engancha el siguiente punto justo cuando el balanceo actual está a
+  punto de terminar, de modo que no pierdas altura ni velocidad.
 
-1.  **[ES]** **Q: How do I get more swinging power?**
-**A**: Release the hook at the lowest point of the swing to use gravitational acceleration for maximum momentum.
-2.  **[ES]** **Q: Why do I often hit obstacles?**
-**A**: You need to plan your path ahead and release/re-grab hooks at appropriate times.
-3.  **[ES]** **Q: How do I perform continuous swinging?**
-**A**: Grab the next anchor point just as one swing is about to end to maintain continuity.
-4.  **[ES]** **Q: How many levels are in the game?**
-**A**: Usually contains dozens of levels, each with different challenges and obstacle layouts.
+4.  **P: ¿Cuántos niveles tiene el juego?**  
+  **R:** suele incluir decenas de niveles, cada uno con retos y disposiciones de
+  obstáculos diferentes.

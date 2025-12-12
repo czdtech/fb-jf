@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: polymatch
-title: '[KO] PolyMatch'
-description: >-
-  [KO] Dive into the colorful world of PolyMatch! A unique puzzle game where you
-  rotate and place polyomino pieces to complete intricate patterns.
+title: PolyMatch 폴리매치
+description: 다양한 그림 타일을 짝지어 보드를 비우는 매칭 퍼즐 게임입니다. 제한된 보관 슬롯을 관리하며 같은 타일을 찾아 제거해 보세요.
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/polymatch.png
 tags:
@@ -17,32 +15,67 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*PolyMatch*는 관찰력과 계획성이 중요한 타일 매칭 퍼즐 게임입니다.
+보드에는 다양한 그림과 패턴이 그려진 타일이 가득 차 있고,
+플레이어는 같은 그림의 타일 두 장을 골라 짝을 맞춰 보드에서
+제거해야 합니다.
 
-### Detailed Game Introduction
+하지만 화면 아래에 있는 **보관 슬롯**에는 동시에 넣을 수 있는
+타일 수가 제한되어 있어, 아무 타일이나 눌러 담다 보면 금방 꽉
+차서 게임 오버가 됩니다. 항상 앞으로 만들 매치를 염두에 두고
+타일을 선택해야 하는 점이 이 게임의 핵심입니다.
 
-PolyMatch is an engaging tile-matching puzzle game that challenges your observation and strategic thinking. The game presents you with a board filled with various tiles, each featuring a unique image or pattern. Your objective is to clear the board by finding and matching pairs of identical tiles. The twist lies in the limited holding area at the bottom of the screen, which can only hold a few tiles. You must carefully select tiles to ensure you can make matches and prevent the holding area from filling up, which would lead to a game over.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **눈에 보이는 매치부터 확실히 지우기**  
+   바로 짝이 보이는 타일이 있다면 우선적으로 제거해 보드 공간을
+   넓혀 주세요. 공간이 생기면 숨겨져 있던 타일이 드러나면서 새로운
+   매치 기회가 생깁니다.
 
-1.  **[KO]** **Prioritize Visible Matches:** Always look for and make matches that are immediately visible and accessible. This helps to clear space and reveal more tiles.
-2.  **[KO]** **Manage the Holding Area:** The holding area is your most critical resource. Never tap a tile unless you have a clear plan for how it will be matched. Avoid filling it with unmatched tiles.
-3.  **[KO]** **Look for Hidden Tiles:** As you clear tiles, new ones will be revealed. Try to anticipate which tiles will become available and how they might contribute to future matches.
-4.  **[KO]** **Strategic Tapping:** If you have multiple options for a match, consider which one will open up the most possibilities or clear the most difficult sections of the board.
-5.  **[KO]** **Don't Rush:** There's no time limit in many versions of PolyMatch, so take your time to analyze the board and plan your moves carefully. A single wrong tap can lead to a game over.
+2. **보관 슬롯은 가장 중요한 자원**  
+   아래 보관 칸은 6장 안팎의 적은 타일만 담을 수 있습니다.
+   확실한 매치 계획이 없는 타일은 함부로 선택하지 말고, 어디와
+   어떻게 짝을 맞출지 생각한 뒤 눌러야 합니다.
 
-### Controls Guide
+3. **가려진 타일을 의식하며 플레이하기**  
+   타일을 제거하면 그 뒤에 숨겨져 있던 타일이 열립니다.
+   현재 보이는 패턴뿐만 아니라, 제거 후 새로 드러날 타일이
+   어떤 매치를 만들 수 있을지도 미리 상상해 보세요.
 
-*   **[KO]** **Select Tile:** Click or tap on a tile on the main game board to move it to the holding area at the bottom.
+4. **여러 선택지 중 가장 이득이 큰 매치 고르기**  
+   동시에 만들 수 있는 매치가 여러 개라면, 이후에 막힐 만한 구역을
+   먼저 열어 주거나, 보관 슬롯을 가장 많이 비울 수 있는 선택을
+   우선하는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+5. **시간 제한이 없다면 서두르지 않기**  
+   많은 버전의 PolyMatch에는 시간 제한이 없습니다. 한 번의 잘못된
+   선택으로 판이 막힐 수 있으니, 급하게 누르기보다 충분히 보드를
+   살핀 뒤 움직이세요.
 
-*   **[KO]** **Q: How do I win a level?**
-    *   **[KO]** **A:** You win a level by successfully clearing all the tiles from the main game board.
+### 조작 가이드
 
-*   **[KO]** **Q: What happens if the holding area fills up?**
-    *   **[KO]** **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
+- **타일 선택**: 메인 보드에서 원하는 타일을 클릭/탭하면, 해당
+  타일이 아래 보관 영역으로 이동합니다. 동일한 타일을 연속으로
+  모으면 자동으로 짝이 맞춰져 사라집니다.
 
-*   **[KO]** **Q: Are there power-ups or hints?**
-    *   **[KO]** **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
+### 자주 묻는 질문(FAQ)
 
+- **Q: 한 스테이지를 클리어하려면 어떻게 하나요?**  
+  **A:** 메인 보드에 있는 모든 타일을 짝지어 제거하면 클리어입니다.
+
+    - **Q: 보관 슬롯이 가득 차면 어떻게 되나요?**  
+  **A:** 더 이상 타일을 담을 수 없고, 매치를 만들 수도 없다면
+  그 즉시 게임 오버가 됩니다. 슬롯 관리가 중요한 이유입니다.
+
+- **Q: 파워업이나 힌트가 있나요?**  
+
+    - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
+
+- **Q: Are there power-ups or hints?**
+
+    - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
+  **A:** 일부 버전에서는 타일을 섞는 셔플, 힌트 표시 등 보조 기능을
+  제공하기도 합니다. 난도가 높아질수록, 막힐 때 최소한으로
+  활용해 보세요.

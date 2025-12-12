@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-hijinks
-title: '[KO] Incredibox Hijinks'
+title: Incredibox Hijinks 장난기 가득한 카툰 모드
 description: >-
-  [KO] Explore 'Incredibox Hijinks,' the chaotic cartoon-themed fan-made mod.
-  This guide details its zany electronic sound palette, gameplay for creating
-  fun and mischievous tracks, and how to unlock its themed bonuses.
+  혼란스럽고 장난스러운 카툰 분위기를 담은 팬메이드 모드 'Incredibox Hijinks' 가이드입니다. 발랄한 전자 비트와 효과음으로
+  재미있는 트랙을 만드는 방법과 보너스 해금 팁을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/1027156305/embed'
 thumbnail: /new-images/incredibox-hijinks.png
 tags:
@@ -18,55 +17,88 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
-### **Incredibox Hijinks Game Introduction**
+### **게임 소개**
 
-*Incredibox Hijinks* is a popular and energetic fan-made mod for the music creation game Incredibox, created by the modder Bongo Cat. The name "Hijinks" perfectly captures the mod's theme of **mischievous, chaotic, and zany cartoon antics**. The characters are stylized as simple, expressive figures ready to cause some musical trouble.
+*Incredibox Hijinks*는 모더 Bongo Cat이 제작한, 매우 에너지 넘치는
+팬메이드 Incredibox 모드입니다. 제목인 `Hijinks`는 **장난, 소동,
+익살스러운 난장** 정도의 의미로, 이 모드의 분위기를 그대로
+대변합니다. 단순하지만 표정이 풍부한 캐릭터들이 등장해, 언제 폭주해도
+이상하지 않을 것 같은 카툰 세계를 펼쳐 줍니다.
 
-The game utilizes the classic Incredibox drag-and-drop gameplay. Players are given a palette of 20 unique sound icons to assign to their crew of seven performers. The sound library is a fun and upbeat collection of **electronic beats, quirky sound effects, and playful vocals**, designed to create a lighthearted and energetic track reminiscent of a modern cartoon soundtrack.
+게임 방식은 기본 Incredibox와 동일합니다. 7명의 캐릭터에게 20개의
+사운드 아이콘을 입혀 곡을 만들고, 특정 조합을 맞추면 3개의 비밀
+애니메이션 보너스를 해금할 수 있습니다. 사운드는 **신나는 일렉트로닉
+비트, 장난스러운 효과음, 재기발랄한 보컬**로 구성되어 있어, 현대
+카툰 BGM 같은 발랄한 트랙을 만들기에 좋습니다.
 
-The objective is to allow players to have fun and create chaotic yet catchy tunes, while also solving the puzzle of finding the three secret animated bonuses, which are undoubtedly themed around cartoonish pranks and fun.
+### **플레이 전략 & 팁**
 
-### **Gameplay Strategy & Tips**
+이 모드의 전략은 최대한 **재미와 에너지**를 살리는 방향으로
+사운드를 쌓는 것입니다.
 
-Strategy in *Incredibox Hijinks* is about embracing the fun and layering the energetic sounds to create a bouncy, infectious groove.
+1. **장난기 가득한 사운드 팔레트 이해하기**  
+    - **Beats**: 탄력 있는 일렉트로닉 드럼 패턴과 간단하지만 중독성
+     있는 베이스 라인이 중심입니다. 듣자마자 몸이 움직이고 싶은
+     그루브를 만들어 줍니다.  
+    - **Effects**: 다양한 카툰 효과음(튕기는 소리, 슝 하는 소리),
+     가벼운 신스 텍스처, 웃음을 유발하는 특수 효과들이 포함됩니다.  
+    - **Melodies**: 간단하고 밝은 선율 위주의 신스 리드, 키보드 루프가
+     많아 한번 들으면 쉽게 따라 흥얼거리게 됩니다.  
+    - **Voices**: 말장난 같은 보컬 샘플, 가벼운 감탄사, 훅처럼 반복되는
+     보컬 프레이즈가 모여 있어 트랙에 캐릭터성을 더해 줍니다.
 
-1.  **[KO]** **Understand the Zany Sound Palette**:
-    *   **[KO]** **Beats**: The rhythms are the driving force of the fun. Expect bouncy **electronic drum patterns**, playful percussion, and simple, effective basslines that make you want to move.
-    *   **[KO]** **Effects**: This category is the heart of the "hijinks." It likely includes classic **cartoon sound effects** (boings, zips), simple synth textures, and other quirky noises that add a layer of silliness.
-    *   **[KO]** **Melodies**: The melodies are designed to be simple and catchy. Look for upbeat **chiptune-style synth leads**, simple keyboard loops, and other fun, memorable hooks.
-    *   **[KO]** **Voices**: Vocals are playful and often nonsensical. This category features **processed vocal chops**, fun exclamations, and simple, melodic vocalizations that add to the cartoonish character of the mix.
+2. **통통 튀는 비트부터 만들기**  
+   먼저 `Beats`에서 마음에 드는 드럼과 베이스를 골라 아기자기하고
+   튀는 리듬을 만들어요. 이 기본 리듬이 잘 잡혀 있으면 이후에
+   어떤 효과음과 멜로디를 올려도 재미있는 분위기가 유지됩니다.
 
-2.  **[KO]** **Start with a Bouncy Beat**: The best way to begin is by establishing an energetic rhythm. Combine a solid drum pattern with a simple bassline from the "Beats" category to get the track started.
+3. **과감하게 레이어 쌓기**  
+   Hijinks의 매력은 어느 정도의 **소란스러움**에 있습니다. 다른 모드보다
+   조금 더 많은 `Effects`와 `Melodies`를 동시에 켜 두어도 괜찮습니다.
+   다만 너무 정신없다고 느껴질 때는 한두 파트를 끄면서 적당한 선을
+   찾아 보세요.
 
-3.  **[KO]** **Layer on the Fun**: Once the beat is set, start adding the "Effects" and "Melodies." Don't be afraid to make the mix sound a little chaotic or silly—that's the point of the mod!
+4. **보너스는 체계적으로 찾기**  
+   마음에 드는 기본 비트·멜로디 조합을 먼저 만들어 둔 뒤, 남은
+   슬롯에서 아이콘을 하나씩 바꿔 가며 조합을 시험해 보세요. 그렇게
+   하면 장난기 넘치는 보너스 애니메이션 3가지를 비교적 빠르게
+   모두 확인할 수 있습니다.
 
-4.  **[KO]** **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a core groove that you like, and then systematically swap out the other icons one by one until you trigger one of the mischievous animations.
+### **조작 가이드**
 
-### **Controls Guide**
+조작은 공식 Incredibox와 동일한 드래그 앤 드롭 방식입니다.
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+- **사운드 추가**: 하단의 아이콘을 드래그해 캐릭터 위에 올려놓습니다.
+- **사운드 제거**: 하단 활성 아이콘의 `X`를 누르거나, 다른 아이콘을
+  덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나 다시
+  켤 수 있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼을 눌러 그 캐릭터만 들리도록 만들 수
+  있습니다.
+- **녹음**: 상단의 녹음 버튼으로 완성된 장난기 넘치는 트랙을
+  녹음·저장할 수 있습니다.
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your fun-loving creation.
+### **자주 묻는 질문(FAQ)**
 
-### **Frequently Asked Questions (FAQ)**
+**1. 공식 Incredibox 버전인가요?**  
 
-**1. Is this an official Incredibox version?**
+아니요. *Hijinks*는 모더 Bongo Cat이 만든 **비공식 팬메이드 모드**이며,
+공식 개발사 So Far So Good과는 관련이 없습니다.
 
-No. It is a **fan-made mod** created by Bongo Cat. It is not affiliated with the official Incredibox team, So Far So Good.
+**2. 이 모드는 어디에서 플레이할 수 있나요?**  
 
-**2. Where can I play this mod?**
+주로 `playfiddlebops.com` 같은 모딩 웹사이트나, 유튜브 소개 영상의
+플레이 링크를 통해 브라우저에서 즐길 수 있습니다. 공식 앱이나
+스토어에서는 제공되지 않습니다.
 
-You will not find it on official platforms. Mods like *Hijinks* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
+**3. 이 모드만의 매력은 무엇인가요?**  
 
-**3. What makes this mod special?**
+진지한 테마보다 **순수하게 웃고 즐기기 위한 음악**을 만들고 싶을 때
+딱 맞는 모드입니다. 가벼운 카툰 분위기와 발랄한 전자음 덕분에,
+잠깐씩 켜서 기분 전환용으로 플레이하기 좋습니다.
 
-Its charm comes from its pure, unadulterated fun. The lighthearted cartoon theme and energetic, upbeat music provide a simple and joyful experience that is all about creating a smile.
+**4. 보너스 조합 공략을 어디서 볼 수 있나요?**  
 
-**4. Are the bonus solutions for "Hijinks" available online?**
-
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Hijinks combos*" on YouTube will show you the solutions.
+`Incredibox Hijinks combos` 같은 키워드로 유튜브를 검색하면, 각
+보너스를 여는 조합을 정리해 둔 영상들을 쉽게 찾을 수 있습니다.
 

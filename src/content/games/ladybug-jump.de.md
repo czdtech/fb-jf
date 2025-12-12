@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: ladybug-jump
-title: '[DE] Ladybug Jump'
+title: "Ladybug Jump"
 description: >-
-  [DE] Ladybug Jump is a cheerful hop‑platformer — time jumps, ride moving
-  leaves, and collect nectar while avoiding hazards.
+  Ladybug Jump ist ein fröhlicher Hüpf-Plattformer: Time deine Sprünge, reite
+  auf beweglichen Blättern und sammle Nektar, während du Gefahren ausweichst.
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/ladybug-jump.png
 tags:
@@ -15,35 +15,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Ladybug Jump ist ein leichtes, familienfreundliches Plattformspiel. Als kleiner
+Marienkäfer hüpfst du über Blätter und Pilze, meidest Pfützen und Spinnen und
+sammelst Nektar für Bonuspunkte. Bewegliche Plattformen und Windböen machen die
+Sprünge mit der Zeit anspruchsvoller und verlangen gutes Timing.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Ladybug Jump is a light, family‑friendly platformer. Hop across leaves and mushrooms, avoid puddles and spiders, and grab nectar for bonuses. Moving platforms and wind gusts add timing tests as levels progress.
+1.  **Kurz tippen**  
+    Nutze möglichst kurze Sprünge für präzise Landungen, vor allem auf kleinen
+    Blättern.
 
-### Gameplay Strategy & Walkthrough
+2.  **Wind richtig lesen**  
+    Bei Gegenwind solltest du etwas früher springen, bei Rückenwind eher
+    später, damit du trotzdem sicher landest.
 
-1.  **[DE]** Short taps: Use minimal jumps for precision.
-2.  **[DE]** Wind reads: Jump slightly earlier into headwinds; later with tailwinds.
-3.  **[DE]** Safe arcs: Take longer, safer paths over risky shortcuts.
-4.  **[DE]** Collectibles: Grab nectar only when aligned; safety first.
-5.  **[DE]** Restart rhythm: Quick restarts help nail tricky sequences.
+3.  **Sichere Routen wählen**  
+    Längere, aber sichere Wege sind oft sinnvoller als riskante Abkürzungen mit
+    viel Absturzgefahr.
 
-### Controls Guide
+4.  **Nektar nur bei guter Ausrichtung mitnehmen**  
+    Sammle Bonus-Nektar nur, wenn du ohnehin in einem guten Sprungwinkel bist –
+    stürzen kostet mehr, als die Punkte wert sind.
 
-- Tap/Click to jump; hold to jump higher if supported; pause/retry via UI.
+5.  **Schwere Passagen üben**  
+    Nutze schnelle Neustarts, um knifflige Sprungfolgen mehrmals hintereinander
+    zu trainieren, bis der Rhythmus sitzt.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I keep falling off small leaves.
+- **Springen:** Tippen/Klicken zum Springen; langes Halten sorgt – je nach
+  Version – für höhere Sprünge.  
+- **Pause/Neustart:** Über die UI kannst du das Spiel pausieren oder das Level
+  schnell neu starten.
 
-A: Reduce jump height and land center; avoid momentum swings.
+### FAQ
 
-- Q: Are there boss stages?
+- **F: Ich falle ständig von kleinen Blättern – was mache ich falsch?**  
+  **A:** Reduziere deine Sprunghöhe und ziele konsequent auf die Mitte der
+  Plattform. Vermeide es, mit zu viel seitlichem Schwung auf kleine Ziele
+  zuzusteuern.
 
-A: Rare; focus is on short obstacle courses.
+- **F: Gibt es Boss-Level?**  
+  **A:** In der Regel steht der Hindernis-Parcours im Vordergrund; Bosskämpfe
+  sind selten oder gar nicht vorhanden.
 
-- Q: Controller supported?
-
-A: Some versions support gamepads for analog jump control.
-
+- **F: Kann ich mit Controller spielen?**  
+  **A:** Einige Versionen unterstützen Gamepads und erlauben feinere
+  Sprungkontrolle über analoge Eingaben.

@@ -1,12 +1,11 @@
 ---
 locale: de
 urlstr: minesweeper
-title: '[DE] Minesweeper'
+title: "Minesweeper"
 description: >-
-  [DE] Minesweeper is a single-player puzzle video game where the objective is
-  to clear a rectangular board containing hidden "mines" or bombs without
-  detonating any of them, with the help of clues about the number of neighboring
-  mines in each field.
+  Minesweeper ist ein Einzelspieler-Puzzlespiel, in dem du ein rechteckiges
+  Feld räumst, auf dem versteckte Minen liegen – nur anhand der Zahlhinweise an
+  den aufgedeckten Feldern.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/minesweeper.jpg
 tags:
@@ -18,34 +17,59 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Minesweeper" ist ein klassisches Einzelspieler-Logikpuzzle. Ziel ist es, ein
+Raster aus Feldern aufzudecken und dabei alle versteckten Minen zu lokalisieren,
+ohne eine zu treffen. Anhand der Zahlen auf aufgedeckten Feldern kannst du
+ablesen, wie viele Minen im Umfeld versteckt sind, sichere Felder freilegen und
+Minen markieren.
 
+### Spielstrategie
 
-### Game Introduction
+1.  **Zahlen verstehen**  
+    Jede Zahl gibt an, wie viele Minen in den acht angrenzenden Feldern liegen.
 
-"Minesweeper" is a classic single-player puzzle game. The objective is to uncover a grid of squares, find all hidden "mines" without detonating them. Through numerical clues, players can infer the number of mines hidden around each square, gradually clearing safe areas and marking minefields.
+2.  **Sichere Felder finden**  
+    Nutze die Zahlen, um Felder zu identifizieren, die garantiert minenfrei
+    sind, und decke sie auf.
 
-### Gameplay Strategy
+3.  **Minen markieren**  
+    Felder, die sicher Minen enthalten, markierst du mit Rechtsklick
+    (bzw. langem Druck), um Fehlklicks zu vermeiden.
 
-1.  **[DE]** **Understand Number Meanings**: Each numbered square indicates the count of mines in its eight surrounding adjacent squares.
-2.  **[DE]** **Mark Safe Areas**: Based on numerical clues, identify squares that are safe to click and uncover.
-3.  **[DE]** **Mark Minefields**: When a square is determined to be a mine, use a right-click (or long-press) to flag it, avoiding accidental detonation.
-4.  **[DE]** **Prioritize Certainty**: Focus on areas where mines or safe squares can be definitively determined.
-5.  **[DE]** **Handle Uncertainty**: In situations without clear clues, make reasonable guesses but try to minimize risk.
+4.  **Auf sichere Logikzüge achten**  
+    Konzentriere dich auf Bereiche, in denen Minen- oder sichere Felder
+    eindeutig bestimmt werden können, bevor du riskante Vermutungen anstellst.
 
-### How to Play
+5.  **Unsicherheit minimieren**  
+    In manchen Situationen lässt sich ein Zug nicht ohne Restunsicherheit
+    bestimmen. Wähle dann Felder, die dir im Idealfall möglichst viele neue
+    Informationen liefern.
 
-*   **[DE]** **Left-click**: Uncover a square.
-*   **[DE]** **Right-click (or long-press)**: Flag or unflag a mine.
-*   **[DE]** **Double-click Numbered Square**: When all mines around a numbered square have been correctly flagged, double-clicking that numbered square will instantly uncover all surrounding unrevealed safe squares.
+### Steuerung
 
-### Frequently Asked Questions
+*   **Linksklick:** Feld aufdecken.  
+*   **Rechtsklick / Langdruck:** Mine markieren oder Markierung entfernen.  
+*   **Doppelklick auf Zahl:** Sind alle angrenzenden Minen korrekt markiert,
+    deckt ein Doppelklick alle übrigen Nachbarfelder auf.
 
-1.  **[DE]** **Q: Is there a guaranteed winning strategy for Minesweeper?**
-**A**: Minesweeper primarily relies on logical deduction, but for some purely randomly generated boards, there might be situations requiring guesswork, so there isn't a 100% guaranteed winning strategy.
-2.  **[DE]** **Q: How can I customize the difficulty of Minesweeper?**
-**A**: Most Minesweeper games offer custom difficulty options, allowing you to adjust the board size and number of mines.
-3.  **[DE]** **Q: Why do I sometimes encounter unwinnable situations?**
-**A**: In some randomly generated scenarios, it may be impossible to logically determine the next square, requiring a guess.
-4.  **[DE]** **Q: What is the purpose of the timer in the game?**
-**A**: The timer records the time taken by the player to complete the game, allowing you to challenge your fastest record at different difficulty levels.
+### FAQ
+
+1.  **F: Gibt es eine garantiert gewinnbringende Strategie?**  
+    **A:** Minesweeper basiert hauptsächlich auf Logik, aber bei zufällig
+    generierten Feldern können Situationen entstehen, in denen du raten musst –
+    deshalb gibt es keine 100%-Strategie.
+
+2.  **F: Wie passe ich den Schwierigkeitsgrad an?**  
+    **A:** Die meisten Versionen bieten eigene Einstellungen für Feldgröße und
+    Minenanzahl.
+
+3.  **F: Warum entstehen manchmal unlösbare Situationen?**  
+    **A:** Bei zufälligen Layouts kann es vorkommen, dass Zahlen keine eindeutige
+    Lösung zulassen und du zwischen zwei gleich wahrscheinlichen Optionen
+    wählen musst.
+
+4.  **F: Wozu dient der Timer?**  
+    **A:** Er misst deine Lösungszeit, sodass du dich selbst oder Freunde auf
+    verschiedenen Schwierigkeitsstufen herausfordern kannst.

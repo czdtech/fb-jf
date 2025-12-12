@@ -1,51 +1,42 @@
 ---
 locale: fr
-urlstr: mahjongg-solitaire
-title: '[FR] Mahjongg Solitaire'
-description: >-
-  [FR] Clear the board in Mahjongg Solitaire, the classic single-player
-  tile-matching puzzle game! Find and match identical, unblocked tiles to remove
-  them from the layout. Strategize your moves to expose more tiles and clear the
-  entire board in this timeless brain-teaser.
-iframeSrc: >-
-  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
-thumbnail: /new-images/mahjongg-solitaire.jpg
-tags:
-  - puzzle
-  - tile-matching
-  - classic
-score: 4.5/5  (256 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+urlstr: "mahjongg-solitaire"
+title: "Mahjongg Solitaire"
+description: "Vide le plateau dans Mahjongg Solitaire, le classique puzzle d’appariement de tuiles pour un joueur : trouve et associe des tuiles libres identiques, planifie tes coups et découvre un casse‑tête intemporel."
+iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/"
+thumbnail: "/new-images/mahjongg-solitaire.jpg"
+tags: ["puzzle", "tile-matching", "classic"]
+score: "4.5/5  (256 votes)"
+developer: ""
+releaseDate: 2025-08-16
 ---
 
+### Présentation du jeu
 
+Mahjongg Solitaire, aussi appelé Mahjong Solitaire ou Shanghai Solitaire, est un jeu de puzzle très populaire pour un seul joueur. Les tuiles de mahjong sont disposées en différentes configurations à plusieurs couches. Ton objectif est de vider le plateau en trouvant et en associant des paires de tuiles identiques qui sont « libres ».
 
-### Game Introduction
+### Guide de jeu
 
-Mahjongg Solitaire, also known as Mahjong Solitaire or Shanghai Solitaire, is a popular single-player tile-matching puzzle game. The game uses a set of Mahjong tiles arranged in various multi-layered layouts. The primary objective is to clear the entire board by finding and matching pairs of identical, "free" tiles.
+- **Associer les tuiles :** clique ou appuie sur deux tuiles identiques pour les retirer.
+- **Tuiles « libres » :** une tuile est libre si aucune tuile ne se trouve directement au‑dessus et si au moins un de ses côtés longs (gauche ou droit) est dégagé.
+- **Stratégie :** choisis des paires qui libèrent de nouvelles tuiles. Retirer la mauvaise paire peut bloquer le plateau ; essaie donc de dégager les piles hautes et les zones centrales en premier.
+- **Tuiles spéciales :** les tuiles Fleurs et Saisons peuvent être associées au sein de leur groupe même si les dessins ne sont pas strictement identiques.
 
-### Gameplay Guide
+### Commandes
 
-- **Matching Tiles:** Click or tap on two identical tiles to remove them.
-- **"Free" Tiles:** Only tiles that are "free" can be matched. A tile is free if it has no other tiles directly on top of it and at least one of its long sides (left or right) is unobstructed.
-- **Strategy:** Plan your moves carefully. Removing certain tiles might block others, making the game unsolvable. Prioritize removing tiles that are blocking many other tiles or those that are part of a critical stack.
-- **Special Tiles:** Flower and Season tiles can be matched with any other tile of their respective group, even if they are not identical.
+- **Souris / tactile :** utilise la souris ou ton doigt pour sélectionner les tuiles que tu veux associer.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+**Quel est le but de Mahjongg Solitaire ?**  
 
-### Frequently Asked Questions (FAQ)
+L’objectif est de retirer les 144 tuiles du plateau en les associant deux par deux.
 
-**What is the goal of Mahjongg Solitaire?**
+**Que se passe‑t‑il s’il n’y a plus de paires possibles ?**  
 
-The goal is to remove all 144 tiles from the board by matching them in pairs.
+S’il reste des tuiles mais qu’aucune paire libre n’est disponible, la partie est perdue. Certaines versions proposent toutefois un bouton de mélange ou d’indice pour te donner une seconde chance.
 
-**What happens if I can't find any more matches?**
+**Y a‑t‑il une limite de temps ?**  
 
-If there are no more available "free" pairs to match, and tiles still remain on the board, the game is lost. Some digital versions offer a "shuffle" or "hint" option.
-
-**Is there a time limit?**
-
-Some versions of Mahjongg Solitaire are timed, adding an element of urgency, while others allow for a more relaxed pace.
+Certaines variantes sont chronométrées et ajoutent une pression supplémentaire, tandis que d’autres te laissent jouer à ton rythme pour une expérience plus relaxante.
 

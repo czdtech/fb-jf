@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: secret-agent
-title: '[FR] Secret Agent'
+title: 'Secret Agent'
 description: >-
-  [FR] Secret Agent is a stealth‑action caper — sneak past guards, disable
-  traps, and complete objectives with gadgets and precise timing.
+  Secret Agent est un jeu d’infiltration‑action : faufile‑toi derrière les
+  gardes, désactive les pièges et remplis tes objectifs en utilisant tes
+  gadgets et un timing millimétré.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/secret-agent.png
 tags:
@@ -17,33 +18,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation du jeu
 
-Secret Agent blends stealth with light puzzle routing. You’ll disable cameras, avoid cones of vision, hack doors, and collect intel before extraction. Clean routes and gadget timing trump brute force.
+Secret Agent mélange infiltration et petits casse‑têtes de trajet. Tu dois
+neutraliser des caméras, éviter les cônes de vision, pirater des portes et
+collecter des informations avant l’exfiltration. Un bon tracé de route et
+un usage précis de tes gadgets valent mieux que la force brute.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** Vision cones: Move only when guard cones sweep away.
-2.  **[FR]** Gadget economy: Save EMPs/decoys for multi‑guard rooms.
-3.  **[FR]** Route layering: Clear side intel when it’s along the optimal path; skip deep detours.
-4.  **[FR]** Sound bait: Throw a decoy to pivot patrol routes, then slip through.
-5.  **[FR]** Fail forward: After detection, break line of sight and hide; don’t panic sprint.
+1.  **Gérer les cônes de vision :** ne te déplace que lorsque les cônes des
+    gardes pointent ailleurs.
+2.  **Économiser les gadgets :** garde EMP, leurres et autres gadgets pour
+    les salles avec plusieurs gardes ou des situations vraiment bloquées.
+3.  **Superposer les objectifs :** récupère les infos secondaires
+    uniquement si elles se trouvent sur ton chemin optimal ; évite les
+    détours trop profonds.
+4.  **Utiliser le son comme appât :** lance un leurre sonore pour détourner
+    une patrouille, puis faufile‑toi par l’ouverture créée.
+5.  **Bien réagir en cas d’alerte :** si tu es repéré, casse rapidement la
+    ligne de vue et cache‑toi au lieu de sprinter au hasard.
 
-### Controls Guide
+### Commandes
 
-- WASD/Arrows to move; number keys for gadgets; interact with terminals; restart via menu.
+- Déplacement : WASD ou flèches directionnelles.  
+- Gadgets : touches numériques pour sélectionner et utiliser.  
+- Interaction : approche‑toi des terminaux ou objets interactifs.  
+- Redémarrage : via le menu en jeu.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-- Q: I’m always spotted.
+- **Je me fais toujours repérer, que faire ?**  
+  Étudie les cycles de patrouille, cale tes déplacements sur leur rythme et
+  utilise les couvertures pour passer d’une zone à l’autre.
 
-A: Study patrol cycles and move on fixed beats; use cover transitions.
+- **Les gadgets semblent trop rares…**  
+  Utilise‑les seulement pour débloquer les salles vraiment impossibles.
+  Dans les autres, repose‑toi surtout sur le timing et les déplacements.
 
-- Q: Gadgets feel scarce.
-
-A: Use them only to break impossible rooms; rely on timing elsewhere.
-
-- Q: Can I ghost levels?
-
-A: Many builds award bonuses for zero detections.
-
+- **Puis‑je finir un niveau sans être détecté ?**  
+  Oui, et beaucoup de versions offrent des bonus si tu termines un niveau
+  sans déclencher d’alerte.

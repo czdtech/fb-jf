@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: roll-this-ball-3
-title: '[ZH TRANSLATION NEEDED] Roll This Ball'
-description: >-
-  [ZH TRANSLATION NEEDED] A classic sliding puzzle that will test your logic.
-  Slide the wooden blocks to create a clear path for the ball to roll from the
-  start to the goal.
+title: 《Roll This Ball》滑块引路拼图
+description: 《Roll This Ball》是一款经典滑块解谜游戏，通过移动木制方块为小球拼出一条从起点通往终点的完整轨道，考验你的逻辑与规划能力。
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/roll-this-ball-3.png
 tags:
@@ -17,30 +14,27 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Roll This Ball is a classic and challenging sliding block puzzle designed to test your logic and planning skills. The game presents you with a grid of tiles, some of which are fixed in place, while others can be moved. Your goal is to slide the movable blocks to form a continuous, unbroken path for a ball to roll from its starting point to the goal. It's a simple concept with surprisingly deep and challenging puzzles.
+《Roll This Ball》是一款既经典又烧脑的滑块拼图游戏，专门用来考验你的逻辑推理与路径规划能力。棋盘被划分成一格格方块，有些方块固定不动，有些可以滑动。你的目标是拖动可以移动的木块，让它们拼接成一条连续、无断点的轨道，好让小球可以从起点一路滚到终点。概念简单，但很多关卡都隐藏着出乎意料的难度。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Analyze the Path:** Before you start moving blocks, trace the potential path with your eyes. Identify the key pieces that need to connect the start and end points.
-2.  [ZH TRANSLATION NEEDED] **Work Backwards:** Sometimes it's easier to solve the puzzle by working backwards from the goal tile. Figure out which piece needs to connect to the goal, then which piece needs to connect to that one, and so on, until you reach the start.
-3.  [ZH TRANSLATION NEEDED] **Use Fixed Blocks as Anchors:** The blocks with rivets in them cannot be moved. Use these as fixed points in your path and build your solution around them.
-4.  [ZH TRANSLATION NEEDED] **Aim for the Stars:** Many levels have a star rating. To get all three stars, you typically need to solve the puzzle in the minimum number of moves possible. This requires thinking efficiently and not making any unnecessary slides.
+### 通关思路与操作策略
 
-### Controls Guide
+1.  **先整体分析路线：** 在动手前先用目光“走一遍”可能的路径，从起点和终点出发，找出必须经过的关键转弯块或直线路段。
+2.  **从终点反推：** 很多关卡用“从结果往前推”更好解。先看终点需要接什么形状的轨道，再思考上一个连接块是什么，一路往前推回到起点。
+3.  **把固定块当锚点：** 带铆钉的木块是无法移动的，它们往往是“地标”和路线骨架。优先围绕这些固定块规划，其他滑块再补全中间缺口。
+4.  **冲着三星目标去：** 关卡通常会根据你的移动步数给出星级评价。想拿到三星就要尽量用最少的滑动次数完成，这意味着要减少无意义试错，多在脑中演算后再行动。
 
-[ZH TRANSLATION NEEDED] The game is played with simple drag-and-drop or sliding controls.
+### 操作说明
 
-*   **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
+游戏采用简单直观的拖拽/滑动操作。
 
-### Frequently Asked Questions (FAQ)
+*   **移动方块：** 点击并拖拽可移动木块，将其滑动到相邻的空格中，重复操作直至形成连续轨道。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** To create a continuous, unbroken pipeline for the ball to roll from the starting block to the goal block.
-
-*   **Q: Why can't I move a specific block?**
-     *   **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-
-*   **Q: I've made a path, but the ball isn't rolling. Why?**
-     *   **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
-
+### 常见问题解答（FAQ）
+*   **问：游戏的最终目标是什么？****
+    *   答：** 目标是拼出一条从起始方块连通到终点方块的完整管道或轨道，让小球可以一路顺畅滚过中间所有连接块。
+*   **问：为什么有些方块完全拖不动？****
+    *   答：** 带有金属铆钉的方块是固定块，无法移动。你只能围绕它们设计路径，把它们当成必须纳入路线的固定节点。
+*   **问：明明已经有路了，小球却没有滚动？****
+    *   答：** 很可能在某处存在细小的断点或方向错误，例如轨道开口没有完全对上。建议从起点到终点仔细检查每一块的朝向，确认整条线路真正首尾相连。

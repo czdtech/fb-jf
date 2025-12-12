@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: tower-crash-3d
-title: '[DE] Tower Crash 3D'
+title: Tower Crash 3D
 description: >-
-  [DE] Demolish colorful towers in this satisfying 3D physics game. Shoot balls
-  that match the blocks' color to cause epic collapses, but be strategic—you
-  have limited shots!
+  Sprenge bunte Türme in Tower Crash 3D: Schieße Kugeln der passenden Farbe,
+  kippe die Physik‑Türme unter die Ziellinie und pass auf – deine Schüsse sind
+  begrenzt.
 iframeSrc: >-
   https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/tower-crash-3d.jpg
@@ -17,35 +17,43 @@ score: 4.3/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Tower Crash 3D ist ein befriedigendes Physik‑Puzzle, in dem du Türme aus farbigen Blöcken zum Einsturz bringen sollst. Du feuerst Kugeln auf den Turm, aber jede Kugel zerstört nur Blöcke in ihrer eigenen Farbe. Mit begrenzter Munition musst du gezielt tragende Elemente treffen, damit der gesamte Turm unter die Markierungslinie stürzt.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1. **Farben matchen:** Wichtigste Regel: Achte auf die Kugelfarbe im Geschütz und ziele ausschließlich auf Blöcke derselben Farbe. Schüsse auf andere Farben richten keinen Schaden an und verschwenden wertvolle Munition.
+2. **Fundament schwächen:** Wie bei jedem Abriss ist das Fundament entscheidend. Triff möglichst die unteren Blöcke der passenden Farbe, um den Turm zu destabilisieren und große Teile auf einmal kippen zu lassen.
+3. **Kettenreaktionen suchen:** Manchmal stützt ein einzelner Block mehrere Ebenen. Wenn du solche „Schlüsselblöcke“ entfernst, löst du mit einem Schuss einen halben Kollaps aus.
+4. **Schüsse sparen:** Du hast pro Level nur eine begrenzte Anzahl Kugeln. Nimm dir Zeit zum Zielen, statt schnell hintereinander zu feuern.
 
-Tower Crash 3D is a satisfying and addictive physics-based puzzle game where your goal is to demolish towers made of colorful blocks. The catch is that you must shoot balls of a specific color, and they will only destroy blocks of the same color. With limited ammunition for each level, you must aim strategically to hit critical support blocks and cause the entire structure to come crashing down below the goal line.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[DE]** **Match the Colors:** This is the most important rule. Look at the color of the ball loaded in your cannon and aim only for blocks of that same color. Hitting a different colored block will do nothing and waste a precious shot.
-2.  **[DE]** **Aim for the Base:** Like in any demolition game, the foundation is key. Prioritize shooting the lowest blocks of the correct color. Removing the base supports will destabilize the tower and cause a much larger collapse than shooting at the top.
-3.  **[DE]** **Look for Chain Reactions:** Sometimes, a single block might be supporting several others. Identify these critical blocks and target them to get the most destruction out of a single shot.
-4.  **[DE]** **Conserve Your Shots:** You have a limited number of balls for each level. Don't fire randomly. Take a moment to aim each shot for maximum impact.
-
-### Controls Guide
 
 The controls are simple and intuitive.
+- **Zielen:** Bewege Maus oder Finger, um das Geschütz nach links und rechts zu schwenken.
+- **Feuern:** Linksklick oder Tipp auf den Bildschirm, um eine Kugel abzufeuern.
 
-*   **[DE]** **Aim:** Move your mouse or swipe your finger left and right to aim your cannon.
-*   **[DE]** **Fire:** Click the left mouse button or tap the screen to shoot a ball.
+### Häufige Fragen (FAQ)
 
-### Frequently Asked Questions (FAQ)
 
-*   **[DE]** **Q: Why didn't the block break when I shot it?**
-    *   **[DE]** **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
+- **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
 
-*   **[DE]** **Q: How do I complete a level?**
-    *   **[DE]** **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
+    - **Q: What is the best strategy if the tower is multi-colored?**
 
-*   **[DE]** **Q: What is the best strategy if the tower is multi-colored?**
-    *   **[DE]** **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
+- **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
 
+    - **Q: How do I complete a level?**
+
+- **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
+
+    - **Q: Why didn't the block break when I shot it?**
+**Warum ist ein Block nicht zerbrochen, obwohl ich ihn getroffen habe?**  
+Die Kugel muss exakt die gleiche Farbe haben wie der Block. Eine blaue Kugel zerstört nur blaue Blöcke usw.
+
+**Wann gilt ein Level als geschafft?**  
+Sobald der höchste Punkt des verbliebenen Turms unter der eingeblendeten Ziellinie liegt – und das, bevor dir die Kugeln ausgehen.
+
+**Wie gehe ich bei mehrfarbigen Türmen vor?**  
+Beobachte die Reihenfolge der Kugelfarben im Geschütz. Warte auf die Farbe, die du für eine Schwachstelle brauchst, statt wahllos zu schießen.

@@ -1,54 +1,85 @@
 ---
 locale: fr
 urlstr: jewel-pets-match
-title: '[FR] Jewel Pets Match'
+title: Jewel Pets Match
 description: >-
-  [FR] Match cute jewel pets in this fun and colorful match-3 puzzle adventure!
-  Swap the animals to create lines of three or more and complete the goals for
-  each level.
-iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
+  Jewel Pets Match mélange gemmes et animaux mignons : aligne des symboles pour
+  aider les petites créatures et progresser à travers les niveaux.
+iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/708di05m796eo/'
 thumbnail: /new-images/jewel-pets-match.png
 tags:
   - puzzle
   - casual
-  - action
-score: 4.4/5  (2300 votes)
+score: 4.2/5  (placeholder votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation
+
+Même base match‑3, mais avec un habillage animaux : chaque niveau te demande de collecter certains symboles ou d’atteindre un score pour « sauver » ou aider des petites créatures.
 
 
 
-### Detailed Game Introduction
+    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
 
-Jewel Pets Match is a bright and cheerful match-3 puzzle game filled with adorable, jewel-like animal characters. Your goal is to swap these cute pets on the game board to create lines of three or more identical animals. Each level presents a new challenge and a specific objective you must complete, such as reaching a target score or clearing special blocks, all within a limited number of moves.
+- **Q: What happens if I run out of moves?**
 
-### Gameplay Strategy & Walkthrough
+    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
 
-1.  **[FR]** **Create Power-ups:** To master the game, you need to make matches of more than three pets.
-    *   **[FR]** **Match 4:** Creates a special pet that can clear an entire row or column.
-    *   **[FR]** **Match 5 (L or T shape):** Creates a bomb pet that explodes and clears a block of surrounding pets.
-    *   **[FR]** **Match 5 (in a line):** Creates a rainbow pet that can clear all pets of a single type from the board.
+- **Q: What is the best power-up to create?**
 
-2.  **[FR]** **Combine Boosters:** The most powerful moves in the game come from swapping two special pets next to each other. This triggers a massive combo effect that can clear a huge portion of the board at once.
-3.  **[FR]** **Focus on the Objective:** Always keep the level's goal in mind. If you need to break ice blocks, make matches next to them. If you need to collect a certain number of a specific pet, prioritize those matches.
-4.  **[FR]** **Plan Your Swaps:** With a limited number of moves, every action counts. Look for swaps that will create a chain reaction or set up a powerful combo on your next turn.
+    - **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
 
-### Controls Guide
+- **Q: How do I get past the locked or caged pets?**
 
+### Foire aux questions (FAQ)
+
+- **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+
+
+    - **Plan Your Swaps:** With a limited number of moves, every action counts. Look for swaps that will create a chain reaction or set up a powerful combo on your next turn.
+
+    - **Focus on the Objective:** Always keep the level's goal in mind. If you need to break ice blocks, make matches next to them. If you need to collect a certain number of a specific pet, prioritize those matches.
+
+    - **Combine Boosters:** The most powerful moves in the game come from swapping two special pets next to each other. This triggers a massive combo effect that can clear a huge portion of the board at once.
+
+- **Match 5 (in a line):** Creates a rainbow pet that can clear all pets of a single type from the board.
+
+- **Match 5 (L or T shape):** Creates a bomb pet that explodes and clears a block of surrounding pets.
+
+- **Match 4:** Creates a special pet that can clear an entire row or column.
 The game is played with simple swap mechanics.
 
-*   **[FR]** **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+### Commandes
 
-### Frequently Asked Questions (FAQ)
 
-*   **[FR]** **Q: How do I get past the locked or caged pets?**
-    *   **[FR]** **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
+The game is played with simple swap mechanics.
+- **Plan Your Swaps:** With a limited number of moves, every action counts. Look for swaps that will create a chain reaction or set up a powerful combo on your next turn.
 
-*   **[FR]** **Q: What is the best power-up to create?**
-    *   **[FR]** **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
+- **Focus on the Objective:** Always keep the level's goal in mind. If you need to break ice blocks, make matches next to them. If you need to collect a certain number of a specific pet, prioritize those matches.
 
-*   **[FR]** **Q: What happens if I run out of moves?**
-    *   **[FR]** **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
+- **Combine Boosters:** The most powerful moves in the game come from swapping two special pets next to each other. This triggers a massive combo effect that can clear a huge portion of the board at once.
 
+    - **Match 5 (in a line):** Creates a rainbow pet that can clear all pets of a single type from the board.
+
+    - **Match 5 (L or T shape):** Creates a bomb pet that explodes and clears a block of surrounding pets.
+
+    - **Match 4:** Creates a special pet that can clear an entire row or column.
+
+- **Create Power-ups:** To master the game, you need to make matches of more than three pets.
+
+### Guide de jeu
+
+
+- **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
+
+    - **Q: What happens if I run out of moves?**
+
+- **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
+
+    - **Q: What is the best power-up to create?**
+
+- **A:** You must make a match that includes the caged pet. This will break the cage and free the pet.
+
+    - **Q: How do I get past the locked or caged pets?**

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: electron-dash
-title: '[ZH TRANSLATION NEEDED] Electron Dash'
+title: "Electron Dash 電子隧道跑酷"
 description: >-
-  [ZH TRANSLATION NEEDED] Electron Dash is a fast tunnel runner: jump, dash, and
-  land on rotating platforms to survive long runs.
+  Electron Dash 是一款高速隧道跑酷遊戲，你要在圓柱與浮空平台上奔跑、跳躍與衝刺，
+  在越來越快的節奏下盡量跑出最遠距離。
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/electron-dash.jpg
 tags:
@@ -16,26 +16,34 @@ score: 4.4/5  (1386 votes)
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Fast tunnel runner: sprint along cylinders and platforms, leap gaps, and dash across floating tiles while the pace steadily increases.
+
+這是一款節奏感很強的隧道式跑酷。角色在圓柱形通道和懸浮平台上高速奔跑，你需要
+提前讀懂路面方塊的排列，在空隙間跳躍、在浮空磚上衝刺落腳，同時面對持續加快的速度。
 
 ### How to Play
-- Read tile patterns ahead; jump between lanes and dash across short voids.
-- Blue tiles may collapse; moving rings require precise timing.
-- Push for distance and gems where present.
+
+- 目視前方的方塊圖樣，及早判斷何時換軌與起跳，遇到短距離空隙時用衝刺直接跨過。
+- 部分藍色方塊在踩上去後會崩塌，移動中的光圈／環形障礙則需要精準抓準節奏穿過。
+- 遊戲多半以跑距離為主，有些版本會在路上放置寶石，盡可能在安全情況下順路撿取。
 
 ### Controls
-- Arrows/WASD to move/jump; Space/X to dash (host dependent).
+
+- 使用方向鍵或 WASD 來移動與跳躍；
+- 依託管版本不同，空白鍵或 X 鍵常用來進行衝刺。
 
 ### Tips
-- Center your lane before blind rises; camera shifts can mislead footing.
-- Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.
-- Treat curves like lanes—switch early, not on the lip.
+
+- 在視角被提升到坡頂或轉彎前，先把自己移到通道中央，避免鏡頭晃動時判斷失誤。
+- 對於長距離空隙，可以先衝刺再接跳躍，以拉長滯空距離；但不要在不穩定或會塌陷的格子上亂用衝刺。
+- 把彎道當作多條車道，提早換軌，而不是到了邊緣才急轉，這樣更容易維持節奏。
 
 ### FAQ
-- Q: Random or fixed levels?  
-[ZH TRANSLATION NEEDED]   A: Many hosts use procedural sections, so runs differ.
-- Q: What counts as failure?  
-[ZH TRANSLATION NEEDED]   A: Falling, hitting lasers, or being pushed off by rings.
-- Q: Any upgrades?  
-[ZH TRANSLATION NEEDED]   A: Some hosts add gem unlocks or cosmetics; core loop is distance.
 
+- 問：關卡是固定設計，還是隨機生成？  
+  答：很多平台採用程序化片段組合，每一局路線都略有不同，玩久了也不會太容易膩。
+
+- 問：什麼情況算失敗？  
+  答：從平台跌落、被雷射擊中，或被移動環推下去都會結束本局。
+
+- 問：有能力或外觀升級嗎？  
+  答：部分版本會讓你用寶石解鎖角色或裝扮，但核心玩法仍然是追求最遠距離與最高分。

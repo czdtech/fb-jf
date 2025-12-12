@@ -1,133 +1,65 @@
 ---
+title: "Happy Wheels (ハッピーウィールズ)"
+description: "悪名高いグラフィックとユーモアで知られる物理演算ゲーム、Happy Wheelsの詳細ガイド。命がけのユーザー作成レベルを生き残るための、ゲームプレイ戦略、操作方法、よくある質問を学びましょう。"
+iframeSrc: "https://games-online.io/game/HappyWheels/"
+thumbnail: "/new-images/happy-wheels.jpg"
+urlstr: "happy-wheels"
+score: "3.9/5  (1175 votes)"
+tags: ["platformer", "physics"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: happy-wheels
-title: '[JA TRANSLATION NEEDED] Happy Wheels'
-description: >-
-  [JA TRANSLATION NEEDED] A detailed guide to the notoriously graphic and
-  humorous physics-based game, Happy Wheels. Learn gameplay strategies,
-  controls, and answers to common questions for surviving its deadly
-  user-created levels.
-iframeSrc: 'https://games-online.io/game/HappyWheels/'
-thumbnail: /new-images/happy-wheels.jpg
-tags:
-  - platformer
-  - physics
-score: 3.9/5  (1175 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### **ゲーム紹介**
 
+Happy Wheelsは、過激な描写とブラックユーモアで知られる、物理演算ベースの横スクロールアクションゲームです。単に勝つことだけでなく、生き残ることに焦点を当てています。プレイヤーは、息子を乗せた自転車のお父さん、ジェット付き車椅子に乗った男、セグウェイに乗った人など、ユニークで、そしてしばしばコミカルなほど安全性のない乗り物に乗った型破りなキャラクターたちを操作します。
 
+ほとんどのレベルでの主な目的は、危険な障害物コースを進み、ゴールラインに到達することです。挑戦の核となるのは、残酷でリアルな物理エンジンです。キャラクターは手足を失ったり、押しつぶされたり、数え切れないほどの恐ろしい方法で串刺しにされたりしますが、体の中心（胴体）が無事である限り、ゴールに向かって進み続けることができる場合が多いです。
 
-### **Game Introduction**
+Happy Wheelsの決定的な特徴は、膨大なユーザー生成コンテンツです。強力なレベルエディターが含まれており、プレイヤーは複雑で創造的、そしてしばしばサディスティックな独自のコースを作成して共有できます。その結果、シンプルなレースから、手の込んだパズルアドベンチャー、生き残ることが不可能なデストラップまで、事実上無限のレベルが提供されています。
 
-[JA TRANSLATION NEEDED] Happy Wheels is a physics-based, side-scrolling platformer game known for its graphic violence and dark humor. The gameplay does not focus on simply winning, but on survival. Players control a variety of unconventional characters, each with a unique and often comically unsafe vehicle, such as a dad on a bicycle with his son, a man in a jet-powered wheelchair, or a person on a Segway.
-6.  **Explore Different レベル Types**: Don't just play the featured levels. Use the level browser to find different kinds of challenges. Search for terms like "puzzle," "rope swing," or "BMX" to find unique and creative maps made by the community.
+### **ゲームプレイ戦略とヒント**
 
-[JA TRANSLATION NEEDED] The primary objective in most levels is to navigate a treacherous obstacle course and reach a finish line. The challenge lies in the game's brutal and realistic physics engine. Characters can be dismembered, crushed, and impaled in countless gruesome ways, yet can often continue towards the goal as long as their core body is intact.
-The controls are relatively standard but have specific functions for each character.（日本語訳が必要）
+1.  **スピードを制御する**: スピードは必ずしも味方ではありません。速すぎると制御を失い、障害物に激突することがよくあります。狭いスペースや予測不可能な地形を進むために、緩やかに加速・減速することを覚えましょう。
+2.  **キャラクターをマスターする**: 各キャラクターは操作感が異なり、独自の特殊能力を持っています。
+    *   **Wheelchair Guy（車椅子の男）**: ジェットブースターで強力な加速が可能で、大きな隙間を飛び越えるのに便利ですが、制御が難しいです。短く噴射して使いましょう。
+    *   **Segway Guy（セグウェイの男）**: ジャンプができるため、プラットフォームの課題に対して機敏です。しかし、直立姿勢のため非常に不安定です。
+    *   **Irresponsible Dad（無責任パパ）**: 急ブレーキが可能です。息子は重りになりますが、切り離すこともでき、時には不気味なカウンターウェイトや盾として機能します。
+    *   **Irresponsible Dad（無責任なお父さん）**: 急ブレーキがかけられます。息子は余分な重量になりますが、切り離すことができ、時には不気味なカウンターウェイトや盾として役立ちます。
+3.  **リーン（傾き）でバランスを取る**: キャラクターを前後へ傾ける（上矢印キーと下矢印キーを使用）ことは、バランスを保つために不可欠です。急な坂を登るときは後ろに傾けて転倒を防ぎ、下るときは前に傾けてスピードと制御を維持しましょう。
+4.  **完璧さより生存**: 五体満足でレベルをクリアする必要はありません。両脚と片腕を失っていても、クリアは可能です。目標はキャラクターの胴体をゴールに届けることです。時には、障害物に手足を犠牲にすることも有効な戦略となります。
+5.  **イジェクト（脱出）を学ぶ**: 「Z」キーを押すと、ほとんどのキャラクターは乗り物から脱出できます。これは、乗り物が破壊されたり動けなくなったりしたときに、キャラクターの体をゴールラインに向かって投げ飛ばすための最後の手段です。
+6.  **様々なレベルタイプを探索する**: 特集されたレベル（Featured Levels）だけをプレイしないでください。レベルブラウザを使って、異なる種類の挑戦を見つけましょう。「puzzle（パズル）」、「rope swing（ロープスイング）」、「BMX」などの用語で検索すると、コミュニティが作成したユニークで創造的なマップが見つかります。
 
-[JA TRANSLATION NEEDED] A defining feature of Happy Wheels is its extensive user-generated content. The game includes a powerful level editor, allowing players to create and share their own complex, creative, and often sadistic courses. This results in a virtually endless supply of levels, ranging from simple races to elaborate puzzle-solving adventures and impossible-to-survive death traps.
+### **操作ガイド**
 
-### **Gameplay Strategy & Tips**
+操作は比較的標準的ですが、各キャラクターに特定の機能があります。
 
-[JA TRANSLATION NEEDED] 1.  **Control Your Speed**: Speed is not always your friend. Going too fast often leads to losing control and crashing into an obstacle. Learn to gently accelerate and decelerate to navigate tight spaces and unpredictable terrain.
-[JA TRANSLATION NEEDED] 2.  **Master Your Character**: Each character controls differently and has unique special abilities.
-[JA TRANSLATION NEEDED]     *   **Wheelchair Guy**: His jet booster provides a powerful burst of speed, useful for clearing large gaps, but it's hard to control. Use it in short bursts.
-[JA TRANSLATION NEEDED]     *   **Segway Guy**: Can jump, making him more agile for platforming challenges. His upright stance, however, makes him very unstable.
-[JA TRANSLATION NEEDED]     *   **Irresponsible Dad**: Can brake hard. His son adds extra weight and can be detached, sometimes serving as a morbid counterweight or shield.
-**1. Why is this game so graphic and violent?**（日本語訳が必要）
-[JA TRANSLATION NEEDED] 3.  **Lean for Balance**: Leaning your character forward and backward (using the up and down arrow keys) is crucial for maintaining balance. Lean back when going up steep hills to prevent flipping over, and lean forward when going down to maintain speed and control.
-[JA TRANSLATION NEEDED] 4.  **Survival Over Perfection**: You don't need to finish a level in pristine condition. You can win a level even if your character has lost both legs and an arm. The goal is to get the character's torso to the finish line. Sometimes, sacrificing a limb to an obstacle is a viable strategy.
-[JA TRANSLATION NEEDED] 5.  **Learn to Eject**: The 'Z' key allows most characters to eject from their vehicle. This is a last-ditch move that can be used to fling your character's body across a gap to the finish line when the vehicle is destroyed or stuck.
-[JA TRANSLATION NEEDED] 6.  **Explore Different Level Types**: Don't just play the featured levels. Use the level browser to find different kinds of challenges. Search for terms like "puzzle," "rope swing," or "BMX" to find unique and creative maps made by the community.
+**基本操作:**
+*   **加速**: `上矢印` キー
+*   **減速 / 後退**: `下矢印` キー
+*   **リーン（左/後ろへ傾く）**: `左矢印` キー
+*   **リーン（右/前へ傾く）**: `右矢印` キー
 
-### **Controls Guide**
+**アクションキー:**
+*   **プライマリ特殊能力（メインスキル）**: `スペースバー` （例：車椅子の男のジェット、セグウェイの男のジャンプ）
+*   **セカンダリ特殊能力（サブスキル）**: `Shift` および `Ctrl` キー （脱出後の足の移動や腕の回転などのアクションに使用）
+*   **イジェクト（脱出）**: `Z` キー （乗り物を放棄します）
 
-[JA TRANSLATION NEEDED] The controls are relatively standard but have specific functions for each character.
+### **よくある質問 (FAQ)**
 
-[JA TRANSLATION NEEDED] **Primary Controls:**
-*   **Accelerate**: `Up Arrow` key
-*   **Decelerate / Reverse**: `Down Arrow` key
-*   **Lean Left / Backward**: `Left Arrow` key
-*   **Lean Right / Forward**: `Right Arrow` key
-**Primary コントロール:**
-- **Accelerate**: `Up Arrow` key（日本語訳が必要）
+**1. なぜこのゲームはこんなにグラフィックが過激て暴力的（グロテスク）なのですか？**
+極端で生々しい暴力表現は、このゲームのアイデンティティとブラックユーモアの核心部分です。これは物理ベースのラグドールシステムの決定的な特徴であり、衝撃的かつバカバカしくて面白いものとして設計されています。
 
-- **Decelerate / Reverse**: `Down Arrow` key（日本語訳が必要）
-- **Lean Left / Backward**: `Left Arrow` key（日本語訳が必要）
-- **Lean Right / Forward**: `Right Arrow` key（日本語訳が必要）
-- **Primary Special Ability**: `Space Bar` (e.g., Wheelchair Guy's jet, Segway Guy's jump)（日本語訳が必要）
-**Action Keys:**（日本語訳が必要）
-- **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)（日本語訳が必要）
-- **Eject**: `Z` key (abandons the vehicle)（日本語訳が必要）
-### **Frequently Asked Questions (よくある質問)**
-[JA TRANSLATION NEEDED] **Action Keys:**
-*   **Primary Special Ability**: `Space Bar` (e.g., Wheelchair Guy's jet, Segway Guy's jump)
-*   **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
-*   **Eject**: `Z` key (abandons the vehicle)
+**2. キャラクターが大怪我をしても勝てますか？**
+はい。ほとんどのレベルの勝利条件は、メインキャラクターの胴体がゴールラインを通過することです。手足をすべて失っても勝つことができます。
 
-### **Frequently Asked Questions (FAQ)**
+**3. 面白いレベルや良いレベルはどうやって探せばいいですか？**
+ゲーム内のレベルブラウザを使用してください。コミュニティによって選ばれた「Featured Levels（注目のレベル）」をプレイしたり、最もプレイされたレベルを閲覧したりできます。検索機能を使って、特定のタイプのレベルやクリエイターを探すこともできます。
 
-[JA TRANSLATION NEEDED] **1. Why is this game so graphic and violent?**
-[JA TRANSLATION NEEDED] The over-the-top, graphic violence is a core part of the game's identity and its black humor. It's a defining feature of its physics-based ragdoll system, designed to be shocking and absurdly funny.
+**4. 一部のキャラクターやレベルが利用できません。どうすればアンロックできますか？**
+無料のウェブ版では、多くのキャラクターやレベルエディタがロックまたは制限されていることがよくあります。通常、ゲームの完全版ではすべてのキャラクターと機能にアクセスできます。
 
-[JA TRANSLATION NEEDED] **2. Can I still win if my character is badly injured?**
-[JA TRANSLATION NEEDED] Yes. The win condition for most levels is for the main character's torso to cross the finish line. You can win even after losing all limbs.
-
-[JA TRANSLATION NEEDED] **3. How do I find good or fun levels to play?**
-[JA TRANSLATION NEEDED] Use the in-game level browser. You can play the "Featured Levels," which are curated by the community, or browse the most played levels. You can also use the search function to look for specific types of levels or creators.
-
-[JA TRANSLATION NEEDED] **4. Some characters or levels are not available. How do I unlock them?**
-[JA TRANSLATION NEEDED] In the free web version of the game, many characters and the level editor are often locked or limited. The full version of the game typically provides access to all characters and features.
-
-[JA TRANSLATION NEEDED] **5. The game is running very slowly or lagging. What can I do?**
-[JA TRANSLATION NEEDED] Happy Wheels can be demanding on your computer, especially on very large or complex user-created levels with many objects. Try closing other browser tabs and applications to free up resources. Playing on a more powerful computer or using a different web browser can also help.
-
-
-    - **Wheelchair Guy**: His jet booster provides a powerful burst of speed, useful for clearing large gaps, but it's hard to control. Use it in short bursts.（日本語訳が必要）
-3.  **Lean for Balance**: Leaning your character forward and backward (using the up and down arrow keys) is crucial for maintaining balance. Lean back when going up steep hills to prevent flipping over, and lean forward when going down to maintain speed and control.（日本語訳が必要）
-    - **Segway Guy**: Can jump, making him more agile for platforming challenges. His upright stance, however, makes him very unstable.（日本語訳が必要）
-    - **Irresponsible Dad**: Can brake hard. His son adds extra weight and can be detached, sometimes serving as a morbid counterweight or shield.（日本語訳が必要）
-4.  **Survival Over Perfection**: You don't need to finish a level in pristine condition. You can win a level even if your character has lost both legs and an arm. The goal is to get the character's torso to the finish line. Sometimes, sacrificing a limb to an obstacle is a viable strategy.（日本語訳が必要）
-5.  **Learn to Eject**: The 'Z' key allows most characters to eject from their vehicle. This is a last-ditch move that can be used to fling your character's body across a gap to the finish line when the vehicle is destroyed or stuck.（日本語訳が必要）
-
-
-- **Explore Different Level Types**: Don't just play the featured levels. Use the level browser to find different kinds of challenges. Search for terms like "puzzle," "rope swing," or "BMX" to find unique and creative maps made by the community.
-- **Learn to Eject**: The 'Z' key allows most characters to eject from their vehicle. This is a last-ditch move that can be used to fling your character's body across a gap to the finish line when the vehicle is destroyed or stuck.
-### **コントロール Guide**
-The over-the-top, graphic violence is a core part of the game's identity and its black humor. It's a defining feature of its physics-based ragdoll system, designed to be shocking and absurdly funny.（日本語訳が必要）
-**2. Can I still win if my character is badly injured?**（日本語訳が必要）
-
-
-
-
-- **Lean Right / Forward**: `Right Arrow` key
-- **Lean Left / Backward**: `Left Arrow` key
-- **Decelerate / Reverse**: `Down Arrow` key
-- **Accelerate**: `Up Arrow` key
-Yes. The win condition for most levels is for the main character's torso to cross the finish line. You can win even after losing all limbs.（日本語訳が必要）
-
-
-
-
-### **Frequently Asked Questions (よくある質問)**
-- **Eject**: `Z` key (abandons the vehicle)
-- **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
-- **Primary Special Ability**: `Space Bar` (e.g., Wheelchair Guy's jet, Segway Guy's jump)
-
-### **Frequently Asked Questions (よくある質問)**
-**3. How do I find good or fun levels to play?**（日本語訳が必要）
-Use the in-game level browser. You can play the "Featured レベルs," which are curated by the community, or browse the most played levels. You can also use the search function to look for specific types of levels or creators.
-**4. Some characters or levels are not available. How do I unlock them?**（日本語訳が必要）
-In the free web version of the game, many characters and the level editor are often locked or limited. The full version of the game typically provides access to all characters and features.（日本語訳が必要）
-**5. The game is running very slowly or lagging. What can I do?**（日本語訳が必要）
-Happy Wheels can be demanding on your computer, especially on very large or complex user-created levels with many objects. Try closing other browser tabs and applications to free up resources. Playing on a more powerful computer or using a different web browser can also help.（日本語訳が必要）
-
-
-
-
-Happy Wheels can be demanding on your computer, especially on very large or complex user-created levels with many objects. Try closing other browser tabs and applications to free up resources. Playing on a more powerful computer or using a different web browser can also help.
-**5. The game is running very slowly or lagging. What can I do?**
-In the free web version of the game, many characters and the level editor are often locked or limited. The full version of the game typically provides access to all characters and features.
-**4. Some characters or levels are not available. How do I unlock them?**
+**5. ゲームの動作が非常に遅い、またはラグがあります。どうすればいいですか？**
+Happy Wheelsは、特にオブジェクトが多い巨大で複雑なユーザー作成レベルの場合、コンピュータに負荷がかかることがあります。他のブラウザタブやアプリケーションを閉じてリソースを解放してみてください。より高性能なコンピュータでプレイするか、別のウェブブラウザを使用することでも改善する場合があります。

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: penalty-showdown
-title: '[DE] Penalty Showdown'
+title: "Penalty Showdown"
 description: >-
-  [DE] Penalty Showdown is a tense shootout — pick corners, vary height, and
-  outguess keepers in alternating kicker/keeper rounds.
+  Penalty Showdown ist ein nervenaufreibendes Elfmeterschießen: Wähle Ecken,
+  variiere die Schusshöhe und lese als Schütze oder Keeper dein Gegenüber, um
+  das Duell vom Punkt zu gewinnen.
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/penalty-showdown.jpg
 tags:
@@ -15,35 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+In Penalty Showdown wechselst du zwischen Schützen- und Torwart-Rollen. Als
+ Schütze tarnst du Richtung und Höhe deiner Abschlüsse, als Keeper liest du den
+ Anlauf des Gegners und springst im richtigen Moment. Der Sieg hängt weniger
+ von roher Schusskraft ab, sondern von Rhythmuswechseln, cleveren Schussprofilen
+ und der richtigen Portion Nervenstärke.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Penalty Showdown alternates between shooting and goalkeeping phases. As the taker, disguise placement and height; as the keeper, read run‑ups and dive late. Winning relies on rhythm changes and mixed shot profiles rather than power alone.
+1.  **Schussprofile mischen:** Wechsle zwischen flachen Ecken, hohen Ecken und
+    gelegentlichen Bällen in die Mitte, damit der Keeper kein Muster erkennt.
+2.  **Später Keeper-Sprung:** Als Torwart bewegst du dich erst minimal und
+    entscheidest dich dann spät für eine Ecke – meist zur offenen Körperschulter
+    des Schützen.
+3.  **Schusskraft dosieren:** Mittlere bis hohe Schusskraft sorgt oft für gute
+    Geschwindigkeit, ohne die Kontrolle zu verlieren.
+4.  **Wind berücksichtigen (falls vorhanden):** Ist Wind im Spiel, korrigiere
+    deine Zielrichtung und wähle flachere Schüsse.
+5.  **Psychospielchen:** Baue kurze Pausen vor dem Schuss ein, um früh
+    springende Keeper zu ködern.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Mix profiles: Alternate low corners, high corners, and center chips to avoid patterns.
-2.  **[DE]** Keeper late dive: Move briefly then commit late to the striker’s open‑body side.
-3.  **[DE]** Power windows: Mid‑high power gives speed without wild slices.
-4.  **[DE]** Wind: Offset aim and reduce height under strong wind (if modeled).
-5.  **[DE]** Mind games: Pause a beat before shots to bait early dives.
+- **Schütze:** Wähle Ziel, Schusskraft und ggf. Effet.
+- **Torwart:** Wähle Ecke und Timing; manche Versionen erlauben dir, den Sprung
+  direkt zu steuern.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Shoot: aim + power + (optional) swerve. Keep: choose side/timing; some builds allow manual dives.
+- **F: Meine Schüsse werden ständig gehalten – Tipps?**
+  
+  Variiere Höhe und Platzierung und ändere dein Ziel erst spät. Vermeide
+  vorhersehbare Schüsse mittig aufs Tor.
 
-### Frequently Asked Questions (FAQ)
+- **F: Der Keeper liest mich immer richtig.**
+  
+  Ändere Anlaufwinkel und Tempo und baue eine kurze Verzögerung vor dem Schuss
+  ein, um seine Reaktion zu stören.
 
-- Q: Shots keep getting saved.
-
-A: Vary height and delay aim; avoid predictable mid‑goal strikes.
-
-- Q: Keeper guesses me every time.
-
-A: Change run‑up angles and add a brief pause before contact.
-
-- Q: Best keeper tip?
-
-A: Watch the last two steps — hips often telegraph shot side.
-
+- **F: Bester Tipp als Torwart?**
+  
+  Achte auf die letzten zwei Schritte des Schützen – Hüftstellung und
+  Körperdrehung verraten oft die Schussrichtung.

@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: rotate
-title: '[FR] Rotate'
+title: 'Rotate'
 description: >-
-  [FR] Rotate is a challenging puzzle game where players must rotate the game
-  world to guide a ball through complex mazes and obstacles, using gravity and
-  momentum to reach the goal in each level.
+  Rotate est un jeu de puzzle exigeant où tu dois faire pivoter le monde pour
+  guider une bille à travers des labyrinthes remplis d’obstacles, en jouant
+  avec la gravité et l’élan pour atteindre l’objectif à chaque niveau.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/rotate.jpg
 tags:
@@ -20,31 +20,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### Présentation du jeu
 
-"Rotate" is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles. The game utilizes the physics properties of gravity and momentum, requiring players to cleverly control rotation angles and timing to get the ball to reach the target position in each level.
+Rotate est un jeu de réflexion basé sur la physique où tu fais pivoter tout
+le décor pour guider une bille à travers des labyrinthes complexes. En
+changeant l’orientation du monde, tu modifies la direction de la gravité et
+donc la trajectoire de la bille. Tu dois contrôler finement l’angle et le
+timing de chaque rotation pour amener la bille sur la case d’arrivée.
 
-### Gameplay Strategy
+### Stratégies de jeu
 
-1.  **[FR]** **Understand Gravity Mechanics**: Master how rotation changes gravity direction and affects the ball's movement trajectory.
-2.  **[FR]** **Observe Level Layout**: Carefully study each level's design to find the optimal rotation path.
-3.  **[FR]** **Control Rotation Rhythm**: Don't rush to rotate; observe the ball's movement before making the next rotation.
-4.  **[FR]** **Utilize Momentum**: Learn to use the ball's movement momentum to pass through areas that are difficult to reach directly.
-5.  **[FR]** **Think from Multiple Angles**: Observing levels from different perspectives may reveal unexpected solutions.
+1.  **Comprendre la gravité :** apprends comment chaque rotation modifie la
+    direction de la gravité et influence le mouvement de la bille.
+2.  **Observer la structure du niveau :** étudie la disposition des
+    plateformes, des trous et des obstacles pour trouver le chemin optimal.
+3.  **Gérer le rythme des rotations :** évite de tourner trop vite ; laisse
+    la bille se stabiliser avant de changer à nouveau l’orientation.
+4.  **Exploiter l’élan :** utilise l’inertie de la bille pour franchir des
+    zones difficiles ou atteindre des plateformes éloignées.
+5.  **Changer de point de vue :** regarder le niveau sous différents angles
+    peut faire apparaître des solutions auxquelles tu n’avais pas pensé.
 
-### How to Play
+### Comment jouer
 
-*   **[FR]** **Rotation Control**: Typically use mouse dragging or keyboard arrow keys to rotate the game world.
-*   **[FR]** **Reset**: If the ball gets stuck or falls out of bounds, you can reset the current level to start over.
-*   **[FR]** **Pause**: You can pause the game while thinking of strategies and planning the next rotation operation.
+*   **Rotation du monde :** en général, tu utilises le clic/drag de la
+    souris ou les flèches du clavier pour faire pivoter l’environnement.  
+*   **Réinitialiser :** si la bille reste coincée ou tombe hors du niveau,
+    tu peux réinitialiser le stage pour recommencer.  
+*   **Pause :** mets le jeu en pause pour réfléchir tranquillement à ta
+    prochaine séquence de rotations.
 
-### Frequently Asked Questions
+### Foire aux questions
 
-1.  **[FR]** **Q: What if the ball keeps falling out of bounds?**
-**A**: Control rotation angle and speed more carefully, observe the ball's trajectory before making the next move.
-2.  **[FR]** **Q: Some levels seem unsolvable?**
-**A**: Try thinking from different angles and rotation sequences; sometimes it takes multiple attempts to find the correct solution.
-3.  **[FR]** **Q: How can I improve completion speed?**
-**A**: After familiarizing yourself with physics mechanics, you can predict ball movement and plan rotation sequences in advance to complete levels faster.
-4.  **[FR]** **Q: How many levels are in the game?**
-**A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.
+1.  **Q : Que faire si la bille tombe sans cesse hors du niveau ?**  
+   R : Contrôle plus précisément l’angle et la vitesse de rotation, et
+   observe sa trajectoire avant de tourner à nouveau.
+
+2.  **Q : Certains niveaux semblent impossibles, pourquoi ?**  
+   R : Il faut parfois tester plusieurs ordres de rotation ou regarder le
+   niveau sous un autre angle. Plusieurs essais sont souvent nécessaires
+   pour trouver la bonne solution.
+
+3.  **Q : Comment terminer les niveaux plus vite ?**  
+   R : Une fois les mécaniques de physique bien comprises, tu peux prédire
+   les mouvements de la bille et planifier à l’avance toute une séquence de
+   rotations.
+
+4.  **Q : Combien de niveaux le jeu propose‑t‑il ?**  
+   R : Rotate comporte généralement plusieurs mondes et des dizaines de
+   niveaux, avec une difficulté qui augmente progressivement.

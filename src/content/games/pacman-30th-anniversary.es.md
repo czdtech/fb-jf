@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: pacman-30th-anniversary
-title: '[ES] Pacman 30th Anniversary'
+title: "Pacman 30th Anniversary - 30 años de laberintos"
 description: >-
-  [ES] Pacman 30th Anniversary is a special edition of the iconic arcade game,
-  celebrating three decades of maze-chasing fun. Players guide Pac-Man through a
-  labyrinth, eating pellets and power-ups while avoiding ghosts, in this
-  nostalgic and engaging classic.
+  Pacman 30th Anniversary es una edición especial del mítico arcade que celebra
+  tres décadas de persecuciones en laberintos. Guía a Pac-Man por el laberinto,
+  come todos los puntos y potenciadores y esquiva a los fantasmas en este
+  clásico tan nostálgico como adictivo.
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/pacman-30th-anniversary.jpg
 tags:
@@ -19,30 +19,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+"Pacman 30th Anniversary" es una edición conmemorativa del clásico arcade
+"Pac-Man" que celebra treinta años de historia. Una vez más, controlas al
+amarillo Pac-Man mientras recorre el laberinto, comiendo todos los puntos y
+bolas de poder y evitando a los cuatro fantasmas. Esta versión mantiene la
+jugabilidad original y añade detalles llenos de nostalgia para que jugadores
+nuevos y veteranos disfruten de la experiencia clásica.
 
-### Game Introduction
+### Estrategia de juego
 
-"Pacman 30th Anniversary" is a special edition of the classic arcade game "Pac-Man," celebrating three decades of this iconic game. Players once again guide the yellow Pac-Man through a maze, eating all the pellets and power pellets while evading four ghosts. This version retains the original gameplay and incorporates nostalgic elements, allowing both new and old players to experience the classic fun.
+1.  **Familiarizarse con los laberintos:** cada nivel puede tener un diseño de
+    laberinto distinto; aprender el mapa te ayudará a planificar rutas seguras.
+2.  **Aprovechar las bolas de poder:** tras comer una bola de poder, los
+    fantasmas se vuelven azules y pueden ser devorados durante un tiempo
+    limitado; es el mejor momento para contraatacar y limpiar zonas peligrosas.
+3.  **Combinar huida y persecución:** usa túneles y esquinas del laberinto para
+    escapar de los fantasmas y, tras un potenciador, persíguelos tú para sumar
+    puntos extra.
+4.  **Priorizar todos los puntos:** el objetivo sigue siendo comerse todos los
+    puntos pequeños y las bolas de poder del laberinto para pasar al siguiente
+    nivel.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Familiarize with Maze Layouts**: Each level has different maze layouts; familiarizing yourself with the map can help you plan the optimal route.
-2.  **[ES]** **Utilize Power Pellets**: After eating a power pellet, ghosts will temporarily turn blue and become edible. This is a good opportunity to counter-attack and clear the board.
-3.  **[ES]** **Evade and Pursue**: Skillfully use the maze's tunnels and corners to cleverly evade ghosts, and boldly pursue them after eating a power pellet.
-4.  **[ES]** **Prioritize Eating All Pellets**: The goal of the game is to eat all small pellets and power pellets in the maze to advance to the next level.
+*   **Movimiento:** normalmente con las flechas del teclado (arriba, abajo,
+    izquierda, derecha) para dirigir a Pac-Man.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: What are the differences between "Pacman 30th Anniversary" and the original "PAC-MAN"?**
-**A**: This anniversary edition usually features updated visuals and may include some additional features or commemorative content, but the core gameplay remains consistent with the original.
-2.  **[ES]** **Q: What are the ghosts in the game, and what are their characteristics?**
-**A**: The ghosts are Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange), each with different pursuit and movement patterns.
-3.  **[ES]** **Q: How long does the power pellet effect last?**
-**A**: The power pellet effect lasts for a limited time; ghosts will return to normal after a while and become dangerous again.
-4.  **[ES]** **Q: Does the game have a leaderboard?**
-**A**: Many versions of "Pacman 30th Anniversary" feature local or online scoreboards, allowing players to compete for high scores.
+1.  **P: En qué se diferencia Pacman 30th Anniversary del PAC-MAN original?**  
+    **R:** Suele incluir gráficos actualizados y algunos extras o contenidos
+    conmemorativos, pero la jugabilidad de base se mantiene fiel al clásico.
+2.  **P: Qué fantasmas aparecen y cómo se comportan?**  
+    **R:** Blinky (rojo), Pinky (rosa), Inky (azul claro) y Clyde (naranja) tienen
+    patrones de persecución distintos, combinando persecución directa,
+    emboscadas y movimientos aparentemente aleatorios.
+3.  **P: Cuánto dura el efecto de la bola de poder?**  
+    **R:** Es temporal; pasado un rato los fantasmas recuperan su estado normal
+    y vuelven a ser peligrosos, así que aprovéchalo rápido.
+4.  **P: Hay tablas de clasificación?**  
+    **R:** Muchas versiones incluyen marcadores locales u online para competir
+    por la mejor puntuación.

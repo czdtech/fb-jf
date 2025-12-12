@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: addiction-mini
-title: '[KO] Addiction Mini'
+title: 'Addiction Mini 애딕션 미니'
 description: >-
-  [KO] Addiction Mini distills solitaire‑style sequencing — place cards in
-  order, clear rows, and think several moves ahead.
+  카드 숫자를 순서대로 배열해 줄을 정리하는 솔리테어류 퍼즐 게임입니다.
+  빈 칸을 만들고, 수 순서를 맞춰가며 몇 수 앞까지 내다보세요.
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
 thumbnail: /new-images/addiction-mini.jpg
 tags:
@@ -15,29 +15,45 @@ score: 4.0/5  (1803 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Addiction Mini는 Addiction/Monte Carlo 계열 인내(card patience) 게임을 간단하게
+축소한 버전입니다. 규칙에 따라 카드를 슬라이드하거나 옮겨, 같은 무늬나 색
+기준으로 오름차순 수열을 만들면서 줄을 정리하는 것이 목표입니다. 빈 칸을
+어떻게 만들고 활용하느냐가 판을 푸는 핵심입니다.
 
+### 플레이 전략 & 공략 팁
 
+1.  **빈 칸부터 만들기:** 초반에는 일부 카드를 옮겨 빠르게 빈 칸을 확보하는
+    것이 중요합니다. 빈 칸이 있어야 필요한 카드를 임시로 옮겨가며 배열을
+    정리할 수 있습니다.
+2.  **기준 카드부터 쌓아 올리기:** 가장 낮은 숫자의 카드(또는 규칙상 시작
+    카드)를 기준으로, 옆으로 자연스럽게 이어지는 수열을 만드는 데 집중하세요.
+3.  **핵심 카드 가두지 않기:** 꼭 필요한 카드가 다른 카드 뒤에 갇히지 않게
+    주의해야 합니다. 중요한 카드는 가능한 한 이동하기 쉬운 위치에 두세요.
+4.  **제한된 교환/셔플 아껴 쓰기:** 일부 모드에서는 카드를 섞거나 교환할 수
+    있는 기회가 제한되어 있습니다. 한 번의 교환으로 여러 줄의 문제를 동시에
+    해결할 수 있을 때 사용하는 것이 좋습니다.
+5.  **두세 수 앞까지 상상하기:** 눈앞의 한 번 이동만 보지 말고, 그 다음에
+    어떤 카드가 어디로 가야 할지까지 미리 그려 보면서 두세 수 앞을 계획하면
+    막다른 수를 만날 확률이 줄어듭니다.
 
-### Detailed Game Introduction
+### 조작 방법
 
-Addiction Mini is a compact take on the Addiction/Monte Carlo family of patience games. Slide or place cards into increasing sequences by suit or color per mode rules, opening spaces and resolving deadlocks with careful planning.
+- 규칙에 맞는 위치로 카드를 드래그하거나 클릭해 옮길 수 있습니다.
+- 제공되는 경우, 되돌리기나 셔플/스왑 버튼을 눌러 막힌 판을 다시 풀 수
+  있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 자주 묻는 질문 (FAQ)
 
-1.  **[KO]** Open spaces: Create empty slots early to enable rearrangement.
-2.  **[KO]** Build from anchors: Start sequences at the lowest legal values and extend cleanly.
-3.  **[KO]** Avoid blocking keys: Don’t trap needed cards behind immovable structures.
-4.  **[KO]** Save swaps: Limited reshuffles/swaps should resolve multiple issues at once.
-5.  **[KO]** Think ahead: Visualize two to three placements in advance.
+- **더 이상 둘 곳이 없습니다. 어떻게 해야 하나요?**  
+  스왑·셔플 같은 특수 기능이 있다면 먼저 사용해 보고, 그래도 풀리지 않으면
+  새 판으로 다시 시작하는 것이 좋습니다.
 
-### Controls Guide
+- **규칙이 모드마다 다른가요?**  
+  네, 어떤 모드는 무늬별 오름차순, 어떤 모드는 색깔 기준 오름차순 등 세부
+  규칙이 다를 수 있습니다. 게임 시작 전 모드 설명을 간단히 확인해 두세요.
 
-- Drag or click to move cards per rules; use available swaps.
-- Undo/Reset if provided.
-
-### Frequently Asked Questions (FAQ)
-
-- No moves left—what now? Use a swap/shuffle if available or restart.
-- Strict rules? Variants differ; read each mode’s constraints.
-- Is it winnable? Many deals are solvable with accurate planning.
+- **모든 판이 깰 수 있는가요?**  
+  완벽한 해답이 없는 판도 있을 수 있지만, 대부분의 경우 몇 수를 더 멀리
+  내다보며 플레이하면 풀 수 있도록 설계되어 있습니다.

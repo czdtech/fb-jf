@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: block-breaker-king
-title: '[ZH TRANSLATION NEEDED] Block Breaker King'
+title: "Block Breaker King 方块任务王"
 description: >-
-  [ZH TRANSLATION NEEDED] Block Breaker King modernizes brick‑breaker — aim
-  caroms, manage power‑ups, and control ball speed for efficient clears.
+  《Block Breaker King 方块任务王》是一款类俄罗斯方块的方块摆放解谜游戏，从底部选择各种拼块放入棋盘，凑满整
+  行或整列即可消除，合理规划布局与任务目标，尽量在棋盘被堵死前刷出高分。
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/block-breaker-king.png
 tags:
@@ -15,44 +15,57 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### **Game Introduction**
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] *Block Breaker King: Mission* is a strategic block puzzle game, where the gameplay is similar to the placement mechanics of *Tetris* but without the falling blocks. The objective is to **strategically place various Tetris-like shapes onto a grid to create and clear full horizontal or vertical lines.**
+在 *Block Breaker King: Mission* 中，你要做的不是接住从天而降的方块，而是像下棋一样，把底部提供的一组组“类俄罗斯方块形状”摆进棋盘。  
+核心目标是：**在棋盘上通过摆放各种形状的方块，凑满整行或整列并将其消除，尽可能延长游戏时间并完成各类任务关卡。**
 
-[ZH TRANSLATION NEEDED] At the bottom of the screen, players are presented with a selection of different block shapes. You must drag and drop these shapes onto the main game board. When a complete horizontal row or a vertical column is filled with blocks, that line will be cleared, freeing up space on the board.
+屏幕下方会随机出现若干个方块形状，你需要把它们拖拽到主棋盘上。当某一整行或整列被完全填满时，该行 / 列就会被清除，为后续拼放腾出新空间。
 
-[ZH TRANSLATION NEEDED] The game ends when you are unable to place any of the given shapes onto the board because there is no available space that fits them. The challenge lies in careful planning and efficient placement to keep the board as clear as possible for as long as possible, aiming to achieve the highest score. The "Mission" aspect, as shown in the screenshots, suggests a level-based progression system with specific objectives for each stage.
+当任意一个当前给出的方块再也找不到可以容纳它的位置时，本局就会结束。  
+“Mission” 模式则引入了关卡制，每一关通常有特定目标，例如“消除指定行数”“达到某个分数”或“在限定步数内存活”等。
 
-### **Gameplay Strategy & Tips**
+### 游戏策略与通关思路
 
-1.  **Prioritize Clearing Lines**: Your primary goal should always be to clear lines. When deciding where to place a block, look for the spot that will either complete a line immediately or set up an easy completion with the next one or two pieces.
-2.  **Avoid Creating Single Gaps**: Be very careful not to leave single, isolated empty squares in the middle of your structure. These "holes" are extremely difficult to fill later on and can quickly lead to a game over as they waste valuable space.
-3.  **Think About the Next Pieces**: The game shows you the upcoming pieces. Plan your placements not just for the current piece, but also considering how the next pieces will fit onto the board.
-4.  **Use Corners and Edges**: Try to build your structure from the corners and edges inward. This generally keeps the central area of the board more open and flexible for placing larger or awkwardly shaped pieces.
-5.  **Don't Be Afraid to Sacrifice a Combo**: While clearing multiple lines at once (a combo) gives a high score, it's not always the best move. Sometimes, making a simple, single-line clear is a better strategic choice if it prevents you from creating a problematic gap or blocking off a large area.
-6.  **Manage Your Large Pieces**: The large square (3x3) and long line pieces (1x5 or 5x1) require the most space. Try to always keep enough open area on your board to accommodate them. If you can't place a large piece, the game can end very quickly.
+1.  **首要目标是清行，而不是随便填格子**  
+    每一次放置都尽量围绕“完成一行 / 一列”来考虑。能直接补完一行的落点通常优先级更高；如果暂时达不到，就选择能为下一两块创造清行机会的位置。
 
-### **Controls Guide**
+2.  **避免制造孤立单格空洞**  
+    尤其要避免在中间区域留下单独 1 格的空洞，这几乎只能靠极少出现的 1×1 方块来填，会严重浪费版面。尽量让整体轮廓保持相对平滑。
 
-[ZH TRANSLATION NEEDED] The game is designed for simple one-touch mobile gameplay.
+3.  **结合“下一批方块”一起规划**  
+    游戏通常会提前展示接下来一整组方块。放第一块之前，先快速过一遍这组方块在棋盘上的可能落点，尽量选择能兼顾后续方块的方案。
 
-*   **Select and Place**: **Touch and hold** a block shape from the bottom of the screen, **drag** it to the desired position on the grid, and **release** to place it.
-*   **Rotate**: In many games of this type, you can tap the shape before dragging it to rotate it. This may or may not be a feature depending on the specific version.
+4.  **优先从角落和边缘开始搭建**  
+    尽量让堆叠从棋盘角落和边缘向内推进，这样可以让中央区域保持开放。中央留空会让你在抽到长条或大块时更容易安排。
 
-### **Frequently Asked questions (FAQ)**
+5.  **不要为了连消牺牲整体健康度**  
+    多行连消固然加分高，但如果为了追求一次三连、四连，反而在棋盘上挖出很多难以利用的空洞，就得不偿失。必要时一行一行地稳健清理，反而更有利于长线生存。
 
-[ZH TRANSLATION NEEDED] **1. Is there a time limit?**
-[ZH TRANSLATION NEEDED] Typically, games in this genre do not have a time limit per move. The pressure comes from the limited space on the board, not from a clock. This makes it a game of pure strategy rather than speed.
+6.  **管理好“3×3 方块”和长条**  
+    这些大块是最容易导致猝死的形状。始终在棋盘上保留一块足以放下 3×3 方块的区域，和一条足够容纳长条的直线空间。若你发现已经放不下这些形状，往往离 Game Over 不远了。
 
-[ZH TRANSLATION NEEDED] **2. Can I rotate the blocks?**
-[ZH TRANSLATION NEEDED] This depends on the specific game mode or version. In the classic mode of this puzzle type, blocks cannot be rotated, which adds to the challenge. Some versions may include a mode where rotation is possible.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **3. What is the goal of the "Mission" mode?**
-[ZH TRANSLATION NEEDED] As shown in the first screenshot, the "Mission" mode is a series of pre-designed levels (Stage 1, 2, 3, etc.). Each level likely has a specific objective, such as "clear 10 lines," "score X points," or surviving a certain number of pieces, which you must complete to unlock the next stage.
+本作以一指拖拽操作为主，适配触屏和鼠标：
 
-[ZH TRANSLATION NEEDED] **4. How do I get a high score?**
-[ZH TRANSLATION NEEDED] High scores are achieved by:
-*   **Clearing multiple lines at once**: Combos give significantly more points than single-line clears.
-*   **Surviving for a long time**: The more pieces you successfully place, the higher your score will be.
-*   **Using special blocks**: Some levels may contain special blocks (like the bomb in one of the screenshots) that clear a larger area when their line is completed.
+*   **选择并摆放方块：** 在屏幕底部按住某个方块，拖动到棋盘上合适的位置，松手即可放置。  
+*   **旋转方块：** 具体取决于版本，有的模式不支持旋转；若支持，一般通过点击方块或专门的旋转按钮来切换朝向。
 
+### 常见问题解答（FAQ）
+
+**1. 有时间限制吗？**  
+大多数同类游戏（包括本作）每一步并无时间限制，压力主要来自棋盘空间而非倒计时，因此更像纯粹的布局解谜，而不是反应游戏。
+
+**2. 方块可以旋转吗？**  
+要看具体模式。经典模式通常不允许旋转，以增加挑战；有的关卡或模式会开放旋转功能，方便你更灵活地利用棋盘空间。
+
+**3. “Mission” 任务模式具体要做什么？**  
+任务模式通常由多个关卡组成（Stage 1、Stage 2 等），每关都有各自的目标，比如在限定步数内消除一定行数、达到指定分数、或利用特殊方块完成指定动作。完成当前关卡目标即可解锁下一关。
+
+**4. 怎样才能拿高分？**  
+高分主要来自两点：  
+* 尽可能长时间不被堵死；
+* 多制造多行连消，提高单回合得到的分数；
+* 善用关卡中的特殊方块（例如炸弹块等），在合适时机一次性清理大片区域。  
+在保证棋盘健康的基础上，有选择地为连消做铺垫，是刷分的核心思路。

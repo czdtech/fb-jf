@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: head-soccer
-title: '[ES] Head Soccer'
+title: "Head Soccer"
 description: >-
-  [ES] 1v1 arcade football with giant heads: jump, shoot, and use power shots to
-  outscore your opponent in short matches.
+  Fútbol arcade 1v1 con cabezas gigantes: salta, chuta y usa tiros especiales
+  para marcar más goles que tu rival en partidos cortos.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/head-soccer.jpg
 tags:
@@ -15,30 +15,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Head Soccer condensa el fútbol en duelos 1v1 muy directos, con cabezas
+sobredimensionadas y físicas sencillas. Los partidos duran de segundos a
+pocos minutos; los power‑ups y tiros especiales pueden cambiarlo todo en
+instantes. Ganas marcando más goles antes de que se acabe el tiempo o en
+reglas de gol de oro.
 
+### Cómo jugar
 
-### Overview
-Head Soccer condenses football to punchy 1v1 duels with oversized heads and simple physics. Matches last seconds to minutes; power‑ups and special shots create swing moments. Win by outscoring within the timer or golden‑goal rules.
+- Colócate bajo los balones bombeados para rematar de cabeza; volea los balones
+  rasos para imprimir velocidad.
+- Activa el tiro especial cuando la portería esté más descubierta y bloquea con
+  saltos bien medidos.
+- En modo 2 jugadores, repartid roles: uno presiona y el otro cubre.
 
-### How to Play
-- Position under lobs for headers; volley low balls for speed.
-- Trigger specials when the goal is open; block with timely jumps.
-- In two‑player, divide roles—pressure vs. coverage.
+### Guía de controles
 
-### Controls
-- Arrows/WASD to move/jump; shoot/special keys vary by host.
+- Flechas/WASD para moverte y saltar; las teclas de disparo y especial dependen
+  del portal.
 
-### Tips
-- Early jump + tap shot produces fast low drives.
-- Save specials for counterattacks or rebounds.
-- Defensively, stand slightly off‑line to angle clearances.
+### Consejos
 
-### FAQ
-- Q: How do I score more consistently in this game?
-A: Use jump‑timed headers/volleys and shoot low into corners.
-- Q: Does the game support two players on one device?
-A: Many hosts include local 2P with separate key binds.
-- Q: Are there team or character differences?
-A: Often cosmetic; physics are generally uniform across skins.
+- Un salto temprano seguido de un toque de disparo genera tiros rasos muy
+  rápidos.
+- Guarda los especiales para contragolpes o segundas jugadas tras un rebote.
+- En defensa, colócate ligeramente desplazado respecto a la línea del balón
+  para orientar mejor los despejes.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo marco goles con más regularidad?**  
+  **R:** Usa remates de cabeza y voleas sincronizadas con el salto y apunta
+  raso hacia las esquinas.
+
+- **P: ¿Se puede jugar dos personas en un mismo dispositivo?**  
+  **R:** Sí, muchas versiones incluyen multijugador local con dos esquemas de
+  teclas distintos.
+
+- **P: ¿Hay diferencias reales entre equipos o personajes?**  
+  **R:** En la mayoría de casos los cambios son sobre todo estéticos; la
+  física suele ser uniforme entre skins.

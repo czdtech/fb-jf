@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: sprunki-virus-new-update
-title: '[ES] Sprunki Virus New Update - Play Sprunki Virus New Update Online'
+title: Sprunki Virus New Update - Juega a Sprunki Virus New Update online
 description: >-
-  [ES] Are you craving a musical journey that challenges the limits of your
-  senses? Sprunki Virus will take you into a virus-infested Sprunki world, using
-  eerie soundscapes, glitchy graphics, and intense gameplay mechanics to bring
-  you an unprecedented thrilling experience!
+  ¿Buscas un viaje musical que lleve tus sentidos al límite? Sprunki Virus te
+  sumerge en un mundo infectado, con paisajes sonoros inquietantes, gráficos
+  glitch y mecánicas intensas para ofrecerte una experiencia realmente
+  estremecedora.
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
 thumbnail: /sprunki-virus-new-update.png
 tags:
@@ -15,27 +15,48 @@ score: 4.0/5  (407 votes)
 ---
 
 
+¿Te apetece un viaje musical que lleve tus sentidos al límite? Sprunki Virus te
+mete en un mundo de Sprunki infectado, con paisajes sonoros inquietantes,
+gráficos glitch y mecánicas intensas para ofrecerte una experiencia tan rara
+como emocionante.
 
-Are you craving a musical journey that challenges the limits of your senses? Sprunki Virus will take you into a virus-infested Sprunki world, using eerie soundscapes, glitchy graphics, and intense gameplay mechanics to bring you an unprecedented thrilling experience!
+### ¿Qué es Sprunki Virus?
 
-### What is Sprunki Virus?
+Sprunki Virus toma el universo Sprunki que conoces y lo retuerce hasta
+convertirlo en una experiencia cargada de suspense. Mezcla paisajes sonoros
+escalofriantes, visuales llenos de glitches y mecánicas de juego tensas, ideal
+para quienes disfrutan con desafíos creativos de tono oscuro.
 
-Sprunki Virus takes the familiar Sprunki universe and transforms it into a haunting, suspense-filled experience. Blending eerie soundscapes, glitchy visuals, and intense gameplay mechanics, this mod is perfect for those who love a thrilling, creative challenge.
+### ¿Qué hace especial a Sprunki Virus?
 
-### What's So Special About Sprunki Virus?
+- **Diseño de personajes «infectados»:** los personajes aparecen contaminados
+  por el virus, con diseños distorsionados y animaciones corruptas que refuerzan
+  una atmósfera incómoda.
+- **Paisajes sonoros inquietantes:** los loops están llenos de beats turbios,
+  melodías desasosegantes y efectos glitch. Cada composición suena como si el
+  mundo estuviera al borde del colapso.
+- **Visuales oscuros:** transiciones corruptas, fondos en sombras y efectos
+  distorsionados amplifican la sensación de estar atrapado en un sistema
+  infectado.
+- **Jugabilidad exigente:** los glitches inesperados y los loops que cambian
+  sobre la marcha ponen a prueba tu capacidad de adaptación y tu creatividad.
 
-- **Twisted Character Design:** In Sprunki Virus, you will see characters infected with the virus, showcasing glitchy designs and distorted animations that reflect their viral affliction, creating an unsettling atmosphere.
-- **Eerie Soundscapes:** The mod features loops filled with haunting beats, unsettling melodies, and glitch effects. These eerie sound elements immerse players in a world on the brink of collapse, where every composition takes on a darker, more ominous tone.
-- **Dark Visuals:** The game's visuals are corrupted by the virus, with glitchy transitions, shadowy backgrounds, and distorted effects that amplify the feeling of suspense, keeping players on edge.
-- **Challenging Gameplay:** Expect unexpected glitches and evolving sound loops that push your creativity. You must constantly adapt and experiment with new combinations to survive in the world of Sprunki Virus.
+### Cómo sobrevivir en el mundo infectado
 
+- **Elige a tu equipo infectado:** comienza seleccionando personajes con
+  temática de virus; cada uno trae loops y animaciones propios que afectan a la
+  mezcla.
+- **Crea pistas glitch:** usa el sistema de arrastrar y soltar para colocar a
+  tus personajes en el escenario y construir ritmos llenos de errores
+  digitales, ruidos y ecos inquietantes.
+- **Abraza al virus:** prueba distintas combinaciones de loops, ajusta la
+  dinámica y refina tu tema hasta capturar por completo la esencia del virus.
+  Cuanto más experimentes, más oscuras se volverán tus composiciones.
+- **Comparte el caos:** cuando tengas tu pista lista, compártela con la
+  comunidad de Sprunki. Enseña tu lado más «corrupto» y descubre qué han creado
+  otros jugadores.
 
-### How to Survive in the Virus-Infested World?
-
-- **Choose Your Infected Team:** Start by selecting from a roster of virus-themed characters. Each character comes with unique sound loops and animations that affect your music creation.
-- **Create Glitchy Tracks:** Use the drag-and-drop feature to place your infected characters onto the stage and craft glitchy beats and haunting rhythms.
-- **Embrace the Virus:** Experiment with various loop combinations, adjust dynamics and refine your track to reflect the eerie essence of the virus. The more you explore, the darker your compositions become.
-- **Share Your Chaos:** Once your tracks are ready, share them with the Sprunki community. Showcase your hauntingly creative talents and enjoy others' eerie compositions.
-
-
-If you like dark, immersive themes and enjoy pushing the boundaries of your music-making skills, then Sprunki Virus is definitely the perfect addition to your gaming library. Come and join Sprunki Virus, let the virus ignite your creative inspiration, and start a thrilling musical adventure!
+Si te gustan las temáticas oscuras e inmersivas y disfrutas llevando al límite
+lo que puedes hacer con un mezclador, Sprunki Virus es un mod imprescindible en
+tu biblioteca. Entra, deja que el virus encienda tu inspiración y lánzate a una
+aventura musical tan extraña como adictiva.

@@ -1,64 +1,50 @@
 ---
-locale: ja
+title: Survivor Legends
+description: Survivor Legendsは、サバイバル戦略ゲームです。資源を集め、避難所を建設し、生き残りましょう。
+iframeSrc: 'https://ubg98.github.io/SurvivorLegends/'
+thumbnail: /new-images/survivor-legends.jpg
 urlstr: survivor-legends
-title: '[JA TRANSLATION NEEDED] Survivor Legends'
-description: >-
-  [JA TRANSLATION NEEDED] Survivor Legends is a horde‑survivor — kite circles,
-  draft synergies, and mow waves with cooldown economy and positioning.
-iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
-thumbnail: /new-images/survivor-legends.png
+score: 4.3/5  (2167 votes)
 tags:
-  - action
-  - shooting
-score: 4.1/5  (2019 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - survival
+  - strategy
+  - adventure
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Survivor Legendsは、過酷な環境で生き残るサバイバル戦略ゲームです。資源を集め、避難所を建設し、危険から身を守りましょう。
 
-[JA TRANSLATION NEEDED] Survivor Legends follows the auto‑attack survivor formula: move to kite, level to draft weapons/passives, and survive crescendos. Builds hinge on damage schedules (DPS vs burst), crowd control, and pickup radius for XP economy.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Wide kites: Large loops give correction time; avoid tight corners.
-[JA TRANSLATION NEEDED] 2.  Priority: Kill fast/ranged first; slow melee later.
-[JA TRANSLATION NEEDED] 3.  Draft synergies: Pair pierce with knockback, slow with crit, or aura with sustain.
-[JA TRANSLATION NEEDED] 4.  Economy: Invest in pickup radius/XP early to accelerate drafts.
-[JA TRANSLATION NEEDED] 5.  Ult windows: Save actives for wave spikes and elite packs.
-
-### Controls Guide
-
-- Move: WASD/Arrows; actives on number keys; pause via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I get cornered.
-  
-[JA TRANSLATION NEEDED]   A: Re‑route to midmap and dash through thin gaps early.
-
-- Q: Which upgrades first?
-  
+ - **資源収集：** 食料、水、材料を集めます
+ - **避難所建設：** 安全な避難所を建設します
+ - **サバイバル：** 飢え、渇き、危険から生き残ります
+ - **探索：** 新しいエリアと資源を発見します
 
 
-
-
-
-
-- Q: I get cornered.
-### よくある質問（FAQ）
-- Move: WASD/Arrows; actives on number keys; pause via UI.
-### コントロールガイド
 - Ult windows: Save actives for wave spikes and elite packs.
+### 操作ガイド
+
+ - **WASD：** 移動
+ - **マウス：** 相互作用と建設
+ - **E：** アイテムを拾う
 
 ### よくある質問（FAQ）
-- Economy: Invest in pickup radius/XP early to accelerate drafts.
-[JA TRANSLATION NEEDED]   A: Pickup radius/XP, then core damage and survivability.
 
 
+- Q: I get cornered.
+**ゲームの目標は何ですか？**
 
-A: Pickup radius/XP, then core damage and survivability.
+
 - Q: Which upgrades first?
+できるだけ長く生き残り、避難所を発展させることです。
 
+**資源は重要ですか？**
 
-A: Pickup radius/XP, then core damage and survivability.
+はい、食料、水、材料がサバイバルに不可欠です。
+
+**敵や危険はありますか？**
+
+はい、野生動物や環境的危険があります。

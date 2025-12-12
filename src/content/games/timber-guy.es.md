@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: timber-guy
-title: '[ES] Timber Guy'
+title: "Timber Guy - Corta al ritmo perfecto"
 description: >-
-  [ES] Timber Guy is a chop‑timing arcade — fell the tree, dodge branches, and
-  rack up chops.
+  Timber Guy es un arcade de reflejos y cortes: tala el árbol, esquiva ramas y
+  encadena hachazos al ritmo adecuado.
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/timber-guy.png
 tags:
@@ -14,28 +14,30 @@ score: 3.8/5  (1659 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Timber Guy es un juego de un solo botón centrado en la sincronización. Tienes que ir cortando el tronco mientras cambias de lado para esquivar las ramas que bajan. La velocidad aumenta con cada golpe, así que solo sobrevivirás si mantienes cambios limpios de lado y un ritmo constante.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Timber Guy is a one‑button timing game. Chop the trunk while switching sides to avoid incoming branches. The pace accelerates, demanding clean side swaps and steady rhythm.
+1.  Lee el tronco por adelantado: observa las siguientes ramas que vienen y planifica de antemano cuándo cambiar de lado.
+2.  Mantén el ritmo: un tempo de cortes estable te ayuda a reaccionar mejor que golpear de forma caótica.
+3.  Cambia antes de tiempo: pasa al otro lado un poco antes de que la rama llegue a tu posición para no quedarte atrapado.
+4.  No entres en pánico: si dudas, es mejor perder un golpe que arriesgarte a recibir un impacto.
+5.  Persigue el récord: los pequeños errores se acumulan; si empiezas una partida con muchos fallos, puede ser mejor reiniciar y buscar una racha perfecta.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Read ahead: Watch the next few branches and pre‑plan swaps.
-2.  **[ES]** Keep rhythm: Maintain a steady chop tempo for better reactions.
-3.  **[ES]** Early swaps: Switch sides slightly before the branch passes you.
-4.  **[ES]** Don’t panic: Miss one beat if unsure; safety beats a hit.
-5.  **[ES]** High score: Small errors compound—reset after bad starts.
+- Cortar / cambiar de lado: toca a la izquierda o derecha (o pulsa las teclas indicadas) para cortar desde ese lado del tronco.
+- Pausa / reinicio: disponibles desde la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Chop/Swap: Tap left/right to chop from that side.
-- Pause/Retry via UI.
+- **¿Por qué me golpean las ramas?**  
+  Casi siempre se debe a cambios tardíos de lado. Intenta anticiparte y moverte antes de que la rama esté encima.
 
-### Frequently Asked Questions (FAQ)
+- **¿El juego se vuelve más rápido?**  
+  Sí. La velocidad aumenta progresivamente, así que un buen sentido del ritmo es clave.
 
-- Why do I get hit? Late swaps—change sides earlier.
-- Does speed ramp? Yes; rhythm helps adaptation.
-- Any power‑ups? Some versions include boosters; focus on consistency.
-
+- **¿Hay potenciadores?**  
+  Algunas versiones incluyen mejoras temporales, pero en general la consistencia y la concentración son lo más importante.

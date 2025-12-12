@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: merge-cakes
-title: '[FR] Merge Cakes'
+title: Merge Cakes
 description: >-
-  [FR] Merge identical cakes to create new, more elaborate desserts! Fill your
-  display, complete orders, and build the sweetest bakery in this delightful and
-  relaxing merge puzzle game.
+  Fusionne des gâteaux identiques pour créer de nouveaux desserts encore plus
+  élaborés ! Remplis ton présentoir, honore les commandes et construis la
+  pâtisserie la plus gourmande dans ce puzzle de fusion relaxant.
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
 thumbnail: /new-images/merge-cakes.jpg
 tags:
@@ -13,39 +13,40 @@ tags:
   - casual
   - clicker
 score: 4.4/5  (2350 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Merge Cakes est un puzzle doux et relaxant où tu combines des gâteaux identiques pour créer des desserts toujours plus spectaculaires. Tu commences avec de simples cupcakes et, fusion après fusion, tu obtiens des parts, des gâteaux à étages et d’autres créations gourmandes. Ton objectif est de répondre aux commandes, de gagner des pièces et de compléter ton carnet de recettes.
 
+### Stratégies de jeu et progression
 
+1.  **Maîtriser la chaîne de fusion :** le cœur du jeu est la fusion. Fais glisser un gâteau sur un autre identique pour obtenir un gâteau de niveau supérieur. Deux cupcakes peuvent devenir un cupcake plus grand, qui finira par se transformer en part de gâteau, et ainsi de suite.
+2.  **Remplir les commandes :** en haut de l’écran s’affichent les commandes des clients. Concentre‑toi sur les gâteaux demandés, car c’est ta principale source de pièces.
+3.  **Gérer ton plateau :** tu ne disposes que d’un nombre limité d’assiettes. Si le plateau est plein, tu ne recevras plus de nouveaux gâteaux. Fusionne régulièrement pour libérer de la place.
+4.  **Utiliser tes pièces :** dépense les pièces gagnées pour acheter d’autres gâteaux dans la boutique. C’est bien plus rapide que d’attendre les livraisons gratuites et indispensable pour produire des niveaux élevés.
 
-### Detailed Game Introduction
+### Commandes
 
-Merge Cakes is a sweet and relaxing puzzle game where you combine identical cakes to create new and more magnificent desserts. You start with basic cupcakes and merge your way up to elaborate, multi-layered creations. The goal is to fulfill customer orders, earn coins, and discover every delicious cake in your recipe book. It's a simple, satisfying, and endlessly charming game.
+Le jeu se joue entièrement au glisser‑déposer.
 
-### Gameplay Strategy & Walkthrough
+- **Fusionner des gâteaux :** clique et fais glisser un gâteau sur un autre identique pour les fusionner.
+- **Acheter des gâteaux :** ouvre la boutique puis clique sur le type de gâteau que tu souhaites acheter.
 
-1.  **[FR]** **The Merge Chain:** The core of the game is merging. Drag one cake and drop it onto an identical cake to create a new, higher-level cake. Two basic cupcakes might make a larger cupcake, which in turn can be merged to create a slice of cake, and so on.
-2.  **[FR]** **Fulfill Orders:** At the top of the screen, you will see orders from customers. You must create the specific cakes they are asking for. Fulfilling an order is the primary way to earn coins.
-3.  **[FR]** **Manage Your Board:** You only have a limited number of plates on your board. If it fills up, you won't be able to receive new cakes. Always try to make merges to keep space free.
-4.  **[FR]** **Use Your Coins:** Spend the coins you earn to buy more cakes from the shop. This is much faster than waiting for the free delivery box and is essential for creating high-level cakes to fill difficult orders.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- **Q : Comment obtenir de nouveaux gâteaux ?**  
+  **R :** Une boîte de livraison gratuite dépose régulièrement un gâteau de base sur une assiette vide. Tu peux aussi utiliser tes pièces pour acheter directement des gâteaux déjà découverts.
+    - **Q : Quel est l’objectif principal ?**  
+  **R :** Gagner des pièces en remplissant les commandes et débloquer l’ensemble des recettes de gâteaux disponibles.
+- **Q : Mon plateau est plein et je ne peux plus jouer, que faire ?**  
 
-The game is played with simple drag-and-drop controls.
+    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
 
-*   **[FR]** **Merge Cakes:** Click and drag one cake and drop it onto another identical cake to merge them.
-*   **[FR]** **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
+- **Q: My board is full and I can't make any moves. What do I do?**
 
-### Frequently Asked Questions (FAQ)
-
-*   **[FR]** **Q: How do I get new cakes?**
-    *   **[FR]** **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.
-
-*   **[FR]** **Q: What is the main goal?**
-    *   **[FR]** **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
-
-*   **[FR]** **Q: My board is full and I can't make any moves. What do I do?**
-    *   **[FR]** **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
+    - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
+  **R :** Cherche toutes les fusions possibles. S’il n’y en a vraiment plus, utilise la poubelle pour vendre un gâteau de bas niveau et libérer une assiette.
 

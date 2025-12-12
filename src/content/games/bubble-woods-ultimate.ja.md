@@ -1,100 +1,61 @@
 ---
-locale: ja
-urlstr: bubble-woods-ultimate
-title: '[JA TRANSLATION NEEDED] Bubble Woods Ultimate'
+title: Bubble Woods Ultimate バブル・ウッズ・アルティメット
 description: >-
-  [JA TRANSLATION NEEDED] Race against the clock in this fast-paced bubble
-  shooter! You have 60 seconds to pop as many bubbles as you can, create massive
-  combos, and use powerful boosters to get the highest score.
-iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
-thumbnail: /new-images/bubble-woods-ultimate.png
+  「Bubble Woods
+  Ultimate」は60秒一本勝負の高速バブルシューター。魔法の森で可愛いリスと協力し、スペシャルバブルを駆使してハイスコアを叩き出せ。
+iframeSrc: >-
+  https://bubblewoods.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/
+thumbnail: /new-images/bubble-woods-ultimate.jpg
+urlstr: bubble-woods-ultimate
+score: 4.5/5  (2150 votes)
 tags:
-  - shooting
-  - action
   - casual
-score: 4.4/5  (2500 votes)
+  - puzzle
+  - match-3
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Bubble Woods Ultimate（バブル・ウッズ・アルティメット）*は、魔法の森を舞台にした、スピード感あふれるアクションパズルゲームです。プレイヤーは賢いリスと一緒に、60秒という制限時間内にできるだけ多くのスコアを稼ぐことに挑戦します。
 
-- **Q: What is the main objective?**（日本語訳が必要）
-    - **Hourglass:** The most valuable one—hitting it adds a few precious seconds to your timer.（日本語訳が必要）
-[JA TRANSLATION NEEDED] Bubble Woods Ultimate is a high-energy, fast-paced bubble shooter that challenges you to score as many points as possible within a tight 60-second time limit. Set in a vibrant forest, you must shoot bubbles to create matches of three or more, triggering cascades and earning massive points. The game features a variety of powerful boosters and a level-up system that rewards skillful play, making every round an exciting race against the clock.
-- **Q: How do I get more time?**（日本語訳が必要）
-- **Q: What is the bar at the bottom next to the cannon?**（日本語訳が必要）
+基本操作はバブルを発射して同じ色を3つ以上揃えることですが、このゲームの特徴はスピードと連鎖です。素早く連続でバブルを消すとコンボが発生し、特別なアイテムが出現します。短い時間でいかに効率よく点数を稼げるか、瞬時の判断力が試されます。
 
-### Gameplay Strategy & Walkthrough
+**なぜ面白いのか？**
+*   **60秒ラウンド:** 1回のプレイが短いため、ちょっとした空き時間に最適です。「あと1回だけ！」と何度も遊んでしまいます。
+*   **コンボシステム:** 連続ヒットさせると「ファイアメーター」が溜まり、強力なファイアボールが撃てます。
+*   **お助けアイテム:**
+    *   **レインボーバブル:** どの色としても機能する万能バブル。
+    *   **ボムバブル:** 着弾した周囲のバブルを爆発させて消去します。
+    *   **砂時計:** これが最も重要です。消すと制限時間を少しだけ延長できます。
 
-[JA TRANSLATION NEEDED] 1.  **Speed is Everything:** With only 60 seconds on the clock, you need to be fast. Aim and shoot quickly. Don't spend too long deliberating on a single shot.
-[JA TRANSLATION NEEDED] 2.  **Build Your Combo for a Fireball:** The key to a huge score is the Fireball. You earn it by making 10 consecutive successful matches (10 "hits"). The Fireball can be shot anywhere and will destroy a large area of bubbles, so use it strategically.
-[JA TRANSLATION NEEDED] 3.  **Aim for Avalanches:** Just like in classic bubble shooters, the biggest points come from detaching large clusters of bubbles. Aim high to pop a small group that is supporting a much larger group below.
-[JA TRANSLATION NEEDED] 4.  **Utilize Power-ups:** Keep an eye out for special bubbles on the board:
-[JA TRANSLATION NEEDED]     *   **Rainbow Bubble:** Will act as any color it touches, helping you complete a match.
-[JA TRANSLATION NEEDED]     *   **Bomb Bubble:** Explodes on impact, clearing a small cluster.
-[JA TRANSLATION NEEDED]     *   **Hourglass:** The most valuable one—hitting it adds a few precious seconds to your timer.
+### ゲーム攻略と戦略
 
-### Controls Guide
-
-*   **Aim:** Move your mouse to aim the bubble cannon.
-### Frequently Asked Questions (よくある質問)
-    - **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.（日本語訳が必要）
-*   **Shoot:** Click the left mouse button to fire the bubble.
-*   **Swap:** You can often click on the cannon or the next bubble in the queue to swap between your current and next projectile.
-    - **A:** To score as many points as you can within the 60-second time limit.（日本語訳が必要）
-    - **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.（日本語訳が必要）
-    - **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the main objective?**
-[JA TRANSLATION NEEDED]     *   **A:** To score as many points as you can within the 60-second time limit.
-
-*   **Q: How do I get more time?**
-[JA TRANSLATION NEEDED]     *   **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
-
-*   **Q: What is the bar at the bottom next to the cannon?**
-[JA TRANSLATION NEEDED]     *   **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
+*   **スピードが命:** じっくり考える暇はありません。とにかく速く撃ちましょう。迷うくらいなら多少強引にでも撃って、次のバブルを回したほうが良い結果になることが多いです。
+*   **壁反射を使う:** 直接狙えない場所は、左右の壁（木の幹）に反射させて狙いましょう。
+*   **コンボを切らさない:** 10回連続でヒットさせると「ファイアボール」が手に入ります。これはどんな障害物も貫通して破壊する最強の武器です。ミスショットをしてコンボを切らさないように注意しましょう。
+*   **大きな塊を落とす:** 上の方にあるバブルを消して、ぶら下がっているバブルを一気に落とすと大量得点になります。
+    - **砂時計を逃すな:** タイムを伸ばす「砂時計」アイテムが出現したら、最優先で狙ってください。プレイ時間が伸びればそれだけスコアも伸びます。
 
 
-    - **Rainbow Bubble:** Will act as any color it touches, helping you complete a match.（日本語訳が必要）
-    - **Bomb Bubble:** Explodes on impact, clearing a small cluster.（日本語訳が必要）
-
-
-
-
-
-
-
-
-
-
-
-
-    - **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
-- **Q: What is the bar at the bottom next to the cannon?**
-    - **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
-- **Q: How do I get more time?**
-    - **A:** To score as many points as you can within the 60-second time limit.
-- **Q: What is the main objective?**
-### よくある質問（FAQ）
-- **Swap:** You can often click on the cannon or the next bubble in the queue to swap between your current and next projectile.
-- **Shoot:** Click the left mouse button to fire the bubble.
-- **Aim:** Move your mouse to aim the bubble cannon.
-### コントロールガイド
-
-- **Q: What is the main objective?**
     - **Hourglass:** The most valuable one—hitting it adds a few precious seconds to your timer.
 
+    - **Bomb Bubble:** Explodes on impact, clearing a small cluster.
+### 操作ガイド
 
+*   **狙う:** マウスカーソル（または指）で発射方向を定めます。
+*   **撃つ:** クリック（またはタップ）でバブルを発射します。
+*   **バブル交換:** 大砲の横などをクリックすると、今撃つバブルと次のバブルを入れ替えることができます。
 
+### よくある質問 (FAQ)
 
+*   **Q: ゲームの目的は？**
+    *   **A:** 制限時間60秒以内に、可能な限り高いスコアを獲得することです。
 
-    - **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
-- **Q: What is the bar at the bottom next to the cannon?**
-    - **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
-- **Q: How do I get more time?**
+*   **Q: どうすれば時間を増やせますか？**
+    *   **A:** 盤面に現れる「砂時計」のアイコンが付いたバブルを消すことで、時間を延長できます。
 
-
-    - **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
+*   **Q: 下にあるゲージは何ですか？**
+    *   **A:** ファイアボールメーターです。バブルを消すたびに溜まり、満タンになると次のショットが貫通弾（ファイアボール）になります。逆にミスショットをすると減ってしまいます。

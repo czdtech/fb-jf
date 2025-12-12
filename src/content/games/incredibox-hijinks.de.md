@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: incredibox-hijinks
-title: '[DE] Incredibox Hijinks'
+title: Incredibox Hijinks
 description: >-
-  [DE] Explore 'Incredibox Hijinks,' the chaotic cartoon-themed fan-made mod.
-  This guide details its zany electronic sound palette, gameplay for creating
-  fun and mischievous tracks, and how to unlock its themed bonuses.
+  "Incredibox Hijinks" ist ein chaotisch-cartooniger Fan-Mod: Erzeuge freche,
+  verspielte Tracks aus elektronischen Beats, Quirk-Sounds und albernen Vocals
+  und schalte passende Gag-Boni frei.
 iframeSrc: 'https://turbowarp.org/1027156305/embed'
 thumbnail: /new-images/incredibox-hijinks.png
 tags:
@@ -16,57 +16,98 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+### Spieleinführung
+
+*Incredibox Hijinks* ist ein energiegeladener Fan-Mod von Bongo Cat. Der Name
+"Hijinks" ist Programm: Alles dreht sich um **Unfug, Cartoon-Chaos und
+alberne Streiche**. Die Figuren sind simpel, aber ausdrucksstark gestaltet und
+wirken wie aus einer modernen Zeichentrickserie.
+
+Du nutzt das bekannte Drag-and-drop-System: 20 Sound-Icons, sieben Performer –
+und eine Soundpalette aus **elektronischen Beats, schrägen Effekten und
+verspielten Vocals**, mit denen du leichtfüßige Cartoon-Tracks bauen kannst.
+
+### Strategie & Tipps
+
+1.  **Zany-Soundpalette kennen**  
+    *   **Beats:** Bouncige Electro-Drums, leichte Percussion und simple,
+        tanzbare Basslines.  
+- **Effekte:** Cartoon-SFX wie Boings und Zips, Synth-Stabs und andere
+        „Scherz“-Geräusche.  
+    *   **Melodien:** Eingängige, helle Leads, teils im Chiptune-Stil.  
+    *   **Vocals:** Verspielte, oft sinnfreie Vocal-Chops und Ausrufe.
+
+    - **Mit einem federnden Beat starten**  
+    Bau zuerst eine Basis aus Kick, Snare und ggf. Bass – der Track darf ruhig
+    ein bisschen springen.
+
+    - **Spaßschicht drauflegen**  
+    Füge Effekte und Melodien hinzu und akzeptiere, dass es ruhig etwas
+    chaotisch klingen darf – genau das ist der Reiz des Mods.
+
+4.  **Boni systematisch suchen**  
+
+- **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a core groove that you like, and then systematically swap out the other icons one by one until you trigger one of the mischievous animations.
+
+- **Layer on the Fun**: Once the beat is set, start adding the "Effects" and "Melodies." Don't be afraid to make the mix sound a little chaotic or silly—that's the point of the mod!
+    Erzeuge einen Groove, den du magst, und tausche dann einzelne Icons
+    nacheinander aus, um die drei Cartoon-Boni zu entdecken.
+
+### Steuerung
+
+- Ziehe Icons auf Figuren, um Sounds zu aktivieren, und nutze **X**, Mute/Solo
+  und Record wie im Standard-Incredibox, um deine Streiche-Session aufzunehmen.
 
 
-### **Incredibox Hijinks Game Introduction**
+- **Record**: Click the **record button** to start and stop recording your fun-loving creation.
 
-*Incredibox Hijinks* is a popular and energetic fan-made mod for the music creation game Incredibox, created by the modder Bongo Cat. The name "Hijinks" perfectly captures the mod's theme of **mischievous, chaotic, and zany cartoon antics**. The characters are stylized as simple, expressive figures ready to cause some musical trouble.
+- **Solo**: Click the **small button** next to an active character to mute all other performers.
 
-The game utilizes the classic Incredibox drag-and-drop gameplay. Players are given a palette of 20 unique sound icons to assign to their crew of seven performers. The sound library is a fun and upbeat collection of **electronic beats, quirky sound effects, and playful vocals**, designed to create a lighthearted and energetic track reminiscent of a modern cartoon soundtrack.
+- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
 
-The objective is to allow players to have fun and create chaotic yet catchy tunes, while also solving the puzzle of finding the three secret animated bonuses, which are undoubtedly themed around cartoonish pranks and fun.
+- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
 
-### **Gameplay Strategy & Tips**
-
-Strategy in *Incredibox Hijinks* is about embracing the fun and layering the energetic sounds to create a bouncy, infectious groove.
-
-1.  **[DE]** **Understand the Zany Sound Palette**:
-    *   **[DE]** **Beats**: The rhythms are the driving force of the fun. Expect bouncy **electronic drum patterns**, playful percussion, and simple, effective basslines that make you want to move.
-    *   **[DE]** **Effects**: This category is the heart of the "hijinks." It likely includes classic **cartoon sound effects** (boings, zips), simple synth textures, and other quirky noises that add a layer of silliness.
-    *   **[DE]** **Melodies**: The melodies are designed to be simple and catchy. Look for upbeat **chiptune-style synth leads**, simple keyboard loops, and other fun, memorable hooks.
-    *   **[DE]** **Voices**: Vocals are playful and often nonsensical. This category features **processed vocal chops**, fun exclamations, and simple, melodic vocalizations that add to the cartoonish character of the mix.
-
-2.  **[DE]** **Start with a Bouncy Beat**: The best way to begin is by establishing an energetic rhythm. Combine a solid drum pattern with a simple bassline from the "Beats" category to get the track started.
-
-3.  **[DE]** **Layer on the Fun**: Once the beat is set, start adding the "Effects" and "Melodies." Don't be afraid to make the mix sound a little chaotic or silly—that's the point of the mod!
-
-4.  **[DE]** **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a core groove that you like, and then systematically swap out the other icons one by one until you trigger one of the mischievous animations.
-
-### **Controls Guide**
-
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
-
-*   **[DE]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[DE]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[DE]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[DE]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[DE]** **Record**: Click the **record button** to start and stop recording your fun-loving creation.
-
-### **Frequently Asked Questions (FAQ)**
-
-**1. Is this an official Incredibox version?**
-
-No. It is a **fan-made mod** created by Bongo Cat. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**2. Where can I play this mod?**
-
-You will not find it on official platforms. Mods like *Hijinks* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**3. What makes this mod special?**
-
-Its charm comes from its pure, unadulterated fun. The lighthearted cartoon theme and energetic, upbeat music provide a simple and joyful experience that is all about creating a smile.
+- **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
+Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Hijinks combos*" on YouTube will show you the solutions.
 
 **4. Are the bonus solutions for "Hijinks" available online?**
 
+Its charm comes from its pure, unadulterated fun. The lighthearted cartoon theme and energetic, upbeat music provide a simple and joyful experience that is all about creating a smile.
+
+**3. What makes this mod special?**
+
+You will not find it on official platforms. Mods like *Hijinks* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
+
+**2. Where can I play this mod?**
+
+No. It is a **fan-made mod** created by Bongo Cat. It is not affiliated with the official Incredibox team, So Far So Good.
+
+**1. Is this an official Incredibox version?**
+
+### **Häufige Fragen (FAQ)**
+
+
 Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Hijinks combos*" on YouTube will show you the solutions.
 
+**4. Are the bonus solutions for "Hijinks" available online?**
+
+Its charm comes from its pure, unadulterated fun. The lighthearted cartoon theme and energetic, upbeat music provide a simple and joyful experience that is all about creating a smile.
+
+**3. What makes this mod special?**
+
+You will not find it on official platforms. Mods like *Hijinks* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
+
+**2. Where can I play this mod?**
+
+No. It is a **fan-made mod** created by Bongo Cat. It is not affiliated with the official Incredibox team, So Far So Good.
+
+**1. Is this an official Incredibox version?**
+- **Record**: Click the **record button** to start and stop recording your fun-loving creation.
+
+- **Solo**: Click the **small button** next to an active character to mute all other performers.
+
+- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
+
+- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
+
+- **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.

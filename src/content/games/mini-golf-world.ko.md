@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: mini-golf-world
-title: '[KO] Mini Golf World'
+title: "Mini Golf World 미니 골프 월드"
 description: >-
-  [KO] Mini Golf World polishes putt‑putt — read slopes, bank rails, and master
-  pace for playful holes across themed worlds.
+  Mini Golf World는 다양한 테마 코스에서 퍼팅 감각을 연습할 수 있는 미니 골프 게임입니다.
+  경사와 바람개비, 레일 등을 읽어 적절한 세기와 방향으로 공을 굴려 파를 지키거나
+  홀인원을 노려 보세요.
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/mini-golf-world.png
 tags:
@@ -19,33 +20,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Mini Golf World is a crisp mini‑golf collection with ramps, windmills, and trick rails. Good scores come from precise pace control, smart bank lines, and patient timing on moving hazards.
+*Mini Golf World*는 경사로, 풍차, 트릭 레일 등 다양한 장애물이 준비된 미니 골프
+컬렉션입니다. 좋은 스코어를 내기 위해서는 공의 속도 조절, 벽을 이용한 은은한
+뱅크 샷, 움직이는 장애물의 타이밍을 읽는 능력이 모두 필요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 플레이 팁
 
-1.  **[KO]** Cup‑rim pace: Under‑hit near the hole to avoid lip‑outs.
-2.  **[KO]** Bank lines: Use ~45° rails to redirect into corners consistently.
-3.  **[KO]** Hazard cycles: Watch one full cycle before hitting through moving parts.
-4.  **[KO]** Two‑putt logic: Set up a tap‑in instead of risking a wild hole‑in‑one.
-5.  **[KO]** Camera scouting: Pan/zoom to pre‑read slopes and hidden rails.
+1. **컵 가장자리 속도 조절:** 홀 근처에서는 너무 세게 치지 말고, 컵 림을 살짝
+   넘길 정도의 힘으로 굴려 "홀을 살짝 비켜 나가는" 상황을 줄이세요.
+2. **뱅크 샷 활용:** 약 45° 각도로 벽을 노리면 코너를 돌아 들어가는 안정적인
+   궤도를 만들 수 있습니다. 스피드 손실을 고려해 살짝 안쪽을 겨냥하는 것이 좋습니다.
+3. **장애물 패턴 관찰:** 움직이는 장애물이 있는 홀에서는 먼저 한 번 전체 패턴을
+   관찰한 뒤, 안전한 타이밍을 찾고 샷을 시도하세요.
+4. **두 번에 나누어 넣기:** 무리하게 한 번에 홀인원을 노리기보다, 첫 샷으로 홀
+   근처에 공을 붙여 두고 두 번째 샷으로 가볍게 마무리하는 전략이 안정적인
+   스코어에 도움이 됩니다.
+5. **카메라로 미리 살피기:** 카메라 패닝이나 확대/축소 기능이 있다면, 샷을 치기
+   전에 지형과 숨은 레일을 미리 확인해 전체 루트를 설계해 보세요.
 
-### Controls Guide
+### 조작 방법
 
-- Aim with cursor; pull back to set power; release to putt; reset if stuck.
+- 마우스 커서로 방향을 조준하고, 뒤로 끌어 당겨 파워를 정한 뒤 놓으면 퍼팅이
+  실행됩니다. 공이 지형에 끼어 움직이지 않을 경우, 일부 버전에서는 리셋 기능을
+  제공하기도 합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: Why do I rim out?
+- **Q: 홀 컵을 자꾸 빙 둘러 나오는데 왜 그런가요?**  
+  **A:** 진입 각도와 속도가 너무 큰 경우입니다. 약간 더 부드럽게 치거나, 컵의 정면이
+  아닌 옆면을 노려 각도를 조정해 보세요.
 
-A: Too much pace or a bad entry angle — slow down and adjust approach.
+- **Q: 뱅크 샷에 쓸만한 범용 팁이 있나요?**  
+  **A:** 벽과 약 45°에 가깝게 맞추되, 속도 손실을 감안해 약간 안쪽을 겨냥하는 것이
+  좋습니다.
 
-- Q: Any universal bank tip?
-
-A: Aim slightly inside 45° to compensate for speed loss on rails.
-
-- Q: Is there a stroke limit?
-
-A: Many holes cap strokes; plan two‑putts to stay under par.
-
+- **Q: 타수 제한이 있나요?**  
+  **A:** 많은 홀에서 최대 타수가 정해져 있으며, 그 안에 공을 넣지 못하면 보통
+  보너스 없이 다음 홀로 넘어가거나 패널티를 받습니다. 항상 "두 번 안에 끝내기"를
+  목표로 샷을 설계해 보세요.

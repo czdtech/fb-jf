@@ -1,82 +1,50 @@
 ---
-locale: ja
-urlstr: om-nom-connect-xmas
-title: '[JA TRANSLATION NEEDED] Om Nom Connect Xmas'
+title: Om Nom Connect Xmas
 description: >-
-  [JA TRANSLATION NEEDED] Join Om Nom in a festive puzzle adventure! Om Nom
-  Connect Xmas is a fun tile-matching game where you connect pairs of
-  Christmas-themed treats.
-iframeSrc: >-
-  https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
-thumbnail: /new-images/om-nom-connect-xmas.jpg
+  Om Nom Connect Xmasはホリデーマッチングパズルです。クリスマステーマのタイルを接続し、フェスティブなレベルをクリアし、Om
+  Nomと祝います。
+iframeSrc: 'https://omnomconnectxmas.h5games.usercontent.goog/v/2m8k5j9h7p3n8/'
+thumbnail: /new-images/om-nom-connect-xmas.png
+urlstr: om-nom-connect-xmas
+score: 4.3/5  (2123 votes)
 tags:
   - puzzle
+  - thinky
   - casual
-  - mahjong
-score: 4.6/5  (2765 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+Om Nom Connect Xmasは、クラシックなOm Nom Connectゲームプレイにフェスティブなクリスマステーマを追加します。同じクリスマステーマのタイルを接続し、すべてをクリアし、ホリデースピリットを楽しみます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecting puzzle game. The board is filled with Christmas-themed tiles featuring Om Nom, his friends, and delicious holiday treats. Your goal is to clear the board by finding and connecting pairs of identical tiles. With cheerful holiday music and cute graphics, it’s a relaxing yet challenging puzzle game perfect for the Christmas season.
+1.  **外側から作業:** エッジタイルを最初にクリアします。
+2.  **2ターンルール:** パスは最大2回曲がることができます。
+3.  **スペースを開く:** 中央のタイルを早期にクリアします。
+4.  **先を計画:** ペアをブロックしないようにします。
+5.  **ヒントを節約:** 本当に必要なときにのみ使用します。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Find Matching Pairs:** Scan the board for two identical tiles. The tiles must be connectable with a line that has no more than two turns (or corners).
-[JA TRANSLATION NEEDED] 2.  **Clear the Edges First:** Start by looking for matching tiles on the outer edges of the puzzle, as these are generally the easiest to connect and will open up more possibilities.
-[JA TRANSLATION NEEDED] 3.  **Think Ahead:** Sometimes you need to clear a specific pair of tiles to unblock a path for another match. Try to look a few moves ahead.
-[JA TRANSLATION NEEDED] 4.  **Use Power-ups Wisely:** The game offers helpful tools if you get stuck. The magnifying glass will show you a possible match, and the shuffle button will rearrange all the tiles on the board, creating new opportunities.
+- 同じクリスマスタイルをクリック/タップします。
+- 有効なパス（≤2ターン）で接続します。
+- ボードをクリアします。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Select Tiles:** Use your mouse to click on a tile to select it.
-    - **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.（日本語訳が必要）
-    - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.（日本語訳が必要）
-    - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.（日本語訳が必要）
-    - **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.（日本語訳が必要）
-    - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.（日本語訳が必要）
-    - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.（日本語訳が必要）
-*   **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What are the rules for connecting tiles?**
-[JA TRANSLATION NEEDED]     *   **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.
-
-*   **Q: What should I do if I'm stuck and can't find a match?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
-
-*   **Q: Is there a time limit?**
-
-
-
-
-
-
-
+- **Q: これはクラシックバージョンと何が違いますか？**  
+  A: クリスマステーマのグラフィックとサウンド。同じゲームプレイ。
+    - **Q: 季節限定ですか？**  
+  A: いいえ、年中プレイできます。
+- **Q: レベルはいくつありますか？**  
 
     - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
+
 - **Q: Is there a time limit?**
+
     - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
-- **Q: What should I do if I'm stuck and can't find a match?**
-    - **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.
-- **Q: What are the rules for connecting tiles?**
-### よくある質問（FAQ）
-- **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
-
-
-
-
-
-    - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
-- **Q: Is there a time limit?**
-    - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
-- **Q: What should I do if I'm stuck and can't find a match?**
-    - **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.
-[JA TRANSLATION NEEDED]     *   **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
-
+  A: バージョンによって異なりますが、通常数十。

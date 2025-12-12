@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: pacman-30th-anniversary
-title: '[KO] Pacman 30th Anniversary'
+title: "Pacman 30th Anniversary 팩맨 30주년 에디션"
 description: >-
-  [KO] Pacman 30th Anniversary is a special edition of the iconic arcade game,
-  celebrating three decades of maze-chasing fun. Players guide Pac-Man through a
-  labyrinth, eating pellets and power-ups while avoiding ghosts, in this
-  nostalgic and engaging classic.
+  Pacman 30th Anniversary는 3십 년 동안 사랑받아 온 오리지널 팩맨을 기념하는 특별판으로,
+  미로 속을 달리며 점과 파워업을 먹고 유령을 피해 다니는 고전 아케이드 경험을 다시
+  즐길 수 있는 게임입니다.
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/pacman-30th-anniversary.jpg
 tags:
@@ -19,30 +18,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*"Pacman 30th Anniversary"*는 고전 아케이드 게임 "PAC-MAN"의 서른 번째 생일을 기념하는
+버전입니다. 플레이어는 다시 한 번 노란 팩맨을 조종해 미로를 누비며 모든 펠릿과 파워
+펠릿을 먹고, 네 마리 유령을 피해 다녀야 합니다. 오리지널의 규칙과 조작감을 그대로
+살리면서도, 기념 요소와 향수 어린 연출을 더해 신·구 플레이어 모두에게 친숙한 재미를
+제공합니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Pacman 30th Anniversary" is a special edition of the classic arcade game "Pac-Man," celebrating three decades of this iconic game. Players once again guide the yellow Pac-Man through a maze, eating all the pellets and power pellets while evading four ghosts. This version retains the original gameplay and incorporates nostalgic elements, allowing both new and old players to experience the classic fun.
+1. **미로 구조 익히기:** 각 레벨마다 미로 구조가 조금씩 달라질 수 있으니, 자주 지나는
+   길과 막다른 곳을 파악해 두면 유령을 피하기 쉽습니다.
+2. **파워 펠릿 활용:** 파워 펠릿을 먹으면 유령들이 파란색으로 변하며 일정 시간 동안
+   먹을 수 있습니다. 유령이 가까이 모였을 때 파워 펠릿을 사용하는 것이 효율적입니다.
+3. **도망과 역공의 균형:** 평소에는 미로의 코너와 터널을 활용해 유령을 따돌리고,
+   파워 펠릿 효과가 켜져 있을 때는 과감히 유령을 추격해 높은 점수를 노리세요.
+4. **펠릿 완전 섭취:** 레벨을 클리어하려면 모든 작은 점과 파워 펠릿을 먹어야 하므로,
+   후반에 위험한 구역에 점 몇 개만 남지 않도록 동선을 계획하는 것이 좋습니다.
 
-### Gameplay Strategy
+### 조작 방법
 
-1.  **[KO]** **Familiarize with Maze Layouts**: Each level has different maze layouts; familiarizing yourself with the map can help you plan the optimal route.
-2.  **[KO]** **Utilize Power Pellets**: After eating a power pellet, ghosts will temporarily turn blue and become edible. This is a good opportunity to counter-attack and clear the board.
-3.  **[KO]** **Evade and Pursue**: Skillfully use the maze's tunnels and corners to cleverly evade ghosts, and boldly pursue them after eating a power pellet.
-4.  **[KO]** **Prioritize Eating All Pellets**: The goal of the game is to eat all small pellets and power pellets in the maze to advance to the next level.
+* **이동:** 키보드 방향키(위·아래·왼쪽·오른쪽)를 사용해 팩맨의 이동 방향을 지정합니다.
 
-### How to Play
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
+1. **Q: "Pacman 30th Anniversary"와 원작 "PAC-MAN"의 차이는 무엇인가요?**  
+   **A:** 그래픽과 UI가 현대적으로 다듬어지고, 기념용 요소나 추가 콘텐츠가 포함된
+   경우가 많지만, 기본적인 게임 규칙과 느낌은 원작과 거의 동일합니다.
 
-### Frequently Asked Questions
+2. **Q: 유령들의 이름과 특징은 무엇인가요?**  
+   **A:** Blinky(빨강), Pinky(분홍), Inky(하늘색), Clyde(주황) 네 마리로, 각자 추격 패턴과
+   이동 방식이 조금씩 다릅니다.
 
-1.  **[KO]** **Q: What are the differences between "Pacman 30th Anniversary" and the original "PAC-MAN"?**
-**A**: This anniversary edition usually features updated visuals and may include some additional features or commemorative content, but the core gameplay remains consistent with the original.
-2.  **[KO]** **Q: What are the ghosts in the game, and what are their characteristics?**
-**A**: The ghosts are Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange), each with different pursuit and movement patterns.
-3.  **[KO]** **Q: How long does the power pellet effect last?**
-**A**: The power pellet effect lasts for a limited time; ghosts will return to normal after a while and become dangerous again.
-4.  **[KO]** **Q: Does the game have a leaderboard?**
-**A**: Many versions of "Pacman 30th Anniversary" feature local or online scoreboards, allowing players to compete for high scores.
+3. **Q: 파워 펠릿 효과는 얼마나 지속되나요?**  
+   **A:** 효과 시간은 한정되어 있으며, 시간이 지나면 유령이 다시 원래 상태로 돌아와
+   다시 위험한 존재가 됩니다.
+
+4. **Q: 리더보드가 있나요?**  
+   **A:** 많은 30주년 버전에서 로컬 또는 온라인 점수표를 제공해, 다른 플레이어와
+   최고 점수를 겨룰 수 있습니다.

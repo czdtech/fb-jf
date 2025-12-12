@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bloons-td-4
-title: '[KO] Bloons TD 4'
+title: 'Bloons TD 4 블룬스 TD 4'
 description: >-
-  [KO] Dive into Bloons TD 4, a classic tower defense game featuring branching
-  upgrade paths, powerful new towers, and the mighty BFB blimp. Strategize your
-  defense and level up to unlock everything!
+  Bloons TD 4는 분기 업그레이드, 새로운 강력한 타워, BFB 비행선 등으로
+  전략성이 한층 깊어진 고전 타워 디펜스 게임입니다. 랭크를 올리며 콘텐츠를
+  해금하고, 다양한 조합으로 최적의 수비 라인을 만들어 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/bloons-td-4.jpg
 tags:
@@ -15,66 +15,132 @@ score: 4.3/5  (852 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환점이 된 작품으로,
+그래픽이 크게 개선되고 이후 시리즈의 뼈대가 되는 핵심 시스템이 대거 도입되었습니다.
+기본 목표는 여전히 같습니다. 원숭이 타워를 배치해 끊임없이 몰려오는 블룬을 터뜨리고
+끝지점까지 도달하지 못하게 막는 것이죠. 다만 BTD4에서는 그 과정에서 요구되는 전략의
+깊이가 크게 늘어났습니다.
 
+가장 큰 변화는 **분기형 업그레이드 경로(branching upgrade paths)**의 도입입니다.
+이전처럼 한 타워에 준비된 업그레이드를 모두 사는 것이 아니라, 서로 배타적인 두 갈래의
+3단계·4단계 업그레이드 중 하나를 선택해 투자해야 합니다. 같은 타워라도 어떤 경로를
+선택했느냐에 따라 완전히 다른 역할을 수행하게 됩니다.
 
-### Game Introduction
+또 다른 핵심 요소는 **플레이어 랭크 시스템**입니다. 게임을 플레이하고 완주할 때마다
+경험치(XP)를 얻어 랭크가 오르며, 랭크에 따라 새로운 타워, 업그레이드, 게임 모드가
+차례로 해금됩니다. 이 덕분에 한 판 한 판이 단순한 한 번의 플레이를 넘어, 계정을
+성장시키는 과정처럼 느껴집니다.
 
-Bloons TD 4 represents a significant evolution in the Bloons Tower Defense series, introducing a major graphical overhaul and foundational gameplay mechanics that defined future titles. While the core objective—placing monkeys to pop waves of Bloons—remains, BTD4 deepened the strategy immensely.
+**Bloons TD 4의 주요 특징**
 
-The most important innovation in this installment is the introduction of **branching upgrade paths**. Instead of buying all available upgrades for a tower, players must make a strategic choice between two powerful, mutually exclusive tier 3 and tier 4 upgrades. This creates diverse roles for the same tower.
+-   **분기 업그레이드 시스템**: 현대 BTD 시리즈 전략의 핵심입니다. 예를 들어
+    Tack Shooter는 다량의 택을 쏘는 `Tack Sprayer`로 키울 수도 있고, 강력한
+    범위 공격을 하는 `Ring of Fire`로 키울 수도 있지만 둘 다 동시에 선택할 수는
+    없습니다.
+-   **새로운 타워 추가**: **Dartling Gun**, **Spike Factory**, **Monkey Glue** 등
+    이후 시리즈에서도 아이코닉한 타워들이 처음 등장합니다.
+-   **새로운 비행선 BFB**: 붉은색 **B.F.B. (Brutal Flying Behemoth)**가
+    데뷔합니다. 기존 MOAB보다 훨씬 단단하며, 터지면 내부에서 MOAB 네 대가
+    튀어나오는 강력한 위협입니다.
+-   **플레이어 랭크 & 해금 요소**: 플레이를 거듭하며 랭크를 올려야 새로운
+    타워와 상위 업그레이드, 모드를 사용할 수 있습니다.
+-   **새 게임 모드**: 라운드 간 휴식 없이 블룬이 계속 밀려오는 **Apopalypse
+    모드**, 무제한 돈과 목숨으로 전략을 시험해 볼 수 있는 **Sandbox 모드**가
+    추가됩니다.
+-   **소모형 아이템**: 길 위에 직접 깔아 둘 수 있는 Road Spikes, Monkey Glue
+    Puddle 같은 일회성 방어 수단이 도입됩니다.
 
-The game also introduced a **player rank system**. By playing and completing games, players earn experience points (XP) to level up their rank. New towers, upgrades, and game modes are unlocked as the player's rank increases, adding a persistent sense of progression.
+### 플레이 전략
 
-**Key Features of Bloons TD 4:**
--   **Branching Upgrades:** The cornerstone of modern Bloons TD strategy. For example, a Tack Shooter can be upgraded to a `Tack Sprayer` for more tacks or a `Ring of Fire` for powerful AoE damage, but not both.
--   **New Towers:** Introduced iconic towers like the **Dartling Gun**, **Spike Factory**, and **Monkey Glue**.
--   **New Blimp - The BFB:** The red **B.F.B.** (Brutal Flying Behemoth) makes its debut. It's much tougher than a MOAB and contains four MOABs inside.
--   **Player Rank & Unlocks:** A progression system where you unlock content by playing the game.
--   **New Game Modes:** Introduced **Apopalypse Mode** (continuous Bloon waves with no breaks) and **Sandbox Mode** (unlimited money and lives to test strategies).
--   **Consumables:** Road Spikes and Monkey Glue Puddles can be placed on the track as single-use defenses.
+-   **업그레이드 방향을 먼저 계획하기**  
+    이제는 모든 업그레이드를 다 살 수 없기 때문에, 각 타워가 어떤 역할을 맡을지
+    미리 정하는 것이 중요합니다. 예를 들어 Bomb Tower를 MOAB를 집중 공략하는
+    `MOAB Mauler`로 키울지, 광역 제어에 특화된 `Bloon Impact`로 키울지 초반부터
+    방향을 잡아 두면 자원을 낭비하지 않을 수 있습니다.
 
-### Gameplay Strategy
+-   **카모·리드 블룬은 반드시 대비하기**  
+    -   **Camo Bloon(카모 블룬)**: 감지 가능한 타워가 아니면 공격 자체가
+        불가능합니다. 초반에는 2/2 업그레이드를 한 Dart Monkey(`Enhanced
+        Eyesight`), 1/x 업그레이드를 한 Spike Factory, x/3 업그레이드의 Mortar
+        Tower(`Signal Flare`) 등이 대표적인 해답입니다.
+    -   **Lead Bloon(리드 블룬)**: 폭발이나 특수 공격이 필요합니다. 2/x 단계의
+        Bomb Tower나 `Glaive Thrower`(x/2) 업그레이드를 한 Boomerang Thrower가
+        핵심 카운터이며, `Ring of Fire`로 성장한 Tack Shooter 역시 리드를
+        녹여 버릴 수 있습니다.
 
--   **Plan Your Upgrades:** Because you can no longer buy every upgrade, you must plan ahead. Decide what role a tower will fill. Do you need a Bomb Tower for stunning (`MOAB Mauler`) or for massive area damage (`Bloon Impact`)?
--   **Camo and Lead are Major Threats:**
-    -   **Camo Bloons:** You need specific towers to hit them. The best early options are a Dart Monkey upgraded to 2/2 (`Enhanced Eyesight`), a Spike Factory (1/x upgrade), or a Mortar Tower with the `Signal Flare` (x/3) upgrade.
-    -   **Lead Bloons:** Bomb Towers (2/x) or a Boomerang Thrower with `Glaive Thrower` (x/2) are your primary tools. The `Ring of Fire` (Tack Shooter) can also pop Leads.
--   **Powerful Upgrade Paths to Aim For:**
-    -   **Super Monkey (2/x - Sun God):** The ultimate late-game damage dealer.
-    -   **Bomb Tower (2/3 - MOAB Mauler):** Essential for stunning and dealing extra damage to MOABs and BFBs.
-    -   **Tack Shooter (2/4 - Ring of Fire):** Amazing crowd control for a large area.
-    -   **Monkey Glue (2/2 - Bloon Dissolver):** Excellent for slowing down blimps and melting through ceramic layers.
--   **Banana Farms are a Must:** For higher difficulties and late-game survival, you need an economy. Build Banana Farms early and upgrade them to `Banana Republic` (2/x) to generate a steady income stream. This allows you to afford expensive tier 4 upgrades and Super Monkeys.
--   **How to Beat the BFB:** The BFB (first appears on Round 65) is a huge threat. Your defense should include:
-    -   A large number of `MOAB Mauler` Bomb Towers to stun and damage it.
-    -   A `Bloon Dissolver` Glue Gunner to slow it down.
-    -   A `Sun God` Super Monkey for primary damage.
-    -   A `Spike Storm` (Spike Factory ability) for a burst of damage if it gets too close to the exit.
+-   **노려볼 만한 강력한 업그레이드 경로**  
+    -   **Super Monkey 2/x - Sun God**: 후반부 순수 화력 담당으로, 대부분의
+        일반 블룬을 순식간에 지워 버리는 최종급 타워입니다.
+    -   **Bomb Tower 2/3 - MOAB Mauler**: MOAB와 BFB를 상대로 추가 피해 및
+        기절 효과를 주는, 보스 블룬 대응의 핵심 타워입니다.
+    -   **Tack Shooter 2/4 - Ring of Fire**: 넓은 범위를 지속적으로 태워 버리는
+        강력한 범위 제어 타워로, 길이 여러 번 겹치는 구간에 두면 진가를
+        발휘합니다.
+    -   **Monkey Glue 2/2 - Bloon Dissolver**: 블림프 및 세라믹 레이어를 크게
+        느리게 하고 녹여 버리는 훌륭한 보조 타워입니다.
 
-### Controls Guide
+-   **Banana Farm으로 경제 구축하기**  
+    높은 난이도와 장기 라운드를 버티기 위해서는 충분한 경제력이 필수입니다.
+    초반부터 Banana Farm을 지어 두고, 2/x 단계의 `Banana Republic`까지 업그레이드
+    하면 안정적인 수입이 생깁니다. 이렇게 벌어 들인 돈으로 고가의 4티어
+    업그레이드와 Super Monkey를 여유 있게 마련할 수 있습니다.
 
-The interface is a classic point-and-click system.
+-   **BFB를 상대하는 방법**  
+    BFB는 65라운드에 처음 등장하는 거대한 위협입니다. 이를 안정적으로 막기 위해서는
+    다음과 같은 구성을 추천합니다.
+    -   여러 개의 `MOAB Mauler` Bomb Tower를 배치해 BFB와 내부 MOAB에 강한
+        피해와 기절을 동시에 줍니다.
+    -   `Bloon Dissolver` 업그레이드를 한 Glue Gunner로 속도를 늦춰, 다른 타워가
+        오래 공격할 수 있게 합니다.
+    -   주 화력 담당으로 `Sun God` Super Monkey를 준비해 BFB와 쏟아져 나오는
+        하위 블룬들을 빠르게 정리합니다.
+    -   위기 상황에는 Spike Factory의 `Spike Storm` 능력을 사용해, 출구 근처를
+        가시로 뒤덮어 마지막 방어선을 구축할 수 있습니다.
 
--   **Select & Place Tower:** Click a tower from the right-hand panel. If it is unlocked and you have enough money, you can place it on the map by clicking again.
--   **Upgrade Tower:** Click an existing tower on the map. Its upgrade panel will appear. Click on one of the two paths to purchase upgrades. Remember that buying a tier 3 or 4 upgrade on one path will lock the other path.
--   **Hotkeys:** Use the corresponding hotkeys (displayed on the tower icons) to select towers quickly. The spacebar starts rounds, and fast forward speeds up the game.
--   **Consumables:** Click the Road Spikes or Glue Puddle icon at the bottom and then click on the track to place them.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+조작 방식은 클래식한 포인트 앤 클릭 인터페이스입니다.
 
-**1. Why can't I buy a certain tower or upgrade?**
-> In Bloons TD 4, most towers and all tier 3 and 4 upgrades must be unlocked by increasing your player rank. Play more games to earn XP and you will eventually unlock everything.
+-   **타워 선택 및 배치:** 우측 패널에서 타워 아이콘을 클릭합니다. 잠금이
+    풀려 있고 돈이 충분하다면, 맵 위의 설치 가능한 위치를 다시 클릭해 배치할
+    수 있습니다.
+-   **타워 업그레이드:** 맵에 있는 타워를 클릭하면 두 개의 업그레이드 경로가
+    표시된 패널이 나타납니다. 원하는 경로의 업그레이드를 순서대로 구매할 수
+    있지만, 한쪽에 3티어 또는 4티어 업그레이드를 적용하면 다른 한쪽 최종
+    경로는 더 이상 선택할 수 없습니다.
+-   **단축키:** 타워 아이콘에 표시된 단축키를 눌러 빠르게 선택할 수 있습니다.
+    스페이스바로 라운드를 시작하고, 빠른 진행 버튼으로 게임 속도를 높일 수
+    있습니다.
+-   **소모형 아이템 사용:** 화면 하단의 Road Spikes 또는 Glue Puddle 아이콘을
+    클릭한 뒤, 길 위를 클릭하면 해당 위치에 일회성 방어 장치를 설치할 수
+    있습니다.
 
-**2. How do I pop Camo Bloons?**
-> You need towers with camo detection. This includes Dart Monkeys with the `Enhanced Eyesight` (2/2) upgrade, Mortar Towers with the `Signal Flare` (x/3) upgrade, or Spike Factories with the `Bigger Stacks` (1/x) upgrade.
+### 자주 묻는 질문 (FAQ)
 
-**3. What's the difference between the blue MOAB and the red BFB?**
-> The BFB (Brutal Flying Behemoth) is much stronger and more durable than the MOAB. When a BFB is popped, it releases four MOABs.
+**1. 어떤 타워나 업그레이드를 아예 살 수가 없어요. 왜 그런가요?**  
+> Bloons TD 4에서는 대부분의 타워와 모든 3·4티어 업그레이드가 플레이어 랭크에
+> 묶여 있습니다. 게임을 많이 플레이해 경험치(XP)를 쌓고 랭크를 올리면 언젠가
+> 모든 콘텐츠가 해금됩니다.
 
-**4. Can I buy all the upgrades for one monkey?**
-> No. This is the biggest change in BTD4. You can only choose one of the two final upgrade paths for each tower. For example, you can get a Super Monkey's `Sun God` (2/x) OR `Robo-Monkey` (x/2), but not both on the same tower.
+**2. Camo Bloon은 어떻게 터뜨리나요?**  
+> 카모 탐지 능력이 있는 타워가 필요합니다. 대표적으로 `Enhanced Eyesight`
+> (2/2) 업그레이드를 한 Dart Monkey, `Signal Flare`(x/3)를 장착한 Mortar Tower,
+> `Bigger Stacks`(1/x) 업그레이드를 한 Spike Factory 등이 카모 블룬을
+> 공격할 수 있습니다.
 
-**5. What is Apopalypse Mode?**
-> It's a special game mode where Bloons come in continuous, overlapping waves without any breaks between rounds. You don't earn money at the end of rounds, only from popping Bloons, making it very challenging.
+**3. 파란 MOAB와 빨간 BFB의 차이는 무엇인가요?**  
+> BFB(Brutal Flying Behemoth)는 MOAB보다 훨씬 더 튼튼하고 체력이 높습니다.
+> BFB를 터뜨리면 내부에서 MOAB 네 대가 한꺼번에 튀어나오므로, 이후 물량까지
+> 처리할 수 있는 방어선을 준비해야 합니다.
 
+**4. 한 타워에 모든 업그레이드를 다 살 수는 없나요?**  
+> 없습니다. 이것이 BTD4의 가장 큰 변화입니다. 각 타워는 두 개의 최종 경로
+> 중 하나만 선택할 수 있습니다. 예를 들어 Super Monkey의 `Sun God`(2/x)과
+> `Robo-Monkey`(x/2)는 같은 타워에 동시에 적용할 수 없습니다.
+
+**5. Apopalypse 모드는 무엇인가요?**  
+> Apopalypse는 라운드 구분 없이 블룬이 끊임없이 이어져 나오는 특수 모드입니다.
+> 라운드 종료 보너스 돈이 없고, 블룬을 터뜨려서 얻는 돈만으로 버텨야 하기
+> 때문에 난이도가 매우 높은 편입니다.

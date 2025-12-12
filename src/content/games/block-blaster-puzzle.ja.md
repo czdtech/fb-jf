@@ -1,85 +1,55 @@
 ---
+title: "Block Blaster Puzzle ブロック・ブラスター・パズル"
+description: "「Block Blaster Puzzle」で脳トレ！ブロックを隙間なく配置し、ラインを揃えて爆破しよう。戦略的な配置とスペース管理が鍵となる爽快パズルゲーム。"
+iframeSrc: "https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/"
+thumbnail: "/new-images/block-blaster-puzzle.png"
+urlstr: "block-blaster-puzzle"
+score: "3.9/5  (1748 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: block-blaster-puzzle
-title: '[JA TRANSLATION NEEDED] Block Blaster Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Block Blaster Puzzle blends block‑fitting with clears
-  — slot shapes, set up multi‑line blasts, and keep the board breathable.
-iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
-thumbnail: /new-images/block-blaster-puzzle.png
-tags:
-  - puzzle
-  - thinky
-score: 3.9/5  (1748 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Block Blaster Puzzle（ブロック・ブラスター・パズル）*は、シンプルで夢中になれるブロック配置ゲームです。テトリスのように降ってくるのではなく、手持ちの異なる形のブロックセットをグリッド（盤面）の好きな場所にドラッグしてはめ込んでいきます。縦または横の一列を隙間なく埋めると、そのラインが爆発して消え、スペースが空きます。
 
-[JA TRANSLATION NEEDED] Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You’re given sets of pieces to fit onto a grid; completing rows or regions clears space. Success relies on shaping the board to accept awkward pieces later, staging multi‑line clears, and avoiding sealed cavities that cannot be filled.
+このゲームの要は「スペース管理」です。後から出てくる扱いにくい大きなブロックや奇妙な形のブロックを受け入れるために、常に盤面をきれいに整えておく必要があります。手詰まりにならないように、複数ライン同時消しなどを駆使してハイスコアを目指しましょう。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  Edge hygiene: Keep borders smooth to reduce isolated single cells.
-[JA TRANSLATION NEEDED] 2.  Reserve sockets: Leave a few 2×2 or 3‑cell pockets for common awkward pieces.
-[JA TRANSLATION NEEDED] 3.  Multi‑line setups: Build toward double/triple clears to refresh space quickly.
-[JA TRANSLATION NEEDED] 4.  Avoid tall wells: Don’t dig narrow vertical shafts you can’t fill later.
-[JA TRANSLATION NEEDED] 5.  Piece triage: Place the hardest piece first when the board gets crowded.
-[JA TRANSLATION NEEDED] 6.  Use previews: If next pieces are visible, plan sequences instead of single moves.
+1.  **端をきれいに埋める：** 盤面の端がデコボコしていると、孤立した1マス（単独セル）ができやすく、そこを埋めるのが非常に難しくなります。できるだけ平らな状態を保ちましょう。
+2.  **大きな穴を残す：** よく出てくる正方形（2×2）や3マスのブロックがいつでも置けるように、広いスペース（ポケット）をいくつか確保しておきましょう。
+3.  **マルチ消しを狙う：** 1列ずつちまちま消すよりも、ブロックを積み上げて一気に2列、3列同時に消す方が効率的にスペースを空けられますし、スコアも高くなります。
+4.  **深い穴を掘らない：** 後で埋めにくいような、深くて狭い「井戸」のような隙間を作らないように注意してください。縦長の棒（I字型）が来ないと埋められず、死にスペースになります。
+5.  **難しい形を最初に：** 3つの手持ちブロックの中に大きくて置きにくい形がある場合、盤面が埋まってしまう前に最優先でそれを処理しましょう。
+6.  **先読みする：** 次に来るブロックが見えているバージョンなら、場当たり的に置くのではなく、次の手まで計算して配置しましょう。
 
-### Controls Guide
+### 操作ガイド
 
-- Drag shapes onto the grid; rotate if supported by tapping or a rotate button.
-- Undo/Reset are helpful for greedy placements gone wrong.
+*   **配置：** 画面下のブロックをドラッグして、グリッド上の置きたい場所でドロップします。
+*   **回転：** 一部のバージョンではタップやボタン操作でブロックを回転させることができます。
+*   **機能：** 配置ミスをした時のために、アンドゥ（一手戻る）やリセット機能がある場合は活用しましょう。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-- Q: I always run out of space—how can I last longer?
-  
-[JA TRANSLATION NEEDED]   A: Focus on multi‑line clears and keep a couple of flexible pockets open. Place your hardest piece first when the grid is tight.
+*   **Q: すぐに置ける場所がなくなってゲームオーバーになります。コツは？**
 
-- Q: Should I keep the board center open or fill edges first?
-  
-[JA TRANSLATION NEEDED]   A: Keep the center breathable and tidy edges gradually; the center gives the most flexibility for odd shapes.
+    A: 常に2×2や3マスのポケットを中央付近に残し、複数列同時消しで一気にスペースを空けましょう。盤面が窮屈なときは、処理の難しいブロックから優先して置きます。
 
-- Q: Rotations feel limited—any workaround?
-  
-[JA TRANSLATION NEEDED]   A: Not all variants allow rotation. Prioritize symmetric placements and leave pockets to accommodate rigid pieces.
+*   **Q: 真ん中から埋めるべき？端から埋めるべき？**
 
-- Q: Are there levels or endless score chase?
-  
+    A: 中央を「呼吸スペース」として残し、端をゆっくり整えるのが定石です。中央が空いていれば奇妙な形のピースにも柔軟に対応できます。
 
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Many builds are endless; some offer level goals. Either way, board management is the key skill.
+*   **Q: 回転できないのですか？**
 
-- Q: When should I use undo?
-  
+    A: バージョンによっては回転不可です。その場合は左右対称な配置を意識し、どの向きでも入るポケットを作っておくと詰まりにくくなります。
 
+*   **Q: レベル制とエンドレス、どちらですか？**
 
+    A: 多くは無限スコア形式ですが、ステージクリア型も存在します。どちらでも盤面管理が上達の鍵です。
 
-- Q: I always run out of space—how can I last longer?
-### よくある質問（FAQ）
-- Undo/Reset are helpful for greedy placements gone wrong.
-[JA TRANSLATION NEEDED]   A: Undo early when you notice a placement creates sealed cavities or removes your last flexible pocket.
+*   **Q: アンドゥはいつ使うべき？**
 
-
-
-
-
-
-
-
-
-
-A: Undo early when you notice a placement creates sealed cavities or removes your last flexible pocket.
-- Q: When should I use undo?
-A: Many builds are endless; some offer level goals. Either way, board management is the key skill.
-- Q: Are there levels or endless score chase?
-A: Not all variants allow rotation. Prioritize symmetric placements and leave pockets to accommodate rigid pieces.
-- Q: Rotations feel limited—any workaround?
-A: Keep the center breathable and tidy edges gradually; the center gives the most flexibility for odd shapes.
-- Q: Should I keep the board center open or fill edges first?
-
-
-A: Undo early when you notice a placement creates sealed cavities or removes your last flexible pocket.
+    A: 最初に「やばい」と感じた時点ですぐ戻すのが鉄則です。完全に詰む前に密閉スペースを作ってしまった置き方を取り消しましょう。

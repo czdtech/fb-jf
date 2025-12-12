@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: block-dimension
-title: '[KO] Block Dimension'
+title: 'Block Dimension 블록 디멘션'
 description: >-
-  [KO] Enter the Block Dimension, a 3D puzzle game that will challenge your
-  spatial awareness. Rotate the structure and fit the blocks perfectly.
+  Block Dimension은 10×10 격자에서 블록을 배치해 줄을 지우는 퍼즐 게임입니다.
+  다양한 모양의 블록을 전략적으로 배치해 공간을 관리하며 높은 점수를 노려
+  보세요.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/block-dimension.png
 tags:
@@ -15,34 +16,28 @@ score: 3.8/5  (1432 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Block Dimension은 클래식 블록 맞추기 퍼즐을 현대적으로 재해석한 작품입니다. 10×10 보드에 다양한 모양의 블록을 배치해 가로줄이나 세로줄을 완전히 채우면 줄이 지워지고 점수가 오르며, 연속 콤보를 만들수록 더 큰 보너스를 얻습니다. 세 블록 중 어느 것도 둘 수 없는 순간 게임이 종료되므로, 공간 관리와 장기적인 설계가 핵심입니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **세 블록 모두를 고려하기:** 동시에 주어지는 세 조각이 모두 들어갈 자리가 있는지 먼저 확인한 뒤, 첫 수를 결정하세요. 한 조각만 보고 두면 다음 조각이 막힐 위험이 큽니다.
+2.  **보드를 평평하게 유지:** 중앙에 애매한 1칸 구멍을 만들지 말고, 항상 넓고 평평한 면을 유지해야 이후 조각을 넣기 쉽습니다.
+3.  **콤보를 노리기:** 가로·세로가 교차하는 포인트를 만들어 한 번에 두 줄 이상을 지우면 점수와 공간을 동시에 확보할 수 있습니다.
+4.  **천천히 판단하기:** 시간 제한이 없으니 서두르지 말고 최적의 위치를 찾으세요. 서툰 한 수가 곧장 게임 종료로 이어질 수 있습니다.
+5.  **큰 조각 먼저 처리:** 3×3 정사각형이나 긴 막대처럼 부피가 큰 조각은 들어갈 자리가 제한적이니, 기회가 보일 때 미리 배치해 두세요.
 
-Block Dimension is a captivating puzzle game that takes the classic block-fitting formula into a new dimension. Played on a 10x10 grid, the game challenges you to strategically place blocks of various shapes to clear lines both horizontally and vertically. Unlike traditional block puzzlers, Block Dimension often introduces unique twists and a sleek, modern aesthetic. The goal is to score as many points as possible by clearing lines and creating combos before you run out of space on the board.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+-   **드래그 앤 드롭:** 화면 하단의 블록을 클릭/터치해 잡은 뒤 10×10 격자로 끌어 올립니다.
+-   **배치 확정:** 칸이 하이라이트될 때 손을 떼면 해당 위치에 고정됩니다.
 
-1.  **[KO]** **Think Ahead:** You are typically shown three block shapes at a time. Before placing the first one, visualize how all three could potentially fit on the board. Good planning is key to long-term survival.
-2.  **[KO]** **Keep the Board Open:** Avoid creating single, isolated holes in your structure, as they can be very difficult to fill later. Try to keep your stacks relatively flat and open.
-3.  **[KO]** **Aim for Combos:** The most effective way to get a high score is by clearing multiple lines (rows or columns) with a single piece. Look for opportunities to set up these chain reactions.
-4.  **[KO]** **Don't Rush:** There is no time limit, so take your time to find the optimal placement for each piece. A single bad move can quickly lead to a game over.
-5.  **[KO]** **Manage Large Pieces:** Be mindful of the large, awkward pieces like the 3x3 square. If you don't have a good spot for them, they can quickly clog up your board.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
-
-*   **[KO]** **Drag and Drop:** Use your mouse to select a block from the holding area and drag it onto the 10x10 grid.
-*   **[KO]** **Place Block:** Release the mouse button to place the block in the highlighted position.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[KO]** **Q: Can I rotate the blocks?**
-    *   **[KO]** **A:** In most 10x10 style block games, including this one, you cannot rotate the blocks. You must use them in the orientation provided, which is a core part of the challenge.
-
-*   **[KO]** **Q: How do I clear lines?**
-    *   **[KO]** **A:** A line is cleared when all 10 cells in a horizontal row or a vertical column are filled with blocks. All blocks in that line then disappear, freeing up space.
-
-*   **[KO]** **Q: What is the best strategy for a high score?**
-    *   **[KO]** **A:** Focus on creating and clearing multiple lines at once. This combo-play gives you significantly more points than clearing single lines. Also, try to play for as long as possible without running out of moves.
-
+-   **블록을 회전할 수 있나요?**  
+    -   **A:** 불가능합니다. 주어진 방향 그대로 배치해야 하며, 이것이 퍼즐의 난이도를 형성합니다.
+-   **줄은 어떻게 지워지나요?**  
+    -   **A:** 가로 혹은 세로 한 줄의 10칸이 모두 채워지면 그 줄이 통째로 삭제되어 공간이 생깁니다.
+-   **고득점을 위한 핵심 전략은?**  
+    -   **A:** 한 번에 여러 줄을 지우는 콤보를 꾸준히 만들고, 보드를 깔끔하게 유지해 가능한 한 오랫동안 버티는 것입니다.

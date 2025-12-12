@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: mad-honey
-title: '[DE] Mad Honey'
+title: "Mad Honey"
 description: >-
-  [DE] Mad Honey is a bite‑size arcade adventure — collect nectar, dodge
-  hazards, and return safely to the hive.
+  Mad Honey ist ein kleines Arcade-Abenteuer: Sammle Nektar, weiche Gefahren
+  aus und bring deine Beute sicher in den Bienenstock zurück.
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/mad-honey.png
 tags:
@@ -15,30 +15,54 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Mad Honey ist ein kurzes, schnell spielbares Abenteuer rund um das Sammeln von
+Nektar. Du steuerst eine Biene durch kleine Level, weichst einfachen Gegnern
+und Umweltgefahren aus und kehrst mit voller Ladung zurück in den Stock, um
+Punkte zu sichern. Der Fokus liegt auf sauberen Flugrouten, gut getimten
+Durchflügen durch Patrouillen und sicheren Rückwegen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Routen planen**  
+    Schau dir vor dem Start an, wo Nektar-Cluster und Gegnerpatrouillen liegen,
+    und lege eine grobe Sammelroute fest.
 
-Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar while avoiding simple enemies and environmental hazards. Levels emphasize careful flight paths, timing through patrols, and safe returns to score.
+2.  **Feine Korrekturen statt hektischem Steuern**  
+    Steuere mit kleinen Bewegungen, um durch enge Lücken zu fliegen, ohne zu
+    übersteuern.
 
-### Gameplay Strategy & Walkthrough
+3.  **Gefährliche Bereiche auf zwei Anläufe aufteilen**  
+    Sammle riskant liegende Nektarpunkte lieber in zwei Wellen ein, statt alles
+    in einem waghalsigen Manöver zu versuchen.
 
-1.  **[DE]** Plot routes: Identify nectar clusters and patrol paths before committing.
-2.  **[DE]** Small corrections: Feather movement to thread narrow gaps without oversteering.
-3.  **[DE]** Stagger pickups: Clear risky clusters in two passes if needed.
-4.  **[DE]** Watch timers: Deposit nectar regularly if a timer or carry limit exists.
-5.  **[DE]** Risk vs. reward: Skip tight pickups when low on time or health.
+4.  **Timer und Traglast beachten**  
+    Wenn es Zeitlimits oder Begrenzungen für die Nektarmenge gibt, solltest du
+    regelmäßig zum Stock zurückkehren, statt zu gierig zu werden.
 
-### Controls Guide
+5.  **Risiko gegen Belohnung abwägen**  
+    Verzichte auf extrem enge Sammelpunkte, wenn du wenig Lebenspunkte oder
+    kaum Zeit übrig hast – ein sicherer Abschluss zählt mehr als ein einzelner
+    Bonus.
 
-- Move: Arrow keys / WASD or analog drag.
-- Interact: Automatic pickups on contact.
-- Retry: Quick restart for clean runs.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+- **Bewegung:** Mit Pfeiltasten/WASD oder per Drag-Steuerung.  
+- **Interaktion:** Nektar wird beim Kontakt automatisch eingesammelt.  
+- **Neustart:** Viele Versionen bieten einen schnellen Neustart für saubere
+  Durchläufe.
 
-- Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
-- Is there scoring depth? Longer chains and clean returns typically grant bonuses.
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
+### FAQ
 
+- **F: Gegner wirken unfair – was hilft?**  
+  **A:** Lerne ihre Patrouillenrouten kennen und warte auf saubere
+  Zeitfenster, statt dich in knappe Lücken zu zwängen.
+
+- **F: Gibt es Tiefgang beim Scoring?**  
+  **A:** Häufig bringen längere Sammelketten ohne Treffer und sichere
+  Rückflüge Bonuspunkte.
+
+- **F: Kann ich Treffer einfach „tanken“?**  
+  **A:** In vielen Modi werden Lebenspunkte hart bestraft. Priorisiere deswegen
+  immer das Überleben gegenüber einzelnen Nektarpunkten.

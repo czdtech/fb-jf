@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: minesweeper-mania
-title: '[ZH TRANSLATION NEEDED] Minesweeper Mania'
+title: "《Minesweeper Mania》进阶扫雷狂热"
 description: >-
-  [ZH TRANSLATION NEEDED] The classic logic puzzle, reimagined! Use number clues
-  to locate all the hidden mines on the board. With multiple difficulty levels,
-  it's the ultimate test of deduction.
+  《Minesweeper Mania》是在经典扫雷基础上打磨升级的版本，提供多种难度与精致界面，通过数字提示逻辑推理出所有地雷位置，是检验推理能力的绝佳挑战。
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/minesweeper-mania.png
 tags:
@@ -17,30 +15,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Minesweeper Mania is a polished version of the timeless single-player logic puzzle, Minesweeper. The objective is to clear a rectangular grid containing hidden mines without detonating any of them. You must use the number clues revealed on the board to deduce where the mines are. Each number tells you how many mines are in the eight adjacent squares. This version offers multiple difficulty levels, providing a fresh challenge for both new players and seasoned veterans.
+《Minesweeper Mania》是对经典单人逻辑游戏扫雷的精致重制版。在这款游戏中，你依旧要在地雷暗藏的矩形棋盘上小心行动：借助数字提示推理地雷的确切位置，在不点爆任何地雷的前提下，完成整块棋盘的翻开。每一个数字都表示它周围八格中地雷的数量，这个版本还提供多个难度选择，让新手可以从容易模式入门，老玩家则能挑战大棋盘高密度的硬核级别。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The First Click is Free:** Your first click in any game is always safe and will never be a mine. A good start is to click a few times in the corners and center to open up the board.
-2.  [ZH TRANSLATION NEEDED] **Learn the Patterns:** The core of Minesweeper is recognizing patterns. If a square says "1" and there is only one unopened square next to it, that square must be a mine. Flag it!
-3.  [ZH TRANSLATION NEEDED] **Use Flags:** When you are certain a square contains a mine, right-click to flag it. This is crucial for keeping track of information and preventing accidental clicks on known mines.
-4.  [ZH TRANSLATION NEEDED] **Chord-Clicking for Speed:** Once a numbered square is touching the correct number of flagged mines, you can click on the number itself (often a middle-click or left+right click) to automatically clear all other remaining adjacent squares. This is the fastest way to clear large safe areas.
-5.  [ZH TRANSLATION NEEDED] **Process of Elimination:** If you can't find a definite safe square, use logic to eliminate possibilities. Ask yourself, "If this square were a mine, would it make sense with the numbers around it?" This can help you deduce safe squares to click.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **首次点击永不踩雷：** 在大多数难度下，第一下点击不会是地雷，且通常会展开一小片安全区域。可以在角落与中央各点几次，帮助快速打开局面。
+2.  **熟悉常见数字模式：** 扫雷的核心是看懂数字模式。比如“1”旁边只有一格未翻，那一格必是雷；“1-2-1”的形状则往往意味着两侧相邻格是雷，中间靠外那格是安全的。
+3.  **善用旗子标记：** 当你完全确定某格是地雷时，用右键插旗标记，既能减少误点，又能帮助你更直观地观察周围数字与未知格之间的关系。
+4.  **连按快速清理：** 当某个数字格周围插旗数已经等于该数字时，可以在该数字格上进行“连按”（通常是中键或左右键同时点击），系统会自动翻开其余邻近未翻格，这在后期清理大面积安全区域时尤其高效。
+5.  **排除法处理疑难局面：** 遇到看似没有确定解的局面时，可以假设某格是雷或非雷，代入周围数字检验是否自洽；若某种假设会导致矛盾，则反向结论往往成立。这样可以尽量减少纯概率猜测。
 
-*   **Reveal a Square:** Left-click on a covered square.
-*   **Flag a Square:** Right-click on a covered square to place or remove a flag.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **翻开格子：** 左键点击未翻格。
+*   **插旗/去旗：** 右键点击未翻格以插旗，再右键一次可移除旗子。
 
-*   **Q: What do the numbers mean?**
-     *   **A:** A number on a square indicates the exact number of mines in the eight squares immediately surrounding it (horizontally, vertically, and diagonally).
+### 常见问题（FAQ）
 
-*   **Q: What happens if I click on a mine?**
-     *   **A:** The game ends immediately in a loss.
+*   **问：格子上的数字到底意味着什么？**
+    *   **答：** 任意数字格都表示它周围（横向、纵向与对角线）八个相邻格里，一共潜伏着多少枚地雷。
 
-*   **Q: Do I have to use flags?**
-     *   **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
+*   **问：点中地雷之后会怎样？**
+    *   **答：** 一旦点到地雷，本局立即失败，系统通常会亮出全部地雷位置，方便你回顾之前的判断哪里出了问题。
 
+*   **问：一定要插旗才能获胜吗？**
+    *   **答：** 并不是。插旗只是帮你“记号地雷”的辅助功能，真正的获胜条件是：把所有不是地雷的格子全部翻开。你即使一面旗都不插，只要安全格全部揭开，照样通关。

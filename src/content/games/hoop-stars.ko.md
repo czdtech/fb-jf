@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: hoop-stars
-title: '[KO] Hoop Stars'
+title: "Hoop Stars 훕 스타즈 링 뒤집기"
 description: >-
-  [KO] Hoop Stars is a ring‑flip skill game — spin, time flips, and drop rings
-  cleanly over pegs before your rival does.
+  링을 회전시키고 뒤집어 말뚝 위에 정확히 걸어야 하는 실력 게임입니다.
+  각도를 잡고 타이밍을 맞춰 링을 깨끗하게 꽂아 넣어, 상대보다 먼저 득점하세요.
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/hoop-stars.png
 tags:
@@ -18,33 +18,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Hoop Stars is a rapid ring‑flip contest. You rotate a ring around a central peg and flip it to land past obstacles. Clean flips that settle over the peg score; misses costs time. Duels reward consistent timing and smart angle setups more than raw speed.
+`Hoop Stars`는 링을 중심 말뚝 주위로 회전시켰다가 뒤집어 던져, 장애물을 넘어
+정확히 말뚝 위에 걸어야 점수를 얻는 빠른 템포의 대전 게임입니다. 링이
+깔끔하게 말뚝을 통과해 안정적으로 걸리면 득점되며, 빗맞거나 튕겨 나가면
+시간만 낭비하게 됩니다. 승부의 핵심은 무작정 빠르게 누르는 것이 아니라,
+각도와 회전 속도를 미리 세팅한 뒤 정확한 타이밍에 릴리즈하는 꾸준한
+컨트롤입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** Pre‑spin: Rotate to a comfortable angle before flipping.
-2.  **[KO]** Early/late windows: Learn how early vs late flips change arc height.
-3.  **[KO]** Obstacle reads: Wait half a cycle for gaps; don’t force throws.
-4.  **[KO]** Mind rebounds: If a ring bounces, don’t re‑flip into chaos — reset.
-5.  **[KO]** PvP: Bait opponents by faking flips, then land a clean one.
+1. **사전 회전(Pre‑spin)**  
+   던지기 전에 링을 자신이 다루기 편한 각도까지 미리 돌려 두세요. 그러면
+   릴리즈 타이밍만 신경 쓰면 되기 때문에 성공률이 올라갑니다.
 
-### Controls Guide
+2. **이른/늦은 릴리즈 차이 이해하기**  
+   버튼을 조금 일찍 떼느냐, 늦게 떼느냐에 따라 포물선 높이가 크게 달라집니다.
+   여러 번 시도해 보며 자신에게 맞는 기준 타이밍을 찾는 것이 좋습니다.
 
-- Hold to spin; release to flip; some builds use two buttons for spin vs flip.
+3. **장애물 패턴 읽기**  
+   링이 지나가야 할 통로에 움직이는 장애물이 있다면, 반 바퀴 정도 기다려
+   빈 공간이 생길 때까지 기다렸다가 던지는 것이 안전합니다. 억지로
+   던지면 연속 실패로 이어집니다.
 
-### Frequently Asked Questions (FAQ)
+4. **리바운드 관리**  
+   링이 말뚝이나 벽에 맞고 튕겼을 때, 바로 다시 뒤집기를 시도하면 상황이
+   더 엉망이 되기 쉽습니다. 이럴 때는 한 번 자세를 리셋하고 다시 각도부터
+   잡는 편이 낫습니다.
 
-- Q: My flips always rim out — fix?
+5. **PvP에서 심리전 활용**  
+   멀티플레이에서는 던질 것처럼 회전만 하다가 멈추거나, 가짜 모션으로
+   상대의 타이밍을 흔든 뒤 자신은 안정적인 각도에서 던지는 식의 심리전도
+   가능합니다.
 
-A: Adjust release timing earlier/later and reduce pre‑spin speed for steadier arcs.
+### 조작 방법
 
-- Q: Is button mashing viable?
+- 버튼을 길게 눌러 링을 회전시키고, 손을 떼면 링이 뒤집히며 날아갑니다.
+- 일부 빌드에서는 회전과 플립을 나누는 두 개의 버튼을 사용하는 경우도
+  있습니다.
 
-A: Not really — consistent setups beat spam.
+### 자주 묻는 질문(FAQ)
 
-- Q: Local multiplayer?
+- Q: 링이 자꾸 림만 치고 안 들어갑니다. 어떻게 해야 하나요?  
+  A: 회전 속도를 조금 줄여 포물선을 안정시키고, 릴리즈 타이밍을 지금보다
+  약간 이르거나 늦게 조정해 보세요.
 
-A: Often available with mirrored controls.
+- Q: 버튼 연타로도 어떻게든 되지 않나요?  
+  A: 거의 통하지 않습니다. 이 게임은 일정한 세팅과 반복 가능한 타이밍이
+  훨씬 더 중요합니다.
 
+- Q: 로컬 멀티플레이가 되나요?  
+  A: 많은 버전에서 좌우 반전된 같은 조작 체계를 이용해 한 기기에서 2인
+  플레이를 지원합니다.

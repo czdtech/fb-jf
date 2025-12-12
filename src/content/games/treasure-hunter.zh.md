@@ -1,19 +1,41 @@
 ---
 locale: zh
 urlstr: treasure-hunter
-title: '[ZH TRANSLATION NEEDED] Treasure Hunter'
-description: >-
-  [ZH TRANSLATION NEEDED] Embark on an exciting quest in Treasure Hunter!
-  Explore ancient ruins, mysterious caves, and hidden jungles in search of
-  legendary artifacts and glittering gold. Overcome traps, solve puzzles, and
-  outwit rivals to claim your fortune in this thrilling adventure game.
-iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
+title: 《Treasure Hunter》古墓寻宝者
+description: 《Treasure Hunter》是一款以探险寻宝为主题的动作/解谜游戏。你将深入古遗迹、神秘洞穴和丛林废墟，寻找传说中的宝物并躲避机关与竞争对手。
+iframeSrc: 'https://treasurehunter.h5games.usercontent.goog/v/4d7n3c1b9k2p0/'
 thumbnail: /new-images/treasure-hunter.jpg
 tags:
   - adventure
-  - exploration
-  - collecting
-score: 4.6/5  (1294 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - puzzle
+  - action
+score: 3.9/5  (1600 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
+
+
+### 详细游戏介绍
+
+在《Treasure Hunter》中，你扮演一位只身深入险境的寻宝猎人。每一处遗迹和洞穴都布满陷阱、机关和谜题：有的是落地即触发的石板，有的是需要按特定顺序触动的石像，也有需要解码古老铭文才能开启的秘门。一路上还可能遇到其他觊觎宝藏的对手，你必须比他们更快一步破解机关并拿下宝物。
+
+### 游玩策略与探险指引
+
+1.  **观察环境细节：** 墙壁上的浮雕、地面的裂缝或微微突起的石块，都可能暗示某个机关或暗门的位置。
+2.  **谨慎前进：** 不要盲目冲刺，先用小范围走动测试是否会触发陷阱，再决定是否继续深入。
+3.  **善用道具：** 火把、绳索、钩爪或炸药等道具都可能在关键时刻派上用场，合理分配使用次数。
+4.  **记住路线与标记：** 复杂遗迹往往有多条岔路，建议在心里或纸上简单记下关键分叉点，避免迷路。
+
+### 操作说明
+
+*   **移动与跳跃：** 使用方向键或 WASD 控制移动，空格或指定按键进行跳跃；
+*   **互动：** 在机关、箱子或遗物旁按互动键进行查看或触发；
+*   **道具使用：** 根据 UI 提示切换与使用不同道具。
+
+### 常见问题解答（FAQ）
+
+**问：被陷阱击中会怎样？****
+答：** 视关卡设定，可能会损失生命值、从检查点重来或直接失败，需要重新规划路线。
+
+**问：游戏更偏动作还是解谜？****
+答：** 两者都有，既需要一定操作基础，也要仔细观察线索、推理机关逻辑。
 

@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: futoshiki
-title: '[ZH TRANSLATION NEEDED] Futoshiki'
+title: "Futoshiki 不等式數獨"
 description: >-
-  [ZH TRANSLATION NEEDED] Futoshiki sharpens logic — place digits with
-  row/column uniqueness while honoring inequality signs for elegant deductions.
+  Futoshiki 是一種強化邏輯的拉丁方格謎題——在保證每行每列數字不重複的前提下，
+  還必須滿足格子間的「大於／小於」不等式，利用這些約束做出優雅推理。
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/futoshiki.jpg
 tags:
@@ -18,30 +18,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Futoshiki ("not equal") is a Latin‑square logic puzzle like Sudoku but with inequality signs (>, <) between neighboring cells. You must place digits so each row/column contains all numbers exactly once and every inequality is satisfied. The signs create strong chains that power elegant deductions.
+Futoshiki（源自日文「不等」之意）是一種類似數獨的拉丁方格邏輯遊戲，但在部分相鄰格子之間
+加入了「>、<」不等式。你必須在盤面中填入數字，使得每一行、每一列都恰好包含 1～N 各一次，
+同時保證所有不等號關係都被滿足。這些不等式會串成一條條約束鏈，給推理解題帶來更多切入點。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Inequality chains: A>B>C means A≥C+2; pencil candidates accordingly.
-2.  [ZH TRANSLATION NEEDED] Extremes: A>…>B bounds A high and B low; use 1/Max eliminations on chain ends.
-3.  [ZH TRANSLATION NEEDED] Row/column scans: Apply Latin constraints to prune candidates aggressively.
-4.  [ZH TRANSLATION NEEDED] Contradiction loops: Assume a value on tight cells; backtrack if an inequality breaks or row/col duplicates.
-5.  [ZH TRANSLATION NEEDED] Symmetry: Balanced puzzles often have mirrored inequality structures — exploit them.
+
+1.  **利用不等式鏈：** 若有一串 A > B > C 的關係，代表 A 至少比 C 大 2，
+    可以在草稿中限制候選數字範圍，減少可能性。
+2.  **關注極值：** 鏈條兩端的格子（例如 A > … > B）通常能被推到極高或極低，
+    可以優先考慮是否只能是 1 或最大值，從而進一步刪除其他格子的候選數字。
+3.  **行／列掃描：** 像數獨一樣，利用每行每列不能重複的規則積極剔除候選數，
+    再與不等式約束結合會更有威力。
+4.  **假設與排除：** 若盤面陷入膠著，可以在某個受約束嚴格的格子上做受控假設，
+    沿著推理線走下去，一旦發現違反不等式或行列重複，就可回溯並排除該候選。
+5.  **利用對稱性：** 許多設計良好的題目在不等式布置上具有左右或上下對稱，
+    觀察這些結構有時能快速複製一邊的推理到另一邊。
 
 ### Controls Guide
 
-- Tap a cell to enter candidates/values; toggle pencil mode; undo/redo.
+- 點擊格子即可輸入最終數字或候選數；
+- 可切換「草稿模式」在格子中標記多個候選；
+- 支援復原／重做，方便嘗試不同推理路線。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I can’t progress — any tip?
-  
-[ZH TRANSLATION NEEDED]   A: Expand inequality chains into explicit bounds (e.g., if 5>□>3 then middle ∈ {4}); combine with row/col hits.
+- 問：卡住完全推不動怎麼辦？  
+  答：試著把不等式鏈轉換成更明確的範圍，例如若 5 > □ > 3，
+  那中間格子只能是 4。再結合行列中已有的數字，常常就能打開局面。
 
-- Q: Are guesses required?
-  
-[ZH TRANSLATION NEEDED]   A: Good sets are solvable logically; at worst use controlled assumptions with quick backtrack.
+- 問：這遊戲需要「猜」嗎？  
+  答：設計良好的題目通常可以完全靠邏輯解出；即使需要假設，也建議在少數關鍵格子上做受控假設，
+  一旦推理出現矛盾立即回溯，不要整盤亂猜。
 
-- Q: Difference vs Sudoku?
-  
-[ZH TRANSLATION NEEDED]   A: Inequalities add directed constraints, enabling stronger forced moves.
-
+- 問：它跟數獨有什麼差別？  
+  答：Futoshiki 在拉丁方格規則外加入了有方向性的「大於／小於」約束，
+  這些不等式能帶來更強的強制步（forced moves），讓推理解題更具層次感。

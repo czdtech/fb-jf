@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: lollipop-world-match-3
-title: '[ES] Lollipop World : match 3'
+title: 'Lollipop World : match 3'
 description: >-
-  [ES] Lollipop World: Match 3 is a candy puzzler — combine power‑ups, break
-  blockers, and meet scene goals within tight move limits.
+  Lollipop World: Match 3 es un rompecabezas de caramelos: combina potenciadores,
+  rompe bloqueadores y cumple objetivos de cada nivel con un número limitado de
+  movimientos.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/lollipop-world-match-3.jpg
 tags:
@@ -16,35 +17,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Lollipop World es un colorido match‑3 con glaseado, envoltorios y chocolate
+actuando como bloqueadores. Los objetivos van desde alcanzar cierta puntuación
+hasta recoger caramelos concretos o limpiar gelatina. Las combinaciones de
+potenciadores (bomba + línea, caramelos de color que limpian el tablero) son
+esenciales en los tableros más densos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Lollipop World is a colorful match‑3 with frosting, wrappers, and chocolate as blockers. Objectives range from score thresholds to collecting candies and clearing jelly. Power‑up merges (bomb+line, color clears) are essential on dense boards.
+1.  Enfócate en el objetivo: limpia primero bloqueadores y objetos que hay que
+    recolectar antes de perseguir puntos extra.
+2.  Juega desde la parte inferior: trabajar abajo genera caídas en cascada que
+    limpian más casillas gratis.
+3.  Temporiza tus combos: guarda las combinaciones más potentes para los
+    embudos o zonas bloqueadas.
+4.  Evita aislar paredes: procura no dejar colores sellados a lo largo de los
+    bordes del tablero.
+5.  Planifica movimientos: piensa 2–3 jugadas por adelantado para mantener
+    abiertas varias opciones.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Objective focus: Clear blockers/collectibles before chasing points.
-2.  **[ES]** Bottom play: Work low to create cascading clears.
-3.  **[ES]** Combo timing: Save strong merges for choke points.
-4.  **[ES]** Wall isolation: Avoid sealing colors along edges.
-5.  **[ES]** Move planning: Map 2–3 moves to preserve options.
+- Arrastra para intercambiar piezas, toca los potenciadores y usa los botones
+  de pausa/reintento de la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to swap; tap power‑ups; pause/retry via UI.
+- Q: Siempre me quedo sin movimientos, ¿qué puedo hacer?  
+  A: Encadena potenciadores y prioriza los bloqueadores que abren espacio nuevo
+  en el tablero.
 
-### Frequently Asked Questions (FAQ)
+- Q: ¿Cuál es la mejor forma de empezar un nivel?  
+  A: Suele ser buena idea limpiar desde la parte inferior para provocar
+  cascadas.
 
-- Q: I hit move limits — what changes?
-
-A: Chain power‑ups and prioritize blockers that unlock space.
-
-- Q: Best opener?
-
-A: Bottom clears to trigger cascades.
-
-- Q: Are diagonals allowed?
-
-A: Typically no; check mode rules.
+- Q: ¿Se permiten movimientos en diagonal?  
+  A: Normalmente no; revisa las reglas de cada modo de juego.
 

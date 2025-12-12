@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: crazy-balls
-title: '[KO] Crazy Balls'
+title: "Crazy Balls 크레이지 볼즈"
 description: >-
-  [KO] Crazy Balls is a physics arcade — bounce, bank, and blast through
-  obstacle mazes with controlled shots.
+  물리 엔진으로 움직이는 공을 쏘아 장애물 미로를 돌파하는 아케이드 게임
+  Crazy Balls입니다. 각도를 재고 힘을 조절해 튕기기와 벽 맞추기를 활용해 보세요.
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/crazy-balls.png
 tags:
@@ -15,36 +15,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Crazy Balls에서는 각종 장애물로 가득한 스테이지에 공을 발사해 골 지점까지 보내야
+합니다. 벽과 범퍼에 튕겨 나가는 리코쳇, 움직이는 플랫폼, 좁은 통로 등을 활용해
+경로를 만들어야 하며, 각도와 파워를 얼마나 정확하게 조절하느냐에 따라 깔끔한 클리어가
+되기도 하고 완전히 엉망이 되기도 합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Crazy Balls challenges you to send balls through obstacle‑filled stages, leveraging ricochets, bumpers, and moving elements. Precision angles and controlled power separate clean clears from chaotic misses.
+1. **측면 벽을 적극적으로 활용하기**  
+   옆 벽에 공을 맞춰 꺾어 보내면 좁은 통로나 직접 쏘기 어려운 각도도 쉽게 돌파할 수
+   있습니다.  
+2. **중간 정도의 파워 유지**  
+   항상 최대 파워로 쏘면 튕김이 과도해져 경로 예측이 어려워집니다. 안정적으로 반복할 수
+   있는 중간 힘을 기본값으로 두고 상황에 따라 조금만 조절하는 편이 좋습니다.  
+3. **움직이는 장애물 타이밍 재기**  
+   움직이는 벽이나 플랫폼이 지나갈 때까지 한 박자 기다렸다가, 빈 공간이 생기는 타이밍에
+   발사하세요. 섣불리 쏘면 되돌릴 수 없는 각도로 튕겨 나가 버립니다.  
+4. **리바운드 거리 감 익히기**  
+   몇 번 플레이하다 보면 “이 각도에서 이 힘으로 쏘면 어디까지 튕긴다”는 감이 생깁니다.
+   이를 기억해 두면 여러 번 벽을 맞춰 가는 멀티 뱅크 루트도 미리 설계할 수 있습니다.  
+5. **실패한 궤적은 빠르게 리셋**  
+   명백히 잘못된 궤적이라고 느껴지면 시간을 끌지 말고 바로 재시도하세요. 제한 시간이
+   있는 모드라면 특히 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Use side walls to bend trajectories into tight corridors.
-2.  **[KO]** Favor medium power for consistency; max power increases chaos.
-3.  **[KO]** Wait a beat for moving obstacles to create openings.
-4.  **[KO]** Learn rebound distances to plan multi‑bank routes.
-5.  **[KO]** Reset quickly after bad lines to preserve time.
+- 드래그해 조준 각도와 힘을 설정한 뒤 손을 떼면 공이 발사됩니다.  
+- 필요할 때는 화면 UI의 재시작 버튼으로 스테이지를 다시 시작할 수 있습니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Drag to aim and set power; release to shoot.
-- Restart via UI when needed.
+- **Q: 공이 너무 랜덤하게 튀는 것 같아요. 어떻게 제어하죠?**  
+  **A:** 우선 발사 힘을 낮추고, 각도를 단순하게 잡아 보세요. 항상 같은 위치에서 같은
+  벽을 맞추는 연습을 하면, 벽의 “고정된 튕김 지점”을 기준으로 보다 안정적인 경로를 만들
+  수 있습니다.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 파워업이 있나요?**  
+  **A:** 일부 모드에는 점수를 배로 올려 주거나 슬로 모션을 거는 파워업이 등장합니다.
+  난이도가 높은 구간이나 마지막 퍼즐에서 아껴 두었다가 사용하는 것이 좋습니다.  
 
-- Q: Shots feel random — how to control?
-
-A: Lower power, use simpler angles, and learn consistent bank points on walls.
-
-- Q: Are there power‑ups?
-
-A: Some modes include multiplies or slow‑mo; save for tricky sections.
-
-- Q: Timed levels?
-
-A: If timed, prioritize safe progress over risky trick shots.
+- **Q: 시간 제한이 있는 스테이지도 있나요?**  
+  **A:** 시간 제한이 있는 경우에는 화려한 트릭 샷보다는 실패 확률이 낮은 안전한 루트를
+  우선으로 선택하는 것이 좋습니다.  
 

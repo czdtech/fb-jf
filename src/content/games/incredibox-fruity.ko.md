@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-fruity
-title: '[KO] Incredibox Fruity'
+title: Incredibox Fruity 진화형 전략 게임
 description: >-
-  [KO] iscover the ultimate guide to Incredibox Fruity, the classic strategy
-  game. Learn winning strategies, controls, and tips to evolve your army from
-  cavemen to future warriors and dominate the battlefield.
+  고전 플래시 시대의 진화형 전략 게임 'Incredibox Fruity' 공략 가이드입니다. 석기 시대부터 미래까지 군대를 진화시키는 방법과
+  승리 전략, 조작법을 한눈에 정리했습니다.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/age-of-war.jpg
 tags:
@@ -17,48 +16,109 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Incredibox Fruity is a classic 2D side-scrolling strategy game that became widely popular during the Flash game era. The game's core concept is a battle between two bases, one belonging to the player and the other to an AI opponent. The unique and defining feature of the game is its "evolution" mechanic. Players start in the Stone Age (as cavemen) and must earn experience points (XP) to advance through five distinct eras: Stone Age, Middle Ages, Modern Age, and finally, the Future Age. Each evolution not only unlocks more powerful units and defensive turrets but also fully restores your base's health. The ultimate goal is simple: survive the enemy's onslaught and destroy their base.
+Incredibox Fruity는 플래시 게임 전성기 때 큰 인기를 끌었던 2D
+사이드스크롤 전략 게임입니다. 플레이어와 AI 적군의 **두 기지가 서로를
+공격하는 구조**이며, 이 게임만의 특징은 강력한 **진화(Evolution) 시스템**에
+있습니다.
 
-### Gameplay Strategy & Walkthrough
+처음에는 석기시대의 몽둥이 병사로 시작하지만, 전투를 통해 경험치(XP)를
+획득하면 **석기 시대 → 중세 → 현대 → 미래**로 시대를 진화시킬 수 있습니다.
+시대를 올릴수록 더 강력한 유닛과 포탑을 사용할 수 있고, 진화 시 기지
+체력이 전부 회복됩니다. 최종 목표는 적의 공격을 버텨 내면서, 점점
+더 강력해지는 유닛을 이용해 **적 기지를 먼저 파괴하는 것**입니다.
 
-Mastering Incredibox Fruity requires a balance of offense, defense, and strategic timing.
+### 게임 플레이 전략 & 공략
 
-#### 1. Early Game Strategy (Stone Age)
-*   **[KO]** **The Caveman Rush:** The most common and effective opening strategy is to spam the cheapest unit, the "Club Man." They are cost-effective and can quickly overwhelm the enemy in the early stages.
-*   **[KO]** **Focus on XP:** Your primary goal is to kill enemy units to gain XP as quickly as possible. A strong offensive push helps you earn XP faster, leading to an earlier evolution.
-*   **[KO]** **First Turret:** Build the first turret (Sling Shot) as soon as you can afford it. It provides crucial defensive support and helps you conserve units and health while you save up for more powerful troops or your first evolution.
+Incredibox Fruity를 잘 플레이하려면 공격·수비·진화 타이밍을 균형 있게
+조절하는 것이 중요합니다.
 
-#### 2. Mid-Game Strategy (Middle Ages & Modern Age)
-*   **[KO]** **Balanced Army:** Stop spamming only one type of unit. Create a balanced force. Place melee units (knights, infantry) at the front to absorb damage and protect your powerful but fragile ranged units (archers, riflemen) in the back.
-*   **[KO]** **When to Evolve:** Timing your evolution is critical. The best time to evolve is when your base health is low, as evolving fully restores it. Alternatively, evolve when you have a clear battlefield advantage to press your attack with superior units. Don't evolve if you are in the middle of a strong push, as it will clear all your units from the field.
-*   **[KO]** **Use Your Special Ability:** Each age comes with a powerful special ability (e.g., meteor shower, god's wrath). These have a long cooldown but can turn the tide of a battle. Use them to wipe out a large wave of enemy units or to support your own major offensive.
+#### 1. 초반 전략 (석기 시대)
 
-#### 3. Late Game Strategy (Future Age)
-*   **[KO]** **The Super Soldier:** In the Future Age, the "Super Soldier" is one of the most powerful units in the game. They are expensive but incredibly durable and have immense firepower. Saving up for a few of these can create an unstoppable force.
-*   **[KO]** **Advanced Turrets:** Fully upgrade your turrets. The final-era turrets deal massive damage and are essential for defending against the enemy's powerful futuristic units.
-*   **[KO]** **Final Push:** Coordinate your most powerful units with your special ability for a final, decisive push to destroy the enemy base.
+- **클럽맨 러시**: 가장 기본이자 효율적인 오프닝은 가장 저렴한
+  `Club Man`을 여러 명 생산해 초반에 라인을 밀어붙이는 전략입니다.
+  값이 싸고 수가 많아지면, 적 유닛을 빠르게 정리하면서 XP를 모으기
+  좋습니다.  
+- **XP 확보 우선**: 초반에는 적 유닛을 많이 처치해 XP를 빠르게 쌓는
+  것이 핵심입니다. 적극적인 공격으로 전장을 장악하면 더 빨리
+  다음 시대로 진화할 수 있습니다.  
+- **첫 번째 포탑**: 골드가 모이면 가능한 한 빨리 첫 포탑(Sling Shot)을
+  설치하세요. 기본적인 방어선을 제공해 주어, 유닛 손실을 줄이고 기지
+  체력을 아끼는 데 큰 도움이 됩니다.
 
-### Controls Guide
+#### 2. 중반 전략 (중세 / 현대)
 
-The game is controlled almost entirely with the mouse.
+- **균형 잡힌 병력 구성**: 이제는 한 종류의 유닛만 계속 뽑는 것은
+  위험합니다. 앞에서는 기사·보병 같은 근접 유닛이 몸빵을 맡고,
+  뒤에서는 궁수·소총병 같은 원거리 유닛이 딜을 넣는 식으로 전열을
+  구성하세요.  
+- **진화 타이밍 잡기**: 진화 버튼을 언제 누르느냐가 매우 중요합니다.
+  기지 체력이 많이 깎였을 때 진화하면 체력을 전부 회복할 수 있어
+  위기를 한 번에 넘길 수 있습니다. 혹은 전장을 압도하고 있을 때
+  진화해 상위 유닛으로 몰아붙이는 것도 좋은 선택입니다. 단, 진화를
+  누르면 필드의 아군이 모두 사라지므로, 공격이 한창일 때는 주의해야
+  합니다.  
+- **특수 스킬 활용**: 각 시대마다 메테오, 신의 분노 등 강력한 특수
+  스킬이 있습니다. 쿨타임이 길지만 한 번에 전세를 뒤집을 수 있으니,
+  적이 대규모 병력을 몰아올 때 사용해 전장을 정리하거나, 마지막
+  돌파를 지원하는 용도로 아껴 두세요.
 
-*   **[KO]** **Train Units:** Click on the unit icons at the top-left of the screen to train them. You must have enough gold.
-*   **[KO]** **Build Turrets:** Click on the empty turret slots on top of your base to open the build menu, then select a turret to construct.
-*   **[KO]** **Use Special Ability:** Click the special ability icon on the top-right of the screen when it's ready (not on cooldown).
-*   **[KO]** **Evolve:** Click the "Evolve" button at the top-right of the screen once you have accumulated enough XP.
+#### 3. 후반 전략 (미래 시대)
 
-### Frequently Asked Questions (FAQ)
+- **슈퍼 솔저 운용**: 미래 시대에 해금되는 `Super Soldier`는
+  체력과 공격력이 모두 뛰어난 최강 유닛입니다. 가격은 비싸지만
+  몇 기만 모여도 적 진영을 순식간에 밀어붙일 수 있으니, 골드를
+  모아 집중 생산해 보세요.  
+- **포탑 풀업그레이드**: 후반에는 적 역시 매우 강력한 유닛을
+  보내기 때문에, 기지 방어를 소홀히 하면 쉽게 무너집니다. 모든
+  포탑을 최종 단계까지 업그레이드해, 적의 러시를 기지 근처에서
+  안정적으로 막아내는 것이 중요합니다.  
+- **마지막 총공세**: 방어가 안정되었다면, 슈퍼 솔저와 상위 유닛을
+  중심으로 대규모 병력을 모은 뒤 특수 스킬과 함께 한 번에 밀어붙여
+  적 기지를 파괴하세요.
 
-*   **[KO]** **Q: How do I get XP?**
-    *   **[KO]** **A:** You gain Experience Points (XP) every time one of your units kills an enemy unit.
+### 조작 가이드
 
-*   **[KO]** **Q: What is the best unit in the game?**
-    *   **[KO]** **A:** While it depends on the situation, the "Super Soldier" from the Future Age is widely considered the most powerful all-around unit due to its high health and damage. In the early game, the basic Club Man is the most effective for its cost.
+조작은 대부분 마우스만으로 이루어집니다.
 
-*   **[KO]** **Q: Is it better to build more turrets or train more units?**
-    *   **[KO]** **A:** In the early game, a mix is best. One or two turrets provide stable defense, allowing you to save gold for a strong offensive army. In the late game, having fully upgraded turrets is crucial for survival.
+- **유닛 생산**: 화면 좌측 상단의 유닛 아이콘을 클릭하면 골드를
+  소모해 해당 유닛을 생산합니다.  
+- **포탑 건설**: 기지 위쪽의 빈 포탑 슬롯을 클릭해 건설 메뉴를 열고,
+  원하는 포탑을 선택해 설치합니다.  
+- **특수 스킬 사용**: 화면 우측 상단에 있는 스킬 아이콘이 쿨타임에서
+  돌아오면 클릭해 발동할 수 있습니다.  
+- **진화(Evolve)**: XP가 충분히 쌓이면 우측 상단의 `Evolve` 버튼을
+  눌러 다음 시대로 진화할 수 있습니다.
 
-*   **[KO]** **Q: Where can I play Incredibox Fruity now that Flash is gone?**
-    *   **[KO]** **A:** Many gaming websites like CrazyGames, Armor Games, and Kongregate now host Incredibox Fruity using Flash emulators (like Ruffle), making it fully playable in modern web browsers. There are also mobile versions available on iOS and Android app stores.
+### 자주 묻는 질문(FAQ)
+
+- **Q: XP는 어떻게 얻나요?**  
+  **A:** 아군 유닛이 적 유닛을 처치할 때마다 XP를 획득합니다. 교전이
+  활발할수록 XP가 빨리 오릅니다.
+
+    - **Q: 가장 강한 유닛은 무엇인가요?**  
+  **A:** 상황에 따라 다르지만, 대부분의 플레이어는 미래 시대의
+  `Super Soldier`를 가장 강력한 유닛으로 평가합니다. 초반에는
+  가격 대비 효율이 좋은 `Club Man`이 가장 중요한 유닛입니다.
+
+- **Q: 포탑을 많이 지을까요, 유닛을 많이 뽑을까요?**  
+  **A:** 초반에는 1~2개의 포탑으로 최소한의 방어선을 깔고, 나머지
+  자원은 공격용 유닛에 투자하는 것이 좋습니다. 후반에는 풀업그레이드된
+  포탑이 없으면 강한 유닛 러시를 버티기 어려우니, 방어 시설에도
+  충분히 자원을 배분해야 합니다.
+
+    - **Q: 플래시가 종료된 지금 어디에서 Incredibox Fruity를 플레이할 수 있나요?**  
+
+- **A:** Many gaming websites like CrazyGames, Armor Games, and Kongregate now host Incredibox Fruity using Flash emulators (like Ruffle), making it fully playable in modern web browsers. There are also mobile versions available on iOS and Android app stores.
+
+    - **Q: Where can I play Incredibox Fruity now that Flash is gone?**
+
+- **A:** In the early game, a mix is best. One or two turrets provide stable defense, allowing you to save gold for a strong offensive army. In the late game, having fully upgraded turrets is crucial for survival.
+
+    - **Q: Is it better to build more turrets or train more units?**
+  **A:** 여러 웹게임 사이트에서 플래시 에뮬레이터(예: Ruffle)를 사용해
+  이 게임을 서비스하고 있어, 최신 브라우저에서도 그대로 즐길 수 있습니다.
+  일부 iOS·Android 앱 버전도 배포되고 있으니, 모바일 스토어를
+  확인해 보세요.
+

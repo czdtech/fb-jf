@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: battleships-armada
-title: '[ZH TRANSLATION NEEDED] Battleships Armada'
+title: Battleships Armada 海战舰队
 description: >-
-  [ZH TRANSLATION NEEDED] The classic naval combat game! Strategically place
-  your fleet of ships on the grid and fire at your opponent's grid to find and
-  sink their entire armada before they sink yours.
+  《Battleships Armada 海战舰队》是经典海战棋的数字改编版：在网格棋盘上布置自己的舰队，推理敌方舰船所在
+  位置，在对手击沉你之前先一步摧毁他们的整支舰队。
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/battleships-armada.png
 tags:
@@ -18,30 +17,32 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Battleships Armada is a digital adaptation of the classic naval combat board game, Battleship. It's a game of pure strategy, deduction, and a little bit of luck. Each player secretly arranges their fleet of ships on a grid. Then, players take turns firing shots at the other player's grid in an attempt to locate and sink their entire fleet. The first player to sink all of their opponent's ships wins the game.
+*Battleships Armada* 是一款基于经典桌游 *Battleship* 改编的海战策略游戏。双方玩家在自己的棋盘上秘密摆放舰队，然后轮流向对方棋盘“开火”。通过每一次“命中（Hit）”与“未中（Miss）”的信息，你需要逐步推理出对方舰队的大致布局，并最终将其全部击沉。
 
-### Gameplay Strategy & Walkthrough
+每名玩家都会把若干艘不同长度的军舰放在自己的网格上，只能水平或垂直摆放，不能重叠。当你击中一条船所有格子后，该舰就会被判定为彻底击沉；率先击沉对方全部舰船的一方获胜。
 
-1.  **Strategic Placement:** The game begins with the placement phase. Don't place all your ships clustered together or all along the edges. A scattered, random-looking placement is harder for your opponent to guess.
-2.  **Hunting for Ships:** When the combat phase begins, don't fire randomly. A common strategy is to fire in a checkerboard or diagonal pattern across the grid. This ensures you will find a ship with fewer wasted shots.
-3.  **Zeroing In:** Once you get a "Hit," you know you've found a ship. Your next shots should be focused on the adjacent squares (up, down, left, right) to find the rest of the ship. For example, if you hit C5, your next shots should be C4, C6, B5, and D5.
-4.  **Sinking the Ship:** Once you have hit all the squares that make up a single ship, it will be declared "sunk." Then you can resume your general search pattern to find the next ship.
+### 游戏策略与通关思路
 
-### Controls Guide
+1.  **布阵要“看起来随机”：**  
+    游戏开始于布阵阶段。不要把所有舰船都顺着边缘或角落排成整齐的一条线，这些往往是经验玩家优先检索的位置。更好的做法是让舰队布局看起来不规律、难以预测。
+2.  **搜索时避免无脑乱点：**  
+    战斗阶段不要随意点格子。常见而高效的策略是采用“棋盘格”或斜线搜索模式，以规律的方式覆盖全图，这样既能保证不会漏掉任何一条船，又能减少浪费的炮弹。
+3.  **命中后立刻缩小搜索范围：**  
+    一旦某次开火命中，就集中火力射击该格子上下左右的相邻位置，快速判断舰船的方向。比如命中 C5 后，可以依次尝试 C4、C6、B5、D5。
+4.  **击沉后回归大范围搜索：**  
+    当你击中并确认一条船的所有格子后，系统会提示该舰已被击沉。这时就可以重新回到全局搜索模式，继续用既定的搜索图案在棋盘上寻找下一条舰船。
 
-*   **Place Ships:** During the setup phase, click and drag your ships onto your grid. You can also click a ship to rotate it between horizontal and vertical alignment.
-*   **Fire a Shot:** During the combat phase, click on a square in your opponent's grid (usually the one on the right) to fire at those coordinates.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+*   **布阵阶段：** 用鼠标点击并拖拽舰船把它们放到自己的棋盘上，需要时可以点击舰船来在水平与垂直方向之间切换。  
+*   **战斗阶段：** 在对方棋盘（通常显示在右侧）上点击一个格子，即可对该坐标开火。命中或落空的结果会被清晰地标记在棋盘上。
 
-*   **Q: How do I know where my opponent's ships are?**
-     *   **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."
-
-*   **Q: What happens after I get a "Hit"?**
-     *   **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.
-
-*   **Q: How do I win?**
-     *   **A:** You win by being the first player to successfully sink all five of your opponent's ships.
-
+### 常见问题解答（FAQ）
+*   **问：我怎么知道对方的船在哪里？****
+    *   答：** 一开始完全不知道，这正是游戏的乐趣所在。你只能根据每一次“命中 / 未中”的反馈，逐步排除不可能的位置，并从局部命中推理出整条舰的位置。
+*   **问：命中一次之后，接下来该怎么打？****
+    *   答：** 立即在命中格子的上下左右开火，确认舰船的方向。第二次命中之后，就顺着这条直线继续打，直到系统提示该舰被击沉。
+*   **问：怎样才算赢得一局？****
+    *   答：** 当你成功击沉对方所有舰船（通常是 5 艘）时，就会立即获得胜利——不需要完全命中棋盘上的所有格子。

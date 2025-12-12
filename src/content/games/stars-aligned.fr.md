@@ -1,43 +1,54 @@
 ---
 locale: fr
 urlstr: stars-aligned
-title: '[FR] Stars Aligned'
+title: 'Stars Aligned'
 description: >-
-  [FR] Stars Aligned is a soothing constellation puzzler — rotate fragments,
-  connect lines, and form complete star patterns.
+  Stars Aligned est un puzzle relaxant de constellations : fais pivoter les
+  fragments, aligne les segments et complète les motifs d’étoiles.
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/stars-aligned.jpg
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.4/5  (2183 votes)
+score: "4.4/5  (2183 votes)"
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée du jeu
 
+Stars Aligned est un puzzle spatial tout en douceur où tu dois reformer des
+constellations à partir de fragments d’étoiles. Fais pivoter les pièces,
+aligne lignes et nœuds, et observe la figure prendre forme. Les niveaux
+avancés ajoutent davantage de fragments et des rotations très subtiles qui
+demandent une attention particulière.
 
+### Stratégies et solutions
 
-### Detailed Game Introduction
+1. **Commence par les évidences :** repère d’abord les segments qui s’emboîtent
+   clairement pour réduire le nombre de possibilités.
+2. **Teste toutes les rotations :** un léger angle différent suffit souvent à
+   faire apparaître un raccord parfait.
+3. **Utilise la symétrie :** beaucoup de constellations sont symétriques ;
+   sers‑toi de cette propriété pour deviner l’emplacement des morceaux.
+4. **Résous par sous‑groupes :** forme de petites sections connectées avant de
+   les relier à la constellation complète.
+5. **Zoome pour plus de précision :** si le jeu le permet, zoome pour vérifier
+   les jonctions presque alignées.
 
-Stars Aligned is a gentle spatial puzzle about connecting star fragments into constellations. Rotate pieces to align lines and nodes; later stages introduce more fragments and subtle rotations that demand careful inspection.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Fais pivoter les pièces et fais‑les glisser à leur place via l’interface.
+- Utilise Annuler/Réinitialiser pour tester d’autres configurations.
 
-1.  **[FR]** Start with anchors: Lock obvious matches first to reduce possibilities.
-2.  **[FR]** Check all rotations: Slight orientation changes often reveal hidden fits.
-3.  **[FR]** Symmetry cues: Many constellations are symmetric—use mirroring to test placements.
-4.  **[FR]** Isolate sub‑graphs: Solve small connected groups before linking the whole.
-5.  **[FR]** Zoom for precision: Use any zoom to verify nearly‑aligned joints.
+### FAQ
 
-### Controls Guide
-
-- Rotate pieces and drag them into place per the UI.
-- Undo/Reset as needed to test patterns.
-
-### Frequently Asked Questions (FAQ)
-
-- A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
-- Timers? Often relaxed; enjoy the ambient pace.
-- Hints? Some modes include hints; use sparingly.
+- **Une ligne ne se connecte pas, bug ?**  
+  En général, il manque un petit cran de rotation : tourne légèrement la pièce
+  concernée.
+- **Y a‑t‑il un minuteur ?**  
+  Les modes sont souvent détendus : profite du rythme zen.
+- **Des indices existent‑ils ?**  
+  Certains modes en proposent ; à utiliser avec parcimonie pour garder le
+  plaisir de la recherche.
 

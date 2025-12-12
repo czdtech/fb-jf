@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: merge-fruit
-title: '[ES] Merge Fruit'
+title: "Merge Fruit - Fusión jugosa con físicas"
 description: >-
-  [ES] Merge Fruit is a juicy merge‑and‑drop — combine identical fruits, manage
-  stack heights, and engineer cascades for big scores.
+  Merge Fruit es un rompecabezas de soltar y fusionar: combina frutas idénticas,
+  controla la altura de la pila y prepara cascadas para lograr puntuaciones
+  gigantes.
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/merge-fruit.png
 tags:
@@ -17,34 +18,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Merge Fruit mezcla caídas con gravedad y reglas de fusión de 2 en 2. Suelta
+frutas dentro de un contenedor: cuando dos frutas idénticas se tocan, se fusionan
+en una pieza más grande. El reto está en apilar pensando en merges futuros sin
+permitir que la pila rebose por la parte superior.
 
-Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; touching identical fruits merge into a larger one. The challenge is stacking for future merges while preventing overflows at the top.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  Ancla central: intenta mantener la fruta más grande cerca del centro para
+    poder encadenar fusiones desde varios lados.
+2.  Control de altura: aplana las columnas que sobresalen antes de que provoquen
+    un desbordamiento.
+3.  Planear cadenas: prepara parejas una al lado de la otra antes de soltar una
+    tercera fruta que provoque una cascada de fusiones.
+4.  Carril de sacrificio: usa uno de los bordes como "carril basura" para dejar
+    frutas que no encajan en el ciclo actual.
+5.  Paciencia: no fuerces lanzamientos mientras todo rebota; espera un segundo
+    a que la pila se estabilice.
 
-1.  **[ES]** Center anchor: Keep the largest fruit near the center for multi‑side merges.
-2.  **[ES]** Height control: Flatten spikes before they cause overflow.
-3.  **[ES]** Chain planning: Stage twins adjacent before dropping a third to trigger cascades.
-4.  **[ES]** Sacrifice lane: Use one edge as a trash lane for off‑cycle fruits.
-5.  **[ES]** Patience: Don’t force drops during bounce chaos — wait a beat.
+### Guía de controles
 
-### Controls Guide
+- Mueve a izquierda y derecha para apuntar; toca o haz clic para soltar la
+  fruta; algunas versiones permiten guardar piezas o deshacer un movimiento.
 
-- Move left/right to aim; tap to drop; some builds allow holds/undos.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- P: El contenedor se me llena todo el rato.  
+  R: Deja de perseguir solo fusiones grandes: primero aplana columnas y prepara
+  parejas antes de apuntar a un gran combo.
 
-- Q: Board keeps overflowing.
+- P: ¿Dónde es mejor soltar la fruta?  
+  R: El centro suele dar más flexibilidad; reserva los bordes para gestionar el
+  carril de descarte.
 
-A: Stop chasing big merges; first flatten columns and stage pairs.
-
-- Q: Best place to drop?
-
-A: Center for flexibility; edges only for trash lane management.
-
-- Q: Are undos fair game?
-
-A: Use sparingly to fix genuine misdrops.
-
+- P: ¿Es justo usar el deshacer?  
+  R: Úsalo con moderación para corregir lanzamientos claramente fallidos, no en
+  cada jugada.

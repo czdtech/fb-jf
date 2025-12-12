@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: minigolf-clash
-title: '[KO] Minigolf Clash'
+title: "Minigolf Clash 미니골프 클래시"
 description: >-
-  [KO] Minigolf Clash serves creative putt‑putt puzzles — read slopes, bank
-  shots, and sink pars on quirky courses.
+  Minigolf Clash는 경사와 뱅크 샷, 움직이는 장애물이 가득한 캐주얼 미니 골프 게임으로,
+  퍼팅 각도와 세기를 읽어 파를 지키거나 멋진 트릭 샷을 노릴 수 있습니다.
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
 thumbnail: /new-images/minigolf-clash.png
 tags:
@@ -17,29 +17,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Minigolf Clash*는 풍차, 램프, 뱅크 벽과 같은 다양한 장애물이 배치된 캐주얼 퍼팅 게임입니다.
+목표는 단순히 파 이내로 홀아웃하는 것이지만, 각도와 세기를 정교하게 조절해 나만의
+트릭 샷 루트를 개척하면 더 낮은 스코어에 도전할 수 있습니다.
 
-### Detailed Game Introduction
+### 공략 & 플레이 팁
 
-Minigolf Clash is a casual putting game with creative obstacles, ramps, banks, and moving parts. Your goal is simple—finish holes under par—yet mastering angles and pace unlocks low scores and trick‑shot lines.
+1. **페이스 컨트롤:** 홀컵 주변에서는 부드럽게 굴려 립아웃(홀을 빙 둘러 나가는 상황)을
+   줄이고, 오르막 램프에서는 조금 더 강하게 쳐야 합니다.
+2. **깨끗한 각도 만들기:** 가능한 한 45°에 가까운 각도로 벽을 이용해 뱅크 샷을 시도하면,
+   예측 가능한 궤도를 만들 수 있고, 우연한 튕김을 줄일 수 있습니다.
+3. **위험 회피:** 무리한 홀인원 시도보다는, 항상 두 번의 퍼팅 안에 끝낼 수 있는
+   안정적인 루트를 설계하는 편이 전체 스코어 관리에 유리합니다.
+4. **움직이는 장애물 학습:** 풍차 날개, 문, 피스톤 등 움직이는 오브젝트는 최소 한 번
+   전체 움직임을 관찰한 뒤, 안전한 타이밍에만 공을 통과시키는 것이 좋습니다.
+5. **라인 연습:** 비슷한 위치에서 여러 번 퍼팅해 보며, 특정 경사와 거리에서 필요한
+   세기를 몸으로 익혀 두면 실전에서 훨씬 안정적인 샷을 구사할 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Pace control: Soft putts around cups prevent lip‑outs; harder hits for uphill ramps.
-2.  **[KO]** Clean angles: Use walls to bank at 45° where possible; reduce random ricochets.
-3.  **[KO]** Avoid hazards: Favor consistent two‑putts over risky hole‑in‑one attempts.
-4.  **[KO]** Learn movers: Time windmills, gates, and pistons; wait for safe windows.
-5.  **[KO]** Line rehearsal: Practice putts from similar lies to build reliable muscle memory.
+- 조준: 드래그해 방향을 설정합니다.
+- 파워: 뒤로 당겨 세기를 정한 뒤 손을 떼면 퍼팅이 실행됩니다.
+- 재시도: 일부 버전에서는 화면의 재시작 버튼으로 해당 홀을 다시 플레이할 수 있습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Aim: Drag to set direction.
-- Power: Pull back to set strength, release to putt.
-- Restart: Use on‑screen control to retry a hole if allowed.
+- **Q: 공이 자꾸 홀컵을 빙 둘러 나가요.**  
+  **A:** 컵 근처에서는 속도가 너무 빠르거나 진입 각도가 좋지 않은 경우가 많습니다.
+  조금 더 약하게 치거나, 컵 옆에서 흘러 들어가도록 라인을 조정해 보세요.
 
-### Frequently Asked Questions (FAQ)
+- **Q: 뱅크 샷에 쓸 만한 팁이 있나요?**  
+  **A:** 이상적인 45°보다 약간 안쪽을 겨냥해, 벽에 맞은 뒤 속도 손실을 감안해도
+  원하는 방향으로 나가도록 조정하는 것이 좋습니다.
 
-- Why do putts rim out? Too much pace or poor line; slow down near the cup.
-- Any bank‑shot tips? Aim slightly inside the perfect 45° to account for speed loss.
-- How to handle movers? Watch a full cycle first, then commit when timing is clear.
-
+- **Q: 움직이는 장애물을 어떻게 공략하나요?**  
+  **A:** 먼저 한 사이클을 끝까지 지켜보며 빈 타이밍을 파악한 뒤, 그 순간에만 샷을
+  시도하세요. 서두르다가는 연속해서 막히기 쉽습니다.

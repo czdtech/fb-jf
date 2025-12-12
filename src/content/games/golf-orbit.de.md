@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: golf-orbit
-title: '[DE] Golf Orbit'
+title: "Golf Orbit"
 description: >-
-  [DE] Golf Orbit is a one‑tap launch‑and‑land golf — set launch angle, manage
-  spin, and ride planetary gravity for long, strategic flights.
+  Golf Orbit ist ein One-Tap-Golfspiel mit Weltraum-Flugphysik. Bestimme
+  Abschlagswinkel und Kraft, nutze Spin und Schwerkraft der Planeten und lass
+  den Ball möglichst weit und gezielt fliegen.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/golf-orbit.png
 tags:
@@ -16,35 +17,58 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Golf Orbit macht aus Golf ein Flugphysik-Puzzle. Du wählst einen Abschlagswinkel
+und die Schlagkraft und beobachtest dann, wie dein Ball über unterschiedliche
+Planetenlandschaften und durch den Weltraum fliegt. Spin, Bouncen, Wind und
+gelegentliche Schwerkraft-Felder (Gravity Wells) geben dem Ganzen Tiefe: Die
+besten Schläge reiten Hänge aus, streifen Hindernisse nur knapp und ketten
+mehrere Bounces aneinander, um entfernte Ziele zu erreichen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle and power, then watch your ball arc across varied terrain and planetary bodies. Spin and bounce behavior, wind, and occasional gravity wells add depth: the best shots ride slopes, skim obstacles, and chain bounces to reach hidden targets.
+1.  **Winkel diszipliniert wählen**  
+    Flache Abschläge sorgen für viel **Rollen** nach dem Aufkommen. Hohe Bögen
+    sind ideal, um Hindernisse zu überfliegen, verlieren aber Rollstrecke.
 
-### Gameplay Strategy & Walkthrough
+2.  **Spin einsetzen**  
+    Nutze **Backspin**, wenn du auf kleinen Inseln oder engen Plattformen
+    liegen bleiben möchtest, und **Topspin**, um Abhänge herunterzurollen und
+    extra Distanz mitzunehmen.
 
-1.  **[DE]** Angle discipline: Shallow launches maximize roll; higher arcs clear hazards but lose rollout.
-2.  **[DE]** Spin control: Apply backspin to stick on small islands; topspin to ride downhill slopes for extra distance.
-3.  **[DE]** Gravity/wind: Aim slightly upwind; use gravity wells to slingshot if present.
-4.  **[DE]** Terrain reads: Plan for first bounce, not just landing; slopes redirect momentum.
-5.  **[DE]** Par routing: Take safe two‑shot lines rather than risky one‑shot clears until consistent.
+3.  **Schwerkraft & Wind beachten**  
+    Richte deine Schläge leicht gegen den Wind aus und nutze vorhandene
+    Schwerkraft-Felder, um dich wie mit einer Schleuder beschleunigen zu
+    lassen.
 
-### Controls Guide
+4.  **Terrain richtig lesen**  
+    Plane nicht nur den Landepunkt, sondern auch den **ersten Aufprall**. Hänge
+    lenken deinen Ball um und können ihn in ganz neue Richtungen weiterrollen
+    lassen.
 
-- Tap to start the power bar; tap again to set power/angle; apply spin via swipe (if supported).
+5.  **Sichere Par-Routen wählen**  
+    Nimm zunächst lieber sichere Zwei-Schlag-Routen, statt zu riskante
+    One-Shot-Abkürzungen zu probieren – Konstanz ist wichtiger als der perfekte
+    Traumschlag.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: My ball always overshoots — how to fix?
+- Tippe einmal, um die Kraftanzeige zu starten, und tippe erneut, um Kraft und
+  Winkel festzulegen.  
+- Auf manchen Plattformen kannst du per Wischgeste Spin hinzufügen.
 
-A: Lower the launch angle and reduce power; use backspin to stop on small greens.
+### Häufige Fragen (FAQ)
 
-- Q: What’s the best all‑around angle?
+- **F: Mein Ball fliegt ständig zu weit – was kann ich tun?**  
+  **A:** Reduziere sowohl Winkel als auch Schlagkraft und nutze Backspin, damit
+  der Ball auf kleinen Grüns schneller liegen bleibt.
 
-A: Medium‑low angles (25–35°) with topspin for roll are consistent on open holes.
+- **F: Welcher Abschlagswinkel funktioniert am ehesten überall?**  
+  **A:** Mittlere, eher flache Winkel um **25–35°** kombiniert mit leichtem
+  Topspin liefern auf offenen Bahnen meist zuverlässige Ergebnisse.
 
-- Q: Do gravity wells actually help?
-
-A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
-
+- **F: Bringen die Gravity Wells wirklich etwas?**  
+  **A:** Ja. Wenn du sie tangential triffst, kannst du wie bei einer
+  Schleuderbahn zusätzlichen Schub mitnehmen. Es lohnt sich, die Winkel dafür
+  ein wenig zu üben.

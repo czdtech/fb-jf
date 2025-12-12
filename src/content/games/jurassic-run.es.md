@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: jurassic-run
-title: '[ES] Jurassic Run'
+title: "Jurassic Run"
 description: >-
-  [ES] Jurassic Run is a dino‑dash runner — evade hazards, swap lanes, and
-  sprint for high scores.
+  Jurassic Run es un endless runner prehistórico: esquiva peligros, cambia de
+  carril y corre al máximo para batir récords.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/jurassic-run.png
 tags:
@@ -16,27 +16,43 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Jurassic Run es un runner infinito rápido ambientado entre dinosaurios y
+obstáculos de jungla. Lee el trazado por adelantado, cambia de carril o salta/
+ deslízate para esquivar peligros y encadena recogidas de monedas a medida que la
+velocidad aumenta.
 
-Jurassic Run is a fast endless runner set among dinosaurs and jungle obstacles. Read the track ahead, switch lanes or jump/slide to avoid hazards, and chain coin pickups as speed increases.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Mira lejos:** anticipa los cambios de carril con tiempo.
+2.  **No arriesgues por una moneda:** si el hueco es muy estrecho, prioriza la
+    seguridad; una carrera larga da más monedas a la larga.
+3.  **Memoriza patrones:** muchos obstáculos se repiten; saber qué viene después
+    te permite colocarte de antemano.
+4.  **Mantén los movimientos limpios:** a alta velocidad, pequeños ajustes son
+    mejores que giros bruscos.
+5.  **Gestiona los power‑ups:** guarda escudos e imanes para tramos densos si el
+    juego los incluye.
 
-1.  **[ES]** Look far ahead to plan early lane changes.
-2.  **[ES]** Skip risky coins when gaps are tight; safety keeps runs alive.
-3.  **[ES]** Memorize repeating obstacle sets to pre‑position.
-4.  **[ES]** Make small, crisp inputs at higher speeds.
-5.  **[ES]** Save shields/magnets for dense stretches if available.
+### Guía de controles
 
-### Controls Guide
+- **Movimiento:** teclas **A/D** o **flechas izquierda/derecha** para cambiar de
+  carril.
+- **Saltar/Deslizarse:** barra espaciadora o **flecha arriba** para saltar;
+  **flecha abajo** para deslizarse.
+- **Pausa/Reintentar:** botones en pantalla.
 
-- Move: A/D or Left/Right; jump/slide with Space/Up and Down.
-- Pause/Retry via on‑screen UI.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: Siempre rozo los obstáculos, ¿por qué?**  
+    **R:** Probablemente saltas demasiado pronto o haces cambios de carril muy
+    bruscos; retrasa un poco las entradas y mantén la trayectoria suave.
 
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
-- Is there an end? Usually endless—chase personal bests.
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
+*   **P: ¿Tiene final el juego?**  
+    **R:** Normalmente es infinito; el objetivo es superar tu propia mejor
+    distancia y puntuación.
 
+*   **P: ¿Hay power‑ups especiales?**  
+    **R:** Muchas versiones incluyen escudos, imanes u otros potenciadores; lee
+    la interfaz del host para ver cuáles están disponibles.

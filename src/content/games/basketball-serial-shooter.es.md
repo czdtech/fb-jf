@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: basketball-serial-shooter
-title: '[ES] Basketball serial shooter'
+title: "Basketball Serial Shooter reto de tiro en serie"
 description: >-
-  [ES] Basketball serial shooter turns rapid‑fire hoops into skill — set arcs,
-  manage rhythm, and chain swishes under pressure.
+  Basketball Serial Shooter es un desafío de tiro a canasta rápido y basado en
+  física. Ajusta la parábola, gestiona el ritmo y encadena tiros limpios bajo
+  presión.
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/basketball-serial-shooter.jpg
 tags:
@@ -15,47 +16,68 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Basketball Serial Shooter es un reto de baloncesto tipo "score‑attack" centrado
+en la sincronización, el control del arco y la selección de tiro. Te enfrentarás a
+aros en movimiento, posibles efectos de viento y límites de tiempo o de balones.
+El bucle principal consiste en encontrar un gesto de lanzamiento repetible,
+leer el movimiento del aro y encadenar canastas limpias evitando que los tiros
+reboten fuera.
 
+A medida que avanzas, aparecen obstáculos, tableros móviles y cambios en la
+altura de la canasta que exigen una mecánica cada vez más pulida.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Basketball serial shooter is a fast, score‑attack basketball challenge focused on timing, arc control, and shot selection. You’ll face moving hoops, shifting wind (in some variants), and limited time or balls. The core loop is to settle a repeatable release, read the basket movement, and string swishes without rim‑outs. As you progress, obstacles, moving backboards, and changing hoop heights add variety and demand cleaner mechanics.
+1.  **Construye una forma repetible:** Elige una posición del cursor y un ritmo
+    de suelta cómodos, de forma que cada intento se sienta consistente.
+2.  **Prioriza el arco sobre la potencia:** Las trayectorias altas que caen
+    suave entran con más frecuencia; los tiros planos tienden a rebotar en el
+    aro.
+3.  **Lee los ciclos de movimiento:** En aros móviles, observa un ciclo completo
+    y dispara siempre en la misma fase (por ejemplo, cuando el aro está en su
+    punto más a la izquierda).
+4.  **Trabaja de cerca hacia lejos:** Empieza con tiros cercanos y de alto
+    porcentaje para construir una racha antes de intentar lanzamientos lejanos.
+5.  **Recupérate rápido tras fallar:** Si fallas, haz una breve pausa para
+    recentrar la mira y recuperar el ritmo antes del siguiente tiro.
+6.  **Ajustes por viento (si lo hay):** Apunta ligeramente contra el viento y
+    añade un poco más de arco; haz varios tiros de prueba para calibrar la
+    desviación.
+7.  **Gestiona tus objetivos:** En modos con tiempo, ignora monedas o dianas
+    laterales arriesgadas si no se alinean bien con tu parábola estándar.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Build a repeatable form: Pick a comfortable cursor position and release rhythm so each attempt feels consistent.
-2.  **[ES]** Arc over power: Favor higher arcs that drop softly; flat line‑drives rim out more often.
-3.  **[ES]** Read cycles: For moving hoops, identify the motion cycle and shoot at the same phase each time.
-4.  **[ES]** Work inside‑out: Take nearer, higher‑percentage shots to establish a streak before attempting long‑range baskets.
-5.  **[ES]** Recover quickly: If you miss, pause half a beat to re‑center aim and re‑establish rhythm before the next shot.
-6.  **[ES]** Wind adjustment (if present): Offset aim into the wind and add a touch more arc to compensate for drift.
-7.  **[ES]** Goal management: In timed modes, ignore risky coins or side targets unless alignment is clean.
+- **Apuntar y potencia:** Arrastra para fijar ángulo y fuerza y suelta para
+  lanzar. En algunas variantes, la potencia se carga en una barra al mantener
+  pulsado.
+- **Objetivos especiales:** Toca las dianas de bonus solo cuando coincidan con
+  tu arco habitual.
+- **Pausa / Reiniciar:** Usa los botones de la interfaz; algunas versiones
+  permiten reinicio rápido.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim and power: Drag to set angle/power and release to shoot; some builds separate power on a hold bar.
-- Special targets: Tap bonus targets only when they line up with your normal arc.
-- Pause/Retry: Use on‑screen controls; some versions allow quick reset.
+- **P: Mis tiros siempre rebotan en el aro, ¿por qué?**  
+  **R:** Seguramente tu arco es demasiado plano o usas demasiada potencia.
+  Sube el punto más alto de la parábola y reduce ligeramente la fuerza para que
+  el balón caiga más vertical.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Cómo enfrento aros en movimiento?**  
+  **R:** Mira un ciclo completo, elige una fase concreta (por ejemplo, el punto
+  de máxima altura o el extremo izquierdo) y acostúmbrate a soltar siempre en
+  ese momento.
 
-- Q: Why do my shots keep rimming out?
+- **P: ¿El viento influye de verdad?**  
+  **R:** En las variantes con viento, sí. Apunta un poco hacia el lado desde el
+  que sopla y añade algo de arco; practica unos tiros para ajustarte.
 
-A: Your arc is too flat or power is too high. Raise the apex and reduce power slightly so the ball drops softly through the rim.
+- **P: ¿Algún consejo para mantener rachas y multiplicadores?**  
+  **R:** Empieza con tiros cercanos y seguros para construir combo y, una vez
+  tengas el ritmo, ve alejándote poco a poco.
 
-- Q: How do I handle moving hoops?
-
-A: Watch a full motion cycle, pick a consistent phase (e.g., leftmost point), and release at that moment every time.
-
-- Q: Does wind matter in this game?
-
-A: In variants with wind, aim slightly into the wind and add arc; practice a few test shots to calibrate drift.
-
-- Q: Any tip for streaks and multipliers?
-
-A: Start with close, safe shots to build a combo, then extend range once your rhythm is locked.
-
-- Q: Should I go for coin shots?
-
-A: Only if their path matches your standard arc; otherwise you’ll lose more time and streak than you gain.
+- **P: ¿Merece la pena ir a por monedas o tiros especiales?**  
+  **R:** Solo si su trayectoria coincide con tu arco habitual; de lo contrario,
+  perderás más tiempo y racha de lo que ganarás en puntos.

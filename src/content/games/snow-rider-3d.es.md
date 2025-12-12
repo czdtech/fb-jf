@@ -1,15 +1,15 @@
 ---
 locale: es
 urlstr: snow-rider-3d
-title: '[ES] Snow Rider 3D'
+title: "Snow Rider 3D"
 description: >-
-  [ES] Jump on your sled in Snow Rider 3D, a fast-paced winter-themed action
-  game. Steer down the snowy hills, dodge obstacles like trees and snowmen, and
-  use ramps to perform jumps. Collect gifts to unlock new sleds and challenge
-  your reflexes to get the highest score.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
-thumbnail: /new-images/snow-rider-3d.jpg
+  Súbete al trineo en Snow Rider 3D, un frenético juego de acción invernal.
+  Desciende por colinas nevadas, esquiva obstáculos como árboles y muñecos de
+  nieve y usa rampas para hacer saltos espectaculares. Recoge regalos para
+  desbloquear nuevos trineos y pon a prueba tus reflejos para lograr la máxima
+  puntuación.
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html"
+thumbnail: "/new-images/snow-rider-3d.jpg"
 tags:
   - action
   - 3d
@@ -19,33 +19,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
-### Game Introduction
+Snow Rider 3D es un juego de acción rápido con temática invernal en el que te
+lanzas en trineo por una enorme montaña nevada. El objetivo es llegar lo más
+lejos posible esquivando árboles, rocas, muñecos de nieve y otros obstáculos. A
+medida que avanzas, la velocidad aumenta y los retos se vuelven más intensos,
+poniendo a prueba tus reflejos.
 
-Snow Rider 3D is a fast-paced, winter-themed action game where you ride a sled down a vast, snowy mountain. The goal is to travel as far as possible while skillfully dodging a variety of obstacles, including trees, rocks, snowmen, and boulders. It's a test of reflexes and anticipation as the speed increases and the challenges become more intense.
+### Guía de juego
 
-### Gameplay Guide
+Tu objetivo principal es conseguir la máxima puntuación sobreviviendo el mayor
+tiempo posible. Mira siempre hacia delante para anticipar los obstáculos y
+trazar la mejor ruta. Aprovecha las rampas repartidas por la pendiente para
+saltar grandes bloques de obstáculos o grupos de árboles. Por el camino podrás
+recoger regalos que luego te servirán para desbloquear trineos más llamativos en
+la tienda.
 
-Your main objective is to get the highest score by surviving for as long as you can. Look ahead to anticipate upcoming obstacles and plan your path accordingly. Use the ramps scattered on the hill to your advantage by jumping over large obstacles or clusters of trees. Along the way, you can collect gifts which can be used to unlock new and cooler sleds in the shop.
+### Guía de controles
 
-### Controls Guide
+Los controles son sencillos y responden bien:
+- **Girar a la izquierda:** Tecla `A` o Flecha izquierda.
+- **Girar a la derecha:** Tecla `D` o Flecha derecha.
+- **Saltar:** Tecla `W` o Flecha arriba.
 
-The controls are simple and responsive:
-- **Steer Left:** `A` or `Left Arrow` key
-- **Steer Right:** `D` or `Right Arrow` key
-- **Jump:** `W` or `Up Arrow` key
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+**¿Cuál es el objetivo principal de Snow Rider 3D?**
 
-**What is the main goal of Snow Rider 3D?**
+Llegar lo más lejos posible sin chocar con ningún obstáculo para lograr la mayor
+puntuación.
 
-The goal is to achieve the highest possible score by sledding as far as you can without crashing into an obstacle.
+**¿Cómo desbloqueo nuevos trineos?**
 
-**How can I unlock new sleds?**
+Recoge cajas de regalo mientras deslizas. Cuando tengas suficientes, podrás
+comprar trineos nuevos en la tienda del juego.
 
-You can unlock new sleds by collecting the gift boxes that appear on the slope as you play. Once you have enough, you can purchase new sleds from the in-game shop.
+**¿Algún consejo para puntuaciones altas?**
 
-**What's the best strategy for a high score?**
-
-Focus on survival above all else. Make small, controlled movements instead of sharp turns. Look far ahead to anticipate obstacles and don't take unnecessary risks just to grab a gift. Mastering the timing of your jumps is also crucial for clearing difficult sections.
-
+Prioriza la supervivencia. Haz movimientos cortos y controlados en lugar de
+cambios bruscos, mira lejos para anticipar el terreno y no arriesgues demasiado
+solo por un regalo. Dominar la sincronización de los saltos también es clave para superar
+las secciones más complicadas.

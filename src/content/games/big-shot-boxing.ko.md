@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: big-shot-boxing
-title: '[KO] Big Shot Boxing'
+title: 'Big Shot Boxing 빅 샷 복싱'
 description: >-
-  [KO] Become a boxing legend in Big Shot Boxing! Train your fighter, climb the
-  ranks from street fights to world championships, and master simple-but-deep
-  controls in this retro-style arcade boxing game.
+  아케이드 감성의 복싱 커리어 게임 Big Shot Boxing입니다. 선수를 육성해 랭크를
+  올리고 간단하지만 깊이 있는 조작으로 세계 챔피언에 도전해 보세요.
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/big-shot-boxing.jpg
 tags:
@@ -15,51 +14,74 @@ score: 4.8/5  (1401 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Big Shot Boxing은 레트로 감성의 픽셀 아트 그래픽으로 즐기는 아케이드 복싱
+게임입니다. 플레이어는 한 무명의 복서를 키워 하위 랭커부터 차례로 도전하며,
+최종적으로 세계 챔피언 벨트를 노리게 됩니다. 경기에서 벌어들인 상금으로 능력치를
+훈련하고, 점점 더 강해지는 상대들을 공략하는 커리어 진행이 핵심입니다.
 
+경기는 단순한 조작으로 진행되지만, 상대의 스타일을 읽고 스태미나를 관리하며
+카운터를 노리는 등 생각할 거리가 많은 편입니다. 누구나 금방 익힐 수 있으면서도
+마스터하기는 어려운 타입의 게임입니다.
 
+### 플레이 전략
 
+-   **무작정 펀치를 남발하지 않기:** 버튼을 마구 눌러 공격만 하다 보면
+    스태미나가 빠르게 바닥나고, 그 틈을 노린 상대의 반격에 쉽게 다운될 수
+    있습니다. 가드를 잘 올리고, 상대 콤보가 끝나는 타이밍에 카운터를
+    넣는 식으로 침착하게 싸우세요.
+-   **상대 스타일 분석:** 경기 전 상대의 스탯을 확인할 수 있는 경우가 많습니다.
+    
+    -   **느리지만 한 방이 강한 타입:** 잽과 풋워크로 거리를 유지하며, 큰
+        스윙이 빗나간 뒤 빈틈에 콤보를 넣는 식으로 운영합니다.
+    -   **빠르지만 턱(Chin)이 약한 타입:** 방어에 집중하다가 빈틈이 보일 때
+        강한 카운터를 맞추면 다운을 쉽게 뽑아낼 수 있습니다.
+-   **훈련을 똑똑하게:**
+    -   **초반:** 힘(Strength), 속도(Speed), 턱(Chin)을 골고루 올려 기본기를
+        탄탄하게 다지는 것이 좋습니다.
+    -   **중반 이후:** 자신의 플레이 스타일에 맞게 특화하세요. KO를 노리는
+        스타일이면 힘에 투자하고, 빠른 연타로 점수 승리를 노린다면 속도에
+        더 많은 포인트를 투자하면 됩니다. 맞아도 버틸 수 있게 턱도 너무
+        소홀히 하면 안 됩니다.
+-   **스태미나 관리:** 공격과 방어 모두 스태미나를 소모합니다. 게이지가
+    바닥나면 펀치 데미지가 크게 줄고, 쓰러질 위험이 커지니, 라운드 중간에
+    잠깐씩 거리를 벌리며 숨을 고르는 것이 중요합니다.
+-   **"Big Shot"의 사용 타이밍:** 한 판을 뒤집을 수 있는 강력한 특수 펀치입니다.
+    상대 체력이 적거나, 별이 빙빙 도는 스턴 상태일 때 사용하면 다운 혹은
+    KO를 노리기 좋습니다. 애매한 상황에서 낭비하지 마세요.
+-   **막힐 때는 한 단계 내려가서 파밍:** 특정 상대에게 계속 막힌다면, 이전에
+    이겼던 약한 상대와 재대결해 상금을 모은 뒤, 능력치를 더 올리고 다시
+    도전하는 것도 좋은 방법입니다.
 
+### 조작 방법
 
-### Game Introduction
+모바일 기준 간단한 탭/스와이프 조작으로 진행됩니다.
 
-Big Shot Boxing is a retro-style arcade boxing game with a career-focused progression system. Players take on the role of an aspiring boxer, starting from the very bottom and fighting their way through the ranks to become the world champion. The game features a charming pixel-art aesthetic reminiscent of classic 8-bit and 16-bit sports titles.
-
-The core of the game revolves around managing your boxer's career. This includes participating in fights, earning money, and using that money to train and improve your fighter's attributes. As you win matches, you'll face increasingly difficult opponents, each with their own unique fighting styles and stats. The ultimate goal is to conquer every opponent and claim the championship belt. It's a game that is easy to pick up but offers a satisfying level of challenge to master.
-
-### Gameplay Strategy
-
--   **Patience and Defense are Key:** Do not mindlessly spam punches. This will drain your stamina quickly, leaving you vulnerable to counter-attacks. Learn to block effectively and wait for your opponent to finish their combo. This creates an opening for you to strike back.
--   **Study Your Opponent:** Before a match, you can often see your opponent's key stats. If they are slow but powerful, use your speed to land quick jabs and move away. If they are fast but have a weak chin, focus on landing powerful counter-punches. Adapt your strategy for each fight.
--   **Smart Training:**
-    -   **Early Game:** Focus on a balanced approach. Upgrade your Strength, Speed, and Chin stats evenly to build a solid foundation.
-    -   **Mid-Game:** Start specializing. If you prefer a knockout victory, invest heavily in Strength. If you like to win by points with fast combos, focus on Speed. Don't neglect your Chin, as it determines how much damage you can take.
--   **Stamina Management:** Every punch and block consumes stamina. When your stamina is low, your punches are weaker and you are more susceptible to being knocked down. Take short breaks during the fight to recover stamina.
--   **Use the "Big Shot" Wisely:** The "Big Shot" is a powerful special move that can turn the tide of a fight. Don't waste it. The best time to use it is when your opponent is dazed (seeing stars) or low on health to secure a knockdown or knockout.
--   **Grind When Necessary:** If you hit a wall and can't beat a particular opponent, don't be afraid to go back and fight some weaker opponents you've already beaten. This allows you to earn extra cash for training, which can make all the difference.
-
-### Controls Guide
-
-The game uses a simple and intuitive tap-and-swipe control system.
-
--   **Tap Left Side of Screen:** Throw a jab with your left hand.
--   **Tap Right Side of Screen:** Throw a cross/straight punch with your right hand.
+-   **화면 왼쪽 탭:** 왼손 잽을 날립니다.
+-   **화면 오른쪽 탭:** 오른손 스트레이트/강펀치를 날립니다.
 -
--   **Swipe Up:** Perform a powerful uppercut. This is effective for countering or breaking through an opponent's guard but is slower to execute.
--   **Hold/Swipe Down:** Block. Hold your finger on the screen to raise your guard and block incoming punches. This is essential for defense.
--   **"Big Shot" Button:** When your special meter is full, a button will appear on the screen. Tap it to unleash your "Big Shot" signature punch.
+-   **위로 스와이프:** 강력한 어퍼컷을 사용합니다. 가드가 내려간 상대에게
+    특히 효과적이지만, 시전 속도가 느려 빈틈도 큽니다.
+-   **아래로 홀드/스와이프:** 가드를 올려 상대 공격을 막습니다. 방어의 기본
+    동작입니다.
+-   **"Big Shot" 버튼:** 게이지가 가득 차면 화면에 버튼이 나타납니다. 탭하면
+    캐릭터 고유의 강력한 필살 펀치를 사용할 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문 (FAQ)
 
-**1. What are the best stats to upgrade first?**
-> In the beginning, a balanced approach is best. Distribute your training points evenly across Strength, Speed, and Chin. Once you have a feel for your playstyle, you can start specializing. Strength for KOs, Speed for combos, and Chin for durability.
+**1. 처음에는 어떤 능력치를 올리는 게 좋나요?**
 
-**2. How do I beat an opponent who is much faster than me?**
-> Focus on defense and counter-punching. Let them waste their stamina trying to hit your block. When they pause, unleash a quick combo of your own. An uppercut can sometimes interrupt their flurry of punches.
+힘·속도·턱을 고르게 올려 기초를 다진 뒤, KO 위주면 힘, 연타와 포인트 승부를 노린다면 속도에 투자하세요. 버티려면 턱도 필수입니다.
 
-**3. My punches don't seem to do any damage. Why?**
-> This could be due to two reasons: 1) Your Strength stat is too low compared to your opponent's Chin stat. You need to train more. 2) Your stamina is low. Tired fighters throw weak punches. Step back and let your stamina recover.
+**2. 나보다 훨씬 빠른 상대를 어떻게 이기나요?**
 
-**4. How does the "Big Shot" meter fill up?**
-> The meter fills as you successfully land punches and block incoming attacks. It fills faster with well-timed counters and powerful hits.
+가드 위주로 버티다가 상대 콤보가 끝나면 카운터를 넣으세요. 어퍼컷으로 흐름을 끊는 것도 좋은 방법입니다.
 
+**3. 내 펀치가 너무 약하게 느껴져요.**
+
+상대의 턱 대비 힘 수치가 낮거나, 스태미나가 바닥났을 수 있습니다. 더 훈련하고, 경기 중엔 숨을 고르며 싸우세요.
+
+**4. "Big Shot" 게이지는 어떻게 채우나요?**
+
+펀치를 맞히거나 가드로 막으면 조금씩 차오르며, 정확한 카운터와 강한 히트가 게이지를 더 빨리 올려 줍니다.

@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: bloons-td-3
-title: '[FR] Bloons TD 3'
-description: >-
-  [FR] Defend against waves of colorful bloons in Bloons TD 3! Place and upgrade
-  8 unique towers, utilize the powerful Monkey Beacon, and prepare to face the
-  first-ever MOAB in this classic tower defense strategy game.
-iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
+title: "Bloons TD 3"
+description: "Bloons TD 3 ajoute de nouvelles tours, le Monkey Beacon et le premier MOAB : construis une défense équilibrée et prépare‑toi pour le dirigeable final."
+iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
 thumbnail: /new-images/bloons-td-3.jpg
 tags:
   - casual
@@ -15,60 +12,55 @@ score: 4.9/5  (538 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Bloons TD 3* marque un tournant pour la série tower defense : on y retrouve le principe classique consistant à placer des tours de singes pour éclater des bloons avant qu’ils n’atteignent la sortie, mais avec beaucoup plus de contenu, dont les tours **Boomerang Thrower**, **Spike‑o‑pult** et le pilier de soutien qu’est le **Monkey Beacon**, ainsi que le premier dirigeable **MOAB**.
 
+Le jeu propose plusieurs tracés et trois niveaux de difficulté (Easy, Medium, Hard) qui modifient le nombre de vies de départ et le coût des tours. Tu gagnes de l’argent en éclatant les bloons, puis tu l’investis pour acheter et améliorer 8 tours distinctes. Contrairement aux épisodes avec arbres d’améliorations divergents, chaque tour peut ici acheter **toutes** ses améliorations, ce qui en fait de véritables monstres en fin de partie.
 
+**Points clés de Bloons TD 3 :**
+-   **Nouvelles tours :** ajout du Boomerang Thrower, du Spike‑o‑pult et du Monkey Beacon, chacun apportant une réponse différente aux vagues.
+-   **Arrivée du MOAB :** le **M.O.A.B.** (Massive Ornary Air Blimp) apparaît pour la première fois comme boss des difficultés Easy/Medium et exige un focus de dégâts conséquent.
+-   **Plus de tracés et de difficultés :** permet de rejouer longtemps en variant les layouts et les défis.
+-   **Système d’améliorations complet :** tu peux acheter toutes les améliorations disponibles d’une tour pour en faire une unité de fin de partie ultra puissante.
+-   **Immunités persistantes des bloons :** les bloons **Lead** (immunes aux projectiles tranchants), **Black** (immunes aux explosions) et **White** (immunes au gel) obligent à varier les types de dégâts.
 
-### Game Introduction
+### Guide de jeu
 
-Bloons TD 3 is a pivotal entry in the tower defense series that significantly expanded upon its predecessors. The core gameplay remains focused on placing monkey towers to pop waves of "Bloons" before they complete a designated path. This installment, however, introduced several key features that became staples of the series.
+-   **Départ équilibré :** commence avec des Dart Monkeys et des Tack Shooters, puis améliore vite tes Dart Monkeys en « Piercing Darts ». Un Boomerang Thrower placé dans une portion courbe couvre parfaitement les packs de bloons du début.
+-   **Prévoir les bloons de plomb (manche 26) :** les bloons Lead arrivent dès la manche 26 et seuls les dégâts explosifs peuvent les percer. Construis une Bomb Tower et achète rapidement « Bigger Bombs », sinon ils traverseront ta défense.
+-   **Exploiter le Monkey Beacon :** le Beacon augmente fortement la portée des tours dans son rayon. Installe‑le au centre et bâtis autour de lui tes tours phares ; l’amélioration « Super Range » est une priorité absolue.
+-   **Combo « Beacon + Super Monkey » :** en fin de jeu, un Super Monkey collé à un Beacon maxé profite d’une portée quasi globale et nettoie les vagues denses et le MOAB très efficacement.
+-   **Comment détruire le MOAB :** le dirigeable apparaît à la manche 50 (Easy/Medium) et possède énormément de points de vie. Prépare cette configuration :
+    -   un ou plusieurs Super Monkeys bien placés pour infliger de lourds dégâts mono‑cible ;
+    -   un paquet de Bomb Towers paramétrées sur la cible « Strong » pour concentrer le feu sur le dirigeable ;
+    -   suffisamment d’armes de zone pour éliminer les Ceramic Bloons libérés après l’explosion.
+-   **Spike‑o‑pults sur les lignes droites :** place-les au début des longs segments rectilignes ; leurs projectiles roulent loin et percent plusieurs bloons à la suite.
 
-The game offers multiple tracks and three difficulty levels (Easy, Medium, Hard), each with a different number of starting lives and tower costs. Players earn money by popping Bloons, which is then used to buy and upgrade eight different towers. A major change in BTD3 is that each tower has its own unique upgrades, and players can purchase all available upgrades for a single tower, unlike later games which introduced branching paths.
+### Commandes
 
-**Key Features of Bloons TD 3:**
--   **New Towers:** The roster was expanded to eight towers, introducing the **Boomerang Thrower**, **Spike-o-pult**, and the crucial support tower, the **Monkey Beacon**.
--   **The MOAB:** This game marks the very first appearance of the **M.O.A.B.** (Massive Ornary Air Blimp). This tough, slow-moving blimp acts as a "boss" on the final round of Easy and Medium difficulties, requiring a powerful, focused defense to take down.
--   **Multiple Tracks & Difficulties:** Provided much more replayability than previous titles.
--   **Full Upgrade System:** Players could fully upgrade a tower by purchasing all of its available enhancements, making for very powerful late-game units.
--   **Persistent Bloon Immunities:** The concepts of **Lead** (immune to sharp), **Black** (immune to explosions), and **White** (immune to freeze) Bloons are central to the game's strategy.
+Le jeu utilise une interface simple au clic.
 
-### Gameplay Strategy
+-   **Sélection & placement :** clique sur une tour dans le panneau de droite, puis sur une case valide de la carte pour la poser.
+-   **Améliorations :** clique sur une tour déjà posée pour ouvrir ses upgrades disponibles et achète celles que tu veux.
+-   **Lancer / accélérer la manche :** utilise les boutons en bas à droite pour démarrer la vague suivante ou accélérer le jeu.
+-   **Raccourcis clavier :** les touches 1 à 8 sélectionnent directement une tour, et la barre d’espace démarre la manche suivante.
 
--   **Balanced Start:** Begin with Dart Monkeys and Tack Shooters. Upgrade your Dart Monkeys to "Piercing Darts" quickly. A Boomerang Thrower is excellent for covering curved sections of the track.
--   **Prepare for Lead Bloons (Round 26):** Lead Bloons make their first appearance on round 26. You **must** have a Bomb Tower with the "Bigger Bombs" upgrade ready to deal with them. No other early-game tower can pop them.
--   **Leverage the Monkey Beacon:** The Monkey Beacon is one of the most important towers. It increases the range of all towers within its radius. Place it in a central location and build a cluster of your most powerful towers around it. The "Super Range" upgrade for the Beacon is a top priority.
--   **The "Beacon Super Monkey" Strategy:** The most dominant late-game strategy involves placing a Super Monkey right next to a fully upgraded Monkey Beacon. The massive range boost turns the Super Monkey into a full-screen map clearer, essential for handling the dense final waves.
--   **How to Beat the MOAB:** The MOAB appears on round 50 (Easy/Medium). It has a lot of health. The best way to destroy it is with high, single-target damage.
-    -   A Super Monkey (especially one buffed by a Beacon) is the best option.
-    -   A cluster of several Bomb Towers set to "target strong" can also focus fire on it effectively.
-    -   Remember, after the MOAB pops, it releases several Ceramic Bloons, so make sure your defense can handle the aftermath.
--   **Spike-o-pults for Straights:** Place Spike-o-pults at the beginning of long, straight paths. Their spiked balls can travel a long distance, popping multiple Bloons along the way.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+**1. Je n’arrive pas à éclater les bloons de plomb, que faire ?**  
+> Les Lead sont insensibles aux projectiles tranchants (darts, tacks, boomerangs). Il faut une Bomb Tower ou toute source de dégâts explosifs pour les ouvrir.
 
-The game uses a simple and intuitive point-and-click interface.
+**2. Quel est ce grand dirigeable bleu à la fin du jeu ?**  
+> C’est le **M.O.A.B.**, un boss très résistant. Il avance lentement mais possède énormément de points de vie ; prépare un gros focus de dégâts avant qu’il n’atteigne la sortie.
 
--   **Select & Place Tower:** Click a tower from the right-hand panel, then click on a valid spot on the map to place it.
--   **Upgrade Tower:** Click on an existing tower on the map to see its available upgrades in the panel. Click an upgrade to purchase it.
--   **Start Round/Fast Forward:** Use the buttons at the bottom right to start the next round or to speed up the game.
--   **Hotkeys:** Use the number keys (1-8) to select towers. The spacebar starts the next round.
+**3. Pourquoi construire le Monkey Beacon alors qu’il n’attaque pas ?**  
+> Le Beacon est une tour de support : il confère un bonus de portée (et selon les upgrades d’autres boosts) à toutes les tours proches. Un Super Monkey placé à côté peut couvrir presque toute la carte.
 
-### Frequently Asked Questions (FAQ)
+**4. Combien de manches compte le jeu ?**  
+> -   **Easy :** 50 manches.  
+> -   **Medium :** 50 manches.  
+> -   **Hard :** 75 manches avec une pression beaucoup plus forte sur la fin.
 
-**1. I can't pop the grey (Lead) Bloons! What do I do?**
-> Lead Bloons are immune to all sharp projectiles (darts, tacks, boomerangs). You must use a Bomb Tower to pop them.
-
-**2. What is the big blue blimp at the end of the game?**
-> That is the M.O.A.B. (Massive Ornary Air Blimp). It is a very durable boss Bloon. It moves slowly but can absorb a lot of damage before it pops.
-
-**3. Why should I use the Monkey Beacon? It doesn't attack.**
-> The Monkey Beacon is a support tower. It provides a crucial range boost to all towers placed near it. A Super Monkey next to a Beacon can cover almost the entire map, making it far more effective.
-
-**4. How many rounds are there?**
-> -   **Easy Difficulty:** 50 rounds.
-> -   **Medium Difficulty:** 50 rounds.
-> -   **Hard Difficulty:** 75 rounds.
-
-**5. What's the difference between Black and White Bloons?**
-> Black Bloons are immune to explosions (from Bomb Towers). White Bloons are immune to being frozen (by Ice Towers). You need other towers like Dart Monkeys or Boomerangs to handle them.
-
+**5. Quelle est la différence entre les bloons noirs et blancs ?**  
+> Les bloons noirs sont immunisés aux explosions (les Bomb Towers ne les touchent pas) et les blancs sont immunisés au gel. Utilise des tours comme les Dart Monkeys ou Boomerangs pour t’en débarrasser.

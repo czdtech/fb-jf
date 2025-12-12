@@ -1,87 +1,42 @@
 ---
+title: "Carrom Clash キャロム・クラッシュ"
+description: "「Carrom Clash」で本格的なボードゲーム体験を。おはじきビリヤードとも呼ばれるキャロムで、ストライカーを弾き、自分の駒をポケットに入れよう。"
+iframeSrc: "https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/"
+thumbnail: "/new-images/carrom-clash.png"
+urlstr: "carrom-clash"
+score: "4.4/5  (2600 votes)"
+tags: ["sports", "puzzle", "action"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: carrom-clash
-title: '[JA TRANSLATION NEEDED] Carrom Clash'
-description: >-
-  [JA TRANSLATION NEEDED] Experience the classic tabletop game of Carrom on your
-  device! Aim your striker, pocket your pieces, and cover the queen to defeat
-  your opponent in this game of skill and precision.
-iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
-thumbnail: /new-images/carrom-clash.png
-tags:
-  - sports
-  - puzzle
-  - action
-score: 4.4/5  (2600 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Carrom Clash（キャロム・クラッシュ）*は、世界中で愛されているテーブルゲーム「キャロム（カロム）」のリアルなデジタル版です。「指で弾くビリヤード」と形容されることが多いこのゲームでは、プレイヤーは「ストライカー」と呼ばれる大きめのディスクを指で弾き、自分の色の駒（黒または白）をボードの四隅にあるポケットに落としていきます。
 
-[JA TRANSLATION NEEDED] Carrom Clash is a realistic digital version of the beloved tabletop "strike and pocket" game, Carrom. Often described as finger billiards, the game challenges you to use a larger disc, the "striker," to flick your set of assigned pieces (either black or white) into the four corner pockets. The game requires precision, strategy, and a good understanding of angles to outmaneuver your opponent and clear your pieces first.
+正確なショット、戦略的な配置、そして角度の理解が勝利への鍵となります。相手よりも先に自分の持ち駒を全てポケットに入れ、勝利を掴み取りましょう。
 
-### Gameplay Strategy & Walkthrough
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] 1.  **The Objective:** Be the first player to pocket all of your pieces (black or white). To win, you must also pocket and "cover" the red Queen.
-[JA TRANSLATION NEEDED] 2.  **Pocketing Your Pieces:** On your turn, you shoot the striker from your baseline. If you successfully pocket one of your own pieces, you get to shoot again.
-[JA TRANSLATION NEEDED] 3.  **The Queen:** The red Queen is a special piece. You can pocket it any time after you've sunk your first piece. However, to secure the points for the Queen, you *must* sink one of your own pieces immediately on the very next shot. This is called "covering the Queen."
-[JA TRANSLATION NEEDED] 4.  **Fouls:** Be careful not to pocket your striker! This is a foul and results in a penalty, where one of your already pocketed pieces is returned to the center of the board.
-[JA TRANSLATION NEEDED] 5.  **Bank Shots:** Use the sides of the board to your advantage. Bouncing the striker off the edges can help you hit pieces that are in difficult positions.
+1.  **目的:** 自分の割り当てられた色（黒または白）の駒を、相手より先に全てポケットに入れることです。勝利を確定させるには、最後に赤い「クイーン」も落としてカバーする必要があります。
+2.  **自分の番でやること:** 手前のベースラインからストライカーを撃ちます。自分の駒をポケットに入れることに成功すれば、続けてもう一度撃つことができます（連続手番）。
+3.  **クイーンについて:** 赤いクイーンは特別な駒です。最初の1つを入れた後ならいつでも落とすことができますが、クイーンを落とした直後のショットで、**必ず自分の駒をもう1つ落とさなければなりません（カバー）**。失敗するとクイーンは中央に戻されます。
+4.  **ファウル:** ストライカー自体をポケットに落としてはいけません。これはファウルとなりペナルティとして、既にポケットに入れた自分の駒が1つボード中央に戻されてしまいます。
+5.  **バンクショット:** 直接狙えない時は、ボードの枠（クッション）に反射させて狙う「バンクショット」を使いましょう。これができるかどうかが勝敗を分けます。
 
-### Controls Guide
+### 操作ガイド
 
-*   **Position Striker:** Click and drag the striker left and right along your baseline to position it for your shot.
-    - **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.（日本語訳が必要）
-    - **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.（日本語訳が必要）
-    - **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.（日本語訳が必要）
-    - **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.（日本語訳が必要）
-    - **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.（日本語訳が必要）
-    - **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.（日本語訳が必要）
-*   **Aim and Shoot:** Click on the striker and pull back. An aiming line will appear. The further you pull back, the more powerful your shot will be. Release to shoot.
+*   **位置調整:** ストライカーをクリックしてドラッグし、ベースライン上の打ちやすい位置に移動させます。
+*   **狙って撃つ:** ストライカーをクリックしたまま後ろに引きます。ガイドライン（予測線）が出るので方向を定め、引く長さでパワーを調節して指を離すと発射します。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-*   **Q: What does it mean to "cover the Queen"?**
-[JA TRANSLATION NEEDED]     *   **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.
+*   **Q: 「クイーンをカバーする」とは何ですか？**
+    *   **A:** クイーンをポケットに入れただけでは得点になりません。その直後のショットで自分の色の駒を入れることで、初めてクイーン獲得が確定します。これを「カバーする」と呼びます。
 
-*   **Q: What happens if I pocket the striker?**
-[JA TRANSLATION NEEDED]     *   **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
+*   **Q: 相手の駒を入れてしまったら？**
+    *   **A:** 相手の得点（アシスト）になり、自分のターンは終了します。続けて撃てるのは「自分の駒を入れた時」だけです。
 
-*   **Q: What if I pocket my opponent's piece?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
-- **Q: What if I pocket my opponent's piece?**
-    - **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
-- **Q: What happens if I pocket the striker?**
-    - **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.
-- **Q: What does it mean to "cover the Queen"?**
-### よくある質問（FAQ）
-- **Aim and Shoot:** Click on the striker and pull back. An aiming line will appear. The further you pull back, the more powerful your shot will be. Release to shoot.
-- **Position Striker:** Click and drag the striker left and right along your baseline to position it for your shot.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
-- **Q: What if I pocket my opponent's piece?**
-    - **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
-- **Q: What happens if I pocket the striker?**
-    - **A:** After you legally pocket the red Queen, you must successfully pocket one of your own pieces in the immediate next shot of the same turn. If you fail to do so, the Queen is placed back in the center of the board.
-- **Q: What does it mean to "cover the Queen"?**
-
-    - **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
-[JA TRANSLATION NEEDED]     *   **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
-
+*   **Q: ストライカーが穴に落ちたらどうなりますか？**
+    *   **A:** ファウルです。ペナルティとして、既に獲得した自分の駒を1つ返却しなければならず、ターンも終了します。

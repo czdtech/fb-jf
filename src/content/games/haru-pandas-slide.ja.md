@@ -1,71 +1,37 @@
 ---
+title: "Haru Pandas Slide"
+description: "Haru Pandas Slideは癒やしのスライドパズルです。タイルをスライドさせて愛らしいパンダの写真を完成させましょう。最小限の手数と論理的思考でクリアを目指します。"
+iframeSrc: "https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/"
+thumbnail: "/new-images/haru-pandas-slide.png"
+urlstr: "haru-pandas-slide"
+score: "4.1/5  (1953 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: haru-pandas-slide
-title: '[JA TRANSLATION NEEDED] Haru Pandas Slide'
-description: >-
-  [JA TRANSLATION NEEDED] Haru Pandas Slide is a chill slider — slide tiles to
-  reassemble panda pictures with minimal moves and satisfying logic.
-iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
-thumbnail: /new-images/haru-pandas-slide.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.1/5  (1953 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Haru Pandas Slideは、画像ベースのスライドパズルです。行や列に沿ってタイルを動かし、愛らしいパンダのシーンを復元しましょう。後半のステージではタイルの数が増え、経路を制限する「ロックされたタイル」が登場するため、行き当たりばったりではなく、計画的な順序立てが報われます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Haru Pandas Slide presents image‑based sliding puzzles. Move tiles along rows/columns to restore adorable panda scenes. Later boards increase tile counts and introduce locked tiles that constrain pathing, rewarding planned sequences over trial‑and‑error.
+1.  **枠（フレーム）から:** まず外枠を完成させて、探索の複雑さを減らしましょう。
+2.  **帯（バンド）で解く:** 明確な色の帯（空/森/パンダ）を一度に1つずつ組み立てていきましょう。
+3.  **3手サイクル:** 完成したエリアを壊さずに位置を回転させるために、3つのタイルを使ったサイクル（循環移動）を使いましょう。
+4.  **ロックへの意識:** ロックされたタイルの周りで動きを計画しましょう。それらをアンカー（固定点）として扱います。
+5.  **最小限の手数:** 進捗を無駄にしない（元に戻す操作を避ける）よう、先読みして計画しましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Frame first: Complete the border to reduce search complexity.
-[JA TRANSLATION NEEDED] 2.  Solve bands: Reassemble distinct color bands (sky/forest/pandas) one at a time.
-[JA TRANSLATION NEEDED] 3.  Three‑move cycles: Use 3‑tile cycles to rotate positions without breaking placed areas.
-[JA TRANSLATION NEEDED] 4.  Lock awareness: Route moves around locked tiles; treat them as anchors.
-[JA TRANSLATION NEEDED] 5.  Minimal moves: Plan ahead to avoid undoing progress.
+- **スライド:** 許可された軸に沿ってタイルをドラッグします。サポートされている場合は、アンドゥ（元に戻す）/リセットが可能です。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Drag tiles along permitted axes; undo/reset if supported.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I break my solved area — how to avoid?
-  
-[JA TRANSLATION NEEDED]   A: Use 3‑tile cycles that rotate a subset without touching the completed band.
-
-- Q: Any hint system?
-  
-[JA TRANSLATION NEEDED]   A: Many versions include hints or ghost previews; use sparingly.
-
-- Q: Is there a timer?
-  
-
-
-
-
-
-- Q: I break my solved area — how to avoid?
-### よくある質問（FAQ）
-- Drag tiles along permitted axes; undo/reset if supported.
-### コントロールガイド
-- Minimal moves: Plan ahead to avoid undoing progress.
-[JA TRANSLATION NEEDED]   A: Often relaxed; some modes track move counts instead.
-
-
-
-
-
-
-A: Often relaxed; some modes track move counts instead.
-- Q: Is there a timer?
-A: Many versions include hints or ghost previews; use sparingly.
-- Q: Any hint system?
-
-
-A: Often relaxed; some modes track move counts instead.
+- **Q: 完成したエリアを壊してしまいます。避ける方法は？**
+  A: 完成した帯に触れることなく、一部を回転させる「3手サイクル」を使いましょう。
+- **Q: ヒント機能はありますか？**
+  A: 多くのバージョンにはヒントやゴースト（完成図の透かし）プレビューが含まれています。使いすぎに注意しましょう。
+- **Q: タイマーはありますか？**
+  A: 多くの場合リラックスした設定ですが、手数（ムーブ数）をカウントするモードもあります。

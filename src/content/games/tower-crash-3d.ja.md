@@ -1,83 +1,58 @@
 ---
-locale: ja
-urlstr: tower-crash-3d
-title: '[JA TRANSLATION NEEDED] Tower Crash 3D'
-description: >-
-  [JA TRANSLATION NEEDED] Demolish colorful towers in this satisfying 3D physics
-  game. Shoot balls that match the blocks' color to cause epic collapses, but be
-  strategic—you have limited shots!
-iframeSrc: >-
-  https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
+title: Tower Crash 3D
+description: Tower Crash 3Dは、タワーを破壊する3Dゲームです。ボールを落として塔を崩しましょう。
+iframeSrc: 'https://ubg98.github.io/TowerCrash3D/'
 thumbnail: /new-images/tower-crash-3d.jpg
+urlstr: tower-crash-3d
+score: 4.3/5  (2456 votes)
 tags:
-  - action
-  - shooting
-  - puzzle
-score: 4.3/5  (2100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - 3d
+  - arcade
+  - casual
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Tower Crash 3Dは、ボールを落として回転する塔を破壊するシンプルだが中毒性のある3Dゲームです。黒い部分を避けながらタワーを崩しましょう。
 
-[JA TRANSLATION NEEDED] Tower Crash 3D is a satisfying and addictive physics-based puzzle game where your goal is to demolish towers made of colorful blocks. The catch is that you must shoot balls of a specific color, and they will only destroy blocks of the same color. With limited ammunition for each level, you must aim strategically to hit critical support blocks and cause the entire structure to come crashing down below the goal line.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
+ - **ボールを落とす：** タップしてボールを落下させます
+ - **塔を破壊：** カラフルな部分を壊します
+ - **黒い部分を避ける：** 黒い部分に当たるとゲームオーバー
+ - **底まで到達：** タワーの一番下まで壊します
 
-[JA TRANSLATION NEEDED] 1.  **Match the Colors:** This is the most important rule. Look at the color of the ball loaded in your cannon and aim only for blocks of that same color. Hitting a different colored block will do nothing and waste a precious shot.
-[JA TRANSLATION NEEDED] 2.  **Aim for the Base:** Like in any demolition game, the foundation is key. Prioritize shooting the lowest blocks of the correct color. Removing the base supports will destabilize the tower and cause a much larger collapse than shooting at the top.
-[JA TRANSLATION NEEDED] 3.  **Look for Chain Reactions:** Sometimes, a single block might be supporting several others. Identify these critical blocks and target them to get the most destruction out of a single shot.
-[JA TRANSLATION NEEDED] 4.  **Conserve Your Shots:** You have a limited number of balls for each level. Don't fire randomly. Take a moment to aim each shot for maximum impact.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The controls are simple and intuitive.
-
-*   **Aim:** Move your mouse or swipe your finger left and right to aim your cannon.
-    - **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.（日本語訳が必要）
-    - **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.（日本語訳が必要）
-    - **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.（日本語訳が必要）
-    - **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.（日本語訳が必要）
-    - **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.（日本語訳が必要）
-    - **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.（日本語訳が必要）
-*   **Fire:** Click the left mouse button or tap the screen to shoot a ball.
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: Why didn't the block break when I shot it?**
-[JA TRANSLATION NEEDED]     *   **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
-
-*   **Q: How do I complete a level?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
-
-*   **Q: What is the best strategy if the tower is multi-colored?**
+### 操作ガイド
 
 
+The controls are simple and intuitive.
+ - **マウス/タッチ：** タップまたはクリックしてボールを落とす
 
 
-
-
-
-
-    - **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
-- **Q: What is the best strategy if the tower is multi-colored?**
-    - **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
-- **Q: How do I complete a level?**
-    - **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
-- **Q: Why didn't the block break when I shot it?**
-### よくある質問（FAQ）
 - **Fire:** Click the left mouse button or tap the screen to shoot a ball.
+### よくある質問（FAQ）
 
 
+- **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
 
+    - **Q: What is the best strategy if the tower is multi-colored?**
 
+- **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
 
-    - **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
-- **Q: What is the best strategy if the tower is multi-colored?**
-    - **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
-- **Q: How do I complete a level?**
-    - **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
-[JA TRANSLATION NEEDED]     *   **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
+    - **Q: How do I complete a level?**
 
+- **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
+
+    - **Q: Why didn't the block break when I shot it?**
+**ゲームの目標は何ですか？**
+
+黒い部分を避けながら、塔を完全に破壊することです。
+
+**黒い部分に当たったらどうなりますか？**
+
+ゲームオーバーになり、最初からやり直しです。
+
+**難易度は上がりますか？**
+
+はい、塔が長くなり、黒い部分が増えます。

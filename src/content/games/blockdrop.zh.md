@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: blockdrop
-title: '[ZH TRANSLATION NEEDED] BlockDrop'
+title: BlockDrop 方块下落拼图
 description: >-
-  [ZH TRANSLATION NEEDED] A classic and relaxing block puzzle game. Drag and
-  drop the shapes onto the 10x10 grid to form complete lines and clear them from
-  the board. How high can you score?
+  《BlockDrop 方块下落拼图》是一款经典 10×10 格子方块游戏，拖放三块给定形状到棋盘上，凑满整行或整列即可
+  消除，没有时间限制，却非常考验布局与预判。
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/blockdrop.png
 tags:
@@ -17,30 +16,34 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] BlockDrop is a timeless and engaging puzzle game that challenges your strategic thinking and spatial awareness. The goal is to place different block shapes onto a 10x10 grid to create complete lines, either horizontally or vertically. When a line is completed, it disappears, freeing up space and earning you points. With no time limit, it’s a relaxing yet challenging game where you must plan your moves carefully to prevent the board from filling up.
+*BlockDrop* 是一款节奏平和但极具黏性的方块拼图游戏。你需要将底部出现的不同形状方块放入 10×10 的方格棋盘中，只要某一整行或整列被完全填满，就会被清除并为你带来分数，同时释放新的空间。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Plan for All Three Blocks:** The game provides you with three block shapes at a time. Before placing the first one, mentally check if there is a viable spot for all three. This prevents you from getting stuck with an unplaceable piece.
-2.  [ZH TRANSLATION NEEDED] **Prioritize Combos:** While clearing any line is good, clearing multiple lines at once with a single piece (a "combo") will award you a much higher score. Always be on the lookout for these opportunities.
-3.  [ZH TRANSLATION NEEDED] **Keep Your Options Open:** Try to avoid creating single, isolated holes in your grid, as they can be very difficult to fill later on. The more open and less fragmented your board is, the more options you will have for placing new pieces.
-4.  [ZH TRANSLATION NEEDED] **No Rotations:** The central challenge of the game is that you cannot rotate the blocks. You must learn to recognize the shapes and how they can fit together in their fixed orientations.
+游戏没有回合时间限制，因此完全不会催促你“快点下手”；真正的压力在于当棋盘逐渐被填满、可用空间越来越少时，你是否还能为接下来的三块形状找到合适的落点。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-[ZH TRANSLATION NEEDED] The game features a simple drag-and-drop control scheme.
+1.  **每次都要“预判三块”**  
+    每一轮底部都会给出三块方块。在落下第一块之前，先粗略检查三块是否都有可行的位置，避免先放了最顺手的，结果第三块完全无处可放。
+2.  **优先构造连消**  
+    单行清除当然有用，但一次性清掉两行甚至更多行能获得更高得分。找到能用一块触发多行消除的机会，并在棋盘健康的前提下刻意布局。
+3.  **保持棋盘通透**  
+    尽量不要留下孤立单格或奇怪的碎洞，这些空位很难再被利用。棋盘越开阔，你能摆放的形状就越多。
+4.  **牢记无法旋转**  
+    给定的形状方向是固定的，必须按原样放置。熟悉每种形状在固定朝向下能配合出的典型摆法，关键时刻才能迅速找到落点。
 
-*   **Place Blocks:** Use your mouse or finger to drag one of the three shapes from the bottom and drop it onto an empty space on the 10x10 grid.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+游戏以直观的拖拽方式进行。
 
-*   **Q: Can I rotate the pieces?**
-     *   **A:** No, blocks cannot be rotated. You must use them in the orientation they are given.
+-   **拖拽摆放方块：** 使用鼠标或手指，从底部选中一块形状，拖到 10×10 棋盘上合适的位置后松开即可放置。
 
-*   **Q: How does the game end?**
-     *   **A:** The game ends when there is no available space on the grid to place any of the three current block shapes.
+### 常见问题解答（FAQ）
 
-*   **Q: What's the best way to achieve a high score?**
-     *   **A:** High scores come from two things: longevity and combos. Play as long as possible by keeping the board clean. More importantly, try to set up the board so you can clear two, three, or even four lines with a single piece to get massive combo bonuses.
-
+-   **问：方块可以旋转吗？**
+    -   **答：** 不可以。你必须按照给定方向使用每一块拼图，这是游戏难度的核心之一。
+-   **问：游戏在什么情况下结束？**
+    -   **答：** 当棋盘上不存在可以容纳当前三块任意一块的位置时，游戏立即结束，即便棋盘还有零散空格。
+-   **问：怎样更容易拿到高分？**
+    -   **答：** 关键在于延长对局时间并多做连消。保持棋盘干净、为多行清除预留空间，分数自然会滚雪球般提升。

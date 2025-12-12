@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: jewel-magic
-title: '[KO] Jewel Magic'
+title: Jewel Magic 매직 매치3
 description: >-
-  [KO] Unleash the magic of gems in Jewel Magic, a classic match-3 puzzle game.
-  Match sparkling jewels, create powerful combos, and clear challenging levels
-  in this enchanting adventure.
+  클래식 3매치 퍼즐 'Jewel Magic' 가이드입니다. 보석을 맞바꿔 특수 보석과 연쇄 반응을 만들고, 다양한 목표를 가진 레벨을
+  공략하는 방법을 소개합니다.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/jewel-magic.png
 tags:
@@ -18,39 +17,62 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Jewel Magic*은 반짝이는 보석과 마법 같은 연출이 특징인
+클래식 3매치 퍼즐 게임입니다. 인접한 보석을 교환해 같은 색
+3개 이상을 한 줄로 맞추면 보석이 사라지고 점수를 얻으며,
+수백 개의 레벨에서 각각 다른 목표를 달성해야 합니다.
 
-### Detailed Game Introduction
+어려운 레벨에서는 특수 보석과 긴 연쇄 반응을 어떻게 활용하느냐가
+승부를 가릅니다.
 
-Jewel Magic is a classic and captivating match-3 puzzle game that invites you into a world of sparkling gems and enchanting challenges. The core objective is to swap adjacent jewels to create a line of three or more identical gems, causing them to vanish and score points. With hundreds of levels, each presenting a unique goal, players must think strategically to create powerful special jewels, trigger dazzling chain reactions, and solve every puzzle presented to them.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **특수 보석 이해하기**  
+    - 4개 일직선 매치: 한 줄을 지우는 번개 보석 생성  
+    - L/T자 5개 매치: 주변을 폭발시키는 폭탄 보석 생성  
+    - 일직선 5개 매치: 특정 색을 전부 없애는 무지개 보석 생성
 
-1.  **[KO]** **Master the Special Gems:** To pass the toughest levels, you must create and utilize special gems. These are formed by matching more than three jewels at once:
-    *   **[KO]** **Lightning Jewel:** Match 4 jewels in a line to create a jewel that can clear an entire row or column.
-    *   **[KO]** **Bomb Jewel:** Match 5 jewels in an L or T shape to create a bomb that explodes and destroys a block of surrounding jewels.
-    *   **[KO]** **Rainbow Jewel:** Match 5 jewels in a straight line to create a powerful rainbow jewel. Swap it with any adjacent jewel to remove all jewels of that color from the board.
+2. **특수 보석 조합 활용**  
+   번개 + 폭탄 등 특수 보석끼리 교환하면 십자 모양 폭발 등
+   훨씬 큰 효과를 얻을 수 있습니다. 어려운 지형일수록 이런
+   조합을 의도적으로 세팅하는 것이 중요합니다.
 
-2.  **[KO]** **Combine for Power:** The ultimate strategy is to combine two special jewels. Swapping a bomb and a lightning jewel, for instance, creates a massive cross-shaped blast. Experiment with different combinations to see their powerful effects.
+3. **목표에 집중하기**  
+   젤리·장애물 제거, 특정 아이템 떨어뜨리기 등 레벨별 목표를
+   먼저 확인하고, 그 목표를 직접 돕는 매치를 우선하세요.
 
-3.  **[KO]** **Focus on the Goal:** Each level has a specific objective, such as reaching a target score, clearing all the jelly from behind the jewels, or dropping special items to the bottom. Always focus your efforts on achieving that goal within the limited number of moves.
+4. **하단에서 시작하기**  
+   아래쪽에서 매치를 만들면 위 보석이 한꺼번에 떨어지면서
+   자동 연쇄가 발생하기 쉽습니다. 적은 이동으로 많은 보석을
+   없앨 수 있어 효율적입니다.
 
-4.  **[KO]** **Start from the Bottom:** Making matches at the bottom of the grid increases the chance of causing a cascade, where new jewels fall into place and create automatic matches. This can help you clear the board and reach your goal much faster.
+### 조작 가이드
 
-### Controls Guide
+- **보석 교환**: 마우스 또는 터치로 보석을 드래그해 인접한
+  칸과 위치를 바꾸면, 3개 이상 매치가 되는 경우에만
 
-The game is controlled using simple mouse or touch gestures.
+- **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
+  교환이 성립합니다.
 
-*   **[KO]** **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 얼음/사슬 보석은 어떻게 처리하나요?**  
+  **A:** 해당 보석을 포함한 매치를 만들면 얼음·사슬이 깨지고,
+  여러 번 맞춰야 완전히 풀리는 경우도 있습니다.
 
-*   **[KO]** **Q: How do I get past levels with frozen or chained jewels?**
-    *   **[KO]** **A:** You must make a match that includes the frozen or chained jewel. This will break the ice or the chain, freeing the jewel to be used in future matches.
+    - **Q: 높은 점수는 어떻게 얻나요?**  
+  **A:** 특수 보석과 콤보를 최대한 활용해 한 번에 많은 보석을
+  없애는 것이 핵심입니다.
 
-*   **[KO]** **Q: What is the best way to get a high score?**
-    *   **[KO]** **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
+- **Q: 이동 횟수가 다 되면 어떻게 되나요?**  
 
-*   **[KO]** **Q: What happens when I run out of moves?**
-    *   **[KO]** **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
+    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
+
+- **Q: What happens when I run out of moves?**
+
+    - **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
+  **A:** 목표를 충족하지 못한 상태에서 이동 횟수를 모두
+  사용하면 레벨 실패로, 목숨을 소모하고 다시 도전해야 합니다.
 

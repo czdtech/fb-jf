@@ -1,13 +1,11 @@
 ---
 locale: de
 urlstr: mahjongg-candy
-title: '[DE] Mahjongg Candy'
+title: "Mahjongg Candy"
 description: >-
-  [DE] Indulge your sweet tooth and sharpen your mind with Mahjongg Candy! This
-  delightful tile-matching puzzle game challenges you to clear the board by
-  finding identical pairs of candy tiles. Strategize your moves, clear unblocked
-  tiles, and race against the clock to achieve a high score in this colorful
-  brain-teaser.
+  Still deinen Süßhunger und schärfe deinen Verstand mit Mahjongg Candy! In
+  diesem farbenfrohen Kachel-Matching-Puzzle räumst du das Brett, indem du
+  identische, freie Bonbon-Steine findest und kombinierst.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/mahjongg-candy.jpg
 tags:
@@ -19,34 +17,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
-### Game Introduction
+Mahjongg Candy ist ein süßes, kurzweiliges Kachel-Matching-Puzzle, das das
+klassische Mahjongg-Solitaire-Prinzip mit einem Bonbon-Look verbindet. Dein
+Ziel ist es, das gesamte Spielfeld zu räumen, indem du identische Paare
+freier Bonbon-Steine findest und entfernst. Das Spiel fordert dein Auge für
+Muster, deine Konzentration und etwas Vorausplanung.
 
-Mahjongg Candy is a sweet and engaging tile-matching puzzle game that puts a colorful, candy-themed spin on the classic Mahjongg Solitaire. The objective is to clear the entire board by finding and matching identical pairs of candy tiles. It's a game that tests your observation skills, pattern recognition, and strategic thinking.
+### Spielanleitung
 
-### Gameplay Guide
+- **Paare kombinieren:** Klicke oder tippe auf zwei identische Bonbon-Steine,
+  um sie vom Spielfeld zu entfernen.
+- **Freie Steine:** Nur „freie“ Steine dürfen kombiniert werden. Ein Stein ist
+  frei, wenn mindestens eine Seite (links oder rechts) offen ist und kein Stein
+  direkt auf ihm liegt.
+- **Zeitlimit:** In vielen Versionen hast du nur begrenzt Zeit, also solltest du
+  schnell denken und reagieren.
+- **Strategie:** Suche nach Matches, die weitere Steine freilegen, insbesondere
+  solche, die große Bereiche blockieren. Klicke nicht einfach das erste sichtbare
+  Paar weg.
+- **Punktewertung:** Schnelle Räumungen und Ketten aus aufeinanderfolgenden
+  Treffern bringen meist mehr Punkte; manche Steine bieten Punktmultiplikatoren.
 
-- **Matching Pairs:** Click or tap on two identical candy tiles to remove them from the board.
-- **Unblocked Tiles:** Only tiles that are "unblocked" can be matched. An unblocked tile must have at least one free side (left or right) and no other tile on top of it.
-- **Time Limit:** Most versions of the game have a time limit, so you need to think and act quickly.
-- **Strategy:** Look for matches that will free up more tiles, especially those that are blocking other tiles. Don't just match the first pair you see.
-- **Scoring:** Longer chains of matches or faster completion often lead to higher scores. Some tiles might offer score multipliers.
+### Steuerung
 
-### Controls Guide
+- **Maus/Touch:** Wähle Steine per Klick/Tap aus, um sie zu kombinieren.
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+### FAQ
 
-### Frequently Asked Questions (FAQ)
+**Was ist das Ziel von Mahjongg Candy?**  
+Das Ziel ist, alle Bonbon-Steine zu entfernen, indem du identische, freie Paare
+findest.
 
-**What is the goal of Mahjongg Candy?**
+**Was passiert, wenn ich feststecke?**  
+Viele Mahjongg-Spiele bieten Hinweise, die ein mögliches Paar hervorheben,
+oder eine Shuffle-Funktion, die die verbleibenden Steine neu anordnet. Oft
+ist dies mit Punktabzug verbunden.
 
-The main goal is to clear all the candy tiles from the board by matching identical, unblocked pairs.
-
-**What happens if I get stuck?**
-
-Many Mahjongg games offer hints that can reveal a possible match, or a shuffle option to rearrange the remaining tiles if no moves are available. Using these might incur a score penalty.
-
-**How can I improve my game?**
-
-Practice recognizing patterns and planning your moves several steps ahead. Prioritize clearing tiles that are blocking many other tiles. Try to create cascades of matches.
-
+**Wie kann ich mich verbessern?**  
+Trainiere dein Mustererkennen, plane ein paar Züge im Voraus und räume zuerst
+Steine, die viele andere blockieren. Versuche, Serien von schnellen Matches zu
+spielen, um Bonuspunkte mitzunehmen.

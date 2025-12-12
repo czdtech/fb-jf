@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: blockdrop
-title: '[DE] BlockDrop'
+title: "BlockDrop"
 description: >-
-  [DE] A classic and relaxing block puzzle game. Drag and drop the shapes onto
-  the 10x10 grid to form complete lines and clear them from the board. How high
-  can you score?
+  BlockDrop ist ein klassisches, entspanntes Blockpuzzle. Ziehe Formen auf ein
+  10×10‑Raster, fülle komplette Reihen und räume sie vom Brett – wie weit
+  kommst du, bevor der Platz ausgeht?
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/blockdrop.png
 tags:
@@ -17,33 +17,40 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+BlockDrop ist ein zeitloses 10×10‑Puzzlespiel, das dein strategisches Denken
+und räumliches Vorstellungsvermögen fordert. Du platzierst unterschiedlich
+geformte Blöcke auf einem Raster und versuchst, vollständige Reihen oder
+Spalten zu bilden. Jede komplette Linie verschwindet, bringt Punkte und schafft
+neuen Platz. Es gibt keinen Timer – du verlierst erst, wenn keiner der aktuell
+angebotenen Blöcke mehr auf das Brett passt.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-BlockDrop is a timeless and engaging puzzle game that challenges your strategic thinking and spatial awareness. The goal is to place different block shapes onto a 10x10 grid to create complete lines, either horizontally or vertically. When a line is completed, it disappears, freeing up space and earning you points. With no time limit, it’s a relaxing yet challenging game where you must plan your moves carefully to prevent the board from filling up.
+1.  **Alle drei Blöcke einplanen:** Du siehst immer drei Formen gleichzeitig.
+    Bevor du den ersten setzt, prüfe gedanklich, ob die anderen beiden noch
+    Platz finden.
+2.  **Kombos bevorzugen:** Versuche, mit einem Block mehrere Reihen oder
+    Spalten gleichzeitig zu leeren. Diese Kombos bringen deutlich mehr Punkte
+    und halten das Feld sauber.
+3.  **Board offen halten:** Isolierte Einzel‑Lücken in der Mitte sind gefährlich
+    – sie lassen sich nur mit sehr kleinen Teilen schließen. Halte das Raster
+    möglichst zusammenhängend.
+4.  **Keine Rotation:** Die Teile lassen sich nicht drehen. Lerne, ihre feste
+    Form zu erkennen und typischen Muster zu bauen, in die sie gut hineinpassen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Plan for All Three Blocks:** The game provides you with three block shapes at a time. Before placing the first one, mentally check if there is a viable spot for all three. This prevents you from getting stuck with an unplaceable piece.
-2.  **[DE]** **Prioritize Combos:** While clearing any line is good, clearing multiple lines at once with a single piece (a "combo") will award you a much higher score. Always be on the lookout for these opportunities.
-3.  **[DE]** **Keep Your Options Open:** Try to avoid creating single, isolated holes in your grid, as they can be very difficult to fill later on. The more open and less fragmented your board is, the more options you will have for placing new pieces.
-4.  **[DE]** **No Rotations:** The central challenge of the game is that you cannot rotate the blocks. You must learn to recognize the shapes and how they can fit together in their fixed orientations.
+Das Spiel nutzt ein simples Drag‑and‑Drop‑Schema.
 
-### Controls Guide
+-   **Blöcke platzieren:** Ziehe eine Form mit Maus oder Finger aus dem Auswahlbereich nach oben auf das 10×10‑Raster und lasse sie los.
 
-The game features a simple drag-and-drop control scheme.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Place Blocks:** Use your mouse or finger to drag one of the three shapes from the bottom and drop it onto an empty space on the 10x10 grid.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: Can I rotate the pieces?**
-    *   **[DE]** **A:** No, blocks cannot be rotated. You must use them in the orientation they are given.
-
-*   **[DE]** **Q: How does the game end?**
-    *   **[DE]** **A:** The game ends when there is no available space on the grid to place any of the three current block shapes.
-
-*   **[DE]** **Q: What's the best way to achieve a high score?**
-    *   **[DE]** **A:** High scores come from two things: longevity and combos. Play as long as possible by keeping the board clean. More importantly, try to set up the board so you can clear two, three, or even four lines with a single piece to get massive combo bonuses.
-
+-   **F: Kann ich Formen drehen?**
+    -   **A:** Nein, Rotation ist nicht vorgesehen – das macht den Reiz der Platzierung aus.
+-   **F: Wann ist das Spiel vorbei?**
+    -   **A:** Sobald keiner der drei aktuellen Blöcke mehr irgendwo auf das Brett passt, endet die Runde.
+-   **F: Wie erreiche ich hohe Punktzahlen?**
+    -   **A:** Spiele möglichst lange, halte das Brett sauber und bereite Kombozüge vor, bei denen du mehrere Linien mit einem Block leeren kannst.

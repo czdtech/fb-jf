@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: zumba-ocean
-title: '[KO] Zumba Ocean'
+title: Zumba Ocean 줌바 오션
 description: >-
-  [KO] Dive into a marble-shooting puzzle adventure! Shoot colorful pearls to
-  make matches of three or more and clear the chain before it reaches the shell.
-  A classic and addictive challenge with an ocean theme.
+  바닷속을 배경으로 한 구슬 슈터 퍼즐 게임입니다. 움직이는 진주 체인에 알맞은 색의 구슬을 쏘아 세 개 이상 매치시키고, 체인이 조가비에
+  도달하기 전에 모두 없애야 합니다.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/zumba-ocean.png
 tags:
@@ -17,33 +16,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Zumba Ocean은 Zuma와 유사한 스타일의 바다 테마 구슬 슈팅 퍼즐 게임입니다. 해저 길을 따라 다양한
+색의 진주 구슬이 줄지어 움직이고, 플레이어는 중앙의 발사대를 조종해 같은 색 구슬을 세 개 이상
+연속으로 맞춰 체인을 끊어야 합니다. 체인의 맨 앞 구슬이 길 끝의 조가비에 닿기 전에 모든 구슬을
+없애면 스테이지를 클리어할 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style of classics like Zuma. Set in a beautiful ocean world, a chain of colorful pearls slowly moves along a path. You control a shooter that fires pearls. Your mission is to eliminate the entire chain by shooting pearls to create matches of three or more of the same color before the chain reaches the final shell.
+1.  **콤보를 노려 연쇄 반응 만들기**: 한 번 매치를 만들었을 때 끊어진 양쪽 끝이 같은 색이라면,
+    서로 당겨지며 붙어 자동으로 추가 매치가 일어나기도 합니다. 이런 연쇄 반응(콤보)을 활용하면
+    적은 샷으로도 큰 구간을 정리하고 높은 점수를 얻을 수 있습니다.
+2.  **틈 사이를 노려 뒤쪽 체인 공격하기**: 체인이 구불구불 움직이다 보면 작은 틈이 생깁니다.
+    이 틈을 통해 뒤쪽 구슬을 맞추면, 앞부분을 당겨오며 더 큰 콤보를 만들 수 있습니다.
+3.  **특수 구슬 활용하기**: 체인 안에는 폭탄, 역행, 느려짐 등 특수 효과를 가진 구슬이 등장합니다.
+    이 구슬을 맞추면 주변 구슬을 한 번에 제거하거나, 체인의 진행 방향을 잠시 되돌리는 등 강력한
+    효과가 발동합니다.
+4.  **위험할 땐 앞부분부터 정리하기**: 체인의 끝이 조가비에 가까워졌다면, 콤보보다는 앞부분 구슬을
+    우선 지워 체인을 뒤로 밀어내는 것이 최우선입니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Create Combos:** The most effective way to clear the chain is by triggering combos. When you make a match, if the two new ends of the chain are the same color, they will attract each other and merge, often causing a new match automatically. This chain reaction is a combo and awards bonus points.
-2.  **[KO]** **Aim Through Gaps:** As the chain twists and turns, gaps will appear. Use these gaps to your advantage to make matches in the parts of the chain that are further behind. This can help set up bigger combos.
-3.  **[KO]** **Use Power-ups:** Be on the lookout for special pearls that appear in the chain. Shooting these can activate powerful boosters, such as a bomb that destroys a group of pearls or a reverse power-up that makes the chain move backward for a short time.
-4.  **[KO]** **Prioritize:** If the chain is getting dangerously close to the end, focus all your shots on the front part of the chain to push it back.
+*   **조준**: 마우스를 움직여 진주 발사대의 조준 방향을 정합니다.
+*   **발사**: 마우스 왼쪽 버튼을 클릭해 구슬을 발사합니다.
+*   **구슬 교체**: 발사대 자체를 클릭하거나 스페이스바를 눌러, 현재 장전된 구슬과 다음 구슬을
+    교체할 수 있는 경우가 많습니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Aim:** Move your mouse to aim the pearl shooter.
-*   **[KO]** **Shoot:** Click the left mouse button to fire the pearl.
-*   **[KO]** **Swap:** You can often click on the shooter itself or press a key (like the spacebar) to swap the current pearl with the next one.
+*   **Q. 게임의 목표는 무엇인가요?**  
+    **A:** 체인의 끝이 조가비에 도달하기 전에, 이동 중인 모든 진주 구슬을 세 개 이상 매치시켜
+        제거하는 것입니다.
 
-### Frequently Asked Questions (FAQ)
+    - **Q. 한 개라도 조가비에 닿으면 어떻게 되나요?**  
+    **A:** 조가비에 구슬이 닿는 순간 해당 스테이지는 실패 처리되고, 처음부터 다시 도전해야 합니다.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To completely destroy the chain of pearls before any of them reach the shell at the end of the path.
+*   **Q. 높은 점수를 얻으려면 어떻게 해야 하나요?**  
 
-*   **[KO]** **Q: What happens if a pearl reaches the end?**
-    *   **[KO]** **A:** You lose the level and must start over.
+    - **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
 
-*   **[KO]** **Q: How do I get a high score?**
-    *   **[KO]** **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
+- **Q: How do I get a high score?**
 
+    - **A:** You lose the level and must start over.
+    **A:** 최대한 많은 콤보와 연쇄 반응을 만들어 한 번에 큰 구간을 정리하고, 스테이지를 빠르게
+        클리어하는 것이 핵심입니다. 특수 구슬을 적절히 활용해 위기 상황을 기회로 바꿔 보세요.

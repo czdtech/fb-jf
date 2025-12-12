@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: bombs-drops-physics-balls
-title: '[KO] Bombs Drops Physics balls'
+title: 'Bombs Drops Physics balls 폭탄 드롭 피직스 볼'
 description: >-
-  [KO] Bombs Drops Physics balls is a playful physics puzzler — time drops,
-  trigger chain reactions, and clear targets with smart setups.
+  Bombs Drops Physics balls는 중력과 타이밍, 간단한 폭파 기믹이 어우러진
+  물리 퍼즐 게임입니다. 공이나 폭탄을 떨어뜨려 구조물을 무너뜨리고, 연쇄
+  반응을 일으켜 최소한의 드롭으로 목표를 달성해 보세요.
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
 thumbnail: /new-images/bombs-drops-physics-balls.jpg
 tags:
@@ -15,37 +16,63 @@ score: 3.9/5  (1598 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bombs Drops Physics balls는 떨어지는 공과 폭탄, 그리고 중력을 활용해 구조물을
+무너뜨리는 캐주얼 물리 퍼즐입니다. 각 스테이지마다 목표 지점이나 특정 블록을
+제거해야 하며, 주어진 공/폭탄을 적절한 위치와 타이밍에 떨어뜨려 연쇄 반응을
+일으키는 것이 핵심입니다.
 
+플레이어는 단순히 많이 떨어뜨리는 것이 아니라, **최소한의 드롭으로 최대 효과를
+내는 우아한 해법**을 찾아내는 과정에서 큰 재미를 느낄 수 있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Bombs Drops Physics balls mixes gravity, timing, and simple demolition. Drop balls or bombs onto contraptions, topple stacks, and trigger chain reactions to meet level goals. The fun is in finding minimal, elegant solutions that use physics in your favor.
+1.  **약점을 먼저 찾아보기**  
+    떨어뜨리기 전에 구조물을 천천히 살펴보세요. 기둥, 쐐기 모양 블록, 긴장된
+    상태로 버티고 있는 지지대처럼 전체 구조를 지탱하는 약점 부분을 정확히
+    노리면, 한 번의 충돌만으로도 큰 붕괴를 일으킬 수 있습니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **연쇄 반응 타이밍 조절**  
+    여러 번 떨어뜨릴 수 있을 때는 첫 번째 충돌이 구조를 어떻게 바꾸는지 본 후,
+    두 번째 드롭 타이밍을 조절하는 것이 좋습니다. 일부 레벨에서는 첫 타격으로
+    구조를 기울게 만든 뒤, 두 번째 폭탄으로 마무리하는 식의 단계별 접근이
+    매우 효과적입니다.
 
-1.  **[KO]** Scout weak points: Hit supports, wedges, or tensioned pieces to collapse structures efficiently.
-2.  **[KO]** Time cascades: Delay second drops so the first impact sets the stage.
-3.  **[KO]** Use angles: Side hits create torque and bigger topples than straight drops.
-4.  **[KO]** Minimize drops: Fewer, smarter drops often beat spammy solutions.
-5.  **[KO]** Reset often: Quick retries help you iterate on timing and angles.
+3.  **측면 타격을 활용하기**  
+    정중앙을 정면으로 치는 것보다, **옆에서 비스듬히 때리는 충돌**이 더 큰
+    회전력(토크)을 만들어냅니다. 옆구리를 치면 구조물이 통째로 넘어가며 더 많은
+    블록을 휩쓸어 갈 수 있으므로, 가능하다면 측면을 노려 보세요.
 
-### Controls Guide
+4.  **드롭 수를 최소화하기**  
+    무작정 많이 떨어뜨리는 것보다, 위치와 타이밍을 잘 골라 소수의 드롭으로
+    해결하는 편이 더 좋은 점수를 받을 때가 많습니다. 공이 굴러가거나 튕기는
+    경로까지 고려해 한 번의 드롭으로 가능한 한 많은 목표를 처리해 보세요.
 
-- Aim and drop with mouse/touch; some levels allow limited nudges.
-- Reset/Undo where available for fast iteration.
+5.  **빠른 리셋으로 반복 연습하기**  
+    각 레벨에는 재시작/되돌리기 기능이 제공되는 경우가 많습니다. 몇 번 실패해
+    보면서 각도와 타이밍을 조금씩 바꿔 보는 것이 최적 해법을 찾는 가장 빠른
+    방법입니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Q: My drops barely move anything—what am I missing?
+-   **조준 및 드롭:** 마우스나 터치로 떨어뜨릴 위치를 조준한 뒤 클릭/탭하면
+    공 또는 폭탄이 떨어집니다. 일부 레벨에서는 구조물에 약간의 밀기(누르기)
+    동작이 허용될 수 있습니다.
+-   **리셋/되돌리기:** 화면의 재시작 또는 되돌리기 버튼을 눌러, 잘못된 시도를
+    빠르게 초기화하고 다시 시도할 수 있습니다.
 
-A: You’re striking center mass. Target edges and supports to generate torque and collapses.
+### 자주 묻는 질문 (FAQ)
 
-- Q: Is there scoring for fewer drops?
+-   **Q. 공이나 폭탄을 떨어뜨려도 구조물이 거의 안 움직여요. 무엇이 문제인가요?**  
+    A. 중심부만 정면으로 때리고 있기 때문일 가능성이 큽니다. 구조물의 가장자리나
+    지지 기둥을 노려 충돌시키면 회전력이 생겨 더 큰 붕괴를 일으킬 수 있습니다.
 
-A: Many levels bonus minimal solutions; aim to complete with spare bombs.
+-   **Q. 드롭을 적게 쓰면 보너스가 있나요?**  
+    A. 많은 스테이지에서 남은 폭탄 수나 사용 횟수에 따라 추가 점수가 주어집니다.
+    여유 폭탄을 남긴 채 클리어하는 것을 목표로 해 보세요.
 
-- Q: Do levels require perfect timing?
-
-A: A few do, but most reward clear planning more than twitch timing.
-
+-   **Q. 프레임 단위의 완벽한 타이밍이 필요하나요?**  
+    A. 일부 레벨은 정밀한 타이밍이 중요하지만, 대부분은 손보다 **계획**이 더
+    중요한 퍼즐에 가깝습니다. 먼저 전체 구조를 이해하고, 그다음에 타이밍을
+    다듬는 순서로 접근해 보세요.

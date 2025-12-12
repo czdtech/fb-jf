@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: aloha-mahjong
-title: '[KO] Aloha Mahjong'
+title: 'Aloha Mahjong 알로하 마작'
 description: >-
-  [KO] Aloha Mahjong is a relaxing tile‑match — find pairs, clear layers, and
-  enjoy island vibes.
+  Aloha Mahjong은 편안한 분위기에서 즐기는 마작 솔리테어 게임입니다. 같은
+  패를 짝지어 층을 지우고, 섬 휴양지 느낌의 분위기를 만끽해 보세요.
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/aloha-mahjong.jpg
 tags:
@@ -14,28 +14,46 @@ score: 4.1/5  (1956 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Aloha Mahjong은 전통 마작패를 이용한 마작 솔리테어 방식의 퍼즐 게임입니다.
+겹겹이 쌓인 패 더미에서 열린(open) 패 두 개를 짝지어 없애며 판을 정리하는
+형식으로 진행됩니다. 제한된 섞기/힌트 횟수 안에서 막히지 않게 쌍을 찾아
+지우는 것이 중요합니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **구조부터 열기:** 한 쌍을 없앴을 때 가장 많은 다른 패들이 드러나도록,
+    위층을 받치고 있는 지점부터 우선적으로 정리하세요.
+2.  **드문 패 먼저 제거:** 많이 보이지 않는 문양이나 계절/꽃 패처럼 희귀한
+    패는 나중에 짝을 못 찾아 막히기 쉬우므로 가능한 한 일찍 처리하는 것이
+    좋습니다.
+3.  **한 수 앞을 보고 지우기:** 당장 눈에 보이는 쌍을 무작정 지우기보다,
+    그 패를 지웠을 때 아래에 어떤 패가 드러나는지 한 번 더 살펴본 뒤 선택하는
+    습관을 들이면 막판에 막히는 일이 줄어듭니다.
+4.  **섞기는 막다른 상황에서만:** 섞기(Shuffle)는 막힌 판을 풀 수 있는 강력한
+    수단이지만, 사용 횟수가 제한적일 수 있습니다. 더 이상 유효한 쌍이 보이지
+    않을 때 마지막 수단으로 사용하는 편이 좋습니다.
+5.  **시간과 정확도의 균형:** 타임어택 모드에서는 속도가 중요하지만, 성급하게
+    짝을 지우다 보면 구조가 꼬일 수 있습니다. 여유가 있다면 한 번 더 구조를
+    확인한 뒤 선택하세요.
 
-Aloha Mahjong offers classic mahjong solitaire. Match open tiles to clear stacked layouts, manage limited shuffles/hints, and solve sets without trapping key pairs.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+- 열린(open) 상태의 같은 패 두 개를 클릭/탭해 선택하면 쌍으로 제거됩니다.
+- 힌트나 섞기 기능이 있는 버전에서는 화면의 전용 버튼을 눌러 사용할 수
+  있습니다.
 
-1.  **[KO]** Open structures: Free tiles that unlock the most others.
-2.  **[KO]** Pair priorities: Clear rare symbols early to prevent deadlocks.
-3.  **[KO]** Look ahead: Avoid removing tiles that seal deeper pairs.
-4.  **[KO]** Use shuffles sparingly when blocked.
-5.  **[KO]** Time vs. accuracy: In timed modes, balance speed with safe picks.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+- **더 이상 짝을 찾을 수 없는데요?**  
+  섞기 기능이 허용된 모드라면 섞기를 사용해 배치를 새로 만들 수 있습니다.
+  그렇지 않다면 해당 판은 막힌 것으로 보고 다시 시작해야 합니다.
 
-- Select matching open tiles to clear them.
-- Hints/Shuffles via UI if available.
+- **"열린 패"는 어떤 패인가요?**  
+  위에 다른 패가 덮고 있지 않고, 왼쪽이나 오른쪽 중 한쪽이 비어 있어 옆으로
+  뺄 수 있는 패를 의미합니다.
 
-### Frequently Asked Questions (FAQ)
-
-- No pairs? Use a shuffle if allowed or restart.
-- What is an “open” tile? One free on at least one side and not covered.
-- Multiple layouts? Usually several, with varying difficulty.
+- **여러 레이아웃이 있나요?**  
+  대부분의 버전은 난이도와 구조가 다른 여러 가지 레이아웃을 제공해, 같은
+  규칙으로도 다양한 퍼즐을 즐길 수 있게 되어 있습니다.

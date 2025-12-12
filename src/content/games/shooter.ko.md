@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: shooter
-title: '[KO] Five Nights at Freddy''s Shooter (FNAF Shooter)'
+title: "Five Nights at Freddy's Shooter FNAF 슈터"
 description: >-
-  [KO] Five Nights at Freddy's Shooter is a horror action game where players
-  fight against animatronic characters from the FNAF universe, using various
-  weapons to survive waves of attacking robots in a shooting gameplay style.
+  FNAF 세계관의 애니매트로닉과 총격전을 벌이는 호러 액션 슈터입니다.
+  다양한 무기를 활용해 몰려오는 로봇 물결을 막아내며 최대한 오래
+  살아남으세요.
 iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/shooter.jpg
 tags:
@@ -18,35 +18,65 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Five Nights at Freddy's Shooter*는 FNAF 시리즈의 애니매트로닉들을
+직접 사격으로 상대하는 호러 액션 게임입니다. 플레이어는 폐점 후
+어둠 속을 배회하는 로봇들을 상대로, 각종 총기와 장비를 사용해
+파도처럼 몰려오는 웨이브를 버텨야 합니다.
 
-### Game Introduction
+특유의 불길한 분위기와 빠른 템포의 슈팅이 결합되어, 공포감과
+시원한 타격감을 동시에 느낄 수 있습니다.
 
-"Five Nights at Freddy's Shooter" is a horror action game where players fight against animatronic characters from the FNAF universe. Use various weapons to survive in shooting gameplay style, defending against waves of attacking robots. The game combines classic FNAF horror elements with fast-paced shooting action.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **무기 특성 파악하기**  
+   공격력, 연사 속도, 탄창 용량, 사거리 등 각 무기마다 장단점이
+   다릅니다. 빠른 적이 많다면 연사력이 좋은 무기를, 체력이 높은
+   적이 많다면 화력이 높은 무기를 우선 사용해 보세요.
 
-1.  **[KO]** **Weapon Selection**: Familiarize yourself with different weapon characteristics and choose the most effective weapon based on enemy types.
-2.  **[KO]** **Aiming Skills**: Practice precise aiming, prioritizing closer or more threatening enemies.
-3.  **[KO]** **Ammo Management**: Manage ammunition wisely, avoiding running out of bullets at critical moments.
-4.  **[KO]** **Movement Strategy**: Keep moving to avoid enemy attacks and look for cover positions.
-5.  **[KO]** **Wave Preparation**: Use intervals between waves to reload and adjust position.
+2. **위협도 높은 적부터 우선 처리하기**  
+   이동 속도가 빠르거나, 근접 공격으로 큰 피해를 주는 적을 먼저
+   제거해야 합니다. 화면 가장 가까이 다가온 적, 폭발형 적 등을
+   최우선으로 노리세요.
 
-### How to Play
+3. **탄약 관리 철저히 하기**  
+   마구 난사하다가 중요한 순간에 재장전이 걸리면 바로 위기에
+   빠질 수 있습니다. 안전한 순간에 미리 `R` 키로 재장전하고,
+   남은 탄수를 항상 의식해 플레이하세요.
 
-*   **[KO]** **Movement**: Use WASD keys or arrow keys to control character movement.
-*   **[KO]** **Aim**: Use mouse to control aiming direction.
-*   **[KO]** **Shoot**: Click left mouse button to shoot.
-*   **[KO]** **Reload**: Use R key to reload.
-*   **[KO]** **Weapon Switch**: Use number keys or scroll wheel to switch between different weapons.
+4. **지속적으로 움직이며 커버 활용하기**  
+   한 지점에 계속 서 있으면 여러 방향에서 동시에 공격받기 쉽습니다.
+   일정 범위 안에서 계속 움직이며, 장애물 뒤로 숨었다 나오는 식으로
+   로봇의 공격을 최소화하세요.
 
-### Frequently Asked Questions
+5. **웨이브 사이 준비 시간 활용하기**  
+   적 웨이브 사이의 짧은 휴식 시간에 탄약을 채우고, 위치를
+   재조정하고, 필요하다면 무기를 교체해 다음 물결에 대비하세요.
 
-1.  **[KO]** **Q: How can I improve survival time?**
-**A**: Keep moving, prioritize defeating dangerous enemies, use cover wisely, and manage ammunition properly.
-2.  **[KO]** **Q: What are the pros and cons of different weapons?**
-**A**: Each weapon differs in damage, fire rate, range, and ammo capacity; choose according to the situation.
-3.  **[KO]** **Q: How many waves of enemies are there?**
-**A**: The game typically contains multiple waves of enemies, with difficulty and enemy count gradually increasing each wave.
-4.  **[KO]** **Q: How do I handle multiple enemies attacking simultaneously?**
-**A**: Stay calm, prioritize defeating the closest threats, and use terrain advantages to separate enemies.
+### 조작 가이드
+
+- **이동**: `WASD` 또는 방향키로 캐릭터를 이동합니다.  
+- **조준**: 마우스를 움직여 조준 방향을 결정합니다.  
+- **사격**: 마우스 왼쪽 버튼을 클릭해 총을 발사합니다.  
+- **재장전**: `R` 키로 탄약을 재장전합니다.  
+- **무기 교체**: 숫자 키 또는 마우스 휠로 다른 무기로 전환합니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 생존 시간을 늘리려면 어떻게 해야 하나요?**  
+   **A:** 계속 움직이며, 가장 위험한 적부터 우선적으로 제거하고,
+   엄폐물과 재장전 타이밍을 잘 이용하는 것이 중요합니다.
+
+2. **Q: 무기별 장단점은 어떻게 구분하나요?**  
+   **A:** 사용해 보면서 연사 속도·반동·피해량을 비교해 보세요.
+   일반적으로 샷건류는 근접 화력이 강하고, 돌격 소총은 균형이
+   좋으며, 저격소총은 먼 거리의 강한 적 처리에 유리합니다.
+
+3. **Q: 적 웨이브는 몇 라운드까지 있나요?**  
+   **A:** 버전에 따라 다르지만, 보통 여러 라운드로 구성되어 있으며
+   라운드가 진행될수록 적 수와 난이도가 함께 증가합니다.
+
+4. **Q: 동시에 많은 좀비가 몰려올 때는 어떻게 하나요?**  
+   **A:** 입구가 좁은 좁은 통로나 코너를 활용해 한 번에 몰려드는
+   적 수를 줄이고, 군중 제어에 강한 무기를 사용해 돌파해 보세요.

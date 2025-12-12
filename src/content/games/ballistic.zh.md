@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: ballistic
-title: '[ZH TRANSLATION NEEDED] Ballistic game'
+title: "Ballistic 弹射方块"
 description: >-
-  [ZH TRANSLATION NEEDED] A guide to the physics-based arcade game Ballistic.
-  Learn how to aim, collect extra balls, use power-ups, and achieve high scores
-  by clearing numbered blocks before they reach the bottom.
+  《Ballistic（弹射方块）》是一款基于物理解算的打砖块式街机游戏，通过精确瞄准、收集额外弹球和善用强化道具，在数字方块压到底线之前把它们统统击碎。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/ballistic.jpg
 tags:
@@ -19,46 +17,74 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Introduction
+### 详细介绍
 
-[ZH TRANSLATION NEEDED] *Ballistic* is a modern, physics-based arcade game that blends strategy, skill, and satisfying action. The player is tasked with a simple yet challenging objective: clear a grid of numbered blocks by shooting a barrage of balls at them before the blocks descend to the bottom of the screen. Each block is marked with a number, indicating how many hits it must sustain before it is destroyed.
+*Ballistic（弹射方块）* 是一款结合策略思考与物理弹道的现代街机游戏。你的目标很简单：在数字方块逐行下移压到屏幕底部之前，用一连串小球把它们全部打爆。
 
-[ZH TRANSLATION NEEDED] The core of the game lies in its dynamic physics engine. Players don't just aim directly at blocks; they must strategically plan their shots to create ricochets off walls and other blocks, setting off massive chain reactions. After each shot, the entire grid of blocks moves down one row, increasing the pressure. The game becomes a tense battle of clearing the board efficiently while collecting special items like extra balls and power-ups to enhance your firepower. With its vibrant visuals, smooth controls, and endless replayability, *Ballistic* is designed to be an addictive experience for both casual players and high-score chasers.
+每个方块上都有一个数字，表示需要被击中多少次才能消除。游戏的精髓在于：
 
-### Gameplay Strategy
+- 利用墙面和方块的反弹轨迹，创造尽可能长的弹射路径；
+- 一发射出几十甚至上百颗小球，看它们在屏幕上疯狂弹跳、连锁击中大量方块；
+- 在每一轮射击后，所有方块整体下移一行，压迫感逐渐增加。
 
-[ZH TRANSLATION NEEDED] Mastering *Ballistic* is about thinking several steps ahead and making every shot count.
+随着难度提升，你必须同时兼顾：高数字方块的威胁、额外弹球的拾取位置，以及能否通过一次巧妙的“打隧道”来制造超长连锁反应。这也是 *Ballistic* 让人停不下来的原因所在。
 
-1.  **Aim for Angles, Not Just Blocks:** The key to success is using the walls. Instead of shooting straight at a block, aim your shot so the balls bounce off a side wall and travel horizontally across the top of the grid. This allows your stream of balls to hit multiple blocks multiple times in a single turn.
-2.  **Prioritize High-Threat Blocks:** The blocks closest to the bottom are your biggest threat. Always make it a priority to clear the lowest rows first. A high-numbered block near the bottom is a "game over" waiting to happen.
-3.  **Collecting Extra Balls is Critical:** The most important item to collect is the "extra ball" (often marked with a "+"). The more balls you can shoot in a single turn, the more damage you can do. Always try to angle your shots to hit these collectibles, as increasing your ball count is the fastest way to gain an advantage.
-4.  **Create Tunnels and Gaps:** Focus on clearing a vertical path through the blocks. This creates a "tunnel" where your balls can bounce back and forth repeatedly, hitting blocks multiple times and clearing them much faster.
-5.  **Utilize Power-ups Strategically:** Keep an eye out for special power-up blocks. These can provide game-changing boosts, like clearing an entire row or providing a super-powerful shot. Hitting them at the right moment can save you from a losing situation.
-6.  **Maximize Chain Reactions:** Plan your shots to not only clear blocks but also to open up paths for subsequent bounces. A well-placed shot can trigger a satisfying cascade of destruction that clears a significant portion of the board.
+### 游戏策略
 
-### Controls Guide
+想要在 *Ballistic* 中拿到高分，需要提前几步思考每一枪会造成的连锁反应。
 
-[ZH TRANSLATION NEEDED] The game features intuitive controls that are easy to learn.
+1.  **优先利用“角度”，而不是直接瞄砖块**  
+   成功的关键在于善用墙面：
+   - 尽量把射击角度调成“先撞侧墙，再沿顶部横向扫过”的线路；
+   - 这样一轮弹射就能在上层区域来回横扫，多次命中同一行的多个方块。
 
-*   **For PC / Web Browser:**
-    *   **Mouse:** Click and hold the left mouse button to bring up the aiming guide. Drag the mouse to adjust the angle of your shot. Release the mouse button to fire the balls.
-*   **For Mobile / Touchscreen Devices:**
-    *   **Touchscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
+2.  **先处理离底线最近的高数字方块**  
+   - 离底线越近的方块威胁越大；
+   - 如果底部还有数字很高的方块没清掉，很容易几轮之内直接 Game Over；
+   - 规划线路时优先保证这些危险方块能被多次命中。
 
-### Frequently Asked Questions (FAQ)
+3.  **额外弹球永远是最优先的目标**  
+   - 场上带有 “+” 标记的圆球通常代表新增弹球；
+   - 持有的球越多，每一轮造成的总伤害就越高；
+   - 有时甚至值得牺牲一部分理想输出来确保先把“+球”吃到手。
 
-[ZH TRANSLATION NEEDED] **1. What do the numbers on the blocks mean?**
-[ZH TRANSLATION NEEDED] The number on each block represents its "health." It indicates the number of times a ball must hit that block before it is destroyed.
+4.  **制造“隧道”和竖向空道**  
+   - 有意识地在方块堆中清出一条竖向缝隙，让小球能够穿过去，在后排来回弹射；
+   - 这种“隧道”会让一轮射击的有效命中次数成倍增长，非常适合清理高数字方块。
 
-[ZH TRANSLATION NEEDED] **2. How do I get more balls to shoot?**
-[ZH TRANSLATION NEEDED] You can increase the number of balls in your arsenal by hitting the special "extra ball" collectibles (usually a circle with a "+" inside) that appear on the grid.
+5.  **强力道具要在关键局面使用**  
+   - 某些特殊方块会提供一次性强化（例如清除整行、超级弹射等）；
+   - 尽量在“马上要顶到底线”或者“高数字集中成团”时再触发，能起到翻盘效果。
 
-[ZH TRANSLATION NEEDED] **3. What happens if the blocks reach the bottom of the screen?**
-[ZH TRANSLATION NEEDED] If any block touches the bottom line of the play area, the game is over.
+6.  **让连锁反应最大化**  
+   - 设想小球的第一、第二、第三次反弹分别会打到哪里；
+   - 使用一次射击同时打开更多后续反弹路径，比只图眼前几下命中更重要。
 
-[ZH TRANSLATION NEEDED] **4. Is every round of the game the same?**
-[ZH TRANSLATION NEEDED] No. The placement of blocks and power-ups changes with each new game, ensuring that every round is a fresh and unique challenge.
+### 操作指南
 
-[ZH TRANSLATION NEEDED] **5. What is the best strategy for a high score?**
-[ZH TRANSLATION NEEDED] The key to a high score is survival and efficiency. Last as long as possible by strategically clearing blocks, continuously increase your ball count, and use angled shots to create massive chain reactions that clear many blocks at once.
+本作的操作非常直观，上手难度很低。
 
+*   **PC / 浏览器版本：**  
+    - 用鼠标按住左键拖动，调出并调整瞄准线角度；
+    - 松开鼠标左键发射全部小球。
+
+*   **手机 / 触屏设备：**  
+    - 长按屏幕拖动手指调整方向；
+    - 松开手指即可发射。
+
+### 常见问题解答（FAQ）
+
+**1. 方块上的数字代表什么？**
+每个方块上的数字就是它的“生命值”，表示需要被小球击中多少次才能被消除。
+
+**2. 我要怎样获得更多弹球？**
+通过击中特殊的“额外弹球”图标（通常是带 “+” 的小圆球）来增加弹球数量，这些新增球会永久加入你的弹射队伍。
+
+**3. 如果方块碰到底线会怎样？**
+只要有任意一个方块触碰到游戏区域底部，当前局就会立即结束。
+
+**4. 每一局的方块排列都是固定的吗？**
+不是。砖块和道具的出现位置通常是随机的，每局都会有不同的布局，这也是游戏可玩性很高的原因之一。
+
+**5. 想冲高分，有什么核心思路？**
+关键在于“活得久 + 高效输出”：优先保证底部安全、防止被快速顶线；持续增加自己的弹球数量；并多利用墙面和隧道制造长时间弹射，一轮尽可能多清掉一大片方块。

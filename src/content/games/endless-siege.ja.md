@@ -1,107 +1,46 @@
 ---
+title: "Endless Siege エンドレス・シージ"
+description: "「Endless Siege」は魅力的なタワーディフェンス。オークの大群から王国を守れ。大砲、バリスタ、炎の塔を配置・強化し、毎日変わる新マップで生き残ろう。"
+iframeSrc: "https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/"
+thumbnail: "/new-images/endless-siege.jpg"
+urlstr: "endless-siege"
+score: "4.6/5  (3100 votes)"
+tags: ["tower Defense", "strategy", "action"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: endless-siege
-title: '[JA TRANSLATION NEEDED] Endless Siege'
-description: >-
-  [JA TRANSLATION NEEDED] Defend against relentless waves of orcs in Endless
-  Siege, a captivating tower defense game. Place and upgrade cannons, ballistas,
-  and other powerful towers to survive as long as you can on a new, challenging
-  map every day.
-iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
-thumbnail: /new-images/endless-siege.jpg
-tags:
-  - tower Defense
-  - strategy
-  - action
-score: 4.6/5  (3100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Endless Siege（エンドレス・シージ）*は、王国をオーク、ゴブリン、その他のモンスターの大群から守る、非常に魅力的なタワーディフェンスゲームです。
+このゲームの最大の特徴は、**毎日新しいマップが自動生成される**ことです。これにより無限のリプレイ性が保証されています。様々な防衛タワーを戦略的に配置・強化し、できるだけ多くのウェーブを生き残り、デイリーハイスコアを競いましょう。
 
-4.  **アップグレード Strategically:** It's often better to have a few fully upgraded, powerful towers than many weak, basic ones. Focus your gold on upgrading your best-placed towers to maximize their damage output.
-[JA TRANSLATION NEEDED] Endless Siege is a highly engaging tower defense game that challenges you to defend your kingdom against relentless waves of orcs, goblins, and other monstrous foes. The standout feature of the game is that you are presented with a brand new, procedurally generated map every single day, ensuring endless replayability. You must strategically place and upgrade a variety of defensive towers to survive as many waves as possible and compete for the daily high score.
+### ゲーム攻略と戦略
 
-- **構築する a Tower:** Click on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
-### Gameplay Strategy & Walkthrough
+1.  **タワーを知る:** 各防衛施設の特性を理解することが鍵です。
+    *   **バリスタ（Ballista）:** 連射速度が速く、単体の高HPの敵を倒すのに最適。
+    *   **トーチ（Torch）:** 範囲攻撃（AoE）の炎タワー。弱い敵の集団を焼き払うのに最適。
+    *   **キャノン（Cannon）:** 遅いが強力なAoEタワー。敵の塊に大ダメージを与えます。
+    *   **タイムワープ（Timewarp）:** ダメージは与えませんが、範囲内の敵全てを大幅にスローにするサポートタワー。他のタワーの標的にしやすくなります。
 
-[JA TRANSLATION NEEDED] 1.  **Know Your Towers:** Understanding your defenses is key.
-- **Q: What is the best tower in the game?**（日本語訳が必要）
-[JA TRANSLATION NEEDED]     *   **Ballista:** A fast-firing tower, excellent for taking down single, high-health enemies.
-[JA TRANSLATION NEEDED]     *   **Torch:** A flame tower that deals area-of-effect (AoE) damage, perfect for roasting groups of weaker enemies.
-[JA TRANSLATION NEEDED]     *   **Cannon:** A slow but powerful AoE tower that deals massive damage to clusters of foes.
-[JA TRANSLATION NEEDED]     *   **Timewarp:** A support tower that doesn't deal damage but significantly slows down all enemies that pass through its radius, making them easier targets for your other towers.
+2.  **キルゾーンを作る:** タワーを広く分散させすぎないように。特に道の曲がり角など、複数のタワーが同じ敵を同時に攻撃できる場所にまとめて配置しましょう。
+3.  **スローの力:** タイムワープタワーは最も重要なタワーの1つです。長い直線の入り口に配置すれば、ダメージタワーがより多くの攻撃を当てられ、効果が劇的に向上します。
+4.  **戦略的アップグレード:** 多くの弱いタワーより、少数の完全強化された強力なタワーの方が良い場合が多いです。最も良い位置にあるタワーにゴールドを集中投資し、ダメージ出力を最大化しましょう。
 
-[JA TRANSLATION NEEDED] 2.  **Create Kill Zones:** Don't spread your towers out too much. Try to place them in clusters, especially around bends in the path, where multiple towers can attack the same enemies simultaneously.
-[JA TRANSLATION NEEDED] 3.  **The Power of Slowing:** The Timewarp tower is one of the most important in the game. Placing a Timewarp tower at the beginning of a long stretch of road allows your damage-dealing towers to get many more shots in, dramatically increasing their effectiveness.
-[JA TRANSLATION NEEDED] 4.  **Upgrade Strategically:** It's often better to have a few fully upgraded, powerful towers than many weak, basic ones. Focus your gold on upgrading your best-placed towers to maximize their damage output.
+### 操作ガイド
 
-### Controls Guide
+*   **タワー建設:** マップ上の空いている円形のプロットをクリックして建設メニューを開き、建てたいタワーを選択します。
+*   **タワー強化:** 既存のタワーをクリックすると、ステータスと利用可能なアップグレードが表示されます。アップグレードボタンをクリックしてレベルアップします。
+*   **次のウェーブ:** 準備ができたら「Next Wave」ボタンをクリックして、次の敵の襲撃を開始します。
 
-*   **Build a Tower:** Click on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
-*   **Upgrade a Tower:** Click on an existing tower to see its stats and available upgrades. Click the upgrade button to level it up.
-### コントロール Guide
-*   **Call the Next Wave:** When you are ready, click the "Next Wave" button to start the next onslaught of enemies.
-- **アップグレード a Tower:** Click on an existing tower to see its stats and available upgrades. Click the upgrade button to level it up.
-- **Call the Next Wave:** When you are ready, click the "Next Wave" button to start the next onslaught of enemies.（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-    - **A:** There is no single "best" tower. A successful defense relies on a smart combination of all four types. Use Cannons and Torches for groups, Ballistas for tough single targets, and 時間warp towers to slow everything down.
-2.  **Create Kill Zones:** Don't spread your towers out too much. Try to place them in clusters, especially around bends in the path, where multiple towers can attack the same enemies simultaneously.（日本語訳が必要）
-    - **A:** You can only build on the designated circular plots found along the enemy path.（日本語訳が必要）
-- **Q: Why can't I build a tower somewhere?**（日本語訳が必要）
-- **Q: Why is the map different from yesterday?**（日本語訳が必要）
-    - **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.（日本語訳が必要）
+*   **Q: 最強のタワーはどれですか？**
+    *   **A:** 単一の「最強」タワーはありません。成功する防衛は、4種類すべてのスマートな組み合わせに依存します。集団にはキャノンとトーチ、タフな単体にはバリスタ、そして全てを遅くするタイムワープを使いましょう。
 
-*   **Q: What is the best tower in the game?**
-[JA TRANSLATION NEEDED]     *   **A:** There is no single "best" tower. A successful defense relies on a smart combination of all four types. Use Cannons and Torches for groups, Ballistas for tough single targets, and Timewarp towers to slow everything down.
+*   **Q: なぜある場所にタワーを建てられないのですか？**
+    *   **A:** 敵の経路沿いにある指定された円形のプロットにのみ建設できます。
 
-*   **Q: Why can't I build a tower somewhere?**
-[JA TRANSLATION NEEDED]     *   **A:** You can only build on the designated circular plots found along the enemy path.
-
-*   **Q: Why is the map different from yesterday?**
-[JA TRANSLATION NEEDED]     *   **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-
-
-    - **Ballista:** A fast-firing tower, excellent for taking down single, high-health enemies.（日本語訳が必要）
-    - **Torch:** A flame tower that deals area-of-effect (AoE) damage, perfect for roasting groups of weaker enemies.（日本語訳が必要）
-    - **Cannon:** A slow but powerful AoE tower that deals massive damage to clusters of foes.（日本語訳が必要）
-    - **時間warp:** A support tower that doesn't deal damage but significantly slows down all enemies that pass through its radius, making them easier targets for your other towers.
-3.  **The Power of Slowing:** The 時間warp tower is one of the most important in the game. Placing a Timewarp tower at the beginning of a long stretch of road allows your damage-dealing towers to get many more shots in, dramatically increasing their effectiveness.
-
-
-
-
-
-
-
-
-
-
-
-
-
-    - **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-- **Q: Why is the map different from yesterday?**
-    - **A:** You can only build on the designated circular plots found along the enemy path.
-- **Q: Why can't I build a tower somewhere?**
-    - **A:** There is no single "best" tower. A successful defense relies on a smart combination of all four types. Use Cannons and Torches for groups, Ballistas for tough single targets, and Timewarp towers to slow everything down.
-- **Q: What is the best tower in the game?**
-### よくある質問（FAQ）
-- **Call the Next Wave:** When you are ready, click the "Next Wave" button to start the next onslaught of enemies.
-- **Upgrade a Tower:** Click on an existing tower to see its stats and available upgrades. Click the upgrade button to level it up.
-- **Build a Tower:** Click on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
-### コントロールガイド
-- **Upgrade Strategically:** It's often better to have a few fully upgraded, powerful towers than many weak, basic ones. Focus your gold on upgrading your best-placed towers to maximize their damage output.
-
-    - **A:** There is no single "best" tower. A successful defense relies on a smart combination of all four types. Use Cannons and Torches for groups, Ballistas for tough single targets, and Timewarp towers to slow everything down.
-- **The Power of Slowing:** The Timewarp tower is one of the most important in the game. Placing a Timewarp tower at the beginning of a long stretch of road allows your damage-dealing towers to get many more shots in, dramatically increasing their effectiveness.
-
-
-
-
-    - **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-- **Q: Why is the map different from yesterday?**
-    - **A:** You can only build on the designated circular plots found along the enemy path.
+*   **Q: なぜマップが昨日と違うのですか？**
+    *   **A:** Endless Siegeのユニークな特徴は、毎日新しいマップが生成されることです。全プレイヤーに新鮮な戦略的挑戦を提供します。

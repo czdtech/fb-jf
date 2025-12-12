@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: gym-stack
-title: '[FR] Gym Stack'
+title: Gym Stack
 description: >-
-  [FR] Stack up weights and smash through obstacles in Gym Stack! A fun and
-  challenging runner game where you collect weights to grow stronger.
+  Gym Stack est un puzzle 3D addictif : déplace et empile des poids de même
+  couleur pour les fusionner, libérer de l’espace et faire grimper ton score
+  sans bloquer le plateau.
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
 thumbnail: /new-images/gym-stack.jpeg
 tags:
@@ -16,32 +17,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Gym Stack est un jeu de puzzle 3D addictif qui met à l’épreuve ton sens de l’organisation. Le plateau est composé de plusieurs barres sur lesquelles apparaissent des poids de tailles et de couleurs différentes. Ton objectif est de déplacer et d’empiler ces poids de manière stratégique, en fusionnant les identiques pour créer des haltères plus lourds et libérer de l’espace. Tu cherches à marquer un maximum de points sans laisser les barres se remplir complètement : c’est un test de prévoyance et de stratégie dans un univers de salle de sport.
 
-### Detailed Game Introduction
+### Comment jouer
 
-Gym Stack is an addictive and satisfying 3D puzzle game that challenges your organizational skills. The game board features several bars where different colored and sized weights will appear. Your objective is to strategically move and stack these weights, merging identical ones to create larger weights and clear space. The goal is to score as many points as possible by making smart merges without letting the bars get completely filled up. It's a test of foresight and strategy with a fun gym theme.
+1.  **Associe les couleurs :** tu ne peux fusionner que des poids de même couleur. Planifie tes déplacements pour rapprocher les haltères identiques.
+2.  **Pense verticalement :** empile les poids plus petits sur des plus grands de la même couleur pour déclencher une fusion. Tu ne peux pas poser un poids plus lourd sur un plus léger.
+3.  **Garde des colonnes libres :** évite de bloquer l’accès à certaines barres. Un poids mal placé peut t’empêcher de réaliser des fusions cruciales plus tard.
+4.  **Prépare des cascades :** un bon mouvement peut parfois déclencher plusieurs fusions successives. Cherche ces opportunités pour libérer beaucoup de place d’un coup et marquer gros.
+5.  **Ne te laisse pas piéger :** la partie se termine si toutes les barres sont remplies et qu’aucun coup légal n’est possible. Pense toujours à conserver un peu d’espace pour les prochains poids.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Match by Color:** You can only merge weights that are of the same color. Plan your moves to bring identical weights together.
-2.  **[FR]** **Think Vertically:** You need to stack smaller weights on top of larger ones of the same color to merge them. You cannot place a larger weight on top of a smaller one.
-3.  **[FR]** **Keep Columns Open:** Try not to block access to other columns. A poorly placed weight can prevent you from making crucial merges later on. Keep your stacks organized.
-4.  **[FR]** **Plan for a Cascade:** Sometimes, a single move can set off a chain reaction of merges. Look for these opportunities to clear a large amount of space and score big points.
-5.  **[FR]** **Don't Get Trapped:** The game ends if the bars fill up and you have no more legal moves. Always be thinking about how to keep space available for new weights that will appear.
+- **Sélectionner et déplacer :** utilise la souris pour cliquer sur une pile de poids, puis clique sur un emplacement vide ou une pile compatible pour la déplacer.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Select and Move:** Use your mouse to click and select a weight stack. Then, click on an empty spot or a valid stack to move it.
+- Q : Comment fusionner les poids ?
+  
+  R : Place une pile d’une certaine couleur et taille sur une autre pile strictement identique. Les deux s’assemblent alors pour former un poids plus lourd.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Quel est le but du jeu ?
+  
+  R : Obtenir le meilleur score possible en fusionnant continuellement des poids et en empêchant le plateau de se remplir complètement.
 
-*   **[FR]** **Q: How do I merge weights?**
-    *   **[FR]** **A:** To merge weights, you must place a stack of a certain color and size onto another stack of the exact same color and size. This will create a single, larger weight.
+- Q : Y a‑t‑il une limite de temps ?
+  
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.
+    - **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.
 
-*   **[FR]** **Q: Is there a time limit?**
-    *   **[FR]** **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.
+- **Q: Is there a time limit?**
+
+    - **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.
+  R : Non, Gym Stack est un puzzle sans chronomètre. Tu peux prendre tout ton temps pour réfléchir à chaque mouvement.
 

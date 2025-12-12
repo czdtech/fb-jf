@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: he-likes-the-darkness
-title: '[KO] He Likes The Darkness'
+title: "He Likes The Darkness 어둠을 좋아하는 소년"
 description: >-
-  [KO] He Likes The Darkness is a moody platformer — navigate shadowy stages,
-  collect orbs, and time precise jumps through hazards.
+  어두운 실루엣 속을 달리며 빛나는 오브를 모으는 미니멀 플랫포머입니다.
+  시야가 제한된 스테이지에서 점프 타이밍과 함정 패턴을 읽어, 위험을 피해
+  골인 지점까지 도달하세요.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/he-likes-the-darkness.png
 tags:
@@ -17,33 +18,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibility, moving traps, and collectible orbs define compact stages. Mastering hop length, short stalls, and momentum preservation produces clean clears with satisfying flow.
+`He Likes The Darkness`는 강한 명암 대비와 제한된 시야가 특징인 미니멀
+플랫포머입니다. 화면 대부분은 어둠에 가려져 있고, 이동하면서 조금씩 드러나는
+발판과 움직이는 함정, 수집해야 할 오브들이 짧은 스테이지 안에 촘촘하게
+배치되어 있습니다. 점프 거리, 짧은 멈춤, 관성 유지 등을 섬세하게 조절해
+끊김 없는 흐름으로 클리어하는 것이 목표입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** Light scouting: Use small hops to reveal platform edges without overcommitting.
-2.  **[KO]** Cycle timing: Observe moving hazards (saws/spikes) for a full cycle, then commit.
-3.  **[KO]** Momentum: Keep micro‑momentum through tap‑taps rather than full stops.
-4.  **[KO]** Orb routing: Grab orbs on safe passes; don’t force risky backtracks.
-5.  **[KO]** Retry rhythm: Fast restarts build muscle memory for tricky segments.
+1. **짧은 점프로 지형 탐색하기**  
+   처음 보는 구간에서는 큰 점프보다 짧은 점프로 가장자리 위치를 확인해
+   두세요. 너무 멀리 뛰면 화면 밖 함정에 그대로 떨어질 수 있습니다.
 
-### Controls Guide
+2. **함정의 사이클 읽기**  
+   톱날이나 가시가 움직이는 구간에서는 한 사이클을 끝까지 지켜본 뒤, 같은
+   타이밍에 맞춰 움직이는 것이 안전합니다. 눈으로만 보지 말고 박자를 마음속으로
+   세어 두면 도움이 됩니다.
 
-- Move/Jump: Arrows/WASD + Space; occasional double‑jump per level rules.
+3. **관성 유지하기**  
+   완전히 멈췄다가 다시 움직이는 것보다, 짧은 탭으로 미세한 관성을 유지한 채
+   진행하면 점프 타이밍을 맞추기 쉬워집니다.
 
-### Frequently Asked Questions (FAQ)
+4. **오브 동선 최적화**  
+   빛나는 오브는 한 번에 안전하게 지나가며 먹을 수 있는 위치에서만 노리는
+   것이 좋습니다. 굳이 되돌아가 위험한 역주행을 할 필요는 없습니다.
 
-- Q: I can’t see edges clearly — any tip?
+5. **빠른 재도전으로 리듬 만들기**  
+   어려운 구간은 실패해도 바로 재시작해 같은 타이밍과 리듬으로 반복해 보세요.
+   손에 익으면 자연스럽게 근육 기억이 생깁니다.
 
-A: Feather short hops to probe boundaries; adjust brightness if available.
+### 조작 방법
 
-- Q: Do I need all orbs?
+- 이동/점프: 방향키 또는 WASD로 이동하고, 스페이스바로 점프합니다.
+- 일부 스테이지에서는 2단 점프 등 추가 규칙이 적용될 수 있습니다.
 
-A: Some levels require them; otherwise they’re optional mastery goals.
+### 자주 묻는 질문(FAQ)
 
-- Q: Any trick for moving saws?
+- Q: 발판 가장자리가 잘 안 보입니다. 어떻게 해야 하나요?  
+  A: 짧은 점프로 경계를 조금씩 확인하면서 전진하고, 옵션에서 밝기 조절이
+  가능하다면 화면 밝기를 높여 보세요.
 
-A: Count beats and move on the same phase each attempt to lock timing.
+- Q: 모든 오브를 꼭 모아야 하나요?  
+  A: 일부 레벨은 모든 오브 수집을 요구하지만, 그렇지 않은 경우에는 기록
+  도전용 선택 목표에 가깝습니다.
 
+- Q: 움직이는 톱날을 안전하게 지나갈 요령이 있나요?  
+  A: 톱날의 왕복 한 사이클을 기준으로 박자를 세고, 매번 같은 박자에
+  맞춰 진입하면 타이밍이 훨씬 안정적입니다.

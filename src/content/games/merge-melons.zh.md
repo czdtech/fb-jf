@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: merge-melons
-title: '[ZH TRANSLATION NEEDED] Merge Melons'
+title: 《Merge Melons》西瓜合成大挑战
 description: >-
-  [ZH TRANSLATION NEEDED] Drop and merge fruits in this addictive puzzle game
-  inspired by Suika Game. Combine identical fruits to create bigger ones, aiming
-  for the giant watermelon, but don't let your container overflow!
+  《Merge Melons》是一款受 Suika Game
+  启发的物理合成益智游戏，你需要不断投放并合成水果，目标是合成出巨型西瓜，同时避免水果堆叠触碰到容器顶部。
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/merge-melons.png
 tags:
@@ -18,32 +17,32 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Merge Melons is a delightful and addictive physics-based puzzle game, famously known as a "Suika Game" or "Watermelon Game." The premise is simple yet captivating: you drop various types of fruits into a container. When two identical fruits touch, they merge into a single, larger fruit of the next type in the evolution cycle. Your goal is to create the largest fruit possible—the watermelon—and achieve the highest score without letting the container overflow.
+《Merge Melons》是一款操作简单但极其上瘾的物理下落类益智游戏，也常被称为“Suika Game / 西瓜游戏”。玩法非常直观：你将不同种类的水果依次投放到透明容器中，当两颗相同的水果相互接触时，会立刻合成升级为下一个阶段的更大水果。最终目标是在有限空间内合成出体型最大的西瓜，一边冲击高分，一边小心控制整体高度，避免水果堆叠越线导致游戏结束。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Understand the Fruit Cycle:** Memorize the order of fruit evolution. Knowing what two fruits will create next (e.g., two grapes make an orange) is crucial for planning your drops.
-2.  [ZH TRANSLATION NEEDED] **Strategic Placement:** Don't just drop fruits randomly. Try to place smaller fruits in positions where they are likely to meet their identical counterparts. Avoid dropping a large fruit on top of a much smaller one, as this can trap the small fruit and waste valuable space.
-3.  [ZH TRANSLATION NEEDED] **Set Up Chain Reactions:** The most satisfying part of the game is a chain reaction. Try to arrange fruits so that one merge will cause the newly formed fruit to roll or drop and create another merge, and so on. This is key to clearing space and racking up a high score.
-4.  [ZH TRANSLATION NEEDED] **Manage Your Space:** The game ends when the fruits pile up and cross the line at the top. Always be mindful of how much space you have left. Sometimes it's better to make a less optimal merge just to clear some room.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **熟悉水果进化顺序：** 建议优先记住水果的进化链，例如两颗葡萄会合成橙子之类。了解“下一步会变成什么”，有助于你提前为后续合成预留合适空间。
+2.  **精确落点规划：** 不要随意丢水果。尽量把小水果投放在将来有机会遇到同类的位置，避免大水果压在一堆小水果上，把它们永远“封死”在缝隙里，既不好合成又浪费空间。
+3.  **制造连锁反应：** 本作最爽的瞬间往往来自大规模连锁。尝试把一对对同类水果堆在一起，当再落下一颗同类时，就会引发一连串滚动与连续合成，既能迅速清理空间，也能在短时间内获得可观分数。
+4.  **空间管理：** 游戏会在水果堆叠触到顶部警戒线时结束，所以要随时关注整体高度。必要时可以选择先做一些“不是最赚分”的小合成，把危险高度压下去，给自己留出更多操作空间。
 
-[ZH TRANSLATION NEEDED] The controls are very straightforward.
+### 操作说明
 
-*   **Position the Fruit (Desktop):** Move your mouse left and right to determine where the fruit will be dropped from.
-*   **Drop the Fruit (Desktop):** Click the left mouse button to release the fruit.
-*   **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
 
-### Frequently Asked Questions (FAQ)
+The controls are very straightforward.
+*   **定位水果（桌面端）：** 移动鼠标左右调整当前水果即将掉落的位置。
+*   **投放水果（桌面端）：** 选好落点后，点击鼠标左键释放水果。
+*   **移动与投放（移动端）：** 用手指在屏幕上左右滑动来瞄准，松手或轻触即可让水果落下。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The main goal is to get the highest score possible by continuously merging fruits. The ultimate achievement within a game is to successfully create a watermelon by merging two of the second-largest fruits.
+### 常见问题（FAQ）
 
-*   **Q: How do I lose the game?**
-     *   **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
+*   **问：这款游戏的核心目标是什么？**
+    *   **答：** 通过不断合成更大的水果来获取更高分数，极限目标是成功合成出巨型西瓜；在这个过程中要尽量延长游戏时间，避免因为溢出过早结束。
 
-*   **Q: Is there a way to control where the fruits go after they merge?**
-     *   **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
+*   **问：什么时候算是失败？**
+    *   **答：** 当容器中的水果堆积到触碰或超过最上方的警戒线时，本局游戏就会立即结束，无论你当前分数是多少。
 
+*   **问：合成后的水果滚动方向可以控制吗？**
+    *   **答：** 合成之后的滚动轨迹主要由实时物理效果决定，无法直接操控。但你可以通过前几次投放时调整堆叠形状与落点来“间接影响”后续的滚动方向和停留位置，从而提高连锁触发率。

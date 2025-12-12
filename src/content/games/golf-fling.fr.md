@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: golf-fling
-title: '[FR] Golf Fling'
+title: Golf Fling
 description: >-
-  [FR] Fling your way to a hole-in-one in Golf Fling! A physics-based puzzle
-  game where you aim, pull, and release to send the ball flying.
+  Vise le hole‑in‑one dans Golf Fling ! Un puzzle basé sur la physique où tu
+  vises, tires et relâches pour propulser la balle.
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/golf-fling.jpg
@@ -17,33 +17,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Golf Fling est un puzzle physique fun et exigeant qui réinvente la façon de jouer au golf. À la place des clubs, tu utilises un simple geste de tirer‑relâcher pour catapulter la balle à travers une série de parcours créatifs et piégeux. Ton but : mettre la balle dans le trou en un minimum de « flings ». À toi de contourner les obstacles, exploiter le terrain et maîtriser l’art de la trajectoire.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Golf Fling is a fun and challenging physics-based puzzle game that reinvents the way you play golf. Instead of clubs, you use a simple pull-and-release mechanic to fling the golf ball across a variety of creative and tricky courses. Your goal is to get the ball into the hole in as few flings as possible. Navigate around obstacles, use the terrain to your advantage, and master the art of the fling to become a champion!
+1.  Vise avec soin : avant chaque tir, une ligne d’indicateur te montre la trajectoire prévue. Sers‑toi‑en pour viser précisément en tenant compte des obstacles et des pentes.
+2.  Gère la puissance : plus tu tires en arrière avant de relâcher, plus ton tir sera puissant. Il faut apprendre à doser aussi bien les longs coups que les petits chips délicats.
+3.  Utilise le décor : les parcours sont remplis de pentes, murs et autres éléments. Profite‑en : rebondir sur un mur peut te permettre de contourner un virage, et une rampe peut t’aider à franchir un trou ou un obstacle.
+4.  Planifie tes coups : certains trous ne peuvent pas se faire en un seul tir. Observe tout le niveau et choisis un chemin ; parfois il faut viser une zone intermédiaire pour préparer le coup final vers le trou.
+5.  Vise le Par : chaque niveau a un par, c’est‑à‑dire le nombre de flings attendu. Essaie de l’atteindre ou de faire mieux pour obtenir le meilleur score.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Aim Carefully:** Before you fling, an indicator line will show you the projected path of your ball. Use this to aim precisely, taking into account any obstacles or slopes.
-2.  **[FR]** **Control Your Power:** The further you pull back before releasing, the more power your shot will have. You'll need to learn how to judge the right amount of power for both long drives and short, delicate chips.
-3.  **[FR]** **Use the Environment:** The courses are filled with slopes, walls, and other features. Use them to your advantage! Bounce the ball off walls to get around corners or use a ramp to launch your ball over a gap.
-4.  **[FR]** **Plan Your Shots:** Some holes can't be completed in a single shot. Look at the entire level and plan a route for your ball. Sometimes you need to land in a specific spot to set up your final shot on the hole.
-5.  **[FR]** **Strive for Pars:** Each level has a par, which is the expected number of flings to get the ball in the hole. Try to meet or beat the par for the highest score.
+- Viser et régler la puissance : clique et maintiens sur la balle, puis tire la souris vers l’arrière pour choisir direction et force.  
+- Fling : relâche le bouton de la souris pour propulser la balle.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Aim and Power:** Click and hold the mouse button on the golf ball. Drag your mouse back to set the power and direction of your shot.
-*   **[FR]** **Fling:** Release the mouse button to fling the ball.
+- Q : Quel est l’objectif du jeu ?
+  
+  R : Mettre la balle dans le trou à chaque niveau en utilisant le plus petit nombre de flings possible.
 
-### Frequently Asked Questions (FAQ)
+    - Q : Comment améliorer mon score ?
+  
+  R : Ton score dépend du nombre de coups par rapport au par du trou. Les hole‑in‑one et les scores sous le par sont les plus rémunérateurs.
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** The goal is to get the golf ball into the hole on each level using the fewest number of flings possible.
+- Q : Puis‑je faire tourner la balle ?
+  
 
-*   **[FR]** **Q: How do I get a better score?**
-    *   **[FR]** **A:** Your score is based on how many shots you take compared to the par for the hole. Getting a hole-in-one or coming in under par will give you the best score.
+    - **A:** In this type of game, you typically cannot add curve or spin after the ball has been flung. All the control comes from your initial aim and power selection.
 
-*   **[FR]** **Q: Can I make the ball curve?**
-    *   **[FR]** **A:** In this type of game, you typically cannot add curve or spin after the ball has been flung. All the control comes from your initial aim and power selection.
+- **Q: Can I make the ball curve?**
+
+    - **A:** Your score is based on how many shots you take compared to the par for the hole. Getting a hole-in-one or coming in under par will give you the best score.
+  R : En général, non. Il n’y a pas d’effet appliqué après le tir ; tout se joue sur ton angle initial et la puissance choisie.
 

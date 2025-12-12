@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: boxing-random
-title: '[DE] Boxing Random'
+title: "Boxing Random"
 description: >-
-  [DE] Experience chaotic, physics-based boxing in Boxing Random! Master
-  one-button controls and adapt to random challenges to knock out your opponent
-  in this hilarious 1 or 2-player fighting game.
+  Erlebe chaotisches, physikbasiertes Boxen in Boxing Random. Meistere die
+  Ein‑Tasten‑Steuerung und passe dich zufälligen Herausforderungen an, um deinen
+  Gegner in diesem witzigen 1‑ oder 2‑Spieler‑Game auszuknocken.
 iframeSrc: >-
   https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
 thumbnail: /new-images/boxing-random.jpg
@@ -17,54 +17,80 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+Boxing Random ist ein herrlich chaotisches Boxspiel mit ragdoll‑basierten
+Physikfiguren und extrem einfacher Steuerung. Statt komplexer Kombos setzt das
+Spiel auf Unvorhersehbarkeit und Humor. Ziel ist es, als Erster 5 Punkte zu
+holen – ein Punkt, sobald du den Kopf deines Gegners einmal sauber triffst.
 
+Der "Random"‑Anteil ist Kern des Spiels: Zu Beginn jeder Runde kann sich fast
+alles ändern:
 
+- **Arena:** Hintergrund und Layout wechseln.
+- **Boxer:** Aussehen, Armlänge (von extrem kurz bis absurd lang) und
+  Kopfgröße variieren.
+- **Physik:** Manche Runden haben geringe Schwerkraft, andere glatte Eisflächen.
+- **Spezialelemente:** Hindernisse wie Raketen oder andere verrückte Effekte
+  können auftauchen.
 
-### Game Introduction
+Diese ständige Abwechslung sorgt dafür, dass keine zwei Runden gleich sind und
+du dein Vorgehen dauernd neu ausrichten musst.
 
-Boxing Random is a whimsical and chaotic physics-based fighting game with an extremely simple control scheme. Unlike traditional boxing games that require complex combos and strategies, Boxing Random thrives on unpredictability and humor. The objective is to be the first player to score 5 points. A point is scored by landing a single successful punch on the opponent's head.
+Dies zwingt dich dazu, ständig deine Herangehensweise anzupassen. Die
+wackeligen Bewegungen führen zu vielen, oft unerwarteten Knockouts – perfekt
+für lokale Duelle.
 
-The "Random" in the title is the core feature of the game. At the start of each round, everything can change:
--   **The Arena:** The background and stage layout might change.
--   **The Boxers:** The characters' appearances, arm length (from very short to incredibly long), and even head size can be randomized.
--   **The Physics:** Some rounds might have low gravity, while others might feature slippery ice floors.
--   **Special Elements:** Obstacles like rockets flying across the screen or other bizarre challenges may appear.
+### Strategie
 
-This constant randomness ensures that no two rounds are ever the same and forces players to constantly adapt their tactics. The game is known for its ragdoll physics, which leads to hilarious, wobbly character movements and unpredictable knockouts. It can be played solo against an AI or locally with a second player.
+- **Chaos annehmen:** Versuche nicht, wie in einer ernsthaften Boxsimulation zu
+  spielen. Wer sich schnell auf die jeweiligen Zufallseffekte einstellt, ist im
+  Vorteil.  
+- **Timing dominiert:** Mit nur einer Taste entscheidet allein das *Wann*.
+  Drücken lässt deinen Kämpfer springen/kippen und gleichzeitig ausholen.
+  Lerne den Rhythmus der wackeligen Bewegung und triff im höchsten Punkt
+  oder beim Zurückfallen.
 
-### Gameplay Strategy
+- **Momentum nutzen:** Dein Schlag ist ein ganzer Körper‑Swing. Nutze Sprung
+  und Neigung, um weite Bögen zu schlagen – manchmal ist ein Sprung weg vom
+  Gegner mit einem Schlag beim Runterfallen überraschend effektiv.
 
--   **Embrace the Chaos:** Do not try to play this like a serious boxing game. The key to winning is to adapt to the random elements of each round and use them to your advantage.
--   -   **Timing is Everything:** With only one button, your success depends entirely on *when* you press it. Pressing the button makes your character jump and swing their arm. Learn the rhythm of your character's wobbly movements to time your punch perfectly.
--   **Use Momentum:** Your punch isn't just a simple jab. It's a full-body swing. Use the momentum from your character's jump and lean to create a powerful arc. Sometimes, jumping away from your opponent and then swinging on the way down can create a surprise attack.
--   **Corner Your Opponent:** A classic fighting game tactic that works well here. If you can push your opponent against the edge of the screen, they have less room to dodge, making it easier to land a hit.
--   **Play Defensively:** Your swinging arm isn't just for attacking. It can also act as a shield, blocking the opponent's incoming punch. Sometimes, a well-timed swing can knock their fist away, creating an opening for you.
--   **Adapt to Your Arms:** If you get a round with very long arms, try to keep your distance and attack from afar. If you have short arms, you need to get in close and be aggressive.
+- **Gegner in die Ecke drängen:** Wie in anderen Fighting‑Games lohnt es sich,
+  den Gegner an den Bildschirmrand zu schieben – dort hat er weniger
+  Ausweichraum.
 
-### Controls Guide
+- **Defensiv schwingen:** Dein Arm dient auch als Schild. Ein gut getimter
+  Swing kann die Faust des Gegners ablenken und unmittelbar danach ein Fenster
+  für deinen Treffer öffnen.
 
-The game is famous for its one-button control scheme.
+- **An Armlängen anpassen:** Mit sehr langen Armen spielst du eher auf Distanz,
+  mit kurzen musst du aggressiv in den Nahkampf.
 
--   **Player 1:**
-    -   **Up Arrow Key:** Jump / Lean Back & Punch
+### Steuerung
 
--   **Player 2:**
-    -   **W Key:** Jump / Lean Back & Punch
+Das Spiel ist berühmt für seine Ein-Tasten-Steuerung.
 
-**Note:** The same button controls all actions. Pressing it makes your character jump/lean and automatically swing their arm.
+- **Spieler 1:**  
+    - **Pfeiltaste nach oben:** Sprung/Zurücklehnen & Schlag.
+- **Spieler 2:**  
+    - **Taste `W`:** Sprung/Zurücklehnen & Schlag.
 
-### Frequently Asked Questions (FAQ)
+Dieselbe Taste steuert alle Aktionen – es gibt keinen separaten Block‑Button.
 
-**1. How do I win a round?**
-> You win a round by landing one clean punch on your opponent's head. The first player to win 5 rounds wins the entire match.
+### Häufige Fragen (FAQ)
 
-**2. Why do the characters look and move so strangely?**
-> That's the core feature of the game! The characters and physics are randomized each round. You might have long arms, a different background, or face new obstacles. The wobbly "ragdoll" physics is what makes the game fun and unpredictable.
+- **F: Wie gewinne ich eine Runde?**  
+  **A:** Ein sauberer Treffer auf den Kopf des Gegners reicht. Wer zuerst 5
+  Runden gewinnt, entscheidet das Match.
 
-**3. Is there a way to block?**
-> There is no dedicated block button. However, you can use your own swinging arm as a makeshift shield to block or deflect the opponent's punch. This requires good timing.
+- **F: Warum bewegen sich die Figuren so komisch?**  
+  **A:** Das ist Absicht – Ragdoll‑Physik plus zufällige Modifikatoren pro Runde
+  machen den Reiz des Spiels aus.
 
-**4. Can I play this game by myself?**
-> Yes, Boxing Random has a single-player mode where you compete against a computer-controlled opponent (AI).
+- **F: Kann ich blocken?**  
+  **A:** Es gibt keinen Block‑Knopf, aber dein Schlagarm kann gegnerische
+  Schläge abfangen, wenn du gut timst.
 
+- **F: Kann ich alleine spielen?**  
+  **A:** Ja, du kannst gegen eine KI antreten oder lokal im 2‑Spieler‑Modus
+  spielen.

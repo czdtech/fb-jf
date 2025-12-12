@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: jet-boi
-title: '[FR] Jet Boi'
-description: >-
-  [FR] 2‑player jetpack duels: boost with limited fuel, grab weapons, and knock
-  your rival off platforms in quick rounds.
-iframeSrc: >-
-  https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
+title: "Jet Boi"
+description: "Duel 2 joueurs au jetpack : gère ton carburant, ramasse les armes et éjecte ton adversaire des plateformes dans des manches ultra rapides."
+iframeSrc: "https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/"
 thumbnail: /new-images/jet-boi.jpg
 tags:
   - action
@@ -16,30 +13,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation
 
+Jet Boi est un petit shooter versus centré sur le contrôle aérien. Deux joueurs volent autour de plateformes avec des impulsions de jetpack, ramassent des armes et tentent de mettre l’autre K.O. ou de le faire tomber dans le vide. Maîtriser les micro‑taps en l’air, le recul des armes et le timing des pickups est crucial pour garder la hauteur et finir ton adversaire.
 
+### Comment jouer
 
-### Overview
-Jet Boi is a compact versus shooter about aerial control. Two players rocket around platforms with short fuel bursts, pick up guns, and try to score ring‑outs or KOs. Mastering mid‑air taps, recoil control, and weapon timing is critical to secure the high ground and finish opponents.
+- Utilise de courtes impulsions de jetpack pour planer : ne gaspille pas tout ton carburant d’un coup.  
+- Ramasse les armes qui apparaissent et attaque depuis le dessus pour avoir de meilleurs angles.  
+- Profite du knockback près des bords : mieux vaut provoquer une chute que chercher uniquement les dégâts bruts.
 
-### How to Play
-- Feather boosts to hover; don’t burn fuel in one go.
-- Grab weapon spawns and pressure from above for safer angles.
-- Use knockback near edges; force ring‑outs instead of trading damage.
+### Commandes
 
-### Controls
-- Player‑specific movement/boost/shoot keys (host dependent); designed for local 2P.
+- Chaque joueur dispose de ses propres touches de déplacement / boost / tir (variables selon l’hébergeur), pensées pour le 2P local sur un clavier.
 
-### Tips
-- Short taps stabilize aim; long burns are for repositioning only.
-- Deny weapon crates even if you don’t need them.
-- Fight for top platforms—they dictate angles and safety.
+### Astuces
+
+- De petites pressions stabilisent ta visée, les longues poussées servent surtout à te repositionner.  
+- Détruis ou ramasse les caisses d’armes même si tu es déjà armé, pour empêcher ton adversaire de s’équiper.  
+- Contrôle les plateformes du haut : elles dictent les angles d’attaque et offrent plus de sécurité.
 
 ### FAQ
-- Q: How do I conserve fuel effectively?
-A: Use short, rhythmic taps to maintain altitude and adjust aim.
-- Q: What is the best way to finish opponents?
-A: Push them off stage with knockback rather than chasing raw damage.
-- Q: Can I remap keys for two players?
-A: Many hosts allow custom binds before matches.
+
+- **Q : Comment économiser efficacement le carburant ?**  
+  R : Utilise des tapotements réguliers pour garder ton altitude tout en ajustant ton tir, plutôt qu’un long maintien.
+
+- **Q : Comment achever un adversaire ?**  
+  R : Cherche à le pousser en dehors du terrain avec le recul des tirs près des bords, au lieu de prolonger les échanges de dégâts au centre.
+
+- **Q : Peut‑on reconfigurer les touches en 2 joueurs ?**  
+  R : Beaucoup d’hébergeurs proposent un menu de binds personnalisés avant le match.
 

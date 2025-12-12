@@ -1,49 +1,42 @@
 ---
 locale: zh
 urlstr: train-2048
-title: '[ZH TRANSLATION NEEDED] Train 2048'
-description: >-
-  [ZH TRANSLATION NEEDED] Combine and merge train cars in Train 2048, a clever
-  twist on the classic 2048 puzzle. Strategically slide matching cars together
-  to build a more advanced train and reach the ultimate 2048 car.
-iframeSrc: >-
-  https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
-thumbnail: /new-images/train-2048.jpg
+title: 《Train 2048》火车版 2048
+description: 《Train 2048》是一款将 2048 合并机制与火车元素结合的数字益智游戏。通过滑动整排车厢，使相同数字的车厢相遇合并，努力合成更高数值的列车。
+iframeSrc: 'https://train2048.h5games.usercontent.goog/v/3n7c2b1k9d5p0/'
+thumbnail: /new-images/train-2048.png
 tags:
   - puzzle
-  - thinky
-  - casual
-score: 4.1/5  (1120 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - numbers
+  - '2048'
+score: 4.0/5  (1750 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+《Train 2048》延续经典 2048 的数字合并玩法，只不过棋盘上的元素变成了一节节火车车厢。你通过滑动指令让所有车厢向一个方向移动，当两个相同数字的车厢碰到一起时就会合并成更高级的车厢。每一步移动后都会生成新的低级车厢，当棋盘被填满且无法合并时，游戏结束。
 
-[ZH TRANSLATION NEEDED] Train 2048 is an engaging puzzle game that reimagines the beloved 2048 formula with a charming train theme. Instead of numbered tiles, players slide and combine train cars of the same type on a grid-based railway. Each combination merges two identical cars into a new, higher-level car. The objective is to strategically manage the limited space on the board, continue merging cars, and ultimately create the illustrious "2048" train car.
+### 游玩策略与通关指引
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Corner Strategy:** A classic 2048 strategy that works perfectly here. Try to keep your highest-value train car in one of the corners of the grid at all times. This prevents it from getting trapped in the middle of the board and allows you to build up other cars around it.
-2.  [ZH TRANSLATION NEEDED] **Limit Your Movements:** Avoid randomly swiping in all four directions. Primarily use only two or three directions (e.g., Up, Right, and occasionally Left) to keep the cars organized. This creates more predictable merges and prevents the board from filling up with low-value cars in random positions.
-3.  [ZH TRANSLATION NEEDED] **Build Chains:** Try to arrange cars in ascending or descending order along a wall. For example, have a 4-car next to an 8-car, which is next to a 16-car. This makes it easier to perform chain reactions and combine them into your main high-value car.
-4.  [ZH TRANSLATION NEEDED] **Think Ahead:** Before making a move, anticipate where the new car might appear and how the existing cars will shift. A single bad move can disrupt your entire setup.
+1.  **固定高数车厢角落：** 与传统 2048 一样，尽量让最高数值的车厢长期待在某个角落，这样不会轻易被移动到棋盘中间而被“搅乱布局”。
+2.  **限制移动方向：** 避免频繁往四个方向乱滑，一般选择 2–3 个方向为主（例如上、右，偶尔左），可以更好地保持车厢排列有序。
+3.  **沿边建立数列：** 尝试在一条边上按从小到大的顺序排列车厢（如 4、8、16、32……），有利于持续向角落合并并形成连锁反应。
+4.  **预想新车厢位置：** 每次移动前想一想新生成的车厢大概率会出现在何处，避免一滑就导致关键位置被小数字占据。
 
-### Controls Guide
+### 操作说明
 
-[ZH TRANSLATION NEEDED] The controls are simple and intuitive:
+**PC 端：**
+- 使用上下左右方向键滑动棋盘上的所有车厢；
 
-*   **Arrow Keys (Desktop):** Use the **Up, Down, Left, and Right** arrow keys to slide all the train cars on the board in the corresponding direction.
-*   **Swiping (Mobile):** **Swipe** in any of the four cardinal directions to move the cars.
+**移动端：**
+- 在屏幕上向上、下、左或右滑动，即可让车厢整体朝对应方向移动。
 
-### Frequently Asked Questions (FAQ)
-
-*   **Q: How do you win the game?**
-     *   **A:** The primary goal is to successfully merge cars until you create the "2048" train car. Continuing to play after that to achieve an even higher score is also possible.
-
-*   **Q: How do you lose the game?**
-     *   **A:** You lose when the entire grid is filled with train cars, and there are no possible moves or merges left.
-
-*   **Q: Which corner is best for the highest car?**
-     *   **A:** Any corner works, but consistency is key. Once you choose a corner (e.g., top-right), stick with it. Most players find a bottom corner slightly easier as it feels more natural to avoid swiping down.
-
+### 常见问题解答（FAQ）
+*   **问：游戏目标是什么？****
+    *   答：** 核心目标是通过不断合并车厢，至少合成一次“2048”车厢。达成后你可以继续挑战更高数值和更高分数。
+*   **问：在什么情况下会失败？****
+    *   答：** 当棋盘被车厢填满且不存在任何可合并的相同数字时，游戏结束。
+*   **问：哪一个角适合作为“主角落”？****
+    *   答：** 理论上任何角都可以，关键是从头到尾保持一致。很多玩家会选择左下或右下角，便于习惯性避免向下滑动。

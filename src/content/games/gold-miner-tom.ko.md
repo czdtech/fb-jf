@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: gold-miner-tom
-title: '[KO] Gold Miner Tom'
+title: Gold Miner Tom 골드 마이너 톰
 description: >-
-  [KO] Help Tom get rich! A classic gold miner game where you cast your claw to
-  grab gold nuggets, gems, and other treasures. Reach the level goal before time
-  runs out!
+  광부 톰을 도와 부자가 되어 보세요! 흔들리는 집게를 내려 금덩이와 보석, 각종 보물들을 끌어올리는 클래식 골드 마이너 게임입니다. 제한
+  시간 안에 레벨마다 정해진 목표 금액을 달성해야 합니다.
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/gold-miner-tom.png
 tags:
@@ -19,34 +18,62 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Gold Miner Tom is a classic arcade-style game that tests your timing and precision. As the ambitious miner Tom, you control a swinging claw and must cast it at the right moment to grab valuable treasures buried underground. Each level has a specific monetary goal you must reach within a time limit. Grab gold nuggets, sparkling diamonds, and mysterious goodie bags, but be careful to avoid worthless rocks that will waste your precious time!
+`Gold Miner Tom`은 타이밍과 정확한 클릭을 시험하는 고전 아케이드 스타일의
+골드 마이너 게임입니다. 야망 가득한 광부 톰이 되어 좌우로 흔들리는 집게를
+조종하고, 적절한 순간에 내려 지하에 묻힌 귀중한 보물을 끌어올려야 합니다.
+각 레벨마다 제한 시간과 목표 금액이 정해져 있으며, 금덩이와 반짝이는 다이아몬드,
+수수께끼 가방을 노리되, 시간만 잡아먹는 돌은 최대한 피하는 것이 핵심입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** **Timing is Everything:** The claw swings back and forth continuously. Your success depends entirely on clicking at the perfect moment to send the claw in the direction of a valuable item.
-2.  **[KO]** **Know Your Treasure:** Different items have different values and weights.
-    *   **[KO]** **Large Gold Nuggets & Diamonds:** These are your primary targets. They are worth the most money.
-    *   **[KO]** **Small Gold Nuggets:** Easier to grab and faster to reel in, but less valuable.
-    *   **[KO]** **Rocks:** Avoid these! They are worth very little money and are very heavy, meaning they take a long time to reel in, wasting valuable time.
-    *   **[KO]** **Mystery Bags:** These contain a random amount of money or a power-up.
-3.  **[KO]** **Shop Between Levels:** Use the money you've earned to buy helpful items in the shop between levels. Dynamite is essential for blowing up worthless rocks you accidentally grab. Strength potions help you reel in heavy objects faster.
+1. **타이밍이 전부다**  
+   집게는 계속 좌우로 흔들립니다. 클릭하는 순간의 각도에 따라 집게가
+   향하는 방향이 결정되므로, 원하는 보물과 집게의 궤적이 정확히 겹칠
+   타이밍에 맞춰 내려야 합니다.
 
-### Controls Guide
+2. **보물 가치 파악하기**  
+   각 객체는 가치와 무게가 다릅니다.  
+    - **큰 금덩이 & 다이아몬드**: 가장 높은 가치를 지닌 핵심 타깃입니다.  
+    - **작은 금덩이**: 빠르게 끌어올릴 수 있지만 가치가 조금 낮습니다.  
+    - **돌**: 무겁고 값이 거의 없어 시간을 많이 빼앗습니다. 가능한 한 피해야
+     하며, 실수로 잡았다면 폭탄을 고려해야 합니다.  
+    - **미스터리 가방**: 랜덤 금액이나 파워업이 들어 있을 수 있는 위험·보상형
+     아이템입니다.
 
-The game uses a simple, one-touch control scheme.
+3. **라운드 사이의 상점 활용**  
+   스테이지 사이에는 상점에서 유용한 아이템을 구입할 수 있습니다. 실수로
+   집게에 걸린 돌을 터뜨리는 **다이너마이트**, 무거운 물체를 더 빨리 끌어올리는
+   **힘 물약** 등은 후반부 높은 목표 금액을 맞추는 데 사실상 필수입니다.
 
-*   **[KO]** **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
-*   **[KO]** **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+이 게임은 간단한 원터치 조작으로 플레이할 수 있습니다.
 
-*   **[KO]** **Q: What is the goal of each level?**
-    *   **[KO]** **A:** To earn enough money to meet the level's target amount before the timer runs out.
+- **집게 내리기**: 집게가 원하는 방향을 가리킬 때 마우스를 클릭하거나 화면을
+  탭해 집게를 내려 보물을 잡습니다.
+- **다이너마이트 사용**: 돌 같이 원치 않는 물체를 잡은 상태에서 다이너마이트를
+  보유하고 있다면, 화면에 표시되는 버튼을 눌러 해당 물체를 폭파해 시간 낭비를
+  줄일 수 있습니다.
 
-*   **[KO]** **Q: Why is my claw reeling in so slowly?**
-    *   **[KO]** **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What happens if I don't reach the money goal in time?**
-    *   **[KO]** **A:** If the timer runs out and you haven't met the goal, the game is over.
+- **Q: 각 레벨의 목표는 무엇인가요?**  
+  **A:** 제한 시간 안에 레벨마다 정해진 목표 금액 이상을 벌어야 다음 스테이지로
+  넘어갈 수 있습니다.
+
+    - **Q: 집게가 너무 느리게 올라오는데 왜 그런가요?**  
+  **A:** 대부분 큰 돌처럼 무겁지만 가치가 낮은 물체를 잡았기 때문입니다.
+  가능하면 이런 돌은 피하고, 이미 잡았다면 다이너마이트로 터뜨려 시간을
+  아끼는 것이 좋습니다.
+
+- **Q: 제한 시간 안에 목표 금액을 못 채우면 어떻게 되나요?**  
+
+    - **A:** If the timer runs out and you haven't met the goal, the game is over.
+
+- **Q: What happens if I don't reach the money goal in time?**
+
+    - **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
+  **A:** 시간이 끝났을 때 목표 금액에 도달하지 못했다면 게임이 종료되며,
+  해당 스테이지를 다시 도전해야 합니다.

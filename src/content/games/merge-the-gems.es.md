@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: merge-the-gems
-title: '[ES] Merge the Gems'
+title: "Merge the Gems - Funde gemas y descubre joyas únicas"
 description: >-
-  [ES] Merge identical gems to forge new, more valuable jewels! Fill your board,
-  complete challenges, and discover all the precious stones in this sparkling
-  and addictive merge puzzle game.
+  Fusiona gemas idénticas para forjar joyas nuevas y más valiosas. Llena el
+  tablero, completa desafíos y descubre todas las piedras preciosas en este
+  brillante y adictivo rompecabezas de merges.
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/merge-the-gems.jpg
 tags:
@@ -18,33 +18,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Merge the Gems es un rompecabezas sencillo, relajante y altamente adictivo
+centrado en fusionar gemas idénticas para crear versiones nuevas y más valiosas.
+Empiezas con piedras sin pulir y, a base de merges, vas obteniendo joyas cada
+vez más brillantes y elaboradas. El objetivo es gestionar el tablero, fusionar
+sin parar para descubrir nuevos tipos de gemas y cumplir objetivos para ganar
+puntos y monedas.
 
-Merge the Gems is a simple, relaxing, and highly addictive puzzle game centered around merging identical gems to create new, more valuable ones. You start with basic, uncut stones and combine them to progressively form sparkling, elaborate jewels. The goal is to manage your game board, continuously merge to discover new gem types, and fulfill objectives to earn points and coins.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Cadena de fusión:** el núcleo del juego es arrastrar una gema y soltarla
+    sobre otra idéntica. Ambas se combinan en una única gema de nivel superior.
+    La clave está en seguir fusionando para liberar espacio y desbloquear joyas
+    más valiosas.
+2.  **Gestión del tablero:** el tablero tiene un número de casillas limitado.
+    Si se llena por completo, no podrás añadir nuevas gemas. Prioriza los
+    merges para que el tablero no se sature.
+3.  **Usar las monedas para acelerar:** aunque el juego te regala gemas básicas
+    de vez en cuando, la forma más rápida de progresar es usar las monedas para
+    comprar gemas en la tienda y así llegar antes a niveles altos.
+4.  **Cumplir objetivos:** fíjate en los objetivos o encargos que vayan
+    apareciendo. Completarlos es la mejor manera de conseguir grandes cantidades
+    de monedas y avanzar.
 
-1.  **[ES]** **The Merge Chain:** The core of the game is to drag one gem and drop it onto an identical gem. The two will then merge into a single, new gem of a higher level. The key is to keep merging to create more space and discover more valuable jewels.
-2.  **[ES]** **Manage Your Board:** Your board has a limited number of spaces. If it fills up completely, you won't be able to add new gems. Always prioritize making merges to keep your board from getting cluttered.
-3.  **[ES]** **Use Coins to Accelerate:** While the game will periodically give you a free basic gem, the fastest way to progress is to use the coins you earn to buy more gems from the shop. This allows you to create high-level gems much more quickly.
-4.  **[ES]** **Fulfill Goals:** Pay attention to any goals or orders that may appear. Completing these challenges is the best way to earn large amounts of coins and advance in the game.
+### Guía de controles
 
-### Controls Guide
+El juego se maneja con controles sencillos de arrastrar y soltar.
 
-The game is played with simple drag-and-drop controls.
+*   **Fusionar gemas:** haz clic y arrastra una gema sobre otra idéntica para
+    fusionarlas.
+*   **Comprar gemas:** entra en la tienda y compra gemas que ya hayas
+    descubierto.
 
-*   **[ES]** **Merge Gems:** Click and drag one gem and drop it onto another identical gem to merge them.
-*   **[ES]** **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo consigo gemas nuevas?**
+    *   **R:** Cada cierto tiempo aparecerá automáticamente una gema básica en
+        un hueco libre. También puedes gastar monedas en la tienda para
+        comprarlas directamente.
 
-*   **[ES]** **Q: How do I get new gems?**
-    *   **[ES]** **A:** A new, basic gem will appear automatically on an empty spot after a short timer. You can also spend coins in the shop to buy gems directly.
+*   **P: ¿Cuál es el objetivo principal?**
+    *   **R:** Descubrir todos los tipos de gemas posibles mediante fusiones y
+        completar las tareas que te proponga el juego para lograr la máxima
+        puntuación.
 
-*   **[ES]** **Q: What is the main objective?**
-    *   **[ES]** **A:** To discover all the different types of gems by merging them and to complete any given tasks to earn the highest score possible.
-
-*   **[ES]** **Q: My board is full and I can't make any moves. What should I do?**
-    *   **[ES]** **A:** You need to free up space. Double-check for any possible merges. If there are absolutely no moves, you may need to use an option to sell or delete a low-value gem to make room for a new one.
-
+*   **P: El tablero está lleno y no puedo mover nada, ¿qué hago?**
+    *   **R:** Necesitas liberar espacio. Revisa si hay merges disponibles; si
+        de verdad no queda ninguno, utiliza la opción de vender o eliminar una
+        gema de poco valor para abrir un hueco.

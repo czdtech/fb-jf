@@ -1,57 +1,60 @@
 ---
-locale: ja
-urlstr: super-smash-flash-2-v09
-title: '[JA TRANSLATION NEEDED] Super Smash Flash 2 v0.9'
-description: >-
-  [JA TRANSLATION NEEDED] Play an updated demo of Super Smash Flash 2, the epic
-  fan-made fighting game! Featuring a huge roster of characters and deep,
-  technical gameplay, it's the ultimate tribute to the Super Smash Bros. series.
-  Battle it out on iconic stages and master your fighter's moveset.
-iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
+title: Super Smash Flash 2 v0.9
+description: Super Smash Flash 2 v0.9は、最新版のファン製格闘ゲームです。新しいキャラクターと改善された機能で楽しめます。
+iframeSrc: 'https://ubg98.github.io/SuperSmashFlash2v09/'
 thumbnail: /new-images/super-smash-flash-2-v09.jpg
+urlstr: super-smash-flash-2-v09
+score: 4.7/5  (5124 votes)
 tags:
   - fighting
-  - platformer
   - multiplayer
-score: 4.2/5  (265 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Super Smash Flash 2 is the highly anticipated sequel to the legendary fan-made fighting game. It is a massive improvement over the original, featuring a larger roster of characters, more polished stages, and significantly more complex and balanced gameplay that mirrors the official Super Smash Bros. series. It stands as one of the most impressive and comprehensive fan-made games ever created.
+Super Smash Flash 2 v0.9は、人気のファン製格闘ゲームの最新版です。新しいキャラクター、ステージ、改善されたメカニクスで、さらに楽しい戦闘体験を提供します。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] Like its inspiration, the goal is to launch opponents off the screen by increasing their damage percentage.
-- **Advanced Techniques:** SSF2 includes advanced mechanics like dashing, shielding, grabbing, and a variety of aerial attacks, making the combat much deeper than in the first game.
-- **Character Roster:** The game features dozens of characters from a wide array of video game and anime series, each with their own unique and faithful moveset.
-- **Game Modes:** Includes various modes for both single-player and multiplayer, such as standard Versus mode and event-based challenges.
 
-### Controls Guide
+Like its inspiration, the goal is to launch opponents off the screen by increasing their damage percentage.
+ - **拡張されたロスター：** さらに多くのキャラクターから選択できます
+ - **新しいステージ：** 様々な新しいバトルステージ
+ - **改善された戦闘：** よりバランスの取れた戦闘メカニクス
+ - **競争的プレイ：** 友達と対戦して技術を競います
 
-[JA TRANSLATION NEEDED] Controls are fully customizable. A common default layout for Player 1 is:
-- **Move:** `A` and `D`
-- **Up/Aim Up:** `W`
-- **Crouch/Aim Down:** `S`
-- **Jump:** `Spacebar`
-- **Standard Attack:** `J`
-- **Special Attack:** `K`
-- **Shield:** `L`
-- **Grab:** `U`
+### 操作ガイド
+
+
+Controls are fully customizable. A common default layout for Player 1 is:
+ - **矢印キー：** 移動とダッシュ
+ - **ASDF キー：** 通常攻撃と特別な技
+ - **スペースバー：** ジャンプとダブルジャンプ
+
+
 - **Pause:** `Enter`
 
-### Frequently Asked Questions (FAQ)
+- **Grab:** `U`
 
-[JA TRANSLATION NEEDED] **How is this different from the first Super Smash Flash?**
+- **Shield:** `L`
 
-[JA TRANSLATION NEEDED] Super Smash Flash 2 is a complete overhaul. It features a new engine, much smoother animations, a larger and more balanced cast of characters, more competitive mechanics, and online play.
+- **Special Attack:** `K`
 
-[JA TRANSLATION NEEDED] **Can I use a controller?**
+- **Standard Attack:** `J`
 
-[JA TRANSLATION NEEDED] Yes, the game has built-in support for a wide variety of controllers, which can be configured in the options menu.
+- **Jump:** `Spacebar`
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **Is this game still being updated?**
+**v0.9の新機能は何ですか？**
 
-[JA TRANSLATION NEEDED] Yes, the development team at McLeodGaming continues to release updates, adding new characters, stages, and features to the game.
+新しいキャラクター、ステージ、改善されたバランス、追加のゲームモードが含まれています。
 
+**オンラインマルチプレイヤーはありますか？**
+
+このバージョンはローカルマルチプレイヤーに焦点を当てています。
+
+**どれくらいキャラクターがいますか？**
+
+40以上のプレイ可能なキャラクターから選択できます。

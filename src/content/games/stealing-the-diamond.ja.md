@@ -1,49 +1,52 @@
 ---
-locale: ja
-urlstr: stealing-the-diamond
-title: '[JA TRANSLATION NEEDED] Stealing The Diamond'
+title: Stealing the Diamond
 description: >-
-  [JA TRANSLATION NEEDED] Join Henry Stickmin in Stealing the Diamond, a
-  hilarious choose-your-own-adventure game. Your mission: infiltrate the museum
-  and make off with the giant diamond. Choose from a variety of tools and paths,
-  from busting in loudly to sneaking in unseen. Discover all the funny fails and
-  multiple endings!
-iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
+  Stealing the
+  Diamondは、選択があなたの運命を決定するインタラクティブアドベンチャーゲームです。ダイヤモンドを盗むためのあなたの道を選びましょう。
+iframeSrc: 'https://ubg98.github.io/StealingTheDiamond/'
 thumbnail: /new-images/stealing-the-diamond.jpg
+urlstr: stealing-the-diamond
+score: 4.5/5  (3127 votes)
 tags:
   - adventure
-  - funny
-  - puzzle
-score: 3.5/5  (951 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - interactive
+  - comedy
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Stealing the Diamond is a classic interactive adventure game from the Henry Stickmin series. As the titular character, Henry, your goal is to successfully steal a massive diamond from a heavily guarded museum. The game is famous for its humorous, choice-driven gameplay where every decision leads to a different, often comical, outcome.
+Stealing the Diamondは、人気のあるHenry Stickminシリーズの一部です。このインタラクティブアドベンチャーでは、ダイヤモンドを盗むために選択を行い、さまざまな面白い結果につながります。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The gameplay is simple: at various points in the story, you will be presented with a choice of two or more options (tools or actions) to proceed. Your selection determines what happens next. Most choices lead to a unique "Fail" screen with a funny description, while specific combinations of choices will lead you to one of the three successful endings. The fun lies in exploring the different paths and discovering all the possible outcomes.
 
-### Controls Guide
+The gameplay is simple: at various points in the story, you will be presented with a choice of two or more options (tools or actions) to proceed. Your selection determines what happens next. Most choices lead to a unique "Fail" screen with a funny description, while specific combinations of choices will lead you to one of the three successful endings. The fun lies in exploring the different paths and discovering all the possible outcomes.
+ - **選択を行う：** さまざまなシーンで選択肢をクリックします
+ - **結果を見る：** あなたの選択がストーリーにどのように影響するかを見ます
+ - **複数のエンディング：** さまざまな選択がさまざまな結果につながります
+ - **すべてを試す：** すべてのパスとエンディングを発見するために実験します
 
-- **Mouse:** Use your mouse to click on the option you want to choose.
+### 操作ガイド
 
-### Frequently Asked Questions (FAQ)
+ - **マウス：** 選択肢と相互作用をクリック
 
-[JA TRANSLATION NEEDED] **How many ways are there to win?**
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] There are three successful endings in Stealing the Diamond:
-- The "Aggressive" ending.
-- The "Undetected" ending.
+**何エンディングがありますか？**
+
+ゲームには、あなたの選択に基づいて複数のエンディングがあります。
+
+
 - The "Epic" ending.
 
-[JA TRANSLATION NEEDED] **What is the point of all the "Fails"?**
+- The "Undetected" ending.
 
-[JA TRANSLATION NEEDED] The numerous and humorous fail screens are a core part of the game's charm and comedy. Finding all 40+ fails is a key objective for many players and is necessary for 100% completion.
+- The "Aggressive" ending.
+**間違った選択をしたらどうなりますか？**
 
-[JA TRANSLATION NEEDED] **Is this part of a series?**
+間違った選択は面白い失敗シーンにつながりますが、再試行できます。
 
-[JA TRANSLATION NEEDED] Yes, Stealing the Diamond is the third game in the popular Henry Stickmin series, following *Breaking the Bank* and *Escaping the Prison*.
+**ゲーム全体をクリアするのにどれくらいかかりますか？**
 
+すべてのエンディングを見つけるには、複数のプレイスルーが必要です。各プレイスルーは比較的短いです。

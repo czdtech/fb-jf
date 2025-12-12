@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: block-breaker-king
-title: '[DE] Block Breaker King'
+title: "Block Breaker King"
 description: >-
-  [DE] Block Breaker King modernizes brick‑breaker — aim caroms, manage
-  power‑ups, and control ball speed for efficient clears.
+  Block Breaker King: Mission ist ein strategisches Block‑Puzzle. Platziere
+  Tetris‑ähnliche Formen auf dem Raster, räume komplette Reihen und erfülle
+  Missionsziele, ohne dir das Brett zu verbauen.
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/block-breaker-king.png
 tags:
@@ -15,46 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+*Block Breaker King: Mission* ist ein ruhiges Platzierungspuzzle im Tetris‑Stil ohne fallende Steine. Du wählst unten eine Form aus und legst sie auf das Raster; füllst du eine komplette Reihe oder Spalte, verschwindet sie und schafft Platz.
 
-### **Game Introduction**
+Endet deine Auswahl an Formen, die du unterbringen kannst, ist die Partie verloren. Deshalb dreht sich alles um vorausschauendes Flächenmanagement und das Offenhalten von Zonen für sperrige Teile.
 
-*Block Breaker King: Mission* is a strategic block puzzle game, where the gameplay is similar to the placement mechanics of *Tetris* but without the falling blocks. The objective is to **strategically place various Tetris-like shapes onto a grid to create and clear full horizontal or vertical lines.**
+Viele Versionen besitzen einen Missionsmodus mit klaren Zielen („räum 10 Linien“, „erreiche X Punkte“, „überstehe Y Züge“). Das Erfüllen einer Mission schaltet die nächste Stage frei.
 
-At the bottom of the screen, players are presented with a selection of different block shapes. You must drag and drop these shapes onto the main game board. When a complete horizontal row or a vertical column is filled with blocks, that line will be cleared, freeing up space on the board.
+### Strategie & Tipps
 
-The game ends when you are unable to place any of the given shapes onto the board because there is no available space that fits them. The challenge lies in careful planning and efficient placement to keep the board as clear as possible for as long as possible, aiming to achieve the highest score. The "Mission" aspect, as shown in the screenshots, suggests a level-based progression system with specific objectives for each stage.
+1.  **Linien priorisieren:** Platziere so, dass du sofort oder im nächsten Zug eine Linie schließt.
+2.  **Einzellöcher vermeiden:** 1×1‑Lücken sind kaum zu reparieren – halte die Fläche möglichst eben.
+3.  **Zukünftige Formen einbeziehen:** Nutze die Vorschau und plane schon jetzt Lücken für kommende Teile.
+4.  **Von außen nach innen bauen:** Fülle zuerst Ränder/Ecken, damit das Zentrum flexibel bleibt.
+5.  **Kombos nicht erzwingen:** Ein sauberer Einzellinien‑Clear ist besser als ein riskanter Mehrfach‑Clear.
+6.  **Große Teile im Blick behalten:** Bewahre mindestens einen Bereich auf, in den 3×3‑ oder 5er‑Teile passen.
 
-### **Gameplay Strategy & Tips**
+### Steuerung
 
-1.  **[DE]** **Prioritize Clearing Lines**: Your primary goal should always be to clear lines. When deciding where to place a block, look for the spot that will either complete a line immediately or set up an easy completion with the next one or two pieces.
-2.  **[DE]** **Avoid Creating Single Gaps**: Be very careful not to leave single, isolated empty squares in the middle of your structure. These "holes" are extremely difficult to fill later on and can quickly lead to a game over as they waste valuable space.
-3.  **[DE]** **Think About the Next Pieces**: The game shows you the upcoming pieces. Plan your placements not just for the current piece, but also considering how the next pieces will fit onto the board.
-4.  **[DE]** **Use Corners and Edges**: Try to build your structure from the corners and edges inward. This generally keeps the central area of the board more open and flexible for placing larger or awkwardly shaped pieces.
-5.  **[DE]** **Don't Be Afraid to Sacrifice a Combo**: While clearing multiple lines at once (a combo) gives a high score, it's not always the best move. Sometimes, making a simple, single-line clear is a better strategic choice if it prevents you from creating a problematic gap or blocking off a large area.
-6.  **[DE]** **Manage Your Large Pieces**: The large square (3x3) and long line pieces (1x5 or 5x1) require the most space. Try to always keep enough open area on your board to accommodate them. If you can't place a large piece, the game can end very quickly.
+Das Spiel ist auf eine einfache Touch- bzw. Maussteuerung ausgelegt.
 
-### **Controls Guide**
+*   **Block wählen & setzen:** Block unten antippen oder anklicken, halten, aufs Raster ziehen und loslassen.
+*   **Rotation:** Je nach Version kannst du eine Form vor dem Platzieren antippen, um sie zu drehen; manche Modi verzichten bewusst auf Rotation.
 
-The game is designed for simple one-touch mobile gameplay.
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Select and Place**: **Touch and hold** a block shape from the bottom of the screen, **drag** it to the desired position on the grid, and **release** to place it.
-*   **[DE]** **Rotate**: In many games of this type, you can tap the shape before dragging it to rotate it. This may or may not be a feature depending on the specific version.
+**1. Gibt es einen Zeitdruck?**
 
-### **Frequently Asked questions (FAQ)**
+Nein. Du kannst dir pro Zug Zeit lassen – die Herausforderung ist allein das begrenzte Brett.
 
-**1. Is there a time limit?**
-Typically, games in this genre do not have a time limit per move. The pressure comes from the limited space on the board, not from a clock. This makes it a game of pure strategy rather than speed.
+**2. Kann ich jeden Block drehen?**
 
-**2. Can I rotate the blocks?**
-This depends on the specific game mode or version. In the classic mode of this puzzle type, blocks cannot be rotated, which adds to the challenge. Some versions may include a mode where rotation is possible.
+Kommt auf den Modus an. In klassischen Varianten sind Formen fix und nicht drehbar, was saubere Planung verlangt.
 
-**3. What is the goal of the "Mission" mode?**
-As shown in the first screenshot, the "Mission" mode is a series of pre-designed levels (Stage 1, 2, 3, etc.). Each level likely has a specific objective, such as "clear 10 lines," "score X points," or surviving a certain number of pieces, which you must complete to unlock the next stage.
+**3. Wozu dient der Missionsmodus?**
 
-**4. How do I get a high score?**
-High scores are achieved by:
-*   **[DE]** **Clearing multiple lines at once**: Combos give significantly more points than single-line clears.
-*   **[DE]** **Surviving for a long time**: The more pieces you successfully place, the higher your score will be.
-*   **[DE]** **Using special blocks**: Some levels may contain special blocks (like the bomb in one of the screenshots) that clear a larger area when their line is completed.
+Er stellt Aufgaben wie „räum X Linien“ oder „erreiche Y Punkte“. Erfüllst du das Ziel, schaltest du die nächste Stage frei.
 
+**4. Wie komme ich an hohe Scores?**
+
+Hohe Punktzahlen erzielst du, indem du…
+
+*   Doppel‑/Dreifachlinien vorbereitest
+*   viele Züge überlebst und entsprechend mehr Blöcke platzierst
+*   Spezialblöcke (Bomben usw.) nutzt, sobald sie auftauchen

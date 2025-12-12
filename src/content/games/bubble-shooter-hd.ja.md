@@ -1,88 +1,40 @@
 ---
+title: "Bubble Shooter HD バブルシューターHD"
+description: "「Bubble Shooter HD」は色鮮やかで美しい定番パズル。狙いを定めてバブルを撃ち、同じ色を3つ以上揃えて消そう。中毒性抜群の戦略パズル。"
+iframeSrc: "https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/"
+thumbnail: "/new-images/bubble-shooter-hd.png"
+urlstr: "bubble-shooter-hd"
+score: "4.6/5  (2890 votes)"
+tags: ["puzzle", "casual", "shooting"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: bubble-shooter-hd
-title: '[JA TRANSLATION NEEDED] Bubble Shooter HD'
-description: >-
-  [JA TRANSLATION NEEDED] Enjoy the classic and highly addictive Bubble Shooter
-  HD! Aim your bubble and match three or more of the same color to clear the
-  board.
-iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
-thumbnail: /new-images/bubble-shooter-hd.png
-tags:
-  - puzzle
-  - casual
-  - shooting
-score: 4.6/5  (2890 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+*Bubble Shooter HD（バブルシューターHD）*は、時代を超えて愛されるバブル消しパズルゲームの高解像度版です。ルールはシンプル。画面下の発射台からバブルを撃ち出し、同じ色のバブルを3つ以上くっつけて消していきます。直感的な操作、美しいグラフィック、そして大量のバブルが一気に落ちる連鎖の爽快感が魅力です。
 
-### Detailed Game Introduction
+### ゲーム攻略と戦略
 
-[JA TRANSLATION NEEDED] Bubble Shooter HD is a polished, high-definition version of the timeless bubble-popping puzzle game. The goal is to clear the playing field by forming groups of three or more like-colored bubbles. With its simple, intuitive gameplay, crisp graphics, and satisfying chain reactions, this game offers endless hours of strategic fun for players of all skill levels.
+1.  **正確に狙う：** ガイドライン（照準線）が表示されるので、それを頼りに正確に狙いを定めましょう。特に壁を使った反射ショットでは重要になります。
+2.  **壁反射（バンクショット）：** まっすぐ撃っても届かない場所には、左右の壁にバブルを反射させて狙いましょう。上級者になるための必須テクニックです。
+3.  **根元を狙う（クラスター破壊）：** ぶら下がっているバブルの「根元」を狙いましょう。上の方にあるバブルを消して支えを失わせれば、その下にぶら下がっていた全てのバブルが一気に落下します（アバランチ効果）。これこそが高得点とクリアへの近道です。
+4.  **次の一手を見る：** 発射台の脇に「次に来るバブルの色」が表示されています。これを見て2手先まで計画を立てることで、より効果的なコンボを作れます。
+5.  **無駄撃ちしない：** 多くのバージョンでは、バブルを消せないショット（ミスショット）を数回繰り返すと、天井から新しいバブルの列が一段降りてきます。盤面が狭くなるので、無駄撃ちは避けましょう。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  **Aim Carefully:** The game provides a guideline to help you aim. Use it to plan your shots precisely, especially for complex ricochet moves.
-[JA TRANSLATION NEEDED] 2.  **Bank Shots are Key:** Bounce bubbles off the side walls to get to hard-to-reach places. Mastering bank shots is crucial for tackling more advanced board layouts.
-[JA TRANSLATION NEEDED] 3.  **Go for the Top:** Prioritize clearing bubbles that are holding up other bubbles. By severing the connection at a high point, you can cause a large cascade of bubbles to fall, earning massive points and clearing the board faster.
-[JA TRANSLATION NEEDED] 4.  **Plan Ahead:** Pay attention to the color of the next bubble in your launcher. This allows you to plan two moves ahead and set up more effective combos.
-[JA TRANSLATION NEEDED] 5.  **Don't Waste Shots:** In many versions, a certain number of missed shots (shots that don't create a match) will cause a new row of bubbles to appear at the top, increasing the difficulty. Make every shot count!
+*   **狙う：** マウスを動かして発射角度を調整します。
+*   **撃つ：** クリックするとバブルを発射します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-*   **Aim:** Move your mouse to aim the bubble launcher.
-    - **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.（日本語訳が必要）
-    - **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.（日本語訳が必要）
-    - **A:** Some versions of Bubble 撃つer allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
-    - **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.（日本語訳が必要）
-    - **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.（日本語訳が必要）
-    - **A:** Some versions of Bubble 撃つer allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
-*   **Shoot:** Click the left mouse button to fire a bubble.
+*   **Q: ゲームの目的は？**
+    *   **A:** 画面上のすべてのバブルを消してクリアすること、そして最高スコアを目指すことです。バブルが一番下のライン（発射台）まで到達してしまうとゲームオーバーです。
 
-### Frequently Asked Questions (FAQ)
+*   **Q: どうすれば高得点が取れますか？**
+    *   **A:** 一度に大量のバブルを落とすことです。根元を消して下の塊をごっそり落とす「大量落下」を狙いましょう。
 
-*   **Q: What is the objective of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.
-
-*   **Q: How do I get more points?**
-[JA TRANSLATION NEEDED]     *   **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
-
-*   **Q: Can I swap the bubble in my shooter?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
-- **Q: Can I swap the bubble in my shooter?**
-    - **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
-- **Q: How do I get more points?**
-    - **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.
-- **Q: What is the objective of the game?**
-### よくある質問（FAQ）
-- **Shoot:** Click the left mouse button to fire a bubble.
-- **Aim:** Move your mouse to aim the bubble launcher.
-### コントロールガイド
-
-
-
-
-
-
-    - **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
-- **Q: Can I swap the bubble in my shooter?**
-    - **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
-- **Q: How do I get more points?**
-    - **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.
-- **Q: What is the objective of the game?**
-
-    - **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
-[JA TRANSLATION NEEDED]     *   **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
-
+*   **Q: 手持ちのバブルの色を変えられますか？**
+    *   **A:** ゲームによっては発射台の横をクリックすることで「次のバブル」と交換できる機能がありますが、全てのバージョンにあるわけではありません。HD版では画面上のボタンを確認してください。

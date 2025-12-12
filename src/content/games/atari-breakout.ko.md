@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: atari-breakout
-title: '[KO] Atari Breakout'
+title: 'Atari Breakout 아타리 브레이크아웃'
 description: >-
-  [KO] Learn how to master the classic arcade game Atari Breakout. Discover
-  winning strategies, controls, and tips for smashing every brick and achieving
-  a high score.
+  고전 아케이드 게임 Atari Breakout 공략입니다. 패들을 조종해 공을 튕기며
+  벽돌을 모두 깨고, 터널 전략으로 고득점을 노려 보세요.
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/atari-breakout.jpg
@@ -16,54 +15,69 @@ score: 3.7/5  (602 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Atari Breakout은 비디오 게임 역사에서 빠질 수 없는 고전 아케이드 게임입니다.
+플레이어는 화면 아래쪽의 패들을 좌우로 움직여 공을 받아 치고, 화면 위쪽에
+배치된 벽돌을 하나씩 깨 나가야 합니다. 공이 벽돌에 부딪히면 벽돌이 사라지고
+공은 튕겨 나오며, 공을 놓쳐 아래로 떨어뜨리면 목숨을 한 개 잃게 됩니다.
+모든 벽돌을 제거하면 다음 레벨로 넘어가며, 진행할수록 공의 속도가 빨라져
+반응 속도가 점점 더 중요해집니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+겉보기에는 단순하지만, 점수를 극대화하고 효율적으로 레벨을 지우기 위한
+몇 가지 핵심 전략이 있습니다.
 
-Atari Breakout is a classic arcade game that has become a cornerstone of video game history. The gameplay is straightforward and instantly understandable. The player controls a single paddle at the bottom of the screen, which can only move horizontally. At the top of the screen are several rows of bricks. A ball bounces around the screen, and the player must move the paddle to intercept the ball, preventing it from falling off the bottom edge.
+#### 1. "터널(Tunneling)" 전략
 
-When the ball hits a brick, the brick is destroyed, and the ball ricochets off it. The objective is to destroy all the bricks on the screen to advance to the next level. As the game progresses, the speed of the ball often increases, demanding faster reflexes. If the player fails to hit the ball with the paddle and it goes past them, they lose a life. The game ends when all lives are lost.
+가장 유명하고 강력한 전략입니다. 화면 양쪽 끝(가장 왼쪽 또는 오른쪽)에
+세로로 길게 **터널**을 뚫어 공이 벽돌 층 위로 올라가게 만드는 것이 목표입니다.
+한 번 위로 올라간 공은 상단 벽과 벽돌 사이를 오가며 자동으로 여러 줄의
+벽돌을 깨 주기 때문에, 패들로 받쳐야 할 부담이 크게 줄어듭니다.
 
-### Gameplay Strategy & Walkthrough
+#### 2. 패들로 각도 조절 익히기
 
-While Breakout seems simple, there are key strategies to maximize your score and clear levels efficiently.
+공이 튕겨 나가는 각도는 랜덤이 아니라, **패들의 어느 부분에 맞았는지**에 따라
+결정됩니다.
 
-#### 1. The "Tunneling" Strategy
-This is the most famous and effective strategy. The goal is to break a vertical tunnel through the bricks on one side of the screen (either far left or far right). Once you've created a path for the ball to get *above* the brick layer, you can send it up into the gap. The ball will then bounce back and forth between the top wall and the top layer of bricks, destroying many bricks automatically without any risk of you missing the paddle. This is the fastest way to clear a screen.
+*   **중앙에 맞힐 때:** 공이 비교적 수평에 가까운 완만한 각도로 되돌아갑니다.
+*   **패들 가장자리 부분에 맞힐 때:** 더 날카로운, 측면으로 치우친 각도로 튕겨 나갑니다.
 
-#### 2. Master the Paddle for Angle Control
-The ball's rebound angle is not random; it depends on *where* it strikes your paddle.
-*   **[KO]** **Hitting with the Center:** If the ball hits the center of your paddle, it will bounce back at a relatively straight, shallow angle.
-*   **[KO]** **Hitting with the Edges:** If the ball hits the outer edges of your paddle, it will bounce back at a much sharper, more extreme angle.
-Mastering this allows you to aim the ball precisely, which is essential for creating the tunnel mentioned above.
+이 특성을 이용하면 원하는 방향으로 공을 보내 터널을 만들거나, 상단의
+고득점 벽돌을 노릴 수 있습니다.
 
-#### 3. Prioritize Higher Bricks
-In the classic version, the bricks in the higher rows are worth more points. While clearing the screen is the primary objective, if you are playing for a high score, try to create your tunnel early to let the ball destroy the high-value bricks at the top.
+#### 3. 위쪽 벽돌을 우선 노리기
 
-#### 4. Anticipate, Don't React
-As the ball speeds up, you won't have time to react to its current position. You must anticipate its trajectory. Watch the angle it's coming from and move your paddle to where the ball *is going to be*.
+고전 버전에서는 보통 위쪽 줄의 벽돌일수록 점수가 더 높습니다. 레벨을 빨리
+지우는 것도 중요하지만, 점수를 노리는 플레이라면 초반에 터널을 만들어
+공이 위쪽에서 오래 머물도록 하는 것이 좋습니다.
 
-### Controls Guide
+#### 4. "보고 따라가기"가 아니라 "미리 예측하기"
 
-The controls for Breakout are famously simple.
+공의 속도가 빨라지면 현재 위치를 보고 따라가는 것만으로는 늦습니다. 공이
+어느 각도에서 내려오고 있는지 보고, 곧 도착할 위치를 미리 예측해 패들을
+옮겨 두는 습관을 들이세요.
 
-*   **[KO]** **Movement:**
-    *   **[KO]** **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.
-    *   **[KO]** **PC / Web Versions:** Typically, you move the paddle by moving your **mouse left and right**. Alternatively, the **Left and Right Arrow Keys** (`←` and `→`) are often supported.
-*   **[KO]** **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the **Spacebar** or a **left mouse click**) will launch it.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+조작은 매우 단순합니다.
 
-*   **[KO]** **Q: How can I control the ball's direction?**
-    *   **[KO]** **A:** By controlling where the ball hits your paddle. Hit it with the center for a straight shot and with the edges for a sharp-angled shot towards the sides.
+*   **이동:**
+    - PC/웹 버전에서는 마우스를 좌우로 움직여 패들을 이동하는 방식이 일반적입니다.
+    - 또는 좌우 방향키(`←`, `→`)로 패들을 움직일 수 있는 버전도 있습니다.
+*   **공 발사:** 목숨을 잃은 직후나 게임 시작 시에는 공이 패들 위에 붙어 있습니다. 이때 **스페이스바** 또는 **마우스 클릭**을 눌러 공을 발사합니다.
 
-*   **[KO]** **Q: What is the fastest way to clear a level?**
-    *   **[KO]** **A:** The "tunneling" strategy. Break a path through one of the sides so the ball gets trapped above the bricks, clearing them out for you automatically.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: Do the different colored bricks mean anything?**
-    *   **[KO]** **A:** Yes. In the original game, the color indicates the point value. From bottom to top, the points per brick typically increase (e.g., yellow bricks at the bottom are worth fewer points than the red bricks at the top).
+*   **Q: 공의 방향을 어떻게 컨트롤하나요?**
+    - **A:** 공이 패들의 어느 위치를 맞았는지가 중요합니다. 중앙에 맞히면 직선에 가깝게, 가장자리에 맞히면 더 큰 각도로 튕겨 나갑니다. 이를 이용해 원하는 쪽으로 공을 보내세요.
 
-*   **[KO]** **Q: Where can I play Atari Breakout today?**
-    *   **[KO]** **A:** You can easily find and play web-based versions of Breakout on numerous classic game websites and archives. Additionally, typing "Atari Breakout" into Google Image Search used to activate a playable Easter egg version of the game, though this feature may vary.
+*   **Q: 레벨을 가장 빨리 지우는 방법은?**
+    - **A:** 한쪽 끝에 터널을 뚫어 공이 벽돌 위로 올라가게 만드는 것입니다. 위에서 공이 자동으로 벽돌을 깨 주기 때문에, 패들로 받는 부담이 크게 줄어듭니다.
 
+*   **Q: 벽돌 색깔이 다른데 의미가 있나요?**
+    - **A:** 고전 아타리 버전에서는 색깔에 따라 점수가 다릅니다. 일반적으로 아래쪽 줄이 낮은 점수, 위쪽 줄이 높은 점수를 줍니다.
+
+*   **Q: 지금도 Atari Breakout을 어디에서 할 수 있나요?**
+    - **A:** 여러 고전 게임 사이트와 웹 아카이브에서 브라우저용 Breakout 버전을 쉽게 찾을 수 있습니다. 일부 사이트에서는 에뮬레이터 형태로 원작에 가까운 경험을 제공합니다.

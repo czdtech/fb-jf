@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: kitty-match
-title: '[ZH TRANSLATION NEEDED] Kitty Match'
-description: >-
-  [ZH TRANSLATION NEEDED] Welcome to Kitty Match, a purr-fectly delightful
-  match-3 puzzle game! Swap colorful cat-themed items to make matches and
-  complete challenging levels.
+title: "《Kitty Match》喵喵消消乐"
+description: "欢迎来到《Kitty Match》，这是一款专为铲屎官和三消爱好者打造的可爱拼图游戏：交换各种猫咪主题小物件，连成三消以上完成关卡挑战。"
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/kitty-match.png
 tags:
@@ -17,28 +14,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Kitty Match is a charming and addictive match-3 puzzle game filled with cute cats and colorful challenges. The goal is to swap adjacent tiles to create lines of three or more identical items. Each level has a unique objective, such as collecting a certain number of specific items or clearing special blocks. By completing levels, you can earn rewards and progress through a delightful, cat-filled world. It's a relaxing game for all ages, perfect for puzzle and cat lovers alike.
+《Kitty Match》是一款充满猫咪元素的三消解谜游戏，棋盘上摆满了猫爪印、猫罐头、小鱼干等可爱图标。你需要通过交换相邻的图块，让三枚及以上相同图案排成一行或一列并完成消除。每一关都有独立目标，例如收集某种颜色的道具、打碎果冻方块，或者把特定物品送到底部。随着通关，你还能获得奖励，解锁更多喵星人主题关卡与小惊喜。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Look for Big Matches:** While matching three items is good, matching four or five items is even better! These larger matches create special power-up tiles that can clear entire rows, columns, or explode to clear a whole area.
-2.  [ZH TRANSLATION NEEDED] **Plan Your Moves:** You only have a limited number of moves in each level. Before making a swap, look at the whole board and try to plan a few moves ahead. Prioritize matches that will help you achieve the level's goal.
-3.  [ZH TRANSLATION NEEDED] **Combine Power-ups:** The real magic happens when you combine two special power-up tiles. Swapping a bomb with a rocket, for example, can create a massive board-clearing effect. Experiment with different combinations.
-4.  [ZH TRANSLATION NEEDED] **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade of new tiles to fall, often creating new matches automatically. This is a great way to clear the board efficiently.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **优先寻找“大消除”机会**：三连消固然重要，但 4 连或 5 连会生成强力道具，比如清一整行/列的火箭、炸掉大片区域的炸弹等，能极大提升清场效率。  
+2.  **在步数限制下规划每一步**：每关可用步数有限，下子前先观察整盘棋，优先选择既能接近目标、又可能为下一步铺垫连锁的交换。  
+3.  **善用道具组合技**：当两个特殊道具相邻时，可以将它们互换触发更强效果，例如炸弹 + 火箭可清除大范围十字区域，多尝试不同组合找到最适合自己风格的打法。  
+4.  **从棋盘底部开始消**：在底部制造消除可以让更多新图块从上方落下，往往能触发额外连锁，省下宝贵的步数。  
 
-*   **Swap Tiles:** Use your mouse to click and drag an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **交换图块**：用鼠标点击并拖动一枚图块，与相邻图块互换位置；只有在交换后形成三消或以上时，这一步才会被接受。  
 
-*   **Q: What is the goal of each level?**
-     *   **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.
+### 常见问题（FAQ）
 
-*   **Q: What happens if I run out of moves?**
-     *   **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
+*   **Q: 每一关的目标是什么？**  
+    *   **A:** 关卡开始前会显示此关的具体目标，可能是收集指定数量的某种颜色/图标、打掉所有果冻格，或把特别道具送到底部等。  
 
-*   **Q: How do I create a bomb?**
-     *   **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
+*   **Q: 步数用完还没完成目标会怎样？**  
+    *   **A:** 若在步数耗尽前未达成目标，本局就会失败并扣除一条生命，你需要重新尝试该关卡。  
 
+*   **Q: 如何生成炸弹道具？**  
+    *   **A:** 通常通过将 5 个相同图案拼成 “L” 或 “T” 形即可生成炸弹，它会在激活时炸掉周围一大片图块。

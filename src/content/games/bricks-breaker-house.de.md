@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: bricks-breaker-house
-title: '[DE] Bricks Breaker House'
+title: "Bricks Breaker House"
 description: >-
-  [DE] Bricks Breaker House adds cozy themes to brick‑breaking — craft angles,
-  juggle power‑ups, and keep the house standing.
+  Bricks Breaker House verbindet klassisches Brick-Breaker-Gameplay mit
+  gemütlichen Hauskulissen – platziere deine Schläge präzise, nutze Power-ups
+  geschickt und sorge dafür, dass dein Haus nicht einstürzt.
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/bricks-breaker-house.png
 tags:
@@ -15,37 +16,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Bricks Breaker House* ist ein liebevoll gestalteter Brick-Breaker, bei dem
+jedes Level neue Hindernisse und kleine Gameplay-Twists ins Wohnzimmer bringt.
+Deine Aufgabe bleibt aber klassisch: Lass den Ball so lange wie möglich im
+Spiel, pralle durch wertvolle Blöcke und sammle Power-ups, ohne die Kontrolle
+über den Schläger zu verlieren.
 
+Mit jedem Treffer verschwindet ein Teil der Wand, während sich neue
+Konstellationen ergeben. Je besser du Winkel, Tempo und Power-ups kombinierst,
+ desto entspannter kannst du selbst schwierige Wellen meistern.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Bricks Breaker House is a themed brick‑breaker where each board introduces fresh obstacles and gentle twists. Your job is classic: keep volleys alive, route shots through high‑value tiles, and leverage power‑ups without losing control.
+1.  Kontrollierte Winkel wählen: Schieße den Ball in etwa 30–45 Grad, um
+    vorhersehbare Schleifen zu erzeugen und nicht ständig auf Zufall angewiesen
+    zu sein.
+2.  Schläger-Erweiterungen bevorzugen: Power-ups wie breiter Schläger oder
+    Multi-Ball geben dir mehr Sicherheit und verzeihen kleine Fehler.
+3.  Seitenkanäle freilegen: Öffne schmale Gassen an den Rändern des Spielfelds,
+    damit der Ball oben unter der Decke gefangen bleibt und dort viel Schaden
+    anrichtet.
+4.  Boni nicht um jeden Preis jagen: Laufe nicht jedem fallenden Power-up nach,
+    wenn du dafür riskierst, den Ball zu verpassen. Ein verlorener Ball wiegt
+    schwerer als ein verpasstes Upgrade.
+5.  Enge Bretter auflockern: In sehr dichten Leveln solltest du zuerst Blöcke
+    entfernen, die dir neue Winkel und Flugbahnen eröffnen.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Aim for controlled caroms around 30–45° to keep predictable loops.
-2.  **[DE]** Use widen‑paddle and multi‑ball to stabilize difficult waves.
-3.  **[DE]** Carve side alleys to trap the ball near the ceiling for extended damage.
-4.  **[DE]** Don’t over‑pursue bonuses if they jeopardize a catch.
-5.  **[DE]** On tight boards, prioritize clearing bricks that open new angles.
+- Bewege den Schläger mit den Tasten A/D oder den Pfeiltasten Links/Rechts;
+  alternativ kannst du Maus oder Touch-Steuerung verwenden.
+- Starte den Ball mit der Leertaste oder einem Klick/Tap.
+- Fange Power-ups mit dem Schläger, um ihre Effekte zu aktivieren.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Move paddle with A/D or Left/Right; mouse/touch controls supported.
-- Serve with Space/Click; catch power‑ups on the paddle.
+- F: Welche Upgrades sind am wichtigsten?
+  
+  A: Ein breiterer Schläger und Multi-Ball sind meist am sichersten, weil sie
+  dir mehr Kontrolle und Fehlerfreiheit geben. Geschwindigkeits-Boosts sind
+  stärker, aber auch deutlich riskanter.
 
-### Frequently Asked Questions (FAQ)
+- F: Wie komme ich mit sehr engen Tunneln zurecht?
+  
+  A: Serviere mit einem moderaten Winkel und bereite dich auf schnelle,
+  rhythmische Fänge vor. Versuche, den Ball im Tunnel gefangen zu halten, statt
+  ihn sofort wieder nach unten zu schicken.
 
-- Q: Which upgrades should I prioritize?
-
-A: Widen‑paddle and multi‑ball are the safest; speed boosts are riskier.
-
-- Q: How do I deal with narrow tunnels?
-
-A: Serve a modest angle and prepare for rapid rhythmic catches.
-
-- Q: Is there a best serve angle?
-
-A: Mid angles (30–45°) usually provide the best balance of control and coverage.
-
+- F: Gibt es einen "besten" Startwinkel?
+  
+  A: Mittlere Winkel zwischen 30 und 45 Grad bieten meist den besten Kompromiss
+  aus Kontrolle und Flächenabdeckung.

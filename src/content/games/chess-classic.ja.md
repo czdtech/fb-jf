@@ -1,82 +1,41 @@
 ---
+title: "Chess Classic チェス・クラシック"
+description: "「Chess Classic」で王道のチェスを楽しもう。コンピュータの難易度を調整して、初心者から上級者までスキルアップ。チェックメイトの芸術を学べ。"
+iframeSrc: "https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/"
+thumbnail: "/new-images/chess-classic.png"
+urlstr: "chess-classic"
+score: "4.8/5  (2345 votes)"
+tags: ["thinky", "2 player", "card"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: chess-classic
-title: '[JA TRANSLATION NEEDED] Chess Classic'
-description: >-
-  [JA TRANSLATION NEEDED] Enjoy the classic game of chess with Chess Classic.
-  Play against the computer at different difficulty levels and improve your
-  skills.
-iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
-thumbnail: /new-images/chess-classic.png
-tags:
-  - thinky
-  - 2 player
-  - card
-score: 4.8/5  (2345 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Chess Classic（チェス・クラシック）*は、時代を超えて愛される戦略ボードゲーム、チェスをブラウザで手軽に体験できるゲームです。初心者の方でも、熟練のプレイヤーでも、難易度調整可能なコンピュータ（AI）を相手に腕試しができます。国際的な標準ルールに準拠しており、基本を学び、練習し、チェックメイトの技を磨くのに最適なプラットフォームです。
 
-[JA TRANSLATION NEEDED] Chess Classic offers the timeless strategy board game experience directly in your browser. Whether you are a beginner or a seasoned player, you can test your skills against a computer opponent with adjustable difficulty levels. The game follows the standard international rules of chess, providing a perfect platform to learn, practice, and master the art of the checkmate.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **中央を制圧する:** 序盤（オープニング）では、ポーンや駒を使って盤面の中央4マス（e4, d4, e5, d5）の支配権を争いましょう。中央に配置された駒は動きやすく、ゲーム全体への影響力が強くなります。
+2.  **駒を展開する（デベロップメント）:** ゲーム序盤は、後ろに控えているナイトやビショップを早めに前へ出しましょう。目安として「毎ターン新しい駒を良い位置に動かす」ことを意識してください。序盤に同じ駒を何度も動かすのは悪手とされています。
+3.  **キングの安全確保:** 最も重要な原則の一つです。早めに「キャスリング」を行って、キングをポーンの壁の後ろに安全に囲いましょう。同時にルークを中央の戦いに参加させることができます。
+4.  **動かす前に考える:** 一手指す前に、必ず相手の狙いを確認しましょう。「相手の最後の手は何を狙っているのか？」「次は何をしてくるか？」と自問自答する癖をつけましょう。
+5.  **駒の価値を知る:** 各駒の相対的な価値（ポーン=1点、ナイト=3点、ビショップ=3点、ルーク=5点、クイーン=9点）を理解しましょう。これを知ることで、損な交換（トレード）を避け、有利な取引ができるようになります。
 
-[JA TRANSLATION NEEDED] 1.  **Control the Center:** In the opening, use your pawns and pieces to exert control over the central squares (e4, d4, e5, d5). Pieces in the center have more mobility and influence over the game.
-[JA TRANSLATION NEEDED] 2.  **Develop Your Pieces:** Move your knights and bishops off the back rank early in the game. A good rule of thumb is to move a piece to a better square in each of the first few moves. Try not to move the same piece twice in the opening.
-[JA TRANSLATION NEEDED] 3.  **King Safety:** One of the most important principles. Castle your king to safety early on. This move tucks your king away behind a wall of pawns and develops one of your rooks.
-[JA TRANSLATION NEEDED] 4.  **Think Before You Move:** Always check for your opponent's threats before making a move. Ask yourself what your opponent's last move accomplished and what they might do next.
-[JA TRANSLATION NEEDED] 5.  **Know Piece Values:** Understand the relative value of the pieces (Pawn=1, Knight=3, Bishop=3, Rook=5, Queen=9). This will help you make good trades and avoid blunders.
+### 操作ガイド
 
-### Controls Guide
+*   **駒の選択:** 動かしたい駒をクリックすると、移動可能なマスがハイライトされます。
+*   **移動:** ハイライトされたマスのいずれかをクリックして、駒を移動させます。
+*   **オプション:** ゲーム内メニューから難易度の変更、一手戻る（アンドゥ）、リセットなどが可能です。
 
-*   **Piece Selection:** Click on a piece to select it. Possible moves will be highlighted on the board.
-    - **A:** The ultimate goal is to checkmate your opponent's king. This means the king is in a position to be captured (in "check") and cannot escape capture.（日本語訳が必要）
-    - **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.（日本語訳が必要）
-    - **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.（日本語訳が必要）
-    - **A:** The ultimate goal is to checkmate your opponent's king. This means the king is in a position to be captured (in "check") and cannot escape capture.（日本語訳が必要）
-    - **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.（日本語訳が必要）
-    - **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.（日本語訳が必要）
-*   **Move Piece:** Click on one of the highlighted squares to move your selected piece to that location.
-*   **Game Options:** Use the in-game menu to select the difficulty level, undo a move, or start a new game.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: チェスの目的は何ですか？**
+    *   **A:** 最終目標は、相手のキングを「チェックメイト」することです。これはキングが攻撃されており（チェック）、かつ次の手でどこに逃げても捕まってしまう状態を指します。
 
-*   **Q: What is the goal of chess?**
-[JA TRANSLATION NEEDED]     *   **A:** The ultimate goal is to checkmate your opponent's king. This means the king is in a position to be captured (in "check") and cannot escape capture.
+*   **Q: キャスリングとは？**
+    *   **A:** キングとルークを同時に動かせる特殊な一手です。キングをルークの方向に2マス動かし、ルークを飛び越えて反対側に置きます。キングを守りつつルークを活用できる非常に強力な手です。キングとルークが一度も動いておらず、間に駒がない場合にのみ行えます。
 
-*   **Q: What is castling?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.
-
-*   **Q: What happens if no one can win?**
-
-
-
-
-
-
-
-
-
-    - **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.
-- **Q: What happens if no one can win?**
-    - **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.
-- **Q: What is castling?**
-    - **A:** The ultimate goal is to checkmate your opponent's king. This means the king is in a position to be captured (in "check") and cannot escape capture.
-- **Q: What is the goal of chess?**
-### よくある質問（FAQ）
-- **Game Options:** Use the in-game menu to select the difficulty level, undo a move, or start a new game.
-
-    - **A:** The ultimate goal is to checkmate your opponent's king. This means the king is in a position to be captured (in "check") and cannot escape capture.
-- **Move Piece:** Click on one of the highlighted squares to move your selected piece to that location.
-
-
-
-    - **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.
-- **Q: What happens if no one can win?**
-    - **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.
-[JA TRANSLATION NEEDED]     *   **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.
-
+*   **Q: 勝負がつかない場合はどうなりますか？**
+    *   **A:** 何通りかの引き分け（ドロー）があります。「ステイルメイト」（チェックされていないが動ける手がない）、「合意による引き分け」、「千日手」（同じ局面が3回現れる）などが一般的です。

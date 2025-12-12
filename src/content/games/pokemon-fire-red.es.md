@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: pokemon-fire-red
-title: '[ES] Pokemon Fire Red'
+title: "Pokémon Rojo Fuego"
 description: >-
-  [ES] Pokemon Fire Red is a faithful remake of the original Pokémon Red game,
-  where players journey through the Kanto region to catch and train Pokémon,
-  battle Gym Leaders, and thwart the plans of Team Rocket to become the Pokémon
-  League Champion.
-iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
-thumbnail: /new-images/pokemon-fire-red.jpg
+  Pokémon Rojo Fuego es un remake fiel del clásico Pokémon Rojo en el que
+  recorres la región de Kanto, capturas y entrenas Pokémon, desafías a los
+  Líderes de Gimnasio y frenas los planes del Team Rocket para convertirte en
+  Campeón de la Liga Pokémon.
+iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred"
+thumbnail: "/new-images/pokemon-fire-red.jpg"
 tags:
   - rpg
   - adventure
@@ -18,36 +18,56 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Pokémon Rojo Fuego" es un remake fiel del juego original "Pokémon Rojo". Te
+embarcas en una aventura por la región de Kanto, capturando y entrenando
+Pokémon, desafiando a los Líderes de Gimnasio y frustrando los planes del Team
+Rocket, con el objetivo final de convertirte en Campeón de la Liga Pokémon. El
+juego mantiene la historia y la jugabilidad clásica del original, pero con
+mejoras visuales y de calidad de vida propias de la era de Game Boy Advance.
 
+### Estrategias de juego
 
-### Game Introduction
+1.  **Elige tu Pokémon inicial:** Al comienzo de la aventura podrás escoger uno
+    de los tres iniciales: **Bulbasaur**, **Charmander** o **Squirtle**. Cada uno
+    ofrece una experiencia distinta según sus tipos y las primeras rutas.
+2.  **Captura nuevos Pokémon:** Encuentra Pokémon salvajes en la hierba alta y
+    otras zonas. Debilítalos en combate y usa Poké Balls para atraparlos y así
+    ampliar y equilibrar tu equipo.
+3.  **Entrena y evoluciona:** Gana experiencia en los combates para subir de
+    nivel a tus Pokémon. Utiliza Piedras Evolutivas o cumple condiciones
+    específicas para hacerlos evolucionar y aumentar su poder.
+4.  **Desafía los Gimnasios:** Derrota a los ocho Líderes de Gimnasio y reúne
+    todas las medallas, requisito imprescindible para acceder a la Liga Pokémon.
+5.  **Enfréntate al Team Rocket:** A lo largo de la historia te cruzarás una y
+    otra vez con el Team Rocket. Derrota a sus miembros y detén sus planes
+    criminales.
 
-"Pokemon Fire Red" is a faithful remake of the original "Pokémon Red" game. Players embark on an adventure through the Kanto region, catching and training Pokémon, battling Gym Leaders, and thwarting the plans of Team Rocket with the ultimate goal of becoming the Pokémon League Champion. The game retains the classic storyline and gameplay of the original, with visual and functional enhancements from the GBA era.
+### Cómo jugar
 
-### Gameplay Strategy
+*   **Movimiento:** Usa las teclas de **dirección** para mover al personaje.
+*   **Botón A (confirmar/hablar):** Habla con los NPC, selecciona opciones de
+    los menús y confirma tus órdenes en combate.
+*   **Botón B (cancelar/correr):** Cancela selecciones en los menús. En algunas
+    zonas, si tienes las zapatillas de correr, mantén pulsado B para correr.
+*   **Botón Start (abrir menú):** Abre el menú principal para ver tus Pokémon,
+    revisar objetos, guardar la partida, etc.
+*   **Botón Select (objeto registrado):** Registra un objeto del bolso para
+    acceder a él rápidamente sin tener que navegar por todos los menús.
 
-1.  **[ES]** **Choose Your Starter Pokémon**: At the beginning of the game, select one of three Pokémon—Bulbasaur, Charmander, or Squirtle—as your partner.
-2.  **[ES]** **Catch New Pokémon**: Encounter wild Pokémon in tall grass and other areas, weaken them, and use Poké Balls to catch them, expanding your team.
-3.  **[ES]** **Train and Evolve**: Gain experience through battles to level up your Pokémon, and use Evolution Stones or specific conditions to evolve them, enhancing their strength.
-4.  **[ES]** **Challenge Gyms**: Defeat the eight Gym Leaders and collect all badges, which are necessary to enter the Pokémon League.
-5.  **[ES]** **Confront Team Rocket**: Throughout your adventure, you will repeatedly encounter Team Rocket; thwart their evil schemes.
+### Preguntas frecuentes
 
-### How to Play
-
-*   **[ES]** **Movement**: Use the arrow keys to control character movement.
-*   **[ES]** **A Button (Confirm/Talk)**: Talk to NPCs, select menu options, confirm battle commands.
-*   **[ES]** **B Button (Cancel/Run)**: Cancel menu selections, hold the B button in some areas to run (requires running shoes).
-*   **[ES]** **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save the game, etc.
-*   **[ES]** **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: What are the starter Pokémon in "Pokemon Fire Red"?**
-**A**: The starter Pokémon are Bulbasaur (Grass type), Charmander (Fire type), and Squirtle (Water type).
-2.  **[ES]** **Q: How do I trade Pokémon in the game?**
-**A**: Trading requires connecting with another player through the in-game communication feature, usually done at a Pokémon Center.
-3.  **[ES]** **Q: Which Legendary Pokémon can be caught in the game?**
-**A**: In the Kanto region, players can catch Legendary Pokémon such as Moltres, Zapdos, Articuno, and Mewtwo.
-4.  **[ES]** **Q: What are the differences between "Fire Red" and "Leaf Green"?**
-**A**: "Fire Red" and "Leaf Green" are two versions of the same generation of games, with the main differences being the types and encounter rates of some wild Pokémon, as well as dialogue for some NPCs.
+1.  **P: ¿Cuáles son los Pokémon iniciales en "Pokémon Rojo Fuego"?**
+    **R:** Los iniciales son **Bulbasaur** (tipo Planta), **Charmander** (tipo
+    Fuego) y **Squirtle** (tipo Agua).
+2.  **P: ¿Cómo intercambio Pokémon en el juego?**
+    **R:** Los intercambios requieren conectarse con otra persona mediante las
+    funciones de comunicación del juego, normalmente en los Centros Pokémon.
+3.  **P: ¿Qué Pokémon legendarios se pueden capturar?**
+    **R:** En la región de Kanto puedes capturar legendarios como **Moltres**,
+    **Zapdos**, **Articuno** y **Mewtwo**.
+4.  **P: ¿En qué se diferencian "Rojo Fuego" y "Verde Hoja"?**
+    **R:** Son dos versiones de la misma generación. Las diferencias principales
+    están en qué Pokémon salvajes aparecen y con qué frecuencia, además de
+    algunos cambios menores en diálogos y eventos.

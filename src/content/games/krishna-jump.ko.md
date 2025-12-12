@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: krishna-jump
-title: '[KO] Krishna Jump'
+title: "Krishna Jump 크리슈나 점프 러너"
 description: >-
-  [KO] Krishna Jump is a rhythmic vertical runner — chain precise jumps, dodge
-  hazards, and collect idols across colorful stages.
+  한 버튼으로 즐기는 수직 러너 'Krishna Jump' 가이드입니다.
+  점프 타이밍을 맞춰 발판을 오르고, 장애물을 피하며
+  아이템을 모아 높은 기록에 도전해 보세요.
 iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
 thumbnail: /new-images/krishna-jump.png
 tags:
@@ -16,34 +17,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Krishna Jump*는 한 번의 탭으로 점프를 조작하는 **수직 러너 게임**입니다.
+플랫폼 사이를 정확한 타이밍에 점프해 올라가면서 가시와 움직이는
+적을 피하고, 곳곳에 배치된 아이템을 먹어 보너스를 얻을 수 있습니다.
 
-Krishna Jump is a one‑button vertical runner. Time jumps to leap between platforms, avoid spikes and moving enemies, and snag collectibles for bonuses. Later levels add disappearing tiles and shifting speeds that demand steady rhythm and quick reads.
+후반으로 갈수록 사라지는 발판·속도 변화 등이 추가되어, 일정한
+리듬과 빠른 상황 판단이 중요해집니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Count beats: Tap on a steady cadence to normalize jump timing.
-2.  **[KO]** Aim centers: Land mid‑platform to allow corrections.
-3.  **[KO]** Read ahead: Watch 2–3 platforms up to plan safe arcs.
-4.  **[KO]** Skip greed: Abandon risky side coins when alignment is poor.
-5.  **[KO]** Recover cadence: After a miss, take a breath and re‑establish rhythm.
+1. **리듬부터 잡기**  
+   일정한 박자에 맞춰 탭하면 점프 타이밍을 몸에 익히기 쉽습니다.
 
-### Controls Guide
+2. **플랫폼 중앙을 노리기**  
+   발판의 가운데에 착지하면 다음 점프를 조정할 여유가 생깁니다.
 
-- Tap/Click to jump; hold may increase height depending on build; pause via UI.
+3. **위쪽을 미리 보기**  
+   항상 2~3개 위 플랫폼까지 시야에 두고, 다음 점프 궤적을
+   미리 계획하세요.
 
-### Frequently Asked Questions (FAQ)
+4. **위험한 코인은 과감히 포기**  
+   정렬이 좋지 않거나, 옆으로 크게 벗어나야 하는 코인은
+   생존을 위해 포기하는 편이 낫습니다.
 
-- Q: I overshoot platforms — fix?
+5. **실수 후 리셋**  
+   타이밍이 어긋났다고 느껴지면 잠깐 멈춰 호흡을 고르고,
+   다시 일정한 리듬을 되찾는 것이 중요합니다.
 
-A: Short‑tap and target center landings; avoid full‑hold unless needed.
+### 조작 가이드
 
-- Q: Are double jumps available?
+- **점프**: 화면 탭/클릭으로 점프합니다. 빌드에 따라
+  길게 누르면 더 높이 점프할 수도 있습니다.  
+- **일시정지**: UI 버튼으로 게임을 멈추고 재개할 수 있습니다.
 
-A: Some stages grant temporary double jump; watch HUD prompts.
+### 자주 묻는 질문(FAQ)
 
-- Q: Endless or level‑based?
+- **Q: 플랫폼을 자꾸 넘어가 버립니다.**  
+  **A:** 점프 시간을 짧게 눌러 낮은 점프를 사용하고,
+  플랫폼 중앙을 노려 착지해 보세요.
 
-A: Modes vary; many campaigns use short, hand‑crafted levels.
+- **Q: 더블 점프가 있나요?**  
+  **A:** 일부 스테이지에서는 HUD에 표시되는 한시적
+  더블 점프 능력이 주어질 수 있습니다.
+
+- **Q: 엔드리스 모드인가요, 스테이지 클리어형인가요?**  
+  **A:** 모드에 따라 다르지만, 많은 캠페인은 짧게 설계된
+  스테이지를 하나씩 클리어하는 형식입니다.
 

@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: sprunkr-but-sprunki
-title: '[KO] Sprunkr But Sprunki - Play Sprunkr But Sprunki Online'
+title: 'Sprunkr But Sprunki 스프렁커 버트 스프룽키'
 description: >-
-  [KO] Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod,
-  replacing the existing characters with beloved Sprunki figures. You can not
-  only experience the classic gameplay of Sprunkr, but also immerse yourself in
-  the visual and auditory feast of Sprunki style.
+  Sprunkr But Sprunki는 Sprunkr의 게임 플레이에 스프룽키 스타일의 캐릭터와 사운드를
+  입힌 크로스오버 모드입니다. Sprunkr의 규칙은 그대로 즐기면서, 스프룽키 특유의
+  비주얼과 루프 사운드를 함께 감상할 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
 thumbnail: /sprunkr-but-sprunki.png
 tags:
@@ -16,28 +15,47 @@ score: 4.5/5  (541 votes)
 
 
 
-Are you fond of Sprunkr's unique gameplay, and also have a soft spot for Sprunki's cute characters? Then Sprunkr But Sprunki Mod will definitely satisfy all your fantasies! This creative Mod cleverly combines Sprunkr's game mechanics with Sprunki's inspired designs, bringing a refreshing experience to fans of both universes.
+Sprunkr의 독특한 진행을 좋아하면서도, 스프룽키 캐릭터에 애정이 있다면
+Sprunkr But Sprunki 모드가 딱 어울립니다. 이 모드는 Sprunkr의 규칙과 구조 위에
+스프룽키에서 온 캐릭터 디자인과 사운드를 덧입혀, 두 세계관 팬 모두에게
+새로운 경험을 제공합니다.
 
-### What is Sprunkr But Sprunki Mod?
+### Sprunkr But Sprunki Mod란?
 
-Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod, replacing the existing characters with beloved Sprunki figures. You can not only experience the classic gameplay of Sprunkr, but also immerse yourself in the visual and auditory feast of Sprunki style.
+Sprunkr But Sprunki는 원래 Sprunkr 모드에 등장하던 캐릭터를, 스프룽키에서
+익숙한 캐릭터들로 교체한 크리에이티브 모드입니다. 플레이 방식은 그대로이지만,
+시각과 청각은 완전히 스프룽키 스타일로 변해, 친숙하면서도 신선한 느낌을
+줍니다.
 
-### Sprunkr But Sprunki Mod Game Features:
+### Sprunkr But Sprunki Mod의 주요 특징
 
-- **Sprunki Characters:** The original Sprunkr characters are replaced with redesigned Sprunki characters, each bringing their unique sound loops and animations.
-- **Dynamic Soundscapes:** Offers rhythmic beats and melodies with a distinct Sprunki flair, giving a fresh auditory experience.
-- **Bright Visuals:** Sprunki-themed designs and animations enhance the overall aesthetic.
-- **Engaging Gameplay:** Combines the best of Sprunkr’s mechanics with the creativity of Sprunki characters.
+- **스프룽키 캐릭터들:**
+  기존 Sprunkr 캐릭터 대신, 새로 디자인된 스프룽키 캐릭터가 등장합니다.
+  각 캐릭터는 고유한 루프 사운드와 애니메이션을 지니고 있습니다.
+- **다이내믹 사운드스케이프:**
+  스프룽키 특유의 리듬과 멜로디를 살린 루프들이 더해져, 기존 Sprunkr와는 다른
+  청각적 경험을 제공합니다.
+- **밝은 비주얼:**
+  스프룽키 테마의 색감과 연출로 화면 전체가 보다 경쾌한 분위기로 바뀝니다.
+- **익숙한 조작, 새로운 맛:**
+  Sprunkr의 메커니즘은 유지하면서도, 캐릭터와 사운드 덕분에 전혀 다른 모드처럼
+  느껴집니다.
 
+### Sprunkr But Sprunki Mod 플레이 방법
 
-### How to Play Sprunkr But Sprunki Mod:
+- **캐릭터 선택:**
+  스프룽키 테마로 재구성된 캐릭터 목록에서 원하는 캐릭터를 골라 무대에 올립니다.
+- **드래그 앤 드롭:**
+  캐릭터를 드래그해 배치하고, 각자의 비트·멜로디·이펙트를 조합해 하나의 트랙을
+  완성합니다.
+- **실험과 조정:**
+  마음에 들지 않는 루프는 빼고, 새로운 캐릭터를 올리며 여러 조합을 시도해 보세요.
+- **저장·공유:**
+  완성된 트랙은 저장해 두거나, 스프룽키 커뮤니티와 공유해 다른 유저와
+  창작물을 나눌 수 있습니다.
 
-- **Select Characters:** Choose from the Sprunki-themed roster, each offering unique sounds and animations.
-- **Drag and Drop:** Arrange characters on the stage to layer beats, melodies, and effects into cohesive compositions.
-- **Experiment and Refine:** Mix loops creatively and explore new combinations with the Sprunki characters.
-- **Save and Share:** Save your tracks and share them with the Sprunki community to showcase your creations.
+### 마무리
 
-
-### Conclusion:
-
-Sprunkr But Sprunki Mod is a delightful crossover that adds a refreshing twist to the original gameplay. Dive into this mod and experience the best of both worlds! Whether you want to immerse yourself in the vibrant visuals of Sprunkr But Sprunki Mod or immerse yourself in its dynamic soundscapes, you will find endless happiness and satisfaction here!
+Sprunkr But Sprunki Mod는 원작 Sprunkr에 스프룽키식 디자인과 사운드를 더해,
+양쪽 세계관의 팬 모두에게 색다른 재미를 선사하는 크로스오버 모드입니다.
+두 작품의 장점을 한 번에 느끼고 싶다면, 이 모드에서 직접 믹스를 만들어 보세요.

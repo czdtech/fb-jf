@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: stud-rider
-title: '[DE] Stud Rider'
-description: >-
-  [DE] Stud Rider is a moto hill‑runner — manage momentum, land flat, and link
-  jumps smoothly across rugged tracks.
+title: "Stud Rider"
+description: "Stud Rider ist ein Motorrad‑Hill‑Runner: Halte dein Tempo im Fluss, lande möglichst flach und verbinde Sprünge sauber über ruppiges Gelände." 
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/stud-rider.png
 tags:
@@ -15,32 +13,28 @@ score: 3.9/5  (1707 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Stud Rider lebt von Rhythmus und Flow: Mit kurzen Gasstößen, flachen Landungen und wenigen, gut getimten Flips hältst du dein Bike auf Geschwindigkeit. Das unruhige Gelände bestraft Stürze auf die Vorderachse oder überdrehte Sprünge – gleichmäßiges Fahren schlägt wilde Stunts.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Flach landen:** Versuche, mit beiden Rädern möglichst waagerecht aufzusetzen, um Grip und Tempo zu behalten.
+2.  **Gas dosieren:** Gib vor Kuppen nur leicht Gas und nimm rechtzeitig weg, um die Nase nicht in den Boden zu „stechen“.
+3.  **Flips sparsam einsetzen:** Drehe nur dann eine Rolle, wenn du genug Höhe und Distanz hast – sonst verlierst du Geschwindigkeit oder stürzt.
+4.  **Senken „pumpen“:** In Senken kannst du mit kurzem Gasstoß extra Schub mitnehmen; in der Luft Gas wegnehmen stabilisiert die Maschine.
+5.  **Sprunglängen merken:** Mit der Zeit erkennst du, wie weit bestimmte Hügel tragen – so kannst du Sprünge bewusst verketten.
 
-Stud Rider emphasizes flow: small throttle pulses, flat landings, and cautious flips maintain speed. Rough terrain punishes nose‑dives and over‑rotation; consistent cadence beats wild stunts.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Gas/Bremse:** `W` / `S` oder `Pfeil hoch` / `Pfeil runter`
+- **Gewicht verlagern:** `A` / `D` oder `Links` / `Rechts`
+- Neustart über die UI.
 
-1.  **[DE]** Land level to keep traction.
-2.  **[DE]** Feather throttle over crests; don’t stuff the nose.
-3.  **[DE]** Flip sparingly — only with clear arc and altitude.
-4.  **[DE]** Pump dips for speed; cut throttle mid‑air to stabilize.
-5.  **[DE]** Memorize jump lengths for perfect linkups.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Ich überschlage mich ständig vorne.**  
+  Nimm vor Kuppen etwas Gas weg und lehne dich leicht nach hinten, dann kurz vor der Landung wieder ausgleichen.
 
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right; Restart via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep tucking the front.
-
-A: Ease off before lips and lean back slightly, then level out.
-
-- Q: Flips kill my speed.
-
-A: Use only when certain; focus on clean landings.
-
+- **Flips kosten zu viel Tempo.**  
+  Nutze sie nur als Bonus, wenn die Landung sicher ist – Priorität hat immer ein sauberer, flacher Aufprall.

@@ -1,82 +1,41 @@
 ---
+title: "Cannon Balls 3D キャノンボール3D"
+description: "「Cannon Balls 3D」で破壊の限りを尽くせ！大砲で狙いを定め、建物を粉々に破壊する爽快3D物理パズル。弱点を狙って弾薬を節約しよう。"
+iframeSrc: "https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/"
+thumbnail: "/new-images/cannon-balls-3d.png"
+urlstr: "cannon-balls-3d"
+score: "4.2/5  (1900 votes)"
+tags: ["shooting", "puzzle", "action"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: cannon-balls-3d
-title: '[JA TRANSLATION NEEDED] Cannon Balls 3D'
-description: >-
-  [JA TRANSLATION NEEDED] Ready, aim, fire! Demolish structures with your cannon
-  in this satisfying 3D physics puzzle. Aim for the weak spots and use your
-  limited ammo wisely to bring everything crashing down.
-iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
-thumbnail: /new-images/cannon-balls-3d.png
-tags:
-  - shooting
-  - puzzle
-  - action
-score: 4.2/5  (1900 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cannon Balls 3D（キャノンボール3D）*は、強力な大砲を操り、様々な建造物を破壊する爽快な物理パズルゲームです。各レベルにはユニークな建物やブロックの塔が登場します。プレイヤーの目的は、限られた数の砲弾を使って、ターゲットの建物を崩壊させることです。ただ撃つだけでなく、建物の構造的な「弱点」を見抜き、最小限の弾数で最大の破壊を引き起こす戦略眼が求められます。
 
-[JA TRANSLATION NEEDED] Cannon Balls 3D is a satisfying physics-based puzzle game where you take control of a powerful cannon to demolish various structures. Each level presents you with a unique building or arrangement of blocks, and your goal is to destroy it using a limited number of cannonballs. Success requires not just good aim, but also a strategic eye for identifying structural weak points to cause maximum collapse with minimum shots.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **構造を分析する:** 撃ち始める前に、建物をよく観察しましょう。建物を支えている主要な柱や、爆発するTNTタルなどの弱点はどこでしょうか？連鎖反応を狙いましょう。
+2.  **基礎（土台）を狙う:** 最も効果的な戦略は、多くの場合、一番下のブロックを破壊することです。土台を壊せば、その上の構造物全体がバランスを崩して崩落するため、砲弾を大幅に節約できます。
+3.  **弾薬を節約する:** 1つのレベルで使える砲弾の数は決まっています。無駄撃ちは厳禁です。上の方をちまちま狙うよりも、崩落を狙える一撃に賭けましょう。
+4.  **特殊ブロックを使う:** TNT木箱（爆薬）などの特殊なブロックを見つけたら逃さないようにしましょう。これに当てれば大爆発が起き、広範囲を一気に吹き飛ばせます。
 
-[JA TRANSLATION NEEDED] 1.  **Analyze the Structure:** Before you fire your first shot, take a moment to examine the building. Look for key support blocks at the base, explosive barrels, or any other potential weak points. The goal is to start a chain reaction.
-[JA TRANSLATION NEEDED] 2.  **Aim for the Foundation:** The most effective strategy is often to destroy the lowest blocks first. Taking out the foundation can cause the entire structure above it to become unstable and collapse on its own, saving you precious ammunition.
-[JA TRANSLATION NEEDED] 3.  **Conserve Your Ammo:** You only have a limited number of cannonballs per level. Make every shot count. Avoid taking potshots at the top of the structure unless it's necessary to hit a specific target.
-[JA TRANSLATION NEEDED] 4.  **Use Special Blocks:** Keep an eye out for special blocks like explosive TNT crates. Hitting one of these can create a large explosion, clearing a significant portion of the structure and saving you multiple cannonballs.
+### 操作ガイド
 
-### Controls Guide
+操作は直感的でシンプルです。
 
-[JA TRANSLATION NEEDED] The controls are simple and direct.
+*   **狙う:** マウスを動かして大砲の向きを変えます。左右で回転、上下で角度を調整します。
+*   **発射:** 左クリックで砲弾を発射します。
 
-*   **Aim the Cannon:** Use your mouse to aim. Move it left and right to rotate the cannon, and up and down to set the angle of your shot.
-    - **A:** Each level has a goal, often indicated by a horizontal line. You must cause the structure to collapse until all remaining parts are below this line. Once you do, you automatically pass the level.（日本語訳が必要）
-    - **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.（日本語訳が必要）
-    - **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.（日本語訳が必要）
-    - **A:** Each level has a goal, often indicated by a horizontal line. You must cause the structure to collapse until all remaining parts are below this line. Once you do, you automatically pass the level.（日本語訳が必要）
-    - **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.（日本語訳が必要）
-    - **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.（日本語訳が必要）
-*   **Fire:** Click the left mouse button to fire a cannonball.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: クリア条件は何ですか？**
+    *   **A:** 各レベルには目標となる高さ（ライン）が設定されています。建物を破壊して、残骸の高さがそのラインを下回ればクリアとなります。
 
-*   **Q: How do I know if I've passed the level?**
-[JA TRANSLATION NEEDED]     *   **A:** Each level has a goal, often indicated by a horizontal line. You must cause the structure to collapse until all remaining parts are below this line. Once you do, you automatically pass the level.
+*   **Q: 砲弾がなくなってもクリアできません。**
+    *   **A:** 弾切れになっても建物が残っている場合は失敗です。リスタートして、別の場所（特により低い位置や支柱）を狙ってみてください。
 
-*   **Q: I ran out of cannonballs but the structure is still too high. What do I do?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.
-
-*   **Q: Is it better to shoot fast or aim carefully?**
-
-
-
-
-
-
-
-
-    - **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.
-- **Q: Is it better to shoot fast or aim carefully?**
-    - **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.
-- **Q: I ran out of cannonballs but the structure is still too high. What do I do?**
-    - **A:** Each level has a goal, often indicated by a horizontal line. You must cause the structure to collapse until all remaining parts are below this line. Once you do, you automatically pass the level.
-- **Q: How do I know if I've passed the level?**
-### よくある質問（FAQ）
-- **Fire:** Click the left mouse button to fire a cannonball.
-
-
-
-
-
-    - **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.
-- **Q: Is it better to shoot fast or aim carefully?**
-    - **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.
-- **Q: I ran out of cannonballs but the structure is still too high. What do I do?**
-    - **A:** Each level has a goal, often indicated by a horizontal line. You must cause the structure to collapse until all remaining parts are below this line. Once you do, you automatically pass the level.
-[JA TRANSLATION NEEDED]     *   **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.
-
+*   **Q: 速く撃つほうがいいですか？**
+    *   **A:** いいえ、慎重に狙いを定めたほうが良いです。弾数が限られているため、適当な数発よりも、計算された一発のほうが価値があります。

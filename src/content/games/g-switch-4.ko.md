@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: g-switch-4
-title: '[KO] G-Switch 4'
+title: "G-Switch 4 최신 중력 러너"
 description: >-
-  [KO] Latest gravity‑flip runner entry: refined controls, tricky obstacle
-  chains, and competitive local races for many players.
+  시리즈 최신작 중력 플립 러너입니다. 더욱 정교해진 조작감과 촘촘한 함정
+  배치, 여러 명이 동시에 경쟁하는 로컬 레이스를 통해 한 버튼 타이밍 실력을
+  시험할 수 있습니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/g-switch-4.jpg
@@ -19,25 +20,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Tight one‑button timing with dense trap layouts and robust local multiplayer support.
+### 게임 개요
 
-### How to Play
-- Flip before edges; buffer a second flip for back‑to‑back traps.
-- In races, keep a safe cadence instead of risky late flips.
+`G-Switch 4`는 한 개의 버튼으로만 조작하는 중력 전환 러너 시리즈의 최신작입니다.
+입력 판정이 더 부드럽고 정확하게 다듬어졌으며, 함정이 촘촘하게 이어지는 코스와
+다수 인원이 동시에 달리는 로컬 멀티플레이가 특징입니다.
 
-### Controls
-- Single key/tap to flip; one key per player in vs.
+### 플레이 방법
 
-### Tips
-- Practice on slower sections to lock in your rhythm.
-- Use long ceilings/floors to reset timing after mistakes.
+- 발판 끝에 다가오기 전에 미리 버튼을 눌러 중력을 뒤집고, 캐릭터가 끊기지 않고
+  이어지는 표면 위를 달리도록 유지하세요.
+- 톱날이나 구멍이 연속해서 등장하는 구간에서는 첫 번째 함정을 넘자마자 곧바로
+  두 번째 플립을 준비해, 백투백 함정을 안전하게 넘는 것이 중요합니다.
+- 레이스 모드에서는 무리하게 늦은 타이밍을 노리기보다는, 안정적인 리듬을
+  유지하며 다른 플레이어의 실수를 유도하는 쪽이 더 유리합니다.
 
-### FAQ
-- Q: What is new in this installment?
-A: Smoother control feel and denser obstacle patterns; strong local multiplayer modes.
-- Q: Does it support many local players?
-A: Yes, many hosts allow multiple participants with unique keys.
-- Q: Are there checkpoints?
-A: Level modes may include them; endless races typically do not.
+### 조작 방법
 
+- 키보드의 특정 키 또는 터치 한 번으로 중력을 전환합니다.
+- 대전 모드에서는 플레이어마다 서로 다른 키가 지정되어, 여러 명이 동시에 같은
+  화면에서 플레이할 수 있습니다.
+
+### 플레이 팁
+
+- 속도가 느린 초반 구간에서 일부러 실험해 보며, 자신에게 맞는 플립 리듬을 미리
+  익혀 두세요.
+- 긴 천장이나 바닥 구간이 나오면, 잠시 타이밍을 다시 맞추거나 숨을 고르며 이후
+  패턴을 준비하는 구간으로 활용할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 이번 작품에서 새로워진 점은 무엇인가요?  
+  A: 조작감이 더 매끄럽고 정확해졌고, 장애물 패턴이 훨씬 촘촘해진 대신, 다양한
+  로컬 멀티플레이 모드가 추가되어 여러 사람이 함께 경쟁하기 좋습니다.
+- Q: 로컬에서 여러 명이 동시에 플레이할 수 있나요?  
+  A: 네. 많은 호스트에서 각 플레이어에게 고유한 키를 배정해, 한 키보드에서 여러
+  명이 같은 레이스에 참가할 수 있습니다.
+- Q: 체크포인트가 지원되나요?  
+  A: 일부 레벨 모드에는 체크포인트가 포함될 수 있지만, 끝less 레이스 모드에서는
+  보통 한 번의 실수로 바로 탈락합니다.

@@ -1,60 +1,39 @@
 ---
+title: "Moving Co"
+description: "Moving Coは物流パズルゲームです。家具をパックし、トラックを整理し、効率的に移動し、スペース管理をマスターします。"
+iframeSrc: "https://movingco.h5games.usercontent.goog/v/1p5l6f6hqaes0/"
+thumbnail: "/new-images/moving-co.png"
+urlstr: "moving-co"
+score: "4.1/5  (1834 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: moving-co
-title: '[JA TRANSLATION NEEDED] Moving Co'
-description: >-
-  [JA TRANSLATION NEEDED] Moving Co. turns moving day into a puzzle — plan
-  routes, carry items safely, and beat the clock with tidy logistics.
-iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
-thumbnail: /new-images/moving-co.png
-tags:
-  - casual
-  - thinky
-score: 3.8/5  (1364 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Moving Coは、移動会社を運営することに挑戦します。家具やボックスをトラックに効率的にパックし、スペースを管理し、すべてを安全に配達します。各レベルは、ますます複雑なパッキングパズルを提示します。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Moving Co. is a light logistics and packing challenge. Navigate rooms, pick up furniture or boxes, and move them to the truck or target spots while avoiding collisions and minimizing trips. Tight doorways, fragile items, and awkward shapes create spatial puzzles under time pressure.
+1.  **大きなアイテムを最初に:** 最初に大きな家具を配置します。
+2.  **隙間を埋める:** より小さなアイテムで空きスペースを埋めます。
+3.  **回転を使用:** アイテムを回転させてより良くフィットさせます。
+4.  **先を計画:** すべてのアイテムが収まることを確認します。
+5.  **重量分配:** バランスのある負荷のためにアイテムを均等に配置します。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Survey first: Identify large items and narrow passages; move big pieces before clutter blocks routes.
-[JA TRANSLATION NEEDED] 2.  Stack smart: Place heavy items first to stabilize loads; avoid stacking fragile pieces underneath.
-[JA TRANSLATION NEEDED] 3.  Shortest loops: Plan compact loops that grab multiple items per trip when possible.
-[JA TRANSLATION NEEDED] 4.  Turn radius: Rotate early through doors; wide turns reduce bumps and time losses.
-[JA TRANSLATION NEEDED] 5.  Handle fragile: Slow down near obstacles; a clean run beats a risky crash‑and‑restart.
+- アイテムをドラッグ＆ドロップしてトラックにパックします。
+- 回転ボタンをクリック/タップします。
+- すべてが収まったら配達を完了します。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Move: Arrow keys / WASD; some versions support drag joystick.
-- Pick/Drop: Context action on contact or a dedicated button.
-- Rotate (if available): Use on‑screen arrows or Q/E.
-
-### Frequently Asked Questions (FAQ)
-
-- Items keep getting stuck—what to do? Clear small clutter first or rotate earlier before doorways.
-- Do I lose score for bumps? Many modes penalize collisions or breaking fragile items; smooth movement pays off.
-
-### コントロールガイド
-- How to 3‑star? Fewer trips, early big‑item moves, and tidy stacking.
-
-
-
-
-
-
-
-
-- How to 3‑star? Fewer trips, early big‑item moves, and tidy stacking.
-- Do I lose score for bumps? Many modes penalize collisions or breaking fragile items; smooth movement pays off.
-- Items keep getting stuck—what to do? Clear small clutter first or rotate earlier before doorways.
-### よくある質問（FAQ）
-- Rotate (if available): Use on‑screen arrows or Q/E.
-- Pick/Drop: Context action on contact or a dedicated button.
-
-
-- How to 3‑star? Fewer trips, early big‑item moves, and tidy stacking.
+- **Q: すべてが収まらない場合はどうすればよいですか？**  
+  A: はい、すべてのパズルは解決可能です。異なる配置を試してください。
+- **Q: 完璧なパッキングのためのヒントは？**  
+  A: 最初に大きなアイテム、次により小さなもので隙間を埋めます。
+- **Q: タイムリミットはありますか？**  
+  A: 一部のレベルにはタイマーがありますが、ほとんどは自分のペースです。

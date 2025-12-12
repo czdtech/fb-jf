@@ -1,13 +1,14 @@
 ---
 locale: es
 urlstr: slope-2
-title: '[ES] Slope 2'
+title: "Slope 2"
 description: >-
-  [ES] Slope 2 is the sequel to the popular endless running game where players
-  control a ball rolling down a steep slope, avoiding obstacles and red blocks
-  while trying to survive as long as possible in this fast-paced challenge.
-iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
-thumbnail: /new-images/slope-2.jpg
+  Slope 2 es la secuela del popular endless runner en el que controlas una bola
+  que baja por una pendiente pronunciada, esquivando obstáculos y bloques rojos
+  mientras intentas sobrevivir el máximo tiempo posible en este desafío a toda
+  velocidad.
+iframeSrc: "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html"
+thumbnail: "/new-images/slope-2.jpg"
 tags:
   - endless runner
   - ball
@@ -17,33 +18,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Slope 2" continúa la fórmula del Slope original: controlas una bola que rueda
+por una cuesta infinita, esquivando obstáculos y plataformas rojas mientras la
+velocidad aumenta. Mantener el control y reaccionar a tiempo es la clave para
+batir tus propios récords.
 
-### Game Introduction
+### Estrategias de juego
 
-"Slope 2" is the sequel to the popular endless running game where players control a ball rolling down a steep slope, avoiding obstacles and red blocks while trying to survive as long as possible in this fast-paced challenge. The game continues the core gameplay of the original while adding new features and more challenging level designs.
+1.  **Reflejos rápidos:** Entrena tu reacción para responder a obstáculos y
+    cambios de dirección que aparecen de golpe.
+2.  **Planifica la trayectoria:** Observa el trazado por delante y elige la ruta
+    más segura entre plataformas.
+3.  **Controla la sensación de velocidad:** Aunque no puedas frenar, sí puedes
+    suavizar el recorrido eligiendo caminos menos agresivos.
+4.  **Reconoce los peligros:** Aprende a identificar rápidamente qué elementos
+    se pueden tocar y cuáles debes evitar siempre.
+5.  **Mantén la concentración:** Un segundo de distracción suele ser suficiente
+    para perder el control y caer.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Reaction Speed**: Practice quick reactions to handle suddenly appearing obstacles and direction changes.
-2.  **[ES]** **Path Planning**: Observe obstacle layouts ahead and choose the safest paths.
-3.  **[ES]** **Speed Control**: While you can't directly control speed, you can influence the ball's movement through path selection.
-4.  **[ES]** **Obstacle Recognition**: Quickly identify different types of obstacles, understanding which can be touched and which must be avoided.
-5.  **[ES]** **Focus Training**: Maintain high concentration to avoid mistakes due to distraction.
+*   **Mover izquierda/derecha:** Teclas A/D o flechas izquierda/derecha para
+    controlar el movimiento lateral de la bola.
+*   **Mantener el equilibrio:** Evita giros excesivos que provoquen derrapes o
+    salidas de la pista.
+*   **Salto:** Algunas versiones permiten saltar con barra espaciadora o flecha
+    arriba.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Left/Right Control**: Use A/D keys or left/right arrow keys to control the ball's left and right movement.
-*   **[ES]** **Maintain Balance**: Avoid excessive steering that causes the ball to lose control.
-*   **[ES]** **Jump**: Some versions may support jumping functionality (if available).
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: How can I improve survival time?**
-**A**: Practice more to improve reaction speed and learn to predict obstacle appearance patterns.
-2.  **[ES]** **Q: What if the ball is too fast to control?**
-**A**: Stay calm, use small directional adjustments, and avoid over-correction.
-3.  **[ES]** **Q: What's different from the original Slope?**
-**A**: "Slope 2" typically includes improved graphics, new obstacle types, and more challenging level designs.
-4.  **[ES]** **Q: Does the game keep high score records?**
-**A**: Yes, the game records your highest score, and you can challenge yourself to continuously break records.
+1.  **P: ¿Cómo aumento mi tiempo de supervivencia?**
+    **R:** Practica para mejorar tus reflejos y aprende los patrones típicos de
+    aparición de obstáculos.
+2.  **P: ¿Qué hago si la bola va demasiado rápido?**
+    **R:** Mantén la calma, realiza correcciones pequeñas y evita sobrecorregir;
+    los volantazos suelen ser peores que dejarte llevar.
+3.  **P: ¿En qué se diferencia de Slope original?**
+    **R:** Slope 2 suele incluir gráficos mejorados, nuevos tipos de obstáculos y
+    diseños de niveles más desafiantes.
+4.  **P: ¿Se guardan los récords?**
+    **R:** Sí, el juego registra tu mejor puntuación para que puedas intentar
+    superarla.

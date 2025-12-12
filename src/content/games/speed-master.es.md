@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: speed-master
-title: '[ES] Speed Master'
+title: "Speed Master"
 description: >-
-  [ES] Speed Master is a precision reaction gauntlet — hit prompts on beat,
-  chain perfects, and keep composure as speeds spike.
-iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
-thumbnail: /new-images/speed-master.png
+  Speed Master es una prueba extrema de reflejos: acierta los avisos al ritmo,
+  encadena perfectos y mantén la calma cuando la velocidad se dispare.
+iframeSrc: "https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/"
+thumbnail: "/new-images/speed-master.png"
 tags:
   - action
   - casual
@@ -15,34 +15,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Speed Master es un juego minimalista de reacción que lleva tu sentido del ritmo
+y la concentración al límite. Los avisos se deslizan por la pantalla y debes
+pulsar justo cuando se superponen con la zona de impacto. La dificultad aumenta
+con barridos cada vez más rápidos, ritmos engañosos y múltiples carriles que
+castigan tanto los toques adelantados como los retrasados.
 
-Speed Master is a minimalist reaction game that pushes timing and focus. Prompts sweep across the screen; you must tap at the exact overlap window. Difficulty rises with faster sweeps, deceptive rhythms, and multi‑lane inputs that punish early flinches and late presses alike.
+### Estrategias de juego y recorrido
 
-### Gameplay Strategy & Walkthrough
+1.  **Cuenta el ritmo:** Marca un compás interno estable y pulsa según el ritmo
+    más que solo por lo que ves en pantalla.
+2.  **Predicción periférica:** Mientras ejecutas el aviso actual, ya debes estar
+    viendo de reojo cuál viene después.
+3.  **Mejor un pelín tarde que pronto:** En muchos motores es más seguro pecar de
+    ligeramente tarde que de temprano; suelen aceptar mejor el final de la
+    ventana.
+4.  **Enfoque entre carriles:** Mantén la vista entre los carriles en vez de
+    clavarla en uno solo.
+5.  **Recupera la cadencia tras un fallo:** Después de fallar, respira hondo,
+    recoloca manos y postura, y vuelve al compás sin precipitarte.
 
-1.  **[ES]** Beat counting: Lock to a steady internal count; tap to beat rather than pure sight.
-2.  **[ES]** Peripheral prediction: Track the next prompt while executing the current one.
-3.  **[ES]** Late‑bias safety: Slightly late taps are safer than early (most engines accept late end‑frames).
-4.  **[ES]** Two‑lane focus: Keep eyes between lanes; don’t hard‑fixate on one side.
-5.  **[ES]** Regain cadence: After a miss, breathe, realign posture, then continue.
+### Guía de controles
 
-### Controls Guide
+- Pulsa cuando los avisos alcancen los marcadores. En modos multicarriI se suele
+  usar flechas o WASD (según la versión). Pausa y reinicio desde la interfaz.
 
-- Tap/press when prompts reach markers; multi‑lane binds use arrow/WASD (varies). Pause/Retry via UI.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **P: Siempre marco demasiado pronto, ¿cómo lo arreglo?**
+  
+  **R:** Añade un micro‑retardo a tu conteo interno y fíjate en el solapamiento
+  exacto en lugar de perseguir el movimiento del aviso.
 
-- Q: I’m consistently early — how do I fix it?
+- **P: Me abruman los varios carriles.**
+  
+  **R:** Suaviza el enfoque y mira el hueco central, dejando que los carriles se
+  procesen de forma periférica.
 
-A: Add a micro‑delay to your count and look for the exact overlap instead of chasing the sweep.
-
-- Q: Multi‑lane overwhelms me.
-
-A: Soften focus and watch the center gap; process lanes peripherally.
-
-- Q: Does FPS matter?
-
-A: Stable framerate helps; close background apps if timing feels inconsistent.
-
+- **P: ¿Influye el FPS?**
+  
+  **R:** Un framerate estable ayuda mucho; cierra aplicaciones de fondo si notas
+  inconsistencias en la sincronización.

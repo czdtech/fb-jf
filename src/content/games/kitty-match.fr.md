@@ -1,11 +1,10 @@
 ---
 locale: fr
 urlstr: kitty-match
-title: '[FR] Kitty Match'
+title: Kitty Match
 description: >-
-  [FR] Welcome to Kitty Match, a purr-fectly delightful match-3 puzzle game!
-  Swap colorful cat-themed items to make matches and complete challenging
-  levels.
+  Kitty Match est un match‑3 tout mignon : échange des tuiles à thème chat pour
+  faire des lignes et remplir des objectifs variés.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/kitty-match.png
 tags:
@@ -17,31 +16,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation détaillée
 
+Kitty Match est un jeu de match‑3 plein de chats et de niveaux colorés. Le but est d’échanger deux tuiles adjacentes pour former des lignes d’au moins trois symboles identiques. Chaque niveau a son objectif (collecter des items, casser des blocs spéciaux, etc.) et tu progresses dans un monde rempli de félins.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Kitty Match is a charming and addictive match-3 puzzle game filled with cute cats and colorful challenges. The goal is to swap adjacent tiles to create lines of three or more identical items. Each level has a unique objective, such as collecting a certain number of specific items or clearing special blocks. By completing levels, you can earn rewards and progress through a delightful, cat-filled world. It's a relaxing game for all ages, perfect for puzzle and cat lovers alike.
+1.  **Cherche les gros matches** : aligner 4 ou 5 tuiles crée des power‑ups qui nettoient lignes, colonnes ou zones complètes.  
+2.  **Planifie tes coups** : les niveaux sont limités en mouvements, anticipe quelques échanges et vise d’abord les actions qui aident l’objectif.  
+3.  **Combine les bonus** : la vraie puissance vient des combinaisons de power‑ups (bombe + roquette, etc.).  
+4.  **Travaille depuis le bas** : les matches en bas génèrent des cascades qui peuvent nettoyer beaucoup de tuiles sans coût supplémentaire.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** **Look for Big Matches:** While matching three items is good, matching four or five items is even better! These larger matches create special power-up tiles that can clear entire rows, columns, or explode to clear a whole area.
-2.  **[FR]** **Plan Your Moves:** You only have a limited number of moves in each level. Before making a swap, look at the whole board and try to plan a few moves ahead. Prioritize matches that will help you achieve the level's goal.
-3.  **[FR]** **Combine Power-ups:** The real magic happens when you combine two special power-up tiles. Swapping a bomb with a rocket, for example, can create a massive board-clearing effect. Experiment with different combinations.
-4.  **[FR]** **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade of new tiles to fall, often creating new matches automatically. This is a great way to clear the board efficiently.
+- **Échanger** : clique et fais glisser une tuile vers une voisine pour les inverser ; l’échange doit créer un match pour être validé.
 
-### Controls Guide
+### FAQ
 
-*   **[FR]** **Swap Tiles:** Use your mouse to click and drag an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
+- **Q : Quel est le but de chaque niveau ?**  
+  R : Il est affiché au début (nombre d’objets à collecter, blocs à casser, items à faire descendre, etc.).
 
-### Frequently Asked Questions (FAQ)
+    - **Q : Que se passe‑t‑il si je n’ai plus de coups ?**  
+  R : Si l’objectif n’est pas atteint, tu perds une vie et dois recommencer le niveau.
 
-*   **[FR]** **Q: What is the goal of each level?**
-    *   **[FR]** **A:** Each level has a specific goal, which is displayed at the start. This could be collecting a certain number of a specific colored item, breaking all the jelly squares, or bringing special items down to the bottom of the board.
+- **Q : Comment créer une bombe ?**  
 
-*   **[FR]** **Q: What happens if I run out of moves?**
-    *   **[FR]** **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
+    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
 
-*   **[FR]** **Q: How do I create a bomb?**
-    *   **[FR]** **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
+- **Q: How do I create a bomb?**
+
+    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
+  R : En général en alignant cinq tuiles en forme de « L » ou de « T », ce qui génère un power‑up qui explose autour de lui.
 

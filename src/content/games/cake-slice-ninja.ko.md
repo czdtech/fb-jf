@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: cake-slice-ninja
-title: '[KO] Cake Slice Ninja'
+title: 'Cake Slice Ninja 케이크 슬라이스 닌자'
 description: >-
-  [KO] Cake Slice Ninja is a sweet slicing rush — swipe clean cuts, chain
-  combos, and avoid hazards for high scores.
+  Cake Slice Ninja는 날아오르는 케이크를 한 번에 썰어 내는 슬라이스 액션 게임입니다.
+  부드러운 스와이프로 여러 조각을 한꺼번에 베어 콤보를 쌓고, 폭탄 같은 위험 요소는
+  피하며 하이스코어에 도전해 보세요.
 iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
 thumbnail: /new-images/cake-slice-ninja.jpeg
 tags:
@@ -14,29 +15,63 @@ score: 4.2/5  (1931 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Cake Slice Ninja는 화면 곳곳에서 튀어 오르는 케이크를 손가락이나 마우스로
+후려쳐 썰어 내는 캐주얼 액션 게임입니다. 공중으로 떠오른 케이크를 잘라 조각을
+내면 점수와 콤보가 쌓이고, 빠른 연속 슬라이스로 콤보를 유지할수록 점수가 크게
+오릅니다.
 
+단, 케이크 사이사이에는 폭탄이나 페널티 오브젝트가 섞여 있어, 이를 잘못
+건드리면 콤보가 끊기거나 시간·점수가 깎일 수 있습니다. 빠르면서도 신중한
+스와이프가 필요한 게임입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Cake Slice Ninja channels classic slice‑’em‑up action: flick to slice cakes as they fly, build combo chains with fast successive cuts, and dodge bombs or penalties that break your streak.
+1.  **긴 직선 스와이프로 여러 조각을 한 번에**  
+    짧은 동작으로 한 조각씩만 자르기보다는, 화면을 가로지르는 긴 직선
+    스와이프로 여러 케이크를 한 번에 베어 콤보를 쌓는 것이 효율적입니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **너무 낮은 위치에서는 무리하지 않기**  
+    화면 아래쪽 가까이는 폭탄과 케이크가 뒤섞여 위험한 구간입니다. 너무 낮은
+    곳까지 쫓아가 베기보다는, 케이크가 다시 위로 떠오르는 안전한 아크를 그릴
+    때까지 기다렸다가 써는 편이 안전합니다.
 
-1.  **[KO]** Long straight swipes: Slice multiple pieces in a single motion to bank combos.
-2.  **[KO]** Don’t chase low cuts: Let low pieces rise into a safer arc before slicing.
-3.  **[KO]** Bomb discipline: When bombs appear, prioritize clean misses over risky slices.
-4.  **[KO]** Read spawns: Memorize spawn rhythms to pre‑position your cursor.
-5.  **[KO]** Recover quickly: If a combo drops, reset posture and rebuild with safe doubles.
+3.  **폭탄이 보이면 스와이프 궤적부터 생각하기**  
+    폭탄이 등장했을 때는 무리하게 모든 케이크를 노리기보다, 폭탄을 확실히
+    피하는 궤적으로만 스와이프를 그리는 것이 중요합니다. 점수 조금보다 콤보와
+    시간 손실을 막는 것이 더 이득입니다.
 
-### Controls Guide
+4.  **스폰 패턴 읽기**  
+    몇 판만 해 보면 케이크가 어느 위치에서 어떤 리듬으로 튀어나오는지 대략
+    감이 옵니다. 화면을 전체적으로 보면서, 케이크가 올라올 것으로 예상되는
+    위치에 미리 커서를 가져다 두면 반응 속도를 줄일 수 있습니다.
 
-- Slice: Click‑drag or swipe to cut through targets.
-- Pause/Retry: Use on‑screen buttons.
+5.  **콤보가 끊겼을 때 침착하게 재정비**  
+    콤보가 끊겼다고 조급해져서 화면을 마구 긁어 버리면 폭탄을 건드리기 쉽습니다.
+    자세를 다시 가다듬고, 두세 개를 안정적으로 동시에 자르는 작은 콤보부터
+    다시 쌓아 올리세요.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- Missed a piece—big penalty? Modes vary; many dock combo or time, not full score.
-- Any two‑finger tricks? On touch devices, multi‑finger swipes can cover more area if supported.
-- How to avoid bombs? Track their fuses and paths; never complete a swipe that crosses a bomb.
+-   **슬라이스:** 마우스로 클릭한 상태로 드래그하거나, 터치 디바이스에서는 손가락으로
+    스와이프해 케이크를 가로지르면 그 경로를 따라 잘려 나갑니다.
+-   **일시정지/재시작:** 화면의 버튼을 눌러 게임을 잠시 멈추거나 처음부터
+    다시 시작할 수 있습니다.
 
+### 자주 묻는 질문 (FAQ)
+
+-   **Q. 케이크를 한 개 놓치면 큰 페널티가 있나요?**  
+    A. 모드에 따라 다르지만, 많은 경우 점수보다는 콤보 또는 남은 시간이 줄어드는
+    정도로 처리됩니다. 완벽하게 한 조각도 놓치지 못해도 괜찮으니, 폭탄을
+    건드리지 않는 것이 더 중요합니다.
+
+-   **Q. 두 손가락으로 동시에 쓸어도 되나요?**  
+    A. 터치 디바이스에서는 멀티 터치를 지원하는 경우, 여러 손가락으로 화면을
+    쓰다듬어 더 넓은 영역을 동시에 커버할 수 있습니다. 다만 지원 여부는 기기와
+    버전에 따라 달라질 수 있습니다.
+
+-   **Q. 폭탄을 피하는 요령이 있을까요?**  
+    A. 폭탄의 위치와 이동 경로를 먼저 눈으로 따라간 뒤, 그 궤적을 절대 가로지르지
+    않는 스와이프 동선을 설계하세요. 케이크가 폭탄 근처에 몰려 있을 때는 일부만
+    포기하고 안전한 쪽만 자르는 것이 좋습니다.

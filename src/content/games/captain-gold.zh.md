@@ -1,47 +1,54 @@
 ---
 locale: zh
 urlstr: captain-gold
-title: '[ZH TRANSLATION NEEDED] Captain Gold'
-description: >-
-  [ZH TRANSLATION NEEDED] Captain Gold is a classic gold‑miner challenge — time
-  throws, hook valuables, and avoid rocks to hit quotas.
-iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
-thumbnail: /new-images/captain-gold.png
+title: Captain Gold 黄金船长
+description: 《Captain Gold 黄金船长》中，你要操控海盗船长抛出钩爪，在限定时间或次数内抓回尽可能多的金块与宝石，避开 石头和炸药。
+iframeSrc: 'https://captaingold.h5games.usercontent.goog/v/2b7dhu3jscc90/'
+thumbnail: /new-images/captain-gold.jpeg
 tags:
+  - puzzle
   - casual
-  - thinky
-score: 3.9/5  (1683 votes)
+score: 4.0/5  (1720 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Captain Gold follows the timeless gold‑miner formula: swing a hook across the screen and release at the right moment to snag gold nuggets and treasures. Heavy objects pull slowly, light ones reel in faster. Stages set cash targets and time limits, with shop upgrades between rounds.
+*Captain Gold* 是一款类似“黄金矿工”玩法的休闲游戏。画面中，黄金船长会在船边挥动挂钩，钩爪以固定的速度左右摆动。当你按下按键时，钩爪会沿当前方向伸出去，一旦碰到金块、宝石或其他物品，就会将其拉回船上并获得相应的得分或效果。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Prioritize big nuggets and bags early for faster quota.
-2.  [ZH TRANSLATION NEEDED] Avoid rocks — they’re heavy and low value unless you must clear space.
-3.  [ZH TRANSLATION NEEDED] Use dynamite (if available) to drop unwanted items mid‑reel.
-4.  [ZH TRANSLATION NEEDED] Shop smart: buy power‑reel or extra dynamite first; evaluate per stage layout.
-5.  [ZH TRANSLATION NEEDED] Timing cues: Release slightly before the hook lines up due to swing momentum.
+关卡通常会有时间或目标分数限制，一些大型金块需要更长时间拉回，而石头价值低且浪费时间，炸药甚至会直接扣分或中断当前抓取。
 
-### Controls Guide
+### 游戏策略与通关思路
 
-- Tap/Click to release the hook; tap again to use dynamite if supported.
-- Navigate shop menus between levels.
+1.  **优先瞄准高价值目标**  
+    大型金块和宝石的分值远高于普通石块，在时间紧张的关卡中一定要优先考虑它们。可以在钩爪摆动到理想角度时果断出手，不要在低价值目标上浪费机会。
 
-### Frequently Asked Questions (FAQ)
+2.  **避开大石块与低价值障碍**  
+    大石块不仅拉回耗时长，得分却不高，容易拖慢节奏；有炸药的物品更要尽量避开。实在误抓到时，如果游戏允许使用炸药或特殊道具中断本次抓取，可以考虑用来止损。
 
-- Q: I keep coming up short on cash — any tips?
-  
-[ZH TRANSLATION NEEDED]   A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
+3.  **熟悉摆动节奏，提前预判角度**  
+    钩爪左右摆动的速度和幅度一般是固定的，多玩几局后可以根据节奏提前预判“下一次经过目标上方”的时间点，提前做手指准备，而不是等摆到位置才临时反应。
 
-- Q: Is dynamite worth it?
-  
-[ZH TRANSLATION NEEDED]   A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
+4.  **根据布局规划抓取顺序**  
+    如果关卡布局中存在深处高价值物品与近处杂物，建议先清理会挡路的近处物体，为后续抓取精确目标腾出安全通道。
 
-- Q: Can I control hook angle precisely?
-  
-[ZH TRANSLATION NEEDED]   A: Learn the swing rhythm; release a fraction early to account for motion.
+5.  **善用道具与特殊物品**  
+    某些版本提供炸药、加速、时间延长等道具；也会有加时间的特殊物品。尽可能保证在关键时刻使用这些资源，例如在剩余时间不多但仍有高价值目标未抓取时。
 
+### 操作指南
+
+-   **抛出钩爪：** 当钩爪摆动到合适角度时，点击鼠标或按下指定键即可让钩爪伸出。  
+-   **使用道具：** 若界面有炸药 / 加速等道具按钮，在钩爪拉回过程中点击即可生效（例如炸掉已抓住的石块）。  
+
+### 常见问题解答（FAQ）
+*   **问：总是误抓到石块怎么办？****
+
+A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
+- 答：** 可以略微晚一点出手，确保钩爪指向的是更深处的金块或宝石。实在抓到石块时，如果关卡允许，可以用炸药之类的道具中断抓取。
+
+A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
+*   **问：时间总是不够用？****
+
+A: Learn the swing rhythm; release a fraction early to account for motion.
+    *   答：** 尽量避免把时间浪费在低价值目标上，多练习瞄准和节奏，把有限的抓取次数集中在大金块和高分物品上；有加时间道具时要优先考虑获取。

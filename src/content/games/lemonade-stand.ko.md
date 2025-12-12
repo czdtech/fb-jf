@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: lemonade-stand
-title: '[KO] Lemonade Stand'
+title: "Lemonade Stand 레모네이드 가게 경영"
 description: >-
-  [KO] Classic business sim: set price, recipe, and advertising; buy
-  cups/lemons/ice; and manage daily profit under changing weather.
+  고전 경영 시뮬레이션 'Lemonade Stand' 가이드입니다. 날씨와
+  수요를 고려해 가격·레시피·광고를 조절하고, 재고를 관리해
+  매일의 이익을 극대화하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/lemonade-stand.jpg
 tags:
@@ -16,29 +17,57 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
 
+*Lemonade Stand*는 단순한 레모네이드 판매점을 운영하는
+고전 비즈니스 시뮬레이션입니다. 매일 아침 컵·레몬·설탕·얼음
+재고를 구매하고, 레시피와 가격, 광고량을 설정해 하루 장사를
+준비하게 됩니다.
 
-### Overview
-Lemonade Stand models a simple storefront. Each day you purchase inventory (cups, lemons, sugar, ice), set recipe and price, and optionally advertise. Weather and random events affect demand; profit depends on matching price and stock to conditions while minimizing waste (melted ice, leftover lemons).
+날씨와 랜덤 이벤트가 손님 수에 영향을 주며, 잘못된 가격 책정이나
+재고 관리 실패는 곧바로 손실로 이어집니다.
 
-### How to Play
-- Check forecast; raise price on hot days and buy more ice.
-- Adjust recipe (more sugar/lemons) to balance cost and demand.
-- Track profit/loss and iterate daily.
+### 플레이 방법
 
-### Controls
-- Mouse/UI to set quantities and prices; advance day.
+- **일기예보 확인**: 더운 날에는 가격을 약간 올리고 얼음을
+  넉넉히 준비하세요. 쌀쌀하거나 비가 올 것 같다면 재고를
+  줄이는 것이 좋습니다.  
+- **레시피 조정**: 레몬과 설탕 비율을 조절해 맛과 원가를
+  동시에 관리해야 합니다. 너무 진하거나 싱거우면 수요에
+  영향을 줄 수 있습니다.  
+- **광고 사용**: 광고는 수요를 늘려 주지만, 재고가 부족할 때
+  과도하게 광고하면 오히려 손해를 볼 수 있습니다.  
+- **수익 분석**: 매일 장사 결과를 보고 이익·손실과 남은
+  재고를 체크하고, 다음 날 전략을 바꿔 보세요.
 
-### Tips
-- Don’t overstock perishable items if the forecast is cool or rainy.
-- Keep a margin for events but avoid tying up cash in excess inventory.
-- Small price tests reveal elasticity for your market.
+### 조작 가이드
 
-### FAQ
-- Q: How do I avoid running out of stock during peak hours?
-A: Buy a buffer of cups and ice on hot forecasts and increase price slightly.
-- Q: Does advertising matter in this game?
-A: It can boost demand, but overspending wastes money if supply is low.
-- Q: What is the most important metric to watch?
-A: Daily profit and leftover inventory; aim for steady upward trends.
+- **수량·가격 설정**: 마우스/UI로 각 재고 수량과 잔당 가격,
+  레시피 비율, 광고비를 입력합니다.  
+- **하루 진행**: 설정을 마친 뒤 다음 날로 넘어가면,
+  그날 장사 결과가 자동으로 시뮬레이션됩니다.
+
+### 팁
+
+- 서늘하거나 비 오는 예보일 때는 얼음·레몬을 과하게
+  사두지 마세요. 남은 재고는 곧바로 낭비가 됩니다.  
+- 돌발 이벤트에 대비해 약간의 여유 재고와 현금을 남겨 두되,
+  너무 많은 자금을 재고에 묶어 두지 않는 것이 좋습니다.  
+- 가격을 소폭씩 바꿔 보며, 어느 구간에서 손님 수가 크게
+  줄거나 늘어나는지 체감해 보면 “수요 탄력성”을 파악하는 데
+  도움이 됩니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 피크 시간에 자꾸 재고가 떨어집니다.**  
+  **A:** 더운 날에는 컵과 얼음을 넉넉히 준비하고, 가격을 조금
+  올려 수요와 수익을 동시에 조절해 보세요.
+
+- **Q: 광고는 꼭 해야 하나요?**  
+  **A:** 재고가 충분히 있을 때는 도움이 되지만, 재고가
+  부족하다면 광고비만 낭비될 수 있습니다.
+
+- **Q: 가장 중요한 체크 포인트는 무엇인가요?**  
+  **A:** 매일의 순이익과 남은 재고입니다. 이 두 가지가
+  꾸준히 개선되는 흐름을 만드는 것이 목표입니다.
 

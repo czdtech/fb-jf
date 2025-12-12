@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: jump-with-justin-2
-title: '[KO] Jump With Justin 2'
+title: "Jump With Justin 2 점프 액션"
 description: >-
-  [KO] Jump With Justin 2 is a bouncy platformer — time jumps, bounce off
-  hazards, and chain springs to the goal.
+  스프링 점프와 이동 발판, 함정 타이밍이 핵심인 플랫폼 게임
+  'Jump With Justin 2' 가이드입니다. 점프 타이밍과 탄성을 활용해
+  함정을 피하고 출구까지 도달해 보세요.
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/jump-with-justin-2.png
 tags:
@@ -16,28 +17,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Jump With Justin 2*는 통통 튀는 점프와 움직이는 발판,
+각종 함정 타이밍을 맞추는 데 초점을 둔 가벼운 플랫폼 게임입니다.
+점프 궤적을 미리 그려 보고, 스프링과 발판을 연속으로 밟아
+최소한의 실수로 출구에 도달하는 것이 목표입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Jump With Justin 2 is a light platformer centered on springy jumps, moving platforms, and trap timing. Plan arcs, chain bounces, and keep momentum to reach exits with minimal mistakes.
+1. **점프 궤적(아크) 컨트롤**  
+   너무 이른 점프는 함정 앞에서 떨어지기 쉽습니다.  
+   깔끔한 포물선을 만들 수 있을 만큼 충분히 접근한 뒤
+   도약하는 것이 안전합니다.
 
-### Gameplay Strategy & Walkthrough
+2. **모멘텀 유지**  
+   매번 멈춰 서기보다는, 플랫폼 사이를 부드럽게 이어 뛰어
+   속도를 유지하면 난이도가 낮아집니다.
 
-1.  **[KO]** Arc control: Commit to clean arcs; late jumps often clear hazards better.
-2.  **[KO]** Momentum: Preserve speed across platforms instead of stopping each time.
-3.  **[KO]** Trap timing: Watch spikes and moving platforms to find safe beats.
-4.  **[KO]** Drill tough rooms: Restart segments to map exact jump windows.
-5.  **[KO]** Optional stars: Grab collectibles only on safe arcs.
+3. **함정 타이밍 관찰**  
+   가시나 움직이는 발판의 패턴을 먼저 지켜보며
+   안전한 타이밍(박자)을 찾는 것이 중요합니다.
 
-### Controls Guide
+4. **어려운 구간은 반복 연습**  
+   까다로운 방은 과감히 다시 시작해, 정확한 점프 타이밍과
+   위치를 몸으로 익히는 편이 더 빠를 때가 많습니다.
 
-- Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
-- Restart: Fast restart to practice sequences.
+5. **별 수집은 여유 있을 때만**  
+   100% 수집을 노리기 전에는, 우선 클리어 루트를
+   안정적으로 익히고 그 다음에 별을 모으는 것이 좋습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 가이드
 
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- 100% collection tips? Clear the route first, then route collectibles.
+- **이동/점프**: 방향키 또는 WASD, 스페이스바로 이동과 점프를
+  조작합니다.  
+- **재시작**: 일부 버전에서는 빠른 재시작 버튼을 제공해,
+  어려운 구간을 반복 연습하기 쉽게 되어 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 계속 가시에 부딪히는데 왜 그런가요?**  
+  **A:** 대부분 점프를 너무 일찍 하거나, 궤적이 낮기 때문입니다.
+  살짝 더 늦게 점프해 안전한 아크를 그려 보세요.
+
+- **Q: 더블 점프가 있나요?**  
+  **A:** 일부 스테이지에는 튕겨 주는 스프링 패드나
+  특수 파워업이 있어, 실질적으로 더블 점프와 비슷한 효과를
+  내기도 합니다.
+
+- **Q: 별을 모두 모으려면 어떻게 해야 하나요?**  
+  **A:** 먼저 기본 루트를 안정적으로 클리어한 뒤,
+  별 위치를 기억해 두고 별 전용 루트를 따로 연습하는 것이
+  효율적입니다.
 

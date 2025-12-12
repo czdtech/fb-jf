@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: drift-hunters
-title: '[ES] Drift Hunters'
+title: "Drift Hunters"
 description: >-
-  [ES] Drift Hunters is a 3D drifting racer: tune cars, chain drifts, and rack
-  up points across tracks.
+  Drift Hunters es un simulador de derrapes en 3D: ajusta el coche, encadena
+  derrapes y acumula puntos en distintos circuitos.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/drift-hunters.jpg
 tags:
@@ -15,30 +15,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Drift Hunters es un juego de derrapes en 3D donde ganas puntos manteniendo
+cruces controlados. Con las ganancias mejoras y personalizas tus coches
+(suspensión, caídas, turbo, etc.) y desbloqueas nuevos trazados y vehículos.
 
+### Cómo jugar
 
-### Overview
-3D drift racer: earn points by maintaining controlled slides, invest earnings into car upgrades and tuning (suspension, camber, turbo), and unlock new tracks and cars.
+- Encadena derrapes sin golpear obstáculos; los multiplicadores suben cuando
+  los deslizamientos son largos y limpios.
+- Ajusta relaciones de cambio y suspensión según el circuito y tu estilo.
+- Gasta créditos en mejores neumáticos, turbo y reducción de peso para ganar
+  control y velocidad.
 
-### How to Play
-- Chain drifts without hitting obstacles; multipliers build with clean, long slides.
-- Tune gear ratios and suspension to match track layout and style.
-- Spend credits on better tires, turbo, and weight reduction.
+### Controles
 
-### Controls
-- WASD/Arrows steer/throttle; Space: handbrake; C: camera; R: reset (host may vary).
+- WASD/Flechas para dirección y aceleración/freno.
+- Espacio: freno de mano.
+- C: cambiar de cámara.
+- R: reiniciar coche (según el portal).
 
-### Tips
-- Feather throttle mid‑drift to avoid spinning out.
-- Use handbrake taps to initiate on low‑speed corners.
-- Practice donut control to learn throttle/steering balance.
+### Consejos
 
-### FAQ
-- Q: Is there damage?
-A: Visual only on many hosts; collisions break combos.
-- Q: Best starter upgrades?
-A: Tires first, then power and weight.
-- Q: Can I tune per track?
-A: Yes; save presets for technical vs. high‑speed maps when supported.
+- Dosifica el acelerador durante el derrape para evitar trompos.
+- Usa toques cortos de freno de mano para iniciar el cruce en curvas lentas.
+- Practica donuts para entender el equilibrio entre gas y giro.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Hay daños en el coche?**  
+  **R:** En muchos portales los daños son solo visuales, pero los choques rompen
+  tus cadenas de puntos.
+
+- **P: ¿Qué mejoras son mejores al principio?**  
+  **R:** Empieza por neumáticos y luego potencia y peso; un coche que se deja
+  controlar puntúa más que uno demasiado nervioso.
+
+- **P: ¿Puedo ajustar el coche para cada circuito?**  
+  **R:** Sí. Si el juego lo permite, guarda ajustes predefinidos distintos para circuitos
+  técnicos y para trazados de alta velocidad.

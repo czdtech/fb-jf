@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-duel
-title: '[ZH TRANSLATION NEEDED] Jewel Duel'
-description: >-
-  [ZH TRANSLATION NEEDED] Jewel Duel mixes match‑3 with RPG — swap to
-  attack/defend, trigger skills, and break shields with tactical matches.
+title: "《Jewel Duel》宝石对决RPG"
+description: "《Jewel Duel》是一款将三消与 RPG 战斗融合的游戏，你通过交换宝石来发动攻击、防御与技能，以战术性消除打破敌人护盾、打断技能回合，而不只是简单堆伤害。"
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
 thumbnail: /new-images/jewel-duel.jpg
 tags:
@@ -15,32 +13,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jewel Duel layers RPG elements onto match‑3 combat. Matching certain colors fuels attacks/defense/skills; enemy turns follow yours, so turn order matters. Some foes carry shields/absorbs that require specific match types, adding puzzle depth beyond raw damage.
+《Jewel Duel》在传统三消玩法之上叠加了 RPG 战斗机制。不同颜色的宝石对应不同的行动类型：有的负责普通攻击，有的为你提供防御或护盾，还有的用于充能角色技能。你每回合进行消除后，敌人会在接下来的回合进行反击，回合节奏与行动次序非常关键。部分敌人会带有特殊护盾或吸收机制，需要通过特定类型的消除才能打破，这让战斗不再是单纯比拼输出，而更像一场回合制解谜。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Match intent: Prioritize color that fuels your needed action (attack vs heal vs shield).
-2.  [ZH TRANSLATION NEEDED] Turn tempo: Deny enemy ult turns by breaking shields or stuns before their phase.
-3.  [ZH TRANSLATION NEEDED] Setup cascades: Clear low‑impact gems now to prepare high‑value cascades next turn.
-4.  [ZH TRANSLATION NEEDED] Targeting: Focus one enemy at a time to remove damage sources.
-5.  [ZH TRANSLATION NEEDED] Boss mechanics: Read tooltips; some require special matches or row clears.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **明确每种颜色的用途**：根据关卡或角色设定，先弄清楚哪些颜色宝石对应攻击、治疗、护盾或技能充能。当前需要输出时优先消攻击色，需要苟活时就多消回复或防御色。  
+2.  **控制回合节奏**：注意敌人的回合计数和技能读条。在敌人即将释放大招前，优先通过特定消除打破护盾或触发眩晕/控制效果，阻断其爆发回合。  
+3.  **提前铺垫连锁消除**：有时可以先清理一些影响不大的宝石，为下一回合制造大范围连锁的结构。通过一两步铺垫，在关键回合打出高伤害或高护盾的连锁，会比单回合小额输出更安全。  
+4.  **集中火力优先击杀威胁目标**：在多目标战斗中，优先解决高输出或带控制的敌人，减少每回合你承受的总伤害，避免被多方夹击。  
+5.  **看懂 Boss 机制提示**：Boss 往往会要求你用行/列消除、特定颜色、或大范围爆破才能击破护甲，仔细阅读提示或技能描述，根据机制定制本局的消除优先级。  
 
-- Swap adjacent gems; trigger skills when charged; read enemy intents.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 与普通三消类似，通过交换相邻宝石来形成三颗及以上同色连线，从而触发对应行动；当技能条被消满后，点击技能按钮即可释放。留意界面上敌人的回合意图提示。  
 
-- Q: I do low damage — why?
-  
-[ZH TRANSLATION NEEDED]   A: You’re matching the wrong colors for your build; fuel attack gems or break shields first.
+### 常见问题（FAQ）
 
-- Q: Any tip for multi‑target fights?
-  
-[ZH TRANSLATION NEEDED]   A: Eliminate high‑threat targets first; use row/column clears for board control.
+- Q: 为什么我的伤害总是偏低？  
+  A: 很可能是你频繁消除了与当前流派不匹配的颜色，导致攻击色宝石消除不足，或者敌人护盾没有被及时打破。先优先清攻击色与破盾色，再考虑其它颜色。  
 
-- Q: Can I save skills?
-  
-[ZH TRANSLATION NEEDED]   A: Yes — hold until you can chain with a big cascade or to interrupt enemy ultimates.
+- Q: 多目标战有什么通用策略？  
+  A: 先集火解决高威胁单位（例如会控人或高爆发的怪），同时善用行/列消除和范围炸弹来控制整盘棋面，减少无效消除。  
 
+- Q: 技能能攒着不用吗？  
+  A: 可以。很多时候把技能留到可以配合大连锁的关键回合，或用来打断 Boss 大招，会比“有就放”更高效。

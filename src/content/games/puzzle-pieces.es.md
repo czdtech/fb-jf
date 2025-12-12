@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: puzzle-pieces
-title: '[ES] Puzzle Pieces'
+title: "Puzzle Pieces"
 description: >-
-  [ES] Puzzle Pieces delivers clean brainteasers — rotate, fit shapes, and
-  complete boards without gaps.
-iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
-thumbnail: /new-images/puzzle-pieces.png
+  Puzzle Pieces ofrece rompecabezas limpios y directos: rota las piezas,
+  encájalas en el tablero y complétalo sin dejar huecos.
+iframeSrc: "https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/"
+thumbnail: "/new-images/puzzle-pieces.png"
 tags:
   - puzzle
   - thinky
@@ -15,28 +15,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Puzzle Pieces es un puzle de encajar figuras muy pulido. Tu misión es arrastrar
+y rotar distintas piezas poligonales para rellenar el tablero exactamente, sin
+espacios vacíos. A medida que avanzas, los tableros se vuelven más complejos y
+te obligan a gestionar mejor el espacio disponible y la orientación de cada
+pieza.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Puzzle Pieces is a tidy shape‑fitting puzzler. Drag and rotate polyforms to fill boards exactly, managing limited space and piece orientations as layouts grow more intricate.
+1.  **Empieza por las piezas ancla:** Coloca primero las formas más grandes o
+    únicas. Reducen la ambigüedad y te ayudan a estructurar el tablero.
+2.  **Construye el marco:** Completar los bordes al principio deja muy claros los
+    huecos interiores que tienes que rellenar después.
+3.  **Fíjate en salientes y huecos:** Combina protuberancias y cavidades de las
+    piezas. Evita dejar agujeros de una sola casilla, porque son los más
+    difíciles de cubrir al final.
+4.  **Rota sin miedo:** Prueba todas las orientaciones posibles. Muchas
+    colocaciones solo se revelan al girar la pieza en el ángulo adecuado.
+5.  **Deshaz antes de atascarte:** No insistas en un encaje dudoso. Usa deshacer
+    y replantea la zona en lugar de forzar una solución mala que te bloquee más
+    adelante.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Start with anchors: Place unique or large shapes first to reduce ambiguity.
-2.  **[ES]** Edge framing: Build clean borders to reveal interior gaps.
-3.  **[ES]** Look for parity: Match protrusions and cavities; avoid leaving single‑cell holes.
-4.  **[ES]** Rotate liberally: Check all orientations; many fits appear only after rotation.
-5.  **[ES]** Undo freely: Backtrack early instead of forcing a bad fit.
+- **Mover piezas:** Arrastra con el ratón o el dedo para colocar las fichas en
+  el tablero.
+- **Rotar:** Usa el clic/toque adicional o el botón de rotación para girar la
+  pieza.
+- **Deshacer/Reiniciar:** Corrige errores rápidamente; en la mayoría de modos no
+  hay penalización por deshacer.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to move pieces; rotate via click/tap or a rotate button.
-- Undo/Reset: Fix mistakes quickly; no penalty in most modes.
+- **P: Hay una pieza que nunca encaja, ¿es un error del juego?**
+  
+  **R:** Lo más probable es que la orientación no sea la correcta o que los
+  bordes estén mal planteados. Prueba otras rotaciones o reconfigura los
+  bordes de la zona.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Hay temporizador?**
+  
+  **R:** Depende del modo, pero la mayoría de variantes son relajadas y no te
+  obligan a ir contra el reloj.
 
-- A piece never fits—bug? Usually orientation; try other rotations or reframe edges.
-- Timers? Varies; most modes are relaxed.
-- Hints? Many versions include hints; use sparingly to preserve challenge.
-
+- **P: ¿Existen pistas?**
+  
+  **R:** Muchas versiones incluyen pistas. Úsalas con moderación si quieres
+  mantener el desafío.

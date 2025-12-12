@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: 2048-pizza
-title: '[DE] 2048 Pizza'
+title: "2048 Pizza"
 description: >-
-  [DE] 2048 Pizza reimagines 2048 with toppings — slide tiles, merge matches,
-  and bake your way to bigger slices.
+  2048 Pizza bringt das bekannte 2048‑Prinzip mit leckerem Pizzabelag auf den
+  Bildschirm. Schiebe Kacheln, verschmelze gleiche Werte und backe dich Stück
+  für Stück zu immer größeren Pizzaschnitten.
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
 thumbnail: /new-images/2048-pizza.png
 tags:
@@ -15,29 +16,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+2048 Pizza bleibt dem klassischen "Schieben und Kombinieren" treu, verpackt das
+Ganze aber in ein appetitliches Pizza‑Thema. Du schiebst alle Kacheln gleichzeitig
+in eine von vier Richtungen, lässt gleiche Werte zusammenstoßen und dadurch zu
+höheren Zahlen verschmelzen, während du versuchst, das Spielfeld möglichst lange
+frei zu halten.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Ecke als Anker nutzen:** Suche dir eine Ecke, in der deine höchste Kachel
+    bleiben soll. Von dort aus baust du dein Zahlenraster wie eine Pyramide nach
+    unten bzw. zur Seite auf.
+2.  **Vor allem zwei Richtungen verwenden:** Wenn du zu oft in alle vier
+    Richtungen wischst, gerät die Ordnung durcheinander. Beschränke dich
+    größtenteils auf zwei Richtungen und nutze die anderen nur im Notfall.
+3.  **Zum Anker hin "füttern":** Versuche, neue Kacheln so zu bewegen, dass sie
+    nach und nach in Richtung deiner Eck‑Kachel rutschen und dort verschmolzen
+    werden können.
+4.  **Zufallsmerges vermeiden:** Spiele nicht hinter einzelnen kleinen Merges
+    her, die dein Muster zerstören. Eine stabile Struktur ist langfristig mehr
+    wert als eine schnelle kleine Kombination.
+5.  **Platz schaffen, wenn es eng wird:** Wenn kaum noch freie Felder bleiben,
+    ist es wichtiger, Zeilen oder Spalten zu öffnen als zwanghaft eine hohe
+    Kachel erzwingen zu wollen.
 
-2048 Pizza keeps the classic slide‑and‑merge formula but with tasty visuals. Slide tiles in four directions so identical values collide and combine, planning chains while keeping the board from filling.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Schieben:** Nutze die Pfeiltasten oder Swipes, um alle Kacheln in eine
+  Richtung zu bewegen.
+- **Rückgängig (falls vorhanden):** Manche Versionen erlauben es, einen Zug
+  rückgängig zu machen, um Fehlentscheidungen zu korrigieren.
 
-1.  **[DE]** Keep a corner anchor for the highest tile.
-2.  **[DE]** Move in two directions primarily to avoid breaking order.
-3.  **[DE]** Feed toward the anchor side to set up merges.
-4.  **[DE]** Don’t chase random merges that break structure.
-5.  **[DE]** When stuck, clear space instead of forcing high merges.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Das Feld ist sehr schnell voll – warum?**  
+  **A:** Wahrscheinlich benutzt du alle vier Richtungen zu häufig. Halte dich an
+  einen 2‑Richtungs‑Plan, um dein Raster geordnet zu halten.
 
-- Slide: Arrow keys/Swipes.
-- Undo (if available) to rescue missteps.
+- **F: Gibt es ein klares Siegziel?**  
+  **A:** Meist geht es darum, eine bestimmte Zielschnitt‑Kachel (ähnlich 2048) zu
+  erreichen oder einfach einen möglichst hohen Punktestand zu erspielen.
 
-### Frequently Asked Questions (FAQ)
-
-- Board clogs fast—why? You’re moving in all directions; stick to a two‑direction plan.
-- Win condition? Reach the target tile (e.g., 2048) or chase high scores.
-- Random spawns? Typically 2s and 4s with weighted chances.
-
+- **F: Wie funktionieren neue Kacheln?**  
+  **A:** Nach jedem Zug erscheinen neue Kacheln – in der Regel Werte wie 2 oder
+  4, mit einer bestimmten Wahrscheinlichkeit verteilt – auf zufälligen freien
+  Feldern.

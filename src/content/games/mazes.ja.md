@@ -1,70 +1,38 @@
 ---
+title: "Mazes"
+description: "Mazesは挑戦的なパスファインディングゲームです。複数の迷路をナビゲートし、障害物を避け、効率的に出口を見つけます。"
+iframeSrc: "https://2n1vou5bnc19g.h5games.usercontent.goog/v/69u69lpop0bao/"
+thumbnail: "/new-images/mazes.png"
+urlstr: "mazes"
+score: "3.9/5  (1623 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: mazes
-title: '[JA TRANSLATION NEEDED] Mazes'
-description: >-
-  [JA TRANSLATION NEEDED] Mazes delivers classic labyrinth runs — draw optimal
-  paths, dodge traps, and beat par times with clean routing.
-iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
-thumbnail: /new-images/mazes.jpg
-tags:
-  - puzzle
-  - thinky
-  - escape
-score: 4.0/5  (1894 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Mazesは、複数の迷路を解決することに挑戦するパズルゲームです。各迷路は、障害物、行き止まり、複雑なパスでより困難になります。目標は、最小限の時間または移動で出口を見つけることです。
 
-[JA TRANSLATION NEEDED] Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. The challenge is route planning: finding shortest safe paths, avoiding trap tiles, and hitting switches to open gates while staying under par times.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **全体像を見る:** 移動する前に迷路全体をスキャンします（可能な場合）。
+2.  **体系的に作業:** 一貫した戦略（例：常に左に曲がる）に固執して行き止まりをマップします。
+3.  **パスをマーク:** 既に試したパスを精神的または視覚的にマークします。
+4.  **忍耐強く:** 急がないでください。最速のパスが常に明らかではありません。
+5.  **パターンから学ぶ:** 一部の迷路には解決を簡素化するパターンがあります。
 
-[JA TRANSLATION NEEDED] 1.  Right/left‑hand rules: Use wall‑following on simply connected mazes; abandon on multi‑loops.
-[JA TRANSLATION NEEDED] 2.  Shortcut scouting: Zoom to spot door/switch pairs and plan a single sweep.
-[JA TRANSLATION NEEDED] 3.  Trap memory: Mark dangerous tiles mentally to avoid repeat hits.
-[JA TRANSLATION NEEDED] 4.  Time splits: Don’t chase a perfect line first; secure a finish, then optimize.
-[JA TRANSLATION NEEDED] 5.  Safe corridors: Favor wide lanes when precision is shaky.
+### 操作ガイド
 
-### Controls Guide
+- 矢印キー、WASD、またはスワイプジェスチャーで移動します。
+- リセット/元に戻すボタンが通常利用可能です。
 
-- Drag or WASD to move; restart/undo if supported.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I keep missing switches.
-  
-[JA TRANSLATION NEEDED]   A: Route past every key junction; add a small detour rather than backtracking later.
-
-- Q: Are traps random?
-  
-[JA TRANSLATION NEEDED]   A: Usually fixed; learn their positions.
-
-- Q: Any speedrun tip?
-  
-
-
-
-
-
-- Q: I keep missing switches.
-### よくある質問（FAQ）
-- Drag or WASD to move; restart/undo if supported.
-### コントロールガイド
-- Safe corridors: Favor wide lanes when precision is shaky.
-[JA TRANSLATION NEEDED]   A: Hug inner walls on bends and cut diagonals where allowed.
-
-
-
-
-
-
-A: Hug inner walls on bends and cut diagonals where allowed.
-- Q: Any speedrun tip?
-A: Usually fixed; learn their positions.
-- Q: Are traps random?
-
-
-A: Hug inner walls on bends and cut diagonals where allowed.
+- **Q: 迷路は生成されますか、それとも事前に設計されていますか？**  
+  A: バージョンによって異なります。一部は手作りで、他のものはランダムに生成されます。
+- **Q: 迷路を探索する最良の方法は何ですか？**  
+  A: 壁に従う戦略またはバックトラッキングを試してください。
+- **Q: ヒントはありますか？**  
+  A: 一部のバージョンはヒントまたはパスハイライトを提供します。

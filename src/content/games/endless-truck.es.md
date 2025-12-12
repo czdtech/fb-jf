@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: endless-truck
-title: '[ES] Endless Truck'
+title: "Endless Truck"
 description: >-
-  [ES] Endless Truck is a stunt‑runner — manage momentum, land cleanly, and
-  chain boosts while collecting cash and upgrades.
+  Endless Truck es un runner de acrobacias: controla el impulso, aterriza limpio
+  y encadena impulsos de nitro mientras recoges dinero y mejoras para tu camión.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/endless-truck.png
 tags:
@@ -16,41 +16,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Endless Truck es un runner lateral centrado en el control de la velocidad y el
+ángulo de aterrizaje. Las colinas, rampas y huecos recompensan un acelerador
+suave y volteretas bien calculadas; los aterrizajes torpes te hacen perder
+velocidad o estrellarte. Las monedas y misiones te permiten desbloquear mejoras
+(motor, suspensión, nitro) que aumentan tu velocidad punta y estabilidad.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Endless Truck is a side‑scrolling stunt runner focused on speed control and landing angles. Hills, ramps, and gaps reward smooth throttle and controlled flips; sloppy landings bleed speed or crash. Cash pickups and missions unlock upgrades (engine, suspension, boost) that raise top speed and stability.
+1.  **Aterriza plano:** Intenta caer siempre con las ruedas niveladas para
+    conservar la velocidad y evitar rebotes.
+2.  **Dosifica el gas:** Da pequeños toques de acelerador en las crestas de las
+    colinas para evitar que el morro se hunda al caer.
+3.  **Volteretas con cabeza:** Solo haz volteretas cuando tengas altura y arco
+    suficientes; una buena voltereta segura vale más que dos arriesgadas.
+4.  **Usa el nitro con inteligencia:** Aprovecha el impulso en salidas de rampas
+    o tramos planos, no en pleno salto. Encadenar impulsos tras aterrizajes limpios
+    es la mejor forma de hacer carreras largas.
+5.  **Orden de mejoras:** Empieza por suspensión y neumáticos para ganar control,
+    luego invierte en motor y nitro cuando domines la conducción.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Land flat: Touch down with wheels level to retain speed and avoid bounce.
-2.  **[ES]** Throttle feathering: Pulse throttle over crests to prevent nose dives.
-3.  **[ES]** Flip discipline: Only flip when altitude and arc are safe; one clean flip beats two risky ones.
-4.  **[ES]** Boost wisely: Use nitro on flat exits, not mid‑air; stacking boosts after clean landings yields longest runs.
-5.  **[ES]** Upgrade order: Suspension/tires for control, then engine/boost as you stabilize.
+- Acelerar/Frenar: W/S o Flechas arriba/abajo.
+- Inclinar el camión: A/D o Flechas izquierda/derecha.
+- Nitro: Mayús (Shift) o Espacio (según la versión).
 
-### Controls Guide
+### Consejos avanzados
 
-- Accelerate/Brake: W/S or Up/Down.  Tilt: A/D or Left/Right.  Boost: Shift/Space (varies).
+- **Bombeo (pumping):** Toca el freno justo antes de una caída para bajar el morro y luego
+  acelera al aterrizar para ganar tracción extra.
+- **Rutas de misión:** Elige trayectos y estilo de conducción que te permitan
+  completar varias misiones a la vez (por ejemplo, volteretas + distancia).
+- **Recuperación tras un casi accidente:** Si entras con mal ángulo, suelta gas y ajusta
+  suavemente la inclinación para salvar el aterrizaje.
 
-### Advanced Tips
+### Preguntas frecuentes (FAQ)
 
-- Pumping: Tap brake before a drop to lower the nose, then accelerate on landing for extra traction.
-- Mission routing: Pick routes that complete multiple missions in one run (e.g., flips + distance).
-- Crash recovery: If angle is bad, cut throttle and gently tilt to save the landing.
+- **P: Siempre me estrello al aterrizar, ¿qué puedo hacer?**  
+  **R:** Reduce el número de volteretas, procura caer con las ruedas niveladas y no
+  aceleres fuerte hasta que la suspensión se haya asentado.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Qué mejora compro primero?**  
+  **R:** Suspensión y neumáticos para tener control; la velocidad extra es útil
+  solo cuando puedes manejarla.
 
-- Q: I always wipe out on landings — any fix?
-
-A: Reduce flips, land with wheels level, and ease throttle until suspension settles.
-
-- Q: Best upgrade first?
-
-A: Suspension/tires for handling; speed after stability.
-
-- Q: When should I use boost?
-
-A: On flat ground after clean landings to extend speed without losing control.
-
+- **P: ¿Cuándo es mejor usar el nitro?**  
+  **R:** En rectas o justo tras un aterrizaje limpio, nunca en mitad de un salto
+  grande o antes de una caída complicada.

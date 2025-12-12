@@ -1,48 +1,58 @@
 ---
 locale: fr
 urlstr: pirate-pop
-title: '[FR] Pirate Pop'
-description: >-
-  [FR] Ahoy! Take aim and pop the pirate bubbles. A classic bubble shooter game
-  where you match three or more to clear the board and claim the pirate
-  treasure.
-iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
+title: Pirate Pop
+description: "Pirate Pop est un bubble shooter à thème pirate\_: vise les bulles, forme des groupes de couleur et fais tomber des blocs pour nettoyer le ciel des mers."
+iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/7h7u3avm2phl8/'
 thumbnail: /new-images/pirate-pop.png
 tags:
-  - shooting
   - puzzle
   - casual
-score: 4.3/5  (2100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (1800 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
+
+Pirate Pop est un bubble shooter classique dans un décor de pirates. À bord de ton navire, tu tires des bulles colorées sur un plafond de bulles déjà en place. En alignant des groupes de trois bulles de même couleur (ou plus), tu les fais éclater et peux parfois faire tomber des grappes entières.
+
+### Stratégies de jeu et progression
+
+1.  **Prioriser les suspensions :** cible les bulles qui tiennent de gros amas ; faire tomber une masse entière est plus efficace que casser de petits groupes.  
+2.  **Utiliser les rebonds :** vise les parois latérales pour atteindre les bulles cachées derrière d’autres.  
+3.  **Gérer les couleurs rares :** si une couleur apparaît peu, essaie de la consommer rapidement pour faire tourner la pioche.  
+4.  **Anticiper la prochaine bulle :** certaines versions affichent la prochaine couleur ; prévois ton tir actuel et le suivant.
+
+### Commandes
+
+- Déplace le viseur avec la souris ou le doigt, puis tape/clique pour tirer une bulle dans la direction choisie.
 
 
 
-### Detailed Game Introduction
+- **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
 
-Pirate Pop is a fun and addictive bubble shooter game with a swashbuckling pirate theme. Your goal is to clear the screen of colorful bubbles by firing your cannon and matching three or more bubbles of the same color. Aim carefully, use the walls to make tricky bank shots, and create large chain reactions to drop big clusters of bubbles and claim the pirate treasure!
+- **Q: What if I can't make a match?**
 
-### Gameplay Strategy & Walkthrough
+    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
 
-1.  **[FR]** **Aim High for Big Drops:** The most effective way to score big is to pop a cluster of bubbles that is supporting other bubbles below it. This will cause a huge avalanche, clearing a large portion of the board at once and earning you massive combo points.
-2.  **[FR]** **Use the Walls:** Master the bank shot. Bouncing your bubble off the side walls is a crucial skill for reaching tight spots and hitting bubbles that are otherwise blocked.
-3.  **[FR]** **Plan Ahead:** The game usually shows you the next bubble in your cannon. Use this to your advantage. If your current bubble isn't a good match, see if you can use it to set up a better shot for the next one.
-4.  **[FR]** **Don't Let Them Reach You:** A line of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, your voyage is over!
+- **Q: How do I get the highest score?**
 
-### Controls Guide
+    - **A:** To clear all the bubbles from the board and achieve the highest score possible.
 
-*   **[FR]** **Aim:** Move your mouse to aim the cannon. A helpful guideline will show you where your bubble will go.
-*   **[FR]** **Shoot:** Click the left mouse button to fire the bubble.
+- **Q: What is the goal of the game?**
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** To clear all the bubbles from the board and achieve the highest score possible.
+- **Shoot:** Click the left mouse button to fire the bubble.
 
-*   **[FR]** **Q: How do I get the highest score?**
-    *   **[FR]** **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
 
-*   **[FR]** **Q: What if I can't make a match?**
-    *   **[FR]** **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
+    - **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
 
+- **Q: What if I can't make a match?**
+
+    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
+
+- **Q: How do I get the highest score?**
+
+    - **A:** To clear all the bubbles from the board and achieve the highest score possible.

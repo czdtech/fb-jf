@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: farming-10x10
-title: '[FR] Farming 10x10'
-description: >-
-  [FR] Farming 10x10 dresses classic 10x10 block‑fit — place shapes, clear
-  rows/columns, and avoid sealing off precious space.
+title: "Farming 10x10"
+description: "Farming 10x10 revisite le classique puzzle 10x10 : place des formes, vide les lignes/colonnes et évite de bloquer l’espace précieux de la grille."
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/farming-10x10.jpg
 tags:
@@ -15,36 +13,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Farming 10x10 est un puzzle paisible de placement de formes sur une grille 10×10. Tu reçois des lots de trois pièces ; place‑les pour compléter des lignes ou des colonnes et les effacer. La partie se termine dès qu’aucun placement légal n’est possible, donc tout l’art consiste à préserver ta flexibilité tout en préparant des effacements multiples.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive sets of three pieces; place them to complete rows/columns and score clears. The run ends when no legal placements remain, so the art is in preserving flexibility while constructing multi‑line clears.
+1.  Garde le centre respirable : nettoie les bords progressivement pour éviter de créer des pièges d’une seule case.
+2.  Garde une « poche » réservée : prévois un espace pouvant accueillir les triominos les plus difficiles.
+3.  Place la pièce la plus compliquée en premier quand le plateau est chargé.
+4.  Construis des setups de doubles lignes pour qu’un seul placement efface deux rangées ou plus.
+5.  Évite de créer des « colonnes vertébrales » en 1×n qui ne peuvent accueillir que des pièces bâtons.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Keep the center breathable; tidy edges gradually to avoid single‑cell traps.
-2.  **[FR]** Reserve a pocket sized for the most awkward triominoes.
-3.  **[FR]** Place the hardest piece first when the board is crowded.
-4.  **[FR]** Build two‑line setups so one placement scores double clears.
-5.  **[FR]** Avoid creating 1×n “spines” that only fit sticks.
+- Fais glisser les pièces sur le plateau et relâche pour les poser ; certains modes permettent la rotation.
+- Utilise Annuler/Réinitialiser si ces options sont disponibles.
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-- Drag pieces to the board; release to place; some modes allow rotate.
-- Undo/Reset if provided.
+- Q : Je n’ai plus de place, des solutions ?
+  
+  R : Garde une zone centrale ouverte, réserve une poche pour les pièces difficiles et privilégie les placements qui préparent des doubles effacements.
 
-### Frequently Asked Questions (FAQ)
+- Q : Pourquoi je ne peux pas tourner les pièces ?
+  
+  R : De nombreuses variantes 10×10 ne permettent pas la rotation ; compense en gérant mieux tes espaces de réserve.
 
-- Q: I keep running out of room — solutions?
-
-A: Maintain a central open area, set aside an awkward‑piece pocket, and prioritize double clear setups.
-
-- Q: Rotate is missing?
-
-A: Many 10×10 variants do not rotate; compensate with better pocketing.
-
-- Q: How to chase high scores?
-
-A: Chain doubles and avoid “rescue” singles that break structure.
-
+- Q : Comment viser les très gros scores ?
+  
+  R : Enchaîne les doubles effacements et évite les placements « de secours » qui ne nettoient qu’une seule case mais cassent ta structure.

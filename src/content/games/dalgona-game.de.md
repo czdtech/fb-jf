@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: dalgona-game
-title: '[DE] Dalgona Game'
+title: "Dalgona Game"
 description: >-
-  [DE] Dalgona Game recreates honeycomb carving — trace shapes carefully, manage
-  cracks, and finish before time runs out.
+  Dalgona Game setzt das Ausschneiden von Zuckerwaben um – fahre Formen
+  vorsichtig nach, kontrolliere Risse und schließe rechtzeitig ab, bevor die
+  Zeit abläuft.
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/dalgona-game.png
 tags:
@@ -15,36 +16,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Dalgona Game* ist eine vorsichtige Nachzieh-Challenge, inspiriert von
+Zuckerwaben (Dalgona). Du musst die eingeprägte Form entlang der Kontur
+herausarbeiten. Zu viel Druck oder ein Abweichen von der Linie lassen die
+Zuckerplatte reißen – und die Runde ist verloren.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve out the stamped shape by following edges; too much pressure or off‑path cuts crack the candy and fail the round.
+1.  Langsam in den Ecken: Fahre Kurven besonders langsam und sauber nach;
+    beschleunige nur auf langen, geraden Stücken.
+2.  Rillen folgen: Bleib möglichst genau in den vorgegebenen Rillen und erzwinge
+    keine harten Richtungswechsel quer zur Struktur.
+3.  Mikrorisse beobachten: Entstehen feine Risse, hebe den Stift/Finger kurz an
+    und setze mit ruhigerer Bewegung erneut an.
+4.  Enge Winkel zum Schluss: Bearbeite zunächst lange Kanten und hebe
+    feingliedrige Innenwinkel bis zum Ende auf, wenn der äußere Bereich stabil
+    ist.
+5.  Zeit managen: Wechsel zwischen schnellen Abschnitten und vorsichtigen
+    Passagen, um sowohl Timer als auch Bruchgefahr im Griff zu behalten.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** Slow and steady near corners; speed only on straight segments.
-2.  **[DE]** Follow grooves; don’t force turns across the grain.
-3.  **[DE]** Watch micro‑cracks; if they spread, lift and re‑approach.
-4.  **[DE]** Save tight angles for last after stabilizing long edges.
-5.  **[DE]** Manage the timer by alternating quick/slow sections.
+- Ziehe mit Maus oder Finger entlang der Kontur, um die Form aus der
+  Zuckerwabe zu schneiden; Empfindlichkeit für Druck/Winkel variiert nach
+  Version.
+- Bricht die Wabe, kannst du Level über das UI schnell neu starten.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-- Drag to trace the outline; pressure/angle sensitivity varies by build.
-- Restart quickly on breaks.
+- Ich breche ständig an den Ecken – was tun?
+  
+  Fahre langsamer, nimm, falls möglich, leicht weitere Bögen in Ecken und
+  pausiere kurz vor einem scharfen Richtungswechsel.
 
-### Frequently Asked Questions (FAQ)
+- Wird Druck wirklich simuliert?
+  
+  In einigen Fassungen ja. Sanfte, gleichmäßige Bewegungen sind an filigranen
+  Stellen deutlich sicherer als ruckartige Swipes.
 
-- Q: I keep cracking near corners — how to fix?
-
-A: Reduce speed, take wider arcs if allowed, and pause before turning sharply.
-
-- Q: Is pressure modeled?
-
-A: Some builds simulate pressure; gentle drags are safer near delicate edges.
-
-- Q: Any tips for stars/umbrellas?
-
-A: Do long straights first, then carve the tight inner curves last.
-
+- Tipps für Sterne/Schirme?
+  
+  Schneide zuerst die langen, äußeren Linien und hebe die engen Innenradien
+  bis zum Schluss auf.

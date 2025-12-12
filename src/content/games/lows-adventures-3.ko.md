@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: lows-adventures-3
-title: '[KO] Low''s Adventures 3'
+title: "Low's Adventures 3 로우즈 어드벤처 3"
 description: >-
-  [KO] Retro platformer trilogy entry: tighter jumps, new gimmick blocks, and
-  more secrets across compact stages.
+  Low's Adventures 3는 레트로 감성의 플랫포머 3부작 중 세 번째 작품으로, 더 타이트해진
+  점프 타이밍과 새로운 기믹 블록, 숨겨진 길이 특징입니다.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/lows-adventures-3.jpg
 tags:
@@ -18,27 +18,46 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-The third entry sharpens platforming with trickier timing windows, moving hazards, and additional secret routes. Expect switch puzzles, hidden keys, and off‑screen passages that reward careful exploration and efficient routing.
+### 게임 개요
 
-### How to Play
-- Clear main exits first, then return for secrets and time medals.
-- Use moving platforms to set up longer jumps.
-- Track which keys open which doors to avoid backtracking.
+시리즈 세 번째 작품인 *Low's Adventures 3*는 점프 타이밍이 더 까다로워지고, 움직이는 함정과
+비밀 루트가 늘어난 레트로 스타일 플랫포머입니다. 스위치 퍼즐, 숨겨진 열쇠, 화면 밖으로
+이어지는 비밀 통로 등, 단순 클리어뿐 아니라 맵 구석구석을 탐험할수록 보상이 돌아오는
+구성이 특징입니다.
 
-### Controls
-- Arrows/WASD move/jump; attack/interact per host.
+### 플레이 방법
 
-### Tips
-- Stay patient on moving hazards—missing one cycle costs less than a death.
-- Route coins/items only if they don’t risk the timer.
-- Listen for audio cues hinting at hidden areas.
+- 처음에는 일반 출구를 목표로 스테이지를 클리어한 뒤, 다시 돌아와 숨겨진 길과 타임
+  메달(또는 기록)을 노려 보세요.
+- 움직이는 발판을 이용해 더 먼 점프를 만들 수 있으니, 발판의 움직임과 점프 타이밍을
+  잘 맞추는 연습이 필요합니다.
+- 어떤 열쇠가 어떤 문과 연결되는지 기억해 두면 불필요한 역주행을 줄일 수 있습니다.
 
-### FAQ
-- Q: How do I find hidden exits in this game?
-A: Check ceilings, false walls, and off‑screen ledges; look for slight tile seams.
-- Q: Are there difficulty spikes compared to part 2?
-A: Jumps are tighter and hazards denser; practice specific rooms.
-- Q: Can I replay levels quickly for medals?
-A: Yes—menus often support fast restarts for routing attempts.
+### 조작 방법
 
+- 방향키 또는 WASD로 이동/점프를 수행하며, 공격/상호작용 키는 호스트에 따라 다를 수
+  있습니다.
+
+### 팁
+
+- 움직이는 함정 앞에서는 한 사이클을 손해 보더라도, 무리해서 뛰다가 죽는 것보다
+  훨씬 이득입니다.
+- 코인이나 아이템 루트를 타임어택과 동시에 노리기보다는, 먼저 클리어 루트를 익힌 뒤
+  여유가 생겼을 때 추가 수집을 시도하는 편이 안정적입니다.
+- 특정 구간에서는 타일이 살짝 어색하게 이어지는 부분이나 미세한 힌트가 숨겨진 길을
+  암시하니, 배경을 유심히 관찰해 보세요.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 숨겨진 출구는 어디에 있나요?**  
+  **A:** 천장 위, 가짜 벽, 화면 밖 플랫폼 등 눈에 잘 띄지 않는 위치에 숨겨져 있는
+  경우가 많습니다. 타일 경계가 어색한 지점이나 수상한 틈을 집중적으로 확인해
+  보세요.
+
+- **Q: 2편보다 난이도가 많이 올랐나요?**  
+  **A:** 점프 타이밍이 더 빡빡하고 함정 밀도가 높아졌기 때문에, 특정 구간을 반복해
+  연습하는 것이 좋습니다.
+
+- **Q: 메달/기록용으로 스테이지를 빠르게 다시 돌 수 있나요?**  
+  **A:** 대부분 메뉴에서 빠른 재시작이 가능하므로, 최적 루트를 찾으며 여러 번
+  도전해 보세요.

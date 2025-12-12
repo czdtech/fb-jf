@@ -1,42 +1,36 @@
 ---
+title: "Low's Adventures 2"
+description: "レトロプラットフォーマー続編：コンパクトなステージを走ってジャンプし、キーと秘密を見つけ、タイムチャレンジを打ち負かします。"
+iframeSrc: "https://previews.customer.envatousercontent.com/files/489323722/index.html"
+thumbnail: "/new-images/lows-adventures-2.jpg"
+urlstr: "lows-adventures-2"
+score: "3.6/5  (671 votes)"
+tags: ["platformer", "adventure"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: lows-adventures-2
-title: '[JA TRANSLATION NEEDED] Low''s Adventures 2'
-description: >-
-  [JA TRANSLATION NEEDED] Retro platformer sequel: run‑and‑jump through compact
-  stages, find keys and secrets, and beat timed challenges.
-iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
-thumbnail: /new-images/lows-adventures-2.jpg
-tags:
-  - platformer
-  - adventure
-score: 3.6/5  (671 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Low's Adventures 2は、隠されたキー、壊れるブロック、軽量パズルを備えた短い、昔ながらのプラットフォームレベルを提供します。精密なジャンプと敵パターンがルートを定義します。オプションのタイムメダルは、効率的なクリアとシークレットパスを報います。
 
+### 遊び方
+- 出口を開くためのキー/スイッチをスカウトします。
+- 敵のサイクルを学び、次にメダルのためにステージをスピードルート化します。
+- 秘密のためにひび割れたタイルと代替パスを検索します。
 
-### Overview
-[JA TRANSLATION NEEDED] Low’s Adventures 2 delivers short, old‑school platforming levels with hidden keys, breakable blocks, and lightweight puzzles. Precision jumps and enemy patterns define the route; optional time medals reward efficient clears and secret paths.
+### 操作方法
+- 矢印/WASDで移動/ジャンプ。攻撃/インタラクトはホストによって異なります。
 
-### How to Play
-- Scout for keys/switches to open exits.
-- Learn enemy cycles, then speed‑route stages for medals.
-- Search for cracked tiles and alternate paths for secrets.
+### ヒント
+- 距離を延ばすためにプラットフォームエッジでジャンプをバッファします。
+- 可能な場合、敵の頭をスプリングボードとして使用します。
+- レイアウトを知ったら、より速いルートのためにリプレイします。
 
-### Controls
-- Arrows/WASD to move/jump; attack/interact varies by host.
-
-### Tips
-- Buffer jumps at platform edges to extend distance.
-- Use enemy heads as springboards when possible.
-- Replay for faster routes once you know layouts.
-
-### FAQ
-- Q: How do I reach hidden rooms in this game?  
-[JA TRANSLATION NEEDED]   A: Look for cracked blocks and off‑screen ledges; try ceiling seams.
-- Q: Does the game time my clears?  
-[JA TRANSLATION NEEDED]   A: Many hosts display timers and medal thresholds.
-- Q: Are there checkpoints in longer stages?  
-[JA TRANSLATION NEEDED]   A: Select levels include mid‑stage checkpoints.
-
+### よくある質問 (FAQ)
+- **Q: このゲームで隠し部屋に到達するにはどうすればよいですか？**  
+  A: ひび割れたブロックと画面外のレッジを探します。天井の継ぎ目を試してください。
+- **Q: ゲームは私のクリアをタイムしますか？**  
+  A: 多くのホストはタイマーとメダルしきい値を表示します。
+- **Q: より長いステージにチェックポイントはありますか？**  
+  A: 一部のレベルには中間ステージチェックポイントが含まれます。

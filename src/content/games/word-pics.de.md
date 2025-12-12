@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: word-pics
-title: '[DE] Word Pics'
+title: Word Pics
 description: >-
-  [DE] Guess the word that connects the two pictures in Word Pics, a fun and
-  addictive word puzzle game.
+  Errate in Word Pics das Wort, das zwei Bilder verbindet – ein leicht zu
+  lernendes, aber süchtig machendes Bilder‑Worträtsel.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/word-pics.jpg
 tags:
@@ -15,29 +15,34 @@ score: 4.4/5 (2150 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
+
+Word Pics ist ein Wortpuzzle, bei dem du aus zwei Bildern auf ein gemeinsames Wort oder eine kurze Phrase schließen musst. Die Motive geben dir Hinweise auf Bedeutung, Klang oder Wortbestandteile. Das Spiel ist leicht verständlich, aber fordert deine Kombinationsgabe und dein Sprachgefühl.
+
+### Spielstrategie & Walkthrough
+
+1. **Bilder genau analysieren:** Schau dir beide Bilder in Ruhe an und überlege, welcher Begriff, welcher Ort oder welches Konzept beide Motive verbindet.
+2. **Wort eingeben:** Tippe das Wort, das deiner Meinung nach beide Bilder beschreibt, über die angebotenen Buchstaben ein.
+3. **Hinweise nutzen:** Wenn du nicht weiterkommst, kannst du Hinweise einsetzen – etwa überflüssige Buchstaben entfernen, einen Buchstaben aufdecken oder eines der Bilder austauschen.
+4. **Modi wechseln:** Einige Versionen bieten z. B. einen Expertenmodus mit verschwindenden Bildern oder einen Mehrspielermodus, in dem du gegen andere rätselst.
+
+### Steuerung
+
+- **Tastatur:** Gib die Buchstaben des gesuchten Wortes direkt ein.
+- **Maus/Touch:** Nutze Maus oder Touchscreen, um Buchstaben anzutippen, Menüs zu bedienen oder Hinweise zu aktivieren.
+
+### Häufige Fragen (FAQ)
 
 
+- **A:** The game has different modes, including an expert mode for a greater challenge. The puzzles also get progressively more difficult as you advance.
 
-### Detailed Game Introduction
+    - **Q: Are there different difficulty levels?**
 
-Word Pics is a word puzzle game where players guess a single word or phrase based on two picture clues. The game is designed to be fun, addictive, and a great way to enhance your vocabulary.
+- **A:** You can use the in-game hints to help you. You can also earn coins by passing levels to buy more hints.
 
-### Gameplay Strategy & Walkthrough
+    - **Q: What if I can't guess the word?**
+**Was passiert, wenn mir kein Wort mehr einfällt?**  
+Nutze Hinweise oder überspringe das Rätsel, falls verfügbar. Durch gelöste Puzzles sammelst du meist Münzen, mit denen du weitere Hinweise kaufen kannst.
 
-1.  **[DE]** **Analyze the Pictures:** Look at both pictures and try to find a common theme or word that connects them.
-2.  **[DE]** **Guess the Word:** Type in the word that you think connects the two images.
-3.  **[DE]** **Use Hints:** If you're stuck, you can use hints. Hints can reduce the number of letters, reveal a letter, or even swap one of the images for a new one.
-4.  **[DE]** **Game Modes:** The game offers different modes, including a classic mode, an expert mode with disappearing pictures, and a multiplayer mode to challenge other players.
-
-### Controls Guide
-
-*   **[DE]** **Keyboard:** Use the keyboard to type in the letters of the word.
-*   **[DE]** **Mouse/Touch:** Use the mouse or touch screen to interact with the game's menus and hints.
-
-### Frequently Asked Questions (FAQ)
-
-*   **[DE]** **Q: What if I can't guess the word?**
-    *   **[DE]** **A:** You can use the in-game hints to help you. You can also earn coins by passing levels to buy more hints.
-*   **[DE]** **Q: Are there different difficulty levels?**
-    *   **[DE]** **A:** The game has different modes, including an expert mode for a greater challenge. The puzzles also get progressively more difficult as you advance.
-
+**Gibt es unterschiedliche Schwierigkeitsgrade?**  
+Ja, mit steigender Stufe werden die Verknüpfungen zwischen den Bildern abstrakter, und in speziellen Modi steigt der Anspruch zusätzlich.

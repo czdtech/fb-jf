@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: tiles-of-egypt
-title: '[ES] Tiles of Egypt'
+title: Tiles of Egypt - Tríos en el antiguo Egipto
 description: >-
-  [ES] Journey to ancient Egypt in this triple-tile matching puzzle. Select
-  three identical, unblocked tiles to clear them from the board. Plan your moves
-  to solve the puzzle before you run out of space!
+  Viaja al antiguo Egipto en este rompecabezas de fichas triples. Selecciona
+  tres fichas idénticas y desbloqueadas para limpiarlas del tablero y planifica
+  cada movimiento antes de quedarte sin espacio.
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/tiles-of-egypt.jpg
@@ -17,34 +17,30 @@ score: 4.4/5  (2350 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Tiles of Egypt es un rompecabezas estratégico de fichas triples con un cautivador tema del antiguo Egipto. Debes despejar un tablero lleno de losetas decoradas, seleccionando tres fichas iguales que se envían a la bandeja inferior. Cuando se juntan, desaparecen. El reto está en limpiar todo el tablero sin rebasar el espacio limitado de la bandeja.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  La regla de tres: todo gira en torno a formar grupos de tres. Solo al reunir tres fichas idénticas podrás eliminarlas.
+2.  Espacio limitado: la bandeja inferior suele ofrecer unos pocos huecos (a menudo siete). Si los llenas sin completar tríos, la partida termina, así que es el núcleo de la dificultad.
+3.  Piensa varios pasos por delante: no pulses el primer trío que veas. Observa qué fichas destapas debajo y prioriza los movimientos que abran más opciones de futuro.
+4.  Usa la bandeja como búfer: puedes guardar fichas que aún no formen trío mientras buscas las otras dos. Eso sí, evita saturarla con demasiados tipos distintos o te quedarás sin combinaciones posibles.
 
-Tiles of Egypt is a strategic, triple-tile matching puzzle game with a captivating ancient Egyptian theme. The game challenges you to clear a board stacked with intricately designed tiles. To do this, you must select three identical tiles and place them in a collection tray at the bottom. Once three matching tiles are in the tray, they disappear. The goal is to clear the entire board, but you must plan carefully, as the collection tray has limited space.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+El juego se maneja con clics o toques:
 
-1.  **[ES]** **The Rule of Three:** The entire game is about matching tiles in sets of three. You must select three identical tiles to remove them.
-2.  **[ES]** **Limited Tray Space:** Your collection tray at the bottom can only hold a certain number of tiles (usually seven). If you fill it up without making a match, you lose the game. This is the central challenge.
-3.  **[ES]** **Think Ahead:** Don't just click on the first available match. Look at the tiles underneath and try to prioritize matches that will uncover the most new tiles. This will give you more options and prevent you from getting stuck.
-4.  **[ES]** **Use the Tray as a Buffer:** You can place tiles in the tray that don't immediately form a match. Use this to your advantage to temporarily store a tile while you dig for the other two you need. But be careful not to fill the tray with too many different types of tiles.
+*   **Seleccionar ficha:** haz clic en cualquier ficha descubierta del tablero para enviarla a la bandeja inferior.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-The game is played with simple clicks or taps.
+*   **Q: ¿Cuál es el objetivo del juego?**
+    *   **A:** Vaciar el tablero reuniendo las fichas en tríos dentro de la bandeja.
 
-*   **[ES]** **Select a Tile:** Click on any uncovered tile on the board to move it to the collection tray below.
+*   **Q: ¿Por qué no puedo pulsar una ficha?**
+    *   **A:** Solo puedes seleccionar fichas de la capa superior que no estén cubiertas por otras. Primero tienes que despejar las que hay encima.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[ES]** **Q: What is the goal of the game?**
-    *   **[ES]** **A:** To clear all the tiles from the board by collecting them in sets of three in your tray.
-
-*   **[ES]** **Q: Why can't I click on a tile?**
-    *   **[ES]** **A:** You can only select tiles that are on the top-most layer and are not covered by any other tile. You must clear the tiles above to access the ones below.
-
-*   **[ES]** **Q: What happens if my collection tray is full?**
-    *   **[ES]** **A:** If all the slots in your tray are filled and you cannot make a match of three, you are blocked and will lose the game. You must then restart the level.
-
+*   **Q: ¿Qué pasa si la bandeja de colección se llena?**
+    *   **A:** Si se ocupan todos los huecos y no puedes completar un trío, te quedas bloqueado y perderás la partida. Tendrás que reiniciar el nivel.

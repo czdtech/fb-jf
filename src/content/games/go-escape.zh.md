@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: go-escape
-title: '[ZH TRANSLATION NEEDED] Go Escape'
+title: "Go Escape 精準房間脫出"
 description: >-
-  [ZH TRANSLATION NEEDED] Go Escape is a precise escape‑platformer — time jumps,
-  read traps, and thread safe routes through compact rooms.
+  Go Escape 是一款講究精準操作的房間脫出平台遊戲——你要掌握跳躍時機、讀懂陷阱節奏，
+  在小巧卻充滿機關的房間中找出最安全的逃脫路線。
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/go-escape.png
 tags:
@@ -18,29 +18,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and timed gates demand crisp inputs and patient reads. Levels are short but punishing; the fun lies in mastering each room’s rhythm, then executing a clean run.
+《Go Escape》是一款風格極簡的房間式平台脫出遊戲，關卡由尖刺、移動鋸片與定時開關的門組成，
+需要非常精準的按鍵輸入與耐心觀察。每一個房間都不長，但失誤成本很高——
+真正的樂趣在於先看懂房間的節奏，之後用一口氣乾淨跑完整個路線。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Read cycles: Watch a full trap cycle before committing; move on predictable beats.
-2.  [ZH TRANSLATION NEEDED] Short hops: Prefer small taps for precision over full presses that overshoot.
-3.  [ZH TRANSLATION NEEDED] Buffer inputs: If supported, press slightly early to catch platform windows.
-4.  [ZH TRANSLATION NEEDED] Route safety: Take slower, safer lanes first for consistent clears.
-5.  [ZH TRANSLATION NEEDED] Checkpoint mindset: Mentally segment rooms; reset focus after each success.
+
+1.  **先觀察陷阱循環：** 在剛進房間時先別急著亂跳，靜觀一整輪陷阱運作週期，
+    找出最安全的節奏點再動身。
+2.  **多用短跳：** 儘量以輕點、短跳為主，比全力長跳更好控制落點，
+    對狹窄平台與貼近尖刺的空隙尤其重要。
+3.  **預輸入（Buffer）：** 若遊戲支援，可以稍早按下跳躍鍵，角色會在下一個可跳時機自動觸發，
+    對節奏緊湊的平台特別有幫助。
+4.  **優先選安全路線：** 若房間有多條路徑，先走看起來稍慢但相對安全的路，
+    等熟悉後再嘗試需要高操作的捷徑。
+5.  **心理檢查點：** 心裡把房間切成幾個小段，每通過一段就給自己一個「小通關」的感覺，
+    可以減少連續失誤帶來的挫折感。
 
 ### Controls Guide
 
-- Move/Jump: Arrows/WASD + Space; some levels add wall‑jump/double‑jump.
+- 移動／跳躍：方向鍵或 WASD 搭配空白鍵（依託管版本而定）；
+- 部分關卡可能加入牆跳或二段跳等額外機制，會在遊戲內做提示。
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep clipping traps — how to stop?
-  
-[ZH TRANSLATION NEEDED]   A: You’re moving on guesses. Watch cycles, count beats, and move only on consistent windows.
+- 問：我總是擦到陷阱邊緣，有什麼辦法改善？  
+  答：多半是照「感覺」亂衝，建議重新觀察陷阱循環，數拍子找出固定節奏，
+  只在最穩的時間窗內移動，而不是賭反應。
 
-- Q: Any tip for narrow gaps?
-  
-[ZH TRANSLATION NEEDED]   A: Use lightweight taps and approach from flatter angles.
+- 問：超窄縫隙要怎麼過？  
+  答：用非常輕的點按來製造小跳，並盡量從較平的角度接近縫隙，
+  避免高角度跌落導致橫向位移太大。
 
-- Q: Is there a timer?
-  
-[ZH TRANSLATION NEEDED]   A: Many rooms are untimed; consistency beats speedruns until you learn layouts.
+- 問：有時間限制嗎？  
+  答：多數房間沒有硬性計時，與其一開始就想速度通關，不如先穩定掌握路線，
+  之後熟悉地形再去追求極速紀錄。

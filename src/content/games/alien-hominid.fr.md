@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: alien-hominid
-title: '[FR] Alien Hominid'
-description: >-
-  [FR] The ultimate guide for the classic run-and-gun shooter, Alien Hominid.
-  Find detailed strategies, controls, and FAQs to help you master this
-  challenging side-scroller from The Behemoth.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
+title: "Alien Hominid"
+description: "Alien Hominid est un run and gun 2D ultra nerveux : apprends à esquiver, creuser, mordre tes ennemis et utiliser tout l’arsenal de l’extraterrestre pour survivre aux vagues d’agents."
+iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
 thumbnail: /new-images/alien-hominid.jpg
 tags:
   - shooting
@@ -15,59 +12,58 @@ score: 5.0/5  (126 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Alien Hominid* est un jeu de tir 2D à défilement horizontal développé par The Behemoth. Né comme jeu Flash sur Newgrounds au début des années 2000, il est devenu culte grâce à son style cartoon dessiné à la main, son humour absurde et sa difficulté élevée façon arcade.
 
+Tu incarnes un petit alien jaune dont le vaisseau a été abattu par le FBI. Coincé sur Terre, tu dois affronter des vagues d’agents secrets, de soldats et de boss gigantesques pour récupérer ton vaisseau et t’échapper. Le gameplay s’inspire de titres comme *Contra* ou *Metal Slug* : beaucoup d’ennemis, des tirs partout, des morts en un coup et des combats de boss à patterns.
 
-### Detailed Game Introduction
+### Guide de jeu et stratégies
 
-Alien Hominid is a fast-paced 2D side-scrolling run-and-gun shooter developed by The Behemoth. It originated as a popular Flash game on the Newgrounds portal in 2002 before being expanded into a full console release for PlayStation 2, Nintendo GameCube, and Xbox. The game is renowned for its charming, hand-drawn art style by Dan Paladin, its chaotic and challenging gameplay, and its quirky sense of humor.
+*Alien Hominid* est exigeant : il demande réflexes, mémorisation et maîtrise des mouvements spéciaux de l’alien.
 
-The premise is simple: players control a small, yellow alien whose UFO has been shot down by the FBI. Now stranded on Earth, the alien must fight its way through waves of secret agents, KGB soldiers, and various bosses to recover its spaceship and escape the planet. The gameplay is heavily inspired by classic arcade shooters like *Contra* and *Metal Slug*, featuring one-hit kills, relentless waves of enemies, and intense boss battles that demand precision and pattern recognition.
+#### 1. Le mouvement, c’est la survie
 
-### Gameplay Strategy & Walkthrough
+- **Ne reste jamais immobile :** rester sur place, c’est mourir. Saute, cours et roule en permanence pour être une cible difficile.  
+- **Maîtrise l’esquive :** la roulade et l’accroupissement permettent d’éviter la majorité des balles. Apprends à les enchaîner pour traverser les tirs serrés.
 
-Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memorization, and mastering the alien's full moveset.
+#### 2. Utilise tout ton arsenal
 
-#### 1. Movement is Survival
-*   **[FR]** **Never Stop Moving:** Standing still is the quickest way to die. Always be jumping, running, or rolling to make yourself a harder target.
-*   **[FR]** **Master the Roll/Duck:** You can duck under most standard bullets. Tapping the duck button while moving will initiate a roll, which is a fantastic evasive maneuver to dodge incoming fire or quickly reposition.
+- **Creuser pour te cacher :** sur certains sols, tu peux te terrer sous terre. Pendant que tu es enterré, tu es invulnérable et tu peux faire surgir des ennemis pour les éliminer.  
+- **Monter sur les ennemis :** saute sur la tête d’un agent pour t’en servir de bouclier vivant ou lui croquer la tête pour une élimination instantanée.  
+- **Attaque au corps‑à‑corps :** ton couteau est très utile quand un ennemi est trop proche et que tu veux te frayer un passage rapidement.  
+- **Grenades :** garde‑les pour les groupes d’ennemis ou pour entamer sérieusement la vie des boss.
 
-#### 2. Use Your Full Arsenal
-*   **[FR]** **The Power of Digging:** One of the most critical survival skills is the ability to dig underground. While underground, you are completely invulnerable. You can use this to dodge massive bullet storms or to pull enemies underground for an instant kill.
-*   **[FR]** **Ride 'Em, Alien!:** You can jump on top of most enemies' heads. From there, you can choose to "ride" them, using them as a human shield, or perform a "chomp" to bite their head off for a stylish kill. This is both a defensive and offensive tactic.
-*   **[FR]** **Melee When Necessary:** Your knife is surprisingly effective for close-quarters combat, especially when you are overwhelmed and need to clear space immediately.
-*   **[FR]** **Grenades are Your Best Friend:** Grenades deal significant area-of-effect damage. Save them for large groups of enemies or for dealing heavy damage to bosses.
+#### 3. Conseils de combat généraux
 
-#### 3. General Combat Tips
-*   **[FR]** **Charged Shots:** Holding down the fire button charges your blaster for a more powerful shot that can pierce through multiple enemies. However, you cannot move while charging, making you vulnerable. Use it strategically when you have a clear opening.
-*   **[FR]** **Prioritize Threats:** Always identify and eliminate the most dangerous enemies first—usually those with rapid-fire weapons or who launch projectiles.
-*   **[FR]** **Learn Boss Patterns:** Every boss follows a strict attack pattern. The key to victory is observation. Spend your first few attempts learning their moves and identifying safe spots and attack windows. Don't get greedy; land a few shots and then prepare to dodge again.
+- **Tirs chargés :** en maintenant le bouton de tir, tu lances un tir chargé qui traverse plusieurs ennemis. Tu es cependant vulnérable pendant la charge, donc choisis bien le moment.  
+- **Priorise les menaces :** élimine en premier les ennemis à tir rapide ou ceux qui lancent des projectiles difficiles à esquiver.  
+- **Apprends les patterns de boss :** chaque boss suit un ensemble d’attaques répétitives. Observe quelques tentatives pour repérer les zones sûres et les fenêtres d’attaque, puis reste patient.
 
-### Controls Guide
+### Commandes
 
-Controls can vary slightly between the Flash version and console/HD versions, but the core functions remain the same.
+Les commandes varient légèrement selon la version, mais la logique reste la même :
 
-*   **[FR]** **Movement:** Arrow Keys / D-Pad / Analog Stick to move left and right.
-*   **[FR]** **Jump:** 'A' Key (Keyboard) / A or X Button (Controller).
-*   **[FR]** **Shoot:** 'S' Key (Keyboard) / X or Square Button (Controller). Hold to charge the shot.
-*   **[FR]** **Grenade:** 'D' Key (Keyboard) / B or Circle Button (Controller).
-*   **[FR]** **Duck/Roll:** Down Arrow Key / Down on D-Pad.
-*   **[FR]** **Special Moves:**
-    *   **[FR]** **Dig:** Press Down + Jump when on soft ground (dirt, sand).
-    *   **[FR]** **Melee Attack:** Get close to an enemy and press the Shoot button.
-    *   **[FR]** **Ride/Chomp:** Jump directly on top of an enemy's head.
+- **Déplacement :** flèches / stick analogique pour aller à gauche et à droite.  
+- **Saut :** touche dédiée (par exemple `A` sur clavier, bouton A/X sur manette).  
+- **Tir :** touche de tir (par exemple `S` sur clavier, bouton X/Carré sur manette) ; maintenir pour charger.  
+- **Grenade :** touche spéciale (par exemple `D` sur clavier, bouton B/Rond sur manette).  
+- **S’accroupir / rouler :** flèche bas ou bas sur la croix/stick.  
+- **Actions spéciales :**
+    - **Creuser :** bas + saut sur un sol approprié.
+    - **Mêlée :** tir au corps‑à‑corps quand tu es tout près d’un ennemi.
+    - **Monter / mordre :** saute sur la tête d’un ennemi pour le chevaucher ou le mordre.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: Why is Alien Hominid so difficult?**
-    *   **[FR]** **A:** The game's high difficulty is intentional, designed to emulate the challenge of classic 8-bit and 16-bit arcade games. The one-hit-kill system requires players to play with near-perfect execution.
+- **Q : Pourquoi le jeu est‑il si difficile ?**  
+    - **R :** La difficulté élevée est volontaire, dans l’esprit des jeux d’arcade 8‑16 bits. Les morts en un coup obligent à jouer proprement et à apprendre les niveaux par cœur.
 
-*   **[FR]** **Q: What is the difference between the original Flash game and the HD/console versions?**
-    *   **[FR]** **A:** The console and HD versions are greatly expanded. They feature more levels, additional enemies and bosses, improved graphics and sound, a 2-player co-op mode, and numerous mini-games and unlockable hats for your alien.
+- **Q : Différence entre la version Flash et les versions console/HD ?**  
+    - **R :** Les versions console et HD ajoutent plus de niveaux, d’ennemis et de boss, des graphismes et sons améliorés, un mode coop à deux joueurs et plusieurs mini‑jeux et éléments cosmétiques.
 
-*   **[FR]** **Q: How do I beat the final boss?**
-    *   **[FR]** **A:** The final boss is a multi-stage endurance fight. The key, like with all bosses, is to patiently learn the patterns of each phase. Focus on dodging first and only attack when you have a clear, safe opening.
+- **Q : Comment battre le boss final ?**  
+    - **R :** Le combat final se déroule en plusieurs phases. Le plus important est de maîtriser les patterns de chaque phase : concentre‑toi d’abord sur l’esquive, puis place quelques tirs sûrs dès que tu as une ouverture.
 
-*   **[FR]** **Q: Is *Alien Hominid Invasion* the same game?**
-    *   **[FR]** **A:** No. *Alien Hominid Invasion* is a modern follow-up and a "reimagining" of the original. It features co-op-focused, non-linear gameplay with rogue-lite elements, character progression, and different mechanics. It's a new game set in the same universe, not a remake.
-
+- **Q : Alien Hominid Invasion est‑il le même jeu ?**  
+    - **R :** Non. *Alien Hominid Invasion* est une réinterprétation moderne axée coop et progression rogue‑lite dans le même univers, mais avec niveaux et système différents.

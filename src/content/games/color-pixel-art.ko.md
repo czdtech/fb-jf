@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: color-pixel-art
-title: '[KO] Color Pixel Art Classic'
+title: Color Pixel Art Classic 컬러 픽셀 아트 클래식
 description: >-
-  [KO] Relax and unwind with this classic color-by-number pixel art game. Select
-  a color, find the corresponding number, and fill in the pixels to reveal a
-  beautiful piece of art.
+  Color Pixel Art Classic은 번호에 맞춰 색을 칠하며 픽셀 그림을 완성하는 색칠 퍼즐 게임입니다. 팔레트에서 색을 고르고,
+  같은 번호의 픽셀을 채워 나가며 차분하게 그림을 완성해 보세요.
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/color-pixel-art.png
 tags:
@@ -16,36 +15,58 @@ score: 4.6/5  (3000 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Color Pixel Art Classic은 픽셀로 이루어진 그림을 숫자에 따라 칠해 완성하는
+컬러링 퍼즐 게임입니다. 갤러리에서 마음에 드는 픽셀 이미지를 선택하면, 각 픽셀에
+번호가 표시되어 있고, 번호와 같은 색을 골라 채워 넣으면 조금씩 전체 그림이
+드러납니다.
 
+그림 실력이 없어도 번호만 따라가면 완성할 수 있기 때문에, 가볍게 머리를 비우고
+색칠하는 데 집중하기 좋은 힐링용 게임입니다.
 
+### 플레이 방법
 
-### Detailed Game Introduction
+1.  **이미지 선택하기**  
+    갤러리에서 색칠하고 싶은 픽셀 아트 이미지를 고릅니다. 난이도나 크기가 각기
+    다른 다양한 그림이 제공됩니다.
 
-Color Pixel Art Classic is a relaxing and satisfying color-by-number puzzle game. It allows you to choose from a wide variety of pixelated images and bring them to life with color. Each pixel in an image is numbered, corresponding to a specific color in your palette. By carefully filling in all the pixels, you will gradually reveal a beautiful and complete piece of pixel art. It's a perfect game for unwinding and expressing creativity without needing any artistic skill.
+2.  **색상 선택하기**  
+    화면 하단 팔레트에서 색 하나를 탭하면, 그 색에 대응하는 번호를 가진 픽셀들이
+    화면에서 하이라이트됩니다.
 
-### Gameplay Strategy & Walkthrough
+3.  **픽셀 채우기**  
+    확대해서 하이라이트된 칸을 눌러 하나씩 색을 채웁니다. 일부 버전에서는 드래그로
+    인접한 동일 번호 픽셀을 한 번에 채울 수도 있습니다.
 
-1.  **[KO]** **Choose an Image:** Start by browsing the gallery and selecting an image you'd like to color.
-2.  **[KO]** **Select a Color:** Tap on a color from the palette at the bottom of the screen. The game will highlight all the pixels on the grid that correspond to that color's number.
-3.  **[KO]** **Fill the Pixels:** Zoom in on the highlighted areas and tap each numbered pixel to fill it with the selected color. Many games allow you to click and drag to quickly fill in adjacent pixels of the same number.
-4.  **[KO]** **Complete the Picture:** Continue this process for every color in the palette. Once a color is fully filled in, it will often be grayed out or marked with a check, indicating you are done with that number. The puzzle is complete when every pixel has been colored.
+4.  **그림 완성하기**  
+    팔레트의 모든 색에 대해 같은 과정을 반복하면 그림이 완성됩니다. 모든 픽셀이
+    채워지면 완성된 픽셀 아트를 감상할 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-*   **[KO]** **Select Color:** Click or tap on a color in the palette at the bottom.
-*   **[KO]** **Fill Pixel:** Click or tap on the corresponding numbered pixel on the grid.
-*   **[KO]** **Zoom:** Use your mouse scroll wheel or pinch-to-zoom on a touch screen to zoom in and out, making it easier to find small pixels.
-*   **[KO]** **Pan:** Click and drag the image (when zoomed in) to move around the canvas.
+-   **색 선택:** 하단 팔레트의 색을 클릭/탭해 활성화합니다.
+-   **픽셀 채우기:** 그 색 번호가 적힌 픽셀을 클릭/탭하면 해당 칸이 색칠됩니다.
+-   **확대/축소:** 마우스 휠 또는 터치 스크린의 핀치 제스처로 확대/축소해 작은
+    픽셀을 쉽게 찾을 수 있습니다.
+-   **이동(팬):** 확대된 상태에서 화면을 드래그해 캔버스 위를 이동합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: How do I find all the pixels for a specific color?**
-    *   **[KO]** **A:** When you select a color from the palette, the game will automatically highlight all the pixels you need to fill with that color. This makes them much easier to spot.
+-   **Q. 특정 색의 픽셀을 다 찾기 어렵습니다.**  
+    A. 팔레트에서 색을 선택하면, 대부분의 버전에서 해당 번호 픽셀을 자동으로
+    강조 표시해 줍니다. 확대해 하이라이트 주변을 천천히 살펴보세요.
 
-*   **[KO]** **Q: I can't find the last few pixels of a color. What should I do?**
-    *   **[KO]** **A:** Zoom in! The remaining pixels are often very small or located in tricky spots. Zooming in as much as possible is the best way to find them.
+    - **Q. 마지막 몇 픽셀을 못 찾아서 99%에서 막혔어요.**  
+    A. 최대한 확대해 그림 구석구석을 살펴보는 것이 가장 확실합니다. 특히
+    배경이나 눈·입 같은 작은 디테일에 한두 칸이 남아 있는 경우가 많습니다.
 
-*   **[KO]** **Q: Is there a time limit or a way to lose?**
-    *   **[KO]** **A:** No. This is a purely relaxing game. There are no timers, scores, or penalties. You can take as much time as you need and even leave a puzzle and come back to it later.
+-   **Q. 시간 제한이나 패배 조건이 있나요?**  
 
+    - **A:** No. This is a purely relaxing game. There are no timers, scores, or penalties. You can take as much time as you need and even leave a puzzle and come back to it later.
+
+- **Q: Is there a time limit or a way to lose?**
+
+    - **A:** Zoom in! The remaining pixels are often very small or located in tricky spots. Zooming in as much as possible is the best way to find them.
+    A. 없습니다. 순수하게 휴식을 위한 게임으로, 타이머나 점수, 패널티가 없고,
+    언제든 중간에 나갔다가 다시 이어서 색칠할 수 있습니다.

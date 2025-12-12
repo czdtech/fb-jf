@@ -1,71 +1,39 @@
 ---
+title: "Mini Golf World"
+description: "Mini Golf Worldは楽しいミニゴルフゲームです。クリエイティブなコースをプレイし、障害物をナビゲートし、パーを狙い、完璧なショットをマスターします。"
+iframeSrc: "https://minigolfworld.h5games.usercontent.goog/v/16n1ahfc60jgg/"
+thumbnail: "/new-images/mini-golf-world.png"
+urlstr: "mini-golf-world"
+score: "4.3/5  (2234 votes)"
+tags: ["casual", "sports"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: mini-golf-world
-title: '[JA TRANSLATION NEEDED] Mini Golf World'
-description: >-
-  [JA TRANSLATION NEEDED] Mini Golf World polishes putt‑putt — read slopes, bank
-  rails, and master pace for playful holes across themed worlds.
-iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
-thumbnail: /new-images/mini-golf-world.png
-tags:
-  - sports
-  - puzzle
-  - casual
-score: 4.1/5  (1903 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Mini Golf Worldは、さまざまなクリエイティブなコースを通してあなたを連れて行きます。障害物、ランプ、トリックショットで各ホールをナビゲートします。パワーと角度を調整して、最小ストロークでボールをホールに入れます。
 
-### Detailed Game Introduction
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] Mini Golf World is a crisp mini‑golf collection with ramps, windmills, and trick rails. Good scores come from precise pace control, smart bank lines, and patient timing on moving hazards.
+1.  **パワーを調整:** ソフトショットは多くの場合、ハードヒットよりも良いです。
+2.  **角度を計画:** バウンスとリバウンドを予測します。
+3.  **障害物を学ぶ:** 各障害物がボールにどのように影響するかを理解します。
+4.  **忍耐強く:** パーよりも完璧なショットを目指します。
+5.  **練習:** 繰り返しがショットを改善します。
 
-### Gameplay Strategy & Walkthrough
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] 1.  Cup‑rim pace: Under‑hit near the hole to avoid lip‑outs.
-[JA TRANSLATION NEEDED] 2.  Bank lines: Use ~45° rails to redirect into corners consistently.
-[JA TRANSLATION NEEDED] 3.  Hazard cycles: Watch one full cycle before hitting through moving parts.
-[JA TRANSLATION NEEDED] 4.  Two‑putt logic: Set up a tap‑in instead of risking a wild hole‑in‑one.
-[JA TRANSLATION NEEDED] 5.  Camera scouting: Pan/zoom to pre‑read slopes and hidden rails.
+- ドラッグして角度を狙い、パワーを設定します。
+- リリースしてショットします。
+- 一部のバージョンには、風/地形の要因があります。
 
-### Controls Guide
+### よくある質問 (FAQ)
 
-- Aim with cursor; pull back to set power; release to putt; reset if stuck.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Why do I rim out?
-  
-[JA TRANSLATION NEEDED]   A: Too much pace or a bad entry angle — slow down and adjust approach.
-
-- Q: Any universal bank tip?
-  
-[JA TRANSLATION NEEDED]   A: Aim slightly inside 45° to compensate for speed loss on rails.
-
-- Q: Is there a stroke limit?
-  
-
-
-
-
-
-- Q: Why do I rim out?
-### よくある質問（FAQ）
-- Aim with cursor; pull back to set power; release to putt; reset if stuck.
-### コントロールガイド
-- Camera scouting: Pan/zoom to pre‑read slopes and hidden rails.
-[JA TRANSLATION NEEDED]   A: Many holes cap strokes; plan two‑putts to stay under par.
-
-
-
-
-
-
-A: Many holes cap strokes; plan two‑putts to stay under par.
-- Q: Is there a stroke limit?
-A: Aim slightly inside 45° to compensate for speed loss on rails.
-- Q: Any universal bank tip?
-
-
-A: Many holes cap strokes; plan two‑putts to stay under par.
+- **Q: ストロークに制限はありますか？**  
+  A: 通常いいえ、しかし少ないストロークがより良いスコアを意味します。
+- **Q: コースをスキップできますか？**  
+  A: 一部のバージョンでは可能ですが、順番にプレイすることが推奨されます。
+- **Q: マルチプレイヤーモードはありますか？**  
+  A: 一部のバージョンはローカルまたはオンラインマルチプレイヤーを提供します。

@@ -1,49 +1,42 @@
 ---
 locale: fr
-urlstr: light-line
-title: '[FR] Light Line'
-description: >-
-  [FR] Light Line is a luminous path‑drawing puzzler — connect nodes without
-  crossings, manage energy, and solve with elegant routes.
-iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
-thumbnail: /new-images/light-line.png
-tags:
-  - puzzle
-  - thinky
-score: 4.2/5  (2077 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+urlstr: "light-line"
+title: "Light Line"
+description: "Light Line est un puzzle de tracé de chemins lumineux : relie des nœuds sans croisement, gère l’énergie et résous les grilles avec des trajectoires élégantes."
+iframeSrc: "https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/"
+thumbnail: "/new-images/light-line.png"
+tags: ["puzzle", "thinky"]
+score: "4.2/5  (2077 votes)"
+developer: ""
+releaseDate: 2025-10-18
 ---
 
+### Présentation détaillée
 
+Light Line te demande de tracer des chemins qui relient des nœuds lumineux sans jamais se croiser, tout en respectant différentes contraintes : nombre de virages maximal, longueur limitée, cases de passage obligatoires ou interrupteurs qui ouvrent et ferment des portes. Les niveaux avancés ajoutent des plateaux à plusieurs couches où l’énergie peut être partagée entre les lignes, ce qui te pousse à réfléchir en termes de réseau plutôt que de simple chemin.
 
+### Stratégies de jeu et progression
 
-### Detailed Game Introduction
+1.  **Commence par les goulots d’étranglement :** remplis d’abord les couloirs étroits, car ils imposent souvent un chemin unique.
+2.  **Priorise les nœuds critiques :** concentre‑toi sur les nœuds avec peu de sorties pour réduire les branches possibles dès le début.
+3.  **Économise les virages :** utilise de longues lignes droites et garde tes virages pour les coins où ils sont vraiment nécessaires.
+4.  **Synchronise les portes :** planifie les chemins qui activent les interrupteurs de façon à ce que les portails soient déjà ouverts quand ta ligne arrive.
+5.  **Corrige tôt :** dès que tu vois que deux chemins vont forcément se croiser, annule quelques coups et repense ton plan plutôt que de t’entêter.
 
-Light Line tasks you with drawing non‑overlapping paths that connect glowing nodes while obeying constraints: maximum turns, limited line length, mandatory pass‑throughs, or switches that toggle gates. Later puzzles add layered boards with energy sharing between lines.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Fais glisser pour tracer ou effacer des lignes.
+- Appuie sur les interrupteurs pour ouvrir/fermer les portes.
+- Zoome/dézoome et déplace la vue sur les grilles les plus denses.
 
-1.  **[FR]** Start with bottlenecks: Fill narrow corridors first; they force unique routes.
-2.  **[FR]** Degree logic: Prioritize nodes with few exits; resolve them to reduce branching.
-3.  **[FR]** Turn economy: Use long straight runs and save turns for corners that require them.
-4.  **[FR]** Gate timing: Plan switch routes so gates open before line arrival.
-5.  **[FR]** Backtrack early: Undo as soon as crossings become inevitable.
+### Foire aux questions (FAQ)
 
-### Controls Guide
+- Q : Mes lignes se croisent tout le temps, comment l’éviter ?  
+  R : Pose d’abord les chemins dans les couloirs étroits, puis route les lignes restantes autour d’eux. Évite les spirales qui enferment de grandes zones.
 
-- Drag to draw/erase lines; tap switches; zoom/pan on dense boards.
+- Q : Les déplacements en diagonale sont‑ils autorisés ?  
+  R : La plupart des niveaux se jouent sur une grille orthogonale (haut/bas/gauche/droite). Vérifie toujours les règles du niveau.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: Lines always collide — how to avoid?
-
-A: Lay corridors first and route remaining lines around them; avoid spirals that trap space.
-
-- Q: Are diagonal moves allowed?
-
-A: Usually grid‑orthogonal; check the level rules.
-
-- Q: Is there a hint system?
-
-A: Many versions provide step or full‑path hints.
+- Q : Y a‑t‑il un système d’indices ?  
+  R : Beaucoup de versions proposent des indices étape par étape ou des solutions complètes, mais essaie d’abord de résoudre la grille par toi‑même pour progresser.
 

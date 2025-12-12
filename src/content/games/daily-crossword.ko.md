@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: daily-crossword
-title: '[KO] Daily Crossword'
+title: "Daily Crossword 데일리 크로스워드"
 description: >-
-  [KO] Daily Crossword delivers a fresh crossword each day: solve across and
-  down clues to fill the grid.
+  매일 새로운 십자말 퍼즐을 풀 수 있는 Daily Crossword입니다. 가로·세로 힌트를
+  이용해 격자를 채우고, 교차 글자를 통해 답을 확인해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/daily-crossword.jpg
 tags:
@@ -15,21 +15,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### 개요
 
+Daily Crossword는 미국식 규칙을 따르는 일간 크로스워드 퍼즐을 매일 1개씩 제공하는
+게임입니다. 가로(Across)와 세로(Down) 힌트에 맞는 단어를 격자에 채워 넣으면, 모든
+글자가 서로 교차하면서 정답을 검증해 줍니다. 많은 사이트에서 타이머, 힌트 목록,
+정답 확인/공개 도구 등을 함께 제공해 가볍게 두뇌 운동을 하기 좋습니다.
 
+### 플레이 방법
 
-### Overview
-Daily Crossword provides a new crossword each day with familiar American‑style rules: fill Across and Down answers so all letters cross‑check. Many hosts include timers, clue lists, and tools to check or reveal entries. 
+- 힌트 목록에서 하나를 선택하거나 격자의 칸을 클릭/탭한 뒤, 해당 단어에 들어갈
+  알파벳을 입력합니다.  
+- 이미 채워진 가로·세로 단어와 교차하는 글자를 이용해 애매한 답을 확인하고,
+  긴 단어나 어려운 힌트는 주변이 어느 정도 채워진 뒤에 다시 도전하세요.  
+- 일부 버전에서는 연속 출석(데일리 스트릭)이나 리더보드 기능을 제공해, 매일
+  기록을 갱신하는 재미를 더해 줍니다.  
 
-### How to Play
-- Select a clue or cell and type letters to fill the entry; arrow keys move the cursor.
-- Use crossings to confirm uncertain answers; return to long entries later.
-- Daily streaks and leaderboards may be supported depending on the host.
+### 조작법
 
-### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab switches direction or advances (site‑dependent).
+- 키보드 A–Z: 글자 입력  
+- 방향키: 격자 내에서 커서 이동  
+- `Backspace`: 직전 글자 삭제  
+- `Enter` / `Tab`: 방향 전환 또는 다음 힌트로 이동(사이트에 따라 동작이 다를 수 있음)  
 
-### Tips and Strategies
-- Start with short/easy clues, then expand using crossings.
-- Use Check tools sparingly to avoid time penalties if a host tracks time.
+### 팁 & 전략
+
+- 먼저 짧고 쉬운 힌트부터 풀어 교차 글자를 많이 확보한 뒤, 난도가 높은 단어로
+  퍼져 나가듯 확장해 나가세요.  
+- 타이머가 있는 모드에서는 `Check` 같은 정답 확인 기능을 너무 자주 사용하면
+  시간 패널티가 있을 수 있으니, 막혔을 때 최소한으로만 활용하는 편이 좋습니다.  
 

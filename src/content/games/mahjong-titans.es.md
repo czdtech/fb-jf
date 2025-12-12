@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: mahjong-titans
-title: '[ES] Mahjong Titans'
+title: "Mahjong Titans - Solitario de fichas clásico"
 description: >-
-  [ES] Tile‑matching solitaire: clear pairs of identical tiles from layered
-  layouts until the board is empty; plan around blocks.
+  Solitario de emparejar fichas: elimina parejas de fichas idénticas en diseños
+  por capas hasta vaciar el tablero; planifica para evitar bloqueos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
 thumbnail: /new-images/mahjong-titans.jpg
 tags:
@@ -16,28 +16,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Descripción general
+Mahjong Titans es un solitario de emparejar fichas con fichas de mahjong. Solo
+las fichas libres —sin otra ficha encima y con al menos un lateral descubierto—
+se pueden emparejar y retirar. El reto está en detectar las parejas que abren
+nuevos movimientos y evitar caer en posiciones sin salida.
 
-### Overview
-Mahjong Titans is a tile‑matching solitaire using mahjong tiles. Only free tiles—those with no tile on top and at least one open side—can be paired and removed. The challenge is to spot pairs that open future moves and avoid deadlocks.
+### Cómo jugar
+- Elimina parejas de fichas libres idénticas; las fichas de estaciones y flores
+  suelen poder emparejarse dentro de su propio grupo.
+- Trabaja desde la parte superior y los bordes hacia el centro para abrir
+  espacio.
+- Usa con moderación las funciones limitadas de deshacer y pista.
 
-### How to Play
-- Remove matching pairs of free tiles; seasons/flowers match across sets.
-- Work from the top and outer edges inward to open space.
-- Use limited undos/hints sparingly.
+### Controles
+- Selecciona parejas con ratón o táctil; los botones de pista y deshacer
+  dependen de la plataforma.
 
-### Controls
-- Mouse/touch select pairs; hint/undo buttons vary by host.
-
-### Tips
-- Prioritize pairs that unblock many tiles.
-- Avoid pairing deep stacks too early unless it opens a key lane.
-- Track duplicate tiles to prevent isolating a singleton.
+### Consejos
+- Prioriza las parejas que desbloquean muchas fichas debajo o alrededor.
+- Evita emparejar demasiado pronto en pilas muy profundas salvo que abra un
+  pasillo importante.
+- Controla dónde están las copias de cada ficha para no dejar aislada una
+  ficha única.
 
 ### FAQ
-- Q: Which tiles count as free in Mahjong Titans?
-A: A tile with no tile on top and at least one side free (left or right).
-- Q: Can seasons and flowers match with any of their kind?
-A: Yes, any season matches any season; any flower matches any flower.
-- Q: How do I avoid unwinnable states?
-A: Keep multiple options open and avoid isolating unique tiles early.
-
+- P: ¿Qué fichas se consideran libres en Mahjong Titans?  
+  R: Aquellas que no tienen ninguna ficha encima y tienen al menos un lateral
+  libre (izquierda o derecha).
+- P: ¿Las estaciones y las flores se pueden emparejar entre sí?  
+  R: Sí, por lo general cualquier estación se puede unir con otra estación y
+  cualquier flor con otra flor.
+- P: ¿Cómo evito estados imposibles de ganar?  
+  R: Mantén siempre varias opciones abiertas y evita aislar fichas únicas en
+  las primeras jugadas.

@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: bubble-shooter-hd
-title: '[ZH TRANSLATION NEEDED] Bubble Shooter HD'
-description: >-
-  [ZH TRANSLATION NEEDED] Enjoy the classic and highly addictive Bubble Shooter
-  HD! Aim your bubble and match three or more of the same color to clear the
-  board.
+title: Bubble Shooter HD 高清泡泡射手
+description: 《Bubble Shooter HD 高清泡泡射手》是高清重制版经典泡泡龙，瞄准发射泡泡，与同色泡泡连成三个及以上即可消除 全盘。
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
 thumbnail: /new-images/bubble-shooter-hd.png
 tags:
@@ -17,31 +14,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 详细游戏介绍
 
-### Detailed Game Introduction
+*Bubble Shooter HD* 是经典泡泡消除玩法的高清版本。你的目标是通过发射彩色泡泡，将场上的泡泡与发射泡泡连成 **三个或以上同色** 的组合，从而将其消除，最终清空整个棋盘。
 
-[ZH TRANSLATION NEEDED] Bubble Shooter HD is a polished, high-definition version of the timeless bubble-popping puzzle game. The goal is to clear the playing field by forming groups of three or more like-colored bubbles. With its simple, intuitive gameplay, crisp graphics, and satisfying chain reactions, this game offers endless hours of strategic fun for players of all skill levels.
+游戏画面清晰、音效爽快，上手规则非常简单，但要稳定打出高分，则需要精准的瞄准与角度控制，以及对下一颗泡泡颜色的预判与规划。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Aim Carefully:** The game provides a guideline to help you aim. Use it to plan your shots precisely, especially for complex ricochet moves.
-2.  [ZH TRANSLATION NEEDED] **Bank Shots are Key:** Bounce bubbles off the side walls to get to hard-to-reach places. Mastering bank shots is crucial for tackling more advanced board layouts.
-3.  [ZH TRANSLATION NEEDED] **Go for the Top:** Prioritize clearing bubbles that are holding up other bubbles. By severing the connection at a high point, you can cause a large cascade of bubbles to fall, earning massive points and clearing the board faster.
-4.  [ZH TRANSLATION NEEDED] **Plan Ahead:** Pay attention to the color of the next bubble in your launcher. This allows you to plan two moves ahead and set up more effective combos.
-5.  [ZH TRANSLATION NEEDED] **Don't Waste Shots:** In many versions, a certain number of missed shots (shots that don't create a match) will cause a new row of bubbles to appear at the top, increasing the difficulty. Make every shot count!
+### 游戏策略与通关思路
 
-### Controls Guide
+1.  **利用辅助瞄准线精确对点**  
+    游戏会提供大致的瞄准线，可以用来预估泡泡的落点。对于需要反弹的复杂线路，也可以借此规划入射角，减少盲打。
 
-*   **Aim:** Move your mouse to aim the bubble launcher.
-*   **Shoot:** Click the left mouse button to fire a bubble.
+2.  **掌握侧墙反弹（Bank Shot）的技巧**  
+    想要击中被遮挡的泡泡，就必须学会利用侧墙反弹。让泡泡先撞到墙壁再折射到目标位置，是高阶布局中不可或缺的技巧。
 
-### Frequently Asked Questions (FAQ)
+3.  **优先拆掉“挂点”，制造大面积掉落**  
+    尽量先瞄准那些承担“悬挂”作用的高位泡泡，只要打断这些连接，上面一大串泡泡都会直接坠落，既能大量得分，又能快速清空棋盘。
 
-*   **Q: What is the objective of the game?**
-     *   **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.
+4.  **提前看下一颗泡泡的颜色**  
+    注意发射器中显示的下一颗泡泡颜色，等于你可以同时规划两步棋。很多时候可以先用当前泡泡铺路，为下一颗泡泡创造更好的消除位置。
 
-*   **Q: How do I get more points?**
-     *   **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
+5.  **避免“无效射击”，防止新增行压下来**  
+    在不少版本中，连续若干次没有形成消除（即无效射击），顶部就会下压一行新泡泡，让局面变得更加危险。因此要尽量做到“每发必消”，减少空枪。
 
-*   **Q: Can I swap the bubble in my shooter?**
-     *   **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
+### 操作指南
 
+*   **瞄准：** 移动鼠标控制发射器方向。  
+*   **发射：** 点击鼠标左键，将当前泡泡射出。  
+
+### 常见问题解答（FAQ）
+*   **问：游戏的目标是什么？****
+    *   答：** 目标是在不让泡泡压到底线的前提下，尽可能清空整个棋盘并获得高分。如果泡泡触达底线，游戏即告结束。
+*   **问：怎样才能获得更高分？****
+    *   答：** 一次性清除的大簇越大得分越高，尤其是能制造“连锁掉落”的消除——比如打掉高位连接点，导致大量悬挂泡泡一并坠落。
+*   **问：能不能交换当前泡泡和下一颗？****
+    *   答：** 视具体实现而定，有些版本会提供一个“交换”按钮，让你在当前泡泡与下一颗泡泡之间切换；有些则不支持。可留意游戏界面是否有对应图标。

@@ -1,68 +1,63 @@
 ---
 locale: zh
 urlstr: boxing-random
-title: '[ZH TRANSLATION NEEDED] Boxing Random'
+title: "Boxing Random 随机拳击对决"
 description: >-
-  [ZH TRANSLATION NEEDED] Experience chaotic, physics-based boxing in Boxing
-  Random! Master one-button controls and adapt to random challenges to knock out
-  your opponent in this hilarious 1 or 2-player fighting game.
-iframeSrc: >-
-  https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
+  《Boxing Random 随机拳击对决》是一款物理系搞笑拳击游戏，双方角色动作与环境元素都充满随机性，考验你在混
+  乱节奏中抓时机出拳与防守。
+iframeSrc: 'https://boxingrandom.h5games.usercontent.goog/v/1p3ojr23i4t40/'
 thumbnail: /new-images/boxing-random.jpg
 tags:
   - sports
-  - physics
-score: 4.1/5  (855 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+score: 3.8/5  (1964 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 游戏介绍
 
+*Boxing Random* 是一款夸张的 ragdoll 拳击小游戏，只用一个按键就能让角色跳起、摆臂并出拳。目标很直接：谁先打中对方头部并拿到 5 分，谁就赢。  
 
-### Game Introduction
+真正的乐趣在于“Random”——每回合都会刷新设定，你得在笑声中迅速适应。
 
-[ZH TRANSLATION NEEDED] Boxing Random is a whimsical and chaotic physics-based fighting game with an extremely simple control scheme. Unlike traditional boxing games that require complex combos and strategies, Boxing Random thrives on unpredictability and humor. The objective is to be the first player to score 5 points. A point is scored by landing a single successful punch on the opponent's head.
+- **场地：** 油路、摩擦、地形会随机变化，可能是冰面也可能是弹跳地板。  
+- **拳手：** 造型、手臂长度、头部大小、装饰等都会重新生成。  
+- **物理：** 有时低重力、滑溜溜，有时重力超大或风很大。  
+- **特殊事件：** 天降火箭、随机道具、障碍物……任何离谱的东西都可能闯入拳台。
 
-[ZH TRANSLATION NEEDED] The "Random" in the title is the core feature of the game. At the start of each round, everything can change:
--   **The Arena:** The background and stage layout might change.
--   **The Boxers:** The characters' appearances, arm length (from very short to incredibly long), and even head size can be randomized.
--   **The Physics:** Some rounds might have low gravity, while others might feature slippery ice floors.
--   **Special Elements:** Obstacles like rockets flying across the screen or other bizarre challenges may appear.
+无穷无尽的随机性保证每一局都不同，也迫使玩家随时改变策略。
 
-[ZH TRANSLATION NEEDED] This constant randomness ensures that no two rounds are ever the same and forces players to constantly adapt their tactics. The game is known for its ragdoll physics, which leads to hilarious, wobbly character movements and unpredictable knockouts. It can be played solo against an AI or locally with a second player.
+### 游戏策略
 
-### Gameplay Strategy
+- **拥抱混乱：** 别照搬传统拳击。开局先观察这一回合的特殊规则，再决定打法。  
+- **把握按键节奏：** 一切动作都靠一个键，成败全在“什么时候按”。抓住角色起跳与摆臂的节拍，比盲按靠谱。  
+- **利用惯性：** 挥拳时顺势带动身体，先后仰再前扑、或绕弧线回击，常能打出意想不到的弧拳。  
+- **角落压制：** 把对手逼到屏幕边缘，让他们无处可退，命中率会飙升。  
+- **摆臂当盾：** 摆出去的手臂不只是进攻，也能挡住对方拳头，弹开后立刻反击。  
+- **适应手臂长度：** 长手臂保持距离慢慢 poke，短手臂则贴身缠斗。开局先看清自己这一回合的“手牌”。
 
--   **Embrace the Chaos:** Do not try to play this like a serious boxing game. The key to winning is to adapt to the random elements of each round and use them to your advantage.
--   -   **Timing is Everything:** With only one button, your success depends entirely on *when* you press it. Pressing the button makes your character jump and swing their arm. Learn the rhythm of your character's wobbly movements to time your punch perfectly.
--   **Use Momentum:** Your punch isn't just a simple jab. It's a full-body swing. Use the momentum from your character's jump and lean to create a powerful arc. Sometimes, jumping away from your opponent and then swinging on the way down can create a surprise attack.
--   **Corner Your Opponent:** A classic fighting game tactic that works well here. If you can push your opponent against the edge of the screen, they have less room to dodge, making it easier to land a hit.
--   **Play Defensively:** Your swinging arm isn't just for attacking. It can also act as a shield, blocking the opponent's incoming punch. Sometimes, a well-timed swing can knock their fist away, creating an opening for you.
--   **Adapt to Your Arms:** If you get a round with very long arms, try to keep your distance and attack from afar. If you have short arms, you need to get in close and be aggressive.
+### 操作指南
 
-### Controls Guide
+本作以“一键操作”著称（不同版本可能略有调整）：
 
-[ZH TRANSLATION NEEDED] The game is famous for its one-button control scheme.
+- **玩家 1：**  
+    - **↑（Up）键：** 跳跃 / 后仰 / 挥拳（同一按键触发所有动作）
+- **玩家 2：**  
+    - **W 键：** 跳跃 / 后仰 / 挥拳
 
--   **Player 1:**
-     -   **Up Arrow Key:** Jump / Lean Back & Punch
+> 小技巧：长按与点按的节奏不同，会影响挥拳弧线与落点，多试几次找准节拍。
 
--   **Player 2:**
-     -   **W Key:** Jump / Lean Back & Punch
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **Note:** The same button controls all actions. Pressing it makes your character jump/lean and automatically swing their arm.
+**1. 如何赢下一回合？**  
+> 先命中对方头部就能得分，先到 5 分者获胜。
 
-### Frequently Asked Questions (FAQ)
+**2. 为什么人物看起来这么奇怪？**  
+> 这是核心卖点。角色造型、手臂、重力、障碍都会随机化，让 ragdoll 动作更好笑。
 
-[ZH TRANSLATION NEEDED] **1. How do I win a round?**
-[ZH TRANSLATION NEEDED] > You win a round by landing one clean punch on your opponent's head. The first player to win 5 rounds wins the entire match.
+**3. 能防御吗？**  
+> 没有专门的防御键，但可以把摆臂当盾，用节奏把对手拳头打掉。
 
-[ZH TRANSLATION NEEDED] **2. Why do the characters look and move so strangely?**
-[ZH TRANSLATION NEEDED] > That's the core feature of the game! The characters and physics are randomized each round. You might have long arms, a different background, or face new obstacles. The wobbly "ragdoll" physics is what makes the game fun and unpredictable.
-
-[ZH TRANSLATION NEEDED] **3. Is there a way to block?**
-[ZH TRANSLATION NEEDED] > There is no dedicated block button. However, you can use your own swinging arm as a makeshift shield to block or deflect the opponent's punch. This requires good timing.
-
-[ZH TRANSLATION NEEDED] **4. Can I play this game by myself?**
-[ZH TRANSLATION NEEDED] > Yes, Boxing Random has a single-player mode where you compete against a computer-controlled opponent (AI).
-
+**4. 可以单人玩吗？**  
+> 可以。单人模式会匹配 AI，也能随时切换本地 2P 和朋友一起闹。

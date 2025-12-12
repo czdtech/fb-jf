@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: retro-drift
-title: '[ES] Retro Drift'
+title: "Retro Drift"
 description: >-
-  [ES] Retro Drift is an old‑school top‑down drifter — feather throttle, manage
-  angles, and slide clean through corners.
-iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
-thumbnail: /new-images/retro-drift.jpg
+  Retro Drift es un juego de derrapes con vista cenital y sabor clásico: dosifica
+  el acelerador, controla el ángulo del coche y deslízate limpio por cada curva.
+iframeSrc: "https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/"
+thumbnail: "/new-images/retro-drift.jpg"
 tags:
   - car
   - driving
@@ -16,29 +16,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Retro Drift es un juego de conducción minimalista visto desde arriba centrado en
+los derrapes controlados. Los circuitos premian las trazadas fluidas y enlazar
+curvas: la clave está en dosificar el acelerador, clavar el contravolante y salir
+con buena velocidad para marcar vueltas rápidas y multiplicadores de puntuación.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Retro Drift is a minimalist top‑down driving game focused on controlled slides. Courses favor flowing lines and corner linking—light throttle, counter‑steer timing, and exit speed determine lap times and score multipliers.
+1.  **Entra lento, sal rápido:** Renuncia a algo de velocidad de entrada para
+    poder salir con más tracción y bien colocado para la siguiente curva.
+2.  **Acelerador a toques:** Usa pequeñas pulsaciones en lugar de pisar a fondo.
+    Así mantienes el derrape sin perder del todo la adherencia.
+3.  **Un derrape, varias curvas:** Planifica tu línea y el gas para enlazar
+    varias curvas con un solo deslizamiento continuo.
+4.  **Recupera pronto:** Si la parte trasera se escapa demasiado, suelta gas y
+    gira hacia el interior del derrape antes de que el coche haga un trompo.
+5.  **Aprende los trazados:** Repetir los circuitos te dará memoria muscular
+    para puntos de frenada, ápices y zonas donde puedes arriesgar más.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Enter slow, exit fast: Sacrifice a bit of entry speed to maximize exit traction and next corner setup.
-2.  **[ES]** Feather throttle: Short pulses keep traction while preserving the slide.
-3.  **[ES]** One drift, many corners: Link consecutive corners by planning line and throttle in advance.
-4.  **[ES]** Recover early: If the rear steps out too far, reduce throttle and steer into the slide before it spins.
-5.  **[ES]** Learn layouts: Repetition builds muscle memory for braking points and apex timing.
+- **Giro:** A/D o Flechas Izquierda/Derecha.
+- **Acelerar/Frenar:** W/S o Flechas Arriba/Abajo.
+- **Freno de mano (si está disponible):** Barra espaciadora para una rotación
+  más agresiva.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Steer: A/D or Left/Right.
-- Throttle/Brake: W/S or Up/Down.
-- Handbrake (if available): Space for sharper rotation.
+- **P: El coche siempre acaba trompeando, ¿por qué?**
+  
+  **R:** Seguramente entras con demasiado gas o corriges tarde el contravolante.
+  Suaviza las entradas de acelerador y reacciona antes cuando notes que la
+  trasera se va.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Cómo enlazo mejor las curvas?**
+  
+  **R:** Piensa más en la salida de la curva A que en su entrada. Colócate de
+  forma que la trayectoria te deje bien encarado hacia la curva B sin recuperar
+  del todo la tracción entre ambas.
 
-- I keep spinning—why? Too much throttle or late counter‑steer; soften inputs and react earlier.
-- Best way to link corners? Focus on exit of corner A to set a line into corner B; avoid full traction resets between them.
-- Are upgrades available? Some modes offer car unlocks; otherwise, skill and consistency drive improvement.
-
+- **P: ¿Hay mejoras o coches nuevos?**
+  
+  **R:** Algunas versiones permiten desbloquear coches o variantes, pero el
+  verdadero progreso viene de tu habilidad y consistencia al volante.

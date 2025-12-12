@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: age-of-war
-title: '[ES] Age of War'
+title: "Age of War guía y estrategia"
 description: >-
-  [ES] iscover the ultimate guide to Age of War, the classic strategy game.
-  Learn winning strategies, controls, and tips to evolve your army from cavemen
-  to future warriors and dominate the battlefield.
+  Age of War es un clásico juego de estrategia lateral en el que haces evolucionar
+  tu ejército desde la Edad de Piedra hasta el futuro. Aprende tácticas,
+  controles y consejos para resistir los ataques enemigos y destruir su base.
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/age-of-war.jpg
@@ -17,49 +17,87 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
-### Detailed Game Introduction
+Age of War es un clásico juego de estrategia 2D de desplazamiento lateral que se
+hizo muy popular en la época de los juegos Flash. El concepto central es la
+batalla entre dos bases: la tuya y la de la IA enemiga. Su rasgo distintivo es
+la mecánica de **evolución**. Empiezas en la Edad de Piedra, con cavernícolas, y
+vas ganando puntos de experiencia (XP) para avanzar por cinco eras distintas: Edad
+de Piedra, Edad Media, Edad Moderna y, finalmente, Edad del Futuro. Cada
+evolución desbloquea unidades y torretas defensivas más poderosas y, además,
+restaura por completo la salud de tu base. El objetivo final es simple: resistir
+las oleadas enemigas y destruir su base.
 
-Age of War is a classic 2D side-scrolling strategy game that became widely popular during the Flash game era. The game's core concept is a battle between two bases, one belonging to the player and the other to an AI opponent. The unique and defining feature of the game is its "evolution" mechanic. Players start in the Stone Age (as cavemen) and must earn experience points (XP) to advance through five distinct eras: Stone Age, Middle Ages, Modern Age, and finally, the Future Age. Each evolution not only unlocks more powerful units and defensive turrets but also fully restores your base's health. The ultimate goal is simple: survive the enemy's onslaught and destroy their base.
+### Estrategia de juego y recorrido
 
-### Gameplay Strategy & Walkthrough
+Dominar Age of War requiere equilibrar ataque, defensa y el momento de evolucionar.
 
-Mastering Age of War requires a balance of offense, defense, and strategic timing.
+#### 1. Estrategia de inicio de partida (Edad de Piedra)
 
-#### 1. Early Game Strategy (Stone Age)
-*   **The Caveman Rush:** The most common and effective opening strategy is to spam the cheapest unit, the "Club Man." They are cost-effective and can quickly overwhelm the enemy in the early stages.
-*   **Focus on XP:** Your primary goal is to kill enemy units to gain XP as quickly as possible. A strong offensive push helps you earn XP faster, leading to an earlier evolution.
-*   **First Turret:** Build the first turret (Sling Shot) as soon as you can afford it. It provides crucial defensive support and helps you conserve units and health while you save up for more powerful troops or your first evolution.
+*   **Rush de cavernícolas:** La apertura más habitual y efectiva consiste en
+    producir en masa la unidad más barata, el "Club Man". Son económicos y
+    pueden abrumar al enemigo en las primeras fases.
+*   **Prioriza la XP:** Tu objetivo principal es matar unidades enemigas para
+    ganar XP lo más rápido posible. Un ataque constante acelera tu evolución a
+    eras más avanzadas.
+*   **Primera torreta:** Construye la primera torreta (Sling Shot) en cuanto te
+    lo puedas permitir. Aporta apoyo defensivo crucial y te ayuda a conservar
+    unidades y vida mientras ahorras para tropas más fuertes o tu primera
+    evolución.
 
-#### 2. Mid-Game Strategy (Middle Ages & Modern Age)
-*   **Balanced Army:** Stop spamming only one type of unit. Create a balanced force. Place melee units (knights, infantry) at the front to absorb damage and protect your powerful but fragile ranged units (archers, riflemen) in the back.
-*   **When to Evolve:** Timing your evolution is critical. The best time to evolve is when your base health is low, as evolving fully restores it. Alternatively, evolve when you have a clear battlefield advantage to press your attack with superior units. Don't evolve if you are in the middle of a strong push, as it will clear all your units from the field.
-*   **Use Your Special Ability:** Each age comes with a powerful special ability (e.g., meteor shower, god's wrath). These have a long cooldown but can turn the tide of a battle. Use them to wipe out a large wave of enemy units or to support your own major offensive.
+#### 2. Estrategia de mitad de partida (Edad Media y Edad Moderna)
 
-#### 3. Late Game Strategy (Future Age)
-*   **The Super Soldier:** In the Future Age, the "Super Soldier" is one of the most powerful units in the game. They are expensive but incredibly durable and have immense firepower. Saving up for a few of these can create an unstoppable force.
-*   **Advanced Turrets:** Fully upgrade your turrets. The final-era turrets deal massive damage and are essential for defending against the enemy's powerful futuristic units.
-*   **Final Push:** Coordinate your most powerful units with your special ability for a final, decisive push to destroy the enemy base.
+*   **Ejército equilibrado:** Deja de depender de una sola unidad. Forma una
+    fuerza mixta: pon unidades cuerpo a cuerpo (caballeros, infantería) delante
+    para absorber daño y protege detrás a las unidades a distancia (arqueros,
+    fusileros).
+*   **Cuándo evolucionar:** El momento de evolucionar es clave. Lo ideal es
+    hacerlo cuando la vida de tu base está baja, ya que evolucionar la restaura
+    por completo. Otra buena ocasión es cuando dominas el campo de batalla y
+    quieres presionar con unidades superiores. No evoluciones justo en medio de
+    un gran empuje ofensivo, porque perderías todas tus unidades desplegadas.
+*   **Usa la habilidad especial:** Cada era tiene una habilidad especial
+    poderosa (lluvia de meteoritos, ira de los dioses, etc.) con un tiempo de
+    recarga largo. Utilízala para borrar una gran oleada de enemigos o para
+    reforzar tu propio ataque decisivo.
 
-### Controls Guide
+#### 3. Estrategia de final de partida (Edad del Futuro)
 
-The game is controlled almost entirely with the mouse.
+*   **El Super Soldier:** En la Edad del Futuro, el "Super Soldier" es una de
+    las unidades más poderosas del juego. Es caro, pero muy resistente y con un
+    daño enorme. Ahorrar para desplegar varios puede crear una fuerza casi
+    imparable.
+*   **Torretas avanzadas:** Mejora tus torretas al máximo. Las defensas de la
+    última era infligen muchísimo daño y son esenciales para detener las
+    unidades futuristas del enemigo.
+*   **Empuje final:** Coordina tus unidades más fuertes con la habilidad
+    especial de la era para lanzar un empuje final y destruir la base enemiga.
 
-*   **Train Units:** Click on the unit icons at the top-left of the screen to train them. You must have enough gold.
-*   **Build Turrets:** Click on the empty turret slots on top of your base to open the build menu, then select a turret to construct.
-*   **Use Special Ability:** Click the special ability icon on the top-right of the screen when it's ready (not on cooldown).
-*   **Evolve:** Click the "Evolve" button at the top-right of the screen once you have accumulated enough XP.
+### Guía de controles
 
-### Frequently Asked Questions (FAQ)
+El juego se controla casi por completo con el ratón.
 
-*   **Q: How do I get XP?**
-    *   **A:** You gain Experience Points (XP) every time one of your units kills an enemy unit.
+*   **Entrenar unidades:** Haz clic en los iconos de unidades en la parte
+    superior izquierda para producirlas (si tienes oro suficiente).
+*   **Construir torretas:** Haz clic en los huecos de torreta sobre tu base para
+    abrir el menú y seleccionar qué torreta construir.
+*   **Usar habilidad especial:** Haz clic en el icono correspondiente en la
+    parte superior derecha cuando esté disponible (cuando termine el
+    enfriamiento).
+*   **Evolucionar:** Pulsa el botón "Evolve" en la esquina superior derecha una
+    vez acumules suficiente XP.
 
-*   **Q: What is the best unit in the game?**
-    *   **A:** While it depends on the situation, the "Super Soldier" from the Future Age is widely considered the most powerful all-around unit due to its high health and damage. In the early game, the basic Club Man is the most effective for its cost.
+### Preguntas frecuentes (FAQ)
 
-*   **Q: Is it better to build more turrets or train more units?**
-    *   **A:** In the early game, a mix is best. One or two turrets provide stable defense, allowing you to save gold for a strong offensive army. In the late game, having fully upgraded turrets is crucial for survival.
+*   **P: ¿Cómo consigo XP?**
+    *   **R:** Obtienes experiencia cada vez que una unidad tuya elimina a una unidad enemiga; cuanto más constantes sean tus ataques, más rápido evolucionarás.
 
-*   **Q: Where can I play Age of War now that Flash is gone?**
-    *   **A:** Many gaming websites like CrazyGames, Armor Games, and Kongregate now host Age of War using Flash emulators (like Ruffle), making it fully playable in modern web browsers. There are also mobile versions available on iOS and Android app stores.
+*   **P: ¿Cuál es la mejor unidad del juego?**
+    *   **R:** Depende de la situación, pero el "Super Soldier" de la Era del Futuro combina muchísima vida y daño, así que suele decidir las partidas tardías.
+
+*   **P: ¿Es mejor invertir en torretas o en unidades?**
+    *   **R:** Al principio conviene mantener 1-2 torretas para defender mientras produces un flujo estable de unidades ofensivas; así obtienes defensa y presión al mismo tiempo.
+
+*   **P: ¿Dónde puedo jugar Age of War ahora que Flash ha desaparecido?**
+    *   **R:** Portales como CrazyGames, Armor Games o Kongregate alojan versiones HTML5/emuladas; busca "Age of War HTML5" en tu navegador y podrás jugarlo sin Flash.

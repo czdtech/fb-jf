@@ -1,13 +1,10 @@
 ---
 locale: zh
 urlstr: soccer-random
-title: '[ZH TRANSLATION NEEDED] Soccer Random'
+title: 《Soccer Random》随机物理足球
 description: >-
-  [ZH TRANSLATION NEEDED] Experience soccer like never before in Soccer Random!
-  This hilarious, physics-based game uses a simple one-button control to make
-  your players jump and kick. Adapt to ever-changing fields, balls, and players
-  as you compete against a friend or the CPU to be the first to score five
-  goals.
+  《Soccer Random》是一款满屏都是“意外”的物理足球小游戏。用一个按键就能控制球员跳跃、射门和解围，在不断变化的场地、球和角色组合中，率先打进 5
+  球赢下比赛。
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/soccer-random.jpg
@@ -19,33 +16,36 @@ score: 4.1/5  (594 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Soccer Random is a chaotic and hilarious physics-based soccer game with a minimalist one-button control scheme. The objective is simple: score five goals before your opponent. The "random" part of the title comes from the fact that everything, from the type of ball and the player characters to the playing field itself, can change after every goal, forcing you to constantly adapt.
+《Soccer Random》是一款极度混乱又搞笑的物理系足球游戏，采用极简的一键式操作。规则非常简单：谁先进 5 个球谁赢。真正让人上头的是“Random”这部分——每进一球，球场环境、球的大小和形状、甚至球员造型都可能发生变化，你必须随时适应这些随机元素带来的新状况。
 
-### Gameplay Guide
+### 游玩指南
 
-[ZH TRANSLATION NEEDED] The first player or team to score 5 goals wins the match. All you can do is make your two players jump and kick at the same time. The challenge comes from the wacky physics and the unpredictable nature of the game. You might be playing on an icy field one moment and a beach the next. Use the single button to time your jumps perfectly to both attack the ball and defend your goal.
+首个率先打入 5 球的玩家或队伍获得胜利。
 
-### Controls Guide
+- 你只能通过一个按键让两名球员同时起跳并顺势踢球；
+- 古怪的物理效果会让球员动作看起来相当滑稽，球也可能出现意想不到的弹跳；
+- 有时是在冰面滑行，有时是在海滩沙地，场地环境会影响你的站姿与起跳效果；
+- 通过把握按键时机，在攻门和防守之间寻找平衡，同时利用随机局势占到便宜。
 
-[ZH TRANSLATION NEEDED] The game is designed for simplicity and can be played by one or two players on the same keyboard.
-- **Player 1:** `W` Key
-- **Player 2:** `Up Arrow` Key
+### 操作说明
 
-[ZH TRANSLATION NEEDED] Press your key to make your players jump and kick.
+本作支持单人对 CPU 或双人在同一键盘对战。
 
-### Frequently Asked Questions (FAQ)
+- **玩家 1：** 使用 `W` 键控制。
+- **玩家 2：** 使用上方向键控制。
 
-[ZH TRANSLATION NEEDED] **What is the goal of Soccer Random?**
+按下各自按键即可让己方球员跳起并尝试踢球。
 
-[ZH TRANSLATION NEEDED] The main goal is to be the first to score 5 goals against your opponent.
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] **How many players can play?**
+**问：Soccer Random 的获胜目标是什么？****
+答：** 在对手之前先打进 5 球即可获胜，先到先赢。
 
-[ZH TRANSLATION NEEDED] Soccer Random can be played solo against a computer opponent or with a friend in 2-player mode on the same device.
+**问：最多支持几名玩家？****
+答：** 你可以选择单人模式对战电脑，或在双人模式下与朋友在同一设备上对战，一人一键，操作非常轻松。
 
-[ZH TRANSLATION NEEDED] **Why does the game keep changing?**
-
-[ZH TRANSLATION NEEDED] That's the core feature of the game! The randomness of the fields, players, and balls after each goal ensures that no two matches are ever the same and keeps the gameplay funny and unpredictable.
+**问：为什么场地和角色老是在变？****
+答：** 这正是本作的核心乐趣所在——每进一球后，场地、球员造型甚至足球类型都会随机变化，让每局比赛都截然不同、充满笑点和不确定性。
 

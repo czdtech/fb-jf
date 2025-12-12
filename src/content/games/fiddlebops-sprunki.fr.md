@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: fiddlebops-sprunki
-title: '[FR] Fiddlebops Sprunki - Play Fiddlebops Sprunki Online'
-description: >-
-  [FR] The Fiddlebops Sprunki breathes new life into the original Sprunki game
-  by adding a delightful twist.it offers players a chance to enjoy a more
-  whimsical and less stressful gaming experience.
+title: "Fiddlebops Sprunki - Play Fiddlebops Sprunki Online"
+description: "Fiddlebops Sprunki redonne vie au jeu Sprunki original en ajoutant une touche légère et fantaisiste pour une expérience moins stressante et plus amusante."
 iframeSrc: 'https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/'
 thumbnail: /fiddlebops-sprunki-bg-1.png
 tags:
@@ -15,28 +12,26 @@ score: 4.3/5 (684 votes)
 ---
 
 
+### Présentation de Fiddlebops Sprunki
 
-### Fiddlebops Sprunki Introduction
-
-The Fiddlebops Sprunki breathes new life into the original Sprunki game by adding a delightful twist. With its charming characters, vivid visuals, and lighthearted gameplay, it offers players a chance to enjoy a more whimsical and less stressful gaming experience.
-
----
-
-### Fiddlebops Sprunki Gameplay
-
-- Start with Characters: Choose from a set of eerie yet charming characters, each with its own sound or vocal loop.
-- Drag and Drop: Use your mouse to drag characters onto the stage to build your track. Remove them by dragging them down or double-clicking.
-- Enhance Tracks: Adjust pitch, layer sounds, and experiment with combinations to create unique music.
-
+Fiddlebops Sprunki insuffle un vent de fraîcheur au jeu Sprunki original en ajoutant une petite touche pleine de fantaisie. Grâce à ses personnages attachants, ses visuels colorés et son gameplay léger, il offre aux joueurs une expérience plus détendue et plus ludique, idéale pour s’amuser sans pression.
 
 ---
 
-### Fiddlebops Sprunki Features
+### Gameplay de Fiddlebops Sprunki
 
-This mod shifts the focus from the intense mechanics of the original game to a more relaxed, fun-filled experience. The simplified objectives and emphasis on creativity encourage players to explore, enjoy, and laugh. While it still retains the core essence of Sprunki, the Fiddlebops Sprunki introduces new levels of joy with its lighthearted approach.
+- **Commence avec les personnages :** choisis parmi une sélection de personnages à la fois un peu étranges et très mignons, chacun avec son propre son ou boucle vocale.
+- **Glisser‑déposer :** utilise la souris pour faire glisser les personnages sur la scène et construire ton morceau. Pour les retirer, fais‑les glisser vers le bas ou double‑clique dessus.
+- **Enrichis ta piste :** ajuste la hauteur des sons, superpose des boucles et expérimente différentes combinaisons pour créer une musique vraiment unique.
 
 ---
 
-### Perfect for All Ages
+### Points forts de Fiddlebops Sprunki
 
-One of the standout aspects of the Fiddlebops Sprunki is its universal appeal. The whimsical avatars and playful animations make it a hit with younger audiences, while its charm and humor can easily captivate adult players as well. Whether you're looking for a solo adventure or a shared experience with friends or family, this mod delivers endless entertainment.
+Ce mod met moins l’accent sur les mécaniques intenses de l’original pour se concentrer sur une expérience plus relax, axée sur le fun. Des objectifs simplifiés et un grand focus sur la créativité encouragent les joueurs à explorer, rire et profiter du moment. Tout en gardant l’essence de Sprunki, Fiddlebops Sprunki ajoute un niveau supplémentaire de bonne humeur grâce à son ton léger.
+
+---
+
+### Parfait pour tous les âges
+
+L’un des plus gros points forts de Fiddlebops Sprunki, c’est son côté tout public. Les avatars fantaisistes et les animations pleines d’humour plaisent autant aux plus jeunes qu’aux adultes. Que tu cherches une petite aventure en solo ou un moment à partager avec des amis ou en famille, ce mod t’offre une dose d’amusement musical sans fin.

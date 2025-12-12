@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: dices-2048-3d
-title: '[KO] Dices 2048 3D'
+title: "Dices 2048 3D 주사위 2048 3D"
 description: >-
-  [KO] Dices 2048 3D fuses 2048 with dice physics — merge same‑value dice to
-  climb toward 2048 in three dimensions.
+  주사위 물리와 2048 퍼즐을 결합한 게임입니다. 같은 눈의 주사위를 부딪혀
+  합치며 3D 공간에서 2048 이상을 노려 보세요.
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/dices-2048-3d.png
 tags:
@@ -16,29 +16,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Dices 2048 3D는 고전 2048 병합 퍼즐에 주사위 물리와 3D 배치를 더한 게임입니다.
+위에서 주사위를 떨어뜨리거나 슬라이드해 같은 눈끼리 맞닿게 만들면, 두 주사위가
+합쳐져 다음 단계 값으로 변합니다(2→4→8처럼).  
+중력과 튕김, 3D 배치가 더해져 단순히 숫자만 미는 퍼즐과는 다른 전략이 필요하며,
+쌓는 높이와 간격, 우연한 연쇄 병합까지 고려해야 합니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Dices 2048 3D is a physics‑infused take on the classic 2048 merging puzzle. Drop or slide dice so that identical face values collide and merge into the next value (e.g., 2→4→8). Gravity, bounce, and 3D placement create fresh tactics around stacking, spacing, and controlling accidental merges.
+1. **라인 정리하기**  
+   결합을 주로 진행할 열과, 새 주사위를 임시로 쌓아 두는 열을 나누어 쓰면
+   보드가 덜 엉망이 됩니다. 무작정 한 곳에 쌓기보다는 병합 계획이 있는 줄과
+   대기 줄을 구분하세요.  
+2. **연쇄 반응 세팅**  
+   동일 값 주사위 쌍을 여러 곳에 만들어 두면, 한 번의 병합으로 연쇄적으로
+   다음 병합이 이어져 큰 점수 차이를 만들 수 있습니다.  
+3. **값 관리**  
+   높은 값 주사위를 이웃이 없는 구석에 만들면 이후 병합이 매우 어렵습니다.
+   항상 같은 값들이 한두 번의 이동만으로 만날 수 있는 위치에 있도록 관리하세요.  
+4. **물리 제어하기**  
+   너무 높은 곳에서 떨어뜨리면 튕기면서 원치 않는 병합이 발생할 수 있습니다.
+   짧은 높이에서 부드럽게 떨어뜨리고, 다음 주사위를 놓기 전에 완전히 멈출 때까지
+   기다리는 습관을 들이세요.  
+5. **위기 시 탈출 수**  
+   보드가 꽉 차기 시작하면 완벽한 연쇄를 욕심내기보다는, 안전하게 공간을 넓힐 수
+   있는 병합부터 진행해 숨 쉴 공간을 만드는 것이 우선입니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Keep lanes clean: Reserve a column for combining and another for staging; avoid cluttered piles that block merges.
-2.  **[KO]** Chain reactions: Set up multiple adjacent pairs so one merge cascades into the next for big score swings.
-3.  **[KO]** Value management: Don’t spawn a higher value in a corner with no neighbors; keep equal values within one move of contact.
-4.  **[KO]** Tame physics: Soft drops and short nudges reduce unwanted bounces; let dice settle before committing the next piece.
-5.  **[KO]** Bail‑out moves: When the board rises, clear space with safe merges rather than fishing for perfect chains.
+- **조준/배치**: 커서를 이동하거나 드래그해 주사위를 떨어뜨릴 위치를 정합니다.
+  일부 버전에서는 주사위를 회전해 시작 위치를 바꿀 수 있습니다.  
+- **떨어뜨리기**: 클릭/탭으로 주사위를 해당 위치에 투하합니다.  
+- **실수 되돌리기**: 일부 버전은 제한된 횟수의 되돌리기(Undo)를 제공해,
+  실수 투하를 구제할 수 있습니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Aim/Place: Move cursor or drag to choose drop position; some versions allow rotation.
-- Drop/Confirm: Click/tap to release the die.
-- Undo/Retry (if available): Limited undos may exist; use them to rescue misdrops.
+- **Q: 주사위는 어떻게 합쳐지나요?**  
+  **A:** 같은 값의 주사위 둘이 서로 맞닿으면, 한 칸으로 합쳐지며 다음 값
+  주사위가 됩니다(예: 8+8→16).  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 원치 않는 병합이 자꾸 일어납니다.**  
+  **A:** 투하 높이를 낮추고, 주사위가 완전히 멈출 때까지 기다린 뒤 다음
+  주사위를 떨어뜨려 보세요. 대각선으로 튕겨 나가는 궤적도 주의해야 합니다.  
 
-- How do dice merge? Identical values touching merge into the next value (e.g., two 8s become a 16).
-- I keep causing accidental merges—how to stop? Reduce drop height, wait for full settle, and avoid diagonal ricochets.
-- Is there an end? The game ends when no legal placements remain or the container overflows; aim to reach 2048 or beyond.
+- **Q: 게임은 언제 끝나나요?**  
+  **A:** 더 이상 합법적인 배치가 없거나, 컨테이너가 가득 차면 게임이 종료됩니다.
+  목표는 2048에 도달하거나, 그 이상 가능한 한 높은 숫자를 만드는 것입니다.  
 

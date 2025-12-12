@@ -1,11 +1,8 @@
 ---
 locale: ko
 urlstr: ragdoll-archers
-title: '[KO] Ragdoll Archers'
-description: >-
-  [KO] Ragdoll Archers is a physics-based archery game where players control
-  wobbly ragdoll archers to shoot arrows at opponents, with realistic physics
-  making each shot challenging and entertaining.
+title: Ragdoll Archers 래그돌 궁수
+description: '비틀거리는 인형 궁수를 조종해 화살을 쏘는 물리 기반 슈팅 게임입니다. 중력과 탄도를 계산해 적을 맞히고, 흔들리는 몸을 제어해 보세요.'
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/ragdoll-archers.jpg
 tags:
@@ -18,33 +15,73 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
-### Game Introduction
+*Ragdoll Archers*는 물리 엔진을 활용한 활 쏘기 액션 게임입니다.
+플레이어는 균형이 잘 잡히지 않는 인형 궁수를 조종해, 화살로
+상대 캐릭터를 맞히고 쓰러뜨려야 합니다.
 
-"Ragdoll Archers" is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents. The realistic physics effects make each shot challenging and entertaining, while the character instability adds humor and unpredictability to the game.
+화살은 중력과 공기 저항의 영향을 받기 때문에, 단순히 조준선만
+믿지 말고 실제 탄도를 고려해 각도와 힘을 조절해야 합니다.
+인형 특유의 비틀거리는 움직임 때문에 매 샷이 도전이자
+코믹한 장면이 되는 것이 이 게임의 특징입니다.
 
-### Gameplay Strategy
+### 플레이 전략
 
-1.  **[KO]** **Master Shooting Skills**: Learn to adjust bow angle and power, considering the effects of gravity and air resistance on arrow trajectory.
-2.  **[KO]** **Predict Target Movement**: Opponents may move, so you need to anticipate their position for accurate hits.
-3.  **[KO]** **Utilize Environment**: Make good use of terrain and obstacles to protect yourself or create tactical advantages.
-4.  **[KO]** **Maintain Balance**: Due to the ragdoll nature of characters, maintaining balance is crucial for accurate shooting.
-5.  **[KO]** **Quick Reactions**: The game has a fast pace, requiring quick shooting decisions.
+1. **조준 각도와 힘 조절에 익숙해지기**  
+   활 시위를 얼마나 당기느냐, 각도를 얼마나 올리느냐에 따라
+   화살 궤적이 크게 달라집니다. 중거리, 원거리 목표를 나눠
+   여러 번 연습하면서 감을 익히세요.
 
-### How to Play
+2. **움직이는 목표를 예측 사격하기**  
+   상대가 이동할 경우, 현재 위치가 아니라 이동 방향을 살짝
+   앞질러 조준해야 맞힐 수 있습니다. 적의 이동 패턴을 관찰해
+   어디로 향할지 미리 예측해 보세요.
 
-*   **[KO]** **Aim**: Typically use mouse dragging to adjust shooting angle and power.
-*   **[KO]** **Shoot**: Release mouse or click to fire arrows.
-*   **[KO]** **Move**: Use keyboard or touch screen to control character movement (if supported by the game).
-*   **[KO]** **Reload**: Some versions may require manual arrow reloading.
+3. **지형과 장애물 활용하기**  
+   벽이나 박스, 경사 지형 등을 엄폐물로 삼으면 상대 화살을
+   피하면서 공격할 수 있습니다. 반대로 장애물 위로 포물선을
+   그리도록 각도를 높여 쏘면 숨은 적에게도 화살을 명중시킬 수
+   있습니다.
 
-### Frequently Asked Questions
+4. **균형 유지가 곧 명중률**  
+   래그돌 캐릭터는 조금만 힘을 잘못 주어도 크게 휘청거립니다.
+   발사 직전에 몸이 너무 기울어져 있지 않은지 확인하고,
+   안정적인 자세를 유지한 상태에서 쏘는 것이 좋습니다.
 
-1.  **[KO]** **Q: Why is my character always swaying?**
-**A**: This is a design feature of the game; the ragdoll physics effects make characters unstable, which is part of the game's charm.
-2.  **[KO]** **Q: How can I improve shooting accuracy?**
-**A**: Practice aiming more, familiarize yourself with the physics engine characteristics, and learn to predict target movement.
-3.  **[KO]** **Q: Are there different game modes?**
-**A**: Many versions offer different game modes such as single-player vs AI, multiplayer battles, survival mode, etc.
-4.  **[KO]** **Q: Is there a limit to the number of arrows?**
-**A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
+5. **빠른 판단과 연속 사격**  
+   전투 템포가 빠른 편이므로, 한 발 한 발을 너무 오래 고민하기보다는
+   대략적인 각도를 빨리 잡고 여러 번 시도하는 편이 유리할 수
+   있습니다.
+
+### 조작 가이드
+
+- **조준 및 발사**: 마우스를 드래그해 각도와 힘을 조절한 뒤 버튼을
+  놓아 화살을 발사합니다.  
+- **이동(지원되는 버전)**: 키보드 또는 터치 입력으로 캐릭터의 위치를
+  바꿔 더 유리한 사격 지점을 확보할 수 있습니다.  
+- **재장전**: 일부 모드에서는 화살 수가 제한되어 수동으로 재장전이
+
+- **Reload**: Some versions may require manual arrow reloading.
+  필요할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 캐릭터가 계속 흔들리는데 버그인가요?**  
+   **A:** 아닙니다. 래그돌 물리 효과를 살리기 위한 의도된 연출로,
+   이 불안정함이 게임 특유의 난이도와 웃음을 만들어 줍니다.
+
+2. **Q: 명중률을 높이려면 어떻게 해야 하나요?**  
+   **A:** 같은 거리에서 여러 번 쏘며 각도와 힘의 관계를 익히고,
+   적이 이동하는 속도와 방향을 감안해 조금 앞을 겨냥하는 예측
+   사격을 연습해 보세요.
+
+3. **Q: 어떤 게임 모드들이 있나요?**  
+   **A:** 버전에 따라 1인용 대전, 친구와의 로컬/온라인 대전,
+   파도처럼 몰려오는 적을 버티는 서바이벌 모드 등이 제공될 수
+   있습니다.
+
+4. **Q: 화살 개수가 제한되나요?**  
+   **A:** 모드에 따라 다릅니다. 일부 모드에서는 제한된 화살만
+   사용할 수 있고, 다른 모드에서는 사실상 무제한으로 쏠 수
+   있습니다.

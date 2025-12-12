@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bad-time-simulator
-title: '[KO] Bad Time Simulator'
+title: 'Bad Time Simulator 배드 타임 시뮬레이터'
 description: >-
-  [KO] A detailed guide to the Bad Time Simulator, a fan-made game simulating
-  the difficult Sans boss fight. Includes an introduction, gameplay strategy,
-  controls, and FAQ.
+  언더테일 학살 루트의 샌즈 전투를 재현한 팬메이드 게임 Bad Time Simulator
+  공략입니다. 패턴을 외우고, 정밀한 조작으로 지옥 같은 공격을 버텨 보세요.
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/bad-time-simulator.jpg
 tags:
@@ -15,52 +14,84 @@ score: 4.6/5  (1058 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 소개
 
+Bad Time Simulator는 *Undertale* 학살(Genocide) 루트에서 등장하는 샌즈(Sans)
+최종 보스전을 브라우저에서 그대로 즐길 수 있도록 만든 팬메이드 게임입니다.
+극악한 난이도로 유명하며, 플레이어의 반사 신경, 인내심, 패턴 암기 능력을 한계까지
+시험하는 콘텐츠입니다.
 
+플레이어는 붉은 하트 모양의 SOUL을 조종하며, 화면 안 작은 흰 박스 안에서
+끝없이 쏟아지는 공격을 피해야 합니다. 일반적인 턴제 배틀과 달리 공격을
+퍼붓는 것이 아니라, **계속해서 살아남는 것**이 핵심입니다. 뼈(Bones)와
+"Gaster Blaster"의 레이저, 중력을 이용한 플랫폼 구간 등 다양한 탄막과 지형
+장치를 피해 움직여야 하며, 피격 시 잠깐만 맞아도 체력이 빠르게 증발하는
+구조라 한 번의 실수가 치명적으로 이어집니다. 특히 맞은 뒤 일정 시간 동안
+체력을 지속적으로 깎아 먹는 **Karmic Retribution(KR)** 효과가 있어, 최대한
+"한 번도 맞지 않는" 것을 목표로 해야 합니다.
 
+### 플레이 전략
 
-### Detailed Introduction
+Bad Time Simulator를 클리어하는 핵심은 공격보다 **지구력과 암기**에
+가깝습니다.
 
-Bad Time Simulator is a fan-made browser game that meticulously recreates the final boss battle against the character Sans from the Genocide Route of the game *Undertale*. It is renowned for its extreme difficulty, designed to test a player's reflexes, patience, and pattern recognition skills to their absolute limits.
+1.  **패턴 완전 암기:** 샌즈의 공격은 랜덤이 아니라 정해진 순서의 패턴입니다.
+    수차례 도전하면서 어떤 공격이 어떤 순서로 오는지 통째로 외우는 것이
+    중요합니다.
+2.  **작고 정확한 움직임:** 당황해서 크게 움직이면 오히려 다른 탄막에
+    부딪히기 쉽습니다. 대부분의 패턴은 최소한의 이동만으로 피할 수 있도록
+    설계되어 있으니, 침착하게 작은 움직임 위주로 조작하세요.
+3.  **KR 이해하기:** 맞으면 체력이 한 번에 깎이는 것이 아니라, 일정 시간 동안
+    보라색 KR 게이지가 체력을 계속 깎습니다. 큰 공격을 한 번 맞는 것보다
+    작은 공격을 여러 번 맞는 편이 더 위험할 수 있으니, "한 번도 맞지 않는"
+    플레이를 지향해야 합니다.
+4.  **오프닝 패턴 돌파:** 첫 공격부터 난도가 매우 높습니다. 초기 가스터
+    블래스터 연속 공격, 짧은 뼈 패턴, 높은 뼈 사이를 점프하는 구간 등
+    세 부분을 나누어 연습하고, 이 구간을 안정적으로 넘기는 것을 첫 목표로
+    삼으세요.
+5.  **블루 SOUL 플랫폼 구간:** 특정 공격에서는 SOUL이 파란색으로 바뀌어
+    중력의 영향을 받습니다. 이때는 점프(위 방향키)로 뼈 발판 사이를 건너야
+    하며, 한 번의 점프 타이밍 실수가 큰 피해로 이어질 수 있습니다. 점프
+    높이와 낙하 타이밍을 몸에 익히는 것이 중요합니다.
+6.  **마지막 연속 패턴:** 후반에는 지금까지 등장했던 패턴이 연속으로 섞여
+    나오며, 마지막에는 원형으로 둘러싼 가스터 블래스터가 안쪽을 향해 동시에
+    발사되는 공격이 등장합니다. 이때는 박스 안에서 원을 그리듯이 정확한
+    궤도로 움직여야 하며, 극도의 집중력이 요구됩니다.
+7.  **연습 모드 활용:** 많은 버전에서 특정 패턴만 따로 연습할 수 있는 Practice
+    모드를 제공합니다. 가장 어려운 패턴 위주로 따로 연습해 성공률을 올려 둔
+    뒤, 전체 싸움에 도전하는 것이 효율적입니다.
 
-The game pits the player, controlling a red heart-shaped SOUL, against an onslaught of complex and fast-paced attacks. Unlike typical battles, the objective is not simply to deal damage, but to survive a series of relentless "bullet hell" sequences. The gameplay area is a small white box where the player must maneuver their SOUL to dodge bones, laser beams from "Gaster Blasters," and navigate challenging platforming sections where gravity is manipulated. The fight is characterized by its lack of invincibility frames (meaning you can take damage rapidly) and the "Karmic Retribution" (KR) effect, a poison-like mechanic that drains health over time after being hit.
+### 조작 방법
 
-### Gameplay Strategy
+PC/브라우저 기준 기본 조작은 다음과 같습니다.
 
-Winning in Bad Time Simulator is less about aggression and more about endurance and memorization.
+*   **이동:** 방향키 (`↑`, `↓`, `←`, `→`)로 SOUL(하트)을 박스 안에서 움직입니다.
+*   **결정:** `Z` 또는 `Enter` 키로 메뉴에서 선택을 확정합니다.
+*   **취소/뒤로:** `X` 또는 `Shift` 키로 메뉴에서 취소하거나 뒤로 갑니다.
 
-1.  **[KO]** **Memorize Attack Patterns:** Every attack from Sans is scripted, not random. The key to survival is to die, learn the pattern, and try again. Each attempt helps you anticipate the next move.
-2.  **[KO]** **Make Small, Precise Movements:** Panicked, large movements often lead you into other projectiles. Stay calm and make small, controlled adjustments to your position. For most patterns, there's a "safe spot" or a clear path if you move minimally.
-3.  **[KO]** **Understand Karmic Retribution (KR):** The purple bar that appears when you're hit is the KR effect. It acts as a poison, continually chipping away at your HP. The goal is not just to avoid fatal blows, but to avoid *any* contact with attacks to keep KR from stacking up.
-4.  **[KO]** **The First Attack is a Filter:** The opening attack is one of the hardest in the game. It's a long sequence designed to be overwhelming. Focus on learning its three main parts: the initial Gaster Blaster wall, the short bone waves, and the tall bone waves you must jump through. Mastering this first attack is a major milestone.
-5.  **[KO]** **Platforming Sections:** During some attacks, your SOUL will turn blue, subjecting it to gravity. You must jump (Up Arrow) to navigate bone platforms. Timing your jumps is critical, as a single misstep can lead to taking massive damage.
-6.  **[KO]** **The Final Attack:** The final sequence is a marathon of all previous attack types, culminating in a circle of Gaster Blasters firing inward. The strategy here is to move in a precise, circular pattern inside the box to avoid the beams. It requires extreme focus.
-7.  **[KO]** **Use Practice Mode:** Most versions of the simulator include a Practice Mode. Use it to isolate and master the specific attacks that give you the most trouble without having to restart the entire fight.
+블루 SOUL 상태(중력 모드)에서는 **위 방향키**로 점프해야 뼈 발판 사이를 통과할 수 있으니, 점프 길이 조절을 미리 연습해 두세요.
 
-### Controls Guide
+### 자주 묻는 질문 (FAQ)
 
-The controls are simple and based on standard keyboard inputs for PC/browser versions.
+**1. 왜 이렇게 어렵게 만든 건가요?**  
+원작 언더테일에서도 샌즈 전투는 난이도가 매우 높기로 유명합니다. Bad Time
+Simulator는 이 전투를 충실하게 재현하는 것을 목표로 하기 때문에, 극악한
+난이도 또한 의도된 설계입니다.
 
-*   **[KO]** **Arrow Keys (`↑` `↓` `←` `→`)**: Move the SOUL (your heart) around the box.
-*   **[KO]** **`Z` Key / `Enter` Key**: Confirm selections in the menu (e.g., selecting `[FIGHT]`).
-*   **[KO]** **`X` Key / `Shift` Key**: Cancel or go back in menus (less frequently used in the simulator).
+**2. KR(카르마)은 정확히 무엇인가요?**  
+피격 시 일정 시간 동안 체력을 계속 깎아 먹는 지속 피해 효과입니다. 여러 번
+맞으면 KR이 겹쳐 빠르게 체력이 소진되므로, 한 번의 작은 실수도 치명적이 될
+수 있습니다.
 
-In "Blue SOUL" mode (gravity enabled), the **`Up Arrow`** key is used to jump.
+**3. 정말 깨는 게 가능한가요?**  
+네, 충분히 가능합니다. 다만 모든 패턴을 몸으로 외울 정도의 연습과 많은 도전이
+필요합니다.
 
-### Frequently Asked Questions (FAQ)
+**4. 왜 샌즈는 공격을 맞지 않나요?**  
+이 전투에서 샌즈는 플레이어의 모든 공격을 회피합니다. `[FIGHT]` 명령은 실제로
+피해를 주기보다, 다음 공격 패턴으로 넘어가기 위한 트리거 역할에 가깝습니다.
+전투 내내 핵심은 공격이 아니라 회피입니다.
 
-**1. Why is this game so incredibly difficult?**
-The game is a faithful simulation of what is considered one of the most challenging boss fights in modern gaming. Its difficulty is intentional, serving as the ultimate test for players who have completed the Genocide Route in the original game.
-
-**2. What is KR (Karmic Retribution)?**
-KR is a special damage-over-time effect. Instead of taking a single chunk of damage, getting hit by an attack applies KR, which continuously drains your health for a short period. The more you get hit, the more damage you'll take from this "poison."
-
-**3. Is it possible to actually win?**
-Yes, it is entirely possible to beat the Bad Time Simulator. However, it requires a significant amount of practice, patience, and dedication to memorizing every single attack pattern.
-
-**4. Why can't I hit Sans?**
-In this fight, Sans dodges every single one of your attacks until the very end. The `[FIGHT]` option serves only to advance the battle to the next phase of his attacks. Your focus should be 100% on defense and survival.
-
-**5. What is the difference between this and the fight in the actual game?**
-The simulator is a very accurate recreation. Minor differences might exist depending on the specific version of the simulator, but the core mechanics, attack patterns, and overall difficulty are designed to be as close to the original experience as possible.
-
+**5. 원작과 어떤 차이가 있나요?**  
+버전에 따라 자잘한 차이는 있을 수 있지만, 전반적인 패턴 구조와 난이도는
+원작에 최대한 가깝게 재현되어 있습니다.

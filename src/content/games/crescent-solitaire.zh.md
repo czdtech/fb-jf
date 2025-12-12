@@ -1,11 +1,11 @@
 ---
 locale: zh
 urlstr: crescent-solitaire
-title: '[ZH TRANSLATION NEEDED] Crescent Solitaire'
+title: "Crescent Solitaire 新月接龙"
 description: >-
-  [ZH TRANSLATION NEEDED] Crescent Solitaire is a relaxing card‑solitaire
-  variant: move cards between crescents to build foundations and clear the
-  tableau.
+  《Crescent Solitaire 新月接龙》是一款节奏舒缓的双副牌接龙玩法。你需要在“新月”形牌
+  阵与基础堆之间来回移动牌张，按花色分别从 A 到 K、从 K 到 A 建立完整同花顺序，最终清
+  理整副牌面。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/crescent-solitaire.jpg
@@ -18,28 +18,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Crescent Solitaire is a two‑deck patience game played with 16 tableau piles arranged in a semicircle (“crescent”) around eight foundations: one Ace and one King of each suit. The goal is to build Ace foundations up in‑suit to King and King foundations down in‑suit to Ace. Tableau builds allow up or down by suit and can wrap around (King after Ace and vice‑versa). Empty spaces are not filled. After you exhaust moves, a redeal moves the bottom card of every tableau pile to the top; you usually get three redeals per game. When the two foundations of a suit are in sequence, you may transfer cards between them (not the base Ace/King). 
+
+《Crescent Solitaire 新月接龙》使用两副牌进行，桌面会摆出 16 堆牌，呈半圆形“新月”环绕在
+八个基础堆周围：每种花色各有一堆以 A 为底、一堆以 K 为底。目标是：
+
+- 以 A 为底的基础堆按**同花色由小到大**从 A 递增到 K；  
+- 以 K 为底的基础堆按**同花色由大到小**从 K 递减到 A。  
+
+桌面牌堆之间允许**按花色顺序向上或向下叠放**，并且可以“环绕”——也就是说，A 之上可以接
+K，K 之下也可以接 A。牌堆空位不补牌。当所有可行移动耗尽时，你可以使用重新发牌
+（Redeal）：每一堆桌面牌的最底一张会被移到该堆顶端。标准规则下，一局通常允许使用三次
+重新发牌。在某一花色的 A 堆与 K 堆形成连续序列时，你可以在这两堆之间移动非底牌来微调
+顺序（但不能移动最底的 A 或 K）。
 
 ### How to Play
-- Move available top cards from the tableau to foundations, following suit and direction.  
-- Build tableau piles up or down in suit to uncover useful cards; wrapping is allowed.  
-- Use foundation transfers (same‑suit in sequence) to free blocked cards.  
-- When stuck, press Redeal to cycle each tableau pile’s bottom card to the top; up to three redeals.  
+
+- 将桌面各堆最顶端可用的牌移动到对应的基础堆，注意遵循花色与递增/递减方向规则。  
+- 在桌面堆之间按同花顺序向上或向下叠放，以翻出更多有用的牌；需要时可以利用“环绕”特性
+  （如 K 接在 A 上）。  
+- 利用同花基础堆之间的“转移”操作，在同一花色 A 堆与 K 堆之间搬运上层牌，解放被压住的
+  牌张。  
+- 当完全没有合理移动时，点击 Redeal 进行重新发牌：每堆底牌旋转到顶端；通常一局最多可
+  以这样重整 3 次。  
 
 ### Controls
-- Mouse/touch: select or drag cards; tap buttons for Undo/Hint/Redeal (as provided by the host site).  
-- No stock to draw from; progress depends on tableau manipulation and timely redeals.  
+
+- 鼠标/触控操作：点击或拖动牌张进行移动；根据托管站点不同，可点击按钮进行撤销（Undo）
+  、提示（Hint）和重新发牌（Redeal）。  
+- 本玩法没有补牌牌库，进度完全依赖于你如何调整桌面牌堆以及在正确时机使用 Redeal。  
 
 ### Tips and Strategies
-- Build evenly across suits so no single suit stalls both of its foundations.  
-- Before using a redeal, expose as many helpful top cards as possible.  
-- Prefer moves that release buried low cards for Ace stacks and high cards for King stacks.  
-- After a redeal, re‑scan all piles; valuable cards often rotate into play.  
+
+- 尽量让各花色的进度较为平均，避免同一花色的 A 堆和 K 堆都被卡死而拖住全局。  
+- 在使用 Redeal 之前，尽可能先通过移动把更多关键牌“翻到上面”，提高重整后的可操作空间
+  。  
+- 优先进行能放出低点数牌（供 A 堆使用）和高点数牌（供 K 堆使用）的移动，这两类牌是构
+  建基础堆的核心。  
+- 每次 Redeal 之后都重新仔细扫一遍所有牌堆，很多之前被埋住的关键牌会因为底牌上移而进
+  入可用范围。  
 
 ### FAQ
-- Q: How many redeals are allowed?  
-[ZH TRANSLATION NEEDED]   A: Standard Crescent allows three redeals (four deals total).  
-- Q: Can empty spaces be filled?  
-[ZH TRANSLATION NEEDED]   A: No. Spaces in the tableau are not filled in Crescent.  
-- Q: What is “foundation transfer”?  
-[ZH TRANSLATION NEEDED]   A: If the Ace and King foundations of a suit are in sequence, you may move one or more top cards between them (excluding the base Ace/King) to continue building.  
+
+- **Q: 一局游戏可以重整几次牌？**  
+  **A：** 标准 Crescent 规则通常允许 **3 次 Redeal**（也就是初始牌面 + 3 次重整，共 4 轮
+  ）。  
+
+- **Q: 桌面出现空位以后，可以再补牌吗？**  
+  **A：** 不可以。Crescent 规则中桌面空位不补牌，这也增加了布局规划的重要性。  
+
+- **Q: 什么是“基础堆转移（foundation transfer）”？**  
+  **A：** 当某一花色的 A 堆与 K 堆之间的牌序已经连续时，你可以在这两堆之间移动上层牌（不
+  包含底部的 A 与 K），通过来回调整把顺序进一步理顺，帮助你更顺利地完成整套同花序列。  

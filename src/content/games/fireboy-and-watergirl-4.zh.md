@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: fireboy-and-watergirl-4
-title: '[ZH TRANSLATION NEEDED] Fireboy And Watergirl 4'
+title: "Fireboy And Watergirl 4 水火小英雄：水晶神殿"
 description: >-
-  [ZH TRANSLATION NEEDED] The definitive guide to Fireboy and Watergirl 4: The
-  Crystal Temple. Learn to master the crystal portals with co-op strategies,
-  puzzle tips, controls, and FAQs for this 2-player platformer.
+  這是一份《Fireboy and Watergirl 4：The Crystal Temple》的完整指南，
+  教你掌握水晶傳送門、雙人合作策略、解謎技巧、操作方式與常見問題。
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
 thumbnail: /new-images/fireboy-and-watergirl-4.jpg
 tags:
@@ -20,52 +19,80 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### **Game Introduction**
 
-[ZH TRANSLATION NEEDED] *Fireboy and Watergirl 4: The Crystal Temple* is the fourth installment in the popular cooperative puzzle-platformer series. The game continues the core mechanics of its predecessors, requiring two players to guide the elemental duo through a series of intricate levels. Fireboy is immune to fire but must avoid water, while Watergirl is immune to water but must avoid fire. Both characters perish if they touch the green acid.
+《Fireboy and Watergirl 4：The Crystal Temple》是知名雙人合作解謎平台系列的第四部作品。
+本作延續前幾代的核心規則：兩位玩家需要合作操控火男孩與水女孩，一起通過一系列關卡。
+火男孩可以安全穿越火池，但必須避免碰到水；水女孩則相反，可以在水中暢行，卻不能碰到火。
+兩人如果接觸到綠色酸液，則會立刻陣亡。
 
-[ZH TRANSLATION NEEDED] The unique and central mechanic of this installment is the **Crystal Portals**. These portals are scattered throughout each level and allow the characters to teleport from one location to another instantly. The portals add a significant layer of complexity to the puzzles.
+這一代的核心新機制是 **水晶傳送門（Crystal Portals）**。傳送門散落在每一關的不同位置，
+可以將角色瞬間傳送到地圖上的另一處，大幅增加關卡的立體感與解謎複雜度：
 
-*   **White Portals**: These are two-way portals. Entering a white-edged portal will transport you to the other corresponding white portal, and you can travel back and forth.
-*   **Colored Portals (e.g., Black)**: These are one-way portals. You can only travel through them in one direction.
+*   **白色傳送門：** 這類傳送門是雙向的。走進某一個白邊傳送門後，會被送到另一個對應的白門，
+    並且可以在兩門之間來回穿梭。
+*   **有色傳送門（例如黑邊）：** 這類傳送門是單向的，只能從指定方向進入，無法原路返回。
 
-[ZH TRANSLATION NEEDED] Successfully navigating the Crystal Temple requires players to understand how to use these portals to bypass obstacles, reach otherwise inaccessible areas, and coordinate their movements across different parts of the map.
+要順利通關「水晶神殿」，玩家必須熟悉傳送門的連結方式，
+善用它們繞過障礙、抵達原本無法直接到達的平台，並在地圖兩端以分工合作的方式互相支援。
 
 ### **Gameplay Strategy & Tips**
 
-1.  **Master the Portals**: This is the most crucial skill for this game. Before moving, identify where each portal leads. Pay close attention to which ones are one-way, as entering one might trap a character until the other player can open a new path.
-2.  **Momentum is Conserved**: When you enter a portal with speed, you will exit the corresponding portal with the same speed and in the same direction. Use this to your advantage to cross large gaps or reach high ledges immediately after teleporting.
-3.  **Plan Your Route Through Portals**: Often, one character must go through a series of portals to activate a switch that allows the other character to proceed. Trace the path with your eyes before committing to a sequence of teleports.
-4.  **Standard Co-op Rules Apply**: Communication remains vital. Coordinate who pushes boxes, who holds down buttons, and who flips levers. Many puzzles are impossible without precise, synchronized actions.
-5.  **Look for Symmetrical Puzzles**: Many levels have a symmetrical design. What one character does on one side of the screen often needs to be mirrored by the other character on the opposite side, frequently using portals to assist each other.
-6.  **Don't Rush One-Way Portals**: Think carefully before sending a character through a one-way portal. Ensure there is a way for them to either continue forward or for the other player to eventually open a path for them to return.
+1.  **先搞清每個傳送門的去向：** 這是本作最重要的技巧。移動前先觀察地圖，理解每一個傳送門通往何處；
+    特別要注意哪些是單向門，避免角色一進去就被困在某處，只能依賴另一位玩家來幫忙開路。
+
+2.  **慣性會被保留：** 角色帶著速度進入傳送門時，出門後仍會以相同方向與速度衝出。
+    善用這點可以在傳送後立刻跨越大坑洞，或趁衝勢飛上高台。
+
+3.  **事先規劃傳送路線：** 很多關卡需要其中一位角色先穿過多個傳送門，
+    去按開關或踩按鈕，幫另一位開啟機關。建議先用視線在腦中走一遍「傳送動線」，
+    再實際操作，能少走許多冤枉路。
+
+4.  **雙人合作仍是關鍵：** 前作的合作原則在本作依然重要——誰負責推箱子、誰去踩長壓板、
+    誰去拉拉桿，都需要事先溝通。很多謎題在沒有精準配合時幾乎不可能解開。
+
+5.  **注意關卡對稱：** 很多關卡採左右對稱設計，一邊由火男孩行動、另一邊由水女孩對應，
+    兩邊的動作常需要互相呼應。有些時候也必須透過傳送門互相「換邊」來完成機關。
+
+6.  **單向門前要多想一步：** 在把角色送進單向傳送門前，先確認後續是否真的有路可走，
+    或是否有機會讓另一位角色從別處幫忙打開新道路；否則可能不得不重來整關。
 
 ### **Controls Guide**
 
-[ZH TRANSLATION NEEDED] The game uses the standard control scheme for the series, designed for two players on one keyboard.
+本作沿用系列一貫的雙人同鍵盤操作方式：
 
-[ZH TRANSLATION NEEDED] **For Fireboy:**
-*   **Move Left**: `A` key
-*   **Move Right**: `D` key
-*   **Jump**: `W` key
+**Fireboy 操作鍵：**
 
-[ZH TRANSLATION NEEDED] **For Watergirl:**
-*   **Move Left**: `Left Arrow` key
-*   **Move Right**: `Right Arrow` key
-*   **Jump**: `Up Arrow` key
+*   **向左移動：** `A`
+*   **向右移動：** `D`
+*   **跳躍：** `W`
+
+**Watergirl 操作鍵：**
+
+*   **向左移動：** `←` 左方向鍵
+*   **向右移動：** `→` 右方向鍵
+*   **跳躍：** `↑` 上方向鍵
 
 ### **Frequently Asked Questions (FAQ)**
 
-[ZH TRANSLATION NEEDED] **1. How do the crystal portals work?**
-[ZH TRANSLATION NEEDED] They teleport your character instantly. Pay attention to the color of the portal's edge. White-edged portals are two-way (you can go back and forth). Other colored portals (like black) are one-way only. You will exit the portal that looks identical to the one you entered.
+**1. 水晶傳送門到底怎麼運作？**  
+它們會瞬間把角色傳送到另一個相同樣式的傳送門。注意傳送門邊框的顏色——
+白邊代表可以雙向往返，像通道一樣；黑邊等其他顏色通常是單向，只能從一端進去。
 
-[ZH TRANSLATION NEEDED] **2. Can I play this game alone?**
-[ZH TRANSLATION NEEDED] Yes, but it is very difficult. You will need to control both characters at the same time, using both hands on different parts of the keyboard. The game is designed and best enjoyed with a partner.
+**2. 可以一個人玩嗎？**  
+可以，但難度會很高。你得同時用雙手操作兩組按鍵，一邊管火男孩一邊管水女孩。
+遊戲原本就是為雙人合作設計的，與夥伴一起玩會更流暢也更好玩。
 
-[ZH TRANSLATION NEEDED] **3. Why can't I finish the level even though I'm at the exit?**
-[ZH TRANSLATION NEEDED] Both Fireboy and Watergirl must be standing at their respective, element-coded doors *simultaneously* for the level to end.
+**3. 為什麼我已經站在出口門口了，關卡還沒結束？**  
+因為必須「火男孩和水女孩都同時」站在各自對應的元素大門前，
+關卡才會結算通關，單獨一人先到是不算的。
 
-[ZH TRANSLATION NEEDED] **4. What is the difference between this game and the other Fireboy and Watergirl games?**
-[ZH TRANSLATION NEEDED] The main difference is the core puzzle mechanic. *The Forest Temple* (Part 1) is straightforward. *The Light Temple* (Part 2) introduced light beams and sensors. *The Ice Temple* (Part 3) added ice and snow physics. *The Crystal Temple* (Part 4) introduces the complex crystal portal system for teleportation.
+**4. 這一代與前幾代有什麼差別？**  
+每一代的核心機關都不同：
+*   第一代《Forest Temple》比較偏純平台解謎；
+*   第二代《Light Temple》加入光束與感應器；
+*   第三代《Ice Temple》引入冰面與雪地物理；
+*   第四代《Crystal Temple》則以水晶傳送門為核心，
+    關卡設計更立體、路線變化也更多。
 
-[ZH TRANSLATION NEEDED] **5. Are the gems necessary to complete a level?**
-[ZH TRANSLATION NEEDED] No, you do not need to collect any gems to finish a level. The gems are for achieving a higher score and rank. Collecting all gems and finishing quickly earns you the best grade.
-
+**5. 寶石一定要全收集才能過關嗎？**  
+不需要。通關只要求兩位角色安全抵達各自出口門口。寶石主要影響評級與得分，
+若想拿到最高評價，就要在限定時間內盡量收集所有寶石並快速過關。

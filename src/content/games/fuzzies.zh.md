@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fuzzies
-title: '[ZH TRANSLATION NEEDED] Fuzzies'
+title: "Fuzzies 毛球泡泡龍"
 description: >-
-  [ZH TRANSLATION NEEDED] Color‑matching bubble shooter: aim and pop fuzzies by
-  matching colors, use boosters, and prevent the wall from reaching the bottom.
+  Fuzzies 是一款顏色匹配式泡泡射擊遊戲，瞄準並射出毛絨毛球，
+  透過同色連線引爆消除、使用增益道具，阻止上方牆面壓到最底部。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/fuzzies.jpg
@@ -18,26 +18,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Match‑3 bubble shooter with cute fuzzballs. Clear clusters to score and trigger cascades while the ceiling slowly descends.
+
+《Fuzzies》是一款可愛風三消泡泡射擊遊戲，畫面中滿是各種顏色的小毛球。你要藉由發射新的毛球，
+讓三顆以上同色毛球相連後一口氣彈出，並形成連鎖消除，
+同時要注意上方「天花板」會慢慢往下壓，不能讓整排毛球掉到畫面底部。
 
 ### How to Play
-- Aim and shoot to connect three of the same color.
-- Bank shots off walls to reach tucked corners.
-- Use special bubbles/boosters when available to clear large areas.
+
+- 拿準角度射出毛球，讓它與兩顆以上同色毛球相連，即可完成一次消除。
+- 利用牆壁反彈，瞄準那些躲在角落或下方的毛球群，達成難以直射的角度。
+- 當出現特殊毛球或加成道具時，可以一次清除大範圍或特定顏色，
+  適合在盤面快被壓滿時做「急救」。
 
 ### Controls
-- Mouse/Touch to aim and shoot; swap next color when available.
+
+- 使用滑鼠或觸控拖曳準心，放開即發射毛球；
+- 若版本支援，可在發射前切換下一顆候補顏色，為後續佈局預留更好選擇。
 
 ### Tips
-- Target high anchors to drop large sections.
-- Keep the board balanced—don’t overfill one side.
-- Save bombs/rainbows for rescue shots.
+
+- 優先瞄準高處「支撐點」，只要把連著整大串毛球的上端打掉，整片就會一口氣掉落，
+  比逐團消除效率高得多。
+- 盡量保持左右兩側高度平衡，避免一側堆太厚導致另一側變得難以操作。
+- 將炸彈、彩虹球等強力道具留到關鍵時刻使用，例如盤面幾乎頂到下方或只剩幾發球時。
 
 ### FAQ
-- Q: How do I clear unreachable clusters?  
-[ZH TRANSLATION NEEDED]   A: Bank shots or drop their anchors by clearing supporting bubbles.
-- Q: Can I change the next color?  
-[ZH TRANSLATION NEEDED]   A: Many versions let you swap the queued bubble.
-- Q: What ends the level?  
-[ZH TRANSLATION NEEDED]   A: The wall reaching the bottom or running out of shots, depending on mode.
 
+- 問：有些地方看起來射不到，怎麼清掉？  
+  答：可以利用牆壁的彈射角度「繞過去」，或是直接攻擊支撐那一片毛球的上層，讓整片一起掉落。
+
+- 問：可以更換下一顆要射出的顏色嗎？  
+  答：許多版本提供切換候補球的功能，你可以根據盤面需求選擇更合適的顏色出手。
+
+- 問：什麼時候算是失敗？  
+  答：依模式不同，通常是上方毛球群壓到畫面底線，或是用完所有可射出的球仍無法達成關卡目標。

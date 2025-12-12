@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: thruline
-title: '[KO] Thruline'
+title: 'Thruline 스루라인'
 description: >-
-  [KO] Thruline is a clean connect‑the‑network — draw a single continuous line
-  through nodes to satisfy turn/coverage constraints.
+  Thruline은 하나의 끊기지 않는 선으로 모든 필수 노드를 지나가야 하는 연결 퍼즐
+  게임입니다. 회전·교차·커버 규칙을 지키면서 올바른 경로를 찾아야 합니다.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thruline.jpg
 tags:
@@ -16,30 +16,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Thruline은 그리드 위의 노드들을 하나의 끊기지 않는 선으로 연결해야 하는 퍼즐
+게임입니다. 모든 필수 노드를 지나가야 하며, 선의 회전 횟수나 교차 가능 여부,
+특정 칸을 꼭 지나가야 하는 등의 규칙을 동시에 만족해야 합니다. 후반으로 갈수록
+문이 열리고 닫히는 게이트, 다리(브리지), 짝수·홀수 이동 제약 같은 요소가
+추가되어 난이도가 올라갑니다.
 
-Thruline tasks you with tracing one unbroken path that visits all required nodes while obeying rules about turns, crossings, and coverage. Later grids add gates, bridges, and parity tricks that reward early bottleneck placement.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **병목 지점 먼저 확보:**
+    길이 좁아 한 번 지나가면 다시 돌아오기 힘든 통로부터 먼저 선을
+    그려 두면, 나중에 막히는 일을 줄일 수 있습니다.
+2.  **턴(회전) 예산 관리:**
+    긴 직선 구간에서는 최대한 회전을 줄이고, 꼭 필요한 코너 지점에
+    회전을 아껴 두면 조건을 만족시키기 쉽습니다.
+3.  **브리지(다리) 규칙 이해:**
+    교차는 표시된 다리에서만 허용되는 경우가 많습니다. 다리를 한 번 사용하는
+    순서와 방향이 전체 경로에 큰 영향을 줍니다.
+4.  **초기 단계에서 되돌리기:**
+    어떤 구역이 고립되어 더 이상 연결할 수 없을 것 같다면, 그때부터 다시
+    그리기보다 바로 몇 턴 전으로 돌아가 경로를 수정하는 것이 효율적입니다.
+5.  **대칭 구조 활용:**
+    퍼즐이 좌우·상하 대칭이라면, 한쪽 절반의 부분 해법을 만든 뒤 나머지
+    절반에 거울처럼 복제해 적용할 수 있습니다.
 
-1.  **[KO]** Bottlenecks first: Claim narrow corridors before they close.
-2.  **[KO]** Turn budgeting: Minimize turns on long runs; save them for tight corners.
-3.  **[KO]** Bridge logic: Cross only on provided bridges; treat them as limited resources.
-4.  **[KO]** Early backtrack: Undo as soon as isolation appears.
-5.  **[KO]** Symmetry exploitation: Mirror partial solutions in symmetric layouts.
+### 조작 방법 안내
 
-### Controls Guide
+- 마우스나 터치로 시작점에서 드래그해 선을 그립니다.
+- 잘못 그린 부분은 되돌리기 또는 전체 지우기 버튼으로 수정할 수 있습니다.
+- 일부 버전에서는 규칙을 어겼을 때 충돌 지점을 표시해 주기도 합니다.
 
-- Drag to draw; undo/clear via UI; some builds show conflict highlights.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 한 칸이 모자라서 끝에 닿지 못합니다.**
 
-- Q: I end one edge short.
+  A: 보통 초반에 회전을 한 번 더 써서, 전체 경로 길이가 꼬인 경우가 많습니다.
+  긴 직선 구간을 더 곧게 만들 수 없는지 다시 확인해 보세요.
 
-A: You likely mis‑spent a turn; reroute a long segment straighter.
+- **Q: 교차는 어느 칸에서 가능한가요?**
 
-- Q: Are crossings legal?
-
-A: Only on marked bridges.
-
+  A: 일반 칸에서는 선이 서로 교차할 수 없고, 표시된 다리 칸에서만 상하/좌우
+  통과가 허용되는 경우가 많습니다. 다리 위치를 먼저 체크해 경로를 설계하세요.

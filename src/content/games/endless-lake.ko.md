@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: endless-lake
-title: '[KO] Endless Lake'
+title: Endless Lake 엔들리스 레이크
 description: >-
-  [KO] How far can you run? Test your reflexes in this minimalist endless
-  runner. Tap to jump once, or tap again in mid-air for a double jump to cross
-  the treacherous gaps of the Endless Lake.
+  끝없이 이어지는 호수 위 발판을 달리는 원터치 러너 게임입니다. 단·더블 점프를 적절히 사용해 간격을 건너며 얼마나 멀리 갈 수 있는지
+  도전해 보세요.
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
 thumbnail: /new-images/endless-lake.png
 tags:
@@ -17,34 +16,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Endless Lake는 미니멀한 그래픽으로 표현된 호수 위 발판을 달려 나가는
+엔드리스 러너입니다. 플레이어는 자동으로 달리는 캐릭터를 한 번 또는 두 번
+점프하게 만들어, 발판 사이의 간격을 정확히 맞춰 건너야 합니다. 거리 기록이
+점수로 환산되며, 얼마나 멀리까지 떨어지지 않고 달릴 수 있는지가 관건입니다.
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Endless Lake is a minimalist and challenging endless runner that tests your timing and reflexes. You control a character running across a series of platforms suspended over a tranquil lake. The gameplay is focused on one simple mechanic: jumping. You must perfectly time your single and double jumps to navigate the ever-changing gaps between platforms and see how far you can go.
+1. **더블 점프 감 익히기**  
+   한 번 탭은 짧은 점프, 공중에서 한 번 더 탭하면 더 먼 거리까지 날아가는
+   더블 점프가 됩니다. 두 점프의 거리와 높이 감각을 몸에 익히는 것이 가장
+   중요합니다.  
+2. **리듬 찾기**  
+   게임에는 일정한 속도와 리듬이 있습니다. 속도가 빨라질수록 반응 시간은 짧아지지만,
+   손가락 움직임을 리듬에 맞춰 반복하면 훨씬 안정적으로 플레이할 수 있습니다.  
+3. **불필요한 더블 점프 자제**  
+   짧은 간격에서 습관처럼 더블 점프를 쓰면 착지 위치와 다음 점프 타이밍이
+   꼬이기 쉽습니다. 정말 넓은 간격에서만 더블 점프를 사용하는 습관을 들이세요.  
+4. **앞을 미리 보기**  
+   캐릭터 바로 주변만 보지 말고, 항상 두세 개 발판 앞까지 함께 바라보며
+   다음 점프가 단점프인지 더블 점프인지 미리 판단해 두면 여유가 생깁니다.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **Master the Double Jump:** The most crucial skill in the game is the double jump. Tapping once gives you a short hop, but tapping a second time while in mid-air gives you an extra boost to cross wider gaps. Learning the feel and distance of both jump types is essential.
-2.  **[KO]** **Find Your Rhythm:** The game has a distinct rhythm. Try to get into a flow with your jumps. As the speed increases, your reaction time will need to get shorter, but a steady rhythm can help you stay focused.
-3.  **[KO]** **Don't Double Jump Unnecessarily:** A common mistake is to use a double jump for a short gap. This can mess up your timing and positioning for the next jump. Only use the double jump when it's absolutely necessary.
-4.  **[KO]** **Look Ahead:** Keep your eyes focused a few platforms ahead of your character. This will give you more time to recognize whether the next gap requires a single or a double jump.
+원터치 방식으로 조작합니다.
 
-### Controls Guide
+- **단점프**: 마우스 왼쪽 버튼 클릭 또는 화면 한 번 탭  
+- **더블 점프**: 점프 중 다시 한 번 클릭/탭  
 
-The game uses a simple one-touch control system.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Single Jump:** Click the left mouse button or tap the screen once.
-*   **[KO]** **Double Jump:** Tap or click once to initiate a jump, then tap or click a second time while your character is in the air.
+- **Q: 게임의 목표는 무엇인가요?**  
+  **A:** 호수에 떨어지지 않고 가능한 한 멀리 달리는 것입니다. 전진 거리만큼
+  점수가 오릅니다.  
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 언제 더블 점프를 써야 할지 모르겠습니다.**  
+  **A:** 눈으로 봐도 간격이 넓어 보이는 구간, 단점프로는 모자랄 것 같은 구간에서만
+  사용하는 것이 좋습니다. 몇 번 떨어져 보면서 감을 익히는 과정이 필요합니다.  
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To run as far as possible without falling into the lake. Your score is based on the distance you travel.
+- **Q: 중간에 보이는 “거울 문”은 무엇인가요?**  
 
-*   **[KO]** **Q: How do I know when to use a double jump?**
-    *   **[KO]** **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
+    - **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
 
-*   **[KO]** **Q: What are the mirror doors?**
-    *   **[KO]** **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
+- **Q: What are the mirror doors?**
+
+    - **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
+  **A:** 이 포탈을 통과하면 캐릭터가 복제되어 여러 명이 동시에 뛰는 연출이
+  나오기도 합니다. 조작은 동일하게 유지되지만, 시각적인 재미를 더해 주는 요소입니다.  
 

@@ -1,12 +1,12 @@
 ---
 locale: fr
 urlstr: snake-io
-title: '[FR] Snake.io'
+title: 'Snake.io'
 description: >-
-  [FR] Play Snake.io, a popular multiplayer action game that modernizes the
-  classic snake experience. Compete against others to become the longest snake
-  by consuming pellets and defeating opponents. Use speed boosts strategically
-  to dominate the arena in this addictive casual game.
+  Joue à Snake.io, un jeu d’action multijoueur qui modernise le concept
+  classique du serpent : affronte d’autres joueurs pour devenir le plus long
+  en avalant des pastilles et en piégeant tes adversaires, et utilise le boost
+  de vitesse avec stratégie pour dominer l’arène.
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/snake-io.jpg
 tags:
@@ -17,37 +17,46 @@ score: 3.5/5  (677 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+Snake.io est un jeu en ligne multijoueur qui dépoussière le concept de
+Snake. Tu contrôles un serpent stylisé et affrontes d’autres joueurs en
+temps réel pour devenir le plus grand et le plus long du serveur. Ton
+objectif principal est de grossir en avalant les pastilles lumineuses
+dispersées dans l’arène, tout en éliminant les autres en les forçant à
+percuter ton corps.
 
-### Game Introduction
+### Guide de jeu
 
-Snake.io is a popular online multiplayer game that puts a modern spin on the classic snake concept. Players control a snake-like avatar and compete against other players in real-time to become the largest and longest snake on the server. The primary objective is to grow your snake by consuming glowing pellets scattered throughout the game area while strategically defeating opponents by forcing them to collide with your body.
+Ton but est de grandir en mangeant des pastilles. Celles laissées par un
+serpent vaincu font grossir bien plus vite que les petites pastilles
+isolées. Pour battre un adversaire, amène‑le à projeter sa tête contre ton
+corps. Lorsqu’un serpent meurt, il laisse derrière lui une longue traînée
+de pastilles très précieuses. Attention : ta partie se termine si tu
+percutes le corps d’un autre serpent ou les limites de l’arène.
 
-### Gameplay Guide
+### Commandes
 
-Your main goal is to grow by eating pellets. The pellets left behind by a defeated snake will make you grow much faster than the standard scattered ones. To defeat an opponent, you must trick them into running their head into your snake's body. When a snake is defeated, it transforms into a large trail of valuable pellets. Be careful, as your game ends if you run into another snake's body or the arena walls.
+**PC / Navigateur :**  
+- **Souris :** ton serpent suit la direction du curseur.  
+- **Clavier :** tu peux aussi utiliser `WASD` ou les flèches.  
+- **Boost :** maintiens le clic gauche ou la barre d’espace pour un coup
+  d’accélération. Le boost consomme ta masse, donc ne l’utilise qu’aux
+  moments clés.
 
-### Controls Guide
+**Mobile :**  
+- Utilise le joystick virtuel à l’écran ou fais glisser ton doigt pour
+  diriger le serpent.
 
-**PC/Web Browser:**
-- **Mouse:** Your snake follows the direction of your mouse cursor.
-- **Keyboard:** Use the `WASD` or arrow keys for movement.
-- **Speed Boost:** Hold the left mouse button or the spacebar to get a burst of speed. Using the boost consumes your mass, so use it wisely.
+### Foire aux questions (FAQ)
 
-**Mobile:**
-- Use the on-screen virtual joystick or touch and drag your finger to guide the snake.
+**Snake.io est‑il un vrai multijoueur en ligne ?**  
+Oui, tu affrontes d’autres joueurs en temps réel.
 
-### Frequently Asked Questions (FAQ)
+**Quelle est la différence principale avec Slither.io ?**  
+Le cœur du gameplay est similaire, mais Snake.io propose davantage de
+skins et de thèmes visuels.
 
-**Is Snake.io a real multiplayer game?**
-
-Yes, Snake.io is a real-time multiplayer game where you compete against other live players.
-
-**What is the main difference between Snake.io and Slither.io?**
-
-While the core gameplay is similar, Snake.io offers a wider variety of character skins and themed worlds.
-
-**Can I play Snake.io with friends?**
-
-Yes, you can compete with friends to see who can achieve the highest score and become the biggest snake.
-
+**Puis‑je jouer avec des amis ?**  
+Tu peux au moins comparer vos scores et voir qui parvient à devenir le plus
+gros serpent de l’arène.

@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: gym-stack
-title: '[ZH TRANSLATION NEEDED] Gym Stack'
-description: >-
-  [ZH TRANSLATION NEEDED] Stack up weights and smash through obstacles in Gym
-  Stack! A fun and challenging runner game where you collect weights to grow
-  stronger.
+title: "《Gym Stack》健身杠铃堆堆乐"
+description: "在《Gym Stack》中，你要在多根杠上堆叠不同大小和颜色的杠铃片，通过移动和合并来清理空间，用最聪明的方式拿下高分。"
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
 thumbnail: /new-images/gym-stack.jpeg
 tags:
@@ -17,29 +14,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Gym Stack is an addictive and satisfying 3D puzzle game that challenges your organizational skills. The game board features several bars where different colored and sized weights will appear. Your objective is to strategically move and stack these weights, merging identical ones to create larger weights and clear space. The goal is to score as many points as possible by making smart merges without letting the bars get completely filled up. It's a test of foresight and strategy with a fun gym theme.
+《Gym Stack》是一款上手轻松但非常上头的 3D 益智堆叠游戏，考验的是你的“收纳”和规划能力。场景中会出现多根杠，每根杠上会不断出现不同颜色、不同重量的杠铃片。你的目标是不断移动、堆叠这些杠铃，让相同颜色和大小的杠铃片合并成更大的重量，同时清出更多空间。只要通过巧妙的移动和合并，在不让所有杠都被塞满的前提下，你就能持续得分，刷出高纪录。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Match by Color:** You can only merge weights that are of the same color. Plan your moves to bring identical weights together.
-2.  [ZH TRANSLATION NEEDED] **Think Vertically:** You need to stack smaller weights on top of larger ones of the same color to merge them. You cannot place a larger weight on top of a smaller one.
-3.  [ZH TRANSLATION NEEDED] **Keep Columns Open:** Try not to block access to other columns. A poorly placed weight can prevent you from making crucial merges later on. Keep your stacks organized.
-4.  [ZH TRANSLATION NEEDED] **Plan for a Cascade:** Sometimes, a single move can set off a chain reaction of merges. Look for these opportunities to clear a large amount of space and score big points.
-5.  [ZH TRANSLATION NEEDED] **Don't Get Trapped:** The game ends if the bars fill up and you have no more legal moves. Always be thinking about how to keep space available for new weights that will appear.
+### 游戏玩法与攻略
+1.  **颜色优先匹配**：只有同颜色的杠铃才能合并，因此移动时要有意识地把同色片集中在几根主要的杠上。
+2.  **垂直顺序很重要**：通常需要把小杠铃堆在同色的大杠铃上才能触发合并，反过来把大放到小上面会直接卡死布局，要尽量避免。
+3.  **保持通路和空位**：不要让某一列堵死入口，随手放错的一个大块有可能让一整列完全无法再利用，尽量留下一两根“机动栏”供中转。
+4.  **制造连锁合并**：有时候一次移动就能触发多层级的连续合并，留意这种“连锁反应”，既能一下子清空大面积空间，又能拿到爆发式高分。
+5.  **警惕临界状态**：当多根杠已经接近顶端时，务必优先操作那些最危险的列，避免因为一个多余的杠铃直接宣告游戏结束。
 
-### Controls Guide
+### 操作说明
 
-*   **Select and Move:** Use your mouse to click and select a weight stack. Then, click on an empty spot or a valid stack to move it.
+*   **选择并移动**：用鼠标点击选择一堆杠铃，再点击目标位置或可合并的同色堆叠，就可以完成一次移动。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: How do I merge weights?**
-     *   **A:** To merge weights, you must place a stack of a certain color and size onto another stack of the exact same color and size. This will create a single, larger weight.
+*   **Q: 杠铃是如何合并的？**  
+    *   **A:** 只有颜色和大小都完全相同的杠铃堆叠在一起时才会合并，合并后会生成一块更大的重量，并为你腾出更多空间。
 
-*   **Q: What is the goal of the game?**
-     *   **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.
+*   **Q: 游戏的最终目标是什么？**  
+    *   **A:** 核心目标是通过不断合并和清理，尽可能长时间地保持棋盘不被塞满，同时追求更高的累计得分。
 
-*   **Q: Is there a time limit?**
-     *   **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.
-
+*   **Q: 游戏有时间限制吗？**  
+    *   **A:** 没有，《Gym Stack》是回合制思考向的益智游戏，你可以慢慢规划每一步，只要不把所有杠都堆满，就可以一直玩下去。

@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: block-breaker-king
-title: '[FR] Block Breaker King'
-description: >-
-  [FR] Block Breaker King modernizes brick‑breaker — aim caroms, manage
-  power‑ups, and control ball speed for efficient clears.
-iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
+title: "Block Breaker King"
+description: "Block Breaker King modernise le casse‑briques : dirige ta raquette, ajuste l’angle des rebonds, gère les bonus et casse toutes les briques sans laisser passer la balle."
+iframeSrc: "https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/"
 thumbnail: /new-images/block-breaker-king.png
 tags:
   - puzzle
@@ -14,47 +12,48 @@ score: 3.8/5  (1631 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation du jeu
 
+*Block Breaker King* est un puzzle de placement : tu choisis des blocs façon Tetris et tu les poses sur une grille fixe. Chaque ligne horizontale ou verticale complétée est détruite, ce qui libère de l’espace pour les pièces suivantes. La partie se termine dès qu’aucune pièce ne peut être posée, donc la planification de l’espace est primordiale.
 
+Les pièces à jouer apparaissent en bas de l’écran et certains modes révèlent aussi les pièces à venir. Tu dois donc anticiper l’arrivée des pièces volumineuses et conserver des zones de secours.
 
-### **Game Introduction**
+Le mode « Mission » ajoute des objectifs concrets (lignes à effacer, score à atteindre, survie) qui débloquent des niveaux successifs en plus du mode infini classique.
 
-*Block Breaker King: Mission* is a strategic block puzzle game, where the gameplay is similar to the placement mechanics of *Tetris* but without the falling blocks. The objective is to **strategically place various Tetris-like shapes onto a grid to create and clear full horizontal or vertical lines.**
+### Guide de jeu
 
-At the bottom of the screen, players are presented with a selection of different block shapes. You must drag and drop these shapes onto the main game board. When a complete horizontal row or a vertical column is filled with blocks, that line will be cleared, freeing up space on the board.
+1.  **Priorise les lignes :** cherche en priorité à compléter des lignes ou à préparer une ligne facile à fermer dans les deux prochains coups.
+2.  **Bannir les trous uniques :** une case isolée au centre devient vite un piège. Reviens rapidement à une surface plane.
+3.  **Planifie avec les aperçus :** quand tu vois les prochaines pièces, pense en séquences plutôt qu’en placements isolés.
+4.  **Travaille les coins et les bords :** construis à partir des extrémités pour laisser le centre libre aux pièces volumineuses.
+5.  **Ne force pas les combos :** mieux vaut effacer une seule ligne proprement que tenter un combo qui créerait une cavité.
+6.  **Réserve de l’espace aux gros blocs :** garde toujours un carré de 3×3 ou une bande de 5 cases libre pour les pièces les plus encombrantes.
 
-The game ends when you are unable to place any of the given shapes onto the board because there is no available space that fits them. The challenge lies in careful planning and efficient placement to keep the board as clear as possible for as long as possible, aiming to achieve the highest score. The "Mission" aspect, as shown in the screenshots, suggests a level-based progression system with specific objectives for each stage.
+### Commandes
 
-### **Gameplay Strategy & Tips**
+Le gameplay est pensé pour un contrôle tactile ou à la souris.
 
-1.  **[FR]** **Prioritize Clearing Lines**: Your primary goal should always be to clear lines. When deciding where to place a block, look for the spot that will either complete a line immediately or set up an easy completion with the next one or two pieces.
-2.  **[FR]** **Avoid Creating Single Gaps**: Be very careful not to leave single, isolated empty squares in the middle of your structure. These "holes" are extremely difficult to fill later on and can quickly lead to a game over as they waste valuable space.
-3.  **[FR]** **Think About the Next Pieces**: The game shows you the upcoming pieces. Plan your placements not just for the current piece, but also considering how the next pieces will fit onto the board.
-4.  **[FR]** **Use Corners and Edges**: Try to build your structure from the corners and edges inward. This generally keeps the central area of the board more open and flexible for placing larger or awkwardly shaped pieces.
-5.  **[FR]** **Don't Be Afraid to Sacrifice a Combo**: While clearing multiple lines at once (a combo) gives a high score, it's not always the best move. Sometimes, making a simple, single-line clear is a better strategic choice if it prevents you from creating a problematic gap or blocking off a large area.
-6.  **[FR]** **Manage Your Large Pieces**: The large square (3x3) and long line pieces (1x5 or 5x1) require the most space. Try to always keep enough open area on your board to accommodate them. If you can't place a large piece, the game can end very quickly.
+*   **Sélectionner/placer :** fais glisser la pièce choisie depuis le bas de l’écran, positionne‑la sur la grille et relâche pour la déposer.
+*   **Rotation :** selon le mode, un tap/clic supplémentaire permet de faire pivoter la pièce avant de la poser.
 
-### **Controls Guide**
+### Foire aux questions (FAQ)
 
-The game is designed for simple one-touch mobile gameplay.
+**1. Y a‑t‑il une limite de temps ?**
 
-*   **[FR]** **Select and Place**: **Touch and hold** a block shape from the bottom of the screen, **drag** it to the desired position on the grid, and **release** to place it.
-*   **[FR]** **Rotate**: In many games of this type, you can tap the shape before dragging it to rotate it. This may or may not be a feature depending on the specific version.
+Non, la pression ne vient que de la place restante sur la grille.
 
-### **Frequently Asked questions (FAQ)**
+**2. Peut‑on tourner les pièces ?**
 
-**1. Is there a time limit?**
-Typically, games in this genre do not have a time limit per move. The pressure comes from the limited space on the board, not from a clock. This makes it a game of pure strategy rather than speed.
+Cela dépend du mode. Le mode classique supprime souvent la rotation, ce qui rend l’anticipation encore plus importante.
 
-**2. Can I rotate the blocks?**
-This depends on the specific game mode or version. In the classic mode of this puzzle type, blocks cannot be rotated, which adds to the challenge. Some versions may include a mode where rotation is possible.
+**3. Que propose le mode Mission ?**
 
-**3. What is the goal of the "Mission" mode?**
-As shown in the first screenshot, the "Mission" mode is a series of pre-designed levels (Stage 1, 2, 3, etc.). Each level likely has a specific objective, such as "clear 10 lines," "score X points," or surviving a certain number of pieces, which you must complete to unlock the next stage.
+Chaque mission impose un objectif (effacer X lignes, marquer Y points, survivre Z pièces). Les terminer débloque la mission suivante.
 
-**4. How do I get a high score?**
-High scores are achieved by:
-*   **[FR]** **Clearing multiple lines at once**: Combos give significantly more points than single-line clears.
-*   **[FR]** **Surviving for a long time**: The more pieces you successfully place, the higher your score will be.
-*   **[FR]** **Using special blocks**: Some levels may contain special blocks (like the bomb in one of the screenshots) that clear a larger area when their line is completed.
+**4. Comment améliorer mon score ?**
 
+Les scores montent plus vite en :
+
+*   enchaînant des effacements multiples
+*   restant en vie longtemps pour poser davantage de pièces
+*   exploitant les blocs spéciaux (bombes, etc.) disponibles dans certains niveaux

@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: bowling-stars
-title: '[KO] Bowling Stars'
+title: 'Bowling Stars 볼링 스타즈'
 description: >-
-  [KO] Bowling Stars brings smooth ten‑pin bowling to the browser — read oil,
-  pick angles, and strike consistently.
+  Bowling Stars는 십핀 볼링을 부드러운 조작으로 즐길 수 있는 캐주얼 볼링
+  시뮬레이션 게임입니다. 레인 상태를 읽고 각도와 회전을 조절해, 스트라이크와
+  스페어를 꾸준히 이어 가 보세요.
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/bowling-stars.png
 tags:
@@ -14,30 +15,61 @@ score: 4.0/5  (1743 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bowling Stars는 방향, 파워, 훅(회전) 조절을 중심으로 한 십핀 볼링 게임입니다.
+볼을 어느 위치에서 어떤 힘과 회전으로 던지는지에 따라 핀 액션이 크게 달라지며,
+스트라이크를 얼마나 안정적으로 이어 가고 남은 핀을 스페어 처리하느냐가 고득점을
+좌우합니다.
 
+볼링을 잘 모르더라도 간단한 드래그와 버튼 조작만 익히면 금방 플레이할 수 있고,
+조금씩 각도와 회전을 조정해 자신의 루틴을 만드는 재미가 있는 게임입니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Bowling Stars is a casual ten‑pin bowling sim featuring aim, power, and hook control. Consistency and spare conversion define high scores—dial in your release and adapt to lane behavior to string together strikes.
+1.  **포켓을 정확히 노리기**  
+    오른손잡이라면 1번·3번 핀 사이, 왼손잡이라면 1번·2번 핀 사이가 기본 포켓
+    위치입니다. 볼이 이 지점을 적당한 각도로 통과하면 스트라이크 확률이 크게
+    올라갑니다.
 
-### Gameplay Strategy & Walkthrough
+2.  **훅(곡선)을 적절히 주기**  
+    볼을 완전히 직선으로 보내기보다는, 가볍게 휘어 들어가게 던져야 핀들이
+    서로에 부딪히며 더 잘 쓰러집니다. 너무 많이 휘어져도, 전혀 휘지 않아도
+    스플릿이 나기 쉬우니, 자신에게 맞는 곡선량을 찾아 보세요.
 
-1.  **[KO]** Pocket hits: For right‑handers, aim between the 1–3 pins; left‑handers, 1–2 pocket.
-2.  **[KO]** Control the hook: Add gentle curve so the ball enters the pocket at an angle for better pin action.
-3.  **[KO]** Spare system: Memorize spare angles (e.g., 7‑pin and 10‑pin) and use cross‑lane shots.
-4.  **[KO]** Tempo matters: A smooth, repeatable release beats random power spikes.
-5.  **[KO]** Adjust quickly: If you leave frequent splits, shift your starting line or reduce hook.
+3.  **스페어 각도 기억하기**  
+    7번 핀, 10번 핀처럼 한쪽 끝에 남은 핀은 크로스 레인으로 대각선에서 노려야
+    합니다. 자주 나오는 스페어 패턴의 출발 위치와 조준선을 어느 정도 외워 두면
+    안정적으로 점수를 유지할 수 있습니다.
 
-### Controls Guide
+4.  **템포를 일정하게 유지하기**  
+    한 번은 세게, 한 번은 약하게 던지는 식의 들쭉날쭉한 파워보다, 매번 비슷한
+    속도와 타이밍으로 던지는 편이 훨씬 좋은 결과를 줍니다. 손의 움직임과 버튼
+    입력 타이밍을 일정하게 유지해 자신만의 루틴을 만들어 보세요.
 
-- Aim: Drag left/right to set line.
-- Power: Hold/release to set speed.
-- Hook: Drag/tilt while rolling or set a spin parameter before release.
+5.  **스플릿이 자주 나오면 빠르게 조정하기**  
+    같은 자리에서 계속 스플릿이 난다면, 시작 위치를 한 칸 정도 옆으로 옮기거나
+    훅의 양을 조금 줄여 보는 식으로 빠르게 수정하세요. 작은 조정만으로도 남는
+    핀 패턴이 크게 달라질 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 조작 방법
 
-- How to reduce splits? Enter the pocket at a controllable angle; too steep or too flat increases split chances.
-- Any tip for 7/10? Use cross‑lane shots with enough angle; prioritize spare consistency over hero plays.
-- Why do I miss light/heavy? Adjust starting position or hook strength by small increments.
+-   **조준:** 마우스/터치로 좌우로 드래그해 볼의 라인을 설정합니다.
+-   **파워:** 버튼을 길게 눌렀다가 떼는 방식으로 속도를 조절합니다.
+-   **훅:** 볼이 굴러가는 동안 좌우로 드래그하거나, 일부 모드에서는 투구 전에
+    회전 수치를 설정해 훅의 강도를 미리 정할 수 있습니다.
 
+### 자주 묻는 질문 (FAQ)
+
+-   **스플릿이 너무 자주 나요. 어떻게 줄일 수 있나요?**  
+    포켓을 너무 얇거나 두껍게 치고 있을 가능성이 큽니다. 진입 각도를 조금만
+    완만하게 조정하거나, 출발 위치를 한 칸 정도만 옮겨 보세요.
+
+-   **7번/10번 핀 스페어 팁이 있나요?**  
+    크로스 레인으로 대각선에서 깊게 파고들어 노리는 것이 좋습니다. 단, 무리한
+    "하이라이트 샷"을 노리기보다는, 안정적으로 스페어를 처리하는 각도를 반복해
+    익히는 것이 전체 스코어 관리에 더 도움이 됩니다.
+
+-   **볼이 항상 너무 가볍게 또는 너무 무겁게 맞아요.**  
+    출발 위치나 훅의 양을 한 번에 크게 바꾸기보다는, 한 단계씩 작게 조정해
+    보세요. 작은 변화로도 핀 액션이 크게 달라질 수 있습니다.

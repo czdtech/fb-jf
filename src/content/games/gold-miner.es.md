@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: gold-miner
-title: '[ES] Gold Miner'
+title: "Gold Miner"
 description: >-
-  [ES] Hook‑and‑haul arcade classic: time your claw to snag gold and gems, buy
-  power‑ups, and reach the target cash before time runs out.
+  Clásico arcade de gancho y arrastre: calcula el momento de soltar la garra
+  para atrapar oro y gemas, compra power‑ups y alcanza la cantidad objetivo
+  antes de que se acabe el tiempo.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/gold-miner.jpg
 tags:
@@ -15,30 +16,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Gold Miner es un juego arcade basado en el timing: una garra oscilante cae
+cuando tú lo ordenas para enganchar objetos enterrados. Los grandes trozos de
+oro son pesados pero muy lucrativos; las rocas valen poco y te ralentizan; los
+diamantes son ligeros y valiosos. Cada nivel tiene un objetivo de dinero con
+límite de tiempo, y la tienda ofrece dinamita, pociones de fuerza y tréboles de
+la suerte para las fases más difíciles.
 
+### Cómo jugar
 
-### Overview
-Gold Miner is a timing‑based arcade game where a swinging claw drops on command to latch onto underground objects. Large gold chunks are heavy but lucrative; rocks are cheap and slow you down; diamonds are light and valuable. Each level has a cash target under a time limit, and a shop offers dynamite, strength drinks, and lucky clovers for tougher stages.
+- Suelta la garra cuando el arco se alinee con el objeto que quieres.
+- Prioriza los grandes trozos de oro al principio; usa dinamita para soltar
+  rocas que no te interesen.
+- Compra mejoras entre rondas para alcanzar metas de dinero más altas.
 
-### How to Play
-- Trigger the claw when its arc aligns with your target.
-- Prioritize large gold early; use dynamite to ditch unwanted rocks.
-- Purchase upgrades between rounds to meet higher goals.
+### Guía de controles
 
-### Controls
-- One key/click to drop claw; additional keys for items (host dependent).
+- Una tecla o clic para soltar la garra; teclas adicionales para usar objetos
+  (según el portal).
 
-### Tips
-- Learn arc timing—release slightly before the object’s center.
-- Save dynamite for big rocks that waste time.
-- Diamonds and mystery bags are high ROI; adjust targets by layout.
+### Consejos
 
-### FAQ
-- Q: How do I reach high targets on late levels?
-A: Buy strength and bombs, and focus on diamond routes.
-- Q: Does dynamite refund time on rocks?
-A: It cancels the haul, letting you resume faster.
-- Q: Are layouts random each run?
-A: Many versions randomize objects within difficulty bounds.
+- Aprende el timing del arco: suelta un poco antes de que la garra pase por el
+  centro del objetivo.
+- Guarda la dinamita para las rocas grandes que te hacen perder demasiado
+  tiempo.
+- Diamantes y bolsas misteriosas suelen tener el mejor retorno; ajusta tus
+  prioridades según la distribución del nivel.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Cómo llego a los objetivos tan altos de los últimos niveles?**  
+  **R:** Compra fuerza y bombas, y céntrate en rutas con varios diamantes.
+
+- **P: ¿La dinamita me devuelve el tiempo perdido con las rocas?**  
+  **R:** Anula el arrastre de ese objeto y te permite volver a jugar más rápido.
+
+- **P: ¿Los objetos se colocan siempre igual?**  
+  **R:** Muchas versiones aleatorizan la distribución dentro de ciertos límites
+  de dificultad.

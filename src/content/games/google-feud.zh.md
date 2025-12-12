@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: google-feud
-title: '[ZH TRANSLATION NEEDED] Google Feud'
+title: "Google Feud 究極關鍵詞擂台"
 description: >-
-  [ZH TRANSLATION NEEDED] Survey‑style guessing game: complete autocomplete
-  prompts with the most popular queries and climb the rounds without striking
-  out.
+  問答遊戲，玩法類似家庭問答秀：根據 Google 搜尋自動完成的開頭提示，
+  猜出最熱門的關鍵詞補全，盡量在沒被三次「打叉」前拿到高分。
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/google-feud.jpg
 tags:
@@ -18,26 +17,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Google Feud mimics a family‑feud‑style prompt list: you see the beginning of a search query and must guess how users commonly complete it. Each category has multiple top answers with point values. Three wrong guesses end the round, so pattern knowledge and broad guesses win.
+
+《Google Feud》模擬的是 Google 搜尋自動完成版的「家庭問答」。
+遊戲會給出一條搜尋關鍵字的前半段，接下來你要像 autocomplete 一樣，
+猜出網友最常補上的關鍵詞。每個題目底下都有多個熱門答案，分數依熱度高低而不同；
+輸入三個錯誤答案就會結束本回合，因此洞悉搜尋模式與「大方向」猜測比亂射名字更重要。
 
 ### How to Play
-- Pick a category; read the prompt stem; type likely completions.
-- Start broad (who/what/where) before specific names and brands.
-- Watch for plural/singular and regional phrasing.
+
+- 先選擇問題類別，閱讀畫面上顯示的搜尋開頭片段，再輸入你認為最有可能出現在 autocomplete 裡的補全內容。
+- 一開始可以從比較寬泛的詞（who / what / where 類型或常見概念）下手，
+  再慢慢縮小到品牌、人物或特定事件。
+- 留意單複數與常見語序，很多熱門關鍵詞只差一個 s 或一個介詞。
 
 ### Controls
-- Keyboard to type answers; Enter to submit; on‑screen buttons for categories.
+
+- 使用鍵盤輸入答案，按 Enter 送出；
+- 透過畫面上的按鈕選擇類別或進入下一題。
 
 ### Tips
-- Think like autocomplete: spellings, synonyms, and common idioms.
-- If stuck, try opposites or related concepts.
-- Avoid over‑specific proper nouns early.
+
+- 盡量「用 autocomplete 的思維」來想：考慮常見拼法、同義字與固定搭配用語。
+- 卡關時可以嘗試相反概念或相關概念，例如從「不能」聯想到「可以」，
+  或從問題本身延伸相關議題。
+- 一開始避免太窄、太冷門的人名或專有名詞，先把大眾化的答案清一輪再說。
 
 ### FAQ
-- Q: How are answers ranked in the game?  
-[ZH TRANSLATION NEEDED]   A: By popularity within the prompt’s dataset; top answers score higher.
-- Q: Do typos count as correct answers?  
-[ZH TRANSLATION NEEDED]   A: Common variants may match; exact matching depends on host.
-- Q: Can I change the category mid‑round?  
-[ZH TRANSLATION NEEDED]   A: Usually no—finish or fail the current list first.
 
+- 問：遊戲中的答案是怎麼排序的？  
+  答：依據題庫中該關鍵字補全的熱門程度排序，最熱門的答案分數最高。
+
+- 問：拼寫錯誤會算對嗎？  
+  答：常見的拼寫變體有時會被視為同一答案，但具體判斷要看託管版本的比對規則。
+
+- 問：中途可以切換類別嗎？  
+  答：通常不行，需要先完成或失敗當前題目組，再回到選單挑選新類別。

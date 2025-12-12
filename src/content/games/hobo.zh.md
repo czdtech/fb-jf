@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: hobo
-title: '[ZH TRANSLATION NEEDED] Hobo'
-description: >-
-  [ZH TRANSLATION NEEDED] Over‑the‑top beat ’em up: brawl through city stages
-  with unlockable combos, improvised weapons, and outrageous special moves.
+title: "《Hobo》流浪汉街头乱斗"
+description: "《Hobo》是一款极度夸张的横版清版动作游戏，你要操控脾气暴躁的流浪汉在城市各处痛揍敌人，解锁一连串离谱的连招、即兴武器与恶搞必杀技。"
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/hobo.jpg
 tags:
@@ -16,27 +14,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-[ZH TRANSLATION NEEDED] Hobo is a side‑scrolling beat ’em up known for slapstick violence and deliberately crude humor. You traverse urban stages, smashing enemies with punches, kicks, grapples, and unlockable combo strings. Environmental weapons, throwable objects, and stage hazards add variety, while boss encounters test crowd control and timing. Health and stamina management, plus learning enemy tells, are key to clearing waves without being overwhelmed.
+### 游戏概述
 
-### How to Play
-- Chain light/heavy attacks into discovered combos to increase damage and stunlock.
-- Use pickups and thrown objects to thin groups from a distance.
-- Learn boss patterns—dodge opening attacks, punish recovery windows.
+《Hobo》是一款横版卷轴清版动作游戏，以极端的滑稽暴力和粗糙幽默著称。你将操控一名不讲道理的流浪汉，在城市关卡中一路推进，用拳打、脚踢、投掷和抓取等动作把敌人统统放倒。随着关卡推进，你会解锁越来越多的连招指令，搭配场景中的铁管、瓶子等环境武器，以及会对敌我双方都造成威胁的场景机关。每个章节的 BOSS 战则会考验你对群体控制、闪避时机及连招输出的掌握程度，合理管理血量和体力，才能在成群敌人包围下杀出一条血路。
 
-### Controls
-- Arrows to move; attack/jump/grab keys vary by host; combo inputs shown in‑game.
+### 游戏玩法
 
-### Tips
-- Keep enemies on one side; avoid getting surrounded.
-- Grapple single targets to remove them quickly when mobs thin out.
-- Save health items for post‑wave pickups, not mid‑crowd.
+- 利用轻击/重击组合打出已解锁的连招，提高单次输出并尽量让敌人长时间硬直，减少被反打的机会。
+- 充分使用拾取武器和可投掷物，从中远距离先削弱人群，再靠近收割。
+- 面对 BOSS 时，先观察招式节奏和空档，躲过起手攻击后在硬直期间果断上前输出。
 
-### FAQ
-- Q: How do I unlock new combo moves in the game?  
-[ZH TRANSLATION NEEDED]   A: Progressing through stages reveals new inputs on splash screens; practice them immediately.
-- Q: What is the best way to handle large enemy groups?  
-[ZH TRANSLATION NEEDED]   A: Kite to one edge, use throws or weapons, and pick off stragglers.
-- Q: Are there checkpoints between levels?  
-[ZH TRANSLATION NEEDED]   A: Most hosts checkpoint at stage transitions; mid‑stage restarts depend on the version.
+### 操作说明
 
+- 通过方向键移动角色；攻击、跳跃、抓取/投掷等具体按键会因平台而异，一般会在游戏内给出连招展示面板和按键说明。
+
+### 实用技巧
+
+- 尽量把敌人控制在同一侧，不要被前后夹击，始终朝一边推进更容易处理人群。
+- 当敌人数量减少时，可以用抓取技能快速处理单个残血目标，避免被冷不防一拳打断节奏。
+- 血量回复道具尽量留到一波小怪结束或即将进入 BOSS 前再吃，而不是在被围攻时勉强拾取，避免白白浪费回血效果。
+
+### 常见问题（FAQ）
+
+- Q: 新的连招是怎么解锁的？  
+  A: 只要推进到后续关卡，系统会在关卡开始或过场画面上用提示图展示新连招的按键顺序，看到后可以立即在路边小怪身上练熟。
+
+- Q: 面对大量敌人时，怎样处理最稳妥？  
+  A: 尝试把敌人引到屏幕一侧，利用击退和投掷把他们挤在同一方向，然后用大范围招式或武器一口气削弱，优先处理冲刺/远程类威胁，最后再收拾行动迟缓的。  
+
+- Q: 关卡之间有存档或检查点吗？  
+  A: 大多数版本会在关卡切换处自动保存进度，失败后可以从当前章节重新开始；至于关卡内部是否存在中途检查点，则取决于具体托管版本的规则。

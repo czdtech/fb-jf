@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bubble-shooter
-title: '[KO] Bubble Shooter'
+title: 'Bubble Shooter 버블 슈터'
 description: >-
-  [KO] Aim, shoot, and match colorful bubbles to clear the board in the classic
-  Bubble Shooter puzzle game. Plan your shots, use the walls, and drop huge
-  clusters to get a high score!
+  Bubble Shooter는 같은 색 버블을 3개 이상 맞춰 화면을 비워 나가는 고전 퍼즐
+  게임입니다. 조준을 잘 잡고 벽 반사를 활용해, 한 번에 큰 덩어리를 떨어뜨리며
+  높은 점수에 도전해 보세요.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
 thumbnail: /new-images/bubble-shooter.jpg
 tags:
@@ -15,43 +15,76 @@ score: 4.3/5  (1339 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bubble Shooter는 단순하면서도 중독성이 강한 대표 버블 퍼즐 게임입니다.
+화면 상단에는 여러 색의 버블이 격자 형태로 가득 차 있고, 플레이어는 하단의
+발사기로 버블을 쏘아 올립니다.
 
+발사한 버블이 같은 색 버블 두 개 이상이 모여 있는 그룹에 붙으면, 연결된 같은
+색 버블 전체가 한 번에 사라집니다. 그리고 그 그룹에만 매달려 있던 버블들은
+지탱하는 버블이 없어지면서 함께 떨어져 나갑니다. 이렇게 화면의 모든 버블을
+없애거나, 버블이 바닥선에 닿기 전에 최대한 많은 점수를 얻는 것이 목표입니다.
+일정 횟수 동안 버블을 제거하지 못하면, 상단에 새로운 줄이 추가되어 점점 압박이
+강해지는 구조입니다.
 
+### 플레이 전략
 
-### Game Introduction
+-   **높은 위치의 버블을 우선 노리기**  
+    단순히 바로 앞의 매치만 만드는 것보다, 아래 버블들을 매달고 있는 상단
+    그룹을 노리는 것이 훨씬 효율적입니다. 위쪽 연결 부위를 터뜨리면 아래에
+    매달린 큰 덩어리가 통째로 떨어져, 빠르게 판을 정리하고 많은 점수를 얻을 수
+    있습니다.
 
-Bubble Shooter is a classic and highly addictive puzzle game. The objective is to clear the playing field by forming groups of three or more same-colored bubbles. The game screen is filled with a grid of colorful bubbles from the top. The player controls a launcher at the bottom of the screen, which shoots a single bubble upwards.
+-   **벽 반사(뱅크 샷) 활용하기**  
+    항상 정면만 노리지 말고, 측면 벽을 맞춰 각도를 꺾는 샷을 연습해 보세요.
+    벽을 이용하면 다른 색 버블 뒤에 가려진 자리나 직접 조준이 어려운 구석까지
+    공략할 수 있어, 난이도가 높은 배치에서 큰 도움이 됩니다.
 
-The core mechanic is simple: when the launched bubble hits a group of two or more bubbles of the same color, the entire connected group of matching bubbles is removed from the screen. Any bubbles that were attached only to the cleared group will also fall and be removed. The goal is to clear all the bubbles from the screen to win the level or achieve the highest possible score before the bubbles descend to the bottom line. After a certain number of shots without clearing any bubbles, a new row of bubbles is added at the top, increasing the pressure and challenge.
+-   **다음 버블까지 보고 두 수 앞을 계획하기**  
+    대부분의 버전에서는 발사기 옆에 다음에 나올 버블 색이 표시됩니다. 현재
+    버블과 다음 버블을 한 세트로 생각하며, 이번에는 구조를 정리하고 다음 샷에서
+    대량 제거를 노리는 식의 콤보를 설계해 보세요.
 
-### Gameplay Strategy
+-   **외로운 단일 버블 만들지 않기**  
+    특정 색 버블이 한 개만 외롭게 남도록 만들면 나중에 제거하기가 매우
+    까다로워집니다. 주변을 정리하거나, 최소 2개 이상 붙일 수 있는 상황이 될
+    때까지는 가능하면 그 색을 건드리지 않는 편이 좋습니다.
 
--   **Aim for the Highest Bubbles:** The single most important strategy is not just to make matches, but to make matches that are high up on the screen. If you clear a group of bubbles that is supporting other bubbles below it, all the unsupported bubbles will fall. Dropping large clusters this way is the key to high scores and efficient clearing.
--   **Use the Walls (Bank Shots):** Don't always aim directly. You can shoot the bubble against the side walls to make it bounce and reach difficult spots. Mastering these "bank shots" is essential for advanced play and for getting out of tricky situations.
--   **Plan Ahead:** Most versions of the game show you the color of the *next* bubble in your launcher. Use this information to plan your next two moves. Sometimes, it's better to make a less optimal move now to set up a perfect shot with the next bubble.
--   **Don't Create Single-Bubble Strands:** Try to avoid leaving a single bubble of a certain color hanging by itself. These can be very difficult to remove later, as you'll need to clear the bubbles around it or get two more of the same color to stick to it.
--   **Manage Difficult Colors:** If you get a bubble color that has no immediate good match, don't just waste the shot. Try to tuck it away next to a large group of another color where it won't block important future shots.
+-   **애매한 색은 구석에 정리하기**  
+    당장 매치할 곳이 없는 색 버블이 나왔다고 해서 무의미하게 중앙에 쏘지
+    마세요. 앞으로의 샷에 방해가 되지 않도록, 큰 그룹 근처나 구석 쪽으로 살짝
+    치워 두는 것이 좋습니다.
 
-### Controls Guide
+### 조작 방법
 
-The controls are extremely simple and intuitive, designed for mouse or touch.
+조작은 마우스 또는 터치 기반으로 매우 직관적입니다.
 
--   **Aim:** Move your **mouse cursor** to aim the launcher's arrow.
--   **Shoot:** **Left-click** with your mouse to shoot the bubble.
--   **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+-   **조준:** 마우스 커서를 움직여 발사기 화살표의 방향을 조절합니다.
+-   **발사:** 마우스 왼쪽 버튼을 클릭해 버블을 발사합니다.
+-   **버블 교체(지원 버전 한정):** 일부 최신 버전에서는 스페이스바나 화면의
+    교체 아이콘을 눌러 현재 버블과 대기 버블의 색을 서로 바꿀 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문 (FAQ)
 
-**1. What is the goal of the game?**
-> In most classic versions, the goal is to clear the entire screen of bubbles. In endless modes, the goal is to survive as long as possible and get the highest score.
+**1. 게임의 목표는 무엇인가요?**  
+> 클래식 모드에서는 화면에 있는 모든 버블을 제거하는 것이 기본 목표입니다.
+> 무한 모드에서는 버블이 바닥선에 닿지 않도록 최대한 오래 버티며, 가능한 한
+> 높은 점수를 얻는 것이 목적입니다.
 
-**2. What happens if I miss a shot?**
-> A "miss" is typically defined as a shot that does not result in any bubbles being cleared. After a set number of misses (often shown as a counter of bubbles at the bottom), a new row of bubbles will be added to the top of the screen, pushing everything down.
+**2. 샷이 빗나가면 어떻게 되나요?**  
+> 일반적으로 아무 버블도 지우지 못한 샷을 "미스"로 계산합니다. 미스가 특정
+> 횟수에 도달하면 상단에 새 줄이 추가되어 전체 버블이 한 번에 아래로 내려오게
+> 됩니다.
 
-**3. Are there special bubbles or power-ups?**
-> In the classic, original version of Bubble Shooter, there are no special bubbles. However, many modern variations have introduced power-ups like **Bomb Bubbles** (clear an area), **Rainbow Bubbles** (match any color), and **Fireball Bubbles** (destroy everything in their path).
+**3. 특수 버블이나 파워업이 있나요?**  
+> 오리지널 Bubble Shooter에는 특수 버블이 없지만, 많은 변형 버전에서는 주변을
+> 폭발시키는 **폭탄 버블**, 어떤 색과도 매치되는 **무지개 버블**, 직선으로
+> 관통하면서 모든 것을 파괴하는 **파이어볼 버블** 등 다양한 파워업이
+> 등장하기도 합니다.
 
-**4. What is the best strategy for getting a high score?**
-> The best way to get a high score is to drop large clusters of bubbles at once. The more bubbles you drop that were not part of the direct match, the more bonus points you receive. Focus on making high-up bank shots to achieve this.
-
+**4. 고득점을 노리는 가장 좋은 방법은 무엇인가요?**  
+> 가장 중요한 것은 한 번에 큰 덩어리의 버블을 떨어뜨리는 것입니다. 직접
+> 매치에 참여한 버블 외에, 그 아래에 매달려 있던 버블이 많이 떨어질수록 보너스
+> 점수가 커집니다. 높이 위치한 버블을 공략하고, 벽 반사 샷을 활용해 이런
+> 상황을 자주 만들어 보세요.

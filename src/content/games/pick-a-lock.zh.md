@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: pick-a-lock
-title: '[ZH TRANSLATION NEEDED] Pick a Lock'
+title: "《Pick a Lock》节奏开锁挑战"
 description: >-
-  [ZH TRANSLATION NEEDED] Pick a Lock tests timing and focus — stop the dial on
-  markers, chain perfect hits, and unlock increasingly tricky locks.
+  《Pick a Lock》是一款极简风节奏+时机游戏，你需要在指针旋转经过标记点的瞬间点击，连续命中所有标记才能成功解锁越来越刁钻的锁。
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/pick-a-lock.jpg
 tags:
@@ -17,32 +16,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Pick a Lock is a minimalist rhythm‑timing game: a dial sweeps around a lock, and you must tap exactly when it passes highlighted markers. Later locks add multiple markers, tighter windows, and reversed sweeps, rewarding calm focus.
+《Pick a Lock》是一款极简但非常“上头”的时机把握游戏。锁面上有一个不断绕圆盘旋转的指针，以及若干高亮标记点，你要做的就是在指针与标记点重合的那一刻点击屏幕。越往后关卡标记点越多、判定窗口越窄，甚至会加入反向旋转等变化，非常考验节奏感与手指精度。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Count rhythm: Lock into the dial’s beat; tap on the beat rather than by eye alone.
-2.  [ZH TRANSLATION NEEDED] Peripheral vision: Watch the next marker while tapping the current.
-3.  [ZH TRANSLATION NEEDED] Noise control: Mute distractions and keep a steady posture for precision.
-4.  [ZH TRANSLATION NEEDED] Recovery: If you miss, reset your cadence before the next marker.
-5.  [ZH TRANSLATION NEEDED] Late‑tap bias: Slightly late taps are safer than early in many builds.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **用耳朵数拍子：** 不要完全依赖眼睛盯着指针转动，可以根据指针旋转速度在心里打拍子，尝试在节奏点上点击，比盯画面更稳定。
+2.  **余光锁定下一标记：** 点击当前标记时，尽量用余光提前捕捉下一个标记的位置，避免每次都从零开始重新寻找目标点。
+3.  **减少干扰，保持姿势稳定：** 建议在相对安静、手机/鼠标稳定的情况下游玩，身体姿势稳定有助于提高点击精度，减少误差。
+4.  **失误后先重置节奏：** 如果某一击明显早/晚了，不要急着立刻再点，先在心里重新抓回节奏，再接下一轮，否则容易连续失误。
+5.  **略偏“晚一点”的点击习惯：** 许多版本对略微偏后的点击容错略优于偏早点击，可以在练习时刻意让自己“稍晚一点”出手，减少提前按下导致的硬性判定失败。
 
-- Tap/click when the dial overlaps markers; some variants support key presses.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 当指针经过高亮标记点时，点击或轻触屏幕/鼠标即可判定为一次尝试；部分版本也支持键盘按键触发。
 
-- Q: I’m always early — fix?
+### 常见问题（FAQ）
+
+- **问：我总是太早点，怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Add a tiny delay to your internal count; try “one‑and‑tap” instead of “one‑tap.”
+  **答：** 可以在心里给自己加一个极短的“缓冲拍”，从“看到就点”改成“看到→一小拍→点”，比如默念“滴-答-点”来刻意拖慢出手时机。
 
-- Q: Markers stack fast.
+- **问：标记点多的时候脑子跟不上？**
   
-[ZH TRANSLATION NEEDED]   A: Focus on the next one only; don’t mentally hold more than one future target.
+  **答：** 不要试图一次记住所有即将到来的标记，只需要专注当前和下一个目标，逐点完成即可，避免给自己过多心理负担。
 
-- Q: Does FPS matter?
+- **问：帧率不稳会影响判定吗？**
   
-[ZH TRANSLATION NEEDED]   A: Stable framerate helps; close other apps if timing feels inconsistent.
-
+  **答：** 会。若感觉节奏忽快忽慢，可以尝试关闭后台程序或在性能更稳定的设备上游玩，以保证指针转动和点击反馈更加一致。

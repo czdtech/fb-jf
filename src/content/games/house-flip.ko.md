@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: house-flip
-title: '[KO] House Flip'
+title: "House Flip 하우스 플립 리모델링"
 description: >-
-  [KO] House Flip gamifies renovation — inspect, budget upgrades, and flip
-  properties by fixing layout, style, and curb appeal.
+  노후된 집을 수리·인테리어해 되팔아 수익을 내는 리모델링 시뮬레이션입니다.
+  구조와 동선, 스타일, 외관을 개선하면서 예산 안에서 최대 이익을 노려 보세요.
 iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
 thumbnail: /new-images/house-flip.png
 tags:
@@ -17,33 +17,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-House Flip is a light renovation sim. Evaluate a property’s issues (layout flow, damaged fixtures, dated style), choose upgrades within a budget, and resell for profit. Efficient flips balance cost vs. value — kitchens/baths, paint, and curb appeal punch above their weight.
+`House Flip`은 집을 매입해 수리하고, 값어치를 높인 뒤 다시 되파는 과정을
+경험하는 가벼운 리노베이션 시뮬레이션 게임입니다. 플레이어는 각 집의 문제점을
+파악해 구조 동선, 손상된 설비, 촌스러운 인테리어 등을 고치고, 한정된 예산
+안에서 어떤 곳에 투자할지 결정해야 합니다. 잘 만든 플립은 투자비 대비
+가치(ROI)를 극대화하는 것이 핵심이며, 특히 **주방·욕실, 도장, 외관(커브
+어필)**이 효율이 좋은 항목입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** ROI triage: Prioritize kitchens/baths, flooring, and paint; defer low‑impact rooms.
-2.  **[KO]** Layout fixes: Remove bottlenecks, add storage, and ensure good flow.
-3.  **[KO]** Theming: Keep a cohesive palette; mismatched rooms reduce appeal.
-4.  **[KO]** Staging: Add a few decor items to lift perceived value.
-5.  **[KO]** Budget control: Leave a contingency; don’t over‑invest beyond neighborhood caps.
+1. **ROI 우선순위 정하기**  
+   주방과 욕실, 바닥재, 페인트처럼 집값에 직접적인 영향을 주는 요소부터
+   손보세요. 손님이 잘 보지 않는 방이나 사소한 디테일은 나중으로 미루는 것이
+   좋습니다.
 
-### Controls Guide
+2. **레이아웃 개선**  
+   동선이 막히는 복도나 문 배치를 정리하고, 수납공간을 적절히 추가해
+   실제로 살기 편한 구조를 만드는 것이 중요합니다.
 
-- Inspect rooms, pick upgrades, place items, and confirm; some builds time‑gate tasks.
+3. **통일감 있는 테마**  
+   방마다 전혀 다른 색·스타일을 쓰면 전체 인상이 산만해집니다. 벽·바닥·가구
+   색상을 하나의 팔레트 안에서 통일하면 체감 가치가 크게 올라갑니다.
 
-### Frequently Asked Questions (FAQ)
+4. **홈스타일링(스테이징)**  
+   적당한 장식과 가구 배치는 집의 “보이는 값어치”를 끌어올립니다. 소품 몇 개만
+   적절히 배치해도 인상이 달라지므로, 예산이 허용하는 선에서 최소한의
+   스테이징은 해 주는 것이 좋습니다.
 
-- Q: My profit is low — what to change?
+5. **예산 관리**  
+   동네 시세가 정해져 있는 만큼, 그 이상으로 과도한 투자를 해도 회수하지
+   못하는 경우가 있습니다. 예비 비용을 조금 남겨 두고, 과투자는 피하세요.
 
-A: Focus on high‑ROI upgrades and avoid over‑customization; keep budgets lean.
+### 조작 방법
 
-- Q: Which upgrade first?
+- 각 방을 둘러보며 문제점을 확인하고, 업그레이드 항목을 선택해 배치 후
+  확정합니다.
+- 일부 버전에서는 작업에 시간이 걸리며, 완료까지 대기해야 하는 타임 게이트가
+  존재할 수 있습니다.
 
-A: Kitchen (surfaces/appliances) or bathrooms (fixtures/tiles) depending on condition.
+### 자주 묻는 질문(FAQ)
 
-- Q: Does exterior matter?
+- Q: 리노베이션을 해도 수익이 별로 안 남습니다. 무엇을 바꿔야 하나요?  
+  A: 수익 대비 효율이 좋은 항목(주방·욕실, 페인트, 외관)에 집중하고,
+  취향이 많이 타는 과한 꾸미기는 줄이는 것이 좋습니다.
 
-A: Yes — paint, landscaping, and entry lighting add inexpensive curb appeal.
+- Q: 어떤 업그레이드를 가장 먼저 해야 하나요?  
+  A: 상태에 따라 다르지만, 보통 주방의 상판·가전, 욕실의 설비·타일 같은
+  항목이 우선순위입니다.
 
+- Q: 외관(커브 어필)도 정말 중요하나요?  
+  A: 네. 외벽 페인트, 조경, 현관 조명 등은 적은 비용으로 집 전체의 첫인상을
+  크게 개선해 줍니다.

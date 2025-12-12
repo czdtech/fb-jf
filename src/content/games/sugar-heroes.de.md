@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: sugar-heroes
-title: '[DE] Sugar Heroes'
-description: >-
-  [DE] Sugar Heroes is a vibrant match‑3 — free blockers, merge power‑ups, and
-  hit scene goals under smart move planning.
+title: "Sugar Heroes"
+description: "Sugar Heroes ist ein farbenfrohes Match‑3 mit Comic-Helden und Süßigkeiten-Blockern: Räum Gelee ab, sammle Zutaten und kombiniere Power-ups, um selbst dichte Boards zu sprengen." 
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/sugar-heroes.png
 tags:
@@ -15,32 +13,28 @@ score: 4.1/5  (1986 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Sugar Heroes ist ein kombolastiges Match‑3, in dem du bunte Süßigkeiten vertauschst, Comic‑Helden freischaltest und spezielle Blocker beseitigst. Die Levelziele reichen vom Entfernen von Gelee über das Sammeln bestimmter Items bis hin zum Freispielen einzelner Felder. Kombinierst du Power‑ups (z. B. Bombe + Linie oder Farbe‑Clears), räumst du selbst sehr volle Spielfelder im Handumdrehen.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Ziel zuerst:** Spiel nicht nur „auf Punkte“ – konzentriere dich auf Gelee, Zutaten oder Missionsobjekte.
+2.  **Unten arbeiten:** Züge weit unten erzeugen oft Kettenreaktionen, die dir das halbe Board mitaufräumen.
+3.  **Power‑ups sparen:** Heb starke Kombinationen für Engstellen oder blockierte Bereiche auf.
+4.  **Ränder im Blick:** Lass nicht zu, dass viele gleiche Farben ungenutzt am Rand „festkleben“.
+5.  **Zug voraus planen:** Überlege dir immer mindestens den nächsten Zug, um vorbereitete Power‑ups nicht zu zerstören.
 
-Sugar Heroes leans into combo‑heavy match‑3 with candy‑themed blockers and animated heroes. Goals range from clearing jelly to delivering ingredients; power‑up merges (bomb+line/color clears) are crucial for dense layouts.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Symbole per Drag-and-drop tauschen.
+- Power‑ups antippen/anklicken, um sie auszulösen.
+- Pause/Neustart über die UI.
 
-1.  **[DE]** Focus goals: Clear blockers or collect items before pure scoring.
-2.  **[DE]** Bottom cascades: Work low for free chain clears.
-3.  **[DE]** Save merges: Detonate strong combos at choke points.
-4.  **[DE]** Side control: Don’t strand colors on edges.
-5.  **[DE]** Two‑ahead planning: Map the next move to preserve setups.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Ich laufe ständig in Zugbegrenzungen.**  
+  Konzentriere dich stärker auf Power‑up‑Kombos und spiel Züge, die Platz schaffen, statt nur lokale Matches zu machen.
 
-- Drag to swap; tap power‑ups; pause/retry in UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I hit move limits.
-
-A: Chain power‑ups and prioritize clears that unlock space.
-
-- Q: Strong opener?
-
-A: Bottom clears; they spawn cascades.
-
+- **Guter Startzug?**  
+  Wenn möglich, immer ein Match in den unteren Reihen – die nachfallenden Steine erzeugen zusätzliche Kombos.

@@ -1,49 +1,72 @@
 ---
 locale: fr
 urlstr: element-blocks
-title: '[FR] Element Blocks'
-description: >-
-  [FR] A strategic block puzzle game with a twist. Place elemental blocks to
-  clear lines, and collect stars to unleash powerful boosters. Plan your moves
-  carefully to master the grid!
-iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
+title: Element Blocks
+description: "Element Blocks est un puzzle de placement\_: pose des blocs de formes variées sur la grille pour former des lignes complètes et les faire disparaître."
+iframeSrc: 'https://7gu7c52bmveu0.h5games.usercontent.goog/v/2gnrk9l9hprb0/'
 thumbnail: /new-images/element-blocks.png
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.5/5  (2500 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.0/5  (1800 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Element Blocks est un jeu de blocs façon Tetris mais sans chute automatique :
+tu disposes de plusieurs pièces en bas de l’écran et tu dois les placer sur une
+grille pour compléter des lignes ou colonnes entières et les effacer.
 
-Element Blocks is a calm yet strategic puzzle game that builds on the popular 10x10 block puzzle formula. Players place various Tetris-like shapes, themed as elemental blocks, onto a 10x10 grid. The goal is to fill and clear complete lines either horizontally or vertically. What sets this game apart is the addition of a star collection and power-up system, providing a strategic tool to get you out of difficult situations and extend your game.
+Lorsque tu ne peux plus placer aucune des pièces proposées, la partie est
+terminée.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** **Standard 10x10 Rules:** You are given three block shapes at a time. You must place all three on the board before a new set appears. The blocks cannot be rotated.
-2.  **[FR]** **Collect Stars:** Occasionally, blocks will appear with stars embedded in them. When you clear a line that includes one of these special blocks, you collect the star. These stars are the currency for using power-ups.
-3.  **[FR]** **Use Power-ups Wisely:** Collected stars can be spent on powerful boosters. These might include a bomb to clear a small area, a lightning bolt to destroy a single line, or other helpful tools. Save these for when you are truly stuck and have no other good moves.
-4.  **[FR]** **Think About Future Shapes:** Don't just place a block where it fits now. Look at the other two shapes you have and try to place the current one in a way that leaves room for the others. The game ends when you can't place any of the three given shapes.
-5.  **[FR]** **Maximize Combos:** Clearing multiple lines with a single block placement is called a combo and will grant you a significant score bonus. Always be on the lookout for combo opportunities.
+1.  **Regarde toutes les pièces disponibles**  
+    Avant de poser une pièce, vérifie que tu ne bloques pas l’emplacement idéal
+    d’une autre forme plus difficile à placer.
+2.  **Garde le centre dégagé**  
+    Évite de remplir le milieu de la grille avec des morceaux isolés ; laisse‑y
+    de l’espace pour les grandes pièces.
+3.  **Complète plusieurs lignes à la fois**  
+    Essaie de placer des pièces qui contribuent à plusieurs lignes/colonnes en
+    même temps pour maximiser les effacements.
+4.  **Surveille les pièces longues ou carrées**  
+    Ces formes sont souvent les plus compliquées à placer quand la grille se
+    remplit : réserve‑leur des espaces.
+5.  **Ne laisse pas de trous inutiles**  
+    Les cases isolées au milieu peuvent rendre certaines pièces injouables ;
+    remplis‑les dès que possible.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
-*   **[FR]** **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
+- **Placer un bloc** : fais glisser une pièce depuis la zone de réserve vers la
+  grille et relâche pour la déposer.  
+- **Annuler / Rejouer** : selon la version, des boutons permettent de revenir en
+  arrière ou de recommencer.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: How do I get stars?**
-    *   **[FR]** **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
 
-*   **[FR]** **Q: Can I rotate the blocks?**
-    *   **[FR]** **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
+- **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
 
-*   **[FR]** **Q: What is the best way to use my stars?**
-    *   **[FR]** **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
+    - **Q: What is the best way to use my stars?**
 
+- **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
+
+    - **Q: Can I rotate the blocks?**
+
+- **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
+
+    - **Q: How do I get stars?**
+**Q : Est‑ce que les blocs tournent ?**  
+R : Dans certaines versions, tu peux faire pivoter les formes, dans d’autres
+elles doivent être placées telles quelles.
+
+**Q : Comment obtenir un score élevé ?**  
+R : Vise les combos de plusieurs lignes/colonnes effacées en même temps et
+essaie de survivre le plus longtemps possible.

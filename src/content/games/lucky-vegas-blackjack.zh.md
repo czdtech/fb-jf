@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: lucky-vegas-blackjack
-title: '[ZH TRANSLATION NEEDED] Lucky Vegas Blackjack'
-description: >-
-  [ZH TRANSLATION NEEDED] Lucky Vegas Blackjack streamlines 21 — apply basic
-  strategy, manage bankroll, and enjoy quick hands without chasing losses.
+title: 《Lucky Vegas Blackjack》幸运维加斯黑杰克
+description: 《Lucky Vegas Blackjack》是一款简化的 21 点游戏，你可以运用基础策略、管理资金，在轻快节奏中享受一局局下注，而不是盲目追输。
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
 thumbnail: /new-images/lucky-vegas-blackjack.png
 tags:
@@ -16,32 +14,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Lucky Vegas Blackjack offers fast blackjack rounds with standard rules: reach 21 or best the dealer without busting. Face cards count as 10; aces as 1 or 11. Use basic strategy vs the dealer upcard and avoid risky side bets with higher house edges.
+《Lucky Vegas Blackjack》提供规则标准、节奏快速的黑杰克（21 点）对局。核心规则是：你的点数需要尽量接近但不超过 21，并且高于庄家点数即获胜。J/Q/K 记为 10 点，A 记为 1 或 11 点。你可以根据庄家的明牌使用基础策略决定“要牌 / 停牌 / 加倍 / 分牌”，同时尽量避免高抽水的旁注玩法。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Basic chart: Stand hard 17+, hit ≤11, double 10–11 vs weak upcards.
-2.  [ZH TRANSLATION NEEDED] Soft hands: Hit soft 17; double soft 18 vs weak upcards when allowed.
-3.  [ZH TRANSLATION NEEDED] Splits: Split A/8; don’t split 10/5; follow table rules for others.
-4.  [ZH TRANSLATION NEEDED] Bankroll: Flat bet sizing; stop after win target or loss limit.
-5.  [ZH TRANSLATION NEEDED] Side bets: Treat as entertainment, not EV.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **基础策略思路**：一般来说，硬牌 17 点及以上停牌、11 点及以下继续要牌；当你持有 10 或 11 点且庄家明牌较弱时，可以考虑加倍。  
+2.  **软牌处理**：软 17（带 A 且有多种点数组合）通常继续要牌；软 18 在庄家弱牌时可考虑加倍，视规则允许情况而定。  
+3.  **分牌规则**：常见建议为只分 A 和 8，不要分 10 和 5；其他对子按桌面规则和基础策略表来决定。  
+4.  **资金管理**：使用固定小额筹码，事先设定好赢了多少就收、输了多少就停，不要在短期波动下翻倍梭哈追亏。  
+5.  **旁注当娱乐**：旁注项目通常庄家优势更大，可以偶尔当娱乐，但不要把它当主要盈利手段。  
 
-- Hit/Stand/Double/Split via UI; adjust bet between hands.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过界面按钮选择要牌（Hit）、停牌（Stand）、加倍（Double）或分牌（Split），并在每局开始前调整下注金额。  
 
-- Q: Can I count cards here?
-  
-[ZH TRANSLATION NEEDED]   A: Single‑shoe resets/auto shuffles often negate counting; play for fun.
+### 常见问题（FAQ）
 
-- Q: Insurance worth it?
-  
-[ZH TRANSLATION NEEDED]   A: Generally no; it has high house edge.
+*   **Q: 在这种线上版本能用算牌术吗？**  
 
-- Q: How to reduce variance?
-  
-[ZH TRANSLATION NEEDED]   A: Use smaller flat bets and avoid side bets.
+A: Single‑shoe resets/auto shuffles often negate counting; play for fun.
+- **A:** 多数版本会频繁洗牌或使用自动洗牌，基本抵消了算牌优势，建议把它当作纯娱乐项目。  
 
+
+A: Generally no; it has high house edge.
+*   **Q: 保险（Insurance）值得买吗？**  
+
+A: Use smaller flat bets and avoid side bets.
+    *   **A:** 从数学期望来看，保险通常是高赌场优势的选项，一般不建议长期购买。  
+
+*   **Q: 想降低波动，应该怎么做？**  
+    *   **A:** 采用更小的基础筹码，避免频繁加注或者参与高风险旁注，有助于让资金曲线更平稳。

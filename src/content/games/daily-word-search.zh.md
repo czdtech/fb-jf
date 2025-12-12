@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: daily-word-search
-title: '[ZH TRANSLATION NEEDED] Daily Word Search'
+title: "Daily Word Search 每日找单词"
 description: >-
-  [ZH TRANSLATION NEEDED] Daily Word Search offers calming word hunts — find
-  hidden words across directions and beat the clock or relax.
+  《Daily Word Search 每日找单词》是一款轻松的英文单词搜寻游戏。每天一张新字母表，在
+  横向、纵向乃至对角线上寻找隐藏的单词，既可以计时挑战，也可以纯放松游玩。
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/daily-word-search.png
 tags:
@@ -17,31 +17,37 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Daily Word Search hides words horizontally, vertically, and diagonally. Themes change daily; you can play timed for a challenge or untimed to unwind.
+《Daily Word Search 每日找单词》会在字母网格中隐藏若干与主题相关的单词，这些单词可能水
+平、垂直或对角线排列。每天的主题都会变化，你可以选择带计时的模式来磨练速度，也可以选
+择无计时模式来当作放松的文字小游戏。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Scan for distinctive letter patterns and rare letters (Q, Z, X).
-2.  [ZH TRANSLATION NEEDED] Highlight prefixes/suffixes from the word list.
-3.  [ZH TRANSLATION NEEDED] Sweep rows/columns systematically to avoid misses.
-4.  [ZH TRANSLATION NEEDED] Use hints only after a full grid sweep.
-5.  [ZH TRANSLATION NEEDED] In timed mode, take short breaks between clusters to avoid tunnel vision.
+
+1.  **优先扫描稀有字母组合：** 注意网格中较少出现的字母（如 Q、Z、X 等），很多隐藏单词
+    都会从这些字母“露头”，先以它们为起点向各个方向延伸查找。  
+2.  **利用前缀/后缀：** 对照单词列表，看是否能在网格中快速找到常见前缀或后缀（如 re-
+    、un-、-ing、-tion 等），找到后沿着该方向继续延长即可。  
+3.  **系统化扫描：** 按行或按列逐行“扫一遍”，比随意乱瞄更不容易漏单词。完成一个方向的扫
+    描后再换另一个方向。  
+4.  **提示留到最后再用：** 在你已经系统性扫过整个网格后，如果仍有一两个单词迟迟找不到，
+    再考虑使用提示功能，可以帮助你定位起始字母或整个单词。  
+5.  **计时模式适当休息眼睛：** 长时间紧盯字母容易产生“文字雪盲”，可以在每完成一小部分单
+    词后稍微停顿几秒，再重新聚焦新的区域。  
 
 ### Controls Guide
 
-- Drag across letters to select words; release to confirm.
-- Hints highlight a starting letter or full word depending on the build.
+- 按住并拖动鼠标或手指，从单词首字母划到末尾即可选中单词，松手后系统会自动判定。  
+- 提示按钮通常会高亮某个单词的起始位置或直接标出整个单词，具体效果视版本而定。  
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: Do diagonals count?
-  
-[ZH TRANSLATION NEEDED]   A: Yes, unless a mode restricts directions.
+- **Q: 对角线方向也算有效单词吗？**  
+  **A：** 一般来说是算的，除非当前模式特别注明只允许横向和纵向。  
 
-- Q: Can words overlap?
-  
-[ZH TRANSLATION NEEDED]   A: Often yes; look for shared letters.
+- **Q: 网格中的单词会重叠吗？**  
+  **A：** 很多版本会让单词共享某些字母，因此不要因为某个字母已被圈选就忽略它在其他方向
+  的潜在组合。  
 
-- Q: Timed vs relaxed — which to pick?
-  
-[ZH TRANSLATION NEEDED]   A: Timed for speed practice; relaxed for unwinding.
-
+- **Q: 计时模式和放松模式该怎么选？**  
+  **A：** 想练习反应与英文单词识别速度时可以选计时模式；如果只是想轻松打发时间、顺便认
+  识一些新单词，则更推荐无计时的放松模式。  

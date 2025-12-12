@@ -1,22 +1,40 @@
 ---
+title: "Supernova"
+description: "Supernovaは、宇宙をテーマにした戦略ゲームです。銀河を探索し、資源を管理し、帝国を構築しましょう。"
+iframeSrc: "https://ubg98.github.io/Supernova/"
+thumbnail: "/new-images/supernova.jpg"
+urlstr: "supernova"
+score: "4.4/5  (2234 votes)"
+tags: ["strategy", "space", "simulation"]
 locale: ja
-urlstr: supernova
-title: '[JA TRANSLATION NEEDED] Supernova'
-description: >-
-  [JA TRANSLATION NEEDED] Navigate the dangers of deep space in Supernova! Pilot
-  your starship through a hazardous asteroid field, blasting space rocks and
-  other threats. Survive as long as you can to achieve a high score in this
-  classic arcade-style space shooter.
-iframeSrc: 'https://rebemanae.github.io/supernova/'
-thumbnail: /new-images/supernova.jpg
-tags:
-  - action
-  - shooting
-  - space
-score: 4.5/5  (915 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
+Supernovaは、広大な宇宙を舞台にした戦略シミュレーションゲームです。惑星を探索し、資源を収集し、宇宙帝国を構築して拡大しましょう。
 
-[JA TRANSLATION NEEDED] supernova game is an extremely cool parkour game. In the game, you need to avoid various obstacles and pass all kinds of levels.
+### ゲームプレイガイド
+
+ - **宇宙探索：** 新しい惑星と資源を発見します
+ - **資源管理：** 資源を効率的に収集して使用します
+ - **帝国建設：** 基地と施設を構築します
+ - **戦略的拡大：** 領土を拡大して帝国を成長させます
+
+### 操作ガイド
+
+ - **マウス：** 選択と命令
+ - **キーボード：** メニューとショートカット
+
+### よくある質問（FAQ）
+
+**ゲームの目標は何ですか？**
+
+宇宙帝国を構築し、資源を管理して、領土を拡大することです。
+
+**どうやって資源を集めますか？**
+
+惑星を探索して採掘施設を建設します。
+
+**戦略は重要ですか？**
+
+はい、資源管理と拡大計画が成功の鍵です。

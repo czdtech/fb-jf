@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: make-it-meme
-title: '[ZH TRANSLATION NEEDED] Make It Meme'
+title: "《Make It Meme》线上多人梗图派对"
 description: >-
-  [ZH TRANSLATION NEEDED] Make It Meme is a multiplayer online party game where
-  players compete by creating and rating memes.
+  《Make It Meme》是一款多人在线派对游戏，玩家需要在限定时间内为梗图模板配上最有梗的文案，并互相打分评选出全场最佳梗王。
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/make-it-meme.jpg
 tags:
@@ -17,27 +16,29 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] Make It Meme is a multiplayer online party game developed by Prealpha, where players compete by creating and rating memes. The game offers a variety of meme templates, and players need to add humorous captions within a limited time to create unique memes. Afterward, all players rate each other's creations, and the player with the highest score wins. The game supports real-time multiplayer online mode, making it suitable for gatherings with friends.
+《Make It Meme》是由 Prealpha 开发的一款多人在线梗图派对游戏。每一局中，系统会给出统一或随机的梗图模板，所有玩家需要在限定时间内为图片配上最有趣、最炸裂的文字说明。提交后，全体玩家会对彼此的作品进行评分，最终得分最高的玩家成为本局“梗图之王”。游戏支持实时联机，非常适合和好友开黑、语音聚会或当作线上破冰活动。
 
-### Gameplay Strategy
-1.  [ZH TRANSLATION NEEDED] **Choose Mode:** After entering the game, players can choose to join a public room or create a private room to play with friends.
-2.  [ZH TRANSLATION NEEDED] **Create Memes:** At the beginning of each round, the system provides a meme template. Players need to add captions within the specified time to create humorous memes.
-3.  [ZH TRANSLATION NEEDED] **Rating Phase:** After all players have completed their memes, the game enters the rating phase. Players rate each other's creations, usually on a scale from 1 to 5.
-4.  [ZH TRANSLATION NEEDED] **Results Announcement:** After all ratings are completed, the system calculates the total score for each player and announces the rankings. The player with the highest score wins.
+### 玩法策略
 
-### How to Play
+1.  **模式选择：** 进入游戏后，可以选择加入公开房间和陌生玩家同场竞技，也可以创建私人房间，只邀请自己的朋友加入。
+2.  **创作梗图：** 每回合开始时，系统会随机分配一张梗图模板。你需要在规定时间内为图片添加文字说明，可以是吐槽、反转、内涵梗或网络流行语。
+3.  **评分阶段：** 所有玩家提交完作品后，将进入评分环节。你会依次看到其他玩家的梗图，对每一张从预设分值区间（例如 1–5 分）中给出评分。
+4.  **结果结算：** 评分结束后，系统会统计每位玩家本轮获得的总分或平均分，并公布排行榜。得分最高的玩家获胜，也可以连续多轮累计总分评出最终冠军。
 
-*   **Create Room:** Click the "Create Room" button, set the room name and maximum number of players, then share the room code with friends.
-*   **Join Room:** Enter the room code provided by a friend, then click the "Join Room" button to participate in the game.
-*   **Create Memes:** In the editing interface, click the text box to enter captions, then click the "Submit" button when finished.
-*   **Rate Creations:** In the rating interface, browse other players' creations, select the appropriate rating, and click the "Submit" button.
+### 操作说明
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How to invite friends to play together?**
-     **A**: After creating a private room, share the room code with friends, and they can join by entering the code.
-2.  [ZH TRANSLATION NEEDED] **Q: How many players can play simultaneously?**
-     **A**: The game supports multiple players online simultaneously, with the specific number depending on room settings, usually ranging from 3 to 12 players.
-3.  [ZH TRANSLATION NEEDED] **Q: Is there a reporting feature in the game?**
-     **A**: If you encounter inappropriate content in the game, you can use the report function or leave the current room and join another one.
+*   **创建房间：** 点击“Create Room（创建房间）”按钮，设置房间名称和最大玩家人数后创建房间，再把房间代码分享给好友。
+*   **加入房间：** 在主界面输入好友提供的房间代码，点击“Join Room（加入房间）”即可进入同一局游戏。
+*   **编辑梗图：** 在编辑界面点击文本框输入文案，支持多行或调整位置（取决于版本），完成后点击“Submit（提交）”。
+*   **为他人作品打分：** 在评分界面浏览其他玩家提交的梗图，选择合适的分数并点击提交，系统会自动汇总所有评分。
+
+### 常见问题（FAQ）
+
+1.  **问：如何邀请朋友一起玩？**
+    **答：** 创建私人房间后，将房间代码发给好友，他们在主界面输入代码并加入即可和你同桌开局。
+2.  **问：一局游戏支持多少玩家同时参与？**
+    **答：** 具体人数上限取决于房间设置和版本，一般建议 3–12 人之间，既能保证趣味性，又不会让评分阶段过于冗长。
+3.  **问：游戏里有没有举报或屏蔽功能？**
+    **答：** 如果遇到不合适或冒犯性的梗图内容，可以使用内置的举报/屏蔽功能（如果该版本提供），或者直接退出当前房间，换一个新的房间继续娱乐。

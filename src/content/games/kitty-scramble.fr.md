@@ -1,11 +1,9 @@
 ---
 locale: fr
 urlstr: kitty-scramble
-title: '[FR] Kitty Scramble'
-description: >-
-  [FR] Kitty Scramble is a cozy word‑hunt — swipe across letter grids, find
-  themed words, and clear boards with pattern recognition.
-iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
+title: "Kitty Scramble"
+description: "Kitty Scramble est une chasse aux mots cosy : fais glisser ton doigt sur les grilles de lettres pour trouver des mots à thème et vider le plateau."
+iframeSrc: "https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/"
 thumbnail: /new-images/kitty-scramble.png
 tags:
   - puzzle
@@ -16,36 +14,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation détaillée
 
+Kitty Scramble propose des grilles de lettres sur des thèmes variés (animaux, nourriture, lieux…). Fais glisser ton doigt sur des lettres contiguës dans n’importe quelle direction pour former les mots recherchés ; les mots bonus te donnent des pièces. Les grilles deviennent progressivement plus complexes avec des mots plus longs, des diagonales et des solutions qui se chevauchent.
 
+### Stratégies de jeu
 
-### Detailed Game Introduction
+1.  **Scan du thème** : avant de jouer, liste mentalement quelques mots possibles liés au thème.  
+2.  **Ancrages de motifs** : repère les digrammes/trigrammes fréquents (TH, ING, etc.) pour démarrer un chemin.  
+3.  **Chevauchements** : si un mot bloque un autre, cherche un chemin alternatif avec des diagonales.  
+4.  **Économie de bonus** : stocke des mots bonus au début pour garder des indices en réserve sur les grilles tardives.  
+5.  **Balayage systématique** : balaye lignes puis colonnes pour ne rien manquer.
 
-Kitty Scramble presents themed letter grids (animals, foods, places). Swipe contiguous letters in any direction to form target words; extra words grant coins. Boards escalate with longer words, diagonal paths, and overlapping targets that require flexible pathing and good vocabulary.
+### Commandes
 
-### Gameplay Strategy & Walkthrough
+- Fais glisser sur les lettres pour former un mot, relâche pour valider ; utilise les indices avec parcimonie.
 
-1.  **[FR]** Theme scan: Pre‑list likely words from the theme before swiping.
-2.  **[FR]** Pattern anchors: Look for repeated bigrams/trigrams (TH, ING, EST) to seed paths.
-3.  **[FR]** Overlaps: When a word blocks another, find an alternate route using diagonals.
-4.  **[FR]** Bonus economy: Bank extra words early to save hints for late boards.
-5.  **[FR]** Systematic sweep: Scan rows then columns to avoid misses.
+### FAQ
 
-### Controls Guide
+- **Q : Je vois le mot mais n’arrive pas à le tracer, pourquoi ?**  
+  R : Les lettres ne sont peut‑être pas contiguës ; cherche un chemin en diagonale ou en zigzag si le jeu l’autorise.
 
-- Drag across letters to form words; release to submit; use hints sparingly.
+- **Q : Les pluriels sont‑ils acceptés ?**  
+  R : En général oui, sauf si la liste du niveau les exclut.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I see the word but can’t draw it — why?
-
-A: The letters may not be contiguous; route diagonally or in a zig‑zag where allowed.
-
-- Q: Are plurals allowed?
-
-A: Usually yes unless excluded by the list.
-
-- Q: Can I replay for coins?
-
-A: Yes — farm early boards for extra hints.
+- **Q : Puis‑je rejouer des niveaux pour des pièces ?**  
+  R : Oui, tu peux « farmer » les grilles faciles pour gagner des indices.
 

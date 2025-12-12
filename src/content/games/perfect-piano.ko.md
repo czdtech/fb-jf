@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: perfect-piano
-title: '[KO] Perfect Piano'
+title: Perfect Piano 퍼펙트 피아노
 description: >-
-  [KO] Test your rhythm and reflexes in Perfect Piano! Tap the falling notes as
-  they reach the keyboard to play beautiful songs. Don't miss a single tile!
+  화면 위에서 떨어지는 타일을 리듬에 맞춰 두드리며 곡을 연주하는 리듬 액션 게임입니다. 한 음도 놓치지 않고 연주해 완벽한 콤보와 최고
+  점수에 도전해 보세요.
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/perfect-piano.png
 tags:
@@ -16,33 +16,68 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Perfect Piano*는 인기 모바일 게임 "Piano Tiles"와 유사한 형식의
+피아노 리듬 게임입니다. 화면 상단에서 검은 타일들이 아래로 떨어지고,
+이 타일이 하단의 건반 라인에 정확히 닿는 순간에 클릭 또는 터치를
+해야 합니다.
 
-### Detailed Game Introduction
+각 타일은 악보의 음표에 해당하며, 곡의 멜로디와 리듬에 맞춰
+배치되어 있습니다. 플레이어는 시각적인 타이밍과 음악을 함께 듣고
+반응해야 하므로, **반사 신경·박자감·집중력**을 동시에 시험받게
+됩니다.
 
-Perfect Piano is a fast-paced and engaging rhythm game that simulates playing the piano, similar to the popular "Piano Tiles" genre. Notes in the form of tiles fall from the top of the screen, and you must tap them at the precise moment they reach the bottom keyboard line. The game tests your reflexes, timing, and rhythm as you play along to a variety of beautiful and challenging songs.
+### 플레이 전략 & 공략
 
-### Gameplay Strategy & Walkthrough
+1. **시선은 항상 하단 라인에 두기**  
+   타일이 위에서 떨어질 때부터 전부 따라가려고 하면 눈이 쉽게
+   피로해지고 타이밍을 놓치기 쉽습니다. 실제로 입력해야 하는 위치는
+   화면 맨 아래의 목표 라인이므로, 시선을 아래쪽에 고정한 채
+   다가오는 타일만 보고 반응하는 습관을 들이세요.
 
-1.  **[KO]** **Focus on the Bottom Line:** Don't watch the tiles as they fall from the top. Keep your eyes focused on the target line at the bottom of the screen. This is where you need to react.
-2.  **[KO]** **Anticipate the Rhythm:** Listen to the music! The falling tiles are perfectly synced with the song's melody and rhythm. Anticipating the beat will help you time your taps much more accurately.
-3.  **[KO]** **Use Multiple Fingers:** For faster sections, don't rely on just one finger. Position your hands as if you were playing a real piano and use multiple fingers to cover the different columns.
-4.  **[KO]** **Handle Long Notes:** When you see a long tile, you must press and hold it for its entire duration. Lifting your finger too early counts as a miss.
+2. **음악의 리듬을 먼저 익히기**  
+   떨어지는 타일은 곡의 멜로디와 리듬에 맞게 배치됩니다.
+   배경 음악의 박자와 강세를 미리 들어 두면, 타일을 눈으로 보기
+   전에 손이 먼저 움직일 수 있어 훨씬 안정적인 플레이가 가능합니다.
 
-### Controls Guide
+3. **여러 손가락을 활용해 빠른 구간 대비하기**  
+   속도가 빨라지는 구간에서는 한 손가락으로 모든 열을 처리하기
+   어렵습니다. 실제 피아노를 치듯 두세 손가락을 각 열에 배치해
+   연타를 분담하면 긴 연속 노트도 수월하게 처리할 수 있습니다.
 
-The game is played with simple taps or clicks.
+4. **롱노트는 끝까지 유지하기**  
+   길게 이어지는 타일은 누르고 있는 동안만 판정이 유지됩니다.
+   중간에 손을 떼면 바로 미스로 처리되므로, 시작 지점에서 눌러
+   끝까지 선이 사라질 때까지 손가락을 유지했다가 떼는 것이 중요합니다.
 
-*   **[KO]** **Tap the Notes:** Use your mouse or fingers to click on the columns as the falling tiles cross the target line at the bottom.
+### 조작 가이드
 
-### Frequently Asked Questions (FAQ)
+게임은 매우 간단한 탭/클릭 조작으로 진행됩니다.
 
-*   **[KO]** **Q: What happens if I miss a tile or tap the wrong spot?**
-    *   **[KO]** **A:** In most cases, the game will end immediately, and you will have to restart the song from the beginning.
+- **노트 탭하기**: 마우스 클릭 또는 터치로 각 열의 타일이
+  하단 라인을 지날 때 정확히 눌러 줍니다. 타이밍이 너무 빠르거나
+  늦으면 미스로 판정됩니다.
 
-*   **[KO]** **Q: How do I get a high score?**
-    *   **[KO]** **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: Can I play different songs?**
-    *   **[KO]** **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
+- **Q: 타일을 놓치거나 엉뚱한 곳을 누르면 어떻게 되나요?**  
+  **A:** 대부분의 모드에서 한 번이라도 미스를 내면 곡이 바로
+  종료되고 처음부터 다시 시작해야 합니다. 일부 모드는 제한된
+  횟수의 실수를 허용하기도 합니다.
 
+    - **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**  
+  **A:** 모든 노트를 정확한 타이밍에 연속으로 맞추는 것이 가장
+  중요합니다. 콤보가 이어질수록 점수 배율이 올라가며, 한 번도
+  실수하지 않는 "퍼펙트" 연주는 최고 점수에 가까워집니다.
+
+- **Q: 다른 곡도 플레이할 수 있나요?**  
+
+    - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
+
+- **Q: Can I play different songs?**
+
+    - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
+  **A:** 네. 게임에는 난이도별로 다양한 곡이 수록되어 있으며,
+  쉬운 곡을 클리어하거나 특정 점수를 달성하면 더 어려운 곡이
+  차례대로 해금되는 방식이 일반적입니다.

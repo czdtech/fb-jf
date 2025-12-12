@@ -1,83 +1,46 @@
 ---
-locale: ja
-urlstr: farm-block-puzzle
-title: '[JA TRANSLATION NEEDED] Farm Block Puzzle'
+title: Farm Block Puzzle ファーム・ブロックパズル
 description: >-
-  [JA TRANSLATION NEEDED] A relaxing and fun block puzzle with a charming farm
-  theme. Drag and drop the block shapes onto the 10x10 grid to create full lines
-  and clear them from the board.
+  「Farm Block
+  Puzzle」は農場テーマの癒やし系ブロックパズル。ブロックを10x10グリッドにドラッグ＆ドロップして完全なラインを作り、盤面をクリアしよう。
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/farm-block-puzzle.png
+urlstr: farm-block-puzzle
+score: 4.4/5  (2400 votes)
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.4/5  (2400 votes)
+developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Farm Block Puzzle（ファーム・ブロックパズル）*は、魅力的な農場環境を舞台にした、リラックスできて中毒性のあるパズルゲームです。古典的な10x10フォーミュラに基づいています。
+目標は、異なるブロック形状を10x10グリッドに戦略的に配置することです。横または縦に完全なブロックのラインを形成すると、そのラインがクリアされます。できるだけ長くブロックを配置してラインをクリアし続け、ハイスコアを達成しましょう。
 
-[JA TRANSLATION NEEDED] Farm Block Puzzle is a relaxing and addictive puzzle game based on the classic 10x10 formula, all set in a charming farm environment. The goal is to strategically place different block shapes onto a 10x10 grid. When you successfully form a complete line of blocks, either horizontally or vertically, the line will be cleared. The game challenges you to keep placing blocks and clearing lines for as long as possible to achieve a high score.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **手持ちのピースを計画:** ゲームは一度に3つのブロック形状を与えます。1つを配置する前に、常に他の2つにも実行可能なスポットがあるか考えましょう。これにより、フィットしないピースで詰まるのを防げます。
+2.  **コンボを狙う:** 1ラインをクリアするのは良いですが、1つのピースで複数のラインを同時にクリアすると「コンボ」となり、はるかに高いスコアが得られます。常に2つ以上のラインを同時に完成させる機会を探しましょう。
+3.  **盤面をきれいに保つ:** グリッドに孤立した単一の空の穴を残さないようにしましょう。きれいで開かれた盤面は、後で大きくて扱いにくいピースを配置する柔軟性を与えてくれます。
+4.  **回転不可:** ブロックは回転できないことを忘れずに。与えられた向きで使用する必要があり、これがパズルの核心的な挑戦です。
 
-[JA TRANSLATION NEEDED] 1.  **Plan for the Pieces You Have:** The game gives you three block shapes at a time. Before placing one, always consider if you have a viable spot for the other two. This prevents you from getting stuck with a piece that won't fit.
-[JA TRANSLATION NEEDED] 2.  **Aim for Combos:** Clearing one line is good, but clearing multiple lines at once with a single piece is a "combo" and will give you a much higher score. Always look for opportunities to complete two or more lines simultaneously.
-[JA TRANSLATION NEEDED] 3.  **Keep the Board Clean:** Try to avoid leaving single, isolated empty holes in your grid. A clean and open board gives you more flexibility to place larger and more awkward pieces later on.
-[JA TRANSLATION NEEDED] 4.  **No Rotations:** Remember, the blocks cannot be rotated. You must use them in the orientation they are given, which is the core challenge of the puzzle.
-
-### Controls Guide
-
-[JA TRANSLATION NEEDED] The game is played with a simple drag-and-drop mechanic.
-
-*   **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
-    - **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.（日本語訳が必要）
-    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.（日本語訳が必要）
-    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.（日本語訳が必要）
-    - **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.（日本語訳が必要）
-    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.（日本語訳が必要）
-    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.（日本語訳が必要）
-
-### Frequently Asked Questions (FAQ)
-
-*   **Q: What is the objective of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.
-
-*   **Q: Can I rotate the blocks?**
-[JA TRANSLATION NEEDED]     *   **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
-
-*   **Q: How do I get the highest score?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
+### 操作ガイド
 
 
+The game is played with a simple drag-and-drop mechanic.
+*   **ブロック配置:** マウスまたは指で下部エリアから形状をドラッグし、10x10グリッド上の空きスペースにドロップします。
 
+### よくある質問 (FAQ)
 
+*   **Q: ゲームの目的は何ですか？**
+    *   **A:** ブロックを配置してラインをクリアし、できるだけ多くのポイントを獲得することです。与えられた3つの形状のいずれも盤面に配置できなくなるとゲーム終了です。
 
+*   **Q: ブロックは回転できますか？**
+    *   **A:** いいえ。提示された通りにピースをフィットさせることが挑戦です。
 
-
-
-
-
-    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
-- **Q: How do I get the highest score?**
-    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
-- **Q: Can I rotate the blocks?**
-    - **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.
-- **Q: What is the objective of the game?**
-### よくある質問（FAQ）
-- **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
-
-
-
-
-
-
-    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
-- **Q: How do I get the highest score?**
-    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
-- **Q: Can I rotate the blocks?**
-    - **A:** To score as many points as possible by placing blocks to clear lines. The game ends when you can no longer place any of the three given shapes on the board.
+*   **Q: 最高スコアを得るには？**
+    *   **A:** できるだけ長く生き残り、コンボを作ることです。1つのピースで複数のラインをクリアすると大きなスコアボーナスが得られます。

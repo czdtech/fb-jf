@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: tic-tac-toe-mania
-title: '[ES] Tic Tac Toe Mania'
+title: "Tic Tac Toe Mania - Duelos rápidos de tres en raya"
 description: >-
-  [ES] Tic Tac Toe Mania is a brisk duel — bait forks, block threats, and force
-  draws/wins with optimal play or variant rules.
+  Tic Tac Toe Mania moderniza el clásico tres en raya con partidas ágiles,
+  variantes de tablero y reglas especiales. Provoca bifurcaciones, bloquea
+  amenazas y fuerza empates o victorias con juego óptimo.
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/tic-tac-toe-mania.png
 tags:
@@ -14,32 +15,29 @@ score: 3.8/5  (1678 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Introducción detallada al juego
 
+Tic Tac Toe Mania actualiza el clásico juego de tres en raya con un aspecto limpio y variantes como tableros más grandes o modos “misère”, donde ganar puede significar lo contrario de lo habitual. La base sigue siendo forzar líneas ganadoras o neutralizar las del rival; en un tablero 3×3, una partida perfecta siempre termina en tablas salvo que alguien cometa un error.
 
+### Estrategia y recorrido de juego
 
-### Detailed Game Introduction
+1.  Centro primero: en 3×3, ocupar el centro maximiza las posibilidades de crear bifurcaciones; los rincones van en segundo lugar.
+2.  Bloquea de inmediato: responde siempre a cualquier situación en la que el rival tenga dos en línea.
+3.  Crea forks (bifurcaciones): busca posiciones que generen dos líneas ganadoras posibles al mismo tiempo, de forma que el oponente no pueda taparlas todas.
+4.  Antifork: juega para romper los patrones de bifurcación del rival, colocando tu ficha en los puntos clave que cortan varias líneas a la vez.
+5.  Variantes: en tableros más grandes, prioriza líneas flexibles y control del centro antes que ir directamente a las esquinas.
 
-Tic Tac Toe Mania modernizes noughts‑and‑crosses with clean visuals and variants (bigger boards, misère). Core play is about forcing lines or neutralizing threats; perfect 3×3 play draws unless a mistake occurs.
+### Guía de controles
 
-### Gameplay Strategy & Walkthrough
+- Haz clic en una casilla vacía para colocar tu marca; el juego suele ofrecer modo local para 2 jugadores y diferentes niveles de dificultad contra la IA.
 
-1.  **[ES]** Center first: On 3×3, center maximizes forks; corners second.
-2.  **[ES]** Block immediately: Always respond to a two‑in‑a‑row.
-3.  **[ES]** Create forks: Set up positions where two lines can win next.
-4.  **[ES]** Anti‑fork: Play to break opponent fork patterns.
-5.  **[ES]** Variants: On larger boards, prioritize flexible lines over early corners.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+- Q: ¿En 3×3 siempre se termina en empate?  
+  
+  A: Con juego perfecto por parte de ambos, sí. Las victorias se logran cuando uno de los dos comete un fallo estratégico.
 
-- Click squares to place marks; local 2P common; AI difficulties vary.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Is 3×3 always a draw?
-
-A: With perfect play, yes; wins rely on opponent errors.
-
-- Q: Best first move?
-
-A: Center, then corner.
+- Q: ¿Cuál es el mejor primer movimiento?  
+  
+  A: El centro es el movimiento inicial más fuerte en 3×3, seguido de las esquinas.
 

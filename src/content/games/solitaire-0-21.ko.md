@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: solitaire-0-21
-title: '[KO] Solitaire 0-21'
+title: "Solitaire 0-21 솔리테어 0-21"
 description: >-
-  [KO] Solitaire 0-21 twists solitaire with math — place cards so row sums stay
-  between 0 and 21, balancing risk and reward.
+  0에서 21 사이의 합을 유지하도록 카드를 배치하는 수학 변형 솔리테어
+  게임입니다. 각 줄의 합을 조절하며 위험과 보상을 적절히 관리해
+  보세요.
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/solitaire-0-21.png
 tags:
@@ -17,34 +18,63 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Solitaire 0-21*는 카드 배열 방식의 솔리테어에 **0~21 사이의 합 제한**이라는
+수학 규칙을 결합한 퍼즐 카드 게임입니다. 각 줄(row)에 숫자 카드를
+놓을 때마다 누적 합이 0보다 작아지거나 21을 초과하지 않도록 관리해야
+하며, +/‑/× 같은 수정 카드와 특수 효과 카드가 등장해 계산을 더욱
+복잡하게 만듭니다.
 
-Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place number cards to keep running totals within [0, 21]; modifiers (+/‑/×) and special effects complicate planning. Optimal play sequences safe placements while reserving room for spikes.
+좋은 플레이는 위험한 카드들을 처리할 공간을 남겨 두면서, 안전한
+합을 유지하는 방향으로 카드를 배치하는 것입니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Buffer space: Leave headroom near 21; don’t push totals to edges early.
-2.  **[KO]** Modifier timing: Spend multipliers only when totals allow safe absorption.
-3.  **[KO]** Row planning: Spread risk across rows; don’t stack volatility in one line.
-4.  **[KO]** Hold highs: Park high cards until you can offset with negatives.
-5.  **[KO]** Undo discipline: Undo immediately after noticing a boxed‑in row.
+1. **여유 공간(버퍼)을 항상 남겨 두기**  
+   합이 21에 너무 가까워지면 이후 높은 숫자를 배치할 곳이 없어집니다.
+   초반부터 21에 바짝 붙이기보다는, 나중에 들어올 큰 숫자를 감당할
+   수 있도록 여유를 남겨 두는 것이 중요합니다.
 
-### Controls Guide
+2. **수정 카드(배수·플러스/마이너스)의 타이밍 재기**  
+   곱셈·덧셈·뺄셈 효과를 가진 카드는 합을 크게 바꾸기 때문에,
+   이미 여유가 있는 줄에 써서 한 번에 정리하거나, 위험한 줄을
+   구제하는 용도로 아껴 두는 것이 좋습니다.
 
-- Click/drag to place cards; use undo/hints per UI.
+3. **줄별로 위험 분산하기**  
+   높은 숫자와 배수 카드를 한 줄에만 몰아두면 그 줄이 금방
+   막혀 버립니다. 여러 줄에 리스크를 분산해, 어느 한 줄이 터져도
+   전체 게임이 무너지지 않도록 배치하세요.
 
-### Frequently Asked Questions (FAQ)
+4. **높은 숫자는 바로 쓰지 말고 잠시 보류하기**  
+   9, 10 같은 높은 숫자는 마이너스 카드나 큰 여유가 있는 줄이
+   생길 때까지 손에 들고 있는 것이 좋습니다. 여유가 없는 상태에서
+   무리하게 배치하면 다른 선택지가 사라질 수 있습니다.
 
-- Q: Totals keep busting.
+5. **언두(되돌리기)는 초기에 과감하게 사용하기**  
+   한 줄이 완전히 막혔다고 느껴지면, 즉시 언두로 몇 수 전으로
+   돌아가 다른 배치를 시도해 보세요. 늦게 후회할수록 되돌리기가
+   더 어려워집니다.
 
-A: You’re playing too close to 0/21 edges; leave cushion and pace modifiers.
+### 조작 가이드
 
-- Q: Best way to use negatives?
+- **카드 배치**: 원하는 줄에 클릭하거나 드래그해 카드를 놓습니다.  
+- **언두/힌트**: UI에 표시된 언두, 힌트 버튼을 활용해 실수를 되돌리거나
+  다음 수에 대한 도움말을 받을 수 있습니다.
 
-A: Pair with highs to reset headroom on the same row.
+### 자주 묻는 질문(FAQ)
 
-- Q: Is luck dominant?
+- **Q: 줄 합이 자꾸 0이나 21을 넘어서 터집니다.**  
+  **A:** 너무 일찍 합을 극단(0 또는 21) 근처까지 밀어붙이고 있기
+  때문입니다. 항상 ± 여유를 남겨 두고, 수정 카드는 합을 크게
+  바꿀 수 있을 때만 사용해 보세요.
 
-A: Draws matter, but placement strategy heavily impacts outcomes.
+- **Q: 마이너스 카드는 언제 쓰는 게 좋나요?**  
+  **A:** 높거나 위험한 숫자를 이미 놓은 줄을 "리셋"하는 데 사용하는
+  것이 가장 효율적입니다. 여유가 많은 줄에 쓰면 효과가
+  아깝습니다.
 
+- **Q: 운 요소가 큰 게임인가요?**  
+  **A:** 카드 순서는 운의 영향을 받지만, 어디에 어떤 순서로 배치할지에
+  따라 결과가 크게 달라집니다. 같은 카드 순서라도 배치 전략에 따라
+  성공률이 크게 바뀝니다.

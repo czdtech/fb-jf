@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: geometry-dash
-title: '[DE] Geometry Dash Wave Spam - Play Geometry Dash Online'
-description: '[DE] Forget the fluff. This isn'
+title: "Geometry Dash Wave Spam - Play Geometry Dash Online"
+description: >-
+  Geometry Dash Wave Spam ist ein Hardcore-Wave-Training: keine Portale, keine
+  Pads, keine Coins – nur du, dein Schiff und enge Pixelkorridore, die dein
+  Timing bis an die Grenze treiben.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /geometry-dash.png
 tags:
@@ -10,18 +13,28 @@ tags:
 score: 4.5/5  (604 votes)
 ---
 
+Vergiss den ganzen Schnickschnack. Das hier ist kein gemütlicher
+Geometry-Dash-Spaziergang, sondern eine puristische Wave-Prüfung. Portale,
+Pads und Münzen sind gestrichen – übrig bleiben nur du, die Wave-Form und ein
+pixelgenauer Tunnel voller Stacheln.
 
+### Meistere die Wave – oder scheitere
 
-Forget the fluff. This isn't your standard Geometry Dash stroll. This is a pure, uncut, wave-only gauntlet designed to break you and build you back stronger. We've stripped out the portals, the pads, and the coins—it's just you, your ship, and a pixel-perfect corridor of death.
+Dieses Level ist als Trainingsarena gedacht: Eine brutale, minimalistische
+Prüfung, bei der nur Muskelgedächtnis und Rhythmusgefühl zählen. Die Korridore
+sind extrem eng, jeder Tap zu früh oder zu spät bedeutet sofortiges Scheitern.
+Es gibt kein Glück und keine Abkürzungen – nur reines Skill-Checking.
 
-### MASTER THE WAVE OR DIE TRYING
+Wenn du dem Druck nicht standhältst, bist du in Sekunden draußen. Wenn du aber
+deine Wave wirklich meistern willst und deine Reflexe bis aufs Äußerste
+schärfen möchtest, bist du hier richtig. Jeder Run ist eine hochintensive
+Lektion in Kontrolle.
 
-This is the ultimate training ground. A brutalist trial by fire where your muscle memory and rhythmic precision are the only things that matter. The corridors are tight, the spikes are unforgiving, and a single mistimed tap means instant failure. No luck, no shortcuts—just raw, unfiltered skill.
+#### Features
 
-If you can't handle the pressure, you won't last a second. But if you're here to truly master the wave, to sharpen your reflexes until they're razor-edged, then this is your arena. Every run is a high-octane lesson in control.
-
-#### Features:
-
-- Pure Wave Gameplay: Nothing but the wave form. This is the ultimate test of your core mechanics.
-- Pixel-Perfect Corridors: Navigate spike tunnels so tight they demand flawless control. One pixel can be the difference between glory and another reset.
-- Brutal, High-Intensity Runs: This level is designed for quick, explosive attempts. Learn, adapt, and go again—faster and sharper each time.
+- **Pure-Wave-Gameplay:** Nur die Wave-Form – keine Ablenkung, nur der
+  Kernmechanismus von Geometry Dash.
+- **Pixelgenaue Tunnel:** Stachelgänge sind so eng, dass sie absolut saubere
+  Steuerung verlangen; ein Pixel entscheidet über Sieg oder Reset.
+- **Kurze, intensive Versuche:** Das Level ist darauf ausgelegt, schnell zu
+  scheitern, schnell zu lernen und sofort wieder zu starten.

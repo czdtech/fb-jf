@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: subway-jumper
-title: '[ES] Subway Jumper'
+title: 'Subway Jumper'
 description: >-
-  [ES] Subway Jumper is a nimble runner — swap lanes, time hops/slides, and
-  maintain rhythm through dense metro hazards.
+  Subway Jumper es un runner ágil de tres carriles: cambia de vía, ajusta saltos
+  y deslizamientos y mantén el ritmo mientras esquivas los peligros del metro.
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/subway-jumper.png
 tags:
@@ -15,31 +15,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Subway Jumper funciona como un runner clásico de tres carriles: trenes,
+vallas y conos exigen saltos ajustados y deslizamientos precisos. Las monedas y
+los potenciadores te invitan a tomar rutas arriesgadas, pero la clave para hacer
+buenas rachas está en la consistencia.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Subway Jumper plays like a classic three‑lane runner: trains, cones, and barriers demand late jumps and decisive slides. Coins and power‑ups tempt risky lines; consistency earns longer streaks and better scores.
+1.  **Mira dos obstáculos por delante:** no mires solo al personaje; presta
+    atención a lo que viene para poder reaccionar con tiempo.
+2.  **Salta tarde los obstáculos bajos:** los pequeños bordillos y vallas se
+    superan mejor con un salto ligeramente tardío; para barras altas y túneles,
+    deslízate.
+3.  **No persigas todas las monedas:** si la alineación no es buena, es mejor
+    dejar pasar las monedas laterales que chocarse.
+4.  **Guarda escudos e imanes para zonas densas:** usa los potenciadores cuando el
+    tráfico de obstáculos sea más intenso.
+5.  **Recupera el ritmo tras un error:** si tropiezas, céntrate primero en
+    volver a coger el compás antes de arriesgar más.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Eyes up two obstacles; don’t stare at your feet.
-2.  **[ES]** Late jumps for low hurdles; slides for bars and tunnels.
-3.  **[ES]** Skip side coins when alignment is off.
-4.  **[ES]** Use shields/magnets in dense sections only.
-5.  **[ES]** After a mistake, reset rhythm before speeding up.
+- Cambiar de carril: `A`/`D` o flechas izquierda/derecha.  
+- Saltar: barra espaciadora o flecha arriba.  
+- Deslizarse: flecha abajo.  
+- Activar potenciadores: según teclas indicadas en la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- A/D or Left/Right to switch lanes; Space/Up to jump; Down to slide; power‑ups via keys.
+- **P: Rozo mucho las barreras y pierdo la partida.**  
+  **R:** retrasa un poco los saltos y vuelve al carril central después de cada
+  obstáculo para tener más margen.
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I clip barriers often.
-
-A: Jump a touch later and center after passes.
-
-- Q: Is speed adjustable?
-
-A: Many builds ramp speed automatically; focus on clean inputs.
-
+- **P: ¿Se puede ajustar la velocidad?**  
+  **R:** en la mayoría de versiones la velocidad aumenta de forma automática;
+  céntrate en entradas limpias y movimientos claros.

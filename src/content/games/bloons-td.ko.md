@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: bloons-td
-title: '[KO] Bloons TD'
+title: 'Bloons TD 블룬스 TD'
 description: >-
-  [KO] Master the art of tower defense in Bloons TD! Strategically place and
-  upgrade powerful monkey towers to pop waves of invading balloons (Bloons)
-  before they overwhelm your defenses.
+  Bloons TD는 원숭이 타워로 블룬(풍선) 물결을 막아 내는 대표적인 타워 디펜스
+  시리즈입니다. 다양한 원숭이 타워를 배치·업그레이드해 침입하는 블룬이 길 끝에
+  도달하기 전에 모두 터뜨려 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
 thumbnail: /new-images/bloons-td.jpg
 tags:
@@ -15,61 +15,123 @@ score: 4.1/5  (812 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+## 게임 소개
 
+Bloons TD(Tower Defense)는 매우 인기가 높은 타워 디펜스 게임 시리즈입니다.
+기본 개념은 단순하지만 몰입감이 뛰어납니다. 정해진 길을 따라 전진하는 풍선,
+즉 **블룬(Bloon)**들이 출구까지 도달하지 못하도록 막는 것이 목표입니다. 이를
+위해 플레이어는 길가에 다양한 **원숭이 타워(monkey towers)**를 전략적으로
+배치하게 됩니다.
 
+각 원숭이 타워는 고유한 능력, 공격 방식, 업그레이드 경로를 가지고 있습니다.
+블룬을 터뜨릴 때마다 게임 내 화폐를 얻을 수 있고, 이 돈으로 새로운 타워를
+구매하거나 기존 타워를 더 강력하게 업그레이드할 수 있습니다. 라운드가 진행될수록
+블룬의 종류와 패턴이 점점 까다로워져, 점점 더 정교한 전략이 요구됩니다.
 
+시리즈 전체를 관통하는 주요 특징은 다음과 같습니다.
 
-## Game Introduction
+-   **다양한 블룬 종류**: 가장 기본인 빨간 블룬부터 시작해, 여러 겹으로 이루어진
+    파란·초록·노란 블룬, 빠르게 움직이는 블룬, 그리고 특수 능력을 지닌 블룬이
+    차례로 등장합니다. 대표적인 예로 **Camo**(대부분의 타워에게 보이지 않음),
+    **Lead**(날카로운 투사체에 면역), **Regrow**(빠르게 다시 층이 회복됨),
+    **Fortified**(일반보다 훨씬 더 단단함) 등이 있습니다.
+-   **거대한 비행선 블룬**: 최후반에는 MOAB급(Massive Ornary Air Blimp)
+    블룬들이 등장합니다. 이 거대한 비행선들은 엄청난 피해를 받아야 겨우
+    터지며, 파괴되면 내부에서 더 작은 블룬들이 한꺼번에 쏟아져 나와 추가로
+    위협을 가합니다.
+-   **깊이 있는 업그레이드 시스템**: 대부분의 타워는 세 가지 업그레이드 경로를
+    가지고 있고, 한 타워에서는 그중 두 경로만 올릴 수 있습니다. 이 덕분에 같은
+    타워라도 역할이 완전히 달라지는 수많은 조합을 만들 수 있습니다.
+-   **히어로**: 게임 도중 자동으로 레벨이 오르며 강력한 능력을 얻는 특수 유닛입니다.
+    적절한 히어로 선택과 스킬 사용은 어려운 라운드를 돌파하는 데 큰 도움이 됩니다.
 
-Bloons TD (Tower Defense) is a highly popular series of tower defense games. The core premise is straightforward yet engaging: players must prevent waves of balloons, known as "Bloons," from traversing a set path and reaching the exit. To do this, players strategically place a variety of "monkey towers" along the path.
+목표는 각 맵과 난이도에서 준비된 모든 라운드를, 목숨을 모두 잃지 않고 버티는
+것입니다.
 
-Each monkey tower has unique abilities, attack styles, and upgrade paths. Popping Bloons earns the player in-game money, which can be used to buy more towers or purchase powerful upgrades for existing ones. The game's challenge escalates as the rounds progress, introducing tougher and more complex Bloon types.
+## 플레이 전략
 
-Key features of the series include:
--   **Diverse Bloons:** Starting from simple red Bloons, players will face multi-layered Bloons (blue, green, yellow, etc.), fast-moving ones, and Bloons with special properties like **Camo** (invisible to most towers), **Lead** (immune to sharp projectiles), **Regrow** (regenerate layers if not popped quickly), and **Fortified** (extra tough).
--   **Massive Blimps:** The ultimate threats are the MOAB-class Bloons (Massive Ornary Air Blimp), which are enormous blimps that absorb huge amounts of damage and release smaller Bloons upon being popped.
--   **Deep Upgrade System:** Most towers have three distinct upgrade paths. Players can only upgrade two of these paths on a single tower, leading to a vast number of strategic combinations and specialized tower roles.
--   **Heroes:** Special, powerful units that level up automatically during a game, providing unique abilities that can turn the tide of a difficult round.
+-   **초반 운영이 중요합니다**  
+    시작 구간에서는 효율 좋은 저렴한 타워부터 사용하세요. 업그레이드된 Dart
+    Monkey(다트 몽키) 몇 개나 예리한 코너에 배치한 Tack Shooter(택 슈터) 하나로도
+    초기 라운드는 충분히 버틸 수 있습니다. 이렇게 아낀 돈으로 중·후반에 사용할
+    강력한 타워를 미리 준비하는 것이 좋습니다.
 
-The goal is to survive all the rounds on a given map and difficulty without losing all your lives.
+-   **균형 잡힌 방어라인 만들기**  
+    한 가지 타워에만 의존해서는 모든 블룬을 막을 수 없습니다. 중반 이후에는
+    최소한 다음 요소들을 갖추도록 신경 써야 합니다.
+    -   **카모 대응**: Ninja Monkey(닌자 몽키), 특정 업그레이드를 한 Sniper
+        Monkey(스나이퍼 몽키), `Radar Scanner` 업그레이드를 갖춘 Monkey Village
+        등 카모를 탐지할 수 있는 타워가 필수입니다.
+    -   **리드 블룬 처리**: Bomb Shooter(폭탄 슈터), Mortar Monkey(모르타르
+        몽키), 혹은 Boomerang Monkey(부메랑 몽키)의 `Red Hot Rangs`처럼 리드
+        층을 녹일 수 있는 업그레이드가 필요합니다.
+    -   **군중 제어(Crowd Control)**: Tack Shooter, Bomb Shooter, Wizard Monkey
+        같이 많은 블룬을 한 번에 정리할 수 있는 타워들이 빽빽한 물량에 대응하는
+        핵심입니다.
+    -   **MOAB급 화력**: 후반 라운드로 갈수록 MOAB, BFB, ZOMG 같은 거대한
+        비행선 블룬을 상대해야 하므로, Super Monkey, Spike Factory와 같이
+        고화력·고티어 업그레이드에 특화된 타워를 준비해야 합니다.
 
-## Gameplay Strategy
+-   **타워 간 시너지 활용**  
+    일부 타워는 다른 타워를 강화하기 위해 설계되어 있습니다. Monkey Village는
+    범위 내 모든 타워의 공격 속도와 사거리를 올려 줄 수 있고, Alchemist는
+    강력한 버프 물약을 던져 특정 타워의 공격력과 공격 속도를 크게 끌어올립니다.
+    이런 시너지를 잘 활용하는 것이 고난이도 공략의 핵심입니다.
 
--   **Early Game is Key:** Start with cost-effective towers. A few upgraded Dart Monkeys or a Tack Shooter placed on a sharp corner can handle the initial waves cheaply, allowing you to save money for more powerful defenses later.
--   **Create a Balanced Defense:** Do not rely on just one type of tower. Your defense must be able to handle all Bloon types. By mid-game, ensure you have:
-    -   **Camo Detection:** A Ninja Monkey, a Sniper Monkey with the right upgrade, or a Monkey Village with Radar Scanner is essential.
-    -   **Lead Popping Power:** Bomb Shooters, Mortar Monkeys, or towers with specific upgrades (e.g., a Boomerang Monkey's Red Hot Rangs) are needed for Lead Bloons.
-    -   **Crowd Control:** Towers that excel at popping large groups of Bloons, like the Tack Shooter, Bomb Shooter, or Wizard Monkey, are crucial for dense waves.
-    -   **MOAB Damage:** As you approach later rounds, you need high-damage towers specifically for MOAB-class Bloons. Super Monkeys, Spike Factories, and certain high-tier upgrades are designed for this.
--   **Tower Synergy is Powerful:** Some towers are designed to boost others. The Monkey Village can provide buffs like increased attack speed and range to all towers within its radius. An Alchemist can throw potions that dramatically increase the damage and attack speed of a nearby tower. Combining these is a core part of high-level strategy.
--   **Map Placement Matters:** Place towers where they can cover the most track. Bends and intersections are ideal spots. Place long-range towers like Sniper Monkeys where they have a clear line of sight across the map.
--   **Invest in Economy:** On harder maps and modes, generating extra income is vital. Banana Farms are towers dedicated solely to producing more money each round, allowing you to afford the most expensive and powerful upgrades.
+-   **맵 지형을 최대한 활용하기**  
+    타워는 가능한 한 많은 길을 커버할 수 있는 위치에 두는 것이 좋습니다. 길이
+    꺾이는 코너나 여러 길이 겹치는 구간은 특히 효율적인 자리입니다. Sniper
+    Monkey 같은 장거리 타워는 맵 전체를 가로질러 시야가 확보되는 곳에 놓아야
+    진가를 발휘합니다.
 
-## Controls Guide
+-   **경제 투자도 중요합니다**  
+    어려운 맵이나 모드에서는 추가 수입이 거의 필수입니다. Banana Farm은 라운드
+    끝마다 돈을 생산하는 전용 경제 타워로, 이를 적절히 운용하면 가장 비싸고
+    강력한 업그레이드까지 여유 있게 구매할 수 있습니다.
 
-The game is primarily controlled via mouse or touch screen, making it very intuitive.
+## 조작 방법
 
--   **Placing a Tower:** Select a tower from the UI panel (usually on the right or bottom of the screen). Drag it to a valid position on the map and release to place it.
--   **Upgrading a Tower:** Click on a tower you have already placed on the map. This will bring up its upgrade menu. If you have enough money, you can click on an available upgrade to purchase it.
--   **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. Click them to activate their effect.
--   **Hotkeys (PC):** Most towers and upgrades are bound to hotkeys (e.g., Q for Dart Monkey, comma and period for upgrades), allowing for very fast placement and upgrading for experienced players.
+게임 조작은 마우스 또는 터치스크린으로 대부분 해결되는 직관적인 방식입니다.
 
-## Frequently Asked Questions (FAQ)
+-   **타워 배치:** 화면 오른쪽 또는 하단 UI 패널에서 타워를 선택한 뒤, 맵 위의
+    설치 가능한 위치로 끌어다 놓고 손을 떼면 배치됩니다.
+-   **타워 업그레이드:** 이미 배치된 타워를 클릭하면 업그레이드 메뉴가 열립니다.
+    충분한 돈이 있다면 원하는 업그레이드를 클릭하여 바로 구매할 수 있습니다.
+-   **능력 사용:** 일부 상위 업그레이드는 액티브 스킬을 제공합니다. 이들은
+    타워 메뉴나 화면 하단에 버튼으로 나타나며, 클릭하면 일정 시간 동안 강력한
+    효과를 발휘합니다.
+-   **PC 단축키:** 많은 타워와 업그레이드에는 단축키가 지정되어 있습니다.
+    예를 들어 다트 몽키는 Q 키, 업그레이드는 쉼표/마침표 키 등으로 매우 빠른
+    조작이 가능해 숙련자에게 큰 도움이 됩니다.
 
-**1. Why are my towers not attacking certain Bloons?**
-> This is usually due to special Bloon properties. If a Bloon is green with a camo pattern, it's a **Camo Bloon**, and only specific towers or towers with a "camo detection" upgrade can see it. If it's a grey, metallic Bloon, it's a **Lead Bloon**, and it's immune to sharp projectiles like darts and tacks. You need explosive or magical attacks to pop it.
+## 자주 묻는 질문 (FAQ)
 
-**2. What is a MOAB, BFB, ZOMG, DDT, or BAD?**
-> These are all "MOAB-class" blimps that appear in later rounds. They are extremely durable and move slowly. From weakest to strongest:
-> - **MOAB** (blue blimp): Contains 4 Ceramic Bloons.
-> - **BFB** (red blimp): Contains 4 MOABs.
-> - **ZOMG** (black blimp): Contains 4 BFBs.
-- **DDT** (fast, black blimp): Has Camo, Lead, and Black Bloon properties, making it very dangerous.
-- **BAD** (purple blimp): The toughest blimp in the game, contains ZOMGs and DDTs.
+**1. 어떤 블룬에는 타워가 전혀 공격하지 않아요. 왜 그런가요?**  
+> 대부분 블룬의 특수 속성 때문입니다. 초록색 카모 무늬가 있는 블룬은 **Camo
+> Bloon**으로, 카모 감지 능력이 있는 타워나 업그레이드가 없다면 보이지도
+> 않습니다. 회색 금속 질감의 블룬은 **Lead Bloon**으로, 다트나 택처럼 날카로운
+> 투사체에 완전히 면역입니다. 이런 블룬은 폭발이나 마법 계열 공격으로
+> 상대해야 합니다.
 
-**3. What is the "best" tower in the game?**
-> There is no single "best" tower. The strength of Bloons TD lies in its balance and synergy. A tower that is amazing in one situation might be useless in another. The best strategy is to build a diverse team of towers that support each other and cover all weaknesses.
+**2. MOAB, BFB, ZOMG, DDT, BAD가 뭐죠?**  
+> 모두 후반 라운드에 등장하는 **MOAB급 비행선 블룬**으로, 매우 단단하고 느리게
+> 움직입니다. 약한 것부터 강한 순서대로 보면 다음과 같습니다.  
+> - **MOAB**(파란 비행선): 터지면 Ceramic Bloon 4개를 떨어뜨립니다.  
+> - **BFB**(빨간 비행선): 내부에 MOAB 4대가 들어 있습니다.  
+> - **ZOMG**(검은 비행선): BFB 4대를 품고 있는 더 거대한 비행선입니다.  
+- **DDT**(빠른 검은 비행선): Camo·Lead·Black 특성을 동시에 지녀 아주
+  위험합니다.  
+- **BAD**(보라색 비행선): 게임에서 가장 단단한 최종 보스급 비행선으로,
+  터지면 ZOMG와 DDT가 한꺼번에 쏟아져 나옵니다.
 
-**4. How do I make more money?**
-> The primary way is by popping Bloons. For a significant income boost, build and upgrade Banana Farms. Some other towers, like the Alchemist or Monkey Buccaneer, also have upgrade paths that generate money.
+**3. \"최고의 타워\"는 무엇인가요?**  
+> 단 하나의 정답은 없습니다. Bloons TD의 강점은 **밸런스와 시너지**에 있기
+> 때문입니다. 어떤 상황에서는 최고의 타워도 다른 맵이나 모드에서는 전혀 힘을
+> 못 쓸 수 있습니다. 여러 타워를 조합해 서로의 약점을 보완하는 것이 언제나
+> 가장 좋은 전략입니다.
 
+**4. 돈을 더 많이 벌려면 어떻게 해야 하나요?**  
+> 기본적으로는 블룬을 터뜨릴 때마다 돈을 얻습니다. 더 큰 수입을 원한다면
+> Banana Farm을 건설하고 업그레이드하는 것이 가장 확실한 방법입니다. 이 밖에도
+> Alchemist나 Monkey Buccaneer처럼 특정 업그레이드를 통해 추가 수익을
+> 만들어 내는 타워들도 존재합니다.

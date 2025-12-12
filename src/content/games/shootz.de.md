@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: shootz
-title: '[DE] ShootZ'
+title: "ShootZ"
 description: >-
-  [DE] ShootZ is an action-packed shooting game where players battle against
-  zombies and other creatures, using a variety of weapons to survive
-  increasingly challenging waves of enemies in fast-paced combat.
+  ShootZ ist ein actionreicher Shooter, in dem du gegen Zombies und andere
+  Kreaturen kämpfst. Mit einem Arsenal an Waffen stellst du dich immer
+  stärkeren Gegnerwellen und versuchst, im Kugelhagel zu überleben.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/shootz.jpg
 tags:
@@ -17,36 +17,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"ShootZ" ist ein intensiver Arcade-Shooter, in dem du dich Horden von Zombies
+ und anderen Monstern entgegenstellst. Mit verschiedenen Waffen verteidigst du
+ dich in schnellen Gefechten gegen immer größere und zähere Gegnerwellen. Der
+ Fokus liegt auf flotter Action, Waffenupgrades und dem gekonnten Umgang mit
+ begrenzten Ressourcen.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Waffen verbessern:** Sammle Ressourcen oder Ingame-Währung, um Waffen auf
+    mehr Schaden, höhere Feuerrate oder größeres Magazinvolumen aufzurüsten.
+2.  **Zielpriorität setzen:** Erkenne unterschiedliche Gegnertypen und erledige
+    zuerst die gefährlichsten – etwa schnelle Läufer oder Gegner mit Fernangriff.
+3.  **Überleben hat Vorrang:** Bleib in Bewegung, nutze Deckung und versuche,
+    Gegner durch Engstellen zu ziehen, statt dich einkesseln zu lassen.
+4.  **Ressourcen haushalten:** Gehe sparsam mit Munition und Heilung um, halte
+    Ausschau nach Nachschub und verschieße nicht jeden Schuss im Dauerfeuer.
+5.  **Waffenkombos nutzen:** Wechsle je nach Situation zwischen Waffen – etwa
+    Sturmgewehr für Gruppen und Schrotflinte für Nahkampf.
 
-"ShootZ" is an action-packed shooting game where players battle against zombies and other creatures. Use a variety of weapons to survive in fast-paced combat, facing increasingly challenging waves of enemies. The game is famous for its intense shooting action and diverse weapon systems.
+### Steuerung
 
-### Gameplay Strategy
+*   **Bewegen:** Mit WASD oder Pfeiltasten steuerst du deine Figur.
+*   **Zielen & Schießen:** Richte mit der Maus das Fadenkreuz aus und feuere
+    per Linksklick.
+*   **Nachladen:** Mit **R** lädst du nach.
+*   **Waffenwechsel:** Über Zahlentasten wechselst du zwischen deinen Waffen.
+*   **Spezialfähigkeiten:** Einige Versionen bieten Spezialskills oder Items,
+    die du per zusätzlicher Tasten aktivierst.
 
-1.  **[DE]** **Weapon Upgrades**: Collect resources to upgrade weapons, improving firepower and efficiency.
-2.  **[DE]** **Enemy Priority**: Identify different types of enemies and prioritize defeating the most threatening targets.
-3.  **[DE]** **Survival Strategy**: Keep moving and use environmental obstacles to block enemy attacks.
-4.  **[DE]** **Resource Management**: Allocate ammunition and health wisely, look for supply items.
-5.  **[DE]** **Combo Attacks**: Learn to use combinations of different weapons to handle various situations.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Movement**: Use WASD keys or arrow keys to control character movement.
-*   **[DE]** **Aim and Shoot**: Use mouse to aim and click to shoot.
-*   **[DE]** **Reload**: Press R key to reload.
-*   **[DE]** **Weapon Switch**: Use number keys to switch between different weapons.
-*   **[DE]** **Special Skills**: Some versions may include special skills or item usage.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How do I get better weapons?**
-**A**: By defeating enemies, completing levels, or collecting in-game currency to unlock and purchase new weapons.
-2.  **[DE]** **Q: What if there are too many zombies to handle?**
-**A**: Stay calm, look for bottleneck positions to limit enemy numbers, and prioritize defeating fast-moving enemies.
-3.  **[DE]** **Q: Are there different difficulty modes in the game?**
-**A**: Many versions offer different difficulty settings and game modes for players to choose from.
-4.  **[DE]** **Q: How can I improve shooting accuracy?**
-**A**: Practice aiming more, learn to predict moving enemy positions, and adjust mouse sensitivity settings.
+1.  **F: Wie bekomme ich bessere Waffen?**
+    **A:** Durch das Besiegen von Gegnern, den Abschluss von Leveln oder den
+    Kauf im Ingame-Shop mit erspielter Währung.
+2.  **F: Was tun, wenn zu viele Zombies kommen?**
+    **A:** Suche Engstellen, damit sie nicht von allen Seiten kommen, nutze
+    Flächenwaffen oder Granaten (falls vorhanden) und konzentriere dich auf die
+    schnellsten Gegner zuerst.
+3.  **F: Gibt es verschiedene Schwierigkeitsgrade?**
+    **A:** Viele Versionen bieten mehrere Modi oder Schwierigkeitsstufen, die
+    Gegneranzahl und Aggressivität anpassen.
+4.  **F: Wie verbessere ich meine Treffsicherheit?**
+    **A:** Passe ggf. die Maus-Empfindlichkeit an, übe kurze kontrollierte
+    Feuerstöße und versuche, Bewegungen der Gegner vorauszusehen.

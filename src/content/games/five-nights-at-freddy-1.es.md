@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: five-nights-at-freddy-1
-title: '[ES] Five Nights at Freddy''s 1 (FNAF 1)'
+title: "Five Nights at Freddy's 1 (FNAF 1)"
 description: >-
-  [ES] Horror survival at a pizzeria: monitor cameras, conserve power, and shut
-  doors/lights to keep animatronics out across five nights and beyond.
+  Terror de supervivencia en una pizzería: vigila las cámaras, administra la
+  energía y cierra puertas y luces a tiempo para mantener fuera a los
+  animatrónicos durante cinco noches (y más allá).
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/five-nights-at-freddy-1.jpg
 tags:
@@ -15,30 +16,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Eres el vigilante nocturno de Freddy Fazbear's Pizza. Tu trabajo consiste en
+supervisar las cámaras de seguridad, gestionar una reserva de energía muy
+limitada y evitar que Bonnie, Chica, Freddy y Foxy consigan entrar en tu
+oficina.
 
+### Cómo jugar
 
-### Overview
-You’re the night guard at Freddy Fazbear’s Pizza. Watch cameras, manage limited power, and keep Bonnie, Chica, Freddy, and Foxy from entering your office.
+- Revisa las cámaras para seguir el movimiento de los animatrónicos y presta
+  atención a las pistas sonoras.
+- Cierra las puertas y enciende las luces solo cuando sea necesario: todo
+  consume energía.
+- Sobrevive a cada turno desde las 12 a. m. hasta las 6 a. m.; en las noches
+  más avanzadas la IA se vuelve más rápida y agresiva.
 
-### How to Play
-- Check cameras to track animatronics; listen for audio cues.
-- Close doors and toggle lights sparingly—everything drains power.
-- Survive each shift from 12 a.m. to 6 a.m.; later nights speed up AI.
+### Controles
 
-### Controls
-- Mouse/UI for cameras, lights, and doors; Esc for pause (host dependent).
+- Usa el ratón y la interfaz para manejar cámaras, luces y puertas; la tecla
+  Esc puede pausar el juego según el portal donde lo juegues.
 
-### Tips
-- Learn Foxy’s Pirate Cove behavior; peeking cadence signals risk.
-- Don’t camp cameras; short, purposeful checks save power.
-- Use audio cues to know when a door light check is needed.
+### Consejos
 
-### FAQ
-- Q: Is 6th/Custom Night included?
-A: Many hosts include Night 6 and a custom AI night.
-- Q: Why did I run out of power?
-A: Over‑checking cameras/doors; streamline your loop.
-- Q: Can I mute calls?
-A: Some versions allow muting the Phone Guy’s intro.
+- Aprende el comportamiento de Foxy en Pirate Cove; el ritmo con el que asoma
+  indica el nivel de peligro.
+- No te quedes mirando una sola cámara todo el tiempo; revisiones breves y
+  con propósito ahorran mucha energía.
+- Usa los sonidos del juego para saber cuándo merece la pena comprobar las
+  luces de las puertas.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Incluye la Noche 6 o la Custom Night?**  
+  **R:** Muchos portales incluyen la Noche 6 y una noche personalizada con
+  niveles de IA configurables.
+
+- **P: ¿Por qué me quedo sin energía tan rápido?**  
+  **R:** Normalmente por revisar cámaras y cerrar puertas demasiado a menudo.
+  Simplifica tu rutina de vigilancia y evita acciones innecesarias.
+
+- **P: ¿Puedo silenciar las llamadas?**  
+  **R:** Algunas versiones permiten silenciar la introducción del Phone Guy.

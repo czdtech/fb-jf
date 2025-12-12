@@ -1,40 +1,48 @@
 ---
-locale: ja
-urlstr: descent
-title: '[JA TRANSLATION NEEDED] Descent'
-description: >-
-  [JA TRANSLATION NEEDED] Descent is an arcade skill game: navigate downward,
-  avoid hazards, and time movements to reach the goal.
+title: Descent ディセント
+description: 「Descent」はひたすら下へと降りていくアーケードアクション。壁キックを駆使し、トゲや罠を避けながら、深淵を目指せ。
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/descent.jpg
+urlstr: descent
+score: 5.0/5  (1486 votes)
 tags:
   - arcade
   - skill
-score: 5.0/5  (1486 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Descent（ディセント）*は、垂直に落ちていくミニマルなスキルゲームです。プレイヤーは縦穴を落下しながら、壁から壁へとジャンプして障害物を避けていきます。
+トゲや動くトラップに当たらないように、重力に逆らわず（あるいは利用して）下へ下へと進みましょう。多くのウェブ版ではワンボタン、またはツーボタンのシンプルな操作を採用しています。
+
+### 遊び方
+
+*   **ジャンプ:** タップ（クリック）すると、現在張り付いている壁から反対側の壁へジャンプします。トゲを飛び越えたり、隙間を抜けたりするのに使います。
+*   **タイミング:** 動くトゲや足場のタイミングを読み、安全な隙間ができる瞬間を待ちましょう。
+*   **収集:** ホストによっては、ポイントアイテムやスキン（コスメティック）のアンロック要素があります。
+
+### 操作ガイド
+
+*   **マウス/タッチ:** タップでジャンプ。
+*   **キーボード:** バージョンによっては、左右キーやA/Dキーでそれぞれの壁から飛び出す操作になる場合があります。
+
+### 攻略のヒント
+
+*   **焦らない:** わずかな待機が、トラップの動きと自分の位置を同期させ、安全なルートを作り出すことがあります。
+*   **ジャンプの高さ:** 早めにジャンプすると横への移動距離が長く、遅めに（低く）ジャンプすると短く急な移動になります。使い分けましょう。
+*   **先読み:** 壁に張り付いている間に、画面下の状況をよく見て、次の2手先までのルートをイメージしましょう。
+
+### よくある質問 (FAQ)
+
+*   **Q: ゴールはありますか？**
+
+A: Hosts vary; some are endless score chases, others have stage checkpoints.
+- **A:** エンドレスでスコアを競うものと、チェックポイントがあるステージ制のものがあります。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Descent is a minimalist vertical skill game where you drop down a shaft, time jumps off walls, and avoid hazards like spikes and moving traps. Many web versions use one‑button or two‑button controls to leap from wall to wall while gravity pulls you downward. 
-
-### How to Play
-- Tap/click to jump from the current wall to the opposite side; chain jumps to pass gaps.  
-- Read obstacle timing (moving spikes/platforms) and wait for safe windows.  
-- Collectibles may award points or unlock cosmetics depending on the host. 
-
-### Controls
-- Mouse/touch: tap to jump; some versions use Left/Right or A/D to leap off the respective wall. Controls vary slightly by host. 
-
-### Tips and Strategies
-- Don’t rush: small delays often desync hazards and create openings.  
-- Jump earlier for longer lateral travel; later for short, steep hops.  
-- Use wall‑cling moments to scout the next two screens ahead.  
-
-### FAQ
-- Q: Is progress endless or level‑based?  
-[JA TRANSLATION NEEDED]   A: Hosts vary; some are endless score chases, others have stage checkpoints.   
-- Q: Are there power‑ups?  
-[JA TRANSLATION NEEDED]   A: Some versions add shields or slow‑mo; availability depends on the host. 
-
+A: Some versions add shields or slow‑mo; availability depends on the host.
+*   **Q: アイテムはありますか？**
+    *   **A:** バージョンによっては、シールド（無敵）やスローモーションなどのパワーアップが登場します。

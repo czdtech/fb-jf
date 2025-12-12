@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: incredibox-trillybox
-title: '[KO] Incredibox Trillybox'
+title: Incredibox Trillybox 트랩 힙합 모드
 description: >-
-  [KO] Explore 'Incredibox Trillybox,' the fan-made mod dedicated to Trap music.
-  This guide details its 808-heavy sound palette, gameplay for creating
-  hard-hitting beats, and how to unlock its modern, themed bonuses.
+  트랩 음악에 특화된 팬메이드 모드 'Incredibox Trillybox' 가이드입니다. 808 베이스·하이햇 롤·오토튠 보컬을 활용해
+  강력한 트랩 비트를 만드는 방법을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/907049948/embed'
 thumbnail: /new-images/incredibox-trillybox.png
 tags:
@@ -18,58 +17,84 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+### **게임 소개**
 
-### **Incredibox Trillybox Game Introduction**
+*Incredibox Trillybox*는 현대 **트랩(Trap) 힙합** 사운드에 집중한
+에너지 넘치는 팬메이드 모드입니다. 깊게 울리는 808 베이스,
+빠른 하이햇 롤, 어둡고 반복적인 멜로디, 오토튠 보컬 등
+트랩 음악의 핵심 요소들이 한데 모여 있습니다.
 
-*Incredibox Trillybox* is a popular and energetic fan-made mod for the music creation game Incredibox. This version is a deep dive into the world of **modern Trap music**, a subgenre of hip-hop known for its aggressive beats, deep 808 bass, and distinctive rhythmic patterns.
+캐릭터들은 스트리트웨어 스타일로 꾸며져 있어, 현대 힙합
+씬의 미학을 그대로 반영합니다. 플레이어는 20개의 사운드
+아이콘을 드래그 앤 드롭해, 자신만의 트랩 빌드업과 드롭을
+설계할 수 있습니다.
 
-The game features a crew of characters styled with modern streetwear, reflecting the contemporary trap aesthetic. Players use the classic Incredibox drag-and-drop interface to compose with 20 unique sound icons. The sound library is a comprehensive toolkit for any aspiring trap producer, featuring **heavy 808 kick drums, rapid-fire hi-hats, dark synth melodies, and autotuned vocals**.
+### **플레이 전략 & 팁**
 
-The objective is to allow players to create their own hard-hitting trap bangers while also solving the puzzle of finding the three secret animated bonuses, which are thematically designed around modern hip-hop and trap culture.
+Trillybox에서의 핵심은 **드럼·808·간단한 멜로디** 세 가지를
+어떻게 배치하느냐입니다.
 
-### **Gameplay Strategy & Tips**
+1. **트랩 사운드 팔레트 이해하기**  
+    - **Beats**: 808 킥, 서브베이스, 날카로운 스네어·클랩,
+     빠르게 쪼개지는 하이햇 등 트랩 특유의 리듬을 담당합니다.  
+    - **Effects**: 프로듀서 태그, 짧은 보컬 애드립(“yeah”, “skrrt”)이나
+     특수 효과음 등, 비트를 더 인상 깊게 만드는 요소가 많습니다.  
+    - **Melodies**: 단순하면서도 어두운 벨 루프, 피아노 구절,
+     신스 라인이 포함되어 있습니다. 복잡하지 않은 반복 패턴이
+     트랩의 정석입니다.  
+    - **Voices**: 오토튠이 걸린 보컬, 트리플렛 플로우 랩, 중독성
+     있는 짧은 후크 등이 모여 있습니다.
 
-Strategy in *Incredibox Trillybox* is about mastering the core elements of trap production to create a powerful, rhythmic track.
+2. **“비트가 왕이다” 원칙**  
+   먼저 808 킥, 스네어, 하이햇으로 리듬을 잡으세요. 킥과
+   스네어 위치, 하이햇 패턴만 잘 구성해도 이미 트랩 비트의
+   70%는 완성됩니다.
 
-1.  **[KO]** **Understand the Trap Music Sound Palette**:
-    *   **[KO]** **Beats**: This is the backbone of any trap track. Expect to find iconic **808 kick drums**, deep sub-bass, sharp **snares or claps**, and the genre's signature fast, stuttering **hi-hats**.
-    *   **[KO]** **Effects**: This category adds the atmospheric and rhythmic flair. It often includes sound effects, producer tags, or short vocal ad-libs ("yeah," "skrrt") that punctuate the beat.
-    *   **[KO]** **Melodies**: Trap melodies are often simple, dark, and repetitive. Look for sounds like ominous **bell loops**, simple piano phrases, or dark, atmospheric synth lines.
-    *   **[KO]** **Voices**: Vocals are central to trap. This category features **autotuned singing**, rhythmic rapping with a "triplet flow," and catchy vocal hooks.
+3. **808은 킥이자 베이스**  
+   트랩에서는 808이 드럼이면서 동시에 베이스 라인 역할을 합니다.
+   808 아이콘을 활성화한 뒤, 다른 비트와의 관계를 들어 보며
+   그루브를 조정해 보세요.
 
-2.  **[KO]** **The Beat is King**: Start your composition with the drums. A combination of a heavy 808 kick, a snare on the off-beat, and a fast hi-hat pattern is the quintessential trap foundation.
+4. **멜로디는 간단하게 반복**  
+   멜로디를 너무 복잡하게 만들기보다는, 어두운 벨 루프나
+   짧은 피아노 프레이즈 하나를 골라 반복하는 편이 더 트랩답게
+   들립니다.
 
-3.  **[KO]** **808s are Bass and Drums**: Remember that in trap music, the 808 often serves as both the kick drum and the bassline. Find the icon that provides that deep, booming bass and build around it.
+5. **보너스는 차근차근 찾기**  
+   기본 비트와 808, 간단한 멜로디를 고정해 두고, 보컬·이펙트
+   아이콘을 하나씩 바꿔 보면서 3개의 비밀 애니메이션을
+   찾아보세요.
 
-4.  **[KO]** **Layer Simple Melodies**: Don't overcrowd the mix with complex melodies. Trap music thrives on simple, catchy, and often dark melodic loops. Find one or two that you like and let them repeat.
+### **조작 가이드**
 
-5.  **[KO]** **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a solid beat and bassline, then systematically swap out the melody and voice icons one by one until you trigger one of the animations.
+조작은 공식 Incredibox와 동일합니다.
 
-### **Controls Guide**
+- **사운드 추가**: 하단 사운드 아이콘을 드래그해 캐릭터 위에
+  올려놓습니다.
+- **사운드 제거**: 하단 아이콘의 `X`를 누르거나, 새 아이콘을
+  덮어써 교체합니다.
+- **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나
+  다시 켤 수 있습니다.
+- **솔로**: 캐릭터 옆 작은 버튼으로 해당 캐릭터만 남기고
+  나머지를 모두 뮤트할 수 있습니다.
+- **녹음**: 상단의 녹음 버튼으로 완성된 트랩 앤섬을 녹음·저장할
+  수 있습니다.
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+### **자주 묻는 질문(FAQ)**
 
-*   **[KO]** **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-*   **[KO]** **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **[KO]** **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **[KO]** **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **[KO]** **Record**: Click the **record button** to start and stop recording your trap anthem.
+**1. 공식 Incredibox 버전인가요?**  
+아니요. *Trillybox*는 Andlbox가 제작한 **팬메이드 모드**이며,
+공식 Incredibox 팀 So Far So Good과는 무관합니다.
 
-### **Frequently Asked Questions (FAQ)**
+**2. 어디에서 플레이할 수 있나요?**  
+대부분 **Scratch** 같은 모딩 플랫폼이나 유튜브 영상의 플레이 링크를
+통해 브라우저에서 즐길 수 있습니다.
 
-**1. Is this an official Incredibox version?**
+**3. 이 모드의 매력은 무엇인가요?**  
+공식 버전에서는 보기 힘든 본격 트랩 사운드에 특화되어 있어,
+현대 힙합·트랩을 좋아하는 플레이어에게 특히 매력적입니다.
 
-No. It is a **fan-made mod** created by Andlbox. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**2. Where can I play this mod?**
-
-You will not find it on official platforms. Mods like *Trillybox* are typically hosted on game modding websites like **Scratch** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**3. What makes this mod special?**
-
-Its appeal comes from its authentic and high-quality take on the massively popular trap music genre. It provides a modern and energetic sound palette that is very different from the official versions, resonating with fans of contemporary hip-hop.
-
-**4. Are the bonus solutions for "Trillybox" available online?**
-
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Trillybox combos*" on YouTube will show you the solutions.
+**4. 보너스 조합 공략은 어디서 찾을 수 있나요?**  
+`Incredibox Trillybox combos`를 검색하면, 각 보너스를 여는 조합을
+정리해 둔 유튜브 영상을 쉽게 찾을 수 있습니다.
 

@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-mustard
-title: '[KO] Sprunki Mustard - Play Sprunki Mustard Online'
+title: 'Sprunki Mustard 스프룽키 머스터드'
 description: >-
-  [KO] In this Sprunki Mustard Mod, all the characters have been reshaped to
-  present a unified mustard-yellow color scheme, adding a lingering eerie
-  feeling to the original vibrant picture.
+  Sprunki Mustard는 모든 캐릭터와 UI를 머스터드 옐로 톤으로 물들여, 익숙한
+  Sprunki를 오싹한 공포 분위기로 재해석한 모드입니다. 노란색에 스며든 섬뜩한
+  사운드와 연출로 색다른 음악을 만들어 보세요.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /sprunki-mustard.png
 tags:
@@ -15,29 +15,52 @@ score: 3.9/5  (827 votes)
 
 
 
-### What is Sprunki Mustard?
+### Sprunki Mustard란?
 
-Sprunki Mustard is more than just a color-changing Mod, it is a wonderful experiment of vision and hearing. In this Mod, all the characters have been reshaped to present a unified mustard-yellow color scheme, adding a lingering eerie feeling to the original vibrant picture.
+Sprunki Mustard는 단순히 색만 바꾼 모드가 아니라, 시각과 청각 전체를
+실험하는 작품입니다. 모든 캐릭터가 머스터드 옐로 하나의 색감으로 통일되며,
+밝았던 화면이 묘하게 불길하고 서늘한 분위기를 띠게 됩니다. 이 기묘한 비주얼에
+공포 느낌의 사운드를 더해, 익숙한 Sprunki 플레이를 전혀 다른 공포 테마의
+경험으로 바꾸어 줍니다.
 
-### How to Survive in Sprunki Mustard?
+### Sprunki Mustard에서 생존하는 법
 
-- **Choose Mustard-Themed Characters:** Each character has a unique sound element, now stylized to match the mustard color scheme.
-- **Drag and Drop Sounds:** To create music, drag characters into the main composition area. Each character adds a beat, melody, or vocal line to the track.
-- **Experiment with Horror Elements:** Mix different character sounds to uncover new, spooky combinations. Certain arrangements may even trigger hidden animations, thereby enhancing the horror atmosphere.
+- **머스터드 테마 캐릭터 선택:**
+  각 캐릭터는 기존과 동일하게 서로 다른 사운드 역할을 담당하지만,
+  머스터드 색조에 맞게 다시 디자인되어 있습니다.
+- **드래그 앤 드롭으로 사운드 쌓기:**
+  캐릭터를 무대 위로 끌어다 놓으면 비트·멜로디·보컬이 차곡차곡 쌓이며,
+  묘하게 불안한 머스터드 사운드트랙이 완성됩니다.
+- **공포 요소 실험:**
+  서로 다른 캐릭터 조합을 시도해, 더 으스스한 루프와 효과음을 찾아보세요.
+  특정 조합에서는 숨겨진 애니메이션이 재생되며 공포 분위기를 한층 강화하기도
+  합니다.
 
+### Sprunki Mustard 하이라이트
 
-### Highlights of Sprunki Mustard:
+- **머스터드 톤 캐릭터 & 인터페이스:**
+  화면 전체가 머스터드 옐로 한 가지 색으로 통일되어 독특하고도 불길한
+  미감을 만들어 냅니다.
+- **새로운 공포 연출:**
+  색감과 사운드가 함께 만들어 내는 공포스러운 분위기 덕분에, 같은 구조의 곡도
+  전혀 다른 느낌으로 들립니다.
+- **창의적인 트랙 제작:**
+  각 캐릭터의 사운드를 레이어처럼 겹쳐, 머스터드 모드만의 음산한 트랙을
+  구성할 수 있습니다.
+- **보너스 애니메이션:**
+  특정 사운드 조합으로만 발동되는 숨겨진 애니메이션이 있어, 조합을 연구하는
+  재미가 있습니다.
 
-- **Mustard-Themed Characters and Interface:** All characters are shaded in mustard yellow, creating a striking and cohesive aesthetic.
-- **New Horror Elements:** The eerie color scheme and unique sound combinations create an unsettling, horror-inspired ambiance.
-- **Creative Music Compositions:** Each character’s sound can be layered to build complex, immersive tracks tailored to the Mod’s style.
-- **Bonus Animations:** Discover special animations triggered by specific sound combinations, adding depth to the horror theme.
+### Sprunki Mustard 조작 방법
 
+Sprunki Mustard의 조작은 다른 Sprunki 모드와 동일해, Incredibox 시리즈에 익숙한
+플레이어라면 바로 적응할 수 있습니다. 캐릭터를 선택해 무대에 올리고, 마음에
+들지 않는 사운드는 빼는 식으로 자유롭게 믹스를 구성하면 됩니다.
 
-### Operation of Sprunki Mustard:
+### Sprunki Mustard를 플레이해야 하는 이유
 
-Sprunki Mustard's operation is simple and direct. Incredibox series fans will certainly not be unfamiliar with it. You only need to select the characters as usual and drag them to the stage, and then you can start listening to this unique musical feast.
-
-### Why Play Sprunki Mustard?
-
-Fans of Incredibox and Sprunki will surely love the new interpretation of character aesthetics brought by Sprunki Mustard Mod, and the new and weird atmosphere that this Mod brings to music production gameplay. If you dare to challenge yourself, come to the world of Sprunki Mustard, and use grotesque notes to play your own horror movement!
+Incredibox와 Sprunki를 좋아하면서도, 조금 더 어둡고 기묘한 분위기를 찾는
+플레이어에게 Sprunki Mustard는 훌륭한 선택입니다. 머스터드색으로 뒤덮인 세계와
+이상한 공포 사운드가 어우러져, 익숙한 시스템으로도 전혀 새로운 감각의 곡을
+만들 수 있게 해 줍니다. 약간의 스릴과 독특한 미감을 좋아한다면, 스프룽키
+머스터드 세계에 들어가 당신만의 괴이한 트랙을 만들어 보세요.

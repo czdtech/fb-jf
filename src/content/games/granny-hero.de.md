@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: granny-hero
-title: '[DE] Granny Hero'
+title: "Granny Hero"
 description: >-
-  [DE] Granny Hero is a comedic action‑runner — dodge hazards, use quirky
-  power‑ups, and rescue neighbors with surprising agility.
+  Granny Hero ist ein humorvoller Action-Runner: Weiche Hindernissen aus,
+  nutze schräge Power-ups und rette als flinke Oma deine Nachbarn.
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/granny-hero.png
 tags:
@@ -15,35 +15,56 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Granny Hero ist ein leichtfüßiger Endlos-Runner, in dem eine erstaunlich fitte
+Oma durch Straßen sprintet, Slapstick-Hindernissen ausweicht und Gegenstände
+sammelt, um ihren Nachbarn zu helfen. Du wechselst zwischen Spuren, timst Sprünge
+und Rutschbewegungen und nutzt gelegentlich verrückte Gadgets wie Scooter,
+Regenschirme oder Bratpfannen, die dir kurzzeitig Unverwundbarkeit oder
+Mengen-Kontrolle verleihen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Granny Hero is a lighthearted runner where a spry granny dashes through streets, avoids slapstick hazards, and collects items to aid neighbors. Expect lane swaps, jump/slide timing, and occasional gadgets (scooters, umbrellas, pans) that grant brief invulnerability or crowd‑control.
+1.  **Blick voraus halten**  
+    Richte deinen Blick immer zwei Hindernisse nach vorne, damit du
+    Spurwechsel rechtzeitig planen kannst.
 
-### Gameplay Strategy & Walkthrough
+2.  **Sprung/Rutsch-Rhythmus lernen**  
+    Späte Sprünge räumen hohe Hindernisse besser, während du niedrige Balken
+    und Barrieren mit einer gut getimten Rutschbewegung sicher unterquerst.
 
-1.  **[DE]** Lane vision: Keep eyes two obstacles ahead to prepare swaps.
-2.  **[DE]** Jump/slide rhythm: Late jumps clear hurdles; slides beat low bars.
-3.  **[DE]** Power‑up economy: Save shields/speed boosts for dense stretches.
-4.  **[DE]** Mission focus: Prioritize rescue targets over side coins when routes conflict.
-5.  **[DE]** Recovery: After a mistake, re‑establish cadence before chasing score.
+3.  **Power-ups klug einsetzen**  
+    Hebe Schilde und Geschwindigkeits-Boosts für besonders dichte
+    Hindernis-Passagen auf, statt sie sofort zu verbrauchen.
 
-### Controls Guide
+4.  **Missionsziele priorisieren**  
+    Wenn sich Routen überschneiden, gib Rettungszielen oder Missionsobjekten
+    Vorrang vor ein paar zusätzlichen Münzen.
 
-- Swap lanes: A/D or Left/Right; Jump: Space/Up; Slide: Down; gadgets via keys.
+5.  **Rhythmus nach Fehlern wiederfinden**  
+    Nach einem fast verpassten Hindernis oder Zusammenstoß solltest du kurz
+    durchatmen und deinen Rhythmus stabilisieren, bevor du wieder auf Punktejagd
+    gehst.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I keep clipping cones — any tip?
+- **Spur wechseln:** A/D oder Links/Rechts-Pfeiltasten.  
+- **Springen:** Leertaste oder Pfeil nach oben.  
+- **Rutschen:** Pfeil nach unten.  
+- **Gadgets:** Über zusätzliche Tasten oder Buttons, je nach Plattform.
 
-A: Jump a beat later and center after passes to maximize options.
+### Häufige Fragen (FAQ)
 
-- Q: Are gadgets necessary?
+- **F: Ich bleibe ständig an Hütchen und kleinen Hindernissen hängen – Tipps?**  
+  **A:** Springe einen Tick später ab, damit die Oma das Hindernis klar
+  überfliegt, und zentriere dich nach jedem Hindernis wieder auf der Spur, um
+  mehr Optionen zu haben.
 
-A: They provide safety nets; use them where obstacle density spikes.
+- **F: Muss ich die Gadgets überhaupt benutzen?**  
+  **A:** Sie sind keine Pflicht, aber nützliche Sicherheitsnetze – besonders in
+  engen Passagen mit vielen Hindernissen hintereinander.
 
-- Q: Endless?
-
-A: Most modes are endless with missions layered in.
-
+- **F: Ist das Spiel endlos?**  
+  **A:** In den meisten Modi handelt es sich um Endlos-Läufe, in die zusätzliche
+  Missionsziele und Herausforderungen eingebettet sind.

@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: jetpack-joyride
-title: '[KO] Jetpack Joyride'
+title: "Jetpack Joyride 제트팩 조이라이드"
 description: >-
-  [KO] Side‑scroll runner with gadgets: dodge zappers and missiles, grab
-  vehicles and coins, and complete missions for upgrades.
+  사이드 스크롤 방식의 러너 게임 'Jetpack Joyride' 가이드입니다.
+  제트팩으로 상승·하강을 조절하며 전기 장애물과 미사일을 피하고,
+  코인과 탈것·가젯을 모아 미션을 깨면서 업그레이드를 해 보세요.
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/jetpack-joyride.jpg
 tags:
@@ -16,29 +17,60 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 개요
 
+*Jetpack Joyride*는 한 손으로도 즐기기 좋은 하이 텐션
+사이드 스크롤 러너입니다. 버튼을 누르고 있는 동안에는 상승하고,
+떼면 하강하는 단순한 조작만으로, 전기 장벽·미사일·레이저를
+피하며 계속 앞으로 나아가야 합니다.
 
-### Overview
-Jetpack Joyride is a high‑energy side‑scrolling runner. Hold to rise and release to fall as you dodge zappers, missiles, and lasers. Collect coins to buy gadgets and outfits, grab vehicles for temporary power (hog, dragon, mech), and complete rotating missions to earn stars and unlock upgrades.
+달리는 동안 코인을 모아 상점에서 **가젯과 코스튬**을 구매할 수 있고,
+중간에 등장하는 **탈것(돼지, 드래곤, 메카 등)**을 타면 잠시 동안
+한 번의 실수를 대신 맞아 주는 보호막 역할도 합니다.  
+또한 회전 미션을 완료하면 별을 얻어 더 많은 업그레이드를
+해금할 수 있습니다.
 
-### How to Play
-- Trace safe arcs through zapper patterns; watch missile warning arrows.
-- Prioritize coin lines when safe; vehicles grant hit protection.
-- Equip gadget combos that suit your style (e.g., coin magnets, speed boosts).
+### 플레이 방법
 
-### Controls
-- Hold/tap to ascend; release to descend; buttons for gadgets/menus vary by host.
+- **패턴 읽기**: 전기 장벽의 움직임을 관찰해 안전한 궤적을
+  그리며 통과하고, 미사일 경고 화살표를 보고 미리 이동해
+  피해야 합니다.  
+- **코인 수집**: 위험하지 않은 범위에서 코인이 있는 라인을
+  우선적으로 지나가면, 업그레이드가 빨리 열립니다.  
+- **탈것 활용**: 탈것을 타면 한 번의 피격을 대신 맞아 주므로,
+  고속 구간에서는 보호막처럼 활용하는 것이 좋습니다.  
+- **가젯 조합**: 자기장, 속도 부스트, 미사일 조준 보조 등
+  플레이 성향에 맞는 가젯을 조합하면 훨씬 안정적으로
+  먼 거리를 달릴 수 있습니다.
 
-### Tips
-- Learn zapper cycles; late taps thread tight gaps.
-- Keep a vehicle as a safety buffer on high‑speed sections.
-- Missions guide efficient progress—choose ones you can multi‑task.
+### 조작법
 
-### FAQ
-- Q: How can I survive longer runs consistently?
-A: Read hazard cycles, keep a vehicle as buffer, and avoid greedy coin grabs.
-- Q: Which gadgets should I equip first?
-A: Coin attraction and missile‑warning helpers are strong starters.
-- Q: Do vehicles make me invincible?
-A: They absorb a hit and then break; you still need to dodge.
+- **상승**: 화면을 터치하거나 버튼을 누르고 있으면 캐릭터가
+  위로 떠오릅니다.  
+- **하강**: 버튼이나 터치를 떼면 중력에 따라 서서히 내려옵니다.  
+- 가젯 사용·메뉴 이동 버튼은 호스트에 따라 배치가 달라질 수 있습니다.
+
+### 팁
+
+- 전기 장벽 패턴은 일정한 주기로 반복되므로, 한두 번만
+  관찰해도 어느 타이밍에 통과해야 안전한지 감이 잡힙니다.  
+- 속도가 빨라질수록 **탈것을 미리 확보해 두는 것**이
+  긴 생존에 큰 도움이 됩니다.  
+- 미션 목록을 확인하고, 한 번에 여러 미션 조건을 동시에
+  채울 수 있는 플레이 스타일을 선택하면 효율적으로
+  별을 모을 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+- **Q: 안정적으로 장거리 기록을 내고 싶어요.**  
+  **A:** 장애물 패턴을 먼저 익히고, 탈것을 버퍼로 유지하며,
+  위험한 상황에서는 코인을 욕심내지 않는 것이 핵심입니다.
+
+- **Q: 처음에 어떤 가젯을 우선 구매하는 게 좋나요?**  
+  **A:** 코인을 끌어당기는 계열과 미사일 경고를 더 잘 보여 주는
+  가젯이 초반에는 특히 유용합니다.
+
+- **Q: 탈것을 타면 무적이 되나요?**  
+  **A:** 한 번의 피격을 대신 맞아 주지만, 부딪히면 탈것이 파괴되고
+  다시 일반 상태가 되므로 계속 피하는 플레이가 필요합니다.
 

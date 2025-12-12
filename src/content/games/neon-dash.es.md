@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: neon-dash
-title: '[ES] Neon Dash'
+title: "Neon Dash - Runner de precisión a ritmo de neón"
 description: >-
-  [ES] Neon Dash is a fast precision runner — jump, dodge hazards, and time your
-  inputs to survive neon gauntlets.
+  Neon Dash es un runner de precisión frenético: salta, esquiva trampas y ajusta
+  tus pulsos al milisegundo para sobrevivir a circuitos de neón llenos de
+  peligros.
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/neon-dash.png
 tags:
@@ -16,28 +17,45 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Neon Dash es un runner de reflejos en el que te enfrentas a una lluvia de
+pinchos, plataformas y trampas rítmicas. Los niveles se basan en un timing muy
+fino: saltos cortos, impulsos tardíos y un ritmo constante son la clave para
+superar cadenas de obstáculos muy ajustadas. Según el modo, encontrarás fases
+con puntos de control o recorridos que tienes que completar de una sola vez.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Neon Dash is a reflex‑driven runner filled with spikes, platforms, and pulsing traps. Levels emphasize clean timing—short hops, late jumps, and consistent rhythm help you pass tight obstacle sequences. Expect checkpointed stages or one‑shot clears depending on the mode.
+1.  Dominar la curva de salto: practica pulsaciones cortas y largas para
+    ajustar la distancia; los saltos tardíos suelen pasar los pinchos con más
+    seguridad.
+2.  Leer patrones: memoriza los ciclos de trampas y abórdales siempre con el
+    mismo patrón de pulsos.
+3.  Mantener la calma en cadenas largas: en secciones con muchos obstáculos
+    seguidos, confía en el ritmo que ya has practicado en lugar de corregir en
+    mitad del salto.
+4.  Usar la música como guía: a menudo la banda sonora marca el ritmo de los
+    obstáculos; deja que el compás dicte tus saltos.
+5.  Practicar los tramos difíciles: reinicia y repite la parte más dura hasta
+    que tu memoria muscular se encargue del timing.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Learn jump arcs: Practice short/long taps to fine‑tune distance; late jumps often clear spikes more safely.
-2.  **[ES]** Read patterns: Memorize trap cycles and attack them on consistent beats.
-3.  **[ES]** Stay calm on chains: For multi‑obstacle chains, commit to the rhythm instead of second‑guessing mid‑air.
-4.  **[ES]** Use sound cues: Music often maps to obstacles—let it guide your jump cadence.
-5.  **[ES]** Drill tough sections: Restart and isolate the hardest segment to build muscle memory.
+- Salto: barra espaciadora, clic o toque (en algunas versiones la duración de la
+  pulsación cambia la altura).  
+- Pausa/reintento: controles en pantalla o atajos de teclado, según la versión.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Jump: Space/Click/Tap (press length may vary height in some versions).
-- Pause/Retry: On‑screen controls or keyboard shortcuts.
+- P: Siempre rozo los pinchos, ¿por qué?  
+  R: Probablemente saltas demasiado pronto; retrasa ligeramente el salto y
+  procura mantener una velocidad de avance estable.
 
-### Frequently Asked Questions (FAQ)
+- P: Hay doble salto?  
+  R: Algunos niveles introducen trampolines o pads especiales; fíjate en las
+  indicaciones en pantalla.
 
-- Why do I clip spikes? You’re jumping too early—delay slightly and keep momentum smooth.
-- Is there double jump? Some levels introduce special pads or toggles; follow on‑screen hints.
-- Any tip for late‑game? Slow down mentally, count beats, and commit to practiced timing windows.
-
+- P: Algún consejo para las últimas fases?  
+  R: Baja el ritmo mental, cuenta los golpes de música y comprométete con
+  ventanas de tiempo que ya hayas practicado.

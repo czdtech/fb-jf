@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: block-dimension
-title: '[ES] Block Dimension'
+title: "Block Dimension"
 description: >-
-  [ES] Enter the Block Dimension, a 3D puzzle game that will challenge your
-  spatial awareness. Rotate the structure and fit the blocks perfectly.
+  Adéntrate en Block Dimension, un juego de puzles en 3D que pondrá a prueba tu
+  visión espacial. Gira la estructura y encaja los bloques a la perfección.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/block-dimension.png
 tags:
@@ -16,33 +16,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Block Dimension es un juego de puzles cautivador que lleva la clásica fórmula
+de encajar bloques a una nueva dimensión. Se juega sobre una cuadrícula de 10x10
+y te reta a colocar estratégicamente bloques de distintas formas para limpiar
+líneas tanto en horizontal como en vertical. A diferencia de otros puzles de
+bloques, Block Dimension introduce giros únicos y una estética moderna y limpia.
+El objetivo es conseguir la mayor puntuación posible limpiando líneas y creando
+combos antes de quedarte sin espacio en el tablero.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Block Dimension is a captivating puzzle game that takes the classic block-fitting formula into a new dimension. Played on a 10x10 grid, the game challenges you to strategically place blocks of various shapes to clear lines both horizontally and vertically. Unlike traditional block puzzlers, Block Dimension often introduces unique twists and a sleek, modern aesthetic. The goal is to score as many points as possible by clearing lines and creating combos before you run out of space on the board.
+1.  **Piensa por adelantado:** Normalmente verás tres piezas a la vez. Antes de
+    colocar la primera, visualiza cómo podría encajar cada una de ellas en el
+    tablero. Una buena planificación es la clave para sobrevivir a largo plazo.
+2.  **Mantén el tablero abierto:** Evita crear agujeros aislados en tu
+    estructura, porque son muy difíciles de rellenar más adelante. Intenta que
+    las pilas de bloques se mantengan relativamente planas y abiertas.
+3.  **Apunta a los combos:** La mejor forma de lograr una puntuación alta es
+    limpiar varias líneas (filas o columnas) con una sola pieza. Busca
+    oportunidades para preparar estas reacciones en cadena.
+4.  **No tengas prisa:** No hay límite de tiempo, así que tómate tu tiempo para
+    encontrar la colocación óptima de cada pieza. Un solo movimiento malo puede
+    llevarte rápidamente al fin de la partida.
+5.  **Gestiona las piezas grandes:** Ten siempre presente las piezas grandes e
+    incómodas como el cuadrado de 3x3. Si no preparas un buen hueco para ellas,
+    pueden atascar tu tablero en muy pocos turnos.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Think Ahead:** You are typically shown three block shapes at a time. Before placing the first one, visualize how all three could potentially fit on the board. Good planning is key to long-term survival.
-2.  **[ES]** **Keep the Board Open:** Avoid creating single, isolated holes in your structure, as they can be very difficult to fill later. Try to keep your stacks relatively flat and open.
-3.  **[ES]** **Aim for Combos:** The most effective way to get a high score is by clearing multiple lines (rows or columns) with a single piece. Look for opportunities to set up these chain reactions.
-4.  **[ES]** **Don't Rush:** There is no time limit, so take your time to find the optimal placement for each piece. A single bad move can quickly lead to a game over.
-5.  **[ES]** **Manage Large Pieces:** Be mindful of the large, awkward pieces like the 3x3 square. If you don't have a good spot for them, they can quickly clog up your board.
+*   **Arrastrar y soltar:** Usa el ratón para seleccionar un bloque del área de
+    reserva y arrástralo hasta la cuadrícula de 10x10.
+*   **Colocar el bloque:** Suelta el botón del ratón para colocar el bloque en
+    la posición resaltada.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Drag and Drop:** Use your mouse to select a block from the holding area and drag it onto the 10x10 grid.
-*   **[ES]** **Place Block:** Release the mouse button to place the block in the highlighted position.
+*   **P: ¿Puedo rotar los bloques?**
+    *   **R:** En la mayoría de juegos de bloques estilo 10x10, incluido este,
+        no puedes rotar las piezas. Debes utilizarlas en la orientación que se
+        te ofrece; esa limitación forma parte del reto.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo se limpian las líneas?**
+    *   **R:** Una línea se limpia cuando las 10 casillas de una fila horizontal
+        o de una columna vertical están completamente ocupadas por bloques. Todos
+        los bloques de esa línea desaparecen y liberan espacio.
 
-*   **[ES]** **Q: Can I rotate the blocks?**
-    *   **[ES]** **A:** In most 10x10 style block games, including this one, you cannot rotate the blocks. You must use them in the orientation provided, which is a core part of the challenge.
-
-*   **[ES]** **Q: How do I clear lines?**
-    *   **[ES]** **A:** A line is cleared when all 10 cells in a horizontal row or a vertical column are filled with blocks. All blocks in that line then disappear, freeing up space.
-
-*   **[ES]** **Q: What is the best strategy for a high score?**
-    *   **[ES]** **A:** Focus on creating and clearing multiple lines at once. This combo-play gives you significantly more points than clearing single lines. Also, try to play for as long as possible without running out of moves.
-
+*   **P: ¿Cuál es la mejor estrategia para lograr una puntuación alta?**
+    *   **R:** Céntrate en crear y limpiar varias líneas a la vez. Jugar a los
+        combos te da muchos más puntos que limpiar líneas sueltas. Además,
+        intenta mantener la partida activa el máximo tiempo posible sin quedarte
+        sin movimientos.

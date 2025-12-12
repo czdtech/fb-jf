@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: spider-solitaire-2
-title: '[FR] Spider Solitaire'
-description: >-
-  [FR] Take on the challenge of Spider Solitaire. Arrange cards in descending
-  order by suit to clear them from the tableau. A true test of strategy and
-  planning.
+title: Spider Solitaire
+description: "Relève le défi de Spider Solitaire\_: range les cartes en séquences descendantes par couleur pour les retirer du tableau. Un vrai test de stratégie et de planification."
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/spider-solitaire-2.png
 tags:
@@ -19,32 +16,66 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
-Spider Solitaire is one of the most popular and challenging variations of solitaire. Played with two full decks of cards, the objective is to clear the tableau by building eight complete descending sequences of a single suit, from King down to Ace. Once a full sequence is completed, it is removed from play. The game is renowned for its difficulty and the strategic depth required to win, especially when played with two or four suits.
+Spider Solitaire est l’une des variantes de solitaire les plus connues et
+les plus exigeantes. Il se joue avec deux jeux complets (104 cartes). Le
+but est de vider le tableau en construisant huit suites complètes d’une
+même couleur, du Roi jusqu’à l’As. Une fois une séquence complète formée,
+elle est retirée du jeu. Sa difficulté et la profondeur de ses décisions en
+font un classique, surtout en 2 ou 4 couleurs.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu
 
-1.  **[FR]** **The Goal:** To build eight sequences of cards within the tableau, each from King to Ace in a single suit. Once a full K-to-A sequence is formed, it is automatically removed from the board. The game is won when the tableau is empty.
-2.  **[FR]** **Moving Cards:** You can place any card onto another card that is one rank higher. For example, you can place a 7 of any suit onto an 8 of any suit. However, you can only move a *group* of cards together if they are all of the *same suit* and in perfect descending order (e.g., you can move a 9♠-8♠-7♠ sequence together).
-3.  **[FR]** **Uncovering Cards:** The primary strategy is to uncover the face-down cards in the tableau as quickly as possible to give yourself more options.
-4.  **[FR]** **Empty Columns:** An empty column can be filled with any card or any valid sequence of cards. Use these empty spaces strategically to rearrange your tableau and organize your suits.
-5.  **[FR]** **Dealing from the Stock:** When you have no more productive moves, you can click the stock pile. This will deal one new face-up card to the bottom of each of the ten tableau columns. **Important:** You cannot deal new cards if any of your tableau columns are empty.
+1.  **Objectif :** construire huit suites dans le tableau, chacune allant
+    du Roi à l’As dans une seule couleur. Quand une séquence K→A est
+    complète, elle est automatiquement retirée. La partie est gagnée
+    lorsque le tableau est vide.
+2.  **Déplacement des cartes :** tu peux poser n’importe quelle carte sur
+    une carte immédiatement supérieure (un 7 sur un 8, peu importe la
+    couleur). En revanche, tu ne peux déplacer un groupe de cartes ensemble
+    que si elles sont toutes de la même couleur et en ordre décroissant
+    parfait (ex. 9♠‑8♠‑7♠).
+3.  **Dégager les cartes cachées :** la stratégie centrale consiste à
+    retourner les cartes face cachée le plus vite possible pour augmenter
+    tes options.
+4.  **Colonnes vides :** une colonne vide peut recevoir n’importe quelle
+    carte ou séquence valide. Utilise ces espaces pour réorganiser ton
+    tableau et regrouper les couleurs.
+5.  **Piocher dans le talon :** lorsque tu n’as plus de coups utiles,
+    clique sur la pioche pour distribuer une carte face visible au bas de
+    chacune des dix colonnes. **Important :** tu ne peux piocher que si
+    aucune colonne n’est vide.
 
-### Controls Guide
+### Commandes
 
-*   **[FR]** **Move Cards:** Click and drag a card or a valid sequence to another column.
-*   **[FR]** **Deal Cards:** Click the stock pile in the corner to deal a new row of cards.
-*   **[FR]** **Auto-Move:** Many versions will automatically move a completed K-to-A sequence to the foundation area for you.
+*   **Déplacer des cartes :** clique‑dépose une carte ou une séquence
+    valide vers une autre colonne.  
+*   **Distribuer des cartes :** clique sur la pioche pour ajouter une
+    nouvelle rangée.  
+*   **Auto‑déplacement :** de nombreuses versions déplacent automatiquement
+    les suites complètes K→A vers la zone de fondation.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: What is the difference between 1, 2, and 4 suit Spider Solitaire?**
-    *   **[FR]** **A:** The difficulty. In 1-suit mode, all cards are of the same suit, making it easy to create sequences. In 2-suit and 4-suit modes, you must manage different suits, which makes it much harder to build the required single-suit sequences for removal.
+*   **Q : Différence entre Spider 1, 2 et 4 couleurs ?**  
+    R : La difficulté. En 1 couleur, toutes les cartes sont identiques, les
+    suites sont donc faciles à créer. En 2 et 4 couleurs, tu dois gérer des
+    couleurs différentes, ce qui rend la constitution de suites d’une seule
+    couleur beaucoup plus difficile.
 
-*   **[FR]** **Q: Why can't I deal new cards from the stock?**
-    *   **[FR]** **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
+    - **Q : Pourquoi je ne peux pas piocher une nouvelle rangée ?**  
+    R : Il faut qu’il y ait au moins une carte dans chacune des dix
+    colonnes. Si une colonne est vide, place‑y d’abord une carte.
 
-*   **[FR]** **Q: What is the best strategy for beginners?**
-    *   **[FR]** **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
+*   **Q : Quelle est la meilleure approche pour débuter ?**  
 
+    - **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
+
+- **Q: What is the best strategy for beginners?**
+
+    - **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
+    R : Commence en 1 couleur pour apprendre les mécaniques. Vise en
+    priorité le retournement de nouvelles cartes et la création de colonnes
+    vides. Essaye de construire des suites sur des colonnes avec peu de
+    cartes cachées dessous.

@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: merge-pirates
-title: '[ZH TRANSLATION NEEDED] Merge Pirates'
+title: "《Merge Pirates》海盗舰队合成记"
 description: >-
-  [ZH TRANSLATION NEEDED] Ahoy, captain! Merge cannons, ships, and pirate gear
-  to build a powerful fleet. Fulfill orders, earn gold, and become the most
-  legendary pirate on the seven seas in this addictive merge puzzle game.
+  《Merge Pirates》是一款海盗主题的合成休闲游戏，你要合成火炮、战船与各种海盗装备，完成船员订单、赚取金币，打造称霸七海的传奇舰队。
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/merge-pirates.png
 tags:
@@ -17,31 +15,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Merge Pirates is a highly addictive and relaxing puzzle game where you take on the role of a pirate captain building your fleet. The gameplay revolves around merging identical pirate-themed items—like cannons, ship wheels, and treasure maps—to create new, higher-level items. Your goal is to fulfill orders for your crew, earn gold coins, and discover all the legendary pirate gear to become the most notorious captain on the seven seas.
+《Merge Pirates》是一款既放松又容易上头的合成益智游戏，你将扮演一名忙碌的海盗船长，在甲板上不断升级你的装备与舰队。游戏围绕各类海盗题材物品展开——小火炮、舵轮、藏宝图、酒桶乃至整艘战船，两个相同的物品可以合成更高等级的版本。你的目标是根据船员订单生产所需物品、赚取金币，并解锁更多传说级装备，让自己的舰队成为七大洋上的噩梦与传说。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Merge Chain:** The core of the game is merging. Drag one item and drop it onto an identical item to create a new, upgraded item. For example, two small cannons might merge into a larger, more powerful cannon.
-2.  [ZH TRANSLATION NEEDED] **Fulfill Orders:** At the top of the screen, you will see orders from your pirate crew. You must create the specific items they are asking for. Fulfilling an order is the primary way to earn gold coins.
-3.  [ZH TRANSLATION NEEDED] **Manage Your Board:** You only have a limited number of spaces on your board. If it fills up, you won't be able to receive new items. Always try to make merges to keep space free for new deliveries.
-4.  [ZH TRANSLATION NEEDED] **Use Your Gold:** Spend the coins you earn to buy more items from the shop. This is much faster than waiting for the free crate and is essential for creating high-level items to fill difficult orders.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **掌握合成链：** 把一件物品拖到另一件相同物品上即可合成更高等级的装备。例如，两门小型火炮可以合成更大口径火炮。理解各种物品的升级线，有助于你更有计划地推进订单。
+2.  **优先完成订单：** 屏幕上方会显示来自船员或委托方的订单，你需要合成出订单指定的装备。完成订单是主要收入来源，也是解锁新物品与新玩法的重要途径。
+3.  **控制甲板空间：** 你的甲板格子数量有限，被塞满时无法再接受新货箱。要时刻留意是否有可合成的物品，优先合成低阶装备，为高级装备与新物品腾出空间。
+4.  **金币运用：** 通过完成订单获得的金币可以在商店购买更多基础物品，这比等待免费补给箱要快得多，也是冲击高阶装备的必经之路。建议优先购买当前合成链中“缺少的一环”，而不是随机囤货。
 
-[ZH TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
+### 操作说明
 
-*   **Merge Items:** Click and drag one item and drop it onto another identical item to merge them.
-*   **Buy Items:** Click on the shop icon and then click the item you wish to purchase.
+本作同样采用简单的拖拽操作：
 
-### Frequently Asked Questions (FAQ)
+*   **合成物品：** 用鼠标或手指拖动一件物品并放到另一件相同物品上，即可合成高级装备。
+*   **购买物品：** 点击商店图标，选择你想购买的物品类型，支付金币后会在空格子中生成对应物品。
 
-*   **Q: How do I get new items?**
-     *   **A:** A free crate will periodically drop a basic item onto an empty space. You can also use your gold coins to buy any type of item you have previously discovered.
+### 常见问题（FAQ）
 
-*   **Q: What is the main goal?**
-     *   **A:** To earn gold by fulfilling orders and to discover all the different pirate items in the game.
+*   **问：新装备从哪里来？**
+    *   **答：** 系统会定期通过免费箱在空格上投放基础物品；随着你不断合成、解锁新等级的装备，它们也会进入商店列表，之后可以用金币直接购买。
 
-*   **Q: My board is full and I can't make any moves. What do I do?**
-     *   **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level item to free up a space.
+*   **问：游戏的主要目标是什么？**
+    *   **答：** 通过完成各种订单赚取金币，同时收集并解锁全部海盗主题装备，从普通工具到传奇级武器都一网打尽，打造属于自己的顶级海盗舰队。
 
+*   **问：甲板被塞满、完全动不了了怎么办？**
+    *   **答：** 先仔细找找有没有被忽略的合成机会，如果确实没有可合成组合，可以使用垃圾桶图标出售一些低等级、暂时用不到的物品，换取少量金币并腾出格子。

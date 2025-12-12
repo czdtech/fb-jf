@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: sushi-grab
-title: '[FR] Sushi Grab'
-description: >-
-  [FR] Sushi Grab is a speedy arcade picker — snag the right sushi, avoid traps,
-  and hit score targets.
+title: Sushi Grab
+description: "Sushi Grab est un jeu d’arcade rapide\_: attrape les bons sushis sur le tapis roulant, évite les pièges et atteins l’objectif de score."
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/sushi-grab.png
 tags:
@@ -14,29 +12,37 @@ score: 3.9/5  (1602 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Sushi Grab se déroule dans un restaurant à sushis avec tapis roulant. Des
+assiettes défilent devant toi : à toi de prendre uniquement celles qui
+correspondent à la commande, le plus vite possible.
 
+### Stratégie
 
-### Detailed Game Introduction
+1. lis bien la commande actuelle et concentre‑toi dessus ;
+2. anticipe les assiettes qui arrivent avec ta vision périphérique ;
+3. privilégie la série de bonnes prises plutôt que la précipitation ;
+4. garde un rythme régulier pour maintenir tes séries et ton multiplicateur
 
-Sushi Grab is a fast‑paced selection game themed around conveyor‑belt sushi. Pick requested pieces, avoid wrong items or hazards, and chain streaks to reach score goals under a timer.
+- Fixed patterns? Belts often loop patterns—learn and exploit them.
 
-### Gameplay Strategy & Walkthrough
-
-1.  **[FR]** Read orders: Focus on the current request—don’t grab extras.
-2.  **[FR]** Peripheral vision: Track upcoming plates along the belt to prepare.
-3.  **[FR]** Chain safely: Streaks boost score; prioritize accuracy to keep them alive.
-4.  **[FR]** Filter traps: Ignore decoys or penalty plates; they often appear near good ones.
-5.  **[FR]** Time boxes: When the timer dips, take only guaranteed picks.
-
-### Controls Guide
-
-- Pick: Click/tap the correct sushi on the belt.
-- Pause/Retry: Use UI buttons.
-
-### Frequently Asked Questions (FAQ)
+- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
 
 - Do wrong picks penalize? Usually yes—score loss or streak breaks.
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
+
+### Foire aux questions (FAQ)
+
+- Pause/Retry: Use UI buttons.
+
+- Pick: Click/tap the correct sushi on the belt.
+
+### Commandes
+
+- Time boxes: When the timer dips, take only guaranteed picks.
+
 - Fixed patterns? Belts often loop patterns—learn and exploit them.
+
+- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
+   de score.
 

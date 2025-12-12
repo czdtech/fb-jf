@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: tank-trouble
-title: '[DE] Tank Trouble'
+title: Tank Trouble
 description: >-
-  [DE] Tank Trouble is a multiplayer tank battle game where players control
-  tanks in a maze-like arena, shooting at opponents while navigating walls and
-  obstacles to be the last tank standing.
+  Tank Trouble ist ein Mehrspieler-Panzerduell im Labyrinth: Navigiere enge
+  Gänge, pralle mit Schüssen an Wänden ab und versuche, als letzter intakter
+  Panzer übrig zu bleiben.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/tank-trouble.jpg
 tags:
@@ -16,35 +16,45 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Spieleinführung
+
+Tank Trouble ist ein schnelles Labyrinth‑Duell für zwei bis drei Spieler (oder gegen KI). Jeder steuert einen kleinen Panzer in einer Maze‑Arena, Schüsse prallen an Wänden ab – und genau diese Abpraller machen das Spiel taktisch und chaotisch zugleich.
+
+### Spielstrategie
+
+1.  **Wände ausnutzen:** Deine Kugeln prallen an Wänden ab. Nutze das, um Gegner zu treffen, die nicht in direkter Sichtlinie sind.
+2.  **In Bewegung bleiben:** Wer stehen bleibt, wird schnell getroffen. Bewege dich ständig, aber nicht planlos.
+3.  **Deckung suchen:** Nutze Mauern, um dich vor direkten Schüssen zu schützen, während du selbst Winkel vorbereitest.
+4.  **Vorausschießen:** Erwarte, wohin sich der Gegner bewegt, und schieß leicht voraus oder von der Seite über Bande.
+5.  **Power‑ups einsammeln:** Manchmal erscheinen Spezialwaffen – hol sie dir, wenn du nicht direkt unter Beschuss stehst.
+
+### Steuerung (typische Belegung, je nach Variante)
+
+- **Spieler 1:**  
+- Bewegen: Pfeiltasten  
+- Schießen: `M`
+
+- **Spieler 2:**  
+  - Bewegen: `W`, `A`, `S`, `D`  
+  - Schießen: `Q`
+
+(Bei 3‑Spieler‑Varianten hat Spieler 3 eine eigene Tastenbelegung.)
+
+### Häufige Fragen
+
+- **Wie funktionieren Abpraller?**  
+  Kugeln folgen einfachen Reflexionswinkeln. Schräg geschossen = schräg zurück. So kannst du „um Ecken“ treffen.
+
+- **Wie vermeide ich Treffer?**  
+  Bleib nicht auf gerader Linie vor dem Gegner, nutze diagonale Wege und Wände als Blocker.
+
+- **Gibt es ein Zeitlimit?**  
+  Meist nicht – eine Runde endet, wenn alle gegnerischen Panzer zerstört sind.
 
 
+**A**: Some modes may have time limits, but the main goal is to defeat all opponents.
+
+- **Q: Is there a time limit?**
 
 
-### Game Introduction
-
-"Tank Trouble" is a multiplayer tank battle game where players control tanks in a maze-like arena, shooting at opponents while navigating walls and obstacles to be the last tank standing. The game is popular for its fast-paced combat and strategic positioning gameplay.
-
-### Gameplay Strategy
-
-1.  **[DE]** **Use Walls**: Bullets ricochet off walls; learn to use bounces for indirect attacks on opponents.
-2.  **[DE]** **Movement Strategy**: Keep moving to avoid becoming a stationary target, but also control shooting angles.
-3.  **[DE]** **Terrain Advantage**: Use maze terrain to block enemy shooting paths.
-4.  **[DE]** **Predictive Shooting**: Predict opponents' movement directions and aim ahead.
-5.  **[DE]** **Collect Power-ups**: Gather special power-ups in the arena to gain advantages.
-
-### How to Play
-
-*   **[DE]** **Movement Control**: Use arrow keys or WASD to control tank movement and rotation.
-*   **[DE]** **Shooting**: Use designated keys (usually spacebar or specific keys) to shoot.
-*   **[DE]** **Multiplayer Mode**: Supports local multiplayer gaming with different key combinations for each player.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: How do bullets ricochet?**
-**A**: Bullets bounce off walls according to physics rules; you can use this mechanism for indirect attacks.
-2.  **[DE]** **Q: How can I avoid getting hit?**
-**A**: Keep moving, use walls as cover, and try to predict opponents' shooting paths.
-3.  **[DE]** **Q: How many players can play simultaneously?**
-**A**: Usually supports 2-3 players in local multiplayer battles.
-4.  **[DE]** **Q: Is there a time limit?**
 **A**: Some modes may have time limits, but the main goal is to defeat all opponents.

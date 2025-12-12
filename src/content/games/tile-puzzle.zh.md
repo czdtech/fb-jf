@@ -1,46 +1,55 @@
 ---
 locale: zh
 urlstr: tile-puzzle
-title: '[ZH TRANSLATION NEEDED] Tile Puzzle'
-description: >-
-  [ZH TRANSLATION NEEDED] A relaxing and strategic puzzle game. Find and select
-  three identical tiles to clear them from the board. Plan your moves carefully
-  to avoid filling up your collection tray.
-iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
-thumbnail: /new-images/tile-puzzle.jpg
+title: 《Tile Puzzle》滑块拼图
+description: 《Tile Puzzle》是一款经典滑块拼图游戏。通过移动被打乱的图块，让它们重新排列成完整图片或正确数字顺序。
+iframeSrc: 'https://tilepuzzle.h5games.usercontent.goog/v/2b7n3c1k9d4p0/'
+thumbnail: /new-images/tile-puzzle.png
 tags:
   - puzzle
+  - sliding
   - casual
-  - thinky
-score: 4.4/5  (2300 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.9/5  (1450 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Tile Puzzle is a modern and engaging tile-matching game that challenges your planning and strategic skills. The goal is to clear a board stacked with various patterned tiles. You do this by selecting a tile and sending it to a collection tray at the bottom. When you have three identical tiles in the tray, they match and disappear, freeing up space. You must clear the entire board to win, but be careful—if you fill the tray completely, you lose!
+《Tile Puzzle》还原了传统 4×4、5×5 等滑块拼图玩法。原本完整的图片或数字排列会被切成若干小块，并打乱顺序，其中一格为空格，你只能通过将相邻方块滑动到空格位置来逐步复原整体。既有简单的少块拼图，也有需要较强空间感和耐心的大尺寸关卡。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Think Before You Tap:** The collection tray has a very limited capacity (usually seven slots). Before you tap a tile, have a plan for it. Don't just tap random tiles hoping for the best.
-2.  [ZH TRANSLATION NEEDED] **Uncover New Tiles:** Your primary goal should be to make matches that uncover the most new tiles. Sometimes it's better to hold off on an easy match if it doesn't reveal any new, useful tiles underneath.
-3.  [ZH TRANSLATION NEEDED] **Use the Tray as a Temporary Hold:** You can place tiles in the tray that don't yet form a match. Use this to your advantage. If you need a specific tile that is currently blocked, you can move other tiles into the tray to hold them while you work on freeing up the one you need.
-4.  [ZH TRANSLATION NEEDED] **Identify Trapped Tiles:** Look for situations where one tile type is stacked directly on top of another of the same type. You will need to clear the top one first, which means you'll need to find its two other partners while the one below remains blocked.
+### 游玩策略与解题指引
 
-### Controls Guide
+1.  **分段解决：** 先完成第一行和第一列（或上两行），再依次解决剩余区域，避免一开始就在整盘乱挪。
+2.  **保留一个“操作区”：** 让空格尽量停留在你当前正在处理的区域附近，方便来回调整；
+3.  **按块构图：** 处理图片拼图时，可以先找出明显的角落、边缘和颜色块，从这些部分入手拼合；
+4.  **遇到“最后两块”问题：** 经典滑块难题中经常出现只剩两块互换位置的情况，通常需要预留一小圈空间逆时针/顺时针旋转一圈解决，而不是简单互换。
 
-[ZH TRANSLATION NEEDED] The game is played with simple clicks or taps.
+### 操作说明
 
-*   **Select a Tile:** Click on any tile that is not grayed out (i.e., not covered by another tile) to move it to the collection tray at the bottom of the screen.
 
-### Frequently Asked Questions (FAQ)
+The game is played with simple clicks or taps.
+*   **滑动方块：** 点击或轻触与空格相邻的方块即可将其滑入空格位置；
+*   **预览完整图：** 部分版本提供完整图预览按钮，可随时查看目标样式；
+*   **重置：** 如走偏太多，可重启关卡重新尝试。
 
-*   **Q: What is the main objective?**
-     *   **A:** To clear 100% of the tiles from the board by collecting them in sets of three in your tray.
+### 常见问题解答（FAQ）
 
-*   **Q: Why are some tiles gray and unclickable?**
-     *   **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
 
-*   **Q: What happens if the tray fills up?**
-     *   **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
+- **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
+
+    - **Q: What happens if the tray fills up?**
+
+- **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
+
+    - **Q: Why are some tiles gray and unclickable?**
+
+- **A:** To clear 100% of the tiles from the board by collecting them in sets of three in your tray.
+
+    - **Q: What is the main objective?**
+**问：滑块拼图是否可能“无解”？****
+答：** 在合理打乱的前提下，大多数局面是有解的，但从理论上确实存在数学意义上的“无解状态”。正规游戏一般会避免生成无解局面。
+
+**问：有什么通用技巧？****
+答：** 习惯“分区处理”的思路，并学会用空格绕圈移动小范围内的方块，而不是每次都在整个棋盘上大挪。
 

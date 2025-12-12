@@ -1,10 +1,11 @@
 ---
 locale: zh
 urlstr: wordler
-title: '[ZH TRANSLATION NEEDED] Wordler'
+title: 'Wordler：进阶版每日五字推理'
 description: >-
-  [ZH TRANSLATION NEEDED] Wordler is a daily deduction word game — guess
-  five‑letter words, leverage feedback colors, and converge with pattern logic.
+  《Wordler》是一款偏“高手向”的每日五字母推理游戏。
+  通过每次猜测后给出的颜色反馈，逐步排除不可能的组合，
+  用模式识别和逻辑推理而不是纯运气逼近正确答案。
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
 thumbnail: /new-images/wordler.png
 tags:
@@ -15,28 +16,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Wordler follows the modern five‑letter deduction format: each guess yields color feedback (correct letter/place, correct letter/wrong place, absent). Optimal play prunes the search space with informed guesses instead of random stabs.
+《Wordler》沿用现代流行的“五字母推理”玩法：
+每一次猜测都会根据字母与位置给出颜色反馈——位置与字母都正确、
+字母正确但位置错误、不在答案中等。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Strong opener: Use a high‑coverage starter with common vowels/consonants (e.g., SLATE/CRANE/ROAST).
-2.  [ZH TRANSLATION NEEDED] Letter accounting: Track confirmed/excluded letters explicitly; avoid re‑testing dead letters.
-3.  [ZH TRANSLATION NEEDED] Position logic: Fix green letters, permute yellows across remaining slots.
-4.  [ZH TRANSLATION NEEDED] Frequency bias: Favor common digrams (TH, CH, SH, ST) and endings (‑ER, ‑ED, ‑ING).
-5.  [ZH TRANSLATION NEEDED] Endgame pruning: Before final guesses, shortlist all valid permutations to avoid whiffs.
+想要稳定获胜，关键不在于随缘乱猜，而是通过每一次反馈，
+系统地缩小候选空间，用逻辑与词感一步步锁定唯一答案。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-- Type and submit guesses; review color feedback; limited attempts per puzzle.
+1.  **选择高信息量的开局词（Strong opener）：**  
+    起手词尽量使用元音与高频辅音都比较丰富的单词，
+    例如 “SLATE”、“CRANE”、“ROAST” 等，
+    一次性探测尽可能多的常见字母。
+2.  **建立“字母账本”（Letter accounting）：**  
+    记录哪些字母已经被证明不存在（灰色），哪些已经确认存在，
+    避免在后续猜测中反复使用“死字母”，浪费尝试次数。
+3.  **利用位置逻辑（Position logic）：**  
+    把绿色格子视为锁定位置，黄色格子则需要在剩余空位中排列组合，
+    主动尝试不同站位来验证真正的位置，而不是反复停留在同一种排布。
+4.  **参考常见字母组合（Frequency bias）：**  
+    根据英语中常见的字母对和结尾形式来猜测，
+    例如 “TH、CH、SH、ST” 以及 “‑ER、‑ED、‑ING” 等，
+    能帮助你快速排除不自然的组合。
+5.  **收官前的精细筛选（Endgame pruning）：**  
+    当前几次猜测后只剩两三个可能答案时，不要盲目二选一，
+    可以先用一组“诊断词”来同时测试多枚不确定字母，
+    以避免在最后一轮浪费机会。
 
-### Frequently Asked Questions (FAQ)
+### 操作指南
 
-- Q: I get multiple possibles late — how to pick?
-  
-[ZH TRANSLATION NEEDED]   A: Choose a diagnostic word that tests the most uncertain letters/positions.
+- **输入与提交：** 使用键盘输入五个字母，按回车键提交本次猜测。
+- **查看反馈：** 提交后观察每个格子的颜色变化，并据此调整下一次猜测策略。
+- **尝试次数：** 每个谜题通常只有有限的几次尝试，
+  在动笔前多思考当前这一步“到底在验证什么”。
 
-- Q: Are plurals allowed?
-  
-[ZH TRANSLATION NEEDED]   A: Depends on dictionary; many allow plurals sparingly.
+### 常见问题（FAQ）
 
+- **问：最后几步经常出现多个可能答案，该怎么选？**  
+  **答：** 与其盲选一个答案，不如设计一个“诊断单词”，
+  用它来覆盖多个候选中的关键字母与位置，一次性筛掉大半错误选项。
+
+- **问：游戏允许复数形式吗？**  
+  **答：** 这取决于使用的词典。有些版本会有限度地收录复数与变形，
+  建议在游戏内或说明中查看具体规则。

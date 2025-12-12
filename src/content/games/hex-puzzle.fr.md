@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: hex-puzzle
-title: '[FR] Hex Puzzle'
+title: Hex Puzzle
 description: >-
-  [FR] A challenging and addictive block puzzle on a hexagonal grid. Drag and
-  drop the hexa blocks to create and clear full lines in any direction. Plan
-  your moves, as blocks cannot be rotated!
+  Hex Puzzle est un puzzle de blocs exigeant sur une grille hexagonale : place
+  des pièces en forme d’hexagones pour compléter des lignes dans toutes les
+  directions, sans jamais pouvoir les faire pivoter.
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
 thumbnail: /new-images/hex-puzzle.jpg
 tags:
@@ -17,34 +17,44 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Hex Puzzle revisite le genre des puzzles de blocs sur une grille hexagonale. Ton objectif est de placer différentes formes constituées d’hexagones sur le plateau pour créer des lignes complètes et ininterrompues. Les lignes peuvent se former dans trois directions : horizontale et les deux diagonales. Lorsqu’une ligne est complète, elle disparaît, libérant de la place et te rapportant des points. Sans limite de temps, c’est un jeu de pure stratégie et de planification spatiale.
 
+### Comment jouer
 
-### Detailed Game Introduction
+1.  **Pense en trois directions**  
+    Contrairement à une grille carrée, une grille hexagonale permet de former des lignes dans trois axes. Scrute toujours le plateau non seulement à l’horizontal, mais aussi le long des deux diagonales.
 
-Hex Puzzle is a fun and engaging twist on the classic block puzzle genre, played on a hexagonal grid. The objective is to place various shapes, made of hexagonal blocks, onto the board to create complete, unbroken lines of hexes. Lines can be formed in three directions: horizontally and in both diagonal directions. When a line is complete, it clears from the board, freeing up space and earning you points. With no time limits, it’s a test of pure strategy and spatial planning.
+2.  **Évite d’isoler des cases**  
+    Essaie de garder tes placements compacts. Laisser des hexagones isolés au milieu du plateau rendra très difficile l’utilisation de grandes pièces plus tard.
 
-### Gameplay Strategy & Walkthrough
+3.  **Planifie en fonction de tes trois pièces**  
+    Tu reçois toujours trois pièces à la fois. Avant d’en poser une, vérifie rapidement si les deux autres ont aussi un emplacement possible. Beaucoup de parties se terminent parce qu’on bloque sans le vouloir la pièce suivante.
 
-1.  **[FR]** **Think in Three Directions:** Unlike a square grid, a hexagonal grid allows you to form lines in three different directions. Always be scanning the board not just for horizontal lines, but for diagonal opportunities as well.
-2.  **[FR]** **Don't Isolate Spaces:** Try to keep your placements compact. Leaving single empty hexes scattered around the board can make it very difficult to place larger pieces later in the game.
-3.  **[FR]** **Plan for Your Pieces:** You are given three pieces at a time. Before placing one, quickly assess if there is room for the other two. It's a common mistake to place one piece only to find that you have blocked yourself from placing the next one.
-4.  **[FR]** **Combos are Key:** Clearing multiple lines with a single piece placement will award you a combo score bonus. Look for placements that can complete two or even three lines simultaneously for a huge score boost.
+4.  **Cherche les combos**  
+    Effacer plusieurs lignes en un seul placement rapporte un bonus de combo. Repère les emplacements qui peuvent compléter deux ou trois lignes en même temps pour un gros gain de score.
 
-### Controls Guide
+### Commandes
 
-The game is controlled with a simple drag-and-drop interface.
+Le jeu se contrôle entièrement en glisser‑déposer.
 
-*   **[FR]** **Place Blocks:** Use your mouse or finger to drag a shape from your inventory at the bottom and place it onto an empty space on the hexagonal grid.
+- **Placer un bloc** : utilise ta souris ou ton doigt pour faire glisser une pièce depuis l’inventaire en bas de l’écran vers une zone libre de la grille hexagonale.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Q: Can I rotate the blocks?**
-    *   **[FR]** **A:** No. The inability to rotate the blocks is a core part of the challenge. You must figure out how to fit the pieces as they are presented.
+- **Q : Puis‑je faire pivoter les pièces ?**  
+  R : Non. L’impossibilité de les faire pivoter fait partie intégrante du challenge. Tu dois apprendre à les intégrer telles qu’elles sont proposées.
 
-*   **[FR]** **Q: How does the game end?**
-    *   **[FR]** **A:** The game ends when you are given a set of pieces and there is no possible move to place any of them on the board.
+    - **Q : Quand la partie se termine‑t‑elle ?**  
+  R : La partie s’arrête quand tu reçois un nouveau set de trois pièces et qu’aucune d’elles ne peut être placée sur le plateau.
 
-*   **[FR]** **Q: What is the best way to get a high score?**
-    *   **[FR]** **A:** Survive as long as possible by keeping the board from filling up, and always prioritize moves that clear multiple lines at once to get combo points.
+- **Q : Comment obtenir un score élevé ?**  
+
+    - **A:** Survive as long as possible by keeping the board from filling up, and always prioritize moves that clear multiple lines at once to get combo points.
+
+- **Q: What is the best way to get a high score?**
+
+    - **A:** The game ends when you are given a set of pieces and there is no possible move to place any of them on the board.
+  R : Survis le plus longtemps possible en évitant que la grille ne se remplisse, et privilégie les placements qui effacent plusieurs lignes simultanément afin de profiter au maximum des combos.
 

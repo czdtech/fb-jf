@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: arctic-pong
-title: '[KO] Arctic Pong'
+title: 'Arctic Pong 아틱 퐁'
 description: >-
-  [KO] Arctic Pong is a frosty paddle duel — angle returns, control pace, and
-  outscore your opponent.
+  Arctic Pong은 북극을 배경으로 한 간단한 퐁 게임입니다. 패들을 움직여 퍽을
+  튕겨내고 각도를 조절해 상대보다 더 많은 점수를 따 보세요.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/arctic-pong.png
 tags:
@@ -14,30 +14,45 @@ score: 3.7/5  (1332 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+Arctic Pong은 고전 게임 "퐁(Pong)"을 북극 분위기로 재구성한 캐주얼 대전
+게임입니다. 화면 양쪽 끝의 패들을 움직여 가운데에서 튀어 다니는 퍽을
+되받아치고, 상대 쪽으로 흘려보내 골을 넣는 것이 기본 규칙입니다. 단순한
+조작으로 각도를 조절하며 상대를 압박하는 재미가 핵심입니다.
 
+### 플레이 전략 & 공략 팁
 
+1.  **모서리 노리기:** 패들의 중앙이 아닌 끝부분으로 퍽을 맞히면 튕겨 나가는
+    각도가 크게 바뀝니다. 모서리를 이용해 상대가 받기 힘든 코스로 보내세요.
+2.  **속도 변화 주기:** 항상 같은 힘과 각도로만 치면 상대가 금방 패턴을
+    읽습니다. 가볍게 톡 쳤다가, 다음에는 강하게 빠르게 보내는 식으로 속도를
+    섞어 주면 실수를 유도하기 쉽습니다.
+3.  **중앙 복귀 습관:** 한 번 퍽을 쳐낸 뒤에는 즉시 패들을 중앙 근처로
+    되돌려 두면 양쪽 어느 방향으로 튀어도 대처하기 수월합니다.
+4.  **벽 바운스 예측:** 퍽이 벽에 부딪힌 뒤 어느 쪽으로 튈지 미리 계산하고,
+    미리 그 위치로 움직여 두면 반응 시간이 줄어듭니다.
+5.  **서브(서비스)로 압박 시작:** 서브를 넣을 때부터 코너를 노리거나 속도
+    변화를 주면, 라운드 초반부터 상대를 긴장시키고 실수를 이끌어낼 수
+    있습니다.
 
-### Detailed Game Introduction
+### 조작 방법
 
-Arctic Pong is a simple, chilly spin on classic Pong. Move your paddle to return the puck, angle shots off edges, and pressure your opponent with pace and placement.
+- 패들 이동: 방향키, WASD, 또는 터치/드래그 등 버전에 따라 조작 방식이
+  제공됩니다.
+- 모드: 한 기기에서 둘이 플레이하는 2인용 모드와, AI와 겨루는 1인용 모드가
+  일반적입니다.
 
-### Gameplay Strategy & Walkthrough
+### 자주 묻는 질문 (FAQ)
 
-1.  **[KO]** Aim corners: Strike near paddle edges to change return angles.
-2.  **[KO]** Mix speeds: Soft touches then fast drives can bait whiffs.
-3.  **[KO]** Center recover: Return to center after each hit to cover both sides.
-4.  **[KO]** Read bounces: Predict wall angles to pre‑position earlier.
-5.  **[KO]** Serve control: Use serves to set early pressure.
+- **회전(스핀이 적용되나요?)**  
+  대부분의 버전에서는 복잡한 회전 물리가 아니라, 패들을 맞힌 위치에 따라
+  튕김 각도만 달라지는 간단한 방식입니다.
 
-### Controls Guide
+- **수비를 잘하려면 어떻게 해야 하나요?**  
+  패들을 중앙에 두고, 퍽이 벽에 맞고 나올 각도를 미리 예상해 움직이면
+  막기 수월합니다.
 
-- Move paddle: Arrow keys / WASD or drag.
-- Modes: Local 2‑player and solo vs. AI are common.
-
-### Frequently Asked Questions (FAQ)
-
-- Is there spin? Some versions approximate angle via contact point; no complex spin.
-- Best defense? Stay centered and react to edge bounces.
-- Quick wins? Vary angles and tempo to force mistakes.
-
+- **빨리 이기는 요령이 있나요?**  
+  각도와 속도를 계속 바꾸어 상대가 예측하기 어렵게 만드는 것이 좋습니다.
+  연속으로 모서리를 노려 코너 쪽으로 보내면 실수를 유도하기 쉽습니다.

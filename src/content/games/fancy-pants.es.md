@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: fancy-pants
-title: '[ES] Fancy Pants'
+title: "Fancy Pants"
 description: >-
-  [ES] Stylish stick‑figure platformer: fast momentum, wall‑jumps, and flowy
-  parkour across hand‑drawn levels and secret rooms.
+  Fancy Pants es un juego de plataformas estilizado de monigote con mucho estilo:
+  velocidad e impulso rápidos, saltos en pared y parkour fluido por niveles dibujados a mano
+  llenos de habitaciones secretas.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/fancy-pants.jpg
@@ -16,30 +17,43 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Descripción general
 
+Fancy Pants es un juego de plataformas dibujado a mano centrado en el impulso y la fluidez.
+Construye velocidad en las pendientes, encadena saltos en pared y descubre áreas
+secretas y coleccionables escondidos por el mapa.
 
+### Cómo jugar
 
-### Overview
-Hand‑drawn platforming focused on momentum and flow: build speed on slopes, wall‑jump, and discover secret areas and collectibles.
+- Mantén el impulso cronometrando bien los saltos al salir de cada pendiente.
+- Usa carreras por pared y deslizamientos para enlazar movimientos y superar huecos
+  grandes.
+- Explora caminos secundarios para encontrar trofeos y habitaciones ocultas.
 
-### How to Play
-- Keep momentum by timing jumps at slope exits.
-- Use wall‑runs and slides to chain movement.
-- Explore side paths for trophies and hidden rooms.
+### Controles
 
-### Controls
-- Arrows/WASD: move/jump; S/Down to slide; Up to open doors (host dependent).
+- Flechas o WASD para moverte y saltar.
+- S o Flecha abajo para deslizarte.
+- Flecha arriba para abrir puertas (según la versión).
 
-### Tips
-- Don’t mash jump—press at lip/edge for max carry.
-- Slides into jumps preserve speed better than flat starts.
-- Revisit earlier levels with better mastery to reach secrets.
+### Consejos
 
-### FAQ
-- Q: Is there combat?
-A: Light—mainly stomps or simple swipes in some versions.
-- Q: Are there time trials?
-A: Many releases feature speed‑run or challenge rooms.
-- Q: Can I change pants colors?
-A: Some versions unlock cosmetics.
+- No machaques el botón de salto: pulsa en el borde de la plataforma para
+  obtener la máxima distancia.
+- Entrar en un salto tras un deslizamiento conserva mejor la velocidad que
+  empezar desde parado en llano.
+- Vuelve a niveles anteriores cuando domines mejor el movimiento; llegarás a
+  secretos que antes parecían imposibles.
 
+### Preguntas frecuentes (FAQ)
+
+- **P: ¿Hay combate?**  
+  **R:** Muy ligero; normalmente basta con pisar enemigos o usar golpes simples
+  en algunas versiones.
+
+- **P: ¿Hay pruebas de tiempo?**  
+  **R:** Muchas ediciones incluyen desafíos de speedrun (contrarreloj) o salas de reto.
+
+- **P: ¿Puedo cambiar el color de los pantalones?**  
+  **R:** En ciertas versiones puedes desbloquear cosméticos para personalizar el
+  aspecto del personaje.

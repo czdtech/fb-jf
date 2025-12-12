@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: sudoku
-title: '[FR] Sudoku'
-description: >-
-  [FR] Sudoku is a classic number puzzle game where players fill a 9x9 grid with
-  digits 1-9, ensuring each row, column, and 3x3 box contains all numbers
-  exactly once in this challenging logic-based brain teaser.
+title: Sudoku
+description: "Sudoku est un casse‑tête numérique classique\_: remplis une grille 9x9 avec les chiffres 1 à 9 en veillant à ce que chaque ligne, colonne et bloc 3x3 contienne chaque chiffre une seule fois."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/sudoku.jpg
 tags:
@@ -16,36 +13,67 @@ score: 5.0/5  (1136 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introduction
+
+Sudoku est un jeu de logique où tu complètes une grille 9x9 de sorte que chaque
+ligne, colonne et bloc 3x3 contienne tous les chiffres de 1 à 9. Pas de
+calcul, seulement du raisonnement.
+
+### Stratégies de base
+
+1. **Commencer simple :** cherche les cases où un seul chiffre est possible.
+2. **Élimination :** regarde les chiffres déjà présents pour éliminer ceux
+   qui ne peuvent pas aller dans une case.
+3. **Méthode des candidats :** note les chiffres possibles dans les cases
+   vides si la version le permet.
+4. **Singles cachés :** repère les chiffres qui n’ont qu’une seule position
+   possible dans une ligne/colonne/bloc.
+5. **Avancer par étapes :** après chaque placement, réanalyse la grille pour
+   trouver de nouveaux coups.
+
+### Commandes
+
+- clique sur une case pour la sélectionner ;
+- entre un chiffre via le clavier ou les boutons à l’écran ;
+- efface un chiffre si tu t’es trompé ;
+- utilise éventuellement un mode « candidats » si disponible.
 
 
 
+**A**: Standard Sudoku should be solvable through pure logical reasoning without guessing.
 
-### Game Introduction
+- **Q: Do I need to guess?**
 
-"Sudoku" is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once. This logic-based brain teaser challenges players' reasoning abilities and patience.
-
-### Gameplay Strategy
-
-1.  **[FR]** **Start Simple**: Look for cells with only one possible answer first; these are usually breakthrough points.
-2.  **[FR]** **Elimination Method**: Observe existing numbers in rows, columns, and boxes to eliminate impossible options.
-3.  **[FR]** **Candidate Number Method**: Mark possible numbers in empty cells to help with analysis and reasoning.
-4.  **[FR]** **Find Hidden Singles**: Look for numbers that can only be placed in one position within a row, column, or box.
-5.  **[FR]** **Progressive Advancement**: After filling in each number, re-analyze the entire board to find new breakthrough points.
-
-### How to Play
-
-*   **[FR]** **Select Cell**: Click on empty cells to select them.
-*   **[FR]** **Input Numbers**: Use keyboard number keys 1-9 or click on-screen number buttons to input.
-*   **[FR]** **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
-*   **[FR]** **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: How do I know if a Sudoku has a solution?**
-**A**: Legal Sudoku puzzles should have a unique solution. If contradictions or multiple solutions appear, there might be issues with the puzzle design.
-2.  **[FR]** **Q: What if I get stuck?**
-**A**: Carefully check if filled numbers have errors, and use more advanced solving techniques like "naked pairs" or "hidden pairs."
-3.  **[FR]** **Q: Are there different difficulty levels?**
 **A**: Usually divided into different difficulty levels like easy, medium, hard, and expert.
-4.  **[FR]** **Q: Do I need to guess?**
+
+- **Q: Are there different difficulty levels?**
+
+**A**: Carefully check if filled numbers have errors, and use more advanced solving techniques like "naked pairs" or "hidden pairs."
+
+- **Q: What if I get stuck?**
+
+**A**: Legal Sudoku puzzles should have a unique solution. If contradictions or multiple solutions appear, there might be issues with the puzzle design.
+
+- **Q: How do I know if a Sudoku has a solution?**
+
+### Foire aux questions
+
+
+**A**: Standard Sudoku should be solvable through pure logical reasoning without guessing.
+
+- **Q: Do I need to guess?**
+
+**A**: Usually divided into different difficulty levels like easy, medium, hard, and expert.
+
+- **Q: Are there different difficulty levels?**
+
+**A**: Carefully check if filled numbers have errors, and use more advanced solving techniques like "naked pairs" or "hidden pairs."
+
+- **Q: What if I get stuck?**
+
+**A**: Legal Sudoku puzzles should have a unique solution. If contradictions or multiple solutions appear, there might be issues with the puzzle design.
+
+- **Q: How do I know if a Sudoku has a solution?**
+
+
 **A**: Standard Sudoku should be solvable through pure logical reasoning without guessing.

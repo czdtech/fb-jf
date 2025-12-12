@@ -1,51 +1,48 @@
 ---
-locale: ja
-urlstr: tap-tap-shots
-title: '[JA TRANSLATION NEEDED] Tap Tap Shots'
-description: >-
-  [JA TRANSLATION NEEDED] Test your timing and rhythm in Tap-Tap Shots, an
-  addictive one-touch basketball game. Tap to make the ball bounce and score as
-  many consecutive baskets as you can. Find your rhythm, aim for clean shots,
-  and set the ball on fire to achieve a high score!
-iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
+title: Tap Tap Shots
+description: Tap Tap Shotsは、バスケットボールシューティングゲームです。タイミングよくタップしてシュートを決めましょう。
+iframeSrc: 'https://ubg98.github.io/TapTapShots/'
 thumbnail: /new-images/tap-tap-shots.jpg
+urlstr: tap-tap-shots
+score: 4.4/5  (3167 votes)
 tags:
   - sports
+  - basketball
   - arcade
-  - rhythm
-score: 4.9/5  (415 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Tap-Tap Shots is a simple, minimalist, and highly addictive arcade basketball game. The goal is to score as many points as possible by tapping the screen to make the ball bounce into the hoop. The challenge comes from the moving hoop and the pressure of the shot clock, requiring perfect timing and a steady rhythm to succeed.
+Tap Tap Shotsは、シンプルだが中毒性のあるバスケットボールシューティングゲームです。タイミングよくタップしてボールを投げ、できるだけ多くのバスケットを決めましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-- **Objective:** Score as many baskets in a row as you can.
-- **Tapping:** Each tap makes the ball jump. You can tap multiple times in the air to gain more height.
-- **Timing:** The key to scoring is to tap at the right moment to guide the ball into the hoop.
-- **Combos:** Scoring consecutive baskets will set the ball on fire, which activates a score multiplier for bonus points. Clean shots that don't touch the rim also award extra points.
+ - **タップ：** ボールをタップして投げます
+ - **タイミング：** 完璧なタイミングでシュートを決めます
+ - **連続成功：** 連続でシュートを決めてボーナス獲得
+ - **高得点：** できるだけ多くのバスケットを決めます
+
+
 - **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
+### 操作ガイド
 
-### Controls Guide
 
-[JA TRANSLATION NEEDED] The controls are extremely simple:
-- **PC:** `Left Mouse Button` or `Spacebar` to tap.
+The controls are extremely simple:
+ - **マウス/タッチ：** タップまたはクリックしてシュート
+
+
 - **Mobile:** Tap the screen.
+### よくある質問（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] **How do I get a high score?**
+できるだけ多くのバスケットを連続で決めることです。
 
-[JA TRANSLATION NEEDED] Focus on finding a consistent rhythm. Don't rush your shots. Aim for "clean" shots (not touching the rim) to get bonus points and try to build up a combo to set the ball on fire for a score multiplier.
+**ミスしたらどうなりますか？**
 
-[JA TRANSLATION NEEDED] **What happens when the ball is on fire?**
+ミスするとゲームオーバーです。新しくスタートする必要があります。
 
-[JA TRANSLATION NEEDED] When the ball is on fire, you are in a combo streak. Every basket you score while the ball is on fire will be worth more points.
+**スコアはどう計算されますか？**
 
-[JA TRANSLATION NEEDED] **Is there a trick to aiming?**
-
-[JA TRANSLATION NEEDED] It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
-
+決めたバスケットの数と連続成功によってスコアが決まります。

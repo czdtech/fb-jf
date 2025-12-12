@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: penalty-showdown
-title: '[ZH TRANSLATION NEEDED] Penalty Showdown'
+title: "《Penalty Showdown》点球对决"
 description: >-
-  [ZH TRANSLATION NEEDED] Penalty Showdown is a tense shootout — pick corners,
-  vary height, and outguess keepers in alternating kicker/keeper rounds.
+  《Penalty Showdown》是一款紧张刺激的点球大战游戏，你将在射手与门将角色之间轮流切换，通过选择角度与高度、揣摩对手意图，在互射点球中赢下最终胜利。
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/penalty-showdown.jpg
 tags:
@@ -15,32 +14,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Penalty Showdown alternates between shooting and goalkeeping phases. As the taker, disguise placement and height; as the keeper, read run‑ups and dive late. Winning relies on rhythm changes and mixed shot profiles rather than power alone.
+《Penalty Showdown》将点球大战的紧张感浓缩到一轮轮攻防对决中。游戏会在“主罚点球”和“守门”两个阶段之间交替进行：做射手时，你需要选择射门角度、高度与力度，并通过伪装动作迷惑门将；做门将时，则要阅读对方助跑节奏与身体摆向，在关键时刻选择正确方向起跳。胜负往往不在力量大小，而在节奏变化与射门组合的多样性。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Mix profiles: Alternate low corners, high corners, and center chips to avoid patterns.
-2.  [ZH TRANSLATION NEEDED] Keeper late dive: Move briefly then commit late to the striker’s open‑body side.
-3.  [ZH TRANSLATION NEEDED] Power windows: Mid‑high power gives speed without wild slices.
-4.  [ZH TRANSLATION NEEDED] Wind: Offset aim and reduce height under strong wind (if modeled).
-5.  [ZH TRANSLATION NEEDED] Mind games: Pause a beat before shots to bait early dives.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **多样化射门组合：** 在低平角、高球、勺子中路之间轮换使用，避免形成“每次都往同一侧、同一高度打”的可读性模式。
+2.  **门将延迟起跳：** 扮演门将时不要过早扑方向，可以先轻微移动或等待对方最后两步助跑，根据对方打开身体的一侧再做出最终判断。
+3.  **控制合适力度：** 中高力度通常能兼顾球速和准度，过弱容易被门将轻松化解，过猛则容易射飞或打在门框。
+4.  **风向与环境（若有）：** 若关卡中模拟风力等因素，射门时需要略微修正准星，并在大风时避免过高的挑射，以防球路被明显吹偏。
+5.  **心理战与节奏变化：** 出脚前稍作停顿、改变助跑节奏或反复切换瞄准位置，都能干扰门将判断，让对手更难准确“读你”。
 
-- Shoot: aim + power + (optional) swerve. Keep: choose side/timing; some builds allow manual dives.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **射门：** 通过移动准星选择射门方向与高度，再调整力度槽后完成射门；部分版本支持施加弧线效果。
+- **守门：** 在对手起脚前选择扑救方向和起跳时机，有些版本可以通过按键或点击手势进行手动扑救。
 
-- Q: Shots keep getting saved.
+### 常见问题（FAQ）
+
+- **问：我的射门经常被门将猜中怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Vary height and delay aim; avoid predictable mid‑goal strikes.
+  **答：** 尝试改变射门高度、角度与出脚节奏，避免过于偏爱某一侧或只打门柱附近；偶尔加入中路或勺子射门，让门将不敢轻易提前倒地。
 
-- Q: Keeper guesses me every time.
+- **问：守门时几乎每次都扑错方向？**
   
-[ZH TRANSLATION NEEDED]   A: Change run‑up angles and add a brief pause before contact.
+  **答：** 多观察对方助跑时的身体角度和摆腿方向，很多射手在出脚前的最后两步会下意识泄露真实射门侧；同时不要太早按方向键，稍微“后读”往往更准。
 
-- Q: Best keeper tip?
+- **问：有没有一招“保险球”？**
   
-[ZH TRANSLATION NEEDED]   A: Watch the last two steps — hips often telegraph shot side.
-
+  **答：** 通常来说，贴地又有一定速度的低平角球相对稳健，门将需要极快的反应才能扑到，但再“保险”的选择也不宜一直重复，否则很快就会被读。

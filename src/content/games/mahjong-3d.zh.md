@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: mahjong-3d
-title: '[ZH TRANSLATION NEEDED] Mahjong 3D'
-description: >-
-  [ZH TRANSLATION NEEDED] Experience Mahjong Solitaire in a new dimension!
-  Rotate the 3D puzzle, find matching pairs of free tiles, and clear the board
-  in this immersive and strategic game.
+title: "《Mahjong 3D》三维麻将连连看"
+description: "在《Mahjong 3D》中体验立体麻将消除乐趣：旋转 3D 拼图，从各个角度寻找成对的自由牌，一点点清空整座立体牌阵。"
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/mahjong-3d.jpg
@@ -17,31 +14,31 @@ score: 4.5/5  (2400 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-## English Guide
+## 中文指南
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Mahjong 3D takes the classic tile-matching gameplay of Mahjong Solitaire and elevates it into a three-dimensional space. Instead of a flat layout, the tiles are stacked in intricate 3D structures that you can rotate. The objective remains the same: find and match pairs of identical, unblocked tiles to clear the board. This 3D twist adds a new layer of challenge and requires players to use spatial awareness to look at the puzzle from all angles.
+《Mahjong 3D》在经典麻将连连看的基础上加入了三维空间。牌不再只是平面摞放，而是堆叠成各种立体结构，你可以自由旋转视角。核心目标保持不变：在牌阵中不断寻找并消除成对且“自由”的相同牌，直到整座立体牌阵被完全清空。三维视角让你必须从多角度观察局面，对空间感的要求更高。 
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Rotate, Rotate, Rotate:** The most crucial skill in this version is constantly rotating the puzzle. A pair of matching tiles might be hidden on opposite sides of the structure. Make it a habit to do a full 360-degree rotation before making a move to get a complete picture of the board.
-2.  [ZH TRANSLATION NEEDED] **The "Free" Tile Rule:** Just like classic Mahjong Solitaire, you can only match tiles that are "free." A tile is free if it can be moved to the left or right without being blocked by another tile. In this 3D version, this means its left and right sides must be open space.
-3.  [ZH TRANSLATION NEEDED] **Prioritize High and Wide Tiles:** Focus on matching tiles that are on the top layers or on the widest parts of the structure first. Clearing these tiles is key to unlocking the greatest number of new tiles underneath and inside the structure.
-4.  [ZH TRANSLATION NEEDED] **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a possible match. If no matches are available at all, the shuffle option will rearrange the remaining tiles to give you a fresh chance to find pairs.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **习惯“多角度旋转”**：这是本作最关键的技巧。很多成对牌会被放在结构两侧或背面，单一角度很难发现。在落子前养成给整座牌阵做 360° 旋转的习惯，获取完整信息。  
+2.  **理解“自由牌”的规则**：与传统麻将接龙类似，只有“自由牌”才可以被点选与配对。一般来说，自由牌需要满足：上方没有压着的牌；左侧或右侧至少有一边是空的（没有紧贴的牌块）。  
+3.  **优先清理高层与外沿**：上层和外侧的牌往往压住了大量内部牌块，优先消除这些位置的配对，可以一次性解锁很多新牌。  
+4.  **善用提示与洗牌**：如果长时间找不到配对，可以使用提示功能帮助自己发现可行组合；当牌面确实没有任何可消对时，洗牌可以重排剩余牌块，为你创造新机会。  
 
-*   **Select Tiles:** Click on a free tile to select it, then click on its identical, free partner to make a match.
-*   **Rotate the Puzzle:** Use the on-screen arrows or click and drag the background to rotate the entire 3D structure left or right.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+*   **选择牌块**：点击一张自由牌进行选择，再点击另一张相同且自由的牌即可配对并将两牌移除。  
+*   **旋转牌阵**：使用屏幕上的方向箭头或按住背景拖动来旋转整座 3D 牌阵，从不同角度查看。  
 
-*   **Q: What makes this different from regular Mahjong Solitaire?**
-     *   **A:** The main difference is the 3D presentation. The ability to rotate the puzzle to find matches on all sides adds a significant new challenge compared to the traditional 2D layout.
+### 常见问题（FAQ）
 
-*   **Q: I see two identical tiles, but I can't match them. Why?**
-     *   **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.
+*   **Q: 这和普通麻将接龙有什么区别？**  
+    *   **A:** 最大差异在于 3D 呈现方式。你可以自由旋转整座牌阵，从四面八方寻找配对，对空间观察和记忆的要求更高。  
 
-*   **Q: What do the Flower and Season tiles do?**
-     *   **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.
+*   **Q: 明明看到两张一样的牌，为什么点不掉？**  
+    *   **A:** 多半是因为其中至少一张不是“自由牌”——要么左右两侧都被卡住，要么上面还压着其它牌，需要先移除阻挡牌块。  
 
+*   **Q: 花牌和季节牌有什么特殊规则？**  
+    *   **A:** 在大多数版本中，花牌之间可以互相匹配（任意花配任意花），季节牌同理，这些灵活匹配在牌面紧张时非常好用。

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: jewel-magic-xmas
-title: '[ES] Jewel Magic Xmas'
+title: Jewel Magic Xmas
 description: >-
-  [ES] Get into the holiday spirit with Jewel Magic Xmas! A festive match-3
-  puzzle game where you swap Christmas ornaments to solve puzzles and complete
-  cheerful levels.
+  Entra en el espíritu navideño con Jewel Magic Xmas, un festivo match‑3 en el
+  que intercambias adornos de Navidad para resolver puzles y completar niveles
+  llenos de alegría.
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
 thumbnail: /new-images/jewel-magic-xmas.png
 tags:
@@ -18,37 +18,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada
 
+Jewel Magic Xmas es un match‑3 festivo que envuelve la clásica mecánica de
+combinar joyas en una temática navideña encantadora. Te mueves por un paisaje
+invernal intercambiando adornos de colores, bastones de caramelo y campanas.
+Tu misión es alinear tres o más elementos idénticos para cumplir los objetivos
+de cada nivel, crear combos potentes y repartir espíritu navideño.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Jewel Magic Xmas is a festive and cheerful match-3 puzzle game that wraps the classic jewel-matching experience in a delightful Christmas theme. Players will find themselves in a winter wonderland, swapping colorful ornaments, candy canes, and bells. The goal is to match three or more identical festive items to complete level objectives, create powerful combos, and spread the holiday cheer.
+1.  **Aprovecha los potenciadores festivos:** los objetos especiales se crean al
+    combinar más de tres adornos.
+    *   **Match de 4:** genera un adorno que limpia una fila o columna entera.
+    *   **Match de 5 en L o T:** crea una bomba que explota y limpia un área
+        alrededor.
+    *   **Match de 5 en línea:** produce un adorno multicolor capaz de eliminar
+        todas las piezas de un mismo tipo.
 
-### Gameplay Strategy & Walkthrough
+2.  **Combina para una "magia" extra:** los efectos más fuertes se consiguen
+    intercambiando dos potenciadores. Dos especiales juntos limpian gran parte
+    del tablero de una sola vez, ideal para los puzles más difíciles.
 
-1.  **[ES]** **Festive Power-ups:** The key to clearing the board is creating special items by matching more than three ornaments.
-    *   **[ES]** **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
-    *   **[ES]** **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
-    *   **[ES]** **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
+3.  **Céntrate en el objetivo del nivel:** algunos niveles te piden limpiar
+    bloques nevados; otros, hacer que los regalos lleguen al fondo del tablero.
+    Usa tus movimientos para trabajar siempre hacia ese objetivo antes de que se
+    agoten.
 
-2.  **[ES]** **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
-3.  **[ES]** **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
-4.  **[ES]** **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+4.  **Trabaja desde abajo:** hacer combinaciones cerca de la parte inferior
+    provoca cascadas de piezas nuevas desde arriba, lo que a menudo genera
+    matches extra sin gastar movimientos.
 
-### Controls Guide
+### Guía de controles
 
-The game is played with simple mouse or touch controls.
+El juego se maneja con ratón o pantalla táctil.
 
-*   **[ES]** **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
+*   **Intercambiar adornos:** haz clic y arrastra un adorno para intercambiarlo
+    con uno adyacente. El intercambio solo se realiza si forma una combinación
+    válida.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Q: How do I break the frozen ice blocks?**
-    *   **[ES]** **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
+*   **P: ¿Cómo rompo los bloques de hielo?**
+    *   **R:** Debes hacer una combinación junto a un bloque de hielo para
+        romperlo. Algunos requieren varios matches para desaparecer por completo.
 
-*   **[ES]** **Q: What is the best combo?**
-    *   **[ES]** **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
+*   **P: ¿Cuál es el mejor combo?**
+    *   **R:** Intercambiar entre sí dos especiales creados con "match de 5 en
+        línea" suele ser la jugada más potente, porque limpia prácticamente todo
+        el tablero de una sola vez.
 
-*   **[ES]** **Q: What happens if I run out of moves?**
-    *   **[ES]** **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
+*   **P: ¿Qué pasa si me quedo sin movimientos?**
+    *   **R:** Si no completas el objetivo del nivel antes de agotar el límite
+        de movimientos, tendrás que reiniciar el nivel.

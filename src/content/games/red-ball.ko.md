@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: red-ball
-title: '[KO] Red Ball'
+title: "Red Ball 레드 볼"
 description: >-
-  [KO] Red Ball is the original physics-based platformer game where players
-  control a bouncing red ball through various levels filled with obstacles,
-  enemies, and puzzles, using momentum and physics to overcome challenges.
+  통통 튀는 빨간 공을 조종해 함정과 퍼즐이 가득한 스테이지를 돌파하는
+  물리 기반 플랫폼 게임입니다. 관성·점프를 활용해 골까지 굴려 보세요.
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/red-ball.jpg
@@ -19,33 +18,67 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*Red Ball*은 탄력 있는 빨간 공을 굴리고 튕기며 각종 장애물과 퍼즐을
+돌파하는 초기 물리 기반 플랫폼 게임입니다. 단순한 조작으로 굴리고
+점프하는 것만으로도 다양한 기믹을 해결해야 하며, 이후 시리즈의
+기초가 된 작품입니다.
 
-### Game Introduction
+관성과 중력을 활용해 경사로를 내려가 속도를 붙이거나, 발판을
+이용해 더 높은 곳으로 점프하는 등 물리 특성을 이해하는 것이
+중요합니다.
 
-"Red Ball" is the original physics-based platformer game where players control a bouncing red ball through various levels filled with obstacles, enemies, and puzzles. The game uses momentum and physics properties to overcome challenges, laying the foundation for subsequent Red Ball series games. The game is known for its simple yet challenging gameplay.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **공의 움직임(굴림과 튀김) 이해하기**  
+   공은 계속 굴러가려는 관성을 가지므로, 멈추고 싶다면 반대 방향으로
+   살짝 움직여 속도를 줄여야 합니다. 경사로를 잘 이용하면 별도의
+   점프 없이도 높은 곳에 도달할 수 있습니다.
 
-1.  **[KO]** **Master Basic Physics**: Learn to utilize the red ball's bouncing and rolling characteristics to navigate levels.
-2.  **[KO]** **Observe Environment**: Carefully observe each level's layout, looking for hidden paths and secrets.
-3.  **[KO]** **Timing Matters**: Many obstacles require precise timing to pass through; wait patiently for the best moment.
-4.  **[KO]** **Defeat Enemies**: Defeat enemies by jumping on them from above, avoiding direct collisions.
-5.  **[KO]** **Explore and Collect**: Look for hidden items and stars to achieve higher scores.
+2. **스테이지 구조 꼼꼼히 관찰하기**  
+   숨겨진 길이나 비밀 공간, 별 아이템이 곳곳에 숨어 있을 수
+   있습니다. 단순히 오른쪽으로만 달려가기보다, 상하 구조를
+   살피며 안전한 루트와 보너스 루트를 찾아 보세요.
 
-### How to Play
+3. **타이밍이 중요한 장애물 넘기**  
+   움직이는 발판, 회전하는 톱날, 오르내리는 장애물 등은 모두
+   정확한 타이밍을 요구합니다. 서두르기보다 패턴을 한 번 관찰한 뒤
+   가장 여유 있는 타이밍에 지나가면 실패를 줄일 수 있습니다.
 
-*   **[KO]** **Move**: Use left and right arrow keys to control the red ball's horizontal movement.
-*   **[KO]** **Jump**: Use the up arrow key or spacebar to make the red ball jump.
-*   **[KO]** **Physics Interaction**: Utilize slopes and gravity to gain extra speed and height.
+4. **적은 위에서 밟아 처치하기**  
+   적과 정면으로 부딪히면 체력을 잃지만, 위에서 점프해 밟으면
+   적을 처치할 수 있는 경우가 많습니다. 점프 궤적을 계산해
+   안전한 각도로 내려오세요.
 
-### Frequently Asked Questions
+5. **별과 아이템 수집으로 높은 점수 노리기**  
+   스테이지 곳곳에 숨겨진 별과 아이템을 모두 모으면 더 높은 점수와
+   좋은 평가를 받을 수 있습니다. 빠른 클리어와 함께 수집 요소까지
+   욕심내 보세요.
 
-1.  **[KO]** **Q: What are the differences between the first Red Ball game and subsequent titles?**
-**A**: The first game established the basic physics gameplay mechanics, while subsequent titles added more levels, enemy types, and mechanisms on this foundation.
-2.  **[KO]** **Q: How can I achieve higher scores?**
-**A**: Collect all stars and hidden items in levels, complete levels quickly, and avoid deaths to achieve higher scores.
-3.  **[KO]** **Q: How difficult is the game?**
-**A**: The game starts simple and gradually increases in difficulty, suitable for players of all ages.
-4.  **[KO]** **Q: Is there a time limit?**
-**A**: Most levels don't have strict time limits, but completing them quickly can result in better ratings.
+### 조작 가이드
+
+- **이동**: 좌/우 방향키로 빨간 공을 좌우로 굴립니다.  
+- **점프**: 위쪽 방향키 또는 스페이스바로 점프합니다.  
+- **물리 상호작용**: 경사면과 중력을 이용해 속도를 붙이고, 상자를
+  밀어 길을 만드는 등 환경 오브젝트와 상호작용합니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 1편과 이후 Red Ball 시리즈의 차이는 무엇인가요?**  
+   **A:** 1편은 기본적인 물리 플랫폼 구조와 조작감을 정립한 작품이고,
+   이후 시리즈에서는 더 많은 스테이지, 적, 기믹이 추가되어
+   난이도와 다양성이 높아졌습니다.
+
+2. **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**  
+   **A:** 스테이지를 빠르게 클리어하면서, 숨겨진 별과 아이템을
+   최대한 많이 모으고, 불필요한 사망을 줄이는 것이 핵심입니다.
+
+3. **Q: 난이도는 어느 정도인가요?**  
+   **A:** 초반 몇 스테이지는 비교적 쉬운 편이지만, 진행할수록
+   점프 정확도와 타이밍을 요구하는 구간이 늘어납니다. 어린이부터
+   성인까지 모두 도전할 수 있는 난이도입니다.
+
+4. **Q: 시간 제한이 있나요?**  
+   **A:** 대부분의 스테이지에는 엄격한 시간 제한이 없지만,
+   빠르게 클리어할수록 더 좋은 평가를 받을 수 있습니다.

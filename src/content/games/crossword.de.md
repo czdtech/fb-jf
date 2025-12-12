@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: crossword
-title: '[DE] Crossword'
+title: "Crossword"
 description: >-
-  [DE] Crossword is a classic fill‑in puzzle: solve across and down clues so all
-  crossing letters match.
+  Crossword ist ein klassisches Buchstabengitter: Löse horizontale und
+  vertikale Hinweise, sodass alle Kreuzungsbuchstaben zueinander passen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/crossword.jpg
 tags:
@@ -15,27 +15,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Übersicht
 
+Crosswords sind Buchstabengitter, die du löst, indem du Antworten auf Across-
+und Down-Hinweise einträgst. In amerikanischen Crosswords wird in der Regel
+jeder Buchstabe von einem kreuzenden Wort bestätigt, und die Gitter besitzen
+meist 180°-Rotationssymmetrie. Übliche Größen sind 15×15 an Wochentagen und
+21×21 an Sonntagen.
 
-### Overview
-Crosswords are letter grids solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is cross‑checked by an intersecting word and grids typically have 180° rotational symmetry; common sizes are 15×15 on weekdays and 21×21 on Sundays. 
+### So spielst du
 
-### How to Play
-- Click a clue or cell, then type letters to fill the entry.
-- Use cross letters to confirm uncertain answers and resolve ambiguities.
-- Many web versions include tools such as Check/Reveal, timers, and navigation shortcuts.
+- Klicke einen Hinweis oder ein Feld an und tippe die Buchstaben für den
+  passenden Eintrag.
+- Nutze Kreuzungsbuchstaben, um unsichere Antworten zu prüfen und
+  Mehrdeutigkeiten aufzulösen.
+- Viele Web-Versionen stellen dir Check-/Reveal-Funktionen, Timer und
+  Navigationskürzel zur Verfügung.
 
-### Controls
-- Type A–Z; arrow keys move between cells; Backspace deletes; Enter/Tab often switches direction or jumps to the next clue (site‑dependent).
+### Steuerung
 
-### Tips and Strategies
-- Start with easy clues (fill‑in‑the‑blank, plural/tense markers) to get crossings.
-- Fill long theme entries after gaining letters from nearby answers.
-- Learn common abbreviations and clue conventions used by American‑style grids.
+- A–Z tippen, Pfeiltasten bewegen den Cursor zwischen Feldern.
+- Backspace löscht den vorherigen Buchstaben.
+- Enter/Tab wechselt (je nach Seite) die Schreibrichtung oder springt zum
+  nächsten Hinweis.
+
+### Tipps & Strategien
+
+- Beginne mit einfachen Hinweisen (Lückentexte, klare Plural-/Zeitmarker) und
+  arbeite dich über Kreuzungen vor.
+- Lange Themenantworten füllst du leichter, wenn du schon Buchstaben aus
+  angrenzenden Einträgen hast.
+- Lerne gängige Abkürzungen und typische Hinweismuster in amerikanischen
+  Crosswords.
 
 ### FAQ
-- Q: What sizes are typical?
-A: Daily American crosswords are often 15×15; Sunday editions around 21×21.   
-- Q: Do all letters cross?
-A: American‑style grids generally check every letter with an intersecting entry.   
 
+- F: Welche Größen sind typisch?
+  
+  A: Tägliche US-Rätsel sind oft 15×15, Sonntagsausgaben um die 21×21 Felder
+  groß – je nach Herausgeber.
+
+- F: Sind alle Buchstaben gekreuzt?
+  
+  A: In amerikanischen Gitterstandards wird normalerweise jeder Buchstabe durch
+  ein kreuzendes Wort geprüft.

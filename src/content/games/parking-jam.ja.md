@@ -1,69 +1,39 @@
 ---
+title: "Parking Jam"
+description: "Parking Jamは駐車パズルゲームです。車を移動し、渋滞をクリアし、論理的に考え、駐��場の混沌を解決します。"
+iframeSrc: "https://parkingjam.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
+thumbnail: "/new-images/parking-jam.png"
+urlstr: "parking-jam"
+score: "4.2/5  (2156 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: parking-jam
-title: '[JA TRANSLATION NEEDED] Parking Jam'
-description: >-
-  [JA TRANSLATION NEEDED] Parking Jam is a spatial slider — move cars in
-  sequence, free the exit lane, and solve compact lots with minimal moves.
-iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
-thumbnail: /new-images/parking-jam.png
-tags:
-  - puzzle
-  - thinky
-score: 4.2/5  (2031 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Parking Jamは、混雑した駐車場から車を脱出させることに挑戦します。前後に車を移動して、目標車両のためのパスをクリアします。各レベルは、より複雑な駐車の悪夢を提示します。
 
-[JA TRANSLATION NEEDED] Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear the path for the target vehicle. Higher levels cram lots with multi‑length cars, one‑way arrows, and blockers requiring precise order of operations.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **目標を識別:** どの車を脱出させる必要がありますか？
+2.  **逆から作業:** 出口から逆にルートを計画します。
+3.  **移動を最小限に抑える:** より少ない移動 = より良いスコア。
+4.  **ボトルネックをクリア:** 最初にブロックしている車を移動します。
+5.  **先を考える:** 各移動が他の車をブロックしないことを確認します。
 
-[JA TRANSLATION NEEDED] 1.  Goal backchain: Work backward from the exit to identify cars that truly gate progress.
-[JA TRANSLATION NEEDED] 2.  Minimal moves: Prefer moves that unlock multiple vehicles rather than local shuffles.
-[JA TRANSLATION NEEDED] 3.  Buffer lanes: Open a buffer lane early to allow deeper rearrangements.
-[JA TRANSLATION NEEDED] 4.  Priority stack: Park non‑critical cars in dead zones to keep corridors free.
-[JA TRANSLATION NEEDED] 5.  Undo early: If progress stalls, rewind before the last “dead shuffle” and choose a different unlock.
+### 操作ガイド
 
-### Controls Guide
+- 車をドラッグ��前後に移動します。
+- 目標車両のためのパスをクリアします。
+- より少ない移動でレベルを完了します。
 
-- Drag cars along permitted axes; undo/reset via UI.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-
-- Q: I spin wheels with no progress — advice?
-  
-[JA TRANSLATION NEEDED]   A: Reassess which car blocks the exit chain; find a move that frees multiple cars.
-
-- Q: Are diagonal moves allowed?
-  
-[JA TRANSLATION NEEDED]   A: No — cars slide only along their length.
-
-- Q: Any hints?
-  
-
-
-
-
-
-- Q: I spin wheels with no progress — advice?
-### よくある質問（FAQ）
-- Drag cars along permitted axes; undo/reset via UI.
-### コントロールガイド
-- Undo early: If progress stalls, rewind before the last “dead shuffle” and choose a different unlock.
-[JA TRANSLATION NEEDED]   A: Many versions include step‑wise hints; use sparingly to preserve challenge.
-
-
-
-
-
-
-A: Many versions include step‑wise hints; use sparingly to preserve challenge.
-- Q: Any hints?
-A: No — cars slide only along their length.
-- Q: Are diagonal moves allowed?
-
-
-A: Many versions include step‑wise hints; use sparingly to preserve challenge.
+- **Q: 行き詰まることはありますか？**  
+  A: すべてのパズルは解決可能です。元に戻して再試行します。
+- **Q: 最良の戦略は何ですか？**  
+  A: 出口から逆に作業し、ボトルネックをクリアします。
+- **Q: タイムリミットはありますか？**  
+  A: 通常いいえ。自分のペースで。

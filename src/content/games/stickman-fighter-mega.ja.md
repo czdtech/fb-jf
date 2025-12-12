@@ -1,69 +1,52 @@
 ---
-locale: ja
-urlstr: stickman-fighter-mega
-title: '[JA TRANSLATION NEEDED] Stickman Fighter Mega'
-description: >-
-  [JA TRANSLATION NEEDED] Stickman Fighter Mega is a kinetic brawler — time
-  parries, chain combos, and dismantle waves with specials and spacing.
-iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
+title: Stickman Fighter Mega
+description: Stickman Fighter Megaは、壮大なスティックマン戦闘アクションゲームです。強力な技と武器で相手を倒しましょう。
+iframeSrc: 'https://ubg98.github.io/StickmanFighterMega/'
 thumbnail: /new-images/stickman-fighter-mega.jpg
+urlstr: stickman-fighter-mega
+score: 4.3/5  (2456 votes)
 tags:
-  - stickman
   - action
-score: 4.1/5  (1975 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - fighting
+  - stickman
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Stickman Fighter Megaは、強化されたスティックマン戦闘ゲームです。より多くの技、武器、そして強力な相手と戦う壮大な戦闘体験を提供します。
 
-[JA TRANSLATION NEEDED] Stickman Fighter Mega is a side‑view beat ’em up focused on counter‑timing and spacing. Enemies telegraph swings; punish them with parries, juggles, and area specials. Later waves mix shielded foes, ranged throwers, and heavies that demand varied answers.
+### ゲームプレイガイド
 
-### Gameplay Strategy & Walkthrough
-
-[JA TRANSLATION NEEDED] 1.  Parry window: Learn the parry frame and fish counter‑hits for bonus damage.
-[JA TRANSLATION NEEDED] 2.  Spacing: Fight just outside enemy reach; step in only on swings.
-[JA TRANSLATION NEEDED] 3.  Target priority: Delete ranged/fast daggers first; kite heavies.
-[JA TRANSLATION NEEDED] 4.  Special economy: Save AOEs for multi‑spawn waves.
-[JA TRANSLATION NEEDED] 5.  Combo routes: Light→Heavy→Launcher→Air juggles are high value.
-
-### Controls Guide
-
-- Move: Arrows/A/D; Attack: J/K; Special: L; Block/Parry: I (varies). Pause/Retry via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I get stun‑locked.
-  
-[JA TRANSLATION NEEDED]   A: Hold block between hits and roll out; don’t mash into armor.
-
-- Q: Specials feel weak.
-  
-[JA TRANSLATION NEEDED]   A: Use them as finishers on clustered waves, not on single targets.
-
-- Q: Best starter combo?
-  
+ - **強力な技をマスター：** さまざまな強力な技とコンボを学びます
+ - **武器を使用：** 多様な武器で戦闘を有利に進めます
+ - **相手を倒す：** 徐々に強くなる相手と戦います
+ - **スキルアップ：** キャラクターを強化してより強力にします
 
 
-
-
-
-- Q: I get stun‑locked.
-### よくある質問（FAQ）
-- Move: Arrows/A/D; Attack: J/K; Special: L; Block/Parry: I (varies). Pause/Retry via UI.
-### コントロールガイド
 - Combo routes: Light→Heavy→Launcher→Air juggles are high value.
-[JA TRANSLATION NEEDED]   A: Light×2→Heavy→Launcher→Air Light×2.
+### 操作ガイド
+
+ - **矢印キー：** 移動
+ - **A/S/D/W：** 攻撃技
+ - **スペースバー：** 特別な技
+
+### よくある質問（FAQ）
 
 
+- Q: I get stun‑locked.
+**ゲームの目標は何ですか？**
 
 
-
-
-A: Light×2→Heavy→Launcher→Air Light×2.
-- Q: Best starter combo?
-A: Use them as finishers on clustered waves, not on single targets.
 - Q: Specials feel weak.
+すべての相手を倒してレベルをクリアすることです。
 
 
-A: Light×2→Heavy→Launcher→Air Light×2.
+- Q: Best starter combo?
+**どうやってより強力になりますか？**
+
+新しい技を学び、武器を使用し、戦闘経験を積むことで強くなります。
+
+**難易度は高いですか？**
+
+ゲームは徐々に難しくなりますが、練習すればマスターできます。

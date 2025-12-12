@@ -1,8 +1,11 @@
 ---
 locale: ko
 urlstr: sprunki-abgerny
-title: '[KO] Sprunki Abgerny - Play Sprunki Abgerny Online'
-description: '[KO] Sprunki Abgerny isn'
+title: 'Sprunki Abgerny 스프룽키 앱거니'
+description: >-
+  Sprunki Abgerny는 원시 부족과 호주의 어보리진 음악에서 영감을 받은 스프룽키
+  스타일 음악 게임입니다. 부족의 연주자들을 이끌어 북소리와 챈트로 독특한
+  트라이벌 비트를 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
 thumbnail: /sprunki-abgerny.png
 tags:
@@ -12,22 +15,30 @@ score: 3.9/5  (132 votes)
 
 
 
-### What's So Special About Sprunki Abgerny?
+### Sprunki Abgerny만의 매력
 
-Sprunki Abgerny isn't just a regular music game, it's a tribute to ancient cultures and an exploration of the endless possibilities of music. Here, you can not only create music, but also feel the heritage and fusion of cultures.
+Sprunki Abgerny는 단순한 음악 게임을 넘어, 고대 문화에 대한 오마주이자 음악이
+지닌 무한한 가능성을 탐험하는 작품입니다. 이곳에서는 단지 곡을 만드는 것을
+넘어, 부족의 전통과 현대적인 비트를 섞어 새로운 사운드를 만들어 낼 수 있습니다.
 
-### The Core Gameplay of Sprunki Abgerny:
+### Sprunki Abgerny 핵심 게임 플레이
 
-- **Become a Tribal Leader:** Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.
-- **Explore Primal Sounds:** The game is full of tribal rhythms, didgeridoos, and soulful chants, allowing you to fully experience the charm of Australian Aboriginal music.
-- **Showcase Your Creativity:** Unleash your creativity with a variety of unique sound effects and percussive elements, creating unique musical works.
+- **부족의 리더가 되기:** 여러 명의 비트박서·연주자 캐릭터들을 이끌며,
+  감탄이 절로 나오는 부족 음악을 만들어 보세요.
+- **원초적인 사운드 탐험:** 부족 리듬, 딜러리두 같은 독특한 악기, 깊이 있는
+  챈트(성가) 등, 호주 원주민 음악에서 영감을 받은 소리들이 가득합니다.
+- **창의적인 작곡:** 다양한 효과음과 타악 요소를 조합해 완전히 새로운 곡을
+  만들 수 있습니다. 실험적인 조합일수록 더욱 인상적인 결과가 나오기도 합니다.
 
+### Sprunki Abgerny의 세계에서
 
-### In the world of Sprunki Abgerny:
+- 각 캐릭터의 디자인과 사운드는 호주 어보리진 문화의 상징과 분위기를 담고 있어,
+  마치 오래된 부족 마을 한가운데에 있는 듯한 느낌을 줍니다.
+- 수많은 조합을 통해, 매번 다른 음악을 만들어 나만의 명곡을 완성할 수 있습니다.
+- 완성한 곡은 친구나 가족과 함께 감상하며, 음악과 문화가 어우러지는 순간을
+  공유할 수 있습니다.
 
-- The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.
-- You will have endless combinations to create your own musical masterpiece.
-- You can share your works with friends and family to jointly feel the charm of music.
-
-
-**Whether you're an experienced musician or a curious beginner, Sprunki Abgerny offers endless fun, sparking creativity with its unique ethnic twist. Come and join Sprunki Abgerny, and awaken the primal musical soul with ancient beats!**
+**숙련된 뮤지션이든, 음악에 막 관심을 가지기 시작한 초보자든 상관없습니다.**
+Sprunki Abgerny는 독특한 민족 색채를 더한 음악 놀이터로, 누구에게나 창의력을
+자극하는 즐거운 경험을 제공합니다. 지금 스프룽키 앱거니 세계로 들어가,
+고대의 박동으로 잠들어 있던 음악적 본능을 깨워 보세요!

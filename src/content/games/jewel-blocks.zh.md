@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: jewel-blocks
-title: '[ZH TRANSLATION NEEDED] Jewel Blocks'
+title: 《Jewel Blocks》宝石方块拼图
 description: >-
-  [ZH TRANSLATION NEEDED] A captivating puzzle game of strategy and spatial
-  awareness. Drag and drop jewel-themed blocks onto the grid to create and clear
-  full lines, but plan carefully—no rotations allowed!
+  《Jewel Blocks》是一款考验空间规划能力的方块解谜游戏，你要把宝石方块拖放到 10x10
+  棋盘上，拼出整行或整列即可清除，但方块无法旋转，落子前必须精打细算。
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
 thumbnail: /new-images/jewel-blocks.png
 tags:
@@ -17,31 +16,32 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jewel Blocks is a deceptively simple yet highly addictive puzzle game that challenges your spatial planning skills. The objective is to score as many points as possible by fitting various jewel-themed block shapes onto a 10x10 grid. When you form a complete line of blocks, either horizontally or vertically, the line is cleared from the board. The main challenge lies in the fact that the blocks cannot be rotated, so you must think carefully about placement to keep the board from filling up.
+《Jewel Blocks》看起来规则简单，却非常容易让人上头。你的目标是在 10x10 的棋盘上尽可能长时间地摆放各种宝石方块，通过把整行或整列填满来获得分数并清除方块。真正的难点在于：所有方块都**不能旋转**，你只能使用它们的原始形状来布局，因此需要提前规划，避免把棋盘堵死。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Plan Ahead:** You are presented with three block shapes at a time. Before placing the first one, consider how all three might fit on the board. Don't just focus on the immediate placement; think about the space you are leaving for future pieces.
-2.  [ZH TRANSLATION NEEDED] **Aim for Combos:** Clearing a single line is good, but clearing multiple lines with a single piece (a "combo") awards significantly more points. Always look for opportunities to complete two or more lines at once.
-3.  [ZH TRANSLATION NEEDED] **Keep the Board Open:** Avoid creating single, isolated empty squares, as these can be very difficult to fill. Try to keep your board as open and flexible as possible to accommodate a wide variety of shapes.
-4.  [ZH TRANSLATION NEEDED] **Don't Rush:** There is no time limit. Take your time to analyze the pieces and the board to find the optimal placement for each block.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **三块一组整体规划**：系统每次会给出 3 个方块，在放置任何一个之前，先思考三块都能放在哪里，不要只顾当前一步，导致剩余两块无处可去。  
+2.  **追求连消与组合得分**：单独消除一条线固然不错，但用一块方块同时完成两条甚至三条线的清除，会获得更高额的连消加成，是冲高分的关键。  
+3.  **保持棋盘“通透”**：尽量避免留下单独、零碎的孤立小格子，这种小洞往往很难再用后续方块刚好填满。保持棋盘大块区域平整连续，可以适应更多形状的方块。  
+4.  **不抢第一眼落点**：游戏没有时间限制，不必急着使用你看到的第一个可行位置。多观察几秒，寻找既能完成当前消除、又不会破坏整体结构的最佳位置。  
 
-[ZH TRANSLATION NEEDED] The game is played with a simple drag-and-drop mechanic.
+### 操作说明
 
-*   **Select and Place:** Use your mouse or finger to click and drag one of the three available block shapes from the bottom of the screen onto the 10x10 grid.
-*   **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
+游戏通过简单的拖拽完成：
 
-### Frequently Asked Questions (FAQ)
+*   **选择与放置**：用鼠标或手指从底部的三个备选方块中拖动一个，移动到棋盘上合适的位置后松手放下。只有完全放得下且不与已有方块重叠时，方块才会成功落子。  
 
-*   **Q: How do I rotate the blocks?**
-     *   **A:** You cannot rotate the blocks. This is a core rule and the main challenge of the game. You must use the shapes exactly as they are given.
 
-*   **Q: How does the game end?**
-     *   **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
+- **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
+### 常见问题（FAQ）
 
-*   **Q: What is the best strategy for a high score?**
-     *   **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
+*   **Q: 可以旋转方块吗？**  
+    *   **A:** 不可以，这是本作的核心难点之一。你需要围绕给定形状设计布局，而不是依赖旋转来“硬塞”方块。  
 
+*   **Q: 游戏在什么情况下结束？**  
+    *   **A:** 当当前展示的 3 个方块中，没有任何一个可以在棋盘上找到合法位置时，本局就会立即结束。  
+
+*   **Q: 想打高分，有什么通用策略？**  
+    *   **A:** 一方面要尽可能延长游戏时间，保持棋盘空间充足；另一方面要多争取“一块消多行”的连消机会。比如，如果你能用一次落子清除两条线，其得分往往比先后清除两条单行要高很多。

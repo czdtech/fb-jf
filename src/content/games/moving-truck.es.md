@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: moving-truck
-title: '[ES] Moving Truck'
+title: "Moving Truck - Carga el camión sin perder el equilibrio"
 description: >-
-  [ES] Moving Truck is a physics-based puzzle game where players must
-  strategically load furniture and items into a moving truck to ensure safe and
-  balanced transport to the destination.
+  Moving Truck es un rompecabezas basado en físicas en el que debes cargar
+  muebles y objetos en un camión de mudanzas de forma estratégica para que el
+  viaje sea seguro y equilibrado.
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/moving-truck.jpg
 tags:
@@ -18,33 +18,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### Introducción al juego
 
+"Moving Truck" es un rompecabezas de físicas en el que tu tarea consiste en
+cargar muebles y objetos de distintas formas y tamaños en un camión de
+mudanzas. Debes apilarlos de tal manera que se mantengan estables y equilibrados
+durante el trayecto, para que lleguen sanos y salvos al destino. El juego pone
+a prueba tu visión espacial y tu capacidad de planificación.
 
-### Game Introduction
+### Estrategia de juego
 
-"Moving Truck" is a physics-based puzzle game. Players' task is to strategically load furniture and various items of different shapes and sizes into a moving truck, ensuring that the items remain balanced and secure during transit, and ultimately arrive safely at their destination. The game challenges players' spatial reasoning and planning abilities.
+1.  **Observar las formas:** examina bien la forma y el tamaño de cada objeto y
+    visualiza cómo encajará con los demás dentro del camión.
+2.  **Planificar el orden de carga:** coloca primero los objetos grandes y
+    regulares para que actúen como base y deja los pequeños o frágiles para la
+    parte superior o los huecos.
+3.  **Mantener el equilibrio:** vigila el centro de gravedad del camión mientras
+    cargas; intenta repartir el peso para evitar que se incline o vuelque.
+4.  **Aprovechar las físicas:** ten en cuenta que algunos objetos pueden
+    deslizarse o rodar; sujétalos con otros elementos o colócalos en huecos
+    encerrados.
+5.  **Probar varias veces:** ciertos niveles requieren varios intentos hasta
+    encontrar la configuración de carga más estable.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Observe Item Shapes**: Carefully examine the shape and size of each item to be moved, envisioning how they can be best stacked and combined.
-2.  **[ES]** **Plan Loading Order**: Prioritize loading large, regularly shaped items as bottom supports, placing smaller or fragile items on top or in gaps.
-3.  **[ES]** **Maintain Balance**: During loading, pay attention to the truck's center of gravity, trying to distribute items evenly to prevent the truck from tipping or overturning.
-4.  **[ES]** **Utilize Physics**: Sometimes items may slide or roll due to physics; you need to cleverly utilize or secure them beforehand.
-5.  **[ES]** **Repeated Attempts**: Some levels may require multiple attempts to find the most perfect loading solution.
+*   **Coger objetos:** haz clic sobre un objeto para levantarlo.
+*   **Colocarlos:** arrastra la pieza a una posición dentro del camión y suelta
+    el botón para dejarla.
+*   **Rotar:** algunas versiones permiten rotar los objetos (normalmente con la
+    rueda del ratón o teclas específicas) para que encajen mejor.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Pick Up Items**: Click on an item to pick it up.
-*   **[ES]** **Place Items**: Drag the item to a suitable position inside the truck, then release the mouse to place it down.
-*   **[ES]** **Rotate Items**: Some game versions might offer a function to rotate items for better fit (usually via mouse scroll wheel or specific keys).
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: What is the objective of the game?**
-**A**: The objective is to successfully load all items into the truck and maintain its balance during transit, ultimately delivering them safely to the destination.
-2.  **[ES]** **Q: What happens if items fall out of the truck?**
-**A**: If items fall off the truck during transit, it usually results in task failure, requiring you to retry the level.
-3.  **[ES]** **Q: Is there a time limit in the game?**
-**A**: Some levels might have a time limit, requiring players to complete loading and transit within a specified time.
-4.  **[ES]** **Q: How can I improve my loading skills?**
-**A**: Practice spatial planning and item stacking, observe successful examples, and try different loading strategies.
+1.  **P: ¿Cuál es el objetivo de cada nivel?**  
+    **R:** Cargar todos los objetos en el camión y completar el trayecto sin que
+    la carga se desestabilice ni se caiga.
+2.  **P: Qué pasa si se cae algo durante el viaje?**  
+    **R:** Si un objeto se sale del camión, normalmente se considera fallo y
+    tendrás que repetir el nivel.
+3.  **P: Hay límite de tiempo?**  
+    **R:** Algunos niveles pueden imponer un límite de tiempo tanto para cargar
+    como para conducir, lo que añade presión extra.
+4.  **P: Cómo puedo mejorar mi habilidad para cargar?**  
+    **R:** Practica la planificación espacial, apila siempre de mayor a menor y
+    observa ejemplos de cargas exitosas para inspirarte en nuevas estrategias.

@@ -1,74 +1,49 @@
 ---
-locale: ja
-urlstr: cooking-mania
-title: '[JA TRANSLATION NEEDED] Cooking Mania'
-description: >-
-  [JA TRANSLATION NEEDED] Cooking Mania is a fast time‑management cooker —
-  juggle orders, chain combos, and upgrade kitchens to keep customers happy.
+title: Cooking Mania クッキング・マニア
+description: 「Cooking Mania」はスピード勝負のレストラン経営ゲーム。注文をさばき、コンボを繋げ、キッチンをアップグレードして、お客様を満足させよう。
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/cooking-mania.jpg
+urlstr: cooking-mania
+score: 4.0/5  (1839 votes)
 tags:
   - casual
   - thinky
-score: 4.0/5  (1839 votes)
+developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Cooking Mania（クッキング・マニア）*は、忙しいレストランの厨房を舞台にした、ハイペースなタイムマネジメント・料理ゲームです。次々と入る注文を素早く処理していきましょう。材料の下準備、調理（焼く、揚げるなど）、盛り付け、そして提供までの一連の流れを、時間切れになる前に行わなければなりません。
+稼いだコインでキッチンの設備（フライパンの数やコンロの火力など）をアップグレードしたり、食材の質を上げたりすることで、より多くの注文を効率よくこなせるようになります。コンボを繋げてハイスコアを目指しましょう。
 
-[JA TRANSLATION NEEDED] Cooking Mania boils restaurant rush into quick levels: prep ingredients, assemble dishes in order, and serve before timers expire. Equipment upgrades, extra pans, and faster prep let you chain orders for bonus coins.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **作り置き:** ハンバーガーやホットドッグなど、よく出るメニューは注文が入る前に焼いておくと、待ち時間を大幅に短縮できます（ただし冷めないように注意）。
+2.  **コンボを狙う:** 料理を一つずつ出すのではなく、完成した料理をいくつか溜めておき、連続で提供することで「コンボボーナス」が発生し、チップが増えます。
+3.  **ボトルネックの解消:** 何が原因で遅れているかを見極めましょう。焼くのが遅いならグリルを、切るのが遅いなら包丁を優先的にアップグレードします。
+4.  **タイマー優先:** 忍耐ゲージ（タイマー）が切れそうなお客様を最優先に対応しましょう。怒って帰られるとペナルティになります。
+5.  **動線の最適化:** マウスカーソルの移動距離が短くなるように、作業の手順を体に覚え込ませましょう。
 
-[JA TRANSLATION NEEDED] 1.  Prep in batches for popular items to reduce wait times.
-[JA TRANSLATION NEEDED] 2.  Chain serves: deliver multiple orders back‑to‑back for combo tips.
-[JA TRANSLATION NEEDED] 3.  Upgrade bottlenecks first (e.g., grill count, prep speed).
-[JA TRANSLATION NEEDED] 4.  Prioritize timers: Serve expiring orders before large combos.
-[JA TRANSLATION NEEDED] 5.  Queue logic: Arrange workspace to minimize cursor travel.
+### 操作ガイド
 
-### Controls Guide
+*   **操作:** タップ（クリック）で下準備、ドラッグで盛り付け、お客様をタップして提供します。
+*   **ショップ:** レベルクリア後の画面で、設備の購入やアップグレードが可能です。
 
-- Tap to prep, drag to assemble, and tap customers to serve.
-- Shop for upgrades between levels.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: すぐに焦げてしまいます。**
 
-- Q: I burn items — how to avoid?
-  
-[JA TRANSLATION NEEDED]   A: Stagger starts and listen for audio cues; grab items promptly at “perfect” timing.
-
-- Q: Which upgrades are best early?
-  
-[JA TRANSLATION NEEDED]   A: Extra grills/pans and prep speed; décor is optional until later.
-
-- Q: Can I pause?
-  
+A: Stagger starts and listen for audio cues; grab items promptly at “perfect” timing.
+- **A:** 焼き上がり完了の音（ジュッという音やアラーム）をよく聞き、ゲージが緑色の「Perfect」になった瞬間に取り出しましょう。同時に焼き始めると同時に焦げるので、少し時間をずらして焼き始めるのも手です。
 
 
-
-
-
-- Q: I burn items — how to avoid?
-### よくある質問（FAQ）
-- Shop for upgrades between levels.
-- Tap to prep, drag to assemble, and tap customers to serve.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Many levels disallow pausing mid‑rush; plan ahead.
-
-
-
-
-
+A: Extra grills/pans and prep speed; décor is optional until later.
+*   **Q: 序盤のおすすめアップグレードは？**
 
 A: Many levels disallow pausing mid‑rush; plan ahead.
-- Q: Can I pause?
-A: Extra grills/pans and prep speed; décor is optional until later.
-- Q: Which upgrades are best early?
+    *   **A:** 調理器具の数（フライパンやプレートの増設）と調理スピードの強化が鉄板です。内装（待ち時間を延ばす効果など）は後回しで構いません。
 
-
-
-
-A: Many levels disallow pausing mid‑rush; plan ahead.
-- Q: Can I pause?
-A: Extra grills/pans and prep speed; décor is optional until later.
+*   **Q: 途中で一時停止できますか？**
+    *   **A:** 多くのレベルではラッシュ中のポーズは認められていません。事前にトイレに行っておきましょう。

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: finger-slayer
-title: '[KO] Finger Slayer'
+title: "Finger Slayer 핑거 슬레이어"
 description: >-
-  [KO] Finger Slayer tests raw reaction — pull back at the last millisecond to
-  dodge a closing blade without flinching early.
+  닫히는 칼날을 피해 마지막 순간에 손가락을 빼야 하는 반응 속도 테스트
+  게임입니다. 너무 일찍 빼면 점수가 줄고, 너무 늦으면 잘려 나갑니다.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/finger-slayer.jpg
 tags:
@@ -15,35 +15,49 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Finger Slayer는 한 번의 버튼 입력으로 반응 속도를 시험하는 단순한 아케이드
+게임입니다. 위험 구역 안에 “손가락”을 올려 두었다가, 함정이 닫히기 직전에
+재빨리 떼어내야 합니다. 라운드가 진행될수록 칼날이 더 빠르게 닫히고, 가짜
+예고 동작과 리듬 변화가 추가되어 섣부른 예측을 벌합니다. 목표는 가능한
+마지막 프레임에 가깝게 손을 빼면서도, 너무 일찍 겁먹고 움직이지 않는 것.  
 
-### Detailed Game Introduction
+### 게임 플레이 전략 & 공략
 
-Finger Slayer is a single‑button reflex test: place your “finger” within a danger zone and yank it away right before a trap snaps shut. Rounds escalate with faster closures, fake telegraphs, and rhythm changes that punish anticipation. The goal is to commit to a single crisp pull at the last safe frame without flinching early (which scores lower) or waiting too long.
+1. **예고 동작 읽기**  
+   대부분의 함정은 닫히기 전에 짧은 예고 애니메이션이나 소리를 보여 줍니다.
+   머릿속 카운트가 아니라 이 신호를 기준으로 반응하는 습관을 들이세요.  
+2. **선움직임 금지**  
+   너무 일찍 손을 떼면 점수가 낮고, 리듬도 깨집니다. 신호가 오기 전까지는
+   최대한 가만히 버티는 연습이 필요합니다.  
+3. **한 번에 크게 빼기**  
+   주저하는 듯한 짧은 드래그는 칼날에 걸리기 쉽습니다. 뺄 때는 단번에,
+   크게 빼내는 느낌으로 움직이세요.  
+4. **리듬 변화에 적응하기**  
+   몇 라운드가 지나면 타이밍 패턴이 달라집니다. 매 라운드 사이에 잠깐
+   숨을 고르고, 이전 라운드 리듬을 그대로 가져오지 않는 것이 좋습니다.  
+5. **자신의 반응 한계 이해하기**  
+   여러 번 해 보면서 “이 정도 타이밍이면 위험하다”는 감을 익혀 두고, 그보다
+   아주 조금 더 일찍 반응하도록 목표를 잡으세요.  
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Read the tell: Most traps give a micro‑windup (sound/visual); key off that signal, not a mental count.
-2.  **[KO]** Don’t pre‑move: Early flinches reduce score and rhythm; stay still until the tell.
-3.  **[KO]** One clean pull: Make the exit decisive — partial drags get clipped.
-4.  **[KO]** Rhythm adaptation: After a few rounds, patterns shift; reset mentally between attempts.
-5.  **[KO]** Safe thresholds: Learn your personal reaction boundary and aim a hair earlier.
+- 버튼을 길게 누르거나 화면을 누른 상태가 “손가락 올리기”이며, 손을 떼는
+  순간 손가락을 빼는 것으로 판정됩니다. 일부 버전에서는 탭/홀드 방식이
+  다를 수 있습니다.  
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Hold to “place” and release to pull back; some builds use tap vs hold.
+- **Q: 너무 일찍 움직이게 됩니다. 어떻게 고칠 수 있을까요?**  
+  **A:** 머릿속으로 시간을 셈하지 말고, 칼날의 예고 모션이나 소리에만 집중해
+  보세요. “추측”이 아니라 “실제 신호”에 반응하는 연습이 중요합니다.  
 
-### Frequently Asked Questions (FAQ)
+- **Q: 닫히는 타이밍이 랜덤이라 느껴집니다.**  
+  **A:** 패턴이 완전히 랜덤이라기보다, 여러 종류의 “텔”이 섞여 나오는
+  방식입니다. 차분히 텔→반응 구조를 몸에 익히면 훨씬 안정됩니다.  
 
-- Q: I always move too early — how do I stop?
-
-A: Focus on the trap’s pre‑animation or audio cue; suppress guessing and react to the real tell.
-
-- Q: Closures feel random — any tip?
-
-A: They’re pseudo‑random with patterned “tells.” Train a calm wait‑then‑snap reaction.
-
-- Q: Is there input lag?
-
-A: Minor delays exist on some devices; compensate by reacting on the cue’s first frame.
+- **Q: 입력 지연 때문에 늦게 빠지는 것 같습니다.**  
+  **A:** 기기·브라우저에 따라 약간의 입력 지연이 있을 수 있습니다. 이 경우
+  예고 모션이 시작되는 첫 순간에 맞춰 반응하도록 타이밍을 조정해 보세요.  
 

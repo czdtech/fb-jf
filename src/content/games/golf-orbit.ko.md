@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: golf-orbit
-title: '[KO] Golf Orbit'
+title: "Golf Orbit 골프 오빗"
 description: >-
-  [KO] Golf Orbit is a one‑tap launch‑and‑land golf — set launch angle, manage
-  spin, and ride planetary gravity for long, strategic flights.
+  한 번의 탭으로 공을 쏘아 올려 행성 중력을 타고 날려 보내는 골프 게임입니다.
+  발사 각도와 스핀을 조절해 지형과 중력을 활용하고, 멀리 날릴수록 높은
+  기록을 노릴 수 있습니다.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/golf-orbit.png
 tags:
@@ -18,33 +19,57 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle and power, then watch your ball arc across varied terrain and planetary bodies. Spin and bounce behavior, wind, and occasional gravity wells add depth: the best shots ride slopes, skim obstacles, and chain bounces to reach hidden targets.
+`Golf Orbit`는 골프를 비행 물리 퍼즐처럼 풀어내는 게임입니다. 플레이어는 발사
+각도와 파워를 정한 뒤, 공이 다양한 지형과 행성 주변을 그리며 날아가는 궤적을
+지켜보게 됩니다. 공이 튕길 때의 반발력, 바람, 중력 우물(그래비티 웰) 등이
+겹치며, 가장 좋은 샷은 경사를 타고 미끄러지듯 굴러가거나, 장애물을 살짝
+스치고, 여러 번의 바운스를 연쇄시켜 숨겨진 목표 지점까지 도달합니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** Angle discipline: Shallow launches maximize roll; higher arcs clear hazards but lose rollout.
-2.  **[KO]** Spin control: Apply backspin to stick on small islands; topspin to ride downhill slopes for extra distance.
-3.  **[KO]** Gravity/wind: Aim slightly upwind; use gravity wells to slingshot if present.
-4.  **[KO]** Terrain reads: Plan for first bounce, not just landing; slopes redirect momentum.
-5.  **[KO]** Par routing: Take safe two‑shot lines rather than risky one‑shot clears until consistent.
+1. **각도 관리(Angle Discipline)**  
+   낮은 각도로 날리면 공이 땅에 빨리 닿는 대신 구르는 거리가 길어집니다.
+   반대로 높은 각도는 장애물을 넘기에는 좋지만 착지 후 롤 거리가 짧아지는
+   경향이 있습니다.
 
-### Controls Guide
+2. **스핀 컨트롤**  
+   작은 섬이나 좁은 그린 위에 공을 세워야 할 때는 백스핀을 걸어 착지 후
+   미끄러지는 거리를 줄이세요. 반대로 긴 내리막 경사를 타고 멀리 보내고
+   싶다면 탑스핀을 활용해 굴러가는 거리를 극대화하는 것이 좋습니다.
 
-- Tap to start the power bar; tap again to set power/angle; apply spin via swipe (if supported).
+3. **중력/바람 활용**  
+   바람이 있을 경우, 바람 부는 방향의 반대쪽으로 약간 더 조준해 보정해야
+   합니다. 중력 우물이 있는 스테이지에서는 우물 가장자리를 스치듯
+   진입해 슬링샷 효과로 속도를 얻을 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+4. **지형 읽기**  
+   공이 처음 떨어지는 지점뿐 아니라, 첫 바운스 후 어느 방향으로 튈지도
+   함께 고려해야 합니다. 경사면은 속도를 다른 방향으로 돌려 놓을 수 있으니,
+   이를 이용해 코너를 돌아가거나 장애물을 우회할 수 있습니다.
 
-- Q: My ball always overshoots — how to fix?
+5. **안전한 루트 우선**  
+   한 번에 모든 것을 넘기려 하기보다, 안정적인 2샷 루트로 천천히 파를
+   맞추는 것이 좋습니다. 같은 루트를 반복해 안정화한 뒤, 필요할 때만
+   원샷 클리어를 노려 보세요.
 
-A: Lower the launch angle and reduce power; use backspin to stop on small greens.
+### 조작 방법
 
-- Q: What’s the best all‑around angle?
+- 첫 번째 탭으로 파워 게이지를 시작시키고, 다시 탭해 발사 각도와 힘을
+  확정합니다.
+- 지원되는 버전에서는 스와이프 제스처로 스핀을 추가할 수 있습니다.
 
-A: Medium‑low angles (25–35°) with topspin for roll are consistent on open holes.
+### 자주 묻는 질문(FAQ)
 
-- Q: Do gravity wells actually help?
+- Q: 공이 항상 목표를 지나치는데 어떻게 해야 하나요?  
+  A: 발사 각도를 조금 낮추고 파워를 줄이는 동시에, 작은 그린에서는 백스핀을
+  걸어 착지 후 미끄러지는 거리를 줄여 보세요.
 
-A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
+- Q: 어느 정도 각도가 무난한가요?  
+  A: 일반적인 개활지에서는 25~35도 정도의 중저각에 탑스핀을 더해 롤을
+  활용하는 샷이 안정적인 편입니다.
 
+- Q: 중력 우물은 정말 도움이 되나요?  
+  A: 네. 진입 각도를 잘 맞추면, 우물을 스치듯 지나가며 슬링샷처럼 속도를
+  크게 얻을 수 있습니다. 몇 번 반복해 감을 익혀 보세요.

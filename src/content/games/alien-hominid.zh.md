@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: alien-hominid
-title: '[ZH TRANSLATION NEEDED] Alien Hominid'
-description: >-
-  [ZH TRANSLATION NEEDED] The ultimate guide for the classic run-and-gun
-  shooter, Alien Hominid. Find detailed strategies, controls, and FAQs to help
-  you master this challenging side-scroller from The Behemoth.
+title: Alien Hominid 异形狂怒
+description: 《Alien Hominid（异形狂怒）》是一款节奏极快的横版跑动射击游戏指南，帮助你掌握这款高难度街机风作品的操作、战斗策略与通关技巧。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/alien-hominid.jpg
 tags:
@@ -16,56 +13,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Alien Hominid is a fast-paced 2D side-scrolling run-and-gun shooter developed by The Behemoth. It originated as a popular Flash game on the Newgrounds portal in 2002 before being expanded into a full console release for PlayStation 2, Nintendo GameCube, and Xbox. The game is renowned for its charming, hand-drawn art style by Dan Paladin, its chaotic and challenging gameplay, and its quirky sense of humor.
+*Alien Hominid（异形狂怒）* 是 The Behemoth 打造的一款高强度 2D 横版跑动射击游戏，最早在 2002 年作为 Flash 小游戏登上 Newgrounds，后来扩展成登陆 PS2、GameCube、Xbox 等主机平台的完整作品。Dan Paladin 手绘的夸张卡通画风、混乱又讲究技巧的关卡设计，以及满屏“死亡即重来”的街机味道，让它在玩家中拥有极高人气。
 
-[ZH TRANSLATION NEEDED] The premise is simple: players control a small, yellow alien whose UFO has been shot down by the FBI. Now stranded on Earth, the alien must fight its way through waves of secret agents, KGB soldiers, and various bosses to recover its spaceship and escape the planet. The gameplay is heavily inspired by classic arcade shooters like *Contra* and *Metal Slug*, featuring one-hit kills, relentless waves of enemies, and intense boss battles that demand precision and pattern recognition.
+故事非常直白：你扮演一只黄色小外星人，飞船被地球的情报机构击落，只能在地球上一路杀出重围，对抗 FBI 特工、KGB 士兵以及各式 Boss，想方设法抢回飞船逃离地球。玩法上明显致敬了经典的 *Contra*（魂斗罗）、*Metal Slug*（合金弹头）一类街机横版射击——一击即死、敌人潮水般出现、Boss 战需要你精确记住每一种攻击模式。
 
-### Gameplay Strategy & Walkthrough
+### 游戏策略与通关思路
 
-[ZH TRANSLATION NEEDED] Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memorization, and mastering the alien's full moveset.
+*Alien Hominid* 以难著称，想要通关，需要同时练好反应、记住关卡节奏，并彻底吃透外星人的招式体系。
 
-#### 1. Movement is Survival
-*   **Never Stop Moving:** Standing still is the quickest way to die. Always be jumping, running, or rolling to make yourself a harder target.
-*   **Master the Roll/Duck:** You can duck under most standard bullets. Tapping the duck button while moving will initiate a roll, which is a fantastic evasive maneuver to dodge incoming fire or quickly reposition.
+#### 1. 移动就是生存（Movement is Survival）
 
-#### 2. Use Your Full Arsenal
-*   **The Power of Digging:** One of the most critical survival skills is the ability to dig underground. While underground, you are completely invulnerable. You can use this to dodge massive bullet storms or to pull enemies underground for an instant kill.
-*   **Ride 'Em, Alien!:** You can jump on top of most enemies' heads. From there, you can choose to "ride" them, using them as a human shield, or perform a "chomp" to bite their head off for a stylish kill. This is both a defensive and offensive tactic.
-*   **Melee When Necessary:** Your knife is surprisingly effective for close-quarters combat, especially when you are overwhelmed and need to clear space immediately.
-*   **Grenades are Your Best Friend:** Grenades deal significant area-of-effect damage. Save them for large groups of enemies or for dealing heavy damage to bosses.
+*   **永远不要站着不动（Never Stop Moving）：** 停下来就是等死。尽量保持角色在移动、跳跃或翻滚状态，降低自己被子弹直接命中的概率。
+*   **熟练掌握下蹲 / 翻滚（Master the Roll/Duck）：** 大多数普通子弹都可以通过下蹲躲过，而移动中轻点下蹲可以触发翻滚，这是规避火力、快速 reposition 的关键动作，一定要练熟。
 
-#### 3. General Combat Tips
-*   **Charged Shots:** Holding down the fire button charges your blaster for a more powerful shot that can pierce through multiple enemies. However, you cannot move while charging, making you vulnerable. Use it strategically when you have a clear opening.
-*   **Prioritize Threats:** Always identify and eliminate the most dangerous enemies first—usually those with rapid-fire weapons or who launch projectiles.
-*   **Learn Boss Patterns:** Every boss follows a strict attack pattern. The key to victory is observation. Spend your first few attempts learning their moves and identifying safe spots and attack windows. Don't get greedy; land a few shots and then prepare to dodge again.
+#### 2. 善用外星人的全套技能（Use Your Full Arsenal）
 
-### Controls Guide
+*   **挖地是无敌保险（The Power of Digging）：** 在松软地面上你可以向下挖入地底，期间几乎完全无敌。面对弹幕铺天盖地的时刻，用挖地穿过攻击，或者突然从地下冒出拉走敌人，是保命的核心技巧。
+*   **骑在敌人头上（Ride 'Em, Alien!）：** 你可以跳到大多数敌人的头上，将其当做人肉盾牌，或者选择直接“咬头”秒杀，对付成群敌人时既帅又实用。
+*   **近战刀非常好用（Melee When Necessary）：** 当敌人贴脸围上来时，远程点射往往来不及，此时一刀清空身边一圈敌人，往往比硬顶子弹更安全。
+*   **手雷要省着用（Grenades are Your Best Friend）：** 手雷的范围伤害极高，非常适合处理成团敌人或 Boss 的某些阶段。尽量留在“如果不用就会灭团”的时候再扔。
 
-[ZH TRANSLATION NEEDED] Controls can vary slightly between the Flash version and console/HD versions, but the core functions remain the same.
+#### 3. 实战通用建议（General Combat Tips）
 
-*   **Movement:** Arrow Keys / D-Pad / Analog Stick to move left and right.
-*   **Jump:** 'A' Key (Keyboard) / A or X Button (Controller).
-*   **Shoot:** 'S' Key (Keyboard) / X or Square Button (Controller). Hold to charge the shot.
-*   **Grenade:** 'D' Key (Keyboard) / B or Circle Button (Controller).
-*   **Duck/Roll:** Down Arrow Key / Down on D-Pad.
-*   **Special Moves:**
-    *   **挖掘：** 在松软的地面（泥土、沙子）上按下+跳跃。
-    *   **近战攻击：** 靠近敌人并按下射击按钮。
-    *   **骑乘/啃咬：** 直接跳到敌人的头顶上。
+*   **蓄力射击的风险与收益（Charged Shots）：** 长按射击键可以蓄力发出高伤害、可贯穿多个敌人的弹幕，但蓄力过程中你无法射击甚至更难专注走位，一定要在敌人攻击间隙或位置安全时使用。
+*   **优先清理高威胁目标（Prioritize Threats）：** 先锁定那些带速射武器、范围攻击或投射物的敌人，而不是随缘扫小兵。把最危险的火力点优先拔掉，场面会立刻好控很多。
+*   **Boss 战重在“看招”（Learn Boss Patterns）：** 每个 Boss 都有一整套固定循环的攻击模式。前几次尝试可以不急着过关，专门用来观察攻击顺序、判定安全区和输出窗口，等完全熟悉之后再追求无伤或少失误通关。
 
-### Frequently Asked Questions (FAQ)
+### 操作指南（Controls Guide）
 
-*   **Q: Why is Alien Hominid so difficult?**
-    *   **A:** 游戏的高难度是有意为之，旨在模拟经典8位和16位街机游戏的挑战。一击必杀系统要求玩家以近乎完美的执行力进行游戏。
+不同平台的按键略有差异，但核心功能一致：
 
-*   **Q: What is the difference between the original Flash game and the HD/console versions?**
-    *   **A:** 主机和HD版本得到了极大的扩展。它们具有更多关卡、额外的敌人和Boss、改进的图形和声音、2人合作模式，以及众多迷你游戏和可解锁的外星人帽子。
+*   **移动（Movement）：** 方向键 / 摇杆左右移动。
+*   **跳跃（Jump）：** 键盘上的 `A` 键，或手柄上的 A / X 键。
+*   **射击（Shoot）：** 键盘 `S` 键，或手柄的 X / □ 键；长按可蓄力射击。
+*   **投掷手雷（Grenade）：** 键盘 `D` 键，或手柄的 B / ○ 键。
+*   **下蹲 / 翻滚（Duck/Roll）：** 按住下方向键或十字键向下，移动中轻按可触发翻滚。
+*   **特殊动作（Special Moves）：**  
+    *   **挖掘（Dig）：** 在泥土、沙地等软地面上按下 + 跳跃。  
+    *   **近战攻击（Melee Attack）：** 靠近敌人时按射击键会触发近战攻击。  
+    *   **骑乘 / 啃咬（Ride/Chomp）：** 直接从上方跳到敌人头上即可触发对应动作。
 
-*   **Q: How do I beat the final boss?**
-    *   **A:** 最终Boss是一场多阶段的耐力战。关键是，像所有Boss一样，耐心学习每个阶段的模式。首先专注于躲避，只有在有明确、安全的开口时才进行攻击。
-
-*   **Q: Is *Alien Hominid Invasion* the same game?**
-    *   **A:** 不是。*Alien Hominid Invasion*是原作的现代续作和"重新构想"。它具有以合作为重点的非线性游戏玩法，具有Rogue-lite元素、角色进展和不同的机制。这是一款设定在同一宇宙中的新游戏，而不是重制版。
-
+### 常见问题解答（FAQ）
+*   **问：为什么《Alien Hominid》这么难？****
+    *   答：** 这是设计者刻意致敬老派街机的结果。一击即死、密集弹幕和严苛关卡设计，都是为了让通关更有成就感。
+*   **问：Flash 版和主机 / HD 版有什么区别？****
+    *   答：** 主机与 HD 版本在原有基础上大幅扩展：加入了更多关卡、新敌人和 Boss、更精致的画面与音效、双人合作模式，以及大量小游戏和可解锁饰品等内容。
+*   **问：最终 Boss 要怎么打？****
+    *   答：** 最终 Boss 是一场多阶段的持久战。通关关键仍然是观察招式循环：先记熟每一阶段的攻击模式，找到安全站位和输出窗口，宁可少打几发，也不要为了多打几枪而站在危险位置贪刀。
+*   **问：《Alien Hominid Invasion》和本作是同一款游戏吗？****
+    *   答：** 不是。《Alien Hominid Invasion》更像是一部精神续作和“再创作”版本，采用了全新的关卡结构与多人合作玩法，节奏和系统设计也与本作不同，可以把它理解为同一 IP 下的全新游戏体验。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: words-of-magic
-title: '[KO] Words of Magic'
+title: Words of Magic 워즈 오브 매직
 description: >-
-  [KO] Unleash your vocabulary in Words of Magic! Connect letters to form words
-  and fill out the crossword puzzle. A magical and relaxing brain-teaser for
-  word game lovers.
+  마법 책 속에서 글자를 이어 단어를 만드는 워드 퍼즐 게임입니다. 원형에 배치된 알파벳을 연결해 단어를 찾고, 십자말풀이 보드를 채우며
+  차분하게 어휘 실력을 키워 보세요.
 iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
 thumbnail: /new-images/words-of-magic.png
 tags:
@@ -17,31 +16,47 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### 상세 게임 소개
 
+Words of Magic는 동그랗게 배열된 글자들을 이어 단어를 만들고, 위쪽의 십자말풀이 보드를 채우는
+편안한 워드 퍼즐 게임입니다. 각 스테이지마다 정해진 알파벳 세트가 주어지며, 이 글자들을 조합해
+모든 정답 단어를 찾아야 합니다. 정답을 모두 채우면 퍼즐이 완성되고 다음 스테이지로 넘어갈 수
+있습니다.
 
-### Detailed Game Introduction
+### 플레이 전략 & 공략
 
-Words of Magic is a relaxing and enchanting word puzzle game designed to test your vocabulary and anagram skills. In each level, you are given a circle of letters and a crossword-style puzzle board. Your goal is to find all of the hidden words that can be formed from the given letters and completely fill out the crossword grid. It's a perfect game to unwind with while giving your brain a gentle workout.
+1.  **짧은 단어부터 시작하기**: 보통 세 글자 정도의 짧고 눈에 잘 들어오는 단어가 먼저 떠오릅니다.
+    이런 단어들을 먼저 채워 두면, 격자에 드러난 글자를 힌트 삼아 긴 단어를 추론하기 쉬워집니다.
+2.  **셔플 버튼 활용하기**: 아무리 봐도 새로운 단어가 떠오르지 않을 때는 셔플 버튼으로 원형의
+    글자 순서를 섞어 보세요. 같은 글자라도 배치가 바뀌면 전혀 다른 패턴이 보일 때가 많습니다.
+3.  **힌트는 막힐 때만 아껴 쓰기**: 힌트는 퍼즐 보드에 무작위 글자를 하나 공개해 주는 식으로
+    도움을 줍니다. 개수가 한정적인 경우가 많으니, 여러 번 시도해도 도저히 진전이 없을 때만 사용하는
+    편이 좋습니다.
+4.  **보너스 단어도 노려 보기**: 메인 퍼즐에 들어가지 않는 단어라도, 유효한 영어 단어라면 보너스
+    단어로 인정되어 코인이나 추가 점수를 얻을 수 있습니다. 퍼즐을 다 채웠더라도 여유가 있다면
+    더 많은 단어를 찾아 보세요.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법 안내
 
-1.  **[KO]** **Start with the Obvious:** Look for the shortest and most obvious words first (usually three-letter words). Filling these in can give you clues and letters for the longer, more complex words.
-2.  **[KO]** **Shuffle the Letters:** If you get stuck and can't see any more words, use the "Shuffle" button. Rearranging the letters in the circle can often spark new ideas and help you see combinations you missed before.
-3.  **[KO]** **Use Hints Sparingly:** The "Hint" button will reveal a random letter in the puzzle for you, which can be a great help. However, you usually have a limited number of hints, so save them for when you are truly stuck.
-4.  **[KO]** **Find Bonus Words:** Don't stop once the crossword is full! Most levels have extra "Bonus Words." These are valid words made from the letters that don't fit into the main puzzle. Finding them will award you extra coins or points.
+*   **단어 만들기**: 마우스나 손가락으로 원형에 배치된 글자들을 순서대로 드래그해 단어를 구성합니다.
+    손을 떼면 단어가 제출되며, 정답일 경우 위쪽 보드에 채워집니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Form a Word:** Click and drag your mouse (or swipe your finger) across the letters in the circle in the correct order to spell a word. Release the mouse button or your finger to submit the word.
+*   **Q. 이 게임의 목표는 무엇인가요?**  
+    **A:** 주어진 글자 세트로 만들 수 있는 모든 정답 단어를 찾아, 십자말풀이 보드를 완전히 채우는
+    것입니다.
 
-### Frequently Asked Questions (FAQ)
+    - **Q. 유효한 단어 같은데 보드에 채워지지 않습니다. 왜 그런가요?**  
+    **A:** 그 단어는 해당 스테이지의 메인 정답이 아닌 "보너스 단어"일 가능성이 큽니다. 보너스 단어를
+    찾아도 코인이나 점수는 얻지만, 퍼즐 보드에는 표시되지 않을 수 있습니다.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** To find all the hidden words using the given letters and use them to completely fill the crossword puzzle grid.
+*   **Q. 힌트는 어떻게 더 얻을 수 있나요?**  
 
-*   **[KO]** **Q: I found a real word, but it didn't appear on the board. Why?**
-    *   **[KO]** **A:** That was likely a "Bonus Word." You still get credit and points for finding it, but it's not part of the main puzzle for that level.
+    - **A:** You can typically earn more hints by completing levels, finding bonus words, or through daily login rewards.
 
-*   **[KO]** **Q: How do I get more hints?**
-    *   **[KO]** **A:** You can typically earn more hints by completing levels, finding bonus words, or through daily login rewards.
+- **Q: How do I get more hints?**
 
+    - **A:** That was likely a "Bonus Word." You still get credit and points for finding it, but it's not part of the main puzzle for that level.
+    **A:** 일반적으로 스테이지를 클리어하거나 보너스 단어를 많이 찾으면 추가 힌트를 얻을 수 있습니다.
+    일부 버전에서는 일일 보상으로도 힌트가 지급됩니다.

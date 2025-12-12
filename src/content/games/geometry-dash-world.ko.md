@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: geometry-dash-world
-title: '[KO] Geometry Dash World'
+title: "Geometry Dash World 지오메트리 대시 월드"
 description: >-
-  [KO] Compact rhythm‑platformer worlds: run, jump, and fly through short
-  music‑synced levels, unlock gates with collected orbs, and visit daily levels.
+  짧고 밀도 높은 음악 연동 스테이지들로 구성된 Geometry Dash 월드 버전입니다.
+  두 개의 월드를 달리며 점프와 비행으로 장애물을 피하고, 구슬과 열쇠를 모아
+  게이트를 열고 데일리 레벨에 도전해 보세요.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/geometry-dash-world.jpg
 tags:
@@ -18,27 +19,48 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Geometry Dash World distills the core rhythm‑platforming into two themed worlds of brief, tightly designed stages. Each level syncs obstacles to the soundtrack: jump pads and rings propel you over spikes, gravity/size portals transform movement, and ship/ball segments test fine control. Collect orbs and keys to unlock gates, visit daily levels for fresh challenges, and practice sections with checkpoints before committing to a full clear. While shorter than the main series, World emphasizes fast iteration, readable patterns, and score‑chasing with coins and time.
+### 게임 개요
 
-### How to Play
-- Tap/jump exactly on beat to clear spikes and saws; hold to pilot ship/ball smoothly.
-- Gather orbs/keys to open gates and extra nodes; optional coins add challenge.
-- Use practice mode to break difficult sections into repeatable chunks.
+`Geometry Dash World`는 리듬 플랫포밍의 핵심만 추려 두 개의 테마 월드에 짧고
+타이트한 스테이지들을 담아낸 버전입니다. 각 레벨에서는 음악에 맞춰 장애물이
+배치되며, 점프 패드와 링이 스파이크 위를 날아넘게 하고, 중력/크기 포탈이
+이동 방식을 바꾸며, Ship/Ball 구간은 섬세한 조작을 요구합니다.  
+플레이어는 오브와 열쇠를 모아 게이트를 열고, 데일리 레벨에서 새로운 도전에
+나서며, 연습 모드에서 체크포인트를 찍어 어려운 구간을 분할 연습할 수 있습니다.
 
-### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice/checkpoint controls vary by host.
+### 플레이 방법
 
-### Tips
-- Learn the song’s phrasing—hazards often align with downbeats and fills.
-- Keep ship inputs light; release to settle before tight gaps.
-- Turn on practice to map tricky ring timings, then execute a clean run.
+- 음악 비트에 맞춰 정확한 타이밍으로 점프해 스파이크와 톱날을 넘고, 길게
+  눌러 Ship/Ball 구간에서 부드럽게 비행하세요.
+- 클리어 시 얻는 오브와 열쇠를 모아 잠겨 있는 노드와 게이트를 열고 새로운
+  레벨이나 기능을 해금할 수 있습니다. 코인을 모으면 추가 도전 요소나 점수
+  경쟁에 도움이 됩니다.
+- 연습 모드를 활용하면 어려운 구간을 잘라서 반복 연습할 수 있으며, 충분히
+  익숙해진 뒤 일반 모드에서 노데스 클리어를 노리는 것이 좋습니다.
 
-### FAQ
-- Q: Does Geometry Dash World include user‑created levels?
-A: It focuses on curated stages; some hosts surface daily levels and community picks.
-- Q: How do I unlock gated nodes?
-A: Spend orbs/keys earned from clears and dailies.
-- Q: Can I place checkpoints?
-A: Practice mode supports checkpoints; normal clears do not.
+### 조작 방법
 
+- 스페이스바/마우스 클릭/터치로 점프하거나, 눌러서 비행을 유지합니다.
+- 연습 모드에서의 체크포인트 설정·이동 조작은 호스트에 따라 다를 수 있습니다.
+
+### 플레이 팁
+
+- 곡의 구간과 프레이징을 익히면, 위험한 패턴이 나올 타이밍을 미리 예측할 수
+  있습니다. 많은 장애물이 다운비트나 특정 드럼 패턴에 맞춰 등장합니다.
+- Ship 구간에서는 입력을 가볍게 주고, 좁은 틈 앞에서는 버튼에서 손을 떼며
+  고도를 살짝 낮추는 식으로 조정하세요.
+- 링 타이밍이 까다로운 구간은 연습 모드에서 앞뒤 체크포인트를 찍어 패턴을
+  완전히 몸에 익힌 뒤, 일반 모드에서 한 번에 통과하는 것을 목표로 합니다.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: Geometry Dash World에도 유저 제작 레벨이 있나요?  
+  A: 이 버전은 기본적으로 선별된 공식 스테이지에 초점을 맞추지만, 일부
+  호스트에서는 데일리 레벨이나 커뮤니티 추천 레벨을 별도 메뉴로 제공하기도
+  합니다.
+- Q: 잠겨 있는 노드는 어떻게 해금하나요?  
+  A: 레벨 클리어와 데일리 플레이로 얻은 오브·열쇠를 사용해 게이트를
+  열어야 합니다. 필요한 수량은 노드별로 다르게 표시됩니다.
+- Q: 체크포인트를 직접 둘 수 있나요?  
+  A: 연습 모드에서는 체크포인트를 자유롭게 배치해 연속 도전이 가능하지만,
+  일반 모드 클리어에는 체크포인트가 적용되지 않습니다.

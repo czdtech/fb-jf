@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: om-nom-connect-classic
-title: '[KO] Om Nom Connect Classic'
+title: Om Nom Connect Classic 옴놈 커넥트 클래식
 description: >-
-  [KO] Connect with Om Nom in this classic tile-matching puzzle! Find pairs of
-  identical tiles featuring Om Nom and his friends, and clear the board by
-  linking them with a path of no more than two turns.
+  Om Nom Connect Classic는 귀여운 옴놈과 친구들이 그려진 타일을 연결해 보드를 비우는 전통 커넥트 퍼즐로, 두 번 이하로
+  꺾이는 경로만 허용되는 규칙이 특징입니다.
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/om-nom-connect-classic.jpg
@@ -19,33 +18,50 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Om Nom Connect Classic*는 Cut the Rope 세계관의 옴놈과 친구들이 등장하는 커넥트식 타일
+퍼즐 게임입니다. 같은 그림의 타일 쌍을 찾아 연결해 보드를 비우는 것이 목표이며,
+연결 규칙이 핵심입니다. 두 타일 사이를 잇는 선은 최대 두 번까지만 90도로 꺾일 수 있고,
+그 경로 위에는 다른 타일이 있어서는 안 됩니다. 제한 시간 안에 모든 쌍을 찾으려면 빠른
+패턴 인식과 전략적인 선택이 필요합니다.
 
-### Detailed Game Introduction
+### 공략 & 플레이 팁
 
-Om Nom Connect Classic is a fun and fast-paced tile-matching puzzle game featuring the adorable characters from the Cut the Rope universe. The goal is to clear the board by finding and connecting pairs of identical tiles. The challenge lies in the connection rule: a pair can only be removed if the path between them has no more than two 90-degree turns. With a timer counting down, you'll need to be quick and strategic to complete each level.
+1. **연결 규칙 이해:** 최대 두 번 굽는 L자, Z/U자 모양의 경로만 허용되며, 선이 지나가는
+   길에는 다른 타일이 없어야 합니다.
+2. **가장자리부터 스캔:** 보드 바깥쪽은 직선 연결이 쉬운 경우가 많으므로, 먼저 외곽을
+   훑어 인접 쌍이나 직선으로 연결되는 타일을 빠르게 제거하세요.
+3. **앞을 내다보기:** 한 쌍을 지우면 그 주변의 다른 쌍들도 열리므로, 중앙에 갇힌
+   타일로 통로를 열 수 있는 매치를 우선적으로 선택하는 것이 좋습니다.
+4. **힌트·섞기 활용:** 수가 막혔다고 느껴질 때는 힌트를 사용해 가능한 한 쌍을 확인하고,
+   정말 더 이상 움직일 수 없다면 섞기 버튼으로 보드를 재배치해 새로운 기회를 만들 수
+   있습니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** **The Connection Rule:** You can only match two identical tiles if you can draw a line between them with a maximum of two bends (L-shape or Z/U-shape). The path must also be clear of any other tiles.
-2.  **[KO]** **Scan the Edges:** The easiest matches are often on the outside of the grid. Start by quickly scanning the perimeter for adjacent pairs or those that can be connected with a straight line.
-3.  **[KO]** **Think Ahead:** Every pair you remove opens up new possibilities. Try to make matches that will clear a path to other potential pairs, especially those trapped in the center of the board.
-4.  **[KO]** **Use Hints and Shuffles:** If you get stuck, use a hint to reveal a valid pair. If you completely run out of moves, use the shuffle button to rearrange all the tiles on the board and create new matching opportunities.
+게임은 클릭 또는 탭만으로 간단히 조작합니다.
 
-### Controls Guide
+* **타일 선택:** 타일을 한 번 클릭해 선택하고, 같은 그림의 다른 타일을 클릭하면 규칙에
+  맞는 경로가 존재할 경우 두 타일이 사라집니다.
 
-The game is played with simple clicks or taps.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Select Tiles:** Click on a tile to select it, then click on its identical partner. If the connection is valid according to the rules, the pair will be removed.
+* **Q: 같은 그림인데도 연결이 안 되는 이유가 뭔가요?**  
+  **A:** 두 타일 사이 경로에 다른 타일이 가로막혀 있거나, 경로가 세 번 이상 꺾여야만
+  연결될 수 있는 구조일 때는 매치가 허용되지 않습니다.
 
-### Frequently Asked Questions (FAQ)
+    - **Q: 타이머가 끝나면 어떻게 되나요?**  
+  **A:** 제한 시간 안에 보드를 다 비우지 못하면 해당 레벨에 실패하며, 다시 도전해야
+  합니다. 빠르게 눈을 돌려 전체 보드를 보는 연습이 중요합니다.
 
-*   **[KO]** **Q: Why can't I connect two identical tiles?**
-    *   **[KO]** **A:** The path between them is either blocked by another tile, or the path would require more than two 90-degree turns.
+* **Q: 빠르게 매치를 찾는 요령이 있나요?**  
 
-*   **[KO]** **Q: What happens if the timer runs out?**
-    *   **[KO]** **A:** You will fail the level and have to start over. Speed and quick recognition are key!
+    - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
 
-*   **[KO]** **Q: What's the best strategy for finding matches quickly?**
-    *   **[KO]** **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
+- **Q: What's the best strategy for finding matches quickly?**
 
+    - **A:** You will fail the level and have to start over. Speed and quick recognition are key!
+  **A:** 한 구역에만 집착하지 말고, 눈을 계속 움직이며 전체 패턴을 보는 것이 좋습니다.
+  너무 어렵게 생각하기보다, 먼저 명확한 쌍부터 지우고 난 뒤 남은 구조를 보는 식으로
+  접근해 보세요.

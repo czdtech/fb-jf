@@ -1,59 +1,62 @@
 ---
 locale: zh
 urlstr: super-smash-flash
-title: '[ZH TRANSLATION NEEDED] Super Smash Flash'
-description: >-
-  [ZH TRANSLATION NEEDED] Experience the classic fan-made fighter, Super Smash
-  Flash! Choose from a roster of iconic video game characters and battle it out
-  in a platform-fighting arena. The goal is to launch your opponents off the
-  screen by increasing their damage percentage. Master your character's moves to
-  win.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
+title: 《Super Smash Flash》乱斗闪光
+description: 《Super Smash Flash》是一款同人制作的横版乱斗格斗游戏，集合多款经典游戏与动漫角色，在多种场景中进行多人乱斗，将对手击飞场外获取胜利。
+iframeSrc: 'https://ssfgame.netlify.app/'
 thumbnail: /new-images/super-smash-flash.jpg
 tags:
   - fighting
-  - platformer
+  - crossover
   - multiplayer
-score: 3.5/5  (679 votes)
+score: 3.9/5  (1500 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
 
-[ZH TRANSLATION NEEDED] Super Smash Flash is a legendary fan-made fighting game inspired by the official Super Smash Bros. series. It brings together a diverse roster of characters from various video game and anime franchises into a 2D platform-fighting arena. The game is celebrated for its fast-paced action and capturing the spirit of the original console games in a free-to-play Flash format.
+### 详细游戏介绍
 
-### Gameplay Guide
+《Super Smash Flash》向许多知名游戏与动漫作品致敬，你可以操控来自多个 IP 的角色，在横版关卡中展开热闹的乱斗。游戏沿用“伤害值越高越容易被击飞”的机制，当角色受到攻击后其伤害百分比不断上升，数值越高，被攻击时飞出场外的距离就越远。
 
-[ZH TRANSLATION NEEDED] The objective is not to deplete a health bar, but to increase your opponent's damage percentage and launch them off the screen. The higher a character's percentage, the farther they will fly when hit.
-- **Damage:** Attack opponents to increase their damage percentage (%).
-- **Smash Attacks:** Use powerful "smash" attacks to send high-damage opponents flying off the stage.
-- **Recovery:** If you are knocked off the stage, use your character's jumps and special moves to get back onto the platform.
-- **Items:** Items will periodically appear on the stage, which can be used to gain an advantage.
+### 游玩策略与对战指引
 
-### Controls Guide
 
-[ZH TRANSLATION NEEDED] The game can be played by two players on the same keyboard.
-- **Player 1:**
-     - **Move:** Arrow Keys
-     - **Jump:** `O`
-     - **Attack:** `P`
-- **Player 2:**
-     - **Move:** `A`, `S`, `D`, `W` (W for jump)
-     - **Attack:** `F`
-     - **Special Move:** `G`
-- **Pause:** `Backspace`
+The objective is not to deplete a health bar, but to increase your opponent's damage percentage and launch them off the screen. The higher a character's percentage, the farther they will fly when hit.
+1.  **积累伤害再找机会击飞：** 在前半段更注重稳定输出、不断累积对手伤害值，待对方百分比足够高时再寻找破绽用强力一击将其打出场外。
+2.  **熟练掌握角色手感：** 不同角色的攻击范围、出招速度和必杀技效果各不相同，建议挑一两个喜欢的角色重点练习。
+3.  **学会边缘恢复技巧：** 当自己被打飞出平台时，合理使用二段跳、方向调整和特殊恢复技能，尽量抢回到舞台避免被直接淘汰。
+4.  **利用场景机关：** 某些地图设有移动平台、陷阱或会改变结构的机关，巧妙利用这些环境元素可以制造意想不到的击杀机会。
 
-### Frequently Asked Questions (FAQ)
+### 操作说明
 
-[ZH TRANSLATION NEEDED] **How do I win a match?**
 
-[ZH TRANSLATION NEEDED] You win by having the most KOs (or the last remaining lives, depending on the game mode) when the match ends. The key is to knock other players off the screen.
+The game can be played by two players on the same keyboard.
+*   **移动 / 跳跃：** 使用方向键或 WASD 控制角色移动和跳跃；
+    - **攻击 / 技能：** 通过攻击键与技能键释放普通攻击和特殊招式，连续按键或配合方向可触发不同招式组合；
+    - **防御 / 闪避：** 使用防御或闪避键来格挡或快速位移，避免被连招打满伤害。
 
-[ZH TRANSLATION NEEDED] **How do I perform different attacks?**
 
-[ZH TRANSLATION NEEDED] Combine the attack button (`P` or `F`) with directional keys. For example, pressing `Up Arrow` + `P` will perform an up-attack. Experiment with different combinations on the ground and in the air to discover all of your character's moves.
+    - **Pause:** `Backspace`
 
-[ZH TRANSLATION NEEDED] **Is this an official Nintendo game?**
+- **Special Move:** `G`
 
-[ZH TRANSLATION NEEDED] No, Super Smash Flash is a non-profit fan-made project created by McLeodGaming. It is a tribute to the Super Smash Bros. series.
+    - **Attack:** `F`
 
+    - **Move:** `A`, `S`, `D`, `W` (W for jump)
+
+    - **Player 2:**
+
+- **Attack:** `P`
+### 常见问题解答（FAQ）
+
+**问：支持几人同屏对战？****
+答：** 视模式而定，通常支持单人对战电脑或本地多人共享键盘/手柄进行乱斗。
+
+**问：和官方乱斗系列有什么不同？****
+答：** 本作为同人作品，在手感、角色阵容和系统上与官方作品有所差异，更偏向粉丝向致敬与轻松娱乐。
+
+
+
+No, Super Smash Flash is a non-profit fan-made project created by McLeodGaming. It is a tribute to the Super Smash Bros. series.
+
+**Is this an official Nintendo game?**

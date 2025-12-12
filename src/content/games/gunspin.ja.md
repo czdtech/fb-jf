@@ -1,42 +1,36 @@
 ---
+title: "Gunspin"
+description: "反動推進アーケード：銃を発射して回転・飛行させ、弾薬を集め、ハザードを乗り越えてできるだけ遠くまで移動しましょう。"
+iframeSrc: "https://ubg44.github.io/GunSpin/"
+thumbnail: "/new-images/gunspin.jpg"
+urlstr: "gunspin"
+score: "4.1/5  (1211 votes)"
+tags: ["arcade", "physics"]
+developer: ""
+releaseDate: 2025-08-16
 locale: ja
-urlstr: gunspin
-title: '[JA TRANSLATION NEEDED] Gunspin'
-description: >-
-  [JA TRANSLATION NEEDED] Recoil‑propulsion arcade: fire your gun to spin and
-  fly, collect ammo, and travel as far as possible through hazards.
-iframeSrc: 'https://ubg44.github.io/GunSpin/'
-thumbnail: /new-images/gunspin.jpg
-tags:
-  - arcade
-  - physics
-score: 4.1/5  (1211 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 概要
+Gunspinは、反動を移動手段に変えます。各ショットはあなたの武器/体を回転させ、前進させます。ステージには弾薬、コイン、ハザードが散らばっています。角度と発射のタイミングを管理することで、長い滑空と連続ピックアップが可能になります。アップグレードは火力と制御力を追加します。
 
+### 遊び方
+- 前方への速度を維持するために、浅い角度で発射しましょう。
+- バースト（連射）は、上方への修正やハザード回避のために取っておきましょう。
+- 自分のスタイル（拡散か精密か）に合った銃にコインを使いましょう。
 
-### Overview
-[JA TRANSLATION NEEDED] Gunspin turns recoil into movement: each shot spins and propels your weapon/body forward. Stages scatter ammo, coins, and hazards. Managing angle and shot timing yields long glides and chain pickups; upgrades add firepower and control.
+### 操作方法
+- マウス/スペースで射撃。タイミングと狙いが軌道（弾道）を決定します。
 
-### How to Play
-- Fire at shallow angles to maintain forward velocity.
-- Save bursts for upward corrections or hazard avoidance.
-- Spend coins on guns that match your style (spread vs. precise).
+### ヒント
+- 効率のためには、フルバーストよりも小さなタップの方が良いです。
+- 失速せずに前進するために、進行方向の少し後ろを狙いましょう。
+- バウンス面（跳ね返る場所）を使って軌道をリフレッシュしましょう。
 
-### Controls
-- Mouse/Space to shoot; timing and aim set trajectory.
-
-### Tips
-- Small taps > full bursts for efficiency.
-- Aim slightly behind your path to push forward without stalling.
-- Use bounce surfaces to refresh trajectory.
-
-### FAQ
-- Q: How do I keep momentum without stalling?  
-[JA TRANSLATION NEEDED]   A: Shoot with shallow backward angles and short taps.
-- Q: What upgrades help most early?  
-[JA TRANSLATION NEEDED]   A: Ammo capacity and controllable recoil.
-- Q: Is there an end to the levels?  
-[JA TRANSLATION NEEDED]   A: It’s distance‑based; aim for personal bests.
-
+### よくある質問 (FAQ)
+- **Q: 失速せずに勢いを保つには？**  
+  A: 浅い後方角度で、短くタップするように撃ちましょう。
+- **Q: 序盤に最も役立つアップグレードは？**  
+  A: 弾薬容量（Ammo capacity）と反動制御（Controllable recoil）です。
+- **Q: レベルに終わりはありますか？**  
+  A: 距離ベースのゲームです。自己ベストを目指しましょう。

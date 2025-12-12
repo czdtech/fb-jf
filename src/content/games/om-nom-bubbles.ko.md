@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: om-nom-bubbles
-title: '[KO] Om Nom Bubbles'
+title: "Om Nom Bubbles 옴놈 버블즈"
 description: >-
-  [KO] Om Nom Bubbles is a colorful bubble shooter — match colors, bank shots,
-  and clear boards with smart angles.
+  Om Nom Bubbles는 귀여운 옴놈과 함께하는 컬러 버블 슈터 게임으로, 같은 색 버블을
+  맞춰 없애고 벽을 이용한 뱅크 샷으로 보드를 정리해 나가는 퍼즐입니다.
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/om-nom-bubbles.jpg
@@ -17,29 +17,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
+*Om Nom Bubbles*는 사랑받는 캐릭터 옴놈이 등장하는 클래식 버블 슈터입니다. 화면 아래에서
+색깔 버블을 쏴 올려 같은 색 버블 세 개 이상을 맞추어 터뜨리고, 상단의 버블 덩어리를
+조각조각 떨어뜨리며 보드를 비워야 합니다. 벽을 이용한 뱅크 샷, 남은 색 관리, 다음에
+나올 버블까지 고려한 수 읽기가 천장을 낮추지 않고 버티는 핵심 요소입니다.
 
-### Detailed Game Introduction
+### 공략 & 플레이 팁
 
-Om Nom Bubbles is a classic bubble‑shooter starring the beloved Om Nom. Aim and shoot colored bubbles to make matches of three or more and clear sections of the board. Strategic banking off the walls, color management, and planning for upcoming bubbles are key to keeping the ceiling from dropping too low.
+1. **앵커 제거:** 큰 덩어리를 지탱하고 있는 연결 지점을 우선적으로 노리면, 한 번에 많은
+   버블이 떨어져 빠르게 판을 정리할 수 있습니다.
+2. **뱅크 샷 활용:** 옆 벽을 이용해 바로는 닿지 않는 구석의 버블을 맞춰 보세요. 별이나
+   목표 버블이 구석에 있을 때 특히 유용합니다.
+3. **색 관리:** 등장 빈도가 적은 색을 너무 깊숙이 묻어 두면 나중에 처리하기 어려워집니다.
+   반대로 자주 나오는 색은 큰 덩어리를 끊어 내는 데 아껴 쓰는 것도 좋습니다.
+4. **다음 버블 미리 보기:** 많은 버전에서 다음에 나올 버블 색을 미리 보여 주므로,
+   최소 두 수 앞까지 계획해 스스로의 진행을 막지 않도록 하세요.
+5. **작은 그룹 집착 금지:** 천장이 이미 많이 내려온 상황에서는 작은 덩어리보다, 통로를
+   열어 줄 큰 그룹부터 정리하는 것이 생존에 더 중요합니다.
 
-### Gameplay Strategy & Walkthrough
+### 조작 방법
 
-1.  **[KO]** Target anchors: Remove clusters that hold large sections; collapsing big groups accelerates clears.
-2.  **[KO]** Bank for angles: Use the side walls to reach tucked‑away clusters and collect star objectives efficiently.
-3.  **[KO]** Manage colors: If a color is scarce, avoid burying it deep; prioritize colors that unlock the broadest collapses.
-4.  **[KO]** Look ahead: Many versions show the next bubble—pre‑plan two moves to avoid blocking your own lanes.
-5.  **[KO]** Don’t chase tiny groups: When the ceiling is low, clear access lanes first, then finish leftovers.
+- 조준: 마우스 커서를 움직이거나 드래그해 발사 각도를 설정합니다. 일부 버전에서는 궤적
+  가이드가 표시됩니다.
+- 발사: 클릭 또는 손가락을 떼어 버블을 발사합니다.
+- 교체(지원 시): 현재 버블과 다음 버블을 서로 바꿔 쓸 수 있는 스왑 기능이 제공되기도
+  합니다.
 
-### Controls Guide
+### 자주 묻는 질문(FAQ)
 
-- Aim: Move the cursor or drag to set trajectory; a guide may show the path.
-- Shoot: Click or release to fire.
-- Swap (if available): Some versions allow swapping the current and next bubble for flexibility.
+- **Q: 가려진 구석의 버블은 어떻게 맞추나요?**  
+  **A:** 옆 벽을 이용해 공을 튕기는 뱅크 샷으로 각도를 만들어 접근하면 대부분의 구석을
+  노릴 수 있습니다.
 
-### Frequently Asked Questions (FAQ)
+- **Q: 계속 원하지 않는 색만 나와요.**  
+  **A:** 작은 그룹을 정리하거나, 나중에 큰 연쇄를 만들 수 있는 위치에 미리 쌓아 두는
+  용도로 활용하세요. 스왑 기능이 있다면 최대한 활용하는 것도 좋습니다.
 
-- How do I reach covered clusters? Bank a shot off the side wall to approach from an angle.
-- What if the wrong color keeps coming? Use it to trim small groups or set up future collapses; swap if the mode allows.
-- Do I need all stars? No, but higher ratings unlock extra levels and are a fun mastery goal.
-
+- **Q: 모든 별을 다 모아야 하나요?**  
+  **A:** 필수는 아니지만, 별을 많이 모으면 추가 레벨이 열리거나 성취감이 커지므로 도전
+  요소로 즐겨 보세요.

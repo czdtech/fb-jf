@@ -1,45 +1,49 @@
 ---
 locale: es
 urlstr: western-sniper
-title: '[ES] Western Sniper'
+title: Western Sniper - Francotirador del viejo oeste
 description: >-
-  [ES] Western Sniper is a quick‑draw shooter — steady aim, manage sway, and
-  pick priority targets across snappy missions.
-iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
-thumbnail: /new-images/western-sniper.png
+  Western Sniper es un shooter casual en el que encarnas a un pistolero del
+  salvaje oeste, apuntando con precisión para eliminar a bandidos desde la
+  distancia en escenarios llenos de coberturas y objetivos.
+iframeSrc: 'https://g3.igroutka.ru/games/164/uYZooJ3YhyE4fMF7/5/western_sniper/'
+thumbnail: /new-images/western-sniper.jpg
 tags:
-  - shooting
   - action
-score: 4.1/5  (2016 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - shooting
+  - casual
+score: 3.9/5  (1021 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Game Introduction
+
+Western Sniper es un juego de disparos sencillo y directo ambientado en el lejano oeste. Desde posiciones seguras, apuntas y disparas a forajidos que se esconden detrás de barriles, ventanas y estructuras, aprovechando rebotes y explosiones para completar cada misión con el menor número de balas posible.
+
+### Gameplay Guide
+
+- **Apunta con calma:** tómate un segundo para alinear bien la mira antes de disparar; un tiro certero suele valer más que varios fallidos.
+- **Utiliza el entorno:** dispara a barriles explosivos, cajas y superficies que permitan rebotes para alcanzar enemigos a cubierto.
+- **Gestiona las balas:** muchas misiones limitan el número de disparos, así que intenta agrupar objetivos o provocar reacciones en cadena.
+- **Prioriza amenazas:** acaba primero con los enemigos que estén más cerca o que puedan dañarte antes.
 
 
-
-### Detailed Game Introduction
-
-Western Sniper delivers short missions with bandits, explosives, and moving targets. Success means calm reticles, priority picks (rifles/throwers first), and resource care (ammo/time/bonus objectives).
-
-### Gameplay Strategy & Walkthrough
-
-1.  **[ES]** Priority: Take out ranged threats and explosives.
-2.  **[ES]** Hold breath: Time shots at sway minima for accuracy.
-3.  **[ES]** Environmental kills: Use barrels/ropes for multi‑downs.
-4.  **[ES]** Ammo discipline: Don’t spam; reset aim between shots.
-5.  **[ES]** Optional goals: Attempt only when the field is safe.
-
+- Optional goals: Attempt only when the field is safe.
 ### Controls Guide
 
-- Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
+- Apunta moviendo el ratón o el dedo sobre la pantalla y toca/clic para disparar.
 
 ### Frequently Asked Questions (FAQ)
 
-- Q: I miss moving targets.
 
-A: Lead slightly and fire at sway lows; practice pacing.
+- Q: I miss moving targets.
+**¿Hay mejoras de armas?**
+
 
 - Q: Ammo runs out.
+En algunas versiones puedes desbloquear nuevas armas o mejorar estadísticas como daño o precisión, lo que facilita superar niveles avanzados.
 
-A: Take measured shots; save bullets by using environment kills.
+**¿Qué pasa si me quedo sin balas?**
+
+Si agotas la munición disponible y aún quedan enemigos, tendrás que reiniciar la misión y probar una estrategia distinta.
 

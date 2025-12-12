@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: element-blocks
-title: '[DE] Element Blocks'
+title: Element Blocks
 description: >-
-  [DE] A strategic block puzzle game with a twist. Place elemental blocks to
-  clear lines, and collect stars to unleash powerful boosters. Plan your moves
-  carefully to master the grid!
+  Ein strategisches Blockpuzzle mit Element-Twist: Platziere Elementsteine, um
+  Reihen zu löschen, sammle Sterne und setze mächtige Booster im richtigen
+  Moment ein.
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/element-blocks.png
 tags:
@@ -16,34 +16,60 @@ score: 4.5/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Element Blocks ist ein ruhiges, aber taktisches Puzzlespiel auf Basis des
+bekannten 10x10-Blockprinzips. Du platzierst verschiedene, an Tetris erinnernde
+Formen als Elementblöcke auf einem 10x10-Gitter. Ziel ist es, vollständige
+Reihen oder Spalten zu füllen und damit vom Feld zu löschen. Das Besondere:
+Ein Sternesystem und Power-ups geben dir zusätzliche Werkzeuge, um dich aus
+engen Situationen zu befreien und deine Partie zu verlängern.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Standard-10x10-Regeln:** Du erhältst immer drei Blockformen gleichzeitig
+   und musst alle drei platzieren, bevor ein neues Set erscheint. Die Blöcke
+   lassen sich nicht drehen.
+2. **Sterne sammeln:** Manchmal erscheinen Blöcke mit eingebauten Sternen.
+   Löschst du eine Reihe oder Spalte, in der so ein Block liegt, erhältst du
+   den Stern. Sterne sind deine Währung für Power-ups.
+3. **Power-ups klug einsetzen:** Gesammelte Sterne kannst du für Bomben,
+   Linienblitze oder andere Booster ausgeben, die Teile des Feldes räumen.
+   Hebe sie dir für Situationen auf, in denen wirklich kein guter Zug mehr
+   möglich ist.
+4. **Zukünftige Formen mitdenken:** Lege einen Block nicht nur dort ab, wo er
+   gerade so hineinpasst. Behalte die beiden anderen Formen im Blick und platziere
+   den aktuellen Stein so, dass für die nächsten noch genügend Raum bleibt. Das
+   Spiel endet, wenn keiner der drei angebotenen Blöcke mehr auf das Feld passt.
+5. **Kombos maximieren:** Wenn du mit einem einzigen Stein mehrere Reihen oder
+   Spalten gleichzeitig löschst, erhältst du einen Kombobonus. Plane deine Züge
+   so, dass du solche Mehrfachlöschungen vorbereitest.
 
-Element Blocks is a calm yet strategic puzzle game that builds on the popular 10x10 block puzzle formula. Players place various Tetris-like shapes, themed as elemental blocks, onto a 10x10 grid. The goal is to fill and clear complete lines either horizontally or vertically. What sets this game apart is the addition of a star collection and power-up system, providing a strategic tool to get you out of difficult situations and extend your game.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Blöcke platzieren:** Ziehe mit Maus oder Finger einen Block aus der
+  Ablagezone unten ins Raster und lass ihn auf einem freien Bereich los.
+- **Power-ups nutzen:** Klicke ein Power-up an, sobald du genügend Sterne hast,
+  und klicke dann auf das Feld, auf das seine Wirkung angewendet werden soll.
 
-1.  **[DE]** **Standard 10x10 Rules:** You are given three block shapes at a time. You must place all three on the board before a new set appears. The blocks cannot be rotated.
-2.  **[DE]** **Collect Stars:** Occasionally, blocks will appear with stars embedded in them. When you clear a line that includes one of these special blocks, you collect the star. These stars are the currency for using power-ups.
-3.  **[DE]** **Use Power-ups Wisely:** Collected stars can be spent on powerful boosters. These might include a bomb to clear a small area, a lightning bolt to destroy a single line, or other helpful tools. Save these for when you are truly stuck and have no other good moves.
-4.  **[DE]** **Think About Future Shapes:** Don't just place a block where it fits now. Look at the other two shapes you have and try to place the current one in a way that leaves room for the others. The game ends when you can't place any of the three given shapes.
-5.  **[DE]** **Maximize Combos:** Clearing multiple lines with a single block placement is called a combo and will grant you a significant score bonus. Always be on the lookout for combo opportunities.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Wie bekomme ich Sterne?**  
+  **A:** Jedes Mal, wenn du eine Reihe oder Spalte löschst, in der sich ein
+  Sternblock befindet, wandert dieser Stern auf dein Konto.
 
-*   **[DE]** **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
-*   **[DE]** **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
+    - **F: Kann ich Blöcke drehen?**  
+  **A:** Nein, die fehlende Drehfunktion gehört zur Kernherausforderung. Du musst
+  mit den Formen so planen, wie sie dir angeboten werden.
 
-### Frequently Asked Questions (FAQ)
+- **F: Wie setze ich meine Sterne am besten ein?**  
 
-*   **[DE]** **Q: How do I get stars?**
-    *   **[DE]** **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
+    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
 
-*   **[DE]** **Q: Can I rotate the blocks?**
-    *   **[DE]** **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
+- **Q: What is the best way to use my stars?**
 
-*   **[DE]** **Q: What is the best way to use my stars?**
-    *   **[DE]** **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-
+    - **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
+  **A:** Spare Sterne lieber für Notfälle auf. Wenn das Feld fast voll ist und
+  du absehbar keinen der nächsten Steine unterbekommst, kann ein gezieltes
+  Power-up dir den entscheidenden Freiraum verschaffen, um weiterzuspielen und
+  deinen Highscore zu steigern.

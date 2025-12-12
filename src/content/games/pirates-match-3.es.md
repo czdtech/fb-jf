@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: pirates-match-3
-title: '[ES] Pirates Match 3'
+title: Pirates Match 3 - Aventura de tesoros y combinaciones
 description: >-
-  [ES] Ahoy, matey! Set sail on a puzzle adventure in Pirates Match 3. Swap
-  pirate-themed gems like skulls, anchors, and coins to make matches of three or
-  more and claim your treasure.
+  ¡Ar, marinero! Zarpa en una aventura de puzles en Pirates Match 3. Intercambia
+  gemas pirata como calaveras, anclas y monedas para formar líneas de tres o más
+  y reclamar tu botín.
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/pirates-match-3.jpg
@@ -19,37 +19,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
+Pirates Match 3 es un clásico match-3 con temática pirata. Te sumerges en un
+mundo de mapas del tesoro y botines, intercambiando coloridos iconos pirata
+como calaveras, anclas, timones y monedas. El objetivo es formar líneas de tres
+o más piezas iguales para cumplir objetivos específicos de cada nivel, como
+alcanzar cierta puntuación o limpiar casillas especiales, todo ello con un
+número limitado de movimientos.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Pirates Match 3 is a classic match-3 puzzle game with a swashbuckling pirate theme. Players dive into a world of treasure maps and pirate booty, swapping colorful, pirate-themed icons like skulls, anchors, ship wheels, and coins. The goal is to create lines of three or more identical items to complete level-specific objectives, such as reaching a target score or clearing special tiles, all within a limited number of moves.
+1.  **Crear potenciadores:** la clave para superar niveles difíciles es generar
+    piezas especiales al combinar más de tres fichas:
+    *   **Combinación de 4:** crea una pieza que limpia una fila o columna
+        entera.  
+    *   **Combinación de 5 en L o T:** genera una bomba que explota y limpia un
+        área amplia alrededor.  
+    *   **Combinación de 5 en línea:** crea un objeto especial (como un cofre
+        del tesoro) que borra todas las piezas de un color concreto.
 
-### Gameplay Strategy & Walkthrough
+2.  **Combinar potenciadores entre sí:** si puedes intercambiar dos potenciadores,
+    desencadenarás un gran combo que limpia buena parte del tablero y te acerca
+    rápidamente al objetivo.
+3.  **Centrarse en la misión:** ten siempre presente la meta del nivel. Si
+    necesitas romper tablones de madera, procura que tus combinaciones se formen
+    sobre esas casillas; si tienes que hacer caer un objeto, limpia el camino
+    bajo él.
+4.  **Planificar movimientos:** cada intercambio cuenta; busca jugadas que creen
+    cascadas o preparen futuras combinaciones de potenciadores.
 
-1.  **[ES]** **Create Power-ups:** The key to clearing difficult levels is to create special items by matching more than three pieces.
-    *   **[ES]** **Match 4:** Creates a line-clearing item that will destroy an entire row or column.
-    *   **[ES]** **Match 5 (L or T shape):** Creates a bomb that explodes and clears a large area of surrounding items.
-    *   **[ES]** **Match 5 (in a line):** Creates a special item (like a treasure chest) that can clear all items of a single color from the board.
+### Guía de controles
 
-2.  **[ES]** **Combine Power-ups:** For maximum effect, try to swap two power-ups with each other. This will trigger a massive board-clearing combo that can help you complete objectives much faster.
-3.  **[ES]** **Focus on the Objective:** Always be aware of the level's goal. If you need to break all the wooden planks in the background, focus your matches on those specific tiles. If you need to drop an item to the bottom, clear the path beneath it.
-4.  **[ES]** **Plan Your Moves:** With a limited number of moves per level, every swap counts. Look for moves that will create a cascade or set up a future power-up combination.
+El juego se maneja con controles sencillos de ratón o táctil.
 
-### Controls Guide
+*   **Intercambiar piezas:** haz clic y arrastra una pieza para cambiarla por
+    una adyacente. Solo se permite el intercambio si genera una combinación de
+    tres o más.
 
-The game is played with simple mouse or touch controls.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Swap Items:** Click and drag an item to swap it with an adjacent one. A swap is only valid if it creates a match of three or more.
+*   **P: ¿Cómo rompo tablones de madera o cadenas?**
+    *   **R:** Debes formar combinaciones sobre la casilla con tablón o incluir
+        la pieza encadenada en un match. Algunos obstáculos necesitan varios
+        impactos para desaparecer por completo.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cuál es la mejor combinación de potenciadores?**
+    *   **R:** Intercambiar dos potenciadores creados con "5 en línea" suele ser
+        lo más fuerte, porque limpia prácticamente todo el tablero. Combinar una
+        bomba con un limpiador de línea también es muy efectivo.
 
-*   **[ES]** **Q: How do I break the wooden planks or chains?**
-    *   **[ES]** **A:** You must make a match on top of the plank or include the chained item in a match. It may take more than one match to fully clear some obstacles.
-
-*   **[ES]** **Q: What is the best power-up combination?**
-    *   **[ES]** **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
-
-*   **[ES]** **Q: What happens if I run out of moves?**
-    *   **[ES]** **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
-
+*   **P: ¿Qué pasa si me quedo sin movimientos?**
+    *   **R:** Si no completas el objetivo del nivel antes de agotar los
+        movimientos, tendrás que reiniciar el nivel.

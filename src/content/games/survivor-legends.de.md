@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: survivor-legends
-title: '[DE] Survivor Legends'
-description: >-
-  [DE] Survivor Legends is a horde‑survivor — kite circles, draft synergies, and
-  mow waves with cooldown economy and positioning.
+title: "Survivor Legends"
+description: "Survivor Legends ist ein Auto-Angriff-Horde-Survivor: Du kreist Gegner aus, draftest Synergien und mähst Wellen mit guter Cooldown-Ökonomie und Positionierung nieder." 
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/survivor-legends.png
 tags:
@@ -14,31 +12,28 @@ score: 4.1/5  (2019 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Survivor Legends folgt dem bekannten Auto‑Attack‑Survivor‑Prinzip: Deine Waffen feuern automatisch, du steuerst vor allem Bewegung, Level‑Ups und Build. Du ziehst Kreise um die Gegnerhorden, sammelst XP‑Orbs ein, wählst neue Waffen und Passive und versuchst, immer dichtere Wellen zu überstehen.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Weite Kites:** Laufe in großen Ovalen oder Kreisen, damit du Zeit für Korrekturen hast und nicht in Sackgassen gerätst.
+2.  **Zielpriorität:** Schalte schnelle oder Fernkampfgegner zuerst aus – langsame Nahkämpfer kannst du besser „ziehen“.
+3.  **Synergien draften:** Kombiniere etwa Durchschlag mit Rückstoß, Verlangsamung mit Krit oder Auren mit Lebensregeneration/Schutz.
+4.  **Ökonomie zuerst:** Früh in Pickup‑Radius und XP‑Boost investieren, damit du schneller levelst und mehr Auswahl beim Draft hast.
+5.  **Aktivskills aufheben:** Nutze Ultimates/aktive Skills für Wellen-Spikes, Eliten oder Bossphasen, nicht für kleine Gruppen.
 
-Survivor Legends follows the auto‑attack survivor formula: move to kite, level to draft weapons/passives, and survive crescendos. Builds hinge on damage schedules (DPS vs burst), crowd control, and pickup radius for XP economy.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Bewegen:** `WASD` oder Pfeiltasten
+- **Aktive Fähigkeiten:** Zifferntasten (abhängig vom Build)
+- Pause über die UI.
 
-1.  **[DE]** Wide kites: Large loops give correction time; avoid tight corners.
-2.  **[DE]** Priority: Kill fast/ranged first; slow melee later.
-3.  **[DE]** Draft synergies: Pair pierce with knockback, slow with crit, or aura with sustain.
-4.  **[DE]** Economy: Invest in pickup radius/XP early to accelerate drafts.
-5.  **[DE]** Ult windows: Save actives for wave spikes and elite packs.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Ich werde immer in die Ecke gedrängt.**  
+  Versuche, rechtzeitig in die Bildschirmmitte zurückzuschwenken und dich durch noch dünne Gegnerstellen durchzudrücken, statt zu spät zu wenden.
 
-- Move: WASD/Arrows; actives on number keys; pause via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: I get cornered.
-
-A: Re‑route to midmap and dash through thin gaps early.
-
-- Q: Which upgrades first?
-
-A: Pickup radius/XP, then core damage and survivability.
+- **Was zuerst upgraden?**  
+  Oft sind Pickup‑Radius/XP‑Bonus, dann Kernschaden und Überlebenswerte (HP, Rüstung) ein guter Start.

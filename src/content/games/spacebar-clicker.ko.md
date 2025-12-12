@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: spacebar-clicker
-title: '[KO] Spacebar Clicker'
+title: 'Spacebar Clicker 스페이스바 클릭커'
 description: >-
-  [KO] Test your clicking speed with Spacebar Clicker, an addictive incremental
-  game. Press the spacebar to earn points and use them to buy powerful upgrades.
-  Automate your clicks and multiply your earnings to see how high you can score
-  in this simple yet engaging clicker game.
+  Spacebar Clicker는 스페이스바를 눌러 점수를 모으고, 그 점수로 업그레이드를
+  구매하며 성장하는 중독성 강한 인크리멘탈 클릭커 게임입니다. 자동 클릭과
+  배수 효과를 활용해 얼마나 높은 점수를 만들 수 있는지 도전해 보세요.
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/spacebar-clicker.jpg
 tags:
@@ -19,30 +18,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Spacebar Clicker is a simple yet highly addictive incremental game centered around a single action: pressing the spacebar. The primary goal is to accumulate points by clicking, and then use those points to purchase upgrades. These upgrades enhance your clicking power or automate the process, creating a satisfying loop of progression where your numbers grow exponentially.
+Spacebar Clicker는 하나의 동작, 즉 스페이스바를 누르는 행위에 모든 것이
+집중된 간단하지만 매우 중독적인 인크리멘탈 게임입니다. 스페이스바를 눌러
+점수를 모으고, 그 점수로 상점에서 업그레이드를 구매해 클릭 당 획득량을
+늘리거나 자동으로 점수를 벌어 주는 기능을 여는 것이 핵심입니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-Start by repeatedly pressing the spacebar to generate your first points. As you earn more, invest in upgrades from the shop. These upgrades might include auto-clickers that generate points for you over time, or multipliers that increase the points you get for each manual press. The key is to balance manual clicking with purchasing the right upgrades to maximize your points-per-second.
+처음에는 직접 스페이스바를 연타하며 첫 점수들을 모읍니다. 어느 정도 쌓이면
+상점에서 업그레이드를 구입해 보세요. 일정 시간마다 자동으로 점수를 모아 주는
+오토 클릭커나, 한 번 클릭할 때 얻는 점수를 늘려 주는 배수 업그레이드 등이
+대표적입니다. 손으로 직접 누르는 클릭과 업그레이드 구매에 쓰는 점수 사이의
+균형을 잘 맞춰서 초당 점수 획득량을 최대화하는 것이 중요합니다.
 
-### Controls Guide
+### 조작 방법 안내
 
-- **Main Action:** `Spacebar` - Press to generate points.
-- **Upgrades:** `Mouse Click` - Use your mouse to purchase upgrades from the in-game menu.
+- **주요 동작:** `스페이스바` - 누를 때마다 점수가 증가합니다.
+- **업그레이드 구매:** `마우스 클릭` - 게임 내 상점 메뉴에서 원하는
+  업그레이드를 선택해 구입합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-**What is the point of a Spacebar Clicker?**
+**Q. Spacebar Clicker는 어떤 용도의 게임인가요?**
 
-The game serves multiple purposes: it's a fun way to pass the time, a tool to test and improve your "clicks per second" (CPS) speed, and a satisfying game of watching numbers get bigger through strategic upgrades.
+이 게임은 시간을 보내기 위한 간단한 미니게임이자, 자신의 초당 클릭 수(CPS)를
+테스트하고 연습하는 도구가 될 수 있습니다. 동시에, 업그레이드를 통해 숫자가
+기하급수적으로 커지는 과정을 보는 재미를 주는 인크리멘탈 게임이기도 합니다.
 
-**Is there an end to the game?**
+**Q. 이 게임에는 끝이 있나요?**
 
-Most clicker games, including Spacebar Clicker, are designed to be endless. The goal is typically to reach new high scores or unlock all available upgrades rather than reaching a specific "end."
+대부분의 클릭커 게임과 마찬가지로, Spacebar Clicker 역시 정해진 엔딩 없이
+계속 진행됩니다. 더 높은 점수를 노리거나, 모든 업그레이드를 해금하는 것을
+개인적인 목표로 삼고 플레이하게 됩니다.
 
-**What's the best strategy?**
+**Q. 가장 좋은 전략은 무엇인가요?**
 
-In the beginning, focus on manual clicking to afford your first few upgrades. Prioritize upgrades that provide passive, automatic income. Once you have a steady stream of points, you can invest in more expensive upgrades that multiply your overall earnings.
-
+초반에는 직접 스페이스바를 빠르게 눌러 첫 업그레이드를 살 수 있을 만큼 점수를
+모으는 것이 중요합니다. 이후에는 자동으로 점수를 벌어 주는 업그레이드를
+우선적으로 확보해 안정적인 수입을 만든 뒤, 전체 수익을 크게 늘려 주는
+고급 배수 업그레이드에 투자하는 것이 효율적입니다.

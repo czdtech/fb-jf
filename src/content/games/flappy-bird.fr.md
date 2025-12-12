@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: flappy-bird
-title: '[FR] Flappy Bird'
-description: >-
-  [FR] Tap‑to‑flap endless runner: guide the bird through pipe gaps to increase
-  your score without touching obstacles.
+title: "Flappy Bird"
+description: "Runner infini à tapotements : fais battre les ailes de l’oiseau pour le guider entre les tuyaux et augmenter ton score sans toucher les obstacles."
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/flappy-bird.jpg
 tags:
@@ -15,30 +13,37 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Flappy Bird est un défi arcade à un seul bouton : chaque tapotement fait monter l’oiseau, et le laisser sans action le fait redescendre. À chaque fois que tu passes proprement entre deux tuyaux, tu marques un point. Le principe est simple, mais le timing est impitoyable.
 
+### Comment jouer
 
-### Overview
-Single‑tap arcade challenge: each flap lifts the bird; release to descend. Passing a pipe pair earns one point.
+- Garde un rythme régulier de petits tapotements pour maintenir une trajectoire stable.
+- Ajuste rapidement après chaque passage de tuyau pour te replacer pour le suivant.
+- Évite de taper quand tu es déjà trop près du bord supérieur : laisse toujours un peu de marge pour corriger.
 
-### How to Play
-- Keep a steady rhythm of short taps; adjust quickly after each gap.
-- Avoid tapping near the top lip; give space for recovery.
-- Focus on the next gap, not the current one.
+### Commandes
 
-### Controls
-- Mouse/Touch/Space: tap to flap.
+- Souris / écran tactile / barre d’espace : tapote pour faire battre les ailes de l’oiseau.
 
-### Tips
-- Use tiny taps for micro‑corrections; big taps only for emergencies.
-- Don’t chase lost runs—reset if your rhythm breaks.
-- Disable distractions; latency affects timing.
+### Astuces
 
-### FAQ
-- Q: Why does the bird hit the top after a flap?
-A: Taps are too strong or too frequent; use lighter, spaced taps.
-- Q: Is there an end to the game?
-A: No, it is an endless score chase.
-- Q: Does the speed change over time?
-A: Most versions keep constant speed and difficulty.
+- Utilise de très légers taps pour les micro‑ajustements ; garde les longues pressions pour les situations d’urgence.
+- Ne t’acharne pas sur un run raté : si ton rythme est cassé, accepte la défaite et relance une partie propre.
+- Réduis les distractions visuelles et sonores ; la latence et les distractions nuisent beaucoup au timing.
+
+### Foire aux questions (FAQ)
+
+- Q : Pourquoi l’oiseau tape‑t‑il souvent le haut de l’écran après un saut ?
+  
+  R : Tu appuies trop fort ou trop souvent. Essaie des tapotements plus courts et plus espacés.
+
+- Q : Le jeu a‑t‑il une fin ?
+  
+  R : Non, c’est un runner infini basé sur le meilleur score. Tu joues pour battre ton record ou celui des autres.
+
+- Q : La vitesse augmente‑t‑elle au fil du temps ?
+  
+  R : Dans la plupart des versions, la vitesse et la difficulté restent constantes, le défi venant surtout de ta régularité.
 

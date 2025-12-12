@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: jurassic-run
-title: '[FR] Jurassic Run'
+title: Jurassic Run
 description: >-
-  [FR] Jurassic Run is a dino‑dash runner — evade hazards, swap lanes, and
-  sprint for high scores.
+  Jurassic Run est un runner parmi les dinosaures : évite les obstacles, change
+  de voie et sprinte pour battre tes records.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/jurassic-run.png
 tags:
@@ -15,28 +15,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation détaillée
 
+Jurassic Run est un runner infini rapide dans un décor de jungle et de dinosaures. Lis la piste à l’avance, change de voie ou saute/glisse pour éviter les pièges et récupère des pièces au fur et à mesure que la vitesse augmente.
 
-### Detailed Game Introduction
+### Stratégies de jeu
 
-Jurassic Run is a fast endless runner set among dinosaurs and jungle obstacles. Read the track ahead, switch lanes or jump/slide to avoid hazards, and chain coin pickups as speed increases.
+1.  Regarde loin devant pour préparer tes changements de voie.  
+2.  Ignore les pièces risquées quand les passages sont trop serrés : mieux vaut une run plus longue qu’un crash pour une pièce.  
+3.  Mémorise les sets d’obstacles qui se répètent pour te placer à l’avance.  
+4.  À haute vitesse, privilégie de petits ajustements nets plutôt que de grands mouvements brusques.  
+5.  Garde boucliers / aimants pour les sections très chargées, si le jeu en propose.
 
-### Gameplay Strategy & Walkthrough
+### Commandes
 
-1.  **[FR]** Look far ahead to plan early lane changes.
-2.  **[FR]** Skip risky coins when gaps are tight; safety keeps runs alive.
-3.  **[FR]** Memorize repeating obstacle sets to pre‑position.
-4.  **[FR]** Make small, crisp inputs at higher speeds.
-5.  **[FR]** Save shields/magnets for dense stretches if available.
+- **Déplacement** : `A` / `D` ou flèches gauche/droite ; saut/glissade avec `Espace` / flèche haut et flèche bas.  
+- Pause / Retry via les boutons à l’écran.
 
-### Controls Guide
+### FAQ
 
-- Move: A/D or Left/Right; jump/slide with Space/Up and Down.
-- Pause/Retry via on‑screen UI.
+- **Q : Je me fais toujours accrocher par les obstacles, pourquoi ?**  
+  R : Tu sautes généralement trop tôt ; décale légèrement ton timing et évite de trop sur‑corriger ta trajectoire.
 
-### Frequently Asked Questions (FAQ)
+- **Q : Le jeu a‑t‑il une fin ?**  
 
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
-- Is there an end? Usually endless—chase personal bests.
 - Power‑ups? Many versions include shields, magnets, or slow‑mo.
+  R : La plupart des versions sont infinies : tu joues pour battre ton record de distance/score.
 

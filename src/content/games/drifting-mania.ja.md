@@ -1,62 +1,41 @@
 ---
+title: "Drifting Mania ドリフティング・マニア"
+description: "「Drifting Mania」は見下ろし型視点のドリフトゲーム。繊細なアクセルワークと完璧なライン取りで、コーナーを華麗にクリアしよう。"
+iframeSrc: "https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/"
+thumbnail: "/new-images/drifting-mania.png"
+urlstr: "drifting-mania"
+score: "3.8/5  (1640 votes)"
+tags: ["car", "driving"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: drifting-mania
-title: '[JA TRANSLATION NEEDED] Drifting mania'
-description: >-
-  [JA TRANSLATION NEEDED] Drifting mania tests top‑down drift control — feather
-  throttle, link slides, and master corner rhythm.
-iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
-thumbnail: /new-images/drifting-mania.png
-tags:
-  - car
-  - driving
-score: 3.8/5  (1640 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Drifting Mania（ドリフティング・マニア）*は、トップダウン（上空）視点の軽量ドリフトゲームです。スリップアングルを制御し、アクセルを調整し、コーナーをきれいに立ち上がってラップタイムを縮めましょう。シンプルながら奥深い操作性が特徴です。
 
-[JA TRANSLATION NEEDED] Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle pulses, and tidy exits to chain corners and set clean lap times.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **スローイン・ファストアウト:** コーナーへは十分に減速して入り、立ち上がりで加速することで勢いを維持できます。
+2.  **アクセル制御:** ドリフト中はアクセルをベタ踏みせず、小刻みに調整してスライドをコントロールしましょう。
+3.  **ライン取り:** 出口のラインを意識してコーナーに進入することで、複数のコーナーをスムーズに繋げられます。
+4.  **リカバリー:** 回りすぎ（オーバーステア）だと感じたら、早めに修正舵を当てましょう。
+5.  **反復練習:** コースレイアウトを覚え、どこでブレーキを踏むべきかを体に叩き込みましょう。
 
-[JA TRANSLATION NEEDED] 1.  Enter slow, exit fast to keep momentum.
-[JA TRANSLATION NEEDED] 2.  Feather throttle for controlled slides.
-[JA TRANSLATION NEEDED] 3.  Link corners by planning exit lines.
-[JA TRANSLATION NEEDED] 4.  Recover early if over‑rotated.
-[JA TRANSLATION NEEDED] 5.  Drill layouts for consistent braking points.
+### 操作ガイド
 
-### Controls Guide
+*   **ステアリング:** A/D キー または 左右矢印キー
+*   **アクセル/ブレーキ:** W/S キー または 上下矢印キー
+*   **ハンドブレーキ:** スペースキー（急旋回用）
 
-- Steer: A/D or Left/Right; Throttle/Brake: W/S or Up/Down.
-- Handbrake (if any): Space for rotation.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: すぐにスピンしてしまいます。**
+    *   **A:** アクセルを開けすぎています。少し緩めて、カウンターステア（逆ハンドル）を早めに当ててみてください。
 
-- Spinning out? Reduce throttle and counter‑steer sooner.
-- Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
-- Best times? Clean lines beat reckless speed.
+*   **Q: 車のアップグレードはできますか？**
+    *   **A:** バージョンによっては新しい車のアンロックが可能ですが、まずは基本操作をマスターして安定して走れるようになることが先決です。
 
-
-
-
-
-
-
-
-
-- Best times? Clean lines beat reckless speed.
-- Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
-- Spinning out? Reduce throttle and counter‑steer sooner.
-### よくある質問（FAQ）
-- Handbrake (if any): Space for rotation.
-- Steer: A/D or Left/Right; Throttle/Brake: W/S or Up/Down.
-### コントロールガイド
-
-
-
-
-- Best times? Clean lines beat reckless speed.
-- Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
-- Spinning out? Reduce throttle and counter‑steer sooner.
+*   **Q: タイムが縮まりません。**
+    *   **A:** 無謀なスピードよりも、丁寧で美しいライン取りの方が結果的に速いタイムが出ます。

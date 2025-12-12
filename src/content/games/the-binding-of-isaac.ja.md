@@ -1,54 +1,49 @@
 ---
-locale: ja
-urlstr: the-binding-of-isaac
-title: '[JA TRANSLATION NEEDED] The Binding of Isaac'
-description: >-
-  [JA TRANSLATION NEEDED] Descend into the basement in The Binding of Isaac, a
-  dark and challenging roguelike action-RPG. Battle grotesque creatures, collect
-  bizarre power-ups, and explore procedurally generated dungeons. Each run is
-  unique, offering endless replayability as you uncover the secrets of Isaac's
-  twisted world.
-iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
+title: The Binding of Isaac
+description: The Binding of Isaacは、ローグライクダンジョンクローラーゲームです。ランダムに生成される部屋を探索して生き残りましょう。
+iframeSrc: 'https://ubg98.github.io/TheBindingOfIsaac/'
 thumbnail: /new-images/the-binding-of-isaac.jpg
+urlstr: the-binding-of-isaac
+score: 4.6/5  (4892 votes)
 tags:
   - roguelike
-  - action-RPG
-  - indie
-score: 4.1/5  (186 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - dungeon
+  - adventure
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] The Binding of Isaac is a critically acclaimed roguelike action-RPG with twin-stick shooter elements. Players control Isaac, a young boy who flees into his monster-filled basement to escape his religiously zealous mother. The game features procedurally generated dungeons, a vast array of bizarre items and power-ups, and a dark, unsettling atmosphere.
+The Binding of Isaacは、ランダムに生成されるダンジョンを探索するローグライクアクションゲームです。アイテムを集め、敵と戦い、深い地下室を生き残りましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] Each run through the basement is unique. You navigate room by room, battling enemies by shooting tears, collecting items, and defeating bosses.
-- **Exploration:** Clear rooms of enemies to unlock doors and progress deeper into the basement.
-- **Item Synergy:** Discover and combine hundreds of passive and active items that drastically alter your abilities and appearance, leading to wildly different runs.
-- **Boss Fights:** Each floor culminates in a boss fight, testing your combat skills and item synergies.
-- **Death is Permanent:** If you die, you start over from the beginning, but with knowledge gained and new items potentially unlocked for future runs.
 
-### Controls Guide
+Each run through the basement is unique. You navigate room by room, battling enemies by shooting tears, collecting items, and defeating bosses.
+ - **探索：** ランダムに生成される部屋を探索します
+ - **戦闘：** 様々なモンスターと戦います
+ - **アイテム収集：** パワーアップとアイテムを集めます
+ - **生き残る：** できるだけ深くまで進みます
 
-- **Movement:** `WASD` keys
-- **Shoot Tears:** `Arrow Keys` (or mouse for aiming in some versions)
-- **Use Activated Item:** `Spacebar`
-- **Place Bomb:** `Shift` or `E`
+### 操作ガイド
+
+ - **WASD：** 移動
+ - **矢印キー：** 射撃方向
+ - **スペースバー：** アイテム使用
+ - **E：** ボム設置
+
+
 - **Use Card/Pill:** `Q`
+### よくある質問（FAQ）
 
-### Frequently Asked Questions (FAQ)
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] **What is a roguelike game?**
+ダンジョンの最深部まで進み、ボスを倒すことです。
 
-[JA TRANSLATION NEEDED] A roguelike is a subgenre of RPGs characterized by procedurally generated levels, turn-based gameplay (though Isaac is real-time), tile-based graphics (Isaac is top-down 2D), and permanent death, meaning when your character dies, you lose all progress and start a new game.
+**死んだらどうなりますか？**
 
-[JA TRANSLATION NEEDED] **How do I unlock new characters and items?**
+ローグライクなので、死ぬと最初からやり直しですが、アイテムはランダムです。
 
-[JA TRANSLATION NEEDED] New characters, items, and challenges are unlocked by completing specific achievements, defeating bosses, or reaching certain milestones within the game.
+**どれくらいの長さですか？**
 
-[JA TRANSLATION NEEDED] **Is the game difficult?**
-
-[JA TRANSLATION NEEDED] Yes, The Binding of Isaac is known for its high difficulty and steep learning curve. Success often depends on understanding item synergies and enemy patterns, as well as a bit of luck with item drops.
-
+各プレイスルーは異なりますが、通常は30分から1時間程度です。

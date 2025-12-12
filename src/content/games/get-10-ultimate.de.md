@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: get-10-ultimate
-title: '[DE] Get 10 Ultimate'
+title: Get 10 Ultimate
 description: >-
-  [DE] A challenging number puzzle! Tap on adjacent, identical numbers to merge
-  them into a higher number. Can you make it to 10 and beyond?
+  Anspruchsvolles Zahlenpuzzle: Tippe auf benachbarte, gleiche Zahlen, um sie zu
+  einer höheren Ziffer zu verschmelzen. Schaffst du die 10 – und noch mehr?
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/get-10-ultimate.png
 tags:
@@ -15,34 +15,53 @@ score: 4.4/5  (2400 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Get 10 Ultimate ist ein simples, aber tiefgehendes Zahlenpuzzle. Das Feld ist
+mit nummerierten Kacheln gefüllt, und dein Ziel ist es, sie zu immer höheren
+Zahlen zu kombinieren. Tippe auf eine Gruppe aus mindestens zwei benachbarten,
+identischen Zahlen – die gesamte Gruppe verschmilzt dann zu einer neuen Kachel
+mit dem um 1 erhöhten Wert. Zuerst versuchst du, eine 10 zu erreichen, doch der
+wahre Reiz liegt darin, wie weit du darüber hinauskommst.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Vor dem Tippen nachdenken:** Jeder Merge verändert das Boardlayout. Bevor
+   du eine Gruppe kombinierst, überlege, wie darüberliegende Kacheln fallen und
+   welche neuen Gruppen dabei entstehen können.
+2. **Große Gruppen formen:** Du kannst zwar auch Zweiergruppen verschmelzen,
+   effizienter sind aber große Cluster. Versuche, gleiche Zahlen erst zu
+   sammeln und dann in einem Zug zusammenzuführen.
+3. **Hohe Zahlen nicht isolieren:** Achte darauf, hohe Werte nicht einzeln und
+   von vielen unterschiedlichen kleinen Zahlen umgeben stehen zu lassen – so
+   wird es schwer, sie später noch einmal zu kombinieren.
+4. **Von unten arbeiten:** Kombinationen in den unteren Reihen lassen viele
+   Kacheln nachrutschen und erhöhen die Chance auf neue, ungeplante Gruppen.
 
-Get 10 Ultimate is a simple yet deeply strategic number puzzle game. The board is filled with numbered tiles, and your goal is to combine them to create higher numbers. You do this by tapping on a group of two or more adjacent, identical numbers. This merges the entire group into a single new tile with a value that is one higher. The initial challenge is to reach the number 10, but the ultimate goal is to continue merging for as long as possible to achieve the highest number and score.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Zahlen zusammenführen:** Tippe/klicke auf eine Gruppe aus zwei oder mehr
+  benachbarten Kacheln mit derselben Zahl. Die neue, höhere Zahl erscheint
 
-1.  **[DE]** **Think Before You Tap:** Every tap changes the layout of the board. Before you merge a group, consider how the tiles above will fall and what new groups might form. A good move can set up an even better move.
-2.  **[DE]** **Create Large Groups:** While you can merge a group of just two tiles, it's much more efficient to create and merge larger groups. Try to maneuver tiles so that you have big clusters of the same number next to each other before you tap.
-3.  **[DE]** **Don't Isolate High Numbers:** Be careful not to create a single high number that is surrounded by many different, lower numbers. This can make it very difficult to create another high number to merge it with, effectively blocking a large part of your board.
-4.  **[DE]** **Work from the Bottom:** Making matches near the bottom of the board will cause the most tiles to shift, increasing the chances of creating new, unplanned matches as tiles fall into place.
+- **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
+  genau an der Stelle, auf die du getippt hast.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-The game is played with a single click or tap.
+- **F: Was ist das eigentliche Ziel?**  
+  **A:** Zunächst die 10 zu bilden – danach so weit wie möglich höhere Zahlen zu
+  erreichen, bevor das Board blockiert.
 
-*   **[DE]** **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
+    - **F: Wann ist das Spiel vorbei?**  
+  **A:** Wenn es nirgendwo mehr zwei benachbarte Kacheln mit derselben Zahl
+  gibt und somit kein Zug mehr möglich ist.
 
-### Frequently Asked Questions (FAQ)
+- **F: Entsteht die neue Kachel zufällig?**  
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** The first goal is to successfully create a '10' tile. After that, the goal is to continue merging to the highest number and score you can before the board gets locked.
+    - **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
 
-*   **[DE]** **Q: How does the game end?**
-    *   **[DE]** **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
+- **Q: Does the new tile appear in a random spot?**
 
-*   **[DE]** **Q: Does the new tile appear in a random spot?**
-    *   **[DE]** **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
-
+    - **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
+  **A:** Nein, sie erscheint immer genau auf dem Feld, das du innerhalb der
+  Gruppe angeklickt hast.

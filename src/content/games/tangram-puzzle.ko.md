@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: tangram-puzzle
-title: '[KO] Tangram Puzzle'
+title: 'Tangram Puzzle 탱그램 퍼즐'
 description: >-
-  [KO] Tangram Puzzle is a classic dissection challenge — fit seven tans to fill
-  silhouettes with rotation‑only logic and spatial insight.
+  Tangram Puzzle은 일곱 개의 기하학 조각을 회전시켜 실루엣을 정확히 채우는
+  고전 칠교 퍼즐 게임입니다. 겹치거나 빈틈 없이 배치해 공간 감각을
+  시험해 보세요.
 iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
 thumbnail: /new-images/tangram-puzzle.jpg
 tags:
@@ -16,30 +17,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Tangram Puzzle은 일곱 개의 기하학 조각(탠)을 사용해, 제시된 실루엣을
+빈틈 없이 채우는 칠교 퍼즐 게임입니다. 조각끼리 겹치면 안 되고, 틈도 남으면
+안 됩니다. 회전은 가능하지만, 모드에 따라 뒤집기(반전)는 금지되는 경우도
+있습니다. 실루엣의 오목·볼록한 모양과 꼭짓점 각도를 잘 읽어내는 것이
+핵심입니다.
 
-Tangram Puzzle asks you to arrange seven geometric pieces (tans) to exactly fill a silhouette. No overlaps or gaps; rotations allowed, reflections sometimes banned depending on mode. Recognizing convex/concave pockets and matching corner angles is the key skill.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **코너부터 맞추기:**
+    큰 삼각형의 모서리를 실루엣의 뚜렷한 꼭짓점에 먼저 맞춰 두면, 나머지
+    조각 배치가 훨씬 쉬워집니다.
+2.  **대칭성 활용:**
+    실루엣이 좌우 또는 상하 대칭이라면, 한쪽 절반만 먼저 맞춘 뒤 반대쪽을
+    거울처럼 따라 만드는 전략이 유효합니다.
+3.  **틈새 메우기:**
+    정사각형이나 평행사변형 조각은 좁고 긴 빈틈을 메우는 데 자주 쓰입니다.
+    작은 삼각형은 마지막 남은 작은 구석을 채우는 용도로 아껴 두는 것도
+    좋습니다.
+4.  **큰 조각부터 배치:**
+    먼저 큰 삼각형 둘과 중간 크기 조각들로 전체 윤곽을 잡고, 이후 남은
+    빈 공간을 작은 삼각형과 정사각형으로 채우면 시행착오가 줄어듭니다.
+5.  **반전 규칙 확인:**
+    어떤 모드에서는 조각을 뒤집을 수 없으므로, 회전만으로 뒤집기를
+    흉내 내야 합니다. 규칙을 미리 확인하고 계획을 세워 보세요.
 
-1.  **[KO]** Corner matching: Seat large triangle corners into silhouette vertices first.
-2.  **[KO]** Symmetry read: Split symmetric silhouettes and mirror your half‑solution.
-3.  **[KO]** Pocket fills: Use square/parallelogram for tight cavities.
-4.  **[KO]** Order of play: Rough‑in with big pieces, then lock gaps with small triangles.
-5.  **[KO]** Reflection rules: If reflections are banned, rotate alternatives to simulate flips.
+### 조작 방법 안내
 
-### Controls Guide
+- 마우스나 터치로 조각을 드래그해 이동합니다.
+- 지정된 제스처나 버튼으로 회전/뒤집기(허용되는 경우)를 할 수 있습니다.
+- 올바른 위치에 두면 스냅 기능으로 제자리에 "착" 하고 붙는 경우도 있습니다.
 
-- Drag/rotate pieces; flip if allowed; snap assists on correct placement.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+- **Q: 항상 마지막에 조그만 틈이 남아요. 버그인가요?**
 
-- Q: One gap remains no matter what.
+  A: 대부분은 초반에 큰 삼각형을 잘못 배치해 각도가 약간 틀어져 있기
+  때문입니다. 큰 조각 하나를 다시 빼서 다른 꼭짓점에 맞춰 보고, 남는
+  공간을 재조정해 보세요.
 
-A: Your early placements are off by a corner; reseat a big triangle and re‑fit.
+- **Q: 뒤집기가 안 되는 것 같은데요?**
 
-- Q: Are flips legal?
-
-A: Some modes disallow flips; rely on rotations.
-
+  A: 일부 모드에서는 뒤집기가 금지되어 있습니다. 이 경우, 여러 번 회전해
+  같은 효과를 낼 수 있는 배치를 찾아야 합니다.

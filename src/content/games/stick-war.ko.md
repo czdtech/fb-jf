@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: stick-war
-title: '[KO] Stick War'
+title: 'Stick War 스틱 워'
 description: >-
-  [KO] Lead your stickman army to victory in Stick War, a classic real-time
-  strategy game. Mine for gold, train a variety of units like swordsmen,
-  archers, and giants, and command them in battle. Destroy the enemy statue
-  while defending your own to conquer the land of Inamorta.
+  Stick War는 웹에서 큰 인기를 끈 실시간 전략 게임으로, Inamorta 세계에서
+  "오더(Order)" 국가를 이끌어 금을 캐고 군대를 키워 적의 동상을 파괴하는
+  것이 목표입니다.
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/stick-war.jpg
 tags:
@@ -19,34 +18,53 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-Stick War is one of the most popular and highly-rated web games of all time. It is a real-time strategy game where you take command of the "Order" nation. In a world called Inamorta, where nations are devoted to their individual technologies, you must build a powerful army, destroy the enemy's statue, and conquer all territories.
+Stick War는 스틱맨 웹 게임 가운데 가장 유명한 작품 중 하나로, 실시간 전략
+형식으로 진행됩니다. 플레이어는 "오더(Order)" 국가의 지휘관이 되어, 각국이
+자신만의 기술에 집착하는 세계 Inamorta에서 군대를 키우고 적의 동상을 파괴해
+영토를 정복해야 합니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-The core of the game revolves around managing resources and commanding your army.
-- **Economy:** You must train Miners to gather gold, which is the resource used to create units and purchase upgrades.
-- **Army Building:** Train a variety of units, including basic Swordwrath, ranged Archidons, tank-like Speartons, powerful Giants, and spell-casting Magikill.
-- **Combat:** You can command your army to attack or defend. A key feature is the ability to take direct control of any unit, significantly boosting its power and allowing for precise maneuvers. The ultimate goal is to destroy the enemy statue on the far side of the map.
+게임의 핵심은 자원 관리와 병력 지휘입니다.
 
-### Controls Guide
+- **경제:**
+  금을 캐는 광부(Miner)를 훈련해 자원을 확보해야 합니다. 이 금으로 유닛을
+  생산하고 업그레이드를 구매합니다.
+- **군대 구성:**
+  기본 근접 유닛인 Swordwrath, 원거리 공격을 담당하는 Archidon, 방패와 방어에
+  특화된 Spearton, 거대한 Giants, 마법을 쓰는 Magikill 등 다양한 유닛을
+  조합해 군대를 편성합니다.
+- **전투:**
+  군대를 공격 또는 수비 태세로 전환할 수 있으며, 특정 유닛 하나를 직접
+  조종해 전투력을 크게 끌어올릴 수도 있습니다. 최종 목표는 맵 반대편에 있는
+  적의 동상을 파괴하는 것입니다.
 
-- **Mouse:** Used to select units, click buttons to train soldiers, and direct your army.
-- **Movement (when controlling a unit):** `A` and `D` keys.
-- **Attack (when controlling a unit):** `Spacebar`.
+### 조작 방법 안내
 
-### Frequently Asked Questions (FAQ)
+- **마우스:** 유닛 선택, 병사 훈련 버튼 클릭, 이동/공격 지시 등 전반적인
+  지휘에 사용됩니다.
+- **이동(유닛 직접 조종 시):** `A`, `D` 키
+- **공격(유닛 직접 조종 시):** `Spacebar`
 
-**What is the best starting strategy?**
+### 자주 묻는 질문(FAQ)
 
-A common and effective strategy is to immediately build a few Miners to establish a strong gold income. Then, train a single Swordwrath, take control of it, and use it to defend against the first wave of enemies while your economy grows.
+**Q. 초반에는 어떻게 시작하는 게 좋나요?**
 
-**Which units should I use?**
+보통 게임이 시작되면 곧바로 광부를 몇 명 더 생산해 안정적인 금 수입을
+만드는 것이 좋습니다. 이후 Swordwrath 한 명을 훈련해 직접 조종하며 초반 적
+공격을 버티는 동안, 뒤에서 경제를 키워 나가면 안정적인 출발을 할 수 있습니다.
 
-A balanced army is key. Speartons are excellent for defense and absorbing arrow fire, while Archidons deal high damage from a distance. Swordwrath are cheap and good against archers. Magikill and Giants are powerful late-game units that can turn the tide of a major battle.
+**Q. 어떤 유닛 조합이 좋나요?**
 
-**What should I upgrade first?**
+균형 잡힌 군대가 중요합니다. Spearton은 방패로 화살을 막고 전열을 지키는 데
+탁월하며, Archidon은 후방에서 높은 화력을 제공합니다. Swordwrath는 저렴해
+원거리 유닛을 압박하기 좋고, Magikill과 Giants는 후반부 전투의 흐름을 뒤집을
+만큼 강력한 유닛입니다.
 
-It is highly recommended to spend your first upgrade points on your Miners' bags and your statue's income to accelerate your economy. After that, focus on upgrading the units you use most often.
+**Q. 무엇을 먼저 업그레이드해야 하나요?**
 
+처음에는 광부 가방과 동상에서 나오는 추가 수입 등 **경제 관련 업그레이드**에
+투자하는 것이 좋습니다. 이후 자주 사용하는 유닛의 공격력·방어력 순으로
+강화해 나가면 효율적입니다.

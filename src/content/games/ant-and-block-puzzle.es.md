@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: ant-and-block-puzzle
-title: '[ES] Ant and block puzzle'
+title: "Ant and Block Puzzle puzle de bloques"
 description: >-
-  [ES] Ant and block puzzle is a neat block‑fitter — place shapes, fill rows,
-  and avoid dead zones.
+  Ant and Block Puzzle es un puzle relajado de colocar piezas. Encaja los
+  bloques, completa filas o áreas para despejar espacio y evita quedarte sin
+  movimientos gracias a un buen encajado.
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
 thumbnail: /new-images/ant-and-block-puzzle.png
 tags:
@@ -15,27 +16,44 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Ant and Block Puzzle es un desafío casual de colocación de formas. Recibes
+bloques con distintas siluetas y debes encajarlos en el tablero, completando
+filas o zonas para liberar espacio y evitando que el tablero se llene.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Ant and block puzzle is a casual shape‑placement challenge. Fit given blocks into a board, complete rows/areas to clear space, and stave off top‑outs with efficient packing.
+1.  **Reserva las esquinas para piezas en L o T:** Estas formas encajan muy bien
+    en rincones si los planeas desde el principio.
+2.  **Deja huecos flexibles para piezas pequeñas:** Evita rellenar todo con
+    grandes bloques; conserva huecos típicos para poder colocar piezas de tamaño
+    reducido.
+3.  **No construyas "pozos" altos y estrechos sin tener la pieza adecuada:** Si
+    creas columnas muy profundas que solo admite una forma concreta, puedes
+    bloquear la partida si esa pieza no aparece.
+4.  **Prioriza los despejes que abren el centro del tablero:** Mantener el
+    centro despejado te da más opciones para girar y encajar nuevas formas.
+5.  **Usa deshacer pronto cuando un movimiento parezca forzado:** Es preferible
+    corregir un par de jugadas temprano que descubrir un bloqueo inevitable más
+    adelante.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Reserve corners for L/T shapes.
-2.  **[ES]** Leave flexible gaps sized for common small pieces.
-3.  **[ES]** Don’t build tall narrow wells without a matching piece.
-4.  **[ES]** Prioritize clears that open board center.
-5.  **[ES]** Undo early when placements feel forced.
+- **Colocar bloques:** Arrastra las piezas hasta su posición. Si el modo lo
+  permite, podrás girarlas antes de soltarlas.
+- **Deshacer/Reiniciar:** Usa los botones de la interfaz para deshacer un turno
+  o comenzar una partida nueva.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Drag to place; rotate if the mode supports it.
-- Undo/Reset via UI.
+- **No me queda ningún hueco válido, ¿qué hago?**  
+  Usa la función de deshacer si está disponible o reinicia la partida probando
+  una apertura distinta.
 
-### Frequently Asked Questions (FAQ)
+- **¿Siempre se pueden rotar las piezas?**  
+  Depende de la variante; revisa los iconos o el tutorial del juego.
 
-- No fits left—what now? Use undo or restart with a different opening.
-- Rotations? Depends on variant; check the UI.
-- Endless? Many versions are score‑chasing.
+- **¿El modo es infinito?**  
+  En muchas versiones sí: el objetivo es conseguir la máxima puntuación posible
+  antes de quedarte sin sitio.

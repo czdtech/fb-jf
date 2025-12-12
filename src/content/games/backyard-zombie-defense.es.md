@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: backyard-zombie-defense
-title: '[ES] Backyard Zombie Defense'
+title: "Backyard Zombie Defense defensa del jardín contra zombis"
 description: >-
-  [ES] Backyard Zombie Defense is a casual tower defense — place turrets,
-  upgrade wisely, and hold off the horde.
+  Backyard Zombie Defense es un juego ligero de defensa de torres en el que debes
+  colocar y mejorar torretas para detener oleadas de zombis que invaden tu patio trasero.
 iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
 thumbnail: /new-images/backyard-zombie-defense.png
 tags:
@@ -15,27 +15,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada
 
+Backyard Zombie Defense es un juego de defensa de torres sencillo y directo.
+Debes construir y mejorar una combinación de torretas de objetivo único y daño
+en área, ralentizar enemigos cerca de la salida y gestionar bien la economía
+para seguir el ritmo de unas oleadas cada vez más fuertes.
 
-### Detailed Game Introduction
+### Estrategia de juego y recorrido
 
-Backyard Zombie Defense is a lightweight TD: build and upgrade a mix of single‑target and aoe turrets, slow enemies near exits, and pace economy to keep up with scaling waves.
+1.  **Cubre los trayectos largos y carriles compartidos:** Coloca torretas en
+    zonas donde puedan disparar durante más tiempo y afectar a varias rutas a la
+    vez para aprovechar mejor cada inversión.
+2.  **Combina ralentización y daño en área cerca de la salida:** En los
+    últimos tramos del camino, utiliza torres de control de masas y daño en área para
+    atrapar a los "fugas" que se escapan.
+3.  **Mejora pronto las torretas clave:** Subir de nivel a unas pocas torres
+    bien situadas suele dar más valor que construir muchas básicas repartidas.
+4.  **Equilibra tipos de daño:** Asegúrate de tener respuestas tanto para zombis
+    rápidos como para tanques lentos y resistentes.
+5.  **Guarda algo de dinero para emergencias a mitad de oleada:** No gastes todo
+    el presupuesto al inicio; a veces necesitas una mejora rápida o una nueva
+    torre para responder a un pico de dificultad.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Cover long paths and shared lanes for efficiency.
-2.  **[ES]** Slow + splash near exits to catch leaks.
-3.  **[ES]** Early upgrades on high‑impact towers compound value.
-4.  **[ES]** Balance damage types for fast vs. tanky zombies.
-5.  **[ES]** Save cash for mid‑wave emergencies when needed.
+- **Colocar/Mejorar/Vender:** Usa la interfaz para seleccionar torretas, ubicarlas
+  en el mapa, subirlas de nivel o venderlas.
+- **Iniciar oleadas:** Pulsa el botón de inicio cuando estés listo para la
+  siguiente oleada.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Place/Upgrade/Sell via UI; start waves when ready.
+- **Los zombis siempre se me cuelan, ¿qué hago?**  
+  Añade torres de ralentización y daño en área en los cuellos de botella y cerca
+  de la salida, y mejora las torres que más impacto tienen.
 
-### Frequently Asked Questions (FAQ)
+- **¿Cuál es una buena apertura?**  
+  Suele funcionar bien empezar con una torre fuerte situada en un punto donde
+  cubra un tramo largo del camino.
 
-- Keep leaking—what to do? Add slows and aoe at choke/exits; upgrade key towers.
-- Best openers? One strong early tower covering long lanes.
-- Speed toggle? Many versions include fast‑forward.
-
+- **¿Puedo acelerar la partida?**  
+  Muchas versiones incluyen un botón de "avance rápido" para acelerar el tiempo
+  entre oleadas o durante las más sencillas.

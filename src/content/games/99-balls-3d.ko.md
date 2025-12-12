@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: 99-balls-3d
-title: '[KO] 99 Balls 3D'
+title: '99 Balls 3D 99 볼즈 3D'
 description: >-
-  [KO] A modern twist on classic arcade action! Aim and shoot your stream of
-  balls to destroy the numbered targets. Collect rings to increase your ammo and
-  stars to unlock new weapons.
+  번호가 적힌 공들을 향해 연속으로 공을 쏘아 없애는 물리 퍼즐 슈팅 게임입니다.
+  반사각을 이용해 한 번의 샷으로 최대한 많은 타격을 노려 보세요.
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/99-balls-3d.jpeg
 tags:
@@ -16,33 +15,42 @@ score: 4.3/5  (2300 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+99 Balls 3D는 브레이크아웃과 버블 슈터 요소가 섞인 중독성 강한 물리 퍼즐
+슈팅 게임입니다. 화면 위쪽에서 숫자가 적힌 공들이 서서히 내려오고, 아래쪽에서
+무수한 작은 공을 연속으로 쏘아 맞춰 없애야 합니다. 각 공에 적힌 숫자는 그 공을
+부수기 위해 필요한 타격 횟수를 의미하며, 벽과 다른 공에 튕기면서 최대한 많은
+횟수로 맞추는 것이 관건입니다.
 
+### 플레이 전략 & 공략 팁
 
-### Detailed Game Introduction
+1.  **뱅크샷 숙달하기:** 한 공만 향해 직선으로 쏘기보다는, 벽과 다른 공에 여러
+    번 튕기도록 각도를 주어 쏘는 것이 핵심입니다. 잘 노린 한 번의 샷이 수백 번의
+    타격으로 이어질 수 있습니다.
+2.  **링 우선 수집:** 플레이 도중 하얀 링이 등장하는데, 이 링을 맞추는 것이
+    최우선입니다. 링 하나를 맞출 때마다 발사되는 공의 수가 1개씩 늘어나 이후
+    모든 샷의 화력이 크게 증가합니다.
+3.  **숫자가 큰 공부터 관리:** 가장 숫자가 큰 공이 바닥까지 내려오면 게임이
+    끝나기 때문에, 샷의 경로를 설계할 때 가능한 한 이 공을 여러 번 지나가도록
+    하는 것이 좋습니다.
+4.  **바닥선에 닿지 않게 하기:** 매 샷이 끝날 때마다 모든 공이 한 줄씩 아래로
+    내려옵니다. 어느 공이든 바닥선에 닿는 순간 게임 오버이므로, 위협적인 줄은
+    우선적으로 정리하세요.
 
-99 Balls 3D is a highly addictive, physics-based puzzle shooter that combines elements of Breakout and Bubble Shooter. Your goal is to destroy a series of numbered balls that slowly descend from the top of the screen. You shoot a stream of smaller balls from the bottom, and the number on each target ball indicates how many hits it needs to be destroyed. The key to the game is to aim your shots perfectly to create long chain reactions of bounces, clearing the board before the numbered balls reach the bottom.
+### 조작 방법
 
-### Gameplay Strategy & Walkthrough
+*   **조준:** 마우스를 움직여 조준선을 조절하면, 공이 처음 날아가는 방향을
+    미리 확인할 수 있습니다.
+*   **발사:** 왼쪽 마우스 버튼을 클릭해 공을 연속으로 발사합니다.
 
-1.  **[KO]** **Master the Bank Shot:** Never shoot directly at a single target. The goal is to aim your stream of balls at an angle so that they bounce off the walls and other balls as many times as possible. A single, well-aimed shot can result in hundreds of hits.
-2.  **[KO]** **Collect the Rings:** As you play, white rings will appear. Hitting these is your top priority. Each ring you collect adds one more ball to your shooting stream, dramatically increasing your firepower for all future shots.
-3.  **[KO]** **Prioritize High-Number Balls:** The balls with the highest numbers are the biggest threat. Try to position your shots so that your stream of balls will hit them multiple times.
-4.  **[KO]** **Don't Let Them Reach the Bottom:** After each shot, the balls will move one step closer to the bottom. If any numbered ball reaches the bottom line, the game is over.
+### 자주 묻는 질문 (FAQ)
 
-### Controls Guide
+*   **Q: 공에 적힌 숫자는 무엇을 의미하나요?**
+    *   **A:** 해당 공이 사라질 때까지 필요한 타격 횟수입니다. 예를 들어 숫자 20이 적혀 있다면 최소 20번 맞아야 제거됩니다.
 
-*   **[KO]** **Aim:** Move your mouse to control the aiming guideline. This shows the initial trajectory of your shot.
-*   **[KO]** **Shoot:** Click the left mouse button to fire your stream of balls.
+*   **Q: 더 많은 발사체는 어떻게 얻나요?**
+    *   **A:** 플레이 중 등장하는 하얀 링을 맞히면 됩니다. 링 하나를 확보할 때마다 이후 모든 샷에서 발사되는 공이 한 개씩 늘어납니다.
 
-### Frequently Asked Questions (FAQ)
-
-*   **[KO]** **Q: What do the numbers on the balls mean?**
-    *   **[KO]** **A:** This is the ball's "health." It indicates how many times the ball must be hit before it is destroyed.
-
-*   **[KO]** **Q: How do I get more balls to shoot?**
-    *   **[KO]** **A:** By hitting the white rings that appear on the screen. Each ring you collect permanently adds one ball to your stream for the rest of the game.
-
-*   **[KO]** **Q: What are the stars for?**
-    *   **[KO]** **A:** Collecting stars allows you to unlock new skins and weapon types from the main menu, adding a fun cosmetic element to the game.
-
+*   **Q: 별(스타)은 어디에 쓰이나요?**
+    *   **A:** 모은 별은 메인 메뉴에서 새로운 스킨이나 무기 이펙트를 해금하는 데 사용됩니다. 주로 외형용이므로 게임 플레이에는 직접 영향을 주지 않습니다.

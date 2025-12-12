@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: egg-maker
-title: '[KO] Egg Maker'
+title: "Egg Maker 에그 메이커"
 description: >-
-  [KO] Egg Maker is a quick kitchen puzzler — sequence prep steps, time pans,
-  and serve perfect eggs under rush pressure.
+  Egg Maker는 계란 요리를 빠르게 만들어 손님에게 내보내는 주방 타임 매니지먼트 게임입니다.
+  재료 준비 순서를 잘 짜고, 팬 타이밍을 맞춰 완벽한 상태의 계란을 서빙해 보세요.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/egg-maker.png
 tags:
@@ -17,39 +17,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Egg Maker distills time‑management cooking into rapid stations: crack, whisk, season, heat, plate, and serve. Each order specifies a style (scrambled, sunny‑side, omelet) and doneness windows. Items on heat continue cooking, so sequencing and pickup timing decide whether you hit “perfect” or burn.
+*Egg Maker*는 여러 조리 스테이션을 순환하며 계란 요리를 완성하는 빠른 템포의 타임 매니지먼트 게임입니다.
+계란을 깨고, 풀고, 간을 한 뒤 팬에 올려 굽고, 접시에 담아 손님에게 내기까지 모든 과정을 직접 조작해야
+하며, 불 위에 올려둔 음식은 계속 익기 때문에 순서와 타이밍 관리가 핵심입니다. 주문마다 스크램블, 반숙,
+오믈렛 등 스타일과 익힘 정도가 다르기 때문에, 시각적·청각적 신호를 보고 적절한 순간에 집어 들지 않으면
+타 버리기 쉽습니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 진행 팁
 
-1.  **[KO]** Station rhythm: Always start with the longest step (heat), then backfill short prep while the pan runs.
-2.  **[KO]** Two‑pan flow: Stagger pans by a few seconds so you can flip/plate one while prepping the next.
-3.  **[KO]** Doneness windows: Grab at the edge of “perfect” for score bonuses; learn visual/audio tells.
-4.  **[KO]** Multi‑orders: Group similar styles to reuse pan state and reduce clean cycles.
-5.  **[KO]** Upgrades: Prioritize extra pan and faster prep over décor.
+1. **스테이션 리듬 잡기:** 가장 오래 걸리는 조리 단계(굽기)를 먼저 시작하고, 팬이 돌아가는 동안
+   계란 깨기, 풀기, 간하기 같은 짧은 준비 과정을 처리하는 식으로 흐름을 만들면 효율이 좋습니다.
+2. **두 개의 팬 흐름 만들기:** 팬을 두 개 사용한다면 3~4초 정도 시간 차를 두고 올려, 한 팬의 요리를
+   접시에 담는 사이 다른 팬의 상태를 확인할 수 있도록 리듬을 맞추세요.
+3. **익힘 타이밍 익히기:** "완벽" 판정에 가까운 시점에서 음식을 집어 들면 보너스 점수를 얻을 수 있습니다.
+   색 변화나 지글거리는 소리 등 시각·청각 단서를 잘 관찰하세요.
+4. **다중 주문 처리:** 같은 스타일의 계란이 여러 개 들어온다면 한 번에 준비해 팬 상태를 재활용하고,
+   설거지/정리 사이클을 줄여 시간을 절약하세요.
+5. **업그레이드 우선순위:** 팬 개수 추가와 준비 속도 향상 업그레이드가 가장 체감이 크며, 장식은
+   후반 여유가 생겼을 때 투자해도 늦지 않습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Tap to crack/whisk/season; drag to pan/plate; tap customer to serve.
-- Pause/Retry in the UI between shifts.
+- 탭/클릭으로 계란을 깨고, 풀고, 간을 합니다.
+- 드래그로 팬이나 접시에 옮기고, 완성된 요리를 손님에게 드래그해 서빙합니다.
+- 쉬프트 사이에는 UI에서 일시정지나 재시작을 할 수 있습니다.
 
-### Advanced Tips
+### 고급 팁
 
-- Buffer trays: Stage plates near the pass so you spend less movement when orders spike.
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+- **버퍼 트레이:** 접시를 패스 근처에 미리 가져다 두면 주문이 몰리는 순간 이동 거리를 줄여
+  한 번에 여러 접시를 빠르게 내보낼 수 있습니다.
+- **과한 조리는 빠르게 버리기:** 이미 너무 익어 버린 음식은 억지로 내보내 페널티를 받기보다,
+  빨리 버리고 흐름을 유지하는 편이 전체 운영에 유리합니다.
+- **콤보 라우팅:** 2~3개 요리를 연달아 빠르게 서빙하면 팁 배수가 붙는 경우가 많으니, 타이밍을 맞춰
+  한 번에 내보내는 것을 노려 보세요.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- Q: I keep burning items — how to fix?
+- **Q: 자꾸 음식을 태워버려요. 어떻게 줄일 수 있나요?**  
+  **A:** 팬 시작 시간을 3~4초 정도씩 어긋나게 두고, 그 사이에 짧은 준비 작업만 수행하도록 리듬을
+  만들면 한 번에 여러 팬을 안정적으로 관리할 수 있습니다. 지글거리는 소리 등 익음 신호에도
+  귀를 기울이세요.
 
-A: Stagger pans by 3–4 seconds, do short prep during the gap, and focus on auditory sizzle cues.
+- **Q: 어떤 업그레이드를 먼저 해야 하나요?**  
+  **A:** 추가 팬과 준비 속도 증가 업그레이드가 우선입니다. 주문 수용량(큐 크기)은 그 다음,
+  인테리어 장식은 가장 나중에 투자해도 됩니다.
 
-- Q: Which upgrade first?
-
-A: Extra pan > faster prep > queue size. Décor is endgame.
-
-- Q: Any trick for omelets with fillings?
-
-A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
+- **Q: 속 재료가 들어가는 오믈렛이 어려워요.**  
+  **A:** 한가한 시간에 미리 재료를 손질해 두고, 팬에 올린 직후 곧바로 채워 넣은 뒤 첫 번째로
+  "딱 굳는" 순간에 접어 올리면 내용물이 새어나가는 것을 막을 수 있습니다.

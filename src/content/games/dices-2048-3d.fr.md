@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: dices-2048-3d
-title: '[FR] Dices 2048 3D'
+title: 'Dices 2048 3D'
 description: >-
-  [FR] Dices 2048 3D fuses 2048 with dice physics — merge same‑value dice to
+  Dices 2048 3D fuses 2048 with dice physics — merge same‑value dice to
   climb toward 2048 in three dimensions.
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/dices-2048-3d.png
@@ -24,11 +24,11 @@ Dices 2048 3D is a physics‑infused take on the classic 2048 merging puzzle. Dr
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **[FR]** Keep lanes clean: Reserve a column for combining and another for staging; avoid cluttered piles that block merges.
-2.  **[FR]** Chain reactions: Set up multiple adjacent pairs so one merge cascades into the next for big score swings.
-3.  **[FR]** Value management: Don’t spawn a higher value in a corner with no neighbors; keep equal values within one move of contact.
-4.  **[FR]** Tame physics: Soft drops and short nudges reduce unwanted bounces; let dice settle before committing the next piece.
-5.  **[FR]** Bail‑out moves: When the board rises, clear space with safe merges rather than fishing for perfect chains.
+1.  Keep lanes clean: Reserve a column for combining and another for staging; avoid cluttered piles that block merges.
+2.  Chain reactions: Set up multiple adjacent pairs so one merge cascades into the next for big score swings.
+3.  Value management: Don’t spawn a higher value in a corner with no neighbors; keep equal values within one move of contact.
+4.  Tame physics: Soft drops and short nudges reduce unwanted bounces; let dice settle before committing the next piece.
+5.  Bail‑out moves: When the board rises, clear space with safe merges rather than fishing for perfect chains.
 
 ### Controls Guide
 

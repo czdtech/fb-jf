@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: merge-fruit
-title: '[ZH TRANSLATION NEEDED] Merge Fruit'
+title: "《Merge Fruit》合成水果大作战"
 description: >-
-  [ZH TRANSLATION NEEDED] Merge Fruit is a juicy merge‑and‑drop — combine
-  identical fruits, manage stack heights, and engineer cascades for big scores.
+  《Merge Fruit》是一款下落+合成机制结合的水果益智游戏，你需要在容器中巧妙堆叠并合成相同水果，既要追求高倍进化，又要避免水果堆到顶端溢出。
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/merge-fruit.png
 tags:
@@ -16,32 +15,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; touching identical fruits merge into a larger one. The challenge is stacking for future merges while preventing overflows at the top.
+《Merge Fruit》将重力下落玩法与“合成两两升级”的规则结合在一起。你需要把各种水果投放到容器中，当两个相同的水果相互接触时，它们会合并成体积更大、分值更高的下一阶段水果。难点在于：一方面要为未来的合成提前铺垫，另一方面又要控制整体堆叠高度，避免顶部溢出导致游戏提前结束。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Center anchor: Keep the largest fruit near the center for multi‑side merges.
-2.  [ZH TRANSLATION NEEDED] Height control: Flatten spikes before they cause overflow.
-3.  [ZH TRANSLATION NEEDED] Chain planning: Stage twins adjacent before dropping a third to trigger cascades.
-4.  [ZH TRANSLATION NEEDED] Sacrifice lane: Use one edge as a trash lane for off‑cycle fruits.
-5.  [ZH TRANSLATION NEEDED] Patience: Don’t force drops during bounce chaos — wait a beat.
+### 通关策略与玩法思路
 
-### Controls Guide
+1.  **中央锚点：** 尽量把目前最大的水果保持在棋盘中间区域，这样无论左右哪边形成合成，都有机会滚向它并再度合并，提升连锁效率。
+2.  **高度控制：** 注意不要形成某一两列特别高的“尖塔”。在局部高度过高时，优先往低的一侧投放、制造合成，尽快削平高柱，降低溢出的风险。
+3.  **预设连锁：** 在投放新水果前，先观察当前容器结构，为“即将掉落的水果”预留两侧相同果实的位置。让第三个同类水果落下时能够立即触发连锁合成，腾出大量空间并顺带获得高分。
+4.  **牺牲通道：** 可以把一侧边缘当作“垃圾通道”，专门放那些暂时无法参与合成或节奏不合的水果，把中间区域留给真正有机会连锁升级的主力水果。
+5.  **保持耐心：** 水果下落和碰撞时会产生一些弹跳，不要在画面仍然剧烈晃动时急着投下一颗新水果，等局面稳定后再精准投放，更利于控制整体形状。
 
-- Move left/right to aim; tap to drop; some builds allow holds/undos.
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- 通过左右移动来调整水果即将落下的位置，找到合适线路后点击或轻触屏幕，即可投放当前水果；部分版本支持长按或撤销等高级操作，以纠正误投。
 
-- Q: Board keeps overflowing.
+### 常见问题（FAQ）
+
+- **问：容器总是很快就溢出了怎么办？**
   
-[ZH TRANSLATION NEEDED]   A: Stop chasing big merges; first flatten columns and stage pairs.
+  **答：** 不要一味追求超大合成，而忽视高度控制。优先把高度差特别大的列削平，多制造中小型合成，先稳住局面，再寻找机会冲击更高级水果。
 
-- Q: Best place to drop?
+- **问：水果最好往哪里丢？**
   
-[ZH TRANSLATION NEEDED]   A: Center for flexibility; edges only for trash lane management.
+  **答：** 中央区域通常更灵活，既方便往两侧连锁，又更好控制整体平衡。边缘则适合作为“垃圾通道”，用来安置一时难以利用的水果。
 
-- Q: Are undos fair game?
+- **问：游戏里的撤销/暂停类功能可以放心用吗？**
   
-[ZH TRANSLATION NEEDED]   A: Use sparingly to fix genuine misdrops.
-
+  **答：** 可以适度使用来弥补手滑或误操作，但最好不要过度依赖。把它当作纠错工具，而非常规策略的一部分，才能真正练出稳定的投放节奏。

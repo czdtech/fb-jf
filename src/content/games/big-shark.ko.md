@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: big-shark
-title: '[KO] Big Shark'
+title: 'Big Shark 빅 샤크'
 description: >-
-  [KO] A guide to the action-survival game Big Shark. Learn how to eat, grow,
-  avoid dangers like bigger sharks and mines, and achieve the highest score in
-  the ocean.
+  상어가 되어 바닷속을 누비며 먹이를 먹고 성장하는 액션 생존 게임 Big Shark입니다.
+  더 큰 상어와 지뢰를 피해 살아남아 최고 점수를 노려 보세요.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/big-shark.jpg
 tags:
@@ -15,50 +14,79 @@ score: 4.0/5  (372 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+*Big Shark*는 "먹느냐 먹히느냐"라는 단순하지만 중독성 강한 구조의 2D 바다
+생존 게임입니다. 플레이어는 상어를 조종해 다양한 해양 생물이 가득한 바다를
+헤엄치며, 가능한 한 오래 살아남아 가장 거대한 상어로 성장하는 것을 목표로
+합니다.
 
-### Detailed Introduction
+처음에는 작은 상어로 시작해, 자신보다 작은 물고기들만 먹을 수 있습니다.
+먹이를 먹을수록 점수를 얻고 몸집이 커지며, 점점 더 큰 물고기와 다른 상어,
+심지어 수영하는 사람들까지 잡아먹을 수 있게 됩니다. 하지만 바다는 위험으로
+가득 차 있습니다. 자신보다 훨씬 큰 상어, 치명적인 해저 지뢰, 각종 장애물에
+부딪히면 그 순간 게임이 끝날 수 있으니 항상 경계를 늦추면 안 됩니다. 게임은
+엔드 없이 이어지는 아케이드 방식으로, 궁극적인 목표는 최고 점수를 갱신하는
+것입니다.
 
-*Big Shark* is a fast-paced, 2D underwater survival game with a simple yet addictive premise: eat or be eaten. Players take control of a shark and navigate a vast ocean teeming with life and danger. The primary objective is to survive for as long as possible and grow to be the biggest shark in the sea by consuming other marine life.
+### 플레이 전략
 
-You start as a relatively small shark, only able to eat the smallest of fish. As you consume prey, you gain points and gradually increase in size. This growth is key, as it allows you to hunt and eat progressively larger creatures, from medium-sized fish to other sharks and even unsuspecting swimmers. However, the ocean is a dangerous place. You must constantly be on the lookout for threats, such as sharks larger than you, deadly sea mines, and other hazards that can end your run instantly. The game is an endless arcade experience focused on achieving the highest possible score.
+공격성과 신중함의 균형을 잘 맞추는 것이 중요합니다.
 
-### Gameplay Strategy
+1.  **초반에는 최대한 조심스럽게:** 작은 상어일 때는 매우 취약합니다. 화면에
+    보이는 가장 작은 물고기만 노리고, 나머지는 과감히 피하세요. 초반의 욕심은
+    오히려 생존을 짧게 만듭니다.
+2.  **먹잇감과 위협 구분하기:** 자신보다 작은 생물만 먹을 수 있습니다.
+    크기가 비슷하거나 더 크다면 경쟁자 혹은 포식자일 가능성이 높으니
+    거리를 두세요.
+3.  **부스트는 공격·도주 모두에 중요:** 대부분의 버전에서 잠시 속도를 높이는
+    부스트 기능을 제공합니다.
+    *   **공격용:** 빠른 물고기나 멀리 있는 먹이를 잡기 위해 갑자기 속도를
+        끌어올려 추격할 수 있습니다.
+    *   **도주용:** 더 큰 상어가 쫓아올 때, 부스트는 목숨을 구하는 마지막 수단이
+        됩니다. 평소에는 아껴 두었다가 위급할 때 사용하세요.
+4.  **위협 요소 익히기:**
+    *   **거대 상어:** 가장 흔한 즉사 요인입니다. 화면에 보이면 미리 방향을 틀어
+        최대한 멀리 돌아가세요.
+    *   **해저 지뢰:** 대부분 고정되어 있지만, 부스트 중 시야가 좁아지면 쉽게
+        들이받을 수 있으니 조심해야 합니다.
+    *   **해파리 등 특수 적:** 일부 버전에서는 해파리를 맞으면 점수가 줄거나
+        잠시 마비되는 등 패널티가 있으니 불필요하게 건드리지 않는 것이 좋습니다.
+5.  **콤보로 점수 올리기:** 짧은 시간 안에 여러 마리를 연속해서 먹으면 콤보
+    보너스를 얻는 버전이 많습니다. 위험하지 않은 상황이라면, 먹이를 몰아서
+    한 번에 처리해 점수를 크게 벌어 보세요.
 
-Success in *Big Shark* depends on a mix of aggression and caution.
+### 조작 방법
 
-1.  **[KO]** **Be Cautious at the Start:** When you are small, you are extremely vulnerable. Focus exclusively on eating the smallest fish and actively avoid everything else. Don't get greedy; survival is your top priority in the early stages.
-2.  **[KO]** **Know Your Prey:** You can only eat creatures that are smaller than you. The game usually provides a clear visual cue. If something is your size or larger, it's either a competitor or a threat.
-3.  **[KO]** **Use Your Boost Wisely:** Most versions of the game give you a speed boost ability. This is your most important tool for both offense and defense.
-    *   **[KO]** **For Offense:** Use the boost to quickly close the distance and catch faster-moving prey.
-    *   **[KO]** **For Defense:** The boost is your lifeline for escaping larger sharks that are chasing you. Don't waste it, and try to have it ready for emergencies.
-4.  **[KO]** **Memorize the Threats:**
-    *   **[KO]** **Bigger Sharks:** The most common threat. Touching one means an instant game over. Always give them a wide berth.
-    *   **[KO]** **Sea Mines:** These explosive devices are often stationary. Colliding with one is fatal. Be especially careful when boosting through crowded areas.
-    *   **[KO]** **Jellyfish:** In some versions, these can sting you, causing you to lose points or get temporarily stunned.
-5.  **[KO]** **Chain Your Kills for More Points:** To get a high score, try to eat multiple fish in quick succession. This often creates a combo bonus, multiplying your points and helping you grow faster.
+플레이 방식은 매우 단순하며, 대부분의 플랫폼에서 같은 감각으로 조작할 수 있습니다.
 
-### Controls Guide
+*   **이동:** 마우스 커서 위치를 따라 상어가 움직입니다. 커서를 이동하는 방향이 곧 상어의 이동 방향입니다.
+*   **부스트/대시:** 마우스 왼쪽 버튼을 눌러 짧은 시간 동안 속도를 크게 높일 수 있습니다. 점수 일부를 소모하거나 쿨다운이 있을 수 있으니 남용하지 마세요.
 
-The controls for *Big Shark* are designed to be simple and intuitive, primarily using the mouse.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Movement:** Your shark automatically follows the position of your mouse cursor on the screen.
-*   **[KO]** **Boost / Dash:** Press the **Left Mouse Button** to activate a short burst of speed. This usually consumes some of your score or has a cooldown period.
+**1. 어떻게 몸집을 키우나요?**
 
-### Frequently Asked Questions (FAQ)
+더 많은 물고기와 해양 생물을 먹을수록 점수와 함께 상어의 크기가 커집니다.
+큰 상어가 되면 더 크고 값어치 있는 먹잇감을 노릴 수 있습니다.
 
-**1. How do I grow bigger in the game?**
-You grow by eating. The more fish and other creatures you consume, the larger your shark will become, allowing you to eat even bigger prey.
+**2. 갑자기 게임이 끝났어요. 왜 그런가요?**
 
-**2. Why did my game end suddenly?**
-You most likely ran into a threat you couldn't eat. The most common reasons for a game over are colliding with a shark larger than you or hitting a sea mine.
+대부분 자신보다 큰 상어에게 잡아먹혔거나, 해저 지뢰 같은 즉사 장애물에
+부딪힌 경우입니다.
 
-**3. Is there an end to the game?**
-No, *Big Shark* is an endless game. The goal is not to "win" but to survive as long as possible and achieve the highest score you can.
+**3. 엔딩이 있나요?**
 
-**4. What is the best way to get a high score?**
-The key to a high score is staying alive long enough to grow very large. Once you are big, you can eat almost anything, which allows you to rack up points quickly. Focus on survival first, and the high score will follow.
+없습니다. 가능한 한 오래 살아남으며 최고 점수를 갱신하는 것이 유일한 목표인
+무한 아케이드 방식입니다.
 
-**5. Can I eat the swimmers?**
-Yes, but only once you have grown large enough. They are usually one of the higher-tier prey and award a significant number of points.
+**4. 고득점 비결은 무엇인가요?**
 
+먼저 최대한 오래 살아남아 충분히 큰 상어가 되는 것이 중요합니다. 어느 정도
+커지면 화면 대부분의 먹잇감을 안전하게 먹을 수 있어 점수가 눈에 띄게
+올라갑니다. 생존을 우선으로 두면 점수는 자연스럽게 따라옵니다.
+
+**5. 사람도 먹을 수 있나요?**
+
+네, 충분히 성장한 뒤에는 수영하는 사람도 먹잇감이 됩니다. 보통 높은 점수와
+큰 성장 보상을 주는 상위급 먹잇감입니다.

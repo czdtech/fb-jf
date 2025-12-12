@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: merge-the-gems
-title: '[ZH TRANSLATION NEEDED] Merge the Gems'
+title: "《Merge the Gems》宝石合成工坊"
 description: >-
-  [ZH TRANSLATION NEEDED] Merge identical gems to forge new, more valuable
-  jewels! Fill your board, complete challenges, and discover all the precious
-  stones in this sparkling and addictive merge puzzle game.
+  《Merge the Gems》是一款以宝石为主题的合成益智游戏，你从普通原石开始，通过不断合成相同宝石，锻造出更高价值的珠宝，并在有限棋盘中完成目标挑战。
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/merge-the-gems.jpg
 tags:
@@ -17,31 +15,31 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Merge the Gems is a simple, relaxing, and highly addictive puzzle game centered around merging identical gems to create new, more valuable ones. You start with basic, uncut stones and combine them to progressively form sparkling, elaborate jewels. The goal is to manage your game board, continuously merge to discover new gem types, and fulfill objectives to earn points and coins.
+《Merge the Gems》是一款简单上手却极易上瘾的休闲解谜游戏，玩法围绕“合成相同宝石，解锁更高级珠宝”展开。你一开始只有普通、未经打磨的原石，通过拖拽合成逐步升级为切割精美的宝石、项链、戒指等高阶珠宝。你的任务是在有限大小的棋盘上合理安排每一块宝石的位置，持续合成、解锁新的宝石类型，并完成系统给出的目标与挑战，获取积分与金币奖励。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **The Merge Chain:** The core of the game is to drag one gem and drop it onto an identical gem. The two will then merge into a single, new gem of a higher level. The key is to keep merging to create more space and discover more valuable jewels.
-2.  [ZH TRANSLATION NEEDED] **Manage Your Board:** Your board has a limited number of spaces. If it fills up completely, you won't be able to add new gems. Always prioritize making merges to keep your board from getting cluttered.
-3.  [ZH TRANSLATION NEEDED] **Use Coins to Accelerate:** While the game will periodically give you a free basic gem, the fastest way to progress is to use the coins you earn to buy more gems from the shop. This allows you to create high-level gems much more quickly.
-4.  [ZH TRANSLATION NEEDED] **Fulfill Goals:** Pay attention to any goals or orders that may appear. Completing these challenges is the best way to earn large amounts of coins and advance in the game.
+### 玩法策略与通关思路
 
-### Controls Guide
+1.  **理解合成链：** 游戏的核心就是将一枚宝石拖动到另一枚相同宝石上，它们会融合成更高一级的新宝石。持续合成既能清理棋盘空间，又能解锁更高价值的珠宝。
+2.  **棋盘空间管理：** 棋盘格子有限，一旦被填满就无法再放入新的宝石。始终优先寻找并执行合成操作，避免出现大量零散、无法合成的低阶宝石堆积。
+3.  **用金币加速进度：** 虽然系统会定时赠送基础宝石，但想快速推进等级，最好的方式是用赚到的金币在商店购买更多宝石，特别是直接购买中阶宝石，可以大幅缩短合成链条。
+4.  **围绕目标来合成：** 游戏中经常会出现关卡目标或订单任务，例如合成指定等级/类型的宝石。优先按这些目标来规划合成路径，可以更快获得大量金币与额外奖励。
 
-[ZH TRANSLATION NEEDED] The game is played with simple drag-and-drop controls.
+### 操作说明
 
-*   **Merge Gems:** Click and drag one gem and drop it onto another identical gem to merge them.
-*   **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
+本作采用经典拖拽操作：
 
-### Frequently Asked Questions (FAQ)
+*   **合成宝石：** 使用鼠标或手指拖动一颗宝石到另一颗相同宝石上完成合成。
+*   **购买宝石：** 点击商店图标，在列表中选择你已解锁的宝石类型并消耗金币购买，新宝石会落到棋盘空格中。
 
-*   **Q: How do I get new gems?**
-     *   **A:** A new, basic gem will appear automatically on an empty spot after a short timer. You can also spend coins in the shop to buy gems directly.
+### 常见问题（FAQ）
 
-*   **Q: What is the main objective?**
-     *   **A:** To discover all the different types of gems by merging them and to complete any given tasks to earn the highest score possible.
+*   **问：新的宝石是怎么获得的？**
+    *   **答：** 一方面，系统会每隔一段时间在空格上生成一颗基础宝石；另一方面，你可以用金币在商店购买已经解锁过的宝石类型，从中阶开始直接向高阶合成。
 
-*   **Q: My board is full and I can't make any moves. What should I do?**
-     *   **A:** You need to free up space. Double-check for any possible merges. If there are absolutely no moves, you may need to use an option to sell or delete a low-value gem to make room for a new one.
+*   **问：游戏的最终目标是什么？**
+    *   **答：** 尽可能解锁并收集所有不同种类的宝石与珠宝，在有限棋盘内通过合理合成完成各种任务与挑战，拿到更高总分。
 
+*   **问：棋盘满了、完全没有可合成的宝石怎么办？**
+    *   **答：** 首先仔细检查是否还有遗漏的合成机会，如果确实没有任何可合成组合，就需要通过出售或清理部分低价值宝石来空出格子（具体取决于游戏提供的道具/功能），以继续放入新宝石。

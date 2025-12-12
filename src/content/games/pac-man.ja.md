@@ -1,67 +1,50 @@
 ---
-locale: ja
+title: Pac-Man
+description: クラシックなPac-Manをプレイします。ドットを食べ、ゴーストを避け、パワーペレットを獲得し、象徴的なアーケードゲームをマスターします。
+iframeSrc: 'https://pacman.h5games.usercontent.goog/v/6k9j2m8h7p4n8/'
+thumbnail: /new-images/pac-man.png
 urlstr: pac-man
-title: '[JA TRANSLATION NEEDED] PAC-MAN'
-description: >-
-  [JA TRANSLATION NEEDED] PAC-MAN is a classic arcade maze game where players
-  control Pac-Man, navigating a labyrinth to eat all the pellets while avoiding
-  four colorful ghosts. Eating power pellets allows Pac-Man to temporarily turn
-  the tables and eat the ghosts.
-iframeSrc: 'https://bward2.github.io/pacman-js/'
-thumbnail: /new-images/pac-man.jpg
+score: 4.7/5  (5678 votes)
 tags:
+  - action
+  - casual
   - arcade
-  - maze
-  - classic
-score: 5.0/5  (1241 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+Pac-Manは、ビデオゲーム史上最も象徴的なアーケードゲームです。迷路を通してPac-Manを導き、すべてのドットを食べながら、4つのカラフルなゴースト（Blinky、Pinky、Inky、Clyde）を避けます。パワーペレットを食べてゴーストを追いかけることができます。
+
+### ゲームプレイ戦略と攻略法
+
+1.  **パターンを学ぶ:** 各ゴーストは独自の動作パターンを持っています。
+2.  **コーナーを使用:** タイトなターンでゴーストを騙します。
+3.  **パワーペレットを節約:** 複数のゴーストを食べるために戦略的に使用します。
+4.  **迷路を知る:** レイアウトと脱出ルートを記憶します。
+5.  **果物を収集:** ボーナスポイントのために中央の果物をつかみます。
+
+### 操作ガイド
+
+- 矢印キー/WASD：Pac-Manを移動します。
+- すべてのドットを食べてレベルをクリアします。
+- ゴーストを避けます（パワーアップされていない限り）。
+
+### よくある質問 (FAQ)
+
+- **Q: ゴーストには異なる動作がありますか？**  
+  A: はい！各ゴーストには独自の追跡戦略があります。
+- **Q: パワーペレットはどのくらい続きますか？**  
+  A: 数秒ですが、レベルが上がると短くなります。
+- **Q: ゲームは終わりますか？**  
+  A: 技術的には、しかし極めて難しくなります。レベル256はクラッシュします。
 
 
-### Game Introduction
-
-[JA TRANSLATION NEEDED] "PAC-MAN" is a classic arcade maze game. Players control the yellow Pac-Man, moving through a complex labyrinth with the objective of eating all the pellets. Simultaneously, players must evade four colorful ghosts—Blinky, Pinky, Inky, and Clyde. When Pac-Man eats a power pellet, he can temporarily turn the tables and pursue and eat the ghosts for extra points.
-
-### Gameplay Strategy
-
-[JA TRANSLATION NEEDED] 1.  **Understand Ghost Behavior**: Each ghost has its unique AI pattern. Blinky (red) is a chaser, Pinky (pink) tries to ambush, Inky (light blue) has more complex movements, and Clyde (orange) tends to wander randomly.
-[JA TRANSLATION NEEDED] 2.  **Utilize Power Pellets**: After eating a power pellet, immediately chase and eat the ghosts for high scores. The more ghosts eaten, the higher the score.
-[JA TRANSLATION NEEDED] 3.  **Plan Routes**: When moving through the maze, plan your route in advance to avoid being cornered by ghosts.
-[JA TRANSLATION NEEDED] 4.  **Use Tunnels**: The tunnels at both ends of the maze allow Pac-Man to quickly move from one side to the other, useful for evading or counter-attacking ghosts.
-[JA TRANSLATION NEEDED] 5.  **Prioritize Large Pellets**: Power pellets (large pellets) are crucial for turning the tide and should be prioritized.
-
-### How to Play
-
-*   **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
-
-
-
-
-
-- **Prioritize Large Pellets**: Power pellets (large pellets) are crucial for turning the tide and should be prioritized.
-- **Use Tunnels**: The tunnels at both ends of the maze allow Pac-Man to quickly move from one side to the other, useful for evading or counter-attacking ghosts.
-- **Plan Routes**: When moving through the maze, plan your route in advance to avoid being cornered by ghosts.
-- **Utilize Power Pellets**: After eating a power pellet, immediately chase and eat the ghosts for high scores. The more ghosts eaten, the higher the score.
-### Frequently Asked Questions
-
-
-
-
-- **Q: How many levels are there in "PAC-MAN"?**
-### よくある質問
-- **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
-[JA TRANSLATION NEEDED] 1.  **Q: How many levels are there in "PAC-MAN"?**
-
-- **Q: What are the names and colors of the ghosts?**
-[JA TRANSLATION NEEDED]     **A**: The original "PAC-MAN" has 256 levels, but due to a programming error in level 256, it often results in a "kill screen" or "split screen," preventing the game from progressing normally.
-
-- **Q: What happens to the ghosts after eating a power pellet?**
-[JA TRANSLATION NEEDED] 2.  **Q: What are the names and colors of the ghosts?**
+**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
 
 - **Q: Is the objective of the game to eat all the pellets?**
-[JA TRANSLATION NEEDED]     **A**: The four ghosts are: Blinky (red), Pinky (pink), Inky (light blue), and Clyde (orange).
-[JA TRANSLATION NEEDED] 3.  **Q: What happens to the ghosts after eating a power pellet?**
-[JA TRANSLATION NEEDED]     **A**: After eating a power pellet, the ghosts turn dark blue and can be eaten by Pac-Man. They will flee and return to their normal state after a period.
-[JA TRANSLATION NEEDED] 4.  **Q: Is the objective of the game to eat all the pellets?**
-[JA TRANSLATION NEEDED]     **A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
+
+
+**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.

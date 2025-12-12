@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: merge-fruit
-title: '[DE] Merge Fruit'
+title: "Merge Fruit"
 description: >-
-  [DE] Merge Fruit is a juicy merge‑and‑drop — combine identical fruits, manage
-  stack heights, and engineer cascades for big scores.
+  Merge Fruit ist ein saftiges Merge-und-Drop-Spiel: Kombiniere identische
+  Früchte, kontrolliere die Stapelhöhe und löse Kettenreaktionen für hohe
+  Punktzahlen aus.
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/merge-fruit.png
 tags:
@@ -16,35 +17,51 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Merge Fruit kombiniert fallende Früchte mit Merge-2-Regeln. Du lässt Früchte in
+eine Tonne fallen; berühren sich zwei identische, verschmelzen sie zu einer
+größeren Frucht. Die Kunst liegt darin, das Stapeln so zu planen, dass sich
+viele Merges ergeben, ohne dass der Turm bis zur Oberkante wächst.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; touching identical fruits merge into a larger one. The challenge is stacking for future merges while preventing overflows at the top.
+1.  **Große Früchte im Zentrum halten**  
+    Platziere deine größten Früchte möglichst mittig, damit sie von mehreren
+    Seiten aus zu weiteren Merges genutzt werden können.
 
-### Gameplay Strategy & Walkthrough
+2.  **Höhe im Griff behalten**  
+    Baue „Spitzen“ im Stapel frühzeitig ab, bevor sie zur Überfüllung führen.
 
-1.  **[DE]** Center anchor: Keep the largest fruit near the center for multi‑side merges.
-2.  **[DE]** Height control: Flatten spikes before they cause overflow.
-3.  **[DE]** Chain planning: Stage twins adjacent before dropping a third to trigger cascades.
-4.  **[DE]** Sacrifice lane: Use one edge as a trash lane for off‑cycle fruits.
-5.  **[DE]** Patience: Don’t force drops during bounce chaos — wait a beat.
+3.  **Ketten planen**  
+    Stage zwei gleiche Früchte nebeneinander und lasse dann eine dritte passend
+    fallen, um Kettenreaktionen auszulösen.
 
-### Controls Guide
+4.  **Opfer-Spalte nutzen**  
+    Nutze eine Kante als „Müllspur“ für Früchte, die aktuell in keinen Merge
+    passen – aber übertreibe es nicht, damit sie nicht den Rand überfüllen.
 
-- Move left/right to aim; tap to drop; some builds allow holds/undos.
+5.  **Geduld bei Chaos**  
+    Warte, bis hüpfende Früchte sich beruhigt haben, bevor du den nächsten Drop
+    machst. Hektik kostet oft mehr als sie bringt.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: Board keeps overflowing.
+- Bewege die nächste Frucht mit Links/Rechts über dem Spielfeld und tippe/klicke,
+  um sie fallen zu lassen.  
+- Manche Versionen erlauben Halten oder Undo – nutze das, um Fehlwürfe zu
+  korrigieren.
 
-A: Stop chasing big merges; first flatten columns and stage pairs.
+### FAQ
 
-- Q: Best place to drop?
+- **F: Das Brett läuft mir ständig über.**  
+  **A:** Jage nicht nur großen Merges hinterher. Glätte zuerst hohe Spalten und
+  bereite Paare vor, bevor du neue Früchte in diese Bereiche fallen lässt.
 
-A: Center for flexibility; edges only for trash lane management.
+- **F: Wo sollte ich am besten abwerfen?**  
+  **A:** Die Mitte bietet die größte Flexibilität; die Ränder eignen sich nur
+  für gezielte Müllspuren.
 
-- Q: Are undos fair game?
-
-A: Use sparingly to fix genuine misdrops.
-
+- **F: Sind Undo-Züge „erlaubt“?**  
+  **A:** Ja – nutze sie sparsam, um echte Fehlklicks zu korrigieren, nicht um
+  jeden Versuch zu perfektionieren.

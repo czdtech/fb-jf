@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-academy
-title: '[ZH TRANSLATION NEEDED] Jewel Academy'
-description: >-
-  [ZH TRANSLATION NEEDED] Enroll in the Jewel Academy and become a master of
-  match-3 puzzles. Swap colorful gems, create powerful special jewels, and solve
-  hundreds of challenging levels with unique objectives.
+title: "《Jewel Academy》宝石学院"
+description: "在《Jewel Academy》中成为三消大师：交换绚丽宝石、制造强力特殊宝石，完成数百个各具目标的关卡挑战。"
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/jewel-academy.png
 tags:
@@ -17,31 +14,34 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Jewel Academy is a rich and polished match-3 puzzle game that invites players to a world of colorful gems and magical challenges. As a student of the academy, you will progress through a vast map of levels, each with a unique objective. The core gameplay involves swapping adjacent jewels to create lines of three or more of the same color. By making strategic matches, you can create powerful special gems, overcome tricky obstacles, and solve hundreds of engaging puzzles.
+《Jewel Academy》是一款内容丰富、打磨精良的三消解谜游戏，你将作为“宝石学院”的学生，在一张张关卡地图上推进冒险。核心玩法是在棋盘上交换相邻宝石，形成三颗及以上同色直线，从而完成消除。通过精心规划可以制造各种特殊宝石，突破阻挡区域，解决数百个带有不同目标和机关的谜题关卡。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Look for Special Combos:** Don't just settle for matching three. Actively look for opportunities to match four or five jewels, as this is the key to creating powerful power-ups that can clear large sections of the board.
-2.  [ZH TRANSLATION NEEDED] **Combine Power-ups:** The most effective way to clear difficult levels is by combining special jewels. For example, swapping an Arrow jewel with a Bomb jewel will clear three rows and three columns simultaneously. Swapping two Color Bombs together will clear the entire board!
-3.  [ZH TRANSLATION NEEDED] **Focus on the Objective:** Always keep the level's goal in mind. If you need to clear certain blocked tiles, focus your matches in those areas. If you need to drop special items to the bottom, clear the jewels underneath them. Don't waste moves on matches that don't contribute to your goal.
-4.  [ZH TRANSLATION NEEDED] **Work from the Bottom:** When possible, make matches near the bottom of the board. This causes more jewels to fall from the top, increasing the chances of creating automatic chain reactions or cascades, which can help you complete objectives without using extra moves.
+### 游戏玩法与攻略
 
-### Controls Guide
+1.  **善用特殊消除组合**：不要满足于普通三连消，主动寻找 4 连、5 连以及特殊形状的机会：  
+    *   **4 连消除**：生成直线消除宝石，可一次清除整行或整列。  
+    *   **“L/T 形”5 连**：生成炸弹宝石，爆炸时可以清除周围 3x3 区域。  
+    *   **“直线”5 连**：生成彩色宝石（Color Bomb），与任意颜色交换后，会清除全盘所有该颜色宝石。  
+2.  **组合特殊宝石效果最大化**：两颗特殊宝石相邻时可以互相交换，触发更大范围的效果。例如：直线宝石 + 炸弹宝石可以横竖大范围清屏，两颗彩色宝石互换甚至能直接“洗”掉整盘宝石。  
+3.  **时刻围绕关卡目标下子**：有的关卡要求达到指定分数，有的则让你清除被锁住的地块、打碎冰块，或者把特定道具送到底部。在有限步数内，任何不为目标服务的消除都是浪费。  
+4.  **优先从底部开始布局**：尽量在棋盘下方制造消除，会带动更多宝石从上方掉落，有机会触发连锁（cascades），在不额外消耗步数的情况下自动完成更多消除。  
 
-[ZH TRANSLATION NEEDED] The game is played using a mouse or touch screen.
+### 操作说明
 
-*   **Swap Jewels:** Click on a jewel, then click on an adjacent jewel to swap their positions. Alternatively, you can click and drag a jewel to an adjacent spot. A swap is only valid if it results in a match of three or more.
-*   **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
+本作使用鼠标或触屏操作：
 
-### Frequently Asked Questions (FAQ)
+*   **交换宝石**：点击一颗宝石，再点击与其相邻的另一颗宝石进行交换；或直接拖动一颗宝石到相邻位置。只有形成有效三消（及以上）时，交换才会生效。  
+*   **触发特殊宝石**：将特殊宝石与任意相邻宝石交换，即可触发其效果；如果与另一颗特殊宝石交换，则会生成更强力的组合技。  
 
-*   **Q: How do I create a Bomb?**
-     *   **A:** You create a Bomb by matching five jewels in an "L" or "T" shape. Bombs explode and clear a 3x3 area of jewels around them.
+### 常见问题（FAQ）
 
-*   **Q: What does the rainbow-colored jewel do?**
-     *   **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
+*   **Q: 怎么生成炸弹宝石？**  
+    *   **A:** 当你将同色宝石排成 “L 形” 或 “T 形”的 5 连时，会生成炸弹宝石，爆炸时会清除其周围 3x3 区域。  
 
-*   **Q: Why did I run out of moves?**
-     *   **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
+*   **Q: 那颗彩虹色宝石有什么用？**  
+    *   **A:** 彩色宝石是通过直线 5 连生成的超级道具，将它与任意颜色宝石交换，会清除全盘所有该颜色宝石，是打难关的核心手段之一。  
 
+*   **Q: 为什么我会“步数用完却没过关”？**  
+    *   **A:** 许多关卡都有限定步数或限定移动次数，你必须在给定步数内完成关卡目标。如果步数耗尽仍未达成目标，就会失败，需要消耗一次生命重新挑战。

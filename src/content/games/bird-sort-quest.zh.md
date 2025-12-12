@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: bird-sort-quest
-title: '[ZH TRANSLATION NEEDED] Bird Sort Quest'
+title: Bird Sort Quest 小鸟排序挑战
 description: >-
-  [ZH TRANSLATION NEEDED] Bird Sort Quest turns color‑sorting into a soothing
-  challenge — move birds between perches, unify colors, and plan several steps
-  ahead.
+  《Bird Sort Quest 小鸟排序挑战》是一款舒缓的颜色归类益智游戏，在栖木之间搬运小鸟，让每个栖木最终只剩下
+  一种颜色，同时合理利用空位与“缓冲柱”避免走进死局。
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/bird-sort-quest.png
 tags:
@@ -17,42 +16,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Bird Sort Quest is a calm logic puzzle in the family of liquid/sort games. Each perch holds a stack of colorful birds. Move one bird at a time so that every perch ends up with birds of a single color. The challenge comes from limited free perches and the rule that only a matching color (or empty slot) can accept a moved bird, forcing you to plan buffers and temporary parking.
+### 详细游戏介绍
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Reserve buffers: Keep at least one empty perch as a flexible buffer for shuffling.
-2.  [ZH TRANSLATION NEEDED] Build from bottom: Stabilize stacks by finishing a color on a dedicated perch starting from the bottom.
-3.  [ZH TRANSLATION NEEDED] Avoid burying singles: Don’t trap unique colors under mixed stacks; surface them early.
-4.  [ZH TRANSLATION NEEDED] Two‑move foresight: Before moving, simulate the next two placements to avoid softlocks.
-5.  [ZH TRANSLATION NEEDED] Consolidate mid‑game: Merge partial stacks of the same color as soon as feasible to free perches.
-6.  [ZH TRANSLATION NEEDED] Backtrack quickly: If a move increases disorder, undo and try a different route while buffers are intact.
+*Bird Sort Quest* 属于“液体 / 颜色排序”一脉的逻辑解谜游戏，只不过这里装在瓶子里的不是水，而是一只只颜色鲜艳的小鸟。每根栖木上都叠着几只不同颜色的小鸟，你一次只能移动最上面那只小鸟到另一根栖木上。
 
-### Controls Guide
+最终目标是：**让每根栖木上只剩一种颜色的小鸟**。难点在于：可用的空栖木很少，同时只有颜色相同的小鸟（或完全空的栖木）才能接住你移动过来的那一只，这迫使你提前规划“临时停车位”和中转步骤。
 
-- Select a perch to pick the top bird, then select the destination perch.
-- Undo/Reset if the mode offers it; hints are best saved for late puzzles.
+### 游戏策略与通关思路
 
-### Frequently Asked Questions (FAQ)
+1.  **保留至少一根“缓冲栖木”**  
+    尽量让场上始终有一根完全空的栖木，作为临时堆放混色小鸟的缓冲区。没有缓冲位时，你会很快发现几乎无鸟可动。
 
-- Q: I’m stuck with no legal moves — what should I do?
-  
-[ZH TRANSLATION NEEDED]   A: Backtrack a few moves and reopen a buffer perch. Prioritize surfacing buried singles to create new legal placements.
+2.  **从栈底开始“完工”颜色**  
+    为每种颜色尽量找一根专属栖木，从底部开始把同色小鸟按顺序叠好。这样一旦某根栖木被单一颜色完全填满，就可以视为“锁定完成”，后续不再动它。
 
-- Q: Is there a guaranteed strategy for every level?
-  
-[ZH TRANSLATION NEEDED]   A: Not always, but maintaining at least one buffer and consolidating partial stacks early solves most layouts.
+3.  **避免把“单只颜色”埋在深处**  
+    对于出现次数较少的颜色（比如某颜色只有 2 只鸟），不要让它们被压在一大堆杂色下面。尽量在中前期就把这些“稀有颜色”提前搬到更靠上的位置，防止后期“卡死”。
 
-- Q: Should I finish one color completely before touching others?
-  
-[ZH TRANSLATION NEEDED]   A: It’s efficient to lock in a finished color when convenient, but don’t force it if it consumes all buffers.
+4.  **至少预想两步之后会发生什么**  
+    在移动之前，先在脑中模拟接下来两三步：这只鸟搬过去以后，会不会导致某根栖木无路可走？会不会把原本用来缓冲的栖木占满？如果答案是“会”，换一种搬法。
 
-- Q: Are extra perches ever added?
-  
-[ZH TRANSLATION NEEDED]   A: Some sets introduce bonus perches on tougher stages—use them as temporary parking to simplify.
+5.  **中盘尽早合并同色半成品**  
+    当你在不同栖木上已经各自累积了几只同色鸟时，找机会把它们合并到同一根栖木上，这样既能更接近“完工”，又能腾出新的缓冲位置。
 
-- Q: Do move counts matter?
-  
-[ZH TRANSLATION NEEDED]   A: In some modes yes; aim for minimal moves by reducing unnecessary shuffles.
+6.  **一旦感觉局面更乱，立刻回退**  
+    如果某一步之后，能动的鸟反而变少了，或者你失去了所有空栖木，说明这一步很可能是“错误分支”。趁着还记得前几步路径，尽快撤销几步回到更干净的局面。
 
+### 操作指南
+
+- 点击一根栖木，选中顶部那只小鸟，再点击另一根栖木，将这只小鸟移动过去。  
+- 如果当前模式支持“撤销 / 重置”，可以在察觉走错路时尽早使用；提示（Hint）则建议留给真正卡关的关卡。
+
+### 常见问题解答（FAQ）
+*   **问：卡到完全没合法移动了怎么办？****
+    **答：** 尝试回退几步，把原本用来缓冲的栖木重新腾空出来。优先把被埋在底层、只出现一两次的颜色先挖出来，这往往能打开新局面。
+*   **问：每一关都有必解方案吗？****
+    **答：** 多数关卡的确存在合理解法，但并非只有一条路。只要始终保留至少一根缓冲栖木，并且尽早合并同色半成品，大部分布局都可以被慢慢化解。
+*   **问：是不是应该先把某一种颜色完全排好再动别的？****
+    **答：** 在不占用全部缓冲位的前提下，优先完成一两种颜色是很有效的。但如果为了凑齐某色而占满所有空栖木、让局面失去机动性，就得不偿失了。
+*   **问：后面关卡会多给栖木吗？****
+    **答：** 有些关卡会在难度提升的同时额外增加一两根栖木作为奖励。要把这类额外栖木当作“高级缓冲位”，可以暂时堆放多种颜色，帮助你拆解复杂布局。
+*   **问：移动步数会影响评分吗？****
+    **答：** 某些模式只要求通关，另一些则会统计步数或给出评分。如果你在意步数，可以在已经摸清解法之后再刷一遍，用更少的无谓搬运完成同一关。

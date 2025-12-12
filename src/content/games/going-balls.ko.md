@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: going-balls
-title: '[KO] Going Balls'
+title: "Going Balls 3D 구슬 러너"
 description: >-
-  [KO] 3D ball‑rolling obstacle runner: balance across beams and traps, collect
-  coins, and reach the goal without falling.
+  좁은 길 위를 구슬을 굴리며 장애물을 피해 나가는 3D 러너 게임입니다. 빔과
+  함정, 움직이는 발판을 균형 있게 통과해 떨어지지 않고 골인 지점에 도달하세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/going-balls.jpg
@@ -19,27 +19,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
-Going Balls is a tilt‑and‑roll style runner on narrow tracks filled with beams, bumpers, hammers, and moving platforms. Precision matters: small steering inputs maintain balance, while reckless speed sends you off the edge. Stages introduce gimmicks like magnets, ramps, and zip tracks; coins unlock cosmetic balls and continues.
+### 게임 개요
 
-### How to Play
-- Feather steering to stay centered on beams; brake before sharp turns.
-- Time moving obstacles (hammers, pushers) and cross in their recovery windows.
-- Collect coins and keys along safer lines—don’t overreach.
+`Going Balls`는 좁은 트랙 위에서 구슬을 굴리며, 빔, 범퍼, 해머, 움직이는 발판
+등 다양한 장애물을 피하는 틸트 앤 롤 스타일 러너입니다. 작은 조작 하나가
+균형을 좌우하기 때문에, 과한 방향 전환이나 무리한 속도는 곧바로 추락으로
+이어질 수 있습니다. 스테이지가 진행될수록 자석, 경사로, 지프 레일 같은
+기믹이 추가되며, 코인을 모아 새로운 구슬 스킨이나 이어하기를 해금할 수 있습니다.
 
-### Controls
-- WASD/Arrows or drag to steer; Space/brake where available; R to retry (host dependent).
+### 플레이 방법
 
-### Tips
-- Look ahead; line up early for narrow entries.
-- On steep ramps, build speed first, then steer minimally.
-- If you start wobbling, slow down to re‑center.
+- 방향 전환은 최대한 부드럽게 해서, 빔 중앙에 몸을 두고 진행하세요. 급코너
+  직전에는 미리 속도를 줄이는 것이 안전합니다.
+- 해머나 푸셔 같은 움직이는 장애물은 공격 후 쉬는 타이밍이 있으니, 그
+  “빈틈”을 노려 통과해야 합니다.
+- 코인과 열쇠를 모으는 것도 중요하지만, 너무 무리해서 위험한 라인을 타면
+  오히려 손해입니다. 가능한 한 안전한 경로를 기준으로 회수하는 것이 좋습니다.
 
-### FAQ
-- Q: How can I stop falling off narrow beams?
-A: Reduce steering amplitude and approach straight on; micro‑correct only.
-- Q: What do coins unlock in the game?
-A: Cosmetics and, on some hosts, continues or bonus levels.
-- Q: Are there checkpoints in longer stages?
-A: Many levels include mid‑checkpoints; endless modes typically do not.
+### 조작 방법
 
+- `WASD` 혹은 방향키로 구슬의 이동 방향을 조절하거나, 터치/드래그로
+  스와이프 조작을 할 수 있습니다.
+- 일부 버전에서는 스페이스바로 브레이크를 걸거나, `R` 키로 즉시 재시도할 수
+  있습니다(호스트에 따라 상이).
+
+### 플레이 팁
+
+- 카메라를 조금 앞쪽에 두고, 미리 다음 구간의 입구에 맞춰 라인을 잡으면
+  좁은 틈으로 들어갈 때 훨씬 수월합니다.
+- 가파른 경사로에서는 먼저 직선으로 속도를 붙인 뒤, 방향키를 최소한으로
+  써서 균형을 유지해야 합니다.
+- 구슬이 흔들리기 시작했다면, 속도를 줄이거나 잠시 멈춰 중심을 다시 잡은
+  뒤 앞으로 나아가세요.
+
+### 자주 묻는 질문(FAQ)
+
+- Q: 좁은 빔에서 자꾸 떨어집니다. 어떻게 해야 하나요?  
+  A: 방향키를 크게 움직이면 오히려 더 흔들립니다. 빔과 최대한 직각으로
+  진입한 뒤, 아주 작은 입력으로만 좌우를 보정해 보세요.
+- Q: 코인은 어디에 쓰나요?  
+  A: 대부분의 버전에서 새로운 구슬 외형이나, 일부 호스트 기준으로 이어하기,
+  보너스 스테이지 등을 해금하는 데 사용됩니다.
+- Q: 긴 스테이지에도 체크포인트가 있나요?  
+  A: 많은 레벨에 중간 체크포인트가 포함되어 있지만, 끝less 모드에서는
+  보통 체크포인트 없이 한 번의 실수로 끝나는 경우가 많습니다.

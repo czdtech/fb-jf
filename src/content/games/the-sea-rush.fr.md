@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: the-sea-rush
-title: '[FR] The Sea Rush'
-description: >-
-  [FR] Dive into The Sea Rush, an exciting underwater adventure. Collect
-  treasures and avoid dangers from the deep.
+title: The Sea Rush
+description: "Plonge dans The Sea Rush, un match‑3 sous‑marin\_: aligne des animaux marins, déclenche des combos et collecte des trésors."
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/the-sea-rush.png
 tags:
@@ -14,26 +12,36 @@ score: 4.1/5 (1234 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Présentation
+
+Échange deux créatures adjacentes pour aligner au moins trois animaux
+
+### Guide de jeu
+identiques. Plus tu fais de grosses combinaisons, plus ton score monte.
 
 
 
-### Detailed Game Introduction
+    - **A:** Clearing more than three animals at once or creating combos will award you with more points.
 
-The Sea Rush is a match-3 puzzle game where players embark on an underwater adventure. The objective is to align three or more similar sea animals in a row or column by swapping adjacent animals.
+- **Q: How do I get more points?**
 
-### Gameplay Strategy & Walkthrough
+    - **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
 
-Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
+- **Q: What is the goal of the game?**
 
-### Controls Guide
+### Foire aux questions (FAQ)
 
-*   **[FR]** **Mouse:** Click to swap adjacent sea animals.
-*   **[FR]** **Touchscreen:** Swipe to swap adjacent sea animals.
+- **Touchscreen:** Swipe to swap adjacent sea animals.
 
-### Frequently Asked Questions (FAQ)
+- **Mouse:** Click to swap adjacent sea animals.
 
-*   **[FR]** **Q: What is the goal of the game?**
-    *   **[FR]** **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-*   **[FR]** **Q: How do I get more points?**
-    *   **[FR]** **A:** Clearing more than three animals at once or creating combos will award you with more points.
+### Commandes
 
+
+- **A:** Clearing more than three animals at once or creating combos will award you with more points.
+
+    - **Q: How do I get more points?**
+
+- **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
+
+    - **Q: What is the goal of the game?**

@@ -1,68 +1,67 @@
 ---
-locale: ja
-urlstr: cooking-mama
-title: '[JA TRANSLATION NEEDED] Cooking Mama: Mama Kills Animals'
+title: 'Cooking Mama: Mama Kills Animals クッキングママ：ママ・キルズ・アニマルズ'
 description: >-
-  [JA TRANSLATION NEEDED] Learn about 'Cooking Mama: Mama Kills Animals,' the
-  shocking parody game created by PETA. This guide explains its origin,
-  satirical gameplay, and the activist message behind it, distinguishing it from
-  the official series.
+  「Cooking Mama: Mama Kills
+  Animals」はPETAによる衝撃的なパロディゲーム。公式シリーズとは異なる、動物愛護団体の風刺的なメッセージとゲーム内容を解説。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/cooking-mama.jpg
+urlstr: cooking-mama
+score: 4.4/5  (1078 votes)
 tags:
   - horror
-score: 4.4/5  (1078 votes)
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
 
+**これは公式の「クッキングママ」ではありません。**
+*Cooking Mama: Mama Kills Animals（ママ・キルズ・アニマルズ）*は、動物愛護団体PETA（「動物の倫理的扱いを求める人々の会」）が制作した、無料のブラウザ・パロディゲームです。肉料理を扱う本家の『クッキングママ』シリーズに対する強烈な風刺（ブラックジョーク）として作られました。
 
-### **Game Introduction**
+本家の明るく可愛らしいアートスタイルやミニゲーム形式を模倣しつつ、その内容は残酷でグロテスクにねじ曲げられています。プレイヤーは七面鳥の羽を乱暴にむしったり、内臓を取り出したりといった、屠殺や調理の生々しい工程を体験させられます。
+このゲームの目的は「楽しむこと」ではなく、可愛らしいママと残酷な行為のギャップを通じてプレイヤーにショックを与え、肉食に反対するメッセージを伝えることにあります。最後には、ママが涙ながらに「もう肉料理は作らない」と宣言し、豆腐で作るターキー（Tofurkey）を作るようになります。
 
-[JA TRANSLATION NEEDED] **This is NOT an official Cooking Mama game.** *Cooking Mama: Mama Kills Animals* is a free, browser-based parody game created by the animal rights organization PETA. It was designed to be a satirical critique of the official *Cooking Mama* series, which features recipes containing meat.
+### 遊び方とヒント
 
-[JA TRANSLATION NEEDED] The game co-opts the cheerful art style and mini-game structure of the official series but twists it into a gruesome and graphic experience. Instead of lovingly preparing ingredients, the player is forced to perform brutal acts of animal slaughter. For example, a turkey recipe involves violently plucking feathers, dismembering the bird, and removing its internal organs in a bloody fashion.
+このゲームは伝統的な意味での「攻略」をするゲームではなく、一本道のメッセージ・体験型コンテンツです。
 
-[JA TRANSLATION NEEDED] The core of the game is the stark contrast between the cute, smiling "Mama" character and the horrific actions she is performing. The goal is not entertainment, but to shock the player and deliver a strong pro-vegetarian message. After completing the gory preparation of a turkey, Mama's eyes well up with tears, and she declares she will never cook meat again, proceeding to make a Tofurkey (a tofu-based turkey substitute) instead.
+1.  **目的を理解する:** これは楽しむためのゲームではなく、デジタルな抗議活動（アクティビズム）作品です。不快感を与えるように意図的に作られています。
+2.  **指示に従う:** 画面上の指示に従って、マウスをドラッグして羽をむしったり、クリックして切断したりします。難しい操作はありません。
+3.  **最後まで見る:** 失敗してゲームオーバーになることはありません。製作者の意図したメッセージを最後まで見届けましょう。
 
-### **Gameplay Strategy & Tips**
+### 操作ガイド
 
-[JA TRANSLATION NEEDED] There is no real "strategy" to win this game in a traditional sense, as it is a linear, message-driven experience. The goal is to complete the sequence of events as intended by its creators.
+元々はFlashゲームとして作られたもので、シンプルなマウス操作のみです。
 
-[JA TRANSLATION NEEDED] 1.  **Understand the Purpose**: The primary "tip" is to understand that you are not playing a game for fun. You are interacting with a piece of digital activism. The gameplay is intentionally unpleasant.
-[JA TRANSLATION NEEDED] 2.  **Follow On-Screen Instructions**: The game is very simple. It will explicitly show you what to do, such as clicking and dragging with the mouse to pluck feathers or cut parts of the animal. There are no complex mechanics to learn.
-[JA TRANSLATION NEEDED] 3.  **Complete the Narrative**: The only objective is to get through all the gruesome steps to see the final message. There is no scoring system or way to "fail" a step that would stop your progress. The game ensures you see its complete narrative arc.
+*   **マウス操作:** クリック、ドラッグ＆ドロップで、指示された方向へ動かします。
 
-### **Controls Guide**
-
-[JA TRANSLATION NEEDED] The game was originally a Flash-based browser game and uses very simple mouse controls.
-
-*   **Mouse Click and Drag**: Most actions, such as plucking, cutting, and moving items, are performed by clicking on an object and dragging the mouse in the direction indicated by on-screen arrows or guides.
-
-
-
-- **Complete the Narrative**: The only objective is to get through all the gruesome steps to see the final message. There is no scoring system or way to "fail" a step that would stop your progress. The game ensures you see its complete narrative arc.
-- **Follow On-Screen Instructions**: The game is very simple. It will explicitly show you what to do, such as clicking and dragging with the mouse to pluck feathers or cut parts of the animal. There are no complex mechanics to learn.
-### **Frequently Asked Questions (FAQ)**
-
-[JA TRANSLATION NEEDED] **1. Is this a real, official Cooking Mama game?**
-
-
-### **Frequently Asked Questions (よくある質問)**
-- **Mouse Click and Drag**: Most actions, such as plucking, cutting, and moving items, are performed by clicking on an object and dragging the mouse in the direction indicated by on-screen arrows or guides.
-
-### **Frequently Asked Questions (よくある質問)**
-[JA TRANSLATION NEEDED] No, absolutely not. It is a parody created by the animal rights organization PETA to protest the use of meat in the official games. It is not affiliated in any way with the official franchise or its developers.
-
-[JA TRANSLATION NEEDED] **2. Why is this game so violent and graphic?**
-[JA TRANSLATION NEEDED] The graphic nature is intentional. PETA used shock value to contrast the sanitized, happy portrayal of cooking in the official games with what they present as the violent reality of meat preparation. The goal is to make the player feel uncomfortable and question the source of their food.
-
-[JA TRANSLATION NEEDED] **3. Is there an official vegetarian Cooking Mama game?**
-[JA TRANSLATION NEEDED] Yes. Partly in response to this parody and general feedback, the official developers later released titles like *Gardening Mama* and *Cooking Mama: World Kitchen*, which included more vegetarian recipes or modes.
-
-[JA TRANSLATION NEEDED] **4. Where can I play this game?**
-[JA TRANSLATION NEEDED] It was originally a free game on PETA's website. As it was built on Adobe Flash, which is now discontinued, it may be difficult to play on modern browsers. It might be accessible through Flash preservation projects or archives like the Internet Archive's Software Library.
-
+### よくある質問 (FAQ)
 
 
 It was originally a free game on PETA's website. As it was built on Adobe Flash, which is now discontinued, it may be difficult to play on modern browsers. It might be accessible through Flash preservation projects or archives like the Internet Archive's Software Library.
+
+**4. Where can I play this game?**
+
+Yes. Partly in response to this parody and general feedback, the official developers later released titles like *Gardening Mama* and *Cooking Mama: World Kitchen*, which included more vegetarian recipes or modes.
+
+**3. Is there an official vegetarian Cooking Mama game?**
+
+The graphic nature is intentional. PETA used shock value to contrast the sanitized, happy portrayal of cooking in the official games with what they present as the violent reality of meat preparation. The goal is to make the player feel uncomfortable and question the source of their food.
+
+**2. Why is this game so violent and graphic?**
+
+No, absolutely not. It is a parody created by the animal rights organization PETA to protest the use of meat in the official games. It is not affiliated in any way with the official franchise or its developers.
+
+**1. Is this a real, official Cooking Mama game?**
+*   **Q: これは任天堂やオフィスの公式ゲームですか？**
+    *   **A:** いいえ、全く関係ありません。PETAが勝手に作った無許可のパロディ作品です。
+
+*   **Q: なぜこんなに暴力的でグロテスクなのですか？**
+    *   **A:** 「肉を食べるまでの過程には残酷な現実がある」という主張を、本家の幸せな雰囲気と対比させることで強調するためです。ショック療法的な手法が使われています。
+
+*   **Q: 菜食主義のクッキングママは存在しますか？**
+    *   **A:** このパロディの影響もあってか、公式シリーズ（『ガーデニングママ』など）でも野菜中心のレシピやモードが増える傾向が見られました。
+
+*   **Q: どこで遊べますか？**
+    *   **A:** 元々はPETAのサイトにありましたが、現在はFlashが廃止されたため、アーカイブサイトや保存プロジェクトなどを通じてプレイできる場合があります。

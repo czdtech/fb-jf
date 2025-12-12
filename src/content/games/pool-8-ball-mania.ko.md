@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: pool-8-ball-mania
-title: '[KO] Pool 8 Ball Mania'
+title: "Pool 8 Ball Mania 8볼 당구 매니아"
 description: >-
-  [KO] Pool 8 Ball Mania refines bar‑pool — aim clean, control cue‑ball with
-  spin, and clear patterns with smart position play.
+  8볼 룰을 기반으로 한 캐주얼 포켓볼 게임입니다. 당점과 스핀을
+  조절해 수구를 컨트롤하고, 다음 공까지 연결되는 포지션 플레이를
+  연습해 보세요.
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/pool-8-ball-mania.png
 tags:
@@ -16,34 +17,67 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+*Pool 8 Ball Mania*는 바에서 즐기는 8볼 포켓볼을 간단한 조작으로
+재현한 캐주얼 당구 게임입니다. 공을 넣는 것 자체도 중요하지만,
+그 다음 샷을 위해 수구를 어디에 세울지를 계산하는 **포지션
+플레이**가 핵심입니다.
 
-Pool 8 Ball Mania simulates casual 8‑ball with responsive aiming and spin. The core is cue‑ball control: land shape for the next shot, use topspin to follow, backspin to draw, and sidespin off rails to manage lines.
+큐볼에 상단회전(팰로), 하단회전(드로), 사이드 스핀을 적절히
+걸어 쿠션을 이용해 라인을 만들고, 동시에 파울 없이 자신의 공을
+먼저 처리해야 합니다.
 
-### Gameplay Strategy & Walkthrough
+### 플레이 전략 & 공략
 
-1.  **[KO]** Pre‑plan shape: Decide landing spots before every pot.
-2.  **[KO]** Speed first: Smooth medium strokes trump power slams.
-3.  **[KO]** Spin sparing: Small top/back/side spin corrections are safer.
-4.  **[KO]** Pattern clears: Resolve clusters and problem balls early.
-5.  **[KO]** Safety: If the pot is thin and risky, play safe to leave the opponent tough.
+1. **다음 공 위치까지 미리 생각하기**  
+   공을 넣기 전에, 수구가 넣은 뒤 어디에 멈추면 좋은지 먼저
+   정하세요. 그 위치에 맞춰 강도와 스핀을 조절하면 연속 득점을
+   노리기 쉬워집니다.
 
-### Controls Guide
+2. **과한 힘보다 안정적인 중간 스트로크**  
+   너무 강하게 치면 포켓에서 튕겨 나오거나 수구가 예측 불가한
+   궤적을 그립니다. 부드럽고 중간 정도의 힘으로 정확도를 높이는
+   것이 더 중요합니다.
 
-- Aim: drag; Power: pull meter; Spin: adjust cue‑ball diagram; Camera: pan/zoom if available.
+3. **스핀은 조금씩, 필요한 만큼만**  
+   상·하·사이드 스핀은 궤적을 크게 바꾸지만, 과하게 사용하면
+   컨트롤이 어렵습니다. 라인을 살짝 수정하는 느낌으로 적은 양
+   위주로 사용하는 것이 안전합니다.
 
-### Frequently Asked Questions (FAQ)
+4. **문제 되는 뭉치 공은 먼저 풀기**  
+   서로 엉켜 있는 공이나 포켓 접근이 어려운 공은 게임 후반까지
+   남겨 두면 곤란해집니다. 비교적 여유 있을 때 일부러 쿠션 플레이로
+   뭉치를 풀어 두세요.
 
-- Q: Pots rattle out — why?
+5. **위험한 샷은 세이프티도 고려하기**  
+   매우 얇은 두께로 겨냥해야 하는 위험한 샷이라면, 무리하게 득점을
+   노리기보다 상대에게 어려운 배치만 남기는 **세이프티 샷**도
+   좋은 선택입니다.
 
-A: Too much speed or impure line; reduce power and aim through pocket center.
+### 조작 가이드
 
-- Q: How to hold position?
+- **조준**: 마우스를 드래그해 큐의 방향을 맞추고, 가이드 라인을
+  확인합니다.  
+- **파워 조절**: 파워 게이지를 뒤로 당겼다가 놓아 샷의 강도를
+  결정합니다.  
+- **스핀 설정**: 큐볼 그림 위에서 당점을 클릭/드래그해 상단·하단·
+  사이드 스핀을 설정합니다.  
+- **카메라**: 지원되는 버전에서는 시점을 이동하거나 확대/축소해
+  더 정확한 각도를 확인할 수 있습니다.
 
-A: Short follow/draw and use rails to bleed speed.
+### 자주 묻는 질문(FAQ)
 
-- Q: Break tips?
+- **Q: 공이 포켓 입구에서 자꾸 튕겨 나와요.**  
+  **A:** 속도가 너무 빠르거나, 포켓 중앙을 정확히 지나가지 않았을
+  가능성이 큽니다. 조금 더 약하게 치고, 포켓 중앙 라인을 가른다는
+  느낌으로 조준해 보세요.
 
-A: Square on head ball, moderate power, control cue‑ball center.
+- **Q: 수구 위치를 잘 유지하려면 어떻게 해야 하나요?**  
+  **A:** 짧은 팰로/드로와 쿠션을 적절히 이용해 속도를 줄이면
+  원하는 지점 근처에 멈추게 만들 수 있습니다.
 
+- **Q: 브레이크 샷은 어떻게 치는 게 좋나요?**  
+  **A:** 정면의 헤드 볼을 향해 너무 무리하지 않는 중간 이상의 힘으로
+  큐를 밀어 넣는 것이 좋습니다. 큐볼이 테이블 중앙 근처에 남도록
+  컨트롤하면 이후 첫 공 선택이 한결 수월해집니다.

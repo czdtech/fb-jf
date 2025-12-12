@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: solitaire
-title: '[KO] Solitaire'
+title: 'Solitaire 솔리테어'
 description: >-
-  [KO] Solitaire is the classic single-player card game where players arrange
-  cards in specific sequences and suits, aiming to move all cards to foundation
-  piles and clear the tableau in this timeless puzzle game.
+  Solitaire는 카드를 정해진 순서와 무늬에 맞게 늘어놓아 모든 카드를 바닥 패로
+  옮기고 테이블로를 비우는 고전 1인용 카드 게임입니다. 규칙은 단순하지만
+  높은 전략성이 있어 오래 즐길 수 있는 퍼즐 카드 게임입니다.
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/solitaire.jpg
 tags:
@@ -18,34 +18,49 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+"Solitaire"는 혼자 즐기는 대표적인 카드 게임으로, 카드를 정해진 순서와 무늬에 맞게
+재배치해 네 개의 바닥 패에 모두 옮기는 것이 목표입니다. 테이블로 위의 카드를
+이동하며 숨겨진 카드를 드러내고, 적절한 순서로 쌓아 가면서 퍼즐을 푸는 느낌으로
+즐길 수 있는 게임입니다.
 
-### Game Introduction
+### 플레이 전략
 
-"Solitaire" is the classic single-player card game where players arrange cards in specific sequences and suits, aiming to move all cards to foundation piles and clear the tableau. This timeless puzzle game is widely popular for its simple-to-learn but strategy-requiring characteristics.
+1.  **숨겨진 카드 우선 공개:** 새로운 선택지를 만들기 위해, 뒷면 카드가
+    드러나도록 하는 움직임을 먼저 고려하세요.
+2.  **빈 열을 현명하게 사용:** 비어 있는 열은 킹(K)이나 킹으로 시작하는 카드
+    묶음을 옮길 수 있는 중요한 임시 보관 공간이 됩니다.
+3.  **연속 수를 미리 설계:** 한 번의 이동이 다음 수를 막지 않게, 여러 단계를
+    미리 생각하면서 카드를 옮기는 것이 좋습니다.
+4.  **바닥 패 관리:** 카드를 바로 바닥 패로 올릴 수 있더라도, 다른 이동에
+    필요할 수 있으니 상황을 보고 적절한 타이밍에 올리세요.
+5.  **버림 패 활용:** 덱에서 나온 버림 패 카드도 중요한 자원입니다. 테이블로나
+    바닥 패를 완성하는 데 적극적으로 활용해 보세요.
 
-### Gameplay Strategy
+### 플레이 방법
 
-1.  **[KO]** **Prioritize Revealing Hidden Cards**: Prioritize moving cards that can reveal hidden cards, increasing available move options.
-2.  **[KO]** **Use Empty Columns Wisely**: Empty columns can hold Kings and serve as important temporary storage space.
-3.  **[KO]** **Plan Move Sequences**: Plan multi-step moves in advance to avoid blocking subsequent operations.
-4.  **[KO]** **Foundation Pile Management**: Move cards to foundation piles at appropriate times, but be aware you might need these cards to help other moves.
-5.  **[KO]** **Utilize Waste Pile**: Make good use of cards in the waste pile to complete necessary moves.
+*   **카드 이동:** 카드를 클릭한 뒤 드래그하여 다른 열이나 바닥 패로 옮깁니다.
+*   **카드 뒤집기:** 열의 맨 위에 있는 뒷면 카드를 클릭하면 앞면으로 뒤집습니다.
+*   **자동 이동:** 더블클릭 시, 규칙에 맞는 경우 자동으로 적절한 바닥 패로
+    이동하는 기능이 제공되기도 합니다.
+*   **되돌리기:** 일부 버전에서는 되돌리기 기능이 있어, 방금 한 수를 취소할 수
+    있습니다.
 
-### How to Play
+### 자주 묻는 질문
 
-*   **[KO]** **Move Cards**: Click and drag cards to appropriate positions.
-*   **[KO]** **Flip Cards**: Click on face-down cards at the top of piles to flip them.
-*   **[KO]** **Auto-move**: Double-clicking cards may automatically move them to appropriate foundation piles (if possible).
-*   **[KO]** **Undo**: Some versions provide undo functionality to reverse moves.
+1.  **Q: 바닥 패(Foundation)는 무엇인가요?**
+    **A:** 바닥 패는 네 개의 빈 공간으로, 각 무늬별로 A부터 K까지
+    순서대로 카드를 쌓아 완성해야 하는 영역입니다.
 
-### Frequently Asked Questions
+2.  **Q: 여러 장의 카드를 한 번에 옮길 수 있나요?**
+    **A:** 내림차순으로 정렬되어 있고 색깔이 번갈아 배치된 카드 묶음만 한 번에
+    함께 이동할 수 있습니다.
 
-1.  **[KO]** **Q: What are foundation piles?**
-**A**: Foundation piles are four empty spaces that need to be filled with cards by suit from A to K in order.
-2.  **[KO]** **Q: How do I move multiple cards?**
-**A**: Only card sequences arranged in descending order with alternating suits can be moved together.
-3.  **[KO]** **Q: What if the game is unsolvable?**
-**A**: Not all card layouts have solutions; when encountering unsolvable situations, you can start a new game.
-4.  **[KO]** **Q: How does the scoring system work?**
-**A**: Usually based on completion time, number of moves, and number of hints used.
+3.  **Q: 아예 풀 수 없는 판도 있나요?**
+    **A:** 있습니다. 모든 카드 배열이 항상 해결 가능한 것은 아니며, 어떤 배치는
+    수학적으로 클리어가 불가능할 수 있습니다. 이런 경우 새 게임을 시작해
+    도전해 보세요.
+
+4.  **Q: 점수는 어떻게 계산되나요?**
+    **A:** 보통 클리어 시간, 이동 횟수, 힌트 사용 여부 등으로 점수가 결정됩니다.

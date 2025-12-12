@@ -1,54 +1,52 @@
 ---
-locale: ja
-urlstr: stick-fighter
-title: '[JA TRANSLATION NEEDED] Stick Fighter'
-description: >-
-  [JA TRANSLATION NEEDED] Become a master of stickman combat in Stick Fighter!
-  This action-packed brawler pits you against other stick figures in a
-  physics-based arena. Use your fists, feet, and a variety of weapons to be the
-  last one standing.
-iframeSrc: >-
-  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
+title: Stick Fighter
+description: Stick Fighterは、スティックマン戦闘ゲームです。技を使って相手を倒しましょう。
+iframeSrc: 'https://ubg98.github.io/StickFighter/'
 thumbnail: /new-images/stick-fighter.jpg
+urlstr: stick-fighter
+score: 4.2/5  (2167 votes)
 tags:
-  - fighting
   - action
-  - stickman
-score: 3.6/5  (1444 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - fighting
+  - arcade
+locale: ja
 ---
 
-### Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Stick Fight is a fast-paced, physics-based fighting game where you control a simple stick figure and battle against others in a variety of hazardous arenas. The goal is to be the last stickman standing. The game is known for its chaotic, unpredictable combat, where environmental dangers and a wide array of weapons lead to hilarious and action-packed rounds.
+Stick Fighterは、スティックマンキャラクターを使ったアーケードスタイルの戦闘ゲームです。さまざまな技やコンボを使って相手を倒しましょう。
 
-### Gameplay Guide
+### ゲームプレイガイド
 
-[JA TRANSLATION NEEDED] The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
-- **Combat:** Use punches, kicks, and a variety of weapons that are dropped into the arena.
-- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
-- **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
 
-### Controls Guide
+The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
+ - **戦闘技術：** さまざまな技とコンボをマスターします
+ - **相手を倒す：** スキルを使って相手を倒します
+ - **進行：** レベルを進めてより強い相手と戦います
+ - **コンボ：** 技を組み合わせて強力なコンボを作成します
 
-[JA TRANSLATION NEEDED] Controls are typically based on a standard 2D platformer layout:
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
-- **Jump:** `W` or `Up Arrow` Key
-- **Crouch:** `S` or `Down Arrow` Key
-- **Attack:** `Left Mouse Button` or `F`
+### 操作ガイド
+
+
+Controls are typically based on a standard 2D platformer layout:
+ - **矢印キー：** 移動
+ - **A/S/D：** 攻撃技
+ - **スペースバー：** ジャンプ/特別な技
+
+
 - **Block:** `Right Mouse Button` or `G`
 
-### Frequently Asked Questions (FAQ)
+- **Attack:** `Left Mouse Button` or `F`
+### よくある質問（FAQ）
 
-[JA TRANSLATION NEEDED] **What is the main goal of Stick Fight?**
+**ゲームの目標は何ですか？**
 
-[JA TRANSLATION NEEDED] To be the last player standing by knocking your opponents off the stage or defeating them with weapons.
+さまざまな技を使ってすべての相手を倒すことです。
 
-[JA TRANSLATION NEEDED] **Can I play this game with friends?**
+**どうやってコンボを実行しますか？**
 
-[JA TRANSLATION NEEDED] Yes, Stick Fight is primarily a multiplayer game, often supporting both local and online matches with 2-4 players.
+技を素早く連続して使用してコンボを作成します。
 
-[JA TRANSLATION NEEDED] **What kind of weapons are in the game?**
+**難易度は高いですか？**
 
-[JA TRANSLATION NEEDED] The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
-
+ゲームは徐々に難しくなり、より多くの技とタイミングが必要になります。

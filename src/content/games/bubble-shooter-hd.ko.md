@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: bubble-shooter-hd
-title: '[KO] Bubble Shooter HD'
+title: Bubble Shooter HD 버블 슈터 HD
 description: >-
-  [KO] Enjoy the classic and highly addictive Bubble Shooter HD! Aim your bubble
-  and match three or more of the same color to clear the board.
+  고전 버블 슈터를 깔끔한 고해상도 그래픽으로 즐길 수 있는 Bubble Shooter HD 입니다. 버블을 조준해 같은 색 3개 이상을
+  맞추고, 연쇄 반응으로 한 번에 많은 버블을 떨어뜨려 보세요.
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
 thumbnail: /new-images/bubble-shooter-hd.png
 tags:
@@ -15,35 +15,68 @@ score: 4.6/5  (2890 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Bubble Shooter HD는 남녀노소 누구나 쉽게 즐길 수 있는 고전 버블 슈터를 HD
+그래픽으로 다듬은 퍼즐 게임입니다. 화면 아래에서 버블을 쏘아 올려 위쪽에 쌓인
+버블 더미에 붙이고, 같은 색 버블을 세 개 이상 연결해 터뜨리면 해당 그룹이
+사라집니다.
 
+조작은 매우 단순하지만, 어디를 먼저 정리할지, 어떤 색을 남겨 둘지에 따라 난이도가
+달라지는 전략성이 있어, 가볍게 한 판씩 즐기기에도 좋고 점수에 도전하기에도
+적합합니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **조준선(가이드라인)을 적극 활용하기**  
+    게임은 조준을 돕는 가이드 라인을 제공합니다. 특히 벽 반사 각도를 이용해야
+    하는 복잡한 상황에서는, 가이드 라인이 가리키는 최종 위치를 보고 미리 경로를
+    계산해 두는 것이 좋습니다.
 
-Bubble Shooter HD is a polished, high-definition version of the timeless bubble-popping puzzle game. The goal is to clear the playing field by forming groups of three or more like-colored bubbles. With its simple, intuitive gameplay, crisp graphics, and satisfying chain reactions, this game offers endless hours of strategic fun for players of all skill levels.
+2.  **벽 반사(뱅크 샷) 마스터하기**  
+    정면으로는 도달하기 어려운 구석이나, 다른 색 버블에 가려진 위치는 측면
+    벽을 이용한 뱅크 샷으로 공략할 수 있습니다. 어느 지점에 맞춰야 원하는
+    위치로 꺾이는지 몇 번 연습해 두면 고난도 배치도 훨씬 수월해집니다.
 
-### Gameplay Strategy & Walkthrough
+3.  **윗부분 연결 고리부터 끊기**  
+    많은 버블이 아래로 매달려 있는 구조에서는, 최상단의 연결 지점 몇 개만
+    터뜨려도 아래쪽 덩어리가 통째로 떨어집니다. 바로 눈앞의 작은 그룹보다,
+    더 많은 버블을 매달고 있는 상단 연결 고리를 먼저 노리면 큰 연쇄 반응으로
+    빠르게 판을 정리할 수 있습니다.
 
-1.  **[KO]** **Aim Carefully:** The game provides a guideline to help you aim. Use it to plan your shots precisely, especially for complex ricochet moves.
-2.  **[KO]** **Bank Shots are Key:** Bounce bubbles off the side walls to get to hard-to-reach places. Mastering bank shots is crucial for tackling more advanced board layouts.
-3.  **[KO]** **Go for the Top:** Prioritize clearing bubbles that are holding up other bubbles. By severing the connection at a high point, you can cause a large cascade of bubbles to fall, earning massive points and clearing the board faster.
-4.  **[KO]** **Plan Ahead:** Pay attention to the color of the next bubble in your launcher. This allows you to plan two moves ahead and set up more effective combos.
-5.  **[KO]** **Don't Waste Shots:** In many versions, a certain number of missed shots (shots that don't create a match) will cause a new row of bubbles to appear at the top, increasing the difficulty. Make every shot count!
+4.  **다음 버블 색까지 보고 두 수 앞을 계획하기**  
+    발사기 옆에 표시되는 다음 버블 색을 잘 확인하고, 항상 두 번의 샷을 한
+    세트로 묶어 생각해 보세요. 첫 번째 샷으로 구조를 정리하고, 두 번째 샷으로
+    대량 제거를 노리는 식의 콤보를 설계할 수 있습니다.
 
-### Controls Guide
+5.  **헛발사(매치 실패)를 최소화하기**  
+    많은 버전에서, 매치에 실패한 샷이 일정 횟수 이상 쌓이면 상단에 새로운 줄이
+    추가되어 난이도가 크게 올라갑니다. 굳이 쏠 필요가 없는 애매한 샷은 아끼고,
+    명확하게 3개 이상을 만들 수 있는 위치 위주로 발사해 보세요.
 
-*   **[KO]** **Aim:** Move your mouse to aim the bubble launcher.
-*   **[KO]** **Shoot:** Click the left mouse button to fire a bubble.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+-   **조준:** 마우스를 움직여 발사기의 방향을 조절합니다.
+-   **발사:** 마우스 왼쪽 버튼을 클릭해 버블을 쏩니다.
 
-*   **[KO]** **Q: What is the objective of the game?**
-    *   **[KO]** **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: How do I get more points?**
-    *   **[KO]** **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
+-   **Q. 게임의 최종 목표는 무엇인가요?**  
+    A. 보드 위의 모든 버블을 제거하고 가능한 한 높은 점수를 얻는 것이 목표입니다.
+    버블이 화면 하단의 제한선까지 내려오면 게임이 종료됩니다.
 
-*   **[KO]** **Q: Can I swap the bubble in my shooter?**
-    *   **[KO]** **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
+    - **Q. 점수를 더 많이 얻으려면 어떻게 해야 하나요?**  
+    A. 한 번에 많은 버블을 떨어뜨릴수록 점수가 크게 오릅니다. 위쪽 연결부를
+    끊어 아래에 매달린 버블 덩어리를 통째로 떨어뜨리는 연쇄 반응을 노리는 것이
+    고득점의 핵심입니다.
 
+-   **Q. 현재 장전된 버블을 다음 버블과 바꿀 수 있나요?**  
+
+    - **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
+
+- **Q: Can I swap the bubble in my shooter?**
+
+    - **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
+    A. 일부 버전에서는 발사기 옆에 있는 스왑 버튼을 눌러 현재 버블과 다음 버블을
+    서로 교환할 수 있지만, 항상 가능한 것은 아닙니다. 게임 화면에 교환 아이콘이
+    있는지 확인해 보세요.

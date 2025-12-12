@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bonanza-shooter-bubble
-title: '[ES] Bonanza Shooter Bubble'
+title: "Bonanza Shooter Bubble"
 description: >-
-  [ES] Bonanza Shooter Bubble is a colorful bubble‑shooter — bank angles, manage
-  colors, and drop big clusters for points.
+  Bonanza Shooter Bubble es un colorido juego de disparar burbujas: ajusta ángulos,
+  gestiona colores y suelta enormes racimos para sumar puntos.
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/bonanza-shooter-bubble.jpg
 tags:
@@ -15,36 +15,47 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Bonanza Shooter Bubble es un bubble shooter clásico con rebotes generosos y
+caídas muy satisfactorias. Apunta y dispara para conectar tres o más burbujas
+del mismo color, limpiar grupos y hacer que las secciones colgantes se vengan
+abajo. El éxito depende de controlar bien los ángulos, gestionar los colores que
+quedan en pantalla y planificar con qué burbuja vas a disparar a continuación.
 
-### Detailed Game Introduction
+### Estrategia y recorrido de juego
 
-Bonanza Shooter Bubble is a classic bubble shooter with generous banking and satisfying drops. Aim and fire to connect three or more of the same color, clearing clusters and causing dangling groups to fall. Success hinges on angle control, color management, and planning for the next bubble.
+1.  **Usa los rebotes:** Apóyate en las paredes laterales para llegar a grupos
+    escondidos o difíciles de alcanzar con un disparo directo.
+2.  **Corta los anclajes:** A veces basta con eliminar una sola burbuja de
+    unión para que caiga todo un racimo suspendido.
+3.  **Cuida la economía de colores:** Evita enterrar colores raros bajo capas
+    inútiles; prioriza disparos que abran múltiples caminos y liberen espacio.
+4.  **Piensa por adelantado:** Si puedes ver la siguiente burbuja, planifica al
+    menos dos jugadas para no bloquear carriles importantes.
+5.  **Controla el ritmo:** Cuando el techo empieza a bajar, prioriza limpiezas
+    seguras antes que disparos arriesgados que solo buscan una gran jugada.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Bank shots: Use side‑wall bounces to reach tucked clusters.
-2.  **[ES]** Cut anchors: Remove the single connecting bubble to drop an entire hanging group.
-3.  **[ES]** Color economy: Avoid burying rare colors; prioritize shots that unlock multiple paths.
-4.  **[ES]** Look‑ahead: If next bubble is shown, pre‑plan two moves to avoid blocking lanes.
-5.  **[ES]** Pace control: When the ceiling lowers, favor safe clears over greedy snipes.
+- Apunta con ratón o pantalla táctil y haz clic/toque para disparar; en algunos
+  modos podrás intercambiar la burbuja actual con la siguiente.
+- Pausar/Reiniciar desde los botones de la interfaz.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim with mouse/touch and click/tap to fire; swap bubbles if the mode allows.
-- Pause/Restart via UI.
+- **P: No consigo golpear un grupo que está cubierto, ¿algún truco?**
 
-### Frequently Asked Questions (FAQ)
+  R: Intenta un disparo con rebote en la pared lateral para entrar con un ángulo
+  más suave.
 
-- Q: I can’t hit a covered cluster—any trick?
+- **P: No paran de salirme colores que no necesito, ¿qué hago?**
 
-A: Bank off the side wall to approach from a shallower angle.
+  R: Recorta pequeños grupos y prepara futuras caídas grandes; si el modo lo
+  permite, usa el intercambio de burbujas para gestionar mejor el color que
+  disparas.
 
-- Q: Wrong colors keep coming—what should I do?
+- **P: ¿Es obligatorio recoger estrellas?**
 
-A: Trim small groups and set up future collapses; swap bubbles if available.
-
-- Q: Do I need to collect stars?
-
-A: Stars are optional goals but help unlock extra levels—pursue them when it’s safe.
-
+  R: Las estrellas suelen ser objetivos opcionales, pero ayudan a desbloquear
+  niveles extra; intenta conseguirlas cuando no comprometan tu partida.

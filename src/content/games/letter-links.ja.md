@@ -1,106 +1,45 @@
 ---
+title: "Letter Links"
+description: "毎日のワード構築チャレンジです。レタータイルをボードに配置して高得点の単語を形成し、ボーナスマスを利用し、すべての文字を1つのグループで接続します。"
+iframeSrc: "https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/"
+thumbnail: "/new-images/letter-links.png"
+urlstr: "letter-links"
+score: "4.6/5  (2850 votes)"
+tags: ["puzzle", "thinky", "casual"]
+developer: ""
+releaseDate: 2025-10-17
 locale: ja
-urlstr: letter-links
-title: '[JA TRANSLATION NEEDED] Letter Links'
-description: >-
-  [JA TRANSLATION NEEDED] A daily word-building challenge. Place your letter
-  tiles on the board to form high-scoring words, utilize bonus squares, and
-  connect all your letters in a single group.
-iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
-thumbnail: /new-images/letter-links.png
-tags:
-  - puzzle
-  - thinky
-  - casual
-score: 4.6/5  (2850 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Letter Linksは、スクラブルと類似性を共有する戦略的なワード構築ゲームです。毎日、ポイント値を持つレタータイルの新しいセットが与えられます。目標は、これらのタイルをゲームボードに配置して、クロスワードパズルのように、有効で相互接続された単語を形成することです。高価値の文字とボード上の特別なボーナスマスを戦略的に利用することで、可能な限り高いスコアを達成することを目指します。
 
-4.  **Use High-Value Letters Wisely:** Save your high-value letters (like Z, Q, J, X) to be placed on bonus squares like DL, TL, DW, or TW to maximize their impact.（日本語訳が必要）
-[JA TRANSLATION NEEDED] Letter Links is a strategic word-building game that shares similarities with Scrabble. Each day, you are given a new set of letter tiles, each with a point value. Your goal is to place these tiles on a game board to form valid, interconnected words, much like a crossword puzzle. By strategically utilizing high-value letters and special bonus squares on the board, you aim to achieve the highest possible score.
+### ゲームプレイ戦略と攻略法
 
-- **Place Tiles:** Click and drag a letter tile from your rack at the bottom to a square on the game board.（日本語訳が必要）
-### Gameplay Strategy & Walkthrough
+1.  **ボーナスを知る:** 高得点の鍵は、ボーナスマスを効果的に使用することです。
+    *   **DL（ダブルレター）:** その上に配置された文字のポイント値を2倍にします。
+    *   **TL（トリプルレター）:** その上に配置された文字のポイント値を3倍にします。
+    *   **DW（ダブルワード）:** このマスを使用する単語全体のスコアを2倍にします。
+    *   **TW（トリプルワード）:** このマスを使用する単語全体のスコアを3倍にします。
 
-[JA TRANSLATION NEEDED] 1.  **Know Your Bonuses:** The key to a high score is using the bonus squares effectively.
-- **Q: Why was my word rejected?**（日本語訳が必要）
-[JA TRANSLATION NEEDED]     *   **DL (Double Letter):** Doubles the point value of the letter placed on it.
-[JA TRANSLATION NEEDED]     *   **TL (Triple Letter):** Triples the point value of the letter placed on it.
-[JA TRANSLATION NEEDED]     *   **DW (Double Word):** Doubles the score of the entire word that uses this square.
-[JA TRANSLATION NEEDED]     *   **TW (Triple Word):** Triples the score of the entire word that uses this square.
+2.  **中央を中心に構築する:** ゲームでは、中央のスターマスを占有する必要があります。そこで最初の単語を開始します。
+3.  **オーバーラップを作成する:** 1つの長い単語を構築するだけではありません。得点する最良の方法は、一度に複数の単語を形成する移動をすることです。たとえば、水平の単語を同時に完成させ、新しい垂直の単語を形成するタイルを配置します。
+4.  **高価値の文字を賢く使用する:** 高価値の文字（Z、Q、J、Xなど）を保存して、そのインパクトを最大化するためにDL、TL、DW、またはTWのようなボーナスマスに配置します。
 
-[JA TRANSLATION NEEDED] 2.  **Build Around the Center:** The game requires that the center star square must be occupied. Start your first word there.
-[JA TRANSLATION NEEDED] 3.  **Create Overlaps:** Don't just build one long word. The best way to score is to make a move that forms multiple words at once. For example, placing a tile that simultaneously completes a horizontal word and forms a new vertical word.
-[JA TRANSLATION NEEDED] 4.  **Use High-Value Letters Wisely:** Save your high-value letters (like Z, Q, J, X) to be placed on bonus squares like DL, TL, DW, or TW to maximize their impact.
+### 操作ガイド
 
-### Controls Guide
+*   **タイルを配置:** 下部のラックからレタータイルをクリックしてドラッグし、ゲームボード上のマスにドラッグします。
+*   **タイルをリコール:** 気が変わった場合、送信する前に配置されたタイルをラックに戻すことができます。
+*   **送信:** タイルを配置したら、「Submit Words」ボタンをクリックしてロックし、スコアを計算します。
 
-*   **Place Tiles:** Click and drag a letter tile from your rack at the bottom to a square on the game board.
-*   **Recall Tiles:** You can drag a placed tile back to your rack before submitting if you change your mind.
-### コントロール Guide
-*   **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
-- **Recall Tiles:** You can drag a placed tile back to your rack before submitting if you change your mind.（日本語訳が必要）
-- **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.（日本語訳が必要）
-### Frequently Asked Questions (よくある質問)
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
-    - **A:** There are a few possibilities: 1) It's not a valid word in the game's dictionary. 2) Not all of your placed tiles are connected in a single group. 3) The center star square was not used.（日本語訳が必要）
-2.  **構築する Around the Center:** The game requires that the center star square must be occupied. Start your first word there.
-    - **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.（日本語訳が必要）
-- **Q: How are points calculated?**（日本語訳が必要）
-- **Q: Can I play diagonally?**（日本語訳が必要）
-    - **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).（日本語訳が必要）
+*   **Q: なぜ私の単語が拒否されたのですか？**
+    *   **A:** いくつかの可能性があります：1）ゲームの辞書で有効な単語ではありません。2）配置されたタイルのすべてが1つのグループで接続されていません。3）中央のスターマスが使用されませんでした。
 
-*   **Q: Why was my word rejected?**
-[JA TRANSLATION NEEDED]     *   **A:** There are a few possibilities: 1) It's not a valid word in the game's dictionary. 2) Not all of your placed tiles are connected in a single group. 3) The center star square was not used.
+*   **Q: ポイントはどのように計算されますか？**
+    *   **A:** 単語のスコアは、その文字の値の合計で、任意の単語ボーナス（DW、TW）で乗算されます。レターボーナス（DL、TL）は、単語乗数の前に個々の文字に適用されます。
 
-*   **Q: How are points calculated?**
-[JA TRANSLATION NEEDED]     *   **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
-
-*   **Q: Can I play diagonally?**
-[JA TRANSLATION NEEDED]     *   **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
-
-
-    - **DL (Double Letter):** Doubles the point value of the letter placed on it.（日本語訳が必要）
-    - **TL (Triple Letter):** Triples the point value of the letter placed on it.（日本語訳が必要）
-    - **DW (Double Word):** Doubles the score of the entire word that uses this square.（日本語訳が必要）
-    - **TW (Triple Word):** Triples the score of the entire word that uses this square.（日本語訳が必要）
-3.  **Create Overlaps:** Don't just build one long word. The best way to score is to make a move that forms multiple words at once. For example, placing a tile that simultaneously completes a horizontal word and forms a new vertical word.（日本語訳が必要）
-
-
-
-
-
-
-
-
-
-
-
-
-
-    - **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
-- **Q: Can I play diagonally?**
-    - **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
-- **Q: How are points calculated?**
-    - **A:** There are a few possibilities: 1) It's not a valid word in the game's dictionary. 2) Not all of your placed tiles are connected in a single group. 3) The center star square was not used.
-- **Q: Why was my word rejected?**
-### よくある質問（FAQ）
-- **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
-- **Recall Tiles:** You can drag a placed tile back to your rack before submitting if you change your mind.
-- **Place Tiles:** Click and drag a letter tile from your rack at the bottom to a square on the game board.
-### コントロールガイド
-- **Use High-Value Letters Wisely:** Save your high-value letters (like Z, Q, J, X) to be placed on bonus squares like DL, TL, DW, or TW to maximize their impact.
-
-    - **A:** There are a few possibilities: 1) It's not a valid word in the game's dictionary. 2) Not all of your placed tiles are connected in a single group. 3) The center star square was not used.
-- **Create Overlaps:** Don't just build one long word. The best way to score is to make a move that forms multiple words at once. For example, placing a tile that simultaneously completes a horizontal word and forms a new vertical word.
-
-
-
-
-    - **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
-- **Q: Can I play diagonally?**
-    - **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
+*   **Q: 斜めにプレイできますか？**
+    *   **A:** いいえ。すべての単語は、水平（左から右）または垂直（上から下）に形成される必要があります。

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: mazes
-title: '[DE] Mazes'
+title: "Mazes"
 description: >-
-  [DE] Mazes delivers classic labyrinth runs — draw optimal paths, dodge traps,
-  and beat par times with clean routing.
+  Mazes liefert klassische Labyrinthläufe: Zeichne optimale Wege, weiche Fallen
+  aus und unterbiete die Vorgabezeiten mit sauberer Routenplanung.
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/mazes.jpg
 tags:
@@ -16,35 +16,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Mazes bietet eine Sammlung von Labyrinthen – von einfachen Gittern bis hin zu
+fallenbestückten Parcours. Die Herausforderung liegt in der Routenplanung:
+Du suchst den kürzesten sicheren Weg, meidest Fallenfelder und aktivierst
+Schalter, die Türen öffnen, ohne dabei die vorgegebenen Zeiten zu sprengen.
 
-### Detailed Game Introduction
+### Strategie & Tipps
 
-Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. The challenge is route planning: finding shortest safe paths, avoiding trap tiles, and hitting switches to open gates while staying under par times.
+1.  **Wandfolgeregel nur gezielt nutzen**  
+    In einfach aufgebauten Labyrinthen kannst du der rechten oder linken Wand
+    folgen, um den Ausgang zu finden. In mehrschleifigen Layouts solltest du
+    diese Methode aber irgendwann aufgeben.
 
-### Gameplay Strategy & Walkthrough
+2.  **Abkürzungen früh scouten**  
+    Zoome, falls möglich, ein wenig heraus und schaue, wo Türen und Schalter
+    liegen. Plane eine Route, die alles in einem Durchgang abdeckt, statt
+    später zurücklaufen zu müssen.
 
-1.  **[DE]** Right/left‑hand rules: Use wall‑following on simply connected mazes; abandon on multi‑loops.
-2.  **[DE]** Shortcut scouting: Zoom to spot door/switch pairs and plan a single sweep.
-3.  **[DE]** Trap memory: Mark dangerous tiles mentally to avoid repeat hits.
-4.  **[DE]** Time splits: Don’t chase a perfect line first; secure a finish, then optimize.
-5.  **[DE]** Safe corridors: Favor wide lanes when precision is shaky.
+3.  **Fallen einprägen**  
+    Merke dir gefährliche Felder und Muster, damit du nicht mehrfach in
+    dieselbe Falle läufst.
 
-### Controls Guide
+4.  **Erst ankommen, dann optimieren**  
+    Versuche anfangs einfach, das Ziel sicher zu erreichen. Wenn du das Layout
+    kennst, kannst du in späteren Versuchen deine Zeitroute verfeinern.
 
-- Drag or WASD to move; restart/undo if supported.
+5.  **Breite Gänge bevorzugen**  
+    Wenn deine Steuerung noch unsicher ist, wähle – wo möglich – breitere Wege,
+    um nicht an Kanten oder Fallen hängen zu bleiben.
 
-### Frequently Asked Questions (FAQ)
+### Steuerung
 
-- Q: I keep missing switches.
+- Bewege deine Figur per Drag-Geste oder mit WASD/Pfeiltasten.  
+- Neustart und ggf. Rückgängig-Funktion stehen über die UI zur Verfügung.
 
-A: Route past every key junction; add a small detour rather than backtracking later.
+### FAQ
 
-- Q: Are traps random?
+- **F: Ich laufe ständig an Schaltern vorbei.**  
+  **A:** Plane deine Route so, dass du alle wichtigen Abzweigungen einmal
+  ansteuerst – ein kleiner Umweg ist besser als spätes Zurücklaufen.
 
-A: Usually fixed; learn their positions.
+- **F: Sind Fallen zufällig?**  
+  **A:** In der Regel nein, ihre Positionen sind fix. Nutze mehrere Versuche,
+  um sie dir einzuprägen.
 
-- Q: Any speedrun tip?
-
-A: Hug inner walls on bends and cut diagonals where allowed.
-
+- **F: Tipps für besonders schnelle Läufe?**  
+  **A:** Halte dich in Kurven an die Innenwand und schneide – sofern erlaubt –
+  diagonale Linien, um unnötige Wegstrecke zu sparen.

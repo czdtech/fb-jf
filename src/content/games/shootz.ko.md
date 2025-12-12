@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: shootz
-title: '[KO] ShootZ'
+title: "ShootZ 슛츠"
 description: >-
-  [KO] ShootZ is an action-packed shooting game where players battle against
-  zombies and other creatures, using a variety of weapons to survive
-  increasingly challenging waves of enemies in fast-paced combat.
+  좀비와 괴물 무리를 상대로 싸우는 액션 슈팅 게임입니다. 다양한
+  무기를 업그레이드하며 점점 강해지는 웨이브를 버텨 보세요.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/shootz.jpg
 tags:
@@ -18,35 +17,65 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+### 게임 소개
 
+*ShootZ*는 몰려오는 좀비와 각종 몬스터를 상대로 싸우는 액션 슈팅
+게임입니다. 플레이어는 여러 종류의 총기와 무기를 사용해 빠른 템포의
+전투를 펼치며, 라운드가 진행될수록 더 강하고 많은 적 웨이브를
+상대해야 합니다.
 
-### Game Introduction
+다양한 무기 시스템과 꾸준한 업그레이드를 통해 화력을 키워 가는
+맛이 특징입니다.
 
-"ShootZ" is an action-packed shooting game where players battle against zombies and other creatures. Use a variety of weapons to survive in fast-paced combat, facing increasingly challenging waves of enemies. The game is famous for its intense shooting action and diverse weapon systems.
+### 플레이 전략
 
-### Gameplay Strategy
+1. **무기 업그레이드에 투자하기**  
+   전투 중 얻는 자원으로 무기를 업그레이드하면 공격력과 효율이
+   크게 올라갑니다. 자주 사용하는 주력 무기부터 우선적으로 강화해
+   두세요.
 
-1.  **[KO]** **Weapon Upgrades**: Collect resources to upgrade weapons, improving firepower and efficiency.
-2.  **[KO]** **Enemy Priority**: Identify different types of enemies and prioritize defeating the most threatening targets.
-3.  **[KO]** **Survival Strategy**: Keep moving and use environmental obstacles to block enemy attacks.
-4.  **[KO]** **Resource Management**: Allocate ammunition and health wisely, look for supply items.
-5.  **[KO]** **Combo Attacks**: Learn to use combinations of different weapons to handle various situations.
+2. **적 유형별 우선 순위 정하기**  
+   느리지만 체력이 높은 적, 빠르게 돌진하는 적, 원거리 공격을 하는
+   적 등 다양한 타입이 존재합니다. 가장 위협적인 적을 먼저 제거하는
+   것이 생존에 유리합니다.
 
-### How to Play
+3. **지속적인 이동으로 생존하기**  
+   한 곳에 멈춰 서 있으면 사방에서 포위되기 쉽습니다. 맵을 계속
+   돌면서 장애물을 방패 삼고, 좁은 통로를 이용해 적 수를 제한해
+   싸우세요.
 
-*   **[KO]** **Movement**: Use WASD keys or arrow keys to control character movement.
-*   **[KO]** **Aim and Shoot**: Use mouse to aim and click to shoot.
-*   **[KO]** **Reload**: Press R key to reload.
-*   **[KO]** **Weapon Switch**: Use number keys to switch between different weapons.
-*   **[KO]** **Special Skills**: Some versions may include special skills or item usage.
+4. **탄약·체력 자원 관리**  
+   탄약과 체력 아이템은 한정되어 있으므로, 필요할 때만 사용하고
+   여유 있을 때 미리 보급 위치를 기억해 두면 좋습니다.
 
-### Frequently Asked Questions
+5. **무기 조합으로 상황 대응하기**  
+   군중 제어에 좋은 무기와 단일 대상에 강한 무기를 함께 갖추면,
+   다양한 상황에 유연하게 대응할 수 있습니다.
 
-1.  **[KO]** **Q: How do I get better weapons?**
-**A**: By defeating enemies, completing levels, or collecting in-game currency to unlock and purchase new weapons.
-2.  **[KO]** **Q: What if there are too many zombies to handle?**
-**A**: Stay calm, look for bottleneck positions to limit enemy numbers, and prioritize defeating fast-moving enemies.
-3.  **[KO]** **Q: Are there different difficulty modes in the game?**
-**A**: Many versions offer different difficulty settings and game modes for players to choose from.
-4.  **[KO]** **Q: How can I improve shooting accuracy?**
-**A**: Practice aiming more, learn to predict moving enemy positions, and adjust mouse sensitivity settings.
+### 조작 가이드
+
+- **이동**: `WASD` 또는 방향키로 캐릭터를 이동합니다.  
+- **조준 및 사격**: 마우스로 조준하고 클릭해 발사합니다.  
+- **재장전**: `R` 키로 탄약을 재장전합니다.  
+- **무기 변경**: 숫자 키로 다른 무기로 전환합니다.  
+- **특수 스킬**: 일부 버전에서는 별도의 키로 특수 스킬이나
+  소비형 아이템을 사용할 수 있습니다.
+
+### 자주 묻는 질문(FAQ)
+
+1. **Q: 더 좋은 무기는 어떻게 얻나요?**  
+   **A:** 적을 처치하고 스테이지를 클리어하면 얻는 보상이나 게임 내
+   화폐로 새로운 무기를 해금·구매할 수 있습니다.
+
+2. **Q: 좀비가 너무 많아 감당이 안 됩니다.**  
+   **A:** 병목 지점에서 싸우거나, 이동 경로가 좁은 곳으로 유도해 한
+   번에 상대해야 할 적 수를 줄이세요. 가장 빠른 적부터 우선적으로
+   처리하는 것도 중요합니다.
+
+3. **Q: 난이도 모드가 여러 개 있나요?**  
+   **A:** 많은 버전이 쉬움·보통·어려움 등 난이도 선택과 다양한 게임
+   모드를 제공합니다. 자신의 실력에 맞는 모드에서 연습해 보세요.
+
+4. **Q: 명중률을 높이려면 어떻게 해야 하나요?**  
+   **A:** 마우스 감도를 자신에게 맞게 조정하고, 움직이는 적의 이동
+   방향을 예측해 약간 앞을 향해 조준하는 연습을 해 보세요.

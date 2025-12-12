@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: checkers-legend
-title: '[KO] Checkers Legend'
+title: Checkers Legend 체커스 레전드
 description: >-
-  [KO] Become a Checkers Legend in this classic board game. Plan your moves,
-  capture your opponent's pieces, and crown your kings to dominate the board.
+  Checkers Legend는 고전 보드게임 체커스를 디지털로 즐길 수 있는 전략 게임입니다. 수를 앞서 읽고 상대 돌을 잡아내며,
+  왕(King)으로 승격시켜 보드를 지배해 보세요.
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
 thumbnail: /new-images/checkers-legend.png
 tags:
@@ -16,36 +16,69 @@ score: 4.6/5  (2900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 게임 소개
 
+Checkers Legend는 Draughts로도 알려진 고전 전략 보드게임 체커스를 디지털로 구현한
+게임입니다. 8x8 체커보드에서 두 플레이어가 번갈아 말을 움직이며, 상대 말들을
+잡아내거나 더 이상 움직이지 못하게 막는 것이 목표입니다. 규칙은 단순하지만,
+앞 수를 내다보는 전술과 수읽기가 중요한 두뇌 싸움 게임입니다.
 
+### 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1.  **기본 이동**  
+    처음에는 모든 말이 앞쪽 대각선 방향으로만 한 칸씩 이동할 수 있습니다.
+    항상 어두운 색 칸 위에서만 이동·점프가 이루어집니다.
 
-Checkers Legend is a digital version of the classic strategy board game, also known as Draughts. The game is played on an 8x8 checkered board between two opponents. The objective is simple but requires deep strategy: capture all of your opponent's pieces or block them so they have no legal moves left. It's a timeless game of foresight and tactics.
+2.  **점프(잡기) 규칙 이해하기**  
+    자신의 말 대각 바로 앞에 상대 말이 있고, 그 뒤 칸이 비어 있다면 그 위를
+    뛰어넘어 착지하며 상대 말을 잡을 수 있습니다. 많은 룰에서 **점프 가능한 상황이
+    있다면 반드시 점프를 해야 한다**는 강제 잡기 규칙이 적용됩니다. 착지 후 또 다른
+    점프가 가능하다면, 한 턴에 연속 점프를 이어 가야 합니다.
 
-### Gameplay Strategy & Walkthrough
+3.  **킹(King) 승격**  
+    자신의 말이 상대 진영의 마지막 줄까지 도달하면 왕(King)으로 승격되어
+    말 위에 왕관 표시가 생깁니다. 킹이 되면 앞·뒤 대각선 방향으로 모두 이동과
+    점프가 가능해져 훨씬 강력해집니다.
 
-1.  **[KO]** **Basic Movement:** Your pieces, or "men," can only move one step diagonally forward onto an empty dark square.
-2.  **[KO]** **Capturing:** The key to winning is capturing your opponent's pieces. If your piece is diagonally adjacent to an opponent's piece, and the square directly behind that opponent's piece is empty, you *must* jump over and capture it. If your landing position allows for another jump, you must take that one as well in the same turn.
-3.  **[KO]** **Becoming a King:** When one of your pieces reaches the last row on the opponent's side of the board, it gets "crowned" and becomes a King. Kings are marked with a crown.
-4.  **[KO]** **King Power:** Kings are much more powerful because they can move and capture both diagonally forwards and diagonally backwards.
-5.  **[KO]** **Control the Center:** A good strategy is to control the center of the board. This gives your pieces more mobility and limits your opponent's options.
-6.  **[KO]** **Protect Your Back Row:** Be careful not to leave your back row (the row closest to you) open for your opponent to easily get a King.
+4.  **센터 장악하기**  
+    보드 중앙을 장악하면 이동 옵션이 늘고, 상대의 선택지는 줄어듭니다.
+    너무 한쪽 구석에만 말을 몰지 말고, 중앙부에 말을 배치해 공격·수비 모두에
+    유리한 포지션을 잡는 것이 좋습니다.
 
-### Controls Guide
+5.  **마지막 줄 수비 유지**  
 
-The game is played with simple clicks.
+- **Protect Your Back Row:** Be careful not to leave your back row (the row closest to you) open for your opponent to easily get a King.
+    자신의 맨 뒷줄을 너무 일찍 비워 두면, 상대가 쉽게 킹을 만들 수 있습니다.
+    초반에는 최소 한두 개의 말을 뒷줄에 남겨 두어, 상대가 곧바로 승격하지 못하게
+    막는 것이 안전합니다.
 
-*   **[KO]** **Select a Piece:** Click on one of your pieces to select it. Valid moves will be highlighted.
-*   **[KO]** **Move a Piece:** Click on a highlighted empty square to move your selected piece there.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+게임 조작은 매우 간단한 클릭 방식입니다.
 
-*   **[KO]** **Q: Do I have to jump if I can?**
-    *   **[KO]** **A:** Yes. In most official rules of Checkers, capturing is mandatory. If you have a legal jump available, you must take it.
+-   **말 선택:** 자신의 말을 클릭하면 선택되며, 이동 가능한 칸이 하이라이트됩니다.
+-   **이동:** 하이라이트된 빈 칸을 클릭해 해당 위치로 말을 이동합니다.
+    점프가 가능한 경우, 점프 가능한 칸만 선택할 수 있습니다.
 
-*   **[KO]** **Q: What makes a King so special?**
-    *   **[KO]** **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
+### 자주 묻는 질문 (FAQ)
 
-*   **[KO]** **Q: How do I win the game?**
-    *   **[KO]** **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
+-   **Q. 점프할 수 있을 때 반드시 해야 하나요?**  
+    A. 대부분의 공식 체커스 룰에서는 잡을 수 있는 말이 있을 경우 반드시 점프해
+    잡아야 합니다. 이 규칙 때문에 일부러 상대에게 강제 점프를 강요하는 함정을
+    놓는 전략도 가능합니다.
+
+    - **Q. 킹 말은 무엇이 다른가요?**  
+    A. 일반 말은 전진 대각선으로만 이동·점프할 수 있지만, 킹이 되면 후진 대각까지
+    포함해 양방향으로 움직이고 잡을 수 있습니다. 따라서 킹을 얼마나 많이 확보하느냐가
+    중후반 승부에 큰 영향을 줍니다.
+
+-   **Q. 어떻게 하면 게임에서 이기나요?**  
+
+    - **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
+
+- **Q: How do I win the game?**
+
+    - **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
+    A. 상대 말이 하나도 남지 않거나, 남은 말이 더 이상 어떤 합법적인 이동도 할 수
+    없는 상태가 되면 승리합니다. 말 수 우위를 바탕으로 상대의 이동 선택지를
+    점점 줄여 나가는 것이 정석적인 승리 패턴입니다.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: gin-rummy
-title: '[KO] Gin Rummy'
+title: Gin Rummy 진 러미 카드 게임
 description: >-
-  [KO] Play the classic card game of Gin Rummy. Form your cards into sets and
-  runs, knock to end the round, and try to catch your opponent with a hand full
-  of deadwood.
+  클래식 2인용 카드 게임 Gin Rummy를 온라인으로 즐겨 보세요. 손패를 셋과 런으로 정리해 데드우드를 줄이고, 적절한 타이밍에
+  낙(knock)을 선언해 라운드를 끝낸 뒤 상대의 손패에 남은 데드우드로 점수를 벌어 보세요.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/gin-rummy.png
 tags:
@@ -16,42 +15,83 @@ score: 4.7/5  (2800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### 상세 게임 소개
 
+`Gin Rummy`는 러미 계열에 속하는 고전 2인용 카드 게임입니다. 목표는 자신의
+손패를 “멜드(meld)”라 불리는 유효한 조합으로 정리하는 것입니다. 멜드는 같은
+랭크의 카드를 모은 **셋(Set)** 이나, 같은 무늬로 이어지는 **런(Run)** 으로
+구성되며, 라운드가 끝났을 때 상대보다 남는 “데드우드(deadwood)” 점수가 적을수록
+유리합니다. 어떤 카드를 버리고 어떤 카드를 가져가는지에 따라 정보가 드러나기
+때문에, 기억력과 심리전, 전략이 모두 필요한 게임입니다.
 
+### 게임 플레이 전략 & 공략
 
-### Detailed Game Introduction
+1. **게임의 목표**  
+   게임 시작 시 각 플레이어에게 10장의 카드가 주어집니다. 목표는 이 손패를
+   멜드로 최대한 많이 묶고, 남는 카드(데드우드)의 합이 **10점 이하**가
+   되었을 때 적절한 타이밍에 낙(knock)을 선언하는 것입니다.
 
-Gin Rummy is a classic two-player card game that belongs to the Rummy family. The objective is to form your hand into valid combinations called "melds"—either sets of the same rank or runs of the same suit. The goal is to score points by having less "deadwood" (unmatched cards) than your opponent when a round ends. It's a game of skill, strategy, and memory, where you must pay close attention to what your opponent discards.
+2. **멜드의 종류**  
+    - **셋(Set)**: 같은 숫자(랭크)의 카드 3장 또는 4장 조합  
+     예: 8♠ 8♥ 8♦  
+    - **런(Run)**: 같은 무늬로 연속된 숫자 3장 이상  
+     예: 5♣ 6♣ 7♣
 
-### Gameplay Strategy & Walkthrough
+3. **한 차례의 진행**  
+   자신의 턴이 오면 항상 두 가지 행동을 순서대로 해야 합니다.  
+    - **드로우(Draw)**: 버려진 카드 더미(디스카드 파일)의 맨 위 카드 **또는**
+     남아 있는 카드 더미(스톡 파일)의 맨 위 카드 한 장을 가져옵니다.  
+    - **디스카드(Discard)**: 손패에서 필요 없는 카드 1장을 골라 버려진 더미
+     위에 앞면이 보이도록 놓습니다.
 
-1.  **[KO]** **The Goal:** To form your 10-card hand into melds and "knock" when the value of your unmatched cards (deadwood) is 10 or less.
-2.  **[KO]** **Melds:**
-    *   **[KO]** **Sets:** Three or four cards of the same rank (e.g., 8♠ 8♥ 8♦).
-    *   **[KO]** **Runs:** Three or more cards of the same suit in sequence (e.g., 5♣ 6♣ 7♣).
-3.  **[KO]** **The Turn:** On your turn, you must perform two actions:
-    *   **[KO]** **Draw:** Take either the top face-up card from the discard pile OR the top face-down card from the stock pile.
-    *   **[KO]** **Discard:** Discard one card from your hand onto the discard pile, placing it face-up.
-4.  **[KO]** **Knocking:** You can end the round by "knocking" if your deadwood value is 10 or less. To knock, you discard a card and then lay out your melds and deadwood. Your opponent then gets a chance to lay off their own deadwood cards on your melds.
-5.  **[KO]** **Going Gin:** If you form melds with all 10 of your cards, you can "Go Gin." This results in a bonus, and your opponent is not allowed to lay off any cards.
-6.  **[KO]** **Scoring:** Card values are: Aces = 1, Face Cards (K, Q, J) = 10, Number Cards = face value. After a knock, if your deadwood value is lower than your opponent's, you score the difference. If your opponent's deadwood is lower (an "undercut"), they score the difference plus a bonus.
+4. **낙(Knocking)**  
+   손패의 데드우드 점수 합이 10 이하가 되면 라운드를 끝낼 수 있는 “낙”을
+   선언할 수 있습니다. 낙을 할 때는 마지막으로 한 장을 버리고, 자신의 멜드와
+   데드우드 카드를 모두 공개해 테이블에 펼칩니다. 이후 상대는 자신의 남은
+   데드우드 카드를 당신의 멜드에 이어 붙이는 “레이 오프(lay off)”를 할
+   기회를 얻습니다.
 
-### Controls Guide
+5. **고 진(Go Gin)**  
+   손패 10장 전체를 멜드로 완벽하게 구성했다면 “고 진(Go Gin)”을 선언할 수
+   있습니다. 이 경우 보너스 점수를 크게 얻고, 상대는 당신의 멜드에 카드를
+   이어 붙일 수 없습니다.
 
-The game is played with a mouse or touch screen.
+6. **점수 계산**  
+   카드 점수는 에이스=1점, 그림 카드(K, Q, J)=10점, 숫자 카드는 표기 숫자대로
+   계산합니다. 낙 이후 데드우드 합이 더 낮은 플레이어가 두 합의 차이만큼의
+   점수를 얻습니다. 만약 낙을 선언한 플레이어보다 상대의 데드우드 합이 더
+   낮다면 이를 **언더컷(undercut)** 이라 부르며, 상대가 차이점수에 추가 보너스를
+   더해 획득하게 됩니다.
 
-*   **[KO]** **Draw:** Click on either the face-down stock pile or the face-up discard pile to take a card.
-*   **[KO]** **Discard:** Click on a card in your hand to move it to the discard pile.
-*   **[KO]** **Knock/Go Gin:** A special button will usually appear when you are eligible to knock or go gin.
+### 조작 방법
 
-### Frequently Asked Questions (FAQ)
+마우스 또는 터치로 간단하게 플레이할 수 있습니다.
 
-*   **[KO]** **Q: What is "deadwood"?**
-    *   **[KO]** **A:** Deadwood refers to any cards left in your hand that are not part of a valid set or run. The goal is to minimize the point value of your deadwood.
+- **드로우**: 화면의 뒤집힌 카드 더미(스톡) 또는 앞면이 보이는 버림패 더미
+  중 하나를 클릭/탭해 카드를 가져옵니다.
+- **디스카드**: 손패에서 버리고 싶은 카드를 클릭/탭해 버림패 더미로
+  이동시킵니다.
+- **낙/고 진**: 데드우드 조건을 만족하면 UI 상에 낙 또는 Go Gin 버튼이
+  표시되며, 이를 눌러 라운드를 종료할 수 있습니다.
 
-*   **[KO]** **Q: Should I always take a card from the discard pile?**
-    *   **[KO]** **A:** Only if it helps you form a meld. Be aware that taking a card from the discard pile signals to your opponent what kind of meld you might be building.
+### 자주 묻는 질문(FAQ)
 
-*   **[KO]** **Q: What is an "undercut"?**
-    *   **[KO]** **A:** An undercut happens when you knock, but your opponent has a deadwood value equal to or less than yours after they lay off their cards. In this case, your opponent scores points instead of you.
+- **Q: “데드우드(deadwood)”가 무엇인가요?**  
+  **A:** 어떤 셋이나 런에도 포함되지 않은 채 손에 남아 있는 카드들을 말합니다.
+  이 카드들의 점수 합을 최소화하는 것이 게임의 핵심입니다.
 
+    - **Q: 버림패 더미에서 카드를 항상 가져오는 게 좋나요?**  
+  **A:** 반드시 그렇지는 않습니다. 버림패에서 카드를 가져오면, 상대에게
+  “어떤 멜드를 만들고 있는지” 힌트를 주게 됩니다. 멜드에 확실히 도움이 되는
+  카드가 아니라면, 되도록 스톡에서 뽑는 편이 정보를 숨기기에 유리합니다.
+
+- **Q: 언더컷(undercut)은 무엇인가요?**  
+
+    - **A:** An undercut happens when you knock, but your opponent has a deadwood value equal to or less than yours after they lay off their cards. In this case, your opponent scores points instead of you.
+
+- **Q: What is an "undercut"?**
+
+    - **A:** Only if it helps you form a meld. Be aware that taking a card from the discard pile signals to your opponent what kind of meld you might be building.
+  **A:** 내가 낙을 선언했지만, 상대가 레이 오프까지 마친 후 데드우드 합이
+  나보다 더 낮거나 같을 때를 말합니다. 이 경우 점수는 내가 아니라 상대에게
+  돌아가며, 추가 언더컷 보너스까지 함께 주어집니다.

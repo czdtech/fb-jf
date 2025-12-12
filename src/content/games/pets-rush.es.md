@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: pets-rush
-title: '[ES] Pets Rush'
+title: Pets Rush - Match-3 frenético de mascotas
 description: >-
-  [ES] A fast-paced and colorful match-3 puzzle! Swap cute pets to make matches
-  of three or more, create powerful combos, and clear the board before the pets
-  reach the top.
+  Un match-3 rápido y lleno de color. Intercambia adorables mascotas para formar
+  líneas de tres o más, crea potentes combos y limpia el tablero antes de que
+  los bloques lleguen a la parte superior.
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/pets-rush.jpg
@@ -19,32 +19,49 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Pets Rush es un match-3 trepidante con temática de mascotas. A diferencia de
+los juegos clásicos por niveles, aquí se trata de sobrevivir el máximo tiempo
+posible. Un muro de bloques con simpáticos animales va subiendo desde la parte
+inferior de la pantalla y debes encadenar combinaciones sin parar para evitar
+que llegue arriba. Intercambia mascotas adyacentes para formar líneas de tres o
+más, provoca combos y mantén el tablero a raya para lograr una puntuación alta.
 
-Pets Rush is a fast-paced and exciting match-3 puzzle game with an adorable animal theme. Unlike traditional level-based match-3 games, this is a game of survival. A wall of colorful pet blocks continuously rises from the bottom of the screen, and you must frantically make matches to keep it from reaching the top. Swap adjacent pets to create lines of three or more, trigger combos, and clear the board for as long as you can to achieve a high score.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  **Controlar las columnas altas:** tu objetivo principal es impedir que
+    ninguna columna alcance la parte superior; prioriza las combinaciones en las
+    columnas más altas.
+2.  **Buscar combos:** la forma más eficaz de despejar es preparar reacciones en
+    cadena. Cuando formas un match, nuevas fichas caen; intenta colocar piezas
+    de modo que al desaparecer una línea se forme otra automáticamente.
+3.  **Pensar y actuar rápido:** el muro de mascotas se acelerará con el tiempo;
+    tendrás que localizar y ejecutar combinaciones cada vez más deprisa.
+4.  **Aprovechar bloques especiales:** estate atento a bloques o power‑ups
+    especiales que puedan aparecer; son ideales para limpiar zonas grandes en
+    situaciones de emergencia.
 
-1.  **[ES]** **Stay Ahead of the Rise:** Your primary goal is to prevent any column from reaching the top of the screen. Always prioritize making matches in your tallest columns to push them back down.
-2.  **[ES]** **Look for Combos:** The most effective way to clear the board is to set up chain reactions. When you make a match, new pets will fall into place. Look for opportunities where clearing one line will cause another match to form automatically. These combos clear more space and award more points.
-3.  **[ES]** **Think Fast, Act Fast:** The wall of pets will rise faster as the game progresses. You need to quickly identify and execute matches to keep up with the increasing speed.
-4.  **[ES]** **Special Blocks:** Keep an eye out for any special blocks or power-ups that might appear. These can help you clear large sections of the board in a pinch.
+### Guía de controles
 
-### Controls Guide
+El juego emplea controles sencillos de intercambio.
 
-The game is played with simple swap controls.
+*   **Intercambiar mascotas:** haz clic en una mascota y luego en una adyacente
+    para intercambiarlas, o arrastra una sobre otra. Solo se permitirá el
+    intercambio si genera una combinación de tres o más.
 
-*   **[ES]** **Swap Pets:** Click on a pet and then click on an adjacent pet to swap their positions. You can also click and drag one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Cómo termina la partida?**
+    *   **R:** La partida acaba en cuanto cualquier columna de bloques alcanza
+        la parte superior de la pantalla.
 
-*   **[ES]** **Q: How do I lose the game?**
-    *   **[ES]** **A:** The game ends immediately if any single column of pet blocks reaches the very top of the screen.
+*   **P: ¿Cómo consigo la puntuación más alta?**
+    *   **R:** Aguantando más tiempo y encadenando combos. Las reacciones en
+        cadena que limpian varios grupos en un solo movimiento aumentan el
+        multiplicador y disparan la puntuación.
 
-*   **[ES]** **Q: What is the best way to get a high score?**
-    *   **[ES]** **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
-
-*   **[ES]** **Q: Is there a way to stop the blocks from rising?**
-    *   **[ES]** **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
-
+*   **P: ¿Hay forma de evitar que el muro suba?**
+    *   **R:** La única manera es seguir haciendo combinaciones. Cada match
+        exitoso pausa el avance del muro durante un instante y te da un pequeño
+        respiro.

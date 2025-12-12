@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: bad-ice-cream
-title: '[ZH TRANSLATION NEEDED] Bad Ice-Cream'
-description: >-
-  [ZH TRANSLATION NEEDED] A complete guide to the original Bad Ice-Cream. Learn
-  strategies, controls, and tips to collect all the fruit while freezing your
-  enemies in this classic arcade puzzle game.
+title: Bad Ice-Cream 坏坏冰淇淋
+description: 《Bad Ice-Cream（坏坏冰淇淋）》是系列初代作品，你要操控“坏坏冰淇淋”穿梭在 40 个冰雪迷宫中，通过建造/打碎冰块来躲避怪物、吃掉所有水果。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/bad-ice-cream.jpg
@@ -18,60 +15,74 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] *Bad Ice-Cream* is the first game in the beloved 2D pixel-art arcade puzzle series. The player takes control of a "bad" ice cream character, tasked with a simple but challenging goal: navigate through 40 icy, maze-like levels and collect every piece of fruit on the screen.
+*Bad Ice-Cream（坏坏冰淇淋）* 是这一像素风街机解谜系列的第一部作品。你将操控一桶“坏坏”的冰淇淋，在由冰块和墙体组成的迷宫中寻找道路，目标是在每一关计时结束前吃掉画面上的所有水果。
 
-[ZH TRANSLATION NEEDED] The game is defined by its core mechanic: the ability to instantly create or destroy rows of ice blocks. This powerful tool is used for everything from creating bridges to reach fruit, to building defensive walls against the various monsters that patrol each level. These enemies move in predictable patterns, and if they touch the player, a life is lost. The game features a timer, adding a sense of urgency to each stage. It can be played either solo or with a friend in a fantastic two-player cooperative mode on a single keyboard, which has become a hallmark of the series.
+本作的玩法核心，是主角可以**瞬间生成或打碎整排冰块**：
 
-### Gameplay Strategy & Walkthrough
+- 利用生成的冰墙挡住巡逻怪物的路线，在局部区域造出安全空间；
+- 打碎冰块开启新通路，或把自己从封闭空间解放出来；
+- 通过搭桥的方式抵达原本无法走到的空地，拿到散落四处的水果。
 
-[ZH TRANSLATION NEEDED] To succeed, players must blend quick thinking with strategic planning.
+关卡中出现的敌人虽然“智商不高”，但行动路径固定，一旦被碰到就会损失一条命。每一关都带有计时压力，你既要时刻关注怪物动向，又要合理利用冰墙工具，让自己在有限时间内安全吃完所有水果。游戏支持单人模式，也支持两名玩家在同一键盘上合作游玩，是系列标志性的特色之一。
 
-#### 1. Master the Ice Wall
-[ZH TRANSLATION NEEDED] Your ice-building ability is your most important asset.
-*   **Create Barriers:** The most basic and crucial strategy is to build walls of ice to block incoming enemies. This allows you to create safe zones to collect fruit.
-*   **Trap Your Foes:** Lure an enemy into a narrow path and then seal both ends with ice. This takes them out of play temporarily, giving you free reign over that area of the map.
-*   **Build Bridges:** Sometimes, fruit is located in an open area you can't reach. Build a line of ice blocks to create a path for yourself.
-*   **Controlled Destruction:** Just as important as creating ice is destroying it. Break through your own walls to create escape routes or to reach the next cluster of fruit.
+### 游戏策略与通关思路
 
-#### 2. Plan Your Route
-[ZH TRANSLATION NEEDED] Don't just run around randomly. At the start of a level, take a brief moment to scan the locations of the fruit and enemies. Try to collect fruit in groups. Clearing one corner of the map before moving on is far more efficient than crisscrossing the entire level.
+想要稳定通关，需要把“造冰墙”和“路线规划”这两件事做好。
 
-#### 3. Observe Enemy Patterns
-[ZH TRANSLATION NEEDED] The enemies in *Bad Ice-Cream* are not intelligent; they follow simple, repeating paths. Watch them for a moment. Understanding their movement allows you to predict where they will be, making it much easier to avoid them or trap them.
+#### 1. 熟练掌握冰墙的用法
+你的造冰能力是最重要的武器：
+*   **造墙挡怪：** 最基础的用法是根据敌人巡逻路线提前立墙，将其隔离在走廊另一头，为自己留出收集或转移的时间。
+*   **封印敌人：** 把怪物引诱到狭长通道或死胡同，再在两端立墙，可以暂时把这块区域“锁死”，你就能安心清理附近水果。
+*   **搭桥铺路：** 某些水果会被空地或缺口隔开，这时可以用冰块搭成一条桥，让自己安全走过去。
+*   **适时拆墙：** 造出来的墙并不是永远有用，有时候需要果断打碎一部分冰墙，为自己开出新的逃生路线或更优的行走路径。
 
-#### 4. Balance Speed and Caution
-[ZH TRANSLATION NEEDED] The timer adds pressure, but rushing is the number one cause of losing a life. Work methodically. Create a safe pocket, clear the fruit inside, then break out and create your next safe zone.
+#### 2. 开局先看图，再动手
+每关开始时不要急着乱跑，可以先花几秒钟：
 
-#### 5. Two-Player Strategy
-*   **Divide and Conquer:** The most effective method in co-op is to split the map. Have one player work on the left side and the other on the right. This is the fastest way to collect all the fruit.
-*   **The Decoy:** One player can intentionally draw the attention of multiple enemies, leading them on a chase while the other player safely collects fruit in another area.
-*   **Watch Out for Each Other:** Be careful not to trap your partner with an ice wall! Communication (or at least paying attention to your partner's location) is key.
+- 大致记住水果分布在哪几个区域；
+- 看看敌人大致在哪些路线巡逻；
+- 规划一个“先左后右”或“先上后下”的大致路线。
 
-### Controls Guide
+集中清理一个角落再去下一个，比来回穿越全地图高效得多，也更安全。
 
-[ZH TRANSLATION NEEDED] The game is designed to be easily played by two people on one keyboard.
+#### 3. 利用敌人固定路线
+*Bad Ice-Cream* 中的敌人并不会做复杂决策，它们只沿固定路径来回移动。你可以：
 
-*   **Player 1:**
-    *   **移动：** 方向键（`↑`、`↓`、`←`、`→`）
-    *   **动作（创建/破坏冰块）：** `空格键`
+- 观察几轮，记住它们转弯点和节奏；
+- 在它们离开某条走廊的时机快速通过；
+- 借助固定路径设计封印陷阱，把敌人困在某个区块。
 
-*   **Player 2:**
-    *   **移动：** `W`、`A`、`S`、`D` 键
-    *   **动作（创建/破坏冰块）：** `F` 键
+#### 4. 在“速度”和“谨慎”之间平衡
+计时器会给你施压，但真正致命的往往是慌乱：
 
-### Frequently Asked Questions (FAQ)
+- 尽量以“安全区”作为阶段性目标：先用冰墙搭出一个相对安全的小区域，吃完里面的水果再拆墙去下一个区域；
+- 不要为了一颗水果去抢极度危险的位置，优先保证不掉命，再找合适的时机或角度处理它。
 
-*   **Q: Can I kill the enemies?**
-    *   **A:** 不能。你不能直接伤害或杀死游戏中的敌人。你唯一的选择是避开它们或用冰块困住它们。
+#### 5. 双人合作时的配合要点
+*   **分区作战：** 最高效的打法是两人各自负责一半地图，减少互相干扰。
+*   **诱饵与收集：** 一人吸引和牵制怪物，另一人趁空档快速清理水果，是非常实用的分工方式。
+*   **注意不要误封队友：** 在造墙封怪之前确认队友的位置，避免一堵墙把队友和怪物一起困在小格子里。
 
-*   **Q: What is the goal of each level?**
-    *   **A:** 目标是在计时器用完之前收集屏幕顶部显示的100%的水果。
+### 操作指南
 
-*   **Q: Do the different types of fruit do anything special?**
-    *   **A:** 不，不同的水果（香蕉、樱桃等）纯粹是装饰性的，并且在不同关卡之间会发生变化。它们的功能是相同的：你必须收集所有水果才能获胜。
+本作专为双人同键盘而设计：
 
-*   **Q: How does the 2-player mode work?**
-    *   **A:** 两个玩家同时在同一屏幕上，共同收集水果。你们共享一个生命池，所以如果任何一个玩家被敌人抓住，你们的团队就会失去一条生命。
+*   **玩家 1：**  
+    *   **移动：** 方向键 `↑` `↓` `←` `→`
+    *   **动作（生成/破坏冰块）：** `Space` 空格键
 
+*   **玩家 2：**  
+    *   **移动：** `W` `A` `S` `D`
+    *   **动作（生成/破坏冰块）：** `F` 键
+
+### 常见问题解答（FAQ）
+*   **问：可以把敌人彻底打死吗？****
+    *   答：** 不行。本作中你无法直接攻击敌人，只能通过躲避或用冰墙暂时将其封印来保证安全。
+*   **问：每关的胜利条件是什么？****
+    *   答：** 在计时结束前吃掉本关所有水果，右上/顶部通常会显示收集进度，需要达到 100%。
+*   **问：不同水果有特殊效果吗？****
+    *   答：** 没有，不同水果（香蕉、樱桃等）只是视觉上的变化，功能上都是“需要被吃掉的目标”。
+*   **问：双人模式是怎么玩的？****
+    *   答：** 两名玩家在同一屏幕、共享生命，一起收集水果。任意一人被怪物碰到，都会从共享生命池中扣除一条生命，因此更需要互相照应与沟通。

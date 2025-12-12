@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: dice-puzzle
-title: '[DE] Dice Puzzle'
+title: Dice Puzzle
 description: >-
-  [DE] A challenging brain-teaser! Place and merge dice on the board. Combine
-  three identical dice to create a higher number, and aim for the ultimate jewel
-  cube. Plan your moves carefully before the board fills up!
+  Ein kniffliges Würfel-Denkspiel! Platziere und verschmelze Würfel auf einem
+  5x5-Spielfeld, kombiniere drei gleiche Werte zu einer höheren Zahl und plane
+  deine Züge, bevor das Brett vollläuft.
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/dice-puzzle.jpg
 tags:
@@ -16,33 +16,62 @@ score: 4.4/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Ausführliche Spielbeschreibung
 
+Dice Puzzle ist ein cleveres, strategisches Puzzlespiel, das Logik mit einer
+Prise Glück verbindet. Dein Ziel ist es, Würfel auf einem 5x5-Gitter zu
+platzieren und sie so zu positionieren, dass gleiche Werte miteinander
+verschmelzen. Liegen mindestens drei benachbarte Würfel mit derselben Augenzahl
+nebeneinander, verbinden sie sich zu einem einzelnen Würfel mit der nächsthöheren
+Zahl. Das ultimative Ziel ist es, durch das Kombinieren von 6er-Würfeln
+spezielle Juwelenwürfel zu erzeugen, die das Spielfeld aufräumen und dir viele
+Punkte bringen. Die Partie endet, wenn kein Feld mehr frei ist und du keinen
+Würfel mehr setzen kannst.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1. **Die Merge-Regel verstehen:** Der Kern des Spiels ist das Kombinieren von
+   mindestens drei gleichen Würfeln, die horizontal oder vertikal
+   nebeneinanderliegen (Reihe oder Cluster). Sie werden automatisch zu einem
+   Würfel mit der nächsthöheren Zahl zusammengeführt (z.B. werden drei 4er zu
+   einem 5er).
+2. **Platzierungen planen:** Setze Würfel nicht einfach aufs erste freie Feld.
+   Schau dir das gesamte Brett an und platziere neue Würfel so, dass sie direkt
+   eine Dreierkombination bilden oder eine spätere Fusion vorbereiten.
+3. **Drehen für den perfekten Sitz:** Du kannst den Würfel vor dem Platzieren
+   drehen. Nutze das, um ihn ideal in eine Reihe oder Gruppe einzufügen und
+   eine Kombination auszulösen.
+4. **Auf den Juwelenwürfel hinarbeiten:** Das stärkste Manöver ist das
+   Verschmelzen von drei Würfeln mit der Augenzahl 6. Dadurch entsteht ein
+   spezieller Juwelenwürfel, der explodiert und ein 3x3-Feld um ihn herum
+   aufräumt – perfekt, um wieder Platz für neue Züge zu schaffen.
 
-Dice Puzzle is a clever and strategic puzzle game that blends logic with a bit of luck. The objective is to place dice onto a 5x5 grid and merge them to create higher-value dice. By matching three or more adjacent dice of the same number, you combine them into a single die of the next higher number. The ultimate goal is to create special jewel cubes by merging dice with the number 6, which helps clear the board and achieve a high score. The game ends when the board is full and you can no longer place a die.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- **Würfel drehen:** Klicke auf den Würfel im Haltebereich, um ihn vor dem
+  Platzieren zu drehen.
+- **Würfel setzen:** Klicke auf ein freies Feld im 5x5-Gitter, um den aktuellen
+  Würfel dort abzulegen.
 
-1.  **[DE]** **The Merge Rule:** The core of the game is matching three or more identical dice that are adjacent to each other (in a line or cluster). They will then merge into a single die of the next number (e.g., three '4s' become one '5').
-2.  **[DE]** **Plan Your Placements:** Don't just place a die in the first available spot. Look at the existing dice on the board and try to place your new die where it can either complete a set of three or set up a future merge.
-3.  **[DE]** **Rotate for a Better Fit:** You can rotate the die before you place it. Use this to your advantage to position it perfectly for a merge.
-4.  **[DE]** **Aim for the Jewel Cube:** The most powerful move is to merge three dice with the number 6. This creates a special jewel cube that will explode, clearing a 3x3 area around it. This is crucial for freeing up space on the board and extending your game.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **F: Wie verschmelzen Würfel?**  
+  **A:** Platziere mindestens drei Würfel mit derselben Augenzahl so, dass sie
+  sich horizontal oder vertikal berühren. Sie fusionieren automatisch zu einem
+  einzelnen Würfel mit einem höheren Wert.
 
-*   **[DE]** **Rotate Die:** Click on the die in the holding area to rotate it before placing it.
-*   **[DE]** **Place Die:** Click on an empty square on the 5x5 grid to place the current die.
+    - **F: Was ist das Ziel des Spiels?**  
+  **A:** Du versuchst, so viele Punkte wie möglich zu erreichen, indem du
+  Würfel immer wieder kombinierst und Platz auf dem Brett freihältst. Das Spiel
+  endet, wenn kein Feld mehr frei ist.
 
-### Frequently Asked Questions (FAQ)
+- **F: Was passiert, wenn ich drei 6er-Würfel verschmelze?**  
 
-*   **[DE]** **Q: How do I merge dice?**
-    *   **[DE]** **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.
+    - **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
 
-*   **[DE]** **Q: What is the goal of the game?**
-    *   **[DE]** **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
+- **Q: What happens when I merge three '6' dice?**
 
-*   **[DE]** **Q: What happens when I merge three '6' dice?**
-    *   **[DE]** **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
-
+    - **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
+  **A:** Aus drei 6er-Würfeln entsteht ein spezieller Juwelenwürfel. Wird er in
+  eine weitere Kombination einbezogen, löst er eine Explosion aus, die ein
+  3x3-Gebiet um ihn herum leert und dir einen dicken Punktebonus beschert.

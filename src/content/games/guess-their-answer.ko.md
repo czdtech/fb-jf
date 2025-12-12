@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: guess-their-answer
-title: '[KO] Guess Their Answer'
+title: "Guess Their Answer 군중 심리 퀴즈"
 description: >-
-  [KO] Guess Their Answer is a quick survey showdown — think like the crowd,
-  list top answers, and outscore opponents with broad coverage.
+  설문조사 결과를 맞히는 감각의 파티 퀴즈 게임입니다. 제시된 질문에 대해
+  사람들이 가장 많이 떠올릴 법한 답을 적어 넣어, 상대보다 더 많은 상위
+  응답을 맞혀 보세요.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
 thumbnail: /new-images/guess-their-answer.png
 tags:
@@ -19,33 +20,53 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 상세 게임 소개
 
-Guess Their Answer plays like a family‑feud style survey game. Given a prompt (“Things you bring to the beach”), you must list common answers. Points scale by popularity; obscure answers score little. The meta is not niche knowledge but modeling average respondents.
+`Guess Their Answer`는 `패밀리 퓨드(Family Feud)` 스타일의 설문 퀴즈 게임입니다.
+“해변에 갈 때 가져가는 것”처럼 주제가 주어지면, 실제 설문조사에서 사람들이
+가장 많이 적었을 법한 답들을 떠올려 입력해야 합니다. 점수는 답변의
+인기도에 비례해 주어지며, 너무 마이너한 답은 거의 점수를 주지 않습니다.
+핵심은 지식이 아니라 “평균적인 사람이라면 무엇을 쓸까?”를 상상하는 능력입니다.
 
-### Gameplay Strategy & Walkthrough
+### 게임 플레이 전략 & 공략
 
-1.  **[KO]** Start with categories: People, objects, actions; then expand synonyms (e.g., sunglasses/shades).
-2.  **[KO]** Cover spectrum: List one answer per sub‑theme rather than synonyms first to maximize early coverage.
-3.  **[KO]** Think demographics: Family answers skew practical and familiar.
-4.  **[KO]** Don’t overfit: If an answer flops, pivot quickly to a different sub‑theme.
-5.  **[KO]** Head‑to‑head: Block likely opponent picks early.
+1. **큰 범주에서 시작하기**  
+   사람(people), 물건(objects), 행동(actions)처럼 대분류를 먼저 떠올린 뒤,
+   각 범주에서 하나씩 대표적인 답을 채워 넣으세요. 선글라스/안경처럼 동의어는
+   나중에 보충하는 편이 효율적입니다.
 
-### Controls Guide
+2. **폭넓게 덮기**  
+   초반에는 같은 의미의 비슷한 단어를 여러 개 쓰기보다, 서로 다른 하위
+   주제를 하나씩 채워 넣어 보드 전체를 고르게 커버하는 것이 좋습니다.
 
-- Type answers and submit; the game checks popularity lists.
+3. **타깃 연령·가족 구성을 떠올리기**  
+   이 게임의 “군중”은 대체로 가족 단위, 일상적인 생활을 하는 사람들로
+   가정됩니다. 너무 마니악한 취미보다는 누구나 떠올릴 실용적인 답이
+   점수를 많이 받습니다.
 
-### Frequently Asked Questions (FAQ)
+4. **한 가지에 집착하지 않기**  
+   특정 답이 전혀 점수를 주지 않는다면, 빠르게 다른 하위 주제로 넘어가
+   시야를 넓히는 것이 좋습니다.
 
-- Q: My clever answers don’t score — why?
+5. **대전 모드에서는 선점하기**  
+   1:1 또는 다인전 모드에서 자주 나올 것 같은 상위 답변은 초반에 먼저
+   적어 넣어, 상대가 가져갈 만한 점수를 미리 차단하세요.
 
-A: Scoring favors common responses. Switch to broadly familiar items/actions.
+### 조작 방법
 
-- Q: Are misspellings accepted?
+- 키보드로 답을 입력한 뒤 제출하면, 게임이 인기 응답 리스트와 비교해
+  점수를 매깁니다.
 
-A: Some variants autocorrect; others require correct spelling or close matches.
+### 자주 묻는 질문(FAQ)
 
-- Q: Any hint system?
+- Q: 제 “센스 있는” 답들은 점수를 잘 못 받는데 왜 그런가요?  
+  A: 이 게임은 독창적인 답보다 “많이 나올 법한” 평범한 답을 더 높게
+  평가합니다. 더 널리 알려진 물건·행동·상황 위주로 생각을 전환해 보세요.
 
-A: Some modes offer letter hints or reveal the category breadth.
+- Q: 철자를 틀리면 오답 처리되나요?  
+  A: 일부 버전은 자동 교정이나 근사 매칭을 지원하지만, 어떤 곳에서는
+  정확한 철자 또는 아주 비슷한 형태만 인정하기도 합니다.
 
+- Q: 힌트 기능이 있나요?  
+  A: 몇몇 모드에서는 글자 힌트나, 카테고리 범위를 보여 주는 도움말을
+  제공하기도 합니다.

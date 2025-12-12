@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: only-up
-title: '[ES] Only Up'
+title: "Only Up - Escalada 3D extrema"
 description: >-
-  [ES] Only Up is a challenging 3D platformer where players must meticulously
-  climb a precarious and often chaotic world, overcoming obstacles and mastering
-  precise jumps to reach higher altitudes without falling.
+  Only Up es un exigente plataformas 3D en el que debes escalar con precisión
+  un mundo caótico y precario, superando obstáculos y dominando saltos milimétricos
+  para alcanzar nuevas alturas sin caer.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/only-up.jpg
@@ -18,34 +18,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+"Only Up" es un plataformas 3D extremadamente desafiante. Tu objetivo es
+ascender sin parar por un enorme escenario formado por objetos flotantes,
+edificios abandonados y estructuras surrealistas. No hay puntos de guardado: un
+solo error puede hacerte caer desde gran altura y obligarte a empezar casi
+desde el principio, poniendo a prueba tu precisión y tu templanza.
 
-### Game Introduction
+### Estrategia de juego
 
-"Only Up" is an extremely challenging 3D platformer. Players' objective is to continuously climb a massive world composed of various floating objects, abandoned buildings, and peculiar structures. The game has no save points; every mistake can lead to falling from great heights, requiring a restart from the beginning, thus posing a significant test to players' precision and mental fortitude.
+1.  **Observación meticulosa:** antes de cada salto, estudia la posición,
+    distancia y superficie del siguiente punto de apoyo y planifica la ruta
+    óptima.
+2.  **Dominar el ritmo de salto:** distintos objetos exigen diferentes fuerzas y
+    tiempos de salto; acostúmbrate a la sensación de inercia y frenada del
+    personaje.
+3.  **Aprovechar el entorno:** algunos saltos aparentemente imposibles requieren
+    usar elementos pequeños del escenario como escalones intermedios o encontrar
+    caminos escondidos.
+4.  **Mantener la calma:** no te frustres por las caídas; mantener la cabeza fría
+    es clave para mejorar la estabilidad y precisión de tus movimientos.
+5.  **Aprender de cada caída:** cada vez que falles, toma nota mental del
+    obstáculo y del ángulo de salto; así evitarás repetir el mismo error.
 
-### Gameplay Strategy
+### Cómo jugar
 
-1.  **[ES]** **Meticulous Observation**: Before each jump, carefully observe the position, distance, and material of the next landing spot, and plan the optimal route.
-2.  **[ES]** **Master Jump Rhythm**: Different objects may require different jump strengths and timings; familiarize yourself with the character's jumping feel.
-3.  **[ES]** **Utilize Environment**: Some seemingly impossible jumps might require using small objects in the environment for assistance, or finding hidden paths.
-4.  **[ES]** **Stay Calm**: Don't get discouraged by multiple failures; staying calm helps improve operational stability and precision.
-5.  **[ES]** **Learn from Experience**: Every fall is an opportunity to learn; remember where you failed to avoid repeating mistakes.
+*   **Movimiento:** teclas WASD o flechas para desplazarte.  
+*   **Saltar:** barra espaciadora.  
+*   **Sprint:** en algunas versiones puedes correr (por ejemplo con Shift) y
+    combinarlo con el salto para llegar más lejos.  
+*   **Cámara:** usa el ratón para mover la cámara y estudiar mejor el entorno y
+    la ruta.
 
-### How to Play
+### Preguntas frecuentes
 
-*   **[ES]** **Movement**: Use WASD or arrow keys to control character movement.
-*   **[ES]** **Jump**: Spacebar for jumping.
-*   **[ES]** **Sprint**: Some game versions may offer a sprint function, often combined with jumping for longer leaps (e.g., Shift + Spacebar).
-*   **[ES]** **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
-
-### Frequently Asked Questions
-
-1.  **[ES]** **Q: Does the game have save points?**
-**A**: One of the core challenges of "Only Up" is the absence of save points. Players may fall back to the starting point after each fall, requiring them to restart the challenge.
-2.  **[ES]** **Q: What is the objective of the game?**
-**A**: The objective is to overcome all obstacles and continuously climb upwards to reach the highest point of the world.
-3.  **[ES]** **Q: How can I avoid frequent falls?**
-**A**: The key lies in precise execution, careful observation, and patience. Don't rush; take each step steadily.
-4.  **[ES]** **Q: Is the game beginner-friendly?**
-**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
+1.  **P: Hay puntos de guardado o checkpoints?**  
+    **R:** Uno de los grandes retos de Only Up es precisamente la ausencia de
+    guardados; una caída puede devolverte muy abajo y obligarte a repetir tramos
+    enteros.
+2.  **P: Cuál es el objetivo final?**  
+    **R:** Superar todos los obstáculos y seguir subiendo hasta alcanzar la
+    cota más alta del mapa.
+3.  **P: Cómo evito caer constantemente?**  
+    **R:** Sé paciente, ajusta bien la cámara, no corras más de la cuenta y
+    practica los saltos complicados hasta interiorizar la distancia correcta.
+4.  **P: Es recomendable para principiantes?**  
+    **R:** El juego es famoso por su alta dificultad, pero con paciencia y
+    perseverancia cualquier jugador puede ir mejorando y disfrutando del reto.

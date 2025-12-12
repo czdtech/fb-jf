@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: solitaire-classic
-title: '[KO] Solitaire Classic'
+title: 'Solitaire Classic 솔리테어 클래식'
 description: >-
-  [KO] The timeless single-player card game, also known as Klondike. Move all
-  cards to the foundation piles from Ace to King to win.
+  Solitaire Classic은 클론다이크(Klondike)로도 잘 알려진 고전 1인용 카드 게임입니다.
+  섞인 52장의 카드를 네 개의 바닥 패(패운데이션)에 A부터 K까지 순서대로 쌓아
+  올리는 것이 목표로, 인내심과 전략, 약간의 운이 함께 요구됩니다.
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/solitaire-classic.png
 tags:
@@ -17,40 +18,64 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+### 게임 상세 소개
 
-### Detailed Game Introduction
+Solitaire Classic은 전 세계에서 가장 널리 사랑받는 솔리테어 카드 게임 가운데 하나입니다.
+52장의 카드를 무작위로 섞어 일곱 개의 열(테이블로)에 펼친 뒤, 네 개의 바닥 패에
+같은 무늬별로 A부터 K까지 오름차순으로 정리해 올리는 것이 목표입니다.
+숨겨진 카드를 열어 새로운 수를 만들고, 바닥 패를 조금씩 완성해 가는 과정에서
+전략적인 선택과 인내심이 크게 요구됩니다.
 
-Solitaire Classic, also known as Klondike, is one of the most famous and beloved single-player card games in the world. The objective is to organize a shuffled 52-card deck into four foundation piles, one for each suit, in ascending order from Ace to King. The game requires strategy, patience, and a bit of luck as you manipulate cards on the tableau to uncover hidden cards and build your foundations.
+### 플레이 전략 및 공략
 
-### Gameplay Strategy & Walkthrough
+1.  **구성 요소 이해하기**
+    *   **테이블로(Tableau):** 화면 중앙의 일곱 개 카드 열입니다. 첫 번째 열에는 1장,
+        두 번째 열에는 2장씩 차례로 놓이며, 각 열의 맨 위 카드만 앞면으로
+        공개됩니다.
+    *   **바닥 패(Foundation):** 화면 상단 오른쪽의 네 개 빈 더미입니다. 각 무늬별로
+        A부터 시작해 K까지 오름차순으로 쌓아 승리를 향해 나아가는 영역입니다.
+    *   **덱(Stock Pile):** 아직 사용하지 않은 남은 카드가 뒷면으로 쌓여 있는 더미입니다.
+    *   **버림 패(Waste Pile):** 덱에서 뽑아 공개한 카드가 앞면으로 쌓이는 곳으로,
+        이 카드들을 이용해 테이블로나 바닥 패에 새로운 수를 만들 수 있습니다.
 
-1.  **[KO]** **Game Components:**
-    *   **[KO]** **The Tableau:** The main playing area, consisting of seven columns of cards. The first column has one card, the second has two, and so on, up to seven. The top card of each column is face-up.
-    *   **[KO]** **The Foundation:** The four empty piles, usually at the top right. This is where you will build your suits, starting with the Ace.
-    *   **[KO]** **The Stock Pile:** The deck of remaining cards, placed face-down.
-    *   **[KO]** **The Waste Pile:** Cards drawn from the Stock Pile are placed face-up here.
+2.  **핵심 규칙과 기본 전략**
+    *   **숨겨진 카드 먼저 열기:** 가능한 한 빨리 테이블로의 뒷면 카드를
+        앞면으로 뒤집는 것이 최우선입니다. 새로운 카드를 공개할수록 선택지가
+        크게 늘어납니다.
+    *   **테이블로 쌓기 규칙:** 테이블로에서는 카드의 색을 번갈아 가며,
+        한 단계 낮은 숫자를 위에 올릴 수 있습니다. 예를 들어 빨간 8 위에는
+        검은 7만 놓을 수 있습니다.
+    *   **바닥 패로 옮기기:** A가 보이는 즉시 해당 무늬의 바닥 패에 올리고,
+        이후 2, 3, 4… 순서대로 같은 무늬 카드가 생길 때마다 계속 올려
+        완성해 나갑니다.
+    *   **덱 활용하기:** 더 이상 테이블로에서 새로운 수를 만들기 어렵다면 덱에서
+        카드를 뽑아 버림 패에 공개합니다. 여기서 나온 카드를 이용해 다시
+        테이블로나 바닥 패에 연결 수를 만들어 가세요.
+    *   **빈 열 활용:** 테이블로의 열이 완전히 비게 되면, 그 자리에는 오직
+        K로 시작하는 카드나 K로 시작하는 연속된 묶음만 옮길 수 있습니다.
+        빈 열은 강력한 공간이므로 신중하게 사용해야 합니다.
 
-2.  **[KO]** **Core Rules & Strategy:**
-    *   **[KO]** **Expose Hidden Cards:** Your first priority should always be to expose the face-down cards in the tableau. Uncovering these cards gives you more options.
-    *   **[KO]** **Building on the Tableau:** You can move cards between columns in the tableau. Cards must be placed on a card of the next-highest rank and of the opposite color (e.g., a black 7 on a red 8).
-    *   **[KO]** **Moving to Foundations:** As soon as an Ace becomes available, move it to a foundation pile. Continue to move cards of the same suit in ascending order (Ace, 2, 3, 4...) onto the foundation piles whenever possible.
-    *   **[KO]** **Using the Stock Pile:** When you have no more moves on the tableau, draw from the Stock Pile. Use the revealed cards to make new moves on the tableau or to build on your foundations.
-    *   **[KO]** **Empty Tableau Columns:** Only a King (or a sequence starting with a King) can be moved into an empty column on the tableau.
+### 조작 방법 안내
 
-### Controls Guide
+*   **카드 이동:** 마우스로 카드를 클릭한 뒤 드래그해 다른 열이나 바닥 패로
+    옮깁니다. 유효한 연속 카드 묶음이라면 한 번에 함께 이동할 수 있습니다.
+*   **덱에서 뽑기:** 화면 상단의 뒷면 덱을 클릭하면 카드 한 장(또는
+    게임 설정에 따라 세 장)이 버림 패로 공개됩니다.
+*   **자동 바닥 패 이동:** 많은 디지털 버전에서는 이동 가능한 카드에
+    더블클릭하면 자동으로 적절한 바닥 패로 이동합니다.
 
-*   **[KO]** **Move Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
-*   **[KO]** **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
-*   **[KO]** **Auto-Move to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
+### 자주 묻는 질문(FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 네 개의 바닥 패에 모든 카드를 무늬별로 A부터 K까지
+        순서대로 옮겨 쌓는 것이 목표입니다.
 
-*   **[KO]** **Q: What is the goal of the game?**
-    *   **[KO]** **A:** The goal is to move all 52 cards into the four foundation piles, sorted by suit and in order from Ace to King.
+*   **Q: 더 이상 둘 수 있는 곳이 없으면 어떻게 되나요?**
+    *   **A:** 테이블로나 바닥 패에 새로운 수를 만들 수 없다면 덱에서
+        카드를 더 뽑아야 합니다. 덱마저 모두 비었고, 여전히 움직일 카드가
+        없다면 그 판은 패배로 끝납니다.
 
-*   **[KO]** **Q: What happens when I run out of moves?**
-    *   **[KO]** **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
-
-*   **[KO]** **Q: Can I move cards back from the foundation to the tableau?**
-    *   **[KO]** **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
-
+*   **Q: 바닥 패에 올린 카드를 다시 테이블로로 내릴 수 있나요?**
+    *   **A:** 대부분의 버전에서는 바닥 패 맨 위 카드 한 장을 다시 테이블로로
+        옮길 수 있습니다. 막혀 있던 카드를 열기 위해 전략적으로 되돌리는
+        것이 중요한 상황도 자주 생깁니다.

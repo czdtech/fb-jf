@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: backyard-zombie-defense
-title: '[ZH TRANSLATION NEEDED] Backyard Zombie Defense'
-description: >-
-  [ZH TRANSLATION NEEDED] Backyard Zombie Defense is a casual tower defense —
-  place turrets, upgrade wisely, and hold off the horde.
+title: Backyard Zombie Defense 后院僵尸防线
+description: 《Backyard Zombie Defense（后院僵尸防线）》是一款轻量级塔防游戏，你要在自家后院布置防御塔，合理升级与减速，挡住一波又一波涌来的僵尸。
 iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
 thumbnail: /new-images/backyard-zombie-defense.png
 tags:
@@ -15,25 +13,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
-[ZH TRANSLATION NEEDED] Backyard Zombie Defense is a lightweight TD: build and upgrade a mix of single‑target and aoe turrets, slow enemies near exits, and pace economy to keep up with scaling waves.
+*Backyard Zombie Defense（后院僵尸防线）* 是一款规则简单但很考验布局思路的塔防游戏。战场发生在一片被僵尸围攻的后院里，你需要在僵尸行进路线旁布置各种单体、高爆、范围伤害和减速防御塔，利用好每一分钱，尽量在僵尸接近终点前清空它们的血条。
 
-### Gameplay Strategy & Walkthrough
+游戏节奏偏休闲，但若随便乱放塔，很容易在中后期被高血量或高速僵尸冲破防线，因此如何“用有限预算堆出最大火力 + 控制力”就是核心乐趣所在。
 
-1.  覆盖长路径和共享车道以提高效率。
-2.  在出口附近使用减速+溅射来捕捉漏网之鱼。
-3.  对高影响力的塔进行早期升级可以产生复合价值。
-4.  平衡伤害类型以应对快速和坦克型僵尸。
-5.  在需要时为波次中的紧急情况保留现金。
+### 游戏策略与攻略
 
-### 控制指南
+1.  **优先覆盖长路径与共用路线：** 把关键防御塔放在僵尸会经过多次的长弯道或多条路径的交汇处，一座塔就能打到更多目标，提升性价比。
+2.  **出口前一定要有减速 + 范围伤害：** 在离终点最近的位置，推荐组合减速塔和范围伤害塔，用来补刀漏网之鱼，防止“只差一格就冲过去”的情况频繁发生。
+3.  **重点塔要早升级：** 把资源优先投入那些覆盖范围大、输出效率高的关键塔，早期升级可以让它们在更多波次里发挥作用，回报率远高于随便铺一圈低级塔。
+4.  **针对不同僵尸配伤害类型：** 对速度快但脆皮的僵尸，用高攻速或范围伤害塔更有效；对血厚行动慢的僵尸，则更适合单体高伤害、配合长时间减速慢慢磨死。
+5.  **手上留一点应急现金：** 不要把钱全部压在波次开始前，适当留一点，在看到特殊精英或局面顶不住时，临时补一座塔或升级关键塔。
 
-- Place/Upgrade/Sell via UI; start waves when ready.
+### 操作指南
 
-### Frequently Asked Questions (FAQ)
+- 通过界面点击选择塔的种类，再点击地图可用位置进行建造。
+- 选中已有的塔可以进行升级或出售（如果该版本支持），根据局势灵活调整你的防线结构。
+- 当你准备好之后，点击“开始/下一波”按钮让新一波僵尸入场。
 
-- Keep leaking—what to do? Add slows and aoe at choke/exits; upgrade key towers.
-- Best openers? One strong early tower covering long lanes.
-- Speed toggle? Many versions include fast‑forward.
-
+### 常见问题解答（FAQ）
+*   **问：总是有僵尸漏过去怎么办？****
+    *   答：** 在出口前加一组“减速 + 范围伤害”塔，并优先升级它们；同时检查前排是否有火力严重不足的区域，适当补塔或升级。
+*   **问：开局应该怎么放塔比较稳？****
+    *   答：** 通常一个能覆盖长路径的高性价比塔，比一堆分散的小塔更强。先在弯路/长直线放一座主力塔，再视情况慢慢补充。
+*   **问：可以加速游戏吗？****
+    *   答：** 许多版本提供倍速按钮，清小波次时可以加速推进，但在陌生关卡初见时建议先用正常速度熟悉节奏。

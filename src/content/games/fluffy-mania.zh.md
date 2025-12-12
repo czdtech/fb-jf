@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: fluffy-mania
-title: '[ZH TRANSLATION NEEDED] Fluffy Mania'
+title: "Fluffy Mania 毛絨連線樂"
 description: >-
-  [ZH TRANSLATION NEEDED] Fluffy Mania is a cozy match‑and‑clear puzzler —
-  connect cute fluffies, trigger cascades, and chase high scores.
+  Fluffy Mania 是一款溫馨可愛的連線消除遊戲，連接相同顏色的毛絨小球，
+  引發連鎖反應並追求高分。
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/fluffy-mania.png
 tags:
@@ -17,23 +17,38 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-[ZH TRANSLATION NEEDED] Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑color fluffies to clear them, set up chain reactions, and complete stage goals like score targets, limited moves, or special tile clears.
+《Fluffy Mania》是一款色彩繽紛、氣氛輕鬆的連線解謎遊戲。你的目標是將相鄰的同色毛絨小球
+連成一條線來消除它們，透過精心規劃引發大規模連鎖反應，同時完成關卡要求，
+例如達到指定分數、在有限步數內清除目標方塊等。
 
 ### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] Make squares: If rules allow loops/squares, they usually clear all of that color—huge value.
-2.  [ZH TRANSLATION NEEDED] Save long chains: Don’t waste large groups early; use them to finish strict goals.
-3.  [ZH TRANSLATION NEEDED] Work from bottom: Bottom clears create natural cascades above.
-4.  [ZH TRANSLATION NEEDED] Think two moves ahead: Avoid isolating single tiles that clog progress.
-5.  [ZH TRANSLATION NEEDED] Power‑ups: Trigger them when they open multiple goals at once.
+
+1.  **優先做方圈／迴路：** 若規則允許畫出閉合方圈或迴路，通常會清除畫面上該顏色的所有小球，
+    價值極高，要特別留意能否連成圈。
+2.  **保留長鏈作為收尾：** 大量同色小球先不要急著在前期就消掉，
+    可以留到最後用來完成高分或嚴格目標，一口氣解決多個任務。
+3.  **優先從底部消除：** 從下方開始清除常常會帶動上方自然掉落，
+    製造更多自動連鎖的機會，讓整體盤面更新得更有利。
+4.  **提前兩步思考：** 連線時多想一兩步，避免留下孤零零的單顆小球，
+    這些「孤點」往往很難再被連到，會阻礙你完成目標。
+5.  **善用道具與強化：** 當畫面上有多個任務同時存在時，選在能同時打開多條路的時機啟動道具，
+    效益會遠高於隨便亂用。
 
 ### Controls Guide
 
-- Connect: Click/tap and drag through same‑color neighbors.
-- Undo/Retry (if available): Use with care on limited‑move stages.
+- 連線：按住滑鼠或手指，沿著相鄰的同色小球拖曳連線，放開即可完成一次消除。
+- 若有提供「悔步」或「重試」功能，在步數有限的關卡中要謹慎使用。
 
 ### Frequently Asked Questions (FAQ)
 
-- Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
-- Do loops matter? If enabled, loops are extremely strong—prioritize them.
-- Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
+- 問：只剩最後一步卻卡住了怎麼辦？  
+  答：優先尋找能從底部開局的消除，藉由引發上方連鎖來重新改變盤面結構，
+  有時會意外打開新路。
 
+- 問：畫出迴路真的那麼重要嗎？  
+  答：若該關卡啟用迴路規則，閉合的方圈幾乎都是最強招，
+  能一次清掉大量同色小球，務必優先考慮。
+
+- 問：限時模式和限步模式有什麼不同打法？  
+  答：限時模式更重視操作速度，可以先選擇最容易看出的連線；
+  限步模式則要專注在每一步的效率與目標完成度，寧可慢一點也要算好每一步的價值。

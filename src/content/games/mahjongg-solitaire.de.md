@@ -1,14 +1,12 @@
 ---
 locale: de
 urlstr: mahjongg-solitaire
-title: '[DE] Mahjongg Solitaire'
+title: "Mahjongg Solitaire"
 description: >-
-  [DE] Clear the board in Mahjongg Solitaire, the classic single-player
-  tile-matching puzzle game! Find and match identical, unblocked tiles to remove
-  them from the layout. Strategize your moves to expose more tiles and clear the
-  entire board in this timeless brain-teaser.
-iframeSrc: >-
-  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
+  Räume das Brett in Mahjongg Solitaire, dem klassischen Einzelspieler-
+  Kachel-Matching-Puzzle! Finde und paare identische, freie Steine und plane
+  deine Züge, um das gesamte Layout zu leeren.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/'
 thumbnail: /new-images/mahjongg-solitaire.jpg
 tags:
   - puzzle
@@ -19,33 +17,42 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
-### Game Introduction
+Mahjongg Solitaire, auch bekannt als Mahjong Solitaire oder Shanghai Solitaire,
+ist ein beliebtes Einzelspieler-Kachel-Matching-Puzzle. Die Mahjong-Steine
+werden in mehrschichtigen Layouts angeordnet. Dein Hauptziel ist es, das
+Spielfeld zu leeren, indem du Paare identischer, „freier“ Steine findest und
+entfernst.
 
-Mahjongg Solitaire, also known as Mahjong Solitaire or Shanghai Solitaire, is a popular single-player tile-matching puzzle game. The game uses a set of Mahjong tiles arranged in various multi-layered layouts. The primary objective is to clear the entire board by finding and matching pairs of identical, "free" tiles.
+### Spielanleitung
 
-### Gameplay Guide
+- **Steine kombinieren:** Klicke oder tippe auf zwei identische Steine, um sie
+  zu entfernen.
+- **Freie Steine:** Nur „freie“ Steine dürfen ausgewählt werden. Ein Stein ist
+  frei, wenn kein anderer Stein direkt auf ihm liegt und mindestens eine
+  seiner langen Seiten (links oder rechts) frei ist.
+- **Strategie:** Plane deine Züge sorgfältig. Wenn du bestimmte Steine zu früh
+  entfernst, kannst du andere blockieren und die Partie unlösbar machen.
+  Priorisiere Steine, die viele andere blockieren oder zu kritischen Stapeln
+  gehören.
+- **Spezialsteine:** Blumen- und Jahreszeitensteine können meistens mit jedem
+  anderen Stein ihrer Gruppe kombiniert werden, auch wenn die Motive
+  unterschiedlich sind.
 
-- **Matching Tiles:** Click or tap on two identical tiles to remove them.
-- **"Free" Tiles:** Only tiles that are "free" can be matched. A tile is free if it has no other tiles directly on top of it and at least one of its long sides (left or right) is unobstructed.
-- **Strategy:** Plan your moves carefully. Removing certain tiles might block others, making the game unsolvable. Prioritize removing tiles that are blocking many other tiles or those that are part of a critical stack.
-- **Special Tiles:** Flower and Season tiles can be matched with any other tile of their respective group, even if they are not identical.
+### Steuerung
 
-### Controls Guide
+- **Maus/Touch:** Wähle Steine per Klick/Tap aus, um ein Paar zu bilden.
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+### FAQ
 
-### Frequently Asked Questions (FAQ)
+**Was ist das Ziel von Mahjongg Solitaire?**  
+Alle 144 Steine in Paaren zu entfernen, bis das Brett vollständig leer ist.
 
-**What is the goal of Mahjongg Solitaire?**
+**Was passiert, wenn ich keine Paare mehr finde?**  
+Sind keine freien Paare mehr vorhanden und noch Steine übrig, gilt die Runde
+als verloren – außer die digitale Version bietet Shuffle- oder Hinweisfunktionen.
 
-The goal is to remove all 144 tiles from the board by matching them in pairs.
-
-**What happens if I can't find any more matches?**
-
-If there are no more available "free" pairs to match, and tiles still remain on the board, the game is lost. Some digital versions offer a "shuffle" or "hint" option.
-
-**Is there a time limit?**
-
-Some versions of Mahjongg Solitaire are timed, adding an element of urgency, while others allow for a more relaxed pace.
-
+**Gibt es ein Zeitlimit?**  
+Einige Varianten sind zeitlich begrenzt und stellen dich zusätzlich unter
+Druck, andere lassen dir unbegrenzt Zeit für einen entspannten Spielstil.

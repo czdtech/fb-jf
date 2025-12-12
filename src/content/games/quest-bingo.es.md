@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: quest-bingo
-title: '[ES] Quest Bingo'
+title: "Quest Bingo"
 description: >-
-  [ES] Go on a Bingo adventure! Daub your way through exciting levels, complete
-  quests, use powerful boosters, and collect puzzle pieces in this modern twist
-  on the classic game.
-iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
-thumbnail: /new-images/quest-bingo.png
+  Emprende una aventura de Bingo. Marca números a través de niveles llenos de
+  retos, completa misiones, usa potentes boosters y recoge piezas de puzle en
+  esta versión moderna del clásico.
+iframeSrc: "https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/"
+thumbnail: "/new-images/quest-bingo.png"
 tags:
   - card
   - puzzle
@@ -17,35 +17,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Quest Bingo toma la diversión atemporal del Bingo clásico y la convierte en una
+aventura llena de progresión. Aquí no juegas partidas sueltas: recorres un mapa
+repleto de niveles únicos. A medida que se cantan números, marcas tu cartón para
+completar los patrones ganadores. Al mismo tiempo irás cumpliendo misiones,
+activando poderosos boosters y reuniendo piezas de puzle ocultas para desbloquear
+ilustraciones, añadiendo una capa extra de coleccionismo al juego de siempre.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Quest Bingo takes the timeless fun of classic Bingo and transforms it into an exciting adventure. In this game, you don't just play single rounds; you embark on a journey through a map filled with unique levels. As numbers are called, you'll daub your card to form winning patterns. But you'll also complete quests, use powerful boosters, and collect hidden puzzle pieces to unlock beautiful artwork, adding a layer of progression and discovery to the familiar gameplay.
+1.  **Fundamentos del Bingo:** La base es el Bingo tradicional. Se canta un
+    número y, si lo tienes en tu cartón, lo marcas. Tu objetivo es completar el
+    patrón que se pide en ese nivel (línea recta, cuatro esquinas, forma
+    especial, etc.).
+2.  **Atiende a las misiones:** Cada nivel tiene un objetivo concreto, como
+    "Conseguir dos Bingos" o "Recoger 3 piezas de puzle". Céntrate en cumplir
+    ese requisito para superar la fase y avanzar por el mapa.
+3.  **Usa los boosters con cabeza:** Mientras juegas, irás cargando
+    potenciadores. Pueden darte ventajas como marcar un número gratis, conseguir
+    monedas extra o lograr un Bingo instantáneo. Guárdalos para momentos clave
+    en los que necesites asegurar la victoria.
+4.  **Recoge todo lo especial:** Fíjate en los números que aparecen con piezas
+    de puzle u otros coleccionables asociados. Marcarlos es la clave para
+    completar colecciones y obtener recompensas adicionales.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** **Bingo Basics:** The core gameplay is classic Bingo. A number is called, and if you have it on your card, you daub it. The goal is to complete a required pattern (like a straight line, four corners, or a specific shape) on your card.
-2.  **[ES]** **Pay Attention to Quests:** Each level has a specific goal, such as "Get two Bingos" or "Collect 3 puzzle pieces." Focus on achieving this quest to pass the level and advance on the map.
-3.  **[ES]** **Use Boosters Strategically:** As you play, you will charge up powerful boosters. These can give you a significant advantage, such as a free daub on any number, extra coins, or an instant Bingo. Save them for when you really need them to clinch a win.
-4.  **[ES]** **Collect Everything:** Keep an eye out for special numbers that may have puzzle pieces or other collectibles attached. Daubing these numbers is key to completing your collections and earning extra rewards.
+El manejo es muy sencillo, a base de clics o toques.
 
-### Controls Guide
+*   **Marcar número:** Cuando se canta un número que aparece en tu cartón, haz
+    clic sobre él para marcarlo.
+*   **Cantar Bingo:** Cuando completes el patrón ganador, pulsa el botón
+    **"Bingo"** para reclamar tu premio.
+*   **Activar boosters:** Haz clic en los iconos de potenciadores cargados (suelen
+    estar en la parte inferior de la pantalla) para usarlos.
 
-The game is played with simple clicks or taps.
+### Preguntas frecuentes (FAQ)
 
-*   **[ES]** **Daub Number:** When a number is called that appears on your card, click on that number to daub it.
-*   **[ES]** **Call Bingo:** When you have completed a winning pattern, click the "Bingo" button to claim your win.
-*   **[ES]** **Activate Boosters:** Click on the charged booster icons (usually at the bottom of the screen) to use them.
+*   **P: ¿Qué significa "marcar" o "daubear" un número?**
+    *   **R:** Es el término clásico del Bingo para señalar un número en el
+        cartón después de que ha sido cantado.
 
-### Frequently Asked Questions (FAQ)
+*   **P: ¿Para qué sirven las piezas de puzle?**
+    *   **R:** Son coleccionables. Cuando completas todas las piezas de un puzle,
+        sueles desbloquear una ilustración y recibir una recompensa extra.
 
-*   **[ES]** **Q: What does it mean to "daub" a number?**
-    *   **[ES]** **A:** "Daubing" is the traditional term in Bingo for marking a number on your card after it has been called.
-
-*   **[ES]** **Q: What are the puzzle pieces for?**
-    *   **[ES]** **A:** Puzzle pieces are collectibles. When you collect all the pieces of a specific puzzle, you will typically unlock a beautiful picture and receive a bonus reward.
-
-*   **[ES]** **Q: How do I get more boosters?**
-    *   **[ES]** **A:** Boosters are usually earned by daubing special numbers, completing levels, or through daily login rewards and bonus wheels.
-
+*   **P: ¿Cómo consigo más boosters?**
+    *   **R:** Normalmente se obtienen marcando números especiales, superando
+        niveles o a través de recompensas diarias y ruletas de bonus.

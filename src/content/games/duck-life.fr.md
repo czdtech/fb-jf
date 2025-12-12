@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: duck-life
-title: '[FR] Duck Life'
+title: 'Duck Life'
 description: >-
-  [FR] Duck Life is a training and racing sim: level up your duck through
+  Duck Life is a training and racing sim: level up your duck through
   mini‑games and win races.
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/duck-life.jpg

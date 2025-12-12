@@ -1,11 +1,11 @@
 ---
 locale: ko
 urlstr: incredibox-shatter-sprunk
-title: '[KO] Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online'
+title: "Incredibox Shatter Sprunk 샤터 스프렁크 모드"
 description: >-
-  [KO] Incredibox Shatter Sprunk is a fan-created Incredibox mod music game. In
-  this version, all characters are presented in a striking yellow color, and
-  each character has a unique and unrepeatable sound effect.
+  Incredibox와 Sprunki 감성을 결합한 팬메이드 모드
+  'Incredibox Shatter Sprunk' 가이드입니다. 노란 캐릭터들과
+  독특한 사운드를 활용해 개성 있는 믹스를 만드는 법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
 thumbnail: /incredibox-shatter-sprunk.png
 tags:
@@ -16,37 +16,67 @@ score: 4.5/5  (614 votes)
 
 
 
-### What's So Fun About Incredibox Shatter Sprunk?
+### Incredibox Shatter Sprunk의 재미 포인트
 
-Incredibox Shatter Sprunk, a fan Mod, will take you into a musical world that combines the classic gameplay of Incredibox with the quirky style of Sprunki! Here, you will create your own music works with a group of unique animated characters.
+*Incredibox Shatter Sprunk*는 Incredibox의 클래식한 게임 구조에
+Sprunki 특유의 기괴하고 유쾌한 스타일을 더한 팬메이드 모드입니다.
+모든 캐릭터가 눈에 띄는 노란색 테마로 디자인되어 있으며,
+**각 캐릭터가 완전히 다른 단 한 번뿐인 사운드**를 들려주는 것이
+가장 큰 특징입니다.
 
-### How to Play Incredibox Shatter Sprunk?
+플레이어는 이 다양한 캐릭터를 이용해 자신만의 트랙을 만들고,
+특정 조합을 통해 숨겨진 애니메이션이나 보너스 트랙도 발견할 수
+있습니다. 승패를 가리는 게임이라기보다는, **마음에 드는 사운드를
+마음껏 섞어 보는 놀이용 음악 툴**에 가깝습니다.
 
-The gameplay is very simple, you can get started in a few steps:
+### Incredibox Shatter Sprunk 플레이 방법
 
-- **Select Characters:** You’ll see a lineup of unique, animated characters inspired by the Sprunki theme. Each character represents a specific sound category.
-- **Drag and Drop Sounds:** Using your mouse, drag sound icons from the bottom or side of the screen and drop them onto the characters. Each icon activates a sound loop that the character will perform.
-- **Layer Your Mix:** Add multiple characters to the stage, combining their sounds to build a layered musical track. You can have up to several characters active at once, depending on the mod’s design.
-- **Experiment and Adjust:** Remove or swap sounds by dragging icons off characters or replacing them with new ones. Listen to how the layers interact and tweak them to create a cohesive mix.
-- **Unlock Bonuses (Optional):** Certain sound combinations may trigger special animations or bonus tracks—experiment to discover these hidden features.
-- **Save and Share:** Once satisfied with your mix, use the game’s save or share feature to record your creation or share it with others.
+플레이 방법은 간단하며, 몇 가지 단계만 알면 바로 시작할 수 있습니다.
 
+- **캐릭터 선택**: Sprunki 테마에서 영감을 받은 개성 넘치는 캐릭터
+  라인업이 대기하고 있습니다. 각 캐릭터는 하나의 사운드 카테고리를
+  대표합니다.  
+- **사운드 드래그 앤 드롭**: 화면 하단(또는 측면)에 있는 사운드
+  아이콘을 마우스로 드래그해 캐릭터에게 올려놓으면, 해당 캐릭터가
+  루프를 연주하기 시작합니다.  
+- **레이어 쌓기**: 여러 캐릭터를 동시에 무대에 올려, 각자의 사운드를
+  레이어처럼 겹쳐 트랙을 만듭니다. 모드 설정에 따라 동시에 활성화할 수
+  있는 캐릭터 수는 달라질 수 있습니다.  
+- **실험하고 조정하기**: 아이콘을 끌어내리거나 다른 아이콘으로 교체해
+  사운드를 바꿔 보며, 어떤 조합이 가장 재미있는지 들어 보세요.  
+- **보너스 해금(선택)**: 특정 조합을 맞추면 특별 애니메이션이나 보너스
+  트랙이 재생됩니다. 다양한 조합을 시도해 숨은 요소를 찾아보는 것도
+  재미입니다.  
+- **저장·공유하기**: 마음에 드는 믹스가 완성되면, 녹음·공유 기능을 통해
+  자신의 결과물을 저장하거나 다른 사람과 나눌 수 있습니다.
 
-**In Incredibox Shatter Sprunk, your goal is not to "win", but to create music works that you like.**
+**Incredibox Shatter Sprunk에서는 “이기는 것”이 목표가 아니라,  
+본인이 좋아하는 음악을 만드는 것이 목표입니다.**
 
-### Mouse Controls:
+### 마우스 조작법
 
-The operation of Incredibox Shatter Sprunk is very simple, you can easily complete it with the mouse:
+조작은 거의 전부 마우스로 이루어지며, 매우 직관적입니다.
 
-- **Left-Click and Drag:** Click on a sound icon, hold the mouse button, and drag it to a character. Release to assign the sound. The character will immediately start performing the loop.
-- **Remove Sounds:** To stop a sound, click and drag the icon off the character, or in some versions, right-click the character to mute or remove it (functionality may vary by Mod version).
-- **Hover Feedback:** Hovering over icons or characters may reveal tooltips or previews of the sound, helping you choose without committing.
-- **Adjust Tempo:** Some Mods include a tempo slider or buttons - click and drag or click to adjust the speed of your mix.
-- **Pause/Play:** If the Mod includes a pause feature, click a designated button (often a play/pause icon) to stop and rearrange sounds without losing your progress.
+- **좌클릭 후 드래그**: 사운드 아이콘을 클릭해 누른 채 캐릭터 위로
+  끌어다 놓으면, 해당 사운드가 할당되고 곧바로 루프가 재생됩니다.  
+- **사운드 제거**: 재생을 멈추고 싶다면 아이콘을 캐릭터에서 끌어내리거나,
+  일부 버전에서는 캐릭터를 우클릭해 음소거/제거할 수도 있습니다
+  (세부 기능은 모드 버전에 따라 다를 수 있습니다).  
+- **호버 미리 듣기**: 아이콘이나 캐릭터 위에 마우스를 올려두면
+  툴팁이나 사운드 미리 듣기가 제공되는 경우도 있어, 적용 전에
+  대략적인 느낌을 파악하는 데 도움이 됩니다.  
+- **템포 조절**: 몇몇 버전에는 템포 슬라이더나 버튼이 있어 BPM을
+  빠르게 혹은 느리게 조정할 수 있습니다.  
+- **일시정지/재생**: 플레이·일시정지 아이콘을 클릭해 곡을
+  잠시 멈추고 구성을 바꾸거나, 다시 재생할 수 있습니다.
 
+### Incredibox Shatter Sprunk 하이라이트
 
-### Highlights of Incredibox Shatter Sprunk:
+- **간단하고 직관적인 조작**: 마우스만으로도 대부분의 작업을 할 수
+  있어, 연령이나 실력에 관계없이 누구나 쉽게 즐길 수 있습니다.  
+- **독특한 Sprunki 스타일**: Sprunki 특유의 기괴하면서도 유쾌한
+  감성이 Incredibox 구조와 만나, 색다른 비주얼과 사운드를
+  경험하게 해 줍니다.  
+- **탐색하는 재미**: 숨겨진 애니메이션과 특수 연출을 발견해 나가는
+  과정 자체가 또 하나의 게임처럼 느껴집니다.
 
-- **Simple and Easy-to-Use Operation:** The mouse operation is simple and intuitive, allowing players of all ages and skill levels to easily get started.
-- **Unique Sprunki Style:** Combines the weird and innovative style of Sprunki, allowing you to experience a different Incredibox.
-- **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.

@@ -1,12 +1,11 @@
 ---
 locale: ko
 urlstr: the-binding-of-isaac
-title: '[KO] The Binding of Isaac'
+title: 'The Binding of Isaac 더 바인딩 오브 아이작'
 description: >-
-  [KO] Descend into the basement in The Binding of Isaac, a dark and challenging
-  roguelike action-RPG. Battle grotesque creatures, collect bizarre power-ups,
-  and explore procedurally generated dungeons. Each run is unique, offering
-  endless replayability as you uncover the secrets of Isaac's twisted world.
+  The Binding of Isaac는 쌍스틱 슈팅 요소를 가진 로그라이크 액션 RPG로,
+  매번 다른 구조의 지하실을 탐험하며 괴물들과 싸우고 기묘한 아이템을 모아
+  생존해야 하는 게임입니다.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/the-binding-of-isaac.jpg
 tags:
@@ -19,37 +18,54 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 게임 소개
 
-The Binding of Isaac is a critically acclaimed roguelike action-RPG with twin-stick shooter elements. Players control Isaac, a young boy who flees into his monster-filled basement to escape his religiously zealous mother. The game features procedurally generated dungeons, a vast array of bizarre items and power-ups, and a dark, unsettling atmosphere.
+The Binding of Isaac는 쌍스틱 슈팅 방식의 전투와 로그라이크 구조를 결합한
+인디 액션 RPG입니다. 플레이어는 신앙에 집착한 어머니에게서 도망쳐 몬스터로
+가득 찬 지하실로 뛰어내린 소년 아이작을 조종하게 됩니다. 매번 무작위로
+생성되는 던전과 기괴한 아이템, 불편할 정도로 어두운 분위기가 특징입니다.
 
-### Gameplay Guide
+### 플레이 가이드
 
-Each run through the basement is unique. You navigate room by room, battling enemies by shooting tears, collecting items, and defeating bosses.
-- **Exploration:** Clear rooms of enemies to unlock doors and progress deeper into the basement.
-- **Item Synergy:** Discover and combine hundreds of passive and active items that drastically alter your abilities and appearance, leading to wildly different runs.
-- **Boss Fights:** Each floor culminates in a boss fight, testing your combat skills and item synergies.
-- **Death is Permanent:** If you die, you start over from the beginning, but with knowledge gained and new items potentially unlocked for future runs.
+각 플레이는 완전히 새로운 런으로 진행됩니다. 방을 하나씩 이동하며 눈물
+탄환으로 적을 공격하고, 아이템을 모으고, 보스를 처치해야 합니다.
 
-### Controls Guide
+- **탐험:**
+  각 방의 적을 모두 처치하면 문이 열리고, 더 깊은 층으로 내려갈 수 있습니다.
+- **아이템 시너지:**
+  수백 종의 패시브/액티브 아이템을 조합해 능력과 외형이 크게 변합니다.
+  같은 적이라도 아이템 조합에 따라 완전히 다른 방식으로 상대하게 됩니다.
+- **보스전:**
+  각 층의 끝에는 보스가 대기하고 있으며, 지금까지 모아 온 아이템 시너지와
+  패턴 이해도가 시험받게 됩니다.
+- **영구 사망:**
+  한 번 죽으면 그 런은 그대로 종료되고 처음부터 다시 시작해야 합니다.
+  대신 플레이 경험과 해금 요소는 다음 런에 반영됩니다.
 
-- **Movement:** `WASD` keys
-- **Shoot Tears:** `Arrow Keys` (or mouse for aiming in some versions)
-- **Use Activated Item:** `Spacebar`
-- **Place Bomb:** `Shift` or `E`
-- **Use Card/Pill:** `Q`
+### 조작 방법 안내
 
-### Frequently Asked Questions (FAQ)
+- **이동:** `WASD`
+- **눈물 발사:** 방향키(또는 일부 버전에서는 마우스 조준)
+- **액티브 아이템 사용:** `Spacebar`
+- **폭탄 설치:** `Shift` 또는 `E`
+- **카드/알약 사용:** `Q`
 
-**What is a roguelike game?**
+### 자주 묻는 질문(FAQ)
 
-A roguelike is a subgenre of RPGs characterized by procedurally generated levels, turn-based gameplay (though Isaac is real-time), tile-based graphics (Isaac is top-down 2D), and permanent death, meaning when your character dies, you lose all progress and start a new game.
+**Q: 로그라이크 게임이란 무엇인가요?**
 
-**How do I unlock new characters and items?**
+A: 일반적으로 무작위로 생성되는 레벨, 높은 난이도, 사망 시 진행 상황이
+   대부분 초기화되는 구조를 가진 RPG 하위 장르를 말합니다. 아이작은
+   턴제 대신 실시간 전투, 탑다운 2D 그래픽을 사용한 변형 로그라이크에
+   속합니다.
 
-New characters, items, and challenges are unlocked by completing specific achievements, defeating bosses, or reaching certain milestones within the game.
+**Q: 새로운 캐릭터와 아이템은 어떻게 해금하나요?**
 
-**Is the game difficult?**
+A: 특정 보스를 처치하거나 엔딩을 보는 등, 게임 내 업적과 조건을 달성하면
+   새로운 캐릭터·아이템·챌린지가 해금됩니다.
 
-Yes, The Binding of Isaac is known for its high difficulty and steep learning curve. Success often depends on understanding item synergies and enemy patterns, as well as a bit of luck with item drops.
+**Q: 난이도가 많이 어렵나요?**
 
+A: 네, The Binding of Isaac는 높은 난이도와 러닝 커브로 유명합니다.
+   하지만 적 패턴과 아이템 시너지를 이해해 갈수록 점점 더 멀리 나아갈 수
+   있게 되며, 매번 달라지는 런 덕분에 반복 플레이의 재미가 큽니다.

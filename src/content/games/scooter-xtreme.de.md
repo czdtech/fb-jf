@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: scooter-xtreme
-title: '[DE] Scooter Xtreme 3D'
+title: Scooter Xtreme 3D
 description: >-
-  [DE] Hit the skate park in Scooter Xtreme 3D! Race through challenging
-  courses, perform awesome stunts and grinds, and collect coins to unlock new
-  scooters and characters.
+  Ab in den Skatepark mit Scooter Xtreme 3D! Rase durch Parcours, führe Tricks
+  und Grinds aus und sammle Münzen, um neue Scooter und Charaktere
+  freizuschalten.
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/scooter-xtreme.jpg
@@ -18,35 +18,56 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
+ Du fährst durch farbenfrohe 3D-Level voller Rampen, Rails und Hindernisse.
+ Mit Sprüngen, Flips und Grinds sammelst du Punkte, Münzen und arbeitest dich
+ bis ins Ziel vor. Mit deinen Einnahmen schaltest du neue Scooter und Fahrer
+ frei und wirst nach und nach zum ultimativen Scooter-Champion.
 
-### Detailed Game Introduction
+### Strategien & Spieltipps
 
-Scooter Xtreme 3D is an action-packed stunt and racing game that puts you on a scooter in a vibrant 3D world. Your goal is to navigate through challenging courses filled with ramps, rails, and obstacles. Perform incredible stunts like flips and grinds to rack up points, collect coins, and race to the finish line. Use your earnings to unlock new scooters and characters to become the ultimate scooter champion.
+1.  **Grundsteuerung meistern:** Bevor du komplexe Tricks versuchst, übe
+    Beschleunigen, Lenken und Springen, um ein Gefühl für die Physik des
+    Scooters zu bekommen.
+2.  **Tricks verketten:** Hohe Punktzahlen holst du über Combos. Springe von
+    einer Rampe, mache einen Flip und lande direkt in einem Grind, statt nur
+    einen einzelnen Trick auszuführen.
+3.  **Level erkunden:** Viele Parks bieten alternative Routen und versteckte
+    Bereiche. Erkunde die Umgebung, um die besten Linien für Punkte und Münzen
+    zu finden.
+4.  **Scooter passend wählen:** Neue Scooter haben unterschiedliche Werte
+    (z. B. Geschwindigkeit oder Trick-Fähigkeit). Wähle das Modell, das am
+    besten zu deinem Stil und zum Levelziel passt.
 
-### Gameplay Strategy & Walkthrough
+### Steuerung
 
-1.  **[DE]** **Master the Basics:** Before trying complex tricks, get comfortable with the controls. Practice accelerating, turning, and jumping to get a feel for the physics of the scooter.
-2.  **[DE]** **Link Your Tricks:** The key to a high score is combos. Don't just do one trick; try to link them together. For example, jump off a ramp, do a flip in the air, and land perfectly in a grind on a rail.
-3.  **[DE]** **Explore the Park:** The levels are filled with different paths and hidden areas. Explore the environment to find the best lines for scoring points and collecting all the coins.
-4.  **[DE]** **Choose the Right Scooter:** As you unlock new scooters, pay attention to their stats. Some might be faster, while others might be better for performing tricks. Choose the one that best fits your playstyle and the level's objective.
+*   **Gas geben:** Mit **W** oder Pfeil hoch beschleunigst du.
+*   **Lenken:** Mit **A/D** oder Pfeil links/rechts steuerst du.
+*   **Bremsen/Rückwärts:** Mit **S** oder Pfeil runter bremst du oder fährst
+    rückwärts.
+*   **Springen:** Mit der **Leertaste** springst du.
+*   **Tricks:** In der Luft oder auf Rails kannst du über eingeblendete
+    Tastenbelegungen verschiedene Stunts ausführen.
 
-### Controls Guide
+### Häufige Fragen (FAQ)
 
-*   **[DE]** **Accelerate:** Press the **W** or **Up Arrow** key.
-*   **[DE]** **Steer:** Use the **A/D** or **Left/Right Arrow** keys to steer.
-*   **[DE]** **Brake/Reverse:** Press the **S** or **Down Arrow** key.
-*   **[DE]** **Jump:** Press the **Spacebar** to jump.
-*   **[DE]** **Perform Tricks:** Use other designated keys (often shown on-screen) while in the air or on a rail to perform various stunts.
+*   **F: Wie bekomme ich mehr Punkte?**
+    **A:** Verbinde mehrere Tricks zu langen Combos und lande sauber, ohne zu
+    stürzen. Dein Multiplikator steigt mit der Länge und Vielfalt der
+    Trickabfolge.
 
-### Frequently Asked Questions (FAQ)
+    - **F: Was passiert bei einem Sturz?**
+    **A:** Du wirst meist zum letzten Checkpoint zurückgesetzt, verlierst Zeit
+    und deine aktuelle Combo.
 
-*   **[DE]** **Q: How do I get a higher score?**
-    *   **[DE]** **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.
+*   **F: Wie schalte ich neue Charaktere und Scooter frei?**
 
-*   **[DE]** **Q: What happens if I fall or crash?**
-    *   **[DE]** **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
+    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
 
-*   **[DE]** **Q: How do I unlock new characters and scooters?**
-    *   **[DE]** **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
+- **Q: How do I unlock new characters and scooters?**
 
+    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
+    **A:** Sammle Münzen in den Leveln und kaufe damit im Ingame-Shop neue
+    Fahrer und Fahrzeuge.

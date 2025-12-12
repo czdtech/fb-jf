@@ -1,74 +1,44 @@
 ---
+title: "Farming 10x10"
+description: "Farming 10x10は、古典的な10x10ブロックフィットパズルをアレンジしたゲームです。形を配置し、行や列を消して、貴重なスペースが埋まらないようにしましょう。"
+iframeSrc: "https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/"
+thumbnail: "/new-images/farming-10x10.jpg"
+urlstr: "farming-10x10"
+score: "4.1/5  (1914 votes)"
+tags: ["puzzle", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: farming-10x10
-title: '[JA TRANSLATION NEEDED] Farming 10x10'
-description: >-
-  [JA TRANSLATION NEEDED] Farming 10x10 dresses classic 10x10 block‑fit — place
-  shapes, clear rows/columns, and avoid sealing off precious space.
-iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/farming-10x10.jpg
-tags:
-  - puzzle
-  - thinky
-score: 4.1/5  (1914 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### ゲーム紹介
 
-[JA TRANSLATION NEEDED] Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive sets of three pieces; place them to complete rows/columns and score clears. The run ends when no legal placements remain, so the art is in preserving flexibility while constructing multi‑line clears.
+Farming 10x10は、10×10のグリッド上で行う穏やかな形状配置パズルです。3つのピースセットを受け取り、それらを行や列が揃うように配置して消去し、スコアを獲得します。配置できる場所がなくなるとゲーム終了となるため、複数のラインを同時に消すための柔軟性を保ちながら進めるのがコツです。
 
-### Gameplay Strategy & Walkthrough
+### ゲームプレイ戦略と攻略法
 
-[JA TRANSLATION NEEDED] 1.  Keep the center breathable; tidy edges gradually to avoid single‑cell traps.
-[JA TRANSLATION NEEDED] 2.  Reserve a pocket sized for the most awkward triominoes.
-[JA TRANSLATION NEEDED] 3.  Place the hardest piece first when the board is crowded.
-[JA TRANSLATION NEEDED] 4.  Build two‑line setups so one placement scores double clears.
-[JA TRANSLATION NEEDED] 5.  Avoid creating 1×n “spines” that only fit sticks.
+1.  **中央を空けておく**: 単一セルの罠を避けるため、端から徐々に整えていきましょう。
+2.  **ポケットを確保する**: 最も扱いにくいトリオミノ（3つの正方形が繋がった形）のためにスペースを確保しておきましょう。
+3.  **難しいピースから配置**: 盤面が混み合っているときは、一番難しいピースを最初に配置しましょう。
+4.  **ダブルクリアを狙う**: 1回の配置で2行消せるようにセットアップしましょう。
+5.  **1×nの「背骨」を避ける**: 棒状のピースしか入らないような隙間を作らないようにしましょう。
 
-### Controls Guide
+### 操作ガイド
 
-- Drag pieces to the board; release to place; some modes allow rotate.
-- Undo/Reset if provided.
+- **配置**: ピースをドラッグして盤面に運び、離して配置します（一部のモードでは回転が可能です）。
+- **その他**: アンドゥやリセット機能がある場合もあります。
 
-### Frequently Asked Questions (FAQ)
+### よくある質問 (FAQ)
 
-- Q: I keep running out of room — solutions?
+- **Q: スペースがすぐになくなってしまいます。解決策は？**
   
-[JA TRANSLATION NEEDED]   A: Maintain a central open area, set aside an awkward‑piece pocket, and prioritize double clear setups.
+  A: 中央のエリアを広く保ち、扱いにくいピース用のスペースを確保し、ダブルクリアを優先的に狙いましょう。
 
-- Q: Rotate is missing?
+- **Q: 回転機能がないのですが？**
   
-[JA TRANSLATION NEEDED]   A: Many 10×10 variants do not rotate; compensate with better pocketing.
+  A: 多くの10×10バリアントでは回転がありません。より慎重にスペース管理をして補いましょう。
 
-- Q: How to chase high scores?
+- **Q: ハイスコアを狙うには？**
   
-
-
-
-
-
-- Q: I keep running out of room — solutions?
-### よくある質問（FAQ）
-- Undo/Reset if provided.
-- Drag pieces to the board; release to place; some modes allow rotate.
-### コントロールガイド
-[JA TRANSLATION NEEDED]   A: Chain doubles and avoid “rescue” singles that break structure.
-
-
-
-
-
-
-A: Chain doubles and avoid “rescue” singles that break structure.
-- Q: How to chase high scores?
-A: Many 10×10 variants do not rotate; compensate with better pocketing.
-- Q: Rotate is missing?
-
-
-
-
-A: Chain doubles and avoid “rescue” singles that break structure.
-- Q: How to chase high scores?
-A: Many 10×10 variants do not rotate; compensate with better pocketing.
+  A: ダブルクリアを連鎖させ、構造を壊してしまうような「救済」のための単発消しは避けましょう。

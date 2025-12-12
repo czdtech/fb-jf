@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: getaway-shootout
-title: '[ZH TRANSLATION NEEDED] Getaway Shootout'
+title: "Getaway Shootout 亂鬥逃脫賽"
 description: >-
-  [ZH TRANSLATION NEEDED] Chaotic physics race‑and‑shoot: hop your way to the
-  getaway point, grab goofy weapons, and outsmart rivals in 2‑player or solo.
+  失控物理系競速射擊：用笨拙的跳躍一路蹦到撤離點，撿起各種搞笑武器，
+  在單人或雙人模式中比拼誰先成功逃脫。
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/getaway-shootout.jpg
 tags:
@@ -17,26 +17,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-[ZH TRANSLATION NEEDED] Getaway Shootout is a competitive physics platformer where characters lurch forward with alternating hops. Each round drops you into a side‑scrolling map full of ladders, moving platforms, and weapon crates. The goal is to reach the extraction point first while using slapstick guns and gadgets to disrupt opponents. The awkward locomotion is the point: mastering hop timing, momentum on slopes, and mid‑air direction changes wins races.
+
+《Getaway Shootout》是一款主打物理解體感的競速平台遊戲，所有角色都依靠左右交替的跳躍前進。
+每一回合你都會被丟進橫向卷軸地圖，裡面有梯子、移動平台與武器箱，
+目標是在其他對手之前先抵達撤離點，同時用各種搞笑槍械與道具互相阻撓。
+看似笨拙的操控正是樂趣所在：誰能掌握跳躍節奏、斜坡加速與空中轉向，誰就更有機會獲勝。
 
 ### How to Play
-- Alternate hops to build speed; use short taps for micro‑steps and long holds for vaults.
-- Grab crates for weapons like pistols, rocket launchers, or gadgets; use them sparingly.
-- Learn map shortcuts and moving platform cycles to stay ahead.
+
+- 透過左右跳躍鍵交替點擊來前進，短按可以做出小碎步，長按則會跳得更遠、更高。
+- 路途中記得撿起武器箱，裡面可能有手槍、火箭筒或各種奇怪裝備，適時使用來打亂對手節奏。
+- 熟悉地圖捷徑與移動平台的循環時間，提早卡位就能搶佔路線優勢。
 
 ### Controls
-- Two keys to hop left/right; separate keys to use items (keybinds vary by host); supports local 2‑player.
+
+- 兩個按鍵分別控制向左／向右的跳躍；
+- 另有按鍵用於使用武器或道具（具體鍵位依託管版本而定）；
+- 支援本地雙人遊玩，各自使用不同的一組按鍵。
 
 ### Tips
-- On slopes, time longer holds to convert vertical gain into forward speed.
-- Fire weapons at chokepoints or while an opponent jumps—knockback is strongest mid‑air.
-- Practice starts: early acceleration often decides close races.
+
+- 在斜坡上使用較長時間的按鍵，可以把向上的高度轉換成更快的前進速度，
+  善用地形能讓你明顯快過只會亂跳的對手。
+- 儘量在轉角或狹窄通道等「瓶頸點」開槍，或抓準對手起跳的瞬間射擊，
+  中彈時的反作用力在空中最容易把人震飛出平台。
+- 多練習起跑前幾步的加速節奏，很多短局其實在前幾秒就已經決定優勢。
 
 ### FAQ
-- Q: How do I move faster with such clumsy controls?  
-[ZH TRANSLATION NEEDED]   A: Use alternating long/short hops and leverage slopes for momentum.
-- Q: Can I play with a friend on one keyboard?  
-[ZH TRANSLATION NEEDED]   A: Yes, most hosts map a second control set for local multiplayer.
-- Q: Do weapons respawn during a round?  
-[ZH TRANSLATION NEEDED]   A: Crates respawn on timers; memorize placements to plan routes.
 
+- 問：這麼笨重的操作要怎麼跑得更快？  
+  答：嘗試長短跳交替、配合斜坡來堆速度，比單純亂按其中一側要有效得多。
+
+- 問：可以在同一鍵盤上跟朋友一起玩嗎？  
+  答：可以，多數版本都會為第二位玩家配置另一組按鍵，支援本地 2 人亂鬥。
+
+- 問：武器箱會重新生成嗎？  
+  答：會，箱子通常依時間間隔刷新。熟悉箱子刷新位置與節奏，可以提前規劃撿武器路線。

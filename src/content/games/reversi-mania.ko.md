@@ -1,10 +1,11 @@
 ---
 locale: ko
 urlstr: reversi-mania
-title: '[KO] Reversi Mania'
+title: "Reversi Mania 리버시 매니아"
 description: >-
-  [KO] Reversi Mania brings classic Othello to your browser — outflank discs,
-  seize corners, and win with smart endgame parity.
+  Reversi Mania는 클래식 보드 게임 오델로를 브라우저에서 즐길 수 있게 만든 온라인
+  버전입니다. 8x8 보드에서 상대 돌을 양쪽에서 끼워 뒤집고, 코너와 끝줄을 차지해
+  마지막에 더 많은 돌을 남기는 것이 목표입니다.
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
 thumbnail: /new-images/reversi-mania.png
 tags:
@@ -18,28 +19,55 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### 게임 상세 소개
 
-Reversi Mania is a faithful, fast‑to‑learn implementation of Reversi (also known as Othello). Players take turns placing discs on an 8×8 board to outflank the opponent’s discs in straight lines (horizontal, vertical, or diagonal). Any outflanked discs flip to your color. If a player has no legal move that flips at least one disc, they must pass; the game ends when neither side can move (usually when the board is full). The side with more discs wins.
+Reversi Mania는 리버시(오델로) 규칙을 충실히 구현한 보드 게임입니다. 두 플레이어는
+8x8 보드에 번갈아 돌을 두며, 가로·세로·대각선 직선 방향으로 상대 돌을 양끝에서
+끼워 넣으면 그 사이의 돌들이 모두 자신의 색으로 뒤집힙니다. 한 번의 수로 적어도
+하나 이상의 상대 돌을 뒤집을 수 있어야만 착수할 수 있고, 둘 중 누구도 둘 수 있는
+곳이 없을 때(보통 보드가 거의 찼을 때) 게임이 끝납니다. 마지막에 보드 위에 더 많은
+돌을 가진 쪽이 승리합니다.
 
-### Gameplay Strategy & Walkthrough
+### 공략 & 플레이 팁
 
-1.  **[KO]** Corners first: Corner discs can never be flipped; securing corners often decides the game.
-2.  **[KO]** Avoid “X‑squares” early: The diagonally adjacent squares to corners (X‑squares) often give your opponent an easy corner capture.
-3.  **[KO]** Edge stability: Edges are powerful once stabilized; build safely from corners before expanding along the edge.
-4.  **[KO]** Mobility over material (early): Keep your options open and deny moves to your opponent; too many early flips can backfire.
-5.  **[KO]** Parity (endgame): Aim to move last in the final regions; controlling whether a region has odd/even empties can secure the final swing.
+1. 코너 선점하기: 네 모서리 칸에 놓인 돌은 절대 뒤집히지 않기 때문에, 코너를 먼저
+   확보하는 쪽이 게임 전체를 주도하게 됩니다.
+2. 초반 X-칸(코너 대각선) 자제: 코너 바로 대각선(X-칸)에 너무 일찍 돌을 두면, 상대에게
+   코너를 내주기 쉬운 구조를 만들어 버립니다. 확실히 코너를 가져올 수 있을 때까지는
+   가급적 피하는 것이 좋습니다.
+3. 안정된 가장자리 만들기: 한 번에 뒤집히지 않는 안정된 가장자리 라인을 구축하면,
+   후반에 매우 강력한 우위를 가져올 수 있습니다. 코너를 확보한 뒤, 그 코너를
+   기반으로 양 옆 가장자리를 천천히 채워 나가세요.
+4. 초반에는 돌 수보다 "수의 선택지"가 중요: 초반에 너무 많은 돌을 뒤집으면,
+   상대에게 둘 수 있는 위치를 많이 열어 주게 됩니다. 돌 개수를 욕심내기보다는,
+   상대의 선택지를 줄이고 내 선택지를 늘리는 방향으로 두는 것이 좋습니다.
+5. 종반 패리티(Parity) 신경쓰기: 마지막 몇 줄이 남았을 때는, 각 구역에 남은 빈칸의
+   짝수/홀수를 계산해 "마지막 수"를 누가 두게 될지 관리하는 것이 중요합니다.
+   마지막 수를 두는 쪽이 한꺼번에 많은 돌을 뒤집으며 역전할 수 있습니다.
 
-### Controls Guide
+### 조작 방법
 
-- Place a disc: Click or tap a legal square (most implementations highlight valid moves). A legal move must flip at least one opposing disc.
-- Passing: If no legal move exists, the game auto‑passes or prompts you to pass.
-- Modes: Single‑player (vs. AI) or local 2‑player are commonly available.
+- 돌 두기: 마우스 클릭 또는 터치로 착수 위치를 선택합니다. 대부분의 버전에서 둘 수
+  있는 칸은 하이라이트되어 표시되며, 그 위치에 두면 끼워진 상대 돌이 자동으로
+  뒤집힙니다.
+- 패스: 뒤집을 수 있는 수가 하나도 없을 경우, 게임이 자동으로 패스를 처리하거나
+  패스를 선택하라는 안내가 표시됩니다.
+- 모드: 보통 AI와 겨루는 1인용 모드와, 한 기기에서 번갈아 두는 2인용 모드를 모두
+  제공합니다.
 
-### Frequently Asked Questions (FAQ)
+### 자주 묻는 질문(FAQ)
 
-- What makes a move legal? It must outflank one or more opponent discs in a straight line; all outflanked discs flip.
-- What if neither side can move? The game ends and the side with more discs on the board wins.
-- Is going first stronger? Initiative helps, but strong play revolves around corners, mobility, and endgame parity.
-- Any quick tip for beginners? Don’t over‑flip early; fight for mobility and avoid X‑squares until you can secure corners.
-
+- **합법적인 수는 어떻게 판단하나요?**  
+  자신이 두려는 칸에서 하나 이상의 직선 방향(가로, 세로, 대각선)으로 상대 돌을
+  연속으로 끼우고, 그 끝에 자신의 돌이 있어야 합니다. 이렇게 끼워진 모든 상대 돌이
+  뒤집힙니다.
+- **양쪽 모두 둘 수 없으면 어떻게 되나요?**  
+  두 플레이어 모두 둘 수 있는 칸이 없으면 게임이 종료되고, 보드 위 돌 개수를
+  비교해 승부를 가립니다.
+- **선공이 더 유리한가요?**  
+  선공이 초반에 약간의 이점을 가질 수 있지만, 실제 승패는 코너 선점, 돌 개수
+  관리, 종반 패리티 등 전략적인 선택에 더 크게 좌우됩니다.
+- **초보자를 위한 한 가지 팁이 있다면?**  
+  초반에는 돌을 많이 뒤집는 것보다, 상대가 둘 수 있는 칸을 줄이는 방향으로 두세요.
+  특히 코너 주변 X-칸은 코너를 내주는 지름길이 되기 쉬우므로, 확실한 계산 없이
+  함부로 두지 않는 것이 좋습니다.

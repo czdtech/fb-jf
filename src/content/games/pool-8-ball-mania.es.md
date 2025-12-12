@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: pool-8-ball-mania
-title: '[ES] Pool 8 Ball Mania'
+title: "Pool 8 Ball Mania"
 description: >-
-  [ES] Pool 8 Ball Mania refines bar‑pool — aim clean, control cue‑ball with
-  spin, and clear patterns with smart position play.
-iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
-thumbnail: /new-images/pool-8-ball-mania.png
+  Pool 8 Ball Mania lleva el billar de bar a tu pantalla: apunta con precisión,
+  controla la bola blanca con efecto y limpia la mesa planificando bien cada
+  posición.
+iframeSrc: "https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/"
+thumbnail: "/new-images/pool-8-ball-mania.png"
 tags:
   - sports
   - pool
@@ -15,35 +16,52 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Introducción detallada al juego
 
+Pool 8 Ball Mania simula partidas casuales de bola 8 con una puntería muy
+responsiva y un sistema de efectos muy claro. El núcleo del juego es el control
+sobre la bola blanca: colocarla en la zona ideal para el siguiente tiro, usar
+Efecto Arriba para que acompañe, Efecto Abajo para que retroceda y efecto
+lateral sobre las bandas para ajustar ángulos y líneas de tiro.
 
-### Detailed Game Introduction
+### Estrategias de juego y recorrido
 
-Pool 8 Ball Mania simulates casual 8‑ball with responsive aiming and spin. The core is cue‑ball control: land shape for the next shot, use topspin to follow, backspin to draw, and sidespin off rails to manage lines.
+1.  **Planifica la posición antes de tirar:** Antes de embocar una bola, piensa
+    dónde quieres que quede la blanca para el siguiente golpe.
+2.  **Prioriza la velocidad adecuada:** Un golpe suave y controlado suele ser
+    mejor que un cañonazo. Menos fuerza da más precisión.
+3.  **Usa el efecto con moderación:** Pequeños ajustes de efecto arriba, abajo o
+    lateral son más seguros que efectos extremos que descontrolan la blanca.
+4.  **Limpia primero las zonas difíciles:** Rompe grupos de bolas y resuelve las
+    posiciones complicadas al principio de la partida, cuando aún tienes más
+    opciones de colocación.
+5.  **Juega a la defensa cuando convenga:** Si el tiro es muy fino y arriesgado,
+    valora hacer un golpe de seguridad que deje a tu rival en una posición
+    incómoda en lugar de regalarle la mesa.
 
-### Gameplay Strategy & Walkthrough
+### Guía de controles
 
-1.  **[ES]** Pre‑plan shape: Decide landing spots before every pot.
-2.  **[ES]** Speed first: Smooth medium strokes trump power slams.
-3.  **[ES]** Spin sparing: Small top/back/side spin corrections are safer.
-4.  **[ES]** Pattern clears: Resolve clusters and problem balls early.
-5.  **[ES]** Safety: If the pot is thin and risky, play safe to leave the opponent tough.
+- **Apuntar:** Arrastra para alinear el taco con la bola y el objetivo.
+- **Potencia:** Tira del medidor hacia atrás y suéltalo para ajustar la fuerza.
+- **Efecto:** Ajusta el punto de impacto sobre el diagrama de la bola blanca para
+  aplicar efecto arriba, abajo o lateral.
+- **Cámara:** Si el juego lo permite, mueve y haz zoom en la cámara para ver
+  mejor los ángulos.
 
-### Controls Guide
+### Preguntas frecuentes (FAQ)
 
-- Aim: drag; Power: pull meter; Spin: adjust cue‑ball diagram; Camera: pan/zoom if available.
+- **P: Mis bolas botan en la tronera y no entran, ¿por qué?**
+  
+  **R:** Normalmente usas demasiada fuerza o no apuntas por el centro de la
+  tronera. Baja la potencia y apunta a una línea limpia hacia el centro del
+  bolsillo.
 
-### Frequently Asked Questions (FAQ)
+- **P: ¿Cómo mantengo buena posición para el siguiente tiro?**
+  
+  **R:** Usa pequeños efectos de seguir o retroceder (follow/draw) y apóyate en
+  las bandas para ir frenando la blanca en la zona ideal.
 
-- Q: Pots rattle out — why?
-
-A: Too much speed or impure line; reduce power and aim through pocket center.
-
-- Q: How to hold position?
-
-A: Short follow/draw and use rails to bleed speed.
-
-- Q: Break tips?
-
-A: Square on head ball, moderate power, control cue‑ball center.
-
+- **P: ¿Algún consejo para el saque inicial (break)?**
+  
+  **R:** Impacta lo más cuadrado posible en la bola de cabeza, usa una potencia
+  moderada y céntrate en mantener la bola blanca cerca del centro de la mesa.

@@ -1,10 +1,11 @@
 ---
 locale: fr
 urlstr: captain-gold
-title: '[FR] Captain Gold'
+title: Captain Gold
 description: >-
-  [FR] Captain Gold is a classic gold‑miner challenge — time throws, hook
-  valuables, and avoid rocks to hit quotas.
+  Captain Gold est un classique du mineur d’or : fais balancer le grappin,
+  lâche‑le au bon moment, remonte des pépites et évite les rochers pour
+  atteindre l’objectif avant la fin du temps.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/captain-gold.png
 tags:
@@ -16,35 +17,73 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Présentation du jeu
 
-### Detailed Game Introduction
+Dans Captain Gold, tu incarnes un chercheur d’or installé devant une
+excavatrice improvisée. Un crochet suspendu oscille continuellement de gauche à
+droite au bout d’un câble. Quand tu le déclenches, il descend en ligne droite
+et accroche ce qu’il rencontre : pépites d’or, diamants, sacs mystérieux… ou
+roches sans grande valeur.
 
-Captain Gold follows the timeless gold‑miner formula: swing a hook across the screen and release at the right moment to snag gold nuggets and treasures. Heavy objects pull slowly, light ones reel in faster. Stages set cash targets and time limits, with shop upgrades between rounds.
+Chaque niveau impose un quota d’argent à atteindre dans un temps limité. Les
+objets lourds remontent lentement mais valent plus, tandis que les cailloux ne
+rapportent presque rien tout en te faisant perdre de précieuses secondes. Entre
+les manches, tu peux acheter des améliorations ou de la dynamite pour optimiser
+les prochains runs.
 
-### Gameplay Strategy & Walkthrough
+### Guide de jeu
 
-1.  **[FR]** Prioritize big nuggets and bags early for faster quota.
-2.  **[FR]** Avoid rocks — they’re heavy and low value unless you must clear space.
-3.  **[FR]** Use dynamite (if available) to drop unwanted items mid‑reel.
-4.  **[FR]** Shop smart: buy power‑reel or extra dynamite first; evaluate per stage layout.
-5.  **[FR]** Timing cues: Release slightly before the hook lines up due to swing momentum.
+1.  **Vise les grosses pépites et les sacs**  
+    Les gros morceaux d’or et les sacs contiennent souvent assez d’argent pour
+    approcher le quota en quelques prises. Priorise‑les quand ils sont en
+    position facile plutôt que de gaspiller du temps sur de petits objets.
+2.  **Évite les rochers autant que possible**  
+    Les rochers sont lourds, peu rentables et immobilisent le crochet pendant
+    longtemps. Si tu vois que la trajectoire du grappin va droit vers un
+    caillou, attends un meilleur angle au lieu de tirer.
+3.  **Utilise la dynamite de façon intelligente**  
+    Si le jeu propose de la dynamite, n’hésite pas à l’utiliser pour faire
+    exploser un objet encombrant déjà accroché (souvent un rocher). Tu perds la
+    valeur de cet objet, mais tu récupères immédiatement ton grappin.
+4.  **Investis d’abord dans la puissance et la vitesse**  
+    Lors des achats entre les niveaux, privilégie les améliorations qui
+    accélèrent la remontée ou augmentent la valeur des trouvailles. Tu rentres
+    ainsi plus facilement dans tes frais sur la durée.
+5.  **Apprends le timing du balancement**  
+    Le crochet a toujours la même vitesse de va‑et‑vient. Observe une ou deux
+    oscillations au début du niveau pour repérer le moment exact où appuyer
+    pour atteindre une zone précise.
 
-### Controls Guide
+### Commandes
 
-- Tap/Click to release the hook; tap again to use dynamite if supported.
-- Navigate shop menus between levels.
+- **Lancer le crochet** : clique ou touche l’écran pour faire descendre le
+  grappin quand il pointe vers la zone voulue.  
+- **Utiliser la dynamite (si disponible)** : clique de nouveau pendant que le
+  crochet remonte un objet pour le faire exploser et libérer la griffe.  
+- **Naviguer dans la boutique** : utilise les boutons de l’interface pour
+  acheter des bonus, de la dynamite ou des améliorations entre les niveaux.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
+
 
 - Q: I keep coming up short on cash — any tips?
-
-A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
+**Q : Je n’atteins jamais le quota d’or, des conseils ?**  
 
 - Q: Is dynamite worth it?
-
-A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
+R : Concentre‑toi sur les plus grosses pépites et sacs de valeur, surtout au
 
 - Q: Can I control hook angle precisely?
+milieu du niveau. Évite les rochers, investis tôt dans la puissance de
+remontée, et n’hésite pas à sacrifier un objet grâce à la dynamite si cela te
+fait gagner beaucoup de temps.
 
-A: Learn the swing rhythm; release a fraction early to account for motion.
+**Q : La dynamite vaut‑elle vraiment le coup ?**  
+R : Oui, surtout sur les niveaux remplis de rochers. Faire exploser un objet
+peu rentable te permet de relancer le grappin immédiatement, ce qui peut
+rapporter bien plus que la petite somme perdue.
 
+**Q : Comment viser plus précisément ?**  
+R : Regarde le rythme d’oscillation du crochet et choisis un repère visuel sur
+l’écran (par exemple une pierre ou un bloc en arrière‑plan). Appuie
+systématiquement quand le crochet passe devant ce repère pour reproduire le
+même angle.

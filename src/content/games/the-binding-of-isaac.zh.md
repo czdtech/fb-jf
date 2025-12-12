@@ -1,13 +1,10 @@
 ---
 locale: zh
 urlstr: the-binding-of-isaac
-title: '[ZH TRANSLATION NEEDED] The Binding of Isaac'
+title: 《The Binding of Isaac》以撒的结合
 description: >-
-  [ZH TRANSLATION NEEDED] Descend into the basement in The Binding of Isaac, a
-  dark and challenging roguelike action-RPG. Battle grotesque creatures, collect
-  bizarre power-ups, and explore procedurally generated dungeons. Each run is
-  unique, offering endless replayability as you uncover the secrets of Isaac's
-  twisted world.
+  《The Binding of Isaac》是一款黑暗风格的类 Rogue 动作
+  RPG。跟随以撒一路逃入地下室，与各类畸形怪物战斗、收集古怪道具，在随机生成的地牢中探索，体验每局截然不同的组合与结局。
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/the-binding-of-isaac.jpg
 tags:
@@ -18,37 +15,35 @@ score: 4.1/5  (186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] The Binding of Isaac is a critically acclaimed roguelike action-RPG with twin-stick shooter elements. Players control Isaac, a young boy who flees into his monster-filled basement to escape his religiously zealous mother. The game features procedurally generated dungeons, a vast array of bizarre items and power-ups, and a dark, unsettling atmosphere.
+《The Binding of Isaac》（以撒的结合）是一款口碑极高的类 Rogue 动作 RPG，融合了双摇杆射击元素。你将操控小男孩以撒，为躲避狂热宗教母亲的“献祭”，逃入充满怪物的地下室。游戏拥有随机生成的房间与关卡、数量惊人的被动与主动道具，以及压抑诡异的氛围设定，每一局都会呈现截然不同的体验。
 
-### Gameplay Guide
+### 游玩指南
 
-[ZH TRANSLATION NEEDED] Each run through the basement is unique. You navigate room by room, battling enemies by shooting tears, collecting items, and defeating bosses.
-- **Exploration:** Clear rooms of enemies to unlock doors and progress deeper into the basement.
-- **Item Synergy:** Discover and combine hundreds of passive and active items that drastically alter your abilities and appearance, leading to wildly different runs.
-- **Boss Fights:** Each floor culminates in a boss fight, testing your combat skills and item synergies.
-- **Death is Permanent:** If you die, you start over from the beginning, but with knowledge gained and new items potentially unlocked for future runs.
+每次下地都是全新的一局，你需要逐房探索、战斗并成长：
 
-### Controls Guide
+- **探索：** 清理房间里的敌人以解锁通往下一房间的门，逐层深入地下室；
+- **道具联动：** 游戏内有上百种被动、主动道具和卡牌/药丸，它们会极大改变你的属性和攻击方式，形成各种离谱的“强度联动”；
+- **Boss 战：** 每一层最终都会遭遇 Boss，对你的操作水平和配装理解都是检验；
+- **死亡即重来：** 一旦阵亡，本局进度全部清零，只保留你解锁出的新物品与角色，用以丰富后续的可能性。
 
-- **Movement:** `WASD` keys
-- **Shoot Tears:** `Arrow Keys` (or mouse for aiming in some versions)
-- **Use Activated Item:** `Spacebar`
-- **Place Bomb:** `Shift` or `E`
-- **Use Card/Pill:** `Q`
+### 操作说明
 
-### Frequently Asked Questions (FAQ)
+- **移动：** 使用 `WASD` 控制移动；
+- **射击（眼泪）：** 使用方向键进行四向射击（部分版本支持鼠标瞄准）；
+- **使用主动道具：** `Spacebar`；
+- **放置炸弹：** `Shift` 或 `E`；
+- **使用卡牌 / 药丸：** `Q`。
 
-[ZH TRANSLATION NEEDED] **What is a roguelike game?**
+### 常见问题解答（FAQ）
 
-[ZH TRANSLATION NEEDED] A roguelike is a subgenre of RPGs characterized by procedurally generated levels, turn-based gameplay (though Isaac is real-time), tile-based graphics (Isaac is top-down 2D), and permanent death, meaning when your character dies, you lose all progress and start a new game.
+**问：什么是 Roguelike？****
+答：** Roguelike 通常指关卡随机生成、死亡后进度清零、需要反复尝试和积累经验的 RPG 子类型。《以撒的结合》虽然是实时动作而非回合制，但沿用了“房间随机 + 道具随机 + 永久死亡”的核心特征。
 
-[ZH TRANSLATION NEEDED] **How do I unlock new characters and items?**
+**问：如何解锁新角色与道具？****
+答：** 通常通过打通特定 Boss、达成成就或完成挑战来逐步解锁，解锁后的内容会加入掉落池，使后续每局出现的可能性更多。
 
-[ZH TRANSLATION NEEDED] New characters, items, and challenges are unlocked by completing specific achievements, defeating bosses, or reaching certain milestones within the game.
-
-[ZH TRANSLATION NEEDED] **Is the game difficult?**
-
-[ZH TRANSLATION NEEDED] Yes, The Binding of Isaac is known for its high difficulty and steep learning curve. Success often depends on understanding item synergies and enemy patterns, as well as a bit of luck with item drops.
+**问：游戏难吗？****
+答：** 《以撒的结合》以偏高的难度与陡峭学习曲线著称，需要你慢慢熟悉敌人攻击模式和道具效果，同时也看一点运气与出装。
 

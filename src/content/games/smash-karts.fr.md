@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: smash-karts
-title: '[FR] Smash Karts'
+title: 'Smash Karts'
 description: >-
-  [FR] Smash Karts is a multiplayer online kart racing game where players
-  compete in fast-paced races, collect power-ups, and battle opponents while
-  racing through various tracks in colorful 3D environments.
+  Smash Karts est un jeu de course‑combat de karts en ligne : participe à des
+  courses survoltées, ramasse des power‑ups et affronte les autres joueurs sur
+  des circuits 3D colorés.
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/smash-karts.jpg
 tags:
@@ -17,35 +17,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
+Smash Karts est un jeu de kart en ligne multijoueur où tu t’affrontes dans
+des courses rapides, ramasses des power‑ups et bombardes tes adversaires
+sur différents circuits en 3D. Le jeu mélange les sensations de la course
+classique avec des éléments de combat pour des parties aussi chaotiques que
+fun.
 
+### Stratégies de jeu
 
-### Game Introduction
+1.  **Gestion des power‑ups :** apprends à utiliser chaque objet au bon
+    moment, pour attaquer ou te défendre.
+2.  **Connaître les circuits :** familiarise‑toi avec les tracés pour
+    découvrir les meilleurs trajets et raccourcis.
+3.  **Améliorer ta conduite :** maîtrise les virages, le drift et
+    l’accélération pour garder un avantage en vitesse.
+4.  **Jeu d’équipe :** en mode par équipes, coordonne‑toi avec tes
+    coéquipiers pour mettre la pression sur les adversaires.
+5.  **Sens du timing :** choisis soigneusement le moment où tu utilises
+    tes objets pour surprendre ou renverser la situation.
 
-"Smash Karts" is a multiplayer online kart racing game where players compete in fast-paced races, collect power-ups, and battle opponents while racing through various tracks in colorful 3D environments. The game combines classic kart racing with combat elements, providing players with exciting and fun multiplayer gaming experience.
+### Comment jouer
 
-### Gameplay Strategy
+*   **Déplacement :** touches WASD ou flèches pour diriger ton kart.  
+*   **Accélération :** certaines versions proposent une touche de boost
+    supplémentaire.  
+*   **Utiliser les power‑ups :** barre d’espace ou clic pour déclencher
+    l’objet ramassé.  
+*   **Drift :** apprends à déraper pour conserver de la vitesse dans les
+    courbes.
 
-1.  **[FR]** **Power-up Usage**: Learn to use various power-ups wisely, attacking opponents or defending yourself at appropriate times.
-2.  **[FR]** **Track Familiarity**: Familiarize yourself with different track layouts to find optimal routes and shortcuts.
-3.  **[FR]** **Driving Skills**: Master turning, drifting, and acceleration techniques to gain competitive advantages.
-4.  **[FR]** **Tactical Cooperation**: Coordinate with teammates in team modes to fight against enemy players.
-5.  **[FR]** **Timing**: Choose the right moments to use power-ups and launch attacks.
+### Foire aux questions
 
-### How to Play
+1.  **Q : Comment obtenir des power‑ups ?**  
+   R : Passe sur les caisses d’objets disposées sur la piste pour récupérer
+   un power‑up aléatoire.
 
-*   **[FR]** **Movement**: Use WASD keys or arrow keys to control kart movement.
-*   **[FR]** **Acceleration**: Some versions may have additional acceleration keys.
-*   **[FR]** **Use Power-ups**: Typically use spacebar or mouse click to use collected power-ups.
-*   **[FR]** **Drift**: Master drifting techniques to maintain speed while turning.
+2.  **Q : Combien de joueurs peuvent jouer en même temps ?**  
+   R : Le jeu supporte généralement de nombreux joueurs en simultané en
+   ligne, selon le serveur et la version.
 
-### Frequently Asked Questions
+3.  **Q : Comment améliorer mes compétences de pilotage ?**  
+   R : En t’entraînant sur différents circuits, en apprenant les meilleures
+   trajectoires et en maîtrisant drift et virages.
 
-1.  **[FR]** **Q: How do I get power-ups?**
-**A**: You'll encounter power-up boxes while driving on tracks; hit them to get random power-ups.
-2.  **[FR]** **Q: How many players can play simultaneously?**
-**A**: Usually supports multiple players online simultaneously; specific numbers depend on server and game version.
-3.  **[FR]** **Q: How can I improve my driving skills?**
-**A**: Practice more on different tracks, learn optimal routes, and master drifting and turning techniques.
-4.  **[FR]** **Q: Are there different game modes?**
-**A**: Typically includes standard racing, battle mode, team battles, and other various game modes.
+4.  **Q : Y a‑t‑il plusieurs modes de jeu ?**  
+   R : Oui, on trouve généralement des courses classiques, des modes
+   bataille, des combats en équipe, etc.

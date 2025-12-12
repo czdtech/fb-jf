@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: uncle-ahmed
-title: '[ZH TRANSLATION NEEDED] Uncle Ahmed'
+title: 'Uncle Ahmed：经典横版闯关冒险'
 description: >-
-  [ZH TRANSLATION NEEDED] Embark on a classic 2D platforming adventure with
-  Uncle Ahmed! Jump on enemies, collect coins, and use power-ups to rescue your
-  nephew from a dark sorcerer.
+  踏上一场经典 2D 横版闯关之旅！操控 Uncle Ahmed 踩踏敌人、收集金币并使用各种强化道具，
+  打败邪恶巫师，从黑暗魔法中救回被绑架的侄子。
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/uncle-ahmed.jpg
@@ -18,30 +17,53 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 游戏详细介绍
 
-[ZH TRANSLATION NEEDED] Uncle Ahmed is a classic 2D side-scrolling platformer that will evoke nostalgia for games like Super Mario Bros. Players take on the role of the heroic Uncle Ahmed on a quest to rescue his nephew, who has been kidnapped by an evil sorcerer. You will journey through dozens of levels filled with various enemies, tricky obstacles, and helpful power-ups. The goal is to reach the end of each stage, defeat the sorcerer, and save the day.
+《Uncle Ahmed》是一款充满复古味道的 2D 横版卷轴平台动作游戏，会让人立刻想起《超级马里奥》等经典之作。
+你将扮演勇敢的 Ahmed 叔叔，在冒险旅途中穿越一个又一个关卡，对抗各种怪物与陷阱，
+依靠精准的跳跃与合理使用道具，一步步逼近邪恶巫师的老巢，最终解救被绑架的侄子。
 
-### Gameplay Strategy & Walkthrough
-1.  [ZH TRANSLATION NEEDED] **Master the Jump:** Your most important skill is jumping. Use it to stomp on enemies to defeat them, break blocks to find coins and power-ups, and navigate over dangerous pits and spikes.
-2.  [ZH TRANSLATION NEEDED] **Collect Everything:** Grab all the coins you see. These can often be used to purchase extra lives, allowing you to continue if you make a mistake. Also, be sure to grab any power-ups you find.
-3.  [ZH TRANSLATION NEEDED] **Know Your Power-ups:** Power-ups are essential for survival. A watermelon might allow you to throw projectiles, while a hot pepper could grant you a temporary speed boost. Use them wisely to clear out difficult sections.
-4.  [ZH TRANSLATION NEEDED] **Explore for Secrets:** Don't just run straight to the finish line. Some levels contain hidden areas or secret blocks that hold extra lives or valuable power-ups. Exploration is often rewarded.
+关卡中布满了会移动的敌人、尖刺陷阱，以及隐藏在砖块中的金币和强化道具。
+每一关的目标都很明确：在不掉下深坑、不被敌人击倒的前提下一路前进，
+找到终点旗帜或传送门，向最终的 BOSS 决战迈进。
 
-### Controls Guide
+### 游玩策略与通关思路
 
-*   **Move:** Use the **Left and Right Arrow Keys** or on-screen buttons to move Uncle Ahmed.
-*   **Jump:** Press the **Up Arrow Key** or the dedicated jump button.
-*   **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
+1.  **熟练掌握跳跃：**
+    跳跃是游戏中最核心的动作。通过跳到敌人头上可以将其消灭，
+    也可以借助高跳越过深坑和尖刺。多尝试不同的起跳时机与长按时间，
+    找到最顺手的节奏。
+2.  **别放过任何金币与道具：**
+    路上的金币不仅代表你的成绩，有些版本中还能用来兑换额外生命或道具。
+    砖块中的道具更是关键——它们可能提升攻击方式、移动速度或生命力，
+    能让后续关卡轻松许多。
+3.  **熟悉强化道具效果：**
+    某些道具可以让 Ahmed 投掷西瓜等投射物，从远处清理敌人；
+    辣椒之类的道具则可能让你短时间提速或获得特殊能力。
+    建议在相对安全的区域试试它们的手感，再带去困难地形。
+4.  **留心隐藏道路与秘密区域：**
+    不要只顾着往右跑，有些可疑的墙面、平台或高处砖块里，
+    隐藏着额外生命、稀有道具或大量金币。多观察场景，勇于尝试，看似多余的跳跃往往有惊喜。
 
-### Frequently Asked Questions (FAQ)
+### 操作指南
 
-*   **Q: How do I defeat the enemies?**
-     *   **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
+*   **移动：** 使用 **方向键左右** 或屏幕上的虚拟按钮控制 Ahmed 左右移动。
+*   **跳跃：** 按 **方向键上** 或专门的跳跃按钮进行跳跃，长按可微调跳跃高度（视版本而定）。
+*   **远程攻击：** 获得投射类强化道具后，界面上通常会出现额外的攻击按钮，
+    点击即可向前方投掷道具攻击敌人。
 
-*   **Q: What happens if I lose all my lives?**
-     *   **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
+### 常见问题（FAQ）
 
-*   **Q: How do I beat the final boss?**
-     *   **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
+*   **问：如何击败普通敌人？**
+    *   **答：** 最常见的方式是从上方跳到敌人头上将其踩扁。
+        如果你拥有投射类道具，也可以保持距离，用远程攻击安全解决敌人。
 
+*   **问：掉下去或者被击中会怎样？**
+    *   **答：** 通常会损失一条生命或从最近的检查点重新开始。
+        生命耗尽后，需要从关卡起点重新挑战，因此在危险地形要更谨慎。
+
+*   **问：最终 BOSS 应该怎么打？**
+    *   **答：** BOSS 往往有固定的攻击模式与循环节奏。
+        先观察几轮，记住它的攻击方式和空档时间，
+        在安全间隙内利用跳跃或远程攻击反击，多打几次就能击败巫师，
+        完成营救侄子的最终目标。

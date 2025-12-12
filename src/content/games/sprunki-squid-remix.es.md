@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: sprunki-squid-remix
-title: '[ES] Sprunki Squid Remix - Play Sprunki Squid Remix Online'
+title: 'Sprunki Squid Remix - Juega a Sprunki Squid Remix online'
 description: >-
-  [ES] prunki Squid offers a truly unique and thrilling experience. It combines
-  the iconic themes and visuals of Squid Game with the creative freedom of
-  Sprunki, resulting in unprecedented crossover gameplay.
+  Sprunki Squid ofrece una experiencia única y muy intensa: combina los temas e
+  imágenes icónicas de El juego del calamar con la libertad creativa de Sprunki
+  para crear una jugabilidad crossover que no se parece a nada.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
 thumbnail: /sprunki-squid-remix.png
 tags:
@@ -14,29 +14,53 @@ score: 4.1/5  (92 votes)
 ---
 
 
+¿Listo para un desafío musical que acelere el corazón y ponga las manos a sudar?
+Sprunki Squid está aquí. No es un simple juego de creación musical: es un
+crossover eléctrico que mezcla la magia sonora de Sprunki con la tensión extrema
+de la serie fenómeno *Squid Game*.
 
-Hey, rhythm masters! Ready for a music challenge that gets your heart pounding and palms sweating? Sprunki Squid is here! This isn't your average music creation game; it's an electrifying crossover mod that perfectly blends Sprunki's musical magic with the intense suspense of the phenomenal series, Squid Game!
+### ¿Qué es Sprunki Squid?
 
-### What the Heck is Sprunki Squid?
+Imagina a los personajes de Sprunki, ahora vestidos con los uniformes y máscaras
+icónicos de El juego del calamar, sobre el puente de cristal, en los dormitorios
+o en el patio de «Luz roja, luz verde»… Eso es Sprunki Squid. Conserva la
+jugabilidad clásica de arrastrar y soltar de Sprunki, pero cambia por completo
+la atmósfera: tendrás que usar beats tensos, crescendos dramáticos y melodías
+escalofriantes para componer tu propia «canción de supervivencia».
 
-Imagine your familiar Sprunki characters, now decked out in iconic Squid Game outfits, wearing mysterious masks, and appearing on the glass bridge, in the dorms, or even on the "Red Light, Green Light" playground... Sprunki Squid is exactly that mind-blowing creation! It keeps Sprunki's classic drag-and-drop music creation gameplay but completely flips the atmosphere. You'll need to use suspenseful beats, dramatic build-ups, and chilling melodies to compose your "song of survival."
+### En Sprunki Squid, sobrevivir es ganar
 
-### In Sprunki Squid, Survival is Victory!
+- **Personajes tematizados:** el elenco de Sprunki se reinventa con trajes y
+  máscaras al estilo Squid Game, además de animaciones ligeramente siniestras.
+  Elegir bien tus personajes es clave.
+- **Paisajes sonoros de infarto:** olvida las vibras relajadas de beatbox; aquí
+  la música está llena de tensión, silencios incómodos y motivos que ponen los
+  pelos de punta, capturando la presión extrema de los juegos.
+- **Escenarios icónicos:** compones dentro de entornos reconocibles como el
+  puente de cristal, los dormitorios opresivos o el patio de «Luz roja, luz
+  verde». El apartado visual multiplica la inmersión.
+- **Reto rítmico de supervivencia:** igual que en la serie, la sincronización lo es
+  todo. Tus golpes deben encajar con el ritmo para «sobrevivir» a cada ronda y
+  seguir avanzando; se pone a prueba tu oído y tus nervios.
 
-- **Squid Game-Themed Characters:** Get ready for a revamped Sprunki lineup! They've got Squid Game-style outfits, masks, and even slightly eerie animations. Choosing your characters wisely is crucial in Sprunki Squid!
-- **Breath-Taking Soundscapes:** Forget the chill B-Box vibes! The music in Sprunki Squid is packed with tense beats, dramatic tension, and melodies that send shivers down your spine, perfectly capturing the high-stakes, high-pressure atmosphere of Squid Game. It'll keep you on the edge of your seat the whole time.
-- **Iconic Game Environments:** Create music within those nerve-wracking Squid Game settings, like the transparent glass bridge, the oppressive dorms, and that classic "Red Light, Green Light" playground. The visuals in Sprunki Squid massively enhance the immersion.
-- **Survival-Based Rhythm Challenge:** Just like in Squid Game, timing is everything! In Sprunki Squid, you need to ensure your beats align perfectly with the rhythm to "survive" each round and keep going. It tests not only your sense of rhythm but also your nerve!
+### ¿Por qué es tan intenso Sprunki Squid?
 
+Sprunki Squid ofrece una experiencia realmente distinta. Une el imaginario de El
+juego del calamar con la libertad creativa de Sprunki, y el resultado es un
+crossover jugable que se siente familiar pero nuevo a la vez. Incluso si no has
+visto la serie, puedes entrar sin problema y disfrutar de este desafío
+musical cargado de tensión. Y lo mejor: es completamente gratuito.
 
-### Why is Sprunki Squid So Intense?
+### ¿Listo para compartir tu himno de supervivencia?
 
-Sprunki Squid offers a truly unique and thrilling experience. It combines the iconic themes and visuals of Squid Game with the creative freedom of Sprunki, resulting in unprecedented crossover gameplay. Even if you haven't watched Squid Game, you can easily jump in and enjoy this tense yet fun rhythm challenge. Best of all, Sprunki Squid is completely free to play!
+Cuando tengas una pista que te ponga nervioso incluso a ti, compártela con la
+comunidad de Sprunki Squid. Deja que todo el mundo vea hasta dónde llega tu
+instinto de supervivencia rítmica.
 
-### Ready to Share Your Survival Anthem?
+### Cierre
 
-Once you've crafted music that makes even *you* feel the tension, don't forget to share it with the Sprunki Squid community! Show everyone how strong your rhythm survival skills are!
-
-### Wrapping Up:
-
-Sprunki Squid is a brutal game of music and survival. It uniquely merges two vastly different cultural phenomena, bringing an experience that feels both familiar and refreshingly new. If you crave excitement and love a challenge, Sprunki Squid is an absolute must-try. Take a deep breath, step into the world of Sprunki Squid, and use your sense of rhythm to survive this musical life-or-death match! Good luck!
+Sprunki Squid es un juego «brutal» de música y supervivencia. Fusiona dos
+fenómenos culturales muy distintos para crear una experiencia a la vez conocida
+y totalmente nueva. Si te gusta la emoción fuerte y los desafíos, es un título
+imprescindible. Respira hondo, entra en el mundo de Sprunki Squid y usa tu
+sentido del ritmo para superar esta partida musical a vida o muerte.

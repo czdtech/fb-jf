@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: snake-game
-title: '[DE] Snake Game'
+title: "Snake Game"
 description: >-
-  [DE] Snake Game is the classic arcade game where players control a growing
-  snake to eat food items while avoiding collisions with walls and the snake's
-  own body, aiming to achieve the highest possible score.
+  Snake Game ist der klassische Arcade-Snake: Steuere eine ständig wachsende
+  Schlange, friss Futter, um länger zu werden, und vermeide Kollisionen mit
+  Wänden oder deinem eigenen Körper, um den Highscore zu knacken.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/snake-game.jpg
 tags:
@@ -17,35 +17,45 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spieleinführung
 
+"Snake Game" ist die zeitlose Arcade-Variante von Snake. Du steuerst eine
+ Schlange, die mit jedem gefressenen Futter länger wird. Die Herausforderung
+ besteht darin, immer weiter zu wachsen, ohne dabei gegen die Spielfeldränder
+ oder den eigenen, immer länger werdenden Körper zu prallen.
 
+### Spieltipps & Strategien
 
-### Game Introduction
+1.  **Wege planen:** Überlege dir im Voraus, wohin du als Nächstes steuerst,
+    damit du dich nicht selbst in eine Sackgasse manövrierst.
+2.  **Spielfeld ausnutzen:** Versuche, alle Bereiche des Feldes zu nutzen und
+    nicht zu früh große, ungenutzte Flächen abzuschneiden.
+3.  **Tempo anpassen:** Wenn die Schlange schneller wird, passe deinen
+    Bewegungsrhythmus an und vermeide hektische Richtungswechsel.
+4.  **Kanten im Blick:** Behalte die Grenzen des Spielfelds im Auge – gerade in
+    engen Situationen sind Wände eine häufige Todesfalle.
+5.  **Körper im Griff:** Je länger die Schlange, desto wahrscheinlicher ist ein
+    Crash mit dir selbst. Halte den Körper möglichst geordnet und vermeide
+    chaotische Schleifen.
 
-"Snake Game" is the classic arcade game where players control a growing snake to eat food items while avoiding collisions with walls and the snake's own body, aiming to achieve the highest possible score. This game has become one of the most classic works in gaming history due to its simple yet addictive gameplay.
+### Steuerung
 
-### Gameplay Strategy
+*   **Nach oben:** Pfeil nach oben oder **W**.
+*   **Nach unten:** Pfeil nach unten oder **S**.
+*   **Nach links:** Pfeil nach links oder **A**.
+*   **Nach rechts:** Pfeil nach rechts oder **D**.
 
-1.  **[DE]** **Path Planning**: Plan the snake's movement path in advance to avoid trapping yourself in dead ends.
-2.  **[DE]** **Space Utilization**: Make full use of every corner of the game area, avoiding wasted space.
-3.  **[DE]** **Rhythm Control**: Adjust movement rhythm as the snake grows, avoiding overly hasty operations.
-4.  **[DE]** **Boundary Awareness**: Always be aware of game boundaries to avoid accidental wall collisions.
-5.  **[DE]** **Body Management**: As the snake body gets longer, manage the snake's body position more carefully.
+### Häufige Fragen (FAQ)
 
-### How to Play
-
-*   **[DE]** **Move Up**: Press up arrow key or W key to move up.
-*   **[DE]** **Move Down**: Press down arrow key or S key to move down.
-*   **[DE]** **Move Left**: Press left arrow key or A key to move left.
-*   **[DE]** **Move Right**: Press right arrow key or D key to move right.
-
-### Frequently Asked Questions
-
-1.  **[DE]** **Q: Does the snake's movement speed change?**
-**A**: In some versions, as the score increases, the snake's movement speed may gradually increase to add challenge difficulty.
-2.  **[DE]** **Q: How do I get higher scores?**
-**A**: Eat more food to make the snake longer while avoiding death. Each food item typically gives a fixed score.
-3.  **[DE]** **Q: Are there ending conditions for the game?**
-**A**: The game ends when the snake hits walls or its own body; theoretically it can continue indefinitely.
-4.  **[DE]** **Q: Are there different game modes?**
-**A**: Classic versions usually have only one mode, but modern versions may include different challenges and variations.
+1.  **F: Wird die Schlange schneller?**
+    **A:** In vielen Versionen steigt die Geschwindigkeit mit der Zeit oder mit
+    deinem Score, um die Herausforderung zu erhöhen.
+2.  **F: Wie bekomme ich einen hohen Score?**
+    **A:** Friss möglichst viel Futter, ohne zu sterben – jeder Bissen bringt
+    Punkte. Defensive, geordnete Bewegung zahlt sich langfristig aus.
+3.  **F: Wann ist das Spiel zu Ende?**
+    **A:** Wenn du gegen eine Wand oder deinen eigenen Körper prallst. Theoretisch
+    kannst du sonst unendlich weiterspielen.
+4.  **F: Gibt es verschiedene Modi?**
+    **A:** Klassiker haben meist nur einen Modus, moderne Varianten bieten
+    zusätzliche Herausforderungen, kleinere Spielfelder oder Spezialregeln.

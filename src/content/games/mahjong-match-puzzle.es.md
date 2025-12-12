@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: mahjong-match-puzzle
-title: '[ES] Mahjong Match Puzzle'
+title: "Mahjong Match Puzzle - Capas y emparejamientos eficientes"
 description: >-
-  [ES] Mahjong Match Puzzle blends solitaire and connect rules — match open
-  tiles, manage layers, and clear boards efficiently.
+  Mahjong Match Puzzle mezcla reglas de solitario y de conexión: empareja
+  fichas libres, gestiona las capas y limpia el tablero de forma eficiente.
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
 thumbnail: /new-images/mahjong-match-puzzle.png
 tags:
@@ -16,34 +16,42 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+### Introducción detallada al juego
 
-### Detailed Game Introduction
+Mahjong Match Puzzle utiliza pilas en capas donde solo se pueden emparejar las
+fichas libres (sin nada encima y con al menos un lateral disponible). Algunos
+niveles añaden caminos de conexión o fichas especiales. La clave está en liberar
+las "tapas" superiores, conservar opciones y evitar emparejar demasiado pronto
+parejas que sellan las fichas más profundas.
 
-Mahjong Match Puzzle uses layered stacks where only open tiles (no cover, at least one free side) can be matched. Some boards introduce connect‑style paths or special tiles. Efficiency comes from freeing caps, preserving options, and avoiding early removal that seals deeper pairs.
+### Estrategia y recorrido de juego
 
-### Gameplay Strategy & Walkthrough
+1.  Quitar las tapas: libera y elimina primero las fichas de la parte superior
+    para descubrir rápidamente grandes zonas del tablero.
+2.  Prioriza las fichas raras: limpia antes los símbolos poco frecuentes para
+    evitar bloqueos al final de la partida.
+3.  Acceso lateral: intenta mantener abiertos los laterales y no sellar tiras
+    largas de fichas.
+4.  Reservar pistas: guarda las pistas y barajados para cuando dejen de abrirse
+    huecos nuevos.
+5.  Ritmo: no tengas prisa; las decisiones meditadas valen más que la velocidad
+    pura.
 
-1.  **[ES]** Cap removal: Free and remove top caps to expose large areas quickly.
-2.  **[ES]** Rarity first: Clear rare symbols early to prevent late deadlocks.
-3.  **[ES]** Side access: Keep side lanes open; avoid sealing long strips.
-4.  **[ES]** Hint reserve: Save hints/shuffles for when new openings stop appearing.
-5.  **[ES]** Pace: Don’t rush — deliberate picks trump speed.
+### Guía de controles
 
-### Controls Guide
+- Selecciona dos fichas libres iguales para retirarlas; usa las opciones de
+  pista o barajado según lo permita la interfaz.
 
-- Select two matching open tiles to remove; use hints/shuffles per UI.
+### Preguntas frecuentes (FAQ)
 
-### Frequently Asked Questions (FAQ)
+- P: No me quedan movimientos, ¿qué hago?  
+  R: Si el modo lo permite, usa el barajado; si no, reinicia el nivel con un
+  plan que priorice las fichas superiores.
 
-- Q: No moves available?
+- P: ¿Las fichas de estaciones y flores se pueden mezclar entre sí?  
+  R: En muchos conjuntos se pueden emparejar fichas dentro del grupo de
+  estaciones o dentro del grupo de flores aunque el dibujo no sea idéntico.
 
-A: Shuffle if allowed or restart with a different cap‑first plan.
-
-- Q: Do seasons/flowers match cross‑suit?
-
-A: Many sets allow cross‑matching within seasonal/flower groups.
-
-- Q: Timed?
-
-A: Some boards are timed; prioritize caps and rare symbols.
-
+- P: ¿Hay niveles cronometrados?  
+  R: Algunos tableros tienen límite de tiempo; en ellos, prioriza las tapas y
+  los símbolos raros.

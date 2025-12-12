@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: bloxorz
-title: '[ES] Bloxorz Magic'
+title: "Bloxorz Magic"
 description: >-
-  [ES] Guide your rectangular block through challenging 3D puzzles in Bloxorz.
-  Navigate fragile tiles, operate switches, split your block in two, and
-  carefully roll to the exit hole in this classic brain-teasing game.
+  Guía tu bloque rectangular a través de desafiantes puzles 3D en Bloxorz. Cruza
+  baldosas frágiles, acciona interruptores, divide el bloque en dos y hazlo
+  rodar con precisión hasta el agujero de salida en este clásico juego de
+  puzles.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/bloxorz.jpg
 tags:
@@ -16,57 +17,83 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Introducción al juego
 
+Bloxorz es un exigente juego de puzles 3D en el que el objetivo es mover un
+bloque rectangular de 1x2x1 a través de una serie de plataformas flotantes hasta
+hacerlo caer en un agujero cuadrado al final de cada fase. El reto está en
+hacer que el bloque ruede por el escenario sin que se salga por los bordes.
 
+El juego cuenta con 33 niveles, cada vez más difíciles e introduciendo nuevas
+mecánicas y obstáculos. Para completar una fase, el bloque debe estar de pie
+(ocupando un solo cuadrado de 1x1) justo encima del agujero de destino para
+poder encajar perfectamente.
 
+Los puzles se enriquecen con la aparición de baldosas especiales e
+interruptores:
+-   **Baldosas frágiles (naranjas):** Se rompen si el bloque se coloca de pie
+    sobre ellas, ya que todo el peso recae en un solo cuadro. Para cruzarlas con
+    seguridad, el bloque debe ir tumbado y repartir su peso entre dos casillas.
+-   **Interruptores:** Hay tres tipos, que controlan puentes y plataformas.
+    -   **Interruptores blandos (`()`):** Se activan cuando cualquier parte del
+        bloque los toca.
+    -   **Interruptores duros (`X`):** Solo se activan si el bloque está de pie
+        encima, aplicando todo su peso.
+    -   **Interruptores de división (`<>`):** Si el bloque se tumba sobre ellos,
+        se divide en dos cubos independientes de 1x1.
 
-### Game Introduction
+### Estrategia de juego
 
-Bloxorz is a challenging 3D puzzle game where the objective is to maneuver a 1x2x1 rectangular block through a series of floating platforms and into a square hole at the end of the stage. The challenge lies in navigating the block by rolling it, ensuring it doesn't fall off the edges of the platforms.
+-   **Piensa y planifica con anticipación:** Bloxorz es un juego de visión a
+    varios movimientos. Antes de actuar, visualiza los siguientes giros del
+    bloque. Cuenta las casillas para ver dónde acabará y en qué orientación (de
+    pie o tumbado). Si juegas con prisas, lo normal es que termines cayendo.
+-   **Domina las baldosas frágiles:** La regla es simple pero vital: **nunca te
+    quedes de pie sobre una baldosa naranja**. Asegúrate de que el bloque esté
+    tumbado cuando cualquier parte repose sobre una de ellas.
+-   **Entiende bien los interruptores:**
+    -   En los `()` basta con pasar por encima para activarlos.
+    -   En los `X` tendrás que planificar tus movimientos para terminar de pie
+        exactamente sobre el interruptor.
+-   **Estrategia con el bloque dividido:** Cuando el bloque se divide en dos
+    cubos, se mueven en paralelo. Pulsa la barra espaciadora para alternar cuál
+    de los dos controlas.
+    -   Usa uno como ancla o tope para manipular la posición del otro.
+    -   Para recomponer el bloque original, coloca los dos cubos en casillas
+        adyacentes y mueve uno hacia el otro; se fusionarán automáticamente.
+-   **Aprovecha los bordes:** En niveles avanzados, a veces tendrás que usar el
+    borde de una plataforma como punto de apoyo para colocar el bloque de pie en
+    posiciones que de otro modo serían imposibles.
+-   **Apunta los códigos de nivel:** Cada fase tiene un código propio. Anótalos
+    para poder volver a un nivel concreto sin empezar siempre desde el principio.
 
-The game consists of 33 stages, each progressively more difficult and introducing new mechanics and obstacles. To complete a level, the block must be standing upright (occupying a single 1x1 square) to fall perfectly into the 1x1 destination hole.
+### Guía de controles
 
-The puzzle elements evolve through the introduction of special tiles and switches:
--   **Fragile Tiles (Orange):** These tiles will collapse if the block stands upright on them, as its entire weight is concentrated on a single square. The block must lie flat (distributing its weight over two squares) to safely cross them.
--   **Switches:** There are three types of switches that control bridges and platforms.
-    -   **Soft Switches (`()`):** Activated when any part of the block touches them.
-    -   **Hard Switches (`X`):** Can only be activated when the block is standing upright on them, applying its full weight.
-    -   **Splitting Switches (`<>`):** When the block lies flat across this switch, it splits into two smaller, independent 1x1 cubes.
+El control se basa en las teclas de dirección del teclado.
 
-### Gameplay Strategy
+-   **Flecha arriba:** Hace rodar el bloque hacia delante.
+-   **Flecha abajo:** Hace rodar el bloque hacia atrás.
+-   **Flecha izquierda:** Rueda el bloque hacia la izquierda.
+-   **Flecha derecha:** Rueda el bloque hacia la derecha.
+-   **Barra espaciadora:** Cambia el control entre los dos cubos cuando el bloque
+    está dividido.
 
--   **Think and Plan Ahead:** Bloxorz is a game of foresight. Before making a move, visualize the next few rolls. Count the squares to see where your block will land and in what orientation (standing or lying flat). Rushing will almost always lead to falling off.
--   **Master the Fragile Tiles:** The rule is simple but crucial: **Never stand on an orange tile.** Always ensure your block is lying flat when any part of it is resting on a fragile tile.
--   **Understand the Switches:**
-    -   For `()` switches, you can simply roll over them.
-    -   For `X` switches, you need to plan your moves to land your block in a standing position precisely on the switch.
--   **Splitting Strategy:** When your block is split into two cubes, they move in parallel. You can press the Spacebar to toggle control between them.
-    -   Use one cube as an anchor or a block to manipulate the position of the other.
-    -   To merge the two cubes back into a single block, they must be positioned right next to each other (adjacent squares). Move one into the other to reform the block.
--   **Use Edges to Your Advantage:** Sometimes, you'll need to use the edge of a platform as a pivot point to get your block into a standing position where you otherwise couldn't. This is an advanced technique required for later levels.
--   **Write Down Level Codes:** The game provides a unique code for each level. Write these down so you don't have to start from the beginning every time you play.
+### Preguntas frecuentes (FAQ)
 
-### Controls Guide
+**1. ¿Por qué me caigo a través del suelo naranja?**
+> Porque el bloque está de pie sobre una baldosa naranja. Esas baldosas son
+> frágiles y solo aguantan el bloque cuando está tumbado, repartiendo su peso en
+> dos casillas.
 
-The controls are simple and based on the keyboard's arrow keys.
+**2. El interruptor 'X' no funciona. ¿Qué estoy haciendo mal?**
+> El interruptor 'X' es un conmutador "duro". Necesita el peso concentrado del
+> bloque en vertical para activarse. Debes colocarte de pie encima; si pasas
+> tumbado, no se activará.
 
--   **Up Arrow Key:** Roll the block forward.
--   **Down Arrow Key:** Roll the block backward.
--   **Left Arrow Key:** Roll the block to the left.
--   **Right Arrow Key:** Roll the block to the right.
--   **Spacebar:** Switch control between the two smaller cubes after splitting.
+**3. ¿Cómo vuelvo a juntar los dos bloques pequeños?**
+> Coloca ambos cubos en casillas adyacentes (una junto a la otra). Luego mueve
+> uno hacia el otro y se fusionarán de nuevo en el bloque original.
 
-### Frequently Asked Questions (FAQ)
-
-**1. Why did I fall through the orange floor?**
-> You fell because your block was standing upright on the orange tile. These tiles are fragile and can only support the block when it's lying flat, distributing its weight across two squares.
-
-**2. The 'X' switch is not working. What am I doing wrong?**
-> The 'X' switch is a "hard" or "heavy" switch. It requires the full, concentrated weight of the block to activate. You must position the block so it is standing vertically on top of the 'X' tile. Lying flat on it will not work.
-
-**3. How do I get my two small blocks back together?**
-> To merge the two cubes back into the original block, you must move them so they are on adjacent squares (side-by-side). Then, select one cube and move it into the other. They will automatically combine.
-
-**4. How can I return to a level I've already reached?**
-> After completing each level, the game provides a 6-digit passcode. You can enter this code on the main menu screen to start directly from that level.
-
+**4. ¿Cómo regreso a un nivel que ya superé?**
+> Al completar cada nivel, el juego muestra un código de 6 caracteres. Puedes
+> introducirlo en el menú principal para empezar directamente desde esa fase.

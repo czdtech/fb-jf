@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: baldis-basics
-title: '[DE] Baldi''s Basics'
+title: "Baldi's Basics"
 description: >-
-  [DE] A detailed guide to Baldi's Basics, the parody survival horror game.
-  Learn how to collect notebooks, use items strategically, avoid Baldi and other
-  characters, and escape the schoolhouse.
+  Ein ausführlicher Guide zu Baldi's Basics, der absurden Schul‑Horror‑Parodie.
+  Erfahre, wie du Notizbücher sammelst, Items sinnvoll einsetzt, Baldi und
+  andere Figuren ausmanövrierst und aus der Schule entkommst.
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/baldis-basics.jpg
 tags:
@@ -16,66 +16,92 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Spielübersicht
 
+*Baldi's Basics in Education and Learning* wirkt wie ein billiges
+Lernspiel aus den 90ern, entpuppt sich aber schnell als surreales
+Survival‑Horror‑Spiel. Du spielst einen Schüler in Baldis Schulhaus und sollst
+sieben Notizbücher in den Klassenräumen finden, um einem Freund zu helfen.
 
+Zunächst löst du harmlose Matheaufgaben, doch beim zweiten Notizbuch taucht
+plötzlich eine unlösbare, komplett verstörte Gleichung auf. Die falsche Antwort
+ist unvermeidbar – und Baldi wird wütend. Bewaffnet mit einem Lineal jagt er
+fortan durch die Gänge. Ab diesem Moment geht es nicht mehr um Bildung,
+sondern ums Überleben: Sammle die restlichen Notizbücher, weiche Baldi und
+einem ganzen Ensemble seltsamer Figuren aus und finde schließlich den Weg aus
+der Schule.
 
+### Strategie
 
-### Detailed Introduction
+Um in *Baldi's Basics* zu bestehen, brauchst du gutes Gehör, kluges
+Ressourcen‑Management und ein Verständnis für jede Figur.
 
-*Baldi's Basics in Education and Learning* is a surreal survival horror game that masquerades as a low-budget 90s educational game. The player takes on the role of a student at Baldi's schoolhouse, with the initial objective of finding seven notebooks scattered throughout the classrooms to help a friend.
+1.  **Sound ist dein wichtigstes Werkzeug:** Baldi orientiert sich stark an
+    Geräuschen – insbesondere Türen. Gleichzeitig verrät dir das Klatschen
+    seines Lineals, wie nah er ist: Je schneller und lauter, desto näher.
+2.  **Ausdauer dosiert einsetzen:** Du hast nur eine begrenzte Sprint‑Leiste.
+    Heb dir deine Ausdauer für brenzlige Situationen auf, in denen Baldi direkt
+    hinter dir ist oder du eine lange, offene Strecke überqueren musst.
+3.  **Figuren und Konter kennen:**  
+    - **Baldi:** Wird mit jedem gesammelten Notizbuch schneller. Halte immer
+      Abstand und nutze Geräusche, um ihn in andere Bereiche zu locken.
+    - **Playtime:** Das Springseil‑Mädchen zwingt dich zum Mitspielen und hält
+      dich fest. Mit **Safety Scissors** kannst du das Seil zerschneiden und
+      entkommen.
+    - **Principal of the Thing:** Der Direktor verwarnt dich bei Regelverstößen
+      (Rennen, Lehrerzimmer betreten, BSoda benutzen) und schickt dich in die
+      Arrestzelle. Laufe nur, wenn er außer Sichtweite ist.
+    - **It's a Bully:** Blockiert Flure und verlangt ein Item. Entweder du
+      gibst ihm etwas oder findest einen anderen Weg.
+    - **Gotta Sweep:** Ein riesiger Besen, der gelegentlich durch die Gänge
+      fegt und alles mitreißt – inklusive Baldi. Je nach Situation kann er dich
+      retten oder direkt ins Verderben schieben.
+    - **1st Prize:** Ein Roboter, der dich umarmt und durch die Flure schiebt.
+      Oft nervig, manchmal aber auch nützlich, um Abstand zu Baldi zu gewinnen.
+4.  **Item‑Management:**  
+    - **BSoda:** Schießt eine Colawelle, die Figuren wegstößt – perfekt, um
+      Baldi von dir zu trennen oder den Bully zu verdrängen.
+    - **Energy Flavored Zesty Bar:** Füllt deine Ausdauer komplett wieder auf.
+    - **Safety Scissors:** Konter gegen Playtime und 1st Prize – sehr wertvoll.
+    - **Quarter:** Kann in Automaten für BSoda oder am Telefon benutzt werden,
+      um Baldi abzulenken.
+5.  **Finale Flucht:** Nach sieben Notizbüchern färbt sich die Schule rot,
+    Sirenen ertönen und Baldi wird maximal schnell. Du musst drei falsche
+    Ausgänge berühren, bevor sich der vierte, echte Ausgang öffnet. Hier zählen
+    gutes Kartenwissen, Items und ein wenig Glück.
 
-The game starts innocently enough. The first notebook contains simple arithmetic problems. However, the game's true nature is revealed upon finding the second notebook, where the third question is a jumbled, unsolvable mess of numbers. Answering this question incorrectly—which is unavoidable—enrages the titular character, Baldi. Armed with a ruler, Baldi begins to hunt the player through the halls of the school. From this point on, the game becomes a tense cat-and-mouse chase. The primary goal shifts from education to survival: collect the remaining five notebooks while evading Baldi and a cast of other bizarre characters, each with their own unique way of impeding your progress, and ultimately find a way to escape the school.
+### Steuerung
 
-### Gameplay Strategy
+Die Steuerung entspricht klassischen Ego‑Spielen auf dem PC.
 
-Success in *Baldi's Basics* relies on sound awareness, resource management, and understanding the behavior of each character.
+- **`W`, `A`, `S`, `D`:** Bewegen
+- **Maus:** Umschauen
+- **`Left‑Shift`:** Sprint (verbraucht Ausdauer)
+- **Linke Maustaste:** Türen öffnen, Items aufheben
+- **Rechte Maustaste:** Aktuelles Item benutzen
+- **Mausrad:** Zwischen Items wechseln
+- **`Leertaste`:** Nach hinten schauen (je nach Version)
 
-1.  **[DE]** **Sound is Your Most Important Tool:** Baldi's primary method of locating you is sound. He is drawn to the sound of opening and closing doors. More importantly, you can track his proximity by listening to the sound of his ruler slapping against his hand. The louder and more frequent the slap, the closer he is. Use this to your advantage to know when to hide or run.
-2.  **[DE]** **Stamina Management is Key:** You have a limited stamina bar for running (activated with the Shift key). Do not waste it. Only run when Baldi is very close or when you need to quickly cross an open area. The Principal will also put you in detention for running in the halls, so be mindful of his location.
-3.  **[DE]** **Learn the Characters and How to Counter Them:**
-    *   **[DE]** **Baldi:** He gets faster with every notebook you collect. Keep your distance and use sound to misdirect him if possible.
-    *   **[DE]** **Playtime:** A little girl with a jump rope who will force you to play with her, stopping you in your tracks. The only way to escape quickly is by using the **Safety Scissors** to cut her rope. Always try to have scissors on hand.
-    *   **[DE]** **Principal of the Thing:** He roams the halls and will send you to detention (a 15-30 second timeout) for breaking school rules (running, entering faculty rooms, using BSoda in the halls). Avoid him when you need to run.
-    *   **[DE]** **It's a Bully:** Blocks hallways and demands an item. You must give him something from your inventory to pass. It's often best to find an alternate route.
-    *   **[DE]** **Gotta Sweep:** A giant broom that periodically sweeps through the halls, pushing all characters (including you and Baldi) in its path. It can be a lifesaver or a death sentence depending on the situation.
-    *   **[DE]** **1st Prize:** A slow-moving robot that will hug you and push you down a hallway. He can be annoying, but sometimes he can push you away from Baldi. You can use the scissors on his wiring to disable him temporarily.
-4.  **[DE]** **Item Strategy:**
-    *   **[DE]** **BSoda:** A can of soda that can be used to push characters away. Excellent for creating distance from Baldi or getting past the Bully without losing a more valuable item.
-    *   **[DE]** **Energy Flavored Zesty Bar:** Fully restores your stamina. Invaluable for making a long run.
-    *   **[DE]** **Safety Scissors:** Your counter to Playtime and 1st Prize. A top-priority item.
-    *   **[DE]** **Quarter:** Can be used in vending machines to get a BSoda or on the payphone in the Principal's office to briefly distract Baldi.
-5.  **[DE]** **The Final Escape:** After collecting all seven notebooks, the school will turn red, an alarm will blare, and Baldi will move at his maximum speed. You must find three exits, which will initially be blocked. After touching all three fake exits, the fourth and final exit will open, allowing you to escape. This final phase is a pure test of speed, item usage, and luck.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+**F: Wie löse ich die „unmögliche“ Matheaufgabe?**  
+**A:** Gar nicht. Diese Aufgabe ist absichtlich unlösbar und löst Baldis Aggression aus – genau so will es das Spiel.
 
-Controls are standard for first-person PC games.
+**F: Warum wird Baldi immer schneller?**  
+**A:** Seine Geschwindigkeit steigt mit jedem eingesammelten Notizbuch. Das ist die wichtigste Schwierigkeitsschraube und zwingt dich, später noch präziser zu spielen.
 
-*   **[DE]** **`W`, `A`, `S`, `D` Keys**: Move forward, left, backward, and right.
-*   **[DE]** **Mouse**: Look around.
-*   **[DE]** **`Left-Shift` Key**: Hold to run (consumes stamina).
-*   **[DE]** **`Left Mouse Button`**: Open doors and pick up items.
-*   **[DE]** **`Right Mouse Button`**: Use the currently selected item.
-*   **[DE]** **Mouse Scroll Wheel**: Cycle through your inventory items.
-*   **[DE]** **`Spacebar`**: Look behind you (in newer versions/updates).
+**F: Welche Regeln überwacht der Direktor?**  
+**A:** Vor allem:
 
-### Frequently Asked Questions (FAQ)
+*   Nicht in den Fluren rennen
+*   Keine Lehrerzimmer betreten
+*   Keine BSoda im Flur benutzen
+*   Keine Mitschüler schikanieren (Bullying)
 
-**1. How do I solve the impossible math problem?**
-You can't. The garbled, impossible problem in the second (and subsequent) notebooks is a core game mechanic designed to be unsolvable. Answering it incorrectly is what triggers Baldi's chase.
+Bei Verstößen landet man im Arrest.
 
-**2. Why does Baldi get faster?**
-Baldi's speed increases with every notebook you successfully collect. This is the game's primary difficulty curve, forcing you to be more strategic as you progress.
+**F: Wie komme ich aus dem Arrest frei?**  
+**A:** Normalerweise musst du abwarten. Hast du jedoch die „Principal's Keys“, kannst du die Tür sofort aufsperren und entkommen.
 
-**3. What are the school rules that the Principal enforces?**
-The main rules are:
-*   **[DE]** No Running (he will catch you if he sees you).
-*   **[DE]** No Entering Faculty Rooms.
-*   **[DE]** No Drinking (using BSoda in front of him).
-*   **[DE]** No Bullying (this applies to the Bully character).
-
-**4. How do I get out of detention?**
-You have to wait for the timer to count down. The duration can vary. If you have the "Principal's Keys," you can use them on the door to escape instantly.
-
-**5. I collected all 7 notebooks. How do I win?**
-After getting all seven notebooks, you must find and touch three "fake" exits throughout the school. Once you've done that, a fourth, real exit will open up. You must reach that final exit to win the game.
-
+**F: Ich habe alle sieben Notizbücher – wie gewinne ich?**  
+**A:** Nachdem du das siebte Notizbuch hast, erscheinen drei falsche Ausgänge. Berühre sie alle, damit sich der vierte, echte Exit öffnet, und erreiche ihn, bevor Baldi dich erwischt.

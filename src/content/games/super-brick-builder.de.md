@@ -1,10 +1,8 @@
 ---
 locale: de
 urlstr: super-brick-builder
-title: '[DE] Super Brick Builder'
-description: >-
-  [DE] Super Brick Builder is a satisfying block‑stack — lay bricks cleanly,
-  plan supports, and complete structures with minimal waste.
+title: "Super Brick Builder"
+description: "Super Brick Builder ist ein physikbewusstes Bau-Puzzle: Platziere Steine sauber, plane Tragstrukturen und vervollständige Silhouetten mit möglichst wenig Wacklern." 
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/super-brick-builder.png
 tags:
@@ -15,32 +13,27 @@ score: 4.0/5  (1873 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
+Super Brick Builder spielt sich wie ein statikorientiertes Stapel‑Puzzle: Du musst Formen fertigstellen, indem du Steine so platzierst, dass die Konstruktion nicht einstürzt. Saubere Auflageflächen und durchdachte Stützen sind wichtiger als möglichst schnelles Auffüllen.
 
+### Spielstrategie & Walkthrough
 
-### Detailed Game Introduction
+1.  **Fundament zuerst:** Baue eine möglichst symmetrische, stabile Basis, bevor du in die Höhe gehst.
+2.  **Überhänge begrenzen:** Lange Überstände ohne Gegengewicht bringen die Konstruktion schnell aus dem Gleichgewicht.
+3.  **Lücken gezielt schließen:** Nutze kleinere Steine, um kritische Zwischenräume und Druckpunkte zu stabilisieren.
+4.  **Tempo drosseln:** In höheren Lagen lieber langsam und präzise arbeiten – kleine Schubser können sonst alles kippen.
+5.  **Neu versuchen:** Wenn eine Idee nicht funktioniert, lohnt sich oft ein schneller Neustart mit leicht veränderter Basis.
 
-Super Brick Builder plays like a physics‑aware stacking puzzle: place bricks to complete silhouettes without collapse. Clean placement and support planning beat aggressive fills.
+### Steuerung
 
-### Gameplay Strategy & Walkthrough
+- Steine per Drag-and-drop bewegen und drehen, dann loslassen, um sie zu platzieren.
+- Neustart/Zurücksetzen über die UI.
 
-1.  **[DE]** Foundation first: Build symmetrical bases before rising.
-2.  **[DE]** Overhang control: Avoid long overhangs without counter‑weights.
-3.  **[DE]** Fit pieces: Use smaller bricks to plug stress gaps.
-4.  **[DE]** Pace: Slow down on top layers to avoid nudges.
-5.  **[DE]** Retry: Quick resets help iterate designs.
+### Häufige Fragen (FAQ)
 
-### Controls Guide
+- **Meine Bauwerke kippen ständig um.**  
+  Verstärke das Fundament, minimiere Überhänge und achte auf symmetrische Belastung.
 
-- Drag/rotate bricks; place to lock; restart via UI.
-
-### Frequently Asked Questions (FAQ)
-
-- Q: Structures topple.
-
-A: Strengthen bases and reduce overhangs.
-
-- Q: Run out of fitting pieces.
-
-A: Save small bricks for top‑layer adjustments.
-
+- **Mir fehlen passende Steine für die letzten Lücken.**  
+  Spare kleine Steine für die oberen Reihen und Lückenschließer auf – große Elemente zuerst im Unterbau verwenden.

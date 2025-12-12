@@ -1,82 +1,39 @@
 ---
+title: "Gym Stack"
+description: "Gym Stackでウェイトを積み重ねて障害物を打ち砕こう！ウェイトを集めて強くなる、楽しくてやりがいのあるランナーゲーム。"
+iframeSrc: "https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/"
+thumbnail: "/new-images/gym-stack.jpeg"
+urlstr: "gym-stack"
+score: "3.9/5  (1642 votes)"
+tags: ["action", "casual", "sports"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: gym-stack
-title: '[JA TRANSLATION NEEDED] Gym Stack'
-description: >-
-  [JA TRANSLATION NEEDED] Stack up weights and smash through obstacles in Gym
-  Stack! A fun and challenging runner game where you collect weights to grow
-  stronger.
-iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
-thumbnail: /new-images/gym-stack.jpeg
-tags:
-  - action
-  - casual
-  - sports
-score: 3.9/5  (1642 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+Gym Stackは、あなたの整理スキルが試される、中毒性があり満足感のある3Dパズルゲームです。ゲームボードにはいくつかのバーがあり、異なる色とサイズのウェイト（重り）が現れます。目的は、これらのウェイトを戦略的に動かして積み重ね、同じものをマージ（合体）させてより大きなウェイトを作り、スペースを空けることです。バーがいっぱいにならないように賢くマージして、できるだけ多くのポイントを獲得するのが目標です。楽しいジムのテーマで、先見の明と戦略が試されます。
 
-[JA TRANSLATION NEEDED] Gym Stack is an addictive and satisfying 3D puzzle game that challenges your organizational skills. The game board features several bars where different colored and sized weights will appear. Your objective is to strategically move and stack these weights, merging identical ones to create larger weights and clear space. The goal is to score as many points as possible by making smart merges without letting the bars get completely filled up. It's a test of foresight and strategy with a fun gym theme.
+### ゲームプレイ戦略と攻略法
 
-### Gameplay Strategy & Walkthrough
+1.  **色で合わせる:** 同じ色のウェイトのみマージできます。同じウェイトを一緒にするように動きを計画しましょう。
+2.  **垂直に考える:** マージするには、同じ色のより大きなウェイトの上に小さなウェイトを積み重ねる必要があります。小さいウェイトの上に大きなウェイトを置くことはできません。
+3.  **列（カラム）を空けておく:** 他の列へのアクセスを塞がないようにしましょう。配置が悪いと、後で重要なマージができなくなる可能性があります。スタックを整理しておきましょう。
+4.  **連鎖（カスケード）を計画する:** 時には、一度の動きがマージの連鎖反応を引き起こすことがあります。これらの機会を探して、大量のスペースを空け、高得点を狙いましょう。
+5.  **閉じ込められないように:** バーがいっぱいになり、有効な手がなくなるとゲームオーバーです。新しく現れるウェイトのために、常にスペースを空けておく方法を考えましょう。
 
-[JA TRANSLATION NEEDED] 1.  **Match by Color:** You can only merge weights that are of the same color. Plan your moves to bring identical weights together.
-[JA TRANSLATION NEEDED] 2.  **Think Vertically:** You need to stack smaller weights on top of larger ones of the same color to merge them. You cannot place a larger weight on top of a smaller one.
-[JA TRANSLATION NEEDED] 3.  **Keep Columns Open:** Try not to block access to other columns. A poorly placed weight can prevent you from making crucial merges later on. Keep your stacks organized.
-[JA TRANSLATION NEEDED] 4.  **Plan for a Cascade:** Sometimes, a single move can set off a chain reaction of merges. Look for these opportunities to clear a large amount of space and score big points.
-[JA TRANSLATION NEEDED] 5.  **Don't Get Trapped:** The game ends if the bars fill up and you have no more legal moves. Always be thinking about how to keep space available for new weights that will appear.
+### 操作ガイド
 
-### Controls Guide
+*   **選択と移動:** マウスを使ってウェイトのスタック（山）をクリックして選択します。次に、空いている場所または有効なスタックをクリックして移動させます。
 
-*   **Select and Move:** Use your mouse to click and select a weight stack. Then, click on an empty spot or a valid stack to move it.
-    - **A:** To merge weights, you must place a stack of a certain color and size onto another stack of the exact same color and size. This will create a single, larger weight.（日本語訳が必要）
-    - **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.（日本語訳が必要）
-    - **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.（日本語訳が必要）
-    - **A:** To merge weights, you must place a stack of a certain color and size onto another stack of the exact same color and size. This will create a single, larger weight.（日本語訳が必要）
-    - **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.（日本語訳が必要）
-    - **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.（日本語訳が必要）
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: どうやってウェイトをマージしますか？**
+    *   **A:** ウェイトをマージするには、特定の色とサイズのスタックを、全く同じ色とサイズの別のスタックの上に置く必要があります。これで1つの大きなウェイトになります。
 
-*   **Q: How do I merge weights?**
-[JA TRANSLATION NEEDED]     *   **A:** To merge weights, you must place a stack of a certain color and size onto another stack of the exact same color and size. This will create a single, larger weight.
+*   **Q: ゲームの目的は何ですか？**
+    *   **A:** 主な目的は、ウェイトを継続的にマージしてボードがいっぱいになるのを防ぎ、できるだけ高いスコアを達成することです。
 
-*   **Q: What is the goal of the game?**
-[JA TRANSLATION NEEDED]     *   **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.
-
-*   **Q: Is there a time limit?**
-
-
-
-
-
-
-
-
-
-
-    - **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.
-- **Q: Is there a time limit?**
-    - **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.
-- **Q: What is the goal of the game?**
-    - **A:** To merge weights, you must place a stack of a certain color and size onto another stack of the exact same color and size. This will create a single, larger weight.
-- **Q: How do I merge weights?**
-### よくある質問（FAQ）
-- **Select and Move:** Use your mouse to click and select a weight stack. Then, click on an empty spot or a valid stack to move it.
-### コントロールガイド
-- **Don't Get Trapped:** The game ends if the bars fill up and you have no more legal moves. Always be thinking about how to keep space available for new weights that will appear.
-
-
-
-
-
-    - **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.
-- **Q: Is there a time limit?**
-    - **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.
-- **Q: What is the goal of the game?**
-    - **A:** To merge weights, you must place a stack of a certain color and size onto another stack of the exact same color and size. This will create a single, larger weight.
-[JA TRANSLATION NEEDED]     *   **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.
-
+*   **Q: 制限時間はありますか？**
+    *   **A:** いいえ、Gym Stackは自分のペースで戦略的に手を考えることができるパズルゲームです。時間のプレッシャーはありません。

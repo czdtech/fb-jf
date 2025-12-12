@@ -1,11 +1,9 @@
 ---
 locale: zh
 urlstr: monkey-mart
-title: '[ZH TRANSLATION NEEDED] Monkey Mart'
+title: "《Monkey Mart》猴子超市经营"
 description: >-
-  [ZH TRANSLATION NEEDED] Monkey Mart is a charming and addictive simulation
-  game where players manage a supermarket run by adorable monkeys, harvesting
-  crops, stocking shelves, and serving customers to grow their business.
+  《Monkey Mart》是一款轻松上瘾的经营模拟游戏，你要操控一群可爱的猴子经营超市：种地收菜、加工商品、上架补货、服务顾客，一步步把小店做大。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/monkey-mart.jpg
@@ -19,30 +17,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Game Introduction
+### 游戏介绍
 
-[ZH TRANSLATION NEEDED] "Monkey Mart" is a charming and addictive simulation game where players manage a supermarket run by adorable monkeys. In the game, you need to harvest crops, produce goods, stock shelves, and serve customers to grow and expand your supermarket business. As the game progresses, you can unlock new products, upgrade equipment, and hire more monkey employees to improve efficiency.
+《Monkey Mart》是一款画风可爱、节奏舒适的超市经营模拟游戏。整个超市由一群猴子打理，你扮演的店长需要亲自下地种植香蕉、玉米等农作物，收获后再加工成香蕉牛奶、玉米片等商品，然后把成品摆上货架，招待一波又一波上门的顾客。随着经营规模扩大，你可以解锁更多商品、升级设备，并雇佣更多猴子员工，让超市运转越来越高效。
 
-### Gameplay Strategy
+### 玩法策略
 
-1.  **Plant and Harvest**: Plant crops like bananas and corn in the fields, and harvest them promptly when ripe.
-2.  **Produce Goods**: Process harvested crops into various products, such as banana milk and cornflakes.
-3.  **Stock Shelves**: Place the prepared goods on the supermarket shelves for customers to purchase.
-4.  **Serve Customers**: Customers will come to buy products; you need to respond quickly to ensure their satisfaction.
-5.  **Upgrade and Expand**: Use earned coins to upgrade farmlands, production equipment, and supermarket facilities, unlock new products, and expand the supermarket's size.
+1.  **种植与收获：** 在田地里种下香蕉、玉米等作物，并在成熟后及时收割，保证生产线不断粮。
+2.  **加工商品：** 将收获的农作物送入对应的加工设备，制作成更高价值的成品，例如香蕉奶、爆米花等。
+3.  **货架补货：** 把制作完成的商品摆上货架，方便顾客取用；缺货时要及时补齐热门品类。
+4.  **服务顾客：** 顾客会自动前来挑选商品，你需要保证动线顺畅、供货不断，以提高满意度和结账效率。
+5.  **升级与扩建：** 用赚到的金币升级田地、设备与货架容量，解锁新商品，并扩展超市面积，让整体运营能力持续提升。
 
-### How to Play
+### 操作说明
 
-*   **Movement**: Use the virtual joystick or keyboard arrow keys to control your monkey character's movement.
-*   **Interaction**: When near crops, production equipment, or shelves, your character will automatically perform planting, crafting, or restocking actions.
-*   **Tap/Click**: Tap on screen icons to perform actions like upgrading, hiring employees, etc.
+*   **移动角色：** 使用虚拟摇杆或键盘方向键控制猴子店长在场景中移动。
+*   **自动互动：** 当靠近农田、加工台或货架时，角色会自动进行播种、加工或补货等操作，无需额外按键。
+*   **界面点击：** 通过点击屏幕上的图标进行升级建筑、购买解锁或雇佣新员工等操作。
 
-### Frequently Asked Questions
-1.  [ZH TRANSLATION NEEDED] **Q: How can I earn money quickly in the game?**
-     **A**: The key to earning money quickly is efficient production and fast customer service. Prioritize upgrading production lines and expanding shelves to ensure a sufficient supply of goods.
-2.  [ZH TRANSLATION NEEDED] **Q: How do I unlock new products?**
-     **A**: New crops and manufactured products can be gradually unlocked by upgrading production equipment and expanding the supermarket's scale.
-3.  [ZH TRANSLATION NEEDED] **Q: What are the benefits of hiring employees?**
-     **A**: Hiring employees can automate parts of the work, such as harvesting, crafting, or restocking shelves, thereby improving the overall operational efficiency of the supermarket.
-4.  [ZH TRANSLATION NEEDED] **Q: Is there a time limit in the game?**
-     **A**: The game usually does not have a strict time limit, allowing players to manage at their own pace, but some tasks or challenges might have time requirements.
+### 常见问题
+
+1.  **问：怎样才能更快赚钱？**
+    **答：** 关键在于保持生产线与货架的高效运转。优先升级高销量商品的种植面积和加工速度，并提高自己与员工的移动效率，让补货与结账尽量不断档。
+2.  **问：如何解锁新的商品种类？**
+    **答：** 通过升级加工设备、扩建超市或完成特定任务即可逐步解锁新的农作物和衍生商品，丰富货架结构。
+3.  **问：雇佣员工有什么好处？**
+    **答：** 员工可以帮你自动收割、加工或补货，大幅减轻手动操作压力，让你可以更专注于规划升级与扩张。
+4.  **问：游戏有没有时间压力？**
+    **答：** 一般不会有严格时间限制，你可以按照自己的节奏慢慢经营；部分任务或挑战关卡可能会加入时间目标，增加一点紧张感。

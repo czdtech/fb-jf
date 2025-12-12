@@ -1,12 +1,9 @@
 ---
 locale: fr
 urlstr: 99-nights-in-the-forest
-title: '[FR] 99 Nights in the Forest'
-description: >-
-  [FR] An overview of the indie horror game '99 Nights in the Forest.' Learn
-  about its survival horror gameplay, resource management, and strategies for
-  enduring the terrifying nights in a mysterious, isolated forest.
-iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
+title: "99 Nights in the Forest"
+description: "99 Nights in the Forest est un jeu d’horreur de survie où tu fortifies une cabane isolée, gères tes ressources et essaies de survivre 99 nuits dans une forêt maudite."
+iframeSrc: "https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/"
 thumbnail: /new-images/99-nights-in-the-forest.webp
 tags:
   - horror
@@ -15,56 +12,64 @@ score: 4.7/5  (2765 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+*99 Nights in the Forest* est un jeu d’horreur de survie à la première personne centré sur la gestion des ressources et la défense de base. Bloqué dans une forêt maudite, tu dois tenir 99 nuits consécutives en protégeant une vieille cabane contre des créatures qui attaquent chaque soir.
+
+Le jeu s’articule autour d’un cycle **jour/nuit** très marqué :  
+- **Jour :** période relativement sûre et très courte. Tu dois en profiter pour explorer les environs, couper du bois, ramasser de la ferraille et trouver de la nourriture et de l’eau. Le bois sert à fabriquer des planches, la ferraille à fabriquer des clous pour renforcer la cabane.  
+- **Nuit :** les monstres sortent de la forêt et viennent tester tes défenses. Tu dois rester dans la cabane, barricader les fenêtres, réparer les dégâts et intervenir uniquement si une brèche s’ouvre.
+
+La préparation est essentielle : ton efficacité en journée détermine tes chances de survie la nuit. Plus les nuits passent, plus les ennemis deviennent nombreux, rapides et agressifs. Le jeu utilise aussi un système de **mort permanente** : si tu meurs, ta partie est effacée et tu recommences depuis la première nuit.
+
+### Guide de jeu et stratégies
+
+1. **Première journée : barricader toutes les fenêtres**  
+   Ta priorité absolue au Jour 1 est de rassembler assez de bois et de ferraille pour fabriquer des planches et des clous, puis de condamner chaque fenêtre de la cabane avant la tombée de la nuit.
+
+2. **Priorité des ressources : Bois > Ferraille > Nourriture**
+    *   **Bois :** base de toutes les barricades, tu en auras besoin en grande quantité. Passe une bonne partie de la journée à abattre des arbres.
+    *   **Ferraille :** plus rare, mais indispensable pour fabriquer des clous ; sans clous, impossible de fixer les planches.
+    *   **Nourriture et eau :** importantes pour tes jauges de survie, mais leur consommation est assez lente au début. Assure d’abord ta défense, puis pense au ravitaillement.
 
 
 
+3. **Entretiens tes fortifications**  
+   Les ennemis abîment progressivement les planches. En journée, fais le tour de la cabane pour repérer les barricades fissurées et rajouter une couche de planches si nécessaire. Plus les nuits avancent, plus il faudra superposer les couches pour tenir.
 
+4. **Écoute les sons**  
+   La nuit, le son est ton meilleur allié. Les bruits de pas, de griffes ou de coups sur le bois t’indiquent quelle fenêtre est attaquée. Utilise ces indices pour décider où te placer et où réparer en priorité.
 
-### **99 Nights in the Forest Game Introduction**
+5. **Le combat est un dernier recours**  
+   Tu peux te battre avec une hache ou d’autres outils, mais affronter les monstres à l’intérieur de la cabane est très risqué. Ta meilleure stratégie reste de les garder dehors en maintenant les barricades en bon état.
 
-*99 Nights in the Forest* is a first-person survival horror game focused on resource management and base defense. The player is trapped in a cursed forest with a single objective: survive for 99 consecutive nights by defending a dilapidated cabin from monstrous creatures that attack each night.
+6. **Améliore progressivement ta défense**  
+   Ne te repose jamais sur tes succès des premières nuits. Au fur et à mesure, renforce les fenêtres les plus exposées avec plus de planches et prépare des stocks de ressources pour les nuits difficiles.
 
-The game's core mechanic is its distinct **day-night cycle**:
-*   **[FR]** **Daytime**: A brief and relatively safe period. Players must use this time efficiently to venture into the forest to gather essential resources. This primarily includes: **Wood** (for crafting planks), **Scrap Metal** (for crafting nails), and **Food/Water** (to maintain vitals).
-*   **[FR]** **Nighttime**: When night falls, unknown creatures from the forest awaken and will actively attack the cabin. Players must stay inside, use the resources gathered during the day to craft and fortify defenses (like barricading windows with planks and nails), and be prepared to fight if their defenses are breached.
+### Commandes
 
-The game heavily emphasizes **preparation and planning**. Your efficiency during the day directly determines your chances of survival at night. As the days progress, the number and aggression of the enemies will increase, presenting a tougher challenge to your resource stockpile and defensive strategy. A key feature of the game is **permadeath**—if the player dies, they must start over from Day 1.
+Le jeu utilise des commandes classiques de jeu à la première personne :
 
-### **Gameplay Strategy & Tips**
+- **Se déplacer :** touches `W`, `A`, `S`, `D`  
+- **Regarder autour de soi :** souris  
+- **Sprinting :** maintenir `Shift`  
+- **Sauter :** `Espace`  
+- **Interagir / ramasser / ouvrir une porte :** touche `E`  
+- **Inventaire / fabrication :** `I` ou `Tab`  
+- **Attaquer / utiliser un outil :** clic gauche  
+- **Viser / action secondaire :** clic droit
 
-1.  **[FR]** **Day One Goal: Barricade All Windows**: Your sole objective on your first day should be to gather enough wood and scrap metal to craft planks and nails and board up every single window in the cabin before nightfall. This is the most basic requirement for surviving the early nights.
-2.  **[FR]** **Resource Priority: Wood > Scrap Metal > Food**:
-    *   **[FR]** **Wood** is the foundation of your defense and is needed in large quantities. You should spend a significant portion of each day chopping trees.
-    *   **[FR]** **Scrap Metal** is used to craft nails, without which you cannot install planks. It is often harder to find than wood and requires careful searching.
-    *   **[FR]** **Food and Water**, while essential, are consumed relatively slowly in the beginning. Focus on securing your defenses before you go on extensive searches for sustenance.
-3.  **[FR]** **Fortifications Require Maintenance**: Enemies will damage the planks on your windows. During the day, you need to inspect and repair damaged barricades. In later stages, you may need to apply two or even three layers of planks to withstand more ferocious attacks.
-4.  **[FR]** **Sound is a Critical Alarm**: While inside the cabin at night, listen carefully. You can use the sounds of footsteps, impacts, and growls to pinpoint the location and number of enemies, allowing you to anticipate which barricade is being targeted and prepare for repairs or a fight.
-5.  **[FR]** **Combat is a Last Resort**: While you can fight back with tools like an axe, it is extremely risky. Your primary goal is to **keep the enemies out**, not to kill them. You are only forced to fight when a barricade is completely destroyed and an enemy enters the cabin.
-6.  **[FR]** **Upgrade Progressively**: Don't get complacent. As the game progresses, you must continuously reinforce your defenses. For example, use more planks and nails to upgrade your window barricades, making them more durable.
+### Foire aux questions (FAQ)
 
-### **Controls Guide**
+**Q : Peut‑on tuer les ennemis ?**  
+**R :** Oui, tu peux tuer les créatures si elles parviennent à entrer dans la cabane, en les attaquant avec ta hache ou d’autres armes. Mais cela signifie que tes défenses ont été brisées ; l’idéal est de les maintenir à l’extérieur.
 
-The game uses standard first-person controls.
+**Q : Que se passe‑t‑il si je meurs ?**  
+**R :** Le jeu utilise un système de mort permanente. Si tu meurs, ta sauvegarde est supprimée et tu dois recommencer depuis la Nuit 1.
 
-*   **[FR]** **Move**: `W`, `A`, `S`, `D` keys
-*   **[FR]** **Look**: Mouse
-*   **[FR]** **Sprint**: Hold `Shift` key
-*   **[FR]** **Jump**: `Space Bar`
-*   **[FR]** **Interact / Pick Up / Open Door**: `E` key
-*   **[FR]** **Inventory / Crafting Menu**: `I` or `Tab` key
-*   **[FR]** **Use Tool / Attack**: `Left Mouse Button`
-*   **[FR]** **Aim / Secondary Action**: `Right Mouse Button`
+**Q : Comment survivre à la première nuit ?**  
+**R :** Coupe plusieurs arbres pour récupérer du bois, fouille les alentours pour trouver de la ferraille, puis fabrique des planches et des clous via l’inventaire. Avant la nuit, barricade toutes les fenêtres, ferme la porte et reste à l’intérieur en écoutant les bruits pour savoir où les ennemis frappent.
 
-### **Frequently Asked Questions (FAQ)**
+**Q : Où trouver de la ferraille ?**  
+**R :** Elle apparaît généralement au sol dans la forêt ou près de certains points d’intérêt. Les emplacements sont en grande partie aléatoires, ce qui t’oblige à explorer pendant la journée.
 
-**1. Can the enemies in the game be killed?**
-Yes. If an enemy breaches your defenses and enters the cabin, you can attack it with an axe or other weapons until it is dead. However, this usually means your defense has failed and you are in a very dangerous situation. Therefore, the core strategy should always be defense, not offense.
-
-**2. What happens if I die?**
-The game features a **permadeath** mechanic. This means that if you die, your save file is deleted, and you must start the entire game over from Night 1, losing all prior progress.
-
-**3. How do I survive the first night?**
-On the first day, chop down at least 2-3 trees to get enough logs and search the surrounding ground for scrap metal. Open your inventory to craft the logs into planks and the scrap metal into nails. Before sunset, use the planks and nails to barricade all the windows (usually by pressing `E` to interact). After dark, stay inside, close the door, and listen carefully to the sounds outside.
-
-**4. Where can I find Scrap Metal?**
-Scrap metal is usually found scattered on the forest floor or near certain landmarks. Its spawn locations are random, requiring players to explore carefully during the day. It is the only material for crafting nails and is therefore critically important.

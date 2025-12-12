@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: ludo-legend
-title: '[DE] Ludo Legend'
+title: Ludo Legend
 description: >-
-  [DE] Become a Ludo Legend in this classic board game. Roll the dice, move your
-  tokens, and race to the center of the board before your opponents.
+  Werde zur Ludo-Legende in diesem klassischen Brettspiel. Würfle, bewege deine
+  Figuren und renne schneller ins Ziel als deine Gegner.
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/ludo-legend.png
 tags:
@@ -16,34 +16,64 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Ausführliche Spielbeschreibung
 
+Ludo Legend ist eine liebevolle Digitalversion des beliebten Klassikers Ludo.
+Das Spiel ist ein Wettlauf ins Ziel: Jede Person startet mit vier Figuren im
+Startbereich und versucht, sie einmal über das Brett und anschließend in die
+Heimspur zu führen. Du würfelst, bewegst Figuren, schlägst gegnerische Steine
+zurück in den Start und versuchst, als Erste:r alle eigenen Figuren ins Ziel zu
+bringen.
 
+### Strategie & Tipps
 
-### Detailed Game Introduction
+1.  **Aus dem Start kommen**  
+    Um eine Figur aus dem Startfeld aufs Brett zu bringen, brauchst du eine
+    Sechs. Versuche früh, zumindest eine Figur ins Spiel zu bringen – jede
+    weitere Sechs gibt dir einen zusätzlichen Wurf.
 
-Ludo Legend is a fantastic digital version of the beloved classic board game, Ludo. The game is a race to the finish! Each player has four tokens and the goal is to get all of them from the starting yard, around the entire board, and into the home column. Play against computer opponents, roll the dice, and use strategy to capture your opponents' tokens and send them back to the start. Become a Ludo Legend by being the first to get all your tokens home!
+2.  **Mehrere Figuren aktiv halten**  
+    Sobald du kannst, spiele mit mehreren Figuren gleichzeitig. So hast du bei
+    jedem Wurf mehrere Optionen und bist weniger anfällig für einzelne Schläge.
 
-### Gameplay Strategy & Walkthrough
+3.  **Gegner schlagen**  
+    Landest du auf einem Feld mit einer einzelnen gegnerischen Figur, schickst
+    du sie zurück ins Startfeld. Nutze das, um die anderen zurückzuwerfen –
+    besonders kurz vor deren Heimspur.
 
-1.  **[DE]** **Getting Out of the Yard:** You must roll a six to move a token from your starting yard onto the game board. Prioritize getting at least one token into play as soon as possible.
-2.  **[DE]** **Strategic Movement:** Once you have tokens on the board, you can choose which one to move based on your dice roll. It's often wise to have multiple tokens in play to give you more options.
-3.  **[DE]** **Capturing Opponents:** If you land on a square occupied by a single opponent's token, you capture it and send it back to their yard. This is a key way to set back your competition.
-4.  **[DE]** **Safety in Numbers:** Landing two of your own tokens on the same space creates a block. Opponents cannot pass a block, making it a powerful defensive strategy.
-5.  **[DE]** **The Home Stretch:** To win, you must move all four of your tokens into your colored home column and then into the final home triangle. You need an exact dice roll to move a token into the home triangle.
+4.  **Blocks bilden**  
+    Stellst du zwei eigene Figuren auf das gleiche Feld, entsteht ein Block,
+    den andere nicht passieren können. Das ist ein starkes defensives Mittel,
+    um Engstellen zu sichern.
 
-### Controls Guide
+5.  **Heimspur im Blick behalten**  
+    Für den letzten Schritt ins Ziel brauchst du stets die exakte Augenzahl.
+    Plane deine Züge so, dass du möglichst viele „gute Zahlen“ verwerten
+    kannst.
 
-*   **[DE]** **Roll Dice:** Click on the dice to roll it.
-*   **[DE]** **Move Token:** After rolling, the game will highlight your possible moves. Click on the token you wish to move.
+### Steuerung
 
-### Frequently Asked Questions (FAQ)
+*   **Würfeln:** Auf den Würfel klicken, um ihn zu rollen.  
+*   **Figur bewegen:** Nach dem Wurf zeigt dir das Spiel die erlaubten Züge an;
+    klicke auf die Figur, die du bewegen möchtest.
 
-*   **[DE]** **Q: What is the objective of Ludo?**
-    *   **[DE]** **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.
+### FAQ
 
-*   **[DE]** **Q: What happens when I roll a six?**
-    *   **[DE]** **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
+*   **F: Was ist das Ziel von Ludo?**  
+    **A:** Als Erste:r alle vier eigenen Figuren vom Startfeld über das Brett
+    in das eigene Zielfeld zu bringen.
 
-*   **[DE]** **Q: Can I pass my own tokens?**
-    *   **[DE]** **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
+    - **F: Was passiert bei einer gewürfelten Sechs?**  
+    **A:** Du kannst eine Figur aus dem Start auf das Brett bringen und erhältst
+    außerdem einen Extrawurf.
 
+*   **F: Kann ich über eigene Figuren hinwegziehen?**  
+
+    - **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
+
+- **Q: Can I pass my own tokens?**
+
+    - **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
+    **A:** Ja, du kannst an ihnen vorbeiziehen. Hast du jedoch zwei eigene
+    Figuren auf einem Feld als Block, kannst du dort keine dritte Figur
+    platzieren.

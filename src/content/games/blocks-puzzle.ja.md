@@ -1,81 +1,41 @@
 ---
+title: "Blocks Puzzle ブロックス・パズル"
+description: "「Blocks Puzzle」は10x10グリッドに挑む、中毒性の高い定番ブロックパズル。戦略的な配置でラインを消し、コンボを決めてハイスコアを目指そう。"
+iframeSrc: "https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/"
+thumbnail: "/new-images/blocks-puzzle.jpg"
+urlstr: "blocks-puzzle"
+score: "4.2/5  (1765 votes)"
+tags: ["puzzle", "casual", "thinky"]
+developer: ""
+releaseDate: 2025-10-18
 locale: ja
-urlstr: blocks-puzzle
-title: '[JA TRANSLATION NEEDED] Blocks Puzzle'
-description: >-
-  [JA TRANSLATION NEEDED] Blocks Puzzle is a classic and addictive block puzzle
-  game. Your goal is to fit blocks of different shapes into a 10x10 grid.
-iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
-thumbnail: /new-images/blocks-puzzle.jpg
-tags:
-  - puzzle
-  - casual
-  - thinky
-score: 4.2/5  (1765 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### ゲーム紹介
 
-### Detailed Game Introduction
+*Blocks Puzzle（ブロックス・パズル）*は、空間認識力に挑戦するクラシックで魅力的なパズルゲームです。目的はシンプルです。様々な形のブロックを10x10のグリッドにはめ込むこと。縦または横の列（ライン）が完全に埋まると、そのラインは消去され、スペースが空き、ポイントが入ります。与えられたどのブロックも盤面に置けなくなったらゲームオーバーです。時間制限はないので、戦略的に考えてハイスコアを目指しましょう。
 
-[JA TRANSLATION NEEDED] Blocks Puzzle is a classic and engaging puzzle game that challenges your spatial reasoning. The objective is simple: fit variously shaped blocks onto a 10x10 grid. When you complete a full row or column, the line clears, freeing up space and earning you points. The game ends when you can no longer place any of the given blocks on the grid. With no time limit, you can think strategically to achieve the highest score.
+### ゲーム攻略と戦略
 
-### Gameplay Strategy & Walkthrough
+1.  **先を読む：** 配られた3つのブロックを見てください。1つ置く前に、残りの2つがどう収まるか、そしてその手が将来の盤面にどう影響するかを考えましょう。
+2.  **ライン消去を優先：** とにかく盤面をスッキリさせておくことが最重要です。たとえ良さそうなスペースを潰してしまうとしても、ラインを消せるなら消してしまった方が安全な場合が多いです。
+3.  **コンボを作る：** 1つのブロックを置いて複数のラインを同時に消すと「コンボボーナス」が発生し、スコアが跳ね上がります。意図的に盤面を整えて、マルチライン・クリア（同時消し）を狙いましょう。
+4.  **中央を塞がない：** 真ん中から埋めたくなりますが、そうするとグリッドが分断されやすくなります。できるだけ角や端から埋めていき、盤面の中央は大きくて扱いにくいピースのために空けておくのが賢い戦略です。
+5.  **難しい形を管理する：** 3x3の正方形や、5マスの長い棒などは大量のスペースを必要とします。これらのピースが来たら、最優先ですぐに使いましょう。「とりあえず後で」と残しておくと、置ける場所がなくなって詰むリスクが高いです。
 
-[JA TRANSLATION NEEDED] 1.  **Plan Ahead:** Look at the three blocks you are given. Before placing one, consider how the other two might fit and how your move will affect the board's future state.
-[JA TRANSLATION NEEDED] 2.  **Prioritize Clearing Lines:** Your main goal is to keep the board as clear as possible. Always look for opportunities to clear lines, even if it means sacrificing a seemingly good spot for a single block.
-[JA TRANSLATION NEEDED] 3.  **Create Combos:** Clearing multiple lines with a single block placement will grant you a combo bonus and a significantly higher score. Try to set up the board to enable these multi-line clears.
-[JA TRANSLATION NEEDED] 4.  **Don't Clog the Center:** It's tempting to fill the middle of the board first, but this can quickly lead to a clogged grid. Try to build from the corners and edges, keeping the center open for larger or more awkward pieces.
-[JA TRANSLATION NEEDED] 5.  **Manage Difficult Shapes:** Some pieces, like the 3x3 square or the long straight line, require a lot of space. Try to use them as soon as you get them or ensure you have a dedicated space ready for them. Leaving them for later can be risky.
+### 操作ガイド
 
-### Controls Guide
+*   **ドラッグ＆ドロップ：** マウスを使って選択エリアからブロックを掴み、グリッド上へドラッグします。
+*   **配置：** ドロップしてブロックを置きます。
+*   **回転なし：** このバージョンのゲームでは、ブロックを回転させることはできません。そのままの向きではめ込む必要があります。
 
-*   **Drag and Drop:** Use your mouse to click and drag a block from the selection area onto the grid.
-    - **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.（日本語訳が必要）
-    - **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.（日本語訳が必要）
-    - **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.（日本語訳が必要）
-    - **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.（日本語訳が必要）
-    - **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.（日本語訳が必要）
-    - **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.（日本語訳が必要）
-*   **Placement:** Release the mouse button to place the block in the desired position.
-*   **No Rotation:** In this version of the game, blocks cannot be rotated. You must use them in the orientation they are given.
+### よくある質問 (FAQ)
 
-### Frequently Asked Questions (FAQ)
+*   **Q: ブロックを回転できますか？**
+    *   **A:** いいえ、このクラシックバージョンのブロックパズルには回転機能はありません。その不自由さがこのゲームの挑戦の一部です。
 
-*   **Q: Can I rotate the blocks?**
-[JA TRANSLATION NEEDED]     *   **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.
+*   **Q: どうすればもっと高い点数が取れますか？**
+    *   **A:** 複数のラインを同時に消す「コンボ」を狙うのが一番の近道です。1列ずつ消すよりも、2列、3列まとめて消すと得点が倍増します。
 
-*   **Q: How do I get a higher score?**
-
-### コントロールガイド
-[JA TRANSLATION NEEDED]     *   **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.
-
-*   **Q: What happens when I run out of moves?**
-
-
-
-
-
-
-
-
-
-    - **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.
-- **Q: What happens when I run out of moves?**
-    - **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.
-- **Q: How do I get a higher score?**
-    - **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.
-- **Q: Can I rotate the blocks?**
-### よくある質問（FAQ）
-- **No Rotation:** In this version of the game, blocks cannot be rotated. You must use them in the orientation they are given.
-
-    - **A:** No, in this classic version of the block puzzle, rotation is not a feature. This adds to the challenge of the game.
-- **Placement:** Release the mouse button to place the block in the desired position.
-
-
-
-    - **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.
-- **Q: What happens when I run out of moves?**
-    - **A:** Focus on clearing multiple lines at once to get combo bonuses. The more lines you clear with a single piece, the more points you'll earn.
-[JA TRANSLATION NEEDED]     *   **A:** The game ends when none of the three available blocks can be placed on the grid. Your final score is then recorded.
-
+*   **Q: 動けなくなったら（手詰まりになったら）どうなりますか？**
+    *   **A:** 手持ちの3つのブロックのどれもグリッドに置けなくなった時点でゲーム終了となり、そこまでのスコアが記録されます。

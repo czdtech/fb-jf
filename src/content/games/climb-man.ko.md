@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: climb-man
-title: '[KO] Climb Man'
+title: Climb Man 클라임 맨
 description: >-
-  [KO] Master the fast-paced arcade game, Climb Man: Walk to the Sky. This guide
-  provides expert strategies for timing your climbs, avoiding obstacles, and
-  unlocking new characters to reach the highest score.
+  Climb Man: Walk to the Sky는 왼쪽·오른쪽 발판을 번갈아 밟으며 하늘 끝까지 올라가는 아케이드 러너 게임입니다. 타이밍
+  좋게 버튼을 눌러 계단을 오르고, 장애물을 피해 최고 기록에 도전해 보세요.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/climb-man.png
 tags:
@@ -15,45 +14,66 @@ score: 3.9/5  (1658 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
+*Climb Man: Walk to the Sky*는 끝없이 이어지는 지그재그 계단을 얼마나 높이까지
+오를 수 있는지를 겨루는 빠른 템포의 아케이드 게임입니다. 화면 아래에 서 있는
+캐릭터를 조작해, 다음 계단이 왼쪽인지 오른쪽인지에 맞춰 해당 버튼을 눌러 한
+칸씩 올라가야 합니다.
 
+게임이 진행될수록 계단 생성 속도가 빨라지고, 로프·장애물 등 다양한 방해 요소가
+등장해 리듬과 판단력을 시험합니다. 한 번이라도 잘못된 방향으로 점프하거나 타이밍을
+놓치면 그대로 추락해 게임이 종료되므로, 안정적인 리듬 유지가 중요합니다.
 
+### 플레이 전략 & 팁
 
-### **Game Introduction**
+1.  **자신만의 리듬 찾기**  
+    이 게임은 반응력뿐 아니라 리듬감도 중요한 편입니다. 계단 패턴에 맞춰
+    "왼-오-왼" 또는 "오-오-왼"처럼 손가락 리듬을 몸에 익히면, 눈으로 하나씩
+    확인하는 것보다 실수가 줄어듭니다.
 
-*Climb Man: Walk to the Sky* is a fast-paced and addictive arcade climber that tests your timing and reflexes. The objective is to **climb an endless, zig-zagging staircase as high as possible without falling or being hit by obstacles.**
+2.  **캐릭터보다 두세 칸 위를 보기**  
+    시선을 캐릭터에 두지 말고, 항상 두세 계단 위를 보면서 다음 패턴을
+    미리 읽어 두세요. 이렇게 하면 버튼을 누르기 전에 이미 머릿속으로 입력
+    순서를 정리해 둘 수 있습니다.
 
-Players control a character who stands at the bottom of a staircase. By tapping the "Left Climb!" or "Right Climb!" buttons, the character will jump to the next step in that direction. You must tap the correct button corresponding to the next step's location.
+3.  **장애물에서 당황하지 않기**  
+    로프나 기타 장애물은 리듬을 무너뜨리기 위한 요소입니다. 장애물을 본 순간
+    잠깐 멈춰 안전한 경로를 확인한 뒤, 다시 리듬을 되찾는 것이 중요합니다.
+    서두르다가 잘못된 방향으로 뛰어 떨어지는 것보다는 잠시 속도를 줄이는 편이
+    낫습니다.
 
-The challenge comes from the increasing speed and the appearance of various obstacles, such as ropes or other hazards, that you must avoid. A single mistimed tap or a wrong directional choice will cause your character to fall, ending the run. The goal is to climb as many steps as possible to achieve a high score, complete missions, and unlock new characters.
+4.  **연속 같은 방향 "더블 탭" 연습**  
+    같은 방향 계단이 두 번, 세 번 연속 등장하는 경우가 많습니다. 이때는 같은
+    버튼을 빠르게 두 번(또는 세 번) 연속 탭해야 하므로, 손가락이 한쪽에만
+    몰리지 않도록 양손을 균형 있게 사용하는 것이 좋습니다.
 
-### **Gameplay Strategy & Tips**
+5.  **미션과 출석 보상 활용**  
+    게임에는 미션, 출석 체크, 골드·다이아 등 메타 보상이 존재합니다. 매일 접속해
+    출석 보상을 받고, 간단한 미션을 완료해 캐릭터 해금에 필요한 재화를 모아
+    두면 플레이 동기가 더 높아집니다.
 
-1.  **[KO]** **Find Your Rhythm**: This is a rhythm-based game at its core. Don't just react to each step as it comes. Try to get into a steady "tap-tap-tap" rhythm that matches the flow of the stairs.
-2.  **[KO]** **Look Ahead, Not at Your Character**: Your focus should be two or three steps ahead of your character. This allows you to anticipate the pattern of the stairs (e.g., left-right-left vs. left-left-right) and mentally prepare your next sequence of taps.
-3.  **[KO]** **Don't Panic at Obstacles**: Obstacles are designed to break your rhythm and cause a mistake. When you see an obstacle, stay calm, identify the safe path, and continue your climb. A brief pause to assess is better than a panicked wrong move.
-4.  **[KO]** **Master the "Double Tap"**: You will frequently encounter two consecutive steps on the same side. Be ready to quickly tap the same button twice in a row. This is a common point where players lose their rhythm.
-5.  **[KO]** **Complete Missions and Daily Rewards**: As the screenshots show, the game has a meta-progression system with missions, daily check-ins ("Attendance Check"), and currency (gold and diamonds). Log in daily and focus on completing missions to earn currency, which can be used to unlock new characters (like the "Swordsman") and potentially power-ups.
-6.  **[KO]** **Use Two Thumbs**: For maximum speed and control, play with both thumbs, hovering over the left and right buttons, respectively. This is much faster and more accurate than using a single finger.
+6.  **양손 플레이 추천**  
+    왼손 엄지는 왼쪽 버튼, 오른손 엄지는 오른쪽 버튼 위에 두고 플레이하면
+    한 손으로 번갈아 누를 때보다 반응 속도와 정확도가 높아집니다.
 
-### **Controls Guide**
+### 조작 방법
+
 
 The controls are extremely simple, designed for fast-paced mobile gameplay.
+-   **왼쪽 계단 오르기:** 화면 왼쪽 하단의 "Left Climb!" 버튼을 탭합니다.
+-   **오른쪽 계단 오르기:** 화면 오른쪽 하단의 "Right Climb!" 버튼을 탭합니다.
 
-*   **[KO]** **Climb Left**: Tap the **"Left Climb!"** button on the bottom left of the screen.
-*   **[KO]** **Climb Right**: Tap the **"Right Climb!"** button on the bottom right of the screen.
+### 자주 묻는 질문 (FAQ)
 
-### **Frequently Asked questions (FAQ)**
+**1. 잘못된 버튼을 누르면 어떻게 되나요?**  
+> 다음 계단이 왼쪽인데 오른쪽 버튼을 누르는 식으로 잘못 입력하면, 캐릭터가
+> 허공으로 뛰어 떨어져 즉시 게임이 종료됩니다.
 
-**1. What happens if I press the wrong button?**
-If you press "Left Climb!" when the next step is on the right (or vice versa), your character will jump into the empty space and fall, ending the game.
+**2. 새 캐릭터는 어떻게 해금하나요?**  
+> 출석 체크 보상으로 얻거나, 게임 내 상점/캐릭터 메뉴에서 골드·다이아를 사용해
+> 해금할 수 있습니다. 특정 미션을 달성해야 열리는 캐릭터도 있을 수 있습니다.
 
-**2. How do I get new characters?**
-As shown in the "Attendance Check" screen, you can unlock characters like the "Swordsman" by logging in for consecutive days. You can also likely purchase new characters from the "Shop" or unlock them through the "Character" menu using the gold and diamonds you earn from playing and completing missions.
-
-**3. What is the goal of the game?**
-The primary goal is to achieve the highest score possible by climbing the most steps in a single run. A secondary goal is to complete missions and collect all the available characters.
-
-**4. Is this game endless?**
-Yes, the main gameplay mode is an endless climber where the stairs are procedurally generated, and you climb until you make a mistake.
-
+**3. 이 게임은 엔드가 있나요?**  
+> 기본 모드는 끝이 없는 엔드리스 클라이머입니다. 계단 패턴이 계속 생성되며,
+> 실수하는 순간까지 얼마나 높은 점수를 기록할 수 있는지가 관건입니다.

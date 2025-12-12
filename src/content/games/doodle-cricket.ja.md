@@ -1,42 +1,50 @@
 ---
-locale: ja
-urlstr: doodle-cricket
-title: '[JA TRANSLATION NEEDED] Doodle Cricket'
-description: >-
-  [JA TRANSLATION NEEDED] Doodle Cricket is a casual cricket mini‑game: time
-  your swings to score runs while avoiding outs.
+title: Doodle Cricket ドゥードゥル・クリケット
+description: 「Doodle Cricket」手軽に遊べるクリケットのミニゲーム。タイミングよくスイングしてランを稼ぎ、アウトを避けながらハイスコアを目指そう。
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/doodle-cricket.jpg
+urlstr: doodle-cricket
+score: 4.2/5  (485 votes)
 tags:
   - sports
   - arcade
-score: 4.2/5  (485 votes)
+developer: Google
 releaseDate: 2025-08-16T00:00:00.000Z
+locale: ja
 ---
 
+### ゲーム紹介
+
+*Doodle Cricket（ドゥードゥル・クリケット）*は、もともとGoogleのDoodle（記念日ロゴ）として公開された、誰でも楽しめるクリケットゲームです。
+クリケットの打者（バッツマン）となり、ボウラー（投手）が投げる様々な球種のボールも、タイミングよく打ち返しましょう。守備（フィールダー）の間を抜いてラン（得点）を稼ぎ、ウィケット（三柱門）を守り続けてハイスコアを目指します。
+
+### 遊び方
+
+*   **バッティング:** ボールのタイミングに合わせてタップ（またはクリック）し、バットを振ります。うまく守備の隙間を抜ければ1〜6点のランが入ります。
+*   **アウト:** フライをキャッチされたり、ボールが後ろのウィケットに当たったりするとゲームオーバーです。
 
 
-### Overview
-[JA TRANSLATION NEEDED] Google’s playable cricket doodle: batters time swings to send the ball past fielders while the bowler varies speed and type. Runs accumulate until you’re out.
-
-### How to Play
-- Tap/Click to swing as the ball arrives; aim for gaps to score 1–6 runs.
-- Watch bowler tells (slow/fast) and bounce; late swings tend to slice to off‑side.
 - Your innings ends on a catch or a bowled/lbw; chase a new high score.
+### 操作ガイド
 
-### Controls
-- Mouse/Touch: single tap/click to bat. Timing determines placement and power.
+*   **スイング:** マウスの左クリック、または画面タップのみ。タイミングが全てです。
 
-### Tips
-- Don’t pre‑swing—react to release and bounce.
-- Favor ground strokes early; go aerial only when gaps are clear.
-- Adjust to slower deliveries; wait a fraction longer.
+### 攻略のヒント
 
-### FAQ
-- Q: Can I hit 6s consistently?  
-[JA TRANSLATION NEEDED]   A: Yes, with late‑but‑clean contact when field is spread.
-- Q: Does difficulty ramp?  
-[JA TRANSLATION NEEDED]   A: Bowling speed/patterns vary as score increases.
-- Q: How is score saved?  
-[JA TRANSLATION NEEDED]   A: Typically local/session only.
+*   **じっくり見る:** ボウラーの投げる位置や、ボールの速度（遅い球、速い球）をよく観察しましょう。「山なりの遅い球」は手元に引きつけてから振るのがコツです。
+*   **低く打つ:** 最初はフライを打ち上げず、ゴロで確実にランを稼ぐのが安全です。守備が遠くに散らばってから長打（6ラン）を狙いましょう。
+*   **空振りを恐れない:** アウトにならなければ空振りしてもカウントされません（ストライクはありません）。無理に振らず、確実な球を狙うのも手です。
 
+### よくある質問 (FAQ)
+
+*   **Q: どうやって6点（シックス）を取りますか？**
+
+A: Yes, with late‑but‑clean contact when field is spread.
+- **A:** ボールを芯で捉え、完璧なタイミングで打ち返すと場外ホームランのような演出で6点が入ります。
+
+
+A: Bowling speed/patterns vary as score increases.
+*   **Q: 難易度は上がりますか？**
+
+A: Typically local/session only.
+    *   **A:** 得点が増えるにつれ、変化球や速球が増え、守備の配置も変わっていきます。

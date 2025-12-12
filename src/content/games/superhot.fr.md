@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: superhot
-title: '[FR] Superhot'
+title: Superhot
 description: >-
-  [FR] Superhot is an innovative first-person shooter where time moves only when
-  you move, creating a unique tactical puzzle experience that combines action
-  with strategic planning.
+  Superhot est un FPS tactique unique où le temps ne s’écoule vraiment que
+  lorsque tu bouges, transformant chaque affrontement en puzzle stratégique au
+  ralenti.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/superhot.jpg
 tags:
@@ -16,36 +16,55 @@ score: 3.9/5  (1186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Présentation du jeu
+
+Dans Superhot, tu avances dans des niveaux remplis d’ennemis et de balles…
+mais le temps se fige presque dès que tu t’arrêtes. Chaque mouvement relance
+le temps, ce qui fait de chaque pas, tir ou regard un véritable choix
+stratégique.
+
+### Conseils de gameplay
+
+1. **Gestion du temps :** reste immobile pour analyser la scène, bouge par
+   petites impulsions pour repositionner le temps.
+2. **Récupère des armes :** désarme les ennemis à courte portée ou ramasse ce
+   qui traîne au sol (armes à feu, objets à lancer).
+3. **Esquive les balles :** observe la trajectoire des projectiles au ralenti
+   et décale‑toi au dernier moment.
+4. **Vise précis :** privilégie les tirs à la tête ou aux points vitaux pour
+   éliminer rapidement.
+5. **Utilise le décor :** colonnes, murs et objets servent de couverture ou
+   de projectiles improvisés.
+
+### Commandes
+
+- **Déplacement :** ZQSD / WASD  
+- **Caméra :** souris  
+- **Tir :** clic gauche  
+- **Ramasser / lancer :** selon la version, approche‑toi d’un objet pour le
+
+- **Q: How does the time mechanism work?**
+
+### Foire aux questions
+  prendre automatiquement ou utilise une touche dédiée.
+
+
+- **Q: How do I get weapons?**
+Superhot est à mi‑chemin entre shooter et puzzle : réfléchis avant de bouger.
 
 
 
-
-### Game Introduction
-
-"Superhot" is an innovative first-person shooter where time moves only when you move, creating a unique tactical puzzle experience that combines action with strategic planning. Players need to precisely plan every move in a slow-motion world.
-
-### Gameplay Strategy
-
-1.  **[FR]** **Time Control**: Time almost stops when standing still, returns to normal speed when moving.
-2.  **[FR]** **Weapon Acquisition**: Take weapons from enemies' hands or pick up items from the ground.
-3.  **[FR]** **Bullet Dodging**: Use slow-motion effects to observe and dodge incoming bullets.
-4.  **[FR]** **Precise Shooting**: Aim for enemies' heads or vital body parts for one-hit kills.
-5.  **[FR]** **Environmental Usage**: Use cover and environmental objects for protection.
-
-### How to Play
-
-*   **[FR]** **Movement**: WASD keys control character movement.
-*   **[FR]** **View**: Mouse controls view rotation.
-*   **[FR]** **Shooting**: Left click to shoot.
-*   **[FR]** **Pickup**: Automatically pick up weapons or items when close.
-
-### Frequently Asked Questions
-
-1.  **[FR]** **Q: How does the time mechanism work?**
-**A**: When you stop moving and rotating view, time almost completely stops, giving you time to think strategically.
-2.  **[FR]** **Q: How do I get weapons?**
-**A**: Take them from defeated enemies or find available weapons in the scene.
-3.  **[FR]** **Q: How can I effectively avoid attacks?**
-**A**: Use the slow-motion time effect to observe bullet trajectories and move to dodge in time.
-4.  **[FR]** **Q: How many levels are in the game?**
 **A**: The prototype version usually contains several levels, each with different challenges and enemy configurations.
+
+- **Q: How many levels are in the game?**
+
+**A**: Use the slow-motion time effect to observe bullet trajectories and move to dodge in time.
+
+- **Q: How can I effectively avoid attacks?**
+
+
+**A**: The prototype version usually contains several levels, each with different challenges and enemy configurations.
+
+- **Q: How many levels are in the game?**
+
+**A**: Use the slow-motion time effect to observe bullet trajectories and move to dodge in time.
